@@ -4,7 +4,7 @@ identifier: "MIC-ley-del-sistema-de-seguridad-publica-del-estado-de-69314"
 country: "mx"
 rank: "ley"
 publication_date: "2009-07-21"
-last_updated: "2011-01-03"
+last_updated: "2011-07-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69314&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DEL SISTEMA DE SEGURIDAD PUBLICA DEL ESTADO DE MICHOACAN DE OCAMPO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE ENERO DE 2011.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE JULIO DE 2011.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Michoacán, el martes 21 de julio de 2009.
 
@@ -89,9 +89,11 @@ III. Las medidas de protección integral; y,
 
 IV. El respeto de los derechos constitucionales y humanos.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE JULIO DE 2011)</small>
+
 ###### Artículo 7.
 
-Para efectos de esta Ley, se entiende por:
+Para los efectos de esta Ley, se entiende por:
 
 I. Academias: Las instituciones de formación, de capacitación, actualización y de profesionalización policial;
 
@@ -105,7 +107,9 @@ V. Carrera Pericial: El Servicio Profesional de Carrera Pericial;
 
 VI. Carrera Policial: El Servicio Profesional de Carrera Policial;
 
-VII. Centro: El Centro Estatal de Evaluación, Acreditación y Control de Confianza;
+> <small>(REFORMADA, P.O. 22 DE JULIO DE 2011)</small>
+
+VII. Centro: El Centro Estatal de Certificación, Acreditación y Control de Confianza;
 
 VIII. Consejo Municipal: El Consejo Municipal de Seguridad Pública;
 
@@ -143,7 +147,9 @@ XXIV. Programa: El Programa Estatal de Seguridad Pública;
 
 XXV. Secretaría: La Secretaría de Seguridad Pública;
 
-XXVI. Secretario Ejecutivo: El Secretario Ejecutivo del Consejo Estatal de Seguridad Pública;
+> <small>(REFORMADA, P.O. 22 DE JULIO DE 2011)</small>
+
+XXVI. Secretario Ejecutivo: El Titular del Secretario Ejecutivo del Sistema Estatal de Seguridad Pública;
 
 XXVII. Servidores Públicos Municipales: El Director de Seguridad Pública y el Suboficial de Policía; y
 
@@ -165,9 +171,11 @@ II. Consejos municipales; y,
 
 III. Consejos intermunicipales.
 
+> <small>(REFORMADO, P.O. 22 DE JULIO DE 2011)</small>
+
 ###### Artículo 10.
 
-Las instituciones públicas podrán ser coparticipes con las instancias que conforman el Sistema, en la formulación de estudios, implementación de acciones y formulación de políticas públicas que permitan alcanzar los fines de la Seguridad Pública.
+Las instituciones públicas, privadas, organismos no gubernamentales y sociedad civil constituida, podrán ser coparticipes con las instancias que conforman el Sistema, en la formulación de estudios, implementación de acciones y formulación de políticas públicas que permitan alcanzar los fines de la Seguridad Pública.
 
 ### CAPÍTULO TERCERO. AUTORIDADES ESTATALES Y SUS ATRIBUCIONES
 
@@ -205,9 +213,17 @@ VIII. Coadyuvar en los operativos de seguridad implementados por otras instituci
 
 IX. Implementar los mecanismos para el establecimiento del informe policial homologado, que se señala en la Ley;
 
-X Implementar las políticas y los programas rectores para la capacitación y profesionalización del personal de la Procuraduría; y,
+> <small>(REFORMADA, P.O. 22 DE JULIO DE 2011)</small>
 
-XI. Las demás que .se señalen en otras disposiciones normativas aplicables.
+X. Implementar las políticas y los programas rectores para la capacitación y profesionalización del personal de la Procuraduría;
+
+> <small>(REFORMADA, P.O. 22 DE JULIO DE 2011)</small>
+
+XI. Atender quejas y denuncias de la ciudadanía en contra del personal de la Procuraduría por presuntas infracciones a la Ley, a través de las unidades administrativas competentes; y,
+
+> <small>(ADICIONADA, P.O. 22 DE JULIO DE 2011)</small>
+
+XII. Las demás que se señalen en otras disposiciones normativas aplicables.
 
 ###### Artículo 13.
 
@@ -221,7 +237,9 @@ III. Evaluar el desempeño de los servicios auxiliares de seguridad;
 
 IV. Presidir la Comisión de Honor y Justicia de las corporaciones estatales de Seguridad Pública y de la policía auxiliar;
 
-V. Atender quejas y denuncias del personal de la Secretaría por presuntas infracciones a la Ley, a través de las unidades administrativas competentes;
+> <small>(REFORMADA, P.O. 22 DE JULIO DE 2011)</small>
+
+V. Atender quejas y denuncias en contra del personal de la Secretaría por presuntas infracciones a la Ley, a través de las unidades administrativas competentes;
 
 VI. Substanciar los procedimientos y aplicar las sanciones a los prestadores del servicio de policía auxiliar y de seguridad privada por las violaciones a esta Ley, los reglamentos y demás disposiciones legales aplicables;
 
@@ -247,9 +265,11 @@ XVI. Las que le delegue el Gobernador; y,
 
 XVII. Las que le confieran esta Ley y demás disposiciones normativas aplicables.
 
+> <small>(REFORMADO, P.O. 22 DE JULIO DE 2011)</small>
+
 ###### Artículo 14.
 
-El Director de Seguridad Pública, el de Protección Civil y el Director General de Prevención y Readaptación Social y todas aquellas autoridades en la materia, independientemente de las atribuciones que les correspondan de conformidad con la legislación aplicable, coadyuvarán dentro del ámbito de su competencia, en las actividades tendientes al cumplimiento del objeto de esta Ley.
+El Subsecretario de Seguridad Pública, el Subsecretario de Prevención y Reinserción Social, el Director de Protección Civil y todas aquellas autoridades en la materia, así como, las instituciones públicas, privadas, organismos no gubernamentales y sociedad civil constituida, independientemente de las atribuciones que les correspondan de conformidad con la legislación aplicables (sic), coadyuvarán dentro del ámbito de su competencia, en las actividades tendientes al cumplimiento del objeto de esta Ley.
 
 ## TÍTULO SEGUNDO. CONSEJO ESTATAL DE SEGURIDAD PÚBLICA
 
@@ -269,17 +289,31 @@ IV. El Secretario de Gobierno;
 
 V. Un Diputado electo por el Congreso del Estado;
 
-VI Un Magistrado del Poder Judicial electo por el Consejo del Poder Judicial;
+VI. Un Magistrado del Poder Judicial electo por el Consejo del Poder Judicial;
 
-VII. Los presidentes de los consejos intermunicipales; y,
+> <small>(REFORMADA, P.O. 22 DE JULIO DE 2011)</small>
 
-VIII. El Secretario Ejecutivo.
+VII. Los Presidentes de los consejos intermunicipales;
+
+> <small>(REFORMADA, P.O. 22 DE JULIO DE 2011)</small>
+
+VIII. Cuatro representantes de asociaciones privadas y organismos no gubernamentales; y,
+
+> <small>(ADICIONADA, P.O. 22 DE JULIO DE 2011)</small>
+
+IX. Representantes de las organizaciones de la sociedad civil y ciudadanos.
 
 El Presidente del Consejo será suplido en sus ausencias por el Secretario de Seguridad Pública. Los demás integrantes del Consejo deberán asistir personalmente.
 
+> <small>(ADICIONADO, P.O. 22 DE JULIO DE 2011)</small>
+
+En el caso de las fracciones VIII y IX, la designación de los representantes se hará conforme al Reglamento Interior del Consejo.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE JULIO DE 2011)</small>
+
 ###### Artículo 16.
 
-Podrán formar parte del Consejo con voz pero sin voto, a invitación del Presidente las personas, instituciones públicas y privadas y representantes de la sociedad civil, que a juicio del Consejo puedan aportar conocimientos y experiencias para el cumplimiento de los objetivos y fines de la Seguridad Pública.
+Podrán formar parte del Consejo con voz pero sin voto, a invitación del Presidente las personas, instituciones públicas, privadas, organismos no gubernamentales y sociedad civil constituida, que a juicio del Consejo puedan aportar conocimientos y experiencias para el cumplimiento de los objetivos y fines de la seguridad pública.
 
 La participación de los integrantes del Consejo será con carácter honorífico.
 
@@ -349,7 +383,9 @@ IV. De Prevención del Delito y Participación Ciudadana.
 
 Las comisiones se coordinarán con el Secretariado Ejecutivo para dar seguimiento al cumplimiento de los acuerdos.
 
-En las comisiones podrán participar expertos de instituciones académicas, de investigación y agrupaciones del sector social y privado relacionados con su objeto.
+> <small>(REFORMADO, P.O. 22 DE JULIO DE 2011)</small>
+
+En las comisiones podrán participar expertos de instituciones públicas, privadas, organismos no gubernamentales y sociedad civil constituida, relacionado con su objeto, quienes deberán reunirse al menos tres veces al año.
 
 El Pleno del Consejo podrá crear comisiones extraordinarias temporales en materia de Seguridad Pública que apruebe el mismo.
 
@@ -377,9 +413,13 @@ VIII. Las demás que le confiere esta Ley y demás disposiciones legales aplicab
 
 ### CAPÍTULO SEGUNDO. SECRETARIADO EJECUTIVO
 
+> <small>(REFORMADO, P.O. 22 DE JULIO DE 2011)</small>
+
 ###### Artículo 22.
 
-El Secretariado Ejecutivo es el órgano operativo del sistema y gozará de autonomía técnica, de gestión y presupuestal.
+El Secretario Ejecutivo es el órgano operativo del Sistema y gozará de autonomía técnica, de gestión y presupuestal.
+
+El Consejo aprobará el Reglamento Interior, los manuales de organización y de procedimientos del Secretariado.
 
 ###### Artículo 23.
 
@@ -431,7 +471,9 @@ XIII. Celebrar convenios de coordinación, colaboración y concertación necesar
 
 XIV. Administrar y sistematizar la información del Centro Estatal de Información de Seguridad Pública, en coordinación con el Sistema Nacional;
 
-XV. Informar al Consejo sobre adquisiciones, arrendamientos y servicios, llevados a cabo durante el periodo previo a las reuniones del Consejo, en los que cuidará que se respete la normativa aplicable;
+> <small>(REFORMADA, P.O. 22 DE JULIO DE 2011)</small>
+
+XV. Hacer del conocimiento del Consejo sobre la información recabada ante las instancias ejecutoras de obra sobre los avances de la ejecución de las obras públicas, adquisiciones, arrendamientos y servicios, llevados a cabo durante el periodo previo a las reuniones del Consejo.
 
 XVI. Proponer al Consejo los indicadores de evaluación del desempeño de las instituciones de Seguridad Pública y difundirlos;
 
@@ -447,7 +489,9 @@ XXI. Supervisar, en coordinación con las demás instancias competentes, la corr
 
 XXII. Coadyuvar con la Auditoría Superior de Michoacán y demás instancias de fiscalización, proporcionando la información con que cuente respecto del ejercicio de los recursos, de los fondos de ayuda estatal y federal, así como del cumplimiento de esta Ley;
 
-XXIII. Verificar que los fondos de seguridad federal y estatal sean depositados en los fideicomisos respectivos y ejercidos oportunamente, y de encontrar alguna irregularidad deberá dar vista inmediatamente a la Auditoria Superior del Estado;
+> <small>(REFORMADA, P.O. 22 DE JULIO DE 2011)</small>
+
+XXIII. Verificar que los fondos de seguridad federal y estatal sean depositados en los fideicomisos y fondos respectivos y que el ejercicio de los mismos se realice con toda oportunidad, y de encontrar alguna irregularidad, dar vista inmediatamente a la autoridad correspondiente;
 
 XXIV. Presentar quejas o denuncias ante las autoridades competentes por el incumplimiento de la Ley, los acuerdos y demás disposiciones aplicables;
 
@@ -455,7 +499,9 @@ XXV. Colaborar con las instituciones de Seguridad Pública, para fortalecer y ha
 
 XXVI. Concentrar y resguardar la información de los elementos de Seguridad Pública, de los prestadores de servicios auxiliares de Seguridad Pública y privada, de armas y municiones, así como de los vehículos registrados, licencias de conducir, placas vehiculares y las demás que deban ser incorporadas al Sistema Nacional de Información de Seguridad Pública;
 
-XXVII. Llevar el control y registro de las licencias oficiales colectivas de portación de armas de fuego, autorizadas a las instituciones de Seguridad Pública y privada;
+> <small>(REFORMADA, P.O. 22 DE JULIO DE 2011)</small>
+
+XXVII. Coordinar y supervisar el registro de las licencias oficiales colectivas de portación de armas de fuego, autorizadas a las instituciones de Seguridad Pública y Privada;
 
 XXVIII. Integrar, coordinar y supervisar el Registro de Armamento y Equipo de las corporaciones de Seguridad Pública municipales;
 
@@ -463,9 +509,33 @@ XXIX. Expedir certificaciones o constancias, que acrediten a las personas que ha
 
 XXX. Brindar seguimiento al funcionamiento de los consejos municipales e intermunicipales y participar en comisiones, foros o grupos de trabajo relacionados con Seguridad Pública, y dar seguimiento a los acuerdos emanados de los mismos, en el ámbito de competencia del Secretariado Ejecutivo;
 
-XXXI. Tener la representación del Consejo, cuando así lo determine el Presidente; y,
+> <small>(REFORMADA, P.O. 22 DE JULIO DE 2011)</small>
 
-XXXII. Las demás que le otorga esta Ley y demás disposiciones aplicables, así como las que le encomiende el Consejo o su Presidente.
+XXXI. Elaborar e integrar, de conformidad con las disposiciones y lineamientos vigentes, los programas de trabajo que, derivados del Plan Estatal de Desarrollo y el Programa, queden a cargo del Secretariado;
+
+> <small>(REFORMADA, P.O. 22 DE JULIO DE 2011)</small>
+
+XXXII. Someter a aprobación del Gobierno del Estado, previo dictamen del Consejo y de la Secretaría de Finanzas y Administración, los Programas de Trabajo y de Presupuestos Anuales del Secretariado;
+
+> <small>(ADICIONADA, P.O. 22 DE JULIO DE 2011)</small>
+
+XXXIII. Vincular el Consejo con los Centros de Protección Ciudadana para establecer mecanismos de cooperación y coadyuvar en materia de seguridad pública;
+
+> <small>(ADICIONADA, P.O. 22 DE JULIO DE 2011)</small>
+
+XXXIV. Elaborar en coordinación con Instituciones de Seguridad Pública y presentar al Consejo los programas y proyectos en materia de Infraestructura y Equipamiento;
+
+> <small>(ADICIONADA, P.O. 22 DE JULIO DE 2011)</small>
+
+XXXV. Seguimiento y recopilación de información y documentación para la conformación de los expedientes técnicos de proyectos de obras y servicios de acuerdo con las guías técnicas del Sistema Nacional e informar a las autoridades competentes;
+
+> <small>(ADICIONADA, P.O. 22 DE JULIO DE 2011)</small>
+
+XXXVI. Tener la representación del Consejo, cuando así lo determine el Presidente; y,
+
+> <small>(ADICIONADA, P.O. 22 DE JULIO DE 2011)</small>
+
+XXXVII. Las demás que le otorga esta Ley y demás disposiciones aplicables, así como las que le encomiende el Consejo o su Presidente.
 
 ### CAPÍTULO TERCERO. PROGRAMA ESTATAL DE SEGURIDAD PÚBLICA
 
@@ -501,9 +571,11 @@ II. Centro Estatal de Prevención del Delito y Participación Ciudadana.
 
 #### SECCIÓN PRIMERA. CENTRO ESTATAL DE INFORMACIÓN
 
+> <small>(REFORMADO, P.O. 22 DE JULIO DE 2011)</small>
+
 ###### Artículo 29.
 
-El Secretariado Ejecutivo a través del Centro Estatal de Información, operará y resguardará el Registro Estatal de Seguridad Pública y Privada, el cual estará integrado por los registros de criminalística, de personal, de armamento y equipo en términos de lo que establece la Ley General y demás disposiciones aplicables.
+El Secretariado Ejecutivo a través del Centro Estatal de Información, operará y coordinará el resguardo del Registro Estatal de Seguridad Pública y Privada, el cual estará integrado por los registros de criminalística, de personal, de armamento y equipo en términos de los (sic) que establece la Ley General y demás disposiciones aplicables.
 
 ###### Artículo 30.
 
@@ -581,9 +653,11 @@ VII. Brindar asesoría a las instituciones de Seguridad Pública para la integra
 
 El Secretariado Ejecutivo y los ayuntamientos, deberán promover la creación de unidades de consulta y participación de la comunidad, como organizaciones que se encargarán, desde la sociedad, de vigilar las políticas públicas en materia de Seguridad Pública y procuración de justicia, así como del cumplimiento de las diversas disposiciones en materia de Seguridad Pública.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE JULIO DE 2011)</small>
+
 ###### Artículo 38.
 
-El Centro Estatal de Prevención del Delito y Participación Ciudadana tendrá, como atribuciones:
+El Centro Estatal de Prevención del Delito y Participación Ciudadana, tendrá, como atribuciones:
 
 I. Proponer al Consejo Estatal, a través del Secretario Ejecutivo, lineamientos de prevención social del delito, mediante el diseño transversal de políticas de prevención, cuyas acciones tendrán el carácter de permanentes y estratégicas;
 
@@ -599,7 +673,9 @@ VI. Promover la inclusión de contenidos relativos a la prevención del delito e
 
 VII. Organizar eventos académicos, culturales y deportivos sobre prevención social del delito;
 
-VIII. Coordinarse con otras instancias competentes en la materia para el ejercicio de sus funciones;
+> <small>(REFORMADA, P.O. 22 DE JULIO DE 2011)</small>
+
+VIII. Coordinarse con otras instituciones públicas, privadas, organismos no gubernamentales y sociedades civiles constituidas competentes en la materia para la realización de sus actividades;
 
 IX. Promover la participación ciudadana para el fortalecimiento del Sistema en los términos de esta Ley; y,
 
@@ -619,9 +695,11 @@ El Centro tiene por objeto efectuar las evaluaciones para la selección, ingreso
 
 El personal de Seguridad Pública de los municipios que laboren o pretendan laborar deberá de ser evaluado por el Centro, de conformidad con los requisitos y procedimientos señalados en la presente Ley.
 
+> <small>(REFORMADO, P.O. 22 DE JULIO DE 2011)</small>
+
 ###### Artículo 41.
 
-El Centro aplicará los exámenes y evaluaciones criminológicas, psicológicas, poligráficas, médicas, toxicológicas y de investigación socioeconómica al personal de Seguridad Pública y privada, así como de procuración de justicia, apoyándose en las instituciones públicas especializadas para tal efecto; excepcionalmente, cuando no se cuente con la tecnología o el personal especializado, podrá contratarse con el sector privado, atendiendo a la legislación aplicable.
+El Centro aplicará los exámenes y evaluaciones psicológicas, poligráficas, médicas, toxicológicas y de investigación socioeconómica al personal de seguridad pública, privada y auxiliar, así como de procuración de justicia, apoyándose en las instituciones públicas especializadas para tal efecto; excepcionalmente, cuando no se cuente con la tecnología o el personal especializado, podrá contratarse con el sector privado, atendiendo a la legislación aplicable.
 
 ###### Artículo 42.
 
@@ -643,15 +721,19 @@ VII. Establecer un sistema de registro y control de expedientes de los evaluados
 
 VIII. Las demás que establezcan las disposiciones normativas aplicables.
 
+> <small>(REFORMADO, P.O. 22 DE JULIO DE 2011)</small>
+
 ###### Artículo 43.
 
-La certificación y acreditación de todas las personas que formen parte de las instituciones de Seguridad Pública, auxiliar, privada en el Estado y municipios estarán a cargo del Centro.
+La certificación y acreditación de todas las personas que formen parte de las instituciones de Seguridad Pública, instituciones de Procuración de Justicia, auxiliar, privada en el Estado y municipios estarán a cargo del Centro.
+
+> <small>(REFORMADO, P.O. 22 DE JULIO DE 2011)</small>
 
 ###### Artículo 44.
 
-El aspirante que haya cubierto satisfactoriamente los requisitos correspondientes al procedimiento de reclutamiento, para poder ingresar a la formación inicial, deberá aprobar los exámenes y evaluaciones que le practique el Centro; de igual manera, el personal que ya labora en las áreas de Seguridad Pública, auxiliar, privada, de procuración de justicia o municipal, al momento de ser requerido para la práctica de éstos deberá someterse a ellos y aprobarlos.
+El aspirante que haya cubierto satisfactoriamente los requisitos correspondientes al procedimiento de reclutamiento, para poder ingresar a la formación inicial, deberá aprobar los exámenes y evaluaciones que le practique el Centro; de igual manera, el personal que ya labora en las áreas de Seguridad Pública, auxiliar, privada, de procuración de justicia o municipal, al momento de ser requerido para la práctica de éstos deberá someterse a ellos y aprobarlos, de lo contrario causarán baja inmediatamente.
 
-Para la capacitación de cualquiera de los cuerpos de Seguridad Pública, auxiliar, privada y de procuración de justicia estatal y municipal, deberán previamente ser evaluados como compatibles o compatibles con reserva por el Centro.
+Para la capacitación de cualquiera de los cuerpos de Seguridad Pública, auxiliar, privada, de procuración de justicia estatal o municipal, deberán previamente ser evaluados por el Centro.
 
 ###### Artículo 45.
 
@@ -675,11 +757,15 @@ Podrán aplicarse evaluaciones al personal de los cuerpos de Seguridad Pública,
 
 El resultado de las evaluaciones que emita el Centro, podrá ser cualquiera de las siguientes:
 
-I. Compatible con el puesto;
+> <small>(REFORMADA, P.O. 22 DE JULIO DE 2011)</small>
 
-II. Compatible con reserva; y,
+I. Aprobado;
 
-III. No compatible con el puesto.
+> <small>(REFORMADA, P.O. 22 DE JULIO DE 2011)</small>
+
+II. No aprobado; y,
+
+III. (DEROGADA, P.O. 22 DE JULIO DE 2011)
 
 ###### Artículo 47.
 
@@ -843,9 +929,17 @@ III. El Secretario del Ayuntamiento quien fungirá como Secretario Ejecutivo del
 
 IV. El Director de Seguridad Pública Municipal;
 
-V. Un Regidor; y,
+> <small>(REFORMADA, P.O. 22 DE JULIO DE 2011)</small>
 
-VI. Los Jefes de Tenencia.
+V. Un Regidor;
+
+> <small>(REFORMADA, P.O. 22 DE JULIO DE 2011)</small>
+
+VI. Los Jefes de Tenencia; y,
+
+> <small>(ADICIONADA, P.O. 22 DE JULIO DE 2011)</small>
+
+VII. Un representante o persona de asociaciones privadas, organismos no gubernamentales y sociedad civil constituida.
 
 ###### Artículo 59.
 
@@ -895,9 +989,17 @@ I. Los presidentes municipales de la región;
 
 II. Los directores de Seguridad Pública o sus equivalentes;
 
-III. Los elementos de mayor jerarquía de la Policía Preventiva Municipal; y,
+> <small>(REFORMADA, P.O. 22 DE JULIO DE 2011)</small>
 
-IV. Un Secretario Ejecutivo designado por los presidentes municipales del Consejo Intermunicipal.
+III. Los elementos de mayor jerarquía de la Policía Preventiva Municipal;
+
+> <small>(REFORMADA, P.O. 22 DE JULIO DE 2011)</small>
+
+IV. Dos representantes o personas de las instituciones públicas, privadas, organismos no gubernamentales y sociedad civil constituida; y,
+
+> <small>(ADICIONADA, P.O. 22 DE JULIO DE 2011)</small>
+
+V. Un Secretario Ejecutivo designado por los presidentes municipales del Consejo Intermunicipal.
 
 ###### Artículo 66.
 
@@ -969,7 +1071,9 @@ VI. Promover la participación de los distintos sectores sociales de la poblaci�
 
 VII. Celebrar convenios en materia de Seguridad Pública con la Federación, el Estado, los Municipios y organismos e instituciones de los sectores público, privado y social;
 
-VIII. Proponer los aspirantes a ingresar al Instituto, previa acreditación de la evaluación y control de confianza para formar parte de las corporaciones de Seguridad Pública municipal;
+> <small>(REFORMADA, P.O. 22 DE JULIO DE 2011)</small>
+
+VIII. Proponer al personal en activo y aspirantes a ingresar al Instituto, previa acreditación de la evaluación y control de confianza para formar parte o continuar en las corporaciones de Seguridad Pública Municipal;
 
 IX. Establecer la profesionalización de los integrantes de los cuerpos de Seguridad Pública municipales;
 
@@ -2087,17 +2191,23 @@ El procedimiento ante las autoridades previstas en las leyes de la materia, inic
 
 Los procedimientos a que se refiere el párrafo anterior, deberán realizarse con estricto apego a las disposiciones legales aplicables y observará en todo momento las formalidades esenciales del procedimiento.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE JULIO DE 2011)</small>
+
 ###### Artículo 177.
 
-Se establece la Comisión de Honor y Justicia en las instituciones de Seguridad Pública, en las que participarán:
+Se establece la Comisión de Honor y Justicia en las instituciones de Seguridad Pública, en las que participaran:
 
 I. El Secretario de Seguridad Pública, que funge como Presidente;
 
 II. El Director de Seguridad Pública del Estado;
 
-III. Dos miembros con la jerarquía más alta del área operativa de Seguridad Pública; y,
+> <small>(REFORMADA, P.O. 22 DE JULIO DE 2011)</small>
 
-IV Dos miembros del área operativa de Seguridad Pública, que hayan sido condecorados, los cuales serán insaculados.
+III. Subsecretario de Prevención y Reinserción Social; y,
+
+> <small>(REFORMADA, P.O. 22 DE JULIO DE 2011)</small>
+
+IV. Titular de la Unidad de Control y Evaluación.
 
 ###### Artículo 178.
 
@@ -2464,3 +2574,11 @@ Se deroga del Título Séptimo, el Capítulo Cuarto denominado Servicios de Segu
 ###### ARTÍCULO CUARTO.
 
 Las personas físicas o morales que presten servicios actualmente de seguridad privada en el Estado de Michoacán, contarán con ciento ochenta días naturales, contados a partir de la entrada en vigor de la presente Ley, para apegarse a la misma.
+
+P.O. 22 DE JULIO DE 2011.
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+SEGUNDO. Cuando se refiera en la Ley de Ejecución de Sanciones Penales del Estado de Michoacán de Ocampo, a las funciones del Director de Prevención y Readaptación Social, se entenderá que estas le corresponden al Subsecretario de Prevención y Reinserción Social del Gobierno del Estado de Michoacán de Ocampo.
+
+TERCERO. Los actuales servidores públicos que laboran en las Instituciones de Seguridad Pública, con la entrada en vigor del presente Decreto de reformas, adiciones y derogaciones de la Ley del Sistema de Seguridad Pública del Estado de Michoacán de Ocampo, continuarán en el ejercicio de sus actuales cargos, los que serán homologados a los términos de esta Ley, sin demérito de que derivado de las evaluaciones que se les realicen, se determine su continuidad o no, en dicho cargo.
