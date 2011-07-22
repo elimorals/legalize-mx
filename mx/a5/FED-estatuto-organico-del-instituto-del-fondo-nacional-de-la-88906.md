@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-del-instituto-del-fondo-nacional-de-la-88906"
 country: "mx"
 rank: "estatuto"
 publication_date: "2011-03-25"
-last_updated: "2011-03-25"
+last_updated: "2011-07-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=88906&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2010-12-03"
 
 ESTATUTO ORGÁNICO DEL INSTITUTO DEL FONDO NACIONAL DE LA VIVIENDA PARA LOS TRABAJADORES
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 22 DE JULIO DE 2011.
 
 Estatuto publicado en la Segunda Sección del Diario Oficial de la Federación, el viernes 25 de marzo de 2011.
 
@@ -46,6 +46,8 @@ ESTATUTO ORGANICO DEL INSTITUTO DEL FONDO NACIONAL DE LA VIVIENDA PARA LOS TRABA
 Es el ordenamiento jurídico que establece, de manera general, las responsabilidades y funciones de la Dirección General, de las Direcciones Sectoriales y del personal directivo del Instituto del Fondo Nacional de la Vivienda para los Trabajadores (Infonavit).
 
 ## Título I. De la Dirección General
+
+> <small>(REFORMADO, D.O.F. 22 DE JULIO DE 2011)</small>
 
 ###### ARTICULO 1.
 
@@ -99,11 +101,13 @@ XXI. Establecer las políticas de comunicación institucional, desarrollar campa
 
 XXII. Establecer y dirigir los medios para evaluar la percepción de la sociedad respecto de los servicios que proporciona el Infonavit;
 
-XXIII. Instruir la coordinación de los eventos institucionales;
+XXIII. Conocer y alinear los esfuerzos que, para conocer las necesidades de los usuarios, realicen todas las áreas;
 
-XXIV. Realizar evaluaciones periódicas de la operación de las Delegaciones Regionales, en el cumplimiento de los objetivos y metas institucionales, y
+XXIV. Instruir la coordinación de los eventos institucionales;
 
-XXV. Las demás que le señalen la Ley del Infonavit y sus disposiciones reglamentarias o que le sean encomendadas por el Consejo de Administración.
+XXV. Realizar evaluaciones periódicas de la operación de las Delegaciones Regionales, en el cumplimiento de los objetivos y metas institucionales, y
+
+XXVI. Las demás que le señalen la Ley del Infonavit y sus disposiciones reglamentarias o que le sean encomendadas por el Consejo de Administración.
 
 ###### ARTICULO 2.
 
@@ -153,6 +157,8 @@ Las Direcciones Sectoriales dispondrán de autonomía de gestión, contratación
 
 ### Capítulo I. Disposiciones Generales
 
+> <small>(REFORMADO, D.O.F. 22 DE JULIO DE 2011)</small>
+
 ###### ARTICULO 8.
 
 La Dirección General conducirá las actividades de la Secretaría General y de Asuntos Jurídicos y de las Subdirecciones Generales de conformidad con el presente Estatuto.
@@ -177,9 +183,13 @@ VIII. Promover el desarrollo de su personal;
 
 IX. Formular y emitir opiniones e informes;
 
-X. Certificar copias de los documentos originales que obren en sus archivos, y
+X. Certificar copias de los documentos originales que obren en sus archivos;
 
-XI. Las demás que le señalen las disposiciones normativas institucionales y, en general, todas aquéllas relativas al cumplimiento de los objetivos del Infonavit, que sean afines con las fracciones que anteceden y que les encomiende el Director General.
+XI. Conservar el catálogo de sanciones procedentes a funcionarios, empleados, proveedores y prestadores de servicios;
+
+XII. Ejecutar las sanciones procedentes, cuando se deban imponer a sus proveedores y prestadores de servicios, y
+
+XIII. Las demás que le señalen las disposiciones normativas institucionales y, en general, todas aquéllas relativas al cumplimiento de los objetivos del Infonavit, que sean afines con las fracciones que anteceden y que les encomiende el Director General.
 
 ###### ARTICULO 9.
 
@@ -279,11 +289,13 @@ II. Detectar, identificar y alertar sobre los riesgos de que el Infonavit incump
 
 ### Capítulo III. De la Subdirección General de Control Interno y Excelencia en el Servicio
 
+> <small>(REFORMADO, D.O.F. 22 DE JULIO DE 2011)</small>
+
 ###### ARTICULO 19.
 
 Respecto al diseño y mejora de procesos, sus facultades y funciones son:
 
-I. Implantar y administrar el Sistema de Gestión de Calidad, y
+I. Implantar y administrar el Sistema Integral de Gestión de Calidad, y
 
 II. Establecer y administrar los métodos para asegurar la consistencia operativa y la medición del desempeño de los procesos institucionales.
 
@@ -305,6 +317,8 @@ VI. Contar con un registro permanentemente actualizado de los objetivos del Sist
 
 VII. Proveer al menos dos veces al año un reporte de su gestión, a la Dirección General y al Comité de Auditoría.
 
+> <small>(REFORMADO, D.O.F. 22 DE JULIO DE 2011)</small>
+
 ###### ARTICULO 21.
 
 Respecto a la excelencia en el servicio, tendrá las siguientes facultades y funciones:
@@ -321,9 +335,23 @@ V. Definir mecanismos que midan a todos los proveedores y prestadores de servici
 
 VI. Asegurar el establecimiento de niveles de servicio y asegurar su medición;
 
-VII. Proponer adecuaciones en los modelos de operación y de los procesos para alcanzar la Excelencia en los Servicios y Productos que ofrecen el Infonavit y los proveedores y prestadores de servicios, a sus usuarios, y
+VII. Proponer adecuaciones en los modelos de operación y de los procesos para alcanzar la Excelencia en los Servicios y Productos que ofrecen el Infonavit y los proveedores y prestadores de servicios, a sus usuarios;
 
-VIII. Implantar un modelo de erradicación y atención de quejas que permita atenderlas en tiempo y forma, que genere mecanismos de sanción y que proporcione información a las áreas responsables de los procesos y servicios.
+VIII. Implantar un modelo para la atención y gestión de quejas que impulse y asegure la mejora de productos y servicios en las áreas responsables;
+
+IX. Presidir el Comité de Servicio del Infonavit;
+
+X. Normar y, en su caso, administrar los mecanismos requeridos para hacer encuestas, recibir quejas y recibir reportes internos, así como para medir la satisfacción de los usuarios, los niveles de servicio y los indicadores de todos los servicios en todos los canales;
+
+XI. Con la información a que se refiere la fracción anterior, retroalimentar permanentemente a los responsables de la operación, los canales, los procesos y los apoyos con los que se prestan servicios a los usuarios del Infonavit;
+
+XII. Normar los mecanismos que permitan la corrección inmediata y la solución permanente de deficiencias en los servicios que presta el Infonavit;
+
+XIII. Informar periódicamente a la Dirección General sobre el estado que guardan los servicios que presta el Infonavit y presentar las iniciativas para mejorarlo;
+
+XIV. Normar la excelencia en el servicio para el Infonavit y sus proveedores, y
+
+XV. Definir y elaborar un catálogo de sanciones procedentes a funcionarios, empleados, proveedores y prestadores de servicio, en coordinación con las Subdirecciones Generales y la Secretaria General y de Asuntos Jurídicos.
 
 ###### ARTICULO 22.
 
@@ -413,6 +441,24 @@ La Subdirección contará con un área de Conocimiento del Derechohabiente, cuya
 
 Respecto a la operación hipotecaria, deberá dirigir, coordinar y controlar los procesos de registro de oferta, originación de crédito, escrituras en los registros públicos de la propiedad, sistema de titulación e inscripción, avance en la regularización del inventario del Archivo Nacional de Expedientes de Crédito, así como todos aquéllos relacionados con esta función.
 
+> <small>(ADICIONADO, D.O.F. 22 DE JULIO DE 2011)</small>
+
+ARTICULO 29 BIS. Una vez identificadas las necesidades de los usuarios y diseñado los productos y programas a que se refieren los artículos anteriores, deberá:
+
+I. Especificar los servicios que cada uno de dichos productos genere en cada uno de los canales propios y externos del Infonavit;
+
+II. Definir los enlaces requeridos entre sus procesos de operación y las actividades de atención en cada canal;
+
+III. Definir los indicadores, niveles de servicio y procesos de gestión necesarios para garantizar la calidad del servicio prestado en cada canal;
+
+IV. Acordar todo lo anterior con los canales internos y crear las metas compartidas correspondientes;
+
+V. Normar todo lo anterior en los canales externos de su responsabilidad;
+
+VI. Asegurar la implantación correcta de todos los procesos de atención en todos los canales de su responsabilidad, y
+
+VII. Recibir los resultados de encuestas, quejas de usuarios, reportes internos, niveles de servicio e indicadores para implantar correcciones inmediatas y soluciones permanentes.
+
 ### Capítulo V. De la Subdirección General de Recaudación Fiscal
 
 ###### ARTICULO 30.
@@ -448,6 +494,24 @@ Respecto a la administración de las aportaciones patronales al Fondo Nacional d
 I. Administrar el fondo de ahorro y la subcuenta de vivienda de cada trabajador, y
 
 II. Coordinar con las autoridades reguladoras y con los participantes de los Sistemas de Ahorro para el Retiro, la elaboración, autorización y ejecución de los lineamientos y procedimientos de operación de recaudación y afectación a la subcuenta de vivienda de los trabajadores.
+
+> <small>(ADICIONADO, D.O.F. 22 DE JULIO DE 2011)</small>
+
+ARTICULO 32 BIS. Una vez identificadas las necesidades de los usuarios y diseñado los productos y programas a que se refieren los artículos anteriores, deberá:
+
+I. Especificar los servicios que cada uno de dichos productos genere en cada uno de los canales propios y externos del Infonavit;
+
+II. Definir los enlaces requeridos entre sus procesos de operación y las actividades de atención en cada canal;
+
+III. Definir los indicadores, niveles de servicio y procesos de gestión necesarios para garantizar la calidad del servicio prestado en cada canal;
+
+IV. Acordar todo lo anterior con los canales internos y crear las metas compartidas correspondientes;
+
+V. Normar todo lo anterior en los canales externos de su responsabilidad;
+
+VI. Asegurar la implantación correcta de todos los procesos de atención en todos los canales de su responsabilidad, y
+
+VII. Recibir los resultados de encuestas, quejas de usuarios, reportes internos, niveles de servicio e indicadores para implantar correcciones inmediatas y soluciones permanentes.
 
 ### Capítulo VI. De la Subdirección General de Sustentabilidad Social
 
@@ -496,6 +560,24 @@ VII. Con respecto al Indice de Satisfacción de Acreditado, mantener la actualiz
 ###### ARTICULO 35.
 
 Respecto a las relaciones con los distintos actores que intervienen en el desarrollo de vivienda, deberá establecer, gestionar y medir el desempeño de las alianzas y redes que contribuyan a que el Infonavit pueda ofrecer mejor calidad de vida a sus derechohabientes y acreditados.
+
+> <small>(ADICIONADO, D.O.F. 22 DE JULIO DE 2011)</small>
+
+ARTICULO 35 BIS. Una vez identificadas las necesidades de los usuarios y diseñado los productos y programas a que se refieren los artículos anteriores, deberá:
+
+I. Especificar los servicios que cada uno de dichos productos genere en cada uno de los canales propios y externos del Infonavit;
+
+II. Definir los enlaces requeridos entre sus procesos de operación y las actividades de atención en cada canal;
+
+III. Definir los indicadores, niveles de servicio y procesos de gestión necesarios para garantizar la calidad del servicio prestado en cada canal;
+
+IV. Acordar todo lo anterior con los canales internos y crear las metas compartidas correspondientes;
+
+V. Normar todo lo anterior en los canales externos de su responsabilidad;
+
+VI. Asegurar la implantación correcta de todos los procesos de atención en todos los canales de su responsabilidad, y
+
+VII. Recibir los resultados de encuestas, quejas de usuarios, reportes internos, niveles de servicio e indicadores para implantar correcciones inmediatas y soluciones permanentes.
 
 ### Capítulo VII. De la Subdirección General de Planeación y Finanzas
 
@@ -567,6 +649,10 @@ III. Asegurar la obtención de los recursos financieros proyectados en el Plan F
 
 IV. Administrar las relaciones del Infonavit con inversionistas, agencias calificadoras y participantes en el sistema financiero.
 
+> <small>(ADICIONADO, D.O.F. 22 DE JULIO DE 2011)</small>
+
+ARTICULO 42 BIS. Con relación a la identificación de necesidades de los usuarios, deberá incorporar los resultados de servicio de cada canal y los indicadores de satisfacción de los usuarios a los mecanismos de seguimiento, evaluación y consecuencias del Infonavit.
+
 ### Capítulo VIII. De la Subdirección General de Tecnologías
 
 ###### ARTICULO 43.
@@ -593,9 +679,11 @@ II. Difundir los modelos de operación, políticas y procedimientos emitidos par
 
 III. Establecer los mecanismos para la administración y publicación de la normatividad institucional.
 
+> <small>(REFORMADO, D.O.F. 22 DE JULIO DE 2011)</small>
+
 ###### ARTICULO 45.
 
-Respecto al diseño y mejora de procesos, sus facultades y funciones son:
+Con relación al diseño y mejora de procesos, sus facultades y funciones son:
 
 I. Definir la arquitectura de procesos del Infonavit;
 
@@ -609,11 +697,19 @@ V. Crear e implementar las metodologías necesarias;
 
 VI. Coadyuvar en la formalización de roles y responsabilidades de la arquitectura de procesos del Infonavit;
 
-VII. Determinar la carga laboral de las estructuras organizaciones (sic) a partir de la arquitectura de procesos, y
+VII. Determinar la carga laboral de las estructuras organizaciones (sic) a partir de la arquitectura de procesos;
 
-VIII. Profesionalizar al Infonavit en materia de administración de procesos.
+VIII. Profesionalizar al Infonavit en materia de administración de procesos, y
+
+IX. Asesorar y asegurar la alineación de todos los elementos necesarios para las soluciones operativas que se propongan para implantar nuevos productos y servicios.
+
+> <small>(ADICIONADO, D.O.F. 22 DE JULIO DE 2011)</small>
+
+ARTICULO 45 BIS. En cuanto a la gestión de la seguridad de la información, deberá definir, establecer, mantener y monitorear una estrategia de seguridad de la información alineada a los objetivos del Infonavit.
 
 ### Capítulo IX. De la Subdirección General de Administración de Personas
+
+> <small>(REFORMADO, D.O.F. 22 DE JULIO DE 2011)</small>
 
 ###### ARTICULO 46.
 
@@ -627,11 +723,13 @@ III. Previa autorización de la Dirección General, proponer a la consideración
 
 IV. Establecer y supervisar el sistema permanente de profesionalización y desarrollo del personal del Infonavit;
 
-V. Administrar las compensaciones, prestaciones y programas de previsión social para el personal del Infonavit, así como controlar las estructuras de organización que soportan la operación, y
+V. Administrar las compensaciones, prestaciones y programas de previsión social para el personal del Infonavit, así como controlar las estructuras de organización que soportan la operación;
 
-VI. Diseñar, desarrollar e implantar planes de formación y desarrollo para los empleados del Instituto, a los que deberán proporcionarles cursos, talleres o conferencias respecto al origen y evolución del Infonavit, así como la participación tripartita de los Sectores en ese proceso.
+VI. Diseñar, desarrollar e implantar planes de formación y desarrollo para los empleados del Infonavit, a los que deberán proporcionarles cursos, talleres o conferencias respecto al origen y evolución del Infonavit, así como la participación tripartita de los Sectores en ese proceso.
 
-Se dará a conocer, al personal institucional y actores principales del Infonavit, la participación del Gobierno Federal y la estructura organizacional histórica y social de los trabajadores, sindicatos, confederaciones y cámaras nacionales del Sector Empresarial.
+Se dará a conocer, al personal institucional y actores principales del Infonavit, la participación del Gobierno Federal y la estructura organizacional histórica y social de los trabajadores, sindicatos, confederaciones y cámaras nacionales del Sector Empresarial, y
+
+VII. Ejecutar las sanciones procedentes, cuando se deban imponer a los funcionarios y empleados del Infonavit atendiendo en todo momento a las disposiciones del Régimen de Convivencia Unificado.
 
 ###### ARTICULO 47.
 
@@ -639,21 +737,31 @@ Respecto a la situación patrimonial de los funcionarios del Infonavit, deberá 
 
 ### Capítulo X. De la Subdirección General de Canales de Servicio
 
+> <small>(REFORMADO, D.O.F. 22 DE JULIO DE 2011)</small>
+
 ###### ARTICULO 48.
 
 Respecto al servicio que el Infonavit presta a derechohabientes, acreditados, patrones y público usuario en general, mediante los diversos canales de atención de que dispone, sus facultades y funciones son:
 
-I. Diseñar, normar y garantizar la operación de los canales para proporcionar asesoría y soporte;
+I. Asegurar la entrega de productos y servicios con oportunidad y calidad, buscando superar las expectativas de los usuarios;
 
-II. Facilitar el acceso a los servicios que proporciona el Infonavit mediante el uso pertinente de su infraestructura física y medios alternos;
+II. Diseñar, normar y garantizar la operación de los canales;
 
-III. Proporcionar información y servicios relacionados con aportaciones patronales, otorgamiento y administración de los créditos;
+III. Fomentar y facilitar el uso de los canales digitales;
 
 IV. Establecer mecanismos para asegurar la homogeneidad y consistencia de la información en los diversos canales, así como la calidad y disponibilidad de los servicios;
 
-V. Convenir niveles de servicio con las diferentes áreas del Infonavit involucradas en la solución de necesidades de derechohabientes, acreditados y patrones, y
+V. Recibir de las distintas áreas del Infonavit, especificaciones de productos y servicios a implantar en los canales internos; desarrollar los procesos de atención requeridos y definir conjuntamente los niveles de servicio y los mecanismos de enlace entre los procesos de atención y los de operación;
 
-VI. Recibir y dar respuesta a las solicitudes de servicio presentadas por los canales que administra.
+VI. Mantener permanentemente actualizado el catálogo institucional de servicios;
+
+VII. Desarrollar y mantener actualizado el modelo de atención en los canales;
+
+VIII. Administrar la Base Unica de Contactos de conformidad con la normatividad aplicable;
+
+IX. Asegurar la correcta implantación de las iniciativas de orientación que se operen en los canales internos, y
+
+X. Garantizar la emisión oportuna de informes y estadísticas que permitan medir la eficiencia de la operación de los canales, así como proporcionar a las distintas áreas la información de inteligencia de negocios sobre sus servicios que apoyen la adecuada toma de decisiones y el desarrollo de proyectos de mejora para incrementar la satisfacción de los usuarios.
 
 ## Título IV. De las Delegaciones Regionales
 
@@ -680,3 +788,11 @@ El presente Estatuto Orgánico abroga el aprobado mediante el Acuerdo 1443, toma
 Este Estatuto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 Dado en la Ciudad de México, Distrito Federal, a los tres días del mes de diciembre de dos mil diez, en cumplimiento al Acuerdo número 1507, tomado en la sesión ordinaria número 99 de la H. Asamblea General del Instituto del Fondo Nacional de la Vivienda para los Trabajadores.- El Secretario General y de Asuntos Jurídicos, Jorge Pulido Vázquez.- Rúbrica.- El Gerente de Organos Colegiados Centrales, Javier Delgado Parra.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 22 DE JULIO DE 2011.
+
+###### ARTICULO UNICO.
+
+Las presentes modificaciones y adiciones al Estatuto Orgánico del Instituto del Fondo Nacional de la Vivienda para los Trabajadores entrarán en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
