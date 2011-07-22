@@ -4,7 +4,7 @@ identifier: "QUE-ley-para-el-fomento-de-la-investigacion-cientifica-72782"
 country: "mx"
 rank: "ley"
 publication_date: "2010-01-30"
-last_updated: "2010-01-30"
+last_updated: "2011-07-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=72782&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY PARA EL FOMENTO DE LA INVESTIGACION CIENTIFICA, TECNOLOGICA E INNOVACION DEL ESTADO DE QUERETARO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE JULIO DE 2011.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el sábado 30 de enero de 2010.
 
@@ -161,9 +161,25 @@ VIII. Formular las bases de integración, organización, administración, actual
 
 IX. Participar y apoyar la formación de Redes de Innovación, con el apoyo del CONACYT;
 
-X. Intervenir en la formulación y ejecución de los convenios de coordinación que celebre el titular del Poder Ejecutivo del Estado con la federación, los municipios y los organismos empresariales y sociales, en materia de fomento a la investigación científica, tecnológica, el desarrollo tecnológico y la innovación; y
+X. Intervenir en la formulación y ejecución de los convenios de coordinación que celebre el titular del Poder Ejecutivo del Estado con la federación, los municipios y los organismos empresariales y sociales, en materia de fomento a la investigación científica, tecnológica, el desarrollo tecnológico y la innovación; y (sic)
 
-XI. Las demás atribuciones inherentes al cumplimiento de sus funciones.
+> <small>(ADICIONADA, P.O. 22 DE JULIO DE 2011)</small>
+
+XI. Reconocer la labor de los investigadores que lleven a cabo investigación científica y desarrollo tecnológico en la Entidad;
+
+> <small>(ADICIONADA, P.O. 22 DE JULIO DE 2011)</small>
+
+XII. Coadyuvar a la integración de grupos de investigadores y tecnólogos en el Estado, que participen en el proceso de generación de conocimientos científicos y tecnológicos, hasta su aplicación, en beneficio de la sociedad;
+
+> <small>(ADICIONADA, P.O. 22 DE JULIO DE 2011)</small>
+
+XIII. Coadyuvar con los investigadores para lograr su incorporación a los esquemas nacionales e internacionales de reconocimiento, a la obtención de méritos por sus contribuciones a la investigación y/o al desarrollo tecnológico;
+
+> <small>(ADICIONADA, P.O. 22 DE JULIO DE 2011)</small>
+
+XIV. Promover la investigación en el Estado, de acuerdo con las prioridades establecidas en el Plan Estatal de Desarrollo y en el Programa; y
+
+XV. Las demás atribuciones inherentes al cumplimiento de sus funciones.
 
 ## Título Segundo. Del Sistema Estatal de Información Científica, Tecnológica e Innovación en el Estado
 
@@ -187,9 +203,11 @@ Los particulares y las instituciones públicas o privadas que reciban apoyo del 
 
 Los particulares o instituciones del sector privado que realicen actividades sobre ciencia, tecnología e innovación, podrán coadyuvar voluntariamente con el Sistema.
 
+> <small>(REFORMADO, P.O. 22 DE JULIO DE 2011)</small>
+
 ###### Artículo 11.
 
-El Consejo formulará las bases de organización y funcionamiento del Sistema, en las que procurará la vinculación entre las instituciones públicas y los diversos sectores que lleven a cabo investigación y sus formas de aplicación y generación, así como la modernización y la competitividad del sector productivo de bienes y servicios del sector público y social.
+El Consejo formulará las bases para la organización y funcionamiento del Sistema, orientadas a la formación, conservación y atracción de investigadores y tecnólogos que lleven a cabo actividades científicas, tecnológicas y de innovación en la Entidad, con el objetivo de fomentar e impulsar la investigación científica y el desarrollo tecnológico en el Estado, procurando en todo momento la vinculación de éstos con otras instituciones públicas y diversos sectores que lleven a cabo investigación y sus formas de aplicación y generación, así como la modernización y la competitividad del sector productivo de bienes y servicios del sector público y social.
 
 ###### Artículo 12.
 
@@ -257,53 +275,79 @@ El Programa será coordinado por el Consejo e integrará aquellas propuestas que
 
 Los objetivos, estrategias, líneas de acción y actividades prioritarias previstas en el Programa, serán revisadas y actualizadas periódicamente por el Consejo, de conformidad con la evaluación de resultados y tendencias del avance científico, tecnológico y de innovación en los diferentes sectores, así como su impacto en la solución de las necesidades de la Entidad.
 
-### Capítulo Primero. Disposiciones generales
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 22 DE JULIO DE 2011)</small>
+
+### Capítulo Tercero. Del Registro Estatal de Investigadores y Tecnólogos
+
+> <small>(ADICIONADO, P.O. 22 DE JULIO DE 2011)</small>
 
 ###### Artículo 17.
 
-Para el financiamiento de las actividades de fomento a la investigación científica y el desarrollo e innovación tecnológica, el Consejo operará el Fondo Estatal para el Fomento de la Investigación Científica, Tecnológica e Innovación, que será constituido y administrado mediante las figuras jurídicas que correspondan.
+El Registro Estatal de Investigadores y Tecnólogos, es una base de datos que forma parte del Sistema Estatal de Información Científica, Tecnológica e Innovación del Estado, que tiene por objeto, obtener y actualizar la información curricular de la comunidad académica, científica y tecnológica que labore en instituciones públicas y privadas de la Entidad.
 
-Sin perjuicio de lo establecido en el párrafo anterior, el Consejo podrá promover la constitución y, en su caso, la operación de otros fondos para cumplir con el objeto de la presente Ley.
+> <small>(ADICIONADO, P.O. 22 DE JULIO DE 2011)</small>
 
 ###### Artículo 18.
 
-El objeto del Fondo Estatal, será financiar las actividades de fomento y difusión de la investigación científica, tecnológica e innovación en el Estado, mismo que será constituido por:
-
-I. Las aportaciones de los gobiernos federal, estatal y municipales;
-
-II. Las herencias, legados o donaciones que reciba;
-
-III. Los créditos que se obtengan a su favor del sector público o privado;
-
-IV. Los beneficios generados por las patentes que se registren a nombre del Poder Ejecutivo del Estado y los derechos intelectuales que le correspondan, así como el ingreso que perciba por la venta de bienes y prestación de servicios científicos y tecnológicos; y
-
-V. Los apoyos de organismos nacionales e instituciones extranjeras.
+Los investigadores y tecnólogos que soliciten apoyo de cualquier programa del Consejo o que sean responsables de proyectos sometidos al mismo, deberán estar inscritos en el Registro Estatal de Investigadores y Tecnólogos.
 
 ## Título Tercero. Del Fondo Estatal para el Fomento de la Investigación Científica, Tecnológica e Innovación
 
-### Capítulo Segundo. De la divulgación, difusión y fomento de la cultura científica, tecnológica y de innovación
+### Capítulo Primero. Disposiciones generales
+
+> <small>(REFORMADO, P.O. 22 DE JULIO DE 2011)</small>
 
 ###### Artículo 19.
 
-Los recursos provenientes del sector público o privado, destinados al financiamiento de las actividades científicas, tecnológicas y de innovación que se realicen en el Estado, serán intransferibles a actividad distinta.
+Para el otorgamiento de reconocimientos y estímulos económicos, así como para el financiamiento de las actividades de fomento a la investigación científica y el desarrollo e innovación tecnológica, el Consejo operará el Fondo Estatal para el Fomento de la Investigación Científica, Tecnológica e Innovación, que será constituido y administrado mediante las figuras jurídicas que correspondan.
+
+Sin perjuicio de lo establecido en el párrafo anterior, el Consejo podrá promover la constitución y, en su caso, la operación de otros fondos para cumplir con el objeto de la presente Ley.
+
+> <small>(REFORMADO, P.O. 22 DE JULIO DE 2011)</small>
 
 ###### Artículo 20.
 
-Para desarrollar, fortalecer y consolidar una cultura científica, tecnológica y de innovación en la Entidad, el Poder Ejecutivo del Estado, los municipios y el Consejo, en su caso, impulsarán, a través de diversos mecanismos de coordinación y colaboración, la participación de los sectores social, público y privado, para divulgar acciones y difundir actividades científicas, tecnológicas y de innovación.
+El objeto del Fondo Estatal, será el otorgamiento de reconocimientos y estímulos económicos a los integrantes del Sistema, así como el financiamiento de las actividades de fomento y difusión de la investigación científica, tecnológica e innovación en el Estado, mismo que será constituido por:
 
-Asimismo, fomentarán la realización de actividades orientadas a la divulgación de la ciencia, tecnología e innovación, al interior de las dependencias y entidades que conformen la administración pública estatal y municipal.
+I. Las aportaciones de los ámbitos de gobierno, federal, estatal y municipal;
+
+II. Las herencias, legados o donaciones que reciba;
+
+III. Los créditos obtenidos a su favor, del sector público o privado;
+
+IV. Los beneficios generados por las patentes que se registren a nombre del Poder Ejecutivo del Estado y los derechos intelectuales que le correspondan, así como el ingreso que perciba por la venta de bienes y prestación de servicios científicos y tecnológicos; y
+
+V. Los apoyos de carácter pecuniario, otorgados por organismos nacionales e instituciones extranjeras.
+
+> <small>(REFORMADO, P.O. 22 DE JULIO DE 2011)</small>
 
 ###### Artículo 21.
 
+Los recursos provenientes del sector público o privado, destinados al financiamiento de las actividades científicas, tecnológicas y de innovación que se realicen en el Estado, serán intransferibles a actividad distinta.
+
+### Capítulo Segundo. De la divulgación, difusión y fomento de la cultura científica, tecnológica y de innovación
+
+> <small>(REFORMADO, P.O. 22 DE JULIO DE 2011)</small>
+
+###### Artículo 22.
+
+Para desarrollar, fortalecer y consolidar una cultura científica, tecnológica y de innovación en el Estado, el Poder Ejecutivo del Estado, los municipios y, en su caso, el Consejo, impulsarán, a través de diversos mecanismos de coordinación y colaboración, la participación de los sectores social, público y privado, para divulgar acciones y difundir actividades científicas, tecnológicas y de innovación.
+
+Asimismo, fomentarán la realización de actividades orientadas a la divulgación de la ciencia, tecnología e innovación, al interior de las dependencias y entidades que conformen la administración pública.
+
+> <small>(REFORMADO, P.O. 22 DE JULIO DE 2011)</small>
+
+###### Artículo 23.
+
 En el ámbito de sus respectivas competencias y de acuerdo con las necesidades del Estado, la demanda social y los recursos disponibles, los sectores gubernamentales, académico, empresarial y social, procurarán:
 
-I. Promover la conservación, consolidación, actualización y desarrollo de la infraestructura destinada a la divulgación y difusión de la ciencia, tecnología y la innovación, con el objeto de poner a disposición de la comunidad académica, científica y tecnológica y de los sectores público, privado, productivo y social, la información actualizada y de calidad, sobre ciencia, tecnología e innovación en el Estado de Querétaro;
+I. Promover la conservación, consolidación, actualización y desarrollo de la infraestructura destinada a la divulgación y difusión de la ciencia, tecnología e innovación, con el objeto de poner a disposición de las comunidades académica, científica y tecnológica y de los sectores público, privado, productivo y social, la información actualizada y de calidad, sobre ciencia y tecnología en el Estado de Querétaro;
 
 II. Fomentar la realización de actividades que propicien el intercambio de información e ideas en materia de ciencia, tecnología e innovación, para propiciar el desarrollo del conocimiento científico y tecnológico;
 
 III. Impulsar la creación de programas y espacios formativos, recreativos e interactivos, con la finalidad de desarrollar en la población, en general, el interés por la formación científica, tecnológica e innovación; y
 
-IV. Promover la producción de materiales, cuya finalidad sea la divulgación del conocimiento científico, tecnológico y de innovación.
+IV. Promover la producción de materiales, cuya finalidad sea la divulgación del conocimiento científico, tecnológico e innovación.
 
 ## TRANSITORIOS
 
@@ -354,3 +398,11 @@ M. en C. Fernando de la Isla Herrera
 Secretario de Educación
 
 Rúbrica
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS DEL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 22 DE JULIO DE 2011.
+
+Artículo Primero. Esta Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
+
+Artículo Segundo. Se derogan todas aquellas disposiciones de igual o menor jerarquía que se opongan a la presente.
