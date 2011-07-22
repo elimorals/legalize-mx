@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-transito-vialidad-y-movilidad-ciudadana-antes-395
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-05-03"
-last_updated: "2004-05-03"
+last_updated: "2011-07-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=39530&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 REGLAMENTO DE TRANSITO PARA EL MUNICIPIO DE ALLENDE, NUEVO LEON
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE JULIO DE 2011.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el lunes 3 de mayo de 2004.
 
@@ -363,7 +363,15 @@ VI.- TAPÓN DE TANQUE DEL COMBUSTIBLE.- Este deberá ser de diseño original o u
 
 VII.- VEHÍCULOS DE EMERGENCIA.- Todos los vehículos de emergencia deberán contar con una sirena y uno o varios faros o torretas de color rojo, azul o blanco, mismos que deberán ser audibles y visibles respectivamente desde doscientos cincuenta metros;
 
-VIII.- CRISTALES PARABRISAS.- Todos los vehículos automotores deberán estar provistos de un cristal parabrisas transparentes, inastillable y sin roturas. Los demás cristales deberán estar en buenas condiciones. Todos éstos deberán mantenerse limpios y libres de objetos o polarizado que impidan o limiten la visibilidad del conductor;
+> <small>(REFORMADA, P.O. 22 DE JULIO DE 2011)</small>
+
+VIII.- CRISTALES PARABRISAS.- Todos los vehículos automotores deberán estar provistos de un cristal parabrisas transparentes, inastillable y sin roturas. Los demás cristales deberán estar en buenas condiciones. Todos éstos deberán mantenerse limpios y libres de objetos o polarizado que impidan o limiten la visibilidad del conductor.
+
+Sólo se permitirá aplicar recubrimientos transparentes sin ninguna tonalidad o color en los cristales distintos al parabrisas.
+
+Los vidrios entintados de fábrica serán permitidos.
+
+Se aplicará una sanción de 70 cuotas como límite inferior y de 80 cuotas como límite superior a quien porte polarizados después de la puesta en vigor de esta medida (5 de julio 2011) La sanción quedará sin efecto si en un plazo de 15 días naturales el conductor demuestre ante la autoridad correspondiente el retiro de su polarizado.
 
 IX.- TABLERO DEL CONTROL DE VEHÍCULOS.- Los vehículos de motor deben contar con un tablero de control con iluminación nocturna según el fabricante;
 
@@ -2056,3 +2064,9 @@ C. LIC. LUIS ENRIQUE SANTILLAN CHAVÉZ
 Síndico Segundo
 
 La presente hoja de firmas forma parte integrante del Reglamento de Tránsito para el Municipio de Allende, N.L. autorizado en la Décima Segunda Sesión Ordinaria de Cabildo, celebrada en la Sala de Regidores de este municipio el día 28 de abril del año 2004.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 22 DE JULIO DE 2011.
+
+> <small>N. DE E. EL ACUERDO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3 DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE NUEVO LEON.</small>
