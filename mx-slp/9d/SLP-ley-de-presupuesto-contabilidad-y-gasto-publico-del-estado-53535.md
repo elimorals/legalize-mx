@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-presupuesto-contabilidad-y-gasto-publico-del-estado-5353
 country: "mx"
 rank: "ley"
 publication_date: "2006-12-21"
-last_updated: "2010-12-02"
+last_updated: "2011-07-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=53535&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE PRESUPUESTO, CONTABILIDAD Y GASTO PUBLICO DEL ESTADO DE SAN LUIS POTOSI
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE DICIEMBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE JULIO DE 2011.
 
 Ley publicada en la Edición Extraordinaria al Periódico Oficial del Estado de San Luis Potosí, el jueves 21 de diciembre de 2006.
 
@@ -171,9 +171,11 @@ III. En su caso, la situación de la deuda pública al término del último ejer
 
 IV. Consideraciones sobre las condiciones económicas y financieras del Estado, tanto en la actualidad, como las que se prevean para el futuro, y
 
-V. En general, toda la información que se considere útil para mostrar la propuesta en forma clara y completa.
+> <small>(REFORMADA, P.O. 23 DE JULIO DE 2011)</small>
 
-Las dependencias y entidades coordinadoras de sector son responsables de concentrar los proyectos presupuestales correspondientes a sus sectorizadas, consolidarlos con base en los ejes de desarrollo y presentarlos a la Secretaría.
+V. Los tabuladores desglosados de las remuneraciones que se propone perciban sus servidores públicos, sujetándose a las bases previstas en la Ley Reglamentaria del Artículo 133 de la Constitución Política del Estado Libre y Soberano de San Luis Potosí, en materia de remuneraciones y, en general, toda la información que se considere útil para mostrar la propuesta en forma clara y completa.
+
+Las dependencias y entidades coordinadoras de sector son responsables de concentrar los proyectos presupuestales correspondientes a sus sectorizadas, consolidarlos con base en los ejes de desarrollo, y presentarlos a la Secretaría.
 
 La Secretaría integrará la iniciativa de presupuesto de egresos con base en ellos.
 
@@ -686,6 +688,12 @@ P.O. 21 DE MAYO DE 2009.
 UNICO. Este Decreto entrará en vigencia el día siguiente de su publicación en el Periódico Oficial del Estado.
 
 P.O. 2 DE DICIEMBRE DE 2010.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 23 DE JULIO DE 2011.
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
