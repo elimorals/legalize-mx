@@ -4,7 +4,7 @@ identifier: "COL-ley-para-la-inclusion-e-integracion-de-las-personas-con-44837"
 country: "mx"
 rank: "ley"
 publication_date: "2005-05-07"
-last_updated: "2009-02-14"
+last_updated: "2011-07-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44837&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY PARA LA INTEGRACION Y DESARROLLO SOCIAL DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE FEBRERO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE JULIO DE 2011.
 
 Ley publicada en el Periódico Oficial del Estado de Colima, el sábado 7 de mayo de 2005.
 
@@ -181,11 +181,15 @@ XV. Ser sujetos de programas para contar con una vivienda digna y adaptada a sus
 
 XVI. Tener acceso a la Información pública del Estado y los Municipios mediante la habilitación de los mecanismos de comunicación y de lenguaje adecuados para quienes presenten discapacidad auditiva o visual;
 
-Los Gobiernos Estatales y Municipales, así como sus organismos descentralizados y las empresas paraestatales y paramunicipales, garantizarán el ejercicio de este derecho; y
+> <small>(REFORMADO, P.O. 23 DE JULIO DE 2011)</small>
 
-> <small>(ADICIONADA, P.O. 24 DE MAYO DE 2008)</small>
+Los Gobiernos Estatales y Municipales, así como sus organismos descentralizados y las empresas paraestatales y paramunicipales, garantizarán el ejercicio de este derecho;
 
-XVII. Los demás que señalen las leyes.
+> <small>(ADICIONADA, P.O. 23 DE JULIO DE 2011)</small>
+
+XVII. A percibir alimentos de sus familiares en los términos previstos en el Código Civil vigente en el Estado; y
+
+XVIII. Los demás que señalen las leyes.
 
 ### Capítulo III. Del Instituto Colimense para la Discapacidad
 
@@ -926,3 +930,7 @@ P.O. 24 DE MAYO DE 2008.
 P.O. 14 DE FEBRERO DE 2009.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico oficial "El Estado de Colima".
+
+P.O. 23 DE JULIO DE 2011.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
