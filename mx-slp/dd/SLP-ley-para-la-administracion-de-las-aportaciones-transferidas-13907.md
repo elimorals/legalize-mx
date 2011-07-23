@@ -4,7 +4,7 @@ identifier: "SLP-ley-para-la-administracion-de-las-aportaciones-transferidas-139
 country: "mx"
 rank: "ley"
 publication_date: "1999-03-16"
-last_updated: "2010-12-21"
+last_updated: "2011-07-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13907&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY PARA LA ADMINISTRACION DE LAS APORTACIONES TRANSFERIDAS AL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSI
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE DICIEMBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE JULIO DE 2011.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el martes 16 de marzo de 1999.
 
@@ -337,7 +337,7 @@ De conformidad con el Programa de Inversiones, se podrán afectar en fideicomiso
 
 ###### ARTICULO 38.
 
-En caso de que el Fondo Estatal para la Infraestructura Social recibiera recursos adicionales a los establecidos en el Presupuesto de Egresos Estatal, estos quedarán sujetos en cuanto a su administración y ejecución, a lo establecido en la presente Ley.
+En caso de que el Fondo Estatal para la Infraestructura Social recibiera recursos adicionales a los establecidos en el Presupuesto de Egresos Estatal, éstos quedarán sujetos en cuanto a su administración y ejecución, a lo establecido en la presente Ley.
 
 > <small>(REFORMADO, P.O. 12 DE JUNIO DE 2007)</small>
 
@@ -569,9 +569,13 @@ Los ayuntamientos deberán tener bajo su responsabilidad la integración y resgu
 
 Asimismo, a efecto de ampliar la cobertura de vigilancia y control de los recursos, los ayuntamientos entregarán a la Contraloría General del Estado o al Organo de Control y Supervisión Interno del Gobierno Municipal donde esté constituido, el dos al millar del monto total de cada Fondo, conforme las ministraciones que reciban de acuerdo al artículo 57 de la presente Ley.
 
+> <small>(REFORMADO, P.O. 23 DE JULIO DE 2011)</small>
+
 ###### ARTICULO 60.
 
-Para el Programa de Obras y Acciones, los ayuntamientos y los Consejos podrán contemplar en el presupuesto hasta un treinta porciento (sic) de los recursos para programas emergentes y contingencias, llevando a cabo la reprogramación de este rubro, a más tardar el treinta de septiembre del ejercicio fiscal de que se trate.
+Para el Programa de Obras y Acciones, los ayuntamientos y los consejos podrán contemplar en el presupuesto hasta un treinta por ciento, y no menos del diez por ciento, de los recursos para programas emergentes y contingencias, llevando a cabo la reprogramación de este rubro a más tardar el treinta de septiembre del ejercicio fiscal de que se trate; dicha reprogramación deberá ser consensada entre el Presidente Municipal, el Cabildo y el Consejo de Desarrollo Social Municipal, sobre el destino y uso de recurso.
+
+En el supuesto de que el recurso sea reprogramado, éste deberá ser invertido preferentemente en acciones o programas de alto impacto socioeconómico para el municipio.
 
 ###### ARTICULO 61.
 
@@ -661,7 +665,7 @@ El Titular del Ejecutivo del Estado o los funcionarios estatales que designe, po
 
 ###### ARTICULO 71.
 
-El Ejecutivo del Estado, a través de la Secretarí a de Desarrollo Social y Regional, coadyuvará con los ayuntamientos a la realización de estrategias y esquemas para impulsar la participación social.
+El Ejecutivo del Estado, a través de la Secretarí a (sic) de Desarrollo Social y Regional, coadyuvará con los ayuntamientos a la realización de estrategias y esquemas para impulsar la participación social.
 
 ###### ARTICULO 72.
 
@@ -821,7 +825,7 @@ El Estado y los municipios efectuarán los pagos de las obligaciones contraídas
 
 El Estado y los municipios, que en el ejercicio de sus atribuciones de control y supervisión, conozcan que los recursos de los fondos no han sido aplicados a los fines que por cada Fondo se señale en esta Ley, deberán hacerlo del conocimiento en forma inmediata a la Secretaría de la Función Pública, así como a la Auditoría Superior del Estado para proceder en los términos del artículo 49 de la Ley de Coordinación Fiscal Federal.
 
-Cuando la Auditoría Superior del Estado detecte que los recursos de los fondos no se han destinado a los fines establecidos en esta Ley, deberá hacerlo del conocimiento inmediato a la Auditori a (sic) Superior de la Federación de la Cámara de Diputados del Congreso de la Unión.
+Cuando la Auditoría Superior del Estado detecte que los recursos de los fondos no se han destinado a los fines establecidos en esta Ley, deberá hacerlo del conocimiento inmediato a la Auditorí a (sic) Superior de la Federación de la Cámara de Diputados del Congreso de la Unión.
 
 > <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2008)</small>
 
@@ -900,3 +904,9 @@ PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 TERCERO. Para efecto de dar cumplimiento a este Decreto, los consejos de Desarrollo Social que se encuentren en funciones deberán concluir su periódo al término de las presentes administraciones municipales.
+
+P.O. 23 DE JULIO DE 2011.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
