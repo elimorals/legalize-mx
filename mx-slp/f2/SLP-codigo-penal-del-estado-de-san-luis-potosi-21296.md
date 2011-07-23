@@ -4,7 +4,7 @@ identifier: "SLP-codigo-penal-del-estado-de-san-luis-potosi-21296"
 country: "mx"
 rank: "codigo"
 publication_date: "2000-09-30"
-last_updated: "2011-07-02"
+last_updated: "2011-07-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21296&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 CODIGO PENAL DEL ESTADO DE SAN LUIS POTOSI
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE JULIO DE 2011.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE JULIO DE 2011.
 
 Código publicado en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 30 de septiembre de 2000.
 
@@ -1061,6 +1061,24 @@ Si el homicidio es calificado, se impondrá una pena de quince a cuarenta años 
 
 Cuando en la comisión de un delito de homicidio intervengan dos o más personas y no conste quien fue el homicida, a todas se les impondrá las sanciones que correspondan conforme al artículo 75 de éste Código.
 
+> <small>(ADICIONADO, P.O. 23 DE JULIO DE 2011)</small>
+
+ARTICULO 114 BIS. El homicidio cometido en agravio de una mujer se considera feminicidio cuando se cometa:
+
+I. Para ocultar una violación;
+
+II. Por desprecio u odio a la víctima;
+
+III. Por tortura o tratos crueles o degradantes;
+
+IV. Exista o haya existido una relación de afecto entre la víctima y el agresor;
+
+V. Se haya realizado por violencia familiar, o
+
+VI. La víctima se haya encontrado en estado de indefensión.
+
+Este delito se sancionará con una pena de dieciséis a cuarenta y un años de prisión, y sanción pecuniaria de cuatrocientos a novecientos días de salario mínimo.
+
 ### CAPITULO II. LESIONES
 
 ###### ARTICULO 115.
@@ -1131,11 +1149,13 @@ V. Hay cruel perversidad cuando el inculpado actúa sanguinariamente y con tal s
 
 También se considerarán calificadas las lesiones y el homicidio, y serán sancionados como tal, cuando se cometan en agravio de una mujer por su condición de género.
 
+> <small>(REFORMADO, P.O. 23 DE JULIO DE 2011)</small>
+
 ###### ARTICULO 124.
 
-Al que sorprendiendo a su cónyuge en el acto carnal o próximo a la consumación, mate o lesione a cualquiera de los culpables o a ambos, salvo el caso de que el agresor haya contribuido a la corrupción de su cónyuge, se le impondrá la mitad de la pena del delito de que se trate.
+Al ascendiente que mate al corruptor de su descendiente que esté bajo su potestad, si lo hiciere en el momento de hallarlos en el acto carnal o en uno próximo a él, se le impondrá una pena de un mes a cuatro años de prisión y sanción pecuniaria de cinco a ochenta días de salario mínimo, si no ha procurado la corrupción de su descendiente.
 
-Al ascendiente que mate o lesione al corruptor de su descendiente que esté bajo su potestad, si lo hiciere en el momento de hallarlos en el acto carnal o en uno próximo a él, se le impondrá una pena de un mes a cuatro años de prisión y sanción pecuniaria de cinco a ochenta días de salario mínimo, si no ha procurado la corrupción de su descendiente.
+Si únicamente ocasionara lesiones se le impondrá de hasta un cuarto de la pena a aplicar, en los supuestos a los que aluden los artículos, 115, 116, 117, y 118 de este Código.
 
 ###### ARTICULO 125.
 
@@ -3776,5 +3796,11 @@ La ejecución de sentencias que se pronuncien a partir de la entrada en vigor de
 P.O. 2 DE JULIO DE 2011.
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan las disposiciones que se opongan a este Decreto.
+
+P.O. 23 DE JULIO DE 2011.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan las disposiciones que se opongan a este Decreto.
