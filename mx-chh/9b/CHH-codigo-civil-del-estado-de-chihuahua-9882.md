@@ -4,7 +4,7 @@ identifier: "CHH-codigo-civil-del-estado-de-chihuahua-9882"
 country: "mx"
 rank: "codigo"
 publication_date: "1974-03-23"
-last_updated: "2010-10-02"
+last_updated: "2011-07-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9882&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CÓDIGO CIVIL DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE OCTUBRE DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE JULIO DE 2011.
 
 Código publicado en el Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 23 de marzo de 1974.
 
@@ -921,7 +921,9 @@ VII.- La fuerza o miedo graves. En caso de rapto, subsiste el impedimento entre 
 
 VIII.- (DEROGADA, P.O. 27 DE OCTUBRE DE 2007)
 
-IX.- El idiotismo y la imbecilidad;
+> <small>(REFORMADA, P.O. 23 DE JULIO DE 2011)</small>
+
+IX.- La discapacidad mental o intelectiva;
 
 X.- El matrimonio subsiste con persona distinta de aquella con quien se pretende contraer.
 
@@ -1601,7 +1603,9 @@ IV.- Si el hijo no nació capaz de vivir.
 
 307.- En todos los casos en que el marido tenga derecho de contradecir que el nacido es hijo de su matrimonio, deberá deducir su acción dentro de sesenta días, contados desde el nacimiento, si está presente; desde el día en que llegó al lugar, si estuvo ausente; o desde el día en que descubrió el engaño, si se le ocultó el nacimiento.
 
-308.- Si el marido estaba bajo tutela por causa de demencia, imbecilidad u otro motivo que lo prive de inteligencia, este derecho puede ser ejecutado por su tutor. Si éste no lo ejercitare, podrá hacerlo el marido después de haber salido de la tutela, pero siempre en el plazo antes designado, que se contará desde el día en que legalmente se declare haber cesado el impedimento.
+> <small>(REFORMADO, P.O. 23 DE JULIO DE 2011)</small>
+
+308.- Si el marido estaba bajo tutela por causa de discapacidad mental o intelectiva, este derecho puede ser ejecutado por su tutor. Si éste no lo ejercitare, podrá hacerlo el marido después de haber salido de la tutela, pero siempre en el plazo antes designado, que se contará desde el día en que legalmente se declare haber cesado el impedimento.
 
 309.- Cuando el marido, teniendo o no tutor, ha muerto sin recobrar la razón, los herederos pueden contradecir la paternidad en los casos en que podría hacerlo el padre.
 
@@ -2167,7 +2171,9 @@ En la tutela se cuidará preferentemente de la persona de los incapacitados. Su 
 
 I.- Los menores de edad;
 
-II.- Los mayores de edad privados de inteligencia por locura, idiotismo o imbecilidad, aun cuando tengan intervalos lúcidos;
+> <small>(REFORMADA, P.O. 23 DE JULIO DE 2011)</small>
+
+II.- Los mayores de edad privados de inteligencia por discapacidad mental o intelectiva, aun cuando tengan intervalos lúcidos;
 
 III.- Los sordomudos que no saben leer ni escribir;
 
@@ -2203,13 +2209,17 @@ IV.- Los ebrios consuetudinarios, y los que habitualmente hacen uso inmoderado d
 
 440.- Los tutores y curadores no pueden ser removidos de su cargo sin que previamente hayan sido oídos y vencidos en juicio.
 
-441.- El menor de edad que fuere demente, idiota, imbécil, sordomudo, ebrio consuetudinario o que habitualmente abuse de las drogas enervantes, estará sujeto a la tutela de menores, mientras no llega a la mayor edad.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE JULIO DE 2011)</small>
+
+441.- El menor de edad que tenga discapacidad mental o intelectiva o fuere ebrio consuetudinario o que habitualmente abuse de las drogas enervantes, estará sujeto a la tutela de menores, mientras no llega a la mayor edad.
 
 Si al cumplirse ésta continuare el impedimento, el incapaz se sujetará a nueva tutela, previo juicio de interdicción, en el cual serán oídos el tutor y el curador anteriores.
 
 442.- Los hijos menores de un incapacitado quedarán bajo la patria potestad del ascendiente que corresponda conforme a la ley; y no habiéndolo, se les proveerá de tutor.
 
-443.- El cargo de tutor del demente, idiota, imbécil, sordomudo, ebrio consuetudinario y de los que habitualmente abusen de las drogas enervantes, durará el tiempo que subsista la interdicción, cuando sea ejercitado por los descendientes o por los ascendientes. El cónyuge sólo tendrá obligación de desempeñar ese cargo mientras conserve su carácter de cónyuge. Los extraños que desempeñen la tutela de que se trata, tienen derecho de que se les releve de ella a los diez años de ejercerla.
+> <small>(REFORMADO, P.O. 23 DE JULIO DE 2011)</small>
+
+443.- El cargo de tutor de la persona con discapacidad mental o intelectiva, sordomudo, ebrio consuetudinario y de los que habitualmente abusen de las drogas enervantes, durará el tiempo que subsista la interdicción, cuando sea ejercitado por los descendientes o por los ascendientes. El cónyuge sólo tendrá obligación de desempeñar ese cargo mientras conserve su carácter de cónyuge. Los extraños que desempeñen la tutela de que se trata, tienen derecho de que se les releve de ella a los diez años de ejercerla.
 
 444.- La interdicción de que habla el artículo anterior no cesará sino por la muerte del incapacitado o por sentencia definitiva, que se pronunciará en juicio seguido conforme a las mismas reglas establecidas para el de interdicción.
 
@@ -2265,7 +2275,9 @@ II.- Por falta o incapacidad de los hermanos, a los demás colaterales dentro de
 
 462.- La falta temporal del tutor legítimo se suplirá en los términos establecidos en los dos artículos anteriores.
 
-### CAPITULO IV. DE LA TUTELA LEGITIMA DE LOS DEMENTES, IDIOTAS, IMBECILES, SORDOMUDOS, EBRIOS Y DE LOS QUE HABITUALMENTE ABUSAN DE LAS DROGAS ENERVANTES
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 23 DE JULIO DE 2011)</small>
+
+### CAPITULO IV. DE LA TUTELA LEGITIMA DE LAS PERSONAS CON DISCAPACIDAD MENTAL O INTELECTIVA, SORDOMUDOS, EBRIOS Y DE LOS QUE HABITUALMENTE ABUSAN DE LAS DROGAS ENERVANTES
 
 463.- El marido es tutor legítimo y forzoso de su mujer, y ésta lo es de su marido.
 
@@ -2417,7 +2429,9 @@ VI.- El tutor que permanezca ausente por más de seis meses del lugar en que deb
 
 482.- No pueden ser tutores ni curadores del demente los que hayan sido causa de la demencia ni los que la hayan fomentado directa o indirectamente.
 
-483.- Lo dispuesto en el artículo anterior se aplicará, en cuanto fuere posible, a la tutela de los idiotas, imbéciles, sordomudos, ebrios consuetudinarios y de los que abusen habitualmente de las drogas enervantes.
+> <small>(REFORMADO, P.O. 23 DE JULIO DE 2011)</small>
+
+483.- Lo dispuesto en el artículo anterior se aplicará, en cuanto fuere posible, a la tutela de las personas con discapacidad mental o intelectiva, sordomudos, ebrios consuetudinarios y de los que abusen habitualmente de las drogas enervantes.
 
 484.- El Ministerio Público y los parientes del pupilo, tienen derecho de promover la separación de los tutores que se encuentren en alguno de los casos previstos en el artículo 481.
 
@@ -12742,3 +12756,13 @@ P.O. 2 DE OCTUBRE DE 2010.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día cinco de octubre de dos mil diez, previa su publicación en el Periódico Oficial del Estado.
+
+P.O. 23 DE JULIO DE 2011.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Quedan sin efecto todas las disposiciones legales y reglamentarias que se opongan al presente Decreto.
