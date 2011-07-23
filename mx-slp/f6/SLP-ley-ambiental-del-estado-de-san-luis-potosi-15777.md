@@ -4,7 +4,7 @@ identifier: "SLP-ley-ambiental-del-estado-de-san-luis-potosi-15777"
 country: "mx"
 rank: "ley"
 publication_date: "1999-12-15"
-last_updated: "2010-05-11"
+last_updated: "2011-07-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15777&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY AMBIENTAL DEL ESTADO DE SAN LUIS POTOSI
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE MAYO DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE JULIO DE 2011.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de San Luis Potosí, el miércoles 15 de diciembre de 1999.
 
@@ -53,6 +53,12 @@ II. Llevar a cabo la formulación, conducción y evaluación de la política amb
 
 III. La conservación, restauración y mejoramiento del ambiente;
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 23 DE JULIO DE 2011)</small>
+
+III. BIS. Llevar a cabo las medidas de mitigación, adaptación, control y prevención ante el cambio climático, mediante la expedición del programa estatal correspondiente;
+
 IV. Regular la conservación y protección de la biodiversidad, así como el establecimiento y administración de las áreas naturales protegidas de competencia estatal y municipal;
 
 V. La prevención y el control de la contaminación en los casos no reservados a la federación;
@@ -80,6 +86,12 @@ I. La formulación y ejecución de los planes de ordenamiento ecológico de la E
 II. La formulación y ejecución de las declaratorias de áreas naturales protegidas de jurisdicción estatal o municipal, su protección y conservación, así como sus respectivos planes de manejo y recuperación;
 
 III. El otorgamiento o negativa de la licencia de uso del suelo, respecto de obras y actividades que se pretendan realizar fuera de las áreas urbanas o urbanizables del Estado;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 23 DE JULIO DE 2011)</small>
+
+III. BIS. La formulación, coordinación, expedición, aplicación y evaluación del Programa Estatal de Acción ante el Cambio Climático;
 
 IV. La autorización o negativa para la explotación de bancos de materiales para la construcción, y de aquellas actividades donde se exploten o beneficien productos derivados de la descomposición de las rocas, cuya explotación se realice preponderantemente por medio de trabajos a cielo abierto, así como la protección y conservación de la seguridad del suelo y la rehabilitación de éste, al término de las faenas extractivas;
 
@@ -221,13 +233,65 @@ LII. Plantas de selección y tratamiento: la instalación donde se lleva a cabo 
 
 LIII. Relleno sanitario: obra de infraestructura que involucra métodos y obras de ingeniería para la disposición final de los residuos sólidos urbanos y de manejo especial, con el fin de controlar, a través de la compactación e infraestructura adicionales, los impactos ambientales;
 
-> <small>(ADICIONADA, P.O. 11 DE MAYO DE 2010)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-LIV. Sitios de disposición final: lugar donde se depositan los residuos sólidos urbanos y de manejo especial, en forma definitiva, y
+> <small>(REFORMADA, P.O. 23 DE JULIO DE 2011)</small>
 
-> <small>(ADICIONADA, P.O. 11 DE MAYO DE 2010)</small>
+LIV. Sitios de disposición final: lugar donde se depositan los residuos sólidos urbanos y de manejo especial, en forma definitiva;
 
-LV. Valorización: principio y conjunto de acciones asociadas cuyo objetivo es recuperar el valor remanente o el poder calorífico de los materiales que componen los residuos, mediante su incorporación en procesos productivos, bajo criterios de responsabilidad compartida, manejo integral y eficiencia ambiental, tecnológica y económica.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 23 DE JULIO DE 2011)</small>
+
+LV. Valorización: principio y conjunto de acciones asociadas cuyo objetivo es recuperar el valor remanente o el poder calorífico de los materiales que componen los residuos, mediante su reincorporación en procesos productivos, bajo criterios de responsabilidad compartida, manejo integral y eficiencia ambiental, tecnológica y económica;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 23 DE JULIO DE 2011)</small>
+
+LVI. Adaptación: medida encaminada a reducir la vulnerabilidad de los sistemas naturales y humanos, ante los efectos del cambio climático;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 23 DE JULIO DE 2011)</small>
+
+LVII. Cambio Climático: variación del clima atribuido directa o indirectamente a la actividad humana que altera la composición de la atmósfera mundial, y que se suma a la variabilidad natural del clima observada durante periodos de tiempo comparables;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 23 DE JULIO DE 2011)</small>
+
+LVIII. Emisiones: liberación de gases de efecto invernadero en la atmósfera;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 23 DE JULIO DE 2011)</small>
+
+LIX. Gases de Efecto Invernadero: componentes gaseosos de la atmósfera, que absorben y remiten radiación infrarroja y que están incluidos en el Anexo A del Protocolo de Kyoto:
+
+a) Dióxido de carbono (CO2)
+
+b) Metano (CH)
+
+c) Óxido nitroso (N2O)
+
+d) Hidrofluorocarbonos (HFC)
+
+e) PerfluorocarbonOs (PFC)
+
+f) Hexafluoruro de azufre (SF);
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 23 DE JULIO DE 2011)</small>
+
+LX. Mitigación: medida ambiental destinada a reducir las emisiones de gases de efecto invernadero o incrementar su captura, y
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 23 DE JULIO DE 2011)</small>
+
+LXI. Vulnerabilidad: incapacidad de un sistema climático, hidrológico o humano, para enfrentar los efectos del cambio climático en los aspectos, sociales, económicos, culturales, biológicos, sanitarios y ambientales.
 
 ###### ARTICULO 4o.
 
@@ -243,7 +307,11 @@ I. A la presente, Ley Ambiental del Estado de San Luis Potosí, la Ley;
 
 II. A la Ley General del Equilibrio Ecológico y la Protección al Ambiente, la LGEEPA;
 
-III. A la Secretaría de Medio Ambiente, Recursos Naturales y Pesca, la SEMARNAP;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 23 DE JULIO DE 2011)</small>
+
+III. A la Secretaría de Medio Ambiente y Recursos Naturales, la SEMARNAT;
 
 IV. A la Procuraduría Federal de Protección al Ambiente, la PROFEPA;
 
@@ -273,7 +341,11 @@ I. La formulación, conducción y evaluación de la política ambiental de la En
 
 II. La aplicación de los principios e instrumentos de política ambiental previstos en los artículos 12 y 13 de esta Ley, en los términos en ellos establecidos, así como la regulación de las acciones para la protección, conservación y restauración del ambiente que se realice en bienes y zonas de jurisdicción estatal, con excepción de los asuntos reservados a la competencia federal;
 
-III. La atención de los asuntos que afecten el ambiente en el territorio del Estado;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 23 DE JULIO DE 2011)</small>
+
+III. La formulación, expedición, aplicación y evaluación del Programa Estatal de Acción ante el Cambio Climático, así como la atención de los demás asuntos que afecten el ambiente en el territorio del Estado;
 
 IV. La regulación del aprovechamiento sustentable, la prevención y control de la contaminación de las aguas de jurisdicción estatal, así como de las aguas nacionales que la federación hubiese asignado al Estado;
 
@@ -385,6 +457,12 @@ II. La aplicación de los principios e instrumentos de política ambiental previ
 
 III. La participación en la formulación, aprobación y expedición de los planes de ordenamiento ecológico del territorio a que se refiere el artículo 20 Bis 4 de la LGEEPA, en los términos en ella previstos, así como el control y la vigilancia del uso y cambio de uso del suelo, establecidos en dichos planes;
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 23 DE JULIO DE 2011)</small>
+
+III BIS. Expedir los reglamentos para el cumplimiento de las atribuciones que le otorga esta Ley;
+
 IV. La aplicación de las disposiciones jurídicas en materia de prevención y control de la contaminación atmosférica generada por fuentes fijas que provengan de establecimientos mercantiles o de servicios, así como de las emisiones de contaminantes a la atmósfera provenientes de fuentes móviles que no sean consideradas de jurisdicción federal, con la participación que corresponda al Gobierno del Estado en los términos previstos en esta Ley, así como para el otorgamiento de permisos para combustiones a cielo abierto, cuyo propósito sea adiestrar y capacitar al personal encargado del combate de incendios;
 
 > <small>(REFORMADA, P.O. 11 DE MAYO DE 2010)</small>
@@ -411,13 +489,29 @@ XIII. Requerir a quienes realicen actividades contaminantes, la instalación de 
 
 XIV. La vigilancia del cumplimiento de las normas oficiales mexicanas expedidas por la federación, en las materias y supuestos a que se refieren las fracciones III, IV, VI y VII del artículo 8 de la LGEEPA, así como de la normatividad estatal;
 
-XV. Solicitar a la SEMARNAP exija la instalación de equipos de control de emisiones en los casos de actividades que se realicen en la Entidad y sean de competencia federal;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 23 DE JULIO DE 2011)</small>
+
+XV. Solicitar a la SEMARNAT exija la instalación de equipos de control de emisiones, en los casos de actividades que se realicen en la Entidad y sean de competencia federal;
 
 XVI. Establecer y operar sistemas de verificación de emisiones de contaminantes a la atmósfera para los vehículos automotores que circulen por el territorio del respectivo municipio, con la participación que corresponda en los términos de la presente Ley, al Gobierno del Estado;
 
 XVII. Aplicar las medidas de tránsito y vialidad necesarias para reducir los niveles de emisión de contaminantes a la atmósfera de los vehículos automotores, incluso limitar su circulación cuando los niveles de emisión de contaminantes excedan los máximos permisibles, establecidos en la normatividad ambiental;
 
 XVIII. La formulación y conducción de la política municipal de información y difusión en materia ambiental;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 23 DE JULIO DE 2011)</small>
+
+XVIII BIS. Participar en los programas nacionales de reforestación;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 23 DE JULIO DE 2011)</small>
+
+XVIII TER. Coadyuvar con las entidades estatales en materia de mitigación, adaptación, control y prevención del cambio climático;
 
 XIX. Expedir las licencias de uso de suelo conforme a los lineamientos establecidos en la Ley de Desarrollo Urbano, en la presente Ley, en los planes de ordenamiento ecológico, de desarrollo urbano y demás disposiciones normativas y reglamentarias aplicables;
 
@@ -443,7 +537,11 @@ XXVIII. Elaborar informes periódicos sobre el estado del ambiente en el respect
 
 XXIX. Celebrar con la federación, el Estado y los sectores social y privado, convenios de concertación para la realización de acciones en las materias de esta Ley y que se encuentren en su órbita de competencia;
 
-XXX. Participar en la organización y administración de las áreas naturales protegidas que se ubiquen dentro del correspondiente municipio, en los términos de los artículos 46 y 67 de la LGEEPA o en los términos que se convengan con la SEMARNAP y con el Gobierno del Estado;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 23 DE JULIO DE 2011)</small>
+
+XXX. Participar en la organización y administración de las áreas naturales protegidas que se ubiquen dentro del correspondiente municipio, en los términos de los artículos 46 y 67 de la LGEEPA, o en los términos que se convengan con la SEMARNAT y con el Gobierno del Estado;
 
 XXXI. Aplicar por sí o a través de los organismos operadores del agua, las medidas de seguridad e imponer las sanciones administrativas que correspondan, en el ámbito de su competencia y de conformidad con esta Ley;
 
@@ -535,13 +633,21 @@ XVII. La gestión ambiental municipal, así como la descentralización de funcio
 
 En la planeación estatal del desarrollo se deberá incorporar la política ambiental y el ordenamiento ecológico del territorio de la Entidad, que se establezcan de conformidad con la LGEEPA, esta Ley y las demás disposiciones en la materia.
 
-En la planeación y realización de las acciones a cargo de las dependencias y entidades de la administración pública estatal, conforme a sus respectivas esferas de competencia, así como en el ejercicio de las atribuciones que las leyes confieran al Gobierno del Estado para regular, promover, restringir, prohibir, orientar y en general inducir las acciones de los particulares en los campos económico y social, se observarán los lineamientos de política ambiental que establezcan el Plan Estatal de Desarrollo y los programas correspondientes.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 23 DE JULIO DE 2011)</small>
+
+En la planeación y realización de las acciones a cargo de las dependencias y entidades de la administración pública estatal, conforme a sus respectivas esferas de competencia, así como en el ejercicio de las atribuciones que las leyes confieran al Gobierno del Estado para regular, promover, restringir, prohibir, orientar y, en general, inducir las acciones de los particulares en los campos económico y social, se observarán los lineamientos de política ambiental que establezcan el Plan Estatal de Desarrollo, el Programa Estatal de Acción ante el Cambio Climático, y los programas correspondientes.
 
 ###### ARTICULO 14.
 
 Los instrumentos mediante los cuales el Estado y los ayuntamientos, en su caso, llevarán a cabo los propósitos de la política ambiental, son los siguientes:
 
-I. Los planes de ordenamiento ecológico del territorio y los programas derivados de los mismos, así como las declaratorias de áreas naturales protegidas de jurisdicción estatal y municipal, así como sus correspondientes planes de manejo o recuperación que, como integrantes del ordenamiento ecológico de la Entidad están establecidos y regulados en esta Ley;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 23 DE JULIO DE 2011)</small>
+
+I. Los planes de ordenamiento ecológico del territorio y los programas derivados de los mismos; los programas locales derivados del Programa Estatal de Acción ante el Cambio Climático; así como las declaratorias de áreas naturales protegidas de jurisdicción estatal y municipal, así como sus correspondientes planes de manejo o recuperación que, como integrantes del ordenamiento ecológico de la Entidad están establecidos y regulados en esta Ley;
 
 > <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2006)</small>
 
@@ -575,9 +681,23 @@ II. La vocación de cada zona o región en función de sus recursos naturales, l
 
 III. El deterioro ambiental existente en los ecosistemas por efecto de los asentamientos humanos, de las actividades económicas o de otras actividades humanas;
 
-IV. El equilibrio dinámico que debe existir entre los asentamientos humanos y sus condiciones ambientales, y
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-V. El impacto ambiental de nuevos asentamientos humanos, vías de comunicación y demás obras o actividades.
+> <small>(REFORMADA, P.O. 23 DE JULIO DE 2011)</small>
+
+IV. El equilibrio dinámico que debe existir entre los asentamientos humanos y sus condiciones ambientales;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 23 DE JULIO DE 2011)</small>
+
+V. El impacto ambiental de nuevos asentamientos humanos, vías de comunicación y demás obras o actividades, y
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 23 DE JULIO DE 2011)</small>
+
+VI. El cambio climático generado por la acumulación de gases de efecto invernadero que puede causar desequilibrio en los ecosistemas, tanto terrestres, como acuáticos, y en la atmósfera.
 
 ###### ARTICULO 16.
 
@@ -827,9 +947,101 @@ En el registro se consignarán los datos relacionados con el establecimiento del
 
 La SEGAM promoverá ante las autoridades responsables de cada área, la incorporación de apropiadas reglas de manejo que incluyan la conservación, administración, desarrollo y vigilancia de las áreas integrantes del sistema.
 
-### CAPITULO IV. DE LOS INSTRUMENTOS ECONOMICOS
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-### CAPITULO V. DEL USO DEL SUELO Y DE LA LICENCIA
+> <small>(ADICIONADO, P.O. 23 DE JULIO DE 2011)</small>
+
+ARTICULO 44 BIS. Para la preservación y aprovechamiento sustentable de la flora y fauna silvestre, la SEGAM, previo a los estudios correspondientes, podrá promover ante las autoridades federales competentes:
+
+I. El establecimiento o modificación de vedas;
+
+II. La declaración de especies en situación de, amenazadas, raras, en peligro de extinción, endémicas o sujetas a protección especial;
+
+III. La creación de áreas de refugio para protección de las especies;
+
+IV. La modificación o revocación de concesiones, permisos y, en general, de toda clase de autorización para el aprovechamiento, posesión, administración, conservación, población, propagación y desarrollo de la flora y fauna silvestre;
+
+V. La planeación, realización de estudios y evaluación de programas forestales, y
+
+VI. Contribuir en las labores del combate y la prevención de incendios, plagas y enfermedades que afecten a los recursos forestales.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 23 DE JULIO DE 2011)</small>
+
+### CAPITULO III BIS. DE LAS FACULTADES EN MATERIA DE CAMBIO CLIMATICO
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 23 DE JULIO DE 2011)</small>
+
+ARTICULO 44 TER. Para la atención y prevención de los efectos del cambio climático, el Ejecutivo del Estado, por conducto de la SEGAM, coordinará las acciones de las dependencias y entidades de la administración pública estatal.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 23 DE JULIO DE 2011)</small>
+
+ARTICULO 44 QUATER. A la SEGAM le corresponde el diseño, formulación e instrumentación de las políticas estatales para la prevención y mitigación de emisiones de gases de efecto invernadero; la adaptación a los efectos del cambio climático; y la promoción del desarrollo de programas y estrategias estatales de acción climática.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 23 DE JULIO DE 2011)</small>
+
+ARTICULO 44 QUINQUE. El Programa Estatal de Acción ante el Cambio Climático deberá incluir:
+
+I. Las políticas estatales y su congruencia con las políticas nacionales sobre cambio climático y protección de la capa de ozono;
+
+II. La integración de un diagnóstico sobre la problemática del cambio climático y su impacto en el Estado;
+
+III. La coordinación de estrategias estatales de acción climática entre las distintas dependencias y entidades gubernamentales, y la difusión periódica de los avances en la materia;
+
+IV. La formulación y adopción de las políticas, estrategias y acciones necesarias para el cumplimiento de los fines de la SEGAM;
+
+V. El diseño del Programa de Modelación del Clima; y del Sistema Estatal de Información Climática;
+
+VI. La valoración económica de los costos asociados al cambio climático en el Estado;
+
+VII. La creación del Sistema de Monitoreo Atmosférico para la contabilización de emisiones de gases de efecto invernadero en el Estado;
+
+VIII. La promoción, difusión, evaluación y, en su caso, aprobación de proyectos de reducción de emisiones y captura de gases de efecto invernadero, y
+
+IX. La planeación de proyectos regionales de reducción de gases de efecto invernadero, en las empresas asentadas en el Estado.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 23 DE JULIO DE 2011)</small>
+
+ARTICULO 44 SEXTIES. El Ejecutivo del Estado, a propuesta de la SEGAM, podrá incluir en forma anual, dentro del Proyecto de Presupuesto de Egresos, una partida destinada a la aplicación del Programa Estatal de Acción ante el Cambio Climático.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 23 DE JULIO DE 2011)</small>
+
+ARTICULO 44 SEPTIES. Para fines de consulta e investigación en materia de cambio climático, el Ejecutivo del Estado promoverá la integración del Consejo Consultivo de Cambio Climático.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 23 DE JULIO DE 2011)</small>
+
+ARTICULO 44 OCTIES. El Consejo Consultivo de Cambio Climático es el órgano de consulta especializado, que tiene por objeto dar el apoyo técnico y científico necesario para el buen desempeño de la planeación, ejecución, evaluación y control de la política en materia de cambio climático en el Estado.
+
+Se constituye como cuerpo colegiado de coordinación interinstitucional, el cual se conformará preferentemente por los representantes de organizaciones e instituciones sociales, empresariales y de investigación, de educación superior y profesionistas, y de dependencias y entidades gubernamentales, con mérito y experiencia en el tema de cambio climático.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 23 DE JULIO DE 2011)</small>
+
+ARTICULO 44 NONIES. Para la integración del Consejo Consultivo de Cambio Climático, el Ejecutivo del Estado convocará a las instituciones y organizaciones que se precisan en el artículo inmediato anterior, en los términos que para ello disponga.
+
+Los integrantes de este Consejo Consultivo de Cambio Climático desempeñarán su cargo de manera honorífica, y conforme al tiempo que establezca al efecto su reglamento interno.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 23 DE JULIO DE 2011)</small>
+
+ARTICULO 44 DECIES. La organización, estructura y funcionamiento del Consejo Consultivo de Cambio Climático, se determinará en el reglamento interno emitido por el Ejecutivo Estatal.
+
+### CAPITULO IV. DE LOS INSTRUMENTOS ECONOMICOS
 
 ###### ARTICULO 45.
 
@@ -859,9 +1071,11 @@ Para lograr lo anterior, se suscribirán los convenios y acuerdos que correspond
 
 Las prerrogativas derivadas de los instrumentos económicos de mercado serán transferibles, no gravables y quedarán sujetas al interés público y al aprovechamiento sustentable de los recursos naturales.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE JULIO DE 2011)</small>
+
 ###### ARTICULO 47.
 
-La SEGAM considerará como prioritarias, para efectos del otorgamiento de los estímulos fiscales, las disposiciones establecidas en la Ley de Hacienda del Estado, El Código Fiscal del Estado o en la Ley de Hacienda de los Municipios, según corresponda, en relación con las actividades siguientes:
+La SEGAM considerará como prioritarias para efectos del otorgamiento de los estímulos fiscales, las disposiciones establecidas en la Ley de Hacienda del Estado, el Código Fiscal del Estado, o en la Ley de Hacienda de los Municipios, según corresponda, en relación con las actividades siguientes:
 
 I. La investigación, incorporación o utilización de mecanismos, equipos y tecnologías que tengan por objeto evitar, reducir o controlar el deterioro ambiental, así como el uso eficiente de energía y de recursos naturales;
 
@@ -869,11 +1083,19 @@ II. El ahorro y aprovechamiento sustentable y la prevención de la contaminació
 
 III. La ubicación y reubicación de instalaciones industriales, comerciales y de servicios en áreas ambientalmente adecuadas, con el apego estricto a los planes de desarrollo urbano y programas de ordenamiento ecológico regional y local;
 
-IV. El establecimiento, manejo y vigilancia de áreas naturales protegidas de competencia estatal y municipal, y
+> <small>(REFORMADA, P.O. 23 DE JULIO DE 2011)</small>
 
-V. En general, aquellas actividades relacionadas con la protección, conservación y restauración del ambiente.
+IV. El establecimiento, manejo y vigilancia de áreas naturales protegidas de competencia estatal y municipal;
 
-### CAPITULO I. DISPOSICIONES GENERALES
+> <small>(ADICIONADA, P.O. 23 DE JULIO DE 2011)</small>
+
+V. La producción, promoción, entrega y utilización de bolsas de plástico biodegradables, y
+
+> <small>(REFORMADA, P.O. 23 DE JULIO DE 2011)</small>
+
+VI. En general, aquellas actividades relacionadas con la protección, conservación y restauración del ambiente.
+
+### CAPITULO V. DEL USO DEL SUELO Y DE LA LICENCIA
 
 ###### ARTICULO 48.
 
@@ -929,9 +1151,7 @@ El otorgamiento de dichas licencias será conforme lo dispone la Ley de Desarrol
 
 ## TITULO QUINTO. DEL APROVECHAMIENTO SUSTENTABLE DE LOS ELEMENTOS NATURALES Y ANTROPICOS
 
-### CAPITULO II
-
-DE LA EXPLOTACION DE BANCOS DE MATERIALES PARA LA CONSTRUCCION Y DE OTRAS ACTIVIDADES CUYA EXPLOTACION SE REALICE PREPONDERANTEMENTE POR MEDIO DE TRABAJOS A CIELO ABIERTO
+### CAPITULO I. DISPOSICIONES GENERALES
 
 ###### ARTICULO 59.
 
@@ -945,7 +1165,9 @@ III. Las tierras que se encuentran o sean aptas para cualquier explotación agr�
 
 IV. Las construcciones en predios rústicos y las actividades que se realicen o pretendan realizarse incluso en zonas ejidales deslindadas y fragmentadas en los términos de la Ley Agraria y los reglamentos que de ella se deriven, requerirán para su ejecución licencia municipal, así como licencia de uso del suelo en los casos que corresponda de acuerdo a esta Ley.
 
-### CAPITULO III. DEL APROVECHAMIENTO DE LAS AGUAS DE JURISDICCION ESTATAL
+### CAPITULO II
+
+DE LA EXPLOTACION DE BANCOS DE MATERIALES PARA LA CONSTRUCCION Y DE OTRAS ACTIVIDADES CUYA EXPLOTACION SE REALICE PREPONDERANTEMENTE POR MEDIO DE TRABAJOS A CIELO ABIERTO
 
 ###### ARTICULO 60.
 
@@ -979,7 +1201,11 @@ IV. Proyecto, memoria descriptiva, especificaciones técnicas para la explotaci�
 
 V. Dictamen de factibilidad otorgado por el Municipio;
 
-VI. Autorizaciones, cuando corresponda, de la SEMARNAP para cambio de uso del suelo de terrenos forestales o de aptitud preferentemente forestal, y de la CNA en su caso para la protección de mantos freáticos, y de la Secretaría de la Defensa Nacional para el uso, almacenamiento y transporte de pólvora y explosivos, y
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 23 DE JULIO DE 2011)</small>
+
+VI. Autorizaciones, cuando corresponda, de la SEMARNAT para cambio de uso del suelo de terrenos forestales o de aptitud preferentemente forestal; y de la CNA, en su caso, para la protección de mantos freáticos; y de la Secretaría de la Defensa Nacional para el uso, almacenamiento y transporte de pólvora y explosivos, y
 
 VII. La autorización en materia de impacto ambiental expedida por la SEGAM.
 
@@ -1037,7 +1263,7 @@ II. Por presentar la explotación en el curso de su laboreo, serios peligros que
 
 III. Cuando se hubiere falseado la información en la correspondiente solicitud y sus anexos, sin perjuicio de la adopción por parte de la autoridad de las medidas de seguridad y aplicación de sanciones administrativas que procedan.
 
-### CAPITULO IV. DE LOS PROGRAMAS
+### CAPITULO III. DEL APROVECHAMIENTO DE LAS AGUAS DE JURISDICCION ESTATAL
 
 ###### ARTICULO 67.
 
@@ -1063,7 +1289,7 @@ El Gobierno del Estado por conducto de la SEGAM, expedirá previamente el dictam
 
 Previamente a la emisión de las concesiones, licencias, permisos y autorizaciones, a que se refiere el párrafo anterior, se deberá contar además con el dictamen por escrito de la SEDARH y de la Comisión Estatal de Agua Potable, Alcantarillado y Saneamiento en los casos previstos en las leyes de la materia.
 
-### CAPITULO I. DE LA CONTAMINACION DE LA ATMOSFERA
+### CAPITULO IV. DE LOS PROGRAMAS
 
 ###### ARTICULO 70.
 
@@ -1085,7 +1311,7 @@ La SEGAM impulsará y participará en la celebración de convenios con particula
 
 ## TITULO SEXTO. DE LA PREVENCION Y CONTROL DE LA CONTAMINACION AMBIENTAL
 
-### CAPITULO II. DE LA CONTAMINACION DEL AGUA
+### CAPITULO I. DE LA CONTAMINACION DE LA ATMOSFERA
 
 ###### ARTICULO 71.
 
@@ -1119,9 +1345,29 @@ c). En general todas aquellas que no sean de competencia estatal o federal.
 
 Para la protección a la atmósfera la SEGAM considerará los siguientes criterios:
 
-I. La calidad del aire debe ser satisfactoria en todos los asentamientos humanos y las zonas del Estado, y
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-II. Las emisiones de contaminantes a la atmósfera, sean de fuentes artificiales o naturales, deben ser reducidas y controladas para asegurar una calidad del aire satisfactoria para el bienestar de la población y del ambiente.
+> <small>(REFORMADA, P.O. 23 DE JULIO DE 2011)</small>
+
+I. La calidad del aire debe ser satisfactoria en todos los asentamientos humanos y las zonas del Estado;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 23 DE JULIO DE 2011)</small>
+
+II. Las emisiones de contaminantes a la atmósfera, sean de fuentes artificiales o naturales, deben ser reducidas y controladas para asegurar una calidad del aire satisfactoria para el bienestar de la población y del ambiente;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 23 DE JULIO DE 2011)</small>
+
+III. La mitigación de los efectos que coadyuvan en el cambio climático, y
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 23 DE JULIO DE 2011)</small>
+
+IV. La promoción del uso de combustibles alternativos.
 
 ###### ARTICULO 74.
 
@@ -1139,7 +1385,11 @@ V. Establecerán y operarán sistemas de verificación de emisiones de vehículo
 
 VI. Llevarán un registro de los centros de verificación vehicular y mantendrán actualizado un informe de los resultados obtenidos en la medición de las emisiones contaminantes realizadas en dichos centros;
 
-VII. Llevarán a cabo campañas para racionalizar el uso del automóvil particular, así como para la afinación y mantenimiento de los motores;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 23 DE JULIO DE 2011)</small>
+
+VII. Llevarán a cabo campañas para racionalizar el uso del automóvil particular, así como para la afinación y mantenimiento de los motores, y promover la utilización de combustibles menos contaminantes;
 
 VIII. Promoverán el mejoramiento del transporte urbano y suburbano, la modernización del sistema mecánico de las unidades, así como de los vehículos de servicio público de propiedad particular;
 
@@ -1151,9 +1401,23 @@ X. Establecerán requisitos y procedimientos para regular las emisiones del tran
 
 XI. Emitirán las disposiciones y establecerán las medidas tendientes a evitar la quema de cualquier tipo de residuo sólido o líquido, incluyendo basura doméstica, hojarasca, hierba seca, esquilmos agrícolas, llantas usadas, plásticos, lubricantes usados, solventes y otras; así como las quemas con fines de desmontes o deshierbe de terrenos;
 
-XII. Tomarán las medidas preventivas para evitar contingencias ambientales por contaminación atmosférica, y
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-XIII. Ejercerán las demás facultades que les confieren las disposiciones legales y reglamentos aplicables.
+> <small>(REFORMADA, P.O. 23 DE JULIO DE 2011)</small>
+
+XII. Tomarán las medidas preventivas para evitar contingencias ambientales por contaminación atmosférica;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 23 DE JULIO DE 2011)</small>
+
+XIII. Formularán y aplicarán estrategias para la atención, prevención y adaptabilidad de los efectos del cambio climático, utilizando un enfoque precautorio, y
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 23 DE JULIO DE 2011)</small>
+
+XIV. Ejercerán las demás facultades que les confieren las disposiciones legales y reglamentos aplicables.
 
 ###### ARTICULO 75.
 
@@ -1231,7 +1495,11 @@ Los simulacros de incendios podrán ser autorizados por la SEGAM en coordinació
 
 Los productores, agricultores, ganaderos, así como todos aquellos que realicen actividades similares en áreas ubicadas fuera de los centros de población, por sí o a través de las asociaciones o grupos en que se encuentren constituidos, deberán elaborar un plan de prevención de contingencias ambientales, mismo que deberán presentar previamente a la ejecución de cualquier quema a cielo abierto ante la SEGAM para ser evaluado.
 
-Dicha evaluación será efectuada por un grupo de trabajo intersecretarial que será conformado por la propia SEGAM, la SEMARNAP, la SEDARH y las autoridades de Protección Civil, la cual permitirá autorizar, solicitar, modificar por única vez, el plan presentado o negar la respectiva autorización, debiendo observar la normatividad y legislación aplicable.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 23 DE JULIO DE 2011)</small>
+
+Dicha evaluación será efectuada por un grupo de trabajo intersecretarial que será conformado por la propia SEGAM, la SEMARNAT, la SEDARH y las autoridades de protección civil, la cual permitirá autorizar, solicitar, modificar por única vez, el plan presentado o negar la respectiva autorización, debiendo observar la normatividad y legislación aplicable.
 
 ###### ARTICULO 82.
 
@@ -1261,7 +1529,7 @@ La SEGAM promoverá y supervisará con la participación de los ayuntamientos, e
 
 Los propietarios o poseedores de terrenos erosionados, en proceso de erosión o desprovistos de vegetación, en concertación con las autoridades competentes, ejecutarán las medidas de protección y restauración de los mismos a efecto de evitar tolvaneras u otras contingencias que pudieran presentarse.
 
-### CAPITULO III. DE LA CONTAMINACION DEL SUELO Y DEL SUBSUELO
+### CAPITULO II. DE LA CONTAMINACION DEL AGUA
 
 ###### ARTICULO 85.
 
@@ -1307,7 +1575,7 @@ II. Introducción de sistemas de alcantarillado separados en los fraccionamiento
 
 III. Instalación de plantas de tratamiento de aguas residuales de origen doméstico e industrial, en conjunto o separadamente en su caso. Asimismo, el establecimiento de plantas de tratamiento para aguas residuales de industrias aisladas.
 
-### CAPITULO IV. DE LA CONTAMINACION POR RUIDO, VIBRACIONES, ENERGIA TERMICA Y LUMINICA, OLORES Y DE LA CONTAMINACION VISUAL
+### CAPITULO III. DE LA CONTAMINACION DEL SUELO Y DEL SUBSUELO
 
 ###### ARTICULO 91.
 
@@ -1363,7 +1631,7 @@ IV. De introducción de fosas sépticas o fosas de tratamiento de desechos orgá
 
 V. Para la recuperación de suelos contaminados por la presencia de materiales de cualquier tipo, de tal manera que puedan ser integrados a los planes y programas de desarrollo urbano o de ordenamiento ecológico que resulten aplicables.
 
-### CAPITULO I. DE LAS ACTIVIDADES CONSIDERADAS COMO RIESGOSAS
+### CAPITULO IV. DE LA CONTAMINACION POR RUIDO, VIBRACIONES, ENERGIA TERMICA Y LUMINICA, OLORES Y DE LA CONTAMINACION VISUAL
 
 ###### ARTICULO 95.
 
@@ -1383,9 +1651,7 @@ No se permitirá en las zonas habitacionales, ni en las proximidades a los servi
 
 ## TITULO SEPTIMO. DE LAS ACTIVIDADES QUE PUEDEN GENERAR EFECTOS NOCIVOS
 
-### CAPITULO II. DE LOS RESIDUOS SOLIDOS URBANOS Y DE LOS RESIDUOS DE MANEJO ESPECIAL
-
-> <small>(REFORMADO, P.O. 11 DE MAYO DE 2010)</small>
+### CAPITULO I. DE LAS ACTIVIDADES CONSIDERADAS COMO RIESGOSAS
 
 ###### ARTICULO 98.
 
@@ -1425,7 +1691,9 @@ Una vez vencido el plazo señalado sin que el propietario, poseedor o responsabl
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 11 DE MAYO DE 2010)</small>
 
-### CAPITULO III. DE LOS SERVICIOS URBANOS MUNICIPALES
+### CAPITULO II. DE LOS RESIDUOS SOLIDOS URBANOS Y DE LOS RESIDUOS DE MANEJO ESPECIAL
+
+> <small>(REFORMADO, P.O. 11 DE MAYO DE 2010)</small>
 
 ###### ARTICULO 102.
 
@@ -1537,7 +1805,7 @@ IV. De concientización y organización ciudadana vecinal para promover la cultu
 
 Los distribuidores, propietarios o responsables de la venta directa o indirecta de aceites lubricantes automotrices, así como los talleres de mantenimiento automotriz, estarán obligados a recoger los envases que hubiesen vendido, así como a recolectar y almacenar adecuadamente y de conformidad con la normatividad ambiental aplicable, los aceites lubricantes ya usados a efecto de que éstos puedan a su vez ser recolectados por empresas debidamente autorizadas por la autoridad competente, para lo cual se establecerán los mecanismos de coordinación necesarios para llevarlo a cabo conforme a los lineamientos que determinen las autoridades competentes.
 
-### CAPITULO UNICO
+### CAPITULO III. DE LOS SERVICIOS URBANOS MUNICIPALES
 
 ###### ARTICULO 110.
 
@@ -1581,15 +1849,17 @@ VIII. De instalación de centros de acopio de residuos sólidos reciclables, tal
 
 ### CAPITULO UNICO
 
-> <small>(REFORMADO, P.O. 19 DE SEPTIEMBRE DE 2006)</small>
-
 ###### ARTICULO 114.
 
 La prevención y control de las contingencias ambientales que se generen en el territorio de la Entidad, corresponderá al Sistema Estatal de Protección Civil.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE JULIO DE 2011)</small>
+
 ###### ARTICULO 115.
 
-La SEGAM promoverá ante la SEMARNAP, la celebración de acuerdos de coordinación que permitan a las autoridades estatales y municipales asumir como corresponda:
+La SEGAM promoverá ante la SEMARNAT, la celebración de acuerdos de coordinación que permitan a las autoridades estatales y municipales asumir como corresponda:
 
 I. La vigilancia y control en la Entidad del cumplimiento de las disposiciones legales federales que tiendan a prevenir las contingencias ambientales y emergencias ecológicas;
 
@@ -1615,7 +1885,9 @@ V. Sistemas de medidas concretas de acciones, lugares señalados para las labore
 
 ## TITULO NOVENO. DE LA AUTORIZACION DE IMPACTO AMBIENTAL
 
-### CAPITULO I. DE LA PARTICIPACION SOCIAL
+### CAPITULO UNICO
+
+> <small>(REFORMADO, P.O. 19 DE SEPTIEMBRE DE 2006)</small>
 
 ###### ARTICULO 117.
 
@@ -1899,7 +2171,7 @@ El resultado de las actividades señaladas, en caso de llevarse a cabo, deberán
 
 ## TITULO DECIMO. DE LA PARTICIPACION SOCIAL E INFORMACION, LA INVESTIGACION Y LA EDUCACION AMBIENTAL
 
-### CAPITULO II. DE LA COMISION ESTATAL DE ECOLOGIA; DE LA SUBCOMISION DE PROYECTOS ESTRATEGICOS Y DE LOS COMITES MUNICIPALES DE DEFENSA DE LOS RECURSOS NATURALES
+### CAPITULO I. DE LA PARTICIPACION SOCIAL
 
 ###### ARTICULO 128.
 
@@ -1917,7 +2189,7 @@ V. Impulsar el fortalecimiento de la conciencia ambiental, a través de la reali
 
 VI. Concertar acciones e inversiones con los sectores social y privado, con instituciones académicas, grupos y organizaciones sociales, pueblos indígenas y demás personas físicas y morales interesadas, para la conservación y restauración del ambiente en la Entidad.
 
-### CAPITULO III. DEL DERECHO A LA INFORMACION AMBIENTAL
+### CAPITULO II. DE LA COMISION ESTATAL DE ECOLOGIA; DE LA SUBCOMISION DE PROYECTOS ESTRATEGICOS Y DE LOS COMITES MUNICIPALES DE DEFENSA DE LOS RECURSOS NATURALES
 
 ###### ARTICULO 129.
 
@@ -1973,7 +2245,7 @@ Los comités tendrán el carácter de organismos auxiliares de la acción munici
 
 Los ayuntamientos en el ámbito de sus territorios jurisdiccionales, celebrarán los convenios de concertación a que se refiere el artículo 113 de esta Ley.
 
-### CAPITULO IV. DE LOS FOROS ECOLOGICOS, DEL PREMIO ESTATAL DE ECOLOGIA, DE LA INVESTIGACION Y EDUCACION AMBIENTAL
+### CAPITULO III. DEL DERECHO A LA INFORMACION AMBIENTAL
 
 ###### ARTICULO 134.
 
@@ -2025,7 +2297,7 @@ Los que se consideren afectados por actos de las autoridades estatales, municipa
 
 Quien reciba información ambiental de las autoridades competentes en los términos del presente Capítulo, será responsable de su adecuada utilización y deberá responder por los daños y perjuicios que se ocasionen por su indebido manejo.
 
-### CAPITULO UNICO. DISPOSICIONES GENERALES
+### CAPITULO IV. DE LOS FOROS ECOLOGICOS, DEL PREMIO ESTATAL DE ECOLOGIA, DE LA INVESTIGACION Y EDUCACION AMBIENTAL
 
 ###### ARTICULO 141.
 
@@ -2035,7 +2307,7 @@ La SEGAM y los ayuntamientos auspiciarán la realización periódica de consulta
 
 El titular del Ejecutivo del Estado, por conducto de la SEGAM, instituirá el Premio Estatal de Ecología en las áreas de desarrollo e investigación científica y tecnológica; protección del ambiente; cultura ambiental y proyectos especiales, el cual se otorgará anualmente en los términos que el respectivo acuerdo gubernamental establezca.
 
-### CAPITULO I. DE LA INSPECCION Y VIGILANCIA
+### CAPITULO UNICO. DISPOSICIONES GENERALES
 
 ###### ARTICULO 143.
 
@@ -2053,9 +2325,7 @@ En la planeación y desarrollo de dichas actividades se incluirá la participaci
 
 ## TITULO DECIMO PRIMERO. DE LA AUTORREGULACION Y AUDITORIAS AMBIENTALES
 
-### CAPITULO II. DE LAS MEDIDAS DE SEGURIDAD
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE MAYO DE 2010)</small>
+### CAPITULO I. DE LA INSPECCION Y VIGILANCIA
 
 ###### ARTICULO 145.
 
@@ -2103,7 +2373,9 @@ La SEGAM podrá asimismo establecer programas operativos de supervisión y verif
 
 ## TITULO DECIMO SEGUNDO. DE LA INSPECCION Y VIGILANCIA, MEDIDAS DE SEGURIDAD Y SANCIONES
 
-### CAPITULO III. DE LAS SANCIONES
+### CAPITULO II. DE LAS MEDIDAS DE SEGURIDAD
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE MAYO DE 2010)</small>
 
 ###### ARTICULO 149.
 
@@ -2167,7 +2439,7 @@ VI. En los casos en que el infractor realice las medidas correctivas o de urgent
 
 Cuando efectuada la inspección a una obra o actividad contaminante, en cuyo caso se desprenda alguna presunta irregularidad de competencia de la federación, la respectiva autoridad estatal, municipal u organismo operador del agua, según corresponda, establezca que existen hechos suficientes para configurar una infracción a las disposiciones normativas ambientales, pondrá de inmediato los hechos en conocimiento de la PROFEPA o de la CNA, según el caso, remitiéndole al efecto los respectivos antecedentes.
 
-### CAPITULO I. DEL RECURSO DE RECONSIDERACION
+### CAPITULO III. DE LAS SANCIONES
 
 ###### ARTICULO 156.
 
@@ -2203,7 +2475,7 @@ En los casos señalados en el párrafo anterior, los productos, equipo o maquina
 
 Dentro del más breve plazo posible, los bienes o especies animales que sean retenidos serán puestos a disposición de la delegación de la autoridad federal competente que haya de seguir el procedimiento establecido, para la aplicación de las sanciones pertinentes conforme a la legislación ambiental aplicable.
 
-### CAPITULO II. DE LA DENUNCIA POPULAR
+### CAPITULO I. DEL RECURSO DE RECONSIDERACION
 
 ###### ARTICULO 159.
 
@@ -2261,7 +2533,7 @@ ARTICULO 161 BIS. En caso de que se expidan licencias, permisos, autorizaciones 
 
 ## TITULO DECIMO TERCERO. DEL RECURSO DE RECONSIDERACION Y DE LA DENUNCIA POPULAR
 
-### CAPITULO UNICO
+### CAPITULO II. DE LA DENUNCIA POPULAR
 
 ###### ARTICULO 162.
 
@@ -2290,6 +2562,8 @@ V. En su caso, suspensión de la ejecución del acto o resolución reclamados.
 La autoridad podrá suspender la ejecución del acto o resolución que motiva el recurso, siempre y cuando con ello no se contravengan disposiciones de orden público e interés social previstos en esta Ley; y en caso de multas, que el infractor garantice respectivamente las obligaciones contraidas con el propósito de determinar su cumplimiento y el interés fiscal ante la Secretaría de Finanzas del Estado.
 
 Las pruebas se desahogarán en un plazo que no excederá de treinta días naturales contados a partir de la notificación del acuerdo que emita la autoridad respectiva, a cuyo vencimiento dictará la resolución que corresponda dentro de los treinta días naturales siguientes.
+
+### CAPITULO UNICO
 
 ###### ARTICULO 165.
 
@@ -2498,3 +2772,19 @@ DECRETO NUMERO 186, POR EL QUE SE REFORMAN Y ADICIONAN LOS ARTICULOS 3°; 7°; 8
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones legales en lo que se opongan al presente Decreto.
+
+P.O. 23 DE JULIO DE 2011.
+
+DECRETO NUMERO 694 POR EL QUE SE REFORMA EL ARTICULO 47 EN SU FRACCION IV; Y ADICIONA FRACCION AL MISMO ARTICULO 47, ESTA COMO V, POR LO QUE ACTUAL V PASA A SER FRACCION VI, DE LA LEY AMBIENTAL DEL ESTADO DE SAN LUIS POTOSI.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 23 DE JULIO DE 2011.
+
+DECRETO NUMERO 696 POR EL QUE SE REFORMA LOS ARTICULOS, 3° EN SUS FRACCIONES LIV Y LV, 5° EN SU FRACCION III, 7° EN SU FRACCION III, 8° EN SUS FRACCIONES XV Y XXX, 13 EN SU PARRAFO SEGUNDO, 14 EN SU FRACCION I, 15 EN SUS FRACCIONES IV Y V, 61 EN SU FRACCION VI, 73, 74 EN SUS FRACCIONES VII, XII Y XIII, 81 EN SU PARRAFO ULTIMO, Y 115 EN SU PARRAFO PRIMERO; Y ADICIONA A LOS ARTICULOS, 1° LA FRACCION III BIS, 2° LA FRACCION III BIS, 3° LAS FRACCIONES LVI A LXI, 8° LAS FRACCIONES III BIS, XVIII BIS Y XVIII TER, 15 LA FRACCION VI, Y EL ARTICULO 44 BIS; ASI COMO AL TITULO CUARTO EL CAPITULO III BIS DENOMINADO "DE LAS FACULTADES EN MATERIA DE CAMBIO CLIMATICO" Y SUS ARTICULOS 44 TER A 44 DECIES, Y AL 74 LA FRACCION XIV, DE Y A LA LEY AMBIENTAL DEL ESTADO DE SAN LUIS POTOSI.
+
+PRIMERO. Este Decreto entrará en vigor a los treinta días hábiles siguientes de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
