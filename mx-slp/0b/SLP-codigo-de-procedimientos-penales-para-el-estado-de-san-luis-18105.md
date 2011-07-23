@@ -4,7 +4,7 @@ identifier: "SLP-codigo-de-procedimientos-penales-para-el-estado-de-san-luis-181
 country: "mx"
 rank: "codigo"
 publication_date: "2000-09-30"
-last_updated: "2011-06-18"
+last_updated: "2011-07-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18105&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE SAN LUIS POTOSI
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE JUNIO DE 2011.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE JULIO DE 2011.
 
 Código publicado en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 30 de septiembre de 2000.
 
@@ -2629,11 +2629,11 @@ Si se declara fundada la solicitud de reconocimiento de la inocencia del sentenc
 
 ### CAPITULO I. LIBERTAD PROVISIONAL BAJO CAUCION
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE ENERO DE 2011)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE JULIO DE 2011)</small>
 
 ###### ARTICULO 407.
 
-Todo inculpado tendrá derecho a ser puesto en libertad bajo caución, siempre que no se trate de los siguientes delitos considerados como graves: homicidio simple intencional; homicidio calificado; parricidio; aborto; ataque peligroso; privación ilegal de la libertad; secuestro; secuestro exprés; exposición al peligro a que se refiere el artículo 147 Bis del Código Penal del Estado; robo de infante; tráfico de menores; asalto; violación; violación equiparada; abuso sexual calificado; corrupción de personas menores de dieciocho años, o personas que no tienen capacidad para comprender el significado del hecho, o de personas que no tiene (sic) capacidad para resistirlo; pornografía de personas menores de dieciocho años, o personas que no tienen capacidad para comprender el significado del hecho, o de personas que no tiene (sic) capacidad para resistirlo; turismo sexual de personas menores de dieciocho años, o personas que no tienen capacidad para comprender el significado del hecho, o de personas que no tiene (sic) capacidad para resistirlo; lenocinio de personas menores de dieciocho años o personas que no tienen capacidad para comprender el significado del hecho, o de personas que no tiene (sic) capacidad para resistirlo; trata de personas de menores de dieciocho años o personas que no tienen capacidad para comprender el significado del hecho o de personas que no tiene (sic) capacidad para resistirlo; trata de personas a que se refieren los artículos 188 Bis, 188 Ter, y 188 Quáter; robo calificado; robo equiparado que señala el artículo 195 Bis del Código Penal del Estado; abigeato; extorsión previsto en los artículos 212 y 212 bis de la ley sustantiva penal; rebelión; motín; terrorismo; asociación delictuosa; evasión; tortura; ataque a las vías de comunicación y medios de transporte; homicidio por culpa a que se refiere el artículo 64 del Código Penal del Estado; deslealtad al empleo, cargo o comisión, o perjuicio al servicio púbico, a que se refiere el artículo 293 Bis del Código Penal del Estado; y narcomenudeo previsto en los artículos 325 y 326 del Código Penal del Estado.
+Todo inculpado tendrá derecho a ser puesto en libertad bajo caución, siempre que no se trate de los siguientes delitos considerados como graves: homicidio simple intencional; homicidio calificado; feminicidio; parricidio; aborto; ataque peligroso; privación ilegal de la libertad; secuestro; secuestro exprés; exposición al peligro a que se refiere el artículo 147 Bis del Código Penal del Estado; robo de infante; tráfico de menores; asalto; violación; violación equiparada; abuso sexual calificado; corrupción de personas menores de dieciocho años, o personas que no tienen capacidad para comprender el significado del hecho, o de personas que no tiene (sic) capacidad para resistirlo; pornografía de personas menores de dieciocho años, o personas que no tienen capacidad para comprender el significado del hecho, o de personas que no tiene (sic) capacidad para resistirlo; turismo sexual de personas menores de dieciocho años, o personas que no tienen capacidad para comprender el significado del hecho, o de personas que no tiene (sic) capacidad para resistirlo; lenocinio de personas menores de dieciocho años o personas que no tienen capacidad para comprender el significado del hecho, o de personas que no tiene (sic) capacidad para resistirlo; trata de personas de menores de dieciocho años o personas que no tienen capacidad para comprender el significado del hecho o de personas que no tiene (sic) capacidad para resistirlo; trata de personas a que se refieren los artículos, 188 Bis, 188 Ter, y 188 Quáter; robo calificado; robo equiparado que señala el artículo 195 Bis del Código Penal del Estado; abigeato; extorsión previsto en los artículos, 212 y 212 bis de la ley sustantiva penal; rebelión; motín; terrorismo; asociación delictuosa; evasión; tortura; ataque a las vías de comunicación y medios de transporte; homicidio por culpa a que se refiere el artículo 64 del Código Penal del Estado; deslealtad al empleo, cargo o comisión, o perjuicio al servicio público, a que se refiere el artículo 293 Bis del Código Penal del Estado; y narcomenudeo previsto en los artículos 325 y 326 del Código Penal del Estado.
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
@@ -3770,3 +3770,9 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan a éste.
 TERCERO. La ejecución de las sentencias que hayan causado estado, antes de la entrada en vigor del presente Decreto, será competencia del juez de la causa.
 
 La ejecución de sentencias que se pronuncien a partir de la entrada en vigor de este Decreto, será competencia del juez de ejecución.
+
+P.O. 23 DE JULIO DE 2011.
+
+PRIMERO. Este Decreto en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan las disposiciones que se opongan a este Decreto.
