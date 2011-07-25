@@ -4,7 +4,7 @@ identifier: "AGU-legislacion-penal-para-el-estado-de-aguascalientes-33238"
 country: "mx"
 rank: "otro"
 publication_date: "2003-07-21"
-last_updated: "2011-06-17"
+last_updated: "2011-07-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33238&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEGISLACION PENAL PARA EL ESTADO DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE JUNIO DE 2011.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE JULIO DE 2011.
 
 Legislación publicada en la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el lunes 21 de julio de 2003.
 
@@ -587,9 +587,9 @@ II. El apoderamiento de cosa propia, dinero o valores, cuando éstos se hallen e
 
 III. El aprovechamiento de energía eléctrica, agua, gas, servicio telefónico, servicio de Internet o de imagen televisiva, sin consentimiento de la persona que legalmente pueda disponer de ellos;
 
-IV. El apoderamiento de una o más cabezas de ganado ajeno, cualquiera que sea su especie, independientemente del lugar en el que se encuentren, sin consentimiento de quien legalmente pueda disponer de las mismas; o
+IV. (DEROGADA, P.O. 25 DE JULIO DE 2011)
 
-V. El apoderamiento de una o más cabezas de ganado propio, cualquiera que sea su especie, que se halle en poder de otro, en virtud de una relación contractual o por mandamiento de autoridad, en la medida que ello afecte el patrimonio de quien las detente.
+V. (DEROGADA, P.O. 25 DE JULIO DE 2011)
 
 Al responsable de Robo se le aplicarán de:
 
@@ -603,11 +603,23 @@ II. 2 a 4 años de prisión y de 100 a 150 días multa, y al pago total de la re
 
 III. 4 a 10 años de prisión y de 150 a 200 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados, cuando el valor de la afectación patrimonial exceda de trescientas veces el salario mínimo general vigente en el Estado; o
 
-> <small>(ADICIONADA, P.O. 23 DE JULIO DE 2007)</small>
-
-IV. 2 a 8 años de prisión y de 150 a 300 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados, al responsable de los hechos descritos en la Fracción IV del párrafo primero del presente Artículo.
+IV. (DEROGADA, P.O. 25 DE JULIO DE 2011)
 
 La valoración que se haga de la afectación patrimonial tomará en consideración el salario mínimo general vigente en el Estado en el momento en que se concreticen los hechos descritos en el presente artículo.
+
+> <small>(ADICIONADO, P.O. 25 DE JULIO DE 2011)</small>
+
+Artículo 44 A.- Se equipara al robo la conducta de quien:
+
+I. Adquiera, detente o posea ilegítimamente uno o más vehículos robados.
+
+II. Desmantele algún o algunos vehículos robados o comercialice conjunta o separadamente sus partes.
+
+III. Comercialice o trafique de cualquier manera con vehículo o vehículos robados.
+
+Al responsable de Robo Equiparado se le aplicarán de 2 a 4 años de prisión y de 100 a 200 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados, cuando se cometa en el supuesto de la Fracción I.
+
+Se aplicarán de 4 a 6 años de prisión y de 200 a 400 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados, cuando se cometa en cualquiera de los supuestos de las Fracciones II y III.
 
 ###### Artículo 45.
 
@@ -643,17 +655,55 @@ XI. Se lleve a cabo el apoderamiento mediante el uso de sistemas de informática
 
 XII. El apoderamiento se realice respecto de vehículos de transporte público de pasajeros, sobre parte de ello o sobre los bienes a cargo o disposición de su conductor o pasajeros;
 
-> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2008)</small>
+> <small>(REFORMADA, P.O. 25 DE JULIO DE 2011)</small>
 
-XIII. El apoderamiento a que se refiere la fracción IV del párrafo primero del Artículo anterior, represente la afectación del equivalente al veinte por ciento o más de los animales propiedad de la víctima; o
+XIII. El objeto material del apoderamiento sean cables, conexiones u otros materiales que formen parte integrante de alguna o algunas instalaciones eléctricas;
 
-> <small>(ADICIONADA, P.O. 8 DE SEPTIEMBRE DE 2008)</small>
+> <small>(REFORMADA, P.O. 25 DE JULIO DE 2011)</small>
 
-XIV El objeto material del apoderamiento sea cableado para conducir electricidad, transformadores de voltaje de energía eléctrica, equipos de bombeo o de alguno de sus componentes, siempre que sean parte del sistema de riego agrícola.
+XIV. El objeto material del apoderamiento sea cableado para conducir electricidad, transformadores de voltaje de energía eléctrica, equipos de bombeo o de alguno de sus componentes, siempre que sean parte del sistema de riego agrícola; o
+
+> <small>(ADICIONADA, P.O. 25 DE JULIO DE 2011)</small>
+
+XV. Se lleve a cabo bajo los supuestos establecidos en las Fracciones I, II o III del Artículo 44 A.
 
 Al responsable de Robo Calificado se le aplicará hasta en una mitad más de los mínimos y máximos previstos para el tipo penal de Robo.
 
 Si concurren dos o más calificativas, la punibilidad se aumenta hasta las dos terceras partes de los mínimos y máximos previstos para el tipo penal de Robo.
+
+> <small>(ADICIONADO, P.O. 25 DE JULIO DE 2011)</small>
+
+Artículo 45 A.- El Abigeato consiste en:
+
+I. El apoderamiento de una o más cabezas de ganado ajeno, cualquiera que sea su especie, independientemente del lugar en el que se encuentren, sin consentimiento de quien legalmente pueda disponer de las mismas; o
+
+II. El apoderamiento de una o más cabezas de ganado propio, cualquiera que sea su especie, que se halle en poder de otro, en virtud de una relación contractual o por mandamiento de autoridad, en la medida que ello afecte el patrimonio de quien las detente.
+
+Al responsable de Abigeato contemplado en la Fracción I se le aplicarán de 4 a 10 años de prisión y de 150 a 300 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados.
+
+Al responsable de Abigeato contemplado en la Fracción II se le aplicarán de 3 a 8 años de prisión y de 50 a 150 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados.
+
+> <small>(ADICIONADO, P.O. 25 DE JULIO DE 2011)</small>
+
+Artículo 45 B.- El Abigeato será calificado cuando:
+
+I. Se cometa aprovechando la falta de vigilancia sobre las cabezas de ganado objeto del apoderamiento;
+
+II. Se cometa con uso de fuerza física o moral suficiente en contra de la víctima o sobre la persona que esté encargada de la vigilancia de la o las cabezas de ganado, o cuando se ejerza aquella para proporcionarse la fuga o mantenerse con lo apropiado;
+
+III. Cuando la afectación patrimonial producida sea el equivalente al valor del veinte por ciento o más de los animales propiedad de la víctima.
+
+Al responsable de Abigeato Calificado se le aplicará hasta en dos terceras partes más de los mínimos y máximos previstos para el tipo penal de Abigeato.
+
+> <small>(ADICIONADO, P.O. 25 DE JULIO DE 2011)</small>
+
+Artículo 45 C.- Se equipara al Abigeato:
+
+I. Al que, con ánimo de apropiársela, altere o elimine las marcas o señales de identificación de una o más cabezas de ganado ajeno;
+
+II. Al que, con ánimo de apropiársela, marque o señale una o más cabezas de ganado ajeno;
+
+Al responsable de Abigeato Equiparado se le aplicarán de 2 a 4 años de prisión y de 100 a 200 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados.
 
 ###### Artículo 46.
 
@@ -1197,13 +1247,9 @@ Al responsable de Tráfico de Influencias se le aplicarán de 2 a 6 años de pri
 
 El Encubrimiento consiste en:
 
-I. Adquirir, recibir u ocultar el producto de un hecho punible, con ánimo de lucro, después de realizado tal hecho, conociendo el inculpado tal circunstancia y sin haber participado en su realización.
+> <small>(REFORMADA, P.O. 25 DE JULIO DE 2011)</small>
 
-> <small>(REFORMADO, P.O. 2 DE AGOSTO DE 2010)</small>
-
-Si el inculpado recibió la cosa en venta, prenda o bajo cualquier otro concepto y no tuvo conocimiento de la procedencia ilícita de aquélla, por no asegurarse de que la persona de quien la recibió tenía derecho para disponer de ella, la punibilidad aplicable se disminuirá hasta en una mitad respecto de los mínimos y máximos señalados.
-
-Para el efecto del párrafo anterior los adquirentes de vehículos de motor deberán tramitar la transferencia o regularización correspondiente, cerciorándose de su legítima procedencia;
+I. Custodiar, recibir u ocultar el producto de un hecho punible, con ánimo de lucro, después de realizado tal hecho, conociendo el inculpado tal circunstancia y sin haber participado en su realización;
 
 II. Prestar auxilio o cooperación de cualquier especie a los autores o partícipes de cualquier hecho punible, con conocimiento de esta circunstancia, por acuerdo posterior a la ejecución de tal hecho;
 
@@ -1219,7 +1265,9 @@ IV. No dar auxilio para la investigación de hechos punibles o para llevar a cab
 
 V. Omitir o retardar dolosamente la denuncia de los hechos punibles ante la autoridad competente, cuando un funcionario o servidor público en el ejercicio de sus funciones tuviere conocimiento de estos.
 
-Al Responsable de Encubrimiento se le aplicarán de 3 meses a 5 años de prisión y de 15 a 160 días multa y al pago total de la reparación de los daños y perjuicios ocasionados.
+> <small>(REFORMADO, P.O. 25 DE JULIO DE 2011)</small>
+
+Al Responsable de Encubrimiento se le aplicarán de 1 a 6 años de prisión y de 50 a 200 días multa y al pago total de la reparación de los daños y perjuicios ocasionados.
 
 En relación con las fracciones II, III y IV del presente artículo, no se tendrán por tipificados los hechos descritos, si quienes llevan a cabo las conductas tienen el carácter de ascendientes o descendientes consanguíneos o afines, se trate del cónyuge, concubina o concubinario, o parientes colaterales por consanguinidad hasta el segundo grado, respecto de los autores o partícipes del diverso hecho punible.
 
@@ -4633,17 +4681,17 @@ XXIV. Uso indebido de llamadas telefónicas para movilizar los sistemas de respu
 
 XXV. El robo calificado, previsto en la Fracción III del Artículo 45, en relación con el Artículo 44, cualquiera que sea el valor de la afectación patrimonial;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>(REFORMADA, P.O. 25 DE JULIO DE 2011)</small>
 
-> <small>(REFORMADA, P.O. 9 DE FEBRERO DE 2009)</small>
+XXVI. Trata de personas, previsto en el Artículo 43 B;
 
-XXVI. Trata de personas, previsto en el Artículo 43 B; y
+> <small>(REFORMADA, P.O. 25 DE JULIO DE 2011)</small>
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+XXVII. El robo calificado previsto en la Fracción VII del Artículo 45, en relación con el Artículo 44;
 
-> <small>(ADICIONADA, P.O. 9 DE FEBRERO DE 2009)</small>
+> <small>(ADICIONADA, P.O. 25 DE JULIO DE 2011)</small>
 
-XXVII. El robo calificado previsto en la Fracción VII del Artículo 45, en relación con el Artículo 44.
+XXVIII. Las conductas equiparables a robo previstas en las Fracciones II y III del Artículo 44 A.
 
 > <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2007)</small>
 
@@ -5860,3 +5908,25 @@ El Poder Ejecutivo del Estado deberá realizar las adecuaciones reglamentarias c
 ###### ARTÍCULO NOVENO.
 
 Se derogan todas las disposiciones que se opongan a la presente Decreto.
+
+P.O. 25 DE JULIO DE 2011.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+A partir de la entrada en vigencia de este Decreto, para el caso en que haya sido modificada la ubicación dentro del cuerpo de la ley de una conducta punible que se contemplaba como delito y por virtud de las presentes reformas, se denomina, penaliza o agrava de forma diversa, siempre y cuando las conductas y los hechos respondan a la descripción que ahora se establecen, se estará a lo siguiente:
+
+I. Instaurado el proceso y sin que aun no se formulen conclusiones acusatorias, el Ministerio Público las formulará de conformidad con la traslación del tipo que resulte;
+
+II. En los procesos pendientes de dictarse sentencia en primera y segunda instancia, el juez o el Tribunal, respectivamente podrán efectuar la traslación del tipo de conformidad con la conducta que se haya probado y sus modalidades.
+
+###### ARTÍCULO TERCERO.
+
+En todos aquellos procesos que se encuentren en trámite, al momento de la publicación del presente decreto, de averiguación procesal por la conducta típica descrita en la Fracción I del Artículo 76 de la presente Legislación, se observará lo siguiente:
+
+I. El Agente del Ministerio Público, en caso de no haber formulado sus Conclusiones Acusatorias, lo hará de acuerdo a la estructura y sanción del tipo penal vigente al momento de la comisión del hecho y en los términos del Auto de Formal Prisión; y
+
+II. En caso de haber sido formuladas las conclusiones, el Juez que conozca de la causa, según proceda, condenará de acuerdo a la acusación y siempre observando la sanción vigente para el tipo penal al momento de realización (sic) el hecho.
