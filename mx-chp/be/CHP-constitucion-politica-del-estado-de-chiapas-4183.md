@@ -4,7 +4,7 @@ identifier: "CHP-constitucion-politica-del-estado-de-chiapas-4183"
 country: "mx"
 rank: "constitucion"
 publication_date: "1921-02-03"
-last_updated: "2011-06-27"
+last_updated: "2011-07-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4183&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "CHP"
 ---
 # CONSTITUCION POLITICA DEL ESTADO DE CHIAPAS
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 10 DE AGOSTO DE 2011 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 CONSTITUCION POLITICA DEL ESTADO DE CHIAPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE JUNIO DE 2011.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE JULIO DE 2011.
 
 Constitución publicada en Alcance No. 5 al Periódico Oficial del Estado de Chiapas, el 3 de febrero de 1921.
 
@@ -189,27 +191,27 @@ El Estado promoverá y protegerá la organización y el desarrollo de la familia
 
 Los derechos de los indígenas que esta Constitución consagra deberán ser protegidos y regulados por la ley reglamentaria respectiva y por las demás leyes, en sus correspondientes ámbitos de competencia, y serán, además, garantizados por las autoridades estatales y municipales, así como por las autoridades tradicionales de las comunidades indígenas.
 
+> <small>(REFORMADA SU DENOMINACION, P.O. 25 DE JULIO DE 2011)</small>
+
+###### Artículo 9°.
+
+Son chiapanecos por nacimiento:
+
+I. Quienes hayan nacido en el territorio del Estado.
+
+II. Los hijos de padre o madre chiapanecos que hayan nacido fuera del mismo.
+
 > <small>(REFORMADO, P.O. 27 DE JUNIO DE 2011)</small>
-
-###### ARTICULO 9.
-
-Pierde el derecho de ciudadano del Estado el que deje de ser ciudadano mexicano.
 
 ### CAPÍTULO I. DE LOS HABITANTES
 
-> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO, P.O. 25 DE JULIO DE 2011)</small>
 
 ###### Artículo 8º.
 
-Son habitantes del Estado, quienes residen permanentemente dentro de su territorio, sean mexicanos o extranjeros, sin importar que se ausenten con motivo del desempeño de un cargo de elección popular o del servicio público.
+Son habitantes del Estado quienes residan de manera permanente o temporal dentro del territorio del mismo, sean mexicanos o extranjeros sin importar su estado migratorio; sus obligaciones son:
 
-> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2011)</small>
-
-###### Artículo 9º.
-
-Son obligaciones de los habitantes del Estado:
-
-I. Respetar y cumplir las leyes, así como los principios establecidos en esta Constitución.
+I. Respetar y cumplir la Constitución General de la República, la Constitución del Estado, y las leyes secundarias que de ella emanen.
 
 II. Acrecentar el espíritu de solidaridad humana, evitar todo tipo de violencia y discriminación, respetar los valores cívicos y culturales, y coadyuvar en las tareas de superación del pueblo chiapaneco.
 
@@ -217,25 +219,19 @@ III. Contribuir para los gastos públicos del Estado y de los municipios, de la 
 
 IV. Evitar la deforestación; forestar y reforestar los predios que les pertenezcan y colaborar con las autoridades en la ejecución de las campañas contra la deforestación, la forestación y reforestación; prevenir y combatir los incendios y contribuir a la realización de los programas de mejoramiento de la comunidad.
 
-V. Hacer que sus hijos o pupilos concurran a las escuelas públicas o privadas, para obtener la educación preescolar, primaria y secundaria.
+V. Hacer que sus hijos e hijas o pupilos, concurran a las escuelas públicas o privadas, para obtener la educación preescolar, primaria y secundaria, así como procurarles la educación media superior.
 
-> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO, P.O. 25 DE JULIO DE 2011)</small>
 
 ###### Artículo 10.
 
-Son ciudadanos chiapanecos, las mujeres y los hombres que hayan cumplido dieciocho años de edad y que tengan modo honesto de vivir. Tienen la calidad de ciudadanos chiapanecos:
-
-I. Quienes hayan nacido en el territorio del Estado.
-
-II. Los hijos de padre o madre chiapanecos que hayan nacido fuera del mismo.
-
-III. Los mexicanos por nacimiento o naturalización, que hayan residido en el Estado por un periodo de más de cinco años consecutivos.
+Son ciudadanos chiapanecos, los chiapanecos por nacimiento así como, las mujeres, los hombres mexicanos por nacimiento o naturalización, que hayan cumplido dieciocho años de edad, que tengan modo honesto de vivir y que hayan residido en el Estado por un periodo de más de cinco años consecutivos.
 
 > <small>(REFORMADO, P.O. 27 DE JUNIO DE 2011)</small>
 
 ### CAPÍTULO II. DE LA CIUDADANÍA CHIAPANECA
 
-> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO, P.O. 25 DE JULIO DE 2011)</small>
 
 ###### Artículo 11.
 
@@ -267,7 +263,9 @@ V. Participar en los plebiscitos que convoque el Ejecutivo del Estado e iniciar 
 
 VI. Afiliarse libre, personal e independientemente a un partido político.
 
-VII. Exigir a los servidores públicos electos mediante el voto popular, que cumplan con sus propuestas de campaña.
+> <small>(REFORMADA, P.O. 25 DE JULIO DE 2011)</small>
+
+VII. Ejercer la democracia participativa conformando Asambleas de Barrio en términos de esta constitución y la ley en materia.
 
 VIII. Exigir que los actos de los Poderes del Estado sean transparentes y públicos.
 
@@ -311,7 +309,7 @@ La soberanía del Estado reside esencial y originalmente en el pueblo, quien la 
 
 > <small>(REFORMADO, P.O. 27 DE JUNIO DE 2011)</small>
 
-## TÍTULO TERCERO. DE LOS HABITANTES Y LA CIUDADANÍA
+## TÍTULO TERCERO. DE LOS HABITANTES, LAS Y LOS CHIAPANECOS, Y LA CIUDADANÍA
 
 > <small>(REFORMADO, P.O. 27 DE JUNIO DE 2011)</small>
 
@@ -591,7 +589,7 @@ El Congreso del Estado deberá quedar instalado el día primero de octubre del a
 
 ### CAPÍTULO IV. DE LA INICIATIVA Y FORMACIÓN DE LAS LEYES
 
-> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO, P.O. 25 DE JULIO DE 2011)</small>
 
 ###### Artículo 27.
 
@@ -629,7 +627,9 @@ III. Crear y suprimir empleos de la Administración Pública Estatal y señalar 
 
 IV. Legislar, de manera enunciativa más no limitativa, en las materias económica, educativa, indígena, cultural, electoral, protección ciudadana, seguridad pública, beneficencia pública o privada, protección y preservación del patrimonio histórico y cultural del Estado de Chiapas.
 
-V. Aprobar el Plan Estatal de Desarrollo que le presente el Ejecutivo del Estado, dentro de los primeros seis meses en que éste inicie su mandato, así como los planes globales y sectoriales para el desarrollo del Estado. Y además, aprobar los que presenten los ayuntamientos para el periodo de su encargo.
+> <small>(REFORMADA, P.O. 25 DE JULIO DE 2011)</small>
+
+V. Examinar y en su caso aprobar el Plan Estatal de Desarrollo que le presente el Ejecutivo del Estado, dentro de los primeros seis meses en que éste inicie su mandato, así como los planes regionales y sectoriales para el desarrollo del Estado y los que presenten los Ayuntamientos para el periodo de su encargo; además, examinar y emitir opinión sobre la evaluación anual del nivel de cumplimiento de dichos planes.
 
 VI. Conceder al Ejecutivo por un tiempo limitado y con la aprobación de las dos terceras partes de los Diputados presentes, las facultades extraordinarias que necesite en caso de invasión, alteración o peligro públicos, o requerirlo así la administración general del Estado. El Ejecutivo deberá dar cuenta del uso que haga de las facultades conferidas, en el siguiente periodo ordinario de sesiones.
 
@@ -663,7 +663,9 @@ XVIII. Autorizar premios y recompensas por servicios eminentes prestados al Esta
 
 XIX. Prorrogar el período de sesiones ordinarias por el tiempo que lo requieran las necesidades del Estado.
 
-XX. Aprobar los nombramientos de servidores públicos del Poder Judicial del Estado, así como ratificar a los miembros de la Procuraduría General de Justicia del Estado, que someta a su consideración el Ejecutivo del Estado y los demás que conforme a las leyes aplicables deban ser sometidas al Congreso del Estado.
+> <small>(REFORMADA, P.O. 25 DE JULIO DE 2011)</small>
+
+XX. Aprobar los nombramientos de los Magistrados del Poder Judicial con base a lo que establecen los artículos 57, 59 y 60 de esta Constitución, así como ratificar a los miembros de la Procuraduría General de Justicia del Estado que someta a su consideración el Ejecutivo del Estado y los demás que conforme a las leyes aplicables deban ser sometidas al Congreso del Estado.
 
 XXI. Conceder licencia al Gobernador del Estado y a los Diputados para separarse de su cargo, en los términos de esta Constitución.
 
@@ -763,7 +765,9 @@ Durante el ejercicio de su encargo, no podrá formar parte de un Partido Políti
 
 Los Poderes del Estado y los sujetos de fiscalización, facilitarán los auxilios que requiera el Órgano de Fiscalización Superior del Congreso del Estado, para el ejercicio de sus funciones, y, en caso de no hacerlo, se harán acreedores a las sanciones que establezca la ley. Asimismo, los servidores públicos del Estado y municipios, así como cualquier entidad, persona física o moral, pública o privada, fideicomiso, mandato o fondo, o cualquier otra figura jurídica, que reciban o ejerzan recursos públicos estatales o municipales, deberán proporcionar la información y documentación que solicite el Órgano de Fiscalización Superior del Congreso del Estado, de conformidad con los procedimientos establecidos en las leyes y sin perjuicio de la competencia de otras autoridades. En caso de no proporcionar la información, los responsables serán sancionados en los términos que establezca la ley.
 
-El Poder Ejecutivo del Estado aplicará el procedimiento administrativo de ejecución, para el cobro de las indemnizaciones y sanciones pecuniarias que se establezcan en ejercicio de las atribuciones señaladas en la fracción V, del segundo párrafo de este artículo.
+> <small>(REFORMADO, P.O. 25 DE JULIO DE 2011)</small>
+
+Con la finalidad de garantizar el cumplimiento y observancia de las determinaciones realizadas por el Órgano de Fiscalización Superior del Estado, el Poder Ejecutivo del Estado, a través de la Secretaría del Ramo, aplicará el procedimiento administrativo de ejecución, para el cobro de las indemnizaciones y sanciones pecuniarias que se establezcan en ejercicio de las atribuciones señaladas en la fracción V, del tercer párrafo de este artículo.
 
 > <small>(ADICIONADO, P.O. 27 DE JUNIO DE 2011)</small>
 
@@ -805,7 +809,7 @@ XII. Las demás previstas en esta Constitución.
 
 ###### Artículo 34.
 
-El derecho de iniciar leyes o Decretos compete:
+El derecho de iniciar leyes o decretos compete:
 
 I. Al Gobernador del Estado.
 
@@ -813,11 +817,13 @@ II. A los Diputados.
 
 III. Al Titular del Poder Judicial del Estado, en materia de su ramo.
 
-IV. A los Ayuntamientos en asuntos municipales.
+IV. Al Presidente del Consejo Estatal de los Derechos Humanos, en materia de su ramo.
 
-V. A los ciudadanos del Estado, en los términos que disponga la Ley, la cual establecerá los requisitos, alcances, términos y procedimientos para su ejercicio.
+V. A los Ayuntamientos, en asuntos municipales.
 
-Las iniciativas presentadas por el Gobernador, por el Titular del Poder Judicial del Estado y por los Ayuntamientos pasarán desde luego a la Comisión; las que presenten los Diputados se sujetarán a los trámites que determine el Reglamento Interno del Congreso del Estado.
+VI. A los ciudadanos del Estado, en los términos que disponga la Ley, la cual establecerá los requisitos, alcances, términos y procedimientos para su ejercicio.
+
+Las iniciativas presentadas por el Gobernador, por el Titular del Poder Judicial del Estado, por el Presidente del Consejo Estatal de los Derechos Humanos y por los Ayuntamientos pasarán desde luego a la Comisión; las que presenten los Diputados se sujetarán a los trámites que determine el Reglamento Interno del Congreso del Estado.
 
 > <small>(REFORMADO, P.O. 27 DE JUNIO DE 2011)</small>
 
@@ -861,25 +867,29 @@ Se deposita el Poder Ejecutivo en un ciudadano que se denominará "GOBERNADOR DE
 
 La elección de Gobernador será directa y en los términos que disponga el Código de Elecciones y Participación Ciudadana.
 
-> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO, P.O. 25 DE JULIO DE 2011)</small>
 
 ###### Artículo 38.
 
-Para ser Gobernador se requiere:
+Para ser Gobernador, se requiere:
 
-I. Ser ciudadano chiapaneco; estar en pleno goce de sus derechos y con residencia efectiva no menor de ocho años.
+I. Ser chiapaneco por nacimiento.
 
-II. Tener 30 años cumplidos al día de la elección.
+II. Ser ciudadano chiapaneco y estar en pleno goce de sus derechos y con residencia efectiva no menor de ocho años.
 
-III. No pertenecer al estado eclesiástico, ni ser o haber sido, ministro de algún culto.
+III. Tener 30 años cumplidos al día de la elección.
 
-IV. No tener empleo, cargo o comisión de la Federación, Estado o municipios, o renunciar o estar separado de cualquiera de ellos cuando menos ciento veinte días antes del día de la elección. En los casos de los cargos de elección popular, obtener la licencia respectiva en el plazo antes señalado.
+IV. No pertenecer al estado eclesiástico ni ser ministro de algún culto o haberse separado por lo menos con ocho años de antelación a la fecha de la elección o designación.
 
-V. No haber ocupado anteriormente el cargo de Gobernador Constitucional por elección popular.
+V. No tener empleo, cargo o comisión de la Federación, Estado o municipios, o renunciar o estar separado de cualquiera de ellos cuando menos ciento veinte días antes del día de la elección. En los casos de los cargos de elección popular, obtener la licencia respectiva en el plazo antes señalado.
 
-VI. No haber ocupado en el periodo inmediato anterior el cargo de Gobernador provisional, interino o sustituto.
+VI. No haber ocupado anteriormente el cargo de Gobernador Constitucional por elección popular.
 
-VII. No haber sido condenado por delito que amerite pena corporal de más de un año de prisión; pero si se tratare de aquellos cuya comisión lastime la buena fama pública, cualesquiera que hubiere sido la pena impuesta.
+VII. No haber ocupado en el periodo inmediato anterior el cargo de Gobernador provisional, interino o sustituto.
+
+VIII. No haber sido condenado por delito que amerite pena corporal de más de un año de prisión.
+
+IX. No ser cónyuge o concubino, hermana o hermano, madre, padre, hija, hijo, o tener parentesco consanguíneo hasta el cuarto grado, así como tampoco tener parentesco por afinidad hasta el segundo grado, con el Gobernador en funciones.
 
 > <small>(REFORMADO, P.O. 27 DE JUNIO DE 2011)</small>
 
@@ -1003,7 +1013,9 @@ XXVIII. Otorgar previa autorización del Congreso del Estado, concesiones de tra
 
 XXIX. Convocar a plebiscito en los términos que establezca esta Constitución y la ley. No podrán consultarse por esta vía los actos o resoluciones de los poderes Legislativo y Judicial del Estado.
 
-XXX. Atender el fenómeno global del cambio climático, así como para coadyuvar al desarrollo sustentable, formulando e instrumentando las políticas públicas para la adaptación al cambio climático y la mitigación de sus efectos adversos.
+> <small>(REFORMADA, P.O. 25 DE JULIO DE 2011)</small>
+
+XXX. Atender el fenómeno global del cambio climático, a través de acciones que permitan evitar la emisión de gases de efecto invernadero; tales como los procesos de reconversión productiva; producción de biodiesel; y programas que tengan como objeto evitar la degradación y deforestación de las áreas forestales; así como para coadyuvar al desarrollo sustentable, formulando e instrumentando las políticas públicas para la adaptación al cambio climático y reducción de sus efectos adversos.
 
 XXXI. Cumplir y hacer cumplir la Constitución Federal, las leyes del Congreso de la Unión y los tratados internacionales; así como cuidar el cumplimiento de la presente Constitución y de las leyes, reglamentos, acuerdos y demás disposiciones que de ella emanen, expidiendo al efecto las órdenes correspondientes.
 
@@ -1083,7 +1095,7 @@ Región XV. Meseta Comiteca Tojolabal: Conformada por los municipios de Comitán
 
 ### CAPÍTULO III. DEL CONSEJO ESTATAL DE LOS DERECHOS HUMANOS
 
-> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO, P.O. 25 DE JULIO DE 2011)</small>
 
 ###### Artículo 47.
 
@@ -1095,7 +1107,7 @@ El Secretario General de Gobierno y los demás titulares de las Dependencias del
 
 ### CAPÍTULO I. DISPOSICIONES GENERALES
 
-> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO, P.O. 25 DE JULIO DE 2011)</small>
 
 ###### Artículo 48.
 
@@ -1115,7 +1127,7 @@ En la investigación y persecución de los demás delitos del fuero común, la i
 
 ### CAPÍTULO II. DEL TRIBUNAL SUPERIOR DE JUSTICIA DEL ESTADO
 
-> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO, P.O. 25 DE JULIO DE 2011)</small>
 
 ###### Artículo 50.
 
@@ -1173,9 +1185,9 @@ La Fiscalía Electoral tendrá jurisdicción en todo el Estado para el desarroll
 
 > <small>(REFORMADO, P.O. 27 DE JUNIO DE 2011)</small>
 
-### CAPÍTULO III. DEL NOMBRAMIENTO DE LOS SERVIDORES PÚBLICOS JUDICIALES
+### CAPÍTULO III. DEL CONSEJO DE LA JUDICATURA
 
-> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO, P.O. 25 DE JULIO DE 2011)</small>
 
 ###### Artículo 51.
 
@@ -1235,11 +1247,11 @@ La Contraloría General de la Procuraduría General de Justicia del Estado tendr
 
 La promoción y protección de los derechos humanos, estará a cargo de un organismo público, autónomo, con personalidad jurídica y patrimonio propio, al que se denominará Consejo Estatal de los Derechos Humanos, que conocerá de quejas promovidas por presuntas víctimas en contra de actos u omisiones de naturaleza administrativa provenientes de cualquier autoridad o servidor público del ámbito estatal y/o municipal, con excepción de los del Poder Judicial del Estado, que se presuma vulneren los derechos humanos previstos en esta constitución y la ley, así como combatir toda forma de discriminación y exclusión, consecuencia de un acto de autoridad a cualquier persona o grupo social.
 
-Tendrá por objeto la defensa, promoción del respeto, estudio y divulgación de los derechos humanos establecidos en el orden jurídico mexicano y en instrumentos internacionales ratificados por el estado mexicano, fomentar su respeto y observancia, el fortalecimiento de la cultura de la legalidad y el respeto a la cultura, costumbres y tradiciones de las comunidades indígenas de la Entidad; así como también la defensa y promoción de los derechos humanos de los migrantes y sus familias, y el respeto y promoción a los derechos de las mujeres en el Estado de Chiapas.
+Tendrá por objeto la defensa, promoción del respeto, estudio y divulgación de los derechos humanos establecidos en el orden jurídico mexicano y en instrumentos internacionales ratificados por el estado mexicano, fomentar su respeto y observancia, el fortalecimiento de la cultura de la legalidad y el respeto a la cultura, costumbres y tradiciones de las comunidades indígenas de la Entidad; así como también el respeto y promoción de los derechos de las mujeres, y la defensa y promoción a los derechos humanos de los migrantes y sus familias en el Estado de Chiapas.
 
 El Consejo Estatal de los Derechos Humanos, deberá impulsar los mecanismos necesarios para promover una cultura de paz, pudiendo intervenir, a petición de parte en procesos de negociación para resolver conflictos sociales a través de un procedimiento voluntario de gestión o resolución positiva de tensiones de diversa naturaleza, en el que las partes solicitan y acepten la intervención del consejo como mediador profesional, imparcial y neutral, con la finalidad de favorecer vías de comunicación y búsqueda de acuerdos consensuados.
 
-El Consejo Estatal de los Derechos Humanos, formulará recomendaciones públicas, no vinculatorias y denuncias y quejas ante las autoridades respectivas. No será competente tratándose de asuntos electorales, laborales y jurisdiccionales.
+El Consejo Estatal de los Derechos Humanos, formulará recomendaciones públicas, no vinculatorias y denuncias y quejas ante las autoridades respectivas. No será competente tratándose de asuntos electorales y jurisdiccionales.
 
 El Consejo Estatal de los Derechos Humanos estará facultado para:
 
@@ -1257,7 +1269,7 @@ VI. Promover el estudio, la enseñanza y la divulgación de los derechos humanos
 
 VII. Elaborar e instrumentar programas preventivos en materia de derechos humanos.
 
-VIII. Supervisar que las condiciones de las personas privadas de su libertad que se encuentren en los centros de detención, de internamiento y de readaptación social del estado de Chiapas estén apegadas a derecho y se garantice la plena vigencia de los derechos humanos.
+VIII. Supervisar que las condiciones de las personas privadas de su libertad que se encuentren en los centros de detención, de internamiento y de reinserción social del Estado de Chiapas estén apegadas a derecho y se garantice la plena vigencia de los derechos humanos.
 
 IX. Formular programas y proponer acciones en coordinación con las dependencias competentes, para impulsar el cumplimiento de los tratados, convenciones, acuerdos internacionales signados y ratificados por México en materia de derechos humanos.
 
@@ -1275,9 +1287,19 @@ XV. Promover la profesionalización de los trabajadores del Consejo Estatal de l
 
 El Congreso del Estado asignará anualmente al Consejo Estatal de los Derechos Humanos, el presupuesto necesario para cumplir con sus atribuciones, tomando en consideración las previsiones generales del presupuesto de egresos; el cual no podrá ser menor al aprobado en el ejercicio inmediato anterior.
 
-El Consejo Estatal de los Derechos Humanos estará conformado por cinco Consejeros, durarán en el ejercicio de su cargo cuatro años, con posibilidad de reelección por un periodo más y solo podrán ser removidos de sus funciones en los términos del Título Décimo Segundo de esta Constitución. De entre los integrantes del Consejo, uno de ellos ocupará el cargo de Presidente.
+El Consejo Estatal de los Derechos Humanos estará conformado por cinco Consejeros, quienes durarán en el ejercicio de su cargo cuatro años, con posibilidad de reelección por un periodo más. Para el auxilio y coordinación de las acciones internas que realice el Consejo, contará con un Secretario Ejecutivo, que será electo y designado conforme a la ley de la materia. Los Consejeros y el Secretario Ejecutivo sólo podrán ser removidos de sus funciones en los términos del Título Décimo Segundo de esta Constitución. De entre los integrantes del Consejo, uno de ellos ocupará el cargo de Presidente. El proceso de designación de los Consejeros del Consejo Estatal de los Derechos Humanos, estará previsto en la legislación respectiva, atendiendo lo siguiente:
 
-El Consejo Estatal de los Derechos Humanos a que se refiere este Capítulo, contará con cuatro comisiones.
+a) Un Consejero, será electo y designado mediante el voto de las dos terceras partes de los miembros presentes en el Congreso del Estado, o en sus recesos por la Comisión Permanente con la misma votación calificada, conforme a la convocatoria que éste emita para tal efecto.
+
+b) Un segundo Consejero, será electo y designado mediante consulta popular, a través de los procedimientos de participación ciudadana que establezca la ley y que serán llevados a cabo por el Instituto de Elecciones y Participación Ciudadana, quien deberá emitir la convocatoria respectiva.
+
+c) Un tercer Consejero será designado por los rectores de las Universidades públicas del Estado de Chiapas.
+
+d) Un cuarto Consejero será designado por los Organismos No Gubernamentales de Derechos Humanos con sede en el Estado de Chiapas y que hayan realizado gestiones, por lo menos, durante cinco años ante la Comisión Interamericana de Derechos Humanos y/o ante el Alto Comisionado de las Naciones Unidas para los Refugiados.
+
+e) Un quinto Consejero, representante de los pueblos indígenas que señala el artículo 7 de esta Constitución, será electo y designado mediante consulta pública, transparente e informada, por medio del Instituto de Elecciones y Participación Ciudadana.
+
+El Consejo Estatal de los Derechos Humanos a que se refiere este Capítulo, contará con cuatro Comisiones, que serán las siguientes:
 
 I. Comisión de Asuntos Generales de los Derechos Humanos.
 
@@ -1289,9 +1311,9 @@ IV. Comisión de Atención a los Derechos Humanos de los Pueblos Indígenas.
 
 Cada uno de los Consejeros, a excepción del Presidente del Consejo Estatal de los Derechos Humanos, presidirá una de las comisiones señaladas en el párrafo que antecede.
 
-El cargo de Presidente del Consejo Estatal de los Derechos Humanos, será ejercido de manera rotativa, por cada Consejero que lo integre, conforme al voto mayoritario de los integrantes del propio organismo. Durará en el cargo dos años, el cual únicamente podrá ser ampliado hasta por un periodo continúo.
+El cargo de Presidente del Consejo Estatal de los Derechos Humanos, será ejercido en los términos que señale la ley de la materia, conforme al voto mayoritario de los integrantes del propio organismo. Durará en el cargo dos años, el cual únicamente podrá ser ampliado hasta por un periodo continúo.
 
-El Presidente del Consejo Estatal de los Derechos Humanos presentará anualmente al Congreso del Estado un informe de actividades, en los términos que establezca la Ley. Asimismo, presentará al Poder Legislativo del Estado de Chiapas, a través del Órgano de Fiscalización Superior del Congreso del Estado, un informe anual del ejercicio del presupuesto asignado al Consejo, en los términos que establezca la ley respectiva.
+El Presidente del Consejo Estatal de los Derechos Humanos comparecerá y rendirá anualmente ante el Congreso del Estado, un informe de actividades, en los términos que establezca la Ley. Asimismo, presentará al Poder Legislativo del Estado de Chiapas, a través del Órgano de Fiscalización Superior del Congreso del Estado, un informe anual del ejercicio del presupuesto asignado al Consejo, en los términos que establezca la ley respectiva.
 
 En caso que un servidor público haga caso omiso a las recomendaciones emitidas por el Consejo Estatal de los Derechos Humanos, será citado a comparecer ante la Comisión de Derechos Humanos del Congreso del Estado, para exponer las causas que motivaron la inobservancia, conforme lo determine la ley respectiva.
 
@@ -1303,15 +1325,9 @@ El Consejo Estatal de los Derechos Humanos velará por el cabal cumplimiento de 
 
 ###### Artículo 56.
 
-Corresponde al Poder Judicial garantizar el derecho a que se imparta justicia de manera pronta, completa, gratuita e imparcial por jueces y magistrados independientes, responsables y sometidos únicamente al imperio de la ley. Compete a la autoridad judicial, la imposición de las penas, su modificación y duración.
+El Poder Judicial, para el ejercicio de sus atribuciones se deposita en los órganos siguientes:
 
-En la impartición de justicia en Chiapas, habrá medios alternativos para la resolución de controversias de derechos sobre los cuales, los particulares puedan disponer libremente, sin afectar el orden público y valiéndose de la autonomía de la voluntad y la libertad contractual. La justicia estará basada en el principio de oralidad para la resolución de aquellas controversias cuya naturaleza jurídica lo permita.
-
-En cualquiera de sus modalidades, la impartición de justicia será pronta, gratuita y comprometida con el pueblo chiapaneco para preservar el estado de derecho, la paz social y el orden público.
-
-El Poder Judicial, para el ejercicio de sus atribuciones, se deposita en los siguientes órganos:
-
-I. El Tribunal Superior de Justicia del Estado.
+I. El Tribunal Superior de Justicia.
 
 II. El Consejo de la Judicatura.
 
@@ -1319,265 +1335,273 @@ III. El Tribunal de Justicia Electoral y Administrativa.
 
 IV. El Tribunal del Trabajo Burocrático.
 
-La Organización y funcionamiento de estos órganos serán regulados en el Código de Organización del Poder Judicial y en el Reglamento interior que al efecto emita cada uno de ellos.
+La organización y funcionamiento de éstos serán regulados en el Código de Organización del Poder Judicial y en el reglamento interior que al efecto emita cada uno de ellos.
 
-El Tribunal de Justicia Electoral y Administrativa del Poder Judicial del Estado, será la máxima autoridad jurisdiccional en las materias Electoral y Administrativa; sus resoluciones serán emitidas con plenitud de jurisdicción y sus fallos serán definitivos; sesionará en Pleno y en Salas, y sus sesiones serán públicas. Estará integrado por siete magistrados, uno de los cuales, por decisión del Pleno, fungirá como su presidente. De los siete magistrados, cinco serán nombrados por el Congreso del Estado o en su caso, por la Comisión Permanente, de entre las propuestas que formulen los grupos parlamentarios, los restantes serán designados por el Tribunal Constitucional de entre aquellos que ocupen un cargo de magistrado de Salas Regionales Colegiadas. Los Magistrados durarán en el cargo siete años con posibilidad de ser reelectos para otro periodo igual.
+Corresponde al Poder Judicial garantizar el derecho a que se imparta justicia de manera pronta, completa, gratuita e imparcial por jueces y magistrados independientes, responsables y sometidos únicamente al imperio de la ley. Compete a la autoridad judicial la imposición de las penas, su modificación y duración.
 
-El Tribunal del Trabajo Burocrático, estará integrado de la siguiente manera:
+En la impartición de justicia en Chiapas, habrán medios alternativos para la resolución de controversias de derechos, sobre los cuales los particulares puedan disponer libremente sin afectar el orden público y valiéndose de la autonomía de la voluntad y la libertad contractual. La justicia estará basada en el principio de oralidad para la resolución de aquellas controversias cuya naturaleza jurídica lo permita.
 
-I. Dos Magistrados designados por el Poder Ejecutivo.
+En cualquiera de sus modalidades, la impartición de justicia será pronta, gratuita y comprometida con el pueblo chiapaneco para preservar el estado de derecho, la paz social y el orden público.
 
-II. Un Magistrado designado por el Tribunal Constitucional del Tribunal Superior de Justicia.
+Esta Constitución y el Código garantizarán la estabilidad e independencia de los magistrados, jueces y demás servidores públicos judiciales en el ejercicio de sus funciones, así como la plena ejecución de sus resoluciones.
 
-III. Un Magistrado designado por el Congreso del Estado, a propuesta escrita de tres de los Ayuntamientos de mayor población en la Entidad.
+El Código establecerá las bases del sistema institucional para la selección, formación y actualización de servidores públicos, así como para el desarrollo de la carrera judicial, la cual se regirá por los principios de honestidad, objetividad, imparcialidad, independencia, profesionalismo y excelencia. El Código y el reglamento respectivo establecerán el concurso de oposición abierto para ocupar cualquier plaza de servidor público judicial o juez, salvo los previstos en el párrafo décimo del artículo 57 de esta Constitución.
 
-IV. Tres Magistrados propuestos de la misma forma por las unidades burocráticas de mayor representatividad en el Estado.
+El Titular del Ejecutivo y el Congreso del Estado deberán velar que en el nombramiento de los magistrados del Poder Judicial y de los consejeros de la Judicatura, se incluyan como máximo al setenta por ciento de personas del mismo género.
 
-El Presidente del Tribunal del Trabajo Burocrático será designado por el Tribunal Constitucional, durará en su cargo dos años, pudiendo ser ratificado por un periodo más.
-
-La designación de los Magistrados nombrados por el Ejecutivo del Estado será directa. Las propuestas de designación de los Magistrados formuladas por los Ayuntamientos y las unidades burocráticas a que hace mención el párrafo séptimo de este artículo, deberán ser aprobadas por el Congreso del Estado en términos del Código de Organización del Poder Judicial del Estado.
-
-Los Magistrados del Tribunal del Trabajo Burocrático, además de reunir los requisitos que se exigen para ser Magistrado de las Salas Regionales del Tribunal Superior de Justicia del Estado, deberán contar con experiencia en materia laboral acreditada por un período no menor de tres años. Durarán en sus funciones cuatro años, con posibilidad de ser reelectos en los términos del Código de la materia.
-
-El Tribunal del Trabajo Burocrático funcionará en Pleno y en Salas. La Ley determinará sus respectivas competencias y la forma de su organización y funcionamiento.
-
-Esta Constitución y la Ley respectiva garantizarán la estabilidad e independencia de los magistrados, jueces y demás servidores públicos judiciales en el ejercicio de sus funciones, así como la plena ejecución de sus resoluciones.
-
-Ningún servidor público del Poder Judicial podrá aceptar o desempeñar otro empleo o cargo, salvo el de docencia y los honoríficos en asociaciones científicas, artísticas o de beneficencia, siempre y cuando no comprometan su horario o perjudique el óptimo desempeño de su función. La infracción de este artículo será castigada con la pérdida del cargo judicial respectivo.
+Ningún servidor público del Poder Judicial podrá aceptar o desempeñar otro empleo o cargo, salvo la docencia y los honoríficos en asociaciones científicas, artísticas o de beneficencia, siempre y cuando no comprometan su horario o perjudique el óptimo desempeño de su función. La infracción de este artículo será castigada con la pérdida del cargo judicial respectivo.
 
 > <small>(ADICIONADO, P.O. 27 DE JUNIO DE 2011)</small>
 
 ###### Artículo 57.
 
-El Tribunal Superior de Justicia del Estado se integra por:
+El Tribunal Superior de Justicia se integra por:
 
 I. El Tribunal Constitucional.
 
-II. Las Salas Regionales Colegiadas.
+II. Las salas regionales colegiadas.
 
-III. Los Juzgados de Primera Instancia.
+III. Los juzgados de primera instancia.
 
-IV. Los Juzgados y Salas Especializadas en Justicia para Adolescentes.
+IV. Los juzgados y salas especializadas en justicia para adolescentes.
 
-V. Los Juzgados de Paz y Conciliación.
+V. Los juzgados de paz y conciliación.
 
-VI. Los Juzgados de paz y Conciliación Indígena.
+VI. Los juzgados de paz y conciliación indígena.
 
-VII. Los Juzgados Municipales.
+VII. Los juzgados municipales.
 
-VIII. El Centro de Justicia Alternativa.
+VIII. El Centro Estatal de Justicia Alternativa.
 
 IX. El Instituto de Defensoría Social.
 
-El Tribunal Constitucional se integra por cinco magistrados nombrados por el Congreso del Estado, o la Comisión Permanente en su caso, a propuesta del Titular del Poder Ejecutivo, con la aprobación de las dos terceras partes de sus integrantes. La designación se hará dentro de un plazo que no excederá de siete días hábiles respecto de aquel en que fue presentada la propuesta por el titular del Poder Ejecutivo. Si el Congreso no resuelve dentro de dicho plazo, ocupará el cargo de Magistrado, la persona que haya sido propuesta por el titular del Ejecutivo del Estado.
+El Tribunal Constitucional residirá en la capital del Estado, sus atribuciones serán las establecidas en esta Constitución y en el Código, funcionará en Pleno, en sesiones públicas y tomará resoluciones por mayoría de votos.
 
-Los Magistrados del Tribunal Constitucional durarán en su encargo nueve años y podrán ser reelectos para ejercer un siguiente periodo consecutivo.
+Se integra por cinco magistrados que durarán en su encargo nueve años y podrán ser reelectos para ejercer un siguiente periodo consecutivo.
 
-El Tribunal Constitucional residirá en la capital del Estado; sus atribuciones serán las establecidas en esta Constitución y en el Código respectivo. Funcionará en Pleno, en sesiones públicas y tomará resoluciones por mayoría de votos.
+El Presidente del Tribunal Constitucional lo será también del Tribunal Superior de Justicia, quien será electo por el Pleno cada tres años con posibilidades de reelección y a él corresponderá la administración del Tribunal Constitucional.
 
-El Presidente del Tribunal Constitucional lo será también del Tribunal Superior de Justicia del Estado, quien será electo cada tres años con posibilidades de reelección y a él corresponderá la administración del Tribunal Constitucional.
+El Presidente del Tribunal Superior de Justicia será el Titular del Poder Judicial. De manera anual enviará al Congreso un informe escrito sobre el estado que guarda la impartición y administración de justicia en la entidad.
 
-El Presidente del Tribunal Superior de Justicia del Estado, será el Titular del Poder Judicial en Chiapas. De manera anual, enviará al Congreso del Estado, un informe escrito sobre el estado que guarda la impartición y administración de justicia.
+Los magistrados del Tribunal Constitucional serán nombrados por el Pleno del Congreso del Estado o la Comisión Permanente en su caso, a propuesta del Titular del Poder Ejecutivo, con la aprobación de las dos terceras partes de sus integrantes.
 
-El Tribunal Superior de Justicia del Estado elaborará su proyecto de presupuesto; el Consejo de la Judicatura lo hará para el resto del Poder Judicial del Estado. En los términos del Título Octavo de esta Constitución, los proyectos elaborados y aprobados por cada uno de los órganos facultados para hacerlo, serán incluidos dentro del proyecto de presupuesto del Poder Judicial del Estado y remitidos directamente por el Consejo de la Judicatura ante el Congreso del Estado. El presupuesto asignado al Poder Judicial del Estado no podrá ser inferior al dos por ciento del total del presupuesto de egresos del Estado, el cual no será disminuido respecto al del año anterior y se fijará anualmente.
+Los magistrados que integren las salas regionales colegiadas y especializadas en justicia para adolescentes del Tribunal Superior de Justicia, durarán en sus funciones seis años, con posibilidad de ser reelectos en los términos del Código. La adscripción de los magistrados del Tribunal Superior de Justicia, a excepción de los del Tribunal Constitucional, será acordada por el Consejo de la Judicatura.
 
-Cuando concurriere una vacante definitiva de algún miembro del Tribunal Constitucional por defunción, renuncia, incapacidad o cualquier otra causa se dará aviso inmediato al Titular del Poder Ejecutivo para proceder en los términos del párrafo segundo de este mismo artículo.
+Los nombramientos de los magistrados del Tribunal Superior de Justicia, salvo los magistrados constitucionales, serán aprobados por el Pleno del Congreso del Estado o la Comisión Permanente en su caso, a propuesta del Titular del Poder Ejecutivo, con la aprobación de la mayoría de sus integrantes.
 
-El Titular del Ejecutivo Estatal y el Congreso del Estado deberán velar que en el nombramiento de Magistrados, tanto del Tribunal Constitucional, como de las Salas Regionales, se incluya como máximo al setenta por ciento de personas del mismo género.
+Los jueces de primera instancia durarán en su encargo seis años, quienes presten sus servicios en forma tal que se hayan distinguido por su diligencia, probidad, honradez en el ejercicio de sus funciones y honorabilidad en su conducta ciudadana, podrán ser reelectos por el Consejo de la Judicatura.
 
-> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2011)</small>
+Los jueces de paz y conciliación, de paz y conciliación indígena y los municipales, serán nombrados por el Consejo de la Judicatura a propuesta de los ayuntamientos respectivos, quienes deberán estar sujetos a un programa de capacitación en materia de medios alternativos de solución de controversias aprobado por el Centro Estatal de Justicia Alternativa del Poder Judicial.
+
+El Tribunal Superior de Justicia contará con un órgano de mediación, conciliación y arbitraje denominado Centro Estatal de Justicia Alternativa, el cual actuará bajo los principios de equidad, imparcialidad, rapidez, profesionalismo, confidencialidad y gratuidad. El Código delimitará su estructura y funcionamiento en tanto que los procedimientos respectivos estarán señalados en la ley de la materia.
+
+El Director General del Centro Estatal de Justicia Alternativa será nombrado por el Consejo de la Judicatura a propuesta del Titular del Ejecutivo, para la designación de los demás servidores públicos del Centro, se nombrarán dentro de aquéllos que aprueben satisfactoriamente el curso de formación para mediadores, conciliadores y árbitros, mediante un proceso riguroso de oposición. Las bases, requisitos y procedimientos serán establecidos por el Consejo de la Judicatura.
+
+El Tribunal Constitucional elaborará su proyecto de presupuesto, el Consejo de la Judicatura lo hará para el resto del Poder Judicial en los términos previstos por esta Constitución, el Código y demás legislación aplicable; los proyectos elaborados y aprobados por cada uno de los órganos facultados para hacerlo, serán incluidos dentro del proyecto de presupuesto del Poder Judicial y remitidos directamente por el Consejo de la Judicatura al Congreso del Estado. El presupuesto asignado al Poder Judicial no podrá ser inferior al dos por ciento del total del presupuesto de egresos del Estado, el cual no será disminuido respecto al del año anterior y se fijará anualmente.
+
+> <small>(REFORMADO, P.O. 25 DE JULIO DE 2011)</small>
 
 ###### Artículo 58.
 
-El Tribunal Constitucional será el órgano rector de los criterios jurídicos de interpretación conforme a esta Constitución y las leyes que de ella emanen.
+El Consejo de la Judicatura es un órgano del Poder Judicial, con independencia técnica, encargado de la vigilancia, disciplina, administración y carrera judicial de los órganos del Poder Judicial, con las excepciones previstas en esta Constitución.
 
-Tendrá las siguientes atribuciones:
+El Consejo de la Judicatura se integrará por cinco miembros, que serán designados de la forma siguiente:
 
-I. Garantizar la supremacía y control de esta Constitución mediante su interpretación; siempre y cuando no sea contraria a lo establecido en el Artículo 133, último párrafo, de la Constitución Política de los Estados Unidos Mexicanos, ni a la jurisprudencia de la Suprema Corte de Justicia de la Nación.
+I. Dos serán representantes del Poder Judicial, de los cuales uno será el Presidente del Tribunal Superior de Justicia, que también lo será del Consejo, y el otro será designado por el Tribunal Constitucional de entre los jueces de primera instancia.
 
-II. Erigirse en Tribunal de Sentencia y conocer de los juicios y procedimientos instaurados a los servidores públicos que incurran en los actos u omisiones a que se refiere el Título Décimo Segundo de esta Constitución.
+II. Dos consejeros designados por el Pleno del Congreso del Estado o por la Comisión Permanente, en su caso.
 
-III. Conocer de las controversias constitucionales, acciones de inconstitucionalidad, acciones por omisión legislativa y de las cuestiones de inconstitucionalidad estatal en términos del artículo 63 de esta Constitución.
+III. Uno nombrado por el Titular del Ejecutivo.
 
-IV. Conocer, de oficio, los casos de contradicción de criterios que se susciten entre las Salas Regionales y determinar la aplicación obligatoria de sus resoluciones.
+Los consejeros actuarán con absoluta independencia de quien los nombre. Durarán cuatro años en su cargo, con posibilidad de reelección para un periodo igual. Las percepciones recibidas con motivo al desempeño de sus atribuciones, serán equivalentes a las de los magistrados del Tribunal Constitucional, mismas que no podrán ser disminuidas durante el periodo del encargo.
 
-V. Resolver los conflictos de competencia que se susciten entre Salas Regionales o entre Juzgados de Primera Instancia.
+Los consejeros de la Judicatura deberán ser personas que se hayan distinguido por su capacidad, honestidad y honorabilidad en el ejercicio de su profesión, deberán tener cuando menos treinta años de edad cumplidos al día de la designación y contar con una antigüedad mínima de cinco años en el ejercicio profesional, con título y cédula de licenciado en derecho, además de cumplir con las condiciones establecidas en las fracciones I, IV, V y VI, del artículo 61, de esta Constitución.
 
-VI. Designar a los miembros del Consejo de la Judicatura y del Tribunal de Justicia Electoral y Administrativa que correspondan al Poder Judicial.
-
-VII. Conocer de los asuntos que por su interés o transcendencia así lo ameriten a petición fundada del Procurador General de Justicia del Estado.
-
-VIII. Las demás atribuciones que les confieran esta Constitución y la Ley.
-
-> <small>(ADICIONADO, P.O. 27 DE JUNIO DE 2011)</small>
-
-###### Artículo 59.
-
-Los nombramientos de magistrados deberán hacerse de manera preferente entre aquellas personas que hayan prestado sus servicios con eficiencia y probidad en la impartición de justicia, o en quienes por su honorabilidad, competencia y profesionalismo en otras ramas de la profesión jurídica, lo ameriten.
-
-Los nombramientos de los Magistrados de las Salas Regionales Colegiadas y de las Salas Especializadas en Justicia para Adolescentes, serán aprobados por el Congreso del Estado o la Comisión Permanente en su caso, a propuesta del Titular del Poder Ejecutivo en los términos del artículo 57 de esta Constitución.
-
-En caso de ratificación, el Ejecutivo podrá recabar la opinión del Consejo de la Judicatura, en términos de la Ley respectiva.
-
-Cuando el Congreso del Estado o la Comisión Permanente en su caso, no apruebe dos nombramientos sucesivos respecto de una misma vacante, el titular del Poder Ejecutivo hará un tercer nombramiento, el cual surtirá sus efectos con carácter provisional, sin perjuicio de ser ratificado por el Congreso del Estado.
-
-Cuando ocurra una vacante definitiva por defunción, renuncia, incapacidad o cualquier otra causa de algún Magistrado de Sala el Consejo de la Judicatura dará aviso inmediato al Titular del Poder Ejecutivo para que proceda al nombramiento de la magistratura vacante, en términos del artículo 57, de esta Constitución.
-
-> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2011)</small>
-
-### CAPÍTULO IV. DEL CONTROL CONSTITUCIONAL
-
-> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2011)</small>
-
-###### Artículo 60.
-
-Para ser Magistrado integrante del Tribunal Superior de Justicia del Estado se requiere:
-
-I. Ser ciudadano chiapaneco, mexicano por nacimiento en pleno ejercicio de sus derechos civiles y políticos y tener su domicilio en el Estado.
-
-II. Tener cuando menos treinta y cinco años cumplidos al día de la designación, y hasta setenta y cinco años como edad máxima.
-
-III. Poseer el día del nombramiento con antigüedad mínima de diez años, título universitario y cédula profesional de licenciado en derecho, expedidos por autoridad o institución legalmente facultada para ello.
-
-IV. Gozar de buena reputación y no haber sido condenado por delito que amerite una pena corporal de más de un año de prisión; pero si se tratare de robo, peculado, concusión, cohecho, enriquecimiento ilícito, fraude, falsificación, falsedad en declaración ante la autoridad judicial, difamación, abuso de confianza, contra la salud, u otro que lastime seriamente su buena fama en el concepto público, habrá inhabilitación para el cargo, cualquiera que haya sido la pena.
-
-V. No ser ministro de culto religioso, salvo que se separe del cargo dos años antes del día de su nombramiento.
-
-VI. Que la persona que vaya a designarse no haya sido titular de una Secretaría de Estado, Procurador General de Justicia del Estado, Senador, Diputado Federal, Diputado Local, Presidente Municipal, a menos que se haya separado del cargo un año antes del día de su nombramiento.
-
-VII. Acreditar conocimientos especializados en materia constitucional para el caso de los magistrados del Tribunal Constitucional.
-
-VIII. Los demás requisitos que señale la Ley.
-
-> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2011)</small>
-
-###### Artículo 61.
-
-El Código de Organización del Poder Judicial del Estado, establecerá las bases del sistema institucional para la selección, formación y actualización de servidores públicos, así como para el desarrollo de la carrera judicial, la cual se regirá por los principios de honestidad, objetividad, imparcialidad, independencia, profesionalismo y excelencia. El Código y reglamento respectivo, establecerán el concurso de oposición abierto para ocupar cualquier plaza de servidor público judicial o juez, salvo los previstos en el párrafo sexto del artículo 62 de esta Constitución.
-
-De igual forma la Ley establecerá las bases mínimas para la práctica de las visitas judiciales y la emisión de los dictámenes correspondientes, realizados por la Visitaduría del Consejo de la Judicatura del Poder Judicial del Estado.
-
-La Visitaduría estará integrada por cinco Magistrados Visitadores, uno de los cuales será su titular, quienes serán nombrados a propuesta del Titular del Poder Ejecutivo y ratificada por el Congreso del Estado, o la Comisión Permanente en su caso, en los términos del segundo párrafo del artículo 57 de esta Constitución.
-
-El Poder Judicial del Estado contará con un órgano de mediación, conciliación y arbitraje denominado Centro Estatal de Justicia Alternativa, el cual actuará bajo los principios de equidad, imparcialidad, rapidez, profesionalismo, confidencialidad y gratuidad. El Código de Organización del Poder Judicial delimitará su estructura y funcionamiento en tanto que los procedimientos respectivos, estarán señalados en la Ley de la materia.
-
-La remuneración de los Jueces, Magistrados y Consejeros de la Judicatura, no podrá ser disminuida durante el tiempo de su gestión.
-
-> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2011)</small>
-
-###### Artículo 62.
-
-Los Magistrados de Salas Regionales Colegiadas y Especializadas en Justicia para Adolescentes del Tribunal Superior de Justicia del Estado, durarán en sus funciones seis años, con posibilidad de ser reelectos en los términos de la Ley de la materia.
-
-Tanto jueces como magistrados tendrán derecho a un haber único a la conclusión ordinaria y definitiva del encargo, mismo que no será menor del equivalente de tres meses del total de su remuneración que tenga asignada al momento de la separación. Para el caso de conclusión del encargo por haber cumplido setenta y cinco años, a que se refiere el artículo 60 fracción II de esta Constitución, tendrán derecho a un haber único correspondientes a seis meses de las percepciones ordinarias al tiempo de su separación.
-
-Los beneficios recibidos por conclusión ordinaria del encargo y por razones de edad, así como los estímulos económicos al personal, serán proveídos con cargo al Fondo Auxiliar para la Administración de Justicia, en los términos que determine la Ley.
-
-Los magistrados exclusivamente podrán ser destituidos previo procedimiento que demuestre que actuaron dolosa o negligentemente en el desempeño de sus labores, o incurrieron en alguna de las hipótesis previstas en el Título Décimo Segundo de esta Constitución y las demás que señala la Ley de Responsabilidades de los Servidores Públicos del Estado de Chiapas.
-
-Los Jueces de Primera Instancia que durante seis años consecutivos presten sus servicios en el Poder Judicial del Estado, en forma tal que se hayan distinguido por su diligencia, probidad, honradez en el ejercicio de sus funciones y honorabilidad en su conducta ciudadana, podrán ser reelectos por el Consejo de la Judicatura y exclusivamente serán removidos por las causales y en los términos del Título Décimo Segundo de esta Constitución y la Ley de Responsabilidades de los Servidores Públicos del Estado de Chiapas, por negligencia en el desempeño de sus labores, o por dejar de reunir alguno de los requisitos que señala la Ley para ocupar el cargo.
-
-Los Jueces de Paz y Conciliación, de Paz y Conciliación Indígenas, serán nombrados por el Consejo de la Judicatura a propuesta de los Ayuntamientos respectivos, tomando en consideración su calidad de conciliadores reconocida por el Centro de Justicia Alternativa del Poder Judicial del Estado, así como su correspondiente acreditación por el órgano encargado de la Carrera Judicial y demás normatividad que para tal efecto contemple el Código de Organización del Poder Judicial del Estado. El mismo mecanismo de nombramiento será aplicable a los Jueces Municipales, con excepción del reconocimiento y acreditación como conciliadores.
-
-El Titular del Centro de Justicia Alternativa del Poder Judicial del Estado, también será nombrado por el Consejo de la Judicatura, de entre aquellos que aprueben satisfactoriamente el curso de formación para mediadores y conciliadores y hayan resultado electos mediante un proceso riguroso de oposición. Las bases, requisitos y procedimientos para la designación de los demás servidores públicos del Centro, estarán fijados en la Ley, sin contravenir a lo establecido en esta Constitución.
-
-Los Jueces de Primera Instancia y Magistrados, no podrán actuar como representantes de cualquier naturaleza, en ningún proceso, ante los órganos del Poder Judicial del Estado, durante el año siguiente al de su separación o retiro.
-
-Las decisiones del Pleno del Consejo de la Judicatura serán definitivas e inatacables.
-
-> <small>(ADICIONADO, P.O. 27 DE JUNIO DE 2011)</small>
-
-###### Artículo 63.
-
-La justicia del control constitucional local se erige dentro del régimen interior del Estado, como un medio de control para mantener la eficacia y la actualización democrática de ésta Constitución, bajo el principio de supremacía constitucional.
-
-El control constitucional local tiene por objeto dirimir de manera definitiva e inatacable los conflictos constitucionales que surjan dentro del ámbito interior del Estado, conforme a este artículo, sin perjuicio de lo previsto en los artículos 103, 105 y 107, de la Constitución Política de los Estados Unidos Mexicanos.
-
-Para el cumplimiento de las atribuciones del control constitucional local señaladas en las fracciones I y II del artículo 58 de esta Constitución, el Tribunal Constitucional, conocerá y resolverá, en los términos que establezca la Ley, con excepción en la materia electoral, de los medios de control constitucional siguientes:
-
-I. De las controversias constitucionales que surjan entre:
-
-a. Dos o más municipios.
-
-b. Uno o más municipios y el Poder Ejecutivo o el Legislativo.
-
-c. El Poder Ejecutivo y el Legislativo.
-
-Siempre que las controversias versen sobre disposiciones generales de los Poderes Ejecutivo, Legislativo, o de los municipios, y la resolución del pleno del Tribunal Constitucional las declare inconstitucionales, éstas tendrán efectos generales si hubieren sido aprobadas y surtirán efectos a partir de su publicación en el Periódico Oficial.
-
-II. De las acciones de inconstitucionalidad que tengan por objeto plantear la posible contradicción entre una norma de carácter general y esta Constitución, y que se ejerciten dentro de los treinta días naturales siguientes a su publicación por:
-
-a. El Gobernador del Estado.
-
-b. El equivalente al 33% de los integrantes del Congreso del Estado, en contra de leyes expedidas por el Congreso del Estado.
-
-c. El Procurador General de Justicia del Estado, en contra de leyes expedidas por el Congreso del Estado.
-
-d. El equivalente al 33% de los Ayuntamientos de la Entidad.
-
-e. El Presidente del Consejo Estatal de los Derechos Humanos, en el ámbito de su competencia.
-
-Las resoluciones dictadas tendrán efectos generales cuando hubieren sido aprobadas por el pleno del Tribunal Constitucional, y surtirán efectos a partir de su publicación en el Periódico Oficial sin efecto retroactivo, excepto cuando se trate de asuntos del orden penal en beneficio del inculpado.
-
-III. De las acciones por omisión legislativa, cuando se considere que el Congreso del Estado no ha resuelto alguna Ley o decreto y que dicha omisión afecte el debido cumplimiento de esta constitución, que interponga:
-
-a. El Gobernador del Estado.
-
-b. Cuando menos la tercera parte de los miembros del Congreso del Estado.
-
-c. Cuando menos la tercera parte de los Ayuntamientos.
-
-d. Cuando menos el 5% de los ciudadanos inscritos en el padrón electoral.
-
-La resolución que emita el Tribunal Constitucional que decrete la existencia de omisión legislativa, surtirá sus efectos a partir de su publicación en el Periódico Oficial; en dicha resolución se determinará como plazo un periodo ordinario de sesiones del Congreso del Estado, para que éste resuelva la omisión correspondiente. Tratándose de legislación que deba de aprobarse por el mismo Congreso del Estado, por mandato de la Constitución Política de los Estados Unidos Mexicanos o de la Constitución Local, si el Congreso del Estado no lo hiciere en el plazo fijado, el Tribunal Constitucional lo hará provisionalmente en su lugar y dicha legislación estará vigente hasta que el Congreso del Estado subsane la omisión legislativa.
-
-IV. A efecto de dar respuesta fundada y motivada a las cuestiones de inconstitucionalidad formulada por los Magistrados o Jueces del Estado cuando tengan duda sobre la constitucionalidad o aplicación de una Ley local, en el proceso sobre el cual tengan conocimiento, las peticiones deberán ser desahogadas en un plazo no mayor de treinta días.
-
-> <small>(ADICIONADO, P.O. 27 DE JUNIO DE 2011)</small>
-
-### CAPÍTULO V. DEL CONSEJO DE LA JUDICATURA
-
-> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2011)</small>
-
-###### Artículo 64.
-
-El Consejo de la Judicatura es un órgano del Poder Judicial del Estado, con independencia técnica, encargado de la vigilancia, disciplina, administración y carrera judicial de los órganos del Poder Judicial, con las excepciones previstas en esta Constitución.
-
-El Consejo de la Judicatura se integrará por cinco miembros, que serán designados de la siguiente forma:
-
-I. Dos serán representantes del Poder Judicial, de los cuales uno será el Presidente del Tribunal Superior de Justicia del Estado, que también lo será del Consejo, y el otro será designado por el Tribunal Constitucional de entre los jueces de primera instancia.
-
-II. Dos Consejeros designados por el Congreso del Estado o por la Comisión Permanente, en su caso.
-
-III. Uno nombrado por el Titular del Poder Ejecutivo del Estado.
-
-Los Consejeros actuarán con absoluta independencia de quien los nombre. Durante su encargo exclusivamente podrán ser removidos en los términos del Título Décimo Segundo de esta Constitución y las percepciones recibidas con motivo al desempeño de sus atribuciones, serán equivalentes a las de los magistrados del Tribunal Constitucional, mismas que no podrán ser disminuidas durante el periodo del encargo.
-
-Los Consejeros de la Judicatura deberán ser personas que se hayan distinguido por su capacidad, honestidad y honorabilidad en el ejercicio de su profesión, deberán tener cuando menos treinta años de edad cumplidos al día de la designación y contar con una antigüedad mínima de cinco años en el ejercicio profesional, con título y cédula de licenciado en derecho, además de cumplir con las condiciones establecidas en las fracciones I, IV, V y VI, del artículo 60, de esta Constitución.
-
-Los Consejeros quedarán sujetos a las responsabilidades que establecen el Título Décimo Segundo de esta Constitución, el Código de Organización del Poder Judicial del Estado y de la ley de la materia.
-
-El Consejo de la Judicatura será presidido por el Presidente del Tribunal Superior de Justicia del Estado y contará con un Secretario Ejecutivo que será designado por el propio Consejo, a propuesta de su Presidente.
+El Consejo de la Judicatura será presidido por el Presidente del Tribunal Superior de Justicia y contará con un Secretario Ejecutivo que será designado por el propio Consejo, a propuesta de su Presidente.
 
 Corresponde al Consejo de la Judicatura:
 
-I. Participar en la designación de magistrados en los términos del artículo 59 párrafo segundo de esta Constitución.
+I. Participar en la designación de magistrados en los términos de lo establecido en esta Constitución.
 
-II. Designar, adscribir o remover en los términos de esta Constitución y la Ley de la materia, los servidores públicos judiciales y personal administrativo.
+II. Designar, adscribir o remover en los términos de esta Constitución y la ley de la materia, los servidores públicos judiciales y personal administrativo.
 
 III. Emitir acuerdos generales a fin de lograr una adecuada distribución entre los órganos del Poder Judicial para la mejor y mayor prontitud de su despacho.
 
 IV. Establecer y ejecutar el sistema de carrera judicial en los términos y condiciones que establece esta Constitución.
 
-V. Administrar los recursos humanos, materiales y financieros del Poder Judicial, con excepción del Tribunal Constitucional cuya administración corresponderá a su Presidente; así como del Tribunal de Justicia Electoral y Administrativa y el Tribunal del Trabajo Burocrático del Estado, quienes lo harán a través de una comisión de administración.
+V. Administrar los recursos humanos, materiales y financieros del Poder Judicial, con excepción del Tribunal Constitucional cuya administración corresponderá a su Presidente; así como del Tribunal de Justicia Electoral y Administrativa y el Tribunal del Trabajo Burocrático, quienes lo harán a través de una comisión de administración.
 
-VI. Determinar los Distritos Judiciales en que se divida el Estado, el número de Salas, Juzgados de Primera Instancia, Juzgados y Salas Especializados en Justicia para Adolescentes, Juzgados de Paz y Conciliación Indígenas, Juzgados Municipales y Subdirecciones del Centro Estatal de Justicia Alternativa; así como la residencia, adscripción, jurisdicción territorial y especialización que por materia les corresponda.
+VI. Determinar los distritos judiciales en que se divida el Estado, el número de salas, juzgados de primera instancia, juzgados y salas especializados en justicia para adolescentes, juzgados de paz y conciliación indígena, juzgados municipales y subdirecciones del Centro Estatal de Justicia Alternativa; así como la residencia, adscripción, jurisdicción territorial y especialización que por materia les corresponda.
 
-VII. Administrar los recursos financieros del Fondo Auxiliar para la Administración de Justicia, conforme a los lineamientos señalados en esta Constitución y lo que determine la Ley.
+VII. Administrar los recursos financieros del Fondo Auxiliar para la Administración de Justicia, conforme a los lineamientos señalados en esta Constitución, el Código y demás normatividad aplicable.
 
-VIII. Los demás asuntos que esta Constitución y la Ley determinen.
+VIII. Los demás asuntos que esta Constitución y las leyes determinen.
 
-Para los efectos de la fracción V del presente artículo, la administración, vigilancia y disciplina de los recursos presupuestales del Tribunal de Justicia Electoral y Administrativa y del Tribunal del Trabajo Burocrático, corresponderán en los términos que señale la Ley, a Comisiones del Consejo de la Judicatura, que estarán integradas para el caso del Tribunal de Justicia Electoral y Administrativa, por su Presidente, un Magistrado del mismo Tribunal designado por el Pleno y un Consejero de la Judicatura; para el caso de la Comisión de Administración del Tribunal del Trabajo Burocrático estará integrada, por su Presidente y dos Consejeros de la Judicatura. Las comisiones de estos órganos del Poder Judicial serán presididas, cada una por sus titulares, respectivamente y tendrán atribución para presentar su anteproyecto de presupuesto al Consejo de la Judicatura, para su inclusión en el proyecto del presupuesto del Poder Judicial del Estado.
+Las decisiones del Pleno del Consejo de la Judicatura serán definitivas e inatacables.
+
+El Código establecerá las bases mínimas para la práctica de las visitas judiciales y la emisión de los dictámenes correspondientes, realizados por la Visitaduría del Consejo de la Judicatura, así como su integración.
+
+La Visitaduría estará integrada por cinco magistrados del Tribunal Superior de Justicia.
+
+El Consejo de la Judicatura adscribirá a quienes funjan como magistrados visitadores, uno de los cuales será su coordinador.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 25 DE JULIO DE 2011)</small>
+
+###### Artículo 59.
+
+El Tribunal de Justicia Electoral y Administrativa, será la máxima autoridad jurisdiccional en las materias de que conoce. Gozará de autonomía en su funcionamiento e independencia en sus decisiones. Sus resoluciones serán emitidas con plenitud de jurisdicción y sus fallos serán definitivos; sesionará en Pleno y en Salas y sus sesiones serán públicas.
+
+Estará integrado por siete magistrados, uno de los cuales, por decisión del Pleno, fungirá como su presidente. De los siete magistrados, cinco serán nombrados por el Pleno del Congreso del Estado o por la Comisión Permanente, en su caso, de entre las propuestas que formulen los grupos parlamentarios, los restantes serán designados por el Tribunal Constitucional de entre aquellos que ocupen un cargo de magistrado en el Tribunal Superior de Justicia. Durarán en el cargo siete años con posibilidad de ser reelectos para otro periodo igual.
+
+Para los efectos de la fracción V del párrafo sexto del artículo 58, la administración, vigilancia y disciplina de los recursos presupuestales del Tribunal de Justicia Electoral y Administrativa corresponderán en los términos que señale el Código, a la Comisión de Administración que estará integrada por el Presidente y un magistrado designado por el Pleno del Tribunal de Justicia Electoral y Administrativa y un consejero de la Judicatura.
+
+La Comisión de Administración será presidida por el Titular del Tribunal y tendrá atribución para presentar su anteproyecto de presupuesto al Consejo de la Judicatura para su inclusión en el proyecto del presupuesto del Poder Judicial.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 25 DE JULIO DE 2011)</small>
+
+### CAPÍTULO IV. DEL TRIBUNAL DE JUSTICIA ELECTORAL Y ADMINISTRATIVA
+
+> <small>(REFORMADO, P.O. 25 DE JULIO DE 2011)</small>
+
+###### Artículo 60.
+
+El Tribunal del Trabajo Burocrático será la máxima autoridad jurisdiccional en la materia, sus resoluciones serán emitidas con plenitud de jurisdicción y sus fallos serán definitivos, sesionará en Pleno y en Salas y sus sesiones serán públicas. El Código determinará sus respectivas competencias y la forma de su organización y funcionamiento.
+
+Estará integrado de la manera siguiente:
+
+I. Dos magistrados designados por el Titular del Ejecutivo.
+
+II. Un magistrado designado por el Tribunal Constitucional.
+
+III. Un magistrado designado por el Congreso del Estado, a propuesta escrita de tres de los Ayuntamientos de mayor población en la Entidad.
+
+IV. Tres magistrados propuestos de la misma forma por las unidades burocráticas de mayor representatividad en el Estado.
+
+La designación de los magistrados nombrados por el Titular del Ejecutivo será directa. Las propuestas de designación de los magistrados formuladas por los ayuntamientos y las unidades burocráticas a que hace mención el párrafo anterior, deberán ser aprobadas por el Congreso del Estado en términos del Código. Para ser nombrado magistrado, deberá acreditarse experiencia en materia laboral por un periodo no menor de tres años.
+
+Durarán en sus funciones cuatro años con posibilidad de ser reelectos en los términos del Código. El Presidente del Tribunal del Trabajo Burocrático será designado por el Tribunal Constitucional, durará en su cargo dos años, pudiendo ser ratificado por un periodo más.
+
+Para los efectos de la fracción V del párrafo sexto del artículo 58, la administración, vigilancia y disciplina de los recursos presupuestales del Tribunal del Trabajo Burocrático corresponderán en los términos que señale el Código, a la Comisión de Administración, que estará integrada por su Presidente y dos consejeros de la Judicatura.
+
+La Comisión de Administración será presidida por el Titular del Tribunal y tendrá atribución para presentar su anteproyecto de presupuesto al Consejo de la Judicatura, para su inclusión en el proyecto de presupuesto del Poder Judicial.
+
+> <small>(REFORMADO, P.O. 25 DE JULIO DE 2011)</small>
+
+###### Artículo 61.
+
+Para ser magistrado del Poder Judicial se requiere:
+
+I. Ser ciudadano chiapaneco, mexicano por nacimiento en pleno ejercicio de sus derechos civiles y políticos, así como tener su domicilio en el Estado.
+
+II. Tener cuando menos treinta y cinco años cumplidos al día de la designación, y hasta setenta y cinco años como edad máxima.
+
+III. Poseer el día del nombramiento con antigüedad mínima de diez años, título universitario y cédula profesional de licenciado en derecho, expedidos por autoridad o institución legalmente facultada para ello.
+
+IV. Gozar de buena reputación y no haber sido condenado por delito que amerite una pena corporal de más de un año de prisión; pero si se tratare de robo, peculado, concusión, cohecho, enriquecimiento ilícito, fraude, falsificación, falsedad en declaración ante la autoridad judicial, abuso de confianza, contra la salud, u otro que lastime seriamente su buena fama en el concepto público, habrá inhabilitación para el cargo, cualquiera que haya sido la pena.
+
+V. No ser ministro de culto religioso, salvo que se separe del cargo dos años antes del día de su nombramiento.
+
+VI. Que la persona que vaya a designarse no haya sido titular de una Secretaría de Estado, Procurador General de Justicia del Estado, Senador, Diputado Federal, Diputado local, Presidente Municipal, a menos que se haya separado del cargo un año antes del día de su nombramiento.
+
+VII. Acreditar conocimientos especializados en la materia de que se trate el referido nombramiento.
+
+VIII. Los demás requisitos que señale la ley.
+
+> <small>(REFORMADO, P.O. 25 DE JULIO DE 2011)</small>
+
+###### Artículo 62.
+
+Los nombramientos de magistrados deberán hacerse de manera preferente entre aquellas personas que hayan prestado sus servicios con eficiencia y probidad en la impartición de justicia, o en quienes por su honorabilidad, competencia y profesionalismo se hayan destacado en otras ramas de la profesión jurídica.
+
+Cuando ocurra una vacante definitiva por defunción, renuncia, incapacidad o cualquier otra causa de algún magistrado del Poder Judicial, a excepción de los magistrados del Tribunal Constitucional, dará aviso inmediato al Titular del Ejecutivo para que proceda al nombramiento de la magistratura vacante, en términos de lo que establece esta Constitución. Para el caso de los magistrados del Tribunal Constitucional, será el Presidente del Tribunal Superior de Justicia quien dará el aviso al Titular del Ejecutivo.
+
+La designación de los magistrados se hará dentro de un plazo que no excederá de siete días hábiles respecto de aquel en que fue presentada la propuesta por el Titular del Ejecutivo. Si el Congreso no resuelve dentro de dicho plazo, ocupará el cargo de magistrado la persona que haya sido propuesta. Cuando el Pleno del Congreso del Estado o la Comisión Permanente, en su caso, no apruebe dos nombramientos sucesivos respecto de una misma vacante, el Titular del Ejecutivo hará un tercer nombramiento, el cual surtirá sus efectos con carácter provisional, sin perjuicio de ser ratificado por el Congreso del Estado.
+
+En caso de ratificación de los magistrados del Poder Judicial, el Titular del Ejecutivo podrá recabar la opinión del Consejo de la Judicatura, en términos del Código.
+
+Tanto jueces como magistrados del Poder Judicial y consejeros de la Judicatura tendrán derecho a un haber único a la conclusión ordinaria y definitiva del encargo, mismo que no será menor del equivalente de tres meses del total de su remuneración que tenga asignada al momento de la separación. Para el caso de conclusión del encargo por haber cumplido setenta y cinco años, a que se refiere el artículo 61 fracción II de esta Constitución, tendrán derecho a un haber único correspondiente a seis meses de las percepciones ordinarias al tiempo de su separación.
+
+Los beneficios recibidos por conclusión ordinaria del encargo y por razones de edad, así como los estímulos económicos al personal, podrán ser proveídos con cargo al Fondo Auxiliar para la Administración de Justicia, en los términos que determine la ley.
+
+Los jueces, magistrados del Poder Judicial y consejeros de la Judicatura exclusivamente podrán ser destituidos previo procedimiento que demuestre que actuaron dolosa o negligentemente en el desempeño de sus labores o incurrieron en alguna de las hipótesis previstas en el Título Décimo Segundo de esta Constitución y las demás que señala la Ley de Responsabilidades de los Servidores Públicos del Estado de Chiapas.
+
+Los jueces, magistrados del Poder Judicial y consejeros de la Judicatura no podrán actuar como representantes de cualquier naturaleza, en ningún proceso ante los órganos del Poder Judicial, durante el año siguiente al de su separación o retiro.
+
+La remuneración de los jueces, magistrados del Poder Judicial y consejeros de la Judicatura, no podrá ser disminuida durante el tiempo de su gestión.
+
+> <small>(REFORMADO, P.O. 25 DE JULIO DE 2011)</small>
+
+###### Artículo 63.
+
+El Tribunal Constitucional será el órgano rector de los criterios jurídicos de interpretación conforme a esta Constitución y las leyes que de ella emanen. Tendrá las siguientes atribuciones:
+
+I. Garantizar la supremacía y control de esta Constitución mediante su interpretación; siempre y cuando no sea contraria a lo establecido en el artículo 133, último párrafo, de la Constitución Política de los Estados Unidos Mexicanos, ni a la jurisprudencia de la Suprema Corte de Justicia de la Nación.
+
+II. Erigirse en Tribunal de Sentencia y conocer de los juicios y procedimientos instaurados a los servidores públicos que incurran en los actos u omisiones a que se refiere el Título Décimo Segundo de esta Constitución.
+
+III. Conocer de las controversias constitucionales, acciones de inconstitucionalidad, acciones por omisión legislativa y de las cuestiones de inconstitucionalidad en términos del artículo 64 de esta Constitución.
+
+IV. Conocer de oficio, los casos de contradicción de criterios que se susciten entre las salas regionales y determinar la aplicación obligatoria de sus resoluciones.
+
+V. Resolver los conflictos de competencia que se susciten entre salas regionales o entre juzgados de primera instancia.
+
+VI. Designar a los miembros del Consejo de la Judicatura y del Tribunal de Justicia Electoral y Administrativa que correspondan al Poder Judicial.
+
+VII. Conocer de los asuntos que por su interés o transcendencia así lo ameriten a petición fundada del Procurador General de Justicia del Estado.
+
+VIII. Las demás atribuciones que les confieran esta Constitución y la ley.
+
+> <small>(REFORMADO, P.O. 25 DE JULIO DE 2011)</small>
+
+### CAPÍTULO V. DEL TRIBUNAL DEL TRABAJO BUROCRÁTICO
+
+> <small>(REFORMADO, P.O. 25 DE JULIO DE 2011)</small>
+
+###### Artículo 64.
+
+La justicia del control constitucional local se erige dentro del régimen interior del Estado, como un medio de control para mantener la eficacia y la actualización democrática de esta Constitución, bajo el principio de supremacía constitucional.
+
+Tiene por objeto dirimir de manera definitiva e inatacable los conflictos constitucionales que surjan dentro del ámbito interior del Estado, conforme a este artículo, sin perjuicio de lo previsto en los artículos 103, 105 y 107, de la Constitución Política de los Estados Unidos Mexicanos.
+
+Para el cumplimiento de las atribuciones del control constitucional local señaladas en las fracciones I y II del artículo 63 de esta Constitución, el Tribunal Constitucional conocerá y resolverá en los términos que establezca la ley, con excepción en la materia electoral, de los medios de control constitucional siguientes:
+
+I. De las controversias constitucionales que surjan entre:
+
+a) Dos o más municipios.
+
+b) Uno o más municipios y el Poder Ejecutivo o el Legislativo.
+
+c) El Poder Ejecutivo y el Legislativo.
+
+Siempre que las controversias versen sobre disposiciones generales de los Poderes Ejecutivo, Legislativo, o de los municipios, y la resolución del pleno del Tribunal Constitucional las declare inconstitucionales, éstas tendrán efectos generales si hubieren sido aprobadas y surtirán efectos a partir de su publicación en el Periódico Oficial.
+
+II. De las acciones de inconstitucionalidad que tengan por objeto plantear la posible contradicción entre una norma de carácter general y esta Constitución, y que se ejerzan dentro de los treinta días naturales siguientes a su publicación por:
+
+a) El Gobernador del Estado.
+
+b) El equivalente al 33% de los integrantes del Congreso del Estado, en contra de leyes expedidas por el Congreso del Estado.
+
+c) El Procurador General de Justicia del Estado, en contra de leyes expedidas por el Congreso del Estado.
+
+d) El equivalente al 33% de los ayuntamientos de la entidad.
+
+e) El Presidente del Consejo Estatal de los Derechos Humanos, en el ámbito de su competencia.
+
+Las resoluciones dictadas tendrán efectos generales cuando hubieren sido aprobadas por el pleno del Tribunal Constitucional, y surtirán efectos a partir de su publicación en el Periódico Oficial sin efecto retroactivo, excepto cuando se trate de asuntos del orden penal en beneficio del inculpado.
+
+III. De las acciones por omisión legislativa cuando se considere que el Congreso del Estado no ha resuelto alguna ley o decreto y que dicha omisión afecte el debido cumplimiento de esta Constitución, que interponga:
+
+a) El Gobernador del Estado.
+
+b) Cuando menos la tercera parte de los miembros del Congreso del Estado.
+
+c) Cuando menos la tercera parte de los ayuntamientos.
+
+d) Cuando menos el 5% de los ciudadanos inscritos en el padrón electoral.
+
+La resolución que emita el Tribunal Constitucional que decrete la existencia de omisión legislativa, surtirá sus efectos a partir de su publicación en el Periódico Oficial; en dicha resolución se determinará como plazo un periodo ordinario de sesiones del Congreso del Estado, para que éste resuelva la omisión correspondiente. Tratándose de legislación que deba de aprobarse por el mismo Congreso del Estado, por mandato de la Constitución Política de los Estados Unidos Mexicanos o de la Constitución local, si el Congreso del Estado no lo hiciere en el plazo fijado, el Tribunal Constitucional lo hará provisionalmente en su lugar y dicha legislación estará vigente hasta que el Congreso del Estado subsane la omisión legislativa.
+
+IV. A efecto de dar respuesta fundada y motivada a las cuestiones de inconstitucionalidad formulada por magistrados o jueces cuando tengan duda sobre la constitucionalidad o aplicación de una ley local, en el proceso sobre el cual tengan conocimiento, las peticiones deberán ser desahogadas en un plazo no mayor de treinta días.
 
 > <small>(REFORMADO, P.O. 27 DE JUNIO DE 2011)</small>
 
@@ -1629,9 +1653,9 @@ La integración, periodo de encargo, así como las reglas, procedimientos y las 
 
 > <small>(REFORMADO, P.O. 27 DE JUNIO DE 2011)</small>
 
-### CAPÍTULO I. DE LOS OBJETIVOS DE DESARROLLO DEL MILENIO DEL PROGRAMA DE LAS NACIONES UNIDAS PARA EL DESARROLLO
+### CAPÍTULO VI. DEL NOMBRAMIENTO DE LOS SERVIDORES PÚBLICOS JUDICIALES
 
-> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO, P.O. 25 DE JULIO DE 2011)</small>
 
 ###### Artículo 68.
 
@@ -1647,7 +1671,13 @@ IV. Ser originario del municipio, con residencia mínima de un año o ciudadaní
 
 V. No prestar servicios a gobiernos o instituciones extranjeras.
 
-VI. Los demás que establezca la legislación respectiva.
+> <small>(REFORMADA, P.O. 25 DE JULIO DE 2011)</small>
+
+VI. No ser cónyuge o concubino, hermana o hermano, madre, padre, hija, hijo, o tener parentesco consanguíneo hasta el cuarto grado, así como tampoco tener parentesco por afinidad hasta el segundo grado, con el Presidente Municipal o Síndico en funciones, si se aspira a los cargos de Presidente Municipal o Síndico.
+
+> <small>(ADICIONADA, P.O. 25 DE JULIO DE 2011)</small>
+
+VII. Los demás que establezca la legislación respectiva.
 
 > <small>(REFORMADO, P.O. 27 DE JUNIO DE 2011)</small>
 
@@ -1667,9 +1697,9 @@ El Congreso del Estado designará de entre los vecinos que gocen de buena reputa
 
 > <small>(REFORMADO, P.O. 27 DE JUNIO DE 2011)</small>
 
-### CAPÍTULO II. DE LA POLÍTICA SOCIAL PARA ELEVAR EL ÍNDICE DE DESARROLLO HUMANO
+### CAPÍTULO VII. DEL CONTROL CONSTITUCIONAL
 
-> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO, P.O. 25 DE JULIO DE 2011)</small>
 
 ###### Artículo 70.
 
@@ -1747,7 +1777,13 @@ g) Participar en la creación y administración de zonas de reservas ecológicas
 
 h) Intervenir en la formulación y aplicación de programas de transporte público de pasajeros cuando aquellos afecten su ámbito territorial.
 
-i) Celebrar convenios para la administración y custodia de las zonas federales.
+> <small>(REFORMADO, P.O. 25 DE JULIO DE 2011)</small>
+
+i) Promover acciones que permitan evitar la emisión de gases de efecto invernadero; tales como los procesos de reconversión productiva, producción de biodiesel, implementación del plan de tratamiento de aguas residuales y relleno sanitario, programas que tengan como objeto evitar la degradación y deforestación de las áreas forestales; formulando e instrumentando las políticas públicas para la adaptación al cambio climático y reducción de sus efectos adversos.
+
+> <small>(ADICIONADO, P.O. 25 DE JULIO DE 2011)</small>
+
+j) Celebrar convenios para la administración y custodia de las zonas federales.
 
 De conformidad a los fines señalados en el párrafo tercero del artículo 27, de la Constitución Política de los Estados Unidos Mexicanos, los municipios expedirán los reglamentos y disposiciones administrativas que fueren necesarios.
 
@@ -1756,6 +1792,10 @@ VII. La Policía Preventiva Municipal actuará sin vulnerar los derechos humanos
 El Ejecutivo Federal tendrá el mando de la fuerza pública en los lugares donde resida habitual o transitoriamente.
 
 VIII. Las relaciones de trabajo entre los municipios y sus Trabajadores, se regirán por las leyes que expida el Congreso del Estado con base en lo dispuesto en el artículo 123 de la Constitución Política de los Estados Unidos Mexicanos, y sus disposiciones reglamentarias.
+
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2011)</small>
+
+### CAPÍTULO I. DE LOS OBJETIVOS DE DESARROLLO DEL MILENIO DEL PROGRAMA DE LAS NACIONES UNIDAS PARA EL DESARROLLO
 
 > <small>(REFORMADO, P.O. 27 DE JUNIO DE 2011)</small>
 
@@ -1768,6 +1808,10 @@ Para atender el fenómeno global del cambio climático, así como para coadyuvar
 ## TÍTULO OCTAVO. DEL PODER JUDICIAL
 
 > <small>(ADICIONADO, P.O. 27 DE JUNIO DE 2011)</small>
+
+### CAPÍTULO II. DE LA POLÍTICA SOCIAL PARA ELEVAR EL ÍNDICE DE DESARROLLO HUMANO
+
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2011)</small>
 
 ###### Artículo 72.
 
@@ -1871,11 +1915,11 @@ Las leyes determinarán los casos y las circunstancias en los que se deba sancio
 
 Cualquier ciudadano bajo su más estricta responsabilidad y mediante la presentación de elementos de prueba, podrá formular denuncia ante el Congreso del Estado, respecto de las conductas a que se refiere este artículo.
 
-> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO, P.O. 25 DE JULIO DE 2011)</small>
 
 ###### Artículo 81.
 
-Podrán ser sujetos de juicio político: El Gobernador del Estado; los Diputados Locales; los Magistrados del Tribunal Superior de Justicia del Estado y los Consejeros de la Judicatura; los Secretarios de Despacho; el Procurador General de Justicia del Estado; el Subprocurador General de Justicia y el Fiscal Electoral; el Presidente y los Contralores de la Comisión de Fiscalización Electoral; los Consejeros Electorales del Instituto de Elecciones y Participación Ciudadana; los Coordinadores Generales; los Presidentes Municipales; los Directores Generales o sus equivalentes de los Organismos Descentralizados, Empresas de Participación Estatal, Fideicomisos Públicos; los Consejeros y el Secretario Ejecutivo del Consejo Estatal de los Derechos Humanos; y el Auditor Superior del Estado.
+Podrán ser sujetos de juicio político: El Gobernador del Estado; los Diputados Locales; los Magistrados del Poder Judicial y Consejeros de la Judicatura; los Secretarios de Despacho; el Procurador General de Justicia del Estado; el Subprocurador General de Justicia y el Fiscal Electoral; el Presidente y los Contralores de la Comisión de Fiscalización Electoral; los Consejeros Electorales del Instituto de Elecciones y Participación Ciudadana; los Coordinadores Generales; los Presidentes Municipales; los Directores Generales o sus equivalentes de los Organismos Descentralizados, Empresas de Participación Estatal, Fideicomisos Públicos; los Consejeros y el Secretario Ejecutivo del Consejo Estatal de los Derechos Humanos; y el Auditor Superior del Estado.
 
 Cuando los servidores públicos mencionados, así como los Presidentes Municipales incurran en violaciones graves a la Constitución del Estado y a las leyes que de ella emanen, así como en el manejo indebido de fondos y recursos estatales o municipales, se observará el procedimiento establecido en este precepto.
 
@@ -1885,19 +1929,15 @@ En conocimiento de la acusación, y erigido el Tribunal de Sentencia, el Tribuna
 
 Las sanciones consistirán en la destitución del servidor público y en su inhabilitación para desempeñar funciones, empleos, cargos o comisiones de cualquier naturaleza en el servicio público.
 
-> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO, P.O. 25 DE JULIO DE 2011)</small>
 
 ###### Artículo 82.
 
-Cuando se trate de actos u omisiones sancionados por la Ley Penal cometidos por el Gobernador del Estado; por los Diputados Locales; los Magistrados del Tribunal Superior de Justicia del Estado y los Consejeros de la Judicatura; por los Secretarios y Subsecretarios de Despacho; por el Procurador General de Justicia del Estado, por el por el (sic) Subprocurador General de Justicia y el Fiscal Electoral; el Presidente y los Contralores de la Comisión de Fiscalización Electoral; los Consejeros Electorales y el Secretario Ejecutivo del Instituto de Elecciones y Participación Ciudadana; los Coordinadores Generales; los Presidentes, Síndicos y Regidores Municipales; los Directores Generales o sus equivalentes de los Organismos Descentralizados, Empresas de Participación Estatal y de Fideicomisos Públicos; los Consejeros y el Secretario Ejecutivo del Consejo Estatal de los Derechos Humanos; y el Auditor Superior del Estado; el Congreso del Estado o en su caso la Comisión Permanente erigidos en jurado declarará por dos tercios de los votos de sus miembros presentes, cuando se trate del Gobernador, y por mayoría relativa cuando se trate de los otros servidores públicos enunciados en este precepto, si ha lugar o no a formación de causa. En caso afirmativo, quedará el acusado por ese sólo hecho, separado de su encargo y sujeto a la acción de los tribunales del orden común; si ésta culmina en sentencia absolutoria el inculpado podrá reasumir su función. Si la sentencia fuese condenatoria y se trata de un delito cometido durante el ejercicio de su encargo, no se concederá al reo la gracia del indulto. En caso negativo, no habrá lugar a procedimiento ulterior, pero ello no será obstáculo para que la imputación por la comisión del delito continúe su curso cuando el inculpado haya concluido el ejercicio de su encargo, pues la misma no prejuzga los fundamentos de la imputación.
+Cuando se trate de actos u omisiones sancionados por la Ley Penal cometidos por el Gobernador del Estado; por los Diputados Locales; los Magistrados del Poder Judicial y Consejeros de la Judicatura; por los Secretarios y Subsecretarios de Despacho; por el Procurador General de Justicia del Estado, por el por el (sic) Subprocurador General de Justicia y el Fiscal Electoral; el Presidente y los Contralores de la Comisión de Fiscalización Electoral; los Consejeros Electorales y el Secretario Ejecutivo del Instituto de Elecciones y Participación Ciudadana; los Coordinadores Generales; los Presidentes, Síndicos y Regidores Municipales; los Directores Generales o sus equivalentes de los Organismos Descentralizados, Empresas de Participación Estatal y de Fideicomisos Públicos; los Consejeros y el Secretario Ejecutivo del Consejo Estatal de los Derechos Humanos; y el Auditor Superior del Estado; el Congreso del Estado o en su caso la Comisión Permanente erigidos en jurado declarará por dos tercios de los votos de sus miembros presentes, cuando se trate del Gobernador, y por mayoría relativa cuando se trate de los otros servidores públicos enunciados en este precepto, si ha lugar o no a formación de causa. En caso afirmativo, quedará el acusado por ese sólo hecho, separado de su encargo y sujeto a la acción de los tribunales del orden común; si ésta culmina en sentencia absolutoria el inculpado podrá reasumir su función. Si la sentencia fuese condenatoria y se trata de un delito cometido durante el ejercicio de su encargo, no se concederá al reo la gracia del indulto. En caso negativo, no habrá lugar a procedimiento ulterior, pero ello no será obstáculo para que la imputación por la comisión del delito continúe su curso cuando el inculpado haya concluido el ejercicio de su encargo, pues la misma no prejuzga los fundamentos de la imputación.
 
-Cuando el Gobernador del Estado, los Diputados al Congreso del Estado y los Magistrados y los Consejeros del Tribunal Superior de Justicia del Estado incurran en delitos federales, recibida que sea la declaratoria de procedencia a que se contrae el artículo 111 de la Constitución Política de los Estados Unidos Mexicanos, el Congreso del Estado erigido en jurado, por los dos tercios de los votos de sus miembros presentes, cuando se trate del Gobernador y por mayoría relativa cuando se trate de los demás servidores públicos, determinará la procedencia o no de dicha declaración, en caso afirmativo quedará el inculpado separado de su cargo, en tanto esté sujeto a la acción de los Tribunales del orden Federal. Si la sentencia fuese condenatoria la separación de su cargo será definitiva. En caso negativo la solicitud de declaratoria de procedencia se desechará de plano, sin perjuicio de que la imputación por la comisión de delito continúe su curso cuando el inculpado haya concluido el ejercicio de su encargo, pues la misma no prejuzga los fundamentos de la imputación.
+Cuando el Gobernador del Estado, los Diputados al Congreso del Estado y los magistrados del Poder Judicial y consejeros de la Judicatura, incurran en delitos federales, recibida que sea la declaratoria de procedencia a que se contrae el artículo 111 de la Constitución Política de los Estados Unidos Mexicanos, el Congreso del Estado erigido en jurado, por los dos tercios de los votos de sus miembros presentes, cuando se trate del Gobernador y por mayoría relativa cuando se trate de los demás servidores públicos, determinará la procedencia o no de dicha declaración, en caso afirmativo quedará el inculpado separado de su cargo, en tanto esté sujeto a la acción de los Tribunales del orden Federal. Si la sentencia fuese condenatoria la separación de su cargo será definitiva. En caso negativo la solicitud de declaratoria de procedencia se desechará de plano, sin perjuicio de que la imputación por la comisión de delito continúe su curso cuando el inculpado haya concluido el ejercicio de su encargo, pues la misma no prejuzga los fundamentos de la imputación.
 
 Las sanciones penales se aplicarán de acuerdo a lo dispuesto en la legislación penal y, tratándose de delitos por cuya comisión el autor obtenga un beneficio económico o cause daños o perjuicios patrimoniales, deberán graduarse de acuerdo con el lucro obtenido y con la necesidad de reparar los daños y resarcir los perjuicios causados por su conducta ilícita.
-
-Las sanciones económicas no podrán exceder de tres tantos de los beneficios obtenidos o de los daños o perjuicios causados.
-
-En demandas del orden civil que se entablen contra cualquier servidor público, no se requerirá declaración de procedencia.
 
 > <small>(REFORMADO, P.O. 27 DE JUNIO DE 2011)</small>
 
@@ -2001,7 +2041,7 @@ La protección ciudadana es una función a cargo del Estado y sus Municipios, en
 
 El Estado y los municipios se coordinarán en los términos que la Ley señale para establecer un Sistema Estatal de Seguridad Pública que garantice el ejercicio irrestricto de las libertades ciudadanas, la paz y orden públicos.
 
-> <small>(ADICIONADO, P.O. 27 DE JUNIO DE 2011)</small>
+> <small>(REFORMADA SU DENOMINACION, P.O. 25 DE JULIO DE 2011)</small>
 
 ###### Artículo 95.
 
@@ -2012,6 +2052,8 @@ I. Que el Congreso del Estado con la aprobación de las dos terceras partes de l
 II. Que el proyecto se publique en el Periódico Oficial.
 
 III. Que la mayoría de los Ayuntamientos den su aprobación dentro de los 30 días siguientes a aquel en que hubiere comunicado el proyecto de reformas y/o adiciones, entendiéndose que su abstención es aprobación.
+
+Las Adiciones y Reformas de la presente Constitución, aprobadas por el Constituyente Permanente, serán denominadas Reforma Constitucional y serán enumeradas cronológicamente, atendiendo el orden progresivo en que se aprueben.
 
 > <small>(ADICIONADO, P.O. 27 DE JUNIO DE 2011)</small>
 
@@ -2095,9 +2137,9 @@ Esta Constitución no perderá su fuerza y vigor aún cuando por alguna rebelió
 
 > <small>(ADICIONADO, P.O. 27 DE JUNIO DE 2011)</small>
 
-## TÍTULO DÉCIMO CUARTO. DE LAS REFORMAS A LA CONSTITUCIÓN
+## TÍTULO DÉCIMO CUARTO. DE LA REFORMA CONSTITUCIONAL
 
-> <small>(ADICIONADO, P.O. 27 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO, P.O. 25 DE JULIO DE 2011)</small>
 
 ## ARTICULOS TRANSITORIOS
 
@@ -2658,6 +2700,10 @@ A nadie se le exigirá comprobar la legal estancia en el país para la inscripci
 II. Que todas las personas mayores de 64 años que residan en el Estado, reciban una aportación económica mayor a lo que determina el objetivo número uno de los Objetivos de Desarrollo del Milenio del Programa de las Naciones Unidas para el Desarrollo.
 
 III. El respeto y protección de los derechos humanos de los migrantes, entre ellos el derecho a la salud, derechos laborales, derecho a la seguridad pública y a la procuración de justicia.
+
+> <small>(ADICIONADO, P.O. 25 DE JULIO DE 2011)</small>
+
+En el Estado de Chiapas, tratándose de delitos del fuero común, queda prohibida la figura del arraigo dentro de los procedimientos inherentes a la averiguación previa.
 
 > <small>(ADICIONADO, P.O. 27 DE JUNIO DE 2011)</small>
 
@@ -3740,3 +3786,13 @@ P.O. 27 DE JUNIO DE 2011.
 Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 Artículo Segundo.- Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 25 DE JULIO DE 2011.
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Para los efectos de la implementación de planes de tratamiento de aguas residuales y relleno sanitario, a que se refiere el inciso i), de la fracción VI, del artículo 70 de esta Constitución, los Ayuntamientos deberán cumplir con lo relativo a ello en un lapso no mayor a cinco años, contados a partir de la entrada en vigencia del presente Decreto.
+
+Artículo Tercero.- En observancia a lo dispuesto en el párrafo sexto, del artículo 4°, de la Constitución Política del Estado de Chiapas, que por este Decreto se adiciona, y a efecto de garantizar su debido cumplimiento, deberá reformarse la legislación penal de la Entidad, en un plazo no mayor a sesenta días contados a partir de la entrada en vigor de este Decreto.
+
+Artículo Cuarto.- Se derogan las disposiciones que se opongan al presente Decreto.
