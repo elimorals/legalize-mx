@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-530-de-pesca-y-acuacultura-sustentables-para-el-6670
 country: "mx"
 rank: "ley"
 publication_date: "2009-02-11"
-last_updated: "2009-02-11"
+last_updated: "2011-07-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=66703&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY NUMERO 530 DE PESCA Y ACUACULTURA SUSTENTABLES PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 25 DE JULIO DE 2011.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz, el miércoles 11 de febrero de 2009.
 
@@ -61,9 +61,11 @@ II. La sanidad e inocuidad de la pesca y acuacultura en el Estado; y
 
 III. La planeación, ordenamiento y administración de la pesca y acuacultura Estatal.
 
+> <small>(REFORMADO, G.O. 25 DE JULIO DE 2011)</small>
+
 ###### Artículo 3.
 
-La aplicación de la presente Ley corresponde al Ejecutivo Estatal, a través del Instituto Veracruzano para el Desarrollo Rural y Pesquero, a la Secretaría de Desarrollo Agropecuario, Rural, Forestal y Pesca y a los Ayuntamientos, en el ámbito de sus respectivas competencias.
+La aplicación de la presente Ley corresponde al Ejecutivo Estatal, a través de la Secretaría de Desarrollo Agropecuario, Rural, Forestal y Pesca, a la que en lo sucesivo se le denominará la Secretaría y a los Ayuntamientos, en el ámbito de sus respectivas competencias.
 
 ###### Artículo 4.
 
@@ -95,6 +97,10 @@ XII. Consejo. Consejo Estatal de Pesca y Acuacultura Sustentables para el Estado
 
 XIII. Cuarentena. Tiempo que determine la autoridad competente para mantener en observación los organismos acuáticos, para determinar su calidad sanitaria, en apego a las Normas Oficiales Mexicanas u otras regulaciones que emita el Servicio Nacional de Sanidad, Inocuidad y Calidad Agroalimentaria;
 
+> <small>(ADICIONADA, G.O. 25 DE JULIO DE 2011)</small>
+
+XIII Bis. Dirección. Dirección General de Pesca y Acuacultura
+
 XIV. Ejecutivo Estatal. El Poder Ejecutivo del Estado de Veracruz de Ignacio de la Llave;
 
 XV. Entidad Veracruzana. El territorio del Estado de Veracruz de Ignacio de la Llave;
@@ -105,7 +111,7 @@ XVII. Guía de pesca. Documento que ampara el transporte por vía terrestre, mar
 
 XVIII. Inocuidad. Garantía de que el consumo de los recursos de la pesca y acuacultura del Estado, no causan daño en la salud de los consumidores;
 
-XIX. INVEDERP. El Instituto Veracruzano para el Desarrollo Rural y Pesquero del Estado de Veracruz de Ignacio de la Llave;
+XIX. (DEROGADA, G.O. 25 DE JULIO DE 2011)
 
 XX. Ley. Ley de Pesca y Acuacultura Sustentables para el Estado de Veracruz de Ignacio de la Llave;
 
@@ -155,7 +161,7 @@ Son autoridades en materia de pesca y acuacultura:
 
 I. El Gobernador del Estado;
 
-II. El INVEDERP;
+II. (DEROGADA, G.O. 25 DE JULIO DE 2011)
 
 III. La Secretaría; y
 
@@ -163,9 +169,11 @@ IV. Los Ayuntamientos.
 
 El Ejecutivo Estatal y los Ayuntamientos, en el ámbito de sus competencias y para el ejercicio de sus atribuciones, observarán y aplicarán los principios generales a que se refiere el artículo 17 de la Ley General.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 25 DE JULIO DE 2011)</small>
+
 ###### Artículo 8.
 
-Corresponden al Ejecutivo Estatal, por conducto del INVEDERP, las facultades y atribuciones siguientes:
+Corresponden al Ejecutivo Estatal, por conducto de la Secretaría, las facultades y atribuciones siguientes:
 
 I. Coordinar los trabajos de desarrollo pesquero y acuícola, así como los que se convengan con dependencias gubernamentales, federales, estatales o municipales, y con organismos e instituciones de los sectores social y privado, en congruencia con la política nacional en la materia;
 
@@ -223,7 +231,9 @@ XXVI. Las demás que establezcan la presente Ley y demás ordenamientos aplicabl
 
 Corresponden a los Ayuntamientos, en el ámbito de su competencia las atribuciones siguientes:
 
-I. Participar, de conformidad con los convenios que celebre con el Instituto Veracruzano para el Desarrollo Rural y Pesquero en el ordenamiento y desarrollo de la pesca y acuacultura sustentables del Estado;
+> <small>(REFORMADA, G.O. 25 DE JULIO DE 2011)</small>
+
+I. Participar, de conformidad con los convenios que celebre con la Secretaría en el Ordenamiento y desarrollo de la pesca y acuacultura sustentables del Estado;
 
 II. Diseñar y aplicar la política y los programas municipales para la pesca y la acuacultura, vinculándolos con los programas nacionales, estatales y regionales;
 
@@ -249,13 +259,17 @@ Los Ayuntamientos promoverán la integración de Consejos Municipales de Pesca y
 
 ### CAPÍTULO SEGUNDO. DE LA CONCURRENCIA CON LA FEDERACIÓN Y LOS MUNICIPIOS
 
+> <small>(REFORMADO, G.O. 25 DE JULIO DE 2011)</small>
+
 ###### Artículo 11.
 
-El Ejecutivo Estatal, para la consecución de los fines de esta Ley, así como del Plan Veracruzano de Desarrollo, podrá celebrar convenios o acuerdos con la Federación, los municipios y otras entidades federativas, operando y ejecutando las acciones correspondientes el Instituto Veracruzano para el Desarrollo Rural y Pesquero.
+El Ejecutivo Estatal, para la consecución de los fines de esta Ley, así como del Plan Veracruzano de Desarrollo, podrá celebrar convenios o acuerdos con la Federación, los municipios y otras entidades federativas, operando y ejecutando las acciones correspondientes la Secretaría.
+
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 25 DE JULIO DE 2011)</small>
 
 ###### Artículo 12.
 
-El Ejecutivo Estatal, por conducto del INVEDERP, ejercerá, con la participación de los municipios, en su caso, las funciones que en materia de pesca y acuacultura hayan sido delegadas conforme a los Convenios y Acuerdos de Coordinación que celebre con la Federación con base en la Ley General, asumiendo las siguientes:
+El Ejecutivo Estatal, por conducto de la Secretaría, ejercerá, con la participación de los municipios, en su caso, las funciones que en materia de pesca y acuacultura hayan sido delegadas conforme a los Convenios y Acuerdos de Coordinación que celebre con la Federación con base en la Ley General, asumiendo las siguientes:
 
 I. La administración de los permisos para la realización de pesca deportivo-recreativa;
 
@@ -273,9 +287,11 @@ VI. La inspección y vigilancia del cumplimiento de la Ley General y demás disp
 
 ### CAPÍTULO PRIMERO. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 25 DE JULIO DE 2011)</small>
+
 ###### Artículo 13.
 
-El Ejecutivo Estatal, por conducto del INVEDERP, formulará, en apego a lo dispuesto por el Plan Nacional de Desarrollo y el Plan Veracruzano de Desarrollo:
+El Ejecutivo Estatal, por conducto de la Secretaría, formulará, en apego a lo dispuesto por el Plan Nacional de Desarrollo y el Plan Veracruzano de Desarrollo:
 
 I. Las políticas para el desarrollo integral y sustentable de la pesca y acuacultura estatal;
 
@@ -311,9 +327,11 @@ IX. La transparencia en los procedimientos administrativos relativos al otorgami
 
 X. La participación, consenso y compromiso de los productores y sus comunidades en la corresponsabilidad de aprovechar de forma integral y sustentable los recursos pesqueros y acuícolas.
 
+> <small>(REFORMADO, G.O. 25 DE JULIO DE 2011)</small>
+
 ###### Artículo 15.
 
-El INVEDERP impulsará la capacitación, asesoramiento, aprendizaje y asistencia en materia pesquera y acuícola de los integrantes del sector, a fin de fomentar el desarrollo económico y productivo sustentable en el Estado, para lo cual, podrá celebrar convenios con Instituciones Nacionales e Internacionales así como Asociaciones Civiles y Educativas.
+La Secretaría impulsará la capacitación, asesoramiento, aprendizaje y asistencia en materia pesquera y acuícola de los integrantes del sector, a fin de fomentar el desarrollo económico y productivo sustentable en el Estado, para lo cual, podrá celebrar convenios con Instituciones Nacionales e Internacionales así como Asociaciones Civiles y Educativas.
 
 ### CAPÍTULO SEGUNDO. DEL CONSEJO ESTATAL DE PESCA Y ACUACULTURA
 
@@ -333,11 +351,11 @@ El Consejo Estatal de Pesca y Acuacultura se integrará de la siguiente forma:
 
 I. El C. Gobernador del Estado, quien fungirá como presidente;
 
-II. El Secretario Ejecutivo del Instituto Veracruzano para el Desarrollo Rural y Pesquero, quien fungirá como presidente suplente;
+II. (DEROGADA, G.O. 25 DE JULIO DE 2011)
 
 III. Secretario de Desarrollo Agropecuario, Rural, Forestal y Pesca;
 
-IV. El Jefe de la Oficina del Programa de Gobierno y Consejería Jurídica;
+IV. (DEROGADA, G.O. 25 DE JULIO DE 2011)
 
 V. El Delegado Estatal de la Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación;
 
@@ -355,11 +373,15 @@ XI. Un representante de la Comisión Nacional de Acuacultura y Pesca;
 
 XII. El Presidente de la Comisión Estatal de Sanidad Acuícola y Pesquera;
 
-XIII. Un representante de cada una de las Federaciones de Sociedades Cooperativas de Producción Pesquera, debidamente constituidas y registradas en el Estado, los cuales serán designados por las propias Federaciones;
+> <small>(REFORMADA, G.O. 25 DE JULIO DE 2011)</small>
+
+XIII. Tres representantes de cada una de las Federaciones de Sociedades Cooperativas de Producción Pesquera, debidamente constituidas y registradas en el Estado, uno por cada Región Norte, Centro y Sur, el cual designarán anualmente las propias Federaciones, sin que recaiga la designación en la misma Federación en dos ocasiones seguidas;
 
 XIV. Un representante de cada uno de los Comités Sistema Producto Acuícola o Pesquero constituidos y registrados en el Estado, a invitación expresa del Presidente del Consejo;
 
-XV. Diez Presidentes Municipales representativos de los municipios con actividades pesqueras o acuícolas, a invitación expresa del Presidente del Consejo;
+> <small>(REFORMADA, G.O. 25 DE JULIO DE 2011)</small>
+
+XV. Tres Presidentes Municipales representativos de los municipios con actividades pesqueras o acuícolas, a invitación expresa del Presidente del Consejo;
 
 XVI. Un representante de la Universidad Veracruzana; y
 
@@ -369,7 +391,9 @@ El Presidente del Consejo, podrá invitar a formar parte del mismo o a participa
 
 Cada miembro propietario designará un suplente, quien en su ausencia asistirá a las sesiones con todas las facultades y derechos que a aquél correspondan.
 
-El Presidente del Consejo designará un Secretario Técnico, de entre el personal del INVEDERP, quien deberá tener conocimiento en materia pesquera y acuícola.
+> <small>(REFORMADO, G.O. 25 DE JULIO DE 2011)</small>
+
+El Director General de Pesca y Acuacultura fungirá como Secretario Técnico del Consejo.
 
 Los cargos de los miembros propietarios y suplentes del Consejo, serán a título honorífico.
 
@@ -385,13 +409,17 @@ Para su funcionamiento y operación, el Consejo Estatal de Pesca y Acuacultura, 
 
 ### CAPÍTULO ÚNICO
 
+> <small>(REFORMADO, G.O. 25 DE JULIO DE 2011)</small>
+
 ###### Artículo 20.
 
-El Ejecutivo Estatal, por conducto del INVEDERP, fomentará la investigación pesquera y acuícola en la Entidad Veracruzana, a través de programas orientados a la conservación y explotación de los recursos acuíferos del Estado.
+El Ejecutivo Estatal, por conducto de la Secretaría, fomentará la investigación pesquera y acuícola en la Entidad Veracruzana, a través de programas orientados a la conservación y explotación de los recursos acuíferos del Estado.
+
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 25 DE JULIO DE 2011)</small>
 
 ###### Artículo 21.
 
-Para los efectos del artículo anterior, el INVEDERP, deberá:
+Para los efectos del artículo anterior, la Secretaría deberá:
 
 I. Establecer los objetivos a los cuales se sujetarán las investigaciones que en materia de pesca y acuacultura se desarrollarán en el Estado;
 
@@ -409,19 +437,23 @@ VII. Fomentar la investigación tendiente a determinar las condiciones en que de
 
 VIII. Las demás que se deriven de las normas federales y Convenios que el Ejecutivo Estatal celebre con la Federación y municipios.
 
+> <small>(REFORMADO, G.O. 25 DE JULIO DE 2011)</small>
+
 ###### Artículo 22.
 
-De las investigaciones que se realicen como resultado de la aplicación de esta Ley, se deberá rendir un informe final al INVEDERP, el cual servirá de base para la adopción de medidas para la integración de los programas de desarrollo pesquero y acuícola sustentable en el Estado.
+De las investigaciones que se realicen como resultado de la aplicación de esta Ley, se deberá rendir un informe final a la Secretaría, el cual servirá de base para la adopción de medidas para la integración de los programas de desarrollo pesquero y acuícola sustentable en el Estado.
 
 ## TÍTULO QUINTO. DE LA LEGAL PROCEDENCIA
 
 ### CAPÍTULO ÚNICO
 
+> <small>(REFORMADO, G.O. 25 DE JULIO DE 2011)</small>
+
 ###### Artículo 23.
 
-La legal procedencia de los productos, subproductos, derivados o especies acuícolas y pesqueras, se acreditará en la entidad veracruzana al amparo de los avisos de siembra, cosecha, producción y recolección que emita el INVEDERP y la SAGARPA, en los términos y requisitos establecidos en los convenios respectivos.
+La legal procedencia de los productos, subproductos, derivados o especies acuícolas y pesqueras, se acreditarán en la entidad veracruzana al amparo de los avisos de siembra, cosecha, producción y recolección que emitan la Secretaría y la SAGARPA, con los términos y requisitos establecidos en los convenios respectivos.
 
-Corresponde al INVEDERP coadyuvar con las autoridades federales en las disposiciones de acreditación de la legal propiedad, regulados conforme a la Ley General.
+Corresponde a la Secretaría coadyuvar con las autoridades federales en las disposiciones de acreditación de la legal propiedad, regulados conforme a la Ley General.
 
 ###### Artículo 24.
 
@@ -431,9 +463,11 @@ El traslado, por vía terrestre, marítima o aérea, dentro de la entidad veracr
 
 Los trámites, requisitos y vigencia de los documentos que acrediten la legal procedencia de los productos, subproductos, derivados y especies acuícolas y pesqueras en la Entidad Veracruzana, se establecerá en el reglamento de la presente Ley.
 
+> <small>(REFORMADO, G.O. 25 DE JULIO DE 2011)</small>
+
 ###### Artículo 26.
 
-Toda persona está obligada a denunciar ante las autoridades competentes, cualquier irregularidad, acto u omisión que pudiera ser constitutivo de un delito, observado en el desarrollo de las actividades pesqueras y acuícolas. El INVEDERP deberá establecer mecanismos para la recepción y trámite oportuno de las mismas.
+Toda persona está obligada a denunciar ante las autoridades competentes, cualquier irregularidad, acto u omisión que pudiera ser constitutivo de un delito, observado en el desarrollo de las actividades pesqueras y acuícolas. La Secretaría deberá establecer mecanismos para la recepción y trámite oportuno de las denuncias.
 
 ## TÍTULO SEXTO. DE LA ACUACULTURA
 
@@ -443,9 +477,11 @@ Toda persona está obligada a denunciar ante las autoridades competentes, cualqu
 
 De conformidad con lo dispuesto por esta Ley, la Ley General y los convenios de coordinación respectivos, se establecerán las bases para el desarrollo sustentable de las actividades acuícolas estatales, tendientes a lograr el desarrollo económico y productivo de la Entidad veracruzana.
 
+> <small>(REFORMADO, G.O. 25 DE JULIO DE 2011)</small>
+
 ###### Artículo 28.
 
-El Ejecutivo Estatal, por conducto del INVEDERP, formulará el Programa Estatal de Desarrollo Acuícola, en apego a lo dispuesto por el Plan Nacional de Desarrollo y el Plan Veracruzano de Desarrollo, para el desarrollo sustentable de la acuacultura comercial, didáctica y de fomento o de investigación en el Estado.
+El Ejecutivo Estatal, por conducto de la Secretaría, formulará el Programa Estatal de Desarrollo Acuícola, en apego a lo dispuesto por el Plan Nacional de Desarrollo y el Plan Veracruzano de Desarrollo, para el desarrollo sustentable de la acuacultura comercial, didáctica y de fomento o de investigación en el Estado.
 
 ###### Artículo 29.
 
@@ -469,9 +505,11 @@ VIII. Los criterios para la coordinación y concertación con los municipios del
 
 ### CAPÍTULO SEGUNDO. DE LA ADMINISTRACIÓN DE LA ACUACULTURA
 
+> <small>(REFORMADO, G.O. 25 DE JULIO DE 2011)</small>
+
 ###### Artículo 30.
 
-El Ejecutivo Estatal implementará a través del INVEDERP, los programas de ordenamiento acuícola, tendientes a propiciar el desarrollo de la producción acuícola estatal comercial, didáctica y de fomento o de investigación, en cualquiera de sus tres modalidades: peces, crustáceos y moluscos.
+El Ejecutivo Estatal implementará a través de la Secretaría, los programas de ordenamiento acuícola, tendientes a propiciar el desarrollo de la producción acuícola estatal comercial, didáctica y de fomento o de investigación, en cualquiera de sus tres modalidades: peces, crustáceos y moluscos.
 
 ###### Artículo 31.
 
@@ -491,9 +529,11 @@ VI. Los lineamientos en sanidad y calidad acuícola a los que se sujetarán los 
 
 VII. La definición de los componentes biológicos, biotecnológicos, ambientales y socioeconómicos que intervengan en el desarrollo sustentable de la actividad acuícola veracruzana.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 25 DE JULIO DE 2011)</small>
+
 ###### Artículo 32.
 
-Los productores acuícolas podrán constituir unidades de manejo acuícolas, las cuales tendrán como objetivo el acceder a apoyos productivos otorgados por la Federación y el Estado, debiendo dirigir la solicitud correspondiente al INVEDERP, la cual deberá contener:
+Los productores acuícolas podrán constituir unidades de manejo acuícolas, las cuales tendrán como objetivo el acceder a apoyos productivos otorgados por la Federación y el Estado, debiendo dirigir la solicitud correspondiente a la Secretaría, la cual deberá contener:
 
 I. Estudio técnico que especifique la capacidad de carga conjunta de las granjas que pretenden integrarse en una unidad de manejo acuícola;
 
@@ -517,9 +557,11 @@ g) El sistema de aseguramiento para que el punto de descarga de aguas de la unid
 
 ### CAPÍTULO TERCERO. DE LOS PERMISOS
 
+> <small>(REFORMADO, G.O. 25 DE JULIO DE 2011)</small>
+
 ###### Artículo 33.
 
-Para el desarrollo de actividades acuícolas didácticas, comerciales o de fomento, en aguas continentales, será necesario contar con el permiso de siembra, cosecha u operación, según corresponda, los cuales serán otorgados, por el INVEDERP, previa solicitud. Los permisos serán intransferibles.
+Para el desarrollo de actividades acuícolas didácticas, comerciales o de fomento, en aguas continentales, será necesario contar con el permiso de siembra, cosecha u operación, según corresponda, los cuales serán otorgados, por la Secretaría, previa solicitud. Los permisos serán intransferibles.
 
 ###### Artículo 34.
 
@@ -593,29 +635,41 @@ V. El documento que acredite su inscripción en el Registro Estatal de Pesca y A
 
 VI. Los demás que establezca la Ley General y su Reglamento, el Reglamento de esta ley, así como los demás ordenamientos estatales en la materia.
 
+> <small>(REFORMADO, G.O. 25 DE JULIO DE 2011)</small>
+
 ###### Artículo 36.
 
-El Ejecutivo Estatal por conducto del INVEDERP podrá, previo a la autorización del permiso de actividades acuícolas y cuando lo estime necesario, realizar inspecciones físicas a los lugares en donde se realizarán los proyectos, a efecto de analizar la viabilidad de los mismos.
+El Ejecutivo Estatal por conducto de la Secretaría podrá, previamente a la autorización del permiso de actividades acuícolas y cuando lo estime necesario, realizar inspecciones físicas a los lugares en donde se realizarán los proyectos, a efecto de analizar la viabilidad de los mismos.
+
+> <small>(REFORMADO, G.O. 25 DE JULIO DE 2011)</small>
 
 ###### Artículo 37.
 
-Los productos obtenidos de las actividades acuícolas, didácticas o de fomento, podrán ser comercializados previo permiso expedido por el INVEDERP, siempre que, la persona a la que le fue concedido el mismo se hubiere comprometido formalmente a aplicar, del producto obtenido de la venta, al menos un 50% en apoyo a labores didácticas y de fomento acuícolas.
+Los productos obtenidos de las actividades acuícolas, didácticas o de fomento, podrán ser comercializados previo permiso expedido por la Secretaría, siempre que la persona a la que le fue concedido el mismo se hubiere comprometido formalmente a aplicar, del producto obtenido de la venta, al menos un 50% en apoyo a labores didácticas y de fomento acuícolas.
+
+> <small>(REFORMADO, G.O. 25 DE JULIO DE 2011)</small>
 
 ###### Artículo 38.
 
-Los permisos otorgados por el INVEDERP, deberán ser renovados cada dos años, debiendo comprobar el permisionario que las instalaciones en donde se lleva a cabo la actividad acuícola se encuentran, por lo menos, en las mismas condiciones o que fueron mejoradas.
+Los permisos otorgados por la Secretaría deberán ser renovados cada dos años, debiendo comprobar el permisionario que las instalaciones en donde se lleva a cabo la actividad acuícola se encuentran, por lo menos, en las mismas condiciones o que fueron mejoradas.
+
+> <small>(REFORMADO, G.O. 25 DE JULIO DE 2011)</small>
 
 ###### Artículo 39.
 
-El INVEDERP, una vez presentada la solicitud debidamente requisitada, para el otorgamiento de los permisos a que se refiere este Capítulo, resolverá lo conducente en un término de treinta días hábiles, pudiendo ampliar este plazo hasta por treinta días hábiles más, en caso de considerarlo procedente.
+La Secretaría, una vez presentada la solicitud debidamente requisitada, para el otorgamiento de los permisos a que se refiere este Capítulo, resolverá lo conducente en un término de treinta días hábiles, pudiendo ampliar este plazo hasta por treinta días hábiles más, en caso de considerarlo procedente.
 
 ### CAPÍTULO CUARTO. DE LA REVOCACIÓN DE LOS PERMISOS
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 25 DE JULIO DE 2011)</small>
+
 ###### Artículo 40.
 
-El INVEDERP, podrá en cualquier momento, de oficio, o a petición de parte, revocar los permisos de proyectos acuícolas que otorgue cuando se actualicen los siguientes supuestos:
+La Secretaría podrá en cualquier momento, de oficio, o a petición de parte, revocar los permisos de proyectos acuícolas que otorgue cuando se actualicen los siguientes supuestos:
 
-I. Se modifiquen directa o indirectamente las condiciones en que fueron emitidos los permisos por el INVEDERP;
+> <small>(REFORMADA, G.O. 25 DE JULIO DE 2011)</small>
+
+I. Se modifiquen directa o indirectamente las condiciones en que fueron emitidos los permisos por la Secretaría;
 
 II. Se incumplan las medidas sanitarias que fueron señaladas en el proyecto; y
 
@@ -629,11 +683,15 @@ I. Se notificará al titular del permiso el inicio del procedimiento de revocaci
 
 II. El titular del permiso tendrá un plazo de 10 días hábiles contados a partir del día siguiente a aquél en que surta efectos la notificación señalada en la fracción que antecede, para manifestar lo que a su derecho convenga y aporte las pruebas necesarias para sustentar su dicho;
 
-III. Vencido el término otorgado al titular del permiso, por la fracción anterior, el INVEDERP emitirá la resolución correspondiente, debidamente fundada y motivada, dentro de un plazo de 30 días hábiles;
+> <small>(REFORMADA, G.O. 25 DE JULIO DE 2011)</small>
+
+III. Vencido el término otorgado al titular del permiso por la fracción anterior, la Secretaría emitirá la resolución correspondiente, debidamente fundada y motivada, dentro de un plazo de 30 días hábiles;
 
 IV. En caso de que en la resolución emitida determine la revocación del permiso concedido, deberá establecerse el destino que deberá dársele a las especies materia del proyecto o de los productos que se deriven de él, así como el plazo para el cumplimiento de la misma; y
 
-V. Si vencido el plazo otorgado para el cumplimiento de la resolución, la misma no ha sido acatada, el INVEDERP podrá actuar de oficio.
+> <small>(REFORMADA, G.O. 25 DE JULIO DE 2011)</small>
+
+V. Si vencido el plazo otorgado para el cumplimiento de la resolución, la misma no ha sido acatada, la Secretaría podrá actuar de oficio contra la resolución emitida al procedimiento de revocación del permiso, procederá el recurso de revisión ante la propia Secretaría.
 
 Contra la resolución emitida al procedimiento de revocación del permiso, procederá el recurso de revisión ante el propio INVEDERP.
 
@@ -645,17 +703,23 @@ Los titulares de los permisos que sean revocados, no podrán solicitar permisos 
 
 ### CAPÍTULO PRIMERO. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, G.O. 25 DE JULIO DE 2011)</small>
+
 ###### Artículo 43.
 
-El Ejecutivo Estatal, a través del INVEDERP, establecerá las bases y objetivos para el desarrollo pesquero sustentable del Estado, tendientes a lograr el desarrollo económico de las regiones y productivo de la entidad, de conformidad con lo que dispongan esta Ley y demás ordenamientos estatales y federales de la materia.
+El Ejecutivo Estatal, a través de la Secretaría, establecerá las bases y objetivos para el desarrollo pesquero sustentable del Estado, tendientes a lograr el desarrollo económico de las regiones y productivo de la entidad, de conformidad con lo que dispongan esta Ley y demás ordenamientos estatales y federales de la materia.
+
+> <small>(REFORMADO, G.O. 25 DE JULIO DE 2011)</small>
 
 ###### Artículo 44.
 
-En los cuerpos de agua dulce que conforme a lo dispuesto en el párrafo quinto del artículo 27 de la Constitución Política de los Estados Unidos Mexicanos que corresponden a la Entidad Veracruzana, se podrán realizar actividades pesqueras de comercio, fomento, artesanal, didáctica o de investigación, previo permiso concedido al efecto por el INVEDERP, sin perjuicio de lo que establezca otra Ley Federal o Estatal de la materia.
+En los cuerpos de agua dulce que conforme a lo dispuesto en el párrafo quinto del artículo 27 de la Constitución Política de los Estados Unidos Mexicanos corresponden a la Entidad Veracruzana, se podrán realizar actividades pesqueras de comercio, fomento, artesanal, didáctica o de investigación, previo permiso concedido al efecto por la Secretaría, sin perjuicio de lo que establezca otra Ley Federal o Estatal de la materia.
+
+> <small>(REFORMADO, G.O. 25 DE JULIO DE 2011)</small>
 
 ###### Artículo 45.
 
-El Ejecutivo Estatal, por conducto del INVEDERP, formulará el Plan Estatal de Desarrollo Pesquero y los Programas de Ordenamiento de la materia Pesquera, en apego a lo dispuesto por el Plan Nacional de Desarrollo y el Plan Veracruzano de Desarrollo, tendientes a regular la pesca estatal en cualquiera de sus etapas correspondientes: captura, extracción, procesamiento, transporte, comercialización o aprovechamiento.
+El Ejecutivo Estatal, por conducto de la Secretaría, formulará el Plan Estatal de Desarrollo Pesquero y los Programas de Ordenamiento de la materia pesquera, en apego a lo dispuesto por el Plan Nacional de Desarrollo y el Plan Veracruzano de Desarrollo, tendientes a regular la pesca estatal en cualquiera de sus etapas correspondientes: captura, extracción, procesamiento, transporte, comercialización o aprovechamiento.
 
 ###### Artículo 46.
 
@@ -683,9 +747,11 @@ VIII. Los criterios a seguir para la celebración de convenios o acuerdos de coo
 
 ### CAPÍTULO SEGUNDO. DE LOS PROGRAMAS DE ORDENAMIENTO PESQUERO
 
+> <small>(REFORMADO, G.O. 25 DE JULIO DE 2011)</small>
+
 ###### Artículo 48.
 
-El Ejecutivo Estatal, por conducto del INVEDERP, desarrollará los programas de ordenamiento pesquero, tendientes a regular la actividad pesquera estatal comercial, de fomento, artesanal, didáctica o de investigación.
+El Ejecutivo Estatal, por conducto de la Secretaría, desarrollará los programas de ordenamiento pesquero; tendientes a regular la actividad pesquera estatal comercial, de fomento, artesanal, didáctica o de investigación.
 
 ###### Artículo 49.
 
@@ -705,19 +771,25 @@ VI. Los lineamientos en materia de sanidad, inocuidad y calidad pesquera a los q
 
 VII. La definición de los componentes biológicos, biotecnológicos, ambientales y socioeconómicos que intervengan en el desarrollo sustentable de la actividad pesquera.
 
+> <small>(REFORMADO, G.O. 25 DE JULIO DE 2011)</small>
+
 ###### Artículo 50.
 
-El Ejecutivo Estatal por conducto del INVEDERP podrá, en el ámbito de su competencia y de conformidad con lo dispuesto por la Ley General, su Reglamento y los acuerdos y convenios de coordinación y colaboración respectivos, establecer viveros, criaderos, reservas de especies acuáticas, así como épocas y zonas de veda.
+El Ejecutivo Estatal por conducto de la Secretaría podrá, en el ámbito de su competencia y de conformidad con lo dispuesto por la Ley General, su Reglamento y los acuerdos y convenios de coordinación y colaboración respectivos, establecer viveros, criaderos, reservas de especies acuáticas, así como épocas y zonas de veda.
 
 ### CAPÍTULO TERCERO. DE LOS PERMISOS
 
+> <small>(REFORMADO, G.O. 25 DE JULIO DE 2011)</small>
+
 ###### Artículo 51.
 
-Toda persona física o moral, que desee realizar actividades pesqueras de comercio, fomento, artesanal, didáctica o de investigación, dentro de la Entidad Veracruzana, deberá solicitar previamente el permiso correspondiente ante el INVEDERP, sin perjuicio de lo dispuesto por otros ordenamientos legales aplicables en la materia.
+Toda persona física o moral, que desee realizar actividades pesqueras de comercio, fomento, artesanal, didáctica o de investigación, dentro de la Entidad Veracruzana, deberá solicitar previamente el permiso correspondiente ante la Secretaría, sin perjuicio de lo dispuesto por otros ordenamientos legales aplicables en la materia.
+
+> <small>(REFORMADO, G.O. 25 DE JULIO DE 2011)</small>
 
 ###### Artículo 52.
 
-Los permisos otorgados por el INVEDERP para el desarrollo de las actividades pesqueras comercial, de fomento, artesanal, didáctica o de investigación, deberán ser renovados por el titular de los mismos cada dos años.
+Los permisos otorgados por la Secretaría para el desarrollo de las actividades pesqueras comercial, de fomento, artesanal, didáctica o de investigación, deberán ser renovados por el titular de los mismos cada dos años.
 
 ###### Artículo 53.
 
@@ -737,25 +809,31 @@ II. El documento que acredite su inscripción en el Registro Estatal de Pesca y 
 
 III. Los demás que establezca la Ley General y su Reglamento, el Reglamento de esta Ley, así como los demás ordenamientos estatales en la materia.
 
+> <small>(REFORMADO, G.O. 25 DE JULIO DE 2011)</small>
+
 ###### Artículo 54.
 
-El INVEDERP, una vez presentada la solicitud debidamente requisitada, para el otorgamiento de los permisos a que se refiere este Capítulo, resolverá lo conducente en un término de treinta días hábiles, pudiendo ampliar este plazo hasta por otros treinta días hábiles, en caso de considerarlo procedente.
+La Secretaría, una vez presentada la solicitud debidamente requisitada, para el otorgamiento de los permisos a que se refiere este Capítulo, resolverá lo conducente en un término de treinta días hábiles, pudiendo ampliar este plazo hasta por otros treinta días hábiles, en caso de considerarlo procedente.
 
 ## TÍTULO OCTAVO. DE LA SANIDAD E INOCUIDAD EN MATERIA PESQUERA Y ACUÍCOLA
 
 ### CAPÍTULO ÚNICO. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, G.O. 25 DE JULIO DE 2011)</small>
+
 ###### Artículo 55.
 
-El INVEDERP, en coordinación con las autoridades federales, participará en el desarrollo de las medidas necesarias para la protección y combate permanente de las enfermedades, teniendo como objetivo la conservación de la salud humana, promoviendo el cumplimiento de las disposiciones legales y las medidas de seguridad y sanidad establecidas
+La Secretaría, en coordinación con las autoridades federales, participará en el desarrollo de las medidas necesarias para la protección y combate permanente de las enfermedades, teniendo como objetivo la conservación de la salud humana, promoviendo el cumplimiento de las disposiciones legales y las medidas de seguridad y sanidad establecidas.
 
 ###### Artículo 56.
 
 Las medidas sanitarias se aplicarán atendiendo a la declaratoria de la autoridad federal competente del status sanitario que corresponda, como zona libre, zona en vigilancia, zona de escasa prevalencia o zona infectada con relación a las especies acuáticas del Estado.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 25 DE JULIO DE 2011)</small>
+
 ###### Artículo 57.
 
-EL INVEDERP, en el ámbito de su competencia, participará en la integración de las Normas Oficiales con relación a:
+La Secretaría, en el ámbito de su competencia, participará en la integración de las Normas Oficiales con relación a:
 
 I. Campañas sanitarias, entendiendo como tales, el conjunto de medidas para prevenir, controlar o erradicar enfermedades en las especies acuáticas vivas, en un área o zona determinada;
 
@@ -767,17 +845,21 @@ IV. La retención y disposición de especies acuáticas vivas, sus productos, su
 
 V. Las que resulten eficaces para la atención de cada caso de enfermedad.
 
+> <small>(REFORMADO, G.O. 25 DE JULIO DE 2011)</small>
+
 ###### Artículo 58.
 
-Cuando en un área o zona determinada se presenten o detecten enfermedades en las especies acuáticas vivas, el INVEDERP dará aviso inmediato al Servicio Nacional de Sanidad, Inocuidad y Calidad Agroalimentaria y sus órganos auxiliares en la Entidad Veracruzana, para su atención, con independencia de las acciones de saneamiento que determine.
+Cuando en un área o zona determinada se presenten o detecten enfermedades en las especies acuáticas vivas, la Secretaría dará aviso inmediato al Servicio Nacional de Sanidad, Inocuidad y Calidad Agroalimentaria y sus órganos auxiliares en la Entidad Veracruzana, para su atención, con independencia de las acciones de saneamiento que determine.
 
 ## TÍTULO NOVENO. DE LA INFORMACIÓN Y REGISTRO ESTATAL DE PESCA Y ACUACULTURA
 
 ### CAPÍTULO PRIMERO. DEL SISTEMA ESTATAL DE INFORMACIÓN PESQUERA Y ACUÍCOLA
 
+> <small>(REFORMADO, G.O. 25 DE JULIO DE 2011)</small>
+
 ###### Artículo 59.
 
-El INVEDERP integrará el Sistema Estatal de Información Pesquera y Acuícola, el cual tendrá por objeto organizar, actualizar y difundir la información sobre las actividades pesqueras y acuícolas que se desarrollan en el Estado.
+La Secretaría integrará el Sistema Estatal de Información Pesquera y Acuícola, el cual tendrá por objeto organizar, actualizar y difundir la información sobre las actividades pesqueras y acuícolas que se desarrollan en el Estado.
 
 ###### Artículo 60.
 
@@ -795,7 +877,9 @@ V. El Anuario Estadístico de Pesca y Acuacultura;
 
 VI. El listado final de los permisos otorgados para realizar actividades pesqueras y acuícolas; y
 
-VII. La demás que considere el INVEDERP, relacionada con el sector pesquero y acuícola.
+> <small>(REFORMADA, G.O. 25 DE JULIO DE 2011)</small>
+
+VII. La demás que considere la Secretaría, relacionadas con el sector pesquero y acuícola.
 
 ###### Artículo 61.
 
@@ -855,29 +939,39 @@ IV. Los permisos expedidos para el desarrollo de la actividad acuícola, que deb
 
 V. Las demás que establezca el Reglamento de esta Ley, así como la Ley General y los Acuerdos y Convenios de Coordinación y Colaboración que se celebren con la Federación y los municipios.
 
-El INVEDERP expedirá el certificado de registro correspondiente.
+> <small>(REFORMADO, G.O. 25 DE JULIO DE 2011)</small>
+
+La Secretaría expedirá el certificado de registro correspondiente.
+
+> <small>(REFORMADO, G.O. 25 DE JULIO DE 2011)</small>
 
 ###### Artículo 67.
 
-El INVEDERP, conjuntamente con la delegación estatal de la SAGARPA, integrarán la Red de Información Pesquera y Acuícola, la cual concentrará la información de las diversas especies a cultivar en el Estado, así como las zonas propicias, los planes de ordenamiento que desarrolle el INVEDERP y la SAGARPA en el Estado, los resultados de los proyectos de investigación que se realicen en la Entidad Veracruzana y las estadísticas de producción e información de precios, oferta y demanda de los productos acuícolas.
+La Secretaría, en coordinación con la delegación estatal de la SAGARPA, integrará la Red de Información Pesquera y Acuícola, la cual concentrará la información de las diversas especies a cultivar en el Estado, así como las zonas propicias, los planes de ordenamiento que desarrollen la Secretaría y la SAGARPA en el Estado, los resultados de los proyectos de investigación que se realicen en la Entidad Veracruzana y las estadísticas de producción e información de precios, oferta y demanda de los productos acuícolas.
 
 ###### Artículo 68.
 
 El funcionamiento y organización del Registro, se establecerán en el Reglamento de esta Ley, los municipios colaborarán en la integración, actualización y funcionamiento del Registro, en los términos que se establezcan en el Reglamento respectivo.
 
-El INVEDERP, semestralmente, remitirá la información del Registro Estatal de Pesca y Acuacultura, a la SAGARPA, para la actualización del Registro Nacional de Pesca y Acuacultura.
+> <small>(REFORMADO, G.O. 25 DE JULIO DE 2011)</small>
+
+La Secretaría, semestralmente, remitirá la información del Registro Estatal de Pesca y Acuacultura a la SAGARPA, para la actualización del Registro Nacional de Pesca y Acuacultura.
 
 ## TÍTULO DÉCIMO. DE LA INSPECCIÓN Y VIGILANCIA
 
 ### CAPÍTULO PRIMERO. DE LAS FACULTADES DE INSPECCIÓN Y VIGILANCIA
 
+> <small>(REFORMADO, G.O. 25 DE JULIO DE 2011)</small>
+
 ###### Artículo 69.
 
-Corresponderá al INVEDERP, la inspección y vigilancia del cumplimiento de la Ley General y demás disposiciones que de ella deriven, en términos de los Acuerdos y Convenios de Coordinación que se establezcan con la Federación.
+Corresponderá a la Secretaría, la inspección y vigilancia del cumplimiento de la Ley General y demás disposiciones que de ella deriven, en términos de los Acuerdos y Convenios de Coordinación que se establezcan con la Federación.
+
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 25 DE JULIO DE 2011)</small>
 
 ###### Artículo 70.
 
-El INVEDERP, por conducto del personal debidamente autorizado que para ello disponga, tendrá las facultades siguientes:
+La Secretaría, por conducto del personal debidamente autorizado que para ello disponga, tendrá las facultades siguientes:
 
 I. Verificar los lugares donde se produzcan, críen, capturen, cultiven, fabriquen, almacenen, congelen, procesen o comercialicen productos, subproductos y derivados o especies pesqueras o acuícolas, o se apliquen, expendan, usen o manejen insumos pesqueros y acuícolas;
 
@@ -885,13 +979,17 @@ II. Inspeccionar los vehículos de transporte, carga, y embalajes en los que se 
 
 III. Asegurar precautoriamente los productos, subproductos o especies pesqueras o acuícolas, así como los bienes o vehículos en los que se almacenen o transporten, cuando se viole lo dispuesto por esta ley.
 
+> <small>(REFORMADO, G.O. 25 DE JULIO DE 2011)</small>
+
 ###### Artículo 71.
 
-El INVEDERP podrá evitar la entrada o salida del Estado de especies, productos y subproductos pesqueros o acuícolas, cuando se verifique que éstos presentan enfermedades que pongan en riesgo la salud de los habitantes de la entidad veracruzana, así como el desarrollo de la actividad pesquera y acuícola estatal.
+La Secretaría podrá evitar la entrada o salida del Estado de especies, productos y subproductos pesqueros o acuícolas, cuando se verifique que éstos presentan enfermedades que pongan en riesgo la salud de los habitantes de la entidad veracruzana, así como el desarrollo de la actividad pesquera y acuícola estatal.
+
+> <small>(REFORMADO, G.O. 25 DE JULIO DE 2011)</small>
 
 ###### Artículo 72.
 
-El INVEDERP podrá realizar visitas de verificación y domiciliarias a través del personal debidamente acreditado, el cual deberá contar con la respectiva orden de visita de verificación u orden de visita domiciliaria, debidamente fundada y motivada, en la que se indique el lugar o zona a inspeccionar, el objeto de la diligencia y el alcance de la misma, así como el nombre, cargo y firma autógrafa de la autoridad que la emite.
+La Secretaría podrá realizar visitas de verificación y domiciliarias a través del personal debidamente acreditado, el cual deberá contar con la respectiva orden de visita de verificación u orden de visita domiciliaria, debidamente fundada y motivada, en la que se indique el lugar o zona a inspeccionar, el objeto de la diligencia y el alcance de la misma, así como el nombre, cargo y firma autógrafa de la autoridad que la emite.
 
 ###### Artículo 73.
 
@@ -921,7 +1019,9 @@ IV. No presentar los avisos de siembra, cosecha o producción;
 
 V. Transportar organismos acuáticos, dentro del territorio veracruzano, sin contar con la guía de tránsito correspondiente;
 
-VI. No proporcionar la información o documentación que solicite el INVEDERP, cuando se disponga de ella, o incurrir en falsedad al proporcionarla;
+> <small>(REFORMADA, G.O. 25 DE JULIO DE 2011)</small>
+
+VI. No proporcionar la información o documentación que solicite la Secretaría, cuando se disponga de ella, o incurrir en falsedad al proporcionarla;
 
 VII. No contar con las constancias de verificación sanitaria correspondientes;
 
@@ -931,9 +1031,11 @@ IX. Las demás que establezca esta Ley, su Reglamento y las Normas Oficiales apl
 
 ### CAPÍTULO TERCERO. DE LAS SANCIONES
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 25 DE JULIO DE 2011)</small>
+
 ###### Artículo 76.
 
-Las infracciones previstas en el Capítulo que antecede, serán sancionadas por el INVEDERP, con una o más de las siguientes:
+Las infracciones previstas en el Capítulo que antecede, serán sancionadas por la Secretaría con una o más de las siguientes:
 
 I. Amonestación y apercibimiento;
 
@@ -945,13 +1047,17 @@ IV. La clausura temporal o definitiva, total o parcial de las instalaciones; y
 
 V. Suspensión o revocación de los permisos correspondientes.
 
+> <small>(REFORMADO, G.O. 25 DE JULIO DE 2011)</small>
+
 ###### Artículo 77.
 
-Tratándose de infracciones cometidas en materia de sanidad e inocuidad de especies acuícolas y calidad de productos pesqueros y acuícolas, el INVEDERP, además de aplicar las sanciones que establece esta ley, deberá dar aviso al SENASICA.
+Tratándose de infracciones cometidas en materia de sanidad e inocuidad de especies acuícolas y calidad de productos pesqueros y acuícolas, la Secretaría, además de aplicar las sanciones que establece esta Ley, deberá dar aviso al SENASICA.
+
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 25 DE JULIO DE 2011)</small>
 
 ###### Artículo 78.
 
-Para la imposición de las sanciones establecidas en esta Ley, el INVEDERP deberá considerar:
+Para la imposición de las sanciones establecidas en esta Ley, la Secretaría deberá considerar:
 
 I. La gravedad de la infracción;
 
@@ -985,9 +1091,11 @@ En caso de reincidencia, se duplicará el monto establecido para cada una de las
 
 El aseguramiento de equipo, vehículos, organismos acuáticos y demás insumos destinados a la pesca y acuacultura, se realizará cuando se actualicen los supuestos establecidos en las fracciones III, V y VII del artículo 75 de esta Ley.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 25 DE JULIO DE 2011)</small>
+
 ###### Artículo 82.
 
-Los equipos, insumos u organismos asegurados, a juicio del INVEDERP, podrán ser destinados a los siguientes fines:
+Los equipos, insumos u organismos asegurados, a juicio de la Secretaría, podrán ser destinados a los siguientes fines:
 
 I. Remate en subasta pública;
 
@@ -999,9 +1107,11 @@ IV. Destrucción de los organismos o insumos asegurados que se encuentren contam
 
 En el caso de que los productos o bienes asegurados sean perecederos, éstos deberán ser donados, vendidos o rematados, antes de que se consideren no aptos para su consumo.
 
+> <small>(REFORMADO, G.O. 25 DE JULIO DE 2011)</small>
+
 ###### Artículo 83.
 
-La clausura total o parcial, provisional o definitiva de instalaciones por parte del INVEDERP, se aplicará cuando se actualicen los supuestos establecidos en la fracción III del artículo 75 de esta Ley.
+La clausura total o parcial, provisional o definitiva de instalaciones por parte de la Secretaría, se aplicará cuando se actualicen los supuestos establecidos en la fracción III del artículo 75 de esta Ley.
 
 ###### Artículo 84.
 
@@ -1009,9 +1119,11 @@ Las sanciones administrativas a que se refiere la presente Ley, se aplicarán si
 
 ### CAPÍTULO CUARTO. DEL RECURSO DE REVISIÓN
 
+> <small>(REFORMADO, G.O. 25 DE JULIO DE 2011)</small>
+
 ###### Artículo 85.
 
-Contra los actos y resoluciones dictadas por infracciones cometidas a la presente ley y demás disposiciones que deriven de ésta, los afectados, dentro de un término de quince días hábiles contados a partir de aquél en que surta efectos la notificación de la misma, podrán interponer Recurso de Revisión ante el INVEDERP.
+Contra los actos y resoluciones dictadas por infracciones cometidas a la presente ley y demás disposiciones que deriven de ésta, los afectados, dentro de un término de quince días hábiles contados a partir de aquel en que surta efectos la notificación de la misma, podrán interponer Recurso de Revisión ante la Secretaría.
 
 ###### Artículo 86.
 
@@ -1042,3 +1154,13 @@ Licenciado Fidel Herrera Beltrán
 Gobernador del Estado
 
 Rúbrica.
+
+G.O. 25 DE JULIO DE 2011.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS DEL PRESENTE ORDENAMIENTO.</small>
+
+Artículo primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en la Gaceta Oficial del Estado de Veracruz de Ignacio de la Llave.
+
+Artículo Segundo. El Reglamento de la Ley de Pesca y Acuacultura Sustentables para el Estado deberá adecuarse dentro de los sesenta días siguientes a la entrada en vigor del presente Decreto.
+
+Artículo Tercero. Se derogan todas las disposiciones que se opongan al presente Decreto.
