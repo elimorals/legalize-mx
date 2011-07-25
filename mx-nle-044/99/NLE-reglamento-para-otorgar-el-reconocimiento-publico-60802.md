@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-para-otorgar-el-reconocimiento-publico-60802"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-04-18"
-last_updated: "2011-06-03"
+last_updated: "2011-07-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=60802&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -24,7 +24,7 @@ state: "NLE"
 
 REGLAMENTO PARA OTORGAR EL RECONOCIMIENTO PUBLICO DENOMINADO MEDALLA AL MERITO CIVICO SABINENSE "DON MANUEL M. GARCIA"
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE JUNIO DE 2011.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE JULIO DE 2011.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el viernes 18 de abril de 2008
 
@@ -36,17 +36,23 @@ EL AYUNTAMIENTO DE SABINAS HIDALGO, NUEVO LEÓN, EN SESIÓN EXTRAORDINARIA CELEB
 
 REGLAMENTO PARA OTORGAR EL RECONOCIMIENTO PÚBLICO DENOMINADO MEDALLA AL MÉRITO CÍVICO SABINENSE "DON MANUEL M. GARCÍA"
 
+> <small>(REFORMADO, P.O. 25 DE JULIO DE 2011)</small>
+
 ###### ARTÍCULO 1.
 
-El presente Reglamento es de interés público y de observancia general para los habitantes del Municipio de Sabinas Hidalgo, Nuevo León; tiene por objeto instituir el reconocimiento público denominado "MEDALLA AL MÉRITO CÍVICO SABINENSE LIC. FRANCISCO DE LA CALANCHA Y VALENZUELA" en los términos que aquí se establecen y con fundamento en el Art. 115 de la Constitución Política de los Estados Unidos Mexicanos, 130 de la Constitución Política del Estado de Nuevo León, 29 Fracción IV, 160, 161, 162 Fracción V y 166 de la Ley Orgánica de la Administración Pública Municipal del Estado de Nuevo León, y demás disposiciones legales aplicables.
+El presente Reglamento es de interés público y de observancia general para los habitantes del Municipio de Sabinas Hidalgo, Nuevo León; tiene por objeto instituir el reconocimiento público denominado "Medalla al Mérito Cívico Sabinense Don Manuel M. García", en los términos que aquí se establecen y con fundamento en el Artículo 115 de la Constitución Política de los Estados Unidos Mexicanos, 130 de la Constitución Política del Estado de Nuevo León, 29 Fracción IV, 160, 161, 162 Fracción V y 166 de la Ley Orgánica de la Administración Pública Municipal del Estado de Nuevo León, y demás disposiciones legales aplicables.
+
+> <small>(REFORMADO, P.O. 25 DE JULIO DE 2011)</small>
 
 ###### ARTÍCULO 2.
 
-La institucionalización de la "MEDALLA AL MÉRITO CÍVICO SABINENSE LIC. FRANCISCO DE LA CALANCHA Y VALENZUELA" en el Municipio, tiene por objeto estimular, valorar y reconocer la trayectoria de los habitantes e instituciones sabinenses, que en sus actividades, participan de manera notable en el desarrollo educativo, social y humanista de la Ciudad.
+Las (sic) institucionalización de la "Medalla al Mérito Cívico Sabinense Don Manuel M. García" en el Municipio, tiene por objeto estimular, valorar y reconocer la trayectoria de los habitantes e instituciones Sabinenses, que en sus actividades, participa de manera notable en el desarrollo educativo, social y humanista de la Ciudad.
+
+> <small>(REFORMADO, P.O. 25 DE JULIO DE 2011)</small>
 
 ###### ARTÍCULO 3.
 
-El reconocimiento, objeto de este reglamento, es la máxima distinción que el Republicano Ayuntamiento del Municipio de Sabinas Hidalgo, Nuevo León, otorgará en vida a los sabinenses mediante la presea denominada "MEDALLA AL MÉRITO CÍVICO SABINENSE LIC. FRANCISCO DE LA CALANCHA Y VALENZUELA".
+El reconocimiento, objeto de este Reglamento, es la máxima distinción que el Republicano Ayuntamiento del Municipio de Sabinas Hidalgo, Nuevo León, otorgará en vida a los Sabinenses mediante la presea denominada "Medalla al Mérito Cívico Sabinense Don Manuel M. García".
 
 ###### ARTÍCULO 4.
 
@@ -66,15 +72,17 @@ B) Mérito al Desarrollo Social
 
 C) Mérito Deportivo
 
+> <small>(REFORMADO, P.O. 25 DE JULIO DE 2011)</small>
+
 ###### ARTÍCULO 7.
 
-Para el otorgamiento de la "MEDALLA AL MÉRITO CÍVICO SABINENSE LIC. FRANCISCO DE LA CALANCHA Y VALENZUELA" es función del Consejo Consultivo analizar las propuestas ciudadanas y proponer al Republicano Ayuntamiento para su aprobación, los posibles candidatos al reconocimiento de dicho consejo, el cual estará integrado por personas de probada honorabilidad y de los distintos ámbitos indicados en el artículo anterior:
+Para el otorgamiento de la "Medalla al Mérito Cívico Sabinense Don Manuel M. García", es función del Consejo Consultivo analizar las propuestas y proponer al Republicano Ayuntamiento para su aprobación, los posibles candidatos al reconocimiento de dicho consejo, el cual estará integrado por personas de probada honorabilidad y de los distintos ámbitos indicados en el artículo anterior:
 
-A) Historiador de la cuidad
+A) Historiador
 
 B) Representante del Ayuntamiento de la Comisión de Educación y Cultura
 
-C) Representante del Consejo Histórico de la Cuidad
+C) Representante del Consejo Histórico de la Ciudad
 
 D) Representante del Sector Educativo
 
@@ -100,11 +108,15 @@ En el caso que no hayan sido ratificados o nombrados los nuevos integrantes del 
 
 Corresponde al Consejo Consultivo, el ejercicio de las siguientes funciones:
 
-I. Convocar a la ciudadanía en general para que presente ante la Secretaría del Ayuntamiento, las propuestas para la obtención de la "MEDALLA AL MERITO CÍVICO SABINENSE LIC. FRANCISCO DE LA CALANCHA Y VALENZUELA". La convocatoria se expedirá hacia la comunidad para la recepción de propuestas al Republicano Ayuntamiento del día 30 de mayo al 20 de junio de cada año.
+> <small>(REFORMADA, P.O. 25 DE JULIO DE 2011)</small>
+
+I. Convocar a la ciudadanía en general para que presente ante la Secretaría del Ayuntamiento, las propuestas para la obtención de la "Medalla al Mérito Cívico Sabinense Don Manuel M. García". La convocatoria se expedirá hacia la comunidad para la recepción de propuestas al Republicano Ayuntamiento del día 30 de mayo al 20 de junio de cada año.
 
 II. Registrar las propuestas y aprobar el calendario de actividades a desarrollar.
 
-III. Determinar las características de la "MEDALLA AL MERITO CÍVICO SABINENSE LIC. FRANCISCO DE LA CALANCHA Y VALENZUELA".
+> <small>(REFORMADA, P.O. 25 DE JULIO DE 2011)</small>
+
+III. Determinar las características de la "Medalla al Mérito Cívico Sabinense Don Manuel M. García".
 
 IV. Dictaminar la procedencia o improcedencia del reconocimiento o distinción.
 
@@ -149,3 +161,9 @@ P.O. 3 DE JUNIO DE 2011.
 ###### ARTICULO PRIMERO
 
 La Reforma de este Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
+
+P.O. 25 DE JULIO DE 2011.
+
+###### ARTICULO PRIMERO
+
+La Reforma de los artículos No. 1, 2, 3, 7 y 11 en las fracciones I y III de este Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
