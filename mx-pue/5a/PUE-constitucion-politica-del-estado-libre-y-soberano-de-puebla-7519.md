@@ -4,7 +4,7 @@ identifier: "PUE-constitucion-politica-del-estado-libre-y-soberano-de-puebla-751
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-10-02"
-last_updated: "2011-03-16"
+last_updated: "2011-07-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7519&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE MARZO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE JULIO DE 2011.
 
 Constitución publicada en el Periódico Oficial del Estado de Puebla, el martes 2 de octubre de 1917.
 
@@ -191,15 +191,27 @@ El territorio del Estado es el que de hecho y de derecho le corresponde, en los 
 
 La Heroica Ciudad de Puebla de Zaragoza será la Capital del Estado; los Poderes del Estado residirán en ella o en los municipios conurbados de la misma, no obstante el Ejecutivo podrá, con autorización del Congreso o de la Comisión Permanente, en su caso, cambiar a otro lugar esa residencia.
 
-> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 1982)</small>
+> <small>(REFORMADA SU DENOMINACION, P.O. 25 DE JULIO DE 2011)</small>
 
-### CAPITULO III. DE LOS HABITANTES DEL ESTADO Y DE LAS GARANTÍAS SOCIALES
+### CAPITULO III. DE LOS DERECHOS HUMANOS Y SUS GARANTÍAS
 
 > <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 1982)</small>
 
 ###### Artículo 7º.
 
 Son habitantes del Estado las personas físicas que residan o estén domiciliadas en su territorio y las que sean transeúntes, por hallarse en éste de manera transitoria.
+
+> <small>(ADICIONADO, P.O. 25 DE JULIO DE 2011)</small>
+
+En el Estado de Puebla todas las personas gozarán de los derechos humanos reconocidos en esta Constitución, en la Constitución Política de los Estados Unidos Mexicanos y en los tratados internacionales sobre derechos humanos de los que los Estados Unidos Mexicanos sea parte, así como de las garantías para su protección.
+
+> <small>(ADICIONADO, P.O. 25 DE JULIO DE 2011)</small>
+
+Las normas relativas a los derechos humanos se interpretarán de conformidad con esta Constitución, la Constitución Política de los Estados Unidos Mexicanos y con los tratados internacionales sobre derechos humanos señalados anteriormente.
+
+> <small>(ADICIONADO, P.O. 25 DE JULIO DE 2011)</small>
+
+Todas las autoridades, en el ámbito de sus competencias, tienen la obligación de promover, respetar, proteger y garantizar los derechos humanos de conformidad con los principios de universalidad, interdependencia, indivisibilidad y progresividad. En consecuencia, el Gobierno del Estado de Puebla deberá prevenir, investigar, sancionar y reparar las violaciones a los derechos humanos, en los términos que establezca la Ley.
 
 > <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 1982)</small>
 
@@ -219,11 +231,13 @@ Nadie podrá sustraerse de propia autoridad a la observancia de los preceptos le
 
 Los casos de exención de sanciones, en favor de quienes ignoren las leyes, se establecerán por éstas, únicamente cuando sean de orden privado y se trate de individuos que notoriamente carezcan de instrucción y sean de escasas posibilidades económicas.
 
-> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 25 DE JULIO DE 2011)</small>
 
 ###### Artículo 11.
 
-Las mujeres y los hombres son iguales ante la Ley. Las leyes poblanas no harán ninguna distinción entre las personas, por razón de su raza, origen étnico o nacional, género, edad, discapacidades, condición social o económica, condiciones de salud, preferencias, filiación, instrucción, creencia religiosa o ideología política.
+Las mujeres y los hombres son iguales ante la Ley. En el Estado de Puebla se reconoce el valor de la igualdad radicado en el respeto a las diferencias y a la libertad.
+
+Queda prohibida toda acción tendiente al menoscabo de los derechos humanos, en razón de discriminación por raza, origen étnico o nacional, género, edad, discapacidad, condición social o económica, condiciones de salud, preferencias, filiación, instrucción y nivel cultural, apariencia física, estado civil, creencia religiosa, ideología política, opiniones expresadas o cualquier otra que atente contra la dignidad, la libertad o la igualdad.
 
 > <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 1982)</small>
 
@@ -245,15 +259,17 @@ IV.- La protección de las víctimas de los delitos y de quienes carezcan de ins
 
 V.- La atención de la salud de los habitantes del Estado, la promoción de una vida adecuada que asegure el bienestar de las personas y la satisfacción de las necesidades de instrucción y alimentación de las niñas y los niños;
 
-> <small>(REFORMADA, P.O. 5 DE MARZO DE 2004)</small>
+VI.- (DEROGADA, P.O. 25 DE JULIO DE 2011)
 
-VI.- La creación del organismo de protección, respeto y defensa de los derechos humanos, el que conocerá de quejas en contra de actos u omisiones administrativos que emanen de autoridades o servidores públicos que violen los mismos, a excepción de los del Poder Judicial del Estado; podrá formular recomendaciones públicas autónomas, de ninguna manera obligatorias para las autoridades o servidores involucrados y asimismo, denuncias y quejas ante las autoridades respectivas. Este Organismo carecerá de competencia para conocer de asuntos electorales, laborales y jurisdiccionales; y (sic)
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE JULIO DE 2011)</small>
 
-> <small>(REFORMADA, P.O. 8 DE OCTUBRE DE 2010)</small>
+VII.- Garantizar el acceso a la información pública gubernamental y la protección de los datos personales, el derecho a la vida privada, la intimidad y la propia imagen, en los términos y con las excepciones que establezca la Constitución Política de los Estados Unidos Mexicanos y la Ley aplicable a la materia.
 
-VII.- Garantizar el derecho de acceso a la información pública y protección de datos personales, de acuerdo a los principios y bases que establece la Constitución Política de los Estados Unidos Mexicanos.
+> <small>(REFORMADO, P.O. 8 DE OCTUBRE DE 2010)</small>
 
 Para efectos de lo establecido en el párrafo anterior, la Comisión para el Acceso a la Información Pública y Protección de Datos Personales del Estado, será el organismo público autónomo, independiente y de carácter permanente, con personalidad jurídica y patrimonio propios, responsable de promover, difundir y garantizar en el Estado y sus Municipios, el acceso a la información pública y la protección a los datos personales en los términos que establezca la legislación de la materia y demás disposiciones que de ella emanen.
+
+> <small>(REFORMADO, P.O. 8 DE OCTUBRE DE 2010)</small>
 
 La Comisión, se integrará y funcionará en los términos que establezca la Ley de la materia;
 
@@ -971,9 +987,7 @@ En la determinación de las remuneraciones a que se refiere este artículo, los 
 
 > <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 1982)</small>
 
-### CAPITULO IV
-
-DE LA COMISION PERMANENTE.
+### CAPITULO IV. DE LA COMISION PERMANENTE
 
 > <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1995)</small>
 
@@ -1399,23 +1413,21 @@ El Tribunal Superior de Justicia estará integrado por el número de Magistrados
 
 Los Magistrados del Tribunal Superior de Justicia serán inamovibles y sólo podrán ser privados de sus cargos por la Legislatura del Estado, a petición del Ejecutivo, por faltas u omisiones graves en el desempeño de sus funciones; porque observen mala conducta o estén incapacitados física o mentalmente.
 
-> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 1982)</small>
+> <small>(REFORMADO, P.O. 25 DE JULIO DE 2011)</small>
 
 ###### Artículo 89.
 
-Para ser Magistrado del Tribunal Superior de Justicia, se requiere:
+Para ser Magistrado del Tribunal Superior de Justicia del Estado, se requiere:
 
-> <small>(REFORMADA, P.O. 26 DE ENERO DE 2011)</small>
+I.- Ser ciudadano mexicano por nacimiento, en pleno goce de sus derechos políticos y civiles;
 
-I.- Ser ciudadano mexicano, en pleno goce de sus derechos políticos y civiles.
+II.- Tener cuando menos treinta y cinco años cumplidos el día de la designación;
 
-> <small>(REFORMADA, P.O. 26 DE ENERO DE 2011)</small>
+III.- Poseer el día de la designación, con antigüedad mínima de diez años, título profesional de licenciado en derecho, expedido por autoridad o institución legalmente facultada para ello;
 
-II.- Tener treinta y cinco años cumplidos.
+IV.- Gozar de buena reputación y no haber sido condenado por delito que amerite pena corporal de más de un año de prisión; pero si se tratare de robo, fraude, falsificación, abuso de confianza y otro que lastime seriamente la buena fama en el concepto público, inhabilitará para el cargo, cualquiera que haya sido la pena; y
 
-III.- Ser profesional del derecho con título legalmente expedido, con antigüedad mínima de cinco años.
-
-IV.- No haber sido condenado por delito intencional.
+V.- Haber residido en el país durante los dos años anteriores al día de la designación.
 
 > <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 1982)</small>
 
@@ -1463,7 +1475,9 @@ Cada tres años, al renovarse el Poder Legislativo, el Presidente del Tribunal S
 
 > <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 1982)</small>
 
-## TITULO SEXTO. DEL MINISTERIO PUBLICO
+## TITULO SEXTO.
+
+Del Ministerio Público.
 
 > <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 1982)</small>
 
@@ -1499,11 +1513,23 @@ Los funcionarios a que se refiere el artículo anterior serán nombrados y remov
 
 El Procurador es el representante jurídico del Estado. El Gobernador podrá otorgar esa representación a alguno de los secretarios que lo auxilien para casos singulares.
 
-> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 1982)</small>
+> <small>(REFORMADO, P.O. 25 DE JULIO DE 2011)</small>
 
 ###### Artículo 99.
 
-El Procurador General de Justicia deberá reunir los mismos requisitos que para ser Magistrado y los demás funcionarios del Ministerio Público los requisitos que fije la Ley.
+Para ser Procurador General de Justicia, se requiere:
+
+I.- Ser ciudadano mexicano por nacimiento, en pleno goce de sus derechos políticos y civiles;
+
+II.- Tener cuando menos treinta y cinco años cumplidos el día de su designación;
+
+III.- Ser profesional del derecho con título legalmente expedido, con antigüedad mínima de siete años;
+
+IV.- Gozar de buena reputación; y
+
+V.- No haber sido condenado por delito doloso.
+
+La Ley fijará los requisitos que deben reunir los demás funcionarios de la Institución del Ministerio Público.
 
 > <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 1982)</small>
 
@@ -2189,25 +2215,45 @@ La presente Constitución puede ser adicionada o reformada. Para que las adicion
 
 Si transcurre un mes, a partir de la fecha en que se hubiere enviado el Proyecto de adiciones o reformas a los Ayuntamientos y éstos no contestaren, se entenderá que lo aprueban.
 
-> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 1982)</small>
+> <small>(REFORMADA SU DENOMINACION, P.O. 25 DE JULIO DE 2011)</small>
 
-## TITULO DECIMO. DE LA INVIOLABILIDAD DE LA CONSTITUCION
+## TÍTULO DÉCIMO. DE LA COMISIÓN DE DERECHOS HUMANOS DEL ESTADO DE PUEBLA
 
 > <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 1982)</small>
 
 ### CAPITULO UNICO
 
-> <small>(ADICIONADO, P.O. 17 DE NOVIEMBRE DE 1982)</small>
+> <small>(REFORMADO, P.O. 25 DE JULIO DE 2011)</small>
 
 ###### Artículo 142.
 
-Esta Constitución no perderá su fuerza y vigor aun cuando por cualquier motivo se interrumpa su observancia.
+La Comisión de Derechos Humanos del Estado de Puebla, es un organismo público autónomo, con personalidad jurídica y patrimonio propios. Estará dotado de autonomía operativa, de gestión, decisión y presupuestaria; conocerá de quejas presentadas por presuntas violaciones a los derechos humanos, por acción u omisión, cometidas por parte de autoridades locales de naturaleza administrativa, o de cualquier otro servidor público, con excepción del Poder Judicial del Estado.
+
+El Congreso del Estado de Puebla expedirá la Ley de la Comisión de Derechos Humanos del Estado de Puebla, en cumplimiento a lo establecido en el artículo 102, Apartado B, de la Constitución Política de los Estados Unidos Mexicanos, en la que se determinará la integración con fines operativos de la misma.
+
+Emitirá recomendaciones no vinculatorias, denuncias y quejas ante las autoridades correspondientes.
+
+No conocerá de asuntos laborales, electorales y judiciales, ni en los que hayan participado autoridades federales, sin concurrencia de autoridades del Estado de Puebla.
+
+Contará con un Consejo Consultivo, el cual se conformará en los términos que establezca la Ley de la Comisión de Derechos Humanos del Estado de Puebla.
+
+El Presidente de la Comisión, lo será también del Consejo Consultivo, su elección se ajustará al procedimiento que establezca la Ley de la materia, que deberá ser transparente e informado.
+
+> <small>(ADICIONADO CON EL CAPITULO Y ARTICULO QUE LO INTEGRAN, P.O. 25 DE JULIO DE 2011)</small>
+
+## TÍTULO DÉCIMO PRIMERO. DE LA INVIOLABILIDAD DE LA CONSTITUCIÓN
+
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 25 DE JULIO DE 2011)</small>
+
+### CAPÍTULO ÚNICO
+
+> <small>(ADICIONADO, P.O. 25 DE JULIO DE 2011)</small>
+
+###### Artículo 143.
+
+Esta Constitución no perderá su fuerza y vigor aún cuando por cualquier motivo se interrumpa su observancia.
 
 En caso de que por trastorno público se establezca un Gobierno contrario a los principios en ella sancionados, tan luego como el pueblo recobre su libertad, se restablecerá su observancia y con arreglo a ella y a las leyes que en su virtud se hubieren expedido, serán juzgados tanto los que hayan figurado en el Gobierno emanado de la rebelión, como los que hayan cooperado en ella.
-
-## TITULO UNDECIMO.
-
-De la inviolabilidad de la Constitución.
 
 ## ARTICULOS TRANSITORIOS.
 
@@ -2762,3 +2808,31 @@ P.O. 16 DE MARZO DE 2011.
 PRIMERO.- El Honorable Congreso del Estado Libre y Soberano de Puebla, declara que esta Reforma ha sido aprobada en términos de las disposiciones constitucionales aplicables y forma parte de la Constitución Política del Estado Libre y Soberano de Puebla.
 
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 25 DE JULIO DE 2011.
+
+DECRETO POR EL QUE SE REFORMA EL ARTICULO 89 DE LA CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE PUEBLA.
+
+PRIMERO.- El Honorable Congreso del Estado Libre y Soberano de Puebla, declara que esta reforma ha sido aprobada en términos de las disposiciones constitucionales aplicables y forman parte de la Constitución Política del Estado Libre y Soberano de Puebla.
+
+SEGUNDO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado de Puebla.
+
+TERCERO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 25 DE JULIO DE 2011.
+
+DECRETO POR EL QUE SE REFORMA EL ARTICULO 99 DE LA CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE PUEBLA.
+
+PRIMERO.- El Honorable Congreso del Estado Libre y Soberano de Puebla, declara que esta reforma ha sido aprobada en términos de las disposiciones constitucionales aplicables y forman parte de la Constitución Política del Estado Libre y Soberano de Puebla.
+
+SEGUNDO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado de Puebla.
+
+TERCERO.- El nombramiento del Procurador General de Justicia del Estado, vigente a la entrada en vigor del presente Decreto, continuará surtiendo sus efectos legales.
+
+P.O. 25 DE JULIO DE 2011.
+
+DECRETO POR EL QUE SE REFORMA LA DENOMINACION DEL CAPITULO III DEL TITULO PRIMERO, EL ARTICULO 11, EL PRIMER PARRAFO DE LA FRACCION VII DEL ARTICULO 12, EL ARTICULO 142 Y LA DENOMINACION DEL TITULO DECIMO; SE ADICIONAN LOS PARRAFOS SEGUNDO, TERCERO Y CUARTO AL ARTICULO 7, EL TITULO DECIMO PRIMERO Y EL ARTICULO 143 Y SE DEROGA LA FRACCION VI DEL ARTICULO 12, TODOS DE LA CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE PUEBLA.
+
+PRIMERO.- El Honorable Congreso del Estado Libre y Soberano de Puebla, declara que estas reformas y adiciones han sido aprobadas en términos de las disposiciones constitucionales aplicables y forman parte de la Constitución Política del Estado Libre y Soberano de Puebla.
+
+SEGUNDO.- El presente Decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
