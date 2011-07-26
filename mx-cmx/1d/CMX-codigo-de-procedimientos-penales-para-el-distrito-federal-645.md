@@ -4,7 +4,7 @@ identifier: "CMX-codigo-de-procedimientos-penales-para-el-distrito-federal-645"
 country: "mx"
 rank: "codigo"
 publication_date: "1931-08-29"
-last_updated: "2011-07-12"
+last_updated: "2011-07-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=645&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1931-08-26"
 
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 12 DE JULIO DE 2011.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 26 DE JULIO DE 2011.
 
 Código publicado en el Diario Oficial de la Federación, el sábado 29 de agosto de 1931.
 
@@ -1086,9 +1086,27 @@ Cuando el delito fuere de los que no dejan huellas de su perpetración, se procu
 
 Cuando la muerte no se deba a un delito, y esto se comprobare en las primeras diligencias, no se practicará la autopsia y se entregará el cadáver a la persona que lo reclame. En todos los demás casos será indispensable este requisito, salvo lo dispuesto en el artículo siguiente.
 
+> <small>(REFORMADO, G.O. 26 DE JULIO DE 2011)</small>
+
 ###### ARTICULO 105.
 
-Cuando se trate de homicidio, además de la descripción que hará el que practique las diligencias, la harán también dos peritos que practicarán la autopsia del cadáver, expresando con minuciosidad el estado que guarda y las causas que originaron la muerte. Sólo podrá dejarse de hacer la autopsia cuando el juez lo acuerde, previo dictamen de los peritos médicos.
+Cuando se trate de homicidio o feminicidio, además de la descripción que hará el que practique las diligencias, la harán también dos peritos que practicarán la necropsia del cadáver, expresando con minuciosidad el estado que guarda y las causas que originan la muerte. Solo podrá dejarse de hacer la necropsia, cuando el Juez lo acuerde previo dictamen de los peritos médicos.
+
+> <small>(ADICIONADO, G.O. 26 DE JULIO DE 2011)</small>
+
+###### ARTICULO 105 Bis.
+
+La investigación pericial, ministerial y policial del delito de feminicidio, deberá realizarse de conformidad con los parámetros establecidos en los protocolos especializados con perspectiva de género. La aplicación de dicho protocolo será obligatoria y su inobservancia será motivo de responsabilidad.
+
+> <small>(ADICIONADO, G.O. 26 DE JULIO DE 2011)</small>
+
+###### ARTICULO 105 Ter.
+
+En los casos de investigación de feminicidios, la Procuraduría General de Justicia del Distrito Federal deberá conservar un registro fotográfico de la víctima, de la descripción de sus lesiones, objetos y vestimenta con que haya sido encontrada que servirá para integrar investigaciones de la misma naturaleza, de conformidad con el artículo anterior
+
+Cuando se trate de cadáveres no identificados o que no puedan ser reconocidos, deberá realizarse un estudio para determinar su ADN que se integrará al Banco de Datos de Información Genética, a cargo de la Procuraduría General de Justicia del Distrito Federal, al que se incorporará la información genética de familiares de mujeres desaparecidas o presuntas víctimas de feminicidio, cuando así lo soliciten o en cumplimiento a una orden de la autoridad judicial.
+
+El Tribunal Superior de Justicia del Distrito Federal y la Procuraduría General de Justicia del Distrito Federal celebrarán, de conformidad con sus atribuciones, los convenios generales y específicos que se requieran para el debido cumplimiento de lo establecido en este artículo.
 
 ###### ARTICULO 106.
 
@@ -1420,7 +1438,7 @@ VI.- Las presunciones.
 
 Se admitirá como prueba en los términos del artículo 20, fracción V, de la Constitución Política de los Estados Unidos Mexicanos, todo aquello que se ofrezca como tal, incluso aquellos elementos aportados por los descubrimientos de la ciencia.
 
-(REFORMADO [N. DE E. ADICIONADO], G.O. 17 DE SEPTIEMBRE DE1999) (REPUBLICADO, D.O.F. 30 DE SEPTIEMBRE DE 1999)
+(REFORMADO [N. DE E. ADICIONADO], G.O. 17 DE SEPTIEMBRE DE 1999) (REPUBLICADO, D.O.F. 30 DE SEPTIEMBRE DE 1999)
 
 También se admitirán como prueba las declaraciones de los servidores públicos que en ejercicio de sus funciones y con autorización fundada y motivada del Procurador General de Justicia del Distrito Federal, hayan simulado conductas delictivas con el fin de aportar elementos de prueba en una averiguación previa.
 
@@ -6085,3 +6103,17 @@ G.O. 12 DE JULIO DE 2011.
 Primero.- El presente decreto entrará en vigor al día siguiente a su publicación en la Gaceta Oficial del Distrito Federal.
 
 Segundo.- Publíquese el presente en la Gaceta Oficial del Distrito Federal y en el Diario Oficial de la Federación para su mayor difusión.
+
+G.O. 26 DE JULIO DE 2011.
+
+Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+Segundo.- Publíquese en la Gaceta Oficial del Distrito Federal y para su mayor difusión en el Diario Oficial de la Federación
+
+Tercero.- La Procuraduría General de Justicia del Distrito Federal y el Tribunal Superior de Justicia del Distrito Federal, en el ámbito de sus competencias, deberán de elaborar el protocolo de investigación pericial, ministerial y policial del delito de feminicidio; la elaboración y publicación de dicho protocolo deberá realizarse en un plazo no mayor a noventa días naturales.
+
+En la elaboración del protocolo deberá considerarse los estándares internacionales en la materia con perspectiva de Género.
+
+Cuarto.- La Procuraduría General de Justicia del Distrito Federal y el Tribunal Superior de Justicia del Distrito Federal, en el ámbito de sus competencias, deberán capacitar continuamente al personal encargado de implementar los protocolos de investigación pericial, ministerial y policial del delito de feminicidio.
+
+Quinto.- La Procuraduría General de Justicia del Distrito Federal deberá en un plazo no mayor a seis meses poner en funcionamiento los registros a los que hace referencia el articulo 105 Ter del Código de Procedimientos Penales para el Distrito Federal, así como el Banco de Datos de Información Genética que establece el mismo precepto.
