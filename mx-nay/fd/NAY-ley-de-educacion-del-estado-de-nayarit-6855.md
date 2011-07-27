@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-educacion-del-estado-de-nayarit-6855"
 country: "mx"
 rank: "ley"
 publication_date: "1994-07-13"
-last_updated: "2011-03-23"
+last_updated: "2011-07-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6855&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "NAY"
 ---
 # LEY DE EDUCACION DEL ESTADO DE NAYARIT
 
-LEY DE EDUCACION DEL ESTADO DE NAYARIT
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 20 DE AGOSTO DE 2011 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGIA CORRESPONDIENTE A DICHA FECHA, EN EL INDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE MARZO DE 2011.
+LEY DE EDUCACIÓN DEL ESTADO DE NAYARIT
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE JULIO DE 2011.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Nayarit, el miércoles 13 de julio de 1994.
 
@@ -315,6 +317,10 @@ Las escuelas normales tienen por objeto la formación de docentes de nivel acad�
 
 ### CAPITULO IV. ASPECTOS SUSTANTIVOS DEL PROCESO EDUCATIVO
 
+> <small>(ADICIONADA, P.O. 27 DE JULIO DE 2011)</small>
+
+#### SECCION I. De la Planeación
+
 ###### ARTICULO 38.
 
 El proceso educativo considerará como elementos básicos para su desarrollo, la planeación, la organización, la operación, la supervisión, la investigación educativa, y la evaluación y se garantizará que cada uno de ellos se realice con mayor eficiencia y calidad
@@ -343,13 +349,75 @@ La tecnología educativa aplicada al Sistema Estatal de Educación, se deberá c
 
 Se buscará el mejoramiento de la educación en el Estado, mediante el perfeccionamiento del proceso educativo, la optimización de los recursos didácticos y la planeación, construcción, equipamiento, mantenimiento, rehabilitación, reforzamiento, reconstrucción y habilitación de inmuebles e instalaciones destinados al servicio del sistema educativo estatal.
 
+> <small>(ADICIONADO, P.O. 27 DE JULIO DE 2011)</small>
+
+ARTICULO 43 A.- La planeación del sistema estatal de educación se dirigirá a proporcionar un servicio educativo eficiente, equitativo y de calidad, teniendo como finalidad:
+
+I.- Planear, programar, presupuestar, ejercer y vigilar con responsabilidad y transparencia los recursos económicos, materiales, servicios personales y profesionales, destinados a la operación del sistema educativo estatal;
+
+II.- Vincular de manera congruente la educación básica, media superior y superior;
+
+III.- Promover la calidad de la educación en todos sus niveles, apoyar la formación inicial, continua y el desarrollo profesional de los docentes, y
+
+IV.- Estimular y promover el eficaz desempeño del personal especializado, de apoyo y de asistencia a la educación.
+
+> <small>(ADICIONADO, P.O. 27 DE JULIO DE 2011)</small>
+
+ARTICULO 43 B.- En la elaboración de la planeación educativa estatal, se deberá considerar como elementos fundamentales, enunciativamente los siguientes:
+
+a).- Un diagnóstico de educación en el estado;
+
+b).- Instrumentos para la evaluación;
+
+c).- Métodos de evaluación permanente;
+
+d).- Proyectos estratégicos;
+
+e).- Líneas de acción, y
+
+d) (sic).- La participación directa de los diversos sectores sociales involucrados en el proceso educativo.
+
+> <small>(ADICIONADO, P.O. 27 DE JULIO DE 2011)</small>
+
+ARTICULO 43 C.- El titular del Poder Ejecutivo Estatal contará con un Consejo Consultivo para la planeación del Sistema Educativo Estatal, cuya integración y atribuciones estarán contenidas en el Reglamento de la presente Ley.
+
+> <small>(ADICIONADA, P.O. 27 DE JULIO DE 2011)</small>
+
+#### SECCION II. De la Evaluación Educativa
+
+> <small>(REFORMADO, P.O. 27 DE JULIO DE 2011)</small>
+
+#### SECCION III. De la Investigación Educativa
+
 ###### ARTICULO 44.
 
-La evaluación del proceso enseñanza - aprendizaje será continua y periódica conforme al reglamento correspondiente. Su finalidad será la medición de conocimientos, habilidades, actitudes, para la promoción del alumno; además, determinará si los planes y programas corresponden a la evolución del educando, al desarrollo histórico y social del Estado y a las necesidades de la Entidad y de la Nación
+La evaluación es un proceso permanente que permitirá valorar los logros educativos alcanzados por cada institución, tipo, nivel y modalidad educativa, coadyuvando en la toma de decisiones respecto al cambio e innovación en la educación, involucrará a los participantes en el proceso enseñanza aprendizaje y comprenderá al menos los siguientes rubros:
+
+I.- Diagnóstico de la situación y calidad en que se encuentra la educación;
+
+II.- Recursos humanos, materiales y financieros con los que se cuenta para la ejecución de los proyectos, así como la distribución en cada uno de los niveles educativos;
+
+III.- Políticas institucionales sobre los objetivos de la educación y balance de resultados en el logro de los mismos;
+
+IV.- Cumplimiento de los objetivos escolares y de los contenidos programáticos;
+
+V.- Los obstáculos encontrados en la ejecución del proyecto, causas que lo generaron y propuestas para superarlos, y
+
+VI.- Actualización de los proyectos.
+
+> <small>(REFORMADO, P.O. 27 DE JULIO DE 2011)</small>
 
 ###### ARTICULO 45.
 
-La evaluación institucional será anual al término del ciclo escolar. Su finalidad será la de conocer cualitativa y cuantitativamente el cumplimiento de los objetivos propuestos en las actividades planeadas.
+La evaluación individual de los educandos se efectuará de conformidad con la normatividad federal aplicable.
+
+> <small>(ADICIONADO, P.O. 27 DE JULIO DE 2011)</small>
+
+ARTICULO 45 A.- Las instituciones educativas establecidas en la entidad deberán brindar las facilidades y condiciones necesarias para llevar a cabo de manera permanente y sistemática las evaluaciones, proporcionando de manera veraz y oportuna, los datos, documentos e información que les requiera la autoridad competente.
+
+> <small>(ADICIONADO, P.O. 27 DE JULIO DE 2011)</small>
+
+ARTICULO 45 B.- La evaluación del proceso enseñanza-aprendizaje será continua y periódica conforme a los lineamientos que cada organismo del sector expida. Su finalidad será la medición de conocimientos, habilidades y aptitudes para la promoción del alumno y el desenvolvimiento de los docentes.
 
 ###### ARTICULO 46.
 
@@ -359,9 +427,15 @@ La supervisión escolar dirigirá, orientará, apoyará y vigilará el proceso e
 
 El trabajo educativo se desarrollará conforme al calendario que determine la Secretaría de Educación Pública y, en su caso, se ajustará a las condiciones geográficas y sociales del Estado
 
+> <small>(ADICIONADA, P.O. 27 DE JULIO DE 2011)</small>
+
 ###### ARTICULO 48.
 
 El Sistema Estatal de Educación, impulsará la investigación educativa como fundamento de la modernización y desarrollo de la Entidad
+
+> <small>(ADICIONADO, P.O. 27 DE JULIO DE 2011)</small>
+
+ARTICULO 48 A.- La autoridad educativa estatal buscará los mecanismos necesarios a fin de incorporar a personal capacitado en la investigación educativa, estableciendo convenios y relaciones de colaboración en caso de ser necesarios, con organismos, dependencias, institutos educativos de nivel superior, tanto nacionales como internacionales, o asociaciones civiles, con el propósito de realizar trabajos y propuestas tendientes al mejoramiento de la calidad de la educación en la entidad.
 
 ### CAPITULO V. DE LA PARTICIPACION DE LA SOCIEDAD EN LA EDUCACION
 
@@ -533,11 +607,123 @@ Las Autoridades Educativas del Estado otorgarán revalidaciones o convalidacione
 
 Las Secretarías de Educación Básica o de Educación Media Superior, Superior e Investigación Científica y Tecnológica, según corresponda, aplicarán los procedimientos establecidos por la Secretaría de Educación Pública, para expedir certificados, constancias o diplomas a quienes acrediten conocimientos terminales que correspondan a cierto nivel académico o grado escolar, adquiridos en forma autodidacta o a través de la experiencia laboral.
 
-> <small>(ADICIONADO [N. DE E. REUBICADO, ANTES CAPITULO VIII], P.O. 20 DE DICIEMBRE DE 2008)</small>
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 27 DE JULIO DE 2011)</small>
 
-### CAPITULO IX. DE LAS INFRACCIONES, LAS SANCIONES Y EL RECURSO ADMINISTRATIVO
+### CAPITULO IX. DE LA CALIDAD DE LA EDUCACIÓN
+
+> <small>(ADICIONADO, P.O. 27 DE JULIO DE 2011)</small>
 
 ###### ARTICULO 66.
+
+En el Estado de Nayarit, toda educación que se imparta, se promueva u ofrezca, deberá ser encaminada a la excelencia en su calidad, integrando los aspectos de equidad, pertinencia, relevancia, eficiencia y eficacia de sus programas y contenidos.
+
+> <small>(ADICIONADO, P.O. 27 DE JULIO DE 2011)</small>
+
+###### ARTICULO 67.
+
+Las instituciones del sistema educativo estatal, realizaran acciones que las vinculen y proyecten con la comunidad de que formen parte para elevar la calidad de la educación.
+
+> <small>(ADICIONADO, P.O. 27 DE JULIO DE 2011)</small>
+
+###### ARTICULO 68.
+
+La promoción de la calidad es responsabilidad de todos los involucrados en el sistema educativo; por lo que para lograr tal propósito, se deberá atender a las siguientes prescripciones:
+
+I.- Que los padres de familia o tutores envíen a sus hijos a la escuela de manera constante, desde el nivel preescolar y apoyen el esfuerzo de los maestros y educandos, para que se alcancen los objetivos del aprendizaje;
+
+II.- Los trabajadores de la educación, así como las autoridades escolares, desarrollen su trabajo con responsabilidad, eficiencia, basado en competencias y desarrollo de habilidades, apegados siempre a una cultura de servicio;
+
+III.- Que los niveles de dirección y supervisión realicen su función ofreciendo la asesoría pedagógica requerida en los centros escolares;
+
+IV.- Las actividades de otras instituciones o áreas de la administración pública que involucren a las escuelas, se integren adecuadamente a los programas de trabajo de cada plantel, para que se realicen productivamente y enriquezcan el quehacer educativo;
+
+V.- Se hagan públicos los resultados de exámenes de admisión, las evaluaciones y los proyectos escolares;
+
+VI.- Se dé a conocer anualmente la información más relevante que describa la situación de la educación en el estado, así como las metas anuales y las medidas para combatir los rezagos e inequidades;
+
+VII.- Se implementen procesos de mejora continua en todos los procesos del sistema educativo estatal, incluyendo a docentes, alumnos y padres de familia, y
+
+VIII.- Los planteles de educación básica cuenten con proyecto escolar.
+
+> <small>(ADICIONADO, P.O. 27 DE JULIO DE 2011)</small>
+
+###### ARTICULO 69.
+
+Las autoridades educativas promoverán la participación de la sociedad en los procesos educativos, que tengan por objeto fortalecer y elevar la calidad de la educación que ofrezcan las instituciones públicas, así como ampliar la cobertura de los servicios educativos, de conformidad con los lineamientos que emita la autoridad educativa federal y la presente ley, así como su vinculación con el sector productivo y con los medios masivos de comunicación y difusión.
+
+> <small>(ADICIONADO, P.O. 27 DE JULIO DE 2011)</small>
+
+###### ARTICULO 70.
+
+El logro de la calidad educativa es responsabilidad de todos los involucrados en el sistema educativo.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 27 DE JULIO DE 2011)</small>
+
+### CAPITULO X. DE LA VINCULACIÓN DE LA EDUCACIÓN CON LA CULTURA Y LOS MEDIOS DE COMUNICACIÓN
+
+> <small>(ADICIONADO, P.O. 27 DE JULIO DE 2011)</small>
+
+###### ARTICULO 71.
+
+El sistema educativo estatal propiciará que en el proceso enseñanza aprendizaje se incorporen programas de fomento y difusión cultural que contribuyan al conocimiento y conservación de la identidad y el entorno.
+
+> <small>(ADICIONADO, P.O. 27 DE JULIO DE 2011)</small>
+
+###### ARTICULO 72.
+
+La Secretaría de Educación Básica y la SEMSSICYT, establecerán directrices en materia de educación cultural y artística a través del diseño de esquemas curriculares y extracurriculares dirigidos a todos los involucrados del proceso educativo.
+
+> <small>(ADICIONADO, P.O. 27 DE JULIO DE 2011)</small>
+
+###### ARTICULO 73.
+
+Los medios de comunicación masiva, en el desarrollo de sus actividades, contribuirán al logro de las finalidades previstas por el artículo 6° de esta ley, conforme a los criterios establecidos en el artículo 8° de la Ley General de Educación.
+
+> <small>(ADICIONADO, P.O. 27 DE JULIO DE 2011)</small>
+
+###### ARTICULO 74.
+
+Corresponde a la Secretaría de Educación Básica y la SEMMSICYT, lo siguiente:
+
+I.- Vigilar el cumplimiento de tal normatividad, efectuar las denuncias por las violaciones a la referida ley, así como a la Ley Federal de Radio y Televisión y la Ley de Imprenta, en lo que esta Ley y los ordenamientos de ella emanados le confieren;
+
+II.- Promover ante el Consejo Nacional de Radio y Televisión y las autoridades competentes, se le conceda parte del tiempo a que alude el artículo 59 de la Ley Federal de Radio y Televisión, para difundir en el Estado de Nayarit programas del contenido educativo, acordes a los fines del artículo 7 de la Ley General de Educación y con los fines señalados en el artículo 6 de la presente ley;
+
+III.- Solicitar a todo tipo de medios de comunicación y difusión masiva, tiempo y espacio para la difusión de los programas señalados y para dar a conocer a la sociedad comunicados de especial importancia en materia educativa, y
+
+IV.- Solicitar, especialmente a los periódicos y revistas que circulen en la entidad, espacios gratuitos para fines similares.
+
+> <small>(ADICIONADO, P.O. 27 DE JULIO DE 2011)</small>
+
+###### ARTICULO 75.
+
+El titular del Poder Ejecutivo Estatal mediante convenios de coordinación y colaboración, podrá promover en los medios de comunicación y difusión la divulgación de los fines y objetivos de la educación para inducir la participación corresponsable de la sociedad.
+
+> <small>(ADICIONADO, P.O. 27 DE JULIO DE 2011)</small>
+
+###### ARTICULO 76.
+
+La Secretaría de Educación Básica y la SEMSSICYT, deberán proporcionar la información necesaria para que la sociedad y en especial, los padres de familia, se enteren con precisión y amplitud de los avances problemas o carencias de la actividad educativa en la entidad en sus diferentes niveles, en aspectos como la deserción, la eficiencia terminal, la reprobación, el aprovechamiento y otros de igual importancia.
+
+> <small>(ADICIONADO, P.O. 27 DE JULIO DE 2011)</small>
+
+###### ARTICULO 77.
+
+Las instituciones educativas podrán realizar actividades escolares y extraescolares con la finalidad de orientar y fomentar en las personas una actitud analítica y reflexiva, en relación con los mensajes que difundan los medios de comunicación.
+
+> <small>(ADICIONADO, P.O. 27 DE JULIO DE 2011)</small>
+
+###### ARTICULO 78.
+
+Las autoridades educativas, del nivel básico y nivel medio superior y superior, crearán programas educativos por medio de la radio y la televisión para promover y operar diversos proyectos educativos y programas para retroalimentar los contenidos del aprendizaje.
+
+(REUBICADO [N. DE E. ANTES CAPITULO IX], P.O. 27 DE JULIO DE 2011)
+
+### CAPITULO XI. DE LAS INFRACCIONES, LAS SANCIONES Y EL RECURSO ADMINISTRATIVO
+
+(REUBICADO [N. DE E. ANTES ARTICULO 66], P.O. 27 DE JULIO DE 2011)
+
+###### ARTICULO 79.
 
 Son infracciones de quienes prestan servicios educativos:
 
@@ -569,49 +755,53 @@ XI.- Oponerse a las actividades de evaluación, inspección y vigilancia, así c
 
 XII.- No contar con la infraestructura física educativa en los términos de la normatividad aplicable y su correspondiente certificación periódica, y
 
-> <small>(ADICIONADA, P.O. 20 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADA, P.O. 27 DE JULIO DE 2011)</small>
 
-XIII.- Incumplir cualesquiera de los demás preceptos de esta Ley, así como las disposiciones expedidas con fundamento en ella.
+XIII.- Incumplir cualesquiera de los demás preceptos de esta Ley, así como las disposiciones expedidas con fundamento en ella;
 
-###### ARTICULO 67.
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 67], P.O. 27 DE JULIO DE 2011)</small>
+
+###### ARTICULO 80.
 
 Las infracciones enumeradas en el artículo anterior, se sancionarán con:
 
-I.- Multa hasta por el equivalente a cinco mil veces el salario mínimo general vigente en el área geográfica y en la fecha en que se cometa la infracción. Las multas impuestas podrán duplicarse en caso de reincidencia, y (sic)
+I.- Multa hasta por el equivalente a cinco mil veces el salario mínimo general vigente en el área geográfica y en la fecha en que se cometa la infracción. Las multas impuestas podrán duplicarse en caso de reincidencia;
 
-> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2008)</small>
+II.- Clausura del plantel educativo, la que puede ser temporal o indefinida hasta en tanto se corrijan las infracciones, y
 
-II.- Clausura del plantel educativo, la que puede ser temporal o indefinida hasta en tanto se corrijan las infracciones; y
-
-> <small>(ADICIONADA, P.O. 20 DE DICIEMBRE DE 2008)</small>
-
-II (SIC).- Revocación de la autorización o retiro del reconocimiento de validez oficial de estudios correspondientes.
-
-> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2008)</small>
+III.- Revocación de la autorización o retiro del reconocimiento de validez oficial de estudios correspondientes.
 
 La imposición de la sanción establecida en la fracción III no excluye la posibilidad de que sea impuesta alguna multa.
 
-###### ARTICULO 68.
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 20 DE AGOSTO DE 2011 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGIA CORRESPONDIENTE A DICHA FECHA, EN EL INDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 68], P.O. 27 DE JULIO DE 2011)</small>
+
+###### ARTICULO 81.
 
 Además de las previstas en el Artículo 66, también son infracciones a esta Ley:
 
 I.- Ostentarse como Plantel incorporado sin estarlo;
 
-II.- Incumplir con lo dispuesto en el Artículo 57, e
+II.- Incumplir con lo dispuesto en el Artículo 57, y
 
 III.- Impartir la educación primaria, la secundaria, la normal y demás, para la formación de maestros de educación básica, sin contar con la autorización correspondiente.
 
-En los supuestos previstos en este artículo, además de la aplicación de las sanciones señaladas en la fracción I del Artículo 66, podrá procederse a la clausura del plantel respectivo.
+En los supuestos previstos en este artículo, además de la aplicación de las sanciones señaladas en la fracción I del Artículo 79, podrá procederse a la clausura del plantel respectivo.
 
-###### ARTICULO 69.
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 69], P.O. 27 DE JULIO DE 2011)</small>
+
+###### ARTICULO 82.
 
 Cuando la autoridad educativa responsable de la prestación del servicio, o que haya otorgado la autorización o el reconocimiento de validez oficial de estudios, considere que existen causas justificadas que ameriten la imposición de sanciones, lo hará del conocimiento del presunto infractor para que, dentro de un plazo de quince días naturales, manifieste lo que a su derecho convenga y proporcione los datos y documentos que le sean requeridos.
 
 La autoridad dictará resolución con base en los datos aportados por el presunto infractor y las demás constancias que obren en el expediente.
 
-Para determinar la sanción, se considerarán las circunstancias en que se cometió la infracción, los daños y perjuicios que se hayan producido o puedan producirse a los educandos, la gravedad de la infracción, las condiciones socio-económicas del infractor, el carácter intencional o no de la infracción y si se trata de reincidencia
+Para determinar la sanción, se considerarán las circunstancias en que se cometió la infracción, los daños y perjuicios que se hayan producido o puedan producirse a los educandos, la gravedad de la infracción, las condiciones socioeconómicas del infractor, el carácter intencional o no de la infracción y si se trata de reincidencia
 
-###### ARTICULO 70.
+(REUBICADO [N. DE E. ANTES ARTICULO 70], P.O. 27 DE JULIO DE 2011)
+
+###### ARTICULO 83.
 
 La negativa o revocación de la autorización otorgada a particulares, produce efectos de clausura del servicio educativo de que se trate.
 
@@ -621,31 +811,11 @@ La autoridad que dicte la resolución, adoptará las medidas que sean necesarias
 
 En el caso de autorizaciones, cuando la revocación se dicte durante un ejercicio lectivo, la institución podrá seguir funcionando a juicio y bajo la vigilancia de la autoridad, hasta que aquel concluya.
 
-> <small>(REFORMADO, P.O. 17 DE AGOSTO DE 2002)</small>
+REUBICADO [N. DE E. ANTES ARTICULO 71], P.O. 27 DE JULIO DE 2011)
 
-###### ARTICULO 71.
+###### ARTICULO 84.
 
 Contra las resoluciones y actos administrativos de las autoridades que contravengan lo previsto en este ordenamiento, podrá interponerse el recurso administrativo de inconformidad o el juicio ante el Tribunal de Justicia Administrativa, en términos de la Ley de Justicia y Procedimientos Administrativos del Estado de Nayarit.
-
-###### ARTICULO 72.
-
-(DEROGADO POR ARTICULO SEGUNDO DEL DECRETO QUE APRUEBA LA LEY DE JUSTICIA Y PROCEDIMIENTOS ADMINISTRATIVOS DEL ESTADO DE NAYARIT, P.O. 17 DE AGOSTO DE 2002)
-
-###### ARTICULO 73.
-
-(DEROGADO POR ARTICULO SEGUNDO DEL DECRETO QUE APRUEBA LA LEY DE JUSTICIA Y PROCEDIMIENTOS ADMINISTRATIVOS DEL ESTADO DE NAYARIT, P.O. 17 DE AGOSTO DE 2002)
-
-###### ARTICULO 74.
-
-(DEROGADO POR ARTICULO SEGUNDO DEL DECRETO QUE APRUEBA LA LEY DE JUSTICIA Y PROCEDIMIENTOS ADMINISTRATIVOS DEL ESTADO DE NAYARIT, P.O. 17 DE AGOSTO DE 2002)
-
-###### ARTICULO 75.
-
-(DEROGADO POR ARTICULO SEGUNDO DEL DECRETO QUE APRUEBA LA LEY DE JUSTICIA Y PROCEDIMIENTOS ADMINISTRATIVOS DEL ESTADO DE NAYARIT, P.O. 17 DE AGOSTO DE 2002)
-
-###### ARTICULO 76.
-
-(DEROGADO POR ARTICULO SEGUNDO DEL DECRETO QUE APRUEBA LA LEY DE JUSTICIA Y PROCEDIMIENTOS ADMINISTRATIVOS DEL ESTADO DE NAYARIT, P.O. 17 DE AGOSTO DE 2002)
 
 ## TRANSITORIOS
 
@@ -740,5 +910,9 @@ Artículo primero.- El presente decreto entrará en vigor al día siguiente de s
 Artículo segundo.- Tratándose de las disposiciones contenidas en los artículos 4, 5, 19 fracción I, 22, 49 fracción I y 50 fracción I, deberán ser observadas y aplicadas por las autoridades en materia educativa para el inicio del próximo año lectivo.
 
 P.O. 23 DE MARZO DE 2011.
+
+Artículo Único.- El presente decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+P.O. 27 DE JULIO DE 2011.
 
 Artículo Único.- El presente decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
