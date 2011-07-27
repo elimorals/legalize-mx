@@ -4,7 +4,7 @@ identifier: "MOR-reglamento-interior-de-la-secretaria-de-desarrollo-social-81366
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-05-11"
-last_updated: "2011-05-11"
+last_updated: "2011-07-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81366&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MOR"
 
 REGLAMENTO INTERIOR DE LA SECRETARIA DE DESARROLLO SOCIAL DEL AYUNTAMIENTO DE CUERNAVACA DEL ESTADO DE MORELOS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE JULIO DE 2011.
 
 Reglamento publicado en la Segunda Sección del Periódico Oficial del Estado de Morelos, el miércoles 11 de mayo de 2011.
 
@@ -69,9 +69,11 @@ f) Dirección de Atención de Adultos Mayores;
 
 g) Dirección de Asuntos Migratorios;
 
-h) Dirección de la Mujer; e
+> <small>(REFORMADO, P.O. 27 DE JULIO DE 2011)</small>
 
-i) Dirección de Cultura y Actividades Artísticas;
+h) Dirección de la Instancia Municipal de la Mujer;
+
+i) (DEROGADO, P.O. 27 DE JULIO DE 2011)
 
 II. Coordinación General de Desarrollo Social;
 
@@ -529,11 +531,15 @@ XI.- Ejecutar los planes, políticas, programas y proyectos aprobados que le sea
 
 XII.- Las demás que le confieran otras disposiciones aplicables o le encomienden expresamente sus superiores jerárquicos; (sic)
 
-### CAPÍTULO XIII. DE LA DIRECCIÓN DE LA MUJER
+> <small>(REFORMADA SU DENOMINACION, P.O. 27 DE JULIO DE 2011)</small>
+
+### CAPÍTULO XIII. DE LA DIRECCIÓN DE LA INSTANCIA MUNICIPAL DE LA MUJER
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE JULIO DE 2011)</small>
 
 ###### Artículo 18.
 
-La Dirección de la Mujer, tendrá las atribuciones siguientes:
+La Dirección de la Instancia Municipal de la Mujer, tendrá las atribuciones siguientes:
 
 I.- Dirigir, administrar y organizar las funciones de la Dirección, así como los recursos materiales y humanos con los que cuenta para el mejor desempeño de sus funciones;
 
@@ -557,37 +563,21 @@ X.- Fungir como enlace y representante del Municipio ante el Instituto Estatal d
 
 XI.- Promover ante las autoridades competentes contenidos y materiales educativos libres de estereotipos y prejuicios discriminatorios que fomenten la igualdad de derechos y, oportunidades para hombres y mujeres de acuerdo a los procedimientos establecidos por la Secretaria;
 
-XII.- Ejecutar los planes, políticas, programas y proyectos aprobados que le sean encomendados a la Dirección, de acuerdo a los procedimientos establecidos; y
+XII.- Ejecutar los planes, políticas, programas y proyectos aprobados que le sean encomendados a la Dirección, de acuerdo a los procedimientos establecidos; y (sic)
 
-XIII.- Las demás que le confieran otras disposiciones aplicables o le encomienden expresamente sus superiores jerárquicos; (sic)
+> <small>(ADICIONADA, P.O. 27 DE JULIO DE 2011)</small>
 
-### CAPÍTULO XIV. DE LA DIRECCIÓN DE CULTURA Y ACTIVIDADES ARTÍSTICAS
+XIII.- Las establecidas en el artículo 89 Bis de la Ley Orgánica Municipal del Estado de Morelos; y
+
+XIV.- Las demás que le confieran otras disposiciones aplicables o le encomienden expresamente sus superiores jerárquicos; (sic)
+
+> <small>(DEROGADO CON EL ARTICULO QUE LO INTEGRA, P.O. 27 DE JULIO DE 2011)</small>
+
+### CAPÍTULO XIV
 
 ###### Artículo 19.
 
-El Director de Cultura y Actividades Artísticas, tendrá las atribuciones siguientes:
-
-I.- Dirigir, administrar y organizar las funciones de la Dirección, así como los recursos materiales y humanos con los que cuenta para el mejor desempeño de sus funciones;
-
-II.- Informar mensualmente al Secretario, Subsecretario y Coordinador General los avances de los programas de trabajo, conforme al Programa Operativo Anual, así como los programas, proyectos y encargos que le hayan sido delegados por el Secretario;
-
-III.- Diseñar, elaborar y proponer al Subsecretario los anteproyectos de planes, políticas, programas y proyectos culturales y artísticos del Municipio;
-
-IV.- Promover y fomentar la creación de espacios culturales y artísticos para la ciudadanía y dar apoyo e impulso a nuevos valores artísticos en el Municipio de acuerdo a los programas aprobados y procedimientos establecidos;
-
-V.- Promover exposiciones culturales y artísticas en coordinación con otras dependencias federales, estatales, municipales y organizaciones públicas y privadas de acuerdo a los procedimientos establecidos;
-
-VI.- Promover las tradiciones y costumbres populares artísticas y culturales de los pueblos y comunidades del Municipio;
-
-VII.- Promocionar los lugares con valor cultural e histórico del Municipio;
-
-VIII.- Proponer a sus superiores jerárquicos la celebración de convenios de colaboración con instituciones públicas y privadas en materia de actividades culturales, artísticas y recreativas;
-
-IX.- Dar seguimiento a las peticiones y demandas ciudadanas que sean de su competencia;
-
-X.- Ejecutar los planes, políticas, programas y proyectos aprobados que le sean encomendados a la Dirección, de acuerdo a los procedimientos establecidos; y
-
-XI.- Las demás que le confieran otras disposiciones aplicables o le encomienden expresamente sus superiores jerárquicos.
+(DEROGADO, P.O. 27 DE JULIO DE 2011)
 
 ### CAPÍTULO XV. DE LA COORDINACIÓN ADMINISTRATIVA
 
@@ -684,3 +674,13 @@ SECRETARIO DEL AYUNTAMIENTO
 LIC. VÍCTOR MANUEL SAUCEDO PERDOMO
 
 RÚBRICAS.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 27 DE JULIO DE 2011.
+
+PRIMERO.- El presente acuerdo entrará en vigor el mismo día de su aprobación por el Cabildo.
+
+SEGUNDO.- Publíquese el presente Acuerdo en el Periódico Oficial "Tierra y Libertad" órgano de difusión oficial que edita el Gobierno del Estado de Morelos y en la Gaceta Municipal.
+
+TERCERO.- Los recursos humanos, materiales y financieros, asignados a la Dirección de Cultura, serán trasladados al Consejo de Cultura de Cuernavaca, Morelos, debiéndose de adecuar la normatividad correspondiente para tal efecto, con la intervención de la Oficialía Mayor, Tesorería y de la Sindicatura Municipal por conducto de la Dirección de Patrimonio.
