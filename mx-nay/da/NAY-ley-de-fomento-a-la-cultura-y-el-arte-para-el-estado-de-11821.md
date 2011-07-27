@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-fomento-a-la-cultura-y-el-arte-para-el-estado-de-11821"
 country: "mx"
 rank: "ley"
 publication_date: "1995-11-25"
-last_updated: "1997-10-11"
+last_updated: "2011-07-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11821&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "NAY"
 
 LEY DE FOMENTO A LA CULTURA Y EL ARTE PARA EL ESTADO DE NAYARIT
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE OCTUBRE DE 1997.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO TERCERO TRANSITORIO DE LA LEY DE DESARROLLO CULTURAL PARA EL ESTADO DE NAYARIT, PUBLICADA EN EL P.O. DE 27 DE JULIO DE 2011, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley Publicada en la Segunda Sección del Periódico Oficial del Estado de Nayarit el sábado 25 de Noviembre de 1995.
 
@@ -330,3 +332,11 @@ Lic. Sigfrido de la Torre Miramontes.
 P.O. 11 DE OCTUBRE DE 1997.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Organo de Gobierno del Estado.
+
+P.O. 27 DE JULIO DE 2011.
+
+Artículo Primero.- La presente ley entrará en vigor a los noventa días siguientes de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+Artículo Segundo.- El Reglamento de la presente ley deberá expedirse dentro de los 180 días siguientes a su entrada en vigor.
+
+Artículo Tercero.- Se abroga la Ley de Fomento a la Cultura y el Arte para el Estado de Nayarit, contenida en el Decreto 7883 publicado el 25 de noviembre de 1995 en el Periódico Oficial, Órgano del Gobierno del Estado.
