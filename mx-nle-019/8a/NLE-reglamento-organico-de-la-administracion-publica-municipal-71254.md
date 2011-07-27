@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-organico-de-la-administracion-publica-municipal-7125
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-11-16"
-last_updated: "2010-11-12"
+last_updated: "2011-07-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=71254&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 REGLAMENTO ORGANICO DE LA ADMINISTRACION PUBLICA MUNICIPAL DE SAN PEDRO GARZA GARCIA, NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE NOVIEMBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE JULIO DE 2011.
 
 Reglamento Publicado en el Periódico Oficial del Estado de Nuevo León, el lunes 16 de noviembre de 2009.
 
@@ -923,7 +923,7 @@ III.- Promover la protección de las personas y de sus bienes en todos sus aspec
 
 IV.- Las demás que le confiera el Reglamento en Materia de Seguridad Municipal de San Pedro Garza García, Nuevo León, así como las previstas en los demás ordenamientos legales aplicables.
 
-> <small>(REFORMADO ULTIMO PARRAFO, P.O. 2 DE JUNIO DE 2010)</small>
+> <small>(REFORMADO, P.O. 2 DE JUNIO DE 2010)</small>
 
 Para el despacho de los asuntos de competencia de la Secretaría de Seguridad Municipal, su titular se auxiliará directamente las siguientes Direcciones: Dirección General de Policía, Dirección General de Tránsito y Vialidad, Dirección de Protección Civil, Dirección de Prevención al Delito y demás unidades administrativas que resulten necesarias.
 
@@ -1157,9 +1157,15 @@ III.- Atender las quejas e inconformidades que presenten los particulares con mo
 
 IV.- Solicitar a la Dirección Jurídica inicie el procedimiento de fincamiento de responsabilidades para sancionar a los servidores públicos que incumplan con las observaciones emitidas por la Auditoría Superior del Estado o de la Auditoria Superior de la Federación, de acuerdo con la Ley de Responsabilidades.
 
-> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 2010)</small>
+> <small>(ADICIONADO, P.O. 27 DE JULIO DE 2011)</small>
 
-Para el despacho de los asuntos de competencia de la Secretaría de la Contraloría y Transparencia Municipal, su titular se auxiliará directamente de las siguientes Direcciones: Dirección de Auditoria, Dirección de Normatividad, Transparencia y Cuenta Pública, Dirección Jurídica y demás unidades administrativas que resulten necesarias.
+E).- Del Órgano Sancionador en Materia de Seguridad Municipal,
+
+I.- Instrumentar, llevar a cabo y resolver las investigaciones y procedimientos administrativos que establezca el Reglamento Interior para premiar o penalizar a los elementos adscritos a la Secretaría de Seguridad Municipal, a través de la Comisión de Honor y Justicia en Materia de Seguridad Municipal.
+
+> <small>(REFORMADO, P.O. 27 DE JULIO DE 2011)</small>
+
+Para el despacho de los asuntos competencia de la Secretaría de la Contrataría y Transparencia Municipal, su titular se auxiliará directamente de las siguientes Direcciones: Dirección de Auditoría; Dirección de Normatividad, Transparencia y Cuenta Pública; Dirección Jurídica; Comisión de Honor y Justicia en Materia de Seguridad Municipal y demás unidades administrativas que resulten necesarias.
 
 ###### ARTÍCULO 35.
 
@@ -1531,9 +1537,9 @@ Para lo no previsto en el presente Reglamento, se atenderá a lo dispuesto por l
 
 ## TRANSITORIOS
 
-> <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 27 DE JULIO DE 2011)</small>
 
-Artículo Primero. Las presentes reformas por modificación, adición y derogación al Reglamento de Orgánico de la Administración Pública Municipal de San Pedro Garza García, Nuevo León, entrarán en vigor el día de su publicación en el Periódico Oficial del Estado de Nuevo León.
+Artículo Primero. Las presentes reformas por modificación y adición al Reglamento Orgánico de la Administración Pública Municipal de San Pedro García, Nuevo León, entrarán en vigor el día de su publicación en el Periódico Oficial del Estado de Nuevo León.
 
 Artículo Segundo. Se Aprueba el Reglamento Orgánico de la Administración Pública Municipal de San Pedro Garza García, Nuevo León, en los términos que se exponen en el contenido del presente escrito.
 
@@ -1601,6 +1607,12 @@ Artículo Tercero.- Las referencias establecidas en los diversos reglamentos y l
 
 P.O. 12 DE NOVIEMBRE DE 2010.
 
-Artículo Primero.- Las presentes reformas por modificación, adición y derogación al Reglamento de Orgánico de la Administración Pública Municipal de San Pedro Garza García, Nuevo León, entrarán en vigor el día de su publicación en el Periódico Oficial del Estado de Nuevo León.
+Artículo Primero.- Las presentes reformas por modificación, adición y derogación al Reglamento de Orgánico de la Administración Pública Municipal de San Pedro Garza García, Nuevo León, entrarán en vigor el día de su publicación en el Periódico Oficial del Estado de Nuevo León..
+
+...
+
+P.O. 27 DE JULIO DE 2011.
+
+Artículo Primero.- Las presentes reformas por modificación y adición al Reglamento Orgánico de la Administración Pública Municipal de San Pedro García, Nuevo León, entrarán en vigor el día de su publicación en el Periódico Oficial del Estado de Nuevo León.
 
 ...
