@@ -4,7 +4,7 @@ identifier: "MOR-reglamento-de-gobierno-y-administracion-del-ayuntamiento-de-730
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-02-10"
-last_updated: "2011-05-11"
+last_updated: "2011-07-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=73081&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "MOR"
 ---
 # REGLAMENTO DE GOBIERNO Y ADMINISTRACION DEL AYUNTAMIENTO DE CUERNAVACA, MORELOS
 
-REGLAMENTO DE GOBIERNO Y ADMINISTRACION DEL AYUNTAMIENTO DE CUERNAVACA, MORELOS
+REGLAMENTO DE GOBIERNO Y ADMINISTRACIÓN DEL AYUNTAMIENTO DE CUERNAVACA, MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE MAYO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE JULIO DE 2011.
 
 Reglamento publicado en la Segunda Sección del Periódico Oficial del Estado de Morelos, el miércoles 10 de febrero de 2010.
 
@@ -213,7 +213,11 @@ VI.- Coordinación Administrativa;
 
 VII.- Asesor Jurídico; y
 
-VIII.- Las demás unidades administrativas, que sean necesarias para el desempeño de las funciones del Presidente Municipal y que se establezcan en e! Programa Operativo Anual y en el Presupuesto de Egresos.
+VIII.- Las demás unidades administrativas, que sean necesarias para el desempeño de las funciones del Presidente Municipal y que se establezcan en el Programa Operativo Anual y en el Presupuesto de Egresos.
+
+> <small>(ADICIONADO, P.O. 27 DE JULIO DE 2011)</small>
+
+El Ayuntamiento contará con consejos, comités u otros organismos de participación ciudadana que prevean las leyes, reglamentos o acuerdos, para el desempeño de las actividades para las cuales sean creados y se adscribirán a la dependencia, que en las citadas disposiciones se establezcan.
 
 El Presidente Municipal, por conducto de la Consejería Jurídica se encargará de vigilar el cumplimiento que den los ciudadanos que opten por conmutar sus multas y recargos por trabajos a favor de la comunidad, mediante el convenio que signarán para tal efecto.
 
@@ -681,7 +685,7 @@ Los integrantes del Ayuntamiento vigilarán que los acuerdos del Cabildo se cump
 
 Las dependencias municipales por conducto de los servidores públicos, están obligados a proporcionar la información que les sea requerida por el Síndico Municipal o los regidores, sea de manera individual o a través de las comisiones, con excepción de aquella a que la ley considere de uso reservado.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 1 DE SEPTIEMBRE DE 2010)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 1 DE SEPTIEMBRE DE 2010)</small>
 
 ### CAPÍTULO IV BIS. ASUNTOS GENERALES
 
@@ -1867,9 +1871,11 @@ f).- Dirección de Atención de Adultos Mayores;
 
 g).- Dirección de Asuntos Migratorios;
 
-h).- Dirección de la Mujer, y
+> <small>(REFORMADO, P.O. 27 DE JULIO DE 2011)</small>
 
-i).- Dirección de Cultura y Actividades Artísticas.
+h).- Dirección de la Instancia Municipal de la Mujer;
+
+i).- (DEROGADO, P.O. 27 DE JULIO DE 2011)
 
 > <small>(ADICIONADA, P.O. 1 DE SEPTIEMBRE DE 2010)</small>
 
@@ -1877,7 +1883,7 @@ II.- Coordinación General de Desarrollo Social;
 
 III.- Coordinación Administrativa.
 
-> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 1 DE SEPTIEMBRE DE 2010)</small>
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 1 DE SEPTIEMBRE DE 2010)</small>
 
 ### CAPÍTULO X
 
@@ -2175,7 +2181,7 @@ MANUEL RODRIGO GAYOSSO CEPEDA
 
 RÚBRICAS
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 1 DE SEPTIEMBRE DE 2010.
 
@@ -2187,7 +2193,7 @@ TERCERO- Publíquese en el Periódico Oficial "Tierra y Libertad" del Gobierno d
 
 P.O. 11 DE MAYO DE 2011.
 
-ACUERDO AC/SO/25-III-11/228 POR EL QUE SE REFORMA EL ARTICULO 15 DEL REGLAMENTO DE GOBIERNO Y ADMINISTRACION DEL AYUNTAMIENTO DE CUERNAVACA, MORELOS.
+ACUERDO AC/SO/25-III-11/228 POR EL QUE SE REFORMA EL ARTÍCULO 15 DEL REGLAMENTO DE GOBIERNO Y ADMINISTRACIÓN DEL AYUNTAMIENTO DE CUERNAVACA, MORELOS.
 
 PRIMERO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad" órgano de difusión del Gobierno del Estado.
 
@@ -2197,10 +2203,18 @@ TERCERO.- Publíquese en la Gaceta Municipal.
 
 P.O. 11 DE MAYO DE 2011.
 
-ACUERDO AC/SO/25-III-11/229 MEDIANTE EL CUAL SE REFORMAN LAS FRACCIONES XXXIV Y XXXV; SE ADICIONA UNA FRACCION XXXVI AL ARTICULO 136 Y SE REFORMA EL INCISO F) DE LA FRACCION I DEL ARTICULO 137 DEL REGLAMENTO DE GOBIERNO Y ADMINISTRACION DEL AYUNTAMIENTO DE CUERNAVACA, MORELOS.
+ACUERDO AC/SO/25-III-11/229 MEDIANTE EL CUAL SE REFORMAN LAS FRACCIONES XXXIV Y XXXV; SE ADICIONA UNA FRACCIÓN XXXVI AL ARTÍCULO 136 Y SE REFORMA EL INCISO F) DE LA FRACCIÓN I DEL ARTÍCULO 137 DEL REGLAMENTO DE GOBIERNO Y ADMINISTRACIÓN DEL AYUNTAMIENTO DE CUERNAVACA, MORELOS.
 
 PRIMERO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad" órgano de difusión del Gobierno del Estado y en la Gaceta Municipal.
 
 SEGUNDO.- En un término no mayor a treinta días naturales, se deberá adecuar la normatividad que sufre alguna modificación con la presente reforma.
 
 TERCERO.- Se instruye a la Secretaría del Ayuntamiento, a la Tesorería Municipal, a la Oficialía Mayor, a la Secretaría de Protección y Auxilio Ciudadano, así como a las demás dependencias involucradas, a realizar los trámites conducentes para dar cumplimiento a lo dispuesto en el presente acuerdo, dentro del ámbito de sus respectivas competencias y de conformidad con las disposiciones legales aplicables.
+
+P.O. 27 DE JULIO DE 2011.
+
+PRIMERO.- El presente acuerdo entrará en vigor el mismo día de su aprobación por el Cabildo.
+
+SEGUNDO.- Publíquese el presente Acuerdo en el Periódico Oficial "Tierra y Libertad" órgano de difusión oficial que edita el Gobierno del Estado de Morelos y en la Gaceta Municipal.
+
+TERCERO.- Los recursos humanos, materiales y financieros, asignados a la Dirección de Cultura, serán trasladados al Consejo de Cultura de Cuernavaca, Morelos, debiéndose de adecuar la normatividad correspondiente para tal efecto, con la intervención de la Oficialía Mayor, Tesorería y de la Sindicatura Municipal por conducto de la Dirección de Patrimonio.
