@@ -4,7 +4,7 @@ identifier: "TAB-reglamento-interior-de-la-direccion-de-la-policia-43216"
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-12-22"
-last_updated: "2004-12-22"
+last_updated: "2011-07-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=43216&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "TAB"
 ---
 # REGLAMENTO INTERIOR DE LA DIRECCION DE LA POLICIA PREVENTIVA DEL MUNICIPIO DE CARDENAS, TABASCO
 
-REGLAMENTO INTERIOR DE LA DIRECCION DE LA POLICIA PREVENTIVA DEL MUNICIPIO DE CARDENAS, TABASCO
+REGLAMENTO INTERIOR DE LA DIRECCIÓN DE LA POLICÍA PREVENTIVA DEL MUNICIPIO DE CÁRDENAS, TABASCO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO OCTAVO TRANSITORIO DEL REGLAMENTO DEL SERVICIO DE CARRERA DE LA POLICÍA PREVENTIVA MUNICIPAL. CARDENAS, TABASCO, PUBLICADO EN EL P.O. DE 27 DE JULIO DE 2011, EL PRESENTE ORDENAMIENTO HA SIDO DEROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: DEROGADO.
 
 Reglamento publicado en el Suplemento del Periódico Oficial del Estado de Tabasco, el miércoles 22 de diciembre de 2004.
 
@@ -610,3 +612,23 @@ PRESIDENTE MUNICIPAL
 C. SALVADOR AQUINO ALMEDIA
 
 SECRETARIO DEL AYUNTAMIENTO
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 27 DE JULIO DE 2011.
+
+PRIMERO.- El presente Reglamento, entrara en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado. El Servicio de Carrera de la Policía Preventiva Municipal, se irá estableciendo gradualmente así como los Órganos para su operación, a que se refiere este procedimiento de conformidad con las disposiciones presupuestales y los acuerdos que se celebren con el Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Reglamento.
+
+TERCERO.- El Municipio celebrará Convenios de Coordinación con el Estado, con objeto de ir implementando gradualmente el Servicio de Carrera de la Policía Preventiva Municipal, en los términos de su legislación interna y el presente Reglamento.
+
+CUARTO.- EI Municipio realizará todas las acciones de coordinación necesarias, a fin de proceder, desde luego, a elaborar el perfil del puesto por competencia del Servicio de Carrera de la Policía Preventiva Municipal.
+
+QUINTO.- Mientras se expidan los manuales de organización, procedimientos y servicios al público, el Presidente Municipal queda facultado para resolver lo relativo al Servicio de Carrera de la Policía Preventiva Municipal y contará con un plazo de noventa días para expedir su normatividad interior, a partir de la entrada en vigor del presente Reglamento.
+
+SEXTO.- Los órganos a que se refiere el presente Reglamento, se integraran en un terminó no mayor de sesenta días a la publicación del mismo, en los términos del convenio de coordinación celebrado con el Estado.
+
+SEPTIMO.- Cuando las funciones o atribuciones de alguna unidad administrativa municipal, establecida con anterioridad a la vigencia de este Reglamento, deban ser ejercidas por alguna otra unidad de las que el mismo establece, o cuando se cambie de adscripción, del personal, mobiliario, archivo y en general el equipo que aquélla haya utilizado, pasarán a la unidad que previamente se determine.
+
+OCTAVO.- Queda derogado el REGLAMENTO INTERIOR DE LA DIRECCION DE LA POLICIA PREVENTIVA, de fecha veintisiete de Septiembre del año dos mil cuatro, publicado en el Periódico Oficial del Gobierno del Estado, en el Suplemento D 6500, de fecha veintidós de Diciembre del año dos mil cuatro.
