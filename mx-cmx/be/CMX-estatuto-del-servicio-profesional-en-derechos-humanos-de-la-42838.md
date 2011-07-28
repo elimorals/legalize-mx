@@ -4,7 +4,7 @@ identifier: "CMX-estatuto-del-servicio-profesional-en-derechos-humanos-de-la-428
 country: "mx"
 rank: "estatuto"
 publication_date: "2005-01-31"
-last_updated: "2011-02-14"
+last_updated: "2011-07-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=42838&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,9 @@ issue_date: "2004-10-12"
 
 ESTATUTO DEL SERVICIO PROFESIONAL EN DERECHOS HUMANOS DE LA COMISION DE DERECHOS HUMANOS DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 14 DE FEBRERO DE 2011.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO ARTICULO PRIMERO DEL ESTATUTO DEL SERVICIO PROFESIONAL EN DERECHOS HUMANOS, PUBLICADO EN LA G.O. DE 28 DE JULIO DE 2011, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: ABROGADO.
 
 Estatuto publicado en el Número Bis de la Gaceta Oficial del Distrito Federal, el lunes 31 de enero de 2005.
 
@@ -1071,3 +1073,17 @@ G.O. 14 DE FEBRERO DE 2011.
 SE TRANSCRIBE UNICAMENTE EL ARTICULO SEGUNDO DEL ACUERDO QUE SE RELACIONA CON EL PRESENTE ORDENAMIENTO.
 
 SEGUNDO.- El presente Acuerdo entrará en vigor al siguiente día hábil de su publicación en la Gaceta Oficial del Distrito Federal, derogándose todas aquellas disposiciones del Estatuto del Servicio Profesional en Derechos Humanos de la Comisión de Derechos Humanos del Distrito Federal y de su Manual de Procedimientos Específicos que contravengan el presente Acuerdo.
+
+G.O. 28 DE JULIO DE 2011.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Estatuto entrará en vigor al siguiente día hábil de su publicación en la Gaceta Oficial del Distrito Federal, abrogando el Estatuto del Servicio Profesional en Derechos Humanos publicado en la Gaceta Oficial del Distrito Federal de fecha 31 de enero de 2005, así como el Manual de Procedimientos Específicos del Servicio Profesional en Derechos Humanos, aprobado por el Consejo de la Comisión de Derechos Humanos del Distrito Federal, en sesión ordinaria de fecha 23 de noviembre de 2004, ambos de la Comisión de Derechos Humanos del Distrito Federal.
+
+###### ARTÍCULO SEGUNDO.
+
+Hasta en tanto no entre en vigor el presente Estatuto, subsistirá en sus términos el Estatuto del Servicio Profesional en Derechos Humanos de la Comisión de Derechos Humanos del Distrito Federal y su Manual de Procedimientos Específicos que se abrogan.
+
+###### ARTÍCULO TERCERO.
+
+Los procedimientos que se hayan iniciado conforme a las disposiciones del Estatuto y Manual que se abrogan, se sustanciarán hasta su conclusión de conformidad con los preceptos de dicho ordenamiento legal; debiendo al efecto considerar que las disposiciones que hagan referencia a la Dirección General de Educación, se entenderán legalmente conferidas a la Coordinación del Servicio Profesional en Derechos Humanos.
