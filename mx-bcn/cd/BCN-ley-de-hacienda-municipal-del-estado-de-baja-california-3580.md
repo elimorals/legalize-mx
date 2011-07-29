@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-hacienda-municipal-del-estado-de-baja-california-3580"
 country: "mx"
 rank: "ley"
 publication_date: "1953-12-31"
-last_updated: "2010-10-15"
+last_updated: "2011-07-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3580&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "BCN"
 ---
 # LEY DE HACIENDA MUNICIPAL DEL ESTADO DE BAJA CALIFORNIA
 
-> <small>N. DE E. PARA CONSULTAR LA VERSION CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 29 DE JULIO DE 2011 EN EL P.O. DEL ESTADO DE BAJA CALIFORNIA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGIA CORRESPONDIENTE A DICHA FECHA, EN EL INDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 LEY DE HACIENDA MUNICIPAL DEL ESTADO DE BAJA CALIFORNIA
 
 ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE OCTUBRE DE 2010.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIODICO OFICIAL DEL 29 DE JULIO DE 2011.</small>
 
 Ley publicada en la Sección Quinta del Periódico Oficial del Estado de Baja California, el 31 de diciembre de 1953.
 
@@ -709,8 +709,6 @@ XIV.- Las sociedades, agrupaciones, empresas o personas físicas que exploten bo
 
 XV.- Para los efectos de este Impuesto se tomarán en cuenta la (sic) definiciones que sobre las distintas clases de predios y construcciones contiene la Ley del Catastro Inmobiliario del Estado de Baja California.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSION CORREGIDA DE ESTE ARTICULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 29 DE JULIO DE 2011 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGIA CORRESPONDIENTE A DICHA FECHA, EN EL INDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA, ASI COMO EL ARCHIVO ANEXO.</small>
-
 > <small>(REFORMADO, P.O. 30 DE ABRIL DE 2010)</small>
 
 ARTICULO 75 Bis B.- Se establece el Impuesto sobre adquisición de inmuebles, el cual se regirá de la siguiente forma:
@@ -779,7 +777,9 @@ a) Por donación, herencia o legado entre cónyuges;
 
 b) Por donación, herencia o legado que se realicen de padres a hijos o de hijos a padres;
 
-c) En las operaciones en que los adquirentes sean asociaciones civiles que no persigan fines de lucro; y,
+(REFORMADO, P.O. 15 DE OCTUBRE DE 2010)(F. DE E., P.O. 29 DE JULIO DE 2011)
+
+c) En las operaciones en que los adquirentes sean asociaciones civiles, o asociaciones religiosas que no persigan fines de lucro, y;
 
 d) Por la adquisición de terrenos a través de títulos de propiedad, expedidos por el Registro Agrario Nacional que obtengan los ejidatarios.
 
@@ -2371,8 +2371,8 @@ Artículo Primero.- La presente reforma entrará en vigor al día siguiente de s
 
 Artículo Segundo.- Dentro del término de 60 días siguientes a la entrada en vigor de la presente reforma, los Municipios deberán realizar las adecuaciones necesarias a sus reglamentos correspondientes.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSION CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 29 DE JULIO DE 2011 EN EL P.O. DEL ESTADO DE BAJA CALIFORNIA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGIA CORRESPONDIENTE A DICHA FECHA, EN EL INDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 P.O. 15 DE OCTUBRE DE 2010.
 
-LA MODIFICACION CON ANTELACION CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DEL TEXTO ACTUALIZADO EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3 DEL CODIGO CIVIL FEDERAL.
+> <small>(F. DE E., P.O. 29 DE JULIO DE 2011)</small>
+
+ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
