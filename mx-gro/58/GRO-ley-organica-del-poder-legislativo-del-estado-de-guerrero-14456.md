@@ -4,7 +4,7 @@ identifier: "GRO-ley-organica-del-poder-legislativo-del-estado-de-guerrero-14456
 country: "mx"
 rank: "ley_organica"
 publication_date: "1999-06-11"
-last_updated: "2011-02-22"
+last_updated: "2011-07-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14456&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE GUERRERO NUMERO 286
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE FEBRERO DE 2011.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE JULIO DE 2011.
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el viernes 11 de junio de 1999.
 
@@ -673,11 +673,15 @@ Las Comisiones y Comités ordinarios tendrán el carácter de definitivos y sus 
 
 Sólo por causas graves o por inasistencia en más de tres ocasiones, con el voto de la mayoría de los Diputados asistentes a la sesión correspondiente, podrá suspenderse temporal o definitivamente o removerse del cargo a quien integre alguna Comisión o Comité, efectuándose por el Congreso el nombramiento del o de los Diputados sustitutos, con el carácter de temporal o definitivo, para completar el año para el que fue designado el removido.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE JULIO DE 2011)</small>
+
 ###### Artículo 48.
 
-Cada Comisión y Comité se integrará por cinco Diputados, salvo lo que expresamente prevea esta Ley para determinadas Comisiones.
+Cada Comisión y Comité se integrara por cinco Diputados, salvo lo que expresamente prevea esta Ley para determinadas Comisiones. A propuesta de la Comisión de Gobierno el número de integrantes de las Comisiones y Comités Legislativos podrá aumentarse hasta seis, siempre y cuando así lo apruebe el Pleno del Congreso.
 
-Toda Comisión y Comité contará con un Presidente y un Secretario; procurando que en su integración se refleje la pluralidad del Congreso.
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2011)</small>
+
+Toda Comisión y Comité contará con un Presidente y un Secretario; procurando que en su integración se refleje la Pluralidad del Congreso. En caso de empate en sus votaciones, el Presidente tendrá voto de calidad.
 
 La integración de Comisiones y Comités especiales se hará en la forma prevista en el párrafo anterior.
 
@@ -2656,3 +2660,11 @@ Publíquese en el Periódico Oficial del Gobierno del Estado para el conocimient
 ###### ARTÍCULO TERCERO.
 
 La integración de la Comisión de Cultura será designada por la Comisión de Gobierno.
+
+P.O. 29 DE JULIO DE 2011.
+
+PRIMERO.- El presente Decreto entrará en vigor a partir de la fecha de su aprobación.
+
+SEGUNDO.- Una vez aprobado el presente Decreto, hágase la nueva integración de las Comisiones y Comités, según proceda.
+
+SEGUNDO (SIC).- Publíquese en el Periódico Oficial del Gobierno del Estado, para su conocimiento y efectos legales procedentes en términos del artículo 1° de la Ley Orgánica del Poder Legislativo en vigor.
