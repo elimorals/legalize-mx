@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-de-notimex-agencia-de-noticias-del-estado-711
 country: "mx"
 rank: "estatuto"
 publication_date: "2009-12-21"
-last_updated: "2010-04-09"
+last_updated: "2011-07-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=71179&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2009-12-03"
 
 ESTATUTO ORGANICO DE NOTIMEX, AGENCIA DE NOTICIAS DEL ESTADO MEXICANO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 9 DE ABRIL DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 29 DE JULIO DE 2011.
 
 Estatuto publicado en la Segunda Sección del Diario Oficial de la Federación, el lunes 21 de diciembre de 2009.
 
@@ -737,11 +737,25 @@ Los servidores públicos a que se refiere el párrafo anterior, en el ámbito de
 
 Las ausencias del Titular del Organo Interno de Control, así como de los titulares de las áreas de auditoría, quejas y responsabilidades serán suplidas de conformidad con lo previsto en el artículo 88, del Reglamento Interior de la Secretaría de la Función Pública.
 
-## TITULO SEPTIMO. DE LA SUPLENCIA DE LOS SERVIDORES PUBLICOS
+> <small>(REFORMADA SU DENOMINACION, D.O.F. 29 DE JULIO DE 2011)</small>
+
+## TITULO SEPTIMO. DE LA SUPLENCIA, NOMBRAMIENTO Y REMOCION DE LOS SERVIDORES PUBLICOS
 
 ###### ARTICULO 52.
 
 Las ausencias del titular de cualquier Unidad Administrativa, será suplida por el servidor público de la jerarquía inmediata inferior, según la naturaleza de los asuntos.
+
+> <small>(ADICIONADO, D.O.F. 29 DE JULIO DE 2011)</small>
+
+ARTICULO 52 BIS.- Las ausencias temporales o definitivas del Director General serán suplidas por el Director Editorial, de Noticias Internacionales, de Producción, de Asuntos Jurídicos, de Administración y Finanzas y de Comercialización, en el orden mencionado, quien atenderá y despachará los asuntos establecidos por la Ley que crea la Agencia de Noticias del Estado Mexicano para este cargo.
+
+> <small>(ADICIONADO, D.O.F. 29 DE JULIO DE 2011)</small>
+
+ARTICULO 52 TER.- El nombramiento de los servidores públicos de la Entidad que ocupen cargos dentro de las dos jerarquías administrativas inferiores a las del Director General se efectuará conforme al mecanismo detallado en el Apéndice número 1.
+
+> <small>(ADICIONADO, D.O.F. 29 DE JULIO DE 2011)</small>
+
+ARTICULO 52 QUATER.- La remoción de los servidores públicos de la Entidad que ocupen cargos dentro de las dos jerarquías administrativas inferiores a las del Director General se llevará a cabo en apego al mecanismo detallado en el Apéndice número 2.
 
 ## TITULO OCTAVO. DEL PATRIMONIO DE LA AGENCIA
 
@@ -809,8 +823,476 @@ Lic. Sergio Uzeta Murcio
 
 Rúbrica.
 
+> <small>(ADICIONADO, D.O.F. 29 DE JULIO DE 2011)</small>
+
+APENDICE NUMERO 1
+
+Mecanismo de Nombramiento de los servidores públicos de Notimex, Agencia de Noticias del Estado Mexicano
+
+1. Introducción.
+
+La Ley que crea la Agencia de Noticias del Estado Mexicano menciona, de conformidad con su artículo 12, que a la Junta de Gobierno y al Director General de la Agencia les corresponde la Dirección y Administración de este Organismo. Este ordenamiento jurídico les otorga atribuciones fundamentales para conducir a la Agencia.
+
+A fin de llevar a cabo la tarea de Dirección y Administración de la Agencia, el Director General de la Agencia contará con el apoyo directo de los Directores y Subdirectores de las diversas Areas de la Entidad.
+
+Para el nombramiento de los servidores públicos señalados en el párrafo anterior, la Ley que crea la Agencia de Noticias del Estado Mexicano en su artículo 13 fracción IX establece que esto es facultad indelegable de la Junta de Gobierno; “Nombrar y Remover, a propuesta del Director General, a los Servidores Públicos del organismo que ocupen cargo dentro de las dos jerarquías administrativas inferiores a las del primero, en los términos que señale el Estatuto Orgánico”, esto es reafirmado por el artículo 20 fracción XVIII de la citada ley que hace alusión a las facultades y obligaciones del Director General de la Agencia: “Nombrar a los servidores públicos del organismo, a excepción de aquellos que ocupen los dos niveles jerárquicos inmediatos inferiores a su cargo, en cuyo caso se concretará a proponer a los candidatos a la Junta de Gobierno que, en última instancia expedirá el nombramiento respectivo”.
+
+De los ordenamientos antes citados se desprende que el Director General de la Agencia, es quien tiene la facultad para proponer candidatos para ocupar los cargos de Directores y Subdirectores de las diversas áreas de la Entidad, y que la Junta de Gobierno es la encargada de nombrar a éstos; sin embargo, no se establece ningún procedimiento o mecanismo para llevar a cabo esto.
+
+De tal forma, es indispensable contar con el mecanismo para el nombramiento de los servidores públicos de la Agencia que ocuparán un cargo dentro de las dos jerarquías administrativas inferiores a las del Director General. El Mecanismo de Nombramiento que se describe en el presente documento tiene como premisa fundamental, el aportar la información necesaria a los integrantes de la Junta de Gobierno, a efecto de conocer el perfil laboral, académico, experiencia, y capacidades de los candidatos que en su oportunidad proponga el Director General de la Agencia para ocupar cargos, de Director o Subdirector de Area, según sea el caso, y que con estos elementos la Junta de Gobierno, pueda tomar las decisiones que considere pertinentes.
+
+2. Objetivo.
+
+Lograr la implementación de un sistema claro, transparente, apegado a derecho y que proporcione la información necesaria a los integrantes de la Junta de Gobierno, para que una vez que realicen el análisis de los candidatos propuestos por el Director General, así como la votación requerida, se proceda al nombramiento de los servidores públicos de Notimex, Agencia de Noticias del Estado Mexicano que ocupen cargos dentro de las dos jerarquías administrativas inferiores a las de él.
+
+3. Definiciones.
+
+Para los efectos del presente Mecanismo, se entenderá por:
+
+I. Ley: Ley que crea la Agencia de Noticias del Estado Mexicano;
+
+II. Agencia: Notimex, Agencia de Noticias del Estado Mexicano;
+
+III. Director General: El Director General de Notimex, Agencia de Noticias del Estado Mexicano;
+
+IV. Junta de Gobierno: La Junta de Gobierno de Notimex, Agencia de Noticias del Estado Mexicano;
+
+V. Estatuto: Estatuto Orgánico de Notimex, Agencia de Noticias del Estado Mexicano;
+
+VI. Reglamento: Reglamento de Sesiones de la Junta de Gobierno de Notimex, Agencia de Noticias del Estado Mexicano;
+
+VII. Presidente de la Junta de Gobierno: El Presidente de la Junta de Gobierno de Notimex, Agencia de Noticias del Estado Mexicano;
+
+VIII. Secretario: El Secretario de la Junta de Gobierno de Notimex, Agencia de Noticias del Estado Mexicano; y
+
+IX. Candidato: Persona propuesta por el Director General de Notimex, Agencia de Noticias del Estado Mexicano para ocupar un cargo en la Agencia dentro de las dos áreas jerárquicas administrativas inferiores a las del primero.
+
+4. Marco Normativo.
+
+- Constitución Política de los Estados Unidos Mexicanos.
+
+- Ley Federal de Responsabilidades Administrativas de los Servidores Públicos.
+
+- Ley Federal del Trabajo.
+
+- Ley que crea la Agencia de Noticias del Estado Mexicano.
+
+- Ley Orgánica de la Administración Pública Federal.
+
+- Estatuto Orgánico de Notimex, Agencia de Noticias del Estado Mexicano.
+
+- Reglamento Interior de Trabajo de Notimex, Agencia de Noticias del Estado Mexicano.
+
+- Manual General de Organización de Notimex, Agencia de Noticias del Estado Mexicano.
+
+- Reglamento de Sesiones de la Junta de Gobierno de Notimex, Agencia de Noticias del Estado Mexicano.
+
+5. Políticas.
+
+- El Director General de la Agencia es la única autoridad que está facultada para proponer a la Junta de Gobierno a aquellos servidores públicos del Organismo, que ocupen cargos dentro de las dos jerarquías administrativas inferiores a las de él.
+
+- El Director General de la Agencia propondrá a la Junta de Gobierno un solo candidato para ocupar cada una de las Direcciones y Subdirecciones de las áreas que integran la Agencia.
+
+- La Junta de Gobierno a propuesta del Director General, nombrará a los servidores públicos de la Agencia, que ocupen cargos dentro de las dos jerarquías administrativas inferiores a las del primero, una vez que se haya realizado la votación respectiva por parte de los integrantes de la Junta de Gobierno y el candidato sea electo por mayoría simple.
+
+- La Dirección de Administración y Finanzas será la responsable de llevar a cabo la revisión curricular y documental de los aspirantes a ocupar el cargo de Director y Subdirector de área. Para tal efecto, la documentación exhibida por los aspirantes a ocupar los cargos dentro de la Agencia, deberá estar debidamente certificada, por lo que una vez revisada ésta, se emitirán sendos oficios donde se detalle el cumplimiento de este requisito.
+
+- El Director General de la Agencia deberá asistir a la Sesión en el que los integrantes de la Junta de Gobierno, nombrarán a los servidores públicos del Organismo que ocupen cargos dentro de las dos jerarquías administrativas inferiores a las de él, presentando la propuesta de su candidato a ocupar alguno de los cargos antes detallados debidamente sustentada.
+
+- La carpeta que contenga la información relativa a los candidatos que habrán de ocupar los cargos de Directores y Subdirectores de áreas de la Agencia, se deberá de entregar a los miembros de la Junta de Gobierno, por lo menos con 10 días hábiles de anticipación a la fecha de la Sesión, en la cual se discuta la propuesta de nombramiento.
+
+- Quien funja como Presidente de la Sesión de la Junta de Gobierno en la que el Director General de la Agencia, proponga al candidato a ocupar cargo dentro de las dos jerarquías administrativas inferiores a las de él, expedirá el nombramiento referido, una vez realizada la votación respectiva por parte de los miembros de la Junta con derecho a voto.
+
+- La relación de subordinación jerárquica entre la Agencia y los Directores y Subdirectores de área se formalizará a través del nombramiento.
+
+6. Lineamientos aplicables.
+
+El presente Mecanismo de Nombramiento de Servidores Públicos es válido para ocupar las plazas vacantes, y las de nueva creación, en los niveles jerárquicos de Director y Subdirector de área, y deberá de ajustarse a la normatividad que emita el Poder Ejecutivo, las Secretarías de Hacienda y Crédito Público y de la Función Pública, en el ámbito de sus competencias.
+
+Fases.
+
+El proceso para la selección de los candidatos a ocupar los cargos de Director y Subdirector de área, comprenderá las fases siguientes:
+
+I.- De revisión curricular y documental;
+
+II.- De análisis (del Perfil del Puesto), que a su vez se divide en dos etapas:
+
+a) La integración y envío- entrega de carpeta y
+
+b) Desarrollo de la Sesión de Junta de Gobierno;
+
+III.- Formalización del nombramiento.
+
+La acreditación de cada fase y etapa será determinante para que el candidato pueda continuar en el proceso de nombramiento.
+
+I.- De revisión curricular y documental;
+
+Los candidatos a ocupar cargos de Director y Subdirector de área dentro de la Agencia deberán ser mayores de treinta años de edad, de nacionalidad mexicana, contar con Licenciatura acorde al área en que se desempeñarían y/o con una experiencia mínima de 5 (cinco) años en la materia de conocimiento en la que sea propuesto para ocupar el cargo de Director y de 3 (tres) años en el caso de Subdirectores, en la materia de conocimiento en que sea propuesto. Los Candidatos deberán entregar al Titular de la Dirección de Administración y Finanzas:
+
+a) Formato de currículo debidamente requisitado y firmado (Anexo No. 1).
+
+b) Solicitud de empleo
+
+c) Copia certificada del Acta de Nacimiento.
+
+d) Copia y original, para su cotejo, de la Constancia de Estudios (que acredite los datos asentados en el inciso a) de este apartado).
+
+e) Copia y Original, para su cotejo, de la Clave Unica de Registro de Población (CURP) y del Registro Federal de Contribuyentes (RFC).
+
+f) Original de la Constancia de no inhabilitación, expedida por la Secretaría de la Función Pública.
+
+g) Copia y original para su cotejo del comprobante de domicilio que concuerde con los datos asentados en el inciso a).
+
+h) Original de Certificado Médico.
+
+i) Original y copia, para su cotejo, que contenga número de Seguridad Social, en caso de contar con él.
+
+j) En caso de que proceda, Copias certificadas de las Actas de Matrimonio y/o Nacimiento de los Hijos.
+
+k) Hoja de INFONAVIT, si cuenta con crédito, expedido por esta Institución.
+
+l) Copia y original, para su cotejo, de Identificación Oficial con fotografía.
+
+(Credencial para votar, Cédula Profesional o Pasaporte Vigente).
+
+La Dirección de Administración y Finanzas revisará en forma detallada la documentación presentada por el candidato y, en su caso, constatará que el candidato acredite los estudios con los que se ostenta, y si cuenta con título de licenciatura, constará que su Cédula Profesional se encuentre inscrita ante la Dirección General de Profesiones de la Secretaría de Educación Pública, emitiendo oficio dirigido al Secretario de la Junta de Gobierno, dicho oficio contendrá dictamen, cuando éste sea aprobatorio anexará copia fotostática de la documentación señalada, para su integración en la carpeta que habrá de entregarse a los miembros de la Junta de Gobierno.
+
+II.- Del perfil del puesto:
+
+Será responsabilidad de la Dirección de Administración y Finanzas, tomando en consideración la documentación presentada por el candidato y su experiencia descrita en su currículo, determinar si éste cumple con el perfil del puesto exigido por la Agencia. Lo cual, comunicará mediante oficio al Secretario de la Junta de Gobierno.
+
+III.- De análisis:
+
+a) Integración y envío entrega de carpeta a los integrantes de la Junta de Gobierno.
+
+- El Presidente de la Junta de Gobierno, a solicitud del Director General de la Agencia, instruirá mediante oficio al Secretario de la Junta de Gobierno para que elabore la propuesta del Orden del Día de la Sesión de Junta de Gobierno y de solicitud de acuerdo en la que el único punto a tratar será el nombramiento de los candidatos propuestos para ocupar el respectivo cargo en el Organismo dentro de los dos niveles jerárquicos administrativos inferiores a los de Director General.
+
+- El Secretario de la Junta de Gobierno preparará el proyecto de Orden del Día y de la solicitud de acuerdo detalladas en el punto anterior, anexando para tales efectos la documentación a que se hace mención en el punto número I. Titulado “De revisión curricular y documental”, incluyendo el Dictamen emitido por la Dirección de Administración y Finanzas.
+
+- El Secretario de la Junta de Gobierno a través de oficio, enviará a los miembros de la Junta de Gobierno el proyecto del Orden del Día y de solicitud de acuerdo que se describió en el punto que antecede.
+
+- Si el Presidente de la Junta de Gobierno o alguno de los miembros de ésta, no tienen ninguna observación referente a la documentación que se hace alusión, ordenará al Secretario para que convoque a los integrantes de la Junta y a las personas que estime conveniente, a sesionar por lo menos con 5 (cinco) días hábiles de anticipación a la fecha de la Sesión, este plazo es con el objeto de que los integrantes de la Junta cuenten con el tiempo suficiente para analizar la documentación que se les entregue.
+
+- En caso contrario el Secretario atenderá las observaciones del Presidente y de los miembros, se reiniciará el procedimiento descrito en este punto.
+
+- El Secretario emitirá la Convocatoria a Sesión conteniendo el día, la hora y el domicilio de su celebración, así como el Orden del Día. Esta se acompañará con los documentos que ya han quedado detallados en el presente documento.
+
+b) Desarrollo de la Sesión de Junta de Gobierno.
+
+- El día y la hora señalados para la celebración de la Sesión, se deberá contar con el Quórum Legal, para que ésta se lleve a cabo, en los términos establecidos por el Reglamento de Sesiones de la Junta de Gobierno.
+
+- El candidato en cuestión, no estará presente durante el desarrollo de la Sesión, pero se encontrará en la sala de espera de la Dirección General o en el lugar que para tal efecto le asigne el Secretario, donde permanecerá todo el tiempo que dure la Sesión, a fin de que concurra ante los miembros de la Junta si éstos así lo solicitaran.
+
+- Iniciada la Sesión y, una vez que el Presidente de la Junta lo autorice, el Director General de la Agencia presentará la solicitud de acuerdo, que debe de contener información que sustente su propuesta, resaltando su perfil laboral, académico y las capacidades técnicas del candidato, su trayectoria y cualquier dato que se considere importante.
+
+- Una vez presentada la solicitud de acuerdo, el Presidente concederá el uso de la palabra a los integrantes de la Junta de Gobierno, para que expresen sus comentarios al respecto.
+
+- Los integrantes de la Junta de Gobierno por mayoría simple de votos, podrán solicitar la presencia del candidato, para que realice alguna aclaración respecto de la documentación que integra, sobre sus capacidades técnicas o responder sobre cualquier cuestionamiento hecho. Realizadas las aclaraciones pertinentes, el candidato procederá a retirarse de la Sesión, permaneciendo en el lugar que previamente le había asignado el Secretario.
+
+- Emitidos los comentarios respectivos, se someterá a votación la solicitud de nombramiento. El Acuerdo que se pronuncie para tal efecto, se tomará por mayoría simple de votos de los miembros de la Junta de Gobierno, que cuenten con este derecho, y en caso de empate, el Presidente de la Junta de Gobierno tendrá voto de calidad.
+
+- La votación será individual y los miembros de la Junta de Gobierno lo expresarán de viva voz señalando su voto en alguno de estos sentidos: a favor, en contra o absteniéndose.
+
+- El Secretario realizará el cómputo de votos e informará el resultado de éste al Presidente. Si el resultado es favorable la solicitud de nombramiento, se pasará a la etapa de formalización.
+
+IV.- Formalización de nombramiento.
+
+- Una vez realizada la votación respectiva para elegir al candidato a ocupar alguna de las plazas existentes, el nombramiento de éste será expedido por duplicado por el integrante de la Junta de Gobierno que haya fungido como Presidente en dicha Sesión, y deberá de contener entre otros elementos, el nombre del servidor público designado, el cargo que ocupará, a partir de qué fecha surte efectos el nombramiento y la autoridad que lo emite. (Anexo No. 2).
+
+- El integrante de la Junta de Gobierno que haya fungido como Presidente en dicha Sesión, solicitará la presencia del candidato y le entregará un ejemplar original de su nombramiento, el otro original será proporcionado al Director de la Agencia, a efecto de que éste lo remita oficialmente a la Dirección de Administración y Finanzas con la finalidad de que obre en el expediente laboral del candidato y se encuentre debidamente resguardado.
+
+- Acto seguido el Director General de la Agencia proporcionará al recién nombrado copia fotostática de la Ley que crea la Agencia de Noticias del Estado Mexicano, Estatuto Orgánico de Notimex, Agencia de Noticias del Estado Mexicano, Manual de Organización de Notimex, Agencia de Noticias del Estado Mexicano, Contrato Colectivo de Trabajo y Reglamento Interior de Trabajo, instruyéndolo a que dé estricto cumplimiento a estas normas.
+
+- El Presidente dará por concluida la Sesión, solicitando al Secretario que en su oportunidad, se elabore el acta correspondiente y se recaben las firmas de los integrantes de la Junta de Gobierno que participaron en la Sesión.
+
+- La Dirección de Administración y Finanzas, en un término de tres días hábiles, elaborará el respectivo Contrato Individual de Trabajo por duplicado, el cual contendrá nombre del trabajador, fecha de ingreso, antigüedad, duración de la jornada de trabajo, monto del salario, funciones básicas, suscrito por las partes señaladas, debiéndose integrar un ejemplar al expediente personal y otro al interesado.
+
+7. Transitorios.
+
+Artículo Primero.- La Junta de Gobierno de la Agencia, aprueba el presente Mecanismo de Nombramiento de los Servidores Públicos que ocupen cargos dentro de las dos jerarquías administrativas inferiores a las del Director General, de conformidad con el artículo 13 fracción IX de la Ley que crea la Agencia de Noticias del Estado Mexicano, el cual será parte integrante del Estatuto Orgánico de Notimex, Agencia de Noticias del Estado Mexicano, mismo que entrará en vigor una vez que la Secretaría de la Función Pública emita su opinión y sea publicado en el Diario Oficial de la Federación.
+
+Artículo Segundo.- Los derechos laborales de los Encargados de Despacho de las Direcciones y Subdirecciones que actualmente existen en Notimex, Agencia de Noticias del Estado Mexicano, serán íntegramente respetados.
+
+Artículo Tercero.- Los Encargados de Despacho de la Agencia que cuenten con nombramiento expedido por la Junta de Gobierno, se tendrán por designados como Titulares de las áreas que ocupan a partir de la entrada en vigor del presente Mecanismo de Nombramiento, este Organo Colegiado les otorgará por escrito el nombramiento respectivo.
+
+Artículo Cuarto.- Los Encargados de Despacho de la Agencia que no cuenten con nombramiento expedido por la Junta de Gobierno, previa evaluación realizada por el Director General, en la que se analicen los objetivos y metas logrados, con base a los primeros indicadores de Evaluación y Desempeño, someterán a consideración de este Organo Colegiado su designación como Titulares de las Areas que actualmente ocupan, en los términos descritos en los artículos 13 fracción IX, y 20 facción XVIII, de la Ley que crea la Agencia de Noticias del Estado Mexicano, o bien la remoción de los mismos.
+
+Artículo Quinto.- A efecto de dar cumplimiento a lo señalado en el artículo Cuarto Transitorio el Director General, a partir de los 30 (treinta) días naturales siguientes al inicio de la vigencia del presente Mecanismo de Nombramiento, presentará propuesta de nombramiento como Titulares de las Areas o de remoción de los Encargados de Despacho señalados en el artículo transitorio que antecede.
+
+Artículo Sexto.- La interpretación para efectos administrativos, del presente Mecanismo de Nombramiento así como la resolución de los casos no previstos en el mismo, corresponderán a la Junta de Gobierno que para tal efecto podrá auxiliarse de la Dirección de Asuntos Jurídicos.
+
+Artículo Séptimo.- Las disposiciones contenidas en el presente Mecanismo de Nombramiento deberán revisarse, cuando menos una vez al año, por la Dirección de Asuntos Jurídicos, que en caso de que lo considere necesario a través de la Dirección General propondrá su actualización a la Junta de Gobierno.
+
+> <small>N. DE E. VEASE ANEXOS EN LA PRIMERA SECCION DEL D.O.F. DE 29 DE JULIO DE 2011, PAGINAS DE LA 102 A LA 103.</small>
+
+> <small>(ADICIONADO, D.O.F. 29 DE JULIO DE 2011)</small>
+
+APENDICE NUMERO 2
+
+Mecanismo de Remoción de los servidores públicos de Notimex, Agencia de Noticias del Estado Mexicano
+
+1. Introducción.
+
+La Junta de Gobierno y la Dirección General, son corresponsables en la dirección y administración de Notimex, Agencia de Noticias del Estado Mexicano.
+
+Es responsabilidad de los servidores públicos conducirse observando los principios de veracidad, imparcialidad, objetividad, pluralidad, equidad y responsabilidad.
+
+De conformidad con lo señalado por la Ley que crea la Agencia de Noticias del Estado Mexicano, en su artículo 15 fracción IX “es facultad indelegable de la Junta de Gobierno, remover a propuesta del Director General de la Agencia, a los Servidores Públicos del Organismo que ocupen cargos dentro de las dos jerarquías administrativas inferiores a las del primero.
+
+Del ordenamiento antes citado, se desprende que el Director General de la Agencia es quien tiene la facultad para proponer la remoción de los servidores públicos que ocupan los cargos de Directores y Subdirectores de las diversas Areas de la Entidad, y que la Junta de Gobierno es la facultada para remover a éstos; sin embargo, no se establece ningún procedimiento o mecanismo para llevar a cabo lo anterior.
+
+De tal forma es indispensable contar con el Mecanismo para la remoción de los servidores públicos que ocupan un cargo dentro de las dos jerarquías inferiores a las del Director General de la Agencia.
+
+El presente Mecanismo detallará los casos en que sea aplicable la remoción de los servidores públicos descritos en los párrafos que anteceden.
+
+2. Objetivo.
+
+Proporcionar los lineamientos y bases de un proceso claro, apegado a derecho y bajo un marco transparente de justicia y equidad que aporte la información necesaria a los integrantes de la Junta de Gobierno, y permita el análisis de las causas que propician la remoción de los servidores públicos de Notimex, Agencia de Noticias del Estado Mexicano que ocupen cargos dentro de las dos jerarquías administrativas inferiores a las del Director General.
+
+3. Definiciones.
+
+Para los efectos del presente Mecanismo se entenderá por:
+
+X (SIC). Ley: Ley que crea la Agencia de Noticias del Estado Mexicano;
+
+XI. Agencia: Notimex, Agencia de Noticias del Estado Mexicano;
+
+XII. Director General: El Director General de Notimex, Agencia de Noticias del Estado Mexicano;
+
+XIII. Junta de Gobierno: La Junta de Gobierno de Notimex, Agencia de Noticias del Estado Mexicano;
+
+XIV. Estatuto: Estatuto Orgánico de Notimex, Agencia de Noticias del Estado Mexicano;
+
+XV. Reglamento: Reglamento de Sesiones de la Junta de Gobierno de Notimex, Agencia de Noticias del Estado Mexicano;
+
+XVI. Presidente de la Junta de Gobierno: El Presidente de la Junta de Gobierno de Notimex, Agencia de Noticias del Estado Mexicano;
+
+XVII. Secretario: El Secretario de la Junta de Gobierno de Notimex, Agencia de Noticias del Estado Mexicano;
+
+XVIII. Mecanismo de remoción: Procedimiento Administrativo por el cual se separa de su empleo, cargo o comisión dentro de la Agencia al servidor público, y
+
+XIX. Servidor público: persona que ocupa un cargo dentro de las dos jerarquías administrativas inferiores a las del Director General dentro de la Agencia.
+
+4. Marco Normativo.
+
+- Constitución Política de los Estados Unidos Mexicanos.
+
+- Ley Orgánica de la Administración Pública Federal.
+
+- Ley Federal de Responsabilidades Administrativas de los Servidores Públicos.
+
+- Ley Federal del Trabajo.
+
+- Ley que crea la Agencia de Noticias del Estado Mexicano.
+
+- Estatuto Orgánico de Notimex, Agencia de Noticias del Estado Mexicano.
+
+- Reglamento Interior de Trabajo de Notimex.
+
+- Manual General de Organización de Notimex, Agencia de Noticias del Estado Mexicano.
+
+- Reglamento de Sesiones de la Junta de Gobierno de Notimex, Agencia de Noticias del Estado Mexicano.
+
+5. Políticas.
+
+- Las faltas cometidas por los servidores públicos, que pueden ser materia de remoción deben ser sólo aquellas que se relacionen con sus funciones laborales que sean inherentes a sus atribuciones y facultades del trabajo.
+
+- En los casos que la remoción sea originada por una falta o por no cumplir en forma injustificada con los parámetros establecidos en sus evaluaciones de desempeño por más de dos veces consecutivas. Se deberá practicar una investigación previa para reunir y analizar los elementos de prueba que acrediten una responsabilidad relacionados con la misma.
+
+- La investigación debe fundarse en los principios de legalidad y seguridad jurídica debe buscar la veracidad de los hechos, conduciéndose en cada caso con imparcialidad, objetividad y prudencia sin adoptar juicios anticipados debiéndose siempre respetar el derecho de audiencia al investigado.
+
+- Cuando la sanción que deba aplicarse por la comisión u omisión de la falta en el desempeño del trabajo, consista en la remoción del servidor público de la Agencia que ocupe cargo dentro de las dos jerarquías administrativas inferiores a las del Director General; ésta deberá ser propuesta por el Director General ante la Junta de Gobierno con fundamento en el artículo 13 fracción IX de la Ley que crea la Agencia de Noticias del Estado Mexicano.
+
+- La solicitud de remoción formará parte del Orden del Día de la Sesión de la Junta de Gobierno.
+
+- El Secretario deberá enviar a todos los miembros de la Junta de Gobierno, la carpeta que contenga las causas y los documentos obtenidos con motivo de la investigación.
+
+- El Director General, apoyado por la Dirección de Asuntos Jurídicos, presentará los elementos de prueba, los cuales están fundados y motivados, mismos que en su conjunto acreditan de manera fehaciente la responsabilidad administrativa, que da lugar a su remoción.
+
+- Las argumentaciones correspondientes a la remoción ante la Junta de Gobierno.
+
+6. Lineamientos aplicables para la remoción de servidores públicos de la Agencia.
+
+El presente mecanismo considera aplicable un procedimiento especial para los siguientes casos:
+
+A) Rescisión de la Relación de Trabajo sin responsabilidad para el patrón.
+
+B) Renuncia del trabajador.
+
+C) Muerte del trabajador.
+
+D) Destitución por Resolución emitida por alguna autoridad administrativa.
+
+E) La que se derive como consecuencia de una sanción de carácter penal.
+
+En todos los casos anteriores, las autoridades de Notimex, Agencia de Noticias del Estado Mexicano, actuarán oportunamente de conformidad con las Leyes y Reglamentos aplicables para tales efectos e informarán únicamente a la Junta de Gobierno sobre la destitución del servidor público en cuestión.
+
+A) Rescisión de la relación de trabajo sin responsabilidad para el patrón.
+
+1. Actualización de alguna de las causales de rescisión establecidas en la Ley Federal del Trabajo que se enlistan a continuación:
+
+Son causas de rescisión de la relación de trabajo, sin responsabilidad para el patrón:
+
+I. Engañarlo el trabajador o, en su caso, el sindicato que lo hubiese propuesto o recomendado con certificados falsos o referencias en los que se atribuyan al trabajador capacidad, aptitudes o facultades de que carezca. Esta causa de rescisión dejará de tener efecto después de treinta días de prestar sus servicios el trabajador;
+
+II. Incurrir el trabajador, durante sus labores, en faltas de probidad u honradez, en actos de violencia, amagos, injurias o malos tratamientos en contra del patrón, sus familiares o del personal directivo o administrativo de la empresa o establecimiento, salvo que medie provocación o que obre en defensa propia;
+
+III. Cometer el trabajador contra alguno de sus compañeros, cualquiera de los actos enumerados en la fracción anterior, si como consecuencia de ellos se altera la disciplina del lugar en que se desempeña el trabajo;
+
+IV. Cometer el trabajador, fuera del servicio, contra el patrón, sus familiares o personal directivo administrativo, alguno de los actos a que se refiere la fracción II, si son de tal manera graves que hagan imposible el cumplimiento de la relación de trabajo;
+
+V. Ocasionar el trabajador, intencionalmente, perjuicios materiales durante el desempeño de las labores o con motivo de ellas, en los edificios, obras, maquinaria, instrumentos, materias primas y demás objetos relacionados con el trabajo;
+
+VI. Ocasionar el trabajador los perjuicios de que habla la fracción anterior siempre que sean graves, sin dolo, pero con negligencia tal, que ella sea la causa única del perjuicio;
+
+VII. Comprometer el trabajador, por su imprudencia o descuido inexcusable, la seguridad del establecimiento o de las personas que se encuentren en él;
+
+VIII. Cometer el trabajador actos inmorales en el establecimiento o lugar de trabajo;
+
+IX. Revelar el trabajador los secretos de fabricación o dar a conocer asuntos de carácter reservado, con perjuicio de la empresa;
+
+X. Tener el trabajador más de tres faltas de asistencia en un período de treinta días, sin permiso del patrón o sin causa justificada;
+
+XI. Desobedecer el trabajador al patrón o a sus representantes, sin causa justificada, siempre que se trate del trabajo contratado;
+
+XII. Negarse el trabajador a adoptar las medidas preventivas o a seguir los procedimientos indicados para evitar accidentes o enfermedades;
+
+XIII. Concurrir el trabajador a sus labores en estado de embriaguez o bajo la influencia de algún narcótico o droga enervante, salvo que, en este último caso, exista prescripción médica. Antes de iniciar su servicio, el trabajador deberá poner el hecho en conocimiento del patrón y presentar la prescripción suscrita por el médico;
+
+XIV. La sentencia ejecutoriada que imponga al trabajador una pena de prisión, que le impida el cumplimiento de la relación de trabajo; y
+
+XV. Las análogas a las establecidas en las fracciones anteriores, de igual manera graves y de consecuencias semejantes en lo que al trabajo se refiere.
+
+El patrón deberá dar al trabajador aviso escrito de la fecha y causa o causas de la rescisión.
+
+El aviso deberá hacerse del conocimiento del trabajador, y en caso de que éste se negare a recibirlo, el patrón dentro de los cinco días siguientes a la fecha de la rescisión, deberá hacerlo del conocimiento de la Junta Federal de Conciliación y Arbitraje respectiva, proporcionando a ésta el domicilio que tenga registrado y solicitando su notificación al trabajador.
+
+La falta de aviso al trabajador o a la Junta Federal de Conciliación y Arbitraje, por sí sola bastará para considerar que el despido fue injustificado.
+
+###### ARTICULO 185.
+
+EL PATRON PODRA RESCINDIR LA RELACION DE TRABAJO SI EXISTE UN MOTIVO RAZONABLE DE PERDIDA DE LA CONFIANZA, AUN CUANDO COINCIDA CON LAS CAUSAS JUSTIFICADAS DE RESCISION A QUE SE REFIERE EL ARTICULO 47.
+
+EL TRABAJADOR DE CONFIANZA PODRA EJERCITAR LAS ACCIONES A QUE SE REFIERE EL CAPITULO IV DEL TITULO SEGUNDO DE ESTA LEY.
+
+Las anteriores causales de rescisión deberán estar adecuadas a la legislación vigente al momento de su aplicación.
+
+2. La Dirección de Administración y Finanzas a través de la Subdirección de Recursos Humanos citará al trabajador con 48 horas de anticipación para levantar el acta correspondiente de investigación.
+
+3. Se llevarán a cabo las investigaciones necesarias. Dicha Subdirección elaborará el Acta de Investigación.
+
+4. Además dentro de los (3) tres días hábiles siguientes a la Conclusión de la Investigación emitirá un dictamen fundado y motivado que demuestre las causas por las que se rescindirá la relación de trabajo.
+
+Nota: Todo el procedimiento descrito del punto 1 al 4 deberá efectuarse dentro del término de 30 (treinta) días naturales, a partir de que se tenga conocimiento de la comisión de la falta por parte del trabajador.
+
+5. Se emitirá convocatoria para celebrar Sesión de la Junta de Gobierno incluyéndose en el Orden del Día como Asunto General la recisión del servidor público.
+
+6. Desarrollo de la Sesión de Junta de Gobierno.
+
+7. Notificación del aviso de despido por parte de la mencionada Subdirección.
+
+8. Si el trabajador se niega a recibir el aviso, la Subdirección de Recursos Humanos solicitará a la Dirección de Asuntos Jurídicos realizar la promoción correspondiente ante la Junta Federal de Conciliación y Arbitraje para que entregue dicho aviso de despido.
+
+9. Se pondrá a disposición del trabajador las prestaciones pendientes de pago, relativas al último año de servicios (finiquito) el cual se fundamentará mediante convenio celebrado ante la Junta Federal de Conciliación y Arbitraje.
+
+En este caso, todo el procedimiento deberá efectuarse dentro del término de un (sic) 30 (treinta) días naturales, a partir de que se tenga conocimiento de la comisión de la falta por parte del trabajador.
+
+B) Renuncia del trabajador.
+
+1. Elaboración y presentación de la renuncia por parte del servidor público debidamente firmada y con huella digital.
+
+2. Emitir Convocatoria para celebrar Sesión de la Junta de Gobierno incluyéndose en el orden del día como Asunto General la información relativa a la renuncia del Trabajador.
+
+3. Desarrollo de la sesión de Junta de Gobierno.
+
+4. Toma nota la Junta de Gobierno, de la renuncia del Servidor Público.
+
+5. Elaboración de convenio donde se establezca la renuncia del Servidor Público.
+
+6. Formalización del convenio y pago de finiquito ante la Junta Federal de Conciliación y Arbitraje.
+
+C) Muerte del trabajador.
+
+1. Emitir Convocatoria para celebrar Sesión de la Junta de Gobierno incluyéndose en el Orden del Día como Asunto General la información relativa al deceso del servidor público.
+
+2. Desarrollo de la sesión de Junta de Gobierno.
+
+3. Toma nota la Junta de Gobierno, de la muerte del servidor público.
+
+4. Solicitud de pago por parte de persona debidamente legitimada para efectuar dicho reclamo y pago de las prestaciones pendientes de pago relativas al último año de servicios (prima vacacional, aguinaldo) de conformidad con lo establecido en la Ley Federal del Trabajo que a la letra dice:
+
+Tendrán derecho a recibir indemnización en los casos de muerte:
+
+I. La viuda, o el viudo que hubiese dependido económicamente de la trabajadora y que tenga una incapacidad de cincuenta por ciento o más, y los hijos menores de dieciséis años y los mayores de esta edad si tienen una incapacidad de cincuenta por ciento o más;
+
+II. Los ascendientes concurrirán con las personas mencionadas en la fracción anterior, a menos que se pruebe que no dependían económicamente del trabajador;
+
+III. A falta de cónyuge supérstite, concurrirá con las personas señaladas en las dos fracciones anteriores, la persona con quien el trabajador vivió como si fuera su cónyuge durante los cinco años que precedieron inmediatamente a su muerte, o con la que tuvo hijos, siempre que ambos hubieran permanecido libres de matrimonio durante el concubinato.
+
+IV. A falta de cónyuge supérstite, hijos y ascendientes, las personas que dependían económicamente del trabajador concurrirán con la persona que reúna los requisitos señalados en la fracción anterior, en la proporción en que cada una dependía de él; y
+
+V. A falta de las personas mencionadas en las fracciones anteriores, el Instituto Mexicano del Seguro Social.
+
+D) Destitución por resolución emitida por alguna autoridad administrativa.
+
+Remoción de los servidores públicos de la Agencia sujeta a la aprobación de la Junta de Gobierno.
+
+Derivada del incumplimiento de metas y objetivos establecidos en las Evaluaciones de Desempeño e Indicadores de la Agencia.
+
+1. Con base en el Informe de Evaluación de Gestión o Desempeño de Actividades, el Director General propondrá la remoción del servidor público que haya incumplido dos veces consecutivas en el lapso de un año con las metas y objetivos del área de su adscripción.
+
+2. Se emitirá para tal efecto Convocatoria para Sesión de Junta de Gobierno.
+
+3. Desarrollo de la Sesión de Junta de Gobierno.
+
+4. Elaboración de liquidación que corresponda al trabajador, mismo que deberá comprender el pago de tres meses de salario, veinte días por año laborado, prima de antigüedad, así como las prestaciones pendientes de pago por el último año de servicios prestados.
+
+4. Elaboración de convenio de terminación de la relación de trabajo.
+
+5. Formalización del convenio y pago de liquidación ante la Junta Federal de Conciliación y Arbitraje.
+
+* Desarrollo de la Sesión de Junta de Gobierno.
+
+- El día y la hora señalados para la celebración de la Sesión, además de la asistencia de los miembros de la Junta de Gobierno, deberá de encontrarse presente en todo momento el Director General.
+
+- El servidor público que se propone sea removido, no estará presente durante el desarrollo de la sesión, pero se encontrará localizado en el lugar que para tal efecto le asigne el Secretario, donde permanecerá todo el tiempo que dure la sesión, a fin de que concurra ante los miembros de la Junta si éstos así lo solicitaran.
+
+- Iniciada la sesión y una vez que el Presidente de la Junta de Gobierno lo autorice, el Director General presentará la solicitud de acuerdo, donde dará una breve explicación de los resultados de la investigación realizada.
+
+- Una vez presentada la solicitud de acuerdo, el Presidente de la Junta de Gobierno concederá el uso de la palabra a los integrantes de la misma, para que expresen sus comentarios al respecto.
+
+- Excepcionalmente, y debidamente justificado, los integrantes de la Junta de Gobierno por mayoría simple de votos, podrán solicitar la presencia del servidor público, si así procede, para que realice alguna aclaración. Hechas las aclaraciones pertinentes el servidor público procederá a retirarse de la sesión, permaneciendo en el lugar que previamente le había asignado el Secretario.
+
+- Emitidos los comentarios respectivos, se someterá a votación la solicitud de remoción. El Acuerdo que se emita para tal efecto, se tomará por mayoría simple de votos de los miembros de la Junta de Gobierno, que cuenten con este derecho, y en caso de empate, el Presidente de la Junta de Gobierno tendrá voto de calidad.
+
+- La votación será individual y los miembros de la Junta de Gobierno lo expresarán de viva voz señalando su voto en alguno de estos sentidos: a favor, en contra o absteniéndose.
+
+- El Secretario realizará el cómputo de votos e informará el resultado de éste al Presidente.
+
+- Una vez aprobada la remoción por la Junta de Gobierno, el Presidente de la Sesión suscribirá el aviso de la misma para que le sea notificada al servidor público.
+
+- Finalmente la Dirección de Administración y Finanzas realizará el cálculo de todas y cada una de las prestaciones a que tiene derecho el trabajador, elaborando el cheque por el importe total señalado en el cálculo, mismos que serán enviados a la Dirección de Asuntos Jurídicos junto con la solicitud correspondiente para que dicha Dirección realice el Convenio respectivo.
+
+- La Dirección de Asuntos Jurídicos ratificará el convenio descrito en el párrafo anterior ante la Junta Federal de Conciliación y Arbitraje, cuando se trate de despido justificado sin responsabilidad para el patrón, renuncia, muerte o remoción derivada de una resolución emitida por Autoridad Administrativa o sanción de carácter penal, informar únicamente a la Junta de Gobierno en la próxima Sesión ordinaria de este cuerpo colegiado.
+
+Para lo no contemplado en el presente mecanismo de remoción de servidores públicos, se estará a lo dispuesto en la Ley Federal del Trabajo, Ley Federal de Responsabilidades Administrativas de los Servidores Públicos, la Ley que crea la Agencia de Noticias del Estado Mexicano, en el Estatuto Orgánico de Notimex, Agencia de Noticias del Estado Mexicano y en el Reglamento de Sesiones de la Junta de Gobierno de Notimex, Agencia de Noticias del Estado Mexicano.
+
+7. Transitorios.
+
+Artículo Primero.- La Junta de Gobierno de la Agencia, aprueba el presente Mecanismo de Remoción de los Servidores Públicos que ocupen cargos dentro de las dos jerarquías administrativas inferiores a las del Director General, de conformidad con el artículo 13 fracción IX de la Ley que crea la Agencia de Noticias del Estado Mexicano, el cual será parte integrante del Estatuto Orgánico de Notimex, Agencia de Noticias del Estado Mexicano, mismo que entrará en vigor una vez que la Secretaría de la Función Pública emita su opinión y sea publicado en el Diario Oficial de la Federación.
+
+Artículo Segundo.- Los derechos laborales de los Encargados de Despacho de las Direcciones y Subdirecciones que actualmente existen en Notimex, Agencia de Noticias del Estado Mexicano, serán íntegramente respetados.
+
+Artículo Tercero.- La interpretación para efectos administrativos, del presente Mecanismo de Remoción así como la resolución de los casos no previstos en el mismo, corresponderá a la Junta de Gobierno que para tal efecto podrá auxiliarse de la Dirección de Asuntos Jurídicos.
+
+Artículo Cuarto.- Las disposiciones contenidas en el presente Mecanismo de Remoción deberán revisarse, cuando menos una vez al año, por la Dirección de Asuntos Jurídicos, que en caso de que lo considere necesario, a través de la Dirección General propondrá su actualización a la Junta de Gobierno.
+
 > <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ESTATUTO.</small>
 
 D.O.F. 9 DE ABRIL DE 2010.
 
 EL ACUERDO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3 DEL CODIGO CIVIL FEDERAL VIGENTE.
+
+D.O.F. 29 DE JULIO DE 2011.
+
+UNICO.- Las presentes modificaciones y adiciones entrarán en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
