@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-de-la-administracion-publica-para-el-municipio-60268
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-02-22"
-last_updated: "2011-05-13"
+last_updated: "2011-07-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=60268&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "BCN"
 ---
 # REGLAMENTO DE LA ADMINISTRACION PUBLICA PARA EL MUNICIPIO DE ENSENADA, BAJA CALIFORNIA
 
-REGLAMENTO DE LA ADMINISTRACION PUBLICA PARA EL MUNICIPIO DE ENSENADA, BAJA CALIFORNIA
+REGLAMENTO DE LA ADMINISTRACIÓN PÚBLICA PARA EL MUNICIPIO DE ENSENADA, BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE MAYO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JULIO DE 2011.
 
 Reglamento publicado en la Sección I del Periódico Oficial del Estado de Baja California, el viernes 22 de febrero de 2008.
 
@@ -1901,13 +1901,69 @@ La integración de las Administraciones de Zona y Regionales será de acuerdo al
 
 Las Delegaciones y los servidores públicos que pertenezcan a las mismas y que integren una administración, estarán a lo dispuesto por el Reglamento de Administraciones de Zona y Regionales del Municipio de Ensenada, así como de las disposiciones que puedan ser aplicables del presente reglamento.
 
-### CAPITULO ÚNICO
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 29 DE JULIO DE 2011)</small>
+
+### CAPÍTULO DÉCIMO. DE LA SECRETARÍA DE TURISMO
+
+> <small>(ADICIONADO, P.O. 29 DE JULIO DE 2011)</small>
+
+ARTÍCULO 97 BIS.- La Secretaría de Turismo tendrá las siguientes atribuciones:
+
+I. Conducir, organizar, promover y supervisar en coordinación con las autoridades competentes los programas, proyectos y actividades para desarrollar el potencial turístico del municipio de acuerdo a los objetivos y metas plasmado en el plan municipal de desarrollo.
+
+II. Asistir, apoyar y contribuir con el Comité de Planeación para el Desarrollo Municipal (COPLADEM) y con las autoridades competentes en la determinación de las metas y objetivos plasmados en el plan municipal de desarrollo.
+
+III. Proponer al Ayuntamiento la declaración de zonas turísticas en el Municipio, con su respectiva reglamentación para la protección y desarrollo de la misma, así como promover ante las Autoridades Estatales y Federales competentes la formulación de declaratorias para zonas de desarrollo turístico.
+
+IV. Consolidar y regular los servicios regionales del sector, procurando su vinculación con el modelo de organización y desarrollo regional del municipio bajo criterios de eficiencia, productividad y ahorro en el gasto público otorgando mayor cercanía y calidad de servicios a la población.
+
+V. Coadyuvar con las Autoridades competentes para el cumplimiento de las Leyes y Reglamentos por parte de las empresas de prestación de servicios turísticos.
+
+VI. Promover la creación de organismos de carácter privado y social que tiendan a fomentar la inversión en materia turística y servicios conexos.
+
+VII. Ejercer las facultades de coordinación sectorial de la dependencia, reservando a las unidades de nivel central las funciones de regulación y supervisión y transfiriendo a las entidades paramunicipales del sector, la operación de los servicios a cargo del mismo. Igualmente, proporcionarles la asistencia y apoyo técnico que requieran para el otorgamiento de servicios.
+
+VIII. La protección auxilio y representación de los turistas en el municipio.
+
+IX. La regulación, clasificación y control de los servidores turísticos que dependan de esta secretaria.
+
+X. Concretar y promover con la Federación y Estado los programas, acciones y recursos que se emprendan en el Municipio para desarrollar el turismo e impulsar su transformación económica y social, otorgando prioridad a las zonas del municipio con mayor potencialidad turística, asegurando la preservación del medio ambiente y el desarrollo sustentable, así como la extensión de los beneficios a los distintos sectores de la población y las diversas regiones. Igualmente, fomentar junto con las autoridades competentes las zonas de desarrollo turístico y formular coordinadamente con las dependencias federales, estatales y municipales correspondientes la declaratoria respectiva.
+
+XI. Realizar estudios para aprovechar racionalmente y para fines turísticos, los recursos naturales y culturales del municipio, en una perspectiva de equilibrio ecológico y desarrollo económico sustentable.
+
+XII. Instrumentar, mantener y actualizar la información estadística relacionada con el turismo municipal y difundirla.
+
+XIII. Promover y apoyar el desarrollo de la infraestructura turística estimulando la participación de los sectores de la población involucrados; así como la formación del personal especializado que precise el desarrollo del sector, con el objetivo de elevar la calidad en la prestación de los servicios turísticos; además apoyar y estimular la formación de asociaciones, patronatos, comités y demás organismos que auspicien el turismo social y los proyectos turísticos con el medio rural.
+
+XIV. Colaborar con las autoridades competentes en las acciones para fomentar el cuidado y conservación de las zonas ecológicas, monumentos artísticos e históricos y en general objetos de interés cultural, así como en aquellas relacionadas con la administración y conservación de estas áreas recreativas de descanso, parques, bosques, montañas, playas, lagunas y otros atractivos típicos o naturales y de interés para el desarrollo turístico, procurando estimular la conservación y protección del entorno natural y cultural
+
+XV. Proporcionar en conjunto con las instituciones paramunicipales información y orientación a los turistas cubriendo los centros de mayor afluencia, carreteras y terminales de transporte terrestre y marítimo, según se requiera, así como establecer los mecanismos de apoyo y capacitación requeridos.
+
+XVI. Participar en acciones coordinadas con las dependencias competentes para auxiliar a los turistas en casos de emergencia o desastre.
+
+XVII. Promover los atractivos del municipio a través de los medios de comunicación, así como contratar los medios que sean idóneos para tal fin cuidando siempre cumplir con los objetivos del plan municipal de desarrollo.
+
+XVIII. Instrumentar programas con los prestadores de servicios turísticos nacionales y extranjeros para incrementar el flujo de turistas en el municipio.
+
+XIX. Establecer los aspectos de calidad y competitividad de los bienes y servicios turísticos con el fin de alcanzar el desarrollo turístico pretendido.
+
+XX. Coadyuvar con PROTURISMO de Ensenada, en la determinación y realización de de (sic) acciones encaminadas al fortalecimiento y desarrollo del Turismo en el Municipio.
+
+XXI. Las demás que determinen expresamente las leyes y reglamentos.
+
+> <small>(ADICIONADO, P.O. 29 DE JULIO DE 2011)</small>
+
+ARTÍCULO 97 TER.- Para el cumplimiento de sus funciones, la Secretaría de Turismo tendrá a su cargo la siguiente estructura:
+
+I.- Dirección de Turismo;
+
+a) Departamento de Promoción Económica, Nuevos Proyectos y fomento a la inversión;
+
+b) Departamento de Mercadotecnia, Imagen, Eventos y Festejos.
 
 ## TITULO TERCERO. DE LA ADMINISTRACIÓN PÚBLICA PARAMUNICIPAL
 
-### CAPITULO PRIMERO. DE LA SINDICATURA MUNICIPAL
-
-NATURALEZA Y FACULTADES
+### CAPITULO ÚNICO
 
 ###### ARTÍCULO 98.
 
@@ -1955,7 +2011,9 @@ En el caso de las entidades paramunicipales ya existentes y enunciadas en este a
 
 ## TITULO CUARTO. DE LA SINDICATURA MUNICIPAL Y DE LOS REGIDORES
 
-### CAPITULO SEGUNDO. DE LOS REGIDORES
+### CAPITULO PRIMERO. DE LA SINDICATURA MUNICIPAL
+
+NATURALEZA Y FACULTADES
 
 ###### ARTÍCULO 100.
 
@@ -2029,13 +2087,27 @@ I.- Contraloría Interna; y
 
 II.- Responsabilidades y Situación Patrimonial; (sic)
 
+### CAPITULO SEGUNDO. DE LOS REGIDORES
+
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2011)</small>
+
 ###### ARTÍCULO 102.
 
-Los regidores como parte del Ayuntamiento, contarán con un espacio físico denominado Área de Regidores, que consta de una oficina privada para cada uno, además de una sala de juntas; y para el cumplimiento de sus funciones, entre las que destacan los trabajos de las diferentes comisiones y la atención a ciudadanos, se apoyarán en una Coordinación Administrativa.
+Los Regidores, conforman en su conjunto el "Cuerpo de Regidores", como integrantes del Ayuntamiento que representan a la comunidad y que deliberan, analizan, resuelven, controlan y vigilan los actos del Gobierno Municipal, además de ser los encargados de vigilar la correcta prestación de los servicios públicos, así como el adecuado funcionamiento de los diversos ramos de la administración pública municipal, con base a lo dispuesto por la Ley del Régimen Municipal para el Estado de Baja California y reglamentación aplicable.
+
+> <small>(ADICIONADO, P.O. 29 DE JULIO DE 2011)</small>
+
+ARTÍCULO 102 BIS.- El Cuerpo de Regidores, gozará de autonomía en el ejercicio presupuestal de conformidad al Presupuesto de Egresos del Municipio que corresponda en cada ejercicio fiscal.
+
+> <small>(ADICIONADO, P.O. 29 DE JULIO DE 2011)</small>
+
+ARTÍCULO 102 TER.- El Cuerpo de Regidores, contarán con un espacio físico que conste de una oficina privada para cada uno, además de una sala de juntas; y para el cumplimiento de sus funciones, entre las que destacan los trabajos de las diferentes comisiones y la atención a ciudadanos, se apoyarán en los órganos de administración que conforme a su reglamentación orgánica se determinen.
+
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2011)</small>
 
 ###### ARTÍCULO 103.
 
-Cada Regidor contará con el apoyo humano, técnico y material necesario para el auxilio de sus funciones, de acuerdo al presupuesto de egresos del año que corresponda.
+El Cuerpo de Regidores tendrá la atribución de nombrar y remover al personal a su cargo, por lo que contará con el apoyo humano, técnico y material necesario para el auxilio de sus funciones, de acuerdo al presupuesto de egresos del año que corresponda.
 
 ###### ARTÍCULO 104.
 
@@ -2071,15 +2143,15 @@ MARIO ALBERTO GARCIA SALAIZA
 
 SECRETARIO FEDATARIO DEL XIX AYUNTAMIENTO DE ENSENADA, B.C.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
 
 P.O. 20 DE MARZO DE 2009.
 
-EL ACUERDO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE FEDERAL.
+EL ACUERDO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE FEDERAL.
 
 P.O. 30 DE ABRIL DE 2010.
 
-ACUERDO QUE REFORMA LOS ARTICULOS 71, 72, 46 Y 52, ASI COMO LA DEROGACION DEL ARTICULO 53.
+ACUERDO POR EL QUE SE REFORMAN LOS ARTÍCULOS 71, 72, 46 Y 52, ASÍ COMO LA DEROGACIÓN DEL ARTÍCULO 53.
 
 ###### ARTÍCULO PRIMERO.
 
@@ -2107,18 +2179,36 @@ Se derogan las disposiciones que se opongan al presente Decreto.
 
 P.O. 30 DE ABRIL DE 2010.
 
-ACUERDO QUE MODIFICA Y REFORMA LOS ARTICULOS 80, 84, 46 Y 56 BIS.
+ACUERDO POR EL QUE SE MODIFICA Y REFORMA LOS ARTÍCULOS 80, 84, 46 Y 56 BIS.
 
-EL ACUERDO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE FEDERAL.
+EL ACUERDO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE FEDERAL.
 
 P.O. 19 DE NOVIEMBRE DE 2010.
 
-EL ACUERDO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE FEDERAL.
+EL ACUERDO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE FEDERAL.
 
 P.O. 21 DE ENERO DE 2011.
 
-EL ACUERDO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE FEDERAL.
+EL ACUERDO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE FEDERAL.
 
 P.O. 13 DE MAYO DE 2011.
 
 UNICO.- Siendo aprobada la presente reforma, incorpórese en el libro de actas y publíquese en el Periódico Oficial del Gobierno del Estado, para efectos de iniciar la vigencia al siguiente día de su publicación en todo el territorio del Municipio de Ensenada, Baja California.
+
+P.O. 29 DE JULIO DE 2011.
+
+ACUERDO POR EL QUE SE REFORMAN LOS ARTÍCULOS 102 Y 103, Y SE ADICIONAN LOS ARTÍCULOS, 102 BIS Y 102 TER DEL REGLAMENTO DE LA ADMINISTRACIÓN PÚBLICA MUNICIPAL DE ENSENADA, BAJA CALIFORNIA
+
+PRIMERO.- Siendo aprobada la presente reforma, incorpórese en el libro de actas y publíquese en el Periódico Oficial del Estado de Baja California, para efectos de iniciar vigencia en todo el territorio del Municipio de Ensenada, B.C. al día siguiente de su publicación.
+
+SEGUNDO.- En un término no mayor a 90 días posteriores a la entrada en vigor de la presente reforma, el Ayuntamiento de Ensenada deberá elaborar y aprobar el Reglamento Orgánico del Cuerpo de Regidores del Municipio de Ensenada, Baja California.
+
+TERCERO.- La autonomía presupuestal del Cuerpo de Regidores, se ejercerá operativamente a partir de la entrada en vigor de la presente Reforma, conforme al presupuesto de egresos del ejercicio fiscal 2011, y en lo conducente a partir del año 2012, se ejercerá conforme al presupuesto de egresos correspondiente a su ejercicio fiscal y de acuerdo al Reglamento Orgánico para el Cuerpo de Regidores del Municipio de Ensenada, B.C.
+
+P.O. 29 DE JULIO DE 2011.
+
+ACUERDO POR EL QUE SE REFORMA DE ADICIÓN DEL CAPÍTULO DÉCIMO DENOMINADO "DE LA SECRETARÍA DE TURISMO" CON SU (SIC) RESPECTIVOS ARTÍCULOS 97 BIS, CON LAS FRACCIONES I, II, III, IV, V, VI, VII, VIII, IX, X, XI, XII, XIII, XIV, XV, XVI, XVII, XVIII, XIX, XX, XXI Y XXII, ARTICULO 97 TER CON LA FRACCIÓN I, Y SUS RESPECTIVOS INCISOS A) Y B), PERTENECIENTE AL TÍTULO SEGUNDO DEL REGLAMENTO DE LA ADMINISTRACIÓN PÚBLICA MUNICIPAL PARA EL MUNICIPIO DE ENSENADA, BAJA CALIFORNIA.
+
+PRIMERO.- Siendo aprobada la presente reforma, incorpórese en el libro de actas y publíquese en el Periódico Oficial del Gobierno del Estado, para efectos de iniciar la vigencia al siguiente día de su publicación en todo el territorio del Municipio de Ensenada, Baja California.
+
+SEGUNDO.- La Secretaría de Turismo gozará de autonomía en el ejercicio presupuestal de conformidad al Presupuesto de Egresos del Municipio que corresponda en cada ejercicio fiscal.
