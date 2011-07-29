@@ -4,7 +4,7 @@ identifier: "ROO-reglamento-interior-de-la-secretaria-de-hacienda-del-estado-811
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-03-25"
-last_updated: "2011-03-25"
+last_updated: "2011-07-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81128&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 REGLAMENTO INTERIOR DE LA SECRETARIA DE HACIENDA DEL ESTADO DE QUINTANA ROO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE JULIO DE 2011.
 
 Reglamento publicado en el Número Extraordinario del Periódico Oficial del Estado de Quintana Roo, el viernes 25 de marzo de 2011.
 
@@ -109,6 +109,10 @@ Al frente de la Secretaría habrá un Titular a quien se le denominará Secretar
 
 1.1.1.9 Recaudadora de Rentas en Isla Mujeres;
 
+> <small>(ADICIONADO, P.O. 29 DE JULIO DE 2011)</small>
+
+1.1.1.10 Recaudadora de Rentas en Tulum;
+
 1.1.2 Dirección General de Auditoría Fiscal;
 
 1.1.2.1 Dirección de Auditoría Fiscal del Sur del Estado;
@@ -131,15 +135,27 @@ Al frente de la Secretaría habrá un Titular a quien se le denominará Secretar
 
 1.1.4.4 Delegación del Registro Público de la Propiedad y del Comercio en Benito Juárez;
 
+> <small>(ADICIONADO, P.O. 29 DE JULIO DE 2011)</small>
+
+1.1.4.5 Delegación del Registro Público de la Propiedad y del Comercio en Othón P. Blanco.
+
 1.2 Tesorería General;
 
 1.2.1 Dirección General de Egresos;
 
 1.2.1.1 Dirección de Egresos Zona Norte;
 
-1.2.0.1 Dirección de Caja;
+1.2.0.1 (DEROGADO, P.O. 29 DE JULIO DE 2011)
 
-1.2.0.2 Dirección de Contabilidad Gubernamental;
+1.2.0.2 (DEROGADO, P.O. 29 DE JULIO DE 2011)
+
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 29 DE JULIO DE 2011)</small>
+
+1.2.1.2 Dirección de Caja
+
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 29 DE JULIO DE 2011)</small>
+
+1.2.1.3 Dirección de Contabilidad Gubernamental
 
 1.3 Subsecretaría de Planeación Hacendaria y Política Presupuestal;
 
@@ -533,6 +549,10 @@ VII. La Oficina Recaudadora de Rentas en el Municipio de Benito Juárez, tendrá
 
 VIII. La oficina Recaudadora de Rentas en el Municipio de Isla Mujeres, tendrá su sede en la ciudad de Isla Mujeres;
 
+> <small>(ADICIONADA, P.O. 29 DE JULIO DE 2011)</small>
+
+IX. La oficina Recaudadora de Rentas en el Municipio de Tulum, tendrá su sede en la ciudad de Tulum.
+
 En la ciudad de Chetumal, habrá una oficina Recaudadora de Tenencias y Control Vehicular, misma que tendrá jurisdicción territorial en el Municipio de Othón P. Blanco.
 
 ###### Artículo 19.
@@ -809,9 +829,11 @@ X. Las demás que le señalen otras disposiciones legales y las que le confiera 
 
 ### CAPÍTULO IX. DE LAS FACULTADES DEL TITULAR DE LA DIRECCIÓN GENERAL DEL REGISTRO PÚBLICO DE LA PROPIEDAD Y DEL COMERCIO
 
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2011)</small>
+
 ###### Artículo 29.
 
-La Dirección General del Registro Público de la Propiedad y del Comercio, tendrá su sede en la ciudad de Chetumal Quintana Roo, ejercerá sus facultades en todo el territorio del Estado de Quintana Roo y estará a cargo de un Director General del Registro Público de la Propiedad y del Comercio, estará apoyado en el ejercicio de las funciones por tres Delegaciones del Registro Público de la Propiedad y del Comercio con sede en los Municipios de Solidaridad, Benito Juárez y Cozumel.
+La Dirección General del Registro Público de la Propiedad y del Comercio tendrá su sede en la ciudad de Chetumal, Quintana Roo, ejercerá sus facultades en todo el Estado de Quintana Roo y estará a cargo de un Director General del Registro Público de la Propiedad y del Comercio, estará apoyado en el ejercicio de sus funciones por cuatro Delegaciones del Registro Público de la Propiedad y del Comercio con sede en los Municipios de Othón P. Blanco, Solidaridad, Benito Juárez y Cozumel.
 
 ###### Artículo 30.
 
@@ -1742,3 +1764,17 @@ SECRETARIO DE HACIENDA
 LIC. EDUARDO OVANDO MARTÍNEZ
 
 SECRETARIO DE GOBIERNO
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 29 DE JULIO DE 2011.
+
+DECRETO POR EL QUE SE DEROGAN LOS PUNTOS 1.2.0.1 Y 1.2.0.2 DEL ARTICULO 4; Y SE ADICIONAN LOS PUNTOS 1.1.1.10, 1.2.1.2 Y 1.2.1.3 DEL ARTICULO 4 Y LA FRACCION IX DEL ARTICULO 18; TODOS DEL REGLAMENTO INTERIOR DE LA SECRETARIA DE HACIENDA.
+
+ÚNICO.- La presente reforma entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+P.O. 29 DE JULIO DE 2011.
+
+DECRETO POR EL QUE SE ADICIONA EL PUNTO 1.1.4.5 DEL ARTICULO 4 Y SE REFORMA EL ARTICULO 29 DEL REGLAMENTO INTERIOR DE LA SECRETARIA DE HACIENDA.
+
+ÚNICO.- La presente reforma entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Quintana Roo.
