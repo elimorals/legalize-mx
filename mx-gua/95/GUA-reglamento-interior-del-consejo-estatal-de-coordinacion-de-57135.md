@@ -4,7 +4,7 @@ identifier: "GUA-reglamento-interior-del-consejo-estatal-de-coordinacion-de-5713
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-09-18"
-last_updated: "2007-09-18"
+last_updated: "2011-07-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57135&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "GUA"
 
 REGLAMENTO INTERIOR DEL CONSEJO ESTATAL DE COORDINAClON DE SEGURIDAD PUBLICA
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO DEL CONSEJO ESTATAL DE SEGURIDAD PUBLICA, PUBLICADO EN EL P.O. DE 29 DE JULIO DE 2011, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
 
 Reglamento publicado en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el martes 18 de septiembre de 2007.
 
@@ -240,3 +242,19 @@ JOSÉ GERARDO MOSQUEDA MARTÍNEZ
 EL SECRETARIO DE SEGURIDAD PÚBLICA
 
 BALTAZAR VILCHES HINOJOSA
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 29 DE JULIO DE 2011.
+
+Inicio de vigencia
+
+Artículo Primero. El presente Decreto Gubernativo entrará en vigencia el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Abrogación del Reglamento Interior del Consejo Estatal de Coordinación de Seguridad Pública
+
+Artículo Segundo. Se abroga el Decreto Gubernativo número 47, mediante el cual se expide el Reglamento Interior del Consejo Estatal de Coordinación de Seguridad Pública, publicado en el Periódico Oficial del Gobierno del Estado número 150, Segunda Parte, de fecha 18 de septiembre de 2007.
+
+Designación de presidentes municipales
+
+Artículo Tercero. Por única ocasión, los presidentes municipales que haya designado el Consejo Estatal con antelación al inicio de vigencia del presente Decreto Gubernativo, continuarán con su cargo hasta la conclusión de su respectiva administración municipal. En lo sucesivo, se aplicará el mecanismo previsto en este instrumento.
