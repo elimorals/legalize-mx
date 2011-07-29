@@ -4,7 +4,7 @@ identifier: "PUE-reglamento-de-la-ley-de-derechos-cultura-y-desarrollo-de-82328"
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-07-22"
-last_updated: "2011-07-22"
+last_updated: "2011-07-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=82328&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "PUE"
 ---
 # REGLAMENTO DE LA LEY DE DERECHOS, CULTURA Y DESARROLLO DE LOS PUEBLOS Y COMUNIDADES INDIGENAS DEL ESTADO DE PUEBLA
 
-> <small>N. DE E. PARA CONSULTAR LA VERSION CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 29 DE JULIO DE 2011 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGIA CORRESPONDIENTE A DICHA FECHA, EN EL INDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 REGLAMENTO DE LA LEY DE DERECHOS, CULTURA Y DESARROLLO DE LOS PUEBLOS Y COMUNIDADES INDIGENAS DEL ESTADO DE PUEBLA
 
 TEXTO ORIGINAL.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIODICO OFICIAL EL 29 DE JULIO DE 2011.</small>
 
 Reglamento publicado en el Periódico Oficial del Estado de Puebla, el viernes 22 de julio de 2011.
 
@@ -147,11 +147,11 @@ V. Servir como instancia de asesoría a los indígenas de los pueblos y comunida
 
 VI. Concertar con los sectores social y privado para que coadyuven en la realización de acciones a beneficio de los pueblos y comunidades indígenas.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSION CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 29 DE JULIO DE 2011 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGIA CORRESPONDIENTE A DICHA FECHA, EN EL INDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA, ASI COMO EL ARCHIVO ANEXO.</small>
+> <small>(F. DE E., P.O. 29 DE JULIO DE 2011)</small>
 
 ###### ARTÍCULO 11.
 
-La Secretaría de Competitividad, Trabajo y Desarrollo Económico del Estado promoverá las políticas necesarias para la generación de empleos suficientes y bien remunerados en los pueblos y comunidades indígenas, así como la capacitación laboral, conforme al entorno económico de la comunidad, las condiciones sociales, culturales y concretas de los pueblos y comunidades interesados.
+La Secretaría de Competitividad, Trabajo y Desarrollo Económico del Estado promoverá las políticas necesarias para la generación de empleos en los pueblos y comunidades indígenas, así como la capacitación laboral, conforme al entorno económico de la comunidad, las condiciones sociales, culturales y concretas de los pueblos y comunidades interesados.
 
 ###### ARTÍCULO 12.
 
@@ -159,13 +159,11 @@ La Secretaría de Competitividad, Trabajo y Desarrollo Económico del Estado, ce
 
 ### CAPÍTULO III. DE LAS MUJERES, JÓVENES Y NIÑOS INDÍGENAS
 
-> <small>N. DE E. PARA CONSULTAR LA VERSION CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 29 DE JULIO DE 2011 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGIA CORRESPONDIENTE A DICHA FECHA, EN EL INDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA, ASI COMO EL ARCHIVO ANEXO.</small>
+> <small>(F. DE E., P.O. 29 DE JULIO DE 2011)</small>
 
 ###### ARTÍCULO 13.
 
-Para garantizar la participación efectiva y equitativa de las mujeres y de los hombres mayores de 18 años en la vida política, económica, social y cultural de los pueblos y comunidades indígenas, las dependencias y entidades de la administración pública con apoyo de los ayuntamientos, promoverán entre sus integrantes programas de concientización para su incorporación a estas actividades.
-
-> <small>N. DE E. PARA CONSULTAR LA VERSION CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 29 DE JULIO DE 2011 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGIA CORRESPONDIENTE A DICHA FECHA, EN EL INDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA, ASI COMO EL ARCHIVO ANEXO.</small>
+Para fomentar la participación efectiva y equitativa de las mujeres y de los hombres mayores de 18 años en la vida política, económica, social y cultural de los pueblos y comunidades indígenas, las dependencias y entidades de la administración pública con apoyo de los ayuntamientos, promoverán entre sus integrantes programas de concientización para su incorporación a estas actividades.
 
 ###### ARTÍCULO 14.
 
@@ -175,19 +173,23 @@ I. Instrumentar y operar programas dirigidos a las mujeres de los pueblos y comu
 
 II. Gestionar y proponer investigación que dé cuenta de la situación de las mujeres indígenas en distintos ámbitos, en coordinación con universidades y centros de estudio;
 
-III. Establecer políticas para el desarrollo económico, político, social y cultural de las mujeres indígenas; y
+> <small>(F. DE E., 29 DE JULIO DE 2011)</small>
+
+III. Proponer políticas para el desarrollo económico, político, social y cultural de las mujeres indígenas; y
 
 IV. Suscribir convenios de cooperación con instituciones públicas o privadas, tendientes a la capacitación de las mujeres indígenas para realizar actividades que estimulen su desarrollo integral.
-
-> <small>N. DE E. PARA CONSULTAR LA VERSION CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 29 DE JULIO DE 2011 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGIA CORRESPONDIENTE A DICHA FECHA, EN EL INDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA, ASI COMO EL ARCHIVO ANEXO.</small>
 
 ###### ARTÍCULO 15.
 
 Al Instituto Poblano de la Juventud le corresponde:
 
-I. Establecer las políticas necesarias para la inclusión de los jóvenes de los pueblos y comunidades indígenas en el desarrollo del Estado;
+> <small>(F. DE E., P.O. 29 DE JULIO DE 2011)</small>
 
-II. Definir en coordinación con las diversas dependencias y entidades de la administración pública, los programas de salud, alimentación, educación sexual y deportes incluyendo los deportes tradicionales, que requieran los jóvenes y niños de los pueblos y comunidades indígenas;
+I. Proponer las políticas necesarias para la inclusión de los jóvenes de los pueblos y comunidades indígenas en el desarrollo del Estado;
+
+> <small>(F. DE E., P.O. 29 DE JULIO DE 2011)</small>
+
+II. Proponer en coordinación con las diversas dependencias y entidades de la administración pública, los programas de salud, alimentación, educación sexual y deportes incluyendo los deportes tradicionales, que requieran los jóvenes y niños de los pueblos y comunidades indígenas;
 
 III. Participar en coordinación con las dependencias y entidades de la administración pública que correspondan, en la elaboración de proyectos productivos que permitan el desarrollo económico de los jóvenes de los pueblos y comunidades indígenas;
 
@@ -195,11 +197,11 @@ IV. Promover acciones destinadas a mejorar el nivel de vida, la formación integ
 
 V. Realizar en coordinación con las instancias correspondientes, campañas de información para los niños y jóvenes de los pueblos y comunidades indígenas, sobre los efectos nocivos que ocasiona el consumo de bebidas y sustancias que afecten la salud, asimismo para promover el respeto pleno a sus derechos.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSION CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 29 DE JULIO DE 2011 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGIA CORRESPONDIENTE A DICHA FECHA, EN EL INDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA, ASI COMO EL ARCHIVO ANEXO.</small>
+> <small>(F. DE E., P.O. 29 DE JULIO DE 2011)</small>
 
 ###### ARTÍCULO 16.
 
-Las dependencias y entidades de la administración pública en coordinación con los ayuntamientos y en el ámbito de sus respectivas competencias, realizarán programas dirigidos a la población infantil de los pueblos y comunidades indígenas con el propósito de mejorar sus condiciones en materia de salud, alimentación y educación.
+Las dependencias y entidades de la administración pública en coordinación con los ayuntamientos y en el ámbito de sus respectivas competencias, participarán en programas dirigidos a la población infantil de los pueblos y comunidades indígenas con el propósito de mejorar sus condiciones en materia de salud, alimentación y educación.
 
 ### CAPÍTULO IV. DE LA CULTURA Y EDUCACIÓN INDÍGENA
 
@@ -207,15 +209,15 @@ Las dependencias y entidades de la administración pública en coordinación con
 
 La Secretaría de Educación Pública del Estado, diseñará y propondrá en el ámbito de su competencia, planes y programas educativos tendientes a fortalecer, utilizar, desarrollar y transmitir a las generaciones futuras los usos y costumbres de cada pueblo y comunidad indígena además de sus historias, lenguas, tecnologías, tradiciones orales, filosofías, sistemas de escritura y literatura, así como de su toponimia en la designación de los nombres de sus comunidades, lugares y personas en sus lenguas.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSION CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 29 DE JULIO DE 2011 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGIA CORRESPONDIENTE A DICHA FECHA, EN EL INDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA, ASI COMO EL ARCHIVO ANEXO.</small>
-
 ###### ARTÍCULO 18.
 
 Para la elaboración de los programas educativos que al efecto se emitan, la Secretaría de Educación Pública del Estado llevará a cabo las acciones siguientes:
 
 I. Proponer que los contenidos educativos de nivel básico, medio superior y superior que se elaboren para los habitantes del Estado, cuenten con un enfoque intercultural, que permitan generar conocimientos respecto a los pueblos y comunidades indígenas y su cultura, asimismo que describan y expliquen su diversidad cultural y su cosmovisión, su historia, su forma de organización, sus conocimientos y prácticas que han prevalecido a pesar del tiempo;
 
-II. Establecer las políticas necesarias para garantizar que la educación básica, que se imparta en los pueblos y comunidades indígenas sea bilingüe e intercultural, fomentando el proceso enseñanza-aprendizaje en la lengua de la comunidad y en español;
+> <small>(F. DE E., P.O. 29 DE JULIO DE 2011)</small>
+
+II. Proponer las políticas necesarias para garantizar que la educación básica, que se imparta en los pueblos y comunidades indígenas sea bilingüe e intercultural, fomentando el proceso enseñanza-aprendizaje en la lengua de la comunidad y en español;
 
 III. Proponer normas pedagógicas, contenidos, planes y programas de estudio, métodos, materiales y auxiliares didácticos e instrumentos de evaluación del aprendizaje de la educación indígena;
 
@@ -291,12 +293,12 @@ La Secretaría de Salud del Estado a través de los Servicios de Salud del Estad
 
 La Secretaría de Salud del Estado a través de los Servicios de Salud del Estado de Puebla en coordinación con los ayuntamientos, realizará jornadas de salud en los pueblos y comunidades indígenas, durante las cuales se otorgarán servicios de atención médica, psicológica, orientación sexual, nutricional, asistencia social y de suministro de medicamentos.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSION CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 29 DE JULIO DE 2011 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGIA CORRESPONDIENTE A DICHA FECHA, EN EL INDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 ## TRANSITORIOS
 
 PRIMERO.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se dejan sin efecto todas aquellas disposiciones que contravengan el presente Reglamento.
 
-Dado en la sede del Poder Ejecutivo del Estado, a los quince días del mes de julio de dos mil once.- "Sufragio efectivo. No Reelección".- El Gobernador Constitucional del Estado Libre y Soberano de Puebla.- C. RAFAEL MORENO VALLE ROSAS.- Rúbrica.- El Secretario General de Gobierno.- C. FERNANDO LUIS MANZANILLA PRIETO.- Rúbrica.- El (sic) Secretaria de Desarrollo Social.- C. MYRIAM DE LOURDES ARABIÁN COUTTOLENC.- Rúbrica.
+> <small>(F. DE E., P.O. 29 DE JULIO DE 2011)</small>
+
+Dado en la sede del Poder Ejecutivo del Estado, a los quince días del mes de julio de dos mil once.- "Sufragio efectivo. No Reelección".- El Gobernador Constitucional del Estado Libre y Soberano de Puebla.- C. RAFAEL MORENO VALLE ROSAS.- Rúbrica.- El Secretario General de Gobierno.- C. FERNANDO LUIS MANZANILLA PRIETO.- Rúbrica.- La Secretaria de Desarrollo Social.- C. MYRIAM DE LOURDES ARABIÁN COUTTOLENC.- Rúbrica.
