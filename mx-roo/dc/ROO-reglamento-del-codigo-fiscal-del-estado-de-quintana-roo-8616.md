@@ -4,7 +4,7 @@ identifier: "ROO-reglamento-del-codigo-fiscal-del-estado-de-quintana-roo-8616"
 country: "mx"
 rank: "reglamento"
 publication_date: "1996-04-15"
-last_updated: "2003-03-28"
+last_updated: "2011-07-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8616&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 REGLAMENTO DEL CODIGO FISCAL DEL ESTADO DE QUINTANA ROO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE MARZO DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE JULIO DE 2011.
 
 Reglamento publicado en el Periódico Oficial del Estado de Quintana Roo, el lunes 15 de abril de 1996.
 
@@ -62,6 +62,10 @@ VI.- Oficina Recaudadora de Rentas del Estado en el Municipio de Benito Juárez,
 VII.- Oficina Recaudadora de Rentas del Estado en el Municipio de Isla Mujeres, con cabecera en la población del mismo nombre; y
 
 VIII.- Oficina Recaudadora de Rentas del Estado en el Municipio de Solidaridad, con cabecera en la población de Playa del Carmen.
+
+> <small>(ADICIONADA, P.O. 29 DE JULIO DE 2011)</small>
+
+IX.- Oficina Recaudadora de Rentas del Estado en el Municipio de Tulum, con cabecera en la población de Tulum.
 
 Todas las Oficinas Recaudadoras de Rentas señaladas, serán competentes dentro de su circunscripción territorial establecidas en el artículo 130 de la Constitución Política del Estado Libre y Soberano de Quintana Roo.
 
@@ -702,3 +706,9 @@ P.O. 28 DE MARZO DE 2003.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Quintana Roo.
 
 SEGUNDO. Se dejan sin efecto todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 29 DE JULIO DE 2011.
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO.- Se dejan sin efecto todas las disposiciones legales de igual o menor jerarquía que se opongan al presente Decreto.
