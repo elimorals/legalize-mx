@@ -4,7 +4,7 @@ identifier: "BCN-ley-que-establece-las-bases-de-operacion-de-las-casas-de-76507"
 country: "mx"
 rank: "ley"
 publication_date: "2010-08-27"
-last_updated: "2010-08-27"
+last_updated: "2011-07-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76507&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY QUE ESTABLECE LAS BASES DE OPERACION DE LAS CASAS DE EMPEÑO DEL ESTADO DE BAJA CALIFORNIA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE JULIO DE 2011.
 
 Ley publicada en la Sección II al Periódico Oficial del Estado de Baja California, el viernes 27 de agosto de 2010.
 
@@ -109,7 +109,9 @@ A la Secretaría corresponderán las siguientes atribuciones:
 
 I. La recepción y estudio de las solicitudes de expedición, revalidación, modificación y reposición del permiso;
 
-II. Resolver respecto a las solicitudes que se mencionan en la fracción anterior;
+> <small>(REFORMADA, P.O. 29 DE JULIO DE 2011)</small>
+
+II. Elaborar la resolución respecto a las solicitudes que se mencionan en la fracción anterior;
 
 III. Notificar las resoluciones correspondientes;
 
@@ -119,11 +121,13 @@ V. Aplicar las medidas cautelares previstas en esta Ley;
 
 VI. Aplicar las sanciones por infracciones a esta Ley y su Reglamento;
 
-VII. Autorizar los libros para el registro de contratos;
+> <small>(REFORMADA, P.O. 29 DE JULIO DE 2011)</small>
 
-VIII. Dar vista al Ministerio Público, cuando se presuma la comisión de un delito en la operación de la casa de empeño; y
+VII. Dar vista al Ministerio Público, cuando se presuma la comisión de un delito en la operación de la casa de empeño, y
 
-IX. Las demás que sean necesarias para el debido cumplimiento de la Ley y su Reglamento.
+> <small>(REFORMADA, P.O. 29 DE JULIO DE 2011)</small>
+
+VIII. Las demás que sean necesarias para el debido cumplimiento de la Ley y su Reglamento.
 
 ### CAPÍTULO TERCERO. DE LOS PERMISOS
 
@@ -201,7 +205,9 @@ VI.- Exhibir copia certificada del Registro Federal de Contribuyente;
 
 VII.- Exhibir copia certificada de los avisos de apertura ante el Registro Federal de Contribuyente y Registro Estatal de Causantes;
 
-VIII.- Exhibir el contrato que utilizarán para la celebración de los préstamos ofertados al público, mismo que deberá contener el registro expedido por la Procuraduría Federal del Consumidor;
+> <small>(REFORMADA, P.O. 29 DE JULIO DE 2011)</small>
+
+VIII.- Exhibir el contrato que utilizarán para la celebración de los prestamos ofertados al público, mismo que deberá contener el registro expedido por la Procuraduría Federal del Consumidor, y en su caso Condusef.
 
 IX.- Exhibir constancia de uso de suelo, expedida por la autoridad municipal correspondiente;
 
@@ -223,13 +229,17 @@ La Secretaría contará con un plazo de veinte días hábiles para resolver lo c
 
 La existencia de un dato falso en la solicitud y documentos anexos o alteración de éstos, será motivo suficiente para resolver negativamente la solicitud.
 
-De igual forma será motivo suficiente para negar el permiso, cuando el establecimiento objeto de la solicitud haya sido clausurado dentro de los seis meses anteriores a la presentación de la misma, por haber operado sin el permiso correspondiente.
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2011)</small>
+
+De igual forma será motivo suficiente para negar el permiso, cuando el establecimiento objeto de la solicitud haya sido clausurado dentro de los seis meses anteriores a la presentación de la misma, por haber operado sin el permiso correspondiente, y no sea una persona moral o física de acreditada solvencia, y una continuidad en sus operaciones de mínimo tres años.
 
 #### SECCIÓN SEGUNDA. DE LA EXPEDICIÓN DEL PERMISO
 
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2011)</small>
+
 ###### ARTÍCULO 19.
 
-La Secretaría al resolver favorablemente la solicitud de un permiso, requerirá al peticionario para que dentro del término de diez días hábiles, contados a partir del día siguiente a la notificación de la resolución, exhiba la póliza de seguro en los términos previstos por la fracción IV del artículo 15, así como el libro de registro de contratos establecido en el artículo 37 de esta Ley; apercibiéndolo que de no hacerlo se negará la expedición del permiso, quedando a salvo su derecho a presentar nueva solicitud.
+La Secretaría al resolver favorablemente la solicitud de un permiso, requerirá al peticionario para que dentro del término de diez días hábiles, contados a partir del día siguiente a la notificación de la resolución, exhiba la póliza de seguro en los términos previstos por la fracción IV del artículo 15, apercibiéndolo que de no hacerlo se negará la expedición del permiso, quedando a salvo su derecho a presentar nueva solicitud.
 
 ###### ARTÍCULO 20.
 
@@ -259,13 +269,17 @@ V.- Las demás que se establezcan en el Reglamento de la Ley.
 
 La Secretaría, recibida la solicitud de revalidación, procederá a realizar el estudio de cumplimiento de requisitos y practicará las visitas de verificación que considere necesarias.
 
-Cuando el peticionario no cumpla con los requisitos establecidos en el artículo anterior, la Secretaría lo requerirá para que exhiba los documentos o información omitida, otorgándole un plazo de tres días hábiles para su cumplimiento; apercibiéndolo que de no hacerlo la Secretaría resolverá que se tendrá por no presentada la solicitud, quedando a salvo su derecho a formular nueva solicitud.
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2011)</small>
+
+Cuando el peticionario no cumpla con los requisitos establecidos en el artículo anterior, la Secretaría lo requerirá para que exhiba los documentos o información omitida, otorgándole un plazo de cinco días hábiles para su cumplimiento; apercibiéndolo que de no hacerlo la Secretaría resolverá que se tiene por no presentada la solicitud, quedando a salvo su derecho a formular nueva solicitud.
 
 ###### ARTÍCULO 24.
 
 La Secretaría contará con un plazo de diez días hábiles para resolver lo conducente, a partir de la presentación de la solicitud de revalidación, y en caso de que se hubiese requerido al peticionario, a partir del vencimiento del plazo concedido.
 
-La Secretaría al resolver favorablemente la solicitud de revalidación, requerirá al peticionario para que dentro del término de tres días hábiles contados a partir del día siguiente a la notificación de la resolución, exhiba el libro de registro de contratos establecido en el artículo 37 de esta Ley; apercibiéndolo que de no hacerlo se negará la expedición del nuevo permiso.
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2011)</small>
+
+La Secretaría al resolver favorablemente la solicitud de revalidación, requerirá al peticionario para que dentro del término de cinco días hábiles contados a partir del día siguiente a la notificación de la resolución, exhiba comprobante de pago de obligaciones fiscales; apercibiéndolo que de no hacerlo se negará la expedición (sic) nuevo permiso.
 
 ###### ARTÍCULO 25.
 
@@ -309,7 +323,9 @@ VI.- Las demás que determine el Reglamento.
 
 La Secretaría recibida la solicitud de modificación procederá a realizar el estudio de cumplimiento de requisitos y practicará las visitas de verificación que considere necesarias.
 
-Cuando el peticionario no cumpla con los requisitos establecidos en el artículo anterior, la Secretaría lo requerirá para que exhiba los documentos o información omitida, otorgándole un plazo de tres días hábiles para su cumplimiento; apercibiéndolo que de no hacerlo la Secretaría resolverá que se tiene por no presentada la solicitud, quedando a salvo su derecho a formular nueva solicitud.
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2011)</small>
+
+Cuando el peticionario no cumpla con los requisitos establecidos en el artículo anterior, la Secretaría lo requerirá para que exhiba los documentos o información omitida, otorgándole un plazo de cinco días hábiles para su cumplimiento, apercibiéndolo que de no hacerlo la Secretaría resolverá que se tiene por no presentada la solicitud, quedando a salvo su derecho a formular nueva solicitud.
 
 ###### ARTÍCULO 30.
 
@@ -345,37 +361,23 @@ La Secretaría contará con un plazo de diez días hábiles para resolver lo con
 
 ### CAPÍTULO CUARTO. DE LOS CONTRATOS
 
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2011)</small>
+
 ###### ARTÍCULO 35.
 
-Los permisionarios deberán sujetar los contratos que celebren, a las formalidades que se establecen en esta Ley, debiendo contener los requisitos estipulados en las normas oficiales mexicanas sobre este tipo de servicio.
+Los permisionarios deberán sujetar los contratos que celebren, a las formalidades que se establecen en esta Ley, debiendo contener los requisitos estipulados en la legislación federal aplicable a la celebración de contratos de mutuo con interés y garantía prendaria, así como también a las normas oficiales mexicanas sobre este tipo de servicio.
+
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2011)</small>
 
 ###### ARTÍCULO 36.
 
-El documento oficial con fotografía que ampare la identidad del pignorante y los documentos que acrediten la propiedad del bien pignorado, deberán anexarse al contrato, en copia simple, debidamente cotejada con su original.
+El documento oficial con fotografía que ampare la identidad del Pignorante, deberán anexarse al contrato, en copia simple, debidamente cotejada con su original. El pignorante, que realice varias operaciones y estas lleguen a la etapa de comercialización, y las demasías, no sean reclamadas, se denominarán operaciones inusuales.
 
-De no contar el pignorante con la documentación que acredite la propiedad del bien pignorado, deberá emitir manifiesto donde reconoce expresamente que es el legítimo e indiscutible propietario del mismo, debiéndose identificar plenamente con documento oficial o acompañado de dos personas debidamente identificadas que atestigüen que la prenda es de su propiedad. De lo anterior, quedará constancia en la casa de empeño anexándose las copias de identificación respectivas.
-
-El permisionario que tenga conocimiento de la comisión de hechos posiblemente delictuosos, con motivo de los servicios que presta, está obligado a denunciarlo ante el Ministerio Público.
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2011)</small>
 
 ###### ARTÍCULO 37.
 
-La casa de empeño deberá registrar los contratos en el libro autorizado por la Secretaría, mismo que contendrá:
-
-I.- El número de los contratos por orden correlativo;
-
-II.- Fecha y hora del empeño;
-
-III.- Nombre del pignorante, forma y número de identificación;
-
-IV.- Detalle de los objetos dados en prenda, y su valor estimado;
-
-V.- Importe del préstamo, intereses y gastos cargados;
-
-VI.- Vencimiento, fecha de cancelación o refrendo del préstamo; y
-
-VII.- En su caso, precio de la venta de los objetos.
-
-Los libros de registro de contrato deberán ser conservados por la casa de empeño por un periodo de cinco años, a partir de su autorización. Para asentar los datos que refieren las fracciones anteriores, deberá utilizarse procedimiento de escritura o impresión que sean firmes, indelebles y legibles. El Reglamento establecerá los mecanismos para ello.
+La casa de empeño deberá otorgar fianza ante la Secretaría, en caso que lesione intereses de los pignorantes y/o en caso de cierre operaciones, se hará válida la misma, cada año será requisito indispensable para que se otorgue el permiso.
 
 ### CAPÍTULO QUINTO. DE LAS MEDIDAS CAUTELARES Y DE LAS SANCIONES
 
@@ -401,39 +403,31 @@ II. Suspensión temporal del permiso, hasta por treinta días naturales; o
 
 III. Cancelación del permiso.
 
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2011)</small>
+
 ###### ARTÍCULO 41.
 
 Se impondrá multa al permisionario, cuando:
 
-I. De hasta cincuenta a quinientos días de salario mínimo general vigente en la región, cuando:
+I. Opere la casa de empeño fuera del horario establecido en esta Ley;
 
-a) Opere la casa de empeño fuera del horario establecido en esta Ley.
+II. No coloque el permiso, dentro del establecimiento de manera permanente y visible;
 
-b) No coloque el permiso dentro del establecimiento de manera permanente y visible.
+III. Celebre en la casa de empeño, contratos diversos al exhibido al momento de la solicitud del permiso;
 
-c) No conserve los documentos relativos a las operaciones realizadas en la casa de empeño, durante los cinco años anteriores.
+IV. No cumpla con el pago de obligaciones fiscales y comerciales;
 
-d) Omita anexar al contrato, copia del documento oficial con fotografía que acredite la identidad del pignorante, así como copia de la factura o documento con que se acredite la propiedad del bien pignorado, o bien el manifiesto a que se refiere esta ley.
+V. Omita dar cumplimiento a lo dispuesto en el artículo 31 de esta Ley;
 
-e) Se oponga sin causa justificada a la práctica de una diligencia de inspección.
+VI. Omita anexar al contrato, copia del documento oficial con fotografía que acredite la identidad del pignorante, así también copia de la factura o documento con que se acredite la propiedad del bien pignorado, o bien el manifiesto a que se refiere esta Ley;
 
-f) Solicite extemporáneamente la revalidación del permiso, dentro de los dos meses siguientes a su vencimiento.
+VII. Se oponga sin causa justificada, a la práctica de una diligencia de inspección;
 
-g) Por las demás infracciones a las disposiciones de esta ley, que no ameriten la suspensión o cancelación del permiso.
+VIII. Se oponga sin causa justificada, a exhibir al inspector designado, el permiso, la constancia de revalidación o de modificación del permiso, así como el recibo de pago de obligaciones fiscales y de cualquier otro documento relacionado con sus operaciones;
 
-II. Suspensión temporal del permiso, hasta por treinta días naturales cuando:
+IX. Solicite extemporáneamente la revalidación del permiso, dentro de los dos meses siguientes a su vencimiento, o
 
-a) No lleve el libro de registro referido en el artículo 37 de esta ley.
-
-b) No mantenga al día el registro de las operaciones que realice en la casa de empeño, en el libro a que se refiere la fracción anterior.
-
-c) Se oponga sin causa justificada, a exhibir al inspector designado, el permiso, la constancia de revalidación o de modificación del permiso, así como de los contratos y de cualquier otro documento relacionado con sus operaciones.
-
-III. Cancelación del permiso cuando:
-
-a) Celebre en la casa de empeño, contratos diversos al exhibido al momento de la solicitud del permiso.
-
-b) Omita dar cumplimiento a lo dispuesto en el artículo 31 de esta Ley.
+X. Por las demás infracciones a las disposiciones de esta Ley, que no ameriten la suspensión o cancelación del permiso.
 
 ###### ARTÍCULO 42.
 
@@ -441,7 +435,9 @@ Se impondrá suspensión temporal al permisionario, cuando:
 
 I. No solicite la modificación del permiso en los términos previstos en esta Ley y el Reglamento; o
 
-II. Acumule dos multas dentro de un período de veinticuatro meses.
+> <small>(REFORMADA, P.O. 29 DE JULIO DE 2011)</small>
+
+II. Acumule una multa dentro de un período de veinticuatro meses, y no cuente con una operación de tres años continuos, celebrando contratos de mutuo con interés y garantía prendaria, y no sea de acreditada solvencia.
 
 En estos casos, el propietario de la casa de empeño, será el depositario de los bienes en prenda, quedando bajo su más estricta responsabilidad la guarda y custodia de los mismos.
 
@@ -483,7 +479,7 @@ Iniciado el procedimiento, la autoridad, a fin de asegurar la eficacia de la res
 
 I.- Clausura temporal; y
 
-II.- Aseguramiento de bienes.
+II.- (DEROGADA, P.O. 29 DE JULIO DE 2011)
 
 Las medidas cautelares no prejuzgan sobre la materia de las imputaciones atribuidas en el procedimiento a que se refiere el artículo anterior, y cesarán cuando así lo determine la Secretaría o cuando concluya el procedimiento.
 
@@ -521,9 +517,11 @@ En este caso, previa autorización de la Secretaría, el propietario de la casa 
 
 ### CAPÍTULO SEXTO. DE LOS RECURSOS
 
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2011)</small>
+
 ###### ARTÍCULO 50.
 
-En caso de inconformidad por la aplicación de alguna de las disposiciones o resoluciones contenidas en esta Ley y su Reglamento, los interesados afectados podrán interponer el recurso de revocación en los términos del Título Quinto de la Ley del Procedimiento para los actos de la Administración Pública del Estado.
+En caso de inconformidad por la aplicación de alguna de las disposiciones o resoluciones contenidas en esta Ley y su Reglamento, los interesados afectados podrán interponer los recursos en los términos de la Ley del Procedimiento para los actos de la Administración Pública del Estado.
 
 ## ARTÍCULOS TRANSITORIOS
 
@@ -562,3 +560,11 @@ GOBERNADOR DEL ESTADO.
 CUAUHTÉMOC CARDONA BENAVIDES
 
 SECRETARIO GENERAL DE GOBIERNO.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS DEL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 29 DE JULIO DE 2011.
+
+PRIMERO. El presente Decreto iniciara su vigencia el día siguiente al de su publicación en el Periódico Oficial del Estado de Baja California.
+
+SEGUNDO. El Ejecutivo del Estado, tendrá un plazo de 45 días naturales, a partir de la publicación del Presente Decreto, para realizar los cambios a los reglamentos aplicables
