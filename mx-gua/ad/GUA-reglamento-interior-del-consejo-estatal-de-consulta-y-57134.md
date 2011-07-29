@@ -4,7 +4,7 @@ identifier: "GUA-reglamento-interior-del-consejo-estatal-de-consulta-y-57134"
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-09-18"
-last_updated: "2007-09-18"
+last_updated: "2011-07-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57134&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "GUA"
 
 REGLAMENTO INTERIOR DEL CONSEJO ESTATAL DE CONSULTA Y PARTICIPACION CIUDADANA
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DEL CONSEJO ESTATAL DE CONSULTA Y PARTICIPACION CIUDADANA, PUBLICADO EN EL P.O. DE 29 DE JULIO DE 2011, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
 
 Reglamento publicado en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el martes 18 de septiembre de 2007.
 
@@ -388,3 +390,15 @@ JOSÉ GERARDO MOSQUEDA MARTÍNEZ
 EL SECRETARIO DE SEGURIDAD PÚBLICA
 
 BALTASAR VILCHES HINOJOSA
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 29 DE JULIO DE 2011.
+
+Artículo Primero. El presente Decreto Gubernativo entrará en vigencia el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Artículo Segundo. Se abroga el Decreto Gubernativo número 46 publicado en el Periódico Oficial del Gobierno del Estado número 150, segunda parte, de fecha 18 de septiembre de 2007, mediante el cual se expidió el Reglamento Interior del Consejo Estatal de Consulta y Participación Ciudadana.
+
+Artículo Tercero. Se derogan todas aquellas disposiciones que se opongan al presente Decreto Gubernativo.
+
+Artículo Cuarto. Los consejeros ciudadanos que integran el Consejo al iniciar la vigencia del presente Decreto Gubernativo, continuarán en funciones hasta la conclusión de su cargo conforme a lo establecido en la Ley.
