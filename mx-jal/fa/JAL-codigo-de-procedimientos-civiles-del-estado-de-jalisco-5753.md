@@ -4,7 +4,7 @@ identifier: "JAL-codigo-de-procedimientos-civiles-del-estado-de-jalisco-5753"
 country: "mx"
 rank: "codigo"
 publication_date: "1938-12-24"
-last_updated: "2011-01-08"
+last_updated: "2011-07-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5753&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "JAL"
 
 CODIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE ENERO DE 2011.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE JULIO DE 2011.
 
 Código publicado en el Periódico Oficial del Estado de Jalisco, el 24 de diciembre de 1938.
 
@@ -5680,14 +5680,6 @@ Si antes de la celebración de la audiencia de pruebas y alegatos, el demandado 
 
 > <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2003)</small>
 
-ARTICULO 686 ter.- La audiencia a que se refiere el artículo anterior podrá ser diferida, a criterio del juez, por una sola ocasión, de oficio o a petición de parte, justificando debidamente el motivo del aplazamiento.
-
-> <small>(F. DE E., P.O. 30 DE MARZO DE 2004)</small>
-
-Cuando la causa del diferimiento de la audiencia, en los términos del párrafo anterior, sea la imposibilidad de desahogar en ese momento alguna prueba, el juez señalará nueva fecha para su celebración, dentro de los diez días siguientes, apercibiendo a las partes que de no aportar los elementos necesarios para el desahogo de las mismas, se les tendrá por perdido ese derecho, continuándose con el desarrollo de la audiencia.
-
-> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2003)</small>
-
 ARTICULO 686 bis.- El juez debe citar a la audiencia de pruebas y alegatos, dentro de los treinta días posteriores a la emisión del auto que admite la contestación de la demanda o de la reconvención, en su caso, previniendo a las partes, con por lo menos cinco días de anticipación a la fecha señalada para la celebración de la audiencia, para que aporten los elementos necesarios para el desahogo de las pruebas a su cargo.
 
 Abierta la audiencia se procederá al desahogo, por su orden, de las pruebas y una vez desahogadas, se procederá a la formulación de alegatos, ya sea oralmente o por escrito. Acto continuo el juez citará a las partes, para oír sentencia, misma que deberá ser dictada, dentro de los quince días siguientes.
@@ -5695,6 +5687,14 @@ Abierta la audiencia se procederá al desahogo, por su orden, de las pruebas y u
 > <small>(F. DE E., P.O. 30 DE MARZO DE 2004)</small>
 
 Las partes podrán alegar verbalmente, sin que los alegatos puedan exceder de veinte minutos por cada parte, incluyendo las réplicas y contrarréplicas.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2003)</small>
+
+ARTICULO 686 ter.- La audiencia a que se refiere el artículo anterior podrá ser diferida, a criterio del juez, por una sola ocasión, de oficio o a petición de parte, justificando debidamente el motivo del aplazamiento.
+
+> <small>(F. DE E., P.O. 30 DE MARZO DE 2004)</small>
+
+Cuando la causa del diferimiento de la audiencia, en los términos del párrafo anterior, sea la imposibilidad de desahogar en ese momento alguna prueba, el juez señalará nueva fecha para su celebración, dentro de los diez días siguientes, apercibiendo a las partes que de no aportar los elementos necesarios para el desahogo de las mismas, se les tendrá por perdido ese derecho, continuándose con el desarrollo de la audiencia.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1994)</small>
 
@@ -7616,9 +7616,13 @@ III. Por el ejecutor testamentario;
 
 > <small>(REFORMADA, P.O. 31 DE MAYO DE 2007)</small>
 
-IV. Por el Agente de la Procuraduría Social; y
+IV. Por el Agente de la Procuraduría Social; y (sic)
 
 V. Por el Consejo de Familia.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 30 DE JULIO DE 2011)</small>
+
+VI. Por aquel que tenga conocimiento de que existe un documento público de tutela voluntaria en donde se le designa como tutor.
 
 > <small>(REFORMADO, P.O. 31 DE MAYO DE 2007)</small>
 
@@ -7630,11 +7634,15 @@ En los casos del artículo anterior, presentada la solicitud de interdicción el
 
 Si del dictamen pericial resultare comprobada la demencia o por lo menos duda fundada acerca de la incapacidad de la persona cuya interdicción se pide, el Tribunal dictará las siguientes medidas:
 
-I.- Nombrará tutor y curador interinos, sujetándose a las disposiciones de este Capítulo, pero sin que pueda ser nombrada la persona que haya promovido la interdicción;
+> <small>(REFORMADA, P.O. 30 DE JULIO DE 2011)</small>
 
-II.- Pondrá los bienes del presunto incapacitado bajo la administración del tutor interino, y los de la copropiedad, si los hubiere, bajo la administración del otro cónyuge;
+I. Nombrará tutor y curador interinos, sujetándose a las disposiciones de este capítulo, pero sin que pueda ser nombrada la persona que haya promovido la interdicción, salvo que se encuentre en el supuesto comprendido en el artículo 967, fracción VI;
 
-III.- Proveerá legalmente a la patria potestad o tutela de las personas que tuviere bajo su guarda el presunto incapacitado.
+> <small>(REFORMADA, P.O. 30 DE JULIO DE 2011)</small>
+
+II. Pondrá los bienes del presunto incapacitado bajo la administración del tutor interino, y los de la copropiedad, si los hubiere, bajo la administración de otro cónyuge, y
+
+III. Proveerá legalmente a la patria potestad o tutela de las personas que tuviere bajo su guarda el presunto incapacitado.
 
 Del auto en que se dicten esas providencias no procederá apelación sino en el efecto devolutivo.
 
@@ -7657,6 +7665,18 @@ II.- El estado de demencia puede probarse por testigos o documentos; pero en tod
 III.- El que promueva dolosamente la interdicción incurrirá en las penas que la Ley impone por falsedad y calumnia y, sin perjuicio de la responsabilidad civil en que incurra, deberá pagar una multa hasta por el importe de ciento ochenta días, a favor del erario estatal; y
 
 IV.- Luego que cause ejecutoria la sentencia de interdicción, el Juez llamará al ejercicio de la tutela a las personas a quienes corresponda conforme a la ley, o hará el nombramiento de tutor en los casos que para ello esté legalmente facultado. Cuando el cargo de tutor definitivo deba recaer en el tutor interino, bastará confirmar el nombramiento anterior; lo mismo se observará para el nombramiento de curador definitivo.
+
+> <small>(ADICIONADO, P.O. 30 DE JULIO DE 2011)</small>
+
+###### ARTICULO 971
+
+Bis. En todo procedimiento emanado de un documento público en donde se establezca la tutela voluntaria, para declarar la interdicción se observarán las siguientes reglas:
+
+I. Mientras no se pronuncie sentencia irrevocable, la tutela interina debe limitarse a los actos de mera protección a la persona y conservación de los bienes del incapacitado. Si ocurriere urgente necesidad de otros actos, el tutor interino podrá obrar prudentemente, previa autorización judicial;
+
+II. El estado de demencia o incapacidad psíquica será declarado de conformidad con lo establecido en el Capítulo II del Título Décimo Tercero del Código de Procedimientos Civiles del Estado de Jalisco, y
+
+III. El que promueva dolosamente la interdicción incurrirá en las penas que la ley impone por falsedad y calumnia y, sin perjuicio de la responsabilidad civil en que incurra, deberá pagar una multa hasta por el importe de ciento ochenta días a favor del erario estatal.
 
 ###### ARTICULO 972.
 
@@ -8915,3 +8935,7 @@ P.O. 8 DE ENERO DE 2011.
 DECRETO NUMERO 23467/LIX/10, SE REFORMA EL PRIMER PARRAFO DEL ARTICULO 871 DEL CODIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE JALISCO.
 
 ÚNICO. Este decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 30 DE JULIO DE 2011.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
