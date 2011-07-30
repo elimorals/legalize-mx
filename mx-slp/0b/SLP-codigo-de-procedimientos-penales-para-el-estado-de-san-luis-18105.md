@@ -4,7 +4,7 @@ identifier: "SLP-codigo-de-procedimientos-penales-para-el-estado-de-san-luis-181
 country: "mx"
 rank: "codigo"
 publication_date: "2000-09-30"
-last_updated: "2011-07-23"
+last_updated: "2011-07-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18105&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE SAN LUIS POTOSI
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE JULIO DE 2011.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE JULIO DE 2011.
 
 Código publicado en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 30 de septiembre de 2000.
 
@@ -1707,9 +1707,13 @@ Cuando hubiere versiones distintas acerca de la forma en que ocurrieron los hech
 
 ### CAPITULO IV. PERICIAL
 
+> <small>(REFORMADO, P.O. 30 DE JULIO DE 2011)</small>
+
 ###### ARTICULO 247.
 
-Siempre que para el examen de personas, hechos u objetos se requieran conocimientos especiales de determinadas ciencias, técnicas o artes, se procederá con intervención de peritos.
+Siempre que para el examen de personas, hechos u objetos se requieran conocimientos especiales de determinadas ciencias, técnicas o artes, se procederá con la intervención de peritos, quienes deberán contar con título oficial en la ciencia, técnica o arte relativos al punto sobre el cual dictaminarán, si el ejercicio de su profesión está reglamentado; de lo contrario, deberán nombrarse peritos prácticos en la materia.
+
+En el caso de que el punto sobre el que deba dictaminarse corresponda a las ciencias médicas, los peritos deberán ser profesionales certificados por las academias nacionales; consejos de medicina de la especialidad, nacionales o estatales; y de los colegios de la especialidad registrados ante la Dirección Estatal de Profesiones.
 
 ###### ARTICULO 248.
 
@@ -2629,11 +2633,11 @@ Si se declara fundada la solicitud de reconocimiento de la inocencia del sentenc
 
 ### CAPITULO I. LIBERTAD PROVISIONAL BAJO CAUCION
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE JULIO DE 2011)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE JULIO DE 2011)</small>
 
 ###### ARTICULO 407.
 
-Todo inculpado tendrá derecho a ser puesto en libertad bajo caución, siempre que no se trate de los siguientes delitos considerados como graves: homicidio simple intencional; homicidio calificado; feminicidio; parricidio; aborto; ataque peligroso; privación ilegal de la libertad; secuestro; secuestro exprés; exposición al peligro a que se refiere el artículo 147 Bis del Código Penal del Estado; robo de infante; tráfico de menores; asalto; violación; violación equiparada; abuso sexual calificado; corrupción de personas menores de dieciocho años, o personas que no tienen capacidad para comprender el significado del hecho, o de personas que no tiene (sic) capacidad para resistirlo; pornografía de personas menores de dieciocho años, o personas que no tienen capacidad para comprender el significado del hecho, o de personas que no tiene (sic) capacidad para resistirlo; turismo sexual de personas menores de dieciocho años, o personas que no tienen capacidad para comprender el significado del hecho, o de personas que no tiene (sic) capacidad para resistirlo; lenocinio de personas menores de dieciocho años o personas que no tienen capacidad para comprender el significado del hecho, o de personas que no tiene (sic) capacidad para resistirlo; trata de personas de menores de dieciocho años o personas que no tienen capacidad para comprender el significado del hecho o de personas que no tiene (sic) capacidad para resistirlo; trata de personas a que se refieren los artículos, 188 Bis, 188 Ter, y 188 Quáter; robo calificado; robo equiparado que señala el artículo 195 Bis del Código Penal del Estado; abigeato; extorsión previsto en los artículos, 212 y 212 bis de la ley sustantiva penal; rebelión; motín; terrorismo; asociación delictuosa; evasión; tortura; ataque a las vías de comunicación y medios de transporte; homicidio por culpa a que se refiere el artículo 64 del Código Penal del Estado; deslealtad al empleo, cargo o comisión, o perjuicio al servicio público, a que se refiere el artículo 293 Bis del Código Penal del Estado; y narcomenudeo previsto en los artículos 325 y 326 del Código Penal del Estado.
+Todo inculpado tendrá derecho a ser puesto en libertad bajo caución, siempre que no se trate de los siguientes delitos considerados como graves: homicidio simple intencional; homicidio calificado; feminicidio; parricidio; aborto; ataque peligroso; privación ilegal de la libertad; secuestro; secuestro exprés; exposición al peligro a que se refiere el artículo 147 Bis del Código Penal del Estado; uso ilícito de equipos de radiocomunicación a que alude el artículo 147 Ter del Código Penal; robo de infante; tráfico de menores; asalto; violación; violación equiparada; abuso sexual calificado; corrupción de personas menores de dieciocho años, o personas que no tienen capacidad para comprender el significado del hecho, o de personas que no tiene (sic) capacidad para resistirlo; pornografía de personas menores de dieciocho años, o personas que no tienen capacidad para comprender el significado del hecho, o de personas que no tiene (sic) capacidad para resistirlo; turismo sexual de personas menores de dieciocho años, o personas que no tienen capacidad para comprender el significado del hecho, o de personas que no tiene (sic) capacidad para resistirlo; lenocinio de personas menores de dieciocho años o personas que no tienen capacidad para comprender el significado del hecho, o de personas que no tiene (sic) capacidad para resistirlo; trata de personas de menores de dieciocho años o personas que no tienen capacidad para comprender el significado del hecho o de personas que no tiene (sic) capacidad para resistirlo; trata de personas a que se refieren los artículos 188 Bis, 188 Ter, 188 Quáter; robo calificado; robo equiparado que señala el artículo 195 BIS del Código Penal del Estado; abigeato, extorsión previsto en los artículos, 212 y 212 Bis de la Ley Sustantiva Penal; rebelión; motín, terrorismo; asociación delictuosa; evasión; tortura; ataque a las vías de comunicación y medios de transporte; homicidio por culpa a que se refiere el artículo 64 del Código Penal del Estado; deslealtad al empleo, cargo o comisión, o perjuicio al servicio público, a que se refiere el párrafo primero del artículo 293 Bis del Código Penal del Estado; y narcomenudeo previsto en los artículos 325 y 326 del Código Penal del Estado.
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
@@ -3776,3 +3780,19 @@ P.O. 23 DE JULIO DE 2011.
 PRIMERO. Este Decreto en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan las disposiciones que se opongan a este Decreto.
+
+P.O. 30 DE JULIO DE 2011.
+
+DECRETO 705 POR EL QUE SE REFORMA EL ARTICULO 407 EN SU PARRAFO PRIMERO, DEL CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE SAN LUIS POTOSI.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 30 DE JULIO DE 2011.
+
+DECRETO 708 POR EL QUE SE REFORMA EL ARTICULO 247 DEL CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE SAN LUIS POTOSI.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de San Luis Potosí.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan a éste.
