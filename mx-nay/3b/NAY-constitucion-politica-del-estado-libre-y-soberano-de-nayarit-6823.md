@@ -4,7 +4,7 @@ identifier: "NAY-constitucion-politica-del-estado-libre-y-soberano-de-nayarit-68
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-02-17"
-last_updated: "2010-12-16"
+last_updated: "2011-07-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6823&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE NAYARIT
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE DICIEMBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE JULIO DE 2011.
 
 Constitución publicada en el Periódico Oficial del Estado de Nayarit, los días 17, 21, 24 y 28 de febrero y 3, 7, 10 y 14 de marzo de 1918.
 
@@ -535,7 +535,9 @@ A. Deberán contribuir al equilibrio presupuestario e incluirán estimaciones ec
 
 En caso de presentarse durante el año una reducción a los ingresos aprobados, deberán ajustarse los gastos proporcionalmente, en la forma que determine la ley.
 
-El contenido del Presupuesto de Egresos deberá permitir la identificación clara y desagregada del gasto público que garantice la transparencia de su ejercicio y la fiscalización de su cumplimiento.
+> <small>(REFORMADO, P.O. 30 DE JULIO DE 2011)</small>
+
+La Presupuestación del Gasto Público se basará en las orientaciones, lineamientos y políticas establecidas en el Plan Estatal de Desarrollo; se realizará con sustento en programas que permitan la identificación clara y desagregada del gasto público, objetivos que se persiguen con cada uno de ellos, y los responsables de la ejecución, medición y verificación de sus resultados. Dichos programas en su formulación y ejercicio, deberán atender a lo dispuesto por esta Constitución en materia de administración y gasto público.
 
 B. El Ejecutivo elaborará las iniciativas de Ley de Ingresos del Estado y de Presupuesto de Egresos del Estado, las cuales hará llegar al Congreso a más tardar el día 31 de octubre del año anterior al de su vigencia debiendo comparecer el secretario del despacho correspondiente a dar cuenta de las mismas. La modificación a dicho plazo procederá en los términos que fije la ley.
 
@@ -546,6 +548,10 @@ Cuando se trate del año en que el titular del Ejecutivo inicie su encargo en lo
 En caso de que por cualquier motivo se omita en forma tácita la presentación de algunas de las iniciativas a que alude el párrafo anterior, servirán como iniciativas la Ley de Ingresos y el Presupuesto de Egresos vigente.
 
 La aprobación y resolución respecto de los ingresos deberá preceder a la de los gastos. En todo caso el Congreso deberá motivar en el dictamen correspondiente, los beneficios que se deriven de las modificaciones propuestas a las iniciativas de Ley de Ingresos y de Presupuesto de Egresos.
+
+> <small>(ADICIONADO, P.O. 30 DE JULIO DE 2011)</small>
+
+El Congreso del Estado al aprobar el Presupuesto de Egresos considerará los resultados de las evaluaciones al desempeño, lo cual deberá reflejarse en el dictamen correspondiente.
 
 Las modificaciones que impliquen incrementos o la creación de nuevos gastos, procederán únicamente cuando en el dictamen respectivo se señale la fuente de recursos adicionales para cubrirlos, los cuales tendrán origen en fuentes distintas al financiamiento, o bien cuando se señalen las reducciones a los programas propuestos.
 
@@ -562,6 +568,8 @@ I. En el caso de la Ley de Ingresos, continuará vigente aquella aprobada para e
 II. En el caso del Presupuesto de Egresos, continuará vigente aquel aprobado para el ejercicio fiscal anterior, únicamente respecto de los gastos obligatorios, en tanto se apruebe el Presupuesto para el año correspondiente. En todo caso, la ley determinará los criterios que permitan definir los gastos de carácter obligatorio los cuales deberán comprender al menos el gasto corriente aprobado para el año anterior, hasta por el porcentaje que determine la ley así como las remuneraciones de los servidores públicos.
 
 D. El Congreso podrá autorizar y modificar programas y proyectos de inversión vinculados al Plan Estatal de Desarrollo que abarquen varios ejercicios fiscales; los gastos correspondientes deberán incluirse en los subsecuentes presupuestos de egresos.
+
+> <small>N. DE E. EN LA REFORMA PUBLICADA EN EL P.O. DEL 30 DE JULIO DE 2011, SE OMITE PRECISAR LA EXISTENCIA DE UNO DE SUS PÁRRAFOS.</small>
 
 Las disposiciones específicas para dar cumplimiento a lo establecido en este artículo, se llevarán a cabo de conformidad a lo dispuesto en la ley de la materia.
 
@@ -677,13 +685,13 @@ IV. Resolver en forma definitiva los conflictos sobre límites territoriales de 
 
 > <small>(REFORMADA, P.O. 17 DE MAYO DE 2004)</small>
 
-V. Crear y suprimir empleos públicos en el estado, con excepción de los municipales, y señalar aumentar o disminuir las respectivas remuneraciones según sus necesidades. Para este efecto, la legislatura ordenará, al aprobar el Presupuesto de Egresos, publicar la retribución integral que corresponda a los empleos públicos establecidos por la ley.
+V.- Crear y suprimir empleos públicos en el estado, con excepción de los municipales, y señalar aumentar o disminuir las respectivas remuneraciones según sus necesidades. Para este efecto, la legislatura ordenará, al aprobar el Presupuesto de Egresos, publicar la retribución integral que corresponda a los empleos públicos establecidos por la ley.
 
 En todo caso, las ampliaciones y disminuciones de empleos públicos que dentro de la esfera del Poder Ejecutivo, sean autorizadas por el Congreso, deberán ser motivadas en el dictamen respectivo.
 
 > <small>(REFORMADA, P.O. 17 DE MAYO DE 2004)</small>
 
-VI. Examinar, discutir y aprobar la Ley de Ingresos y el Presupuesto de Egresos, así como las ampliaciones y modificaciones que se hicieren necesarias, en los términos de esta constitución.
+VI.- Examinar, discutir y aprobar la Ley de Ingresos y el Presupuesto de Egresos, así como las ampliaciones y modificaciones que se hicieren necesarias, en los términos de esta constitución.
 
 > <small>(REFORMADA, P.O. 24 DE ENERO DE 2001)</small>
 
@@ -1819,7 +1827,17 @@ c) Los ingresos derivados de la prestación de servicios públicos a su cargo.
 
 Las leyes no establecerán exenciones o subsidios en favor de persona o institución alguna respecto de dichas contribuciones. Sólo estarán exentos los bienes de dominio público de la Federación, de los Estados o los Municipios, salvo que tales bienes sean utilizados por entidades paraestatales o por particulares, bajo cualquier título, para fines administrativos o propósitos distintos a los de su objeto público.
 
-Los presupuestos de egresos serán aprobados por los Ayuntamientos con base en sus ingresos disponibles. Los recursos que integran la hacienda municipal serán ejercidos en forma directa por los Ayuntamientos, o bien, por quien ellos autoricen, conforme a la ley.
+> <small>(REFORMADO, P.O. 30 DE JULIO DE 2011)</small>
+
+Los presupuestos de egresos municipales serán aprobados por los Ayuntamientos atendiendo a sus ingresos disponibles, a las orientaciones, lineamientos y políticas establecidas en sus planes de desarrollo y en el Plan Estatal de Desarrollo, así como a los resultados de las evaluaciones al desempeño.
+
+> <small>(ADICIONADO, P.O. 30 DE JULIO DE 2011)</small>
+
+Los presupuestos se realizarán con sustento en programas que permitan la identificación clara y desagregada del gasto público, los objetivos que se persiguen con cada uno de ellos, los responsables de su ejecución, y la medición y verificación de sus resultados. Dichos programas en su formulación y ejercicio, deberán atender a lo dispuesto por esta constitución en materia de administración y gasto público.
+
+> <small>(ADICIONADO, P.O. 30 DE JULIO DE 2011)</small>
+
+Los recursos que integran la hacienda municipal serán ejercidos en forma directa por los Ayuntamientos, o bien, por quien ellos autoricen, conforme a la ley.
 
 En la distribución de los recursos que asigne el Congreso a los municipios, serán consideradas de manera prioritaria, las comunidades indígenas y zonas marginadas. Esta distribución se realizará con un sentido de equidad, de acuerdo con la disponibilidad presupuestal y las necesidades de dichas comunidades y zonas, considerando la incorporación de representantes de éstas a los órganos de planeación y participación ciudadana en los términos de la ley.
 
@@ -1949,9 +1967,9 @@ IV. Contar con experiencia de al menos cinco años en materia de control, audito
 
 V. Gozar de buena reputación y no haber sido condenado por delito que amerite pena corporal de más de un año de prisión; pero si se tratare de robo, fraude, falsificación, abuso de confianza u otro que lastime seriamente la buena fama en el concepto público, inhabilitará para el cargo, cualquiera que haya sido la pena;
 
-VI. No haber sido Gobernador, Secretario del Despacho o titular de alguna entidad paraestatal u órgano autónomo, Magistrado, Procurador General de Justicia, miembro del Consejo de la Judicatura, Senador, Diputado Federal o Local, Presidente, Regidor, Sindico o Tesorero Municipal o dirigente de algún partido político, ni haber sido postulado para cargo de elección popular en el año inmediato la propia designación;
+VI. No haber sido Gobernador, Secretario del Despacho o titular de alguna entidad paraestatal u órgano autónomo, Magistrado, Procurador General de Justicia, miembro del Consejo de la Judicatura, Senador, Diputado Federal o Local, Presidente, Regidor, Sindico o Tesorero Municipal o dirigente de algún partido político, ni haber sido postulado para cargo de elección popular en el año inmediato a la propia designación;
 
-VII. No pertenecer al estado eclesiástico, ni ser ministro de algún culto religioso, a menos que se separe conforme a lo establecido en a la Constitución Federal y la ley de la materia;
+VII. No pertenecer al estado eclesiástico, ni ser ministro de algún culto religioso, a menos que se separe conforme a lo establecido en la Constitución Federal y la ley de la materia;
 
 VIII. Poseer, al día del nombramiento, título y cédula profesional de licenciatura en el área de Sociales, Humanidades o Económico Administrativas, expedidos por autoridad o institución legalmente facultada para ello.
 
@@ -2065,7 +2083,7 @@ Las sanciones económicas no podrán exceder de tres tantos de los beneficios ob
 
 No se requerirá declaración de procedencia del Congreso del Estado cuando alguno de los servidores públicos a que hace referencia el artículo 124 primer párrafo, cometa un delito durante el tiempo en que se encuentre separado de su encargo.
 
-Si el servidor público ha vuelto a desempeñar sus funciones propias o ha sido nombrado o electo para desempeñar otro cargo distinto, pero de los enumerados en el artículo 124 se procederá de acuerdo con lo dispuesto en dicho precepto.
+Si el servidor público ha vuelto a desempeñar sus funciones propias o ha sido nombrado o electo para desempeñar otro cargo distinto, pero de los enumerados en el artículo 124, se procederá de acuerdo con lo dispuesto en dicho precepto.
 
 > <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1983)</small>
 
@@ -2125,17 +2143,41 @@ Las proposiciones de reforma o adición, que no fueren admitidas por la Legislat
 
 ### CAPITULO UNICO. Prevenciones Generales
 
-> <small>(ADICIONADO, P.O. 9 DE ABRIL DE 1988)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE JULIO DE 2011)</small>
 
 ###### Art. 133.
 
-Los recursos económicos de que dispongan el Gobierno del Estado y sus Municipios, así como sus respectivas administraciones pública (sic) paraestatales, se administrarán con eficiencia, eficacia y honradez para satisfacer los objetivos propios de su finalidad.
+La administración y gasto de los recursos económicos de que dispongan los entes públicos estatales y municipales, atenderá a los principios de racionalidad, eficiencia, eficacia, economía, transparencia y honradez para satisfacer los objetivos propios de su finalidad; considerando además, la misión y visión institucional del ente público del que se trate.
+
+> <small>(ADICIONADO, P.O. 30 DE JULIO DE 2011)</small>
+
+La evaluación del desempeño de los entes públicos, será en función de los resultados del ejercicio de dichos recursos y se realizará por las instancias técnicas que se establezcan en las leyes, sin menoscabo de las evaluaciones que en los términos de esta constitución realice el Órgano de Fiscalización Superior del Estado.
+
+> <small>(ADICIONADO, P.O. 30 DE JULIO DE 2011)</small>
+
+El resultado de las evaluaciones, deberá considerarse en el proceso de programación y presupuesto de los recursos públicos, a fin de propiciar que los recursos económicos se asignen tomando en cuenta los resultados alcanzados.
+
+> <small>(ADICIONADO, P.O. 30 DE JULIO DE 2011)</small>
+
+La planeación para el desarrollo estatal y municipal facilitará la programación del gasto público con base en objetivos y metas, claros y cuantificables, que permitan evaluar adecuadamente su cumplimiento, a fin de conocer los resultados obtenidos.
+
+> <small>(ADICIONADO, P.O. 30 DE JULIO DE 2011)</small>
+
+La ley preverá la coordinación necesaria entre los entes técnicos que realicen las evaluaciones al desempeño y la dependencia del Poder Ejecutivo y de los Ayuntamientos, responsable de integrar el Presupuesto de Egresos para dar cumplimiento a lo previsto en este artículo y emitir las disposiciones administrativas correspondientes.
+
+> <small>(ADICIONADO, P.O. 9 DE ABRIL DE 1988)</small>
 
 Las adquisiciones, arrendamientos y enajenaciones de todo tipo de bienes, prestación de servicios de cualquier naturaleza y la contratación de obra que realicen, se adjudicarán o llevarán a cabo a través de licitaciones públicas mediante convocatoria pública para que libremente se presenten proposiciones solventes en sobre cerrado, que será abierto públicamente a fin de asegurar al Estado y sus Municipios las mejores condiciones disponibles en cuanto a precio, calidad, financiamiento, oportunidad y demás circunstancias pertinentes.
 
+> <small>(ADICIONADO, P.O. 9 DE ABRIL DE 1988)</small>
+
 Cuando las licitaciones a que se hace referencia en el párrafo anterior no sean idóneas para asegurar dichas condiciones, las Leyes establecerán las bases, procedimientos, reglas, requisitos y demás elementos para acreditar la economía, eficacia, eficiencia, imparcialidad y honradez que aseguren las mejores condiciones para el Estado y sus Municipios.
 
+> <small>(ADICIONADO, P.O. 9 DE ABRIL DE 1988)</small>
+
 El manejo de recursos federales convenidos se sujetará a las disposiciones de éste Artículo.
+
+> <small>(ADICIONADO, P.O. 9 DE ABRIL DE 1988)</small>
 
 Los servidores públicos del Estado y sus Municipios serán responsables del cumplimiento a las mencionadas disposiciones en los términos del Título Octavo de esta Constitución.
 
@@ -3180,3 +3222,19 @@ Artículo Cuarto.- La legislación relativa a los artículos 53 y 110 contenidos
 Artículo Quinto.- El Congreso del Estado contará con un plazo de tres años para emitir la legislación secundaria relacionada con el contenido del artículo 137 primer párrafo, que comenzará a contarse a partir de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
 
 Artículo Sexto.- Para los efectos previstos por el artículo 131 de la Constitución Política del Estado Libre y Soberano de Nayarit, remítase el presente decreto a los Ayuntamientos de la entidad.
+
+P.O. 30 DE JULIO DE 2011.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit. Se derogan las disposiciones que se opongan al presente decreto.
+
+###### ARTÍCULO SEGUNDO.
+
+Las reformas y adiciones a las leyes que se requieran para dar cumplimiento a las disposiciones contenidas en este Decreto, deberán estar aprobadas por el Congreso a más tardar el 31 de diciembre de 2011. En todo caso, el titular del Poder Ejecutivo, el Congreso del Estado y los Ayuntamientos del Estado, deberán garantizar que en el ámbito de sus competencias, los presupuestos de egresos que se ejecuten a partir del ejercicio fiscal 2012, se realicen de conformidad a lo dispuesto por el presente decreto.
+
+En todo caso, deberá garantizarse que las instancias técnicas a las que alude el artículo 133 de la Constitución Política del Estado, realicen las evaluaciones al gasto público estatal y municipal a los recursos que se ejerzan a partir del 2012.
+
+###### ARTÍCULO TERCERO.
+
+Remítase el presente Decreto a los H. Ayuntamientos Constitucionales del Estado de Nayarit para los efectos del artículo 131 de la Constitución Política del Estado.
