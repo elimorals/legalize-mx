@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-asistencia-social-para-el-estado-y-municipios-de-san-236
 country: "mx"
 rank: "ley"
 publication_date: "2002-01-19"
-last_updated: "2011-04-09"
+last_updated: "2011-07-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23613&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE ASISTENCIA SOCIAL PARA EL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSI
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE ABRIL DE 2011.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE JULIO DE 2011.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 19 de enero de 2002.
 
@@ -199,13 +199,23 @@ c) Los adultos mayores en situación de maltrato físico o mental.
 
 d) Los indigentes.
 
-> <small>(ADICIONADO, P.O. 28 DE ABRIL DE 2009)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
 
-e) A las familias que se encuentren en situación de calle, por encontrarse en estado de desventaja social y que tengan a su encargo menores, personas con discapacidad o adultos mayores, y
+> <small>(REFORMADO, P.O. 30 DE JULIO DE 2011)</small>
+
+e) A las familias que se encuentren en situación de calle, por encontrarse en estado de desventaja social y que tengan a su cargo menores, personas con discapacidad o adultos mayores;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 30 DE JULIO DE 2011)</small>
+
+V. Las personas adictas o farmacodependientes que se encuentren recluidas o internadas en centros de tratamiento y rehabilitación de adicciones y que sean objeto de actos que violen sus derechos humanos por parte de las personas encargadas o internos de éstos, y
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
 
 > <small>(ADICIONADA, P.O. 10 DE JULIO DE 2007)</small>
 
-V. Las que se encuentren en situación de violencia familiar.
+VI. Las que se encuentren en situación de violencia familiar.
 
 ###### ARTICULO 7º.
 
@@ -369,7 +379,15 @@ r) Proponer a los Servicios de Salud de San Luis Potosí en su carácter de admi
 
 s) Impartir cursos de inducción y capacitación al personal de los DIF municipales en materia de asistencia social y sobre los programas asistenciales que operen en sus municipios.
 
-t) Los demás similares que sirvan al cumplimiento de los objetivos del DIF Estatal, y
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 30 DE JULIO DE 2011)</small>
+
+t) Realizar inspecciones en los centros de tratamiento y rehabilitación de adicciones, a fin de comprobar que se respeten los derechos humanos de las personas internas o recluidas y, en su caso, determinar la existencia de violación a los mismos, a efecto de imponer la sanción establecida en el presente Ordenamiento.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+
+u) Los demás similares que sirvan al cumplimiento de los objetivos del DIF Estatal, y
 
 > <small>(REFORMADO PRIMER PARRAFO [N. DE E. REPUBLICADO], P.O. 11 DE SEPTIEMBRE DE 2010)</small>
 
@@ -1354,3 +1372,9 @@ P.O. 9 DE ABRIL DE 2011.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 30 DE JULIO DE 2011.
+
+PRIMERO. Este Decreto entrará en vigor a los noventa días naturales siguientes a su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas aquellas disposiciones legales que se opongan al presente Decreto.
