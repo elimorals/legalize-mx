@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-transporte-publico-del-estado-de-san-luis-potosi-68766"
 country: "mx"
 rank: "ley"
 publication_date: "2009-04-23"
-last_updated: "2010-12-28"
+last_updated: "2011-07-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68766&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE TRANSPORTE PUBLICO DEL ESTADO DE SAN LUIS POTOSI
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE DICIEMBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE JULIO DE 2011.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 23 de abril de 2009.
 
@@ -676,6 +676,10 @@ No se autorizará la sustitución de un vehículo por otro de modelo anterior al
 El vehículo relevado invariablemente deberá ser presentado sin los rótulos de identificación y los colores oficiales que se determinen en el Reglamento respectivo; en caso contrario no procederá el registro y alta de la unidad.
 
 Los concesionarios y permisionarios deberán efectuar las modificaciones y adecuaciones que establezca la Secretaría en materia de seguridad, comodidad y prevención de accidentes.
+
+> <small>(ADICIONADO, P.O. 30 DE JULIO DE 2011)</small>
+
+Los prestadores del servicio de transporte público, como medida de seguridad, instalarán cámaras de video en las unidades de transporte, para documentar los eventos que se susciten durante la prestación del servicio.
 
 Ningún vehículo deberá portar elementos o equipos adicionales que no sean necesarios para la prestación del servicio, a menos que sean autorizados expresamente por la Secretaría.
 
@@ -1864,3 +1868,11 @@ P.O. 28 DE DICIEMBRE DE 2010.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 30 DE JULIO DE 2011.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Los concesionarios y permisionarios del transporte público de la zona metropolitana de San Luis Potosí, tendrán un año a partir de la vigencia del presente Decreto, para instalar las cámaras de video.
+
+TERCERO. Se derogan todas las disposiciones legales que se opongan a este Decreto.
