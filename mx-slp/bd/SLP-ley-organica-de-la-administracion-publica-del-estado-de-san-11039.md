@@ -4,7 +4,7 @@ identifier: "SLP-ley-organica-de-la-administracion-publica-del-estado-de-san-110
 country: "mx"
 rank: "ley_organica"
 publication_date: "1997-10-24"
-last_updated: "2011-06-18"
+last_updated: "2011-07-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11039&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE SAN LUIS POTOSI
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE JUNIO DE 2011.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE JULIO DE 2011.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de San Luis Potosí, el viernes 24 de octubre de 1997.
 
@@ -321,7 +321,9 @@ XXXI. Presidir el Consejo Estatal de Consulta Ciudadana;
 
 XXXII. Organizar, dirigir y vigilar el ejercicio de las funciones del Registro Civil;
 
-XXXIII. Organizar, dirigir y vigilar el ejercicio de las funciones del Registro Público de la Propiedad y del Comercio;
+> <small>(REFORMADA, P.O. 30 DE JULIO DE 2011)</small>
+
+XXXIII. Organizar, dirigir y vigilar el ejercicio de las funciones del Registro Público de la Propiedad;
 
 XXXIV. Establecer el calendario oficial y organizar los actos cívicos del Gobierno del Estado;
 
@@ -1616,3 +1618,9 @@ P.O. 18 DE JUNIO DE 2011.
 PRIMERO. El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan a éste.
+
+P.O. 30 DE JULIO DE 2011.
+
+PRIMERO. Este Decreto entrará en vigencia el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
