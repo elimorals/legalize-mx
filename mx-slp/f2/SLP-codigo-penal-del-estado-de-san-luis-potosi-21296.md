@@ -4,7 +4,7 @@ identifier: "SLP-codigo-penal-del-estado-de-san-luis-potosi-21296"
 country: "mx"
 rank: "codigo"
 publication_date: "2000-09-30"
-last_updated: "2011-07-23"
+last_updated: "2011-07-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21296&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 CODIGO PENAL DEL ESTADO DE SAN LUIS POTOSI
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE JULIO DE 2011.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE JULIO DE 2011.
 
 Código publicado en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 30 de septiembre de 2000.
 
@@ -1399,37 +1399,83 @@ VI. Reciba cualquier pago con motivo de su Intervención en el secuestro, y
 
 VII. Actúe como asesor o intermediario de quienes representen o gestionen en favor de la víctima, y evite informar o colaborar con la autoridad competente en el conocimiento de la comisión de secuestro.
 
-### CAPITULO V. ROBO DE INFANTE O INCAPACES
+> <small>(REFORMADA SU DENOMINACION, P.O. 30 DE JULIO DE 2011)</small>
+
+### CAPITULO V. ROBO DE INFANTE; Y SUSTRACCION DE MENORES O DE INCAPACES
+
+> <small>(REFORMADO, P.O. 30 DE JULIO DE 2011)</small>
 
 ### CAPITULO VI. TRAFICO DE MENORES
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE JULIO DE 2011)</small>
+
 ###### ARTICULO 137.
 
-Comete el delito de robo de infante o incapaces quien, sustraiga de su custodia legítima a un menor o incapaz, o lo retenga sin el consentimiento de quien tenga su legítima custodia o guarda.
+Comete el delito de robo de menor o incapaz, quien, sustraiga de su custodia legítima a un menor de dieciocho años o incapaz, o lo retenga sin el consentimiento de quien tenga su legítima custodia o guarda.
 
-Este delito se sancionará con una pena de ocho a cuarenta años de prisión y sanción pecuniaria de ochocientos a cuatro mil días de salario mínimo.
+Este delito se sancionará con una pena de ocho a cuarenta años de prisión y sanción pecuniaria de ochocientos a cinco mil días de salario mínimo.
+
+> <small>(REFORMADO, P.O. 30 DE JULIO DE 2011)</small>
 
 ###### ARTICULO 138.
 
-Cuando el delito lo comete un familiar del menor o incapaz, que no ejerza sobre de él la patria potestad ni la tutela, la pena será de cuatro a doce años de prisión y sanción pecuniaria de ochenta a doscientos cuarenta días de salario mínimo.
+Comete el delito de sustracción de menores, cuando la conducta señalada en el artículo anterior, la realice el ascendiente, descendiente, cónyuge o pariente colateral o afín hasta el cuarto grado, que no ejerza la patria potestad, la tutela, la guarda o custodia del menor o incapaz.
+
+Este delito se sancionará con una pena de cuatro a doce años de prisión y sanción pecuniaria de ochenta a doscientos cuarenta días de salario mínimo.
+
+Se impondrán en una mitad las penas a que se refiere este artículo, al padre o la madre que retenga o cambie de su residencia habitual a su hijo menor o incapaz, con el fin de impedir que el otro ascendiente ejerza el derecho a convivir con su hijo o impedir la guarda y custodia compartida en los términos de la resolución o convenio judicial.
+
+En los casos a que se refiere este artículo, el delito se perseguirá a petición de parte ofendida.
+
+> <small>(REFORMADO, P.O. 30 DE JULIO DE 2011)</small>
 
 ###### ARTICULO 139.
 
-Si el menor o incapaz es restituido espontáneamente a su familia o a la autoridad dentro de los tres días siguientes al en que hubiere ocurrido el hecho y sin que se le cause perjuicio, se impondrá una pena de dos a seis años de prisión y sanción pecuniaria de cuarenta a ciento veinte días de salario mínimo.
+En el caso de los delitos contemplados en este Capítulo, si el menor o incapaz es restituido espontáneamente a su familia o a la autoridad dentro de los tres días siguientes en que hubiere ocurrido el hecho y sin que se le cause perjuicio, se impondrá una pena de dos a seis años de prisión y sanción pecuniaria de cuarenta a ciento veinte días de salario mínimo.
 
 ### CAPITULO VII. RAPTO
 
 ###### ARTICULO 140.
 
-Comete el delito de tráfico de menores quien entregue indebidamente a un menor de doce años de edad a un tercero para su custodia definitiva, a cambio de un beneficio económico o de cualquier otra índole.
+Comete el delito de tráfico de menores, quien traslade a un menor de dieciocho años de edad o lo entregue a un tercero, de manera ilícita, fuera del territorio nacional, con el propósito de obtener un beneficio económico indebido o de cualquier otra índole.
 
-También comete este delito quien recibe al menor para su custodia definitiva otorgando a cambio un beneficio económico o de cualquier otra índole.
+> <small>(REFORMADO, P.O. 30 DE JULIO DE 2011)</small>
+
+También cometen el delito a que se refiere el párrafo anterior:
+
+I. Quienes ejerzan la patria potestad o custodia sobre el menor, aunque no haya sido declarada, cuando realicen materialmente el traslado o la entrega o por haber otorgado su consentimiento para ello;
+
+II. Los ascendientes sin límite de grado, los parientes colaterales y por afinidad hasta el cuarto grado, así como cualquier tercero que no tenga parentesco con el menor.
+
+Se entenderá que las personas a que se refiere el párrafo anterior actúan de manera ilícita cuando tengan conocimiento de que:
+
+a) Quienes ejerzan la patria potestad o la custodia del menor no han otorgado su consentimiento expreso para el traslado o la entrega.
+
+b) Quienes ejerzan la patria potestad o la custodia del menor obtendrán un beneficio económico indebido por el traslado o la entrega, y
+
+III. La persona o personas que reciban al menor.
 
 Este delito se sancionará con una pena de prisión de ocho a cuarenta años y sanción pecuniaria de ochocientos a cuatro mil días de salario mínimo.
 
 Además de las penas señaladas en este artículo, el responsable del delito perderá todos los derechos que tenga en relación con el menor.
 
-Si el delincuente actúa sin el consentimiento de quien ejerza la patria potestad o de quien tenga a su cargo la custodia del menor, o éste es trasladado fuera del territorio mexicano, las penas se aumentarán en una mitad.
+> <small>(REFORMADO, P.O. 30 DE JULIO DE 2011)</small>
+
+Se aplicarán hasta las dos terceras partes de las penas a las que se refiere este artículo, cuando el traslado o entrega del menor se realicen en territorio nacional.
+
+> <small>(ADICIONADO, P.O. 30 DE JULIO DE 2011)</small>
+
+ARTICULO 140 BIS. Las penas a que se refiere el artículo anterior se reducirán en una mitad cuando:
+
+I. El traslado o entrega del menor se realice sin el propósito de obtener un beneficio económico indebido, o
+
+II. La persona que reciba al menor tenga el propósito de incorporarlo a su núcleo familiar.
+
+Se impondrán las penas a que se refiere este artículo al padre o madre de un menor de dieciocho años que de manera ilícita o sin el consentimiento de quien o quienes ejerzan la patria potestad o la custodia del menor, sin el propósito de obtener un lucro indebido, lo trasladen fuera o dentro del territorio nacional con el fin de cambiar su residencia habitual o impedir a la madre o padre, según sea el caso, convivir con el menor o visitarlo.
+
+Además, se privará de los derechos de patria potestad, tutela o custodia a quienes, en su caso, teniendo el ejercicio de éstos, cometan el delito a que se refiere el presente artículo.
+
+En los casos a que se refiere este artículo, el delito se perseguirá a petición de parte ofendida.
 
 ###### ARTICULO 141.
 
@@ -1485,6 +1531,8 @@ ARTICULO 147 BIS. Comete el delito a que se refiere este capítulo quien coloque
 
 Este delito se sancionará con una pena de diez a veinte años de prisión y sanción pecuniaria de mil a dos mil días de salario mínimo.
 
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 30 DE JULIO DE 2011)</small>
+
 ###### ARTICULO 147.
 
 Comete el delito de amenazas quien:
@@ -1501,15 +1549,23 @@ El delito de amenazas se perseguirá por querella necesaria.
 
 > <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 21 DE ENERO DE 2011)</small>
 
+### CAPITULO XII. USO ILICITO DE EQUIPOS DE RADIOCOMUNICACION
+
+> <small>(ADICIONADO, P.O. 30 DE JULIO DE 2011)</small>
+
+ARTICULO 147 TER. Comete el delito de uso ilícito de equipos de radiocomunicación, quien utilice equipo de radiocomunicación móvil, instalado a un vehículo de motor, o fijo mediante una antena, por medio del cual haga uso, aprovechamiento y explotación de las bandas de frecuencia del espectro radioeléctrico, teniendo o no el permiso de operación expedido por la autoridad competente, y los utilice para fines ilícitos.
+
+También comete el delito a que se refiere este Capítulo quien proporcione el servicio de, instalar, programar o reprogramar para otra u otras personas equipo de radiocomunicación fijo o móvil sobre un vehículo usando las bandas de frecuencia del espectro radioeléctrico, contando o no con el permiso para su operación, lo haga fuera de las especificaciones técnicas autorizadas por la ley o autoridad competente, y esto se relacione con fines ilícitos.
+
+Este delito se sancionará con una pena de cinco a quince años de prisión, sanción pecuniaria de un mil a tres mil días de salario mínimo, así como el decomiso de los equipos de radiocomunicación, vehículos y demás bienes utilizados para la comisión del delito.
+
 ### CAPITULO I. ABUSO SEXUAL
 
 > <small>(REFORMADO, P.O. 5 DE JULIO DE 2007)</small>
 
-### CAPITULO II. ESTUPRO
-
 ## TITULO TERCERO. DELITOS CONTRA LA LIBERTAD Y EL NORMAL DESARROLLO PSICOSEXUAL
 
-### CAPITULO III. VIOLACION
+### CAPITULO II. ESTUPRO
 
 ###### ARTICULO 148.
 
@@ -1533,7 +1589,7 @@ En el caso de que el infractor tenga parentesco por consanguinidad o civil con e
 
 Cuando el delito fuere cometido por quien desempeñe un cargo o empleo público, o utilice los medios que su profesión le proporcione, además de la pena de prisión, será destituido del cargo que ocupa y suspendido por el término de dos años en el ejercicio de su profesión.
 
-### CAPITULO IV. INSEMINACION INDEBIDA
+### CAPITULO III. VIOLACION
 
 ###### ARTICULO 149.
 
@@ -1543,7 +1599,7 @@ Este delito se sancionará con una pena de uno a cinco años de prisión y sanci
 
 Este delito se perseguirá por querella necesaria.
 
-### CAPITULO V. ESTERILIDAD PROVOCADA
+### CAPITULO IV. INSEMINACION INDEBIDA
 
 ###### ARTICULO 150.
 
@@ -1589,9 +1645,7 @@ III. Cuando el delito fuere cometido por la persona que tenga al ofendido bajo s
 
 Para los efectos de este Título se entiende por cópula la introducción del miembro viril en el cuerpo de la víctima por vía vaginal, anal u oral.
 
-### CAPITULO VI. HOSTIGAMIENTO Y ACOSO SEXUAL
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 7 DE AGOSTO DE 2007)</small>
+### CAPITULO V. ESTERILIDAD PROVOCADA
 
 ###### ARTICULO 157.
 
@@ -1601,7 +1655,9 @@ Este delito se sancionará con una pena de dos a seis años de prisión y sanci�
 
 Si como resultado de la conducta se produce embarazo, se impondrá prisión de tres a ocho años y sanción pecuniaria de sesenta a ciento sesenta días de salario mínimo.
 
-### CAPITULO I. DIFAMACION
+### CAPITULO VI. HOSTIGAMIENTO Y ACOSO SEXUAL
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 7 DE AGOSTO DE 2007)</small>
 
 ###### ARTICULO 158.
 
@@ -1611,7 +1667,7 @@ Este delito se sancionará con una pena de dos a seis años de prisión y sanci�
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 5 DE JULIO DE 2007)</small>
 
-### CAPITULO II. CALUMNIA
+### CAPITULO I. DIFAMACION
 
 ###### ARTICULO 158 Bis.
 
@@ -1647,7 +1703,7 @@ Este delito se perseguirá a petición de parte, salvo que la víctima sea menor
 
 > <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 4 DE JULIO DE 2009)</small>
 
-### CAPITULO III. DISPOSICIONES COMUNES A LOS DELITOS DE DIFAMACION Y CALUMNIA
+### CAPITULO II. CALUMNIA
 
 ###### ARTICULO 159.
 
@@ -1667,7 +1723,7 @@ Este delito se perseguirá a petición de parte, salvo que la víctima sea menor
 
 > <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 4 DE JULIO DE 2009)</small>
 
-### CAPITULO I. DELITO CONTRA EL ESTADO CIVIL DE LAS PERSONAS
+### CAPITULO III. DISPOSICIONES COMUNES A LOS DELITOS DE DIFAMACION Y CALUMNIA
 
 ###### ARTICULO 163.
 
@@ -1679,7 +1735,7 @@ Este delito se perseguirá a petición de parte, salvo que la víctima sea menor
 
 > <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 4 DE JULIO DE 2009)</small>
 
-### CAPITULO II. INCESTO
+### CAPITULO I. DELITO CONTRA EL ESTADO CIVIL DE LAS PERSONAS
 
 ###### ARTICULO 165.
 
@@ -1691,7 +1747,7 @@ Este delito se perseguirá a petición de parte, salvo que la víctima sea menor
 
 ## TITULO QUINTO. DELITOS CONTRA LA FAMILIA
 
-### CAPITULO III. MATRIMONIOS ILEGALES
+### CAPITULO II. INCESTO
 
 ###### ARTICULO 167.
 
@@ -1703,7 +1759,7 @@ II. Omite la inscripción teniendo dicha obligación, con el propósito de hacer
 
 Este delito se sancionará con una pena de uno a cinco años de prisión y sanción pecuniaria de veinte a cien días de salario mínimo.
 
-### CAPITULO IV. BIGAMIA
+### CAPITULO III. MATRIMONIOS ILEGALES
 
 ###### ARTICULO 168.
 
@@ -1711,11 +1767,7 @@ Cometen el delito de incesto quienes, siendo descendientes, ascendientes o herma
 
 Este delito se sancionará con una pena de uno a cuatro años de prisión y sanción pecuniaria de veinte a ochenta días de salario mínimo.
 
-### CAPITULO V. INCUMPLIMIENTO DE LAS OBLIGACIONES DE ASISTENCIA FAMILIAR
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2008)</small>
+### CAPITULO IV. BIGAMIA
 
 ###### ARTICULO 169.
 
@@ -1723,7 +1775,11 @@ Comete el delito de matrimonio ilegal quien, fuera del caso de bigamia, contrae 
 
 Este delito se sancionará con una pena de seis meses a tres años de prisión y sanción pecuniaria de diez a sesenta días de salario mínimo. Las mismas sanciones y además la destitución e inhabilitación hasta por el doble de la pena de prisión impuesta, se impondrá al Oficial del Registro Civil que, teniendo conocimiento del impedimento, autorice la celebración del matrimonio.
 
-### CAPITULO VI. ADULTERIO
+### CAPITULO V. INCUMPLIMIENTO DE LAS OBLIGACIONES DE ASISTENCIA FAMILIAR
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2008)</small>
 
 ###### ARTICULO 170.
 
@@ -1735,9 +1791,7 @@ A quienes ejerzan la patria potestad o la tutela y den su consentimiento para el
 
 Además de la pena señalada en el párrafo anterior, se impondrá la destitución o la inhabilitación por el doble de la pena de prisión impuesta a los Oficiales del Registro Civil que, conociendo el impedimento, celebren el matrimonio.
 
-### CAPITULO VII. VIOLENCIA FAMILIAR
-
-> <small>(REFORMADO, P.O. 7 DE AGOSTO DE 2007)</small>
+### CAPITULO VI. ADULTERIO
 
 ###### ARTICULO 171.
 
@@ -1761,11 +1815,9 @@ También comete el delito a que se refiere el presente Capítulo, quien abandone
 
 En este caso la pena será de uno a tres años de prisión y sanción pecuniaria de veinte a sesenta días de salario mínimo.
 
-### CAPITULO I
+### CAPITULO VII. VIOLENCIA FAMILIAR
 
-CORRUPCION DE PERSONAS MENORES DE DIECIOCHO AÑOS DE EDAD O DE PERSONAS QUE NO TIENEN CAPACIDAD PARA COMPRENDER EL SIGNIFICADO DEL HECHO O DE PERSONAS QUE NO TIENEN CAPACIDAD PARA RESISTIRLO
-
-> <small>(ADICIONADO, P.O. 5 DE JULIO DE 2007)</small>
+> <small>(REFORMADO, P.O. 7 DE AGOSTO DE 2007)</small>
 
 ###### ARTICULO 174.
 
@@ -1781,11 +1833,11 @@ No se procederá contra los adúlteros sino por querella necesaria del cónyuge,
 
 Cuando el ofendido perdone a su cónyuge, cesará todo procedimiento. Esta disposición favorecerá a todos los presuntos responsables.
 
-### CAPITULO II
+### CAPITULO I
 
-PORNOGRAFIA DE PERSONAS MENORES DE DIECIOCHO AÑOS DE EDAD O DE PERSONAS QUE NO TIENEN CAPACIDAD PARA COMPRENDER EL SIGNIFICADO DEL HECHO O DE PERSONAS QUE NO TIENEN CAPACIDAD PARA RESISTIRLO
+CORRUPCION DE PERSONAS MENORES DE DIECIOCHO AÑOS DE EDAD O DE PERSONAS QUE NO TIENEN CAPACIDAD PARA COMPRENDER EL SIGNIFICADO DEL HECHO O DE PERSONAS QUE NO TIENEN CAPACIDAD PARA RESISTIRLO
 
-> <small>(REFORMADO Y REUBICADO, P.O. 5 DE JULIO DE 2007)</small>
+> <small>(ADICIONADO, P.O. 5 DE JULIO DE 2007)</small>
 
 ###### ARTICULO 177.
 
@@ -1811,9 +1863,9 @@ En todos los casos previstos en los artículos precedentes, el Ministerio Públi
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 5 DE JULIO DE 2007)</small>
 
-### CAPITULO III
+### CAPITULO II
 
-TURISMO SEXUAL EN CONTRA DE PERSONAS MENORES DE DIECIOCHO AÑOS DE EDAD O DE PERSONAS QUE NO TIENEN CAPACIDAD PARA COMPRENDER EL SIGNIFICADO DEL HECHO O DE PERSONAS QUE NO TIENEN CAPACIDAD PARA RESISTIRLO
+PORNOGRAFIA DE PERSONAS MENORES DE DIECIOCHO AÑOS DE EDAD O DE PERSONAS QUE NO TIENEN CAPACIDAD PARA COMPRENDER EL SIGNIFICADO DEL HECHO O DE PERSONAS QUE NO TIENEN CAPACIDAD PARA RESISTIRLO
 
 > <small>(REFORMADO Y REUBICADO, P.O. 5 DE JULIO DE 2007)</small>
 
@@ -1863,9 +1915,9 @@ Se considerará como empleado en cualquiera de los establecimientos mencionados 
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 5 DE JULIO DE 2007)</small>
 
-### CAPITULO IV
+### CAPITULO III
 
-LENOCINIO DE PERSONAS MENORES DE DIECIOCHO AÑOS DE EDAD O DE PERSONAS QUE NO TIENEN CAPACIDAD PARA COMPRENDER EL SIGNIFICADO DEL HECHO O DE PERSONAS QUE NO TIENEN CAPACIDAD PARA RESISTIRLO
+TURISMO SEXUAL EN CONTRA DE PERSONAS MENORES DE DIECIOCHO AÑOS DE EDAD O DE PERSONAS QUE NO TIENEN CAPACIDAD PARA COMPRENDER EL SIGNIFICADO DEL HECHO O DE PERSONAS QUE NO TIENEN CAPACIDAD PARA RESISTIRLO
 
 > <small>(REFORMADO Y REUBICADO, P.O. 5 DE JULIO DE 2007)</small>
 
@@ -1889,11 +1941,11 @@ Se impondrá prisión de ocho a dieciséis años y de tres mil a diez mil días 
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 5 DE JULIO DE 2007)</small>
 
-### CAPITULO V
+### CAPITULO IV
 
-TRATA DE PERSONAS MENORES DE DIECIOCHO AÑOS DE EDAD O DE PERSONAS QUE NO TIENEN CAPACIDAD PARA COMPRENDER EL SIGNIFICADO DEL HECHO O DE PERSONAS QUE NO TIENEN CAPACIDAD PARA RESISTIRLO
+LENOCINIO DE PERSONAS MENORES DE DIECIOCHO AÑOS DE EDAD O DE PERSONAS QUE NO TIENEN CAPACIDAD PARA COMPRENDER EL SIGNIFICADO DEL HECHO O DE PERSONAS QUE NO TIENEN CAPACIDAD PARA RESISTIRLO
 
-> <small>(REFORMADO, P.O. 27 DE ENERO DE 2011)</small>
+> <small>(REFORMADO Y REUBICADO, P.O. 5 DE JULIO DE 2007)</small>
 
 ###### ARTICULO 183.
 
@@ -1905,31 +1957,11 @@ Las mismas penas se impondrán a quien por virtud de las conductas señaladas en
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 5 DE JULIO DE 2007)</small>
 
-### CAPITULO VI. LENOCINIO Y TRATA DE PERSONAS
+### CAPITULO V
+
+TRATA DE PERSONAS MENORES DE DIECIOCHO AÑOS DE EDAD O DE PERSONAS QUE NO TIENEN CAPACIDAD PARA COMPRENDER EL SIGNIFICADO DEL HECHO O DE PERSONAS QUE NO TIENEN CAPACIDAD PARA RESISTIRLO
 
 > <small>(REFORMADO, P.O. 27 DE ENERO DE 2011)</small>
-
-ARTICULO 188 BIS. Comete el delito de trata de personas quien promueva, solicite, ofrezca, facilite, consiga, traslade, entregue o reciba para sí o para un tercero, a una persona por medio de la violencia física o moral, el engaño o abuso de poder para someterla a cualquier forma de explotación, ya sea sexual o laboral, o para la prestación de servicios impuestos de manera coercitiva; esclavizarla, o para que le sean extraídos cualquiera de sus órganos, tejidos o sus componentes sin perjuicio de la sanción que le resulte por la comisión de otro delito.
-
-Este delito se sancionará con una pena de seis a doce años de prisión y sanción pecuniaria de setecientos cincuenta a mil setecientos días de salario mínimo.
-
-> <small>(REFORMADO, P.O. 27 DE ENERO DE 2011)</small>
-
-ARTICULO 188 TER. Comete el delito de lenocinio quien:
-
-I. Explota el cuerpo de otra persona por medio del comercio carnal, se mantiene de este comercio u obtenga de ello un lucro;
-
-II. Induce o coaccione a una persona para que con otra, comercie sexualmente con su cuerpo o le facilite los medios para que se entregue o dedique a la prostitución, y
-
-III Regentea, administra o sostenga, directa o indirectamente, prostíbulos, casas de citas o lugares de concurrencia expresamente dedicados a explotar la prostitución, u obtenga cualquier beneficio con sus productos.
-
-Este delito se sancionará con una pena de ocho a dieciséis años de prisión y sanción pecuniaria de mil doscientos a dos mil cuatrocientos días de salario mínimo.
-
-> <small>(ADICIONADO, P.O. 27 DE ENERO DE 2011)</small>
-
-ARTICULO 188 QUATER. Se equipara a la trata de personas, y se sancionará como tal, a quien a cambio del pago de una cantidad de dinero en moneda nacional o extranjera, o cualquier otro beneficio, ofrezca sus servicios de manera directa o como intermediario para trasladar, con la promesa de trabajo en otro Estado de la República o en el extranjero, a una persona a la que abandona e incumple los beneficios prometidos.
-
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 5 DE JULIO DE 2007)</small>
 
 ###### ARTICULO 184.
 
@@ -1965,11 +1997,31 @@ Las sanciones que se señalan en este artículo se duplicarán cuando quien come
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 5 DE JULIO DE 2007)</small>
 
-### CAPITULO VII
+### CAPITULO VI. LENOCINIO Y TRATA DE PERSONAS
 
-PROVOCACION DE UN DELITO Y APOLOGIA DEL MISMO O DE ALGUN VICIO Y DE LA OMISION DE IMPEDIR UN DELITO QUE ATENTE CONTRA EL LIBRE DESARROLLO DE LA PERSONALIDAD, LA DIGNIDAD HUMANA O LA INTEGRIDAD FISICA O MENTAL
+> <small>(REFORMADO, P.O. 27 DE ENERO DE 2011)</small>
 
-> <small>(REFORMADO Y REUBICADO, P.O. 5 DE JULIO DE 2007)</small>
+ARTICULO 188 BIS. Comete el delito de trata de personas quien promueva, solicite, ofrezca, facilite, consiga, traslade, entregue o reciba para sí o para un tercero, a una persona por medio de la violencia física o moral, el engaño o abuso de poder para someterla a cualquier forma de explotación, ya sea sexual o laboral, o para la prestación de servicios impuestos de manera coercitiva; esclavizarla, o para que le sean extraídos cualquiera de sus órganos, tejidos o sus componentes sin perjuicio de la sanción que le resulte por la comisión de otro delito.
+
+Este delito se sancionará con una pena de seis a doce años de prisión y sanción pecuniaria de setecientos cincuenta a mil setecientos días de salario mínimo.
+
+> <small>(REFORMADO, P.O. 27 DE ENERO DE 2011)</small>
+
+ARTICULO 188 TER. Comete el delito de lenocinio quien:
+
+I. Explota el cuerpo de otra persona por medio del comercio carnal, se mantiene de este comercio u obtenga de ello un lucro;
+
+II. Induce o coaccione a una persona para que con otra, comercie sexualmente con su cuerpo o le facilite los medios para que se entregue o dedique a la prostitución, y
+
+III Regentea, administra o sostenga, directa o indirectamente, prostíbulos, casas de citas o lugares de concurrencia expresamente dedicados a explotar la prostitución, u obtenga cualquier beneficio con sus productos.
+
+Este delito se sancionará con una pena de ocho a dieciséis años de prisión y sanción pecuniaria de mil doscientos a dos mil cuatrocientos días de salario mínimo.
+
+> <small>(ADICIONADO, P.O. 27 DE ENERO DE 2011)</small>
+
+ARTICULO 188 QUATER. Se equipara a la trata de personas, y se sancionará como tal, a quien a cambio del pago de una cantidad de dinero en moneda nacional o extranjera, o cualquier otro beneficio, ofrezca sus servicios de manera directa o como intermediario para trasladar, con la promesa de trabajo en otro Estado de la República o en el extranjero, a una persona a la que abandona e incumple los beneficios prometidos.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 5 DE JULIO DE 2007)</small>
 
 ###### ARTICULO 187.
 
@@ -2003,13 +2055,15 @@ IX. Se emplee para la comisión del delito la violencia, psicológica o moral, e
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 5 DE JULIO DE 2007)</small>
 
-### CAPITULO VIII. ULTRAJES A LA MORAL PUBLICA O A LAS BUENAS COSTUMBRES
+### CAPITULO VII
+
+PROVOCACION DE UN DELITO Y APOLOGIA DEL MISMO O DE ALGUN VICIO Y DE LA OMISION DE IMPEDIR UN DELITO QUE ATENTE CONTRA EL LIBRE DESARROLLO DE LA PERSONALIDAD, LA DIGNIDAD HUMANA O LA INTEGRIDAD FISICA O MENTAL
 
 > <small>(REFORMADO Y REUBICADO, P.O. 5 DE JULIO DE 2007)</small>
 
-### CAPITULO IX. VENTA O SUMINISTRO DE BEBIDAS ALCOHOLICAS A MENORES DE DIECIOCHO AÑOS O A PERSONAS QUE NO TIENEN CAPACIDAD PARA COMPRENDER EL SIGNIFICADO DEL HECHO
+### CAPITULO VIII. ULTRAJES A LA MORAL PUBLICA O A LAS BUENAS COSTUMBRES
 
-> <small>(ADICIONADO, P.O. 5 DE JULIO DE 2007)</small>
+> <small>(REFORMADO Y REUBICADO, P.O. 5 DE JULIO DE 2007)</small>
 
 ###### ARTICULO 189.
 
@@ -2027,7 +2081,9 @@ Las mismas penas se impondrán a quien, pudiendo hacerlo, no acuda a la autorida
 
 > <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 5 DE JULIO DE 2007)</small>
 
-### CAPITULO UNICO
+### CAPITULO IX. VENTA O SUMINISTRO DE BEBIDAS ALCOHOLICAS A MENORES DE DIECIOCHO AÑOS O A PERSONAS QUE NO TIENEN CAPACIDAD PARA COMPRENDER EL SIGNIFICADO DEL HECHO
+
+> <small>(ADICIONADO, P.O. 5 DE JULIO DE 2007)</small>
 
 ###### ARTICULO 190.
 
@@ -2037,9 +2093,7 @@ Este delito se sancionará con una pena de seis meses a dos años de prisión y 
 
 > <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 5 DE JULIO DE 2007)</small>
 
-### CAPITULO I. ROBO
-
-> <small>(REFORMADO, P.O. 11 DE SEPTIEMBRE DE 2010)</small>
+### CAPITULO UNICO
 
 ###### ARTICULO 190 Bis.
 
@@ -2049,7 +2103,9 @@ Este delito se sancionará con una pena de seis meses a tres años de prisión y
 
 ## TITULO SEPTIMO. INHUMACIONES Y EXHUMACIONES ILICITAS
 
-### CAPITULO II. FRAUDE
+### CAPITULO I. ROBO
+
+> <small>(REFORMADO, P.O. 11 DE SEPTIEMBRE DE 2010)</small>
 
 ###### ARTICULO 191.
 
@@ -2077,7 +2133,7 @@ En estos casos se impondrá una pena de uno a cuatro años de prisión y sanció
 
 ## TITULO OCTAVO. DELITOS CONTRA EL PATRIMONIO
 
-### CAPITULO III. ABUSO DE CONFIANZA
+### CAPITULO II. FRAUDE
 
 ###### ARTICULO 194.
 
@@ -2261,7 +2317,7 @@ No se sancionará a quien, sin emplear medios violentos, se apodere una sola vez
 
 A quien se le impute el hecho de haber tomado una cosa ajena sin consentimiento del dueño o legítimo poseedor y acredite haberla tomado con carácter temporal y no para apropiársela o enajenarla, se le impondrá una pena de tres meses a un año de prisión y sanción pecuniaria de cinco a veinte días de salario mínimo, siempre que justifique no haberse negado a devolverla si se le requirió para ello, pero, además, pagará al ofendido, como reparación del daño, el doble del alquiler, arrendamiento o intereses de la cosa usada.
 
-### CAPITULO IV. DESPOJO
+### CAPITULO III. ABUSO DE CONFIANZA
 
 ###### ARTICULO 204.
 
@@ -2323,7 +2379,7 @@ V. Cuando el valor de lo defraudado exceda de un mil quinientas veces el salario
 
 Para estimar la cuantía del fraude, si por alguna circunstancia no fuere estimable en dinero o si por su naturaleza no fuese posible fijar su valor, se aplicará una pena de seis meses a dos años de prisión y sanción pecuniaria de cincuenta a doscientos días de salario mínimo.
 
-### CAPITULO V. USURA
+### CAPITULO IV. DESPOJO
 
 ###### ARTICULO 207.
 
@@ -2347,9 +2403,7 @@ IV. La ilegitima posesión de una cosa, si el tenedor o poseedor de ella la reti
 
 V. El hecho de haber recibido mercancías con subsidio o franquicia para darles destino determinado, y distraerlas de ese destino o desvirtuar en cualquier forma los fines perseguidos con el subsidio o la franquicia.
 
-### CAPITULO VI. EXTORSION
-
-> <small>(REFORMADO, P.O. 21 DE ENERO DE 2011)</small>
+### CAPITULO V. USURA
 
 ###### ARTICULO 209.
 
@@ -2371,7 +2425,9 @@ A los autores intelectuales, a quienes dirijan la invasión y a quienes instigue
 
 A quienes se dediquen a promover el despojo de bienes inmuebles urbanos se les aplicará una sanción de tres a once años de prisión, más una sanción pecuniaria de sesenta a doscientos veinte días de salario mínimo. Se considera que se dedican a promover el despojo de inmuebles urbanos, quienes hayan sido anteriormente condenados por esta forma de participación en el despojo, o cuando se les hubiere decretado en más de una ocasión auto de formal prisión por este delito, salvo que en el proceso correspondiente se hubiere resuelto el desvanecimiento de datos, el sobreseimiento o la absolución del inculpado.
 
-### CAPITULO VII. DAÑO EN LAS COSAS
+### CAPITULO VI. EXTORSION
+
+> <small>(REFORMADO, P.O. 21 DE ENERO DE 2011)</small>
 
 ###### ARTICULO 211.
 
@@ -2381,7 +2437,7 @@ Para los efectos de este artículo, se entenderá que existe el lucro excesivo, 
 
 Este delito se sancionará con una pena de dos a seis años de prisión, sanción pecuniaria de doscientos a seiscientos días de salario mínimo y la reparación del daño.
 
-### CAPITULO VIII. ABIGEATO
+### CAPITULO VII. DAÑO EN LAS COSAS
 
 ###### ARTICULO 212.
 
@@ -2417,9 +2473,7 @@ Si en la comisión del delito de extorsión participa algún miembro de una corp
 
 A los trabajadores de instituciones bancarias o crediticias, y a los empleados de empresas de comunicación telefónica, de radio comunicación, de telecomunicación, o encargadas de transmisión o recepción de signos, señales, escritos, imágenes, voz, sonidos o información de cualquier naturaleza que se efectúe por hilos, radioelectricidad, medios ópticos, físicos vía satelital, u otros sistemas electromagnéticos, o cualquier otro sistema originado con motivo de los descubrimientos de la ciencia, que por razón de su empleo manejen información de clientes o tengan acceso a la misma, y que la utilicen de cualquier forma o la sustraigan para sí o para terceros con el objeto de obtener un lucro o beneficio por medio de la extorsión en sus diversas modalidades, se les impondrán las penas y sanción pecuniaria a que se refiere el párrafo anterior.
 
-### CAPITULO IX. DISPOSICIONES COMUNES A LOS DELITOS CONTRA EL PATRIMONIO
-
-> <small>(REFORMADO, P.O. 2 DE JULIO DE 2011)</small>
+### CAPITULO VIII. ABIGEATO
 
 ###### ARTICULO 213.
 
@@ -2459,7 +2513,9 @@ Al que cause daño a bienes de valor científico, histórico, artístico, cultur
 
 Si el daño, destrucción o deterioro se causa por medio de inundación, incendio, sustancias peligrosas o explosivos, se impondrá una pena de tres a diez años de prisión y sanción pecuniaria de trescientos un mil días de salario mínimo.
 
-### CAPITULO UNICO
+### CAPITULO IX. DISPOSICIONES COMUNES A LOS DELITOS CONTRA EL PATRIMONIO
+
+> <small>(REFORMADO, P.O. 2 DE JULIO DE 2011)</small>
 
 ###### ARTICULO 216.
 
@@ -2501,7 +2557,7 @@ V. Expida certificados falsos para obtener guías que simulen ventas, haga condu
 
 En estos casos se impondrá una pena de uno a cinco años de prisión y sanción pecuniaria de cien a quinientos días de salario mínimo.
 
-### CAPITULO I. FALSIFICACION DE DOCUMENTOS EN GENERAL
+### CAPITULO UNICO
 
 ###### ARTICULO 222.
 
@@ -2521,17 +2577,33 @@ Los delitos de abuso de confianza, despojo, daño en los bienes y fraude, se per
 
 ## TITULO NOVENO. DELITOS CONTRA LA FIDELIDAD PROFESIONAL
 
-### CAPITULO II. FALSIFICACION DE SELLOS, MATRICES, TROQUELES, PLACAS, MARCAS, CONTRASEÑAS Y LLAVES
+### CAPITULO I. FALSIFICACION DE DOCUMENTOS EN GENERAL
 
 ###### ARTICULO 225.
 
 Comete el delito contra la fidelidad profesional, el profesionista, artista o técnico y sus auxiliares que, en el ejercicio de su profesión, ejecutan ilícitos de los que sean responsables en los términos señalados en este Código y sin perjuicio de las prevenciones contenidas en otras leyes sobre ejercicio profesional, en su caso.
 
-Este delito se sancionará con una pena de inhabilitación de un mes a dos años en el ejercicio de la profesión o privación en caso de reincidencia, además de las penas fijadas por los delitos que resulten consumados, según sean dolosos o culposos y estarán obligados a la reparación de los daños por sus actos propios o de sus auxiliares, cuando éstos obren de acuerdo con las instrucciones de aquellos.
+> <small>(REFORMADO, P.O. 30 DE JULIO DE 2011)</small>
+
+Este delito se sancionará con una pena de inhabilitación de un mes a dos años en el ejercicio de la profesión o privación en caso de reincidencia, además de las penas fijadas por los delitos que resulten consumados, según sean dolosos o culposos, bajo esta última forma de realización será perseguible por querella, y estarán obligados a la reparación de los daños por sus actos propios o de sus auxiliares, cuando éstos obren de acuerdo con las instrucciones de aquellos.
+
+> <small>(REFORMADO, P.O. 30 DE JULIO DE 2011)</small>
 
 ###### ARTICULO 226.
 
-El segundo párrafo del artículo anterior se aplicará a los médicos que, habiendo otorgado responsiva para hacerse cargo de la atención de un lesionado o enfermo, lo abandonen en su tratamiento sin causa justificada y sin dar aviso inmediato a la autoridad correspondiente.
+El segundo párrafo del artículo anterior se aplicará al médico que:
+
+I. Abandone en su tratamiento sin causa justificada y sin dar aviso inmediato a la autoridad correspondiente, a quien habiendo otorgado responsiva de hacerse cargo de la atención de algún lesionado;
+
+II. Omita recabar la autorización del paciente o de la persona que deba otorgarla, salvo en caso de urgencia, cuando se trate de practicar alguna operación quirúrgica que por su naturaleza ponga en peligro la vida del enfermo, cause pérdida de un miembro, o que ataque la integridad de una función vital;
+
+III. Practique una intervención quirúrgica innecesaria;
+
+IV. Se niegue, ejerciendo la medicina y sin motivo justificado, a prestar asistencia a un enfermo en caso de notaría urgencia, poniendo en peligro la vida o la salud de dicho enfermo, cuando éste, por las circunstancias del caso no pudiera recurrir a otro médico, o cuando abandone sin causa justificada a la persona cuya asistencia esté encargada, o
+
+V. Certifique falsamente que una persona tiene una enfermedad u otro impedimento para dispensarla de cumplir una obligación que la Ley impone para adquirir un derecho.
+
+En el caso de que un médico se ostente con una especialidad no validada legalmente la punibilidad señalada en el artículo 225, se aumentará en una mitad
 
 ###### ARTICULO 227.
 
@@ -2553,7 +2625,7 @@ A la persona o a la institución, clínica, sanatorio y hospital públicos o pri
 
 ## TITULO DECIMO. FALSEDAD
 
-### CAPITULO III. USO DE OBJETO O DOCUMENTO FALSO O ALTERADO
+### CAPITULO II. FALSIFICACION DE SELLOS, MATRICES, TROQUELES, PLACAS, MARCAS, CONTRASEÑAS Y LLAVES
 
 ###### ARTICULO 229.
 
@@ -2605,7 +2677,7 @@ Igualmente comete el delito de falsificación de documentos, quien siendo médic
 
 En este caso se sancionará con la pena que establece el artículo 229 de este Código.
 
-### CAPITULO IV. USURPACION DE FUNCIONES PUBLICAS O DE PROFESION Y USO INDEBIDO DE CONDECORACIONES O UNIFORMES
+### CAPITULO III. USO DE OBJETO O DOCUMENTO FALSO O ALTERADO
 
 ###### ARTICULO 233.
 
@@ -2629,7 +2701,7 @@ Quien falsifique la marca o contraseña que alguna autoridad use para identifica
 
 A quien falsifique llaves para adaptarlas a cualquier cerradura, el sello, las marcas u otras señas de algún particular, sin el consentimiento de quien pueda darlo, se le impondrá de uno a tres años de prisión y sanción pecuniaria de cien a trescientos días de salario mínimo.
 
-### CAPITULO V. VARIACION DE NOMBRE O DE DOMICILIO
+### CAPITULO IV. USURPACION DE FUNCIONES PUBLICAS O DE PROFESION Y USO INDEBIDO DE CONDECORACIONES O UNIFORMES
 
 ###### ARTICULO 237.
 
@@ -2645,7 +2717,7 @@ IV. Emplee sellos verdaderos en objetos falsificados para hacerlos pasar como le
 
 Este delito se sancionará con una pena de uno a cinco años de prisión y sanción pecuniaria de cien a quinientos días de salario mínimo.
 
-### CAPITULO I. REBELION
+### CAPITULO V. VARIACION DE NOMBRE O DE DOMICILIO
 
 ###### ARTICULO 238.
 
@@ -2661,7 +2733,7 @@ IV. Use uniforme, insignia, distintivo o condecoración a que no tiene derecho.
 
 Este delito se sancionará con una pena de uno a cuatro años de prisión y sanción pecuniaria de veinte a ochenta días de salario mínimo.
 
-### CAPITULO II. SEDICION
+### CAPITULO I. REBELION
 
 ###### ARTICULO 239.
 
@@ -2675,11 +2747,11 @@ III. Siendo funcionario público o empleado y en los actos propios de su cargo, 
 
 Este delito se sancionará con una pena de uno a tres años de prisión y sanción pecuniaria de veinte a sesenta días de salario mínimo.
 
-### CAPITULO III. MOTIN
+### CAPITULO II. SEDICION
 
 ## TITULO DECIMO PRIMERO. DELITOS CONTRA LA SEGURIDAD DEL ESTADO
 
-### CAPITULO IV. TERRORISMO
+### CAPITULO III. MOTIN
 
 ###### ARTICULO 240.
 
@@ -2737,7 +2809,7 @@ A los jefes, directores, policías o agentes del Gobierno y a los rebeldes que c
 
 No se impondrá sanción alguna a los que espontáneamente depongan las armas antes de que se hayan roto las hostilidades, siempre que no hayan cometido alguno de los delitos señalados anteriormente.
 
-### CAPITULO I. DESOBEDIENCIA A UN MANDATO LEGITIMO DE AUTORIDAD
+### CAPITULO IV. TERRORISMO
 
 ###### ARTICULO 247.
 
@@ -2749,7 +2821,7 @@ Este delito se sancionará con una pena de uno a cinco años de prisión y sanci
 
 A quienes dirijan, organicen, inciten, compelan o patrocinen económicamente a otros para cometer el delito de sedición, se les impondrá una pena de dos a seis años de prisión y sanción pecuniaria de cuarenta a ciento veinte días de salario mínimo.
 
-### CAPITULO II. RESISTENCIA
+### CAPITULO I. DESOBEDIENCIA A UN MANDATO LEGITIMO DE AUTORIDAD
 
 ###### ARTICULO 249.
 
@@ -2761,7 +2833,7 @@ Este delito se sancionará con una pena de uno a cinco años de prisión y sanci
 
 A quienes dirijan, organicen, inciten, compelan o patrocinen económicamente a otros para cometer el delito de motín se les impondrá una pena de dos a seis años de prisión y sanción pecuniaria de cuarenta a ciento veinte días de salario mínimo.
 
-### CAPITULO III. COACCION
+### CAPITULO II. RESISTENCIA
 
 ###### ARTICULO 251.
 
@@ -2771,7 +2843,7 @@ Este delito se sancionará con una pena de cinco a veinte años de prisión y sa
 
 ## TITULO DECIMO SEGUNDO. DELITOS CONTRA LA AUTORIDAD
 
-### CAPITULO IV. QUEBRANTAMIENTO DE SELLOS
+### CAPITULO III. COACCION
 
 ###### ARTICULO 252.
 
@@ -2779,7 +2851,7 @@ Comete el delito de desobediencia a un mandato legitimo de autoridad quien, sin 
 
 Este delito se sancionará con una pena de un mes a un año de prisión y sanción pecuniaria de cinco a veinte días de salario mínimo.
 
-### CAPITULO V. ULTRAJES A LA AUTORIDAD, A LAS INSTITUCIONES DEL ESTADO Y A LAS INSIGNIAS PUBLICAS
+### CAPITULO IV. QUEBRANTAMIENTO DE SELLOS
 
 ###### ARTICULO 253.
 
@@ -2787,7 +2859,7 @@ Comete el delito de resistencia quien, empleando la fuerza, el amago o la amenaz
 
 Este delito se sancionará con una pena de seis meses a tres años de prisión y sanción pecuniaria de diez a sesenta días de salario mínimo.
 
-### CAPITULO I. ENCUBRIMIENTO
+### CAPITULO V. ULTRAJES A LA AUTORIDAD, A LAS INSTITUCIONES DEL ESTADO Y A LAS INSIGNIAS PUBLICAS
 
 ###### ARTICULO 254.
 
@@ -2795,7 +2867,7 @@ Comete el delito de coacción quien presiona a la autoridad por medio de la viol
 
 Este delito se sancionará con una pena de seis meses a tres años de prisión y sanción pecuniaria de diez a sesenta días de salario mínimo.
 
-### CAPITULO II. FALSO TESTIMONIO
+### CAPITULO I. ENCUBRIMIENTO
 
 ###### ARTICULO 255.
 
@@ -2803,7 +2875,7 @@ Comete el delito de quebrantamiento de sellos quien altera, destruye o quita los
 
 Este delito se sancionará con una pena de uno a tres años de prisión y sanción pecuniaria de veinte a sesenta días de salario mínimo.
 
-### CAPITULO III. SIMULACION DE PRUEBAS
+### CAPITULO II. FALSO TESTIMONIO
 
 ###### ARTICULO 256.
 
@@ -2811,11 +2883,11 @@ Comete el delito de ultrajes a la autoridad, a las instituciones del Estado y a 
 
 Este delito se sancionará con una pena de uno a tres años de prisión y sanción pecuniaria de veinte a sesenta días de salario mínimo.
 
-### CAPITULO I. ARMAS PROHIBIDAS
+### CAPITULO III. SIMULACION DE PRUEBAS
 
 ## TITULO DECIMO TERCERO. DELITOS CONTRA LA ADMINISTRACION DE JUSTICIA
 
-### CAPITULO II. ASOCIACION DELICTUOSA
+### CAPITULO I. ARMAS PROHIBIDAS
 
 ###### ARTICULO 257.
 
@@ -2845,7 +2917,7 @@ Los adquirientes o detentadores no serán sancionados, cuando acrediten legalmen
 
 No se impondrá sanción alguna, en el caso de la fracción I del artículo 257 de este Código, al cónyuge, concubina, concubinario, ascendientes o descendientes consanguíneos del delincuente o colaterales hasta en segundo grado.
 
-### CAPITULO III. EVASION
+### CAPITULO II. ASOCIACION DELICTUOSA
 
 ###### ARTICULO 261.
 
@@ -2863,11 +2935,7 @@ Este delito se sancionará con una pena de uno a tres años de prisión, sanció
 
 En el caso de la fracción III de este artículo, la pena será de uno a cuatro años de prisión y sanción pecuniaria de veinte a ochenta días de salario mínimo.
 
-### CAPITULO I. DISPOSICIONES GENERALES
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE SEPTIEMBRE DE 2009)</small>
+### CAPITULO III. EVASION
 
 ###### ARTICULO 262.
 
@@ -2881,7 +2949,11 @@ Cuando el delito a que se refiere este Capítulo sea cometido por un servidor p�
 
 ## TITULO DECIMO CUARTO. DELITOS CONTRA LA SEGURIDAD PUBLICA
 
-### CAPITULO II. COHECHO
+### CAPITULO I. DISPOSICIONES GENERALES
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE SEPTIEMBRE DE 2009)</small>
 
 ###### ARTICULO 264.
 
@@ -2895,7 +2967,7 @@ III. Petardos, bombas, aparatos explosivos o de gases asfixiantes o tóxicos.
 
 Este delito se sancionará con una pena de uno a cinco años de prisión, sanción pecuniaria de veinte a cien días de salario mínimo y el decomiso.
 
-### CAPITULO III. EJERCICIO INDEBIDO DE LAS FUNCIONES PUBLICAS
+### CAPITULO II. COHECHO
 
 ###### ARTICULO 265.
 
@@ -2913,7 +2985,7 @@ Para los efectos de esta disposición se entiende por pandilla, la reunión habi
 
 Cuando quien cometa el delito a que se refiere el presente Capítulo sea o haya sido servidor público de alguna corporación policiaca, las penas a que se refiere el artículo 265 de este Código se aumentarán en una mitad y se le impondrá, además, destitución, en su caso, del empleo, cargo o comisión públicos e inhabilitación para desempeñar otro por el doble de la pena de prisión impuesta.
 
-### CAPITULO IV. ABANDONO DE LAS FUNCIONES PUBLICAS
+### CAPITULO III. EJERCICIO INDEBIDO DE LAS FUNCIONES PUBLICAS
 
 ###### ARTICULO 268.
 
@@ -2937,7 +3009,7 @@ Si el procesado o sentenciado fue inculpado por cualquiera de los delitos consid
 
 ## TITULO DECIMO QUINTO. DELITOS COMETIDOS POR SERVIDORES PUBLICOS CONTRA LA ADMINISTRACION PUBLICA
 
-### CAPITULO V. COALICION
+### CAPITULO IV. ABANDONO DE LAS FUNCIONES PUBLICAS
 
 ###### ARTICULO 271.
 
@@ -2953,7 +3025,7 @@ Para la individualización de las sanciones señaladas en este Título, el juez 
 
 Cuando los delitos de abuso de autoridad y cohecho sean cometidos por servidores públicos miembros de una corporación policíaca, las penas previstas serán aumentadas hasta en una mitad y, además, se impondrá la destitución e inhabilitación de uno a ocho años para desempeñar otro empleo, cargo o comisión públicos.
 
-### CAPITULO VI. ABUSO DE AUTORIDAD
+### CAPITULO V. COALICION
 
 ###### ARTICULO 274.
 
@@ -2975,9 +3047,7 @@ III. Cuando la cantidad o el valor de la dádiva, promesa o prestación exceda d
 
 En ningún caso se devolverá a los responsables del delito de cohecho el dinero o dádivas entregadas, pues se aplicarán en beneficio del Estado.
 
-### CAPITULO VII. TORTURA
-
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2010)</small>
+### CAPITULO VI. ABUSO DE AUTORIDAD
 
 ###### ARTICULO 276.
 
@@ -3035,7 +3105,9 @@ El delito a que se refiere el artículo anterior se sancionará con una pena de 
 
 Al infractor de las fracciones, IV, VI, VIII Y IX del artículo anterior, se le impondrá una pena de tres a siete años de prisión, sanción pecuniaria de sesenta a ciento cuarenta días del salario que perciba al momento de la comisión del delito, y destitución e inhabilitación por el doble de la pena de prisión impuesta, para desempeñar otro empleo, cargo o comisión públicos.
 
-### CAPITULO VIII. TRAFICO DE INFLUENCIA
+### CAPITULO VII. TORTURA
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTICULO 278.
 
@@ -3043,7 +3115,7 @@ Comete el delito de abandono de las funciones públicas el servidor público que
 
 Este delito se sancionará con una pena de uno a tres años de prisión, sanción pecuniaria de veinte a sesenta días del salario que percibía e inhabilitación hasta por cuatro años para desempeñar empleo, cargo o comisión públicos.
 
-### CAPITULO IX. CONCUSION
+### CAPITULO VIII. TRAFICO DE INFLUENCIA
 
 ###### ARTICULO 279.
 
@@ -3051,7 +3123,7 @@ Cometen el delito de coalición los servidores públicos que, con el propósito 
 
 Este delito se sancionará con una pena de uno a dos años de prisión y sanción pecuniaria de veinte a cuarenta días de salario mínimo. A los autores intelectuales, a los instigadores o a quienes encabecen el grupo coaligado, se les impondrá una pena de dos a cuatro años de prisión y sanción pecuniaria de cuarenta a ochenta días de salario mínimo. En ambos casos, serán destituidos e inhabilitados hasta por el doble de la pena de prisión impuesta para desempeñar empleo, cargo o comisión públicos.
 
-### CAPITULO X. PECULADO
+### CAPITULO IX. CONCUSION
 
 ###### ARTICULO 280.
 
@@ -3083,7 +3155,7 @@ XI. Otorga cualquier identificación que acredite como servidor público a algun
 
 El delito de abuso de autoridad se sancionará, en los casos de las fracciones I a V, X y XI, con una pena de uno a cinco años de prisión, sanción pecuniaria de veinte a cien días de salario mínimo y destitución e inhabilitación para desempeñar otro empleo, cargo o comisión públicos por el doble de la pena de prisión impuesta. Igual sanción se impondrá a las personas que acepten los nombramientos, contrataciones o identificaciones a que se refiere la fracción XI. En los casos previstos por las fracciones VI a IX se impondrá una pena de tres a siete años de prisión, sanción pecuniaria de sesenta a ciento cuarenta días de salario mínimo, y destitución e inhabilitación por el doble de la pena de prisión impuesta para desempeñar otro empleo, cargo o comisión públicos.
 
-### CAPITULO XI. ENRIQUECIMIENTO ILICITO
+### CAPITULO X. PECULADO
 
 ###### ARTICULO 282.
 
@@ -3127,7 +3199,7 @@ La solicitud de reconocimiento médico puede formularla el detenido, el defensor
 
 Cualquier autoridad que conozca de un hecho de tortura está obligada a denunciarlo de inmediato.
 
-### CAPITULO XII. DELITOS COMETIDOS POR SERVIDORES PUBLICOS EN LA ADMINISTRACION O PROCURACION DE JUSTICIA
+### CAPITULO XI. ENRIQUECIMIENTO ILICITO
 
 ###### ARTICULO 287.
 
@@ -3135,9 +3207,7 @@ Comete el delito de tráfico de influencia el servidor público que, por sí o p
 
 Este delito se sancionará con una pena de uno a cuatro años de prisión, sanción pecuniaria de veinte a ochenta días de salario mínimo, destitución e inhabilitación para el desempeño de su empleo, cargo o comisión públicos por el doble del lapso de la privación de la libertad que sea impuesta.
 
-### CAPITULO XIII. DESLEALTAD AL EMPLEO, CARGO O COMISION, O PERJUICIO AL SERVICIO PUBLICO
-
-> <small>(ADICIONADO, P.O. 4 DE JUNIO DE 2010)</small>
+### CAPITULO XII. DELITOS COMETIDOS POR SERVIDORES PUBLICOS EN LA ADMINISTRACION O PROCURACION DE JUSTICIA
 
 ###### ARTICULO 288.
 
@@ -3145,7 +3215,9 @@ Comete el delito de concusión el servidor público que, a Título de impuesto, 
 
 Este delito se sancionará con una pena de uno a cinco años de prisión, sanción pecuniaria de veinte a cien días de salario mínimo, y destitución e inhabilitación por el doble de la pena de prisión impuesta para desempeñar empleo, cargo o comisión públicos.
 
-### CAPITULO I. DELITO CONTRA EL CONSUMO
+### CAPITULO XIII. DESLEALTAD AL EMPLEO, CARGO O COMISION, O PERJUICIO AL SERVICIO PUBLICO
+
+> <small>(ADICIONADO, P.O. 4 DE JUNIO DE 2010)</small>
 
 ###### ARTICULO 289.
 
@@ -3169,7 +3241,7 @@ II. Cuando el monto de lo distraído o de los fondos utilizados indebidamente ex
 
 III. Cuando el monto de lo distraído o de los fondos utilizados indebidamente exceda de mil quinientas veces el salario mínimo diario vigente en el Estado en el momento de cometerse el delito, se impondrá una pena de cinco a diez años de prisión, sanción pecuniaria de quinientos a mil días de salario mínimo, y destitución e inhabilitación del doble de la pena de prisión impuesta para desempeñar otro empleo, cargo o comisión públicos.
 
-### CAPITULO II. DELITOS CONTRA EL DERECHO DE LOS TRABAJADORES
+### CAPITULO I. DELITO CONTRA EL CONSUMO
 
 ###### ARTICULO 291.
 
@@ -3187,7 +3259,7 @@ II. Cuando el monto a que asciende el enriquecimiento no exceda del equivalente 
 
 III. Cuando el monto a que asciende el enriquecimiento ilícito exceda del equivalente a cinco mil veces el salario mínimo diario vigente en el Estado, se impondrá una pena de cuatro a diez años de prisión, sanción pecuniaria de cuatrocientos a un mil días de salario mínimo, y destitución e inhabilitación del doble de la pena de prisión impuesta para desempeñar otro empleo, cargo o comisión públicos.
 
-### CAPITULO I. ATAQUES A LAS VIAS DE COMUNICACION Y MEDIOS DE TRANSPORTE
+### CAPITULO II. DELITOS CONTRA EL DERECHO DE LOS TRABAJADORES
 
 ###### ARTICULO 293.
 
@@ -3209,7 +3281,7 @@ Este delito se castigará con una pena de uno a cuatro años de prisión, sanci�
 
 > <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 4 DE JUNIO DE 2010)</small>
 
-### CAPITULO II. DELITOS CONTRA LA SEGURIDAD DEL TRANSITO DE VEHICULOS
+### CAPITULO I. ATAQUES A LAS VIAS DE COMUNICACION Y MEDIOS DE TRANSPORTE
 
 ###### ARTICULO 293 Bis.
 
@@ -3239,7 +3311,7 @@ Cuando cualquiera de los delitos previstos en este capítulo sean cometidos por 
 
 ## TITULO DECIMO SEXTO. DELITOS CONTRA LA ECONOMIA PUBLICA
 
-### CAPITULO III. VIOLACION DE CORRESPONDENCIA
+### CAPITULO II. DELITOS CONTRA LA SEGURIDAD DEL TRANSITO DE VEHICULOS
 
 ###### ARTICULO 294.
 
@@ -3247,7 +3319,7 @@ Comete el delito contra el consumo, el comerciante o industrial que por cualquie
 
 Este delito se sancionará con una pena de uno a tres años de prisión, sanción pecuniaria de cien a trescientos días de salario mínimo y se perseguirá por querella necesaria.
 
-### CAPITULO I. PREVENCIONES GENERALES
+### CAPITULO III. VIOLACION DE CORRESPONDENCIA
 
 ###### ARTICULO 295.
 
@@ -3277,7 +3349,7 @@ Este delito se penará con sanción pecuniaria de cien a quinientos días de sal
 
 ## TITULO DECIMO SEPTIMO. DELITOS CONTRA LA SEGURIDAD DE LAS VIAS DE COMUNICACION Y MEDIOS DE TRANSPORTE
 
-### CAPITULO II. DOLO EN LA EMISION DEL VOTO
+### CAPITULO I. PREVENCIONES GENERALES
 
 ###### ARTICULO 298.
 
@@ -3307,7 +3379,7 @@ A quien destruya, inutilice, quite o cambie un dispositivo o señal de seguridad
 
 A quien entorpezca, paralice o deje de prestar un servicio público de transporte se le impondrá una sanción de dos a ocho años de prisión y sanción pecuniaria de cuarenta a ciento sesenta días de salario mínimo.
 
-### CAPITULO III. INTERFERENCIA EN EL DESARROLLO DEL PROCESO ELECTORAL
+### CAPITULO II. DOLO EN LA EMISION DEL VOTO
 
 ###### ARTICULO 304.
 
@@ -3339,7 +3411,7 @@ Si se trata de un elemento de cualquier corporación policíaca se le impondrá 
 
 En caso de reincidencia de alguno de los delitos a que se refieren los artículos anteriores de este Capítulo, la inhabilitación para manejar podrá ser definitiva y el juez lo comunicará a las autoridades competentes.
 
-### CAPITULO IV. VIOLACIONES AL PROCESO ELECTORAL
+### CAPITULO III. INTERFERENCIA EN EL DESARROLLO DEL PROCESO ELECTORAL
 
 ###### ARTICULO 307.
 
@@ -3365,7 +3437,7 @@ El delito de violación de correspondencia sólo se perseguirá por querella nec
 
 ## TITULO DECIMO OCTAVO. DELITOS ELECTORALES
 
-### CAPITULO V. VIOLACIONES ELECTORALES COMETIDAS POR SERVIDORES PUBLICOS
+### CAPITULO IV. VIOLACIONES AL PROCESO ELECTORAL
 
 ###### ARTICULO 311.
 
@@ -3389,7 +3461,7 @@ Por la Comisión de cualquiera de los delitos comprendidos en el presente Títul
 
 Quien induzca o influya directamente en la voluntad de otro, para que incurra en cualquiera de las conductas ilícitas que establece este Título, será sancionado con la misma pena que corresponda al delito inducido.
 
-### CAPITULO VI. INDUCCION ILICITA A ELECTORES
+### CAPITULO V. VIOLACIONES ELECTORALES COMETIDAS POR SERVIDORES PUBLICOS
 
 ###### ARTICULO 315.
 
@@ -3407,7 +3479,7 @@ V. Suplante a un votante.
 
 Este delito será sancionado con pena de seis meses a tres años de prisión, y sanción pecuniaria de diez a cien días del salario mínimo vigente.
 
-### CAPITULO VII. NO DESEMPEÑO DEL CARGO
+### CAPITULO VI. INDUCCION ILICITA A ELECTORES
 
 ###### ARTICULO 316.
 
@@ -3439,7 +3511,7 @@ XII. Introduzca o sustraiga de las urnas ilícitamente una o más boletas electo
 
 Este delito se sancionará con pena de seis meses a cinco años de prisión y sanción pecuniaria de diez a cien días del salario mínimo vigente.
 
-### CAPITULO VIII. INDUCCION AL VOTO POR MINISTROS DE CULTO RELIGIOSO
+### CAPITULO VII. NO DESEMPEÑO DEL CARGO
 
 ###### ARTICULO 317.
 
@@ -3478,6 +3550,8 @@ XV. Obstaculice el desarrollo normal de la votación, sin mediar causa justifica
 XVI. A sabiendas, aproveche ilícitamente fondos, bienes o servicios distintos a los permitidos legalmente para efectos del financiamiento del partido político al que pertenezca.
 
 Este delito se sancionará con tres meses a cinco años de prisión y sanción pecuniaria de veinte a cien días del salario mínimo vigente.
+
+### CAPITULO VIII. INDUCCION AL VOTO POR MINISTROS DE CULTO RELIGIOSO
 
 ###### ARTICULO 318.
 
@@ -3804,3 +3878,27 @@ P.O. 23 DE JULIO DE 2011.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan las disposiciones que se opongan a este Decreto.
+
+DECRETO 704 POR EL QUE SE REFORMA LA DENOMINACION DEL CAPITULO V DEL TITULO SEGUNDO DE LA PARTE ESPECIAL; LOS ARTICULOS, 137, 138, 139, 140; Y SE ADICIONA EL ARTICULO 140 BIS, DEL CODIGO PENAL DEL ESTADO DE SAN LUIS POTOSI.
+
+P.O. 30 DE JULIO DE 2011.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de San Luis Potosí.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+DECRETO 705 POR EL QUE SE ADICIONA AL TITULO SEGUNDO DE LA PARTE ESPECIAL EL CAPITULO XII DENOMINADO USO ILICITO DE EQUIPOS DE RADIOCOMUNICACION, Y EL ARTICULO 147 TER, AL CÓDIGO PENAL DEL ESTADO DE SAN LUIS POTOSI.
+
+P.O. 30 DE JULIO DE 2011.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+DECRETO 708 POR EL QUE SE REFORMA LOS ARTICULOS, 225 EN SU PARRAFO SEGUNDO, Y 226, DEL CODIGO PENAL DEL ESTADO DE SAN LUIS POTOSI.
+
+P.O. 30 DE JULIO DE 2011.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de San Luis Potosí.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan a éste.
