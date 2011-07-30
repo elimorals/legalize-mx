@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-la-comision-estatal-de-derechos-humanos-del-estado-70505
 country: "mx"
 rank: "ley"
 publication_date: "2009-09-19"
-last_updated: "2010-11-13"
+last_updated: "2011-07-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70505&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "SLP"
 ---
 # LEY DE LA COMISION ESTATAL DE DERECHOS HUMANOS DEL ESTADO DE SAN LUIS POTOSI
 
-LEY DE LA COMISION ESTATAL DE DERECHOS HUMANOS DEL ESTADO DE SAN LUIS POTOSI
+LEY DE LA COMISIÓN ESTATAL DE DERECHOS HUMANOS DEL ESTADO DE SAN LUIS POTOSÍ
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE NOVIEMBRE DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE JULIO DE 2011.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 19 de septiembre de 2009.
 
@@ -733,7 +733,9 @@ I. Estar directamente ligada al cumplimiento de las tareas sustantivas de protec
 
 II. Privilegiar la atención equitativa a todas las regiones del Estado, y
 
-III. Llevar a cabo su administración con perspectiva de género, evitando cualquier discriminación motivada por el origen étnico o nacional, la edad, las capacidades diferentes, la condición social, las condiciones de salud, la religión, las opiniones, las preferencias, el estado civil o cualquier otra causa que atente contra la dignidad humana, y tenga por objeto anular o menoscabar los derechos y libertades de las personas.
+> <small>(REFORMADA, P.O. 30 DE JULIO DE 2011)</small>
+
+III. Llevar a cabo su administración con perspectiva de género, evitando cualquier discriminación motivada por el origen étnico o nacional, la edad, las discapacidades, la condición social, las condiciones de salud, la religión, las opiniones, las preferencias, el estado civil cualquier otra causa que atente contra la dignidad humana, y tenga por objeto anular o menoscabar los derechos y libertades de las personas.
 
 ###### ARTICULO 56.
 
@@ -1539,7 +1541,7 @@ Lic. Héctor Vega Robles
 
 (Rúbrica)
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA AL PRESENTE ORDENAMIENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 13 DE NOVIEMBRE DE 2010.
 
@@ -1548,3 +1550,9 @@ PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en 
 SEGUNDO. Las remuneraciones que en el ejercicio dos mil diez sean superiores a la máxima establecida en la ley de la materia, deberán ser ajustadas o disminuidas en el presupuesto de egresos correspondiente al ejercicio fiscal del año dos mil once.
 
 TERCERO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 30 DE JULIO DE 2011.
+
+PRIMERO. Este Decreto entrará al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que contravengan el presente Decreto.
