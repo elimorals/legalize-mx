@@ -4,7 +4,7 @@ identifier: "JAL-codigo-civil-del-estado-de-jalisco-5751"
 country: "mx"
 rank: "codigo"
 publication_date: "1995-02-25"
-last_updated: "2011-05-05"
+last_updated: "2011-07-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5751&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 CODIGO CIVIL DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE MAYO DE 2011.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE JULIO DE 2011.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el sábado 25 de febrero de 1995.
 
@@ -291,7 +291,9 @@ La disposición de cuerpos, órganos y tejidos de seres humanos con fines terap�
 
 En caso de disposición de cuerpos, total o parcialmente para después de la muerte o en el caso de muerte cerebral, el consentimiento para ello se regirá por cualesquiera de las siguientes formas:
 
-I. Deberá hacerse constar mediante testamento público abierto;
+> <small>(REFORMADA, P.O. 30 DE JULIO DE 2011)</small>
+
+I. Deberá hacerse constar mediante testamento público abierto o en documento público en que se haga constar la tutela voluntaria;
 
 II. Expresarse por escrito ratificando su firma ante notario público, depositando tal documento ante sus parientes más próximos o con persona de su confianza; y
 
@@ -4017,17 +4019,19 @@ El cargo de tutor, del mayor de edad que no pueda gobernarse ni obligarse por s�
 
 La interdicción de que habla el artículo anterior no cesará sino por la muerte del incapacitado o por sentencia definitiva, que se pronunciará conforme a las mismas reglas establecidas para declarar la interdicción.
 
-> <small>(REFORMADO, P.O. 31 DE MAYO DE 2007)</small>
+> <small>(REFORMADO, P.O. 30 DE JULIO DE 2011)</small>
 
 ###### Art. 621.
 
-El Juez de Primera Instancia del domicilio del incapacitado y, sí no lo hubiere, el Juez Menor o el de Paz, sin perjuicio de las atribuciones que competen al Consejo de Familia, siempre con intervención del Agente de la Procuraduría Social, cuidará provisionalmente de la persona y bienes del incapacitado, hasta que se nombre tutor.
+El Juez de Primera Instancia del domicilio del incapacitado y, si no lo hubiere, el Juez Menor o el de Paz, sin perjuicio de las atribuciones que competen al Consejo de Familia, siempre con intervención del Agente de la Procuraduría Social, cuidará provisionalmente de la persona y los bienes del incapacitado hasta que se nombre tutor, salvo que exista un documento público, en donde se haya efectuado la auto designación de tutor, en cuyo caso se estará a lo ahí establecido.
 
 ###### Art. 622.
 
 El juez que no cumpla las prescripciones relativas a la tutela, además de las penas en que incurra conforme a las leyes, será responsable de los daños y perjuicios que sufran los incapaces.
 
 ### CAPITULO V. De la tutela dativa
+
+> <small>(REFORMADO, P.O. 30 DE JULIO DE 2011)</small>
 
 ###### Art. 623.
 
@@ -4169,17 +4173,11 @@ Los recursos y patrimonio del incapacitado se destinarán en forma preferente a 
 
 La tutela dativa tiene lugar:
 
-I. Cuando no hay tutor testamentario ni persona a quien conforme a la ley corresponda la tutela legítima;
+I. Cuando no haya tutor testamentario ni persona a quien, conforme a la ley, corresponda la tutela legítima;
 
-> <small>(REFORMADA, P.O. 11 DE ENERO DE 2007)</small>
+II. Cuando el tutor testamentario esté impedido temporalmente de ejercer su cargo y no haya ningún pariente de los designados en el artículo 636;
 
-II. Cuando el tutor testamentario esté impedido temporalmente de ejercer su cargo y no hay ningún pariente de los designados en el artículo 636;
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 11 DE ENERO DE 2007)</small>
-
-III. Cuando es designada por persona mayor de edad en instrumentos público, para el caso en que se le declare estado de incapacidad; y
-
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 11 DE ENERO DE 2007)</small>
+III. Cuando en un documento público expreso una persona mayor de edad hubiere ejercido su facultad de designarse tutor, se estará frente al supuesto de tutela voluntaria, y
 
 IV. En los demás casos establecidos por la ley.
 
@@ -4207,13 +4205,45 @@ Siempre será dativa la tutela para asuntos judiciales del menor de edad emancip
 
 A los menores de edad que no estén sujetos a patria potestad ni a tutela testamentaría o legítima, aunque no tengan bienes, se les nombrará tutor dativo. La tutela en este caso, tendrá por objeto el cuidado de la persona del menor, a efecto de que reciba la educación que corresponda a su posibilidad económica y a sus aptitudes. El tutor será nombrado a petición del Consejo de Familia, del Agente de la Procuraduría Social, del mismo menor y aun de oficio por el Juez.
 
-> <small>(ADICIONADO, P.O. 11 DE ENERO DE 2007)</small>
+> <small>(ADICIONADO, P.O. 30 DE JULIO DE 2011)</small>
 
-Art. 653 bis.- El tutor dativo a que se refiere la fracción III del artículo 648, tendrá la obligación de desempeñar la tutela en los términos del instrumentos público respectivo y recibirá en su caso los emolumentos ahí establecidos, previa declaración judicial que así lo establezca.
+###### Art. 653
 
-En caso de no constar las obligaciones, ni la forma de llevar la tutela en el instrumento público, se estará a lo que establece el presente título.
+bis.- La persona que cuente con capacidad de ejercicio podrá designar tutor para que cuide de su persona y de sus bienes cuando quede en estado de interdicción. Igualmente tendrá la facultad de nombrar curador.
 
-En el procedimiento de declaración del estado incapacidad, el juez deberá nombrar como tutor interino al designado en el instrumento público.
+> <small>(ADICIONADO, P.O. 30 DE JULIO DE 2011)</small>
+
+###### Art. 653
+
+ter.- La designación de tutor podrá otorgarse mediante:
+
+I. Escritura especial otorgada ante notario, en donde se observarán las mismas solemnidades del testamento público abierto, o
+
+II. Acta de tutela realizada ante el Oficial del Registro Civil de conformidad con la Ley del Registro Civil, o
+
+III. Declaración judicial interpuesta mediante jurisdicción voluntaria que reconozca la solicitud de declaración de tutor y curador voluntario.
+
+> <small>(ADICIONADO, P.O. 30 DE JULIO DE 2011)</small>
+
+###### Art. 653
+
+quáter.- Se pueden designar tutores en forma sucesiva.
+
+> <small>(ADICIONADO, P.O. 30 DE JULIO DE 2011)</small>
+
+###### Art. 653
+
+quinquies.- En el documento público se podrán dictar instrucciones sobre tratamientos terapéuticos, los cuales serán determinados por un médico, donación de órganos y ceremonial de funerales.
+
+> <small>(ADICIONADO [N. DE E. REFORMADO ANTES ARTICULO 653-BIS], P.O. 30 DE JULIO DE 2011)</small>
+
+###### Art. 653
+
+sexies.- El tutor dativo a que se refiere la fracción III del artículo 648, tendrá la obligación de desempeñar la autotutela en los términos del documento público respectivo y recibirá, en su caso, los emolumentos ahí establecidos, previa declaración judicial que así lo establezca.
+
+En caso de no constar las obligaciones ni la forma de llevar la tutela en el documento público, se estará a lo que establece el presente título.
+
+En el procedimiento de declaración del estado de incapacidad, el Juez deberá nombrar como tutor y curador interino al designado en el documento público.
 
 ### CAPITULO IX. Del desempeño de la tutela
 
@@ -4669,6 +4699,8 @@ El tutor no tendrá derecho a remuneración alguna y restituirá lo que por este
 
 ### CAPITULO XV. Del curador
 
+> <small>(REFORMADO, P.O. 30 DE JULIO DE 2011)</small>
+
 ###### Art. 734.
 
 El tutor está obligado a rendir al Juez, cuenta detallada de su administración, en el mes de enero de cada año, sea cual fuere la fecha en que se le hubiere discernido el cargo. La falta de presentación de la cuenta en los tres meses siguientes al de enero, motivará la remoción del tutor.
@@ -4795,7 +4827,7 @@ Si la tutela hubiere fenecido durante la minoridad, el menor podrá ejercitar la
 
 ###### Art. 761.
 
-Todas las personas sujetas a tutela, ya sea testamentaria, legítima o dativa, además del tutor tendrán un curador, excepto en los casos en que la tutela sea desempeñada por una institución de beneficencia pública, descentralizada o particular; cuando el incapaz no tenga bienes o cuando se desempeñe, subsistiendo la patria potestad.
+Todas las personas sujetas a tutela, ya sea testamentaria, legítima, dativa o voluntaria, además del tutor tendrán un curador, excepto en los casos en que la tutela sea desempeñada por una institución de beneficencia pública, descentralizada o particular; cuando el incapaz no tenga bienes o cuando se desempeñe, subsistiendo la patria potestad.
 
 ###### Art. 762.
 
@@ -13029,7 +13061,9 @@ IV. Interdicción de uno u otro;
 
 V. Vencimiento del plazo y por la conclusión del negocio para el cual fue concedido; y
 
-VI. En los casos previstos por este código para el mandato judicial y el apoderado del ausente.
+> <small>(REFORMADA, P.O. 30 DE JULIO DE 2011)</small>
+
+VI. Interdicción del mandatario o del mandante, salvo que en éste hubiere existido estipulación expresa en el sentido de continuar su vigencia, en cuyo caso el mandatario deberá rendir cuentas al tutor del mandante.
 
 ###### Art. 2244.
 
@@ -13585,6 +13619,8 @@ Al concluir el contrato de aparcería, el aparcero que hubiere cumplido fielment
 
 ### CAPITULO II. De la renta vitalicia
 
+> <small>(REFORMADO, P.O. 30 DE JULIO DE 2011)</small>
+
 ###### Art. 2348.
 
 Salvo pacto en contrario, el aparcero que tuviere predios en aparcería agrícola, no podrá levantar las mieses o cosechar los frutos en que deba tener parte, sin dar aviso al aparcerista o a su representante, si éste o aquél están domiciliados en lugar que para trasladarse al predio materia del contrato se emplee menos de una hora utilizando los medios de transporte comunes en el lugar.
@@ -13715,7 +13751,9 @@ El contrato celebrado entre los compradores de billetes y las loterías autoriza
 
 ###### Art. 2377.
 
-El contrato aleatorio de renta vitalicia es aquél por virtud del cual, el deudor se obliga a pagar periódicamente una pensión durante la vida de una o más personas determinadas que serán los rentistas vitalicios o acreedores, mediante la entrega de una cantidad de dinero o el dominio de un bien mueble o inmueble que se le transferirá, en el momento de formalizarse el contrato o en el que se pacte.
+El contrato aleatorio de renta vitalicia es aquel por virtud del cual el deudor se obliga a pagar periódicamente una pensión durante la vida de una o más personas determinadas que serán los rentistas vitalicios o acreedores, mediante la entrega de una cantidad de dinero o el dominio de un bien mueble o inmueble que se le transferirá en el momento de formalizarse el contrato o en el que se pacte.
+
+La pensión podrá referirse al pago que debe efectuarse a una casa de descanso para la atención del rentista.
 
 ###### Art. 2378.
 
@@ -13745,9 +13783,11 @@ También es nulo el contrato si la persona a cuyo favor se constituye la renta v
 
 Puede contractualmente imponerse al deudor la obligación de garantir el importe de la renta vitalicia, mediante prenda, hipoteca o reserva de dominio sobre los bienes que constituyen la contraprestación.
 
+> <small>(REFORMADO, P.O. 30 DE JULIO DE 2011)</small>
+
 ###### Art. 2385.
 
-El acreedor rentista en el caso de la falta de pago de las pensiones, tiene acción para demandar al deudor por su sustitución mediante la cesión de su posición contractual forzosa, lo anterior independientemente de reclamar daños y perjuicios. El cesionario sustituto tendrá un plazo máximo de seis meses contados a partir de la fecha en que operó la sustitución para reembolsar al deudor originario las cantidades pagadas por éste causándose intereses al tipo legal sobre el saldo.
+El acreedor rentista o su tutor, en el caso de la falta de pago de las pensiones, tiene acción para demandar al deudor por su sustitución mediante la cesión de su posición contractual forzosa; lo anterior, independientemente de reclamar daños y perjuicios. El cesionario sustituto tendrá un plazo máximo de seis meses, contados a partir de la fecha en que operó la sustitución, para reembolsar al deudor originario las cantidades pagadas por éste, causándose intereses al tipo legal sobre el saldo.
 
 ###### Art. 2386.
 
@@ -18044,5 +18084,9 @@ DECRETO NUMERO 23525/LIX/11, POR EL QUE SE REFORMA EL ARTICULO 1989 DEL CODIGO C
 P.O. 5 DE MAYO DE 2011.
 
 DECRETO NUMERO 23526/LIX/11, POR EL QUE SE REFORMA EL ARTICULO 639 DEL CODIGO CIVIL DEL ESTADO DE JALISCO.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 30 DE JULIO DE 2011.
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
