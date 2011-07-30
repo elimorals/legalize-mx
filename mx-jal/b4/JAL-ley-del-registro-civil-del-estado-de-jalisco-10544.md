@@ -4,7 +4,7 @@ identifier: "JAL-ley-del-registro-civil-del-estado-de-jalisco-10544"
 country: "mx"
 rank: "ley"
 publication_date: "1995-02-25"
-last_updated: "2009-10-24"
+last_updated: "2011-07-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10544&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DEL REGISTRO CIVIL DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE OCTUBRE DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE JULIO DE 2011.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el sábado 25 de febrero de 1995.
 
@@ -253,7 +253,9 @@ II. Matrimonio y divorcio;
 
 III. Defunción, declaración de ausencia y presunción de muerte;
 
-IV. Tutela;
+> <small>(REFORMADA, P.O. 30 DE JULIO DE 2011)</small>
+
+IV. Tutela y tutela voluntaria;
 
 V. Emancipación; y (sic)
 
@@ -646,6 +648,48 @@ Extendida el acta de tutela, se anotará la del nacimiento del incapacitado obse
 ###### Artículo 76.
 
 Cuando por cualquier causa se revoque la tutela, la autoridad judicial que haya conocido del asunto, dentro del término de tres días, dará aviso al Oficial del Registro Civil que haya formulado el acta relativa, para el efecto de que se haga la anotación marginal conducente, el Oficial deberá remitir copia del aviso citado, al Archivo General del Registro Civil.
+
+> <small>(ADICIONADO, P.O. 30 DE JULIO DE 2011)</small>
+
+###### Artículo 76
+
+Bis. La persona que cuente con capacidad de ejercicio podrá designar tutor ante el Oficial del Registro Civil para que cuide de su persona y de sus bienes cuando quede en estado de interdicción. Igualmente tendrá la facultad de nombrar curador. La solicitud expresará:
+
+I. Nombre, apellido, lugar y fecha de nacimiento, nacionalidad, estado civil, ocupación y domicilio;
+
+II. Que es su voluntad designar al tutor voluntario y al curador, y
+
+III. La forma y obligaciones con que se llevarán a cabo la tutela y la curatela. Se podrán dictar instrucciones sobre tratamientos terapéuticos, los cuales serán determinados por un médico, donación de órganos y ceremonial de funerales.
+
+Este escrito deberá ser firmado por el solicitante y, si no pudiere o no supiere escribir, lo hará otra persona conocida, mayor de edad y vecina del lugar a su ruego, debiendo estampar el interesado su huella digital ante la presencia de cuatro testigos, quienes también deberán firmar.
+
+> <small>(ADICIONADO, P.O. 30 DE JULIO DE 2011)</small>
+
+###### Artículo 76
+
+Ter. A la solicitud a que se refiere el artículo anterior se acompañarán:
+
+I. Copia certificada del acta de nacimiento de la persona interesada, identificación idónea o, en su defecto, cualquier otro medio de prueba que señale el Código Civil, para acreditar su nombre, nacionalidad, fecha y lugar de nacimiento, y
+
+II. Un certificado médico en donde el profesional que lo extienda certifique bajo protesta de decir verdad, haber examinado al interesado en designar tutor voluntario y haber constatado su buen estado de salud psíquica.
+
+> <small>(ADICIONADO, P.O. 30 DE JULIO DE 2011)</small>
+
+###### Artículo 76
+
+Quáter. El Oficial del Registro Civil levantará el acta de tutela voluntaria, en la cual se hará constar:
+
+l. El nombre y demás generales del interesado en designar la tutela voluntaria;
+
+II. El nombre, apellidos, edad, profesión y domicilio del tutor y del curado (sic);
+
+III. Que es su voluntad designar al tutor voluntario y al curador, y
+
+IV. La forma y obligaciones con que se llevarán a cabo la tutela y la curatela. Se podrán dictar instrucciones sobre tratamientos terapéuticos, los cuales serán determinados por un médico, donación de órganos y ceremonial de funerales.
+
+El acta será firmada por el Oficial del Registro Civil, el interesado en designar la tutela voluntaria y las demás personas que hubieren intervenido, si supieren y pudieren hacerlo.
+
+Se imprimirán las huellas digitales del interesado.
 
 ### CAPITULO X. De las actas de emancipación
 
@@ -1334,3 +1378,7 @@ PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Se derogan las disposiciones que se opongan al presente.
 
 TERCERO. Los delegados institucionales privados que estén debidamente acreditados, seguirán en funciones y se regularán observando las normas contenidas en la Ley vigente al momento de su acreditación.
+
+P.O. 30 DE JULIO DE 2011.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
