@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-la-escuela-militar-de-enfermeria-antes-21172"
 country: "mx"
 rank: "reglamento"
 publication_date: "2001-05-16"
-last_updated: "2004-08-16"
+last_updated: "2011-08-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21172&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2001-05-15"
 
 REGLAMENTO DE LA ESCUELA MILITAR DE ENFERMERAS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 16 DE AGOSTO DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 1 DE AGOSTO DE 2011.
 
 Reglamento publicado en la Segunda Sección del Diario Oficial de la Federación el miércoles 16 de mayo de 2001.
 
@@ -43,9 +43,11 @@ Se expide el Reglamento de la Escuela Militar de Enfermeras para quedar como sig
 
 ### CAPÍTULO ÚNICO
 
+> <small>(REFORMADO, D.O.F. 1 DE AGOSTO DE 2011)</small>
+
 ###### ARTÍCULO 1o.
 
-La Escuela Militar de Enfermeras es un establecimiento de educación militar con la misión de formar oficiales enfermeras militares cuya función general es cooperar en el cuidado y prevención de la salud de los integrantes del Ejército y Fuerza Aérea Mexicanos y sus derechohabientes; para lo cual impartirá educación de nivel técnico superior con conocimientos terminales previos a la licenciatura en enfermería.
+La Escuela Militar de Enfermeras es una Institución de Educación Militar con la misión de formar Oficiales Enfermeras Militares cuya función general es cooperar en el cuidado y prevención de la salud de los integrantes del Ejército y Fuerza Aérea Mexicanos y sus derechohabientes, para lo cual impartirá educación Tipo Superior de Nivel Licenciatura.
 
 ###### ARTÍCULO 2o.
 
@@ -123,7 +125,9 @@ A. Jefatura;
 
 B. Subsección de Control Académico Militar;
 
-C. Subsección de Control Académico Técnico Profesional;
+> <small>(REFORMADO, D.O.F. 1 DE AGOSTO DE 2011)</small>
+
+C. Subsección de Control Académico de la especialidad;
 
 D. Subsección de Control Académico Cultural, y
 
@@ -433,7 +437,9 @@ XVI. Realizar supervisión docente, impartiendo cursos para su capacitación y a
 
 XVII. Planear las actividades académicas del plantel;
 
-XVIII. Coordinar y controlar las actividades de las subsecciones de control académico militar, de control académico técnico profesional, de control académico cultural, de apoyos didácticos y de educación física y deportes, y
+> <small>(REFORMADA, D.O.F. 1 DE AGOSTO DE 2011)</small>
+
+XVIII. Coordinar y controlar las actividades de las subsecciones de control académico militar, de control académico de la especialidad, de control académico cultural, de apoyos didácticos y de educación física y deportes, y
 
 XIX. Las demás que le sean asignadas por la Directora del plantel.
 
@@ -935,7 +941,9 @@ El personal en instrucción que termine satisfactoriamente los estudios y aprueb
 
 I. Certificado de Estudios;
 
-II. Título de Técnico Superior en Enfermería Militar;
+> <small>(REFORMADA, D.O.F. 1 DE AGOSTO DE 2011)</small>
+
+II. Título de Licenciado, conforme a los planes y programas reconocidos ante la Secretaría de Educación Pública y contenidos en el Plan General de Educación Militar;
 
 III. Grado de Subteniente Enfermera;
 
@@ -1050,3 +1058,11 @@ D.O.F. 16 DE AGOSTO DE 2004.
 ###### ARTÍCULO ÚNICO.
 
 El presente decreto entrará en vigor a partir del día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 1 DE AGOSTO DE 2011.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Los recursos adicionales que requiera la Secretaría de la Defensa Nacional por las modificaciones al Plan General de Educación Militar derivado de un incremento en costos por pasar de un tipo superior nivel técnico superior universitario a un tipo superior nivel licenciatura, serán cubiertos, mediante movimientos compensados, con cargo al presupuesto autorizado de dicha Secretaría.
+
+TERCERO.- Se derogan las disposiciones que se opongan al presente Decreto.
