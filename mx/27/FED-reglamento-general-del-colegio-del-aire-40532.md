@@ -4,7 +4,7 @@ identifier: "FED-reglamento-general-del-colegio-del-aire-40532"
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-08-30"
-last_updated: "2004-08-30"
+last_updated: "2011-08-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40532&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2004-08-27"
 
 REGLAMENTO GENERAL DEL COLEGIO DEL AIRE
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 1 DE AGOSTO DE 2011.
 
 Reglamento publicado en la Sección Segunda del Diario Oficial de la Federación, el lunes 30 de agosto de 2004.
 
@@ -1899,7 +1899,17 @@ I. Personal Nacional:
 
 A. Certificado de Estudios;
 
-B. Título para Pilotos Aviadores y Meteorólogos;
+> <small>(REFORMADO, D.O.F. 1 DE AGOSTO DE 2011)</small>
+
+B. Título:
+
+a. Para el Curso de Formación de Pilotos Aviadores:
+
+Licenciado conforme a los planes y programas reconocidos ante la Secretaría de Educación Pública y contenidos en el Plan General de Educación Militar.
+
+b. Para el curso de Meteorólogos:
+
+Licenciado conforme a los planes y programas reconocidos ante la Secretaría de Educación Pública y contenidos en el Plan General de Educación Militar.
 
 C. Grado de Subteniente de Fuerza Aérea Piloto Aviador, Aerologista, Controlador de Vuelo, Electrónica de Aviación, Mantenimiento de Aviación o Armamento Aéreo, según corresponda;
 
@@ -1911,7 +1921,17 @@ II. Personal de Nacionalidad Extranjera:
 
 A. Certificado de Estudios;
 
-B. Título para Pilotos Aviadores y Meteorólogos, y
+> <small>(REFORMADO, D.O.F. 1 DE AGOSTO DE 2011)</small>
+
+B. Título:
+
+a. Para el Curso de Formación de Pilotos Aviadores:
+
+Licenciado conforme a los planes y programas reconocidos ante la Secretaría de Educación Pública y contenidos en el Plan General de Educación Militar.
+
+b. Para el curso de Meteorólogos:
+
+Licenciado conforme a los planes y programas reconocidos ante la Secretaría de Educación Pública y contenidos en el Plan General de Educación Militar.
 
 C. Placa del curso o carrera, Gafete distintivo y Alas del curso.
 
@@ -2019,9 +2039,11 @@ De las Funciones Específicas de los Establecimientos de Educación Militar que 
 
 ### CAPÍTULO I. De la Misión
 
+> <small>(REFORMADO, D.O.F. 1 DE AGOSTO DE 2011)</small>
+
 ###### ARTÍCULO 121.
 
-La Escuela Militar de Aviación es un establecimiento de Educación Militar de nivel técnico superior universitario, que tiene como misión formar Oficiales Pilotos Aviadores, para satisfacer las necesidades de la Fuerza Aérea y del Ejército.
+La Escuela Militar de Aviación es una Institución de Educación Militar con la misión de formar Oficiales de Fuerza Aérea Pilotos Aviadores para satisfacer las necesidades del Ejército y Fuerza Aérea Mexicanos, para lo cual impartirá educación Tipo Superior de Nivel Licenciatura.
 
 ### CAPÍTULO II. De los Objetivos
 
@@ -2029,7 +2051,9 @@ La Escuela Militar de Aviación es un establecimiento de Educación Militar de n
 
 La Escuela Militar de Aviación tiene los siguientes objetivos:
 
-I. Formar Pilotos Aviadores Militares;
+> <small>(REFORMADA, D.O.F. 1 DE AGOSTO DE 2011)</small>
+
+I. Formar Pilotos Aviadores, Licenciados conforme a los planes y programas reconocidos ante la Secretaría de Educación Pública y contenidos en el Plan General de Educación Militar;
 
 II. Preparar al personal en instrucción para ejercer funciones operativas y administrativas en las unidades de vuelo;
 
@@ -2252,3 +2276,13 @@ SEGUNDO.- Se abroga el Reglamento General del Colegio del Aire publicado en el D
 TERCERO.- La Secretaría de la Defensa Nacional atenderá con cargo a su presupuesto aprobado las acciones que se deriven del presente Reglamento.
 
 Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veintisiete días del mes de agosto de dos mil cuatro.- Vicente Fox Quesada.- Rúbrica.- El Secretario de la Defensa Nacional, Gerardo Clemente Ricardo Vega García.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+D.O.F. 1 DE AGOSTO DE 2011.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Los recursos adicionales que requiera la Secretaría de la Defensa Nacional por las modificaciones al Plan General de Educación Militar derivado de un incremento en costos por pasar de un tipo superior nivel técnico superior universitario a un tipo superior nivel licenciatura, serán cubiertos, mediante movimientos compensados, con cargo al presupuesto autorizado de dicha Secretaría.
+
+TERCERO.- Se derogan las disposiciones que se opongan al presente Decreto.
