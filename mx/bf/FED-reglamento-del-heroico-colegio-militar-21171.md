@@ -4,7 +4,7 @@ identifier: "FED-reglamento-del-heroico-colegio-militar-21171"
 country: "mx"
 rank: "reglamento"
 publication_date: "2001-05-16"
-last_updated: "2004-08-16"
+last_updated: "2011-08-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21171&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2001-05-15"
 
 REGLAMENTO DEL HEROICO COLEGIO MILITAR
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 16 DE AGOSTO DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 1 DE AGOSTO DE 2011.
 
 Reglamento publicado en la Segunda Sección del Diario Oficial de la Federación el miércoles 16 de mayo de 2001.
 
@@ -43,9 +43,11 @@ Se expide el Reglamento del Heroico Colegio Militar para quedar como sigue:
 
 ### CAPÍTULO ÚNICO
 
+> <small>(REFORMADO, D.O.F. 1 DE AGOSTO DE 2011)</small>
+
 ###### ARTÍCULO 1o.
 
-El Heroico Colegio Militar es un establecimiento de educación militar que tiene como misión formar subtenientes de las Armas y de los Servicios de Intendencia y de Administración para desempeñarse como comandantes de las unidades de las armas hasta nivel Sección; ayudantes de Pelotón de Intendencia y oficiales en funciones administrativas respectivamente, en las corporaciones y dependencias del Ejército y Fuerza Aérea Mexicanos, para lo cual impartirá educación de nivel técnico superior.
+El Heroico Colegio Militar es una Institución de Educación Militar que tiene como misión formar subtenientes de las Armas e Intendentes para desempeñarse como comandantes de las unidades de las armas hasta nivel Sección y ayudantes de Pelotón de Intendencia respectivamente, en las corporaciones y dependencias del Ejército y Fuerza Aérea Mexicanos, para lo cual impartirá educación de Tipo Superior Nivel Licenciatura y Medio Superior.
 
 ###### ARTÍCULO 2o.
 
@@ -69,11 +71,9 @@ d. Blindada, y
 
 e. Ingenieros (Zapadores).
 
-B. Los servicios de:
+> <small>(REFORMADO, D.O.F. 1 DE AGOSTO DE 2011)</small>
 
-a. Administración, y
-
-b. Intendencia.
+B. Intendentes.
 
 II. Proporcionar formación militar en los aspectos disciplinarios, intelectuales y físicos, que capaciten al personal en instrucción para ejercer el mando y administración de las pequeñas unidades hasta el nivel Sección, Pelotón de Intendencia o servicio de alimentación y en las actividades de contabilidad, glosa y estadística de las corporaciones y dependencias militares, de conformidad con el Plan General de Educación Militar;
 
@@ -89,9 +89,13 @@ VI. Capacitar al personal en instrucción para resistir las fatigas que impone e
 
 Para cumplir con los objetivos del plantel, se imparten los cursos siguientes:
 
-I. De formación de Oficiales de las Armas, y
+> <small>(REFORMADA, D.O.F. 1 DE AGOSTO DE 2011)</small>
 
-II. De formación de Oficiales de los Servicios de Administración y de Intendencia.
+I. De formación de Oficiales de las Armas e Intendentes, y
+
+> <small>(REFORMADA, D.O.F. 1 DE AGOSTO DE 2011)</small>
+
+II. Intensivo de Formación de Oficiales de las Armas.
 
 ## TÍTULO SEGUNDO. Organización
 
@@ -173,9 +177,11 @@ F. Subsección del Arma Blindada;
 
 G. Subsección del Arma de Ingenieros;
 
-H. Subsección del Servicio de Administración;
+H. (DEROGADO, D.O.F. 1 DE AGOSTO DE 2011)
 
-I. Subsección del Servicio de Intendencia;
+> <small>(REFORMADO, D.O.F. 1 DE AGOSTO DE 2011)</small>
+
+I. Subsección de Intendentes;
 
 J. Subsección de Materias Comunes;
 
@@ -1023,9 +1029,13 @@ I. Personal nacional:
 
 A. Certificado de Estudios;
 
-B. Título de Técnico Superior Universitario;
+> <small>(REFORMADO, D.O.F. 1 DE AGOSTO DE 2011)</small>
 
-C. Grado de Subteniente de Infantería, Caballería, Artillería, Arma Blindada, Zapadores, Intendencia o Administración, según corresponda;
+B. Título de Licenciado, conforme a los planes y programas reconocidos ante la Secretaría de Educación Pública y contenidos en el Plan General de Educación Militar;
+
+> <small>(REFORMADO, D.O.F. 1 DE AGOSTO DE 2011)</small>
+
+C. Grado de Subteniente de Infantería, Caballería, Artillería, Arma Blindada, Zapadores o Intendente, según corresponda;
 
 D. Patente, y
 
@@ -1035,11 +1045,17 @@ II. Personal de nacionalidad extranjera:
 
 A. Certificado de Estudios;
 
-B. Título de Técnico Superior Universitario;
+> <small>(REFORMADO, D.O.F. 1 DE AGOSTO DE 2011)</small>
+
+B. Título de Licenciado, conforme a los planes y programas reconocidos ante la Secretaría de Educación Pública y contenidos en el Plan General de Educación Militar;
 
 C. Diploma, y
 
 D. Gafete distintivo del curso.
+
+> <small>(ADICIONADA, D.O.F. 1 DE AGOSTO DE 2011)</small>
+
+III. Para el Curso Intensivo de Formación de Oficiales de las Armas se otorga Certificado de Estudios, grado de Subteniente, Patente y Gafete distintivo.
 
 ###### ARTÍCULO 76.
 
@@ -1154,3 +1170,11 @@ D.O.F. 16 DE AGOSTO DE 2004.
 ###### ARTÍCULO ÚNICO.
 
 El presente decreto entrará en vigor a partir del día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 1 DE AGOSTO DE 2011.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Los recursos adicionales que requiera la Secretaría de la Defensa Nacional por las modificaciones al Plan General de Educación Militar derivado de un incremento en costos por pasar de un tipo superior nivel técnico superior universitario a un tipo superior nivel licenciatura, serán cubiertos, mediante movimientos compensados, con cargo al presupuesto autorizado de dicha Secretaría.
+
+TERCERO.- Se derogan las disposiciones que se opongan al presente Decreto.
