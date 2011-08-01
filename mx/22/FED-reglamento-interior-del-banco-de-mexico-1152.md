@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-del-banco-de-mexico-1152"
 country: "mx"
 rank: "reglamento"
 publication_date: "1994-09-30"
-last_updated: "2011-05-06"
+last_updated: "2011-08-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=1152&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1994-09-23"
 
 REGLAMENTO INTERIOR DEL BANCO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 6 DE MAYO DE 2011.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 1 DE AGOSTO DE 2011.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 30 de septiembre de 1994.
 
@@ -153,9 +153,9 @@ Dirección Jurídica
 
 Las Direcciones Generales y la Contraloría tendrán adscritas las Direcciones que señala el presente Reglamento. El Banco contará con una Dirección de Auditoría que dependerá de la Junta de Gobierno.
 
-> <small>(REFORMADO, D.O.F. 5 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO, D.O.F. 1 DE AGOSTO DE 2011)</small>
 
-Los Directores Generales, el Contralor y los Directores se auxiliarán en el cumplimiento de sus funciones de los Gerentes, Cajero Principal, Subgerentes, Superintendentes, Jefes de División, de Departamento, de Oficina, Intendentes y por los demás empleados, previstos en la estructura correspondiente. Asimismo, las Direcciones Generales, la Contraloría y las Direcciones, podrán tener adscritas unidades de informática conforme a lo que se establezca en el Acuerdo de Adscripción de las Unidades Administrativas del Banco de México.
+Los Directores Generales, el Contralor y los Directores se auxiliarán en el cumplimiento de sus funciones de los Gerentes, Cajeros Regionales, Subgerentes, Superintendentes, Jefes de División, de Departamento, de Oficina, Intendentes y por los demás empleados, previstos en la estructura correspondiente. Asimismo, las Direcciones Generales, la Contraloría y las Direcciones, podrán tener adscritas unidades de informática conforme a lo que se establezca en el Acuerdo de Adscripción de las Unidades Administrativas del Banco de México.
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
@@ -170,10 +170,6 @@ Las resoluciones que tomen los comités serán observadas por las unidades admin
 > <small>(REFORMADO, D.O.F. 5 DE OCTUBRE DE 2010)</small>
 
 La creación y extinción de los comités deberá hacerse del conocimiento de la Contraloría. Los grupos de trabajo no requerirán de acuerdo para su constitución y funcionamiento.
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
-
-> <small>(DEROGADO SEPTIMO PARRAFO, D.O.F. 10 DE JUNIO DE 2009)</small>
 
 > <small>(ADICIONADO, D.O.F. 17 DE DICIEMBRE DE 2001)</small>
 
@@ -223,6 +219,12 @@ El Comité de Auditoría podrá solicitar la contratación de expertos independi
 
 Los honorarios del miembro independiente del Comité y de los expertos que en su caso se contraten, serán determinados por la propia Junta de Gobierno y sus servicios serán contratados por el Banco en los términos que ésta establezca. Las personas referidas deberán guardar confidencialidad de los asuntos e información que tengan conocimiento en el desempeño de sus funciones. Dicha obligación de confidencialidad, deberá quedar establecida en los contratos que al efecto se celebren.
 
+> <small>(ADICIONADO, D.O.F. 1 DE AGOSTO DE 2011)</small>
+
+###### ARTICULO 4o.
+
+BIS.- Para los efectos previstos en el artículo 5o. de la Ley del Banco de México, la función de Cajero Principal deberá ser desempeñada por quien designe la Junta de Gobierno.
+
 ###### ARTICULO 5o.
 
 El Gobernador designará de entre los miembros de la Junta o de los funcionarios del Banco, a las personas que fungirán como representantes del Banco ante dependencias federales, organismos, órganos colegiados y demás entidades en las que éste participe.
@@ -245,11 +247,11 @@ En los poderes, comisiones y designaciones otorgados conforme al párrafo anteri
 
 El Gobernador podrá autorizar a los apoderados, comisionistas y delegados fiduciarios para que, conforme a las disposiciones aplicables, éstos otorguen o revoquen poderes generales o especiales.
 
-> <small>(REFORMADO, D.O.F. 5 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 1 DE AGOSTO DE 2011)</small>
 
 ###### ARTICULO 8o.
 
-Las atribuciones encomendadas por este Reglamento a los titulares de las Direcciones Generales, Contraloría y Direcciones, podrán ser ejercidas por ellos en forma individual o por dos funcionarios que actúen mancomunadamente, siempre y cuando tengan puestos de Subgerente o superior, o bien, de los rangos equivalentes a éstos y se encuentren subordinados al Director General, al Contralor o al Director, según se trate. Los Gerentes de Caja Regionales de Sucursales podrán firmar individualmente. Para efectos de lo anterior, se publicará en el Diario Oficial de la Federación, el Acuerdo de Adscripción de las Unidades Administrativas correspondientes.
+Las atribuciones encomendadas por este Reglamento a los titulares de las Direcciones Generales, Contraloría y Direcciones, podrán ser ejercidas por ellos en forma individual o por dos funcionarios que actúen mancomunadamente, siempre y cuando tengan puestos de Subgerente o superior, o bien, de los rangos equivalentes a éstos y se encuentren subordinados al Director General, al Contralor, o al Director según se trate. Los Cajeros Regionales de las sucursales podrán firmar individualmente. Para efectos de lo anterior, se publicará en el Diario Oficial de la Federación, el Acuerdo de Adscripción de las Unidades Administrativas correspondientes.
 
 > <small>(REFORMADO, D.O.F. 5 DE OCTUBRE DE 2010)</small>
 
@@ -271,17 +273,31 @@ Las disposiciones, opiniones, consultas y requerimientos de información en mate
 
 Las sanciones que imponga el Banco a las entidades financieras o a los intermediarios financieros, serán firmadas por un funcionario de la Dirección General de Asuntos del Sistema Financiero, junto con un funcionario de las Direcciones de Disposiciones de Banca Central o Jurídica, según corresponda a las materias de la competencia de estas últimas conforme a los dos párrafos que preceden.
 
-Los funcionarios que suscriban las disposiciones y las sanciones deberán ocupar puestos de Gerente, Cajero Principal, o bien, alguno de rango superior o equivalente a los mencionados.
+> <small>(REFORMADO, D.O.F. 1 DE AGOSTO DE 2011)</small>
+
+Los funcionarios que suscriban las disposiciones y las sanciones deberán ocupar puestos de Gerente, Cajero Regional, o bien, alguno de rango superior o equivalente a los mencionados.
+
+> <small>(REFORMADO, D.O.F. 5 DE OCTUBRE DE 2010)</small>
 
 La facultad para absolver posiciones a que se refieren los artículos 6o. y 28, fracción V, de este Reglamento, será ejercida por cualquier abogado adscrito a la Dirección Jurídica, actuando individualmente.
 
+> <small>(REFORMADO, D.O.F. 5 DE OCTUBRE DE 2010)</small>
+
 El acuerdo de adscripción de unidades administrativas deberá ser suscrito por el Gobernador o, en sus ausencias, por el Director General de Administración.
+
+> <small>(REFORMADO, D.O.F. 5 DE OCTUBRE DE 2010)</small>
 
 Para los efectos del presente Reglamento, se entenderá por entidad financiera o intermediario financiero: a las instituciones de crédito, instituciones de seguros, instituciones de fianzas, casas de bolsa, sociedades de inversión, sociedades operadoras de sociedades de inversión, sociedades distribuidoras de acciones de sociedades de inversión, administradoras de fondos para el retiro, sociedades de inversión especializadas de fondos para el retiro, arrendadoras financieras, empresas de factoraje financiero, casas de cambio, entidades de ahorro y crédito popular, sociedades financieras de objeto limitado, sociedades financieras de objeto múltiple reguladas, entidades financieras que actúen como fiduciarias en fideicomisos que otorguen crédito, préstamo o financiamiento al público, fideicomisos de fomento económico, entidades financieras de desarrollo, así como otras personas y fideicomisos que realicen actividades financieras y respecto de las cuales el Banco ejerza facultades de regulación, de requerimientos de información o de sanción en términos de las leyes respectivas.
 
+> <small>(REFORMADO, D.O.F. 5 DE OCTUBRE DE 2010)</small>
+
 Para los efectos del párrafo anterior, se entenderá por fideicomisos de fomento económico al Fondo de Garantía y Fomento para la Agricultura, Ganadería y Avicultura; al Fondo Especial para Financiamientos Agropecuarios; al Fondo Especial de Asistencia Técnica y Garantía para Créditos Agropecuarios; al Fondo de Garantía y Fomento para las Actividades Pesqueras y al Fondo de Operación y Financiamiento Bancario a la Vivienda.
 
+> <small>(REFORMADO, D.O.F. 5 DE OCTUBRE DE 2010)</small>
+
 Para los mismos efectos de los párrafos anteriores, se entenderá por entidades financieras de desarrollo a Nacional Financiera, S.N.C.; Banco Nacional de Comercio Exterior, S.N.C.; Banco Nacional de Obras y Servicios, S.N.C.; Sociedad Hipotecaria Federal, S.N.C.; Banco del Ahorro Nacional y Servicios Financieros, S.N.C.; Banco Nacional del Ejército, Fuerza Aérea y Armada, S.N.C.; la Financiera Rural; Agroasemex, S.A. de C.V., y Seguros de Crédito a la Vivienda SHF, S.A. de C.V.
+
+> <small>(REFORMADO, D.O.F. 5 DE OCTUBRE DE 2010)</small>
 
 Corresponderá a los superiores jerárquicos de los servidores públicos que hayan emitido la multa respectiva, resolver el recurso de revisión a que se refiere la Ley para Regular las Sociedades de Información Crediticia y la Ley para la Transparencia y Ordenamiento de los Servicios Financieros.
 
@@ -449,9 +465,9 @@ V. (DEROGADA, D.O.F. 5 DE OCTUBRE DE 2010)
 
 VI. Operar las sucursales del Banco, incluyendo la adquisición, arrendamiento y enajenación de bienes muebles, la contratación de servicios de cualquier naturaleza, así como la obra inmobiliaria y los servicios relacionados con ésta, que la Dirección de Recursos Materiales solicite contratar, conforme a la normatividad aplicable. Asimismo, realizar los pagos derivados de dichas operaciones por medio de los sistemas institucionales.
 
-> <small>(ADICIONADO, D.O.F. 31 DE MARZO DE 2010)</small>
+> <small>(REFORMADO, D.O.F. 1 DE AGOSTO DE 2011)</small>
 
-En las ausencias de los Gerentes de Caja Regionales de las Sucursales, los Jefes de la Oficina de Administración y de Caja de las propias Sucursales podrán formalizar los actos a que se refiere el párrafo anterior, firmando de forma mancomunada los titulares de las dos Oficinas;
+En las ausencias de los Cajeros Regionales de las sucursales, los Jefes de la Oficina de Administración y de Caja de las propias sucursales podrán formalizar los actos a que se refiere el párrafo anterior, firmando de forma mancomunada los titulares de las dos Oficinas;
 
 VII. Tener a su cuidado la colección numismática del Banco;
 
@@ -1561,11 +1577,11 @@ En la sustanciación y resolución del recurso de reconsideración se aplicarán
 
 Cuando en el presente Reglamento se usen los términos Ley, Banco, Junta y Gobernador deberán entenderse referidos a la Ley del Banco de México, al Banco de México, a su Junta de Gobierno y Gobernador, respectivamente.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 16 DE JULIO DE 2009)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 1 DE AGOSTO DE 2011)</small>
 
 ###### ARTICULO 54.
 
-Sin perjuicio de lo señalado en el artículo 45 de la Ley del Banco de México, durante las ausencias del Gobernador, Directores Generales, Directores, Contralor, Gerentes y Cajero Principal, éstos podrán ser substituidos por el funcionario de la jerarquía inmediata inferior a la del ausente, que desempeñe funciones relacionadas con el asunto de que se trate. El funcionario que ejercite la facultad aquí señalada deberá indicar que actúa en los términos de este artículo.
+Sin perjuicio de lo señalado en el artículo 45 de la Ley del Banco de México, durante las ausencias de los Directores Generales, Contralor, Directores, Gerentes y Cajeros Regionales, éstos podrán ser substituidos por el funcionario de la jerarquía inmediata inferior a la del ausente, que desempeñe funciones relacionadas con el asunto de que se trate. El funcionario que ejercite la facultad aquí señalada deberá indicar que actúa en los términos de este artículo. Esta disposición no es aplicable al artículo 4o. Bis de este Reglamento.
 
 > <small>(ADICIONADO, D.O.F. 14 DE OCTUBRE DE 2005)</small>
 
@@ -1866,3 +1882,11 @@ PRIMERO. Las presentes modificaciones al Reglamento Interior del Banco de Méxic
 SEGUNDO. Las referencias a cualquier Unidad Administrativa, que en virtud de las presentes modificaciones hayan desaparecido o cambiado de denominación, contenidas en cualquier ordenamiento, deberán entenderse hechas a la Unidad Administrativa que las sustituya o cuente con las atribuciones respectivas.
 
 TERCERO. La totalidad de los actos jurídicos realizados durante la vigencia de los artículos derogados o modificados, conservarán todo su valor y fuerza legales.
+
+D.O.F. 1 DE AGOSTO DE 2011.
+
+PRIMERO. Las presentes modificaciones al Reglamento Interior del Banco de México, entrarán en vigor el 1 de agosto de 2011.
+
+SEGUNDO. La totalidad de los actos jurídicos realizados durante la vigencia de los artículos modificados, conservarán todo su valor y fuerza legales.
+
+TERCERO. Las referencias a cualquier Unidad Administrativa que en virtud de las presentes modificaciones hayan desaparecido o cambiado de denominación, contenidas en cualquier otro instrumento jurídico, deberán entenderse hechas a la Unidad Administrativa que las sustituya o cuente con las atribuciones respectivas.
