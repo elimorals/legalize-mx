@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-la-escuela-militar-de-oficiales-de-sanidad-21173"
 country: "mx"
 rank: "reglamento"
 publication_date: "2001-05-16"
-last_updated: "2004-08-16"
+last_updated: "2011-08-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21173&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2001-05-15"
 
 REGLAMENTO DE LA ESCUELA MILITAR DE OFICIALES DE SANIDAD
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 16 DE AGOSTO DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 1 DE AGOSTO DE 2011.
 
 Reglamento publicado en la Segunda Sección del Diario Oficial de la Federación el miércoles 16 de mayo de 2001.
 
@@ -43,9 +43,11 @@ Se expide el Reglamento de la Escuela Militar de Oficiales de Sanidad para queda
 
 ### CAPÍTULO ÚNICO
 
+> <small>(REFORMADO, D.O.F. 1 DE AGOSTO DE 2011)</small>
+
 ###### ARTÍCULO 1o.
 
-La Escuela Militar de Oficiales de Sanidad es un establecimiento de educación militar que tiene como misión formar oficiales de Sanidad militar cuya función es cooperar en el cuidado y prevención de la salud de los integrantes del Ejército y Fuerza Aérea Mexicanos y sus derechohabientes, así como brindar el primer nivel de atención médica a la población abierta que lo requiera, para lo cual impartirá educación de nivel técnico superior.
+La Escuela Militar de Oficiales de Sanidad es una Institución de Educación Militar que tiene como misión formar Oficiales de Sanidad Militar cuya función es cooperar en el cuidado y prevención de la salud de los integrantes del Ejército y Fuerza Aérea Mexicanos y sus derechohabientes, así como brindar el primer nivel de atención médica a la población abierta que lo requiera, para lo cual impartirá educación de Tipo Superior de Nivel Licenciatura.
 
 ###### ARTÍCULO 2o.
 
@@ -63,7 +65,9 @@ III. Desarrollar en el personal en instrucción una formación moral sólida par
 
 IV. Preparar al personal en instrucción para que a su egreso impartan adiestramiento técnico del servicio al personal bajo sus órdenes, y
 
-V. Impartir a los cadetes y sargentos primeros en instrucción conocimientos técnicos en ciencias de la salud, humanísticos y militares para lograr mayor eficiencia en el cumplimiento de las misiones generales del Ejército y Fuerza Aérea.
+> <small>(REFORMADA, D.O.F. 1 DE AGOSTO DE 2011)</small>
+
+V. Impartir a los cadetes y sargentos primeros en instrucción conocimientos y habilidades en Salud Pública y Urgencias Médicas, humanísticos y militares para lograr mayor eficiencia en el cumplimiento de las misiones generales del Ejército y Fuerza Aérea.
 
 ###### ARTÍCULO 4o.
 
@@ -125,7 +129,9 @@ B. Subsección de control académico;
 
 C. Subsección de materias militares;
 
-D. Subsección de materias técnico profesionales, y
+> <small>(REFORMADO, D.O.F. 1 DE AGOSTO DE 2011)</small>
+
+D. Subsección de materias de la especialidad, y
 
 E. Subsección de educación física y deportes.
 
@@ -411,7 +417,9 @@ XIII. Aplicar y supervisar la enseñanza de las materias militares contenidas en
 
 XIV. Impartir cursos de capacitación y actualización al personal docente;
 
-XV. Controlar y supervisar la enseñanza teórica-práctica de las materias técnico-profesionales, elaborando para el efecto el programa de prácticas hospitalarias;
+> <small>(REFORMADA, D.O.F. 1 DE AGOSTO DE 2011)</small>
+
+XV. Controlar y supervisar la enseñanza teórica-práctica de las materias de la especialidad, elaborando para el efecto el programa de prácticas hospitalarias;
 
 XVI. Proponer a la superioridad los cambios de su competencia al Manual de Organización y Funcionamiento de la escuela para su permanente actualización;
 
@@ -911,7 +919,9 @@ El personal en instrucción que termine satisfactoriamente los estudios y aprueb
 
 I. Certificado de Estudios;
 
-II. Título de Técnico Superior en Enfermería Militar;
+> <small>(REFORMADA, D.O.F. 1 DE AGOSTO DE 2011)</small>
+
+II. Título de Licenciado, conforme a los planes y programas reconocidos ante la Secretaría de Educación Pública y contenidos en el Plan General de Educación Militar;
 
 III. Grado de Subteniente de Sanidad;
 
@@ -1024,3 +1034,11 @@ D.O.F. 16 DE AGOSTO DE 2004.
 ###### ARTÍCULO ÚNICO.
 
 El presente decreto entrará en vigor a partir del día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 1 DE AGOSTO DE 2011.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Los recursos adicionales que requiera la Secretaría de la Defensa Nacional por las modificaciones al Plan General de Educación Militar derivado de un incremento en costos por pasar de un tipo superior nivel técnico superior universitario a un tipo superior nivel licenciatura, serán cubiertos, mediante movimientos compensados, con cargo al presupuesto autorizado de dicha Secretaría.
+
+TERCERO.- Se derogan las disposiciones que se opongan al presente Decreto.
