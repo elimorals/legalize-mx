@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-municipal-del-estado-de-mexico-6081"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1993-03-02"
-last_updated: "2011-07-20"
+last_updated: "2011-08-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6081&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY ORGANICA MUNICIPAL DEL ESTADO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 20 DE JULIO DE 2011.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 2 DE AGOSTO DE 2011.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el martes 2 de marzo de 1993.
 
@@ -885,11 +885,11 @@ e) Aquellas otras que por su naturaleza sean consideradas por el Ayuntamiento.
 
 El Ayuntamiento deberá resolver las solicitudes de licencia que excedan de quince días o las definitivas, a más tardar dentro de los ocho días siguientes a la solicitud en sesión de Cabildo. En caso de que el ayuntamiento no resuelva en el plazo señalado en este párrafo, se tendrá por aprobada la solicitud de licencia.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 7 DE AGOSTO DE 2008)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 2 DE AGOSTO DE 2011)</small>
 
 ###### Artículo 41.
 
-Las faltas temporales del presidente municipal, que no excedan de quince días, las cubrirá el secretario del Ayuntamiento, como encargado del despacho; las que excedan de este plazo y hasta por 100 días serán cubiertas por el integrante del propio ayuntamiento que se designe por acuerdo de cabildo a propuesta del presidente municipal, quien fungirá como presidente municipal por ministerio de ley.
+Las faltas temporales del presidente municipal, que no excedan de quince días, las cubrirá el secretario del ayuntamiento, como encargado del despacho; las que excedan de este plazo y hasta por 100 días serán cubiertas por un regidor del propio ayuntamiento que se designe por acuerdo del cabildo, a propuesta del presidente municipal, quien fungirá como presidente municipal por ministerio de ley.
 
 Las faltas temporales de los síndicos serán suplidas por el miembro del ayuntamiento que éste designe, cuando sólo haya un síndico; y cuando haya más de uno, la ausencia será cubierta por el que le siga en número.
 
@@ -1159,7 +1159,9 @@ Son atribuciones de los regidores, las siguientes:
 
 I. Asistir puntualmente a las sesiones que celebre el ayuntamiento;
 
-II. Suplir al presidente municipal en sus faltas temporales, en los términos establecidos por esta Ley;
+> <small>(REFORMADA, G.G. 2 DE AGOSTO DE 2011)</small>
+
+II. Suplir al presidente municipal en sus faltas temporales, en los términos establecidos por este ordenamiento;
 
 III. Vigilar y atender el sector de la administración municipal que les sea encomendado por el ayuntamiento;
 
@@ -3202,3 +3204,9 @@ El presente Decreto entrará en vigor el día de su publicación en el Periódic
 ###### ARTÍCULO SEGUNDO.
 
 La reforma de la fracción XV del artículo 48 de la Ley Orgánica Municipal del Estado de México, contenida en el presente decreto será aplicable a partir del primero de enero de 2012; previo a su aplicación, los informes de los Presidentes Municipales se llevarán a cabo dentro de los primeros diez días del mes de agosto, con las formalidades establecidas en la Ley.
+
+G.G. 2 DE AGOSTO DE 2011.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
