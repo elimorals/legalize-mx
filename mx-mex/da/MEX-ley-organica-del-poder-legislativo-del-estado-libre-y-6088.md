@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-del-poder-legislativo-del-estado-libre-y-6088"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-09-15"
-last_updated: "2011-03-08"
+last_updated: "2011-08-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6088&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 8 DE MARZO DE 2011.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 2 DE AGOSTO DE 2011.
 
 Ley publicada en la Tercera Sección de la Gaceta del Gobierno del Estado de México, el viernes 15 de septiembre de 1995.
 
@@ -317,11 +317,11 @@ VI. Las demás determinaciones o actos que señalen las leyes.
 
 Corresponde a la Legislatura interpretar y declarar si una resolución suya es ley, decreto o acuerdo.
 
-> <small>(ADICIONADO, G.G. 18 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO, G.G. 2 DE AGOSTO DE 2011)</small>
 
 ###### Artículo 38 Bis.
 
-Una vez que hayan sido publicadas las leyes y disposiciones de carácter general en el periódico oficial "Gaceta del Gobierno", la Legislatura dispondrá su traducción a las lenguas originarias del Estado de México a saber, otomí, mazahua, matlazinca, nahua y tlahuica y proveerá lo necesario para su difusión.
+Una vez que hayan sido publicadas las leyes y disposiciones de carácter general en el Periódico Oficial "Gaceta del Gobierno", la Legislatura dispondrá su traducción al braille y a las lenguas originarias del Estado de México a saber, otomí, mazahua, matlazinca, nahua y tlahuica y proveerá lo necesario para su difusión.
 
 ### CAPITULO V. DE LA ASAMBLEA
 
@@ -1237,9 +1237,11 @@ Las iniciativas de ley o decreto, o cualquier otra propuesta dictaminada como no
 
 Las iniciativas de ley o decreto deberán cubrir los siguientes requisitos:
 
-> <small>(REFORMADA, G.G. 30 DE ABRIL DE 2004)</small>
+> <small>(REFORMADA, G.G. 2 DE AGOSTO DE 2011)</small>
 
-I. Presentarse por escrito, firmadas por él o sus autores y serán entregadas a la Presidencia de la Legislatura o de la Diputación Permanente, por conducto de la Secretaría de Asuntos Parlamentarios;
+I. Presentarse por escrito, firmadas por él o sus autores y serán entregadas a la Presidencia de la Legislatura o de la Diputación Permanente, por conducto de la Secretaría de Asuntos Parlamentarios.
+
+Las iniciativas de ley o decreto presentadas por los ciudadanos del Estado, hablantes de lengua indígena o discapacitados visuales, que no se presenten escritas en español, se acompañarán de su correspondiente traducción; en caso de que no se exhiba ésta, la Legislatura, por conducto de la Secretaría de Asuntos Parlamentarios, la obtendrá, de manera oficiosa o de traductor adscrito preferentemente a las dependencias públicas.
 
 II. Contener exposición de motivos, en la que se expresará el objeto, utilidad, oportunidad y demás elementos que las sustenten y de ser posible, las consideraciones jurídicas que las fundamenten;
 
@@ -1878,3 +1880,11 @@ G.G. 8 DE MARZO DE 2011.
 PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
 
 SEGUNDO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+G.G. 2 DE AGOSTO DE 2011.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- La Secretaría de Administración y Finanzas del Poder Legislativo proveerá lo necesario para dar cumplimiento al presente Decreto.
