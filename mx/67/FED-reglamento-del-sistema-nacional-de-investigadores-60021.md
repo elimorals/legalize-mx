@@ -4,7 +4,7 @@ identifier: "FED-reglamento-del-sistema-nacional-de-investigadores-60021"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-03-21"
-last_updated: "2011-07-25"
+last_updated: "2011-08-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=60021&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,11 +19,11 @@ issue_date: "2007-12-07"
 ---
 # REGLAMENTO DEL SISTEMA NACIONAL DE INVESTIGADORES
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 2 DE AGOSTO DE 2011 EN EL D.O.F., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 REGLAMENTO DEL SISTEMA NACIONAL DE INVESTIGADORES
 
 ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 25 DE JULIO DE 2011.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION DEL 2 DE AGOSTO DE 2011.</small>
 
 Reglamento publicado en el Diario Oficial de la Federación, el viernes 21 de marzo de 2008.
 
@@ -409,8 +409,6 @@ X. Las demás que se deriven de la Ley de Ciencia y Tecnología, la Ley Orgánic
 
 ### CAPITULO IX. INGRESO Y REINGRESO AL SNI
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 2 DE AGOSTO DE 2011 EN EL D.O.F., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 > <small>(REFORMADO, D.O.F. 25 DE JULIO DE 2011)</small>
 
 ARTICULO 32
@@ -419,7 +417,9 @@ Para ser miembros del SNI se requiere que los investigadores y tecnólogos reali
 
 I. Tener un contrato o convenio institucional vigente y demostrar, por medio de documento oficial original y actualizado, que presta servicios por al menos 20 horas a la semana para realizar actividades de investigación científica o tecnológica en alguna de las dependencias, entidades, instituciones de educación superior o centros de investigación de los sectores público, privado o social de México que tengan por objeto el desarrollo de actividades de investigación científica o tecnológica. En caso de instituciones o centros de los sectores privado y social, estos deberán estar inscritos en el RENIECYT y tener suscrito y vigente un convenio de colaboración con el SNI; o
 
-III (SIC). Realizar actividades de investigación científica o tecnológica, de tiempo completo, en el extranjero, en dependencias, entidades, instituciones de educación superior o centros de investigación de los sectores público, privado o social y ser mexicano.
+> <small>(F. DE E., D.O.F. 2 DE AGOSTO DE 2011)</small>
+
+II. Realizar actividades de investigación científica o tecnológica, de tiempo completo, en el extranjero, en dependencias, entidades, instituciones de educación superior o centros de investigación de los sectores público, privado o social y ser mexicano.
 
 ARTICULO 33
 
@@ -429,21 +429,27 @@ ARTICULO 34
 
 Las convocatorias para el ingreso, reingreso y prórrogas al Sistema, con los correspondientes criterios generales y específicos de evaluación para cada área del conocimiento, serán publicadas anualmente en la página electrónica del CONACYT.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 2 DE AGOSTO DE 2011 EN EL D.O.F., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 > <small>(REFORMADO, D.O.F. 25 DE JULIO DE 2011)</small>
 
 ARTICULO 35
 
 Las solicitudes de ingreso o reingreso al SNI deberán acompañarse de:
 
-V (SIC). Copia de documentos oficiales que acrediten nacionalidad, edad y grado obtenidos.
+> <small>(F. DE E., D.O.F. 2 DE AGOSTO DE 2011)</small>
 
-VI. El currículum vítae, en el formato que establezca el CONACYT y que estará disponible en su página electrónica.
+I. Copia de documentos oficiales que acrediten nacionalidad, edad y grado obtenidos.
 
-VII. La documentación probatoria de los productos científicos o tecnológicos y de formación de recursos humanos que sustenten su solicitud. Los documentos deberán presentarse completos. Cuando lo consideren necesario, las comisiones dictaminadoras podrán requerir mayor información a los solicitantes, en el marco del presente Reglamento.
+> <small>(F. DE E., D.O.F. 2 DE AGOSTO DE 2011)</small>
 
-VIII. Carta de postulación de la institución correspondiente para ser objeto de evaluación.
+II. El currículum vítae, en el formato que establezca el CONACYT y que estará disponible en su página electrónica.
+
+> <small>(F. DE E., D.O.F. 2 DE AGOSTO DE 2011)</small>
+
+III. La documentación probatoria de los productos científicos o tecnológicos y de formación de recursos humanos que sustenten su solicitud. Los documentos deberán presentarse completos. Cuando lo consideren necesario, las comisiones dictaminadoras podrán requerir mayor información a los solicitantes, en el marco del presente Reglamento.
+
+> <small>(F. DE E., D.O.F. 2 DE AGOSTO DE 2011)</small>
+
+IV. Carta de postulación de la institución correspondiente para ser objeto de evaluación.
 
 En las convocatorias que al efecto se expidan, el Consejo de Aprobación establecerá el calendario anual de recepción de documentos, evaluación y dictaminación.
 
