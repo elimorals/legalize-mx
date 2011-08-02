@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-transparencia-y-acceso-a-la-informacion-publica-del-3930
 country: "mx"
 rank: "ley"
 publication_date: "2004-04-30"
-last_updated: "2008-07-24"
+last_updated: "2011-08-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=39309&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACION PUBLICA DEL ESTADO DE MEXICO Y MUNICIPIOS
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DE GOBIERNO: 24 DE JULIO DE 2008.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DE GOBIERNO: 2 DE AGOSTO DE 2011.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el viernes 30 de abril de 2004.
 
@@ -807,63 +807,73 @@ VIII. Solicitar a los Sujetos Obligados los datos para la integración de su inf
 
 IX. Proporcionar asesoría y apoyo técnico a los Sujetos Obligados para la elaboración y ejecución de programas de información;
 
-X. Apoyar a los Sujetos Obligados en el cumplimiento de las obligaciones que les impone la presente Ley;
+> <small>(ADICIONADA, G.G. 2 DE AGOSTO DE 2011)</small>
+
+X. Proporcionar a los sujetos obligados un sitio web tipo dentro de sus ordenadores o servidores, el cual deberá contener cuando menos la información pública de oficio, así como cualquier otra información que considere conveniente difundir en materia de transparencia, acceso a la información y protección de datos personales;
+
+XI. Apoyar a los Sujetos Obligados en el cumplimiento de las obligaciones que les impone la presente Ley;
 
 > <small>(REFORMADA, G.G. 24 DE JULIO DE 2008)</small>
 
-XI. Hacer del conocimiento del órgano de control interno o equivalente de cada Sujeto Obligado las infracciones a esta Ley;
+XII. Hacer del conocimiento del órgano de control interno o equivalente de cada Sujeto Obligado las infracciones a esta Ley;
 
-XII. Elaborar formatos de solicitudes de acceso a la información pública y orientar a los particulares;
+XIII. Elaborar formatos de solicitudes de acceso a la información pública y orientar a los particulares;
 
-XIII. Coadyuvar a la elaboración y aplicación de los criterios para la conservación y archivo de la información pública;
+XIV. Coadyuvar a la elaboración y aplicación de los criterios para la conservación y archivo de la información pública;
 
-XIV. Realizar y difundir estudios e investigaciones que contribuyan al objeto de esta Ley;
+XV. Realizar y difundir estudios e investigaciones que contribuyan al objeto de esta Ley;
 
-XV. Capacitar a los servidores públicos en materia de acceso a la información;
+XVI. Capacitar a los servidores públicos en materia de acceso a la información;
 
-XVI. Difundir entre los servidores públicos y los particulares los beneficios del manejo público de la información, así como sus responsabilidades en el buen uso y conservación de aquélla;
+XVII. Difundir entre los servidores públicos y los particulares los beneficios del manejo público de la información, así como sus responsabilidades en el buen uso y conservación de aquélla;
 
-XVII. Rendir informe anual de actividades a través de su Presidente ante el Pleno de la Legislatura, dentro del primer periodo ordinario de sesiones del año;
+XVIII. Rendir informe anual de actividades a través de su Presidente ante el Pleno de la Legislatura, dentro del primer periodo ordinario de sesiones del año;
 
-XVIII. Designar, a través de su Presidente, a los servidores públicos de su adscripción y administrar sus recursos materiales y financieros;
+XIX. Designar, a través de su Presidente, a los servidores públicos de su adscripción y administrar sus recursos materiales y financieros;
 
 > <small>(REFORMADA, G.G. 24 DE JULIO DE 2008)</small>
 
-XIX. Elaborar y remitir a la Secretaría de Finanzas su proyecto de presupuesto anual para que sea integrado al proyecto de presupuesto del Gobierno del Estado;
+XX. Elaborar y remitir a la Secretaría de Finanzas su proyecto de presupuesto anual para que sea integrado al proyecto de presupuesto del Gobierno del Estado;
 
-XX. Expedir su Reglamento Interior y demás normas de operación; y (sic)
+> <small>(REFORMADA, G.G. 2 DE AGOSTO DE 2011)</small>
+
+XXI. Expedir su Reglamento Interior y demás normas de operación;
 
 > <small>(REFORMADA, G.G. 28 DE DICIEMBRE DE 2004)</small>
 
-XXI. Administrar los recursos humanos, bienes y patrimonio del Instituto, así como determinar y autorizar su estructura orgánica y su personal.
+XXII. Administrar los recursos humanos, bienes y patrimonio del Instituto, así como determinar y autorizar su estructura orgánica y su personal.
 
 > <small>(REFORMADA, G.G. 24 DE JULIO DE 2008)</small>
 
-XXII. Realizar de oficio y a petición de parte, si existen elementos suficientes a juicio del Pleno del Instituto, análisis y recomendaciones, o en su caso, lineamientos en relación con presuntos incumplimientos a las disposiciones de la Ley;
+XXIII. Realizar de oficio y a petición de parte, si existen elementos suficientes a juicio del Pleno del Instituto, análisis y recomendaciones, o en su caso, lineamientos en relación con presuntos incumplimientos a las disposiciones de la Ley;
 
 > <small>(ADICIONADA, G.G. 29 DE DICIEMBRE DE 2006)</small>
 
-XXIII. Emitir comunicados públicos sobre el incumplimiento de sus resoluciones o por infracciones reiteradas a la Ley, en el ámbito de su competencia;
+XXIV. Emitir comunicados públicos sobre el incumplimiento de sus resoluciones o por infracciones reiteradas a la Ley, en el ámbito de su competencia;
 
 > <small>(REFORMADA, G.G. 24 DE JULIO DE 2008)</small>
 
-XXIV. Ordenar a los sujetos obligados la ejecutoría en la entrega de información en términos de la presente Ley;
+XXV. Ordenar a los sujetos obligados la ejecutoría en la entrega de información en términos de la presente Ley;
 
 > <small>(ADICIONADA, G.G. 29 DE DICIEMBRE DE 2006)</small>
 
-XXV. Revisar los criterios de clasificación, desclasificación y custodia de la información reservada y confidencial, en el ámbito de su competencia;
+XXVI. Revisar los criterios de clasificación, desclasificación y custodia de la información reservada y confidencial, en el ámbito de su competencia;
 
 > <small>(ADICIONADA, G.G. 29 DE DICIEMBRE DE 2006)</small>
 
-XXVI. Establecer procedimientos para verificar las acciones realizadas por los Sujetos Obligados en el cumplimiento de sus obligaciones en términos de la presente Ley;
+XXVII. Establecer procedimientos para verificar las acciones realizadas por los Sujetos Obligados en el cumplimiento de sus obligaciones en términos de la presente Ley;
 
 > <small>(ADICIONADA, G.G. 24 DE JULIO DE 2008)</small>
 
-XXVII. Nombrar al Contralor Interno del Instituto; y
+XXVIII. Nombrar al Contralor Interno del Instituto; y
 
 > <small>(ADICIONADA, G.G. 29 DE DICIEMBRE DE 2006)</small>
 
-XXVIII. Las demás que le confiere la presente Ley y otras disposiciones aplicables.
+XXIX. Las demás que le confiere la presente Ley y otras disposiciones aplicables.
+
+> <small>(ADICIONADO, G.G. 2 DE AGOSTO DE 2011)</small>
+
+El Instituto tendrá su domicilio en la Ciudad de Toluca de Lerdo y ejercerá sus funciones en todo el territorio del Estado.
 
 ### Capítulo II. De la Administración e Integración del Instituto
 
@@ -1254,3 +1264,9 @@ DÉCIMO PRIMERO.- Los recursos económicos, pagos y actos que se encuentren en t
 DÉCIMO SEGUNDO.- A partir de la fecha de entrada en vigor del presente decreto, cuando en otros ordenamientos legales, reglamentarios, administrativos y documentación se haga referencia al Instituto de Transparencia y Acceso a la Información Pública del Estado de México, como organismo público descentralizado se entenderá al órgano autónomo.
 
 DÉCIMO TERCERO.- Se derogan todas las disposiciones de igual o menor jerarquía jurídica que se opongan a lo establecido en el presente decreto.
+
+G.G. 2 DE AGOSTO DE 2011.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
