@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-de-petroleos-mexicanos-70187"
 country: "mx"
 rank: "estatuto"
 publication_date: "2009-09-24"
-last_updated: "2010-08-09"
+last_updated: "2011-08-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70187&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2009-09-24"
 
 ESTATUTO ORGANICO DE PETROLEOS MEXICANOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 9 DE AGOSTO DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 2 DE AGOSTO DE 2011.
 
 Estatuto publicado en la Segunda Sección del Diario Oficial de la Federación, el jueves 24 de septiembre de 2009.
 
@@ -52,6 +52,10 @@ II.- Director General: El Director General de PEMEX;
 III.- Estatuto: El presente ordenamiento, aprobado y, en su caso, reformado, por el Consejo de Administración;
 
 IV.- Ley: La Ley de Petróleos Mexicanos, publicada en el Diario Oficial de la Federación el 28 de noviembre de 2008 y, en su caso, sus reformas y adiciones;
+
+> <small>(ADICIONADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
+
+IV-A.- Logística de hidrocarburos y sus derivados: Actividades de transporte, almacenamiento y distribución de hidrocarburos y sus derivados;
 
 > <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2010)</small>
 
@@ -107,7 +111,7 @@ VIII. Otorgar, a sus respectivos comités, aquellas funciones que por su natural
 
 IX. Conocer y, en su caso, autorizar los asuntos que por su importancia o trascendencia someta a su consideración su Presidente o el Director General.
 
-Para que el Consejo conozca de cualquier asunto en términos de esta fracción, se requerirá la aprobación previa del propio Consejo.
+> <small>(DEROGADO SEGUNDO PARRAFO [N. DE E. DE LA FRACCION IX], D.O.F. 2 DE AGOSTO DE 2011)</small>
 
 ###### Artículo 5o.
 
@@ -145,23 +149,33 @@ II. Asistir a las sesiones del Consejo;
 
 III. Elaborar la lista de asistencia y verificar que se cuenta con el quórum para instalar las sesiones, así como para realizar las votaciones;
 
-IV. Supervisar la elaboración de las actas de las sesiones del Consejo y, una vez aprobadas y debidamente firmadas por el Presidente y el Secretario, asentarlas en los libros de registro respectivos;
+> <small>(REFORMADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
 
-V. Llevar el registro de los acuerdos del Consejo, hacerlos del conocimiento del Presidente del Consejo de Administración y del Director General, e informar periódicamente al Consejo del seguimiento de los mismos;
+IV. Supervisar la elaboración de las actas de las sesiones del Consejo y, una vez aprobadas y debidamente firmadas por el Presidente, el Secretario y el Prosecretario, asentarlas en los libros de registro respectivos;
+
+> <small>(REFORMADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
+
+V. Suscribir y llevar el registro de los acuerdos del Consejo, hacerlos del conocimiento del Presidente del Consejo de Administración, de los Consejeros y del Director General, y presentar periódicamente al Consejo el reporte de seguimiento de acuerdos que elabore el organismo;
 
 VI. Resguardar, actualizar y digitalizar los libros de actas y expedir las certificaciones que se le soliciten;
 
 VII. Ordenar la protocolización ante Notario Público de las actas y acuerdos que, en su caso, lo requieran;
 
-VIII. Expedir y, en su caso, certificar las constancias de acuerdos y actas de las sesiones del Consejo, solicitadas conforme a la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental, así como por instancias supervisoras, autoridades competentes o cualquier otra persona en lo general;
+> <small>(REFORMADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
+
+VIII. Expedir constancias y certificaciones de acuerdos y actas, así como de cualquier documento que obre en el archivo de la Secretaría del Consejo;
 
 IX. Levantar un acta de cada sesión, ordinaria o extraordinaria, en la que deberá relatarse de manera sucinta los asuntos tratados y asentarse los acuerdos adoptados, así como los votos razonados o particulares de los consejeros profesionales y representantes del Estado, y
 
-X. Las demás que, en su caso, expresamente el Consejo o su Presidente le señalen.
+> <small>(REFORMADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
+
+X. Las demás que, en su caso, expresamente el Consejo o su Presidente le señalen, así como aquéllas que se requieran para el adecuado desarrollo de las sesiones, y las que sean necesarias para el ejercicio de las funciones anteriores.
+
+> <small>(REFORMADO, D.O.F. 2 DE AGOSTO DE 2011)</small>
 
 ###### Artículo 9o.
 
-Le corresponderá al Prosecretario del Consejo de Administración integrar los materiales, documentos e información que los consejeros requieran conforme al Orden del Día; archivar adecuadamente dicha documentación y apoyar al Presidente y Secretario, particularmente en el desarrollo de las sesiones y de las funciones a que hacen referencia las fracciones III, IV, V, VI y VII del artículo anterior. El Prosecretario suplirá al Secretario en sus ausencias o por acuerdo expreso del mismo, y por lo tanto, ejercerá tanto las funciones de éste como las propias.
+Le corresponderá al Prosecretario del Consejo de Administración integrar los materiales, documentos e información que los consejeros requieran conforme al Orden del Día; administrar el archivo del Consejo y apoyar al Presidente y Secretario en el desarrollo de las sesiones y en el ejercicio de las funciones señaladas en el artículo anterior. El Prosecretario suplirá al Secretario en sus ausencias y, por lo tanto, ejercerá tanto las funciones de éste como las propias. Asimismo, por acuerdo expreso, realizará las funciones que el Secretario le encomiende en el ámbito de su competencia.
 
 ### Capítulo Tercero. Del Funcionamiento del Consejo
 
@@ -169,13 +183,21 @@ Le corresponderá al Prosecretario del Consejo de Administración integrar los m
 
 El Consejo sesionará en forma ordinaria bimestralmente, conforme al calendario que el propio Consejo acuerde en la primera sesión ordinaria de cada año. Las sesiones se celebrarán en el domicilio legal de PEMEX, sin menoscabo de que puedan celebrarse en otro domicilio convencional, a juicio del Presidente del Consejo de Administración.
 
-Los miembros del Consejo de Administración o el Director General podrán solicitar al Presidente, al Secretario o, en su caso, al Prosecretario, con por lo menos quince días hábiles de anticipación a la fecha establecida para la celebración de las sesiones ordinarias, la inclusión en el Orden del Día de los asuntos que conforme a las facultades que tiene el Consejo de Administración deban ser tratados, así como los proyectos de acuerdos sobre el particular.
+> <small>(REFORMADO, D.O.F. 2 DE AGOSTO DE 2011)</small>
+
+Los miembros del Consejo de Administración o el Director General podrán solicitar al Presidente, al Secretario o, en su caso, al Prosecretario, con por lo menos diez días hábiles de anticipación a la fecha establecida para la celebración de las sesiones ordinarias, la inclusión en el Orden del Día de los asuntos que conforme a las facultades que tiene el Consejo de Administración deban ser tratados, así como los proyectos de acuerdos sobre el particular.
+
+> <small>(ADICIONADO, D.O.F. 2 DE AGOSTO DE 2011)</small>
+
+Para que los miembros del Consejo de Administración cuenten con la información necesaria para la toma de decisiones, será responsabilidad de la Dirección General, en el ejercicio de sus funciones, atender las solicitudes que para tal efecto formulen los Consejeros.
 
 Cuando la urgencia, importancia o pronta resolución de algún asunto lo requiera, su Presidente, por propia iniciativa o a petición del Director General o cuando menos dos miembros del Consejo de Administración, instruirán al Secretario para que convoque a sesión extraordinaria.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 2 DE AGOSTO DE 2011)</small>
+
 ###### Artículo 11.
 
-La convocatoria para las sesiones ordinarias deberá entregarse con una anticipación no menor a siete días hábiles, la cual podrá ser enviada físicamente o por medios electrónicos.
+La convocatoria para las sesiones ordinarias deberá entregarse con una anticipación no menor a siete días hábiles.
 
 Contendrá el lugar, fecha y hora para llevar a cabo la sesión, así como;
 
@@ -183,23 +205,41 @@ I. El Orden del Día;
 
 II. El acta de la sesión anterior para su revisión y, en su caso, aprobación;
 
-III. La documentación e información de los asuntos incorporados en el Orden del Día, debidamente suscritos por los responsables de su contenido y elaboración. Cuando se trate de asuntos presentados por el Director General deberá acompañarse de los dictámenes de legalidad del acuerdo propuesto, así como de procedencia respecto a la competencia del Consejo de Administración emitidos por el Abogado General y, el dictamen de conveniencia emitido por el Director Corporativo competente;
+> <small>(REFORMADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
 
-IV. El informe del Director General, correspondiente al bimestre de que se trate, mismo que comprenderá los aspectos relevantes de la actividad desarrollada por el Organismo; el estado que guarden su administración y la seguridad industrial, así como el cumplimiento del objetivo de creación de valor, y
+III. La documentación e información de los asuntos incorporados en el Orden del Día, debidamente suscritos por el Director Corporativo competente o, en su ausencia, por el Subdirector que corresponda en términos de este Estatuto, y por los responsables de su contenido y elaboración.
+
+En caso de que exista información superviniente de los asuntos incorporados en el Orden del Día, la misma se podrá hacer llegar a los Consejeros siempre y cuando se indiquen las razones por las cuales dicha información amerite ser tomada en consideración, y se presente con una anticipación no menor de dos días hábiles a la fecha de la sesión.
+
+Cuando se trate de asuntos presentados por el Director General para autorización del Consejo de Administración, deberán acompañarse de los dictámenes de legalidad del acuerdo propuesto, así como de procedencia respecto a la competencia del Consejo, emitidos por el Abogado General.
+
+> <small>(REFORMADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
+
+IV. El informe del Director General, correspondiente al bimestre de que se trate, mismo que comprenderá los aspectos relevantes de la actividad desarrollada por el Organismo; el estado que guarden su administración y la seguridad industrial, así como el cumplimiento del objetivo de creación de valor.
+
+En caso de que se genere información adicional o actualizada del informe del Director General que amerite ser presentada al Consejo, la misma deberá ser enviada a los Consejeros con una anticipación no menor de dos días hábiles a la fecha de la celebración de la sesión. Excepcionalmente, se podrán entregar correcciones al mismo, el día de la sesión, y
 
 V. Las propuestas de acuerdo para cada asunto del Orden del Día.
 
-Tratándose de convocatoria a sesión extraordinaria, ésta deberá enviarse por lo menos con cuarenta y ocho horas de anticipación y se acompañará cuando menos de los documentos mencionados en las fracciones I, III y V que anteceden.
+> <small>(REFORMADO, D.O.F. 2 DE AGOSTO DE 2011)</small>
+
+Tratándose de convocatoria a sesión extraordinaria, ésta deberá enviarse por lo menos con dos días hábiles de anticipación y se acompañará cuando menos de los documentos mencionados en las fracciones I, III y V que anteceden.
+
+> <small>(ADICIONADO, D.O.F. 2 DE AGOSTO DE 2011)</small>
+
+Las convocatorias y material para sesiones ordinarias y extraordinarias, podrán ser enviadas, además de medios físicos, por medios impresos, electrónicos o a través del Portal electrónico que al efecto se establezca, siempre que se aseguren los mecanismos de su recepción.
+
+> <small>(REFORMADO, D.O.F. 2 DE AGOSTO DE 2011)</small>
 
 ###### Artículo 12.
 
-En las sesiones de Consejo se tratarán los asuntos que hayan sido incluidos en el Orden del Día y, sólo en casos urgentes o trascendentes, podrá el Presidente o, en su caso, al menos dos consejeros, podrán autorizar que se someta el mismo día de la sesión a la aprobación de los consejeros, la inclusión de asuntos que por su importancia ameriten ser desahogados.
+En las sesiones de Consejo se tratarán los asuntos que hayan sido incluidos en el Orden del Día y, sólo en casos urgentes o trascendentes, a petición del Presidente, de algún consejero o del Director General, el Consejo podrá autorizar la inclusión de un asunto para que se someta a su consideración el mismo día de la sesión, en el capítulo que corresponda según su naturaleza.
+
+> <small>(REFORMADO, D.O.F. 2 DE AGOSTO DE 2011)</small>
 
 ###### Artículo 13.
 
-La copia de las actas de las sesiones se distribuirá por medios electrónicos entre los miembros del Consejo de Administración.
-
-Cada acta será sometida a aprobación del Consejo en la sesión ordinaria siguiente y, una vez aprobada, será firmada por el Presidente y por el Secretario o Prosecretario que hayan actuado con tal carácter en la sesión.
+Cada acta será sometida a la consideración del Consejo en la sesión ordinaria siguiente y, una vez aprobada, será firmada por el Presidente, el Secretario y el Prosecretario que hayan actuado con tal carácter en la sesión, en un plazo máximo de 15 días hábiles. Las actas se harán del conocimiento de los Consejeros por los medios electrónicos que para tales efectos se establezcan.
 
 ###### Artículo 14.
 
@@ -219,7 +259,11 @@ El Director General y el Comisario de PEMEX participarán en las sesiones del Co
 
 ### Capítulo Cuarto. De los Comités y Consejeros Profesionales del Consejo
 
+> <small>(ADICIONADO PRIMER PARRAFO, D.O.F. 2 DE AGOSTO DE 2011)</small>
+
 ###### Artículo 17.
+
+Los comités son instancias de apoyo al Consejo de Administración.
 
 Cada comité aprobará sus reglas de operación y funcionamiento, las cuales deberán señalar como mínimo las facultades del presidente, secretario y vocales del Comité.
 
@@ -227,13 +271,21 @@ Cada comité aprobará sus reglas de operación y funcionamiento, las cuales deb
 
 Los comités ejercerán las funciones que le confieren la Ley, su Reglamento y aquellas que le otorgue el Consejo de Administración.
 
-Los comités sesionarán cuando asistan, por lo menos, la mitad más uno de sus miembros y, sus resoluciones serán válidas cuando sean tomadas por la mayoría simple de miembros presentes.
+> <small>(REFORMADO, D.O.F. 2 DE AGOSTO DE 2011)</small>
+
+Los comités sesionarán válidamente cuando asistan, por lo menos, la mitad más uno de sus miembros y sus resoluciones se tomarán por mayoría simple de los miembros presentes.
+
+> <small>(ADICIONADO, D.O.F. 2 DE AGOSTO DE 2011)</small>
+
+En caso de presentarse una modificación en la conformación del Consejo, que impacte la integración de los comités, las respectivas sesiones se validarán con la asistencia de la mayoría de los miembros cuyo carácter de Consejero se encuentre vigente, siempre y cuando la integración de los comités cumpla con el mínimo establecido en el artículo 22 de la Ley.
 
 ###### Artículo 19.
 
 Los comités del Consejo serán apoyados por un Secretario, nombrado a propuesta del Presidente del Comité, que realizará las funciones que se establezcan en sus reglas de operación y funcionamiento. En las sesiones de los comités, el Secretario tendrá voz pero no voto.
 
-Cada comité propondrá al Consejo de Administración su programa anual de trabajo y los recursos que, en su caso, requiera para el cumplimiento de sus funciones. Una vez aprobados dichos recursos, estarán previstos en el presupuesto de PEMEX, sin que ello implique la creación de estructuras.
+> <small>(REFORMADO, D.O.F. 2 DE AGOSTO DE 2011)</small>
+
+Cada comité informará al Consejo de Administración respecto a su programa anual de trabajo y los recursos que, en su caso, requiera para el cumplimiento de sus funciones. Una vez aprobados dichos recursos, estarán previstos en el presupuesto de PEMEX, sin que ello implique la creación de estructuras.
 
 ###### Artículo 20.
 
@@ -271,7 +323,9 @@ VIII. Establecer los sistemas de gestión por procesos y de desarrollo de proyec
 
 IX. Someter para la aprobación del Consejo de Administración los servicios comunes que considere deben ser prestados a los organismos subsidiarios por PEMEX;
 
-X. Establecer la integración, funciones, organización y funcionamiento de las comisiones asesoras de PEMEX, así como tomar las medidas necesarias para la participación de los organismos subsidiarios, y en su caso, las filiales paraestatales;
+> <small>(REFORMADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
+
+X. Establecer la integración, funciones, organización y funcionamiento de las comisiones asesoras de PEMEX, así como tomar las medidas necesarias para la participación de los Organismos Subsidiarios y, en su caso, las filiales paraestatales y el Instituto Mexicano del Petróleo;
 
 XI. Establecer rangos en los montos de los contratos que los directivos de PEMEX, según su nivel, puedan celebrar, con fundamento en los lineamientos que expida el Consejo de Administración;
 
@@ -471,35 +525,69 @@ a) Coordinación de Programas Gubernamentales y Consolidación Estratégica
 
 b) Subdirección de Recursos Humanos y Relaciones Laborales
 
-1. Gerencia de Administración de Recursos Humanos
+> <small>(REFORMADO, D.O.F. 2 DE AGOSTO DE 2011)</small>
 
-2. Gerencia de Organización y Desarrollo Institucional
+1. Gerencia de Operación de Servicios al Personal
+
+> <small>(REFORMADO, D.O.F. 2 DE AGOSTO DE 2011)</small>
+
+2. Gerencia de Organización y Compensaciones
 
 3. Gerencia de Desarrollo Humano
 
-4. Gerencia de Mejora de Procesos
+> <small>(REFORMADO, D.O.F. 2 DE AGOSTO DE 2011)</small>
 
-5. Enlace de Servicios de Recursos Humanos para Exploración y Producción
+4. Gerencia de Integración y Mejora de Procesos
 
-6. Enlace de Servicios de Recursos Humanos para Refinación
+> <small>(ADICIONADO, D.O.F. 2 DE AGOSTO DE 2011)</small>
 
-7. Enlace de Servicios de Recursos Humanos para Gas y Petroquímica Básica
+4-A. Gerencia de Vinculación con el Proceso Financiero
 
-8. Enlace de Servicios de Recursos Humanos para Petroquímica
+> <small>(REFORMADO, D.O.F. 2 DE AGOSTO DE 2011)</small>
 
-9. Gerencia de Normatividad y Política Laboral
+5. Enlace de Servicios de Recursos Humanos y Relaciones Laborales para Exploración y Producción
 
-10. Gerencia de Concertación Laboral
+> <small>(REFORMADO, D.O.F. 2 DE AGOSTO DE 2011)</small>
 
-11. Gerencia de Desarrollo de Relaciones Laborales
+6. Enlace de Servicios de Recursos Humanos y Relaciones Laborales para Refinación
 
-12. Gerencia Regional de Relaciones Laborales Altiplano
+> <small>(REFORMADO, D.O.F. 2 DE AGOSTO DE 2011)</small>
 
-13. Gerencia Regional de Relaciones Laborales Norte
+7. Enlace de Servicios de Recursos Humanos y Relaciones Laborales para Gas y Petroquímica Básica
 
-14. Gerencia Regional de Relaciones Laborales Sur
+> <small>(REFORMADO, D.O.F. 2 DE AGOSTO DE 2011)</small>
 
-15. Gerencia Regional de Relaciones Laborales Sureste
+8. Enlace de Servicios de Recursos Humanos y Relaciones Laborales para Petroquímica
+
+> <small>(ADICIONADO, D.O.F. 2 DE AGOSTO DE 2011)</small>
+
+8-A. Enlace de Servicios de Recursos Humanos y Relaciones Laborales para PEMEX y Servicios de Salud
+
+9. (DEROGADO, D.O.F. 2 DE AGOSTO DE 2011)
+
+> <small>(REFORMADO, D.O.F. 2 DE AGOSTO DE 2011)</small>
+
+10. Gerencia de Relaciones Laborales
+
+> <small>(REFORMADO, D.O.F. 2 DE AGOSTO DE 2011)</small>
+
+11. Gerencia de Planeación, Proyectos y Evaluación de Gestión
+
+> <small>(REFORMADO, D.O.F. 2 DE AGOSTO DE 2011)</small>
+
+12. Gerencia Regional de Recursos Humanos y Relaciones Laborales Altiplano
+
+> <small>(REFORMADO, D.O.F. 2 DE AGOSTO DE 2011)</small>
+
+13. Gerencia Regional de Recursos Humanos y Relaciones Laborales Norte
+
+> <small>(REFORMADO, D.O.F. 2 DE AGOSTO DE 2011)</small>
+
+14. Gerencia Regional de Recursos Humanos y Relaciones Laborales Sur
+
+> <small>(REFORMADO, D.O.F. 2 DE AGOSTO DE 2011)</small>
+
+15. Gerencia Regional de Recursos Humanos y Relaciones Laborales Sureste
 
 c) Subdirección de Servicios de Salud
 
@@ -543,27 +631,27 @@ III.- Dirección Corporativa de Finanzas
 
 1. Gerencia de Administración Financiera del Corporativo
 
-2. Gerencia de Relación con Inversionistas
+2. (DEROGADO, D.O.F. 2 DE AGOSTO DE 2011)
 
 3. Gerencia de Enlace y Control de Gestión Sustantivo
 
 4. Gerencia Jurídica de Finanzas
 
-> <small>(ADICIONADO, D.O.F. 9 DE AGOSTO DE 2010)</small>
-
-5. Gerencia de Finanzas de Carbono
+5. (DEROGADO, D.O.F. 2 DE AGOSTO DE 2011)
 
 a) Subdirección de Programación y Presupuestación
 
 1. Gerencia de Control Presupuestario
 
-2. Gerencia de Planeación y Programación Financiera
+> <small>(REFORMADO, D.O.F. 2 DE AGOSTO DE 2011)</small>
+
+2. Gerencia de Programación Financiera
 
 3. Gerencia de Presupuestación
 
-> <small>(ADICIONADO, D.O.F. 9 DE AGOSTO DE 2010)</small>
+> <small>(REFORMADO, D.O.F. 2 DE AGOSTO DE 2011)</small>
 
-4. Gerencia de Normatividad, Evaluación, Control y Enlace de Programación y Presupuestación
+4. Gerencia de Planeación Financiera y Control del Proceso Presupuestal
 
 b) Subdirección de Planeación Económica
 
@@ -595,11 +683,17 @@ c) Subdirección de Contabilidad Fiscal y Control Financiero
 
 5. Gerencia de Normatividad, Evaluación, Control y Enlace Contable y Fiscal
 
-d) Subdirección de Financiamientos y Tesorería
+> <small>(REFORMADO, D.O.F. 2 DE AGOSTO DE 2011)</small>
 
-1. Gerencia de Financiamientos y Análisis de Mercado
+d) Subdirección de Tesorería
 
-2. Gerencia de Tesorería
+1. Gerencia de Financiamientos e Inversiones
+
+2. Gerencia de Procesos de Tesorería
+
+3. Gerencia de Relación con Inversionistas
+
+4. Gerencia de Finanzas de Carbono
 
 e) Subdirección de Administración de Riesgos
 
@@ -619,7 +713,7 @@ a) Subdirección de Planeación e Inteligencia de Negocio
 
 2. Gerencia de Innovación y Arquitectura Tecnológica
 
-3. Gerencia de Procura y Activos
+3. (DEROGADO, D.O.F. 2 DE AGOSTO DE 2011)
 
 4. Gerencia de Inteligencia de Negocio
 
@@ -629,9 +723,15 @@ b) Subdirección de Infraestructura Tecnológica
 
 2. Gerencia de Operación
 
-3. Gerencia de Conectividad
+> <small>(REFORMADO, D.O.F. 2 DE AGOSTO DE 2011)</small>
+
+3. Gerencia de Ingeniería de Telecomunicaciones
 
 4. Gerencia de Administración de Infraestructura
+
+> <small>(ADICIONADO, D.O.F. 2 DE AGOSTO DE 2011)</small>
+
+5. Gerencia de Automatización Industrial y Sistemas SCADA
 
 c) Subdirección de Integración de Soluciones y Procesos de Negocio
 
@@ -641,7 +741,9 @@ c) Subdirección de Integración de Soluciones y Procesos de Negocio
 
 3. Gerencia Centro de Competencia
 
-4. Gerencia de Automatización Industrial
+> <small>(REFORMADO, D.O.F. 2 DE AGOSTO DE 2011)</small>
+
+4. Gerencia de Servicios Técnicos Especializados
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ESTATUTO.</small>
 
@@ -677,9 +779,13 @@ c) Subdirección de Operación y Ejecución de la Estrategia
 
 1. Gerencia de Seguimiento y Coordinación Operativa
 
-2. Gerencia de Evaluación de la Estrategia
+> <small>(REFORMADO, D.O.F. 2 DE AGOSTO DE 2011)</small>
 
-3. Gerencia de Desarrollo de Nuevos Proyectos
+2. Gerencia de Indicadores Operativos y de Estándares de Referencia
+
+> <small>(REFORMADO, D.O.F. 2 DE AGOSTO DE 2011)</small>
+
+3. Gerencia de Evaluación y Análisis
 
 d) Subdirección de Disciplina Operativa, Seguridad, Salud y Protección Ambiental
 
@@ -699,15 +805,23 @@ f) Subdirección de Suministros
 
 1. Gerencia de Abastecimiento Estratégico
 
-2. Gerencia de Gestión y Administración de Proveedores y Catálogos
+> <small>(REFORMADO, D.O.F. 2 DE AGOSTO DE 2011)</small>
+
+2. Gerencia de Gestión y Evaluación de la Estrategia de Suministros
 
 3. Gerencia de Mejora del Proceso de Suministro
 
-g) Subdirección de Coordinación del Sistema de Transporte por Ducto
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 2 DE AGOSTO DE 2011)</small>
 
-1. Gerencia de Administración de Integridad y Riesgo en Ductos
+g) Subdirección de Logística de Hidrocarburos y Derivados
 
-2. Gerencia de Confiabilidad Operativa de Ductos
+> <small>(REFORMADO, D.O.F. 2 DE AGOSTO DE 2011)</small>
+
+1. Gerencia de Administración de Infraestructura Logística
+
+> <small>(REFORMADO, D.O.F. 2 DE AGOSTO DE 2011)</small>
+
+2. Gerencia de Coordinación Operativa Logística
 
 > <small>(ADICIONADO, D.O.F. 9 DE AGOSTO DE 2010)</small>
 
@@ -725,9 +839,13 @@ h) Subdirección de Coordinación de Mantenimiento
 
 i) Subdirección de Desarrollo de Proyectos
 
-1. Gerencia de Administración y Control de Proyectos
+> <small>(REFORMADO, D.O.F. 2 DE AGOSTO DE 2011)</small>
 
-2. Gerencia de Planeación y Desarrollo de Proyectos
+1. Gerencia de Ingeniería Especializada, Calidad y Riesgos
+
+> <small>(REFORMADO, D.O.F. 2 DE AGOSTO DE 2011)</small>
+
+2. Gerencia de Procesos de Desarrollo de Proyectos de Inversión
 
 VI.- Oficina del Abogado General
 
@@ -775,7 +893,9 @@ III. Coordinar las negociaciones de las revisiones salariales y contractuales co
 
 IV. Resolver los asuntos laborales de PEMEX y organismos subsidiarios;
 
-V. Conducir las políticas de recursos humanos y relaciones laborales de PEMEX y organismos subsidiarios, e interpretar las disposiciones legales, contractuales y administrativas y el desahogo de consultas en esas materias;
+> <small>(REFORMADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
+
+V. Conducir las políticas de recursos humanos y relaciones laborales de PEMEX y Organismos Subsidiarios, e interpretar las disposiciones internas, contractuales y administrativas y el desahogo de consultas en esas materias;
 
 VI. Establecer la estrategia institucional en materia de organización, reclutamiento, selección, contratación, servicios y prestaciones al personal, capacitación, desarrollo y retiro de personal y de relaciones laborales;
 
@@ -791,7 +911,9 @@ XI. Coordinar la prestación del servicio de seguridad física en PEMEX y organi
 
 XII. Dirigir, coordinar, y evaluar los servicios de salud otorgados a los trabajadores, jubilados y derechohabientes de PEMEX y de los organismos subsidiarios;
 
-XIII. Establecer políticas generales en materia de recursos materiales, servicios generales y de mantenimiento, incluyendo los inmuebles foráneos que por Contrato Colectivo de Trabajo o normatividad en la materia sean responsabilidad de la Dirección Corporativa de Administración, así como dirigir y coordinar en PEMEX y organismos subsidiarios, las actividades en dichas materias;
+> <small>(REFORMADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
+
+XIII. Establecer políticas generales en materia de recursos materiales, servicios generales y de mantenimiento, incluyendo obra pública, para los inmuebles que por Contrato Colectivo de Trabajo o normatividad en la materia sean responsabilidad de la Dirección Corporativa de Administración, así como dirigir y coordinar en PEMEX, las actividades en dichas materias;
 
 XIV. Administrar y coordinar el acervo bibliográfico y de archivo de PEMEX;
 
@@ -803,15 +925,25 @@ XVII. Autorizar las estrategias institucionales de desarrollo sociocultural, pre
 
 XVIII. Coordinar la instrumentación de las autorizaciones y de la verificación y comprobación de los donativos y donaciones en efectivo o en especie que PEMEX otorgue, en términos de los lineamientos que expida el Consejo de Administración y de las directrices que fije el Director General;
 
-XIX. Dirigir la ejecución de programas gubernamentales en materia de transparencia, rendición de cuentas, acceso a la información, firma electrónica y demás aplicables;
+> <small>(REFORMADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
+
+XIX. Dirigir la ejecución de programas gubernamentales;
 
 XX. (DEROGADA, D.O.F. 9 DE AGOSTO DE 2010)
 
 XXI. Dirigir y garantizar la prestación de los servicios aduanales para PEMEX y organismos subsidiarios;
 
-XXII. Establecer la cartera de servicios corporativos en el ámbito de su competencia, y aplicar la mecánica de cálculo de precios de los mismos, y
+> <small>(REFORMADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
 
-XXIII. Ejercer el presupuesto autorizado por el Consejo de Administración para sus comités, con base en los requerimientos que hayan sido formulados por conducto de sus presidentes.
+XXII. Establecer la cartera de servicios corporativos en el ámbito de su competencia, y aplicar la mecánica de cálculo de precios de los mismos;
+
+> <small>(REFORMADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
+
+XXIII. Ejercer el presupuesto autorizado por el Consejo de Administración para sus comités, con base en los requerimientos que hayan sido formulados por conducto de sus presidentes, y
+
+> <small>(ADICIONADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
+
+XXIV. Coordinar las relaciones institucionales de PEMEX con los gobiernos estatales, municipales, así como con las organizaciones sociales en materia de donativos y donaciones.
 
 ###### Artículo 37.
 
@@ -823,7 +955,9 @@ II. Proponer, coordinar e instrumentar los programas de seguridad física en PEM
 
 III. Coordinar las estrategias, sistemas y procedimientos tendentes a preservar y garantizar la seguridad e integridad física del personal, instalaciones, bienes y valores de PEMEX y de los organismos subsidiarios;
 
-IV. Promover y operar los convenios en materia de seguridad física que se suscriban entre PEMEX, organismos subsidiarios y, en su caso, filiales, con las fuerzas armadas y demás dependencias de la Administración Pública Federal;
+> <small>(REFORMADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
+
+IV. Promover y operar los convenios en materia de seguridad física que se suscriban entre PEMEX, Organismos Subsidiarios y filiales, con las fuerzas armadas y demás dependencias de la Administración Pública;
 
 V. Dirigir, coordinar y llevar a cabo las acciones orientadas a detectar riesgos y prevenir la realización de actos de terrorismo, sabotaje, robo y cualquier otro, que pongan en peligro el orden laboral, la integridad del personal, bienes muebles e inmuebles y valores de PEMEX, organismos subsidiarios y, en su caso, filiales;
 
@@ -831,9 +965,17 @@ VI. Determinar la vulnerabilidad del personal e instalaciones de PEMEX, organism
 
 VII. Representar a PEMEX y organismos subsidiarios ante las fuerzas armadas, dependencias y entidades federales, estatales y municipales, para coordinar la protección física de sus instalaciones y el apoyo a la población en casos de desastre;
 
-VIII. Proponer la clasificación o reclasificación “AAA”, “AA” y “A” de las instalaciones estratégicas de PEMEX y organismos subsidiarios, de acuerdo con los lineamientos institucionales en materia de integridad operativa, y
+> <small>(REFORMADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
 
-IX. Seleccionar, de conformidad con las disposiciones administrativas en materia de reclutamiento y perfil del puesto, al personal de confianza que labore en las actividades de seguridad física.
+VIII. Proponer la clasificación o reclasificación “AAA”, “AA” y “A” de las instalaciones estratégicas de PEMEX y Organismos Subsidiarios, de acuerdo con los lineamientos institucionales en materia de integridad operativa;
+
+> <small>(REFORMADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
+
+IX. Seleccionar, de conformidad con las disposiciones administrativas en materia de reclutamiento y perfil del puesto, al personal de confianza que labore en las actividades de seguridad física, y
+
+> <small>(ADICIONADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
+
+X. Planear y operar un sistema de información sobre riesgos, amenazas o acontecimientos de seguridad física, que puedan afectar a PEMEX, Organismos Subsidiarios y filiales, en su personal, instalaciones, bienes y valores.
 
 ###### Artículo 38.
 
@@ -861,7 +1003,9 @@ X. Promover e impulsar programas de vinculación con las comunidades, y proponer
 
 XI. Formular y proponer al Director General los acuerdos marco que se consideren conveniente suscribir con los gobiernos de las entidades federativas prioritarias, a fin de establecer bases de colaboración mutua para facilitar la operación de PEMEX y organismos subsidiarios y coadyuvar al desarrollo social de dichas entidades;
 
-XII. Formular informes trimestrales y anuales acerca de la comprobación de las erogaciones realizadas por los beneficiarios, así como del cumplimiento de la aplicación y resultados de los donativos y donaciones otorgados;
+> <small>(REFORMADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
+
+XII. Formular y presentar informes trimestrales y anuales acerca de la aplicación, comprobación y resultados obtenidos con motivo de los donativos y donaciones otorgados;
 
 XIII. Formular y presentar al Director General un informe anual sobre el cumplimiento de los criterios y lineamientos aprobados por el Consejo de Administración y del ejercicio de los recursos autorizados para donativos y donaciones de PEMEX y sus organismos subsidiarios;
 
@@ -895,11 +1039,15 @@ X. Asesorar a PEMEX en la atención y cumplimiento de disposiciones y requerimie
 
 XI. Coordinar y asesorar a las áreas de PEMEX para la organización y administración de documentos archivísticos contenidos en cualquier medio, en términos de la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental su Reglamento y demás disposiciones aplicables;
 
-XII. Coordinar y dar seguimiento a la instrumentación de la firma electrónica en PEMEX y organismos subsidiarios;
+XII. (DEROGADA, D.O.F. 2 DE AGOSTO DE 2011)
 
 XIII. Coordinar y dar seguimiento a la atención de compromisos que deriven de las revisiones de las instancias de fiscalización, en el ámbito de la Dirección Corporativa de Administración, y
 
-XIV. Coordinar la integración del acervo histórico documental sobre el desarrollo de PEMEX y de los organismos subsidiarios.
+> <small>(ADICIONADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
+
+XIII-A. Asesorar a las unidades administrativas de PEMEX en sus relaciones institucionales con los gobiernos estatales y municipales, así como con las organizaciones sociales en el ámbito de su competencia.
+
+XIV. (DEROGADA, D.O.F. 2 DE AGOSTO DE 2011)
 
 #### Sección Segunda. De la Subdirección de Recursos Humanos y Relaciones Laborales
 
@@ -913,7 +1061,9 @@ II. Ejercer la representación patronal de PEMEX y de los organismos subsidiario
 
 III. Asesorar a PEMEX y organismos subsidiarios en la aplicación de los estudios, criterios y metodologías en materia de administración y desarrollo de recursos humanos;
 
-IV. Supervisar los procesos de diseño y modificación de las estructuras de organización de PEMEX y organismos subsidiarios;
+> <small>(REFORMADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
+
+IV. Supervisar y acreditar los procesos de diseño y modificación de las estructuras orgánicas y ocupacionales de PEMEX y Organismos Subsidiarios;
 
 V. Representar en materia laboral a PEMEX y a los organismos subsidiarios ante las dependencias del Gobierno Federal y el Sindicato de Trabajadores Petroleros de la República Mexicana;
 
@@ -947,13 +1097,23 @@ XIX. Administrar e interpretar el Contrato Colectivo de Trabajo, así como brind
 
 XX. Establecer conjuntamente con la Oficina del Abogado General mecanismos para prevenir demandas laborales;
 
-XXI. Coordinar el proceso y, en su caso, otorgar la acreditación laboral de las modificaciones de las estructuras orgánicas ocupacionales que propongan las unidades administrativas de PEMEX y de los organismos subsidiarios respecto del personal sindicalizado, y
+> <small>(REFORMADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
 
-XXII. Coordinar y supervisar las actividades de los Centros de Desarrollo Infantil y las deportivas.
+XXI. Coordinar el proceso y, en su caso, otorgar la acreditación laboral de las modificaciones de las estructuras orgánicas ocupacionales que propongan las unidades administrativas de PEMEX y de los Organismos Subsidiarios respecto del personal sindicalizado;
+
+> <small>(REFORMADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
+
+XXII. Coordinar y supervisar las actividades de los Centros de Desarrollo Infantil y las deportivas, y
+
+> <small>(ADICIONADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
+
+XXIII. Someter a autorización de la Dirección Corporativa de Administración los acuerdos especiales para resolver los asuntos laborales que impliquen régimen de excepción o entrañen variantes o modalidades especiales en las condiciones de trabajo.
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 2 DE AGOSTO DE 2011)</small>
 
 ###### Artículo 41.
 
-La Gerencia de Administración de Recursos Humanos tendrá las funciones siguientes:
+La Gerencia de Operación de Servicios al Personal, tendrá las funciones siguientes:
 
 I. Integrar la gestión de los procesos operativos de recursos humanos, garantizando servicios estandarizados y adecuados a todos los usuarios finales;
 
@@ -961,19 +1121,37 @@ II. Coordinar la ejecución de los procesos transaccionales de Recursos Humanos 
 
 III. Ejecutar y supervisar el pago de la nómina;
 
-IV. Ejercer la representación patronal para oficinas centrales de conformidad con lo dispuesto en el Contrato Colectivo de Trabajo y la normatividad aplicable;
+IV. (DEROGADA, D.O.F. 2 DE AGOSTO DE 2011)
 
-V. Dirigir, supervisar y controlar la aplicación de la contratación y el otorgamiento de servicios y prestaciones al personal activo de oficinas centrales y jubilados, en su ámbito de competencia, y
+V. (DEROGADA, D.O.F. 2 DE AGOSTO DE 2011)
 
-VI. Someter a autorización de la Dirección Corporativa de Administración los acuerdos especiales para resolver los asuntos laborales que impliquen régimen de excepción o entrañen variantes o modalidades especiales en las condiciones de trabajo, en términos del Reglamento de Atribuciones de Petróleos Mexicanos y Organismos Subsidiarios en Materia de Recursos Humanos y Asuntos Laborales.
+VI. (DEROGADA, D.O.F. 2 DE AGOSTO DE 2011)
+
+> <small>(ADICIONADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
+
+VII. Coordinar las acciones para atender los requerimientos del Gobierno Federal en materia de recursos humanos y relaciones laborales;
+
+> <small>(ADICIONADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
+
+VIII. Coordinar que las áreas lleven a cabo el desarrollo de las acciones que correspondan al proceso de recursos humanos y relaciones laborales en Seguridad, Salud y Protección Ambiental, y
+
+> <small>(ADICIONADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
+
+IX. Supervisar los procesos de reclutamiento y selección y coordinar la aplicación de los programas de desarrollo y formación.
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 2 DE AGOSTO DE 2011)</small>
 
 ###### Artículo 42.
 
-La Gerencia de Organización y Desarrollo Institucional tendrá las funciones siguientes:
+La Gerencia de Organización y Compensaciones tendrá las funciones siguientes:
 
-I. Diseñar el proceso para el servicio y mejora de la organización de PEMEX y organismos subsidiarios en materia de planeación y diseño organizacional;
+> <small>(REFORMADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
 
-II. Definir las metodologías para el diagnóstico y diseño de estructuras orgánico-ocupacionales, descripción, valuación y perfiles de puestos, manuales de organización y procedimientos en PEMEX y organismos subsidiarios;
+I. Diseñar el proceso para el servicio y mejora de la organización de PEMEX y Organismos Subsidiarios en materia de organización y compensaciones;
+
+> <small>(REFORMADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
+
+II. Definir e implementar las metodologías para el diagnóstico y diseño de estructuras orgánico-ocupacionales, descripción, valuación y perfiles de puestos, manuales de organización y procedimientos en PEMEX y Organismos Subsidiarios;
 
 III. Integrar, gestionar y controlar el sistema de registro de estructuras orgánico-ocupacionales ante las dependencias globalizadoras del Gobierno Federal;
 
@@ -983,9 +1161,13 @@ IV. Controlar y consolidar la contratación de servicios profesionales bajo el r
 
 V. Diseñar y optimizar el sistema institucional de remuneraciones y coordinar su implantación y mantenimiento;
 
-VI. Vigilar la aplicación de la normatividad institucional en materia de remuneraciones para el personal de confianza;
+> <small>(REFORMADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
 
-VII. Valuar y realizar estudios, estadísticas y proyecciones del pasivo laboral contingente, prestaciones económicas, reformas fiscales y propuestas de modificación al contrato colectivo de trabajo en coordinación con el área competente en la Dirección Corporativa de Finanzas;
+VI. Vigilar la aplicación de la normatividad institucional en materia de remuneraciones;
+
+> <small>(REFORMADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
+
+VII. Valuar y realizar estudios, estadísticas y proyecciones de las prestaciones económicas, reformas fiscales y propuestas de modificación al contrato colectivo de trabajo;
 
 VIII. Diseñar el sistema institucional de puestos de confianza de PEMEX y organismos subsidiarios;
 
@@ -993,19 +1175,43 @@ IX. Realizar estudios de comparación para la industria petrolera en materia de 
 
 X. Elaborar la normatividad institucional en materia de creación y modificación de estructuras orgánico-ocupacionales;
 
-XI. Traducir los requerimientos de las direcciones corporativas en acciones y soluciones de recursos humanos;
+> <small>(REFORMADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
 
-XII. Coordinar la aplicación de los procesos y herramientas institucionales relacionadas con los mantenimientos a la estructura organizacional;
+XI. Atender los requerimientos de las direcciones corporativas en acciones y soluciones de recursos humanos en materia de organización y compensación;
 
-XIII. Planear, programar y evaluar el ejercicio del presupuesto de mano de obra de PEMEX y sus organismos subsidiarios, y
+> <small>(ADICIONADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
 
-XIV. Evaluar el comportamiento de la plantilla laboral de PEMEX y organismos subsidiarios para la optimización de la fuerza de trabajo del régimen sindical.
+XI-A. Diseñar, cuantificar y evaluar las estructuras orgánico-ocupacionales en PEMEX y Organismos Subsidiarios;
+
+> <small>(REFORMADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
+
+XII. Implantar la aplicación de los procesos y herramientas institucionales relacionadas con las modificaciones a la estructura organizacional, ocupacional y el control de plazas;
+
+XIII. (DEROGADA, D.O.F. 2 DE AGOSTO DE 2011)
+
+> <small>(REFORMADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
+
+XIV. Evaluar y optimizar el comportamiento de la plantilla laboral de PEMEX y Organismos Subsidiarios;
+
+> <small>(ADICIONADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
+
+XV. Controlar y coordinar la incorporación del personal de PEMEX y sus Organismos Subsidiarios y la aplicación de la normatividad y metodologías institucionales en la materia;
+
+> <small>(ADICIONADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
+
+XVI. Mantener actualizadas las categorías por nivel de los puestos sindicalizados y sus correspondientes reglamentos de labores, y
+
+> <small>(ADICIONADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
+
+XVII. Elaborar el proyecto de presupuesto regularizable de mano de obra de PEMEX y Organismos Subsidiarios.
 
 ###### Artículo 43.
 
 La Gerencia de Desarrollo Humano tendrá las funciones siguientes:
 
-I. Proponer, difundir y asesorar en la aplicación de normatividad y metodologías institucionales en materia de incorporación del personal, su formación y desempeño;
+> <small>(REFORMADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
+
+I. Proponer, difundir y asesorar en la aplicación de normatividad y metodologías institucionales en materia de reclutamiento y selección de personal y su formación, desarrollo y desempeño;
 
 II. Diseñar los mecanismos para administrar la bolsa de trabajo institucional;
 
@@ -1021,13 +1227,27 @@ VI. Diseñar el modelo y los sistemas de administración del desempeño individu
 
 VII. Establecer los programas para fortalecer una cultura organizacional orientada a resultados;
 
-VIII. Establecer los mecanismos y herramientas para la integración y actualización del directorio de talento de PEMEX y organismos subsidiarios, y
+> <small>(REFORMADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
 
-IX. Coordinar la aplicación de los procesos y herramientas institucionales relacionadas con reclutamiento y selección, desarrollo, desempeño, formación y retiro.
+VIII. Establecer los mecanismos y herramientas para la integración y actualización del directorio de talento de PEMEX y Organismos Subsidiarios;
+
+> <small>(REFORMADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
+
+IX. Coordinar la aplicación y dar seguimiento a los procesos y herramientas institucionales relacionadas con reclutamiento y selección, desarrollo, desempeño, formación y retiro;
+
+> <small>(ADICIONADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
+
+X. Desarrollar e implantar programas de clima organizacional, y
+
+> <small>(ADICIONADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
+
+XI. Diseñar e implementar el modelo de la administración del conocimiento.
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 2 DE AGOSTO DE 2011)</small>
 
 ###### Artículo 44.
 
-La Gerencia de Mejora de Procesos tendrá las siguientes funciones:
+La Gerencia de Integración y Mejora de Procesos tendrá las siguientes funciones:
 
 I. Coordinar el desarrollo de las estrategias y proyectos en materia de recursos humanos en PEMEX y los organismos subsidiarios;
 
@@ -1041,13 +1261,57 @@ III. Coordinar requerimientos, implantar y operar soluciones integrales para hom
 
 IV. Captar los requerimientos detallados de las gerencias funcionales y supervisar el diseño técnico/funcional y la implantación de los sistemas institucionales de información de recursos humanos;
 
-V. Coordinar la ejecución de los procesos transaccionales de recursos humanos y los requerimientos y requisitos de servicios y prestaciones al personal, y
+> <small>(REFORMADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
 
-VI. Integrar las fuentes de información de recursos humanos.
+V. Coordinar la ejecución de los procesos transaccionales de recursos humanos y los requerimientos y requisitos de servicios y prestaciones al personal;
+
+VI. (DEROGADA, D.O.F. 2 DE AGOSTO DE 2011)
+
+> <small>(ADICIONADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
+
+VII. Generar la información, reportes e indicadores a los responsables de áreas de los procesos de recursos humanos y relaciones laborales, y
+
+> <small>(ADICIONADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
+
+VIII. Integrar la información del pasivo laboral de los trabajadores de planta, jubilados y post-mortem, para el análisis correspondiente, en coordinación con la Dirección Corporativa de Finanzas.
+
+> <small>(ADICIONADO, D.O.F. 2 DE AGOSTO DE 2011)</small>
+
+Artículo 44 A.- La Gerencia de Vinculación con el Proceso Financiero tendrá las funciones siguientes:
+
+I. Dirigir, supervisar, controlar y evaluar el funcionamiento y la resolución de asuntos de la nómina en materia fiscal, de vinculación financiera y presupuestal de PEMEX y Organismos Subsidiarios;
+
+II. Fungir como enlace de recursos humanos ante la Dirección Corporativa de Finanzas para la integración de la nómina con el proceso financiero;
+
+III. Verificar el flujo de efectivo para el correcto proceso de la nómina de PEMEX y Organismos Subsidiarios;
+
+IV. Realizar el registro contable y presupuestal correspondiente a la nómina de PEMEX y Organismos Subsidiarios;
+
+V. Coordinar la ejecución fiscal de la nómina y la integración de las declaraciones informativas en materia fiscal correspondientes al pago de la nómina de PEMEX y Organismos Subsidiarios;
+
+VI. Ejecutar y coordinar los procesos fiscales para la determinación y cumplimiento de las obligaciones fiscales estatales y del Distrito Federal que deriven del pago de la nómina de PEMEX y Organismos Subsidiarios;
+
+VII. Generar las constancias de sueldos, salarios, conceptos asimilados y crédito al salario y subsidio al empleo de PEMEX y Organismos Subsidiarios;
+
+VIII. Presentar ante las autoridades fiscales estatales y del Distrito Federal las promociones necesarias para el debido cumplimiento de las obligaciones tributarias establecidas;
+
+IX. Conciliar los registros contables de las nóminas contra las derivaciones bancarias correspondientes;
+
+X. Gestionar la programación de pago correspondiente a las nóminas ante las tesorerías de PEMEX y Organismos Subsidiarios;
+
+XI. Dirigir la integración de los rechazos bancarios de nómina recibidos por las tesorerías de PEMEX y Organismos Subsidiarios y realizar la elaboración de los ajustes correspondientes;
+
+XII. Participar en la sistematización y homologación del proceso financiero y presupuestal de nómina de PEMEX y Organismos Subsidiarios;
+
+XIII. Programar, establecer los controles y evaluar el ejercicio del presupuesto de mano de obra de PEMEX y Organismos Subsidiarios, y
+
+XIV. Proponer y gestionar las adecuaciones al presupuesto de mano de obra de PEMEX y Organismos Subsidiarios.
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 2 DE AGOSTO DE 2011)</small>
 
 ###### Artículo 45.
 
-Los Enlaces de Servicios de Recursos Humanos para Exploración y Producción, Refinación, Gas y Petroquímica Básica y Petroquímica, tendrán las siguientes funciones:
+Los Enlaces de Servicios de Recursos Humanos y Relaciones Laborales para Exploración y Producción, Refinación, Gas y Petroquímica Básica, Petroquímica, y PEMEX y Servicios de Salud tendrán las siguientes funciones:
 
 I. Participar en la planeación estratégica, proponiendo iniciativas de recursos humanos que contribuyan al logro de los objetivos institucionales de PEMEX y organismos subsidiarios;
 
@@ -1065,21 +1329,13 @@ VII. Establecer convenios de servicio con las líneas de negocio de PEMEX y orga
 
 ###### Artículo 46.
 
-La Gerencia de Normatividad y Política Laboral tendrá las funciones siguientes:
+(DEROGADO, D.O.F. 2 DE AGOSTO DE 2011)
 
-I. Desahogar las consultas relacionadas con la aplicación del marco normativo en materia laboral;
-
-II. Llevar a cabo el proceso de revisión y, en su caso, concertación del contrato colectivo de trabajo con el Sindicato de Trabajadores Petroleros de la República Mexicana, incluyendo salario y prestaciones para los trabajadores sindicalizados;
-
-III. Determinar las disposiciones que deberán aplicarse a los trabajadores que laboran en condiciones especiales de trabajo en PEMEX y organismos subsidiarios;
-
-IV. Administrar y, en su caso, proponer modificaciones al Reglamento de Trabajo del Personal de Confianza de Petróleos Mexicanos y organismos subsidiarios, y
-
-V. Coordinar el desarrollo de los programas de trabajo de las comisiones nacionales mixtas.
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 2 DE AGOSTO DE 2011)</small>
 
 ###### Artículo 47.
 
-La Gerencia de Concertación Laboral tendrá las funciones siguientes:
+La Gerencia de Relaciones Laborales tendrá las funciones siguientes:
 
 I. Atender y resolver, mediante concertación, los asuntos obreros patronales que sean de su conocimiento, así como aquellos de índole especial que se le encomienden;
 
@@ -1089,29 +1345,73 @@ III. Definir e instrumentar la estrategia laboral para la aplicación de los pla
 
 IV. Llevar a cabo, conjuntamente con el Sindicato de Trabajadores Petroleros de la República Mexicana, el depósito y ratificación ante la Junta Federal de Conciliación y Arbitraje, de los convenios y acuerdos de aplicación colectiva celebrados entre el patrón y la organización gremial;
 
-V. Prestar el servicio de asesoría en materia de concertación laboral y solución de conflictos de PEMEX y organismos subsidiarios, y
+> <small>(REFORMADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
 
-VI. Mantener actualizadas las categorías por nivel de los puestos sindicalizados y sus correspondientes reglamentos de labores y coordinar la elaboración y actualización de los escalafones en PEMEX y organismos subsidiarios.
+V. Prestar el servicio de asesoría en materia de concertación laboral y solución de conflictos de PEMEX y Organismos Subsidiarios;
+
+> <small>(REFORMADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
+
+VI. Coordinar la elaboración y actualización de los escalafones en PEMEX y Organismos Subsidiarios;
+
+> <small>(ADICIONADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
+
+VII. Desahogar las consultas relacionadas con la aplicación del marco normativo en materia laboral;
+
+> <small>(ADICIONADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
+
+VIII. Llevar a cabo el proceso de revisión y, en su caso, concertación del contrato colectivo de trabajo con el Sindicato de Trabajadores Petroleros de la República Mexicana, incluyendo salario y prestaciones para los trabajadores sindicalizados;
+
+> <small>(ADICIONADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
+
+IX. Determinar las disposiciones que deberán aplicarse a los trabajadores que laboran en condiciones especiales de trabajo en PEMEX y Organismos Subsidiarios;
+
+> <small>(ADICIONADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
+
+X. Administrar y, en su caso, proponer modificaciones al Reglamento de Trabajo del Personal de Confianza de Petróleos Mexicanos y Organismos Subsidiarios, y
+
+> <small>(ADICIONADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
+
+XI. Coordinar el desarrollo de los programas de trabajo de las comisiones nacionales mixtas.
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 2 DE AGOSTO DE 2011)</small>
 
 ###### Artículo 48.
 
-La Gerencia de Desarrollo de Relaciones Laborales tendrá las funciones siguientes:
+La Gerencia de Planeación, Proyectos y Evaluación de Gestión tendrá las funciones siguientes:
 
-I. Coordinar el desarrollo e implantación de las estrategias y la cartera de proyectos de recursos humanos y relaciones laborales de PEMEX y organismos subsidiarios;
+> <small>(REFORMADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
+
+I. Coordinar el desarrollo, implantación y seguimiento de las estrategias y la cartera de proyectos de recursos humanos y relaciones laborales de PEMEX y Organismos Subsidiarios;
 
 II. Consolidar los resultados y evaluar el impacto de los programas promovidos y estrategias de recursos humanos y relaciones laborales;
 
-III. Coordinar las acciones para el funcionamiento del cuerpo de gobierno de recursos humanos y relaciones laborales y la integración de las mismas con los procesos institucionales;
+> <small>(REFORMADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
+
+III. Coordinar las acciones para el funcionamiento del Cuerpo de Gobierno de Administración de Recursos Humanos y la integración de las mismas con los procesos institucionales;
+
+> <small>(ADICIONADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
+
+III-A. Definir la metodología para reportar y registrar avances, riesgos, cambios de alcance de los proyectos y la herramienta para apoyar la administración de proyectos, y
 
 IV. Conocer los planes y programas de trabajo especiales o extraordinarios de PEMEX y organismos subsidiarios, derivados de la adecuación de estructuras organizacionales y ocupacionales, modernización de instalaciones, y simplificación de sistemas de trabajo que impliquen o repercutan en la mano de obra, y
 
-V. Coordinar las acciones para atender los requerimientos del Gobierno Federal en materia de recursos humanos y relaciones laborales.
+V. (DEROGADA, D.O.F. 2 DE AGOSTO DE 2011)
+
+> <small>(REFORMADO, D.O.F. 2 DE AGOSTO DE 2011)</small>
 
 ###### Artículo 49.
 
-Las gerencias regionales de Relaciones Laborales del Altiplano, del Norte, del Sur y del Sureste, tendrán, la siguiente función:
+Las gerencias regionales de Recursos Humanos y Relaciones Laborales del Altiplano, del Norte, del Sur y del Sureste, tendrán las siguientes funciones:
 
-I. Prestar los servicios relativos a la administración de los procesos y prestación de los servicios de recursos humanos y relaciones laborales en los términos de los convenios que, en su caso, celebre PEMEX con sus organismos subsidiarios.
+I. Prestar los servicios relativos a la administración de los procesos y prestación de los servicios de recursos humanos y relaciones laborales en los términos de los convenios que, en su caso, celebre PEMEX con sus Organismos Subsidiarios;
+
+II. Ejercer la representación patronal;
+
+III. Dirigir, supervisar y controlar la aplicación de la contratación y el otorgamiento de servicios y prestaciones al personal activo y jubilados;
+
+IV. Identificar e integrar las necesidades de capacitación y elaborar planes y programas de capacitación, y
+
+V. Coordinar el estudio del trabajo de las solicitudes de modificaciones de la estructura ocupacional y apoyar a PEMEX y Organismos Subsidiarios en la integración de requisitos.
 
 #### Sección Tercera. De la Subdirección de Servicios de Salud
 
@@ -1129,9 +1429,17 @@ IV. Definir los sistemas que promuevan la calidad, mejora continua e innovación
 
 V. Establecer los mecanismos de supervisión, evaluación y control técnico, médico y administrativo a efecto de verificar el cumplimiento de los programas de prestación de los servicios de salud;
 
-VI. Administrar los bienes y equipos de PEMEX utilizados para prestar servicios de salud, verificar la disponibilidad de los insumos y equipos específicos, y
+> <small>(REFORMADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
 
-VII. Representar a PEMEX y organismos subsidiarios ante las dependencias y entidades del sector salud y organismos nacionales e internacionales en el ámbito de su competencia.
+VI. Administrar los bienes y equipos de PEMEX utilizados para prestar servicios de salud, verificar la disponibilidad de los insumos y equipos específicos;
+
+> <small>(REFORMADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
+
+VII. Representar a PEMEX y Organismos Subsidiarios ante las dependencias y entidades del sector salud y organismos nacionales e internacionales en el ámbito de su competencia, y
+
+> <small>(ADICIONADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
+
+VIII. Diseñar acciones institucionales para la planeación, ejecución y control de las intervenciones de salud en el trabajo en PEMEX y Organismos Subsidiarios.
 
 ###### Artículo 51.
 
@@ -1167,9 +1475,25 @@ V. Coordinar la realización de investigaciones epidemiológicas sobre los princ
 
 VI. Evaluar los resultados de la aplicación de programas preventivos en la preservación y mejoramiento de la salud de los derechohabientes y proponer las acciones de mejora a los procesos correspondientes;
 
-VII. Diseñar y ejecutar los programas de servicios preventivos de medicina del trabajo en PEMEX y organismos subsidiarios, y
+> <small>(REFORMADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
 
-VIII. Planear, dirigir y controlar el programa de seguridad, salud en el trabajo y protección ambiental en las unidades médicas.
+VII. Diseñar y ejecutar los programas de medicina y salud en el trabajo en PEMEX y Organismos Subsidiarios;
+
+> <small>(REFORMADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
+
+VIII. Planear, dirigir y controlar el programa de seguridad, salud en el trabajo y protección ambiental en las unidades médicas;
+
+> <small>(ADICIONADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
+
+IX. Planear, ejecutar y controlar las intervenciones en salud en el trabajo en los centros laborales;
+
+> <small>(ADICIONADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
+
+X. Programar, con la participación que corresponda a otras áreas de PEMEX y los Organismos Subsidiarios, los recursos para el desarrollo de los programas operativos de los servicios de salud en el trabajo, y
+
+> <small>(ADICIONADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
+
+XI. Establecer los criterios de idoneidad profesional para la selección y contratación de personal para los servicios de salud en el trabajo, así como de proveedores externos de estos servicios.
 
 ###### Artículo 53.
 
@@ -1177,7 +1501,9 @@ La Gerencia de Administración y Finanzas tendrá las funciones siguientes:
 
 I. Evaluar y controlar el cumplimiento de los planes y programas de la Subdirección de Servicios de Salud en materia de suministros, mantenimiento, servicios generales y administración patrimonial, así como su impacto en la prestación de los servicios médicos;
 
-II. Coordinar las acciones tendentes a garantizar el abasto integral y oportuno de los bienes y servicios en las unidades médicas;
+> <small>(REFORMADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
+
+II. Coordinar y ejecutar los procesos de adquisiciones, arrendamientos, mantenimientos y servicios en las unidades médicas;
 
 III. Dar seguimiento a los programas de mantenimiento preventivo y correctivo que garanticen la óptima operación de las unidades médicas;
 
@@ -1205,13 +1531,19 @@ IV. (DEROGADA, D.O.F. 9 DE AGOSTO DE 2010)
 
 V. Coordinar, supervisar y vigilar el proceso de adquisición y suministro de bienes, y la contratación de obra pública, servicios y arrendamientos que sean materia de la competencia de la Dirección Corporativa de Administración;
 
-VI. Coordinar y supervisar la prestación de los servicios de apoyo, mantenimiento, conservación, seguridad y vigilancia de las instalaciones bajo la responsabilidad de la Dirección Corporativa de Administración;
+> <small>(REFORMADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
+
+VI. Coordinar y supervisar la prestación de los servicios de apoyo, mantenimiento, conservación, seguridad y vigilancia dentro de las instalaciones de PEMEX y bajo la responsabilidad de la Dirección Corporativa de Administración;
 
 VII. Coordinar y supervisar los procesos inherentes a los servicios aduanales, así como ejercer la representación de PEMEX, organismos subsidiarios y, en su caso, filiales y terceros relacionados, en materia de servicios aduanales, de acuerdo con los poderes que, en su caso, se le otorguen con base en las disposiciones aplicables;
 
-VIII. Establecer los mecanismos para determinar el costo de los servicios corporativos;
+> <small>(REFORMADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
 
-IX. Proponer y aplicar la mecánica de cálculo de los precios por los servicios corporativos administrativos, y
+VIII. Establecer las metodologías para determinar el costo de los servicios corporativos, que presta la Dirección Corporativa de Administración;
+
+> <small>(REFORMADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
+
+IX. Proponer y aplicar la metodología para el cálculo de los precios por los servicios corporativos, que presta la Dirección Corporativa de Administración, y
 
 X. Coordinar y administrar las oficinas foráneas de representación aduanal para la prestación de los servicios aduanales.
 
@@ -1251,7 +1583,9 @@ VII. Consolidar y coordinar la integración de los programas de adquisiciones, o
 
 Artículo 57 A.- La Gerencia de Servicios Generales tendrá las funciones siguientes:
 
-I. Coordinar, supervisar y controlar la ejecución de medidas que permitan optimizar la conservación, mantenimiento y administración de los espacios y servicios generales de los inmuebles bajo la responsabilidad de la Dirección Corporativa de Administración;
+> <small>(REFORMADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
+
+I. Coordinar, supervisar y controlar la ejecución de obras y medidas que permitan optimizar la conservación, mantenimiento y administración de los espacios y servicios generales de los inmuebles bajo la responsabilidad de la Dirección Corporativa de Administración;
 
 II. Administrar los sistemas primarios, de seguridad, vigilancia y contra incendio a fin de garantizar la integridad de los usuarios en los inmuebles bajo la responsabilidad de la Dirección Corporativa de Administración;
 
@@ -1285,19 +1619,31 @@ V. Fungir como responsable ante las autoridades aduanales en el desahogo de cont
 
 La Subdirección de Administración Patrimonial tendrá las funciones siguientes:
 
-I. Establecer las directrices para la planeación, ejecución, cumplimiento y evaluación de los objetivos estratégicos de PEMEX y organismos subsidiarios en materia de administración patrimonial, de bienes muebles e inmuebles;
+> <small>(REFORMADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
+
+I. Establecer las directrices para la planeación, ejecución, cumplimiento y evaluación de la administración patrimonial de bienes, de PEMEX y Organismos Subsidiarios;
 
 II. Coordinar el proceso de promoción y comercialización de bienes muebles e inmuebles no útiles de PEMEX y organismos subsidiarios, así como de sus activos residuales y de desecho;
 
-III. Coordinar la formalización de los procesos de adquisición, donación y enajenación de bienes inmuebles propiedad de PEMEX y de los que por su cuenta y orden determinen los organismos subsidiarios, en términos de las disposiciones aplicables;
+> <small>(REFORMADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
 
-IV. Coordinar la estrategia para la integración, actualización y consolidación de los inventarios, registros y controles patrimoniales de los bienes muebles e inmuebles de PEMEX y organismos subsidiarios ante las instancias gubernamentales que correspondan en materia de administración patrimonial, así como la integración del centro de documentación correspondientes;
+III. Coordinar la formalización de los convenios y contratos sobre bienes inmuebles propiedad de PEMEX y los que determinen los Organismos Subsidiarios;
 
-V. Coordinar la ejecución de los planes o programas que se establezcan para la adecuada administración de los derechos de vía de los ductos de PEMEX y organismos subsidiarios;
+> <small>(REFORMADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
 
-VI. Dirigir, coordinar y, tratándose de PEMEX, ejecutar el proceso de documentación relativo a la identificación, almacenamiento, clasificación, dictaminación de no utilidad, así como expedir las bases de licitación para la enajenación de los bienes muebles e inmuebles no útiles de PEMEX y organismos subsidiarios;
+IV. Coordinar la integración, actualización, consolidación y difusión de los inventarios, patrimoniales de los bienes de PEMEX y Organismos Subsidiarios, así como rendir los informes ante las instancias gubernamentales que correspondan;
 
-VII. Coordinar el proceso de administración de los bienes muebles no útiles propiedad de PEMEX y organismos subsidiarios, que se encuentren en los almacenes de concentración nacional, y
+> <small>(REFORMADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
+
+V. Coadyuvar, en coordinación con la Dirección Corporativa de Operaciones, en la ejecución de los planes o programas en materia de administración de los derechos de vía de los ductos de PEMEX y Organismos Subsidiarios;
+
+> <small>(REFORMADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
+
+VI. Dirigir y coordinar en PEMEX y Organismos Subsidiarios la consolidación de la documentación relativa a la identificación, almacenamiento, clasificación, dictaminación de no utilidad, así como expedir las bases de licitación para la enajenación de los bienes no útiles de PEMEX y Organismos Subsidiarios;
+
+> <small>(REFORMADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
+
+VII. Coordinar el registro, control y administración de los bienes muebles no útiles propiedad de PEMEX y Organismos Subsidiarios, y
 
 VIII. Designar al responsable inmobiliario de PEMEX en términos del artículo 32 de la Ley General de Bienes Nacionales.
 
@@ -1305,67 +1651,117 @@ VIII. Designar al responsable inmobiliario de PEMEX en términos del artículo 3
 
 La Gerencia de Normatividad Patrimonial tendrá las funciones siguientes:
 
-I. Elaborar, proponer la actualización y difundir la normatividad y los criterios aplicables a la administración patrimonial, así como el programa de desincorporación de activos no útiles de bienes muebles e inmuebles;
+> <small>(REFORMADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
+
+I. Elaborar, proponer y difundir la actualización de la normativa y los criterios aplicables a la administración patrimonial de bienes;
 
 II. Prestar los servicios de asesoría a PEMEX y organismos subsidiarios en materia normativa relacionada con la administración patrimonial;
 
-III. Apoyar a los organismos subsidiarios en la elaboración de su normatividad interna para la administración de bienes muebles e inmuebles;
+> <small>(REFORMADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
 
-IV. Elaborar las convocatorias y bases de licitación para la enajenación onerosa de bienes muebles e inmuebles y, solicitar su publicación;
+III. Apoyar a los Organismos Subsidiarios en la elaboración de su normatividad interna para la administración de bienes;
 
-V. Presidir las licitaciones públicas para la enajenación de bienes muebles e inmuebles no útiles, propiedad de PEMEX y los que, por cuenta y orden, determinen los organismos subsidiarios, en términos de las disposiciones aplicables así como la contratación de los servicios de avalúo;
+> <small>(REFORMADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
 
-VI. Formalizar los convenios y contratos en materia de administración patrimonial y servicios externos;
+IV. Elaborar las convocatorias y bases de licitación para la enajenación onerosa de bienes y, solicitar su publicación;
+
+> <small>(REFORMADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
+
+V. Presidir las licitaciones públicas para la enajenación de bienes no útiles, propiedad de PEMEX y los que, por cuenta y orden, determinen los Organismos Subsidiarios, en términos de las disposiciones aplicables así como la contratación de los servicios de avalúo;
+
+> <small>(REFORMADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
+
+VI. Formalizar los convenios y contratos relacionados con la administración de bienes de PEMEX y de los que determinen los Organismos Subsidiarios;
 
 VII. Contratar los servicios de valuación de bienes muebles e inmuebles y justipreciación de rentas, así como aquellos que se deriven de la administración patrimonial y administrar el padrón de valuadores;
 
-VIII. Llevar el control de las operaciones posteriores a la enajenación de los bienes muebles e inmuebles;
+VIII. (DEROGADA, D.O.F. 2 DE AGOSTO DE 2011)
 
-IX. Coordinar la integración de los expedientes de desincorporación así como de las operaciones del proceso de enajenación de bienes muebles e inmuebles, conforme a la normatividad vigente;
+IX. (DEROGADA, D.O.F. 2 DE AGOSTO DE 2011)
 
 X. Formalizar el proceso de adquisición de bienes inmuebles de PEMEX, así como la donación y enajenación de bienes inmuebles no útiles propiedad de PEMEX y de aquellos que por cuenta y orden determinen los organismos subsidiarios, en términos de las disposiciones aplicables, y
 
-XI. Celebrar los contratos de arrendamiento inmobiliario de PEMEX en su calidad de arrendador o como arrendatario y elaborar los contratos de ocupación temporal de inmuebles de terceros a favor de PEMEX y organismos subsidiarios.
+> <small>(REFORMADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
+
+XI. Celebrar los contratos de arrendamiento inmobiliario de PEMEX en su calidad de arrendador o como arrendatario.
 
 ###### Artículo 60.
 
 La Gerencia de Administración y Optimización Patrimonial tendrá las funciones siguientes:
 
-I. Coordinar la elaboración y ejecución de los planes y programas en PEMEX y organismos subsidiarios, en materia de administración de bienes muebles e inmuebles en activo y no útiles;
+> <small>(REFORMADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
 
-II. Participar en la coordinación de los planes o programas que se establezcan para la adecuada administración de los derechos de vía de los ductos de PEMEX y organismos subsidiarios;
+I. Coordinar la elaboración y ejecución de los planes y programas en PEMEX y Organismos Subsidiarios, en materia de administración de bienes patrimoniales;
 
-III. Coordinar la integración, actualización y consolidación de los inventarios, registros y controles patrimoniales de los bienes muebles e inmuebles de PEMEX y organismos subsidiarios;
+> <small>(REFORMADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
 
-IV. Coordinar la tramitación de los acuerdos de destino, concesiones, permisos y autorizaciones de inmuebles federales y conocer de los procesos de adquisición de la propiedad o uso de los inmuebles que se requieran para el servicio de PEMEX y organismos subsidiarios;
+II. Participar en coordinación con la Dirección Corporativa de Operaciones en la elaboración de los planes o programas y registros que se establezcan para la adecuada administración de los derechos de vía de los ductos de PEMEX y Organismos Subsidiarios;
 
-V. Custodiar y controlar el inventario de bienes muebles no útiles en los almacenes de concentración nacional, y verificar que se genere la información necesaria para la enajenación de bienes de PEMEX y de aquellos que determinen los organismos subsidiarios, por cuenta y orden y en términos de las disposiciones aplicables, así como fomentar y atender las solicitudes de asignación onerosa;
+> <small>(REFORMADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
 
-VI. Vigilar el cumplimiento de las disposiciones aplicables relacionadas con las actividades y operaciones de los almacenes de concentración nacional, así como promover la seguridad e higiene en el trabajo y la imagen institucional, y
+III. Coordinar la integración, actualización y consolidación de los inventarios, registros y controles patrimoniales de los bienes de PEMEX y Organismos Subsidiarios;
 
-VII. Coordinar con las unidades administrativas de PEMEX y con los centros de trabajo de los organismos subsidiarios, las acciones de dictaminación de los bienes no útiles para la operación, la limpieza de sus patios mediante la incorporación de sus desechos comercializables al contrato abierto.
+> <small>(REFORMADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
+
+IV. Formalizar los acuerdos de destino, concesiones, permisos y autorizaciones de inmuebles federales y conocer de los procesos de adquisición de la propiedad o uso de los inmuebles que se requieran para el servicio de PEMEX y Organismos Subsidiarios;
+
+V. (DEROGADA, D.O.F. 2 DE AGOSTO DE 2011)
+
+VI. (DEROGADA, D.O.F. 2 DE AGOSTO DE 2011)
+
+VII. (DEROGADA, D.O.F. 2 DE AGOSTO DE 2011)
+
+> <small>(ADICIONADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
+
+VIII. Coordinar la integración, actualización y administración del acervo documental de los bienes inmuebles en PEMEX, así como consolidar el de los Organismos Subsidiarios;
+
+> <small>(ADICIONADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
+
+IX. Coordinar el registro inicial y final de los bienes muebles instrumentales, así como apoyar a los Organismos Subsidiarios en las gestiones para mantener los inventarios físicos conciliados con el registro contable, y
+
+> <small>(ADICIONADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
+
+X. Mantener actualizado el centro de documentación de Información de los inmuebles de PEMEX.
 
 ###### Artículo 61.
 
 La Gerencia de Promoción y Comercialización de Bienes tendrá las funciones siguientes:
 
-I. Elaborar la estrategia que permita la enajenación de los bienes muebles e inmuebles buscando obtener las mejores condiciones económicas para PEMEX, con base en los programas anuales de desincorporación de activos no útiles de PEMEX y organismos subsidiarios;
+> <small>(REFORMADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
+
+I. Elaborar la estrategia para la enajenación de los bienes de PEMEX y Organismos Subsidiarios;
 
 II. Elaborar el presupuesto anual de ventas de bienes muebles e inmuebles no útiles, considerando las prioridades que fijen PEMEX y los organismos subsidiarios;
 
-III. Elaborar los programas de licitación de bienes muebles no útiles a comercializar, de acuerdo al presupuesto anual y a las condiciones del mercado conforme a la normatividad vigente;
+> <small>(REFORMADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
 
-IV. Coordinar las estrategias y actividades para la promoción y comercialización de los bienes muebles e inmuebles no útiles de PEMEX y organismos subsidiarios, conforme a la normatividad aplicable, al programa de desincorporación de activos no útiles, y resolver las consultas que se formulen con respecto a su instrumentación;
+III. Elaborar los programas de licitación pública de bienes no útiles a comercializar;
 
-V. Analizar y evaluar las posibilidades comerciales y de desarrollo de los inmuebles no útiles de PEMEX y organismos subsidiarios en función de la relación costo-beneficio;
+> <small>(REFORMADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
 
-VI. Promover y comercializar los bienes muebles e inmuebles no útiles de PEMEX y organismos subsidiarios en términos de las disposiciones legales y la normatividad aplicable;
+IV. Promover y comercializar los bienes no útiles de PEMEX y los que determinen los Organismos Subsidiarios, y resolver las consultas en la materia;
 
-VII. Promover la enajenación de los inmuebles no útiles para optimizar el pago de contribuciones, así como de sus gastos de mantenimiento y vigilancia;
+> <small>(REFORMADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
 
-VIII. Coordinar los proyectos de desarrollo inmobiliarios con las unidades administrativas de PEMEX, de los organismos subsidiarios y de otras entidades externas, en cuanto a los estudios técnicos, de ingeniería y de evaluación económica, que permitan definir el óptimo aprovechamiento de los inmuebles de PEMEX y organismos subsidiarios, y
+V. Analizar, evaluar, promover y comercializar los bienes no útiles de PEMEX y Organismos Subsidiarios;
 
-IX. Coadyuvar con los organismos subsidiarios en la identificación, difusión y dictaminación de no utilidad de los bienes inmuebles de su patrimonio que ya no utilicen o no sean necesarios para el cumplimiento de sus actividades ni tengan expectativas de serlo en el futuro, evitando riesgos de invasiones y reducción de gastos de operación.
+VI. (DEROGADA, D.O.F. 2 DE AGOSTO DE 2011)
+
+VII. (DEROGADA, D.O.F. 2 DE AGOSTO DE 2011)
+
+VIII. (DEROGADA, D.O.F. 2 DE AGOSTO DE 2011)
+
+> <small>(REFORMADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
+
+IX. Coadyuvar con los Organismos Subsidiarios en la identificación, difusión y dictaminación de no utilidad de los bienes inmuebles de su patrimonio que ya no utilicen o no sean necesarios para el cumplimiento de sus actividades ni tengan expectativas de serlo en el futuro, evitando riesgos de invasiones y reducción de gastos de operación;
+
+> <small>(ADICIONADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
+
+X. Llevar el control de las operaciones posteriores a la enajenación de los bienes, y
+
+> <small>(ADICIONADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
+
+XI. Coordinar la integración de los expedientes de enajenación así como de las operaciones del proceso de enajenación de bienes, conforme a la normativa vigente.
 
 ### Capítulo Tercero. De la Dirección Corporativa de Finanzas
 
@@ -1443,7 +1839,9 @@ XX. Dirigir las acciones necesarias para el cumplimiento de las obligaciones fin
 
 XXI. Dirigir la integración del proyecto de presupuesto, así como de la Cuenta de la Hacienda Pública Federal de PEMEX y Organismos Subsidiarios;
 
-XXII. Proponer al Director General los indicadores en materia de riesgos financieros para que PEMEX y organismos subsidiarios desarrollen estrategias de manejo de riesgo de las posiciones financieras y operativas;
+> <small>(REFORMADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
+
+XXII. Proponer estrategias de administración de riesgos financieros en PEMEX, Organismos Subsidiarios y filiales;
 
 > <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2010)</small>
 
@@ -1479,13 +1877,17 @@ XXXII. Promover la correcta y oportuna programación, administración y ejercici
 
 XXXIII. Dirigir la preparación de la información contable para establecer y mantener el registro de PEMEX y Organismos Subsidiarios ante las autoridades financieras nacionales e internacionales, así como para los requerimientos de información de las instancias fiscalizadoras correspondientes;
 
-> <small>(ADICIONADA, D.O.F. 9 DE AGOSTO DE 2010)</small>
+> <small>(REFORMADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
 
-XXXIV. Determinar las políticas internas en materia financiera de gestión de riesgos de mercado, de planeación financiera, programación - presupuestación, crediticia, contable y de control financiero de PEMEX y Organismos Subsidiarios;
+XXXIV. Determinar las políticas internas en materia de gestión de riesgos financieros, planeación financiera, programación - presupuestación, crediticia, contable y de control financiero de PEMEX y Organismos Subsidiarios;
 
-> <small>(ADICIONADA, D.O.F. 9 DE AGOSTO DE 2010)</small>
+> <small>(REFORMADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
 
-XXXV. Dirigir y autorizar la estrategia financiera y la cartera de proyectos para la reducción de emisiones de gases de efecto invernadero de PEMEX y Organismos Subsidiarios, y
+XXXV. Dirigir y autorizar la estrategia financiera y la cartera de proyectos para la reducción de emisiones de gases de efecto invernadero de PEMEX y Organismos Subsidiarios;
+
+> <small>(ADICIONADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
+
+XXXV-A. Establecer el modelo de negocio único de activos financieros para PEMEX y Organismos Subsidiarios, y
 
 > <small>(ADICIONADA, D.O.F. 9 DE AGOSTO DE 2010)</small>
 
@@ -1509,23 +1911,13 @@ VI. Realizar y registrar los pagos e ingresos derivados de la operación y compr
 
 VII. Programar el pago de capital e intereses que se generen con motivo de la operación del sistema de préstamo y reembolso para transporte del personal de confianza de PEMEX y programar el pago de capital e intereses, de conformidad con los contratos celebrados con las instituciones bancarias, y
 
-VIII. Gestionar ante las instancias competentes, los trámites en materia de recursos humanos, capacitación, adecuaciones y aplicaciones organizacionales de la Dirección Corporativa de Finanzas.
+> <small>(REFORMADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
+
+VIII. Gestionar ante las instancias competentes, los trámites en materia de recursos humanos, capacitación, adecuaciones y aplicaciones organizacionales de la Dirección Corporativa de Finanzas, así como el abastecimiento de bienes y servicios generales.
 
 ###### Artículo 64.
 
-La Gerencia de Relación con Inversionistas tendrá las funciones siguientes:
-
-I. Verificar la certidumbre, congruencia y consistencia de la información financiera de PEMEX, organismos subsidiarios y filiales que consolidan a los estados financieros de PEMEX, que se divulga en los mercados en coordinación con las áreas que generan o consolidan dicha información;
-
-II. Integrar, elaborar y difundir informes o reportes que reflejen la situación y desempeño de PEMEX para satisfacer los requerimientos de información del mercado y comunidad financiera;
-
-III. Promover que la información que se difunda de PEMEX sea congruente con los criterios utilizados en los mercados financieros, y acorde con estándares internacionales;
-
-IV. Fungir como enlace entre PEMEX y la comunidad inversionista, para la atención de solicitudes de información financiera para incrementar el entendimiento de los mercados y la comunidad financiera sobre la entidad;
-
-V. Promover el acercamiento con inversionistas actuales y potenciales, y
-
-VI. Mantener actualizada la información contenida en la sección de relación con inversionistas en el portal de PEMEX.
+(DEROGADO, D.O.F. 2 DE AGOSTO DE 2011)
 
 ###### Artículo 65.
 
@@ -1565,21 +1957,7 @@ VIII. Representar a PEMEX ante autoridades reguladoras, nacionales e internacion
 
 IX. Fungir como la unidad de enlace de la Dirección Corporativa de Finanzas para cualquier asunto relacionado con los temas del Consejo de Administración.
 
-> <small>(ADICIONADO, D.O.F. 9 DE AGOSTO DE 2010)</small>
-
-Artículo 66 A.- La Gerencia de Finanzas de Carbono tendrá las funciones siguientes:
-
-I. Definir, de acuerdo con el Plan de Negocios, la cartera de proyectos de reducción de gases de efecto invernadero con potencial de comercialización de PEMEX y Organismos Subsidiarios;
-
-II. Implantar la estrategia de identificación y documentación de los proyectos de reducción de gases de efecto invernadero con potencial de comercialización de PEMEX y Organismos Subsidiarios;
-
-III. Elaborar y comunicar las reglas para la asignación, canalización, uso y seguimiento de los ingresos obtenidos de la comercialización de reducciones de emisiones de gases de efecto invernadero de PEMEX y Organismos Subsidiarios, así como de los recursos obtenidos de fuentes distintas a PEMEX;
-
-IV. Proponer a las instancias competentes los mecanismos de monetización de reducciones de emisiones de gases de efecto invernadero de PEMEX y Organismos Subsidiarios;
-
-V. Analizar, consolidar y supervisar el sistema de comercialización y monetización para la reducción de emisiones de gases de efecto invernadero en PEMEX y Organismos Subsidiarios, y
-
-VI. Evaluar el desempeño de la cartera de proyectos de reducción de gases de efecto invernadero con potencial de comercialización de PEMEX y Organismos Subsidiarios, en función de la estrategia del sistema de comercialización y monetización para la reducción de emisiones de gases de efecto invernadero.
+Artículo 66 A.- (DEROGADO, D.O.F. 2 DE AGOSTO DE 2011)
 
 #### Sección Segunda. De la Subdirección de Programación y Presupuestación
 
@@ -1701,9 +2079,11 @@ IX. Informar el ejercicio mensual consolidado de PEMEX en el Sistema Integral de
 
 X. Opinar sobre la ejecución interna de las normas y disposiciones establecidas con relación al ejercicio del gasto.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 2 DE AGOSTO DE 2011)</small>
+
 ###### Artículo 69.
 
-La Gerencia de Planeación y Programación Financiera tendrá las funciones siguientes:
+La Gerencia de Programación Financiera tendrá las funciones siguientes:
 
 > <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2010)</small>
 
@@ -1735,17 +2115,17 @@ VIII. Integrar el programa de operación anual para la propuesta del escenario i
 
 IX. Realizar la evaluación y seguimiento a los programas presupuestarios de operación, a los resultados de operación y al presupuesto en flujo de efectivo, y
 
-> <small>(ADICIONADA, D.O.F. 9 DE AGOSTO DE 2010)</small>
+> <small>(REFORMADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
 
-X. Consolidar la planeación financiera de corto plazo de PEMEX y Organismos Subsidiarios.
+X. Consolidar la programación financiera de corto plazo de PEMEX y Organismos Subsidiarios.
 
 ###### Artículo 70.
 
 La Gerencia de Presupuestación tendrá las funciones siguientes:
 
-> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2010)</small>
+> <small>(REFORMADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
 
-I. Consolidar los presupuestos y las adecuaciones presupuestarias de PEMEX y Organismos Subsidiarios, emitiendo los procedimientos administrativos y conduciendo los sistemas institucionales relacionados con la función presupuestaria;
+I. Consolidar los presupuestos y las adecuaciones presupuestarias de PEMEX y Organismos Subsidiarios, emitiendo los procedimientos administrativos;
 
 II. Integrar la información sobre el estado que guardan los planes y programas del presupuesto para su envío a las dependencias del Gobierno Federal competentes y a las unidades administrativas de PEMEX;
 
@@ -1761,9 +2141,7 @@ V. Consolidar y dar seguimiento al avance financiero de los programas y proyecto
 
 VI. Evaluar y dar seguimiento al cumplimiento de planes y programas sobre gastos de operación e inversión de PEMEX y organismos subsidiarios;
 
-> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2010)</small>
-
-VII. Analizar e integrar la información operativa y financiera para la elaboración de escenarios enfocados a la planeación financiera de mediano y largo plazos de PEMEX y Organismos Subsidiarios;
+VII. (DEROGADA, D.O.F. 2 DE AGOSTO DE 2011)
 
 > <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2010)</small>
 
@@ -1781,43 +2159,75 @@ X. Opinar, en su caso, sobre la integración y el ejercicio del presupuesto de o
 
 XI. Elaborar y consolidar la propuesta de asignación de recursos presupuestarios de operación e inversión de PEMEX, con base en la jerarquización de la cartera y los requerimientos financieros correspondientes;
 
+> <small>(REFORMADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
+
+XII. Elaborar los oficios de liberación de inversiones de PEMEX y Organismos Subsidiarios, y
+
+> <small>(REFORMADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
+
+XIII. Resolver las solicitudes planteadas por conducto de las áreas financieras de los Organismos Subsidiarios, sobre el presupuesto correspondiente.
+
+XIV. (DEROGADA, D.O.F. 2 DE AGOSTO DE 2011)
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 2 DE AGOSTO DE 2011)</small>
+
+Artículo 70 A.- La Gerencia de Planeación Financiera y Control del Proceso Presupuestal tendrá las funciones siguientes:
+
 > <small>(ADICIONADA, D.O.F. 9 DE AGOSTO DE 2010)</small>
-
-XII. Elaborar los oficios de liberación de inversiones de PEMEX y Organismos Subsidiarios;
-
-> <small>(ADICIONADA, D.O.F. 9 DE AGOSTO DE 2010)</small>
-
-XIII. Resolver las solicitudes planteadas por conducto de las áreas financieras de los Organismos Subsidiarios, sobre el presupuesto correspondiente, y
-
-> <small>(ADICIONADA, D.O.F. 9 DE AGOSTO DE 2010)</small>
-
-XIV. Formular la propuesta de escenario indicativo de metas de balance financiero que comprenda periodos de cinco años para su envío anual a la Secretaría de Hacienda y Crédito Público por conducto de la Secretaría de Energía.
-
-> <small>(ADICIONADO, D.O.F. 9 DE AGOSTO DE 2010)</small>
-
-Artículo 70 A.- La Gerencia de Normatividad, Evaluación, Control y Enlace de Programación y Presupuestación tendrá las funciones siguientes:
 
 I. Difundir a las áreas operativas de PEMEX y Organismos Subsidiarios, la actualización del proceso de programación y presupuestación;
 
+> <small>(ADICIONADA, D.O.F. 9 DE AGOSTO DE 2010)</small>
+
 II. Proponer a las gerencias que corresponda, mejoras en la normatividad del ámbito de su competencia;
 
-III. Supervisar la entrega oportuna de la información presupuestaria y para la planeación financiera de PEMEX, Organismos Subsidiarios y, en su caso, filiales, a las gerencias correspondientes;
+> <small>(REFORMADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
 
-IV. Estandarizar la aplicación de la normatividad presupuestaria y de planeación financiera en PEMEX, Organismos Subsidiarios y, en su caso, filiales, propuestas por las gerencias correspondientes;
+III. Supervisar y realizar las acciones para la entrega oportuna de la información presupuestaria y para la planeación financiera de PEMEX, Organismos Subsidiarios y filiales, a las unidades administrativas correspondientes;
+
+> <small>(REFORMADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
+
+IV. Estandarizar e implantar la aplicación de la normatividad presupuestaria y de planeación financiera en PEMEX, Organismos Subsidiarios y filiales, propuestas por las unidades administrativas correspondientes;
+
+> <small>(ADICIONADA, D.O.F. 9 DE AGOSTO DE 2010)</small>
 
 V. Instrumentar los mecanismos de coordinación y operación de PEMEX con las áreas financieras de los Organismos Subsidiarios;
 
-VI. Supervisar la implementación de mejoras encaminadas a garantizar la confiabilidad de la información presupuestaria de PEMEX, Organismos Subsidiarios y, en su caso, filiales, propuestas por las gerencias correspondientes;
+> <small>(REFORMADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
 
-VII. Coadyuvar en el diseño de los controles de la planeación financiera y del proceso de programación y presupuestación;
+VI. Supervisar la implementación de mejoras encaminadas a garantizar la confiabilidad de la información presupuestaria y de planeación financiera de PEMEX, Organismos Subsidiarios y filiales, propuestas por las unidades administrativas correspondientes;
+
+> <small>(REFORMADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
+
+VII. Coadyuvar en el diseño de los controles de la planeación financiera y del proceso de programación y presupuestación, realizar la evaluación y las recomendaciones para su mejora;
+
+> <small>(ADICIONADA, D.O.F. 9 DE AGOSTO DE 2010)</small>
 
 VIII. Instrumentar acciones para que la gestión y toma de decisiones en PEMEX y Organismos Subsidiarios consideren la información presupuestaria y de planeación financiera;
 
+> <small>(ADICIONADA, D.O.F. 9 DE AGOSTO DE 2010)</small>
+
 IX. Organizar, dirigir y valorar el proceso de planeación financiera y de programación y presupuestación de PEMEX y los Organismos Subsidiarios;
 
-X. Administrar los sistemas institucionales orientados al soporte de la planeación financiera y el proceso de programación y presupuestación, en coordinación con las gerencias de la subdirección, y
+> <small>(REFORMADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
 
-XI. Coadyuvar en la sistematización de la planeación financiera y del proceso de programación y presupuestación, así como apoyar en la estabilización de los sistemas correspondientes.
+X. Administrar funcionalmente los sistemas institucionales orientados al soporte de la planeación financiera y el proceso de programación y presupuestación, en coordinación con las gerencias de la subdirección;
+
+> <small>(REFORMADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
+
+XI. Coadyuvar en la sistematización de la planeación financiera y del proceso de programación y presupuestación, así como conducir los sistemas institucionales de la función presupuestaria y apoyar en su estabilización;
+
+> <small>(ADICIONADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
+
+XII. Analizar e integrar la información operativa y financiera para la elaboración de escenarios enfocados a la planeación financiera de mediano y largo plazos de PEMEX y Organismos Subsidiarios;
+
+> <small>(ADICIONADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
+
+XIII. Formular la propuesta de escenario indicativo de metas de balance financiero que comprenda periodos de cinco años para su envío anual a la Secretaría de Hacienda y Crédito Público por conducto de la Secretaría de Energía, y
+
+> <small>(ADICIONADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
+
+XIV. Estandarizar e implantar los catálogos presupuestales definidos por las unidades administrativas correspondientes, aplicables a los registros financieros de PEMEX, Organismos Subsidiarios y filiales.
 
 #### Sección Tercera. De la Subdirección de Planeación Económica
 
@@ -2009,13 +2419,15 @@ V. Realizar, en coordinación con las demás unidades administrativas de la Dire
 
 VI. Apoyar en el seguimiento de los acuerdos que se generen en los órganos de gobierno de PEMEX y de los Organismos Subsidiarios que tengan incidencia en las filiales de PEMEX y Organismos Subsidiarios.
 
-#### Sección Cuarta. De la Subdirección de Sistemas de Información Financiera
+> <small>(REFORMADA SU DENOMINACION, D.O.F. 2 DE AGOSTO DE 2011)</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 9 DE AGOSTO DE 2010)</small>
+#### Sección Cuarta. De la Subdirección de Contabilidad, Fiscal y Control Financiero
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 2 DE AGOSTO DE 2011)</small>
 
 ###### Artículo 75.
 
-La Subdirección de Contabilidad Fiscal y Control Financiero tendrá las funciones siguientes:
+La Subdirección de Contabilidad, Fiscal y Control Financiero tendrá las funciones siguientes:
 
 > <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2010)</small>
 
@@ -2061,9 +2473,9 @@ XIII. Diseñar y estandarizar los procesos internos de carácter contable, fisca
 
 XIV. Supervisar los trabajos destinados al desarrollo, implantación y mantenimiento de un sistema de costos institucional;
 
-> <small>(ADICIONADA, D.O.F. 9 DE AGOSTO DE 2010)</small>
+> <small>(REFORMADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
 
-XV. Administrar los sistemas de información financiera;
+XV. Administrar funcionalmente los sistemas de información financiera;
 
 > <small>(ADICIONADA, D.O.F. 9 DE AGOSTO DE 2010)</small>
 
@@ -2123,7 +2535,9 @@ La Gerencia Fiscal tendrá las funciones siguientes:
 
 I. Prestar el servicio de asesoría técnica fiscal y aduanera que requieran las unidades administrativas de PEMEX y organismos subsidiarios y, en su caso, filiales;
 
-II. Determinar y cumplir con las obligaciones fiscales de PEMEX;
+> <small>(REFORMADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
+
+II. Determinar las obligaciones fiscales a cargo de PEMEX y cumplir con las mismas, así como, coordinar con los Organismos Subsidiarios el cumplimiento de sus obligaciones fiscales;
 
 III. Consolidar la información fiscal de PEMEX y organismos subsidiarios;
 
@@ -2235,11 +2649,15 @@ X. Proponer y coordinar acciones para la administración de los sistemas institu
 
 XI. Coadyuvar en la sistematización de los procesos contable, fiscal y de control financiero, así como apoyar en la estabilización de los sistemas correspondientes.
 
-#### Sección Quinta. De la Subdirección de Financiamientos y Tesorería
+> <small>(REFORMADA SU DENOMINACION, D.O.F. 2 DE AGOSTO DE 2011)</small>
+
+#### Sección Quinta. De la Subdirección de Tesorería
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 2 DE AGOSTO DE 2011)</small>
 
 ###### Artículo 80.
 
-La Subdirección de Financiamientos y Tesorería tendrá las funciones siguientes:
+La Subdirección de Tesorería tendrá las funciones siguientes:
 
 I. Coordinar la administración e inversión de los recursos financieros de PEMEX y organismos subsidiarios, así como de los fondos específicos que le sean encomendados;
 
@@ -2267,19 +2685,39 @@ IX. Proponer al Director Corporativo de Finanzas la estrategia para las obligaci
 
 X. Coordinar la supervisión de las operaciones de tesorería, financiamientos y servicios bancarios y financieros de PEMEX y Organismos Subsidiarios;
 
-> <small>(ADICIONADA, D.O.F. 9 DE AGOSTO DE 2010)</small>
+> <small>(REFORMADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
 
-XI. Coordinar la consolidación de información para la atención de requerimientos de entidades reguladoras en materia de financiamientos y tesorería, y
+XI. Coordinar la consolidación de información para la atención de requerimientos de entidades reguladoras en materia de financiamientos y tesorería;
 
-> <small>(ADICIONADA, D.O.F. 9 DE AGOSTO DE 2010)</small>
+> <small>(REFORMADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
 
-XII. Supervisar la gestión orientada al uso de información para la toma de decisiones en PEMEX y Organismos Subsidiarios.
+XII. Supervisar la gestión orientada al uso de información para la toma de decisiones en PEMEX y Organismos Subsidiarios;
+
+> <small>(ADICIONADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
+
+XIII. Coordinar la integración y difusión de reportes e informes sobre la situación y el desempeño financiero de PEMEX, Organismos Subsidiarios y filiales;
+
+> <small>(ADICIONADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
+
+XIV. Coordinar y promover la relación entre PEMEX e inversionistas;
+
+> <small>(ADICIONADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
+
+XV. Promover y supervisar el análisis y documentación de proyectos de mitigación del impacto ambiental, con potencial de comercialización, y
+
+> <small>(ADICIONADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
+
+XVI. Coordinar y administrar los mecanismos de monetización y comercialización de proyectos de mitigación de impacto ambiental.
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 2 DE AGOSTO DE 2011)</small>
 
 ###### Artículo 81.
 
-La Gerencia de Financiamientos y Análisis de Mercado tendrá las funciones siguientes:
+La Gerencia de Financiamientos e Inversiones tendrá las funciones siguientes:
 
-I. Proponer el programa de financiamientos constitutivos de deuda pública de PEMEX;
+> <small>(REFORMADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
+
+I. Proponer el programa de financiamientos constitutivos de deuda pública de PEMEX, así como integrar y dar seguimiento al presupuesto de éste;
 
 > <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2010)</small>
 
@@ -2313,9 +2751,11 @@ XI. Supervisar las operaciones de financiamiento, servicios bancarios y financie
 
 XII. Consolidar la información para la atención de requerimientos de entidades reguladoras en materia de financiamientos.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 2 DE AGOSTO DE 2011)</small>
+
 ###### Artículo 82.
 
-La Gerencia de Tesorería tendrá las funciones siguientes:
+La Gerencia de Procesos de Tesorería tendrá las funciones siguientes:
 
 I. Elaborar la posición y proyección de caja consolidada de PEMEX y organismos subsidiarios, así como de los demás fondos específicos, con base en los programas y presupuestos autorizados;
 
@@ -2329,7 +2769,7 @@ IV. Realizar las operaciones de pago y cobro centralizado requeridas por PEMEX y
 
 V. Administrar el servicio de la deuda y de los instrumentos financieros derivados;
 
-VI. Integrar y dar seguimiento al presupuesto de la deuda;
+VI. (DEROGADA, D.O.F. 2 DE AGOSTO DE 2011)
 
 > <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2010)</small>
 
@@ -2347,31 +2787,73 @@ IX. Supervisar las operaciones de tesorería de PEMEX y Organismos Subsidiarios,
 
 X. Consolidar la información para la atención de requerimientos de entidades reguladoras en materia de tesorería.
 
+> <small>(ADICIONADO, D.O.F. 2 DE AGOSTO DE 2011)</small>
+
+Artículo 82 A.- La Gerencia de Relación con Inversionistas tendrá las funciones siguientes:
+
+I. Verificar la certidumbre, congruencia y consistencia de la información financiera de PEMEX, Organismos Subsidiarios y filiales que consolidan a los estados financieros de PEMEX, que se divulga en los mercados en coordinación con las áreas que generan o consolidan dicha información;
+
+II. Integrar, elaborar y difundir informes o reportes que reflejen la situación y desempeño de PEMEX para satisfacer los requerimientos de información del mercado y comunidad financiera;
+
+III. Promover que la información que se difunda de PEMEX sea congruente con los criterios utilizados en los mercados financieros, y acorde con estándares internacionales;
+
+IV. Fungir como enlace entre PEMEX y la comunidad inversionista, para la atención de solicitudes de información financiera para incrementar el entendimiento de los mercados y la comunidad financiera sobre la entidad;
+
+V. Promover el acercamiento con inversionistas, y
+
+VI. Mantener actualizada la información contenida en la sección de relación con inversionistas en el portal de PEMEX.
+
+> <small>(ADICIONADO, D.O.F. 2 DE AGOSTO DE 2011)</small>
+
+Artículo 82 B.- La Gerencia de Finanzas de Carbono tendrá las funciones siguientes:
+
+I. Definir, de acuerdo con el Plan de Negocios, la cartera de proyectos de mitigación del impacto ambiental con potencial de comercialización de PEMEX y Organismos Subsidiarios, con base en la estrategia de desarrollo sustentable;
+
+II. Instrumentar la estrategia de identificación y documentación de los proyectos de mitigación del impacto ambiental con potencial de comercialización;
+
+III. Elaborar y comunicar las reglas para la asignación, canalización, uso y seguimiento de los ingresos obtenidos de la comercialización de proyectos de mitigación del impacto ambiental de PEMEX y Organismos Subsidiarios, así como de los recursos obtenidos de fuentes distintas a PEMEX;
+
+IV. Proponer a las instancias competentes los mecanismos de monetización de proyectos de mitigación del impacto ambiental comercializables de PEMEX y Organismos Subsidiarios;
+
+V. Analizar, consolidar y supervisar el sistema de comercialización y monetización para la reducción de emisiones de gases de efecto invernadero en PEMEX y Organismos Subsidiarios, y
+
+VI. Evaluar el desempeño de la cartera de proyectos de mitigación del impacto ambiental con potencial de comercialización de PEMEX y Organismos Subsidiarios, en función de la estrategia del sistema de comercialización y monetización para la reducción de emisiones de gases de efecto invernadero.
+
 #### Sección Sexta. De la Subdirección de Administración de Riesgos
 
 ###### Artículo 83.
 
 La Subdirección de Administración de Riesgos tendrá las funciones siguientes:
 
-I. Cuantificar el impacto potencial de los principales riesgos de mercado que enfrentan PEMEX, sus organismos subsidiarios y, en su caso, filiales;
+> <small>(REFORMADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
 
-II. Proponer los límites de capital en riesgo financiero para PEMEX, sus organismos subsidiarios y para aquellas filiales cuyos consejos de administración así lo determinen;
+I. Proponer estrategias de administración de riesgos financieros de PEMEX, Organismos Subsidiarios y filiales;
 
-III. Coordinar, con la participación que corresponda a los organismos subsidiarios y filiales, la elaboración del programa integral de aseguramiento de PEMEX, sus organismos subsidiarios y filiales, así como someterlo a consideración del Director Corporativo de Finanzas;
+> <small>(REFORMADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
 
-IV. Desarrollar metodologías y herramientas para estimar los factores de riesgo de mercado que impactan a PEMEX y organismos subsidiarios;
+II. Proponer los límites de exposición a los riesgos financieros de PEMEX, Organismos Subsidiarios y filiales cuyos consejos de administración así lo determinen;
 
-> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2010)</small>
+> <small>(REFORMADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
 
-V. Supervisar la contratación y registro de operaciones de cobertura en PEMEX, Organismos Subsidiarios y, en su caso, filiales;
+III. Coordinar, con la participación que corresponda a los Organismos Subsidiarios y filiales, la elaboración del programa integral de aseguramiento de PEMEX, Organismos Subsidiarios y filiales, así como someterlo a consideración del Director Corporativo de Finanzas;
+
+> <small>(REFORMADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
+
+IV. Proponer metodologías y herramientas para estimar el impacto de los factores de riesgo financiero que enfrentan PEMEX, Organismos Subsidiarios y filiales, así como asesorar a dichas entidades;
+
+> <small>(REFORMADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
+
+V. Supervisar las posiciones financieras de PEMEX, Organismos Subsidiarios y filiales;
 
 > <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2010)</small>
 
 VI. Analizar los esquemas de financiamiento del pasivo laboral, y
 
-> <small>(ADICIONADA, D.O.F. 9 DE AGOSTO DE 2010)</small>
+VII. (DEROGADA, D.O.F. 2 DE AGOSTO DE 2011)
 
-VII. Supervisar la gestión orientada al uso de información para la toma de decisiones en PEMEX y Organismos Subsidiarios.
+> <small>(ADICIONADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
+
+VIII. Coordinar las actividades de la filial de reaseguro de PEMEX, así como las actividades de soporte de operación para la misma.
 
 ###### Artículo 84.
 
@@ -2379,23 +2861,39 @@ La Gerencia de Control de Riesgos tendrá las funciones siguientes:
 
 I. Participar en la definición de los tipos de instrumentos derivados que se podrán contratar;
 
-II. Proponer estrategias de manejo de riesgo de las posiciones financieras de PEMEX, sus organismos subsidiarios y, en su caso, filiales;
+> <small>(REFORMADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
 
-III. Coordinar la información de administración de riesgos respecto de las operaciones de cobertura;
+II. Proponer estrategias de administración de riesgos de las posiciones financieras de PEMEX, Organismos Subsidiarios y filiales;
 
-IV. Brindar asesoría a los organismos subsidiarios en la definición de estrategias de cobertura;
+> <small>(REFORMADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
 
-> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2010)</small>
+III. Coordinar la información de administración de riesgos respecto a las operaciones con instrumentos financieros derivados;
 
-V. Coordinar los trabajos de identificación y valuación de los derivados implícitos en PEMEX;
+> <small>(REFORMADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
 
-> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2010)</small>
+IV. Brindar asesoría a PEMEX, Organismos Subsidiarios y filiales en la definición de estrategias de administración de riesgos;
 
-VI. Cuantificar periódicamente la exposición a los principales factores de riesgo de mercado que enfrentan PEMEX, Organismos Subsidiarios y filiales, en su caso, y
+> <small>(REFORMADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
 
-> <small>(ADICIONADA, D.O.F. 9 DE AGOSTO DE 2010)</small>
+V. Coordinar los trabajos de identificación y valuación de los derivados implícitos en PEMEX, Organismos Subsidiarios y filiales;
 
-VII. Coordinar la gestión orientada al uso de información para la toma de decisiones en PEMEX y Organismos Subsidiarios.
+> <small>(REFORMADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
+
+VI. Cuantificar el impacto de los principales riesgos financieros que enfrentan PEMEX, Organismos Subsidiarios y filiales;
+
+VII. (DEROGADA, D.O.F. 2 DE AGOSTO DE 2011)
+
+> <small>(ADICIONADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
+
+VIII. Realizar análisis y diagnósticos financieros que coadyuven con las distintas unidades administrativas de PEMEX, Organismos Subsidiarios y filiales;
+
+> <small>(ADICIONADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
+
+IX. Monitorear las posiciones financieras de PEMEX, Organismos Subsidiarios y de aquellas filiales cuyos consejos de administración así lo determinen, y
+
+> <small>(ADICIONADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
+
+X. Desarrollar metodologías y herramientas para estimar el impacto de los factores de riesgo financiero que enfrentan PEMEX, Organismos Subsidiarios y filiales, así como validar las que le sean sometidas a su consideración.
 
 ###### Artículo 85.
 
@@ -2419,9 +2917,11 @@ VI. Coordinar con la Subdirección de Seguridad Industrial, Protección Ambienta
 
 VII. Determinar los criterios de distribución de primas entre PEMEX y Organismos Subsidiarios, y
 
-> <small>(ADICIONADA, D.O.F. 9 DE AGOSTO DE 2010)</small>
+VIII. (DEROGADA, D.O.F. 2 DE AGOSTO DE 2011)
 
-VIII. Coordinar la gestión orientada al uso de información para la toma de decisiones en PEMEX y Organismos Subsidiarios.
+> <small>(ADICIONADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
+
+IX. Realizar las actividades de soporte de operación de la filial de reaseguro de PEMEX.
 
 > <small>(ADICIONADO CON LAS SECCIONES Y ARTICULOS QUE LO INTEGRAN, D.O.F. 9 DE AGOSTO DE 2010)</small>
 
@@ -2477,9 +2977,25 @@ IV. Coordinar con las instancias internas y externas competentes la atención y 
 
 V. Coordinar con las unidades administrativas de la Dirección Corporativa de Tecnología de Información y Procesos de Negocio las acciones necesarias para fortalecer el control interno, el monitoreo de los indicadores de desempeño, la evaluación de riesgos, la identificación de desviaciones que afecten la consecución de los objetivos de la Dirección, la gestión de calidad la promoción de acciones de mejora continua de la Dirección Corporativa de Tecnología de Información y Procesos de Negocio;
 
-VI. Gestionar los dictámenes y las autorizaciones correspondientes ante los órganos competentes las estructuras ocupacionales, los programas de recursos humanos, las evaluaciones del desempeño individual y las prestaciones para los trabajadores adscritos a la Dirección Corporativa de Tecnología de Información y Procesos de Negocio, y
+> <small>(REFORMADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
 
-VII. Gestionar los bienes, insumos y servicios de apoyo administrativo requeridos por la Dirección Corporativa de Tecnología de Información y Procesos de Negocio.
+VI. Gestionar los dictámenes y las autorizaciones correspondientes ante los órganos competentes las estructuras ocupacionales, los programas de recursos humanos, las evaluaciones del desempeño individual y las prestaciones para los trabajadores adscritos a la Dirección Corporativa de Tecnología de Información y Procesos de Negocio;
+
+> <small>(REFORMADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
+
+VII. Gestionar los bienes, insumos y servicios de apoyo administrativo requeridos por la Dirección Corporativa de Tecnología de Información y Procesos de Negocio;
+
+> <small>(ADICIONADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
+
+VIII. Gestionar y operar el presupuesto necesario para la prestación de productos y servicios en PEMEX y Organismos Subsidiarios;
+
+> <small>(ADICIONADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
+
+IX. Tramitar las contrataciones de bienes y servicios de Tecnología de Información, sistemas industriales, componentes y servicios de Tecnología de Información en sistemas de automatización industrial, bases de datos en tiempo real y sistemas de información geográfica en PEMEX y Organismos Subsidiarios, y
+
+> <small>(ADICIONADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
+
+X. Administrar los contratos y activos de Tecnología de Información de PEMEX y Organismos Subsidiarios.
 
 > <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, D.O.F. 9 DE AGOSTO DE 2010)</small>
 
@@ -2503,9 +3019,17 @@ VI. Coordinar al interior de la Dirección Corporativa de Tecnología de Informa
 
 VII. Facilitar las herramientas que permitan a las unidades administrativas de PEMEX y Organismos Subsidiarios procesar la información.
 
-VIII. Proporcionar a los usuarios de negocio de PEMEX y Organismos Subsidiarios elementos para la mejora de los modelos de administración de procesos, explotación de áreas de oportunidad o soporte a la toma de decisiones o inteligencia de negocios, y
+> <small>(REFORMADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
 
-IX. Coordinar con las unidades administrativas de negocio y de la Dirección Corporativa de Tecnología de Información y Procesos de Negocio la integración y explotación de la información institucional.
+VIII. Proporcionar a los usuarios de negocio de PEMEX y Organismos Subsidiarios elementos para la mejora de los modelos de administración de procesos, explotación de áreas de oportunidad o soporte a la toma de decisiones o inteligencia de negocios;
+
+> <small>(REFORMADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
+
+IX. Coordinar con las unidades administrativas de negocio y de la Dirección Corporativa de Tecnología de Información y Procesos de Negocio la integración y explotación de la información institucional, y
+
+> <small>(ADICIONADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
+
+X. Proponer, establecer y aplicar la metodología para el cálculo de los precios y, en su caso de costos, por los servicios corporativos, que presta la Dirección Corporativa de Tecnología de Información y Procesos de Negocio.
 
 > <small>(ADICIONADO, D.O.F. 9 DE AGOSTO DE 2010)</small>
 
@@ -2519,9 +3043,17 @@ III. Dar seguimiento a la ejecución de los proyectos que son responsabilidad de
 
 IV. Coordinar al interior de la Dirección Corporativa de Tecnología de Información y Procesos de Negocio la integración de proyectos de mejora de procesos en proyectos institucionales, para la conformación del portafolio de PEMEX y Organismos Subsidiarios;
 
-V. Coordinar la elaboración y administración de acuerdos de niveles de servicio (SLA Service Level Agreement) de los productos y servicios de Tecnología de Información, y
+> <small>(REFORMADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
 
-VI. Ejecutar las iniciativas de gobierno electrónico en PEMEX y Organismos Subsidiarios.
+V. Coordinar la elaboración y administración de acuerdos de niveles de servicio (SLA Service Level Agreement) de los productos y servicios de Tecnología de Información;
+
+> <small>(REFORMADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
+
+VI. Ejecutar las iniciativas de gobierno electrónico en PEMEX y Organismos Subsidiarios, y
+
+> <small>(ADICIONADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
+
+VII. Integrar y determinar al interior de la Dirección Corporativa de Tecnología de Información y Procesos de Negocio los requerimientos presupuestales en materia de Tecnología de Información de PEMEX y Organismos Subsidiarios.
 
 > <small>(ADICIONADO, D.O.F. 9 DE AGOSTO DE 2010)</small>
 
@@ -2533,25 +3065,19 @@ II. Mantener actualizada la información sobre arquitectura, estándares y linea
 
 III. Monitorear y analizar el mercado y sus tendencias, para elaborar propuestas y ejecutar el desarrollo de la Tecnología de Información en PEMEX y Organismos Subsidiarios;
 
-IV. Evaluar y seleccionar los productos y servicios de Tecnología de Información que requieran las unidades administrativas de PEMEX y Organismos Subsidiarios, y
+> <small>(REFORMADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
 
-V. Proponer los mecanismos para el costeo de los servicios corporativos de Tecnología de Información y los montos correspondientes.
+IV. Evaluar y seleccionar los productos y servicios de Tecnología de Información que requieran las unidades administrativas de PEMEX y Organismos Subsidiarios;
 
-> <small>(ADICIONADO, D.O.F. 9 DE AGOSTO DE 2010)</small>
+> <small>(REFORMADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
 
-Artículo 85 F.- La Gerencia de Procura y Activos tendrá las funciones siguientes:
+V. Proponer los mecanismos para el costeo de los servicios corporativos de Tecnología de Información y los montos correspondientes, y
 
-I. Integrar los requerimientos en materia de Tecnología de Información, para formular y gestionar el presupuesto necesario para la prestación de productos y servicios en PEMEX y Organismos Subsidiarios;
+> <small>(ADICIONADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
 
-II. Solicitar a las instancias competentes, en su caso, la autorización para la adquisición de bienes o contratación de servicios de Tecnología de Información en PEMEX y Organismos Subsidiarios;
+VI. Elaborar y proponer los dictámenes sobre la procedencia de las adquisiciones o contrataciones de productos y servicios de Tecnología de Información, así como sus componentes en los proyectos de negocio.
 
-III. Preparar los dictámenes sobre la procedencia de las adquisiciones o contrataciones de productos y servicios de Tecnología de Información, así como sus componentes en los proyectos de negocio;
-
-IV. Tramitar las contrataciones de bienes y servicios de Tecnología de Información, sistemas industriales, componentes y servicios de Tecnología de Información en sistemas de automatización industrial, bases de datos en tiempo real y sistemas de información geográfica en PEMEX y Organismos Subsidiarios;
-
-V. Administrar los activos de Tecnología de Información de PEMEX y Organismos Subsidiarios, y
-
-VI. Administrar los contratos de Tecnología de Información de PEMEX y Organismos Subsidiarios.
+Artículo 85 F.- (DEROGADO, D.O.F. 2 DE AGOSTO DE 2011)
 
 > <small>(ADICIONADO, D.O.F. 9 DE AGOSTO DE 2010)</small>
 
@@ -2585,7 +3111,9 @@ X. Operar la infraestructura tecnológica que soporta las bases de datos institu
 
 Artículo 85 H.- La Subdirección de Infraestructura Tecnológica tendrá las funciones siguientes:
 
-I. Administrar la prestación de los servicios de Tecnología de Información en PEMEX y Organismos Subsidiarios;
+> <small>(REFORMADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
+
+I. Administrar y supervisar la prestación de los servicios de Tecnología de Información y SCADA en PEMEX y Organismos Subsidiarios;
 
 II. Supervisar la prestación de los servicios integrales de operación y soporte de Infraestructura de Tecnología de Información en PEMEX y Organismos Subsidiarios;
 
@@ -2645,23 +3173,39 @@ V. Ejecutar, en la infraestructura tecnológica las políticas de seguridad y se
 
 VI. Administrar la seguridad en el acceso y el control de los usuarios y privilegios en los sistemas de información y aplicaciones de PEMEX y Organismos Subsidiarios.
 
-> <small>(ADICIONADO, D.O.F. 9 DE AGOSTO DE 2010)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 2 DE AGOSTO DE 2011)</small>
 
-Artículo 85 K.- La Gerencia de Conectividad tendrá las funciones siguientes:
+Artículo 85 K.- La Gerencia de Ingeniería de Telecomunicaciones tendrá las funciones siguientes:
+
+> <small>(ADICIONADA, D.O.F. 9 DE AGOSTO DE 2010)</small>
 
 I. Proporcionar soluciones integrales de telecomunicaciones a PEMEX y Organismos Subsidiarios;
 
+> <small>(ADICIONADA, D.O.F. 9 DE AGOSTO DE 2010)</small>
+
 II. Administrar, operar, mantener y monitorear los sistemas e infraestructura de telecomunicaciones de PEMEX y Organismos Subsidiarios;
+
+> <small>(ADICIONADA, D.O.F. 9 DE AGOSTO DE 2010)</small>
 
 III. Atender las solicitudes y los requerimientos de redes, sistemas y servicios de telecomunicaciones en PEMEX y Organismos Subsidiarios;
 
+> <small>(ADICIONADA, D.O.F. 9 DE AGOSTO DE 2010)</small>
+
 IV. Participar en la documentación de casos de negocio de proyectos que, en forma total o parcial, incluyen productos o servicios de transmisión de datos, voz, video y transmisión en tiempo real;
+
+> <small>(ADICIONADA, D.O.F. 9 DE AGOSTO DE 2010)</small>
 
 V. Identificar, controlar, disminuir o eliminar los riesgos de seguridad en las redes, sistemas y servicios de telecomunicaciones que soportan los procesos de negocio de PEMEX y Organismos Subsidiarios;
 
+> <small>(ADICIONADA, D.O.F. 9 DE AGOSTO DE 2010)</small>
+
 VI. Establecer planes de contingencia y apoyar a PEMEX y Organismos Subsidiarios con servicios de telecomunicaciones en situaciones de emergencia;
 
-VII. Establecer y administrar acuerdos operacionales (OLA Operational Level Agreement) y acuerdos de niveles de servicio, (SLA Service Level Agreeement) con las unidades administrativas de PEMEX y Organismos Subsidiarios, y
+> <small>(REFORMADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
+
+VII. Establecer y administrar acuerdos operacionales (OLA Operational Level Agreement) y ejecutar los niveles de servicio (SLA Service Level Agreeement) celebrados con las unidades administrativas de PEMEX y Organismos Subsidiarios, y
+
+> <small>(ADICIONADA, D.O.F. 9 DE AGOSTO DE 2010)</small>
 
 VIII. Administrar y supervisar los servicios de telecomunicaciones proporcionados por terceros.
 
@@ -2689,6 +3233,22 @@ IX. Administrar la continuidad de los servicios de Tecnología de Información e
 
 X. Administrar y, en su caso, recibir los servicios de soporte a la infraestructura de Tecnología de Información proporcionados por terceros.
 
+> <small>(ADICIONADO, D.O.F. 2 DE AGOSTO DE 2011)</small>
+
+Artículo 85 L BIS.- La Gerencia de Automatización Industrial y Sistemas SCADA tendrá las funciones siguientes:
+
+I. Diseñar y proporcionar los servicios digitales de monitoreo y control a los procesos industriales y SCADA, acorde a los requerimientos de PEMEX y Organismos Subsidiarios;
+
+II. Administrar los recursos humanos, materiales y financieros para mantener los sistemas de automatización industrial y SCADA;
+
+III. Diseñar, implantar y mantener las herramientas de Tecnologías de Información para soluciones avanzadas que apoyen la optimización de los procesos productivos de PEMEX y Organismos Subsidiarios;
+
+IV. Evaluar y coordinar iniciativas, estrategias y proyectos de automatización industrial y SCADA en PEMEX y Organismos Subsidiarios;
+
+V. Gestionar los requerimientos de automatización industrial y SCADA solicitados por PEMEX y Organismos Subsidiarios, y
+
+VI. Proveer mecanismos para la seguridad informática, confiabilidad y redundancia en redes de comunicación industrial y en los sistemas SCADA acorde a los requerimientos de PEMEX y Organismos Subsidiarios.
+
 > <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, D.O.F. 9 DE AGOSTO DE 2010)</small>
 
 #### Sección Cuarta. De la Subdirección de Integración de Soluciones y Procesos de Negocio
@@ -2715,7 +3275,9 @@ VIII. Administrar y supervisar los servicios de diseño, desarrollo e implantaci
 
 IX. Administrar el desarrollo, mantenimiento y evolución de aplicaciones y sistemas de información de PEMEX y Organismos Subsidiarios, y
 
-X. Administrar y supervisar los servicios de información geográfica y de automatización industrial en PEMEX y Organismos Subsidiarios.
+> <small>(REFORMADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
+
+X. Administrar y supervisar los servicios técnicos especializados y de información geográfica en PEMEX y Organismos Subsidiarios.
 
 > <small>(ADICIONADO, D.O.F. 9 DE AGOSTO DE 2010)</small>
 
@@ -2755,15 +3317,23 @@ VIII. Instrumentar la estrategia de gestión del cambio y evolución cultural pa
 
 IX. Coordinar y promover las interrelaciones entre los procesos que conforman el sistema de gestión por procesos de PEMEX y Organismos Subsidiarios;
 
-X. Coordinar la vinculación de los procesos de negocio con la cadena de valor de PEMEX y Organismos Subsidiarios, y
+> <small>(REFORMADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
 
-XI. Coordinar con las áreas internas de la Dirección Corporativa de Tecnología de Información y Procesos de Negocio el desarrollo de sistemas de información o la configuración y parametrización de los sistemas empresariales de recursos requeridos por el sistema de gestión por procesos de PEMEX y Organismos Subsidiarios.
+X. Coordinar la vinculación de los procesos de negocio con la cadena de valor de PEMEX y Organismos Subsidiarios;
+
+> <small>(REFORMADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
+
+XI. Coordinar con las áreas internas de la Dirección Corporativa de Tecnología de Información y Procesos de Negocio el desarrollo de sistemas de información o la configuración y parametrización de los sistemas empresariales de recursos requeridos por el sistema de gestión por procesos de PEMEX y Organismos Subsidiarios, y
+
+> <small>(ADICIONADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
+
+XII. Proporcionar las herramientas tecnológicas, asesoría y apoyo a las unidades administrativas de negocio en el modelado de los procesos incluidos en el sistema de gestión por procesos de PEMEX y Organismos Subsidiarios.
 
 > <small>(ADICIONADO, D.O.F. 9 DE AGOSTO DE 2010)</small>
 
 Artículo 85 O.- La Gerencia Centro de Competencia tendrá las funciones siguientes:
 
-I. Proporcionar las herramientas, asesoría y apoyo a las unidades administrativas de negocio en el modelado de los procesos incluidos en el sistema de gestión por procesos de PEMEX y Organismos Subsidiarios;
+I. (DEROGADA, D.O.F. 2 DE AGOSTO DE 2011)
 
 II. Operar el centro de competencia de negocios de PEMEX y Organismos Subsidiarios;
 
@@ -2779,25 +3349,33 @@ VII. Verificar que la implementación de sistemas de información en PEMEX y Org
 
 VIII. Ejecutar el proceso de mejora continua de las soluciones implementadas en los sistemas empresariales de recursos de PEMEX y Organismos Subsidiarios.
 
-> <small>(ADICIONADO, D.O.F. 9 DE AGOSTO DE 2010)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 2 DE AGOSTO DE 2011)</small>
 
-Artículo 85 P.- La Gerencia de Automatización Industrial tendrá las funciones siguientes:
+Artículo 85 P.- La Gerencia de Servicios Técnicos Especializados tendrá las funciones siguientes:
 
-I. Planear, desarrollar y operar los sistemas de información geográfica y de la automatización industrial integrada a la plataforma de tiempo real en los procesos industriales de PEMEX y Organismos Subsidiarios;
+> <small>(REFORMADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
 
-II. Evaluar técnicamente los proyectos de sistemas de información geográfica y automatización industrial de PEMEX y Organismos Subsidiarios;
+I. Coordinar, gestionar, evaluar y proporcionar la mejora continua de los servicios de administración de datos técnicos, información técnica, acceso a tecnología, servicios de información geográfica y servicios relacionados para las actividades sustantivas de PEMEX y Organismos Subsidiarios;
 
-III. Coordinar la documentación de casos de negocio de proyectos que incluyan productos o servicios de sistemas de información geográfica y de automatización industrial de PEMEX y Organismos Subsidiarios;
+> <small>(REFORMADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
 
-IV. Administrar la plataforma, sistemas, aplicaciones y bases de datos de tiempo real obtenidos de sensores e instrumentos de monitoreo y control en las instalaciones industriales de PEMEX y Organismos Subsidiarios;
+II. Proporcionar el soporte técnico de los flujos de información integrados de los procesos sustantivos de PEMEX y Organismos Subsidiarios;
 
-V. Desarrollar y administrar interfaces de intercambio de datos de sistemas digitales de monitoreo y control, con la plataforma de tiempo real de PEMEX y Organismos Subsidiarios;
+III. (DEROGADA, D.O.F. 2 DE AGOSTO DE 2011)
 
-VI. Desarrollar e implementar sistemas técnicos industriales, aplicaciones avanzadas de automatización y tableros de control con información en tiempo real en PEMEX y Organismos Subsidiarios;
+> <small>(REFORMADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
 
-VII. Apoyar la operación y proporcionar soporte técnico a la infraestructura tecnológica de automatización industrial de PEMEX y Organismos Subsidiarios, y
+IV. Establecer y coordinar mecanismos para optimizar los flujos de trabajo de los procesos sustantivos del negocio, y
 
-VIII. Participar en el diseño, desarrollo y administración de proyectos de sistemas de información geográfica y de automatización industrial de PEMEX y Organismos Subsidiarios.
+> <small>(REFORMADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
+
+V. Adquirir, analizar y difundir información geoespacial para PEMEX y Organismos Subsidiarios.
+
+VI. (DEROGADA, D.O.F. 2 DE AGOSTO DE 2011)
+
+VII. (DEROGADA, D.O.F. 2 DE AGOSTO DE 2011)
+
+VIII. (DEROGADA, D.O.F. 2 DE AGOSTO DE 2011)
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ESTATUTO.</small>
 
@@ -2957,9 +3535,9 @@ DEROGADO CON LAS SECCIONES Y ARTICULOS QUE LO INTEGRAN, D.O.F. 9 DE AGOSTO DE 20
 
 La Dirección Corporativa de Operaciones tendrá las funciones siguientes:
 
-> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2010)</small>
+> <small>(REFORMADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
 
-I. Dirigir la planeación estratégica de PEMEX y Organismos Subsidiarios;
+I. Dirigir la planeación estratégica, así como gestionar la estrategia institucional de PEMEX y Organismos Subsidiarios;
 
 > <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2010)</small>
 
@@ -2968,6 +3546,10 @@ II. Coordinar la operación de actividades entre PEMEX y Organismos Subsidiarios
 > <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2010)</small>
 
 III. Conducir a PEMEX y Organismos Subsidiarios, en la elaboración del Plan de Negocios, así como definir el escenario que servirá de base para la determinación de los productos de las actividades de planeación estratégica y operativa, presupuesto y análisis de programas y proyectos de inversión;
+
+> <small>(ADICIONADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
+
+III-A. Conducir a PEMEX y Organismos Subsidiarios, en la elaboración de la estrategia tecnológica institucional;
 
 > <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2010)</small>
 
@@ -2979,9 +3561,9 @@ V. Dirigir a PEMEX y Organismos Subsidiarios en la integración, evaluación y j
 
 VI. Establecer las directrices para asegurar la disciplina y coordinación operativa de los organismos subsidiarios;
 
-> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2010)</small>
+> <small>(REFORMADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
 
-VII. Proponer directrices y coordinar la implantación de las políticas y estrategias institucionales en materia de seguridad industrial y salud en el trabajo, protección ambiental y desarrollo sustentable, logística, transporte y distribución, suministros y mantenimiento;
+VII. Establecer directrices y coordinar la implantación de las políticas y estrategias institucionales en materia de seguridad industrial y salud en el trabajo, protección ambiental y desarrollo sustentable, logística de hidrocarburos y sus derivados, suministros y mantenimiento;
 
 > <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2010)</small>
 
@@ -3013,7 +3595,9 @@ XII. Dirigir las estrategias institucionales en materia de desarrollo sustentabl
 
 XIII. Dirigir las actividades que PEMEX y organismos subsidiarios deban llevar a cabo en términos de la Ley Federal sobre Metrología y Normalización, y
 
-XIV. Proponer directrices y coordinar la implantación de políticas y acciones para promover el desarrollo de proveedores y contenido nacional, así como rendir a la Dirección General los informes correspondientes.
+> <small>(REFORMADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
+
+XIV. Proponer directrices y coordinar la implantación de políticas y acciones relativas al desarrollo de proveedores, contratistas y contenido nacional.
 
 ###### Artículo 106.
 
@@ -3051,7 +3635,9 @@ VI. Instrumentar acciones a fin de fortalecer el control interno de las unidades
 
 VII. Vigilar y supervisar la difusión y cumplimiento de la normatividad en materia de recursos humanos, recursos materiales y financieros en la Dirección Corporativa de Operaciones;
 
-VIII. Establecer, en coordinación con las instancias normativas, la atención de los servicios y prestaciones que en materia de recursos humanos y relaciones laborales se proporcionen a la Dirección Corporativa de Operaciones;
+> <small>(REFORMADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
+
+VIII. Coordinar con las instancias normativas, los servicios y prestaciones que en materia de recursos humanos y relaciones laborales se proporcionen a la Dirección Corporativa de Operaciones;
 
 IX. Administrar y gestionar los servicios de apoyo administrativo, requeridos por el personal de la Dirección Corporativa de Operaciones;
 
@@ -3135,9 +3721,9 @@ VII. Coordinar la participación de PEMEX y Organismos Subsidiarios en las accio
 
 La Subdirección de Planeación Estratégica y Operativa tendrá las funciones siguientes:
 
-> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2010)</small>
+> <small>(REFORMADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
 
-I. Coordinar la elaboración del Plan de Negocios, la integración de la información operativa de los Programas Operativos de PEMEX y Organismos Subsidiarios y sus programas de ejecución, así como definir y coordinar las actividades para llevar a cabo la planeación estratégica y operativa de PEMEX y Organismos Subsidiarios y verificar su cumplimiento;
+I. Coordinar la elaboración del Plan de Negocios y de la estrategia tecnológica institucional; la integración de la información operativa de los Programas Operativos de PEMEX y Organismos Subsidiarios y sus programas de ejecución, así como definir y coordinar las actividades para llevar a cabo la planeación estratégica y operativa de PEMEX y Organismos Subsidiarios y verificar su cumplimiento;
 
 > <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2010)</small>
 
@@ -3159,9 +3745,9 @@ III-B. Dirigir la elaboración del diagnóstico de la situación operativa de PE
 
 III-C. Dirigir la integración de los balances operativos multianuales para la elaboración de los escenarios de planeación de mediano y largo plazos del Plan de Negocios;
 
-> <small>(ADICIONADA, D.O.F. 9 DE AGOSTO DE 2010)</small>
+> <small>(REFORMADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
 
-III-D. Llevar a cabo, con la participación de PEMEX y Organismos Subsidiarios, el seguimiento y la evaluación del cumplimiento de metas de desempeño del Plan de Negocios, del Programa Operativo y Financiero Anual de Trabajo o de cualquier otro producto relacionado con la planeación estratégica y operativa, así como determinar las acciones necesarias a ser ejecutadas por PEMEX y Organismos Subsidiarios;
+III-D. Coordinar la gestión de la estrategia y llevar a cabo, con la participación de PEMEX y Organismos Subsidiarios, la definición de metas de desempeño; realizar el seguimiento y la evaluación de dichas metas en el Plan de Negocios, en el Programa Operativo y Financiero Anual de Trabajo o en cualquier otro producto relacionado con la planeación estratégica y operativa, así como determinar las acciones necesarias a ser ejecutadas por PEMEX y Organismos Subsidiarios;
 
 > <small>(ADICIONADA, D.O.F. 9 DE AGOSTO DE 2010)</small>
 
@@ -3205,13 +3791,17 @@ X. Coordinar la elaboración, integración e implantación en PEMEX y Organismos
 
 La Gerencia de Planeación Estratégica tendrá las funciones siguientes:
 
-> <small>(ADICIONADA, D.O.F. 9 DE AGOSTO DE 2010)</small>
+> <small>(REFORMADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
 
-I. Coordinar a PEMEX y Organismos Subsidiaros en la ejecución de las actividades para llevar a cabo la planeación estratégica;
+I. Coordinar a PEMEX y Organismos Subsidiarios en la ejecución de las actividades para llevar a cabo la planeación estratégica e integrar la estrategia tecnológica institucional;
 
-> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2010)</small>
+> <small>(REFORMADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
 
-I-A. Elaborar, con la participación de PEMEX y Organismos Subsidiarios, el diagnóstico de la situación operativa de éstos, el análisis estratégico y los escenarios del entorno para la elaboración de los productos asociados a la planeación estratégica, así como participar en la elaboración de las proyecciones de demanda de hidrocarburos, sus derivados y otros productos relacionados;
+I-A. Elaborar, con la participación de PEMEX y Organismos Subsidiarios, el diagnóstico de la situación operativa de éstos, el análisis estratégico y los escenarios del entorno, así como participar en la elaboración del análisis del entorno, de las proyecciones de precios y de demanda de hidrocarburos, sus derivados y otros productos asociados a la planeación estratégica y operativa;
+
+> <small>(ADICIONADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
+
+I-B. Identificar y definir, en coordinación con PEMEX y Organismos Subsidiarios, estándares de referencia para definir las metas de desempeño de los planes y programas institucionales;
 
 II. Participar en la realización de estudios para la definición de iniciativas y proyectos que conduzcan al logro de los objetivos estratégicos;
 
@@ -3235,9 +3825,9 @@ V. Formular, en coordinación con los Organismos Subsidiarios y PEMEX, el Plan d
 
 VI. Proporcionar los elementos y participar en la verificación de la alineación de los programas y proyectos de inversión, el Programa Operativo y Financiero Anual de Trabajo y el Balance Financiero, con los objetivos y metas del Plan de Negocios;
 
-> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2010)</small>
+> <small>(REFORMADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
 
-VII. Administrar el mecanismo que se establezca para llevar a cabo la gestión de la estrategia;
+VII. Diseñar y administrar el mecanismo para llevar a cabo la gestión de la estrategia;
 
 > <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2010)</small>
 
@@ -3287,9 +3877,9 @@ La Gerencia de Análisis y Programación de Operaciones tendrá las funciones si
 
 I. Definir mecanismos para que las unidades de PEMEX y Organismos Subsidiarios establezcan metas operativas anuales realizables, que guarden consistencia con los objetivos estratégicos de PEMEX;
 
-> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2010)</small>
+> <small>(REFORMADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
 
-II. Integrar la información operativa de PEMEX y Organismos Subsidiarios para la elaboración del Programa Operativo y Financiero Anual de Trabajo, los programas operativos trimestrales y cualquier otro programa operativo que se requiera, verificando su consistencia y congruencia con la ejecución de las operaciones, con el presupuesto y con la planeación estratégica;
+II. Integrar la información operativa de PEMEX y Organismos Subsidiarios para la elaboración de los programas presupuestales de operación mensuales, trimestrales y anuales de PEMEX para el programa operativo anual de trabajo y cualquier programa operativo que se requiera, verificando su consistencia y congruencia con la ejecución de las operaciones, con el presupuesto y con la planeación estratégica;
 
 > <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2010)</small>
 
@@ -3347,81 +3937,133 @@ XI. Evaluar el impacto potencial de las prospectivas de políticas públicas de 
 
 La Subdirección de Operación y Ejecución de la Estrategia tendrá las funciones siguientes:
 
-I. Evaluar y dar seguimiento permanente a la operación, producción, ventas, transporte y distribución de productos de los organismos subsidiarios y, en su caso, filiales;
+> <small>(REFORMADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
 
-II. Coordinar, promover, consolidar, y dar seguimiento a los acuerdos adoptados entre los organismos subsidiarios que promuevan el cumplimiento de los programas operativos;
+I. Evaluar y dar seguimiento a la operación, al mercado y a los resultados económicos de los Organismos Subsidiarios y, en su caso, filiales;
 
-III. Apoyar a los organismos en la solución de controversias operativas, de proyectos de inversión y políticas comerciales para maximizar el valor de la operación de PEMEX;
+> <small>(REFORMADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
 
-IV. Analizar y dar seguimiento al cumplimiento del programa trimestral y anual de operación e identificar las causas de desviaciones y, proponer acciones correctivas;
+II. Coordinar, promover, consolidar, y dar seguimiento a los acuerdos adoptados entre los Organismos Subsidiarios y el cumplimiento de los programas operativos, incluyendo planes de contingencia;
 
-V. Participar en el proceso para el desarrollo de los nuevos negocios en PEMEX;
+> <small>(REFORMADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
 
-VI. Seleccionar, analizar, evaluar y desarrollar las oportunidades con mayor potencial y promover si es el caso, los estudios administrativos, financieros y jurídicos que se requieran para el desarrollo de nuevos negocios;
+III. Resolver controversias operativas y comerciales entre los Organismos Subsidiarios, así como gestionar su implementación;
 
-VII. Dar seguimiento al avance de los proyectos críticos de inversión que impactan las metas económicas y operativas de corto y mediano plazos de PEMEX;
+> <small>(REFORMADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
 
-VIII. Coordinar el desarrollo de los proyectos de cogeneración de PEMEX y organismos subsidiarios, y
+IV. Analizar y dar seguimiento al cumplimiento de los programas operativos, identificar las causas de desviaciones y proponer acciones correctivas;
 
-IX. Coordinar a nivel institucional las actividades derivadas de los trabajos del Comité Consultivo Nacional en Materia de Hidrocarburos.
+V. (DEROGADA, D.O.F. 2 DE AGOSTO DE 2011)
+
+VI. (DEROGADA, D.O.F. 2 DE AGOSTO DE 2011)
+
+VII. (DEROGADA, D.O.F. 2 DE AGOSTO DE 2011)
+
+> <small>(REFORMADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
+
+VIII. Coordinar el diseño y la ejecución de la estrategia de cogeneración de PEMEX y Organismos Subsidiarios, y
+
+IX. (DEROGADA, D.O.F. 2 DE AGOSTO DE 2011)
+
+> <small>(ADICIONADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
+
+X. Coordinar la identificación, evaluación e implementación de la mejora operativa.
 
 ###### Artículo 114.
 
 La Gerencia de Seguimiento y Coordinación Operativa tendrá las funciones siguientes:
 
-I. Consolidar y validar la información en materia de producción, manejo, ventas y distribución de las cadenas de crudo y gas natural, así como elaborar y mantener actualizadas la información y estadísticas operativas;
+> <small>(REFORMADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
 
-II. Coordinar el cumplimiento a través de grupos operativos, de los programas operativos y realizar análisis técnico-económicos de corto plazo de las iniciativas operativas y de inversión, así como promover los acuerdos y mecanismos de coordinación con los organismos subsidiarios;
+I. Consolidar y validar la información en materia de producción, manejo, ventas, distribución y los estados de resultados de las cadenas de crudo y gas natural;
+
+> <small>(REFORMADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
+
+II. Coordinar el cumplimiento a través de grupos operativos, de los programas operativos y realizar análisis técnico-económicos de corto plazo de las iniciativas operativas, así como promover los acuerdos y mecanismos de coordinación con los Organismos Subsidiarios;
 
 III. Coordinar los análisis de la operación integral de las cadenas de crudo y gas y aquellos que se generen mediante acuerdos y compromisos orientados a maximizar el valor económico;
 
-IV. Apoyar a los organismos subsidiarios en la solución de controversias operativas, de inversión y comerciales para maximizar el valor de la operación de PEMEX;
+> <small>(REFORMADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
 
-V. Identificar las áreas de oportunidad, promover iniciativas operativas, de inversión y comerciales, para mejorar la eficiencia operativa de los organismos subsidiarios y de PEMEX;
+IV. Apoyar a los Organismos Subsidiarios en la solución de controversias operativas y comerciales, y
 
-VI. Coordinar la operación y trámites regulatorios y administrativos necesarios en PEMEX y organismos subsidiarios, para la operación del sistema de administración de energía eléctrica;
+> <small>(REFORMADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
 
-VII. Supervisar el desarrollo de los proyectos de cogeneración de PEMEX y organismos subsidiarios, y
+V. Identificar áreas de oportunidad y riesgos operativos, así como promover iniciativas de mejora y planes de contingencia operativas y comerciales de los Organismos Subsidiarios y de PEMEX.
 
-VIII. Participar en los trabajos del Comité Consultivo Nacional en Materia de Hidrocarburos.
+VI. (DEROGADA, D.O.F. 2 DE AGOSTO DE 2011)
+
+VII. (DEROGADA, D.O.F. 2 DE AGOSTO DE 2011)
+
+VIII. (DEROGADA, D.O.F. 2 DE AGOSTO DE 2011)
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 2 DE AGOSTO DE 2011)</small>
 
 ###### Artículo 115.
 
-La Gerencia de Evaluación de la Estrategia tendrá las funciones siguientes:
+La Gerencia de Indicadores Operativos y de Estándares de Referencia tendrá las funciones siguientes:
 
-I. Concentrar, integrar, sistematizar y difundir, en el ámbito interno y externo, la información relativa a la ejecución de los programas operativos de PEMEX y organismos subsidiarios;
+> <small>(REFORMADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
 
-II. Evaluar el cumplimiento del programa trimestral y anual de operación, identificar las causas de desviaciones y proponer acciones correctivas, lo cual hará del conocimiento del comité competente del Consejo de Administración, por conducto del Director General, para los efectos que, en su caso, el Consejo determine;
+I. Concentrar, integrar, sistematizar, validar y difundir la información relativa a la operación de PEMEX y Organismos Subsidiarios, así como elaborar y mantener actualizadas la información y estadísticas operativas;
 
-III. Determinar el impacto en el cumplimiento de las metas operativas anuales derivado de desviaciones en la ejecución de los principales proyectos de inversión, identificar causas de sus desviaciones y, en su caso, proponer acciones correctivas lo cual hará del conocimiento del comité competente del Consejo de Administración, por conducto del Director General, para los efectos que, en su caso, el Consejo determine;
+II. (DEROGADA, D.O.F. 2 DE AGOSTO DE 2011)
 
-IV. Evaluar la contribución del desempeño operativo de corto plazo con el cumplimiento de las metas de largo plazo, así como realizar la verificación del alineamiento estratégico al corto plazo, lo cual hará del conocimiento del comité competente del Consejo de Administración, por conducto del Director General, para los efectos que, en su caso, el Consejo determine;
+III. (DEROGADA, D.O.F. 2 DE AGOSTO DE 2011)
 
-V. Supervisar la ejecución de los programas enfocados a incrementar la eficiencia operativa de PEMEX y organismos subsidiarios, mediante el seguimiento de metas e indicadores operativos;
+IV. (DEROGADA, D.O.F. 2 DE AGOSTO DE 2011)
 
-VI. Identificar áreas de oportunidad operativa al corto plazo, mediante la comparación sistemática de indicadores de la gestión de PEMEX respecto a estándares de referencia;
+V. (DEROGADA, D.O.F. 2 DE AGOSTO DE 2011)
 
-VII. Integrar la información soporte para las reuniones del grupo operativo o de cualquier otro foro en que participe la Subdirección de Operación y Ejecución de la Estrategia coadyuvando en la generación de acuerdos e iniciativas de mejora operativa y de inversión para mejorar la eficiencia en las operaciones, y
+> <small>(REFORMADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
 
-VIII. Diseñar y administrar las herramientas y metodologías necesarias, para el seguimiento integral de las operaciones y la ejecución del programa anual de operación de PEMEX y organismos subsidiarios.
+VI. Identificar las oportunidades de mejora operativa de corto plazo, mediante el análisis sistemático de indicadores de gestión de PEMEX y Organismos Subsidiarios;
+
+VII. (DEROGADA, D.O.F. 2 DE AGOSTO DE 2011)
+
+> <small>(REFORMADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
+
+VIII. Diseñar y administrar las herramientas y metodologías necesarias, para el seguimiento integral de las operaciones y la ejecución del programa anual de operación de PEMEX y Organismos Subsidiarios;
+
+> <small>(ADICIONADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
+
+IX. Diseñar, analizar y dar seguimiento a los indicadores de desempeño operativo de corto plazo, y
+
+> <small>(ADICIONADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
+
+X. Supervisar la ejecución de la estrategia de cogeneración de PEMEX y Organismos Subsidiarios.
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 2 DE AGOSTO DE 2011)</small>
 
 ###### Artículo 116.
 
-La Gerencia de Desarrollo de Nuevos Proyectos tendrá las funciones siguientes:
+La Gerencia de Evaluación y Análisis tendrá las funciones siguientes:
 
-I. Diseñar, desarrollar, instrumentar y evaluar el proceso para el desarrollo de los nuevos negocios en PEMEX;
+> <small>(REFORMADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
 
-II. Identificar en coordinación con los organismos subsidiarios las oportunidades operativas y de mercado para el desarrollo de nuevos negocios;
+I. Evaluar el cumplimiento de programas operativos y su impacto económico de PEMEX y Organismos Subsidiarios;
 
-III. Seleccionar, analizar, evaluar y desarrollar las oportunidades con mayor potencial y promover, si es el caso, los estudios administrativos, financieros y jurídicos que se requieran para el desarrollo de nuevos negocios;
+> <small>(REFORMADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
 
-IV. Jerarquizar la cartera de nuevos negocios en función de la factibilidad técnica, legal y económica, que estén alineados con la estrategia de PEMEX y maximicen el valor de la línea de negocio para PEMEX;
+II. Identificar, analizar y evaluar áreas de mejora operativa de corto plazo y oportunidades de mercado de PEMEX y Organismos Subsidiarios;
 
-V. Analizar el comportamiento físico-financiero de los proyectos críticos de inversión que impactan las metas económicas y operativas de corto y mediano plazos de PEMEX;
+> <small>(REFORMADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
 
-VI. Verificar la incorporación de las obras críticas en los programas operativos y analizar el impacto de las desviaciones en sus programas de ejecución, y
+III. Analizar programas de corto plazo y su consistencia con programas de mantenimiento, libranzas, nueva infraestructura, presupuesto, así como identificar riesgos en el cumplimiento de los mismos;
 
-VII. Analizar las propuestas de creación de plazas temporales por obra determinada en relación a los programas de ejecución de los proyectos de inversión y su estado de cumplimiento.
+> <small>(REFORMADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
+
+IV. Analizar las mejoras a la programación de corto plazo;
+
+> <small>(REFORMADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
+
+V. Promover, coordinar y realizar estudios especiales de maximización de valor integral de PEMEX y Organismos Subsidiarios, y
+
+> <small>(REFORMADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
+
+VI. Desarrollar y mantener herramientas de evaluación y de maximización de valor.
+
+VII. (DEROGADA, D.O.F. 2 DE AGOSTO DE 2011)
 
 #### Sección Cuarta. De la Subdirección de Disciplina Operativa, Seguridad, Salud y Protección Ambiental
 
@@ -3495,7 +4137,9 @@ La Gerencia de Evaluación e Inspección tendrá las funciones siguientes:
 
 I. Instrumentar planes y programas de auditoría a los sistemas de seguridad industrial, salud en el trabajo y protección ambiental, en coordinación con las áreas de auditoría en seguridad industrial, salud en el trabajo y protección ambiental de los organismos subsidiarios;
 
-II. Proponer y consensuar con las áreas de auditoría en seguridad industrial, salud en el trabajo y protección ambiental de los organismos subsidiarios, los criterios y líneas generales de las auditorías anuales y específicas para revertir la accidentalidad y mejorar el desempeño en seguridad industrial, salud en el trabajo y protección ambiental;
+> <small>(REFORMADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
+
+II. Establecer, con la participación de las áreas de auditoría en seguridad, salud en el trabajo y protección ambiental de los Organismos Subsidiarios, los criterios y líneas generales de las auditorías anuales y específicas;
 
 III. Revisar y evaluar la conformidad de disposiciones legales, regulaciones y normas en materia de seguridad industrial, salud en el trabajo y protección ambiental, así como proveer soporte técnico a las áreas responsables en los centros de trabajo en la aplicación de las medidas necesarias para su cumplimiento;
 
@@ -3507,13 +4151,17 @@ IV. Integrar los indicadores de desempeño e implantación en materia de segurid
 
 V. Asesorar y participar, en los grupos de trabajo de seguridad e higiene de la Secretaría del Trabajo y Previsión Social y de la Secretaría de Energía;
 
-> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2010)</small>
+> <small>(REFORMADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
 
-VI. Verificar y certificar el cumplimiento de las disposiciones que emita la Secretaría del Trabajo y Previsión Social en materia de seguridad industrial y salud en el trabajo en PEMEX y Organismos Subsidiarios, y
+VI. Verificar y certificar el cumplimiento de las disposiciones que emita la Secretaría del Trabajo y Previsión Social en materia de seguridad industrial y salud en el trabajo en PEMEX y Organismos Subsidiarios;
 
-> <small>(ADICIONADA, D.O.F. 9 DE AGOSTO DE 2010)</small>
+> <small>(REFORMADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
 
-VII. Dirigir acciones específicas de evaluación y vigilancia en los Organismos Subsidiarios por desviaciones significativas en los indicadores y metas establecidas en materia de seguridad industrial, salud en el trabajo y protección ambiental, o eventos emergentes de accidentalidad personales e industriales.
+VII. Dirigir acciones específicas de evaluación y vigilancia en los Organismos Subsidiarios por desviaciones significativas en los indicadores y metas establecidas en materia de seguridad industrial, salud en el trabajo y protección ambiental, o eventos emergentes de accidentalidad personales e industriales, y
+
+> <small>(ADICIONADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
+
+VIII. Coordinar a los órganos mixtos colegiados de PEMEX y del Sindicato de Trabajadores Petroleros de la República Mexicana en materia de seguridad e higiene en el trabajo.
 
 ###### Artículo 120.
 
@@ -3521,15 +4169,21 @@ La Gerencia de Atención a Contingencias tendrá las funciones siguientes:
 
 I. Coordinar la aplicación de los métodos, procedimientos y requisitos para los reportes de eventos no deseados en la industria e informar a las autoridades internas y externas sobre estos eventos;
 
-II. Participar en la coordinación de la atención de las contingencias de seguridad industrial y protección ambiental;
+> <small>(REFORMADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
 
-III. Definir y administrar el sistema de manejo de crisis;
+II. Proporcionar apoyo en las acciones necesarias para la atención de eventos no deseados significativos;
+
+> <small>(REFORMADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
+
+III. Establecer, un sistema de manejo de crisis para PEMEX y Organismos Subsidiarios;
 
 IV. Administrar y operar las redes de expertos en PEMEX y organismos subsidiarios en temas de análisis de riesgos de proceso y respuesta a emergencia;
 
 V. Promover y mantener las relaciones externas con los tres niveles de gobierno en materia de protección civil, relacionado con actividades de PEMEX y organismos subsidiarios;
 
-VI. Verificar la existencia y evaluar la efectividad de la operación de los planes de respuesta a emergencias en los centros de trabajo, así como la realización de simulacros;
+> <small>(REFORMADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
+
+VI. Definir la estrategia institucional de la gestión integral de riesgos;
 
 > <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2010)</small>
 
@@ -3551,21 +4205,21 @@ X. Verificar la implantación de las acciones correctivas identificadas en la in
 
 La Gerencia de Protección Ambiental tendrá las funciones siguientes:
 
-> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2010)</small>
+> <small>(REFORMADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
 
-I. Elaborar la estrategia de protección ambiental en materia de emisiones al aire, manejo de agua, manejo de residuos y atención de sitios contaminados acorde con los principales riesgos ambientales identificados por PEMEX y Organismos Subsidiarios;
+I. Elaborar la estrategia de protección ambiental en materia de emisiones al aire, manejo de agua, manejo de residuos y atención de sitios contaminados;
 
-> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2010)</small>
+> <small>(REFORMADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
 
-II. Proponer las prioridades, objetivos, metas e indicadores de protección ambiental en materia de emisiones al aire, manejo de agua, manejo de residuos y atención de sitios contaminados, acordes con el Plan de Negocios;
+II. Proponer las prioridades, objetivos, metas e indicadores de protección ambiental en materia de emisiones al aire, manejo de agua, manejo de residuos y atención de sitios contaminados;
 
 > <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2010)</small>
 
 III. Asegurar la incorporación de la estrategia de protección ambiental en las iniciativas y programas de PEMEX y Organismos Subsidiarios;
 
-> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2010)</small>
+> <small>(REFORMADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
 
-IV. Supervisar y dar apoyo a la ejecución de las iniciativas y programas prioritarios de la estrategia de protección ambiental, evaluando su desarrollo y desempeño;
+IV. Apoyar y supervisar la ejecución de los programas específicos de PEMEX y Organismos Subsidiarios, así como verificar el cumplimiento del desempeño ambiental;
 
 > <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2010)</small>
 
@@ -3635,57 +4289,167 @@ XII. Promover programas de educación en protección ambiental y comunicación d
 
 La Subdirección de Suministros tendrá las funciones siguientes:
 
-I. Coordinar el desarrollo de la estrategia de suministros en PEMEX y organismos subsidiarios, y definir la coordinación interorganismos, de conformidad con las directrices que emita el Consejo de Administración;
+> <small>(REFORMADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
 
-II. Concertar con las unidades administrativas de PEMEX, organismos subsidiarios y en su caso filiales, la aplicación de las estrategias de contratación para el suministro consolidado e intraorganismos, así como realizar las contrataciones corporativas de bienes, arrendamientos y servicios cuando procedan;
+I. Diseñar el modelo de negocio único integral de suministros aplicable a PEMEX y Organismos Subsidiarios, así como evaluar el impacto en su aplicación;
 
-III. (DEROGADA, D.O.F. 9 DE AGOSTO DE 2010)
+> <small>(REFORMADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
 
-IV. (DEROGADA, D.O.F. 9 DE AGOSTO DE 2010)
+II. Determinar la estrategia de implantación del modelo de negocio único integral de suministros y coordinar su ejecución, del que forma parte la proveeduría de importación directa, en PEMEX y Organismos Subsidiarios;
 
-V. Coordinar la interpretación operativa de la normatividad interna en materia de adquisiciones, arrendamientos y servicios, para PEMEX, organismos subsidiarios y, en su caso, filiales, distinta a la relacionada con actividades sustantivas de carácter productivo, y
+> <small>(ADICIONADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
 
-VI. Dirigir los trabajos del Comité Institucional Interorganismos de la Reserva de los Tratados de Libre Comercio y de la Macrofunción de Adquisiciones del Programa Gubernamental de Transparencia y Rendición de Cuentas.
+III. Coordinar a PEMEX, Organismos Subsidiarios y, en su caso, filiales, en la planeación, diseño, implantación y ejecución de las estrategias de contratación, así como la determinación de la unidad administrativa responsable;
+
+> <small>(ADICIONADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
+
+IV. Aprobar la viabilidad de los proyectos o iniciativas de mejora de procesos de negocio, recursos humanos, organización o gestión del cambio, relacionados con el modelo de negocio único integral de suministros;
+
+> <small>(REFORMADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
+
+V. Emitir directrices a las áreas de PEMEX, Organismos Subsidiarios y, en su caso filiales, para su funcionamiento y administración centralizada de los sistemas de información asociados al proceso de suministros y mejora continua;
+
+> <small>(REFORMADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
+
+VI. Validar las propuestas de contratación de PEMEX, Organismos Subsidiarios y, en su caso, filiales que considere necesario, así como emitir las observaciones o recomendaciones que correspondan;
+
+> <small>(ADICIONADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
+
+VII. Promover, coordinar y administrar las relaciones con los proveedores que formen parte de la cadena de suministros en PEMEX, Organismos Subsidiarios y, en su caso, filiales;
+
+> <small>(ADICIONADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
+
+VIII. Coordinar la interpretación operativa de la normatividad interna en materia de adquisiciones, arrendamientos y servicios, para PEMEX, Organismos Subsidiarios y, en su caso, filiales distinta a la relacionada con actividades sustantivas de carácter productivo;
+
+> <small>(ADICIONADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
+
+IX. Dirigir los trabajos de los comités Institucional Interorganismos de la Reserva de los Tratados de Libre Comercio, y de la Macrofunción de Adquisiciones del Programa Gubernamental de Transparencia y Rendición de Cuentas; y de la Comisión Consultiva Mixta de Abastecimiento;
+
+> <small>(ADICIONADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
+
+X. Diseñar y coordinar las estrategias de comunicación y de gestión del cambio para la transformación del proceso de suministros, así como brindar apoyo a las unidades administrativas de PEMEX, Organismos Subsidiarios y filiales;
+
+> <small>(ADICIONADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
+
+XI. Fungir como conducto único de las diversas áreas de PEMEX y Organismos Subsidiarios con las dependencias e instancias competentes en relación con el proceso de suministros;
+
+> <small>(ADICIONADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
+
+XII. Diseñar, coordinar y supervisar la estrategia de inventarios críticos y generales de equipos, materiales, refacciones e insumos, en PEMEX, Organismos Subsidiarios y, en su caso filiales, y
+
+> <small>(ADICIONADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
+
+XIII. Conducir la inteligencia de mercado del proceso de suministros, en PEMEX, Organismos Subsidiarios y, en su caso, filiales.
 
 ###### Artículo 127.
 
 La Gerencia de Abastecimiento Estratégico tendrá las funciones siguientes:
 
-I. Diseñar y coordinar la implantación de la metodología de abastecimiento estratégico en PEMEX, sus organismos subsidiarios y, en su caso, filiales, para establecer iniciativas de ahorro, estrategias de suministro y esquemas de contratación;
+> <small>(REFORMADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
 
-II. Identificar los bienes y servicios, que sean objeto de acciones para reducir los costos de contratación;
+I. Diseñar y coordinar la implantación de la metodología de abastecimiento estratégico en PEMEX, Organismos Subsidiarios y, en su caso, filiales;
 
-III. Promover y coordinar la integración de grupos de especialistas por categoría de PEMEX, organismos subsidiarios y, en su caso, filiales, para la revisión y estandarización de requerimientos, elaboración de estudios de mercado y definición de estrategias de contratación;
+> <small>(REFORMADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
 
-IV. Coordinar la integración, ejecución y seguimiento del programa anual de iniciativas de consolidación de PEMEX, sus organismos subsidiarios y, en su caso, filiales, y
+II. Analizar la demanda de bienes, arrendamientos y servicios de PEMEX, Organismos Subsidiarios y, en su caso, filiales para identificar áreas de oportunidad en las contrataciones respectivas;
 
-V. Atender, coordinar y dirigir los trabajos inherentes al Comité Técnico para la Consolidación de Adquisiciones, Arrendamientos o Servicios en PEMEX, organismos subsidiarios, Instituto Mexicano del Petróleo, PMI Comercio Internacional, S.A. de C.V., Compañía Mexicana de Exploraciones, S.A. de C.V., e I.I.I. Servicios, S.A. de C.V.
+> <small>(REFORMADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
+
+III. Analizar y consolidar la información de las categorías de compra y su gasto futuro;
+
+> <small>(REFORMADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
+
+IV. Realizar la inteligencia de mercado para el diseño de estrategias de suministro, así como para apoyar procesos críticos de contratación de bienes, arrendamientos y servicios aplicables a PEMEX, Organismos Subsidiarios y, en su caso, filiales;
+
+> <small>(REFORMADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
+
+V. Diseñar estrategias para la administración de proveedores de PEMEX, Organismos Subsidiarios y, en su caso, filiales;
+
+> <small>(ADICIONADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
+
+VI. Implantar, conjuntamente con PEMEX y Organismos Subsidiarios, la estrategia de inventarios críticos y generales de equipos, materiales, insumos y refacciones;
+
+> <small>(ADICIONADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
+
+VII. Realizar la integración, ejecución y seguimiento del programa anual de iniciativas de demanda agregable de PEMEX, Organismos Subsidiarios y, en su caso, filiales;
+
+> <small>(ADICIONADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
+
+VIII. Constituir grupos de trabajo para el desarrollo de iniciativas de demanda agregable;
+
+> <small>(ADICIONADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
+
+IX. Instrumentar mecanismos de coordinación de las estrategias de suministro a nivel institucional para bienes y servicios de importación en PEMEX y Organismos Subsidiarios;
+
+> <small>(ADICIONADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
+
+X. Determinar la viabilidad y las instancias de PEMEX, Organismos Subsidiarios y, en su caso, filiales más adecuadas para concertar contratos preparatorios y contratos marco o para llevar a cabo contrataciones consolidadas;
+
+> <small>(ADICIONADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
+
+XI. Administrar y coordinar la operación de contratos preparatorios y marco nacionales en PEMEX, Organismos Subsidiarios y, en su caso, filiales;
+
+> <small>(ADICIONADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
+
+XII. Instrumentar y difundir los programas de capacitación en materia de abastecimiento estratégico para el personal de PEMEX, Organismos Subsidiarios y, en su caso, filiales, y
+
+> <small>(ADICIONADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
+
+XIII. Dar seguimiento a las propuestas de contratación de PEMEX, Organismos Subsidiarios y, en su caso, filiales en materia de suministro, que considere necesario, así como emitir las recomendaciones correspondientes.
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 2 DE AGOSTO DE 2011)</small>
 
 ###### Artículo 128.
 
-La Gerencia de Gestión y Administración de Proveedores y Catálogos tendrá las funciones siguientes:
+La Gerencia de Gestión y Evaluación de la Estrategia de Suministros tendrá las funciones siguientes:
 
-> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2010)</small>
+> <small>(REFORMADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
 
-I. Diseñar estrategias para la administración de proveedores de PEMEX, Organismos Subsidiarios y, en su caso, filiales;
+I. Implantar y operar un sistema de evaluación del modelo único integral de suministros en PEMEX, Organismos Subsidiarios y, en su caso, filiales, evaluar sus resultados y emitir las medidas que correspondan;
 
-> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2010)</small>
+> <small>(ADICIONADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
 
-II. Diseñar y administrar el proceso de desarrollo y evaluación del desempeño de proveedores de PEMEX, Organismos Subsidiarios y, en su caso, filiales;
+I-A. Especificar los estándares para el registro de las operaciones asociadas al proceso de suministro en los sistemas transaccionales, así como definir, en su caso, las acciones correctivas a ser implantadas por PEMEX y Organismos Subsidiarios;
 
-III. Coordinar y administrar la participación de proveedores en el mercado electrónico de PEMEX, organismos subsidiarios y, en su caso, filiales, con la participación que les corresponda;
+> <small>(ADICIONADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
 
-> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2010)</small>
+I-B. Instrumentar acciones para que los responsables de la información procuren el funcionamiento del sistema de información empresarial de suministros, así como realizar su administración y mejora continua;
 
-IV. Instrumentar el Registro de Proveedores y Contratistas de PEMEX y Organismos Subsidiarios;
+II. (DEROGADA, D.O.F. 2 DE AGOSTO DE 2011)
 
-> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2010)</small>
+III. (DEROGADA, D.O.F. 2 DE AGOSTO DE 2011)
 
-V. Atender, coordinar y dirigir los trabajos inherentes al Comité Institucional Interorganismos de la Reserva de los Tratados de Libre Comercio y de la Macrofunción de Adquisiciones del Programa Gubernamental de Transparencia y Rendición de Cuentas, y (sic)
+IV. (DEROGADA, D.O.F. 2 DE AGOSTO DE 2011)
+
+V. (DEROGADA, D.O.F. 2 DE AGOSTO DE 2011)
 
 VI. (DEROGADA, D.O.F. 9 DE AGOSTO DE 2010)
 
-VII. Apoyar en la interpretación operativa de la normatividad interna o disposiciones administrativas, distintas a las actividades relacionadas con las contrataciones establecidas en el artículo 51 de la Ley.
+VII. (DEROGADA, D.O.F. 2 DE AGOSTO DE 2011)
+
+> <small>(ADICIONADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
+
+VIII. Diseñar el modelo organizacional del modelo de negocio y coordinar, conjuntamente con las unidades administrativas correspondientes, su instrumentación e implementación en PEMEX, Organismos Subsidiarios y, en su caso, filiales, así como evaluar sus resultados;
+
+> <small>(ADICIONADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
+
+IX. Desarrollar, en coordinación con las unidades administrativas correspondientes, la instrumentación e implantación de un modelo de las competencias del capital humano, así como evaluar sus resultados;
+
+> <small>(ADICIONADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
+
+X. Implantar y operar el sistema de calidad del proceso de suministros en PEMEX y Organismos Subsidiarios;
+
+> <small>(ADICIONADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
+
+XI. Diseñar e implantar el modelo de coordinación que aplicará a las áreas involucradas en el proceso de suministros de PEMEX, Organismos Subsidiarios y, en su caso, filiales;
+
+> <small>(ADICIONADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
+
+XII. Apoyar a las unidades administrativas en la implementación de las nuevas prácticas de negocio que se vayan integrando al modelo único integral de suministros, y
+
+> <small>(ADICIONADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
+
+XIII. Diseñar y coordinar el desarrollo de la estrategia integral de comunicación y de gestión del cambio para el funcionamiento del modelo único integral de suministros.
 
 ###### Artículo 129.
 
@@ -3693,7 +4457,9 @@ La Gerencia de Mejora del Proceso de Suministro tendrá las funciones siguientes
 
 I. Identificar las mejores prácticas en materia de suministro para PEMEX, organismos subsidiarios y, en su caso, filiales, coordinar su implantación y evaluar sus resultados;
 
-II. Diseñar, desarrollar e implantar los elementos de la estrategia de negocio de suministro aplicable a PEMEX, organismos subsidiarios y, en su caso, filiales;
+> <small>(REFORMADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
+
+II. Desarrollar y coordinar la implantación del habilitador tecnológico que soportará al modelo de negocio único integral de suministros, conjuntamente con PEMEX, Organismos Subsidiarios y, en su caso, filiales;
 
 III. Definir, monitorear y dar seguimiento a los indicadores estratégicos y de desempeño general y por unidad de negocio del proceso de suministro y difundir los resultados;
 
@@ -3701,109 +4467,175 @@ IV. Establecer los mecanismos para el control, evaluación y seguimiento del pro
 
 V. Administrar catálogos electrónicos con proveedores estratégicos y establecer criterios para la creación, actualización y/o mantenimiento de los contenidos técnico-económicos de los mismos;
 
-VI. Desarrollar esquemas para la estandarización de datos maestros en los catálogos de materiales y de proveedores para su implantación en PEMEX y organismos subsidiarios;
+> <small>(REFORMADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
 
-> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2010)</small>
+VI. Instrumentar, conjuntamente con PEMEX y Organismos Subsidiarios, las estrategias para la estandarización de datos maestros de bienes, servicios y proveedores, y la implantación de la instancia de gobierno;
 
-VII. Establecer las reglas para la administración del Catálogo Maestro de materiales central de bienes y servicios;
+> <small>(REFORMADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
 
-> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2010)</small>
+VII. Instrumentar el Registro de Proveedores y Contratistas de PEMEX y Organismos Subsidiarios;
 
-VIII. Coordinar el diseño, implantación y operación de las soluciones de negocio, y
+VIII. (DEROGADA, D.O.F. 2 DE AGOSTO DE 2011)
 
-> <small>(ADICIONADA, D.O.F. 9 DE AGOSTO DE 2010)</small>
+IX. (DEROGADA, D.O.F. 2 DE AGOSTO DE 2011)
 
-IX. Dar seguimiento al registro en los sistemas transaccionales de los indicadores de contenido nacional.
+> <small>(ADICIONADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
 
-#### Sección Séptima. De la Subdirección de Coordinación del Sistema de Transporte por Ducto
+X. Llevar a cabo las actividades que correspondan en los comités Institucional Interorganismos de la Reserva de los Tratados de Libre Comercio y de la Macrofunción de Adquisiciones del Programa Gubernamental de Transparencia y Rendición de Cuentas, y la Comisión Consultiva Mixta de Abastecimiento;
+
+> <small>(ADICIONADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
+
+XI. Diseñar y administrar el proceso de desarrollo y evaluación del desempeño de proveedores de PEMEX, Organismos Subsidiarios y en su caso filiales, y
+
+> <small>(ADICIONADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
+
+XII. Coordinar y administrar la participación de proveedores en el mercado electrónico de PEMEX, Organismos Subsidiarios y, en su caso, filiales, con la participación que les corresponda.
+
+> <small>(REFORMADA SU DENOMINACION, D.O.F. 2 DE AGOSTO DE 2011)</small>
+
+#### Sección Séptima. De la Subdirección de Logística de Hidrocarburos y Derivados
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 2 DE AGOSTO DE 2011)</small>
 
 ###### Artículo 130.
 
-La Subdirección de Coordinación del Sistema de Transporte por Ducto tendrá las funciones siguientes:
+La Subdirección de Logística de Hidrocarburos y Derivados tendrá las funciones siguientes:
 
-I. Alinear las características técnicas, operativas y económicas de las acciones para el desarrollo de infraestructura de logística, transporte y distribución;
+> <small>(REFORMADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
 
-II. Participar en el diseño y desarrollo de la estrategia para optimizar el proceso de logística, transporte y distribución;
+I. Proponer las directrices de coordinación entre los Organismos Subsidiarios en materia de logística de hidrocarburos y sus derivados de PEMEX y Organismos Subsidiarios;
 
-III. Establecer indicadores y evaluar el desempeño del proceso de logística, transporte y distribución respecto a la operación, tecnología, integridad operativa, administración de integridad y de información y en su caso, recomendar las medidas necesarias para evitar desviaciones y optimizar el proceso;
+> <small>(REFORMADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
 
-IV. Promover y coordinar la identificación, análisis, evaluación y transferencia de mejores prácticas y tecnologías en el proceso de logística, transporte y distribución integrando el proceso de capacitación y entrenamiento correspondiente;
+II. Establecer y coordinar la implantación de la estrategia de logística de hidrocarburos y sus derivados de PEMEX y Organismos Subsidiarios;
 
-V. Participar en la integración y administración de proyectos para optimizar la logística, transporte y distribución;
+> <small>(REFORMADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
 
-VI. Coordinar la atención de requerimientos de información relacionados con la logística, transporte y distribución para promover la transparencia y rendición de cuentas de PEMEX y organismos subsidiarios, atendiendo lo que establezca el comité de transparencia;
+III. Diseñar y establecer mecanismos de seguimiento, evaluación del desempeño y rendición de cuentas de logística de hidrocarburos y sus derivados de PEMEX y Organismos Subsidiarios;
 
-> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2010)</small>
+> <small>(REFORMADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
 
-VII. Proponer y apoyar las estrategias comerciales para negociar proyectos de expansión de la infraestructura de logística, transporte y distribución, incluyendo alianzas estratégicas;
+IV. Determinar, establecer y homologar la normativa, mejores prácticas y el desarrollo humano, en materia de logística de hidrocarburos y sus derivados en PEMEX y Organismos Subsidiarios;
 
-> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2010)</small>
+> <small>(REFORMADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
 
-VIII. Coadyuvar con las autoridades federales a la definición de precios y tarifas que se apliquen a PEMEX, Organismos Subsidiarios y, en su caso, filiales en materia de logística, transporte y distribución, y
+V. Coordinar el desarrollo de la infraestructura de la logística de hidrocarburos y sus derivados de PEMEX y Organismos Subsidiarios;
 
-> <small>(ADICIONADA, D.O.F. 9 DE AGOSTO DE 2010)</small>
+> <small>(REFORMADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
 
-IX. Asegurar la implantación y la evaluación de las estrategias, acciones y programas que fortalezcan los esfuerzos en materia de aseguramiento de balances en la cadena de producción, transporte y comercialización.
+VI. Coordinar la atención de los requerimientos de información relacionados con la logística de hidrocarburos y sus derivados de PEMEX y Organismos Subsidiarios;
+
+> <small>(REFORMADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
+
+VII. Coordinar la estrategia de implantación de herramientas de monitoreo y control en los sistemas de logística de hidrocarburos y sus derivados, y
+
+VIII. (DEROGADA, D.O.F. 2 DE AGOSTO DE 2011)
+
+> <small>(REFORMADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
+
+IX. Coordinar la implantación y la evaluación de las estrategias, acciones y programas que fortalezcan los esfuerzos en materia de aseguramiento de balances en la cadena de producción, transporte y comercialización.
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 2 DE AGOSTO DE 2011)</small>
 
 ###### Artículo 131.
 
-A la Gerencia de Administración de Integridad y Riesgo en Ductos tendrá las siguientes funciones:
+A (sic) la Gerencia de Administración de Infraestructura Logística tendrá las funciones siguientes:
 
-I. Elaborar políticas y lineamientos así como evaluar los modelos para la administración de la integridad de la infraestructura existente y nuevos desarrollos para eficientar las operaciones, reducir riesgos y aumentar la rentabilidad de la logística, transporte y distribución y proponer la mejora de la regulación para garantizar la integridad y confiabilidad operacional de la infraestructura de logística, transporte y distribución;
+> <small>(REFORMADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
 
-II. Coordinar la administración de integridad de la infraestructura de logística, transporte y distribución con los organismos subsidiarios;
+I. Analizar y dar seguimiento al desarrollo de iniciativas y proyectos en materia de integridad y confiabilidad de la infraestructura de logística de hidrocarburos y sus derivados de PEMEX y Organismos Subsidiarios;
 
-III. Verificar la optimización y homologación de los sistemas de evaluación y administración de integridad y confiabilidad operacional de la infraestructura de logística, transporte y distribución;
+> <small>(REFORMADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
+
+II. Coordinar, promover y consolidar la administración de la integridad y confiabilidad de la infraestructura operativa de logística de hidrocarburos y sus derivados de PEMEX y Organismos Subsidiarios;
+
+> <small>(REFORMADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
+
+III. Determinar y, en su caso, homologar mejores prácticas referentes a la integridad y confiabilidad de la infraestructura de logística de hidrocarburos y sus derivados de PEMEX y Organismos Subsidiarios;
 
 IV. (DEROGADA, D.O.F. 9 DE AGOSTO DE 2010)
 
-V. Coordinar acciones conjuntas entre los diferentes procesos involucrados, para administrar la integridad y confiabilidad operacional y para la administración patrimonial de la infraestructura de logística, transporte y distribución;
+V. (DEROGADA, D.O.F. 2 DE AGOSTO DE 2011)
 
-VI. Integrar y analizar los datos e información técnica, geoespacial y alfanumérica, para la generación de escenarios y evaluación de indicadores del proceso de logística, transporte y distribución;
+> <small>(REFORMADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
 
-VII. Proponer el diseño para la conformación de la estructura organizacional promoviendo la capacitación y el desarrollo del personal, así como la asignación eficiente de recursos que optimice el desempeño del proceso de logística, transporte y distribución;
+VI. Diseñar e implantar metodologías para el seguimiento, evaluación y rendición de cuentas con indicadores clave del desempeño, inherentes a la integridad y confiabilidad de la infraestructura de logística de hidrocarburos y sus derivados de PEMEX y Organismos Subsidiarios;
 
-VIII. Participar con entidades gubernamentales para definir el ámbito de los servicios regulados y no regulados de logística, transporte y distribución, y
+> <small>(REFORMADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
 
-IX. Coadyuvar en la incorporación de activos y desincorporación de activos no útiles que conforma la infraestructura de logística, transporte y distribución.
+VII. Promover, coordinar y definir, la actualización y el desarrollo de competencias en materia de integridad y confiabilidad de infraestructura de logística de hidrocarburos y sus derivados de PEMEX y Organismos Subsidiarios;
+
+VIII. (DEROGADA, D.O.F. 2 DE AGOSTO DE 2011)
+
+IX. (DEROGADA, D.O.F. 2 DE AGOSTO DE 2011)
+
+> <small>(ADICIONADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
+
+X. Consolidar un censo de infraestructura y establecer un inventario en la misma relacionada con la logística de hidrocarburos y sus derivados;
+
+> <small>(ADICIONADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
+
+XI. Evaluar el cumplimiento de las normas y estándares relacionados con la integridad y confiabilidad de logística de hidrocarburos y sus derivados, y
+
+> <small>(ADICIONADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
+
+XII. Atender los requerimientos de información de logística de hidrocarburos y sus derivados.
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 2 DE AGOSTO DE 2011)</small>
 
 ###### Artículo 132.
 
-A la Gerencia de Confiabilidad Operativa de Ductos tendrá las siguientes funciones:
+A (sic) la Gerencia de Coordinación Operativa Logística tendrá las funciones siguientes:
 
-I. Elaborar políticas y lineamientos para la alineación de los procesos operativos de logística, transporte y distribución;
+> <small>(REFORMADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
 
-II. Orientar y promover la estrategia de mejora de las operaciones en el proceso de logística, transporte y distribución;
+I. Formular y desarrollar las estrategias de mejora del proceso operativo de logística de hidrocarburos y sus derivados, de PEMEX y Organismos Subsidiarios;
 
-III. Vigilar el cumplimiento a los programas operativos de logística, transporte y distribución de hidrocarburos y derivados para la corrección de las áreas de oportunidad detectadas mediante la emisión de recomendaciones y propuestas de solución;
+II. (DEROGADA, D.O.F. 2 DE AGOSTO DE 2011)
 
-IV. Coordinar la difusión de métodos y/o procedimientos para medir y mejorar el desempeño operativo de la infraestructura del proceso de logística, transporte y distribución;
+> <small>(REFORMADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
 
-V. Vigilar el desempeño operativo de las instalaciones involucradas en el proceso de logística, transporte y distribución;
+III. Implantar mecanismos de seguimiento y evaluación del desempeño de las actividades operativas de logística de hidrocarburos y sus derivados de PEMEX y Organismos Subsidiarios;
 
-> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2010)</small>
+IV. (DEROGADA, D.O.F. 2 DE AGOSTO DE 2011)
 
-VI. Aprobar el desarrollo y aplicación de modelos logísticos integrales, así como la aplicación de mejores prácticas y el uso de tecnología de punta en las operaciones del proceso de logística, transporte y distribución;
+V. (DEROGADA, D.O.F. 2 DE AGOSTO DE 2011)
 
-VII. Identificar y promover la implantación y homologación de los indicadores de desempeño operativo, de automatización y medición electrónica para el proceso de logística, transporte y distribución;
+> <small>(REFORMADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
 
-VIII. Identificar y establecer programas de capacitación técnica y reentrenamiento, en materia de operaciones, de acuerdo a demanda de regulaciones nacionales e internacionales tomando como referencia los perfiles de puesto, competencias y su plan de carrera institucional para el desarrollo del personal garantizando la asignación eficiente de recursos;
+VI. Definir las mejores prácticas de logística de hidrocarburos y sus derivados;
 
-IX. Vigilar la implementación de las alternativas de operación en casos de emergencia, para mantener la continuidad del proceso de logística, transporte y distribución;
+VII. (DEROGADA, D.O.F. 2 DE AGOSTO DE 2011)
 
-X. Promover y dar seguimiento a la observancia obligatoria de la aplicación de normas y estándares en la administración de la medición y calidad de los productos en la transferencia de custodia y control operativo de los procesos;
+> <small>(REFORMADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
+
+VIII. Promover, coordinar y definir, conjuntamente con las áreas de recursos humanos, las iniciativas de actualización y desarrollo de competencias del personal involucrado en la logística de hidrocarburos y sus derivados, de PEMEX y Organismos Subsidiarios;
+
+> <small>(REFORMADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
+
+IX. Coordinar la implantación de mecanismos alternativos de operación en condiciones normales, anormales y casos fortuitos, en materia de logística de hidrocarburos y sus derivados;
+
+> <small>(REFORMADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
+
+X. Evaluar el cumplimiento de las normas y estándares relacionados con la logística de hidrocarburos y sus derivados de PEMEX y Organismos Subsidiarios;
 
 XI. (DEROGADA, D.O.F. 9 DE AGOSTO DE 2010)
 
-> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2010)</small>
+XII. (DEROGADA, D.O.F. 2 DE AGOSTO DE 2011)
 
-XII. Supervisar que las actividades de mantenimiento de la infraestructura del proceso de logística, transporte y distribución se realicen con seguridad y oportunidad, preservando el medio ambiente;
+> <small>(REFORMADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
 
-XIII. Supervisar los lineamientos homologados para transferencia de información en tiempo real de la aplicación de mejores prácticas, herramientas automatizadas homologadas (SCADA) y que refleje el estado fidedigno de las instalaciones enlazadas al mismo, asegurando que sea completa, confiable y continua;
+XIII. Coordinar con los Organismos Subsidiarios el diseño y elaboración de las bases de usuario y filosofías operativas de las herramientas de monitoreo y control;
 
-XIV. Participar en la elaboración de las bases de usuario, bases de diseño, estimado de orden de magnitud, justificación de proyectos, bases de contrato y licitación, para la automatización y medición electrónica, en materia de logística, transporte y distribución, y
+> <small>(REFORMADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
 
-XV. Supervisar las políticas y lineamientos para concertar los términos y condiciones generales de los contratos de servicio de logística, transporte y distribución, así como supervisar la ejecución de los aspectos comerciales, servicios al usuario, cumplimiento de los requisitos regulatorios y medición de productos transportados.
+XIV. Establecer y coordinar el desarrollo de iniciativas y proyectos que incrementen la mejora de logística de hidrocarburos y sus derivados de PEMEX y Organismos Subsidiarios, y
+
+XV. (DEROGADA, D.O.F. 2 DE AGOSTO DE 2011)
+
+> <small>(ADICIONADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
+
+XVI. Atender los requerimientos de información de logística de hidrocarburos y sus derivados de PEMEX y Organismos Subsidiarios.
 
 > <small>(ADICIONADO, D.O.F. 9 DE AGOSTO DE 2010)</small>
 
@@ -3827,39 +4659,61 @@ VI. Asegurar la coordinación integral de actividades entre las áreas de PEMEX 
 
 A la Subdirección de Coordinación de Mantenimiento tendrá las funciones siguientes:
 
-I. Definir y dirigir la implantación de estrategias de confiabilidad operacional y gestión del mantenimiento, así como en la administración de la seguridad de los procesos de forma coordinada con la Subdirección de Disciplina Operativa, Seguridad, Salud y Protección Ambiental;
+> <small>(REFORMADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
+
+I. Establecer y dirigir en PEMEX y Organismos Subsidiarios la implantación de estrategias y políticas de confiabilidad operacional y gestión del mantenimiento; así como la administración de la seguridad de los procesos, en coordinación con la Subdirección de Disciplina Operativa, Seguridad y Protección Ambiental;
 
 II. Establecer y dar seguimiento a estándares, metas e indicadores clave del desempeño de la gestión de mantenimiento, la confiabilidad operacional y la seguridad de los procesos en PEMEX y organismos subsidiarios;
 
-III. Determinar y coordinar la estandarización y requerimientos de sistematización de indicadores para confiabilidad operacional, administración de la seguridad de los procesos y gestión del mantenimiento, para la evaluación de los activos conforme a los lineamientos institucionales en materia de tecnologías de información;
+> <small>(REFORMADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
 
-IV. Promover y coordinar la identificación, análisis, evaluación y transferencia de mejores prácticas y tecnologías para la seguridad de los procesos, confiabilidad operacional y gestión del mantenimiento, integrando el proceso de capacitación y entrenamiento correspondiente;
+III. Determinar y coordinar en PEMEX y Organismos Subsidiarios la estandarización y requerimientos de sistematización de indicadores para confiabilidad operacional, administración de la seguridad de los procesos y gestión del mantenimiento, para la evaluación de los activos conforme a los lineamientos institucionales en materia de Tecnología de Información;
+
+> <small>(REFORMADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
+
+IV. Promover y coordinar en PEMEX y Organismos Subsidiarios, la identificación, análisis, evaluación y transferencia de mejores prácticas y tecnologías para la seguridad de los procesos, confiabilidad operacional y gestión del mantenimiento, integrando el proceso de capacitación y entrenamiento correspondiente;
 
 V. Supervisar la integración y validar los programas y anteproyectos de presupuestos quinquenales y anuales de operación y gestión del mantenimiento de los activos en PEMEX y organismos subsidiarios, así como evaluar sus resultados;
 
 VI. Coordinar las acciones de mejora continua de los sistemas informáticos que soportan los procesos de mantenimiento, confiabilidad operacional, y administración de la seguridad en los procesos;
 
-VII. Planear la procura de bienes y servicios cuando así convenga en términos económicos y de estrategia en PEMEX y organismos subsidiarios, conforme a programas debidamente establecidos con los organismos subsidiarios, y
+> <small>(REFORMADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
 
-VIII. Conocer los proyectos estratégicos para la operación y la gestión del mantenimiento de los activos en PEMEX y organismos subsidiarios.
+VII. Planear la procura de bienes y servicios cuando así convenga en términos económicos y de estrategia en PEMEX y Organismos Subsidiarios, conforme a programas debidamente establecidos con los organismos subsidiarios;
+
+> <small>(REFORMADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
+
+VIII. Aprobar en PEMEX y Organismos Subsidiarios, los proyectos estratégicos para la operación y la gestión del mantenimiento, y
+
+> <small>(ADICIONADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
+
+IX. Establecer y coordinar en PEMEX y Organismos Subsidiarios, la operación de grupos multidisciplinarios de expertos que participen en la identificación, normalización e implantación de las mejores prácticas en mantenimiento, confiabilidad operacional y administración de la seguridad de los procesos, dar seguimiento a sus resultados y emitir recomendaciones.
 
 ###### Artículo 134.
 
 La Gerencia de Optimización del Desempeño en Mantenimiento tendrá las funciones siguientes:
 
-I. Coordinar la implantación de estrategias de confiabilidad operacional, alineadas a los objetivos del Plan Estratégico Integral de Negocios para mejorar la efectividad de los activos;
+> <small>(REFORMADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
+
+I. Supervisar la implantación de políticas y estrategias de confiabilidad operacional;
 
 II. Comunicar y recomendar las acciones de mejora identificadas durante la implantación de estrategias, políticas y lineamientos de confiabilidad operacional a las gerencias corporativas y organismos subsidiarios involucrados;
 
 III. Coordinar la identificación, análisis, evaluación y transferencia de mejores prácticas y tecnologías para la seguridad de los procesos, confiabilidad operacional y gestión del mantenimiento, a través de las redes de expertos de PEMEX y organismos subsidiarios;
 
-IV. Verificar la aplicación de las mejores prácticas y tecnologías para la seguridad de los procesos, confiabilidad operacional y gestión del mantenimiento en los activos de PEMEX;
+> <small>(REFORMADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
+
+IV. Verificar la aplicación de las mejores prácticas y tecnologías para la seguridad de los procesos, confiabilidad operacional y gestión del mantenimiento en los activos de PEMEX y Organismos Subsidiarios;
 
 V. Coordinar la formación y operación de las redes de expertos corporativas y de los organismos subsidiarios que homologarán y difundirán las mejores prácticas en aspectos de seguridad, confiabilidad o rentabilidad;
 
-VI. Establecer y coordinar la capacitación técnica y la certificación de habilidades en actividades estratégicas de operación y mantenimiento de los activos de PEMEX, y
+> <small>(REFORMADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
 
-VII. Coordinar la homologación de especificaciones y bases técnicas para la procura (sic) de bienes y servicios requeridos por las áreas corporativas y organismos subsidiarios acorde a las políticas establecidas.
+VI. Establecer y coordinar la capacitación técnica y la certificación de habilidades en actividades estratégicas de confiabilidad operacional, seguridad de los procesos y mantenimiento de PEMEX y Organismos Subsidiarios, y
+
+> <small>(REFORMADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
+
+VII. Coordinar la homologación de especificaciones y bases técnicas para la procura de bienes y servicios de mantenimiento requeridos por las áreas corporativas y Organismos Subsidiarios acorde a las políticas establecidas.
 
 ###### Artículo 135.
 
@@ -3869,17 +4723,35 @@ I. Comunicar y recomendar las acciones de mejora identificadas durante la implan
 
 II. Consolidar los requerimientos y coordinar la estandarización y sistematización de indicadores para confiabilidad operacional, administración de la seguridad de los procesos y la gestión del mantenimiento en los sistemas informáticos, para la evaluación de los activos;
 
-III. Adoptar y promover las mejores prácticas de negocio en la gestión del mantenimiento en PEMEX y organismos subsidiarios, integrando el proceso de capacitación y entrenamiento;
+> <small>(REFORMADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
 
-IV. Coordinar la planeación estratégica del mantenimiento para definir iniciativas de mejora;
+III. Identificar y promover las mejores prácticas de negocio en la gestión del mantenimiento y confiabilidad operacional en PEMEX y Organismos Subsidiarios;
 
-V. Coordinar la integración y validación de los programas y anteproyectos de presupuestos quinquenales y anuales de operación y mantenimiento de los activos en PEMEX y organismos subsidiarios, así como evaluar sus resultados para identificar áreas de oportunidad y proponer acciones de mejora;
+> <small>(REFORMADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
+
+IV. Coordinar en PEMEX y Organismos Subsidiarios la planeación estratégica del mantenimiento y confiabilidad operacional para definir iniciativas de mejora;
+
+> <small>(REFORMADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
+
+V. Coordinar y verificar en PEMEX y Organismos Subsidiarios la congruencia y viabilidad de los programas de operación y mantenimiento, incluyendo el requerimiento y asignación de recursos, así como evaluar sus resultados;
 
 VI. Auditar el registro y calidad de la información en los sistemas informáticos institucionales en base a los lineamientos corporativos establecidos, y verificar la alineación de los sistemas y soluciones informáticas complementarias a las herramientas asociadas al mantenimiento;
 
-VII. Coordinar la formación y operación de las redes de expertos corporativas y de los organismos subsidiarios que homologarán y difundirán las mejores prácticas en materia de sistemas informática (sic) para la gestión del proceso de mantenimiento, confiabilidad operacional, y subsistema de seguridad de los procesos, y
+> <small>(REFORMADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
 
-VIII. Coordinar la consolidación de las solicitudes y gestionar la procura de los bienes y servicios requeridos por las áreas de PEMEX y organismos subsidiarios acorde a las políticas establecidas.
+VII. Coordinar la formación y operación de las redes de expertos corporativas y de los Organismos Subsidiarios que homologarán y difundirán las mejores prácticas en materia de sistemas informática (sic) para la gestión del proceso de mantenimiento, confiabilidad operacional, y subsistema de seguridad de los procesos;
+
+> <small>(REFORMADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
+
+VIII. Coordinar la consolidación de las solicitudes y gestionar la procura de los bienes y servicios requeridos por las áreas de PEMEX y Organismos Subsidiarios acorde a las políticas establecidas;
+
+> <small>(ADICIONADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
+
+IX. Resolver controversias en la alineación de planes y programas de libranzas y reparaciones mayores entre los Organismos Subsidiarios, y
+
+> <small>(ADICIONADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
+
+X. Participar en la aprobación, en PEMEX y Organismos Subsidiarios de los proyectos estratégicos para la operación y la gestión del proceso de mantenimiento.
 
 ###### Artículo 136.
 
@@ -3897,13 +4769,17 @@ V. Coordinar la formación y operación de grupos multidisciplinarios que foment
 
 VI. Participar en la definición de la estrategia para la consolidación y gestión de la procura de bienes y servicios requeridos para el mantenimiento, con las áreas de PEMEX y organismos subsidiarios, y
 
-VII. Participar en la elaboración y evaluación de los proyectos estratégicos para la operación y el mantenimiento de los activos en PEMEX y organismos subsidiarios, para orientar a resultados la aplicación de recursos.
+> <small>(REFORMADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
+
+VII. Participar en la elaboración, evaluación y aprobación de los proyectos estratégicos para la operación y el mantenimiento de los activos en PEMEX y Organismos Subsidiarios, para orientar a resultados la aplicación de recursos.
 
 > <small>(ADICIONADO, D.O.F. 9 DE AGOSTO DE 2010)</small>
 
 Artículo 136 A.- La Subdirección de Desarrollo de Proyectos tendrá las funciones siguientes:
 
-I. Diseñar y coordinar la ejecución, con la participación que corresponda a los Organismos Subsidiarios, del Sistema Institucional de Desarrollo de Proyectos;
+> <small>(REFORMADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
+
+I. Diseñar y coordinar la ejecución, con la participación que corresponda a los Organismos Subsidiarios, del Sistema Institucional de Desarrollo de Proyectos, así como dirigir su interrelación con los procesos de negocio de PEMEX y Organismos Subsidiarios;
 
 II. Coordinar y supervisar el desarrollo, homologación y actualización de los procesos relacionados con la administración y control de los proyectos de inversión de PEMEX y Organismos Subsidiarios;
 
@@ -3913,11 +4789,19 @@ IV. Proveer a las áreas de desarrollo y ejecución de proyectos de PEMEX y Orga
 
 V. Establecer y supervisar, en conjunto con las áreas ejecutoras de proyectos de PEMEX y Organismos Subsidiarios, los estándares, indicadores y prácticas para el desarrollo y ejecución de los proyectos de inversión;
 
+> <small>(ADICIONADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
+
+V-A. Resolver las controversias de proyectos de inversión entre los Organismos Subsidiarios, así como gestionar su implementación;
+
 VI. Coordinar la integración y reportar la información relativa al desarrollo y ejecución de los proyectos de inversión en PEMEX y Organismos Subsidiarios;
 
-VII. Supervisar el desarrollo de metodologías para la elaboración de estimados de costo de inversión de PEMEX y Organismos Subsidiarios;
+> <small>(REFORMADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
 
-VIII. Coordinar el desarrollo, homologación, difusión y apoyar la aplicación, en las áreas ejecutoras de proyectos en PEMEX y Organismos Subsidiarios, de los criterios, prácticas y procedimientos para los hitos de revisión, verificación y validación de documentos de ingeniería;
+VII. Establecer y coordinar la aplicación de las metodologías para la elaboración de estimados de costo de los proyectos de inversión en PEMEX y Organismos Subsidiarios;
+
+> <small>(REFORMADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
+
+VIII. Coordinar el desarrollo, homologación y difusión en las áreas ejecutoras de proyectos en PEMEX y Organismos Subsidiarios, de procesos y metodologías para la gestión de calidad y riesgos en el desarrollo de proyectos de inversión;
 
 IX. Apoyar a los Organismos Subsidiarios en el análisis tecnológico, en la atención de problemas de ingeniería especializada y en la definición de alcances y estrategias de ejecución;
 
@@ -3925,89 +4809,169 @@ X. Dirigir el proceso de definición de capacidades, establecimiento de práctic
 
 XI. Supervisar la aplicación de las reglas y políticas de contenido nacional en los proyectos de inversión de PEMEX y Organismos Subsidiarios;
 
-XII. Definir y coordinar las actividades que permitan llevar a cabo el proceso de integración de proyectos de inversión de PEMEX y Organismos Subsidiarios, así como verificar su correcta aplicación y cumplimiento;
+> <small>(REFORMADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
 
-XIII. Llevar a cabo el seguimiento y la valoración del cumplimiento de metas de desempeño del proceso de proyectos de inversión en PEMEX y Organismos Subsidiarios, así como hacer las recomendaciones pertinentes, y
+XII. Definir y coordinar las actividades que permitan llevar a cabo el proceso de integración de información y seguimiento de avance de proyectos de inversión de PEMEX y Organismos Subsidiarios;
 
-XIV. Desarrollar y proponer nuevas modalidades de contratación en congruencia con las disposiciones aplicables.
+> <small>(REFORMADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
 
-> <small>(ADICIONADO, D.O.F. 9 DE AGOSTO DE 2010)</small>
+XIII. Llevar a cabo el seguimiento y la valoración del cumplimiento de metas de desempeño del proceso de proyectos de inversión en PEMEX y Organismos Subsidiarios, así como hacer las recomendaciones pertinentes;
 
-Artículo 136 B.- La Gerencia de Administración y Control de Proyectos tendrá las funciones siguientes:
+> <small>(REFORMADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
+
+XIV. Proponer la instrumentación de nuevos mecanismos para las modalidades de contratación, en congruencia con las disposiciones aplicables, y
+
+> <small>(ADICIONADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
+
+XV. Coordinar la atención y seguimiento de los compromisos y acciones derivadas de los programas gubernamentales en materia de proyectos de inversión, en PEMEX, Organismos Subsidiarios y, en su caso, filiales.
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 2 DE AGOSTO DE 2011)</small>
+
+Artículo 136 B.- La Gerencia de Ingeniería Especializada, Calidad y Riesgos tendrá las funciones siguientes:
+
+> <small>(ADICIONADA, D.O.F. 9 DE AGOSTO DE 2010)</small>
 
 I. Asesorar a las áreas ejecutoras de proyectos en la definición y, en su caso, aplicación de la normatividad, prácticas de ingeniería y especificaciones técnicas aplicables al desarrollo de los proyectos de inversión de PEMEX y Organismos Subsidiarios;
 
-II. Establecer estándares para definir el alcance de servicios de ingeniería para los proyectos de inversión y apoyar su aplicación en PEMEX y Organismos Subsidiarios;
+II. (DEROGADA, D.O.F. 2 DE AGOSTO DE 2011)
 
-III. Apoyar a PEMEX y Organismos Subsidiarios en la revisión del documento de alcance del proyecto en cada una de las etapas del Sistema Institucional de Desarrollo de Proyectos;
+> <small>(ADICIONADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
 
-IV. Apoyar a PEMEX y Organismos Subsidiarios en la revisión de las bases de usuario de los proyectos, así como en los términos de referencia para la contratación de ingenierías y estudios técnicos;
+II-A. Coordinar estudios orientados a proponer nuevas normas técnicas, ajustes a la normativa existente y elaboración de especificaciones;
 
-V. Establecer estándares para definir la información y criterios técnicos para los entregables de ingeniería, en PEMEX y Organismos Subsidiarios;
+> <small>(REFORMADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
 
-VI. Analizar, desarrollar y asimilar prácticas de supervisión de ingeniería, promover su incorporación y brindar asesoría en su aplicación en los proyectos de inversión de los Organismos Subsidiarios;
+III. Aprobar la validación del alcance, los entregables técnicos y de evaluación de costos y riesgos, de los proyectos de inversión de PEMEX y Organismos Subsidiarios;
 
-VII. Coordinar la homologación de los procedimientos para la evaluación de tecnologías disponibles;
+> <small>(REFORMADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
+
+IV. Validar las bases de usuario de los proyectos, así como los términos de referencia para la contratación de ingeniería en las etapas de definición de los proyectos de inversión de PEMEX y Organismos Subsidiarios;
+
+> <small>(REFORMADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
+
+V. Establecer estándares y criterios técnicos para los entregables de ingeniería, en PEMEX y Organismos Subsidiarios;
+
+> <small>(REFORMADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
+
+VI. Dirigir el desarrollo y asimilación de prácticas, metodologías y herramientas de análisis y supervisión de ingeniería, así como brindar asesoría en su aplicación en los proyectos de inversión de PEMEX y Organismos Subsidiarios;
+
+> <small>(REFORMADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
+
+VII. Coordinar la homologación de los procedimientos para la evaluación de tecnologías relativas al desarrollo de proyectos de inversión;
+
+> <small>(ADICIONADA, D.O.F. 9 DE AGOSTO DE 2010)</small>
 
 VIII. Proporcionar servicios para atender problemas específicos de ingeniería especializada que enfrenten los equipos de proyecto de PEMEX y Organismos Subsidiarios;
 
+> <small>(ADICIONADA, D.O.F. 9 DE AGOSTO DE 2010)</small>
+
 IX. Desarrollar y mantener un catálogo integral de precios unitarios en proyectos de inversión;
 
-X. Apoyar a PEMEX y Organismos Subsidiarios en la revisión de los estimados de costo elaborados durante las etapas de los proyectos de inversión;
+> <small>(REFORMADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
 
-XI. Desarrollar, homologar, establecer, difundir y apoyar la aplicación de procedimientos para la administración de riesgos en el desarrollo de proyectos de PEMEX y Organismos Subsidiarios;
+X. Dirigir el desarrollo y aplicación de metodologías para la elaboración de estimados de costo de proyectos de inversión de PEMEX y Organismos Subsidiarios, así como su homologación y difusión;
 
-XII. Coordinar el desarrollo, mantenimiento y evaluación de la gestión de calidad de proyectos en PEMEX y Organismos Subsidiarios;
+> <small>(REFORMADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
 
-XIII. Desarrollar, homologar, establecer y difundir criterios, prácticas y procedimientos de aseguramiento de la calidad y apoyar su aplicación en las áreas ejecutoras de proyectos en PEMEX y Organismos Subsidiarios;
+XI. Dirigir el desarrollo, homologación, difusión y asesoría en la aplicación de los procedimientos para la administración de riesgos en el desarrollo de proyectos de PEMEX y Organismos Subsidiarios;
 
-XIV. Desarrollar, documentar y apoyar la implantación, en las áreas ejecutoras de proyectos en PEMEX y Organismos Subsidiarios, de los criterios, prácticas y procedimientos para definir los hitos de revisión, verificación y validación de documentos de ingeniería;
+XII. (DEROGADA, D.O.F. 2 DE AGOSTO DE 2011)
 
-XV. Promover y administrar iniciativas de mejora continua para el desarrollo de proyectos;
+> <small>(REFORMADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
 
-XVI. Administrar el acervo de recursos metodológicos y de lecciones aprendidas para la administración y control de los proyectos de inversión, y
+XIII. Dirigir el desarrollo, homologación, difusión y asesoría en la aplicación de los procesos y metodologías para la gestión de calidad en el desarrollo de proyectos de inversión de PEMEX y Organismos Subsidiarios, y
 
-XVII. Integrar y administrar una biblioteca técnica de proyectos de inversión.
+XIV. (DEROGADA, D.O.F. 2 DE AGOSTO DE 2011)
 
-> <small>(ADICIONADO, D.O.F. 9 DE AGOSTO DE 2010)</small>
+> <small>(REFORMADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
 
-Artículo 136 C.- La Gerencia de Planeación y Desarrollo de Proyectos tendrá las funciones siguientes:
+XV. Recomendar y coordinar iniciativas de mejora continua para el desarrollo de proyectos.
 
-I. Implementar y coordinar la actualización y mejora del Sistema Institucional de Desarrollo de Proyectos;
+XVI. (DEROGADA, D.O.F. 2 DE AGOSTO DE 2011)
 
-II. Definir y actualizar, en su caso, las etapas del Sistema Institucional de Desarrollo de Proyectos;
+XVII. (DEROGADA, D.O.F. 2 DE AGOSTO DE 2011)
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 2 DE AGOSTO DE 2011)</small>
+
+Artículo 136 C.- La Gerencia de Procesos de Desarrollo de Proyectos de Inversión, tendrá las funciones siguientes:
+
+> <small>(REFORMADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
+
+I. Administrar y coordinar la actualización del Sistema Institucional de Desarrollo de Proyectos, así como definir su interrelación con los procesos de negocio de PEMEX y Organismos Subsidiarios;
+
+II. (DEROGADA, D.O.F. 2 DE AGOSTO DE 2011)
+
+> <small>(ADICIONADA, D.O.F. 9 DE AGOSTO DE 2010)</small>
 
 III. Desarrollar, validar, homologar y difundir los procesos, metodologías, procedimientos, manuales, instructivos, guías y herramientas relacionados con el desarrollo de los proyectos de inversión;
 
-IV. Verificar el cumplimiento de los procesos relacionados con el desarrollo de los proyectos de inversión por parte de las áreas ejecutoras de proyectos de PEMEX y Organismos Subsidiarios;
+IV. (DEROGADA, D.O.F. 2 DE AGOSTO DE 2011)
+
+> <small>(ADICIONADA, D.O.F. 9 DE AGOSTO DE 2010)</small>
 
 V. Desarrollar, incorporar y verificar la aplicación de las prácticas institucionales en la administración y control de los proyectos de inversión por parte de las áreas ejecutoras de proyectos en los Organismos Subsidiarios;
 
-VI. Revisar, valorar y dar seguimiento al desempeño del proceso de proyectos de inversión en PEMEX y Organismos Subsidiarios, y emitir las recomendaciones correspondientes;
+> <small>(REFORMADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
 
-VII. Integrar la información que se genere como parte de la planeación de proyectos de inversión de PEMEX y Organismos Subsidiarios;
+VI. Coordinar el seguimiento al desempeño de los procesos de proyectos de inversión en PEMEX y Organismos Subsidiarios y proponer, en su caso, las mejoras y recomendaciones que de aquéllos deriven;
 
-VIII. Recabar, actualizar y evaluar la información sobre la capacidad, cargas de trabajo y desempeño de los contratistas de ingeniería, procura y construcción, fabricantes de equipos y de materiales especiales;
+> <small>(REFORMADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
 
-IX. Apoyar a PEMEX y Organismos Subsidiarios en la elaboración de los planes de ejecución de los proyectos;
+VII. Coordinar la integración de la información que se genere como parte de la planeación de proyectos de inversión de PEMEX y Organismos Subsidiarios;
 
-X. Proponer, coordinar y supervisar la instrumentación en las áreas ejecutoras de proyectos en los Organismos Subsidiarios, de los mecanismos, estándares y prácticas que permitan medir y evaluar el desempeño en el desarrollo y ejecución de los proyectos de inversión, así como realizar la evaluación en aquellos proyectos de gran magnitud y alta prioridad;
+> <small>(REFORMADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
 
-XI. Recabar, integrar, dar seguimiento y reportar la información relativa al desarrollo y ejecución de los proyectos de inversión;
+VIII. Coordinar el recabar, actualizar y evaluar la información sobre la capacidad, cargas de trabajo y desempeño de los contratistas de ingeniería y construcción;
 
-XII. Generar metodologías y definir indicadores para medir y evaluar la ejecución de los proyectos de inversión de PEMEX y Organismos Subsidiarios;
+> <small>(ADICIONADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
 
-XIII. Generar información estadística de la ejecución de los proyectos de inversión de PEMEX y Organismos Subsidiarios;
+IX-A. Apoyar a resolver las controversias entre Organismos Subsidiarios relativas a proyectos de inversión;
 
-XIV. Apoyar el desarrollo y capacitación del personal asignado a las áreas ejecutoras de proyectos de inversión de PEMEX y Organismos Subsidiarios;
+> <small>(REFORMADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
+
+X. Coordinar la evaluación sistemática del desempeño de los proyectos de inversión de gran magnitud y alta prioridad de PEMEX y Organismos Subsidiarios;
+
+> <small>(REFORMADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
+
+XI. Coordinar el acopio y la integración de la información relativa al desarrollo de los proyectos de inversión, con fines de seguimiento, así como reportar la información a las instancias que la soliciten;
+
+> <small>(REFORMADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
+
+XII. Proponer metodologías y definir indicadores para medir y evaluar la ejecución de los proyectos de inversión de PEMEX y Organismos Subsidiarios;
+
+XIII. (DEROGADA, D.O.F. 2 DE AGOSTO DE 2011)
+
+> <small>(REFORMADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
+
+XIV. Participar en el desarrollo y capacitación del personal asignado a las áreas ejecutoras de proyectos de inversión de PEMEX y Organismos Subsidiarios, así como coordinar la gestión del conocimiento relacionado con el desarrollo de dichos proyectos;
+
+> <small>(ADICIONADA, D.O.F. 9 DE AGOSTO DE 2010)</small>
 
 XV. Dar seguimiento al registro del contenido nacional de los proyectos de inversión en PEMEX y Organismos Subsidiarios, en apoyo a la Unidad de Desarrollo de Proveedores, Contratistas y Contenido Nacional;
 
-XVI. Recabar y reportar la información relativa al pronóstico de la demanda de bienes y servicios vinculados a los proyectos de inversión de PEMEX y Organismos Subsidiarios;
+> <small>(REFORMADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
 
-XVII. Promover y verificar la adopción de las mejores prácticas para el desarrollo de los proyectos de inversión por las áreas ejecutoras de proyectos en los Organismos Subsidiarios, y
+XVI. Coordinar la elaboración de los programas de ejecución de los proyectos contenidos en la Cartera de Proyectos;
 
-XVIII. Desarrollar y proponer nuevas modalidades de contratación, en congruencia con las disposiciones aplicables.
+> <small>(REFORMADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
+
+XVII. Definir, en conjunto con las áreas involucradas en el desarrollo de proyectos de inversión, las herramientas metodológicas y tecnológicas que incorporen las mejores prácticas en la materia;
+
+> <small>(REFORMADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
+
+XVIII. Analizar iniciativas para elaborar propuestas de nuevas modalidades de contratación, en congruencia con las disposiciones aplicables;
+
+> <small>(ADICIONADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
+
+XIX. Coordinar el seguimiento a los compromisos y acciones que deriven de la Comisión Mixta formada por PEMEX con cámaras y asociaciones relacionadas con proyectos de inversión;
+
+> <small>(ADICIONADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
+
+XX. Conducir e instrumentar las reglas para la administración del registro de contratistas y firmas de ingeniería, difundirlas y vigilar su cumplimiento, y
+
+> <small>(ADICIONADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
+
+XXI. Coordinar la integración y administrar la información relativa al desarrollo de los proyectos de inversión de PEMEX y Organismos Subsidiarios.
 
 ### Capítulo Sexto. De la Oficina del Abogado General
 
@@ -4365,7 +5329,9 @@ XXI. Coordinar la atención y seguimiento del cumplimiento de los acuerdos adopt
 
 La Gerencia de Comunicación Social tendrá las funciones siguientes:
 
-I. Elaborar y coordinar el trámite de autorización de la estrategia, el programa anual de comunicación social y las campañas de difusión ante las instancias correspondientes, para su posterior ejecución;
+> <small>(REFORMADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
+
+I. Elaborar la estrategia, el programa anual de comunicación social y las campañas de difusión y, previa autorización de la estrategia, por parte del Director General, enviar estos documentos a las instancias correspondientes para su aprobación y posterior ejecución;
 
 II. Ejercer los recursos del programa institucional de comunicación social, conforme a los montos autorizados por las instancias correspondientes, así como informar a la Secretaría de la Función Pública respecto de los montos ejercidos;
 
@@ -4385,7 +5351,9 @@ IX. Diseñar y administrar los contenidos de los portales http://intranet.pemex.
 
 X. Diseñar estrategias y establecer políticas, normas, lineamientos y procedimientos en materia de comunicación interna y actuar como enlace con los organismos subsidiarios y, en su caso, con las filiales;
 
-XI. Otorgar asesoría a las unidades administrativas de PEMEX y organismos subsidiarios en las actividades de producción editorial y audiovisual, participación en congresos, ferias, exposiciones y cualquier otro tipo de evento o foro análogo en donde se difunda la imagen institucional, y
+> <small>(REFORMADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
+
+XI. Realizar actividades de producción editorial y audiovisual, participación en congresos, ferias, exposiciones y cualquier otro tipo de evento o foro análogo en donde se difunda la imagen institucional, así como otorgar asesoría a las unidades administrativas de PEMEX y Organismos Subsidiarios, y
 
 XII. Coordinar las actividades en materia de comunicación social que desarrollen las representaciones regionales de PEMEX.
 
@@ -4401,7 +5369,9 @@ II. El grupo directivo del sistema será coordinado por el Director General y es
 
 III. Tendrá por objeto acordar las instancias y procedimientos para el análisis, de los proyectos de mejoras de procesos, así como las estrategias y medidas para la instrumentación y evaluación de dichos proyectos.
 
-Con base en lo anterior, la decisión final sobre el rumbo que deberá tomar cada uno de los procesos incluidos en el sistema, será responsabilidad del Director General. Por su parte, la ejecución de los mismos, será responsabilidad de los directores corporativos o de los directores generales de los organismos subsidiarios, en la materia de su competencia.
+> <small>(REFORMADO, D.O.F. 2 DE AGOSTO DE 2011)</small>
+
+Con base en lo anterior, la decisión final sobre el rumbo que deberá tomar cada uno de los procesos incluidos en el sistema, será responsabilidad del Director General. Por su parte, la ejecución de los acuerdos adoptados tanto por el Grupo Directivo como por los cuerpos de gobierno de cada proceso, será responsabilidad de los directores corporativos y de los directores generales de los Organismos Subsidiarios, en el ámbito de su competencia.
 
 ###### Artículo 149.
 
@@ -4461,6 +5431,8 @@ PEMEX contará con un sistema de registro y difusión de su normatividad y la de
 
 ### Capítulo Segundo. De los Encargados de Despacho por Suplencias
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 2 DE AGOSTO DE 2011)</small>
+
 ###### Artículo 159.
 
 La representación legal de PEMEX estará a cargo de su Director General, el Abogado General y demás apoderados del Organismo conforme a la Ley.
@@ -4481,17 +5453,17 @@ Cuando sea necesario, los directivos y personal de PEMEX acreditarán sus funcio
 
 ###### Artículo 162.
 
-En sus ausencias, el Director General será suplido por el Director Corporativo de Administración, por el Director Corporativo de Operaciones, por el Director Corporativo de Finanzas o por el Director Corporativo de Ingeniería y Desarrollo de Proyectos, en ese orden.
+En sus ausencias, el Director General será suplido por el Director Corporativo de Administración, por el Director Corporativo de Operaciones, por el Director Corporativo de Finanzas o por el Director Corporativo de Tecnología de Información y Procesos de Negocio, en ese orden.
 
 En toda clase de juicios y procedimientos en que deba intervenir el Director General, incluyendo los de amparo y en materia laboral, será suplido por el Abogado General o, en su defecto, por quien éste designe.
 
-> <small>(REFORMADO, D.O.F. 9 DE AGOSTO DE 2010)</small>
+> <small>(REFORMADO, D.O.F. 2 DE AGOSTO DE 2011)</small>
 
 ###### Artículo 163.
 
-El Director General designará a los directivos que deban suplir a los directores corporativos y al Abogado General, entre los directivos de jerarquía inmediata inferior de PEMEX.
+El Director General designará a los directivos que deban suplir a los directores corporativos y al Abogado General.
 
-Los subdirectores corporativos y los gerentes serán suplidos en sus ausencias por los servidores públicos de jerarquía inmediata inferior de PEMEX.
+Los subdirectores corporativos y los gerentes serán suplidos en sus ausencias por los servidores públicos de jerarquía igual o inmediata inferior de PEMEX.
 
 ###### Artículo 164.
 
@@ -4586,3 +5558,7 @@ Séptimo.- La estructura orgánica autorizada deberá presentarse para su regist
 Octavo.- Los derechos laborales serán respetados en todo momento, de acuerdo con lo que establezcan las disposiciones aplicables.
 
 Noveno.- En los casos que sea necesario, las unidades administrativas correspondientes propondrán las modificaciones a las disposiciones y normas que correspondan.
+
+D.O.F. 2 DE AGOSTO DE 2011.
+
+UNICO. Las presentes modificaciones al Estatuto Orgánico de Petróleos Mexicanos entrarán en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
