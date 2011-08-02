@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-del-poder-legislativo-del-estado-libre-y-6087"
 country: "mx"
 rank: "reglamento"
 publication_date: "1995-09-15"
-last_updated: "2011-03-08"
+last_updated: "2011-08-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6087&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 REGLAMENTO DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 8 DE MARZO DE 2011.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 2 DE AGOSTO DE 2011.
 
 Reglamento publicado en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el viernes 15 de septiembre de 1995.
 
@@ -721,7 +721,7 @@ VII.- Discusión y resolución;
 
 VIII.- Otros asuntos;
 
-IX.- Clausura de la sesion.
+IX.- Clausura de la sesión.
 
 Atendiendo a la importancia de los asuntos, el presidente podrá proponer su tratamiento en orden diverso.
 
@@ -1581,7 +1581,9 @@ XIII.-Turnar de inmediato a sus destinatarios la correspondencia que reciba;
 
 XIV.- Llevar el control de expedientes, iniciativas, leyes, decretos y acuerdos que expida la Legislatura;
 
-XV.- (DEROGADA, G.G. 18 DE AGOSTO DE 2010)
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 2 DE AGOSTO DE 2011)</small>
+
+XV.- Coadyuvar para que, una vez que hayan sido publicadas las leyes y disposiciones de carácter general en el Periodico Oficial "Gaceta del Gobierno", sean traducidas para su consulta, al braille y a las lenguas originarias del Estado de México;
 
 > <small>(ADICIONADA, G.G. 19 DE AGOSTO DE 2003)</small>
 
@@ -1595,13 +1597,13 @@ XVII.- Coordinar y supervisar las actividades realizadas por la Coordinación Ju
 
 XVIII.- Las demás que le señale la directiva de la Legislatura, la Diputación Permanente, la Junta de Coordinación Política y la Conferencia para la Dirección y Programación de los Trabajos Legislativos.
 
+> <small>(REFORMADO, G.G. 2 DE AGOSTO DE 2011)</small>
+
+Artículo 152 BIS.- El titular de la Biblioteca Legislativa "Dr. José María Luis Mora" será el encargado de cuidar y conservar el archivo histórico a su cargo, de formar la colección de decretos y leyes que se publiquen en los Periódicos Oficiales de la Federación y del Estado, así como de traducir a las lenguas originarias del Estado de México y al braille para su consulta, las leyes y disposiciones de carácter general que expida la Legislatura. De igual manera, deberá encargarse del registro de la obra editorial, y ejercerá las demás atribuciones que este Reglamento y otros ordenamientos aplicables le confieran.
+
 > <small>(ADICIONADO, G.G. 18 DE AGOSTO DE 2010)</small>
 
-Artículo 152 BIS.- El titular de la Biblioteca Legislativa "Dr. José Maria Luis Mora" será el encargado de cuidar y conservar el archivo histórico a su cargo de la Legislatura, así como de formar la colección de decretos y leyes que se publiquen en los Periódicos Oficiales de la Federación y del Estado. De igual manera, deberá encargarse del registro de la obra editorial, y ejercerá las demás atribuciones que este Reglamento y otros ordenamientos aplicables le confieran.
-
-> <small>(ADICIONADO, G.G. 18 DE AGOSTO DE 2010)</small>
-
-Artículo 152 TER.- La Biblioteca Legislativa "Dr. José Maria Luis Mora", para la consecución de sus fines, podrá celebrar convenios con instituciones homólogas o cualquier otra que por su naturaleza coincida en sus propósitos. Dichos convenios deberán ser ratificados por la Junta de Coordinación Política.
+Artículo 152 TER.- La Biblioteca Legislativa "Dr. José María Luis Mora", para la consecución de sus fines, podrá celebrar convenios con instituciones homólogas o cualquier otra que por su naturaleza coincida en sus propósitos. Dichos convenios deberán ser ratificados por la Junta de Coordinación Política.
 
 > <small>(ADICIONADO, G.G. 18 DE AGOSTO DE 2010)</small>
 
@@ -2292,3 +2294,11 @@ G.G. 8 DE MARZO DE 2011.
 PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
 
 SEGUNDO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+G.G. 2 DE AGOSTO DE 2011.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- La Secretaría de Administración y Finanzas del Poder Legislativo proveerá lo necesario para dar cumplimiento al presente Decreto.
