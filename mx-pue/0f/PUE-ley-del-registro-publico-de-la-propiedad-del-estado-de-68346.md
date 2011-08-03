@@ -4,7 +4,7 @@ identifier: "PUE-ley-del-registro-publico-de-la-propiedad-del-estado-de-68346"
 country: "mx"
 rank: "ley"
 publication_date: "2009-04-15"
-last_updated: "2009-06-29"
+last_updated: "2011-08-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68346&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DEL REGISTRO PUBLICO DE LA PROPIEDAD DEL ESTADO DE PUEBLA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE JUNIO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE AGOSTO DE 2011.
 
 Ley publicada en la Quinta Sección del Periódico Oficial del Estado de Puebla, el miércoles 15 de abril de 2009.
 
@@ -59,11 +59,17 @@ La inscripción de los actos en el Registro Público de la Propiedad tendrá efe
 
 Para los efectos de esta Ley se entenderá por:
 
-I. Dirección. La Dirección del Registro Público de la Propiedad del Estado de Puebla;
+> <small>(REFORMADA, P.O. 3 DE AGOSTO DE 2011)</small>
 
-II. Director. El Director del Registro Público de la Propiedad del Estado de Puebla;
+I. Dirección. La Dirección General Adjunta del Registro Público de la Propiedad del Instituto Registral y Catastral del Estado de Puebla;
 
-III. Instituto de Catastro. El Instituto de Catastro del Estado de Puebla;
+> <small>(REFORMADA, P.O. 3 DE AGOSTO DE 2011)</small>
+
+II. Director. El Titular de la Dirección General Adjunta del Registro Público de la Propiedad del Instituto Registral y Catastral del Estado de Puebla;
+
+> <small>(REFORMADA, P.O. 3 DE AGOSTO DE 2011)</small>
+
+III. Instituto. El Instituto Registral y Catastral del Estado de Puebla;
 
 IV. Oficina Registral. La oficina en la que se presta el servicio público registral en una determinada demarcación;
 
@@ -75,25 +81,33 @@ VII. Registro. El Registro Público de la Propiedad del Estado de Puebla;
 
 VIII. Reglamento. El Reglamento de la Ley del Registro Público de la Propiedad, y
 
-IX. Secretario. El Secretario de Gobernación del Estado de Puebla.
+IX. (DEROGADA, P.O. 3 DE AGOSTO DE 2011)
+
+> <small>(REFORMADO, P.O. 3 DE AGOSTO DE 2011)</small>
 
 ###### Artículo 5.
 
-A falta de disposición expresa en esta Ley, su Reglamento y en leyes especiales relativas, se consideran como normas supletorias el Código Civil para el Estado Libre y Soberano de Puebla, el Código de Procedimientos Civiles para el Estado Libre y Soberano de Puebla, la Ley Orgánica de la Administración Pública del Estado de Puebla, la Ley del Notariado del Estado de Puebla y el Reglamento Interior de la Secretaría de Gobernación del Estado de Puebla.
+A falta de disposición expresa en esta Ley, su Reglamento y en leyes especiales relativas, se consideran como normas supletorias el Código Civil para el Estado Libre y Soberano de Puebla, el Código de Procedimientos Civiles para el Estado Libre y Soberano de Puebla, la Ley Orgánica de la Administración Pública del Estado de Puebla, la Ley del Notariado del Estado de Puebla y el Reglamento Interior del Instituto Registral y Catastral del Estado de Puebla.
 
 ### CAPÍTULO SEGUNDO. DE LA ORGANIZACIÓN DEL REGISTRO
 
+> <small>(REFORMADO, P.O. 3 DE AGOSTO DE 2011)</small>
+
 ###### Artículo 6.
 
-Corresponde el ejercicio de la función registral al Poder Ejecutivo del Estado de Puebla y la realiza a través de la Secretaría de Gobernación.
+Corresponde el ejercicio de la función registral al Poder Ejecutivo del Estado de Puebla a través del Organismo Público Descentralizado denominado Instituto Registral y Catastral del Estado de Puebla.
+
+> <small>(REFORMADO, P.O. 3 DE AGOSTO DE 2011)</small>
 
 ###### Artículo 7.
 
-Para el cumplimiento de sus funciones, el Registro será dotado de la estructura operativa y funcional necesaria, en términos de lo que señale su Reglamento y de acuerdo con la disponibilidad presupuestaria. Las funciones encomendadas a los servidores públicos del Registro se regirán por esta Ley, su Reglamento, manuales de organización, de procedimientos y sistema informático del Registro Público y demás ordenamientos que resulten aplicables.
+Las funciones encomendadas a los servidores públicos del Registro se regirán por esta Ley y su Reglamento, así como por el Reglamento Interior del Instituto, los manuales de organización, de procedimientos y de sistema informático del Registro Público y demás disposiciones aplicables.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE AGOSTO DE 2011)</small>
 
 ###### Artículo 8.
 
-El Secretario nombrará al Director, quien tendrá las siguientes atribuciones:
+El Director General del Instituto propondrá a la Junta de Gobierno, a quien ocupará el cargo de Director, el que tendrá las atribuciones siguientes:
 
 I. Ejercer la fe pública registral en el Estado;
 
@@ -123,9 +137,13 @@ XIII. Proponer las reformas y adiciones a los ordenamientos legales en materia r
 
 XIV. Conocer, substanciar y resolver el Recurso a que se refiere la presente Ley;
 
-XV. Proponer al Secretario la celebración de convenios y acuerdos de coordinación con dependencias o entidades federales, estatales o municipales, así como con organizaciones vinculadas con los servicios registrales, a efecto de difundir o mejorar la función registral;
+> <small>(REFORMADA, P.O. 3 DE AGOSTO DE 2011)</small>
 
-XVI. Elaborar y proponer al Secretario la expedición de los manuales de organización, de procedimientos, del sistema informático registral y de servicios electrónicos que se requieran para el cumplimiento eficiente de la función;
+XV. Proponer al Director General del Instituto la celebración de convenios y acuerdos de coordinación con dependencias o entidades federales, estatales o municipales, así como con organizaciones vinculadas con los servicios registrales, a efecto de difundir o mejorar la función registral;
+
+> <small>(REFORMADA, P.O. 3 DE AGOSTO DE 2011)</small>
+
+XVI. Elaborar y proponer al Director General del Instituto la expedición de los manuales de organización, de procedimientos, del sistema informático registral y de servicios electrónicos que se requieran para el cumplimiento eficiente de la función;
 
 XVII. Actualizar la prestación de los servicios que ofrece el Registro, así como los trámites, requisitos y formatos para acceder a los mismos, en términos de la Ley de Transparencia y Acceso a la Información Pública del Estado de Puebla, y
 
@@ -189,23 +207,27 @@ XV. Llevar el registro de patentes de los notarios conforme a esta Ley, y
 
 XVI. Las demás que le sean conferidas por éste u otros ordenamientos.
 
+> <small>(REFORMADO, P.O. 3 DE AGOSTO DE 2011)</small>
+
 ###### Artículo 12.
 
-Los Registradores serán nombrados por el Secretario previa opinión favorable del órgano colegiado encargado de la profesionalización del servicio público registral y deberán satisfacer los mismos requisitos que se señalan para ser Director, salvo los relativos a la edad para obtener el nombramiento, que será de veintiocho años, y a la experiencia en la materia, que será de dos años.
+Los Registradores serán nombrados por el Director General del Instituto con sujeción a los procedimientos, planes o programas que al efecto se establezcan para la profesionalización y capacitación del personal del Instituto y deberán ser licenciados en derecho.
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 3 DE AGOSTO DE 2011)</small>
 
 ### CAPÍTULO TERCERO. DE LA PROFESIONALIZACIÓN DEL SERVICIO PÚBLICO REGISTRAL
 
 ###### Artículo 13.
 
-Con el fin de garantizar que los servidores públicos que presten el servicio registral lo realicen con eficiencia, eficacia y certeza, el Ejecutivo del Estado dictará, a través del Reglamento, las medidas necesarias para profesionalizar el servicio público registral, las cuales tendrán el carácter de obligatorias.13
+(DEROGADO, P.O. 3 DE AGOSTO DE 2011)
 
 ###### Artículo 14.
 
-Para efectos del artículo anterior se creará un órgano colegiado encargado del ingreso, desarrollo profesional y evaluación del personal, en términos de los ordenamientos que en la materia resulten aplicables. Este órgano colegiado dictará las medidas para la permanente capacitación de todos los servidores públicos del Registro.
+(DEROGADO, P.O. 3 DE AGOSTO DE 2011)
 
 ###### Artículo 15.
 
-Los servidores públicos que opten por pertenecer al Registro, tendrán la obligación de participar en los programas establecidos para su profesionalización.
+(DEROGADO, P.O. 3 DE AGOSTO DE 2011)
 
 ## TÍTULO SEGUNDO. DE LA FUNCIÓN REGISTRAL
 
@@ -451,9 +473,11 @@ VI. Los avisos de separación del cargo, defunciones y demás comunicaciones que
 
 ### CAPÍTULO TERCERO. DEL ACERVO REGISTRAL
 
+> <small>(REFORMADO, P.O. 3 DE AGOSTO DE 2011)</small>
+
 ###### Artículo 55.
 
-Para respaldar el sistema de folio las oficinas registrales tendrán un archivo en el que se conservará la información que sustenta al sistema, el cual se denominará acervo registral, siguiendo los lineamientos que para el efecto establezca el Reglamento y dicte el Director.
+Para respaldar el sistema de folio, las oficinas registrales tendrán un archivo en el que se conservará la información que sustenta al sistema, el cual se denominará acervo registral, siguiendo los lineamientos que para el efecto establezca el Reglamento y, en su caso, aquéllos que emita la Junta de Gobierno del Instituto.
 
 ###### Artículo 56.
 
@@ -489,9 +513,11 @@ Los servicios registrales, certificaciones y documentos que emita el Registro me
 
 El Director habrá de coordinarse con las instancias en la materia para garantizar el respaldo permanente, el mantenimiento y la seguridad del sistema.
 
+> <small>(REFORMADO, P.O. 3 DE AGOSTO DE 2011)</small>
+
 ###### Artículo 64.
 
-El uso de medios electrónicos por parte de los usuarios del Registro, se rige bajo el principio de la autonomía de la voluntad de las partes.
+El Instituto establecerá las modalidades, términos y condiciones para el uso de medios electrónicos por parte de los usuarios del Registro.
 
 ###### Artículo 65.
 
@@ -501,9 +527,11 @@ Cuando la presente Ley exija la forma escrita para la interacción ante el Regis
 
 El procedimiento automatizado para la inscripción en el Registro será mediante formas precodificadas, que son los formatos con los datos esenciales sobre cada acto registrable, necesarias para su ingreso, calificación y, en su caso, inscripción o anotación electrónica.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE AGOSTO DE 2011)</small>
+
 ###### Artículo 67.
 
-El Secretario emitirá en términos de la normatividad vigente, los lineamientos necesarios para instaurar las herramientas tecnológicas previstas por esta Ley y su Reglamento, debiendo coordinarse con otras instancias competentes. Estos lineamientos serán publicados en el Periódico Oficial del Estado y deberán referir, entre otros:
+El Instituto emitirá en términos de la normatividad vigente, los lineamientos necesarios para instaurar las herramientas tecnológicas previstas por esta Ley y su Reglamento, debiendo coordinarse con otras instancias competentes. Estos lineamientos serán publicados en el Periódico Oficial del Estado y deberán referir, entre otros:
 
 I. Los requisitos para tener acceso a la consulta remota, así como los casos en que proceda su revocación, estableciendo mecanismos de seguridad que garanticen la integridad y actualización permanente de la información;
 
@@ -687,13 +715,15 @@ a) Posterior a la presentación del primer aviso preventivo, después de firmada
 
 b) En el segundo aviso preventivo el notario deberá indicar la fecha y número del instrumento en que se haya formalizado la operación, el bien de que se trata, el antecedente registral; la indicación de que se transmitió o modificó su dominio o que se constituyó, transmitió, modificó o extinguió un derecho real sobre él; los nombres de los otorgantes, que deberán ser los mismos que se señalaron en el primer aviso, y el precio o importe de la operación. Faltando alguno de los elementos señalados en este inciso no surtirá efectos legales el aviso.
 
-c) Recibido el segundo aviso preventivo, el Registrador hará inmediatamente su anotación si resultara procedente;
+> <small>(REFORMADO, P.O. 3 DE AGOSTO DE 2011)</small>
 
-d) Los efectos de este segundo aviso preventivo durarán hasta que se presente a inscripción el título correspondiente;
+c) Recibido el segundo aviso preventivo, el Registrador hará inmediatamente su anotación si resultara procedente. En caso de que exista diferencia entre la información de los avisos preventivos, el segundo aviso será rechazado.
 
-> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2009)</small>
+d) (DEROGADO, P.O. 3 DE AGOSTO DE 2011)
 
-e) Si el notario no presenta para su inscripción definitiva el testimonio de cuya operación dio fe, dentro de ciento ochenta días naturales contados a partir del inicio de vigencia del segundo aviso, por causas que le sean imputables, será responsable de los daños y perjuicios que este hecho genere ante terceros o ante quienes participen en la operación, independientemente de las sanciones que determina la Ley del Notariado, sin que este hecho varíe la vigencia del segundo aviso precisada en el inciso inmediato anterior. Dentro del plazo mencionado el notario dará aviso al Registro de las causas por las que no presenta el testimonio a su inscripción, si este fuera el caso.
+> <small>(REFORMADO, P.O. 3 DE AGOSTO DE 2011)</small>
+
+e) Si el Notario no presenta para su inscripción definitiva el testimonio de cuya operación dio fe, dentro de ciento ochenta días naturales contados a partir de la fecha de presentación del segundo aviso, por causas que le sean imputables, será responsable de los daños y perjuicios que este hecho genere ante terceros o ante quienes participen en la operación, independientemente de las sanciones que determina la Ley del Notariado.
 
 III. Efectos de los avisos:
 
@@ -865,31 +895,25 @@ Las certificaciones que se acompañen a informes requeridos por autoridad compet
 
 ## TÍTULO CUARTO. DE LA INTERRELACIÓN GUBERNAMENTAL Y CON OTROS SECTORES
 
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 3 DE AGOSTO DE 2011)</small>
+
 ### CAPÍTULO PRIMERO. DE LA VINCULACIÓN CON EL CATASTRO
 
 ###### Artículo 125.
 
-El Registro y el Instituto de Catastro deberán estar vinculados, procurando a su vez la coordinación con las oficinas catastrales municipales, en términos de los convenios que para el efecto celebren, con el propósito de diseñar y operar mecanismos que sirvan para los fines siguientes:
-
-I. Reforzar la certeza jurídica que otorga el Registro;
-
-II. Incrementar la recaudación de contribuciones que correspondan a los municipios;
-
-III. Coadyuvar al enriquecimiento del inventario de inmuebles, que constan en las bases catastrales, y
-
-IV. Otorgar congruencia entre la información técnica con la que cuente en el catastro y la jurídica existente en el Registro.
+(DEROGADO, P.O. 3 DE AGOSTO DE 2011)
 
 ###### Artículo 126.
 
-Se fijarán las bases para que a través de los medios de vinculación electrónica el Registro, el Instituto de Catastro y las oficinas catastrales de los municipios puedan consultar de manera automática, ágil y oportuna el estado que guarda la base de datos inmobiliaria compartida, alimentada de acuerdo con el ámbito de competencia de cada área, respecto al folio electrónico, identificación de características físicas del inmueble, cuentas catastrales y ubicación geográfica.
+(DEROGADO, P.O. 3 DE AGOSTO DE 2011)
 
 ###### Artículo 127.
 
-Es responsabilidad de las autoridades relacionadas con este proceso crear los mecanismos electrónicos para el correcto tráfico de la información.
+(DEROGADO, P.O. 3 DE AGOSTO DE 2011)
 
 ###### Artículo 128.
 
-El Instituto de Catastro, en coordinación con las oficinas catastrales municipales, proporcionará información sobre la realidad física y catastral que guarden los inmuebles representados en cartografía digital.
+(DEROGADO, P.O. 3 DE AGOSTO DE 2011)
 
 ### CAPÍTULO SEGUNDO. DE LA COORDINACIÓN EN MATERIA DE REGISTRO DE COMERCIO
 
@@ -945,13 +969,15 @@ El Reglamento desarrollará la forma en que se efectuarán las notificaciones y 
 
 ### CAPÍTULO SEGUNDO. DEL RECURSO ADMINISTRATIVO REGISTRAL
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE AGOSTO DE 2011)</small>
+
 ###### Artículo 137.
 
-Quienes se consideren agraviados por los actos registrales dictados por los titulares de las Oficinas Registrales, podrán interponer el Recurso Administrativo Registral, el cual será resuelto por el Director y en los casos en que se combatan actos registrales del Director, resolverá el Subsecretario Jurídico de la Secretaría de Gobernación. El Recurso deberá agotarse antes de acudir a otros medios de defensa.
+Quienes se consideren agraviados por los actos registrales dictados por los Registradores, podrán interponer el Recurso, el cual será resuelto por el Director y en los casos en que se combatan actos registrales de este último, resolverá el Director General del Instituto. El Recurso deberá agotarse antes de acudir a otros medios de defensa.
 
-> <small>(ADICIONADO, P.O. 29 DE JUNIO DE 2009)</small>
+> <small>(REFORMADO, P.O. 3 DE AGOSTO DE 2011)</small>
 
-El Recurso procederá contra actos registrales emitidos por los Registradores o por el Director en el caso en que actúe como Registrador en ausencia o por excusa del titular de una oficina registral. En el primer caso resolverá el Director; en el segundo el Subsecretario Jurídico de la Secretaría de Gobernación.
+El Recurso procederá contra actos registrales emitidos por los Registradores o por el Director en el caso en que actúe como Registrador en ausencia o por excusa del titular de una oficina registral. En el primer caso, resolverá el Director y en el segundo, el Director General del Instituto.
 
 > <small>(ADICIONADO, P.O. 29 DE JUNIO DE 2009)</small>
 
@@ -964,6 +990,10 @@ La interposición del Recurso suspende hasta su resolución, la ejecución del a
 > <small>(REFORMADO, P.O. 29 DE JUNIO DE 2009)</small>
 
 Transcurridos veinticinco días hábiles desde la notificación de la resolución definitiva del Recurso, y en caso de que la misma no haya sido combatida legalmente, se procederá a la calificación registral de los títulos que guarden prelación.
+
+> <small>(ADICIONADO, P.O. 3 DE AGOSTO DE 2011)</small>
+
+Las notificaciones a que se refiere el párrafo anterior serán realizadas por estrados ubicados en sitio abierto de las oficinas del Instituto.
 
 > <small>(REFORMADO, P.O. 29 DE JUNIO DE 2009)</small>
 
@@ -1072,3 +1102,13 @@ P.O. 29 DE JUNIO DE 2009.
 PRIMERO.- El presente Decreto entrará en vigor a partir de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 3 DE AGOSTO DE 2011.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
