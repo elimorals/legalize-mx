@@ -4,7 +4,7 @@ identifier: "LADUA"
 country: "mx"
 rank: "ley"
 publication_date: "1995-12-15"
-last_updated: "2010-07-01"
+last_updated: "2011-08-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=744&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,9 +22,9 @@ abbreviation: "LADUA"
 
 LEY ADUANERA
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 2 DE FEBRERO DE 2006.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 2 DE FEBRERO DE 2006.
 
-ULTIMA ACTUALIZACION POR MISCELANEA DE COMERCIO EXTERIOR: 1 DE JULIO DE 2010.
+ÚLTIMA ACTUALIZACIÓN POR MISCELÁNEA DE COMERCIO EXTERIOR: 3 DE AGOSTO DE 2011.
 
 Ley publicada en la Segunda Sección del Diario Oficial de la Federación, el viernes 15 de diciembre de 1995.
 
@@ -48,7 +48,7 @@ Ley Aduanera
 
 ### Capítulo Unico
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
 ###### Artículo 1o.
 
@@ -96,7 +96,7 @@ XI. Mermas, los efectos que se consumen o pierden en el desarrollo de los proces
 
 XII. Desperdicios, los residuos de las mercancías después del proceso al que sean sometidas; los envases y materiales de empaque que se hubieran importado como un todo con las mercancías importadas temporalmente; así como aquellas que se encuentren rotas, desgastadas, obsoletas o inutilizables y las que no puedan ser utilizadas para el fin con el que fueron importadas temporalmente.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
 
 ###### Artículo 3o.
 
@@ -108,7 +108,7 @@ Los funcionarios y empleados públicos federales y locales, en la esfera de sus 
 
 Las autoridades aduaneras colaborarán con las autoridades extranjeras en los casos y términos que señalen las leyes y los tratados internacionales de que México sea parte.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
 
 ###### Artículo 4o.
 
@@ -136,7 +136,7 @@ d) De generación de energía eléctrica, de seguridad y de telecomunicaciones q
 
 e) De sistemas automatizados para el control de las entradas y salidas del recinto fiscal de personas, mercancías y medios de transporte, así como los demás medios de control, autorizados previamente por las autoridades aduaneras.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
 
 ###### Artículo 5o.
 
@@ -216,7 +216,7 @@ Las concesiones se podrán otorgar hasta por un plazo de veinte años, el cual p
 
 Al término de la concesión o de su prórroga, las obras, instalaciones y adaptaciones efectuadas dentro del recinto fiscal, así como el equipo destinado a la prestación de los servicios de que se trate, pasarán en el estado en que se encuentren a ser propiedad del Gobierno Federal, sin el pago de contraprestación alguna para el concesionario.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
 
 ###### Artículo 14-A.
 
@@ -230,7 +230,7 @@ Para obtener las autorizaciones a que se refiere el párrafo anterior, se deber�
 
 Las autorizaciones se podrán otorgar hasta por un plazo de veinte años, el cual podrá prorrogarse a solicitud del interesado hasta por un plazo igual, siempre que la solicitud se presente durante los últimos tres años de la autorización y se sigan cumpliendo los requisitos previstos para su otorgamiento, así como de las obligaciones derivadas de la misma. En ningún caso, el plazo original de vigencia o de la prórroga de la autorización, será mayor a aquel por el que el autorizado tenga el legal uso o goce del inmueble en el que se prestará el servicio.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
 
 ###### Artículo 14-B.
 
@@ -264,13 +264,13 @@ Las personas que obtengan la autorización a que se refiere este artículo, no e
 
 El Servicio de Administración Tributaria cancelará la autorización a que se refiere este artículo conforme al procedimiento previsto en el artículo 144-A de esta Ley, a quienes dejen de cumplir los requisitos previstos para el otorgamiento de la autorización, incumplan con las obligaciones previstas en esta Ley o la autorización o incurran en alguna causal de cancelación establecida en esta Ley o en la autorización, tomando las medidas necesarias en relación con la operación de los particulares que cuenten con autorización para destinar mercancías al régimen de recinto fiscalizado estratégico.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
 
 ###### Artículo 15.
 
 Los particulares que obtengan concesión o autorización para prestar los servicios de manejo, almacenaje y custodia de mercancías de comercio exterior, deberán cumplir con los lineamentos que determinen las autoridades aduaneras para el control, vigilancia y seguridad del recinto fiscalizado y de las mercancías de comercio exterior, así como con lo siguiente:
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
 I. Garantizar anualmente, en los primeros quince días del mes de enero, el interés fiscal en una cantidad equivalente al valor promedio de las mercancías almacenadas durante el año de calendario anterior, o bien celebrar contrato de seguro que cubra dicho valor. En este último supuesto, el beneficiario principal deberá ser la Secretaría, para que en su caso, cobre las contribuciones que se adeuden por las mercancías de comercio exterior. Una vez cubiertas las contribuciones correspondientes, el remanente quedará a favor del beneficiario.
 
@@ -284,7 +284,7 @@ II. Destinar instalaciones para el reconocimiento aduanero de las mercancías, a
 
 III. Contar con cámaras de circuito cerrado de televisión, un sistema electrónico que permita el enlace con el del Servicio de Administración Tributaria, en el que lleve el control de inventarios, mediante un registro simultáneo de las operaciones realizadas, así como de las mercancías que hubieran causado abandono a favor del Fisco Federal. Mediante dicho sistema se deberá dar aviso a las autoridades aduaneras de la violación, daño o extravío de los bultos almacenados, así como de las mercancías que hubieran causado abandono. El Servicio de Administración Tributaria, mediante reglas establecerá los lineamientos para llevar a cabo el enlace de dicho sistema, así como los medios de control que aseguren el correcto manejo de la mercancía.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
 IV. Prestar los servicios de manejo, almacenaje y custodia de las mercancías embargadas por las autoridades aduaneras o las que hayan pasado a propiedad del Fisco Federal, sin que en caso alguno el espacio que ocupen estas mercancías exceda del 20% de la capacidad volumétrica de almacenaje. Por estos servicios se cobrará una cuota igual a la que deban cubrir los particulares siempre que no sea superior a la cuota establecida en la Ley Federal de Derechos por los mismos servicios, cuando los preste la autoridad aduanera en los recintos fiscales. El pago de la cuota únicamente se efectuará mediante compensación contra el aprovechamiento a que se refiere la fracción VII de este artículo, sin que dé lugar a devolución.
 
@@ -334,7 +334,7 @@ La Secretaría podrá autorizar a los particulares para prestar los servicios de
 
 I. Tener cinco años de experiencia, prestando los servicios que se vayan a autorizar.
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 1 DE JULIO DE 2010)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE AGOSTO DE 2011)
 
 II. Tener un capital social pagado de por lo menos $1,373,988.00.
 
@@ -380,7 +380,7 @@ Las autorizaciones previstas en este artículo, se podrán otorgar hasta por un 
 
 Las personas que obtengan la autorización en los términos de este artículo, estarán obligadas a pagar en las oficinas autorizadas, mensualmente, en los primeros doce días del mes siguiente a aquél al que corresponda el pago, un aprovechamiento de $100.00 por la prevalidación del pedimento para la importación temporal de cada remolque, semiremolque y portacontenedor, misma que amparará su legal estancia por el plazo que establece el artículo 106, fracción I de esta Ley. El aprovechamiento será aportado a un fideicomiso público para el programa de mejoramiento de los medios de informática y de control de las autoridades aduaneras.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
 ###### Artículo 17.
 
@@ -486,7 +486,7 @@ Las mercancías que se encuentren en depósito ante la aduana podrán ser motivo
 
 Asimismo, tratándose de las mercancías a que se refiere este artículo se podrán prestar los servicios de almacenaje, análisis de laboratorio, vigilancia, etiquetado, marcado y colocación de leyendas de información comercial. Para estos efectos, las autoridades aduaneras tomarán las medidas necesarias para la salvaguarda y protección del interés fiscal y de las propias mercancías.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
 
 ###### Artículo 26.
 
@@ -518,7 +518,7 @@ VIII. Dar aviso de inmediato a las autoridades aduaneras, cuando de la verificac
 
 Si las mercancías en depósito ante la aduana se destruyen por accidente, la obligación fiscal se extinguirá, salvo que los interesados destinen los restos a algún régimen aduanero.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
 
 ###### Artículo 28.
 
@@ -572,7 +572,7 @@ El equipo especial que las embarcaciones utilicen para facilitar las maniobras d
 
 Durante ese lapso este equipo podrá permanecer en el puerto sin el pago de los impuestos al comercio exterior y utilizarse por otras embarcaciones de la empresa porteadora que lo haya dejado en el puerto.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
 ###### Artículo 32.
 
@@ -674,7 +674,7 @@ Tratándose de las maquiladoras y las empresas con programas de exportación aut
 
 Quienes ejerzan las opciones a que se refiere este artículo, deberán cumplir con los requisitos que para tal efecto establezca el Reglamento.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
 
 ###### Artículo 38.
 
@@ -724,7 +724,7 @@ Las autoridades aduaneras notificarán a los importadores y exportadores, ademá
 
 Si quien debe formular el pedimento ignora las características de las mercancías en depósito ante la aduana, podrá examinarlas para ese efecto.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
 ###### Artículo 43.
 
@@ -812,7 +812,7 @@ Cuando de la resolución que emitan las autoridades aduaneras resulten diferenci
 
 Las personas a que se refiere el primer párrafo de este artículo, podrán presentar consulta a las autoridades aduaneras, para conocer la clasificación arancelaria de las mercancías que pretendan importar o exportar, en los términos del artículo 34 del Código Fiscal de la Federación, anexando, en su caso, las muestras, catálogos y demás elementos que permitan identificar la mercancía para su correcta clasificación arancelaria.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
 
 ###### Artículo 48.
 
@@ -824,7 +824,7 @@ Las autoridades aduaneras podrán resolver conjuntamente las consultas formulada
 
 Las resoluciones deberán dictarse en un plazo que no excederá de cuatro meses contados a partir de la fecha de su recepción. Transcurrido dicho plazo sin que se notifique la resolución que corresponda, se entenderá que la fracción arancelaria señalada como aplicable por el interesado es la correcta. En caso que se requiera al promovente para que cumpla los requisitos omitidos o proporcione elementos necesarios para resolver, el término comenzará a correr desde que el requerimiento haya sido cumplido.
 
-> <small>(REFORMADO POR FRACCION III DEL ARTICULO DECIMO PRIMERO DE LAS DISPOSICIONES TRANSITORIAS DE LA LEY ORGANICA DEL TRIBUNAL FISCAL DE LA FEDERACION, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADO POR FRACCIÓN III DEL ARTÍCULO DECIMO PRIMERO DE LAS DISPOSICIONES TRANSITORIAS DE LA LEY ORGÁNICA DEL TRIBUNAL FISCAL DE LA FEDERACIÓN, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
 
 La Secretaría podrá demandar ante el Tribunal Federal de Justicia Fiscal y Administrativa, la nulidad de la clasificación arancelaria favorable a un particular que resulte cuando transcurra el plazo a que se refiere el párrafo anterior sin que se notifique la resolución que corresponda y dicha clasificación ilegalmente lo favorezca.
 
@@ -836,7 +836,7 @@ Cuando las autoridades aduaneras modifiquen los criterios de clasificación aran
 
 (DEROGADO, D.O.F. 31 DE DICIEMBRE DE 1998)
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
 ###### Artículo 50.
 
@@ -868,7 +868,7 @@ I. General de importación, conforme a la tarifa de la ley respectiva.
 
 II. General de exportación, conforme a la tarifa de la ley respectiva.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
 
 ###### Artículo 52.
 
@@ -886,7 +886,7 @@ II. El remitente en exportación o el destinatario en importación.
 
 III. El mandante, por los actos que haya autorizado.
 
-> <small>(DEROGADO ULTIMO PARRAFO, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
 
 ###### Artículo 53.
 
@@ -912,7 +912,7 @@ VII. Las personas que hayan obtenido concesión o autorización para prestar los
 
 La responsabilidad solidaria comprenderá los accesorios, con excepción de las multas.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 1 DE ENERO DE 2002)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 1 DE ENERO DE 2002)</small>
 
 ###### Artículo 54.
 
@@ -946,7 +946,7 @@ En los casos de subrogación autorizados por esta Ley, el adquirente de las merc
 
 Las cuotas, bases gravables, tipos de cambio de moneda, cuotas compensatorias, demás regulaciones y restricciones no arancelarias, precios estimados y prohibiciones aplicables, serán los que rijan en las siguientes fechas:
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
 
 I. En importación temporal o definitiva; depósito fiscal; y elaboración, transformación o reparación en recinto fiscalizado:
 
@@ -980,7 +980,7 @@ c) En la que sea descubierta, cuando las mercancías no sean embargadas precauto
 
 Se presume realizada la exportación de mercancías procedentes del mar territorial o de la zona económica exclusiva adyacente al mismo, en el momento en que sean descubiertas, si fueron extraídas o capturadas sin las concesiones, permisos o autorizaciones de explotación correspondientes.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
 ###### Artículo 58.
 
@@ -1002,7 +1002,7 @@ Tratándose de mercancías usadas que se reexpidan al resto del territorio nacio
 
 Quienes importen mercancías deberán cumplir, sin perjuicio de las demás obligaciones previstas por esta Ley, con las siguientes:
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
 
 I. Llevar los sistemas de control de inventarios en forma automatizada, que mantengan en todo momento el registro actualizado de los datos de control de las mercancías de comercio exterior, mismos que deberán estar a disposición de la autoridad aduanera.
 
@@ -1120,7 +1120,7 @@ Si la importación de las mercancías de que se trate, requiere del cumplimiento
 
 Para los efectos de las fracciones XV, tratándose de vehículos especialmente adaptados para personas con discapacidad, así como la de la XVII, tratándose de los donativos en materia de alimentación y vestido en caso de desastre natural o condiciones de extrema pobreza, únicamente podrán ser realizados en términos de las reglas de carácter general que al efecto emita el Servicio de Administración Tributaria.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 25 DE JUNIO DE 2002)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 25 DE JUNIO DE 2002)</small>
 
 ###### Artículo 62.
 
@@ -1476,17 +1476,17 @@ III. La clasificación arancelaria que les corresponda.
 
 IV. El monto de las contribuciones causadas con motivo de la importación o exportación y, en su caso, las cuotas compensatorias.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
 ###### Artículo 82.
 
 La autoridad aduanera determinará las contribuciones relativas a las importaciones y exportaciones y, en su caso, las cuotas compensatorias cuando se realicen por vía postal.
 
-> <small>(DEROGADO SEGUNDO PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
+> <small>(DEROGADO SEGUNDO PÁRRAFO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
 El interesado podrá solicitar que la determinación de las contribuciones y de las cuotas compensatorias, la efectúe él mismo, por conducto de agente o apoderado aduanal.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
 ###### Artículo 83.
 
@@ -1512,7 +1512,7 @@ Las cuentas aduaneras de garantía servirán para garantizar mediante depósitos
 
 (DEROGADO, D.O.F. 31 DE DICIEMBRE DE 2000)
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
 
 ###### Artículo 86.
 
@@ -1578,7 +1578,7 @@ Las importaciones o exportaciones de los pasajeros a que se refiere el artículo
 
 Los datos contenidos en el pedimento son definitivos y sólo podrán modificarse mediante la rectificación a dicho pedimento.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
 Los contribuyentes podrán rectificar los datos contenidos en el pedimento el número de veces que sea necesario, siempre que lo realicen antes de activar el mecanismo de selección automatizado. Una vez activado el mecanismo de selección automatizado, se podrá efectuar la rectificación de los datos declarados en el pedimento hasta en dos ocasiones, cuando de dicha rectificación se origine un saldo a favor o bien no exista saldo alguno, o el número de veces que sea necesario cuando existan contribuciones a pagar, siempre que en cualquiera de estos supuestos no se modifique alguno de los conceptos siguientes:
 
@@ -1654,7 +1654,7 @@ F. Recinto fiscalizado estratégico.
 
 Los agentes y apoderados aduanales señalarán en el pedimento el régimen aduanero que solicitan para las mercancías y manifestarán bajo protesta de decir verdad el cumplimiento de las obligaciones y formalidades inherentes al mismo, incluyendo el pago de las cuotas compensatorias.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
 ###### Artículo 92.
 
@@ -1666,7 +1666,7 @@ II. De armas o de substancias nocivas para la salud.
 
 III. Existan créditos fiscales insolutos.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
 ###### Artículo 93.
 
@@ -1678,7 +1678,7 @@ Tratándose de exportaciones que se realicen en aduanas de tráfico aéreo o mar
 
 El cambio de régimen aduanero sólo procederá en los casos en que esta Ley lo permita, siempre que se cumplan las obligaciones en materia de cuotas compensatorias, demás regulaciones y restricciones no arancelarias y precios estimados exigibles para el nuevo régimen solicitado en la fecha de cambio de régimen.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
 ###### Artículo 94.
 
@@ -1698,7 +1698,7 @@ Los regímenes definitivos se sujetarán al pago de los impuestos al comercio ex
 
 Se entiende por régimen de importación definitiva la entrada de mercancías de procedencia extranjera para permanecer en el territorio nacional por tiempo ilimitado.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
 ###### Artículo 97.
 
@@ -1906,7 +1906,7 @@ II. Cuando la omisión sea descubierta por las autoridades fiscales o la omisió
 
 El régimen de exportación definitiva consiste en la salida de mercancías del territorio nacional para permanecer en el extranjero por tiempo ilimitado.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
 ###### Artículo 103.
 
@@ -2040,7 +2040,7 @@ El Reglamento establecerá los casos y condiciones en los que deba garantizarse 
 
 Las mercancías que hubieran sido importadas temporalmente de conformidad con este artículo, deberán retornar al extranjero en los plazos previstos, en caso contrario, se entenderá que las mismas se encuentran ilegalmente en el país, por haber concluido el régimen de importación temporal al que fueron destinadas.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
 ###### Artículo 107.
 
@@ -2078,7 +2078,7 @@ d) Etiquetas y folletos.
 
 II. Hasta por dos años, tratándose de contenedores y cajas de trailers.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
 
 III. Por la vigencia del programa de maquila o de exportación, en los siguientes casos:
 
@@ -2122,7 +2122,7 @@ Para calcular el impuesto general de exportación se determinará el porcentaje 
 
 Cuando no se lleve a cabo la transformación, elaboración o reparación proyectada de las mercancías importadas temporalmente, se permitirá el retorno de las mismas sin el pago del impuesto general de importación, siempre y cuando las maquiladoras, así como las empresas con programas de exportación autorizados por la Secretaría de Comercio y Fomento Industrial comprueben los motivos que han dado lugar al retorno de las mercancías en los casos en que la autoridad así lo requiera.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
 
 ###### Artículo 112.
 
@@ -2148,7 +2148,7 @@ l. No se pagarán los impuestos al comercio exterior.
 
 II. Se cumplirán las obligaciones en materia de regulaciones y restricciones no arancelarias y formalidades para el despacho de las mercancías destinadas a este régimen.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
 ###### Artículo 114.
 
@@ -2186,7 +2186,7 @@ III. Hasta por un año, las que se destinen a exposiciones, convenciones, congre
 
 IV. Por el periodo que mediante reglas determine la Secretaría y por las mercancías que en las mismas se señalen, cuando las circunstancias económicas así lo ameriten, previa opinión de la Secretaría de Comercio y Fomento Industrial. En estos casos la Secretaría podrá autorizar que la obligación de retorno se cumpla con la introducción al país de mercancías que no fueron las que se exportaron temporalmente, siempre que se trate de mercancías fungibles, que no sean susceptibles de identificarse individualmente y se cumpla con las condiciones de control que establezca dicha dependencia.
 
-> <small>(DEROGADO SEGUNDO PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
+> <small>(DEROGADO SEGUNDO PÁRRAFO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
@@ -2276,7 +2276,7 @@ En los casos a que se refieren las fracciones I y II de este artículo, al efect
 
 La Secretaría, como excepción a lo dispuesto en el artículo 119 de esta Ley y siempre que se cumplan los requisitos de control que señale el Reglamento, podrá autorizar el establecimiento de depósitos fiscales de conformidad con lo siguiente:
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE EL ARTICULO UNICO TRANSITORIO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE EL ARTÍCULO ÚNICO TRANSITORIO.</small>
 
 > <small>(REFORMADA, D.O.F. 2 DE FEBRERO DE 2006)</small>
 
@@ -2372,7 +2372,7 @@ I. Formular el pedimento de tránsito interno.
 
 II. Determinar provisionalmente las contribuciones, aplicando la tasa máxima señalada en la tarifa de la Ley del Impuesto General de Importación y la que corresponda tratándose de las demás contribuciones que se causen, así como las cuotas compensatorias.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 1 DE ENERO DE 2002)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 1 DE ENERO DE 2002)</small>
 
 III. Anexar al pedimento la documentación que acredite el cumplimiento de regulaciones y restricciones no arancelarias, aplicables al régimen de importación y, en su caso, el documento en el que conste el depósito efectuado en la cuenta aduanera de garantía a que se refiere el artículo 84-A de esta Ley, excepto en los casos que establezca la Secretaría mediante reglas.
 
@@ -2584,7 +2584,7 @@ Para los efectos de esta Ley, se considera como franja fronteriza al territorio 
 
 Por región fronteriza se entenderá al territorio que determine el Ejecutivo Federal.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 25 DE JUNIO DE 2002)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 25 DE JUNIO DE 2002)</small>
 
 ###### Artículo 137.
 
@@ -2720,7 +2720,7 @@ IV. Establecer o suprimir regiones fronterizas.
 
 La Secretaría tendrá, además de las conferidas por el Código Fiscal de la Federación y por otras leyes, las siguientes facultades:
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
 I. Señalar la circunscripción territorial de las aduanas, de las administraciones regionales de aduanas y de las secciones aduaneras.
 
@@ -2890,7 +2890,7 @@ VIII. Cuando no se encuentre al corriente en sus obligaciones fiscales.
 
 Para determinar el destino de las mercancías que pasen a ser propiedad del Fisco Federal, la Secretaría deberá asesorarse de un Consejo integrado por instituciones filantrópicas y representantes de las Cámaras y asociaciones de contribuyentes interesadas en la producción y comercialización de mercancías idénticas o similares a aquellas. La citada dependencia deberá observar los siguientes lineamientos:
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
 
 I. Que el producto de la enajenación sea suficiente para cubrir los gastos relacionados con el almacenamiento, traslado y demás que sean necesarios para efectuar el destino de las mercancías. La diferencia deberá invertirse en Certificados de la Tesorería, a fin de que en los supuestos de dictarse alguna resolución posterior o de los señalados en los artículos 28 y 34 de esta Ley, se disponga la aplicación del producto y rendimientos citados, conforme proceda.
 
@@ -3046,7 +3046,7 @@ En los casos a que se refieren las fracciones I, II, III, IV, VI y VII el medio 
 
 Por lo que se refiere a las fracciones III y IV, el resto del embarque quedará como garantía del interés fiscal, salvo que se trate de maquiladoras o empresas con programas de exportación autorizados por la Secretaría de Comercio y Fomento Industrial, en este caso, sólo se procederá al embargo de la totalidad del excedente, permitiéndose inmediatamente la salida del medio de transporte y del resto de la mercancía correctamente declarada.
 
-> <small>(DEROGADO ULTIMO PARRAFO, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
 
 > <small>(REFORMADO, D.O.F. 2 DE FEBRERO DE 2006)</small>
 
@@ -3086,7 +3086,7 @@ En los casos a que se refiere el artículo 151, fracción VII de esta Ley, el em
 
 En los casos en que el infractor cumpla con las regulaciones y restricciones no arancelarias en un plazo de treinta días a partir de la notificación del acta de inicio del procedimiento administrativo en materia aduanera, podrá autorizarse la sustitución del embargo precautorio de las mercancías embargadas, conforme a lo señalado en el primer párrafo de este artículo.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
 ###### Artículo 155.
 
@@ -3216,7 +3216,7 @@ Cuando los agentes aduanales tengan autorización para despachar en aduanas dist
 
 La propia Secretaría podrá cambiar la obligación a que se refiere el primer párrafo de esta fracción, autorizando, a petición de los agentes aduanales de un determinado lugar, que el servicio se proporcione en forma rotatoria o permanente para el total de las operaciones a que se refiere esta fracción por uno o varios agentes.
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 1 DE JULIO DE 2010)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE AGOSTO DE 2011)
 
 En los casos a que se refiere esta fracción, el agente aduanal tendrá derecho a una contraprestación de $183.00 por cada operación.
 
@@ -3356,7 +3356,7 @@ VI. Declarar con inexactitud en el pedimento, siempre que resulte lesionado el i
 
 No procederá la suspensión a que se refiere esta fracción, cuando la omisión de contribuciones y cuotas compensatorias, en su caso, se deba a la inexacta clasificación arancelaria por diferencia de criterios en la interpretación de las tarifas contenidas en las leyes de los impuestos generales de importación o exportación, siempre que la descripción, naturaleza y demás características necesarias para la clasificación de las mercancías hayan sido correctamente manifestadas a la autoridad.
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 1 DE JULIO DE 2010)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE AGOSTO DE 2011)
 
 VII. Tratándose de los regímenes aduaneros temporales, de depósito fiscal y de tránsito de mercancías, declarar con inexactitud alguno de los datos a que se refiere el primer párrafo de la fracción II, del artículo 165 de esta Ley, siempre que con los datos aportados, excluida la liquidación provisional a que se refieren los artículos 127, fracción II y 131, fracción II de esta Ley, de haberse destinado la mercancía de que se trate al régimen de importación definitiva, la omisión no exceda de $99,342.00.
 
@@ -3370,11 +3370,11 @@ Será cancelada la patente de agente aduanal, independientemente de las sancione
 
 I. Contravenir lo dispuesto en el artículo 163, fracción II.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
 II. Declarar con inexactitud algún dato en el pedimento, o en la factura tratándose de operaciones con pedimento consolidado, siempre que se dé alguno de los siguientes supuestos:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 1 DE JULIO DE 2010)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE AGOSTO DE 2011)
 
 a) La omisión en el pago de impuestos al comercio exterior, derechos y cuotas compensatorias, en su caso, exceda de $141,917.00 y dicha omisión represente más del 10% del total de los que debieron pagarse.
 
@@ -3400,7 +3400,7 @@ VI. Permitir que un tercero, cualquiera que sea su carácter, actúe al amparo d
 
 VII. Tratándose de los regímenes aduaneros temporales, de depósito fiscal y de tránsito de mercancías, declarar con inexactitud alguno de los datos a que se refiere el primer párrafo de la fracción II de este artículo, siempre que con los datos aportados, excluida la liquidación provisional a que se refieren los artículos 127, fracción II y 131, fracción II de esta Ley, de haberse destinado la mercancía de que se trate al régimen de importación definitiva, se dé alguno de los siguientes supuestos:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 1 DE JULIO DE 2010)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE AGOSTO DE 2011)
 
 a) La omisión exceda de $141,917.00 y del 10% de los impuestos al comercio exterior, derechos y, en su caso, cuotas compensatorias causadas.
 
@@ -3554,7 +3554,7 @@ Será cancelada la autorización de apoderado aduanal, independientemente de las
 
 I. Declarar con inexactitud algún dato en el pedimento, o en la factura tratándose de operaciones con pedimento consolidado, siempre que se dé alguno de los siguientes supuestos:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 1 DE JULIO DE 2010)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE AGOSTO DE 2011)
 
 a) La omisión en el pago de impuestos al comercio exterior, derechos y cuotas compensatorias, en su caso, exceda de $99,342.00 y dicha omisión represente más del 10% del total de los que debieron pagarse.
 
@@ -3576,7 +3576,7 @@ IV. Permitir que un tercero, cualquiera que sea su carácter, actúe al amparo d
 
 V. Tratándose de los regímenes aduaneros temporales, de depósito fiscal y de tránsito interno de mercancías, declarar con inexactitud alguno de los datos a que se refiere el primer párrafo de la fracción I de este artículo, siempre que con los datos aportados, excluida la liquidación provisional a que se refiere el artículo 127, fracción II de esta Ley, de haberse destinado las mercancías de que se trate al régimen de importación definitiva, se dé alguno de los siguientes supuestos:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 1 DE JULIO DE 2010)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE AGOSTO DE 2011)
 
 a) La omisión exceda de $99,342.00 y del 10% de los impuestos al comercio exterior, derechos y, en su caso, cuotas compensatorias causadas.
 
@@ -3588,7 +3588,7 @@ c) Se trate de mercancías de importación o exportación prohibida.
 
 VI. Cuando cometa alguna de las infracciones previstas en el artículo 176 de esta Ley.
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 1 DE JULIO DE 2010)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE AGOSTO DE 2011)
 
 No será cancelada la autorización de apoderado aduanal siempre que la omisión en el pago de impuestos al comercio exterior, derechos y cuotas compensatorias, no represente más de un 10% del total de los que debieron pagarse y dicha omisión no exceda de $99,342.00.
 
@@ -3632,7 +3632,7 @@ En el caso en que se aplique una sanción como consecuencia de una irregularidad
 
 ### Capítulo Unico
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
 ###### Artículo 176.
 
@@ -3708,7 +3708,7 @@ XI. (DEROGADA, D.O.F. 31 DE DICIEMBRE DE 1998)
 
 Se aplicarán las siguientes sanciones a quien cometa las infracciones establecidas por el artículo 176 de esta Ley:
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
 I. Multa del 130% al 150% de los impuestos al comercio exterior omitidos, cuando no se haya cubierto lo que correspondía pagar.
 
@@ -3716,7 +3716,7 @@ I. Multa del 130% al 150% de los impuestos al comercio exterior omitidos, cuando
 
 Cuando la infracción a que se refiere esta fracción sea cometida por pasajeros, se impondrá una multa del 80% al 120% del valor comercial de las mercancías, salvo que se haya ejercido la opción a que se refiere la fracción I del artículo 50 de esta Ley, en cuyo caso, la multa será del 70% al 100% de dicho valor comercial.
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 1 DE JULIO DE 2010)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE AGOSTO DE 2011)
 
 II. Multa de $2,838.00 a $7,096.00 cuando no se haya obtenido el permiso de autoridad competente, tratándose de vehículos.
 
@@ -3772,7 +3772,7 @@ Cometen la infracción de circulación indebida dentro del recinto fiscal quiene
 
 Cometen la infracción de uso indebido de funciones dentro del recinto fiscal, quienes realicen cualquier diligencia o actuación dentro de los recintos fiscales o fiscalizados, sin autorización expresa de las autoridades aduaneras.
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO PRIMER PARRAFO], D.O.F. 28 DE ABRIL DE 2003)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO PRIMER PÁRRAFO], D.O.F. 28 DE ABRIL DE 2003)
 
 ###### Artículo 181.
 
@@ -3826,7 +3826,7 @@ I. Multa equivalente del 130% al 150% del beneficio obtenido con la franquicia, 
 
 Multa equivalente del 30% al 50% del impuesto general de importación que habría tenido que cubrirse si la importación fuera definitiva o del 15% al 30% del valor comercial de las mercancías cuando estén exentas, en los casos a que se refiere la fracción I, incisos d) y e) y la fracción III. Tratándose de yates y veleros turísticos la multa será del 10% al 15% del valor comercial.
 
-(ACTUALIZADO EN SU MONTO PRIMER PARRAFO [N. DE E. REPUBLICADO], D.O.F. 1 DE JULIO DE 2010)
+(ACTUALIZADO EN SU MONTO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], D.O.F. 3 DE AGOSTO DE 2011)
 
 II. Si la infracción consistió en exceder los plazos concedidos para el retorno de las mercancías de importación o internación, según el caso, multa de $1,145.00 a $1,717.00 si el retorno se verifica en forma espontánea, por cada periodo de quince días o fracción que transcurra desde la fecha de vencimiento del plazo hasta que se efectúe el retorno. El monto de la multa no excederá del valor de las mercancías.
 
@@ -3840,7 +3840,7 @@ III. Multa equivalente a la señalada por el artículo 178, fracciones I, II, II
 
 IV. Multa equivalente del 30% al 50% del valor comercial de las mercancías correspondientes, en los demás casos.
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 1 DE JULIO DE 2010)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE AGOSTO DE 2011)
 
 V. Multa de $42,575.00 a $56,767.00 en el supuesto a que se refiere la fracción IV.
 
@@ -3942,17 +3942,17 @@ XVII. Omitan presentar el aviso a que se refiere la fracción XII del artículo 
 
 XVIII. Omitan presentar la documentación aduanera a que se refiere el segundo párrafo, del artículo 36 de esta Ley.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
 
 ###### Artículo 185.
 
 Se aplicarán las siguientes multas a quienes cometan las infracciones relacionadas con las obligaciones de presentar documentación y declaraciones, así como de transmisión electrónica de la información, previstas en el artículo 184 de esta Ley:
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 1 DE JULIO DE 2010)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE AGOSTO DE 2011)
 
 I. Multa de $2,049.00 a $3,073.00, en caso de omisión a las mencionadas en las fracciones I, II y XVIII. Las multas se reducirán al 50% cuando la presentación sea extemporánea.
 
-(ACTUALIZADO EN SU MONTO PRIMER PARRAFO [N. DE E. REPUBLICADO], D.O.F. 1 DE JULIO DE 2010)
+(ACTUALIZADO EN SU MONTO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], D.O.F. 3 DE AGOSTO DE 2011)
 
 II. Multa de $993.00 a $1,419.00 a la señalada en la fracción III, por cada documento.
 
@@ -3960,19 +3960,19 @@ II. Multa de $993.00 a $1,419.00 a la señalada en la fracción III, por cada do
 
 No se aplicará la multa a que se refiere esta fracción, cuando el agente o apoderado aduanal presente la rectificación correspondiente dentro de los diez días siguientes contados a partir del día siguiente a aquél en el que le fuera notificado el escrito o acta correspondiente en el que se haga constar la irregularidad detectada en el reconocimiento o segundo reconocimiento, así como de la revisión de documentos siempre que presente copia del pedimento correspondiente ante la aduana que emitió el escrito o el acta, dentro del plazo de diez días otorgado para el ofrecimiento de pruebas y alegatos. No obstante lo anterior, la aduana procederá a aplicar las multas que correspondan cuando no se rectifiquen todos los datos a que se refiera el escrito o acta.
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 1 DE JULIO DE 2010)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE AGOSTO DE 2011)
 
 III. Multa de $1,716.00 a $2,861.00 tratándose de la fracción IV.
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 1 DE JULIO DE 2010)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE AGOSTO DE 2011)
 
 IV. Multa de $2,290.00 a $3,435.00 a la señalada en la fracción V, por cada medio magnético que contenga información inexacta, incompleta o falsa.
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 1 DE JULIO DE 2010)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE AGOSTO DE 2011)
 
 V. Multa de $2,129.00 a $3,548.00 a la señalada en la fracción VI.
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 1 DE JULIO DE 2010)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE AGOSTO DE 2011)
 
 VI. Multa de $2,129.00 a $3,548.00, en el caso señalado en la fracción VII, por cada pedimento.
 
@@ -3980,23 +3980,23 @@ VI. Multa de $2,129.00 a $3,548.00, en el caso señalado en la fracción VII, po
 
 VII. Multa equivalente de 20% al 40% de la cantidad que exceda al equivalente en la moneda o monedas de que se trate a diez mil dólares de los Estados Unidos de América, a las infracciones establecidas en las fracciones VIII, XV y XVI.
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REFORMADA], D.O.F. 1 DE JULIO DE 2010)
+(ACTUALIZADA EN SU MONTO [N. DE E. REFORMADA], D.O.F. 3 DE AGOSTO DE 2011)
 
 VIII. Multa de $40,972.00 a $61,457.00, en el caso de la transmisión electrónica señalada en la fracción IX, por la omisión de cada pasajero, tripulante o medio de transporte que arribe a territorio nacional, a que se refiere el inciso a) y por la omisión relativa a la mercancía por cada medio de transporte a que se refiere el inciso b). La multa se reducirá en un 50%, en el caso de que la transmisión electrónica sea extemporánea, incompleta o contenga información incorrecta.
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 1 DE JULIO DE 2010)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE AGOSTO DE 2011)
 
 IX. Multa de $114,499.00 a $171,748.00, en los casos señalados en la fracción X, por cada aeronave que arribe al territorio nacional.
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 1 DE JULIO DE 2010)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE AGOSTO DE 2011)
 
 X. Multa de $1,419.00 a $2,129.00, en el caso señalado en la fracción XI, por cada pedimento.
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 1 DE JULIO DE 2010)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE AGOSTO DE 2011)
 
 XI. Multa de $4,258.00 a $5,677.00 en caso de omisión y de $2,129.00 a $3,548.00 por la presentación extemporánea, en el caso señalado en la fracción XII.
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 1 DE JULIO DE 2010)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE AGOSTO DE 2011)
 
 XII. Multa de $710.00 a $1,419.00, en el caso señalado en la fracción XIII, por cada documento.
 
@@ -4004,7 +4004,7 @@ XII. Multa de $710.00 a $1,419.00, en el caso señalado en la fracción XIII, po
 
 XIII. Multa equivalente del 2% al 10% del valor comercial de las mercancías, a la señalada en la fracción XIV.
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REFORMADA], D.O.F. 1 DE JULIO DE 2010)
+(ACTUALIZADA EN SU MONTO [N. DE E. REFORMADA], D.O.F. 3 DE AGOSTO DE 2011)
 
 XIV. Multa de $10,243.00 a $15,364.00, a la señalada en la fracción XVII por cada periodo de 15 días o fracción que transcurra desde la fecha en que se debió presentar el aviso y hasta que el mismo se presente.
 
@@ -4014,7 +4014,7 @@ XIV. Multa de $10,243.00 a $15,364.00, a la señalada en la fracción XVII por c
 
 Comete la infracción relacionada con la obligación de llevar los sistemas de control de inventarios, quienes no cumplan con lo dispuesto en la fracción I del artículo 59 de esta Ley.
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 1 DE JULIO DE 2010)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE AGOSTO DE 2011)
 
 ###### Artículo 185-B.
 
@@ -4096,11 +4096,11 @@ XXIII. Las personas que hubieran obtenido la autorización a que se refiere el a
 
 Se aplicarán las siguientes sanciones a quien cometa las infracciones relacionadas con el control, seguridad y manejo de las mercancías previstas en el artículo 186 de esta Ley:
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 1 DE JULIO DE 2010)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE AGOSTO DE 2011)
 
 I. Multa de $4,097.00 a $5,634.00, a las señaladas en las fracciones I, II, IV, V, XI, XXI y XXII.
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 1 DE JULIO DE 2010)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE AGOSTO DE 2011)
 
 II. Multa de $1,145.00 a $1,717.00, a la señalada en la fracción III.
 
@@ -4108,21 +4108,21 @@ II. Multa de $1,145.00 a $1,717.00, a la señalada en la fracción III.
 
 III. Multa equivalente del 70% al 100% de las contribuciones y cuotas compensatorias omitidas, cuando no se haya cubierto lo que correspondía pagar o del 30% al 50% del valor comercial de las mercancías si están exentas o se trata de retorno al extranjero, a la señalada en la fracción VI.
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 1 DE JULIO DE 2010)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE AGOSTO DE 2011)
 
 IV. Multa de $11,450.00 a $17,175.00 a las señaladas en las fracciones IX y X.
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 1 DE JULIO DE 2010)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE AGOSTO DE 2011)
 
 V. Multa de $6,870.00 a $9,160.00 a las señaladas en las fracciones XII y XIII.
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 1 DE JULIO DE 2010)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE AGOSTO DE 2011)
 
 VI. Multa de $40,972.00 a $61,457.00, a la señalada en la fracción VIII.
 
 VII. Clausura del establecimiento por una semana en la primera ocasión, por dos semanas en la segunda ocasión, por tres semanas en la tercera y siguientes ocasiones dentro de cada año de calendario, a la señalada en la fracción XV del artículo 186 de esta Ley.
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 1 DE JULIO DE 2010)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE AGOSTO DE 2011)
 
 VIII. Multa de $22,900.00 a $45,800.00 a la señalada en la fracción XVI.
 
@@ -4130,15 +4130,15 @@ VIII. Multa de $22,900.00 a $45,800.00 a la señalada en la fracción XVI.
 
 IX. Multa del 3% al 5% del importe total que no se hubiera transferido, a la señalada en la fracción XVIII.
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 1 DE JULIO DE 2010)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE AGOSTO DE 2011)
 
 X. Multa de $56,767.00 a $78,054.00, a la señalada en la fracción XIX.
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 1 DE JULIO DE 2010)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE AGOSTO DE 2011)
 
 XI. Multa de $710.00 a $1,419.00, a la señalada en la fracción XVII.
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 1 DE JULIO DE 2010)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE AGOSTO DE 2011)
 
 XII. Multa de $256,072.00 a $409,716.00, a la señalada en la fracción XX, por cada periodo de 20 días o fracción que transcurra desde la fecha en que se debió dar cumplimiento a la obligación y hasta que la misma se cumpla.
 
@@ -4146,11 +4146,11 @@ XII. Multa de $256,072.00 a $409,716.00, a la señalada en la fracción XX, por 
 
 XIII. Multa equivalente del 80% al 100% de las contribuciones y cuotas compensatorias que se hubieran omitido, cuando no se haya cubierto lo que correspondía pagar o del 30% al 50% del valor comercial de las mercancías si están exentas o se trata de retorno al extranjero, a la señalada en la fracción VII. En el caso de reincidencia, la sanción consistirá en la suspensión provisional del recinto fiscalizado por un plazo de dos a treinta días.
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 1 DE JULIO DE 2010)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE AGOSTO DE 2011)
 
 XIV. Multa de $40,972.00 a $61,457.00, a la señalada en la fracción XIV. En el caso de reincidencia, la sanción consistirá en la suspensión provisional del recinto fiscalizado por un plazo de dos a treinta días.
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 1 DE JULIO DE 2010)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE AGOSTO DE 2011)
 
 XV. Multa de $512,145.00 a $1,024,289.00 a la señalada en la fracción XXIII.
 
@@ -4170,11 +4170,11 @@ II. Utilice una clave confidencial que haya sido revocada o cancelada.
 
 Se aplicarán las siguientes sanciones a quien cometa las infracciones a que se refiere el artículo 188 de esta Ley:
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 1 DE JULIO DE 2010)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE AGOSTO DE 2011)
 
 I. Multa de $22,900.00 a $34,350.00, a quien cometa la infracción señalada en la fracción I.
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 1 DE JULIO DE 2010)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE AGOSTO DE 2011)
 
 II. Multa de $45,800.00 a $68,699.00, a quien cometa la infracción señalada en la fracción II.
 
@@ -4196,19 +4196,19 @@ V. Falsifique o altere el contenido de algún gafete de identificación.
 
 Se aplicarán las siguientes sanciones a quien cometa las infracciones establecidas en el artículo 190 de esta Ley:
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 1 DE JULIO DE 2010)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE AGOSTO DE 2011)
 
 I. Multa de $11,450.00 a $17,175.00, tratándose de las señaladas en las fracciones l y II.
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 1 DE JULIO DE 2010)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE AGOSTO DE 2011)
 
 II. Multa de $22,900.00 a $34,350.00, tratándose de la señalada en la fracción III.
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 1 DE JULIO DE 2010)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE AGOSTO DE 2011)
 
 III. Multa de $2,290.00 a $3,435.00, tratándose de la señalada en la fracción IV.
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 1 DE JULIO DE 2010)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE AGOSTO DE 2011)
 
 IV. Multa de $45,800.00 a $68,699.00, tratándose de la señalada en la fracción V, independientemente de las sanciones a que haya lugar por la comisión de delitos.
 
@@ -4228,15 +4228,15 @@ III. Introduzca al recinto fiscal vehículos que transporten mercancías cuyo pe
 
 Se aplicarán las siguientes sanciones a quien cometa las infracciones relacionadas con la seguridad o integridad de las instalaciones aduaneras previstas en el artículo 192 de esta Ley:
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 1 DE JULIO DE 2010)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE AGOSTO DE 2011)
 
 I. Multa de $6,870.00 a $9,160.00, a la señalada en la fracción I.
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 1 DE JULIO DE 2010)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE AGOSTO DE 2011)
 
 II. Multa de $9,160.00 a $11,450.00, a la señalada en la fracción II, así como reparación del daño causado.
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 1 DE JULIO DE 2010)
+(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE AGOSTO DE 2011)
 
 III. Multa de $9,160.00 a $11,450.00, si se trata de la señalada en la fracción III.
 
@@ -4298,7 +4298,7 @@ IV. En un 50% cuando la multa se haya impuesto por la omisión en el pago de las
 
 Lo dispuesto en este artículo no será aplicable cuando se den los supuestos del artículo 198 de esta Ley.
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 1 DE JULIO DE 2010)
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE AGOSTO DE 2011)
 
 ###### Artículo 200.
 
@@ -4318,7 +4318,7 @@ Los agentes o apoderados aduanales, los transportistas y demás personas relacio
 
 En contra de todas las resoluciones definitivas que dicten las autoridades aduaneras procederá el recurso de revocación establecido en el Código Fiscal de la Federación.
 
-> <small>(REFORMADO POR FRACCION III DEL ARTICULO DECIMO PRIMERO DE LAS DISPOSICIONES TRANSITORIAS DE LA LEY ORGANICA DEL TRIBUNAL FISCAL DE LA FEDERACION, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADO POR FRACCIÓN III DEL ARTÍCULO DÉCIMO PRIMERO DE LAS DISPOSICIONES TRANSITORIAS DE LA LEY ORGÁNICA DEL TRIBUNAL FISCAL DE LA FEDERACIÓN, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
 
 La interposición del recurso de revocación será optativa para el interesado antes de acudir al Tribunal Federal de Justicia Fiscal y Administrativa.
 
@@ -4559,3 +4559,7 @@ LA ACTUALIZACION CON ANTELACION CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN
 D.O.F. 1 DE JULIO DE 2010.
 
 LA ACTUALIZACION CON ANTELACION CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL FEDERAL VIGENTE.
+
+D.O.F. 3 DE AGOSTO DE 2011.
+
+LA ACTUALIZACIÓN CON ANTELACIÓN CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CÓDIGO CIVIL FEDERAL VIGENTE.
