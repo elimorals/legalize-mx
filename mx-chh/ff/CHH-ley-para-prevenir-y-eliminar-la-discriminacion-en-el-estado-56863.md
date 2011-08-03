@@ -4,7 +4,7 @@ identifier: "CHH-ley-para-prevenir-y-eliminar-la-discriminacion-en-el-estado-568
 country: "mx"
 rank: "ley"
 publication_date: "2007-07-07"
-last_updated: "2007-07-07"
+last_updated: "2011-08-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56863&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "CHH"
 ---
 # LEY PARA PREVENIR Y ELIMINAR LA DISCRIMINACION EN EL ESTADO DE CHIHUAHUA
 
-LEY PARA PREVENIR Y ELIMINAR LA DISCRIMINACION EN EL ESTADO DE CHIHUAHUA
+LEY PARA PREVENIR Y ELIMINAR LA DISCRIMINACIÓN EN EL ESTADO DE CHIHUAHUA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE AGOSTO DE 2011.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 7 de julio de 2007.
 
@@ -71,35 +71,43 @@ Los órganos públicos estatales y municipales adoptarán las medidas, acciones 
 
 Las medidas, acciones afirmativas y compensatorias que se establecen en la presente ley son de carácter progresivo, por lo que no podrán ser reducidas o eliminadas, sino únicamente ampliarse.
 
+> <small>(REFORMADO, P.O. 3 DE AGOSTO DE 2011)</small>
+
 ###### Artículo 4.
 
-Para los efectos de esta ley se entenderá por discriminación toda distinción, exclusión o restricción basada en el origen étnico, nacional o regional; en el sexo, la edad, discapacidad, condición social, económica o sociocultural, apariencia personal, ideologías, creencias, caracteres genéticos, condiciones de salud, embarazo, lengua, religión, opiniones, orientación o preferencias sexuales, estado civil o cualquier otra que tenga por efecto impedir o anular, total o parcialmente, el reconocimiento o el ejercicio de los derechos y la igualdad con equidad de oportunidades de las personas, haciéndolas nugatorias al afectado.
+Para los efectos de esta ley se entenderá por:
 
-Así mismo, para efectos de la presente ley se entiende por:
+I. Discriminación: Toda distinción, exclusión o restricción basada en el origen étnico, nacional o regional; en el sexo, la edad, discapacidad, condición social, económica o sociocultural, apariencia personal, ideologías, creencias, caracteres genéticos, condiciones de salud, embarazo, lengua, religión, opiniones, orientación o preferencias sexuales, estado civil o cualquier otra que tenga por efecto impedir o anular, total o parcialmente, el reconocimiento o el ejercicio de los derechos y la igualdad con equidad de oportunidades de las personas, haciéndolas nugatorias al afectado.
 
-I. Comisión Estatal: A la Comisión Estatal para el Desarrollo Social y Humano prevista en la ley de la materia.
+II. Comisión Estatal: A la Comisión Estatal para el Desarrollo Social y Humano prevista en la ley de la materia.
 
-II. Subcomisión: A la Subcomisión para Prevenir y Eliminar la Discriminación, ubicada dentro de la Comisión Estatal.
+III. Subcomisión: A la Subcomisión para Prevenir y Eliminar la Discriminación, ubicada dentro de la Comisión Estatal.
 
-III. Presidente o Presidenta de la Subcomisión: Al Presidente(a) de la Subcomisión para Prevenir y Eliminar la Discriminación.
+IV. Presidente o Presidenta de la Subcomisión: Al Presidente(a) de la Subcomisión para Prevenir y Eliminar la Discriminación.
 
-IV. Secretario(a) Técnico(a): Al de la Subcomisión para Prevenir y Eliminar la Discriminación.
+V. Secretario(a) Técnico(a): Al de la Subcomisión para Prevenir y Eliminar la Discriminación.
 
-V. Consejo de Desarrollo Social: Al Consejo de Desarrollo Social y Participación Ciudadana del Estado de Chihuahua.
+VI. Consejo de Desarrollo Social: Al Consejo de Desarrollo Social y Participación Ciudadana del Estado de Chihuahua.
 
-VI. Programa: Programa Estatal para Prevenir y Eliminar la Discriminación.
+VII. Programa: Programa Estatal para Prevenir y Eliminar la Discriminación.
+
+VIII. Atención Preferencial o Diferenciada: Diferenciación jurídica de tratamiento creada de manera temporal, con el fin de favorecer una cantidad determinada de personas y compensar una desigualdad de hecho y estructural.
 
 ###### Artículo 5.
 
 No se consideran conductas discriminatorias las siguientes:
 
-I. Las acciones legislativas, educativas o de políticas públicas afirmativas o compensatorias que, sin afectar derechos de terceros, establezcan tratos diferenciados con el objeto de promover la igualdad con equidad de oportunidades;
+> <small>(REFORMADA, P.O. 3 DE AGOSTO DE 2011)</small>
+
+I. Las disposiciones legales o políticas públicas afirmativas o compensatorias que tengan como fin la promoción de la igualdad con equidad de oportunidades.
 
 II. Las distinciones basadas en capacidades o conocimientos especializados para desempeñar una actividad determinada y, en el ámbito educativo, los requisitos académicos, de edad y de evaluación;
 
 III. La distinción establecida por las instituciones públicas de seguridad social entre sus derechohabientes y la población en general;
 
-IV. El trato diferenciado que en su beneficio reciba una persona con discapacidad o que padezca alguna enfermedad mental;
+> <small>(REFORMADA, P.O. 3 DE AGOSTO DE 2011)</small>
+
+IV. Las acciones de los sectores privado y social, que mediante un trato o atención preferencial o diferenciada, contribuyan a la concreción de los derechos de las personas.
 
 V. Las distinciones, exclusiones, restricciones o preferencias que se hagan entre ciudadanos y no ciudadanos, y entre nacionales y extranjeros;
 
@@ -534,3 +542,11 @@ Por tanto mando se imprima, circule y se le dé el debido cumplimiento.
 En la Ciudad de Chihuahua, Palacio de Gobierno del Estado, a los veinticinco días del mes de junio del año dos mil siete.
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO. LIC. JOSÉ REYES BAEZA TERRAZAS. Rúbrica. EL SECRETARIO GENERAL DE GOBIERNO INTERINO. LIC. HÉCTOR HUMBERTO HERNÁNDEZ VARELA. Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 3 DE AGOSTO DE 2011.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
