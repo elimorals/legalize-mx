@@ -4,7 +4,7 @@ identifier: "LGOAAC"
 country: "mx"
 rank: "ley_general"
 publication_date: "1985-01-14"
-last_updated: "2008-08-20"
+last_updated: "2011-08-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=317&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGOAAC"
 
 LEY GENERAL DE ORGANIZACIONES Y ACTIVIDADES AUXILIARES DEL CRÉDITO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 20 DE AGOSTO DE 2008.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 3 DE AGOSTO DE 2011.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el lunes 14 de enero de 1985.
 
@@ -76,15 +76,17 @@ V. (DEROGADA, D.O.F. 18 DE JULIO DE 2006)
 
 VI. Las demás que otras leyes consideren como tales.
 
-> <small>(REFORMADO, D.O.F. 18 DE JULIO DE 2006)</small>
+> <small>(REFORMADO, D.O.F. 3 DE AGOSTO DE 2011)</small>
 
 ###### ARTICULO 4o.
 
 Se consideran actividades auxiliares del crédito:
 
-I. La compra-venta habitual y profesional de divisas, y
+I. La compra-venta habitual y profesional de divisas;
 
-II. La realización habitual y profesional de operaciones de crédito, arrendamiento financiero o factoraje financiero.
+II. La realización habitual y profesional de operaciones de crédito, arrendamiento financiero o factoraje financiero, y
+
+III. La transmisión de fondos.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO TERCERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
@@ -160,17 +162,17 @@ La solicitud de autorización para constituir y operar una organización auxilia
 
 En los casos de revocación a que se refiere la fracción I del artículo 78 de esta Ley se hará efectivo el depósito de garantía, aplicándose al fisco federal el importe original del depósito mencionado en el primer párrafo. En el supuesto de que se deniegue la autorización solicitada, exista desistimiento por parte de los interesados o se inicien operaciones en los términos previstos en esta Ley, se devolverá al solicitante el principal y accesorios del depósito referido.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 18 DE JULIO DE 2006)</small>
+> <small>(REFORMADO, D.O.F. 3 DE AGOSTO DE 2011)</small>
 
 ###### ARTICULO 7o.
 
-Las palabras organización auxiliar del crédito, almacén general de depósito, unión de crédito, casa de cambio u otras que expresen ideas semejantes en cualquier idioma, solo podrán ser usadas en la denominación de las sociedades a las que haya sido otorgada la autorización a que se refieren los artículos 5 y 81 de la presente Ley.
+Las palabras organización auxiliar del crédito, almacén general de depósito, casa de cambio, centro cambiario o transmisor de dinero, así como otras que expresen ideas semejantes en cualquier idioma, solo podrán ser usadas en la denominación de las sociedades a las que les haya sido otorgada la autorización o bien, se encuentren registradas, según corresponda, en términos de lo dispuesto por los artículos 5o., 81 y 81-B de la presente Ley.
 
-> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1990)</small>
+Se exceptúan de la aplicación del párrafo anterior a las asociaciones de organizaciones auxiliares del crédito o de sociedades que se dediquen a actividades auxiliares del crédito, las demás personas que sean autorizadas por la Comisión Nacional para la Protección y Defensa al Usuario de Servicios Financieros para estos efectos, así como a las que agrupen a centros cambiarios o transmisores de dinero, siempre que no realicen operaciones sujetas a autorización o registro, en los términos previstos en esta Ley.
 
-Se exceptúa de la aplicación del párrafo anterior, a las asociaciones de organizaciones auxiliares del crédito o de sociedades que se dediquen a actividades auxiliares del crédito, siempre que no realicen operaciones sujetas a autorización por esta Ley.
+Las organizaciones auxiliares del crédito que no tengan el carácter de nacionales no podrán incluir el término nacional en su denominación.
 
-Las organizaciones auxiliares del crédito que no tengan el carácter de nacionales, no podrán incluir el término nacional en su denominación.
+Asimismo, las palabras cambio, compra o venta de divisas, transmisión de fondos, así como otras que expresen ideas semejantes en cualquier idioma, ya sea que se refieran a divisas en general o a un tipo específico de éstas, no podrán ser usadas en el nombre o denominación de personas físicas cuyo régimen fiscal sea de ingresos por actividades empresariales, personas morales o establecimientos distintos de las casas de cambio, centros cambiarios, transmisores de dinero o aquellas instituciones financieras que conforme a las leyes que las rigen se encuentren facultadas para realizar operaciones de cambio o compra y venta de divisas, así como transmisión de fondos.
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 4 DE JUNIO DE 2001)</small>
 
@@ -1318,31 +1320,35 @@ Cuando de los estados de situación mensual que las organizaciones están obliga
 
 ### CAPITULO II. De la Inspección y Vigilancia
 
-> <small>(REFORMADO, D.O.F. 15 DE JULIO DE 1993)</small>
+> <small>(REFORMADO, D.O.F. 3 DE AGOSTO DE 2011)</small>
 
 ###### ARTICULO 56.
 
-La inspección y vigilancia de las organizaciones auxiliares del crédito y casas de cambio queda confiada a la Comisión Nacional Bancaria, la que tendrá en lo que no se oponga a esta Ley, respecto de dichas organizaciones auxiliares del crédito y casas de cambio, todas las facultades que en materia de inspección y vigilancia le confiere la Ley de Instituciones de Crédito.
+La inspección y vigilancia de las organizaciones auxiliares del crédito y casas de cambio queda confiada a la Comisión Nacional Bancaria y de Valores, la que tendrá, en lo que no se oponga a esta Ley, respecto de dichas organizaciones auxiliares del crédito y casas de cambio, todas las facultades que en materia de inspección y vigilancia le confiere la Ley de Instituciones de Crédito.
 
-Las organizaciones auxiliares del crédito y casas de cambio deberán rendir a la Secretaría de Hacienda y Crédito Público y a la Comisión Nacional Bancaria, en la forma y términos que al efecto establezcan, los informes, documentos y pruebas que sobre su organización, operaciones, contabilidad, inversiones o patrimonio les soliciten para fines de regulación, supervisión, control, inspección, vigilancia, estadística y demás funciones que conforme a esta Ley u otras disposiciones legales y administrativas, les corresponda ejercer.
+En lo que respecta a las sociedades financieras de objeto múltiple no reguladas, los centros cambiarios y los transmisores de dinero, la inspección y vigilancia de estas sociedades, se llevará a cabo por la mencionada Comisión, exclusivamente para verificar el cumplimiento de los preceptos a que se refiere el artículo 95 Bis de esta Ley y las disposiciones de carácter general que de éste deriven.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 15 DE JULIO DE 1993)</small>
+Las organizaciones auxiliares del crédito y casas de cambio deberán rendir a la Secretaría de Hacienda y Crédito Público y a la Comisión Nacional Bancaria y de Valores, en la forma y términos que al efecto establezcan, los informes, documentos y pruebas que sobre su organización, operaciones, contabilidad, inversiones o patrimonio les soliciten para fines de regulación, supervisión, control, inspección, vigilancia, estadística y demás funciones que, conforme a esta Ley u otras disposiciones legales y administrativas, les corresponda ejercer.
+
+> <small>(REFORMADO, D.O.F. 3 DE AGOSTO DE 2011)</small>
 
 ###### ARTICULO 57.
 
-Las organizaciones auxiliares del crédito y casas de cambio están obligadas a permitir las visitas de inspección. El visitador o inspector de la Comisión Nacional Bancaria que tenga a su cargo la inspección, deberá ser atendido por el principal funcionario de la organización o casa de cambio de que se trate y en ausencia de éste, por el funcionario que lo supla o por el de jerarquía inmediata inferior que se encuentre.
+Las organizaciones auxiliares del crédito y casas de cambio estarán obligadas a permitir las visitas de inspección que sean efectuadas por la Comisión Nacional Bancaria y de Valores en términos de las disposiciones previstas en esta Ley.
 
-> <small>(ADICIONADO, D.O.F. 15 DE JULIO DE 1993)</small>
+Asimismo, las sociedades financieras de objeto múltiple no reguladas, los centros cambiarios y los transmisores de dinero estarán obligados a permitir las visitas de inspección que la Comisión Nacional Bancaria y de Valores efectúe, exclusivamente para verificar el cumplimiento de los preceptos a que se refiere el artículo 95 Bis de esta Ley y las disposiciones de carácter general que de éste deriven.
 
-La Comisión Nacional Bancaria no está obligada a llevar a cabo visitas de inspección a solicitud de particulares ni a proporcionar a éstos ninguna información sobre dichas inspecciones.
+El principal funcionario de la organización auxiliar del crédito, casa de cambio, centro cambiario, transmisor de dinero o sociedad financiera de objeto múltiple no regulada de que se trate deberá atender al inspector de la Comisión Nacional Bancaria y de Valores que tenga a su cargo la inspección que corresponda en términos de los dos párrafos anteriores y, en ausencia de dicho funcionario, deberá atenderlo aquel que lo supla o el de la jerarquía inmediata inferior que se encuentre en el establecimiento respectivo.
 
-La inspección se efectuará a través de visitas que tendrán por objeto: revisar, verificar, comprobar y evaluar los recursos, obligaciones y patrimonio, así como las operaciones, funcionamiento, sistemas de control y en general, todo lo que pudiendo afectar la posición financiera y legal, conste o deba constar en los registros, a fin de que se ajusten al cumplimiento de las disposiciones que las rigen y a las sanas prácticas de la materia.
+La Comisión Nacional Bancaria y de Valores no está obligada a llevar a cabo visitas de inspección a solicitud de particulares ni a proporcionar a estos ninguna información sobre dichas inspecciones.
 
-Las visitas podrán ser ordinarias, especiales y de investigación. Las primeras se llevarán a cabo de conformidad con el programa anual que apruebe el Presidente de la Comisión. Las segundas, se practicarán siempre que sea necesario a juicio del Presidente de la Comisión para examinar, y en su caso, corregir situaciones especiales operativas, y las de investigación que tendrán por objeto aclarar una situación específica.
+La inspección a las organizaciones auxiliares del crédito y casas de cambio se efectuará a través de visitas, que tendrán por objeto revisar, verificar, comprobar y evaluar los recursos, obligaciones y patrimonio, así como las operaciones, funcionamiento, sistemas de control y, en general, todo lo que pueda afectar la posición financiera y legal que conste o deba constar en los registros, a fin de que se ajusten al cumplimiento de lo previsto en esta Ley, las disposiciones de carácter general que de ella deriven y a las sanas prácticas de la materia.
 
-> <small>(REFORMADO, D.O.F. 15 DE JULIO DE 1993)</small>
+Por su parte, en las visitas de inspección que realice la Comisión Nacional Bancaria y de Valores a los centros cambiarios, transmisores de dinero y sociedades financieras de objeto múltiple no reguladas, para verificar el cumplimiento de los preceptos a que se refiere el artículo 95 Bis de esta Ley y las disposiciones de carácter general que de éste deriven, deberá tener acceso a los libros, registros y documentos sobre las operaciones que realicen.
 
-Las organizaciones auxiliares del crédito y casas de cambio deberán justificar, en cualquier momento, la existencia de los activos en que se encuentren invertidos sus recursos, en la forma, términos y con los documentos que determine la Comisión Nacional Bancaria.
+Las visitas a que se refiere este artículo podrán ser ordinarias, especiales y de investigación. Las primeras se llevarán a cabo de conformidad con el programa anual de la Comisión Nacional Bancaria y de Valores. Las segundas se practicarán siempre que sea necesario a juicio del Presidente de la citada Comisión, para examinar y, en su caso, corregir situaciones especiales operativas, y las de investigación que tendrán por objeto aclarar una situación específica.
+
+Las organizaciones auxiliares del crédito y casas de cambio deberán justificar, en cualquier momento, la existencia de los activos en que se encuentren invertidos sus recursos, en la forma, términos y con los documentos que determine la Comisión Nacional Bancaria y de Valores.
 
 > <small>(ADICIONADO, D.O.F. 15 DE JULIO DE 1993)</small>
 
@@ -1398,13 +1404,23 @@ Si transcurrido el lapso a que se refiere el párrafo anterior no se hubiere int
 
 > <small>(DEROGADO ULTIMO PARRAFO, D.O.F. 15 DE JULIO DE 1993)</small>
 
-> <small>(REFORMADO, D.O.F. 15 DE JULIO DE 1993)</small>
+> <small>(REFORMADO, D.O.F. 3 DE AGOSTO DE 2011)</small>
 
 ###### ARTICULO 64.
 
-Cuando la Comisión Nacional Bancaria presuma que una persona física o moral está realizando operaciones de las reservadas a las organizaciones auxiliares del crédito o a las casas de cambio, sin contar con la autorización de la Secretaría de Hacienda y Crédito Público, podrá nombrar un inspector y los auxiliares necesarios para que revisen la contabilidad y demás documentación de la negociación, empresa o establecimiento de la persona física o moral, a fin de verificar si efectivamente está celebrando las operaciones mencionadas en violación a lo dispuesto por esta Ley, en cuyo caso la Comisión Nacional Bancaria podrá ordenar la suspensión inmediata de operaciones o proceder a la clausura de la negociación, empresa o establecimiento de la persona física o moral de que se trate.
+Cuando la Comisión Nacional Bancaria y de Valores presuma que una persona física o moral está realizando operaciones de las reservadas a las organizaciones auxiliares del crédito o casas de cambio sin contar con la autorización de la Secretaría de Hacienda y Crédito Público, podrá nombrar a un inspector y los auxiliares necesarios para que revisen la contabilidad y demás documentación de la negociación, empresa o establecimiento de la persona física o moral, a fin de verificar si efectivamente está celebrando las operaciones mencionadas en violación a lo dispuesto por esta Ley, en cuyo caso la Comisión Nacional Bancaria y de Valores podrá ordenar la suspensión inmediata de operaciones o proceder a la clausura de la negociación, empresa o establecimiento de la persona física o moral de que se trate.
 
-Los procedimientos de inspección, suspensión y clausura a que se refiere el párrafo anterior son de interés público. Los afectados podrán ocurrir en defensa de sus intereses ante la Comisión Nacional Bancaria, dentro de los quince días hábiles siguientes a la fecha en que tengan conocimiento del acto o actos que reclamen sin que ello suspenda tales procedimientos. En caso de que se ofrezcan pruebas, éstas se desahogarán en el término de diez días hábiles.
+Si la Comisión Nacional Bancaria y de Valores presume que una persona física, incluyendo aquellas cuyo régimen fiscal sea de ingresos por actividades empresariales, o moral, se encuentra realizando operaciones de las reservadas a los centros cambiarios o a los transmisores de dinero sin contar con el registro a que se refiere el artículo 81-B de esta Ley, notificará a la persona física o al representante legal de la persona moral de que se trate, a fin de que suspenda de forma inmediata la realización de las mencionadas actividades reservadas.
+
+De no efectuarse la suspensión de actividades a que se refiere el párrafo anterior, la Comisión Nacional Bancaria y de Valores podrá ordenar la clausura de la negociación, empresa o establecimiento de la persona física o moral de que se trate. Lo anterior, con independencia de las sanciones administrativas a que se hubiere hecho acreedor una vez que, mediante la revisión que lleve a cabo el inspector y auxiliares nombrados por la propia Comisión, ésta verifique que dicha persona efectivamente está realizando las operaciones antes señaladas en violación a lo dispuesto por esta Ley.
+
+Sin perjuicio de lo anterior, si la Comisión presume que los centros cambiarios o transmisores de dinero se encuentran realizando operaciones en contravención a lo previsto en esta Ley, una vez que, mediante la revisión que lleve a cabo el inspector y auxiliares nombrados por la propia Comisión, ésta verifique que dicha persona efectivamente está realizando operaciones en violación a lo dispuesto por esta Ley, podrá ordenar la suspensión inmediata de operaciones o clausurar a dichas sociedades, con independencia de la cancelación del registro en términos del artículo 81-D de esta Ley.
+
+Asimismo, la citada Comisión, podrá ordenar a las instituciones de crédito, casas de bolsa y casas de cambio con las que operen las personas morales a que se refieren los párrafos anteriores, que suspendan o cancelen los contratos que tengan celebrados con dichas personas morales y se abstengan de realizar nuevas operaciones.
+
+Lo anterior será procedente, con independencia de la opinión de delito que, en su caso, emita la Comisión Nacional Bancaria y de Valores en términos del artículo 95 del presente ordenamiento legal.
+
+Los procedimientos de inspección, suspensión y clausura a que se refiere este artículo son de interés público. Los afectados podrán ocurrir en defensa de sus intereses ante la Comisión Nacional Bancaria y de Valores dentro de los quince días hábiles siguientes a la fecha en que tengan conocimiento del acto o actos que reclamen sin que ello suspenda tales procedimientos. En caso de que se ofrezcan pruebas, estas se desahogarán en el término de diez días hábiles.
 
 ## TITULO CUARTO. De las Facultades de las Autoridades
 
@@ -1630,57 +1646,121 @@ III. La Comisión Nacional Bancaria podrá solicitar la suspensión de pagos en 
 
 ### CAPITULO I. De la Compra Venta Habitual y Profesional de Divisas
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 1 DE JUNIO DE 2001)</small>
+> <small>(REFORMADO, D.O.F. 3 DE AGOSTO DE 2011)</small>
 
 ###### ARTICULO 81.
 
-Se requerirá autorización de la Secretaría de Hacienda y Crédito Público, para realizar en forma habitual y profesional operaciones de compra, venta y cambio de divisas, incluyendo las que se lleven a cabo mediante transferencia o transmisión de fondos, con el público dentro del territorio nacional, excepción hecha de los casos previstos en este artículo y en el artículo 81-A.
+Se requerirá autorización de la Secretaría de Hacienda y Crédito Público para realizar, en forma habitual y profesional, operaciones de compra, venta y cambio de divisas, incluyendo las que se lleven a cabo mediante transferencia o transmisión de fondos, con el público dentro del territorio nacional, salvo en los casos previstos en este artículo.
 
-> <small>(REFORMADO, D.O.F. 27 DE DICIEMBRE DE 1991)</small>
+Estas autorizaciones serán otorgadas o denegadas discrecionalmente por la Secretaría de Hacienda y Crédito Público, después de escuchar las opiniones del Banco de México y de la Comisión Nacional Bancaria y de Valores. En todo caso, dichas autorizaciones solo podrán ser otorgadas a las sociedades anónimas a que se refiere el artículo 82 de esta Ley y, por su propia naturaleza, serán intransmisibles.
 
-Estas autorizaciones serán otorgadas o denegadas discrecionalmente por la Secretaría de Hacienda y Crédito Público, oyendo la opinión del Banco de México, y de la Comisión Nacional Bancaria y serán por su propia naturaleza intransmisibles.
+Las autorizaciones para realizar las operaciones a que se refiere el primer párrafo de este artículo, así como sus modificaciones, se publicarán, a costa del interesado, en el Diario Oficial de la Federación y en dos periódicos de amplia circulación nacional.
 
-> <small>(REFORMADO, D.O.F. 15 DE JULIO DE 1993)</small>
+Las entidades financieras que, conforme a las leyes que las rijan, puedan celebrar las operaciones a que se refiere el primer párrafo de este artículo no requerirán de la autorización citada y, en sus operaciones con divisas, deberán sujetarse a las disposiciones legales aplicables.
 
-Dichas autorizaciones así como sus modificaciones se publicarán en el Diario Oficial de la Federación.
+Tampoco requerirán de la autorización a que se refiere este artículo las sociedades anónimas registradas como centros cambiarios ante la Comisión Nacional Bancaria y de Valores conforme a lo dispuesto por el artículo 81-B de esta Ley.
 
-Las instituciones de crédito y las casas de bolsa no requerirán de la autorización citada, debiendo sujetarse en sus operaciones con divisas a las disposiciones legales aplicables.
+Para los efectos de la presente Ley, no se consideran actividades habituales y profesionales las operaciones con divisas conexas al pago por la venta de bienes o prestación de servicios que lleven a cabo personas físicas o morales cuya actividad u objeto social no sea la compra, venta o cambio de divisas a través de cualquier medio. Las operaciones a que se refiere el presente artículo deberán sujetarse en todo momento a lo dispuesto por la Ley Monetaria de los Estados Unidos Mexicanos.
 
-> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1990)</small>
+Asimismo, para efectos de lo previsto en esta Ley, por divisas se entenderán las mencionadas en el primer párrafo del artículo 20 de la Ley del Banco de México.
 
-Para los efectos de la presente Ley, no se consideran actividades habituales y profesionales, las operaciones con divisas conexas a la prestación de servicios, ni la captación de divisas por venta de bienes, que realicen establecimientos ubicados en las franjas fronterizas y zonas libres del país, y demás empresas que por sus actividades normales celebren operaciones con extranjeros.
-
-> <small>(ADICIONADO, D.O.F. 27 DE DICIEMBRE DE 1991)</small>
+> <small>(REFORMADO, D.O.F. 3 DE AGOSTO DE 2011)</small>
 
 ###### ARTICULO 81-A.
 
-No se requerirá la autorización a que se refiere el artículo anterior cuando única y exclusivamente se realicen con divisas las operaciones siguientes:
+Exclusivamente las sociedades anónimas organizadas de conformidad con lo dispuesto en la Ley General de Sociedades Mercantiles, que se encuentren registradas como centro cambiario ante la Comisión Nacional Bancaria y de Valores, en términos de lo dispuesto en el artículo 81-B de esta Ley, podrán realizar, en forma habitual y profesional, cualesquiera de las operaciones siguientes:
 
-> <small>(REFORMADA, D.O.F. 1 DE JUNIO DE 2001)</small>
+I. Compra y venta de billetes, así como piezas acuñadas y metales comunes, con curso legal en el país de emisión, hasta por un monto no superior al equivalente en moneda nacional a diez mil dólares de los Estados Unidos de América por cada cliente en un mismo día;
 
-I. Compra y venta de billetes así como piezas acuñadas y metales comunes, con curso legal en el país de emisión, hasta por un monto equivalente no superior a diez mil dólares diarios de los Estados Unidos de América por cada cliente;
+II. Compra y venta de cheques de viajero denominados en moneda extranjera, hasta por un monto no superior al equivalente en moneda nacional a diez mil dólares de los Estados Unidos de América por cada cliente en un mismo día;
 
-> <small>(REFORMADA, D.O.F. 1 DE JUNIO DE 2001)</small>
+III. Compra y venta de piezas metálicas acuñadas en forma de moneda, hasta por un monto no superior al equivalente en moneda nacional a diez mil dólares de los Estados Unidos de América por cada cliente en un mismo día, y
 
-II. Compra y venta de cheques de viajero denominados en moneda extranjera, hasta por un monto equivalente no superior a diez mil dólares diarios de los Estados Unidos de América por cada cliente;
+IV. Compra de documentos a la vista denominados y pagaderos en moneda extranjera, a cargo de entidades financieras, hasta por un monto no superior al equivalente a diez mil dólares de los Estados Unidos de América por cada cliente en un mismo día. Al respecto, los centros cambiarios solo podrán vender estos documentos a las instituciones de crédito y casas de cambio.
 
-> <small>(REFORMADA, D.O.F. 1 DE JUNIO DE 2001)</small>
+En la celebración de las operaciones descritas en las fracciones anteriores, el contravalor deberá entregarse en el mismo acto en que aquellas se lleven a cabo, y únicamente podrán liquidarse mediante la entrega de efectivo, cheques de viajero o cheques denominados en moneda nacional, sin que, en ningún caso, se comprenda la transferencia o transmisión de fondos. Los centros cambiarios no podrán liquidar por anticipado las operaciones que un mismo usuario pretenda realizar en días subsecuentes.
 
-III. Compra y venta de piezas metálicas acuñadas en forma de moneda, hasta por un monto equivalente no superior a diez mil dólares diarios de los Estados Unidos de América por cada cliente, y
+En ningún caso, los centros cambiarios podrán llevar a cabo operaciones de compra, venta y cambio de divisas mediante transferencia o transmisión de fondos, ya sea por medio de cualquiera de los sistemas de pagos o a través de abonos a cuentas.
 
-> <small>(REFORMADA, D.O.F. 1 DE JUNIO DE 2001)</small>
+Lo dispuesto en este artículo no resultará aplicable a las casas de cambio y entidades financieras que, conforme a las leyes que las rijan, puedan celebrar las operaciones de compra, venta y cambio de divisas.
 
-IV. Compra de documentos a la vista denominados y pagaderos en moneda extranjera, a cargo de entidades financieras hasta por un monto equivalente no superior a diez mil dólares diarios de los Estados Unidos de América por cada cliente. Estos documentos sólo podrán venderlos a las instituciones de crédito y casas de cambio;
+> <small>(ADICIONADO, D.O.F. 3 DE AGOSTO DE 2011)</small>
 
-V. (DEROGADA, D.O.F. 1 DE JUNIO DE 2001)
+###### ARTICULO 81-A Bis.
 
-> <small>(REFORMADO, D.O.F. 1 DE JUNIO DE 2001)</small>
+Para efectos de lo previsto en la presente Ley y en las disposiciones que de esta emanen, se entenderá por transmisor de dinero, exclusivamente a la sociedad anónima organizada de conformidad con lo dispuesto en la Ley General de Sociedades Mercantiles que, entre otras actividades, y de manera habitual y a cambio del pago de una contraprestación, comisión, beneficio o ganancia, recibe en el territorio nacional derechos o recursos en moneda nacional o divisas, directamente en sus oficinas o por cable, facsímil, servicios de mensajería, medios electrónicos, transferencia electrónica de fondos o por cualquier vía, para que de acuerdo a las instrucciones del remisor, los transfiera al extranjero, a otro lugar dentro del territorio nacional o para entregarlos en el lugar en el que sean recibidos, al beneficiario designado.
 
-En la celebración de las operaciones descritas en las fracciones I a IV anteriores, el contravalor deberá entregarse en el mismo acto en que se lleven a cabo y únicamente podrán liquidarse mediante la entrega de efectivo, cheques de viajero o cheques denominados en moneda nacional, sin que en ningún caso se comprenda la transferencia o transmisión de fondos.
+Al efecto, únicamente las sociedades anónimas que cuenten con un registro vigente como transmisor de dinero ante la Comisión Nacional Bancaria y de Valores podrán realizar las operaciones señaladas en el párrafo anterior, las cuales se considerarán como transmisión de fondos.
+
+Lo dispuesto en este artículo no resultará aplicable a las entidades financieras que, conforme a las leyes que las rijan, puedan celebrar las operaciones a que se refiere el primer párrafo del presente artículo.
+
+En ningún caso, los transmisores de dinero podrán llevar a cabo las operaciones a que se refiere el artículo 81-A de la presente Ley.
+
+> <small>(ADICIONADO, D.O.F. 3 DE AGOSTO DE 2011)</small>
+
+###### ARTICULO 81-B.
+
+Para operar como centro cambiario, así como transmisor de dinero, las sociedades anónimas deberán organizarse de conformidad con lo dispuesto en la Ley General de Sociedades Mercantiles, así como registrarse ante la Comisión Nacional Bancaria y de Valores, para lo cual deberán ajustarse a los requisitos siguientes:
+
+I. Que, tratándose de centros cambiarios, su objeto social sea exclusivamente la realización, en forma habitual y profesional, de las operaciones a que se refiere el artículo 81-A de esta Ley. En el caso de transmisores de dinero, el objeto social no estará limitado a la realización de las operaciones a que se refiere el artículo 81-A Bis de esta Ley, con excepción de lo dispuesto en el artículo 81-A de la misma Ley.
+
+En el caso de centros cambiarios, estas sociedades deberán agregar a su denominación social la expresión "centro cambiario". Por su parte, los transmisores de dinero deberán incluir en cualquier propaganda y anuncio, la referencia de que se trata de un "transmisor de dinero".
+
+II. Que, en sus estatutos sociales, se prevea que, en la realización de su objeto, la sociedad deberá ajustarse a lo previsto en la presente Ley y en las demás disposiciones aplicables.
+
+III. Que cuenten con establecimientos físicos destinados exclusivamente a la realización de su objeto social.
+
+IV. Que acompañen a su solicitud la relación e información de las personas que directa o indirectamente pretendan mantener una participación en el capital social del centro cambiario o transmisor de dinero a registrar, la cual deberá contener el monto del capital social que cada una de ellas suscribirá.
+
+V. Que, dentro de los tres días hábiles siguientes a que la sociedad de que se trate haya inscrito en el registro señalado en el artículo 128 de la Ley General de Sociedades Mercantiles la transmisión de cualquiera de sus acciones por más del dos por ciento de su capital social pagado, den aviso a la Comisión Nacional Bancaria y de Valores de dicha transmisión.
+
+Las sociedades a las que se les hubiere otorgado el mencionado registro deberán presentar a la Comisión Nacional Bancaria y de Valores los datos de su inscripción ante el Registro Público de Comercio, en un plazo que no deberá exceder de quince días hábiles contados a partir del otorgamiento del mismo.
+
+El registro que lleve la Comisión Nacional Bancaria y de Valores de acuerdo con lo dispuesto por este artículo será público, por lo que dicha Comisión le dará difusión a través de su página electrónica en Internet, y contendrá anotaciones, respecto de cada centro cambiario o transmisor de dinero, que podrán referirse, entre otras, a la suspensión de operaciones, los procedimientos de clausura y a la suspensión o cancelación de los contratos a que se hace referencia en los artículos 64 y 95 Bis de esta Ley, así como a la cancelación del registro para operar como centro cambiario o como transmisor de dinero, conforme a lo establecido en el artículo 81-D de esta Ley.
+
+> <small>(ADICIONADO, D.O.F. 3 DE AGOSTO DE 2011)</small>
+
+###### ARTICULO 81-C.
+
+Los centros cambiarios y los transmisores de dinero podrán agruparse en las respectivas asociaciones gremiales, las cuales podrán llevar a cabo, entre otras funciones, el desarrollo y la implementación de estándares de conducta y operación que deberán cumplir sus agremiados, a fin de contribuir al sano desarrollo de las mencionadas sociedades.
+
+Las asociaciones gremiales de centros cambiarios o transmisores de dinero, en términos de sus estatutos, podrán emitir, entre otras, normas relativas a:
+
+I. Los requisitos de ingreso, exclusión y separación de sus agremiados;
+
+II. El proceso para la adopción de normas y la verificación de su cumplimiento, y
+
+III. Los estándares y políticas para un adecuado cumplimiento de las disposiciones de carácter general a que se refiere el artículo 95 Bis de esta Ley.
+
+Las asociaciones gremiales podrán llevar a cabo evaluaciones periódicas a sus agremiados sobre el cumplimiento de las normas que expidan dichas asociaciones. Cuando de los resultados de dichas evaluaciones tengan conocimiento del incumplimiento a lo dispuesto en la presente Ley y en las disposiciones de carácter general a que se refiere la fracción III anterior, dichas asociaciones deberán informarlo a la Comisión Nacional Bancaria y de Valores, sin perjuicio de las facultades de supervisión que corresponda ejercer a la propia Comisión. Asimismo, dichas asociaciones deberán llevar un registro de las medidas correctivas y disciplinarias que apliquen a sus agremiados, el cual estará a disposición de la Comisión Nacional Bancaria y de Valores.
+
+Las normas autorregulatorias que se expidan en términos de lo previsto en este artículo no podrán contravenir o exceptuar lo establecido en la presente Ley y demás disposiciones aplicables.
+
+> <small>(ADICIONADO, D.O.F. 3 DE AGOSTO DE 2011)</small>
+
+###### ARTICULO 81-D.
+
+La Comisión Nacional Bancaria y de Valores, previa audiencia de la sociedad interesada, podrá declarar la cancelación del registro a que se refiere el artículo 81-B de esta Ley, en los siguientes casos:
+
+I. Si la sociedad de que se trate efectúa operaciones en contravención a lo dispuesto por esta Ley o a las disposiciones que emanen de ella;
+
+II. Si la sociedad no realiza las operaciones para las cuales le fue otorgado el registro a que se refiere el artículo 81-B de la presente Ley;
+
+III. Si sus administradores han intervenido en operaciones que infrinjan las disposiciones de esta Ley o las que deriven del artículo 95 Bis de la misma, y
+
+IV. Si la sociedad de que se trate, por conducto de su representante legal, así lo solicita.
+
+La cancelación del registro incapacitará a la sociedad para realizar las operaciones a que se refieren los artículos 81-A y 81-A Bis, según corresponda, a partir de la fecha en que se notifique la misma. Tratándose de centros cambiarios, a partir de ese momento, se pondrán en estado de disolución y liquidación.
+
+La Comisión Nacional Bancaria y de Valores promoverá ante la autoridad judicial para que designe al liquidador, si en el plazo de sesenta días hábiles de haber notificado la cancelación del registro, éste no hubiere sido designado. Cuando la propia Comisión encuentre que existe imposibilidad de llevar a cabo la liquidación de la sociedad, lo hará del conocimiento del juez competente para que ordene la cancelación de su inscripción en el Registro Público de Comercio, la que surtirá sus efectos transcurridos trescientos sesenta días naturales a partir del mandamiento judicial.
+
+Los interesados podrán oponerse a esta cancelación dentro del citado plazo de sesenta días hábiles, ante la propia autoridad judicial.
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 3 DE AGOSTO DE 2011)</small>
 
 ###### ARTICULO 82.
 
-Las sociedades anónimas a quienes se otorgue la autorización a que se refiere el artículo 81 de esta Ley, se denominarán casas de cambio y deberán organizarse con arreglo a la Ley General de Sociedades Mercantiles y ajustarse a los siguientes requisitos:
+Solo gozarán de la autorización a que se refiere el artículo 81 de esta Ley, las sociedades anónimas organizadas de conformidad con lo dispuesto en la Ley General de Sociedades Mercantiles, que se denominarán casas de cambio y se ajusten a los siguientes requisitos:
 
 > <small>(REFORMADA, D.O.F. 27 DE DICIEMBRE DE 1991)</small>
 
@@ -1696,7 +1776,7 @@ d) Las señaladas en el artículo 81-A de esta Ley, y
 
 e) Las demás que autorice el Banco de México, mediante disposiciones de carácter general.
 
-Para efectos de lo previsto en este capítulo, por divisas se entenderán las mencionadas en el primer párrafo del artículo 13 de la Ley Orgánica del Banco de México.
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, D.O.F. 3 DE AGOSTO DE 2011)</small>
 
 > <small>(REFORMADA, D.O.F. 15 DE JULIO DE 1993)</small>
 
@@ -1758,13 +1838,13 @@ El importe del capital pagado y reservas de capital de las casas de cambio, debe
 
 (DEROGADO, D.O.F. 15 DE JULIO DE 1993)
 
+> <small>(REFORMADO, D.O.F. 3 DE AGOSTO DE 2011)</small>
+
 ###### ARTICULO 86.
 
-Queda prohibida cualquier propaganda en territorio nacional, relacionada con la compra, venta y cambio de divisas de manera habitual y profesional, que se realice por personas o sociedades que no cuenten con la autorización correspondiente, conforme a la presente Ley o a las demás disposiciones aplicables.
+Queda prohibido el uso de cualquier propaganda o realización de actividad alguna en territorio nacional relacionada con la compra, venta o cambio de divisas, así como de transferencia de fondos de manera habitual y profesional, que se efectúe por personas o sociedades que no cuenten con la autorización correspondiente conforme a la presente Ley o a las demás disposiciones aplicables, o no se encuentren registradas ante la Comisión Nacional Bancaria y de Valores en términos del artículo 81-B de la presente Ley.
 
-> <small>(REFORMADO, D.O.F. 27 DE DICIEMBRE DE 1991)</small>
-
-Las casas de cambio deberán mantener a la vista del público, en los locales donde celebren operaciones, copia del oficio de autorización que la Secretaría de Hacienda y Crédito Público les haya otorgado e incluir en toda clase de publicidad y propaganda, la fecha y número del mismo.
+Las casas de cambio, los centros cambiarios y los transmisores de dinero deberán mantener a la vista del público, en los locales donde celebren operaciones, copia del oficio de autorización que la Secretaría de Hacienda y Crédito Público les haya otorgado, o del registro ante la Comisión Nacional Bancaria y de Valores, según corresponda, e incluir en toda clase de publicidad y propaganda, la fecha y número de dicho oficio o registro.
 
 ###### ARTICULO 86 Bis.
 
@@ -1884,7 +1964,13 @@ II. Sociedades financieras de objeto múltiple no reguladas.
 
 Las sociedades señaladas en la fracción I anterior serán aquellas en las que, en los términos de esta ley, mantengan vínculos patrimoniales instituciones de crédito o sociedades controladoras de grupos financieros de los que formen parte instituciones de crédito. Estas sociedades deberán agregar a su denominación social la expresión "sociedad financiera de objeto múltiple" o su acrónimo "SOFOM", seguido de las palabras "entidad regulada" o su abreviatura "E.R.". Las sociedades financieras de objeto múltiple reguladas estarán sujetas a la supervisión de la Comisión Nacional Bancaria y de Valores.
 
-Las sociedades previstas en la fracción II de este artículo serán aquellas en cuyo capital no participen, en los términos y condiciones antes señalados, cualesquiera de las entidades a que se refiere el párrafo anterior. Estas sociedades deberán agregar a su denominación social la expresión "sociedad financiera de objeto múltiple" o su acrónimo "SOFOM", seguido de las palabras "entidad no regulada" o su abreviatura "E.N.R.". Las sociedades financieras de objeto múltiple no reguladas no estarán sujetas a la supervisión de la Comisión Nacional Bancaria y de Valores.
+> <small>(REFORMADO, D.O.F. 3 DE AGOSTO DE 2011)</small>
+
+Las sociedades previstas en la fracción II de este artículo serán aquellas en cuyo capital no participen, en los términos y condiciones antes señalados, cualesquiera de las entidades a que se refiere el párrafo anterior. Estas sociedades deberán agregar a su denominación social la expresión "sociedad financiera de objeto múltiple" o su acrónimo "SOFOM", seguido de las palabras "entidad no regulada" o su abreviatura "E.N.R.".
+
+> <small>(ADICIONADO, D.O.F. 3 DE AGOSTO DE 2011)</small>
+
+Las sociedades financieras de objeto múltiple no reguladas estarán sujetas a la supervisión de la Comisión Nacional Bancaria y de Valores, de conformidad con lo dispuesto en el artículo 56 de esta Ley, para lo cual, la mencionada Comisión tomará como base la información a que se refiere el segundo párrafo del artículo 87 -K de la misma Ley.
 
 > <small>(ADICIONADO, D.O.F. 18 DE JULIO DE 2006)</small>
 
@@ -2034,7 +2120,9 @@ Cuando no se señale el acto impugnado o no se expresen agravios, la autoridad c
 
 La resolución del recurso de revocación podrá ser desechando, confirmando, mandando reponer por uno nuevo que lo sustituya o revocando el acto impugnado y deberá ser emitida en un plazo no superior a los cuarenta y cinco días hábiles posteriores a aquél en que se interpuso el recurso, cuando deba ser resuelto por el Presidente de la Comisión, ni de sesenta días hábiles cuando se trate de recursos competencia de la Junta de Gobierno.
 
-Lo dispuesto en este artículo no excluye la imposición de las sanciones que, conforme a ésta u otras leyes, fueren aplicables por la comisión de delitos, ni la revocación de las autorizaciones otorgadas a las sociedades a que alude esta Ley.
+> <small>(REFORMADO, D.O.F. 3 DE AGOSTO DE 2011)</small>
+
+Lo dispuesto en este artículo no excluye la imposición de las sanciones que, conforme a esta u otras leyes, fueren aplicables por la comisión de delitos, ni la revocación de las autorizaciones o cancelación de registros otorgados a las sociedades a que alude esta Ley.
 
 > <small>(REFORMADO, D.O.F. 15 DE JULIO DE 1993)</small>
 
@@ -2190,83 +2278,51 @@ Los servidores públicos de la Secretaría de Hacienda y Crédito Público y de 
 
 Las organizaciones auxiliares del crédito, casas de cambio y demás sociedades que desarrollen actividades en los términos del artículo 81-A de esta Ley y los servidores públicos de la Secretaría de Hacienda y Crédito Público y de la Comisión Nacional Bancaria y de Valores, así como los miembros de los consejos de administración, comisarios, auditores externos, funcionarios y empleados de los intermediarios financieros a que se refiere este artículo, deberán abstenerse de dar noticia o información de las operaciones previstas en el mismo a personas, dependencias o entidades, distintas a las autoridades competentes expresamente previstas. La violación a estas obligaciones será sancionada en los términos de las leyes correspondientes.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 18 DE JULIO DE 2006)</small>
+> <small>(REFORMADO, D.O.F. 3 DE AGOSTO DE 2011)</small>
 
 ###### ARTICULO 95 Bis.
 
-Las sociedades financieras de objeto múltiple, las personas que realicen las actividades a que se refiere el artículo 81-A y los transmisores de dinero, en términos de las disposiciones de carácter general que emita la Secretaría de Hacienda y Crédito Público, escuchando la previa opinión del Servicio de Administración Tributaria, estarán obligadas, en adición a cumplir con las demás obligaciones que les resulten aplicables, a:
+Las sociedades financieras de objeto múltiple no reguladas, los centros cambiarios y los transmisores de dinero, en términos de las disposiciones de carácter general que emita la Secretaría de Hacienda y Crédito Público, después de escuchar la previa opinión de la Comisión Nacional Bancaria y de Valores, estarán obligados, en adición a cumplir con las demás obligaciones que les resulten aplicables, a:
 
-> <small>(REFORMADA, D.O.F. 28 DE JUNIO DE 2007)</small>
+I. Establecer medidas y procedimientos para prevenir y detectar actos, omisiones u operaciones que pudieran favorecer, prestar ayuda, auxilio o cooperación de cualquier especie para la comisión de los delitos previstos en los artículos 139 ó 148 Bis del Código Penal Federal o que pudieran ubicarse en los supuestos del artículo 400 Bis del mismo Código;
 
-I. Establecer medidas y procedimientos para prevenir y detectar actos, omisiones u operaciones que pudieran favorecer, prestar ayuda, auxilio o cooperación de cualquier especie para la comisión de los delitos previstos en los artículos 139 ó 148 Bis del Código Penal Federal o que pudieran ubicarse en los supuestos del artículo 400 Bis del mismo Código, y
-
-> <small>(ADICIONADA, D.O.F. 28 DE ENERO DE 2004)</small>
-
-II. Presentar a la Secretaría de Hacienda y Crédito Público, por conducto del Servicio de Administración Tributaria, reportes sobre:
+II. Presentar a la Secretaría de Hacienda y Crédito Público, por conducto de la Comisión Nacional Bancaria y de Valores, reportes sobre:
 
 a. Los actos, operaciones y servicios que realicen con sus clientes y usuarios, relativos a la fracción anterior, y
 
 b. Todo acto, operación o servicio, que pudiesen ubicarse en el supuesto previsto en la fracción I de este artículo o que, en su caso, pudiesen contravenir o vulnerar la adecuada aplicación de las disposiciones señaladas en la misma, que realice o en el que intervenga algún miembro del consejo de administración, administrador, directivo, funcionario, empleados, factor y apoderado.
 
-> <small>(ADICIONADO, D.O.F. 28 DE ENERO DE 2004)</small>
-
-Para efectos de lo previsto por este artículo, se entenderá por transmisor de dinero, a la persona que, de manera habitual y a cambio del pago de una contraprestación, comisión, beneficio o ganancia, recibe en el territorio nacional derechos o recursos en moneda nacional o divisas, directamente en sus oficinas, o por cable, facsímil, servicios de mensajería, medios electrónicos o transferencia electrónica de fondos, para que de acuerdo a las instrucciones del remisor, los transfiera al extranjero, a otro lugar dentro del territorio nacional o para entregarlos en el lugar en el que los recibe, al beneficiario designado.
-
-> <small>(ADICIONADO, D.O.F. 28 DE ENERO DE 2004)</small>
+III. Registrar en su contabilidad cada una de las operaciones o actos que celebren con sus clientes o usuarios, así como de las operaciones que celebren con instituciones financieras.
 
 Los reportes a que se refiere la fracción II de este artículo, de conformidad con las disposiciones de carácter general previstas en el mismo, se elaborarán y presentarán tomando en consideración, cuando menos, las modalidades que al efecto estén referidas en dichas disposiciones; las características que deban reunir los actos, operaciones y servicios a que se refiere este artículo para ser reportados, teniendo en cuenta sus montos, frecuencia y naturaleza, los instrumentos monetarios y financieros con que se realicen, y las prácticas comerciales que se observen en las plazas donde se efectúen; así como la periodicidad y los sistemas a través de los cuales habrá de transmitirse la información.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 18 DE JULIO DE 2006)</small>
-
-Asimismo, la Secretaría de Hacienda y Crédito Público en las citadas reglas generales emitirá los lineamientos sobre el procedimiento y criterios que las sociedades financieras de objeto múltiple, las personas que realicen las actividades a que se refiere el artículo 81-A y los transmisores de dinero deberán observar respecto de:
-
-> <small>(ADICIONADO, D.O.F. 28 DE ENERO DE 2004)</small>
+Asimismo, la Secretaría de Hacienda y Crédito Público, en las citadas disposiciones de carácter general, emitirá los lineamientos sobre el procedimiento y criterios que las sociedades financieras de objeto múltiple no reguladas, los centros cambiarios y los transmisores de dinero deberán observar respecto de:
 
 a. El adecuado conocimiento de sus clientes y usuarios, para lo cual aquéllas deberán considerar los antecedentes, condiciones específicas, actividad económica o profesional y las plazas en que operen;
 
-> <small>(REFORMADO, D.O.F. 18 DE JULIO DE 2006)</small>
+b. La información y documentación que dichas sociedades financieras de objeto múltiple no reguladas, los centros cambiarios y los transmisores de dinero deban recabar para la celebración de las operaciones y servicios que ellas presten y que acrediten plenamente la identidad de sus clientes;
 
-b. La información y documentación que dichas sociedades financieras de objeto múltiple, personas que realicen las actividades a que se refiere el artículo 81-A y los transmisores de dinero deban recabar para la apertura de cuentas o celebración de contratos relativos a las operaciones y servicios que ellas presten y que acrediten plenamente la identidad de sus clientes;
+c. La forma en que las mismas sociedades financieras de objeto múltiple no reguladas, los centros cambiarios y los transmisores de dinero deberán resguardar y garantizar la seguridad de la información y documentación relativas a la identificación de sus clientes y usuarios o quienes lo hayan sido, así como la de aquellos actos, operaciones y servicios reportados conforme al presente artículo, y
 
-> <small>(REFORMADO, D.O.F. 18 DE JULIO DE 2006)</small>
+d. Los términos para proporcionar capacitación al interior de sociedades financieras de objeto múltiple no reguladas, los centros cambiarios y los transmisores de dinero sobre la materia objeto de este artículo. Las disposiciones de carácter general a que se refiere el presente artículo señalarán los términos para su debido cumplimiento.
 
-c. La forma en que las mismas sociedades financieras de objeto múltiple, personas que realicen las actividades a que se refiere el artículo 81-A y los transmisores de dinero deberán resguardar y garantizar la seguridad de la información y documentación relativas a la identificación de sus clientes y usuarios o quienes lo hayan sido, así como la de aquellos actos, operaciones y servicios reportados conforme al presente artículo, y
+Las sociedades financieras de objeto múltiple no reguladas, los centros cambiarios y los transmisores de dinero, en términos de las disposiciones de carácter general previstas en el primer párrafo de este artículo, deberán conservar, por al menos diez años, la información y documentación a que se refiere el inciso c) del párrafo anterior, sin perjuicio de lo establecido en éste u otros ordenamientos aplicables.
 
-> <small>(REFORMADO, D.O.F. 18 DE JULIO DE 2006)</small>
-
-d. Los términos para proporcionar capacitación al interior de sociedades financieras de objeto múltiple, las personas que realicen las actividades a que se refiere el artículo 81-A y los transmisores de dinero sobre la materia objeto de este artículo. Las disposiciones de carácter general a que se refiere el presente artículo, señalarán los términos para su debido cumplimiento.
-
-> <small>(REFORMADO, D.O.F. 18 DE JULIO DE 2006)</small>
-
-Las sociedades financieras de objeto múltiple, las personas que realicen las actividades a que se refiere el artículo 81-A y los transmisores de dinero deberán conservar, por al menos diez años, la información y documentación a que se refiere el inciso c) del párrafo anterior, sin perjuicio de lo establecido en éste u otros ordenamientos aplicables.
-
-> <small>(REFORMADO, D.O.F. 18 DE JULIO DE 2006)</small>
-
-La Secretaría de Hacienda y Crédito Público estará facultada para requerir y recabar, por conducto del Servicio de Administración Tributaria, información y documentación relacionada con los actos, operaciones y servicios a que se refiere la fracción II de este artículo. Las sociedades financieras de objeto múltiple, las personas que realicen las actividades a que se refiere el artículo 81-A y los transmisores de dinero, quienes estarán obligadas a proporcionar dicha información y documentación.
-
-> <small>(ADICIONADO, D.O.F. 28 DE ENERO DE 2004)</small>
+La Secretaría de Hacienda y Crédito Público estará facultada para requerir y recabar, por conducto de la Comisión Nacional Bancaria y de Valores, información y documentación relacionada con los actos, operaciones y servicios a que se refiere la fracción II de este artículo. Las sociedades financieras de objeto múltiple no reguladas, los centros cambiarios y los transmisores de dinero estarán obligados a proporcionar dicha información y documentación.
 
 El cumplimiento de las obligaciones señaladas en este artículo no implicará trasgresión alguna a la obligación de confidencialidad legal, ni constituirá violación a las restricciones sobre revelación de información establecidas por vía contractual.
 
-> <small>(REFORMADO, D.O.F. 18 DE JULIO DE 2006)</small>
+Las disposiciones de carácter general a que se refiere este artículo deberán ser observadas por las sociedades financieras de objeto múltiple no reguladas, los centros cambiarios y los transmisores de dinero, así como por los miembros del consejo de administración, administradores, directivos, funcionarios, empleados, factores y apoderados respectivos, por lo cual, tanto las sociedades como las personas mencionadas serán responsables del estricto cumplimiento de las obligaciones que mediante dichas disposiciones se establezcan.
 
-Las disposiciones de carácter general a que se refiere este artículo deberán ser observadas por las sociedades financieras de objeto múltiple, las personas que realicen las actividades a que se refiere el artículo 81-A y los transmisores de dinero, así como por los miembros del consejo de administración, administradores, directivos, funcionarios, empleados, factores y apoderados respectivos, por lo cual, tanto las entidades como las personas mencionadas serán responsables del estricto cumplimiento de las obligaciones que mediante dichas disposiciones se establezcan.
+La violación a las disposiciones a que se refiere este artículo será sancionada por la Comisión Nacional Bancaria y de Valores con multa de 200 hasta 100,000 días de salario mínimo general diario vigente en el Distrito Federal, en términos de esta Ley y de aquellas otras que resulten aplicables.
 
-> <small>(ADICIONADO, D.O.F. 28 DE ENERO DE 2004)</small>
+Las mencionadas sanciones podrán ser impuestas a las sociedades financieras de objeto múltiple no reguladas, los centros cambiarios y los transmisores de dinero, así como a sus miembros del consejo de administración, administradores, directivos, funcionarios, empleados, factores y apoderados respectivos, así como a las personas físicas y morales que, en razón de sus actos, hayan ocasionado o intervenido para que dichas entidades financieras incurran en la irregularidad o resulten responsables de la misma.
 
-La violación a las disposiciones a que se refiere este artículo será sancionada por el Servicio de Administración Tributaria, con multa de hasta 100,000 días de salario mínimo general diario vigente en el Distrito Federal, en términos de su Ley.
+La Comisión Nacional Bancaria y de Valores tendrá la facultad de supervisar, vigilar e inspeccionar el cumplimiento y observancia de lo dispuesto por este artículo, así como por las disposiciones de carácter general que emita la Secretaría de Hacienda y Crédito Público en términos del mismo.
 
-> <small>(REFORMADO, D.O.F. 18 DE JULIO DE 2006)</small>
+Asimismo, la Comisión Nacional Bancaria y de Valores podrá ordenar a las instituciones de crédito, casas de bolsa y casas de cambio con las que operen los centros cambiarios y los transmisores de dinero, que suspendan o cancelen los contratos que tengan celebrados con dichas personas y se abstengan de realizar nuevas operaciones, cuando presuma que se encuentran violando lo previsto en este artículo o las disposiciones de carácter general que de éste emanen.
 
-Las mencionadas multas podrán ser impuestas, a las sociedades financieras de objeto múltiple, las personas que realicen las actividades a que se refiere el artículo 81-A y los transmisores de dinero, así como a sus miembros del consejo de administración, administradores, directivos, funcionarios, empleados, factores y apoderados respectivos, así como a las personas físicas y morales que, en razón de sus actos, hayan ocasionado o intervenido para que dichas entidades financieras incurran en la irregularidad o resulten responsables de la misma.
-
-> <small>(ADICIONADO, D.O.F. 28 DE ENERO DE 2004)</small>
-
-El Servicio de Administración Tributaria tendrá la facultad de supervisar, vigilar e inspeccionar el cumplimiento y observancia de lo dispuesto por este artículo, así como por las disposiciones de carácter general que emita la Secretaría de Hacienda y Crédito Público en términos del mismo.
-
-> <small>(REFORMADO, D.O.F. 18 DE JULIO DE 2006)</small>
-
-Los servidores públicos de la Secretaría de Hacienda y Crédito Público y el Servicio de Administración Tributaria, las sociedades financieras de objeto múltiple, las personas que realicen las actividades a que se refiere el artículo 81-A y los transmisores de dinero, sus miembros del consejo de administración, administradores, directivos, funcionarios, empleados, factores y apoderados, deberán abstenerse de dar noticia de los reportes y demás documentación e información a que se refiere este artículo, a personas o autoridades distintas a las facultadas expresamente en los ordenamientos relativos para requerir, recibir o conservar tal documentación e información. La violación a estas obligaciones será sancionada en los términos de las leyes correspondientes.
+Los servidores públicos de la Secretaría de Hacienda y Crédito Público y de la Comisión Nacional Bancaria y de Valores, los centros cambiarios, las sociedades financieras de objeto múltiple no reguladas y los transmisores de dinero, sus miembros del consejo de administración, administradores, directivos, funcionarios, empleados, factores y apoderados, deberán abstenerse de dar noticia de los reportes y demás documentación e información a que se refiere este artículo, a personas o autoridades distintas a las facultadas expresamente en los ordenamientos relativos para requerir, recibir o conservar tal documentación e información. La violación a estas obligaciones será sancionada en los términos de las leyes correspondientes.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO TERCERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
@@ -2386,11 +2442,11 @@ I. Las personas que habiendo sido designadas como bodegueros habilitados en los 
 
 II. Las personas que sin causa justificada se nieguen a entregar, sustraigan, dispongan o permitan disponer de las mercancías depositadas en locales habilitados por medios distintos a los establecidos conforme al contrato respectivo o a los usos y costumbres imperantes en el medio almacenador.
 
-> <small>(REFORMADO, D.O.F. 17 DE MAYO DE 1999)</small>
+> <small>(REFORMADO, D.O.F. 3 DE AGOSTO DE 2011)</small>
 
 ###### ARTICULO 101.
 
-Serán sancionados con penas de prisión de tres a quince años y multa hasta de cien mil días de salario, las personas físicas, consejeros, funcionarios o administradores de personas morales que lleven a cabo operaciones de las reservadas para las organizaciones auxiliares del crédito y casas de cambio, sin contar con las autorizaciones previstas en la ley.
+Serán sancionados con penas de prisión de tres a quince años y multa hasta de 100,000 días de salario, las personas físicas, incluyendo aquellas personas físicas cuyo régimen fiscal sea de ingresos por actividades empresariales, consejeros, funcionarios o administradores de personas morales que lleven a cabo operaciones de las reservadas para las organizaciones auxiliares del crédito, casas de cambio, centros cambiarios y transmisores de dinero, sin contar con las autorizaciones o registros, según corresponda, previstos en la ley.
 
 > <small>(ADICIONADO, D.O.F. 17 DE MAYO DE 1999)</small>
 
@@ -2867,6 +2923,68 @@ Las sociedades que no cumplan con lo dispuesto por la fracción II anterior entr
 La Comisión Nacional Bancaria y de Valores, publicará en el Diario Oficial de la Federación aquéllas autorizaciones que conforme a este artículo queden sin efecto.
 
 Décimo.- Se deroga la fracción IV del artículo 6 de la Ley de Inversión Extranjera.
+
+D.O.F. 3 DE AGOSTO DE 2011.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+###### ARTÍCULO SEGUNDO.
+
+Las facultades que a través del presente decreto se otorgan a la Comisión Nacional Bancaria y de Valores, en materia de centros cambiarios y transmisores de dinero, quedarán conferidas a la propia Comisión, una vez transcurridos doscientos cuarenta días naturales contados a partir de la fecha de entrada en vigor este Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Durante el plazo mencionado en el Artículo Segundo Transitorio anterior, el Servicio de Administración Tributaria continuará ejerciendo las funciones de supervisión, inspección, vigilancia y en su caso sanción, con respecto a las obligaciones a cargo de los centros cambiarios y transmisores de dinero establecidas en las disposiciones de carácter general a que hace referencia el artículo 95 Bis de la Ley General de Organizaciones y Actividades Auxiliares del Crédito. Con objeto de ejercer las citadas facultades y realizar los procedimientos correspondientes, el Servicio de Administración Tributaria podrá llevar a cabo visitas de inspección a los domicilios, locales o establecimientos de los citados centros cambiarios y transmisores de dinero.
+
+Para los mencionados procedimientos de supervisión, visitas de inspección, vigilancia y sanción, el Servicio de Administración Tributaria continuará aplicando las disposiciones y facultades legales en materia de comprobación y revisión, así como los reglamentos y demás normatividad de carácter administrativo que le sea aplicable. Dicho órgano desconcentrado podrá designar a los inspectores, auxiliares y personal de apoyo que se considere adecuado en cada caso y solicitar la información y documentación de carácter financiero, económico, contable, legal, operativo y administrativo que proceda, independientemente del medio en el que la misma se resguarde o conserve.
+
+###### ARTÍCULO CUARTO.
+
+Con respecto a la facultad prevista en el artículo 64, párrafo cuarto reformado por este decreto, si durante el término mencionado en el Artículo Segundo Transitorio del presente Decreto, el Servicio de Administración Tributaria tuviere indicios de la realización de operaciones de las reservadas a los centros cambiarios o a los transmisores de dinero por personas morales que no se encuentren registradas ante ese Órgano desconcentrado, o por personas físicas, incluyendo aquellas personas físicas cuyo régimen fiscal sea de ingresos por actividades empresariales, el Servicio de Administración Tributaria podrá solicitar a la Comisión Nacional Bancaria y de Valores que ordene a las instituciones de crédito, casas de bolsa y casas de cambio con las que operen las mencionadas personas, la suspensión o cancelación, en su caso, de los contratos que tengan celebrados con éstas, y se abstengan de realizar nuevas operaciones.
+
+###### ARTÍCULO QUINTO.
+
+Asimismo, dentro del plazo mencionado en el Artículo Segundo Transitorio anterior, las sociedades que pretendan registrarse como centros cambiarios o transmisores de dinero en términos de lo dispuesto por el artículo 81-B, que se adiciona por virtud de este Decreto, deberán efectuar el registro correspondiente ante el Servicio de Administración Tributaria, en lugar de la Comisión Nacional Bancaria y de Valores.
+
+Los demás actos que los particulares deban realizar frente a la Comisión Nacional Bancaria y de Valores, en términos de los artículos 57, 81-B y 81-C, incluidos en el presente Decreto, deberán realizarse frente al Servicio de Administración Tributaria, en lugar de dicha Comisión, y producirán los mismos efectos que los previstos en dichos artículos o derivados de estos.
+
+###### ARTÍCULO SEXTO.
+
+Las personas que hubiesen presentado el Aviso previsto en la Resolución por la que se expiden las reglas para el llenado del formato oficial para presentar el aviso que señala la Resolución por la que se expiden las Disposiciones de carácter general a que se refiere el artículo 95 Bis de la Ley General de Organizaciones y Actividades Auxiliares del Crédito aplicables a las personas que realicen las operaciones a que se refiere el artículo 81-A del mismo ordenamiento y la Resolución por la que se expiden las Disposiciones de carácter general a que se refiere el artículo 95 Bis de la Ley General de Organizaciones y Actividades Auxiliares del Crédito aplicables a los denominados transmisores de dinero por dicho ordenamiento, publicada en el Diario Oficial de la Federación del 10 de febrero de 2006, contarán con un plazo de noventa días naturales a partir de la entrada en vigor del presente Decreto, para que, una vez constituida la sociedad anónima de que se trate en términos del presente Decreto, presenten nuevamente el aviso correspondiente para, en caso procedente, obtener el registro a que se refiere el artículo 81-B de este Decreto, el cual será otorgado por el Servicio de Administración Tributaria.
+
+Asimismo, aquellas personas morales y físicas que con anterioridad a la entrada en vigor del presente Decreto hayan presentado el referido Aviso y obtenido cada una más de un registro con objeto de realizar las actividades a que se refiere el párrafo anterior, contarán con el plazo de noventa días señalado en el párrafo anterior para que, una vez constituida la sociedad mercantil de que se trate o haber modificado los estatutos y objeto social de la sociedad ya constituida para cumplir con lo dispuesto por el presente Decreto, presenten el aviso correspondiente para obtener, en caso procedente, el registro a que se refiere el artículo 81-B del mismo, que será otorgado por el Servicio de Administración Tributaria.
+
+Hasta en tanto se cumpla el citado plazo de noventa días o se efectúe el registro conforme a lo previsto en los párrafos anteriores del presente artículo, lo que ocurra primero, las personas que hubiesen presentado el aviso señalado en los mismos, y que hayan venido operando como transmisores de dinero o realizando las operaciones a que se refiere el artículo 81-A de la Ley General de Organizaciones y Actividades Auxiliares del Crédito antes de la entrada en vigor del presente Decreto, podrán continuar realizando, durante dicho periodo, las actividades a que se refieren los artículos 81-A y 95 Bis de la citada Ley vigentes hasta el día anterior a la entrada en vigor del presente Decreto.
+
+###### ARTÍCULO SÉPTIMO.
+
+En un plazo de doscientos días naturales contados a partir de la entrada en vigor del presente Decreto, el Servicio de Administración Tributaria deberá iniciar la remisión a la Comisión Nacional Bancaria y de Valores de los expedientes, así como de los padrones y bases de datos, que contengan la información relacionada con los centros cambiarios y transmisores de dinero que se encuentren registrados.
+
+Para el efecto señalado en el párrafo anterior, la Comisión Nacional Bancaria y de Valores y el Servicio de Administración Tributaria determinarán conjuntamente el medio y los sistemas más apropiados para la transmisión segura y oportuna de la información y documentación correspondiente.
+
+Una vez transcurrido el periodo a que se refiere el Artículo Segundo Transitorio de este Decreto, la Comisión Nacional Bancaria y de Valores deberá contar con la totalidad de los expedientes, padrones y bases de datos respectivos a fin de estar en posibilidad de iniciar el ejercicio de las facultades que por medio del presente Decreto se le otorgan.
+
+###### ARTÍCULO OCTAVO.
+
+Una vez cumplido el plazo a que se refiere el Artículo Segundo Transitorio anterior, las sociedades que se encuentren registradas como centros cambiarios o transmisores de dinero ante el Servicio de Administración Tributaria quedarán registradas, por ministerio de Ley, ante la Comisión Nacional Bancaria y de Valores.
+
+###### ARTÍCULO NOVENO.
+
+En tanto la Secretaría de Hacienda y Crédito Público emita las disposiciones de carácter general a que se refieren las reformas contenidas en el presente Decreto, seguirán aplicándose las expedidas con anterioridad a la vigencia de las mismas, en las materias correspondientes, en lo que no se oponga al presente Decreto.
+
+###### ARTÍCULO DÉCIMO.
+
+Las infracciones o delitos cometidos con anterioridad a la fecha de entrada en vigor del presente Decreto, se sancionarán conforme a las disposiciones vigentes al momento de cometerse las citadas infracciones o delitos, por las autoridades competentes para imponer las sanciones correspondientes en ese momento.
+
+En los procedimientos administrativos que se encuentren en trámite, excepto por aquellos a que se refiere el artículo 81-D que se adiciona por virtud de este Decreto, el interesado podrá optar por su continuación conforme al procedimiento vigente durante su iniciación o por la implementación de las disposiciones aplicables a los procedimientos administrativos que se estipulan mediante el presente Decreto.
+
+###### ARTÍCULO DÉCIMO PRIMERO.
+
+La sanción penal a que se refiere el artículo 101 de la Ley General de Organizaciones y Actividades Auxiliares del Crédito será aplicable con excepción de todas aquellas personas que a la fecha de entrada en vigor del presente Decreto, suspendan la realización de las operaciones reservadas a centros cambiarios y transmisores de dinero establecidas en los artículos 81-A y 81-A Bis, respectivamente, y que en un plazo que no deberá exceder de noventa días naturales contados a partir de la fecha antes mencionada, se registren ante el Servicio de Administración Tributaria en términos de lo señalado en este Decreto.
+
+Lo anterior, con independencia de las sanciones administrativas a que las citadas personas se hubieren hecho acreedoras por el incumplimiento de lo establecido en la Ley que por medio de este Decreto se reforma.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 1762.- MEDIANTE EL CUAL SE ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE FOMENTO A LAS ACTIVIDADES ARTESANALES DEL ESTADO DE OAXACA”.]
 
