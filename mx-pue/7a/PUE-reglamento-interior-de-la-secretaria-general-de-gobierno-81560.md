@@ -4,7 +4,7 @@ identifier: "PUE-reglamento-interior-de-la-secretaria-general-de-gobierno-81560"
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-05-13"
-last_updated: "2011-05-13"
+last_updated: "2011-08-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81560&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 REGLAMENTO INTERIOR DE LA SECRETARÍA GENERAL DE GOBIERNO DEL ESTADO DE PUEBLA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE AGOSTO DE 2011.
 
 Reglamento publicado en la Segunda Sección del Periódico Oficial del Estado de Puebla, el viernes 13 de mayo de 2011.
 
@@ -81,11 +81,13 @@ SUBSECRETARÍA JURÍDICA
 
 - Dirección de Proyectos Legislativos
 
-- Dirección General de Asuntos Registrales y Notariales
+> <small>(REFORMADO, P.O. 3 DE AGOSTO DE 2011)</small>
+
+Dirección General del Registro Civil, Archivos y Notarías
 
 - Dirección del Archivo General del Estado
 
-- Dirección del Registro Público de la Propiedad
+> <small>(DEROGADO DÉCIMO QUINTO PÁRRAFO, P.O. 3 DE AGOSTO DE 2011)</small>
 
 - Dirección del Registro del Estado Civil de las Personas
 
@@ -229,9 +231,13 @@ XXX. Evaluar la ejecución de las políticas y programas de la Secretaría e inf
 
 XXXI. Solicitar a la Secretaría de la Contraloría, la práctica de auditorías a las unidades administrativas y órganos desconcentrados de la Dependencia;
 
-XXXII. Definir las políticas que habrán de regir el funcionamiento de los Registros Públicos de la Propiedad y del Catastro en la entidad y de los Juzgados del Registro del Estado Civil de las Personas, bajo criterios de eficiencia, calidad y transparencia; así como organizar el Archivo General del Estado y el Archivo de Notarias del Estado;
+> <small>(REFORMADA, P.O. 3 DE AGOSTO DE 2011)</small>
 
-XXXIII. Proveer lo conducente para procurar la modernización continua, la seguridad jurídica y la sistematización tecnológica, en materia registral;
+XXXII. Definir las políticas que habrán de regir las funciones en materia registral y catastral en la Entidad y de los Juzgados del Registro del Estado Civil de las Personas, bajo criterios de eficiencia, calidad y transparencia; así como organizar el Archivo General del Estado y el Archivo de Notarías del Estado;
+
+> <small>(REFORMADA, P.O. 3 DE AGOSTO DE 2011)</small>
+
+XXXIII. Proveer lo conducente para procurar la modernización continua, la seguridad jurídica y la sistematización tecnológica, en materia registral y catastral, del registro civil, del archivo general y del archivo de notarías del Estado;
 
 XXXIV. Tramitar lo relativo al ejercicio de las facultades del Gobernador del Estado, sobre el nombramiento y destitución de los Magistrados del Tribunal Superior de Justicia del Estado;
 
@@ -717,9 +723,11 @@ XVIII. Coordinar, supervisar y controlar que se proporcionen oportuna y adecuada
 
 XIX. Proporcionar el mobiliario y equipo que requieran las unidades administrativas de la Secretaría, de acuerdo a la suficiencia presupuestal;
 
-XX. Supervisar y apoyar a las unidades administrativas correspondientes, en la logística de actos cívicos, sociales, culturales, deportivos, de capacitación y trabajo;
+> <small>(REFORMADA, P.O. 3 DE AGOSTO DE 2011)</small>
 
-XXI. Coordinar y supervisar que se proporcione a las oficinas de la Secretaría, un eficiente servicio de recepción, distribución y envío de la correspondencia y mensajería oficial que se maneje en la Dependencia;
+XX. Apoyar a las Unidades Administrativas correspondientes en la logística de actos cívicos, sociales, culturales, deportivos, de capacitación y de trabajo;
+
+XXI. (DEROGADA, P.O. 3 DE AGOSTO DE 2011)
 
 XXII. Proporcionar a las unidades administrativas de la Secretaría, los servicios de almacén, mantenimiento, seguridad, fotocopiado, limpieza y aseo, de conformidad con la suficiencia de personal y presupuestaria;
 
@@ -729,9 +737,27 @@ XXIV. Proponer al Coordinador General de Administración, el diseño del materia
 
 XXV. Elaborar y actualizar los convenios y contratos materia de su competencia;
 
-XXVI. Coordinar el Programa Interno de Protección Civil; y
+XXVI. Coordinar el Programa Interno de Protección Civil; y (sic)
 
-XXVII. Las demás que en materia de su competencia se establezcan en este Reglamento, en los ordenamientos legales vigentes, reglamentos, decretos, acuerdos, convenios y contratos, así como las que le confiera el Secretario y el Coordinador General de Administración.
+> <small>(REFORMADA, P.O. 3 DE AGOSTO DE 2011)</small>
+
+XXVII. Proponer al Coordinador General de Administración, proyectos de tecnologías de la información y comunicaciones que deban operar en la Secretaría, de conformidad con las disposiciones aplicables en la materia;
+
+> <small>(ADICIONADA, P.O. 3 DE AGOSTO DE 2011)</small>
+
+XXVIII. Proporcionar asistencia técnica en materia de tecnologías de la información y comunicaciones, requerida por las diferentes Unidades Administrativas de la Secretaría;
+
+> <small>(ADICIONADA, P.O. 3 DE AGOSTO DE 2011)</small>
+
+XXIX. Diseñar y supervisar los programas, objetivos y metas de la Secretaría, en materia de tecnologías de la información y comunicaciones;
+
+> <small>(ADICIONADA, P.O. 3 DE AGOSTO DE 2011)</small>
+
+XXX. Elaborar y proponer al Coordinador General de Administración, proyectos de innovación y desarrollo tecnológico, a fin de determinar la viabilidad y compatibilidad tecnológica de los nuevos productos o servicios para su posible desarrollo e incorporación a la Secretaría;
+
+> <small>(ADICIONADA, P.O. 3 DE AGOSTO DE 2011)</small>
+
+XXXI. Las demás que en materia de su competencia se establezcan en este Reglamento, en los ordenamientos legales vigentes, reglamentos, decretos, acuerdos, convenios y contratos, así como las que le confiera el Secretario y el Coordinador General de Administración.
 
 La Dirección de Recursos Materiales y Servicios Generales, estará adscrita a la Coordinación General de Administración y a cargo de un titular, auxiliado por los Subdirectores, los Jefes de Departamento y demás servidores públicos que se requieran para el ejercicio de sus funciones y que se autoricen conforme a las normas respectivas.
 
@@ -829,9 +855,13 @@ XVI. Instruir la tramitación de los recursos administrativos que competa resolv
 
 XVII. Auxiliar al Secretario en la administración del Periódico Oficial del Estado; así como ordenar y vigilar la publicación de las leyes y decretos que expida el Congreso Local, de los reglamentos, acuerdos y ordenamientos de carácter general que emita el Gobernador del Estado y de las demás disposiciones de observancia general en la entidad;
 
-XVIII. Coordinar y vigilar que el funcionamiento de las oficinas de los Registros Públicos de la Propiedad en la entidad y de los Juzgados del Registro del Estado Civil de las Personas, sea eficiente y se realice conforme a la normatividad legal y administrativa establecida;
+> <small>(REFORMADA, P.O. 3 DE AGOSTO DE 2011)</small>
 
-XIX. Autorizar y supervisar la depuración e integración de padrones digitales y la vinculación sistematizada de sus registros, para consolidar la administración territorial, catastral y registral del Estado; facilitar los procesos de identificación, escrituración y control de inmuebles; garantizar la legalidad de las operaciones inmobiliarias, y dar mayor seguridad jurídica a la propiedad urbana y rural, en términos de la legislación aplicable;
+XVIII. Coordinar y vigilar que el funcionamiento de las oficinas de los Juzgados del Registro del Estado Civil de las Personas y demás unidades a su cargo, sea eficiente y se realice conforme a la normatividad legal y administrativa establecida;
+
+> <small>(REFORMADA, P.O. 3 DE AGOSTO DE 2011)</small>
+
+XIX. Autorizar y supervisar la depuración e integración de registros digitales y promover la vinculación de la información contenida en los registros a su cargo, con los de las dependencias y entidades que realicen funciones afines;
 
 XX. Atender el trámite relativo a las facultades constitucionales otorgadas al Ejecutivo Estatal, sobre los nombramientos y destituciones de los Magistrados del Tribunal Superior de Justicia;
 
@@ -861,7 +891,9 @@ XXXII. Auxiliar al Secretario en la ejecución y vigilancia de los trámites rel
 
 XXXIII. Las demás que en materia de su competencia se establezcan en este Reglamento, en los ordenamientos legales vigentes, reglamentos, decretos, acuerdos, convenios y contratos, así como las que le confiera el Secretario.
 
-La Subsecretaría Jurídica estará adscrita al Secretario y a cargo de un titular, auxiliado por las Direcciones de Tenencia de la Tierra y del Periódico Oficial, de las Direcciones Generales de Asuntos Jurídicos, de Asuntos Registrales y Notariales, y de Sentencias y Medidas, así como de las demás unidades administrativas y servidores públicos que se requieran para el ejercicio de sus funciones y que se autoricen conforme a las normas respectivas.
+> <small>(REFORMADO, P.O. 3 DE AGOSTO DE 2011)</small>
+
+La Subsecretaría Jurídica estará adscrita al Secretario y a cargo de un Titular, auxiliado por las Direcciones de Tenencia de la Tierra y del Periódico Oficial, de la Dirección General de Asuntos Jurídicos, de la Dirección General del Registro Civil, Archivos y Notarías y de la Dirección General de Sentencias y Medidas, así como de las demás Unidades Administrativas y servidores públicos que se requieran para el ejercicio de sus funciones y que se autoricen conforme a las normas respectivas.
 
 ### CAPÍTULO II. DE LA DIRECCIÓN GENERAL DE ASUNTOS JURÍDICOS
 
@@ -1023,17 +1055,25 @@ XI. Las demás que en materia de su competencia se establezcan en este Reglament
 
 La Dirección de Proyectos Legislativos, estará adscrita a la Dirección General de Asuntos Jurídicos y a cargo de un titular, auxiliado por los servidores públicos que se requieran para el ejercicio de sus funciones y se autoricen conforme a las normas respectivas.
 
-### CAPÍTULO VI. DE LA DIRECCIÓN GENERAL DE ASUNTOS REGISTRALES Y NOTARIALES
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 3 DE AGOSTO DE 2011)</small>
+
+### CAPÍTULO VI. DE LA DIRECCIÓN GENERAL DEL REGISTRO CIVIL, ARCHIVOS Y NOTARÍAS
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE AGOSTO DE 2011)</small>
 
 ###### ARTÍCULO 25.
 
-Son atribuciones del Director General de Asuntos Registrales y Notariales:
+Son atribuciones del Director General del Registro Civil, Archivos y Notarías:
 
 I. Proponer al Subsecretario Jurídico, las políticas, lineamientos, medidas y acciones que considere necesarias o convenientes, para impulsar la función notarial y registral, así como promover las actividades archivísticas en el Estado;
 
-II. Coordinar y vigilar el adecuado funcionamiento de la Dirección de Notarías, la Dirección del Archivo de Notarías, la Dirección del Archivo General del Estado y las oficinas del Registro Público de la Propiedad; así como también la del Registro del Estado Civil de las Personas en la entidad;
+> <small>(REFORMADA, P.O. 3 DE AGOSTO DE 2011)</small>
 
-III. Promover la suscripción de convenios de coordinación con dependencias o entidades federales, estatales y municipales, para mejorar la operación y preservación de las oficinas y archivos del Registro del Estado Civil de las Personas en la entidad y del Registro Público de la Propiedad;
+II. Coordinar y vigilar el adecuado funcionamiento de la Dirección de Notarías, la Dirección del Archivo de Notarías, la Dirección del Archivo General del Estado; así como la del Registro del Estado Civil de las Personas en la Entidad;
+
+> <small>(REFORMADA, P.O. 3 DE AGOSTO DE 2011)</small>
+
+III. Promover la suscripción de convenios de coordinación con dependencias o entidades federales, estatales y municipales, para mejorar la operación y preservación de las oficinas y archivos del Registro del Estado Civil de las Personas en la Entidad;
 
 IV. Analizar y planear, conjuntamente con los Directores bajo su adscripción, la apertura o reubicación de las oficinas o juzgados que requiera la operación de dichas Direcciones y que beneficien a la ciudadanía, sometiéndolo a la consideración del Subsecretario Jurídico;
 
@@ -1061,7 +1101,9 @@ XV. Promover y difundir los servicios que prestan las Direcciones a su cargo; y
 
 XVI. Las demás que en materia de su competencia se establezcan en este Reglamento, los ordenamientos legales vigentes, reglamentos, decretos, acuerdos, convenios y contratos, así como las que le confiera el Secretario o el Subsecretario Jurídico.
 
-La Dirección General de Asuntos Registrales y Notariales estará adscrita a la Subsecretaría Jurídica y a cargo de un titular, auxiliado por las Direcciones del Archivo General del Estado, del Registro Público de la Propiedad, del Registro del Estado Civil de las Personas, de Notarías y del Archivo de Notarías; así como de las demás unidades administrativas y servidores públicos que se requieran para el ejercicio de sus funciones y que se autoricen conforme a las normas respectivas.
+> <small>(REFORMADO, P.O. 3 DE AGOSTO DE 2011)</small>
+
+La Dirección General del Registro Civil, Archivos y Notarías estará adscrita a la Subsecretaría Jurídica y a cargo de un Titular, auxiliado por las Direcciones del Archivo General del Estado, del Registro del Estado Civil de las Personas, de Notarías y del Archivo de Notarías; así como de las demás Unidades Administrativas y servidores públicos que se requieran para el ejercicio de sus funciones y que se autoricen conforme a las normas respectivas.
 
 ### CAPÍTULO VII. DE LA DIRECCIÓN DEL ARCHIVO GENERAL DEL ESTADO
 
@@ -1069,11 +1111,15 @@ La Dirección General de Asuntos Registrales y Notariales estará adscrita a la 
 
 Son atribuciones del Director del Archivo General del Estado:
 
-I. Organizar, dirigir y controlar el Archivo General del Estado, de conformidad con los lineamientos que establezcan el Secretario, el Subsecretario Jurídico y el Director General de Asuntos Registrales y Notariales;
+> <small>(REFORMADA, P.O. 3 DE AGOSTO DE 2011)</small>
+
+I. Organizar, dirigir y controlar el Archivo General del Estado, de conformidad con los lineamientos que establezcan el Secretario, el Subsecretario Jurídico y el Director General del Registro Civil, Archivos y Notarías;
 
 II. Rescatar, recibir, clasificar, conservar, depurar, organizar, custodiar y difundir los documentos históricos que actualmente formen el acervo documental de la entidad y los que posteriormente se le envíen por ser de interés para el Estado, así como proporcionar los servicios necesarios para su consulta, certificación y reproducción;
 
-III. Realizar trámites de recuperación de los documentos históricos que sean de interés para el Estado, de conformidad con los lineamientos que establezcan el Secretario, el Subsecretario Jurídico y el Director General de Asuntos Registrales y Notariales;
+> <small>(REFORMADA, P.O. 3 DE AGOSTO DE 2011)</small>
+
+III. Realizar trámites de recuperación de los documentos históricos que sean de interés para el Estado, de conformidad con los lineamientos que establezcan el Secretario, el Subsecretario Jurídico y el Director General del Registro Civil, Archivos y Notarías;
 
 IV. Promover y vigilar la conservación, catalogación, custodia y restauración de la documentación histórica, que contribuya al acervo del Archivo General del Estado;
 
@@ -1081,9 +1127,13 @@ V. Formular criterios que deban aplicarse para el archivo, identificación y dep
 
 VI. Establecer la normatividad y mecanismos de coordinación entre las diversas unidades del Archivo General del Estado, respecto a la conservación y restauración de documentos;
 
-VII. Normar y brindar asesoría en materia de administración documental, a las distintas dependencias y entidades del Estado, a los ayuntamientos y en su caso, a los particulares, de conformidad con los lineamientos que establezcan el Secretario, el Subsecretario Jurídico y el Director General de Asuntos Registrales y Notariales;
+> <small>(REFORMADA, P.O. 3 DE AGOSTO DE 2011)</small>
 
-VIII. Auxiliar al Director General de Asuntos Registrales y Notariales, en el establecimiento, aplicación y modificación de los lineamientos archivísticos que deberán observar las dependencias y entidades del Estado, para cumplir sus obligaciones de organización y custodia de documentos, así como en materia de acceso a la información;
+VII. Normar y brindar asesoría en materia de administración documental, a las distintas dependencias y entidades del Estado, a los ayuntamientos y en su caso, a los particulares, de conformidad con los lineamientos que establezcan el Secretario, el Subsecretario Jurídico y el Director General del Registro Civil, Archivos y Notarías;
+
+> <small>(REFORMADA, P.O. 3 DE AGOSTO DE 2011)</small>
+
+VIII. Auxiliar al Director General del Registro Civil, Archivos y Notarías, en el establecimiento, aplicación y modificación de los lineamientos archivísticos que deberán observar las dependencias y entidades del Estado, para cumplir sus obligaciones de organización y custodia de documentos, así como en materia de acceso a la información;
 
 IX. Participar en la promoción de sistemas archivísticos documentales y en medios electrónicos, acordes a los principios de innovación tecnológica y los lineamientos vigentes en la materia, y coadyuvar en la instrumentación de los mismos, tanto en el ámbito estatal como municipal;
 
@@ -1091,41 +1141,21 @@ X. Participar en la formulación de los programas de capacitación y de desarrol
 
 XI. Promover el desarrollo administrativo y tecnológico de los procesos que se realicen en el Archivo General del Estado; y
 
-XII. Las demás que en materia de su competencia se establezcan en este Reglamento, los ordenamientos legales vigentes, reglamentos, decretos, acuerdos, convenios y contratos, así como las que le confiera el Secretario y el Director General de Asuntos Registrales y Notariales.
+> <small>(REFORMADA, P.O. 3 DE AGOSTO DE 2011)</small>
 
-La Dirección del Archivo General del Estado, estará adscrita a la Dirección General de Asuntos Registrales y Notariales y a cargo de un titular, auxiliado por los Subdirectores, los Jefes de Departamento y demás servidores públicos que se requieran para el ejercicio de sus funciones y que se autoricen conforme a las normas respectivas.
+XII. Las demás que en materia de su competencia se establezcan en este Reglamento, los ordenamientos legales vigentes, reglamentos, decretos, acuerdos, convenios y contratos, así como las que le confiera el Secretario y el Director General del Registro Civil, Archivos y Notarías.
+
+> <small>(REFORMADO, P.O. 3 DE AGOSTO DE 2011)</small>
+
+La Dirección del Archivo General del Estado, estará adscrita a la Dirección General del Registro Civil, Archivos y Notarías y a cargo de un Titular, auxiliado por los Subdirectores, los Jefes de Departamento y demás servidores públicos que se requieran para el ejercicio de sus funciones y que se autoricen conforme a las normas respectivas.
+
+> <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 3 DE AGOSTO DE 2011)</small>
 
 ### CAPÍTULO VIII. DE LA DIRECCIÓN DEL REGISTRO PÚBLICO DE LA PROPIEDAD
 
 ###### ARTÍCULO 27.
 
-Son atribuciones del Director de Registro Público de la Propiedad:
-
-I. Planear, programar, organizar, dirigir y evaluar el desempeño de las oficinas de los Registros Públicos de la Propiedad en el Estado, de conformidad con los lineamientos que establezcan el Secretario, el Subsecretario Jurídico y el Director General de Asuntos Registrales y Notariales;
-
-II. Promover la capacitación técnica y administrativa del personal de las oficinas de los Registros Públicos de la Propiedad en el Estado, dando cuenta de ello al Director General de Asuntos Registrales y Notariales;
-
-III. Proporcionar asesoría a los titulares de las oficinas de los Registros Públicos de la Propiedad en el Estado;
-
-IV. Verificar que las oficinas de los Registros Públicos de la Propiedad lleven los libros adecuadamente y realicen las anotaciones, en la forma establecida por los ordenamientos legales aplicables;
-
-V. Establecer los mecanismos para un mejor funcionamiento de las oficinas de los Registros Públicos de la Propiedad en el Estado; así como para la debida coordinación con el Ministerio Público en los términos que las leyes determinen y de conformidad con los lineamientos que establezcan el Secretario, el Subsecretario Jurídico y el Director General de Asuntos Registrales y Notariales;
-
-VI. Elaborar y cumplir un programa de visitas de supervisión y evaluación de las funciones y actividades encomendadas a las oficinas de los Registros Públicos de la Propiedad ubicadas en la Capital y en el interior del Estado, informando de ello al Director General de Asuntos Registrales y Notariales;
-
-VII. Atender oportunamente las consultas que formulen los titulares de las oficinas de los Registros Públicos de la Propiedad en el Estado;
-
-VIII. Auxiliar al Secretario y al Subsecretario Jurídico en el análisis y evaluación de riesgos contra la seguridad jurídica inmobiliaria en el Estado, así como en el diseño e instrumentación de políticas, programas, acciones y medidas dentro del ámbito de competencia de la Secretaría, que contribuyan a fortalecer la función registral;
-
-IX. Acordar la integración y actualización de los padrones digitales de las oficinas de los Registros Públicos de la Propiedad en el Estado, así como la vinculación sistematizada entre sus registros y los correspondientes a otros padrones, con el objeto de consolidar la administración territorial, catastral y registral del Estado, facilitar los procesos de identificación, escrituración y control de inmuebles; garantizar la legalidad de las operaciones inmobiliarias, y dar mayor seguridad jurídica a la propiedad;
-
-X. Procurar la preservación documental y en medios electrónicos, conforme a la normatividad aplicable, de los libros que integran los archivos de las oficinas de los Registros Públicos de la Propiedad del Estado, a fin de facilitar su consulta y otorgar un mejor servicio;
-
-XI. Promover el desarrollo administrativo y tecnológico de los procesos que se realizan en las oficinas de los Registros Públicos de la Propiedad en el Estado, notificando de ello al Director General de Asuntos Registrales y Notariales; y
-
-XII. Las demás que en materia de su competencia se establezcan en este Reglamento, los ordenamientos legales vigentes, reglamentos, decretos, acuerdos, convenios y contratos, así como las que le confiera el Secretario, el Subsecretario Jurídico y el Director General de Asuntos Registrales y Notariales.
-
-La Dirección del Registro Público de la Propiedad, estará adscrita a la Dirección General de Asuntos Registrales y Notariales y a cargo de un titular, auxiliado por los Jefes de Departamento, unidades administrativas y demás servidores públicos que se requieran para el ejercicio de sus funciones y se autoricen conforme a las normas respectivas.
+(DEROGADO, P.O. 3 DE AGOSTO DE 2011)
 
 ### CAPÍTULO IX. DE LA DIRECCIÓN DEL REGISTRO DEL ESTADO CIVIL DE LAS PERSONAS
 
@@ -1133,13 +1163,17 @@ La Dirección del Registro Público de la Propiedad, estará adscrita a la Direc
 
 Son atribuciones del Director del Registro del Estado Civil de las Personas:
 
-I. Planear, programar, organizar, dirigir, coordinar y evaluar el desempeño y funcionamiento de las oficinas y Juzgados del Registro del Estado Civil de las Personas en la entidad, de conformidad con los lineamientos que establezca el Secretario, el Subsecretario Jurídico y el Director General de Asuntos Registrales y Notariales;
+> <small>(REFORMADA, P.O. 3 DE AGOSTO DE 2011)</small>
+
+I. Planear, programar, organizar, dirigir, coordinar y evaluar el desempeño y funcionamiento de las oficinas y Juzgados del Registro del Estado Civil de las Personas en la Entidad, de conformidad con los lineamientos que establezca el Secretario, el Subsecretario Jurídico y el Director General del Registro Civil, Archivos y Notarias;
 
 II. Realizar estudios sociodemográficos para proponer la apertura de nuevos Juzgados del Registro del Estado Civil de las Personas o la reubicación de los que estén en operación;
 
 III. Establecer mecanismos de apoyo, coordinación y administración en las oficinas y Juzgados del Registro del Estado Civil de las Personas de la entidad;
 
-IV. Coordinar, de conformidad con los lineamientos que establezcan el Secretario, el Subsecretario Jurídico y el Director General de Asuntos Registrales y Notariales, las funciones del Registro del Estado Civil de las Personas con los Sistemas Nacional y Estatal de Población, a fin de obtener la información demográfica que se requiera;
+> <small>(REFORMADA, P.O. 3 DE AGOSTO DE 2011)</small>
+
+IV. Coordinar, de conformidad con los lineamientos que establezcan el Secretario, el Subsecretario Jurídico y el Director General del Registro Civil, Archivos y Notarías, las funciones del Registro del Estado Civil de las Personas con los Sistemas Nacional y Estatal de Población, a fin de obtener la información demográfica que se requiera;
 
 V. Promover la capacitación técnica y administrativa del personal de las oficinas del Registro del Estado Civil de las Personas en la entidad;
 
@@ -1157,19 +1191,31 @@ XI. Ordenar la rectificación de las actas del Registro del Estado Civil de las 
 
 XII. Procurar la preservación documental y en medios electrónicos, del Archivo del Registro del Estado Civil de las Personas, a fin de otorgar un mejor servicio a la comunidad;
 
-XIII. Ordenar cuando así proceda, la reposición o restauración de libros deteriorados, destruidos o extraviados, conforme a las constancias existentes en los archivos, dando cuenta de ello al Director General de Asuntos Registrales y Notariales;
+> <small>(REFORMADA, P.O. 3 DE AGOSTO DE 2011)</small>
+
+XIII. Ordenar cuando así proceda, la reposición o restauración de libros deteriorados, destruidos o extraviados, conforme a las constancias existentes en los archivos, dando cuenta de ello al Director General del Registro Civil, Archivos y Notarías;
 
 XIV. Elaborar y cumplir programas de visitas de supervisión y evaluación de las funciones y actividades encomendadas a los Juzgados del Registro del Estado Civil de las Personas, en beneficio de los sectores marginados o indígenas en la entidad;
 
-XV. Promover campañas para difundir los servicios del Registro del Estado Civil de las Personas, informando de ello al Director General de Asuntos Registrales y Notariales;
+> <small>(REFORMADA, P.O. 3 DE AGOSTO DE 2011)</small>
 
-XVI. Promover programas extraordinarios del Registro del Estado Civil de las Personas, en beneficio de los sectores marginados o indígenas en la entidad, de conformidad con los lineamientos que establezcan el Secretario, el Subsecretario Jurídico y el Director General de Asuntos Registrales y Notariales;
+XV. Promover campañas para difundir los servicios del Registro del Estado Civil de las Personas, informando de ello al Director General del Registro Civil, Archivos y Notarías;
 
-XVII. Promover el desarrollo administrativo y tecnológico de los procesos que se realicen en las oficinas y Juzgados del Registro del Estado Civil de las Personas en el Estado, notificando de ello al Director General de Asuntos Registrales y Notariales; y
+> <small>(REFORMADA, P.O. 3 DE AGOSTO DE 2011)</small>
 
-XVIII. Las demás que en materia de su competencia se establezcan en este Reglamento, los ordenamientos legales vigentes, reglamentos, decretos, acuerdos, convenios y contratos, así como las que le confiera el Secretario, el Subsecretario Jurídico y el Director General de Asuntos Registrales y Notariales.
+XVI. Promover programas extraordinarios del Registro del Estado Civil de las Personas, en beneficio de los sectores marginados o indígenas en la Entidad, de conformidad con los lineamientos que establezcan el Secretario, el Subsecretario Jurídico y el Director General del Registro Civil, Archivos y Notarias;
 
-La Dirección del Registro del Estado Civil de las Personas, estará adscrita a la Dirección General de Asuntos Registrales y Notariales y a cargo de un titular, auxiliado por los Jefes de Departamento y demás servidores públicos que se requieran para el ejercicio de sus funciones y que se autoricen conforme a las normas respectivas.
+> <small>(REFORMADA, P.O. 3 DE AGOSTO DE 2011)</small>
+
+XVII. Promover el desarrollo administrativo y tecnológico de los procesos que se realicen en las oficinas y Juzgados del Registro del Estado Civil de las Personas en el Estado, notificando de ello al Director General del Registro Civil, Archivos y Notarías; y
+
+> <small>(REFORMADA, P.O. 3 DE AGOSTO DE 2011)</small>
+
+XVIII. Las demás que en materia de su competencia se establezcan en este Reglamento, los ordenamientos legales vigentes, reglamentos, decretos, acuerdos, convenios y contratos, así como las que le confiera el Secretario, el Subsecretario Jurídico y el Director General del Registro Civil, Archivos y Notarías.
+
+> <small>(REFORMADO, P.O. 3 DE AGOSTO DE 2011)</small>
+
+La Dirección del Registro del Estado Civil de las Personas, estará adscrita a la Dirección General del Registro Civil, Archivos y Notarías y a cargo de un Titular, auxiliado por los Jefes de Departamento y demás servidores públicos que se requieran para el ejercicio de sus funciones y que se autoricen conforme a las normas respectivas.
 
 ### CAPÍTULO X. DE LA DIRECCIÓN DE NOTARÍAS
 
@@ -1181,21 +1227,31 @@ I. Vigilar el cumplimiento de la Ley del Notariado del Estado de Puebla;
 
 II. Dar trámite a las solicitudes que presenten los Notarios Públicos y aspirantes al ejercicio del Notariado, conforme a la Ley del Notariado del Estado de Puebla y demás ordenamientos aplicables;
 
-III. Auxiliar al Director General de Asuntos Registrales y Notariales en el desahogo de los trámites relativos a licencias, suspensiones o terminaciones del cargo, así como en el adecuado desarrollo de los procedimientos o actuaciones de carácter administrativo, relativos a la vigilancia de la actuación notarial o la clausura de protocolos;
+> <small>(REFORMADA, P.O. 3 DE AGOSTO DE 2011)</small>
 
-IV. Elaborar, practicar y cumplir un programa de visitas generales y especiales a los Notarios Públicos del Estado y constatar que sus actos se apeguen a las normas y disposiciones de ley, dando cuenta de ello al Secretario, al Subsecretario Jurídico y al Director General de Asuntos Registrales y Notariales, en cumplimiento de lo dispuesto por la Ley del Notariado del Estado de Puebla;
+III. Auxiliar al Director General del Registro Civil, Archivos y Notarías en el desahogo de los trámites relativos a licencias, suspensiones o terminaciones del cargo, así como en el adecuado desarrollo de los procedimientos o actuaciones de carácter administrativo, relativos a la vigilancia de la actuación notarial o la clausura de protocolos;
+
+> <small>(REFORMADA, P.O. 3 DE AGOSTO DE 2011)</small>
+
+IV. Elaborar, practicar y cumplir un programa de visitas generales y especiales a los Notarios Públicos del Estado y constatar que sus actos se apeguen a las normas y disposiciones de ley, dando cuenta de ello al Secretario, al Subsecretario Jurídico y al Director General del Registro Civil, Archivos y Notarías, en cumplimiento de lo dispuesto por la Ley del Notariado del Estado de Puebla;
 
 V. Recibir las quejas presentadas por parte de los usuarios de sus servicios en contra de los actos de los Notarios Públicos del Estado e integrar los expedientes relativos en términos de ley;
 
-VI. Iniciar las investigaciones en los casos que proceda, coadyuvar en la instrucción de los procedimientos correspondientes, rendir los dictámenes necesarios, formular los proyectos de resolución, dictar lo conducente y dar cuenta de ello al Secretario, al Subsecretario Jurídico y al Director General de Asuntos Registrales y Notariales;
+> <small>(REFORMADA, P.O. 3 DE AGOSTO DE 2011)</small>
+
+VI. Iniciar las investigaciones en los casos que proceda, coadyuvar en la instrucción de los procedimientos correspondientes, rendir los dictámenes necesarios, formular los proyectos de resolución, dictar lo conducente y dar cuenta de ello al Secretario, al Subsecretario Jurídico y al Director General del Registro Civil, Archivos y Notarías;
 
 VII. Regularizar protocolos en los casos en que por clausura de los mismos, éstos no queden regularizados por los Notarios substitutos dentro de los términos fijados para ello;
 
 VIII. Conformar y dar seguimiento a las estadísticas relativas a los informes que rindan al Secretario, el Consejo de Notarios y los Notarios Públicos del Estado; y
 
-IX. Las demás que en materia de su competencia se establezcan en este Reglamento, los ordenamientos legales vigentes, reglamentos, decretos, acuerdos, convenios y contratos, así como las que le confiera el Secretario, el Subsecretario Jurídico y el Director General de Asuntos Registrales y Notariales.
+> <small>(REFORMADA, P.O. 3 DE AGOSTO DE 2011)</small>
 
-La Dirección de Notarías, estará adscrita a la Dirección General de Asuntos Registrales y Notariales y a cargo de un titular, auxiliado por los servidores públicos que se requieran para el ejercicio de sus funciones y que se autoricen conforme a las normas respectivas.
+IX. Las demás que en materia de su competencia se establezcan en este Reglamento, los ordenamientos legales vigentes, reglamentos, decretos, acuerdos, convenios y contratos, así como las que le confiera el Secretario, el Subsecretario Jurídico y el Director General del Registro Civil, Archivos y Notarías.
+
+> <small>(REFORMADO, P.O. 3 DE AGOSTO DE 2011)</small>
+
+La Dirección de Notarías, estará adscrita a la Dirección General del Registro Civil, Archivos y Notarías y a cargo de un Titular, auxiliado por los servidores públicos que se requieran para el ejercicio de sus funciones y que se autoricen conforme a las normas respectivas.
 
 ### CAPÍTULO XI. DE LA DIRECCIÓN DEL ARCHIVO DE NOTARÍAS
 
@@ -1205,27 +1261,39 @@ Son atribuciones del Director del Archivo de Notarías:
 
 I. Dirigir, organizar y controlar el archivo de protocolos, libros y demás documentos que se encuentren a su cargo, en términos de la Ley del Notariado del Estado de Puebla;
 
-II. Promover el desarrollo administrativo y tecnológico de los procesos que se realizan en el Archivo de Notarías, notificando de ello al Director General de Asuntos Registrales y Notariales;
+> <small>(REFORMADA, P.O. 3 DE AGOSTO DE 2011)</small>
+
+II. Promover el desarrollo administrativo y tecnológico de los procesos que se realizan en el Archivo de Notarías, notificando de ello al Director General del Registro Civil, Archivos y Notarías;
 
 III. Conservar el archivo debidamente clasificado, llevando el inventario correspondiente;
 
-IV. Comunicar al Director General de Asuntos Registrales y Notariales las deficiencias o irregularidades que advierta en los protocolos remitidos a la Dirección del Archivo General del Estado;
+> <small>(REFORMADA, P.O. 3 DE AGOSTO DE 2011)</small>
+
+IV. Comunicar al Director General del Registro Civil, Archivos y Notarías las deficiencias o irregularidades que advierta en los protocolos remitidos a la Dirección del Archivo General del Estado;
 
 V. Conservar en depósito los protocolos, así como registrar los sellos de los Notarios en los casos previstos en la Ley del Notariado del Estado de Puebla;
 
-VI. Autorizar el acceso al Archivo de Notarías, a todas aquellas personas que acrediten estar realizando estudios académicos o de investigación, previo permiso del Secretario, Subsecretario Jurídico o el Director General de Asuntos Registrales y Notariales;
+> <small>(REFORMADA, P.O. 3 DE AGOSTO DE 2011)</small>
+
+VI. Autorizar el acceso al Archivo de Notarías, a todas aquellas personas que acrediten estar realizando estudios académicos o de investigación, previo permiso del Secretario, Subsecretario Jurídico o del Director General del Registro Civil, Archivos y Notarías;
 
 VII. Rendir informes a las autoridades judiciales y a los Notarios Públicos que así lo requieran, sobre la existencia o no de disposiciones testamentarias, en términos de lo dispuesto en el artículo 771 del Código de Procedimientos Civiles para el Estado;
 
 VIII. Rendir los informes previos y justificados a las autoridades federales, que así se lo requieran;
 
-IX. De conformidad con los lineamientos que establezcan el Secretario, el Subsecretario Jurídico o Director General de Asuntos Registrales y Notariales, intervenir en el cumplimiento de los trámites y obligaciones que las normas, acuerdos y convenios administrativos impongan al Estado, en materia de protocolos, registro y archivo de instrumentos notariados;
+> <small>(REFORMADA, P.O. 3 DE AGOSTO DE 2011)</small>
+
+IX. De conformidad con los lineamientos que establezcan el Secretario, el Subsecretario Jurídico o el Director General del Registro Civil, Archivos y Notarías, intervenir en el cumplimiento de los trámites y obligaciones que las normas, acuerdos y convenios administrativos impongan al Estado, en materia de protocolos, registro y archivo de instrumentos notariados;
 
 X. Realizar la captura de los testamentos públicos abiertos y cerrados, conforme al convenio suscrito por el Gobierno del Estado y la Secretaría de Gobernación Federal, para contribuir a la constitución del Registro Nacional de Testamentos; y
 
-XI. Las demás que en materia de su competencia se establezcan en este Reglamento, los ordenamientos legales vigentes, reglamentos, decretos, acuerdos, convenios y contratos, así como las que le confiera el Secretario, Subsecretario Jurídico y el Director General de Asuntos Registrales y Notariales.
+> <small>(REFORMADA, P.O. 3 DE AGOSTO DE 2011)</small>
 
-La Dirección del Archivo de Notarías, estará adscrita a la Dirección General de Asuntos Registrales y Notariales y a cargo de un titular, auxiliado por los servidores públicos que se requieran para el ejercicio de sus funciones y se autoricen conforme a las normas respectivas.
+XI. Las demás que en materia de su competencia se establezcan en este Reglamento, los ordenamientos legales vigentes, reglamentos, decretos, acuerdos, convenios y contratos, así como las que le confiera el Secretario, Subsecretario Jurídico y el Director General del Registro Civil, Archivos y Notarías.
+
+> <small>(REFORMADO, P.O. 3 DE AGOSTO DE 2011)</small>
+
+La Dirección del Archivo de Notarías, estará adscrita a la Dirección General del Registro Civil, Archivos y Notarías y a cargo de un Titular, auxiliado por los servidores públicos que se requieran para el ejercicio de sus funciones y se autoricen conforme a las normas respectivas.
 
 ### CAPÍTULO XII. DE LA DIRECCIÓN GENERAL DE SENTENCIAS Y DE MEDIDAS
 
@@ -2208,3 +2276,11 @@ QUINTO.- Todo instrumento legal, jurídico o administrativo y norma en sentido f
 SEXTO.- Se dejan sin efecto las disposiciones que se opongan al presente Decreto.
 
 Dado en la Sede del Poder Ejecutivo del Estado, en la Heroica Puebla de Zaragoza, a los once días del mes de mayo de dos mil once.- El Gobernador Constitucional del Estado Libre y Soberano de Puebla.- C. RAFAEL MORENO VALLE ROSAS.- Rúbrica.- El Secretario General de Gobierno.- C. FERNANDO LUIS MANZANILLA PRIETO.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 3 DE AGOSTO DE 2011.
+
+PRIMERO.- EI presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se dejan sin efecto todas las disposiciones que se opongan al presente Decreto.
