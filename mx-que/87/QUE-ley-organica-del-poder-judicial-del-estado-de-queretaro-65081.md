@@ -4,7 +4,7 @@ identifier: "QUE-ley-organica-del-poder-judicial-del-estado-de-queretaro-65081"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2008-12-17"
-last_updated: "2011-06-17"
+last_updated: "2011-08-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=65081&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE QUERETARO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE JUNIO DE 2011.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE AGOSTO DE 2011.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el miércoles 17 de diciembre de 2008.
 
@@ -65,7 +65,9 @@ II. El Consejo de la Judicatura;
 
 III. Los juzgados de primera instancia; y
 
-IV. Los juzgados municipales.
+> <small>(REFORMADO, P.O. 3 DE AGOSTO DE 2011)</small>
+
+IV. Los juzgados menores.
 
 ###### Artículo 4.
 
@@ -97,9 +99,11 @@ Los auxiliares de la administración de justicia están obligados a realizar los
 
 Los poderes del Estado, en el ejercicio de sus facultades, están obligados a garantizar y facilitar el ejercicio de las funciones de auxilio a la administración de justicia.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE AGOSTO DE 2011)</small>
+
 ###### Artículo 7.
 
-El Tribunal Superior de Justicia, los juzgados de primera instancia y los juzgados municipales, tienen las siguientes atribuciones:
+El Tribunal Superior de Justicia, los juzgados de primera instancia y los juzgados menores, tienen las siguientes atribuciones:
 
 I. Ejercer la función jurisdiccional de manera pronta, completa, imparcial y gratuita;
 
@@ -233,7 +237,9 @@ VII. Determinar las adscripciones de los magistrados a las salas para la integra
 
 VIII. Nombrar a los servidores judiciales del Tribunal Superior de Justicia comprendidos en las categorías de carrera judicial; determinar su adscripción de acuerdo con las necesidades del servicio; resolver las renuncias que presenten y resolver sobre su destitución en los casos previstos en esta Ley y demás disposiciones aplicables;
 
-IX. Nombrar a los jueces de primera instancia y municipales, y tomarles la protesta de ley, así como acordar su cambio de adscripción, atendiendo a la propuesta del Consejo de la Judicatura; resolver las renuncias que presenten y sobre su destitución, en los términos de la Constitución Política del Estado de Querétaro y demás disposiciones aplicables;
+> <small>(REFORMADA, P.O. 3 DE AGOSTO DE 2011)</small>
+
+IX. Nombrar a los jueces de primera instancia y menores; y tomarles la protesta de ley; acordar su cambio de adscripción, atendiendo a la propuesta del Consejo de la Judicatura; resolver las renuncias que presenten y sobre su destitución, en los términos de la Constitución Política del Estado de Querétaro y demás disposiciones aplicables;
 
 X. Acordar la división del territorio del Estado en distritos judiciales, modificar la jurisdicción territorial y competencia de los juzgados en materia o cuantía, así como ampliar o reducir el número de distritos judiciales, a propuesta del Consejo de la Judicatura. El Acuerdo del Pleno deberá ser publicado en el Periódico Oficial del Gobierno del Estado y en los diarios de mayor circulación en la Entidad, debiendo difundirse en los estrados judiciales la modificación que se realice, con arreglo a esta facultad;
 
@@ -419,7 +425,9 @@ Los magistrados de las salas constitucional, civil, penal, electoral, especializ
 
 I. De la segunda instancia y de la denegada apelación, en los términos que establecen las leyes;
 
-II. De las recusaciones, excusas e incompetencias de los jueces de primera instancia y municipales;
+> <small>(REFORMADA, P.O. 3 DE AGOSTO DE 2011)</small>
+
+II. De las recusaciones, excusas e incompetencias de los jueces de primera instancia y menores;
 
 III. De las excitativas de justicia; y
 
@@ -709,11 +717,11 @@ V. Los juzgados especializados en ejecución de sanciones penales, y
 
 VI. Los juzgados mixtos.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE AGOSTO DE 2011)</small>
 
 ###### Artículo 60.
 
-El Pleno del Tribunal Superior de Justicia determinará el número de juzgados civiles, familiares, penales, especializados en justicia para adolescentes y en ejecución de sanciones penales, mixtos y menores, con jurisdicción en el Estado o en los distritos judiciales, atendiendo a las necesidades del servicio, así como a las observaciones que sobre el particular haga el Consejo de la Judicatura.
+El Pleno del Tribunal Superior de Justicia determinará el número de juzgados civiles, familiares, penales, especializados en justicia para menores, mixtos y menores en los distritos judiciales, atendiendo a las necesidades del servicio, así como a las observaciones que sobre el particular haga el Consejo de la Judicatura.
 
 Cuando en un distrito judicial exista más de un juzgado, se designarán por orden numérico.
 
@@ -983,27 +991,37 @@ II. Tener título de licenciado en derecho y cédula profesional expedidos legal
 
 III. Ser de notoria buena conducta, honradez y honestidad.
 
-### Capítulo Décimo Primero. De los juzgados municipales
+> <small>(REFORMADA SU DENOMINACION, P.O. 3 DE AGOSTO DE 2011)</small>
+
+### Capítulo Décimo Primero. De los juzgados menores
+
+> <small>(REFORMADO, P.O. 3 DE AGOSTO DE 2011)</small>
 
 ###### Artículo 79.
 
-En el Estado habrá juzgados municipales en cada una de las poblaciones que sean cabeceras de los Municipios y en las delegaciones que lo ameriten, los cuales podrán ser civiles, penales o mixtos.
+En el Estado habrá juzgados menores en cada una de las poblaciones que sean cabeceras de los Municipios y en las delegaciones que lo ameriten, los cuales podrán ser civiles, penales o mixtos.
+
+Los juzgados menores dependerán jerárquica, administrativa y financieramente del Tribunal Superior de Justicia del Estado.
+
+> <small>(REFORMADO, P.O. 3 DE AGOSTO DE 2011)</small>
 
 ###### Artículo 80.
 
-Los jueces municipales serán propuestos por el Consejo de la Judicatura y designados por el Pleno del Tribunal Superior de Justicia y durarán en su encargo seis años, pudiendo ser ratificados por otros nueve años por el Pleno, de acuerdo a la evaluación en el desempeño que realice el Consejo de la Judicatura.
+Los jueces menores serán propuestos por el Consejo de la Judicatura y designados por el Pleno del Tribunal Superior de Justicia; durarán en su encargo seis años, pudiendo ser ratificados por otros nueve años por el Pleno, de acuerdo a la evaluación en el desempeño que realice el Consejo de la Judicatura.
 
-Desempeñarán su función mientras no lleguen a la edad de setenta años o el plazo para el que fueron designados o nombrados concluya, fueren declarados legalmente incapaces o sean removidos ya sea en términos del Título Cuarto de la Constitución Política del Estado de Querétaro o por falta grave establecida en esta
+Desempeñarán su función mientras no lleguen a la edad de setenta años o el plazo para el que fueron designados o nombrados concluya, fueren declarados legalmente incapaces o sean removidos, ya sea en términos del Título Cuarto de la Constitución Política del Estado de Querétaro o por falta grave establecida en esta Ley, determinada por el Consejo de la Judicatura y aprobada por el Pleno del Tribunal Superior de Justicia.
 
-Ley, determinada por el Consejo de la Judicatura y aprobada por el Pleno del Tribunal Superior de Justicia.
+> <small>(REFORMADO, P.O. 3 DE AGOSTO DE 2011)</small>
 
 ###### Artículo 81.
 
-Para ser juez municipal se debe reunir los mismos requisitos establecidos para ser juez de primera instancia.
+Para ser juez menor se debe reunir los mismos requisitos establecidos para ser juez de primera instancia.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE AGOSTO DE 2011)</small>
 
 ###### Artículo 82.
 
-Es competencia de los juzgados municipales y, en su caso, del titular:
+Es competencia de los juzgados menores y, en su caso, del titular:
 
 I. Conocer de los negocios civiles y mercantiles cuya cuantía no exceda o sea igual al importe que determine, mediante acuerdo, el Pleno del Tribunal Superior de Justicia y publique en el Periódico Oficial del Gobierno del Estado, sin que puedan conocer de negocios de jurisdicción voluntaria, con excepción de los señalados en este artículo, ni de cualquier otro que sea de la competencia de los jueces de primera instancia;
 
@@ -1029,13 +1047,17 @@ XI. (DEROGADA, P.O. 17 DE JUNIO DE 2011)
 
 XII. Las demás que les atribuyan la presente Ley, los órganos competentes del Poder Judicial y otras disposiciones aplicables.
 
+> <small>(REFORMADO, P.O. 3 DE AGOSTO DE 2011)</small>
+
 ###### Artículo 83.
 
-Los jueces municipales actuarán con su secretario de acuerdos o, en su defecto, ante dos testigos de asistencia que el propio juez nombrará, en los casos de inhibición o ausencia de su secretario.
+Los jueces menores actuarán con su secretario de acuerdos o, en su defecto, ante dos testigos de asistencia que el propio juez nombrará, en los casos de inhibición o ausencia de su secretario.
+
+> <small>(REFORMADO, P.O. 3 DE AGOSTO DE 2011)</small>
 
 ###### Artículo 84.
 
-Son facultades y obligaciones de los secretarios de acuerdos municipales, las mismas que tienen los de los juzgados de primera instancia y las que el juez les señale.
+Son facultades y obligaciones de los secretarios de acuerdos menores, las mismas que tienen los de los juzgados de primera instancia y las que el juez les señale.
 
 ###### Artículo 85.
 
@@ -1499,7 +1521,9 @@ La Visitaduría Judicial tiene por objeto verificar el debido funcionamiento de 
 
 La Visitaduría Judicial estará integrada con un titular que se denomina Visitador General, así como con visitadores adjuntos que dependerán de su titular y tendrá las siguientes funciones:
 
-I. Desahogar visitas de inspección a los órganos jurisdiccionales de primera instancia y municipales, para verificar su adecuado funcionamiento, rindiendo informe al Consejo de la Judicatura del resultado de las mismas;
+> <small>(REFORMADA, P.O. 3 DE AGOSTO DE 2011)</small>
+
+I. Desahogar visitas de inspección a los órganos jurisdiccionales de primera instancia y menores, para verificar su adecuado funcionamiento, rindiendo informe al Consejo de la Judicatura del resultado de las mismas;
 
 II. Intervenir en los procesos de entrega recepción de las dependencias jurisdiccionales, a fin de que se cumpla con la normatividad aplicable;
 
@@ -1593,7 +1617,9 @@ I. Juez de primera instancia;
 
 II. Secretario de acuerdos y proyectista de segunda instancia; así como titulares de las dependencias de apoyo a la función jurisdiccional;
 
-III. Juez municipal;
+> <small>(REFORMADA, P.O. 3 DE AGOSTO DE 2011)</small>
+
+III. Juez menor;
 
 IV. Secretario auxiliar de segunda instancia;
 
@@ -1617,9 +1643,11 @@ El Consejo de la Judicatura estará facultado para emitir los acuerdos generales
 
 El Consejo de la Judicatura establecerá un sistema de evaluación institucional respecto de la carrera judicial, en atención a los méritos para la selección, promoción y permanencia en el cargo, las categorías, descripción y perfil de puestos, así como la capacitación y el desarrollo de los servidores judiciales, en los términos de esta Ley y demás disposiciones aplicables en la materia.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE AGOSTO DE 2011)</small>
+
 ###### Artículo 126.
 
-El ingreso y promoción para las categorías de la carrera judicial, relativas a juez de primera instancia, secretario de acuerdos, juez municipal, secretario auxiliar de segunda instancia, secretario de acuerdos y proyectista de primera instancia y actuario, se realizará mediante el concurso interno de oposición o de oposición libre, con excepción de los proyectistas de segunda instancia.
+El ingreso y promoción para las categorías de la carrera judicial, relativas a juez de primera instancia, secretario de acuerdos, juez menor, secretario auxiliar de segunda instancia, secretario de acuerdos y proyectista de primera instancia y actuario, se realizará mediante el concurso interno de oposición o de oposición libre, con excepción de los proyectistas de segunda instancia.
 
 Para acceder a las categorías de la carrera judicial, relativas a secretario auxiliar de juzgado, acordista y archivista, se requerirá de la aprobación de un examen de aptitudes y conocimientos.
 
@@ -2018,3 +2046,13 @@ Artículo Primero. Este Decreto entrará en vigor a partir del día siguiente de
 Artículo Segundo. Los procedimientos de modificación de penas y medidas de seguridad o de medidas para adolescentes iniciados con anterioridad a la entrada en vigor de la presente ley se sujetarán, hasta su conclusión definitiva, a las disposiciones procesales vigentes en su momento.
 
 Artículo Tercero. Se derogan todas aquellas disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
+
+P.O. 3 DE AGOSTO DE 2011.
+
+Artículo Primero. La presente Ley entrará en vigor noventa días naturales posteriores al de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
+
+Artículo Segundo. Cualquier referencia a juzgados municipales, hecha en otros ordenamientos legales, se entenderá realizada a los juzgados menores, hasta en tanto se efectúen las reformas que correspondan.
+
+Artículo Tercero. El Poder Judicial del Estado de Querétaro, habrá de suministrar los recursos necesarios que garanticen la suficiencia económica y el adecuado funcionamiento de los Juzgados Menores.
+
+Artículo Cuarto. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
