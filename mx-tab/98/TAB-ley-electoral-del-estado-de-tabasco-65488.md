@@ -4,7 +4,7 @@ identifier: "TAB-ley-electoral-del-estado-de-tabasco-65488"
 country: "mx"
 rank: "ley"
 publication_date: "2008-12-12"
-last_updated: "2011-03-19"
+last_updated: "2011-08-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=65488&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 LEY ELECTORAL DEL ESTADO DE TABASCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE MARZO DE 2011.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE AGOSTO DE 2011.
 
 Ley publicada en el Extraordinario No. 52 del Periódico Oficial del Estado de Tabasco, el viernes 12 de diciembre de 2008.
 
@@ -127,7 +127,9 @@ Es derecho exclusivo de los ciudadanos mexicanos participar, libre e individualm
 
 I. Podrán participar sólo cuando hayan obtenido oportunamente su acreditación ante el Consejo Estatal;
 
-II. La acreditación como observador electoral se podrá solicitar personalmente o a través de la asociación previamente autorizada a la que el ciudadano pertenezca, ante el Presidente del Consejo Estatal a partir del inicio del proceso electoral y hasta el último día del mes de agosto del año de la elección. El Presidente del Consejo Estatal dará cuenta de la solicitud al propio Consejo Estatal para su consideración en la siguiente sesión que celebre, la resolución que se emita deberá ser notificada al solicitante. El Consejo Estatal garantizará este derecho y resolverá cualquier planteamiento que pudiera presentarse por parte del ciudadano o de la agrupación interesada;
+> <small>(REFORMADA, B.O. 3 DE AGOSTO DE 2011)</small>
+
+II. La acreditación como observador electoral se podrá solicitar personalmente o a través de la asociación previamente autorizada a la que el ciudadano pertenezca, ante el Presidente del Consejo Estatal a partir del inicio del proceso electoral y hasta el 15 de mayo del año de la elección. El Presidente del Consejo Estatal dará cuenta de la solicitud al propio Consejo Estatal para su consideración en la siguiente sesión que celebre, la resolución que se emita deberá ser notificada al solicitante. El Consejo Estatal garantizará este derecho y resolverá cualquier planteamiento que pudiera presentarse por parte del ciudadano o de la agrupación interesada;
 
 III. Los ciudadanos interesados deberán señalar en el escrito de solicitud de acreditación, los datos de identificación personal, anexando fotocopia de su credencial para votar, así como la manifestación expresa de que se sujetarán a los principios de certeza, legalidad, imparcialidad y objetividad, y que no tiene vínculos con Partido Político, agrupación política o ente político alguno;
 
@@ -391,9 +393,11 @@ c) Por cada Regidor propietario, se elegirá un suplente y ambos deberán cumpli
 
 ### CAPÍTULO QUINTO. DE LAS ELECCIONES ORDINARIAS Y EXTRAORDINARIAS
 
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 3 DE AGOSTO DE 2011)</small>
+
 ###### ARTÍCULO 29.
 
-Las elecciones ordinarias deberán celebrarse el tercer domingo del mes de octubre del año que corresponda, para elegir:
+Las elecciones ordinarias deberán celebrarse el primer domingo del mes de julio del año que corresponda, para elegir:
 
 I. Gobernador del Estado, cada 6 años;
 
@@ -432,6 +436,14 @@ En ningún caso podrá participar en elecciones ordinarias o extraordinarias el 
 ###### ARTÍCULO 34.
 
 A ninguna persona podrá registrársele como candidato a distintos cargos de elección popular en el mismo proceso electoral; si esto sucediere se considerará valido el primer registro efectuado y se procederá a la cancelación automática del registro posterior.
+
+> <small>(ADICIONADO, B.O. 3 DE AGOSTO DE 2011)</small>
+
+Asimismo ninguna persona podrá ser candidato para un cargo de elección popular federal o de otro Estado o del Distrito Federal y, simultáneamente, para otro cargo de elección popular en el Estado de Tabasco. En este supuesto, si el registro para el cargo de la elección en el Estado de Tabasco ya estuviera hecho se procederá a la cancelación automática del registro respectivo.
+
+> <small>(ADICIONADO, B.O. 3 DE AGOSTO DE 2011)</small>
+
+Los partidos políticos solo podrán registrar simultáneamente, en un mismo proceso electoral hasta cuatro fórmulas de candidatos a Diputados por mayoría relativa y por representación proporcional distribuidos igualitariamente en sus dos listas regionales.
 
 # LIBRO SEGUNDO. DE LOS PARTIDOS POLÍTICOS
 
@@ -963,21 +975,25 @@ IV. Los Partidos Políticos de nuevo registro, participarán solamente en la dis
 
 V. Los Partidos Políticos Nacionales que no hubiesen obtenido, en la elección para Diputados locales inmediata anterior, el porcentaje mínimo de votos para tener derecho a prerrogativas, tendrán derecho a la prerrogativa de radio y televisión solamente en la parte que se distribuye en forma igualitaria.
 
+> <small>(REFORMADO, B.O. 3 DE AGOSTO DE 2011)</small>
+
 ###### ARTÍCULO 76.
 
-Para la asignación del tiempo a que se refiere el artículo anterior entre los Partidos Políticos, durante el periodo de precampañas, el Instituto Estatal pondrá a disposición doce minutos diarios en cada estación de radio y canal de televisión, y en su caso ajustará el tiempo de acuerdo a la disponibilidad de tiempos que le otorgue el Instituto Federal Electoral.
+El Instituto Estatal acorde a las normas constitucionales, al Código Federal y al presente ordenamiento, garantizará el acceso y distribución entre los partidos políticos de los tiempos de radio y televisión.
 
-El Instituto Estatal asignará entre los Partidos Políticos el tiempo a que se refiere el párrafo anterior aplicando, en lo conducente, las reglas establecidas en el artículo 75 de esta Ley, conforme a los procedimientos que determinen los lineamientos y la legislación aplicable.
-
-Los mensajes de precampaña de los Partidos Políticos serán transmitidos de acuerdo a la pauta que apruebe, a propuesta del Consejo Estatal, el Comité de Radio y Televisión del Instituto Federal Electoral.
+> <small>(REFORMADO, B.O. 3 DE AGOSTO DE 2011)</small>
 
 ###### ARTÍCULO 77.
 
-Para efectos del artículo anterior, la precampaña de un Partido Político concluye, a más tardar, un día antes de que realice su elección interna o tenga lugar la Asamblea Estatal Electoral, o equivalente, o la sesión del órgano de dirección que resuelva al respecto, conforme a los estatutos de cada partido.
+Corresponde al Instituto Estatal vigilar que las transmisiones de los partidos políticos en radio y televisión se mantengan dentro de la legalidad.
+
+(NOTA: EL 20 DE OCTUBRE DE 2011, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO QUINTO Y EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 24/2011, DECLARÓ LA INVALIDEZ DEL PÁRRAFO PRIMERO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 21 DE OCTUBRE DE 2011 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 3 DE AGOSTO DE 2011)</small>
 
 ###### ARTÍCULO 78.
 
-Para las campañas electorales, el Consejo Estatal asignará como prerrogativa para los Partidos Políticos, dieciocho minutos diarios en cada estación de radio y canal de televisión de cobertura en la entidad; en caso de insuficiencia, el Consejo Estatal completará el tiempo faltante con el disponible que corresponda al estado y en su caso solicitará al Instituto Federal Electoral el tiempo conveniente para complementarlo.
+EN CASO DE INSUFICIENCIA, EL CONSEJO ESTATAL COMPLETARÁ EL TIEMPO FALTANTE CON EL DISPONIBLE QUE CORRESPONDA AL ESTADO Y EN SU CASO SOLICITARÁ AL INSTITUTO FEDERAL ELECTORAL EL TIEMPO CONVENIENTE PARA COMPLEMENTARLO.
 
 Para la distribución entre los Partidos Políticos del tiempo correspondiente a las campañas electorales, convertido a número de mensajes, se aplicarán, en lo conducente, las reglas establecidas en el artículo 75 de esta Ley.
 
@@ -1149,13 +1165,17 @@ I. El órgano interno responsable de la administración del financiamiento de ca
 
 II. Cada Partido Político determinará libremente los montos mínimos y máximos y la periodicidad de las cuotas ordinarias y extraordinarias de sus afiliados, así como las aportaciones de sus organizaciones, teniendo como límite máximo el que marque esta Ley; y
 
-III. Las cuotas voluntarias y personales que los candidatos aporten exclusivamente para sus campañas, tendrán el límite que fije el órgano interno responsable del manejo del financiamiento de cada Partido Político. La suma de las aportaciones realizadas por todos los candidatos de un mismo partido queda comprendida dentro del límite establecido en la fracción I del artículo 91.
+> <small>(REFORMADA, B.O. 3 DE AGOSTO DE 2011)</small>
+
+III. Las cuotas voluntarias y personales que los precandidatos y candidatos aporten exclusivamente para sus precampañas y campañas, tendrán el límite que fije el órgano interno responsable del manejo del financiamiento de cada Partido Político. La suma de las aportaciones realizadas por todos los precandidatos y candidatos de un mismo partido queda comprendida dentro del límite establecido en el último párrafo del artículo 93.
 
 ###### ARTÍCULO 91.
 
 El financiamiento de simpatizantes estará conformado por las aportaciones o donativos, en dinero o en especie, hecha a los Partidos Políticos en forma libre y voluntaria por las personas físicas o jurídicas colectivas mexicanas con residencia en el país, que no estén comprendidas en el artículo 87 de esta Ley. Las aportaciones se deberán sujetar a las siguientes reglas:
 
-I. Cada Partido Político no podrá recibir anualmente aportaciones, en dinero o en especie, de afiliados y simpatizantes por una cantidad superior al 10% del monto establecido como tope de gastos para la campaña, del año en que se elija Gobernador del Estado, inmediata anterior;
+> <small>(REFORMADA, B.O. 3 DE AGOSTO DE 2011)</small>
+
+I. Cada Partido Político no podrá recibir anualmente aportaciones, en dinero o en especie, de simpatizantes por una cantidad superior al 10% del monto establecido como tope de gastos para la campaña, del año en que se elija Gobernador del Estado, inmediata anterior;
 
 II. De las aportaciones en dinero deberán expedirse recibos foliados por los Partidos Políticos en los que se hará constar el nombre completo y domicilio, clave de elector y, en su caso, registro federal de contribuyentes del aportante. En el caso de colectas, sólo deberá reportarse en el informe correspondiente el monto total obtenido. Las aportaciones en especie se harán constar en un contrato celebrado conforme a las leyes aplicables;
 
@@ -1181,7 +1201,11 @@ En todo caso, las cuentas, fondos o fideicomisos no estarán protegidos por los 
 
 Los rendimientos financieros obtenidos a través de esta modalidad deberán destinarse para el cumplimiento de los objetivos del Partido Político.
 
-La suma que cada Partido Político pueda obtener anualmente de los recursos provenientes de las fuentes señaladas en los artículos 90, 91 y 92, y los obtenidos mediante colectas realizadas en mítines o en la vía pública, no podrá ser mayor al 10 % del monto establecido como tope de gastos de campaña, del año en que se elija Gobernador del Estado, inmediata anterior.
+(NOTA: EL 20 DE OCTUBRE DE 2011, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO QUINTO Y EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 24/2011, DECLARÓ LA INVALIDEZ DEL PÁRRAFO ÚLTIMO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA EN SU TEXTO ANTERIOR ÚNICAMENTE PARA EL SIGUIENTE PROCESO ELECTORAL, LA CUAL SURTIÓ EFECTOS EL 21 DE OCTUBRE DE 2011 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/). [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: "...La suma que cada Partido Político pueda obtener anualmente de los recursos provenientes de las fuentes señaladas en los artículos 90, 91 y 92, y los obtenidos mediante colectas realizadas en mítines o en la vía pública, no podrá ser mayor al 10 % del monto establecido como tope de gastos de campaña, del año en que se elija Gobernador del Estado, inmediata anterior."]
+
+> <small>(REFORMADO, B.O. 3 DE AGOSTO DE 2011)</small>
+
+LA SUMA QUE CADA PARTIDO POLÍTICO PUEDA OBTENER ANUALMENTE DE LOS RECURSOS PROVENIENTES DE LAS FUENTES SEÑALADAS EN LOS ARTÍCULOS 90, 91 Y 92, Y LOS OBTENIDOS MEDIANTE COLECTAS REALIZADAS EN MÍTINES O EN LA VÍA PÚBLICA, NO PODRÁ SER MAYOR AL 20% DEL MONTO ESTABLECIDO COMO TOPE DE GASTOS DE CAMPAÑA, DEL AÑO EN QUE SE ELIJA GOBERNADOR DEL ESTADO, INMEDIATA ANTERIOR.
 
 ### CAPÍTULO CUARTO. DE LA FISCALIZACIÓN DE LOS RECURSOS DE LOS PARTIDOS POLÍTICOS
 
@@ -1245,9 +1269,13 @@ El Órgano Técnico de Fiscalización contará con la estructura administrativa 
 
 Los Partidos Políticos deberán presentar ante el Órgano Técnico de Fiscalización los informes del origen y monto de los ingresos que reciban por cualquier modalidad de financiamiento, así como su empleo y aplicación, atendiendo a las siguientes reglas:
 
-I. Informes trimestrales de avance del ejercicio:
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 3 DE AGOSTO DE 2011)</small>
 
-a) Serán presentados a más tardar dentro de los treinta días siguientes a la conclusión del trimestre que corresponda;
+I. Un informe Semestral de avance del ejercicio:
+
+> <small>(REFORMADO, B.O. 3 DE AGOSTO DE 2011)</small>
+
+a) En el primer semestre de cada año un informe de avance del ejercicio, el cuál será presentado a más tardar dentro de los 60 días siguientes a la conclusión del semestre.
 
 b) En el informe será reportado el resultado de los ingresos y gastos ordinarios que los partidos hayan obtenido y realizado durante el periodo que corresponda;
 
@@ -1279,7 +1307,9 @@ IV. Informes de campaña:
 
 a) Deberán ser presentados por los Partidos Políticos, para cada una de las campañas en las elecciones respectivas, especificando los gastos que el Partido Político y el candidato hayan realizado en el ámbito territorial correspondiente;
 
-b) Los Partidos Políticos presentarán un informe preliminar, con datos al 30 de agosto del año de la elección, a más tardar dentro de los primeros quince días de septiembre del mismo año;
+> <small>(REFORMADO, B.O. 3 DE AGOSTO DE 2011)</small>
+
+b) Los Partidos Políticos presentarán un informe preliminar, con datos al 31 de mayo del año de la elección, a más tardar el 20 del mes de junio siguiente;
 
 c) Los informes finales serán presentados a más tardar dentro de los sesenta días siguientes al de la jornada electoral; y
 
@@ -1703,9 +1733,13 @@ El Consejero Presidente, los Consejeros Electorales, el Secretario Ejecutivo y l
 
 Quienes se hayan desempeñado como Consejero Presidente, Consejeros Electorales o Secretario Ejecutivo, de los órganos centrales del instituto, no podrán ser candidatos en el próximo proceso electoral en el que hayan fungido, ni podrán ocupar dentro de los dos años siguientes a la fecha de su retiro, cargo, empleo o comisión en los poderes públicos en cuya renovación y elección constitucional hayan participado.
 
+> <small>(REFORMADO, B.O. 3 DE AGOSTO DE 2011)</small>
+
 ###### ARTÍCULO 133.
 
-El Consejo Estatal se reunirá el día 15 del mes de marzo del año en que se lleven a cabo las elecciones estatales ordinarias, con el objeto de instalarse; a partir de esa fecha y hasta que termine el proceso, el Consejo sesionará por lo menos una vez al mes y posteriormente se reunirá cuando convoque el Presidente.
+El Consejo Estatal sesionará el día 25 del mes de noviembre del año previo en que deban realizarse las elecciones estatales ordinarias, con el objeto de declarar iniciado el proceso electoral correspondiente.
+
+El Consejo Estatal sesionará de manera ordinaria por lo menos una vez al mes y extraordinariamente cuando convoque el Presidente.
 
 ###### ARTÍCULO 134.
 
@@ -1715,9 +1749,11 @@ Si por algún motivo no se reúnen la mayoría de los integrantes, a que se refi
 
 En caso de renuncia o ausencia definitiva del Consejero Presidente, los Consejeros Electorales nombrarán, de entre ellos, a quien deba de sustituirlo provisionalmente, dando aviso al Congreso del Estado para que haga la designación correspondiente.
 
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 3 DE AGOSTO DE 2011)</small>
+
 ###### ARTÍCULO 135.
 
-El Consejo Estatal formará las Comisiones temporales que considere pertinentes para el desempeño de sus atribuciones, las que siempre serán presididas por un Consejero Electoral.
+El Consejo Estatal constituirá las comisiones permanentes de Radio y Televisión, de Organización y Capacitación Electoral, del Servicio Profesional Electoral y de Denuncias y Quejas; así como las comisiones temporales que considere pertinentes para el desempeño de sus atribuciones, las que siempre serán presididas por un Consejero Electoral.
 
 Todas las comisiones se integrarán con un máximo de tres Consejeros Electorales; podrán participar en ellas, con voz pero sin voto, los Consejeros del Poder Legislativo, así como los Consejeros Representantes de los Partidos Políticos; el Director de Organización y Capacitación Electoral del Instituto Estatal, actuará como Secretario Técnico de las mismas.
 
@@ -1747,7 +1783,9 @@ IV. Designar en caso de ausencia del Secretario dentro de los integrantes de la 
 
 V. Designar a los Directores de Organización y Capacitación Electoral y de Administración del Instituto Estatal conforme a las propuestas que al efecto presente el Presidente;
 
-VI. Designar en el mes de abril del año de la elección a los Consejeros Electorales Distritales y en el mes de julio a los Consejeros Electorales Municipales, con base a las propuestas que al efecto haga el Consejero Presidente, debiendo publicarse la integración de los mismos;
+> <small>(REFORMADA, B.O. 3 DE AGOSTO DE 2011)</small>
+
+VI. Designar en la segunda semana del mes de enero del año de la elección a los Consejeros Electorales Distritales y en la segunda semana de marzo a los Consejeros Electorales Municipales, con base en las propuestas que al efecto haga el Consejero Presidente, debiendo publicarse la integración de los mismos;
 
 VII. Resolver, en los términos de esta Ley, el otorgamiento de los registros a los Partidos Políticos Locales y a las agrupaciones políticas, así como lo relativo sobre la pérdida del mismo en los casos previstos en el Título Sexto del Libro Segundo de esta Ley, emitiendo la declaración correspondiente y solicitando su publicación en el Periódico Oficial del Estado;
 
@@ -1789,7 +1827,9 @@ XXV. Resolver los recursos de revisión que le competen conforme a lo previsto e
 
 XXVI. Aprobar anualmente el anteproyecto del presupuesto del Instituto Estatal que le proponga el Presidente del propio Consejo y remitirlo una vez aprobado al titular del ejecutivo local, para su inclusión en el proyecto de Presupuesto de Egresos del Estado;
 
-XXVII. Expedir el Reglamento de Sesiones de los Consejos y Comisiones del Instituto Estatal;
+> <small>(REFORMADA, B.O. 3 DE AGOSTO DE 2011)</small>
+
+XXVII. Expedir el Reglamento de Sesiones de los Consejos y Comisiones del Instituto Estatal, así como sesionar de manera ordinaria por lo menos una vez al mes.
 
 XXVIII. Acreditar a los ciudadanos o a la agrupación a la que pertenezcan que hayan presentado su solicitud, ante el Consejero Presidente para participar como observadores durante el proceso electoral;
 
@@ -2109,9 +2149,11 @@ Para el desempeño de sus funciones tendrá derecho a disfrutar de las facilidad
 
 Los Consejeros Electorales de los Consejos Distritales y Municipales, recibirán la dieta de asistencia que para cada proceso electoral determine el Consejo Estatal, la cual en ningún caso será modificada. Estarán sujetos, en lo conducente, al régimen de responsabilidades previsto en el Título Séptimo de la Constitución Local y a lo señalado en el Libro Sexto de esta Ley, sin menoscabo de las responsabilidades de orden civil o penal en que incurran en el ejercicio de sus funciones.
 
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 3 DE AGOSTO DE 2011)</small>
+
 ###### ARTÍCULO 151.
 
-Los Consejos Electorales Distritales iniciarán sus sesiones dentro de la tercera semana del mes de abril del año de la elección ordinaria.
+Los Consejos Electorales Distritales iniciarán sus sesiones dentro de la tercera semana del mes de enero del año de la elección ordinaria.
 
 Desde el momento de su instalación y hasta la conclusión del proceso los Consejos Electorales Distritales sesionarán por lo menos una vez al mes, su presidente pondrá (sic) convocar a sesiones cuando lo estime necesario. Las convocatorias deberán hacerse por escrito.
 
@@ -2259,9 +2301,11 @@ Los Consejeros Electorales Municipales deberán satisfacer los mismos requisitos
 
 Los Consejeros Electorales Municipales, propietarios y suplentes serán designados para un proceso electoral ordinario, pudiendo ser reelectos para uno más.
 
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 3 DE AGOSTO DE 2011)</small>
+
 ###### ARTÍCULO 161.
 
-Los Consejos Electorales Municipales iniciarán sesiones dentro de la tercera semana del mes de julio del año de la elección ordinaria.
+Los Consejos Electorales Municipales iniciarán sesiones dentro de la tercera semana del mes de marzo del año de la elección ordinaria.
 
 Desde el momento de su instalación y hasta la conclusión del proceso, los Consejeros Electorales Municipales sesionarán por lo menos una vez al mes. Su Presidente podrá convocar a sesiones cuando lo estime necesario. Las convocatorias deberán hacerse por escrito.
 
@@ -2651,9 +2695,11 @@ El proceso Electoral es el conjunto de actos previstos por la Constitución Loca
 
 Previo a que se inicie el proceso electoral, el Consejo Estatal, determinará el ámbito territorial de cada una de las circunscripciones plurinominales, el número de Diputados por el Principio de Representación Proporcional, que deban elegirse en cada una de ellas, así como, en su caso, la demarcación territorial de los Distritos Uninominales.
 
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 3 DE AGOSTO DE 2011)</small>
+
 ###### ARTÍCULO 200.
 
-El proceso electoral ordinario de las elecciones para Gobernador del Estado, Diputados, Presidentes Municipales y Regidores por ambos Principios, se inicia el día 15 de marzo del año de la elección ordinaria y concluye con la declaratoria de la validez de las elecciones por los órganos electorales respectivos. En caso de promoverse recurso alguno, la conclusión será a partir de que la resolución respectiva hubiese causado ejecutoria o cuando se tenga constancia de que no se presentó ninguno.
+El proceso electoral ordinario de las elecciones para Gobernador del Estado, Diputados, Presidentes Municipales y Regidores por ambos Principios, se inicia el día 25 de noviembre del año previo al de la elección ordinaria y concluye con la declaratoria de la validez de las elecciones por los órganos electorales respectivos.
 
 Para los efectos de esta Ley, el proceso electoral ordinario comprende las etapas siguientes:
 
@@ -2665,7 +2711,9 @@ III. Resultados y declaración de validez de las elecciones.
 
 La etapa de preparación de la elección, se inicia con la primera sesión que el Consejo Estatal, celebre para el proceso electoral respectivo y concluye al iniciarse la jornada electoral.
 
-La etapa de la jornada electoral de las elecciones, se inicia a las 8:00 horas del tercer domingo del mes de octubre y concluye con la clausura de casillas.
+> <small>(REFORMADO, B.O. 3 DE AGOSTO DE 2011)</small>
+
+La etapa de la jornada electoral de las elecciones, se inicia a las 8:00 horas del primer domingo del mes de julio y concluye con la clausura de casillas.
 
 La etapa de resultados y declaración de validez de las elecciones, se inicia con la remisión de la documentación y expedientes electorales a los Consejos Electorales Distritales y Municipales, concluyendo con los cómputos y las declaraciones que realicen los mismos, o las resoluciones que en su caso, pronuncie en última instancia los órganos jurisdiccionales correspondientes.
 
@@ -2697,9 +2745,21 @@ V. Los órganos de dirección responsables de su conducción y vigilancia; y
 
 VI. La fecha de celebración de la Asamblea Electoral Estatal, Distrital, Municipal o equivalente, en su caso la fecha para la realización de la jornada comicial interna, conforme a lo siguiente:
 
-a). Durante los procesos electorales en que se elijan Gobernador del Estado, Diputados y Presidentes Municipales y Regidores, las precampañas darán inicio en la primera semana de junio del año de la elección. No podrán durar más de cuarenta días, y
+> <small>(REFORMADO [N. DE E. ADICIONADO], B.O. 3 DE AGOSTO DE 2011)</small>
 
-b). Durante los procesos electorales en que se elijan Diputados y Presidentes Municipales y Regidores, las precampañas darán inicio en la primera semana de julio del año de la elección. No podrán durar más de treinta días.
+Durante los procesos electorales en que se elija a:
+
+> <small>(REFORMADO, B.O. 3 DE AGOSTO DE 2011)</small>
+
+a). Gobernador del Estado, las precampañas se llevarán a cabo del quince de febrero al día primero de marzo del año de la elección. No podrán durar más de quince días;
+
+> <small>(REFORMADO, B.O. 3 DE AGOSTO DE 2011)</small>
+
+b). Diputados o Presidentes Municipales y Regidores, las precampañas se llevarán a cabo del dieciséis al treinta de marzo del año de la elección. No podrán durar más de quince días y;
+
+> <small>(ADICIONADO, B.O. 3 DE AGOSTO DE 2011)</small>
+
+c). Cuando dentro de los procesos internos exista un solo precandidato registrado a un cargo de elección popular, no podrá realizar actos de precampaña, en ninguna modalidad y bajo ningún concepto. El partido de que se trate conservará y ejercerá sus derechos de acceso a radio y televisión, difundiendo mensajes institucionales en los que no podrá hacer mención, en forma alguna al precandidato único. La violación a lo anterior será sancionada con la negativa de registro como candidato.
 
 Las precampañas, darán inicio al día siguiente de que se apruebe el registro interno de los precandidatos. Las precampañas de todos los partidos deberán celebrarse dentro de los mismos plazos. Cuando un partido tenga prevista la celebración de sus elecciones de precandidatos por consulta directa, la jornada se realizará el mismo día.
 
@@ -2759,9 +2819,11 @@ Solamente los precandidatos debidamente registrados por el Partido Político de 
 
 Es competencia directa de cada Partido Político, a través del órgano establecido por sus Estatutos, o por el reglamento o convocatoria correspondiente, negar o cancelar el registro a los precandidatos que incurran en conductas contrarias a esta Ley o a las normas que rijan el proceso interno, así como confirmar o modificar sus resultados, o declarar la nulidad de todo el proceso interno de selección, aplicando en todo caso los principios legales y las normas establecidas en sus Estatutos o en los reglamentos y convocatorias respectivas. Las decisiones que adopten los órganos competentes de cada partido podrán ser recurridas por los aspirantes o precandidatos ante el Tribunal Electoral, una vez agotados los procedimientos internos de justicia partidaria.
 
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 3 DE AGOSTO DE 2011)</small>
+
 ###### ARTÍCULO 210.
 
-A más tardar en el mes de abril del año de la elección, el Consejo Estatal del Instituto Estatal determinará los topes de gasto de precampaña por precandidato y tipo de elección para la que pretenda ser postulado. El tope será equivalente al veinte por ciento del establecido para las campañas inmediatas anteriores, según la elección de que se trate.
+A más tardar en el mes de enero del año de la elección, el Consejo Estatal del Instituto Estatal determinará los topes de gasto de precampaña por precandidato y tipo de elección para la que pretenda ser postulado. El tope será equivalente al veinte por ciento del establecido para las campañas inmediatas anteriores, según la elección de que se trate.
 
 El Consejo Estatal, a propuesta del Órgano Técnico de Fiscalización del Instituto Estatal, determinará los requisitos que cada precandidato debe cubrir al presentar su informe de ingresos y gastos de precampaña. En todo caso, el informe respectivo deberá ser entregado al órgano interno del partido competente a más tardar dentro de los siete días siguientes al de la jornada comicial interna o celebración de la asamblea respectiva.
 
@@ -2821,23 +2883,33 @@ Quedan exceptuadas de esta disposición las candidaturas de Mayoría Relativa qu
 
 Para el registro de candidaturas a cargos de elección popular, los partidos postulantes deberán presentar y, obtener el registro de la plataforma electoral que sus candidatos sostendrán a lo largo de la campaña política.
 
-La plataforma electoral deberá presentar para su registro ante el Consejo Estatal, dentro de los últimos diez días de mayo del año electoral. Del registro se expedirá constancia.
+> <small>(REFORMADO, B.O. 3 DE AGOSTO DE 2011)</small>
+
+La plataforma electoral deberá presentar para su registro ante el Consejo Estatal, dentro de los primeros diez días de febrero del año electoral. Del registro se expedirá constancia.
 
 ###### ARTÍCULO 219.
 
 Los plazos y órganos competentes para el registro de candidaturas en el año de la elección son los siguientes:
 
-I. En el año de la elección para Gobernador del Estado, Diputados, Presidentes Municipales y Regidores del 08 al 15 de agosto, por los siguientes órganos:
+> <small>(REFORMADA, B.O. 3 DE AGOSTO DE 2011)</small>
 
-a). Los candidatos a Gobernador del Estado, Diputados y Regidores por el Principio de Representación Proporcional ante el Consejo Estatal;
+I). A Gobernador del Estado, ante el Consejo Estatal y el periodo de registro comenzará sesenta y un días antes de la jornada electoral y durará diez días;
 
-b). Los candidatos a Diputados, Presidentes Municipales y Regidores por el Principio de Mayoría Relativa, ante los Consejos Electorales Distritales y Municipales respectivos;
+> <small>(REFORMADA, B.O. 3 DE AGOSTO DE 2011)</small>
 
-II. En el año en que solamente se elijan Diputados, y Presidentes Municipales y Regidores del 24 al 31 de agosto, ante los Consejos Electorales Distritales y Municipales respectivos; y
+II). A Diputados y Regidores por el Principio de Representación Proporcional ante el Consejo Estatal y el periodo de registro comenzará sesenta y un días antes de la jornada electoral y durará diez días;
 
-III. Para Diputados y Regidores por el Principio de Representación Proporcional, del 24 al 31 de agosto, ante el Consejo Estatal.
+> <small>(REFORMADA, B.O. 3 DE AGOSTO DE 2011)</small>
 
-El Consejo Estatal podrá realizar ajustes a los plazos establecidos en este artículo a fin de garantizar los plazos de registro y que la duración de las campañas electorales se ciña a lo establecido en el artículo 233 de esta Ley.
+III). A Diputados por el principio de Mayoría Relativa ante los Consejos Electorales Distritales respectivos; el periodo de registro comenzará sesenta y un días antes de la jornada electoral y durará diez días.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], B.O. 3 DE AGOSTO DE 2011)</small>
+
+IV). A Presidentes Municipales y Regidores por el Principio de Mayoría Relativa, ante los Consejos Electorales Municipales respectivos; el periodo de registro comenzará sesenta y un días antes de la jornada electoral y durará diez días.
+
+> <small>(REFORMADO, B.O. 3 DE AGOSTO DE 2011)</small>
+
+El Consejo Estatal podrá realizar ajustes a los plazos establecidos en este artículo a fin de garantizar los plazos de registro y que la duración de las campañas electorales se ciña a lo establecido en esta Ley.
 
 El Instituto Estatal dará amplia difusión a la apertura del registro de candidatos y los plazos a que se refiere este capítulo.
 
@@ -2935,11 +3007,23 @@ El Consejo Estatal en la determinación de los topes de los gastos de campaña, 
 
 1. Para la elección del año en que se elija Gobernador del Estado, el Consejo Estatal, previo al inicio de la campaña electoral procederá en los siguientes términos:
 
-a) Para Gobernador del Estado el tope máximo de gastos de campaña será el equivalente al cuarenta por ciento del financiamiento público de campaña establecido para todos los partidos;
+(NOTA: EL 20 DE OCTUBRE DE 2011, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO QUINTO Y EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 24/2011, DECLARÓ LA INVALIDEZ DEL PUNTO 1, INCISO A DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA EN SU TEXTO ANTERIOR ÚNICAMENTE PARA EL SIGUIENTE PROCESO ELECTORAL, LA CUAL SURTIÓ EFECTOS EL 21 DE OCTUBRE DE 2011 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/). [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: "... a) Para Gobernador del Estado el tope máximo de gastos de campaña será el equivalente al cuarenta por ciento del financiamiento público de campaña establecido para todos los partidos;"]
 
-b) Para Presidentes Municipales y Regidores el tope máximo de gastos de campaña será el equivalente al treinta por ciento del financiamiento público de campaña establecido para todos los partidos; y
+> <small>(REFORMADO, B.O. 3 DE AGOSTO DE 2011)</small>
 
-c) Para Diputados el tope máximo de gastos de campaña será el equivalente al treinta por ciento del financiamiento público de campaña establecido para todos los partidos.
+A) PARA DETERMINAR EL MONTO MÁXIMO QUE PODRÁN EROGAR LOS PARTIDOS POLÍTICOS EN LA CAMPAÑA DONDE SE ELIJA GOBERNADOR DEL ESTADO SE TOMARÁ COMO BASE EL FINANCIAMIENTO PÚBLICO QUE RECIBAN LOS PARTIDOS POLÍTICOS PARA SUS ACTIVIDADES ORDINARIAS DEL AÑO DE LA ELECCIÓN MULTIPLICADO POR EL 50%.
+
+(NOTA: EL 20 DE OCTUBRE DE 2011, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO QUINTO Y EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 24/2011, DECLARÓ LA INVALIDEZ DEL PUNTO 1, INCISO B DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA EN SU TEXTO ANTERIOR ÚNICAMENTE PARA EL SIGUIENTE PROCESO ELECTORAL, LA CUAL SURTIÓ EFECTOS EL 21 DE OCTUBRE DE 2011 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/). [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: "... b) Para Presidentes Municipales y Regidores el tope máximo de gastos de campaña será el equivalente al treinta por ciento del financiamiento público de campaña establecido para todos los partidos; y "]
+
+> <small>(REFORMADO, B.O. 3 DE AGOSTO DE 2011)</small>
+
+B) PARA DETERMINAR EL MONTO MÁXIMO QUE PODRÁN EROGAR LOS PARTIDOS POLÍTICOS EN LA CAMPAÑA DE DIPUTADOS SE TOMARÁ COMO BASE EL FINANCIAMIENTO PÚBLICO QUE RECIBAN LOS PARTIDOS POLÍTICOS PARA SUS ACTIVIDADES ORDINARIAS DEL AÑO DE LA ELECCIÓN MULTIPLICADO POR EL 40%.
+
+(NOTA: EL 20 DE OCTUBRE DE 2011, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO QUINTO Y EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 24/2011, DECLARÓ LA INVALIDEZ DEL PUNTO 1, INCISO B DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA EN SU TEXTO ANTERIOR ÚNICAMENTE PARA EL SIGUIENTE PROCESO ELECTORAL, LA CUAL SURTIÓ EFECTOS EL 21 DE OCTUBRE DE 2011 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/). [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: "... c) Para Diputados el tope máximo de gastos de campaña será el equivalente al treinta por ciento del financiamiento público de campaña establecido para todos los partidos."]
+
+> <small>(REFORMADO, B.O. 3 DE AGOSTO DE 2011)</small>
+
+C) PARA DETERMINAR EL MONTO MÁXIMO QUE PODRÁN EROGAR LOS PARTIDOS POLÍTICOS EN LA CAMPAÑA DE ELECCIÓN DE AYUNTAMIENTOS SE TOMARÁ COMO BASE EL FINANCIAMIENTO PÚBLICO QUE RECIBAN LOS PARTIDOS POLÍTICOS PARA SUS ACTIVIDADES ORDINARIAS DEL AÑO DE LA ELECCIÓN MULTIPLICADO POR EL 40%.
 
 2. Para la elección del año en que solamente se elijan Diputado y Presidentes Municipales y Regidores, el Consejo Estatal, previo al inicio de la campaña electoral procederá en los siguientes términos:
 
@@ -3003,17 +3087,25 @@ V. No podrá colgarse, fijarse o pintarse en los monumentos públicos, ni en el 
 
 Los partidos, coaliciones y candidatos deberán utilizar en su propaganda impresa y demás elementos promociónales materiales que no dañen el medio ambiente, preferentemente reciclables y de fácil degradación natural. Sólo podrá usarse material plástico reciclable en la propaganda electoral impresa.
 
-Los lugares de uso común propiedad de los Ayuntamientos y del Gobierno Estatal, susceptibles de ser utilizados para la colocación y fijación de la propaganda electoral, serán repartidos por sorteo entre los Partidos Políticos registrados, conforme al procedimiento acordado en la sesión del Consejo Estatal y Distritales respectivos, que celebren en el mes de mayo del año de la elección.
+> <small>(REFORMADO, B.O. 3 DE AGOSTO DE 2011)</small>
+
+Los lugares de uso común propiedad de los Ayuntamientos y del Gobierno Estatal, susceptibles de ser utilizados para la colocación y fijación de la propaganda electoral, serán repartidos por sorteo entre los Partidos Políticos registrados, conforme al procedimiento acordado en la sesión del Consejo Estatal y Distritales respectivos, que celebren en el mes de enero del año de la elección.
 
 Los Consejos Estatal, Distritales y Municipales, dentro de su jurisdicción, harán cumplir la observancia de estas disposiciones y adoptarán las medidas necesarias con el propósito de asegurar a Partidos Políticos, coaliciones, precandidatos y candidatos el pleno ejercicio de sus derechos de la materia.
 
 Las quejas motivadas por la propaganda impresa de los Partidos Políticos y candidatos serán presentadas al Vocal Secretario de la Junta Distrital que corresponda al ámbito territorial en que se presente el hecho que motiva la queja. El mencionado vocal ordenará la verificación de los hechos, integrará el expediente y lo turnara al Secretario del Consejo Estatal para su trámite correspondiente.
 
+> <small>(REFORMADO, B.O. 3 DE AGOSTO DE 2011)</small>
+
 ###### ARTÍCULO 233.
 
-Las campañas electorales para el año de elecciones para Gobernador del Estado, Diputados, Presidentes Municipales y Regidores, tendrán una duración no mayor a sesenta días.
+La duración de las campañas serán las siguientes para:
 
-En el año en que solamente se renueven la Cámara de Diputados y los Ayuntamientos, las campañas no podrán exceder de cuarenta y cinco días.
+I. Gobernador del Estado será de cuarenta y cinco días;
+
+II. Diputados será de cuarenta y cinco días;
+
+III. Presidentes Municipales y Regidores será de cuarenta y cinco días;
 
 Las campañas electorales de los Partidos Políticos iniciarán a partir del día siguiente al de la sesión de registro de candidaturas para la elección respectiva, debiendo concluir tres días antes de celebrarse la jornada electoral; consecuentemente, el día de la jornada electoral y durante los tres días anteriores, no se permitirá la celebración ni la difusión de reuniones o actos públicos de campaña, de propaganda o de proselitismo electorales.
 
@@ -3051,23 +3143,37 @@ Igualmente, podrán instalarse en las secciones que proponga la Junta Distrital 
 
 En las casillas se garantizará la instalación de mamparas donde los votantes puedan decidir el sentido de su sufragio. El diseño y ubicación de estas mamparas en las casillas se hará de manera que garantice plenamente el secreto del voto.
 
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 3 DE AGOSTO DE 2011)</small>
+
 ###### ARTÍCULO 237.
 
-El procedimiento para integrar las mesas directivas de casilla, será el siguiente:
+El procedimiento para integrar las mesas directivas de casilla las desarrollará el Órgano Electoral Distrital correspondiente conforme a lo siguiente:
 
-I. El Consejo Estatal en mayo del año de la elección sorteará las veintinueve letras que comprende el alfabeto, afín (sic) de escoger la letra a partir de la cual en base al apellido paterno, serán tomados como base para la insaculación de los ciudadanos que integrarán las mesas directivas de casillas;
+> <small>(REFORMADA, B.O. 3 DE AGOSTO DE 2011)</small>
 
-II. Del 1 al 20 de junio del año en que deban celebrarse las elecciones el Consejo Estatal procederá a insacular, en su caso, de las listas nominales, de electores formuladas con corte al 15 de mayo del mismo año, un 10% de ciudadanos de cada sesión electoral, sin que en ningún caso sea menor a 50, para ello el Consejo Estatal se apoyará en el Registro Federal de Electores del Instituto Federal. Debiendo estar presentes los integrantes de las Juntas Distritales;
+I. El Consejo Estatal, en enero del año de la elección, sorteará un mes del calendario que, junto con el que siga en su orden, serán tomados como base para la insaculación de los ciudadanos que integrarán las mesas directivas de casilla. El mes que resulte seleccionado, no podrá ser el mismo que se haya seleccionado en el proceso electoral federal;
 
-III. Las Juntas Distritales convocarán a los ciudadanos que resulten seleccionados, para que asistan a un curso de capacitación que se impartirá del 21 de junio al 30 de julio;
+> <small>(REFORMADA, B.O. 3 DE AGOSTO DE 2011)</small>
+
+II. Conforme al resultado obtenido en el sorteo a que se refiere la fracción anterior, del primero al veinte de marzo del año en que deban celebrarse las elecciones, los Consejos Distritales procederán a insacular, de las listas nominales de electores integradas con los ciudadanos que obtuvieron su credencial para votar al quince de enero del mismo año, a un diez por ciento de ciudadanos de cada sección electoral, sin que en ningún caso el número de ciudadanos insaculados sea menor a cincuenta; para ello, el Consejo Estatal se podrá apoyar en el Registro Federal de Electores del Instituto Federal Electoral, debiendo estar presentes en el procedimiento de insaculación, los integrantes de los Consejos Electorales Distritales. Si tomando la base anterior no se logra obtener el porcentaje o el número de ciudadanos, se procederá a seleccionar al azar a los ciudadanos nacidos en el mes siguiente, siempre y cuando no coincida con el mes seleccionado en el proceso federal. Este procedimiento se repetirá hasta cubrir lo establecido en esta fracción;
+
+> <small>(REFORMADA, B.O. 3 DE AGOSTO DE 2011)</small>
+
+III. Las Juntas Distritales correspondientes convocaran a los ciudadanos que resulten seleccionados, para que asistan a un curso de capacitación que se impartirá del veintiuno de marzo al treinta de abril del año de la elección;
 
 IV. Las Juntas Distritales harán una evaluación imparcial y objetiva para seleccionar, con igualdad de oportunidades, de entre dichos ciudadanos a los que resulten aptos en términos de esta Ley, prefiriendo a los de mayor escolaridad e informará a los integrantes de los Consejos Electorales Distritales y Municipales por escrito y en sesión plenaria;
 
-V. Las Juntas Electorales Distritales presentarán entre el 1 y 15 de agosto la propuesta de ciudadanos aptos, que será sometida a aprobación por los Consejos Electorales Distritales;
+> <small>(REFORMADA, B.O. 3 DE AGOSTO DE 2011)</small>
 
-VI. Las Juntas Electorales Distritales integrarán las mesas directivas con los ciudadanos seleccionados conforme al procedimiento descrito y determinará según su idoneidad las funciones a desempeñar en las casillas, a más tardar el 30 de agosto;
+V. El Consejo Estatal, en marzo del año de la elección sorteará las veintinueve letras que comprende el alfabeto, a fin de obtener la letra a partir de la cual, con base en el apellido paterno, se seleccionará a los ciudadanos que integrarán las mesas directivas de casilla;
 
-VII. Realizada la integración de las mesas directivas de casilla, las Juntas Electorales Distritales ordenarán la publicación de las listas de sus miembros para todas las secciones electorales en cada Distrito a mas tardar el 15 de septiembre del año en que se celebre la elección, lo que comunicarán a los Consejos Electorales Distritales respectivos;
+> <small>(REFORMADA, B.O. 3 DE AGOSTO DE 2011)</small>
+
+VI. De acuerdo a los resultados obtenidos en el sorteo a que se refiere la fracción anterior, las Juntas Distritales harán entre el dieciséis de abril y el doce de mayo siguiente una relación de aquellos ciudadanos que, habiendo asistido a la capacitación correspondiente, no tengan impedimento alguno para desempeñar el cargo, en los términos de esta Ley. De esta relación, los Consejos Electorales insacularán a los ciudadanos que integrarán las mesas directivas de casilla, a más tardar el catorce de mayo. De no obtenerse la totalidad de funcionarios a designar con base en la letra seleccionada, se procederá a seleccionar al azar de la letra siguiente, este procedimiento se repetirá hasta obtener la totalidad de los funcionarios de casilla por designar;
+
+> <small>(REFORMADA, B.O. 3 DE AGOSTO DE 2011)</small>
+
+VII. A más tardar el veinte de mayo las Juntas Distritales aprobarán la integración de las mesas directivas de casilla con los ciudadanos seleccionados, conforme al procedimiento descrito en la fracción anterior, y determinarán según su escolaridad las funciones que cada uno desempeñará en la casilla. Realizada la integración de las mesas directivas, a más tardar el veintiuno de mayo del año en que se celebre la elección, se ordenará la publicación de las listas de sus miembros para todas las secciones electorales en cada distrito, lo que será informado en sesión a los integrantes de los Consejos Distritales respectivos;
 
 VIII. Los Consejos Electorales Distritales notificarán personalmente a los integrantes de las mesas directivas de casilla su respectivo nombramiento y les tomarán la protesta exigida en los términos descritos en esta Ley; y
 
@@ -3099,17 +3205,27 @@ Para la ubicación de casillas se preferirá, en caso de reunir los requisitos s
 
 El procedimiento para determinar la ubicación de las casillas, será el siguiente:
 
-I. Entre el 15 de mayo y el 15 de junio del año de la elección, las Juntas Electorales Distritales recorrerán las secciones de su Distrito con el propósito de localizar lugares y concertar con sus propietarios la publicación de las casillas, en caso de que estos cumplan con los requisitos que señala el artículo anterior;
+> <small>(REFORMADA, B.O. 3 DE AGOSTO DE 2011)</small>
 
-II. Entre el 16 y el 30 de junio las Juntas Electorales Distritales presentarán a los Consejos Electorales Distritales correspondientes a una lista proponiendo los lugares en que habrán de ubicarse las casillas indicando el consentimiento de sus propietarios para tal fin;
+I.Entre el 15 de febrero al 15 de marzo del año de la elección, las Juntas Distritales recorrerán las secciones de su ámbito territorial con el propósito de localizar lugares y concertar con sus propietarios la ubicación de las casillas, en caso de que estos cumplan con los requisitos que señala el artículo anterior;
+
+> <small>(REFORMADA, B.O. 3 DE AGOSTO DE 2011)</small>
+
+II. Entre el 10 y el 20 de marzo las Juntas Electorales Distritales presentarán a los Consejos Electorales Distritales correspondientes a una lista proponiendo los lugares en que habrán de ubicarse las casillas indicando el consentimiento de sus propietarios para tal fin;
 
 III. Recibidas las listas, los Consejos Distritales examinarán que los lugares propuestos cumplan con los requisitos fijados en el artículo anterior y de no ser así harán los cambios necesarios;
 
-IV. Los Consejos Electorales Distritales, en sesión que celebren a más tardar durante la segunda semana del mes de julio, aprobarán la lista en que se contenga la ubicación de las casillas;
+> <small>(REFORMADA, B.O. 3 DE AGOSTO DE 2011)</small>
 
-V. Los Presidentes de los Consejos Electorales Distritales correspondientes, ordenarán la publicación de la lista de ubicación de casillas aprobadas, a más tardar el día 30 de julio del año de la elección; y
+IV. Los Consejos Electorales Distritales, en sesión que celebren a más tardar durante la segunda semana del mes de abril, aprobarán la lista en que se contenga la ubicación de las casillas;
 
-VI. Cuando el caso lo amerite, el Presidente del Consejo Electoral Distrital ordenará una segunda publicación de la lista de ubicación de casillas con los ajustes que se hayan dado entre el día 25 de septiembre y el 5 de octubre, a más tardar el segundo domingo de octubre del año de la elección.
+> <small>(REFORMADA, B.O. 3 DE AGOSTO DE 2011)</small>
+
+V. Los Presidentes de los Consejos Electorales Distritales correspondientes, ordenarán la publicación de la lista de ubicación de casillas aprobadas, a más tardar el día 30 de abril del año de la elección; y
+
+> <small>(REFORMADA, B.O. 3 DE AGOSTO DE 2011)</small>
+
+VI. Cuando el caso lo amerite, el Presidente del Consejo Electoral ordenará una segunda publicación de la lista de ubicación de casillas con los ajustes que se hayan dado entre el día 10 al 20 de junio del año de la elección, a más tardar el último domingo de junio del año de la elección.
 
 ###### ARTÍCULO 240.
 
@@ -3127,9 +3243,11 @@ En cada Distrito Electoral se instalará como mínimo una casilla especial, sin 
 
 ### CAPÍTULO SEXTO. DEL REGISTRO DE REPRESENTANTES
 
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 3 DE AGOSTO DE 2011)</small>
+
 ###### ARTÍCULO 242.
 
-Los Partidos Políticos, una vez registrados sus candidatos, fórmulas y listas, hasta diez días antes de la elección, tendrán derecho a nombrar dos representantes propietarios y un suplente, ante las mesas directivas de casilla, y representantes generales propietarios.
+Los Partidos Políticos, una vez registrados sus candidatos, fórmulas y listas, hasta quince días antes de la elección, tendrán derecho a nombrar dos representantes propietarios y un suplente, ante las mesas directivas de casilla, y representantes generales propietarios.
 
 Los Partidos Políticos tendrán derecho a designar, en cada uno de los Distritos Electorales Uninominales, un representante general por cada diez casillas electorales ubicadas en zonas urbanas y uno por cada cinco casillas rurales.
 
@@ -3177,7 +3295,9 @@ Los representantes de los Partidos Políticos vigilarán el cumplimiento de las 
 
 El registro de nombramientos de los representantes de los Partidos Políticos ante las mesas directivas de casilla y generales, se hará ante la Junta Electoral Distrital correspondiente y se sujetará a las siguientes reglas:
 
-I. Las Juntas Electorales Distritales entregarán a los Partidos Políticos los formatos autorizados para el registro de representantes generales y ante casillas, a más tardar el día 1 de agosto del año de la elección;
+> <small>(REFORMADA, B.O. 3 DE AGOSTO DE 2011)</small>
+
+I. Las Juntas Electorales Distritales entregarán a los Partidos Políticos los formatos autorizados para el registro de representantes generales y ante casillas, a más tardar el día 1 de mayo del año de la elección;
 
 II. Los Partidos Políticos llenarán las solicitudes y las entregarán a las Juntas Electorales Distritales, a más tardar quince días antes de las elecciones, debiendo anexar un listado de sus representantes que contenga los requisitos que indica el artículo 247 de esta Ley;
 
@@ -3219,7 +3339,9 @@ VI. Firma del representante;
 
 VII. Lugar y fecha de expedición; y
 
-VIII. Firma del representante y del dirigente del Partido Político que haga el nombramiento.
+> <small>(REFORMADA, B.O. 3 DE AGOSTO DE 2011)</small>
+
+VIII. Firma del representante y/o del dirigente del Partido Político que haga el nombramiento.
 
 Cuando el Vocal Ejecutivo de la Junta Electoral Distrital no resuelva dentro de las cuarenta y ocho horas siguientes a la solicitud o no otorgue el registro, el Partido Político interesado podrá solicitar al Secretario Ejecutivo de la Junta Estatal, autorice el registro de los representantes de manera supletoria.
 
@@ -3449,7 +3571,9 @@ El Secretario de la casilla, auxiliado en todo tiempo por uno de los escrutadore
 
 I. Marcar la credencial para votar del elector que ha ejercido su derecho de voto;
 
-II. Impregnar con líquido indeleble el dedo pulgar derecho del elector; y
+> <small>(REFORMADA, B.O. 3 DE AGOSTO DE 2011)</small>
+
+II. Impregnar con líquido indeleble el dedo pulgar izquierdo del elector; y
 
 III. Devolver al elector su credencial para votar.
 
@@ -3497,7 +3621,9 @@ Ninguna autoridad podrá detener a las (sic) integrantes de las mesas directivas
 
 En las casillas especiales que reciban la votación de los electores que transitoriamente se encuentren fuera de su Sección, se aplicarán en lo procedente las reglas establecidas en los artículos anteriores y las siguientes:
 
-I. El elector además de mostrar su credencial para votar, a instancia del Presidente de la mesa directiva, deberá mostrar el dedo pulgar derecho para constatar que no ha votado en otra casilla; y
+> <small>(REFORMADA, B.O. 3 DE AGOSTO DE 2011)</small>
+
+I. El elector además de presentar su credencial para votar, a instancia del Presidente de la mesa directiva, deberá mostrar el dedo pulgar izquierdo para constatar que no ha votado en otra casilla; y
 
 II. El Secretario de la mesa directiva procederá a asentar en el acta de electores en tránsito, los datos de la credencial para votar del elector.
 
@@ -3507,11 +3633,21 @@ a) Si el elector se encuentra fuera de su Sección, pero dentro de su Municipio 
 
 b) Si el elector se encuentra fuera de su Distrito pero dentro de su Municipio, de su Circunscripción Plurinominal, podrá votar por Regidores de ambos Principios y por Diputados por el Principio de Representación Proporcional y por Gobernador del Estado. El Presidente de la mesa directiva de casilla le entregará la boleta única para la elección de Diputados, asentando leyenda "Representación Proporcional" en la boleta respectiva;
 
-c) Si el elector se encuentra fuera de su Municipio y Distrito, pero dentro de su Circunscripción Plurinominal, podrá votar por Diputados de Representación Proporcional y Gobernador del Estado; y
+> <small>(REFORMADO, B.O. 3 DE AGOSTO DE 2011)</small>
 
-d) Si el elector se encuentra fuera de su Municipio, Distrito y Circunscripción Plurinominal, pero dentro del estado, podrá votar en la elección de Gobernador del Estado.
+c) Si el lector (sic) se encuentra fuera de su Municipio y Distrito, pero dentro de su Circunscripción Plurinominal, podrá votar por Diputados de Representación Proporcional y Gobernador del Estado.
 
-Cumplidos los requisitos para acreditar la calidad del elector y anotados los datos en la lista respectiva, el Presidente de la casilla le entregará la boleta correspondiente según la elección de que se trate y una vez ejercido el voto le impregnará el dedo pulgar derecho, de líquido indeleble.
+> <small>(REFORMADO, B.O. 3 DE AGOSTO DE 2011)</small>
+
+d) Si el elector se encuentra fuera de su Municipio, Distrito y Circunscripción Plurinominal, pero dentro del estado, podrá votar en la elección de Gobernador del Estado; y
+
+> <small>(ADICIONADO, B.O. 3 DE AGOSTO DE 2011)</small>
+
+e) Si el elector se encuentra fuera de su municipio pero dentro de su distrito, podrá votar por diputados de ambos principios y por Gobernador del Estado.
+
+> <small>(REFORMADO, B.O. 3 DE AGOSTO DE 2011)</small>
+
+Cumplidos los requisitos para acreditar la calidad del elector y anotados los datos en la lista respectiva, el Presidente de la casilla le entregará la boleta correspondiente según la elección de que se trate y una vez ejercido el voto le impregnará el dedo pulgar izquierdo, de líquido indeleble.
 
 El Secretario asentará a continuación el nombre del ciudadano y las elecciones por las que votó.
 
@@ -4970,3 +5106,11 @@ SEGUNDO.- Se derogan todas las disposiciones que se opongan a lo dispuesto en el
 TERCERO.- El Consejo Estatal del Instituto Electoral y de Participación Ciudadana de Tabasco, deberá realizar las previsiones presupuestales correspondientes a fin de llevar a cabo las acciones necesarias para dar cumplimiento en tiempo y forma a lo establecido en el presente Decreto.
 
 CUARTO.- En términos de lo dispuesto por el artículo 46 de la Ley Reglamentaria de las Fracciones I y II del Artículo 105 de la Constitución Política de los Estados Unidos Mexicanos, infórmese al Presidente de la Suprema Corte de Justicia de la Nación, del cumplimiento de la sentencia dictada en la Acción de Inconstitucionalidad 2/2009 y su acumulada 3/2009.
+
+P.O. 3 DE AGOSTO DE 2011.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Tabasco.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
+
+TERCERO. El Consejo Estatal del Instituto Electoral y de Participación Ciudadana de Tabasco, deberá realizar las modificaciones a sus reglamentos y los trámites administrativos necesarios, incluyendo las previsiones presupuestales correspondientes a fin de llevar a cabo las acciones que se requiera para dar cumplimiento en tiempo y forma a las normas contenidas en el presente decreto.
