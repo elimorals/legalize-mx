@@ -4,7 +4,7 @@ identifier: "CHP-ley-organica-de-la-administracion-publica-del-estado-de-19513"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2000-12-08"
-last_updated: "2011-05-25"
+last_updated: "2011-08-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=19513&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "CHP"
 ---
 # LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE CHIAPAS
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 10 DE AGOSTO DE 2011 EN EL P.O. DEL ESTADO DE CHIAPAS, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE CHIAPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE MAYO DE 2011.
-
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIODICO OFICIAL DEL 25 DE MAYO DE 2011.</small>
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE AGOSTO DE 2011.
 
 Ley publicada en el Periódico Oficial del Estado de Chiapas, el viernes 8 de diciembre de 2000.
 
@@ -1817,9 +1817,9 @@ IX.- FOMENTAR LA PARTICIPACION CIUDADANA EN LA FORMULACION DE PLANES Y PROGRAMAS
 
 X.- ESTABLECER Y OPERAR EL SISTEMA ESTATAL DE PROTECCION CIVIL.
 
-> <small>(REFORMADA, P.O. 21 DE NOVIEMBRE DE 2007)</small>
+> <small>(REFORMADA, P.O. 3 DE AGOSTO DE 2011)</small>
 
-XI.- BRINDAR EL AUXILIO DE LA FUERZA PUBLICA AL PODER JUDICIAL DEL ESTADO, AL MINISTERIO DE JUSTICIA DEL ESTADO, Y DEMAS AUTORIDADES FEDERALES, ESTATALES O MUNICIPALES, CUANDO ASI LO REQUIERAN POR OFICIO Y RESULTE NECESARIO PARA EL DEBIDO EJERCIO DE SUS FUNCIONES, SIEMPRE Y CUANDO LA DISPONIBILIDAD DE ELEMENTOS POLICIACOS LO PERMITA.
+XI.- BRINDAR EL AUXILIO DE LA FUERZA PUBLICA AL PODER JUDICIAL DEL ESTADO, A LA PROCURADURIA GENERAL DE JUSTICIA DEL ESTADO, Y DEMAS AUTORIDADES FEDERALES, ESTATALES O MUNICIPALES, CUANDO ASI LO REQUIERAN POR OFICIO Y RESULTE NECESARIO PARA EL DEBIDO EJERCICIO DE SUS FUNCIONES, SIEMPRE Y CUANDO LA DISPONIBILIDAD DE ELEMENTOS POLICIACOS LO PERMITA.
 
 XII.- (DEROGADA, P.O. 21 DE NOVIEMBRE DE 2007)
 
@@ -1827,9 +1827,7 @@ XII.- (DEROGADA, P.O. 21 DE NOVIEMBRE DE 2007)
 
 XIII.- EMITIR LAS INSTRUCCIONES, POLITICAS Y LINEAMIENTOS TENDENTES A LOGRAR LA REINTEGRACION SOCIAL Y FAMILIAR DE LOS ADOLESCENTES INFRACTORES, ASI COMO CONDUCIR LO RELATIVO A LAS ACCIONES DE ATENCION POSTPENITENCIARIAS, DISPONIENDO PARA ELLO DE TODOS LOS MECANISMOS DE CONCERTACION Y PARTICIPACION SOCIAL.
 
-> <small>(ADICIONADA, P.O. 13 DE NOVIEMBRE DE 2001)</small>
-
-XIV.- DIRIGIR, PLANEAR Y REGULAR LO RELATIVO A LA NORMATIVIDAD DEL SERVICIO PUBLICO DE TRANSITO Y VIALIDAD EN EL ESTADO.
+XIV.- (DEROGADA, P.O. 3 DE AGOSTO DE 2011)
 
 > <small>(ADICIONADA, P.O. 13 DE NOVIEMBRE DE 2001)</small>
 
@@ -1915,7 +1913,13 @@ XVI. ADMINISTRAR, OPERAR Y CONSERVAR LAS ESTACIONES, LOCALES Y/O TERMINALES DE T
 
 XVII. PROMOVER, ORGANIZAR Y ADMINISTRAR LA IMPLEMENTACION DE SISTEMAS DE TRANSPORTACION MASIVA DE CARGA Y PASAJE EN LA ENTIDAD.
 
-XVIII. LOS DEMAS ASUNTOS QUE LE CORRESPONDAN EN TERMINOS DE LAS LEYES APLICABLES, SU REGLAMENTO INTERIOR Y LOS QUE LE INSTRUYA EL GOBERNADOR DEL ESTADO.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 3 DE AGOSTO DE 2011)</small>
+
+XVIII. DIRIGIR, PLANEAR Y REGULAR LO RELATIVO A LA NORMATIVIDAD DEL SERVICIO PUBLICO DE TRANSITO Y VIALIDAD EN EL ESTADO.
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 3 DE AGOSTO DE 2011)</small>
+
+XIX. LOS DEMAS QUE LE CORRESPONDAN, EN TERMINOS DE LAS LEYES APLICABLES, SU REGLAMENTO INTERIOR Y LOS QUE LE INSTRUYA EL TITULAR DEL PODER EJECUTIVO.
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -2830,3 +2834,21 @@ Artículo Tercero.- Las Dependencias normativas, en el ámbito de sus respectiva
 La Subsecretaría de Desarrollo Administrativo y Tecnológico de la Secretaría de la Función Pública, llevará a cabo la selección y designación de los servidores públicos que estarán adscritos al órgano administrativo con nivel directivo a que se refiere el párrafo anterior, por ser el área normativa en materia de tecnologías de la información y comunicaciones.
 
 Artículo Cuarto.- El Titular de la Secretaría de la Función Pública, en un término no mayor de 90 días hábiles, contados a partir de la entrada en vigor del presente Decreto, someterá a consideración del Ejecutivo del Estado, las adecuaciones que al efecto requiera su Reglamento Interior, para su aprobación, expedición y publicación correspondiente.
+
+P.O. 3 DE AGOSTO DE 2011.
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Se derogan las disposiciones que se opongan al presente Decreto.
+
+Artículo Tercero.- La Dirección de la Policía de Tránsito, con sus recursos humanos, materiales y financieros, que a la entrada en vigor del presente Decreto se encontraba adscrita a la Secretaría de Seguridad y Protección Ciudadana, serán transferidos de inmediato a la Secretaría de Transportes.
+
+Artículo Cuarto.- Los compromisos y procedimientos que a la entrada en vigor del presente Decreto, en materia de tránsito y vialidad correspondían a la Secretaría de Seguridad y Protección Ciudadana, serán transferidos y en su caso asumidos de inmediato a través del órgano correspondiente, a la Secretaría de Transportes.
+
+Artículo Quinto.- Atendiendo las reformas y transferencias en materia de tránsito y vialidad, la Secretaría de Transportes deberá suscribir los instrumentos necesarios y ejecutar las acciones conducentes para la correcta aplicación del contenido del presente Decreto.
+
+Artículo Sexto.- Las referencias, atribuciones o menciones que hagan otros ordenamientos legales, normativos o administrativos en relación con la Dirección de la Policía de Tránsito, que se encontraba adscrita a la Secretaría de Seguridad y Protección Ciudadana y las atribuciones relativas a la materia de tránsito y vialidad, se entenderán conferidas a la Secretaría de Transportes.
+
+Artículo Séptimo.- Las Dependencias normativas, en el ámbito de sus respectivas competencias, llevarán a cabo de inmediato las acciones que sean necesarias para las adecuaciones estructurales y funcionales a que haya lugar, derivado del presente Decreto, en plena observancia a las disposiciones aplicables.
+
+Artículo Octavo.- Los Titulares de la Secretaría de Seguridad y Protección Ciudadana y de la Secretaría de Transportes, en un término no mayor de 90 días hábiles, contados a partir de la entrada en vigor del presente Decreto, someterán a consideración del Titular del Ejecutivo del Estado, las adecuaciones que al efecto requiera su Reglamento Interior, para su aprobación, expedición y publicación correspondiente.
