@@ -4,7 +4,7 @@ identifier: "CAM-codigo-de-procedimientos-penales-del-estado-de-campeche-3386"
 country: "mx"
 rank: "codigo"
 publication_date: "1975-12-09"
-last_updated: "2010-07-23"
+last_updated: "2011-08-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3386&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 CODIGO DE PROCEDIMIENTOS PENALES DEL ESTADO DE CAMPECHE
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE JULIO DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE AGOSTO DE 2011.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Campeche, el martes 9 de diciembre de 1975.
 
@@ -575,15 +575,15 @@ Todas las resoluciones deberán ser notificadas al Ministerio Público, al proce
 
 Las notificaciones se harán a más tardar el día siguiente al en que se dicten las resoluciones que las motiven.
 
+> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 2011)</small>
+
 ###### Artículo 92.
 
-Todas las personas que por algún motivo legal intervengan en un proceso deberán designar, desde la primera diligencia judicial en que intervengan, casa ubicada en el lugar del proceso para que se les hagan las notificaciones, citaciones, requerimientos o emplazamientos que procedieren, e informar de los cambios de domicilio o de la casa designada.
+Todas las personas que por algún motivo legal intervengan en un proceso deberán designar, desde la primera diligencia judicial en que intervengan, domicilio ubicado en el lugar del proceso, señalar el nombre oficial de la calle donde se encuentre, las calles entre las que se ubica, la numeración oficial que le corresponda, la zona, barrio, colonia o fraccionamiento, así como el código postal correspondiente, para que se les hagan las notificaciones, citaciones, requerimientos o emplazamientos que procedieren, e informar de los cambios de domicilio, en caso de producirse.
 
-Si no cumplieren con esta prevención, las notificaciones, citaciones, requerimientos o emplazamientos se tendrán por bien hechos, por publicación en lugar visible del tribunal, sin perjuicio de las medidas que éste tome para que pueda llevarse adelante el procedimiento.
+Si no cumplieren con esta prevención, las notificaciones, citaciones, requerimientos o emplazamientos se tendrán por bien hechos, por publicación en lugar visible del Tribunal, sin perjuicio de las medidas que éste tome para que pueda llevarse adelante el procedimiento.
 
-> <small>(ADICIONADO, P.O. 4 DE JUNIO DE 1999)</small>
-
-El procesado, al rendir su declaración preparatoria, señalará domicilio ubicado en el lugar en que se encuentre el juzgado de su causa, para que en él reciba notificaciones tanto del trámite de primera como de segunda instancias, en caso de que no quede sujeto a reclusión preventiva. De no señalar domicilio, o de que sea falso el señalado, o no informase del cambio de su domicilio, se estará a lo dispuesto en el segundo párrafo de este artículo.
+El procesado, al rendir su declaración preparatoria, señalará domicilio ubicado en el lugar en que se encuentre el juzgado de su causa, el nombre oficial de la calle donde se encuentre, las calles entre las que se ubica, la numeración oficial que le corresponda, la zona, barrio, colonia o fraccionamiento, así como el código postal correspondiente, para que en él reciba notificaciones tanto del trámite de primera como de segunda instancias; en caso de que sea falso el señalado, o no informase del cambio de su domicilio, se estará a lo dispuesto en el segundo párrafo de este artículo.
 
 ###### Artículo 93.
 
@@ -3443,7 +3443,7 @@ PRIMERO: El presente Decreto entrará vigor al día siguiente de su publicación
 
 SEGUNDO: Las dependencias, entidades e instituciones estatales a las que corresponda la implementación de las acciones necesarias para dar cumplimiento a las atribuciones contenidas en el (sic) este Decreto deberá realizarlas dentro del término contado a partir de la entrada en vigor del presente, hasta antes del día 21 de agosto de 2012, de conformidad con el último párrafo del artículo Primero transitorio del Decreto publicado en el Diario Oficial de la Federación con fecha 20 de agosto de 2009, en el que se reforman, y adicionan y derogan, diversas disposiciones de la Ley General de Salud del Código Penal Federal y del Código Federal de Procedimientos Penales.
 
-TERCERO: Se faculta al H Tribunal Superior de Justicia en Pleno para fijar oportunamente la fecha de acreditación de los jueces penales en materia de narcomenudeo y para dictar las bases que deban observarse en la distribución de los asuntos respetando el plazo señalado en el artículo segundo transitorio que antecede, es decir, antes del 21 de agosto de 2012.
+TERCERO: Se faculta al H Tribunal Superior de Justicia en Pleno para fijar oportunamente la fecha de acreditación de los jueces penales en materia de narcomenudeo y para dictar las bases que deban observarse en la distribución de los asuntos respetando el plazo señalado en el artículo segundo transitorio que antecede, es decir, antes del21 de agosto de 2012.
 
 El Titular de la Procuraduría General de Justicia del Estado, en el marco de sus atribuciones, deberá emitir os (sic) acuerdos, circulares, instructivos, bases, manuales de organización, procedimientos y/o lineamientos que resulten necesarios para la creación y funcionamiento de Agencias del Ministerio Público especializados en materia de Narcomenudeo, de conformidad con el presupuesto asignado, antes del 21 de Agosto de 2012.
 
@@ -3452,3 +3452,11 @@ CUARTO: La nueva Ley de Ejecución de Sanciones y Medidas de Seguridad del Estad
 Al entrar en vigor la nueva Ley de Ejecución en cita, quedarán abrogadas la Ley de Ejecución de Sanciones y Penas Privativas de la Libertad en el Estado de Campeche del 11 de junio de 1999, y la Ley que establece las normas mínimas sobre readaptación social de sentenciados en el Estado de Campeche del 8 de enero de 1974.
 
 QUINTO: Se derogan todas las disposiciones legales y reglamentarias del marco jurídico estatal en lo que se opongan al contenido de este Decreto.
+
+P.O. 4 DE AGOSTO DE 2011.
+
+PRIMERO: El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO: En los distritos judiciales donde exista Central de Actuarios, esta dependencia será la encargada de realizar las notificaciones que ordenen las autoridades jurisdiccionales del mismo distrito.
+
+TERCERO: Se derogan todas aquellas disposiciones legales y reglamentarias que se opongan al contenido del presente decreto.
