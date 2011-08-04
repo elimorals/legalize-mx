@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-de-la-secretaria-de-educacion-publica-42430
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-01-21"
-last_updated: "2010-07-01"
+last_updated: "2011-08-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=42430&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2005-01-20"
 
 REGLAMENTO INTERIOR DE LA SECRETARIA DE EDUCACION PUBLICA
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 1 DE JULIO DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 4 DE AGOSTO DE 2011.
 
 Reglamento publicado en el Diario Oficial de la Federación, el viernes 21 de enero de 2005.
 
@@ -107,7 +107,9 @@ XXVIII. Dirección General de Formación Continua de Maestros en Servicio;
 
 XXIX. Dirección General de Personal;
 
-XXX. Dirección General de Administración Presupuestal y Recursos Financieros;
+> <small>(REFORMADA, D.O.F. 4 DE AGOSTO DE 2011)</small>
+
+XXX. Dirección General de Presupuesto y Recursos Financieros;
 
 XXXI. Dirección General de Innovación, Calidad y Organización;
 
@@ -115,7 +117,9 @@ XXXII. Dirección General de Recursos Materiales y Servicios;
 
 XXXIII. Dirección General de Tecnología de la Información;
 
-XXXIV. Dirección General de Planeación y Programación;
+> <small>(REFORMADA, D.O.F. 4 DE AGOSTO DE 2011)</small>
+
+XXXIV. Dirección General de Planeación;
 
 XXXV. Dirección General de Evaluación de Políticas;
 
@@ -295,7 +299,9 @@ I. Acordar con el Secretario el despacho de los asuntos de las unidades administ
 
 II. Proponer al Secretario la delegación de facultades en funcionarios subalternos y las medidas técnicas y administrativas que estime convenientes para el mejor funcionamiento y organización de la Secretaría;
 
-III. Establecer, con la aprobación del Secretario, políticas, normas, sistemas y procedimientos para la óptima administración de los recursos humanos, materiales y financieros de las unidades administrativas, así como emitir las disposiciones que regulen los procesos internos de ejecución presupuestal;
+> <small>(REFORMADA, D.O.F. 4 DE AGOSTO DE 2011)</small>
+
+III. Establecer, de conformidad con las disposiciones jurídicas aplicables y con la aprobación del Secretario, políticas, normas, sistemas y procedimientos para la óptima administración de los recursos humanos, materiales y financieros de las unidades administrativas, así como emitir las disposiciones que regulen los procesos internos de ejecución presupuestaria;
 
 IV. Autorizar, de acuerdo con las normas legales y demás disposiciones aplicables, el ejercicio del presupuesto, así como tramitar y registrar las modificaciones programáticas y presupuestales que se autoricen;
 
@@ -343,9 +349,23 @@ XXV. Integrar, dar seguimiento y evaluar el programa anual de actividades para l
 
 XXVI. Someter a la aprobación del Secretario las medidas técnicas y administrativas para la organización, funcionamiento, desconcentración, simplificación, descentralización y modernización administrativas de la Secretaría;
 
-XXVII. Conducir, supervisar y apoyar los servicios de tecnología de la información de la Secretaría, a fin de fortalecer la productividad del personal y el aprovechamiento de los recursos, y
+> <small>(REFORMADA, D.O.F. 4 DE AGOSTO DE 2011)</small>
 
-XXVIII. Las demás que las disposiciones aplicables le confieran, las que le encomiende el Secretario y las que correspondan a las unidades administrativas que se le adscriban, excepto en los casos en que por disposición legal, deban ser ejercidas por los titulares de ellas directamente.
+XXVII. Conducir, supervisar y apoyar los servicios de tecnología de la información de la Secretaría, a fin de fortalecer la productividad del personal y el aprovechamiento de los recursos;
+
+> <small>(ADICIONADA, D.O.F. 4 DE AGOSTO DE 2011)</small>
+
+XXVIII. Realizar, previo acuerdo con el Secretario, las acciones inherentes a la programación global del Sistema Educativo Nacional, así como a la evaluación de dicha programación;
+
+> <small>(ADICIONADA, D.O.F. 4 DE AGOSTO DE 2011)</small>
+
+XXIX. Expedir, de conformidad con las disposiciones jurídicas aplicables y previa aprobación del Secretario, lineamientos para la elaboración de los anteproyectos de presupuesto de la Secretaría y sus órganos desconcentrados, así como los de las entidades paraestatales agrupadas en el sector educativo;
+
+> <small>(ADICIONADA, D.O.F. 4 DE AGOSTO DE 2011)</small>
+
+XXX. Someter al Secretario para su aprobación el anteproyecto de presupuesto de la Secretaría y sus órganos desconcentrados y, para su conformidad, los anteproyectos de presupuesto de las entidades paraestatales agrupadas en el sector educativo, y
+
+XXXI. Las demás que las disposiciones aplicables le confieran, las que le encomiende el Secretario y las que correspondan a las unidades administrativas que se le adscriban, excepto en los casos en que por disposición legal, deban ser ejercidas por los titulares de ellas directamente.
 
 ### CAPÍTULO V. DE LA UNIDAD DE PLANEACIÓN Y EVALUACIÓN DE POLÍTICAS EDUCATIVAS
 
@@ -353,11 +373,15 @@ XXVIII. Las demás que las disposiciones aplicables le confieran, las que le enc
 
 Al frente de la Unidad de Planeación y Evaluación de Políticas Educativas habrá un Titular, a quien corresponderá el ejercicio de las siguientes facultades:
 
-I. Auxiliar al Secretario en la realización de las acciones inherentes a la planeación y programación globales del Sistema Educativo Nacional y su consiguiente evaluación;
+> <small>(REFORMADA, D.O.F. 4 DE AGOSTO DE 2011)</small>
 
-II. Expedir, previa aprobación del Secretario, los lineamientos para la elaboración del presupuesto y programas de la Secretaría, sus órganos desconcentrados y las entidades paraestatales agrupadas en el sector educativo;
+I. Realizar, previo acuerdo con el Secretario, las acciones inherentes a la planeación global del Sistema Educativo Nacional, así como a la evaluación de dicha planeación;
 
-III. Desarrollar, integrar y difundir la información necesaria para la planeación, programación y evaluación del sector educativo y establecer los indicadores respectivos;
+II. (DEROGADA, D.O.F. 4 DE AGOSTO DE 2011)
+
+> <small>(REFORMADA, D.O.F. 4 DE AGOSTO DE 2011)</small>
+
+III. Desarrollar, integrar y difundir la información necesaria para la planeación y evaluación del sector educativo y establecer los indicadores respectivos;
 
 > <small>(REFORMADA, D.O.F. 11 DE OCTUBRE DE 2006)</small>
 
@@ -373,7 +397,9 @@ VIII. Impulsar el desarrollo de una instancia consultiva en materia de planeaci�
 
 IX. Auxiliar al Secretario en la coordinación de las acciones de radiodifusión y televisión educativa, así como en lo relativo a la coordinación de las entidades dedicadas a dichas actividades;
 
-X. Evaluar el ejercicio del presupuesto en lo referente a la ejecución de los programas y políticas educativas;
+> <small>(REFORMADA, D.O.F. 4 DE AGOSTO DE 2011)</small>
+
+X. Evaluar el ejercicio del presupuesto, en coordinación con la Dirección General de Presupuesto y Recursos Financieros, en lo referente a la ejecución de los programas y políticas educativas;
 
 XI. Proponer al Secretario los anteproyectos de tratados, acuerdos interinstitucionales, acuerdos y bases de coordinación con las entidades federativas y municipios, así como de convenios con los sectores social y privado, en los asuntos de su competencia;
 
@@ -391,7 +417,7 @@ XVII. Proponer los proyectos de iniciativas de leyes, reglamentos, decretos, acu
 
 XVIII. Acordar con los titulares de las unidades administrativas adscritos a la Unidad;
 
-XIX. Someter a la aprobación del Secretario el anteproyecto de presupuesto del sector educativo, en coordinación con el Oficial Mayor;
+XIX. (DEROGADA, D.O.F. 4 DE AGOSTO DE 2011)
 
 XX. Las demás que las disposiciones aplicables le confieran, las que le encomiende el Secretario y las que correspondan a las unidades administrativas que se le adscriban, excepto en los casos en que por disposición legal, deban ser ejercidas por los titulares de ellas directamente.
 
@@ -457,7 +483,9 @@ X. Autorizar por escrito, conforme a las necesidades del servicio y de acuerdo c
 
 XI. Proporcionar, de conformidad con los lineamientos de las unidades administrativas competentes de la Secretaría, la información, datos, cooperación o asesoría técnica que les sea requerida por otras dependencias y entidades de la administración pública federal o por unidades administrativas de la propia Secretaría;
 
-XII. Incorporar a la base de datos correspondiente las incidencias del personal bajo su responsabilidad que, en los términos de la normatividad respectiva, permitan efectuar el pago de remuneraciones de acuerdo a su asignación presupuestal y a los analíticos de plazas-horas-puestos, aprobados por la Dirección General de Administración Presupuestal y Recursos Financieros;
+> <small>(REFORMADA, D.O.F. 4 DE AGOSTO DE 2011)</small>
+
+XII. Incorporar a la base de datos correspondiente las incidencias del personal bajo su responsabilidad que, en los términos de la normatividad respectiva, permitan efectuar el pago de remuneraciones de acuerdo a su asignación presupuestal y a los analíticos de plazas-horas-puestos, aprobados por la Dirección General de Presupuesto y Recursos Financieros;
 
 > <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 2009)</small>
 
@@ -1213,7 +1241,9 @@ IV. Impulsar procesos de autoevaluación en las escuelas, en coordinación con e
 
 V. Fomentar, en coordinación con las autoridades educativas locales, así como con las instancias especializadas y unidades administrativas competentes de la Secretaría, el desarrollo y uso de la investigación y la evaluación para el mejoramiento de las escuelas de educación inicial, especial y básica, en sus diferentes niveles y modalidades;
 
-VI. Contribuir, en coordinación con el Instituto Nacional para la Evaluación de la Educación, la Dirección General de Planeación y Programación, las instancias especializadas y demás unidades administrativas competentes de la Secretaría, al desarrollo y funcionamiento del Sistema Nacional de Información, Estadística e Indicadores Educativos;
+> <small>(REFORMADA, D.O.F. 4 DE AGOSTO DE 2011)</small>
+
+VI. Contribuir, en coordinación con el Instituto Nacional para la Evaluación de la Educación, la Dirección General de Planeación, las instancias especializadas y demás unidades administrativas competentes de la Secretaría, al desarrollo y funcionamiento del Sistema Nacional de Información, Estadística e Indicadores Educativos;
 
 VII. Asesorar a las autoridades educativas locales en el establecimiento y seguimiento de prácticas innovadoras en la escuela;
 
@@ -1319,21 +1349,33 @@ XVI. Coordinar la aplicación de los Sistemas de Estímulos y Recompensas previs
 
 XVII. Proponer un sistema de desempeño del personal basado en sus resultados y darle el seguimiento relativo.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 4 DE AGOSTO DE 2011)</small>
+
 ###### ARTÍCULO 35.
 
-Corresponde a la Dirección General de Administración Presupuestal y Recursos Financieros, el ejercicio de las siguientes atribuciones:
+Corresponde a la Dirección General de Presupuesto y Recursos Financieros el ejercicio de las siguientes atribuciones:
 
-I. Analizar y, en su caso, determinar y tramitar las modificaciones presupuestales procedentes, excepto en los casos previstos en el artículo 39, fracción XIII, de este Reglamento;
+> <small>(REFORMADA, D.O.F. 4 DE AGOSTO DE 2011)</small>
 
-II. Proporcionar a la Dirección General de Evaluación de Políticas y a la Dirección General de Planeación y Programación la información necesaria, incluyendo el número y tipo de modificaciones presupuestales realizadas, para evaluar la inversión de los recursos públicos de la Secretaría;
+I. Analizar y, en su caso, determinar y tramitar las adecuaciones presupuestarias procedentes;
 
-III. Proponer la normativa de las actividades de la administración de recursos financieros cuya aplicación corresponda a las unidades administrativas de la Secretaría, a sus órganos desconcentrados y a las entidades coordinadas sectorialmente; difundir las normas aprobadas y verificar su cumplimiento;
+> <small>(REFORMADA, D.O.F. 4 DE AGOSTO DE 2011)</small>
+
+II. Proporcionar a la Dirección General de Evaluación de Políticas y a la Dirección General de Planeación la información necesaria, incluyendo el número y tipo de adecuaciones presupuestarias realizadas, para evaluar la inversión de los recursos públicos de la Secretaría;
+
+> <small>(REFORMADA, D.O.F. 4 DE AGOSTO DE 2011)</small>
+
+III. Proponer la normativa, de conformidad con las disposiciones jurídicas aplicables, de las actividades de la administración de recursos financieros cuya aplicación corresponda a las unidades administrativas de la Secretaría, a sus órganos desconcentrados y a las entidades coordinadas sectorialmente, así como difundirlas y verificar su cumplimiento;
 
 IV. Operar y controlar el ejercicio del presupuesto de egresos de la Secretaría;
 
-V. Establecer las normas y procedimientos para el manejo de recursos en efectivo;
+> <small>(REFORMADA, D.O.F. 4 DE AGOSTO DE 2011)</small>
 
-VI. Establecer y difundir las normas y procedimientos a que deba sujetarse la contabilidad presupuestaria y patrimonial de la Secretaría, así como verificar su cumplimiento; consolidar y mantener actualizados los registros contables; elaborar los estados financieros, la Cuenta de la Hacienda Pública Federal y los demás informes que se requieran en la materia;
+V. Establecer las normas y procedimientos para el manejo de recursos en efectivo, de conformidad con las disposiciones jurídicas aplicables;
+
+> <small>(REFORMADA, D.O.F. 4 DE AGOSTO DE 2011)</small>
+
+VI. Difundir las normas y procedimientos a que deba sujetarse la contabilidad presupuestaria y patrimonial de la Secretaría; consolidar la información contable y presupuestaria de la misma en términos de las disposiciones aplicables; formular, en lo que compete a la Secretaría, los reportes financieros necesarios para la integración de la Cuenta Pública, y atender los requerimientos de información periódica de la Secretaría de Hacienda y Crédito Público y las instancias de fiscalización respectivas;
 
 VII. Conciliar y depurar las cuentas que rindan las oficinas pagadoras, las unidades administrativas de la Secretaría responsables del ejercicio presupuestal y la información que se deba rendir a la Secretaría de Hacienda y Crédito Público y a cualquier otra instancia competente;
 
@@ -1343,9 +1385,45 @@ IX. Conciliar los resultados de las cuentas bancarias abiertas para el pago de l
 
 X. Autorizar el entero o aplicación, en su caso, de las cantidades retenidas al personal de la Secretaría en favor de dependencias, entidades paraestatales y, en general, terceros que acrediten derecho a su recepción;
 
-XI. Presentar para la aprobación del Oficial Mayor los oficios de liberación de inversión de la Secretaría y de sus órganos desconcentrados, y
+> <small>(REFORMADA, D.O.F. 4 DE AGOSTO DE 2011)</small>
 
-XII. Asesorar a los titulares de las unidades responsables en asuntos relacionados con las materias contables y de administración presupuestal.
+XI. Presentar para la aprobación del Oficial Mayor los oficios de liberación de inversión de la Secretaría y de sus órganos desconcentrados;
+
+> <small>(REFORMADA, D.O.F. 4 DE AGOSTO DE 2011)</small>
+
+XII. Asesorar a los titulares de las unidades responsables en asuntos relacionados con las materias contables y de administración presupuestal;
+
+> <small>(ADICIONADA, D.O.F. 4 DE AGOSTO DE 2011)</small>
+
+XIII. Desarrollar y coordinar las actividades de programación del presupuesto y gasto de la Secretaría destinado a los diversos niveles, tipos y modalidades de educación, así como del sector educativo en su conjunto;
+
+> <small>(ADICIONADA, D.O.F. 4 DE AGOSTO DE 2011)</small>
+
+XIV. Expedir, de conformidad con las políticas que determine el Secretario y las disposiciones jurídicas aplicables, lineamientos para la elaboración del programa del anteproyecto de presupuesto anual del sector educativo y las transferencias a las entidades federativas;
+
+> <small>(ADICIONADA, D.O.F. 4 DE AGOSTO DE 2011)</small>
+
+XV. Desarrollar, integrar y difundir la información necesaria para la programación del presupuesto y gasto del sector educativo, y coordinar el proceso que permita definir los indicadores de desempeño respectivos;
+
+> <small>(ADICIONADA, D.O.F. 4 DE AGOSTO DE 2011)</small>
+
+XVI. Proponer al Oficial Mayor, de conformidad con las disposiciones jurídicas aplicables, las prioridades del sector educativo y las políticas que señale el Secretario, lineamientos para la elaboración de los anteproyectos de presupuesto de la Secretaría y sus órganos desconcentrados, así como los de las entidades paraestatales agrupadas en el sector educativo, que incluyan el gasto en actividades, programas y proyectos educativos especiales y las transferencias a las entidades federativas;
+
+> <small>(ADICIONADA, D.O.F. 4 DE AGOSTO DE 2011)</small>
+
+XVII. Integrar los anteproyectos de presupuesto global y del programa de inversión y obra pública del sector educativo, conjuntamente con las unidades administrativas competentes de la Secretaría y las entidades paraestatales sectorizadas;
+
+> <small>(ADICIONADA, D.O.F. 4 DE AGOSTO DE 2011)</small>
+
+XVIII. Gestionar ante la Secretaría de Hacienda y Crédito Público, la aprobación de los anteproyectos de presupuesto de la Secretaría y sus órganos desconcentrados, así como los de las entidades paraestatales agrupadas en el sector educativo;
+
+> <small>(ADICIONADA, D.O.F. 4 DE AGOSTO DE 2011)</small>
+
+XIX. Proponer a las unidades administrativas de la Secretaría, a sus órganos desconcentrados y a las entidades paraestatales agrupadas en el sector educativo, criterios y prioridades para la orientación del gasto público en los diferentes tipos, niveles y modalidades del servicio educativo, y
+
+> <small>(ADICIONADA, D.O.F. 4 DE AGOSTO DE 2011)</small>
+
+XX. Evaluar el ejercicio del presupuesto, en coordinación con la Unidad de Planeación y Evaluación de Políticas Educativas, en lo referente a la ejecución de los programas y políticas educativas.
 
 ###### ARTÍCULO 36.
 
@@ -1455,17 +1533,21 @@ XI. Coordinar sus actividades con otras dependencias y entidades de la Administr
 
 XII. Proponer las normas para regular la administración de los recursos de tecnología de la información de la Secretaría bajo criterios de austeridad, modernización tecnológica, optimización, eficiencia y racionalidad.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 4 DE AGOSTO DE 2011)</small>
+
 ###### ARTÍCULO 39.
 
-Corresponde a la Dirección General de Planeación y Programación el ejercicio de las siguientes atribuciones:
+Corresponde a la Dirección General de Planeación el ejercicio de las siguientes atribuciones:
 
-I. Desarrollar y coordinar las actividades de planeación y programación de la Secretaría para los diversos niveles, tipos y modalidades de educación, así como del sector educativo en su conjunto;
+> <small>(REFORMADA, D.O.F. 4 DE AGOSTO DE 2011)</small>
+
+I. Desarrollar y coordinar las actividades de planeación de la Secretaría para los diversos niveles, tipos y modalidades de educación, así como del sector educativo en su conjunto;
 
 II. Proponer lineamientos y coordinar la elaboración y actualización del Programa Sectorial de Educación, en los términos que establezcan la Ley de Planeación, la Ley General de Educación y el Plan Nacional de Desarrollo, en coordinación con las unidades administrativas competentes y con la participación de las autoridades de las entidades federativas, sectores sociales involucrados en la educación y la sociedad en general;
 
-III. Integrar, en coordinación con la Dirección General de Administración Presupuestal y Recursos Financieros, los anteproyectos de presupuesto global y del programa de inversión y obra pública del sector educativo, conjuntamente con las unidades administrativas de la Secretaría y las entidades paraestatales sectorizadas;
+III. (DEROGADA, D.O.F. 4 DE AGOSTO DE 2011)
 
-IV. Gestionar ante las instancias competentes la aprobación de los anteproyectos de presupuesto anual de la Secretaría y los de las entidades paraestatales agrupadas en el sector educativo que hayan sido autorizados por el Secretario;
+IV. (DEROGADA, D.O.F. 4 DE AGOSTO DE 2011)
 
 V. Apoyar y, cuando corresponda, coordinar la elaboración de programas institucionales, regionales, estatales y especiales del sector educativo, a solicitud de los interesados y por instrucciones del Secretario;
 
@@ -1475,15 +1557,15 @@ VII. Elaborar los informes oficiales que deba rendir el Secretario;
 
 VIII. Contribuir al desarrollo y coordinación de un sistema nacional de planeación integrado por las Subsecretarías, los órganos desconcentrados, instituciones y entidades paraestatales agrupadas en el sector educativo y realizar consultas periódicas con el Consejo Consultivo de Planeación y Política Educativa, el Consejo Nacional de Participación Social, el Consejo Nacional de Autoridades Educativas, el Consejo para el Seguimiento del Compromiso Social para la Calidad de la Educación y las entidades especializadas en evaluación educativa;
 
-IX. Proponer criterios y prioridades para la orientación del gasto público en los diferentes tipos, niveles y modalidades del servicio educativo;
+IX. (DEROGADA, D.O.F. 4 DE AGOSTO DE 2011)
 
 X. Llevar el registro nacional de instituciones pertenecientes al sistema educativo nacional;
 
-XI. Establecer, de conformidad con las políticas que determine el Secretario, los lineamientos para la elaboración del programa de presupuesto anual del sector y las transferencias a las entidades federativas;
+XI. (DEROGADA, D.O.F. 4 DE AGOSTO DE 2011)
 
-XII. Proponer normas generales para la elaboración del anteproyecto de presupuesto del sector educativo que incluyan el gasto en actividades, programas y proyectos educativos especiales y las transferencias a las entidades federativas, de conformidad con los lineamientos establecidos por la Secretaría de Hacienda y Crédito Público, las prioridades del sector educativo y las políticas que señale el Secretario;
+XII. (DEROGADA, D.O.F. 4 DE AGOSTO DE 2011)
 
-XIII. Analizar y proponer, en coordinación con la Dirección General de Administración Presupuestal y Recursos Financieros, la aplicación de las modificaciones que determine la Secretaría de Hacienda y Crédito Público al presupuesto autorizado;
+XIII. (DEROGADA, D.O.F. 4 DE AGOSTO DE 2011)
 
 XIV. Desarrollar, en coordinación con el Instituto Nacional para la Evaluación de la Educación, la Dirección General de Evaluación de Políticas y demás unidades administrativas competentes, un Sistema Nacional de Información, Estadística e Indicadores Educativos relacionados con la planeación, programación y evaluación del sistema educativo;
 
@@ -1623,9 +1705,11 @@ Corresponde a la Coordinación de Órganos Desconcentrados y del Sector Paraesta
 
 I. Auxiliar al Secretario en las acciones de coordinación de las entidades paraestatales agrupadas en el sector a cargo de la Secretaría, así como en las de los órganos desconcentrados adscritos directamente al propio Secretario;
 
-II. Participar, de conformidad con los lineamientos de la Unidad de Planeación y Evaluación de Políticas Educativas, en la definición de las políticas de programación y presupuestación del sector paraestatal coordinado por la Secretaría;
+II. (DEROGADA, D.O.F. 4 DE AGOSTO DE 2011)
 
-III. Proponer, en coordinación con la Dirección General de Planeación y Programación, el establecimiento de políticas de desarrollo para las entidades paraestatales agrupadas en el sector a cargo de la Secretaría;
+> <small>(REFORMADA, D.O.F. 4 DE AGOSTO DE 2011)</small>
+
+III. Proponer, en coordinación con la Dirección General de Planeación, el establecimiento de políticas de desarrollo para las entidades paraestatales agrupadas en el sector a cargo de la Secretaría;
 
 IV. Proponer y desarrollar mecanismos para conocer la operación de las entidades paraestatales del sector educativo con el fin de evaluar los resultados de su desempeño;
 
@@ -1784,3 +1868,17 @@ El registro de los recursos humanos, financieros y materiales, e inventarios ent
 TERCERO. En todo caso se respetarán los derechos laborales de los trabajadores del Instituto Nacional de Estudios Históricos de las Revoluciones de México.
 
 CUARTO. Las secretarías de Gobernación y de Educación Pública realizarán las acciones necesarias para que la operación del órgano administrativo desconcentrado denominado Instituto Nacional de Estudios Históricos de las Revoluciones de México se realice con los recursos aprobados a dichas dependencias, mediante movimientos compensados para el ejercicio fiscal que corresponda, por lo que no requerirán recursos adicionales para tales efectos y no incrementarán su presupuesto regularizable.
+
+D.O.F. 4 DE AGOSTO DE 2011.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Las referencias que se hacen a la Dirección General de Administración Presupuestal y Recursos Financieros y a la Dirección General de Planeación y Programación en decretos, reglamentos, acuerdos, órdenes, reglas, manuales, circulares, lineamientos y demás disposiciones se entenderán hechas a la Dirección General de Presupuesto y Recursos Financieros y a la Dirección General de Planeación, respectivamente.
+
+TERCERO.- Los asuntos pendientes al entrar en vigor este Decreto y que conforme al mismo deban pasar de una unidad administrativa a otra u otras, continuarán su trámite y serán resueltos por aquella o aquellas unidades a las que se les haya atribuido la competencia en este Decreto.
+
+CUARTO.- Los recursos humanos, financieros y materiales asignados a las unidades administrativas que modifican su competencia en virtud de lo dispuesto en el presente Decreto serán reasignados a las unidades que asumen las correspondientes atribuciones, de conformidad con las disposiciones aplicables.
+
+QUINTO.- Las reformas y adiciones contenidas en el presente Decreto no implican la creación de puestos ni de unidades administrativas, por lo que no tendrán impacto presupuestario.
+
+SEXTO.- Los derechos de los trabajadores serán respetados conforme a la ley.
