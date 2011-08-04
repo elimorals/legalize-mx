@@ -4,7 +4,7 @@ identifier: "CAM-codigo-de-procedimientos-civiles-3371"
 country: "mx"
 rank: "codigo"
 publication_date: "1942-12-24"
-last_updated: "2010-10-18"
+last_updated: "2011-08-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3371&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 CODIGO DE PROCEDIMIENTOS CIVILES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE OCTUBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE AGOSTO DE 2011.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Campeche, el 24 de diciembre de 1942.
 
@@ -605,13 +605,23 @@ Las notificaciones, citaciones y entrega de expedientes se verificarán lo más 
 
 A los infractores del artículo anterior se les impondrá una corrección disciplinaria.
 
+> <small>(ADICIONADO, P.O. 4 DE AGOSTO DE 2011)</small>
+
+Art. 94 bis.- Todas las diligencias que deban practicarse por el actuario, o por cualquier funcionario judicial, fuera de la oficina, se ejecutarán sin necesidad de solicitud previa del interesado; se exceptúan de lo anterior, el emplazamiento a juicio a la parte demandada y aquellas diligencias que impliquen ejecución, las que necesariamente serán agendadas dentro de los términos y procedimientos que la ley señala, a instancia del interesado.
+
+Se hará acreedor a una multa de hasta sesenta días de salario mínimo, quien habiendo solicitado la notificación de un auto, que por su naturaleza requiera su intervención al momento de la diligencia, no concurra sin causa justificada en la fecha y hora programadas, hecho que será asentado por el funcionario judicial respectivo, con vista a quien ordenó la notificación.
+
 ###### Art. 95.
 
 El que al ser notificado, dijere que contestará por escrito, deberá hacerlo dentro de las veinticuatro horas siguientes a la de la notificación, que no se repetirá, surtiendo los efectos que correspondan, conforme a la ley.
 
+> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 2011)</small>
+
 ###### Art. 96.
 
-Todos los litigantes en el primer escrito o en la primera diligencia judicial, deben designar casa ubicada en el lugar del juicio para que se les hagan las notificaciones y se practiquen las diligencias que se consideren necesarias. Igualmente deben designar la casa en que ha de hacerse la primera notificación a la persona o personas contra quienes promuevan, o señalar el lugar de su domicilio a donde deba dirigirse el exhorto o despacho correspondiente.
+Todos los litigantes, en el primer escrito o en la primera diligencia judicial, deberán designar domicilio ubicado en el lugar del juicio para que se les hagan las notificaciones y se practiquen las diligencias necesarias. Igualmente deberán señalar el domicilio en que ha de hacerse la primera notificación y a la persona o personas contra quienes promuevan, o designar el lugar de su domicilio a donde deba dirigirse el exhorto o despacho correspondiente; así como señalar el nombre oficial de la calle, las calles entre las que se ubica el domicilio, la numeración oficial que le corresponda, la zona, barrio, colonia o fraccionamiento, así como el código postal correspondiente.
+
+Cuando las partes omitan comunicar al tribunal el nuevo domicilio, las notificaciones personales seguirán haciéndose en el que aparezca en autos.
 
 (REFORMADO PRIMER PARRAFO, P.O. 16 DE JUNIO DE 1993) (F. DE E., P.O. 18 DE JUNIO DE 1993)
 
@@ -7396,3 +7406,11 @@ P.O. 18 DE OCTUBRE DE 2010.
 PRIMERO: El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO: Se derogan todas las disposiciones legales y reglamentarias del marco jurídico estatal en lo que se opongan al contenido de este decreto.
+
+P.O. 4 DE AGOSTO DE 2011.
+
+PRIMERO: El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO: En los distritos judiciales donde exista Central de Actuarios, esta dependencia será la encargada de realizar las notificaciones que ordenen las autoridades jurisdiccionales del mismo distrito.
+
+TERCERO: Se derogan todas aquellas disposiciones legales y reglamentarias que se opongan al contenido del presente decreto.
