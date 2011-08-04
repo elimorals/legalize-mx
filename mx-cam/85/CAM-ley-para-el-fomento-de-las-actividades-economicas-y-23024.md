@@ -4,7 +4,7 @@ identifier: "CAM-ley-para-el-fomento-de-las-actividades-economicas-y-23024"
 country: "mx"
 rank: "ley"
 publication_date: "2001-12-24"
-last_updated: "2002-12-23"
+last_updated: "2011-08-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23024&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 LEY PARA EL FOMENTO DE LAS ACTIVIDADES ECONOMICAS Y EMPRESARIALES EN EL ESTADO DE CAMPECHE
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE DICIEMBRE DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE AGOSTO DE 2011.
 
 Ley publicada en el Periódico Oficial del Estado de Campeche, el lunes 24 de diciembre de 2001.
 
@@ -249,6 +249,16 @@ IV. Aportación estatal condicionada para la realización de obras de infraestru
 
 6. Construcción de obras de drenaje y plantas de tratamiento.
 
+> <small>(ADICIONADA, P.O. 4 DE AGOSTO DE 2011)</small>
+
+V. Aportación de bienes propiedad del Estado a fideicomisos, en los que el Estado sea fideicomitente y/o fideicomisario, que permitan el desarrollo inmobiliario, industrial, comercial o turístico, que se traduzca en beneficios tangibles al Estado que fomenten la generación de empleos directos e indirectos, y que además, dentro de los fines del fideicomiso pueda incluir la recuperación parcial o total de los bienes fideicomitidos con sus mejoras o en su caso el costo de los bienes fideicomitidos.
+
+En los contratos de fideicomiso que al efecto se celebren, deberán incluirse el párrafo antecede, así como, la clausula de reversión al patrimonio inmobiliario del Estado en caso de incumplimiento a las condiciones establecidas en esta Ley. El estímulo a que se refiere esta fracción sólo se concederá a las empresas que generen una cantidad mínima, de 200 nuevos empleos directos y permanentes.
+
+> <small>(ADICIONADA, P.O. 4 DE AGOSTO DE 2011)</small>
+
+VI. Arrendamiento de inmuebles propiedad del Estado, cuyo precio mensual de renta nunca será menor a la cantidad que configure el 0.5 por ciento del valor de avalúo asignado al inmueble: El precio de la renta se actualizará anualmente conforme al incremento porcentual que tenga el salario mínimo general diario vigente en el Estado.
+
 El estímulo a que se refiere esta fracción sólo se concederá a las empresas que generen una cantidad mínima de 50 nuevos empleos directos y permanentes.
 
 Los requisitos del expediente técnico correspondiente a la empresa donde se realizará la inversión, deberán ser validados por la Secretaría de Obras Públicas y Comunicaciones.
@@ -316,6 +326,10 @@ Tratándose de fusión, para otorgar el beneficio a que se refiere el artículo 
 ###### Artículo 17.
 
 Queda facultado el Ejecutivo del Estado para efectos de constituir fondos y establecer sus reglas de operación, que se destinen a fomentar la inversión en proyectos estratégicos que representen un detonante significativo para la Entidad, en materia industrial, comercial o de servicios.
+
+> <small>(ADICIONADO, P.O. 4 DE AGOSTO DE 2011)</small>
+
+Esta misma facultad queda extensiva para constituir fideicomisos en los que el Estado sea fideicomitente que dentro de sus fines esté fomentar la inversión en proyectos estratégicos que impulsen la generación de empleos y el desarrollo del Estado en materia inmobiliaria, industrial, comercial y turística. Los recursos que se aporten al fideicomiso o los que genere o recupere deberán reinvertirse en este para la consecución de sus fines.
 
 ###### Artículo 18.
 
@@ -570,3 +584,9 @@ Primero.- El presente decreto entrará en vigor el día 1 de enero de 2003, prev
 Segundo.- Las cuotas que han quedado establecidas en el inciso b) de la fracción II del Apartado M, del artículo 52 de la Ley de Hacienda del Estado de Campeche, que son objeto de la presente reforma entrarán en vigor el día 1 de enero de 2003, con excepción de las relativas a las colegiaturas de las preparatorias o licenciaturas, que entrarán en vigor el día 1 de febrero de 2003.
 
 Tercero.- Se derogan todas aquellas disposiciones legales o reglamentarias en lo que se opongan al contenido del presente decreto.
+
+P.O. 4 DE AGOSTO DE 2011.
+
+Primero.- El presente decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- Se derogan todas las disposiciones legales y reglamentarias del marco jurídico estatal en lo que se opongan al contenido del presente decreto.
