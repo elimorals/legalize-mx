@@ -4,7 +4,7 @@ identifier: "SLP-codigo-penal-del-estado-de-san-luis-potosi-21296"
 country: "mx"
 rank: "codigo"
 publication_date: "2000-09-30"
-last_updated: "2011-07-30"
+last_updated: "2011-08-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21296&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 CODIGO PENAL DEL ESTADO DE SAN LUIS POTOSI
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE JULIO DE 2011.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE AGOSTO DE 2011.
 
 Código publicado en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 30 de septiembre de 2000.
 
@@ -890,6 +890,10 @@ Cuando sean varios los ofendidos y cada uno pueda ejercer separadamente la facul
 El perdón a favor de uno de los inculpados beneficia a todos los participantes en el delito y al encubridor.
 
 El perdón del ofendido no surtirá efectos a favor del reincidente del delito de que se trate.
+
+> <small>(ADICIONADO, P.O. 4 DE AGOSTO DE 2011)</small>
+
+ARTICULO 88 BIS. En los delitos a que se refiere el artículo anterior, el perdón de la víctima o del legitimado para otorgarlo, surtirá sus efectos, siempre y cuando el imputado o sentenciado satisfaga los requisitos legales, acredite el pago de la reparación del daño causado y, en su caso, el de las multas impuestas.
 
 ### CAPITULO VI. RECONOCIMIENTO DE LA INOCENCIA DEL SENTENCIADO
 
@@ -1817,7 +1821,7 @@ En este caso la pena será de uno a tres años de prisión y sanción pecuniaria
 
 ### CAPITULO VII. VIOLENCIA FAMILIAR
 
-> <small>(REFORMADO, P.O. 7 DE AGOSTO DE 2007)</small>
+> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 2011)</small>
 
 ###### ARTICULO 174.
 
@@ -1841,11 +1845,23 @@ CORRUPCION DE PERSONAS MENORES DE DIECIOCHO AÑOS DE EDAD O DE PERSONAS QUE NO T
 
 ###### ARTICULO 177.
 
-Comete el delito de violencia familiar quien en contra de su cónyuge, concubina o concubinario, o persona que mantenga o haya mantenido una relación de hecho, pariente consanguíneo en línea recta ascendiente o descendiente sin limitación de grado, pariente colateral consanguíneo o hasta el cuarto grado o adoptante, cometa actos abusivos de poder u omisión intencionales, dirigidos a dominar, someter, controlar o maltratar de manera física, verbal, psicológica, patrimonial, económica y sexual, dentro o fuera del domicilio familiar, independientemente de que pueda producir o no lesiones.
+Comete el delito de violencia familiar quien en contra de su cónyuge, concubina o concubinario, o persona que mantenga o haya mantenido una relación de hecho, pariente consanguíneo en línea recta ascendiente o descendiente sin limitación de grado, pariente colateral consanguíneo o afín hasta el cuarto grado o adoptante, cometa actos abusivos de poder u omisión intencionales, dirigidos a dominar, someter, controlar o maltratar de manera física, verbal, psicológica, patrimonial, económica o sexual, dentro o fuera del domicilio familiar, independientemente de que pueda producir o no lesiones, y de otros delitos que le resulten.
 
-Este delito se sancionará con pena de uno a seis años de prisión y sanción pecuniaria de 160 a 200 días de salario mínimo, asimismo, el culpable perderá el derecho de pensión alimenticia y se le condenará a participar en servicios reeducativos integrales, especializados y gratuitos.
+Este delito se sancionará con una pena de uno a seis años de prisión y sanción pecuniaria de 160 a 260 días de salario mínimo; asimismo el culpable perderá el derecho de pensión alimenticia y se le condenará a participar en servicios reeducativos integrales, especializados y gratuitos.
 
-Este delito se perseguirá por querella, salvo que la víctima sea menor de edad, incapaz, o se trate de personas adultas mayores, en cuyo caso, se perseguirá de oficio.
+Este delito se perseguirá por querella necesaria, excepto cuando:
+
+I. La víctima u ofendido sea menor de edad; incapaz, o no tenga la capacidad para comprender el significado del hecho;
+
+II. La víctima presente una discapacidad sensorial, física, o mental, total, parcial o permanente;
+
+III. La victima sea mayor de sesenta años;
+
+IV. La conducta sea reiterada, es decir, se tengan documentados antecedentes o denuncia de violencia familiar cometidos por el mismo agresor contra la víctima, o
+
+V. Cuando se cometa con la participación de dos o más personas.
+
+La autoridad competente deberá canalizar a la víctima u ofendido del delito de violencia familiar, para que reciba la atención médica y psicológica de urgencia.
 
 ###### ARTICULO 178.
 
@@ -2599,7 +2615,7 @@ II. Omita recabar la autorización del paciente o de la persona que deba otorgar
 
 III. Practique una intervención quirúrgica innecesaria;
 
-IV. Se niegue, ejerciendo la medicina y sin motivo justificado, a prestar asistencia a un enfermo en caso de notaría urgencia, poniendo en peligro la vida o la salud de dicho enfermo, cuando éste, por las circunstancias del caso no pudiera recurrir a otro médico, o cuando abandone sin causa justificada a la persona cuya asistencia esté encargada, o
+IV Se niegue, ejerciendo la medicina y sin motivo justificado, a prestar asistencia a un enfermo en caso de notaría urgencia, poniendo en peligro la vida o la salud de dicho enfermo, cuando éste, por las circunstancias del caso no pudiera recurrir a otro médico, o cuando abandone sin causa justificada a la persona cuya asistencia esté encargada, o
 
 V. Certifique falsamente que una persona tiene una enfermedad u otro impedimento para dispensarla de cumplir una obligación que la Ley impone para adquirir un derecho.
 
@@ -3898,6 +3914,12 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 DECRETO 708 POR EL QUE SE REFORMA LOS ARTICULOS, 225 EN SU PARRAFO SEGUNDO, Y 226, DEL CODIGO PENAL DEL ESTADO DE SAN LUIS POTOSI.
 
 P.O. 30 DE JULIO DE 2011.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de San Luis Potosí.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan a éste.
+
+P.O. 4 DE AGOSTO DE 2011.
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de San Luis Potosí.
 
