@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-ingresos-del-estado-de-tamaulipas-para-el-ejercicio-7841
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2010-12-22"
-last_updated: "2010-12-22"
+last_updated: "2011-08-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=78418&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "TAM"
 ---
 # LEY DE INGRESOS DEL ESTADO DE TAMAULIPAS PARA EL EJERCICIO FISCAL DE 2011
 
-> <small>N. DE E. PARA CONSULTAR LA VERSION CORREGIDA DE ESTA ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 4 DE AGOSTO DE 2011 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGIA CORRESPONDIENTE A DICHA FECHA, EN EL INDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 LEY DE INGRESOS DEL ESTADO DE TAMAULIPAS PARA EL EJERCICIO FISCAL DE 2011
 
 TEXTO ORIGINAL.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIODICO OFICIAL DEL 4 DE AGOSTO DE 2011.</small>
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el miércoles 22 de diciembre de 2010.
 
@@ -205,13 +205,13 @@ El Ejecutivo del Estado, por conducto de la Secretaría de Finanzas, establecer�
 
 El Ejecutivo del Estado, por conducto de la Secretaría de Finanzas, queda autorizado para fijar o modificar los aprovechamientos que se cobrarán por el uso o aprovechamiento de bienes de dominio público del Estado.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSION CORREGIDA DE ESTE ARTICULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 4 DE AGOSTO DE 2011 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGIA CORRESPONDIENTE A DICHA FECHA, EN EL INDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA, ASI COMO EL ARCHIVO ANEXO.</small>
-
 ###### ARTICULO CUARTO.
 
 En caso de requerirse ingresos complementarios para sustentar el gasto previsto en el Presupuesto de Egresos del Estado para el ejercicio fiscal del año 2011, se autoriza al Ejecutivo del Estado para contratar y ejercer créditos, empréstitos y otras formas de ejercicio del crédito público, hasta por la cantidad de $ 1,000,000,000 (Un mil millones de pesos 00/100 m. n.) como principal, pudiendo otorgar como fuente de pago y/o garantía, las participaciones que le correspondan al Estado.
 
-De conformidad con lo previsto por el Decreto LX-720 del H. Congreso del Estado, se ratifica la autorización para que el Ejecutivo del Estado suscriba los convenios y demás documentos inherentes a la estrategia para potenciar los recursos del Fondo de Estabilización de Ingresos de las Entidades Federativas planteado por la Secretaría de Hacienda y Crédito Público, para mitigar la caída en las participaciones federales durante el ejercicio fiscal de 2010.
+> <small>(F. DE E., P.O. 4 DE AGOSTO DE 2011)</small>
+
+De conformidad con lo previsto por el Decreto LX-720 del H. Congreso del Estado, se ratifica la autorización para que el Ejecutivo del Estado suscriba los convenios y demás documentos inherentes a la estrategia para potenciar los recursos del Fondo de Estabilización de Ingresos de las Entidades Federativas planteado por la Secretaría de Hacienda y Crédito Público, para mitigar la caída en las participaciones federales durante el ejercicio fiscal de 2011.
 
 ###### ARTICULO QUINTO.
 
@@ -225,11 +225,11 @@ Se faculta al Ejecutivo del Estado, para que por conducto de la Secretaría de F
 
 En los casos de prórroga para el pago de créditos fiscales, se causarán recargos al 1.8% mensual sobre saldos insolutos durante el 2011.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSION CORREGIDA DE ESTE ARTICULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 4 DE AGOSTO DE 2011 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGIA CORRESPONDIENTE A DICHA FECHA, EN EL INDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA, ASI COMO EL ARCHIVO ANEXO.</small>
+> <small>(F. DE E., P.O. 4 DE AGOSTO DE 2011)</small>
 
 ###### ARTICULO OCTAVO.
 
-De conformidad con lo previsto en el Decreto LX-708 del H. Congreso del Estado, el Gobierno del Estado, por conducto de la Secretaría de Finanzas, está autorizado para concretar la contratación del financiamiento previsto en el Artículo Primero de ese instrumento y para afectar en pago y/o garantía la totalidad de los ingresos derivados de la recaudación estimada del Impuesto sobre Nóminas, para el ejercicio fiscal de 2010, con objeto de dar cumplimiento a las obligaciones contraídas con motivo de la estrategia de financiamiento del Programa Estatal de Infraestructura 2008-2010 establecido en dicho Decreto.
+De conformidad con lo previsto en el Decreto LX-708 del H. Congreso del Estado, el Gobierno del Estado, por conducto de la Secretaría de Finanzas, está autorizado para concretar la contratación del financiamiento previsto en el Artículo Primero de ese instrumento y para afectar en pago y/o garantía la totalidad de los ingresos derivados de la recaudación estimada del Impuesto sobre Nóminas, para el ejercicio fiscal de 2011, con objeto de dar cumplimiento a las obligaciones contraídas con motivo de la estrategia de financiamiento del Programa Estatal de Infraestructura 2008-2010 establecido en dicho Decreto.
 
 T R A N S I T O R I O
 
