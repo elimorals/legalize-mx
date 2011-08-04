@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-salud-para-el-estado-de-campeche-61533"
 country: "mx"
 rank: "ley"
 publication_date: "2008-05-13"
-last_updated: "2010-11-19"
+last_updated: "2011-08-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61533&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 LEY DE SALUD PARA EL ESTADO DE CAMPECHE
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE NOVIEMBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE AGOSTO DE 2011.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Campeche, el martes 13 de mayo de 2008.
 
@@ -203,9 +203,19 @@ XII. Apoyar la coordinación entre las instituciones de salud y educativas del E
 
 XIII. Coadyuvar a que la formación y distribución de los recursos humanos para la salud sea congruente con las prioridades del Sistema Estatal de Salud;
 
-XIV. Promover e impulsar la participación de la comunidad en el cuidado de la salud e impulsar la permanente actualización de las disposiciones legales en materia de salud; y
+XIV. Promover e impulsar la participación de la comunidad en el cuidado de la salud e impulsar la permanente actualización de las disposiciones legales en materia de salud; y (sic)
 
-XV. Las demás atribuciones que se requieran para el cumplimiento de los objetivos del Sistema Estatal de Salud, y las que determinen las disposiciones generales aplicables.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+
+> <small>(REFORMADA [N DE E. ADICIONADA], P.O. 4 DE AGOSTO DE 2011)</small>
+
+XV. La prestación de los servicios de atención a la obesidad, así como la orientación y vigilancia en materia de nutrición conforme a los programas que se formulen y desarrollen al respecto; y
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 4 DE AGOSTO DE 2011)</small>
+
+XVI. Las demás atribuciones que se requieran para el cumplimiento de los objetivos del Sistema Estatal de Salud, y las que determinen las disposiciones generales aplicables.
 
 ###### Artículo 7.
 
@@ -1049,6 +1059,10 @@ Los profesionales, técnicos y auxiliares de salud y los establecimientos que pr
 
 ### Capítulo III. Nutrición
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+
+> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 2011)</small>
+
 ###### Artículo 114.
 
 La promoción de la salud tiene por objeto crear, conservar y mejorar las condiciones deseables de salud para toda la población y propiciar en el individuo las actitudes, valores y conductas adecuados para motivar su participación en beneficio de la salud individual y colectiva.
@@ -1087,11 +1101,49 @@ La Secretaría Estatal, en coordinación con las autoridades estatales y federal
 
 ###### Artículo 118.
 
-La Secretaría Estatal formulará y desarrollará programas de nutrición, promoviendo la participación en ellos de los organismos cuyas atribuciones tengan relación con los mismos, así como de los sectores social y privado.
+La Secretaría Estatal, formulará y desarrollará programas de nutrición, promoviendo la participación en los mismos de los organismos estatales, nacionales e internacionales, así como los sectores social y privado, cuya actividad se relaciona con la nutrición.
+
+De igual forma impulsará acciones encaminadas al combate de los trastornos alimenticios que se presenten entre los jóvenes y niños del Estado de Campeche, apoyando el diseño de programas y proyectos educativos en la materia.
 
 ###### Artículo 119.
 
 En los programas, a que refiere el artículo anterior, se incorporarán acciones que promuevan el consumo de alimentos de producción regional, procurando al efecto la participación de las sociedades, asociaciones y otras formas de organización cuyas actividades se relacionen con la producción de alimentos.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 4 DE AGOSTO DE 2011)</small>
+
+Así mismo buscará propiciar el desarrollo de las comunidades a partir de la instrumentación de políticas públicas tendientes a mejorar sus condiciones sanitarias, nutrición, atención médica y asegurar el acceso efectivo a los servicios de salud mediante la ampliación de su cobertura, apoyando la nutrición mediante programas de alimentación, en especial para la población infantil.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 4 DE AGOSTO DE 2011)</small>
+
+Artículo 119 bis.- Los apoyos nutricionales que proporcionen las dependencias y entidades de la administración pública estatal, serán entregados a los beneficiarios previa valoración del estado nutricional que realice el Sistema Estatal de Salud.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 4 DE AGOSTO DE 2011)</small>
+
+Artículo 119 ter.- A la Secretaría Estatal, en coordinación con las demás autoridades competentes corresponde también:
+
+I. La difusión permanente de dietas y hábitos alimenticios sanos, como procedimientos que conduzcan al consumo efectivo de los mínimos de nutrimentos por parte de la población general;
+
+II. Establecer un sistema permanente de vigilancia en materia de nutrición;
+
+III. Coordinar el desarrollo de los programas y actividades de educación en materia de nutrición, encaminados a promover hábitos alimenticios adecuados, preferentemente en los grupos sociales más vulnerables;
+
+IV. Normar el establecimiento, operación y evaluación de servicios de nutrición en las zonas que se determinen, en función de las mayores carencias y problemas de salud;
+
+V. Normar el valor nutritivo y características de la alimentación;
+
+VI. Promover investigaciones encaminadas a conocer las condiciones de nutrición que prevalecen en la población y establecer las necesidades mínimas de nutrimentos para el mantenimiento de las buenas condiciones de salud de la población;
+
+VII. Establecer las necesidades nutritivas que deban satisfacer los cuadros básicos de alimentos;
+
+VIII. Proveer de mecanismos necesarios para dar acceso a suplementos alimenticios a grupos vulnerables.
+
+IX. Coordinarse con la Secretaría de Educación para implementar programas tendientes a evitar la venta de productos de bajo contenido nutricional, dentro de los establecimientos educativos, particularmente en instituciones de educación básica.
 
 ### Capítulo I. Disposiciones Comunes
 
@@ -1382,14 +1434,6 @@ En estos casos, las instituciones de salud del Estado podrán tomar las medidas 
 ###### Artículo 154.
 
 El Sistema para el Desarrollo Integral de la Familia del Estado de Campeche (Sistema D.I.F. Estatal) es el organismo descentralizado de la Administración Pública Estatal que, conforme a la Ley de Asistencia Social para el Estado de Campeche, tiene entre sus objetivos, en coordinación con sus homólogos federal y municipales, la promoción de la asistencia social en el ámbito estatal, la prestación de servicios en ese campo y la realización de las demás acciones que establecen esa ley y demás legales y reglamentarias aplicables. Dicho organismo promoverá la interrelación sistemática de acciones que en el campo de la asistencia social lleven a cabo las instituciones públicas.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE JULIO DE 2013)</small>
-
-###### Artículo 153.
-
-Los integrantes del Sistema Estatal de Salud deberán dar atención preferente e inmediata a menores, mujeres, adultos mayores y personas con discapacidad sometidos a cualquier forma de maltrato que ponga en peligro su salud física y mental. Así mismo, darán esa atención a quienes hayan sido sujetos pasivos de la comisión de delitos que atenten contra la integridad física o mental o el normal desarrollo psicosomático del individuo.
-
-En estos casos, las instituciones de salud del Estado podrán tomar las medidas inmediatas que sean necesarias para la protección de la salud de dichas personas, sin perjuicio de dar intervención a las autoridades competentes.
 
 > <small>(REFORMADO, P.O. 23 DE JULIO DE 2010)</small>
 
@@ -2404,3 +2448,9 @@ QUINTO.- Se derogan todas las disposiciones legales y reglamentarias del marco j
 P.O. 19 DE NOVIEMBRE DE 2010.
 
 ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 4 DE AGOSTO DE 2011.
+
+PRIMERO.- Este decreto entrará en vigor quince días después de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- La Secretaría de Salud del Estado realizará los ajustes programáticos necesarios para la implementación de las acciones que se deriven del presente decreto.
