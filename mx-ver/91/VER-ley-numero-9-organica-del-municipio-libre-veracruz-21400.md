@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-9-organica-del-municipio-libre-veracruz-21400"
 country: "mx"
 rank: "ley"
 publication_date: "2001-01-05"
-last_updated: "2010-12-31"
+last_updated: "2011-08-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21400&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "VER"
 ---
 # LEY NUMERO 9 ORGANICA DEL MUNICIPIO LIBRE, VERACRUZ
 
-LEY ORGANICA DEL MUNICIPIO LIBRE
+LEY ORGÁNICA DEL MUNICIPIO LIBRE, DEL ESTADO DE VERACRUZ
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 31 DE DICIEMBRE 2010.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 4 DE AGOSTO DE 2011.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el viernes 5 de enero de 2001.
 
@@ -239,7 +239,7 @@ III. No ser servidor público en ejercicio de autoridad, en los últimos sesenta
 
 IV. No tener antecedentes penales por la comisión de delitos realizados con dolo, exceptuando aquellos en los que se hayan concedido los beneficios de conmutación o suspensión condicional de la sanción.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, G.O. 15 DE FEBRERO DE 2010)</small>
 
@@ -347,7 +347,7 @@ Durante el mes de diciembre, el Presidente Municipal deberá rendir a los ciudad
 
 ### CAPÍTULO III. DE LAS ATRIBUCIONES DEL AYUNTAMIENTO
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 5 DE AGOSTO DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 5 DE AGOSTO DE 2005)</small>
 
 ### CAPÍTULO IV. DEL PRESIDENTE MUNICIPAL
 
@@ -389,7 +389,7 @@ X. Distribuir los recursos que le asigne el Congreso del Estado considerando de 
 
 XI. Crear los órganos centralizados y desconcentrados que requiera la administración pública municipal para la mejor prestación de los servicios de su competencia, de conformidad con las disposiciones presupuestales y reglamentarias municipales aplicables;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, G.O. 15 DE FEBRERO DE 2010)</small>
 
@@ -415,7 +415,7 @@ XX. Sujetarse, en las relaciones con sus trabajadores, a las leyes que en esta m
 
 El nombramiento de los trabajadores de confianza únicamente surtirá efectos legales durante el periodo constitucional que corresponda al ayuntamiento que los designó o contrató, salvo que cualquiera de las partes decida dar por terminado el nombramiento o designación anticipadamente; y sin la obligación ni responsabilidad de ninguna índole de ser contratado por el ayuntamiento o el presidente municipal entrante. Al presentar el presupuesto del último año de ejercicio constitucional deberán contemplarse los recursos necesarios para dar cumplimiento a las obligaciones de Ley.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, G.O. 15 DE FEBRERO DE 2010)</small>
 
@@ -493,7 +493,7 @@ XXXIX. Fraccionar las localidades de su territorio urbano en manzanas y designar
 
 XL. Convocar, en los términos que establezcan la Constitución del Estado y la ley de la materia, a referendo o plebiscito;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, G.O. 15 DE FEBRERO DE 2010)</small>
 
@@ -563,7 +563,7 @@ XII. Proponer al Ayuntamiento las medidas necesarias para mejorar la prestación
 
 XIII. Autorizar en unión de los Ediles de la Comisión de Hacienda, con la firma del Secretario del Ayuntamiento, las órdenes de pago a la Tesorería Municipal que procedan, de conformidad con las disposiciones legales y presupuestales aplicables;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, G.O. 15 DE FEBRERO DE 2010)</small>
 
@@ -577,7 +577,7 @@ XVI. Vigilar las labores de la Secretaría del Ayuntamiento;
 
 XVII. Resolver sobre el nombramiento, remoción, licencia, permiso o comisión de los demás servidores públicos del Ayuntamiento, de lo cual deberá informar al Cabildo;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, G.O. 15 DE FEBRERO DE 2010)</small>
 
@@ -1263,7 +1263,7 @@ IX. Procurar todo aquello que tienda al bienestar de la comunidad.
 
 Son organismos auxiliares de los Ayuntamientos los Comités y Patronatos que constituyan sus habitantes para la realización de obras de beneficio colectivo.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.O. 3 DE ENERO DE 2007)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 3 DE ENERO DE 2007)</small>
 
 ### CAPÍTULO I. DISPOSICIONES GENERALES
 
@@ -1373,7 +1373,7 @@ Con base en lo dispuesto en esta ley, el Ayuntamiento podrá aprobar disposicion
 
 #### SECCIÓN PRIMERA. DE LA SECRETARÍA DEL AYUNTAMIENTO
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 31 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 31 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 69.
 
@@ -1413,7 +1413,7 @@ El Secretario, en sus faltas temporales, será sustituido por el servidor públi
 
 #### SECCIÓN SEGUNDA. DE LA TESORERÍA MUNICIPAL
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 31 DE DICIEMBRE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 31 DE DICIEMBRE 2010)</small>
 
 ###### Artículo 72.
 
@@ -1501,9 +1501,9 @@ El Congreso del Estado o la Diputación Permanente, en su caso, podrán ordenar 
 
 El Congreso del Estado informará a los Ayuntamientos el resultado de las acciones a que se refiere el párrafo anterior.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, G.O. 15 DE FEBRERO DE 2010)</small>
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, G.O. 15 DE FEBRERO DE 2010)</small>
 
 #### SECCIÓN TERCERA. DE LA DIRECCIÓN DE OBRAS PÚBLICAS
 
@@ -1513,7 +1513,7 @@ El Congreso del Estado informará a los Ayuntamientos el resultado de las accion
 
 Cada Ayuntamiento contará con una Dirección de Obras Públicas, cuyo titular deberá contar preferentemente con título profesional de arquitecto o ingeniero civil.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, G.O. 15 DE FEBRERO DE 2010)</small>
 
@@ -1869,7 +1869,7 @@ El Ayuntamiento, en los casos señalados en el artículo anterior, podrá declar
 
 La resolución que declare o decrete la extinción de las concesiones se sujetará a lo dispuesto por esta ley y demás legislación aplicable.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 12 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 12 DE DICIEMBRE DE 2005)</small>
 
 ###### Artículo 99.
 
@@ -1987,7 +1987,7 @@ En la segunda quincena del mes de agosto los servidores públicos mencionados en
 
 Durante el curso de la primera quincena de septiembre el Ayuntamiento, en sesión de cabildo, discutirá dichos proyectos.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 15 DE AGOSTO DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 15 DE AGOSTO DE 2005)</small>
 
 ###### Artículo 107.
 
@@ -2181,7 +2181,7 @@ III. La comisión de delitos intencionales durante su encargo; o
 
 IV. Los actos u omisiones que afecten la legalidad, honradez, lealtad, imparcialidad y eficiencia que deben observar en el desempeño de sus atribuciones.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 8 DE AGOSTO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 8 DE AGOSTO DE 2007)</small>
 
 ###### Artículo 126.
 
@@ -2293,7 +2293,7 @@ Dictada la resolución a que se refiere este artículo se continuará con el pro
 
 Cuando el Congreso del Estado al recibir la denuncia, tenga conocimiento de que se han presentado las causas previstas en el artículo 130 de esta ley, de inmediato la turnará a la Comisión Instructora, para que sin demora notifique al Ayuntamiento, reciba las pruebas y alegatos que éste ofrezca y emita un dictamen sobre la procedencia o improcedencia de la declaración de desaparición del Ayuntamiento. Con vista en el dictamen, el Congreso del Estado resolverá lo procedente.
 
-> <small>(REFORMADA SU DENOMINACION, G.O. 8 DE AGOSTO DE 2007)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 8 DE AGOSTO DE 2007)</small>
 
 ### CAPÍTULO VII. DE LA RESPONSABILIDAD ADMINISTRATIVA
 
@@ -2485,9 +2485,9 @@ El Presidente Municipal, en sesión de Cabildo, tomará la protesta a los Agente
 
 En caso de renuncia, licencia, faltas temporales o definitivas de los Agentes y Subagentes se estará, en lo conducente, a lo dispuesto por esta ley para el caso de los Ediles.
 
-> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO, G.O. 4 DE AGOSTO DE 2011)</small>
 
-El Congreso del Estado o la Diputación Permanente resolverá todos los casos de impedimentos por los cuales no pudieren desempeñar el cargo la persona o personas electas.
+El Tribunal Electoral del Poder Judicial del Estado resolverá todos los casos de impedimentos por los cuales no pudieren desempeñar el cargo la persona o personas electas.
 
 ###### Artículo 173.
 
@@ -2505,9 +2505,9 @@ I. Los Ayuntamientos serán responsables en la preparación, desarrollo y vigila
 
 II. El Congreso del Estado o la Diputación Permanente, sancionará y aprobará los procedimientos de elección de los Agentes y Subagentes municipales señalados en la convocatoria que al efecto expidan los Ayuntamientos;
 
-> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADA, G.O. 4 DE AGOSTO DE 2011)</small>
 
-III. El Congreso o, en su caso, la Diputación Permanente resolverá sobre aquellas circunstancias que sean motivo de impugnación respecto al resultado en la aplicación de los procedimientos de elección o por motivo de inelegibilidad de los candidatos, por los que no pudiera desempeñar su cargo algún agente o subagente municipal;
+III. El Tribunal Electoral del Poder Judicial del Estado resolverá sobre aquellas circunstancias que sean motivo de impugnación respecto al resultado en la aplicación de los procedimientos de elección o por motivo de inelegibilidad de los candidatos, por los que no pudiera desempeñar su cargo algún agente o subagente municipal;
 
 IV. Los Ayuntamientos, dentro de un plazo no mayor de veinte días contados a partir de su instalación, deberán celebrar la sesión de cabildo para aprobar los procedimientos de elección que se aplicarán en la elección de Agentes y Subagentes municipales en cada una de las congregaciones y comunidades que integren su territorio, así como la convocatoria respectiva, la que deberán remitir al Congreso del Estado, dentro de un plazo no mayor a las 48 horas siguientes a la celebración de la sesión de cabildo;
 
@@ -2519,9 +2519,9 @@ V. Aprobada la convocatoria por el Congreso del Estado o la Diputación Permanen
 
 VI. Dentro de los tres días siguientes a la publicación de la convocatoria, el Ayuntamiento, y el Congreso del Estado o la Diputación Permanente, designarán a los integrantes de la Junta Municipal Electoral que será el órgano responsable de la aplicación de los procedimientos de elección, dentro de sus respectivos municipios, conforme a lo dispuesto en esta ley y demás disposiciones relativas. El representante del Ayuntamiento fungirá como Presidente de la Junta; el representante del Congreso del Estado, como Secretario; y el Vocal de Control y Vigilancia del Consejo de Desarrollo Municipal, como Vocal; todos ellos tendrán voz y voto; y
 
-> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADA, G.O. 4 DE AGOSTO DE 2011)</small>
 
-VII. Las inconformidades que se presenten durante el proceso de elección de agentes y subagentes municipales serán resueltas en definitiva por el Congreso del Estado o la Diputación Permanente.
+VII. Las inconformidades que se presenten durante el proceso de elección de agentes y subagentes municipales serán resueltas en definitiva por el Tribunal Electoral del Poder Judicial del Estado.
 
 ###### Artículo 175.
 
@@ -2543,9 +2543,9 @@ VI. Designar a los integrantes de las mesas directivas de casillas;
 
 VII. Nombrar a los auxiliares que sean necesarios para el ejercicio de sus funciones;
 
-> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADA, G.O. 4 DE AGOSTO DE 2011)</small>
 
-VIII. Solicitar al Instituto Electoral Veracruzano, las listas nominales necesarias para la elección;
+VIII. Gestionar oportunamente ante el Instituto Electoral Veracruzano, previo convenio de colaboración que éste celebre con el Instituto Federal Electoral, las listas nominales de electores, necesarias para aplicar el procedimiento de voto secreto en las congregaciones o rancherías;
 
 IX. Entregar a los presidentes de las mesas directivas de casilla, las boletas, documentación, material de papelería y útiles necesarios para la elección;
 
@@ -2565,9 +2565,9 @@ a) Vigilar el cumplimiento de las disposiciones legales aplicables al proceso de
 
 b) Convocar y presidir las reuniones de la Junta Municipal Electoral;
 
-> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO, G.O. 4 DE AGOSTO DE 2011)</small>
 
-c) Remitir los informes que le sean solicitados por el Ayuntamiento y el Congreso del Estado o la Diputación Permanente;
+c) Remitir los informes que le sean solicitados por el Ayuntamiento, el Congreso del Estado o la Diputación Permanente y el Tribunal Electoral del Poder Judicial del Estado;
 
 d) Presentar a la Junta Municipal Electoral el proyecto de ubicación e integración de las mesas de casillas; y
 
@@ -2603,9 +2603,9 @@ e) Las demás que le sean conferidas por la Junta y esta Ley.
 
 Cuando los procedimientos a aplicarse sean la auscultación o la consulta ciudadana, se deberá observar lo siguiente:
 
-> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADA, G.O. 4 DE AGOSTO DE 2011)</small>
 
-I. En el caso de la auscultación y no habiendo oposición determinante, la Junta Municipal Electoral correspondiente levantará las actas circunstanciadas respectivas, así como el informe sobre la situación que prevalezca en la congregación o comunidad, enviándolo al Ayuntamiento para la calificación respectiva y la expedición de las constancias a quienes hayan resultado electos y, en su caso, al Congreso del Estado para que se resuelva en definitiva;
+I. En el caso de la auscultación y no habiendo oposición determinante, la Junta Municipal Electoral correspondiente levantará las actas circunstanciadas respectivas, así como el informe sobre la situación que prevalezca en la congregación o comunidad, enviándolo al Ayuntamiento para la calificación respectiva y la expedición de las constancias a quienes hayan resultado electos y, en su caso, al Tribunal Electoral del Poder Judicial del Estado para que se resuelva en definitiva; y
 
 II. Tratándose de la aplicación de la consulta ciudadana, en la misma convocatoria deberá señalarse fecha, hora y lugar en que habrá de realizarse la reunión de vecinos de la localidad que corresponda, debiéndose nombrar la representación o comisión de la Junta Municipal Electoral, que será la encargada de sancionar el procedimiento. Al término de la consulta ciudadana, se procederá conforme a la fracción anterior.
 
@@ -2625,7 +2625,9 @@ La recepción de la votación, así como el escrutinio y cómputo de la misma, s
 
 Una vez realizada la elección, la Junta Municipal Electoral procederá a realizar el cómputo de la elección de cada localidad en que se aplicó el procedimiento de voto secreto, debiendo realizarlo a más tardar al día siguiente de la conclusión de la jornada electoral.
 
-Concluido el cómputo integrará el expediente respectivo, acompañando en su caso, los recursos interpuestos, remitiéndolos al Ayuntamiento que corresponda para que declare la validez de la elección y expida las constancias de mayoría, entregándolas a los candidatos que resulten electos y en su caso, remita al Congreso del Estado para su resolución.
+> <small>(REFORMADO, G.O. 4 DE AGOSTO DE 2011)</small>
+
+Concluido el cómputo integrará el expediente respectivo, acompañando, en su caso, los recursos interpuestos, remitiéndolos al Ayuntamiento que corresponda para que declare la validez de la elección y expida las constancias de mayoría, entregándolas a los candidatos que resulten electos y, en su caso, remita al Tribunal Electoral del Poder Judicial del Estado para su resolución.
 
 ###### Artículo 181.
 
@@ -2641,7 +2643,9 @@ Concluido el cómputo integrará el expediente respectivo, acompañando en su ca
 
 Las inconformidades deberán presentarse dentro de los cuatro días siguientes, a partir del momento que concluya la elección o el cómputo respectivo, término que deberá señalarse en la convocatoria emitida por el Ayuntamiento.
 
-Transcurrido este plazo, si se recibiera alguna impugnación, ésta será remitida con el expediente relativo durante las cuarenta y ocho horas siguientes, al Congreso del Estado o Diputación Permanente.
+> <small>(REFORMADO, G.O. 4 DE AGOSTO DE 2011)</small>
+
+Transcurrido este plazo, si se recibiere alguna impugnación, ésta será remitida con el expediente relativo durante las cuarenta y ocho horas siguientes, al Tribunal Electoral del Poder Judicial del Estado.
 
 ###### Artículo 184.
 
@@ -2655,7 +2659,7 @@ La elección de Agentes y Subagentes municipales, es un proceso que se realizar�
 
 ### CAPÍTULO I
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, G.O. 15 DE FEBRERO DE 2010)</small>
 
@@ -2725,7 +2729,7 @@ El Síndico del Ayuntamiento entrante levantará acta circunstanciada de la entr
 
 El Síndico del Ayuntamiento deberá remitir copia certificada del acta de entrega y recepción al Órgano de Fiscalización Superior.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 21 DE JULIO DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 21 DE JULIO DE 2010)</small>
 
 ###### Artículo 189.
 
@@ -2739,19 +2743,19 @@ Sometido a su consideración el dictamen, el Ayuntamiento emitirá el acuerdo co
 
 El Ayuntamiento dentro de los quince días hábiles siguientes, remitirá copia del expediente de entrega y recepción al Congreso del Estado para el efecto de revisión de las cuentas públicas municipales.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE TITULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE TÍTULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(ADICIONADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, G.O. 15 DE FEBRERO DE 2010)</small>
+> <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, G.O. 15 DE FEBRERO DE 2010)</small>
 
 ## TÍTULO DÉCIMO. DE LA PLANEACIÓN MUNICIPAL Y DE LA CONTRALORÍA SOCIAL
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.O. 15 DE FEBRERO DE 2010)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 15 DE FEBRERO DE 2010)</small>
 
 ### CAPÍTULO II
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, G.O. 15 DE FEBRERO DE 2010)</small>
 
@@ -2759,7 +2763,7 @@ El Ayuntamiento dentro de los quince días hábiles siguientes, remitirá copia 
 
 El Consejo de Planeación para el Desarrollo Municipal es un órgano de participación ciudadana y consulta, auxiliar del Ayuntamiento en las funciones relativas a la planeación, integrado por ciudadanos distinguidos y organizaciones sociales, representativas de los sectores público, social y privado del municipio, designados por el Cabildo, a propuesta del Presidente Municipal.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, G.O. 15 DE FEBRERO DE 2010)</small>
 
@@ -2783,7 +2787,7 @@ VII. Emitir opinión respecto de las consultas que en las materias relacionadas 
 
 VIII. Formar comisiones de estudio sobre asuntos determinados, relacionados con la planeación municipal.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, G.O. 15 DE FEBRERO DE 2010)</small>
 
@@ -2793,7 +2797,7 @@ Los Ayuntamientos deberán elaborar, en forma democrática y participativa, sus 
 
 Los Planes Municipales de Desarrollo se publicarán en la Gaceta Oficial del estado.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, G.O. 15 DE FEBRERO DE 2010)</small>
 
@@ -2801,7 +2805,7 @@ Los Planes Municipales de Desarrollo se publicarán en la Gaceta Oficial del est
 
 La formulación, aprobación, ejecución, control y evaluación del Plan y Programas Municipales estarán a cargo de los órganos, dependencias o servidores públicos que determinen los Ayuntamientos, conforme a las normas legales de la materia y las que cada Cabildo determine.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, G.O. 15 DE FEBRERO DE 2010)</small>
 
@@ -2819,7 +2823,7 @@ IV. Vincular el Plan de Desarrollo Municipal con los Planes de Desarrollo Federa
 
 V. Aplicar de manera racional los recursos financieros para el cumplimiento del Plan y sus programas de desarrollo.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, G.O. 15 DE FEBRERO DE 2010)</small>
 
@@ -2827,7 +2831,7 @@ V. Aplicar de manera racional los recursos financieros para el cumplimiento del 
 
 El Plan de Desarrollo Municipal contendrá, por lo menos, un diagnóstico sobre las condiciones económicas y sociales del municipio, las metas a alcanzar, las estrategias a seguir, los plazos de ejecución, las dependencias, entidades y organismos responsables de su cumplimiento y las bases de coordinación y concertación que se requieran para su ejecución y cumplimiento, de conformidad con lo establecido en la ley de la materia.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, G.O. 15 DE FEBRERO DE 2010)</small>
 
@@ -2835,7 +2839,7 @@ El Plan de Desarrollo Municipal contendrá, por lo menos, un diagnóstico sobre 
 
 El Plan de Desarrollo Municipal se complementará con programas anuales sectoriales de la administración municipal y, en su caso, con los programas especiales de los organismos desconcentrados y descentralizados de carácter municipal.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, G.O. 15 DE FEBRERO DE 2010)</small>
 
@@ -2843,7 +2847,7 @@ El Plan de Desarrollo Municipal se complementará con programas anuales sectoria
 
 Los Ayuntamientos, en términos de esta Ley y demás disposiciones aplicables, podrán convenir con los de otros municipios del Estado o de otras Entidades Federativas, la elaboración conjunta de planes de desarrollo para las regiones en las que se ubiquen.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, G.O. 15 DE FEBRERO DE 2010)</small>
 
@@ -2851,7 +2855,7 @@ Los Ayuntamientos, en términos de esta Ley y demás disposiciones aplicables, p
 
 En la elaboración del Plan de Desarrollo Municipal, cada Ayuntamiento proveerá lo necesario para promover la participación y consulta popular.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, G.O. 15 DE FEBRERO DE 2010)</small>
 
@@ -2859,7 +2863,7 @@ En la elaboración del Plan de Desarrollo Municipal, cada Ayuntamiento proveerá
 
 El Plan de Desarrollo Municipal y los programas que de éste se deriven, serán obligatorios para las dependencias de la administración pública municipal, y en general para las entidades públicas de carácter municipal.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, G.O. 15 DE FEBRERO DE 2010)</small>
 
@@ -2867,15 +2871,15 @@ El Plan de Desarrollo Municipal y los programas que de éste se deriven, serán 
 
 Los planes y programas podrán ser modificados mediante el mismo procedimiento requerido para su elaboración, aprobación y publicación, cuando así lo demande el interés ciudadano o las necesidades de carácter técnico o económico.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.O. 15 DE FEBRERO DE 2010)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 15 DE FEBRERO DE 2010)</small>
 
 ###### Artículo 202.
 
 Los Ayuntamientos promoverán la constitución de Comités de Contraloría Social, que serán responsables de supervisar la obra pública municipal. Para cada obra se constituirá un Comité de Contraloría Social, salvo que las características técnicas o las dimensiones de la obra exijan la integración de más de uno.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, G.O. 15 DE FEBRERO DE 2010)</small>
 
@@ -2885,7 +2889,7 @@ Los Comités de Contraloría Social estarán integrados por tres vecinos de la l
 
 El cargo de integrante del Comité será honorífico. No podrán ser integrantes de los Comités los dirigentes de organizaciones políticas o servidores públicos.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, G.O. 15 DE FEBRERO DE 2010)</small>
 
@@ -2915,7 +2919,7 @@ IX. Promover el adecuado mantenimiento de la obra pública ante las autoridades 
 
 Primero. La presente Ley entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Estado.
 
-Segundo. Se abroga la Ley Orgánica del Municipio Libre, promulgada el nueve de febrero de mil novecientos ochenta y cuatro.
+Segundo. Se deroga la Ley Orgánica del Municipio Libre, promulgada el nueve de febrero de mil novecientos ochenta y cuatro.
 
 Tercero. De conformidad con el artículo séptimo transitorio de la Ley que reformó y derogó diversas disposiciones de la Constitución Política del Estado, la duración del ejercicio constitucional de los Ayuntamientos electos en el proceso electoral del año dos mil será, por única vez, de cuatro años, iniciando sus funciones el primero de enero del año dos mil uno para concluirlas el treinta y uno de diciembre del año dos mil cuatro.
 
@@ -2943,7 +2947,7 @@ Sufragio Efectivo. No reelección
 
 Licenciado Miguel Alemán Velazco, Gobernador del Estado.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 G.O. 12 DE OCTUBRE DE 2001.
 
@@ -3091,7 +3095,7 @@ Segundo. Los procedimientos de revocación o suspensión del mandato de los edil
 
 G.O. 15 DE AGOSTO DE 2007.
 
-LA MODIFICACION CON ANTELACION CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 2 DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE VERACRUZ.
+LA MODIFICACIÓN CON ANTELACIÓN CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTICULO 2 DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE VERACRUZ.
 
 G.O. 7 DE ENERO DE 2009.
 
@@ -3107,7 +3111,7 @@ Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 G.O. 15 DE FEBRERO DE 2010.
 
-DECRETO No. 810, POR EL QUE SE REFORMAN Y ADICIONAN DIVERSOS PRECEPTOS DE LA LEY ORGANICA DEL MUNICIPIO LIBRE.
+DECRETO No. 810, POR EL QUE SE REFORMAN Y ADICIONAN DIVERSOS PRECEPTOS DE LA LEY ORGÁNICA DEL MUNICIPIO LIBRE.
 
 Artículo primero. El presente Decreto entrará en vigor el día primero de enero de 2011.
 
@@ -3115,7 +3119,7 @@ Artículo segundo. Se derogan todas las disposiciones que se opongan al presente
 
 G.O. 15 DE FEBRERO DE 2010.
 
-DECRETO No. 811, POR EL QUE SE REFORMA LA FRACCION III DEL ARTICULO 36 DE LA LEY ORGANICA DEL MUNICIPIO LIBRE.
+DECRETO No. 811, POR EL QUE SE REFORMA LA FRACCIÓN III DEL ARTÍCULO 36 DE LA LEY ORGÁNICA DEL MUNICIPIO LIBRE.
 
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial.
 
@@ -3123,7 +3127,7 @@ Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 G.O. 15 DE FEBRERO DE 2010.
 
-DECRETO No. 812, POR EL QUE SE ADICIONA LA FRACCION XIX AL ARTICULO 40, Y EL ARTICULO 60 QUATER A LA LEY ORGANICA DEL MUNICIPIO LIBRE.
+DECRETO No. 812, POR EL QUE SE ADICIONA LA FRACCIÓN XIX AL ARTÍCULO 40, Y EL ARTÍCULO 60 QUÁTER A LA LEY ORGÁNICA DEL MUNICIPIO LIBRE.
 
 Primero. El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
 
@@ -3131,7 +3135,7 @@ Segundo. Se derogan todas aquellas disposiciones que se opongan al presente Decr
 
 G.O. 15 DE FEBRERO DE 2010.
 
-DECRETO No. 813, POR EL QUE SE REFORMAN Y ADICIONAN LOS ARTICULOS 9, 24, 25, 35, 36, 43, 72 Y 115 DE LA LEY ORGANICA DEL MUNICIPIO LIBRE.
+DECRETO No. 813, POR EL QUE SE REFORMAN Y ADICIONAN LOS ARTÍCULOS 9, 24, 25, 35, 36, 43, 72 Y 115 DE LA LEY ORGÁNICA DEL MUNICIPIO LIBRE.
 
 Primero. El presente Decreto iniciará su vigencia al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
 
@@ -3151,7 +3155,7 @@ Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto
 
 G.O. 10 DE MAYO DE 2010.
 
-DECRETO NUMERO 828, POR EL QUE SE ADICIONAN LAS FRACCIONES XLIX AL ARTICULO 35; Y II AL ARTICULO 50, DE LA LEY ORGANICA DEL MUNICIPIO LIBRE.
+DECRETO NÚMERO 828, POR EL QUE SE ADICIONAN LAS FRACCIONES XLIX AL ARTÍCULO 35; Y II AL ARTÍCULO 50, DE LA LEY ORGÁNICA DEL MUNICIPIO LIBRE.
 
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
 
@@ -3159,7 +3163,7 @@ Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 G.O. 10 DE MAYO DE 2010.
 
-DECRETO NUMERO 829, POR EL QUE SE ADICIONA LA FRACCION II AL ARTICULO 55, DE LA LEY ORGANICA DEL MUNICIPIO LIBRE.
+DECRETO NÚMERO 829, POR EL QUE SE ADICIONA LA FRACCIÓN II AL ARTÍCULO 55, DE LA LEY ORGÁNICA DEL MUNICIPIO LIBRE.
 
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
 
@@ -3192,3 +3196,19 @@ G.O. 31 DE DICIEMBRE 2010.
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
 
 Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 4 DE AGOSTO DE 2011.
+
+DECRETO NÚMERO 280 POR EL QUE SE REFORMAN LOS ARTÍCULOS 172, ÚLTIMO PÁRRAFO, 174, FRACCIONES III Y VII, 176, FRACCIÓN I INCISO C), 177, FRACCIÓN I, 180, SEGUNDO PÁRRAFO, Y 183, SEGUNDO PÁRRAFO, DE LA LEY ORGÁNICA DEL MUNICIPIO LIBRE.
+
+Artículo Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Estado.
+
+Artículo Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 4 DE AGOSTO DE 2011.
+
+DECRETO NÚMERO 281 POR EL QUE REFORMA EL ARTÍCULO 175, FRACCIÓN VIII, DE LA LEY ORGÁNICA DEL MUNICIPIO LIBRE.
+
+Artículo Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Estado.
+
+Artículo Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
