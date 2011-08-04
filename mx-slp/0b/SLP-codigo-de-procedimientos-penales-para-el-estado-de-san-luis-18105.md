@@ -4,7 +4,7 @@ identifier: "SLP-codigo-de-procedimientos-penales-para-el-estado-de-san-luis-181
 country: "mx"
 rank: "codigo"
 publication_date: "2000-09-30"
-last_updated: "2011-07-30"
+last_updated: "2011-08-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18105&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE SAN LUIS POTOSI
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE JULIO DE 2011.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE AGOSTO DE 2011.
 
 Código publicado en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 30 de septiembre de 2000.
 
@@ -87,7 +87,9 @@ VIII. Acordar y notificar al ofendido o la víctima el no ejercicio de la acció
 
 IX. Conceder cuando proceda, la libertad provisional del inculpado;
 
-X. Procurar la conciliación de los interesados, en los términos del artículo 156 de este Código, y
+> <small>(REFORMADA, P.O. 4 DE AGOSTO DE 2011)</small>
+
+X. Procurar la conciliación de los interesados, en los términos del artículo 155 de este Código, y
 
 XI. Las demás que señalen las leyes.
 
@@ -733,9 +735,11 @@ El cuerpo del delito de los delitos de robo, fraude, abuso de confianza, abigeat
 
 Cuando tratándose de delito de ataques a las vías de comunicación, no fuere posible practicar inspección porque para evitar perjuicios al servicio público haya sido necesario repararlas inmediatamente, el cuerpo del delito se podrá comprobar con las demás pruebas practicables.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE AGOSTO DE 2011)</small>
+
 ###### ARTICULO 116.
 
-Para integrar el cuerpo del delito de violencia familiar, deberán acreditarse las calidades especificas y circunstancias de los sujetos señalados en los artículos 177 y 178 del Código Penal del Estado, además de agregarse a la averiguación previa los dictámenes correspondientes de los peritos en el área de salud física y mental, según lo contempla el artículo 247 y demás relativos de este Ordenamiento.
+Para integrar el cuerpo del delito de violencia familiar, deberán acreditarse las calidades especificas y circunstancias de los sujetos señalados en los artículos 177 y 178 del Código Penal del Estado, además de agregarse a la averiguación previa el dictamen médico o psicológico que acrediten el daño a la salud física o mental de la víctima, expedido por perito el correspondiente, de acuerdo a lo que dispone el artículo 247 y demás relativos de este Ordenamiento.
 
 Los profesionales que presten sus servicios en las instituciones legalmente constituidas, especializadas en atención de problemas relacionados con la violencia familiar, deberán rendir los informes por escrito que les sean solicitados por las autoridades. Asimismo, dichos profesionistas podrán colaborar en calidad de peritos, sujetándose a lo dispuesto por este Código.
 
@@ -1005,21 +1009,29 @@ Cuando el Ministerio Público encargado de practicar diligencias de averiguació
 
 Cuando en la integración de la averiguación previa se presuma que por el ejercicio de la profesión médica alguien esté involucrado en la comisión de un posible delito, el Ministerio Público pedirá opinión a los Servicios Coordinados de Salud Pública en el Estado.
 
-> <small>(REFORMADO, P.O. 21 DE ENERO DE 2011)</small>
+> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 2011)</small>
 
 ###### ARTICULO 155.
 
-Tratándose de delitos que se persigan por querella, el Ministerio Público actuará de acuerdo a lo que establece el artículo 24 de este Ordenamiento, y además deberá desahogar las siguientes diligencias:
+Tratándose de delitos que se persigan por querella, excepto el de violencia familiar, el Ministerio Público actuará de acuerdo a lo que establecen los artículos, 24 de este Ordenamiento; y 22, 23 y 24 del Código Penal del Estado; debiendo además desahogar las siguientes diligencias:
 
-I. Citar a los interesados a una audiencia para proponerles la resolución de su conflicto a través del procedimiento de conciliación, y
+I. Citar a los interesados a una audiencia para proponerles la resolución del conflicto a través de la conciliación;
 
-II. Instalados en la audiencia, el Ministerio Público procurará la conciliación de los interesados en el conflicto, levantando el acta respectiva.
+II. Procurar en la propia audiencia, la conciliación de los interesados en el conflicto, y
 
-Los interesados para realizar la conciliación deberán ser citados con las formalidades previstas en este Código. El agente del Ministerio Público deberá hacer constar el desahogo de la conciliación, agregando a la indagatoria los acuses de recibido de los citatorios y diligencias que evidencien la comparecencia o no de los mismos; podrá citar a los interesados cuantas veces sea necesario hasta antes del ejercicio de la acción penal. En caso de no asistir alguno de los interesados o de que no se llegue a una conciliación, previa constancia que se deje al efecto, el Ministerio Público continuará el procedimiento.
+III. Asentar, en su caso, los acuerdos que hayan celebrado los interesados.
+
+A petición de parte interesada, y previo a la formulación de querella, el Ministerio Público podrá citar a los interesados para conciliarlos.
+
+El agente del Ministerio Público citará a los interesados para realizar la conciliación, con las formalidades previstas en este Código; agregará los acuses de recibo de los citatorios y las diligencias que evidencien la comparecencia o no de los mismos.
+
+En caso de no asistir alguno de los interesados, o de que no se llegue a una conciliación, previa constancia que se deje al efecto, se continuará con el procedimiento. Antes del ejercicio de la acción penal, a petición de alguno de los interesados, el Ministerio Público podrá reiterar la invitación a la conciliación.
 
 Si se logra la conciliación de los interesados, el Ministerio Público decretará el no ejercicio de la acción penal.
 
-En el supuesto de que no sea posible llevar a cabo la conciliación ante el agente del Ministerio Público, de oficio la autoridad jurisdiccional deberá citar a los interesados para proponer la mediación o conciliación en cualquier estado del proceso y hasta antes de citación para sentencia, cuantas veces sea necesario.
+El trámite de la conciliación no es condicionante para el ejercicio de la acción penal.
+
+En el supuesto de que no sea posible llevar a cabo la conciliación ante el agente del Ministerio Público, de oficio la autoridad jurisdiccional deberá citar a los interesados para proponer la mediación o conciliación.
 
 ###### ARTICULO 156.
 
@@ -3781,17 +3793,23 @@ PRIMERO. Este Decreto en vigor al día siguiente de su publicación en el Perió
 
 SEGUNDO. Se derogan las disposiciones que se opongan a este Decreto.
 
-P.O. 30 DE JULIO DE 2011.
-
 DECRETO 705 POR EL QUE SE REFORMA EL ARTICULO 407 EN SU PARRAFO PRIMERO, DEL CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE SAN LUIS POTOSI.
+
+P.O. 30 DE JULIO DE 2011.
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
+DECRETO 708 POR EL QUE SE REFORMA EL ARTICULO 247 DEL CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE SAN LUIS POTOSI.
+
 P.O. 30 DE JULIO DE 2011.
 
-DECRETO 708 POR EL QUE SE REFORMA EL ARTICULO 247 DEL CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE SAN LUIS POTOSI.
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de San Luis Potosí.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan a éste.
+
+P.O. 4 DE AGOSTO DE 2011.
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de San Luis Potosí.
 
