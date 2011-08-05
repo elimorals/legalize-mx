@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-del-tribunal-federal-de-justicia-fiscal-708
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-11-13"
-last_updated: "2011-06-21"
+last_updated: "2011-08-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70849&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2009-11-11"
 
 REGLAMENTO INTERIOR DEL TRIBUNAL FEDERAL DE JUSTICIA FISCAL Y ADMINISTRATIVA
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 21 DE JUNIO DE 2011.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 5 DE AGOSTO DE 2011.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 13 de noviembre de 2009.
 
@@ -1319,33 +1319,57 @@ V. Evitar cualquier acción u omisión que, clara y evidentemente, afecte la bue
 
 ### Capítulo XII. Del Sistema de Control y Seguimiento de Juicios
 
-> <small>(REFORMADO, D.O.F. 21 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 5 DE AGOSTO DE 2011)</small>
 
 ###### Artículo 66.
 
-El registro y control de las demandas, promociones, acuerdos, sentencias y demás actuaciones jurisdiccionales que realicen el Pleno Jurisdiccional de la Sala Superior, las Secciones, las Salas Regionales, o las ponencias de los Magistrados Instructores en juicios que se tramiten en la vía sumaria, se efectuarán en forma electrónica, utilizando el Sistema de Control y Seguimiento de Juicios respecto de los juicios que se tengan registrados en él hasta que se concluyan totalmente, o bien, el Sistema de Justicia en Línea respecto de los juicios que ingresen al Tribunal a partir del 7 de agosto de 2011, sea que se tramiten en línea o en la vía tradicional, todo ello de acuerdo a lo siguiente:
+El registro y control de las demandas, promociones, acuerdos, sentencias y demás actuaciones jurisdiccionales que realicen el Pleno Jurisdiccional de la Sala Superior, las Secciones, las Salas Regionales, o las ponencias de los Magistrados Instructores en juicios que se tramiten en la vía sumaria, se efectuarán en forma electrónica, utilizando el Sistema de Control y Seguimiento de Juicios respecto de los juicios que se tengan registrados en él hasta que se concluyan totalmente, o bien, el Sistema de Justicia en Línea respecto de los juicios que ingresen al Tribunal a partir de la fecha que determine la Junta mediante Acuerdo General que expida para tal efecto, sea que se tramiten en línea o en la vía tradicional, todo ello de acuerdo a lo siguiente:
+
+> <small>(REFORMADA, D.O.F. 21 DE JUNIO DE 2011)</small>
 
 I. La Dirección General de Informática tendrá a su cargo la operación y mantenimiento del Sistema de Control y Seguimiento de Juicios y se coordinará con la Dirección General del Sistema de Justicia en Línea, para el análisis, diseño, construcción, operación y mantenimiento de dicho Sistema, así como para brindar la asesoría, capacitación y apoyo técnico a los usuarios del mismo, además propondrá a la Junta las modificaciones que se requieran para su mejor funcionamiento;
 
+> <small>(REFORMADA, D.O.F. 21 DE JUNIO DE 2011)</small>
+
 II. El Sistema de Control y Seguimiento de Juicios será utilizado exclusivamente por los servidores públicos del Tribunal, en la parte que les corresponda, conforme a lo previsto en el presente Reglamento y el Sistema de Justicia en Línea se utilizará en términos de los Lineamientos que para tal efecto emita la Junta;
+
+> <small>(REFORMADA, D.O.F. 21 DE JUNIO DE 2011)</small>
 
 III. La utilización de los Sistemas, así como de la información registrada en ellos, será de uso restringido y solamente los usuarios responsables y autorizados podrán hacer uso de los mismos para los fines establecidos en las leyes y dentro del marco de las atribuciones o derechos que su cargo, función o actividad les otorguen;
 
+> <small>(REFORMADA, D.O.F. 21 DE JUNIO DE 2011)</small>
+
 IV. Los Sistemas deberán contar con los mecanismos de seguridad necesarios para preservar la confidencialidad de la información registrada y sólo los usuarios responsables y autorizados para su operación, contarán con claves individuales para accesar a los mismos;
+
+> <small>(REFORMADA, D.O.F. 21 DE JUNIO DE 2011)</small>
 
 V. Los Magistrados de Sala Superior y los Presidentes de las Salas Regionales, solicitarán a la Dirección General de Informática o a la Dirección General del Sistema de Justicia en Línea, según el Sistema de que se trate, la asignación de claves a los servidores públicos que autorizan, para su acceso a los Sistemas;
 
+> <small>(REFORMADA, D.O.F. 21 DE JUNIO DE 2011)</small>
+
 VI. Los Magistrados Instructores supervisarán la correcta y oportuna captura de los datos a los Sistemas, correspondientes a las acciones realizadas por los servidores públicos que intervienen en su operación;
+
+> <small>(REFORMADA, D.O.F. 21 DE JUNIO DE 2011)</small>
 
 VII. El Secretario General de Acuerdos, los Secretarios Adjuntos de Acuerdos de Secciones, los Secretarios de Acuerdos de Sala Superior y de Sala Regional, los Coordinadores de Actuaría Común, los Oficiales de Partes, los Archivistas, Actuarios, y el personal de apoyo sustantivo del Pleno Jurisdiccional de la Sala Superior y de las Salas Regionales, deberán capturar los datos que requieran los Sistemas, en los términos previstos en este Reglamento;
 
+> <small>(REFORMADA, D.O.F. 21 DE JUNIO DE 2011)</small>
+
 VIII. Los Presidentes de las Salas Regionales deberán enviar en forma mensual a la Dirección General de Informática, a través de medios electrónicos, las copias de resoluciones y acuerdos de la actividad jurisdiccional, generados por los Magistrados Instructores integrantes de la Sala, respecto de los juicios que se registren y controlen a través del Sistema de Control y Seguimiento de Juicios;
+
+> <small>(REFORMADA, D.O.F. 21 DE JUNIO DE 2011)</small>
 
 IX. La estadística generada por los Sistemas a que se refiere el primer párrafo de este artículo, será la única fuente de información, oficialmente reconocida por el Tribunal y la base para el control y evaluación de sus actividades, y
 
+> <small>(REFORMADA, D.O.F. 21 DE JUNIO DE 2011)</small>
+
 X. Cualquier informe que la Sala Superior, el Presidente o los Magistrados visitadores requieran a las Salas Regionales, deberá obtenerse del Sistema correspondiente.
 
+> <small>(REFORMADO, D.O.F. 21 DE JUNIO DE 2011)</small>
+
 La Junta evaluará el Sistema de Control y Seguimiento de Juicios así como el Sistema de Justicia en Línea y, en su caso, autorizará las propuestas de adecuaciones necesarias para optimizar su operación.
+
+> <small>(REFORMADO, D.O.F. 21 DE JUNIO DE 2011)</small>
 
 En caso de ser necesario corregir la información contenida en los Sistemas respectivos, las Salas Regionales deberán solicitarlo a la Junta, por conducto de la Unidad de Preparación y Seguimiento de Visitas, mediante escrito en el que motiven su petición y una vez autorizada, las Direcciones Generales del Sistema de Justicia en Línea o de Informática, según corresponda, podrán efectuar la corrección.
 
@@ -2336,3 +2360,9 @@ SEGUNDO.- Quedan sin efecto todas las disposiciones administrativas emitidas por
 TERCERO.- Cuando la competencia de alguna de las áreas o unidades administrativas establecidas con anterioridad a la vigencia de estas reformas deba ser ejercida por otra u otras unidades que el mismo establece; los recursos humanos, materiales y financieros con que aquélla contaba, pasarán a la unidad o unidades administrativas competentes, distribuyéndose en su caso, para el ejercicio de las atribuciones que a cada una corresponda.
 
 CUARTO.- Los asuntos que a la entrada en vigor de esta reforma deban pasar de una unidad administrativa a otra u otras, continuarán su trámite y serán resueltas por aquélla o aquéllas unidades a las que se les haya atribuido la competencia en el presente Reglamento.
+
+D.O.F. 5 DE AGOSTO DE 2011.
+
+PRIMERO.- El presente Acuerdo entrará en vigor el día de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Quedan sin efecto todas las disposiciones administrativas emitidas por el Tribunal que contravengan lo establecido en el presente ordenamiento.
