@@ -4,7 +4,7 @@ identifier: "NLE-constitucion-politica-del-estado-libre-y-soberano-de-nuevo-7472
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-12-16"
-last_updated: "2011-03-31"
+last_updated: "2011-08-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7472&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE MARZO DE 2011.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE AGOSTO DE 2011.
 
 Constitución publicada en el Periódico Oficial del Estado de Nuevo León, el domingo 16 de diciembre de 1917.
 
@@ -543,7 +543,9 @@ El Congreso del Estado concluirá la revisión de las Cuentas Públicas a más t
 
 El Informe de Resultados de la revisión de la Cuenta Pública que rinda la Auditoría Superior del Estado, será de carácter público a partir de su presentación al Congreso del Estado así como los dictámenes de aprobación o rechazo.
 
-XIV.- Promover e impulsar la educación pública y el engrandecimiento de todos los ramos de prosperidad en general.
+> <small>(REFORMADA, P.O. 5 DE AGOSTO DE 2011)</small>
+
+XIV.- Promover e impulsar la educación pública, la cultura física, el deporte, y el engrandecimiento de todos los ramos de prosperidad en general;
 
 > <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 1996)</small>
 
@@ -2025,15 +2027,13 @@ Esta Constitución será protestada por los Diputados, el Gobernador y los Magis
 
 Continúan en vigor todas las leyes y decretos existentes, en cuanto no se opongan a esta Constitución.
 
-###### Art. 3o.
-
-El censo electoral a que se refiere el art. 45 se levantará desde la próxima elección de Gobernador.
-
 ###### Art. 1o.
 
 El Pueblo nuevoleonés reconoce que los derechos del ser humano son la base y el objeto de las instituciones sociales. Todas las leyes y todas las autoridades del Estado deben respetar y hacer respetar las garantías que otorga la presente Constitución.
 
-Queda prohibida toda discriminación motivada por origen étnico o nacional, género, edad, capacidades diferentes, condición social, condiciones de salud, religión, opiniones, preferencias, estado civil o cualquier otra que atente contra la dignidad humana y tenga por objeto anular o menoscabar sus derechos y libertades.
+> <small>(REFORMADO, P.O. 5 DE AGOSTO DE 2011)</small>
+
+Queda prohibida toda discriminación motivada por origen étnico o nacional, género, edad, capacidades diferentes, condición social, condiciones de salud, embarazo, religión, opiniones, preferencias, estado civil o cualquier otra que atente contra la dignidad humana y tenga por objeto anular o menoscabar sus derechos y libertades.
 
 El varón y la mujer son iguales ante la Ley. Ésta protegerá la integración y el desarrollo de la familia. Cuando la terminología de género empleada en las disposiciones de observancia general sea en masculino, deberá entenderse que se refieren tanto al varón como a la mujer, salvo disposición expresa en contrario.
 
@@ -2043,31 +2043,19 @@ Toda persona tiene derecho a decidir de manera libre, responsable e informada so
 
 En el Estado todos nacen libres. Los esclavos que pisen el territorio del Estado recobran por ese solo hecho su libertad y tienen derecho (sic) la protección de las Leyes.
 
-> <small>(ADICIONADO PRIMER PARRAFO, P.O. 7 DE OCTUBRE DE 1987)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE AGOSTO DE 2011)</small>
 
 ###### Art. 3.
 
-La enseñanza es libre, pero será laica la que se dé en los establecimientos oficiales de educación, lo mismo que la enseñanza primaria, elemental y superior que se imparta en los establecimientos particulares.
-
-Ninguna corporación religiosa, ni Ministro de algún culto, podrán establecer o dirigir escuelas de instrucción primaria.
-
-Las escuelas primarias particulares sólo podrán establecerse sujetándose a la vigilancia e inspección oficiales.
-
-En los establecimientos oficiales se impartirá gratuitamente la enseñanza primaria.
-
-> <small>(ADICIONADO PRIMER PARRAFO, P.O. 14 DE SEPTIEMBRE DE 1979)</small>
-
-###### Art. 3o.
-
-Toda persona tiene derecho a la protección de la salud. La ley establecerá las bases y modalidades para el acceso a los servicios de salud y determinará la participación del Estado y sus Municipios en la materia.
+Toda persona tiene derecho a la protección de la salud y a una alimentación sana y suficiente que propicie un desarrollo físico e intelectual. La Ley establecerá las bases y modalidades para el acceso a los servicios de salud y garantizará el acceso a la sana alimentación a través de políticas públicas, así mismo determinará la participación del Estado y Municipios en la materia.
 
 > <small>(ADICIONADO, P.O. 22 DE NOVIEMBRE DE 1995)</small>
 
 Todos los habitantes tienen el derecho a disfrutar de un medio ambiente adecuado para el desarrollo de la persona, así como del deber de conservarlo. Los Poderes del Estado, en forma coordinada con la ciudadanía, velarán por la conservación de los recursos naturales, así como su uso y explotación; a proteger y mejorar la calidad de vida, tanto como defender y restaurar el medio ambiente, en forma solidaria en el logro de estos objetivos de orden superior.
 
-> <small>(REFORMADO, P.O. 30 DE MARZO DE 2010)</small>
+> <small>(REFORMADO, P.O. 5 DE AGOSTO DE 2011)</small>
 
-La niñez tiene derecho a una vida sana, a la satisfacción de sus necesidades de salud, alimentación, educación, sano esparcimiento, a la preparación para el trabajo y a llevar una vida digna y libre de violencia, para su desarrollo integral. El Estado proveerá lo necesario y expedirá leyes y normas para garantizar el acceso y goce pleno de todos sus derechos, tomando como consideración fundamental que siempre se atenderá al interés superior de la niñez.
+La niñez tiene derecho a una vida sana, a la satisfacción de sus necesidades de salud, alimentación, educación, sano esparcimiento, a la preparación para el trabajo y a llevar una vida digna y libre de violencia, para su desarrollo integral, así como a la convivencia familiar. El Estado proveerá lo necesario y expedirá leyes y normas para garantizar el acceso y goce pleno de todos sus derechos, tomando como consideración fundamental que siempre se atenderá al interés superior de la niñez.
 
 > <small>(REFORMADO, P.O. 14 DE JULIO DE 2004)</small>
 
@@ -2093,7 +2081,15 @@ La educación que imparta el Estado, será gratuita y tenderá a desarrollar arm
 
 Además de impartir la educación básica obligatoria, el Estado promoverá y atenderá la educación inicial y la educación superior, así como todos los tipos y modalidades educativas que coadyuven al desarrollo del individuo.
 
+> <small>(ADICIONADO, P.O. 5 DE AGOSTO DE 2011)</small>
+
+Toda persona tiene derecho a la cultura física y a la práctica del deporte. Corresponde al Estado su promoción, fomento y estímulo conforme a las Leyes de la materia.
+
 > <small>(ADICIONADO PRIMER PARRAFO, P.O. 14 DE SEPTIEMBRE DE 1979)</small>
+
+###### Art. 3o.
+
+El censo electoral a que se refiere el art. 45 se levantará desde la próxima elección de Gobernador.
 
 ###### Art. 4o.
 
@@ -2805,7 +2801,7 @@ P.O. 1 DE ENERO DE 1979.
 
 DECRETO NÚMERO 205.
 
-UNICO:- El presente Decreto entrará en vigor al día de su publicación en el Periódico Oficial del Estado.
+UNICO:- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
 
 P.O. 3 DE ENERO DE 1979.
 
@@ -2909,7 +2905,7 @@ UNICO:- ESTE DECRETO ENTRARA EN VIGOR EL DIA SIGUIENTE DE SU PUBLICACION EN EL P
 
 P.O. 28 DE DICIEMBRE DE 1984.
 
-PRIMERO.- Como consecuencia de esta Reforma Constitucional, el Reglamento vigente para el Gobierno Interior del Honorable Congreso del Estado, aprobado por el Decreto No. 101 de fecha 29 de mayo de 1958, tendrá carácter de Ley Orgánica del Poder Legislativo y expresamente se aprueba la modificación del título.
+PRIMERO.- Como consecuencia de esta Reforma Constitucional, el Reglamento vigente para el Gobierno Interior del Honorable Congreso del Estado, aprobado por Decreto No. 101 de fecha 29 de mayo de 1958, tendrá carácter de Ley Orgánica del Poder Legislativo y expresamente se aprueba la modificación del título.
 
 SEGUNDO.- El presente Decreto entrará en vigor el día primero de enero de 1985, previa la publicación en el Periódico Oficial del Estado.
 
@@ -3442,3 +3438,27 @@ Tercero.- Los hechos que se atribuyan delictuosos cometidos sin que se hubiere i
 Cuarto.- El nuevo sistema de reinserción previsto en el párrafo segundo del artículo 17, así como el régimen modificación y duración de penas establecido en el párrafo tercero del artículo 25 de la Constitución Política del Estado Libre y Soberano de Nuevo León, entrará en vigor cuando lo establezca el Decreto que expida la ley de la materia en la entidad.
 
 Quinto.- Las disposiciones relacionadas en la materia de delincuencia organizada continuarán en vigor hasta en tanto el Congreso de la Unión ejerza la facultad conferida en el artículo 73, fracción XXI, de la Constitución Política de los Estados Unidos Mexicanos.
+
+P.O. 5 DE AGOSTO DE 2011.
+
+DECRETO NUMERO 224 POR EL QUE SE REFORMA EL PRIMER PARRAFO DEL ARTICULO 3 DE LA CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE NUEVO LEON.
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 5 DE AGOSTO DE 2011.
+
+DECRETO NUMERO 225 POR EL QUE SE REFORMA LA FRACCION XIV DEL ARTICULO 63 Y SE ADICIONA UN ULTIMO PARRAFO AL ARTICULO 3, AMBOS DE LA CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE NUEVO LEON.
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su Publicación en el Periódico Oficial del Estado.
+
+P.O. 5 DE AGOSTO DE 2011.
+
+DECRETO NUMERO 231 POR EL QUE SE REFORMA EL PARRAFO SEGUNDO DEL ARTICULO 1 DE LA CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE NUEVO LEON.
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 5 DE AGOSTO DE 2011.
+
+DECRETO NUMERO 232 POR EL QUE SE REFORMA EL PARRAFO TERCERO DEL ARTICULO 3 DE LA CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE NUEVO LEON.
+
+Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
