@@ -4,7 +4,7 @@ identifier: "LDCMPME"
 country: "mx"
 rank: "ley"
 publication_date: "2002-12-30"
-last_updated: "2006-06-06"
+last_updated: "2011-08-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26811&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LDCMPME"
 
 LEY PARA EL DESARROLLO DE LA COMPETITIVIDAD DE LA MICRO, PEQUEÑA Y MEDIANA EMPRESA
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 6 DE JUNIO DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 5 DE AGOSTO DE 2011.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el lunes 30 de diciembre de 2002.
 
@@ -53,6 +53,10 @@ La Ley es de observancia general en toda la República y sus disposiciones son d
 La autoridad encargada de la aplicación de esta Ley es la Secretaría de Economía quien, en el ámbito de su competencia, celebrará convenios para establecer los procedimientos de coordinación en materia de apoyo a la micro, pequeña y mediana empresa, entre las Autoridades Federales, Estatales, del Distrito Federal y Municipales, para propiciar la planeación del desarrollo integral de cada Entidad Federativa, del Distrito Federal y de los Municipios, en congruencia con la planeación nacional.
 
 La Secretaría de Economía en el ámbito de su competencia, podrá convenir con particulares para concertar las acciones necesarias para la coordinación en materia de apoyos a la micro, pequeña y mediana empresa.
+
+> <small>(ADICIONADO, D.O.F. 5 DE AGOSTO DE 2011)</small>
+
+El presupuesto de egresos de la Federación que se destina para apoyar a la micro, pequeña y mediana empresa no podrá ser inferior, en términos reales, al presupuesto autorizado en el ejercicio fiscal anterior.
 
 ###### Artículo 3.
 
@@ -461,3 +465,7 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 D.O.F. 6 DE JUNIO DE 2006.
 
 Artículo Unico. El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 5 DE AGOSTO DE 2011.
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
