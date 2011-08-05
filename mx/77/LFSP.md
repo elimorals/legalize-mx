@@ -4,7 +4,7 @@ identifier: "LFSP"
 country: "mx"
 rank: "ley_federal"
 publication_date: "2006-07-06"
-last_updated: "2011-01-27"
+last_updated: "2011-08-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50960&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LFSP"
 
 LEY FEDERAL DE SEGURIDAD PRIVADA
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 27 DE ENERO DE 2011.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 5 DE AGOSTO DE 2011.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el jueves 6 de julio de 2006.
 
@@ -91,6 +91,30 @@ XI. Prestatario.- La persona física o moral que recibe los servicios de segurid
 XII. Reglamento.- El Reglamento de la Ley Federal de Seguridad Privada.
 
 XIII. Entidades Federativas.- Los Estados y el Distrito Federal.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, D.O.F. 5 DE AGOSTO DE 2011)</small>
+
+XIV. Sistemas de alarmas. Son sistemas que constan de diversos dispositivos electrónicos instalados en muebles e inmuebles cuya función es disuadir y detectar incidencias. Para el caso de que se haya contratado el servicio de monitoreo electrónico, el sistema las reportará automáticamente a una central de monitoreo.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, D.O.F. 5 DE AGOSTO DE 2011)</small>
+
+XV. Monitoreo electrónico. Consiste en la recepción, clasificación seguimiento y administración de señales emitidas por sistemas de alarma, así como, dar aviso de las mismas, tanto a las autoridades correspondientes como a los usuarios de los sistemas.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, D.O.F. 5 DE AGOSTO DE 2011)</small>
+
+XVI. Central de monitoreo. Es el lugar donde se reciben las señales emitidas por los sistemas de alarma, que cuenta con la infraestructura y el personal necesario para realizar las funciones de los servicios de monitoreo.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, D.O.F. 5 DE AGOSTO DE 2011)</small>
+
+XVII. Sistema de redundancia. Es la acción a través de respaldos físicos y tecnológicos para casos de contingencia, fallas de equipos o sistemas, fallas en las comunicaciones o en él suministro eléctrico que asegure la continuidad de la prestación del servicio de monitoreo.
 
 ###### Artículo 3.
 
@@ -240,11 +264,17 @@ II. SEGURIDAD PRIVADA EN LOS BIENES. Se refiere al cuidado y protección de bien
 
 III. SEGURIDAD PRIVADA EN EL TRASLADO DE BIENES O VALORES. Consiste en la prestación de servicios de custodia, vigilancia, cuidado y protección de bienes muebles o valores, incluyendo su traslado;
 
-IV. SEGURIDAD DE LA INFORMACIÓN. Consiste en la preservación, integridad y disponibilidad de la información del prestatario, a través de sistemas de administración de seguridad, de bases de datos, redes locales, corporativas y globales, sistemas de cómputo, transacciones electrónicas, así como respaldo y recuperación de dicha información, sea ésta documental, electrónica o multimedia.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-V. SISTEMAS DE PREVENCIÓN Y RESPONSABILIDADES. Se refieren a la prestación de servicios para obtener informes de antecedentes, solvencia, localización o actividades de personas, y
+> <small>(ADICIONADA, D.O.F. 5 DE AGOSTO DE 2011)</small>
 
-VI. ACTIVIDAD VINCULADA CON SERVICIOS DE SEGURIDAD PRIVADA. Se refiere a la actividad relacionada directa o indirectamente con la instalación o comercialización de sistemas de blindaje en todo tipo de vehículos automotores, y de los equipos, dispositivos, aparatos, sistemas o procedimientos técnicos especializados.
+IV. Servicios de alarmas y de monitoreo electrónico. La instalación de sistemas de alarma en vehículos, casas, oficinas, empresas y en todo tipo de lugares que se quiera proteger y vigilar, a partir del aviso de los prestatarios, así como recibir y administrar las señales enviadas a la central de monitoreo por los sistemas, y dar aviso de las mismas, tanto a las autoridades correspondientes como a los usuarios de los sistemas y equipos, así como a los prestatarios, en forma inmediata;
+
+V. SEGURIDAD DE LA INFORMACIÓN. Consiste en la preservación, integridad y disponibilidad de la información del prestatario, a través de sistemas de administración de seguridad, de bases de datos, redes locales, corporativas y globales, sistemas de cómputo, transacciones electrónicas, así como respaldo y recuperación de dicha información, sea ésta documental, electrónica o multimedia.
+
+VI. SISTEMAS DE PREVENCIÓN Y RESPONSABILIDADES. Se refieren a la prestación de servicios para obtener informes de antecedentes, solvencia, localización o actividades de personas, y
+
+VII. ACTIVIDAD VINCULADA CON SERVICIOS DE SEGURIDAD PRIVADA. Se refiere a la actividad relacionada directa o indirectamente con la instalación o comercialización de sistemas de blindaje en todo tipo de vehículos automotores, y de los equipos, dispositivos, aparatos, sistemas o procedimientos técnicos especializados.
 
 ### Capítulo II. De la Autorización, Revalidación y Modificación
 
@@ -314,11 +344,29 @@ IV. Presentar copia simple, acompañada del original y comprobante del pago de d
 
 a). Acta de nacimiento, para el caso de personas físicas;
 
-b). Escritura en la que se contenga el Acta Constitutiva y modificaciones, si las tuviere, para el caso de las personas morales, y
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-c). En su caso, poder notarial en el que se acredite la personalidad del solicitante;
+> <small>(REFORMADO, D.O.F. 5 DE AGOSTO DE 2011)</small>
 
-V. Señalar el domicilio de la matriz y en su caso de las sucursales, precisando el nombre y puesto del encargado en cada una de ellas, además de adjuntar los comprobantes de domicilio correspondientes;
+b). Escritura en la que se contenga el Acta Constitutiva y modificaciones, si las tuviere, para el caso de las personas morales;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, D.O.F. 5 DE AGOSTO DE 2011)</small>
+
+c) En su caso, poder notarial en el que se acredite la personalidad del solicitante, y
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, D.O.F. 5 DE AGOSTO DE 2011)</small>
+
+d) Copia de la cédula del registro federal de contribuyentes, expedida por la Secretaría de Hacienda y Crédito Público;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, D.O.F. 5 DE AGOSTO DE 2011)</small>
+
+V. Señalar el domicilio de la matriz y en su caso de las sucursales, precisando el nombre y puesto del encargado en cada una de ellas, además de adjuntar los comprobantes de domicilio correspondientes, y acompañarse de fotografías a color de la fachada de los inmuebles antes referidos las cuales deberán actualizarse cada vez que sufra alguna modificación de cualquier índole;
 
 VI. Acreditar en los términos que señale el Reglamento, que se cuenta con los medios humanos, de formación, técnicos, financieros y materiales que le permitan llevar a cabo la prestación de servicios de seguridad privada en forma adecuada, en las modalidades y ámbito territorial solicitados;
 
@@ -538,11 +586,17 @@ XXIX. Tratándose de prestadores de servicios que operen en la modalidad previst
 
 XXX. Registrar ante la Dirección General los animales con que operen y sujetar su utilización a las normas aplicables;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(ADICIONADA, D.O.F. 27 DE ENERO DE 2011)</small>
+> <small>(REFORMADA, D.O.F. 5 DE AGOSTO DE 2011)</small>
 
-XXXI. Evitar la utilización de medios materiales o técnicos cuando pudieran causar daño o perjuicios a terceros o poner en peligro a la sociedad, y
+XXXI. Evitar la utilización de medios materiales o técnicos cuando pudieran causar daño o perjuicios a terceros o poner en peligro a la sociedad;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, D.O.F. 5 DE AGOSTO DE 2011)</small>
+
+XXXI Bis. Tratándose de prestadores de servicios que operen en la modalidad prevista en la fracción IV del artículo 15, deberán cumplir con lo previsto en el Título Séptimo de la presente ley, y
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -734,6 +788,100 @@ Las sanciones a que se refiere este capítulo, serán aplicadas por la Secretar�
 
 Los afectados por los actos o resoluciones de la Secretaría, podrán interponer el Recurso de Revisión, el cual se tramitará y resolverá de acuerdo a lo dispuesto en la Ley Federal de Procedimiento Administrativo.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE TITULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO CON EL CAPITULO Y ARTICULOS QUE LO INTEGRAN, D.O.F. 5 DE AGOSTO DE 2011)</small>
+
+## TÍTULO SÉPTIMO
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 5 DE AGOSTO DE 2011)</small>
+
+### Capítulo Único. De los prestadores de servicio de alarma y monitoreo
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, D.O.F. 5 DE AGOSTO DE 2011)</small>
+
+###### Artículo 45.
+
+Los prestadores de servicios deberán colocar en lugar visible y de acceso al público, en los inmuebles de los prestatarios y en los propios, de manera clara y permanente, la siguiente información:
+
+I. Logotipo;
+
+II. Nombre o razón social;
+
+III. Domicilio, teléfono, y
+
+IV. Número o registro de autorización oficial otorgado en favor de la empresa privada.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, D.O.F. 5 DE AGOSTO DE 2011)</small>
+
+###### Artículo 46.
+
+La autorización otorgada por la Dirección General sólo es de operador del servicio de alarma y monitoreo electrónico, el prestador de servicio no cumple funciones de empresa de seguros de bienes, en ninguno de sus tipos.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, D.O.F. 5 DE AGOSTO DE 2011)</small>
+
+###### Artículo 47.
+
+La central de monitoreo para la atención de las señales, deberá cumplir con los siguientes lineamientos:
+
+I. Establecer un inmueble dedicado exclusivamente a la supervisión, control y administración de las señales, el cual no será lugar de paso a sectores asignados a otras actividades y contará como mínimo con dos puertas previas de acceso, antes de ingresar a dicho recinto;
+
+II. Contará en todo momento con protección física, electrónica y mecánica, evitando la observación directa desde el exterior;
+
+III. Tener como mínimo un equipo de recepción de señales, las cuales son generadas por los sistemas instalados en vehículos, casas, oficinas, empresas y en diversos lugares; además de que este equipo podrá ser de naturaleza análoga o digital, garantizando una correspondencia inequívoca entre las señales recibidas;
+
+IV. Cumplir con los reglamentos y normas de seguridad emitidas para la seguridad y sanidad;
+
+V. Contar con equipos y programas informáticos de gestión de supervisión de alarmas y eventos, que permitan llevar un adecuado registro de dichas señales;
+
+VI. Tener un generador de energía eléctrica de servicio continuo y/o sistema alternativo que garantice un servicio de energía ininterrumpido, así como sistemas de iluminación de emergencia;
+
+VII. Tener de manera obligatoria un mínimo de dos operadores por turno, destinados a las tareas específicas de supervisión, administración y control de las señales;
+
+VIII. Mantener el sistema de redundancia para asegurar la continuidad de la prestación del servicio, y
+
+IX. Contar por lo menos con 3 líneas activas de teléfono, exclusivas cada una para las siguientes funciones:
+
+a) La recepción de señales;
+
+b) El reporte a las autoridades competentes y a los usuarios de las señales recibidas, y
+
+c) La atención de llamadas del público en general.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, D.O.F. 5 DE AGOSTO DE 2011)</small>
+
+###### Artículo 48.
+
+Los prestadores de servicio a que se refiere el presente Capítulo exhibirán ante la Dirección General copia certificada del modelo de contrato de servicios presentado ante la Procuraduría Federal de Protección al Consumidor, de igual forma, darán aviso cada vez que sea necesaria su renovación, y exhibir el nuevo contrato autorizado.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, D.O.F. 5 DE AGOSTO DE 2011)</small>
+
+###### Artículo 49.
+
+En caso de que un prestador de servicios subcontrate el servicio de monitoreo, la responsabilidad recae sobre el prestador que contrató el prestatario.
+
+El prestador de servicios subcontratado deberá cumplir con lo establecido en la presente ley.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, D.O.F. 5 DE AGOSTO DE 2011)</small>
+
+###### Artículo 50.
+
+El prestador de servicios deberá informar por escrito en un plazo no mayor a cinco días hábiles, a la Dirección General, sobre cualquier suspensión temporal o definitiva de labores, así como de la disolución o liquidación del prestador de servicios y de cualquier procedimiento jurisdiccional que pueda tener como consecuencia la interrupción de sus actividades, en perjuicio de los prestatarios de dicho servicio.
+
 ## TRANSITORIOS
 
 PRIMERO.- La presente Ley entrará en vigor a partir del día siguiente de su publicación en el Diario Oficial de la Federación.
@@ -765,3 +913,7 @@ Primero. El presente Decreto entrará en vigor a partir de los 30 días siguient
 Segundo. Las personas físicas o morales dispondrán de un término de 60 días naturales, contados a partir de la entrada en vigor del presente Decreto, para regularizar su situación conforme a las reformas contenidas en éste.
 
 Tercero. El Reglamento de la presente Ley deberá adecuarse conforme a las reformas contenidas en el presente Decreto, dentro de un plazo no mayor de noventa días hábiles siguientes a la fecha de su entrada en vigor.
+
+D.O.F. 5 DE AGOSTO DE 2011.
+
+ÚNICO. El presente decreto entrará en vigor a los quince días de su publicación en el Diario Oficial de la Federación.
