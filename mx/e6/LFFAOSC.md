@@ -4,7 +4,7 @@ identifier: "LFFAOSC"
 country: "mx"
 rank: "ley_federal"
 publication_date: "2004-02-09"
-last_updated: "2011-06-16"
+last_updated: "2011-08-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=36697&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LFFAOSC"
 
 LEY FEDERAL DE FOMENTO A LAS ACTIVIDADES REALIZADAS POR ORGANIZACIONES DE LA SOCIEDAD CIVIL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 16 DE JUNIO DE 2011.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 5 DE AGOSTO DE 2011.
 
 Ley publicada en el Diario Oficial de la Federación, el lunes 9 de febrero de 2004.
 
@@ -158,7 +158,9 @@ IV. Participar en los mecanismos de contraloría social que establezcan u operen
 
 V. Acceder a los apoyos y estímulos públicos que para fomento de las actividades previstas en el artículo 5 de esta ley, establezcan las disposiciones jurídicas y administrativas aplicables;
 
-VI. Gozar de los incentivos fiscales y demás apoyos económicos y administrativos, que permitan las disposiciones jurídicas en la materia;
+> <small>(REFORMADA, D.O.F. 5 DE AGOSTO DE 2011)</small>
+
+VI. Gozar de los incentivos fiscales y demás apoyos económicos y administrativos, que establezcan las disposiciones jurídicas en la materia;
 
 VII. Recibir donativos y aportaciones, en términos de las disposiciones fiscales y demás ordenamientos aplicables;
 
@@ -236,7 +238,9 @@ IV. Secretaría de Relaciones Exteriores.
 
 Las demás dependencias o entidades de la Administración Pública Federal participarán a invitación de la Comisión, cuando se traten asuntos de su competencia.
 
-La Secretaría Técnica estará a cargo de la dependencia que determine el titular del Poder Ejecutivo Federal, entre las secretarías señaladas en las fracciones I y II de este artículo.
+> <small>(REFORMADO, D.O.F. 5 DE AGOSTO DE 2011)</small>
+
+La Secretaría Técnica estará a cargo de la Secretaría de Desarrollo Social. Esta dependencia tendrá la facultad de interpretación de esta Ley, para efectos administrativos.
 
 ###### Artículo 11.
 
@@ -258,9 +262,11 @@ VI. Las demás que le señale la ley.
 
 La Secretaría de Desarrollo Social será la encargada de coordinar a las dependencias y entidades para la realización de las actividades de fomento a que se refiere la presente ley, sin perjuicio de las atribuciones que las demás leyes otorguen a otras autoridades.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 5 DE AGOSTO DE 2011)</small>
+
 ###### Artículo 13.
 
-Las dependencias y las entidades podrán fomentar las actividades de las organizaciones de la sociedad civil establecidas en el artículo 5 de esta ley, mediante alguna o varias de las siguientes acciones:
+Las dependencias y las entidades, para garantizar el ejercicio de los derechos a que se refiere el artículo 6, fomentarán las actividades de las organizaciones mediante alguna o varias de las siguientes acciones:
 
 I. Otorgamiento de apoyos y estímulos para los fines de fomento que correspondan, conforme a lo previsto por esta ley y las demás disposiciones legales y administrativas aplicables;
 
@@ -380,9 +386,13 @@ Las dependencias y entidades que otorguen apoyos y estímulos a las organizacion
 
 ### CAPÍTULO QUINTO. Del Consejo Técnico Consultivo
 
+> <small>(REFORMADO, D.O.F. 5 DE AGOSTO DE 2011)</small>
+
 ###### Artículo 26.
 
-El Consejo es un órgano de asesoría y consulta, de carácter honorífico, que tendrá por objeto proponer, opinar y emitir recomendaciones respecto de la administración, dirección y operación del Registro, así como concurrir anualmente con la Comisión para realizar una evaluación conjunta de las políticas y acciones de fomento.
+El Consejo es un órgano de asesoría y consulta, de carácter honorífico, que tendrá por objeto proponer, opinar y emitir recomendaciones respecto de la aplicación y cumplimiento de esta Ley.
+
+El Consejo concurrirá anualmente con la Comisión para realizar una evaluación conjunta de las políticas y acciones de fomento de las dependencias y entidades de la Administración Pública Federal.
 
 ###### Artículo 27.
 
@@ -396,7 +406,9 @@ III. Cuatro representantes de los sectores académico, profesional, científico 
 
 IV. Dos representantes del Poder Legislativo Federal, uno por cada Cámara, cuyo desempeño legislativo sea afín a la materia que regula esta ley, y
 
-V. Un Secretario Ejecutivo, designado por el Consejo a propuesta del Presidente del mismo.
+> <small>(REFORMADA, D.O.F. 5 DE AGOSTO DE 2011)</small>
+
+V. Un Secretario Ejecutivo, designado por el Presidente del Consejo con base en la terna propuesta por los integrantes del mismo.
 
 ###### Artículo 28.
 
@@ -416,7 +428,9 @@ IV. Sugerir la adopción de medidas administrativas y operativas que permitan el
 
 V. Coadyuvar en la aplicación de la presente ley;
 
-VI. Emitir recomendaciones para la determinación de infracciones y su correspondiente sanción, en los términos de esta ley. Las recomendaciones carecen de carácter vinculatorio, y
+> <small>(REFORMADA, D.O.F. 5 DE AGOSTO DE 2011)</small>
+
+VI. Emitir recomendaciones para la determinación de infracciones y su correspondiente sanción, en los términos de esta Ley, y
 
 VII. Expedir el Manual de Operación conforme al cual regulará su organización y funcionamiento.
 
@@ -501,3 +515,7 @@ D.O.F. 28 DE ENERO DE 2011.
 D.O.F. 16 DE JUNIO DE 2011.
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 5 DE AGOSTO DE 2011.
+
+Único. El presente decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
