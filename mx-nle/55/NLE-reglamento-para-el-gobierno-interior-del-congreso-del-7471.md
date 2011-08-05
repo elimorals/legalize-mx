@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-para-el-gobierno-interior-del-congreso-del-7471"
 country: "mx"
 rank: "reglamento"
 publication_date: "1992-09-16"
-last_updated: "2011-06-17"
+last_updated: "2011-08-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7471&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 REGLAMENTO PARA EL GOBIERNO INTERIOR DEL CONGRESO DEL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE JUNIO DE 2011.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE AGOSTO DE 2011.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el miércoles 16 de septiembre de 1992.
 
@@ -1755,7 +1755,7 @@ Por lo tanto envíese al Ejecutivo para su promulgación y publicación en el Pe
 
 ###### Artículo 126.
 
-Artículo 126.- Terminada la lectura del dictamen que presente la Comisión, o habiéndose otorgado la dispensa que prevé el artículo 112 Bis, el Presidente lo someterá al Pleno del Congreso para su discusión, para lo cual ordenará al Primer Secretario elabore una lista de Diputados en contra del dictamen y una lista de los que deseen participar a favor de éste.
+Terminada la lectura del dictamen que presente la Comisión, o habiéndose otorgado la dispensa que prevé el artículo 112 Bis, el Presidente lo someterá al Pleno del Congreso para su discusión, para lo cual ordenará al Primer Secretario elabore una lista de Diputados en contra del dictamen y una lista de los que deseen participar a favor de éste.
 
 > <small>(REFORMADO, P.O. 7 DE JUNIO DE 2006)</small>
 
@@ -2397,4 +2397,14 @@ P.O. 20 DE MAYO DE 2011.
 
 P.O. 17 DE JUNIO DE 2011.
 
-Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado
+> <small>(REFORMADO, P.O. 5 DE AGOSTO DE 2011)</small>
+
+Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+> <small>(ADICIONADO, P.O. 5 DE AGOSTO DE 2011)</small>
+
+Segundo.- Por única ocasión el Informe Anual al que se refiere el Artículo 18 Bis del Reglamento para el Gobierno Interior del Congreso del Estado, correspondiente al Segundo Año del Ejercicio Constitucional deberá realizarse ante los Ciudadanos hasta la conclusión del Primer Periodo Ordinario de Sesiones del Tercer año de ejercicio constitucional.
+
+P.O. 5 DE AGOSTO DE 2011.
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
