@@ -4,7 +4,7 @@ identifier: "LGS"
 country: "mx"
 rank: "ley_general"
 publication_date: "1984-02-07"
-last_updated: "2011-06-10"
+last_updated: "2011-08-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=361&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGS"
 
 LEY GENERAL DE SALUD
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 10 DE JUNIO DE 2011.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 5 DE AGOSTO DE 2011.
 
 ULTIMA MODIFICACION AL LISTADO DE SUSTANCIAS PSICOTROPICAS: 9 DE JULIO DE 1996.
 
@@ -1020,6 +1020,8 @@ La acción popular podrá ejercitarse por cualquier persona, bastando para darle
 
 ### CAPITULO VII. Salud Mental
 
+> <small>(REFORMADO, D.O.F. 5 DE AGOSTO DE 2011)</small>
+
 ###### ARTICULO 61.
 
 La atención materno-infantil tiene carácter prioritario y comprende las siguientes acciones:
@@ -1278,51 +1280,91 @@ Los términos bajo los cuales se hará efectiva la concurrencia del Gobierno Fed
 
 > <small>(ADICIONADO, D.O.F. 15 DE MAYO DE 2003)</small>
 
-###### ARTICULO 72.
+###### Artículo 72.
 
-La prevención de las enfermedades mentales tiene carácter prioritario. Se basará en el conocimiento de los factores que afectan la salud mental, las causas de las alteraciones de la conducta, los métodos de prevención y control de las enfermedades mentales, así como otros aspectos relacionados con la salud mental.
+La prevención de los trastornos mentales y del comportamiento es de carácter prioritario. Se basará en el conocimiento de los factores que afectan la salud mental, las causas de las alteraciones de la conducta, los métodos de prevención y control multidisciplinario de dichos trastornos, así como otros aspectos relacionados con la salud mental.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 27 DE MAYO DE 1987)</small>
+> <small>(REFORMADO, D.O.F. 5 DE AGOSTO DE 2011)</small>
 
 ###### ARTICULO 73.
 
-Para la promoción de la salud mental, la Secretaría de Salud, las instituciones de salud y los gobiernos de las entidades federativas, en coordinación con las autoridades competentes en cada materia, fomentarán y apoyarán:
+Para la promoción de la salud mental y la prevención de los trastornos mentales y del comportamiento, la Secretaría de Salud, las instituciones de salud y los gobiernos de las entidades federativas, en coordinación con las autoridades competentes en cada materia, fomentarán y apoyarán:
 
-I.- El desarrollo de actividades educativas, socioculturales y recreativas que contribuyan a la salud mental, preferentemente de la infancia y de la juventud;
+I. El desarrollo de actividades educativas, socioculturales y recreativas que contribuyan a la salud mental, preferentemente de la infancia y de la juventud;
 
-II.- La difusión de las orientaciones para la promoción de la salud mental;
+II. La difusión de las orientaciones para la promoción de la salud mental, así como el conocimiento y prevención de los trastornos mentales y del comportamiento;
 
-III.- La realización de programas para la prevención del uso de substancias psicotrópicas, estupefacientes, inhalantes y otras substancias que puedan causar alteraciones mentales o dependencia, y
+III. La realización de programas para la prevención y control del uso de substancias psicotrópicas, estupefacientes, inhalantes y otras substancias que puedan causar alteraciones mentales o dependencia;
 
-IV.- Las demás acciones que directa o indirectamente contribuyan al fomento de la salud mental de la población.
+IV. Las acciones y campañas de promoción de los derechos de las personas con trastornos mentales y del comportamiento, y
+
+V. Las demás acciones que directa o indirectamente contribuyan al fomento de la salud mental de la población.
+
+> <small>(REFORMADO, D.O.F. 5 DE AGOSTO DE 2011)</small>
 
 ###### ARTICULO 74.
 
-La atención de las enfermedades mentales comprende:
+La atención de los trastornos mentales y del comportamiento comprende:
 
-I.- La atención de personas con padecimientos mentales, la rehabilitación psiquiátrica de enfermos mentales crónicos, deficientes mentales, alcohólicos y personas que usen habitualmente estupefacientes o substancias psicotrópicas, y
+I. La atención de personas con trastornos mentales y del comportamiento, la evaluación diagnóstica integral y tratamientos integrales, y la rehabilitación psiquiátrica de enfermos mentales crónicos, deficientes mentales, alcohólicos y personas que usen habitualmente estupefacientes o substancias psicotrópicas;
 
-II.- La organización, operación y supervisión de instituciones dedicadas al estudio, tratamiento y rehabilitación de enfermos mentales.
+II. La organización, operación y supervisión de instituciones dedicadas al estudio, tratamiento y rehabilitación de personas con trastornos mentales y del comportamiento, y
 
-> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
+III. La reintegración de la persona con trastornos mentales y del comportamiento a su comunidad, mediante la creación de programas extrahospitalarios y comunitarios para la atención de estos trastornos.
+
+> <small>(ADICIONADO, D.O.F. 5 DE AGOSTO DE 2011)</small>
+
+###### ARTICULO 74 Bis.
+
+La persona con trastornos mentales y del comportamiento tendrá los siguientes derechos:
+
+I. Derecho a la mejor atención disponible en materia de salud mental y acorde con sus antecedentes culturales, lo que incluye el trato sin discriminación y con respeto a la dignidad de la persona;
+
+II. Derecho a contar con un representante que cuide en todo momento sus intereses. Para esto, la autoridad judicial deberá cuidar que no exista conflicto de intereses por parte del representante;
+
+III. Derecho al consentimiento informado de la persona o su representante, en relación al tratamiento a recibir. Esto sólo se exceptuará en el caso de internamiento involuntario, cuando se trate de un caso urgente o cuando se compruebe que el tratamiento es el más indicado para atender las necesidades del paciente;
+
+IV. Derecho a que le sean impuestas únicamente las restricciones necesarias para garantizar su protección y la de terceros. En todo caso, se deberá procurar que el internamiento sea lo menos restrictivo posible y a que el tratamiento a recibir sea lo menos alterador posible;
+
+V. Derecho a que el tratamiento que reciba esté basado en un plan prescrito individualmente con historial clínico, revisado periódicamente y modificado llegado el caso;
+
+VI. Derecho a no ser sometido a tratamientos irreversibles o que modifiquen la integridad de la persona;
+
+VII. Derecho a ser tratado y atendido en su comunidad o lo más cerca posible al lugar en donde habiten sus familiares o amigos, y
+
+VIII. Derecho a la confidencialidad de la información psiquiátrica sobre su persona.
+
+> <small>(REFORMADO, D.O.F. 5 DE AGOSTO DE 2011)</small>
 
 ###### ARTICULO 75.
 
-El internamiento de personas con padecimientos mentales en establecimientos destinados a tal efecto, se ajustará a principios éticos y sociales, además de los requisitos científicos y legales que determine la Secretaría de Salud y establezcan las disposiciones jurídicas aplicables.
+El internamiento de personas con trastornos mentales y del comportamiento en establecimientos destinados a tal efecto, se ajustará a principios éticos y sociales, además de los requisitos científicos y legales que determine la Secretaría de Salud y establezcan las disposiciones jurídicas aplicables.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 7 DE MAYO DE 1997)</small>
+Será involuntario el internamiento, cuando por encontrarse la persona impedida para solicitarlo por sí misma, por incapacidad transitoria o permanente, sea solicitado por un familiar, tutor, representante legal o, a falta de los anteriores, otra persona interesada, que en caso de urgencia solicite el servicio y siempre que exista la intervención de un médico calificado, que determine la existencia de un trastorno mental y del comportamiento y que debido a dicho trastorno existe un peligro grave o inmediato para sí mismo o para terceros.
+
+La decisión de internar a una persona deberá ser notificada a su representante, así como a la autoridad judicial.
+
+El internamiento involuntario será revisado por la autoridad judicial a petición de la persona internada o de su representante. La resolución de la autoridad judicial deberá estar fundada en dictamen pericial y, en caso de que se resuelva la terminación del internamiento, deberá establecer un plazo para que se ejecute la misma. En todo caso, durante dicho procedimiento deberá garantizarse la defensa de los intereses de la persona internada.
+
+Las autoridades sanitarias deberán coordinarse con los organismos públicos de protección a los derechos humanos para que los establecimientos dedicados a la atención y tratamiento de las personas con trastornos mentales y del comportamiento sean supervisados continuamente, a fin de garantizar el respeto a los derechos de las personas internadas.
+
+> <small>(REFORMADO, D.O.F. 5 DE AGOSTO DE 2011)</small>
 
 ###### ARTICULO 76.
 
-La Secretaría de Salud establecerá las normas oficiales mexicanas para que se preste atención a los enfermos mentales que se encuentren en reclusorios o en otras instituciones no especializadas en salud mental.
+La Secretaría de Salud establecerá las normas oficiales mexicanas para que se preste atención a las personas con trastornos mentales y del comportamiento que se encuentran en reclusorios o en otras instituciones no especializadas en salud mental.
 
 A estos efectos, se establecerá la coordinación necesaria entre las autoridades sanitarias, judiciales, administrativas y otras, según corresponda.
 
+> <small>(REFORMADO, D.O.F. 5 DE AGOSTO DE 2011)</small>
+
 ###### ARTICULO 77.
 
-Los padres, tutores o quienes ejerzan la patria potestad de menores, los responsables de su guarda, las autoridades educativas y cualquier persona que esté en contacto con los mismos, procurarán la atención inmediata de los menores que presenten alteraciones de conducta que permitan suponer la existencia de enfermedades mentales.
+Los padres, tutores o quienes ejerzan la patria potestad de menores, los responsables de su guarda o custodia, las autoridades educativas y cualquier persona que esté en contacto con los mismos, procurarán la atención inmediata de los menores que presenten alteraciones de conducta que permitan suponer la existencia de un trastorno mental y del comportamiento.
 
-A tal efecto, podrán obtener orientación y asesoramiento en las instituciones públicas dedicadas a la atención de enfermos mentales.
+A tal efecto, podrán obtener orientación y asesoramiento en las instituciones públicas dedicadas a la atención de personas con trastornos mentales y del comportamiento.
+
+En caso de que el diagnóstico confirme la existencia de un trastorno mental y del comportamiento, y que se requiera el internamiento del menor, deberá respetarse lo dispuesto por el artículo 75 de esta Ley y dicho internamiento deberá efectuarse en un establecimiento o área específicamente destinada a la atención de menores. De igual manera, se deberán tomar las medidas necesarias a fin de proteger los derechos que consigna la Ley para la Protección de los Derechos de Niñas, Niños y Adolescentes.
 
 > <small>(ADICIONADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, D.O.F. 15 DE MAYO DE 2003)</small>
 
@@ -6136,21 +6178,21 @@ Se sancionará con multa hasta dos mil veces el salario mínimo general diario v
 
 Se sancionará con multa de dos mil hasta seis mil veces el salario mínimo general diario vigente en la zona económica de que se trate, la violación de las disposiciones contenidas en los artículos 75, 121, 142, 147, 153, 198, 200, 204, 241, 259, 260, 265, 267, 304, 307, 341, 348, segundo y tercer párrafo, 349, 350 bis, 350 bis 2, 350 bis 3 y 373 de esta Ley.
 
-> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 2009)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, D.O.F. 30 DE MAYO DE 2008)</small>
 
 ###### ARTICULO 421.
 
 Se sancionará con una multa equivalente de seis mil hasta doce mil veces el salario mínimo general diario vigente en la zona económica de que se trate, la violación de las disposiciones contenidas en los artículos 67, 101, 125, 127, 149, 193, 210, 212, 213, 218, 220, 230, 232, 233, 237, 238, 240, 242, 243, 247, 248, 251, 252, 255, 256, 258, 266, 306, 308, 309, 315, 317, 330, 331, 332, 334, 335, 336, 338, último párrafo, 342, 348, primer párrafo, 350 bis 1, 365, 367, 375, 376, 400, 411 y 413 de esta Ley.
 
-> <small>(REFORMADO, D.O.F. 18 DE ENERO DE 2007)</small>
+> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 2009)</small>
 
 ###### ARTICULO 421 Bis.
 
 Se sancionará con multa equivalente de doce mil hasta dieciséis mil veces el salario mínimo general diario vigente en la zona económica de que se trate, la violación de las disposiciones contenidas en los artículos 100, 122, 126, 146, 166 Bis 19, 166 Bis 20, 205, 235, 254, 264, 281, 289, 293, 298, 325, 327 y 333 de esta Ley.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADO, D.O.F. 30 DE MAYO DE 2008)</small>
+> <small>(REFORMADO, D.O.F. 18 DE ENERO DE 2007)</small>
 
 ###### ARTICULO 422.
 
@@ -7117,3 +7159,9 @@ TERCERO.- El Poder Ejecutivo Federal, a través de las instancias competentes, e
 D.O.F. 10 DE JUNIO DE 2011.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 5 DE AGOSTO DE 2011.
+
+Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- La Secretaría contará con un plazo de 180 días naturales para emitir las disposiciones administrativas necesarias para la aplicación de este Decreto.
