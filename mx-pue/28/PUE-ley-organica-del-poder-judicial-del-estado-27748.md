@@ -4,7 +4,7 @@ identifier: "PUE-ley-organica-del-poder-judicial-del-estado-27748"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2002-12-30"
-last_updated: "2011-06-17"
+last_updated: "2011-08-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=27748&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE JUNIO DE 2011.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE AGOSTO DE 2011.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Puebla, el lunes 30 de diciembre de 2002.
 
@@ -2047,9 +2047,9 @@ DE LOS CARGOS JUDICIALES
 
 Para ser Magistrado propietario o suplente, se requiere:
 
-> <small>(REFORMADA, P.O. 4 DE FEBRERO DE 2011)</small>
+> <small>(REFORMADA, P.O. 5 DE AGOSTO DE 2011)</small>
 
-I.- Ser ciudadano mexicano, en pleno goce de sus derechos políticos y civiles;
+I.- Ser ciudadano mexicano por nacimiento, en pleno goce de sus derechos políticos y civiles;
 
 II.- Ser mayor de treinta y cinco años;
 
@@ -2065,9 +2065,9 @@ V.- (DEROGADA, P.O. 4 DE FEBRERO DE 2011)
 
 Para ser Juez de primera instancia, se requiere:
 
-> <small>(REFORMADA, P.O. 4 DE FEBRERO DE 2011)</small>
+> <small>(REFORMADA, P.O. 5 DE AGOSTO DE 2011)</small>
 
-I.- Ser ciudadano mexicano, en pleno goce de sus derechos políticos y civiles;
+I.- Ser ciudadano mexicano por nacimiento, en pleno goce de sus derechos políticos y civiles;
 
 II.- Ser mayor de veintiocho años;
 
@@ -2081,9 +2081,9 @@ V.- Aprobar el examen a que le someta la Comisión de Vigilancia, Disciplina y S
 
 Para ser Juez Municipal, se requiere:
 
-> <small>(REFORMADA, P.O. 4 DE FEBRERO DE 2011)</small>
+> <small>(REFORMADA, P.O. 5 DE AGOSTO DE 2011)</small>
 
-I.- Ser ciudadano mexicano, en pleno goce de sus derechos políticos y civiles, con vecindad en el lugar en que va a ejercer sus funciones;
+I.- Ser ciudadano mexicano por nacimiento, en pleno goce de sus derechos políticos y civiles, con vecindad en el lugar en que va a ejercer sus funciones;
 
 II.- Ser mayor de veinticinco años; y
 
@@ -2708,3 +2708,13 @@ Hasta en tanto no se actualicen los plazos previstos en el artículo anterior, c
 Los procedimientos penales iniciados con anterioridad a la entrada en vigor del Sistema Penal Acusatorio, serán concluidos conforme a las disposiciones vigentes con anterioridad a dicho acto, en términos de lo dispuesto en el Artículo Cuarto Transitorio del Decreto de reformas a la Constitución Política de los Estados Unidos Mexicanos, publicado en el Diario Oficial de la Federación con fecha dieciocho de junio de 2008.
 
 CUARTO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 5 DE AGOSTO DE 2011.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente ordenamiento.
