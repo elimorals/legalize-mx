@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-atencion-y-apoyo-a-las-victimas-y-a-los-ofendidos-de-551
 country: "mx"
 rank: "ley"
 publication_date: "2007-04-18"
-last_updated: "2011-04-29"
+last_updated: "2011-08-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55149&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE ATENCION Y APOYO A LAS VICTIMAS Y A LOS OFENDIDOS DE DELITOS EN EL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE ABRIL DE 2011.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE AGOSTO DE 2011.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el miércoles 18 de abril de 2007.
 
@@ -43,9 +43,11 @@ LEY DE ATENCIÓN Y APOYO A LAS VICTIMAS Y A LOS OFENDIDOS DE DELITOS EN EL ESTAD
 
 #### SECCIÓN PRIMERA. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, P.O. 5 DE AGOSTO DE 2011)</small>
+
 ###### Artículo 1.
 
-Esta Ley es de orden público e interés social, reglamentaria del Artículo 19 Apartado B de la Constitución Política del Estado Libre y Soberano de Nuevo León, y tiene por objeto garantizar a la víctima y al ofendido del delito el goce y ejercicio de los derechos y las medidas de atención y apoyo que se les reconoce en el Estado de Nuevo León.
+Esta Ley es de Orden público e interés social, reglamentaria del Artículo 19 Apartado C de la Constitución Política del Estado Libre y Soberano de Nuevo León, y tiene por objeto garantizar a la víctima y al ofendido del delito el goce y ejercicio de los derechos y las medidas de atención y apoyo que se les reconoce en el Estado de Nuevo León.
 
 ###### Artículo 2.
 
@@ -61,11 +63,15 @@ IV.- (DEROGADA, P.O. 29 DE ABRIL DE 2011)
 
 V.- Fondo: El Fondo para la Atención y Apoyo a las Víctimas ya los Ofendidos de Delitos del Estado de Nuevo León;
 
-VI.- Ofendido: El titular del bien jurídico lesionado o puesto en peligro que asume la condición de sujeto pasivo del delito;
+> <small>(REFORMADA, P.O. 5 DE AGOSTO DE 2011)</small>
+
+VI. Víctima: El titular del bien jurídico lesionado o puesto en peligro que asume la condición de sujeto pasivo del delito;
 
 VII.- Reparación del Daño: La reparación del daño en términos de lo dispuesto por el Código Penal para el Estado de Nuevo León;
 
-VIII.- Víctima: Toda persona física que sufre indirectamente un daño por causa de una conducta típica, antijurídica y culpable; tienen calidad de víctimas el cónyuge e hijos, concubina o concubinario, o persona que estuviere unida con el sujeto pasivo del delito cualquiera que fuere el tiempo; los padres si el sujeto pasivo del delito es soltero, o quien ejerza la patria potestad si no hubiere padres, o el tutor en su caso si lo hubiere; y,
+> <small>(REFORMADA, P.O. 5 DE AGOSTO DE 2011)</small>
+
+VIII. Ofendido: Toda persona física que sufre indirectamente un daño por causa de una conducta típica, antijurídica y culpable; tienen calidad de ofendido el cónyuge e hijos, concubina o concubino, o persona que estuviere unida con el sujeto pasivo del delito cualquiera que fuere el tiempo; los padres si el sujeto pasivo del delito es soltero, o quien ejerza la patria potestad si no hubiere padres, o el tutor en su caso si lo hubiere; y
 
 IX.- Victimización: Fenómeno por el cual una persona o grupo se convierte en víctima.
 
@@ -91,9 +97,13 @@ II.- A ser informado desde su primera intervención en la averiguación previa, 
 
 III.- A que se le reciban por el Ministerio Público todos los datos o elementos de prueba que ofrezca en el procedimiento penal, que pudieran conducir a acreditar los elementos del tipo penal, la probable responsabilidad del inculpado y la procedencia y monto de la reparación del daño, así como a que se desahoguen las diligencias que solicite;
 
-IV.- A recibir, desde la comisión del delito, atención médica, psicológica y asistencia social de urgencia, en los términos de esta Ley;
+> <small>(REFORMADA, P.O. 5 DE AGOSTO DE 2011)</small>
 
-V.- Cuando la víctima o el ofendido sean menores de edad, a no carearse con el inculpado, siempre que se trate de delitos sexuales o secuestro. En estos casos, se llevarán las declaraciones en las condiciones que establezca la Ley;
+IV.- A recibir, desde la comisión del delito, atención médica, psicológica o psiquiátrica y asistencia social de urgencia, en los términos de esta Ley;
+
+> <small>(REFORMADA, P.O. 5 DE AGOSTO DE 2011)</small>
+
+V.- Cuando la víctima o el ofendido sean menores de edad, a no carearse con el inculpado, siempre que se trate de delitos sexuales, trata de personas, corrupción de menores o secuestro. En estos casos, se llevarán las declaraciones en las condiciones que establezca la Ley;
 
 VI.- A que se le repare el daño en los términos de ley;
 
@@ -103,11 +113,15 @@ VIII.- A ser informados claramente del significado y la trascendencia jurídica 
 
 IX.- A los demás derechos que se establezcan en otras disposiciones legales de observancia en el Estado de Nuevo León.
 
-Los derechos de la víctima u del ofendido que se vinculen con el procedimiento penal se ejercerán y harán efectivos en los términos que se contengan en el Código de Procedimientos Penales del Estado de Nuevo León.
+> <small>(REFORMADO, P.O. 5 DE AGOSTO DE 2011)</small>
+
+Los derechos de la víctima o del ofendido que se vinculen con el procedimiento penal se ejercerán y harán efectivos en los términos que se contengan en el Código de Procedimientos Penales del Estado de Nuevo León o del Código Procesal Penal para el Estado de Nuevo León, según el caso.
+
+> <small>(REFORMADO, P.O. 5 DE AGOSTO DE 2011)</small>
 
 ###### Artículo 6.
 
-Las víctimas o los ofendidos tendrán derecho a recibir de forma gratuita atención psicológica y médica especializada de urgencia. Las instituciones de salud que brinden el servicio deberá hacer llegar los gastos erogados al Ministerio Público para que éste los integre al expediente para efectos de pago de la reparación del daño y en el momento procesal oportuno se realice el cobro de los mismos al indiciado, procesado o sentenciado, aplicándose su recuperación en favor del Fondo previsto en esta Ley.
+Las víctimas o los ofendidos tendrán derecho a recibir de forma gratuita atención médica, psicológica o psiquiátrica especializada de urgencia. Las instituciones de salud que brinden el servicio deberá (sic) hacer llegar los gastos erogados al Ministerio Público para que éste los integre al expediente para efectos de pago de la reparación del daño y en el momento procesal oportuno se realice el cobro de los mismos al indiciado, procesado o sentenciado, aplicándose su recuperación a favor del Fondo previsto en esta Ley.
 
 ###### Artículo 7.
 
@@ -582,3 +596,7 @@ Primero.- El presente Decreto entrara en vigor al día siguiente de su publicaci
 Segundo.- El Ejecutivo del Estado deberá emitir las modificaciones al Reglamento de la Ley de Atención y Apoyo a las Victimas y a los Ofendidos de Delitos en el Estado de Nuevo León, en los términos del presente Decreto, en un plazo no mayor de 60 días naturales, contados a partir de la entrada en vigor del presente Decreto.
 
 Tercero.- El Gobernador del Estado instruirá a la Secretaria de Finanzas y Tesorería General del Estado para la liquidación del Fideicomiso, transfiriendo los recursos del mismo a la Procuraduría General de Justicia del Estado, quien deberá destinarlos al Fondo.
+
+P.O. 5 DE AGOSTO DE 2011.
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
