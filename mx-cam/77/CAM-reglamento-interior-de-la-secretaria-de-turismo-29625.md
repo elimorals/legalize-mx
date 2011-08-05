@@ -4,7 +4,7 @@ identifier: "CAM-reglamento-interior-de-la-secretaria-de-turismo-29625"
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-05-06"
-last_updated: "2007-11-13"
+last_updated: "2011-08-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=29625&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "CAM"
 
 REGLAMENTO INTERIOR DE LA SECRETARÍA DE TURISMO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE NOVIEMBRE DE 2007.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARIA DE TURISMO DE LA ADMINISTRACION PUBLICA DEL ESTADO DE CAMPECHE, PUBLICADO EN EL P.O. DE 5 E AGOSTO DE 2011, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
 
 Reglamento publicado en la Sección Administrativa del Periódico Oficial del Estado de Campeche, el lunes 6 de mayo de 2002.
 
@@ -460,3 +462,11 @@ Primero.- El presente Acuerdo entrará en vigor al día siguiente de su publicac
 Segundo.- Se derogan todas las disposiciones administrativas y reglamentarias en lo que se opongan al contenido del presente Acuerdo.
 
 Tercero.- La Secretaría de Finanzas y Administración de la Administración Pública del Estado procederá a hacer los ajustes presupuestales que sean necesarios para el cumplimiento de este Acuerdo.
+
+P.O. 5 DE AGOSTO DE 2011.
+
+Primero.- El presente reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- Se abroga el Reglamento Interior de la Secretaría de Turismo del Estado de Campeche publicado en el Periódico Oficial del Estado el día 5 de Abril del año 2002.
+
+Tercero.- Se derogan todas las disposiciones reglamentarias y administrativas de carácter general, expedidas por el Ejecutivo del Estado, en lo que se opongan al contenido del presente Reglamento.
