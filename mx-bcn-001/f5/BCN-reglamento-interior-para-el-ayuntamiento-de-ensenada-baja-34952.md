@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-interior-para-el-ayuntamiento-de-ensenada-baja-34952
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-11-14"
-last_updated: "2011-01-14"
+last_updated: "2011-08-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34952&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 REGLAMENTO INTERIOR PARA EL AYUNTAMIENTO DE ENSENADA, BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE ENERO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE AGOSTO DE 2011.
 
 Reglamento publicado en el Periódico Oficial del Estado de Baja California, el viernes 14 de noviembre de 2003.
 
@@ -1351,7 +1351,41 @@ COMISION DE EQUIDAD Y GÉNERO.
 
 Atribuciones:
 
-I.- Dictaminar respecto de los proyectos de reglamentos y disposiciones normativas de observancia general en materia de equidad y género.
+> <small>(REFORMADA, P.O. 5 DE AGOSTO DE 2011)</small>
+
+I.- Dictaminar respecto de los proyectos de reglamentos y disposiciones normativas de observancia general, formalizando de manera sustantiva la aplicación de las políticas públicas encaminadas a lograr una Cultura de Equidad y Género.
+
+> <small>(ADICIONADA, P.O. 5 DE AGOSTO DE 2011)</small>
+
+II.- Proponer al Ayuntamiento:
+
+a) Los mecanismos e instrumentos que resulten necesarios para promover la implementación de políticas públicas encaminadas a la Equidad y Genero, en las dependencias Municipales y Paramunicipales.
+
+b) La integración de programas y acciones a favor del desarrollo de la comunidad respecto al enfoque de equidad y genero en las dependencias y entidades del Municipio.
+
+c) Los dispositivos y lineamientos necesarios para mejorar la atención que las dependencias Municipales brindan a la comunidad haciendo referencia al enfoque de Equidad y Género.
+
+d) La realización de estudios e informes técnicos de diagnostico sobre la situación de las mujeres y hombres en materia de igualdad laboral y retribución económica, dentro de las diferentes dependencias Municipales y Paramunicipales, siendo la Comisión quien supervisara los trabajos
+
+> <small>(ADICIONADA, P.O. 5 DE AGOSTO DE 2011)</small>
+
+III.- Coordinar e Impulsar acciones afirmativas con diferentes órganos de gobierno, orientados al cumplimiento de la igualdad de Géneros, en los ámbitos público y privado.
+
+> <small>(ADICIONADA, P.O. 5 DE AGOSTO DE 2011)</small>
+
+IV.- Vigilar y fomentar las condiciones de la participación social, política y económica dirigida a lograr la igualdad entre mujeres y hombres, en los ámbitos públicos y privados del Municipio.
+
+> <small>(ADICIONADA, P.O. 5 DE AGOSTO DE 2011)</small>
+
+V.- Coadyuvar con las Dependencias Federales, Estatales y Municipales, en la consolidación de los programas en materia de equidad y género, para garantizar el ejercicio pleno de los derechos de las mujeres y hombres.
+
+> <small>(ADICIONADA, P.O. 5 DE AGOSTO DE 2011)</small>
+
+VI.- Supervisar el correcto funcionamiento de los servicios que preste el Instituto Municipal de la Mujer de Ensenada (INMUJERE) y recibir de éste los informes relativos al gasto público de las acciones y programas que se lleven a cabo por el mismo, y
+
+> <small>(ADICIONADA, P.O. 5 DE AGOSTO DE 2011)</small>
+
+VII.- Impulsar ante el Pleno de Cabildo Iniciativas y/o Puntos de Acuerdo, promoviendo los derechos específicos de la mujer como derechos humanos universales, encaminados a la erradicación de las distintas modalidades de discriminación y/o violencia de Género.
 
 COMISION DE OBRAS Y SERVICIOS PUBLICOS.
 
@@ -1774,3 +1808,7 @@ QUINTO.- Se derogan todas aquellas disposiciones reglamentarias que se opongan a
 P.O. 14 DE ENERO DE 2011.
 
 UNICO.- Siendo aprobada la presente reforma, incorpórese al libro de actas y publíquese en el Periódico Oficial del Gobierno del Estado de Baja California, para efectos de iniciar la vigencia al siguiente día de su publicación en todo el territorio del Municipio de Ensenada.
+
+P.O. 5 DE AGOSTO DE 2011.
+
+ÚNICO.- Siendo aprobada la presente reforma, incorpórese en el libro de actas y publíquese en el Periódico Oficial del Gobierno del Estado, para efectos de iniciar la vigencia al siguiente día de su publicación en todo el territorio del Municipio de Ensenada, Baja California.
