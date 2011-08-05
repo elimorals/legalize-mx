@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-transparencia-y-acceso-a-la-informacion-del-estado-62050
 country: "mx"
 rank: "ley"
 publication_date: "2008-07-19"
-last_updated: "2011-06-03"
+last_updated: "2011-08-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62050&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACION DEL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE JUNIO DE 2011.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE AGOSTO DE 2011.
 
 Ley publicada en el Periódico Oficial en el Estado de Nuevo León, el sábado 19 de julio de 2008.
 
@@ -567,9 +567,17 @@ VII.- Afecte un proceso deliberativo incluyendo las opiniones, recomendaciones, 
 
 También se considerará como información reservada:
 
-I.- Los expedientes durante la etapa de integración de las averiguaciones previas o investigaciones en el caso de justicia especial para adolescentes, debiéndose proporcionar únicamente la información a quien de conformidad con las Leyes aplicables pueda tener acceso a la misma; y
+> <small>(REFORMADA, P.O. 5 DE AGOSTO DE 2011)</small>
 
-II.- Los expedientes judiciales, arbitrales o de los procedimientos administrativos seguidos en forma de juicio, en tanto no cause estado la resolución definitiva. Una vez que dicha resolución cause estado, los expedientes serán públicos, salvo la información reservada o confidencial que pudieran contener.
+I.- Los expedientes durante la etapa de integración de las averiguaciones previas o investigaciones en el caso de justicia especial para adolescentes, debiéndose proporcionar únicamente la información a quien de conformidad con las Leyes aplicables pueda tener acceso a la misma;
+
+> <small>(REFORMADA, P.O. 5 DE AGOSTO DE 2011)</small>
+
+II.- Los expedientes judiciales, arbitrales o de los procedimientos administrativos seguidos en forma de juicio, en tanto no cause estado la resolución definitiva. Una vez que dicha resolución cause estado, los expedientes serán públicos, salvo la información reservada o confidencial que pudieran contener; y
+
+> <small>(ADICIONADA, P.O. 5 DE AGOSTO DE 2011)</small>
+
+III.- Los expedientes individualizados elaborados por las Instituciones Asistenciales públicas y privadas que tengan bajo su guarda, custodia o ambas, a niñas, niños y adolescentes en el Estado de Nuevo León.
 
 Los expedientes de las averiguaciones previas respecto de los cuales se determinó el ejercicio de la acción penal o el no ejercicio de la misma serán susceptibles de acceso, a través de versiones públicas.
 
@@ -1824,3 +1832,7 @@ P.O. 3 DE JUNIO DE 2011.
 DECRETO NUMERO 206, POR EL QUE SE REFORMAN LAS FRACCIONES VI Y VII DEL ARTICULO 11; LAS FRACCIONES XI Y XII DEL ARTICULO 14; SE ADICIONA UNA FRACCION VIII AL ARTICULO 11 Y UNA FRACCION XIII AL ARTICULO 14, DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACION DEL ESTADO DE NUEVO LEON.
 
 Único.- El presente Decreto entrará en vigor, el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 5 DE AGOSTO DE 2011.
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
