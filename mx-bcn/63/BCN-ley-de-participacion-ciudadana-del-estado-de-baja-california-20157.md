@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-participacion-ciudadana-del-estado-de-baja-california-20
 country: "mx"
 rank: "ley"
 publication_date: "2001-02-16"
-last_updated: "2001-02-16"
+last_updated: "2011-08-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=20157&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE PARTICIPACION CIUDADANA DEL ESTADO DE BAJA CALIFORNIA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE AGOSTO DE 2011.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Baja California, el 16 de febrero de 2001.
 
@@ -57,19 +57,23 @@ III.- Iniciativa Ciudadana.
 
 Los principios rectores de la participación ciudadana son la libertad, la democracia, la corresponsabilidad, la solidaridad, el bien general, la subsidiariedad, la legalidad, la sustentabilidad y la equidad.
 
+> <small>(REFORMADO, P.O. 5 DE AGOSTO DE 2011)</small>
+
 ###### Artículo 3.
 
-La aplicación y ejecución de las normas contenidas en esta Ley, dentro de su respectivo ámbito de competencia, corresponden al: Poder Legislativo, Poder Ejecutivo, Ayuntamientos del Estado, Instituto Estatal Electoral y al Tribunal de Justicia Electoral del Poder Judicial del Estado.
+La aplicación y ejecución de las normas contenidas en esta Ley, dentro de su respectivo ámbito de competencia, corresponden al: Poder Legislativo, Poder Ejecutivo, Ayuntamientos del Estado, Instituto Electoral y de Participación Ciudadana y al Tribunal de Justicia Electoral del Poder Judicial del Estado.
 
-Para el desempeño de sus funciones el Instituto Estatal Electoral y el Tribunal de Justicia Electoral del Poder Judicial del Estado ejercerán aquellas atribuciones y facultades que les otorgan otras leyes, siempre que no se contrapongan a esta Ley.
+Para el desempeño de sus funciones el Instituto Electoral y de Participación Ciudadana y el Tribunal de Justicia Electoral del Poder Judicial del Estado ejercerán aquellas atribuciones y facultades que les otorgan otras leyes, siempre que no se contrapongan a esta Ley.
 
 ###### Artículo 4.
 
 La interpretación de las disposiciones de esta Ley, se hará tomando en cuenta el objeto y los principios rectores de la participación ciudadana previstos en sus artículos 1 y 2, atendiendo indistintamente a los criterios gramatical, sistemático y funcional.
 
+> <small>(REFORMADO, P.O. 5 DE AGOSTO DE 2011)</small>
+
 ###### Artículo 5.
 
-A falta de disposición expresa en esta Ley, se estará a lo dispuesto en la Ley de Instituciones y Procesos Electorales del Estado de Baja California, en los reglamentos municipales en el ámbito de su competencia, en los acuerdos del Consejo Estatal Electoral dictados dentro de su competencia, los criterios obligatorios que dicte el Tribunal de Justicia Electoral del Poder Judicial del Estado y a los principios generales del derecho.
+A falta de disposición expresa en esta Ley, se estará a lo dispuesto en la Ley de Instituciones y Procedimientos Electorales del Estado de Baja California, en los reglamentos municipales en el ámbito de su competencia, en los acuerdos del Consejo General Electoral del Instituto Electoral y de Participación Ciudadana del Estado dictados dentro de su competencia, los criterios obligatorios que dicte el Tribunal de Justicia Electoral del Poder Judicial del Estado y a los principios generales del derecho.
 
 ###### Artículo 6.
 
@@ -81,11 +85,15 @@ Para los efectos de esta Ley, se entenderá por:
 
 I.- Constitución Federal: a la Constitución Política de los Estados Unidos Mexicanos;
 
-II.- Constitución: a la Constitución Política del Estado Libre y Soberano de Baja California;
+> <small>(REFORMADA, P.O. 5 DE AGOSTO DE 2011)</small>
+
+II.- Constitución del Estado: a la Constitución Política del Estado Libre y Soberano de Baja California;
 
 III.- Ley: a la Ley de Participación Ciudadana del Estado de Baja California;
 
-IV.- LIPE: a la Ley de Instituciones y Procesos Electorales del Estado de Baja California;
+> <small>(REFORMADA, P.O. 5 DE AGOSTO DE 2011)</small>
+
+IV.- LlPE: a la Ley de Instituciones y Procedimientos Electorales del Estado de Baja California;
 
 V.- Reglamentos Municipales: a los reglamentos que en materia de participación ciudadana y vecinal expidan los ayuntamientos del Estado de Baja California;
 
@@ -97,17 +105,41 @@ VIII.- Congreso del Estado: al Poder Legislativo del Estado de Baja California;
 
 IX.- Ayuntamientos: a los ayuntamientos de Mexicali, Tijuana, Ensenada, Tecate y Playas de Rosarito;
 
-X.- Instituto: al Instituto Estatal Electoral del Estado de Baja California;
+> <small>(REFORMADA, P.O. 5 DE AGOSTO DE 2011)</small>
 
-XI.- Consejo: al Consejo Estatal Electoral del Instituto Estatal Electoral;
+X.- Instituto: al Instituto Electoral y de Participación Ciudadana del Estado de Baja California;
+
+> <small>(REFORMADA, P.O. 5 DE AGOSTO DE 2011)</small>
+
+XI.- Consejo General: al Consejo General Electoral del Instituto Electoral y de Participación Ciudadana del Estado de Baja California;
 
 XII.- Tribunal: al Tribunal de Justicia Electoral del Poder Judicial del Estado de Baja California;
 
-XIII.- Padrón: al Padrón Estatal Electoral de la Dirección General del Registro Estatal de Electores del Instituto Estatal Electoral;
+> <small>(REFORMADA, P.O. 5 DE AGOSTO DE 2011)</small>
 
-XIV.- Lista Nominal: a la lista nominal de electores con imagen de la Dirección General del Registro Estatal de Electores del Instituto Estatal Electoral, y
+XIII.- Padrón: al padrón electoral elaborado por el Instituto Federal Electoral en la parte correspondiente al Estado de Baja California;
 
-XV.- Periódico Oficial: al Periódico Oficial del Estado de Baja California.
+> <small>(REFORMADA, P.O. 5 DE AGOSTO DE 2011)</small>
+
+XIV.- Lista Nominal: la lista nominal con fotografía elaborada por el Instituto Federal Electoral en la parte correspondiente al Estado (sic) Baja California;
+
+XV.- Periódico Oficial: al Periódico Oficial del Estado de Baja California;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 5 DE AGOSTO DE 2011)</small>
+
+XVI.- Credencial para votar: la credencial para votar con fotografía expedida por el Instituto Federal Electoral;
+
+> <small>(ADICIONADA, P.O. 5 DE AGOSTO DE 2011)</small>
+
+XVII.- Voto electrónico: al conjunto de elementos técnicos y metodológicos diseñados por los órganos del Instituto, y aprobados por el Consejo General, para llevar a cabo de manera automatizada la jornada de consulta y computo y calificación de resultados a través de urnas electrónicas en los procesos de plebiscito y referéndum;
+
+> <small>(ADICIONADA, P.O. 5 DE AGOSTO DE 2011)</small>
+
+XVIII.- Urna electrónica: a la máquina receptora de votos y emisora de comprobantes de votación y resultados de la jornada electoral, y
+
+> <small>(ADICIONADA, P.O. 5 DE AGOSTO DE 2011)</small>
+
+XIX.-Centros de votación: a los espacios públicos que además de cumplir con los requerimientos de ubicación señalados para las casillas electorales, cumplan con las condiciones eléctricas y ambientales que permitan incorporar una infraestructura tecnológica más robusta y segura, permitiendo un alto flujo de votantes.
 
 ###### Artículo 8.
 
@@ -129,9 +161,11 @@ IV.- Los demás que establezca esta Ley y los reglamentos municipales.
 
 Es obligación de las autoridades estatales y municipales, en su ámbito de competencia, garantizar el respeto de los derechos previstos en esta Ley para los ciudadanos mexicanos, residentes en Baja California, que gocen del pleno ejercicio de sus derechos político-electorales.
 
+> <small>(REFORMADO, P.O. 5 DE AGOSTO DE 2011)</small>
+
 ###### Artículo 11.
 
-Para los efectos de esta Ley, son vecinos del estado los ciudadanos que tengan residencia efectiva en su territorio de por lo menos seis meses.
+Para los efectos de esta Ley, son vecinos del Estado los ciudadanos que tengan residencia efectiva en su territorio de por lo menos seis meses.
 
 ###### Artículo 12.
 
@@ -153,7 +187,9 @@ II.- Los actos de los Ayuntamientos que se consideren trascendentes para la vida
 
 III.- Los actos del Congreso del Estado referentes a la formación de nuevos municipios dentro de los límites de los existentes o la supresión de alguno de estos.
 
-En la formación de un municipio o en su supresión, se estará a lo dispuesto en la Constitución y en la ley respectiva.
+> <small>(REFORMADO, P.O. 5 DE AGOSTO DE 2011)</small>
+
+En la formación de un municipio o en su supresión, se estará a lo dispuesto en la Constitución del Estado y en la ley respectiva.
 
 ###### Artículo 14.
 
@@ -165,21 +201,31 @@ II.- El Gobernador;
 
 III.- Los Ayuntamientos, y
 
-IV.- Los ciudadanos vecinos en el Estado que representen cuando menos el 1% de los electores de la Lista Nominal, o en su caso, la correspondiente al municipio respectivo, cuando los efectos del acto se circunscriban sólo a uno de estos.
+> <small>(REFORMADA, P.O. 5 DE AGOSTO DE 2011)</small>
+
+IV.- Los ciudadanos vecinos en el Estado que representen cuando menos el 0.5% de los electores de la Lista Nominal, o en su caso, la correspondiente al municipio respectivo, cuando los efectos del acto se circunscriban sólo a uno de estos.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE AGOSTO DE 2011)</small>
 
 ###### Artículo 15.
 
-El Instituto a través del Consejo, es el órgano responsable de la organización y desarrollo del proceso de plebiscito, de conformidad a lo dispuesto en el Artículo 5 de la Constitución, a excepción del plebiscito a que se refiere el Artículo 27 fracción XXVI de la misma Constitución.
+El Instituto a través del Consejo General, es el órgano responsable de la organización y desarrollo del proceso de plebiscito, de conformidad a lo dispuesto en el artículo 5 de la Constitución del Estado, a excepción del plebiscito a que se refiere el artículo 27 fracción XXVI de la misma Constitución.
 
 Asimismo, es la autoridad competente para efectuar la calificación de procedencia, el cómputo de los resultados, los efectos del plebiscito y ordenar, en su caso, los actos que sean necesarios de acuerdo a esta Ley.
 
-A fin de contar con mayores elementos de juicio al momento de calificar la procedencia, el Consejo informará al Congreso del Estado de las solicitudes que haya recibido, dentro de las veinticuatro horas siguientes: De considerarlo necesario el Congreso del Estado podrá emitir opinión en un plazo no mayor de diez días hábiles.
+> <small>(REFORMADO, P.O. 5 DE AGOSTO DE 2011)</small>
 
-El Consejo deberá incluir y aprobar dentro del Proyecto de Presupuesto de Egresos del Instituto, una partida destinada a la realización de los procesos de plebiscito y referéndum, para su inclusión en el Proyecto de Presupuesto de Egresos del Estado.
+A fin de contar con mayores elementos de juicio al momento de calificar la procedencia, el Consejo General informará al Congreso del Estado de las solicitudes que haya recibido, dentro de las veinticuatro horas siguientes: De considerarlo necesario el Congreso del Estado podrá emitir opinión en un plazo no mayor de diez días hábiles.
+
+> <small>(REFORMADO, P.O. 5 DE AGOSTO DE 2011)</small>
+
+El Consejo General deberá incluir y aprobar dentro del Proyecto de Presupuesto de Egresos del Instituto, una partida destinada a la realización de los procesos de plebiscito y referéndum, para su inclusión en el Proyecto de Presupuesto de Egresos del Estado.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE AGOSTO DE 2011)</small>
 
 ###### Artículo 16.
 
-La solicitud de plebiscito se presentará ante el Consejo y deberá contener por lo menos:
+La solicitud de plebiscito se presentará ante el Consejo General y deberá contener por lo menos:
 
 I.- El acto que se pretende someter a plebiscito;
 
@@ -187,15 +233,19 @@ II.- La exposición de los motivos y razones por las cuales el acto se considera
 
 III.- Determinación de la circunscripción territorial en la que se pretenda realizar el plebiscito, y
 
-IV.- Cuando sea presentada por ciudadanos, deberá contener los datos de cada solicitante como son: nombre completo, número de registro de elector, clave de Credencial Estatal de Elector, firma de cada uno de los solicitantes y la designación de un representante común, quien deberá señalar domicilio para oír y recibir notificaciones. En este caso el Instituto a través de su órgano directivo correspondiente verificará los datos aportados.
+> <small>(REFORMADA, P.O. 5 DE AGOSTO DE 2011)</small>
+
+IV.- Cuando sea presentada por ciudadanos, deberá contener los datos de cada solicitante como son: nombre completo, número de registro de elector, clave de la credencial para votar, firma de cada uno de los solicitantes y la designación de un representante común, quien deberá señalar domicilio para oír y recibir notificaciones. En este caso el Instituto a través de su órgano directivo correspondiente verificará los datos aportados.
 
 El representante común designado por los promoventes, tendrá la representación legal para los efectos de esta Ley.
 
 Para el caso de esta última fracción, el Instituto facilitará al solicitante los formatos oficiales a efecto de que en ellos recabe la información de los ciudadanos que representen el porcentaje que exige esta Ley.
 
+> <small>(REFORMADO, P.O. 5 DE AGOSTO DE 2011)</small>
+
 ###### Artículo 17.
 
-En un plazo no mayor de quince días hábiles siguientes a la recepción de la solicitud, el Consejo determinará si se satisfacen los requisitos a que se refiere el artículo anterior, haciéndolo del conocimiento de los solicitantes y de la autoridad de quien emana el acto.
+En un plazo no mayor de quince días hábiles siguientes a la recepción de la solicitud, el Consejo General determinará si se satisfacen los requisitos a que se refiere el artículo anterior, haciéndolo del conocimiento de los solicitantes y de la autoridad de quien emana el acto.
 
 ###### Artículo 18.
 
@@ -211,9 +261,11 @@ IV.- Los actos en materia de expropiación o de limitación a la propiedad parti
 
 V.- Los demás actos cuya realización sea obligatoria en los términos de las leyes aplicables y reglamentos respectivos.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE AGOSTO DE 2011)</small>
+
 ###### Artículo 19.
 
-A cada proceso de plebiscito procederá una convocatoria pública que se deberá expedir cuando menos sesenta días naturales antes de la fecha de la votación. La convocatoria la hará el Instituto a través del Consejo.
+A cada proceso de plebiscito procederá una convocatoria pública que se deberá expedir cuando menos sesenta días naturales antes de la fecha de la votación. La convocatoria la hará el Instituto a través del Consejo General.
 
 La convocatoria se publicará en el Periódico Oficial, en los principales diarios de circulación en la entidad y, se difundirá en los medios electrónicos que se determine y contendrá:
 
@@ -235,11 +287,13 @@ VIII.- Lugar y fecha de la emisión de la convocatoria.
 
 El Instituto podrá auxiliarse de los órganos de gobierno, instituciones de educación superior, organizaciones no gubernamentales, u organismos ciudadanizados contemplados en las leyes del Estado relacionados con la materia de que trate el plebiscito, para la elaboración de las preguntas que se someterán a consulta.
 
+> <small>N. DE E. VÉASE LITERALIDAD DEL DECRETO PUBLICADO EN EL P.O. DE 5 DE AGOSTO DE 2011, PÁGINA 31.</small>
+
+> <small>(REFORMADO, P.O. 5 DE AGOSTO DE 2011)</small>
+
 ###### Artículo 20.
 
-En el año en que tengan verificativo elecciones ordinarias, no podrá realizarse plebiscito durante el período comprendido entre la preparación de la elección y los sesenta días posteriores a la Jornada Electoral, de conformidad con la LIPE.
-
-No podrá realizarse más de un plebiscito con circunscripción estatal en el mismo año. En el caso de plebiscitos con circunscripción municipal el Consejo determinará la posibilidad de que se realice más de uno.
+En el año en que tengan verificativo elecciones ordinarias, se podrán realizar plebiscitos el día de la elección agregando las boletas de aprobación o rechazo de los actos que formule el solicitante del plebiscito al material electoral.
 
 Tratándose de plebiscitos municipales se estará a lo previsto en los reglamentos municipales.
 
@@ -251,11 +305,15 @@ I.- Tener vecindad en el estado o municipio de que se trate, con residencia efec
 
 II.- Estar inscritos en el Padrón y aparecer en el Listado Nominal, y
 
-III.- Tengan Credencial Estatal de Elector.
+> <small>(REFORMADA, P.O. 5 DE AGOSTO DE 2011)</small>
+
+III.- Tengan credencial para votar.
+
+> <small>(REFORMADO, P.O. 5 DE AGOSTO DE 2011)</small>
 
 ###### Artículo 22.
 
-Los resultados del plebiscito tendrán carácter vinculatorio para los actos del Poder Ejecutivo, sólo cuando una de las opciones obtenga la mayoría de votación válidamente emitida y esta corresponda cuando menos a la cuarta parte de los ciudadanos incluidos en la Lista Nominal.
+Los resultados del plebiscito tendrán carácter vinculatorio para los actos del Poder Ejecutivo, sólo cuando una de las opciones obtenga la mayoría de votación válidamente emitida y esta corresponda cuando menos al diez por ciento de los ciudadanos incluidos en la lista nominal en la circunscripción territorial que tenga verificativo el plebiscito.
 
 ###### Artículo 23.
 
@@ -271,7 +329,9 @@ Los resultados del plebiscito se publicarán en el Periódico Oficial y en los d
 
 El referéndum es el proceso mediante el cual los ciudadanos manifiestan su aprobación o rechazo a:
 
-I.- Las modificaciones, reformas, adiciones o derogaciones a la Constitución que sean trascendentes para la vida pública del Estado;
+> <small>(REFORMADA, P.O. 5 DE AGOSTO DE 2011)</small>
+
+I.- Las modificaciones, reformas, adiciones o derogaciones a la Constitución del Estado que sean trascendentes para la vida pública del Estado;
 
 II.- La creación, modificación, reformas, adición, derogación o abrogación de las leyes o decretos que expida el Congreso del Estado que sean trascendentes para la vida pública del Estado, y
 
@@ -283,7 +343,9 @@ El referéndum podrá ser:
 
 I.- Atendiendo a la materia:
 
-a) Referéndum constitucional, que tiene por objeto aprobar o rechazar modificaciones, reformas, adiciones o derogaciones a la Constitución;
+> <small>(REFORMADO, P.O. 5 DE AGOSTO DE 2011)</small>
+
+a) Referéndum constitucional, que tiene por objeto aprobar o rechazar modificaciones, reformas, adiciones o derogaciones a la Constitución del Estado;
 
 b) Referéndum legislativo, que tiene por objeto aprobar o rechazar la creación, modificación, reforma, adición, derogación o abrogación de las leyes o decretos que expida el Congreso del Estado y
 
@@ -297,15 +359,19 @@ b) Abrogatorio, que tiene por resultado rechazar totalmente el ordenamiento que 
 
 c) Derogatorio, que tiene por resultado rechazar sólo una parte del total del ordenamiento que se somete a consulta.
 
+> <small>(REFORMADO, P.O. 5 DE AGOSTO DE 2011)</small>
+
 ###### Artículo 26.
 
-El Instituto, a través del Consejo, es el órgano responsable de la organización y desarrollo del proceso de referéndum, así como la autoridad competente para calificar su procedencia y eficacia, efectuar el cómputo de los resultados y ordenar, en su caso, los actos necesarios en los términos de esta Ley.
+El Instituto, a través del Consejo General, es el órgano responsable de la organización y desarrollo del proceso de referéndum, así como la autoridad competente para calificar su procedencia y eficacia, efectuar el cómputo de los resultados y ordenar, en su caso, los actos necesarios en los términos de esta Ley.
 
 ###### Artículo 27.
 
 Para los efectos de esta Ley, se entenderá como norma o normas objeto de referéndum:
 
-I.- A la modificación, reforma, adición o derogación a la Constitución;
+> <small>(REFORMADA, P.O. 5 DE AGOSTO DE 2011)</small>
+
+I.- A la modificación, reforma, adición o derogación a la Constitución del Estado;
 
 II.- A la creación, modificación, reforma, adición, derogación y abrogación de leyes o decretos que expida el Congreso del Estado, y
 
@@ -325,7 +391,9 @@ IV.- Regulación Interna del Congreso del Estado;
 
 V.- Regulación Interna del Poder Judicial del Estado, y
 
-VI.- Las que determine la Constitución y las demás leyes.
+> <small>(REFORMADA, P.O. 5 DE AGOSTO DE 2011)</small>
+
+VI.- Las que determine la Constitución del Estado, y demás leyes.
 
 ###### Artículo 29.
 
@@ -335,7 +403,9 @@ I.- El Gobernador;
 
 II.- Los Ayuntamientos siempre que lo soliciten cuando menos dos de éstos, y
 
-III.- Los ciudadanos que representen cuando menos el 2.5% de la Lista Nominal.
+> <small>(REFORMADA, P.O. 5 DE AGOSTO DE 2011)</small>
+
+III.- Los ciudadanos que representen cuando menos el 1.5% de la Lista Nominal.
 
 ###### Artículo 30.
 
@@ -359,9 +429,11 @@ VI.- Nombre y firma de la autoridad promovente, o en su caso, de quien tenga su 
 
 La solicitud de referéndum legislativo deberá cumplir con los mismos requisitos.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE AGOSTO DE 2011)</small>
+
 ###### Artículo 32.
 
-Las solicitudes de los ciudadanos para promover referéndum constitucional o legislativo, deberán presentarse en las formas oficiales que elabore y distribuya en forma gratuita el Instituto, las cuales contendrán los espacios para la información siguiente:
+Las solicitudes de los ciudadanos para promover referéndum constitucional o legislativo deberán presentarse en las formas oficiales que elabore y distribuya en forma gratuita el Instituto, las cuales contendrán los espacios para la información siguiente:
 
 I.- Nombre del representante común de los promoventes;
 
@@ -373,7 +445,9 @@ IV.- Autoridad de la que emana la materia de referéndum;
 
 V.- Exposición de motivos por los cuales se considera necesario someter la norma o normas a referéndum, y
 
-VI.- Nombre, firma y clave de la Credencial Estatal de Elector de cada uno de los ciudadanos. El Instituto a través de su órgano directivo competente verificará los datos de las credenciales estatales de elector.
+> <small>(REFORMADA, P.O. 5 DE AGOSTO DE 2011)</small>
+
+VI.- Nombre, firma y clave de la credencial para votar de cada uno de los ciudadanos. El Instituto a través de su órgano directivo competente, y en los términos del convenio respectivo con el Instituto Federal Electoral, verificará los datos de las credenciales para votar.
 
 ###### Artículo 33.
 
@@ -383,7 +457,9 @@ I.- El Gobernador;
 
 II.- Dos o más Ayuntamientos, y
 
-III.- Los ciudadanos que representen cuando menos el 1% de la Lista Nominal del Estado.
+> <small>(REFORMADA, P.O. 5 DE AGOSTO DE 2011)</small>
+
+III.- Los ciudadanos que representen cuando menos el 0.5% de la Lista Nominal del Estado.
 
 ###### Artículo 34.
 
@@ -393,17 +469,21 @@ La solicitud de referéndum legislativo que haga el Gobernador o los Ayuntamient
 
 El Instituto, al recibir una solicitud de proceso de referéndum, le asignará un número consecutivo de registro, el cual indicará el orden en que ha sido presentada y la fecha de su inscripción.
 
+> <small>(REFORMADO, P.O. 5 DE AGOSTO DE 2011)</small>
+
 ###### Artículo 36.
 
-El Consejo resolverá en un plazo no mayor de cinco días hábiles siguientes a la recepción de la solicitud de referéndum, el cumplimiento de los requisitos a que se refieren los artículos 30, 32, 33 y 39 de esta Ley. En caso afirmativo notificará al Congreso del Estado y a los solicitantes, de lo contrario desechará de plano la solicitud.
+El Consejo General resolverá en un plazo no mayor de cinco días hábiles siguientes a la recepción de la solicitud de referéndum, el cumplimiento de los requisitos a que se refieren los artículos 30, 32, 33 y 39 de esta Ley. En caso afirmativo notificará al Congreso del Estado y a los solicitantes, de lo contrario desechará de plano la solicitud.
 
 ###### Artículo 37.
 
 A cada proceso de referéndum precederá una convocatoria que se deberá expedir y difundir cuando menos sesenta días hábiles antes de la fecha de la votación.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE AGOSTO DE 2011)</small>
+
 ###### Artículo 38.
 
-Corresponde al Instituto elaborar la convocatoria a través del Consejo, debiendo publicarse en el Periódico Oficial, los principales diarios de circulación de la entidad y en los medios de comunicación electrónicos que se consideren convenientes y, contendrá:
+Corresponde al Instituto elaborar la convocatoria a través del Consejo General, debiendo publicarse en el Periódico Oficial, los principales diarios de circulación de la entidad y en los medios de comunicación electrónicos que se consideren convenientes y, contendrá:
 
 I.- Referencia de la norma o normas que se propone someter a referéndum;
 
@@ -419,9 +499,13 @@ VI.- Lugar y fecha de la emisión de la convocatoria, y
 
 VII.- Pregunta o preguntas conforme a las que los electores expresarán su aprobación o rechazo.
 
+> <small>(REFORMADO, P.O. 5 DE AGOSTO DE 2011)</small>
+
 ###### Artículo 39.
 
-Solamente podrá realizarse un referéndum al año, y cuando tengan verificativo elecciones ordinarias no podrá realizarse referéndum alguno, desde el inicio del proceso electoral y hasta sesenta días posteriores a la elección.
+En el año en que tengan verificativo elecciones ordinarias, se podrán realizar referéndum el día de la elección agregando las boletas de aprobación o rechazo de los actos que formule el solicitante del referéndum al material electoral.
+
+En el caso de referéndum con circunscripción municipal el Consejo General determinará la posibilidad de que se realice más de uno.
 
 ###### Artículo 40.
 
@@ -431,21 +515,29 @@ I.- Tengan vecindad en el Estado, con residencia efectiva de por lo menos seis m
 
 II.- Estén inscritos en el padrón, y aparezcan en el Listado Nominal, y
 
-III.- Tengan Credencial Estatal de Elector.
+> <small>(REFORMADA, P.O. 5 DE AGOSTO DE 2011)</small>
+
+III.- Tengan credencial para votar.
 
 #### SECCIÓN SEGUNDA. DE LA VOTACIÓN Y LA ADOPCIÓN DE LA DECISIÓN
 
+> <small>(REFORMADO, P.O. 5 DE AGOSTO DE 2011)</small>
+
 ###### Artículo 41.
 
-El referéndum constitucional sólo podrá aprobarse o rechazarse, cuando así lo determine la votación mayoritaria de los ciudadanos de cuando menos la mitad más uno de los municipios que conforman el estado y hayan participado en dicho proceso un número de ciudadanos no menor al treinta y cinco por ciento de los que votaron de acuerdo al Listado Nominal utilizado para la elección de diputados inmediata anterior.
+El referéndum constitucional sólo podrá aprobarse o rechazarse, cuando así lo determine la votación mayoritaria de los ciudadanos de cuando menos la mitad más uno de los municipios que conforman el Estado y hayan participado en dicho proceso un número de ciudadanos no menor al 20 por ciento de los que votaron de acuerdo al Listado Nominal utilizado para la elección de Diputados inmediata anterior.
+
+> <small>(REFORMADO, P.O. 5 DE AGOSTO DE 2011)</small>
 
 ###### Artículo 42.
 
-El referéndum legislativo sólo podrá ser rechazado o aprobado por la mayoría de votos de los electores, siempre y cuando hayan participado en el proceso cuando menos el veinticinco por ciento de los que votaron de acuerdo al Listado Nominal utilizado para la elección de diputados inmediata anterior.
+El referéndum legislativo sólo podrá ser rechazado o aprobado por la mayoría de votos de los electores, siempre y cuando hayan participado en el proceso cuando menos el diez por ciento de los ciudadanos de los que votaron de acuerdo al Listado Nominal utilizado para la elección de diputados inmediata anterior.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE AGOSTO DE 2011)</small>
 
 ###### Artículo 43.
 
-El Consejo realizará el cómputo de los resultados anotados en las actas de cómputo y hará la declaratoria de validez, ordenando su publicación en el Periódico Oficial, en los diarios de mayor circulación de la entidad y en los medios electrónicos que se consideren necesarios.
+El Consejo General realizará el cómputo de los resultados anotados en las actas de cómputo y hará la declaratoria de validez, ordenando su publicación en el Periódico Oficial, en los diarios de mayor circulación de la entidad y en los medios electrónicos que se consideren necesarios.
 
 Los resultados del referéndum tendrán carácter vinculatorio en los términos de los artículos 41 y 42 de esta Ley.
 
@@ -453,19 +545,25 @@ Los resultados del referéndum tendrán carácter vinculatorio en los términos 
 
 #### SECCIÓN PRIMERA. DE LA PROCEDENCIA O IMPROCEDENCIA
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE AGOSTO DE 2011)</small>
+
 ###### Artículo 44.
 
-El Instituto a través del Consejo, con el voto de cuando menos las dos terceras partes de sus integrantes con derecho a voto, previo estudio elaborado por una Comisión de ellos mismos, determinará si es trascendente para la vida pública del Estado, debidamente fundado y motivado según sea el caso:
+El Instituto a través del Consejo General, con el voto de cuando menos las dos terceras partes de sus integrantes con derecho a voto, previo estudio elaborado por la Comisión de Participación Ciudadana y Educación Cívica del Consejo, determinará si es trascendente para la vida pública del Estado, debidamente fundado y motivado según sea el caso:
 
 I.- Los actos del Poder Ejecutivo, en caso de plebiscito, y
 
 II.- La norma o normas que se propone someter a referéndum.
 
-La Comisión de Consejeros Ciudadanos que se integre podrá auxiliarse para la elaboración de su dictamen de los órganos de gobierno, instituciones de educación superior, organizaciones no gubernamentales, u organismos ciudadanizados relacionados con la materia de que se trate.
+> <small>(REFORMADO, P.O. 5 DE AGOSTO DE 2011)</small>
+
+La Comisión de Participación Ciudadana y Educación Cívica del Consejo General, podrá auxiliarse para la elaboración de su dictamen de los órganos de gobierno, instituciones de educación superior, organizaciones no gubernamentales, u organismos ciudadanizados relacionados con la materia de que se trate.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE AGOSTO DE 2011)</small>
 
 ###### Artículo 45.
 
-El Consejo después de decretar que la solicitud de plebiscito o de referéndum cumple con los requisitos que establece esta Ley, notificará a la autoridad de la que emana el acto o la norma objeto del proceso respectivo. La notificación deberá contener por lo menos:
+El Consejo General después de decretar que la solicitud de plebiscito o de referéndum cumple con los requisitos que establece esta Ley, notificará a la autoridad de la que emana el acto o la norma objeto del proceso respectivo. La notificación deberá contener por lo menos:
 
 I.- La mención del acto que se pretenda someter a plebiscito, o de la norma o normas objeto de referéndum;
 
@@ -499,13 +597,15 @@ VII.- La norma objeto del referéndum no exista, y
 
 VIII.- El escrito de solicitud sea insultante, atente contra las instituciones o sea ilegible o su exposición de motivos no contenga una relación directa entre los motivos expuestos y el acto o norma.
 
+> <small>(REFORMADO, P.O. 5 DE AGOSTO DE 2011)</small>
+
 ###### Artículo 48.
 
-Dentro del término de quince días hábiles contados a partir de la fecha en que se recibió la contestación de la autoridad, el Instituto, a través del Consejo, deberá emitir el Acuerdo que declare la procedencia o improcedencia del plebiscito o del referéndum, según se trate.
+Dentro del término de quince días hábiles contados a partir de la fecha en que se recibió la contestación de la autoridad, el Consejo General deberá emitir el Acuerdo que declare la procedencia o improcedencia del plebiscito o del referéndum, según se trate.
 
-En el Acuerdo que emita el Consejo, declarando procedente el proceso de plebiscito, ordenará a la autoridad que suspenda el acto y/o sus efectos hasta en tanto se conozcan oficialmente los resultados de dicha consulta.
+En el Acuerdo que se emita declarando procedente el proceso de plebiscito, ordenará a la autoridad que suspenda el acto y/o sus efectos hasta en tanto se conozcan oficialmente los resultados de dicha consulta.
 
-El Acuerdo que emita el Consejo declarando procedente el proceso de referéndum, señalará en su caso el efecto en que se haya admitido, en los términos del Artículo 25 fracción II de esta Ley.
+El Acuerdo que se emita declarando procedente el proceso de referéndum, señalará en su caso el efecto en que se haya admitido, en los términos del artículo 25 fracción II de esta Ley.
 
 ###### Artículo 49.
 
@@ -513,15 +613,19 @@ En el caso de la solicitud de plebiscito o referéndum presentadas por ciudadano
 
 El plazo anterior iniciará a partir del día siguiente de la notificación que se haga a los solicitantes por parte del Instituto.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE AGOSTO DE 2011)</small>
+
 ###### Artículo 50.
 
-El Consejo tendrá facultades para ampliar los plazos y términos establecidos en esta Ley, cuando:
+El Consejo General tendrá facultades para ampliar los plazos y términos establecidos en esta Ley, cuando:
 
 a) Exista imposibilidad material para realizar las actividades o actos previstos para el proceso de plebiscito o de referéndum;
 
 b) Resulte conveniente para un mejor y debido cumplimiento de las diversas etapas del proceso de plebiscito o de referéndum.
 
-El acuerdo o acuerdos del Consejo que determinen ampliaciones a los plazos y términos de los procesos mencionados, serán enviados para su publicación en el Periódico Oficial, dentro de los tres días siguientes a la fecha de su aprobación.
+> <small>(REFORMADO, P.O. 5 DE AGOSTO DE 2011)</small>
+
+El acuerdo o acuerdos del Consejo General que determinen ampliaciones a los plazos y términos de los procesos mencionados, serán enviados para su publicación en el Periódico Oficial, dentro de los tres días siguientes a la fecha de su aprobación.
 
 #### SECCIÓN SEGUNDA. DE LA ORGANIZACIÓN
 
@@ -541,45 +645,75 @@ I.- Preparación: comprende desde la publicación del Acuerdo donde se declare l
 
 II.- Jornada de consulta: inicia el día de la votación y concluye con la clausura de casillas;
 
-III.- Cómputos y calificación de resultados: inicia con la remisión de los expedientes electorales al Consejo y concluye con los cómputos de la votación, y
+> <small>(REFORMADA, P.O. 5 DE AGOSTO DE 2011)</small>
+
+III.- Cómputos y calificación de resultados: inicia con la remisión de los expedientes electorales al Consejo General y concluye con los cómputos de la votación, y
 
 IV.- Declaración de los efectos: comprende desde los resultados y concluye con la notificación de los mismos a la autoridad.
 
-Los representantes de los partidos políticos registrados o acreditados ante el Consejo Estatal Electoral, podrán participar en la vigilancia de la organización y desarrollo de los procesos a los que se refiere este Artículo.
+> <small>(REFORMADO, P.O. 5 DE AGOSTO DE 2011)</small>
 
-#### SECCIÓN TERCERA. DE LAS MESAS DIRECTIVAS DE CASILLA
+Los representantes de los partidos políticos registrados o acreditados ante el Consejo General, podrán participar en la vigilancia de la organización y desarrollo de los procesos a los que se refiere este artículo.
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 5 DE AGOSTO DE 2011)</small>
+
+#### SECCIÓN TERCERA. DE LAS MESAS DIRECTIVAS DE CASILLA Y CENTROS DE VOTACIÓN
+
+> <small>(REFORMADO, P.O. 5 DE AGOSTO DE 2011)</small>
 
 ###### Artículo 54.
 
-Las Mesas Directivas de Casilla se integrarán con un Presidente, un Secretario, dos escrutadores, y dos suplentes generales. Tendrán las atribuciones y obligaciones que les confiere la LIPE, en lo que resulte aplicable y no sea contradictorio a lo que disponga esta Ley. En la integración de las Mesas Directivas de Casilla no podrán participar representantes de partidos políticos, ni servidores públicos del orden de gobierno cuyo acto se someta a consulta.
+Las Mesas Directivas de Casilla se integrarán con un Presidente, un Secretario, dos escrutadores, y dos suplentes generales. Tendrán las atribuciones y obligaciones que les confiere la LIPE, en lo que resulte aplicable y no sea contradictorio a lo que disponga esta Ley.
+
+En los casos en que se instalen centros de votación, estos se integrarán con un Presidente, un Secretario, dos vocales, y hasta dos suplentes generales, que ejercerán las atribuciones y obligaciones que acuerde el Consejo General, al aprobar el proyecto para la realización de los procesos de plebiscito o de referéndum, según se trate.
+
+En la integración de las Mesas Directivas de Casilla y Centros de Votación, no podrán participar representantes de partidos políticos, ni servidores públicos del orden de gobierno cuyo acto se someta a consulta.
+
+> <small>(REFORMADO, P.O. 5 DE AGOSTO DE 2011)</small>
 
 ###### Artículo 55.
 
-El Instituto, en atención a las necesidades particulares y específicas de cada proceso, decidirá el número y ubicación de las Mesas Directivas de Casilla, debiendo establecerse una casilla por cada cinco secciones electorales en donde se aplicará el proceso respectivo.
+El Instituto, en atención a las necesidades particulares y específicas de cada proceso, decidirá el número y ubicación de las Mesas Directivas de Casilla, debiendo establecerse por lo menos una casilla por cada diez secciones electorales en donde se aplicará el proceso respectivo.
+
+Si el mismo día de la Jornada Electoral, se realizaran los procesos de plebiscito o referéndum, se estará a lo dispuesto por el Instituto en todo lo relacionado a la instalación y ubicación de Casillas.
 
 #### SECCIÓN CUARTA. DEL PROCESO
 
+> <small>(REFORMADO, P.O. 5 DE AGOSTO DE 2011)</small>
+
 ###### Artículo 56.
 
-El proceso de plebiscito o de referéndum se inicia con la publicación en el Periódico Oficial del Acuerdo de Procedencia que emita el Consejo.
+El proceso de plebiscito o de referéndum se inicia con la publicación en el Periódico Oficial del Acuerdo de Procedencia que emita el Consejo General.
+
+> <small>(REFORMADO, P.O. 5 DE AGOSTO DE 2011)</small>
 
 ###### Artículo 57.
 
-En el proceso de plebiscito o de referéndum, se deberá aplicar en lo conducente y de manera supletoria, las disposiciones relativas a la integración y ubicación de las Mesas Directivas de Casilla, instalación y apertura de las mismas, votación, escrutinio, cómputo y clausura de la casilla, contenidas en la LIPE.
+En el proceso de plebiscito o de referéndum, se deberá aplicar en lo conducente y de manera supletoria, las disposiciones relativas a la integración de las Mesas Directivas de Casilla, instalación y apertura de las mismas, votación, escrutinio, cómputo y clausura de la casilla, contenidas en la LIPE.
+
+> <small>(REFORMADO, P.O. 5 DE AGOSTO DE 2011)</small>
 
 ###### Artículo 58.
 
-El Instituto, a través de sus órganos directivos competentes, preparará el proyecto para la realización de los procesos de plebiscito o de referéndum, para ser aprobado por el Consejo.
+El Instituto, a través de su órgano directivo, preparará el proyecto para la realización de los procesos de plebiscito o de referéndum, para ser aprobado por el Consejo General.
 
-Dicho proyecto podrá contemplar la utilización de nuevas tecnologías para su organización y votación, incluyendo la instalación de centros de votación. La instrumentación de la tecnología sólo podrá ser autorizada siempre y cuando garantice la autenticidad y el secreto del voto conforme a lo dispuesto en la LIPE.
+Dicho proyecto podrá contemplar la utilización de nuevas tecnologías para su organización y votación, incluyendo la urna electrónica, el voto electrónico y la instalación de centros de votación.
+
+La instrumentación de la tecnología sólo podrá ser autorizada siempre y cuando garantice la autenticidad y el secreto del voto conforme a lo dispuesto en la LIPE.
+
+Tratándose de plebiscito o referéndum de circunscripción estatal, la urna electrónica podrá contemplarse para la totalidad de los municipios, o uno o varios de ellos; implementándose en este caso el sistema de Mesas Directivas de Casillas, para los demás.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE AGOSTO DE 2011)</small>
 
 ###### Artículo 59.
 
-Para la emisión del voto, en los procesos de plebiscito o referéndum, se imprimirán las boletas electorales, conforme al modelo que aprueben el Consejo, debiendo contener cuando menos los siguientes datos:
+Para la emisión del voto, en los procesos de plebiscito o referéndum, se imprimirán las boletas, conforme al modelo que apruebe el Consejo General, debiendo contener cuando menos los siguientes datos:
 
 I.- Entidad, Distrito Electoral y Municipio, de conformidad con la naturaleza del voto y con la aplicación territorial del proceso;
 
-II.- Talón desprendible con folio;
+> <small>(REFORMADA, P.O. 5 DE AGOSTO DE 2011)</small>
+
+II.- Talón desprendible con folio, salvo en los casos de votación electrónica;
 
 III.- La pregunta al ciudadano sobre si está conforme o no con el acto sometido a plebiscito o en su caso, si aprueba o no la norma o normas que se someten a referéndum;
 
@@ -587,7 +721,13 @@ IV.- Cuadros o círculos para el SI y para el NO;
 
 V.- Descripción del acto sometido a plebiscito o, en su caso, de la norma o normas sometidas a referéndum, y
 
-VI.- Sello y firmas impresas del Consejero Presidente y del Secretario Fedatario del Consejo.
+> <small>(REFORMADA, P.O. 5 DE AGOSTO DE 2011)</small>
+
+VI.- Sello y firmas impresas del Consejero Presidente y del Secretario Fedatario del Consejo General.
+
+> <small>(ADICIONADO, P.O. 5 DE AGOSTO DE 2011)</small>
+
+En los casos de votación electrónica, deberá contener la firma electrónica de los servidores públicos a los que se refiere la fracción VI.
 
 El voto a que se refiere este artículo será libre, secreto, directo, personal e intransferible.
 
@@ -603,27 +743,37 @@ El Instituto previamente a la celebración de un proceso de plebiscito o de refe
 
 Durante los ocho días anteriores a la jornada de consulta de los procesos de plebiscito o de referéndum, y hasta el cierre oficial de las consultas, queda prohibida la publicación o difusión, total o parcial, de encuestas, sondeos de opinión o simulacros de votación, así como de las operaciones de simulación del voto, que tengan por objeto dar a conocer las preferencias de los ciudadanos, quedando sujetos, quienes lo hicieren a lo dispuesto por el Código Penal de Baja California.
 
+> <small>(REFORMADO, P.O. 5 DE AGOSTO DE 2011)</small>
+
 ###### Artículo 62.
 
-Si durante el transcurso de la campaña de divulgación, la celebración de la consulta pudiere constituir desorden público o, se observare un ambiente de intimidación para los votantes, el Consejo, podrá suspender la realización de la consulta.
+Si durante el transcurso de la campaña de divulgación, la celebración de la consulta pudiere constituir desorden público o, se observare un ambiente de intimidación para los votantes, el Consejo General, podrá suspender la realización de la consulta.
+
+> <small>(REFORMADO, P.O. 5 DE AGOSTO DE 2011)</small>
 
 ###### Artículo 63.
 
-La calificación de la validez del proceso de plebiscito y de referéndum, la realizará el Consejo, aplicando en lo conducente lo que establece la LIPE.
+La calificación de la validez del proceso de plebiscito y de referéndum, la realizará el Consejo General, aplicando en lo conducente lo que establece la LIPE.
+
+> <small>(REFORMADO, P.O. 5 DE AGOSTO DE 2011)</small>
 
 ###### Artículo 64.
 
-Una vez efectuado el cómputo correspondiente, el Consejo dará el resultado final de la votación en los procesos de plebiscito o de referéndum.
+Una vez efectuado el cómputo correspondiente, el Consejo General dará el resultado final de la votación en los procesos de plebiscito o de referéndum.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE AGOSTO DE 2011)</small>
 
 ###### Artículo 65.
 
-Transcurrido el plazo de impugnación o, en su caso, haya causado ejecutoria la resolución del Tribunal, el Consejo notificará:
+Transcurrido el plazo de impugnación o, en su caso, haya causado ejecutoria la resolución del Tribunal, el Consejo General notificará:
 
 a) En caso de referéndum, al Congreso del Estado, en el supuesto de los artículos 41 y 42 de esta Ley, a efecto de que en un plazo no mayor de treinta días hábiles siguientes a dicha notificación, acate el resultado final del proceso.
 
 b) Tratándose de plebiscito, a la autoridad de la que emanó el acto, para que en el supuesto del artículo 22, en un plazo no mayor de quince días hábiles siguientes a la notificación, lo deje sin efecto o lo revoque.
 
-Asimismo, el Consejo remitirá un resumen con resultados para su publicación en el Periódico Oficial y los difundirá en los medios de comunicación y en los diarios de mayor circulación de la entidad.
+> <small>(REFORMADO, P.O. 5 DE AGOSTO DE 2011)</small>
+
+Asimismo, el Consejo General remitirá un resumen con resultados para su publicación en el Periódico Oficial y los difundirá en los medios de comunicación y en los diarios de mayor circulación de la entidad.
 
 ###### Artículo 66.
 
@@ -643,15 +793,19 @@ Tienen interés jurídico aquellos a quienes se faculta para solicitar la celebr
 
 Tratándose de la solicitud de plebiscito o de referéndum promovida por ciudadanos, lo podrá interponer el representante común que hayan designados (sic) en los términos del artículo 16 de esta Ley.
 
+> <small>(REFORMADO, P.O. 5 DE AGOSTO DE 2011)</small>
+
 ###### Artículo 69.
 
-Los actos o resoluciones del Instituto o del Consejo dictados con motivo del plebiscito o del referéndum podrán ser impugnados ante el Tribunal.
+Los actos o resoluciones del Instituto o del Consejo General dictados con motivo del plebiscito o del referéndum podrán ser impugnados ante el Tribunal.
 
 ### CAPÍTULO CUARTO. DE LA INICIATIVA CIUDADANA
 
+> <small>(REFORMADO, P.O. 5 DE AGOSTO DE 2011)</small>
+
 ###### Artículo 70.
 
-La Iniciativa Ciudadana es el mecanismo mediante el cual los ciudadanos del Estado podrán presentar al Congreso del Estado, proyectos de creación, modificación, reforma, adición derogación o abrogación de Leyes o Decretos, incluyendo modificaciones a la Constitución Federal o a la Constitución, salvo las excepciones contempladas en el artículo 71.
+La Iniciativa Ciudadana es el mecanismo mediante el cual los ciudadanos del Estado podrán presentar al Congreso del Estado, proyectos de creación, modificación, reforma, adición derogación o abrogación de Leyes o Decretos, incluyendo modificaciones a la Constitución Federal o a la Constitución del Estado, salvo las excepciones contempladas en el artículo 71.
 
 ###### Artículo 71.
 
@@ -669,7 +823,9 @@ El Congreso del Estado desechará de plano toda Iniciativa Ciudadana que se refi
 
 La Iniciativa Ciudadana deberá presentarse ante el Congreso del Estado, la cual será presentada al Pleno y turnada a la Comisión correspondiente, para que dictamine su procedibilidad, conforme a los siguientes requisitos:
 
-I.- Se compruebe fehacientemente, que la misma se encuentra apoyada por un mínimo de 1000 ciudadanos de la Lista Nominal, mediante los nombres, firmas y claves de las credenciales estatales de elector de los promoventes;
+> <small>(REFORMADA, P.O. 5 DE AGOSTO DE 2011)</small>
+
+I.- Se compruebe fehacientemente, que la misma se encuentra apoyada por un mínimo de 500 ciudadanos de la Lista Nominal, mediante los nombres, firmas y claves de las credenciales para votar de los promoventes;
 
 II.- Se especifique que se trata de una Iniciativa, la cual contenga al menos exposición de motivos y articulado;
 
@@ -766,3 +922,11 @@ LIC. ALEJANDRO GONZALEZ ALCOCER.
 EL SECRETARIO GENERAL DE GOBIERNO
 
 C.P. JORGE RAMOS.
+
+N. DE E.: A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA AL PRESENTE ORDENAMIENTO.
+
+P.O. 5 DE AGOSTO DE 2011.
+
+Primero.- Las presentes reformas entraran en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- El Consejo General del Instituto Electoral y de Participación Ciudadana tendrá un plazo de 90 días contados a partir de la publicación de las presentes reformas a fin de adecuar sus Reglamentos conforme a las mismas.
