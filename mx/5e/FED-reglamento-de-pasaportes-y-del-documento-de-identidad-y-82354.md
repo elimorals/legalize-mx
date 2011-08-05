@@ -1,0 +1,622 @@
+---
+title: "REGLAMENTO DE PASAPORTES Y DEL DOCUMENTO DE IDENTIDAD Y VIAJE"
+identifier: "FED-reglamento-de-pasaportes-y-del-documento-de-identidad-y-82354"
+country: "mx"
+rank: "reglamento"
+publication_date: "2011-08-05"
+last_updated: "2011-08-05"
+status: "in_force"
+source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=82354&Vig=1&TPub=6"
+department: "Diario Oficial de la Federación"
+scjn_id: "82354"
+scjn_status: "VIGENTE"
+gazette: "Diario Oficial de la Federación"
+original_category: "REGLAMENTO"
+original_gazette_section: "5 PRIMERA SECCION"
+reform_count: "3"
+scjn_last_update: "2016-08-17"
+issue_date: "2011-07-29"
+---
+# REGLAMENTO DE PASAPORTES Y DEL DOCUMENTO DE IDENTIDAD Y VIAJE
+
+REGLAMENTO DE PASAPORTES Y DEL DOCUMENTO DE IDENTIDAD Y VIAJE
+
+TEXTO ORIGINAL.
+
+Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 5 de agosto de 2011.
+
+Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República.
+
+FELIPE DE JESÚS CALDERÓN HINOJOSA, Presidente de los Estados Unidos Mexicanos, en ejercicio de la facultad que me confiere el artículo 89, fracción I, de la Constitución Política de los Estados Unidos Mexicanos, y con fundamento en los artículos 28 de la Ley Orgánica de la Administración Pública Federal y 3, fracción IV de la Ley de Nacionalidad y 47, fracción II de la Ley de Migración, he tenido a bien expedir el siguiente
+
+REGLAMENTO DE PASAPORTES Y DEL DOCUMENTO DE IDENTIDAD Y VIAJE
+
+### CAPÍTULO I. DISPOSICIONES GENERALES
+
+###### ARTÍCULO 1.
+
+El presente ordenamiento tiene por objeto regular la expedición, renovación y cancelación del pasaporte y del documento de identidad y viaje.
+
+Su aplicación e interpretación para efectos administrativos corresponde a la Secretaría de Relaciones Exteriores, misma que podrá emitir disposiciones administrativas para aclarar su alcance y contenido.
+
+A falta de disposición expresa en el presente Reglamento, se estará a las prevenciones de la Ley Federal de Procedimiento Administrativo en materia de trámite, sustanciación y resolución del procedimiento.
+
+###### ARTÍCULO 2.
+
+Para los efectos del presente Reglamento, se entenderá por:
+
+I. Documento de identidad y viaje: Aquel que la Secretaría expide para permitir la salida documentada del territorio nacional al extranjero que carezca de un pasaporte vigente y se ubica en alguno de los supuestos señalados en el artículo 41 de este Reglamento;
+
+II. Impedimento administrativo: Medida establecida por la Secretaría que impide a las delegaciones, subdelegaciones u oficinas consulares expedir un pasaporte por existir irregularidades u observaciones en el trámite respectivo, en términos del artículo 46 del presente Reglamento;
+
+III. Impedimento judicial: Acto judicial decretado, ya sea como medida precautoria o como consecuencia en la ejecución de una sentencia, que establece la prohibición de abandonar el país a una persona y, por lo tanto, impide a la Secretaría expedir un pasaporte;
+
+IV. Oficinas consulares: Las representaciones del Estado Mexicano ante el gobierno de otro país, en las que se realizan las funciones que establece la Ley del Servicio Exterior Mexicano y su Reglamento;
+
+V. Pasaporte: Documento de viaje que la Secretaría expide a los mexicanos para acreditar su nacionalidad e identidad y solicitar a las autoridades extranjeras permitan el libre paso, proporcionen ayuda y protección y, en su caso, dispensen las cortesías e inmunidades que correspondan al cargo o representación del titular del mismo;
+
+Existen tres clases de pasaportes: ordinario, oficial y diplomático, y
+
+VI. Secretaría: La Secretaría de Relaciones Exteriores.
+
+###### ARTÍCULO 3.
+
+Los pasaportes se expedirán en el territorio nacional por las delegaciones y subdelegaciones de la Secretaría y en el extranjero a través de las oficinas consulares. Los documentos de identidad y viaje se expedirán en las oficinas centrales de la Secretaría.
+
+En territorio nacional, se podrán autorizar unidades móviles u oficinas de enlace para su tramitación. El establecimiento de oficinas de enlace se hará mediante convenios de colaboración administrativa.
+
+En el extranjero, se podrán habilitar unidades móviles de conformidad con las necesidades y requerimientos de los servicios consulares, entre ellos la expedición de pasaportes, previa autorización de la Secretaría.
+
+Los servidores públicos que intervengan en cualquier etapa del procedimiento para la expedición de pasaportes o documentos de identidad y viaje, serán responsables en términos de la legislación aplicable de las faltas u omisiones que cometan en el ejercicio de sus funciones.
+
+###### ARTÍCULO 4.
+
+No se expedirá pasaporte a quien se encuentre en alguno de los siguientes supuestos:
+
+I. Que esté sujeto a un impedimento judicial o administrativo, y
+
+II. Que no se cuente con el consentimiento a que se refiere el artículo 19 del presente Reglamento.
+
+###### ARTÍCULO 5.
+
+No se podrán tener dos pasaportes ordinarios vigentes. Las personas que tengan pasaporte oficial o diplomático, también podrán tener pasaporte ordinario.
+
+Las personas que tengan pasaporte oficial no podrán obtener un pasaporte diplomático. Asimismo, quien tenga pasaporte diplomático no podrá obtener un pasaporte oficial.
+
+###### ARTÍCULO 6.
+
+El pasaporte o documento de identidad y viaje mutilado o alterado carecerá de validez.
+
+Todo pasaporte o documento de identidad y viaje que presente alteraciones, enmiendas, que esté falto de hojas o cubierta o que contenga escritos o anotaciones u otros defectos que dificulten la completa identificación de su titular, perderá su validez, independientemente de las acciones legales procedentes.
+
+Los pasaportes o documentos de identidad y viaje que presenten las características indicadas en el párrafo anterior serán retenidos por la Secretaría o por la oficina consular, según sea el caso.
+
+###### ARTÍCULO 7.
+
+Los formatos de los pasaportes y del documento de identidad y viaje, así como el de sus solicitudes serán establecidos mediante Acuerdo que expida el Secretario de Relaciones Exteriores, mismo que deberá ser publicado en el Diario Oficial de la Federación.
+
+###### ARTÍCULO 8.
+
+Los documentos de procedencia extranjera que se presenten dentro de los procedimientos y trámites contemplados por el presente Reglamento, deberán estar debidamente legalizados por el representante consular mexicano del lugar de su expedición o, en su caso, apostillados por la autoridad competente.
+
+Los actos de registro civil de mexicanos en el extranjero, deberán insertarse en la oficina del registro civil de su domicilio en territorio nacional, en términos de lo dispuesto por la legislación civil local correspondiente.
+
+Únicamente en el extranjero y en casos de protección consular debidamente justificados, se podrá exentar de dichos requisitos.
+
+###### ARTÍCULO 9.
+
+Todos los documentos que se entreguen para el trámite de pasaporte y del documento de identidad y viaje, deberán ser legibles y en buen estado, sin tachaduras, enmendaduras, deterioro o alteración que impida tener certeza jurídica de su validez.
+
+La Secretaría podrá verificar ante la autoridad o persona emisora la autenticidad de los documentos presentados.
+
+###### ARTÍCULO 10.
+
+Se cancelará cualquier trámite previsto en este Reglamento, cuando el solicitante presente documentos falsos, alterados u obtenidos de manera fraudulenta, o bien, proporcione información falsa, sin perjuicio de la responsabilidad penal o administrativa en que pudiera incurrir conforme a la legislación aplicable.
+
+###### ARTÍCULO 11.
+
+En la expedición de pasaportes y del documento de identidad y viaje, antes de que sean entregados a sus titulares, deberán ser revisados por éstos, en caso de detectarse error ortográfico, gramatical o de omisión, se procederá a efectuar la reposición correspondiente, sin que represente un costo adicional para el solicitante.
+
+###### ARTÍCULO 12.
+
+En caso de robo, pérdida, o destrucción del pasaporte o del documento de identidad y viaje, su titular deberá llevar a cabo las siguientes acciones:
+
+a) Cuando el hecho ocurra en el territorio nacional, deberá levantar un acta ante el Ministerio Público o autoridad competente y comunicar inmediatamente a la Secretaría, bajo protesta de decir verdad, el hecho y las circunstancias en que hubiera ocurrido.
+
+b) Cuando el hecho ocurra en el extranjero, deberá levantarse un acta ante la autoridad competente del país donde se encuentre. Si por razones de protección consular, idioma o costumbre del lugar no fuera posible, el titular de la oficina consular que corresponda, previa verificación de la expedición del pasaporte robado o perdido que se reporta, podrá aceptar una declaración del interesado bajo protesta de decir verdad, sin necesidad de acudir a las autoridades locales.
+
+En caso de mutilación o deterioro del pasaporte o del documento de identidad y viaje, su titular deberá presentar el documento ante las delegaciones y subdelegaciones de la Secretaría o ante las oficinas consulares. Asimismo, entregará una declaración bajo protesta de decir verdad en la que manifieste el hecho y las circunstancias en que hubiera ocurrido.
+
+###### ARTÍCULO 13.
+
+Cuando se haya registrado un impedimento judicial o administrativo que impida la expedición de un pasaporte, éste subsistirá en tanto continúen vigentes las causas que lo originaron.
+
+### CAPÍTULO II. DEL PASAPORTE ORDINARIO
+
+#### SECCIÓN PRIMERA. DE LOS REQUISITOS
+
+###### ARTÍCULO 14.
+
+Para obtener un pasaporte ordinario, las personas mayores de edad deberán cumplir con los siguientes requisitos:
+
+I. Comparecer personalmente ante las oficinas competentes de la Secretaría u oficinas consulares;
+
+II. Entregar la solicitud de pasaporte debidamente requisitada y firmada. La solicitud contendrá la declaración del solicitante, bajo protesta de decir verdad, de que los documentos y datos proporcionados son correctos y auténticos;
+
+III. Cubrir el pago correspondiente en los términos previstos en la Ley Federal de Derechos;
+
+IV. Presentar dos fotografías tamaño pasaporte sin lentes, cabeza descubierta, de frente, a color con fondo blanco y que haya sido tomada hasta 30 días antes de presentar la solicitud de expedición de pasaporte;
+
+V. Acreditar la nacionalidad mexicana mediante la entrega de alguno de los siguientes documentos:
+
+a) Copia certificada del acta de nacimiento expedida por la oficina del registro civil mexicano, tomando en consideración lo dispuesto por el artículo 15 del presente Reglamento;
+
+b) Copia certificada del acta de nacimiento expedida por las oficinas consulares;
+
+c) Certificado de nacionalidad mexicana;
+
+d) Declaratoria de nacionalidad mexicana por nacimiento;
+
+e) Carta de naturalización;
+
+f) Cédula de Identidad Ciudadana, o
+
+g) Certificado de Matrícula Consular a que se refiere el artículo 3, fracción VI de la Ley de Nacionalidad.
+
+A falta de los documentos probatorios mencionados en los incisos anteriores, se podrá acreditar la nacionalidad mediante cualquier elemento que, de conformidad con la Ley de Nacionalidad, lleve a la Secretaría a la convicción de que se cumplieron los supuestos de atribución de la nacionalidad mexicana.
+
+En el caso de los documentos señalados en los incisos c) a g) de la presente fracción, se deberá entregar original y copia para su compulsa, devolviéndose el original al interesado.
+
+En el extranjero, el interesado podrá presentar aquellos otros documentos que la práctica consular permita.
+
+VI. Acreditar su identidad, presentando original y copia de alguno de los siguientes documentos oficiales con fotografía, cuyos datos deberán concordar fielmente con los del documento con el que esté acreditando la nacionalidad. Se deberá entregar original y copia para su compulsa, devolviéndose el original al interesado.
+
+a) Credencial para votar expedida por el Instituto Federal Electoral;
+
+b) Cartilla de Identidad del Servicio Militar Nacional Liberada;
+
+c) Cédula Profesional;
+
+d) Título Profesional;
+
+e) Carta de pasante expedida por la Dirección General de Profesiones de la Secretaría de Educación Pública;
+
+f) Los documentos probatorios de nacionalidad mencionados en la fracción V, incisos c), d), e), f) y g) del presente artículo, y
+
+g) Credencial vigente expedida por el Instituto Nacional de las Personas Adultas Mayores o su equivalente.
+
+A falta de las identificaciones mencionadas en la presente fracción el interesado podrá acreditar su identidad por medio de un documento oficial que contenga las especificaciones que para tal efecto establezcan las disposiciones administrativas referidas en el artículo 1, párrafo segundo del presente Reglamento.
+
+En el extranjero, el interesado podrá presentar aquellos otros documentos probatorios que la práctica consular permita.
+
+Sin perjuicio de lo antes citado, en aquellos casos en que la documentación o información presentada tenga inconsistencias o irregularidades, la Secretaría verificará su autenticidad ante la autoridad emisora y podrá requerir al solicitante pruebas adicionales que demuestren fehacientemente su nacionalidad e identidad.
+
+###### ARTÍCULO 15.
+
+Todo registro de nacimiento realizado con posterioridad a los tres años en que tuvo lugar el nacimiento, se considera para efectos del presente Reglamento como un registro extemporáneo. En este supuesto el interesado deberá entregar, uno de los siguientes documentos:
+
+I. Copia certificada del acta de matrimonio de los padres expedida por la oficina del registro civil mexicano, si éstos contrajeron matrimonio en territorio nacional antes del nacimiento del solicitante;
+
+II. Copia certificada del acta de nacimiento de un hermano mayor, expedida por la oficina del registro civil mexicano, siempre y cuando éste haya nacido en territorio nacional y registrado dentro de los tres años posteriores al nacimiento;
+
+III. Copia certificada del acta de nacimiento del padre o madre mexicano, expedida por la oficina del registro civil mexicano, si fueron registrados dentro de los tres años posteriores al nacimiento;
+
+IV. Documento expedido por la autoridad migratoria de la fecha de internación al país de la madre extranjera, si ésta ocurrió antes de la fecha de nacimiento del interesado;
+
+V. En territorio nacional, certificado de educación primaria expedido por la Secretaría de Educación Pública o alguna otra institución reconocida por dicha Secretaría, siempre y cuando ésta se haya concluido entre los 12 y 14 años de edad del interesado;
+
+VI. Tratándose de personas menores de 12 años de edad, podrán presentar la constancia de alumbramiento o el certificado médico de nacimiento, o
+
+VII. Cualquier otro medio que compruebe los datos asentados en la copia certificada del acta de nacimiento presentada por el interesado.
+
+###### ARTÍCULO 16.
+
+En el caso de reasignación para la concordancia sexo-genérica no se considerará extemporaneidad el tiempo transcurrido entre el nacimiento y el nuevo registro. Lo anterior surtirá efectos una vez que la Secretaría sea debidamente notificada por la autoridad judicial competente y el interesado acompañe el acta correspondiente.
+
+###### ARTÍCULO 17.
+
+Las personas con discapacidad, mayores de edad, podrán obtener pasaporte siempre que cumplan los requisitos contenidos en el artículo 14 del presente Reglamento. La Secretaría instrumentará medidas tendientes a que los formatos de solicitud de pasaporte y del documento de identidad y viaje, resulten accesibles para el requisitado por parte de las personas con alguna discapacidad, proporcionando, en su caso, el apoyo que éstas requieran para tales fines.
+
+En el caso de que la persona con discapacidad no esté en posibilidad de manifestar su voluntad en la solicitud, su tutor, un pariente por consanguinidad hasta el tercer grado, un pariente civil, o el o la cónyuge, según sea el caso, deberá acudir en conjunto con el interesado a efecto de requisitar el formato que para tal efecto proporcione la Secretaría. En todos los casos, aquel que acompañe a la persona con discapacidad, deberá acreditar plenamente su parentesco o el ejercicio de la tutela y deberá llenar la forma que la Secretaría determine.
+
+#### SECCIÓN SEGUNDA. DEL PASAPORTE ORDINARIO PARA PERSONAS MENORES DE EDAD
+
+###### ARTÍCULO 18.
+
+Para la expedición de pasaportes ordinarios a personas menores de edad, en términos de lo dispuesto por el Código Civil Federal, los padres o quien o quienes ejerzan la patria potestad o tutela deberán:
+
+I. Comparecer personalmente en compañía de la persona menor de edad ante las oficinas competentes de la Secretaría u oficinas consulares;
+
+II. Entregar la solicitud de pasaporte debidamente requisitada;
+
+III. Acreditar la nacionalidad mexicana de la persona menor de edad, mediante la entrega de alguno de los siguientes documentos:
+
+a) Copia certificada del acta de nacimiento expedida por la oficina del registro civil mexicano;
+
+b) Copia certificada del acta de nacimiento expedida por las oficinas consulares;
+
+c) Carta de naturalización, o
+
+d) Certificado de Matrícula Consular a que se refiere el artículo 3, fracción VI de la Ley de Nacionalidad.
+
+A falta de los documentos probatorios mencionados en los incisos anteriores, se podrá acreditar la nacionalidad mediante cualquier elemento que, de conformidad con la Ley de Nacionalidad, lleve a la Secretaría a la convicción de que se cumplieron los supuestos de atribución de la nacionalidad mexicana.
+
+En el caso de los documentos señalados en los incisos c) y d) de la presente fracción, se deberá entregar original y copia para su compulsa, devolviéndose a los padres o quien o quienes ejerzan la patria potestad o tutela, el original del documento. Tratándose de los incisos a) y b) se entregará copia certificada y copia fotostática.
+
+Cuando el registro de nacimiento de la persona menor de edad haya sido realizado con posterioridad a un año a aquél en que tuvo lugar, los padres o quien o quienes ejerzan la patria potestad o tutela deberán cumplir con lo dispuesto por el artículo 15 del presente Reglamento.
+
+IV. Acreditar su identidad con cualquiera de los documentos señalados en el artículo 14, fracción VI, así como la de la persona menor de edad, con alguno de los siguientes documentos oficiales con fotografía, cuyos datos deberán concordar fielmente con los del documento con el que se esté acreditando la nacionalidad y filiación:
+
+a) Certificado escolar de educación primaria, secundaria, de bachillerato o su equivalente;
+
+b) Constancia del grado de estudios que cursa o credencial escolar vigente, a partir de la educación de tipo básico, otorgados por institución pública o privada incorporada a la Secretaría de Educación Pública;
+
+c) Credencial de servicios médicos de una institución pública de salud o seguridad social, misma que deberá contener las características que para tal efecto establezca la propia institución;
+
+d) Cédula de Identidad Personal;
+
+e) Los documentos probatorios de nacionalidad mencionados en la fracción III, incisos c) y d) del presente artículo;
+
+f) En territorio nacional y, exclusivamente para las personas menores de 7 años, a falta de cualquiera de las identificaciones mencionadas en los incisos a) al e) de la presente fracción, podrán presentar constancia médica con fotografía, con las especificaciones y en los formatos que para tal efecto establezca la Secretaría. Dicha constancia deberá contener el número de cédula profesional del médico, expedida por la Dirección General de Profesiones de la Secretaría de Educación Pública;
+
+g) En el extranjero, y exclusivamente para las personas menores de 7 años, a falta de cualquiera de las identificaciones mencionadas en los incisos a) al e) de la presente fracción, podrán presentar constancia médica con fotografía y sello de una institución médica reconocida por la ley del lugar donde se encuentra el interesado, o
+
+h) Cualquier otro medio de prueba que a juicio de la Secretaría u oficina consular acredite la identidad de los solicitantes, mismos que serán reguladas en disposiciones administrativas con fundamento en el artículo 1 del presente Reglamento.
+
+V. Presentar dos fotografías tamaño pasaporte sin lentes, cabeza descubierta, de frente, a color con fondo blanco y que haya sido tomada hasta 30 días antes de presentar la solicitud de expedición de pasaporte;
+
+VI. Cubrir el pago correspondiente en los términos previstos en la Ley Federal de Derechos, y
+
+VII. Otorgar su consentimiento conforme lo disponen los artículos siguientes.
+
+Sin perjuicio de lo antes citado, en aquellos casos en que la documentación o información presentada tenga inconsistencias o irregularidades, la Secretaría verificará su autenticidad ante la autoridad emisora y podrá requerir al solicitante pruebas adicionales que demuestren fehacientemente su nacionalidad e identidad.
+
+###### ARTÍCULO 19.
+
+Para efectos de otorgar el consentimiento al que se refiere la fracción VII del artículo anterior, los padres o quien o quienes ejerzan la patria potestad o tutela, deberán:
+
+I. Acudir personalmente con la persona menor de edad ante cualquier oficina competente de la Secretaría u oficina consular, a requisitar el formato que la Secretaría establezca para tal efecto, y
+
+II. En caso de que las personas facultadas para otorgar el consentimiento correspondiente no puedan concurrir personalmente a la oficina donde se llevará a cabo el trámite porque se encuentren en una ciudad distinta de donde se localiza la persona menor de edad, podrán hacerlo:
+
+a) En territorio nacional ante cualquiera de las delegaciones y subdelegaciones de la Secretaría o ante Notario Público, y
+
+b) En el extranjero, ante una oficina consular.
+
+###### ARTÍCULO 20.
+
+Los documentos mediante los cuales se exprese el consentimiento a que se refiere el artículo anterior, deberán contener:
+
+I. La declaración expresa del trámite que se autoriza realizar;
+
+II. La vigencia del pasaporte, en términos del artículo 28 del presente Reglamento, y
+
+III. Firma autógrafa o en caso de no saber escribir, imprimir la huella digital de quien o quienes otorgan su consentimiento para la expedición del pasaporte.
+
+Adicionalmente, deberá anexarse copia de alguna identificación oficial vigente con fotografía y firma, de las mencionadas en el artículo 14, fracción VI del presente Reglamento, de la o las personas que otorgan su consentimiento para realizar el trámite de pasaporte.
+
+Tanto en territorio nacional como en el extranjero, si uno o ambos padres son extranjeros, deberán identificarse al momento de otorgar su consentimiento con documento oficial vigente.
+
+El documento en el que se manifieste el consentimiento deberá hacerse válido dentro de los noventa días naturales posteriores a la manifestación de la voluntad, si éste fue otorgado ante cualquier delegación o subdelegación, u oficina consular.
+
+En caso de que el consentimiento haya sido otorgado ante Notario Público, el testimonio o copia certificada del mismo deberá hacerse válido dentro de los treinta días naturales posteriores a la autorización de la escritura pública.
+
+En los casos en que una de las personas que ejercen la patria potestad o tutela sobre una persona menor de edad no pueda manifestar su consentimiento para la expedición del pasaporte en los términos señalados, la ausencia de éste sólo podrá suplirse con autorización judicial.
+
+Tratándose de personas menores de edad que se encuentren en el extranjero, podrá expedirse pasaporte sin el consentimiento de las personas que ejercen la patria potestad o tutela, para efectos de su repatriación a territorio nacional y cuando sea necesario para su regularización migratoria.
+
+###### ARTÍCULO 21.
+
+Cuando solamente viva uno de los padres o tutores, se deberá entregar copia certificada del acta de defunción del fallecido.
+
+Si alguno de los padres o tutores ha perdido la patria potestad o tutela o la tiene suspendida, el que la ejerza en exclusiva entregará copia certificada de la resolución judicial correspondiente y del auto por el que cause ejecutoria.
+
+Si la sentencia fue expedida por un tribunal extranjero, ésta deberá ser homologada para que surta efectos en territorio nacional, en términos de la legislación aplicable.
+
+###### ARTÍCULO 22.
+
+Quien o quienes ejerzan la tutela deberán además acreditar dicho carácter entregando una copia certificada por la autoridad competente de la resolución judicial que le confiere el cargo, del auto por el que causó ejecutoria o en el que se hizo constar la protesta y discernimiento del mismo. De igual forma, dicho requisito deberá cumplirse si la patria potestad es ejercida por los abuelos.
+
+###### ARTÍCULO 23.
+
+En caso de suplencia del consentimiento de quien ejerce la patria potestad o tutela por parte de la autoridad judicial competente, se deberá entregar a la Secretaría copia certificada de la resolución judicial mediante la cual el juez autoriza la salida del país de la persona menor de edad y, por consiguiente, la expedición del pasaporte. El tiempo autorizado por la autoridad judicial determinará la vigencia del pasaporte.
+
+###### ARTÍCULO 24.
+
+En el extranjero, la resolución judicial expedida por un tribunal con competencia en el lugar de residencia de la persona menor de edad que decrete su custodia en favor del padre o madre, podrá ser aceptada siempre y cuando no exista un impedimento registrado en la base de datos de pasaportes.
+
+###### ARTÍCULO 25.
+
+Para la expedición de pasaportes a la persona menor de edad que haya sido adoptada bajo los regímenes de adopción distintos a la plena, además de cumplir con los requisitos establecidos en el artículo 18 del presente Reglamento, se deberá entregar copia certificada de la resolución judicial y del auto por el cual causó ejecutoria, así como del acta expedida por la oficina del registro civil mexicano.
+
+###### ARTÍCULO 26.
+
+En caso de que la adopción se haya realizado en el extranjero y no sea plena, se deberá promover la homologación de la resolución judicial correspondiente conforme a las disposiciones aplicables en la materia.
+
+Para el caso de adopciones internacionales plenas realizadas en territorio nacional y que no sean efectuadas bajo los términos de la Convención de la Haya sobre la Protección de Menores y la Cooperación en Materia de Adopción Internacional, se deberá aportar la sentencia que contenga la resolución de adopción y el permiso otorgado por el Instituto Nacional de Migración conforme al Reglamento de la Ley General de Población.
+
+###### ARTÍCULO 27.
+
+Las personas menores de edad emancipadas en términos de las disposiciones aplicables en la materia, además de cumplir con los requisitos establecidos en el artículo 14 del presente Reglamento deberán acreditar dicha circunstancia con la copia certificada de su acta de matrimonio expedida por la oficina del registro civil mexicano.
+
+#### SECCIÓN TERCERA. DE LA VIGENCIA
+
+###### ARTÍCULO 28.
+
+El pasaporte ordinario tendrá una vigencia de 1, 3, 6 ó 10 años.
+
+I. Será de 1 año en los siguientes casos:
+
+a) Para los menores de 3 años de edad;
+
+b) Para las personas que requieran atención médica de urgencia fuera de territorio nacional debidamente justificada ante la Secretaría y que no puedan cumplir con alguno de los requisitos señalados en el presente Reglamento. Asimismo, la urgencia médica podrá ser invocada por el solicitante si quien requiere la atención médica es su cónyuge o conviviente, concubina, concubinario o un pariente consanguíneo en línea recta ascendente o descendente y colateral hasta el segundo grado, y
+
+c) Para los interesados que no puedan cumplir con algún requisito señalado en el presente Reglamento por causas de naturaleza académica, laboral o de protección consular, debidamente justificadas ante la Secretaría o ante las oficinas consulares.
+
+En los supuestos antes citados, el pasaporte expedido podrá ser renovado cumpliendo con los requisitos establecidos en el artículo 14 y, en su caso, en los artículos 15, 18 al 27 del presente Reglamento, para lo cual se deberá presentar el pasaporte emitido bajo alguna de las circunstancias previstas en esta fracción.
+
+El pasaporte ordinario podrá tener una vigencia menor a un año cuando así lo determine la autoridad judicial competente.
+
+II. Será de 3 ó 6 años para los interesados de 3 años y menores de 18 años de edad, y
+
+III. Será de 3, 6 ó 10 años para los interesados mayores de 18 años.
+
+Los Titulares de las oficinas consulares podrán expedir pasaportes por razones de protección consular debidamente justificadas, de conformidad con lo dispuesto por la Ley del Servicio Exterior Mexicano y su Reglamento, hasta por tres años.
+
+#### SECCIÓN CUARTA. DE LA RENOVACIÓN
+
+###### ARTÍCULO 29.
+
+El pasaporte ordinario podrá renovarse en los siguientes casos:
+
+I. Al concluir su vigencia;
+
+II. Al agotarse las hojas de visados;
+
+III. Cuando los rasgos físicos de una persona cambien, de tal forma que no correspondan con los de la fotografía del pasaporte;
+
+IV. Dentro del año anterior a su vencimiento;
+
+V. En caso de robo, pérdida o destrucción;
+
+VI. En caso de mutilación o por un deterioro notorio, y
+
+VII. Por modificación de datos personales debidamente autorizados por autoridad competente.
+
+###### ARTÍCULO 30.
+
+Para renovar un pasaporte ordinario los interesados mayores de edad deberán cumplir con los requisitos establecidos en las fracciones I, II, III, IV y VI del artículo 14 del presente Reglamento.
+
+En el caso de las personas menores de edad, los padres o quien o quienes ejerzan la patria potestad o tutela deberán cumplir con los requisitos establecidos en el artículo 18 y, en su caso, con los establecidos en los artículos 19 a 27 del presente Reglamento.
+
+El documento que se presente para acreditar la filiación de la persona menor de edad será en términos del artículo 18, fracción III y deberá exhibirse en original y copia para su compulsa, devolviéndose el original al interesado.
+
+Con excepción de lo dispuesto en la fracción V del artículo anterior, el solicitante deberá entregar el pasaporte que se pretenda renovar a la Secretaría o a la oficina consular. Dicho pasaporte deberá ser cancelado, inutilizado y devuelto al interesado.
+
+El pasaporte que se presente para su renovación servirá para acreditar plenamente la nacionalidad e identidad del interesado, excepto en los casos en que exista variación de alguno o algunos de los datos personales.
+
+###### ARTÍCULO 31.
+
+Los solicitantes que se encuentren en el supuesto de la fracción V del artículo 29 de este ordenamiento, deberán presentar, según corresponda, los documentos a que se refieren los artículos 12 y 14 del presente Reglamento. Adicionalmente, tratándose de personas menores de edad, lo dispuesto en el artículo 18 y, en su caso, con lo establecido en los artículos 19 a 27 del presente Reglamento.
+
+Para aquellos que se ubiquen en el supuesto de la fracción VI del artículo 29 de este ordenamiento, deberán presentar además de lo establecido en el párrafo anterior, pasaporte original mutilado o deteriorado.
+
+###### ARTÍCULO 32.
+
+Si derivado de un error o variación de alguno o algunos de los datos personales en el pasaporte, se solicitará su renovación o modificación, además de cumplir con los requisitos del artículo 30 del presente Reglamento, el interesado deberá entregar copia certificada de los documentos idóneos que justifiquen dicha circunstancia y acreditar su nueva identidad.
+
+### CAPÍTULO III. DEL PASAPORTE OFICIAL
+
+#### SECCIÓN PRIMERA. DE LOS SUJETOS
+
+###### ARTICULO 33.
+
+Los pasaportes oficiales se expedirán a las siguientes personas:
+
+I. Senadores y Diputados del Congreso de la Unión, que viajen en comisión oficial al extranjero;
+
+II. Consejeros de la Judicatura Federal, Magistrados de las Salas Regionales del Tribunal Electoral del Poder Judicial de la Federación, Magistrados y Jueces Federales, que viajen en comisión oficial al extranjero;
+
+III. Titulares de las entidades paraestatales de la Administración Pública Federal, que viajen al extranjero en comisión oficial;
+
+IV. Servidores públicos de la Presidencia de la República y de las dependencias de la Administración Pública Federal, que tengan el rango mínimo de director general o equiparable, que viajen al extranjero en comisión oficial y cuando la naturaleza de la misma lo justifique;
+
+V. Servidores públicos de las secretarías de Relaciones Exteriores, de la Defensa Nacional, de Marina, de Seguridad Pública, así como los servidores públicos de la Procuraduría General de la República y del Estado Mayor Presidencial, sin distinción de rango, que viajen al extranjero en comisión oficial y cuando la naturaleza de la misma lo justifique, y
+
+VI. Servidores públicos que no se ubiquen en los supuestos de las fracciones anteriores y que deban viajar al extranjero en comisión oficial, cuando la naturaleza de la misma implique la representación del Estado Mexicano ante un foro extranjero, internacional o la participación de la Nación en emergencias o conflictos que recaigan en el ámbito de la cooperación internacional para el desarrollo.
+
+Para los efectos de la fracción VI del presente artículo, la autorización deberá ser emitida por escrito por el Oficial Mayor de la Secretaría, quien podrá delegar esta facultad en el Director General de Delegaciones. La autorización deberá otorgarse previo dictamen del titular de la Dirección General de Delegaciones que justifique plenamente la expedición del pasaporte.
+
+En caso de nombramientos de mexicanos que desempeñen un cargo de tipo honorario, no se expedirá pasaporte oficial.
+
+###### Artículo 34.
+
+La solicitud para la expedición del pasaporte oficial deberá formularse:
+
+I. Por el Secretario General de la Cámara correspondiente, en el caso de Senadores y Diputados del Congreso de la Unión y por el Consejo de la Judicatura Federal, en el caso de los integrantes del Poder Judicial de la Federación, y
+
+II. Por el Titular de la Oficina de la Presidencia de la República; por el Oficial Mayor de la dependencia o su equivalente en la entidad correspondiente, en el caso de los servidores públicos a que se refieren las fracciones III, IV, V y VI del artículo anterior.
+
+En los casos de las fracciones III, IV, V y VI del artículo anterior, la solicitud deberá señalar la justificación y naturaleza de la comisión, duración de la misma y el país o países que visitará.
+
+#### SECCIÓN SEGUNDA. DE LOS REQUISITOS
+
+###### Artículo 35.
+
+La persona a favor de quien se solicite la expedición de un pasaporte oficial, deberá cumplir con los requisitos previstos en el artículo 14 y, en su caso, 15 del presente Reglamento, así como, exhibir y entregar copia del nombramiento vigente que lo acredite como servidor público.
+
+El pasaporte oficial se otorga para la representación del Estado mexicano en una comisión o encargo oficial en el exterior, por lo que el titular del mismo será responsable de su uso.
+
+Concluida la comisión o cuando el servidor público deje su encargo, el pasaporte oficial quedará invalidado, debiéndose entregar a la Secretaría en un plazo de treinta días naturales contados a partir del día siguiente en que concluya su comisión o encargo. Dicho pasaporte deberá ser cancelado, inutilizado y devuelto al interesado.
+
+#### SECCIÓN TERCERA. DE LA VIGENCIA
+
+###### ARTÍCULO 36.
+
+La vigencia del pasaporte oficial será de 2 años, salvo para los Senadores y Diputados, en cuyo caso, la vigencia será equivalente a la duración del encargo.
+
+Para los casos de la fracción VI del artículo 33, el pasaporte tendrá una vigencia limitada a la duración de la comisión y no podrá ser mayor a un año.
+
+La renovación del pasaporte oficial se realizará en función de la duración del encargo, previo cumplimiento de lo dispuesto en el artículo 29 y 30 y, en su caso, los artículos 31 y 32 del presente Reglamento, además de acreditar el nombramiento correspondiente.
+
+### CAPÍTULO IV. DEL PASAPORTE DIPLOMÁTICO
+
+#### SECCIÓN PRIMERA. DE LOS SUJETOS
+
+###### ARTICULO 37.
+
+El pasaporte diplomático se expedirá a las siguientes personas:
+
+I. Presidente de los Estados Unidos Mexicanos;
+
+II. Ex-Presidentes de los Estados Unidos Mexicanos;
+
+III. Presidentes de las Cámaras de Diputados, de Senadores y de la Comisión Permanente del Congreso de la Unión;
+
+IV. Ministros de la Suprema Corte de Justicia de la Nación y Magistrados de la Sala Superior del Tribunal Electoral del Poder Judicial de la Federación;
+
+V. Gobernadores de los Estados y Jefe de Gobierno del Distrito Federal;
+
+VI. Secretarios de Estado y Consejero Jurídico del Ejecutivo Federal;
+
+VII. Procurador General de la República;
+
+VIII. Jefe de la Oficina de la Presidencia, Secretario Particular y Coordinador de Asesores del Presidente de los Estados Unidos Mexicanos, Coordinador de Comunicación Social de la Presidencia de la República y Jefe del Estado Mayor Presidencial;
+
+IX. Subsecretarios, Oficial Mayor, Consultor Jurídico, Jefes de Unidad, Directores Generales y Directores Generales Adjuntos de la Secretaría;
+
+X. Titulares o quienes presidan Organismos Constitucionales Autónomos;
+
+XI. Miembros del Servicio Exterior Mexicano;
+
+XII. Embajadores de México eméritos y eminentes;
+
+XIII. Embajadores de carrera jubilados;
+
+XIV. Cónyuge, concubina, concubinario, hijos menores de edad e hijos del cónyuge, estos últimos siempre y cuando sean menores de edad, de las personas mencionadas en las fracciones I a XIII. El parentesco, nacionalidad e identidad deberán probarse, y
+
+XV. Hijos e hijos del cónyuge, de 18 años y hasta 25 años, si son solteros y estudiantes de tiempo completo, previa comprobación de que están realizando estudios de nivel medio o superior de cualquier rama del conocimiento en planteles oficiales o reconocidos, así como a los hijos incapacitados independientemente de su edad y a otros familiares dependientes económicos, hasta el primer grado en línea recta, ascendente o descendente, que vivan con ellos en su lugar de adscripción, siempre que no sean residentes permanentes del Estado receptor, de los servidores públicos mencionados en la fracción XI, XII y XIII del presente artículo. El parentesco, nacionalidad e identidad deberán probarse.
+
+#### SECCIÓN SEGUNDA. DE LOS REQUISITOS
+
+###### ARTÍCULO 38.
+
+La persona a favor de quien se solicite la expedición de un pasaporte diplomático deberá cumplir con los requisitos previstos en los artículos 14 y, en su caso, 15 y 18 a 27 del presente Reglamento. El cargo de las personas mencionadas en el artículo anterior, con excepción de la fracción II, deberá acreditarse ante la Secretaría, con el nombramiento correspondiente.
+
+Concluida la comisión o cuando servidor público deje su encargo, el pasaporte diplomático quedará invalidado, debiéndose entregar a la Secretaría en un plazo de treinta días naturales contados a partir del día siguiente en que concluya su encargo. Dicho pasaporte deberá ser cancelado, inutilizado y devuelto al interesado.
+
+Para el caso de los miembros del Servicio Exterior Mexicano, el pasaporte podrá ser entregado hasta en un plazo de seis meses, considerando el tiempo de traslado a territorio nacional o a su nueva adscripción.
+
+###### ARTÍCULO 39.
+
+El pasaporte diplomático se otorga para la representación del Estado mexicano en una comisión o encargo oficial en el exterior, por lo que el titular del mismo, será responsable de su uso y del que le den sus familiares y dependientes económicos.
+
+Las personas a que se refieren las fracciones I a XIII del artículo 37 del presente Reglamento, estarán obligadas a informar a la Secretaría de los cambios en sus relaciones personales que hubieran motivado la expedición de pasaporte diplomático a sus dependientes. Para ello dispondrán de un plazo de treinta días naturales, contados a partir del día siguiente a que se produzcan los citados cambios.
+
+#### SECCIÓN TERCERA. DE LA VIGENCIA
+
+###### ARTÍCULO 40.
+
+La vigencia del pasaporte diplomático será la siguiente:
+
+I. En los casos de los servidores públicos mencionados en las fracciones I, III a la X y a sus familiares y dependientes económicos mencionados en la fracción XIV del artículo 37 del presente Reglamento, tendrá una vigencia equivalente a la duración de su encargo, la cual no será mayor a 6 años;
+
+II. En los casos de las personas mencionadas en las fracciones II, XII y XIII y a sus familiares y dependientes económicos mencionados en la fracción XIV del artículo 37 del presente Reglamento, será de hasta 6 años, y
+
+III. Para los servidores públicos contemplados en la fracción XI y sus familiares y dependientes económicos mencionados en las fracciones XIV y XV del artículo 37 del presente Reglamento, será hasta de 4 años.
+
+En todos los casos, tratándose de menores de tres años la vigencia del pasaporte diplomático será de 1 año.
+
+La renovación del pasaporte diplomático se realizará en función de la duración del encargo, previo cumplimiento de lo dispuesto en los artículos 29 al 32 del presente Reglamento, además de acreditar el nombramiento correspondiente en el caso de las personas mencionadas en el artículo 37 con excepción de la fracción II.
+
+### CAPÍTULO V. DEL DOCUMENTO DE IDENTIDAD Y VIAJE
+
+#### SECCIÓN PRIMERA. DE LOS SUJETOS
+
+###### ARTÍCULO 41.
+
+La Secretaría podrá expedir documentos de identidad y viaje en los términos del presente Capítulo a los extranjeros:
+
+I. Que se encuentren en territorio nacional y que hubieran perdido su nacionalidad, sin haber adquirido otra y que, consecuentemente, sean considerados de nacionalidad indefinida;
+
+II. Que se encuentren en territorio nacional, de nacionalidad definida que no tengan representante diplomático ni consular que les expida pasaporte, o
+
+III. Que se encuentren en territorio nacional y demuestren, a satisfacción de la Secretaría, que no tienen posibilidad alguna de que su representante diplomático o consular les expida pasaporte.
+
+#### SECCIÓN SEGUNDA. DE LOS REQUISITOS
+
+###### ARTÍCULO 42.
+
+Para solicitar el documento de identidad y viaje, el interesado deberá cumplir los siguientes requisitos:
+
+I. Comparecer personalmente ante las autoridades competentes de la Secretaría;
+
+II. Llenar y firmar la solicitud correspondiente;
+
+III. Exhibir el permiso del Instituto Nacional de Migración para salir del país;
+
+IV. Acreditar, en el caso de la fracción III del artículo anterior, que la representación diplomática o consular del país de origen del interesado no le expedirá pasaporte, o comprobar a juicio de la Secretaría, su imposibilidad para acreditarlo;
+
+V. Presentar dos fotografías tamaño pasaporte sin lentes, cabeza descubierta, de frente, a color con fondo blanco y que haya sido tomada hasta 30 días antes de presentar la solicitud de expedición de documento de identidad y viaje, y
+
+VI. Cubrir el pago correspondiente en los términos previstos en la Ley Federal de Derechos.
+
+Para la expedición del documento de identidad y viaje a personas mayores de edad con discapacidad que no estén en posibilidad de manifestar su voluntad en la solicitud, su tutor, un pariente por consanguinidad hasta el tercer grado, un pariente civil, o el o la cónyuge, según sea el caso, deberá acudir en conjunto con el interesado a efecto de requisitar el formato que para tal efecto proporcione la Secretaría y deberá cumplir con los requisitos señalados en el presente artículo. En todos los casos, aquel que acompañe a la persona con discapacidad, deberá acreditar plenamente su parentesco o el ejercicio de la tutela y deberá llenar la forma que la Secretaría determine.
+
+Para el caso de personas menores de edad, además de cumplir los requisitos señalados en el presente artículo, quien o quienes ejerzan la patria potestad o tutela, deberán cumplir con los requisitos procedentes establecidos en los artículos 18 a 27 del presente Reglamento.
+
+#### SECCIÓN TERCERA. DE LA VIGENCIA
+
+###### ARTÍCULO 43.
+
+La vigencia del documento de identidad y viaje será la siguiente:
+
+I. Hasta por 3 años en el caso de las fracciones I y III del artículo 41 del presente Reglamento, y
+
+II. Hasta por 6 meses en el supuesto de la fracción II del artículo 41 del presente Reglamento.
+
+Para la renovación del documento de identidad y viaje, los interesados deberán cumplir con los requisitos establecidos en el artículo 42 del presente Reglamento. Asimismo, deberán entregar el documento de identidad y viaje que pretende renovar para ser cancelado, inutilizado y devuelto al interesado.
+
+###### ARTÍCULO 44.
+
+La Secretaría no asume responsabilidad alguna, con motivo del carácter que los gobiernos de otros países le reconozcan al documento de identidad y viaje, y no acredita de manera alguna, la nacionalidad de su titular.
+
+###### ARTÍCULO 45.
+
+La posesión del documento de identidad y viaje no implica que su titular tenga derecho a regresar a territorio nacional. El interesado deberá contar, en todo caso, con las autorizaciones correspondientes otorgadas por la autoridad migratoria mexicana.
+
+### CAPÍTULO VI. DE LOS IMPEDIMENTOS ADMINISTRATIVOS
+
+###### ARTÍCULO 46.
+
+Independientemente de las acciones que conforme a derecho correspondan, la Secretaría procederá a dar de alta un impedimento administrativo en los siguientes casos:
+
+I. A quien intente obtener un pasaporte o documento de identidad y viaje en contravención con las disposiciones del presente Reglamento;
+
+II. A quien presente ante la Secretaría información y documentos falsos, previa verificación con la autoridad competente;
+
+III. Cuando alguna de las personas que ejerce la patria potestad sobre una persona menor de edad, manifieste su temor de que otro, pretenda sustraer del país a la persona menor de edad sin su consentimiento;
+
+IV. A quien haya obtenido un pasaporte mexicano o documento de identidad y viaje con documentos o información falsa, y
+
+V. A quien sea solicitado en extradición internacional.
+
+Se procederá a la baja del impedimento administrativo cuando las causas que lo originaron dejen de subsistir.
+
+## TRANSITORIOS
+
+PRIMERO.- El presente Reglamento entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Se abroga el Reglamento de Pasaportes publicado en el Diario Oficial de la Federación el 09 de enero de 2002, así como todas aquellas disposiciones que se opongan a lo establecido en el presente Reglamento.
+
+TERCERO.- Los pasaportes y documentos de identidad y viaje expedidos con anterioridad a la fecha de entrada en vigor de este Reglamento, continuarán siendo válidos hasta que expire la temporalidad autorizada.
+
+CUARTO.- En tanto se expiden los nuevos formatos de solicitudes de pasaportes y documentos de identidad y viaje, seguirán utilizándose los que a la entrada en vigor de este Reglamento se hayan venido utilizando.
+
+QUINTO.- Los trámites de solicitud de pasaporte o del documento de identidad y viaje que a la fecha de entrada en vigor del presente Reglamento, se encuentren pendientes de resolución, se resolverán de conformidad con las disposiciones del Reglamento vigente al momento de iniciarse el trámite.
+
+SEXTO.- La Secretaría mediante disposiciones administrativas fijará las formalidades necesarias para que los particulares efectúen los trámites y cumplan con los requisitos previstos en el presente Reglamento, y establecerá los formatos y el contenido del pasaporte y del documento de identidad y viaje.
+
+SÉPTIMO.- Para los efectos del artículo 30 del presente Reglamento, en el trámite de renovación de pasaporte ordinario mexicano expedido antes del año de 1995 en territorio nacional, así como los expedidos antes de 2006, por las oficinas consulares, el titular del documento, adicionalmente tendrá que acreditar su nacionalidad e identidad con alguno de los documentos previstos por las fracciones V y VI del artículo 14 del presente Reglamento.
+
+Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a veintinueve de julio de dos mil once.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- La Secretaria de Relaciones Exteriores, Patricia Espinosa Cantellano.- Rúbrica.
