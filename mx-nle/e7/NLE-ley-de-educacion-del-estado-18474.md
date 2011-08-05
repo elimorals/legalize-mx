@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-educacion-del-estado-18474"
 country: "mx"
 rank: "ley"
 publication_date: "2000-10-16"
-last_updated: "2011-01-14"
+last_updated: "2011-08-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18474&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE EDUCACION DEL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE ENERO DE 2011.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE AGOSTO DE 2011.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el lunes 16 de octubre de 2000.
 
@@ -569,11 +569,21 @@ La educación preescolar, es aquella que se ofrece a partir de los tres años de
 
 Para la inscripción al nivel de educación primaria, es necesario haber cursado y aprobado el nivel preescolar de conformidad con los planes y programas establecidos por la autoridad educativa federal, así como tener seis años de edad cumplidos al 31 de Diciembre del año de inicio del ciclo escolar. La educación primaria comprende seis años de escolaridad y se orienta de acuerdo al plan y programas de estudio establecidos también por la autoridad educativa federal. La primaria constituye antecedente obligatorio de la secundaria.
 
-> <small>(REFORMADO, P.O. 11 DE ENERO DE 2008)</small>
+> <small>(REFORMADO, P.O. 5 DE AGOSTO DE 2011)</small>
 
 ###### Artículo 46.
 
-En las escuelas de educación básica de la entidad se ofrecerán y ampliarán de manera complementaria, programas de informática, lengua extranjera, actividades artísticas, culturales, de educación física y deportes, así como orientación a una alimentación sana y nutritiva y otros programas educativos adecuados a las condiciones y necesidades de las regiones donde están ubicadas las escuelas.
+En las escuelas de educación básica de la entidad se ofrecerán y ampliarán de manera complementaria, programas de informática, lengua extranjera, actividades artísticas, culturales, de educación física y deportes, de salud integral, así como orientación a una alimentación sana y nutritiva y otros programas educativos adecuados a las condiciones y necesidades de las regiones donde están ubicadas las escuelas.
+
+Los programas de Salud integral que se mencionan en el párrafo que antecede, deberán desarrollarse en apoyo con las autoridades estatales en materia de salud, así como con instituciones privadas, los cuales tendrán como principales objetivos los siguientes:
+
+I.- Inculcar en el colectivo escolar, una mejor cultura de la salud basada en la acción comunitaria, con una visión amplia de causas y riesgos mediante análisis y acción comprometida para el control adecuado de enfermedades y prevención de las mismas.
+
+II.- Integración de alianzas estratégicas entre los sectores público y privado para lograr una educación y salud integral de alta calidad y cobertura estatal.
+
+III.- Establecer en las escuelas entornos saludables y seguros que garanticen la calidad en la salud.
+
+IV.- Crear un paquete común garantizado de acciones concretas y medibles para la prevención de enfermedades y promoción de la salud.
 
 ###### Artículo 47.
 
@@ -1380,3 +1390,9 @@ P.O. 19 DE DICIEMBRE DE 2008.
 P.O. 14 DE ENERO DE 2011.
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 5 DE AGOSTO DE 2011.
+
+Primero.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- La Secretaría de Educación en coordinación con la Secretaría de Salud del Estado de Nuevo León, y de ser necesario con el sector privado, desarrollarán un Programa Estatal de Salud Integral en las Escuelas para cumplimentar lo establecido en el presente Decreto.
