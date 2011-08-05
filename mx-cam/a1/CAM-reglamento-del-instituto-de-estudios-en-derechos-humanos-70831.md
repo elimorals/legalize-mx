@@ -4,7 +4,7 @@ identifier: "CAM-reglamento-del-instituto-de-estudios-en-derechos-humanos-70831"
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-10-26"
-last_updated: "2009-10-26"
+last_updated: "2011-08-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70831&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 REGLAMENTO DEL INSTITUTO DE ESTUDIOS EN DERECHOS HUMANOS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE AGOSTO DE 2011.
 
 Reglamento publicado en el Periódico Oficial del Estado de Campeche, el lunes 26 de octubre del 2009.
 
@@ -615,11 +615,17 @@ En cualquiera de las modalidades de estudios que imparta el INEDH, los alumnos d
 
 La inasistencia a clases podrá justificarse en un plazo no mayor a 3 días hábiles ante la Dirección General, que expedirá un documento en el que se haga constar que ha sido acreditada causa suficiente para ello, que pudiese ser entre otras:
 
-I. Muerte de algún familiar;
+> <small>(REFORMADA, P.O. 5 DE AGOSTO DE 2011)</small>
+
+I. Fallecimiento de padres, hijos, cónyuge o hermanos;
 
 II. Por prescripción médica; e
 
 III. Imponderables laborales.
+
+> <small>(ADICIONADO, P.O. 5 DE AGOSTO DE 2011)</small>
+
+Los justificantes sólo se admitirán hasta por un treinta y tres por ciento de la duración de cada módulo. En la causa señalada en el inciso II podrá la Dirección General ampliar el porcentaje tomando en consideración las condiciones particulares de cada caso.
 
 ###### Artículo 42.
 
@@ -686,6 +692,10 @@ Las evaluaciones de aprovechamiento que se apliquen a los alumnos de posgrado se
 I. Ordinarios: Al concluir cada Módulo o curso para evaluar el aprovechamiento del alumno respecto de la totalidad del programa oficial de los mismos. Para tener derecho a la presentación del examen ordinario es necesario haber cumplido con el porcentaje de asistencias requerido; y
 
 II. Extraordinarios: Cuando el alumno no haya acreditado la asignatura o curso dentro de los tiempos y formas establecidas.
+
+> <small>(ADICIONADO, P.O. 5 DE AGOSTO DE 2011)</small>
+
+El alumno solo tendrá derecho a presentar como máximo tres exámenes extraordinarios por cada posgrado, los cuales una vez agotados causará baja definitiva.
 
 ###### Artículo 52.
 
@@ -1040,3 +1050,11 @@ SEGUNDO.- El presente reglamento entrará en vigor al día siguiente de su aprob
 TERCERO.- Publíquese en el Periódico Oficial del Gobierno del Estado de Campeche, de acuerdo a lo establecido en el Artículo 29 del Reglamento Interno de la Comisión de Derechos Humanos del Estado de Campeche.
 
 Dado en la sala de juntas de la Comisión de Derechos Humanos del Estado de Campeche; San Francisco de Campeche, Campeche, a los veintiséis días del mes de agosto de dos mil nueve. Mtra. Ana Patricia Lara Guerrero, Presidenta; Mtra. Eslovenia Guadalupe Gutiérrez Valle, Secretaría Técnica; CONSEJEROS: Lic. Sergio Ayala Fernández del Campo, C.P. Francisco Enrique Castilla Goyta. Sra. Josefina Delgado Quintana, Sr. Severino Ek Chan, Licda. Clara Eunice Estrada González, Lic. Edgar Hernández Hernández, Dr. Pedro Lara, Licda. Mónica Beatriz Maldonado Damián y Sra. María del Carmen Pérez Mendoza.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 5 DE AGOSTO DE 2011.
+
+PRIMERO. La presente reforma y adición al Reglamento del Instituto de Estudios en Derechos Humanos, entrarán en vigor al día siguiente de su aprobación.
+
+SEGUNDO. Las referencias hechas a la Secretaría de Educación Cultura y Deporte, se entenderán como hechas a la Secretaría del Ramo, independientemente, de la denominación que ésta tuviera.
