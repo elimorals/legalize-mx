@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-pasaportes-22777"
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-01-09"
-last_updated: "2007-12-26"
+last_updated: "2011-08-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22777&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "2001-12-28"
 
 REGLAMENTO DE PASAPORTES
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 26 DE DICIEMBRE DE 2007.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO DE PASAPORTES Y DEL DOCUMENTO DE IDENTIDAD Y VIAJE, PUBLICADO EN EL D.O.F. DE 5 DE AGOSTO DE 2011, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: ABROGADO.
 
 Reglamento publicado en el Diario Oficial de la Federación, el miércoles 9 de enero de 2002.
 
@@ -332,3 +334,19 @@ D.O.F. 26 DE DICIEMBRE DE 2007.
 PRIMERO.- El presente Decreto entrará en vigor a partir del 1o. de enero de 2008.
 
 SEGUNDO.- Los pasaportes ordinarios mexicanos expedidos con anterioridad a la fecha de entrada en vigor de este Decreto, continuarán siendo válidos hasta que expire la temporalidad autorizada.
+
+D.O.F. 5 DE AGOSTO DE 2011.
+
+PRIMERO.- El presente Reglamento entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Se abroga el Reglamento de Pasaportes publicado en el Diario Oficial de la Federación el 09 de enero de 2002, así como todas aquellas disposiciones que se opongan a lo establecido en el presente Reglamento.
+
+TERCERO.- Los pasaportes y documentos de identidad y viaje expedidos con anterioridad a la fecha de entrada en vigor de este Reglamento, continuarán siendo válidos hasta que expire la temporalidad autorizada.
+
+CUARTO.- En tanto se expiden los nuevos formatos de solicitudes de pasaportes y documentos de identidad y viaje, seguirán utilizándose los que a la entrada en vigor de este Reglamento se hayan venido utilizando.
+
+QUINTO.- Los trámites de solicitud de pasaporte o del documento de identidad y viaje que a la fecha de entrada en vigor del presente Reglamento, se encuentren pendientes de resolución, se resolverán de conformidad con las disposiciones del Reglamento vigente al momento de iniciarse el trámite.
+
+SEXTO.- La Secretaría mediante disposiciones administrativas fijará las formalidades necesarias para que los particulares efectúen los trámites y cumplan con los requisitos previstos en el presente Reglamento, y establecerá los formatos y el contenido del pasaporte y del documento de identidad y viaje.
+
+SÉPTIMO.- Para los efectos del artículo 30 del presente Reglamento, en el trámite de renovación de pasaporte ordinario mexicano expedido antes del año de 1995 en territorio nacional, así como los expedidos antes de 2006, por las oficinas consulares, el titular del documento, adicionalmente tendrá que acreditar su nacionalidad e identidad con alguno de los documentos previstos por las fracciones V y VI del artículo 14 del presente Reglamento.
