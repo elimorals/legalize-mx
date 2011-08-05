@@ -4,7 +4,7 @@ identifier: "SON-ley-de-ordenamiento-territorial-y-desarrollo-urbano-del-51863"
 country: "mx"
 rank: "ley"
 publication_date: "2006-09-28"
-last_updated: "2006-09-28"
+last_updated: "2011-08-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51863&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DE ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO DEL ESTADO DE SONORA
 
-TEXTO ORIGINAL.
+ULTIMA REFOMA PUBLICADA EN EL BOLETIN OFICIAL: 5 DE AGOSTO DE 2011.
 
 Ley publicada en el la Sección IV del Boletín Oficial del Estado de Sonora, el jueves 28 de septiembre de 2006.
 
@@ -1551,6 +1551,32 @@ En su caso, incluirá el señalamiento de las restricciones federales, estatales
 
 La licencia de uso de suelo emitida para fraccionamientos y proyectos territoriales de inversión, incluidos los regímenes de condominio, será válida para cada uno de los lotes que integren las acciones de urbanización anteriormente referidas.
 
+> <small>(ADICIONADO, B.O. 5 DE AGOSTO DE 2011)</small>
+
+###### ARTÍCULO 122 Bis.
+
+En el ordenamiento territorial, que comprende la zonificación de las áreas y los usos del suelo, destinos y reservas territoriales en el Estado de Sonora, se determinarán los polígonos para la ubicación de estaciones de servicio denominadas gasolineras, sujetándose a las siguientes condiciones:
+
+I.- Los predios para el establecimiento de gasolineras o estaciones de servicio deberán estar localizados sobre accesos a carreteras, autopistas, libramientos, vías primarias o principales, colectoras, así como en aquellos predios cuya ubicación sea compatible y conforme a los Programas de Desarrollo Urbano Municipal;
+
+II.- Las estaciones de servicio con venta directa al público o de autoconsumo, cumplirán con las disposiciones en materia de protección civil, ambiental, de seguridad y demás legislación aplicable, y se ubicarán a una distancia de, cuando menos, 1,000 metros en forma radial una de otra, dentro de zona urbana, y de 10,000 metros cuando su ubicación sea en carreteras concesionadas, federales, estatales y secundarias;
+
+III.- El predio deberá ubicarse a una distancia mínima de resguardo de 300 metros radiales de centros de concentración de personas tales como escuelas, hospitales, centros de desarrollo infantil o guarderías y de 150 metros radiales, respecto de mercados, cines, teatros, centros de culto religioso, auditorios, así como en cualquier otro sitio, en el que exista una concentración de cien o más personas de manera habitual o transitoria;
+
+IV.- El predio debe ubicarse a una distancia mínima de resguardo de 150 metros radiales respecto de plantas de almacenamiento de gas licuado de petróleo y de aquéllos centros de despacho a sistemas de carburación automotor e industrias de alto riesgo que empleen productos químicos, soldadura, fundición, fuego, entre otros, así como del comercio que emplee gas con sistema estacionario con capacidad de almacenamiento mayor a 500 litros;
+
+V.- Los tanques de almacenamiento deberán ubicarse a una distancia mínima de resguardo de 30 metros con respecto a líneas eléctricas de alta tensión, de los ejes de vías férreas, así como de los ductos que transporten algún derivado del petróleo;
+
+VI.- Las bombas expendedoras de gasolina y/o carburantes conocidas como dispensarios y sus tanques de almacenamiento, deberán quedar a una distancia mínima de 30 metros de un área residencial;
+
+VII.- Cuando el predio en el que se pretenda instalar una estación de servicio, se ubique entre dos vialidades, las maniobras de abastecimiento serán única y exclusivamente por el frente a la vialidad de mayor jerarquía; y
+
+VIII.- No podrán ubicarse estaciones de servicio dentro de las áreas consideradas como de reserva ecológica.
+
+Previo a las obras de edificación, licencia, permiso o autorización, quienes pretendan llevar a cabo los proyectos de estaciones de servicio, requerirán del dictamen favorable de la Secretaría de Infraestructura y Desarrollo Urbano del Estado, además, deberá obtenerse dictamen favorable de la autoridad competente en materia de protección civil y ambiental.
+
+Las acciones de urbanización a que se refieren los artículos del 84 al 93 de la presente Ley quedan sujetas a cumplir con las disposiciones contenidas en el presente artículo, siendo obligatoria su observancia.
+
 ###### ARTÍCULO 123.
 
 A la solicitud de la licencia de uso de suelo, se deberá acompañar:
@@ -1972,3 +1998,19 @@ Los procedimientos a que se refieren los párrafos anteriores deberán ser resue
 AL MARGEN CENTRAL DERECHO UN SELLO CON EL ESCUDO NACIONAL QUE DICE: ESTADOS UNIDOS MEXICANOS.- H. CONGRESO DEL ESTADO DE SONORA.- COMUNÍQUESE AL TITULAR DEL PODER EJECUTIVO PARA SU PUBLICACIÓN EN EL BOLETÍN OFICIAL DEL ESTADO. SALÓN DE SESIONES DEL H. CONGRESO DEL ESTADO, HERMOSILLO, SONORA, 15 DE SEPTIEMBRE DE 2006, C. ISMAEL FLORES GARCÍA.- DIPUTADO PRESIDENTE RUBRICA.- C. BLENDA NUVIA ANTELO ANDURO.- DIPUTADA SECRETARIA, RUBRICA.- C. MARÍA CARMELA ESTRELLA VALENCIA.- DIPUTADA SECRETARIA.- RUBRICA.-
 
 AL MARGEN SUPERIOR IZQUIERDO UN SELLO CON EL ESCUDO NACIONAL QUE DICE: ESTADOS UNIDOS MEXICANOS.- GOBIERNO DEL ESTADO DE SONORA.- POR TANTO, MANDO SE PUBLIQUE EN EL BOLETÍN OFICIAL DEL GOBIERNO DEL ESTADO Y SE LE DE EL DEBIDO CUMPLIMIENTO.- DADO EN LA RESIDENCIA DEL PODER EJECUTIVO, EN LA CIUDAD DE HERMOSILLO, SONORA, A LOS VEINTE DÍAS DEL MES DE SEPTIEMBRE DEL AÑO DOS MIL SEIS.- SUFRAGIO EFECTIVO. NO REELECCIÓN. EL GOBERNADOR DEL ESTADO, EDUARDO BOURS CASTELO.- RUBRICA.- EL SECRETARIO DE GOBIERNO.- ROBERTO RUIBAL ASTIAZARÁN.- RUBRICA.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+B.O. 5 DE AGOSTO DE 2011.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente al de su publicación en el Boletín Oficial Del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Los ayuntamientos del Estado deberán adecuar su reglamentación municipal en la materia 90 días después del inicio de vigencia del presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Todos los procedimientos que se hayan iniciado antes de la vigencia del presente Decreto y que no se encuentren concluidos, se regirán conforme a las disposiciones con las que se iniciaron.
