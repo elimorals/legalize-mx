@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-defensoria-publica-para-el-estado-de-nuevo-leon-66949"
 country: "mx"
 rank: "ley"
 publication_date: "2009-02-06"
-last_updated: "2010-12-24"
+last_updated: "2011-08-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=66949&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE DEFENSORIA PUBLICA PARA EL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE DICIEMBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE AGOSTO DE 2011.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Nuevo León, el viernes 6 de febrero de 2009.
 
@@ -85,11 +85,19 @@ III. Igualdad y equilibrio procesal: El Instituto al contar con los instrumentos
 
 IV. Responsabilidad profesional: El Instituto se sujetará a estándares que garanticen la responsabilidad profesional, que se manifestará en la calidad y eficiencia en la prestación del servicio.
 
-V. Solución de conflictos: El Instituto permitirá la asesoría e intervención en forma adicional al proceso legal en el campo de la solución alterna de los conflictos participando en la mediación y el arbitraje.
+> <small>(REFORMADA, P.O. 5 DE AGOSTO DE 2011)</small>
 
-VI. Confidencialidad: El Instituto brindará la seguridad de que la información entre defensor público y defendido se clasifique como confidencial.
+V. Solución de conflictos: El Instituto permitirá la asesoría e intervención en forma adicional al proceso legal en el campo de la solución alterna de los conflictos participando en la mediación y en general en la justicia restaurativa;
+
+> <small>(REFORMADA, P.O. 5 DE AGOSTO DE 2011)</small>
+
+VI. Confidencialidad: El Instituto brindará la seguridad de que la información entre defensor público y usuario se clasifique como confidencial;
 
 VII. Continuidad: El Instituto procurará la continuidad de la defensa evitando sustituciones innecesarias.
+
+> <small>(ADICIONADA, P.O. 5 DE AGOSTO DE 2011)</small>
+
+VIII. Obligatoriedad: El Instituto acometerá con estricto apego a la normatividad aplicable, el cumplimiento de los principios del sistema acusatorio y oral, en los casos en que el mismo sea aplicable.
 
 ###### Artículo 7.
 
@@ -151,19 +159,25 @@ Las dependencias oficiales encargadas de archivos, libros y registros, proporcio
 
 La Junta de Gobierno será la autoridad máxima del Instituto y se integrará por los siguientes miembros con derecho de voz y voto:
 
-I. Un Presidente honorario que recaerá en el Titular del Ejecutivo;
+> <small>(REFORMADA, P.O. 5 DE AGOSTO DE 2011)</small>
 
-II. Un Presidente Ejecutivo que será el mismo Presidente del Consejo Consultivo;
+I. Un Presidente honorario que recaerá en el Titular del Ejecutivo; y
 
-III. Cuatro vocales provenientes de las siguientes dependencias y entidades:
+> <small>(REFORMADA, P.O. 5 DE AGOSTO DE 2011)</small>
+
+II. Cinco vocales provenientes de las siguientes dependencias y entidades:
 
 a) El Titular de la Secretaría General de Gobierno;
 
 b) El Titular de la Secretaría de Finanzas y Tesorero General del Estado;
 
-c) El Titular del Sistema para el Desarrollo Integral de la Familia; y
+c) El Titular del Sistema para el Desarrollo Integral de la Familia;
 
-d) Un Diputado representante del H. Congreso del Estado, designado por el Pleno.
+d) Un Diputado representante del H. Congreso del Estado, designado por el Pleno; y
+
+e) El Presidente del Consejo Consultivo.
+
+III. (DEROGADA, P.O. 5 DE AGOSTO DE 2011)
 
 El Director General del Instituto tendrá el carácter de Secretario Técnico de la Junta, con derecho a voz y voto.
 
@@ -389,13 +403,25 @@ VIII. Dirección de Defensa Especializada en Justicia para Adolescentes;
 
 IX. Dirección de lo Familiar;
 
-> <small>(ADICIONADA, P.O. 17 DE JULIO DE 2009)</small>
+> <small>(REFORMADA, P.O. 5 DE AGOSTO DE 2011)</small>
 
-X. Dirección Foránea; y
+X. Dirección Foránea;
 
-XI. Dirección de Apoyo Técnico.
+> <small>(REFORMADA, P.O. 5 DE AGOSTO DE 2011)</small>
 
-El Reglamento de esta Ley, precisará su competencia, funcionamiento, atribuciones y obligaciones.
+XI. Dirección de Apoyo Técnico;
+
+> <small>(ADICIONADA, P.O. 5 DE AGOSTO DE 2011)</small>
+
+XII. Dirección de Defensa en Ejecución de Sanciones; y
+
+> <small>(ADICIONADA, P.O. 5 DE AGOSTO DE 2011)</small>
+
+XIII. Dirección del Centro de Formación Profesional.
+
+> <small>(REFORMADO, P.O. 5 DE AGOSTO DE 2011)</small>
+
+El Reglamento de esta Ley, precisará su competencia, funcionamiento, atribuciones y obligaciones, así como los mecanismos necesarios para la adecuada implementación del sistema de justicia penal acusatorio y oral.
 
 ### CAPÍTULO CUARTO. DE LOS DEFENSORES PÚBLICOS
 
@@ -455,13 +481,17 @@ IV. Patrocinar asuntos que no le correspondan o no estén expresamente autorizad
 
 #### SECCIÓN TERCERA. DE LAS EXCUSAS Y LA PRESTACIÓN DEL SERVICIO
 
+> <small>(REFORMADO, P.O. 5 DE AGOSTO DE 2011)</small>
+
 ###### Artículo 36.
 
-Una vez designado Defensor Público en la materia penal o tratándose de justicia para adolescentes no podrá excusarse de asumir la representación del inculpado o acusado salvo impedimento legal.
+Una vez designado Defensor Público en la materia penal o tratándose de justicia para adolescentes no podrá excusarse de asumir la representación del imputado o sentenciado salvo impedimento legal.
+
+> <small>(REFORMADO, P.O. 5 DE AGOSTO DE 2011)</small>
 
 ###### Artículo 37.
 
-Los Defensores Públicos adscritos a las Direcciones respectivas conforme al artículo 31, deberán excusarse de aceptar o continuar la defensa de un indiciado, procesado o sentenciado o adolescente imputado en los casos y en los términos previstos en esta Ley y en el Reglamento.
+Los Defensores Públicos adscritos a las Direcciones respectivas conforme al artículo 31, deberán excusarse de aceptar o continuar la defensa de un imputado o sentenciado o adolescente imputado en los casos y en los términos previstos en esta Ley y en el Reglamento.
 
 ###### Artículo 38.
 
@@ -618,3 +648,7 @@ P.O. 17 DE JULIO DE 2009.
 P.O. 24 DE DICIEMBRE DE 2010.
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 5 DE AGOSTO DE 2011.
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado
