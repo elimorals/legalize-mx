@@ -4,7 +4,7 @@ identifier: "FED-ley-de-ascensos-y-recompensas-del-ejercito-fuerza-aerea-y-34373
 country: "mx"
 rank: "ley"
 publication_date: "2003-10-30"
-last_updated: "2011-06-01"
+last_updated: "2011-08-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34373&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2003-10-29"
 
 LEY DE ASCENSOS Y RECOMPENSAS DEL EJERCITO Y FUERZA AEREA MEXICANOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 1 DE JUNIO DE 2011.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 5 DE AGOSTO DE 2011.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el jueves 30 de octubre de 2003.
 
@@ -65,9 +65,17 @@ VIII. Ascenso, el acto de mando mediante el cual es conferido al militar un grad
 
 IX. Recompensas, las condecoraciones, menciones honoríficas, distinciones y citaciones que se otorgan a las personas civiles o militares, unidades o dependencias del Ejército y Fuerza Aérea, para premiar su heroísmo, capacidad profesional, servicios a la Patria o demás hechos meritorios;
 
-X. Concursante, el militar con jerarquía hasta de Mayor del Ejército o de la Fuerza Aérea que sustenta exámenes para cubrir una vacante en el grado inmediato superior, y
+> <small>(REFORMADA, D.O.F. 5 DE AGOSTO DE 2011)</small>
 
-XI. Participante, el militar que es evaluado con el fin de ser propuesto para un ascenso.
+X. Concursante, el militar con jerarquía hasta de Mayor del Ejército o de la Fuerza Aérea que sustenta exámenes para cubrir una vacante en el grado inmediato superior;
+
+> <small>(REFORMADA, D.O.F. 5 DE AGOSTO DE 2011)</small>
+
+XI. Participante, el militar que es evaluado con el fin de ser propuesto para un ascenso, y
+
+> <small>(ADICIONADA, D.O.F. 5 DE AGOSTO DE 2011)</small>
+
+XII. Militares, son las mujeres y los hombres que legalmente pertenecen al Ejército y Fuerza Aérea, con un grado de la escala jerárquica. Estarán sujetos a las obligaciones y derechos que para ellos establecen la Constitución, la presente Ley y demás ordenamientos castrenses.
 
 ## TÍTULO SEGUNDO. De los ascensos
 
@@ -838,3 +846,7 @@ Tercero.- Los discentes que se encuentren en el supuesto que antecede, una vez q
 Cuarto.- El Ejecutivo Federal reformará los reglamentos de las Instituciones Educativas Militares que impartan estudios tipo superior de nivel licenciatura y el Reglamento de la Ley de Ascensos y Recompensas del Ejército y Fuerza Aérea Mexicanos, en un plazo no mayor a 180 días de la entrada en vigor del presente Decreto.
 
 Quinto.- Las erogaciones que deriven de la aplicación del presente Decreto serán realizadas mediante movimientos compensados, por lo que la Secretaría de la Defensa Nacional, debe sujetarse a su presupuesto autorizado para el presente ejercicio fiscal y no incrementar su presupuesto regularizable.
+
+D.O.F. 5 DE AGOSTO DE 2011.
+
+Único.- El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
