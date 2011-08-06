@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-justicia-para-menores-del-estado-de-san-luis-potosi-5196
 country: "mx"
 rank: "ley"
 publication_date: "2006-09-05"
-last_updated: "2011-04-19"
+last_updated: "2011-08-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51969&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE JUSTICIA PARA MENORES DEL ESTADO DE SAN LUIS POTOSI
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE ABRIL DE 2011.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE AGOSTO DE 2011.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el martes 5 de septiembre de 2006.
 
@@ -71,7 +71,9 @@ IV. Proteger y salvaguardar los derechos de las y los menores imputados, así co
 
 Para los efectos de esta Ley se entenderá por:
 
-I. Centro de Internamiento: al Centro de Internamiento Juvenil encargado de ejecutar las medidas de tratamiento impuestas a los menores en el ámbito estatal;
+> <small>(REFORMADA, P.O. 6 DE AGOSTO DE 2011)</small>
+
+I. Centro de Internamiento: al Centro de Internamiento Juvenil encargado de ejecutar las medidas de tratamiento impuestas a los menores en el ámbito estatal, así como al Anexo del Centro de Reinserción Social, que corresponda, donde debe compurgarse o continuar el cumplimiento de la medida de internamiento definitivo por quienes tengan, o hayan cumplido, dieciocho años de edad;
 
 II. Centros de Reeducación: a los centros de Ejecución de Medidas en Libertad;
 
@@ -169,7 +171,9 @@ VII. Proveerse de información diversa, sin contravenir el Reglamento Interior;
 
 VIII. Salir bajo vigilancia especial de los centros de internamiento cuando, de acuerdo con la gravedad de la circunstancia y la distancia, así lo requiera para acudir al sepelio de sus ascendientes o descendientes en primer grado, su cónyuge, concubina o concubinario, así como para visitarlos en su lecho de muerte. También para recibir atención médica especializada cuando ésta no pueda ser proporcionada en los propios centros;
 
-IX. Cursar la educación obligatoria, recibir instrucción técnica o formación práctica sobre un oficio, arte o profesión, recibir o continuar con su enseñanza e instrucción y, en su caso, terapias o educación especial;
+> <small>(REFORMADA, P.O. 6 DE AGOSTO DE 2011)</small>
+
+IX. Cursar la educación básica obligatoria, recibir instrucción técnica o formación práctica sobre un oficio, arte o profesión, recibir o continuar con su enseñanza e instrucción y, en su caso, terapias o educación especial;
 
 X. Ser formado en instalaciones y con servicios propicios para el desarrollo de hábitos de higiene personal, de estudio y de convivencia armónica en aras de un aprendizaje significativo de los derechos humanos;
 
@@ -207,17 +211,23 @@ IV. Ser informados de las resoluciones que finalicen o suspendan el proceso;
 
 V. Recibir asesoría jurídica, protección especial de su integridad física o psíquica, con inclusión de su familia inmediata, cuando reciban amenazas o corran peligro en razón del papel que cumplen en el proceso;
 
-VI. Interponer la demanda en contra de terceros civilmente obligados a la reparación del daño, y
+> <small>(REFORMADA, P.O. 6 DE AGOSTO DE 2011)</small>
+
+VI. Obtener el pago de la reparación del daño material y moral causado, cuantificable conforme a lo previsto por este ordenamiento y la legislación aplicable, pudiendo en su caso, Interponer la demanda en contra de terceros civilmente obligados a repararlo, y
 
 VII. Solicitar la reapertura de la investigación cuando se haya decretado el archivo temporal.
 
 ### CAPITULO III. Responsabilidad de los Menores Frente a la Ley Penal
 
+> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 2011)</small>
+
 ###### ARTICULO 11.
 
-Los menores serán responsables por infringir la ley penal estatal, en los casos y términos que se establecen en esta Ley.
+Los menores serán responsables por la realización de conductas tipificadas como delitos en las leyes, en los casos y términos que esta Ley señala.
 
-La niña o niño menores de doce años de edad a quien se le atribuya una conducta tipificada como delito en las leyes locales, queda exento de toda responsabilidad penal, sin perjuicio de las responsabilidades civiles a las que haya lugar. Si los derechos de la persona menor de doce años a quien se atribuye la comisión de un delito, se encuentran amenazados o vulnerados, la autoridad competente podrá remitir el caso a las instituciones públicas o privadas responsables de la protección de los derechos de la niña o del niño.
+La niña o niño menores de doce años a quienes se les atribuya la realización de una conducta tipificada como delito en las leyes, quedan exentos de toda responsabilidad penal y sólo serán sujetos de rehabilitación y asistencia social en los términos que establezca la legislación de la materia, sin perjuicio de las responsabilidades civiles a las que haya lugar.
+
+Si los derechos de la persona menor de doce años a quien se atribuye la comisión de un delito, se encuentran amenazados o vulnerados, la autoridad competente podrá remitir el caso a las instituciones públicas o privadas responsables de la protección de los derechos de la niña o niño.
 
 ###### ARTICULO 12.
 
@@ -259,9 +269,11 @@ Los abogados defensores de oficio para menores, dependen de la Coordinación Gen
 
 Los funcionarios judiciales dependen del Poder Judicial del Estado. Los criterios de organización, formación especializada y los procedimientos de ingreso, promoción y permanencia del nombramiento, con excepción de los magistrados, serán definidos por el Consejo de la Judicatura. Sus atribuciones y funciones serán reguladas, según corresponda, en (sic) Ley Orgánica del Poder Judicial del Estado de San Luis Potosí.
 
+> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 2011)</small>
+
 ###### ARTICULO 17.
 
-La Dirección General, así como los directores de los centros de internamiento y de los centros de Reeducación, dependerán del Ejecutivo del Estado, a través de la Secretaría General de Gobierno del Estado, y la Subsecretaría correspondiente. Los criterios de organización, formación especializada y los procedimientos de ingreso, promoción y permanencia del cargo, serán definidos por esta Dependencia conforme a la legislación aplicable. Sus funciones y atribuciones serán reguladas por esta Ley.
+El titular de la Dirección General, así como los directores de los centros de Internamiento, y de Reeducación, deberán contar con título profesional legalmente expedido y con una experiencia mínima de tres años en la materia, dependerán del Ejecutivo del Estado, a través de la Secretaría General de Gobierno del Estado, y la Subsecretaría de Prevención y Reinserción Social. Los criterios de organización, formación especializada y los procedimientos de ingreso, promoción y permanencia del cargo, serán definidos por esta Dependencia conforme a la legislación aplicable. Sus funciones y atribuciones serán reguladas por esta Ley.
 
 ###### ARTICULO 18.
 
@@ -295,7 +307,9 @@ V. En los casos de duda acerca de la edad de la persona detenida en flagrancia, 
 
 VI. Salvaguardar la vida, la dignidad e integridad física de niñas, niños y menores que estén bajo su custodia, en tanto sean puestos a disposición del Ministerio Público para Menores, y
 
-VII. Manejar con discreción todo asunto relacionado con niñas, niños y menores, evitando su publicidad o exhibición pública.
+> <small>(REFORMADA, P.O. 6 DE AGOSTO DE 2011)</small>
+
+VII. Guardar secrecía de todo asunto relacionado con niñas, niños y menores, impidiendo su publicidad y exhibición pública.
 
 ###### ARTICULO 22.
 
@@ -330,6 +344,10 @@ IX. Cumplir las modalidades y circunstancias de las medidas impuestas;
 X. Celebrar convenios de colaboración con instituciones públicas y privadas para que coadyuven en el cumplimiento de los programas individualizados de ejecución de medidas, y
 
 XI. Contar con un registro actualizado de las instituciones públicas y privadas que colaboren en la ejecución de las medidas, así como de los programas existentes para su cumplimiento; y disponer lo conducente para que siempre esté a disposición de los jueces especializados y de los de ejecución.
+
+> <small>(ADICIONADO, P.O. 6 DE AGOSTO DE 2011)</small>
+
+ARTICULO 23 BIS. Para el cumplimiento de su objeto, la Dirección General contará con un comité técnico multidisciplinario, el cual se integrará por el personal de la adscripción, de acuerdo a lo que disponga el reglamento correspondiente. A dicho comité se invitará a participar, con voz pero sin voto, a representantes de la Comisión Estatal de Derechos, y el Sistema Estatal para el Desarrollo Integral de la Familia. En su caso, solicitará la opinión de la (sic) secretarías de Educación; de Cultura; de Salud; el Instituto Potosino de la Juventud; entre otras instituciones de la materia que se vaya a tratar.
 
 ###### ARTICULO 24.
 
@@ -373,6 +391,10 @@ g) Un registro de las personas que visitan al menor.
 
 h) Cualquier otro hecho, circunstancia o característica particular de la persona sujeta a medida, que se considere importante.
 
+> <small>(ADICIONADO, P.O. 6 DE AGOSTO DE 2011)</small>
+
+Las mismas atribuciones corresponden, a los Directores del Centro de Reinserción respectivo, en aquéllos casos en que la medida de internamiento definitivo deba cumplirse en el Anexo al mismo por quienes tengan, o hayan cumplido, dieciocho años de edad.
+
 ###### ARTICULO 25.
 
 El Centro de Reeducación es la entidad especializada integrante del Sistema, responsable de aplicar a los menores, los modelos y programas de formación integral, para el estricto cumplimiento de las medidas de orientación y protección en libertad, impuestas por el juez especializado, por la comisión de una conducta tipificada como delito no grave en las leyes.
@@ -389,7 +411,9 @@ IV. Ejecutar todas las actividades de los modelos individualizados de formación
 
 V. Seleccionar y coordinar a las instituciones de instrucción, altruistas, culturales, religiosas, de capacitación laboral, recreativas y deportivas, en la aplicación, evaluación y seguimiento de los modelos o programas individualizados para el cumplimiento de las medidas de orientación y protección en libertad, impuestas por el juez especializado;
 
-VI. Informar semanalmente a la Dirección General y al Juez de Ejecución, el desarrollo de los modelos individualizados de formación integral de cada uno de los menores sujetos a medidas de orientación y protección en libertad;
+> <small>(REFORMADA, P.O. 6 DE AGOSTO DE 2011)</small>
+
+VI. Informar quincenal o mensualmente, según sea el caso, a la Dirección General y al Juez de Ejecución, el desarrollo de los modelos individualizados de formación integral de cada uno de los menores sujetos a medidas de orientación y protección en libertad;
 
 VII. Sugerir al titular de la Dirección General y al Juez de Ejecución, el término o adecuación de la medida, cuando considere que ésta ha sido ejecutada con relevancia por el menor;
 
@@ -412,6 +436,10 @@ La detención provisional e internamiento de menores deberá evitarse y limitars
 ###### ARTICULO 28.
 
 En los casos en que sea procedente, el Ministerio Público para Menores estará obligado a solicitar la reparación del daño y el Juez Especializado no podrá absolver al menor de dicha reparación si ha emitido una sentencia condenatoria.
+
+> <small>(ADICIONADO, P.O. 6 DE AGOSTO DE 2011)</small>
+
+Cuando se trate de conductas tipificadas como delitos que afecten la vida o la integridad corporal, el monto de la reparación se determinará atendiendo a lo dispuesto por la Ley Federal del Trabajo. En aquéllas conductas tipificadas como delitos que afecten la vida, para calcular la reparación que corresponda se tomará como base el cuádruplo del salario mínimo diario vigente al momento de ocurridos los hechos y se multiplicará por el número de días que para el caso de muerte establece dicha Ley; su importe, se pagará a favor de las personas señaladas en el artículo 23 del Código Penal del Estado.
 
 ###### ARTICULO 29.
 
@@ -464,6 +492,10 @@ La acción de remisión corresponde al Ministerio Público para Menores, sin per
 Durante la fase de investigación, el Ministerio Público para Menores deberá realizar todas las actividades necesarias para allegarse los datos y elementos de convicción indispensables, que acrediten la conducta y la probable responsabilidad de los menores.
 
 Una vez reunido lo anterior, en caso de resultar procedente, formulará la remisión del caso al Juez Especializado. En caso contrario, ordenará el archivo de la investigación, previa determinación de la improcedencia de la remisión.
+
+> <small>(ADICIONADO, P.O. 6 DE AGOSTO DE 2011)</small>
+
+La determinación de la improcedencia de la remisión, deberá confirmarse o revocarse por el Procurador o Subprocurador autorizado mediante acuerdo general. Las resoluciones que la confirmen, serán impugnadas ante el Tribunal de lo Contencioso Administrativo del Estado.
 
 ###### ARTICULO 38.
 
@@ -529,9 +561,11 @@ III. El menor haya sufrido, a consecuencia del hecho, daño físico o psíquico 
 
 En todos los casos anteriores, la decisión del Ministerio Público para Menores deberá sustentarse en razones objetivas y sin discriminación, valorando en cada caso individual, las pautas generales que al efecto se hayan dispuesto para la procuración de justicia. El Ministerio Público para Menores podrá fijar una fianza en cualquiera de las formas que señala la ley, la que en su caso constituirá garantía de reparación del daño.
 
+> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 2011)</small>
+
 ###### ARTICULO 47.
 
-La decisión del Agente del Ministerio Público para Menores, mediante la cual no se realice la remisión, que no se ajuste a los requisitos legales o constituya un acto de discriminación, será impugnable por la víctima ante el Procurador General de Justicia en el Estado, quien resolverá lo conducente.
+La decisión del Agente del Ministerio Público para Menores, mediante la cual no se realice la remisión, que no se ajuste a los requisitos legales o constituya un acto de discriminación, será impugnable por la víctima ante el Procurador General de Justicia en el Estado, quien resolverá lo conducente, con independencia de lo señalado en el artículo 37 de esta Ley.
 
 ### CAPITULO III. Del Procedimiento, Juicio y Resolución
 
@@ -541,19 +575,25 @@ La decisión del Agente del Ministerio Público para Menores, mediante la cual n
 
 Los procedimientos en que se vean involucrados menores son de alta prioridad e interés público; en función de lo anterior y para salvaguardar plenamente el derecho que tienen a ser escuchados, su declaración debe ser:
 
-I. Rendida únicamente ante el Ministerio Público para Menores, o la autoridad judicial;
+> <small>(REFORMADA, P.O. 6 DE AGOSTO DE 2011)</small>
+
+I. Rendida únicamente ante el Ministerio Público para Menores, o ante el Juez Especializado en presencia de su defensor;
 
 II. Voluntaria, de manera que sólo se puede realizar si el menor presta su consentimiento, después de consultarlo con su defensor;
 
 III. Pronta, por lo que se dará prioridad a la declaración, procurando que el tiempo entre la presentación y la declaración judicial inicial sea lo más breve posible;
 
-IV. Breve, de modo que la comparecencia ante el Juez Especializado tome estrictamente el tiempo requerido, considerando incluso periodos de descanso para el menor;
+> <small>(REFORMADA, P.O. 6 DE AGOSTO DE 2011)</small>
+
+IV. Breve, de modo que la comparecencia ante el Ministerio Público para Menores o Juez Especializado tome estrictamente el tiempo requerido, considerando incluso periodos de descanso para el menor;
 
 V. Eficiente, por lo que la autoridad tendrá que preparar la comparecencia con antelación para obtener la información que requiera, para el ejercicio de sus atribuciones en el menor número de sesiones que sea posible;
 
 VI. Necesaria, de manera que ocurra sólo en los momentos en los que es imperativo hacerlo, y
 
-VII. Asistida, de modo que se realice con la asistencia de su defensor; cuando exista ansiedad, fatiga o daño psicológico producidos por la declaración, se suspenderá ésta, reanudándose a la brevedad posible. En los casos en que el menor tenga una edad de entre doce años y catorce años no cumplidos, también será necesaria la presencia de sus padres, tutores, custodios o quienes ejerzan la patria potestad, si él y su defensa lo estimaren conveniente.
+> <small>(REFORMADA, P.O. 6 DE AGOSTO DE 2011)</small>
+
+VII. Asistida, de modo que se realice con la asistencia de sus padres, tutores o quienes ejerzan la patria potestad o la custodia, o su defensor; cuando exista ansiedad, fatiga o daño psicológico producidos por la declaración, se suspenderá ésta, reanudándose a la brevedad posible.
 
 ###### ARTICULO 49.
 
@@ -579,9 +619,11 @@ Para imponer cualquier tipo de medida cautelar, el Ministerio Público para Meno
 
 Las medidas cautelares podrán dictarse y revocarse en cualquier momento hasta antes de dictarse sentencia.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 6 DE AGOSTO DE 2011)</small>
+
 ###### ARTICULO 51.
 
-La detención preventiva debe aplicarse sólo de manera excepcional, cuando no sea posible aplicar otra medida cautelar menos gravosa y hasta un plazo máximo de tres meses, siempre que:
+La detención preventiva debe aplicarse sólo de manera excepcional, cuando no sea posible aplicar otra medida cautelar menos gravosa y hasta un plazo máximo de seis meses naturales, siempre que:
 
 I. Exista peligro de fuga, de obstaculización del procedimiento, o de destrucción de los medios de convicción;
 
@@ -591,7 +633,17 @@ III. Se estime que el menor puede cometer un delito doloso contra la propia víc
 
 IV. El menor sea mayor de catorce años de edad al momento de cometer el hecho.
 
-La detención preventiva no podrá combinarse con otras medidas cautelares, y debe ser cumplida en instalaciones diferentes a las destinadas al cumplimiento de la medida de internamiento definitivo.
+> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 2011)</small>
+
+Cumplido el plazo máximo de seis meses a que se refiere el epígrafe de este artículo sin que el Juez Especializado haya dictado resolución por la que imponga una medida de internamiento al menor, el titular o responsable del Centro de Internamiento en donde se encuentre detenido preventivamente, lo hará del conocimiento por escrito del Juez Especializado en el momento mismo de la conclusión del plazo, así como al Ministerio Público para Menores adscrito al Juzgado Especializado y al Presidente del Supremo Tribunal de Justicia para los efectos a que haya lugar. Hecho lo anterior sin que se reciba dentro de las tres horas siguientes copia autorizada de la resolución respectiva, el menor será puesto inmediatamente en libertad, sin perjuicio de que continúe el procedimiento hasta dictarse resolución definitiva.
+
+> <small>(ADICIONADO, P.O. 6 DE AGOSTO DE 2011)</small>
+
+El Ministerio Público, antes de concluir el plazo de la detención preventiva, podrá solicitar se dicte otra u otras medidas cautelares a las que se refiere el artículo 49 de esta Ley, para que el menor continúe el procedimiento en libertad hasta su conclusión; el término de la duración de la o las medidas cautelares no deberá exceder de tres meses, plazo en cual el juez deberá de dictar la resolución que corresponda, salvo que existan diligencias, o medios de prueba pendientes de desahogo ofrecidos por la defensa, en cuyo caso las medidas cautelares podrán prorrogarse.
+
+> <small>(ADICIONADO, P.O. 6 DE AGOSTO DE 2011)</small>
+
+El incumplimiento de lo prescrito en este artículo dará lugar a las responsabilidades penales, administrativas y civiles que conforme a las leyes y normatividad de la materia procedan.
 
 #### Sección II. Del Juicio
 
@@ -610,6 +662,10 @@ Concluido el juicio, el Juez Especializado resolverá sobre la responsabilidad d
 El Juez Especializado apreciará la prueba, conforme a las reglas de la lógica, los conocimientos científicos y las máximas de la experiencia; sólo podrán valorarse y someterse a la crítica racional, los medios de prueba obtenidos por un proceso permitido e incorporados al juicio conforme a las disposiciones de esta Ley.
 
 En caso de duda, el Juez Especializado deberá resolver tomando en cuenta lo que más favorezca al menor.
+
+> <small>(ADICIONADO, P.O. 6 DE AGOSTO DE 2011)</small>
+
+En cualquier tiempo el Juez Especializado podrá requerir al comité técnico multidisciplinario que corresponda, los estudios que estime pertinentes para allegarse de mayores elementos de juicio que le permitan emitir su resolución.
 
 ###### ARTICULO 55.
 
@@ -663,6 +719,16 @@ Los procedimientos alternativos al juzgamiento responden a los principios de sub
 
 #### Sección I. Conciliación
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 6 DE AGOSTO DE 2011)</small>
+
+###### ARTICULO 60.
+
+La conciliación como acto jurídico voluntario realizado entre el menor y la víctima u ofendido, consiste en un acuerdo de voluntades que deberá ser aprobado por el Ministerio Público para Menores o por el Juez Especializado correspondiente, según la etapa procesal en que se encuentre el asunto.
+
+Durante todo el desarrollo de la conciliación, el menor y la víctima u ofendido deberán ser asistidos por su defensor y el Ministerio Público para Menores, respectivamente.
+
+La conciliación se rige por los principios de voluntariedad de las partes, confidencialidad, flexibilidad, neutralidad, imparcialidad, equidad, legalidad y honestidad.
+
 ###### ARTICULO 60.
 
 La conciliación como acto jurídico voluntario realizado entre el menor y la víctima u ofendido, consiste en un acuerdo de voluntades que deberá ser aprobado por el Juez Especializado correspondiente.
@@ -676,6 +742,10 @@ Para conciliar se podrá recurrir al asesoramiento y al auxilio de personas o en
 Los conciliadores deberán guardar secreto sobre lo que conozcan en las deliberaciones y discusiones de las partes.
 
 El Juez Especializado no aprobará la conciliación cuando tenga fundados motivos para estimar que alguno de los participantes, no está en condiciones de igualdad para negociar o ha actuado bajo coacción o amenaza.
+
+> <small>(ADICIONADO, P.O. 6 DE AGOSTO DE 2011)</small>
+
+La conciliación puede realizarse en cualquier momento, desde que el menor es puesto a disposición del Ministerio Público para Menores y hasta antes de que el Juez Especializado dicte sentencia.
 
 ###### ARTICULO 61.
 
@@ -751,7 +821,9 @@ X. Abstenerse de viajar al extranjero, y
 
 XI. La reparación del daño.
 
-Cuando se acredite plenamente que el menor no puede cumplir con alguna de las obligaciones anteriores por ser contrarias a su salud, sus creencias religiosas o alguna otra causa de especial relevancia, el Juez Especializado podrá substituirlas, fundada y motivadamente, por otra u otras análogas que resulten razonables.
+> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 2011)</small>
+
+Cuando se acredite plenamente que el menor no puede cumplir con alguna de las obligaciones anteriores por ser contrarias a su salud, sus creencias religiosas o alguna otra causa de especial relevancia, el Juez Especializado podrá substituirlas, fundada y motivadamente, por otra u otras análogas que resulten razonables. La reparación del daño en ningún caso podrá substituirse.
 
 Para fijar las reglas, el Juez Especializado puede disponer que el menor sea sometido a una evaluación previa. En ningún caso el Juez Especializado puede imponer medidas más gravosas que las solicitadas por el Ministerio Público para Menores.
 
@@ -785,9 +857,11 @@ Durante el periodo de suspensión del proceso a prueba quedará suspendida la pr
 
 ### CAPITULO I. Disposiciones Generales
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 6 DE AGOSTO DE 2011)</small>
+
 ###### ARTICULO 73.
 
-Las medidas reguladas por esta Ley tienen la finalidad de brindar al menor una experiencia de legalidad; así como la oportunidad de valorar los beneficios de la convivencia armónica, del civismo y del respeto a las normas y derechos de los demás; para ello, deben instrumentarse, en lo posible, con la participación de la familia, de la comunidad y, en su caso, con el apoyo de especialistas.
+Las medidas reguladas por esta Ley, son impuestas por el juez especializado, y tienen la finalidad de brindar al menor una experiencia de legalidad; así como la oportunidad de valorar los beneficios de la convivencia armónica, del civismo y del respeto a las normas y derechos de los demás; estas medidas serán instrumentadas por el personal que la Dirección General designa y, en lo posible, con la participación de la familia, de la comunidad y, en su caso, con el apoyo de otros especialistas.
 
 > <small>(REFORMADO, P.O. 19 DE ABRIL DE 2011)</small>
 
@@ -823,7 +897,7 @@ La duración de dichas medidas no podrá ser mayor de cinco años y tratándose 
 
 ###### ARTICULO 78.
 
-El apercibimiento es la llamada de atención enérgica que el Juez Especializado hace al menor, en forma oral, clara y directa, en un único acto, para hacerle comprender la gravedad de la conducta realizada y las consecuencias que la misma ha tenido o pudo haber tenido, tanto para la víctima o el ofendido, como para el propio menor, instándolo a cambiar su comportamiento, a no reincidir y conminándolo a aprovechar la oportunidad que se le da al imponérsele esta medida, que es la más benévola entre las que considera esta Ley. La finalidad de ésta medida es la de conminar al menor para que evite la futura realización de conductas tipificadas como delitos en las leyes, así como advertirle que, en el caso de reincidir en su conducta, se le aplicará una medida más severa.
+El apercibimiento es la llamada de atención enérgica que el Juez Especializado hace al menor, en forma oral, clara y directa, en un único acto, para hacerle comprender la gravedad de la conducta realizada y las consecuencias que la misma ha tenido o pudo haber tenido, tanto para la víctima o el ofendido, como para el propio menor, instándolo a cambiar su comportamiento, a no reincidir y conminándolo a aprovechar la oportunidad que se le dá al imponérsele esta medida, que es la más benévola entre las que considera esta Ley. La finalidad de ésta medida es la de conminar al menor para que evite la futura realización de conductas tipificadas como delitos en las leyes, así como advertirle que, en el caso de reincidir en su conducta, se le aplicará una medida más severa.
 
 ###### ARTICULO 79.
 
@@ -877,7 +951,9 @@ El supervisor debe visitar periódicamente el lugar donde se presta el servicio,
 
 Para la determinación del servicio se preferirán las entidades y programas del lugar de origen del menor, o de donde resida habitualmente.
 
-La entidad, institución u organización en donde se esté prestando el servicio, deberá informar semanalmente al Centro de Reeducación, sobre el desempeño del menor y cualquier situación que se presente durante la ejecución de la medida.
+> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 2011)</small>
+
+La entidad, institución u organización en donde se esté prestando el servicio, deberá informar quincenalmente al Centro de Reeducación, sobre el desempeño del menor y cualquier situación que se presente durante la ejecución de la medida.
 
 La inasistencia injustificada del menor por más de tres ocasiones en el lapso de treinta días, así como la mala conducta o falta de disciplina, y el bajo rendimiento en el desempeño de la prestación del servicio, serán causales de incumplimiento de esta medida, en cuyo caso se hará del conocimiento del Juez de Ejecución para que resuelva lo conducente.
 
@@ -899,9 +975,13 @@ III. En los casos en que se requiera, se comprenderá el pago de los tratamiento
 
 IV. El resarcimiento de los perjuicios ocasionados.
 
+> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 2011)</small>
+
 ###### ARTICULO 85.
 
-En atención a la finalidad de esta medida, se procurará que la reparación del daño consista en acuerdos restaurativos y no necesariamente en el pago de una suma de dinero, pero cuando ello sea inevitable, se procurará que éste provenga del propio esfuerzo del menor y se buscará, en la medida de lo posible, que no provoque un traslado de la responsabilidad de éste último hacia sus padres, tutores o personas que ejerzan la patria potestad o la custodia.
+En atención a la finalidad de esta medida, se procurará que la reparación del daño consista en acuerdos restaurativos y no necesariamente en el pago de una suma de dinero, pero cuando ello sea inevitable, el pago provendrá del propio esfuerzo y trabajo del menor, cuando éste tuviere una actividad lícita remunerativa, o que cuente con bienes de su propiedad; en caso de que esto no fuera posible, la obligación será trasladada a quienes ejercen la patria potestad, custodia o tutoría del menor, para que se haga efectiva mediante el procedimiento respectivo.
+
+Para los efectos de lo establecido en el párrafo anterior, todo menor que cumpla una medida de Internamiento definitivo, deberá iniciar una actividad laboral dentro del Centro de Internamiento de forma obligatoria y paralelamente a la medida de internamiento que le fue impuesta.
 
 #### Sección V. Limitación o Prohibición de Residencia
 
@@ -1077,7 +1157,9 @@ En cualquier momento en el que el personal de la Dirección General o de los cen
 
 El internamiento domiciliario consiste en la prohibición al menor de salir de su casa habitación. De no ser ello posible, por razones de conveniencia, esta medida podrá practicarse en la casa de cualquier familiar.
 
-La finalidad de esta medida es la privación del derecho a la libertad de tránsito dentro de los límites del propio domicilio, sin afectar el cumplimiento de las obligaciones laborales o escolares del menor. La Dirección General vigilará el cumplimiento de esta medida, cuya duración no podrá ser mayor de cuatro años.
+> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 2011)</small>
+
+La finalidad de esta medida es la privación del derecho a la libertad de tránsito fuera de los límites del propio domicilio, sin afectar el cumplimiento de las obligaciones laborales o escolares del menor. La Dirección General vigilará el cumplimiento de esta medida, cuya duración no podrá ser mayor de cuatro años.
 
 ###### ARTICULO 113.
 
@@ -1111,63 +1193,71 @@ Los espacios destinados al cumplimiento de esta medida deben estar totalmente se
 
 #### Sección III. Internamiento Definitivo
 
+> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 2011)</small>
+
 ###### ARTICULO 117.
 
-La medida de internamiento definitivo es la más severa prevista en esta Ley; consiste en la privación de la libertad y se debe cumplir exclusivamente en los centros de internamiento, de los que podrán salir los menores sólo mediante orden escrita de autoridad judicial competente. Esta medida sólo se puede imponer a quienes tengan, o hayan tenido, al momento de realizar la conducta, una edad de entre catorce años cumplidos y menos de dieciocho años de edad; y hayan cometido alguna de las siguientes conductas tipificadas como delito:
+La medida de internamiento definitivo es la más severa prevista en esta Ley; consiste en la privación de la libertad y se debe cumplir exclusivamente en los centros de internamiento, de los que podrán salir los menores sólo mediante orden escrita de autoridad judicial competente. Esta medida sólo se puede imponer a quienes tengan, o hayan tenido, al momento de realizar la conducta, una edad de entre catorce años cumplidos y menos de dieciocho años de edad; y hayan cometido alguna de las siguientes conductas tipificadas como delitos en el Código Penal del Estado:
 
-I. Homicidio por culpa, a que se refiere el artículo 64 del Código Penal del Estado;
+I. Homicidio por culpa, a que se refiere el artículo 64;
 
-II. Homicidio simple intencional, previsto en los artículos 107 y 107 Bis del Código Penal del Estado;
+II. Homicidio simple intencional, previsto en los artículos 107 y 107 Bis;
 
-III. Homicidio calificado, previsto en el artículo 123 del Código Penal;
+III. Feminicidio, previsto en el artículo 114 Bis;
 
-IV. Parricidio, previsto en el artículo 127 del Código Penal;
+IV. Homicidio calificado, previsto en el artículo 123;
 
-V. Aborto, previsto en el artículo 128 del Código Penal;
+V. Parricidio, previsto en el artículo 127;
 
-VI. Ataque peligroso, previsto en el artículo 131 del Código Penal del Estado;
+VI. Aborto, previsto en el artículo 128;
 
-VII. Secuestro, previsto en los artículos 135, 135 Bis y 135 Ter del Código Penal;
+VII. Ataque peligroso, previsto en el artículo 131;
 
-VIII. Robo de infante e incapaces, previsto en el artículo 137 del Código Penal;
+VIII. Privación ilegal de la libertad, previsto en el artículo 134;
 
-IX. Tráfico de menores, previsto en el artículo 140 del Código Penal;
+IX. Secuestro, secuestro exprés, secuestro simulado, previsto en los artículos 135, 135 Bis y 135 Ter;
 
-> <small>(REFORMADA, P.O. 5 DE JULIO DE 2007)</small>
+X. Robo de infante e incapaces, previsto en el artículo 137;
 
-X. Asalto, previsto en los artículos 144 y 145 del Código Penal;
+XI. Tráfico de menores, previsto en el artículo 140;
 
-XI. Violación, prevista en el artículo 150 del Código Penal;
+XII. Asalto, previsto en los artículos 144 y 145;
 
-XII. Violación equiparada, prevista en los artículos 152 y 153 del Código Penal;
+XIII. Exposición al peligro, a que se refiere el artículo 147 Bis;
 
-> <small>(REFORMADA, P.O. 5 DE JULIO DE 2007)</small>
+XIV. Abuso sexual calificado, previsto en el artículo 148;
 
-XIII. Robo calificado, previsto en el artículo 200 del Código Penal.
+XV. Violación, prevista en el artículo 150;
 
-En las modalidades previstas en las fracciones I y V del artículo 200 del Código Penal del Estado, únicamente se considerará como grave, cuando en razón del arma empleada se ponga en riesgo la integridad corporal de la víctima, su familia o demás habitantes, o cuando se infieran lesiones. En el caso de robo calificado en la modalidad prevista en la fracción II del artículo supracitado, sólo se considerará como grave, cuando se cometa en casa-habitación y el valor de lo robado exceda de 100 veces el salario mínimo vigente;
+XVI. Violación equiparada, prevista en los artículos 152 y 153;
 
-XIV. Corrupción de menores, previsto en el artículo 180 del Código Penal;
+XVII. Corrupción de menores, previsto en el artículo 180;
 
-> <small>(REFORMADA, P.O. 5 DE JULIO DE 2007)</small>
+XVIII. Robo equiparado, que señala el artículo 195 Bis;
 
-XV. Abigeato, previsto en los artículos 216 a 221 del Código Penal;
+XIX. Robo calificado, a que se refiere en el artículo 200, con las salvedades previstas en el artículo 407 del Código de Procedimientos Penales para el Estado;
 
-> <small>(REFORMADA, P.O. 5 DE JULIO DE 2007)</small>
+XX. Extorsión, a que se refiere el artículo 212;
 
-XVI. Asociación delictuosa, previsto en los artículos 265 y 266 del Código Penal, y
+XXI. Abigeato, prevista en el artículo 216 a 221;
 
-> <small>(REFORMADA, P.O. 5 DE JULIO DE 2007)</small>
+XXII. Motín, previsto en el artículo 249;
 
-XVII. Ataque a las vías de comunicación y medios de transporte, previsto en los artículos 298 a 303 del Código Penal.
+XXIII. Asociación delictuosa, previsto en el artículo 265 y 266;
 
-> <small>(REFORMADO, P.O. 5 DE JULIO DE 2007)</small>
+XXIV. Ataque a las vías de comunicación y medios de transporte, previsto en los artículos 298 a 303;
 
-El plazo de internamiento que podrá aplicarse a los menores será desde seis meses, hasta el equivalente al tiempo de la pena mínima de prisión que señale el Código Penal del Estado de San Luis Potosí, para cada uno de los delitos enunciados. En ningún caso, la medida de internamiento excederá de dieciocho años.
+XXV. Narcomenudeo, previsto en los artículos 325 y 326, y
 
-En caso de que el menor durante el cumplimiento de la medida que le haya sido impuesta o hasta dos años posteriores a la conclusión del mismo, cometiere una nueva conducta tipificada como delito en las leyes, no será sujeto de los beneficios, adecuaciones o cumplimientos anticipados que eventualmente pudieran actualizarse.
+XXVI. Las demás conductas tipificadas como delitos graves por la legislación penal del Estado.
 
-La tentativa punible de las conductas mencionadas en las fracciones anteriores, no será considerada como conducta grave.
+El plazo de internamiento que podrá aplicarse a los menores será desde seis meses, hasta el equivalente al tiempo de la pena mínima de prisión que señale el Código Penal del Estado, para cada uno de los delitos enunciados. En ningún caso, la medida de internamiento excederá de dieciocho años.
+
+La medida de internamiento definitivo deberá cumplirse en el Centro de Internamiento, o en el Anexo del Centro de Reinserción según corresponda.
+
+En caso de que el menor durante el cumplimiento de la medida que le haya sido impuesta o hasta dos años posteriores a la conclusión del mismo, cometiere una nueva conducta tipificada como delito en las leyes, no será sujeto de los beneficios, adecuaciones, o cumplimientos anticipados que eventualmente pudieran actualizarse.
+
+La tentativa punible de las conductas que señalan las fracciones anteriores, no será considerada como conducta grave.
 
 ###### ARTICULO 118.
 
@@ -1181,9 +1271,13 @@ Exceptuando las conductas señaladas en el artículo 117 de esta Ley, el Juez Es
 
 Al imponerse la medida de internamiento definitivo, se computará como parte del cumplimiento de la misma, el tiempo de internamiento provisional que se le haya aplicado al menor.
 
+> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 2011)</small>
+
 ###### ARTICULO 121.
 
-La aplicación de la medida prevista en esta Sección, es de competencia exclusiva e indelegable del estado, y se debe cumplir en áreas diferentes de las destinadas para los adultos.
+La aplicación de la medida prevista en esta Sección, es de competencia exclusiva e indelegable del Estado, y se debe cumplir en áreas diferentes de las destinadas para los adultos, a fin de preservar el interés superior de los menores; por ello, quienes durante el cumplimiento de la medida de internamiento definitivo alcancen la mayoría de edad, serán separados de los demás internos y reubicados en áreas específicas de centros de reinserción para adultos, donde se observen al interior de las mismas, las reglas, políticas y lineamientos aplicables al Centro de Internamiento que establece la Ley de Justicia para Menores del Estado de San Luis Potosí.
+
+Asimismo, las autoridades de los centros de reinserción para adultos, aplicarán las reglas, políticas y lineamientos en materia de seguridad en las áreas específicas que se encuentren quienes estén cumpliendo su internamiento definitivo.
 
 ## TITULO QUINTO. EJECUCION DE LAS MEDIDAS
 
@@ -1235,13 +1329,19 @@ VI. Cualquier otra acción que permita a los padres, familiares, responsables, t
 
 ### CAPITULO II. Procedimiento de Ejecución
 
+> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 2011)</small>
+
 ###### ARTICULO 128.
 
-Si la resolución impone medidas, el Juez Especializado que la emitió deberá notificarla al Juez de Ejecución y a la Dirección General, a fin de que se inicie el procedimiento de ejecución de la medida impuesta.
+Si la resolución impone medidas, el Juez Especializado que la emitió deberá notificarla al Juez de Ejecución y a la Dirección General, acompañando copia certificada de la resolución, a fin de que se inicie el procedimiento de ejecución de la medida impuesta.
+
+Para efectos del párrafo que antecede, el Juez de Ejecución dentro de los tres días hábiles siguientes a la notificación, instruirá a la Dirección General la elaboración del programa individualizado.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 6 DE AGOSTO DE 2011)</small>
 
 ###### ARTICULO 129.
 
-Una vez notificada la medida, la Dirección General elaborará un Programa Individualizado que deberá:
+Una vez notificada la resolución y recibida la instrucción del Juez de Ejecución, la Dirección General elaborará un Programa Individualizado de acuerdo a las medidas impuestas, el que deberá:
 
 I. Sujetarse a los fines y funciones de la o las medidas impuestas por el Juez Especializado;
 
@@ -1257,7 +1357,9 @@ VI. Indicar si la aplicación de la medida estará a cargo de los centros de Int
 
 Para la determinación de sus contenidos y alcances, el Programa Individualizado deberá ser discutido con la persona sujeta a medida, quien tendrá la oportunidad de ser escuchada y de participar en la fijación de las condiciones y forma de ejecución del mismo.
 
-Deberá preverse además que dicho programa esté terminado en un plazo no mayor a una semana, contado a partir del momento en que quede firme la resolución que ordena la medida.
+> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 2011)</small>
+
+El Programa Individualizado de Ejecución, deberá elaborarse y remitirse al Juez de Ejecución dentro de los quince días hábiles siguientes a la presentación de la persona sujeta a la medida impuesta.
 
 ###### ARTICULO 130.
 
@@ -1379,6 +1481,10 @@ IX. La prohibición de internamiento de menores en los centros de internamiento 
 
 X. La prohibición de internamiento de adultos en los centros de internamiento para menores.
 
+> <small>(ADICIONADO, P.O. 6 DE AGOSTO DE 2011)</small>
+
+Las observaciones realizadas por el Juez de Ejecución derivadas de la verificación a que se refiere este artículo, las hará del conocimiento de la Dirección General para los efectos a que haya lugar.
+
 ###### ARTICULO 145.
 
 El Juez de Ejecución podrá ordenar en cualquier momento a las autoridades administrativas responsables, que se adopten las medidas necesarias para proteger la integridad física de las personas internadas y de sus visitantes, así como para mantener las condiciones de vida digna en el interior de los centros de internamiento.
@@ -1387,9 +1493,11 @@ El Juez de Ejecución podrá ordenar en cualquier momento a las autoridades admi
 
 Cuando las medidas a que se refiere el artícu7lo (sic) anterior impliquen la protección de la integridad física, salud y seguridad de los menores internos, se harán efectivas de inmediato; cuando dichas medidas impliquen correcciones y adecuaciones en los servicios e instalaciones de los centros de internamiento o de reeducación, el Juez de Ejecución señalará un plazo prudente para que mediante su cumplimiento y ejecución, se garanticen condiciones de vida digna en el interior del centro.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 6 DE AGOSTO DE 2011)</small>
+
 ###### ARTICULO 147.
 
-El Juez de Ejecución podrá, previa audiencia con los directores de los centros de internamiento o de reeducación, solicitar a la Dirección General su suspensión, destitución, o inhabilitación cuando:
+Cuando los directores de los centros de internamiento, o de reeducación incurran en algún acto a que se refieren las fracciones siguientes, el Juez de Ejecución lo hará del conocimiento inmediato de la Dirección General para los efectos de las responsabilidades a que haya lugar:
 
 I. No atiendan en sus términos las medidas ordenadas por los jueces;
 
@@ -1509,9 +1617,11 @@ Además de los casos en que expresamente lo autorice esta Ley, el recurso de ape
 
 También serán apelables las resoluciones del Juez de Ejecución que adecuen o den por cumplida una medida.
 
+> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 2011)</small>
+
 ###### ARTICULO 166.
 
-El recurso de apelación se interpondrá por escrito ante el mismo juez correspondiente que dictó la resolución y, salvo disposición en contrario, dentro del plazo de tres días de haberse efectuado, las partes deberán fijar un nuevo lugar o la forma para recibir notificaciones, si es necesario.
+El recurso de apelación se interpondrá por escrito ante el mismo juez correspondiente que dictó la resolución, dentro del término de tres días si se trata de un auto y, de cinco días en el caso de sentencia; además, dentro del plazo de tres días de haberse interpuesto el recurso, las partes deberán fijar un nuevo lugar o la forma para recibir notificaciones.
 
 ###### ARTICULO 167.
 
@@ -1632,3 +1742,9 @@ P.O. 19 DE ABRIL DE 2011.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 6 DE AGOSTO DE 2011.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de San Luis Potosí.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan a este.
