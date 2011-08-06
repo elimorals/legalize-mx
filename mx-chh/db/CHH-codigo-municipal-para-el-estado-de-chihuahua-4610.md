@@ -4,7 +4,7 @@ identifier: "CHH-codigo-municipal-para-el-estado-de-chihuahua-4610"
 country: "mx"
 rank: "codigo"
 publication_date: "1995-11-18"
-last_updated: "2011-05-11"
+last_updated: "2011-08-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4610&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CODIGO MUNICIPAL PARA EL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE MAYO DE 2011.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE AGOSTO DE 2011.
 
 Código publicado en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 18 de noviembre de 1995.
 
@@ -873,9 +873,17 @@ IX.- Una vez que reciba de la Asamblea Municipal la constancia de mayoría y ant
 
 X.- Asistir y acreditar los cursos de capacitación y formación que instrumente e imparta el Ejecutivo del Estado, por conducto de la dependencia del ramo correspondiente, una vez que el Instituto Estatal Electoral les haga entrega de las constancias que los acredite como tales y antes de tomar posesión de su cargo;
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 30 DE NOVIEMBRE DE 2005)</small>
+> <small>(REFORMADA, P.O. 6 DE AGOSTO DE 2011)</small>
 
-XI.- Las demás que les otorguen, otras disposiciones aplicables a la materia.
+XI. Solicitar al Secretario del Ayuntamiento, por acuerdo de la mayoría de los regidores, se convoque a sesiones ordinarias, cuando el Presidente Municipal no lo haga sin causa justificada.
+
+> <small>(ADICIONADA, P.O. 6 DE AGOSTO DE 2011)</small>
+
+XII. Las demás que les otorguen otras disposiciones aplicables a la materia.
+
+> <small>(ADICIONADO, P.O. 6 DE AGOSTO DE 2011)</small>
+
+Si no comparece el Presidente Municipal, presidirá la sesión el regidor que determine la mayoría.
 
 ###### ARTICULO 34.
 
@@ -1335,9 +1343,9 @@ El Secretario de la Presidencia Municipal, lo será del Ayuntamiento.
 
 Son atribuciones del Secretario:
 
-> <small>(REFORMADA, P.O. 22 DE MAYO DE 2002)</small>
+> <small>(REFORMADA, P.O. 6 DE AGOSTO DE 2011)</small>
 
-I.- Concurrir a todas las sesiones del Ayuntamiento, únicamente con voz informativa y levantar las actas al terminar cada una de ellas;
+I. Concurrir a todas las sesiones del Ayuntamiento, únicamente con voz informativa y levantar las actas al terminar cada una de ellas; así mismo, por acuerdo de la mayoría de los regidores, convocar a sesiones ordinarias, cuando el Presidente Municipal no lo haga sin causa justificada.
 
 II.- Expedir y certificar las copias de documentos oficiales del Municipio y suscribir aquéllos que contengan acuerdos y órdenes del Ayuntamiento y del Presidente Municipal;
 
@@ -4157,6 +4165,10 @@ P.O. 11 DE MAYO DE 2011.
 
 Se modifica el Artículo Único Transitorio del Decreto 210/2010 I P.O., aprobado el 20 de diciembre del año 2010, por este H. Congreso del Estado de Chihuahua, para denominarse Artículo Primero, y se adicionan un Artículo Segundo y un Artículo Tercero, para quedar redactados de la siguiente forma:
 
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
 ###### ARTÍCULO PRIMERO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
@@ -4164,6 +4176,8 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 El Ejecutivo del Estado expedirá la reglamentación que se requiera para la adecuada aplicación del presente Decreto, la cual será interpretada por la Secretaría de Hacienda, para efectos administrativos, escuchando previamente la opinión de la dependencia o entidad interesada.
+
+P.O. 6 DE AGOSTO DE 2011.
 
 ###### ARTÍCULO TERCERO.
 
