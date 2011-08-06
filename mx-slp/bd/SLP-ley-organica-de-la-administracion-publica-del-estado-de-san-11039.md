@@ -4,7 +4,7 @@ identifier: "SLP-ley-organica-de-la-administracion-publica-del-estado-de-san-110
 country: "mx"
 rank: "ley_organica"
 publication_date: "1997-10-24"
-last_updated: "2011-07-30"
+last_updated: "2011-08-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11039&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE SAN LUIS POTOSI
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE JULIO DE 2011.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE AGOSTO DE 2011.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de San Luis Potosí, el viernes 24 de octubre de 1997.
 
@@ -719,9 +719,15 @@ XV. Asesorar técnicamente a los Ayuntamientos en el desarrollo de sus actividad
 
 XVI. Coordinar y dirigir el Sistema Estatal de Abasto y promover la organización y modernización del comercio de primera mano en el Estado;
 
-XVII. Fomentar la producción artesanal en el Estado, así como el establecimiento de mecanismos adecuados de comercialización; y
+> <small>(REFORMADA, P.O. 6 DE AGOSTO DE 2011)</small>
 
-XVIII. Las demás que le señalen las leyes y reglamentos vigentes en el Estado.
+XVII. Fomentar la producción artesanal en el Estado, así como el establecimiento de mecanismos adecuados de comercialización;
+
+> <small>(ADICIONADA, P.O. 6 DE AGOSTO DE 2011)</small>
+
+XVIII. Establecer el Registro Estatal de Agentes Inmobiliarios, y
+
+XIX. Las demás que le señalen las leyes y reglamentos vigentes en el Estado.
 
 ###### ARTICULO 38.
 
@@ -1624,3 +1630,13 @@ P.O. 30 DE JULIO DE 2011.
 PRIMERO. Este Decreto entrará en vigencia el día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 6 DE AGOSTO DE 2011.
+
+PRIMERO. Esta Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. El titular del Ejecutivo del Estado emitirá el Reglamento de la presente Ley, dentro de los noventa días naturales siguientes a partir de la entrada en vigor de la misma.
+
+TERCERO. Los agentes inmobiliarios que a la entrada en vigor de la presente Ley llevan a cabo operaciones inmobiliarias, deberán, comparecer dentro de un plazo de ciento veinte días contados a partir de su vigencia, ante la Secretaría para presentar solicitud de inscripción en el Registro.
+
+A partir del vencimiento del plazo señalado en el párrafo anterior, la Secretaría podrá sancionar, en los términos de lo dispuesto por este Decreto, a los agentes inmobiliarios inscritos en el Registro Estatal, que no hubiesen acudido ante esa dependencia a entregar la documentación e información adicional para los efectos señalados.
