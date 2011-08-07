@@ -4,7 +4,7 @@ identifier: "COA-ley-de-deuda-publica-para-el-estado-de-coahuila-de-zaragoza-125
 country: "mx"
 rank: "ley"
 publication_date: "1996-12-06"
-last_updated: "2010-12-29"
+last_updated: "2011-08-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12500&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "COA"
 
 LEY DE DEUDA PUBLICA PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE DICIEMBRE DE 2010.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE DEUDA PUBLICA PARA EL ESTADO DE COAHUILA DE ZARAGOZA, PUBLICADA EN EL EXTRAORDINARIO DEL P.O. DE 7 DE AGOSTO DE 2011, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el viernes 6 de diciembre de 1996.
 
@@ -840,3 +842,41 @@ Se derogan las disposiciones que contravengan lo dispuesto en el presente Decret
 ###### ARTÍCULO TERCERO.
 
 Publíquese en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 7 DE AGOSTO DE 2011.
+
+###### ARTÍCULO PRIMERO.
+
+La presente Ley entrará en vigor el día siguiente al de su Publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga la Ley de Deuda Pública para el Estado de Coahuila de Zaragoza, publicada en el Periódico Oficial del Estado, el día 6 de diciembre de 1996.
+
+###### ARTÍCULO TERCERO.
+
+Se deroga el Libro Cuarto del Código Financiero para los Municipios del Estado de Coahuila de Zaragoza, así como todas aquellas disposiciones contenidas en dicho ordenamiento que se opongan o de cualquier forma contravengan lo previsto en la presente Ley.
+
+###### ARTÍCULO CUARTO.
+
+Se derogan todas aquellas disposiciones legales, reglamentarias y administrativas que se opongan o de cualquier forma contravengan lo previsto en esta Ley.
+
+###### ARTÍCULO QUINTO.
+
+Las deudas, empréstitos, financiamientos, créditos y obligaciones financieras con horizontes de corto plazo contraídas por las entidades que estén vigentes a la fecha de la entrada en vigor de la presente Ley, se regirán por las disposiciones de ésta.
+
+Todos los empréstitos, financiamientos, créditos, garantías, avales y en general cualquier acto jurídico, principal o accesorio, en materia de deuda a largo plazo que hayan sido celebrados con anterioridad a la fecha de entrada en vigor de la presente, se regirán por las Leyes que estaban vigentes en su fecha de celebración.
+
+###### ARTÍCULO SEXTO.
+
+La modificación de los mecanismos legales que bajo cualquier modalidad o forma, se hubiesen celebrado por las entidades con anterioridad a la fecha de entrada en vigor de esta ley a efecto de garantizar o realizar el pago de financiamientos, no requerirá de la autorización del Congreso.
+
+La modificación de los mandatos otorgados a la Tesorería de la Federación, bajo la forma de instrucciones irrevocables o en cualquier otra forma, celebrados, otorgados o notificados con anterioridad a la fecha de entrada en vigor de esta Ley se regirá por la legislación y los decretos correspondientes a su autorización.
+
+###### ARTÍCULO SÉPTIMO.
+
+La celebración de los créditos, empréstitos, mecanismos de pago y demás actos jurídicos regulados por esta ley y la de los actos jurídicos necesarios para la implementación y mantenimiento de los mismos, no será objeto de licitación pública en virtud de no ser idónea para asegurar las condiciones a que alude el artículo 171 tercer párrafo de la Constitución Política del Estado de Coahuila de Zaragoza, ni estarán sujetos al ámbito de aplicación de la Ley de Adquisiciones, Arrendamientos y Contratación de Servicios para el Estado de Coahuila de Zaragoza en vigor.
+
+###### ARTÍCULO OCTAVO.
+
+Las entidades a que se refiere el Artículo 2 de esta Ley, deberán inscribir todos sus empréstitos o créditos vigentes en el Registro Único de Obligaciones y Empréstitos del Estado de Coahuila de Zaragoza, dentro de un plazo de noventa días a partir de la fecha de publicación de esta Ley.
