@@ -4,7 +4,7 @@ identifier: "COA-codigo-financiero-para-los-municipios-del-estado-de-15544"
 country: "mx"
 rank: "codigo"
 publication_date: "1999-07-23"
-last_updated: "2010-01-01"
+last_updated: "2011-08-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15544&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 CODIGO FINANCIERO PARA LOS MUNICIPIOS DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE ENERO DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE AGOSTO DE 2011.
 
 Código publicado en el Periódico Oficial del Estado de Coahuila de Zaragoza, el viernes 23 de julio de 1999.
 
@@ -2289,279 +2289,141 @@ III. Cuando se declare la nulidad del título en cuya virtud se haya hecho la in
 
 En la cancelación de las inscripciones se asentarán los datos necesarios, a fin de que se conozcan con toda exactitud cual es la inscripción que se cancela y la causa por la que se hace la cancelación.
 
+> <small>(DEROGADO CON LOS TITULOS, CAPITULOS Y ARTICULOS QUE LO INTEGRAN, POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE DEUDA PUBLICA PARA EL ESTADO DE COAHUILA DE ZARAGOZA, P.O. 7 DE AGOSTO DE 2011)</small>
+
 # LIBRO CUARTO. DE LA DEUDA PÚBLICA MUNICIPAL
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE DEUDA PUBLICA PARA EL ESTADO DE COAHUILA DE ZARAGOZA, P.O. 7 DE AGOSTO DE 2011)</small>
 
 ## TÍTULO PRIMERO. DISPOSICIONES GENERALES
 
 ###### ARTÍCULO 288.
 
-El presente Libro tiene por objeto regular la deuda pública municipal, así como fijar las bases para la celebración, registro y control de las operaciones de financiamiento que realicen los municipios y sus organismos.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE DEUDA PUBLICA PARA EL ESTADO DE COAHUILA DE ZARAGOZA, P.O. 7 DE AGOSTO DE 2011)
 
 ###### ARTÍCULO 289.
 
-La deuda pública está constituida por los créditos, empréstitos y obligaciones de pasivos directos y contingentes, a cargo de los municipios, sus organismos descentralizados, las empresas de participación municipal mayoritaria, de los fideicomisos y demás entidades municipales.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE DEUDA PUBLICA PARA EL ESTADO DE COAHUILA DE ZARAGOZA, P.O. 7 DE AGOSTO DE 2011)
 
 ###### ARTÍCULO 290.
 
-Para los efectos del presente libro se entiende por:
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE DEUDA PUBLICA PARA EL ESTADO DE COAHUILA DE ZARAGOZA, P.O. 7 DE AGOSTO DE 2011)
 
-I. Deuda Pública: las operaciones de financiamiento que realicen los municipios como responsables directos como deudores solidarios de los organismos a que se refiere el artículo anterior.
-
-II. Programa financiero: el documento que contiene la programación del endeudamiento público anual necesario para financiar total o parcialmente el programa de inversiones detallando los elementos en que se funda.
-
-III. Créditos directos: las operaciones de financiamiento que realicen los municipios y sus organismos con el carácter de acreditados.
-
-IV. Créditos contingentes: los derivados de operaciones de financiamiento que realicen los municipios como aval o responsable solidario, sustituto o subsidiario de alguno de sus organismos.
-
-V. Servicio de la deuda: los importes destinados a la amortización del capital y el pago de intereses, comisiones y otros cargos que se hayan convenido en las operaciones de financiamiento.
-
-VI. Inversión pública productiva: la inversión que se destine a la ejecución de obras públicas, adquisición o manufactura de bienes y prestación de servicios públicos, siempre que de manera directa o indirecta produzcan un incremento en los ingresos del municipio u organismo que la realiza.
-
-VII. Operaciones de financiamiento: la contratación de créditos, empréstitos y obligaciones pagaderos en moneda nacional que realicen los municipios o sus organismos, derivadas de la suscripción o emisión de títulos de crédito: la ejecución de obras, adquisición, manufactura, uso o goce temporal de bienes o prestación de servicios, cuyo pago se pacte a plazos: los pasivos contingentes y todas las operaciones que comprendan obligaciones a plazos, siempre que se contraten en los términos de este libro.
+> <small>(DEROGADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE DEUDA PUBLICA PARA EL ESTADO DE COAHUILA DE ZARAGOZA, P.O. 7 DE AGOSTO DE 2011)</small>
 
 ## TÍTULO SEGUNDO. DE LAS AUTORIDADES EN MATERIA DE DEUDA PÚBLICA MUNICIPAL
 
 ###### ARTÍCULO 291.
 
-Son autoridades competentes en materia de deuda pública:
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE DEUDA PUBLICA PARA EL ESTADO DE COAHUILA DE ZARAGOZA, P.O. 7 DE AGOSTO DE 2011)
 
-I. El Congreso del Estado.
-
-II. Los Ayuntamientos.
-
-III. La Comisión técnica de financiamiento.
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE DEUDA PUBLICA PARA EL ESTADO DE COAHUILA DE ZARAGOZA, P.O. 7 DE AGOSTO DE 2011)</small>
 
 ### CAPÍTULO I. FACULTADES Y ATRIBUCIONES
 
 ###### ARTÍCULO 292.
 
-Corresponde al Congreso del Estado:
-
-I. Examinar y aprobar, en su caso, los programas financieros de los municipios, que contendrán los montos de endeudamiento neto anual solicitado y la afectación de garantías que corresponda, debiendo incluir en forma consolidada el programa de sus organismos, en su caso.
-
-II. Autorizar la afectación en garantía de las participaciones que en ingresos federales les corresponden.
-
-III. Aprobar la afectación en garantía de bienes de dominio municipal y el otorgamiento de avales.
-
-IV. Autorizar la emisión de bonos y valores, certificados de participación inmobiliaria y la colocación en el mercado de otras obligaciones documentadas.
-
-V. Aprobar los montos de endeudamiento neto adicionales a los autorizados para el ejercicio fiscal, así como el de proyectos específicos multianuales.
-
-VI. Autorizar la reestructuración de créditos que impliquen el ejercicio de montos de endeudamiento neto adicionales a los autorizados para el ejercicio.
-
-VII. Analizar y revisar los informes trimestrales y anuales de deuda que le presenten.
-
-VIII. Solicitar la información que requiera para el cumplimiento de las atribuciones que esta ley le confiere.
-
-IX. Las demás que establezcan la Constitución Política del Estado y otros ordenamientos aplicables.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE DEUDA PUBLICA PARA EL ESTADO DE COAHUILA DE ZARAGOZA, P.O. 7 DE AGOSTO DE 2011)
 
 ###### ARTÍCULO 293.
 
-Corresponde a los Ayuntamientos:
-
-I. Elaborar anualmente el programa financiero con base en el cual se manejará la deuda pública del Municipio.
-
-II. Someter al Congreso del Estado, las solicitudes de montos de endeudamiento neto adicionales a los autorizados para el ejercicio y de los proyectos específicos multianuales.
-
-III. Celebrar las operaciones de financiamiento que contrate como deudor directo o como aval o responsable solidario de las que realicen sus entidades, suscribiendo los documentos y títulos de crédito requeridos para tal efecto.
-
-IV. Emitir bonos y demás obligaciones de deuda pública, en los términos de los procedimientos de emisión, colocación, amortización y rescate de títulos de deuda que se establezcan.
-
-V. Celebrar contratos y convenios, así como documentos y títulos de crédito necesarios para la reestructuración de los créditos contraídos por el Municipio, como deudor directo, aval o responsable solidario. En el caso de que la reestructuración correspondiente implique el ejercicio de montos adicionales de endeudamiento neto o de las garantías respectivas, invariablemente se requerirá la autorización del Congreso del Estado.
-
-VI. Autorizar la solicitud de la contratación de créditos que formulen los organismos descentralizados del Municipio, empresas de participación municipal mayoritaria y fideicomisos públicos que hubiesen sido incluidos dentro del programa financiero anual, ajustándose a las disposiciones de este libro y de las leyes que los regulen. El monto de endeudamiento que autorice adicionado con el endeudamiento del propio municipio, no podrá exceder del monto de endeudamiento neto anual aprobado en el programa financiero por el Congreso del Estado para el mismo ejercicio.
-
-VII. Otorgar las garantías de pago de los empréstitos y obligaciones que se contraigan por el Municipio.
-
-VIII. Solicitar al Gobierno del Estado que le otorgue su aval para garantizar créditos cuando así lo requiera.
-
-IX. Afectar en fideicomisos las participaciones federales, así como otros ingresos públicos a que tenga derecho, cuando se otorguen como fuente alterna de pago de obligaciones derivadas de la contratación o suscripción de deuda pública.
-
-X. Acordar los términos y condiciones de la compensación de adeudos contraídos con la Federación, de conformidad con lo dispuesto por el artículo 9 de la Ley de Coordinación Fiscal.
-
-XI. Vigilar que los recursos obtenidos por los organismos descentralizados del Municipio, empresas de participación municipal mayoritaria, fideicomisos públicos municipales y demás entidades a las que les hubiera otorgado aval, sean destinados precisamente a los fines para los cuales fueron otorgados y que realicen oportunamente los pagos por servicio de la deuda.
-
-XII. Llevar el control interno de la deuda pública municipal y efectuar las inscripciones que le correspondan al Municipio en el Registro Único de Deuda Pública.
-
-XIII. Todas aquellas facultades que sean necesarias y conducentes para formalizar, administrar y controlar la deuda pública del Municipio y sus entidades, en el marco de esta Ley.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE DEUDA PUBLICA PARA EL ESTADO DE COAHUILA DE ZARAGOZA, P.O. 7 DE AGOSTO DE 2011)
 
 ###### ARTÍCULO 294.
 
-La Comisión Técnica de Financiamiento tendrá las siguientes funciones:
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE DEUDA PUBLICA PARA EL ESTADO DE COAHUILA DE ZARAGOZA, P.O. 7 DE AGOSTO DE 2011)
 
-I. Analizar y emitir opinión técnica desde el punto de vista financiero, respecto de:
-
-a). Las necesidades de financiamiento de los municipios al integrar los programas financieros anuales.
-
-b). Las solicitudes para celebrar operaciones de financiamiento de los municipios, considerando su capacidad de pago y la viabilidad financiera del proyecto de inversión en cuestión.
-
-II. Brindar asesoría en materia financiera a los municipios que lo soliciten.
-
-III. Las que la Ley de Deuda Pública para el Estado de Coahuila y demás disposiciones le confieran.
+> <small>(DEROGADO CON EL ARTICULO QUE LO INTEGRA, POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE DEUDA PUBLICA PARA EL ESTADO DE COAHUILA DE ZARAGOZA, P.O. 7 DE AGOSTO DE 2011)</small>
 
 ### CAPÍTULO II. OBLIGACIONES
 
 ###### ARTÍCULO 295.
 
-Son obligaciones de los ayuntamientos:
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE DEUDA PUBLICA PARA EL ESTADO DE COAHUILA DE ZARAGOZA, P.O. 7 DE AGOSTO DE 2011)
 
-I. Someter a la autorización del Congreso del Estado el programa financiero anual del Municipio, previa aprobación del Ayuntamiento.
-
-II. Presentar a la Comisión Técnica de Financiamiento para su opinión, las solicitudes de contratación de financiamiento de sus entidades públicas municipales.
-
-III. Informar al Congreso del Estado de la situación que guarda la deuda pública, que incluirá la de sus entidades, con la periodicidad siguiente:
-
-A. Anualmente, al presentar la cuenta pública municipal.
-
-El informe que al efecto se presente deberá contener:
-
-1. El origen y condiciones de la operación de la deuda, precisando los montos de financiamiento contratados, las entidades contratantes, los plazos, las tasas de interés, los períodos de gracia y las garantías pactadas.
-
-2. Las obras públicas, adquisición, manufactura, uso o goce temporal de bienes, o prestación de servicios a que se destinó el financiamiento.
-
-3. El saldo de la deuda al final del ejercicio, que comprenderá la forma y plazos de amortización del capital, las tasas de interés pactadas y demás conceptos que correspondan por acreditante y por destino.
-
-B. Trimestralmente en forma conjunta al informe de cuenta pública del mes que corresponda. Este informe comprenderá los montos y saldos del financiamiento realizado con instituciones financieras, y
-
-C. Cuando el Congreso del Estado se le (sic) solicite.
-
-IV. Solicitar al Congreso del Estado la autorización para ejercer montos de endeudamiento neto adicionales a los autorizados para el ejercicio, de proyectos específicos no contemplados en el programa financiero anual.
-
-V. Las demás previstas por la Constitución Política del Estado y leyes aplicables.
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE DEUDA PUBLICA PARA EL ESTADO DE COAHUILA DE ZARAGOZA, P.O. 7 DE AGOSTO DE 2011)</small>
 
 ## TÍTULO TERCERO. DE LA PROGRAMACIÓN Y CONTRATACIÓN DE EMPRÉSTITOS
 
 ###### ARTÍCULO 296.
 
-El programa financiero de los municipios deberá especificar:
-
-I. Su vinculación con los planes, programas y convenios de desarrollo y concertación.
-
-II. El monto de endeudamiento neto anual que requiera.
-
-III. El destino del crédito.
-
-IV. La fuente de pago.
-
-V. El monto de las partidas que se destinará en el año para el pago del servicio de la deuda.
-
-VI. Las garantías que se ofrecerán.
-
-VII. La información relativa al Estado que guarda su deuda pública.
-
-Los municipios en el ámbito de sus competencias analizarán y autorizarán los programas financieros de sus entidades, previa opinión de la Comisión Técnica de Financiamiento.
-
-El programa financiero de cada entidad, deberá ajustarse a la capacidad de pago de la misma.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE DEUDA PUBLICA PARA EL ESTADO DE COAHUILA DE ZARAGOZA, P.O. 7 DE AGOSTO DE 2011)
 
 ###### ARTÍCULO 297.
 
-Cada municipio estimará el monto de endeudamiento neto anual, que forma parte de su programa financiero, de acuerdo con las características de los créditos y de los proyectos de inversión que el mismo propone llevar a cabo, considerando su capacidad de pago en el ejercicio y durante el período relevante de la inversión.
-
-La capacidad de pago de cada municipio, deberá contemplar la totalidad de los compromisos financieros al momento de efectuar el análisis, una estimación conservadora de tasas de interés, un período razonable de amortización de los créditos dadas las características de los proyectos que se contemplan, y la proyección conservadora de los ingresos y egresos totales del municipio, con y sin proyectos, en el período antes citado.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE DEUDA PUBLICA PARA EL ESTADO DE COAHUILA DE ZARAGOZA, P.O. 7 DE AGOSTO DE 2011)
 
 ###### ARTÍCULO 298.
 
-Los montos de endeudamiento neto anual aprobados a los municipios y a sus respectivas entidades, serán la base para la contratación de las operaciones de financiamiento de cada uno de ellos. El endeudamiento neto invariablemente estará respaldado con la calendarización y demás previsiones acordadas y aprobadas.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE DEUDA PUBLICA PARA EL ESTADO DE COAHUILA DE ZARAGOZA, P.O. 7 DE AGOSTO DE 2011)
 
 ###### ARTÍCULO 299.
 
-Los municipios deberán presentar a la Comisión Técnica de Financiamiento para su opinión, cumpliendo con los requisitos exigidos por la Ley de Deuda Pública para el Estado de Coahuila.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE DEUDA PUBLICA PARA EL ESTADO DE COAHUILA DE ZARAGOZA, P.O. 7 DE AGOSTO DE 2011)
 
 ###### ARTÍCULO 300.
 
-Los municipios sólo podrán destinar los empréstitos y créditos que contraigan a inversiones públicas productivas, salvo en casos de catástrofe, previa declaración que al efecto realice el Congreso del Estado, en los términos del artículo 68 de la Constitución Política del Estado.
-
-Asimismo, se podrán celebrar operaciones de financiamiento destinadas a resolver problemas de flujo de corto plazo que puedan pagarse en el mismo ejercicio fiscal en el que se contraten. En este caso, el monto a contratar no podrá exceder del superávit previsto para el resto del ejercicio, descontando de éste el pago de intereses que dicha operación genere.
-
-Las operaciones de financiamiento destinadas a resolver problemas de flujo de corto plazo, no formarán parte del monto de endeudamiento neto anual autorizado para el ejercicio.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE DEUDA PUBLICA PARA EL ESTADO DE COAHUILA DE ZARAGOZA, P.O. 7 DE AGOSTO DE 2011)
 
 ###### ARTÍCULO 301.
 
-Los municipios no otorgarán empréstitos de ninguna clase ni avales al sector privado ni a particulares.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE DEUDA PUBLICA PARA EL ESTADO DE COAHUILA DE ZARAGOZA, P.O. 7 DE AGOSTO DE 2011)
 
 ###### ARTÍCULO 302.
 
-Las operaciones de financiamiento contratadas en contravención a las disposiciones previstas en el presente Libro y en la Ley de Deuda Pública para el Estado de Coahuila, serán nulas de pleno derecho, sin perjuicio de las responsabilidades en que incurran quienes las lleven a cabo.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE DEUDA PUBLICA PARA EL ESTADO DE COAHUILA DE ZARAGOZA, P.O. 7 DE AGOSTO DE 2011)
 
 ###### ARTÍCULO 303.
 
-Los Municipios están facultados para emitir bonos y valores, certificados de participación inmobiliaria y colocación en el mercado de otras obligaciones documentadas, así como para suscribir y administrar operaciones de financiamiento que constituyan deuda pública, conforme a las disposiciones de este libro y demás ordenamientos aplicables, siempre y cuando estas emisiones mantengan un costo financiero menor al que ofrezca cualquier otro instrumento de mercado.
-
-Para este efecto, podrán acudir a Instituciones de Crédito o Auxiliares de Crédito o cualquiera otra Institución financiera que funcione conforme a la legislación de la materia.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE DEUDA PUBLICA PARA EL ESTADO DE COAHUILA DE ZARAGOZA, P.O. 7 DE AGOSTO DE 2011)
 
 ###### ARTÍCULO 304.
 
-En cumplimiento de lo previsto por la fracción VIII del artículo 117 de la Constitución Política de los Estados Unidos Mexicanos, los Municipios sólo podrán emitir bonos y otros títulos de deuda, pagaderos en moneda nacional y dentro del territorio de la república, previa autorización del Congreso del Estado. Tanto en el acta de emisión, como en los títulos respectivos, deberán citarse los datos fundamentales de la autorización, así como la prohibición de su venta a extranjeros, sean estos gobiernos, entidades gubernamentales, sociedades, particulares u organismos internacionales. Los documentos carecerán de validez si no se consignan dichos datos.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE DEUDA PUBLICA PARA EL ESTADO DE COAHUILA DE ZARAGOZA, P.O. 7 DE AGOSTO DE 2011)
 
 ###### ARTÍCULO 305.
 
-Los Municipios podrán otorgar como garantía del cumplimiento de las obligaciones de pago que asuman, las siguientes:
-
-I. Las participaciones que les correspondan en ingresos federales.
-
-II. Los bienes del dominio de los Municipios, así como los rendimientos que éstos generan, de conformidad con las normas legales que rijan la materia.
-
-III. El aval o aceptación de deudor solidario, sustituto o subsidiario.
-
-IV. Cualquier otro tipo de ingresos a los que se tenga derecho.
-
-Las formas de garantizar las obligaciones de pago de los Municipios podrán combinarse, así como sustituirse entre sí.
-
-Las garantías se disminuirán en la misma proporción en que se reduzcan las obligaciones contraídas en las operaciones de financiamiento.
-
-En todo caso, deberá verificarse, a detalle, la existencia, suficiencia, legitimidad, valor actualizado, vigencia y demás características de las garantías.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE DEUDA PUBLICA PARA EL ESTADO DE COAHUILA DE ZARAGOZA, P.O. 7 DE AGOSTO DE 2011)
 
 ###### ARTÍCULO 306.
 
-La Comisión Técnica de Financiamiento opinará sobre la calidad y suficiencia de las garantías ofrecidas para la celebración de operaciones de financiamiento; la opinión se emitirá verificando que se cumplan los requisitos que establezcan las reglas y disposiciones administrativas en materia de otorgamiento de garantías con especial detalle en lo que respecta a la suficiencia de la garantía, su vigencia y actualización.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE DEUDA PUBLICA PARA EL ESTADO DE COAHUILA DE ZARAGOZA, P.O. 7 DE AGOSTO DE 2011)
 
 ###### ARTÍCULO 307.
 
-Procederá la cancelación de las garantías otorgadas por los Municipios, cuando:
-
-I. Se hayan cumplido, en su totalidad, las obligaciones de pago a su cargo.
-
-II. Se sustituyan las garantías otorgadas originalmente.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE DEUDA PUBLICA PARA EL ESTADO DE COAHUILA DE ZARAGOZA, P.O. 7 DE AGOSTO DE 2011)
 
 ###### ARTÍCULO 308.
 
-Las garantías subsistirán hasta que proceda su cancelación en los términos establecidos en el presente libro.
-
-La cancelación de las garantías otorgadas deberá inscribirse en el Registro Unico de Deuda Pública.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE DEUDA PUBLICA PARA EL ESTADO DE COAHUILA DE ZARAGOZA, P.O. 7 DE AGOSTO DE 2011)
 
 ###### ARTÍCULO 309.
 
-La deuda pública contratada para la ejecución de obras, adquisición o manufactura de bienes o prestación de servicios, cuyo uso o explotación, con posterioridad, se enajene o se concesione, deberá subrogarse al adquirente o al concesionario a partir de la fecha de enajenación o del otorgamiento de la concesión, en los términos y condiciones que la misma establezca.
-
-El Congreso del Estado podrá eximir total o parcialmente del cumplimiento de esta disposición, siempre que, a su juicio, existan razones que así lo justifiquen.
-
-La solicitud que, para este efecto, se formule al Congreso del Estado deberá acompañarse de la opinión correspondiente de la Comisión Técnica de Financiamiento.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE DEUDA PUBLICA PARA EL ESTADO DE COAHUILA DE ZARAGOZA, P.O. 7 DE AGOSTO DE 2011)
 
 ###### ARTÍCULO 310.
 
-Al enajenar u otorgar una concesión se deberá proceder a la sustitución de las garantías por las que ponga a disposición el adquirente o concesionario, salvo en aquellos casos en que las garantías originales de los créditos sean los propios bienes, su rendimiento, o los ingresos derivados de la prestación de los servicios objeto de la enajenación o concesión.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE DEUDA PUBLICA PARA EL ESTADO DE COAHUILA DE ZARAGOZA, P.O. 7 DE AGOSTO DE 2011)
 
-En ningún caso podrán permanecer o darse como garantía de créditos que se subroguen o adquieran con motivo de una enajenación o concesión a particulares, las participaciones en ingresos federales o estatales y otros ingresos que no provengan de la prestación de los servicios objeto de la enajenación o concesión.
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE DEUDA PUBLICA PARA EL ESTADO DE COAHUILA DE ZARAGOZA, P.O. 7 DE AGOSTO DE 2011)</small>
 
 ## TÍTULO CUARTO. DEL REGISTRO DE LA DEUDA PÚBLICA MUNICIPAL
 
 ###### ARTÍCULO 311.
 
-Los Municipios estarán obligados a llevar un control interno de sus operaciones de financiamiento e inscribirlas en el Registro Único de Deuda Pública, que será la instancia única de registro de la deuda pública en el Estado. La inscripción deberá realizarse en un plazo que no exceda a los treinta días posteriores a su contratación; en ningún caso se iniciará el desembolso del crédito sin haber efectuado el registro correspondiente.
-
-La Secretaría de Finanzas del Gobierno del Estado será la dependencia del Ejecutivo Estatal que tendrá a su cargo dicho Registro.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE DEUDA PUBLICA PARA EL ESTADO DE COAHUILA DE ZARAGOZA, P.O. 7 DE AGOSTO DE 2011)
 
 ###### ARTÍCULO 312.
 
-En el Registro Unico de Deuda Pública se inscribirán todas las operaciones de financiamiento que realicen los Municipios, cumpliéndose con lo dispuesto en el Capítulo VII de la Ley de Deuda Pública para el Estado de Coahuila.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE DEUDA PUBLICA PARA EL ESTADO DE COAHUILA DE ZARAGOZA, P.O. 7 DE AGOSTO DE 2011)
 
 ###### ARTÍCULO 313.
 
-El número progresivo y la fecha de inscripción de la operación de financiamiento darán preferencia a los acreditantes para los efectos de exigibilidad en el pago de obligaciones, sin perjuicio de lo que dispongan otras leyes aplicables a la materia.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE DEUDA PUBLICA PARA EL ESTADO DE COAHUILA DE ZARAGOZA, P.O. 7 DE AGOSTO DE 2011)
 
 ###### ARTÍCULO 314.
 
-En todo lo no regulado por este Libro, se aplicará lo dispuesto por la Ley de Deuda Pública del Estado.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE DEUDA PUBLICA PARA EL ESTADO DE COAHUILA DE ZARAGOZA, P.O. 7 DE AGOSTO DE 2011)
 
 # LIBRO QUINTO. DE LA CONTABILIDAD Y CUENTA PÚBLICA MUNICIPAL
 
@@ -4346,3 +4208,41 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente al de su publi
 SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias que se opongan al presente Decreto.
 
 TERCERO.- Publíquese en el Periódico Oficial del Gobierno del Estado.
+
+P.O. DE 7 DE AGOSTO DE 2011.
+
+###### ARTÍCULO PRIMERO.
+
+La presente Ley entrará en vigor el día siguiente al de su Publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga la Ley de Deuda Pública para el Estado de Coahuila de Zaragoza, publicada en el Periódico Oficial del Estado, el día 6 de diciembre de 1996.
+
+###### ARTÍCULO TERCERO.
+
+Se deroga el Libro Cuarto del Código Financiero para los Municipios del Estado de Coahuila de Zaragoza, así como todas aquellas disposiciones contenidas en dicho ordenamiento que se opongan o de cualquier forma contravengan lo previsto en la presente Ley.
+
+###### ARTÍCULO CUARTO.
+
+Se derogan todas aquellas disposiciones legales, reglamentarias y administrativas que se opongan o de cualquier forma contravengan lo previsto en esta Ley.
+
+###### ARTÍCULO QUINTO.
+
+Las deudas, empréstitos, financiamientos, créditos y obligaciones financieras con horizontes de corto plazo contraídas por las entidades que estén vigentes a la fecha de la entrada en vigor de la presente Ley, se regirán por las disposiciones de ésta.
+
+Todos los empréstitos, financiamientos, créditos, garantías, avales y en general cualquier acto jurídico, principal o accesorio, en materia de deuda a largo plazo que hayan sido celebrados con anterioridad a la fecha de entrada en vigor de la presente, se regirán por las Leyes que estaban vigentes en su fecha de celebración.
+
+###### ARTÍCULO SEXTO.
+
+La modificación de los mecanismos legales que bajo cualquier modalidad o forma, se hubiesen celebrado por las entidades con anterioridad a la fecha de entrada en vigor de esta ley a efecto de garantizar o realizar el pago de financiamientos, no requerirá de la autorización del Congreso.
+
+La modificación de los mandatos otorgados a la Tesorería de la Federación, bajo la forma de instrucciones irrevocables o en cualquier otra forma, celebrados, otorgados o notificados con anterioridad a la fecha de entrada en vigor de esta Ley se regirá por la legislación y los decretos correspondientes a su autorización.
+
+###### ARTÍCULO SÉPTIMO.
+
+La celebración de los créditos, empréstitos, mecanismos de pago y demás actos jurídicos regulados por esta ley y la de los actos jurídicos necesarios para la implementación y mantenimiento de los mismos, no será objeto de licitación pública en virtud de no ser idónea para asegurar las condiciones a que alude el artículo 171 tercer párrafo de la Constitución Política del Estado de Coahuila de Zaragoza, ni estarán sujetos al ámbito de aplicación de la Ley de Adquisiciones, Arrendamientos y Contratación de Servicios para el Estado de Coahuila de Zaragoza en vigor.
+
+###### ARTÍCULO OCTAVO.
+
+Las entidades a que se refiere el Artículo 2 de esta Ley, deberán inscribir todos sus empréstitos o créditos vigentes en el Registro Único de Obligaciones y Empréstitos del Estado de Coahuila de Zaragoza, dentro de un plazo de noventa días a partir de la fecha de publicación de esta Ley.
