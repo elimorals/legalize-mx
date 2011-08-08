@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-hacienda-del-municipio-de-asientos-aguascalientes-29025"
 country: "mx"
 rank: "ley"
 publication_date: "1985-12-31"
-last_updated: "2010-08-23"
+last_updated: "2011-08-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=29025&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY DE HACIENDA DEL MUNICIPIO DE ASIENTOS, AGS.
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE AGOSTO DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE AGOSTO DE 2011.
 
 Ley publicada en la Sección Segunda del Alcance del Periódico Oficial del Estado de Aguascalientes, el martes 31 de diciembre de 1985.
 
@@ -701,137 +701,35 @@ Este impuesto se causará y pagará de conformidad con lo que al efecto señale 
 
 ### CAPITULO PRIMERO (SIC). Por Servicios de Alumbrado Público
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2011)</small>
 
-ARTICULO 67 A.- Se considera servicio de alumbrado público a la actividad técnica que realiza el Ayuntamiento consistente en iluminar las avenidas, calles, plazas, parques, áreas públicas comerciales e industriales, edificios públicos y demás lugares de uso común, de manera permanente, regular y continua, encaminado a la satisfacción de la necesidad colectiva de iluminación, la cual se constituye de interés general y se presta sin aspiración alguna de lucro.
+ARTICULO 67 A.- Son derechos por servicios de alumbrado público las contribuciones establecidas en Ley por el uso o aprovechamiento de los bienes del dominio público del Municipio, así como por recibir servicios que presta el Municipio en sus funciones de derecho público.
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2011)</small>
 
-ARTICULO 67 B.- Las personas físicas o morales, habitantes o residentes, propietarias o poseedoras de predios, construidos o no, ubicados en las zonas urbanas, rurales o poblaciones del Municipio, están obligadas a contribuir para el sostenimiento del servicio de alumbrado público, a través del pago de los derechos correspondientes en la forma y términos que se establecen en este Capítulo.
+ARTICULO 67 B.- Son sujetos del pago de derechos, las personas físicas y morales tanto de derecho privado como público, que reciban servicios que presta el Municipio en sus funciones de derecho público, o por el uso o aprovechamiento de los bienes del dominio público del Municipio.
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2006)</small>
+ARTICULO 67 C.- (DEROGADO, P.O. 8 DE AGOSTO DE 2011)
 
-ARTICULO 67 C.- La Tesorería Municipal determinará el crédito fiscal que corresponda a cada contribuyente, recaudará la contribución y aplicará, en su caso, la facultad económico-coactiva, para hacerla efectiva.
+ARTICULO 67 D.- (DEROGADO, P.O. 8 DE AGOSTO DE 2011)
 
-El Ayuntamiento podrá celebrar convenios con instituciones públicas o privadas para el cobro de los Derechos por el Servicio de Alumbrado Público.
+ARTICULO 67 E.- (DEROGADO, P.O. 8 DE AGOSTO DE 2011)
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2006)</small>
+ARTICULO 67 F.- (DEROGADO, P.O. 8 DE AGOSTO DE 2011)
 
-ARTICULO 67 D.- El pago de los derechos por el servicio se causará en todas las colonias, comunidades, centros de población, rancherías, parques industriales y demás unidades poblacionales, comerciales o industriales, y el cálculo de su distribución se hará tomando como base gravable, el costo total anual que se genera para el Ayuntamiento ocasionado con motivo de la prestación del servicio de alumbrado público en todo el Municipio.
+ARTICULO 67 G.- (DEROGADO, P.O. 8 DE AGOSTO DE 2011)
 
-La Ley de Ingresos señalará en forma anual el costo total anual del servicio de alumbrado público correspondiente al año de que se trate, así como la tarifa o cuota a pagar por cada usuario beneficiado en razón del sistema de formulas establecidas en el presente Capítulo.
+ARTICULO 67 H.- (DEROGADO, P.O. 8 DE AGOSTO DE 2011)
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2006)</small>
+ARTICULO 67 I.- (DEROGADO, P.O. 8 DE AGOSTO DE 2011)
 
-ARTICULO 67 E.- El costo total del servicio de alumbrado público, se distribuirá entre los propietarios y poseedores de predios urbanos en la forma que se señala en este Capítulo. En caso de arrendamiento, el arrendador podrá trasladar al arrendatario el costo de esta contribución.
+ARTICULO 67 J.- (DEROGADO, P.O. 8 DE AGOSTO DE 2011)
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2006)</small>
+ARTICULO 67 K.- (DEROGADO, P.O. 8 DE AGOSTO DE 2011)
 
-ARTICULO 67 F.- El costo total del servicio de alumbrado público, se compondrá por aquellas cantidades que representen o sean equivalentes a los siguientes conceptos:
+ARTICULO 67 L.- (DEROGADO, P.O. 8 DE AGOSTO DE 2011)
 
-A) Costo por servicios personales empleados en el año en la instalación, operación y mantenimiento del servicio de alumbrado público, entendido como tal los sueldos, salarios, compensaciones, servicio y contribuciones que se deriven de la administración de la nómina del servicio público.
-
-B) Costo de los materiales, suministros y gastos de mantenimiento que sean empleados durante el año en el servicio de alumbrado público, el cual se compondrá del erogado en los conceptos por compras y adquisiciones, reposición de lámparas, el mantenimiento de líneas eléctricas y postes, materiales, seguridad, herramientas y maquinaria, así como la operación y mantenimiento de ésta.
-
-C) Costo de la reserva de contingencia que se establezca para el año, para el servicio de alumbrado público por parte del Cabildo del Ayuntamiento.
-
-D) Costo del suministro de energía eléctrica, el cual se compondrá del que deba ser pagado en base a los históricos acumulados por ello, adicionado por el crecimiento de la inflación, los aumentos propios del servicio, así como los que se sufran por mayor cobertura y nuevos proyectos.
-
-E) Costo de la ejecución de los nuevos proyectos de ampliación e introducción de servicio de alumbrado público.
-
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2006)</small>
-
-ARTICULO 67 G.- Para calcular el costo total anual aplicable en un ejercicio, se considerará el costo total del año inmediato anterior, a aquél para el cual se aplicará la contribución, incrementado en un porcentaje igual al índice de inflación esperado por el Gobierno Federal en su programa económico para ese mismo Ejercicio Fiscal, adicionado como los costos de los nuevos proyectos, expansión y crecimiento natural del servicio.
-
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2006)</small>
-
-ARTICULO 67 H.- El costo total anual del servicio será el que al efecto apruebe anualmente el Congreso del Estado previa propuesta del Ayuntamiento que se realice en la iniciativa de Ley de Ingresos del año de que se trate.
-
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2006)</small>
-
-ARTICULO 67 I.- El Ayuntamiento deberá someter de igual forma a la aprobación anual del Congreso del Estado dentro de la Ley de Ingresos del año de que se trate el número total de beneficiarios que se proyecte para dicho año.
-
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2006)</small>
-
-ARTICULO 67 J.- La determinación del crédito fiscal individual de cada contribuyente, se calculará aplicando las siguientes fórmulas:
-
-(VEASE ARCHIVO ANEXO)
-
-En Donde
-
-CFIa= Crédito Fiscal Individual Habitacional
-
-Se constituye como la tarifa individualizada que corresponderá pagar a cada uno de los beneficiarios del servicio de alumbrado público, tratándose de beneficiarios de casa habitación.
-
-CFIB= Crédito Fiscal Individual Comercial
-
-Se constituye como la tarifa individualizada que corresponderá pagar a cada uno de los beneficiarios del servicio de alumbrado público, tratándose de beneficiarios con actividad comercial o de servicios.
-
-CFIx= Crédito Fiscal Individual Industrial
-
-Será la tarifa individualizada que corresponderá pagar a cada uno de los beneficiarios del servicio de alumbrado público, tratándose de beneficiarios con actividad industrial.
-
-CTS= Costo Total del Servicio
-
-La cantidad resultante de la suma de los conceptos que establece el Artículo 67 F de la presente Ley, aprobado por el Congreso del Estado.
-
-FS = Factor Seguridad
-
-Se obtendrá de la división lograda entre el número de delitos totales del Municipio en el año próximo anterior, entre el valor neto del nivel de seguridad que perciben los habitantes del Municipio, el cual habrá de obtenerse mediante el estudio de opinión que se aplique cada año en el mes de septiembre, dividiendo dicho resultado a su vez entre la población total del Municipio.
-
-FB= Factor de Bienestar
-
-Se obtendrá el presente factor de la división lograda entre el número total de beneficiarios del servicio de alumbrado público entre la cantidad resultante, a su vez de la división efectuada del total de población, entre los beneficios totales, los cuales se obtienen de la suma total de las escuelas, panteones, centros de salud, festividades locales, plazas públicas, así como aquellos que determine el Cabildo en sesión que para ello se convoque.
-
-NE= Nivel Económico
-
-Se obtendrá el presente factor a través de la asignación de uno de los siguientes valores a cada una de las comunidades del Municipio, en razón del nivel económico del mismo, partiendo de los siguientes estratos, valores que deberán ser asignados por el Cabildo.
-
-Alto 2
-
-Medio 1.5
-
-Bajo 1
-
-Interés Social 0.8
-
-Suburbano 0.7
-
-Pobreza Baja 0.6
-
-Pobreza Media 0.5
-
-Pobreza Extrema 0.3
-
-TB= Total de Beneficiarios
-
-El presente factor se entiende como las personas físicas y morales, sujetos de derechos y obligaciones, causantes del Derecho del Servicio de Alumbrado Público, que se obtiene anualmente según la propuesta del Ayuntamiento al Congreso del Estado del estudio y análisis que se realice entre el total de la población, número de cuentas catastrales, número de usuarios de la Comisión Federal de Electricidad, usuarios de servicio de agua potable y alcantarillado, así como el factor que se considere oportuno incluir, y de entre los que se prorratea el costo total anual del servicio.
-
-TC= Total de Comercios
-
-El presente factor se obtendrá de la suma total de las licencias comerciales y de servicios que se tengan registradas en el Ayuntamiento al 30 de octubre del año anterior.
-
-TP= Total de Población
-
-Para el presente se obtendrá del que determine el INEGI de acuerdo con el último Censo o Conteo Poblacional.
-
-TT= Total de Trabajadores
-
-El presente valor se obtendrá del número de registro de trabajadores que tenga dados de alta la empresa ante el Instituto Mexicano del Seguro Social.
-
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2006)</small>
-
-ARTICULO 67 K.- los derechos a que se refiere este Capítulo se causarán en forma anual y se pagarán bimestralmente durante los primeros quince días de los meses de enero, marzo, mayo, julio, septiembre y noviembre, en la Tesorería Municipal o en las instituciones que ésta autorice mediante la celebración de los convenios respectivos.
-
-Esta contribución podrá cubrirse en forma anual durante el primer bimestre, en cuyo caso se aplicará el descuento que al efecto establezca la Ley de Ingresos del año de que se trate.
-
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2006)</small>
-
-ARTICULO 67 L.- La Federación, Estado y Municipios, estarán exentos de esta contribución y no serán considerados en la aplicación de la fórmula de distribución de la carga tributaria.
-
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2006)</small>
-
-ARTICULO 67 M.- El Presidente Municipal podrá realizar descuentos al costo de los Derechos por el Servicio de Alumbrado Público en los porcentajes y supuestos que sean previstos en la ley de Ingresos.
+ARTICULO 67 M.- (DEROGADO, P.O. 8 DE AGOSTO DE 2011)
 
 > <small>(REFORMADA SU DENOMINACION [N. DE E. ANTES SECCION UNICA], P.O. 31 DE DICIEMBRE DE 2006)</small>
 
@@ -1012,3 +910,9 @@ P.O. 23 DE AGOSTO DE 2010.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 8 DE AGOSTO DE 2011.
+
+###### ARTICULO ÚNICO.
+
+El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
