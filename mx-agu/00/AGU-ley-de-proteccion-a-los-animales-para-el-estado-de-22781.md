@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-proteccion-a-los-animales-para-el-estado-de-22781"
 country: "mx"
 rank: "ley"
 publication_date: "2001-11-05"
-last_updated: "2009-02-23"
+last_updated: "2011-08-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22781&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE PROTECCION A LOS ANIMALES PARA EL ESTADO DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE FEBRERO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE AGOSTO DE 2011.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el lunes 5 de noviembre de 2001.
 
@@ -159,29 +159,53 @@ XXII. Crueldad: El acto de brutalidad, sádico o zoofilico contra cualquier anim
 
 XXIII. Especies de fauna silvestre: Las especies animales que subsisten sujetas a los procesos de selección natural y que se desarrollan libremente, incluyendo sus poblaciones menores, que se encuentran bajo control del ser humano;
 
-XXIV. Instituto: Instituto del Medio Ambiente del Estado de Aguascalientes;
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2011)</small>
 
-XXV. Instituto de Salud: Instituto de Salud del Estado de Aguascalientes;
+XXIV. Instituto de Salud: Instituto de Servicios y de Salud del Estado de Aguascalientes;
 
-XXVI. Instrumentos económicos: Los estímulos fiscales, financieros y administrativos que expidan las autoridades del Estado en las materias de la presente Ley;
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2011)</small>
 
-XXVII. Ley: La Ley de Protección a los Animales para el Estado de Aguascalientes;
+XXV. Instrumentos económicos: Los estímulos fiscales, financieros y administrativos que expidan las autoridades del Estado en las materias de la presente Ley;
 
-XXVIII. Limitación razonable del tiempo e intensidad de trabajo: El tiempo e intensidad de trabajo que realizan los animales de monta, cargo y tiro y los animales para espectáculos que, de acuerdo a su especie, cumplan con las disposiciones que esta Ley, su Reglamento y las normas zoológicas y las normas oficiales mexicanas establezcan;
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2011)</small>
 
-XXIX. Mascotas: Los animales y especies de fauna silvestre que sirven de compañía o recreación del ser humano;
+XXVI. Ley: La Ley de Protección a los Animales para el Estado de Aguascalientes;
 
-XXX. Maltrato: Todo hecho, acto u omisión consciente o inconsciente que pueda ocasionar dolor, sufrimiento, poner en peligro la vida del animal o que afecten su salud y bienestar, así como la sobreexplotación de su trabajo;
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2011)</small>
 
-XXXI. Normas zoológicas para el Estado: Los criterios técnicos de carácter obligatorio emitidos por la autoridad competente en función de las atribuciones que esta Ley y otros ordenamientos le confieren;
+XXVII. Limitación razonable del tiempo e intensidad de trabajo: El tiempo e intensidad de trabajo que realizan los animales de monta, cargo y tiro y los animales para espectáculos que, de acuerdo a su especie, cumplan con las disposiciones que esta Ley, su Reglamento y las normas zoológicas y las normas oficiales mexicanas establezcan;
 
-XXXII. Personal capacitado: Las personas que prestan sus servicios, sean estos públicos o privados, o que colaboran con las asociaciones protectoras de animales cuyas actividades estén respaldadas con autorización legal expedida por la autoridad correspondiente que defina la especialización de la acción a realizar;
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2011)</small>
 
-XXXIII. Procuraduría: La Procuraduría Estatal de Protección al Ambiente;
+XXVIII. Mascotas: Los animales y especies de fauna silvestre que sirven de compañía o recreación del ser humano;
 
-XXXIV. Reglamento: El Reglamento de la Ley de Protección a los Animales para el Estado de Aguascalientes;
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2011)</small>
 
-XXXV. Sacrificio humanitario: El sacrificio necesario con métodos humanitarios que se practica en cualquier animal de manera rápida sin dolor ni sufrimiento innecesario por métodos físicos o químicos, atendiendo a las normas oficiales mexicanas y las normas zoológicas, estatales o federales expedidas para tal efecto;
+XXIX. Maltrato: Todo hecho, acto u omisión consciente o inconsciente que pueda ocasionar dolor, sufrimiento, poner en peligro la vida del animal o que afecten su salud y bienestar, así como la sobreexplotación de su trabajo;
+
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2011)</small>
+
+XXX. Normas zoológicas para el Estado: Los criterios técnicos de carácter obligatorio emitidos por la autoridad competente en función de las atribuciones que esta Ley y otros ordenamientos le confieren;
+
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2011)</small>
+
+XXXI. Personal capacitado: Las personas que prestan sus servicios, sean estos públicos o privados, o que colaboran con las asociaciones protectoras de animales cuyas actividades estén respaldadas con autorización legal expedida por la autoridad correspondiente que defina la especialización de la acción a realizar;
+
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2011)</small>
+
+XXXII. Procuraduría: La Procuraduría Estatal de Protección al Ambiente;
+
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2011)</small>
+
+XXXIII. Reglamento: El Reglamento de la Ley de Protección a los Animales para el Estado de Aguascalientes;
+
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2011)</small>
+
+XXXIV. Sacrificio humanitario: El sacrificio necesario con métodos humanitarios que se practica en cualquier animal de manera rápida sin dolor ni sufrimiento innecesario por métodos físicos o químicos, atendiendo a las normas oficiales mexicanas y las normas zoológicas, estatales o federales expedidas para tal efecto;
+
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2011)</small>
+
+XXXV. Secretaría: Secretaría de Medio Ambiente;
 
 XXXVI. Sufrimiento: El padecimiento o dolor innecesario por daño físico a cualquier animal;
 
@@ -201,7 +225,9 @@ Las autoridades a las que esta Ley hace referencia quedan obligadas a difundir, 
 
 Las autoridades encargadas de aplicar y vigilar el cumplimiento de la presente Ley, podrán solicitar asesoría y apoyo de las asociaciones protectoras de animales o grupos ecologistas, para efectos de custodia temporal o definitiva de animales, así como para todos aquellos temas en que se estime procedente.
 
-Corresponde al Instituto y a los municipios, en el marco de sus respectivas competencias, el ejercicio de las siguientes facultades:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE AGOSTO DE 2011)</small>
+
+Corresponde a la Secretaría y a los municipios, en el marco de sus respectivas competencias, el ejercicio de las siguientes facultades:
 
 I. Expedir las normas zoológicas para el Estado en las materias que esta Ley establece;
 
@@ -213,25 +239,41 @@ IV. Crear los instrumentos económicos adecuados para incentivar a las organizac
 
 V. Las demás que le confiera esta Ley, su Reglamento y ordenamientos jurídicos aplicables.
 
-> <small>(REFORMADO, P.O. 23 DE FEBRERO DE 2009)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE AGOSTO DE 2011)</small>
 
-###### ARTICULO 5o.
+###### ARTICULO 5º.
 
-Corresponde al Instituto, en el ámbito de su competencia, el ejercicio de las siguientes facultades:
+Corresponde a la Secretaría, en el ámbito de su competencia, el ejercicio de las siguientes facultades:
+
+> <small>(REFORMADA, P.O. 23 DE FEBRERO DE 2009)</small>
 
 I. La promoción de información y difusión que genere una cultura de protección, responsabilidad, respeto y trato digno a los animales;
 
+> <small>(REFORMADA, P.O. 23 DE FEBRERO DE 2009)</small>
+
 II. El desarrollo de programas de educación y capacitación en materia de trato digno y respetuoso a los animales, en coordinación con las autoridades competentes relacionadas con las instituciones de educación básica, media y superior de jurisdicción del Estado y con las organizaciones no gubernamentales legalmente constituidas, así como el desarrollo de programas de educación no formal e informal con el sector social, privado y académico;
+
+> <small>(REFORMADA, P.O. 23 DE FEBRERO DE 2009)</small>
 
 III. La regulación para el manejo, control, remediación y prevención de los problemas asociados a los animales ferales;
 
+> <small>(REFORMADA, P.O. 23 DE FEBRERO DE 2009)</small>
+
 IV. La celebración de convenios de concertación con los sectores social y privado;
+
+> <small>(REFORMADA, P.O. 23 DE FEBRERO DE 2009)</small>
 
 V. La expedición de certificados de venta de animales, a los establecimientos comerciales, ferias y exposiciones que se dediquen a la venta de mascotas y llevar el padrón de animales con la información que se recabe de la expedición de estos certificados;
 
+> <small>(REFORMADA, P.O. 23 DE FEBRERO DE 2009)</small>
+
 VI. En coordinación con las instituciones competentes, públicas y privadas, elaborar los correspondientes reglamentos, las normas zoológicas y las guías informativas a los que se refiere la presente Ley, así como la elaboración de manuales y planes de manejo de acuerdo a la especie de animal en cuestión que coadyuven al cumplimiento de esta Ley;
 
+> <small>(REFORMADA, P.O. 23 DE FEBRERO DE 2009)</small>
+
 VII. Crear y operar el Padrón de las Asociaciones Protectoras de Animales y de Organizaciones Sociales dedicadas al mismo objeto, así como el Padrón de Animales; y
+
+> <small>(REFORMADA, P.O. 23 DE FEBRERO DE 2009)</small>
 
 VIII. Las demás que esta Ley y aquellos ordenamientos jurídicos aplicables le confieran.
 
@@ -273,7 +315,9 @@ VIII. Impulsar campañas de concientización para el trato digno y respetuoso a 
 
 IX. Conocer, a través de la unidad administrativa correspondiente, cualquier hecho, acto u omisión derivado del incumplimiento de la presente Ley, su Reglamento y demás disposiciones jurídicas aplicables, y emitir las sanciones correspondientes, salvo aquellas que estén expresamente atribuidas a otras autoridades. Para el seguimiento de esta atribución deberá contar con personal debidamente capacitado en las materias de esta Ley para dar curso a las denuncias;
 
-X. Establecer campañas de vacunación antirrábica, campañas sanitarias para el control y erradicación de enfermedades zoonóticas, de desparasitación, y de esterilización, en coordinación con el Instituto de Salud;
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2011)</small>
+
+X. Establecer campañas permanentes de vacunación antirrábica, campañas sanitarias para el control y erradicación de enfermedades zoonóticas, de desparasitación, y de esterilización, en coordinación con la Secretaría de Salud;
 
 XI. Vigilar el cumplimiento y observancia de las normas señaladas en el Capítulo V de esta Ley, en los términos de su jurisdicción; y
 
@@ -335,21 +379,21 @@ III.- La observación y responsabilidad de un médico veterinario zootecnista ce
 
 IV.- Previa venta de cualquier mascota, ésta deberá estar desparasitada y se expedirá un certificado veterinario de salud haciendo constar que se encuentra libre de enfermedad aparente, incluyendo calendarios de desparasitación y vacunaciones correspondientes; y
 
-> <small>(ADICIONADA, P.O. 23 DE FEBRERO DE 2009)</small>
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2011)</small>
 
-V.- Los establecimientos comerciales, ferias y exposiciones que se dediquen a la venta de mascotas están obligados a expedir un certificado de venta autorizado por la Secretaría, a la persona que adquiera el animal el cual deberá contener por lo menos:
+V. Los establecimientos comerciales, ferias y exposiciones que se dediquen a la venta de mascotas están obligados a expedir un certificado de venta autorizado por la Secretaría, a la persona que adquiera el animal el cual deberá contener por lo menos:
 
-a. Animal o Especie de que se trate;
+A. Animal o Especie de que se trate;
 
-b. Sexo y edad del animal;
+B. Sexo y edad del animal;
 
-c. Nombre del propietario;
+C. Nombre del propietario;
 
-d. Domicilio del propietario; y
+D. Domicilio del propietario; y
 
-e. Las demás que establezca el Reglamento.
+E. Las demás que establezca el Reglamento.
 
-Dichos establecimientos están obligados a presentar trimestralmente los certificados expedidos al Instituto para que éste los incorpore en el Padrón de Animales del Estado de Aguascalientes.
+Dichos establecimientos están obligados a presentar trimestralmente los certificados expedidos a la Secretaría para que éste los incorpore en el Padrón de Animales del Estado de Aguascalientes.
 
 Asimismo, están obligados a otorgar a la o el comprador un manual de cuidado, albergue y dieta del animal adquirido, que incluya, además, los riesgos ambientales de su liberación al medio natural o urbano y las faltas que están sujetos por el incumplimiento de las disposiciones de la presente Ley. Dicho manual deberá estar certificado por una o un médico veterinario zootecnista.
 
@@ -363,11 +407,11 @@ Una vez recibida la información a que se refiere el artículo anterior, el Muni
 
 Las personas que pretendan criar, comercializar, exhibir, trasladar o entrenar animales vivos o utilicen animales para ofrecer algún servicio, deberán presentar la información especificada en la "Guía de información general para la Cría, Exhibición, Venta, Entrenamiento, Adiestramiento, y Traslado de Animales Vivos" ante la autoridad estatal o municipal competente con cinco días previos el aviso correspondiente. La autoridad podrá en todo momento verificar la veracidad de la información proporcionada.
 
-> <small>(REFORMADO, P.O. 23 DE FEBRERO DE 2009)</small>
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2011)</small>
 
 ###### ARTICULO 13.
 
-El Instituto elaborará la "Guía de Información General para la Cría, Exhibición, Venta, Entrenamiento, Adiestramiento, y Traslado de Animales Vivos", en la cual se asentará toda la información necesaria y requerida para que el manejo de los animales vivos sea adecuado y conforme a la presente Ley, anexando los documentos que comprueben su legal procedencia y en su caso, tramitará la autorización correspondiente.
+La Secretaría elaborará la “Guía de Información General para la Cría, Exhibición, Venta, Entrenamiento, Adiestramiento, y Traslado de Animales Vivos”, en la cual se asentará toda la información necesaria y requerida para que el manejo de los animales vivos sea adecuado y conforme a la presente Ley, anexando los documentos que comprueben su legal procedencia y en su caso, tramitará la autorización correspondiente.
 
 ###### ARTICULO 14.
 
@@ -439,11 +483,11 @@ Toda persona física o moral que se dedique a la crianza y comercialización de 
 
 Asimismo, no podrá vender, alquilar, prestar o donar animales para que se realicen experimentos con ellos o sean objeto de vivisección.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE AGOSTO DE 2005)</small>
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2011)</small>
 
 ###### ARTICULO 17.
 
-Quienes se dediquen al entrenamiento o adiestramiento de animales domésticos con fines de guardia, protección y cuidado de personas y bienes, deberán contar con el permiso del Instituto del Medio Ambiente, para lo cual previo al inicio de sus actividades presentarán ante la autoridad la "Guía de Información General para la Cría, Exhibición, Venta, Entrenamiento, Adiestramiento, y Traslado de Animales Vivos", la cual podrá verificar la información correspondiente y, en su caso, emitirá la resolución en un término que no exceda a los quince días naturales siguientes a la entrega de la información solicitada.
+Quienes se dediquen al entrenamiento o adiestramiento de animales domésticos con fines de guardia, protección y cuidado, rehabilitación de personas y bienes, deberán contar con el permiso de la Secretaría, para lo cual previo al inicio de sus actividades presentarán ante la autoridad la "Guía de Información General para la Cría, Exhibición, Venta, Entrenamiento, Adiestramiento, y Traslado de Animales Vivos", la cual podrá verificar la información correspondiente y, en su caso, emitirá la resolución en un término que no exceda a los quince días naturales siguientes a la entrega de la información solicitada.
 
 Asimismo, las personas a que se refiere el párrafo anterior, deberán cumplir con las disposiciones previstas en esta Ley y demás relacionadas con la materia.
 
@@ -619,17 +663,19 @@ En todo caso se estará a lo dispuesto en las normas oficiales mexicanas que se 
 
 ### CAPITULO VI. De los Centros Antirrábicos
 
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2011)</small>
+
 ###### ARTICULO 27.
 
-Los municipios deberán promover el establecimiento de centros antirrábicos o similares, ya sea con recursos propios o con la participación de los particulares. En este caso quienes pretendan instalar un centro antirrábico o similar deberán contar con la autorización del Municipio correspondiente y cumplir con las disposiciones previstas en esta Ley.
+Los Municipios deberán promover el establecimiento de Centros de Control, Atención y Bienestar Animal o similares, ya sea con recursos propios o con la participación de los particulares. En este caso quienes pretendan instalar un centro o similar deberán contar con la autorización del Municipio correspondiente y cumplir con las disposiciones previstas en esta Ley.
 
-> <small>(ADICIONADO, P.O. 23 DE FEBRERO DE 2009)</small>
+El personal que intervenga en el sacrificio de animales, deberá estar plenamente autorizado, capacitado y certificado en la aplicación de las diversas técnicas de manejo de sustancias y conocimiento de sus efectos, vías de administración y dosis requeridas, así como en métodos para el sacrificio humanitario, en estricto cumplimiento de las Normas Oficiales Mexicanas.
 
-El personal que intervenga en el sacrificio de animales, deberá estar plenamente autorizado y capacitado en la aplicación de las diversas técnicas, manejo de sustancias y conocimiento de sus efectos, vías de administración y dosis requeridas, así como en métodos alternativos para el sacrificio, en estricto cumplimiento de las normas oficiales mexicanas y las normas zoológicas para el Estado.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE AGOSTO DE 2011)</small>
 
 ###### ARTICULO 28.
 
-Los centros antirrábicos y similares deberán tener como función principal:
+Los Centros de Control, Atención y Bienestar Animal y similares deberán tener como función principal:
 
 > <small>(REFORMADA, P.O. 23 DE FEBRERO DE 2009)</small>
 
@@ -643,11 +689,11 @@ III.- Realizar campañas que fomenten la conciencia de responsabilidad sobre los
 
 IV.- Proporcionar los collares de identificación de vacunación antirrábica.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE NOVIEMBRE DE 2003)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE AGOSTO DE 2011)</small>
 
 ###### ARTICULO 29.
 
-Los centros antirrábicos y similares contarán con la infraestructura necesaria para brindar a los animales que ahí se resguarden, una estancia digna, segura y saludable, por lo que deberán:
+Los Centros de Control, Atención y Bienestar Animal y similares contarán con la infraestructura necesaria para brindar a los animales que ahí se resguarden, una estancia digna, segura y saludable, por lo que deberán:
 
 > <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2003)</small>
 
@@ -667,13 +713,17 @@ VI.- Emitir una constancia del estado general del animal, tanto de ingreso como 
 
 VII.- En los casos de resguardo para observación por agresión, el dueño proveerá los alimentos durante el tiempo que ésta dure, y en su caso serán con cargo al propietario;
 
-> <small>(REFORMADA, P.O. 23 DE FEBRERO DE 2009)</small>
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2011)</small>
 
-VIII.- Manejar áreas para tener a los animales separados por sexo, tamaño y separar hembras lactantes; y
+VIII. Manejar áreas para tener a los animales separados por sexo, tamaño y separar hembras lactantes;
 
-> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2003)</small>
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2011)</small>
 
-IX.- Separar y atender a los animales que recojan y estén lastimados, heridos o que presenten signos de una enfermedad infectocontagiosa.
+IX. Separar y atender a los animales que recojan y estén lastimados, heridos o que presenten signos de una enfermedad infectocontagiosa; y
+
+> <small>(ADICIONADA, P.O. 8 DE AGOSTO DE 2011)</small>
+
+X. Permitir a las asociaciones protectoras de animales debidamente constituidas, visitar las instalaciones para verificar el trato digno y el sacrificio humanitario a los animales que se encuentren en el centro, guardando las medidas sanitarias procedentes.
 
 ###### ARTICULO 30.
 
@@ -707,17 +757,19 @@ En caso de que no sea reclamado a tiempo por su dueño(a), la autoridad podrá d
 
 En el último de los casos, la autoridad podrá sacrificarlo humanitariamente siguiendo lo que para tal efecto señala la presente Ley, y posteriormente darle un tratamiento sanitario al cadáver o preferentemente cremarlo.
 
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2011)</small>
+
 ###### ARTICULO 34.
 
-Los Centros Antirrábicos y demás dependencias relacionadas, podrán asesorarse y aceptar la colaboración de las sociedades protectoras de animales, para coadyuvar en el desarrollo de sus funciones.
+Los Centros de Control, Atención y Bienestar Animal o similares y demás dependencias relacionadas, podrán asesorarse y aceptar la colaboración de las sociedades protectoras de animales, para coadyuvar en el desarrollo de sus funciones.
 
 ### CAPITULO VII. De la Experimentación con Animales
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE AGOSTO DE 2005)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE AGOSTO DE 2011)</small>
 
 ###### ARTICULO 35.
 
-Para realizar experimentación con animales, los interesados deberán demostrar ante las autoridades correspondientes que el acto por realizar es en beneficio de la investigación científica o docencia, la cual sólo se autorizará en las carreras de nivel superior relacionadas con la materia; para tal efecto se requiere el permiso de experimentación en animales debidamente autorizado por el Instituto del Medio Ambiente.
+Para realizar experimentación con animales, los interesados deberán demostrar ante las autoridades correspondientes que el acto por realizar es en beneficio de la investigación científica o docencia, la cual sólo se autorizará en las carreras de nivel superior relacionadas con la materia y sean imprescindibles para el estudio o avance de la ciencia; para tal efecto se requiere el permiso de experimentación en animales debidamente autorizado por la Secretaría.
 
 > <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2003)</small>
 
@@ -727,9 +779,11 @@ Ningún alumno podrá ser obligado a experimentar con animales en contra de su v
 
 Se deberá levantar un reporte por las autoridades de la Institución, respecto de la cantidad y tipo de animales por utilizar y su periodicidad, describiendo las técnicas empleadas para evitar su sufrimiento, así como los objetivos que con ello se persiguen, reporte que podrá ser auditado las veces que se estime necesario por las autoridades encargadas de aplicar la presente Ley; siendo procedente la revocación de la autorización para la experimentación con animales, de resultar falso el contenido de dicho reporte.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE AGOSTO DE 2011)</small>
+
 ###### ARTICULO 36.
 
-Para obtener el permiso a que se refiere el artículo anterior, deberá demostrarse:
+Para obtener el permiso a que se refiere el artículo anterior se deberá demostrar:
 
 > <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2003)</small>
 
@@ -737,7 +791,9 @@ I.- Que el daño o sacrificio de cualquier especie animal deba quedar sujeto a q
 
 II.- Que los conocimientos que se desean obtener son necesarios para la prevención, control, diagnóstico o tratamiento de enfermedades que afecten al hombre o a los animales; y
 
-III.- Que los experimentos en animales vivos no pueden ser substituidos por esquemas, dibujos, películas, fotografías, videocintas o cualquier otro procedimiento análogo.
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2011)</small>
+
+III. Que los experimentos en animales vivos no puedan ser sustituidos por cultivo de tejidos, formas computarizadas, dibujos, películas, fotografías, video u otros procedimientos análogos.
 
 > <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2003)</small>
 
@@ -751,11 +807,35 @@ Si las heridas son de consideración o implican sufrimiento innecesario o mutila
 
 Queda prohibida la experimentación con animales vivos en los siguientes casos:
 
-I.- Cuando los resultados de la operación sean conocidos de antemano;
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2011)</small>
 
-II.- Cuando la experimentación sea con fines meramente mercantiles; o
+I. Cuando los resultados de la operación o experimento se conozcan de antemano;
 
-III.- Cuando la experimentación no tenga una finalidad científica o de enseñanza académica superior.
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2011)</small>
+
+II. Cuando el experimento esté orientado hacia una actividad comercial;
+
+III. Cuando la experimentación no tenga una finalidad científica o de enseñanza académica superior.
+
+> <small>(ADICIONADA, P.O. 8 DE AGOSTO DE 2011)</small>
+
+IV. Como medio de ilustración de conferencias en facultades de medicina, veterinaria, zootecnia, hospitales o laboratorios o en cualquier otro sitio dedicado al aprendizaje, o con el propósito de obtener destreza manual.
+
+> <small>(ADICIONADO, P.O. 8 DE AGOSTO DE 2011)</small>
+
+Para todo experimento con animales vivos deberá conformarse un Comité de Ética, convocado por la Secretaría y estará integrado por: un representante de la Secretaría; dos representantes de autoridades académicas; dos representantes de asociaciones protectoras de animales legalmente constituidas
+
+> <small>(ADICIONADO, P.O. 8 DE AGOSTO DE 2011)</small>
+
+El Comité de Ética establecido de acuerdo con este Artículo podrá supervisar:
+
+a) Las condiciones físicas, el cuidado y bienestar de los animales previo a los experimentos;
+
+b) Los procedimientos para la prevención del dolor innecesario incluyendo el uso de anestesia y analgésicos;
+
+> <small>(ADICIONADO, P.O. 8 DE AGOSTO DE 2011)</small>
+
+El comité de ética recomendará la suspensión del experimento cuando considere la violación de alguna de las disposiciones previstas en esta ley y en su caso, el sacrificio del animal cuando se le haya causado enfermedad o lesión incurable.
 
 > <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2003)</small>
 
@@ -787,19 +867,21 @@ I.- Evitar cualquier maltrato, daño o sacrifico innecesario;
 
 II.- Proveer de alimentos, espacios adecuados para su desarrollo, abrigo contra la intemperie, higiene, luz, agua, aire, atención médica y sanitaria;
 
-> <small>(REFORMADA, P.O. 23 DE FEBRERO DE 2009)</small>
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2011)</small>
 
-III.- No abandonarlos, torturarlos, aislarlos en azoteas, descuidarlos o amarrarlos de manera que su limitado movimiento le cause algún daño, lesión o les impida satisfacer sus necesidades básicas;
+III.- No abandonarlos, torturarlos, aislarlos en azoteas, terrenos baldíos, bodegas, casas solas, o cualquier predio; así como descuidarlos o amarrarlos de manera que su limitado movimiento le cause algún daño, lesión o les impida satisfacer sus necesidades básicas.
 
-IV.- No inducirlos a causar daños a terceros;
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2011)</small>
+
+IV.- No inducirlos a causar daños a terceros o a otros animales;
 
 V.- Cuando saque a la vía pública al animal, se deberán tomar las medidas de seguridad necesarias para no causar daños a terceros;
 
 VI.- Los perros y gatos deberán portar la placa de identificación que contenga: nombre del animal, nombre del propietario y domicilio; identificación oficial vigente de vacunación antirrábica, el cual deberá ser un collar oficial emitido por la autoridad competente; así como en los casos en los que se saquen a la vía pública, estos animales deberán llevar collar y cadena;
 
-> <small>(REFORMADA, P.O. 23 DE FEBRERO DE 2009)</small>
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2011)</small>
 
-VII.- Recoger el excremento;
+VII.- Recoger el excremento tanto en la vía pública como en los lugares de resguardo;
 
 > <small>(REFORMADA, P.O. 23 DE FEBRERO DE 2009)</small>
 
@@ -943,9 +1025,11 @@ Las autoridades del Estado y Municipios, en el ámbito de sus facultades, promov
 
 El desarrollo de los programas de educación y capacitación de trato digno y respetuoso a los animales, se llevarán a cabo en coordinación con las autoridades competentes relacionadas con las instituciones de educación básica, media y superior de jurisdicción del Estado de Aguascalientes y con las organizaciones no gubernamentales legalmente constituidas, así como el desarrollo de programas de educación no formal e informal con el sector social, privado y académico como los colegios de médicos veterinarios, donde se impartan estudios de medicina veterinaria y afines.
 
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2011)</small>
+
 ###### ARTICULO 58.
 
-En coordinación con los centros de educación ambiental, las autoridades promoverán campañas para informar a los visitantes sobre el cuidado y protección de los animales.
+En coordinación con los centros de educación ambiental, las autoridades promoverán campañas para informar a los visitantes sobre el cuidado y protección de los animales, estas campañas deberá de extenderse en los circos, ferias, zoológicos, parques de diversiones, bioparques, o análogos.
 
 > <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2003)</small>
 
@@ -963,7 +1047,9 @@ Los particulares y las asociaciones protectoras de los animales, prestarán su c
 
 Las autoridades estatales y municipales promoverán la participación de las personas, las asociaciones protectoras de animales y las organizaciones sociales legalmente constituidas, las instituciones académicas y de investigación en las acciones gubernamentales relacionadas con el trato digno y respetuoso a los animales y podrán celebrar convenios de concertación con éstas.
 
-El Instituto creará el Padrón de Asociaciones Protectoras de Animales y Organizaciones Sociales, dedicadas al mismo objeto, como instrumento que permite conocer su número y actividades que realicen, así como para ser beneficiarias de estímulos y coadyuvar en la observancia de las tareas definidas en la presente Ley, conforme a lo que establezca el Reglamento.
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2011)</small>
+
+La Secretaría creará el Padrón de Asociaciones Protectoras de Animales y Organizaciones Sociales, dedicadas al mismo objeto, como instrumento que permite conocer su número y actividades que realicen, así como para ser beneficiarias de estímulos y coadyuvar en la observancia de las tareas definidas en la presente Ley, conforme a lo que establezca el Reglamento.
 
 ###### ARTICULO 61.
 
@@ -977,11 +1063,19 @@ Los Gobiernos Estatal y Municipales en forma concurrente, deberán fomentar la p
 
 Las asociaciones protectoras de animales y los colegios de profesionistas relacionados con el manejo de animales domésticos podrán:
 
-I.- Proponer políticas de protección a los animales;
+I. Proponer políticas de protección a los animales;
 
-II.- Promover y difundir el conocimiento de la Ley y apoyar las acciones en beneficio de la salud pública; y
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2011)</small>
 
-III.- Promover y fomentar la participación ciudadana en las diversas campañas de vacunación, esterilización, prevención y concientización, entre otras.
+II. Promover y difundir el conocimiento de la Ley y apoyar las acciones en beneficio de la salud pública;
+
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2011)</small>
+
+III. Promover y fomentar la participación ciudadana en las diversas campañas de vacunación, esterilización, prevención y concientización, entre otras; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 8 DE AGOSTO DE 2011)</small>
+
+IV. Coadyuvar con las autoridades municipales, en las campañas de vacunación y esterilización de animales.
 
 > <small>(REFORMADO, P.O. 23 DE FEBRERO DE 2009)</small>
 
@@ -1009,11 +1103,13 @@ La autoridad, en coordinación con las sociedades protectoras de animales y los 
 
 ### CAPITULO XI BIS. Del Fondo para la Protección a los Animales
 
-> <small>(ADICIONADO, P.O. 10 DE NOVIEMBRE DE 2003)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE AGOSTO DE 2011)</small>
 
 ###### ARTICULO 67 Bis.
 
-Se crea el Fondo para la Protección a los Animales del Estado de Aguascalientes, que dependerá de la Procuraduría Estatal de Protección al Ambiente, cuyos recursos se destinarán a:
+Se crea el Fondo para la Protección a los Animales del Estado de Aguascalientes, que dependerá de la Secretaría, cuyos recursos se destinarán a:
+
+> <small>(ADICIONADA, P.O. 10 DE NOVIEMBRE DE 2003)</small>
 
 I.- El fomento de estudios e investigaciones para mejorar los mecanismos para la protección a los animales y especies de fauna silvestre;
 
@@ -1025,15 +1121,19 @@ II.- La promoción de campañas de esterilización permanentes;
 
 III.- El desarrollo de programas de educación y difusión sobre tenencia responsable de animales para el fomento de la cultura de protección a los animales;
 
-IV.- El desarrollo de las acciones establecidas en los convenios que la Procuraduría Estatal de Protección al Ambiente establezca con los sectores social, privado, académico y de investigación en las materias de la presente Ley; y
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2011)</small>
+
+IV.- El desarrollo de las acciones establecidas en los convenios que la Secretaría establezca con los sectores social, privado, académico y de investigación en las materias de la presente Ley; y
+
+> <small>(ADICIONADA, P.O. 10 DE NOVIEMBRE DE 2003)</small>
 
 V.- Las demás que esta Ley, su Reglamento y otros ordenamientos jurídicos establezcan.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE FEBRERO DE 2009)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE AGOSTO DE 2011)</small>
 
 ###### ARTICULO 67 Ter.
 
-El fondo se regirá por un Consejo Técnico representado por la Procuraduría, el Instituto y Asociaciones Protectoras de Animales debidamente acreditadas, este Consejo deberá establecer los instrumentos necesarios para el manejo transparente de los recursos. Los recursos del Fondo se integrarán con:
+El fondo se regirá por un Consejo Técnico representado por la Secretaría, la Procuraduría, y Asociaciones Protectoras de Animales debidamente acreditadas, este Consejo deberá establecer los instrumentos necesarios para el manejo transparente de los recursos. Los recursos del Fondo se integrarán con:
 
 > <small>(ADICIONADA, P.O. 10 DE NOVIEMBRE DE 2003)</small>
 
@@ -1085,7 +1185,9 @@ IV. La realización de las acciones legales necesarias para evitar que se contin
 
 V. El retiro del animal que está siendo maltratado; y
 
-VI. Ordenar la ejecución de alguna o algunas de las medidas de seguridad que se establezcan en otros ordenamientos, en relación con la protección a los animales.
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2011)</small>
+
+VI. La solicitud inmediata a las autoridades investigadoras de la comisión de un ilícito, para que en los inmuebles resguardados, se permita el rescate de los animales abandonados, en coordinación con las asociaciones protectoras de los animales.
 
 ###### ARTICULO 70.
 
@@ -1348,3 +1450,9 @@ El Reglamento de la presente Ley será expedido en un término no mayor a 60 dí
 El Instituto del Medio Ambiente del Estado adecuará la "Guía de Información General para la Cría, Exhibición, Venta, Entrenamiento, Adiestramiento, y Traslado de Animales Vivos", en un plazo que no exceda de sesenta días naturales siguientes a la entrada en vigor de la presente Ley.
 
 Para la realización de esta Guía, el Instituto tomará en cuenta las opiniones de los diversos sectores interesados en el cuidado y protección de los animales.
+
+P.O. 8 DE AGOSTO DE 2011.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
