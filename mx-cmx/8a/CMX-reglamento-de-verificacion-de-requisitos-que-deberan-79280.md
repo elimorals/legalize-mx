@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-de-verificacion-de-requisitos-que-deberan-79280"
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-01-31"
-last_updated: "2011-01-31"
+last_updated: "2011-08-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=79280&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,9 @@ issue_date: "2011-01-18"
 
 REGLAMENTO DE VERIFICACION DE REQUISITOS QUE DEBERAN CUMPLIR LAS AGRUPACIONES POLITICAS LOCALES QUE PRETENDAN CONSTITUIRSE COMO PARTIDO POLITICO LOCAL
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO TRANSITORIO SEGUNDO DEL REGLAMENTO DEL INSTITUTO ELECTORAL DEL DISTRITO FEDERAL PARA EL REGISTRO DE PARTIDOS POLITICOS LOCALES, PUBLICADO EN LA G.O DE 8 DE AGOSTO DE 2011, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: ABROGADO.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el lunes 31 de enero de 2011.
 
@@ -345,3 +347,13 @@ Primero.- El presente reglamento entrará en vigor al momento de su aprobación 
 Segundo.- Para el proceso de registro de partidos políticos locales 2011, se estará a lo dispuesto por el numeral 24, inciso b), del presente reglamento. Para los procesos de registro posteriores se actualizará dicho porcentaje mínimo de afiliados con los datos que proporcione el Instituto Federal Electoral.
 
 Tercero.- Se abroga el Procedimiento de verificación del cumplimiento de los requisitos de constitución y registro que deberán cumplir las Agrupaciones Políticas Locales y las Organizaciones de Ciudadanos que pretendan constituirse como Partido Político Local, aprobado por el Consejo General mediante acuerdo ACU-026-08 de dieciséis de abril de dos mil ocho.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+G.O. 8 DE AGOSTO DE 2011.
+
+Primero.- El presente Reglamento entrará en vigor al momento de su aprobación por el Consejo General del Instituto Electoral del Distrito Federal.
+
+Segundo.- Se abroga el Reglamento de Verificación de Requisitos que deberán cumplir las Agrupaciones Políticas Locales que pretendan constituirse como Partido Político Local, aprobado por el Consejo General mediante acuerdo ACU-11-11 de dieciocho de enero de dos mil once.
+
+Tercero.- Por única ocasión, para el ejercicio 2011, todos los plazos señalados en el Reglamento del Instituto Electoral del Distrito Federal para el registro de partidos políticos locales, relacionados con el 31 de julio se entenderán como si fueran al 31 de agosto de 2011.
