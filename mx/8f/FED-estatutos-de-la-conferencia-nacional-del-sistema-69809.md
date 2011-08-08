@@ -4,7 +4,7 @@ identifier: "FED-estatutos-de-la-conferencia-nacional-del-sistema-69809"
 country: "mx"
 rank: "estatuto"
 publication_date: "2009-08-27"
-last_updated: "2009-08-27"
+last_updated: "2011-08-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69809&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2009-03-30"
 
 ESTATUTOS DE LA CONFERENCIA NACIONAL DEL SISTEMA PENITENCIARIO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 8 DE AGOSTO DE 2011.
 
 Estatutos publicados en la Primera Sección del Diario Oficial de la Federación, el jueves 27 de agosto de 2009.
 
@@ -299,29 +299,23 @@ V.- Las demás que acuerde el Consejo o determine la Asamblea.
 
 ### Capítulo VI. De los Comités Técnicos
 
-###### Artículo 24.
+> <small>(REFORMADO, D.O.F. 8 DE AGOSTO DE 2011)</small>
 
-Para el óptimo cumplimiento de los objetivos de la Conferencia, son constituidos los Comités, con la siguiente denominación:
+Artículos 24.- Para el óptimo cumplimiento de los objetivos de la Conferencia, son constituidos los siguientes Comités Técnicos:
 
-I.- Combate a la Corrupción;
+I. Normatividad y asuntos internacionales;
 
-II.- Reinserción social de internos;
+II. Reinserción social y beneficios preliberacionales;
 
-III.- Sobrepoblación penitenciaria y reincidencia;
+III. Administración y seguridad penitenciaria;
 
-IV.- Técnico de Información, Tecnología y Telecomunicaciones;
+IV. Servicio de carrera y profesionalización;
 
-V.- Beneficios preliberacionales;
+V. Información, tecnología y telecomunicaciones; y
 
-VI.- Servicio de Carrera y Profesionalización del personal penitenciario;
+VI. Grupos vulnerables, adolescentes y género.
 
-VII.- Respeto a los derechos humanos de internos;
-
-VIII.- Igualdad de género y mujeres en reclusión;
-
-IX.- Normatividad.
-
-La Asamblea podrá determinar la constitución de nuevos Comités, según sus necesidades, o bien modificar la denominación o temática de los existentes.
+La Asamblea determinará la constitución de nuevos Comités según sus necesidades o modificará la temática de los existentes.
 
 ###### Artículo 25.
 
@@ -345,11 +339,11 @@ a) Asistir a las sesiones del Comité; y
 
 b) Desarrollar los estudios y las/ acciones encomendados.
 
+> <small>(REFORMADO, D.O.F. 8 DE AGOSTO DE 2011)</small>
+
 ###### Artículo 26.
 
-Los Comités sesionarán en dos ocasiones previas a la primera sesión de la Asamblea y, en caso de ser necesaria una tercera, siempre y cuando haya sido designado tema para el Comité respectivo.
-
-Asimismo, sus miembros durarán en su encargo un plazo no mayor a dos años.
+Los Comités sesionarán dos veces al año, por lo menos, y podrían reunirse las veces que fueran necesarias para desahogar y dictaminar los proyectos asignados por el Pleno.
 
 ###### Artículo 27.
 
@@ -470,3 +464,9 @@ Tercero.- Los acuerdos y recomendaciones validados en las sesiones de la Asamble
 En virtud de lo anterior, los participantes dieron lectura a los presentes estatutos y habiendo sido aprobados, se procedió a su firma, siendo las doce horas del día treinta de marzo de dos mil nueve, firmando al calce y al margen los participantes que señalan: El Secretario de Seguridad Pública, GENARO GARCIA LUNA.- Rúbrica; Subsecretario del Sistema Penitenciario Federal, JOSE PATRICIO PATIÑO ARIAS.- Rúbrica; Comisionado del Organo Administrativo Desconcentrado Prevención y Readaptación Social, EDUARDO ENRIQUE GOMEZ GARCIA.- Rúbrica; LUIS RICARDO BENAVIDES HERNANDEZ, Director General de Reeducación Social del Estado de Aguascalientes.- Rúbrica; FRANCISCO VAZQUEZ BUSTAMANTE, Director General de Centros de Readaptación Social del Estado de Baja California.- Rúbrica; ROBERTO RAMIREZ GARCIA, Director General de Prevención y Readaptación Social del Estado de Baja California Sur.- VIRGINIA CALIZ ALONSO, Encargada del despacho de la Dirección General de Prevención y Readaptación Social del Estado de Campeche.- Rúbrica; HUMBERTO HERNANDEZ ORTIZ, Director General de Readaptación Social del Estado de Coahuila.- Rúbrica; ROBERTO E. PIZANO CAMBEROS, Director General de Prevención y Readaptación Social del Estado de Colima.- Rúbrica; GUSTAVO F. FERREIRA JIMENEZ, Secretario Ejecutivo del Consejo de Ejecución de Sanciones Penales y Medidas de Seguridad del Estado de Chiapas.- Rúbrica; CESAR MARTINEZ ACOSTA, Director de Ejecución de Penas y Medidas de Seguridad del Estado de Chihuahua.- Rúbrica; CELINA OSEGUERA PARRA, Subsecretaria del Sistema Penitenciario del Distrito Federal.- Rúbrica; ZINA RUIZ DE LEON, Directora General de Prevención y Readaptación Social del Estado de Durango.- Rúbrica; JUAN JOSE RODRIGUEZ BARROSO, Director General de Ejecución Penitenciaria y Readaptación Social del Estado de Guanajuato.- Rúbrica; FERNANDO ENCISO CARREON, Director General de Prevención y Readaptación Social del Estado de Hidalgo.- Rúbrica; JOSE GONZALEZ JIMENEZ, Director General de Prevención y Readaptación Social del Estado de Jalisco.- Rúbrica; FRANCISCO JAVIER ERIC SEVILLA MONTES DE OCA, Director General de Prevención y Readaptación Social del Estado de México.- Rúbrica; JAIME ALVAREZ RAMOS, Director General de Prevención y Readaptación Social del Estado de Michoacán.- Rúbrica; SARA O. PARRA TELLEZ, Subdirectora de Readaptación Social del Estado de Morelos.- Rúbrica; BENJAMIN PADILLA VALERA, Director General de Prevención y Readaptación Social del Estado de Nayarit.- Rúbrica; JOSE DE JESUS UREÑA MORENO, Subsecretario de Administración Penitenciaria del Estado de Nuevo León.- Rúbrica; MARIA JOSEFINA JAIME QUIROZ, Directora General de Prevención y Readaptación Social del Estado de Oaxaca.- Rúbrica; ALDO ENRIQUE CRUZ PEREZ, Director General de Centros de Readaptación Social del Estado de Puebla.- Rúbrica; VERONICA MAY VILLANUEVA, Directora General de Prevención y Readaptación Social del Estado de Quintana Roo.- Rúbrica; JUAN JOSE PEDRAZA TOVAR, Director General de Prevención y Readaptación Social del Estado de Querétaro.- Rúbrica; ROBERTO DELGADO CERVANTES, Director General de Prevención y Readaptación Social del Estado de San Luis Potosí.- Rúbrica; PEDRO E. CARDENAS PALAZUELOS, Director General de Prevención y Readaptación Social del Estado de Sinaloa.- Rúbrica; SAUL EUGENIO TORRES MILLAN, Coordinador General del Sistema Estatal Penitenciario del Estado de Sonora.- Rúbrica; GERMAN ARTURO GUTIERREZ CORTES, Director General de Prevención y Readaptación Social del Estado de Tabasco.- Rúbrica; ORLANDO SAUCEDO PINTA, Director General de Ejecución de Sanciones del Estado de Tamaulipas.- Rúbrica; JORGE MARIO GALAN DIAZ, Director General de Prevención y Readaptación Social del Estado de Tlaxcala.- Rúbrica; SAMUEL JUAREZ Y LOPEZ, Director General de Prevención y Readaptación Social del Estado de Veracruz.- Rúbrica; RAUL IVAN LOPEZ CARDENAS, Director de Prevención y Readaptación Social del Estado de Yucatán.- Rúbrica; NORMAN RODRIGUEZ MARTINEZ, Director de Prevención y Readaptación Social del Estado de Zacatecas.
 
 El Comisionado del Organo Administrativo Desconcentrado Prevención y Readaptación Social y Secretario Técnico de la Conferencia Nacional del Sistema Penitenciario, Eduardo Enrique Gómez García.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ESTATUTO.</small>
+
+D.O.F. 8 DE AGOSTO DE 2011.
+
+EL ACUERDO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL FEDERAL VIGENTE.
