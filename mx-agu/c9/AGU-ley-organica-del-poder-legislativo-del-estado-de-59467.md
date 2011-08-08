@@ -4,7 +4,7 @@ identifier: "AGU-ley-organica-del-poder-legislativo-del-estado-de-59467"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2008-02-04"
-last_updated: "2010-07-19"
+last_updated: "2011-08-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=59467&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE JULIO DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE AGOSTO DE 2011.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 4 de febrero de 2008.
 
@@ -751,13 +751,17 @@ XXII. De Ciencia y Tecnología;
 
 XXIII. De Asuntos Migratorios, Relaciones Internacionales e Interinstitucionales;
 
-> <small>(ADICIONADA, P.O. 10 DE MARZO DE 2008)</small>
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2011)</small>
 
-XXIV. De la Juventud; y
+XXIV. De la Juventud;
 
-> <small>(ADICIONADA, P.O. 10 DE MARZO DE 2008)</small>
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2011)</small>
 
-XXV. De Fomento Cooperativo y Economía Social.
+XXV. De Fomento Cooperativo y Economía Social; y
+
+> <small>(ADICIONADA, P.O. 8 DE AGOSTO DE 2011)</small>
+
+XXVI. De Desarrollo Metropolitano y Zonas Conurbadas.
 
 ###### ARTÍCULO 65.
 
@@ -1176,6 +1180,24 @@ II. Las normas jurídicas en el ámbito del Estado, relativas al ahorro y crédi
 III. La promoción del cooperativismo y solidaridad social; y
 
 IV. Otros análogas que a juicio del Presidente del Congreso o de la Diputación Permanente, en su caso, sean materia de tratamiento por la Comisión.
+
+> <small>(ADICIONADO, P.O. 8 DE AGOSTO DE 2011)</small>
+
+###### ARTICULO 87 Quater.
+
+Corresponde a la Comisión de Desarrollo Metropolitano el Estudio y Dictamen de los siguientes Asuntos:
+
+I. Legislar en materia de Desarrollo Metropolitano y de zonas conurbadas;
+
+II. Los encaminados al desarrollo, planeación y gestión de las zonas metropolitanas y conurbadas del Estado;
+
+III. Los relacionados con el crecimiento ordenado, equitativo o sustentable de las zonas metropolitanas y conurbadas del Estado;
+
+IV. Los referentes a mejorar la calidad de vida y la coordinación entre los niveles de gobierno en beneficio de los habitantes de las zonas metropolitanas y conurbadas;
+
+V. La gestión ante los tres órdenes de Gobierno de acciones, obras e inversiones para las zonas metropolitanas y conurbadas; y
+
+VI. Otras análogas que a juicio del Presidente del Congreso o de la Diputación Permanente, en su caso, sean materia de tratamiento por la Comisión.
 
 ###### ARTÍCULO 88.
 
@@ -1952,3 +1974,9 @@ El presente Decreto entrará en vigencia al día siguiente de su publicación en
 ###### ARTÍCULO SEGUNDO.
 
 Las referencias realizadas a la Comisión de Vigilancia de la Contaduría Mayor de Hacienda en la Ley Orgánica de la Contaduría Mayor de Hacienda del Estado de Aguascalientes, y en otros ordenamientos jurídicos vigentes, se entenderán realizadas a la Comisión de Vigilancia, con todas las facultades inherentes.
+
+P.O. 8 DE AGOSTO DE 2011.
+
+###### ARTÍCULO ÚNICO
+
+El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
