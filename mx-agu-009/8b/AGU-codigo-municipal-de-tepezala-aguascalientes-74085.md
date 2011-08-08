@@ -4,7 +4,7 @@ identifier: "AGU-codigo-municipal-de-tepezala-aguascalientes-74085"
 country: "mx"
 rank: "codigo"
 publication_date: "2010-03-22"
-last_updated: "2010-03-22"
+last_updated: "2011-08-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=74085&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 CODIGO MUNICIPAL
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE AGOSTO DE 2011.
 
 Código publicado en la Tercera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 22 de marzo de 2010.
 
@@ -635,67 +635,71 @@ El Presidente presidirá al Ayuntamiento y al Gobierno Municipal. Tendrá a su c
 
 El Presidente Municipal es el ejecutor de las determinaciones emanadas del Ayuntamiento, y el encargado de realizar la administración del municipio, atribuciones que le concede la Constitución Política de los Estados Unidos Mexicanos, La Constitución Política del Estado y la Ley Municipal para el Estado de Aguascalientes.
 
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2011)</small>
+
 ###### ARTÍCULO 42.
 
 El Presidente Municipal, tendrá las atribuciones que le confieran este Código, demás leyes federales y estatales y disposiciones aplicables. En forma enunciativa y no limitativa tendrá las facultades de:
 
-I. Promulgar y Publicar los reglamentos, bandos, códigos y demás disposiciones de carácter municipal;
+I.- Promulgar y Publicar los reglamentos, bandos, códigos y demás disposiciones de carácter municipal;
 
-II. Dar publicidad a las normas de carácter general aprobadas por el Ayuntamiento;
+II.- Dar publicidad a las normas de carácter general aprobadas por el Ayuntamiento;
 
-III. vigilar (sic) que la recaudación de la Hacienda Municipal, en todas sus ramas se realice con estricto apego a la ley de Ingresos Municipal de Tepezalá, en el ejercicio fiscal del año en que se actúe;
+III.- vigilar que la recaudación de la Hacienda Municipal, en todas sus ramas se realice con estricto apego a la Ley de Ingresos Municipal de Tepezalá, en el ejercicio fiscal del año en que se actúe;
 
-IV. Vigilar que el manejo y la inversión de los fondos municipales se realice con estricto apego al Presupuesto de Egresos;
+IV.- Vigilar que el manejo y la inversión de los fondos municipales se realice con estricto apego al Presupuesto de Egresos;
 
-V. Dar trámite y seguimiento a los asuntos que se presenten a su consideración;
+V.- Dar trámite y seguimiento a los asuntos que se presenten a su consideración;
 
-VI. Legalizar juntamente con el Secretario del Ayuntamiento toda correspondencia, actas y disposiciones emanadas del Ayuntamiento;
+VI.- Legalizar juntamente con el Secretario del Ayuntamiento toda correspondencia, actas y disposiciones emanadas del Ayuntamiento;
 
-VII. Vigilar e inspeccionar las áreas de la Administración Pública Municipal, cerciorándose de que cumplan cabalmente con las funciones encomendadas;
+VII.- Vigilar e inspeccionar las áreas de la Administración Pública Municipal, cerciorándose de que cumplan cabalmente con las funciones encomendadas;
 
-VIII. Conceder licencias para diversiones públicas, señalando conforme a la Ley de Ingresos la carga fiscal que deban de entregar los interesados a la Dirección de Finanzas Municipales;
+VIII.- Conceder licencias para diversiones públicas, señalando conforme a la Ley de Ingresos la carga fiscal que deban de entregar los interesados a la Dirección de Finanzas Municipales;
 
-IX. Tener bajo su mando directo los cuerpos de Seguridad Pública, nombrar y remover a los jefes y agentes de policía y tránsito del Ayuntamiento;
+IX.- Tener bajo su mando directo los cuerpos de Seguridad Pública, nombrar y remover a los jefes y agentes de policía y tránsito del Ayuntamiento;
 
-X. Dentro de su esfera competencial cumplir y hacer cumplir las leyes, tanto federales como locales, así como las disposiciones de carácter municipal;
+X.- Dentro de su esfera competencial cumplir y hacer cumplir las leyes, tanto federales como locales, así como las disposiciones de carácter municipal;
 
-XI. Tomar la protesta de ley a los Regidores y Síndico, así como a los demás funcionarios y empleados del Municipio, en términos de ley;
+XI.- Tomar la protesta de Ley a los Regidores y Síndico, así como a los demás funcionarios y empleados del Municipio, en términos de ley;
 
-XII. Proponer al Ayuntamiento los nombramientos del Secretario del Ayuntamiento, Director de Finanzas Municipal y proponer la terna para la elección del Director de Seguridad Pública y Tránsito Municipal;
+XII.- Proponer al Ayuntamiento los nombramientos del Secretario del Ayuntamiento, del Director de Seguridad Pública y Tesorero Municipal, así como nombrar a los demás funcionarios públicos municipales excepto cuando la Ley y el presente ordenamiento dispongan otro modo de designación;
 
-XIII. Otorgar los nombramientos a los Funcionarios Públicos Municipales;
+XIII.- Otorgar los nombramientos a los Funcionarios Públicos Municipales;
 
-XIV. Presidir y dirigir las sesiones del Cabildo;
+XIV.- Presidir y dirigir las sesiones del Cabildo;
 
-XV. Convocar a los Regidores y Síndico a las sesiones extraordinarias que se celebren, comunicándoles los asuntos a tratar;
+XV.- Convocar a los Regidores y Síndico a las sesiones extraordinarias que se celebren, comunicándoles los asuntos a tratar;
 
-XVI. Ejercer las facultades que corresponden al Ayuntamiento, por si o a través de los integrantes de la Administración Pública Municipal, de conformidad por lo dispuesto en el presente Código;
+XVI.- Ejercer las facultades que corresponden al Ayuntamiento, por si o a través de los integrantes de la Administración Pública Municipal, de conformidad por lo dispuesto en el presente Código;
 
-XVII. Ejecutar las órdenes y acuerdos emanados del Ayuntamiento;
+XVII.- Ejecutar las órdenes y acuerdos emanados del Ayuntamiento;
 
-XVIII. Presidir y dirigir el actuar de la Administración Pública Municipal;
+XVIII.- Presidir y dirigir el actuar de la Administración Pública Municipal;
 
-XIX. Celebrar a nombre del Ayuntamiento todos los convenios, contratos y actos necesarios para el adecuado funcionamiento de la Administración Pública Municipal y la adecuada prestación de los servicios Públicos Municipales;
+XIX.- Celebrar a nombre del Ayuntamiento todos los convenios, contratos y actos necesarios para el adecuado funcionamiento de la Administración Pública Municipal y la adecuada prestación de los servicios Públicos Municipales;
 
-XX. Expedir a la Tesorería Municipal las órdenes de pago conforme al Presupuesto de Egresos aprobado para el ejercicio fiscal del año en que se actúen; firmado en unión del regidor del ramo respectivo, con responsabilidad penal y pecuniaria de ambos funcionarios si autorizasen algún gasto no previsto en dicho presupuesto;
+XX.- Expedir a la Tesorería Municipal las órdenes de pago conforme al Presupuesto de Egresos aprobado para el ejercicio fiscal del año en que se actúe; firmado en unión del regidor del ramo respectivo, con responsabilidad penal y pecuniaria de ambos funcionarios si autorizasen algún gasto no previsto en dicho presupuesto;
 
-XXI. Informar anualmente al Ayuntamiento, al término del ejercicio fiscal, del estado que guarda la Administración Pública Municipal y de las actividades realizadas;
+XXI.- Informar anualmente al Ayuntamiento, al término del ejercicio fiscal, del estado que guarda la Administración Pública Municipal y de las actividades realizadas;
 
-XXII. Abstenerse de intervenir, participar o proponer la selección, nombramiento, designación, contratación o promoción de sus parientes;
+XXII.- Abstenerse de intervenir, participar o proponer la selección, nombramiento, designación, contratación o promoción de sus parientes;
 
-XXIII. Abstenerse durante el ejercicio de sus funciones, de solicitar, aceptar o recibir por sí o por persona interpósita, dinero, bienes muebles, inmuebles mediante la enajenación a su favor en un precio o condiciones notoriamente inferiores a las reales, así como la aceptación para sí o para sus parientes de donaciones;
+XXIII.- Abstenerse durante el ejercicio de sus funciones, de solicitar, aceptar o recibir por sí o por persona interpósita, dinero, bienes muebles, inmuebles mediante la enajenación a su favor en un precio o condiciones notoriamente inferiores a las reales, así como la aceptación para sí o para sus parientes de donaciones;
 
-XXIV. Capacitar al personal de las distintas instancias policiales para atender los casos de violencia contra las mujeres;
+XXIV.- Capacitar al personal de las distintas instancias policiales para atender los casos de violencia contra las mujeres;
 
-XXV. Establecer las acciones y medidas que se deberán tomar para la readaptación de los generadores de violencia;
+XXV.- Establecer las acciones y medidas que se deberán tomar para la readaptación de los generadores de violencia;
 
-XXVI. Implementar cursos y talleres de prevención contra la violencia de género;
+XXVI.- Implementar cursos y talleres de prevención contra la violencia de género;
 
-XXVII. Proporcionar a las víctimas de violencia la asesoría para conocer su situación jurídica y sus derechos;
+XXVII.- Proporcionar a las víctimas de violencia la asesoría para conocer su situación jurídica y sus derechos;
 
-XXVIII. Promover la cultura de respeto a los derechos fundamentales de las mujeres; y
+XXVIII.- Promover la cultura de respeto a los derechos fundamentales de las mujeres; y
 
-XXIX. Las demás que le confieran las leyes, el presente Código, los reglamentos u otras disposiciones legales.
+XXIX.- Las demás que le confieran las leyes, el presente Código, los reglamentos u otras disposiciones legales.
+
+Proponer al Ayuntamiento los nombramientos del Secretario del Ayuntamiento, del Director de Seguridad Pública y Tesorero Municipal, así como nombrar a los demás funcionarios públicos municipales excepto cuando la Ley y el presente ordenamiento dispongan otro modo de designación;
 
 ###### ARTÍCULO 43.
 
@@ -2203,13 +2207,15 @@ Cada una de las dependencias administrativas integrantes de la Administración P
 
 Las dependencias administrativas deberán de llevar a cabo sus funciones en forma ordenada y programada, de conformidad y para cumplir con los fines y objetivos trazados en el Plan Municipal de Desarrollo para el periodo que se trate. Pueden coordinar sus funciones con otras dependencias administrativas si así lo consideran pertinente para su correcto cumplimiento.
 
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2011)</small>
+
 ###### ARTÍCULO 224.
 
-las (sic) dependencias de la Administración Pública contarán con las siguientes unidades administrativas:
+las dependencias de la Administración Pública contarán con las siguientes unidades administrativas:
 
 I. De la oficina del Presidente Municipal:
 
-a) Secretaria Particular;
+a) Secretaría Particular;
 
 b) Secretaria.
 
@@ -2257,7 +2263,7 @@ b) El Chayote;
 
 c) Mesillas;
 
-d) carboneras (sic)
+d) Carboneras
 
 2. Comisarias Municipales:
 
@@ -2281,13 +2287,13 @@ i) La Victoria;
 
 j) Alamitos;
 
-k) los Hornos;
+k) Los Hornos;
 
-I) El Porvenir;
+l) El Porvenir;
 
 m) San Rafael;
 
-n) Col. el Progreso;
+n) Col. El Progreso,
 
 o) El Carmen;
 
@@ -2303,7 +2309,7 @@ b) Área Contable de Egresos;
 
 c) Área Contable de Ingresos;
 
-d) Área de Catastro;
+d) Área de Catastro.
 
 VII. Dirección de Servicios Públicos Municipales y Ecología:
 
@@ -2331,7 +2337,7 @@ b) Departamento de Promoción del Deporte;
 
 c) Subdirección de Desarrollo Agropecuario.
 
-IX. Oficialía Mayor Administrativa:(Dirección de Administración)
+IX. Oficialía Mayor Administrativa: (Dirección de Administración)
 
 a) Área de Recursos Humanos;
 
@@ -2349,6 +2355,8 @@ a) Departamento de Costos y precios unitarios;
 
 b) Departamento de Planeación y desarrollo urbano;
 
+b.1. Departamento de Profesionalización;
+
 c) Departamento de proyectos y supervisión de obras;
 
 d) Área administrativa y de concertación.
@@ -2357,7 +2365,7 @@ XI. Dirección de Seguridad Pública y Vialidad:
 
 a) Subdirección de Seguridad Pública;
 
-b) Departamento de Tránsito y Vialidad;
+b) Departamento de Transito y Vialidad;
 
 c) Departamento de Protección Civil. (Honorario).
 
@@ -2623,53 +2631,117 @@ XXIII. Lo demás que señale la Ley o el H. Ayuntamiento por conducto del Presid
 
 ### CAPÍTULO III. De la Secretaría del H. Ayuntamiento
 
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2011)</small>
+
 ###### ARTÍCULO 246.
 
 Corresponde a la Secretaría del H. Ayuntamiento lo siguiente:
 
-I. Ejercer las funciones que le señalan la Ley Municipal para el Estado de Aguascalientes y el Código Municipal;
+I.- Ejercer las funciones que le señalan la Ley Municipal para el Estado de Aguascalientes y el Código Municipal;
 
-II. Mantener el orden público, vigilando que las actividades de los particulares se desarrollen dentro de los límites de respeto a la vida privada, a la paz y a la moral pública;
+II.- Mantener el orden público, vigilando que las actividades de los particulares se desarrollen dentro de los límites de respeto a la vida privada, a la paz y a la moral pública;
 
-III. Ejercer las funciones que le correspondan en materia de Seguridad Pública;
+III.- Ejercer las funciones que le correspondan en materia de Seguridad Pública;
 
-IV. Participar en las sesiones como Secretario de Actas y para tal efecto pasar la lista de asistencia, dar lectura al acta de la sesión anterior, levantar las actas correspondientes y en general auxiliar al Presidente Municipal en el desarrollo de la sesión;
+IV.- Participar en las sesiones como Secretario de Actas y para tal efecto pasar la lista de asistencia, dar lectura al acta de la sesión anterior, levantar las actas correspondientes y en general auxiliar al Presidente Municipal en el desarrollo de la sesión;
 
-V. Rendir al Presidente Municipal un informe anual de labores de los asuntos de su competencia;
+V.- Rendir al Presidente Municipal un informe anual de labores de los asuntos de su competencia;
 
-VI. Aplicar las medidas de seguridad para un estricto control sanitario;
+VI.- Aplicar las medidas de seguridad para un estricto control sanitario;
 
-VII. Refrendar y validar con su firma los documentos oficiales que emanen del Ayuntamiento;
+VII.- Refrendar y validar con su firma los documentos oficiales que emanen del Ayuntamiento;
 
-VIII. Organizar, vigilar y coordinar las funciones de la Junta Municipal de Reclutamiento;
+VIII.- Organizar, vigilar y coordinar las funciones de la Junta Municipal de Reclutamiento;
 
 Expedir, por acuerdo del Presidente Municipal, los nombramientos de los servidores públicos municipales y llevar un registro de los mismos, así como de sus respectivas firmas;
 
-IX. Girar los citatorios para la celebración de las sesiones de cabildo del H. Ayuntamiento;
+IX.- Girar los citatorios para la celebración de las sesiones de cabildo del H. Ayuntamiento;
 
-X. Implantar y mantener un acervo ordenado de las leyes, decretos, reglamentos, periódicos oficiales, circulares y órdenes relativas a los distintos ramos de la administración pública municipal;
+X.- Implantar y mantener un acervo ordenado de las leyes, decretos, reglamentos, periódicos oficiales, circulares y órdenes relativas a los distintos ramos de la administración pública municipal;
 
-XI. Expedir licencias a establecimientos comerciales y coordinar la permanente verificación e inspección reglamentaria a los giros que lo requieran;
+XI.- Expedir licencias a establecimientos comerciales y coordinar la permanente verificación e inspección reglamentaria a los giros que lo requieran;
 
-XII. Aplicar las sanciones correspondientes por violaciones al presente Código de los giros municipales reglamentados;
+XII.- Aplicar las sanciones correspondientes por violaciones al presente Código de los giros municipales reglamentados;
 
-XIII. Proporcionar información a los miembros del H. Ayuntamiento relacionada con las sesiones a celebrar;
+XIII.- Proporcionar información a los miembros del H. Ayuntamiento relacionada con las sesiones a celebrar;
 
-XIV. Programar y coordinar las actividades de carácter cívico.
+XIV.- Programar y coordinar las actividades de carácter cívico;
 
-XV. Expedir en su caso las constancias de vecindad, radicación, identidad, según sea el caso;
+XV.- Expedir en su caso las constancias de vecindad, radicación, identidad, según sea el caso;
 
-XVI. Expedir en su caso los permisos para la celebración de eventos públicos extraordinarios;
+XVI.- Expedir en su caso los permisos para la celebración de eventos públicos extraordinarios;
 
-XVII. Tener bajo su cargo el registro del Libro de los Fierros de Herrar Municipal y registrar en su caso en los nuevos fierros;
+XVII.- Tener bajo su cargo el registro del Libro de los Fierros de Herrar Municipal y registrar en su caso en los nuevos fierros;
 
-XVIII. Dar el debido seguimiento a los asuntos acordados por el H. Ayuntamiento;
+XVIII.- Dar el debido seguimiento a los asuntos acordados por el H. Ayuntamiento;
 
-XIX. Tener bajo su guarda y custodia el archivo histórico del Municipio;
+XIX.- Tener bajo su guarda y custodia el archivo histórico del Municipio;
 
-XX. Autorizar en su caso las corridas de ganado que se le soliciten, previo estudio de las mismas y en coordinación con el Sindico Municipal;
+XX.- Autorizar en su caso las corridas de ganado que se le soliciten, previo estudio de las mismas y en coordinación con el Sindico Municipal;
 
-XXI. Acordar con el Presidente Municipal el despacho de los asuntos que le corresponden.
+XXI.- Acordar con el Presidente Municipal el despacho de los asuntos que le corresponden
+
+> <small>(ADICIONADO, P.O. 8 DE AGOSTO DE 2011)</small>
+
+ARTÍCULO 246 bis.- Corresponde a la Secretaría del H. Ayuntamiento a través de la Dirección de Seguridad Pública:
+
+I.- Coordinar la implementación de los planes de prevención del delito que se presenten en el municipio;
+
+II.- Ejercer las funciones propias de la policía preventiva en el municipio, establecidas en el presente Código;
+
+III.- Ejecutar las sanciones que impongan los jueces calificadores;
+
+IV.- Cuidar del orden y la seguridad de las personas;
+
+V.- Detener y presentar ante el Juez Calificador a los presuntos infractores de las faltas cívicas;
+
+VI.- Detener y presentar ante el Juez Calificador a quienes sean sorprendidos en (sic) cometiendo algún hecho presuntamente punible;
+
+VII.- Ejecutar las órdenes de presentación que se dicten con motivo de los procedimientos previstos por el presente Código;
+
+VIII.- Trasladar y custodiar a los infractores o presuntos delincuentes, a los lugares destinados para su arresto o retención;
+
+IX.- Cumplir los mandamientos escritos de autoridad competente que ordenen su intervención;
+
+X.- Velar porque en los planes parciales de urbanización y en las acciones urbanísticas las vialidades resuelvan en lo posible los conflictos y prevean las posibles dificultades que en el futuro plantee el crecimiento de la ciudad en materia de vialidad y tránsito;
+
+XI.- Instalar los señalamientos viales y el equipamiento urbano que se considere necesario para garantizar un adecuado, ágil y seguro, flujo vial;
+
+XII.- Aplicar la Ley de Vialidad y sus disposiciones reglamentarias en el ámbito de competencia municipal;
+
+XIII.- Cuidar que las vialidades permitan el tránsito fluido y seguro de los vehículos automotores y de las personas;
+
+XIV.- Cumplir con la tarea de educación vial que corresponde al Ayuntamiento. Capacitar a los ciudadanos y funcionarios en materia de prevención de desastres;
+
+XV.- Formular y proponer los Atlas de Riesgos municipales;
+
+XVI.- Realizar simulacros, para capacitar y alertar a la población;
+
+XVII.- Expedir los manuales operativos y de procedimientos donde se establezca la coordinación y los planes de contingencia entre los diversos organismos que tienen como competencia apoyar en caso de un desastre;
+
+XVIII.- Coordinar las acciones de las dependencias municipales y de los ciudadanos en casos de desastre;
+
+XIX.- Proponer al Presidente Municipal que declare el estado de emergencia en caso de desastre;
+
+XX.- Atender los siniestros que ocurran en el municipio;
+
+XXI.- Detectar posibles riesgos que pudieran convertirse en contingencias y desastres en zonas, fincas, establecimientos u objetos que pudieran ocasionar algún peligro;
+
+XXII.- Atender e investigar las quejas referentes a los elementos operativos que presente la ciudadanía;
+
+XXIII.- Supervisar de acuerdo a lo previsto por el presente Código, y demás reglamentos y leyes vigentes en la materia, la calificación de faltas administrativas en materia cívica y de vialidad, implementando los medios de control necesarios para tal efecto;
+
+XXIV.- Velar por los derechos humanos y la integridad física de las personas que por motivo de haber cometido una falta administrativa, estén bajo resguardo de la Dirección, o bien que al haber cometido un ilícito de carácter federal o del fuero común se encuentren bajo la tutela de la misma, en lo que se da conocimiento de la autoridad competente, lo cual deberá ser en el menor tiempo posible;
+
+XXV.- Supervisar que se aplique el correcto estado de derecho, certificando médicamente el estado físico y psicomotriz en que se encuentren las personas que sean remitidas al juez calificador;
+
+XXVI.- Supervisar y controlar al personal de nuevo ingreso, llevando un control interno de las incidencias, incapacidades y control del rendimiento, con la finalidad de incentivar al personal que así lo amerite;
+
+XXVII.- Llevar un control estricto sobre los recursos materiales existentes en la Dirección, mostrando dicho control al personal de la Secretaría de la Defensa Nacional y demás instancias que así lo requieran para su evaluación y control;
+
+XXVIII.- Brindar el apoyo necesario a los inspectores o verificadores de las diversas áreas de la Presidencia Municipal; y
+
+XI (SIC).- Las demás que le otorguen las leyes, el presente Código o le encomiende el H. Ayuntamiento por conducto del Presidente Municipal.
 
 ### CAPÍTULO IV. De la Dirección de Asuntos Jurídicos
 
@@ -4293,7 +4365,7 @@ De igual forma se preferirá a un proveedor que este asentado en el municipio, d
 
 ###### ARTÍCULO 414.
 
-Para ser inscrito en el Padrón, se presentará por escrito la solicitud ante el Secretario Ejecutivo del Comité y éste resolverá en un término máximo de I5 días, sin que proceda recurso alguno contra dicha resolución.
+Para ser inscrito en el Padrón, se presentará por escrito la solicitud ante el Secretario Ejecutivo del Comité y éste resolverá en un término máximo de 15 días, sin que proceda recurso alguno contra dicha resolución.
 
 Asimismo, se procederá a la cancelación del registro al proveedor que solicite la declaración de quiebra, concurso o suspensión de pagos o al que no cumpla con los términos y condiciones de un pedido o contrato.
 
@@ -5141,7 +5213,7 @@ V. Permitir la estancia de personas que ejerzan la prostitución dentro de los m
 
 VI. Permitir o tomar parte en juegos de azar o de apuestas de cualquier tipo dentro del mercado;
 
-VII. Exceder el volumen 68 de (sic) decibeles, según la Norma Oficial Mexicana (NOM) 08I de los altoparlantes, estéreos y radios;
+VII. Exceder el volumen 68 de (sic) decibeles, según la Norma Oficial Mexicana (NOM) 081 de los altoparlantes, estéreos y radios;
 
 VIII. Adoptar actitudes obscenas o utilizar lenguaje que sea contrario a las buenas costumbres o que afecte a la moral de las personas;
 
@@ -5161,7 +5233,7 @@ El horario general de funcionamiento del comercio en los tianguis será como sig
 
 I. De 6:00 a 9:00 horas para su instalación;
 
-II. De 9:00 a I5:00 horas para ejercer su actividad comercial;
+II. De 9:00 a 15:00 horas para ejercer su actividad comercial;
 
 III. De 15:00 a 16:00 horas para retirar sus puestos y mercancía;
 
@@ -6637,7 +6709,7 @@ En las cantinas y bares se permitirán los juegos de mesa tales como; ajedrez, d
 
 ###### ARTÍCULO 731.
 
-Merendero es todo establecimiento destinado de manera primordial a la venta y consumo de bebidas al copeo y que de manera secundaria ofrecen al público comida y/o botanas preparadas y funcionará de las 12:00 horas a las 24:00 horas, se permitirá el ingreso a menores acompañados de un adulto y su permanencia será hasta las I9:00 horas.
+Merendero es todo establecimiento destinado de manera primordial a la venta y consumo de bebidas al copeo y que de manera secundaria ofrecen al público comida y/o botanas preparadas y funcionará de las 12:00 horas a las 24:00 horas, se permitirá el ingreso a menores acompañados de un adulto y su permanencia será hasta las 19:00 horas.
 
 ###### ARTÍCULO 732.
 
@@ -7199,105 +7271,183 @@ Las Dependencias o Entidades Municipales a quienes se soliciten los dictámenes 
 
 El H. Cabildo mediante declaratorio (sic) que se publique en el Periódico Oficial del Estado puede decretar el establecimiento de zonas comerciales, y que consistirán en lugares determinados para fomento del turismo y la actividad comercial, en los cuales se eximirá del cumplimiento de la fracción cuarta del presente Artículo y se podrán ofrecer estímulos para el establecimiento de negocios.
 
+(REPUBLICADO, P.O. 8 DE AGOSTO DE 2011)
+
 # LIBRO SÉPTIMO. DE LA SEGURIDAD PÚBLICA Y VIALIDAD MUNICIPAL
+
+(REPUBLICADO, P.O. 8 DE AGOSTO DE 2011)
 
 ## TÍTULO PRIMERO. DE LA SEGURIDAD PÚBLICA
 
-### CAPÍTULO I. Disposiciones Generales
+(REPUBLICADO, P.O. 8 DE AGOSTO DE 2011)
+
+### CAPITULO I. Disposiciones Generales
+
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2011)</small>
 
 ###### ARTÍCULO 818.
 
-las disposiciones del presente Libro tiene por objeto reglamentar la función de seguridad pública y vialidad en el Municipio de Tepezalá, así como establecer las bases de coordinación entre la Federación, el Estado y el Municipio en estas materias.
+Las disposiciones del presente Libro tiene (sic) por objeto reglamentar la función de seguridad pública y vialidad en el Municipio de Tepezalá, así como establecer las bases de coordinación entre la Federación, el Estado y el Municipio en estas materias.
+
+Estas disposiciones son reglamentarias, de organización y función relativas a la operación de la Dirección de Seguridad Pública y Vialidad, teniendo por objeto regular la conformación, organización, actuación y su funcionamiento de la Secretaría, siendo de observancia obligatoria para todo su personal.
+
+La coordinación en un marco de respeto a las atribuciones entre las instancias de la Federación, el Estado y el municipio, es el eje de la seguridad pública.
+
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2011)</small>
 
 ###### ARTÍCULO 819.
 
-La Seguridad Pública es la función a cargo de la Federación, el Estado y sus Municipios que tiene como fines prevenir el delito, salvaguardar la integridad y derechos de las personas, así como preservar el orden público y la paz social.
+La Seguridad Pública es una función a cargo de la Federación, el Distrito Federal, los Estados y los Municipios, en el ámbito de sus respectivas competencias. En términos de los artículos 21 y 115 de la Constitución Política de los Estados Unidos Mexicanos, el Municipio de Tepezalá, Aguascalientes deberá prevenir los delitos y las faltas administrativas, salvaguardar la integridad y derechos de las personas, así como preservar el orden público y la paz social
+
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2011)</small>
 
 ###### ARTÍCULO 820.
 
-Para los efectos de este libro, se entenderá por:
+Para los efectos de este libro se entenderá por:
 
-I. Comisión: la Comisión de Honor y Justicia;
+I.- Dirección: A la Dirección de Seguridad Pública Municipal;
 
-II. Consejo: al Consejo Municipal de Seguridad Pública;
+II.- Director: Al titular de la Dirección de Seguridad Pública Municipal;
 
-III. Corporaciones auxiliares: los Cuerpos Operativos de Protección Civil Municipal; los Cuerpos de Bomberos y Rescate; Las (sic) empresas de Seguridad Privada y de similar naturaleza que operen o se instalen en el Municipio; y las demás que se constituyan can (sic) apego a las leyes;
+III.- Comisión de Honor y Justicia: Es el Órgano colegiado de la Dirección de Seguridad Pública Municipal, encargado de conocer, resolver y sancionar los casos de faltas cometidas por los elementos de Seguridad Pública en servicio o fuera de él, por actos u omisiones que de cualquier forma infrinjan los principios de actuación y normas disciplinarias previstos en el presente ordenamiento, así como otorgar reconocimientos a las acciones relevantes en que intervinieron los miembros de la Dirección;
 
-IV. Dirección la Dirección de Seguridad Pública y Vialidad del Municipio de Tepezalá;
+IV.- Personal: Todos los empleados de la Dirección de Seguridad Pública Municipal;
 
-V. Director: el Director de Seguridad Pública y Vialidad del Municipio de Tepezalá;
+V.- Integrantes operativos: A todo el personal en activo de Policía Preventiva y Vialidad que se les atribuye ese carácter mediante el nombramiento correspondiente y que sus funciones son aquellas inherentes a la prestación del servicio de seguridad pública en forma directa, y no forman parte del área administrativa;
 
-VI. Instituto: al Instituto Estatal de Seguridad Pública de Aguascalientes; y (sic)
+VI.- Personal Administrativo: Es el personal que compone el área administrativa de la Dirección, integrada por empleados municipales que desarrollan actividades de carácter estrictamente administrativo.
 
-VII. Elemento operativo: Al personal adscrito a la Dirección en virtud de nombramiento o contrato celebrado con la Presidencia Municipal, con excepción de quienes desempeñen funciones de carácter estrictamente administrativo;
+Este personal estará obligado a prestar sus servicios en cualquier momento y en cualquier tiempo que las necesidades del servicio lo requieran por motivos de seguridad pública, previamente acreditados o para evitar el entorpecimiento del actuar operativo de la Dirección, sin perjuicio de sus derechos laborales. Asimismo no formará parte del área operativa y se regirá por el Título Séptimo, Capitulo Cuarto, del Libro Cuarto de este Código y lo previsto en la Ley de Responsabilidades de los Servidores Públicos del Estado de Aguascalientes y demás instrumentos normativos aplicables.
 
-VIII. Presidente: Al Presidente Municipal de Tepezalá; y
+VII.- Corporaciones auxiliares: Los Cuerpos Operativos de Protección Civil Municipal; Los Cuerpos de Bomberos y Rescate; Las empresas de Seguridad Privada y de similar naturaleza que operen o se instalen en el Municipio; y las demás que se constituyan con apego a las leyes;
 
-IX. Al Centro Municipal de Comunicaciones en materia de Seguridad Pública y Protección Civil.
+VIII.- Instituto: al Instituto Estatal de Seguridad Pública de Aguascalientes;
+
+IX.- Ley: la Ley de Seguridad Pública del Estado; y
+
+X.- Presidente: Al Presidente Municipal de Tepezalá;
+
+XI.- C-4: Al Centro Municipal de Comunicaciones en materia de Seguridad Pública y Protección Civil.
+
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2011)</small>
 
 ###### ARTÍCULO 821.
 
 Son autoridades municipales en materia de Seguridad Pública:
 
-I. El Presidente Municipal;
+I.- El Presidente Municipal;
 
-II. El Secretario: El H. Ayuntamiento;
+II.- El Secretario del H. Ayuntamiento;
 
-III. El Consejo Municipal de Seguridad Pública;
+III.- El Director de Seguridad Pública;
 
-IV. El Director de Seguridad Pública y Vialidad;
+IV.- Los mandos medios e intermedios de la Dirección;
 
-V. Los mandos medios e intermedios de la Dirección;
+V.- El personal en activo de Policía Preventiva;
 
-VI. Los elementos operativos; y
+VI.- El encargado del Servicio de Bomberos;
 
-VII. Los demás elementos de las corporaciones auxiliares.
+VII.- Los demás elementos de las corporaciones auxiliares.
 
 Para efectos del presente artículo el Consejo Municipal de Seguridad Pública no tendrá facultades de mando y únicamente actuará como organismo asesor.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 8 DE AGOSTO DE 2011)</small>
 
 ###### ARTÍCULO 822.
 
 El Gobernador del Estado, en los casos que juzgue como de fuerza mayor o alteración grave del orden público, dispondrá de la Policía Preventiva. Del ejercicio de esta facultad, informará al Congreso del Estado por escrito.
 
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2011)</small>
+
 ###### ARTÍCULO 823.
 
-Las autoridades de Seguridad Pública serán las encargadas de prevenir la comisión de delitos, poner a disposición del juez calificador a los infractores de faltas de policía y otras de carácter administrativo cometido en el territorio municipal, y levantar infracciones de tránsito.
+Para cumplir con los objetivos de Seguridad Pública la Dirección desarrollará las siguientes funciones específicas:
 
-Asimismo, combatirán las causas que generan la comisión de faltas, delitos y conductas antisociales, formulando y desarrollando políticas, planes, programas y acciones para fomentar en la sociedad valores culturales y cívicos que induzcan el respeto a la legalidad.
+I.- Investigación, que será realizada a través de sistemas homologados de recolección, clasificación, registro, análisis, evaluación y explotación de información;
+
+II.- Prevención, que se realizará a través de las actividades encaminadas a evitar o disminuir la comisión de delitos e infracciones administrativas, así como realizar las acciones de inspección, vigilancia y vialidad;
+
+III.- Reacción, que será la encargada de garantizar, mantener y restablecer el orden y la paz pública; y
+
+Para la eficiente y eficaz prestación del servicio de seguridad pública, la Dirección cuenta con las siguientes atribuciones:
+
+I.- Proteger la integridad física de las personas y preservar sus bienes ante situaciones de peligro y cualquier amenaza o disturbio que implique violencia o riesgo inminente, así como garantizar, mantener y restablecer la paz y el orden público dentro del territorio del Municipio;
+
+II.- Coordinarse y colaborar con las autoridades federales, estatales y municipales en el ejercicio de sus funciones de vigilancia, verificación e inspección. Así como en los casos en que se requiera el uso de la fuerza pública;
+
+III.- Prevenir la comisión de delitos e infracciones a las leyes y reglamentos a través de disposiciones y acciones concretas para preservar la paz social;
+
+IV.- Colaborar en la investigación y persecución de los delitos, siendo auxiliar del Ministerio Público, del Poder Ejecutivo y del Poder Judicial, tanto federales como del Estado, de conformidad con lo dispuesto en la Constitución Política de los Estados Unidos Mexicanos y demás disposiciones legales aplicables;
+
+V.- Vigilar, aplicar y hacer cumplir, en el ámbito de su competencia, las disposiciones contenidas en la Ley de Vialidad del Estado de Aguascalientes y en el Reglamento de Tránsito del Municipio de Tepezalá, Aguascalientes y;
+
+VI.- Practicar detenciones de personas y el aseguramiento de bienes en los casos previstos en el artículo 16 de la Constitución Política de los Estados Unidos Mexicanos, así como los responsables por la presunta comisión de faltas administrativas o hechos delictivos en los términos de ley;
+
+VII.- Poner a disposición de las autoridades competentes, en forma inmediata, a las personas detenidas y los bienes que en su caso se hayan asegurado;
+
+VIII.- Vigilar e inspeccionar, para fines de Seguridad Pública, la zona terrestre de las vías generales de comunicación y los medios de transporte que operen en el Municipio de Tepezalá, Aguascalientes;
+
+IX.- Realizar investigaciones en el ámbito de su competencia, derivadas de la comisión de delitos y faltas administrativas cometidos dentro del municipio; y
+
+XI.- Las demás que expresamente señalen las normas aplicables en la materia.
+
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2011)</small>
 
 ###### ARTÍCULO 824.
 
-La función mencionada en el Artículo anterior se enmarcará en el respeto a las garantías individuales y tiene por objeto:
+Corresponde a la Dirección de Seguridad Pública lo siguiente:
 
-I. Mantener el orden público y la paz social en el Municipio;
+I.- Mantener la tranquilidad y el orden público, vigilando permanentemente el territorio municipal, apegándose a la división delegacional que consigna el presente Código; en la zona rural del territorio del Municipio, deberá apoyar en sus funciones a los Delegados y Comisarios Municipales y efectuar una estrecha vigilancia en los poblados y rancherías.
 
-II. Proteger la integridad y los derechos de las personas;
+II.- Proteger la integridad física, la seguridad y bienes de las personas que se encuentren en el territorio municipal, a través de medidas que prevengan actos que perturben o pongan en peligro los bienes jurídicamente tutelados.
 
-III. Promover, coordinar y aplicar los programas de prevención de delitos y faltas a las leyes y Reglamento (sic), de la Federación del Estado y del Municipio;
+III.- Prevenir la comisión de delitos e infracciones de leyes y reglamentos a través de disposiciones y acciones para preservar el orden público.
 
-IV. Establecer los mecanismos do (sic) coordinación y colaboración en la investigación y persecución de los delitos y de los delincuentes; y
+IV.- Colaborar en la investigación y persecución de delitos, como auxiliar del Ministerio Público, del Poder Ejecutivo y del Poder Judicial, tanto Federal como Estatal, de conformidad con lo dispuesto en la Constitución Política de los Estados Unidos Mexicanos.
 
-V. Auxiliar a la población civil en casos de siniestros y desastres naturales, y en su caso mitigar sus efectos.
+V.- Auxiliar a la población en casos de siniestros y desastres.
+
+VI.- Vigilar el cumplimiento de las normas de tránsito de vehículos y peatones dentro del Municipio.
+
+VII.- Auxiliar y coordinarse con las autoridades municipales, estatales y federales, en los casos en que se requiera el uso de la fuerza pública.
+
+VIII.- Desarrollar y aplicar políticas, programas y acciones en materia de prevención del delito, mediante la implementación de procesos conjuntos con la sociedad.
+
+IX.- Prestar atención psicológica a los miembros de la corporación durante el tiempo que presten sus servicios en la Dirección de Seguridad Pública, así como evaluar los métodos de reclutamiento a fin de incrementar la eficiencia de dicho proceso, identificando las características intelectuales, sociales, afectivas y físicas de cada elemento.
+
+X.- Prestar el servicio de seguridad pública desarrollando las funciones de investigación, prevención y reacción en el ámbito de su competencia.
+
+XI.- Propiciar el desarrollo profesional de sus integrantes.
+
+XII.- Las demás que le señale la Ley, Reglamentos o el H. Ayuntamiento por conducto del Presidente Municipal.
+
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2011)</small>
 
 ###### ARTÍCULO 825.
 
-La Dirección dotará a todo elemento operativo, con credencial que los identifique como personal de la Dirección que contendrá el nombre de la corporación a la que pertenece, su nombre, grado jerárquico, fotografía cancelada con sello de la Dirección, Clave Única de Registro de Población, fecha de expedición y de vencimiento, así como la validación que se hace con la firma del Director, la cual también deberá de contener la firma del Presidente Municipal.
+La Dirección dotará a todo el personal en activo de Policía Preventiva con credencial que los identifique como personal de la Dirección que contendrá el nombre de la corporación a la que pertenece, su nombre, grado jerárquico, fotografía cancelada con sello de la Dirección, Clave Única de Registro de Población, fecha de expedición y de vencimiento, así como la validación que se hace con la firma del Director, la cual también deberá de contener la firma del Presidente Municipal.
+
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2011)</small>
 
 ###### ARTÍCULO 826.
 
-Mientras se tramita la licencia oficial colectiva de aportación (sic) de armas de fuego, se le proporcionará a la Dirección General de Seguridad Pública del Estado toda la información necesaria y se le otorgarán las facilidades para llevar a cabo las evaluaciones que requiera la Secretaria de la Defensa Nacional para la renovación, mantenimiento y cuidado de la licencia colectiva.
+Mientras se tramita la licencia oficial colectiva de portación de armas de fuego, se le proporcionará a la Dirección General de Seguridad Pública del Estado toda la información necesaria y se le otorgarán las facilidades para llevar a cabo las evaluaciones que requiera la Secretaría de la Defensa Nacional para la renovación, mantenimiento y cuidado de la licencia colectiva.
+
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2011)</small>
 
 ###### ARTÍCULO 827.
 
-Queda estrictamente prohibido al elemento operativo la portación de armas de fuego de propiedad particular para el ejercicio de sus funciones.
+Queda estrictamente prohibido al el (sic) personal en activo de Policía Preventiva, la portación de armas de fuego de propiedad particular para el ejercicio de sus funciones.
+
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2011)</small>
 
 ###### ARTÍCULO 828.
 
-La Dirección tendrá de manera optativa bajo su mando al Cuerpo de Bomberos, de rescate, paramédicos municipales y a la Unidad Municipal de Protección Civil, cuya integración se encuadrará en el Organigrama que apruebe el H. Ayuntamiento a propuesta del Presidente, y contará con los elementos indispensables para su operación.
+La Dirección tendrá bajo su mando al Cuerpo de Bomberos, de rescate, paramédicos municipales y a la Unidad Municipal de Protección Civil, cuya integración se encuadrará en el Organigrama que apruebe el H. Ayuntamiento a propuesta del Presidente, y contará con los elementos indispensables para su operación.
 
-###### ARTÍCULO 829.
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2011)</small>
 
-La función del Cuerpo de Bomberos y de Protección Civil, es la de prevenir y combatir incendios, explosiones de gases, derrames de combustibles o productos químicos, derrumbes de construcciones, fugas de gases tóxicos o combustibles, cortos circuitos y accidentes causados por equipo y material eléctrico, rescate de personas vivas o muertas, control de inundaciones, aseguramiento o destrucción de animales peligrosos y otros eventos en los que a juicio de la Dirección deba intervenir.
+ARTÍCULO 828 (SIC).- La función del Cuerpo de Bomberos y de Protección Civil, es la de prevenir y combatir incendios, explosiones de gases, derrames de combustibles o productos químicos, derrumbes de construcciones, fugas de gases tóxicos o combustibles, cortos circuitos y accidentes causados por equipo y material eléctrico, rescate de personas vivas o muertas, control de inundaciones, aseguramiento o destrucción de animales peligrosos y otros eventos en los que a juicio de la Dirección deba intervenir.
 
 ###### ARTÍCULO 830.
 
@@ -7331,11 +7481,23 @@ h) Suboficial: Un rombo.
 
 Los uniformes, insignias y divisas de los elementos de Seguridad Privada y corporaciones auxiliares, serán diferentes a las que porten los elementos operativos de la Dirección.
 
-### CAPÍTULO II. Del Sistema Municipal de Seguridad Pública
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2011)</small>
+
+### CAPÍTULO II. Del Sistema Municipal De Seguridad Pública
+
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2011)</small>
 
 ###### ARTÍCULO 833.
 
-Se establece el Sistema Municipal de Seguridad Pública, en el cual se coordinará el Municipio con el Estado y la Federación en los términos de lo dispuesto en el ARTÍCULO 2I de la Constitución Política de los Estados Unidos Mexicanos y se integrará con las instancias y acciones previstas en el presente ordenamiento y en otras disposiciones aplicables tendientes a la realización del objeto de este Libro.
+El Sistema Municipal de Seguridad Pública, en el cual se coordinará el Municipio con el Estado y la Federación en los términos de lo dispuesto en el Artículo 21 de la Constitución Política de los Estados Unidos Mexicanos y se integrará con las instancias y acciones previstas en el presente ordenamiento, en la Ley del Sistema Estatal de Seguridad Pública de Aguascalientes y en otras disposiciones aplicables tendientes a la realización del objeto de este Libro.
+
+El sistema se integrará de la siguiente manera:
+
+I.- El Consejo Municipal de Seguridad Pública;
+
+II.- Las Instituciones Policiales con presencia en el Municipio;
+
+III.- Las Instancias de coordinación, equipos, programas, información, servicios y acciones tendientes a cumplir con los propósitos de la materia.
 
 ###### ARTÍCULO 834.
 
@@ -7353,17 +7515,19 @@ El Presidente podrá proponer convenios para la división del territorio municip
 
 Las Instituciones que integran el Sistema Municipal de Seguridad Pública realizarán las funciones de prevención de conductas ilícitas, sanción de faltas y custodia de individuos sujetos a detención conforme a la legislación vigente, así como los organismos y servicios auxiliares existentes o que en lo sucesivo se creen, independientemente de la denominación o adscripción administrativa que ostenten.
 
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2011)</small>
+
 ###### ARTÍCULO 838.
 
-Para el ejercicio de sus atribuciones, el Sistema Municipal de Seguridad pública se integrará de la siguiente manera:
+Para el ejercicio de sus atribuciones, el Sistema Municipal de Seguridad Pública se integrará de la siguiente manera:
 
-I. Consejo Municipal de Seguridad Pública;
+I.- Consejo Municipal de Seguridad Pública;
 
-II. Consejo y Comités municipales de Consulta y Participación Ciudadana;
+II.- Consejo y Comités municipales de Consulta y Participación Ciudadana;
 
-III. Sistema Municipal de Información, Comunicaciones y Servicios de Atención a la Ciudadanía; y
+III.- Sistema Municipal de Información, Comunicaciones y Servicios de Atención a la Ciudadanía; y
 
-IV. Corporación de Seguridad Pública y Vialidad.
+IV.- Dirección de Seguridad Pública.
 
 ### CAPÍTULO III. Del Consejo Municipal de Seguridad Pública
 
@@ -7523,15 +7687,39 @@ El Consejo Municipal de Consulta y Participación Ciudadana promoverá que las v
 
 El Consejo Municipal de Consulta y Participación Ciudadana en apoyo a la realización de los Programas Municipal, Estatal y Nacional de Seguridad Pública fomentará la cultura de la prevención del delito, la legalidad, los valores de la justicia y el respeto a los demás.
 
+(REPUBLICADO, P.O. 8 DE AGOSTO DE 2011)
+
 ### CAPÍTULO V. De la Coordinación en Materia de Seguridad Pública
+
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2011)</small>
 
 ###### ARTÍCULO 854.
 
-Las Instituciones de Seguridad Pública establecerán programas normativos, operativos y de supervisión dentro del marco de los Programas Municipal, Estatal y Federal de Seguridad Pública.
+El Presidente Municipal y la Dirección de Seguridad Pública establecerán programas normativos, operativos y de supervisión dentro del marco de sus respectivas competencias, estableciendo la coordinación con las Instituciones Policiales Estatales y Federales, y buscarán que además de los propósitos específicos o que consideren convenientes establecer de acuerdo al ejercicio de sus facultades, se avance en el cumplimiento de las siguientes materias:
+
+I.- Sistemas expeditos para el intercambio de información policial que facilite el desarrollo de sus actividades;
+
+II.- Cooperación en la instrumentación de operativos;
+
+III.- Intercambio académico y práctico para la profesionalización de las Instituciones Policiales;
+
+IV.- Auxilio en los casos de desastre y siniestros.
+
+V.- Procedimientos de selección, formación, permanencia, promoción y retiro;
+
+IV.- Sistemas disciplinario, de estímulos y recompensas;
+
+V.- Mecanismos y lineamientos conforme a los cuales la Policía Preventiva y los Cuerpos de Seguridad privada actuarán bajo la autoridad y mando del Ministerio Público cuando intervengan como auxiliar de éste en la averiguación o persecución de los delitos;
+
+VI.- Relación con la comunidad y fomento a la cultura de prevención de faltas cívicas y delitos; y
+
+VII.- Las demás que determinen las leyes y que resulten necesarias para incrementar la eficacia de las medidas y acciones tendientes a alcanzar los fines de Seguridad Pública, o mediante convenios y bases de coordinación entre instituciones que al efecto celebren.
+
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2011)</small>
 
 ###### ARTÍCULO 855.
 
-Los programas normativos consisten en el diseño y definición de políticas con el establecimiento de objetivos, estrategias y acciones a ejecutar en el ámbito de la Seguridad Pública.
+Los programas normativos consisten en el diseño y definición de políticas con el establecimiento de objetivos, estrategias y acciones a ejecutar en Seguridad Pública.
 
 ###### ARTÍCULO 856.
 
@@ -7541,193 +7729,547 @@ Son programas operativos de las Corporaciones de Seguridad, todos los que contem
 
 Se entiende por programa de supervisión a la verificación, control y evaluación del cumplimiento de objetivos y estrategias a través de las acciones realizadas.
 
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2011)</small>
+
 ###### ARTÍCULO 858.
 
-La coordinación a que se refiere este capítulo comprende las acciones de las Instituciones de Seguridad Pública inherentes a la consecución de los objetivos de este ordenamiento abarcando las materias siguientes:
+Para efectos de los operativos que deban implementarse de manera conjunta entre las Instituciones Policiales, el titular de la Secretaría de Seguridad Pública del Estado tendrá a su cargo la coordinación en la materia.
 
-I. Sistemas expeditos para el intercambio de información que facilite el desarrollo de sus actividades;
+> <small>(REFORMADA SU DENOMINACION, P.O. 8 DE AGOSTO DE 2011)</small>
 
-II. Intercambio académico y de experiencias para robustecer el desempeño profesional del personal de Seguridad Pública;
+### CAPÍTULO VI. De la Dirección de Seguridad Pública
 
-III. Procedimientos de selección, formación permanencia, promoción y retiro;
-
-IV. Sistemas disciplinario, de estímulos y recompensas;
-
-V. Mecanismos y lineamientos conforme a los cuales la Policía Preventiva y los Cuerpos de Seguridad privada actuarán bajo la autoridad y mando del Ministerio Público cuando intervengan como auxiliar de éste en la averiguación o persecución de los delitos;
-
-VI. Relación con la comunidad y fomento a la cultura de prevención de faltas cívicas y delitos; y
-
-VII. Las demás que determinen las leyes y que resulten necesarias para incrementar la eficacia de las medidas y acciones tendientes a alcanzar los fines de Seguridad Pública, o mediante convenios y bases de coordinación entre instituciones que al efecto celebren.
-
-### CAPÍTULO VI. De la Dirección
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2011)</small>
 
 ###### ARTÍCULO 859.
 
-La Dirección es una Dependencia de la Administración Pública del Gobierno Municipal, que depende jerárquicamente de la Secretaría del Ayuntamiento que tiene como objetivo prevenir la comisión de delitos y la violación a las leyes, reglamentos, el presente Código y demás disposiciones jurídicas en el ámbito municipal, con la coordinación y respeto a las competencias federal y estatal que establecen las Constituciones Políticas de los Estados Unidos Mexicanos y la del Estado.
+La Dirección de Seguridad Pública estará a cargo de un Director y conformada al menos por las Unidades Administrativas mencionadas en el artículo 224 de este Código, la que para su funcionamiento estará dividida en dos áreas:
+
+I.- La Administrativa; y
+
+II.- La Operativa.
+
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2011)</small>
 
 ###### ARTÍCULO 860.
 
-El conjunto de elementos operativos de la Dirección tendrá la denominación de Policía Preventiva Municipal, cuya función será la vigilancia y prevención del delito dentro del territorio y jurisdicción municipal, y la ejecución de las sanciones de los infractores a los ordenamientos administrativos aplicables.
+El conjunto de elementos operativos de la Dirección tendrá la denominación de Policía Municipal, cuya función será la vigilancia y prevención del delito dentro del territorio municipal, y la ejecución de las sanciones de los infractores a los ordenamientos administrativos aplicables.
+
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2011)</small>
 
 ###### ARTÍCULO 861.
 
-Son atribuciones de la Dirección de Seguridad Pública y Vialidad Municipal las siguientes:
+Son atribuciones de la Dirección, sin perjuicio de las determinadas en otras disposiciones legales, las siguientes:
 
-I. Acordar con el Presidente Municipal, lo relacionado con los programas, objetivos, estrategias y acciones tendientes al buen funcionamiento administrativo y operativo de la Dirección y las Corporaciones auxiliares;
+I.- Acordar con el Presidente Municipal, lo relacionado con los programas, objetivos, estrategias y acciones tendientes al buen funcionamiento administrativo y operativo de la Dirección y las Corporaciones auxiliares;
 
-II. Vigilar y cuidar el orden público en el territorio Municipal para proteger la integridad, patrimonio y derechos de sus habitantes, en coordinación con las dependencias que de acuerdo con la normatividad estatal y federal, realicen las funciones de Policía Preventiva, Vialidad y Tránsito;
+II.- Vigilar y cuidar el orden público en el territorio Municipal para proteger la integridad, patrimonio y derechos de sus habitantes, en coordinación con las dependencias que de acuerdo con la normatividad estatal y federal, realicen las funciones de Policía Municipal, Vialidad y Tránsito;
 
-III. Auxiliar a las Autoridades Judiciales, Administrativas, al Ministerio Público y a los Municipios en los casos urgentes, o en los términos de los convenios de colaboración respectivos;
+III.- Auxiliar a las Autoridades Judiciales, Administrativas, al Ministerio Público y a los Municipios en los casos urgentes, o en los términos de los convenios de colaboración respectivos;
 
-IV. Establecer las estrategias para la prevención del delito, conforme a las necesidades que generen los índices delictivos y vigilar las áreas de alto riesgo;
+IV.- Establecer las estrategias para la prevención del delito, conforme a las necesidades que generen los índices delictivos y vigilar las áreas de alto riesgo criminógeno;
 
-V. Celebrar convenios de coordinación con las diferentes Instituciones relacionadas con la Seguridad Pública para el logro de sus objetivos;
+V.- Celebrar convenios de coordinación con las diferentes Instituciones relacionadas con la Seguridad Pública para el logro de sus objetivos;
 
-VI. Asistir a las juntas y reuniones para efecto de coordinar políticas relacionadas con la Prevención del delito;
+VI.- Asistir a las juntas y reuniones para efecto de coordinar políticas relacionadas con la Prevención del delito.
 
-VII. Participar en la promoción y fomento de una cultura de prevención del delito, educación vial y siniestros; y
+VII.- Participar en la promoción y fomento de una cultura de prevención del delito, educación vial y siniestros; y
 
-VIII. Realizar acciones de auxilio a la población afectada en caso de desastres, siniestros y accidentes, en coordinación con la Unidad Municipal de Protección Civil, bomberos y Cuerpo de rescate.
+VIII.- Realizar acciones de auxilio a la población afectada en caso de desastres, siniestros y accidentes, en coordinación con la Unidad Municipal de Protección Civil, bomberos y Cuerpo de rescate.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 8 DE AGOSTO DE 2011)</small>
 
 ###### ARTÍCULO 862.
 
 La Dirección funcionará con el organigrama autorizado por el H. Ayuntamiento, a propuesta del Presidente Municipal.
 
+> <small>(ADICIONADO, P.O. 8 DE AGOSTO DE 2011)</small>
+
+ARTÍCULO 862 bis.- El Director de Seguridad Pública, será nombrado por el H. Ayuntamiento, a propuesta del Presidente Municipal, quien deberá de estar previamente certificado por el Centro de Evaluación y Control de Confianza correspondiente, el mismo tendrá las facultades y obligaciones siguientes:
+
+I.- El Director tendrá la más alta jerarquía dentro de la Dirección y ejercerá dentro de ésta las atribuciones de mando, dirección, toma de decisiones, control y disciplina;
+
+II.- Deberá informar periódicamente al Presidente Municipal y al Secretario del H. Ayuntamiento, sobre el desempeño de las atribuciones de la Dirección y de los resultados alcanzados; sometiendo a su acuerdo todas las acciones operativas que por su trascendencia social deba de dar cuenta para la evaluación y diseño de las políticas en materia de Seguridad Pública; en lo general todos aquellos hechos que pongan en peligro a la población dentro del Municipio de Tepezalá;
+
+III.- Dictar las medidas necesarias para garantizar la prevención especial y general de los delitos, las faltas administrativas, el restablecimiento del orden y el aprovechamiento de la información relativa a la prestación del servicio de seguridad pública, con apego a las disposiciones legales aplicables;
+
+IV.- Vigilar que los recursos humanos, materiales y financieros se ejerzan eficazmente y que cumplan con todos los requisitos técnicos, funcionales y normativos de la Dirección;
+
+V.- Ordenar la profesionalización, y en lo general todos aquellos estudios que permitan alcanzar el desarrollo profesional del personal adscrito a la Dirección;
+
+VI.- Cumplir y velar que los integrantes operativos de la Dirección acaten las disposiciones legales aplicables a la Seguridad Pública Municipal y la más estricta observancia y respeto a los derechos humanos;
+
+VII.- Resolver las dudas que se susciten internamente sobre las competencias de las Unidades Administrativas de la Dirección, con motivo de la interpretación o aplicación del presente Código y sobre las situaciones no previstas en el mismo, así como establecer los lineamientos y procedimientos conforme los cuales deban actuar;
+
+VIII.- Proponer ante el Presidente los nombramientos de:
+
+1. Subdirector de Seguridad Pública
+
+2. Subdirector de Vialidad.
+
+3. Jefe del departamento de Profesionalización.
+
+IX.- Recibir y realizar acuerdos directamente con los trabajadores de la Dirección para el despacho de los asuntos de su competencia;
+
+X.- Imponer las sanciones y correctivos disciplinarios a los integrantes operativos de la Dirección en los términos del presente Código, y que no sean propios de la Comisión de Honor y Justicia;
+
+XI.- Fomentar una cultura de respeto a los Derechos Humanos, en lo relativo a la prestación del servicio de Seguridad Pública, específicamente respecto a las detenciones, al mantenimiento y restablecimiento del orden público, a través de la difusión y promoción de los mismos, hacia el interior de la Dirección y a la sociedad;
+
+XII.- Efectuar los cambios, comisiones y rotaciones de servicio o de turno a cualquier integrante de la Dirección, por cuestiones de operatividad o necesidades del servicio cuando así se requiera.
+
+XIII.- Ordenar la presentación del personal adscrito a la Dirección en revista administrativa y operativa.
+
+XIV.- Ordenar la investigación preventiva del delito y faltas administrativas a fin de inhibir su incidencia;
+
+XV.- Las demás que le señalen las disposiciones normativas aplicables o le asigne el Presidente Municipal.
+
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2011)</small>
+
 ###### ARTÍCULO 863.
 
-La Dirección dotará a todo el personal operativo, con credencial que los identifique como dedicados a la prevención del delito. Contendrá el nombre de la corporación a la que pertenece el usuario, su nombre, grado jerárquico, fotografía cancelada con sello de la Dirección, Clave única de Registro de Población (CURP), fecha de expedición y de vencimiento, así como la validación que se hace con la firma del Director y del Presidente Municipal.
+El Subdirector de Seguridad Pública, tendrá las facultades y obligaciones siguientes:
+
+I.- Auxiliar al Director en las funciones que éste le encomiende;
+
+II.- Acatar las disposiciones que en el ejercicio de su desempeño emanen del Director;
+
+III.- Planear la operación y regulación de los servicios de la Policía Municipal, a fin de que sean sometidos a la consideración del Director para su aprobación;
+
+IV.- Ejecutar los planes, programas y servicios relativos a la Seguridad Pública en el territorio del Municipio de Tepezalá;
+
+V.- Analizar y evaluar en coordinación sus operaciones para mejorar los servicios de seguridad, inspección y vigilancia;
+
+VI.- Realizar informes trimestrales sobre las evaluaciones de sus operaciones directamente al Director.
+
+VI.- Apoyar e intervenir en situaciones de contingencia con el propósito de prevenir y mitigar situaciones de emergencia;
+
+VII.- Transmitir las órdenes del Director al personal de la Dirección de Policía Municipal;
+
+IX (SIC). Cumplir y vigilar que los integrantes bajo su mando acaten todas las disposiciones legales en el desempeño de sus funciones, y que sus actos se apeguen estrictamente al respeto de los Derechos Humanos, a las disposiciones del presente Código y los manuales de procedimientos de la Dirección;
+
+X. Ejecutar y regular los programas y servicios relativos a la Seguridad Pública en el territorio del Municipio de Tepezalá;
+
+XI. Llevar la estadística y los registros de la incidencia de infracciones al Código Municipal en lo que se refiere a faltas de policía y los hechos presumiblemente delictivos que se susciten y tengan conocimiento los elementos bajo su mando dentro del Municipio de Tepezalá, suministrando a la Dirección toda la información que corresponda.
+
+XII. Dar parte a la instancia correspondiente de las violaciones cometidas por los elementos bajo su mando, a los principios de actuación y normas disciplinarias que los rigen y;
+
+XIII. Las demás que le asigne el Director.
+
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2011)</small>
 
 ###### ARTÍCULO 864.
 
-Mientras se tramita la licencia oficial colectiva de portación de armas de fuego, se le proporcionará a la Dirección General de Seguridad Pública del Estado toda la información necesaria y se le otorgarán las facilidades para llevar a cabo las evaluaciones que requiera la Secretaría de la Defensa Nacional para la renovación, mantenimiento y cuidado de la licencia colectiva.
+El Subdirector de Vialidad tendrá las facultades y obligaciones siguientes:
+
+I.- Planear la operación y regulación de los Servicios de Tránsito;
+
+II.- Ejecutar y regular los programas y servicios relativos a la vigilancia de sistemas viales y de tránsito en el territorio del Municipio de Tepezalá;
+
+III.- Analizar y evaluar las operaciones que realice la Subdirección a su cargo, para mejorar los servicios de seguridad vial, inspección y vigilancia de tránsito de personas y vehículos;
+
+IV.- Apoyar e intervenir en situaciones de contingencia con el propósito de prevenir y mitigar situaciones de emergencia;
+
+V.- Transmitir las órdenes del Director al personal de la Subdirección de Vialidad así como verificar su estricto cumplimiento;
+
+VI.- Cumplir y vigilar que los elementos bajo su mando acaten todas las disposiciones legales en materia de Tránsito, y que sus actos se apeguen estrictamente al respeto de los Derechos Humanos y a las disposiciones del presente Código;
+
+VII.- Planear la operación y regulación de los servicios de los elementos a su cargo, a fin de que sean sometidos a la consideración del Director para su aprobación;
+
+VIII. Tomar conocimiento de los hechos de tránsito y rendir el dictamen técnico correspondiente;
+
+IX.- Llevar la estadística y registro de la incidencia de infracciones a la Ley de Vialidad del Estado y a este Código, así como de los accidentes suscitados dentro del Municipio de Tepezalá, suministrando a la Dirección toda la información que corresponda;
+
+X. Dar parte a la instancia correspondiente de las violaciones cometidas por los elementos bajo su mando, a los principios de actuación y normas disciplinarias que los rigen; y
+
+XII. Las demás que le sean encomendadas por el Director.
+
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2011)</small>
 
 ###### ARTÍCULO 865.
 
-Queda estrictamente prohibido al personal operativo de la Dirección, la portación de armas de fuego de propiedad particular para el ejercicio de sus funciones.
+El Presidente Municipal relevará libremente de sus funciones a todo el personal de la Dirección de Seguridad Pública que considere necesario, para el mejor funcionamiento de esta Dirección, respetando en su caso el grado policial y los derechos inherentes a la carrera policial.
+
+Queda estrictamente prohibido al personal de la Dirección, la portación de armas de fuego de propiedad particular para el ejercicio de sus funciones.
+
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2011)</small>
 
 ###### ARTÍCULO 866.
 
-La Dirección podrá tener (sic) tendrá bajo su mando al Cuerpo de Bomberos y a la Unidad Municipal de Protección Civil, cuya integración se encuadrará en el Organigrama que apruebe el H. Ayuntamiento a propuesta del Presidente Municipal, y contará con los elementos indispensables para su operación.
-
-###### ARTÍCULO 867
+La Dirección podrá tener tendrá (sic) bajo su mando al Cuerpo de Bomberos y a la Unidad Municipal de Protección Civil, cuya integración se encuadrará en el Organigrama que apruebe el H. Ayuntamiento a propuesta del Presidente Municipal, y contará con los elementos indispensables para su operación.
 
 La función del Cuerpo de Bomberos y de Protección Civil, es la de prevenir y combatir incendios, explosiones de gases, derrames de combustibles o productos químicos, derrumbes de construcciones, fugas de gases tóxicos o combustibles, cortos circuitos y accidentes causados por equipo y material eléctrico, rescate de personas vivas o muertas, control de inundaciones, aseguramiento o destrucción de animales peligrosos y otros eventos en los que a juicio de la Dirección deba intervenir.
 
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2011)</small>
+
+###### ARTÍCULO 867.
+
+(SIC)
+
+I.- Las áreas operativas dentro de la Dirección se organizarán bajo un esquema de jerarquización terciaria, cuya célula básica se compondrá invariablemente por tres integrantes.
+
+Para la correcta operación del sistema terciario, los diferentes niveles de mando se dividirán entre las distintas escalas jerárquicas, procurando que los integrantes con niveles inmediatamente superiores mantengan bajo su control y supervisión a tres integrantes de la escala jerárquica inferior.
+
+Se entenderá por mando a la potestad ejercida por un superior jerárquico con la que se reconoce la facultad de emitir órdenes a los integrantes de la Dirección, en servicio activo, sobre sus inferiores o iguales en grado, cuando éstos se encuentren subordinados a él, en razón de su cargo o de su comisión.
+
+II.- Para mantener la disciplina, el control y el mando en los integrantes de la Dirección, se requiere de personal con cargo y grado, entendiéndose por éstos:
+
+A). Personal con cargo; aquél en el que ha sido depositada una responsabilidad extraordinaria sobre el funcionamiento del sistema terciario, otorgándole un nombramiento implícitamente temporal para desempeñarse en un cargo administrativo o de dirección dentro de la estructura orgánica de la Dirección, entendiéndose por éste, aquel cuya función principal es la de toma de decisiones, asignación de servicios, dirección o de supervisión; el cargo determina la jerarquía de mando dentro de dicha dependencia y es independiente del grado que ostente dentro de la carrera policial el integrante; y
+
+B). Personal con grado; aquél que posee determinado nivel jerárquico dentro de la estructura de la carrera policial, atendiendo al sistema terciario, independientemente del cargo que ocupa en la estructura orgánica de la Dirección y que de acuerdo con dicho nivel, tiene un mando jerárquico, exclusivamente sobre los integrantes del área operativa, en el ejercicio del mando natural.
+
+La carrera policial es independiente de los nombramientos para desempeñar cargos administrativos o de dirección en la Dirección.
+
+En ningún caso habrá inamovilidad en los cargos administrativos y de dirección; asimismo podrán ser relevados libremente, respetando en todo momento su grado jerárquico y los derechos inherentes a la carrera policial.
+
+> <small>(ADICIONADO, P.O. 8 DE AGOSTO DE 2011)</small>
+
+###### ARTÍCULO 867 Bis.
+
+La Dirección de Seguridad Pública estará al mando del Presidente Municipal en los términos de este Código. La jerarquía de mando dentro de la Dirección, operará en base a las siguientes, categorías, jerarquías y equivalencias:
+
+A.- Categorías:
+
+I. Comisarios;
+
+II. Inspectores;
+
+III. Oficiales, y
+
+IV. Escala Básica.
+
+B.- Jerarquías.
+
+I. Comisarios:
+
+a) Comisario General;
+
+b) Comisario Jefe, y
+
+c) Comisario.
+
+II. Inspectores:
+
+a) Inspector General;
+
+b) Inspector Jefe, e
+
+c) Inspector.
+
+III. Oficiales:
+
+a) Subinspector;
+
+b) Oficial, y
+
+c) Suboficial.
+
+IV. Escala Básica:
+
+a) Policía Primero;
+
+b) Policía Segundo;
+
+c) Policía Tercero, y
+
+d) Policía.
+
+C.- Equivalencias.
+
+Comisarios:
+
+a) Director de Seguridad Pública: Comisario General; y
+
+b) Directores: Comisario Jefe;
+
+II. Inspectores:
+
+a) Jefes de Departamento, Jefes Operativos: Inspector General;
+
+b) Jefes de Grupo, Departamento o Unidad: Inspector Jefe, y
+
+c) Responsable de Turno: Inspector.
+
+> <small>(ADICIONADO, P.O. 8 DE AGOSTO DE 2011)</small>
+
+ARTÍCULO 867 TER.- Las equivalencias señaladas en el artículo anterior sólo aplicarán para las categorías de inspectores y comisarios; éstas serán consideradas cargos administrativos y de dirección respectivamente, mismos que deberán ser asignados a través de nombramiento implícitamente temporal otorgado por la autoridad correspondiente.
+
+A los niveles jerárquicos correspondientes a la escala básica y de oficiales, sólo se podrá acceder previa consulta de la Dirección de Seguridad Pública con la Secretaría de Seguridad Pública del Estado.
+
+Nadie podrá ingresar a la escala jerárquica y sus equivalencias, si no ha sido previamente certificado y registrado en el sistema nacional de seguridad pública. La contravención a lo dispuesto en este artículo, será sancionado en los términos que las disposiciones normativas aplicables señalen.
+
+(REPUBLICADO, P.O. 8 DE AGOSTO DE 2011)
+
 ### CAPÍTULO VII. De la Profesionalización de los Elementos Operativos
+
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2011)</small>
 
 ###### ARTÍCULO 868.
 
-La Dirección diseñará e implementará en coordinación con el Instituto, un Programa General de Profesionalización que incluya a todo el personal de Seguridad Pública, que tendrá como finalidad alcanzar su desarrollo profesional, ético, técnico, científico, físico, humanístico y cultural en el marco del respeto a los derechos humanos y al estado de derecho.
+Para lograr una óptima y eficaz prestación del servicio de seguridad pública y con el objeto de alcanzar el desarrollo profesional de sus integrantes, la Dirección a través del Departamento de Profesionalización establecerá en coordinación con el Instituto Estatal de Seguridad Pública de Aguascalientes un Programa General de Profesionalización que incluya a todo el personal de Seguridad Pública, que tendrá como finalidad alcanzar su desarrollo profesional, ético, técnico, científico, físico, humanístico y cultural en el marco del respeto a los derechos humanos y al estado de derecho.
+
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2011)</small>
 
 ###### ARTÍCULO 869.
 
 La Dirección establecerá los requisitos y procedimientos de reclutamiento, selección, ingreso, formación, actualización, especialización y promoción del personal.
 
+Los elementos integrantes de Seguridad Pública, así como los aspirantes a pertenecer a la misma, deberán someterse a un proceso de evaluación, previa convocatoria emitida por el Jefe de Departamento de Profesionalización en coordinación con el Instituto Estatal de Seguridad Pública de Aguascalientes, cumpliendo los siguientes requisitos de ingreso:
+
+I. Ser mexicano por nacimiento y en pleno goce y ejercicio de sus derechos civiles y políticos sin tener otra nacionalidad;
+
+II. Ser de notoria buena conducta, no haber sido condenado por sentencia irrevocable por la comisión de delito doloso, ni estar sujeto a proceso penal por delito grave;
+
+III. Acreditar que ha concluido, al menos, los estudios siguientes:
+
+a) En el caso de aspirantes a las áreas de investigación, enseñanza superior o equivalente;
+
+b) Tratándose de aspirantes a las áreas de prevención, enseñanza media superior o equivalente;
+
+c) En caso de aspirantes a las áreas de reacción, los estudios correspondientes a la enseñanza media básica;
+
+IV. Aprobar el concurso de ingreso y los cursos de formación;
+
+V. Contar con los requisitos de edad y el perfil físico, médico y psicológico;
+
+VI. Abstenerse de hacer uso de sustancias psicotrópicas, estupefacientes u otras que produzcan efectos similares, salvo prescripción médica debidamente comprobada y convalidada por el personal médico del Municipio, no padecer alcoholismo y someterse a los exámenes periódicos que determine el Secretario para comprobar el no uso de este tipo de sustancias;
+
+VII. No contar con antecedentes de faltas graves dentro del Registro Nacional de Personal de Seguridad Pública;
+
+VIII. No estar suspendido o inhabilitado, ni haber sido destituido por resolución firme como servidor público;
+
+IX. Para varones tener acreditado el Servicio Militar Nacional;
+
+X. En el supuesto de solicitar el reingreso, deberá haber observado buena conducta dentro de la Institución y durante el tiempo que permaneció fuera de la misma;
+
+XI. Aprobar los procesos de evaluación de control de confianza;
+
+XII. No padecer alcoholismo, en los términos del certificado médico expedido por la autoridad de salud correspondiente;
+
+XIII. Someterse a exámenes para comprobar la ausencia de alcoholismo o el no uso de sustancias psicotrópicas, estupefacientes u otras que produzcan efectos similares; y
+
+XIV Cumplir con los demás requisitos que establezcan el presente Código, la Ley del Sistema Estatal de Seguridad Pública del Estado y demás normatividad aplicable.
+
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2011)</small>
+
 ###### ARTÍCULO 870.
 
 Las carreras y los cursos de formación inicial serán accesibles a todos los aspirantes que reúnan los requisitos para causar alta, y serán obligatorios para pertenecer a la Dirección y corporaciones auxiliares.
 
+Los cursos de actualización y especialización serán obligatorios y accesibles a todo el personal de Seguridad Pública, quienes deberán asistir cuando menos una vez al año como requisito para su permanencia y promoción, presentando la constancia correspondiente.
+
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2011)</small>
+
 ###### ARTÍCULO 871.
 
-Los cursos de actualización y especialización serán obligatorios y accesibles a todo el personal de Seguridad Pública, quienes deberán asistir cuando menos una vez al año como requisito para su permanencia y promoción, presentando la constancia correspondiente.
+La permanencia es el resultado del cumplimiento constante de los requisitos establecidos en el presente Código, para continuar en el servicio activo. Son requisitos de permanencia, los siguientes:
+
+I.- Conservar los requisitos de ingreso.
+
+II. Ser de notoria buena conducta, no haber sido condenado por sentencia ejecutoria por delito doloso;
+
+III. Mantener actualizado su Certificado Único Policial;
+
+IV. No superar la edad máxima de retiro que establezcan las disposiciones aplicables;
+
+V. Acreditar que ha concluido, al menos, los estudios siguientes:
+
+a) En el caso de integrantes de las áreas de investigación, enseñanza superior, equivalente u homologación por desempeño, a partir de bachillerato;
+
+b) Tratándose de integrantes de las áreas de prevención, enseñanza media superior o equivalente;
+
+c) En caso de integrantes de las áreas de reacción, los estudios correspondientes a la enseñanza media básica;
+
+VI. Aprobar los cursos de formación, capacitación y profesionalización;
+
+VII. Aprobar los procesos de evaluación de control de confianza;
+
+VIII. Aprobar las evaluaciones del desempeño;
+
+IX. Obligatoriamente participar en los procesos de promoción o ascenso que se convoquen, conforme a las disposiciones aplicables;
+
+X. Abstenerse de consumir sustancias psicotrópicas, estupefacientes u otras que produzcan efectos similares;
+
+XI. No padecer alcoholismo;
+
+XII. Someterse a exámenes para comprobar la ausencia de alcoholismo;
+
+XIII. Someterse a exámenes para comprobar el no uso de sustancias psicotrópicas, estupefacientes u otras que produzcan efectos similares;
+
+XIII (sic). No estar suspendido o inhabilitado, ni haber sido destituido por resolución firme como servidor público;
+
+XIV. No ausentarse del servicio sin causa justificada, por un periodo de tres días consecutivos o de cinco días no consecutivos dentro de un término de treinta días contados a partir de la primera falta injustificada en que incurra; y
+
+XV. Las demás que establezcan las disposiciones legales aplicables.
+
+> <small>(ADICIONADO, P.O. 8 DE AGOSTO DE 2011)</small>
+
+ARTÍCULO 871 BIS.- En cumplimiento a lo establecido en el artículo anterior, el Departamento de Profesionalización, tienen como objetivo: consolidar un proyecto de formación y capacitación identificado con las necesidades de la Dirección, así como establecer un sistema de diagnóstico, evaluación y retroalimentación que permita la mejora continua de los elementos que integran la misma, con la finalidad de establecer un programa que promueva su desarrollo personal, profesional, familiar y social.
+
+> <small>(ADICIONADO, P.O. 8 DE AGOSTO DE 2011)</small>
+
+ARTÍCULO 871 TER.- La Profesionalización es el proceso permanente y progresivo de formación que se integra por las etapas de formación inicial, actualización, promoción, especialización y alta dirección, para desarrollar al máximo las competencias, capacidades y habilidades de los integrantes de las Instituciones Policiales.
+
+El Instituto Estatal de Seguridad Pública de Aguascalientes será una instancia auxiliar de la Dirección para lograr la Profesionalización de las Instituciones Policiales. Asimismo será el coadyuvante en la supervisión y evaluación del personal de la Dirección.
+
+(REPUBLICADO, P.O. 8 DE AGOSTO DE 2011)
 
 ### CAPÍTULO VIII. De las Bases y Lineamientos de Actuación de los Elementos Operativos
 
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2011)</small>
+
 ###### ARTÍCULO 872.
 
-El servicio a la comunidad, la disciplina, honradez, la responsabilidad, la eficacia, la eficiencia, lealtad, el respeto a los derechos humanos y la legalidad, son principios que el personal de Seguridad Pública debe observar invariablemente en su actuación.
+La legalidad, objetividad, eficiencia, profesionalismo, honradez y respeto a los derechos humanos son principios de actuación que los integrantes operativos de la Dirección deben observar invariablemente en el desempeño de sus funciones, con el más alto sentido de la disciplina y compromiso de servicio hacia la comunidad, respetando y haciendo que se respete la Constitución Política de los Estados Unidos Mexicanos, la Ley General del Sistema Nacional de Seguridad Pública, la Constitución Política del Estado de Aguascalientes, la Ley del Sistema Estatal de Seguridad Pública del Estado de Aguascalientes, este Código y demás disposiciones legales aplicables.
+
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2011)</small>
 
 ###### ARTÍCULO 873.
 
-Los elementos pertenecientes a la Dirección, independientemente de las obligaciones que establecen la ley de Responsabilidades de los Servidores Públicos del Estado de Aguascalientes y la Ley de Seguridad Pública del Estado de Aguascalientes deberán:
+Los elementos pertenecientes a la Dirección, independientemente de las obligaciones que establece la Ley de Responsabilidades de los Servidores Públicos del Estado de Aguascalientes, deberán
 
-I. Actuar dentro del orden jurídico, respetando en todo momento los preceptos contenidos en las Constituciones Políticas de los Estados Unidos Mexicanos, la de Aguascalientes, y las leyes que de ellas emanen;
+I.- Abstenerse de todo acto de corrupción o faltas a la ética en el desempeño de su servicio, de solicitar y aceptar compensaciones, pagos o gratificaciones distintas a las previstas legalmente, así como hacer uso de sus atribuciones para lucrar u obtener beneficio alguno por medio del tráfico de influencias;
 
-II. Respetar y contribuir en la protección de los Derechos Humanos;
+II.- Respetar y hacer que se respeten los símbolos patrios;
 
-III. Actuar con decisión y sin demora en la protección de las personas, sus bienes y sus derechos;
+III.- Obedecer las órdenes que con motivo del desempeño de sus funciones, reciba de su superior jerárquico o de quien ejerzan sobre él atribuciones de mando evitando todo acto u omisión que produzca deficiencia en su cumplimiento, respondiendo sobre la ejecución de las órdenes directas que reciba, a un solo superior jerárquico, por regla general, respetando preponderantemente la línea de mando;
 
-IV. No discriminar en el cumplimiento de sus funciones a persona alguna en razón de su nacionalidad, raza, etnia, religión, sexo, idioma, dialecto, condición social o física, ideología, preferencia sexual o por algún otro motivo;
+IV.- Abstenerse de realizar conductas que desacrediten su persona o la imagen de la Dirección dentro o fuera del servicio;
 
-V. Abstenerse de todo acto de corrupción;
+V.- Preservar la secrecía de los asuntos que por razón del desempeño de su función conozca y bajo ninguna circunstancia dar a conocer por cualquier medio a quien no tenga derecho, documentos, registros, imágenes, constancias, estadísticas, reportes, o cualquier otra información reservada o confidencial;
 
-VI. Poner inmediatamente a disposición de un superior jerárquico o de la autoridad correspondiente, cualquier instrumento u objeto que con motivo del desempeño de sus funciones haya asegurado a los infractores de las leyes, Reglamentos y el presente Código;
+VI.- Velar por la vida e integridad física de las personas detenidas, las cuales se encuentran bajo su más estricta responsabilidad desde el momento de la detención hasta la recepción final de la puesta a disposición ante la autoridad competente;
 
-VII. Proteger y conservar con fines criminalísticos, el lugar donde presuntamente se haya cometido un delito y los objetos relacionados con el mismo;
+VII.- Tomar las medidas de protección y aseguramiento respecto de personas con capacidades diferentes, notoriamente intoxicados, personas extraviadas o menores de edad, debiendo en todo caso, inmediatamente hacer del conocimiento y/o poner a disposición de las instancias o autoridades competentes;
 
-VIII. Observar la prohibición de liberar a los detenidos sin orden o autorización de la autoridad competente;
+VIII.- Detener a los presuntos responsables de hechos delictivos e infractores que sorprendan en el momento en que esté cometiendo un delito o falta administrativa o inmediatamente después de haberlo cometido, los que pondrán a disposición ante la autoridad competente en forma inmediata, asimismo entregarán un inventario con la descripción detallada de los objetos asegurados a los mismos;
 
-IX. Ajustarse a lo que establecen los Artículos 14 y 16 de la constitución Política de los Estados Unidos Mexicanos en lo referente a la detención de personas;
+IX.- Prestar sus servicios de manera personal, quedando prohibido delegar a terceros o permitir que personas ajenas a la Secretaría realicen actos inherentes a las atribuciones que tenga encomendadas. Asimismo, no podrá hacerse acompañar de dichas personas al realizar funciones del servicio;
 
-X. Observar un trato respetuoso en sus relaciones con las personas, a quienes auxiliarán y protegerán en todo momento;
+X.- Ejecutar los mandamientos judiciales y ministeriales, así como poner a disposición del Ministerio Público que corresponda, los objetos o instrumentos que aseguren a particulares relacionados con hechos delictivos, elaborar el informe policial homologado de los hechos que tenga conocimiento, comparecer a rendir informes y declaraciones que soliciten las autoridades;
 
-XI. Abstenerse de todo acto de prepotencia;
+XI.- Abstenerse de todo acto de abuso de autoridad, acoso sexual y de limitar injustificadamente las acciones o manifestaciones que en ejercicio de sus derechos constitucionales con carácter pacífico sean realizadas por la sociedad, salvo que con ella se ataque la moral o lesionen los derechos de terceros, provoquen algún delito o se altere el orden público;
 
-XII. Permitir las acciones o manifestaciones que en ejercicio de sus derechos constitucionales y con carácter pacífico, realice la ciudadanía;
+XII.- Abstenerse en todo momento de infligir o tolerar actos de tortura, aun cuando se trate, de una orden superior o se argumenten circunstancias especiales, tales como amenaza a la seguridad pública, como urgencia de las investigaciones, o cualquier otra; al conocimiento de dichas circunstancias, las deberá denunciar ante la autoridad competente;
 
-XIII. Prestar apoyo a las personas que hayan sido víctimas de algún delito o estén amenazadas, y en su caso, solicitar los servicios hospitalarios de emergencia, así como facilitar los medios para dar aviso a sus familiares o conocidos;
+XIII.- Atender con diligencia la solicitud de informe, queja o auxilio de la sociedad que este amenazada de un peligro y en su caso, tomar las medidas que correspondan según las circunstancias; si la situación rebasa su competencia, deberá turnarlo de inmediato al área que corresponda;
 
-XIV. Intervenir por propia iniciativa, aun cuando no se encuentren en servicio, para dar asistencia a cualquier persona en riesgo;
+XIV.- Realizar la vigilancia y resguardo de las personas y bienes que les sean encargados bajo custodia por la autoridad competente, mediante orden debidamente fundada y motivada;
 
-XV. Usar y conservar los uniformes y equipo bajo su custodia con el debido cuidado y prudencia, reintegrándolo al causar baja o cuando se le requiera;
+XV.- Someterse a evaluaciones periódicas para acreditar el cumplimiento de sus requisitos de permanencia, así como obtener y mantener vigente la certificación respectiva;
 
-XVI. Portar la identificación oficial y exhibirla al ejercer funciones propias de su encargo;
+XVI.- Obtener y mantener su certificado único policial;
 
-XVII. Disuadir y recurrir a medios no violentos antes de emplear la fuerza de las armas;
+XVII.- Abstenerse de disponer de los bienes asegurados para beneficio propio o de terceros, así como de sustraer ocultar, alterar o dañar información o bienes en perjuicio de las instituciones;
 
-XVIII. Hacer uso de la fuerza física sólo cuando sea estrictamente necesario y proporcional al hecho, dentro del marco legal de actuación;
+XVIII.- Abstenerse de introducir a las instalaciones de la Secretaría bebidas embriagantes, sustancias psicotrópicas, estupefacientes u otras sustancias adictivas de carácter ilegal, prohibido o controlado, salvo cuando sean producto de detenciones, cateos, aseguramientos u otros similares, y que previamente exista la autorización correspondiente;
 
-XIX. Emplear las armas de fuego sólo en los casos de legítima defensa. Las disposiciones relativas al uso y control de las mismas se sujetarán a lo que previene la Ley de la Materia, así como las normas internas que determine la Dirección;
+XIX.- Abstenerse de consumir, dentro o fuera del servicio, sustancias psicotrópicas, estupefacientes u otras sustancias adictivas de carácter ilegal, prohibido o controlado, salvo los casos en que el consumo de los medicamentos controlados sea autorizado mediante prescripción médica, avalada por los servicios médicos de las Instituciones;
 
-XX. Velar por la vida, integridad física y proteger los artículos personales de los detenidos o personas que se encuentren bajo su custodia;
+XX.- Abstenerse de consumir en las Instalaciones de la Secretaria así como en el desempeño del servicio, bebidas embriagantes;
 
-XXI. Obedecer las órdenes de sus superiores jerárquicos y cumplir con todas las obligaciones que tengan a su cargo, siempre y cuando la ejecución de aquéllas o el cumplimiento de éstas no signifiquen la comisión de un delito;
+XXI.- Abstenerse de asistir uniformado a bares, cantinas, centros de apuestas o juegos, u otros centros de este tipo, si no media orden expresa para el desempeño de funciones o en casos de flagrancia;
 
-XXII. No infligir, ni tolerar actos de tortura, tratos crueles, inhumanos o degradantes a aquéllas personas que se encuentren bajo su custodia. En el caso de tener conocimiento de tales actos, deberá denunciarlos inmediatamente ante sus superiores o ante el Ministerio Público;
+XXII.- Abstenerse de disparar el arma de fuego, salvo que sea estrictamente necesario y el servicio así lo requiera;
 
-XXIII. Tratar a sus subordinados y compañeros con dignidad, respeto, decoro y estricto apego a los principios de derechos humanos y a las normas disciplinarias aplicables;
+XXIII.- Faltar a su servicio por mas de quince ocasiones en un periodo natural de un año;
 
-XXIV. Guardar la reserva y confidencialidad necesaria respecto al desempeño de sus funciones, salvo disposición legal contraria. Lo anterior, sin perjuicio de informar al Director, el contenido de aquellas órdenes de las cuales tengan presunción fundada de ilegalidad;
+XXIV.- Abstenerse de ostentar una actitud negligente e indiferente en el servicio o fuera de él; y (sic)
 
-XXV. Asistir a los cursos de formación, actualización y especialización, para adquirir los conocimientos teóricos y prácticos que beneficien a su profesión;
+XXV.- Abstenerse de convocar o participar en cualquier práctica de rebeldía o indisciplina en contra del mando o alguna otra autoridad;
 
-XXVI. Observar las normas éticas y disciplinarias que establezca este Libro y demás ordenamientos vigentes;
+XXVI.- Registrar en una bitácora de forma detallada y cronológica todos los datos de importancia que incidan en sus actividades y comisiones, como son: fecha, hora, personas implicadas, descripción del hecho y demás circunstancias que impliquen el aprovechamiento de la información;
 
-XXVII. Actuar coordinadamente con otras Corporaciones de Seguridad Pública, así como brindarles, en su caso, el apoyo que legalmente proceda; y
+XXVII.- Registrar en el informe policial homologado los datos de las actividades e investigaciones que realice; así como inscribir las detenciones en el Registro Administrativo correspondiente conforme a las disposiciones aplicables;
 
-XXVIII. Atender de manera inmediata todos los casos de violencia contra las Mujeres que sean recibidos a través de reportes por cualquier medio o por parte de cualquier persona aún cuando no se tratase de la afectada directa, en los números de emergencia o directamente en las oficinas de la Dirección de Seguridad Publica del Municipio de Tepezalá o de la Presidencia Municipal;
+XXVIII.- Utilizar los protocolos de investigación y de cadena de custodia que establezcan los manuales emitidos por la Comisión de Normatividad Interna, así como actualizarse en el empleo de métodos de investigación que garanticen la recopilación técnica y científica de evidencias;
 
-XXIX. Proporcionar a las víctimas de violencia familiar y de género, la asesoría necesaria para conocer su situación jurídica y derechos;
+XXIX.- Preservar, conforme a las disposiciones aplicables, las pruebas e indicios de probables hechos delictivos o de faltas administrativas de forma que no pierdan su calidad probatoria y se facilite la correcta tramitación del procedimiento correspondiente;
 
-XXX. Promover la cultura de respeto a los derechos fundamentales de las Mujeres;
+XXX.- Actuar con la decisión necesaria y sin demora en la protección de las personas, en sus derechos y sus bienes, procurando que sea congruente, oportuna y proporcional al hecho;
 
-XXXI. Capacitar al personal de las distintas instancias policiales para atender los casos de violencia contra las Mujeres;
+XXXI.- Impedir la ejecución de actos contrarios a la moral y a la tranquilidad pública, así como los demás que tiendan a dañar a personas, animales o cosas;
 
-XXXII. Establecer las acciones y medidas que se deberán tomar para la readaptación de los generadores de violencia contra las Mujeres;
+XXXII.- Abstenerse de ordenar o realizar la detención de personas sin cumplir con los requisitos previstos, en los ordenamientos legales aplicables;
 
-XXXIII. Implementar cursos y talleres de prevención y protección contra la violencia de género;
+XXXIII.- Apoyar a las autoridades que así se lo soliciten en la investigación y persecución de delitos, así como en situaciones de grave riesgo, catástrofes o desastres;
 
-XXXIV. Proporcionar a las víctimas de violencia el apoyo necesario para conocer su situación jurídica y sus derechos;
+XXXIV.- Utilizar los protocolos de investigación y conservar la cadena de custodia respecto de los objetos o indicios relacionados con algún delito;
 
-XXXV. Promover la cultura de respeto a los derechos fundamentales de las Mujeres;
+XXXV.- Informar al superior inmediato y a la autoridad correspondiente de manera inmediata las omisiones, actos indebidos o constitutivos de delito, así como las violaciones al presente Código, de su superior jerárquico, de sus subordinados o iguales en categoría jerárquica;
 
-XXXVI. Cumplimentar sin demora las ORDENES DE PROTECCION. Serán autoridades competentes para liberar las órdenes de protección, las previstas en el capítulo IV de la Ley de Acceso de las Mujeres a una Vida Libre de Violencia para el Estado de Aguascalientes;
+XXXVI.- Guardar celosamente la jurisdicción asignada a su operación, respetando las delimitaciones territoriales establecidas, a excepción de los casos en que resulte indispensable para la eficiente y eficaz prestación del servicio de seguridad pública;
 
-XXXVII. Estudiar, conocer y respetar este Libro y las demás Leyes aplicables y relativas al servicio de Seguridad Pública.
+XXXVII.- Tomar las medidas de seguridad y de orden urgentes que sean necesarias en casos de emergencia, incendios, accidentes, inundaciones, siniestros y en general, toda clase de catástrofes;
+
+XXXVIII.- Apegarse a los requisitos de los procedimientos que se establecen en el reglamento del Sistema Integral de Desarrollo Policial;
+
+XXXIX.- Mantener en buen estado el armamento, material, municiones y equipo que se le asigne con motivo de sus funciones, haciendo uso de ellos sólo en el desempeño del servicio. Debiendo reportar de inmediato cualquier falla, descompostura o daño al titular de la unidad administrativa a que pertenezca.
+
+El uso de las armas se reservará exclusivamente para actos del servicio o capacitación que así lo demanden;
+
+XL.- Abstenerse de abandonar el servicio o la comisión que desempeñe antes de que llegue su relevo o bien atender asuntos de índole personal sin la autorización correspondiente;
+
+XLI.- Abstenerse de tomar parte activa durante el desempeño de su servicio en cualquier tipo de actividades de carácter político o religioso; y
+
+XLII.- Realizar en cualquier forma la comisión de un delito o falta administrativa;
+
+XLIII.- Cuidar los monumentos, recintos oficiales, lugares históricos, culturales o públicos;
+
+XLIV.- Proporcionar en los actos del servicio, su nombre y demás datos de identificación a menos de que por razones debidamente justificadas y acreditadas para los efectos de un operativo especial, sean autorizados para ello por el Secretario, bajo su más estricta responsabilidad;
+
+XLV.- Realizar el saludo militar y civil, según se porte o no el uniforme para con la bandera nacional y/o con sus superiores jerárquicos cuando corresponda;
+
+XLVI.- Cumplir sus funciones con absoluta imparcialidad, cortesía, firmeza y sin discriminación alguna;
+
+XLVII.- Apegarse a las normas sobre el uso de la radio frecuencia, de las claves y código fonético autorizados;
+
+XLVIII.- Cuidar la conservación y buen uso de los bienes afectos al servicio público, propiedad de las entidades públicas y órganos de gobierno;
+
+XLIX.- Entregar al superior de quien dependa, un informe escrito de sus actividades en las misiones encomendadas, no importando su índole. Lo ejecutará en la periodicidad que las instrucciones o los manuales operativos señalen. Este informe deberá elaborarse en el apego más estricto a la verdad histórica de los hechos ocurridos;
+
+L.- Realizar el servicio ordinario de vigilancia en las vías y demás lugares públicos, atendiendo a las necesidades de la población así como efectuar los servicios de vigilancia extraordinaria que le sean solicitados por acontecimientos o eventos especiales;
+
+LI.- Observar un trato respetuoso, evitando tutear o tratar con altivez y despotismo a las personas;
+
+LII.- Informar a cualquier persona cuando así lo solicite, sobre los lugares y servicios que se ofrecen en el Municipio, así como cualquier otro de interés o de utilidad pública;
+
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2011)</small>
 
 ###### ARTÍCULO 874.
 
 Son atribuciones de los elementos operativos de la Dirección:
 
-I. Impedir la ejecución de actos contrarios a la tranquilidad pública, la moral y las buenas costumbres, así como los que tiendan a dañar a personas, animales o cosas;
+I.- Impedir la ejecución de actos contrarios a la tranquilidad pública, la moral y las buenas costumbres, así como los que tiendan a dañar a personas, animales o cosas;
 
-II. Tomar las medidas de protección y aseguramiento de personas con deficiencias mentales, ebrios, intoxicados o drogados, inválidos, mendigos, extraviados y menvilistas;
+II.- Tomar las medidas de protección y aseguramiento de personas con deficiencias mentales, ebrios, intoxicados o drogados, inválidos, mendigos, extraviados y menores de edad desatendidos, debiendo ponerlos a disposición de las Instituciones Asistenciales;
 
-III. Evitar que los menores asistan a lugares no permitidos para ellos, e impedir la celebración de toda clase de juegos prohibidos por la Ley;
+III.- Evitar conductas peligrosas tales como: jugar en las vías públicas, viajar en el exterior de cualquier vehículo o abordarlo en movimiento, escalar postes, árboles, muros o cualquier otra actividad riesgosa;
 
-IV. Cuidar que se guarde el debido respeto a monumentos, recintos oficiales, lugares históricos y culturales así como a la Bandera, Escudo e Himno Nacionales; y
+IV.- Retirar de las vías públicas a personas que se encuentren en estado indecoroso; a comerciantes ambulantes establecidos en lugares prohibidos o sin licencia; así como vehículos y carros de mano que se desplacen por lugares prohibidos o impidan la circulación;
 
-V. Todas las demás que se les asignen o se incluyan en otras Leyes, reglamentos y el presente Código.
+V.- Evitar que los menores asistan a lugares no permitidos para ellos, e impedir la celebración de toda clase de juegos prohibidos por la Ley;
+
+VI.- Cuidar que se guarde el debido respeto a monumentos, recintos oficiales, lugares históricos y culturales así como a la Bandera, Escudo e Himno Nacionales; y
+
+VII.- Todas las demás que se les asignen o se incluyan en otras Leyes, reglamentos y el presente Código.
+
+> <small>(ADICIONADO, P.O. 8 DE AGOSTO DE 2011)</small>
+
+ARTÍCULO 874 BIS.- Siempre que se use la fuerza pública se hará conforme a derecho, apegándose a las disposiciones normativas y administrativas aplicables así como de manera racional respetando los siguientes principios:
+
+I. Congruencia: Equilibrio entre el nivel de uso de fuerza utilizada y el detrimento que se cause a la persona. Para lograr esto se podrán utilizar los siguientes niveles en el uso de fuerza:
+
+a) Persuasión o disuasión verbal: A través del diálogo, palabras o gesticulaciones, que sean catalogadas como órdenes, y que con razones permitan a la persona facilitar al integrante operativo cumplir con sus funciones;
+
+b) Reducción física de movimientos: mediante acciones cuerpo a cuerpo a efecto de que se someta a la persona que se ha resistido y ha obstaculizado que el integrante cumpla con sus funciones;
+
+c) Utilización de armas no letales: Mediante instrumentos incapacitantes como bastón PR-24, tolete o su equivalente, dispositivos que generan descargas eléctricas, sustancias irritantes en aerosol, y esposas o candados de mano, esto a fin de someter la resistencia violenta de una persona; y
+
+d) Utilización de fuerza letal: Mediante armas de fuego a efecto de someter la resistencia violenta agravada de una persona.
+
+II. Oportunidad: que se aplique el uso de la fuerza de manera inmediata para evitar o neutralizar un daño o peligro inminente o actual, que vulnere o lesione la integridad, derechos o bienes de las personas, las libertades, la seguridad ciudadana o la paz pública; y
+
+III. Proporcionalidad: que el uso de la fuerza sea adecuado y corresponda a la acción que se enfrenta o intenta repeler. Ningún integrante operativo de la Secretaría, podrá ser sancionado por negarse a ejecutar una orden notoriamente inconstitucional o ilegal, o que pudiera constituir un delito. Toda orden con estas características deberá ser reportada al superior jerárquico inmediato de quien la emita.
 
 ### CAPÍTULO IX. De la Ética y la Disciplina
 
@@ -10171,7 +10713,7 @@ de trabajo (3):
 
 (de I00 m2 hasta
 
-1000 m2) 6.0m2/per 2.30
+I000 m2) 6.0m2/per 2.30
 
 Áreas de trabajo
 
@@ -10183,9 +10725,9 @@ de trabajo (3):
 
 Hasta 120 m2 2.30
 
-De 120 m2 hasta 1000 m2 2.50
+De 120 m2 hasta I000 m2 2.50
 
-Más de I000 m2 3.00
+Más de 1000 m2 3.00
 
 2. 2. 1.- Almacenamiento
 
@@ -13434,3 +13976,9 @@ José Luis Ovalle Álvarez
 SINDICO MUNICIPAL,
 
 Blas Medina Loera
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 8 DE AGOSTO DE 2011.
+
+> <small>N. DE E. EL DECRETO DEL CODIGO CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3° DEL CODIGO CIVIL.</small>
