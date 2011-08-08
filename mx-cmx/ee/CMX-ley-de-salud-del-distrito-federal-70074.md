@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-salud-del-distrito-federal-70074"
 country: "mx"
 rank: "ley"
 publication_date: "2009-09-17"
-last_updated: "2011-07-11"
+last_updated: "2011-08-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70074&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2009-08-26"
 
 LEY DE SALUD DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 11 DE JULIO DE 2011.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 8 DE AGOSTO DE 2011.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 17 de septiembre de 2009.
 
@@ -568,7 +568,9 @@ XXVI. Desarrollar e implementar un programa de medicina integrativa, en el que s
 
 XXVII. Promover, coordinar y fomentar los programas de fomento a la salud, de investigación para la salud, de educación para la salud, de mejoramiento del medio ambiente, de información para la salud y demás programas especiales del Gobierno, de conformidad a lo dispuesto por esta Ley;
 
-XXVIII. Establecer programas en materia de sanidad animal, así como implementar acciones, en el ámbito de su competencia, para promover la atención y el bienestar de los animales, entre las cuales, le corresponde la administración del Centro Hospitalario de Asistencia para la Atención y Protección de los Animales del Distrito Federal, establecido en la Ley de Protección a los Animales del Distrito Federal;
+> <small>(REFORMADA, G.O. 8 DE AGOSTO DE 2011)</small>
+
+XXVIII. Establecer programas en materia de sanidad animal, así como implementar acciones, en el ámbito de su competencia, para promover la correcta atención y el bienestar de los animales, entre las cuales, le corresponde la emisión de lineamientos sanitarios que regulen la operación de las Clínicas Veterinarias Delegacionales y de los Centros de Atención Canina en términos de la presente Ley, la promoción del manejo ético y responsable de animales de compañía, en coordinación con dependencias de la Administración Pública del Distrito Federal y Delegaciones; así como el fomento de la adopción de animales, la realización de campañas de vacunación antirrábica y para esterilización de perros y gatos, proporcionar información sobre las ventajas de la aplicación de un cuadro básico de medicina veterinaria preventiva calendarizada y demás acciones que contribuyan a una convivencia sana y segura entre los propietarios y sus animales, a través de otorgar condiciones de bienestar a los perros y gatos, de conformidad con lo establecido en la Ley de Protección a los Animales del Distrito Federal, las Normas Oficiales Mexicanas de la materia y demás ordenamientos jurídicos aplicables;
 
 XXIX. Tener bajo su cargo el Sistema de Alerta Sanitaria, así como el Centro de Inteligencia y Preparación de Respuesta Epidemiológica de la Ciudad de México, los cuales funcionarán de conformidad a las disposiciones reglamentarias correspondientes;
 
@@ -2032,23 +2034,59 @@ Queda prohibido el funcionamiento de establos, caballerizas y otros similares qu
 
 ### Capítulo XIII. Sanidad Animal
 
+> <small>(REFORMADO, G.O. 8 DE AGOSTO DE 2011)</small>
+
 ###### Artículo 174.
 
 La sanidad animal tiene por objeto la protección y preservación de la salud humana, a través de programas integrales que prevengan, y en su caso, controlen, los riesgos sanitarios que puedan surgir de animales o propagarse a través de ellos, de conformidad a las disposiciones que en materia de vigilancia y control epidemiológico correspondan.
 
+La Secretaría será la instancia de coordinación para la realización de las disposiciones sanitarias que correspondan al Gobierno, demarcaciones territoriales y demás autoridades locales, previstas en las Leyes, Decretos, Acuerdos, Normas Oficiales Mexicanas y demás ordenamientos jurídicos aplicables, a la que compete, además:
+
+I. Promover la concertación con las autoridades sanitarias federales, así como estatales y municipales del área conurbada, a efecto de implementar acciones programáticas en materia de sanidad animal;
+
+II. Formular y desarrollar, a través de la Agencia, programas permanentes de difusión y fomento para el control sanitario de criaderos, clínicas veterinarias, albergues y similares, de los establecimientos comerciales y espacios de diversa índole dedicados a la compra, renta y venta de animales, así como de aquellos destinados a su manejo, exhibición, vacunación y esterilización, de acuerdo a lo dispuesto por la Ley Ambiental, la Ley de Protección a los Animales del Distrito Federal y demás ordenamientos jurídicos aplicables;
+
+III. Realizar verificación sanitaria, por medio de la Agencia, a las Clínicas Veterinarias Delegacionales, Centros de Atención Canina y análogos, en términos de lo dispuesto en la Ley de Protección a los Animales del Distrito Federal y demás ordenamientos jurídicos aplicables;
+
+IV. Fortalecer las actividades permanentes e intensivas de vacunación antirrábica, y las correspondientes para esterilización de perros y gatos, de forma gratuita;
+
+V. Supervisar y autorizar, a través de la Agencia, las condiciones sanitarias de los espacios destinados a la incineración de cadáveres de animales, y la supervisión de los establecimientos comerciales que presten los servicios funerarios correspondientes.
+
+> <small>(REFORMADO, G.O. 8 DE AGOSTO DE 2011)</small>
+
 ###### Artículo 175.
 
-La Secretaría será la instancia de coordinación para la realización de las disposiciones zoosanitarias que correspondan al Gobierno, demarcaciones territoriales y demás autoridades locales, previstas en las Leyes, Decretos, Acuerdos, Normas Oficiales Mexicanas y demás disposiciones vigentes y aplicables en el Distrito Federal, a la que compete, además:
+La política de sanidad animal en el Distrito Federal se sujetará a las siguientes bases:
 
-I. Promover la concertación con las autoridades sanitarias federales, así como estatales y municipales del área conurbana, a efecto de implementar acciones programáticas en materia de sanidad animal;
+I. Se entenderá por:
 
-II. Formular y desarrollar, a través de la Agencia, programas permanentes de difusión y fomento para el control sanitario de: Criaderos, Veterinarias, Albergues y en general, de los establecimientos comerciales y espacios de diversa índole dedicados a la compra y venta de animales, así como de aquellos destinados a su manejo, exhibición, vacunación y esterilización, de conformidad a lo dispuesto por la Ley Ambiental y a la Ley de Protección a los Animales del Distrito Federal;
+a. Centros de Atención Canina: Los establecimientos de servicio público operados por la Secretaría que lleven a cabo cualquiera de las actividades orientadas a la prevención y control de la rabia en perros y gatos, y demás establecidas los en (sic) ordenamientos jurídicos aplicables; y
 
-III. Supervisar sanitariamente, por medio de la Agencia, a los centros de control animal, asistencia y zoonosis y análogos, así como también, los centros destinados a la captura y sacrificio humanitario de animales abandonados o ferales, en términos de lo dispuesto en la Ley de Protección a los Animales del Distrito Federal;
+b. Clínicas Veterinarias Delegacionales: Los establecimientos públicos operados por las demarcaciones territoriales, cuyo objeto es proporcionar servicios para atención de emergencias a perros y gatos, así como la aplicación de un cuadro básico de medicina preventiva, incluyendo esterilización para esas especies domésticas, acciones que, de acuerdo a su competencia y capacidad, podrán extender directamente o por medio de convenios que permitan proporcionar a los animales servicios de especialización.
 
-IV. Implementar programas permanentes y extraordinarios de vacunación y esterilización animal, y,
+II. La Secretaría, como instancia rectora en la materia, emitirá y vigilará el cumplimiento de los lineamientos de operación sanitaria para las Clínicas Veterinarias Delegacionales y Centros de Atención Canina, de conformidad con las disposiciones contenidas en la Ley de Protección a los Animales del Distrito Federal, las Normas Oficiales Mexicanas de la materia y demás ordenamientos jurídicos aplicables, para proporcionar a los animales un trato digno y respetuoso con manejo ético y responsable, durante los procedimientos de captura, retiro, traslado, estancia y, en su caso, sacrificio. La Secretaría, en los lineamientos sanitarios, determinará la coordinación con las dependencias de la Administración Pública del Distrito Federal para el cumplimiento de las fracciones a las que se refiere el presente artículo. En los lineamientos de operación a los que se refiere el presente artículo, se establecerán los siguientes procedimientos:
 
-V. Supervisar y autorizar, a través de la Agencia, los espacios destinados a la incineración de cadáveres de animales domésticos y la supervisión de los establecimientos comerciales que presten los servicios funerarios correspondientes.
+a. De los servicios que proporcionan;
+
+b. De la captura y retiro de perros y gatos abandonados o ferales, la cual se realizará sólo a petición ciudadana evitando, en la medida de lo posible, las capturas masivas, con excepción de aquellos casos en los que queden determinadas bajo las disposiciones de las Normas Oficiales Mexicanas de la materia y demás ordenamientos jurídicos aplicables. Se deberá capacitar al personal encargado de llevar a cabo este procedimiento, para que proporcione un trato digno, respetuoso y de manejo ético y responsable a los animales, de conformidad con la Ley de Protección a los Animales del Distrito Federal y demás ordenamientos jurídicos aplicables;
+
+c. De la estancia y manejo de perros y gatos ingresados a las Clínicas Veterinarias Delegacionales y Centros de Atención Canina, con el fin de que respondan a lo establecido en la Ley de Protección a los Animales del Distrito Federal, las Normas Oficiales Mexicanas de la materia y demás ordenamientos jurídicos aplicables;
+
+d. Del sacrificio de emergencias por motivos de enfermedad y por entrega voluntaria de los animales que sean ingresados a las Clínicas Veterinarias Delegacionales y del sacrificio humanitario en los Centros de Atención Canina, seleccionando como método, conforme a lo establecido en la Norma Oficial Mexicana de la materia, la sobredosis de barbitúricos y previa sedación profunda de todos los ejemplares, para lo cual deberá capacitarse al personal encargado del procedimiento referido, con la finalidad de que cumpla con el protocolo respectivo;
+
+e. De la esterilización de perros y gatos, contemplando que sea permanente y gratuita;
+
+f. De la participación de organizaciones de la sociedad civil dedicadas a la protección, defensa y bienestar de los animales, y de la difusión de una cultura a favor de un trato digno y respetuoso para los animales en las acciones de promoción que se derivan del presente artículo y demás ordenamientos jurídicos aplicables, y
+
+g. Los demás que determine la Secretaría.
+
+III. La Secretaría de Finanzas del Distrito Federal establecerá el esquema de pagos correspondientes y, en su caso, las exenciones, respecto a los servicios que se proporcionen en las Clínicas Veterinarias Delegacionales y en los Centros de Atención Canina observando para ello lo establecido en la Ley de Protección a los Animales del Distrito Federal y demás ordenamientos jurídicos aplicables; asimismo procurará que los derechos que se reciban por estos conceptos se canalicen de manera ágil a esos lugares para ser aplicados en su mantenimiento y rehabilitación, así como para la adquisición de los insumos y equipo necesarios para su correcta operación, dentro del ejercicio fiscal que corresponda.
+
+IV. Las Delegaciones, en coordinación con la Secretaría y de acuerdo a la suficiencia presupuestal, promoverán la instalación de contenedores diseñados para el depósito de excretas caninas en espacios públicos determinados, debiendo realizar el vaciado diario en recipientes cerrados y mantenimiento necesario para su óptimo funcionamiento; además se observará el aprovechamiento de los desechos orgánicos en los términos establecidos en la Ley de Residuos Sólidos del Distrito Federal. Se realizarán acciones masivas de difusión sobre la importancia de recoger las heces fecales de los animales de compañía en la vía pública.
+
+V. La Secretaría, conjuntamente con las dependencias de la Administración Pública del Distrito Federal respectivas y como forma de corresponsabilidad social en la política de sanidad animal del Distrito Federal, fomentará en la sociedad la cultura sobre un manejo ético y responsable de sus animales, buscando con ello que se les proporcione un trato digno y respetuoso que opere a favor de que disminuyan el abandono, el maltrato y las agresiones.
+
+VI. El Gobierno, la Asamblea Legislativa del Distrito Federal y las Delegaciones, en el ámbito de sus competencias, propondrán y asignarán los recursos suficientes y específicos para la aplicación de las acciones derivadas del presente artículo, así como para intensificar la esterilización de perros y gatos de forma permanente y gratuita, dentro del Presupuesto de Egresos del Distrito Federal de cada ejercicio fiscal.
 
 ### Capítulo XIV. Agua Potable y Alcantarillado
 
@@ -2483,3 +2521,23 @@ Tercero.- Las acciones contenidas en el presente Decreto se realizarán conforme
 G.O. 11 DE JULIO DE 2011.
 
 Único. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal. La Secretaría de Salud, conforme a la suficiencia presupuestal asignada por la Asamblea Legislativa, instrumentará las acciones establecidas en la (sic) presente Decreto.
+
+G.O. 8 DE AGOSTO DE 2011.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- Se derogan todas las disposiciones legales y administrativas que se opongan al presente Decreto.
+
+TERCERO.- Las Dependencias que integran la Administración Pública del Distrito Federal y las demarcaciones territoriales a las que se refiere el presente Decreto, de acuerdo a la suficiencia presupuestal asignada por la Asamblea Legislativa, instrumentarán las acciones contenidas en el mismo, de conformidad con sus atribuciones.
+
+Para dar cumplimiento a lo establecido en el artículo 175 base II inciso d), se atenderá a la disponibilidad del medicamento que, conforme a su autorización y liberación de los permisos respectivos, realice la Comisión Federal para la Protección contra Riesgos Sanitarios, de acuerdo a los ordenamientos jurídicos aplicables. En caso de un desabasto debidamente acreditado de los fármacos correspondientes, se emplearán temporalmente, los métodos de sacrificio contemplados en la Norma Oficial Mexicana de la materia y sólamente en aquellos casos en los que así lo permita.
+
+La Secretaría y demás dependencias de la Administración Pública del Distrito Federal, en el ámbito de su competencia, deberán realizar las gestiones necesarias a fin de garantizar, al máximo de sus posibilidades, la disponibilidad de los insumos y equipo necesarios para el debido cumplimiento de sus programas, en los términos dispuestos en el presente Decreto, la Ley de Protección a los Animales del Distrito Federal, las Normas Oficiales Mexicanas de la materia y demás ordenamientos jurídicos aplicables.
+
+CUARTO.- La Secretaría contará con 120 días hábiles a partir de la entrada en vigor del presente Decreto para expedir los lineamientos sanitarios de operación de las Clínicas Veterinarias Delegacionales y de los Centros de Atención Canina a los que se refiere la presente Ley.
+
+Previo a la publicación de los lineamientos a los que se refiere el presente artículo, la Secretaría invitará a la Secretaría del Medio Ambiente del Distrito Federal, a las Delegaciones, al Consejo Consultivo Ciudadano del Distrito Federal para el Bienestar y Atención de los Animales, a instituciones académicas y a personas interesadas en la materia, para su revisión y consulta.
+
+Las Delegaciones, en coordinación con la Secretaría, a más tardar en dos años contados a partir de la entrada en vigor del presente Decreto, deberán instrumentar las acciones necesarias para llevar a cabo la transición de los Centros de Atención Canina y cualquier análogo a Clínicas Veterinarias Delegacionales.
+
+La Secretaría, en los lineamientos que emita, propondrá un cronograma para dar cumplimiento a esa disposición, así como las condiciones mínimas indispensables para su óptimo funcionamiento y de esa manera garantizar el cumplimiento del presente Decreto.
