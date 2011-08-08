@@ -4,7 +4,7 @@ identifier: "AGU-codigo-municipal-de-aguascalientes-aguascalientes-57523"
 country: "mx"
 rank: "codigo"
 publication_date: "2007-11-12"
-last_updated: "2011-02-21"
+last_updated: "2011-08-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57523&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 CODIGO MUNICIPAL DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE FEBRERO DE 2011.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE AGOSTO DE 2011.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 12 de noviembre de 2007.
 
@@ -261,7 +261,9 @@ XVI. Consejo Municipal de Medio Ambiente y Desarrollo Sustentable.
 
 XVII. Consejo Consultivo de Depuración Documental.
 
-XVIII. Consejo Ciudadano de Seguridad Pública y Tránsito.
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2011)</small>
+
+XVIII. Consejo Municipal de Consulta y Participación Ciudadana.
 
 XIX. Consejo Consultivo del Instituto Municipal de Planeación.
 
@@ -309,7 +311,9 @@ El Presidente Municipal es el ejecutor de las determinaciones del H. Ayuntamient
 
 BIS.- El Presidente Municipal, a través de la Unidad Administrativa que éste determine, deberá:
 
-l. Capacitar al personal de las distintas instancias policiales para atender los casos de violencia contra las mujeres.
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2011)</small>
+
+I. Capacitar al personal de la Secretaría de Seguridad Pública para atender los casos de violencia contra las mujeres.
 
 II. Establecer las acciones y medidas que se deberán tomar para la readaptación de los generadores de violencia.
 
@@ -773,11 +777,9 @@ En todo lo no previsto en este Código, se recurrirá a las disposiciones de la 
 
 ### CAPÍTULO IX. De las Comisiones
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE NOVIEMBRE DE 2008)</small>
-
 ###### ARTÍCULO 82.
 
-El Cabildo nombrará las Comisiones Permanentes que tendrán la obligación de vigilar el ramo de la administración que se les encomiende y serán las siguientes:
+El Cabildo nombrará las Comisiones permanentes que tendrán la obligación de vigilar el ramo de la administración que se les encomiende y serán las siguientes:
 
 REGIDORES
 
@@ -785,7 +787,9 @@ I. Gobernación.
 
 II. Hacienda.
 
-III. Seguridad Pública y Tránsito Municipal.
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2011)</small>
+
+III. Seguridad Pública.
 
 > <small>(REFORMADA, P.O. 11 DE AGOSTO DE 2008)</small>
 
@@ -963,7 +967,9 @@ Secretaría de Desarrollo Urbano;
 
 Secretaría de Servicios Públicos;
 
-Secretaría Seguridad Pública y Tránsito Municipal; y
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2011)</small>
+
+Secretaría Seguridad Pública; y
 
 Secretaría de Medio Ambiente y Desarrollo Sustentable.
 
@@ -1335,7 +1341,9 @@ Departamento de Operación y Servicios
 
 Departamento de Parques Públicos
 
-XVI.- SECRETARIA DE SEGURIDAD PÚBLICA Y TRÁNSITO MUNICIPAL
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE AGOSTO DE 2011)</small>
+
+XVI.- SECRETARIA DE SEGURIDAD PÚBLICA
 
 Secretario Particular
 
@@ -1741,9 +1749,9 @@ XIV. Asesorar en todo momento a los titulares de las Direcciones, Coordinaciones
 
 XV. Conocer y en su caso atraer los asuntos jurídicos que así lo requieran por importancia o gravedad, por sí o a través de la Dirección de Asuntos Jurídicos.
 
-> <small>(ADICIONADA, P.O. 31 DE ENERO DE 2011)</small>
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2011)</small>
 
-XVI. Tener bajo su mando la Dirección de Asuntos Internos de Seguridad Pública y Tránsito encargada de atender y dar seguimiento a las denuncias que se presenten sobre la actuación de los elementos operativos que conforman los cuerpos de Seguridad Pública Municipal.
+XVI. Tener bajo su mando la Dirección de Asuntos Internos de Seguridad Pública encargada de atender y dar seguimiento a las denuncias que se presenten sobre la actuación de los integrantes operativos que conforman la Secretaría de Seguridad Pública.
 
 > <small>(ADICIONADA, P.O. 31 DE ENERO DE 2011)</small>
 
@@ -2205,33 +2213,37 @@ XIX. Las demás que señale la Ley o le encomiende el H. Ayuntamiento por conduc
 
 XX. Fomentar a través de programas de educación ambiental la disminución en la generación de basura y residuos y cambio en patrones de consumo y producción.
 
+> <small>(REFORMADA SU DENOMINACION, P.O. 8 DE AGOSTO DE 2011)</small>
+
 APARTADO DÉCIMO QUINTO
 
-De la Secretaría de Seguridad Pública y Tránsito Municipal
+De La Secretaría de Seguridad Pública
+
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2011)</small>
 
 ###### ARTÍCULO 114.
 
-Corresponde a la Secretaría de Seguridad Pública y Tránsito Municipal lo siguiente:
+Con el objeto de garantizar la protección de los derechos humanos de la sociedad, corresponde a la Secretaría de Seguridad Pública lo siguiente:
 
-I. Mantener la tranquilidad y el orden público, vigilando permanentemente el territorio municipal, apegándose a la división delegacional que consigna el presente Código; en la zona rural del territorio del Municipio, deberá apoyar en sus funciones a los Delegados y Comisarios Municipales y efectuar una estrecha vigilancia en los poblados y rancherías.
+I. Proteger la integridad física de las personas y preservar sus bienes ante situaciones de peligro y cualquier amenaza o disturbio que implique violencia o riesgo inminente, así como garantizar, mantener y restablecer la paz y el orden público dentro del territorio del Municipio, asimismo deberá apoyar en sus funciones a los Delegados y Comisarios Municipales y efectuar una estrecha vigilancia en los poblados y rancherías;
 
-II. Proteger la integridad física, la seguridad y bienes de las personas, que se encuentren en el Municipio, a través de medidas que prevengan actos que perturben o pongan en peligro los bienes jurídicamente tutelados.
+II. Coordinar y colaborar con las autoridades federales, estatales y municipales en el ejercicio de sus funciones de investigación, prevención y reacción. Así como en los casos en que se requiera el uso de la fuerza pública;
 
-III. Prevenir la comisión de delitos e infracciones de leyes y reglamentos a través de disposiciones y acciones para preservar el orden público.
+III. Prevenir la comisión de delitos e infracciones a las leyes y reglamentos a través de disposiciones y acciones concretas para preservar la paz social;
 
-IV. Colaborar en la investigación y persecución de delitos, como auxiliar del Ministerio Público, del Poder Ejecutivo y del Poder Judicial, tanto Federal como Estatal, de conformidad con lo dispuesto en la Constitución Política de los Estados Unidos Mexicanos.
+IV. Colaborar en la investigación y persecución de los delitos, siendo auxiliar del Ministerio Público, del Poder Ejecutivo y del Poder Judicial, tanto federales como del Estado, de conformidad con lo dispuesto en la Constitución Política de los Estados Unidos Mexicanos y demás disposiciones legales aplicables;
 
-V. Auxiliar a la población en casos de siniestros y desastres.
+V. Vigilar, aplicar y hacer cumplir, en el ámbito de su competencia, las disposiciones contenidas en la Ley de Vialidad del Estado de Aguascalientes y en el Reglamento de Tránsito del Municipio de Aguascalientes;
 
-VI. Vigilar el cumplimiento de las normas de tránsito de vehículos y peatones dentro del Municipio.
+VI. Practicar detenciones de personas y el aseguramiento de bienes en los casos previstos en el artículo 16 de la Constitución Política de los Estados Unidos Mexicanos, así como los responsables por la presunta comisión de faltas administrativas o hechos delictivos en los términos de ley;
 
-VII. Auxiliar a las autoridades municipales, estatales y federales, en los casos en que se requiera el uso de la fuerza pública.
+VII. Poner a disposición de las autoridades competentes, en forma inmediata, a las personas detenidas y los bienes que en su caso se hayan asegurado;
 
-VIII. Desarrollar y aplicar políticas, programas y acciones en materia de prevención del delito, mediante procesos conjuntos con la sociedad.
+VIII. Vigilar e inspeccionar, para fines de Seguridad Pública, la zona terrestre de las vías generales de comunicación y los medios de transporte que operen en el Municipio de Aguascalientes;
 
-IX. Prestar atención psicológica a los miembros de la corporación durante el tiempo que presten sus servicios en la Secretaría de Seguridad Pública y Tránsito Municipal, así como evaluar los métodos de reclutamiento a fin de incrementar la eficiencia de dicho proceso, identificando las características intelectuales, sociales, afectivas y físicas de cada elemento.
+IX. Realizar investigaciones en el ámbito de su competencia para hacer efectiva la prevención, así como las derivadas de la comisión de delitos y faltas administrativas cometidos dentro del Municipio en el entendido de que esta información constituye la plataforma sustantiva para la conformación de las bases de datos susceptibles de aprovechamiento en la atención al fenómeno delictivo; y
 
-X. Las demás que le señale la Ley, Reglamentos o el H. Ayuntamiento por conducto del Presidente Municipal.
+X. Las demás que señale la ley, los reglamentos, el H. Ayuntamiento y el Presidente Municipal.
 
 > <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 14 DE FEBRERO DE 2011)</small>
 
@@ -2251,7 +2263,9 @@ III.- Crear, Administración y Manejar las áreas naturales protegidas de compet
 
 IV.- Promover y fomentar la participación corresponsable de la sociedad tendiente a mantener la limpieza de la vía pública municipal y recolección de residuos sólidos que se generen;
 
-V.- Establecer, en coordinación con la Secretaría de Seguridad Pública y Tránsito Municipal, medidas para retirar de la circulación los vehículos automotores que no cumplan con las Normas Oficiales aplicables;
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2011)</small>
+
+V.- Establecer, en coordinación con la Secretaría de Seguridad Pública, medidas para retirar de la circulación los vehículos automotores que no cumplan con las Normas Oficiales aplicables;
 
 VI.- Participar conjuntamente con el Instituto Municipal de Planeación y con la Secretaría de Desarrollo Urbano Municipal, en la elaboración y autorización de proyectos de reglamentación de Zonificación, Usos y Permisos del Suelo así como de los planes y programas de Desarrollo Urbano Municipal; así como negar desarrollos a menos de quince metros de arroyos y ríos de competencia municipal en coordinación con la misma Secretaría;
 
@@ -2945,7 +2959,9 @@ X. Bien Obsoleto: Al bien mueble que no obstante que no haya terminado su vida �
 
 XI. Bien de Uso Común: Al bien mueble ubicado en áreas municipales de uso común y de utilidad general y que por lo mismo no posee resguardo.
 
-XII. Bien de Uso Público: Al bien mueble ubicado en lugares públicos y que por lo mismo no posee un resguardo y que son vigilados por los elementos adscritos a la Secretaría de Seguridad Pública y Tránsito Municipal.
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2011)</small>
+
+XII. Bien de Uso Público: Al bien mueble ubicado en lugares públicos y que por lo mismo no posee un resguardo y que son vigilados por integrantes operativos de la Secretaría de Seguridad Pública.
 
 XIII. Resguardo: Al documento público expedido por Control Patrimonial, en el que consta la firma del resguardante y que contiene los datos del bien mueble.
 
@@ -3393,7 +3409,9 @@ V. En caso de robo, pérdida o extravío de alguna o las dos palcas (sic) de cir
 
 VI. Mostrar una identificación con fotografía que lo acredite como servidor público adscrito al Municipio, cuando se lo requiera personal de Control Patrimonial.
 
-VII. Cubrir el importe de las multas que le sean impuestas por la Secretaría de Seguridad Pública y Tránsito Municipal.
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2011)</small>
+
+VII. Cubrir el importe de las multas que le sean impuestas por la Secretaría de Seguridad Pública.
 
 VIII. Acudir al centro de verificación vehicular en tiempo y forma según el vale expedido por el taller, de no ser así, deberá pagar la multa que origina su falta.
 
@@ -3895,7 +3913,9 @@ V. Informar al Secretario del H. Ayuntamiento y Director General de Gobierno, so
 
 VI. Elaborar planes y programas necesarios para la debida impartición de la Justicia Municipal.
 
-VII. Expedir constancias de no antecedentes policíacos.
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2011)</small>
+
+VII. Expedir constancias de no antecedentes policiales.
 
 VIII. Vigilar el buen funcionamiento administrativo y operativo de la Dirección.
 
@@ -3949,11 +3969,13 @@ XI. Aplicar las medidas necesarias para la tutela y protección de los menores p
 
 XII. Llevar el control de la correspondencia y registro de todos los oficios en que intervenga con motivo del ejercicio de sus funciones.
 
-XIII. Dictar las medidas y lineamientos necesarios al personal de Seguridad Pública y Tránsito para el buen funcionamiento del Juzgado.
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2011)</small>
 
-> <small>(REFORMADA, P.O. 3 DE NOVIEMBRE DE 2008)</small>
+XIII. Dictar las medidas y lineamientos necesarios al personal de la Secretaría de Seguridad Pública para el buen funcionamiento del Juzgado.
 
-XIV. Están facultados para aplicar las sanciones establecidas en el artículo 157 de la Ley de Vialidad del Estado de Aguascalientes, así como para llevar a cabo los procedimientos establecidos en el Capitulo Décimo Noveno del Reglamento de Tránsito del Municipio de Aguascalientes y aplicar sus respectivas sanciones. Lo anterior, independientemente de si el Juez Municipal esté adscrito o no a Tránsito Municipal.
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2011)</small>
+
+XIV. Están facultados para aplicar las sanciones establecidas en el artículo 157 de la Ley de Vialidad del Estado de Aguascalientes, así como para llevar a cabo los procedimientos establecidos en el Capítulo Décimo Noveno del Reglamento de Tránsito del Municipio de Aguascalientes y aplicar sus respectivas sanciones. Lo anterior, independientemente de si el Juez Municipal esté adscrito o no a Tránsito y Movilidad.
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 3 DE NOVIEMBRE DE 2008)</small>
 
@@ -4013,25 +4035,31 @@ El encargado del depósito de pertenencias tendrá bajo su más estricta respons
 
 Cuando se recojan armas, objetos peligrosos, enervantes, psicotrópicos, estupefacientes o cualquier tipo de droga prohibida, u objeto motivo de la comisión de algún ilícito o cualquier objeto utilizado para delinquir, se pondrán inmediatamente a disposición del Juez Municipal para que proceda a su remisión, mediante oficio, a la autoridad competente.
 
+> <small>(REFORMADA SU DENOMINACION, P.O. 8 DE AGOSTO DE 2011)</small>
+
 APARTADO QUINTO
 
-De los Jueces Municipales adscritos a Tránsito Municipal
+De los Jueces Municipales adscritos a Tránsito y Movilidad
 
-> <small>(REFORMADO, P.O. 3 DE NOVIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE AGOSTO DE 2011)</small>
 
 ###### ARTÍCULO 306.
 
-Es facultad de los Jueces Municipales adscritos a Tránsito Municipal, la calificación y reconsideración de las sanciones a que se hagan acreedores los infractores del Reglamento de Tránsito del Municipio de Aguascalientes y la Ley de Vialidad del Estado de Aguascalientes. Además, contarán con las atribuciones establecidas en el artículo 298 del presente Código, para efecto de la aplicación del Reglamento de Tránsito del Municipio de Aguascalientes, y la Ley de Vialidad del Estado de Aguascalientes, así como el Reglamento que en materia de servicio comunitario expida el H. Ayuntamiento.
+Es facultad de los Jueces Municipales adscritos a Tránsito y Movilidad, la calificación y reconsideración de las sanciones a que se hagan acreedores los infractores del Reglamento de Tránsito del Municipio de Aguascalientes y la Ley de Vialidad del Estado de Aguascalientes. Además, contarán con las atribuciones establecidas en el artículo 298 del presente Código, para efecto de la aplicación del Reglamento de Tránsito del Municipio de Aguascalientes y la Ley de Vialidad del Estado de Aguascalientes, así como el Reglamento que en materia de servicio comunitario expida el H. Ayuntamiento.
 
 En el caso de la multa, el monto de la misma será establecido por la Secretaría de Finanzas Públicas Municipales y será considerada como crédito fiscal.
 
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2011)</small>
+
 ###### ARTÍCULO 307.
 
-Para ingresar al cuerpo de Jueces Municipales adscritos a Tránsito Municipal, se deberán de cumplir los requisitos a que se refiere el Artículo 297 del presente Código.
+Para ingresar al cuerpo de Jueces Municipales adscritos a Tránsito y Movilidad, se deberán de cumplir los requisitos a que se refiere el artículo 297 del presente Código.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE AGOSTO DE 2011)</small>
 
 ###### ARTÍCULO 308.
 
-El Director de Justicia Municipal, acorde a las necesidades de la Dirección de Tránsito, asignará los horarios y turnos que deberán cubrir los Jueces Municipales comisionados a esta dependencia.
+El Director de Justicia Municipal, acorde a las necesidades de la Dirección de Tránsito y Movilidad, asignará los horarios y turnos que deberán cubrir los Jueces Municipales comisionados a esta dependencia.
 
 Estos funcionarios llevarán el control y funcionamiento administrativo del tumo asignado, debiendo rendir diariamente informe de actividades al Director de Justicia Municipal.
 
@@ -4039,15 +4067,19 @@ Estos funcionarios llevarán el control y funcionamiento administrativo del tumo
 
 En caso de ser procedente la imposición de la multa, la calificará conforme las disposiciones aplicables y la notificará personalmente.
 
-Para calificación, reclasificación y reconsideración de las multas de tránsito, el Juez Municipal de Tránsito, deberá tomar en cuenta lo dispuesto en el Artículo 21 Constitucional.
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2011)</small>
 
-Los Jueces Municipales sólo atenderán las gestiones que provengan directamente de los interesados y en ningún momento podrán emitir resoluciones respecto a flotillas de parques vehiculares públicos o privados.
+Para calificación, reclasificación y reconsideración de las multas de tránsito, el Juez Municipal de Tránsito y Movilidad, deberá tomar en cuenta lo dispuesto en el artículo 21 Constitucional.
 
-Se considera reincidencia para los efectos de éste capítulo la aplicación de una sanción en un periodo de doce meses anteriores inmediatos a la nueva sanción.
+> <small>N. DE E. DEROGADO TERCER PARRAFO, P.O. 8 DE AGOSTO DE 2011.</small>
 
-###### ARTÍCULO 310.
+> <small>N. DE E. DEROGADO CUARTO PARRAFO, P.O. 8 DE AGOSTO DE 2011.</small>
 
-Los infractores que no estén de acuerdo con la calificación de alguna boleta de infracción, deberán recurrir ante el Juzgado Municipal comisionado a la Dirección de Tránsito dentro del término establecido en el Artículo 144 fracción VI de la Ley de Vialidad para el Estado de Aguascalientes, a solicitar la reconsideración, que tiene como objeto, el confirmar, revocar o modificar la sanción impuesta.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE AGOSTO DE 2011)</small>
+
+###### ARTICULO 310.
+
+Los infractores que no estén de acuerdo con la calificación de alguna boleta de infracción, deberán recurrir ante el Juzgado Municipal comisionado a la Dirección de Tránsito y Movilidad dentro del término establecido en el artículo 144 fracción VI de la Ley de Vialidad para el Estado de Aguascalientes, a solicitar la reconsideración, que tiene como objeto, el confirmar, revocar o modificar la sanción impuesta.
 
 El infractor que solicite la reconsideración deberá presentar en forma personal su licencia de conducir vigente, a efecto de acreditar los extremos de los Artículos 32 y 37 de la ley de Vialidad en el Estado. Sin este requisito el recurso se desechará de plano.
 
@@ -4075,7 +4107,9 @@ III. Solicitar los materiales y equipo de trabajo para el departamento a su carg
 
 IV. Coordinar, supervisar y proponer planes y programas de trabajo al Director de Justicia Municipal.
 
-V. Informar al Director de Justicia Municipal, sobre cualquier evento relevante que se suscite en las actividades cotidianas de las áreas a su cargo.
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2011)</small>
+
+V. Elaborar certificados médicos a las personas detenidas y presentadas por autoridad distinta de la Secretaría de Seguridad Pública, con la que previamente se haya celebrado convenio de colaboración, así hecho saber por el Director de Justicia Municipal o por el Jefe del Departamento.
 
 VI. Participar en la programación y supervisión de cursos de capacitación.
 
@@ -4099,7 +4133,9 @@ III. Informar al Juez Municipal sobre la viabilidad de ingreso del detenido a ce
 
 IV. Al concluir su turno, entregar de manera personal, física y documentalmente los detenidos en celdas, debiendo informar el estado de salud de cada uno a su relevo.
 
-V. Elaborar certificados médicos a las personas detenidas y presentadas por autoridad distinta de la Secretaría de Seguridad Pública y Tránsito Municipal, con la que previamente se haya celebrado convenio de colaboración, así hecho saber por el Director de Justicia Municipal o por el Jefe del Departamento.
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2011)</small>
+
+V. Elaborar certificados médicos a las personas detenidas y presentadas por autoridad distinta de la Secretaría de Seguridad Pública, con la que previamente se haya celebrado convenio de colaboración, así hecho saber por el Director de Justicia Municipal o por el Jefe del Departamento.
 
 VI. Elaborar informe por escrito de actividades al final del turno.
 
@@ -4123,7 +4159,9 @@ I. Pasar lista a los detenidos en celdas al inicio de cada turno.
 
 II. Orientar a detenidos, infractores y a la población en general, en la solución de problemas sociales, familiares, vecinales, de adicciones, entre otros.
 
-III. Atender y encauzar a la autoridad competente a las personas extraviadas, en desventaja social, menores de edad y enfermos mentales que sean presentados por los elementos de la Secretaría de Seguridad Pública y Tránsito Municipal o remitidos por el Juez Municipal.
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2011)</small>
+
+III. Atender y encauzar a la autoridad competente a las personas extraviadas, en desventaja social, menores de edad y enfermos mentales que sean presentados por los integrantes operativos de la Secretaría de Seguridad Pública o remitidos por el Juez Municipal.
 
 IV. Llevar el registro de actividad diaria.
 
@@ -4329,11 +4367,11 @@ Tratándose de los segundos, el Director remitirá en su caso, oficio a las auto
 
 En ningún caso el personal del Municipio podrá obtener dominio de los bienes para sí o para sus cónyuges, ascendientes, descendientes y colaterales dentro del cuarto grado, consanguíneos o por afinidad.
 
-> <small>(REFORMADO, P.O. 3 DE NOVIEMBRE DE 2008)</small>
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2011)</small>
 
-###### ARTÍCULO 332.
+###### ARTICULO 332.
 
-En caso de que cualquier persona adscrita a la Dirección de Justicia Municipal constatara que el infractor, al momento de su detención fue objeto de malos tratos, de abuso, golpes o merma en sus pertenencias, por parte del personal de la Secretaría de Seguridad Pública y Tránsito Municipal, deberá de elaborar informe de hechos, para los efectos de remitirlo a la Dirección de Asuntos Internos de Seguridad Pública y Tránsito, con el objeto de proceder a los correctivos a que haya lugar, o en su caso dar vista al Ministerio Público.
+En caso de que cualquier persona adscrita a la Dirección de Justicia Municipal constatara que el infractor, al momento de su detención fue objeto de malos tratos, de abuso, golpes o merma en sus pertenencias, por parte del personal de la Secretaría de Seguridad Pública, deberá de elaborar informe de hechos, para los efectos de remitirlo a la Dirección de Asuntos Internos de Seguridad Pública, con el objeto de proceder a los correctivos a que haya lugar, o en su caso dar vista al Ministerio Público.
 
 ### CAPÍTULO IX. De los Centros de Detención Preventiva
 
@@ -4405,7 +4443,9 @@ I. Ocasionar disturbios, emitir gritos o interrumpir injustificadamente, un acto
 
 II. Hacer burla, signos de desprecio o cualquier otro que implique falta de respeto hacia los símbolos patrios, respetando en todo momento las creencias religiosas de los habitantes del Municipio.
 
-III. Portar insignias, ropas o identificaciones de uso exclusivo de corporaciones policíacas del Estado y sus municipios, sin estar debidamente autorizado para ello.
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2011)</small>
+
+III. Portar insignias, ropas ó identificaciones de uso exclusivo de corporaciones policiales del Estado y sus Municipios, sin estar debidamente autorizado para ello.
 
 APARTADO CUARTO
 
@@ -4605,13 +4645,17 @@ Una vez dispuesto lo anterior, el personal de Trabajo Social y Psicología, se a
 
 De igual forma se destinarán espacios especiales para la reclusión de los menores de dieciocho años y mayores de doce, cuando por sus circunstancias lo ameriten.
 
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2011)</small>
+
 ###### ARTÍCULO 349.
 
-La vigilancia sobre la comisión de faltas administrativas queda a cargo de las Direcciones de Policía Preventiva, de Tránsito Municipal y de la Dirección de Reglamentos, así como de la Dirección de la Unidad de Protección Civil en el ámbito de su competencia, en los centros de espectáculos. La aplicación de las sanciones es facultad exclusiva de los Jueces Municipales.
+La vigilancia sobre la comisión de faltas administrativas queda a cargo de las Direcciones de Policía Preventiva, de Tránsito y Movilidad y de la Dirección de Reglamentación, así como de la Dirección Municipal de Protección Civil, Bomberos y Atención a Emergencias Pre hospitalarias en el ámbito de su competencia, en los centros de espectáculos. La aplicación de las sanciones es facultad exclusiva de los Jueces Municipales.
+
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2011)</small>
 
 ###### ARTÍCULO 350.
 
-Los elementos de las Direcciones de Policía Preventiva, de Tránsito Municipal y de la Dirección de Reglamentos, así como de la Dirección de la Unidad de Protección Civil en el ámbito de su competencia, deberán poner a disposición inmediatamente ante el Juez Municipal competente al infractor. Si las circunstancias así lo ameritan, solicitarán el auxilio de los servicios médicos.
+Los integrantes operativos de las Direcciones de Policía Preventiva, de Tránsito y Movilidad y el personal de la Dirección de Reglamentación, así como de la Dirección Municipal de Protección Civil, Bomberos y Atención a Emergencias Pre hospitalarias en el ámbito de su competencia, deberán poner a disposición inmediatamente ante el Juez Municipal competente al infractor. Si las circunstancias así lo ameritan, solicitarán el auxilio de los servicios médicos.
 
 ###### ARTÍCULO 351.
 
@@ -4733,11 +4777,17 @@ XII. Vigilar que las normas de seguridad sean cumplidas y observadas por los ofi
 
 XIII. Vigilar se lleve a cabo el buen funcionamiento del Centro de Detención Preventiva Municipal.
 
-XIV Solicitar se sancione administrativamente o disciplinariamente a cualquier elemento de policía o personal municipal que no cumplan o violen cualquier disposición del presente ordenamiento.
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2011)</small>
 
-XV. Solicitar al Secretario de Seguridad Pública y Tránsito Municipal el cambio de cualquier oficial custodio adscrito a los Juzgados Municipales, siempre y cuando exista causa justificada para ello.
+XIV. Solicitar se sancione administrativamente o disciplinariamente a cualquier integrante operativo de la Secretaría de Seguridad Pública o personal municipal que no cumplan o violen cualquier disposición del presente ordenamiento.
 
-XVI. Tener las veinticuatro horas de los trescientos sesenta y cinco días del año, elementos de policía en las instalaciones del Centro de Detención Preventiva de referencia, encargados del buen funcionamiento del mismo.
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2011)</small>
+
+XV. Solicitar al Secretario de Seguridad Pública el cambio de cualquier integrante operativo comisionado a los Juzgados Municipales, siempre y cuando exista causa justificada para ello.
+
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2011)</small>
+
+XVI. Tener las veinticuatro horas de los trescientos sesenta y cinco días del año, oficiales custodios en las instalaciones del Centro de Detención Preventiva de referencia, encargados del buen funcionamiento del mismo.
 
 XVII. Realizar cursos teóricos-prácticos en materia de derecho y funciones de Centro de Detención Preventiva de personas detenidas, para la formación y actualización del personal de los centros.
 
@@ -4779,11 +4829,15 @@ V. Vigilar que antes de ingresar al detenido a la celda correspondiente, dicha p
 
 VI. Vigilar que se cumpla el derecho de cualquier persona ingresada a comunicarse con el exterior, para ello, se utilizarán los medios que en cada Centro de Detención Municipal se puedan proporcionar.
 
-VII. Exigir y ordenar a los elementos de policía y tránsito o cualquier otra autoridad que remitan a los Centros de Detención Preventiva Municipal a personas por faltas administrativas o de cualquier otra índole, que notifiquen mediante la puesta (sic) disposición al Juez Municipal en turno los motivos de la detención ó presentación; apercibiéndolos a que en caso de omisión a lo indicado se harán acreedores a una sanción administrativa ó no se dará trámite de recepción de la persona en cuestión.
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2011)</small>
+
+VII. Exigir y ordenar a los integrantes operativos de la Secretaría de Seguridad Pública cualquier otra autoridad que remitan a los Centros de Detención Preventiva Municipal a personas por faltas administrativas o de cualquier otra índole, que notifiquen mediante la puesta disposición al Juez Municipal en turno los motivos de la detención ó presentación; apercibiéndolos a que en caso de omisión a lo indicado se harán acreedores a una sanción administrativa ó no se dará trámite de recepción de la persona en cuestión.
 
 VIII. Custodiar y vigilar en todo momento al detenido durante el procedimiento de calificación, revisión médica y en su caso hasta su internamiento en las celdas, igualmente cuando sea requerido ante la presencia del Juez Municipal o este último ordene su presencia ante cualquier otro miembro del personal adscrito a Justicia Municipal.
 
-IX. Vigilar que no se den malos tratos, ni se ataque físicamente a los detenidos por el personal policial, estando obligado a reportar cualquier caso al Juez Municipal en turno, así como a su autoridad superior para la sanción a que se hiciera acreedor.
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2011)</small>
+
+IX. Vigilar que no se den malos tratos, ni se ataque físicamente a los detenidos por el integrante operativo, estando obligado a reportar cualquier caso al Juez Municipal en turno, así como a su autoridad superior para la sanción a que se hiciera acreedor.
 
 X. En caso de que se suscite un conato de riña, robos, evasión de internos o cualquier otro disturbio que ocurra dentro de los Centros de Detención Preventiva Municipal, deberán de dar conocimiento inmediato al Juez Municipal en turno, a fin de que determine el trámite legal a seguir.
 
@@ -4813,9 +4867,11 @@ Procedimiento
 
 El área de Jueces Municipales, en el ámbito de su competencia, supervisará que desde el momento en que sea presentada una persona como presunto responsable de la comisión de una falta administrativa, de un delito, o cualquier otro motivo de presentación, le sea elaborado el expediente administrativo de ingreso, a fin de llevar un control y estadísticas sobre el índice de la población que ingresa al Centro de Detención Preventiva Municipal y vigilar, supervisar y ordenar, a los oficiales custodios para que durante el procedimiento administrativo para el internamiento del detenido se apeguen a lo dispuesto en el presente ordenamiento.
 
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2011)</small>
+
 ###### ARTÍCULO 370.
 
-Una vez que el elemento de policía ya sea Federal, Estatal o Municipal que realice la detención o presentación de la persona, deberá informar a un receptor de detenidos, sobre los hechos que motivan su actuación. De igual manera tendrán la obligación de informar todo lo relacionado con la detención al Juez Municipal en turno, para su debida calificación o para resolver la situación legal del presentado conforme a derecho.
+Una vez que el integrante operativo ya sea Federal, Estatal o Municipal que realice la detención o presentación de la persona, deberá informar a un receptor de detenidos, sobre los hechos que motivan su actuación. De igual manera tendrán la obligación de informar todo lo relacionado con la detención al Juez Municipal en turno, para su debida calificación o para resolver la situación legal del presentado conforme a derecho.
 
 ###### ARTÍCULO 371.
 
@@ -4935,6 +4991,8 @@ II. Los menores de edad serán internados en el cuarto de observación designado
 
 III. Las personas con alguna enfermedad infecto-contagiosa, con alguna enfermedad mental, depresivos o con una actitud agresiva, serán internados en celda distinta a los demás.
 
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 8 DE AGOSTO DE 2011)</small>
+
 IV. Los detenidos que forman parte de una corporación policial deberán ser internados en una sola celda.
 
 V. Se tendrán las consideraciones del caso a los adultos mayores, así como a las personas con capacidades diferentes.
@@ -5041,9 +5099,11 @@ APARTADO DÉCIMO
 
 De los Traslados y el Personal
 
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2011)</small>
+
 ###### ARTÍCULO 405.
 
-Los detenidos por la probable comisión de delitos, deberán ser trasladados por los elementos que designe para tal efecto la Secretaría de Seguridad Pública y Tránsito Municipal, a los lugares que indiquen las autoridades competentes, procurando efectuarlo en forma rápida y con seguridad.
+Los detenidos por la probable comisión de delitos, deberán ser trasladados por los integrantes operativos que designe para tal efecto la Secretaría de Seguridad Pública, a los lugares que indiquen las autoridades competentes, procurando efectuarlo en forma rápida y con seguridad.
 
 ###### ARTÍCULO 406.
 
@@ -5125,7 +5185,9 @@ VI. Rastro.
 
 VII. Calles, parques, jardines y su equipamiento.
 
-VIII. Seguridad Pública y Tránsito.
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2011)</small>
+
+VIII. Seguridad Pública.
 
 IX. Las demás necesarias para la organización y administración del Municipio.
 
@@ -6581,11 +6643,9 @@ VI.- Promover una cultura ambiental entre los diversos sectores de la sociedad, 
 
 (DEROGADO, P.O. 14 DE FEBRERO DE 2011)
 
-### CAPÍTULO I. De la Seguridad Pública y Tránsito
+### CAPITULO I. De la Seguridad Pública
 
-APARTADO PRIMERO
-
-Disposiciones Generales
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2011)</small>
 
 ###### ARTÍCULO 539.
 
@@ -6657,1375 +6717,1671 @@ VII. Desaparecer o extinguirse los actos, hechos u omisiones materia de la denun
 
 2.- La Secretaría del Medio Ambiente y Desarrollo Sustentable en su estricto ámbito de competencia determinará e impondrá las medidas de seguridad que estime convenientes, para evitar la contaminación del ambiente en cualquiera de los rubros que señala el presente ordenamiento.
 
-# LIBRO QUINTO. DE LA SEGURIDAD PÚBLICA Y TRÁNSITO EN EL MUNICIPIO DE AGUASCALlENTES
+> <small>N. DE E. DE CONFORMIDAD CON LAS REFORMAS Y ADICIONES APROBADAS POR EL AYUNTAMIENTO DE AGUASCALIENTES, PUBLICADO EN EL P.O. DE 8 DE AGOSTO DE 2011, SE MODIFICO DE FORMA SUSTANCIAL EL LIBRO QUINTO DEL CODIGO.</small>
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 8 DE AGOSTO DE 2011)</small>
+
+# LIBRO QUINTO. DE LA SEGURIDAD PÚBLICA EN EL MUNICIPIO DE AGUASCALIENTES
 
 ## TÍTULO PRIMERO. DISPOSICIONES GENERALES
 
-### CAPÍTULO II. El Departamento de Bomberos
+> <small>(REFORMADA SU DENOMINACION, P.O. 8 DE AGOSTO DE 2011)</small>
 
-> <small>(REFORMADO, P.O. 31 DE ENERO DE 2011)</small>
+### CAPÍTULO II. Estructura Orgánica y Atribuciones
+
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2011)</small>
 
 ###### ARTÍCULO 544.
 
-El presente capítulo tiene por objeto establecer las bases para regular la actuación de los elementos de Seguridad Pública y Tránsito y es de observancia obligatoria para todos los elementos que la conforman, en el área geográfica de competencia municipal.
+El presente capítulo se compone de las disposiciones reglamentarias, organizacionales y funcionales relativas a la operación de la Secretaría de Seguridad Pública, tiene por objeto regular la conformación, organización, actuación y funcionamiento de la Secretaría y su observancia es obligatoria para todo su personal.
+
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2011)</small>
 
 ###### ARTÍCULO 545.
 
-Corresponde a la Secretaría de Seguridad Pública y Tránsito Municipal:
+Para los efectos de este Libro se entenderá por:
 
-I. La protección de la integridad física de las personas, la preservación de sus bienes, en situaciones de peligro, cuando se vean amenazadas por disturbios u otras situaciones que impliquen violencia o riesgo inminente, así como garantizar, mantener y restablecer la paz y el orden público; dentro del territorio del Municipio;
+I. Secretaría: A la Secretaría de Seguridad Pública;
 
-II. Colaborar, cuando así lo soliciten autoridades federales, estatales o municipales, en el ejercicio de sus funciones de vigilancia, verificación e inspección que tengan conferidas por disposición de las leyes;
+II. Secretario: Al titular de la Secretaría de Seguridad Pública;
 
-III. Prevenir la comisión de delitos e infracciones a las leyes y reglamentos a través de disposiciones y acciones concretas para preservar la paz social;
+III. Personal: Todos los servidores públicos de la Secretaría de Seguridad Pública;
 
-IV. Colaborar en la investigación y persecución de los delitos, siendo auxiliar del Ministerio Público, del Poder Ejecutivo y del Poder Judicial, tanto Federales como del Estado, de conformidad con lo dispuesto en la Constitución Política de los Estados Unidos Mexicanos;
+IV. Integrantes operativos: A todo el personal operativo adscrito a las Direcciones de Policía Preventiva y de Tránsito y Movilidad, que se les atribuye ese carácter mediante la constancia correspondiente y que sus funciones son aquellas inherentes a la prestación del servicio de seguridad pública en forma directa y no forman parte del área administrativa; y
 
-> <small>(REFORMADA, P.O. 3 DE NOVIEMBRE DE 2008)</small>
+V. Personal Administrativo: A los servidores públicos que desarrollan actividades de carácter estrictamente administrativo y coadyuvan al buen funcionamiento de la Secretaría de Seguridad Pública.
 
-V. Vigilar, aplicar y hacer cumplir, en el ámbito de su competencia, las disposiciones contenidas en el Reglamento de Tránsito del Municipio de Aguascalientes y la Ley de Vialidad del Estado de Aguascalientes;
+Este personal estará obligado a prestar sus servicios en cualquier momento y en cualquier tiempo que las necesidades del servicio lo requieran por motivos de seguridad pública, previamente acreditados o para evitar el entorpecimiento del actuar operativo de la Secretaría, sin perjuicio de sus derechos laborales. Asimismo no formará parte del área operativa y se regirá por el Título Tercero, Capítulo Primero, del Libro Segundo de este Código y lo previsto en la Ley de Responsabilidades de los Servidores Públicos del Estado de Aguascalientes y demás instrumentos normativos aplicables.
 
-VI. Practicar detenciones de personas y el aseguramiento de bienes en los casos de flagrancia por la presunta comisión de faltas administrativas o hechos delictivos en los términos de ley;
-
-VII. Poner a disposición de las autoridades competentes, en forma inmediata, a las personas detenidas y los bienes que en su caso se hayan asegurado;
-
-VIII. Vigilar e inspeccionar, para fines de Seguridad Pública, la zona terrestre de las vías generales de comunicación y los medios de transporte que operen en el Municipio de Aguascalientes;
-
-IX. Auxiliar a las autoridades federales, estatales y municipales, en los casos en que se requiera el uso de la fuerza pública y;
-
-X. Las demás que expresamente le confieran las leyes aplicables.
-
-> <small>(ADICIONADO, P.O. 16 DE NOVIEMBRE DE 2009)</small>
-
-###### ARTÍCULO 545
-
-BIS.- La Secretaría de Seguridad Pública y Tránsito Municipal se coordinará con la Secretaría de Seguridad Pública del Estado de Aguascalientes para la cumplimentación de las órdenes de protección que al efecto libere el Ministerio Público o el Juez Penal de la causa que corresponda.
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2011)</small>
 
 ###### ARTÍCULO 546.
 
-La Dirección del Estado Mayor depende de la Secretaría de Seguridad Pública y Tránsito Municipal, tiene las siguientes atribuciones:
+La Seguridad Pública es una función a cargo de la Federación, el Distrito Federal, los Estados y los Municipios, en el ámbito de sus respectivas competencias, en términos de los artículos 21 y 115 de la Constitución Política de los Estados Unidos Mexicanos; el Municipio de Aguascalientes deberá prevenir los delitos y las faltas administrativas, salvaguardar la integridad y derechos de las personas, así como preservar el orden y la paz pública.
 
-I. Desarrollar y aplicar las políticas en materia de prevención del delito, a fin de implementar modelos educativos que permitan combatir y abatir la delincuencia, fomentando en la población una cultura de prevención y seguridad, que restaure y conserve el orden social y reduzca el daño causado por la delincuencia; promoviendo una participación corresponsable entre autoridades y ciudadanía, a fin de incrementar la seguridad personal y patrimonial de los habitantes del Municipio de Aguascalientes;
+Para cumplir con los objetivos de Seguridad Pública la Secretaría, se constituye como una Institución Policial de carácter civil, disciplinado y profesional, que tiene las atribuciones previstas en el artículo 114 de este Código y desarrollará las siguientes funciones específicas:
 
-II. Promover la concertación Institucional y sectorial en los ámbitos público, privado y social, participando en programas de prevención delictiva;
+I. Investigación, que será realizada a través de sistemas homologados de recolección, clasificación, registro, análisis, evaluación y explotación de información;
 
-III. Realizar las acciones necesarias dentro del Municipio que permitan generar los sistemas de información de factores criminalísticos, tales como las zonas geográficas de mayor incidencia delictiva, los modos de operar de la delincuencia, horarios y conductas que propician la comisión de delitos y faltas administrativas;
+II. Prevención, que se realizará a través de las actividades encaminadas a evitar o disminuir la comisión de delitos e infracciones administrativas, así como realizar las acciones de inspección, vigilancia y vialidad; y
 
-IV. Procesar, analizar, actualizar y estudiar, los sistemas de información que permitan establecer las prioridades de atención en el Municipio;
+III. Reacción, que serán las acciones dirigidas a garantizar, mantener y restablecer el orden y la paz pública.
 
-V. Desarrollar, a partir de la información obtenida, los planes y programas que permitan la disminución de los índices delictivos, así como la prevención efectiva de las conductas constitutivas de delitos y faltas administrativas;
-
-VI. Establecer modelos de prevención delictiva, en los que participe la población en forma individual, grupal, comunitaria o institucional, llevando a cabo acciones tendientes a evitar o reducir los daños causados por la comisión de delitos o faltas administrativas;
-
-VII. Promover la comunicación y el intercambio de experiencias con instituciones estatales, nacionales e internacionales en materia de prevención del delito, fungiendo como enlace de la Secretaría ante estas instancias;
-
-VIII. Difundir las medidas que en materia de prevención del delito, recomienden los Sistemas Nacional y Estatal de Seguridad Pública;
-
-IX. Desarrollar y aplicar los planes y programas tendientes a fomentar en la población la cultura cívica y la sana convivencia vecinal y social;
-
-X. Desarrollar y fomentar programas de prevención en instituciones de enseñanza, con la participación de alumnos, maestros, autoridades y padres de familia, procurando el rescate de los valores personales, familiares y sociales;
-
-XI. Promover y asesorar a las organizaciones vecinales, instituciones y a la población en general respecto de programas y acciones en materia de Seguridad Pública y prevención del delito;
-
-XII. Elaborar el Programa de Desarrollo Estratégico de la Secretaría y establecer los mecanismos para su ejecución, supervisión y actualización;
-
-XIII. Planear y programar las operaciones y la prestación de servicios de la Secretaría, adecuando y estableciendo los sistemas que permitan su óptimo desarrollo; asimismo, elaborar planes de contingencia para casos específicos de Seguridad Pública, que apoyen y orienten al Secretario en la toma de decisiones;
-
-XIV. Realizar ante las autoridades competentes los trámites necesarios para obtener los permisos o licencias que se requieran para el cumplimiento de los objetivos de la Secretaría;
-
-XV. Autorizar la elaboración de las credenciales derivadas de la licencia oficial colectiva de portación de armas y que se asimilan a licencias individuales;
-
-XVI. Diseñar las políticas de seguridad en cuanto al manejo de la información y coordinar los mecanismos de control de la misma;
-
-XVII. Acordar directamente con el Secretario el despacho de los asuntos de su competencia, así como los que le sean propuestos en términos del presente Código, de igual forma mantenerlo informado de la situación de Seguridad Pública imperante en el Municipio;
-
-XVIII. Divulgar y fomentar, entre los integrantes de la Secretaría la doctrina institucional, así como vigilar y hacer cumplir las órdenes dictadas por el Secretario;
-
-XIX. Sustituir al Secretario en sus faltas y ausencias temporales; y
-
-XX. Las demás que establezca el presente Código y las leyes respectivas.
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2011)</small>
 
 ###### ARTÍCULO 547.
 
-El mando de los elementos (sic) Secretaría de Seguridad Pública y Tránsito Municipal está a cargo del Presidente Municipal quien lo ejerce por sí o a través del Secretario de Seguridad Pública y Tránsito Municipal.
+Para el correcto desarrollo de las actividades propias de la función policial la Secretaría contará con un Complejo de Seguridad Pública Municipal, mismo que deberá contar con los siguientes servicios:
 
-### CAPÍTULO ÚNICO. De las Obras de Urbanización
+I. Centro de mando C-4;
+
+II. Guardia en Prevención;
+
+III. Dormitorios y Áreas de Descanso;
+
+IV. Servicio de Comedor;
+
+V. Área de Registro y Control de Detenidos;
+
+VI. Servicio Médico y Psicológico; y
+
+VII. Estrados para la fijación de acuerdos, avisos y circulares.
+
+> <small>(ADICIONADO, P.O. 8 DE AGOSTO DE 2011)</small>
+
+### CAPÍTULO III. Cargos, Grados y Mandos Jerárquicos
+
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2011)</small>
 
 ###### ARTÍCULO 548.
 
-La Secretaría de Seguridad Pública y Tránsito Municipal se sujetará a un régimen policial.
-
-Para la observancia de dicho régimen, las Direcciones de Policía Preventiva y de Tránsito Municipal, deberán estar concentradas en un cuartel general, que contará con los siguientes servicios:
-
-I. Central de radio;
-
-II. Guardia en prevención;
-
-III. Servicio de cuartel;
-
-IV. (DEROGADA, P.O. 31 DE ENERO DE 2011)
-
-V. Cárcel preventiva;
-
-VI. Control de Detenidos;
-
-VII. Trabajo Social;
-
-VIII. Servicio Médico;
-
-IX. Estrados para la fijación de avisos y circulares; y
-
-X. Juzgado Calificador y lugar para el depósito de pertenencias de los detenidos.
-
-###### ARTÍCULO 549.
-
-Para los efectos del servicio del personal operativo se considera horario normal las jornadas de trabajo conforme a las necesidades del interés general de la Secretaría (sic) Seguridad Pública del Municipio de Aguascalientes. Sin que la misma exceda de 48 horas semanales a excepción hecha de los casos de emergencia, de caso fortuito, fuerza mayor o cualquier otro evento en el que el interés general de la sociedad así lo demande. En este caso, el Secretario dictará disposiciones de acuartelar a una parte o a la totalidad de los elementos de la Secretaría.
-
-La Jornada laboral del personal operativo deberá determinarse por destacamento, delegación o grupo especial, debiendo notificarse cuando menos con cuarenta y ocho horas de anticipación a los elementos dicha circunstancia. En ningún caso podrá asignarse a persona alguna un horario distinto de manera individualizada.
-
-###### ARTÍCULO 550.
-
-Para los efectos de este capítulo se entenderá por:
-
-I. Secretaría: A la Secretaría de Seguridad Pública y Tránsito Municipal;
-
-II. Secretario: Al titular de la Secretaría de Seguridad Pública y Tránsito Municipal;
-
-III. Comisión de Honor y Justicia: Es el Órgano de Seguridad Pública y Tránsito Municipal, encargado de conocer, resolver y sancionar los casos de faltas cometidas por los elementos operativos de los elementos de Seguridad Pública en servicio o fuera de él, por actos u omisiones que de cualquier forma infrinjan los principios de actuación y normas disciplinarias previstos en el presente ordenamiento, así como otorgar reconocimientos a las acciones relevantes en que intervinieron los miembros de la Secretaría;
-
-IV. Por Elementos de Seguridad Pública: A todos los elementos operativos que conforman la Secretaría de Seguridad Pública y Tránsito Municipal;
-
-V. Elemento Operativo: Es el personal que compone el área operativa, está integrada por los empleados municipales adscritos a la Secretaría de Seguridad Pública y Tránsito Municipal, que no tienen funciones estrictamente administrativas, quienes están bajo el mando de ésta y del Director de área correspondiente según la jerarquía que establece este Código; sus funciones son aquellas inherentes a la prestación del servicio de seguridad pública en forma directa, y no forman parte del área administrativa; y
-
-VI. Personal Administrativo: Es el personal que compone el área administrativa, está integrada por los empleados municipales adscritos a la Secretaría de Seguridad Pública y Tránsito Municipal; quienes desarrollan actividades de carácter estrictamente administrativas, tienen como funciones atender al público, dar el apoyo administrativo, asesoría, organización y control necesarios al personal operativo, para que éste pueda desarrollar en forma eficiente los programas asignados. Este personal no formará parte del área operativa de los elementos de Seguridad Pública. Asimismo se regirán por el Título Tercero, Capítulo Primero, del Libro Segundo de este Código y lo previsto en la Ley de Responsabilidades de los Servidores Públicos del Estado de Aguascalientes.
-
-APARTADO SEGUNDO
-
-Principios que Regulan la Actuación de los Elementos de Seguridad Pública
-
-###### ARTÍCULO 551.
-
-El servicio a la comunidad y la disciplina, así como el respeto a los derechos humanos y a la legalidad son principios normativos y que los Elementos de la Secretaría deben observar invariablemente en su actuación.
-
-###### ARTÍCULO 552.
-
-los Elementos de Seguridad Pública deberán:
-
-I.- Actuar dentro del orden jurídico respetando y haciendo que se respete la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado de Aguascalientes, la ley que en materia Municipal expida el Congreso del Estado, el presente Código y demás disposiciones relativas aplicables;
-
-II.- Servir con eficiencia, fidelidad, honor y disciplina y cuidar del entorno ecológico del área a su cuidado;
-
-III.- Respetar y proteger los derechos humanos, así como la dignidad de las personas;
-
-IV.- Actuar con la decisión necesaria y sin demora en la protección de las personas, en sus derechos y sus bienes;
-
-V.- No discriminar en el cumplimiento de sus deberes a persona alguna en razón de su raza, nacionalidad, sexo, religión, condición social, preferencia sexual, ideología política, capacidades diferentes o por cualquier otro motivo que dañe o menoscabe la integridad física o moral, así como la dignidad de la persona;
-
-VI.- Desempeñar con honradez, responsabilidad, diligencia y veracidad el servicio encomendado, debiendo abstenerse de todo acto de corrupción o faltas a la ética, así como de hacer uso de sus atribuciones para lucrar y obtener beneficio alguno por medio del tráfico de influencias;
-
-VII.- Respetar estrictamente los derechos elementales del ser humano;
-
-VIII.- Observar un trato respetuoso en sus relaciones con las personas, a quienes procurarán auxiliar y proteger en todo momento; debiendo abstenerse de todo acto de abuso de autoridad, acoso sexual y de limitar injustificadamente las acciones o manifestaciones que en ejercicio de sus derechos constitucionales y con carácter pacífico realice la ciudadanía, salvo que con ella se ataque la moral o lesionen los derechos de terceros, provoquen algún delito o se altere el orden público;
-
-IX.- Prestar auxilio a quienes estén amenazados de un peligro y en su caso, solicitar los servicios médicos de urgencia, cuando dichas personas se encuentren heridas o enfermas, así como dar aviso a sus familiares o conocidos de tal circunstancia;
-
-X.- Coordinar sus acciones con otras autoridades para prevenir y combatir la delincuencia; y
-
-XI.- Ejercer las facultades y obligaciones previstas en la reglamentación vigente.
-
-> <small>(REFORMADO, P.O. 3 DE NOVIEMBRE DE 2008)</small>
-
-###### ARTÍCULO 553.
-
-Sin perjuicio de las atribuciones que, en materia de supervisión y control operativos correspondan a los mandos de la Secretaría de Seguridad Pública y Tránsito Municipal, la Dirección de Asuntos Internos de Seguridad Pública y tránsito adscrito a la Secretaría del H. Ayuntamiento y Dirección General de Gobierno, cuidará que el personal operativo se conduzca con ética y legalidad, en cumplimiento de los principios de actuación contenidos en el presente Código. La Dirección de Asuntos Internos de Seguridad Pública tendrá las siguientes facultades:
-
-l. Recibir las quejas, denuncias, acusaciones y querellas presentadas en relación con la actividad de los elementos de la Secretaría de Seguridad Pública y Tránsito Municipal;
-
-II. Iniciar el procedimiento de investigación cuando se pretenda condecorar o rendir homenaje a algún elemento operativo de la Secretaría de Seguridad Pública y Tránsito Municipal, por actos destacados en la prestación del servicio;
-
-III. Realizar las investigaciones que correspondan, ya sea de oficio o a petición de cualquier persona, a efecto de determinar la existencia de conductas violatorias a los principios de actuación, así como la probable responsabilidad de algún elemento, ya sea en servicio, con motivo del mismo o fuera de él;
-
-IV. Allegarse de los elementos jurídicos y de prueba necesarios, que acrediten la existencia de la violación a los principios de actuación denunciada y la probable responsabilidad de algún elemento operativo en su comisión. En el ejercicio de su facultad de investigación, la Dirección realizará las diligencias conducentes;
-
-V. Practicar visitas de vigilancia únicamente para cerciorarse del cumplimiento a los principios de actuación señalados en el presente Código;
-
-VI. Elaborar manuales de procedimientos y prácticas, así como los programas de inspección a los cuales deberán apegarse los integrantes de la Dirección;
-
-VII. Solicitar por escrito a la Comisión de Honor y Justicia, en todos los casos, la separación temporal de los elementos sujetos a proceso ante la misma Comisión, en términos de la fracción III del artículo 616 del presente Código;
-
-VIII. Solicitar al Secretario de Seguridad Pública y Tránsito Municipal, durante la integración de la averiguación y cuando se facilite con ello las investigaciones, el retiro del servicio asignado y puesta a disposición de los elementos sujetos a investigación.
-
-La puesta a disposición implica la separación de las funciones ordinarias del elemento y la asignación de nuevas funciones por parte del Presidente de la Comisión de Honor y Justicia en coordinación con el Secretario de Seguridad Pública y Tránsito Municipal.
-
-Dicha puesta a disposición no prejuzga sobre la responsabilidad, ni impedirá que los elementos perciban sus haberes, ni ejerzan sus derechos, cumpliendo con sus horarios de servicio, en los lugares designados para tal efecto.
-
-La duración de la puesta a disposición será hasta que finalice el procedimiento de averiguación integrado por la Dirección de Asuntos Internos de Seguridad Pública;
-
-IX. Mantener un registro de las quejas, denuncias e investigaciones seguidas ante la Dirección, que deberá contener el nombre, cargo, número de expediente del elemento sujeto a investigación, faltas imputadas, número de investigación, estado de la investigación y, en su caso, la resolución dictada, debiendo informar, en forma mensual, al Secretario del H. Ayuntamiento y Director General de Gobierno y al Secretario de Seguridad Pública y Tránsito Municipal;
-
-X. Vigilar que los mandos y elementos operativos de la Secretaría de Seguridad Pública y Tránsito Municipal cumplan con los convenios de coordinación para la realización de acciones en torno a los Programas Estatal y Nacional de Seguridad Publica;
-
-XI. Dar vista al Ministerio Público de los hechos materia de sus investigaciones que puedan ser constitutivos de delito;
-
-XII. Operar el sistema de seguimiento de ex policías municipales y ex agentes de Tránsito Municipal;
-
-XIII. Dirigir, coordinar, ejecutar y calificar los procesos de evaluación del desempeño de aspirantes como elementos en activo, así como la aplicación de exámenes médicos, toxicológicos, psicológicos, de polígrafo, de control patrimonial y. entorno social;
-
-XIV. Aplicar pruebas diversas de control de confianza en general y específicas, cuando se haya iniciado alguna investigación;
-
-XV. A efecto de hacer cumplir sus determinaciones, podrá imponer medidas de apremio consistentes en apercibimiento, uso de la fuerza pública y arresto hasta por treinta y seis horas, dichas medidas, serán ejecutadas por el Secretario de Seguridad Pública y Tránsito Municipal;
-
-XVI. Delegar sus facultades en los responsables operativos de la Dirección, por necesidades del servicio;
-
-XVII. Solicitar en cualquier momento, al Secretario de Seguridad Pública y Tránsito Municipal la baja administrativa por pérdida de confianza. La cual el Secretario si así lo considera conveniente, procederá a aplicar dicha baja;
-
-XVIII. Las demás que le otorgue el Reglamento de la Dirección de Asuntos Internos de Seguridad Pública y Tránsito, y las que le indique el Presidente Municipal y/o el Secretario del H. Ayuntamiento y Director General de Gobierno.
-
-Los elementos de la Secretaría de Seguridad Pública y Tránsito Municipal estarán obligados, en todo momento, a colaborar y a prestar información a la Dirección de Asuntos Internos de Seguridad Pública en el cumplimiento de sus facultades, sin que para ello medie excusa alguna. Los mandos operativos, además del Secretario de Seguridad Pública y Tránsito Municipal, serán responsables de que los elementos a su cargo cumplan con lo anterior. El Director de Asuntos Internos de Seguridad Pública y Tránsito limitará su actuación al riguroso ejercicio de sus facultades, sin interferir en cuestiones operativas.
-
-Asimismo, el Director de Asuntos Internos de Seguridad Pública y Tránsito vigilará que las sanciones impuestas por la Comisión de Honor y Justicia sean aplicadas en los términos de la resolución correspondiente.
-
-###### ARTÍCULO 554.
-
-Para el correcto desempeño de los elementos encargados de la seguridad pública, la Secretaría contará con un Departamento de Asuntos Jurídicos, que tendrá las siguientes funciones:
-
-l. Asesorar al Secretario y Directores de la Secretaría y demás personal de la misma, en los aspectos jurídicos relacionados con las diferentes intervenciones que realicen en el desempeño de sus funciones y los demás inherentes a la naturaleza de la Secretaría;
-
-II. Atender las controversias legales relacionadas con el funcionamiento de la Secretaría;
-
-III. Realizar los estudios tendientes a proponer reformas para el buen funcionamiento de la Secretaría;
-
-IV. Dar seguimiento a los juicios y procedimientos seguidos ante las autoridades judiciales, administrativas, de competencia local o federal en que la Secretaría sea parte;
-
-V. Dar asesoría, realizar su defensa y cualquier trámite jurídico que necesite el personal de la Secretaría, siempre y cuando esté relacionado con las diferentes intervenciones que realicen en cumplimiento del deber.
-
-La asesoría y defensa podrá negarse o suspenderse en cualquier tiempo, a criterio del Secretario, cuando la conducta del elemento en cuestión, sea contraria a los principios de actuación que rigen a la Secretaría o vaya en detrimento de la imagen de la Secretaría;
-
-VI. Mantener informado al Secretario y a todo el personal operativo, respecto de las reformas y adiciones elaboradas en leyes, reglamentos, decretos y manuales que afecten a la Secretaría;
-
-VII. Llevar el control y registro de los convenios, contratos, acuerdos y demás actos jurídicos en que intervenga la Secretaría; y
-
-VIII. Las demás que le indique el Secretario de Seguridad Pública y Tránsito Municipal en defensa de los intereses de la Secretaría.
-
-APARTADO TERCERO
-
-Personal que Integra la Secretaría de Seguridad Pública y Tránsito
-
-###### ARTÍCULO 555.
-
-La Secretaría de Seguridad Pública y Tránsito Municipal estará a cargo de un Secretario y conformada por las Unidades Administrativas mencionadas en el Artículo 98 de este Código, la que para su funcionamiento estará dividida en dos áreas:
+La Secretaría de Seguridad Pública estará bajo el mando del Presidente Municipal y a cargo de un Secretario, conformada por las Unidades Administrativas mencionadas en el artículo 98 de este Código, la que para su funcionamiento estará dividida en dos áreas:
 
 I. La Administrativa; y
 
-II La Operativa.
+II. La Operativa.
 
-###### ARTÍCULO 556.
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2011)</small>
 
-El Secretario de Seguridad Pública y Tránsito Municipal, será nombrado por el H. Ayuntamiento, a propuesta de una terna que presentará el Presidente Municipal, de entre los cuales se designará al Titular que tendrá las facultades y obligaciones siguientes:
+###### ARTÍCULO 549.
 
-I. El Secretario tendrá el más alto rango dentro de la Secretaría y ejercerá dentro de esta las atribuciones de mando, dirección, control y disciplina;
+El Presidente Municipal relevará libremente de sus funciones a todo el personal de la Secretaría de Seguridad Pública que considere necesario, para el mejor funcionamiento de esta Secretaría, respetando en su caso el grado jerárquico y los derechos inherentes a la carrera policial.
 
-II. Deberá informar periódicamente al Presidente Municipal y al Secretario del H. Ayuntamiento y Director General de Gobierno, sobre el desempeño de las atribuciones de la Secretaría y de los resultados alcanzados; sometiendo a su acuerdo todas las acciones operativas que por su trascendencia social deba de dar cuenta para la evaluación y diseño de las políticas en materia de Seguridad Pública; en lo general todos aquellos hechos que pongan en peligro a la población del área territorial del Municipio de Aguascalientes;
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2011)</small>
 
-III. Organizar los elementos de Seguridad Pública y Tránsito, dictando todas las medidas necesarias para garantizar la prevención, el mantenimiento y restablecimiento del orden y la seguridad pública, con apego a las disposiciones legales aplicables;
+###### ARTÍCULO 550.
 
-IV. Preservar el orden público, combatir y prevenir la comisión de delitos y faltas administrativas;
+El Secretario de Seguridad Pública, será nombrado por el H. Cabildo, a propuesta de una terna que presentará el Presidente Municipal, cuyos integrantes hayan sido evaluados y certificados por las instancias correspondientes, de entre los cuales se designará al Titular que tendrá las atribuciones siguientes:
 
-V. Vigilar que los recursos humanos, materiales y financieros se ejerzan eficazmente y que cumplan con todos los requisitos técnicos, funcionales y normativos de la Secretaría;
+I. Ejercer el mando, la dirección, el control y la disciplina con respecto a todo el personal de la Secretaría;
 
-VI. Ordenar la capacitación, formación, especialización y en lo general todos aquellos estudios que permitan alcanzar el desarrollo profesional del personal adscrito a la Secretaría;
+II. Informar periódicamente al Presidente Municipal y al Secretario del H. Ayuntamiento y Director General de Gobierno, sobre el desempeño de las atribuciones de la Secretaría y de los resultados alcanzados; sometiendo a su acuerdo todas las acciones operativas que por su trascendencia social deba de dar cuenta para la evaluación y diseño de las políticas en materia de Seguridad Pública; en lo general todos aquellos hechos que pongan en peligro a la población dentro del Municipio de Aguascalientes;
 
-VII. Cumplir y velar, que los elementos adscritos a la Secretaría acaten con las disposiciones legales aplicables a la Seguridad Pública Municipal y la más estricta observancia y respeto a los derechos humanos;
+III. Dictar las medidas necesarias para garantizar la prevención especial y general de los delitos, las faltas administrativas, el restablecimiento del orden y el aprovechamiento de la información relativa a la prestación del servicio de seguridad pública, con apego a las disposiciones legales aplicables;
 
-VIII. Resolver las dudas que se susciten internamente sobre las competencias de las Unidades Administrativas de la Secretaría, con motivo de la interpretación o aplicación del presente Código y sobre las situaciones no previstas en el mismo, así como establecer los lineamientos y procedimientos conforme a los cuales deban actuar;
+IV. Vigilar que los recursos humanos, materiales y financieros se ejerzan eficazmente y que se cumpla con todos los requisitos técnicos, funcionales y normativos de la Secretaría;
 
-IX. Proponer ante el Presidente los nombramientos de:
+V. Ordenar la profesionalización, y en lo general todos aquellos estudios que permitan alcanzar el desarrollo profesional del personal adscrito a la Secretaría;
 
-1. Director de la Policía Preventiva.
+VI. Cumplir y velar por que los integrantes operativos de la Secretaría acaten las disposiciones legales aplicables sobre la prestación del servicio de Seguridad Pública, manteniendo la más estricta observancia de respeto a los derechos humanos;
 
-2. Director de Tránsito.
+VII. Resolver las dudas que se susciten internamente sobre las competencias de las Unidades Administrativas de la Secretaría, con motivo de la interpretación o aplicación del presente Código y sobre las situaciones no previstas en el mismo, así como establecer los lineamientos y procedimientos conforme a los cuales deban actuar;
 
-3. Director Administrativo.
+VIII. Proponer al Presidente Municipal los nombramientos de:
 
-4. Director de Estado Mayor.
+a) Director de Estado Mayor;
 
-5. Director del (sic) Capacitación, Formación y Profesionalización.
+b) Director de Policía Preventiva;
 
-X. Recibir en acuerdo a los mandos de la Secretaría para el despacho de los asuntos de su competencia;
+c) Director de Tránsito y Movilidad;
 
-XI. Someter a la consideración de la Comisión de Normatividad Interna, la expedición de los Manuales que se deriven del Código Municipal y difundir los mismos dentro de la Secretaría;
+d) Director de Prevención del Delito; y
 
-XII. Imponer las sanciones y correctivos disciplinarios a los elementos operativos de la Secretaría en los términos del Artículo 601 del presente Código, y que no sean propios de la Comisión de Honor y Justicia;
+e) Director de Profesionalización.
 
-XIII. Promover una cultura de respeto a los Derechos Humanos, en las acciones de Seguridad Pública, específicamente en los procesos de detención y mantenimiento del orden público, a través de la difusión y promoción de los mismos hacia el interior de la Dirección General y la ciudadanía;
+IX. Recibir y realizar acuerdos directamente con los Directores de la Secretaría para el despacho de los asuntos de su competencia;
 
-XIV. Efectuar los cambios, comisiones y rotaciones de servicio o de turno a cualquier elemento que integra el cuerpo de seguridad pública cuando por cuestiones de operatividad o necesidades del servicio así se requiera.
+X. Someter a la consideración de la Comisión de Normatividad Interna, la expedición de los Manuales que se deriven del Código Municipal;
 
-XV. Ordenar la presentación del personal adscrito a la Secretaría en revista administrativa y operativa.
+XI. Imponer las sanciones y correctivos disciplinarios a los integrantes operativos de la Secretaría en los términos del presente Libro, y que no sean propios de la Comisión de Honor y Justicia;
 
-XVI. Las demás que le señale este Código o le asigne el Presidente Municipal.
+XII. Fomentar una cultura de respeto a los Derechos Humanos, en lo relativo a la prestación del servicio de Seguridad Pública, específicamente respecto a las detenciones, al mantenimiento y restablecimiento del orden público, a través de la difusión y promoción de los mismos, hacia el interior de la Secretaría y a la sociedad;
 
-###### ARTÍCULO 557.
+XIII. Autorizar los cambios, comisiones y rotaciones de servicio o de turno a cualquier integrante operativo de la Secretaría, por cuestiones de operatividad o necesidades del servicio cuando así se requiera respetando las formalidades en la operación del sistema terciario y los manuales correspondientes;
 
-El Director de Policía Preventiva, tendrá las facultades y obligaciones siguientes:
+XIV. Ordenar la presentación del personal adscrito a la Secretaría en revista administrativa y operativa;
 
-I. Auxiliar al Secretario, en las funciones que éste le encomiende;
+XV. Ordenar la investigación preventiva del delito y faltas administrativas a fin de inhibir su incidencia; y
+
+XVI. Las demás que le señalen las disposiciones normativas aplicables o le asigne el Presidente Municipal.
+
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2011)</small>
+
+###### ARTÍCULO 551.
+
+Para el correcto desempeño de las actividades de la Secretaría, contará con una Coordinación de Asuntos Jurídicos, que tendrá las siguientes atribuciones:
+
+I. Defender, asesorar y representar legalmente ante cualquier instancia a la Secretaría y su personal, en los procedimientos judiciales, administrativos y cualquier otro asunto en el que tenga interés e injerencia la Secretaría, con todos los derechos procesales que las disposiciones legales otorgan, siempre y cuando se trate de intervenciones que realicen en cumplimiento de sus funciones, atendiendo a que el propósito fundamental de su actuar es la defensa jurídica integral del personal de la Secretaría;
+
+II. Elaborar y proponer los informes previos y justificados que en materia de amparo deba rendir el Secretario, así como los relativos al personal de la Secretaría que sean señalados como autoridades responsables; además de verificar que las demás unidades administrativas cumplan con las resoluciones que en ellos se pronuncien, prestando la asesoría que se requiera e informando al superior jerárquico en caso de incumplimiento;
+
+III. Formular a nombre de la Secretaría, las denuncias y querellas que legalmente procedan;
+
+IV. Presentar y contestar demandas, reconvenir a la contraparte, ejercitar acciones y oponer excepciones; así como ofrecer pruebas, formular alegatos, interponer toda clase de recursos y, en general, vigilar y atender la tramitación de los juicios y procedimientos judiciales y contencioso-administrativos y de aquellos asuntos en los que la Secretaría tenga interés;
+
+V. Fijar, sistematizar y difundir los criterios de interpretación y aplicación de las disposiciones jurídicas que normen la actuación de la Secretaría;
+
+VI. Proporcionar asesoría jurídica al Secretario y a todo el personal, respecto de las reformas y adiciones a las leyes, reglamentos, decretos y manuales que involucren la operación de la Secretaría;
+
+VII. Suscribir por conducto de su titular, en ausencia del Secretario previo acuerdo del mismo, escritos y desahogar los trámites que correspondan a los casos urgentes relativos a términos, interposición de recursos y recepción de toda clase de notificaciones;
+
+VIII. Requerir a los servidores públicos de las unidades administrativas de la Secretaría, por cualquier medio, la documentación e información necesarios para el cumplimiento de sus atribuciones y para realizar las diligencias solicitadas por cualquier autoridad. En caso de omisión del servidor público requerido, podrá solicitarse a través de su superior jerárquico el cumplimiento de la misma;
+
+IX. Supervisar el seguimiento y cumplimiento ágil, eficaz y oportuno de los asuntos planteados a esta Secretaría, por las Comisiones Nacional y Estatal de Derechos Humanos, haciendo las gestiones necesarias y solicitando la información conducente;
+
+X. Elaborar y emitir opiniones sobre proyectos de leyes, decretos, reglamentos, acuerdos, circulares, manuales, convenios y contratos relacionados con la competencia de la Secretaría, que le sean sometidos a su consideración;
+
+XI. Llevar el registro y control de convenios, acuerdos y demás actos jurídicos de los que se generen derechos y obligaciones a cargo de la Secretaría;
+
+XII. Participar en los procesos de actualización y adecuación del orden jurídico-normativo que rige el funcionamiento de la Secretaría;
+
+XIII. Emitir y publicar acuerdos para la correcta operación de las áreas que se encuentren bajo su responsabilidad, previa revisión y la autorización respectiva del Secretario;
+
+XIV. Elaborar estudios comparados sobre las legislaciones de las entidades federativas en materia de Seguridad Pública, reglamentos, bandos de policía y gobierno;
+
+XV. Mantener informado al Secretario de Seguridad Pública, a los Directores y demás personal de la Secretaría, respecto de la creación, reformas y adiciones a las leyes, reglamentos, decretos y manuales que atañen a la Secretaría; y
+
+XVI. Las demás que le confiera el Secretario y las disposiciones legales aplicables.
+
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2011)</small>
+
+###### ARTÍCULO 552.
+
+La Dirección de Estado Mayor tendrá las siguientes atribuciones:
+
+I. Desarrollar y aplicar las políticas integrales, sistemáticas y evaluables, así como programas y estrategias en materia de Seguridad Pública;
+
+II. Evaluar y dar seguimiento a las políticas, estrategias y acciones para prevenir la comisión de delitos y faltas administrativas, en coordinación con las Direcciones correspondientes;
+
+III. Realizar las acciones necesarias dentro del Municipio que permitan generar los sistemas de información acerca de los distintos factores criminológicos, tales como las zonas geográficas de mayor incidencia delictiva, los modos de operar de la delincuencia, horarios y conductas que propician la comisión de delitos y faltas administrativas;
+
+IV. Sistematizar la recolección, clasificación, registro, análisis, evaluación y explotación de la información con la finalidad de hacer efectiva la investigación para la prevención especial y general de las faltas administrativas y los delitos;
+
+V. Con autorización del Secretario emitir disposiciones generales sobre la operación de las diferentes áreas de la Secretaría con el objeto de regular actividades tendientes a la mejora de los procesos de aprovechamiento de información, necesarios para la generación de estrategias;
+
+VI. Determinar los criterios para la organización, operación y modernización tecnológica en materia de Seguridad Pública;
+
+VII. Establecer, controlar y mantener actualizadas las bases de datos, criminalísticas y de personal, así como aquellas que se generen del funcionamiento y operación de las áreas de la Secretaría;
+
+VIII. Realizar las acciones necesarias en el ámbito de su competencia a fin de incrementar la eficacia y eficiencia en el cumplimiento de los objetivos de la Secretaría;
+
+IX. Elaborar el Programa de Desarrollo Estratégico de la Secretaría a más tardar el treinta y uno de marzo de cada año, en el cual se establecerán los mecanismos para su ejecución, supervisión y actualización;
+
+X. Planear y programar las operaciones y la prestación de servicios de la Secretaría, adecuando y estableciendo los sistemas que permitan su óptimo desarrollo; asimismo, elaborar planes de contingencia para casos específicos de Seguridad Pública, que apoyen y orienten al Secretario en la toma de decisiones;
+
+XI. Realizar ante las autoridades competentes los trámites necesarios para obtener los permisos o licencias que se requieran para el cumplimiento de los objetivos de la Secretaría;
+
+XII. Autorizar la elaboración de las credenciales derivadas de la licencia oficial colectiva de portación de armas;
+
+XIII. Diseñar las políticas de seguridad en cuanto al manejo de la información y coordinar los mecanismos de control de la misma;
+
+XIV. Acordar directamente con el Secretario el despacho de los asuntos de su competencia, así como los que le sean propuestos en términos del presente Código, de igual forma mantenerlo informado de manera general sobre las diferentes prospectivas en el ámbito de la prestación del servicio de Seguridad Pública;
+
+XV. Divulgar y fomentar, entre los integrantes de la Secretaría la normatividad así como la doctrina institucional, además de vigilar, cumplir y hacer cumplir las órdenes dictadas por el Secretario;
+
+XVI. Sustituir al Secretario en sus faltas y ausencias temporales, salvo que por acuerdo del Presidente Municipal medie otra disposición;
+
+XVII. Emitir y publicar acuerdos para la correcta operación de las áreas que se encuentren bajo su responsabilidad, previa revisión de la Coordinación de Asuntos Jurídicos y la autorización respectiva del Secretario; y
+
+XVIII. Las demás que le confiera el Secretario y las disposiciones legales aplicables.
+
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2011)</small>
+
+###### ARTÍCULO 553.
+
+El Director de Policía Preventiva, tendrá las atribuciones siguientes:
+
+I. Auxiliar al Secretario en las funciones que éste le encomiende;
 
 II. Acatar las disposiciones que en el ejercicio de su desempeño emanen del Secretario;
 
-III. Planear la operación y regulación de los servicios de la Policía Preventiva, a fin de que sean sometidos a la consideración del Secretario para su aprobación;
+III. Planear en coordinación con la Dirección de Estado Mayor la operación y regulación de los servicios de la Policía Preventiva, a fin de que sean sometidos a la consideración del Secretario para su aprobación;
 
-IV. Ejecutar y regular los programas y servicios relativos a la Seguridad Pública en el territorio del Municipio de Aguascalientes;
+IV. Ejecutar los planes, programas y servicios relativos a la Seguridad Pública en el territorio del Municipio, atendiendo a las disposiciones generales emitidas por la Dirección de Estado Mayor;
 
-V. Analizar y evaluar las operaciones que realice la Secretaría para mejorar los servicios de seguridad, inspección y vigilancia preventiva;
+V. Analizar y evaluar en coordinación con la Dirección de Estado Mayor, sus operaciones para mejorar los servicios de seguridad, inspección y vigilancia;
 
 VI. Apoyar e intervenir en situaciones de contingencia con el propósito de prevenir y mitigar situaciones de emergencia;
 
-VII. Dirigir, coordinar y supervisar las Jefaturas Operativas de los Destacamentos, Centros Tácticos Operativos y Módulos de Policía Preventiva;
+VII. Dirigir, coordinar y supervisar las Jefaturas Operativas de los Destacamentos, Grupos Especiales y los Centros Tácticos Operativos;
 
 VIII. Transmitir las órdenes del Secretario al personal de la Dirección de Policía Preventiva;
 
-IX. Cumplir y vigilar que los elementos bajo su mando acaten todas las disposiciones legales en materia de Policía Preventiva, y que sus actos se apeguen estrictamente al respeto de los Derechos Humanos, a las disposiciones del presente Código y los manuales de procedimientos de la Secretaría;
+IX. Cumplir y vigilar que los integrantes operativos bajo su mando acaten todas las disposiciones legales en el desempeño de sus funciones y que sus actos se apeguen estrictamente al respeto a los Derechos Humanos, a las disposiciones del presente Código y los manuales de procedimientos de la Secretaría;
 
 X. Ejecutar y regular los programas y servicios relativos a la Seguridad Pública en el territorio del Municipio de Aguascalientes;
 
-XI. Llevar la estadística de la incidencia de infracciones al Código Municipal en lo que se refiere a faltas de policía y los hechos presumiblemente delictivos que se susciten y tengan conocimiento los elementos bajo su mando dentro del Municipio de Aguascalientes, suministrando al Estado Mayor toda la información que corresponda;
+XI. Llevar la estadística y los registros de la incidencia de infracciones al Código Municipal en lo que se refiere a faltas de policía y los hechos presumiblemente delictivos que se susciten y tengan conocimiento los integrantes operativos bajo su mando dentro del Municipio de Aguascalientes, suministrando a la Dirección de Estado Mayor toda la información que corresponda;
 
-XII. Dar parte a la instancia correspondiente de las violaciones cometidas por los elementos bajo su mando, a los principios de actuación y normas disciplinarias que los rigen; y
+XII. Emitir y publicar acuerdos para la correcta operación de las áreas que se encuentren bajo su responsabilidad, previa revisión de la Coordinación de Asuntos Jurídicos y la autorización respectiva del Secretario;
 
-XIII. Las demás que le asigne el Secretario.
+XIII. Emitir informes mensuales de sus actividades al Secretario;
 
-###### ARTÍCULO 558.
+XIV. Coordinar la supervisión, control y disciplina del personal a su cargo;
 
-El Director de Tránsito tendrá las facultades y obligaciones siguientes:
+XV. Dar parte a la instancia correspondiente de las violaciones cometidas por los integrantes operativos bajo su mando, a los principios de actuación y obligaciones que los rigen; y
 
-I. Planear la operación y regulación de los Servicios de Tránsito;
+XVI. Las demás que le confiera el Secretario y las disposiciones legales aplicables.
+
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2011)</small>
+
+###### ARTÍCULO 554.
+
+La Policía Auxiliar y Comercial es una Jefatura Operativa sujeta al mando del Director de Policía Preventiva, cuyas funciones se dirigen específicamente a la guarda y custodia de personas, valores e instalaciones.
+
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2011)</small>
+
+###### ARTÍCULO 555.
+
+Los integrantes de la Policía Auxiliar y Comercial están obligados a llevar el programa de formación inicial y los demás que determine la Dirección de Profesionalización, previo acuerdo del Secretario. Asimismo tienen la obligación de incorporarse al Sistema Integral de Desarrollo Policial y de adoptar los principios de actuación, obligaciones, sanciones y correctivos disciplinarios establecidas en el presente Libro.
+
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2011)</small>
+
+###### ARTÍCULO 556.
+
+El H. Ayuntamiento está facultado para celebrar contratos con particulares para la prestación del servicio de guarda y custodia a través de la Policía Auxiliar y Comercial. En cada contrato se fijarán las condiciones especificas del servicio tales como número y grado de los integrantes operativos, horario y condiciones especiales que requieran los particulares, conforme a las restricciones y modalidades que señala el presente Código y demás disposiciones aplicables.
+
+En el caso de que en los servicios contratados, se requieran integrantes con determinado nivel jerárquico, la Secretaría asignará a aquellos que cuenten con dicho nivel y el perfil adecuado.
+
+En ningún caso se podrá asignar un nivel jerárquico distinto al que posea un integrante por la sola prestación de un servicio, pues dichos niveles constituyen la organización institucional, el efectivo control de las actividades, la medición del desempeño y la base de la carrera policial.
+
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2011)</small>
+
+###### ARTÍCULO 557.
+
+El Director de Tránsito y Movilidad tendrá las atribuciones siguientes:
+
+I. Planear la operación y regulación de los Servicios de Tránsito y Movilidad;
 
 II. Ejecutar y regular los programas y servicios relativos a la vigilancia de sistemas viales y de tránsito en el territorio del Municipio de Aguascalientes;
 
-III. Analizar y evaluar las operaciones que realice la Secretaría, para mejorar los servicios de seguridad vial, inspección y vigilancia de tránsito de personas y vehículos;
+III. Analizar y evaluar las operaciones que realice la Dirección a su cargo, para mejorar los servicios de seguridad vial, inspección y vigilancia de tránsito de personas y vehículos;
 
 IV. Apoyar e intervenir en situaciones de contingencia con el propósito de prevenir y mitigar situaciones de emergencia;
 
-V. Dirigir, coordinar y supervisar las Jefaturas Operativas de los Destacamentos;
+V. Dirigir, coordinar y supervisar las Unidades Administrativas a su cargo;
 
-VI. Transmitir las órdenes del Secretario al personal de la Dirección de Tránsito y verificar su estricto cumplimiento;
+VI. Transmitir las órdenes del Secretario al personal de la Dirección de Tránsito y Movilidad así como verificar su estricto cumplimiento;
 
-VII. Cumplir y vigilar que los elementos bajo su mando acaten todas las disposiciones legales en materia de Tránsito, y que sus actos se apeguen estrictamente al respeto de los Derechos Humanos, a las disposiciones del presente Código y los manuales de procedimientos de la Secretaría;
+VII. Cumplir y vigilar que los integrantes operativos bajo su mando acaten todas las disposiciones legales en materia de Tránsito, y que sus actos se apeguen estrictamente al respeto de los Derechos Humanos, a las disposiciones del presente Código y los manuales de procedimientos de la Secretaría;
 
-VIII. Planear la operación y regulación de los servicios de la Policía de Tránsito, a fin de que sean sometidos a la consideración del Secretario para su aprobación;
+VIII. Planear la operación y regulación de los servicios de los integrantes operativos a su cargo, a fin de que sean sometidos a la consideración del Secretario para su aprobación;
 
 IX. Tomar conocimiento de los hechos de tránsito y rendir el dictamen técnico correspondiente;
 
-X. Llevar la estadística de la incidencia de infracciones a la ley de Vialidad y de los accidentes suscitados dentro del Municipio de Aguascalientes, suministrando al Estado Mayor toda la información que corresponda;
+X. Llevar la estadística y registro de la incidencia de infracciones a la Ley de Vialidad del Estado y al Reglamento de Tránsito Municipal, así como de los accidentes suscitados dentro del Municipio;
 
-XI. Dar parte a la instancia correspondiente de las violaciones cometidas por los elementos bajo su mando, a los principios de actuación y normas disciplinarias que los rigen; y
+XI. Dar parte a la instancia correspondiente de las violaciones cometidas por el personal bajo su mando;
 
-XII. Las demás que le sean encomendadas por el Secretario.
+XII. Emitir informes mensuales de sus actividades al Secretario;
+
+XIII. Emitir y publicar acuerdos para la correcta operación de las áreas que se encuentren bajo su responsabilidad, previa revisión de la Coordinación de Asuntos Jurídicos y la autorización respectiva del Secretario; y
+
+XIV. Las demás que le confiera el Secretario y las disposiciones legales aplicables.
+
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2011)</small>
+
+###### ARTÍCULO 558.
+
+La Dirección de Prevención del Delito tendrá las siguientes atribuciones:
+
+I. Desarrollar y aplicar las políticas en materia de prevención del delito, a fin de implementar modelos educativos que permitan combatir la delincuencia, fomentando en la población una cultura de prevención y seguridad, que restaure y conserve el orden social y reduzca el daño causado por la delincuencia, promoviendo una participación corresponsable entre las autoridades y la población, a fin de incrementar la seguridad personal y patrimonial de los habitantes del Municipio;
+
+II. Promover la concertación Institucional y sectorial en los ámbitos público, privado y social, participando en programas de prevención delictiva;
+
+III. Desarrollar y establecer modelos de prevención delictiva, en los que participe la población en forma individual, grupal, comunitaria o institucional, llevando a cabo acciones tendientes a evitar o reducir los daños causados por la comisión de delitos o faltas administrativas;
+
+IV. Promover la coordinación, comunicación y el intercambio de experiencias con instituciones estatales, nacionales e internacionales en materia de prevención del delito, fungiendo como enlace de la Secretaría ante estas instancias;
+
+V. Difundir las medidas en materia de prevención del delito, emanados de los Sistemas Nacional y Estatal de Seguridad Pública;
+
+VI. Desarrollar y aplicar los planes y programas tendientes a fomentar en la población la cultura cívica y la sana convivencia vecinal y social;
+
+VII. Desarrollar y fomentar programas de prevención del delito en instituciones de enseñanza, con la participación de alumnos, maestros, autoridades y padres de familia, procurando el rescate de los valores personales, familiares y sociales;
+
+VIII. Promover y asesorar a las organizaciones vecinales, instituciones y a la población en general respecto de programas y acciones en materia de Seguridad Pública y prevención del delito;
+
+IX. Desarrollar e implementar programas encaminados a:
+
+a) Prevenir la violencia infantil y juvenil;
+
+b) Promover la erradicación de la violencia, especialmente la ejercida contra niñas, niños, jóvenes, mujeres, indígenas, adultos mayores, dentro y fuera del seno familiar;
+
+c) Prevenir la violencia generada por el uso de armas, el abuso de drogas y alcohol; y
+
+d) Promover la atención integral a las víctimas del delito;
+
+X. Emitir y publicar acuerdos para la correcta operación de las áreas que se encuentren bajo su responsabilidad, previa revisión de la Coordinación de Asuntos Jurídicos y la autorización respectiva del Secretario;
+
+XI. Realizar, en coordinación con las áreas correspondientes, estudios sobre las causas estructurales del delito, su distribución geodelictiva, estadísticas de conductas ilícitas no denunciadas, tendencias históricas y patrones de comportamiento que permitan actualizar y perfeccionar las políticas tendientes a la prevención del delito;
+
+XII. Emitir informes mensuales de sus actividades al Secretario; y
+
+XIII. Las demás que le confiera el Secretario y las disposiciones legales aplicables.
+
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2011)</small>
 
 ###### ARTÍCULO 559.
 
-La Comisión de Normatividad Interna tendrá la obligación de emitir, modificar y derogar los manuales administrativos y de operación a que alude el presente Código, así como la divulgación y publicación de los mismos.
+La Dirección de Profesionalización tendrá las atribuciones siguientes:
 
-Para tal efecto estará conformada de la siguiente forma:
+I. Diseñar y coordinar la implementación del Sistema Integral de Desarrollo Policial, así como evaluar los ejes que lo conforman, en los términos que establezca la normativa aplicable;
 
-a) Un Presidente. Que será el Regidor que presida la Comisión de Seguridad Pública del H. Ayuntamiento.
+II. Definir las políticas, estrategias y procedimientos para la profesionalización del personal de la Secretaria, en coordinación con las otras direcciones;
 
-b) Un Secretario Técnico. Que será el Jefe del Departamento de Asuntos Jurídicos.
+III. Formular y operar las políticas relativas al reclutamiento, selección, ingreso, permanencia, estímulos, promoción, reconocimiento y terminación ordinaria del servicio del personal aspirante e integrantes operativos de la Secretaría, conforme a la normatividad aplicable;
 
-> <small>(REFORMADO, P.O. 3 DE NOVIEMBRE DE 2008)</small>
+IV. Diseñar y proponer los procesos, procedimientos, lineamientos, políticas, convocatorias y criterios institucionales en materia de Servicio Profesional de Carrera Policial, en coordinación con las demás direcciones, así como darles seguimiento y promover su estricta observancia;
 
-c) Cinco Consejeros. Que serán los titulares de las Direcciones de Estado Mayor, Policía Preventiva, Tránsito Municipal y Dirección de Capacitación, Formación y Profesionalización así como el Director de Asuntos Internos.
+V. Diseñar, implementar y evaluar los planes y programas para la formación inicial y continua de las demás direcciones, en coordinación con instituciones educativas, organismos públicos y privados;
 
-d) Cinco Vocales. Que serán nombrados por cada una de las Direcciones de la Secretaría, a propuesta de los propios elementos operativos o en su defecto nombrados por el Secretario.
+VI. Diagnosticar las necesidades de profesionalización del personal de la Secretaría;
 
-### CAPÍTULO I. De los Peritos
+VII. Promover el desarrollo de la investigación académica en materia policial de manera autónoma o en coordinación con instituciones u organismos públicos y privados;
+
+VIII. Proponer la celebración de convenios y bases de colaboración con instituciones u organismos nacionales y extranjeros, públicos y privados, para la profesionalización del personal de la Secretaría;
+
+IX. Otorgar la revalidación de equivalencias de estudios de la profesionalización en el ámbito de su competencia;
+
+X. Proponer las etapas, niveles de escolaridad y grados académicos de la profesionalización para los integrantes operativos de la Secretaría, en coordinación con las instancias correspondientes;
+
+XI. Autorizar y expedir documentos derivados de las actividades para la profesionalización y el servicio profesional de carrera policial;
+
+XII. Registrar, administrar y resguardar la información derivada del Sistema Integral de Desarrollo Policial de los integrantes operativos de la Secretaría, en los términos de este Libro;
+
+XIII. Promover el desarrollo obligatorio y permanente del Servicio Profesional de Carrera Policial, en colaboración con las áreas de la Secretaría, en estricto cumplimiento de los principios constitucionales y legales que rigen la labor de la Institución;
+
+XIV. Emitir y publicar acuerdos para la correcta operación de las áreas que se encuentren bajo su responsabilidad, previa revisión de la Coordinación de Asuntos Jurídicos y la autorización respectiva del Secretario;
+
+XV. Elaborar e implementar los procedimientos disciplinarios que se instruyan a los participantes de la formación inicial y continua, en los términos que establezca la normatividad aplicable;
+
+XVI. Emitir informes mensuales de sus actividades al Secretario; y
+
+XVII. Las demás que le confiera el Secretario y las disposiciones legales aplicables.
+
+> <small>(ADICIONADO, P.O. 8 DE AGOSTO DE 2011)</small>
+
+### CAPÍTULO I. Derechos y Obligaciones
+
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2011)</small>
 
 ###### ARTÍCULO 560.
 
-la Comisión de Normatividad Interna, sesionará cuando fuere convocada para ello, por el Secretario Técnico y en la misma se analizarán las iniciativas presentadas por cualquiera de sus integrantes, a efecto de que en la sesión a la que se convoque, se discuta y analice su procedencia.
+Las áreas operativas dentro de la Secretaría se organizarán bajo un esquema de jerarquización terciaria, cuya célula básica se compondrá invariablemente por tres integrantes.
 
-Se requerirá para su funcionamiento cuando menos la presencia del Presidente y del Secretario Técnico, así como de tres consejeros y tres vocales. Las decisiones serán válidas cuando se tomen por mayoría de votos de los presentes.
+Para la correcta operación del sistema terciario, los diferentes niveles de mando se dividirán entre las distintas escalas jerárquicas, procurando que los integrantes con niveles inmediatamente superiores mantengan bajo su control y supervisión a tres integrantes de la escala jerárquica inferior.
 
-El Presidente de la Comisión tendrá voto de calidad en caso de empate.
-
-La normatividad interna que al efecto se aprobare, surtirá efectos a los cinco días siguientes al día en que queden fijados en los tableros de avisos de la Secretaría de Seguridad Pública y Tránsito Municipal, o de aquel medio de difusión que baste para ser conocidos por los miembros de la Secretaría.
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2011)</small>
 
 ###### ARTÍCULO 561.
 
-El Presidente Municipal relevará de sus funciones a todo el personal de la Secretaría de Seguridad Pública y Tránsito Municipal que considere necesario, para el mejor funcionamiento de esta Secretaría.
+Se entenderá por mando a la potestad ejercida por un superior jerárquico con la que se reconoce la atribución de emitir órdenes a los integrantes de la Secretaría, en servicio activo, sobre sus inferiores o iguales en grado, cuando éstos se encuentren subordinados a él, en razón de su cargo o su comisión.
 
-APARTADO CUARTO
-
-Cargos, Grados y Mandos Jerárquicos
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2011)</small>
 
 ###### ARTÍCULO 562.
 
-Se entenderá por mando a la autoridad ejercida por un superior jerárquico de la Secretaría, en servicio activo, sobre sus inferiores o iguales en jerarquía, cuando éstos se encuentren subordinados a él en razón de su categoría, de su cargo o de su comisión.
+Para mantener la disciplina, el control y el mando en los integrantes de la Secretaría, se requiere de personal con cargo y grado, entendiéndose por éstos:
+
+I. Personal con cargo: aquél en el que ha sido depositada una responsabilidad extraordinaria sobre el funcionamiento del sistema terciario, otorgándole un nombramiento implícitamente temporal para desempeñarse en un cargo administrativo o de dirección dentro de la estructura orgánica de la Secretaría, entendiéndose por éste, aquel cuya función principal es la de toma de decisiones, asignación de servicios, dirección o de supervisión; el cargo determina la jerarquía de mando dentro de dicha dependencia y es independiente del grado que ostente dentro de la carrera policial el integrante operativo. Estos cargos se asignarán invariablemente atendiendo a los perfiles de grado por competencia aprobados, asegurando así a la sociedad, que los integrantes que posean las características mas adecuadas, serán los que desempeñen las actividades de mayor trascendencia; y
+
+II. Personal con grado: aquél que posee determinado nivel jerárquico dentro de la estructura de la carrera policial, atendiendo al sistema terciario, y que de acuerdo con dicho nivel, tiene un mando jerárquico, exclusivamente sobre los integrantes del área operativa que posean grados inferiores, en el ejercicio del control y la disciplina.
+
+La carrera policial es independiente de los nombramientos para desempeñar cargos administrativos o de dirección en la Secretaría. En ningún caso habrá inamovilidad en los cargos administrativos y de dirección; asimismo los integrantes que los desempeñen podrán ser relevados libremente, respetando en todo momento su grado jerárquico y los derechos inherentes a la carrera policial.
+
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2011)</small>
 
 ###### ARTÍCULO 563.
 
-Para mantener la disciplina, el control y el mando en los Elementos de la Secretaría, se requiere de personal con cargo y grado, entendiéndose por éstos:
+La Secretaría de Seguridad Pública estará al mando del Presidente Municipal en los términos de este Código. La jerarquía de mando dentro de la Secretaría, operará en base a las siguientes categorías, jerarquías y equivalencias:
 
-I. Personal con cargo; aquél que tiene un puesto administrativo en la estructura orgánica de la Secretaría; su cargo determina la jerarquía de mando dentro de dicha dependencia y es independiente del grado del elemento; y
+A. Categorías:
 
-II. Personal con grado; aquél que ostenta un rango policiaco, independientemente del cargo que ocupa en la estructura orgánica de la Secretaría y que de acuerdo con dicho grado, tiene un mando jerárquico, exclusivamente sobre el área operativa.
+I. Comisarios;
+
+II. Inspectores;
+
+III. Oficiales; y
+
+IV. Escala Básica.
+
+B. Jerarquías.
+
+I. Comisarios:
+
+a) Comisario General;
+
+b) Comisario Jefe; y
+
+c) Comisario.
+
+II. Inspectores:
+
+a) Inspector General;
+
+b) Inspector Jefe; e
+
+c) Inspector.
+
+III. Oficiales:
+
+a) Subinspector;
+
+b) Oficial; y
+
+c) Suboficial.
+
+IV. Escala Básica:
+
+a) Policía Primero;
+
+b) Policía Segundo;
+
+c) Policía Tercero; y
+
+d) Policía.
+
+C. Equivalencias.
+
+I. Comisarios:
+
+a) Secretario de Seguridad Pública: Comisario General;
+
+b) Directores: Comisario Jefe; y
+
+c) Coordinadores: Comisario.
+
+II. Inspectores:
+
+a) Jefes Operativos o jefes de departamento:
+
+Inspector General;
+
+b) Jefes de Grupo o Unidad: Inspector Jefe; y
+
+c) Responsable de Turno: Inspector.
+
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2011)</small>
 
 ###### ARTÍCULO 564.
 
-La jerarquía de mando dentro de la Secretaría, se establece de la siguiente manera:
+Las equivalencias señaladas en el artículo anterior sólo aplicarán para las categorías de inspectores y comisarios; éstas serán consideradas cargos administrativos y de dirección respectivamente, mismos que deberán ser asignados a través de nombramiento implícitamente temporal otorgado por la autoridad correspondiente.
 
-I. Presidente Municipal;
+A los niveles jerárquicos correspondientes a la escala básica y de oficiales, sólo se podrá acceder a través de lo establecido en el reglamento del Sistema Integral de Desarrollo Policial.
 
-II. Secretario de Seguridad Pública y Tránsito Municipal;
+Nadie podrá ingresar a la escala jerárquica y sus equivalencias, si no ha sido previamente certificado y registrado en el Sistema Nacional de Seguridad Pública, de acuerdo a las disposiciones que se emitan para tal efecto. La contravención a lo dispuesto en este artículo, será sancionado en los términos que las disposiciones normativas aplicables señalen.
 
-III. Directores;
+> <small>(ADICIONADO CON LOS CAPITULOS QUE LO INTEGRAN, P.O. 8 DE AGOSTO DE 2011)</small>
 
-IV. Coordinadores;
+## TÍTULO SEGUNDO. DE LAS DISPOSICIONES COMUNES PARA LOS INTEGRANTES OPERATIVOS DE LA SECRETARÍA
 
-V. Jefes Operativos;
+> <small>(ADICIONADO, P.O. 8 DE AGOSTO DE 2011)</small>
 
-VI. Primeros Comandantes;
+### CAPÍTULO II. Sanciones y Correctivos Disciplinarios
 
-VII. Comandantes;
-
-VIII. Subcomandantes;
-
-IX. Oficiales; y
-
-X. Suboficiales de Seguridad Pública y Tránsito Municipal.
-
-APARTADO QUINTO
-
-De la Policía Comercial, Bancaria y Residencial
-
-## TÍTULO PRIMERO. DISPOSICIONES GENERALES
-
-### CAPÍTULO II. De las Licencias de Construcción
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2011)</small>
 
 ###### ARTÍCULO 565.
 
-La Policía Comercial, Bancaria y Residencial es un Cuerpo de Seguridad Pública integrante de la Secretaría y estará sujeta al mando inmediato del Director de Policía Preventiva a través de la Jefatura Operativa correspondiente.
+Son derechos de todos los integrantes operativos de la Secretaría, aquellos que por la naturaleza de su grado o cargo les son conferidos en forma implícita o explícita por este Código y demás instrumentos normativos aplicables, los siguientes:
+
+I. Percibir un salario digno y remunerador, acorde con la calidad y riesgo en el desempeño de las funciones, en el entendido de que, a misma jerarquía corresponden las mismas percepciones y éstas no podrán ser disminuidas durante el desempeño de su encargo;
+
+II. Gozar de un trato digno y respetuoso por parte de sus superiores jerárquicos, iguales y subordinados;
+
+III. Recibir el respeto y la atención de la comunidad a la que sirve;
+
+IV. Recibir la formación inicial y continua que para el efecto señale la Dirección de Profesionalización, a través de las áreas correspondientes;
+
+V. Que le sean respetados los derechos que les reconoce el Sistema Integral de Desarrollo Policial, en términos de este Código y demás instrumentos normativos aplicables;
+
+VI. Recibir el equipo, uniforme, insignias y divisas correspondientes sin costo alguno, dos veces al año. Asimismo se le proporcionarán las armas de fuego y municiones necesarias de acuerdo a las particularidades de la prestación del servicio asignado;
+
+VII. Participar en los concursos de promoción y someterse a las evaluaciones correspondientes para ascender a la jerarquía inmediata superior en atención a las programaciones y los requisitos correspondientes que al efecto determine el Sistema Integral de Desarrollo Policial;
+
+VIII. Ser sujeto de estímulos cuando su conducta y desempeño así lo ameriten, atendiendo a los procedimientos establecidos;
+
+IX. Contar con jornadas de trabajo que permitan su desarrollo personal, profesional, familiar y social, así como disfrutar de las mismas prestaciones de los trabajadores de base, conjuntamente a las que deriven del régimen complementario de seguridad social que se implementen en beneficio de los integrantes y sus familiares;
+
+X. Ser asesorados y defendidos jurídicamente por la Secretaría a través de la Coordinación de Asuntos Jurídicos, en forma gratuita, en el supuesto de que por motivos del servicio, sean sujetos a algún procedimiento que tenga por objeto fincarles una responsabilidad jurídica.
+
+La asesoría y defensa podrá negarse o suspenderse en cualquier tiempo, por decisión fundada y motivada del Secretario, cuando la conducta del integrante en cuestión, sea contraria a los principios de actuación y obligaciones que rigen a los integrantes operativos de la Secretaría o vaya en detrimento de la imagen de la misma;
+
+XI. Recibir atención médica y el tratamiento adecuado sin costo alguno, cuando sean lesionados en servicio o con motivo de éste, en la institución pública o privada que pueda proporcionarla en las mejores condiciones, de acuerdo con el Sistema de Prestaciones Sociales del Municipio;
+
+XII. Cumplir, en su caso, con los arrestos impuestos por el Juez Municipal, por la comisión de faltas administrativas, en un área especial para policías separado del resto de los detenidos;
+
+XIII. Hacer uso del derecho de opinión y petición hacia sus superiores jerárquicos, siempre y cuando sea en forma escrita, pacífica y respetuosa;
+
+XIV. En caso de maternidad, gozará de la protección a ésta, como propósito fundamental atendiendo a las siguientes consideraciones:
+
+a) No realizar trabajos que impliquen un esfuerzo que ponga en peligro su salud y la gestación;
+
+b) Gozar forzosamente de doce semanas de descanso, debiendo percibir su salario íntegro, conservar su empleo y los derechos que hubiere adquirido por la relación jurídica con el Municipio. Las doce semanas a que se refiere este inciso podrán ser aplicadas por la integrante operativa, seis semanas antes de la fecha fijada para el parto y seis semanas después del mismo o bien, seguir trabajando hasta en tanto sus condiciones físicas se lo permitan siempre y cuando el médico autorizado por la Secretaría lo certifique o nazca su hijo, en el segundo supuesto las doce semanas comenzarán a contar a partir del día laboral siguiente al nacimiento;
+
+c) A partir de la fecha del parto la integrante operativa, tendrá derecho durante dieciocho semanas a dos periodos extraordinarios de descanso por turno de servicio, de media hora cada uno para la lactancia.
+
+d) En caso de maternidad por adopción gozará de doce semanas de descanso, las cuales comenzarán a contar a partir del día en que sea formalmente entregado el hijo;
+
+XV. En caso de paternidad natural o adoptiva gozarán de una semana de descanso con goce de sueldo a partir del nacimiento o la entrega formal del hijo. El integrante está obligado a informar por escrito al titular de la unidad administrativa a que pertenezca de inmediato por sí o por tercera persona, en caso contrario dicha situación quedará registrada en su expediente. De igual forma deberá acreditarlo con el acta de nacimiento correspondiente, a más tardar dentro de los treinta días hábiles siguientes a su reincorporación al servicio, la omisión en el aviso oportuno o justificación documental dará lugar a que sean consideradas como faltas injustificadas, sin perjuicio de los procedimientos aplicables;
+
+XVI. Los integrantes operativos gozarán de seis días al año por permisos económicos, para atender asuntos personales, mismos que deberán ser autorizados previamente por su jefe inmediato y su Director de área, atendiendo a las necesidades del servicio. Este derecho sólo será reconocido a los integrantes operativos que hayan acreditado la certificación, las evaluaciones del desempeño y la formación continua, y que además en su expediente no cuenten con registros de sanción o incapacidades, a excepción de las de maternidad y las de riesgo laboral, en el año anterior al de la solicitud.
+
+En el caso de que durante un año no haya sido utilizado la totalidad de los días de permiso económico, estos no serán acumulables con los que correspondan al año siguiente.
+
+En caso de muerte de algún familiar consanguíneo del integrante operativo ya sea en primer grado en línea recta, en segundo grado en la colateral o cónyuge, tendrá derecho a ausentarse del servicio con goce de sueldo hasta por diez días hábiles contados a partir de la defunción. Este periodo podrá duplicarse previa valoración psicológica que determine la Secretaría, mismos que serán sin goce de sueldo;
+
+XVII. Disfrutar de un seguro de vida colectivo por lo menos de los siguientes montos:
+
+a) Por muerte natural, causada por motivos ajenos al servicio.- dos mil setecientos salarios mínimos vigentes en el Estado de Aguascalientes;
+
+b) Por muerte accidental o violenta.- seis mil trescientos salarios mínimos vigentes en el Estado de Aguascalientes; y
+
+c) Lo anterior sin menoscabo de los beneficios derivados de otros programas u ordenamientos que le resulten aplicables.
+
+XVIII. Los demás que señale éste Código y demás ordenamientos legales aplicables.
+
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2011)</small>
 
 ###### ARTÍCULO 566.
 
-Los elementos de la Policía Comercial, Bancaria y Residencial están obligados a llevar el curso de formación básica establecido en el apartado Sexto del capítulo primero del libro quinto del presente código.
+Para los efectos del servicio de los integrantes operativos se considera horario normal las jornadas de trabajo conforme a las necesidades del servicio. La jornada laboral normal no excederá de cuarenta y ocho horas semanales.
+
+La jornada laboral podrá extenderse en los casos de emergencia, de caso fortuito, fuerza mayor o cualquier otro evento en el que el interés general de la sociedad así lo demande, En este caso, el Secretario dictará la disposición de acuartelar a una parte o a la totalidad de los integrantes de la Secretaría a través del acuerdo correspondiente.
+
+Las horas que excedan de la jornada laboral normal se retribuirán como tiempo extraordinario.
+
+La Jornada laboral del personal operativo deberá determinarse por destacamento, delegación, unidad o grupo especial, debiendo notificarse tal circunstancia a los integrantes cuando menos con cuarenta y ocho horas de anticipación. En ningún caso podrá asignarse a persona alguna un horario distinto de manera individualizada.
+
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2011)</small>
 
 ###### ARTÍCULO 567.
 
-Los integrantes de la Policía Comercial, Bancaria y Residencial tienen la obligación, de adoptar las normas disciplinarias establecidas en el presente capítulo en los mismos términos que los elementos Preventivos y de Tránsito.
+La legalidad, objetividad, eficiencia, profesionalismo, honradez y respeto a los derechos humanos son principios de actuación que los integrantes operativos de la Secretaría deben observar invariablemente en el desempeño de sus funciones, con el más alto sentido de la disciplina y compromiso de servicio hacia la comunidad, respetando y haciendo que se respete la Constitución Política de los Estados Unidos Mexicanos, la Ley General del Sistema Nacional de Seguridad Pública, la Constitución Política del Estado de Aguascalientes, la Ley del Sistema Estatal de Seguridad Pública del Estado de Aguascalientes, este Código y demás disposiciones legales aplicables.
+
+Con el objeto de garantizar el cumplimiento de los principios de actuación, son obligaciones de los integrantes operativos de la Secretaría los siguientes:
+
+A. De primer nivel:
+
+I. Abstenerse, dentro o fuera del servicio, de todo acto que constituya delito doloso, así como de solicitar y aceptar compensaciones, pagos o gratificaciones distintas a las previstas legalmente y de hacer uso de sus atribuciones para lucrar u obtener beneficio por medio del tráfico de influencias;
+
+II. Respetar y hacer que se respeten los símbolos patrios;
+
+III. Obedecer las órdenes que con motivo del desempeño de sus funciones, reciba de su superior jerárquico o de quien ejerzan sobre él atribuciones de mando evitando todo acto u omisión que produzca deficiencia en su cumplimiento, respondiendo sobre la ejecución de las órdenes directas que reciba, a un solo superior jerárquico, por regla general, respetando preponderantemente la línea de mando;
+
+IV. Abstenerse de realizar conductas que desacrediten su persona o la imagen de la Secretaría dentro o fuera del servicio;
+
+V. Preservar la secrecía de los asuntos que por razón del desempeño de su función conozca y bajo ninguna circunstancia dar a conocer por cualquier medio a quien no tenga derecho, documentos, registros, imágenes, constancias, estadísticas, reportes, o cualquier otra información reservada o confidencial;
+
+VI. Velar por la vida e integridad física de las personas detenidas, las cuales se encuentran bajo su más estricta responsabilidad desde el momento de la detención hasta la recepción final de la puesta a disposición ante la autoridad competente;
+
+VII. Tomar las medidas de protección y aseguramiento respecto de personas con capacidades diferentes, notoriamente intoxicados, personas extraviadas o menores de edad, debiendo en todo caso, inmediatamente hacer del conocimiento y/o poner a disposición de las instancias o autoridades competentes;
+
+VIII. Detener a los probables responsables de hechos delictivos e infractores que sorprendan en el momento en que esté cometiendo un delito o falta administrativa o inmediatamente después de haberlo cometido, los que pondrán a disposición ante la autoridad competente en forma inmediata, asimismo entregarán un inventario con la descripción detallada de los objetos asegurados a los mismos;
+
+IX. Prestar sus servicios de manera personal, quedando prohibido delegar a terceros o permitir que personas ajenas a la Secretaría realicen actos inherentes a las atribuciones que tenga encomendadas. Asimismo, no podrá hacerse acompañar de dichas personas al realizar funciones del servicio;
+
+X. Ejecutar los mandamientos judiciales y ministeriales, así como poner a disposición del Ministerio Público que corresponda, los objetos o instrumentos que aseguren a particulares relacionados con hechos delictivos, elaborar el informe policial homologado de los hechos que tenga conocimiento, comparecer a rendir informes y declaraciones que soliciten las autoridades;
+
+XI. Abstenerse de todo acto de abuso de autoridad, acoso sexual y de limitar injustificadamente las acciones o manifestaciones que en ejercicio de sus derechos constitucionales con carácter pacífico sean realizadas por las personas, salvo que con ella se ataque la moral o lesionen los derechos de terceros, provoquen algún delito o se altere el orden público;
+
+XII. Abstenerse en todo momento de infligir o tolerar actos de tortura, aun cuando se trate, de una orden superior o se argumenten circunstancias especiales, tales como amenaza a la seguridad pública, como urgencia de las investigaciones, o cualquier otra; al conocimiento de dichas circunstancias, las deberá denunciar ante la autoridad competente;
+
+XIII. Atender con diligencia la solicitud de informe, queja o auxilio de la persona que esté amenazada de un peligro y en su caso, tomar las medidas que correspondan según las circunstancias; si la situación rebasa su competencia, deberá turnarla de inmediato al área que corresponda;
+
+XIV. Realizar la vigilancia y resguardo de las personas y bienes que les sean encargados bajo custodia por la autoridad competente, mediante orden debidamente fundada y motivada;
+
+XV. Someterse a evaluaciones periódicas para acreditar el cumplimiento de los requisitos de permanencia, así como obtener y mantener vigente la certificación respectiva;
+
+XVI. Obtener y mantener actualizado su certificado único policial;
+
+XVII. Abstenerse de disponer de los bienes asegurados para beneficio propio o de terceros, así como de sustraer ocultar, alterar o dañar información o bienes en perjuicio de las instituciones;
+
+XVIII. Abstenerse de introducir a las instalaciones de la Secretaría bebidas embriagantes, sustancias psicotrópicas, estupefacientes u otras sustancias de carácter ilegal, prohibido o controlado, salvo cuando sean producto de detenciones, cateos, aseguramientos u otros similares, y que previamente exista la autorización correspondiente;
+
+XIX. Abstenerse de consumir, dentro o fuera del servicio, sustancias psicotrópicas, estupefacientes u otras sustancias de carácter ilegal, prohibido o controlado, salvo los casos en que el consumo de los medicamentos controlados sea autorizado mediante prescripción médica, avalada por los servicios médicos de las Instituciones, dando conocimiento de estas circunstancias a su superior jerárquico;
+
+XX. Abstenerse de consumir bebidas embriagantes en las instalaciones de la Secretaría así como en el desempeño del servicio;
+
+XXI. Abstenerse de asistir uniformado a bares, cantinas, centros de apuestas o juegos, u otros centros de este tipo, salvo orden expresa para el desempeño de sus funciones o en caso de realizar una detención en flagrancia;
+
+XXII. Abstenerse de disparar el arma de fuego, salvo que sea estrictamente necesario y el servicio así lo requiera;
+
+XXIII. Abstenerse de intervenir en operativos o acciones que impliquen un conflicto de interés, debido a los vínculos de amistad, parentesco, negocios, enemistad o animadversión que existan entre su persona y aquella o aquellas que esté obligado a proteger, detener, inspeccionar, custodiar o someter a cualquier actividad con motivo de sus funciones. Tratándose de una detención o intervención urgente en la que sea el primer respondiente, se concretará a realizar las acciones imprescindibles para que no se produzca la evasión de los responsables o el perjuicio de un tercero, así como prestar la atención necesaria a las víctimas en tanto acude el apoyo;
+
+XXIV. Faltar a su servicio injustificadamente por más de quince ocasiones en un periodo natural de un año;
+
+XXV. Abstenerse de ostentar una actitud negligente e indiferente en el servicio o fuera de él; y
+
+XXVI. Abstenerse de convocar o participar en cualquier práctica de rebeldía o indisciplina en contra del mando o alguna otra autoridad.
+
+B. De segundo nivel:
+
+I. Registrar en una bitácora de forma detallada y cronológica todos los datos de importancia que incidan en sus actividades y comisiones, como son: fecha, hora, personas implicadas, descripción del hecho y demás circunstancias que impliquen el aprovechamiento de la información;
+
+II. Registrar en el informe policial homologado los datos de las actividades e investigaciones que realice; así como inscribir las detenciones en el Registro Administrativo correspondiente conforme a las disposiciones aplicables;
+
+III. Utilizar los protocolos de investigación y de cadena de custodia que establezcan los manuales emitidos por la Comisión de Normatividad Interna, así como actualizarse en el empleo de métodos de investigación que garanticen la recopilación técnica y científica de indicios y evidencias;
+
+IV. Preservar, conforme a las disposiciones aplicables, las pruebas e indicios de probables hechos delictivos o de faltas administrativas de forma que no pierdan su calidad probatoria y se facilite la correcta tramitación del procedimiento correspondiente;
+
+V. Actuar con la decisión necesaria y sin demora en la protección de las personas, en sus derechos y sus bienes, procurando que sea congruente, oportuna y proporcional al hecho;
+
+VI. Impedir la ejecución de actos contrarios a la moral y a la tranquilidad pública, así como los demás que tiendan a dañar a personas, animales o cosas;
+
+VII. Abstenerse de ordenar o realizar la detención de personas sin cumplir con los requisitos previstos, en los ordenamientos legales aplicables;
+
+VIII. Apoyar a las autoridades correspondientes que así se lo soliciten en la investigación y persecución de delitos, así como en situaciones de grave riesgo, catástrofes o desastres;
+
+IX. Informar al superior inmediato y a la autoridad correspondiente de manera inmediata las omisiones, actos indebidos o constitutivos de delito, así como las violaciones al presente Código, de su superior jerárquico, de sus subordinados o iguales en categoría jerárquica;
+
+X. Respetar la circunscripción asignada a su operación, sujetándose a las delimitaciones territoriales establecidas, a excepción de los casos en que resulte indispensable para la eficiente y eficaz prestación del servicio de seguridad pública;
+
+XI. Tomar las medidas de seguridad y de orden urgentes que sean necesarias en casos de emergencia, incendios, accidentes, inundaciones, siniestros y en general, toda clase de catástrofes;
+
+XII. Apegarse a los procedimientos que se establecen en el Reglamento del Sistema Integral de Desarrollo Policial;
+
+XIII. Mantener en buen estado el armamento, material, municiones y equipo que se le asigne con motivo de sus funciones, haciendo uso de ellos sólo en el desempeño del servicio, debiendo reportar de inmediato cualquier falla, descompostura o daño al titular de la unidad administrativa a que pertenezca. El uso de las armas se reservará exclusivamente para actos del servicio o capacitación que así lo demanden;
+
+XIV. Abstenerse de abandonar el servicio o la comisión que desempeñe antes de que llegue su relevo o bien atender asuntos de índole personal sin la autorización correspondiente;
+
+XV. Abstenerse de tomar parte activa durante el desempeño de su servicio en cualquier tipo de actividades de carácter político o religioso; y
+
+XVI. Abstenerse de realizar en cualquier forma la comisión de un delito culposo o falta administrativa;
+
+C. De tercer nivel:
+
+I. Cuidar los monumentos, recintos oficiales, lugares históricos, culturales o públicos;
+
+II. Proporcionar en los actos del servicio, su nombre y demás datos de identificación a menos de que por razones debidamente justificadas y acreditadas para los efectos de un operativo especial, sean autorizados para ello por el Secretario, bajo su más estricta responsabilidad;
+
+III. Realizar el saludo militar y civil, según se porte o no el uniforme para con la bandera nacional y/o con sus superiores jerárquicos cuando corresponda;
+
+IV. Cumplir sus funciones con absoluta imparcialidad, cortesía, firmeza y sin discriminación alguna;
+
+V. Apegarse a las normas sobre el uso de la radio frecuencia, de las claves y Código fonético autorizados;
+
+VI. Conservar y dar buen uso de los bienes afectos al servicio público, propiedad de las entidades públicas y órganos de gobierno;
+
+VII. Entregar al superior de quien dependa, un informe escrito de sus actividades en las misiones encomendadas, en la periodicidad que las instrucciones o los manuales operativos señalen. Este informe deberá elaborarse en el apego más estricto a la verdad histórica de los hechos ocurridos;
+
+VIII. Realizar el servicio ordinario de vigilancia en las vías y demás lugares públicos, atendiendo a las necesidades de la población así como efectuar los servicios de vigilancia extraordinaria que le sean solicitados por acontecimientos o eventos especiales;
+
+IX. Observar un trato respetuoso, evitando tutear o tratar con altivez y despotismo a las personas;
+
+X. Informar a cualquier persona cuando así lo solicite, sobre los lugares y servicios que se ofrecen en el Municipio, así como cualquier otro de interés o de utilidad pública;
+
+XI. Participar en operativos y mecanismos de coordinación con otras Instituciones de Seguridad Pública, para prevenir y combatir la delincuencia así como brindarles, en su caso, el apoyo que conforme a derecho proceda;
+
+XII. Portar los uniformes, insignias, divisas y equipos reglamentarios, de acuerdo al manual correspondiente y atendiendo a la jerarquía que ostente el integrante operativo, en todos los actos y situaciones de servicios, excepto que sean autorizadas por el Secretario por razones debidamente justificadas o para los efectos de un operativo especial;
+
+XIII. Hacer uso racional y responsable de los vehículos de emergencia, así como de sus accesorios, haciendo funcionar las sirenas, altavoces y torretas de los vehículos, sólo en los casos en que la prestación del servicio así lo requiera;
+
+XIV. Portar el uniforme con toda dignidad y pulcritud, de acuerdo a lo que establezca el manual respectivo;
+
+XV. Evitar faltar a su servicio sin causa justificada;
+
+XVI. Hacer uso diferenciado de la fuerza, de manera legal, congruente, oportuna, proporcional, de acuerdo a la estricta necesidad y con respeto a los derechos humanos, apegándose a las disposiciones normativas establecidas; y
+
+XVII. Las demás que establezcan las disposiciones legales aplicables.
+
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2011)</small>
 
 ###### ARTÍCULO 568.
 
-El H. Ayuntamiento está facultado para celebrar contratos con particulares para la prestación del servicio de vigilancia y seguridad a través de la Policía Comercial, Bancaria y Residencial. En cada contrato se fijarán las condiciones especificas del servicio tales como número y grado de los elementos, horario, así como las condiciones especiales que requieran los particulares, conforme a las restricciones y modalidades que señala el presente Código y demás disposiciones aplicables.
+Además de las contenidas en el artículo anterior son obligaciones de los integrantes operativos con mando, las siguientes:
+
+A. De primer nivel:
+
+I. Solicitar y aplicar las sanciones y correctivos disciplinarios que se encuentren dentro de sus atribuciones, a través de documento escrito fundado y motivado atendiendo a la garantía de audiencia de cada integrante, en la inteligencia de que su aplicación tiene por objeto mantener la disciplina y la efectividad de la prestación del servicio, guardando la consideración y el respeto hacia sus subordinados;
+
+II. Revisar en forma cuidadosa la documentación relativa al servicio, bitácoras, informes policiales homologados del personal a su cargo, en su caso darles el trámite de control, registro o gestión correspondiente;
+
+III. Presentar ante el Médico de Guardia y someter al proceso correspondiente a los integrantes operativos que se presenten al pase de lista, sean sorprendidos durante su servicio, o conduzcan un vehículo oficial con aliento alcohólico o bajo los efectos de bebidas embriagantes u otras sustancias que produzcan efectos similares;
+
+IV. Abstenerse de aplicar de manera injustificada y reiterada sanciones o correctivos disciplinarios a los integrantes;
+
+V. Dar ejemplo a sus subordinados con su conducta, sus actos, palabras, puntualidad, honestidad y justicia, inspirándoles confianza y aprecio a los mismos; y
+
+VI. Supervisar las acciones de sus subordinados durante el servicio, a fin de mantener un registro detallado y cronológico de éstas y sus resultados, mismos que deberá resguardar y proporcionar a las instancias correspondientes.
+
+B. De segundo nivel:
+
+I. Mantener el orden y la disciplina para con los subordinados;
+
+II. Propiciar el buen entendimiento, la disciplina, responsabilidad, decisión, integridad, espíritu de cuerpo, profesionalismo, solidaridad y la cooperación en sí mismo y en el personal bajo su mando;
+
+III. Conocer a sus subordinados en su proceder, actitudes, condiciones de salud, aptitudes y limitaciones, con la finalidad de asignar adecuadamente los servicios y comisiones en las que intervengan, garantizando un buen desempeño;
+
+IV. Expresar las órdenes en forma general, definiendo el objetivo por alcanzar, sin entrar en detalles de ejecución, salvo que así lo requiera la orden, promoviendo y fomentando la responsabilidad e iniciativa entre los subordinados;
+
+V. Respetar y atender en breve término a través de documento, el ejercicio del derecho de opinión y petición de sus subordinados, siempre y cuando sea expresado por escrito y en forma respetuosa; tratándose de solicitudes y opiniones emitidas de manera verbal, éstas deberán ser expresadas en los mismos términos y su atención se realizará guardando la consideración debida;
+
+VI. Realizar juntas generales con el personal a su cargo una vez al mes para escuchar en forma directa, quejas o sugerencias relacionadas con el servicio, elaborando las actas correspondientes, remitiéndolas al superior jerárquico y a las instancias responsables de coordinar las evaluaciones del desempeño;
+
+VII. Propiciar que sus subordinados conozcan y apliquen las disposiciones establecidas en los manuales e instrumentos normativos aplicables, cumpliendo con los principios de actuación y las obligaciones;
+
+VIII. Dar parte al superior jerárquico y a la instancia correspondiente de toda sanción hecha a los integrantes operativos y supervisar que sea anexado a su expediente el documento probatorio; y
+
+IX. Proponer al Presidente de la Comisión de Normatividad Interna la emisión, actualización, modificación o derogación de los manuales administrativos y de operación necesarios.
+
+Lo anterior sin detrimento de los demás instrumentos normativos aplicables.
+
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2011)</small>
 
 ###### ARTÍCULO 569.
 
-Los elementos de la Policía Comercial, Bancaria y Residencial en cualquier momento podrán gozar de un ascenso de grado.
+Siempre que se haga uso de la fuerza se hará conforme a derecho, apegándose a las disposiciones normativas y administrativas aplicables así como de manera racional respetando los siguientes principios:
 
-> <small>(REFORMADO, P.O. 3 DE NOVIEMBRE DE 2008)</small>
+I. Congruencia: Equilibrio entre el nivel de uso de fuerza utilizada atendiendo al objeto legítimo de la intervención y la resistencia presentada. Para lograr esto se podrán utilizar los siguientes niveles en el uso de fuerza:
+
+a) Persuasión o disuasión verbal: consiste en la utilización de palabras o gesticulaciones encaminadas a lograr que el probable infractor desista de su conducta;
+
+b) Reducción física de movimientos: consiste en la utilización de técnicas de control sin la utilización de armas u objetos, a efecto de controlar a la persona que se ha resistido y ha obstaculizado que el integrante cumpla con sus funciones;
+
+c) Utilización de armas no letales: consiste en la utilización de instrumentos que incapacitan momentáneamente el movimiento, tales como el bastón PR-24, tolete o su equivalente, sustancias irritantes en aerosol, esposas o candados de mano, esto a fin de controlar y reducir la resistencia violenta de una persona; y
+
+d) Utilización de fuerza letal: consiste en la utilización de armas de fuego para su defensa legítima o la de terceros a los que tengan el deber de proteger.
+
+II. Oportunidad: que se aplique el uso diferenciado de la fuerza de manera inmediata para evitar o neutralizar un daño real, actual o inminente, que vulnere o ponga en peligro la integridad, derechos o bienes de las personas, las libertades, la seguridad ciudadana o la paz pública; y
+
+III. Proporcionalidad: que el uso diferenciado de la fuerza sea adecuado, correspondiendo a la clase y magnitud de oposición a la que se enfrente o intente repeler. Ningún integrante operativo de la Secretaría, podrá ser sancionado por negarse a ejecutar una orden notoriamente inconstitucional o ilegal, o que pudiera constituir un delito. Toda orden con estas características deberá ser reportada al superior jerárquico inmediato de quien la emita, así como a las instancias correspondientes.
+
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2011)</small>
 
 ###### ARTÍCULO 570.
 
-A los elementos de seguridad pública que pertenezcan a la Policía Comercial, Bancaria y Residencial, para efectos de determinar si incurrieron en alguna falta leve o grave y para la aplicación de alguna sanción, se les realizará la investigación correspondiente a través de la Dirección de Asuntos Internos de Seguridad Pública y Tránsito, quien remitirá, a su vez, el expediente respectivo al Secretario de Seguridad Pública y Transito Municipal para la aplicación de las sanciones que señalan los artículos 601, 602, 604, 605 y 605 BIS del presente Código. Asimismo, la Dirección de Asuntos Internos de Seguridad Pública y Tránsito remitirá a la Comisión de Honor y Justicia, el expediente correspondiente, en los casos previstos en este Código.
+Tratándose de domicilios privados, se respetará en todo caso su inviolabilidad, y en el caso de que en cumplimiento de sus funciones los integrantes operativos de la Secretaría tuvieran necesidad de penetrar en éstos, ya fuere con objeto de realizar alguna detención o cualquier otro acto de carácter legal, recabará previamente el permiso por escrito de los habitantes del domicilio en cuestión.
+
+Tratándose de casos de fuerza mayor y en situaciones de peligro grave, actual o inminente para la vida, libertad, la integridad física de las personas y cualquier otro bien jurídico tutelado de igual o mayor jerarquía que el que se llegare a poner en peligro o dañar al ingresar al domicilio, los integrantes no necesitarán recabar el permiso a que se refiere el párrafo anterior.
+
+No se considerarán como domicilios particulares o privados, los patios, escaleras, corredores de uso común de edificios públicos y de oficinas, de casas de huéspedes, hoteles, mesones o vecindades, cines, teatros, mercados, parques, canchas deportivas, carreteras, caminos, avenidas, calles, calzadas, plazas, lugares en los que se presente algún espectáculo público, lugares de libre acceso ni aquellos que por sus condiciones se encuentren en notorio estado de abandono propiciando condiciones recurrentes de inseguridad en el entorno y por sus características de fácil acceso sean utilizados para cometer faltas o delitos.
+
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2011)</small>
 
 ###### ARTÍCULO 571.
 
-Para los efectos de los derechos y obligaciones de los elementos de Policía Comercial, Bancaria y Residencial se sujetarán a lo dispuesto por los Artículos 552, 553, 563, 564, 588, 589, 596, 597 y 598 del presente ordenamiento.
+Los Jueces Municipales podrán ordenar sean practicadas visitas domiciliaras (sic) únicamente para cerciorarse del cumplimiento de disposiciones de policía en términos del artículo 16 de la Constitución Federal, previa solicitud de los integrantes operativos de seguridad pública o de cualquier persona.
 
-En caso de incumplimiento de las obligaciones señaladas en el párrafo anterior los elementos de Policía Comercial, Bancaria y Residencial serán sancionados en términos de lo indicado por el párrafo segundo del artículo que antecede, sanción que será impuesta en los términos señalados en los Artículos del 613 al 621 del presente Código.
+Cuando la autoridad competente solicite la intervención de los integrantes operativos, deberá formular su solicitud por escrito debidamente fundada y motivada.
 
-APARTADO SEXTO
+> <small>(ADICIONADO, P.O. 8 DE AGOSTO DE 2011)</small>
 
-Profesionalización de los Elementos de Seguridad Pública
+### CAPÍTULO III. Clasificación de las Faltas
 
-### CAPÍTULO III. De La Autoconstrucción
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2011)</small>
 
 ###### ARTÍCULO 572.
 
-Para lograr una óptima y eficaz prestación del servicio de seguridad pública y con el objeto de alcanzar el desarrollo integral de sus elementos, se establece el Programa de Formación Policíaca Permanente para el Municipio de Aguascalientes, el cual dependerá de la Dirección de Capacitación, Formación y Profesionalización.
+Para los integrantes operativos de la Secretaría, se considera falta, cualquier conducta contraria a los principios de actuación y obligaciones previstas en este libro. Tomando en consideración la gravedad de la falta, se aplicarán las siguientes sanciones y correctivos disciplinarios:
+
+I. Amonestación: Advertencia que se realiza al integrante infractor por la acción incorrecta, u omisión en el desempeño de los principios de actuación y obligaciones, exhortándole a no reincidir en las conductas motivo de la sanción;
+
+II. Arresto: consiste en el confinamiento del integrante operativo dentro de las instalaciones de la Secretaría, realizando actividades que se le comisionen. Dicho correctivo disciplinario se tendrá que cumplir independientemente de la jornada laboral y cumpliendo con los horarios establecidos, al término de los cuales, si no ha concluido con dicho arresto, se concentrará en su unidad administrativa para concluirlo. El arresto deberá hacerse y notificarse inmediatamente por escrito especificando el motivo, fundamento, lugar y duración del mismo, y no podrá exceder de treinta y seis horas. En caso de no ser notificado de esta manera y dentro de las seis horas posteriores al término de su turno, se entenderá que la sanción ha concluido;
+
+III. Suspensión Temporal: Consistente en la interrupción de la relación jurídica existente entre el integrante infractor y la Secretaría, sin goce de sueldo, la cual no excederá de noventa días hábiles.
+
+Una vez notificada la suspensión, el integrante infractor deberá entregar inmediatamente, a quien designe el Secretario, su identificación, municiones, armamento, equipo y todo material que se le haya ministrado para el cumplimiento de sus funciones. Concluida la suspensión, el integrante comparecerá ante el titular de la unidad administrativa de su adscripción, a quien informará por escrito de su reincorporación al servicio;
+
+IV. Degradación: descenso en el nivel jerárquico y los derechos inherentes que ostenta el integrante operativo, que se determina por el incumplimiento a las obligaciones propias de su función; y
+
+V. Remoción: destitución definitiva del integrante operativo de la Secretaría, de conformidad con las disposiciones relativas al régimen disciplinario.
+
+Una vez notificada la remoción, el integrante infractor deberá entregar inmediatamente, a quien designe el Secretario de Seguridad Pública, su identificación, municiones, armamento, equipo y todo material que se le haya suministrado para el cumplimiento de sus funciones.
+
+En todos los casos que se señalan en el presente artículo las sanciones y correctivos disciplinarios que se impongan a los integrantes operativos de la Secretaría deberán constar por escrito y estar debidamente fundados y motivados.
+
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2011)</small>
 
 ###### ARTÍCULO 573.
 
-La Dirección tendrá como finalidad dar continuidad a la formación personal, ética y profesional a través de la capacitación teórica y práctica de los elementos que conforman la Secretaría en un marco de respeto a los derechos humanos y al estado de derecho.
+La calificación, aplicación y ejecución de las sanciones y correctivos disciplinarios será conforme a las siguientes reglas:
 
-Para tal efecto la autoridad municipal, destinará los fondos suficientes que quedarán dentro del Presupuesto de Egresos Anual de la Secretaría, para el debido cumplimiento de esta disposición.
+I. Los Directores, Coordinadores y Jefes Operativos de la Secretaría podrán imponer a sus subordinados las sanciones y correctivos disciplinarios consistentes en amonestación y arresto, informando al Secretario, dentro de los tres días siguientes a su aplicación exponiendo las causas que lo motivaron y su fundamento;
+
+II. El Secretario tiene la atribución de imponer las sanciones y correctivos disciplinarios de amonestación y arresto; y
+
+III. La Comisión de Honor y Justicia podrá imponer, según la gravedad de la falta, las sanciones y correctivos disciplinarios consistentes en suspensión temporal, degradación y remoción; su ejecución corresponde al Secretario.
+
+La notificación que se haga a los integrantes operativos sobre la aplicación de cualquier sanción deberá realizarse por escrito, proporcionándole copia del mismo y cuidando que se encuentren presentes sólo integrantes operativos del mismo grado o superiores.
+
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2011)</small>
 
 ###### ARTÍCULO 574.
 
-En cumplimiento a lo establecido en el artículo anterior, se crea la Dirección de Capacitación, Formación y Profesionalización, que tiene como objetivo: consolidar un proyecto de formación y capacitación, identificado con las necesidades de la Secretaría; así como establecer un sistema de diagnóstico, evaluación y retroalimentación que permita la mejora continua de los elementos que integran la misma, con la finalidad de establecer un programa que promueva su desarrollo personal, técnico, familiar y social.
-
-###### ARTÍCULO 575.
-
-El Programa permanente de Formación Policíaca para el Municipio de Aguascalientes, cuenta con los siguientes niveles:
-
-I. Formación Básica: Todos los aspirantes a pertenecer a la Secretaría como elemento de Seguridad Pública, deberán ser capacitados, para incorporarse a la carrera policíaca, a fin de que se encuentren aptos para realizar las actividades de su función, en una forma profesional o realizar aquellos estudios y practicas que designe la Dirección de Formación, Capacitación y Profesionalización a través de las necesidades detectadas por la Dirección de Estado Mayor en su sección correspondiente;
-
-II. Actualización: los elementos de Seguridad Pública deberán actualizarse en forma obligatoria y permanente sobre los conocimientos y habilidades que se requieren para el ejercicio de sus funciones, mediante cursos y programas de evaluación llevados por la Dirección de Capacitación, Formación y Profesionalización la cual fijará el curso, la forma y el tiempo;
-
-III. Especialización Técnica y Profesional: la formación técnica consiste en lograr la capacitación de los elementos de Seguridad Pública para trabajos específicos, orientados a la realización de actividades en donde se requieran conocimientos, aptitudes y habilidades especiales en un área determinada de la actividad policíaca. La capacitación también determinará qué especialidades son compatibles entre ellas para destinarse a diversas áreas de trabajo. La finalidad de la formación profesional es la de obtener un título o grado académico a nivel profesional, en alguna materia de carrera policíaca expedido o reconocido por una institución educativa;
-
-IV. Promoción: Permite a los Elementos de Seguridad Pública que aspiren a ascender dentro de la carrera policíaca, contar con los conocimientos y habilidades propias del nuevo grado, mediante el proceso de capacitación; y
-
-V. Formación de Mandos: Tiene por objetivo la preparación de los mandos medios y superiores a fin de desarrollar integralmente al personal en la administración y organización policíaca.
-
-###### ARTÍCULO 576.
-
-Los elementos que conforman la Secretaría de Seguridad Pública, tienen como obligación tomar los cursos de capacitación y adiestramiento que disponga la Dirección de Capacitación, Formación y Profesionalización, a efecto de adquirir los conocimientos teóricos y prácticos que conlleven a su profesionalización, dentro del programa de formación, en los términos y condiciones que establezca la Dirección de Estado Mayor, a través de la convocatoria correspondiente.
-
-### CAPÍTULO I. De las Licencias de Construcción
-
-###### ARTÍCULO 577.
-
-Es obligación de la Dirección de Capacitación, Formación y Profesionalización en coordinación con la Dirección de Estado Mayor, encargarse de elaborar, poner en práctica y evaluar el programa de formación policíaca a través de la Jefatura correspondiente perteneciente a la Dirección inicialmente mencionada los colaboradores de dicha área serán designados por el Secretario, pudiendo participar las instituciones académicas de nivel medio o superior, nacional o extranjeras que se interesen en dicho programa, previa convocatoria que expida esa Dirección.
-
-###### ARTÍCULO 578.
-
-El Sistema de Carrera Policíaca se establece con el objeto de determinar la participación de los integrantes de los Elementos de Seguridad Pública dentro de las jerarquías y niveles que componen a la Secretaría, los requisitos para participar en dicho sistema y sus formas de acreditación.
-
-###### ARTÍCULO 579.
-
-La ejecución del sistema de carrera policíaca queda a cargo de la Dirección de Capacitación, Formación y Profesionalización a través de sus Jefaturas correspondientes y en coordinación con la Comisión de Selección y Promoción de la Secretaria de Seguridad Pública, la cual es autónoma en su funcionamiento y gozará de amplias facultades para examinar a los elementos participantes, sus expedientes y sus hojas de servicio a fin de determinar los ascensos de grado y de jerarquía correspondientes.
-
-La Comisión mencionada en el párrafo anterior estará integrada de la siguiente forma:
-
-a) Un Presidente: que será el Regidor Titular de la Comisión de Seguridad Pública del H. Ayuntamiento.
-
-b) Un Secretario Técnico: que será el Jefe del Departamento de Asuntos Jurídicos.
-
-c) Tres Consejeros: que serán, el Director de Administración, el Director de Estado Mayor y un comandante con una antigüedad mínima con el grado de cinco años.
-
-d) Cinco vocales que serán nombrados por cada una de los Directores de la Secretaría, que serán seleccionados a propuesta de los elementos operativos o en su defecto nombrados por el Secretario.
-
-La Dirección de Capacitación, Formación y Profesionalización a efecto de programar los cursos correspondientes, escuchará la opinión del Instituto Estatal de Seguridad Pública de Aguascalientes y en su caso coordinará sus esfuerzos para brindar una mejor capacitación a los elementos de la Secretaría.
-
-## TÍTULO SEGUNDO. DE LOS PERITOS Y DE LAS LICENCIAS DE CONSTRUCCIÓN
-
-### CAPÍTULO II. De los Requisitos para Otorgamiento de Licencia de Construcción para casas Habitación
-
-###### ARTÍCULO 580.
-
-Los elementos integrantes de Seguridad Pública, así como los aspirantes a pertenecer a la misma, deberán someterse a un proceso de evaluación, previa convocatoria emitida por el Director de Capacitación, Formación y Profesionalización, a solicitud de la Dirección de Estado Mayor, cumpliendo los siguientes requisitos:
-
-I. Ser mexicano por nacimiento y en pleno goce y ejercicio de sus derechos civiles y políticos;
-
-II. Ser de notoria buena conducta, no haber sido condenado por sentencia ejecutoriada por la comisión de delito doloso, ni estar sujeto a proceso penal por delito grave;
-
-III. Acreditar que ha concluido, por lo menos, los estudios correspondientes a la enseñanza media o equivalente;
-
-IV. Aprobar el concurso de ingreso y los cursos de capacitación, formación inicial o básica;
-
-V. Contar con los requisitos de edad y el perfil físico, médico y psicológico que el Manual establezca;
-
-VI. Abstenerse de hacer uso de sustancias psicotrópicas, estupefacientes u otras que produzcan efectos similares, salvo prescripción médica debidamente comprobada y convalidada por el personal médico del Municipio, ni padecer alcoholismo y someterse a los exámenes periódicos que determine el Secretario para comprobar el no uso de este tipo de sustancias;
-
-VII. No contar con antecedentes de faltas graves dentro del Registro Nacional de Personal de Seguridad Pública;
-
-VIII. No estar suspendido o inhabilitado, ni haber sido destituido por resolución firme como servidor público;
-
-IX. Para varones tener acreditado el Servicio Militar Nacional;
-
-X. En el supuesto de solicitar el reingreso, deberá haber observado buena conducta dentro de la Institución y durante el tiempo que permaneció fuera de la misma, previa determinación de la Comisión;
-
-XI. Cumplir con los demás requisitos que establezcan los manuales respectivos y cumplir con los deberes establecidos en el presente Código en su artículo 589.
-
-###### ARTÍCULO 581.
-
-Los aspirantes que resulten seleccionados cursarán el nivel de formación básica que imparte el Instituto Estatal de Seguridad Pública de Aguascalientes, o los que designe la Dirección de Capacitación, Formación y Profesionalización en coordinación con la Dirección de Estado Mayor, y durante el tiempo de dichos cursos gozarán de los apoyos y beneficios necesarios para desarrollar en forma digna y eficiente su preparación. Los aspirantes que sean expulsados, los que abandonen los estudios injustificadamente o los que reprueben el curso básico no podrán pertenecer a la Secretaría de Seguridad Pública.
-
-### CAPÍTULO III. De los Requisitos para Otorgamiento de Licencias de Construcción de Edificios de Usos Distintos al Habitacional Mayores de Sesenta Metros Cuadrados Construidos
-
-###### ARTÍCULO 582.
-
-La Comisión de Selección y Promoción de los Cuerpos de Seguridad Pública, elegirá dentro de los egresados del curso de formación básica, a aquellos que de acuerdo a una evaluación objetiva cumplan con los requisitos para ocupar las plazas vacantes de agentes de los Elementos de Seguridad Pública.
-
-###### ARTÍCULO 583.
-
-Los elementos integrantes (sic) la Secretaria, sólo podrán ascender a las plazas vacantes de las jerarquías inmediatas superiores, previo concurso de oposición, el cual constará de tres etapas de evaluación, las dos primeras teórica y practica, y la tercera etapa consistirá en la evaluación curricular, expediente personal, hoja de servicio, resultados que serán debidamente relacionados con los resultados obtenidos.
-
-Los concursos de oposición estarán a cargo de la Dirección de Capacitación, Formación y Profesionalización, en coordinación con la Comisión de Selección y Promoción, y tienen derecho a participar todos los elementos de la Secretaría de Seguridad Pública y Tránsito Municipal, siempre y cuando cubran en los requisitos exigidos por la Comisión mediante convocatoria, y que aprueben las etapas del concurso de oposición.
-
-Los elementos que se encuentren en el supuesto establecido por el numeral anterior, tendrán derecho a que se les otorguen las facilidades necesarias a efecto de contar con un periodo de descanso laboral de ocho horas previas a la aplicación del examen.
-
-###### ARTÍCULO 584.
-
-Por lo que respecta a la evaluación curricular o concurso de promoción, se deberán valorar entre otros, los siguientes requisitos:
-
-I. La conservación de los requisitos de ingreso a los Cuerpos de Seguridad Pública;
-
-II. La escolaridad y la formación adquirida dentro de su estancia en los Cuerpos de Seguridad Pública;
-
-III. La eficiencia dentro del desempeño de sus funciones asignadas;
-
-IV. El comportamiento ético y profesional;
-
-V. La antigüedad y la jerarquía dentro de los Cuerpos de Seguridad Pública;
-
-VI. El conocimiento que se tenga de las garantías individuales que consagra la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado de Aguascalientes, las leyes y reglamentos que rigen a los Cuerpos de Seguridad Pública; y
-
-VII. En el Sistema de Carrera Policíaca se determinarán los puntos de mérito y los puntos de demérito que deberán considerarse en los concursos, mediante parámetros objetivos de evaluación.
-
-###### ARTÍCULO 585.
-
-De acuerdo con las necesidades de la Secretaría, la Dirección de Capacitación, Formación y Profesionalización en coordinación con la Comisión de Promoción y Selección de los Elementos de Seguridad Pública, lanzará una convocatoria donde se señalen los requisitos de ingreso al concurso de promoción respectivo, la jerarquía y las plazas vacantes.
-
-###### ARTÍCULO 586.
-
-El Departamento de Planeación, Coordinación y Evaluación, perteneciente a la Dirección de Capacitación, Formación y Profesionalización en coordinación con la Comisión de Selección y Promoción de los Cuerpos de Seguridad Pública, evaluarán las actividades desarrolladas por los elementos de Seguridad Pública, como mínimo cada seis meses. Dicha evaluación se llevará a cabo a través de Exámenes teóricos, prácticos y psicométricos, analizándose además, la actuación policíaca de cada uno de los elementos desde un punto de vista ético, la eficiencia de los servicios prestados por el mismo, su asistencia y puntualidad, las sanciones a que se hizo acreedor durante su desempeño en la prestación del servicio, y demás elementos necesarios para la debida evaluación de la actuación de los elementos, cuyos resultados ingresarán al expediente de cada uno de los mismos, tomándose en consideración para futuros procedimientos de promoción y selección.
-
-APARTADO SÉPTIMO
-
-Derechos y Deberes de los Elementos que Integran la Secretaría de Seguridad Pública
-
-###### ARTÍCULO 587.
-
-Son derechos de todos los elementos que conforman la Secretaría, aquellos que por naturaleza de su grado o cargo le son conferidos en forma explícita por este Código y demás leyes, reglamentos y manuales.
-
-###### ARTÍCULO 588.
-
-Son derechos de los elementos del área operativa de los Cuerpos de Seguridad Pública, los siguientes:
-
-I.- Percibir un salario digno y remunerador, acorde con las características del servicio;
-
-II.- Gozar de un trato digno y decoroso por parte de sus superiores jerárquicos;
-
-III.- Recibir el respeto y la atención de la comunidad a la que sirve;
-
-IV.- Contar con la capacitación y el adiestramiento que para el efecto señale la Dirección de Capacitación, Formación y Profesionalización, a través de sus departamentos correspondientes para ser un policía de carrera;
-
-V.- Recibir tanto el equipo como el uniforme reglamentario sin costo alguno dos veces al año;
-
-VI.- Participar en los concursos de promoción y someterse a evaluación curricular para ascender a la jerarquía inmediata superior en atención a las programaciones que al efecto lleve a cabo la Dirección de Capacitación, Formación y Profesionalización a través de sus departamentos correspondientes;
-
-VII.- Ser sujeto de condecoraciones, estímulos y reconocimientos policíacos cuando su conducta y desempeño así lo ameriten;
-
-VIII. Tener jornadas de trabajo conforme a las necesidades del servicio, así como disfrutar de las prestaciones, que le correspondan conforme a este Código;
-
-IX. Ser asesorados y defendidos jurídicamente por la Secretaría a través del Departamento de Asuntos Jurídicos, en forma gratuita, en el supuesto de que por motivos del servicio, sean sujetos a algún procedimiento que tenga por objeto fincarles una responsabilidad jurídica, siempre y cuando la denuncia o querella no haya sido presentada por alguna autoridad municipal;
-
-La asesoría y defensa podrá negarse o suspenderse en cualquier tiempo, a criterio del Secretario, cuando la conducta del elemento en cuestión, sea contraria a los principios de actuación que rigen a la Secretaría o vaya en detrimento de la imagen de la misma.
-
-X.- Recibir oportuna atención médica sin costo alguno para el elemento policiaco, cuando sean lesionados en cumplimiento de su deber; en caso de extrema urgencia o gravedad, ser atendidos en la institución médico pública o privada más cercana al lugar en donde se produjeron los hechos;
-
-XI.- A cumplir, en su caso, con los arrestos impuestos por el Juez Calificador, por la comisión de faltas administrativas, separados de la población en general;
-
-XII.- En caso de maternidad, gozarán de las prestaciones establecidas a favor de los empleados del Municipio;
-
-XIII.- Disfrutar de un seguro de vida colectivo de la siguiente manera:
-
-a) Muerte natural.- 1050 salarios mínimos vigentes en el Estado de Aguascalientes;
-
-b) Muerte con motivo del ejercicio de su trabajo.- 3150 salarios mínimos vigentes en el Estado de Aguascalientes;
-
-XIV.- Los demás que señale la legislación en la materia.
-
-###### ARTÍCULO 589.
-
-Son deberes de los integrantes de la Secretaría:
-
-I. Cumplir y hacer cumplir con diligencia las órdenes que reciba de sus superiores con motivo del desempeño de sus funciones, evitando todo acto u omisión que produzca deficiencia en su cumplimiento;
-
-II. Conocer la escala jerárquica de la Secretaría, debiendo guardar a los superiores, subordinados o iguales el respeto y la consideración debidos;
-
-III. Registrar en una libreta de memorias todos los datos de importancia que incidan en las actividades, investigaciones o indagaciones que realice;
-
-IV. Entregar al superior de quien dependa, un informe escrito de sus actividades en las misiones encomendadas, no importando su índole. Lo ejecutará en la periodicidad que las instrucciones o los manuales operativos señalen. Este informe deberá elaborarse en el apego más estricto a las actividades realizadas y a los hechos ocurridos;
-
-V. Tomar las medidas de seguridad y de orden urgentes y necesarios en los casos de emergencia, tales como: incendios, accidentes, inundaciones, siniestros y en general, toda clase de catástrofes;
-
-VI. Atender con diligencia la solicitud de informe, queja o auxilio de la ciudadanía, o de sus propios subordinados;
-
-VII. Evitar cualquier conducta que pueda ocasionar peligro para las personas y realizar el servicio ordinario de vigilancia en las vías y demás lugares públicos, atendiendo a las necesidades de la población;
-
-VIII. Efectuar los servicios de vigilancia extraordinaria que le sean solicitados por acontecimientos o eventos especiales;
-
-IX. Abstenerse de realizar conductas que desacrediten su persona o la imagen de la Secretaría dentro o fuera del servicio;
-
-X. Realizar la vigilancia y resguardo de las personas y bienes que les sean encargados bajo custodia por autoridad competente, mediante orden debidamente fundada y motivada;
-
-XI. Cuidar y proteger la integridad física de las personas que hayan detenido, las cuales se encuentran bajo su más estricta responsabilidad desde el momento de la detención hasta la puesta a disposición de la autoridad competente;
-
-XII. Impedir la ejecución de actos contrarios a la moral y a la tranquilidad pública, así como los demás que tiendan a dañar a personas, animales o cosas;
-
-XIII. Cuidar la conservación y buen uso de los bienes afectos al servicio público, propiedad de las entidades públicas y órganos de gobierno;
-
-XIV. Tomar las medidas de protección y aseguramiento respecto de personas con capacidades diferentes, ebrios, intoxicados o drogados, vagos y mal vivientes, inválidos, mendigos, personas extraviadas o menores de edad, debiendo en todo caso, inmediatamente poner en conocimiento o a disposición de las autoridades competentes;
-
-XV. Informar a las personas, visitantes o vecinos, sobre los lugares y servicios que se prestan en el Municipio, para lo cual deberán conocer la lista de médicos, hospitales, sanatorios, farmacias de guardia, museos y demás lugares de interés o de utilidad pública;
-
-XVI. Cumplir sus funciones con absoluta imparcialidad, sin discriminar a persona alguna por su edad, raza, religión, sexo, condición económica o social, preferencia sexual, ideología política o por algún otro motivo;
-
-XVII. Cuidar los monumentos, recintos oficiales, lugares históricos, culturales o públicos, así como el respeto a los símbolos de nuestra Patria, tales como: la Bandera, el Himno y Escudo Nacional;
-
-XVIII. Acudir en auxilio de las autoridades municipales, estatales y federales, cuando sean requeridos para ello, mediante solicitud debidamente fundada y motivada;
-
-XIX. Detener a los delincuentes e infractores que sorprendan en flagrante delito, los que consignarán a la autoridad competente en forma inmediata, asimismo entregarán un inventario con la descripción detallada de los objetos asegurados a los mismos;
-
-XX. Poner a disposición del Agente del Ministerio Público los objetos o instrumentos que aseguren a particulares relacionados con hechos delictivos, elaborar partes de novedades de los hechos de que tenga conocimiento y comparecer a rendir informes y declaraciones que soliciten las autoridades;
-
-XXI. Prestar sus servicios de manera personal, quedando prohibido delegarlo a terceros;
-
-XXII. Proporcionar en los actos del servicio, su nombre y demás datos de identificación a menos de que por razones debidamente justificadas y para los efectos de un operativo especial, sean autorizados para ello por el Secretario, bajo su más estricta responsabilidad;
-
-XXIII. Portar los uniformes, insignias, divisas y equipos que establezca el manual, como reglamentarios, en todos los actos y situaciones de servicios, a menos de que por razones debidamente justificadas y para los efectos de un operativo especial, siendo autorizados para ello por el Secretario, bajo su más estricta responsabilidad;
-
-XXIV. Portar el uniforme con toda dignidad y pulcritud, así como mantenerse debidamente aseados, mantener el personal masculino su cabello corto, calzado debidamente lustrado, no usarán lentes oscuros salvo los de prescripción médica, evitando asimismo portar cualquier tipo de joyas en su persona, tales como cadenas, anillos, dijes, a excepción del reloj de pulso;
-
-XXV. Mantener el equipo que porten siempre limpio y en buenas condiciones, debiendo reportar de inmediato cualquier falla o descompostura al departamento que corresponde. De la misma forma deberán hacerlo con los vehículos que utilizan en su servicio. En acatamiento a las disposiciones ecológicas sobre el ruido, se abstendrán de hacer funcionar las sirenas de los vehículos, salvo que las necesidades del servicio así lo requieran;
-
-XXVI. Abstenerse de utilizar otros uniformes, combinarlos con ropa inadecuada, utilizar insignias o divisas diferentes a las que proporciona la Dirección;
-
-XXVII. Llevar a cabo las detenciones de los vehículos en cumplimiento a lo que ordene la autoridad competente; y (sic)
-
-XXVIII. Participar en operativos de coordinación con otras corporaciones policiales, así como brindarles, en su caso, el apoyo que conforme a derecho proceda;
-
-XXIX. Mantener en buen estado el armamento, material, municiones y equipo que se le asigne con motivo de sus funciones, haciendo uso racional de ellos sólo en el desempeño del servicio. El uso de las armas se reservará exclusivamente para actos del servicio que así lo demanden;
-
-XXX. Preservar las pruebas e indicios de probables hechos delictivos o de faltas administrativas de forma que no pierdan su calidad probatoria y se facilite la correcta tramitación del procedimiento correspondiente;
-
-XXXI. Someterse a los exámenes que periódicamente establezca el Secretario, de carácter, médicos, de resistencia física, psicológicos, psicométricos, químico-biológicos, cuando se consideren pertinentes para conocer la situación psicofísica de lo (sic) elementos de la Secretaría;
-
-XXXII. Cumplir con las disposiciones señaladas en los manuales que al efecto se emitan;
-
-XXXIII. Participar en los cursos de capacitación y adiestramiento que al efecto señale la Dirección de Capacitación, Formación y Profesionalización;
-
-XXXIV. Las demás que señalen las distintas leyes y ordenamientos aplicables.
-
-###### ARTÍCULO 590.
-
-La Secretaría les proporcionará a los elementos de Seguridad Pública, el uniforme consistente en: Pantalón o falda, camisa o blusa, chamarra, calzado, cinturón, insignias y divisas; armas de fuego que según las necesidades del servicio se asignen a criterio de la Secretaría; así como fornituras, toletes, moscoba y dotación de cartuchos.
-
-###### ARTÍCULO 591.
-
-Los elementos operativos de seguridad pública que utilizan para su función vehículos dotados con accesorios consistentes en sirena, altavoces y torretas con luces intermitentes, deben de observar de manera estricta y cuidadosa todas y cada una de las normas y reglamentos previstos.
-
-###### ARTÍCULO 592.
-
-En el ejercicio de su desempeño, los elementos de Seguridad Pública llevarán a efecto conforme lo establece el presente Código y demás leyes aplicables sus funciones.
-
-Tratándose de domicilios privados, se respetará en todo caso su inviolabilidad y sólo podrán tener acceso por virtud de mandamiento escrito debidamente fundado y motivado de autoridad competente.
-
-###### ARTÍCULO 593.
-
-Si en cumplimiento de sus funciones los elementos de la Dirección de Policía Preventiva tuvieran necesidad de penetrar en casa habitación, ya fuere con objeto de realizar alguna detención o cualquier otro acto de carácter legal, recabará previamente el permiso por escrito de los habitantes del domicilio en cuestión Salvo (sic) lo dispuesto por el artículo anterior.
-
-Cuando la autoridad competente solicite la intervención de los Elementos de Seguridad Pública, deberá formular su petición por escrito debidamente fundada y motivada.
-
-Los Jueces Municipales podrán ordenar sean practicadas visitas domiciliaras únicamente para cerciorarse del cumplimiento de disposiciones de policía en términos del artículo 16 de la Constitución Federal, previa solicitud de los elementos de seguridad pública o de cualquier persona.
-
-###### ARTÍCULO 594.
-
-No se considerarán como domicilios particulares o privados, los patios, escaleras, corredores de uso común de edificios públicos y de oficinas, de casas de huéspedes, hoteles, mesones o vecindades, cines, teatros, mercados, parques, canchas deportivas, carreteras, caminos, avenidas, calles, calzadas, plazas, lugares en los que se presente algún espectáculo público y aquellos lugares de libre acceso.
-
-APARTADO OCTAVO
-
-Régimen Disciplinario
-
-###### ARTÍCULO 595.
-
-El régimen disciplinario se basa en el conjunto de normas que los elementos de seguridad deberán observar en el servicio, cualquiera que sea su jerarquía. Esas normas disciplinarias tienen como fundamento la obediencia, alto concepto de honor, la justicia y la moral, así como la subordinación a que deben sujetarse los miembros de la corporación a sus superiores.
-
-###### ARTÍCULO 595-A.
-
-Para los efectos de este Código, la disciplina comprende el aprecio de sí mismo, la pulcritud, los buenos modales, el rechazo a los vicios, la puntualidad en el servicio, la exactitud en la obediencia, el escrupuloso respeto a las leyes y reglamentos, así como a los derechos humanos.
-
-La disciplina es la base del funcionamiento y organización de la Secretaría, por lo que sus integrantes deberán sujetar su conducta a la observancia de las leyes, órdenes y jerarquías, así como a la obediencia y al alto concepto del honor, de la justicia y de la ética.
-
-La disciplina demanda respeto y consideración mutua entre quien ostente una autoridad y sus subordinados.
-
-La actuación de los integrantes de la Secretaría se regirá por los principios de legalidad, eficiencia, profesionalismo y honradez.
-
-La Secretaría exige de sus integrantes el más estricto cumplimiento del deber, salvaguardando la integridad y los derechos de las personas, previniendo la comisión de delitos e infracciones, y preservando las libertades, el orden y la paz pública.
-
-###### ARTÍCULO 596.
-
-Las obligaciones derivadas de la disciplina para los Elementos de Seguridad Pública, son las siguientes:
-
-I.- La observancia de las obligaciones que a los Cuerpos de Seguridad Pública les impone el presente Código;
-
-II.- los Cuerpos de Seguridad Pública deben normar su conducta bajo los siguientes aspectos:
-
-a) Obediencia y Disciplina;
-
-b) Equidad y Justicia;
-
-c) Valor, audacia e iniciativa en el servicio;
-
-d) Lealtad, abnegación e interés para con la corporación; y
-
-e) Consideración y Urbanidad para con toda la ciudadanía.
-
-III.- Mantener rigurosamente la subordinación entre los grados de la jerarquía existente entre los elementos que componen los Cuerpos de Seguridad Pública;
-
-IV.- Acatar, cumplir con diligencia, prontitud y exactitud las órdenes verbales y por escrito que le emitan los mandos, salvo que evidentemente se violen alguna disposición legal en cuyo caso se pondrán en conocimiento de inmediato a la superioridad;
-
-V.- Realizar el saludo militar y civil, según se porte o no el uniforme para con la bandera nacional y/o con sus superiores jerárquicos;
-
-VI. Guardar celosamente la jurisdicción por departamento, sección, distrito, sector y demás demarcaciones jurisdiccionales, etc., respetando la de otros compañeros o la de otras autoridades;
-
-VII. Guardar absoluta discreción en las áreas específicas asignadas, así como en las comisiones y funciones desarrolladas y en todo lo que con ellas se relacione;
-
-VIII. Solicitar por los conductos jerárquicos que corresponda en forma respetuosa y atenta, cualquier cosa relacionada con el servicio o que en forma alguna lo afecte;
-
-IX. Los elementos que conforman los Cuerpos de Seguridad Pública deben apegarse al uso de las claves y al Código Fonético autorizado en los medios de comunicación policíaca;
-
-X. Comunicar de inmediato a un oficial de mayor grado y jerarquía, cuando en ausencia de quien tiene el mando reciba una orden dirigida a su superior;
-
-XI. No aceptar un compromiso que vaya en detrimento de su honor y la reputación de la corporación; y
-
-XII. Respetar el honor familiar de los particulares y de los miembros de la corporación, así como el suyo propio.
-
-### CAPÍTULO IV. De los Requisitos para Otorgamiento de Licencia de Construcción para Estaciones de Servicio o Gasolinerías
-
-###### ARTÍCULO 597.
-
-Las obligaciones de los elementos de Seguridad Pública con mando, derivadas de la disciplina, son las siguientes:
-
-I. Conocer a sus subordinados, su mentalidad, proceder, actitudes, salud, cualidades y defectos, con la finalidad de asignar adecuadamente las misiones en las que intervengan;
-
-II. Supervisar las acciones de sus subalternos durante el servicio;
-
-III. Revisar en forma cuidadosa la documentación relativa al servicio, antes de otorgar el visto bueno, remitiéndola al superior jerárquico;
-
-IV. Expresar las ordenes sólo en forma general, definiendo el objetivo por alcanzar, sin entrar en detalles de ejecución, salvo que así lo requiera la orden, que entorpezcan la iniciativa de los subordinados;
-
-V. Respetar el ejercicio del derecho de opinión y petición de sus subordinados, siempre que sea en forma respetuosa y atenta;
-
-VI. Poner a disposición de la autoridad competente todo objeto o persona que en el ejercicio de sus funciones sean retenidas por él o sus subordinados; y
-
-VII. Realizar juntas generales con el personal a su cargo una vez al mes para escuchar en forma directa, quejas o sugerencias relacionadas con el servicio;
-
-> <small>(REFORMADA, P.O. 3 DE NOVIEMBRE DE 2008)</small>
-
-VIII. Poner a disposición del Médico de Guardia de cualquiera de las Delegaciones al o los elementos que se presenten al pase de lista, o que durante su servicio se le sorprenda con aliento alcohólico, o en su caso que conduzca un vehículo oficial con aliento alcohólico o bajo los efectos del alcohol dando parte a la Dirección de Asuntos Internos de Seguridad Pública y Tránsito para que integre el expediente Correspondiente y;
-
-> <small>(REFORMADA, P.O. 3 DE NOVIEMBRE DE 2008)</small>
-
-IX. Hacer que sus subordinados conozcan y apliquen las disposiciones establecidas en los manuales que al efecto expida la Secretaría.
-
-###### ARTÍCULO 598.
-
-Queda estrictamente prohibido a los elementos de Seguridad Pública, lo siguiente:
-
-l. Utilizar rigor innecesario y toda palabra, acto o ademán ofensivo para con la ciudadanía y miembros de la corporación;
-
-II. Asistir uniformados o portar insignias en bares, cantinas, centros de apuesta y juegos, o prostíbulos o centros de ese tipo, sin motivo de trabajo oficial o en casos de flagrancia;
-
-III. Salvo orden expresa de la superioridad, desempeñar las funciones propias de otro elemento de la misma jerarquía o condición;
-
-IV. Efectuar sus funciones fuera de la zona o territorio que le haya sido asignada, salvo orden expresa de la superioridad;
-
-V. Abandonar el servicio o la comisión que desempeñe antes de que llegue su relevo y obtenga la autorización correspondiente;
-
-VI. Tomar parte activa en su carácter de servidor público en servicio y otro tipo de actividades de carácter político o religioso;
-
-VII. Realizar en cualquier forma la comisión de un delito o falta administrativa;
-
-VIII. Apropiarse de los objetos o armas a que tiene acceso en el desempeño de su trabajo, aún cuando sea propiedad del infractor o le sean ofrecidas como dádiva;
-
-IX. Realizar cualquier conducta, en servicio, o fuera de él, que contravenga los principios de actuación y normas disciplinarias, o que vayan en detrimento de la imagen del Municipio y de la Secretaría;
-
-X. Apropiarse de los bienes a que tiene acceso en el desempeño de su trabajo, aún cuando sea propiedad del infractor o le sean ofrecidas como dádiva;
-
-XI. La actitud negligente e indiferente en el servicio;
-
-XII. Poner en libertad a los responsables de un hecho delictivo o de una falta administrativa, después de haber sido detenidos, a menos que medie orden judicial o acuerdo de la autoridad con facultades para ello;
-
-XIII. Castigar o golpear a los detenidos, así como recomendar o sugerir alguna forma de castigo, debiendo limitarse a su detención y conducción a la autoridad competente;
-
-XIV. En todo momento y bajo cualquier circunstancia tolerar, permitir o realizar actos de tortura, castigar o golpear a los detenidos, así como recomendar o sugerir alguna forma de castigo, debiendo limitarse a su detención y conducción a la autoridad competente;
-
-XV. Aceptar favores o gratificaciones en el desempeño de sus labores o con motivo de éstas;
-
-XVI. Usar lenguaje obsceno e injurioso;
-
-XVII. Tutear o tratar con altivez y despotismo a los ciudadanos;
-
-XVIII. Atender en horas de servicio asuntos particulares;
-
-XIX. Toda circunstancia de servilismo. Así como de hostilidad o supervisión policíaca innecesaria;
-
-XX. Presentarse en cualquier momento del desempeño del servicio, con aliento alcohólico o bajo el influjo del alcohol;
-
-XXI. Introducir a las instalaciones de la Secretaría bebidas embriagantes, sustancias psicotrópicas, estupefacientes u otras sustancias adictivas de carácter ilegal, prohibido o controlado, salvo cuando sean producto de detenciones, cateos, aseguramientos u otros similares, y que previamente exista la autorización correspondiente;
-
-XXII.- Consumir, dentro o fuera del servicio, sustancias psicotrópicas, estupefacientes u otras sustancias adictivas de carácter ilegal, prohibido o controlado, salvo los casos en que su consumo sea autorizado mediante prescripción médica, avalada y certificada por los servicios médicos de la Secretaría;
-
-Para tal efecto los elementos que se encuentren en el supuesto de la parte final del párrafo anterior deberán hacerlo saber de inmediato a la Secretaría;
-
-XXIII. Consumir en las instalaciones de la Secretaría o en actos del servicio, bebidas embriagantes;
-
-> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2009)</small>
-
-XXIV. Convocar o participar en cualquier práctica de rebeldía o indisciplina en contra del mando o alguna otra autoridad;
-
-> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2009)</small>
-
-XXV. Portar los uniformes, insignias, divisas y equipos reglamentarios, fuera (sic) los horarios de servicio; y
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 16 DE NOVIEMBRE DE 2009)</small>
-
-XXVI. Fomentar prácticas que se basen en la premisa de la inferioridad o superioridad de cualquiera de los géneros o en los papeles estereotipados para la mujer y el hombre que legitimasen o exacerben la violencia contra la mujer y; (sic)
-
-###### ARTÍCULO 599.
-
-Las obligaciones de los elementos de Seguridad Pública con mando sin exclusión de las contenidas en el Artículo 597 de este ordenamiento son:
-
-I.- Mantener el orden y la disciplina para con los subordinados;
-
-II.- Dar el ejemplo a sus subordinados con su conducta, sus actos, palabras, puntualidad, honestidad y justicia inspirándoles confianza y aprecio a los mismos;
-
-III.- Propiciar el buen entendimiento, la solidaridad y la amistad entre el personal a su cargo y entre éstos y el de otros miembros y corporaciones, a fin de evitar intrigas y discordias;
-
-IV.- Proponer a la Comisión de Normatividad Interna a través de los vocales la actualización, modificación o derogación de los manuales administrativos y de operación; e
-
-V.- Imponer las sanciones procedentes a sus subordinados, en términos de lo dispuesto por el Apartado Décimo del presente Código.
-
-> <small>(ADICIONADO, P.O. 16 DE NOVIEMBRE DE 2009)</small>
-
-ARTÍCULO 599 BIS.- Son obligaciones, en general, de los Cuerpos de Seguridad Pública Municipal en materia de género:
-
-I. Atender de manera inmediata todos los casos de violencia contra las mujeres.
-
-II. Proporcionar, a las víctimas de violencia familiar y de género, la asesoría necesaria para conocer su situación jurídica y sus derechos.
-
-III. Promover la cultura de respeto a los derechos fundamentales de las mujeres.
-
-APARTADO NOVENO
-
-La Función Policíaca ante la Sociedad
-
-###### ARTÍCULO 600.
-
-Los Elementos de Seguridad Pública, deben realizar en el cumplimiento de su deber:
-
-I. Un servicio eficaz y consciente, haciendo uso del buen juicio para poder ganarse la estimación, respeto y confianza del público para con él y para la institución que él representa;
-
-II. Estando en servicio o franco, deberán asumir un elevado sentido de responsabilidad, en su apariencia y conducta, manifestando un ejemplar respeto y apego a las leyes y las buenas costumbres; y
-
-III. Actuar con imparcialidad, cortesía y firmeza, sin discriminar por causa de edad, raza, credo, posición económica, sexo, nacionalidad o por razones de amistad.
-
-APARTADO DÉCIMO
-
-Sanciones y Correctivos Disciplinarios
-
-###### ARTÍCULO 601.
-
-Para los Elementos de Seguridad Pública, se considera falta, cualquier conducta contraria a las normas disciplinarias o a los principios de actuación previstos en este capítulo. Tomando en consideración la gravedad de la falta, se aplicarán las siguientes sanciones y correctivos disciplinarios:
-
-a) Amonestación Privada.
-
-b) Amonestación Pública.
-
-c) Arresto hasta por 36 horas.
-
-> <small>(REFORMADO, P.O. 3 DE NOVIEMBRE DE 2008)</small>
-
-d) Suspensión temporal del cargo de 1 a 10 días.
-
-> <small>(REFORMADO, P.O. 3 DE NOVIEMBRE DE 2008)</small>
-
-e) Suspensión temporal del cargo de 11 a 15 días.
-
-f) Destitución del cargo.
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 3 DE NOVIEMBRE DE 2008)</small>
-
-g) Inhabilitación.
-
-En todos los casos que se señalan en el presente artículo los correctivos disciplinarios que se impongan a los elementos de la Secretaría deberán constar por escrito y estar debidamente fundados y motivados.
-
-> <small>(REFORMADO, P.O. 3 DE NOVIEMBRE DE 2008)</small>
-
-Las sanciones anteriormente enunciadas consisten en lo siguiente:
-
-I.- La amonestación es el acto por el cual se advierte al integrante sobre la acción u omisión indebida que cometió en el cumplimiento de sus deberes. Mediante ella se informa al elemento, las consecuencias de su infracción y se le exhorta a que enmiende su conducta para no incurrir en una nueva infracción.
-
-El elemento será apercibido de que, en caso de acumular tres amonestaciones por faltas leves o dos amonestaciones originadas por las faltas enunciadas en el artículo 605 del presente Código, dentro del término de un año, dichas faltas se equipararán a una falta grave.
-
-La aplicación de esta sanción se hará en términos de que no denigren al infractor, en público o en privado.
-
-Dependerá de la gravedad de la falta aplicar una u otra forma de amonestación, pero, en todo caso, procederá la amonestación pública cuando el infractor se niegue a recibir la notificación de la resolución.
-
-La amonestación pública se hará frente a integrantes de la Unidad Administrativa a la que se encuentre adscrito el infractor, quienes deberán ostentar el mismo o mayor grado que el sancionado. Nunca se amonestará a un infractor en presencia de subordinados en categoría jerárquica.
-
-II.- El arresto consiste en el confinamiento del elemento de Seguridad Pública dentro de las instalaciones de la corporación, realizando sus actividades y cumpliendo con los horarios establecidos, al término de los cuales, si no ha concluido con dicho arresto, se concentrará en su unidad administrativa para concluirlo. Un elemento de la Secretaría de Seguridad Pública y Tránsito Municipal se hace acreedor al arresto por haber incurrido en las faltas enumeradas en los artículos 604 y 605 del presente Código.
-
-La orden de arresto deberá hacerse por escrito especificando el motivo, fundamento, lugar y duración del mismo, la cual no podrá exceder de treinta y seis horas.
-
-III.- La suspensión temporal sin goce de sueldo es la sanción consistente en la interrupción de la relación jurídica existente entre el infractor y la Secretaría, la cual no excederá de quince días.
-
-Una vez notificada la suspensión, el infractor deberá entregar inmediatamente, a quien designe el Secretario de Seguridad Pública y Tránsito Municipal, su identificación, municiones, armamento, equipo y todo material que se le haya ministrado para el cumplimiento de sus funciones,
-
-Concluida la suspensión, el integrante comparecerá ante el titular de la unidad de su adscripción, a quien informará por escrito de su reincorporación al servicio.
-
-IV.- La destitución es el cese definitivo del cargo como elemento de la Secretaría de Seguridad Pública y Tránsito Municipal, sin posibilidad de reingreso de manera definitiva.
-
-Una vez notificada la destitución, el infractor deberá entregar inmediatamente, a quien designe el Secretario de Seguridad Pública y Tránsito Municipal, su identificación, municiones, armamento, equipo y todo material que se le haya ministrado para el cumplimiento de sus funciones.
-
-V.- La inhabilitación es la imposibilidad jurídica de reincorporación al cargo como elemento de la Secretaría de. Seguridad Pública y Tránsito Municipal, derivado de la comisión de una falta de las denominadas como graves conforme al artículo 605 BIS fracción II del presente Código, y al momento del proceso ante la Comisión de Honor y Justicia no se encuentre en servicio activo, ya sea por suspensión, renuncia o baja del elemento.
-
-> <small>(ADICIONADO, P.O. 3 DE NOVIEMBRE DE 2008)</small>
-
-###### ARTÍCULO 601
-
-BIS.- Todos los elementos .de la Secretaría de Seguridad Pública y Tránsito Municipal son personal de confianza.
-
-Por instrucciones del Secretario de Seguridad Pública y Tránsito Municipal o del Presidente Municipal, el Departamento de Recursos Humanos de la Dirección de (sic) Administrativa de la Secretaría de Seguridad Pública y Tránsito Municipal podrá aplicar la baja administrativa en cualquiera de sus modalidades. Asimismo el Director de Asuntos Internos de Seguridad Pública y Tránsito podrá solicitar en cualquier momento al Secretario de Seguridad Pública y Tránsito Municipal la baja administrativa por pérdida de confianza de un elemento; el Secretario, si así lo considera conveniente, girará instrucciones al Departamento de Recursos Humanos citado para tal efecto. En caso de que el Secretario de Seguridad Pública y Tránsito Municipal se niegue a aplicar la baja administrativa solicitada por la Dirección de Asuntos Internos de Seguridad Pública y Tránsito, rendirá un informe al Presidente Municipal con las razones de su negativa.
-
-I.- La baja administrativa, tendrá dos modalidades:
-
-a) Baja administrativa por inasistencia, la cual es el cese definitivo del cargo como elemento de la Secretaría de Seguridad Pública y Tránsito Municipal, que tendrá lugar cuando un elemento falte a sus labores por más de tres ocasiones en un periodo de treinta días naturales, sin permiso o causa justificada.
-
-b) Baja administrativa por pérdida de confianza, la cual es el cese definitivo del cargo como elemento de la Secretaría de Seguridad Pública y Tránsito Municipal e imposible reincorporación, la cual tendrá lugar cuando:
-
-1. Un elemento falte a los principios que regulan la actuación de los elementos de seguridad pública, enunciados en el artículo 552 del presente Código.
-
-2. Que incurra en las faltas establecidas en los artículos 604, 605 y 605 BIS del presente Código, cuando el Secretario de Seguridad Pública y Tránsito Municipal considere que dicha conducta generó la pérdida de confianza en el elemento.
-
-3. Que derivado de sus acciones, el elemento haya generado en su superior desconfianza para el cumplimiento de su deber.
-
-4. Que no apruebe, que no se presente o que se niegue a dar información en alguna de las pruebas de control de confianza realizadas por la Dirección de Asuntos Internos de Seguridad Pública y Tránsito adscrita a la Secretaría del H. Ayuntamiento y Dirección General de Gobierno o que realice cualquier órgano de revisión competente.
-
-5. Cuando el Secretario de Seguridad Pública y Tránsito Municipal lo considere necesario, no importando el supuesto o conducta del elemento.
-
-Una vez notificada cualquiera de las bajas antes citadas, el infractor deberá entregar inmediatamente, a quien designe el Secretario de Seguridad Pública y Tránsito Municipal, su identificación, municiones, armamento, equipo y todo material que se le haya ministrado para el cumplimiento de sus funciones.
-
-### CAPÍTULO V. De los Requisitos para Otorgamiento de Licencia para Demolición
-
-###### ARTÍCULO 602.
-
-La calificación, aplicación y ejecución de los correctivos disciplinarios será conforme a las siguientes reglas:
-
-a) Los Directores de área y los Jefes Operativos de la Secretaría podrán imponer a sus subordinados los correctivos disciplinarios que establecen los incisos a), b) y c) del Artículo 601, informando a la Comisión de Honor y Justicia, dentro de los tres días hábiles siguientes a su aplicación, exponiendo las causas que lo motivaron.
-
-> <small>(REFORMADO, P.O. 3 DE NOVIEMBRE DE 2008)</small>
-
-b) El Secretario tiene la facultad de imponer las sanciones previstas en las fracciones b), c) d), y e) del artículo 601 del presente Código.
-
-> <small>(REFORMADO, P.O. 3 DE NOVIEMBRE DE 2008)</small>
-
-c) La Comisión de Honor y Justicia, podrá imponer según la gravedad de la infracción los correctivos de los incisos f) y g) del artículo 601, y su ejecución corresponde al Secretario.
-
-Las sanciones señaladas en el artículo 601 no constituyen obligación para aplicarlas en forma progresiva, éstas se impondrán cuando proceda, sin respetar orden o consecución alguna, dependiendo de la gravedad de la falta.
+Las sanciones y correctivos disciplinarios señaladas en el artículo 572 no constituyen obligación para aplicarlas en forma progresiva, éstas se impondrán cuando proceda, sin respetar orden o consecución alguna, dependiendo de la gravedad de la falta.
 
 Con independencia de las acciones que competan a otras autoridades ajenas a la Secretaría, no podrá aplicarse más de una sanción por los mismos hechos.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 3 DE NOVIEMBRE DE 2008)</small>
+Los integrantes operativos podrán ser separados de sus cargos si no cumplen con los requisitos que las leyes vigentes en el momento del acto señalen para permanecer en la Secretaría, o removidos por incurrir en responsabilidad en el desempeño de sus funciones. Si la autoridad resolviere que la separación, remoción, baja, cese o cualquier otra forma de terminación del servicio fue injustificada, el Municipio sólo estará obligado a pagar la indemnización y demás prestaciones a que tenga derecho, sin que en ningún caso proceda su reincorporación al servicio, cualquiera que sea el resultado del juicio o medio de defensa que se hubiere promovido.
 
-De conformidad con lo establecido por el artículo 123, apartado B, fracción XIII de la Constitución Política de los Estados Unidos Mexicanos, cualquier elemento de seguridad pública, podrá ser separado de sus (sic) cargo si no cumple con los requisitos de las leyes vigentes que, en el momento del acto, señalen para permanecer en dichas instituciones o removido por incurrir en responsabilidad en el desempeño de sus funciones. Si cualquier autoridad de las descritas en el presente artículo resolviere la separación, remoción, baja, cese o cualquier otra forma de terminación del servicio fuese injustificada, el Municipio sólo estará obligado a pagar la indemnización y demás prestaciones a que tenga derecho, sin que, en ningún caso, procesa (sic) su reincorporación al servicio, cualquiera que sea el resultado del juicio a medio de defensa que se hubiere promovido.
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2011)</small>
+
+###### ARTÍCULO 575.
+
+Quien imponga las sanciones o correctivos disciplinarios, deberá informar a la instancia correspondiente para que sean incluidos en el expediente personal de los integrantes operativos.
+
+Asimismo la conclusión del servicio por cualquiera de sus causas será registrada de manera inmediata en el Sistema Nacional de Seguridad Pública, así como en los registros correspondientes.
+
+Contra la aplicación de las sanciones y correctivos disciplinarios impuestos por el Secretario, los Directores, Coordinadores y Jefes Operativos, procederá el recurso de revocación, el cual deberá interponerse por escrito ante la Comisión de Honor y Justicia. En el caso de que la sanción o correctivo disciplinario haya sido impuesto por el Secretario, éste deberá de excusarse de emitir su voto, absteniéndose de participar en la Sesión, ocupando la presidencia el primer vocal. En ambos supuestos el recurso será interpuesto ante la instancia que deba conocer del mismo, dentro de los tres días hábiles posteriores a la notificación de la sanción.
+
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2011)</small>
+
+###### ARTÍCULO 576.
+
+La instancia a quien corresponda, emitirá la resolución del recurso sin substanciación alguna dentro de los cinco días hábiles siguientes a su interposición.
+
+Si el recurso resulta procedente, quedará sin efecto la sanción o correctivo disciplinario y le serán restituidos los derechos inherentes al servicio, registrándolo en el expediente del integrante interesado.
+
+> <small>(ADICIONADO, P.O. 8 DE AGOSTO DE 2011)</small>
+
+### CAPÍTULO I. Disposiciones Generales
+
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2011)</small>
+
+###### ARTÍCULO 577.
+
+Son faltas graves por las que podrán ser sancionados los integrantes operativos, mediante degradación y remoción las consistentes en el incumplimiento de las obligaciones contenidas en los apartados A de los artículos 567 y 568.
+
+También se aplicarán las sanciones a que se refiere el párrafo que antecede a los integrantes operativos, que en el lapso de un año hayan cometido cinco o más de las faltas a que se refieren los artículos 567 y 568.
+
+Las sanciones previstas en este artículo serán impuestas por la Comisión de Honor y Justicia, una vez tramitado el procedimiento respectivo. El Secretario será el encargado de su ejecución.
+
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2011)</small>
+
+###### ARTÍCULO 578.
+
+Son faltas medias por las que podrán ser sancionados los integrantes operativos, mediante suspensión las contenidas en los apartados B de los artículos 567 y 568.
+
+Las sanciones previstas en este artículo serán impuestas por la Comisión de Honor y Justicia, una vez tramitado el procedimiento respectivo. El Secretario será el encargado de su ejecución.
+
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2011)</small>
+
+###### ARTÍCULO 579.
+
+Son faltas leves por las que podrán ser sancionados los integrantes operativos, mediante amonestación o arresto, las contenidas en el apartado C del artículo 567.
+
+Las sanciones de amonestación y arresto, a que se refiere este artículo serán impuestas y ejecutadas por los Directores, Coordinadores y Jefes Operativos a sus subordinados.
+
+> <small>(ADICIONADO CON LOS CAPITULOS QUE LO INTEGRAN, P.O. 8 DE AGOSTO DE 2011)</small>
+
+## TÍTULO TERCERO. DEL SISTEMA INTEGRAL DE DESARROLLO POLICIAL
+
+> <small>(ADICIONADO, P.O. 8 DE AGOSTO DE 2011)</small>
+
+### CAPÍTULO II. De los Procesos del Sistema Integral de Desarrollo Policial
+
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2011)</small>
+
+###### ARTÍCULO 580.
+
+Para lograr una óptima y eficaz prestación del servicio de seguridad pública y con el objeto de alcanzar el desarrollo profesional, personal, familiar y social de sus integrantes operativos, se establece el Sistema Integral de Desarrollo Policial, su coordinación y vigilancia estará a cargo de la Dirección de Profesionalización de la Secretaría.
+
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2011)</small>
+
+###### ARTÍCULO 581.
+
+El Desarrollo Policial es un conjunto integral de reglas y procesos debidamente estructurados y enlazados entre sí que comprenden la Carrera Policial, la profesionalización, la certificación, el régimen disciplinario y el complementario de seguridad social de los Integrantes operativos de la Secretaría, tiene por objeto garantizar el desarrollo institucional, la estabilidad, la seguridad y la igualdad de oportunidades de los mismos; elevar la profesionalización, fomentar la vocación de servicio, el compromiso del personal y el sentido de pertenencia, así como garantizar en la operación interna y externa, el cumplimiento de los principios de legalidad, objetividad, eficiencia, profesionalismo, honradez y respeto a los derechos humanos.
+
+> <small>(ADICIONADO, P.O. 8 DE AGOSTO DE 2011)</small>
+
+### CAPÍTULO III. De los Ejes que Integran El Sistema Integral de Desarrollo Policial
+
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2011)</small>
+
+###### ARTÍCULO 582.
+
+El Sistema Integral de Desarrollo Policial, está conformado por los procesos relativos a planeación, ingreso, desarrollo y permanencia, así como la conclusión del servicio policial, además del Eje correspondiente al Régimen Disciplinario.
+
+Es necesaria la implementación continua, permanente y progresiva de cada proceso, así como la participación coordinada de las instancias responsables de su operación, para el óptimo funcionamiento del Sistema.
+
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2011)</small>
+
+###### ARTÍCULO 583.
+
+La Planeación es el proceso que determinará la toma de decisiones estratégicas del Sistema Integral de Desarrollo Policial, incluye el desarrollo de los planes para:
+
+I. La implementación efectiva del sistema terciario;
+
+II. El diseño organizacional relativo al número de cargos administrativos y de dirección necesarios;
+
+III. Definir cualitativa y cuantitativamente a los integrantes operativos con determinado perfil para comisionarles en el desempeño de actividades específicas;
+
+IV. La especialización de los integrantes operativos en las áreas de prevención, reacción e investigación según corresponda;
+
+V. La atención a la solicitud de los integrantes operativos para participar de determinadas actividades académicas, proyectando las condiciones más favorables para su desarrollo y la prestación adecuada de los servicios;
+
+VI. La determinación de los programas obligatorios o voluntarios para nivelación académica;
+
+VII. La proyección anual de bajas, separaciones y remociones con la finalidad de realizar, con suficiente antelación, las acciones necesarias que permitan mantener en servicio, al número adecuado de integrantes operativos;
+
+VIII. La realización de evaluaciones propias para la obtención y actualización del certificado único policial; y
+
+IX. Las demás actividades que sean susceptibles de preverse y que incidan en el desarrollo de los integrantes operativos, favoreciendo además la prestación del servicio de seguridad pública.
+
+Para tal efecto se conformará una junta de planeación, la cual será presidida por el Secretario y coordinada por el Director de Profesionalización, sesionará de manera ordinaria por un periodo al año, contará con las atribuciones que al efecto señale el reglamento correspondiente y deberá operar en base a un manual de procedimientos.
+
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2011)</small>
+
+###### ARTÍCULO 584.
+
+El ingreso es el proceso en el que intervienen los procedimientos de reclutamiento, selección, formación inicial y adscripción como integrante operativo de la Secretaría, este proceso inicia con la recepción de documentos y termina con el otorgamiento de una constancia de grado. Lo anterior, sin omitir el proceso previo de certificación que deberá acreditar todo aspirante y el registro ante el Sistema Nacional de Seguridad Pública, el cual se realizará en dos fases: al ser dado de alta en programa de formación inicial y al ser adscrito.
+
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2011)</small>
+
+###### ARTÍCULO 585.
+
+Dentro de este procedimiento se atenderá a los siguientes puntos:
+
+I. La Dirección de Profesionalización deberá consultar los antecedentes de cualquier aspirante en el Registro Nacional de Personal de Seguridad Pública y en su caso, en los registros locales, antes de que se autorice su ingreso;
+
+II. Ninguna persona podrá ingresar a la Secretaría si no ha sido debidamente certificado y registrado en el Sistema Nacional de Seguridad Pública;
+
+III. Sólo ingresarán y permanecerán en la Secretaría, aquellos aspirantes e integrantes operativos que cursen y aprueben los programas de formación inicial y continua; y
+
+IV. Todo aspirante deberá tramitar, obtener y mantener actualizado el Certificado Único Policial, que expedirá el Centro de Evaluación y Control de Confianza correspondiente.
+
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2011)</small>
+
+###### ARTÍCULO 586.
+
+Los aspirantes a ingresar a la Secretaría deberán cumplir los siguientes requisitos:
+
+I. Ser ciudadano mexicano por nacimiento en pleno ejercicio de sus derechos políticos y civiles, sin tener otra nacionalidad;
+
+II. Ser de notoria buena conducta, no haber sido condenado por sentencia irrevocable por delito doloso, ni estar sujeto a proceso penal;
+
+III. En su caso, tener acreditado el Servicio Militar Nacional;
+
+IV. Acreditar que ha concluido, al menos, los estudios siguientes:
+
+a) En el caso de aspirantes a las áreas de investigación, enseñanza superior;
+
+b) Tratándose de aspirantes a las áreas de prevención, enseñanza media superior o equivalente; y
+
+c) En caso de aspirantes a las áreas de reacción, los estudios correspondientes a la enseñanza media básica.
+
+V. Aprobar el concurso de ingreso y los programas de formación;
+
+VI. Contar con los requisitos de edad y el perfil físico, médico y de personalidad que exijan las disposiciones aplicables;
+
+VII. Aprobar los procesos de evaluación de control de confianza;
+
+VIII. Abstenerse de consumir sustancias psicotrópicas, estupefacientes u otras que produzcan efectos similares;
+
+IX. No padecer alcoholismo;
+
+X. Someterse a exámenes para comprobar la ausencia de alcoholismo o el no uso de sustancias psicotrópicas, estupefacientes u otras que produzcan efectos similares;
+
+XI. No estar suspendido o inhabilitado, ni haber sido destituido por resolución firme como servidor público;
+
+XII. Cumplir con los deberes establecidos en la Ley General del Sistema Nacional de Seguridad Pública; y
+
+XIII. Los demás que establezcan otras disposiciones legales aplicables.
+
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2011)</small>
+
+###### ARTÍCULO 587.
+
+En los procesos de Desarrollo y Permanencia, estarán enunciados los procedimientos de evaluaciones para la permanencia, formación continua y sus etapas, promoción y el régimen de estímulos.
+
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2011)</small>
+
+###### ARTÍCULO 588.
+
+Para la permanencia de los integrantes operativos; se evaluará el cumplimiento de los siguientes requisitos:
+
+I. Ser de notoria buena conducta, no haber sido condenado por sentencia irrevocable por delito doloso;
+
+II. Mantener actualizado su Certificado Único Policial;
+
+III. No superar la edad máxima de retiro que establezcan las disposiciones aplicables;
+
+IV. Acreditar que ha concluido, al menos, los estudios siguientes:
+
+a) En el caso de integrantes operativos de las áreas de investigación, enseñanza superior, u homologación por desempeño, a partir de bachillerato;
+
+b) Tratándose de integrantes operativos de las áreas de prevención, enseñanza media superior o equivalente;
+
+c) En caso de integrantes operativos de las áreas de reacción, los estudios correspondientes a la enseñanza media básica;
+
+V. Aprobar los programas de formación continua;
+
+VI. Aprobar los procesos de evaluación de control de confianza:
+
+VII. Aprobar las evaluaciones del desempeño;
+
+VIII. Participar en los procesos de promoción o ascenso que se convoquen, conforme a las disposiciones aplicables;
+
+IX. Abstenerse de consumir sustancias psicotrópicas, estupefacientes u otras que produzcan efectos similares;
+
+X. No padecer alcoholismo;
+
+XI. Someterse a exámenes para comprobar la ausencia de alcoholismo;
+
+XII. Someterse a exámenes para comprobar el no uso de sustancias psicotrópicas, estupefacientes u otras que produzcan efectos similares;
+
+XIII. No estar suspendido o inhabilitado, ni haber sido destituido por resolución firme como servidor público;
+
+XIV. No ausentarse del servicio sin causa justificada, por un periodo de tres días consecutivos o de cinco días dentro de un término de treinta días; y
+
+XV. Las demás que establezcan las disposiciones legales aplicables.
+
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2011)</small>
+
+###### ARTÍCULO 589.
+
+La promoción es el procedimiento mediante el cual se otorga a los integrantes operativos de la Secretaría el grado inmediato superior al que ostenten, dentro del orden jerárquico previsto en las disposiciones legales aplicables. Las promociones sólo podrán conferirse atendiendo a la normatividad aplicable y cuando exista una vacante para la categoría jerárquica superior inmediata correspondiente a su grado. Al personal que sea promovido, le será ratificada su nueva categoría jerárquica mediante la expedición de la constancia de grado correspondiente.
+
+Para ocupar un grado como integrante operativo de la Secretaría se deberán reunir los requisitos establecidos por el presente Código y las disposiciones normativas aplicables.
+
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2011)</small>
+
+###### ARTÍCULO 590.
+
+En ningún caso podrá otorgarse un grado distinto al que posea un integrante operativo, sin haberse emitido convocatoria para promoción, haber acreditado las evaluaciones periódicas de Control de Confianza correspondientes para comprobar el cumplimiento de los perfiles de personalidad, éticos, socioeconómicos y médicos, contar con el perfil de grado por competencia correspondiente, además de haber aprobado cada una de las etapas de la promoción; de suceder esto y una vez acreditada la responsabilidad, el Municipio podrá requerir en cualquier momento a los responsables así como al propio beneficiado, que le sean reintegradas la totalidad de las percepciones que no debía haber recibido por carecer de alguno de los requisitos legales en su persona o en la ejecución del procedimiento, pudiendo incluso descontar vía nómina las cantidades que sean determinadas para resarcir el daño causado al erario.
+
+Lo anterior sin menoscabo de iniciar los procedimientos administrativos, civiles o penales que correspondan.
+
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2011)</small>
+
+###### ARTÍCULO 591.
+
+Las promociones para ascensos tienen por objeto:
+
+I. Procurar la calidad del perfil calidad del perfil de los mandos, atendiendo a su formación académica, trayectoria, conocimientos, capacidades, habilidades, actitudes, aptitudes, antigüedad y demás características favorables que incidan en una mejor prestación del servicio de seguridad pública, asegurando así a la sociedad condiciones profesionales y objetivas en el ejercicio del mando;
+
+II. Establecer y mantener un desarrollo armónico y profesional de los integrantes operativos en condiciones de equidad, propiciando un clima de competitividad favorable;
+
+III. Propiciar la preparación intelectual y física así como el mejoramiento del desempeño en la totalidad de los integrantes operativos, incidiendo no sólo en la cobertura de las vacantes al final del proceso; sino en el perfeccionamiento de la prestación del servicio de seguridad pública; y
+
+IV. Cubrir las vacantes que se generen en los cuadros orgánicos de las unidades;
+
+Para la promoción de los integrantes operativos se deberán considerar, por lo menos, los resultados obtenidos en los programas de profesionalización, los méritos demostrados en el desempeño de sus funciones y sus aptitudes de mando y liderazgo.
+
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2011)</small>
+
+###### ARTÍCULO 592.
+
+Las etapas para un concurso de promoción inician con una convocatoria, la cual deberá ser publicada en el Periódico Oficial del Estado de Aguascalientes y en los estrados de las unidades administrativas para que surta efectos legales. En dicha convocatoria debe señalarse al menos lo siguiente:
+
+I. Número de plazas, su origen, ya sea que se trate de plazas de nueva creación o que se vayan a reasignar;
+
+II. Requisitos de los participantes;
+
+III. Documentación;
+
+IV. Fecha de inicio de recepción de documentos, cierre de inscripciones o registros;
+
+V. Etapas del proceso y sus fechas; y
+
+VI. Responsables de la coordinación del proceso y de la atención de situaciones no previstas;
+
+Entre la fecha de entrega de los temarios y bibliografías, y la aplicación del primer examen, no podrá existir un periodo menor a seis meses.
+
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2011)</small>
+
+###### ARTÍCULO 593.
+
+El Régimen de estímulos es el procedimiento por el cual la Secretaría establece los requisitos para que la instancia correspondiente, otorgue el reconocimiento público o la remuneración económica a sus integrantes operativos, basándose en los méritos, los mejores resultados de formación continua, la evaluación del desempeño, la capacidad y las acciones relevantes reconocidas por la sociedad, con la finalidad de fomentar la calidad y efectividad en el desempeño del servicio y desarrollo de los integrantes operativos, así como fortalecer su identidad institucional. En ningún caso podrá atenderse al número de detenciones o a la calidad de las detenciones para ser sujeto de estímulos.
+
+Todo estimulo deberá ir acompañado de una constancia que acredite su otorgamiento, que contendrá el nombre del integrante operativo, la fecha y lugar de expedición y el concepto por el cual será acreedor al reconocimiento, para ser anexado a su expediente; además de señalar los instrumentos que acrediten la circunstancias especificas para el otorgamiento del estimulo.
+
+Si un integrante operativo, pierde la vida al realizar actos que merecieran el otorgamiento de un estímulo, la Comisión del Servicio Profesional de Carrera resolverá sobre el particular, a fin de conferírselo a título post mortem a sus beneficiarios.
+
+Bajo ninguna circunstancia se otorgarán estímulos, al integrante operativo que dentro del registro de su expediente del último año, cuente con antecedentes negativos y reiterados en su desempeño, se encuentre bajo investigación por faltas clasificadas como graves o se conduzca, aún en su vida privada, en forma deshonesta o contraria a los principios de actuación.
+
+Los estímulos serán entregados anualmente, con base en el análisis de los expedientes de los integrantes operativos, por parte del H. Ayuntamiento y se entregarán en el marco de la conmemoración del Aniversario de la Fundación de la Ciudad de Aguascalientes.
+
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2011)</small>
+
+###### ARTÍCULO 594.
+
+Los estímulos a los que se pueden hacer acreedores los Integrantes operativos de la Secretaría, son:
+
+I. Reconocimientos; y
+
+II. Recompensas.
+
+Los reconocimientos incluirán los siguientes méritos y serán otorgadas condecoraciones, menciones honorificas y en los casos previstos recompensas.
+
+Los reconocimientos objeto de recompensas son:
+
+I. Mérito Policial;
+
+II. Mérito a la Perseverancia;
+
+III. Mérito Ejemplar;
+
+IV. Mérito Académico;
+
+V. Mérito Tecnológico;
+
+VI. Mérito Docente; y
+
+VII. Mérito Deportivo.
+
+Las Recompensas se constituyen con estímulos de carácter económico, que se otorgarán dependiendo de la disponibilidad presupuestal de la Secretaría, a fin de incentivar la conducta de los integrantes operativos, creando conciencia de que el esfuerzo y compromiso son honrados y reconocidos.
+
+Las recompensas, en ningún caso, se considerarán como un ingreso fijo, regular o permanente ni formarán parte de las remuneraciones que perciban los integrantes operativos en forma ordinaria.
+
+El procedimiento correspondiente para los efectos de aplicar para el otorgamiento de algún estímulo, será definido en el reglamento y manuales correspondientes.
+
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2011)</small>
+
+###### ARTÍCULO 595.
+
+Las condecoraciones consistirán en fistoles o preseas metálicas; la mención honorífica consistirá en un documento oficial, expedido y registrado por la Dirección de Profesionalización por su naturaleza académica, sin que implique la necesidad de ser avalado por otra instancia.
+
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2011)</small>
+
+###### ARTÍCULO 596.
+
+La conclusión del servicio de un integrante operativo es la terminación de su nombramiento, instrumento similar o la cesación de sus efectos legales por las siguientes causas:
+
+I. Separación, por incumplimiento a cualquiera de los requisitos de permanencia, o cuando en los procesos de promoción concurran las siguientes circunstancias:
+
+a) Si hubiere sido convocado a tres procesos consecutivos de promoción sin que haya participado en los mismos, o que habiendo participado en dichos procesos, no hubiese obtenido el grado inmediato superior que le correspondería, por causas imputables a él;
+
+b) Que haya alcanzado la edad máxima correspondiente a su jerarquía, de acuerdo con lo establecido en las disposiciones aplicables; o
+
+c) Que del expediente del integrante operativo no se desprendan méritos suficientes a juicio de la Comisión del Servicio Profesional de Carrera Policial para conservar su permanencia.
+
+Contra la resolución de separación dictada por la Comisión del Servicio Profesional de Carrera procede el recurso de reconsideración del que conocerá la Comisión de Honor y Justicia. El recurso se interpondrá por escrito ante esta Comisión dentro de los cinco días hábiles siguientes a su notificación y será resuelto sin sustanciación alguna, dentro de los diez días hábiles siguientes a su interposición.
+
+II. Remoción, por incurrir en responsabilidad en el desempeño de sus funciones o incumplimiento de sus deberes, de conformidad con las disposiciones relativas al régimen disciplinario; o
+
+III. Baja por:
+
+a) Renuncia;
+
+b) Muerte o incapacidad permanente; o
+
+c) Jubilación o Retiro.
+
+Al concluir el servicio el integrante deberá entregar al servidor público designado para tal efecto, toda la información, documentación, equipo, materiales, identificaciones, valores u otros recursos que hayan sido puestos bajo su responsabilidad o custodia mediante acta de entrega recepción.
+
+> <small>(ADICIONADO, P.O. 8 DE AGOSTO DE 2011)</small>
+
+### CAPÍTULO IV. Del Sistema Complementario de Seguridad Social
+
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2011)</small>
+
+###### ARTÍCULO 597.
+
+El Servicio Profesional de Carrera Policial es el eje que constituye un sistema obligatorio y permanente que la Secretaría dispone para los integrantes operativos, conforme al cual se establecen los lineamientos que definen los procedimientos de reclutamiento, selección, adscripción, formación, control y registro de la certificación, evaluaciones, evaluación, promoción y régimen de estímulos; así como la separación o baja del servicio de los integrantes de la Secretaría.
+
+La Dirección de Profesionalización establecerá un sistema de diagnóstico, evaluación y retroalimentación que permita identificar las áreas de oportunidad, tanto en los procesos como en las capacidades de los integrantes operativos de la Secretaría, con el objeto de implementar programas de mejora continua que promuevan su desarrollo, personal, profesional, familiar y social.
+
+La Carrera Policial comprende el grado policial, la antigüedad, y los estímulos obtenidos, el resultado de los procesos de promoción, y todos los registros derivados de los procedimientos del sistema, incluyendo las sanciones que, en su caso, haya acumulado el integrante operativo.
+
+Será responsabilidad de la Dirección de Profesionalización en los términos de las disposiciones aplicables, controlar, resguardar y actualizar el registro de los datos mencionados en el párrafo anterior en el expediente de seguimiento del Servicio de Carrera Policial de cada integrante operativo y éstos, están obligados a presentar la totalidad de la documentación relativa a su desempeño operativo, académico, personal y profesional para su control y actualización, atendiendo a los instrumentos normativos aplicables. La titulación de la operación de este eje está a cargo de la Comisión del Servicio Profesional de Carrera en Coordinación con la Dirección de Profesionalización.
+
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2011)</small>
+
+###### ARTÍCULO 598.
+
+La Profesionalización es el eje que se conforma por el proceso permanente y progresivo de formación que se integra por las etapas de formación inicial y continua, esta última comprende la actualización, la especialización y alta dirección; para desarrollar al máximo las competencias, capacidades y habilidades de los integrantes operativos de la Secretaría. La titularidad de la operación de este eje está a cargo de la Comisión del Servicio Profesional de Carrera en coordinación con la Dirección de Profesionalización.
+
+Los planes de estudio para la formación se integrarán al interior de la Dirección de Profesionalización.
+
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2011)</small>
+
+###### ARTÍCULO 599.
+
+La certificación es el eje constituido por los procesos mediante los cuales, los integrantes de la Secretaría, se someten a las evaluaciones periódicas correspondientes, para comprobar el cumplimiento de los perfiles de personalidad, éticos, socioeconómicos y médicos, en los procedimientos de ingreso, promoción y permanencia.
+
+La certificación tiene como objetivo, reconocer habilidades, destrezas, actitudes, conocimientos generales y específicos conforme a los perfiles que aseguren a la sociedad que los integrantes operativos de la Secretaría poseen las características ideales para ejercer la función policial; así como identificar los factores de riesgo que interfieran, repercutan o pongan en peligro la prestación del servicio de Seguridad Pública.
+
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2011)</small>
+
+###### ARTÍCULO 600.
+
+El Régimen Disciplinario es el eje que rige la actuación de los integrantes operativos de la Secretaría, apegándose a los principios de legalidad, objetividad, eficiencia, honradez, profesionalismo y respeto a los derechos humanos y deberá basarse en los siguientes previstos mínimos.
+
+La disciplina comprende el aprecio de sí mismo, la pulcritud, los buenos modales, el rechazo a los vicios, la puntualidad en el servicio, la exactitud en la obediencia, el escrupuloso respeto a las leyes y reglamentos, así como a los derechos humanos.
+
+La disciplina será la base del funcionamiento y organización de la Secretaría; los Integrantes operativos deberán sujetar su conducta a la observancia de las leyes, órdenes y jerarquías, así como a la obediencia y al alto concepto del honor, de la justicia y de la ética.
+
+La disciplina demanda respeto y consideración mutua, entre quien ostente un mando y sus subordinados, así como entre los de igual jerarquía.
+
+Asimismo, el Régimen Disciplinario se ajustará a los ordenamientos jurídicos aplicables y comprenderá las consideraciones relativas a los derechos, las obligaciones, las sanciones y correctivos disciplinarios establecidas, así como a los procedimientos para su aplicación. La titularidad de la operación de este eje está a cargo de la Comisión de Honor y Justicia, sin menoscabo de las atribuciones del personal con mando, la Dirección de Asuntos Internos y del propio Secretario de Seguridad Pública.
+
+Los integrantes operativos de la Secretaría, además de las obligaciones relativas al régimen disciplinario atenderán a las que deriven de su adscripción orgánica, siempre y cuando sean emitidas cumpliendo con las formalidades correspondientes y respetando las disposiciones normativas aplicables.
+
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2011)</small>
+
+###### ARTÍCULO 601.
+
+La aplicación de las sanciones deberá registrarse en el expediente, por medio del cual se le dé seguimiento a la carrera del infractor, el cual será el instrumento principal para la evaluación del desempeño.
+
+La imposición de las sanciones derivadas de un procedimiento disciplinario, aplicarán con independencia de las que correspondan por responsabilidad civil, penal o administrativa, en que incurran los integrantes operativos de la Secretaría, de conformidad con la legislación aplicable.
+
+> <small>(ADICIONADO, P.O. 8 DE AGOSTO DE 2011)</small>
+
+### CAPÍTULO I. De la Comisión de Honor y Justicia
+
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2011)</small>
+
+###### ARTÍCULO 602.
+
+La Secretaría de Seguridad Pública elaborará anualmente una propuesta de Programa de Seguridad Social Complementario para sus integrantes operativos, que remitirá con la debida oportunidad a la Secretaría de Finanzas para que ésta lo incorpore en el ejercicio presupuestal del año siguiente.
+
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2011)</small>
 
 ###### ARTÍCULO 603.
 
-Las sanciones o correctivos disciplinarios a que se hace mención deberán incluirse en el expediente personal de los elementos.
+En ningún caso, se otorgarán prestaciones Complementarias de Seguridad Social inferiores a las del año inmediato anterior.
 
-> <small>(REFORMADO, P.O. 3 DE NOVIEMBRE DE 2008)</small>
+> <small>(ADICIONADO CON LOS CAPITULOS QUE LO INTEGRAN, P.O. 8 DE AGOSTO DE 2011)</small>
 
-Contra la aplicación de las sanciones y correctivos disciplinarios impuestos por los Directores de Área y Jefes Operativos, procederá el recurso de revocación, el cual deberá interponerse personalmente y por escrito ante el superior jerárquico inmediato de quien emitió la misma, dentro de las cuarenta y ocho horas posteriores a su notificación.
+## TÍTULO CUARTO. DE LAS COMISIONES
 
-El superior jerárquico de quien emitió la sanción, una vez recibido el recurso resolverá de plano el recurso interpuesto; si el mismo resulta procedente el efecto será exclusivamente eliminar del expediente personal del elemento el antecedente de la sanción.
+> <small>(ADICIONADO, P.O. 8 DE AGOSTO DE 2011)</small>
 
-> <small>(REFORMADO, P.O. 3 DE NOVIEMBRE DE 2008)</small>
+### CAPÍTULO II. De la Comisión del Servicio Profesional de Carrera Policial
 
-La resolución con motivo del recurso se emitirá a los tres días hábiles siguientes, la cual deberá ser notificada personalmente al infractor por la Coordinación de Asuntos Jurídicos de la Secretaría de Seguridad Pública y Tránsito Municipal dentro del término de tres días hábiles siguientes a la resolución.
-
-> <small>(REFORMADA SU DENOMINACION, P.O. 3 DE NOVIEMBRE DE 2008)</small>
-
-APARTADO DÉCIMO PRIMERO
-
-De las Faltas
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE ENERO DE 2010)</small>
-
-## TÍTULO TERCERO. DE LOS REQUISITOS PARA LICENCIAS DE CONSTRUCCIÓN
-
-### CAPÍTULO VI. De los Requisitos para Otorgamiento de Licencias para Ocupar y Realizar Obras en la Vía Pública
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2011)</small>
 
 ###### ARTÍCULO 604.
 
-Son faltas leves por las que podrán ser sancionados los elementos de Seguridad Pública y Tránsito Municipal, mediante amonestación privada, pública o arresto, que conocerán y aplicarán, los Directores de Área y Jefes Operativos, las violaciones a lo dispuesto por los artículos 589, fracciones II, III, IV, VI, XII, XV, XXI, XXII, XXIII, XXIV, XXV, XXVI, XXXII ó XXXIII; 598 fracciones III, IV, XVI, XVII, XXV Y 599 fracciones I, II, III ó IV del presente ordenamiento.
+La Comisión de Honor y Justicia, es el órgano independiente, colegiado e imparcial que vela por la honorabilidad y buena reputación de la Secretaría, encargado de conocer, resolver y sancionar los casos que ponga a su disposición la Dirección de Asuntos Internos de Seguridad Pública, relacionados con las faltas cometidas por los integrantes operativos, en servicio o fuera de él, por actos u omisiones que, de cualquier forma, infrinjan los principios de actuación y obligaciones en los términos del presente ordenamiento.
 
-Las faltas consideradas como leves conforme al presente artículo perderán ese carácter y serán consideradas como graves, cuando a juicio del superior jerárquico, el resultado de dichas conductas causen perjuicio al servicio que presta, vayan en detrimento del Municipio o de la sociedad en general, o sean reiterativas.
-
-> <small>(REFORMADO, P.O. 3 DE NOVIEMBRE DE 2008)</small>
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2011)</small>
 
 ###### ARTÍCULO 605.
 
-Son faltas sancionadas con amonestación pública, arresto hasta por 36 horas o suspensión temporal de 1 a 10 días, aplicadas por el Secretario de Seguridad Pública y tránsito Municipal, las siguientes:
+La Comisión de Honor y Justicia se integrará por:
 
-I. Disparar el arma de fuego sin causa justificada, siempre y cuando no se haya puesto en peligro la integridad física y psicológica de persona alguna o se hayan producido lesiones; y
+I. Un Presidente que será el Secretario de Seguridad Pública y tendrá voz y voto;
 
-> <small>(REFORMADA, P.O. 11 DE ENERO DE 2010)</small>
+II. Un Secretario Técnico que contará sólo con voz y será el Coordinador de Asuntos de Honor y Justicia adscrito a la Secretaría del H. Ayuntamiento y Dirección General de Gobierno, el cual contará con un nombramiento otorgado por el Presidente, deberá ser Licenciado en Derecho y contar con una experiencia mínima de dos años en Seguridad Pública;
 
-II. Las violaciones a lo dispuesto por los artículos 589, fracciones I, VIII, XIII, XVII, XVIII ó XXXI; 598 fracciones VI ó XVIII y 599 fracción V del presente ordenamiento.
+III. Ocho Vocales que contarán con voz y voto y serán los siguientes:
 
-> <small>(ADICIONADO, P.O. 3 DE NOVIEMBRE DE 2008)</small>
+a) El Regidor Presidente de la Comisión de Seguridad Pública;
 
-###### ARTÍCULO 605
+b) Dos integrantes de la Comisión de Seguridad Pública;
 
-BIS.- Son faltas por las cuales podrán ser sancionados los elementos de seguridad pública, mismas que conocerá y sancionará el Secretario de Seguridad Pública y Tránsito Municipal o por la Comisión de Honor y Justicia, en sus respectivos ámbitos de competencia, las siguientes:
+c) Dos integrantes de la Dirección de Policía Preventiva, uno de ellos, que contará con nivel de enseñanza superior, perteneciente en su caso, a la unidad operativa de investigación y otro, con escolaridad media básica, perteneciente en su caso, a la unidad operativa de reacción. Ambos deberán contar con al menos cinco años continuos de servicio en la Secretaría;
 
-> <small>(REFORMADA, P.O. 11 DE ENERO DE 2010)</small>
+d) Un integrante de la Dirección de Tránsito y Movilidad que posea, la escolaridad de nivel medio superior, con al menos cinco años de servicio;
 
-I. Serán sancionados los elementos de Seguridad Pública, por el Secretario de Seguridad Pública y Tránsito Municipal mediante suspensión temporal del cargo de 11 a 15 días sin goce de sueldo a quienes cometan las siguientes faltas:
+e) Dos representantes del Consejo Municipal de Consulta y Participación Ciudadana; y
 
-a) Haber cometido 3 faltas leves en el lapso de un año;
+IV. Un Fiscal, que será el Director de Asuntos Internos de Seguridad Pública, quien contará sólo con voz y fungirá como instancia acusadora.
 
-b) Las violaciones a lo dispuesto por los artículos 589 fracciones V, XXI, ó XXVII; y
+El Presidente, el fiscal y cada uno de los vocales designarán un suplente. Los anteriores cargos son honoríficos y no percibirán retribución alguna por sus funciones.
 
-c) Poner en peligro la integridad física o psicológica de los particulares o sus subalternos por una acción u omisión, por causa de imprudencia, descuido, negligencia, pánico o abandono del servicio.
-
-> <small>(REFORMADA, P.O. 11 DE ENERO DE 2010)</small>
-
-II. .Serán sancionados los elementos de Seguridad Pública, por la Comisión de Honor y Justicia, mediante destitución o inhabilitación a quienes cometan las siguientes faltas:
-
-a) Que se le dicte sentencia condenatoria por cometer un delito doloso, cualquiera que éste sea;
-
-b) Presentar documentación alterada, informes alejados a la verdad o realidad de los hechos de los que tenga conocimiento o que se le hayan encomendado;
-
-c) Obligar o sugerirle a sus subalternos a entregarles dinero o cualquier otro tipo de dádivas a cambio de permitirles el goce de las prestaciones a que todo policía tiene derecho;
-
-d) Obligar, sugerir o despojar a los particulares de sus pertenencias ya sea en efectivo o en especie, haciendo uso de sus atribuciones;
-
-e) Las violaciones a lo dispuesto por los artículos 589 fracción VII, IX, X, XI, XIV, XVI, XIX, XX, XXIX, ó XXX, 598 fracciones I, II, V, VII, VIII, IX, X, XI, XII, XIII, XIV, XV, XIX, XX, XI (sic) XXII, XXIII ó XXIV y 599 fracción V del presente Código; y
-
-f) Haber cometido dos faltas de las sancionadas por el Secretario de Seguridad Pública y Tránsito Municipal, de acuerdo al artículo 605 en el lapso de un año.
-
-> <small>(ADICIONADO, P.O. 11 DE ENERO DE 2010)</small>
-
-En caso que durante el procedimiento Administrativo seguido ante la Comisión de Honor y Justicia, se compruebe que el elemento ha incurrido en cualquiera de las faltas mencionadas en los artículos 604, 605 y fracción I del artículo 605 bis de este Código, la Comisión de Honor y Justicia dentro de su resolución final emitirá los razonamientos tendientes a acreditar la comisión de dichas faltas, y turnará la resolución al Secretario o al Superior Jerárquico, según sea el caso, para que aplique la sanción correspondiente en un término no mayor a 10 días hábiles.
-
-> <small>(REFORMADO, P.O. 11 DE ENERO DE 2010)</small>
-
-Ningún elemento de la Secretaría de Seguridad Pública podrá ser sancionado más de una vez por el Secretario de Seguridad Pública por la contravención de las conductas establecidas en la fracción I del presente artículo, por lo cual la reiteración de dichas faltas causará la destitución.
-
-APARTADO DÉCIMO SEGUNDO
-
-Condecoraciones y Reconocimientos Policíacos
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2011)</small>
 
 ###### ARTÍCULO 606.
 
-La Secretaría manifestará públicamente el reconocimiento a las personas que siendo miembros de esta, sean un ejemplo positivo de comportamiento y trabajo en beneficio de la seguridad pública y aún a aquellas que no sean miembros de alguna corporación.
+Los vocales que integran la Comisión de Honor y Justicia se asignarán de la siguiente manera:
+
+I. El primer vocal será el Regidor Presidente de la Comisión de Seguridad Pública;
+
+II. Un integrante de la Comisión de Seguridad Pública, que será elegido democráticamente al interior de la misma;
+
+III. Un vocal representante del H. Ayuntamiento, propuesto por el Presidente Municipal de entre los integrantes de la Comisión de Seguridad Pública y aprobado por el Cabildo;
+
+IV. Tres integrantes para los vocales representantes de las unidades de investigación, prevención y reacción:
+
+a) Se emitirá una convocatoria por parte del Regidor Presidente de la Comisión de Seguridad Pública, que deberá ser publicada en las instalaciones de la Secretaría durante los primeros quince días hábiles del año;
+
+b) Los interesados deberán de presentar la documentación que establezca la convocatoria respectiva a más tardar el último día hábil del mes de enero;
+
+c) La Comisión de Seguridad Pública, en sesión analizará cada una de las solicitudes presentadas y designará los vocales de entre aquellos que cumplan con los requisitos, valorando cualitativamente el cumplimiento de los mismos, así como la experiencia previa en un cargo similar;
+
+d) El Regidor Presidente de la Comisión de Seguridad Pública en su caso, notificará al Secretario de Seguridad Pública sobre la designación de los vocales, a más tardar los primeros quince días hábiles del mes de febrero; y
+
+e) De no haber solicitudes, sean insuficientes o que las presentadas no cumplieran con los requisitos, el Regidor Presidente de la Comisión de Seguridad Pública solicitará al Secretario proponga tres integrantes operativos de cada perfil que cumplan con los requisitos, para que de entre ellos se hiciere la designación.
+
+V. Los vocales que representan al Consejo Municipal de Consulta y Participación Ciudadana, serán electos de forma democrática al interior del mismo, considerando para su elección las aptitudes, experiencia, conocimientos e interés en materia de Seguridad Pública, debiendo informar los nombramientos realizados, a más tardar los primeros quince días del mes de febrero del año que corresponda, ante el presidente de la Comisión de Seguridad Pública.
+
+Los vocales a que se refieren los incisos c), d) y e) de la fracción III del artículo 605 durarán en su encargo un año, pudiendo ser reelectos.
+
+Todos los integrantes de la Comisión de Honor y Justicia están obligados a continuar en el ejercicio de su encargo hasta en tanto no sean relevados por nuevos vocales, a excepción de los que son Integrantes del H. Ayuntamiento y del Municipio, los cuáles al dejar de tener los cargos correspondientes dentro del gobierno o dependencias Municipales, serán sustituidos en la Comisión por los nuevos titulares de los cargos
+
+Cuando la Comisión de Honor y Justicia considere que la actuación de alguno de los vocales previstos en el artículo 605 del presente Código, pone en riesgo el correcto desempeño de sus actividades y atribuciones, tendrá la atribución de remover al vocal en cuestión, exponiendo las causas que la motivaron a tomar dicha decisión. Asimismo, al día siguiente a la remoción del vocal en cuestión, el Presidente de la Comisión de Honor y Justicia deberá solicitar a la instancia correspondiente la designación de uno nuevo en un término de cinco días y, en caso de que agotado el término no exista designación alguna, la Comisión de Honor y Justicia procederá a designarlo directamente atendiendo a los requisitos señalados anteriormente.
+
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2011)</small>
 
 ###### ARTÍCULO 607.
 
-Las formas de reconocimiento, tal y como se señala en el artículo anterior, son otorgadas a nombre del H. Ayuntamiento de Aguascalientes, por el Presidente Municipal o por el Secretario o bien por la persona que designe el primero.
+La Comisión de Honor y Justicia tendrá las siguientes atribuciones:
 
-###### ARTÍCULO 608.
+I. Conocer los asuntos que le turne la Dirección Asuntos Internos de Seguridad Pública respecto de las faltas medias y graves previstas en los artículos 577 y 578 del presente ordenamiento, en que incurran los integrantes operativos por incumplimiento de los principios de actuación y obligaciones previstos en este Libro y demás disposiciones legales aplicables;
 
-Las formas de reconocimiento son las siguientes:
+II. Dictar, durante el proceso, las medidas necesarias para conocer la verdad legal sobre cada caso en particular, ajustándose a los principios esenciales del debido proceso;
 
-l. Medallas;
+III. Dictar, en todos los casos que conozca y que así lo ameriten, la medida de seguridad consistente en la separación temporal de la corporación sin goce de sueldo del presunto infractor, para la conducción o continuación de las investigaciones, en los casos en que pueda resultar la comisión de una falta de las contempladas en los artículos 577 y 578 del presente ordenamiento. La separación no prejuzga sobre la responsabilidad que se impute.
 
-II. Diplomas;
+La separación temporal a que se refiere el párrafo anterior, surtirá efectos desde el momento en que sea notificado al presunto infractor, hasta en tanto resuelva el asunto o en un término no mayor a noventa días hábiles a partir de que surtió efectos la misma.
 
-III. Cartas laudatorias; y
+Si el integrante operativo que sea sujeto a la medida de seguridad y separado temporalmente no resultare responsable de la falta que se le atribuye, será restituido en el goce de sus derechos y se le cubrirán íntegramente las percepciones que debió recibir durante el tiempo que estuvo separado;
 
-IV. Otros reconocimiento (sic) y estímulos.
+IV. Comunicar a la instancia correspondiente, cuando se advierta en el proceso, la probable comisión de delitos o faltas de los integrantes operativos;
 
-Su otorgamiento podrá hacerse en vida o con posterioridad al fallecimiento del integrante de los Cuerpos de Seguridad Pública.
+V. Dictar en cada caso la resolución que corresponda, imponiendo las sanciones de su competencia a los integrantes operativos de la Secretaría de Seguridad Pública, por la comisión de las faltas previstas en el presente ordenamiento;
 
-###### ARTÍCULO 609.
-
-Anualmente, el H. Ayuntamiento, con base en el reglamento que para tal efecto expida, valorará el otorgamiento de los siguientes reconocimientos a los Cuerpos de Seguridad Pública, mismos que se entregarán en el marco de la conmemoración del Aniversario de la Fundación de la Ciudad de Aguascalientes:
-
-I. Medalla de Heroísmo: Se otorga por el gran valor demostrado, ya sea a uno o varios elementos por su acción coordinada al exponer su vida o integridad física al rescatar a personas de peligros graves o en siniestros. Se requiere solicitud escrita a la Secretaría por parte de quien desee promoverla, debiendo contener los relatos o testimoniales del suceso. Se otorga a miembros de cualquier jerarquía;
-
-II. Medalla de Honor: Se otorga por el constante y ejemplar comportamiento durante el servicio, así como por haber participado en situaciones hostiles o adversas, donde la magnitud de dichas situaciones hayan sido mayor que los recursos disponibles para hacerle frente;
-
-III. Medalla a la Perseverancia: Se otorga al personal de cualquier nivel jerárquico que cumpla quince años en servicio activo, con o sin interrupción, o que teniendo quince años en activo por cualquier circunstancia no hubieren recibido dicha medalla. Corresponde al Departamento de Recursos Humanos certificar la antigüedad y a la Secretaría emitir la constancia respectiva;
-
-IV. Medalla de Eficiencia: Se otorga a elementos de la Secretaría con dos años o más de servicio que en el desarrollo de su trabajo se advierta claramente en el área de su jurisdicción la disminución de hechos delictivos. Corresponde al superior jerárquico iniciar el procedimiento por medio de escrito dirigido al Secretario; y
-
-V. Medalla de Servicio Distinguido: Se otorga a los elementos con más de cinco años en puestos de mando y que siendo poseedores de la Medalla de Eficiencia, hayan aumentado de forma destacada el índice de aprovechamiento eficaz y la calidad del servicio en el área de su jurisdicción. El promovente será el superior jerárquico quien a la petición por escrito dirigida al Secretario adjuntará las constancias necesarias para el efecto de su evaluación.
-
-###### ARTÍCULO 610.
-
-. El H. Ayuntamiento podrá otorgar una medalla a nombre del Municipio de Aguascalientes a personas que no son miembros de la Secretaría, que sin embargo han realizado acciones concretas, que hayan hecho posible la prestación de un mejor servicio por parte de la Secretaría. La propuesta deberá ser hecha por la Secretaría del H. Ayuntamiento y Dirección General de Gobierno, al Ayuntamiento y se le denomina Medalla de Gratitud.
-
-###### ARTÍCULO 611.
-
-Los diplomas se entregarán con motivo de acciones sobresalientes que enaltezcan a la Secretaría, tales como espíritu de servicio, triunfos deportivos y todas aquéllas que a juicio de la misma sean merecedoras de reconocer mediante esta presea.
-
-###### ARTÍCULO 612.
-
-Las cartas laudatorias se entregan por una actividad específica que haya contribuido a la ejecución de una misión importante o bien que la actividad fue ejemplar por su entrega y determinación. Consiste en la entrega de una carta a la persona distinguida donde se describe en forma breve elocuente el mérito alcanzado y es firmada por el Presidente Municipal, por el Secretario del H. Ayuntamiento y por los integrantes de la Comisión de Seguridad Pública y Tránsito del H. Ayuntamiento. Se entregará mensualmente a propuesta del Consejo Ciudadano de Seguridad Pública y Tránsito. Se le designará policía del mes y tendrá derecho a un estímulo económico.
-
-APARTADO DÉCIMO TERCERO
-
-Comisión de Honor y Justicia
-
-> <small>(REFORMADO, P.O. 3 DE NOVIEMBRE DE 2008)</small>
-
-###### ARTÍCULO 613.
-
-La Comisión de Honor y Justicia, es el órgano colegiado e imparcial encargado de conocer, resolver y sancionar únicamente los casos que ponga a su disposición la Dirección de Asuntos Internos de Seguridad Pública y Tránsito, en su caso, el Secretario de Seguridad Pública y Tránsito Municipal relacionados con las controversias cometidas por los elementos operativos de la Secretaría de Seguridad Pública y Tránsito Municipal, en servicio o fuera de él, por actos u omisiones que, de cualquier forma, infrinjan los principios de actuación y normas disciplinarias en los términos del presente ordenamiento, así como otorgar reconocimientos y condecoraciones a las acciones relevantes en que intervinieron los miembros de la Secretaría de Seguridad Pública y Tránsito Municipal.
-
-### CAPÍTULO VII. De la Ocupación o Habitabilidad de las Construcciones
-
-###### ARTÍCULO 614.
-
-La Comisión de Honor y Justicia se integrará por:
-
-I. Un Presidente que será el Regidor titular de la Comisión de Seguridad Pública y Tránsito.
-
-> <small>(REFORMADA, P.O. 3 DE NOVIEMBRE DE 2008)</small>
-
-II. Un Secretario Técnico que contará sólo con voz y será el Coordinador de Asuntos de Honor y Justicia adscrito a la Secretaría del H. Ayuntamiento y Dirección General de Gobierno;
-
-> <small>(REFORMADA, P.O. 3 DE NOVIEMBRE DE 2008)</small>
-
-III. Seis Vocales:
-
-a) Un representante del H. Cabildo, que no sea el Presidente de la Comisión de Seguridad Pública;
-
-b) Un representante de la Dirección de Estado Mayor de la Secretaría de Seguridad Pública y Tránsito Municipal;
-
-c) Un elemento operativo de la Dirección de Policía Preventiva;
-
-d) Un elemento operativo de la Dirección de Tránsito;
-
-e) Dos representantes del Consejo Ciudadano de Seguridad Pública;
-
-> <small>(REFORMADA, P.O. 3 DE NOVIEMBRE DE 2008)</small>
-
-IV. Un Fiscal, que será el Director de Asuntos Internos de Seguridad Pública y Tránsito quien contará sólo con voz.
-
-> <small>(REFORMADO, P.O. 3 DE NOVIEMBRE DE 2008)</small>
-
-El Presidente, el Secretario Técnico y cada uno de los vocales designarán un suplente. Los anteriores cargos son honoríficos y no percibirán retribución alguna por sus funciones.
-
-> <small>(REFORMADO, P.O. 3 DE NOVIEMBRE DE 2008)</small>
-
-###### ARTÍCULO 615.
-
-Los vocales que integran la Comisión de Honor y Justicia, durarán en su encargo un año, siendo elegidos, mediante el siguiente proceso:
-
-I. El vocal integrante del H. Ayuntamiento será elegido por éste mismo, a más tardar el día 30 de enero de cada año, mediante terna propuesta por el Presidente de la Comisión de Seguridad Pública y Tránsito Municipal.
-
-II. El representante de la Dirección de Estado Mayor de la Secretaría de Seguridad Pública, será el titular de dicha Dirección o la persona que éste designe para ocupar el cargo.
-
-III. Los integrantes de la Dirección de Policía Preventiva y los de la Dirección de Tránsito deberán contar con un mínimo de dos años de experiencia en la Secretaría y estar en servicio activo, y se elegirán por convocatoria, bajo los siguientes lineamientos:
-
-a) La convocatoria para ocupar los cargos de vocales de la Dirección de Policía Preventiva y de la Dirección de Tránsito se publicará en los destacamentos, por parte de la Dirección de Estado Mayor, a más tardar, el día diez de enero de cada año.
-
-b) Los interesados presentarán su solicitud, a más tardar, el veinte de enero del mismo año, ante la Dirección de Estado Mayor anexando las constancias con las que acredite cumplir con los requisitos señalados en la fracción III del presente artículo.
-
-c) El Director de Estado Mayor analizará cada una de las solicitudes presentadas y, a más tardar, el primero de febrero, designará los vocales de entre aquellos que cumplan con los requisitos, valorando cualitativamente el cumplimiento de los mismos, así como la experiencia previa en un cargo similar.
-
-d) De no haber solicitudes suficientes para ocupar el número de vocalías integrantes de la Comisión de Honor y Justicia o las presentadas no cumplieren con los requisitos, el Director de Estado de Mayor, declarará desierta la convocatoria y los lugares quedarán vacantes hasta nueva convocatoria en los términos del presente artículo.
-
-e) El Director de Estado Mayor notificará al Presidente de la Comisión de Honor y Justicia de los nombramientos realizados, a más tardar, el día quince de febrero del mismo año.
-
-f) Los vocales están obligados a cumplir con su encargo hasta en tanto no sean relevados por los nuevos.
-
-IV. Los representantes del Consejo Ciudadano de Seguridad Pública, serán elegidos de forma democrática al interior del Consejo, considerando para la elección de los vocales las aptitudes, experiencia y conocimientos relacionados con la materia de seguridad pública, debiendo informar los nombramientos realizados, a más tardar, el quince de febrero de cada año.
-
-Cuando el Presidente de la Comisión de Honor y Justicia considere que la actuación de alguno de los vocales previstos en el artículo 614 fracción III incisos b), c), d), ó e) del presente Código, pone en riesgo el correcto desempeño de la Comisión, tendrá la facultad de remover al vocal en cuestión, para lo cual rendirá informe al Secretario de Seguridad Pública y Tránsito Municipal, en un término de tres días, exponiendo las causas que lo motivaron a tomar dicha decisión. Asimismo, al día siguiente a la remoción del vocal en cuestión, el Presidente de la Comisión de Honor y Justicia deberá solicitar a la instancia correspondiente la designación de uno nuevo en un término de cinco días y, en caso de que agotado el término no exista designación alguna, el Presidente procederá a designarlo directamente.
-
-### CAPÍTULO I. Generalidades
-
-###### ARTÍCULO 616.
-
-La Comisión de Honor y Justicia tendrá las siguientes facultades y obligaciones:
-
-> <small>(REFORMADA, P.O. 3 DE NOVIEMBRE DE 2008)</small>
-
-I. Conocer los asuntos que le turne la Dirección de Asuntos Internos de Seguridad Pública y Tránsito respecto de las faltas previstas en el artículo 605 BIS fracción II del presente ordenamiento, en que incurran los elementos a los principios de actuación previstos en este Código y las normas disciplinarias de cada una de las corporaciones de seguridad pública;
-
-> <small>(REFORMADA, P.O. 3 DE NOVIEMBRE DE 2008)</small>
-
-II. Dictar, durante el proceso, las medidas necesarias para conocer la verdad legal sobre cada caso en particular, ajustado a los principios esenciales de debido proceso;
-
-> <small>(REFORMADA, P.O. 3 DE NOVIEMBRE DE 2008)</small>
-
-III. Dictar, en todos los casos que conozca, la medida de seguridad consistente en la separación indefinida de la corporación sin goce de sueldo del presunto infractor, para la conducción o continuación de las investigaciones, en los casos en que pueda resultar la comisión de una falta de las contempladas en el artículo 605 BIS fracción II del presente ordenamiento. La separación no prejuzga sobre la responsabilidad que se impute.
-
-La separación temporal a que se refiere el párrafo anterior, surtirá efectos desde el momento en que sea notificado al presunto infractor.
-
-La separación cesará cuando la Comisión de Honor y Justicia resuelva el asunto.
-
-Si el elemento que se sujeto a la medida de seguridad, y separado indefinidamente no resultare responsable de la falta que se le atribuye, será restituido en el goce de sus derechos y se le cubrirán íntegramente las percepciones que debió recibir durante el tiempo que estuvo separado;
-
-IV. (DEROGADA, P.O. 3 DE NOVIEMBRE DE 2008)
-
-V. Dictar en cada caso la resolución que corresponda, imponiendo las sanciones de su competencia a los elementos operativos de la Secretaría de Seguridad Pública y Tránsito, por la comisión de las faltas previstas en el presente ordenamiento;
-
-VI. Aprobar en su caso el otorgamiento de las condecoraciones, estímulos y recompensas, previstos en este Código;
+VI. Participar en la aprobación de estímulos, en las evaluaciones del desempeño así como en los procedimientos para determinar la permanencia o conclusión del servicio, en base a los requisitos y las formalidades previstos en este Código y demás instrumentos normativos aplicables;
 
 VII. Rendir informes trimestrales al Secretario del H. Ayuntamiento y Director General de Gobierno;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 3 DE NOVIEMBRE DE 2008)</small>
+VIII. Notificar al Sistema Nacional de Seguridad Pública, sobre las faltas graves sancionadas con remoción que resolviere respecto de los integrantes operativos de seguridad pública, en un término de tres días hábiles siguientes a su resolución; y
 
-VIII. Notificar al Registro Nacional de Personal de Seguridad Pública, sobre las faltas graves sancionadas con destitución que resolviere respecto de los elementos de seguridad pública, en un término de tres días hábiles siguientes a su resolución.
+IX. Conocer y resolver de los recursos de reconsideración y revocación que prevé este Libro.
 
-> <small>(REFORMADO, P.O. 3 DE NOVIEMBRE DE 2008)</small>
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2011)</small>
+
+###### ARTÍCULO 608.
+
+Para dar cumplimiento a las atribuciones de la Comisión de Honor y Justicia previstas en el artículo 607, la Dirección de Asuntos Internos de Seguridad Pública adscrita a la Secretaría del H. Ayuntamiento y Dirección General de Gobierno tendrá las siguientes funciones:
+
+I. Recibir las quejas y denuncias presentadas en relación con la actividad de los integrantes operativos de la Secretaría de Seguridad Pública Municipal.
+
+II. Iniciar el procedimiento de investigación cuando se pretenda condecorar o rendir homenaje a algún integrante operativo de la Secretaría, por actos destacados en la prestación del servicio, mismo que será remitido para su valoración a la Comisión del Servicio Profesional de Carrera Policial.
+
+III. Realizar las investigaciones que correspondan, ya sea de oficio o a petición de cualquier persona, a efecto de determinar la existencia de conductas violatorias a los principios constitucionales y obligaciones, así como la probable responsabilidad de algún integrante operativo, ya sea en servicio, con motivo del mismo o fuera de él;
+
+IV. Allegarse de los elementos jurídicos y de prueba, necesarios, que acrediten la existencia de la violación a los principios constitucionales y obligaciones, así como la probable responsabilidad de algún integrante operativo de la Secretaría. En el ejercicio de su atribución de investigación, la Dirección realizará las diligencias conducentes. Para la integración y determinación ante la Comisión de Honor y Justicia, la Dirección tendrá un término de noventa días hábiles a partir de la presentación de la queja o solicitud de investigación. En caso de que la Comisión de Honor y Justicia regrese un expediente para su perfeccionamiento, el tiempo que lo haya tenido dicha Comisión, no se computará para la prescripción.
+
+V. Practicar visitas de vigilancia únicamente para cerciorarse del cumplimiento de los principios constitucionales y obligaciones, además del respeto a los derechos de los integrantes señalados en el presente Código;
+
+VI. Elaborar manuales de procedimientos y prácticas, así como los programas de inspección a los cuales deberán apegarse los integrantes de la Dirección;
+
+VII. Solicitar por escrito a la Comisión de Honor y Justicia, cuando así se requiera debido a las circunstancias del caso y la naturaleza de la falta que se investiga, la separación temporal de los integrantes operativos sujetos a proceso ante la misma Comisión, en términos del artículo 607 fracción III del presente Código;
+
+VIII. Solicitar al Secretario de Seguridad Pública, durante la integración de la investigación y cuando sea necesario para el desahogo de la misma, el retiro del servicio asignado y puesta a disposición de los integrantes operativos sujetos a investigación.
+
+La puesta a disposición implica la separación de las funciones ordinarias del integrante operativo y la asignación de otras, por parte del Secretario. La Dirección podrá solicitar fundada y motivadamente que al integrante sujeto de investigación se le asigne servicio en cualquiera de las siguientes condiciones:
+
+a) Que la prestación del servicio se realice dentro de las instalaciones de la Secretaría;
+
+b) Que la prestación del servicio se realice en un área distante de la residencia y lugar de trabajo del quejoso;
+
+c) Que el servicio sea asignado para desempeñar una labor administrativa sin el uso de uniforme ni arma, en el interior de las instalaciones de la Secretaría.
+
+La prestación del servicio en dichas condiciones no podrá mantenerse por más de noventa días hábiles aún cuando la investigación no hubiese concluido.
+
+Dicha puesta a disposición no prejuzga sobre la responsabilidad, ni afectará sus derechos como integrante operativo de la Secretaría, debiendo cumplir con sus horarios de servicio, en los lugares designados para tal efecto.
+
+La duración de la puesta a disposición será hasta que finalice el procedimiento de investigación integrado por la Dirección de Asuntos Internos de Seguridad Pública;
+
+IX. Mantener un registro de las quejas, denuncias e investigaciones seguidas ante la Dirección, que deberá contener el nombre, cargo, número de expediente del integrante operativo sujeto a investigación, faltas imputadas, número de investigación, estado de la investigación y, en su caso, la resolución dictada, debiendo informar, en forma mensual, al Secretario del H. Ayuntamiento y Director General de Gobierno y al Secretario de Seguridad Pública;
+
+X. Dar vista al Ministerio Público de los hechos, materia de sus investigaciones que puedan ser constitutivos de delito;
+
+XI. Operar el sistema de seguimiento de ex integrantes operativos de Seguridad Pública;
+
+XII. Emitir y publicar acuerdos para la correcta operación de las áreas que se encuentren bajo su responsabilidad, previa revisión de la Dirección de Asuntos Jurídicos y la autorización respectiva del Secretario del H. Ayuntamiento y Director General de Gobierno;
+
+XIII. Imponer y solicitar medidas de apremio consistentes en apercibimiento, uso de la fuerza pública y arresto hasta por treinta y seis horas, para hacer cumplir sus determinaciones; dichas medidas, serán ejecutadas por el Secretario de Seguridad Pública. Para la imposición de las medidas de apremio no se seguirá un orden específico de prelación;
+
+XIV. Delegar por acuerdo del Secretario del H. Ayuntamiento y Director General de Gobierno, las atribuciones en los responsables de la Dirección, por necesidades del servicio;
+
+XV. Recusar la participación de cualquier integrante de la Comisión de Honor y Justicia, cuando de sus investigaciones se desprendan conflictos de interés, debido a vínculos de amistad, parentesco, negocios, enemistad o animadversión que exista entre el miembro de la Comisión con el integrante operativo o el quejoso; y
+
+XVI. Las demás que le otorgue el Reglamento de la Dirección de Asuntos Internos de Seguridad Pública, las que le indiquen el Presidente Municipal y el Secretario del H. Ayuntamiento y Director General de Gobierno.
+
+Los integrantes operativos de la Secretaría estarán obligados, en todo momento, a colaborar y a proporcionar información a la Dirección de Asuntos Internos de Seguridad Pública en el cumplimiento de sus atribuciones, sin que para ello medie excusa alguna. Los mandos operativos, además del Secretario, serán responsables de que los integrantes operativos a su cargo cumplan con lo anterior. El Director de Asuntos Internos de Seguridad Pública limitará su actuación al riguroso ejercicio de sus funciones, sin interferir en cuestiones operativas.
+
+Asimismo, el Director de Asuntos Internos de Seguridad Pública vigilará que las sanciones impuestas por la Comisión de Honor y Justicia sean aplicadas en los términos de la resolución correspondiente.
+
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2011)</small>
+
+###### ARTÍCULO 609.
+
+La Comisión de Honor y Justicia conocerá de los casos consignados por la Dirección de Asuntos Internos de Seguridad Pública, quien deberá remitir al Secretario Técnico de la Comisión, en un término que no exceda de noventa días hábiles a partir de haber recibido la queja, el expediente integrado con todos los elementos jurídicos y de prueba, junto con el resumen de actuaciones y el acuerdo de remisión, en el cual deberán exponerse los hechos que considere constitutivos de las faltas, las pruebas en las que se basa la acusación y los razonamientos lógico-jurídicos que relacionen los hechos, las pruebas y los principios de actuación y obligaciones infringidos, en el que se determine la materia de la falta y se demuestre la probable responsabilidad del integrante operativo de la Secretaría de Seguridad Pública respecto de la falta que se le imputa.
+
+El Secretario Técnico revisará que existan suficientes elementos que comprueben la probable responsabilidad del integrante operativo en el expediente remitido. Si cumple con dichos elementos, lo radicará en un término no mayor a cinco días hábiles, asignándole el número consecutivo que le corresponda, señalando fecha para que tenga verificativo la audiencia única, en un plazo no mayor a cuarenta y cinco días hábiles a partir de la radicación. En caso contrario, devolverá el expediente en un termino no mayor de cinco días hábiles para que se integren nuevas pruebas, previo acuerdo de la Comisión de Honor y Justicia; en este caso la Dirección de Asuntos Internos tendrá un termino de veinte días hábiles para recabar nuevos elementos probatorios, de no ser así deberá archivarlo en definitivo.
+
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2011)</small>
+
+###### ARTÍCULO 610.
+
+La Comisión de Honor y Justicia seguirá el procedimiento que previene el presente apartado para el trámite de los asuntos de su competencia y cuidando respetar la garantía de audiencia, legalidad y debido proceso que consagra la Constitución Política de los Estados Unidos Mexicanos, de tal modo que se conceda al integrante operativo el derecho a un proceso justo, sujetándose al siguiente procedimiento:
+
+I. El Presidente citará treinta días hábiles antes de la audiencia de la Comisión de Honor y Justicia, a los miembros de ésta y al integrante operativo involucrado, haciéndoles saber la naturaleza y causa del procedimiento a fin de que conozcan los hechos que se le imputan al infractor, corriéndoles traslado con todas las constancias que integran el expediente respectivo y las pruebas que haya, para que el infractor se presente ante la Comisión de Honor y Justicia el día y hora señalados, asistido de quien designe para que lo defienda y asesore, aportando los elementos de prueba que juzgue convenientes, apercibido de que en el caso de no ofrecerlos, presentarlos y desahogarlos en la audiencia única se le tendrán por no ofrecidos; de no comparecer o no justificar la causa legal de su inasistencia se tendrán por ciertos los hechos establecidos por la Dirección de Asuntos Internos de Seguridad Pública, y por perdidos los derechos que pudiera haber ejercitado;
+
+II. Abiertos los trabajos de la audiencia, el Secretario Técnico expondrá a la Comisión de Honor y Justicia los hechos constitutivos de la falta, así como las pruebas que existieren y, si estuviese presente, se concederá el uso de la voz al integrante operativo de seguridad pública a efecto de que, de considerarlo pertinente, manifieste su versión de los hechos;
+
+III. Dentro de la Comisión, el Secretario Técnico, requerirá a la Dirección de Asuntos Internos de Seguridad Pública y al integrante operativo de seguridad pública para que, en este orden, ofrezcan los medios de prueba que consideren necesarios. Se les admitirán toda clase de pruebas, siempre que puedan ser desahogadas dentro de la audiencia única, excepto la confesional de la autoridad y las que fueren en contra del derecho, la moral y las buenas costumbres;
+
+IV. Cuando las pruebas admitidas dentro del procedimiento requieran de un desahogo especial, los costos y la aportación de los medios para su desahogo serán responsabilidad de quienes las ofrezcan, por lo que el incumplimiento o falta de preparación o la voluntad de tercero que hagan imposible el desahogo en el día y hora de la audiencia única será causa suficiente para declarar desierta la prueba, salvo que en el transcurso del procedimiento y hasta antes del cierre de la instrucción, aparecieren pruebas supervinientes.
+
+En materia de pruebas, para las reglas específicas de ofrecimiento y desahogo de pruebas, será aplicable, en forma supletoria, la Legislación Penal del Estado de Aguascalientes, en lo que no contradiga el presente procedimiento;
+
+V. Una vez desahogadas las pruebas, inmediatamente la Dirección de Asuntos Internos de Seguridad Pública procederá a formular, de manera verbal sus conclusiones y determinará la sanción que solicita. El integrante operativo deberá expresar, en forma verbal, los alegatos que a su derecho convengan, de forma inmediata a las conclusiones rendidas por parte de la Dirección. Posterior a la rendición de conclusiones y alegatos, la Comisión de Honor y Justicia declarará cerrada la instrucción del procedimiento;
+
+VI. Después de cerrada la instrucción y en la misma audiencia, la Comisión de Honor y Justicia, por conducto de su Presidente, emitirá su resolución declarando demostradas, o no demostradas, la falta y la responsabilidad del integrante operativo, la cual no podrá ser modificada una vez emitida en la audiencia única. A continuación, el Presidente declarará concluida la audiencia y comunicará al integrante que la resolución escrita, fundada y motivada, en la que se establecerá la sanción, le será notificada en un término no mayor a diez días hábiles. La resolución debidamente fundada y motivada, contendrá la exposición del hecho constitutivo de la falta, las razones por las que se consideró probada la responsabilidad del integrante en su comisión y, tomando en consideración la falta cometida, antigüedad, la jerarquía del integrante operativo y las pruebas desahogadas, la sanción aplicada. La resolución será firmada por todos los integrantes de la Comisión y notificada personalmente al infractor, se remitirá copia certificada a la Dirección de Asuntos Internos y a la Secretaría de Seguridad Pública, para que realice las anotaciones correspondientes en el expediente del integrante operativo y ejecute la sanción;
+
+VII. La Comisión de Honor y Justicia levantará constancia por escrito de todo lo actuado en la audiencia única, o bien, lo registrará por métodos de grabación de audio y video; en este supuesto dichas grabaciones tendrán el valor de prueba para todos los efectos legales.
+
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2011)</small>
+
+###### ARTÍCULO 611.
+
+En el momento de la citación para la audiencia única, el notificador requerirá al o los integrantes operativos para que designe domicilio para oír y recibir notificaciones, apercibiéndosele de que, en caso de no designar, no ser cierto el domicilio señalado o no dar aviso del cambio, las subsiguientes notificaciones, aún las de carácter personal, le serán hechas en los estrados del Palacio Municipal.
+
+También podrán hacerse notificaciones al abogado del integrante operativo cuando en autos haya sido facultado para tal efecto. La facultad de recibir notificaciones autoriza al abogado designado para ello, para realizar promociones de mero trámite, ofrecer y rendir pruebas y alegar en la audiencia única.
+
+A las notificaciones derivadas del presente procedimiento le será aplicable lo dispuesto por el apartado de notificaciones establecido en la Legislación Penal del Estado de Aguascalientes, en lo que no contravenga el presente procedimiento.
+
+En caso de que el integrante operativo se negare a firmar la notificación, el notificador podrá dar fe de dicha conducta y así asentarlo en la cédula de notificación. Dicha negativa no afectará la validez de la notificación realizada.
+
+Ésta disposición será aplicable a cualquiera de las notificaciones que se realicen durante el procedimiento previsto en este Apartado.
+
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2011)</small>
+
+###### ARTÍCULO 612.
+
+La resolución de responsabilidad y la aplicación de sanciones serán tomadas por la Comisión de Honor y Justicia, por mayoría de votos de los presentes, la votación en el seno de la Comisión, será de manera abierta y razonada por sus integrantes, el Presidente tendrá voto de calidad en caso de empate. Para la declaración del quórum legal será necesaria la presencia de seis integrantes con voto, de lo contrario no se podrá llevar a cabo la audiencia única.
+
+Las atribuciones de la Comisión de Honor y Justicia se ejercerán sin perjuicio de las que correspondan al Presidente Municipal, al Secretario del H. Ayuntamiento y Director General de Gobierno, al Secretario de Seguridad Pública, al Contralor Municipal y a las autoridades correspondientes.
+
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2011)</small>
+
+###### ARTÍCULO 613.
+
+El Secretario Técnico dirigirá el desarrollo de la audiencia única y dictará los acuerdos de mero trámite en la misma, cuidando en todo momento el cumplimiento de las formalidades esenciales, de igual manera cuenta con atribuciones para certificar toda clase de documentos que obren en los archivos de la Coordinación de Honor y Justicia.
+
+Contra las determinaciones dictadas por el Secretario Técnico durante la audiencia única, procederá la interposición de incidentes para revocar dichas determinaciones de manera verbal, en forma inmediata al acto que lo motiva y se resolverá sin sustanciación alguna, por el Presidente de la Comisión; contra la resolución del incidente no habrá recurso alguno.
+
+> <small>(ADICIONADO, P.O. 8 DE AGOSTO DE 2011)</small>
+
+### CAPÍTULO III. De la Comisión de Normatividad Interna
+
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2011)</small>
+
+###### ARTÍCULO 614.
+
+La Comisión del Servicio Profesional de Carrera Policial es una instancia colegiada de carácter independiente en su funcionamiento, permanente e imparcial, que se encarga de vigilar la ejecución de los procesos y procedimientos del Servicio Profesional de Carrera Policial.
+
+Para su funcionamiento, se integrará por miembros honorarios de la siguiente manera:
+
+I. Un Presidente, que será el Regidor Presidente de la Comisión de Seguridad Pública del H. Ayuntamiento, con derecho a voz y voto de calidad;
+
+II. Un Secretario Técnico, que contará sólo con voz y será el Coordinador de Seguimiento de Carrera Policial;
+
+III. Ocho vocales con derecho a voz y voto:
+
+a) Director de Profesionalización;
+
+b) Dos integrantes de la Dirección de Policía Preventiva, uno de ellos con estudios de nivel superior, perteneciente en su caso, a la unidad operativa de investigación y otro con nivel de escolaridad media básica, perteneciente en su caso, a la unidad operativa de reacción. Ambos deberán contar con al menos cinco años continuos de servicio en la Secretaría;
+
+c) Un integrante de la Dirección de Tránsito y Movilidad que posea nivel de escolaridad media superior, perteneciente en su caso a la unidad operativa de prevención, con al menos cinco años de servicio;
+
+d) Dos integrantes de la Comisión de Seguridad Pública, que serán elegidos democráticamente al interior de la misma; y
+
+e) Dos representantes del Consejo Municipal de Consulta y Participación ciudadana, los cuales serán elegidos democráticamente por los integrantes de dicho órgano.
+
+Esta comisión sesionará con la presencia del Presidente y al menos la mitad más uno de sus vocales. Cada miembro de la Comisión podrá designar, por escrito, a un representante para que lo supla en las sesiones, los que deberán pertenecer a las mismas áreas y cubrir en su caso, los mismos requisitos.
+
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2011)</small>
+
+###### ARTÍCULO 615.
+
+La Comisión, contará con las siguientes atribuciones:
+
+I. Participar en la valoración para determinar el otorgamiento de estímulos a los integrantes;
+
+II. Determinar sobre la permanencia o conclusión del servicio de los integrantes, en base a los requisitos y las formalidades establecidos en los instrumentos normativos aplicables;
+
+III. Determinar sobre las evaluaciones del desempeño;
+
+IV. Procurar que se cumplan los fines de la carrera policial;
+
+V. Evaluar la aplicación de los procedimientos del Servicio Profesional de Carrera Policial;
+
+VI. Examinar los expedientes de los candidatos que aspiran a la formación inicial, para determinar su ingreso o no;
+
+VII. Examinar los expedientes de los integrantes de la institución, a fin de determinar los ascensos de grado y jerarquías correspondientes;
+
+VIII. Aprobar las convocatorias para los procesos de ingreso y promoción;
+
+IX. Solicitar a la Dirección de Profesionalización, los informes sobre los avances de implementación y cumplimiento de los procedimientos del Servicio Profesional de Carrera Policial;
+
+X. Recomendar ajustes, cuando así lo considere pertinente, sobre los procedimientos, programas, acciones y medidas relacionadas con la operación del Servicio de Carrera;
+
+XI. Conocer y resolver sobre el otorgamiento de constancias de grado jerárquico, cumpliendo escrupulosamente con las formalidades de los procedimientos;
+
+XII. Revisar anualmente los resultados del Servicio Profesional de Carrera Policial, expuestos por la Dirección de Profesionalización;
+
+XIII. Sugerir a la Dirección de Profesionalización programas y actividades académicas para el óptimo desarrollo de los procedimientos de formación inicial y continua, y evaluación para la permanencia de los integrantes de la Secretaría;
+
+XIV. Informar al Secretario de aquellos aspectos del Servicio de Carrera, que por su importancia lo ameriten;
+
+XV. Coordinarse con las demás autoridades e instituciones relacionadas con el Servicio Profesional de Carrera Policial para su mejor funcionamiento;
+
+XVI. Fomentar la vocación de servicio mediante la promoción y permanencia entre los integrantes de la Secretaría, para satisfacer las expectativas de desarrollo profesional del personal; y
+
+XVII. Las demás que de manera implícita o explícita le confieran los instrumentos legales aplicables.
+
+> <small>(ADICIONADO, P.O. 8 DE AGOSTO DE 2011)</small>
+
+### CAPÍTULO ÚNICO. De las Obras de Urbanización
+
+###### ARTÍCULO 616.
+
+La Comisión de Normatividad Interna tendrá la obligación de desarrollar, emitir, actualizar, modificar y derogar los manuales administrativos y de operación a que alude el presente Código y los reglamentos correspondientes.
+
+Para tal efecto estará conformada de la siguiente forma:
+
+I. Un Consejero Presidente que será el Secretario de Seguridad Pública, quien contará con voz y voto de calidad;
+
+II. Un Secretario Técnico. Que será el Coordinador de Asuntos Jurídicos;
+
+III. Ocho Consejeros que serán los siguientes:
+
+a) El Regidor Presidente de la Comisión de Seguridad Pública;
+
+b) El Director de Estado Mayor;
+
+c) El Director de Policía Preventiva;
+
+d) El Director de Tránsito y Movilidad;
+
+e) El Director de Profesionalización;
+
+f) El Director de Prevención del Delito;
+
+g) El Director de Asuntos Internos; y
+
+h) Un integrante designado por el titular del Consejo Municipal de Consulta y Participación Ciudadana.
+
+Dichos consejeros contarán con voz y voto, cuya función principal será la de participar en las sesiones para el análisis, discusión y en su caso aprobación de los instrumentos sometidos a su consideración por parte del órgano técnico normativo permanente.
+
+IV. Nueve Vocales que serán nombrados por cada uno de los consejeros, los cuales conformarán el órgano técnico normativo permanente de esta comisión, contando sólo con voz en las sesiones y tendrán como función principal, el desarrollo de los distintos instrumentos. Para su funcionamiento serán coordinados por el secretario técnico.
+
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2011)</small>
 
 ###### ARTÍCULO 617.
 
-La Comisión de Honor y Justicia conocerá de los casos consignados por la Dirección de Asuntos Internos de Seguridad Pública y Tránsito o el Secretario de Seguridad Pública y Tránsito Municipal, quien deberá remitir al Secretario Técnico de la Comisión, en un término de treinta días naturales a partir de haber recibido la queja o iniciado las investigaciones correspondientes, el expediente integrado con todos los elementos jurídicos y de prueba, junto con el resumen de actuaciones y el acuerdo de remisión, en el cual deberán exponerse los hechos que considere constitutivos de las faltas, las pruebas en los que se base la acusación y los razonamientos lógico-jurídicos que relacionen los hechos, las pruebas y los principios de actuación infringidos, en el que se determine la materia de la falta y se demuestre la plena responsabilidad del elemento de seguridad pública respecto de la falta que se le imputa.
+Para ser vocal del órgano técnico normativo permanente, representante del Secretario y de las diferentes Direcciones del se requiere:
 
-El Secretario Técnico revisará que existan suficientes elementos que comprueben la probable responsabilidad del elemento en el expediente remitido. Si cumple con dichos elementos, lo radicará en un término no mayor a cinco días hábiles, lo radicará asignándole el número consecutivo que le corresponda, señalando fecha para que tenga verificativo la audiencia de inicio. En caso contrario, devolverá el expediente para que se integren nuevas pruebas, previo acuerdo de la Comisión de Honor y Justicia.
+I. Contar con estudios a nivel superior.
 
-> <small>(REFORMADO, P.O. 3 DE NOVIEMBRE DE 2008)</small>
+II. Tener como mínimo dos años de experiencia en Seguridad Pública.
+
+III. Acreditar las evaluaciones que sean elaboradas por la Secretaría Técnica en coordinación con la Dirección de Profesionalización.
 
 ###### ARTÍCULO 618.
 
-La Comisión de Honor y Justicia seguirá el procedimiento que previene el presente apartado para el trámite de los asuntos de su competencia y cuidando respetar la garantía de audiencia, legalidad y debido proceso que consagra la Constitución Política de los Estados Unidos Mexicanos, de tal modo que se conceda al elemento de seguridad pública el derecho a un proceso justo, sujetándose al siguiente procedimiento:
+La Comisión de Normatividad Interna sesionará en pleno de manera ordinaria una vez cada tres meses y de manera extraordinaria cuando sea necesario.
 
-I. El Presidente citará cuando menos tres días antes de la audiencia de la Comisión de Honor y Justicia, al elemento o elementos involucrados, haciéndoles saber la naturaleza y causa del procedimiento a fin de que conozca los hechos que se le imputan corriéndole traslado con todas las constancias que integran el expediente respectivo y las pruebas que haya en su contra, para que se presente ante la Comisión de Honor y Justicia, aportando los elementos de prueba que juzgue convenientes, apercibido de que, en caso de no comparecer o no justificar la causa legal de su inasistencia, se tendrán por ciertos los hechos establecidos por la Dirección de Asuntos Internos de Seguridad Pública y Tránsito, y por perdidos, .los derechos que pudiera haber ejercitado.
+El órgano técnico permanente estará obligado a realizar sus trabajos de manera cotidiana, deberá rendir un informe en cada sesión ordinaria y los que le fuesen requeridos por los consejeros.
 
-II. Abiertos los trabajos de la sesión de inicio, el Secretario Técnico expondrá a la Comisión de Honor y Justicia los hechos constitutivos de la falta, así como las pruebas que existieren y, si estuviese presente, se concederá el uso de la voz al elemento de seguridad pública a efecto de que, de considerarlo pertinente, manifieste su versión de los hechos, pudiendo los miembros de la Comisión de Honor y Justicia formular las preguntas que juzguen procedentes.
+Se requerirá para su funcionamiento cuando menos la presencia del Presidente y del Secretario Técnico, así como de cinco consejeros y cinco vocales. Las decisiones serán válidas cuando se tomen por mayoría de votos de los presentes.
 
-III. Dentro de la de (sic) Comisión, el Secretario Técnico, requerirá al elemento de seguridad pública y a la Dirección de Asuntos Internos de Seguridad Publica para que ofrezcan los medios de prueba que considere necesarios. Se les admitirán toda clase de pruebas, siempre que puedan ser desahogadas dentro de la audiencia, excepto la confesional de la autoridad y las que fueren en contra del derecho, la moral y las buenas costumbres. Su desahogo no podrá exceder de los diez días hábiles siguientes a su ofrecimiento.
+La normatividad interna que al efecto se aprobare, surtirá efectos a los cinco días siguientes al día en que queden fijados en los estrados de avisos de la Secretaría de Seguridad Pública, o de aquel medio de difusión que baste para ser conocidos por el personal de la Secretaría.
 
-IV. Cuando las pruebas admitidas dentro del procedimiento requieran de un desahogo especial, los costos y la aportación de los medios para su desahogo serán responsabilidad de quienes las ofrezcan, por lo que el incumplimiento o falta de preparación o la voluntad de tercero que hagan imposible el desahogo en el día y hora de la audiencia que se hayan designado para tal efecto será causa suficiente para declarar desierta la prueba ofertada.
+> <small>(ADICIONADO, P.O. 8 DE AGOSTO DE 2011)</small>
 
-En materia de pruebas, para las reglas específicas de ofrecimiento y desahogo de pruebas, será aplicable, en forma supletoria, la Legislación Penal del Estado de Aguascalientes, en lo que no contradiga el presente procedimiento.
+## TÍTULO QUINTO. Del Consejo Municipal de Consulta y Participación Ciudadana
 
-V. Una vez desahogadas las pruebas, inmediatamente la Dirección de Asuntos Internos de Seguridad Publica y Tránsito procederá a formular, de manera verbal o por escrito, sus conclusiones y determinará la sanción que solicita. El elemento de seguridad pública podrá presentar, en forma verbal o por escrito, los alegatos que a su derecho convengan, de forma inmediata a las conclusiones rendidas por parte de la Dirección. Posterior a la rendición de conclusiones y alegatos, la Comisión de Honor y Justicia declarará cerrada la instrucción del procedimiento.
-
-VI. La Comisión de Honor y Justicia levantará constancia por escrito de todo lo actuado en las audiencias.
-
-VII. La Comisión de Honor y Justicia dictará su resolución debidamente fundada y motivada, tomando en consideración la falta cometida, la jerarquía del elemento y las pruebas desahogadas, dentro de los cinco días hábiles siguientes al cierre de la instrucción y la notificará personalmente al presunto infractor. Debiendo notificar personalmente su resolución al elemento de seguridad pública en un término no mayor a cinco días.
-
-VIII. Las resoluciones de la Comisión de Honor y Justicia no admitirán recurso alguno y se agregarán a los expedientes de los elementos de seguridad pública.
-
-> <small>(REFORMADO, P.O. 3 DE NOVIEMBRE DE 2008)</small>
-
-## TÍTULO CUARTO. PROYECTO ARQUITECTÓNICO
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2011)</small>
 
 ###### ARTÍCULO 619.
 
-En el momento de la citación, el notificador requerirá al o los elementos de seguridad pública para que designe domicilio para oír y recibir notificaciones, apercibiéndosele de que, en caso de no designar, no ser cierto el domicilio señalado o no dar aviso del cambio, las subsiguientes notificaciones aún las de carácter personal le serán hechas en los estrados del Palacio Municipal.
+El Consejo Municipal de Consulta y Participación Ciudadana tendrá como finalidad fomentar la participación de la sociedad civil, en colaboración con las instancias públicas respectivas, en la planeación, elaboración, evaluación y supervisión de las actividades en materia de seguridad pública, que se lleven a cabo en sus ámbitos de competencia, de acuerdo con este Código y los reglamentos correspondientes.
 
-También podrán hacerse notificaciones al abogado del elemento de seguridad pública cuando en autos haya sido facultado para tal efecto. La facultad de recibir notificaciones autoriza al abogado designado para ello para realizar promociones de mero trámite, ofrecer y rendir pruebas y alegar en la audiencia.
+El Consejo Municipal de Consulta y Participación Ciudadana, se conformará, por los siguientes integrantes:
 
-A las notificaciones derivadas del presente procedimiento le será aplicable lo dispuesto por el apartado de de notificaciones establecido en la Legislación Penal del Estado de Aguascalientes.
+I. Un Presidente, que será el Presidente Municipal. En todo momento podrá delegar la Presidencia en cualquier integrante de la Secretaría y contará con voz y voto de calidad;
 
-En caso de que el elemento de seguridad pública se negare a firmar la notificación, el notificador podrá dar fe de dicha conducta y así asentarlo en la cédula de notificación. Dicha negativa no afectará la validez de la notificación realizada.
+II. Un Consejero Técnico, que será el Secretario de Seguridad Pública y contará con voz y voto;
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE ENERO DE 2010)</small>
+III. Tres Consejeros Ciudadanos, designados por la mayoría calificada del H. Cabildo, de entre los propuestos por los diferentes sectores de la sociedad civil que atiendan a la convocatoria que se emita, y que deberán nombrarse considerando su reputación, participación e interés mostrado en materia de seguridad pública; contarán con voz y voto; y
+
+IV. Un Secretario Técnico, nombrado por el Presidente del Consejo Municipal de Consulta y Participación Ciudadana, el cual contará sólo con voz.
+
+Los consejeros y el Secretario Técnico podrán designar un suplente para que los represente en las sesiones.
+
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2011)</small>
 
 ###### ARTÍCULO 620.
 
-Las decisiones de la Comisión de Honor y Justicia se tomarán por mayoría simple de votos de los miembros presentes, misma mayoría que deberá presentarse para decretar la existencia de quórum en cualquier sesión, La (sic) votación en el seno de la Comisión, será de manera abierta y razonada por sus integrantes, únicamente en caso de empate, el Presidente tendrá voto de calidad y los fallos que emitan serán inapelables y no admitirán recurso alguno.
+La vigencia en las funciones de los miembros del Consejo Municipal de Consulta y Participación Ciudadana a que se refiere este Código subsistirá, para los servidores públicos, el tiempo que permanezcan en el cargo. Los Consejeros Ciudadanos podrán mantenerse en su encargo hasta seis meses posteriores al inicio del nuevo periodo de gobierno, tiempo en el cual podrán ser ratificados o designados otros que los sustituyan.
 
-Las facultades de la Comisión de Honor y Justicia se ejercerán sin perjuicio de las que correspondan al Presidente Municipal, al Secretario del H. Ayuntamiento y Director General de Gobierno, al Secretario de Seguridad Pública y Tránsito Municipal y al Contralor Municipal.
-
-El Secretario Técnico conocerá de la instrucción de cada asunto, pudiendo dictar los acuerdos de mero trámite, resolviendo en dicho periodo y dirigiendo el desarrollo de la sesión y cuidando en todo momento el cumplimiento de las formalidades esenciales.
-
-> <small>(ADICIONADO, P.O. 11 DE ENERO DE 2010)</small>
-
-El Secretario Técnico tendrá la facultad de expedir copias certificadas respecto de cualquier documento o constancia que obre dentro de los expedientes que sean consignados a la Comisión de Honor y Justicia.
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2011)</small>
 
 ###### ARTÍCULO 621.
 
-Contra las determinaciones dictadas por el Secretario Técnico durante la instrucción, procederá el recurso de revocación que se interpondrá en la misma sesión de la que se trate. Resolviéndolo de plano el Secretario Técnico y contra el auto que decida sobre la revocación no habrá recurso alguno.
+Es competencia del Consejo Municipal de Consulta y Participación Ciudadana:
+
+I. Promover la participación organizada de la sociedad, en actividades relacionadas con la seguridad pública;
+
+II. Establecer un sistema permanente que permita identificar la percepción de seguridad de la ciudadanía, del que puedan desprenderse conclusiones acerca de los puntos que deban atender las autoridades en seguridad pública para mejorar la percepción del ciudadano;
+
+III. Integrar un sistema de seguimiento y evaluación de las actividades que se realicen en el marco de los programas de seguridad pública y de prevención del delito;
+
+IV. Formular propuestas para la elaboración de los programas de seguridad pública, así como la evaluación periódica de estos y otros relacionados;
+
+V. Evaluar la situación de la seguridad pública en el Municipio y proponer las acciones tendientes a su mejoramiento;
+
+VI. Evaluar con objetividad el comportamiento, eficiencia y preparación de los integrantes operativos de la Secretaría, su operación y funcionamiento en general, todo esto dirigido a propiciar mejores condiciones de seguridad en el Municipio;
+
+VII. Elaborar propuestas de reformas a leyes, este Código, reglamentos y manuales en materia de seguridad pública, mismas que podrán ser presentadas ante el órgano correspondiente por medio de los sujetos legitimados para ello; y
+
+VIII. Ejercer las demás atribuciones que sean necesarias para cumplir los objetivos de este Código.
+
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2011)</small>
 
 ###### ARTÍCULO 622.
 
-El Departamento de Bomberos es un cuerpo de la Secretaría del H. Ayuntamiento y Dirección General de Gobierno, dependiente de la Dirección Municipal de Protección Civil, Bomberos y Atención a Emergencias Prehospitalarias.
+El Departamento de Bomberos es un cuerpo de la Secretaría del H. Ayuntamiento y Dirección General de Gobierno, dependiente de la Dirección Municipal de Protección Civil, Bomberos y Atención a Emergencias Pre hospitalarias, auxiliar de la Secretaría de Seguridad Pública.
 
 APARTADO PRIMERO
 
@@ -8107,7 +8463,9 @@ El Jefe del Departamento de Bomberos será designado por el Presidente Municipal
 
 El titular del Departamento de Bomberos o quien lo sustituya en sus ausencias en coordinación con Protección Civil tendrá facultades para solicitar el auxilio de las fuerzas de Seguridad Pública en los casos de siniestro, actuando estas fuerzas como auxiliares de los bomberos, cuidando de ejercer estricta vigilancia para impedir que el público que acude curiosamente a los incendios u otras maniobras obstruya las labores de los bomberos, efectuando una vigilancia completa y eficaz para que la maquinaria, equipo y herramientas que se utilicen no sea robada o dañada.
 
-Cuidará también que los automovilistas no crucen con sus vehículos por encima de las mangueras de servicio o cuando esto ocurra, los elementos de la Secretaria de Seguridad Pública y Tránsito Municipal detendrá al o a los automovilistas, poniéndolos a disposición del Juez Calificador para que sean consignados a la Autoridad correspondiente.
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2011)</small>
+
+Cuidará también que los automovilistas no crucen con sus vehículos por encima de las mangueras de servicio o cuando esto ocurra, los integrantes operativos de la Secretaria de Seguridad Pública detendrá al o a los automovilistas, poniéndolos a disposición del Juez Municipal para que sean consignados a la Autoridad correspondiente.
 
 Las autoridades que colaboren con los bomberos, estarán en su caso bajo la Dirección del 1er Superintendente o por quien designe éste.
 
@@ -8121,7 +8479,9 @@ I. El Presidente Municipal de Aguascalientes;
 
 II. El Secretario del H. Ayuntamiento y Director de General de Gobierno;
 
-III. El Secretario de Seguridad Pública y Tránsito Municipal;
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2011)</small>
+
+III. El Secretario de Seguridad Pública;
 
 > <small>(REFORMADA, P.O. 31 DE ENERO DE 2011)</small>
 
@@ -8133,9 +8493,11 @@ V. El Jefe del Departamento de Emergencias 080.
 
 Con el objetivo de que el Servicio de Emergencia 080 proporcione a la ciudadanía sus servicios, el personal laborará los 365 días del año las 24 horas, conforme al rol de turno que determine la Secretaría.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE AGOSTO DE 2011)</small>
+
 ###### ARTÍCULO 628.
 
-El personal que integra el Servicio de Emergencia 080, deberá asistir a los cursos y programas de capacitación que convoque la Secretaría, Dirección de Seguridad Civil o la Jefatura del Departamento y los que sean mencionados en el plan interno de capacitación, tomando en cuenta las siguientes formas de capacitación dentro del sistema de emergencia 080:
+El personal que integra el Servicio de Emergencia 080, deberá asistir a los cursos y programas de capacitación que convoquen la Secretaria de Seguridad Pública, la Dirección Municipal de Protección Civil, Bomberos y Atención a Emergencias Pre hospitalarias o la Jefatura del Departamento y los que sean mencionados en el plan interno de capacitación, tomando en cuenta las siguientes formas de capacitación dentro del sistema de emergencia 080:
 
 a) Cursos obligatorios de Capacitación para el desempeño: Aquellos cursos que son necesarios para el desarrollo eficiente de su trabajo incrementando la capacidad de los empleados municipales asignados al servicio para la realización de las actividades y funciones del puesto que actualmente ocupan, los cuales pueden ser otorgados por el mismo departamento o por una institución o persona ajena a éste.
 
@@ -8147,7 +8509,7 @@ Queda a consideración de los superiores jerárquicos que correspondan, el otorg
 
 # LIBRO SEXTO. DE LAS CONSTRUCCIONES EN EL MUNICIPIO DE AGUASCALIENTES
 
-## TÍTULO QUINTO. REQUISITOS ESTRUCTURALES
+## TÍTULO PRIMERO. DISPOSICIONES GENERALES
 
 ###### ARTÍCULO 629.
 
@@ -8229,7 +8591,7 @@ No deberán usarse los edificios o predios de manera que resulte violatorio de l
 
 El ejecutar o autorizar alguna obra dentro del Municipio sin sujetarse a los preceptos de este Libro, es proceder ilegalmente y motivará las sanciones que para el efecto indique el Título correspondiente.
 
-### CAPÍTULO II. Espacios sin Construir
+### CAPÍTULO I. De los Peritos
 
 ###### ARTÍCULO 633.
 
@@ -8265,9 +8627,9 @@ Será requisito indispensable haber obtenido la constancia de terminación de la
 
 ARTÍCULOS (SIC) 635.- La documentación necesaria y requisitos para la autorización de la licencia de construcción de obra de urbanización se encuentra detallada en el apartado de requisitos para licencias de construcción de este Código y como se indica, el proyecto correspondiente deberá cumplir con las condiciones, especificaciones y normas técnicas vigentes que se indiquen por parte de cada una de las instancias y/o dependencias correspondientes.
 
-## TÍTULO SEXTO. EJECUCIÓN DE OBRAS
+## TÍTULO SEGUNDO. DE LOS PERITOS Y DE LAS LICENCIAS DE CONSTRUCCIÓN
 
-### CAPÍTULO III. Circulaciones en las Construcciones
+### CAPÍTULO II. De las Licencias de Construcción
 
 ###### ARTÍCULO 636.
 
@@ -8647,7 +9009,7 @@ La Secretaría dará aviso de la suspensión al Colegio de Profesionistas respec
 
 La suspensión se dictará por un lapso de tres meses a tres años o en casos extremos, podrá ser definitiva sin liberar al perito de la obligación de subsanar las irregularidades en que haya incurrido e independientemente de las sanciones administrativas o multas que le fuesen impuestas.
 
-### CAPÍTULO IV. Accesos y Salidas
+### CAPÍTULO III. De La Autoconstrucción
 
 ###### ARTÍCULO 647.
 
@@ -8807,7 +9169,7 @@ III. Para obras de beneficio social que se realicen en fraccionamientos populare
 
 IV. Cuando la Secretaría lo requiera.
 
-### CAPÍTULO V. Previsiones Contra Incendio
+### CAPÍTULO I. De las Licencias de Construcción
 
 ###### ARTÍCULO 653.
 
@@ -8847,9 +9209,9 @@ Se tendrá opción a solicitar a la Secretaría, dentro del plazo de vigencia de
 
 En las zonas que tengan un valor artístico, histórico y/o cultural determinadas por las autoridades correspondientes, no podrán ejecutarse nuevas construcciones, obras, demoliciones o instalaciones de cualquier naturaleza sin la previa autorización de la Secretaría y el dictamen del Instituto Nacional de Antropología e Historia, así como el haber cumplido con la Ley de Protección y Fomento del Patrimonio Cultural del Estado de Aguascalientes.
 
-## TITULO SÉPTIMO. USO, OPERACIÓN Y MANTENIMIENTO
+## TÍTULO TERCERO. DE LOS REQUISITOS PARA LICENCIAS DE CONSTRUCCIÓN
 
-### CAPÍTULO VI. Instalaciones Hidráulicas y Sanitarias
+### CAPÍTULO II. De los Requisitos para Otorgamiento de Licencia de Construcción para casas Habitación
 
 ###### ARTÍCULO 656.
 
@@ -8871,7 +9233,7 @@ Los propietarios de fincas que se encuentren afectadas en su estructura por disc
 
 Los propietarios de fincas que se encuentra en un conjunto o inmueble sujeto al régimen de propiedad en condominio, para cualquier tipo de obra deberá presentarse un oficio de autorización y los planos del proyecto en dos tantos sellados y firmados por la administración del condominio o asamblea de condóminos legalmente constituida.
 
-### CAPÍTULO VII. Instalaciones Eléctricas, Mecánicas y Especiales
+### CAPÍTULO III. De los Requisitos para Otorgamiento de Licencias de Construcción de Edificios de Usos Distintos al Habitacional Mayores de Sesenta Metros Cuadrados Construidos
 
 ###### ARTÍCULO 661.
 
@@ -8979,7 +9341,7 @@ VI. Memoria descriptiva indicando las características de los acabados, compleme
 
 VII. Plano y Memoria eléctrica debidamente signado por Perito Especializado en Instalaciones Eléctricas.
 
-### CAPÍTULO VIII. Visibilidad en Espectáculos
+### CAPÍTULO IV. De los Requisitos para Otorgamiento de Licencia de Construcción para Estaciones de Servicio o Gasolinerías
 
 ###### ARTÍCULO 664.
 
@@ -9053,7 +9415,7 @@ g) Memoria de cálculo referente a instalaciones eléctricas que den cumplimient
 
 h) Dictamen de Impacto Vial, Dictamen de Impacto Urbano, Dictamen de Impacto Ambiental y visto bueno del Subcomité de Transito y Análisis Vial en los casos que la Secretaría considere convenientes.
 
-### CAPÍTULO IX. Edificación para Habitación
+### CAPÍTULO V. De los Requisitos para Otorgamiento de Licencia para Demolición
 
 ###### ARTÍCULO 665.
 
@@ -9109,7 +9471,7 @@ f) Plano y memoria de cálculo referente a instalaciones eléctricas que den cum
 
 g) Dictamen de Impacto Vial, Dictamen de Impacto Urbano, Dictamen de Impacto Ambiental y visto bueno del Subcomité de Tránsito y Análisis Vial en los casos que la Secretaría considere convenientes.
 
-### CAPÍTULO X. Edificación para Comercios y Oficinas
+### CAPÍTULO VI. De los Requisitos para Otorgamiento de Licencias para Ocupar y Realizar Obras en la Vía Pública
 
 ###### ARTÍCULO 666.
 
@@ -9137,7 +9499,7 @@ No se permitirá realizar obras de rebaje o demolición de muros medianeros.
 
 Entiéndase por muros medianeros los que, en común a dos predios colindantes los divide y en ocasiones sostiene techumbres de ambas fincas.
 
-### CAPÍTULO XI. Edificación para Educación
+### CAPÍTULO VII. De la Ocupación o Habitabilidad de las Construcciones
 
 ###### ARTÍCULO 667.
 
@@ -9199,7 +9561,7 @@ VII. Dos copias de Planos del Proyecto autorizado por las siguientes instancias 
 
 VIII. Al término de la Obra de Urbanización deberá tramitar Constancia de Terminación de Obra, con la consecuente recepción de las instancias municipales correspondientes a la Secretaría de Obras Públicas, la Comisión Ciudadana de Agua Potable y Alcantarillado del Municipio de Aguascalientes y la Secretaría de Servicios Públicos; sin esta constancia no podrá proceder a la venta de lotes y/o construcción de fincas, para posteriormente municipalizar las obras de urbanización o en su caso constituir el Régimen de Propiedad en Condominio.
 
-### CAPÍTULO XII. Edificación para Hospitales o Clínicas
+### CAPÍTULO I. Generalidades
 
 ###### ARTÍCULO 671.
 
@@ -9221,9 +9583,9 @@ IV. El Código Urbano para el Estado de Aguascalientes; y
 
 V. Cuando se demuestre que la obra cumple con este Libro y los demás ordenamientos legales respectivos, la Secretaría podrá conceder el registro de obra ejecutada al propietario, quien deberá presentar la documentación que se requiere para la regularización de la Licencia de Construcción, conforme a los instructivos de trámite que se indican en el Título tercero (sic) este Libro, exceptuando la presentación de la Bitácora de Obra.
 
-## TÍTULO OCTAVO. DE LA REGLAMENTACIÓN PARA LA AUTORIZACIÓN, CONTROL Y VIGILANCIA DE LOS USOS DE SUELO
+## TÍTULO CUARTO. PROYECTO ARQUITECTÓNICO
 
-### CAPÍTULO XIII. Edificación Para Industrias
+### CAPÍTULO II. Espacios sin Construir
 
 ###### ARTÍCULO 673.
 
@@ -9961,7 +10323,7 @@ Todo lo no contemplado en este libro se observara en lo contenido en la Norma Of
 
 Los edificios de uso público deberán contar con buzones en sus accesos, únicamente para recibir correspondencia, accesibles desde el exterior.
 
-### CAPÍTULO XIV. Edificación para Centros de Reunión
+### CAPÍTULO III. Circulaciones en las Construcciones
 
 ###### ARTÍCULO 679.
 
@@ -10035,7 +10397,7 @@ La separación entre edificios de cualquier uso menores a 12 metros de altura pa
 
 La separación entre edificios de cualquier uso mayores a 12 metros de altura partiendo del nivel de banqueta, entre éstos y cualquier construcción, la separación entre edificios en dirección norte-sur será por lo menos el cincuenta por ciento de la altura promedio de los mismos, en dirección este-oeste será por lo menos del veinte por ciento o lo establecido en el programa de desarrollo urbano vigente.
 
-### CAPÍTULO XV. Edificación para Mercados
+### CAPÍTULO IV. Accesos y Salidas
 
 ###### ARTÍCULO 684.
 
@@ -10105,7 +10467,7 @@ III. Los pavimentos serán antiderrapantes; y
 
 IV. La altura mínima de los barandales, cuando se requieran, será de noventa centímetros.
 
-### CAPÍTULO XVI. Edificación para Salas de Espectáculos
+### CAPÍTULO V. Previsiones Contra Incendio
 
 ###### ARTÍCULO 688.
 
@@ -10231,7 +10593,7 @@ III. Cuando comunique con escaleras, entre la puerta y el peralte inmediato, deb
 
 IV. No habrá puertas simuladas ni se colocarán espejos en las puertas.
 
-### CAPÍTULO XVII. Edificación para Espectáculos Deportivos
+### CAPÍTULO VI. Instalaciones Hidráulicas y Sanitarias
 
 ###### ARTÍCULO 693.
 
@@ -10353,7 +10715,7 @@ Las campanas de estufas o fogones excepto en viviendas unifamiliares, estarán p
 
 En los pisos de las áreas de circulaciones generales de edificios, se emplearán únicamente materiales a prueba de fuego.
 
-### CAPÍTULO XVIII. Edificación para Clubes Deportivos o Sociales
+### CAPÍTULO VII. Instalaciones Eléctricas, Mecánicas y Especiales
 
 ###### ARTÍCULO 705.
 
@@ -10975,7 +11337,7 @@ Las tuberías de desagüe de los muebles sanitarios deberán de ser de fierro fu
 
 En las edificaciones ubicadas en las calles con red de alcantarillado público el propietario deberá solicitar a la instancia normativa correspondiente la conexión del albañal a la red.
 
-### CAPÍTULO XIX. Edificación para Baños Públicos
+### CAPÍTULO VIII. Visibilidad en Espectáculos
 
 ###### ARTÍCULO 718.
 
@@ -11207,7 +11569,7 @@ Pasamanos por Escalón Capacidades
 
 Las instalaciones de calderas, calentadores y aparatos similares, así como la de sus accesorios se harán de manera que no causen riesgos, molestias, contaminen el ambiente ni pongan en peligro a las personas, para lo cual deberá obtenerse la autorización previa de las instancias reguladoras correspondientes.
 
-### CAPÍTULO XX. Edificación para Templos
+### CAPÍTULO IX. Edificación para Habitación
 
 ###### ARTÍCULO 731.
 
@@ -11269,7 +11631,7 @@ d = Distancia al punto base para el trazo de los espectadores ubicados en la fil
 
 El trazo de los niveles de piso se hará como se indica en este capítulo.
 
-### CAPÍTULO XXI. Ferias con Aparatos Mecánicos
+### CAPÍTULO X. Edificación para Comercios y Oficinas
 
 ###### ARTÍCULO 737.
 
@@ -11349,7 +11711,7 @@ Estos elementos no podrán estar a una distancia horizontal menor de 5.00 metros
 
 Los desechos biológicos de los animales deberán de ser canalizados hacia espacios donde no representen o constituyan fuentes de contaminación.
 
-### CAPÍTULO XXII. Estacionamientos y Pensiones
+### CAPÍTULO XI. Edificación para Educación
 
 ###### ARTÍCULO 749.
 
@@ -11377,7 +11739,7 @@ La superficie mínima para una oficina será de ocho metros cuadrados y su altur
 
 En el proyecto arquitectónico de los edificios comerciales se incluirán las áreas necesarias para letreros, rótulos o cualquier otra clase de anuncios, así como para los anuncios que deban integrarse al propio inmueble, con sujeción a las disposiciones de este Libro.
 
-### CAPITULO XXIII. Laboratorios
+### CAPÍTULO XII. Edificación para Hospitales o Clínicas
 
 ###### ARTÍCULO 755.
 
@@ -11411,7 +11773,7 @@ En edificios escolares, la dimensión mínima de los patios que sirvan para dar 
 
 Cada escuela deberá tener un local destinado para servicio médico de emergencia, dotado del equipo e instrumental necesario.
 
-### CAPÍTULO XXIV. Cementerios
+### CAPÍTULO XIII. Edificación Para Industrias
 
 ###### ARTÍCULO 761.
 
@@ -11449,7 +11811,7 @@ En las salas de urgencias los accesos a las mismas, no deberán ser interferidos
 
 Todos los departamentos tendrán servicio de llamado sonoro y luminoso.
 
-### CAPÍTULO I. Disposiciones Generales
+### CAPÍTULO XIV. Edificación para Centros de Reunión
 
 ###### ARTÍCULO 769.
 
@@ -11483,7 +11845,7 @@ De 7,501 m2 a 22,500 m2 75%
 
 De 22,501 m2 en adelante 70%
 
-### CAPÍTULO II. Características de las Edificaciones
+### CAPÍTULO XV. Edificación para Mercados
 
 ###### ARTÍCULO 773.
 
@@ -11507,7 +11869,7 @@ Los escenarios, vestidores, cocinas, bodegas, talleres, cuartos de máquinas y c
 
 Habrá una instalación de emergencia con encendido automático, alimentada con acumuladores o baterías, que proporcionará a los salones, vestíbulos y circulaciones una iluminación de emergencia de cinco luxes mínimo en tanto se restablezca la falla.
 
-### CAPÍTULO III. Criterios de Diseño y Estados Límite
+### CAPÍTULO XVI. Edificación para Salas de Espectáculos
 
 ###### ARTÍCULO 778.
 
@@ -11529,7 +11891,7 @@ Los muros de las carnicerías y pescaderías deberán ser lavables, preferenteme
 
 En los tianguis cuando se instalen mantas, deberá conservarse la circulación con una altura mínima de dos metros cincuenta centímetros.
 
-### CAPÍTULO IV. Acciones, Cargas y Empujes
+### CAPÍTULO XVII. Edificación para Espectáculos Deportivos
 
 ###### ARTÍCULO 781.
 
@@ -11613,7 +11975,7 @@ Será obligatorio en todas las salas de espectáculos contar con una planta elé
 
 Las salas de espectáculos deberán contar con ventilación artificial adecuada, para que la temperatura del aire tratado, oscile entre los veintitrés y veintisiete grados centígrados; la humedad relativa, entre el treinta por ciento y el sesenta por ciento, sin que sea permisible una concentración de bióxido de carbono mayor de quinientas partes por millón.
 
-### CAPÍTULO V. Acciones
+### CAPÍTULO XVIII. Edificación para Clubes Deportivos o Sociales
 
 ###### ARTÍCULO 793.
 
@@ -11645,7 +12007,7 @@ Los edificios para espectáculos deportivos tendrán un local adecuado para serv
 
 Los edificios para espectáculos deportivos deberán tener las instalaciones especiales necesarias para proteger debidamente a los espectadores y jugadores de los riesgos propios del espectáculo que se presente.
 
-### CAPÍTULO VI. Resistencia
+### CAPÍTULO XIX. Edificación para Baños Públicos
 
 ###### ARTÍCULO 797.
 
@@ -11723,7 +12085,7 @@ VIII. Deberán diferenciarse, mediante el señalamiento adecuado, las zonas de n
 
 Los clubes deportivos tendrán servicio de baños y vestidores, por separado para hombres y para mujeres con pisos antiderrapantes.
 
-### CAPÍTULO VII. Evaluación de la Seguridad
+### CAPÍTULO XX. Edificación para Templos
 
 ###### ARTÍCULO 800.
 
@@ -11747,7 +12109,7 @@ La superficie mínima para baños individuales será de dos metros cuadrados deb
 
 La instalación de sistemas especiales de vapor o de aire caliente, requerirá autorización de la Secretaría, para lo cual deberá presentarse un diagrama detallado con sus especificaciones y características de operación.
 
-### CAPÍTULO VIII. Cargas Muertas
+### CAPÍTULO XXI. Ferias con Aparatos Mecánicos
 
 ###### ARTÍCULO 803.
 
@@ -11761,7 +12123,7 @@ Cuando menos una de las salidas deberá conectarse a la vía pública por medio 
 
 Cuando existan habitaciones anexas al templo, no tendrán conexión dentro con él.
 
-### CAPÍTULO IX. Empujes Estáticos de Tierras y Líquidos
+### CAPÍTULO XXII. Estacionamientos y Pensiones
 
 ###### ARTÍCULO 804.
 
@@ -11777,7 +12139,7 @@ Las ferias con aparatos mecánicos deberán contar, con un lugar previsto con lo
 
 Las áreas destinadas a andadores, deberán estar libres de los estorbos que puedan ocasionar los cables eléctricos o cualquier tipo de cubierta.
 
-### CAPÍTULO X. Cargas Vivas y otras Acciones Variables
+### CAPITULO XXIII. Laboratorios
 
 ###### ARTÍCULO 807.
 
@@ -11905,13 +12267,13 @@ Los requerimientos mínimos en materia de cajones de estacionamiento son los sig
 
 (DEROGADO POR ARTICULO CUARTO TRANSITORIO DEL REGLAMENTO DE ESTACIONAMIENTOS DEL MUNICIPIO DE AGUASCALIENTES, P.O. 12 DE ENERO DE 2009)
 
-### CAPÍTULO XI. Cargas de Lluvia, Nieve y Granizo
+### CAPÍTULO XXIV. Cementerios
 
 ###### ARTÍCULO 826.
 
 Los laboratorios que manejen productos dañinos al contacto de la piel deberán contar con un número adecuado de regaderas, que se localizarán a una distancia menor de treinta metros del sitio donde se utilicen dichos productos.
 
-### CAPÍTULO XII. Diseño por Sismo
+### CAPÍTULO I. Disposiciones Generales
 
 ###### ARTÍCULO 827.
 
@@ -12025,9 +12387,9 @@ En todos los cementerios podrán construirse capillas para usos religiosos, debi
 
 Los propietarios de monumentos y capillas, están obligados a la conservación de ellos. Si alguna de estas construcciones amenaza ruina, la administración deberá requerir al propietario para que la repare o reconstruya. En el caso de que el propietario no sea encontrado en un lapso razonable, la Administración del cementerio pedirá a la Secretaría, autorización para demoler la construcción. Esta última comprobará el estado de ruina y dará autorización para que se haga la destrucción del monumento funerario o mausoleo por cuenta de la misma Administración.
 
-## TÍTULO NOVENO. DE LA REGLAMENTACIÓN EN MATERIA DE ANUNCIOS
+## TÍTULO QUINTO. REQUISITOS ESTRUCTURALES
 
-### CAPÍTULO XIII. Diseño por Viento
+### CAPÍTULO II. Características de las Edificaciones
 
 ###### ARTÍCULO 842.
 
@@ -12145,7 +12507,7 @@ a) Subgrupo B.1.- Construcciones de más de veinte metros de altura total o uno 
 
 b) Subgrupo B.2.- Las construcciones restantes pertenecientes a este grupo.
 
-### CAPÍTULO XIV. Diseño de Cimentaciones
+### CAPÍTULO III. Criterios de Diseño y Estados Límite
 
 ###### ARTÍCULO 851.
 
@@ -12177,7 +12539,7 @@ Cualquier perforación o alteración de un elemento estructural para alojar duct
 
 No se permitirá que las instalaciones de gas, agua y drenaje crucen juntas constructivas entre edificios, a menos que se provean de conexiones o tramos flexibles especiales.
 
-### CAPÍTULO XV. Construcciones Dañadas
+### CAPÍTULO IV. Acciones, Cargas y Empujes
 
 ###### ARTÍCULO 857.
 
@@ -12247,7 +12609,7 @@ Podrán admitirse métodos de análisis con distintos grados de aproximación, s
 
 Los métodos de diseño son los criterios y procedimientos con los que se garantiza que se cumplan los requisitos de seguridad y servicio en una estructura o parte de ésta, una vez que se han definido los sistemas de acciones que obran sobre ella y se han aplicado los métodos de análisis que resulten adecuados para el tipo de estructura de que se trate.
 
-### CAPÍTULO XVI. Obras Provisionales y Modificaciones
+### CAPÍTULO V. Acciones
 
 ###### ARTÍCULO 866.
 
@@ -12299,7 +12661,7 @@ IV. Lluvia; y
 
 V. Otras acciones tales como explosiones, incendios y otros fenómenos que pueden ocurrir en casos extraordinarios.
 
-### CAPÍTULO XVII. Pruebas de Carga
+### CAPÍTULO VI. Resistencia
 
 ###### ARTÍCULO 871.
 
@@ -12333,7 +12695,7 @@ Se incluye dentro de esta categoría la combinación de carga muerta más carga 
 
 II. Acciones Permanentes, Variables y Accidentales.- Dentro de esta categoría se considerarán todas las acciones permanentes que actúen sobre la estructura, las acciones variables que se puedan presentar con su intensidad instantánea y únicamente una acción accidental en cada combinación que se tome en cuenta.
 
-### CAPÍTULO XVIII. De las Adecuaciones a las Normas Técnicas Complementarias
+### CAPÍTULO VII. Evaluación de la Seguridad
 
 ###### ARTÍCULO 873.
 
@@ -12379,7 +12741,7 @@ La resistencia de diseño se considerará igual a la resistencia nominal multipl
 
 La revisión de la seguridad contra estados límite de falla se hará en términos de la resistencia de diseño.
 
-### CAPÍTULO I. Generalidades
+### CAPÍTULO VIII. Cargas Muertas
 
 ###### ARTÍCULO 882.
 
@@ -12415,7 +12777,7 @@ En caso de utilizar Códigos distintos a los preferentemente utilizados en este 
 
 Se podrán emplear criterios de diseño diferentes de los especificados en este Libro y en sus Normas Técnicas Complementarias si se justifica, a satisfacción de la Secretaría, que dichos criterios dan lugar a niveles de seguridad iguales o mayores que los establecidos en este capítulo.
 
-### CAPÍTULO II. Materiales de Construcción y Obras en la Vía Pública
+### CAPÍTULO IX. Empujes Estáticos de Tierras y Líquidos
 
 ###### ARTÍCULO 885.
 
@@ -12437,7 +12799,7 @@ En la estimación de cargas muertas deberá considerarse el peso de las instalac
 
 Los pesos de estos equipos deberán ser calculados de acuerdo a las especificaciones de los fabricantes.
 
-### CAPÍTULO III. Tapiales
+### CAPÍTULO X. Cargas Vivas y otras Acciones Variables
 
 ###### ARTÍCULO 888.
 
@@ -12471,7 +12833,7 @@ En el diseño de losas de pisos de sótanos y losas de fondo de tanques y depós
 
 Las fuerzas de subpresión deberán tomarse en cuenta en la revisión de la estabilidad total de la estructura de que se trate.
 
-### CAPÍTULO IV. Demoliciones
+### CAPÍTULO XI. Cargas de Lluvia, Nieve y Granizo
 
 ###### ARTÍCULO 893.
 
@@ -12605,7 +12967,7 @@ Tratándose de maquinaria de tipo pesado o cuando se tienen sistemas de piso fle
 
 El propietario o poseedor de una edificación deberá solicitar el dictamen de un Perito Responsable de Obra o Perito Especializado según lo establecido por este Libro, cuando se haga cambio de uso de la misma y este cambio produzca cargas muertas o vivas mayores o con una distribución de carga mas desfavorable para la estructura que las originalmente proyectadas y aprobadas conforme a lo previsto en este capítulo.
 
-### CAPÍTULO V. Mediciones y Trazos
+### CAPÍTULO XII. Diseño por Sismo
 
 ###### ARTÍCULO 902.
 
@@ -12623,7 +12985,7 @@ Esta carga es de tipo accidental y es adicional a la carga viva como tal, por lo
 
 Los drenajes de cubiertas y azoteas deberán proyectarse de tal manera que garanticen el desalojo eficiente del agua de lluvia o granizo, evitando además en la medida de lo posible la eventual obstrucción de los tubos de bajadas de aguas pluviales.
 
-### CAPÍTULO VI. Excavaciones
+### CAPÍTULO XIII. Diseño por Viento
 
 ###### ARTÍCULO 905.
 
@@ -12787,7 +13149,7 @@ El espacio existente entre las construcciones deberá quedar libre de todo mater
 
 El análisis sísmico de puentes, péndulos invertidos, tanques, chimeneas, silos, tuberías, presas, muros de contención y otras construcciones que no sean edificios en el sentido estricto de la palabra se hará de acuerdo a lo que especifiquen las Normas Técnicas Complementarias correspondientes, y en los aspectos no cubiertos por ellas, dicho análisis se hará de acuerdo a criterios aprobados por la Secretaría.
 
-### CAPÍTULO VII. Terraplenes y Rellenos
+### CAPÍTULO XIV. Diseño de Cimentaciones
 
 ###### ARTÍCULO 924.
 
@@ -12841,7 +13203,7 @@ El procedimiento para realizar dichas modificaciones y el criterio para saber cu
 
 Se revisará la estabilidad de las construcciones ante efectos de viento durante el proceso de construcción o erección. Podrán necesitarse apuntalamientos y construcciones provisionales, especialmente en construcciones de tipo prefabricado.
 
-### CAPÍTULO VIII. Cimentaciones
+### CAPÍTULO XV. Construcciones Dañadas
 
 ###### ARTÍCULO 930.
 
@@ -13023,7 +13385,7 @@ De acuerdo a las necesidades del estudio, el Perito Especializado en Geología o
 
 En casos excepcionales, a juicio de la Secretaría, se pedirá al propietario y ocupante de una edificación la realización de nivelaciones periódicas, ya sea por su ubicación, cercanía a alguna falla, grieta, fisuramiento o discontinuidad en el subsuelo, por el tipo de terreno sobre el cual esté desplantada u otras condiciones desfavorables del lugar.
 
-### CAPÍTULO IX. Cimbras y Andamios
+### CAPÍTULO XVI. Obras Provisionales y Modificaciones
 
 ###### ARTÍCULO 954.
 
@@ -13065,7 +13427,7 @@ La Secretaría estará facultada para llevar a cabo una revisión a fondo del pr
 
 Previamente al inicio de las obras de refuerzo de una edificación deberá comprobarse que el edificio dañado cuente con la capacidad de soportar las cargas muertas debidas al peso propio de la estructura, las cargas vivas durante la construcción previstas en este Libro, y el treinta por ciento de las cargas laterales que se obtendrán con las cargas muertas y vivas señaladas anteriormente. Para alcanzar dicha resistencia en la estructura original podrá ser necesario apuntalar o rigidizar temporalmente algunas zonas del edificio.
 
-### CAPÍTULO X. Dispositivos para Elevación en las Obras
+### CAPÍTULO XVII. Pruebas de Carga
 
 ###### ARTÍCULO 961.
 
@@ -13077,7 +13439,7 @@ Las modificaciones que se pretendan hacer en construcciones ya existentes y que 
 
 Con respecto a la seguridad requerida durante las obras de reacondicionamiento, deberá de observarse lo estipulado en el artículo de seguridad durante las obras.
 
-### CAPITULO XI. Estructuras de Madera
+### CAPÍTULO XVIII. De las Adecuaciones a las Normas Técnicas Complementarias
 
 ###### ARTÍCULO 963.
 
@@ -13151,7 +13513,7 @@ Cuando se requiera evaluar una seguridad de una estructura ante efectos sísmico
 
 Estos procedimientos y criterios deberán ser aprobados previamente por la Secretaría.
 
-### CAPÍTULO XII. Mampostería
+### CAPÍTULO I. Generalidades
 
 ###### ARTÍCULO 974.
 
@@ -13239,9 +13601,9 @@ En todo caso deberá comprobarse mediante exploraciones directas que el suelo do
 
 Por último, por lo que toca a las especificaciones que aparecen en las Normas sobre el diseño, construcción y pruebas de carga para cimentaciones de tipo profundo, no se descarta la posibilidad de que en un futuro se necesiten utilizar dichos sistemas en la ciudad de Aguascalientes.
 
-## TÍTULO PRIMERO. DE LA NORMATIVIDAD DE LAS LICENCIAS REGLAMENTADAS Y ESPECIALES
+## TÍTULO SEXTO. EJECUCIÓN DE OBRAS
 
-### CAPÍTULO XIII. Concreto Hidráulico Simple y Reforzado
+### CAPÍTULO II. Materiales de Construcción y Obras en la Vía Pública
 
 ###### ARTÍCULO 978.
 
@@ -13311,7 +13673,7 @@ Se tomarán también las precauciones necesarias para impedir el acceso al sitio
 
 En las obras de construcción, deberán proporcionarse a los trabajadores servicios provisionales de agua potable y un sanitario portátil, inodoro o letrina como mínimo, se deberá adicionar uno por cada 25 trabajadores o fracción excedente de 15; y mantenerse permanentemente un botiquín con los medicamentos e instrumentales de curación necesarios para proporcionar primeros auxilios.
 
-### CAPÍTULO XIV. Estructuras Metálicas
+### CAPÍTULO III. Tapiales
 
 ###### ARTÍCULO 990.
 
@@ -13369,7 +13731,7 @@ Cuando se requiera reubicar postes, ya sea de la Comisión Federal de Electricid
 
 Los vehículos que carguen o descarguen materiales para una obra en la vía pública, deberá obtener previamente la autorización correspondiente de la Secretaría. En los casos en que por necesidad de obstrucción de una vialidad exclusivamente en aquellas actividades del proceso constructivo que así lo ameriten, se deberá dar aviso y obtener la autorización de la autoridad de tránsito correspondiente.
 
-### CAPÍTULO XV. Instalaciones
+### CAPÍTULO IV. Demoliciones
 
 ###### ARTÍCULO 1003.
 
@@ -13409,7 +13771,7 @@ Los constructores y los demoledores de las obras, estarán obligados a conservar
 
 Los rótulos o anuncios sobre los tapiales se sujetarán a las disposiciones del presente Código y en el reglamento respectivo.
 
-### CAPÍTULO XVI. Fachadas y Recubrimientos
+### CAPÍTULO V. Mediciones y Trazos
 
 ###### ARTÍCULO 1007.
 
@@ -13451,7 +13813,7 @@ La Secretaría podrá ordenar que se suspendan los trabajos cuando no sean tomad
 
 Cualquier demolición en zona decretadas del patrimonio histórico, artístico y arqueológico de la federación, o en el caso de inmuebles catalogados de valor histórico o colindantes con éstos, requerirá previamente a la licencia de demolición, de la autorización correspondiente por parte de las autoridades federales que correspondan y requerirá en todos los casos de Perito Responsable de Obra.
 
-### CAPITULO I. Uso de Predios y Edificaciones
+### CAPÍTULO VI. Excavaciones
 
 ###### ARTÍCULO 1015.
 
@@ -13471,7 +13833,7 @@ El Perito Responsable de Obra deberá hacer constar que las diferencias no afect
 
 Las separaciones entre construcciones deberán protegerse por medio de tapajuntas o sellos que impidan la penetración de agua, basuras y otros materiales.
 
-### CAPÍTULO II. Mantenimiento
+### CAPÍTULO VII. Terraplenes y Rellenos
 
 ###### ARTÍCULO 1018.
 
@@ -13491,7 +13853,7 @@ Previa autorización de la Secretaría, podrá extraerse agua de un predio media
 
 Las excavaciones estarán protegidas para evitar accidentes de peatones o vehículos con tapiales que ofrezcan la resistencia debida.
 
-### CAPÍTULO III. Medidas de Seguridad
+### CAPÍTULO VIII. Cimentaciones
 
 ###### ARTÍCULO 1022.
 
@@ -13509,7 +13871,7 @@ El grado de compactación recomendado estará en función del uso para el que va
 
 En todo caso, deberán realizarse pruebas de laboratorio en campo para comprobar todo lo anterior en el transcurso de la obra.
 
-### CAPÍTULO I. Disposiciones Generales
+### CAPÍTULO IX. Cimbras y Andamios
 
 ###### ARTÍCULO 1024.
 
@@ -13541,7 +13903,7 @@ Mediante las pruebas de laboratorio indicadas en las Normas Técnicas Complement
 
 Todos los cimientos deberán tener capa impermeabilizante que impida el ascenso de la humedad hacia los muros.
 
-### CAPÍTULO II. De los Requisitos para Solicitar las Autorizaciones de Constancia de Alineamiento y Compatibilidad Urbanística, Fusión, Subdivisión y Relotificación de Predios
+### CAPÍTULO X. Dispositivos para Elevación en las Obras
 
 ###### ARTÍCULO 1031.
 
@@ -13597,7 +13959,7 @@ Para evitar el resbalamiento de los operarios, se clavarán sobre las vigas que 
 
 Las vigas que forman el piso de los andamios y las que forman las rampas, estarán apoyadas por sus extremidades en los puentes, no permitiéndose en ningún caso empalmes intermedios.
 
-### CAPÍTULO III. Condiciones para Expedir las Autorizaciones de Alineamiento y Compatibilidad Urbanística y de Fusión, Subdivisión y Relotificación de Predios
+### CAPITULO XI. Estructuras de Madera
 
 ###### ARTÍCULO 1040.
 
@@ -13629,7 +13991,7 @@ VI. Estar provistas de los medios necesarios para evitar el riesgo de un descens
 
 VII. Los cables que se utilicen para izar o descender materiales o como medio de suspensión, deberán ser de buena calidad, suficientemente resistente y estar exenta de defectos manifiestos.
 
-### CAPÍTULO IV. Disposiciones por Vialidades
+### CAPÍTULO XII. Mampostería
 
 ###### ARTÍCULO 1044.
 
@@ -13639,7 +14001,7 @@ En estructuras permanentes sólo se empleará madera selecta, de primera o segun
 
 La ejecución de las estructuras de madera deberá ajustarse a las especificaciones de diseño, a las características de las uniones, según su tipo, a los requerimientos para el montaje, a las tolerancias, a las especificaciones sobre contenido de humedad, a los requisitos de protección de la madera, y a los demás conceptos que se fijan en las Normas Técnicas Complementarias para Diseño y Construcción de Estructuras de Madera, de este Libro.
 
-### CAPÍTULO V. Del Control del Desarrollo Urbano y Disposiciones con Respecto de la Propiedad de los Bienes Inmuebles
+### CAPÍTULO XIII. Concreto Hidráulico Simple y Reforzado
 
 ###### ARTÍCULO 1046.
 
@@ -13681,7 +14043,7 @@ Para verificar que los elementos de mampostería con funciones estructurales o c
 
 En el caso de los morteros bastará con verificar de manera exhaustiva en obra que se cumpla con los proporcionamientos de sus componentes según se especifique en el proyecto estructural.
 
-### CAPÍTULO VI. De los Usos del Suelo Permitidos, Condicionados o Prohibidos
+### CAPÍTULO XIV. Estructuras Metálicas
 
 ###### ARTÍCULO 1052.
 
@@ -13759,7 +14121,7 @@ El proceso de curado deberá mantenerse el tiempo que requiera el concreto para 
 
 Los elementos de concreto simple, reforzado o presforzado que se encuentren expuestos a agentes intemperizantes en ambientes dañinos que puedan modificar las dimensiones de las piezas o disminuir los recubrimientos exigidos, deberán protegerse adecuadamente por medio de recubrimientos aditivos o cementos especiales.
 
-### CAPÍTULO VII. Disposiciones Particulares de los Usos del Suelo
+### CAPÍTULO XV. Instalaciones
 
 ###### ARTÍCULO 1066.
 
@@ -13771,9 +14133,9 @@ Los materiales que se utilicen en la construcción de estructuras metálicas deb
 
 En el montaje de las estructuras se observará lo siguiente:
 
-I. El montaje deberá efectuarse con el equipo apropiado. Durante la carga, transporte y descarga de material y durante el montaje se adoptarán las precauciones necesarias para no producir deformaciones ni esfuerzos excesivos.
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2011)</small>
 
-Aquellas piezas que se maltratan o deformen, deberán ser enderezadas o repuestas a juicio del Perito Responsable o del Perito Especializado en Estructuras antes de montarlas. Cuando en la maniobra se requiera suspender temporalmente el tráfico, se deberá pedir permiso a la Dirección General de Seguridad Pública y Tránsito Municipal y notificar a la Secretaría;
+I. El montaje deberá efectuarse con el equipo apropiado. Durante la carga, trasporte y descarga de material y durante el montaje se adoptarán las precauciones necesarias para no producir deformaciones ni esfuerzos excesivos. (sic) Aquellas piezas que se maltratan o deformen, deberán ser enderezadas o repuestas a juicio del Perito Responsable o del Perito Especializado en Estructuras antes de montarlas. Cuando en la maniobra se requiera suspender temporalmente el tráfico, se deberá pedir permiso a la Secretaría de Seguridad Pública y notificar a la Secretaría;
 
 II. Anclajes.- Antes de iniciar la colocación de la estructura, el Perito Responsable de Obra, revisará la posición de las anclas colocadas a las posiciones mostradas en los planos, se tomarán las providencias necesarias para corregirlas, en su caso;
 
@@ -13827,7 +14189,7 @@ Para tal efecto, tanto en el diseño estructural como en la construcción de las
 
 2. En el caso de que se trate de de (sic) conexiones entre columnas de concreto y trabes de acero, no bastará con que las vigas queden ahogadas dentro del concreto de la columna, pues de esta manera no se garantiza la transmisión de los esfuerzos debidos a flexión de la trabe a columna. Por tanto se deberán dejar ahogadas en las paredes de la columna, placas que reciban a las vigas o trabes que lleguen al nudo, además de vástagos metálicos que atraviesen el interior de la columna, para transmitir las tensiones que se generen entre una placa y la correspondiente de la cara contraria.
 
-### CAPÍTULO VIII. De las Infracciones y Sanciones
+### CAPÍTULO XVI. Fachadas y Recubrimientos
 
 ###### ARTÍCULO 1072.
 
@@ -13861,7 +14223,7 @@ Los ductos de vapor y de aire caliente situados en lugares donde tengan acceso p
 
 Para la instalación y funcionamiento de calderas, compresores y líneas o salidas de aire comprimido, deberán sujetarse en su diseño y construcción a los ordenamientos legales aplicables en la materia.
 
-### CAPÍTULO IX. Denuncia Popular
+### CAPITULO I. Uso de Predios y Edificaciones
 
 ###### ARTÍCULO 1078.
 
@@ -13917,9 +14279,9 @@ Los elementos ornamentales o decorativos que se incorporen a la construcción y 
 
 Los elementos aislados, tales como fuentes, esculturas, arcos, columnas, monumentos y otros similares, deberán proyectarse y construirse de conformidad con lo dispuesto en este Libro.
 
-## TÍTULO SEGUNDO. DE LOS MERCADOS, ESTACIONAMIENTOS, COMERCIO Y OTRAS ACTIVIDADES EN LA VÍA PÚBLICA
+## TITULO SÉPTIMO. USO, OPERACIÓN Y MANTENIMIENTO
 
-### CAPÍTULO I. Disposiciones Generales
+### CAPÍTULO II. Mantenimiento
 
 ###### ARTÍCULO 1089.
 
@@ -13955,7 +14317,7 @@ II. La ejecución de obras, adaptaciones, instalaciones y otros trabajos que sea
 
 Lo anterior independientemente de las sanciones a que se haga acreedor conforme a este Libro.
 
-### CAPÍTULO II. De los Trámites Administrativos y Registros
+### CAPÍTULO III. Medidas de Seguridad
 
 ###### ARTÍCULO 1093.
 
@@ -13977,7 +14339,7 @@ Deberá darse mantenimiento a las cercas para garantizar su estabilidad.
 
 Quedan prohibidas instalaciones y construcciones precarias en las zonas de las edificaciones, cualquiera que sea el uso que pretenda dárseles.
 
-### CAPÍTULO III. Clasificación de los Anuncios
+### CAPÍTULO I. Disposiciones Generales
 
 ###### ARTÍCULO 1097.
 
@@ -14005,9 +14367,9 @@ La orden de desocupación no prejuzga sobre los derechos u obligaciones que exis
 
 La Secretaría podrá clausurar como medida de seguridad, las obras terminadas o en ejecución, cuando ocurra alguna de las circunstancias previstas en este Libro.
 
-## TITULO PRIMERO. DE LOS FESTEJOS TAURINOS
+## TÍTULO OCTAVO. DE LA REGLAMENTACIÓN PARA LA AUTORIZACIÓN, CONTROL Y VIGILANCIA DE LOS USOS DE SUELO
 
-### CAPÍTULO IV. Requerimientos Técnicos Generales
+### CAPÍTULO II. De los Requisitos para Solicitar las Autorizaciones de Constancia de Alineamiento y Compatibilidad Urbanística, Fusión, Subdivisión y Relotificación de Predios
 
 ###### ARTÍCULO 1103.
 
@@ -14205,7 +14567,7 @@ IX. Todas las demás que se señalen en este Código Municipal y otras disposici
 
 X. Controlar y vigilar la zonificación y los usos del suelo que se deriven de los Programas de Desarrollo Urbano Municipales y demás disposiciones jurídicas aplicables.
 
-### CAPÍTULO V. Anuncios Estructurales
+### CAPÍTULO III. Condiciones para Expedir las Autorizaciones de Alineamiento y Compatibilidad Urbanística y de Fusión, Subdivisión y Relotificación de Predios
 
 ###### ARTÍCULO 1109.
 
@@ -14345,7 +14707,7 @@ Una vez presentados los requisitos indicados en el artículo anterior, el solici
 
 La resolución referida en el artículo anterior, deberá dictarse en un término no mayor de diez días hábiles, contados a partir de que la Secretaría, por conducto de la Dirección de Fraccionamientos recibió la solicitud debidamente requisitada; en caso de no emitir la determinación en dicho término se entenderá concedida la autorización solicitada, previa certificación que expida la Secretaría.
 
-### CAPÍTULO VI. Anuncios Semiestructurales
+### CAPÍTULO IV. Disposiciones por Vialidades
 
 ###### ARTÍCULO 1122.
 
@@ -14427,7 +14789,7 @@ f) Que no disminuya el área de donación determinada por el Ayuntamiento.
 
 Sólo se autorizará el 10% de relotificaciones de predios con respecto al total de lotes aprobados originalmente en los fraccionamientos, siempre y cuando no se sature o afecten las instalaciones señaladas en el inciso b) de este artículo y que dicha relotificación no rebase el 12% de lotes previamente autorizados en una manzana.
 
-### CAPÍTULO VII. Anuncios sin Estructura Soportante
+### CAPÍTULO V. Del Control del Desarrollo Urbano y Disposiciones con Respecto de la Propiedad de los Bienes Inmuebles
 
 ###### ARTÍCULO 1125.
 
@@ -14451,7 +14813,7 @@ VII.- ANDADORES: Son aquellos que servirán exclusivamente para el tránsito de 
 
 Todas las vías públicas que se construyan deberán contar con el diseño apropiado para facilitar la circulación de personas con discapacidad.
 
-### CAPÍTULO VIII. Disposiciones por Zona
+### CAPÍTULO VI. De los Usos del Suelo Permitidos, Condicionados o Prohibidos
 
 ###### ARTÍCULO 1127.
 
@@ -14529,7 +14891,7 @@ Nadie puede abrir ventanas, vanos o espacios libres que tengan una colindancia d
 
 No se pueden tener ventanas o vanos para asomarse, ni balcones y otros voladizos semejantes, sobre la propiedad del vecino, prolongándose más allá del limite que separa las propiedades respectivas. Tampoco pueden tenerse vistas de costado u oblicuas sobre la misma propiedad, si no hay un metro de distancia.
 
-### CAPÍTULO IX. Disposiciones por Vialidades
+### CAPÍTULO VII. Disposiciones Particulares de los Usos del Suelo
 
 ###### ARTÍCULO 1144.
 
@@ -14635,7 +14997,7 @@ En el caso de condominios habitacionales de tipo popular e interés social se pe
 
 Ningún condómino tendrá derecho o facultad para bardear, enmallar, cercar o construir sobre áreas de uso común.
 
-### CAPÍTULO X. Medidas de Seguridad, Infracciones y Sanciones
+### CAPÍTULO VIII. De las Infracciones y Sanciones
 
 ###### ARTÍCULO 1153.
 
@@ -14653,7 +15015,7 @@ Para el caso de establecimientos comerciales de tipo eventual, deberá incluir u
 
 Todo comercio de tipo periódico que maneje o expenda material de tipo tóxico, flamable, volátil o material de tipo peligroso, deberá presentar el cuestionario de información básica ambiental, el cual será parte primordial para la autorización del giro de que se trate.
 
-### CAPÍTULO XI. Denuncia Popular
+### CAPÍTULO IX. Denuncia Popular
 
 ###### ARTÍCULO 1157.
 
@@ -14671,7 +15033,7 @@ Los gastos generados con motivo de una demolición efectuada por la Secretaría 
 
 La Secretaría requerirá, en todo caso, a la persona que contravenga lo dispuesto en el artículo anterior, para que se ajuste al mismo; en caso de no hacerlo ésta en el plazo que le será previamente fijado, el cual no podrá ser menor a diez días hábiles, se procederá en los términos del numeral que antecede.
 
-### CAPÍTULO I. De los Requisitos para Obtener Licencias para la venta de bebidas alcohólicas, sustancias o medicamentos de efectos psicotrópicos o enervantes
+### CAPÍTULO I. Disposiciones Generales
 
 ###### ARTÍCULO 1161.
 
@@ -14689,9 +15051,9 @@ La Secretaría una vez recibida la denuncia popular, integrará el expediente re
 
 El desahogo del procedimiento referido en este capítulo, no excederá de treinta días naturales, desde la fecha en que se reciba la denuncia, salvo que exista causa justificada que lo impida.
 
-## TÍTULO SEGUNDO. DE LOS ESPECTÁCULOS DEPORTIVOS
+## TÍTULO NOVENO. DE LA REGLAMENTACIÓN EN MATERIA DE ANUNCIOS
 
-### CAPÍTULO II. De la Venta y Consumo de Bebidas Alcohólicas
+### CAPÍTULO II. De los Trámites Administrativos y Registros
 
 ###### ARTÍCULO 1165.
 
@@ -14985,7 +15347,7 @@ No se requiere licencia para la colocación de anuncios adosados cuando no sean 
 
 Cuando se pretenda instalar este tipo de anuncios dentro del Centro Histórico o en las Zonas Especiales consideradas por este Código, el interesado deberá presentar ante la Secretaría un croquis acotado o fotografía, indicando las dimensiones del anuncio y el lugar en que se pretenda colocar, en cuyo caso deberá sujetarse a las restricciones que se establecen en este Código y el Reglamento para el Centro Histórico en correlación a la Ley de Protección y Fomento al Patrimonio Cultural de Aguascalientes para la instalación de anuncios en dichos lugares.
 
-### CAPÍTULO III. De las Farmacias, Droguerías, Tlapalerías o Similares
+### CAPÍTULO III. Clasificación de los Anuncios
 
 ###### ARTÍCULO 1200.
 
@@ -15099,7 +15461,7 @@ Los fabricantes, arrendadores y rotulistas de anuncios, tienen la obligación de
 
 Los pagos de licencias, permisos y sanciones, se realizarán en las cajas receptoras de la Secretaría de Finanzas Públicas del Municipio de Aguascalientes.
 
-### CAPÍTULO IV. De los hoteles, moteles, casas de huéspedes, mesones y otros establecimientos similares
+### CAPÍTULO IV. Requerimientos Técnicos Generales
 
 ###### ARTÍCULO 1214.
 
@@ -15269,7 +15631,7 @@ X. Proyectados.
 
 Son anuncios especiales, aquellos cuyas características no corresponden a alguno de los clasificados por el Código o por éste Código Municipal o bien los que se adapten a un determinado diseño arquitectónico o se adecuen armoniosamente al entorno circundante en forma única.
 
-### CAPÍTULO V. De los billares, boliches, máquinas de juegos, videojuegos, juegos electrónicos y renta de equipos de cómputo
+### CAPÍTULO V. Anuncios Estructurales
 
 ###### ARTÍCULO 1223.
 
@@ -15311,11 +15673,7 @@ En caso de incumplimiento de lo preceptuado en el artículo anterior, no se reno
 
 En caso de estructuras iguales para soporte de anuncios iguales, se podrá registrar una sola memoria de cálculo por cada anuncio, debidamente firmada en original por un Perito registrado ante la Secretaría, siempre y cuando las características de suelo sean similares y no se encuentre bajo la influencia de una falla geológica; si las características son distintas, deberá presentarse una memoria de cálculo por cada anuncio.
 
-### CAPÍTULO VI
-
-De los establecimientos dedicados a la renta de películas, videos, cintas, discos compactos, salas de cine y cualquier otro equipo que transmita sonido o imágenes
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE SEPTIEMBRE DE 2009)</small>
+### CAPÍTULO VI. Anuncios Semiestructurales
 
 ###### ARTÍCULO 1232.
 
@@ -15431,9 +15789,7 @@ IV. Los espacios que no se utilicen para la fijación de anuncios, con respecto 
 
 V. La altura máxima de estos anuncios será de 2.50 metros.
 
-### CAPÍTULO VII
-
-De los establecimientos dedicados a la renta de salones para fiestas infantiles, jardines y salones para fiestas y banquetes.
+### CAPÍTULO VII. Anuncios sin Estructura Soportante
 
 ###### ARTÍCULO 1240.
 
@@ -15463,7 +15819,7 @@ III. La distancia mínima de cualquier elemento integrante del anuncio, a cualqu
 
 IV. La altura máxima del anuncio será de 3.00 metros y como superficie máxima deberá tener 12 metros cuadrados, incluyendo todos los elementos del mismo.
 
-### CAPÍTULO VIII. De las personas que se dediquen a la venta de revistas y periódicos en estanquillos, kioscos o locales
+### CAPÍTULO VIII. Disposiciones por Zona
 
 ###### ARTÍCULO 1242.
 
@@ -15623,9 +15979,7 @@ La responsabilidad de cualquier tipo de daño que se origine con motivo de la ut
 
 La Secretaría, con la opinión del Comité, resolverá los casos que por sus características sean considerados como especiales o que no tengan similitud con los anuncios mencionados en este Código Municipal.
 
-### CAPÍTULO IX. De la Actividad Musical en Vía Pública
-
-> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2009)</small>
+### CAPÍTULO IX. Disposiciones por Vialidades
 
 ###### ARTÍCULO 1254.
 
@@ -16009,7 +16363,7 @@ Altura del poste
 
 18 m2
 
-### CAPÍTULO X. De los Espectáculos Públicos
+### CAPÍTULO X. Medidas de Seguridad, Infracciones y Sanciones
 
 ###### ARTÍCULO 1268.
 
@@ -16051,7 +16405,7 @@ Todos los anuncios, excepto los clasificados en este Código Municipal como estr
 
 En las vialidades locales, se permite la instalación de los anuncios que sean conformes al uso del suelo o zona especial donde se ubique la vialidad.
 
-### CAPÍTULO I. Disposiciones Generales
+### CAPÍTULO XI. Denuncia Popular
 
 ###### ARTÍCULO 1277.
 
@@ -16131,7 +16485,7 @@ En el caso de reincidencia de los fabricantes de anuncios, arrendatarios o rotul
 
 La Secretaría ejercerá las facultades de verificación y vigilancia que le corresponden, observando las disposiciones que en esa materia dispone éste Código Municipal y demás legislación aplicable.
 
-### CAPÍTULO II. De los Mercados y las Actividades Comerciales
+### CAPÍTULO I. De los Requisitos para Obtener Licencias para la venta de bebidas alcohólicas, sustancias o medicamentos de efectos psicotrópicos o enervantes
 
 ###### ARTÍCULO 1289.
 
@@ -16151,9 +16505,9 @@ El desahogo del procedimiento referido en este capítulo, no excederá de quince
 
 # LIBRO SÉPTIMO. DE LAS ACTIVIDADES COMERCIALES, INDUSTRIALES Y DE PRESTACIÓN DE SERVICIOS
 
-## TÍTULO PRIMERO. DEL ACTO ADMINISTRATIVO MUNICIPAL
+## TÍTULO PRIMERO. DE LA NORMATIVIDAD DE LAS LICENCIAS REGLAMENTADAS Y ESPECIALES
 
-### CAPÍTULO III. De las Autoridades que Reglamentan el Comercio en la Vía Pública
+### CAPÍTULO II. De la Venta y Consumo de Bebidas Alcohólicas
 
 ###### ARTÍCULO 1293.
 
@@ -16207,7 +16561,7 @@ Si el dictamen técnico determina que se cubren la totalidad de los requisitos s
 
 Aprobada la licencia por el Presidente Municipal, se expedirá el documento correspondiente por la Dirección General de Gobierno, la Secretaría de Finanzas Públicas, previo pago de las contribuciones municipales y exhibición de fianza que determine la Secretaría de Finanzas Públicas, con el objeto de que garantice el cumplimiento de las obligaciones que le establece a su titular el presente Código. Negada la aprobación del giro correspondiente por el Presidente Municipal, se notificará al solicitante y se dará por concluido el trámite.
 
-### CAPÍTULO IV. Disposiciones Especiales para los Tianguistas
+### CAPÍTULO III. De las Farmacias, Droguerías, Tlapalerías o Similares
 
 ###### ARTÍCULO 1298.
 
@@ -16253,7 +16607,7 @@ XVII. Respetar cualquiera de las limitaciones que le impone este capítulo, al g
 
 BIS.- En todos los establecimientos que el H. Ayuntamiento determine expedir licencia de funcionamiento o conceder permiso provisional de funcionamiento, se deberán modificar los patrones socioculturales de conducta de mujeres y hombres para contrarrestar prejuicios, costumbres y todo tipo de prácticas que se basen en la premisa de la superioridad o inferioridad de cualquiera de los géneros o en los papeles estereotipados para la mujer y el hombre que legitimasen o exacerben la discriminación y la violencia contra las mujeres.
 
-### CAPÍTULO V. De los Permisos para el Comercio en la Vía Pública
+### CAPÍTULO IV. De los hoteles, moteles, casas de huéspedes, mesones y otros establecimientos similares
 
 ###### ARTÍCULO 1299.
 
@@ -16263,7 +16617,7 @@ Son objeto de regulación de acuerdo a este Código, los establecimientos comerc
 
 Los establecimientos dedicados a la venta y consumo de bebidas alcohólicas suspenderán sus actividades los días en los que se establezca "Ley Seca", siendo obligatorio el cierre en tales días por razones de interés público, y que a saber son el dieciséis de septiembre, y el veinte de noviembre; los días en que haya elecciones federales, estatales o municipales incluso desde un día antes de la elección y todos aquellos días en que en forma especial así lo determine el Honorable Ayuntamiento.
 
-### CAPÍTULO VI. De la Expedición de Permisos para el Comercio en la Vía Pública
+### CAPÍTULO V. De los billares, boliches, máquinas de juegos, videojuegos, juegos electrónicos y renta de equipos de cómputo
 
 ###### ARTÍCULO 1301.
 
@@ -16273,7 +16627,11 @@ Las licencias y permisos que se otorguen al amparo de este Código, en cualquier
 
 Los permisos y licencias que se otorguen al amparo de este capítulo, son de carácter personal, quedando prohibidos los cambios de propietario y de giro; se extinguirán o cancelarán tratándose de disolución de personas morales. Se exceptúa de lo anterior los casos de muerte del titular en los que podrá transmitirse vía sucesión legítima o testamentaria.
 
-### CAPÍTULO VII. Derechos y Obligaciones de los Comerciantes en la Vía Pública
+### CAPÍTULO VI
+
+De los establecimientos dedicados a la renta de películas, videos, cintas, discos compactos, salas de cine y cualquier otro equipo que transmita sonido o imágenes
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE SEPTIEMBRE DE 2009)</small>
 
 ###### ARTÍCULO 1303.
 
@@ -16331,7 +16689,9 @@ Discoteca es el lugar que opera con juego de luces y sonido, grabaciones y pista
 
 Pulquería es el establecimiento dedicado a la venta de pulque para su consumo inmediato, pudiendo funcionar en un horario de las diez a las veinte horas, en ellas tendrán acceso los trovadores y músicos que cuenten con el permiso correspondiente de la autoridad municipal y tengan la autorización del propietario o responsable del establecimiento.
 
-### CAPÍTULO VIII. De los aseadores de calzado y vehículos en la vía pública
+### CAPÍTULO VII
+
+De los establecimientos dedicados a la renta de salones para fiestas infantiles, jardines y salones para fiestas y banquetes.
 
 ###### ARTÍCULO 1313.
 
@@ -16349,7 +16709,7 @@ Tienda de convivencia es el establecimiento perteneciente a una cadena comercial
 
 En los establecimientos referidos en el artículo anterior estará prohibido el consumo dentro del establecimiento y su horario de funcionamiento de manera general será de las nueve a las veintidós horas para venta de dichos productos, los giros de abarrotes con venta de cerveza, vinos y licores deberán tener predominantemente abarrotes.
 
-### CAPÍTULO IX. De los Estacionamientos y Pensiones
+### CAPÍTULO VIII. De las personas que se dediquen a la venta de revistas y periódicos en estanquillos, kioscos o locales
 
 ###### ARTÍCULO 1316.
 
@@ -16357,13 +16717,15 @@ Los restaurantes, loncherías y cenadurías, previa licencia, podrán expender b
 
 En las fondas, loncherías, cenadurías y en los restaurantes, será potestativo del propietario el autorizar acceso a los músicos y trovadores.
 
-### CAPÍTULO I. Disposiciones Generales
+### CAPÍTULO IX. De la Actividad Musical en Vía Pública
+
+> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2009)</small>
 
 ###### ARTÍCULO 1317.
 
 Los centros sociales, clubes deportivos, de servicio y similares, previa licencia, podrán habilitar una área especial para cantina, en el horario que para la misma señala este Código.
 
-### CAPITULO II. De la Autoridad
+### CAPÍTULO X. De los Espectáculos Públicos
 
 ###### ARTÍCULO 1318.
 
@@ -16383,13 +16745,13 @@ Queda prohibido, en cualquiera de los establecimientos referidos en este capítu
 
 > <small>(REFORMADO, P.O. 12 DE MAYO DE 2008)</small>
 
-### CAPÍTULO III. De las Características de las Plazas de Toros
+### CAPÍTULO I. Disposiciones Generales
 
 ###### ARTÍCULO 1322.
 
 La Dirección General de Gobierno podrá autorizar la ampliación de horario los días jueves, viernes y sábado, así como en fechas conmemorativas o celebraciones especiales, hasta por dos horas más, previo pago de los derechos correspondientes. Se exceptúa de lo anterior los casos en que se decrete Ley Seca. Así mismo, se podrá autorizar que farmacias, supermercados y similares funcionen las veinticuatro horas, suspendiendo la venta de bebidas alcohólicas en los horarios señalados en este capítulo.
 
-### CAPÍTULO IV. De las Clases de Espectáculos Taurinos y de los Requisitos para su Organización y Celebración
+### CAPÍTULO II. De los Mercados y las Actividades Comerciales
 
 ###### ARTÍCULO 1323.
 
@@ -16439,9 +16801,9 @@ III. El Secretario del H. Ayuntamiento o el Representante que designe.
 
 IV. El Secretario de Servicios Públicos y Ecología o el representante que designe.
 
-> <small>(REFORMADA, P.O. 14 DE FEBRERO DE 2011)</small>
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2011)</small>
 
-V. El Secretario de Medio Ambiente y Desarrollo Sustentable o el representante que designe el Secretario;
+V. El Secretario de Seguridad Pública o el representante que designe.
 
 > <small>(REFORMADA, P.O. 14 DE FEBRERO DE 2011)</small>
 
@@ -16475,13 +16837,13 @@ La Dirección General de Gobierno, podrá formular un padrón de farmacias para 
 
 De igual manera, los establecimientos que se dediquen a la venta de sustancias psicotrópicas.
 
-### CAPÍTULO V. Derechos y Obligaciones de los Espectadores
+### CAPÍTULO III. De las Autoridades que Reglamentan el Comercio en la Vía Pública
 
 ###### ARTÍCULO 1330.
 
 Los administradores o encargados de hoteles, moteles, casa de huéspedes, mesones y otros establecimientos similares, tienen la obligación de requerir a todo huésped el equipaje correspondiente y sus datos personales que deberán anotarse en el libro de registro e independientemente de lo anterior, se prohíbe el ingreso de parejas menores de edad o en su caso de personas con uniforme escolar sin acompañarse de sus padres o familiares. La violación a las obligaciones anteriores será materia de sanción, en los términos de este Código.
 
-### CAPÍTULO VI. De las Reses de Lidia
+### CAPÍTULO IV. Disposiciones Especiales para los Tianguistas
 
 ###### ARTÍCULO 1331.
 
@@ -16541,7 +16903,7 @@ Los requisitos para el otorgamiento de esta licencia de carácter especial será
 
 Los establecimientos dedicados a la renta de equipos de cómputo para Internet o programas computacionales, no podrán alquilar éstos para el uso de video-juegos; en todo caso deberán solicitar licencia reglamentada para renta de maquinas de video-juegos y sujetarse a lo establecido en el artículo 1332 del presente Código.
 
-### CAPÍTULO VII. De la Cuadra de Caballos
+### CAPÍTULO V. De los Permisos para el Comercio en la Vía Pública
 
 ###### ARTÍCULO 1335.
 
@@ -16569,19 +16931,21 @@ V. Deberán vender, rentar y/o intercambiar fonogramas o videogramas cuya reprod
 
 BIS.- Los establecimientos dedicados a la venta, renta y/o intercambio de fonogramas o videogramas que incumplan con la obligación prevista en la fracción V del artículo anterior, serán sancionados con la clausura definitiva del establecimiento y el aseguramiento de la mercancía ilícita.
 
-En cualquier momento, la Dirección de Reglamentación podrá solicitar el auxilio de la Secretaria de Seguridad Pública y Tránsito Municipal para la realización de las diligencias en donde se impongan y ejecuten las sanciones previstas en el párrafo anterior.
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2011)</small>
+
+En cualquier momento, la Dirección de Reglamentación podrá solicitar el auxilio de la Secretaría de Seguridad Pública para la realización de las diligencias en donde se impongan y ejecuten las sanciones previstas en el párrafo anterior.
 
 ###### ARTÍCULO 1336.
 
 Las salas de cine deberán contar con licencia vigente, y permitir la entrada de las personas de acuerdo a la edad según la clasificación de las películas. Deberán además anunciar la clasificación de cada película que exhiban.
 
-### CAPÍTULO VIII. De los Actos Previos a la Lidia
+### CAPÍTULO VI. De la Expedición de Permisos para el Comercio en la Vía Pública
 
 ###### ARTÍCULO 1337.
 
 Los establecimientos dedicados a la renta de salones para fiestas infantiles, jardines y salones para fiestas y banquetes, deberán contar con licencia para funcionamiento y sujetarse a un horario, los dos primeros de las ocho a las veintidós horas, el tercero con un horario de las ocho horas a las dos horas del día siguiente. En los salones para fiestas infantiles no se permitirá la venta o consumo de bebidas alcohólicas. Los dueños de estos establecimientos no tendrán que solicitar permiso cada vez que haya un evento, pero sí deberán de dar aviso por escrito a la Dirección General de Gobierno con un mínimo de tres días hábiles antes del evento por escrito deberán evitar que el ruido ocasionado rebase los límites permitidos por la Norma Oficial Mexicana respectiva.
 
-### CAPÍTULO IX. Del Desarrollo de la Lidia
+### CAPÍTULO VII. Derechos y Obligaciones de los Comerciantes en la Vía Pública
 
 ###### ARTÍCULO 1338.
 
@@ -16589,7 +16953,7 @@ Las personas que se dediquen a la venta de revistas y periódicos en estanquillo
 
 > <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2009)</small>
 
-### CAPÍTULO X. Del Rejoneo y los Forcados
+### CAPÍTULO VIII. De los aseadores de calzado y vehículos en la vía pública
 
 ###### ARTÍCULO 1339.
 
@@ -16737,7 +17101,7 @@ Será potestativo del propietario de cualquier establecimiento, en cualquiera de
 
 Será potestativo del propietario de cualquier establecimiento, mientras dure la actuación de los ejecutantes de actividades musicales, apagar los aparatos electrónicos musicales que operen en el local, así como prestar todas las facilidades para el desarrollo de la actividad musical.
 
-### CAPÍTULO ÚNICO
+### CAPÍTULO IX. De los Estacionamientos y Pensiones
 
 ###### ARTÍCULO 1348.
 
@@ -16771,9 +17135,9 @@ La Dirección General de Gobierno podrá suspender en cualquier momento una dive
 
 Los espectadores que originen falsas alarmas infundiendo pánico en el público serán sancionados con multa o arresto sin perjuicio de que si por tal situación se cometiera otro delito, se les consigne a las autoridades competentes.
 
-## TÍTULO SEGUNDO. DEL PROCEDIMIENTO ADMINISTRATIVO
+## TÍTULO SEGUNDO. DE LOS MERCADOS, ESTACIONAMIENTOS, COMERCIO Y OTRAS ACTIVIDADES EN LA VÍA PÚBLICA
 
-### CAPÍTULO I. Del Ámbito de Aplicaciones y Principios Generales
+### CAPÍTULO I. Disposiciones Generales
 
 ###### ARTÍCULO 1356.
 
@@ -16869,7 +17233,7 @@ XIV. Local: Lugar o espacio asignado al titular de una licencia dentro del merca
 
 XV. Zonificación de Giros: Agrupamiento de locatarios que en un área del mercado comercialicen productos o mercancías similares.
 
-### CAPÍTULO II. De la Nulidad y Eficacia del Acto Administrativo
+### CAPITULO II. De la Autoridad
 
 ###### ARTÍCULO 1359.
 
@@ -17025,13 +17389,15 @@ XII. Venta de artículos prohibidos por la Ley.
 
 XIII. Expender bebidas embriagantes. No se considerarán para los efectos de ésta disposición como bebidas embriagantes el aguamiel, jerez y rompope que se utilice para preparar bebidas típicas, atendiendo los usos y la costumbre.
 
-### CAPÍTULO I. Disposiciones Generales
+### CAPÍTULO III. De las Características de las Plazas de Toros
 
 ###### ARTÍCULO 1371.
 
 Será autoridad para la aplicación de las presentes disposiciones:
 
-La Dirección de Mercados, Estacionamientos y Áreas Comerciales la cuál podrá delegar sus facultades administrativas a las delegaciones municipales en su área de influencia y se coordinará en su caso con la Secretaría de Seguridad Pública y Tránsito Municipal.
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2011)</small>
+
+La Dirección de Mercados, Estacionamientos y Áreas Comerciales la cuál podrá delegar sus facultades administrativas a las delegaciones municipales en su área de influencia y se coordinará en su caso con la Secretaría de Seguridad Pública.
 
 ###### ARTÍCULO 1372.
 
@@ -17059,7 +17425,9 @@ IV. Expedir y/o revocar las licencias de funcionamiento para el ejercicio del co
 
 V. Cuando se trate de autorizar permisos para el ejercicio del comercio en vía pública o autorización de cambios de giro, se deberá tomar en cuenta que no se afecte a terceros al autorizar la venta de productos repetidos o que ya otro comerciante, ya sea establecido o informal, se encuentre expendiendo con anterioridad, en todo caso se deberá de establecer el comerciante a una distancia de ciento cincuenta metros lineales entre un giro similar y otro. Este precepto no es aplicable en lo referente a mercados y tianguis.
 
-VI. Coordinarse con la Secretaría de Seguridad Pública y Tránsito Municipal para el retiro de puestos por infracción al presente Código.
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2011)</small>
+
+IV (SIC). Coordinarse con la Secretaría de Seguridad Pública para el retiro de puestos por infracción al presente Código.
 
 VII. Vigilar el cumplimiento de lo dispuesto en este capítulo, y en el Código.
 
@@ -17097,7 +17465,9 @@ II. Con base en lo anterior, determinar en sus áreas de influencia, los espacio
 
 III. Ampliar, reducir, modificar o reubicar las áreas para el ejercicio de la actividad comercial en vía pública, en sus áreas de influencia, en coordinación con la Dirección de Mercados, Estacionamientos y Áreas Comerciales.
 
-D. La Secretaría de Seguridad Pública y Tránsito Municipal, a través de sus elementos en activo:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE AGOSTO DE 2011)</small>
+
+D. La Secretaría de Seguridad Pública, a través de sus integrantes operativos en activo:
 
 I. Realizar acciones preventivas y/o correctivas con el objeto de mantener la seguridad, el orden público y la tranquilidad de las personas en los lugares o zonas en donde se ejerza el comercio en la vía pública.
 
@@ -17123,7 +17493,7 @@ VII. Respetar los horarios de carga y descarga de mercancías que determine la a
 
 VIII. En caso de que se utilice un vehículo para el ejercicio del comercio, sus dimensiones no podrán ser mayores a tres metros de largo por un metro cincuenta centímetros de ancho. Sin perjuicio de lo dispuesto anteriormente, el Comité Dictaminador podrá a petición de la dirección o del propio interesado analizar el caso concreto, y de considerarlo viable autorizar una medida superior a la referida anteriormente, valorando en todo momento las circunstancias especiales del caso tales como las molestias que se pudieran generar a los vecinos y la dimensión, tránsito vehicular y peatonal de la vialidad propuesta.
 
-### CAPÍTULO II. De la Capacidad de los Interesados
+### CAPÍTULO IV. De las Clases de Espectáculos Taurinos y de los Requisitos para su Organización y Celebración
 
 ###### ARTÍCULO 1374.
 
@@ -17215,11 +17585,13 @@ Para la venta de animales vivos se deberá contar con los permisos correspondien
 
 Para verificar el debido cumplimiento de las disposiciones que señala el presente capítulo, y demás disposiciones aplicables, la Dirección de Mercados, Estacionamientos y Áreas comerciales, contará con un departamento de verificadores e inspectores, los cuales portarán ostensiblemente su identificación que los acredite.
 
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2011)</small>
+
 ###### ARTÍCULO 1382.
 
-El H. Ayuntamiento proporcionará la seguridad en los tianguis a través de la Secretaría de Seguridad Pública y Tránsito Municipal.
+El H. Ayuntamiento proporcionará la seguridad en los tianguis a través de la Secretaría de Seguridad Pública.
 
-### CAPÍTULO III. De las Excusas y Recusaciones
+### CAPÍTULO V. Derechos y Obligaciones de los Espectadores
 
 ###### ARTÍCULO 1383.
 
@@ -17229,7 +17601,7 @@ Todos los comerciantes tienen los mismos derechos y obligaciones ante la Direcci
 
 No se podrá otorgar permiso para comerciantes en vía pública en la zona que sea considerada por acuerdo de Cabildo como centro histórico de la Ciudad de Aguascalientes. Para los ya existentes se respetará en sus términos otorgados.
 
-### CAPÍTULO IV. De los Términos
+### CAPÍTULO VI. De las Reses de Lidia
 
 ###### ARTÍCULO 1385.
 
@@ -17269,7 +17641,7 @@ III. El pago también podrá ser hasta por todo el año calendario sin que ello 
 
 IV. El comerciante queda obligado a exhibir los comprobantes de pago a los verificadores y autoridades municipales acreditados, que así se lo solicite.
 
-### CAPÍTULO V. De las Notificaciones
+### CAPÍTULO VII. De la Cuadra de Caballos
 
 ###### ARTÍCULO 1388.
 
@@ -17353,7 +17725,7 @@ Los puestos que se instalen en un tianguis, en donde se expenda comida, deberán
 
 Su inobservancia será motivo de infracción y en su caso de clausura, hasta en tanto se cumpla con tales disposiciones y las directrices que se implanten como obligatorias, tanto en materia de seguridad por el uso de combustibles, como de higiene y sanidad.
 
-### CAPÍTULO I. Disposiciones Generales
+### CAPÍTULO VIII. De los Actos Previos a la Lidia
 
 ###### ARTÍCULO 1395.
 
@@ -17405,7 +17777,7 @@ Las violaciones a cualquiera de las obligaciones de este capítulo, se sancionar
 
 El Cabildo determinará y modificará las tarifas a que deberán ajustarse los aseadores de calzado y de vehículos así como los términos de vigencia de éstas.
 
-### CAPÍTULO II. De la Determinación de Imposición de Sanciones y Medidas de Seguridad
+### CAPÍTULO IX. Del Desarrollo de la Lidia
 
 ###### ARTÍCULO 1401.
 
@@ -17425,9 +17797,9 @@ El Cabildo determinará y modificará las tarifas a que deberán ajustarse los a
 
 # LIBRO OCTAVO. DE LOS ESPECTÁCULOS TAURINOS Y DEPORTIVOS
 
-## TÍTULO TERCERO. DEL PROCEDIMIENTO DE VERIFICACIÓN E INSPECCIÓN
+## TITULO PRIMERO. DE LOS FESTEJOS TAURINOS
 
-### CAPÍTULO III. De las Reglas para la Imposición de Sanciones y Medidas de Seguridad
+### CAPÍTULO X. Del Rejoneo y los Forcados
 
 ###### ARTÍCULO 1405.
 
@@ -17489,7 +17861,7 @@ XXV. Derecho de apartado: la venta anticipada de localidades para una serie de e
 
 XXVI. Salario Mínimo: El Salario Mínimo General Vigente en el Estado de Aguascalientes el día que fuera cometida la infracción.
 
-### CAPÍTULO I. De las Sanciones en Materia de Servicios Públicos
+### CAPÍTULO ÚNICO
 
 ###### ARTÍCULO 1407.
 
@@ -17517,7 +17889,9 @@ VIII. Imponer las sanciones a que se hagan acreedores los que infrinjan este Có
 
 IX. Ordenar la suspensión de la corrida, en los casos en que proceda, debiendo preferentemente cuidar los intereses del público.
 
-X. Tendrá a su mando a la Policía destinada al servicio de la Plaza de Toros, sin perjuicio de las facultades propias de su corporación.
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2011)</small>
+
+X. Tendrá a su mando a los integrantes operativos de la Secretaría de Seguridad Pública destinados al servicio de la Plaza de Toros, sin perjuicio de las atribuciones propias de su corporación.
 
 XI. Ordenar que se haga saber a los espectadores, las alteraciones que hubiere en el programa anunciado.
 
@@ -17619,7 +17993,7 @@ En las plazas de segunda categoría, que no cuenten con un local adecuado para e
 
 La empresa proveerá de todo lo necesario para el buen funcionamiento de los servicios médicos de plaza.
 
-### CAPÍTULO II. De las Sanciones en Materia de Protección Civil
+### CAPÍTULO I. Del Ámbito de Aplicaciones y Principios Generales
 
 ###### ARTÍCULO 1417.
 
@@ -17691,7 +18065,7 @@ Habrá suficiente número de taquillas o expendios de boletos, en donde en letre
 
 Las plazas de toros, quedarán sujetas por lo que se refiere a sus condiciones de seguridad y buen aspecto, a la estricta vigilancia de las Secretarías de Desarrollo Urbano y Servicios Públicos.
 
-### CAPÍTULO III. De las Sanciones en Materia de Construcción
+### CAPÍTULO II. De la Nulidad y Eficacia del Acto Administrativo
 
 ###### ARTÍCULO 1425.
 
@@ -17803,7 +18177,7 @@ La empresa deberá cuidar todos los utensilios que le corresponda proporcionar y
 
 Las empresas deberán acatar todos los acuerdos y disposiciones que dicten las autoridades encargadas de la aplicación de este Código.
 
-### CAPÍTULO IV. De las Sanciones en Materia de Actividades Comerciales, Industriales y de Prestación de Servicios
+### CAPÍTULO I. Disposiciones Generales
 
 ###### ARTÍCULO 1436.
 
@@ -17849,7 +18223,7 @@ II. Para poder vender el derecho de apartado o abono deberá anunciarse completo
 
 III. Para garantizar las obligaciones que se contraigan con motivo de la celebración de las corridas de una temporada formal con el Municipio, así como el pago de las multas por violaciones a este Código, la empresa por cada temporada serial de corridas, novilladas o festejos, deberá constituir una fianza, misma que será fijada por el Municipio y a favor de la Secretaría de Finanzas Públicas Municipales.
 
-### CAPÍTULO V. De las Sanciones en Materia de Espectáculos Públicos
+### CAPÍTULO II. De la Capacidad de los Interesados
 
 ###### ARTÍCULO 1439.
 
@@ -17913,7 +18287,7 @@ Las reses que vayan a lidiarse deberán estar en los corrales de la plaza, cuand
 
 La anterior disposición estará sujeta a las condicionantes que pueda autorizar el Municipio en el supuesto caso que por el número de corridas no existan corrales suficientes.
 
-### CAPÍTULO VI. De las Sanciones en Materia de Espectáculos Taurinos
+### CAPÍTULO III. De las Excusas y Recusaciones
 
 ###### ARTÍCULO 1446.
 
@@ -17947,7 +18321,7 @@ El estribo derecho de la montadura, deberá estar siempre debidamente forrado a 
 
 Los caballos que resulten con heridas graves a juicio de los Veterinarios, en el curso de la lidia, no podrán continuar participando en ella, atendiéndolos de emergencia los veterinarios de plaza, dependientes del Municipio, cuyos emolumentos dependen de ésta misma, acordes a su nombramiento; la empresa proporcionará los materiales de curación para emergencias, los que estarán disponibles desde veinticuatro horas antes del espectáculo, conforme a la solicitud de los veterinarios. La subsecuente atención será por cuenta del propietario de estos animales, y estarán en libertad de asignar quien los atienda. Los que presenten heridas penetrantes de vientre serán inmediatamente apuntillados por orden de los veterinarios.
 
-### CAPÍTULO VII. De las Sanciones en Materia de Comercio en la Vía Pública
+### CAPÍTULO IV. De los Términos
 
 ###### ARTÍCULO 1450.
 
@@ -18027,7 +18401,7 @@ Además de las banderillas ordinarias deberá haber doce pares de banderillas ne
 
 Queda prohibido el uso simultáneo de los colores verde, blanco y rojo en el adorno de las banderillas.
 
-### CAPÍTULO I. Del Recurso de Revisión
+### CAPÍTULO V. De las Notificaciones
 
 ###### ARTÍCULO 1460.
 
@@ -18227,7 +18601,7 @@ Se prohíbe la realización de colectas en cualquier lugar de la plaza durante l
 
 Durante la lidia estará prohibida la venta de cualquier mercancía. Entre una res y otra, será permitida la venta de golosinas y refrescos, los cuales serán servidos en envases reciclables que no sean de vidrio y por ningún motivo se dejará el envase de los mismos a los compradores. Los vendedores únicamente circularán por los pasillos o andadores de la plaza. Se permitirá el alquiler de cojines. Queda prohibido el acceso y venta de periódicos, así como la distribución de volantes y cualquier tipo de propaganda no autorizada.
 
-### CAPÍTULO II. De la Suspensión del Acto
+### CAPÍTULO I. Disposiciones Generales
 
 ###### ARTÍCULO 1490.
 
@@ -18311,7 +18685,9 @@ Los grupos de forcados, deberán actuar como tales respetando la usanza portugue
 
 Los toros para forcados podrán estar sin puntas, embolados o cubrir los cuernos con fundas, lo cual decidirá "El Cabo" del acto al Municipio, en los programas se anunciará esta característica.
 
-## TÍTULO CUARTO. DE LA INDIVIDUALIZACIÓN DE SANCIONES
+## TÍTULO SEGUNDO. DE LOS ESPECTÁCULOS DEPORTIVOS
+
+### CAPÍTULO II. De la Determinación de Imposición de Sanciones y Medidas de Seguridad
 
 ###### ARTÍCULO 1505.
 
@@ -18325,7 +18701,9 @@ El inspector autoridad podrá solicitar el auxilio de la fuerza pública cuando 
 
 # LIBRO NOVENO. DEL ACTO ADMINISTRATIVO MUNICIPAL
 
-## TITULO QUINTO. DEL RECURSO
+## TÍTULO PRIMERO. DEL ACTO ADMINISTRATIVO MUNICIPAL
+
+### CAPÍTULO III. De las Reglas para la Imposición de Sanciones y Medidas de Seguridad
 
 ###### ARTÍCULO 1507.
 
@@ -18357,6 +18735,8 @@ IX. Tratándose de actos administrativos que sean recurribles, deberá de hacer 
 
 Para efectos de lo anterior, se consideran autoridades municipales el H. Ayuntamiento, las secretarías, las direcciones, los departamentos y demás órganos que integren la administración pública municipal.
 
+### CAPÍTULO I. De las Sanciones en Materia de Servicios Públicos
+
 ###### ARTÍCULO 1510.
 
 La omisión o irregularidades (sic) los elementos y requisitos por el artículo precedente y demás reglamentos aplicables a la materia de que se trate, producirá según el caso, nulidad del acto administrativo; el acto que se declare jurídicamente nulo será invalidado, no se presumirá legitimo ni ejecutables, será subsanable, sin perjuicio de que pueda expedirse un nuevo acto. En caso de que el acto se hubiere consumado, o bien, sea imposible de hecho o de derecho retrotraer sus efectos, sólo dará lugar a la responsabilidad del servidor público que la hubiera emitido u ordenado.
@@ -18378,6 +18758,10 @@ Las actuaciones administrativas serán nulas cuando les falten alguna de las for
 ###### ARTÍCULO 1514.
 
 La nulidad será sustanciada conforme a las reglas del procedimiento del recurso de revocación.
+
+## TÍTULO SEGUNDO. DEL PROCEDIMIENTO ADMINISTRATIVO
+
+### CAPÍTULO II. De las Sanciones en Materia de Protección Civil
 
 ###### ARTÍCULO 1515.
 
@@ -18431,6 +18815,8 @@ Los interesados de un procedimiento administrativo municipal, en cualquier momen
 
 Los interesados podrán solicitar les sea expedida copia certificada a su costa de los documentos contenidos en algún expediente en el que actúe, salvo lo dispuesto en el artículo anterior.
 
+### CAPÍTULO III. De las Sanciones en Materia de Construcción
+
 ###### ARTÍCULO 1524.
 
 Los interesados con capacidad de ejercicio podrán promover por si o por interpósita persona.
@@ -18445,6 +18831,8 @@ Los interesados, podrán autorizar por escrito en cada caso, a un licenciado en 
 
 En ningún trámite administrativo se admitirá la gestión de negocios.
 
+### CAPÍTULO IV. De las Sanciones en Materia de Actividades Comerciales, Industriales y de Prestación de Servicios
+
 ###### ARTÍCULO 1527.
 
 Todo servidor público estará impedido para intervenir o conocer de cualquier procedimiento administrativo municipal, cuando:
@@ -18458,6 +18846,8 @@ III. Exista manifiesta amistad o enemistad.
 IV. Tenga relación de servicio, o dependa del servidor por razones laborales.
 
 V. Cualquier otra prevista en el presente Código.
+
+### CAPÍTULO V. De las Sanciones en Materia de Espectáculos Públicos
 
 ###### ARTÍCULO 1528.
 
@@ -18486,6 +18876,8 @@ A falta de términos o plazos establecidos en los reglamentos o actos administra
 ###### ARTÍCULO 1534.
 
 Los términos fijados en días por disposiciones generales, o por autoridades municipales se computarán sólo los días hábiles.
+
+### CAPÍTULO VI. De las Sanciones en Materia de Espectáculos Taurinos
 
 ###### ARTÍCULO 1535.
 
@@ -18540,6 +18932,10 @@ Las notificaciones por edictos se realizara haciendo la publicación que contend
 ###### ARTÍCULO 1541.
 
 La manifestación que haga el interesado, su representante legal o quien este autorizado para recibir notificaciones, de conocer el acuerdo o resolución, surtirá sus efectos de notificación en forma a partir del día hábil siguiente a ese hecho.
+
+## TÍTULO TERCERO. DEL PROCEDIMIENTO DE VERIFICACIÓN E INSPECCIÓN
+
+### CAPÍTULO VII. De las Sanciones en Materia de Comercio en la Vía Pública
 
 ###### ARTÍCULO 1542.
 
@@ -18643,6 +19039,8 @@ Cuando se trate de segunda o posterior inspección para verificar el cumplimient
 
 Los inspectores o verificadores deberán evitar en todo momento el hostigamiento o actos de molestia innecesaria, limitándose a la vigilancia o en su caso el procedimiento establecido en este capítulo para el ejercicio de su función.
 
+### CAPÍTULO I. Del Recurso de Revisión
+
 ###### ARTÍCULO 1552.
 
 Del acta de inspección se dará vista al funcionario que la ordenó, quien decidirá la determinación de posición de sanciones o medidas de seguridad en el término de veinticuatro horas lo conducente.
@@ -18658,6 +19056,8 @@ Si la resolución determina procedente la clausura provisional como medida de se
 En el evento de que los inspectores detecten actividades contrarias y violatorias a las disposiciones municipales al momento de estarse consumando y que pongan en peligro la seguridad, la salubridad, la integridad o la moral de las personas de sus derechos o de sus bienes, no será necesario agotar el requisito de la orden por escrito a que se refiere el artículo del presente Código ni habilitar horas, y en cuyo caso, procederá a levantar acta conforme lo establece el artículo 1547 del presente ordenamiento y procederá a ejecutar la o las medidas de seguridad provisionales que considere pertinentes, a efecto de que no se sigan contraviniendo las disposiciones violadas.
 
 En caso de clausura provisional como medida de seguridad, esta podrá prolongarse, hasta que sean cubiertas las sanciones que importen cantidad liquida.
+
+### CAPÍTULO II. De la Suspensión del Acto
 
 ###### ARTÍCULO 1555.
 
@@ -18832,6 +19232,8 @@ Cuando una persona resulte responsable de dos o más violaciones a las leyes del
 ###### ARTÍCULO 1572.
 
 Cuando la determinación de imposición de alguna sanción o medidas de seguridad implique el pago de una cantidad mínima, en la misma resolución se les notificará que tiene el término de cinco días para hacer el pago, con el apercibimiento de que en caso de no hacerlo se abrirá procedimiento de ejecución económico coactivo, remitiéndole copia de la resolución a la Secretaría de Finanzas Públicas para hacerla efectiva.
+
+## TÍTULO CUARTO. DE LA INDIVIDUALIZACIÓN DE SANCIONES
 
 ###### ARTÍCULO 1573.
 
@@ -19308,6 +19710,8 @@ Cuando se trate de locales o puestos que se encuentren sin operar por más de tr
 ###### ARTÍCULO 1601.
 
 Se procederá a la reubicación del comerciante, cuando la estructura del puesto o establecimiento, remolque o vehículo contamine la imagen de la Ciudad, pero acorde a lo establecido en el artículo 1384 de este Código.
+
+## TITULO QUINTO. DEL RECURSO
 
 ###### ARTÍCULO 1602.
 
@@ -19894,3 +20298,23 @@ PRIMERO.- Las presentes reformas entrarán en vigor el día hábil siguiente de 
 SEGUNDO.- Quedan vigentes los transitorios publicados el 31 de enero de 2011 en el Periódico Oficial de Estado de Aguascalientes, relativas al Decreto por el que se reforma el artículo 98 párrafo cuarto, así como en sus fracciones II, III, VII, IX y XVII del Código Municipal de Aguascalientes.
 
 TERCERO.- Todas las referencias relativas a la Secretaria de Desarrollo Social así como de la Secretaria de Servicios Públicos y Ecología, prescritas en el Código Municipal de Aguascalientes, o en cualesquier otro ordenamiento, se entenderán hechas a la Secretaria de Integración Social o a la Secretaria de Servicios Públicos respectivamente y de conformidad con la presente reforma. De igual manera cabe esta misma disposición para las áreas, coordinaciones, departamentos, dependencias o unidades administrativas que han sido establecidas en la presente reforma.
+
+P.O. 8 DE AGOSTO DE 2011.
+
+PRIMERO.- Las presentes reformas entrarán en vigor el día hábil siguiente al de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+SEGUNDO.- Se derogan todas las disposiciones reglamentarias que se opongan al presente ordenamiento.
+
+TERCERO.- Los procedimientos que a la fecha del inicio de vigencia de estas reformas, se hubieren iniciado por parte de las Comisiones así como los de la Dirección de Asuntos Internos de Seguridad Pública, con motivo de la comisión de conductas contrarias a los principios de actuación, las prohibiciones, deberes y obligaciones imputables a los integrantes operativos, continuarán sustanciándose y se resolverán con apego a las disposiciones vigentes al momento de cometerse los hechos que dieron lugar a la instauración de los procedimientos, debiendo concluir en un plazo no mayor a sesenta días hábiles posteriores a la entrada en vigor.
+
+CUARTO.- La Comisión del Servicio Profesional de Carrera Policial, la Comisión de Honor y Justicia, la Comisión de Normatividad Interna y el Consejo Municipal de Consulta y Participación Ciudadana deberán conformarse, atendiendo a lo dispuesto en este ordenamiento a más tardar, dentro de los sesenta días hábiles contados a partir de su entrada en vigor, y su encargo continuará al menos durante todo el año dos mil doce.
+
+La instalación de cualquiera de los órganos colegiados se formalizará a través del acta debidamente circunstanciada que al efecto se levante.
+
+QUINTO.- El Municipio deberá realizar los programas anuales, tendientes a dar cumplimiento al Régimen Complementario de Seguridad Social para los integrantes operativos de la Secretaría, mismos que en ningún caso podrán ser inferiores a los otorgados en los ejercicios previos.
+
+SEXTO.- Las adecuaciones presupuestales para hacer frente a la Migración del Servicio, la designación de los cargos administrativos y de dirección, la operación del sistema terciario basado en el simulador piramidal proporcionado por el Secretariado Ejecutivo del Sistema Nacional de Seguridad Pública, la adecuación de las instalaciones, así como las que resulten necesarias para el cumplimiento de estas disposiciones, se proyectarán en el Presupuesto de Egresos del Municipio de Aguascalientes para el ejercicio Fiscal del año dos mil doce.
+
+SEPTIMO.- Las prestaciones establecidas en el artículo 565 fracción XVII se implementarán a partir del ejercicio fiscal del año dos mil doce, por lo que durante el ejercicio 2011 se otorgarán las que se tienen contratadas y presupuestadas.
+
+OCTAVO.- Las disposiciones normativas relativas al Sistema Integral de Desarrollo Policial, serán atendidas en el reglamento correspondiente, el cual se emitirá en un término no mayor a ciento ochenta días naturales a partir de la entrada en vigor de estas reformas.
