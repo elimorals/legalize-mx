@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-transparencia-y-acceso-a-la-informacion-publica-del-5052
 country: "mx"
 rank: "ley"
 publication_date: "2006-05-22"
-last_updated: "2009-11-23"
+last_updated: "2011-08-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50522&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACION PUBLICA DEL ESTADO DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE NOVIEMBRE DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE AGOSTO DE 2011.
 
 Ley publicada en el Periódico Oficial del Estado de Aguascalientes, el lunes 22 de mayo de 2006.
 
@@ -49,21 +49,29 @@ La presente Ley es de orden público y de interés general y tiene por objeto ga
 
 Los partidos políticos que cuenten con registro oficial estarán obligados a proporcionar información a través del Instituto Estatal Electoral.
 
-###### Artículo 2°.
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2011)</small>
 
-Toda información creada, administrada, o en posesión por los órganos previstos en esta Ley se considera un bien público accesible a cualesquier persona en los términos que en la presente Ley se prevén, salvo aquellas excepciones que deba resguardarse por su carácter de reservado o confidencial en los términos de la propia Ley.
+###### Artículo 2º.
+
+Toda información creada, administrada, o en posesión por los Sujetos Obligados previstos en esta Ley se considera un bien público accesible a cualesquier persona en los términos que en la presente Ley se prevén, salvo aquellas excepciones que deba resguardarse por su carácter de reservado o confidencial en los términos de la propia Ley.
 
 ###### Artículo 3°.
 
 Para los efectos de esta Ley se entiende por:
 
-I.- Datos Personales: La información concerniente a una persona física, identificada o identificable, entre otra, la relativa a su origen étnico o racial, o que esté referida a las características físicas, morales o emocionales, a su vida afectiva y familiar, domicilio, número telefónico, patrimonio, ideología y opiniones políticas, creencias o convicciones religiosas o filosóficas, los estados de salud físicos o mentales, las preferencias sexuales, u otras análogas que afecten su intimidad;
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2011)</small>
+
+I.- Datos personales: La información numérica, alfabética, gráfica fotográfica, acústica o de cualquier otro tipo concerniente a una persona física, identificada o identificable, entre otra, la relativa a su nombre asociado, a su origen étnico o racial, o que esté referida a las características físicas, morales o emocionales, a su vida afectiva y familiar, domicilio, número telefónico, cuenta personal de correo electrónico, patrimonio, ideología y opiniones políticas, creencias o convicciones religiosas o filosóficas, los estados de salud físicos o mentales, las preferencias sexuales, la huella digital, su información genética, la fotografía o el número de seguridad social u otras análogas que afecten su intimidad;
 
 II.- Dependencias y Unidades de Apoyo: Las señaladas en la Ley Orgánica de la Administración Pública del Estado de Aguascalientes, incluidos los órganos administrativos desconcentrados, la Procuraduría General de Justicia del Estado, y la Junta Local de Conciliación y Arbitraje;
 
-III.- Derecho de Acceso a la Información: La facultad que tienen las personas de solicitar a los órganos de gobierno en la forma y términos que establece esta Ley, la información pública, sin más limitaciones que las expresamente previstas en esta Ley;
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2011)</small>
 
-IV.- Documentos: Los expedientes, reportes, estudios, actas, resoluciones, oficios, correspondencia, acuerdos, directivas, directrices, circulares, contratos, convenios, instructivos, notas, memorandos, estadísticas o bien, cualquier otro registro que documente el ejercicio de las facultades o la actividad de los sujetos obligados y sus servidores públicos, sin importar su fuente o fecha de elaboración. Los documentos podrán estar en cualquier medio, sea escrito, impreso, sonoro, visual, electrónico, informático u holográfico;
+III.- Derecho de Acceso a la Información: La facultad que tienen las personas de solicitar a los Sujetos Obligados, en la forma y términos que establece esta Ley, la información pública, sin más limitaciones que las expresamente previstas en esta Ley;
+
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2011)</small>
+
+IV.- Documentos: Los expedientes, reportes, estudios, actas, resoluciones, oficios, correspondencia, acuerdos, directivas, directrices, circulares, contratos, convenios, instructivos, notas, memorandos, estadísticas o bien, cualquier otro registro que documente el ejercicio de las facultades o la actividad de los sujetos obligados y sus servidores públicos y que se encuentre en posesión de los mismos con motivo del desempeño de sus funciones legales, sin importar su fuente o fecha de elaboración. Los documentos podrán estar en cualquier medio, sea escrito, impreso, sonoro, visual, electrónico, informático u holográfico;
 
 V.- Empresas de Participación Estatal: Aquellas creadas en los términos del Artículo 2°, fracción II, incisos a), b) y c) de la Ley de Control de Entidades Paraestatales del Estado de Aguascalientes;
 
@@ -73,13 +81,19 @@ VII.- Función Pública: Toda actividad temporal o permanente, remunerada u hono
 
 VIII.- Información Confidencial: La contenida en el Artículo 19 de la presente Ley;
 
-IX.- Información Gubernamental: Toda aquella que haya sido creada u obtenida por los sujetos obligados de la presente Ley, en el ejercicio de sus funciones, y que se encuentre en su posesión y bajo su control;
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2011)</small>
 
-X.-Información Parcialmente Reservada: Aquella información pública que contenga una o varias partes que se clasifiquen como reservada o confidencial;
+IX.- Información gubernamental: Toda aquella que haya sido generada, obtenida, adquirida, transformada o conservada, por cualquier título, por los sujetos obligados de la presente Ley, en el ejercicio de sus funciones, y que se encuentre en su posesión y bajo su control;
 
-XI.- Información Pública: La contenida en escritos, mapas, fotografías, grabaciones, soporte informático o digital, o en cualquier otro elemento técnico que haya sido creado u obtenido por el órgano requerido, en el ejercicio de sus funciones, y que se encuentre en su posesión y bajo su control; así como cualquier tipo de documentación generada y elaborada, sea parcial o totalmente con cargo al erario, que haya servido para discusiones y toma de decisiones en el ejercicio de la función pública;
+X.- Información Parcialmente Reservada: Aquella información pública que contenga una o varias partes que se clasifiquen como reservada o confidencial;
 
-XII.- Información Pública de Oficio: Es la información que los sujetos obligados deberán proporcionar de manera regular y permanente, sin que medie solicitud alguna;
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2011)</small>
+
+XI.- Información pública: La contenida en escritos, mapas, fotografías, grabaciones, soporte informático o digital, o en cualquier otro elemento técnico que haya sido creado u obtenido por el sujeto obligado requerido, en el ejercicio de sus funciones, y que se encuentre en su posesión y bajo su control; así como cualquier tipo de documentación generada y elaborada, sea parcial o totalmente con cargo al erario, que haya servido para discusiones y toma de decisiones en el ejercicio de la función pública;
+
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2011)</small>
+
+XII.- Información Pública de Oficio: Es la información que los sujetos obligados deberán poner a disposición de las personas y actualizar de manera regular y permanente sin que medie solicitud alguna;
 
 XIII.- Información Reservada: Aquella información que se encuentra sujeta a alguna (sic) de los supuestos previstos en los Artículos 16 y 17 de esta Ley;
 
@@ -95,27 +109,55 @@ a) El Instituto Estatal Electoral;
 
 b) La Universidad Autónoma de Aguascalientes;
 
-c) Comisión Estatal de Derechos Humanos; y
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2011)</small>
 
-d) Las demás que en futuro se llegasen a crear.
+c) Comisión Estatal de Derechos Humanos;
+
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2011)</small>
+
+d) El Instituto; y
+
+> <small>(ADICIONADO, P.O. 8 DE AGOSTO DE 2011)</small>
+
+e) Las demás que en el futuro se llegasen a crear.
 
 XVIII.- Organismos Públicos Descentralizados: Las entidades creadas por Ley o Decreto del Congreso del Estado con personalidad jurídica y patrimonio propios, cualquiera que sea la estructura que adopten;
 
 XIX.- Organismos Públicos Desconcentrados: Son aquellos creados por Decreto del Ejecutivo del Estado, que se encuentran jerárquicamente subordinados a las dependencias del Poder Ejecutivo, que cuentan con facultades específicas para resolver sobre la materia o dentro del ámbito territorial que se determine en cada caso;
 
-XX.- Reglamento: Los reglamentos emitidos por los sujetos obligados por la Ley de Transparencia y Acceso a la Información Pública del Estado de Aguascalientes;
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2011)</small>
+
+XX.- Reglamento: Los Reglamentos de la materia, emitidos por los sujetos obligados por la Ley de Transparencia y Acceso a la Información Pública del Estado de Aguascalientes;
 
 XXI.- Seguridad Estatal: Acciones destinadas a proteger la integridad, estabilidad y permanencia del Estado, la gobernabilidad democrática, la seguridad, orientada al bienestar general de la sociedad que permita el cumplimiento de los fines del Estado;
 
-XXII.- Servidor Público: Los que establece el párrafo primero del Artículo 73 de la Constitución Política para el Estado de Aguascalientes;
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2011)</small>
+
+XXII.- Servidor Público: Los señalados en el párrafo primero del artículo 73 de la Constitución Política para el Estado de Aguascalientes y en el artículo 2° de la Ley de Responsabilidades de los Servidores Públicos del Estado de Aguascalientes;
 
 XXIII.- Sistema de Datos Personales: El conjunto ordenado de los mismos que estén en posesión de un sujeto obligado;
 
 XXIV.- Sujetos Obligados: Las instituciones públicas señaladas en el Artículo 1° de esta Ley;
 
-XXV.- Transparencia: Atributo de la Información Pública que consiste en que ésta sea clara, veraz, oportuna y suficiente en los términos de Ley; y
+XXV.- Transparencia: Atributo de la Información Pública que consiste en que ésta sea clara, veraz, oportuna y suficiente en los términos de Ley; y (sic)
 
 XXVI.- Unidad de Enlace: La oficina designada por los sujetos obligados de esta Ley, encargada de recibir, dar trámite a las solicitudes de información y encomendadas a realizar las funciones que se establezca en esta Ley y su respectivo Reglamento.
+
+> <small>(ADICIONADA, P.O. 8 DE AGOSTO DE 2011)</small>
+
+XXVII.- Versión Pública: Es la modalidad de un documento donde aparece oculta, dentro del contenido del mismo, la información clasificada como reservada o confidencial para permitir su acceso al resto de la información;
+
+> <small>(ADICIONADA, P.O. 8 DE AGOSTO DE 2011)</small>
+
+XXVIII.- Disociación: El procedimiento mediante el cual, los datos personales no pueden asociarse al interesado, ni permitir por su estructura, contenido o grado de disgregación, la identificación del mismo;
+
+> <small>(ADICIONADA, P.O. 8 DE AGOSTO DE 2011)</small>
+
+XXIX.- Expediente: Un conjunto de documentos relacionados; y
+
+> <small>(ADICIONADA, P.O. 8 DE AGOSTO DE 2011)</small>
+
+XXX.- Fuente de Acceso Público: Aquellos sistemas de datos personales cuya consulta puede ser realizada por cualquier persona, no impedida por una norma limitativa o sin más exigencia que, en su caso, el pago de un derecho.
 
 ###### Artículo 4°.
 
@@ -139,29 +181,43 @@ VIII.- Crear y dotar de facultades al Instituto de Transparencia del Estado de A
 
 IX.- Establecer los mecanismos y procesos legales para el acceso a la Información Pública.
 
-###### Artículo 5°.
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2011)</small>
 
-Quienes produzcan, administren, manejen, archiven o conserven información pública serán responsables de ella en los términos de esta Ley. Toda la información en poder de los órganos, estará a disposición de las personas salvo aquélla que se considere como reservada o confidencial. Quienes soliciten información pública tienen derecho, a su elección, a que la misma les sea proporcionada de manera verbal o por escrito y a obtener por cualquier medio la reproducción de los documentos en que se contenga. Las personas tienen derecho a formular consultas sobre las competencias y atribuciones de los órganos. También comprende el derecho de solicitar informes y datos sobre los servidores públicos que prestan sus servicios en los órganos. La pérdida, destrucción, alteración u ocultamiento de la información pública y de los documentos en que se contenga, será sancionada en los términos de esta Ley y demás ordenamientos relativos.
+###### Artículo 5º.
 
-###### Artículo 6°.
+Quienes produzcan, administren, manejen, archiven o conserven información pública serán responsables de ella en los términos de esta Ley. Toda la información en poder de los Sujetos Obligados estará a disposición de las personas, salvo aquella que se considere como reservada o confidencial. Quienes soliciten información pública tienen derecho, a su elección, a que la misma les sea proporcionada de manera verbal o por escrito y a obtener por cualquier medio la reproducción de los documentos en que se contenga. Las personas tienen derecho a formular consultas sobre las competencias y atribuciones de los Sujetos Obligados. También comprende el derecho de solicitar informes y datos sobre los servidores públicos que prestan sus servicios en los órganos. La pérdida, destrucción, alteración u ocultamiento de la información pública y de los documentos en que se contenga, será sancionada en los términos de esta Ley y demás ordenamientos relativos.
 
-Cada órgano debe sistematizar la información, para facilitar el acceso de las personas a la misma, así como su publicación a través de los medios disponibles. Los órganos tienen la obligación de proveer la información contenida en documentos escritos, fotografías, gráficos, grabaciones, soporte electrónico o digital, o en cualquier otro medio o formato, que se encuentre en su posesión o bajo su control. En cada reunión de los órganos en que se discutan y adopten decisiones públicas deberá levantarse una minuta que deberá preservarse en los archivos oficiales. Se considera además como información para los efectos de esta Ley, cualquier tipo de documentación generada y elaborada, sea parcial o totalmente con cargo al erario, que haya servido para discusiones y toma de decisiones en el ejercicio de la función pública.
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2011)</small>
+
+###### Artículo 6º.
+
+Cada Sujeto Obligado debe sistematizar la información para facilitar el acceso de las personas a la misma, además tendrá la obligación de publicarla a través de los medios disponibles.
+
+Los Sujetos Obligados deben de proveer la información contenida en documentos escritos, fotografías, gráficos, grabaciones, soporte electrónico o digital, o en cualquier otro medio o formato, que se encuentre en su posesión o bajo su control.
+
+De toda reunión de los Sujetos Obligados, en que se discutan y adopten decisiones públicas, deberá levantarse una minuta que deberá preservarse en los archivos oficiales.
 
 ###### Artículo 7°.
 
 Todas aquellas personas que desempeñen funciones públicas están obligadas a asegurar el acceso a la información.
 
-###### Artículo 8°.
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2011)</small>
 
-En la interpretación de esta Ley se deberá favorecer el principio de máxima publicidad de la información en posesión de los sujetos obligados, atendiendo a la Declaración Universal de los Derechos Humanos, la Convención Interamericana de Derechos Humanos, así como a los instrumentos internacionales suscritos y ratificados por el Estado Mexicano, y en caso de duda se privilegiará la interpretación que proteja con mejor eficacia el derecho a la información pública, sin afectar los datos personales.
+###### Artículo 8º.
+
+En la aplicación, así como en la interpretación de esta Ley, los Sujetos Obligados deberán observar el principio de máxima publicidad, atendiendo a la Declaración Universal de los Derechos Humanos, la Convención Interamericana de Derechos Humanos, así como a los instrumentos internacionales suscritos y ratificados por el Estado Mexicano, en caso de duda se privilegiará la interpretación que proteja con mejor eficacia el derecho a la información pública, sin afectar los datos personales.
 
 De surgir algún conflicto entre métodos de interpretación, prevalecerá el método sistemático sustentado en el principio de seguridad jurídica; le seguirá el histórico, y en última instancia, se atenderá al método literal.
 
+En la clasificación de la información, deberá optarse por su publicación, sin afectar los datos personales, o bien por preparar versiones públicas de los documentos clasificados.
+
 ### CAPITULO II. De la Información Pública que debe ser Difundida de Oficio
 
-###### Artículo 9°.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE AGOSTO DE 2011)</small>
 
-Con excepción de la información reservada o confidencial prevista en esta Ley, los sujetos obligados deberán poner a disposición del público y actualizar, cada vez que existan modificaciones a la misma, conforme lo señalen los lineamientos que expida el Instituto, entre otra, la información siguiente:
+###### Artículo 9º.
+
+Con excepción de la información reservada o confidencial prevista en esta Ley, los Sujetos Obligados deberán poner a disposición del público, difundir y actualizar la información cada vez que existan modificaciones a la misma, o a más tardar dentro de los 45 días naturales contados a partir del primer día del mes siguiente a aquél en que se generó la información siguiente:
 
 I.- El marco normativo aplicable a cada sujeto obligado tales como la Constitución Política del Estado, las leyes, decretos, reglamentos, lineamientos, circulares y demás disposiciones de observancia general;
 
@@ -233,6 +289,10 @@ XXX.- Cualquier otra información que sea de utilidad o se considere relevante, 
 
 La información a que se refiere este artículo deberá publicarse de tal forma que facilite su uso y comprensión por las personas, y que permita asegurar su calidad, veracidad, oportunidad y confiabilidad. Las dependencias y entidades deberán atender los lineamientos y las recomendaciones que al respecto expida el Instituto.
 
+> <small>(ADICIONADO, P.O. 8 DE AGOSTO DE 2011)</small>
+
+El Instituto realizará evaluaciones de manera cuatrimestral o aleatoriamente, a fin de verificar el exacto cumplimiento de este Capítulo y conforme los lineamientos que se expidan al efecto, por el Instituto.
+
 ###### Artículo 10.
 
 El Poder Judicial deberá hacer públicas las sentencias que hayan causado ejecutoria. Las partes podrán oponerse a la publicación de sus datos personales que se contengan en las ejecutorias, en razón de la protección de derechos familiares, de terceros, del honor y las buenas costumbres. La oposición deberá ser solicitada y justificada mediante el incidente respectivo y determinada a su vez por la interlocutoria correspondiente.
@@ -269,29 +329,43 @@ Los sujetos obligados de esta Ley deberán preparar la automatización, presenta
 
 El ejercicio del derecho de acceso a la información sólo será restringido mediante la figura de: Información reservada o confidencial. Esta es la información que manteniendo su naturaleza, su divulgación se restringe en atención a un interés superior.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE AGOSTO DE 2011)</small>
+
 ###### Artículo 17.
 
-Para los efectos de esta Ley se considera información reservada, la expresamente clasificada como tal mediante acuerdo del titular de cada uno de los sujetos obligados. La clasificación de la información procede sólo en los siguientes casos:
+Para los efectos de esta Ley se considera Información Reservada, la siguiente:
 
-I.- Cuando se trate de información cuya divulgación ponga en riesgo la seguridad del Estado y Municipios, la vida o la seguridad de cualquier persona o el desarrollo de investigaciones reservadas en una sociedad democrática;
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2011)</small>
 
-II.- La información cuya divulgación pueda causar un serio perjuicio a las siguientes actividades:
+I.- Aquella cuya divulgación ponga en riesgo la seguridad del Estado y municipios;
 
-a).- Las relativas a la prevención o persecución de los delitos;
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2011)</small>
 
-b).- Las referentes a la impartición de justicia;
+II.- Aquella que ponga en riesgo la vida, la seguridad o la salud de cualquier persona;
 
-c).- Aquellas encaminadas a la recaudación de las contribuciones; y
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2011)</small>
 
-d).- Cualquier otra acción que tenga por objeto la aplicación de las leyes.
+III.- Aquella cuya divulgación cause un serio perjuicio a:
 
-III.- Las averiguaciones previas y la información que comprometa los procedimientos de investigación penal;
+a).- La prevención o persecución de los delitos;
+
+b).- La impartición de la justicia o la seguridad de un denunciante o testigo, incluso sus familias;
+
+c).- La recaudación de las contribuciones;
+
+d).- Las actividades de verificación del cumplimiento de las leyes; y
+
+e).- Las estrategias procesales o trámites de los sujetos obligados en procesos judiciales, administrativos o arbitrales, mientras las resoluciones que ponen fin a la instancia no se hayan dictado o acordado.
+
+De igual manera se considera información reservada todo lo actuado dentro de las averiguaciones previas.
 
 IV.- Cuando se trate de información sobre estudios, proyectos y presupuestos, cuya divulgación pueda causar daños al interés del Estado o suponga un riesgo para su realización;
 
 V.- La que por disposición expresa de una Ley sea considerada reservada;
 
-VI.- Cuando se trate de información de particulares recibida por la administración pública bajo promesa de reserva o esté relacionada con la propiedad intelectual; patentes o marcas en poder de las autoridades;
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2011)</small>
+
+VI.- Aquella que se entregue con carácter de confidencial a los Sujetos Obligados;
 
 VII.- Cuando se trate de información correspondiente a documentos o comunicaciones internas que sean parte de un proceso deliberativo previo a la toma de una decisión legislativa, administrativa o judicial;
 
@@ -305,15 +379,17 @@ XI.- La que se encuentre clasificada como de acceso prohibido por las leyes.
 
 Cuando la información esté clasificada parcialmente reservada sólo se dará a conocer la parte pública de ésta.
 
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2011)</small>
+
 ###### Artículo 18.
 
-El acuerdo que clasifique información como reservada o confidencial deberá demostrar que:
+La información que se hace mención en el artículo anterior, sólo podrá ser clasificada como tal mediante acuerdo que deberá contener:
 
-I.- La información encuadra legítimamente en alguna de las hipótesis de excepción previstas en la presente Ley;
+I.- La justificación de que la información encuadra legítimamente en alguna de las hipótesis de reserva previstas en la presente Ley;
 
-II.- La no clasificación de la información de referencia pueda amenazar efectivamente el interés protegido por la Ley; y
+II.- La fundamentación y la motivación con base en elementos objetivos o verificables; y
 
-III.- El daño que pueda producirse con la desclasificación de la información sea mayor que el interés público de conocer la información de referencia.
+III.- La identificación del daño que pueda producirse al interés público protegido o al servidor público.
 
 ###### Artículo 19.
 
@@ -331,11 +407,25 @@ La información a que se refiere este Artículo, sólo podrá ser consultada por
 
 No se considera información confidencial al Informe de Situación Patrimonial de los servidores públicos.
 
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2011)</small>
+
 ###### Artículo 20.
 
-El acuerdo que clasifique la información como reservada o como confidencial, deberá indicar la fuente de información, la justificación por la cual se clasifica, las partes de los documentos que se reservan, el plazo de reserva y la designación de la autoridad responsable de su conservación.
+La información deberá ser clasificada por el titular de la unidad administrativa que tenga en su posesión la información, desde el momento en que se genera el documento o el expediente, o en el momento en que se reciba una solicitud de acceso a la información.
 
 Las partes de un documento que no estén expresamente reservadas se considerarán de libre acceso público.
+
+El acuerdo que clasifique la información como reservada deberá indicar:
+
+I.- La fuente de información;
+
+II.- La justificación por la cual se clasifica;
+
+III.- Las partes de los documentos que se reservan;
+
+IV.- El plazo de reserva; y
+
+V.- La designación de la autoridad responsable de su conservación.
 
 ###### Artículo 21.
 
@@ -373,19 +463,23 @@ VI.- Adoptar las medidas necesarias que garanticen la seguridad de los datos per
 
 Los sujetos obligados no podrán difundir, distribuir o comercializar los datos personales contenidos en los sistemas de información, desarrollados en el ejercicio de sus funciones, salvo que haya mediado el consentimiento expreso, por escrito o por un medio de autenticidad similar, de las personas a que haga referencia la información.
 
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2011)</small>
+
 ###### Artículo 25.
 
 Los sujetos obligados de esta Ley podrán proporcionar los datos personales sin requerir consentimiento de los individuos, en los siguientes casos:
 
-I.- Los necesarios por razones estadísticas, científicas o de interés general previstas en Ley, previo procedimiento por el cual no puedan asociarse los datos personales con la persona a quien se refieran;
+I.- Los necesarios por razones estadísticas, científicas o de interés general previstas en Ley, por el cual no puedan asociarse los datos personales con la persona a quien se refieran, la cual se hará vía procedimiento de disociación;
 
-II.- Cuando se transmitan entre sujetos obligados o entre dependencias y entidades, siempre y cuando los datos se utilicen para el ejercicio de facultades propias de los mismos;
+II.- Cuando se recaben para el ejercicio de las atribuciones legales conferidas a los Sujetos Obligados;
 
 III.- Cuando exista una orden judicial;
 
-IV.- Cuando por motivo de la contratación por parte de los sujetos obligados con algún tercero, para la prestación o apoyo de algún servicio o actividad pública propia de los obligados, se requiera el tratamiento de datos personales. Dichos terceros no podrán utilizar los datos personales para propósitos distintos a aquéllos para los cuales se les hubieren transmitido; y
+IV.- Cuando se refieran a las partes de un contrato o precontrato de una relación de negocios, laboral o administrativa y sean necesarios para su mantenimiento y cumplimiento;
 
-V.- En los demás casos que establezcan las leyes.
+V.- Cuando sean necesarios para efectuar un diagnostico médico, la prestación de asistencia sanitaria o tratamientos médicos, siempre que dicho tratamiento se realice por persona sujeta al secreto profesional u obligación equivalente; y
+
+VI.- En los demás casos que establezcan las leyes.
 
 ###### Artículo 26.
 
@@ -399,9 +493,11 @@ Las personas interesadas o sus legítimos representantes podrán solicitar, prev
 
 Aquélla deberá entregar al solicitante, en un plazo de 10 días hábiles desde la presentación de la solicitud, una comunicación que haga constar las modificaciones o bien, le informe de manera fundada y motivada, las razones por las cuales no procedieron las modificaciones.
 
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2011)</small>
+
 ###### Artículo 28.
 
-Contra la negativa de entregar, corregir datos personales o falta de respuesta en los plazos que señala el Artículo 30 procederá la interposición del recurso de revisión o inconformidad en su caso, independientemente de las sanciones que pudiera aplicar el Instituto en términos de esta Ley.
+Contra la negativa de entregar, corregir datos personales o falta de respuesta en los plazos que señala el artículo 39, procederá la interposición del recurso de revisión o inconformidad en su caso, independientemente de las sanciones que pudiera aplicar el Instituto en términos de esta Ley.
 
 ### CAPITULO V. De los Costos de Acceso
 
@@ -423,7 +519,9 @@ I.- Recabar y difundir la información a que se refiere el Artículo 9° además
 
 II.- Recibir y dar trámite a las solicitudes de acceso a la información;
 
-III.- Auxiliar a los particulares en la elaboración de solicitudes y, en su caso, orientarlos sobre las dependencias o entidades u otros órganos que pudieran tener la información que solicitan;
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2011)</small>
+
+III.- Auxiliar a los particulares en la elaboración de solicitudes y, en su caso, orientarlos sobre las Dependencias o Entidades u otros Sujetos Obligados que pudieran tener la información que solicitan;
 
 IV.- Realizar los trámites internos de cada dependencia o entidad, necesarios para entregar la información solicitada, además de efectuar las notificaciones a los particulares;
 
@@ -471,15 +569,21 @@ En ningún caso la entrega de información estará condicionada a que se motive 
 
 Con la solicitud se debe iniciar el expediente administrativo, al cual se le dará el seguimiento necesario hasta la entrega de la información solicitada, constituyendo esta base de datos, a su vez, información pública.
 
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2011)</small>
+
 ###### Artículo 36.
 
 Los sujetos obligados de esta Ley sólo estarán obligados a poner a disposición del solicitante la copia de los documentos que se encuentren en sus archivos.
 
-El deber de acceso a la información cuando proceda se dará por cumplido cuando se pongan a disposición del solicitante para consulta los documentos en el sitio donde se encuentren; o bien, mediante la expedición de copias simples, certificadas, medios electrónicos o cualquier otro medio.
+El deber de acceso a la información, se dará por cumplido cuando:
 
-El acceso se dará solamente en la forma en que lo permita el documento de que se trate, pero se entregará en su totalidad o parcialmente, a petición del solicitante.
+I.- Se pongan a disposición del solicitante para consulta, los documentos en el sitio donde se encuentren, siempre y cuando por la forma en que se encuentre la información, no sea posible su sistematización, pero se entregará en su totalidad o parcialmente, a petición del solicitante; y
 
-En el caso que la información solicitada por la persona ya esté disponible al público en medios impresos, tales como libros, compendios, trípticos, archivos públicos, en formatos electrónicos disponibles en Internet o en cualquier otro medio, se le hará saber la fuente, el lugar y la forma en que puede consultar, reproducir o adquirir dicha información.
+II.- Se expidan copias simples, certificadas, se entregue la información por medios electrónicos o por cualquier otro medio.
+
+En caso de que la información ya esté disponible en Internet, la Unidad de Enlace se lo indicará al solicitante, precisando la dirección electrónica completa del sitio donde se encuentra la información requerida.
+
+Para el caso de que la información ya esté disponible al público en medios impresos, tales como libros, compendios, trípticos, archivos públicos, en formatos electrónicos disponibles en Internet o en cualquier otro medio, se le hará saber la fuente, el lugar y la forma en que puede consultar, reproducir o adquirir dicha información.
 
 ###### Artículo 37.
 
@@ -515,9 +619,13 @@ Las unidades de enlace no estarán obligadas a dar trámite a solicitudes de acc
 
 Se crea el Instituto de Transparencia del Estado de Aguascalientes como un organismo público autónomo con personalidad jurídica y patrimonio propio; siendo éste el órgano de autoridad, promoción, difusión e investigación sobre el derecho de acceso a la información pública.
 
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2011)</small>
+
 ###### Artículo 43.
 
-El Instituto contará con una Junta de Gobierno, como órgano máximo, que será integrado por tres comisionados ciudadanos propietarios y sus respectivos suplentes, de los cuales uno será su presidente quien a su vez detentará la representación legal, jurídica, económica y financiera del Instituto.
+El Instituto contará con una Junta de Gobierno que será el órgano máximo del Instituto y deberá funcionar en Pleno.
+
+La Junta de Gobierno estará integrada por tres Comisionados propietarios y sus respectivos suplentes.
 
 ###### Artículo 44.
 
@@ -535,7 +643,9 @@ I.- Ser ciudadano mexicano en pleno ejercicio de sus derechos;
 
 II.- Tener al menos treinta años cumplidos al día de la designación;
 
-III.- Contar con título profesional a nivel licenciatura, así como acreditar tener conocimientos en el campo de transparencia y acceso a la información;
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2011)</small>
+
+III.- Contar con título profesional a nivel licenciatura o acreditar tener conocimientos en el campo de transparencia y acceso a la información;
 
 IV.- Gozar de reconocido prestigio personal y profesional;
 
@@ -543,17 +653,29 @@ V.- No ser ni haber sido dirigente de ningún partido o asociación política ni
 
 VI.- No desempeñar y haber desempeñado cargo o empleo público alguno de cualquier naturaleza, cuando menos dos años antes al día de la designación;
 
-VII.- Contar con una residencia efectiva en el Estado cuando menos cinco años previos inmediatos a su designación; y
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2011)</small>
 
-VIII.- No haber sido condenado por la comisión de delito doloso alguno.
+VII.- Contar con una residencia efectiva en el Estado cuando menos cinco años previos inmediatos a su designación;
+
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2011)</small>
+
+VIII.- No haber sido condenado por la comisión de delito doloso alguno; y
+
+> <small>(ADICIONADA, P.O. 8 DE AGOSTO DE 2011)</small>
+
+IX.- No estar inhabilitado para ejercer cargos públicos.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE AGOSTO DE 2011)</small>
 
 ###### Artículo 47.
 
-Los comisionados durarán en su encargo un periodo de cuatro años, y podrán ser reelectos para un segundo periodo.
+Los comisionados durarán en su encargo un período de seis años y no podrán ser reelectos.
 
 Los comisionados no podrán ser retirados de su cargo durante el periodo para el que fueron nombrados, salvo por causa grave que calificará el Congreso del Estado en términos de lo señalado en la Ley de Responsabilidades de los Servidores Públicos del Estado de Aguascalientes. Este cargo es incompatible con cualquier otro empleo, cargo o comisión en el sector público o privado, salvo la docencia y la investigación académica.
 
-El Presidente será nombrado por los comisionados para un periodo de dos años, no podrá ser reelecto y éste tendrá la representación legal del Instituto.
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2011)</small>
+
+El Presidente será nombrado por los Comisionados propietarios por un período de seis años y tendrá la representación legal del Instituto.
 
 ###### Artículo 48.
 
@@ -721,7 +843,9 @@ El Instituto al desahogar el recurso podrá:
 
 I. Sobreseerlo;
 
-II.- Confirmar el acto impugnado;
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2011)</small>
+
+II.- Confirmar, revocar o modificar el acto y/o resolución recurrida;
 
 III.- Declarar sin efectos el acto impugnado;
 
@@ -731,9 +855,17 @@ V.- Declarar la ilegal limitación al derecho de acceso a la información;
 
 VI.- Ordenar a la autoridad responsable el inmediato acceso a la información solicitada por el quejoso;
 
-VII.- Imponer las sanciones aplicables en términos de la presente Ley; y
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2011)</small>
 
-VIII.- Ordenar vista a las autoridades administrativas y jurisdiccionales competentes para la imposición de las sanciones aplicables.
+VII.- Imponer las sanciones aplicables en términos de la presente Ley;
+
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2011)</small>
+
+VIII.- Ordenar vista a las autoridades administrativas y jurisdiccionales competentes para la imposición de las sanciones aplicables; y
+
+> <small>(ADICIONADA, P.O. 8 DE AGOSTO DE 2011)</small>
+
+IX.- Desecharlo por improcedente.
 
 ###### Artículo 64.
 
@@ -743,9 +875,11 @@ El Instituto podrá prevenir al quejoso de los errores de forma y fondo al prese
 
 Los sujetos de la Ley estarán obligados a rendir oportuna y puntualmente los informes, documentos, archivos y dictámenes que les sean requeridos por el Instituto con motivo de la interposición del recurso de inconformidad.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE AGOSTO DE 2011)</small>
+
 ###### Artículo 66.
 
-El Instituto estará obligado a emitir una resolución en un plazo no mayor de 10 días hábiles. Toda resolución final deberá ser por escrito o medio electrónico según se haya tramitado el recurso.
+El Instituto estará obligado a emitir una resolución en un plazo no mayor de 10 días hábiles, una vez integrado el expediente respectivo. Toda resolución final deberá ser por escrito o medio electrónico, según se haya tramitado el recurso.
 
 El Instituto establecerá en el Reglamento respectivo los trámites procesales mínimos necesarios para la adecuada resolución del recurso de inconformidad.
 
@@ -952,3 +1086,13 @@ El presente Decreto entrará en vigencia al día siguiente de su publicación en
 ###### ARTÍCULO SEGUNDO.
 
 En un término no mayor a los treinta días naturales contados a partir de la entrada en vigencia del presente Decreto, el Instituto de Transparencia deberá realizar las adecuaciones necesarias al Reglamento del Recurso de Inconformidad a fin de prever los trámites procesales mínimos para el otorgamiento de la suspensión.
+
+P.O. 8 DE AGOSTO DE 2011.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto iniciará su vigencia el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Los Comisionados del Instituto nombrados para el período 2010-2014, por única ocasión y con la finalidad de que cumplan en total seis años en su encargo, se ratifican por el Pleno del Congreso del Estado para el período 2014 al 31 de diciembre del año 2016, fecha en que concluirán su encargo, sin posibilidad de reelección, de conformidad con lo dispuesto por el Artículo 47 de la Ley de Transparencia y Acceso a la Información Pública del Estado de Aguascalientes.
