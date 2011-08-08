@@ -4,7 +4,7 @@ identifier: "AGU-codigo-civil-del-estado-de-aguascalientes-2592"
 country: "mx"
 rank: "codigo"
 publication_date: "1947-12-07"
-last_updated: "2010-09-20"
+last_updated: "2011-08-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2592&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "AGU"
 ---
 # CODIGO CIVIL DEL ESTADO DE AGUASCALIENTES
 
-CODIGO CIVIL
+CÓDIGO CIVIL DEL ESTADO DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE SEPTIEMBRE DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE AGOSTO DE 2011.
 
 Código publicado en el Suplemento al No. 49 del Periódico Oficial del Estado de Aguascalientes, el 7 de diciembre de 1947.
 
@@ -471,7 +471,7 @@ Si al dar aviso de un nacimiento se comunicare también la muerte del recién na
 
 Cuando se trate de parto múltiple se elaborará un registro por cada uno de los nacidos y se harán constar las particularidades que los distingan y quién nació primero.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 31 DE DICIEMBRE DE 1981)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 1981)</small>
 
 ### CAPITULO III.
 
@@ -485,7 +485,7 @@ El registro de nacimiento surte efecto de reconocimiento de hijo, en relación a
 
 Cuando el reconocimiento se realice después de llevado a cabo el Registro de Nacimiento, se cancelará la Clave Unica de Registro de Población (CURP) asignada, y se formulará una nueva debiendo notificarse lo anterior a la Dirección General del Registro Nacional de Población e Identificación Personal de la Secretaría de Gobernación, o dependencia federal semejante.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 6 DE MARZO DE 2000)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE MARZO DE 2000)</small>
 
 ###### Artículo 70.
 
@@ -587,7 +587,7 @@ Pronunciado el auto de discernimiento de la tutela, el Juez mandará publicarlo 
 
 La omisión del registro de tutela no impide al tutor iniciar en el ejercicio de su encargo ni puede alegarse por ninguna persona como causa para dejar de tratar con él, pero hace responsables al tutor y al curador de esta omisión, la que se sancionará con multa de treinta a cincuenta días de salario mínimo general vigente en el Estado.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 6 DE MARZO DE 2000)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE MARZO DE 2000)</small>
 
 ###### Artículo 83.
 
@@ -623,7 +623,7 @@ VI.- El nombre del Juez que pronunció el auto de discernimiento y la fecha de �
 
 Realizado el registro de tutela, se anotará el registro de nacimiento del incapacitado, observándose para el caso de que no exista en la misma oficina del Registro, lo previsto por el Artículo 75.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 31 DE DICIEMBRE DE 1981)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 31 DE DICIEMBRE DE 1981)</small>
 
 ### CAPITULO VI.
 
@@ -719,9 +719,11 @@ El matrimonio se celebrará dentro de los 8 días siguientes, en el lugar, día 
 
 En el lugar, día y hora designados para la celebración del matrimonio, deberán estar presentes ante el Oficial del Registro Civil, los pretendientes o su apoderado especial, constituido en la forma prevenida por el Artículo 44 de este Código y dos testigos por cada uno de ellos, que acrediten su identidad.
 
-Acto continuo, el Oficial del Registro Civil leerá en voz alta la solicitud de matrimonio, los documentos que con ella se hayan presentado y las diligencias practicadas, e interrogará a los testigos acerca de si los pretendientes son las mismas personas a que se refiere la solicitud. En caso afirmativo, preguntará a cada uno de los pretendientes si es su voluntad unirse en matrimonio, y si están conformes, los declarará unidos en nombre de la Ley y de la sociedad, dirigiéndoles una exhortación sobre las finalidades del matrimonio.
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2011)</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 6 DE MARZO DE 2000)</small>
+Acto continuo, el Oficial del Registro Civil leerá en voz alta la solicitud de matrimonio, los documentos que con ella se hayan presentado y las diligencias practicadas, e interrogará a los testigos acerca de si los pretendientes son las mismas personas a que se refiere la solicitud. En caso afirmativo, preguntará a cada uno de los pretendientes si es su voluntad unirse en matrimonio, y si están conformes, los declarará unidos en nombre de la ley y de la sociedad, dirigiéndoles una exhortación sobre las finalidades del matrimonio, dando lectura a la carta matrimonial.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE MARZO DE 2000)</small>
 
 ###### Artículo 95.
 
@@ -883,7 +885,7 @@ Ninguna inhumación se hará sin la autorización escrita del Oficial del Regist
 
 En el registro de defunción se asentarán los datos que el Oficial del Registro Civil reciba de la declaración que se le haga y será firmado por dos testigos preferentemente parientes si los hay o vecinos. Si la persona ha muerto fuera de su domicilio, uno de los testigos debe ser aquél en cuyo domicilio haya ocurrido el fallecimiento o alguno de los vecinos más inmediatos.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 6 DE MARZO DE 2000)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE MARZO DE 2000)</small>
 
 ###### Artículo 112.
 
@@ -1017,7 +1019,7 @@ El Oficial del Registro Civil realizará el registro que corresponda en el que s
 
 Cuando se recupere la capacidad legal para administrar bienes, se revoque la adopción o la tutela, se presente la persona declarada ausente o cuya muerte se presumía, se dará aviso al Oficial del Registro Civil por el mismo interesado o por la autoridad que corresponda para que cancele el acta a que se refiere el artículo anterior y se teste la anotación que se hubiere hecho en el acta de nacimiento respectiva.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 6 DE MARZO DE 2000)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 6 DE MARZO DE 2000)</small>
 
 ### CAPITULO XI.
 
@@ -1041,7 +1043,7 @@ Dará lugar a pedir la nulificación de un registro de estado civil, cuando el s
 
 Cuando el acto haya ocurrido pero se declare nulo con posterioridad, el registro sólo será anotado al margen desde la fecha de esa declaración.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 6 DE MARZO DE 2000)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE MARZO DE 2000)</small>
 
 ###### Artículo 131.
 
@@ -1055,7 +1057,7 @@ I.- Cuando habiendo ocurrido realmente el acto y habiendo intervenido personas l
 
 II.- Cuando se solicite variar un nombre puesto erróneamente u otra circunstancia accidental.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 6 DE MARZO DE 2000)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE MARZO DE 2000)</small>
 
 ###### Artículo 132.
 
@@ -1109,7 +1111,7 @@ Los Oficiales del Registro Civil que lleven a cabo alguna anotación con motivo 
 
 Las certificaciones, constancias o actas de cualquier registro del estado civil en donde se haya asentado alguna anotación con motivo de las circunstancias previstas en este Capítulo, deberán expedirse consignando la anotación respectiva.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 19 DE NOVIEMBRE DE 2007)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 19 DE NOVIEMBRE DE 2007)</small>
 
 ## TÍTULO QUINTO. DE LA FAMILIA
 
@@ -1161,7 +1163,7 @@ Las acciones a que se refiere el artículo que precede, sólo pueden ejercitarse
 
 Si el matrimonio no se celebra, tienen derecho los prometidos de exigir la devolución de lo que hubieren donado con motivo de su concertado matrimonio. Este derecho durará un año, contado desde el rompimiento de los esponsales.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 19 DE NOVIEMBRE DE 2007)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 19 DE NOVIEMBRE DE 2007)</small>
 
 ### CAPITULO II.
 
@@ -1289,7 +1291,7 @@ Los cónyuges están obligados a guardarse fidelidad, a contribuir cada uno por 
 
 Los cónyuges tienen derecho a decidir de común acuerdo sobre el número y el espaciamiento de sus hijos.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE NOVIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE NOVIEMBRE DE 2007)</small>
 
 ###### Artículo 159.
 
@@ -1327,7 +1329,7 @@ Los cónyuges y los hijos en materia de alimentos, tendrán derecho preferente s
 
 (DEROGADO, P.O. 23 DE AGOSTO DE 1998)
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE NOVIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE NOVIEMBRE DE 2007)</small>
 
 ###### Artículo 163.
 
@@ -1833,7 +1835,7 @@ III.- Que se haya celebrado en contravención a lo dispuesto en los artículos 8
 
 La acción de nulidad que nace de error, sólo puede deducirse por el cónyuge engañado; pero si éste no denuncia el error inmediatamente que lo advierte, se tiene por ratificado el consentimiento y queda subsistente el matrimonio, a no ser que exista algún otro impedimento que lo anule.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE NOVIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE NOVIEMBRE DE 2007)</small>
 
 ###### Artículo 260.
 
@@ -2103,7 +2105,7 @@ El divorcio así obtenido no surtirá efectos legales si se comprueba que los c�
 
 Los consortes que no se encuentren en el caso previsto en los anteriores párrafos de este artículo, pueden divorciarse por mutuo consentimiento, ocurriendo al juez competente en los términos que ordena el Código de Procedimientos Civiles.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE AGOSTO DE 1998)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE AGOSTO DE 1998)</small>
 
 ###### Artículo 295.
 
@@ -2169,7 +2171,7 @@ La reconciliación de los cónyuges pone término al juicio de divorcio en cualq
 
 El cónyuge que no haya dado causa al divorcio, puede antes de que se pronuncie la sentencia que ponga fin al litigio, prescindir de sus derechos y obligar al otro a reunirse con él; mas en este caso no puede pedir de nuevo el divorcio por los mismos hechos que motivaron el juicio anterior, pero sí por otros nuevos, aunque sean de la misma especie.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE NOVIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE NOVIEMBRE DE 2007)</small>
 
 ###### Artículo 304.
 
@@ -2267,7 +2269,7 @@ La muerte de uno de los cónyuges pone fin al juicio de divorcio, y los heredero
 
 Ejecutoriada una sentencia de divorcio, el Juez de Primera Instancia remitirá copia de ella al Oficial del Registro Civil, ante quien se celebró el matrimonio, para que levante el acta correspondiente y haga las anotaciones respectivas y, además, para que publique el extracto de la resolución durante quince días en las tablas destinadas al efecto.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 19 DE NOVIEMBRE DE 2007)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 19 DE NOVIEMBRE DE 2007)</small>
 
 ### CAPITULO XIII.
 
@@ -2305,7 +2307,7 @@ Artículo 313 Quinter.- Al cesar la convivencia, la concubina o el concubinario 
 
 El derecho que otorga este Artículo podrá ejercitarse sólo durante el año siguiente a la cesación del concubinato.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 5 DE NOVIEMBRE DE 2001)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 5 DE NOVIEMBRE DE 2001)</small>
 
 ## TITULO SEXTO.
 
@@ -2341,7 +2343,7 @@ Cada generación forma un grado, y la serie de grados constituye lo que se llama
 
 ###### Artículo 319.
 
-La línea es recta o transversaI: la recta se compone de la serie de grados entre personas que descienden unas de otras; la transversal se compone de la serie de grados entre personas que sin descender unas de otras, proceden de un progenitor o tronco común.
+La línea es recta o transversal: la recta se compone de la serie de grados entre personas que descienden unas de otras; la transversal se compone de la serie de grados entre personas que sin descender unas de otras, proceden de un progenitor o tronco común.
 
 ###### Artículo 320.
 
@@ -2507,7 +2509,7 @@ Lo dispuesto en los dos artículos anteriores es aplicable a la mujer, cuando te
 
 Cuando alguna persona muera por motivo del desempeño de funciones o empleos públicos, sin dejar bienes propios que basten al sostenimiento de sus hijos menores de edad o inválidos, el Estado y los Municipios tendrán obligación de proporcionar alimentos a dichos hijos en los mismos términos que si se tratare de hermanos.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 5 DE NOVIEMBRE DE 2001)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 5 DE NOVIEMBRE DE 2001)</small>
 
 ### CAPITULO III.
 
@@ -2519,7 +2521,7 @@ DE LA VIOLENCIA FAMILIAR.
 
 Los integrantes de la familia tienen derecho a que los demás miembros les respeten su integridad física y psíquica, con el objeto de contribuir a su sano desarrollo para su plena incorporación y participación en el núcleo social. Al efecto, contarán con la asistencia y protección de las instituciones públicas de acuerdo con las leyes.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 6 DE ABRIL DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE ABRIL DE 2009)</small>
 
 ###### Artículo 347 Ter.
 
@@ -2745,7 +2747,7 @@ La filiación de los hijos resulta, con relación a la madre, del sólo hecho de
 
 Pueden reconocer a sus hijos, los que tengan la edad exigida para contraer matrimonio, más la edad del hijo que va a ser reconocido.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE NOVIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE NOVIEMBRE DE 2007)</small>
 
 ###### Artículo 386.
 
@@ -2887,7 +2889,7 @@ Las acciones de investigación de paternidad o maternidad, sólo pueden intentar
 
 Si los padres hubieren fallecido durante la menor edad de los hijos, tienen éstos derecho de intentar la acción antes de que se cumplan cuatro años de su mayor edad.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE AGOSTO DE 1998)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE AGOSTO DE 1998)</small>
 
 ###### Artículo 412.
 
@@ -3063,7 +3065,7 @@ En el segundo caso del Artículo 428, la adopción simple deja de producir efect
 
 Las resoluciones que dicten los jueces, aprobando la revocación, se comunicarán al Oficial del Registro Civil del lugar donde se haya levantado el acta de adopción, para que la cancele.
 
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 6 DE MARZO DE 2000)</small>
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 6 DE MARZO DE 2000)</small>
 
 #### SECCION II.
 
@@ -3105,7 +3107,7 @@ La adopción simple podrá convertirse en plena, debiendo obtenerse el consentim
 
 La tramitación de adopción simple a plena se tramitará en vía incidental.
 
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 6 DE MARZO DE 2000)</small>
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 6 DE MARZO DE 2000)</small>
 
 #### SECCION III.
 
@@ -3353,7 +3355,7 @@ II.- Con la emancipación;
 
 III.- Por la mayor edad del hijo.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE NOVIEMBRE DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE NOVIEMBRE DE 2001)</small>
 
 ###### Artículo 466.
 
@@ -3517,7 +3519,7 @@ Ninguna tutela puede conferirse sin que previamente se declare en los términos 
 
 Los tutores y curadores no pueden ser removidos de su cargo sin que previamente hayan sido oídos y vencidos en juicio.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE NOVIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE NOVIEMBRE DE 2009)</small>
 
 ###### Artículo 486.
 
@@ -3629,7 +3631,7 @@ Si hubiere varios parientes del mismo grado, el juez elegirá entre ellos al que
 
 La falta temporal del tutor legítimo, se suplirá en los términos establecidos en los dos artículos anteriores.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 23 DE NOVIEMBRE DE 2009)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 23 DE NOVIEMBRE DE 2009)</small>
 
 ### CAPITULO IV.
 
@@ -4185,7 +4187,7 @@ El tutor tiene obligación de admitir las donaciones simples, legados y herencia
 
 La expropiación por causa de utilidad pública de bienes de incapacitados, no se sujetará a las reglas antes establecidas, sino a lo que dispongan las leyes de la materia.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE NOVIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE NOVIEMBRE DE 2007)</small>
 
 ###### Artículo 604.
 
@@ -4933,7 +4935,7 @@ DEL PATRIMONIO DE LA FAMILIA.
 
 ### CAPITULO UNICO.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE AGOSTO DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE AGOSTO DE 2010)</small>
 
 ###### Artículo 746.
 
@@ -7383,7 +7385,7 @@ Son incapaces de adquirir por testamento o por intestado, a causa de falta de pe
 
 Será, no obstante, válida la disposición hecha en favor de los hijos que nacieren de ciertas y determinadas personas durante la vida del testador.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE NOVIEMBRE DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE NOVIEMBRE DE 2001)</small>
 
 ###### Artículo 1228.
 
@@ -8769,7 +8771,7 @@ Al aplicar las disposiciones anteriores se tendrá en cuenta lo que ordena el Ca
 
 DE LA SUCESION DE LA CONCUBINA.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE NOVIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE NOVIEMBRE DE 2007)</small>
 
 ###### Artículo 1516.
 
@@ -9009,7 +9011,7 @@ DE LOS ALBACEAS.
 
 No podrá ser albacea el que no tenga la libre disposición de sus bienes.
 
-> <small>(DEROGADO SEGUNDO PARRAFO, P.O. 23 DE AGOSTO DE 2010)</small>
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 23 DE AGOSTO DE 2010)</small>
 
 ###### Artículo 1561.
 
@@ -10127,11 +10129,11 @@ Cuando sin el empleo de mecanismos, instrumentos, etc., a que se refiere el art�
 
 La reparación del daño debe consistir en el restablecimiento de la situación anterior a él, y cuando ello sea imposible, en el pago de daños y perjuicios.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE MAYO DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE MAYO DE 2010)</small>
 
-###### ARTICULO 1790.
+###### Artículo 1790.
 
 Cuando un hecho u omisión ilícitos produzcan un daño moral, el responsable del mismo tendrá la obligación de repararlo mediante una indemnización en dinero, con independencia de que se haya causado daño material, tanto en responsabilidad contractual como extracontractual. Igual obligación de reparar el daño moral tendrá quien incurra en responsabilidad objetiva conforme a los Artículos 1787 y 1803, todos ellos del presente Código.
 
@@ -10203,7 +10205,7 @@ En los casos previstos por los artículos 1797, 1798 y 1799 el que sufra el dañ
 
 El que paga el daño causado por sus sirvientes, empleados u operarios, puede repetir de ellos lo que hubiere pagado.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### ARTICULO 1802.
 
@@ -15855,7 +15857,7 @@ Se entiende por publicidad Registral a la consistente en los actos y documentos 
 
 DE LOS TITULOS SUJETOS A REGISTRO Y DE LOS EFECTOS LEGALES DEL REGISTRO.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE SEPTIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE SEPTIEMBRE DE 2010)</small>
 
 ###### Artículo 2876.
 
@@ -16287,7 +16289,7 @@ Al C. Gobernador Constitucional del Estado.- Presente.
 
 Por tanto, mando se imprima, publique, circule y se le dé el debido cumplimiento. Palacio de Gobierno del Estado.- Aguascalientes, a los 19 días del mes de abril de 1947.- Ing. J. Jesús M. Rodríguez.- El Secretario General de Gobierno.- Lic. Juan de Luna Loera.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CÓDIGO.</small>
 
 P.O. 17 DE OCTUBRE DE 1948.
 
@@ -16295,7 +16297,7 @@ UNICO.- Este decreto es especial y de acuerdo con el párrafo 2o. del Artículo 
 
 P.O. 22 DE ENERO DE 1961.
 
-EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE AGUASCALIENTES.
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE AGUASCALIENTES.
 
 P.O. 21 DE ENERO DE 1962.
 
@@ -16315,13 +16317,13 @@ El presente decreto surtirá sus efectos a los tres días de su publicación en 
 
 P.O. 24 DE AGOSTO DE 1975.
 
-EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE AGUASCALIENTES.
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE AGUASCALIENTES.
 
 P.O. 28 DE AGOSTO DE 1977.
 
 DECRETO No. 66.
 
-EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE AGUASCALIENTES.
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE AGUASCALIENTES.
 
 P.O. 28 DE AGOSTO DE 1977.
 
@@ -16491,7 +16493,7 @@ El presente Decreto entrará en vigencia al día siguiente de su publicación en
 
 P.O. 27 DE OCTUBRE DE 2008.
 
-DECRETO NO. 146, POR EL CUAL SE REFORMAN Y ADICIONAN LOS ARTICULOS 2283, 2296, 2876 DEL CODIGO CIVIL DEL ESTADO DE AGUASCALIENTES.
+DECRETO NO. 146, POR EL CUAL SE REFORMAN Y ADICIONAN LOS ARTÍCULOS 2283, 2296, 2876 DEL CÓDIGO CIVIL DEL ESTADO DE AGUASCALIENTES.
 
 ###### ARTÍCULO PRIMERO.
 
@@ -16511,7 +16513,7 @@ El Poder Ejecutivo del Estado y los Ayuntamientos, en el ámbito de sus atribuci
 
 P.O. 27 DE OCTUBRE DE 2008
 
-DECRETO NO. 147, POR EL CUAL SE REFORMA EL ARTICULO 74 DEL CODIGO CIVIL DEL ESTADO DE AGUASCALIENTES.
+DECRETO NO. 147, POR EL CUAL SE REFORMA EL ARTÍCULO 74 DEL CÓDIGO CIVIL DEL ESTADO DE AGUASCALIENTES.
 
 ###### ARTÍCULO ÚNICO.
 
@@ -16596,3 +16598,13 @@ P.O. 20 DE SEPTIEMBRE DE 2010.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 8 DE AGOSTO DE 2011.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+El Poder Ejecutivo del Estado en un plazo de tres meses, contados a partir de la vigencia del presente Decreto, emitirá el contenido de la "Carta Matrimonial" y sea ésta la que por mandato de Ley, se lea en las ceremonias de matrimonio civil en el Estado de Aguascalientes.
