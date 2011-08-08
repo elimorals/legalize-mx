@@ -4,7 +4,7 @@ identifier: "AGU-legislacion-penal-para-el-estado-de-aguascalientes-33238"
 country: "mx"
 rank: "otro"
 publication_date: "2003-07-21"
-last_updated: "2011-07-25"
+last_updated: "2011-08-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33238&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEGISLACION PENAL PARA EL ESTADO DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE JULIO DE 2011.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE AGOSTO DE 2011.
 
 Legislación publicada en la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el lunes 21 de julio de 2003.
 
@@ -133,7 +133,7 @@ Si las Lesiones Dolosas fueron por motivo de Riña, se aplicará a los responsab
 
 Por Riña se entiende la contienda de obra entre dos o más personas, o la agresión física de una parte y la disposición material para contender de la otra, con el propósito de dañarse recíprocamente.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2011)</small>
 
 ###### Artículo 13.
 
@@ -151,31 +151,31 @@ V. Brutal ferocidad;
 
 VI. Tortura;
 
-> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2005)</small>
-
 VII. Cuando la víctima sea menor de 15 años de edad;
-
-> <small>(ADICIONADA, P.O. 23 DE AGOSTO DE 2010)</small>
 
 VIII. Cuando la víctima se dedique al ejercicio de las labores periodísticas.
 
-Por labor periodística se debe entender el ejercicio de buscar, recolectar, fotografiar, investigar, sintetizar, redactar, jerarquizar, editar, imprimir, divulgar, publicar o difundir informaciones, noticias, ideas u opiniones para conocimiento del público en general, a través de cualquier medio de comunicación, así como la distribución de éstas. Esta actividad puede realizarse de manera habitual o esporádica, remunerada o no y sin que necesariamente exista una relación laboral con un medio de comunicación.
+IX. Cuando el responsable tenga relación de pareja o de carácter conyugal, sea pariente consanguíneo en línea recta, ascendiente o descendiente sin limitación de grado, pariente colateral consanguíneo o afín hasta el cuarto grado, con la víctima;
 
-> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2005)</small>
+X. Cuando la víctima se trate de un incapaz sujeto a patria potestad, tutela, curatela o custodia del responsable; o
 
-IX. Cuando el responsable tenga relación de pareja o de carácter conyugal, sea pariente consanguíneo en línea recta, ascendiente o descendiente sin limitación de grado, pariente colateral consanguíneo o afín hasta el cuarto grado, con la víctima; o
+(NOTA: EL 21 DE MAYO DE 2013, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 25/2011, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN XI DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 22 DE MAYO DE 2013 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
 
-> <small>(ADICIONADA, P.O. 12 DE DICIEMBRE DE 2005)</small>
+XI. CUANDO LA VÍCTIMA SEA PRIVADA DE LA VIDA POR LOS AUTORES, PARTÍCIPES O CÓMPLICES DE HECHOS QUE HAYAN SIDO PREVIAMENTE TIPIFICADOS EN CUALQUIERA DE LAS VARIABLES DE SECUESTRO PREVISTAS EN LA LEY GENERAL PARA PREVENIR Y SANCIONAR LOS DELITOS EN MATERIA DE SECUESTRO, REGLAMENTARIA DE LA FRACCIÓN XXI DEL ARTICULO 73 DE LA CONSTITUCIÓN DE LOS ESTADOS UNIDOS MEXICANOS.
 
-X. Cuando la víctima se trate de un incapaz sujeto a patria potestad, tutela, curatela o custodia del responsable.
+En el caso de Homicidio Doloso Calificado a que se refieren las Fracciones I a la VIII, se aplicará al responsable de 15 a 40 años de prisión, de 150 a 500 días multa y pago total de la reparación de los daños y perjuicios ocasionados.
 
-> <small>(REFORMADO, P.O. 23 DE AGOSTO DE 2010)</small>
+En el caso de las Fracciones IX y X se aplicará al responsable de 20 a 50 años de prisión, de 500 a 1000 días de multa y pago total de la reparación de los daños y perjuicios ocasionados, privándose además al responsable de los derechos familiares que le correspondan, incluidos los de derecho sucesorio.
 
-En el caso de Homicidio Doloso Calificado a que se refieren las Fracciones I a la VIII, se aplicará al responsable de 15 a 40 años de prisión y de 150 a 500 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados, en el caso de las Fracciones IX y X se aplicará al responsable de 20 a 50 años de prisión y de 500 a 1000 días de multa; y al pago total de la reparación de los daños y perjuicios ocasionados, privándose además al responsable de los derechos familiares que le correspondan, incluidos los de derecho sucesorio.
+(NOTA: EL 21 DE MAYO DE 2013, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 25/2011, DECLARÓ LA INVALIDEZ DEL PÁRRAFO ANTEPENÚLTIMO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 22 DE MAYO DE 2013 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
 
-> <small>(REFORMADO, P.O. 23 DE AGOSTO DE 2010)</small>
+EN CASO DE HOMICIDIO DOLOSO CALIFICADO A QUE SE REFIERE LA FRACCIÓN XI SE APLICARÁ DE 40 A 70 AÑOS DE PRISIÓN, 6000 A 12000 DÍAS MULTA AL PAGO TOTAL DE LA REPARACIÓN DE LOS DAÑOS Y PERJUICIOS OCASIONADOS.
 
 Si las Lesiones Dolosas son Calificadas, la punibilidad establecida en el Artículo 10 se aumentará hasta en dos terceras partes en sus mínimos y máximos, privándose además al responsable de los derechos familiares que le correspondan, incluidos los de derecho sucesorio, en tratándose de los supuestos de las Fracciones IX y X del presente Artículo.
+
+(NOTA: EL 21 DE MAYO DE 2013, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 25/2011, DECLARÓ LA INVALIDEZ DEL PÁRRAFO ÚLTIMO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 22 DE MAYO DE 2013 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+SI LAS LESIONES DOLOSAS SE INFIEREN POR LOS AUTORES, PARTICIPES O CÓMPLICES DE HECHOS QUE HAYAN SIDO PREVIAMENTE TIPIFICADOS EN CUALQUIERA DE LAS VARIABLES DE SECUESTRO PREVISTAS EN LA LEY GENERAL PARA PREVENIR Y SANCIONAR LOS DELITOS EN MATERIA DE SECUESTRO, REGLAMENTARIA DE LA FRACCIÓN XXI DEL ARTICULO 73 DE LA CONSTITUCIÓN DE LOS ESTADOS UNIDOS MEXICANOS, SE LES APLICARÁ DE 20 A 50 AÑOS DE PRISIÓN, 3000 A 6000 DÍAS MULTA Y AL PAGO TOTAL DE LA REPARACIÓN DE LOS DAÑOS Y PERJUICIOS OCASIONADOS.
 
 ###### Artículo 14.
 
@@ -1765,11 +1765,11 @@ Para efecto de esta legislación la reinserción social se entenderá como un co
 
 En toda pena de prisión, se computará el tiempo de la prisión preventiva y el arraigo a favor del sentenciado.
 
-> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2009)</small>
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2011)</small>
 
 ###### Artículo 99.
 
-La Multa consiste en el pago al Estado de una cantidad de dinero que se fijará por días-multa y que no podrán exceder de dos mil.
+La Multa consiste en el pago al Estado de una cantidad de dinero que se fijará por días - multa y que no podrán exceder de doce mil.
 
 ###### Artículo 100.
 
@@ -3457,13 +3457,29 @@ d) Cuando la responsabilidad penal se hubiese extinguido en los términos establ
 
 Si de las diligencias practicadas en la averiguación previa no se obtiene la información necesaria o no se ha podido individualizar al indiciado, para poder ejercitar o no la acción penal, y no es posible complementarla o clarificarla en forma inmediata, pero existe la posibilidad de allegarse datos con posterioridad para concluir la investigación, se determinará la reserva de diligencias, ordenándose en consecuencia a la policía continúe con la búsqueda tales datos tendientes a lograr el esclarecimiento del hecho punible.
 
+(NOTA: EL 21 DE MAYO DE 2013, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 25/2011, DECLARÓ LA INVALIDEZ DEL PÁRRAFO SEGUNDO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 22 DE MAYO DE 2013 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+> <small>(ADICIONADO, P.O. 8 DE AGOSTO DE 2011)</small>
+
+QUEDA PROHIBIDA LA DETERMINACIÓN DE RESERVA DE DILIGENCIAS, SI LOS HECHOS MOTIVO DE INVESTIGACIÓN PUEDEN SER ENCUADRADOS EN LA FIGURA TÍPICA DEL SECUESTRO, EN TODAS SUS VARIABLES Y MODALIDADES.
+
 ###### Artículo 318.
 
 El ejercicio de la acción penal prescribirá en un plazo igual al término medio aritmético de la pena privativa de libertad que establezca la descripción típica que corresponda, pero en ningún caso será menor de tres años, y se contará a partir del momento en que se haya concretizado el resultado de lesión o de puesta en peligro del bien jurídico, si el delito es calificado de instantáneo; del momento en que se realizó el último acto de ejecución o se omitió la acción ordenada, si el delito se califica en grado de tentativa; desde el día en que se realizó la última conducta provocadora del resultado de lesión o de puesta en peligro del bien jurídico, si se trata de un delito continuado; y desde el momento en que deje de tener sus efectos, si se trata de delito permanente.
 
+(NOTA: EL 21 DE MAYO DE 2013, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 25/2011, DECLARÓ LA INVALIDEZ DEL PÁRRAFO SEGUNDO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 22 DE MAYO DE 2013 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+> <small>(ADICIONADO, P.O. 8 DE AGOSTO DE 2011)</small>
+
+EL EJERCICIO DE LA ACCIÓN PENAL SERÁ IMPRESCRIPTIBLE SI EL HECHO ENCUADRA EN CUALQUIERA DE LAS VARIABLES O MODALIDADES DE LA FIGURA TÍPICA DEL SECUESTRO.
+
+(NOTA: EL 21 DE MAYO DE 2013, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 25/2011, DECLARÓ LA INVALIDEZ DE LA PARTE QUE ESTABLECE “… SALVO QUE UNO DE LOS HECHOS SEA TIPIFICADO COMO DE SECUESTRO, EN CUALQUIERA DE SUS VARIABLES O MODALIDADES, PUESTO QUE EN ESTE CASO NO OPERA LA PRESCRIPCIÓN.” DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 22 DE MAYO DE 2013 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2011)</small>
+
 ###### Artículo 319.
 
-En los casos de concurso real o ideal, los plazos de la prescripción se computarán separadamente para cada hecho punible, pero correrán en forma simultánea.
+En los casos de concurso real o ideal, los plazos de la prescripción se computarán separadamente para cada hecho punible, pero correrán en forma simultánea, SALVO QUE UNO DE LOS HECHOS SEA TIPIFICADO COMO DE SECUESTRO, EN CUALQUIERA DE SUS VARIABLES O MODALIDADES, PUESTO QUE EN ESTE CASO NO OPERA LA PRESCRIPCIÓN.
 
 ###### Artículo 320.
 
@@ -5930,3 +5946,13 @@ En todos aquellos procesos que se encuentren en trámite, al momento de la publi
 I. El Agente del Ministerio Público, en caso de no haber formulado sus Conclusiones Acusatorias, lo hará de acuerdo a la estructura y sanción del tipo penal vigente al momento de la comisión del hecho y en los términos del Auto de Formal Prisión; y
 
 II. En caso de haber sido formuladas las conclusiones, el Juez que conozca de la causa, según proceda, condenará de acuerdo a la acusación y siempre observando la sanción vigente para el tipo penal al momento de realización (sic) el hecho.
+
+P.O. 8 DE AGOSTO DE 2011.
+
+###### ARTÍCULO PRIMERO
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO
+
+El Procurador General de Justicia del Estado, antes del 30 de noviembre del 2011, deberá expedir las disposiciones administrativas correspondientes en materia de protección de personas en los términos que señala la Ley General para Prevenir y Sancionar los Delitos en Materia de Secuestro, sin menos cabo de las medidas de protección otorgadas previamente.
