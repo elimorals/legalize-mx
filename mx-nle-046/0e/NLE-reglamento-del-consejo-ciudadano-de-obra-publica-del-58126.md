@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-del-consejo-ciudadano-de-obra-publica-del-58126"
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-12-19"
-last_updated: "2010-03-03"
+last_updated: "2011-08-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=58126&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 REGLAMENTO DEL CONSEJO CIUDADANO DE OBRA PÚBLICA, DEL MUNICIPIO DE SAN NICOLÁS DE LOS GARZA, NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE MARZO DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE AGOSTO DE 2011.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el miércoles 19 de diciembre de 2007.
 
@@ -43,9 +43,11 @@ REGLAMENTO DEL CONSEJO CIUDADANO DE OBRA PÚBLICA, DEL MUNICIPIO DE SAN NICOLÁS
 
 El presente reglamento es de orden público e interés social y tiene por objeto normar la participación y funcionamiento del Consejo Ciudadano de Obra Pública del Municipio de San Nicolás de los Garza, Nuevo León, estableciendo las bases de su respectiva organización interna.
 
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2011)</small>
+
 ###### Artículo 2.
 
-El presente ordenamiento tiene fundamento en lo dispuesto en los artículos 115, fracción II de la Constitución Política de los Estados Unidos Mexicanos, 130 de la Constitución Política del Estado de Nuevo León; 160, 161, 162, 164, 166, 167 y 168 de la Ley Orgánica de la Administración Pública Municipal del Estado de Nuevo León, así como lo aplicable del Manual de Control para la Aplicación de los Recursos del Fondo de Aportaciones para la Infraestructura Social Municipal Fondo III.
+El presente ordenamiento tiene fundamento en lo dispuesto en los artículos 115, fracción II de la Constitución Política de los Estados Unidos Mexicanos, 130 de la Constitución Política del Estado de Nuevo León; 160, 161, 162, 164, 166, 167 y 168 de la Ley Orgánica de la Administración Pública Municipal del Estado de Nuevo León.
 
 ###### Artículo 3.
 
@@ -85,9 +87,11 @@ SITIO PÚBLICO: Es el lugar, plaza, terreno, plazuela, plazoleta, explanada, glo
 
 El Consejo Ciudadano es el organismo colegiado representativo de la sociedad nicolaíta, cuyo fin es la participación ciudadana en la consulta, deliberación, vigilancia y colaboración, sirviendo de enlace entre ésta y la autoridad municipal para el mejor conocimiento de los requerimientos del municipio en materia de obras públicas que desarrolla el Gobierno Municipal, a fin de colaborar en la preservación del desarrollo, estabilidad y el bien común, así como el mejoramiento de la calidad de vida de los ciudadanos.
 
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2011)</small>
+
 ###### Artículo 6.
 
-Los integrantes del Consejo Ciudadano y de los Comités Pro-Obras, fungirán como vínculo ciudadano entre el municipio y los habitantes del mismo para realizar labores de vigilancia respecto a asuntos referentes a obra pública, prestando su servicio de interés social a los vecinos en representación de la colonia o zona determinada que le sea asignada por la Dirección de Promoción de Obras.
+Los integrantes del Consejo Ciudadano y de los Comités Pro-Obras, fungirán como vínculo ciudadano entre el municipio y los habitantes del mismo para realizar labores de vigilancia respecto a asuntos referentes a obra pública, prestando su servicio de interés social a los vecinos en representación de la colonia o zona determinada que le sea asignada por la Dirección de Participación Ciudadana.
 
 ###### Artículo 7.
 
@@ -97,13 +101,19 @@ I. Presidente Municipal;
 
 II. Secretario de Obras Públicas e Ingeniería Vial o su equivalente;
 
-III. Director de Promoción de Obras;
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2011)</small>
 
-IV. Los demás servidores públicos adscritos a la Dirección de Promoción de Obras.
+III. Director de Participación Ciudadana;
+
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2011)</small>
+
+IV. Los demás servidores públicos adscritos a la Dirección de Participación Ciudadana.
+
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2011)</small>
 
 ###### Artículo 8.
 
-El Presidente Municipal participará en las actividades del Consejo Ciudadano como Presidente del Consejo y representante del Ayuntamiento, por lo que dentro del marco de sus facultades y de acuerdo con el régimen legal que lo rige, cualquier acción del Consejo Ciudadano, deberá ser plenamente respetuosa de la autonomía municipal que la constitución establece. En caso de que el Presidente Municipal no pueda asistir a dichas actividades, el Secretario de Actas fungirá como Presidente del Consejo. Tomando el lugar de este último el titular de la Dirección de Promoción de Obras.
+El Presidente Municipal participará en las actividades del Consejo Ciudadano como Presidente del Consejo y representante del Ayuntamiento, por lo que dentro del marco de sus facultades y de acuerdo con el régimen legal que lo rige, cualquier acción del Consejo Ciudadano, deberá ser plenamente respetuosa de la autonomía municipal que la constitución establece. En caso de que el Presidente Municipal no pueda asistir a dichas actividades, el Secretario de Actas fungirá como Presidente del Consejo. Tomando el lugar de este último el titular de la Dirección de Participación Ciudadana.
 
 ###### Artículo 9.
 
@@ -135,7 +145,9 @@ IV. Un Contralor Interno, un representante de la Secretaría de la Función Púb
 
 V. Un Secretario de actas, que será preferentemente el titular de la Secretaría de Obras Públicas e Ingeniería Vial, con derecho a voz;
 
-VI. El titular de la Dirección de Promoción de Obras Municipal o bien su equivalente, con derecho a voz;
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2011)</small>
+
+VI. El titular de la Dirección de Participación Ciudadana o bien su equivalente, con derecho a voz;
 
 VII. Tendrán un equipo de asesores con derecho a voz, quienes se integrarán de la siguiente forma:
 
@@ -173,9 +185,11 @@ XI. No tener lazo de parentesco con respecto del Presidente Municipal, los miemb
 
 ### CAPÍTULO III. DEL NOMBRAMIENTO, REVOCACIÓN, RENUNCIA, TERMINACIÓN Y SUSTITUCIÓN
 
-###### Articulo 13.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 8 DE AGOSTO DE 2011)</small>
 
-Antes del nombramiento o ratificación por el R. Ayuntamiento, la Dirección de Promoción de Obras, deberá realizar una consulta entre los vecinos de la zona o colonia correspondiente, para que la designación del Consejero Ciudadano de Obra Publica, se realice en una persona que, reuniendo los requisitos que establece este Reglamento, resulte idónea para el desempeño del cargo.
+###### Artículo 13.
+
+Antes del nombramiento o ratificación por el R. Ayuntamiento, la Dirección de Participación Ciudadana, deberá realizar una consulta entre los vecinos de la zona o colonia correspondiente, para que la designación del Consejero Ciudadano de Obra Pública, se realice en una persona que, reuniendo los requisitos que establece este Reglamento, resulte idónea para el desempeño del cargo.
 
 Deberá consultarse en lugar público, invitando a participar a la comunidad mediante volantes que se repartirán en la colonia o zona que corresponda. Haciendo constar con la firma de los participantes en escrito de apoyo o acta en el sentido de que ha sido legalmente elegido el Consejero Ciudadano en la colonia o zona que corresponda.
 
@@ -219,9 +233,11 @@ XII. Aceptar cargo público, ministro o dirigente de algún culto o asociación 
 
 XIII. Adquirir algún lazo de parentesco, durante el desempeño de sus funciones como Consejero, con respecto del Presidente Municipal, los miembros del Ayuntamiento, los titulares de las Dependencias o Entidades Municipales.
 
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2011)</small>
+
 ###### Artículo 17.
 
-Los casos de ausencia o incapacidad temporal deberán ser notificados oportunamente, por escrito o por vía telefónica, por el Consejero Ciudadano, a la Dirección de Promoción de Obra, a fin de que se tomen las providencias que amerite la situación.
+Los casos de ausencia o incapacidad temporal deberán ser notificados oportunamente, por escrito o por vía telefónica, por el Consejero Ciudadano, a la Dirección de Participación Ciudadana, a fin de que se tomen las providencias que amerite la situación.
 
 ###### Artículo 18.
 
@@ -251,7 +267,9 @@ II. Votar en las resoluciones;
 
 III. Mantener estrecha comunicación con el Presidente, el Secretario de Actas y los demás consejeros;
 
-IV. Solicitar la colaboración de la Dirección de Promoción de Obras y demás Autoridades Municipales competentes, en la medida y forma que estimen conveniente, para el buen desempeño de sus facultades y cumplimiento de sus obligaciones;
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2011)</small>
+
+IV. Solicitar la colaboración de la Dirección de Participación Ciudadana y demás Autoridades Municipales competentes, en la medida y forma que estimen conveniente, para el buen desempeño de sus facultades y cumplimiento de sus obligaciones;
 
 V. Analizar y evaluar según su criterio las propuestas referentes a proyectos de obra pública con el propósito de eficientar la asignación de los recursos en base a las propuestas de los ciudadanos;
 
@@ -263,7 +281,9 @@ VIII. Colaborar con las autoridades federales, estatales y municipales en los as
 
 IX. Es corresponsable de la promoción del programa de las obras autorizadas, de las diferentes partidas de recursos federales, estatales y del municipio;
 
-X. Promover ante la Dirección de Promoción de Obras, las solicitudes, donde consten las carencias y problemas referentes a obra pública en la colonia o zona que representen; y
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2011)</small>
+
+X. Promover ante la Dirección de Participación Ciudadana, las solicitudes, donde consten las carencias y problemas referentes a obra pública en la colonia o zona que representen; y
 
 XI. Las demás que establezcan éste, (sic) reglamento y demás manuales y ordenamientos aplicables.
 
@@ -289,7 +309,9 @@ VII. Colaborar en todo cuanto sea requerido por las Autoridades federales, estat
 
 VIII. Vigilar y efectuar el seguimiento y evaluación del proceso de ejecución de los proyectos de obra autorizados de los diferentes Fondos de Aportación al municipio;
 
-IX. Asistir a las juntas programadas por la Dirección de Promoción de Obras, mismas que previamente les indicará lugar, día y hora para su realización, teniendo estas reuniones como finalidad, analizar temas de interés general relacionados con su función;
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2011)</small>
+
+IX. Asistir a las juntas programadas por la Dirección de Participación Ciudadana, mismas que previamente les indicará lugar, día y hora para su realización, teniendo estas reuniones como finalidad, analizar temas de interés general relacionados con su función;
 
 X. Proporcionar a las autoridades municipales, estatales o federales los informes solicitados por estas, respecto a los asuntos de su zona;
 
@@ -339,9 +361,13 @@ Las atribuciones de los Comités Pro-obra serán las siguientes:
 
 I. Vigilar el adecuado funcionamiento de las áreas que le correspondan en cumplimiento a los reglamentos, manuales y demás leyes o normas aplicables en lo que corresponde a la obra pública para la que fue elegido como parte del Comité Pro-Obra;
 
-II. Valorar las acciones y funcionamiento de las dependencias y entidades municipales, además de emitir recomendaciones al Consejo Ciudadano a través de la Dirección de Promoción de Obra; y
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2011)</small>
 
-III. Vigilar que se desarrolle la obra pública y notificar cualquier posible anomalía que se detecte a la Dirección de Promoción de Obras.
+II. Valorar las acciones y funcionamiento de las dependencias y entidades municipales, además de emitir recomendaciones al Consejo Ciudadano a través de la Dirección de Participación Ciudadana; y
+
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2011)</small>
+
+III. Vigilar que se desarrolle la obra pública y notificar cualquier posible anomalía que se detecte a la Dirección de Participación Ciudadana.
 
 ### CAPÍTULO VII. DEL PRESIDENTE DEL CONSEJO CIUDADANO
 
@@ -557,13 +583,17 @@ Si finaliza la exposición de un asunto y nadie solicita el uso de la palabra o 
 
 ### CAPÍTULO PRIMERO (SIC). DE LA COORDINACIÓN DEL CONSEJO CIUDADANO
 
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2011)</small>
+
 ###### Artículo 54.
 
-La función de supervisión y asesoría del Consejo Ciudadano de Obra Pública estará a cargo de la Dirección de Promoción de Obras o Dependencia similar, adscrita a la Secretaría de Obras Públicas e Ingeniería Vial;
+La función de supervisión y asesoría del Consejo Ciudadano de Obra Pública estará a cargo de la Dirección de Participación Ciudadana o Dependencia similar, adscrita a la Secretaría de Desarrollo Humano.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 8 DE AGOSTO DE 2011)</small>
 
 ###### Artículo 55.
 
-La Dirección de Promoción de Obras, tendrá las siguientes facultades y obligaciones;
+La Dirección de Participación Ciudadana, tendrá las siguientes facultades y obligaciones:
 
 I. Fungir como enlace entre el Consejo Ciudadano, sus Comités Pro-Obras, y las autoridades del Municipio;
 
@@ -601,9 +631,11 @@ En la medida en que se modifiquen las condiciones socioeconómicas del Municipio
 
 Para lograr el propósito a que se refiere el artículo anterior, el Presidente Municipal, el Secretario de Obras Públicas e Ingeniería Vial, los Regidores y Síndicos, deberán recibir y atender cualquier propuesta, ponencia o queja que presenten los ciudadanos en relación con el contenido normativo de este Reglamento.
 
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2011)</small>
+
 ###### Artículo 58.
 
-La Secretaría de Obras Públicas e Ingeniería Vial, por conducto de la Dirección de Promoción de Obras recibirá cualquier propuesta, ponencia o queja que presenten los Consejeros Ciudadanos y los vecinos de la comunidad en relación a las distintas disposiciones contenidas en el presente ordenamiento.
+La Dirección de Participación Ciudadana recibirá cualquier propuesta, ponencia o queja que presenten los Consejeros Ciudadanos y los vecinos de la comunidad en relación a las distintas disposiciones contenidas en el presente ordenamiento.
 
 ## ARTÍCULOS TRANSITORIOS
 
@@ -630,3 +662,11 @@ P.O. 3 DE MARZO DE 2010.
 ## [N. DE E. TRANSITORIO DE LAS “REFORMAS AL REGLAMENTO DEL CONSEJO CIUDADANO DE OBRA PÚBLICA DEL MUNICIPIO DE SAN NICOLÁS DE LOS GARZA, NUEVO LEÓN”.]
 
 ÚNICO.- La presente reforma entrará en vigor al momento de su aprobación.
+
+P.O. 8 DE AGOSTO DE 2011.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO DE LA SESIÓN ORDINARIA DE FECHA 12 DE MAYO DE 2011, POR EL QUE SE REFORMA POR MODIFICACIÓN EL REGLAMENTO DEL CONSEJO CIUDADANO DE OBRA”.]
+
+PRIMERO: La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO: Quedan sin efecto las disposiciones que contravengan la presente reforma.
