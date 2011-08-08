@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-salud-del-estado-de-aguascalientes-14443"
 country: "mx"
 rank: "ley"
 publication_date: "1999-06-06"
-last_updated: "2011-06-13"
+last_updated: "2011-08-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14443&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE SALUD DEL ESTADO DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE JUNIO DE 2011.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE AGOSTO DE 2011.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el domingo 6 de junio de 1999.
 
@@ -1086,6 +1086,20 @@ A tal efecto, podrán obtener orientación y asesoramiento en las Instituciones 
 El Organismo conforme a la normatividad vigente, prestará atención a los enfermos mentales que se encuentren en reclusorios del Estado o en otras instituciones estatales no especializadas en salud mental.
 
 A estos efectos, se establecerá la coordinación necesaria entre las autoridades sanitarias, judiciales, administrativas y otras, según corresponda.
+
+> <small>(ADICIONADO, P.O. 8 DE AGOSTO DE 2011)</small>
+
+###### ARTICULO 83 Bis.
+
+Las autoridades que integran el Sistema Estatal de Salud formularán el Programa Estatal contra el Suicidio, el cual contendrá la política pública para prevenir el problema social del suicidio en el que se atenderán al menos las siguientes acciones:
+
+I. Elaboración de información científica sobre las causas del suicidio y su dinámica en el Estado;
+
+II Establecer y difundir ampliamente líneas de comunicación de contacto directo, atendidas por especialistas, para asistencia a víctimas potenciales y recibir denuncias preventivas de terceros;
+
+III. Formular recomendaciones a las autoridades de los municipios a fin de capacitar a los comerciantes de objetos comúnmente utilizados para auto infringirse lesiones con el propósito de identificar a suicidas potenciales y dar aviso a las autoridades sanitarias; y
+
+IV. Coordinación con el Instituto de Educación de Aguascalientes para cruzar información sobre posibles casos de depresión detectados en las escuelas.
 
 > <small>(ADICIONADO CON LOS CAPITULOS QUE LO INTEGRAN, P.O. 27 DE DICIEMBRE DE 2004)</small>
 
@@ -3282,6 +3296,12 @@ P.O. 13 DE JUNIO DE 2011.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigencia al siguiente día de su publicación en el Periódico Oficial del Estado.
+
+8 DE AGOSTO DE 2011.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 ## [N. DE E. TRANSITORIOS DEL "ACUERDO GENERAL 2/2016 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA CONCLUSIÓN DE FUNCIONES DEL NOVENO TRIBUNAL COLEGIADO DE CIRCUITO DEL CENTRO AUXILIAR DE LA PRIMERA REGIÓN, CON RESIDENCIA EN CUERNAVACA, MORELOS Y SU TRANSFORMACIÓN EN SEGUNDO TRIBUNAL UNITARIO DEL DECIMOCTAVO CIRCUITO, ASÍ COMO A SU COMPETENCIA, JURISDICCIÓN TERRITORIAL, DOMICILIO, Y FECHA DE INICIO DE FUNCIONES Y RESIDENCIA. AL CAMBIO DE DENOMINACIÓN DEL TRIBUNAL UNITARIO DEL MISMO CIRCUITO Y RESIDENCIA. ASÍ COMO A LAS REGLAS DE TURNO, SISTEMA DE RECEPCIÓN Y DISTRIBUCIÓN DE ASUNTOS ENTRE LOS TRIBUNALES UNITARIOS DEL CIRCUITO Y RESIDENCIA INDICADOS; Y A LA CONCLUSIÓN DE FUNCIONES DE LA OFICINA DE CORRESPONDENCIA COMÚN DEL CENTRO AUXILIAR DE LA PRIMERA REGIÓN EN CUERNAVACA, MORELOS Y SU TRANSFORMACIÓN EN OFICINA DE CORRESPONDENCIA COMÚN DE LOS TRIBUNALES UNITARIOS DEL DECIMOCTAVO CIRCUITO EN CUERNAVACA, MORELOS".]
 
