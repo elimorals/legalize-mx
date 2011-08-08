@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-ingresos-y-presupuesto-de-egresos-del-estado-de-77836"
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2010-12-31"
-last_updated: "2010-12-31"
+last_updated: "2011-08-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77836&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY DE INGRESOS Y PRESUPUESTO DE EGRESOS DEL ESTADO DE SINALOA PARA EL EJERCICIO FISCAL DEL AÑO 2011
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE AGOSTO DE 2011.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Sinaloa, el viernes 31 de diciembre de 2010.
 
@@ -39,9 +39,11 @@ LEY DE INGRESOS Y PRESUPUESTO DE EGRESOS DEL ESTADO DE SINALOA PARA EL EJERCICIO
 
 ## TITULO PRIMERO. DE LOS INGRESOS
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE AGOSTO DE 2011)</small>
+
 ###### ARTÍCULO 1.
 
-En el ejercicio fiscal del año 2011, el Gobierno del Estado de Sinaloa percibirá los ingresos provenientes de los conceptos y en los importes estimados que a continuación se indican y que totalizan la cantidad de $32,390,377,678.00 (Treinta y dos mil trescientos noventa millones trescientos setenta y siete mil seiscientos setenta y ocho pesos 00/100 M.N.), y que son:
+En el ejercicio fiscal del año 2011, el Gobierno del Estado de Sinaloa percibirá los ingresos provenientes de los conceptos y en los importes estimados que a continuación se indican y que totalizan la cantidad de $34,990,377,678.00 (Treinta y cuatro mil novecientos noventa millones trescientos setenta y siete mil seiscientos setenta y ocho pesos 00/100 M.N.), y que son:
 
 A.- Los derivados de la aplicación de la Ley de Hacienda
 
@@ -279,7 +281,13 @@ a) Educación Publica 3,149,266,198
 
 b) Seguridad Publica 300,792,083
 
-TOTAL 32,390,377,678
+> <small>(ADICIONADO, P.O. 8 DE AGOSTO DE 2011)</small>
+
+D.-Ingresos Derivados de Endeudamiento 2,600,000,000
+
+1.- Empréstitos 2,600,000,000
+
+TOTAL 34,990,377,678
 
 El Ejecutivo Estatal, a través de la Secretaría de Administración y Finanzas informara al H. Congreso del Estado respecto de los ingresos reales que se obtengan en los términos y modalidades que establece la fracción VI del artículo 65 de la Constitución Política del Estado, al remitir, antes de la apertura del primero y segundo periodo ordinario de sesiones, la cuenta pública correspondiente.
 
@@ -393,9 +401,11 @@ La Secretaría estará facultada para interpretar las disposiciones del presente
 
 ### CAPITULO SEGUNDO. DE LAS EROGACIONES
 
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2011)</small>
+
 ###### ARTÍCULO 16.
 
-El gasto neto total previsto en el presente presupuesto, importa la cantidad de $32,390,377,678.00 (Treinta y dos mil trescientos noventa millones trescientos setenta y siete mil seiscientos setenta y ocho pesos 00/100 M.N.), y corresponde al total de ingresos previstos para 2011 y se distribuyen conforme a las disposiciones que establece el artículo 36 de la Ley.
+El gasto neto total previsto en el presente presupuesto, importa la cantidad de $34,990,377,678.00 (Treinta y cuatro mil novecientos noventa millones trescientos setenta y siete mil seiscientos setenta y ocho pesos 00/100 M.N.), y corresponde al total de ingresos previstos para 2011 y se distribuyen conforme a las disposiciones que establece el artículo 36 de la Ley.
 
 ###### ARTÍCULO 17.
 
@@ -417,9 +427,13 @@ Atendiendo la clasificación del Presupuesto por Objeto del Gasto a nivel global
 
 Las erogaciones previstas por los Poderes, se señalan en el Anexo 5, de esta Ley.
 
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2011)</small>
+
 ###### ARTÍCULO 22.
 
-De acuerdo a la fracción VI del artículo 36 de la Ley, los recursos de Inversión Pública Directa proyectados para el ejercicio fiscal 2011, ascienden a $5,722,742,370.00 (Cinco mil setecientos veintidós millones setecientos cuarenta y dos mil trescientos setenta pesos 00/100 M.N.), y se asignan conforme al Anexo 6, de esta Ley.
+De acuerdo a la fracción VI del artículo 36 de la Ley, los recursos de Inversión Pública Directa proyectados para el ejercicio fiscal 2011, ascienden a $8,322,742,370.00 (Ocho mil trescientos veinte y dos millones setecientos cuarenta y dos mil trescientos setenta pesos 00/100 M.N.), y se asignan conforme al Anexo 6, de esta Ley.
+
+Los ingresos derivados de endeudamiento a que se refiere el artículo 1, apartado D, Fracción I de esta Ley, y que forman parte de la cantidad señalada en el párrafo anterior, serán destinados al Programa de Infraestructura Productiva para reactivar la economía del Estado de Sinaloa.
 
 ###### ARTÍCULO 23.
 
@@ -1283,17 +1297,17 @@ El Secretario de Administración y Finanzas
 
 Lic. Quirino Ordaz Coppel
 
-> <small>N. DE E. VEASE ANEXO 1. GASTO NETO TOTAL POR FUNCION. SUBFUNCION Y PROGRAMA, EN LA SEGUNDA SECCION DEL P.O. DE 31 DE DICIEMBRE DE 2010, PAGINAS DE LA 43 A LA 45.</small>
+> <small>N. DE E. VEASE ANEXO 1. GASTO NETO TOTAL POR FUNCION. SUBFUNCION Y PROGRAMA, EN LA SEGUNDA SECCION DEL P.O. DE 31 DE DICIEMBRE DE 2010, PAGINAS DE LA 43 A LA 45; REFORMAS EN EL P.O. 8 DE AGOSTO DE 2011, PAGINAS DE LA 35 A LA 36.</small>
 
-> <small>N. DE E. VEASE ANEXO 2. GASTO NETO TOTAL DISTRIBUIDO POR GRUPO, SUBGRUPO, RAMO, DEPENDENCIA, ORGANISMO Y/O UNIDAD RESPONSABLE, EN LA SEGUNDA SECCION DEL P.O. DE 31 DE DICIEMBRE DE 2010, PAGINAS DE LA 45 A LA 57.</small>
+> <small>N. DE E. VEASE ANEXO 2. GASTO NETO TOTAL DISTRIBUIDO POR GRUPO, SUBGRUPO, RAMO, DEPENDENCIA, ORGANISMO Y/O UNIDAD RESPONSABLE, EN LA SEGUNDA SECCION DEL P.O. DE 31 DE DICIEMBRE DE 2010, PAGINAS DE LA 45 A LA 57; REFORMAS EN EL P.O. 8 DE AGOSTO DE 2011, PAGINAS DE LA 36 A LA 37.</small>
 
-> <small>N. DE E. VEASE ANEXO 3. PRESUPUESTO CLASIFICADO POR GASTO CORRIENTE Y DE CAPITAL, EN LA SEGUNDA SECCION DEL P.O. DE 31 DE DICIEMBRE DE 2010, PAGINA 58.</small>
+> <small>N. DE E. VEASE ANEXO 3. PRESUPUESTO CLASIFICADO POR GASTO CORRIENTE Y DE CAPITAL, EN LA SEGUNDA SECCION DEL P.O. DE 31 DE DICIEMBRE DE 2010, PAGINA 58; REFORMAS EN EL P.O. 8 DE AGOSTO DE 2011, PAGINA 37.</small>
 
-> <small>N. DE E. VEASE ANEXO 4. CLASIFICACION DEL PRESUPUESTO POR OBJETO DEL GASTO A NIVEL GLOBAL DE CAPITULO, EN LA SEGUNDA SECCION DEL P.O. DE 31 DE DICIEMBRE DE 2010, PAGINA 58.</small>
+> <small>N. DE E. VEASE ANEXO 4. CLASIFICACION DEL PRESUPUESTO POR OBJETO DEL GASTO A NIVEL GLOBAL DE CAPITULO, EN LA SEGUNDA SECCION DEL P.O. DE 31 DE DICIEMBRE DE 2010, PAGINA 58; REFORMAS EN EL P.O. 8 DE AGOSTO DE 2011, PAGINA 37.</small>
 
-> <small>N. DE E. VEASE ANEXO 5. EROGACIONES PREVISTAS POR LOS PODERES, EN LA SEGUNDA SECCION DEL P.O. DE 31 DE DICIEMBRE DE 2010, PAGINA 59.</small>
+> <small>N. DE E. VEASE ANEXO 5. EROGACIONES PREVISTAS POR LOS PODERES, EN LA SEGUNDA SECCION DEL P.O. DE 31 DE DICIEMBRE DE 2010, PAGINA 59; REFORMAS EN EL P.O. 8 DE AGOSTO DE 2011, PAGINA 37.</small>
 
-> <small>N. DE E. VEASE ANEXO 6. RECURSOS DE INVERSION PUBLICA DIRECTA POR FUNCION, EN LA SEGUNDA SECCION DEL P.O. DE 31 DE DICIEMBRE DE 2010, PAGINA 59.</small>
+> <small>N. DE E. VEASE ANEXO 6. RECURSOS DE INVERSION PUBLICA DIRECTA POR FUNCION, EN LA SEGUNDA SECCION DEL P.O. DE 31 DE DICIEMBRE DE 2010, PAGINA 59; REFORMAS EN EL P.O. 8 DE AGOSTO DE 2011, PAGINA 38.</small>
 
 > <small>N. DE E. VEASE ANEXO 7. EROGACIONES PREVISTAS POR LOS ORGANOS AUTONOMOS, EN LA SEGUNDA SECCION DEL P.O. DE 31 DE DICIEMBRE DE 2010, PAGINA 60.</small>
 
@@ -1305,8 +1319,16 @@ Lic. Quirino Ordaz Coppel
 
 > <small>N. DE E. VEASE ANEXO 11. FINANCIAMIENTO A PARTIDOS POLITICOS, EN LA SEGUNDA SECCION DEL P.O. DE 31 DE DICIEMBRE DE 2010, PAGINA 66.</small>
 
-> <small>N. DE E. VEASE ANEXO 12. CLASIFICACION ADMINISTRATIVA POR UNIDAD RESPONSABLE Y CAPITULO POR OBJETO DEL GASTO, EN LA SEGUNDA SECCION DEL P.O. DE 31 DE DICIEMBRE DE 2010, PAGINAS DE LA 67 A LA 119.</small>
+> <small>N. DE E. VEASE ANEXO 12. CLASIFICACION ADMINISTRATIVA POR UNIDAD RESPONSABLE Y CAPITULO POR OBJETO DEL GASTO, EN LA SEGUNDA SECCION DEL P.O. DE 31 DE DICIEMBRE DE 2010, PAGINAS DE LA 67 A LA 119; REFORMAS EN EL P.O. 8 DE AGOSTO DE 2011, PAGINA 38.</small>
 
 > <small>N. DE E. VEASE ANEXO 13. PRESUPUESTO PARA MUJERES Y LA IGUALDAD DE GENERO, EN LA SEGUNDA SECCION DEL P.O. DE 31 DE DICIEMBRE DE 2010, PAGINA 120.</small>
 
 > <small>N. DE E. VEASE ANEXO 14. LIMITES DE PERCEPCION NETA MENSUAL PAGINA 120.</small>
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS DEL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 8 DE AGOSTO DE 2011.
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "el estado de sinaloa".
