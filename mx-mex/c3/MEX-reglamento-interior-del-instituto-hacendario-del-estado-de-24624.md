@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-interior-del-instituto-hacendario-del-estado-de-2462
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-04-22"
-last_updated: "2002-04-22"
+last_updated: "2011-08-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=24624&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "MEX"
 
 REGLAMENTO INTERIOR DEL INSTITUTO HACENDARIO DEL ESTADO DE MEXICO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO TERCERO TRANSITORIO DEL REGLAMENTO INTERIOR DEL INSTITUTO HACENDARIO DEL ESTADO DE MEXICO, PUBLICADO EN LA G.G. DE 9 DE AGOSTO DE 2011, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: ABROGADO.
 
 Reglamento publicado en la Sección Tercera de la Gaceta del Gobierno del Estado México, el lunes 22 de abril de 2002.
 
@@ -836,3 +838,17 @@ EL SECRETARIO DEL CONSEJO DIRECTIVO DEL INSTITUTO HACENDARIO DEL ESTADO DE MÉXI
 LIC. FERNANDO R. PORTILLA SÁNCHEZ
 
 (RUBRICA).
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+G.G. 9 DE AGOSTO DE 2011.
+
+PRIMERO.- Publíquese el presente Reglamento en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Reglamento tendrá vigencia a partir de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- Se abroga el Reglamento Interno del Instituto Hacendario del Estado de México, publicado en la "Gaceta del Gobierno" el 22 abril (sic) de 2002.
+
+CUARTO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan al presente Reglamento.
+
+QUINTO.- Las disposiciones contenidas en el artículo 34 de este Reglamento, entrarán en vigor el día que se lleve a cabo la XII Asamblea Anual del Consejo Directivo del Instituto Hacendario del Estado de México.
