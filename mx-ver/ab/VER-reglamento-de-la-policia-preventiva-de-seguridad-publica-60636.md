@@ -4,7 +4,7 @@ identifier: "VER-reglamento-de-la-policia-preventiva-de-seguridad-publica-60636"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-03-14"
-last_updated: "2008-03-14"
+last_updated: "2011-08-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=60636&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 REGLAMENTO DE LA POLICIA PREVENTIVA DE SEGURIDAD PUBLICA DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 10 DE AGOSTO DE 2011.
 
 Reglamento publicado en el Extraordinario de la Gaceta Oficial del Estado de Veracruz, el viernes 14 de marzo de 2008.
 
@@ -121,47 +121,15 @@ IV. Policías: Policía Primero, Policía Segundo, Policía Tercero y Policía C
 
 Los titulares de las categorías jerárquicas estarán facultados para ejercer la autoridad y mando policial en los diversos cargos o comisiones.
 
+> <small>(REFORMADO, G.O. 10 DE AGOSTO DE 2011)</small>
+
 ###### ARTÍCULO 13.
 
-Las jerarquías e insignias del personal operativo de la Policía Preventiva de Seguridad Pública del Estado, que permitirán identificarlos, se determinarán de la siguiente manera:
-
-I. Secretario de Seguridad Pública, 3 estrellas
-
-II. Subsecretarios de Seguridad Pública, 2 estrellas,
-
-III. Director de Operaciones, 1 estrella,
-
-IV. Primer Inspector, 3 escuadras,
-
-V. Segundo Inspector, 2 escuadras,
-
-VI. Tercer Inspector, 1 escuadra,
-
-VII. Primer Comisario, 3 cuadros,
-
-VIII. Segundo Comisario, 2 cuadros,
-
-IX. Tercer Comisario, 1 cuadro,
-
-X. Primer Oficial, 3 triángulos,
-
-XI. Segundo Oficial, 2 triángulos,
-
-XII. Tercer Oficial, 1 triángulo,
-
-XIII. Policía Primero, Policía segundo, Policía Tercero y Policía Cuarto.
-
-> <small>N. DE E. VEASE IMAGENES EN EL EXTRAORDINARIO DEL P.O. DE 14 DE MARZO DE 2008, PAGINAS DE LA 26 A LA 27</small>
+Las insignias o espigas del personal operativo de la Secretaría de Seguridad Pública, que permitan identificarlos, se determinarán de acuerdo con el Manual de Identidad que para tal efecto emita el Secretario.
 
 ###### ARTÍCULO 14.
 
-Los Policías Primero, Segundo y Tercero, sólo llevarán en la manga izquierda, cuatro centímetros debajo de la hombrera, las siguientes espigas en color blanco:
-
-Policía Primero Policía Segundo Policía Tercero
-
-El Policía Cuarto no llevará insignia o distintivo alguno.
-
-> <small>N. DE E. VEASE IMAGENES EN EL EXTRAORDINARIO DEL P.O. DE 14 DE MARZO DE 2008, PAGINA 27.</small>
+(DEROGADO, G.O. 10 DE AGOSTO DE 2011)
 
 ### CAPÍTULO III. DE LAS ATRIBUCIONES Y PROHIBICIONES DEL PERSONAL OPERATIVO
 
@@ -249,17 +217,19 @@ La Policía Preventiva de Seguridad Pública del Estado, deberá participar en o
 
 ### CAPÍTULO IV. DEL USO Y CONSERVACIÓN DE INMUEBLES Y EQUIPO OFICIAL
 
+> <small>(REFORMADO, G.O. 10 DE AGOSTO DE 2011)</small>
+
 ###### ARTÍCULO 23.
 
-El personal operativo portará para el ejercicio de sus funciones el uniforme oficial, que consistirá en pantalón, camisa y calzado de color negro; debiendo portarlo con gallardía y dignidad, trayendo en lugar visible el gafete o placa que lo identifique.
+El personal operativo portará para el ejercicio de sus funciones uniforme oficial, el cual será determinado de acuerdo con el Manual de Identidad de la Secretaría de Seguridad Pública, mismo que deberá portar con gallardía y dignidad, trayendo en lugar visible el gafete o placa que lo identifique.
 
 ###### ARTÍCULO 24.
 
-Las hombreras de las camisas llevarán las insignias en color amarillo, asimismo los escudos de la Corporación a la que pertenecen, uno en la bolsa izquierda y el otro del lado derecho. En las puntas del cuello de la camisa portarán los escudos oficiales, en color amarillo.
+(DEROGADO, G.O. 10 DE AGOSTO DE 2011)
 
 ###### ARTÍCULO 25.
 
-El personal operativo podrá portar chamarra del color oficial, con las características propias de la Corporación a la que pertenece.
+(DEROGADO, G.O. 10 DE AGOSTO DE 2011)
 
 ###### ARTÍCULO 26.
 
@@ -319,13 +289,17 @@ e) Así como todos aquellos utensilios que sean proporcionados para la prestaci�
 
 Para el ejercicio de sus funciones el personal de la Policía Preventiva de Seguridad Pública del Estado, utilizará caballos que le permitan tener acceso a lugares a los que no pueda entrar en vehículos automotores, así como perros adiestrados que le auxilien en la localización y detección de armas o sustancias prohibidas.
 
+> <small>(REFORMADO, G.O. 10 DE AGOSTO DE 2011)</small>
+
 ###### ARTÍCULO 36.
 
-Los inmuebles destinados a Oficinas, Comandancias, Módulos de Seguridad de la Policía Preventiva del Estado y patrullas, deberán contar con insignias y escudos oficiales.
+Los inmuebles destinados a oficinas, comandancias, módulos de seguridad, deberán contar con los colores, insignias y escudos oficiales que establezca el Manual de Identidad de la Secretaría de Seguridad Pública.
+
+> <small>(REFORMADO, G.O. 10 DE AGOSTO DE 2011)</small>
 
 ###### ARTÍCULO 37.
 
-Los vehículos oficiales, tales como camionetas, grúas, motocicletas y bicicletas, entre otros, además de las insignias y escudos oficiales, deberán tener asignados los números económicos que permitan su identificación.
+Los vehículos oficiales deberán contar con los colores, insignias y escudos oficiales que determine el Manual de Identidad de la Secretaría de Seguridad Pública, así como el correspondiente número económico que permita su identificación.
 
 ###### ARTÍCULO 38.
 
@@ -662,3 +636,13 @@ GRAL. BRIG. RET. JUAN MANUEL OROZCO MÉNDEZ
 SECRETARIO DE SEGURIDAD PÚBLICA
 
 Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+G.O. 10 DE AGOSTO DE 2011.
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al contenido del presente Decreto.
+
+Tercero. El Secretario de Seguridad Pública, emitirá en un plazo no mayor a noventa días el Manual de Identidad de la Secretaría de Seguridad Pública.
