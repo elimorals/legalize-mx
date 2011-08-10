@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-interior-de-la-universidad-politecnica-del-valle-455
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-07-14"
-last_updated: "2008-08-06"
+last_updated: "2011-08-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45598&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "MEX"
 
 REGLAMENTO INTERIOR DE LA UNIVERSIDAD POLITECNICA DEL VALLE DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 6 DE AGOSTO DE 2008.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO TERCERO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA UNIVERSIDAD POLITECNICA DEL VALLE DE MEXICO, PUBLICADO EN LA G.G. DE 10 DE AGOSTO DE 2011, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: ABROGADO.
 
 Reglamento publicado en la Sección Segunda de la Gaceta del Gobierno del Estado de México, el jueves 14 de julio de 2005.
 
@@ -416,3 +418,11 @@ PRIMERO.- Publíquese el presente Acuerdo en el periódico oficial "Gaceta del G
 SEGUNDO.- Este Acuerdo entrará en vigor al día siguiente de su publicación en el periódico oficial "Gaceta del Gobierno".
 
 TERCERO.- Se derogan las disposiciones de igualo menor jerarquía que sean contrarias a las establecidas en el presente Acuerdo.
+
+G.G. 10 DE AGOSTO DE 2011.
+
+PRIMERO.- Publíquese el presente Reglamento en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- Se abroga el Reglamento Interior de la Universidad Politécnica del Valle de México, publicado en el Periódico Oficial "Gaceta del Gobierno", el 14 de julio del 2005.
