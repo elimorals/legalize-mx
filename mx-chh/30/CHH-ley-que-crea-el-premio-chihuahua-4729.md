@@ -4,7 +4,7 @@ identifier: "CHH-ley-que-crea-el-premio-chihuahua-4729"
 country: "mx"
 rank: "ley"
 publication_date: "1981-11-11"
-last_updated: "1994-04-23"
+last_updated: "2011-08-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4729&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY QUE CREA EL "PREMIO CHIHUAHUA"
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE ABRIL DE 1994.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE AGOSTO DE 2011.
 
 Ley publicada en el Periódico Oficial del Estado de Chihuahua, el miércoles 11 de noviembre de 1981.
 
@@ -39,9 +39,11 @@ DECRETA:
 
 LEY QUE CREA EL "PREMIO CHIHUAHUA"
 
+> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2011)</small>
+
 ###### ARTICULO 1°.
 
-Se declara de interés público la promoción y estímulo de las actividades culturales y científicas realizadas en el Estado de Chihuahua y para tal objeto se establece el "PREMIO CHIHUAHUA", que se entregará anualmente, de conformidad con las disposiciones establecidas en esta Ley.
+Se declara de interés público la promoción y estímulo de las actividades culturales, periodísticas y científicas realizadas en el Estado de Chihuahua y para tal objeto se establece el "PREMIO CHIHUAHUA", que se entregará anualmente, de conformidad con las disposiciones establecidas en esta Ley.
 
 ###### ARTICULO 2°.
 
@@ -63,6 +65,10 @@ V.- Artes Visuales, y
 
 VI.- Música.
 
+> <small>(ADICIONADA, P.O. 10 DE AGOSTO DE 2011)</small>
+
+VII.- Periodismo.
+
 > <small>(REFORMADO, P.O. 23 DE ABRIL DE 1994)</small>
 
 ###### ARTICULO 3°.
@@ -79,7 +85,7 @@ Los trabajos que se presenten deberán ser inéditos y contener una aportación 
 
 Solo podrán participar las personas que tengan su domicilio y radiquen actualmente en el Estado y aquellas que siendo chihuahuenses por nacimiento radiquen en la República Mexicana.
 
-> <small>(REFORMADO, P.O. 23 DE ABRIL DE 1994)</small>
+> <small>(REFORMADO PRIMER PARRAFO [N. DE E. REPUBLICADO], P.O. 10 DE AGOSTO DE 2011)</small>
 
 ###### ARTICULO 6°.
 
@@ -95,15 +101,21 @@ En éste caso, al (sic) Dirección General de Desarrollo Social determinará anu
 
 IV. En Música, la partitura en original y dos copias, con un mínimo de ocho compases y un máximo de treinta y dos en cualquiera de sus géneros. En el caso de canción, deberá incluirse la letra respectiva; y en el de música de concierto, podrá ser con un máximo de tres movimientos.
 
-V. Podrán acompañarse adicionalmente fotografías, diapositivas, gráficas, planos, diagramas o cualquier otro elemento complementario o explicativo a juicio del autor.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE AGOSTO DE 2011)</small>
 
-VI. Los participantes deberán suscribirse con seudónimo, enviando adjunto al trabajo, un sobre cerrado con la identificación del autor, su domicilio, número telefónico y documento que acredite su origen chihuahuense o su residencia dentro del Estado.
+V. En periodismo se premiará a quien acredite o sea propuesto como la persona con mejor trayectoria periodística; los documentos que avalen su labor se entregarán en original y dos copias.
+
+VI. Podrán acompañarse adicionalmente fotografías, diapositivas, gráficas, planos, diagramas o cualquier otro elemento complementario o explicativo a juicio del autor.
+
+VII. Los participantes deberán suscribirse con seudónimo, enviando adjunto al trabajo, un sobre cerrado con la identificación del autor, su domicilio, número telefónico y documento que acredite su origen chihuahuense o su residencia dentro del Estado.
 
 En el sobre, se anotará el seudónimo, el título de la obra y el área en la que participa.
 
 Las placas de identificación, serán depositadas por la Dirección General de Desarrollo Social, en una Notaría Pública de la Ciudad de Chihuahua; el Notario abrirá únicamente las que el Jurado señale.
 
-VII. El certamen quedará abierto a partir de la publicación de la convocatoria respectiva, cerrándose el treinta y uno de agosto del año correspondiente.
+> <small>(ADICIONADA [N. DE E. REPUBLICADA], P.O. 10 DE AGOSTO DE 2011)</small>
+
+VIII. El certamen quedará abierto a partir de la publicación de la convocatoria respectiva, cerrándose el treinta y uno de agosto del año correspondiente.
 
 > <small>(REFORMADO, P.O. 24 DE MAYO DE 1989)</small>
 
@@ -166,3 +178,9 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 P.O. 23 DE ABRIL DE 1994.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 10 DE AGOSTO DE 2011.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial de la (sic) Estado.
