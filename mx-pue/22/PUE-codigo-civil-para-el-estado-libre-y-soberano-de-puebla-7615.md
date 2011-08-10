@@ -4,7 +4,7 @@ identifier: "PUE-codigo-civil-para-el-estado-libre-y-soberano-de-puebla-7615"
 country: "mx"
 rank: "codigo"
 publication_date: "1985-04-30"
-last_updated: "2011-06-27"
+last_updated: "2011-08-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7615&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "PUE"
 ---
 # CODIGO CIVIL PARA EL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-CODIGO CIVIL PARA EL ESTADO LIBRE Y SOBERANO DE PUEBLA
+CÓDIGO CIVIL PARA EL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE JUNIO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE AGOSTO DE 2011.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado, el día 30 de abril de 1985.
 
@@ -515,7 +515,7 @@ La protección establecida en el artículo anterior se da también para el seud�
 
 El derecho de controvertir judicialmente el uso indebido por otra persona de un nombre, o de un seudónimo, se trasmite a los herederos del afectado, para continuar la acción; pero no para ejercitarla si el afectado no lo hizo en vida.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE SEPTIEMBRE DE 1998)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE SEPTIEMBRE DE 1998)</small>
 
 ###### Artículo 70.
 
@@ -3269,7 +3269,7 @@ III.- El tutor que se nombre al hijo si éste es menor;
 
 IV.- El tutor del hijo si éste es mayor incapacitado, o el tutor que se le nombre en caso de no tenerlo.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE SEPTIEMBRE DE 1998)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE SEPTIEMBRE DE 1998)</small>
 
 ###### Artículo 542.
 
@@ -3485,7 +3485,7 @@ En los juicios en que se ejerciten tales acciones no procede el sobreseimiento p
 
 La adopción confiere al adoptado el estado de hijo y el parentesco que surge, produce efectos legales iguales al consanguíneo.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE JUNIO DE 2011)</small>
 
 ###### Artículo 579.
 
@@ -3543,7 +3543,7 @@ El tutor no puede adoptar al pupilo o al mayor incapacitado que estuvo bajo su t
 
 (DEROGADO, P.O. 27 DE JUNIO DE 2011)
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE JUNIO DE 2011)</small>
 
 ###### Artículo 585.
 
@@ -3697,7 +3697,7 @@ IV.- Si el abuelo o abuela por una de las líneas es viudo o casado en segundas 
 
 V.- Si la patria potestad se defiere por convenio o por resolución judicial a los abuelos por una línea, a falta o por impedimento de éstos, corresponderá ejercerla a los de la otra línea.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE DICIEMBRE DE 2004)</small>
 
 ###### Artículo 608.
 
@@ -3821,7 +3821,7 @@ II.- Por emancipación del menor;
 
 III.- Por llegar a la mayoría el que estuvo sujeto a ella.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE DICIEMBRE DE 2004)</small>
 
 ###### Artículo 628.
 
@@ -3911,7 +3911,7 @@ IV.- Por incurrir en conductas de violencia familiar previstas en el artículo 2
 
 El Juez puede en beneficio de los menores modificar el ejercicio de la patria potestad o custodia cuando la tenga decretada judicialmente, ya sea provisional o definitiva sobre ellos, cuando quien la ejerce realice conductas reiteradas para evitar la convivencia de los menores con la persona o personas que tengan reconocido judicialmente su derecho a la misma.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE DICIEMBRE DE 2004)</small>
 
 ###### Artículo 635.
 
@@ -4191,7 +4191,7 @@ II.- No será necesario el discernimiento del cargo;
 
 III.- Si el menor que se encuentre en el caso previsto por este Artículo, adquiere bienes, se le nombrará tutor dativo de acuerdo con lo dispuesto en el Artículo 689 y siguientes.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE JUNIO DE 2011)</small>
 
 ###### Artículo 680.
 
@@ -6637,7 +6637,7 @@ Son aplicables a la división entre partícipes, las reglas relativas a la divis
 
 #### Sección Segunda.- Bienes propios y bienes comunes
 
-> <small>(REFORMADO, P.O. 21 DE ENERO DE 2004)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### Artículo 1116.
 
@@ -6653,371 +6653,319 @@ III.- Cuando el propietario o propietarios de un edificio lo dividan en diferent
 
 IV. Cuando el propietario o propietarios de un terreno o predio, lo dividan en diferentes áreas privativas o fracciones, para transmitir su propiedad a distintas personas, preservando elementos comunes que sean indivisibles; encontrándose además dicho inmueble debidamente delimitado por algún elemento físico y con los lineamientos requeridos por la ley de la materia.
 
-> <small>(REFORMADO, P.O. 21 DE ENERO DE 2004)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2011)</small>
 
 ###### Artículo 1117.
 
-Cuando en los artículos siguientes de este Capítulo se usen las palabras "local" o "locales" significarán "piso", departamento, vivienda o "local"; o unidad privativa en singular o plural, respectivamente.
+La copropiedad sobre los elementos comunes del inmueble no es susceptible de división. La parte alícuota de los condueños sobre los elementos comunes es inseparable del derecho de propiedad exclusivo que les corresponde respecto de las unidades privativas. Sólo se podrá enajenar, gravar o embargar la parte alícuota cuando se haga conjuntamente con la propiedad privativa.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2011)</small>
 
 ###### Artículo 1118.
 
-Para constituir el régimen de propiedad y condominio, ya sea vertical, horizontal o mixto, el propietario o propietarios, deberán declarar su voluntad en escritura pública en la cual se hará constar:
+Los derechos y obligaciones de los condóminos a que se refiere este Capítulo, se regirán por este Código, la Ley que regula el Régimen de Propiedad en Condominio para el Estado de Puebla y por las escrituras en que se hubiere constituido el régimen de propiedad en condominio.
 
-> <small>(REFORMADA, P.O. 21 DE ENERO DE 2004)</small>
-
-I.- La situación, dimensiones y linderos del terreno así como una descripción general del edificio, en su caso;
-
-II.- La descripción de cada local, su número, situación, medidas, piezas de que consta y demás datos necesarios para identificarlo;
-
-III.- El valor total del inmueble y el que corresponda a cada local;
-
-> <small>(REFORMADA, P.O. 21 DE ENERO DE 2004)</small>
-
-IV.- El destino general del edificio, terreno o predio y el especial de cada local o unidad privativa;
-
-V.- Los bienes de propiedad común, su destino con la especificación y detalles necesarios y, en su caso, su situación, medidas, partes de que se compongan, características y demás datos necesarios para su identificación;
-
-> <small>(REFORMADA, P.O. 21 DE ENERO DE 2004)</small>
-
-VI.- Constancia de las autoridades competentes en materia de construcciones urbanas, de que el edificio construido o el terreno materia del régimen, reúne los requisitos que deben tener este tipo de construcciones.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### Artículo 1119.
 
-A la escritura constitutiva se agregarán:
+(DEROGADO, P.O. 10 DE AGOSTO DE 2011)
 
-I.- El plano general;
-
-II.- Los planos correspondientes a cada uno de los locales; y
-
-III.- Los planos de las áreas comunes.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### Artículo 1120.
 
-En un reglamento de condominio y administración se establecerán los derechos y obligaciones de los diversos condóminos.
+(DEROGADO, P.O. 10 DE AGOSTO DE 2011)
 
-> <small>(REFORMADO, P.O. 21 DE ENERO DE 2004)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### Artículo 1121.
 
-El título constitutivo del régimen de propiedad y condominio del edificio, terreno o predio, deberá inscribirse en el Registro Público de la Propiedad.
+(DEROGADO, P.O. 10 DE AGOSTO DE 2011)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### Artículo 1122.
 
-La declaración de voluntad que exige el artículo 1118, podrá hacerse también, llenando los requisitos establecidos en él, por el propietario de un terreno que quiera construir un edificio dividido en locales, y se considerará constituido el régimen de propiedad y condominio, desde que el terreno y el edificio por construir, se hipotequen total o parcialmente o se venda cualquiera de las divisiones proyectadas.
+(DEROGADO, P.O. 10 DE AGOSTO DE 2011)
 
-> <small>(REFORMADO, P.O. 21 DE ENERO DE 2004)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### Artículo 1123.
 
-Las escrituras de compraventa de cada local o unidad privativa, se referirán a la escritura general que exige el artículo 1118 y al apéndice de la misma escritura se agregará un ejemplar, firmado por las partes vendedora y compradora, del reglamento que establece el artículo 1120.
+(DEROGADO, P.O. 10 DE AGOSTO DE 2011)
 
-> <small>(REFORMADO, P.O. 21 DE ENERO DE 2004)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### Artículo 1124.
 
-En los testimonios de las escrituras a que se refiere el artículo anterior, se insertará el reglamento de condominio y administración del edificio, terreno o predio y se agregará a cada uno de ellos, un ejemplar de ese reglamento certificado por el Notario.
+(DEROGADO, P.O. 10 DE AGOSTO DE 2011)
 
-> <small>(REFORMADO, P.O. 21 DE ENERO DE 2004)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### Artículo 1125.
 
-Para que se inscriba en el Registro Público de la Propiedad la escritura de compraventa de un local o unidad privativa, deberá inscribirse previamente, en aquel registro, la escritura constitutiva.
+(DEROGADO, P.O. 10 DE AGOSTO DE 2011)
 
-> <small>(REFORMADO, P.O. 21 DE ENERO DE 2004)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### Artículo 1126.
 
-Solamente por acuerdo unánime de los condóminos, se podrán modificar en escritura pública, el destino general del edificio, terreno o predio y el especial del local o unidad privativa.
+(DEROGADO, P.O. 10 DE AGOSTO DE 2011)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### Artículo 1127.
 
-Establecido el régimen de propiedad y condominio, sólo se podrá extinguir por acuerdo unánime de los condóminos o en los casos previstos por la Sección Séptima de este Capítulo.
+(DEROGADO, P.O. 10 DE AGOSTO DE 2011)
 
 #### Sección Tercera.- Administrador y Asambleas
 
-> <small>(REFORMADO, P.O. 21 DE ENERO DE 2004)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### Artículo 1128.
 
-Cada condómino será dueño exclusivo de su local o unidad privativa y condueño de los elementos y partes del edificio, terreno o predio que se consideren comunes.
+(DEROGADO, P.O. 10 DE AGOSTO DE 2011)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### Artículo 1129.
 
-El derecho de los condóminos para usar los bienes comunes será igual, independientemente del valor de la parte privativa de cada una de ellos, fijado en la escritura constitutiva.
+(DEROGADO, P.O. 10 DE AGOSTO DE 2011)
 
-> <small>(REFORMADO, P.O. 21 DE ENERO DE 2004)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### Artículo 1130.
 
-El condominio sobre los elementos comunes del edificio, terreno o predio no son susceptibles de división ni de venta.
+(DEROGADO, P.O. 10 DE AGOSTO DE 2011)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### Artículo 1131.
 
-Los condóminos son condueños de:
+(DEROGADO, P.O. 10 DE AGOSTO DE 2011)
 
-I.- El suelo, subsuelo, cimientos, estructuras, paredes maestras y techo del edificio;
-
-II.- Los sótanos, pórticos, puertas de entrada, vestíbulos, patios, estacionamientos para vehículos, jardines, galerías, corredores y escaleras, que sean de uso común;
-
-III.- Los locales destinados a la administración, portería y alojamiento del portero y las instalaciones generales y servicios comunes;
-
-IV.- Las obras, instalaciones, aparatos y demás objetos que sirvan al uso o disfrute común;
-
-V.- Cualesquiera otras instalaciones que se resuelva, por unanimidad de los condóminos, usar o disfrutar en común, o que se establezcan con tal carácter en la escritura constitutiva.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### Artículo 1132.
 
-Los techos, pisos entre dos altos o secciones de éstos, que pertenezcan a distintos condóminos, las divisiones o muros que los separen entre sí y las instalaciones o aparatos destinados para ellos, serán de copropiedad de dichos condóminos, quienes harán los gastos de conservación y reparación que requieran aquéllos.
+(DEROGADO, P.O. 10 DE AGOSTO DE 2011)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### Artículo 1133.
 
-El condómino que abandone sus derechos o renuncie a usar determinados bienes comunes, continuará sujeto a las obligaciones que le imponen estas disposiciones, las escrituras de que tratan los artículos 1118 y 1123 y el reglamento de condominio y administración.
+(DEROGADO, P.O. 10 DE AGOSTO DE 2011)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### Artículo 1134.
 
-Cada condómino podrá gozar de las instalaciones y servicios generales y servirse de los bienes comunes, conforme a la naturaleza y destino ordinario de éstos y de aquéllas, sin restringir o hacer más oneroso el derecho de los demás condóminos.
+(DEROGADO, P.O. 10 DE AGOSTO DE 2011)
 
-> <small>(REFORMADO, P.O. 21 DE ENERO DE 2004)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### Artículo 1135.
 
-El propietario de un local o unidad privativa puede usar, gozar y disponer de él con las limitaciones y prohibiciones que establezcan las leyes, las escrituras a que se refieren los artículos 1118 y 1123 y el reglamento de condominio y administración respectivo.
+(DEROGADO, P.O. 10 DE AGOSTO DE 2011)
 
-> <small>(REFORMADO, P.O. 21 DE ENERO DE 2004)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### Artículo 1136.
 
-Cada condómino podrá enajenar, hipotecar o gravar su local o unidad privativa sin necesidad del consentimiento de los demás.
+(DEROGADO, P.O. 10 DE AGOSTO DE 2011)
 
-> <small>(REFORMADO, P.O. 21 DE ENERO DE 2004)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### Artículo 1137.
 
-En la enajenación, gravamen o embargo de un local o unidad privativa se entenderán comprendidos los derechos sobre los bienes comunes que le son anexos y éstos no pueden enajenarse, gravarse o embargarse independientemente de aquél.
+(DEROGADO, P.O. 10 DE AGOSTO DE 2011)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### Artículo 1138.
 
-Si la hipoteca o gravamen se constituye sobre la totalidad del edificio sujeto a régimen de propiedad y condominio, o sobre el terreno destinado a su construcción, será forzoso determinar por qué porción del crédito responde cada local, pudiendo cualquiera de ellos ser redimido del gravamen, pagándose la parte del crédito que garantice.
+(DEROGADO, P.O. 10 DE AGOSTO DE 2011)
 
-> <small>(REFORMADO, P.O. 21 DE ENERO DE 2004)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### Artículo 1139.
 
-En el caso de venta de un local o unidad privativa sujeto al régimen de propiedad y condominio, los otros condóminos no tienen el derecho del tanto.
+(DEROGADO, P.O. 10 DE AGOSTO DE 2011)
 
-> <small>(REFORMADO, P.O. 21 DE ENERO DE 2004)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### Artículo 1140.
 
-Cada condómino usará de su local o unidad privativa respetando los derechos de convivencia.
+(DEROGADO, P.O. 10 DE AGOSTO DE 2011)
 
-> <small>(REFORMADO, P.O. 21 DE ENERO DE 2004)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### Artículo 1141.
 
-Los condóminos no pueden:
+(DEROGADO, P.O. 10 DE AGOSTO DE 2011)
 
-I.- Destinar su local o unidad privativa a usos ilícitos;
-
-II.- Servirse de su local o unidad privativa para otro objeto distinto al estipulado y, en caso de duda, a aquéllos que deban presumirse en atención a la naturaleza del edificio y su situación; y
-
-III.- Efectuar actos o incurrir en omisiones que comprometan la solidez, seguridad, salubridad o comodidad del edificio, terreno o predio.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### Artículo 1142.
 
-Salvo lo que disponga el reglamento de condominio y administración, son aplicables a los condóminos las siguientes disposiciones:
+(DEROGADO, P.O. 10 DE AGOSTO DE 2011)
 
-I.- Los derechos de todos ellos son iguales;
-
-II.- Los condóminos no podrán:
-
-a) Ocupar los vestíbulos, jardines, patios, azoteas o techos;
-
-b) Hacer excavaciones, elevar nuevos pisos o realizar otras construcciones;
-
-c) Hacer innovaciones o modificaciones que afecten a la estructura, paredes maestras u otros elementos esenciales del edificio o que puedan perjudicar a su solidez, seguridad, salubridad o comodidad;
-
-d) Abrir luces o ventanas;
-
-e) Pintar o decorar la fachada de su local, en forma que altere la estética general del edificio.
-
-> <small>(REFORMADO, P.O. 21 DE ENERO DE 2004)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### Artículo 1143.
 
-Salvo lo dispuesto en el artículo anterior, los condóminos podrán hacer obras y reparaciones en el interior de su local o unidad privativa.
+(DEROGADO, P.O. 10 DE AGOSTO DE 2011)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### Artículo 1144.
 
-Los condóminos deberán:
+(DEROGADO, P.O. 10 DE AGOSTO DE 2011)
 
-I.- Abstenerse de todo acto, en el interior o fuera de su local, que impida o disminuya la eficacia de los servicios comunes e instalaciones generales;
-
-II.- Mantener en buen estado de conservación y funcionamiento los servicios e instalaciones propios.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### Artículo 1145.
 
-Los condóminos del último piso, o de los locales situados en él, costearán las obras de los techos en su parte interior; y los condóminos del piso bajo o primero o de los locales que formen parte de él, las obras que necesiten los suelos en la parte de su propiedad.
+(DEROGADO, P.O. 10 DE AGOSTO DE 2011)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### Artículo 1146.
 
-Para las obras en los bienes comunes e instalaciones generales, se observarán las siguientes reglas:
-
-I.- Las obras de conservación del edificio, necesarias para el funcionamiento de los servicios, se ejecutarán por el administrador sin previo acuerdo de los condóminos, con cargo al respectivo presupuesto de gastos;
-
-II.- Cuando el presupuesto de gastos no baste o sea preciso efectuar obras no previstas, el administrador convocará a asamblea de condóminos, y éstos por mayoría de votos resolverán lo conveniente;
-
-III.- La reparación de vicios ocultos, cuando no sea a cargo del vendedor, será por cuenta de todos los condóminos y cada uno contribuirá en proporción al espacio que ocupe su local;
-
-IV.- Para emprender obras distintas de las previstas en las fracciones anteriores, se requerirá el voto aprobatorio de la unanimidad de los condóminos;
-
-V.- Se prohíben las obras que puedan poner en peligro la solidez o seguridad del edificio, que impidan permanentemente el uso de una parte o servicio común a cualquiera de los condóminos, o que demeriten un local.
+(DEROGADO, P.O. 10 DE AGOSTO DE 2011)
 
 #### Sección Cuarta.- Reglamento de Condominio y Administración
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
 ###### Artículo 1147.
 
-Los edificios, terreno o predio sometidos al régimen de propiedad y condominio, serán administrados por la persona física o jurídica que designe la mayoría de los condóminos conforme a los artículos 1148 y 1153.
+(DEROGADO, P.O. 10 DE AGOSTO DE 2011)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### Artículo 1148.
 
-El administrador será nombrado en la primera asamblea de condóminos que se celebre.
+(DEROGADO, P.O. 10 DE AGOSTO DE 2011)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### Artículo 1149.
 
-Salvo lo que el reglamento disponga, el administrador podrá ser removido libremente por el voto de la mayoría de los condóminos en sesión en la que se cumpla lo dispuesto por los artículos 1152 y 1153.
+(DEROGADO, P.O. 10 DE AGOSTO DE 2011)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### Artículo 1150.
 
-Corresponde al administrador:
+(DEROGADO, P.O. 10 DE AGOSTO DE 2011)
 
-I.- Cuidar y vigilar los bienes y servicios comunes;
-
-II.- Atender y operar las instalaciones y servicios comunes;
-
-III.- Administrar y conservar el condominio;
-
-IV.- Ejecutar los acuerdos de asamblea de condóminos, salvo los casos en que la ejecución se encomiende a otra persona;
-
-V.- Recaudar de los condóminos lo que a cada uno corresponda en los gastos comunes;
-
-VI.- Velar por la observancia de las disposiciones de este capítulo y del reglamento de condominio y administración;
-
-VII.- Representar a los condóminos en todos los asuntos comunes relacionados con el edificio, sea que se promuevan a su nombre o en contra de ellos y tendrá las facultades de representación de un apoderado para administrar bienes y para pleitos y cobranzas, pero no las que requieran cláusula especial, salvo que se le confieran por el reglamento o la asamblea;
-
-VIII.- Ejercitar las demás facultades y cumplir las obligaciones que le concedan e impongan, respectivamente la ley o el reglamento.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### Artículo 1151.
 
-Las disposiciones y acuerdos que dicte la asamblea de condóminos son obligatorios para todos éstos y para el administrador.
+(DEROGADO, P.O. 10 DE AGOSTO DE 2011)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### Artículo 1152.
 
-Los asuntos de interés común que no se encuentren comprendidos dentro de las facultades conferidas por la ley o por la asamblea, al administrador, serán resueltos por los condóminos en asambleas que se celebrarán cada vez que sea necesario, pero obligatoriamente una vez al año cuando menos.
+(DEROGADO, P.O. 10 DE AGOSTO DE 2011)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### Artículo 1153.
 
-Son aplicables a las asambleas de condóminos, las siguientes disposiciones:
-
-I.- Salvo que se exija una mayoría especial o sea necesaria la unanimidad, los asuntos se resolverán por mayoría absoluta de votos del total de los condóminos, a menos que una asamblea se celebre a virtud de segunda convocatoria, en que bastará con la mayoría de votos de los que estén presentes;
-
-II.- Se sumará el número de metros cuadrados que tengan los locales, con exclusión de las áreas comunes, y el resultado será el número total de votos y cada condómino tendrá tantos votos como número de metros cuadrados tenga su local;
-
-III.- La asamblea anual conocerá del informe del administrador y de la cuenta que deberá rendir, aprobará el presupuesto de gastos del siguiente año, dentro del cual se indicará el sueldo del administrador, y determinará la forma de obtener los fondos necesarios para cubrirlo;
-
-IV.- Las determinaciones legalmente adoptadas de las asambleas obligan a todos los condóminos, inclusive a los disidentes y a quienes no concurran a ellas;
-
-V.- Cuando un condómino represente más del cincuenta por ciento de los votos, se requerirá además el cincuenta por ciento de los votos restantes, para que tengan validez los acuerdos por mayoría a que se refieren este artículo y el 1146, fracción II;
-
-VI.- Las convocatorias se harán por el administrador, o por los condóminos que representen por lo menos la cuarta parte del número de votos;
-
-VII.- Las convocatorias se harán con tres días de anticipación por lo menos a la fecha de la asamblea, recogiendo las firmas de los condóminos o sus representantes;
-
-VIII.- La autoridad judicial podrá confirmar, modificar o revocar los acuerdos de la mayoría, cuando la minoría se oponga a ella judicialmente.
+(DEROGADO, P.O. 10 DE AGOSTO DE 2011)
 
 #### Sección Quinta.- Gastos, obligaciones fiscales y controversias
 
-> <small>(REFORMADO, P.O. 21 DE ENERO DE 2004)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### Artículo 1154.
 
-El reglamento de condominio y administración determinará obligatoriamente, por lo menos, los siguientes puntos:
+(DEROGADO, P.O. 10 DE AGOSTO DE 2011)
 
-I.- Forma de designación y facultades del administrador;
-
-II.- Bases de remuneración del administrador y forma de su remoción;
-
-III.- Persona que presidirá las asambleas;
-
-> <small>(REFORMADA, P.O. 21 DE ENERO DE 2004)</small>
-
-IV.- Derechos y obligaciones de cada uno de los condóminos, especificando las partes del edificio, terreno o predio, que sean de uso común y las limitaciones al ejercicio del derecho de usar tanto los bienes comunes como los propios.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### Artículo 1155.
 
-El reglamento de condominio y administración sólo podrá modificarse por acuerdo unánime de los condóminos.
+(DEROGADO, P.O. 10 DE AGOSTO DE 2011)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### Artículo 1156.
 
-El reglamento será obligatorio también para los nuevos adquirentes.
+(DEROGADO, P.O. 10 DE AGOSTO DE 2011)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### Artículo 1157.
 
-Si uno o varios condóminos niegan su consentimiento para reformar el reglamento de condominio y administración o para hacer las obras a que se refiere la fracción II del artículo 1146, la minoría podrá someter el caso a la autoridad judicial.
+(DEROGADO, P.O. 10 DE AGOSTO DE 2011)
 
 #### Sección Sexta.- Gravámenes
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
 ###### Artículo 1158.
 
-Los condóminos deben contribuir, en proporción al número de metros cuadrados que tenga su local o unidad privativa para los gastos de administración, conservación y operación de los bienes y servicios comunes.
+(DEROGADO, P.O. 10 DE AGOSTO DE 2011)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### Artículo 1159.
 
-Cuando un edificio conste de diferentes partes y comprenda obras e instalaciones destinadas a servir únicamente a una parte del conjunto, los gastos especiales relativos serán a cargo del grupo de condóminos beneficiados y en el caso de aparatos, obras, instalaciones o elementos cuya utilización sea variable, podrán establecerse normas especiales para el reparto de los gastos.
+(DEROGADO, P.O. 10 DE AGOSTO DE 2011)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### Artículo 1160.
 
-Al pago de los gastos comunes son aplicables las siguientes disposiciones:
+(DEROGADO, P.O. 10 DE AGOSTO DE 2011)
 
-I.- Las cuotas para esos gastos, que los condóminos no cubran oportunamente, causarán interés al tipo que fije el reglamento de condominio o los legales si éste es omiso;
-
-II.- Independientemente del interés a que se refiere la fracción anterior, serán a cargo del condómino moroso, los recargos que causen los créditos fiscales no pagados oportunamente;
-
-III.- El acta de la asamblea en que se acuerde el pago de cuotas anticipadas o en que se distribuyan los gastos ya efectuados, protocolizada ante Notario, servirá de título para exigirlos en juicio ejecutivo civil a los morosos;
-
-IV.- Los créditos seguirán siempre al dominio de los respectivos locales, aunque se trasmitan a terceros, y sus titulares gozarán en su caso del derecho que establece en su favor el artículo 2980, fracción XI.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### Artículo 1161.
 
-El condómino que no cumpla las obligaciones a su cargo será responsable de los daños y perjuicios que cause a los demás.
+(DEROGADO, P.O. 10 DE AGOSTO DE 2011)
 
 #### Sección Séptima.- Destrucción, ruina y reconstrucción del edificio
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
 ###### Artículo 1162.
 
-Los gravámenes son divisibles entre los diferentes locales de un edificio sujeto al régimen de propiedad y condominio, sea que dichos gravámenes se adquieran por el constructor o por el conjunto de condóminos.
+(DEROGADO, P.O. 10 DE AGOSTO DE 2011)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### Artículo 1163.
 
-La división de los gravámenes entre los condóminos se hará proporcionalmente al número de metros cuadrados que tenga su local, de acuerdo con lo establecido en la fracción II del artículo 1153.
+(DEROGADO, P.O. 10 DE AGOSTO DE 2011)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### Artículo 1164.
 
-El condómino responderá con su derecho del gravamen que individualmente imponga a éste.
+(DEROGADO, P.O. 10 DE AGOSTO DE 2011)
 
 #### Sección Octava.- Condominio de Mercados
 
 ###### Artículo 1165.
 
-En caso de destrucción del edificio son aplicables las siguientes disposiciones:
+(DEROGADO, P.O. 10 DE AGOSTO DE 2011)
 
-I.- Si el edificio se destruyere total o parcialmente debido a un siniestro, y en este segundo caso resultare inhabitable y los condóminos no acordaren reconstruirlo, o en su caso repararlo, se procederá a la división del inmueble, con arreglo a las disposiciones generales sobre copropiedad;
-
-II.- En el caso a que se refiere la fracción anterior, si la mayoría resuelve hacer la reconstrucción o reparación, los condóminos que queden en minoría estarán obligados a contribuir a la reconstrucción, en la proporción que les corresponda, o a vender sus derechos.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### Artículo 1166.
 
-En caso de ruina por vetustez del edificio, la mayoría de los condóminos podrá resolver la demolición y venta de los materiales o la reconstrucción y, si optare por esta, la minoría no podrá ser obligada a contribuir a ella, no siendo aplicable lo dispuesto en la parte final de la fracción II del artículo anterior.
+(DEROGADO, P.O. 10 DE AGOSTO DE 2011)
 
 #### Sección Primera.- Generalidades
 
@@ -7119,9 +7067,13 @@ Si de la auditoría resultaren responsabilidades a cargo del administrador, el A
 
 El administrador será el ejecutor de los acuerdos tomados por la asamblea de condóminos y de las resoluciones administrativas dictadas por las autoridades competentes.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2011)</small>
+
 ###### Artículo 1186.
 
-Son aplicables en lo conducente al condominio de mercados, las disposiciones contenidas en las demás secciones de este capítulo.
+Son aplicables en lo conducente al condominio de mercados, además de este Código, las disposiciones contenidas en la Ley que regula el Régimen de Propiedad en Condominio para el Estado de Puebla.
 
 ### CAPITULO UNDECIMO.- DERECHO REAL DE USUFRUCTO
 
@@ -11541,7 +11493,7 @@ Los gastos judiciales se regularán por el Código de Procedimientos Civiles.
 
 B.- Cláusula Penal
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE NOVIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE NOVIEMBRE DE 2007)</small>
 
 ###### Artículo 2017.
 
@@ -19851,7 +19803,7 @@ RUBRICAS.
 
 Por tanto mando se imprima, publique y circule para sus efectos.- Dado en el Palacio del Poder Ejecutivo en la Heroica Puebla de Zaragoza, a los diecisiete días del mes de abril de mil novecientos ochenta y cinco.- El Gobernador Constitucional del Estado.- LIC. GUILLERMO JIMENEZ MORALES.- Rúbrica.- El Secretario de Gobernación.- LIC. FERNANDO GARCIA ROSAS.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CÓDIGO.</small>
 
 P.O. 9 DE AGOSTO DE 1985.
 
@@ -19911,7 +19863,7 @@ TRANSITORIO.- El presente Decreto entrará en vigor al día siguiente de su publ
 
 P.O. 28 DE FEBRERO DE 1997.
 
-DECRETO QUE REFORMA, DEROGA Y ADICIONA DIVERSAS DISPOSICIONES AL CODIGO CIVIL PARA EL ESTADO LIBRE Y SOBERANO DE PUEBLA
+DECRETO QUE REFORMA, DEROGA Y ADICIONA DIVERSAS DISPOSICIONES AL CÓDIGO CIVIL PARA EL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
 ###### ARTICULO PRIMERO.
 
@@ -19923,7 +19875,7 @@ Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 P.O. 28 DE FEBRERO DE 1997.
 
-DECRETO QUE REFORMA EL ARTICULO 2928 Y ADICIONA TRES PARRAFOS AL ARTICULO 2933 DEL CODIGO PARA EL ESTADO LIBRE Y SOBERANO DE PUEBLA.
+DECRETO QUE REFORMA EL ARTÍCULO 2928 Y ADICIONA TRES PÁRRAFOS AL ARTÍCULO 2933 DEL CÓDIGO PARA EL ESTADO LIBRE Y SOBERANO DE PUEBLA.
 
 ###### ARTICULO PRIMERO.
 
@@ -20042,6 +19994,16 @@ DECRETO POR EL QUE SE REFORMA LA FRACCIÓN III DEL ARTÍCULO 1457, EL 1493 Y EL 
 ###### ARTÍCULO PRIMERO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Puebla.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 10 DE AGOSTO DE 2011.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor a los ciento ochenta días hábiles de su publicación en el Periódico Oficial del Estado.
 
 ###### ARTÍCULO SEGUNDO.
 
