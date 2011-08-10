@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-obra-publica-y-servicios-relacionados-con-la-misma-19016
 country: "mx"
 rank: "ley"
 publication_date: "2000-12-23"
-last_updated: "2010-05-01"
+last_updated: "2011-08-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=19016&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE OBRA PUBLICA Y SERVICIOS RELACIONADOS CON LA MISMA DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE MAYO DE 2010
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE AGOSTO DE 2011.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 23 de diciembre del 2000.
 
@@ -89,13 +89,13 @@ III. Organismos: Las Unidades Descentralizadas, del Estado o de los Municipios, 
 
 IV. Secretaría: La Secretaría de Comunicaciones y Obras Públicas;
 
-> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2007)</small>
+> <small>(REFORMADA, P.O. 10 DE AGOSTO DE 2011)</small>
 
-V. Finanzas: La Secretaría de Finanzas y Administración;
+V. Hacienda: La Secretaría de Hacienda;
 
 VI. Contraloría: La Secretaría de la Contraloría del Estado;
 
-VII. Planeación: La Secretaría de Planeación y Evaluación;
+VII. (DEROGADA, P.O. 10 DE AGOSTO DE 2011)
 
 VIII. Contratista: La persona física o moral con quien se celebre o pretendan celebrarse contratos de obras públicas y de servicios relacionados con las mismas;
 
@@ -163,17 +163,17 @@ En el ámbito del Poder Ejecutivo, la Secretaría, escuchando la opinión de la 
 
 Lo propio harán el Poder Legislativo y Judicial en su ámbito interior, a través de sus órganos de administración, y los Ayuntamientos por conducto de los órganos facultados conforme al Código Municipal.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE JUNIO DE 2007)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE AGOSTO DE 2011)</small>
 
 ###### ARTICULO 8.
 
-El Poder Ejecutivo aplicará estas disposiciones por conducto de la Secretaría, Finanzas, Contraloría y Planeación, así como de sus organismos en el ámbito de su respectiva competencia, por lo que respecta a su obra pública o servicios relacionados con la misma.
+El Poder Ejecutivo aplicará estas disposiciones por conducto de la Secretaría, Hacienda y la Contraloría, así como sus Organismos en el ámbito de su respectiva competencia, por lo que respecta a su obra pública o servicios relacionados con la misma.
 
 Los Poderes Legislativo y Judicial las aplicarán a través de sus respectivos Órganos de Administración.
 
-> <small>(REFORMADO, P.O. 19 DE ENERO DE 2005)</small>
+> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2011)</small>
 
-Los Ayuntamientos las aplicarán por conducto de sus Tesorerías, Oficialías Mayores y sus Organismos. Cuando realicen obra pública o servicios relacionados con la misma, con subsidios, participaciones o fondos estatales, intervendrán Planeación y la Contraloría en los términos de esta Ley y demás disposiciones legales aplicables.
+Los Ayuntamientos las aplicarán por conducto de sus Tesorerías, Oficialías Mayores y sus Organismos. Cuando realicen obra pública o servicios relacionados con la misma, con subsidios, participaciones o fondos estatales, intervendrán Hacienda y la Contraloría en los términos de esta Ley y demás disposiciones legales aplicables.
 
 ###### ARTICULO 9.
 
@@ -267,9 +267,9 @@ VIII. De preferencia, la inclusión de insumos, materiales, equipo, sistemas, bi
 
 IX. Las demás previsiones que deban tomarse en cuenta según la naturaleza y características de la obra pública.
 
-> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2007)</small>
+> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2011)</small>
 
-Los planes y programas a que se refiere este artículo en el Poder Ejecutivo y sus organismos, deberán formularse de acuerdo con la Secretaría, Finanzas y Planeación.
+Los planes y programas a que se refiere este artículo, en el Poder Ejecutivo y sus Organismos, deberán formularse de acuerdo con la Secretaría y Hacienda.
 
 Los Poderes Legislativo y Judicial podrán celebrar convenios con el Ejecutivo, para dar cumplimiento a esta disposición.
 
@@ -333,9 +333,9 @@ Los contratos de servicios relacionados con la obra pública solo se podrán cel
 
 En el ámbito estatal, los organismos que sean apoyados presupuestalmente o que reciban transferencias de recursos estatales, remitirán sus programas y presupuestos de obra pública, a la dependencia coordinadora de sector, en los términos que señala la Ley de Presupuesto de Egresos, Contabilidad y Gasto Público.
 
-> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2007)</small>
+> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2011)</small>
 
-Las coordinadoras de sector y las dependencias y organismos que no se encuentren agrupadas en sector alguno, enviarán a Planeación y Finanzas, los programas y presupuestos mencionados en la fecha que ésta determine, para su examen, aprobación e inclusión, en su caso, en el proyecto de Presupuesto de Egresos correspondiente.
+Las coordinadoras de sector y las dependencias y organismos que no se encuentren agrupados en sector alguno, enviarán a Hacienda, los programas y presupuestos mencionados en la fecha que ésta determine, para su examen, aprobación e inclusión, en su caso, en el proyecto de Presupuesto de Egresos correspondiente.
 
 ###### ARTICULO 22.
 
@@ -453,11 +453,11 @@ Las Dependencias y Organismos pondrán a disposición de los interesados, a trav
 
 El uso de los medios de comunicación y difusión electrónica serán regulados en el Reglamento de esta Ley.
 
-> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2007)</small>
+> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2011)</small>
 
 ###### ARTICULO 35.
 
-En casos excepcionales y previa autorización de Planeación o de Finanzas, según corresponda, en el Ejecutivo y sus organismos; de los respectivos órganos de Administración en el Congreso y en el Supremo Tribunal de Justicia; y del Ayuntamiento en los municipios y sus organismos, se podrá convocar sin contar con saldo disponible en su presupuesto.
+En casos excepcionales y previa autorización de Hacienda, en el Ejecutivo y sus Organismos; de los respectivos órganos de Administración en el Congreso y en el Supremo Tribunal de Justicia; y del Ayuntamiento en los Municipios y sus Organismos, se podrá convocar sin contar con saldo disponible en su presupuesto.
 
 ###### ARTICULO 36.
 
@@ -655,11 +655,11 @@ DE LOS PROCEDIMIENTOS Y CONTRATOS DE OBRA PUBLICA Y SERVICIOS RELACIONADOS CON L
 
 Se crea la Comisión Consultiva Estatal de Obra Pública, como Órgano de enlace con la Cámara Mexicana de la Industria de la Construcción, que tendrá por objeto emitir opiniones relacionadas con las materias de esta Ley, las cuales tendrán carácter de recomendaciones no vinculatorias.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE JUNIO DE 2007)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE AGOSTO DE 2011)</small>
 
 ###### ARTICULO 46.
 
-La Comisión Consultiva de Obra Pública estará integrada por representantes de la Secretaría, Secretaría General de Gobierno, Finanzas, Secretaría de Desarrollo Urbano y Ecología, Contraloría y Cámara Mexicana de la Industria de la Construcción.
+La Comisión Consultiva de Obra Pública estará integrada por representantes de la Secretaría, Secretaría General de Gobierno, Hacienda, Secretaría de Desarrollo Urbano y Ecología, Contraloría y Cámara Mexicana de la Industria de la Construcción.
 
 El Secretario de Comunicaciones y Obras Públicas o la persona que éste designe, fungirá como Presidente.
 
@@ -685,9 +685,9 @@ IV. Constituir Subcomités dentro de las Dependencias y Organismos, cuando por l
 
 V. Aquellas otras que de manera especifica señale esta Ley.
 
-> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2007)</small>
+> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2011)</small>
 
-En el Poder Ejecutivo y sus organismos, el Comité se integrará con representantes designados por los titulares de la Secretaría, la Secretaría General de Gobierno, Finanzas, Planeación, así como del ente público convocante. La Contraloría, podrá participar en el Comité en calidad de observador.
+En el Poder Ejecutivo y sus Organismos, el Comité se integrará con representantes designados por los titulares de la Secretaría, la Secretaría General de Gobierno, Hacienda, así como del ente público convocante. La Contraloría, podrá participar en el Comité en calidad de observador.
 
 El representante de la Secretaría fungirá como Presidente del Comité.
 
@@ -1193,23 +1193,29 @@ Los Entes Públicos que realicen obra pública por administración directa o med
 
 ### CAPITULO UNICO. DE LA INFORMACION Y VERIFICACION
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE AGOSTO DE 2011)</small>
+
 ###### ARTICULO 86.
 
-Las Dependencias y Organismos Estatales, deberán remitir a la Secretaría, a Planeación y a la Contraloría, en la forma y términos que éstas señalen, la información relativa a los actos y contratos que regula esta Ley.
+Las Dependencias y Organismos Estatales, deberán remitir a la Secretaría, a Hacienda y a la Contraloría, en la forma y términos que éstas señalen, la información relativa a los actos y contratos que regula esta Ley.
 
 De igual manera, lo harán los municipios cuando la obra o servicio, se realice con recursos del Estado.
 
 Para tal efecto, conservarán en forma ordenada y sistemática toda la documentación comprobatoria de dichos actos y contratos, cuando menos por un lapso de seis años, contados a partir de la fecha en que se hubieren recibido las obras, o prestado el servicio.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE AGOSTO DE 2011)</small>
+
 ###### ARTICULO 87.
 
-La Secretaría, Planeación y la Contraloría, en el ejercicio de sus respectivas facultades, podrán verificar, en cualquier tiempo, que la obra pública y los servicios relacionados con la misma, que lleven a cabo las Dependencias y Organismos Estatales, o las Municipales con recursos del Estado, se realicen conforme a lo establecido en esta Ley o en otras disposiciones aplicables y a los programas y presupuestos autorizados.
+La Secretaría, Hacienda y la Contraloría, en el ejercicio de sus respectivas facultades, podrán verificar, en cualquier tiempo, que la obra pública y los servicios relacionados con la misma, que lleven a cabo las Dependencias y Organismos Estatales, o las Municipales con recursos del Estado, se realicen conforme a lo establecido en esta Ley o en otras disposiciones aplicables y a los programas y presupuestos autorizados.
 
 El Poder Legislativo, Judicial y los Municipios a través de sus Ayuntamientos, determinarán la dependencia que en su ámbito de competencia ejecutará las facultades a que se refiere este Título.
 
+> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2011)</small>
+
 ###### ARTICULO 88.
 
-Para los efectos de este capítulo, las Dependencias y Organismos, así como los Municipios cuando corresponda, proporcionarán todas las facilidades administrativas necesarias a fin de que la Secretaría, Planeación y la Contraloría, puedan realizar el seguimiento y control físico-financiero correspondiente.
+Para los efectos de este capítulo, las Dependencias y Organismos, así como los Municipios cuando corresponda, proporcionarán todas las facilidades administrativas necesarias a fin de que la Secretaría, Hacienda y la Contraloría, puedan realizar el seguimiento y control físico-financiero correspondiente.
 
 ###### ARTICULO 89.
 
@@ -1221,11 +1227,11 @@ El resultado de las comprobaciones se hará constar en un dictamen que será fir
 
 ### CAPITULO UNICO. DE LAS INFRACCIONES Y SANCIONES
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE JUNIO DE 2007)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE AGOSTO DE 2011)</small>
 
 ###### ARTICULO 90.
 
-Las infracciones a las disposiciones contenidas en esta ley serán sancionadas con suspensión o cancelación en el Padrón Único de Contratistas y/o multa. En el Poder Ejecutivo y sus organismos, las sanciones se impondrán por la Contraloría y se ejecutarán por la Secretaría o por Finanzas según corresponda; en el Poder Legislativo y Judicial así como en los Municipios, por sus órganos de control correspondientes.
+Las infracciones a las disposiciones contenidas en esta ley serán sancionadas con suspensión o cancelación en el Padrón Único de Contratistas y/o multa. En el Poder Ejecutivo y sus Organismos, las sanciones se impondrán por la Contraloría y se ejecutarán por la Secretaría o por Hacienda, según corresponda; en el Poder Legislativo y Judicial, así como en los Municipios, por sus órganos de control correspondientes.
 
 La Contraloría llevará para su información un padrón, en el que se incluyan las personas físicas y morales que hayan sido sancionadas por infracciones a esta Ley.
 
@@ -1461,7 +1467,7 @@ Lo mismo se observará respecto a la intervención que otorgan a la ya inexisten
 
 ###### ARTÍCULO SEXTO.
 
-Cuando en cualquier otro ordenamiento legal, acuerdo, convenio o contrato de la naturaleza que fuere, se haga referencia a la Tesorería General del Estado, a la Dirección General de Finanzas, a la Dirección General de Finanzas y Administración; de igual manera, se entenderá citada ésta cuando se haga mención a la Oficialía Mayor, a la Dirección General de Administración o a la Secretaría de Administración.
+Cuando en cualquier otro ordenamiento legal, acuerdo, convenio o contrato de la naturaleza que fuere, se haga referencia a la Tesorería General del Estado, a la Dirección General de Finanzas, a la Dirección General de Finanzas y Administración o a la Secretaría de Finanzas, se entenderá citada a la Secretaría de Finanzas y Administración; de igual manera, se entenderá citada ésta cuando se haga mención a la Oficialía Mayor, a la Dirección General de Administración o a la Secretaría de Administración.
 
 P.O. 30 DE JULIO DE 2008.
 
@@ -1500,3 +1506,9 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Los Entes Públicos deberán implementar las adaptaciones descritas en el presente Decreto, en un plazo no mayor de un año a partir de la publicación del mismo.
+
+P.O. 10 DE AGOSTO DE 2011.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
