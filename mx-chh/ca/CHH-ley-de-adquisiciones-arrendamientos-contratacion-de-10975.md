@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-adquisiciones-arrendamientos-contratacion-de-10975"
 country: "mx"
 rank: "ley"
 publication_date: "1997-09-13"
-last_updated: "2011-05-11"
+last_updated: "2011-08-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10975&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ LEY DE ADQUISICIONES, ARRENDAMIENTOS, CONTRATACIÓN DE SERVICIOS Y OBRA PÚBLICA
 
 > <small>[N. DE E. DE ACUERDO A LO ESTABLECIDO POR EL ARTÍCULO SEGUNDO TRANSITORIO DE LA “LEY DE OBRA PÚBLICA Y SERVICIOS RELACIONADOS CON LA MISMA”, PUBLICADA EN EL P.O. EL 23 DE DICIEMBRE DE 2000, SE DEROGAN TODAS LAS DISPOSICIONES REFERENTES A LA OBRA PÚBLICA Y SERVICIOS RELACIONADOS CON LA MISMA CONTENIDOS EN LA “LEY DE ADQUISICIONES, ARRENDAMIENTOS, CONTRATACIÓN DE SERVICIOS Y OBRA PÚBLICA DEL ESTADO DE CHIHUAHUA”, PUBLICADA EN EL PERIÓDICO OFICIAL DEL ESTADO DEL 13 DE SEPTIEMBRE DE 1997 Y SUS POSTERIORES REFORMAS.]</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE MAYO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE AGOSTO DE 2011.
 
 Ley publicada en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 13 de septiembre de 1997.
 
@@ -81,17 +81,15 @@ II. Dependencias: las Unidades de la Administración centralizada, estatal o mun
 
 III. Organismos: las Unidades Descentralizadas, del Estado o de los Municipios, quedando comprendidas las señaladas en las fracciones IV, V y VI del artículo 1;
 
-> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2007)</small>
+> <small>(REFORMADA, P.O. 10 DE AGOSTO DE 2011)</small>
 
-IV. Secretaría: La Secretaría de Finanzas y Administración;
+IV. Secretaría: la Secretaría de Hacienda;
 
 > <small>(REFORMADA, P.O. 30 DE JUNIO DE 2007)</small>
 
 V. Contraloría: La Secretaría de la Contraloría;
 
-> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2007)</small>
-
-VI. Planeación: La Secretaría de Planeación y Evaluación;
+VI. (DEROGADA, P.O. 10 DE AGOSTO DE 2011)
 
 VII. Proveedor: la persona física o moral con quien se celebren o pretendan celebrarse contratos de adquisiciones, arrendamientos o servicios;
 
@@ -157,11 +155,11 @@ En el ámbito del Poder Ejecutivo, la Secretaría y la Contraloría dictarán la
 
 Lo propio harán el Poder Legislativo en su ámbito interior, a través de sus órganos de administración, y los Ayuntamientos por conducto de los órganos facultados conforme al Código Municipal.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE JUNIO DE 2007)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE AGOSTO DE 2011)</small>
 
 ###### Artículo 8.
 
-El Ejecutivo aplicará estas disposiciones por conducto de la Secretaría, la Secretaría de Comunicaciones y Obras Públicas, Planeación y la Contraloría, por lo que respecta a sus adquisiciones, arrendamientos y contratación de servicios y obra pública, así como de su sector paraestatal.
+El Ejecutivo aplicará estas disposiciones por conducto de la Secretaría, la Secretaría de Comunicaciones y Obras Públicas y la Contraloría, por lo que respecta a sus adquisiciones, arrendamientos y contratación de servicios y obra pública, así como de su sector paraestatal.
 
 El Congreso del Estado las aplicará a través de sus respectivos órganos de administración, en lo referente a sus adquisiciones, arrendamientos y contratación de servicios y obra pública.
 
@@ -257,9 +255,9 @@ VIII. De preferencia la inclusión de insumos, materiales, equipo, sistemas, bie
 
 IX. Las demás previsiones que deban tomarse en cuenta según la naturaleza y características de las adquisiciones, arrendamientos, servicios u obra pública.
 
-> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2007)</small>
+> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2011)</small>
 
-Los planes y programas a que se refiere este artículo, en el Poder Ejecutivo, deberán formularse de acuerdo con la Secretaría, Planeación y la Contraloría.
+Los planes y programas a que se refiere este artículo, en el Poder Ejecutivo, deberán formularse de acuerdo con la Secretaría y la Contraloría.
 
 ###### Artículo 20.
 
@@ -323,15 +321,15 @@ El documento que contenga los programas será de carácter informativo; no supon
 
 Por cada Entidad, Dependencia u Organismo existirá un Comité de Adquisiciones, Arrendamientos y Servicios, en el ámbito de competencia estatal. En los Municipios existirá un Comité en cada uno de ellos.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE JUNIO DE 2007)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE AGOSTO DE 2011)</small>
 
 ###### Artículo 26.
 
-En el Poder Ejecutivo, el Comité de Adquisiciones, Arrendamientos y Servicios se integrará por los representantes de la Secretaría, de Planeación y de la dependencia de la administración pública centralizada o entidad que requiera la adquisición, el arrendamiento o la prestación de servicio, así como por un representante de la Contraloría, en su carácter de observador.
+En el Poder Ejecutivo, el Comité de Adquisiciones, Arrendamientos y Servicios, se integrará por los representantes de la Secretaría y de la dependencia de la administración pública centralizada o entidad que requiera la adquisición, el arrendamiento o la prestación de servicio, así como por un representante de la Contraloría, en su carácter de observador.
 
-> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2007)</small>
+> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2011)</small>
 
-El Secretario de Finanzas y Administración, o su representante, fungirá como Presidente del Comité.
+El Secretario de Hacienda, o su representante, fungirá como Presidente del Comité.
 
 El Congreso del Estado determinará, conforme a su Ley Orgánica, la integración de su Comité de Adquisiciones, Arrendamientos y Servicios, debiendo observar lo relativo a la participación de la Cámara o Asociación correspondiente en los términos del artículo siguiente.
 
@@ -1191,33 +1189,33 @@ III. Los plazos para las diversas etapas del procedimiento se sujetarán para ca
 
 ### Capítulo Unico
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE JUNIO DE 2007)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE AGOSTO DE 2011)</small>
 
 ###### Artículo 104.
 
-La Secretaría y demás Dependencias y Organismos estatales, deberán remitir a Planeación y a la Contraloría, en la forma y términos que esta última señale, la información relativa a los actos y contratos que regula esta Ley.
+La Secretaría y demás Dependencias y Organismos estatales, deberán remitir a la Contraloría, en la forma y términos que esta última señale, la información relativa a los actos y contratos que regula esta Ley.
 
 De igual manera, lo harán los Municipios cuando la adquisición, el arrendamiento o la contratación del servicio o la obra, se realice con recursos del Estado.
 
 Para tal efecto, conservarán en forma ordenada y sistemática toda la documentación comprobatoria de dichos actos y contratos, cuando menos por un lapso de seis años, contados a partir de la fecha en que se hubiere recibido los bienes o las obras; o prestado el servicio.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE JUNIO DE 2007)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE AGOSTO DE 2011)</small>
 
 ###### Artículo 105.
 
-Planeación y la Contraloría, en el ejercicio de sus respectivas facultades, podrán verificar, en cualquier tiempo, que las adquisiciones, los arrendamientos, los servicios y la obra pública que lleven a cabo las Dependencias y Organismos estatales, o las municipales con recursos del Estado, se realicen conforme a lo establecido en esta Ley o en otras disposiciones aplicables y a los programas y presupuestos autorizados.
+La Secretaría y la Contraloría, en el ejercicio de sus respectivas facultades, podrán verificar, en cualquier tiempo, que las adquisiciones, los arrendamientos, los servicios y la obra pública que lleven a cabo las Dependencias y Organismos estatales, o las municipales con recursos del Estado, se realicen conforme a lo establecido en esta Ley o en otras disposiciones aplicables y a los programas y presupuestos autorizados.
 
-> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2007)</small>
+> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2011)</small>
 
-Planeación, en el ejercicio de sus facultades, podrá verificar en cualquier tiempo que la obra pública, las adquisiciones, arrendamientos y servicios llevados a cabo por el Ejecutivo y su sector paraestatal, se realicen conforme a lo establecido por esta Ley, o en las disposiciones que de ella se deriven y a los programas y presupuestos autorizados, cuando tengan el carácter de estatales.
+La Secretaría, en el ejercicio de sus facultades, podrá verificar en cualquier tiempo que la obra pública, las adquisiciones, arrendamientos y servicios llevados a cabo por el Ejecutivo y su sector paraestatal, se realicen conforme a lo establecido por esta Ley, o en las disposiciones que de ella se deriven y a los programas y presupuestos autorizados, cuando tengan el carácter de estatales.
 
 Los Municipios, a través de sus Ayuntamientos, determinarán la Dependencia que en su ámbito de competencia ejecutará las facultades a que se refiere este Título.
 
-> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2007)</small>
+> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2011)</small>
 
 ###### Artículo 106.
 
-Para los efectos de este capítulo, las Dependencias y Organismos proporcionarán todas las facilidades administrativas necesarias a fin de que la Contraloría y Planeación puedan realizar el seguimiento y control físico-financiero correspondiente.
+Para los efectos de este capítulo, las Dependencias y Organismos proporcionarán todas las facilidades administrativas necesarias a fin de que la Secretaría y la Contraloría puedan realizar el seguimiento y control físico-financiero correspondiente.
 
 ###### Artículo 107.
 
@@ -1229,9 +1227,11 @@ El resultado de las comprobaciones se hará constar en un dictamen que será fir
 
 ### Capítulo Unico. De las Infracciones y Sanciones
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE AGOSTO DE 2011)</small>
+
 ###### Artículo 108.
 
-Las infracciones a las disposiciones contenidas en esta Ley, serán sancionadas con suspensión, cancelación y/o multa. En el Poder Ejecutivo y su sector paraestatal, las sanciones se impondrán por la Dirección; en el Poder Legislativo, por la Mesa Directiva o, en su caso, por la Diputación Permanente y, en los Municipios y su sector paraestatal por el tesorero Municipal.
+Las infracciones a las disposiciones contenidas en esta Ley, serán sancionadas con suspensión, cancelación y/o multa. En el Poder Ejecutivo y su sector paraestatal, las sanciones se impondrán por la Secretaría; en el Poder Legislativo, por la Mesa Directiva o, en su caso, por la Diputación Permanente y, en los municipios y sus organismos por el Tesorero Municipal.
 
 La multa será equivalente a la cantidad de diez a mil veces el salario mínimo general vigente en la capital del Estado en la fecha de la infracción. Constituye crédito fiscal a favor del Estado o del Municipio, según corresponda, y se hará efectiva mediante el procedimiento administrativo de ejecución, en los términos de las disposiciones aplicables del Código Fiscal del Estado y del Código Municipal.
 
@@ -1846,3 +1846,9 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 El Ejecutivo del Estado expedirá la reglamentación que se requiera para la adecuada aplicación del presente Decreto, la cual será interpretada por la Secretaría de Hacienda, para efectos administrativos, escuchando previamente la opinión de la dependencia o entidad interesada.
+
+P.O. 10 DE AGOSTO DE 2011.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
