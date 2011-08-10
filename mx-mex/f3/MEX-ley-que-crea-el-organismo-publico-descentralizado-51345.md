@@ -4,7 +4,7 @@ identifier: "MEX-ley-que-crea-el-organismo-publico-descentralizado-51345"
 country: "mx"
 rank: "ley"
 publication_date: "2006-08-01"
-last_updated: "2006-08-01"
+last_updated: "2011-08-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51345&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY QUE CREA EL ORGANISMO PUBLICO DESCENTRALIZADO DENOMINADO INSTITUTO MUNICIPAL DE CULTURA FÍSICA Y DEPORTE DE TENANGO DEL AIRE
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 10 DE AGOSTO DE 2011.
 
 Ley publicada en el Periódico Oficial del Estado Libre y Soberano de México, el martes 1 de agosto del 2006.
 
@@ -115,9 +115,19 @@ XIII. Crear el registro municipal de deportistas, deportes, clubes, ligas y torn
 
 XIV. Crear el registro municipal de jueces, árbitros, entrenadores, profesores de educación física, médicos del deporte, psicólogos del deporte y escuelas del deporte;
 
-XV. Brindar apoyo logístico a los eventos deportivos que se desarrollan en el municipio; y
+> <small>(REFORMADA, G.G. 10 DE AGOSTO DE 2011)</small>
 
-XVI. Las demás que las leyes de la materia le señalen.
+XV. Brindar apoyo logístico a los eventos deportivos que se desarrollan en el municipio;
+
+> <small>(ADICIONADA, G.G. 10 DE AGOSTO DE 2011)</small>
+
+XVI. Recibir donativos, celebrar convenios, gestionar apoyos y/o patrocinios de los sectores público y privado, estatal y federal;
+
+> <small>(ADICIONADA, G.G. 10 DE AGOSTO DE 2011)</small>
+
+XVII. Administrar y conservar, con el apoyo del Ayuntamiento, la Unidad Deportiva Municipal y los demás espacios deportivos y recreativos del Municipio; y
+
+XVIII. Las demás que las leyes de la materia le señalen.
 
 ### CAPITULO TERCERO. DE SUS PROGRAMAS BASICOS
 
@@ -187,65 +197,123 @@ Del deporte recreativo.
 
 También para su propia organización, su financiamiento, su desarrollo y todo aquello que conlleva un beneficio individual sin perder de vista el bien social.
 
+> <small>(ADICIONADO, G.G. 10 DE AGOSTO DE 2011)</small>
+
+###### Artículo 16 Bis.
+
+Del deporte de ingenio.
+
+Con este programa se buscará desarrollar las capacidades cognitivas de los tenanguenses a partir de deportes de estrategia que ejerciten la mente y el pensamiento para un sano desarrollo de las aptitudes humanas.
+
 ### CAPITULO CUARTO. DE SU ORGANIZACION INTERNA
+
+> <small>(REFORMADO, G.G. 10 DE AGOSTO DE 2011)</small>
 
 ###### Artículo 17.
 
-La dirección y administración del Instituto Municipal de Cultura Física y Deporte de Tenango del Aire, estará a cargo de una junta directiva y de un director.
+La dirección y administración del Instituto Municipal de Cultura Física y Deporte de Tenango del Aire, estará a cargo de un Consejo Municipal de Cultura Física y Deporte y de un director.
+
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 10 DE AGOSTO DE 2011)</small>
 
 ###### Artículo 18.
 
-La junta directiva, es el órgano de gobierno del Instituto Municipal de Cultura Física y Deporte de Tenango del Aire, el cual estará integrado por:
+El consejo municipal, es el órgano de gobierno del Instituto Municipal de Cultura Física y Deporte de Tenango del Aire, el cual estará integrado por:
 
 I. Un presidente, quien será el presidente municipal;
 
-II. Un secretario quien será el secretario del ayuntamiento;
+II. (DEROGADA, G.G. 10 DE AGOSTO DE 2011)
 
-III. Un secretario técnico, quien será el director del deporte; y
+> <small>(REFORMADA, G.G. 10 DE AGOSTO DE 2011)</small>
 
-IV. Cinco vocales quienes serán:
+III. Un secretario, quien será el director del Instituto; y
+
+> <small>(REFORMADA PRIMER PARRAFO, G.G. 10 DE AGOSTO DE 2011)</small>
+
+IV. Los vocales quienes serán:
 
 A) El regidor de la comisión del deporte.
 
-B) Un representante del sector deportivo del municipio de Tenango del Aire.
+> <small>(REFORMADO, G.G. 10 DE AGOSTO DE 2011)</small>
 
-C) Tres vocales que designe el H. Ayuntamiento a propuesta del presidente y/o el director.
+B) Un representante del Instituto Mexiquense de Cultura Física y Deporte;
+
+> <small>(REFORMADO, G.G. 10 DE AGOSTO DE 2011)</small>
+
+C) Un Representante del Instituto de Salud del Estado de México;
+
+> <small>(ADICIONADO, G.G. 10 DE AGOSTO DE 2011)</small>
+
+D) Un representante del Sistema Municipal para el Desarrollo Integral de la familia de Tenango del Aire; y
+
+> <small>(ADICIONADO, G.G. 10 DE AGOSTO DE 2011)</small>
+
+E) Un representante de cada deporte registrado en el municipio propuestos por los interesados y designados por el presidente municipal.
+
+> <small>(ADICIONADO, G.G. 10 DE AGOSTO DE 2011)</small>
+
+Por cada miembro propietario de la Junta se nombrará un suplente, con excepción del secretario del consejo. Sera suplente del Presidente el secretario del Ayuntamiento.
+
+> <small>(ADICIONADO, G.G. 10 DE AGOSTO DE 2011)</small>
+
+Los cargos de los miembros del consejo municipal serán honoríficos, con excepción del Director del Instituto que percibirá los emolumentos que disponga el presupuesto de egresos.
+
+> <small>(REFORMADO, G.G. 10 DE AGOSTO DE 2011)</small>
 
 ###### Artículo 19.
 
-Los miembros de la junta directiva, durarán en su cargo, el periodo constitucional de la administración municipal para la cual fueren designados.
+Los miembros del consejo municipal, durarán en su cargo, el periodo constitucional de la administración municipal para la cual fueren designados.
+
+> <small>(REFORMADO, G.G. 10 DE AGOSTO DE 2011)</small>
 
 ###### Artículo 20.
 
-La junta directiva, sesionará por lo menos cada tres meses de forma ordinaria y de manera extraordinaria cuantas veces sea necesaria.
+El consejo municipal sesionará por lo menos cada tres meses de forma ordinaria y de manera extraordinaria cuantas veces sea necesario.
+
+Corresponde al secretario del consejo llevar actualizado el libro de actas que él redactará, elaborar el orden del día de las sesiones y formular la convocatoria a éstas, las cuales serán emitidas al menos con setenta y dos horas de anticipación.
+
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 10 DE AGOSTO DE 2011)</small>
 
 ###### Artículo 21.
 
-Son atribuciones de la junta directiva:
+Son atribuciones del consejo municipal:
 
-I. Aprobar el reglamento interno del Instituto Municipal de Cultura Física y Deporte de Tenango del Aire;
+> <small>(REFORMADA, G.G. 10 DE AGOSTO DE 2011)</small>
+
+I. Aprobar el proyecto de reglamento interno del Instituto el cual será turnado al ayuntamiento para su discusión y aprobación;
 
 II. Establecer los lineamientos generales del Instituto Municipal de Cultura Física y Deporte de Tenango del Aire;
 
 III. Aprobar, en su caso, los proyectos, planes y programas que proponga el director para la consecución de sus objetivos;
 
-IV. Conocer y en su caso aprobar los estados financieros y balances anuales, así como los informes generales y especiales que se elaboren por parte del director;
+> <small>(REFORMADA, G.G. 10 DE AGOSTO DE 2011)</small>
+
+IV. Conocer y en su caso aprobar los estados financieros y balances anuales, así como los informes general y especiales que se presenten por parte del director;
 
 V. Aprobar el presupuesto anual de ingresos y de egresos;
 
-VI. Nombrar o ratificar al director;
+VI. (DEROGADA, G.G. 10 DE AGOSTO DE 2011)
 
 VII. Evaluar los planes y programas;
 
 VIII. Promover la obtención de fuentes alternas de financiamiento;
 
-IX. Invitar a sus sesiones a otros servidores públicos de los gobiernos federal, estatal y municipal, cuando los eventos o asuntos así lo requieran; y
+> <small>(REFORMADA, G.G. 10 DE AGOSTO DE 2011)</small>
 
-X. Las demás que se deriven de la presente ley y de los ordenamientos jurídicos correlativos.
+IX. Invitar a sus sesiones a otros servidores públicos de los gobiernos federal, estatal y municipal, cuando los eventos o asuntos lo requieran;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 10 DE AGOSTO DE 2011)</small>
+
+X. Aprobar el proyecto de reglamento para el uso de instalaciones deportivas del Municipio y someterlo a la consideración del Ayuntamiento; y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], G.G. 10 DE AGOSTO DE 2011)</small>
+
+XI. Los (sic) demás que se derive (sic) de la presente ley y de los ordenamientos jurídicos correlativos.
+
+> <small>(REFORMADO, G.G. 10 DE AGOSTO DE 2011)</small>
 
 ###### Artículo 22.
 
-El director será nombrado por la junta directiva a propuesta del presidente municipal.
+El director será nombrado a propuesta del presidente municipal y ratificado en sesión de cabildo por el H. Ayuntamiento.
 
 ###### Artículo 23.
 
@@ -253,21 +321,33 @@ Son facultades y obligaciones del director, las siguientes:
 
 I. Representar al Instituto Municipal de Cultura Física y Deporte de Tenango del Aire;
 
-II. Dar cumplimiento a los acuerdos de la junta directiva;
+> <small>(REFORMADA, G.G. 10 DE AGOSTO DE 2011)</small>
+
+II. Dar cumplimiento a los acuerdos del consejo municipal;
 
 III. Vigilar el cumplimiento de los objetivos y programas del instituto;
 
-IV. Celebrar acuerdos convenios y contratos de coordinación para el cumplimiento de los planes y proyectos del instituto;
+> <small>(REFORMADA, G.G. 10 DE AGOSTO DE 2011)</small>
 
-V. Presentar ante la junta directiva el proyecto del programa operativo del instituto;
+IV. Celebrar, con la aprobación del consejo municipal, acuerdos, convenios y contratos de coordinación para el cumplimiento de los planes y proyectos del Instituto;
 
-VI. Presentar ante la junta directiva el proyecto anual del presupuesto de ingresos y de egresos;
+> <small>(REFORMADA, G.G. 10 DE AGOSTO DE 2011)</small>
 
-VII. Adquirir conforme a las normas los bienes necesarios y previa autorización del consejo para el mejor cumplimiento de sus objetivos;
+V. Presentar ante el consejo municipal el proyecto del programa operativo del instituto;
+
+> <small>(REFORMADA, G.G. 10 DE AGOSTO DE 2011)</small>
+
+VI. Presentar ante el consejo municipal el proyecto anual del presupuesto de ingresos y de egresos;
+
+> <small>(REFORMADA, G.G. 10 DE AGOSTO DE 2011)</small>
+
+VII. Adquirir conforme a las normas los bienes necesarios y previa autorización del consejo municipal, para el mejor cumplimiento de sus objetivos;
 
 VIII. Prever lo necesario para el debido cumplimiento de los programas y el logro de los objetivos; y
 
-IX. Las que le confieren la presente ley el reglamento interno y la junta directiva.
+> <small>(REFORMADA, G.G. 10 DE AGOSTO DE 2011)</small>
+
+IX. Las que lo (sic) confieren la presente Ley, el reglamento interno y el consejo municipal.
 
 ### CAPITULO QUINTO. DE SU PATRIMONIO
 
@@ -285,11 +365,37 @@ IV. Los productos, concesiones, aprovechamientos, donativos, cooperaciones y dem
 
 V. Los ingresos y utilidades que obtenga por prestación de sus servicios.
 
-### CAPITULO SEXTO. GENERALIDADES
+> <small>(ADICIONADO, G.G. 10 DE AGOSTO DE 2011)</small>
+
+Los bienes que constituyan el patrimonio del Instituto, sólo podrán gravarse con la anuencia expresa del Ayuntamiento respectivo, cuando a juicio de éste así convenga al financiamiento de obras y servicios a su cargo, y previa autorización en su caso de la Legislatura Local.
+
+> <small>(REFORMADA SU DENOMINACION, G.G. 10 DE AGOSTO DE 2011)</small>
+
+### CAPÍTULO SEXTO. DEL CONTROL Y VIGILANCIA
+
+> <small>(ADICIONADO, G.G. 10 DE AGOSTO DE 2011)</small>
+
+###### Artículo 24 Bis.
+
+El Instituto Municipal de Cultura Física y Deporte de Tenango del Aire estará sujeto al control del Ayuntamiento y llevarán su contabilidad ajustándose a las normas que emita el Órgano Superior de Fiscalización del Estado de México.
+
+La administración y contabilidad del Instituto se llevará a cabo a través de un tesorero que al efecto designe el Consejo Municipal con las obligaciones que éste último le imponga.
+
+> <small>(ADICIONADO, G.G. 10 DE AGOSTO DE 2011)</small>
+
+### CAPÍTULO SÉPTIMO. GENERALIDADES
+
+> <small>(REFORMADO, G.G. 10 DE AGOSTO DE 2011)</small>
 
 ###### Artículo 25.
 
-El Instituto Municipal de Cultura Física y Deporte de Tenango del Aire, estará sujeto a, la Ley Orgánica Municipal del Estado de México, y la Ley de Cultura Física y Deporte del Estado de México.
+El Instituto Municipal de Cultura Física y Deporte de Tenango del Aire está sujeto a la Ley Orgánica de la Administración Pública del Estado de México, la Ley Orgánica Municipal del Estado de México, el Código Administrativo del Estado de México, la Ley de Cultura Física y Deporte del Estado de México y la legislación federal en la materia.
+
+> <small>(ADICIONADO, G.G. 10 DE AGOSTO DE 2011)</small>
+
+###### Artículo 26.
+
+Las relaciones laborales entre el Instituto y sus trabajadores, se regirán por la Ley del Trabajo de los Servidores Públicos del Estado y Municipios.
 
 T R A N S I T O R I O S
 
@@ -324,3 +430,15 @@ EL SECRETARIO GENERAL DE GOBIERNO
 VICTOR HUMBERTO BENITEZ TREVIÑO
 
 (RUBRICA).
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+G.G. 10 DE AGOSTO DE 2011.
+
+###### ARTÍCULO PRIMERO.
+
+Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+###### ARTÍCULO SEGUNDO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
