@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-de-tecnologias-de-informacion-del-poder-52098"
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-10-11"
-last_updated: "2006-10-11"
+last_updated: "2011-08-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52098&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "MEX"
 
 REGLAMENTO DE TECNOLOGIAS DE INFORMACION DEL PODER EJECUTIVO DEL ESTADO DE MEXICO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO TERCERO TRANSITORIO DEL REGLAMENTO SOBRE EL USO DE TECNOLOGIAS DE INFORMACION DE LA ADMINISTRACION PUBLICA DEL ESTADO DE MEXICO, PUBLICADO EN LA SECCION CUARTA DE LA G.G. DE 10 DE AGOSTO DE 2011, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: ABROGADO.
 
 Reglamento publicado en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el miércoles 11 de octubre de 2006.
 
@@ -568,3 +570,19 @@ SECRETARIO GENERAL DE GOBIERNO
 DR. VÍCTOR HUMBERTO BENÍTEZ TREVIÑO
 
 (RUBRICA).
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+G.G. 10 DE AGOSTO DE 2011.
+
+PRIMERO.- Publíquese el presente Reglamento en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- Este Reglamento entrará en vigor al siguiente día hábil de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- Se abroga el Reglamento de Tecnologías de Información del Poder Ejecutivo del Estado de México, publicado en el Periódico Oficial "Gaceta del Gobierno" el 11 de octubre de 2006.
+
+CUARTO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan al presente Reglamento.
+
+QUINTO.- Las situaciones no previstas durante la transición al presente Reglamento serán resueltas por la Dirección General.
+
+SEXTO.- A partir de la publicación del presente Reglamento se contará con dos meses para la conformación del Comité y tres meses para la Constitución de los Subcomités Sectoriales.
