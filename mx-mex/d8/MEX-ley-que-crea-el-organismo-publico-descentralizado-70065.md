@@ -4,7 +4,7 @@ identifier: "MEX-ley-que-crea-el-organismo-publico-descentralizado-70065"
 country: "mx"
 rank: "ley"
 publication_date: "2009-08-11"
-last_updated: "2009-08-11"
+last_updated: "2011-08-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70065&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY QUE CREA EL ORGANISMO PUBLICO DESCENTRALIZADO DENOMINADO INSTITUTO MUNICIPAL DE CULTURA FISICA Y DEPORTE DE VILLA DE ALLENDE, MEXICO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE AGOSTO DE 2011.
 
 Ley publicada en la Sección Cuarta de la Gaceta del Gobierno del Estado de México, el martes 11 de agosto de 2009.
 
@@ -191,13 +191,17 @@ También para su propia organización, su financiamiento, su desarrollo y todo a
 
 ### CAPÍTULO CUARTO. DE SU ORGANIZACIÓN INTERNA
 
+> <small>(REFORMADO, G.G. 10 DE AGOSTO DE 2011)</small>
+
 ###### Artículo 17.
 
-La dirección y administración del Instituto Municipal de Cultura Física y Deporte de Villa de Allende estará a cargo de una junta directiva y de un director.
+La dirección y administración del Instituto Municipal de Cultura Física y Deporte de Villa de Allende estará a cargo de un Consejo Municipal y de un director.
+
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 10 DE AGOSTO DE 2011)</small>
 
 ###### Artículo 18.
 
-La junta directiva, es el órgano de gobierno del Instituto Municipal de Cultura Física y Deporte de Villa de Allende, el cual estará integrado por:
+El Consejo Municipal, es el órgano de gobierno del Instituto Municipal de Cultura Física y Deporte de Villa de Allende, el cual estará integrado por:
 
 I. Un presidente, quien será el presidente municipal;
 
@@ -209,19 +213,27 @@ IV. Cinco vocales quienes serán:
 
 A) El regidor de la comisión del deporte.
 
-B) Tres vocales que designe el H. Ayuntamiento a propuesta del presidente y/o el director.
+> <small>(REFORMADO, G.G. 10 DE AGOSTO DE 2011)</small>
+
+B) Cuatro vocales que designe el H. Ayuntamiento a propuesta del presidente y/o el director.
+
+> <small>(REFORMADO, G.G. 10 DE AGOSTO DE 2011)</small>
 
 ###### Artículo 19.
 
-Los miembros de la junta directiva, durarán en su cargo, el período constitucional de la administración municipal para la cual fueren designados.
+Los miembros del Consejo Municipal, durarán en su cargo, el período constitucional de la administración municipal para la cual fueren designados.
+
+> <small>(REFORMADO, G.G. 10 DE AGOSTO DE 2011)</small>
 
 ###### Artículo 20.
 
-La junta directiva, sesionará por lo menos cada tres meses de forma ordinaria y de manera extraordinaria cuantas veces sea necesario.
+El Consejo Municipal, sesionará por lo menos cada tres meses de forma ordinaria y de manera extraordinaria cuantas veces sea necesario.
+
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 10 DE AGOSTO DE 2011)</small>
 
 ###### Artículo 21.
 
-Son atribuciones de la junta directiva:
+Son atribuciones del Consejo Municipal:
 
 I. Aprobar el reglamento interno del Instituto Municipal de Cultura Física y Deporte de Villa de Allende;
 
@@ -243,31 +255,223 @@ IX. Invitar a sus sesiones a otros servidores públicos de los gobiernos federal
 
 X. Las demás que deriven de otros ordenamientos legales.
 
+> <small>(REFORMADO, G.G. 10 DE AGOSTO DE 2011)</small>
+
 ###### Artículo 22.
 
-El director será nombrado por la junta directiva a propuesta del presidente municipal.
+El director será nombrado por el Consejo Municipal a propuesta del presidente municipal.
 
 ###### Artículo 23.
 
 Son facultades y obligaciones del director, las siguientes:
 
-I. La asignación del 2% del total del presupuesto de egresos del H. Ayuntamiento;
+> <small>(REFORMADA, G.G. 10 DE AGOSTO DE 2011)</small>
 
-II. Los bienes muebles e inmuebles que el H. Ayuntamiento le asigne como organismo público descentralizado;
+I. Administrar y representar legalmente al Instituto con facultades de un apoderado general para pleitos y cobranzas, actos de administración y actos de dominio; con todas las facultades que requieran cláusula especial conforme a la Ley; asimismo delegar esta representación en uno o más apoderados para que la ejerzan individual o conjuntamente.
 
-III. Los apoyos financieros, subsidios, valores, bienes y servicios que provengan del gobierno federal, estatal y municipal;
+Para actos de dominio, requerirá de la autorización expresa del Consejo Municipal;
 
-IV. Los productos, concesiones, aprovechamientos, donativos, cooperaciones y demás ingresos que adquiera por cualquier título, ya sea público, privado o social;
+> <small>(REFORMADA, G.G. 10 DE AGOSTO DE 2011)</small>
 
-V. Los ingresos y utilidades que obtenga por prestación de sus servicios.
+II. Dar cumplimiento a los acuerdos del Consejo Municipal;
+
+> <small>(REFORMADA, G.G. 10 DE AGOSTO DE 2011)</small>
+
+III. Vigilar el cumplimiento de los objetivos y programas;
+
+> <small>(REFORMADA, G.G. 10 DE AGOSTO DE 2011)</small>
+
+IV. Celebrar convenios, contratos o acuerdos de coordinación con las dependencias correspondientes para el cumplimiento de planes y programas del Instituto;
+
+> <small>(REFORMADA, G.G. 10 DE AGOSTO DE 2011)</small>
+
+V. Tomar las Medidas preventivas para el cumplimiento de logros y objetivos establecidos en los planes y programas del Instituto;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 10 DE AGOSTO DE 2011)</small>
+
+VI. Presentar un informe de actividades de manera trimestral ante el Consejo Municipal;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 10 DE AGOSTO DE 2011)</small>
+
+VII. Presentar al Consejo Municipal las propuestas de políticas generales del Instituto;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 10 DE AGOSTO DE 2011)</small>
+
+VIII. Presentar anualmente al Consejo Municipal los proyectos de presupuesto de ingresos y egresos;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 10 DE AGOSTO DE 2011)</small>
+
+IX. Presentar al Consejo Municipal, los estados financieros, balances o informes generales y especiales; relativos a la cuenta anual sobre ingresos y egresos, que permitan conocer la situación financiera, operativa y administrativa del Instituto;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 10 DE AGOSTO DE 2011)</small>
+
+X. Celebrar contratos de adquisición de bienes muebles, inmuebles y servicios; previo acuerdo del Consejo Municipal;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 10 DE AGOSTO DE 2011)</small>
+
+XI. Ejercer correctamente el presupuesto de ingresos y egresos aprobado por el Consejo Municipal;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 10 DE AGOSTO DE 2011)</small>
+
+XII. llevar un control del inventario patrimonial del Instituto;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 10 DE AGOSTO DE 2011)</small>
+
+XIII. Presentar al Consejo Municipal, el programa anual de trabajo del Instituto a más tardar en el mes de noviembre de cada año;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 10 DE AGOSTO DE 2011)</small>
+
+XIV. Ejecutar los Acuerdos del Consejo Municipal;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 10 DE AGOSTO DE 2011)</small>
+
+XV. Celebrar los actos jurídicos necesarios para el cumplimiento del objeto del Instituto;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 10 DE AGOSTO DE 2011)</small>
+
+XVI. Informar al Consejo Municipal de los apoyos financieros, subsidios, valores, bienes y servicios que provengan del gobierno federal, estatal y municipal;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 10 DE AGOSTO DE 2011)</small>
+
+XVII. Informar al Consejo Municipal respecto de los productos, concesiones, aprovechamientos, donativos, cooperaciones y demás ingresos que adquiera por cualquier título; ya sea público, privado o social; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 10 DE AGOSTO DE 2011)</small>
+
+XVIII. Las demás que le señale la presente Ley, el Reglamento y el Consejo Municipal.
+
+> <small>(REFORMADO, G.G. 10 DE AGOSTO DE 2011)</small>
 
 ###### Artículo 24.
 
-El Instituto Municipal de Cultura Física y Deporte de Villa de Allende, estará sujeto a la Ley Orgánica Municipal del Estado de México y la Ley de Cultura Física y Deporte del Estado de México.
+La Administración Operativa del Instituto estará integrada por:
+
+A). Un Subdirector de Cultura Física y Promoción Deportiva;
+
+B). Un Subdirector Operativo;
+
+C). Un subdirector de Administración y Finanzas;
+
+D). Un Departamento Jurídico; y
+
+E). Una Contraloría Interna.
+
+> <small>(ADICIONADO, G.G. 10 DE AGOSTO DE 2011)</small>
+
+###### Artículo 25.
+
+Son facultades y obligaciones del subdirector de Cultura Física y Promoción Deportiva:
+
+l. Promocionar y masificar la actividad física, en el territorio municipal;
+
+II. Promocionar los centros deportivos municipales;
+
+III. Crear las escuelas de iniciación y formación deportiva para incentivar una verdadera cultura del deporte;
+
+IV. Promocionar la capacitación y certificación deportiva;
+
+V. Promover y realizar eventos de activación física y recreativa;
+
+VI. Integrar el máximo circuito de competencias y torneos en las diferentes disciplinas deportivas;
+
+VII. Integrar las selecciones representativas del municipio; y
+
+VIII. Promover y fomentar el deporte competitivo y de alto rendimiento.
+
+> <small>(ADICIONADO, G.G. 10 DE AGOSTO DE 2011)</small>
+
+###### Artículo 26.
+
+Son facultades y obligaciones del Subdirector Operativo:
+
+l. Planear, promover y difundir los programas, acciones y obras a realizar;
+
+II. Elaborar y preservar las memorias técnicas del Instituto;
+
+III. Fijar los lineamientos para que los deportistas puedan ser acreedores a becas; y
+
+IV. Vigilar, controlar y reportar las actividades deportivas y recreativas que se realicen en las instalaciones de los deportivos municipales.
+
+> <small>(ADICIONADO, G.G. 10 DE AGOSTO DE 2011)</small>
+
+###### Artículo 27.
+
+Son facultades y obligaciones del Subdirector de Administración y Finanzas:
+
+I. Llevar el control exacto y preciso de los ingresos y egresos;
+
+II. Remitir las comprobaciones que justifiquen sus egresos y sus ingresos;
+
+III. Controlar y administrar los recursos del patrimonio que le fuera asignado al Instituto; y
+
+IV. Administrar y vigilar los recursos financieros, humanos, materiales, muebles e inmuebles del Instituto.
+
+> <small>(ADICIONADO, G.G. 10 DE AGOSTO DE 2011)</small>
+
+###### Artículo 28.
+
+Son facultades y obligaciones del Departamento Jurídico:
+
+I. Representar al Instituto ante Autoridades Administrativas. Judiciales y de control, así como resolver cualquier asunto de índole legal que pudiera presentarse;
+
+II. Elaborar proyectos de acuerdos, convenios, contratos o cualquier otro instrumento legal que sea de utilidad al Instituto, garantizando su estricto apego a derecho;
+
+III. Supervisar las condiciones legales de todas las instalaciones deportivas y recreativas del Municipio y en su caso propiciar acción legal para su recuperación; y
+
+IV. Elaborar proyectos de reglamentos para los espacios deportivos y recreativos.
+
+> <small>(ADICIONADO, G.G. 10 DE AGOSTO DE 2011)</small>
+
+###### Artículo 29.
+
+La Contraloría Interna será propuesta por el Presidente Municipal y avalada por el Consejo Municipal, durará en el encargo el periodo constitucional de la Administración Municipal, para la cual fue designado; teniendo como atribuciones:
+
+l. Vigilar los movimientos financieros del Instituto; y
+
+II. Elaborará un informe anual que será sometido a consideración del Consejo Municipal a más tardar el I de julio de cada año.
+
+> <small>(REFORMADA SU DENOMINACION, G.G. 10 DE AGOSTO DE 2011)</small>
+
+### CAPÍTULO QUINTO. DE SU PATRIMONIO
+
+> <small>(ADICIONADO, G.G. 10 DE AGOSTO DE 2011)</small>
+
+###### Artículo 30.
+
+El patrimonio del Instituto Municipal de Cultura Física y Deporte de Villa de Allende. Estado de México, se integrará con:
+
+l. La designación hasta el 2% del total del presupuesto de egresos del Municipio;
+
+II. Los bienes muebles e inmuebles que el Ayuntamiento le asigne como organismo público descentralizado;
+
+III. Los apoyos financieros, subsidios, valores, bienes y servicios que provengan del gobierno federal, estatal y municipal;
+
+IV. Las aportaciones, participaciones, donativos, cooperaciones y demás ingresos que adquiera por cualquier titulo, ya sea público, privado o social; así como los apoyos que obtenga de los gobiernos federal, estatal, municipal y del sector privado;
+
+V. Los ingresos que, en el ejercicio de sus atribuciones, obtenga por la prestación de los servicios que establece la presente Ley y su Reglamento;
+
+VI. Los legados, donaciones, derechos y demás bienes muebles o inmuebles que adquiera por cualquier título legal o jurídico, para el cumplimiento de su objeto; y
+
+VII. Las utilidades, intereses, dividendos, rendimiento de sus bienes y demás ingresos que obtenga por cualquier título legal.
+
+Los bienes inmuebles que formen parte del patrimonio del Instituto serán inalienables e imprescriptibles, y en ningún caso podrá constituirse gravamen sobre ellos.
+
+> <small>(ADICIONADO, G.G. 10 DE AGOSTO DE 2011)</small>
+
+### CAPÍTULO SEXTO. GENERALIDADES
+
+> <small>(ADICIONADO, G.G. 10 DE AGOSTO DE 2011)</small>
+
+###### Artículo 31.
+
+El Instituto Municipal de Cultura Física y Deporte de Villa de Allende, estará sujeto a la Ley Orgánica Municipal del Estado de México, la Ley General de Cultura Física y Deporte del Estado de México y la legislación federal en la materia.
+
+> <small>(ADICIONADO, G.G. 10 DE AGOSTO DE 2011)</small>
+
+###### Artículo 32.
+
+Las relaciones laborales entre el Instituto y sus trabajadores se regirán por la Ley del Trabajo de los Servidores Públicos del Estado y Municipios.
 
 T R A N S I T O R I O S
-
-### CAPÍTULO QUINTO. GENERALIDADES
 
 ###### ARTÍCULO PRIMERO.
 
@@ -300,3 +504,15 @@ EL SECRETARIO GENERAL DE GOBIERNO
 LlC. LUIS ENRIQUE MIRANDA NAVA
 
 (RUBRICA).
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+G.G. 10 DE AGOSTO DE 2011.
+
+###### ARTÍCULO PRIMERO.
+
+Publíquese el presente Decreto en el Periódico Oficial "Gaceta de Gobierno".
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta de Gobierno".
