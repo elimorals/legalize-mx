@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-interior-de-la-universidad-tecnologica-del-sur-40679
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-08-19"
-last_updated: "2011-04-15"
+last_updated: "2011-08-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40679&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 REGLAMENTO INTERIOR DE LA UNIVERSIDAD TECNOLOGICA DEL SUR DEL ESTADO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DE GOBIERNO: 15 DE ABRIL DE 2011.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DE GOBIERNO: 11 DE AGOSTO DE 2011.
 
 Reglamento publicado en la Sección Segunda de la Gaceta del Gobierno del Estado de México, el jueves 19 de agosto de 2004.
 
@@ -125,15 +125,21 @@ X. Las demás que le señalen otras disposiciones legales.
 
 Para el estudio, planeación, despacho, control y evaluación de los asuntos de su competencia, el Rector se auxiliará de las unidades administrativas básicas siguientes:
 
-I. Dirección de la Carrera de Mecatrónica;
+> <small>(REFORMADA, G.G. 11 DE AGOSTO DE 2011)</small>
 
-II. Dirección de la Carrera de Administración y Evaluación de Proyectos;
+I. Dirección de la Carrera de Mecatrónica Área Sistemas de Manufactura Flexible;
+
+> <small>(REFORMADA, G.G. 11 DE AGOSTO DE 2011)</small>
+
+II. Dirección de la Carrera de Administración Área Administración y Evaluación de Proyectos;
 
 > <small>(REFORMADA, G.G. 15 DE ABRIL DE 2011)</small>
 
 III. Dirección de la Carrera de Contaduría;
 
-IV. Dirección de la Carrera de Tecnología de Alimentos;
+> <small>(REFORMADA, G.G. 11 DE AGOSTO DE 2011)</small>
+
+IV. Dirección de la Carrera de Procesos Alimentarios;
 
 > <small>(REFORMADA, G.G. 15 DE ABRIL DE 2011)</small>
 
@@ -408,5 +414,13 @@ G.G. 15 DE ABRIL DE 2011.
 PRIMERO.- Publíquese el presente Acuerdo en el Periódico Oficial "Gaceta del Gobierno".
 
 SEGUNDO.- Este Acuerdo, entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan al presente Acuerdo.
+
+G.G. 11 DE AGOSTO DE 2011.
+
+PRIMERO.- Publíquese el presente Acuerdo en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- Este Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
 
 TERCERO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan al presente Acuerdo.
