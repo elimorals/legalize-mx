@@ -4,7 +4,7 @@ identifier: "AGU-reglamento-del-consejo-municipal-de-la-juventud-de-57931"
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-12-31"
-last_updated: "2009-03-09"
+last_updated: "2011-08-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57931&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,119 +23,121 @@ state: "AGU"
 
 REGLAMENTO DEL CONSEJO MUNICIPAL DE LA JUVENTUD DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE MARZO DE 2009.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE AGOSTO DE 2011.
 
 Reglamento publicado en la Segunda Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 31 de diciembre de 2007.
 
 C.P. MARTÍN OROZCO SANDOVAL, Presidente Municipal de Aguascalientes, en ejercicio de las facultades contenidas en los artículos 16, 38, fracciones I y II de la Ley Municipal para el Estado de Aguascalientes; y las demás propias de su cargo, a los habitantes del Municipio de Aguascalientes hace saber que en el Honorable Ayuntamiento ha tenido a bien aprobar y consecuentemente expedir el siguiente:
 
+> <small>N. DE E. EL PUNTO RESOLUTIVO ÚNICO POR EL QUE SE APRUEBAN LAS REFORMAS Y ADICIONES AL REGLAMENTO DEL CONSEJO MUNICIPAL DE LA JUVENTUD DE AGUASCALIENTES, PUBLICADO EN EL P.O. DE 11 DE AGOSTO DE 2011, MODIFICÓ DE FORMA SUSTANCIAL LA ESTRUCTURA Y CONTENIDO DEL PRESENTE ORDENAMIENTO.</small>
+
 REGLAMENTO DEL CONSEJO MUNICIPAL DE LA JUVENTUD DE AGUASCALIENTES
+
+> <small>(REFORMADO, P.O. 11 DE AGOSTO DE 2011)</small>
 
 ### CAPÍTULO I. Disposiciones Generales
 
-###### Artículo 1°.
+> <small>(REFORMADO, P.O. 11 DE AGOSTO DE 2011)</small>
 
-El presente Reglamento tiene como objeto regular la integración, organización y funcionamiento del Consejo Municipal de la Juventud de Aguascalientes.
+###### Artículo 1º.
 
-###### Artículo 2°.
+El presente Reglamento tiene como objeto regular la integración, organización y funcionamiento del Consejo Municipal de la Juventud de Aguascalientes, conforme a lo establecido en el Artículo 15, fracción XXVI del Código Municipal.
 
-El Área de Atención a la Juventud del Gobierno Municipal de Aguascalientes, es la instancia que coordina los trabajos encomendados por el Consejo Municipal de la Juventud de Aguascalientes para lograr los fines establecidos dentro del presente reglamento.
+> <small>(REFORMADO, P.O. 11 DE AGOSTO DE 2011)</small>
 
-###### Artículo 3°.
+###### Artículo 2º.
 
-El Consejo Municipal de la Juventud de Aguascalientes, es un órgano de creación y participación en programas juveniles y en temas de interés que beneficien a los jóvenes del municipio de Aguascalientes, y que coadyuva en la gestión y promoción de los mismos.
+El Departamento de Atención a la Juventud del Gobierno Municipal de Aguascalientes, es la instancia que coordina los trabajos encomendados por el Consejo Municipal de la Juventud de Aguascalientes para lograr los fines establecidos dentro del presente Reglamento.
 
-###### Artículo 4°.
+> <small>(REFORMADO, P.O. 11 DE AGOSTO DE 2011)</small>
 
-La población cuya edad quede comprendida entre los 12 y los 33 años de edad, por su importancia estratégica para el sano desarrollo del Municipio de Aguascalientes, será objeto de las acciones que este Consejo lleve a cabo.
+###### Artículo 3º.
+
+El Consejo Municipal de la Juventud de Aguascalientes, es un órgano promotor de la participación juvenil en el municipio, que coadyuva en la creación, gestión y difusión de los programas, proyectos y asuntos prioritarios que sean de interés de este sector de la población.
+
+> <small>(REFORMADO, P.O. 11 DE AGOSTO DE 2011)</small>
+
+###### Artículo 4º.
+
+La población cuya edad quede comprendida entre los 12 y los 29 años de edad, por su importancia estratégica para el sano desarrollo del Municipio de Aguascalientes, será objeto de las acciones que este Consejo lleve a cabo.
+
+> <small>(REFORMADO, P.O. 11 DE AGOSTO DE 2011)</small>
 
 ### CAPÍTULO II. De los Fines
 
-###### Artículo 5°.
+> <small>(REFORMADO, P.O. 11 DE AGOSTO DE 2011)</small>
+
+###### Artículo 5º.
 
 De conformidad con el objeto del Consejo, sus fines serán, entre otros, las (sic) siguientes:
 
-I. Servir como órgano de consulta y evaluación del Gobierno Municipal de Aguascalientes en materia de políticas públicas sobre juventud;
+I. Servir como órgano de consulta y supervisión del Gobierno Municipal de Aguascalientes en materia de políticas públicas sobre juventud;
 
 II. Recabar las sugerencias y propuestas de los jóvenes de Aguascalientes para la elaboración de proyectos y programas que favorezcan el desarrollo de la juventud del Municipio de Aguascalientes;
 
-III. Proponer al área responsable en el Municipio alternativas de soluciones a las necesidades e inquietudes de los jóvenes aguascalentenses en sus problemas básicos;
+III. Proponer al Departamento de Atención a la Juventud del Municipio de Aguascalientes, alternativas de soluciones a las necesidades e inquietudes de los jóvenes aguascalentenses en sus problemas básicos;
 
-IV. Dar seguimiento, como observador de las acciones y programas que se ejecuten a través del área de Atención a la Juventud;
+IV. Dar seguimiento a las acciones y programas que se ejecuten a través del Departamento de Atención a la Juventud o los que le sean encomendados, supervisando su cumplimiento y resultados;
 
 V. Formular propuestas de acciones, programas y proyectos que impacten en el sector juvenil del Municipio de Aguascalientes a realizarse por las instancias respectivas;
 
-VI. Concertar acuerdos y convenios con autoridades de las entidades federativas para promover con participación, en su caso, con los sectores sociales y privados, las políticas, acciones y programas tendientes al desarrollo social de la juventud;
+VI. Buscar acuerdos y convenios con otras autoridades municipales, organismos nacionales e internacionales, órganos similares a este Consejo y con la iniciativa privada, para promover la participación e interacción de los diversos sectores, a fin de fortalecer las políticas, acciones y programas tendientes al desarrollo integral de la juventud;
 
-VII. Promover la coordinación interinstitucional con organismos gubernamentales y de cooperación internacional, como mecanismo eficaz para fortalecer las acciones a favor de la juventud del Municipio de Aguascalientes;
+VII. Auxiliar a las dependencias y entidades de la Administración Pública Municipal, en la difusión y promoción de los servicios que presenten a la juventud cuando así lo requieran;
 
-VIII. Auxiliar a las dependencias y entidades de la Administración Pública Municipal, en la difusión y promoción de los servicios que presenten a la juventud cuando así lo requieran;
+VIII. Coadyuvar en la promoción de una cultura de participación entre los jóvenes, en los quehaceres de la sociedad y en la vida cultural y política de nuestro municipio;
 
-IX. Coadyuvar en la promoción de una cultura de participación entre los jóvenes, en los quehaceres de la sociedad y en la vida cultural y política de nuestro municipio;
+IX. Analizar, apoyar y dar seguimiento a los diferentes proyectos planteados por los miembros del Consejo y los jóvenes que quieran participar; dejando antecedentes de los procedimientos utilizados y de los avances o resultados obtenidos;
 
-X. Dictaminar, apoyar y dar seguimiento a los diferentes proyectos planteados por los miembros del consejo y los jóvenes que quieran participar;
+X. Colaborar en la coordinación de actividades o campañas que se requieran y se tengan previstas dentro del plan de trabajo o proyecto, valiéndose del apoyo y cooperación de todos y cada uno de los miembros y utilizando todos los medios al alcance;
 
-XI. Participar en el diseño de planes estratégicos que permitan actuar con eficiencia y eficacia en el logro de los objetivos, optimizando los recursos y proponiendo alternativas de solución de los problemas y necesidades detectadas;
+XI. Proponer la actualización de programas de probado funcionamiento, optimizando su operatividad y adaptándolos a las condiciones y circunstancias que así lo ameriten;
 
-XII. Colaborar en la coordinación de actividades o campañas que se requieran y se tengan previstas dentro del plan de trabajo o proyecto, valiéndose del apoyo y cooperación de todos y cada uno de los miembros y utilizando todos los medios al alcance;
+XII. Promover la creación y conservación de espacios permanentes de expresión juvenil;
 
-XIII. Registrar cada uno de los procedimientos y avances obtenidos en cada uno de los proyectos, buscando tener un antecedente y una base de trabajo para consejeros futuros;
+XIII. Difundir la existencia del Consejo, sus objetivos y sus actividades, asumiendo el compromiso encomendado por el H. Ayuntamiento de Aguascalientes y por la misma sociedad, trabajando siempre de manera desinteresada y en beneficio de nuestra ciudadanía; y
 
-XIV. Actualizar programas anteriores de probado funcionamiento, eficientar su operatividad y adaptarlos a las condiciones y circunstancias que así lo ameriten;
+XIV. Los demás que le sean encomendados por los ordenamientos legales aplicables.
 
-XV. Supervisar el cumplimiento de las acciones o programas que sean encomendados por el gobierno y por la misma sociedad, así como el mismo Consejo y su colectividad;
-
-XVI. Difundir la existencia del Consejo, sus objetivos y sus actividades, asumiendo el compromiso encomendado por el H. Ayuntamiento de Aguascalientes y por la misma sociedad y trabajar siempre de manera desinteresada y en beneficio de nuestra ciudadanía; y
-
-XVII. Todos las (sic) demás que le sean encomendados, dado que los anteriores fines son enunciativos, mas no limitativos.
+> <small>(REFORMADO, P.O. 11 DE AGOSTO DE 2011)</small>
 
 ### CAPÍTULO III. De la Integración
 
-###### Artículo 6°.
+> <small>(REFORMADO, P.O. 11 DE AGOSTO DE 2011)</small>
 
-El consejo estará integrado de la manera siguiente:
+###### Artículo 6º.
 
-I. Un Presidente Honorario, que será el Presidente Municipal del H. Ayuntamiento;
+El Consejo estará integrado de la manera siguiente:
 
-II. Un Presidente Ejecutivo, que será elegido por el Consejo;
+I. Un Presidente Honorario, que será el Presidente Municipal;
 
-III. Un Secretario Técnico que será el responsable del área de Atención a la Juventud Municipal;
+II. Un Presidente, que será elegido por el propio Consejo;
 
-> <small>(REFORMADA, P.O. 9 DE MARZO DE 2009)</small>
+III. Un Secretario Técnico que será el Jefe del Departamento de Atención a la Juventud Municipal;
 
-IV. Un representante del H. Ayuntamiento, que será elegido por dicho Cuerpo Colegiado;
+IV. Un representante del H. Ayuntamiento, que será el Regidor Presidente de la Comisión del ramo;
 
-> <small>(REFORMADA, P.O. 9 DE MARZO DE 2009)</small>
+V. Vocales de diversas organizaciones juveniles, que deberán ser aprobados por el Cabildo y los cuales no podrán ser menos de siete ni más de catorce; tendrán derecho a voz y voto, designándose preferentemente a los siguientes:
 
-V. Un representante del H. Ayuntamiento, que será el Regidor del ramo;
+1. Cuatro representantes de los estudiantes de nivel medio superior;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 9 DE MARZO DE 2009)</small>
+2. Seis representantes de los estudiantes de nivel superior;
 
-VI. Un representante del Órgano de Enlace de la Administración Municipal;
+3. Un representante de organismos empresariales juveniles;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 9 DE MARZO DE 2009)</small>
+4. Dos representantes de agrupaciones juveniles dedicadas a la labor social y benéfica, conciencia y participación ciudadana; y
 
-VII. Vocales de diversas organizaciones juveniles, mismos que deberán ser aprobados por el Cabildo, los cuales no podrán ser menos de cinco, tendrán derecho a voz y voto, designándose preferentemente a los siguientes:
+5. Un representante de agrupaciones dedicadas a las culturas populares y barrios.
 
-1.- Cuatro representantes de los estudiantes de nivel medio superior;
+> <small>(REFORMADO, P.O. 11 DE AGOSTO DE 2011)</small>
 
-2.- Seis representantes de los estudiantes de nivel superior;
+###### Artículo 7º.
 
-3.- Un representante de organismos empresariales juveniles;
+Para poder ocupar el cargo de vocal dentro del Consejo Municipal de la Juventud de Aguascalientes se requiere:
 
-4.- Un representante de agrupaciones dedicadas a la labor social, conciencia y participación ciudadana y;
+I. Cumplir con los requisitos de vecindad señalados en el artículo 8º del Código Municipal de Aguascalientes;
 
-5.- Un representante de agrupaciones de culturas populares y barrios; (sic)
-
-###### Artículo 7°.
-
-Para poder ocupar cualquier cargo dentro del Consejo Municipal de la Juventud de Aguascalientes se requiere:
-
-I. Ser vecino con domicilio en el municipio;
-
-> <small>(REFORMADA, P.O. 9 DE MARZO DE 2009)</small>
-
-II. Tener entre quince y veintinueve años de edad;
+II. Tener entre doce y veintinueve años de edad;
 
 III. Destacar o participar en cualquiera de las carteras siguientes en el municipio de Aguascalientes:
 
@@ -153,221 +155,241 @@ III. Destacar o participar en cualquiera de las carteras siguientes en el munici
 
 - Protección al ambiente
 
-- Participación política.
+- Participación política
 
-###### Artículo 8°.
+> <small>(REFORMADO, P.O. 11 DE AGOSTO DE 2011)</small>
 
-Los miembros del Consejo entrarán en funciones en 60 días al inicio de la Administración Municipal, durarán en su cargo un año y se desempeñarán de forma honorífica.
+###### Artículo 8º.
 
-###### Artículo 9°.
+Los miembros del Consejo entrarán en funciones conforme a lo establecido en el Capítulo VI de este mismo ordenamiento y durarán en su cargo el mismo tiempo que dure la Administración Municipal, desempeñando su cargo de forma honorífica. Cada uno de los miembros del Consejo podrá nombrar a un Suplente, quien deberá cubrir los mismos requisitos establecidos para el Titular en el artículo anterior.
 
-El H. Ayuntamiento o la mitad más uno de los Consejeros, podrán convocar a Sesión Extraordinaria, ya sea para remover a alguno de sus miembros que no esté trabajando adecuadamente o no esté cumpliendo con las atribuciones y responsabilidades que están establecidas en el presente reglamento, así como para convocar a elecciones con el fin de designar a otro consejero en su lugar o para tratar algún otro asunto de importancia para el Consejo.
+> <small>(REFORMADO, P.O. 11 DE AGOSTO DE 2011)</small>
 
 ### CAPÍTULO IV. De la Organización y el Funcionamiento
 
-###### Artículo 10.
+> <small>(REFORMADO, P.O. 11 DE AGOSTO DE 2011)</small>
 
-Para el mejor desempeño de sus funciones, el Consejo contará con ocho comisiones, que son las siguientes:
+###### Artículo 9º.
 
-1. Educación y Cultura.
+Para el mejor desempeño de sus funciones, el Consejo contará con siete comisiones, que son las siguientes:
 
-2. Fomento Empresarial.
+1. Educación, Cultura y Recreación
 
-3. Programa de apoyo a jóvenes y grupos vulnerables.
+2. Fomento Empresarial y Laboral
 
-4. Evaluación de proyectos de gobierno.
+3. Programas de apoyo a jóvenes de grupos vulnerables
 
-5. Bienestar integral.
+4. Evaluación de proyectos de gobierno
 
-6. Equidad de género.
+5. Bienestar integral
+
+6. Equidad de género
 
 7. Conciencia y participación ciudadana.
 
-8. Laboral
+> <small>(REFORMADO, P.O. 11 DE AGOSTO DE 2011)</small>
 
-###### Artículo 11.
+###### Artículo 10.
 
 El Presidente Honorario del Consejo o su representante, tendrá voto de calidad en las sesiones.
 
+> <small>(REFORMADO, P.O. 11 DE AGOSTO DE 2011)</small>
+
+###### Artículo 11.
+
+Para poder ser Presidente del Consejo Municipal de la Juventud no deberá pertenecer a ningún partido político y además tendrá las siguientes facultades:
+
+a) Presidir las sesiones del Consejo.
+
+b) Representar al Consejo ante las autoridades municipales.
+
+c) Revisar, autorizar y presentar ante el Ayuntamiento un informe semestral de las actividades del Consejo.
+
+d) Buscar la consecución de los fines establecidos dentro del presente Reglamento.
+
+e) Presentar ante la Comisión Permanente del ramo, el Plan Anual de Trabajo del Consejo.
+
+> <small>(REFORMADO, P.O. 11 DE AGOSTO DE 2011)</small>
+
 ###### Artículo 12.
-
-Para poder ser Presidente Ejecutivo del Consejo Municipal de la Juventud no deberá pertenecer a ningún partido político y además atenderá los asuntos siguientes:
-
-- Presidir las sesiones del Consejo.
-
-- Representar al Consejo ante la autoridad municipal.
-
-- Revisar, autorizar y presentar ante el Ayuntamiento un informe semestral de las actividades del Consejo.
-
-- Buscar la consecución de los fines establecidos dentro del presente Reglamento.
-
-###### Artículo 13.
 
 El Secretario Técnico del Consejo atenderá los asuntos siguientes:
 
-> <small>(REFORMADA, P.O. 9 DE MARZO DE 2009)</small>
-
 I. Convocar a los miembros del Consejo Municipal de la Juventud a Sesiones Ordinarias y Extraordinarias;
 
-> <small>(REFORMADA, P.O. 9 DE MARZO DE 2009)</small>
+II. Solicitar al pleno del Consejo la remoción de un vocal por inasistencia reiterada, que consistirá en tres faltas consecutivas o cinco faltas sin justificación dentro de un periodo de un año, a fin de optimizar la labor del Consejo;
 
-II. Solicitar al pleno del Consejo la remoción de un vocal por inasistencia reiterada, que consistirá en tres faltas consecutivas o cinco faltas sin justificación dentro de un periodo de un año, a fin de optimizar la labor del consejo;
+III. Realizar las funciones del Presidente cuando éste no pueda llevarlas a cabo;
 
-> <small>(REFORMADA, P.O. 9 DE MARZO DE 2009)</small>
+IV. Levantar Actas de Sesión del Consejo y firmar junto con el Presidente los acuerdos e informes rendidos;
 
-III. Realizar las funciones del presidente Ejecutivo cuando éste no pueda llevarlas a cabo;
+V. Presentar los programas juveniles al pleno del Consejo a fin de proponer un plan de trabajo del mismo;
 
-> <small>(REFORMADA, P.O. 9 DE MARZO DE 2009)</small>
+VI. Tener bajo su cargo la conservación y control de la correspondencia y documentación;
 
-IV. Levantar Actas de Sesión del Consejo y firmar junto con el Presidente Ejecutivo los acuerdos e informes rendidos;
+VII. Enviar los acuerdos e informar a los miembros del Consejo, de las Sesiones llevadas a cabo dentro de las 72 horas siguientes de celebradas las mismas; y
 
-> <small>(REFORMADA, P.O. 9 DE MARZO DE 2009)</small>
+VIII. Las demás que el Consejo o el H. Ayuntamiento le encomienden.
 
-V. Presentar los programas juveniles al pleno del Consejo a fin de proponer un plan de trabajo del mismo; tener bajo su cargo la conservación y control de la correspondencia y documentación;
+> <small>(REFORMADO, P.O. 11 DE AGOSTO DE 2011)</small>
 
-> <small>(REFORMADA, P.O. 9 DE MARZO DE 2009)</small>
-
-VI. Enviar los acuerdos e informar a los miembros del Consejo, de las Sesiones llevadas a cabo dentro de las 72 horas siguientes de celebradas las mismas y;
-
-> <small>(REFORMADA, P.O. 9 DE MARZO DE 2009)</small>
-
-VII. Las demás que el Consejo le encomiende.
-
-> <small>(REFORMADO, P.O. 9 DE MARZO DE 2009)</small>
-
-###### Artículo 14.
+###### Artículo 13.
 
 El Representante del H. Ayuntamiento atenderá los asuntos siguientes:
 
-I. Todo lo correspondiente a la gestión del Consejo ante la máxima Autoridad Municipal;
+I. Realizar las gestiones propias del Consejo ante las autoridades municipales;
 
-II. Analizar, discutir y presentar ante la Comisión de Cabildo respectiva las propuestas que el Consejo le encomiende;
+II. Presentar, analizar y discutir en el seno de su Comisión, las propuestas que el Consejo le encomiende;
 
-III. Presentar ante el H. Ayuntamiento las propuestas relacionadas con los Trabajos del Consejo y el área de atención a la Juventud;
+III. Presentar ante el H. Ayuntamiento los documentos, planes y propuestas que el Consejo y el Área de Atención a la Juventud determinen; y
 
-IV. Las demás que el H. Ayuntamiento, el Consejo o el Código Municipal le encomiende.
+IV. Los demás que el H. Ayuntamiento o el Código Municipal le encomienden.
 
-> <small>(ADICIONADO, P.O. 9 DE MARZO DE 2009)</small>
+> <small>(REFORMADO, P.O. 11 DE AGOSTO DE 2011)</small>
 
-Artículo 14 BIS.- El Órgano de Enlace de la Administración Municipal estará conformado por cinco servidores públicos de la Administración Pública Municipal, designados por el Presidente Municipal, que cumplan los requisitos del artículo 7° del presente Reglamento y atenderá los asuntos siguientes:
-
-I. Supervisar el desempeño del Consejo y coadyuvar con las gestiones del Consejo ante la máxima Autoridad Municipal;
-
-II. Coordinar y supervisar las funciones y comisiones de los miembros del Consejo y;
-
-III. Presentar y gestionar las propuestas y proyectos emanados del Consejo ante las instancias de la Administración Pública Municipal.
-
-###### Artículo 15.
+###### Artículo 14.
 
 Las Comisiones del Consejo atenderán los asuntos siguientes:
 
-- Asistir a las sesiones del Consejo Municipal de la Juventud a convocatoria expresa del Secretario Técnico. En caso de ausencia permanente de un vocal o suplente de la misma Comisión, se podrá suplir su lugar con otro joven que cumpla con lo establecido en este Reglamento y sea miembro de la Comisión correspondiente;
+I. Asistir a las sesiones del Consejo Municipal de la Juventud a convocatoria expresa del Secretario Técnico. En caso de ausencia permanente de un vocal o suplente de la misma Comisión, se podrá suplir su lugar con otro joven que cumpla con lo establecido en este Reglamento y sea miembro de la Comisión correspondiente;
 
-- Participar en las sesiones con voz y voto en la toma de decisiones del Consejo;
+II. Participar en las sesiones con voz y voto en la toma de decisiones del Consejo;
 
-- A solicitud del Área de Atención a la Juventud, podrán auxiliar, promocionar y asistir y/o participar en los eventos y programas que realice la misma y en aquellos que impacten en la juventud del municipio de Aguascalientes bajo invitación de la instancia correspondiente;
+III. A solicitud del Departamento de Atención a la Juventud, podrán auxiliar, promocionar, asistir y/o participar en los eventos y programas que realice el mismo y en aquellos que impacten en las y los jóvenes del Municipio de Aguascalientes bajo invitación de la instancia correspondiente;
 
-- Recabar de manera sistematizada, las sugerencias que hagan los jóvenes a las autoridades sobre los programas de juventud realizados en el Municipio, así como las aportaciones que hagan otros sectores de la población;
+IV. Recabar de manera sistematizada, las sugerencias que hagan los jóvenes a las autoridades sobre los programas de juventud realizados en el Municipio, así como las aportaciones que hagan otros sectores de la población;
 
-- Diseñar un plan de trabajo que permita al Consejo cumplir con las finalidades para las que fue creado;
+V. Diseñar un plan de trabajo que permita al Consejo cumplir con las finalidades para las que fue creado;
 
-- Diseñar una metodología para recabar las sugerencias y transmitirlas a las dependencias correspondientes con apoyo del área de Atención a la Juventud de forma expedita;
+VI. Representar, con la autorización expresa del Consejo, a las y los jóvenes del Municipio de Aguascalientes en eventos nacionales e internacionales, acatando las responsabilidades que éste les delegue; y
 
-- Para el eficaz cumplimiento de sus atribuciones y la óptima vigilancia de los programas, el Consejo podrá organizarse formando las comisiones que considere necesarias;
+VII. Todas aquellas que el Pleno del Consejo o los ordenamientos legales aplicables les asignen.
 
-- Representar a la juventud del Municipio de Aguascalientes en eventos Nacionales e Internacionales con autorización expresa del pleno del Consejo, acatando las responsabilidades que éste les delegue; y
+> <small>(REFORMADO, P.O. 11 DE AGOSTO DE 2011)</small>
 
-- Todas aquellas que la Ley les confiera.
+###### Artículo 15.
+
+El Consejo celebrará sesiones ordinarias por lo menos una vez cada 30 días, y éstas sólo serán válidas con la asistencia de la mitad más uno de sus miembros. Las resoluciones se tomarán por la mayoría de los miembros presentes y el Presidente Honorario tendrá voto de calidad cuando exista un empate o controversia.
+
+En caso de ausencia del Presidente Honorario, su representante o el Presidente, asumirán esa facultad.
+
+> <small>(REFORMADO, P.O. 11 DE AGOSTO DE 2011)</small>
 
 ###### Artículo 16.
 
-En caso de requerirlo, el Consejo podrá auxiliarse con un asesor legal, un asesor de comunicación y un asesor financiero, los cuales, necesitarán de la aprobación del Cabildo para ratificar de manera oficial su encargo.
+La mitad más uno de los consejeros, podrá convocar a Sesión Extraordinaria, ya sea para remover a alguno de los miembros del Consejo de la Juventud que no esté trabajando adecuadamente o no esté cumpliendo con las atribuciones y responsabilidades que están establecidas en el presente Reglamento, así como para convocar a elecciones con el fin de designar a otro consejero en su lugar o para tratar algún otro asunto de importancia relevante para el Consejo.
+
+> <small>(REFORMADO, P.O. 11 DE AGOSTO DE 2011)</small>
 
 ###### Artículo 17.
 
-El Consejo celebrará sesiones ordinarias por lo menos una vez cada 15 días, y las extraordinarias que se convoquen por medio del Presidente Ejecutivo.
+A invitación expresa del Consejo, podrán participar con voz pero sin voto, los representantes de otras dependencias o instituciones públicas, privadas y sociales; así como personas destacadas en el ámbito juvenil o cuya aportación se considere importante en la labor del Consejo.
+
+> <small>(REFORMADO, P.O. 11 DE AGOSTO DE 2011)</small>
 
 ###### Artículo 18.
 
-El Consejo sesionará válidamente con la asistencia de la mitad más uno de sus miembros. Las resoluciones se tomarán por la mayoría de los miembros presentes y el Presidente Honorario tendrá voto de calidad en caso de empate, y en caso de no asistir, el Presidente Ejecutivo o el representante que nombre aquel, será el facultado para ello.
+El Consejo expedirá su propio Reglamento Interior con estricto apego al mandato de este Reglamento y al de los demás ordenamientos legales aplicables.
+
+> <small>(REFORMADO, P.O. 11 DE AGOSTO DE 2011)</small>
 
 ### CAPÍTULO V. De las Atribuciones
 
+> <small>(REFORMADO, P.O. 11 DE AGOSTO DE 2011)</small>
+
 ###### Artículo 19.
-
-Podrán participar con voz pero sin voto los representantes de otras dependencias o instituciones públicas, privadas y sociales; así como personas destacadas en el ámbito juvenil o cuya aportación se considere importante en la labor del Consejo y a invitación expresa del pleno de este.
-
-### CAPÍTULO VI. De los Mecanismos de Elección
-
-###### Artículo 20.
 
 El Consejo Municipal de la Juventud de Aguascalientes tendrá las atribuciones siguientes:
 
-- Dar seguimiento en calidad de observadores a la realización de planes y programas municipales que estén a cargo del área de Atención a la Juventud Municipal, así como de las demás instituciones municipales que desarrollen programas que impacten a la juventud aguascalentense;
+a) Desarrollar documentos prácticos en los que se sugieran cambios o mejorías en los programas juveniles municipales;
 
-- Desarrollar documentos prácticos en los que se sugiera cambios o mejorías en los programas juveniles municipales;
+b) Coordinar y elaborar diagnósticos relativos a los principales problemas juveniles del municipio, que permitan captar información y mejorías en los programas juveniles municipales;
 
-- Coordinar y elaborar diagnósticos relativos a los principales problemas juveniles del municipio, que permitan captar información y mejorías en los programas juveniles municipales;
+c) Promover la preservación y mejoramiento de áreas libres del municipio, que se destinen al municipio para el sano esparcimiento de la juventud aguascalentense;
 
-- Promover la preservación y mejoramiento de áreas libres del municipio, que se destinen al municipio para el sano esparcimiento de la juventud aguascalentense;
+d) Fomentar actividades tendientes al fortalecimiento de la solidaridad e identidad vecinal dentro de los ambientes juveniles del Municipio;
 
-- Auxiliar al ayuntamiento para la eficaz promoción de los programas juveniles municipales;
+e) Convocar y organizar, en coordinación con el Municipio, el Premio Municipal de la Juventud; y
 
-- Fomentar actividades tendientes al fortalecimiento de la solidaridad e identidad vecinal dentro de los ambientes juveniles del Municipio;
+f) Las demás que expresamente determinen el H. Ayuntamiento y los ordenamientos que les sean aplicables.
 
-- Colaborar en actividades en las que sea requerida su participación a solicitud de la Administración Municipal, en el ámbito juvenil;
+> <small>(REFORMADO, P.O. 11 DE AGOSTO DE 2011)</small>
 
-- Evaluar los resultados de los planes y programas ejecutados por la administración pública municipal en la materia, con base de las opiniones de los jóvenes del Municipio;
+### CAPÍTULO VI. De los Mecanismos de Elección
 
-- Convocar y organizar, en coordinación con el Municipio, el Premio Municipal de la Juventud;
+> <small>(REFORMADO, P.O. 11 DE AGOSTO DE 2011)</small>
 
-- Aquellas que expresamente determinen los reglamentos y disposiciones municipales.
+###### Artículo 20.
+
+Para ser electo como Vocal del Consejo, se deberán cumplir los requisitos y condiciones establecidos en la Convocatoria que sea publicada para tal efecto.
+
+> <small>(REFORMADO, P.O. 11 DE AGOSTO DE 2011)</small>
 
 ###### Artículo 21.
 
-Para ser miembro del Consejo, se deberá de cumplir con los requisitos establecidos en el artículo 7° de este Reglamento.
+El Departamento de Atención a la Juventud, expedirá y publicará la Convocatoria que contenga las bases a que estará sujeta la elección de los vocales integrantes del Consejo.
+
+Antes de su publicación, la Convocatoria deberá ser revisada y aprobada por la Comisión de Juventud y Deporte del H. Ayuntamiento.
+
+> <small>(REFORMADO, P.O. 11 DE AGOSTO DE 2011)</small>
 
 ###### Artículo 22.
 
-Se presentará al interesado por medio de cualquier miembro del Consejo Municipal de la Juventud o por iniciativa propia en las sesiones determinadas para ello.
+Dicha Convocatoria deberá publicarse dentro de los primeros sesenta días naturales de ejercicio del período constitucional de gobierno de la administración municipal en funciones.
+
+> <small>(REFORMADO, P.O. 11 DE AGOSTO DE 2011)</small>
 
 ###### Artículo 23.
 
-Se presentará la convocatoria para elegir a los miembros del Consejo del siguiente año en la última sesión de agosto y las candidaturas se presentarán durante las sesiones de septiembre.
+La elección deberá realizarse a más tardar en el mes de abril del primer año de ejercicio del período constitucional de gobierno de la administración municipal en funciones.
+
+Hasta entonces, permanecerá en ejercicio el Consejo electo en la administración municipal anterior y deberá entregar la documentación relativa a su encargo que obre en su poder.
+
+> <small>(REFORMADO, P.O. 11 DE AGOSTO DE 2011)</small>
 
 ###### Artículo 24.
 
-Los candidatos presentarán las exposiciones de motivos durante las sesiones de octubre con las razones para ser elegido.
+Luego de que sean designados los vocales del Consejo, el Secretario Técnico convocará inmediatamente a una sesión para elegir al Presidente, bajo el procedimiento que se haya determinado en la Convocatoria.
+
+> <small>(REFORMADO, P.O. 11 DE AGOSTO DE 2011)</small>
 
 ###### Artículo 25.
 
-La elección se realizará durante la primera sesión de noviembre mediante voto directo de los integrantes del Consejo, contando con el quórum de la mitad más uno.
+Se contará con un máximo de 30 días a partir de la elección para tomar el cargo, lo cual deberá llevarse a cabo en Sesión de Cabildo.
+
+> <small>(REFORMADO, P.O. 11 DE AGOSTO DE 2011)</small>
 
 ###### Artículo 26.
 
-Se contarán 60 días a partir de la elección para tomar el cargo que se realizará en la primera sesión del mes de enero.
+Los miembros del Consejo que hayan sido incorporados por elección, podrán ser reelectos una sola vez por otro periodo igual, siempre y cuando cumplan los requisitos señalados para ello.
 
-### CAPÍTULO VII. De los Mecanismos de Remoción
+> <small>(REFORMADO, P.O. 11 DE AGOSTO DE 2011)</small>
+
+### CAPITULO VII. De los Mecanismos de Remoción
+
+> <small>(REFORMADO, P.O. 11 DE AGOSTO DE 2011)</small>
 
 ###### Artículo 27.
 
-El proceso para elegir los vocales se llevará a cabo con el sistema establecido con antelación.
+Los consejeros tendrán libertad absoluta en la expresión de sus ideas y serán inamovibles, salvo en los casos previstos en este Capítulo.
+
+> <small>(REFORMADO, P.O. 11 DE AGOSTO DE 2011)</small>
 
 ###### Artículo 28.
 
-Los consejeros tendrán libertad absoluta en la expresión de sus ideas y serán inamovibles, salvo en los casos previstos en los artículos siguientes y cuando dejen de reunir alguno o algunos de los requisitos exigidos en los artículos respectivos.
+Los consejeros propietarios serán suplidos en sus faltas temporales por sus respectivos suplentes. Sin embargo, cuando un consejero propietario falte injustificadamente a tres sesiones o a un total de cinco de forma justificada en un periodo anual, el suplente ocupará de forma definitiva su lugar y se procederá de inmediato a la elección de un nuevo suplente para éste.
+
+> <small>(REFORMADO, P.O. 11 DE AGOSTO DE 2011)</small>
 
 ###### Artículo 29.
 
-Los consejeros propietarios serán suplidos en sus faltas temporales por sus respectivos suplentes; cuando falten injustificadamente a tres sesiones o a un total de cinco justificadas o injustificadas en un periodo anual, aquéllos entrarán en funciones y se procederá de inmediato a la elección de nuevo suplente para los consejeros.
+Los consejeros podrán ser removidos por causa grave, debidamente fundamentada y probada.
 
-###### Artículo 30.
+La solicitud de remoción puede ser presentada únicamente por los miembros del Consejo.
 
-Los consejeros podrán ser removidos por causas graves y justificadas, pero para ello se requiere que la remoción se pida por escrito, debidamente fundamentada, firmada por el Consejero o por la mitad más uno, el cual deberá ser presentado al Consejo. Éste se reunirá en pleno y nombrará una comisión de cinco de sus miembros, para que estudie y dictamine si es o no de tomarse en cuenta la solicitud. En la siguiente sesión ordinaria, la comisión presentará al Consejo su dictamen, que será sometido a la deliberación del propio Consejo. Éste, reunido en pleno y habiendo citado previamente al consejero a quien se pretende remover, escuchará sus argumentos y posteriormente, dictará su fallo dentro de los cinco días siguientes.
+La solicitud de remoción se presentará ante la Secretaría Técnica del Consejo, mediante escrito original, dirigido al Consejo y en el que se especifiquen las causas y fundamentos de la acción y al que se anexen los medios de prueba que se tengan al alcance.
 
-###### Artículo 31.
-
-El Consejo expedirá su propio reglamento interior, en el que se precisará la forma de operación del pleno y de las comisiones que decida establecer. Los acuerdos del Consejo serán tomados por mayoría simple de los miembros del Consejo con derecho a voto que se encuentren presentes, salvo los casos en que el presente reglamento establezca la necesidad de una mayoría especial. Esta última se computará siempre en relación con el número de consejeros con derecho a voto.
+El Reglamento Interior determinará el método del Procedimiento de Remoción.
 
 T R A N S I T O R I O S :
 
@@ -387,7 +409,7 @@ En cumplimiento a lo ordenado por el Presidente Municipal de Aguascalientes, con
 
 El Secretario del H. Ayuntamiento y Director General de Gobierno.-M. en D. Gabriel Ochoa Amador.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
 
 P.O. 9 DE MARZO DE 2009.
 
@@ -410,3 +432,11 @@ Una vez integrado el Consejo Municipal de la Juventud de Aguascalientes, se les 
 ###### ARTICULO QUINTO.
 
 Una vez instalado el Consejo Municipal de la Juventud de Aguascalientes, este durará en funciones hasta el treinta y uno de diciembre del año dos mil diez.
+
+P.O. 11 DE AGOSTO DE 2011.
+
+PRIMERO: El presente Reglamento entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+SEGUNDO: El Departamento de Atención a la Juventud del Municipio de Aguascalientes tendrá treinta días naturales a partir de la entrada en vigor del presente Reglamento para emitir y publicar la convocatoria a que se hace mención en el mismo.
+
+TERCERO: Una vez instalado el Consejo Municipal de la Juventud de Aguascalientes, éste contará con sesenta días para emitir su Reglamento Interior.
