@@ -4,7 +4,7 @@ identifier: "CHP-ley-de-fraccionamientos-y-conjuntos-habitacionales-para-el-7090
 country: "mx"
 rank: "ley"
 publication_date: "2009-10-21"
-last_updated: "2009-10-21"
+last_updated: "2011-08-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70902&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 LEY DE FRACCIONAMIENTOS Y CONJUNTOS HABITACIONALES PARA EL ESTADO Y LOS MUNICIPIOS DE CHIAPAS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE AGOSTO DE 2011.
 
 Ley publicada en el Periódico Oficial del Estado de Chiapas, el miércoles 21 de octubre de 2009.
 
@@ -261,9 +261,15 @@ III. Croquis de localización del predio;
 
 IV. Croquis del predio a subdividir indicando medidas, superficies y ventas;
 
-V. Fotografías de las viviendas, en su caso; y,
+> <small>(REFORMADA, P.O. 11 DE AGOSTO DE 2011)</small>
+
+V. Fotografías de las viviendas, en su caso;
 
 VI. Dictamen expedido por el Instituto Nacional de Antropología e Historia, en su caso.
+
+> <small>(ADICIONADA, P.O. 11 DE AGOSTO DE 2011)</small>
+
+VII. Dictamen de Riesgos expedido por el Instituto de Protección Civil para el Manejo Integral de Riesgos de Desastres.
 
 ###### Artículo 16.
 
@@ -311,9 +317,15 @@ II. Copia de la boleta de pago predial vigente;
 
 III. Croquis de localización del predio;
 
-IV. Croquis de la relotificación indicando medidas, superficies y ventas; y,
+> <small>(REFORMADA, P.O. 11 DE AGOSTO DE 2011)</small>
+
+IV. Croquis de la relotificación indicando medidas, superficies y ventas;
 
 V. Fotografías de las viviendas, en su caso.
+
+> <small>(ADICIONADA, P.O. 11 DE AGOSTO DE 2011)</small>
+
+VI. Dictamen de Riesgos expedido por el Instituto de Protección Civil para el Manejo Integral de Riesgos de Desastres.
 
 ###### Artículo 20.
 
@@ -354,6 +366,10 @@ III. Zonas insalubres;
 IV. Inundables o pantanosas.
 
 En caso de que el predio a fraccionar cuente con zonas que tengan las características antes referidas el fraccionador previos estudios y ejecución de obras, cuando así lo determine la autoridad competente debe realizar obras necesarias.
+
+> <small>(ADICIONADO, P.O. 11 DE AGOSTO DE 2011)</small>
+
+El Establecimiento de fraccionamientos requerirá obligatoriamente un dictamen de riesgos emitido por el Instituto de Protección Civil para el manejo Integral de Riesgos.
 
 #### Sección Primera. Clasificación de los Fraccionamientos
 
@@ -679,6 +695,10 @@ e) Cuadro de resumen, conteniendo conceptos, superficies y porcentajes de dosifi
 
 VIII. Copia de la cedula catastral.
 
+> <small>(ADICIONADA, P.O. 11 DE AGOSTO DE 2011)</small>
+
+IX. Dictamen de Riesgos emitido por el Instituto de Protección Civil para el Manejo Integral de Riesgos de Desastres.
+
 ###### Artículo 58.
 
 La solicitud para tramitar u obtener la tercera fase denominada autorización del proyecto ejecutivo y licencia de urbanización, se formulará por escrito y se presentará ante el Municipio. Dicha solicitud, deberá acompañarse de los siguientes documentos:
@@ -818,6 +838,10 @@ Lo referente a este Capítulo, se normará conforme a lo dispuesto en esta Ley, 
 Para los efectos de este Capítulo, se entenderá por conjunto habitacional, al grupo de viviendas o departamentos, sin perjuicio de que se desarrollen en uno o varios cuerpos y secciones, cualquiera que sea el régimen de propiedad y dotado de las obras necesarias de vialidad, equipamiento urbano, estacionamientos y otras.
 
 Corresponderá a los municipios la autorización de los conjuntos habitacionales, para tal efecto cuando así lo requiera podrá solicitar la asesoría del Estado a través de la Secretaría.
+
+> <small>(ADICIONADO, P.O. 11 DE AGOSTO DE 2011)</small>
+
+En todos los casos, los municipios verificarán a través de la Unidad de Protección Civil Municipal, que el conjunto habitacional no se construirá en una zona de riesgo, siendo necesario requerir al responsable de la obra el dictamen correspondiente.
 
 #### Sección Segunda. De sus Características
 
@@ -1380,3 +1404,11 @@ Dado en el Salón de Sesiones del Honorable Congreso del Estado de Chiapas, en l
 De conformidad con la fracción I, del artículo 42, de la Constitución Política local y para su observancia, promulgo el presente Decreto en la Residencia del Poder Ejecutivo del Estado, en la Ciudad de Tuxtla Gutiérrez, Chiapas; a los tres días del mes de septiembre del año dos mil nueve.
 
 Juan Sabines Guerrero, Gobernador del Estado.- Noé Castañón León, Secretario General de Gobierno.- Rúbricas.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 11 DE AGOSTO DE 2011.
+
+Artículo Primero.- El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Se derogan las disposiciones que se opongan al presente Decreto.
