@@ -4,7 +4,7 @@ identifier: "CHP-ley-organica-municipal-del-estado-de-chiapas-69793"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2009-07-29"
-last_updated: "2010-11-05"
+last_updated: "2011-08-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69793&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 LEY ORGANICA MUNICIPAL DEL ESTADO DE CHIAPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE NOVIEMBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE AGOSTO DE 2011.
 
 Ley publicada en el Periódico Oficial del Estado de Chiapas, el miércoles 29 de julio de 2009.
 
@@ -71,9 +71,11 @@ Los municipios tendrán plena capacidad para adquirir y poseer todos los bienes 
 
 Los municipios podrán ser representados política y jurídicamente por el Ejecutivo del Estado, en todos aquellos asuntos que deban tratarse y resolverse con la Federación y con otras Entidades Federativas.
 
-###### Artículo 7°.
+> <small>(REFORMADO, P.O. 11 DE AGOSTO DE 2011)</small>
 
-Los municipios tendrán la libre administración de su hacienda, la cual se formará de las contribuciones señaladas por el Congreso del Estado y en los términos que establecen los artículos 115, fracción IV, de la Constitución Política de los Estados Unidos Mexicanos; 62 y 64, de la Constitución Política del Estado.
+###### Artículo 7º.
+
+Los municipios tendrán la libre administración de su hacienda, la cual se formará de las contribuciones señaladas por el Congreso del Estado y en los términos que establecen los artículos 115, fracción IV, de la Constitución Política de los Estados Unidos Mexicanos; 70 y 73, de la Constitución Política del Estado.
 
 ###### Artículo 8°.
 
@@ -83,11 +85,11 @@ Los municipios podrán coordinarse entre sí, previo acuerdo entre sus Ayuntamie
 
 Los municipios, para el cumplimiento de sus fines y aprovechamiento de sus recursos, formularán planes y programas de acuerdo con las leyes de la materia.
 
+> <small>(REFORMADO, P.O. 11 DE AGOSTO DE 2011)</small>
+
 ###### Artículo 10.
 
-Las relaciones laborales entre los municipios y sus trabajadores, se regirán por la Ley que al efecto expida el Congreso del Estado, con base a lo dispuesto por los artículos 123, apartado b) de la Constitución Política de los Estados Unidos Mexicanos y 62, de la Constitución Política del Estado.
-
-Los municipios podrán celebrar convenios con cualquier institución que tenga por objeto otorgar créditos para vivienda, en beneficio de sus trabajadores.
+Las relaciones laborales entre los municipios y sus trabajadores, se regirán por la Ley que al efecto expida el Congreso del Estado, con base a lo dispuesto por los artículos 123, apartado b) de la Constitución Política de los Estados Unidos Mexicanos y 70, de la Constitución Política del Estado.
 
 ###### Artículo 11.
 
@@ -95,9 +97,11 @@ En todo el Estado se dará entera fe, crédito y valor a los actos públicos, re
 
 ### Capítulo II. Los Municipios del Estado
 
+> <small>(REFORMADO, P.O. 11 DE AGOSTO DE 2011)</small>
+
 ###### Artículo 12.
 
-El Estado de Chiapas, está constituido por los siguientes municipios: Acacoyagua; 2. Acala; 3. Acapetahua; 4. Aldama; 5. Altamirano; 6. Amatán; 7. Amatenango de la Frontera; 8. Amatenango del Valle; 9. Ángel Albino Corzo; 10. Arriaga; 11. Bejucal de Ocampo; 12. Bella Vista; 13. Benemérito de las Américas; 14. Berriozábal; 15. Bochil; 16. Cacahoatán; 17. Catazajá; 18. Cintalapa; 19. Coapilla; 20. Comitán de Domínguez; 21. Copainalá; 22. Chalchihuitán; 23. Chamula; 24. Chanal; 25. Chapultenango; 26. Chenalhó; 27. Chiapa de Corzo; 28. Chiapilla; 29. Chicoasén; 30. Chicomuselo; 31. Chilón; 32. El Bosque; 33. El Porvenir; 34. Escuintla; 35. Francisco León; 36. Frontera Comalapa; 37. Frontera Hidalgo; 38. Huehuetán; 39. Huitiupán; 40. Huixtán. 41. Huixtla; 42. Ixhuatán; 43. Ixtacomitán; 44. Ixtapa; 45. Ixtapangajoya; 46. Jiquipilas; 47. Jitotol; 48. Juárez; 49. La Concordia; 50. La Grandeza; 51. La Independencia; 52. La Libertad; 53. Las Margaritas; 54. Larráinzar; 55. Las Rosas; 56. La Trinitaria; 57. Mapastepec; 58. Maravilla Tenejapa; 59. Marqués de Comillas; 60.Mazapa de Madero; 61. Mazatán; 62. Metapa; 63. Mitontic; 64. Montecristo de Guerrero; 65. Motozintla; 66. Nicolás Ruiz; 67. Ocosingo; 68. Ocopetec; 69. Ocozocoautla de Espinosa; 70. Ostuacán; 71. Osumacinta; 72. Oxchuc; 73. Palenque; 74. Pantelhó; 75. Pantepec; 76. Pichucalco; 77. Pijijiapan; 78. Pueblo Nuevo Solistahuacán; 79. Rayón; 80. Reforma; 81. Sabanilla; 82. Salto de Agua; 83. San Andrés Duraznal; 84. San Cristobal de Las Casas; 85. San Fernando; 86. San Juan Cancuc; 87. San Lucas; 88. Santiago El Pinar; 89. Siltepec; 90. Simojovel; 91. Sitalá; 92. Socoltenango; 93. Solosuchiapa; 94. Soyaló; 95. Suchiapa; 96. Suchiate; 97. Sunuapa; 98. Tapachula; 99. Tapalapa; 100. Tapilula; 101. Tecpatán; 102. Tenejapa; 103. Teopisca; 104. Tila; 105. Tonalá; 106. Totolapa; 107. Tumbalá; 108. Tuxtla Gutiérrez; 109. Tuxtla Chico; 110. Tuzantán; 111. Tzimol. 112. Unión Juárez; 113. Venustiano Carranza; 114. Villa Comaltitlán; 115. Villa Corzo; 116. Villaflores; 117. Yajalón y 118. Zinacantán.
+El Estado de Chiapas para su organización política y administrativa, estará constituido por Municipios libres, de acuerdo con las bases contenidas en los artículos 115 de la Constitución Política de los Estados Unidos Mexicanos y 65 de la Particular del Estado, siendo los siguientes: 1. Acacoyagua; 2. Acala; 3. Acapetahua; 4. Aldama; 5. Altamirano; 6. Amatán; 7. Amatenango de la Frontera; 8. Amatenango del Valle; 9. Ángel Albino Corzo; 10. Arriaga; 11. Bejucal de Ocampo; 12. Bella Vista; 13. Benemérito de las Américas; 14. Berriozábal; 15. Bochil; 16. Cacahoatán; 17. Catazajá; 18. Cintalapa; 19. Coapilla; 20. Comitán de Domínguez; 21. Copainalá; 22. Chalchihuitán; 23. Chamula; 24. Chanal; 25. Chapultenango; 26. Chenalhó; 27. Chiapa de Corzo; 28. Chiapilla; 29. Chicoasén; 30. Chicomuselo; 31. Chilón; 32. El Bosque; 33. El Porvenir; 34. Escuintla; 35. Francisco León; 36. Frontera Comalapa; 37. Frontera Hidalgo; 38. Huehuetán; 39. Huitiupán; 40. Huixtán. 41. Huixtla; 42. Ixhuatán; 43. Ixtacomitán; 44. Ixtapa; 45. Ixtapangajoya; 46. Jiquipilas; 47. Jitotol; 48. Juárez; 49. La Concordia; 50. La Grandeza; 51. La Independencia; 52. La Libertad; 53. Las Margaritas; 54. Larráinzar; 55. Las Rosas; 56. La Trinitaria; 57. Mapastepec; 58. Maravilla Tenejapa; 59. Marqués de Comillas; 60. Mazapa de Madero; 61. Mazatán; 62. Metapa; 63. Mitontic; 64. Montecristo de Guerrero; 65. Motozintla; 66. Nicolás Ruiz; 67. Ocosingo; 68. Ocopetec; 69. Ocozocoautla de Espinosa; 70. Ostuacán; 71. Osumacinta; 72. Oxchuc; 73. Palenque; 74. Pantelhó; 75. Pantepec; 76. Pichucalco; 77. Pijijiapan; 78. Pueblo Nuevo Solistahuacán; 79. Rayón; 80. Reforma; 81. Sabanilla; 82. Salto de Agua; 83. San Andrés Duraznal; 84. San Cristobal de Las Casas; 85. San Fernando; 86. San Juan Cancuc; 87. San Lucas; 88. Santiago El Pinar; 89. Siltepec; 90. Simojovel; 91. Sitalá; 92. Socoltenango; 93. Solosuchiapa; 94. Soyaló; 95. Suchiapa; 96. Suchiate; 97. Sunuapa; 98. Tapachula; 99. Tapalapa; 100. Tapilula; 101. Tecpatán; 102. Tenejapa; 103. Teopisca; 104. Tila; 105. Tonalá; 106. Totolapa; 107. Tumbalá; 108. Tuxtla Gutiérrez; 109. Tuxtla Chico; 110. Tuzantán; 111. Tzimol. 112. Unión Juárez; 113. Venustiano Carranza; 114. Villa Comaltitlán; 115. Villa Corzo; 116. Villaflores; 117. Yajalón y 118. Zinacantán.
 
 ###### Artículo 13.
 
@@ -155,7 +159,9 @@ I.- Contribuir para los gastos públicos del municipio de la manera proporcional
 
 II.- Prestar auxilio y colaboración con las autoridades, cuando sean requeridos para ello de acuerdo con las disposiciones legales;
 
-III.- Enviar a sus hijos o pupilos a las escuelas públicas o privadas incorporadas, para obtener la educación primaria obligatoria;
+> <small>(REFORMADA, P.O. 11 DE AGOSTO DE 2011)</small>
+
+III.- Enviar a sus hijos e hijas o pupilos a las escuelas públicas o privadas incorporadas, para obtener la educación preescolar, primaria y secundaria, así como procurarles la educación media superior.
 
 IV.- Inscribirse en los padrones expresamente determinados por las leyes, así como en el padrón vecinal del municipio;
 
@@ -193,27 +199,31 @@ El desempeño de un cargo de los señalados para integrar los ayuntamientos, es 
 
 El cargo en un Ayuntamiento solo es renunciable, cuando existan causas justificadas, que calificará el propio Ayuntamiento, con la aprobación del Congreso del Estado o en su caso, de la Comisión Permanente.
 
+> <small>(REFORMADO, P.O. 11 DE AGOSTO DE 2011)</small>
+
 ###### Artículo 23.
 
 Para ser miembro de un Ayuntamiento se requiere:
 
-I.- Ser ciudadano chiapaneco por nacimiento en pleno goce de sus derechos;
+I. Ser ciudadano chiapaneco por nacimiento en pleno goce de sus derechos.
 
-II.- Contar con residencia mínima de cinco año (sic) en el municipio de que se trate, excepto cuando sea originario del mismo, en cuyo caso la residencia mínima será de un año;
+II. Saber leer y escribir.
 
-III.- Saber leer y escribir;
+III. No pertenecer al Estado eclesiástico ni ser ministro de algún culto religioso.
 
-IV.- No pertenecer al estado eclesiástico ni ser ministro de algún culto;
+IV. Ser originario del municipio, con residencia mínima de un año o ciudadanía chiapaneca por nacimiento con una residencia mínima de cinco años en el municipio de que se trate.
 
-V.- No prestar servicios a gobiernos o instituciones extranjeras;
+V. No prestar servicios a gobiernos o instituciones extranjeras.
 
-VI.- Tener un modo honesto de vivir;
+VI. No ser cónyuge o concubino, hermana o hermano, madre, padre, hija, hijo, o tener parentesco consanguíneo hasta el cuarto grado, así como tampoco tener parentesco por afinidad hasta el segundo grado, con el Presidente Municipal o Síndico en funciones, si se aspira a los cargos de Presidente Municipal o Síndico.
 
-VII.- No haber sido sujeto de jurisdicción penal y sentencia condenatoria con cinco años de antelación a la elección y, no estar sujeto a causa penal alguna por delito intencional; y,
+VII. Tener un modo honesto de vivir.
 
-VIII.- No estar comprendido en alguna de las causas de inelegibilidad que establece el Código de Elecciones y Participación Ciudadana del Estado de Chiapas.
+VIII. No haber sido sujeto de jurisdicción penal y sentencia condenatoria con cinco años de antelación a la elección y, no estar sujeto a causa penal alguna por delito intencional.
 
-Lo previsto en este artículo, será aplicable para el Tesorero Municipal, Secretario del Ayuntamiento y los titulares del ramo de obras públicas o cargos equivalentes con percepciones similares.
+IX. No estar comprendido en alguna de las causas de inelegibilidad que establece el Código de Elecciones y Participación Ciudadana del Estado de Chiapas.
+
+Lo previsto en este artículo, con las salvedades previstas en la fracción VI, serán aplicables para el Tesorero Municipal, Secretario del Ayuntamiento y los titulares del ramo de obras públicas o cargos equivalentes con percepciones similares.
 
 ###### Artículo 24.
 
@@ -359,11 +369,15 @@ b).- Para el gasto de inversión los índices de bienestar social, lineamientos 
 
 VII.- Autorizar y glosar anualmente en el mes de enero, la cuenta pormenorizada y los documentos y libros de Ingresos y Egresos de la Hacienda Municipal, correspondientes al año anterior;
 
-VIII.- Aprobar el corte de caja mensual, presentado por el Tesorero Municipal, previa la autorización del mismo por el Presidente Municipal, enviando copias al Congreso del Estado y a la Tesorería General del Estado y darle difusión fijando copias en los estrados de avisos de la Presidencia Municipal y por lo menos en otros cinco lugares públicos; así como publicar cada mes sus estados financieros en el Periódico Oficial del Estado. Dichos estados financieros deberán ser claros y en ellos se deberá especificar en forma desglosada el origen y aplicación de los recursos, estableciendo su congruencia con los objetivos generales y particulares contemplados en el programa a que se refiere la fracción I, de este artículo;
+> <small>(REFORMADA, P.O. 11 DE AGOSTO DE 2011)</small>
+
+VIII.- Aprobar el corte de caja mensual, presentado por el Tesorero Municipal, previa la autorización del mismo por el Presidente Municipal, enviando copias al Congreso del Estado y a la Tesorería Única de la Secretaría de Hacienda y darle difusión fijando copias en los estrados de avisos de la Presidencia Municipal y por lo menos en otros cinco lugares públicos; así como publicar cada mes sus estados financieros en el Periódico Oficial. Dichos estados financieros deberán ser claros y en ellos se deberá especificar en forma desglosada el origen y aplicación de los recursos, estableciendo su congruencia con los objetivos generales y particulares contemplados en el programa a que se refiere la fracción I, de este artículo.
 
 IX.- Autorizar al Presidente Municipal para que gestione y contrate empréstitos, créditos o financiamientos a cargo del municipio, como deudor directo o avalista, así como la emisión de valores y otras operaciones financieras en términos de las disposiciones del Código de la Hacienda Pública para el Estado de Chiapas, y demás disposiciones legales aplicables;
 
-X.- Glosar y aprobar, en su caso, la cuenta que por el último año de su período, presente el Ayuntamiento anterior, exigiendo por medio de su síndico, las responsabilidades que resultaren;
+> <small>(REFORMADA, P.O. 11 DE AGOSTO DE 2011)</small>
+
+X.- Glosar y aprobar, en su caso, la cuenta pública que por el último año de su período, presente el Ayuntamiento anterior, exigiendo por medio de su Síndico, las responsabilidades que resultaren.
 
 XI.- Aceptar herencias, legados y donaciones que se hagan al municipio y llevar un registro de las cooperaciones recibidas en dinero, materiales o mano de obra y publicarlo como anexo del informe que se presente al Congreso del Estado con su cuenta pública, en la forma y tiempo requeridos;
 
@@ -513,9 +527,13 @@ LXIX.- Fomentar la Integración de los Comités ciudadanos que se encargarán de
 
 LXX.- Nombrar e integrar con los munícipes, comisiones permanentes o transitorias para el expedito y eficaz despacho de los asuntos públicos, así como establecer las normas y principios que las regulen.
 
-> <small>(ADICIONADA, P.O. 7 DE JULIO DE 2010)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 11 DE AGOSTO DE 2011)</small>
 
-LXXI.- Las demás que las leyes, reglamentos y otras disposiciones legales les asignen.
+LXXI. Promover acciones que permitan evitar la emisión de gases de efecto invernadero; tales como los procesos de reconversión productiva, producción de biodiesel, implementación del plan de tratamiento de aguas residuales y relleno sanitario, programas que tengan como objeto evitar la degradación y deforestación de las áreas forestales; formulando e instrumentando las políticas públicas para la adaptación al cambio climático y reducción de sus efectos adversos.
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 11 DE AGOSTO DE 2011)</small>
+
+LXXII. Las demás que las leyes, reglamentos y otras disposiciones legales les asignen.
 
 ###### Artículo 37.
 
@@ -801,51 +819,197 @@ II.- Proponer al Ayuntamiento el mejoramiento o la creación de nuevos servicios
 
 III.- Las demás que le confiera esta Ley y sus Reglamentos.
 
-### Capítulo X. De los Agentes y Subagentes Municipales
+> <small>(REFORMADA SU DENOMINACION, P.O. 11 DE AGOSTO DE 2011)</small>
+
+### CAPÍTULO X. De las Agencias, Subagencias y Delegaciones Municipales
+
+> <small>(REFORMADO, P.O. 11 DE AGOSTO DE 2011)</small>
 
 ###### Artículo 51.
 
-Las Agencias y Subagencias Municipales son órganos desconcentrados que estarán a cargo de un agente, o de un subagente, respectivamente y que actuarán en sus respectivas jurisdicciones como representantes de los ayuntamientos.
+Las Agencias y Subagencias municipales son órganos desconcentrados que estarán a cargo de un agente, o de un subagente, respectivamente y que actuarán en sus respectivas jurisdicciones como representantes de los Ayuntamientos.
+
+Los agentes y subagentes serán nombrados por el Ayuntamiento en el primer año de su gestión, durarán en su cargo el mismo período del Ayuntamiento que los designó, y deberán tener su residencia en el poblado que corresponda, que no será menos de 6 meses, inmediatamente anteriores a la fecha de su nombramiento. Su remoción será determinada por el Ayuntamiento, cuando concurran causas justificadas.
+
+Los Ayuntamientos, a propuesta del Presidente Municipal, deberán crear Agencias Municipales en aquellos poblados que tengan más de mil habitantes, y menos de cinco mil; así como Subagencias Municipales, en los de menos de mil habitantes. El acuerdo del cabildo determinará los límites jurisdiccionales de cada Agencia y Subagencia.
+
+> <small>(REFORMADO, P.O. 11 DE AGOSTO DE 2011)</small>
 
 ###### Artículo 52.
 
-Los Agentes y Subagentes serán nombrados por el Ayuntamiento en el primer año de su gestión, durarán en su cargo el mismo período del Ayuntamiento que los designó, y deberán tener su residencia en el poblado que corresponda que no será menos de 6 meses, inmediatamente anteriores a la fecha de su nombramiento, asimismo, podrá removerlos por causa justificada.
+Son atribuciones de los Agentes y Subagentes Municipales las siguientes:
+
+I. Cumplir y hacer cumplir las disposiciones legales dentro de la esfera de su competencia.
+
+II. Ejecutar las resoluciones del Ayuntamiento en su correspondiente circunscripción territorial.
+
+III. Informar al Ayuntamiento de todos los asuntos relacionados con su cargo.
+
+IV. Vigilar, mantener y restablecer la tranquilidad, la seguridad y la salubridad pública.
+
+V. Cumplir con las disposiciones relativas al registro del estado civil de las personas.
+
+VI. Practicar en los lugares donde no haya Juez Municipal, rural o Agentes del Ministerio Público, las primeras diligencias de averiguación previa en los casos de conductas que pudieren configurar algún delito, y procurar la captura en caso de flagrancia de los presuntos responsables; y hacer del conocimiento de la agencia del Ministerio Público del Distrito Judicial que corresponda en un término no mayor de 24 horas.
+
+VII. Coadyuvar con las autoridades judiciales, cuando sean requeridos.
+
+VIII. Promover el mejoramiento y el establecimiento de nuevos servicios públicos.
+
+IX. Llevar el registro en que los vecinos manifestarán sus propiedades, industrias, profesión u ocupación, haciéndolo del conocimiento del Ayuntamiento.
+
+X. Actuar como conciliadores en los conflictos que se les presentaren.
+
+XI. Coadyuvar con las autoridades Federales, Estatales y Municipales en el desempeño de sus atribuciones;
+
+XII. Colaborar en las campañas de salubridad, alfabetización y en todas aquellas que sean para beneficio de la comunidad.
+
+XIII. Promover en general el bienestar de la comunidad.
+
+XIV. Las demás que le señale esta Ley y su reglamento.
+
+> <small>(REFORMADO, P.O. 11 DE AGOSTO DE 2011)</small>
 
 ###### Artículo 53.
 
-Son atribuciones de los Agentes y Subagentes Municipales las siguientes:
+En las zonas urbanas distintas a la cabecera municipal, que tengan más de seis mil quinientos habitantes, así como en las Ciudades Rurales Sustentables establecidas en localidad distinta a la cabecera municipal, se podrán establecer Delegaciones Municipales. La declaratoria la hará el Congreso del Estado, a través del Decreto correspondiente, a propuesta de los Ayuntamientos.
 
-I.- Cumplir y hacer cumplir las disposiciones legales dentro de la esfera de su competencia;
+Las Delegaciones Municipales son órganos auxiliares de los Ayuntamientos, desconcentrados de la Administración Pública Municipal, con autonomía técnica, administrativa y de gestión, con un presupuesto específico que será determinado dentro del presupuesto de egresos del Municipio de que se trate, cuyos objetivos son acercar los servicios municipales a la población, para administrarlos con eficiencia y eficacia, así como el de propiciar la participación de los habitantes en los asuntos de interés para su comunidad en particular, y municipales en lo general.
 
-II.- Ejecutar las resoluciones del ayuntamiento en su correspondiente circunscripción territorial;
+Los recursos asignados a una Delegación Municipal podrán ser utilizados de manera concertada con aquéllos que para determinados proyectos, destine el Estado o la Federación, previo acuerdo del Cabildo.
 
-III.- Informar al ayuntamiento de todos los asuntos relacionados con su cargo;
+Las Delegaciones Municipales, como órganos desconcentrados, estarán subordinados al Ayuntamiento del Municipio del que formen parte, sujetos a la coordinación con las dependencias y entidades de la Administración Pública Municipal, en aquellas facultades administrativas que desarrollen dentro de su esfera competencial.
 
-IV.- Vigilar, mantener y restablecer la tranquilidad, la seguridad y la salubridad pública;
+La actuación, atribuciones y reglas para la elección de los Delegados Municipales, se regularán en términos de lo previsto en esta Ley, el Código de Elecciones y Participación Ciudadana, y el reglamento o bando que al efecto expida el Ayuntamiento al que pertenezcan. El proceso de elección del Delegado Municipal, estará a cargo del Instituto de Elecciones y Participación Ciudadana.
 
-V.- Cumplir con las disposiciones relativas al registro del estado civil de las personas;
+Para constituir una Delegación Municipal, es necesario que se reúnan los siguientes requisitos:
 
-VI.- Practicar en los lugares donde no haya Juez Municipal, rural o Agentes del Ministerio Público, las primeras diligencias de averiguación previa en los casos de conductas que pudieren configurar algún delito, y procurar la captura en caso de flagrancia de los presuntos responsables; y hacer del conocimiento de la agencia del Ministerio Público del Distrito Judicial que corresponda en un término no mayor de 24 horas;
+I. Que la comunidad cuente con más de seis mil quinientos habitantes en un núcleo urbano, y sea distinta a la cabecera municipal, o que se trate de una Ciudad Rural Sustentable.
 
-VII.- Coadyuvar con las autoridades judiciales, cuando sean requeridos;
+II. Acreditar que se cuenta con la capacidad suficiente para prestar los servicios municipales.
 
-VIII.- Promover el mejoramiento y el establecimiento de nuevos servicios públicos;
+Tratándose de Ciudades rurales Sustentables, el requisito a que se refiere el párrafo anterior se tendrá por cumplimentado, con los documentos que conforman el expediente de creación de la Ciudad Rural de que se trate.
 
-IX.- Llevar el registro en que los vecinos manifestarán sus propiedades, industrias, profesión u ocupación, haciéndolo del conocimiento del ayuntamiento;
+III. Que exista la disponibilidad presupuestaria y material inmediata, a fin que el Ayuntamiento cuente con un inmueble para la instalación de la Delegación Municipal o un terreno para la edificación de la misma.
 
-X.- Actuar como conciliadores en los conflictos que se les presentaren;
+IV. En su caso, que exista la disponibilidad presupuestaria y material inmediata, a fin que el Ayuntamiento cuente con una porción de terreno amplia, para destinarla a cementerio que cumpla con la normatividad sanitaria y de impacto ambiental.
 
-XI.- Coadyuvar con las autoridades Federales, Estatales y Municipales en el desempeño de sus atribuciones;
+> <small>(ADICIONADO, P.O. 11 DE AGOSTO DE 2011)</small>
 
-XII.- Colaborar en las campañas de salubridad, alfabetización y en todas aquellas que sean para beneficio de la comunidad;
+###### Artículo 53 Bis.
 
-XIII.- Promover en general el bienestar de la comunidad;
+La propuesta de creación de una Delegación Municipal que realice el Ayuntamiento del Municipio que corresponda, deberá de contener los motivos y razones que justifiquen la creación de tal órgano, así como la forma en la que se deberá elegir al Delegado Municipal; la propuesta deberá de ir acompañada de la documentación con la que se acrediten los requisitos señalados en el artículo anterior.
 
-XIV.- Las demás que le señale esta Ley y su reglamento.
+Los habitantes de un determinado centro de población podrán solicitar al Ayuntamiento del municipio de que se trate, que presente al Congreso del Estado, la propuesta de una Delegación Municipal. Dicha solicitud será vinculante para aquél, siempre que se reúnan las siguientes condiciones:
+
+I. La solicitud deberá ir firmada por al menos el 20% de los habitantes de la comunidad, acompañando copia de su credencial para votar o, en su caso, copia del comprobante de su inscripción en el padrón de contribuyentes municipal respectivo.
+
+II. Se expresen los motivos y razones por las cuales se solicita la creación de la Delegación Municipal, como órgano de representación poblacional.
+
+III. La mención expresa que habrán de sujetarse a las disposiciones aplicables, para elegir al Delegado Municipal, ya sea por voto libre y secreto, o por el sistema de usos y costumbres.
+
+IV. Se razone la viabilidad de reunir los requisitos establecidos en el artículo anterior.
+
+De no reunirse el mínimo de firmas al que se refiere la fracción I, quedará a facultad del Ayuntamiento realizar la propuesta de creación. De no acreditarse el cumplimiento de los requisitos a los que hace referencia la fracción III, la solicitud se desechará de plano.
+
+> <small>(ADICIONADO, P.O. 11 DE AGOSTO DE 2011)</small>
+
+###### Artículo 53 Ter.
+
+Las Delegaciones Municipales actuarán en sus respectivas circunscripciones como representantes de los Ayuntamientos y por consiguiente, tendrán de manera delegada las atribuciones que le sean necesarias para administrar los servicios municipales, así como para mantener en términos de esta ley el orden, la tranquilidad y la seguridad de los vecinos del lugar de su jurisdicción.
+
+Cada Delegación Municipal se integrará con un Delegado Municipal, quien durará en su encargo dos años. Su elección será mediante voto popular o por el sistema de usos y costumbres, en términos del decreto de creación y acorde a lo dispuesto por la Constitución Política del Estado. El Delegado Municipal no podrá ser candidato para ocupar un cargo de elección popular en el ayuntamiento, en la elección próxima inmediata a la conclusión de su periodo.
+
+El proceso de elección del Delegado Municipal estará a cargo del Instituto de Elecciones y participación Ciudadana, y se regulará mínimamente conforme las siguientes bases:
+
+I. La elección será organizada por el Instituto de Elecciones y Participación Ciudadana, auxiliado por el respectivo Ayuntamiento.
+
+II. La fecha de la elección no podrá coincidir con la de las elecciones de los Poderes Estatales y miembros de los Ayuntamientos; preferentemente se considerará que el Delegado Municipal tome posesión de su cargo al menos dentro de los tres meses siguientes a la elección del respectivo Ayuntamiento.
+
+III. En los procesos de elección del Delegado Municipal, no podrán participar los partidos políticos.
+
+IV. El Consejo General del Instituto de Elecciones y Participación Ciudadana, determinará las formas y procedimientos por los que se elegirán Delegados Municipales mediante el sistema de usos y costumbres.
+
+V. El referido Consejo General, expedirá la convocatoria para elegir a los Delegados Municipales por voto universal, libre, secreto, personal y directo, treinta días antes de la fecha señalada para la elección.
+
+VI. Los Delegados Municipales electos de acuerdo al sistema de usos y costumbres de la comunidad que los elija, se acreditarán ante el Ayuntamiento que corresponda mediante el acta de la asamblea de la población, a la que invariablemente deberá asistir un representante del Instituto de Elecciones y Participación Ciudadana y del Ayuntamiento respectivo, quienes comunicarán a este último los resultados obtenidos en la elección correspondiente.
+
+VII. Las controversias que surjan con motivo de la elección de Delegados Municipales, incluido sus resultados y calificación, serán resueltas por el Tribunal de Justicia Electoral y Administrativa.
+
+> <small>(ADICIONADO, P.O. 11 DE AGOSTO DE 2011)</small>
+
+###### Artículo 53 Quater.
+
+Las Delegaciones Municipales, por conducto de sus Delegados Municipales, darán cuenta de los asuntos de su respectiva competencia al Ayuntamiento al que pertenezcan, y si éste lo estima necesario, indicará lo haga en una de las sesiones del Cabildo, a efecto de informar personalmente.
+
+Si el asunto tuviere carácter de urgente, podrán informar de él al Presidente Municipal, quien en todo caso, informará y convocará al Ayuntamiento para la atención que corresponda.
+
+Las facultades y obligaciones de las Delegaciones Municipales, así como su organización y funcionamiento serán establecidas por el reglamento o bando municipal que al efecto expida el Ayuntamiento del que dependa.
+
+En todo caso, las atribuciones deberán comprender las siguientes:
+
+I. Cumplir y hacer cumplir la Constitución Política de los Estados Unidos Mexicanos, la Particular del Estado, leyes federales y estatales, así como los bandos y reglamentos municipales, además de los acuerdos que dicte el Ayuntamiento al que corresponda.
+
+II. Cuidar dentro de su jurisdicción, del orden, de la seguridad de las personas y de sus intereses.
+
+III. Elaborar, auxiliados de los consejos de participación ciudadana, el programa de obras a realizar dentro de su comunidad.
+
+IV. Previa aprobación que haga el Ayuntamiento respectivo al plan de trabajo, promover la construcción de obras de utilidad pública y de interés social, así como la conservación de las existentes.
+
+V. Rendir mensualmente al Ayuntamiento, las cuentas o el movimiento de fondos de la propia Delegación Municipal, entregando copia de la misma a la Contraloría Municipal.
+
+VI. Imponer las sanciones a que se refieran los reglamentos o bandos de policía y buen gobierno, así como las demás leyes y decretos aplicables, procediendo al cobro de multas a través de la oficina recaudadora correspondiente.
+
+VII. Elaborar de manera conjunta con la Tesorería Municipal, el padrón de contribuyentes de ingresos municipales de su jurisdicción.
+
+VIII. Previo convenio con la Tesorería Municipal, realizar el cobro y la administración del impuesto predial en la jurisdicción de la comunidad que le corresponda, enterando los importes recaudados a esa autoridad fiscal.
+
+IX. Vigilar las funciones del encargado del registro civil, llevando a cabo tales actos exclusivamente dentro de los límites de la jurisdicción que tenga señalado.
+
+X. Representar al Ayuntamiento y al Presidente Municipal, ante la población de la jurisdicción de la Delegación Municipal.
+
+XI. Informar mensualmente al Presidente Municipal de lo que suceda en la población a su cargo.
+
+XII. Orientar a los particulares sobre las vías legales que puedan utilizar para resolver sus conflictos.
+
+XIII. Realizar las actividades que le corresponda, buscando en todo momento satisfacer las necesidades de la comunidad.
+
+XIV. Auxiliar a las autoridades federales, del Estado y municipales, en el desempeño de sus atribuciones.
+
+XV. Impedir que se expendan bebidas alcohólicas en contravención a las leyes y reglamentos aplicables.
+
+XVI. Promover la participación y la cooperación de sus vecinos en programas de beneficio comunitario, así como en los asuntos de interés comunal y municipal.
+
+XVII. Integrar y administrar la comisión de agua potable, de servicio de limpia y aseo público, de alumbrado público y en general, de todas aquellas que sean necesarias para el beneficio de la comunidad que representan.
+
+XVIII. Proporcionar, cuando así les sea delegado y autorizado por el Ayuntamiento, los servicios públicos necesarios, a las comunidades dentro de su jurisdicción comunal.
+
+XIX. Administrar, previa autorización de la instancia municipal correspondiente, el panteón de su comunidad.
+
+XX. Regular la instalación y funcionamiento de los comerciantes no establecidos, dentro de su comunidad, en coordinación con las autoridades del Ayuntamiento.
+
+XXI. Las demás que señalen el reglamento o bando respectivo y demás acuerdos municipales.
+
+> <small>(REFORMADO, P.O. 11 DE AGOSTO DE 2011)</small>
 
 ###### Artículo 54.
 
-Los ayuntamientos, a propuesta del Presidente Municipal, deberán crear Agencias Municipales en aquellos poblados que tengan más de mil habitantes, y menos de cinco mil; así como Subagencias Municipales, en los de menos de mil habitantes. El acuerdo del cabildo determinará los límites jurisdiccionales de cada Agencia y Subagencia.
+El Delegado Municipal acudirá a las sesiones de cabildo, representando a la población de su comunidad, con derecho a voz, y únicamente podrá participar en los asuntos relativos a ésta.
+
+Las controversias que pudiesen surgir entre una Delegación Municipal con su Ayuntamiento, serán resueltas por el Congreso del Estado.
+
+En la sede de las Delegaciones Municipales, se establecerán por lo menos un juzgado municipal, una Fiscalía del Ministerio Público, una oficina del Registro Civil y oficinas recaudadoras estatal y municipal, de conformidad con la legislación respectiva.
+
+Para el cumplimiento de las atribuciones señaladas en el artículo 53 Quater, el Delegado Municipal contará con los siguientes órganos auxiliares:
+
+a) Un Subdelegado de Administración.
+
+b) Un Subdelegado de Servicios.
+
+c) Un Subdelegado de Obras Públicas.
+
+d) Un Subdelegado de Seguridad y Protección Civil.
+
+El Delegado Municipal y los Subdelegados serán responsables administrativa y penalmente de los actos y omisiones en que incurran en el desempeño de sus funciones, así como ante los órganos de fiscalización por la ejecución de los recursos que se les asignen.
 
 ## Título III. Regimen Administrativo
 
@@ -1463,6 +1627,10 @@ Corresponde al Ayuntamiento, previo acuerdo del Congreso del Estado, administrar
 
 Los Ayuntamientos, de acuerdo con la Ley General de Asentamientos Humanos, concurrirán con los Gobiernos del Estado y de la Federación, en la ordenación y regulación de los asentamientos humanos, en base a los Planes Nacional, Estatal y Municipal de Desarrollo Urbano y en el de ordenación de las zonas conurbadas, proveyendo en la esfera de su competencia, lo necesario para la elaboración y cumplimiento de dichos planes, así como al cumplimiento de las disposiciones de la Ley General de Asentamientos Humanos y de la Ley de Desarrollo Urbano del Estado de Chiapas.
 
+> <small>(ADICIONADO, P.O. 11 DE AGOSTO DE 2011)</small>
+
+El ayuntamiento Municipal, para autorizar la creación de un centro de población, observará que éste cumpla con los requisitos establecidos en su reglamento de construcción y normas técnicas de las mismas; así mismo dicho proyecto obligatoriamente deberá contar con el dictamen de protección civil emitido por el Instituto de Protección Civil para el Manejo Integral de Riesgos de Desastres del Estado de Chiapas, instancia facultada y responsable de operar el Sistema Estatal de Protección Civil, también reconocida bajo su carácter de Unidad Estatal.
+
 ###### Artículo 96.
 
 Para la planeación y ordenación de los asentamientos humanos, de conformidad con la Ley de Desarrollo Urbano del Estado, los ayuntamientos tendrán las siguientes atribuciones:
@@ -1550,6 +1718,10 @@ III.- El sistema adecuado para evaluar las acciones del plan general, así como 
 ###### Artículo 100.
 
 Formulados por los ayuntamientos los planes municipales, se remitirán a la instancia correspondiente del Ejecutivo del Estado, y, se publicarán y registrarán en los términos de la Ley de Desarrollo Urbano del Estado.
+
+> <small>(ADICIONADO, P.O. 11 DE AGOSTO DE 2011)</small>
+
+Los planes de desarrollo urbano de los Ayuntamientos Municipales, están obligados a observar y cumplir con los parámetros e índices establecidos en el Atlas Estatal y Municipal de Peligros.
 
 ###### Artículo 101.
 
@@ -2278,3 +2450,13 @@ P.O. 5 DE NOVIEMBRE DE 2010.
 Artículo Primero.- El presente Decreto entrará en vigor al siguiente día de su publicación en el Periódico Oficial del Estado.
 
 Artículo Segundo.- Se derogan todas las disposiciones legales que contravengan lo dispuesto en este Decreto.
+
+P.O. 11 DE AGOSTO DE 2011.
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Para los efectos de la implementación de planes de tratamiento de aguas residuales y relleno sanitario, a que se refiere la fracción LXXI, del artículo 36 de la Ley Orgánica Municipal del Estado de Chiapas, se estará a lo dispuesto en las disposiciones transitorias del Decreto número 280, publicado en el Periódico Oficial número 316 de fecha 25 de julio de 2011.
+
+Artículo Tercero.- Se derogan las disposiciones que se opongan al presente Decreto.
+
+Artículo Cuarto.- Los Ayuntamientos llevarán a cabo las acciones necesarias para el debido cumplimiento del presente Decreto.
