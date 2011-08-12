@@ -4,7 +4,7 @@ identifier: "GUA-ley-del-proceso-penal-para-el-estado-de-guanajuato-76480"
 country: "mx"
 rank: "ley"
 publication_date: "2010-09-03"
-last_updated: "2011-06-17"
+last_updated: "2011-08-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76480&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,11 +23,9 @@ state: "GUA"
 
 LEY DEL PROCESO PENAL PARA EL ESTADO DE GUANAJUATO
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO, VEASE ARTICULO PRIMERO DEL DECRETO NUMERO 160 PUBLICADO EN EL P.O. DE 15 DE ABRIL DE 2011 Y LA FE DE ERRATAS PUBLICADA EN EL P.O. DE 17 DE JUNIO DE 2011, LOS ARTICULOS DE ESTE ORDENAMIENTO QUE RESULTEN INDISPENSABLES PARA LA DEBIDA APLICACION DE LA LEY DE EJECUCION DE MEDIDAS JUDICIALES Y SANCIONES PENALES DEL ESTADO DE GUANAJUATO, ENTRARAN EN VIGOR EL DIA DIECIOCHO DE JUNIO DE DOS MIL ONCE.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO, VÉASE ARTICULO PRIMERO DEL DECRETO NÚMERO 160 PUBLICADO EN EL P.O. DE 15 DE ABRIL DE 2011 Y LA FE DE ERRATAS PUBLICADA EN EL P.O. DE 17 DE JUNIO DE 2011, LOS ARTÍCULOS DE ESTE ORDENAMIENTO QUE RESULTEN INDISPENSABLES PARA LA DEBIDA APLICACIÓN DE LA LEY DE EJECUCIÓN DE MEDIDAS JUDICIALES Y SANCIONES PENALES DEL ESTADO DE GUANAJUATO, ENTRARÁN EN VIGOR EL DÍA DIECIOCHO DE JUNIO DE DOS MIL ONCE.</small>
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE ABRIL DE 2011.
-
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIODICO OFICIAL DEL 17 DE JUNIO DE 2011.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE AGOSTO DE 2011.
 
 Ley publicada en la Tercera Parte al Periódico Oficial del Estado de Guanajuato, el viernes 3 de septiembre de 2010.
 
@@ -495,7 +493,9 @@ III. Prestar el auxilio urgente que requieran las víctimas u ofendidos;
 
 IV. Proteger a testigos y peritos;
 
-V. Cuidar que los rastros e instrumentos del delito sean conservados. Para este efecto, impedirán el acceso a toda persona ajena a las diligencias de recopilación de información y procederá a la clausura, si se trata de local cerrado, o a su aislamiento, si se trata de lugar abierto. Evitará que se alteren o borren de cualquier forma los rastros o vestigios del hecho o se remuevan los instrumentos usados para llevarlo a cabo, mientras no interviniere personal experto;
+> <small>(REFORMADA, P.O. 12 DE AGOSTO DE 2011)</small>
+
+V. Cuidar que los rastros e instrumentos del delito sean conservados. Para este efecto, impedirán el acceso a toda persona ajena a las diligencias de recopilación de información y procederá a la clausura, si se trata de local cerrado, o a su aislamiento, si se trata de lugar abierto. Evitará que se alteren o borren de cualquier forma los rastros o vestigios del hecho o se remuevan los instrumentos usados para llevarlo a cabo mientras no interviniere personal experto y cuando tengan autorización por la Procuraduría General de Justicia del Estado, los recolectará, embalará y etiquetará observando la cadena de custodia;
 
 VI. Entrevistar a los testigos presumiblemente útiles para descubrir la verdad. Cuando los testigos sean menores de edad, deberán estar acompañados por quienes ejerzan la patria potestad, custodia o tutela, salvo que éstos no pudieren estar presentes, en cuyo caso estarán acompañados por una institución pública de asistencia familiar o de derechos humanos. Las entrevistas se harán constar en un registro de las diligencias policiales efectuadas;
 
@@ -611,7 +611,9 @@ I. Que se presuma su inocencia;
 
 II. Conocer los hechos que se le imputan, los derechos que le asisten y, en su caso, el motivo de su privación de libertad, así como el servidor público que la ordenó, exhibiéndole, según corresponda, la orden emitida en su contra, así como su derecho a no auto incriminarse, y a declarar o guardar silencio, el cual no podrá ser utilizado en su perjuicio;
 
-III. Obtener su libertad, en el caso de detención en flagrancia y cuando el Ministerio Público no pretenda solicitar prisión preventiva, sin perjuicio de que pueda fijarle una caución, conforme a lo previsto a la medida cautelar consistente en garantía económica, a fin de asegurar su comparecencia ante el juez;
+> <small>(REFORMADA, P.O. 12 DE AGOSTO DE 2011)</small>
+
+III. Obtener su libertad, en el caso de detención en flagrancia y cuando el Ministerio Público no pretenda solicitar prisión preventiva, sin perjuicio de que pueda fijarle una caución, conforme a lo previsto a la medida cautelar consistente en garantía económica, a fin de asegurar su comparecencia ante el juez y la reparación del daño;
 
 IV. Tener una comunicación inmediata y efectiva con la persona, asociación, agrupación o entidad que desee;
 
@@ -631,7 +633,9 @@ XI. Entrevistarse con su defensor previamente a declarar y a que el mismo o en s
 
 XII. No ser sometido a técnicas ni métodos que induzcan o alteren su libre voluntad o atenten contra su dignidad;
 
-XIII. No se utilicen, en su contra, medios que impidan su libre movimiento en el lugar y durante la realización de un acto procesal, sin perjuicio de las medidas de vigilancia que, en casos especiales, estime ordenar el tribunal o el Ministerio Público; y
+> <small>(REFORMADA, P.O. 12 DE AGOSTO DE 2011)</small>
+
+XIII. No se utilicen, en su contra, medios que impidan su libre movimiento en el lugar y durante la realización de un acto procesal, sin perjuicio de las medidas que resulten necesarias para la seguridad y vigilancia que, en casos especiales, estime ordenar el tribunal o el Ministerio Público; y
 
 XIV. Ser juzgado en audiencia pública antes de cuatro meses cuando se trate de delitos cuya pena máxima no exceda de dos años de prisión, y antes de un año si excediere de ese tiempo, salvo que solicite mayor plazo para su defensa.
 
@@ -1357,7 +1361,9 @@ IX. Cuando tenga amistad o enemistad manifiestas con alguno de los interesados;
 
 X. Si él, su cónyuge, concubina, concubinario, padres, hijos u otras personas que vivan a su cargo, hubieran recibido o reciban beneficios de alguno de los interesados o si él hubiera recibido presentes o dádivas;
 
-XI. Cuando en la causa hubiera intervenido o intervenga, como juez, testigo o perito su cónyuge, concubina, concubinario o algún pariente suyo dentro del segundo grado de consanguinidad; y
+> <small>(REFORMADA, P.O. 12 DE AGOSTO DE 2011)</small>
+
+XI. Cuando en la causa hubiere intervenido o intervenga su cónyuge, concubina, concubinario o algún pariente suyo dentro del segundo grado de consanguinidad, como juez, Ministerio Público, defensor, testigo o perito; y
 
 XII. Por cualquier otra causa, debidamente expresada, que afecte o pudiera afectar su imparcialidad.
 
@@ -1457,7 +1463,9 @@ I. Tratándose de delitos no graves cuya punibilidad no exceda del término medi
 
 II. El inculpado haya sufrido, a consecuencia del hecho, daño físico o psíquico grave que torne desproporcionada la aplicación de una consecuencia jurídica del delito, o cuando en ocasión de un hecho culposo haya sufrido un daño moral de difícil reparación;
 
-III. Cuando el inculpado colabore eficazmente con la investigación del hecho que se averigua u otros conexos, siempre que el hecho que motiva la acción penal de la cual se prescinde total o parcialmente, resulte más leve que aquel cuya investigación o persecución facilita o cuya continuación evita. No podrá aplicarse este criterio de oportunidad tratándose de los delitos de homicidio calificado, secuestro, violación, tráfico de menores, corrupción de menores e incapaces, prostitución de menores, trata de personas, terrorismo y tortura, calificados como graves en el Código Penal para el Estado de Guanajuato, salvo que permita preservar la vida o la libertad de la víctima; y
+> <small>(REFORMADA, P.O. 12 DE AGOSTO DE 2011)</small>
+
+III. Cuando el inculpado colabore eficazmente con la investigación del hecho que se averigua u otros conexos, siempre que el hecho que motiva la acción penal de la cual se prescinde total o parcialmente, resulte más leve que aquel cuya investigación o persecución facilita o cuya continuación evita. No podrá aplicarse este criterio de oportunidad tratándose de los delitos de homicidio calificado, feminicidio, secuestro, violación, tráfico de menores, corrupción de menores e incapaces, prostitución de menores, trata de personas, terrorismo y tortura, calificados como graves en el Código Penal del Estado de Guanajuato, salvo que permita preservar la vida o la libertad de la víctima; y
 
 IV. El inculpado tenga ochenta o más años de edad o su estado de salud sea precario, por lo que fuere notoriamente innecesaria e irracional la imposición de una pena privativa o restrictiva de libertad o medida de seguridad.
 
@@ -2039,9 +2047,13 @@ Prisión preventiva
 
 Sólo por delito que merezca pena privativa de libertad habrá lugar a prisión preventiva, la cual podrá ser decretada oficiosamente o a solicitud del Ministerio Público.
 
-Cuando el Ministerio Público no pretenda solicitar prisión preventiva y, en caso de detención en flagrancia, decretará la libertad del detenido, sin perjuicio de que pueda fijarle una caución, conforme a lo previsto a la medida cautelar consistente en garantía económica, a fin de asegurar su comparecencia ante el juez.
+> <small>(REFORMADO, P.O. 12 DE AGOSTO DE 2011)</small>
 
-El Juez de Control ordenará oficiosamente la prisión preventiva en los casos de homicidio doloso, violación, secuestro, delitos graves cometidos con medios violentos como armas y explosivos, además de corrupción de menores e incapaces, prostitución de menores y otros delitos contra la salud personal o pública, cuando estos últimos sean considerados como graves.
+Cuando el Ministerio Público no pretenda solicitar prisión preventiva y, en caso de detención en flagrancia, decretará la libertad del detenido, sin perjuicio de que pueda fijarle una caución, conforme a lo previsto a la medida cautelar consistente en garantía económica, a fin de asegurar su comparecencia ante el Juez y la reparación del daño.
+
+> <small>(REFORMADO, P.O. 12 DE AGOSTO DE 2011)</small>
+
+El Juez de Control ordenará oficiosamente la prisión preventiva en los casos de homicidio doloso, feminicidio, violación, secuestro, delitos graves cometidos con medios violentos como armas y explosivos, además de trata de personas, corrupción de menores e incapaces, prostitución de menores y otros delitos contra la salud personal o pública, cuando estos últimos sean considerados como graves.
 
 Sólo el Ministerio Público podrá solicitar la prisión preventiva cuando los hechos materia de investigación puedan ser encuadrables en delitos sancionados con pena privativa de libertad y otras medidas cautelares sean insuficientes para garantizar la comparecencia del inculpado en el juicio, el desarrollo de la investigación, la protección de la víctima, el ofendido o de sus familiares, de los testigos o de la comunidad, así como cuando el inculpado esté siendo procesado o haya sido sentenciado previamente por la comisión de un delito doloso.
 
@@ -2219,9 +2231,11 @@ No se practicará el embargo precautorio decretado, si en el acto de la diligenc
 
 Impugnación de la resolución sobre el embargo precautorio
 
+> <small>(REFORMADO, P.O. 12 DE AGOSTO DE 2011)</small>
+
 ###### Artículo 201.
 
-La decisión que niegue otorgar, sustituir o modificar el embargo precautorio y la que ordene su cancelación son apelables, la que lo decrete es irrecurrible.
+La decisión que niegue otorgar, sustituir o modificar el embargo precautorio y la que ordene su cancelación son apelables.
 
 Competencia para decretar embargo precautorio
 
@@ -2375,6 +2389,10 @@ En estos casos, cualquier persona podrá practicar la detención e impedir que e
 
 De lo contrario, de encontrarse la detención apegada a derecho decretará la retención.
 
+> <small>(ADICIONADO, P.O. 12 DE AGOSTO DE 2011)</small>
+
+La retención no podrá exceder de cuarenta y ocho horas, plazo en el cual se ordenará la libertad del retenido o se le pondrá a disposición de la autoridad judicial competente. Cuando el Ministerio Público no pretenda solicitar prisión preventiva en contra del retenido en flagrancia, será aplicable lo dispuesto por la fracción III del artículo 51 de esta ley.
+
 Información de derechos y registro de la detención
 
 ###### Artículo 218.
@@ -2495,15 +2513,15 @@ La información recabada por el Ministerio Público no podrá ser presentada com
 
 Facultad para solicitar la práctica de diligencias durante la investigación
 
+> <small>(REFORMADO, P.O. 12 DE AGOSTO DE 2011)</small>
+
 ###### Artículo 229.
 
-Durante la investigación, el inculpado, su defensor, la víctima u ofendido podrán solicitar al Ministerio Público la práctica de las diligencias que consideren pertinentes y útiles para el esclarecimiento de los hechos. El Ministerio Público ordenará que se lleven a cabo aquellas que considere conducentes.
+Durante la investigación, el inculpado, su defensor, la victima u ofendido podrán solicitar al Ministerio Público la práctica de las diligencias que consideren pertinentes y útiles para el esclarecimiento de los hechos, el cual ordenará que se lleven a cabo aquellas que considere conducentes.
 
-En caso de que el Ministerio Público rechace la petición, el solicitante podrá reclamar por escrito, ante el superior jerárquico inmediato del rechazante, para que en el ámbito administrativo emita un pronunciamiento definitivo sobre el rechazo.
+El inculpado, su defensor, la víctima u ofendido podrán solicitar al Ministerio Público que permita que los peritos que ellos propongan examinen los objetos, documentos o lugares que requieran para la práctica de su peritación.
 
-El Ministerio Público deberá permitir la asistencia del inculpado, su defensor, la víctima u ofendido a las actuaciones o diligencias que no estén reservadas ni tengan carácter secreto.
-
-Durante la investigación, el inculpado, su defensor, la víctima u ofendido podrán solicitar al Juez de Control competente que dicte las instrucciones para que sus peritos puedan examinar los objetos, documentos o lugares que requieran para la práctica de su peritación.
+En caso de que se rechace la petición, el solicitante podrá reclamar por escrito, ante el superior jerárquico inmediato del rechazante, para que en el ámbito administrativo emita un pronunciamiento definitivo sobre el rechazo.
 
 Citación al inculpado y a su defensor para la realización de diligencias en la investigación
 
@@ -2581,11 +2599,15 @@ Medidas de vigilancia previas a la emisión de la orden de cateo
 
 Aun antes de que el juez competente dicte la orden de cateo, el Ministerio Público podrá disponer las medidas de vigilancia que estime convenientes para evitar la fuga del inculpado o la sustracción de documentos o cosas que constituyen el objeto de la diligencia.
 
-Casos especiales de ingreso a lugar cerrado sin orden judicial
+> <small>(REFORMADO, P.O. 12 DE AGOSTO DE 2011)</small>
+
+Casos especiales de ingreso a lugar cerrado
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE AGOSTO DE 2011)</small>
 
 ###### Artículo 237.
 
-Las policías, bajo su responsabilidad, podrán ingresar a un lugar cerrado sin orden judicial cuando tengan conocimiento fundado que en dicho lugar se esté cometiendo un delito, o la persona que sea objeto de persecución se introduzca en él.
+Las policías, bajo su responsabilidad, podrán ingresar a un lugar cerrado para cumplimentar una orden de aprehensión o sin ella en caso de flagrancia, siempre que el inculpado esté siendo materialmente perseguido y se introduzca en él, o cuando se tenga conocimiento fundado en datos objetivos de que la vida o la integridad de los ocupantes de ese lugar están en peligro.
 
 Los motivos que determinaron el ingreso sin orden judicial de cateo, constarán detalladamente en el informe que levante la autoridad que practique el ingreso.
 
@@ -2615,19 +2637,25 @@ Antes de proceder a la inspección, deberá advertirse a la persona, salvo que s
 
 Las inspecciones que afecten el pudor de las personas deberán realizarse preferentemente en un recinto que resguarde de forma adecuada la privacidad de la misma, y se realizarán por personas del mismo sexo que el de la persona inspeccionada. En ningún caso estas inspecciones permitirán desnudar totalmente a una persona.
 
-De lo actuado se dejará constancia en un acta.
+> <small>(REFORMADO, P.O. 12 DE AGOSTO DE 2011)</small>
+
+De lo actuado se dejará constancia en el informe policial.
 
 Revisión corporal del inculpado y examen del ofendido
 
+> <small>(REFORMADO, P.O. 12 DE AGOSTO DE 2011)</small>
+
 ###### Artículo 241.
 
-En los casos de sospecha fundada o de estricta necesidad, el Ministerio Público encargado de la investigación o el Juez de Control, podrán ordenar la inspección corporal del inculpado y en tal caso, cuidarán que se respete su pudor.
+En los casos de sospecha fundada, de estricta necesidad, o cuando fuere necesario para constatar circunstancias relevantes para la investigación, el Ministerio Público podrá ordenar la inspección corporal del inculpado, de la víctima, del ofendido o de otras personas, en tal caso, cuidará que se respete su pudor y que no se menoscabe su salud ni su integridad física. Para la práctica de esta inspección, se solicitará el consentimiento de la persona objeto de inspección corporal y en caso de otorgarlo, ésta se realizará sin más trámite levantándose acta que podrá ser incorporada por lectura a la audiencia del juicio oral, a solicitud de cualquiera de las partes.
 
-Los exámenes o intervenciones corporales al inculpado podrán realizarse sólo con su consentimiento, obtenido una vez que hubiera sido informado de sus consecuencias legales. En ningún caso se practicarán cuando pudieran menoscabar su salud o su integridad física.
+Ante la negativa de la persona objeto de inspección, o ante la imposibilidad de otorgar su consentimiento, el Ministerio Público solicitará autorización del Juez de Control, quien con audiencia del rehusante o de su representante legal, decidirá lo que proceda, tomando en cuenta la importancia de la inspección en el resultado de la investigación, la naturaleza del hecho punible y la magnitud del ataque al bien jurídico lesionado o puesto en peligro.
 
-En caso de que fuere menester examinar al ofendido u otra persona, el servidor público que esté practicando la investigación le solicitará que preste su consentimiento. De negarse, solicitará la correspondiente autorización al juez competente, exponiéndole las razones en que se hubiere fundado la negativa. El juez concederá audiencia a quien se negó a otorgar el consentimiento y decidirá lo que en derecho corresponda, en la inteligencia de que aquéllos solo podrán ser sometidos a exámenes o intervenciones corporales con su expreso consentimiento.
+Tratándose del inculpado estará presente en la diligencia el defensor particular o en su caso el defensor público.
 
-Al acto sólo podrán asistir además del juez o del Ministerio Público en su caso, y del personal especializado, personas de confianza del examinado. Este derecho se hará del conocimiento del examinado antes de que se practique el examen.
+Tratándose de la víctima o del ofendido, la inspección corporal solo se practicará con su consentimiento otorgado después de haber sido informado de los efectos legales que pudieran producirse con la ausencia de la inspección; en caso de que el ofendido sea incapaz o menor de edad, la autorización será otorgada por su representante legal y en ausencia de éste, por la institución encargada de la protección de sus derechos.
+
+Al acto deberán asistir el Ministerio Público y el personal especializado, quienes de preferencia serán del mismo sexo que la persona inspeccionada. Además podrán asistir en su caso, el Juez que lo autorizó y las personas de confianza del inspeccionado que éste señale después de que se le haya hecho saber este derecho antes de que se practique la inspección.
 
 Inspección de vehículos
 
@@ -2671,11 +2699,33 @@ Actividad complementaria para el peritaje
 
 Si es necesario para efectuar el peritaje, el Ministerio Público podrá ordenar la presentación o el aseguramiento de objetos o documentos, y la comparecencia de otras personas.
 
-Con las limitaciones previstas por esta ley, se podrá requerir al inculpado y a otras personas, que elaboren un escrito, proporcionen una muestra de fluidos corporales, estampen sus huellas digitales, graben su voz o lleven a cabo cualesquiera otras acciones, siempre que resulten determinantes para la investigación. Bajo ningún supuesto podrá ser obligado el inculpado.
+> <small>(REFORMADO, P.O. 12 DE AGOSTO DE 2011)</small>
 
-Cuando la operación sólo pueda ser ejecutada voluntariamente por la persona requerida y no quisiera hacerlo, se dejará constancia de su negativa y el Ministerio Público solicitará al Juez de Control que se ordenen las medidas necesarias tendentes a suplir esa falta de colaboración. El Juez de Control decidirá lo que corresponda con audiencia de los interesados la que se celebrará dentro de las dos horas siguientes a la solicitud.
+Con las limitaciones previstas por esta ley, se podrá requerir al inculpado, a la víctima u ofendido o a otras personas, para que voluntariamente proporcionen una muestra de fluidos corporales, cabello o vellosidad, estampen sus huellas digitales, palmares o plantares, elaboren un escrito, graben su voz o lleven a cabo cualesquiera otras acciones análogas, siempre que resulten determinantes para la investigación y no se ponga en riesgo su salud e integridad física.
 
-Lo examinado será conservado, en lo posible, de modo que el peritaje pueda repetirse.
+> <small>(REFORMADO, P.O. 12 DE AGOSTO DE 2011)</small>
+
+Cuando la persona requerida no quisiere someterse voluntariamente al examen o intervención corporal, o ante lo imposibilidad de otorgar su consentimiento, se dejará constancia de su negativa y el Ministerio Público solicitará al Juez de Control que se ordenen las medidas necesarias tendentes a superar esa falta de colaboración. El Juez de Control decidirá lo que corresponda con audiencia del solicitante y del rehusante o de su representante legal, la que se celebrará dentro de las dos horas siguientes a la solicitud; para resolver se tomará en cuenta la importancia del examen o intervención en el resultado de la investigación, la naturaleza del hecho punible y la magnitud del ataque al bien jurídico tutelado que ha sido lesionado o puesto en peligro.
+
+> <small>(ADICIONADO, P.O. 12 DE AGOSTO DE 2011)</small>
+
+Del acto procesal en donde otorgue el consentimiento de la persona que va a ser objeto de prueba o de la audiencia en donde se escuche al rehusante o a su representante legal y se decida judicialmente lo que proceda para superar su negativa, se levantará acta que podrá ser incorporada por lectura a la audiencia del juicio oral, a solicitud de cualquiera de los partes. Tratándose del inculpado, estará presente el defensor particular o en su caso el defensor público en esos actos.
+
+> <small>(ADICIONADO, P.O. 12 DE AGOSTO DE 2011)</small>
+
+Tratándose del ofendido o de la víctima, el examen o intervención corporal solo se practicará con su consentimiento otorgado después de haber sido informado de los efectos legales que pudieran producirse con la falta del examen o la intervención; en caso de que el ofendido o la víctima sea incapaz o menor de edad, la autorización será otorgada por su representante legal y en ausencia de éste, por la institución encargada de la protección de sus derechos.
+
+> <small>(ADICIONADO, P.O. 12 DE AGOSTO DE 2011)</small>
+
+Al acto deberán asistir el Ministerio Público y el personal especializado, quienes de preferencia serán del mismo sexo que la persona examinada o intervenida corporalmente. Además podrán asistir en su caso, el Juez que lo autorizó y las personas de confianza del examinado o intervenido que éste señale después de que se le haya hecho saber este derecho antes de que se practique el examen o intervención corporal.
+
+> <small>(ADICIONADO, P.O. 12 DE AGOSTO DE 2011)</small>
+
+Tratándose del inculpado estará presente en la diligencia el defensor particular o en su caso el defensor público.
+
+> <small>(REFORMADO, P.O. 12 DE AGOSTO DE 2011)</small>
+
+Lo examinado será conservado, en lo posible de modo que el peritaje pueda repetirse.
 
 Aseguramiento de objetos
 
@@ -2683,11 +2733,17 @@ Aseguramiento de objetos
 
 El juez, el Ministerio Público y la policía, deberán disponer que sean recogidos y conservados los objetos relacionados con el delito, los susceptibles de ser decomisados y aquellos que puedan servir como medios de prueba; cuando sea necesario, ordenarán su aseguramiento.
 
-Quien tuviera en su poder objetos o documentos de los señalados, estará obligado a presentarlos y entregarlos cuando le sea requerido, pudiendo el juez o el Ministerio Público imponer los medios de apremio; pero la orden de presentación no podrá dirigirse contra las personas que puedan o deban abstenerse de declarar como testigos. En casos urgentes, esta medida podrá delegarse por orden del Ministerio Público, bajo su estricta responsabilidad, en un agente policial.
+> <small>(REFORMADO, P.O. 12 DE AGOSTO DE 2011)</small>
+
+Quien tuviera en su poder objetos o documentos de los señalados, estará obligado a presentarlos y entregarlos cuando le sea requerido, pudiendo el juez o el Ministerio Público imponer los medios de apremio; pero la orden de presentación no podrá dirigirse respecto de objetos o documentos sobre los que deba guardarse secreto profesional. En casos urgentes, esta medida podrá delegarse, bajo estricta responsabilidad, en un agente policial.
 
 La administración de los bienes asegurados se realizará de conformidad con la ley de la materia.
 
 El aseguramiento se hará constar en los registros públicos que correspondan, de conformidad con la legislación aplicable.
+
+> <small>(ADICIONADO, P.O. 12 DE AGOSTO DE 2011)</small>
+
+La persona que tuviere en su poder los objetos, documentos o bienes sobre los cuales recaiga el aseguramiento, señalará domicilio en donde se le practiquen las notificaciones de las resoluciones que se asuman en relación con el destino de esos bienes. Una vez señalado, mientras no informe del cambio de dicho domicilio, la notificación por la que se le informe que los bienes están a su disposición, se practicarán legalmente en el domicilio señalado al momento del aseguramiento.
 
 Procedimiento para el aseguramiento
 
@@ -2711,15 +2767,31 @@ Si en cualquier momento del proceso se constata que las cosas aseguradas se encu
 
 Devolución de objetos asegurados
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE AGOSTO DE 2011)</small>
+
 ###### Artículo 251.
 
-Será obligación de las autoridades devolver a la persona legitimada para poseerlos, los objetos asegurados que no sean susceptibles de decomiso, que no estén sujetos a procedimiento de extinción de dominio o que no estén sometidos a restitución o embargo en el procedimiento donde fueron asegurados; la devolución se realizará después de realizadas las diligencias para las cuales se recogieron y aseguraron.
+Será obligación de las autoridades devolver a la persona legitimada para poseerlos, los objetos asegurados que no sean susceptibles de decomiso, que no estén sujetos a procedimiento de extinción de dominio, que no estén sometidos a restitución o embargo en el procedimiento donde fueron asegurados, así como los que fueron puestos o su disposición por cualquier medio legal; la devolución se realizará después de realizadas las diligencias para las cuales se recogieron, aseguraron o pusieron a disposición.
 
-La devolución podrá ordenarse provisionalmente en calidad de depósito judicial y el que los recibe tendrá todas las obligaciones del depositario judicial y las especiales que les señale la autoridad que ordene la devolución.
+> <small>(REFORMADO, P.O. 12 DE AGOSTO DE 2011)</small>
 
-Si existiera controversia acerca de la tenencia, posesión o dominio sobre un objeto o documento, para entregarlo en depósito o devolverlo, el juez resolverá en audiencia a quién asiste mejor derecho para poseer, sin perjuicio de que los interesados plateen (sic) la acción correspondiente en la vía civil. La resolución que recaiga será apelable.
+La devolución podrá ordenarse provisionalmente en calidad de depósito y el que los recibe tendrá todas las obligaciones del depositario y las especiales que les (sic) señale la autoridad que ordene la devolución.
 
-Concluido el proceso, las cosas de uso lícito que no hayan sido decomisadas y que en el plazo de seis meses contados a partir de que la sentencia quede firme, no sean recogidos por quien tenga derecho a ello, se venderán y su producto ingresará al Fondo para la Atención y Apoyo a las Víctimas y a los Ofendidos del Delito del Estado.
+> <small>(REFORMADO, P.O. 12 DE AGOSTO DE 2011)</small>
+
+Si existiera controversia acerca de la tenencia, posesión o dominio sobre un objeto o documento, para entregarlo en depósito o devolverlo, el juez resolverá en audiencia a quién asiste mejor derecho para poseer, sin perjuicio de que los interesados planteen la acción correspondiente en la vía civil. La resolución que recaiga será apelable.
+
+> <small>(REFORMADO, P.O. 12 DE AGOSTO DE 2011)</small>
+
+Las cosas de uso lícito que en el plazo de seis meses contados a partir de que la resolución quede firme, no sean recogidas por quien tenga derecho a ello, se dispondrá de las mismas en los términos de la ley de la materia; en el supuesto de su venta, el producto ingresará al Fondo para la Atención y Apoyo a las Víctimas y a los Ofendidos del Delito del Estado.
+
+> <small>(ADICIONADO, P.O. 12 DE AGOSTO DE 2011)</small>
+
+El plazo de seis meses a que se refiere el párrafo precedente, se computará a partir del día siguiente al en que se notifique a la persona que tenga derecho a la devolución, que ha quedado firme la resolución que ordenó la devolución de los bienes.
+
+> <small>(ADICIONADO, P.O. 12 DE AGOSTO DE 2011)</small>
+
+Si no se tiene señalado domicilio para notificación o se ignora la identidad del que tuviere derecho a la devolución, se hará a través de edictos publicados por dos veces consecutivas en el periódico oficial y un diario con circulación en el Estado.
 
 Cuando se estime conveniente, se dejará constancia de los elementos restituidos o devueltos mediante fotografías u otros medios que resulten adecuados.
 
@@ -2743,9 +2815,13 @@ Aseguramiento de bases de datos
 
 Cuando se aseguren equipos informáticos o datos almacenados en cualquier otro soporte tecnológico, se procederá del modo previsto para los documentos y regirán las mismas limitaciones.
 
-El examen para el análisis y explotación de la información de los objetos, equipos informáticos y demás soportes tecnológicos, se hará bajo la responsabilidad del Ministerio Público que lo haya solicitado o lo haya asegurado.
+> <small>(REFORMADO, P.O. 12 DE AGOSTO DE 2011)</small>
 
-Los objetos o información que no resulten útiles a la investigación o estén comprendidos en las restricciones del aseguramiento, serán devueltos de inmediato a quien legítimamente los requiera y no podrán utilizarse como dato o medio de prueba.
+El análisis y explotación de la información de los objetos, equipos informáticos demás soportes tecnológicos, se hará bajo la responsabilidad del Ministerio Público que lo haya solicitado o los haya asegurado.
+
+> <small>(REFORMADO, P.O. 12 DE AGOSTO DE 2011)</small>
+
+Los objetos o información que no resulten útiles a la investigación o estén comprendidos en las restricciones del aseguramiento, serán devueltos de inmediato a quien legítimamente los requiera.
 
 Interceptación y aseguramiento de comunicaciones privadas
 
@@ -2777,7 +2853,9 @@ La destrucción también será procedente cuando los dispositivos de almacenamie
 
 El auto que resuelva la destrucción de dispositivos de almacenamiento de datos, la transcripción de grabaciones o la fijación de imágenes, es apelable con efecto suspensivo.
 
-En caso que no se formule imputación y esa decisión ministerial quede firme, los dispositivos de almacenamiento de datos se pondrán a disposición del Juez de Control.
+> <small>(REFORMADO, P.O. 12 DE AGOSTO DE 2011)</small>
+
+En caso que no se formule imputación y esa decisión ministerial quede firme, los dispositivos de almacenamiento de datos se pondrán a disposición de la autoridad judicial que hubiere autorizado la intervención.
 
 Los concesionarios, permisionarios y demás titulares de los medios o sistemas susceptibles de intervención en los términos del presente artículo, deberán colaborar eficientemente con la autoridad competente para el desahogo de dichas diligencias, de conformidad con la normatividad aplicable y la orden judicial correspondiente.
 
@@ -2949,7 +3027,7 @@ Orden de aprehensión
 
 El juez, a solicitud del Ministerio Público, puede ordenar la aprehensión de una persona cuando se haya presentado denuncia o querella de un hecho que la ley señale como delito, sancionado con pena privativa de libertad y obren datos que establezcan que se ha cometido ese hecho y que existe la probabilidad de que el inculpado lo cometió o participó en su comisión.
 
-Se entenderá que existe un hecho delictivo, cuando los datos de prueba revelen razonablemente los elementos descritos en el tipo penal.
+> <small>(DEROGADO SEGUNDO PARRAFO, P.O. 12 DE AGOSTO DE 2011)</small>
 
 Orden de reaprehensión
 
@@ -2995,7 +3073,9 @@ III. En caso de que el inculpado haya sido detenido en flagrancia, el Ministerio
 
 Si el juez ratifica la detención, celebrará la audiencia para formulación de imputación inmediatamente o dentro del plazo de veinticuatro horas contado a partir de que haya sido puesto a su disposición, según lo solicite el inculpado o su defensor. Lo anterior, salvo que se solicite prórroga de este plazo para reunir el material probatorio que se ofrezca en el momento de la solicitud. Esta prórroga no podrá exceder de setenta y dos horas.
 
-Si el juez no ratifica la detención dispondrá de inmediato la libertad del inculpado con las reservas de ley, a quien solicitará que señale domicilio donde pueda ser localizado y en su caso, designe defensor. Además, lo convocará para que asista a la audiencia para formulación de imputación indicándole que deberá comparecer acompañado de su defensor y apercibiéndole que en caso de no comparecer se ordenará su aprehensión. En este caso, la audiencia deberá verificarse dentro de los diez días siguientes.
+> <small>(REFORMADO, P.O. 12 DE AGOSTO DE 2011)</small>
+
+Si el juez no ratifica la detención dispondrá de inmediato la libertad del inculpado con las reservas de ley, a quien solicitará que señale domicilio donde pueda ser localizado y en su caso, designe defensor. Además, lo convocará para que asista a la audiencia para formulación de imputación indicándole que deberá comparecer acompañado de su defensor y apercibiéndole que en caso de no comparecer se ordenará su aprehensión. En este caso, la audiencia deberá verificarse dentro de los diez días siguientes; tratándose de homicidio doloso, feminicidio, violación, secuestro, delitos graves cometidos con medios violentos como armas y explosivos, además de trata de personas, corrupción de menores e incapaces, prostitución de menores y otros delitos contra la salud personal o pública, cuando estos últimos sean considerados como graves, la audiencia se llevará a cabo dentro de las dos horas siguientes.
 
 En ningún caso la detención ante autoridad judicial podrá exceder del plazo de setenta y dos horas a partir de que el inculpado sea puesto a su disposición, sin que se justifique con un auto de vinculación a proceso, salvo solicitud de prórroga del plazo, la que no podrá exceder de otras setenta y dos horas.
 
@@ -3035,7 +3115,9 @@ III. Que el inculpado, si lo considera conveniente conforme a su derecho de defe
 
 IV. Dictar auto de vinculación a proceso cuando así proceda en función de los méritos del caso;
 
-V. Que se solicite a la autoridad judicial y, en su caso, se decrete la aplicación de medidas cautelares; y
+> <small>(REFORMADA, P.O. 12 DE AGOSTO DE 2011)</small>
+
+V. Que se solicite a la autoridad judicial y, en su caso, se decrete la aplicación de medidas cautelares. La solicitud hecha por el Ministerio Público se podrá realizar inmediatamente de formulada la imputación y será resuelta en el mismo acto; y
 
 VI. Establecer un plazo para el cierre de la investigación.
 
@@ -3147,9 +3229,11 @@ III. Formular acusación, cuando estime que la investigación proporciona fundam
 
 Sobreseimiento
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE AGOSTO DE 2011)</small>
+
 ###### Artículo 289.
 
-El juzgador, a petición del Ministerio Público, del inculpado o su defensor, decretará el sobreseimiento cuando:
+El juzgador, de oficio o a petición del Ministerio Público, del inculpado o su defensor, decretará el sobreseimiento cuando:
 
 I. El hecho no se cometió o no constituye delito;
 
@@ -3505,13 +3589,15 @@ Actividad complementaria del peritaje
 
 Podrá ordenarse la presentación o el aseguramiento de objetos o documentos, y la comparecencia de personas, si esto es necesario para efectuar las operaciones periciales.
 
-Se podrá requerir al inculpado, con las limitaciones previstas por este ordenamiento, y a otras personas para que confeccionen un cuerpo de escritura, graben su voz o lleven a cabo operaciones análogas.
+> <small>(REFORMADO, P.O. 12 DE AGOSTO DE 2011)</small>
 
-Cuando la operación sólo pueda ser ejecutada voluntariamente por la persona requerida y ella rehusare colaborar, se dejará constancia de su negativa y se aplicarán los medios de apremio que se consideren adecuados, sin que sea necesario seguir el orden establecido en el artículo 79.
+Para la práctica de peritajes que así lo ameriten, se procederá, en lo conducente, en la forma prevista por el artículo 247 de esta Ley.
 
-En caso de que lo anterior sea insuficiente para conseguir el propósito probatorio, se presumirá la certeza de aquello que pretendía probarse en perjuicio del rehusante.
+> <small>(DEROGADO TERCER PARRAFO, P.O. 12 DE AGOSTO DE 2011)</small>
 
-Lo examinado será conservado, en lo posible, de modo que el peritaje pueda repetirse. Si debiera destruirse o alterarse lo analizado o existieren discrepancias sobre el modo de conducir las operaciones, los peritos lo comunicarán al tribunal antes de proceder.
+> <small>(DEROGADO CUARTO PARRAFO, P.O. 12 DE AGOSTO DE 2011)</small>
+
+> <small>(DEROGADO QUINTO PARRAFO, P.O. 12 DE AGOSTO DE 2011)</small>
 
 Peritajes especiales
 
@@ -3519,7 +3605,9 @@ Peritajes especiales
 
 En caso de que deban realizarse diferentes peritajes a personas agredidas sexualmente, deberá integrarse, en un plazo breve, un equipo interdisciplinario, con el fin de concentrar las entrevistas que requiera la víctima.
 
-El equipo de profesionales deberá elaborar un protocolo y designará a uno de sus miembros para que se encargue de realizar los planteamientos acordados.
+> <small>(REFORMADO, P.O. 12 DE AGOSTO DE 2011)</small>
+
+El equipo de profesionales deberá elaborar un protocolo de actuación, al que una vez aprobado deberá sujetarse.
 
 En el examen físico se respetará el pudor e intimidad de la persona y estará presente sólo el personal esencial para realizarlo y la persona de confianza que designe quien vaya a ser objeto del examen.
 
@@ -3701,7 +3789,9 @@ Acuerdos probatorios
 
 Durante la audiencia, las partes podrán solicitar conjuntamente al juez que dé por acreditados ciertos hechos, los cuales no podrán ser discutidos en el juicio.
 
-También podrán proponer unilateralmente al respecto, pero sólo ante el acuerdo expreso de las demás partes se tendrán por acreditados los hechos contenidos en la propuesta.
+> <small>(REFORMADO, P.O. 12 DE AGOSTO DE 2011)</small>
+
+También se podrán proponer unilateralmente o por el juez, pero sólo ante el acuerdo expreso de todas las partes se tendrán por acreditados los hechos contenidos en la propuesta.
 
 El juez autorizará el acuerdo probatorio, siempre y cuando lo considere justificado por existir antecedentes de la investigación con los que se acredite la certeza del hecho.
 
@@ -4205,7 +4295,9 @@ Deliberación
 
 Inmediatamente después de concluido el debate, los jueces deliberarán en sesión privada en la que, además, redactarán la sentencia.
 
-Lo anterior no podrá prolongarse por más de dos días ni suspenderse, salvo enfermedad grave de alguno de los jueces. En este caso, la suspensión de la deliberación no podrá ampliarse por más de tres días, luego de los cuales, si no se reintegra el juez, la decisión se asumirá por los otros dos jueces restantes, de forma unánime e inmediata.
+> <small>(REFORMADO, P.O. 12 DE AGOSTO DE 2011)</small>
+
+Lo anterior no podrá prolongarse por más de dos días ni suspenderse, salvo enfermedad grave de alguno de los jueces. En este caso, la suspensión de la deliberación no podrá ampliarse por más de tres días, luego de los cuales, si no se reintegra el juez, la decisión se asumirá por los otros dos jueces restantes, de forma inmediata por unanimidad o, en su defecto, por el voto de calidad de quien funja como Presidente.
 
 Valoración de medios de prueba
 
@@ -4259,11 +4351,13 @@ En su caso, las disidencias se insertarán al final de la sentencia y serán fir
 
 Explicación y pronunciamiento de la sentencia
 
+> <small>(REFORMADO, P.O. 12 DE AGOSTO DE 2011)</small>
+
 ###### Artículo 388.
 
-Redactada la sentencia, el tribunal se constituirá nuevamente en la sala de audiencias, después de ser convocados todos los que intervinieron en el debate. El Tribunal leerá y explicará el documento a los presentes, entre los que no podrá faltar el Ministerio Público, el sentenciado y la defensa. A éstos, y a quienes debieron acudir, se les tendrá por notificados de la resolución.
+Redactada la sentencia, el tribunal se constituirá nuevamente en la sala de audiencias, después de ser convocados todos los que intervinieron en el debate. El Presidente del Tribunal explicará la sentencia y leerá los puntos resolutivos a los presentes, entre los que no podrá faltar el Ministerio Público, el sentenciado y el defensor. A éstos, y a quienes debieron acudir, se les tendrá por notificados de la resolución.
 
-La explicación de la sentencia implica que previa su lectura, de manera concisa se transmitan al inculpado y, en su caso, al público asistente a la sala de audiencias, su sentido y los motivos que se tuvieron para emitirla, empleando para ello términos claros, no técnicos, de manera que los receptores la entiendan.
+La explicación de la sentencia implica que, previa a la lectura de los puntos resolutivos, se transmitan o los presentes el sentido y los motivos que se tuvieron para emitirla, empleando para ello términos claros, no técnicos, de manera que los receptores la entiendan.
 
 Vicios de la sentencia
 
@@ -4325,9 +4419,11 @@ Cuando la sentencia establezca la falsedad de un documento, el tribunal inscribi
 
 Individualización de penas
 
+> <small>(REFORMADO, P.O. 12 DE AGOSTO DE 2011)</small>
+
 ###### Artículo 394.
 
-Para la aplicación de las diversas penas que procedieren, el tribunal, después de pronunciarse sobre el sentido condenatorio del fallo, convocará a las partes a una audiencia inmediatamente posterior, en la que se recibirán las pruebas ofrecidas y admitidas para este efecto. Si no se aportaren pruebas, el tribunal escuchará los antecedentes que hagan valer los intervinientes para fundamentar sus peticiones. La resolución que corresponda se reservará para el momento de redactar la sentencia.
+Cuando se haya dividido el debate, para la aplicación de las diversas penas que procedieren, el tribunal, después de pronunciarse sobre el sentido condenatorio del fallo, convocará a las partes a una audiencia inmediatamente posterior, en la que se recibirán las pruebas ofrecidas y admitidas para este efecto. Si no se aportaren pruebas, el tribunal escuchará los antecedentes que hagan valer los intervinientes para fundamentar sus peticiones. La resolución que corresponda se reservará para el momento de redactar la sentencia.
 
 Condena y medidas cautelares
 
@@ -4591,6 +4687,14 @@ III. La sentencia será absolutoria si no se constatare la existencia de un hech
 
 IV. Si se acredita el hecho típico y antijurídico, así como la participación del inimputable, y se estima necesaria la aplicación de una medida de seguridad, se abrirá debate sobre cuál de las señaladas en el Código Penal para el Estado de Guanajuato resulta procedente, así como su duración, la cual en ningún caso podrá ser mayor a la que pudiera corresponderle, en caso de que hubiera sido llevado a juicio.
 
+> <small>(ADICIONADO, P.O. 12 DE AGOSTO DE 2011)</small>
+
+La sentencia que se pronuncie en este procedimiento será apelable.
+
+> <small>(ADICIONADO, P.O. 12 DE AGOSTO DE 2011)</small>
+
+La sentencia que ordene la aplicación de una medida de seguridad será apelable en efecto suspensivo.
+
 Incompatibilidad del procedimiento especial respecto al ordinario
 
 ###### Artículo 417.
@@ -4675,15 +4779,19 @@ VII. Revisión de sentencia.
 
 Condiciones de interposición
 
+> <small>(REFORMADO, P.O. 12 DE AGOSTO DE 2011)</small>
+
 ###### Artículo 425.
 
-Los medios de impugnación se interpondrán en las condiciones de tiempo que esta ley dispone, de forma oral o escrita.
+Los medios de impugnación se interpondrán en las condiciones de tiempo y forma que esta ley dispone.
 
 Expresión de conceptos de agravio
 
+> <small>(REFORMADO PARRAFO PRIMERO, P.O. 12 DE AGOSTO DE 2011)</small>
+
 ###### Artículo 426.
 
-Los medios de impugnación siempre deberán ser propuestos expresando conceptos de agravio. Éstos se podrán presentar al interponerse el medio de impugnación o en su caso, en la audiencia respectiva, en ésta deberán expresarse de manera oral.
+Salvo lo dispuesto en esta ley, los medios de impugnación deberán ser interpuestos por escrito, expresando conceptos de agravio.
 
 Los conceptos de agravio comprenderán las razones por las cuales se estime indebida la omisión impugnada, incorrecto el análisis jurídico de la cuestión asumida en la resolución combatida o en la valoración de la prueba, la inobservancia de normas jurídicas, y la manera en que esos defectos afectaron la pretensión del impugnante o el perjuicio que le causa, así como la solicitud de modificación, revocación o anulación de la resolución impugnada o la forma de subsanar la omisión en la que se incurrió.
 
@@ -4691,17 +4799,23 @@ El órgano jurisdiccional competente podrá declarar favorable la pretensión o 
 
 Calificación de los medios de impugnación
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE AGOSTO DE 2011)</small>
+
 ###### Artículo 427.
 
-El órgano jurisdiccional que debiera resolver sobre el medio de impugnación, lo declarará mal admitido cuando:
+El órgano jurisdiccional que debiera resolver·sobre el medio de impugnación, no lo admitirá, o en su caso lo declarará mal admitido cuando:
 
-I. Haya sido interpuesto fuera del plazo;
+> <small>(REFORMADA, P.O. 12 DE AGOSTO DE 2011)</small>
+
+I. Haya sido interpuesto fuera del plazo o no se formulen agravios al interponerlo;
 
 II. Se hubiese deducido en contra de una omisión o resolución que no fueren impugnables por el medio propuesto; o
 
 III. Lo interpusiere persona no legitimada para ello.
 
-En estos casos, el tribunal declarará de plano que el medio de impugnación o las adhesiones fueron mal admitidos y devolverá las actuaciones al tribunal de origen.
+> <small>(REFORMADO, P.O. 12 DE AGOSTO DE 2011)</small>
+
+Cuando se declare que el medio de impugnación y las adhesiones fueron mal admitidos, se devolverán las actuaciones a la autoridad de origen.
 
 Impugnación del Ministerio Público
 
@@ -4719,11 +4833,13 @@ El acusador particular podrá impugnar las resoluciones que considere le causen 
 
 Adhesión a un medio de impugnación interpuesto
 
+> <small>(REFORMADO, P.O. 12 DE AGOSTO DE 2011)</small>
+
 ###### Artículo 430.
 
-Quien tenga derecho a impugnar podrá adherirse al medio interpuesto por cualquiera de los legitimados, dentro de los tres días siguientes a la notificación de la interposición, con lo que adquirirá también el carácter de impugnante.
+Quien tenga derecho a impugnar podrá adherirse al medio interpuesto por cualquiera de los legitimados, dentro de los cinco días siguientes a la notificación de la interposición, con lo que adquirirá también el carácter de impugnante.
 
-Antes de remitir las actuaciones al tribunal revisor, se correrá traslado sobre la adhesión a los demás sujetos legitimados.
+Antes de remitir las actuaciones al revisor, se correrá traslado sobre la adhesión a los demás sujetos legitimados.
 
 Petición al Ministerio Público
 
@@ -4763,9 +4879,11 @@ El tribunal que conociere de una impugnación sólo podrá pronunciarse sobre lo
 
 Omisión de conceptos de agravio
 
+> <small>(REFORMADO, P.O. 12 DE AGOSTO DE 2011)</small>
+
 ###### Artículo 435.
 
-Cuando el impugnante omita expresar conceptos de agravio, se declarará sin materia el medio de impugnación.
+Cuando el impugnante omita expresar conceptos de agravio al interponer la impugnación, ésta se desechará de plano.
 
 Prohibición de la modificación en perjuicio
 
@@ -4793,7 +4911,9 @@ Actos y omisiones específicos del Ministerio Público, materia de reclamación
 
 Las omisiones y actos reclamables del Ministerio Público, son entre otros, los siguientes:
 
-I. El rechazo definitivo de las diligencias de investigación solicitadas por la víctima u ofendido tendientes a esclarecer los hechos;
+> <small>(REFORMADA, P.O. 12 DE AGOSTO DE 2011)</small>
+
+I. El rechazo definitivo a actos de investigación que le hayan sido solicitados tendientes a esclarecer los hechos;
 
 II. La decisión ministerial en la que se decrete la reserva de la investigación preliminar;
 
@@ -5017,7 +5137,9 @@ I. Las que pusieren término al procedimiento, hicieren imposible su prosecució
 
 II. Las que concedieren, negaren o revocaren la suspensión condicional del proceso;
 
-III. La sentencia definitiva dictada en el procedimiento abreviado;
+> <small>(REFORMADA, P.O. 12 DE AGOSTO DE 2011)</small>
+
+III. La sentencia definitiva dictada en el procedimiento abreviado o en el procedimiento para inimputables;
 
 IV. El auto de vinculación a proceso y el que la negare;
 
@@ -5039,23 +5161,29 @@ XII. Las demás que expresamente señale este ordenamiento.
 
 Efectos
 
+> <small>(REFORMADO, P.O. 12 DE AGOSTO DE 2011)</small>
+
 ###### Artículo 467.
 
-La apelación se admitirá en el efecto suspensivo sólo en los casos que expresamente así lo disponga esta ley y cuando se trate de la revocación de la suspensión condicional del proceso o de sentencia condenatoria dictada en el procedimiento abreviado.
+La apelación se admitirá en el efecto suspensivo sólo en los casos que expresamente así lo disponga esta ley y cuando se trate de la revocación de la suspensión condicional del proceso, de sentencia condenatoria dictada en el procedimiento abreviado o de sentencia pronunciada en el procedimiento para inimputables que ordene la aplicación de una medida de seguridad.
 
 Interposición
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE AGOSTO DE 2011)</small>
+
 ###### Artículo 468.
 
-La apelación se interpondrá ante el mismo Juez de Control que dictó la resolución y, salvo disposición en contrario, dentro del plazo de tres días si se trata de autos, y de cinco si se impugnare sentencia.
+La apelación se interpondrá por escrito ante el mismo Juez que dictó la resolución y, salvo disposición en contrario, dentro del plazo de siete días si se trata de autos, y de diez si se impugnare sentencia. El apelante acompañará las copias indispensables para correr traslado a los demás intervinientes con legitimación para apelar.
 
 Cuando el tribunal competente para conocer de la apelación tenga su sede en un sitio distinto al del procedimiento, las partes deberán fijar en éste un nuevo lugar o la forma para recibir notificaciones.
 
 Emplazamiento y remisión
 
+> <small>(REFORMADO, P.O. 12 DE AGOSTO DE 2011)</small>
+
 ###### Artículo 469.
 
-Presentada la apelación, el órgano jurisdiccional correrá traslado a las partes para que en el plazo de tres días, expresen lo que a su derecho convenga. Transcurrido lo anterior y, en su caso, desahogadas las adhesiones, de inmediato se remitirán al tribunal de alzada la resolución impugnada y copia certificada del registro de la audiencia o de los antecedentes correspondientes.
+Presentada la apelación, el órgano jurisdiccional correrá traslado a las partes para que en el plazo de cinco días, expresen lo que a su derecho convenga. Transcurrido lo anterior y, en su caso, desahogadas las adhesiones, de inmediato se remitirán al tribunal de alzada la resolución impugnada y copia certificada del registro de lo audiencia o de los antecedentes correspondientes.
 
 Cambio de situación
 
@@ -5065,23 +5193,33 @@ El órgano jurisdiccional que hubiere emitido la resolución apelada informará 
 
 Trámite
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE AGOSTO DE 2011)</small>
+
 ###### Artículo 471.
 
-Recibidas las actuaciones, el tribunal de alzada, dentro de las veinticuatro horas siguientes, resolverá de plano sobre la admisión y efectos de la apelación y, en su caso, de las adhesiones. Si declara no admisibles la totalidad de las interpuestas, devolverá las actuaciones al órgano jurisdiccional de origen. En caso contrario, señalará fecha y hora para celebrar una audiencia oral dentro de los cinco días siguientes, en la que deberá pronunciar su decisión.
+Recibidas las actuaciones, el tribunal de alzada, dentro de las veinticuatro horas siguientes, resolverá de plano sobre la admisión y efectos de la apelación y, en su caso, de las adhesiones. Si declara no admisibles la totalidad de las interpuestas, devolverá las actuaciones al órgano jurisdiccional de origen. En caso contrario, señalará fecha y hora para celebrar una audiencia de alegatos dentro de los cinco días siguientes.
 
 Excepcionalmente, el tribunal de alzada podrá solicitar otras copias o las actuaciones originales, sin que implique paralización del proceso.
 
 Celebración de la audiencia
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE AGOSTO DE 2011)</small>
+
 ###### Artículo 472.
 
-La audiencia se celebrará con quienes comparezcan, pero siempre con la presencia del Ministerio Público y la defensa. Se concederá primero el uso de la voz al impugnante para que exprese los conceptos de agravio y luego a los demás intervinientes, en el orden que indique el tribunal, para que expongan lo que a su derecho corresponda.
+La audiencia se celebrará con los intervinientes que comparezcan, quienes podrán hacer uso de la voz hasta por diez minutos por una sola vez en el orden que señale el magistrado.
 
 El inculpado será representado por su defensor, pero podrá asistir a la audiencia y, en ese caso, se le concederá la palabra en último término.
 
-Concluido el debate, los jueces deliberarán en sesión privada en la que, además, redactarán la sentencia.
+> <small>(ADICIONADO, P.O. 12 DE AGOSTO DE 2011)</small>
 
-Lo anterior no podrá prolongarse por más de dos días ni suspenderse, salvo enfermedad grave de alguno de los jueces. En este caso, la suspensión de la deliberación no podrá ampliarse por más de un día, luego del cual, si no se reintegra el juez, la decisión se asumirá por los dos restantes, de forma unánime e inmediata, en caso de empate, el presidente ejercerá voto de calidad.
+Tratándose de la apelación en contra de la sentencia pronunciada en el procedimiento para inimputables, la representación del inimputable corresponde al defensor, pero también podrá asistir a la audiencia el tutor, quien si lo solicita expresamente, se le concederá la palabra en último término.
+
+> <small>(REFORMADO, P.O. 12 DE AGOSTO DE 2011)</small>
+
+Concluido el debate, el Magistrado decidirá de inmediato la apelación, o si no fuera posible, dentro del plazo de cinco días siguientes a la celebración de la audiencia en fecha y hora que dará a conocer a los intervinientes en la misma.
+
+> <small>(DEROGADO QUINTO PÁRRAFO, P.O. 12 DE AGOSTO DE 2011)</small>
 
 Calificación jurídica diversa
 
@@ -5091,9 +5229,15 @@ Cuando se haya apelado el auto de vinculación a proceso, el tribunal de apelaci
 
 Sentido y explicación de la resolución
 
+> <small>(REFORMADO, P.O. 12 DE AGOSTO DE 2011)</small>
+
 ###### Artículo 474.
 
-El tribunal de apelación podrá revocar, modificar o confirmar la decisión impugnada y en la audiencia correspondiente explicará a los asistentes los motivos de su resolución y le dará lectura, con lo que se les tendrá por notificados, así como a las demás partes que, por haber sido convocadas, debieron asistir. Lo resuelto será irrecurrible, salvo lo previsto por este ordenamiento para la revisión de la sentencia condenatoria.
+La sentencia de apelación podrá revocar, modificar o confirmar la decisión impugnada.
+
+En la audiencia correspondiente el Magistrado explicará a los asistentes los motivos de su resolución, y le dará lectura a los puntos resolutivos, con lo que se les tendrá por notificados, así como o las demás partes que por haber sido convocadas, debieron asistir, entregándose o dejándose a su disposición copia de la resolución.
+
+Lo resuelto será irrecurrible, salvo lo previsto por este ordenamiento para la revisión de la sentencia condenatoria.
 
 Copia de la resolución
 
@@ -5111,9 +5255,11 @@ La casación tiene como finalidad invalidar la audiencia de debate de juicio ora
 
 Interposición y trámite de la casación
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE AGOSTO DE 2011)</small>
+
 ###### Artículo 477.
 
-La casación será interpuesta ante el tribunal que dictó la resolución dentro del plazo de diez días de notificada.
+La casación será interpuesta ante el tribunal que dictó la resolución dentro del plazo de quince días de notificada.
 
 En la tramitación de la casación se seguirá el procedimiento previsto para la apelación, salvo disposición en contrario.
 
@@ -5189,7 +5335,7 @@ En caso de que se anule total o parcialmente la sentencia impugnada por un motiv
 
 Si por efecto de la resolución del recurso deba cesar la prisión del inculpado, el tribunal de casación ordenará directa e inmediatamente la libertad.
 
-En el pronunciamiento de la sentencia, se atenderá a lo dispuesto en el artículo 383.
+> <small>(DEROGADO, P.O. 12 DE AGOSTO DE 2011)</small>
 
 Irrecurribilidad de la sentencia de casación
 
@@ -5525,9 +5671,19 @@ Determinado el monto, se procederá conforme al artículo precedente.
 
 Devolución, retención y destrucción de cosas aseguradas
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE AGOSTO DE 2011)</small>
+
 ###### Artículo 517.
 
-Las cosas aseguradas no sujetas a decomiso, restitución o embargo, en su caso, serán devueltas por el Juez de Ejecución a quien se le aseguraron, inmediatamente después de que la sentencia cause ejecutoria. Si son de lícito comercio y no fueren recogidos por quien tuviere derecho a ello dentro de los seis meses siguientes a que la sentencia quede firme, el Juez de Ejecución procederá conforme a las disposiciones de esta ley, a fin de que su producto ingrese al Fondo para la Atención y Apoyo a las Víctimas y a los Ofendidos del Delito.
+Las cosas aseguradas no sujetas a decomiso, restitución o embargo, en su caso, serán puestas a disposición de quien tenga derechos (sic) a ellos por la autoridad judicial, inmediatamente después de que la sentencia cause ejecutoria. Si son de lícito comercio y no fueren recogidos por quien tuviere derecho a ello dentro de los seis meses siguientes a que la sentencia quede firme, la autoridad judicial procederá conforme a las disposiciones de la ley de la materia; en el supuesto de su venta, el producto ingresará al Fondo para la Atención y Apoyo a las Víctimas y a los Ofendidos del Delito del Estado.
+
+> <small>(ADICIONADO, P.O. 12 DE AGOSTO DE 2011)</small>
+
+El plazo de seis meses a que se refiere el párrafo precedente, se computará a partir del día siguiente al en que se notifique a la persona que tenga derecho a la devolución, que ha quedado firme la resolución que ordenó la devolución de los bienes que se le aseguraron.
+
+> <small>(ADICIONADO, P.O. 12 DE AGOSTO DE 2011)</small>
+
+Si no se tiene señalado domicilio para notificación o se ignora la identidad del que tuviere derecho o la devolución, se hará a través de edictos publicados por dos veces consecutivas en el periódico oficial y un diario con circulación en el Estado.
 
 Si hubieran sido entregadas en depósito provisional, se notificará al depositario la entrega definitiva.
 
@@ -5563,11 +5719,13 @@ Aplicación
 
 Artículo Segundo. Las disposiciones de esta ley se aplicarán a hechos que ocurran a partir de las cero horas de las fechas y circunscripciones territoriales en que de manera progresiva entrará en vigor el sistema, de acuerdo a lo dispuesto en el Artículo Primero Transitorio del presente Decreto.
 
-Abrogación del Código vigente y ultractividad
+Vigencia del Código de Procedimientos Penales para el Estado de Guanajuato
 
-Artículo Tercero. El Código de Procedimientos Penales para el Estado de Guanajuato, contenido en el Decreto Legislativo número 180, expedido por la Cuadragésima Segunda Legislatura, publicado en el Periódico Oficial del Gobierno del Estado de fecha 2 de abril de 1959, seguirá rigiendo, en lo conducente, en los procedimientos iniciados con anterioridad a la vigencia de la presente ley.
+> <small>(REFORMADO, P.O. 12 DE AGOSTO DE 2011)</small>
 
-De igual forma seguirá rigiendo tratándose de hechos cometidos con anterioridad a la vigencia de la presente ley, siempre que el Código de Procedimientos Penales para el Estado de Guanajuato represente mayores beneficios para el inculpado que los contenidos en la presente ley.
+Artículo Tercero. El Código de Procedimientos Penales para el Estado de Guanajuato, contenido en el Decreto Legislativo número 180, expedido por la Cuadragésima Segunda Legislatura, publicado en el Periódico Oficial del Gobierno del Estado de fecha 2 de abril de 1959, seguirá rigiendo para los hechos cometidos y los procedimientos iniciados con anterioridad a la vigencia de la presente ley.
+
+De igual manera, seguirá rigiendo en materia de justicia para adolescentes en los términos y alcances que lo disponga la ley especial.
 
 Derogación de preceptos incompatibles
 
@@ -5579,11 +5737,27 @@ Artículo Quinto. No procederá la acumulación de procesos sobre hechos delictu
 
 Retroactividad
 
-Artículo Sexto. Siempre que sea oportuno dentro del trámite procesal, deberán aplicarse dentro del curso del procedimiento regido por el Código abrogado, las disposiciones de la presente ley que se refieran a: a) Indemnización al sentenciado injustamente condenado; b) Aplicación de los criterios de oportunidad en el ejercicio de la acción penal; e) Imposición de medidas cautelares personales; d) Acuerdos reparatorios y suspensión condicional del proceso; e) Procedimiento abreviado; y f) Procedimiento especial para inimputables y por incapacidad sobrevenida.
+> <small>(REFORMADO, P.O. 12 DE AGOSTO DE 2011)</small>
+
+Artículo Sexto. Siempre que sea oportuno dentro del trámite procesal, deberán aplicarse dentro del curso del procedimiento regido por el Código de Procedimientos Penales para el Estado de Guanajuato, las disposiciones de la presente ley que se refieran a: a) Indemnización al sentenciado injustamente condenado; b) Aplicación de los criterios de oportunidad en el ejercicio de la acción penal; c) Imposición de medidas cautelares personales; d) Acuerdos reparatorios y suspensión condicional del proceso; e) Mecanismos alternativos de solución de controversias o justicia restaurativa; f) Procedimiento abreviado; y g) Procedimiento especial para inimputables y por incapacidad sobrevenida.
 
 Término para emitir las leyes complementarias
 
 Artículo Séptimo. El Poder Legislativo realizará las acciones conducentes, para efecto de que a la entrada en vigencia en la Región que comprende los municipios descritos en la fracción I del Artículo Primero Transitorio del presente Decreto, se cuente con las leyes que permitan la instrumentación del nuevo sistema procesal penal acusatorio.
+
+Normatividad a aplicar para diligencias
+
+> <small>(ADICIONADO, P.O. 12 DE AGOSTO DE 2011)</small>
+
+Artículo Octavo. Las diligencias que se realicen en alguna región en que conforme al artículo primero transitorio aun no opere el sistema penal acusatorio, deberán desahogarse conforme la Ley del Proceso Penal para el Estado de Guanajuato, si derivan de un proceso donde ya se aplique ésta.
+
+Cuestiones competenciales
+
+> <small>(ADICIONADO, P.O. 12 DE AGOSTO DE 2011)</small>
+
+Artículo Noveno. Cuando un procedimiento se inicie en una región y se hubiesen desahogado diligencias en esta, el proceso se seguirá conforme a las normas que se atendieron al inicio de la investigación, independientemente que por razón de competencia correspondiere a otra región cuyo sistema procesal penal sea diferente.
+
+Cuando el asunto provenga de otra entidad federativa, se sustanciará conforme a las reglas de esta Ley o del Código de Procedimientos Penales para el estado de Guanajuato, según el sistema en que se haya tramitado en la entidad de origen.
 
 LO TENDRÁ ENTENDIDO EL CIUDADANO GOBERNADOR CONSTITUCIONAL DEL ESTADO Y DISPONDRÁ QUE SE IMPRIMA, PUBLIQUE, CIRCULE Y SE LE DÉ EL DEBIDO CUMPLIMIENTO.- GUANAJUATO, GTO., 26 DE AGOSTO DE 2010.- JUAN ANTONIO ACOSTA CANO.- DIPUTADO PRESIDENTE.- DAVID CABRERA MORALES.- DIPUTADO PROSECRETARIO EN FUNCIONES DE SECRETARIO.- RÚBRICAS.
 
@@ -5597,7 +5771,7 @@ EL SECRETARIO DE GOBIERNO
 
 JOSÉ GERARDO MOSQUEDA MARTÍNEZ
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 15 DE ABRIL DE 2011.
 
@@ -5620,3 +5794,7 @@ Artículo Sexto. La Secretaría y el Poder Judicial integrarán un equipo de tra
 Artículo Séptimo. Los tratamientos de preliberación que ya se estén aplicando, la libertad anticipada y la remisión parcial de la sanción que ya se estén disfrutando en la fecha de entrada en vigor de esta Ley, continuarán en sus términos. Para conocimiento de esta circunstancia, dentro del plazo comprendido entre la publicación de esta Ley hasta diez días antes de su entrada en vigor, la Secretaría proporcionará al Poder Judicial, una relación de todos los liberados que se encuentren en estos supuestos, con los datos correspondientes a las fechas de inicio y conclusión de estos beneficios, así como los concernientes al domicilio señalado por el liberado como lugar de su residencia, o el lugar en el que deberá residir conforme a la determinación correspondiente.
 
 Artículo Octavo. Los incidentes de cancelación de antecedentes penales que se estén tramitando al momento de entrada en vigor de esta Ley, continuarán practicándose ante el órgano jurisdiccional que esté conociendo de ellos, hasta su resolución.
+
+P.O. 12 DE AGOSTO DE 2011.
+
+Artículo Único. El presente Decreto entrará en vigencia el 1 de septiembre del año 2011, previa publicación en el Periódico Oficial del Gobierno del Estado.
