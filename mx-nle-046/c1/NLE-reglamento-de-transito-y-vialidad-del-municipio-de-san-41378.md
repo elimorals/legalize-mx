@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-transito-y-vialidad-del-municipio-de-san-41378"
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-10-01"
-last_updated: "2011-07-04"
+last_updated: "2011-08-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41378&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 REGLAMENTO DE TRÁNSITO Y VIALIDAD DEL MUNICIPIO DE SAN NICOLÁS DE LOS GARZA DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE JULIO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE AGOSTO DE 2011.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el viernes 1 de octubre de 2004.
 
@@ -2109,6 +2109,12 @@ XI. Transportar material peligroso.
 
 Cuando la infracción consista en falta de refrendo, licencia de conducir, tarjeta de circulación y/o póliza de seguro vigente, la multa que se haya impuesto se cancelará si dentro de los quince días siguientes, el infractor obtiene y presenta ante la Autoridad Municipal la documentación referida.
 
+> <small>(ADICIONADO, P.O. 12 DE AGOSTO DE 2011)</small>
+
+ARTÍCULO 141 BIS.- En caso de recuperación de vehículo robado, se cancelarán las multas que se hayan impuesto en el tiempo comprendido de la fecha de la interposición de la denuncia de robo de vehículo ante la autoridad correspondiente, hasta la fecha de recuperación del mismo, siempre y cuando el propietario presente ante la autoridad municipal la denuncia de robo de vehículo certificada que corresponda al vehículo multado.
+
+De igual forma, en caso de no recuperación de vehículo robado y se tramite la baja del mismo en el registro vehicular, se cancelarán las multas que se hayan impuesto en el tiempo comprendido de la fecha de la interposición de la denuncia de robo de vehículo ante la autoridad correspondiente, hasta la fecha del trámite de baja del mismo en el registro vehicular, siempre y cuando el propietario presente ante la autoridad municipal la denuncia de robo de vehículo certificada que corresponda al vehículo multado.
+
 ###### ARTÍCULO 142.
 
 Las infracciones se harán constar en actas sobre formas impresas y foliadas, en la forma tradicional con block de infracciones o mediante métodos electrónicos, en los tantos que señale la Autoridad Municipal. Estas actas deberán contener los siguientes datos:
@@ -2224,3 +2230,9 @@ SEGUNDO.- Publíquese la presente reforma en la Gaceta Municipal para su debida 
 P.O. 4 DE JULIO DE 2011.
 
 Único: La presente reforma entrará en vigor a partir del 05 de julio del 2011.
+
+P.O. 12 DE AGOSTO DE 2011.
+
+PRIMERO.- La Presente reforma entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- La aplicación de la presente reforma será retroactiva a partir del 01 de Enero del 2011, solamente en la cancelación de multas que señala el artículo 141 Bis, por ningún motivo habrá devolución de la cantidad de las multas ya pagadas.
