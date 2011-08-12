@@ -4,7 +4,7 @@ identifier: "MEX-ley-para-prevenir-combatir-y-eliminar-actos-de-53772"
 country: "mx"
 rank: "ley"
 publication_date: "2007-01-17"
-last_updated: "2010-11-10"
+last_updated: "2011-08-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=53772&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY PARA PREVENIR, COMBATIR Y ELIMINAR ACTOS DE DISCRIMINACION EN EL ESTADO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 10 DE NOVIEMBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 12 DE AGOSTO DE 2011.
 
 Ley publicada en la Sección Cuarta de la Gaceta del Gobierno del Estado de México, el miércoles 17 de enero de 2007.
 
@@ -79,7 +79,9 @@ II. Las distinciones basadas en capacidades o conocimientos especializados para 
 
 III. La distinción establecida por las instituciones públicas de seguridad social entre sus asegurados y la población en general;
 
-IV. En el ámbito educativo, los requisitos académicos, de evaluación y los límites por razón de edad;
+> <small>(REFORMADA, G.G. 12 DE AGOSTO DE 2011)</small>
+
+IV. En el ámbito educativo, los requisitos académicos, pedagógicos y de evaluación;
 
 V. Las que se establezcan como requisitos de ingreso o permanencia para el desempeño del servicio público y cualquier otro señalado en los ordenamientos legales;
 
@@ -202,6 +204,14 @@ e) Promover la realización de actividades pedagógicas o de integración en los
 f) Impulsar el establecimiento en las empresas e instituciones, de reglamentos y lineamientos que contemplen mecanismos de prevención y solución de conductas discriminatorias y de desigualdad laboral, procurando la solución a través de mecanismos internos.
 
 g) Propiciar que en los Centros de Trabajo se publicite periódicamente información sobre discriminación y desigualdad en el ámbito laboral, así como los mecanismos para prevenirlas, corregirlas y sancionarlas.
+
+> <small>(ADICIONADA, G.G. 12 DE AGOSTO DE 2011)</small>
+
+VIII. Para fomentar la igualdad y la no discriminación en el ejercicio del servicio público se establecerán y ejecutarán:
+
+a) Programas permanentes de capacitación, actualización y especialización para los servidores públicos, estatales y municipales.
+
+b) Acciones tendentes para difundir dichos programas.
 
 ### CAPÍTULO IV. DE LAS ATRIBUCIONES DE LA COMISIÓN DE DERECHOS HUMANOS DEL ESTADO DE MÉXICO EN MATERIA DE PREVENCIÓN Y ELIMINACIÓN DE TODAS LAS FORMAS DE DISCRIMINACIÓN
 
@@ -418,3 +428,9 @@ G.G. 10 DE NOVIEMBRE DE 2010.
 PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
 
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+G.G. 12 DE AGOSTO DE 2011.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
