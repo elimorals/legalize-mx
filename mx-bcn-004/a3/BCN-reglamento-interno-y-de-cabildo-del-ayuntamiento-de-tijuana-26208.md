@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-interno-y-de-cabildo-del-ayuntamiento-de-tijuana-262
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-09-13"
-last_updated: "2011-06-03"
+last_updated: "2011-08-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26208&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 REGLAMENTO INTERNO Y DE CABILDO DEL AYUNTAMIENTO DE TIJUANA, BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE JUNIO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE AGOSTO DE 2011.
 
 Reglamento publicado en la Sección III del Periódico Oficial del Estado de Baja California, el viernes 13 de septiembre de 2002.
 
@@ -971,21 +971,27 @@ VIII.- Dictaminar respecto de de (sic) los proyectos de disposiciones normativas
 
 XI.- Proponer al Cabildo proyectos para la ejecución de obras públicas.
 
-> <small>(REFORMADO, P.O. 3 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO, P.O. 12 DE AGOSTO DE 2011)</small>
 
 ###### ARTICULO 85.
 
-Comisión de Medio Ambiente y Desarrollo Sustentable.- La Comisión de Medio Ambiente y Desarrollo Sustentable tendrá las siguientes atribuciones:
+Comisión de Medio Ambiente Y Desarrollo Sustentable.- La Comisión de Medio Ambiente y Desarrollo Sustentable tendrá las siguientes atribuciones:
 
-I.- Dictaminar respecto de los proyectos de reglamentos y disposiciones normativas de observancia general en materia de medio ambiente y desarrollo sustentable;
+I.- Dictaminar respecto de los proyectos de reglamentos y disposiciones normativas de observancia general encaminadas hacia la protección del medio ambiente y desarrollo sustentable.
 
-II.- Proponer al Cabildo mecanismos para promover la participación y la responsabilidad de los sectores social y privado en la formulación de la política ecológica, la aplicación de sus instrumentos, las acciones de información y vigilancia y, en general, en las acciones ecológicas que emprenda el Municipio.
+II.- Proponer al Cabildo mecanismos e instrumentos que resulten necesarios para eficientar los programas de Ecología y Medio Ambiente.
 
-III.- Proponer al Cabildo mecanismos e instrumentos para promover estudios e investigaciones de carácter científico y tecnológico, en materia de preservación y restauración del equilibrio ecológico y la protección al ambiente.
+III.- Promover la protección y restauración de las Áreas Naturales Protegidas, para conservar e impulsar la biodiversidad bajo acciones que la hagan compatible con el desarrollo económico y social de los ciudadanos.
 
-IV.- Proponer al cabildo políticas públicas encaminadas a difundir y promover la cultura y los valores ecológicos.
+IV.- Proponer políticas públicas encaminadas a difundir una cultura ecológica;
 
-V.- En general, aquellas que el Cabildo le encomiende.
+V.- Promover la orientación hacia un desarrollo sustentable y preservación de los recursos naturales.
+
+VI.- Impulsar políticas de desarrollo que reconozcan el vínculo directo entre pobreza y desarrollo sustentable, así como fomentar la participación activa de la sociedad en programas para el ahorro de energía;
+
+VII.- Proponer los programas y planes de ordenamiento ecológico municipal.
+
+VIII.- En General, aquellas que el cabildo encomiende.
 
 ###### ARTICULO 86.
 
@@ -1540,3 +1546,9 @@ P.O. 3 DE JUNIO DE 2011.
 PRIMERO.- EL PRESENTE ACUERDO ENTRARA EN VIGOR AL MOMENTO DE SU APROBACIÓN, MISMO QUE DEBERÁ PUBLICARSE EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO DE BAJA CALIFORNIA.
 
 SEGUNDO.- E (SIC) DEROGAN TODAS Y CADA UNA DE LAS DISPOSICIONES NORMATIVAS Y REGLAMENTARIAS DERIVADAS DE ACUERDOS Y REGLAMENTOS QUE SE OPONGAN A LAS PRESENTES DISPOSICIONES LEGALES.
+
+P.O. 12 DE AGOSTO DE 2011.
+
+PRIMERO.- El presente acuerdo entrará en vigor al momento de su aprobación.
+
+SEGUNDO.- Publíquense en el Periódico Oficial del Estado de Baja California, así como en la Gaceta Municipal y/o un diario de circulación municipal, para conocimiento de los ciudadanos.
