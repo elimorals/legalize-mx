@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-las-personas-adultas-mayores-del-estado-de-mexico-62524"
 country: "mx"
 rank: "ley"
 publication_date: "2008-08-06"
-last_updated: "2008-08-06"
+last_updated: "2011-08-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62524&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY DEL ADULTO MAYOR DEL ESTADO DE MEXICO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL GACETA DEL GOBIERNO: 12 DE AGOSTO DE 2011.
 
 Ley publicada en la Sección Cuarta de la Gaceta del Gobierno del Estado de México, el miércoles 6 de agosto de 2008.
 
@@ -43,9 +43,11 @@ LEY DEL ADULTO MAYOR DEL ESTADO DE MÉXICO
 
 ### CAPÍTULO ÚNICO
 
+> <small>(REFORMADO, G.G. 12 DE AGOSTO DE 2011)</small>
+
 ###### Artículo 1.
 
-La presente Ley es de orden público, de interés social y de observancia general en el Estado de México y tiene por objeto garantizar el ejercicio de los derechos de los adultos mayores, así como establecer las bases y disposiciones para su cumplimiento, a efecto de mejorar su calidad de vida.
+La presente Ley es de orden público, de interés social y de observancia general en el Estado de México y tiene por objeto garantizar el ejercicio de los derechos de los adultos mayores, así como establecer las bases y disposiciones para su cumplimiento, a efecto de mejorar su calidad de vida y promover su plena integración al desarrollo social, económico y cultural de la entidad.
 
 ###### Artículo 2.
 
@@ -53,7 +55,9 @@ Para efectos de esta Ley se entenderá por:
 
 I. Ley: Ley del Adulto Mayor del Estado de México;
 
-II. Adulto Mayor: Hombres y mujeres a partir de los 60 años de edad;
+> <small>(REFORMADA, G.G. 12 DE AGOSTO DE 2011)</small>
+
+II. Adulto Mayor: Hombres y mujeres a partir de los 60 años de edad, que se encuentren domiciliadas o de paso en el Estado de México;
 
 III. Asistencia Social: Conjunto de acciones tendientes a modificar y mejorar las circunstancias de carácter social que impidan al individuo su desarrollo integral, así como la protección física, mental y social de personas en estado de necesidad, desprotección o desventaja física y mental, hasta lograr su incorporación a una vida plena y productiva;
 
@@ -81,13 +85,27 @@ XIV. Tanatología: Conjunto de conocimiento (sic) médicos relativos a la muerte
 
 XV. Vulnerabilidad: Condición de indefensión jurídica, social, económica o física, en la que se puede encontrar el Adulto Mayor.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 12 DE AGOSTO DE 2011)</small>
+
 ###### Artículo 3.
 
-La aplicación y seguimiento de las disposiciones de esta Ley corresponde:
+La aplicación, seguimiento y observancia de las disposiciones de esta Ley corresponde:
 
-l. Al Ejecutivo Estatal a través de la Secretaría de Desarrollo Social y del Consejo Estatal de la Mujer y Bienestar Social y Órgano Rector; y
+l. Al Ejecutivo Estatal a través de la Secretaría de Desarrollo Social y del Consejo Estatal de la Mujer y Bienestar Social y Órgano Rector; y (sic)
 
 II. A los Gobiernos Municipales, en el ámbito de sus respectivas competencias, por conducto de los SMDIF.
+
+> <small>(ADICIONADA, G.G. 12 DE AGOSTO DE 2011)</small>
+
+III. La familia de los adultos mayores vinculada por el parentesco, cualquiera que sea éste, de conformidad con lo dispuesto por los ordenamientos jurídicos aplicables;
+
+> <small>(ADICIONADA, G.G. 12 DE AGOSTO DE 2011)</small>
+
+IV. Los ciudadanos y la sociedad civil organizada, cualquiera que sea su forma o denominación.
+
+> <small>(ADICIONADO, G.G. 12 DE AGOSTO DE 2011)</small>
+
+Las dependencias, entidades y organismos encargados de la aplicación, seguimiento y vigilancia de esta Ley, en los términos de las disposiciones conducentes, organizarán, operarán, supervisarán y evaluarán la prestación de los servicios básicos de asistencia que se proporcionen a los adultos mayores, así como, en los términos previstos por esta Ley, aquellos que realicen los sectores social y privado.
 
 ## TÍTULO SEGUNDO. DE LOS PRINCIPIOS Y DERECHOS
 
@@ -187,9 +205,33 @@ XXXIV. Acceder a programas de condonaciones de contribuciones tanto estatales co
 
 XXXV. Estar informado de la condonación de contribuciones, así como de los descuentos ofrecidos en su beneficio por las instituciones públicas y privadas;
 
-XXXVI. Obtener oportunamente, la información adecuada en los trámites para su jubilación; y
+XXXVI. Obtener oportunamente, la información adecuada en los trámites para su jubilación; y (sic)
 
 XXXVII. Acceder a programas de descuentos en establecimientos públicos, privados, y servicios de transporte de pasajeros.
+
+> <small>(ADICIONADA, G.G. 12 DE AGOSTO DE 2011)</small>
+
+XXXVIII. Una vida libre de violencia: física, patrimonial, psicológica, sexual o de cualquier otro tipo;
+
+> <small>(ADICIONADA, G.G. 12 DE AGOSTO DE 2011)</small>
+
+XXXIX. La protección contra toda forma de explotación;
+
+> <small>(ADICIONADA, G.G. 12 DE AGOSTO DE 2011)</small>
+
+XL. Tener acceso a la alimentación, bienes, servicios, condiciones físicas y materiales, entre otras, para su atención integral;
+
+> <small>(ADICIONADA, G.G. 12 DE AGOSTO DE 2011)</small>
+
+XLI. Recibir orientación y capacitación en materia de salud, nutrición e higiene, así como a toda aquella instrucción que favorezca su auto cuidado personal;
+
+> <small>(ADICIONADA, G.G. 12 DE AGOSTO DE 2011)</small>
+
+XLII. Participar en la vida cívica, cultural, deportiva y recreativa de su comunidad;
+
+> <small>(ADICIONADA, G.G. 12 DE AGOSTO DE 2011)</small>
+
+XLIII. Participar en la planeación del desarrollo social, a través de la formulación y aplicación de acciones que afecten directamente a su bienestar.
 
 ## TÍTULO TERCERO. DE LAS POLÍTICAS PÚBLICAS E INSTANCIAS RESPONSABLES
 
@@ -209,15 +251,45 @@ II. Propiciar las condiciones para un mayor bienestar físico y mental a fin de 
 
 III. Establecer las bases para la planeación y concertación de acciones entre las instituciones públicas y privadas, para lograr un funcionamiento coordinado en los programas y servicios que presten a este sector de la población;
 
-IV. Fomentar una cultura de aprecio a los adultos mayores para lograr un trato digno, favorecer su revalorización y su plena integración social y así procurar una mayor sensibilidad de conciencia social, respeto, solidaridad y convivencia entre las generaciones, con el fin de evitar toda forma de discriminación y olvido por motivo de su edad;
+> <small>(REFORMADA, G.G. 12 DE AGOSTO DE 2011)</small>
+
+IV. Fomentar una cultura de aprecio a los adultos mayores para lograr un trato digno, favorecer su revalorización y su plena integración social y así procurar una mayor sensibilidad de conciencia social, respeto, solidaridad y convivencia entre las generaciones, con el fin de evitar toda forma de discriminación y olvido por motivo de su edad, género, estado físico, religión o condición social;
 
 V. Impulsar el fortalecimiento de redes familiares, sociales e institucionales de apoyo a los adultos mayores y garantizar la asistencia social para todas aquellas que por sus circunstancias requieran de protección especial por parte de las instituciones públicas y privadas;
 
 VI. Establecer las bases para la asignación de programas y beneficios sociales, descuentos y estímulos para ese sector de la población, de conformidad con las disposiciones jurídicas aplicables;
 
-VII. Fomentar que las instituciones educativas y de salud establezcan las disciplinas para la formación de especialistas en geriatría, gerontología y tanatología, con el fin de garantizar la cobertura de los servicios de salud requeridos por la población adulta mayor; y
+VII. Fomentar que las instituciones educativas y de salud establezcan las disciplinas para la formación de especialistas en geriatría, gerontología y tanatología, con el fin de garantizar la cobertura de los servicios de salud requeridos por la población adulta mayor; y (sic)
 
 VIII. Fomentar la realización de estudios e investigaciones sociales de la problemática inherente al envejecimiento que sirvan como herramienta de trabajo a las instituciones del sector público y privado para desarrollar programas en beneficio de la población adulta mayor.
+
+> <small>(ADICIONADA, G.G. 12 DE AGOSTO DE 2011)</small>
+
+IX. Propiciar su incorporación a los procesos productivos emprendidos por los sectores público, social y privado, de acuerdo a sus capacidades y aptitudes;
+
+> <small>(ADICIONADA, G.G. 12 DE AGOSTO DE 2011)</small>
+
+X. Fomentar el establecimiento de programas compensatorios orientados a beneficiar; abatir el rezago y poner a su alcance los servicios sociales y asistenciales así como la información sobre los mismos;
+
+> <small>(ADICIONADA, G.G. 12 DE AGOSTO DE 2011)</small>
+
+XI. Impulsar apoyos en la realización de gestiones ante las autoridades competentes para que a los adultos mayores se les otorguen condonaciones, reducciones o exenciones en el pago de derechos por los servicios que presten las dependencias y entidades de la administración pública estatal y municipal;
+
+> <small>(ADICIONADA, G.G. 12 DE AGOSTO DE 2011)</small>
+
+XII. Promover el establecimiento y otorgamiento de incentivos o estímulos para las industrias, empresas, comercios o establecimientos que contraten adultos mayores, en los términos de las disposiciones fiscales aplicables;
+
+> <small>(ADICIONADA, G.G. 12 DE AGOSTO DE 2011)</small>
+
+XIII. Impulsar y fortalecer procesos sociales que generen formas que hagan efectiva la participación de los adultos mayores, en la formulación y ejecución de las políticas públicas que les afecten;
+
+> <small>(ADICIONADA, G.G. 12 DE AGOSTO DE 2011)</small>
+
+XIV. Impulsar el desarrollo integral de los adultos mayores observando el principio de equidad de género, por medio de políticas públicas, programas y acciones a fin de garantizar la igualdad de derechos, oportunidades y responsabilidades;
+
+> <small>(ADICIONADA, G.G. 12 DE AGOSTO DE 2011)</small>
+
+XV. Promover la difusión de los derechos y valores en beneficio de los adultos mayores, con el propósito de sensibilizar a las familias y a la sociedad en general respecto a la problemática de este sector.
 
 ### CAPÍTULO II. DE LAS INSTANCIAS RESPONSABLES
 
@@ -265,9 +337,25 @@ XI.- Coordinar con los sectores público, social y privado, campañas educativas
 
 XII. Ampliar la red de atención a los adultos mayores, a través de convenios con instituciones de salud privadas;
 
-XIII. Establecer convenios con universidades públicas y privadas para recibir prestadores de servicio social en las áreas de trabajo social, psicología, medicina, odontología y enfermería para que apoyen las acciones institucionales en la atención de los adultos mayores en las unidades geriátricas y/o domicilio; y
+XIII. Establecer convenios con universidades públicas y privadas para recibir prestadores de servicio social en las áreas de trabajo social, psicología, medicina, odontología y enfermería para que apoyen las acciones institucionales en la atención de los adultos mayores en las unidades geriátricas y/o domicilio; y (sic)
 
 XIV. Verificar que las casas hogar, albergues, casas de día y centro de atención integral para adultos mayores, cumplan con la normatividad de la materia.
+
+> <small>(ADICIONADA, G.G. 12 DE AGOSTO DE 2011)</small>
+
+XV. Promover programas de detección oportuna y tratamiento temprano de enfermedades entre los adultos mayores, así como de atención y asistencia a quienes sufren de discapacidades funcionales;
+
+> <small>(ADICIONADA, G.G. 12 DE AGOSTO DE 2011)</small>
+
+XVI. Impulsar programas de capacitación orientados a promover el autocuidado de la salud para que los adultos mayores sean más independientes, a fin de contribuir a prevenir discapacidades, adicciones y favorecer un envejecimiento saludable;
+
+> <small>(ADICIONADA, G.G. 12 DE AGOSTO DE 2011)</small>
+
+XVII. Fomentar la creación de redes de atención en materia de asistencia médica, cuidados y rehabilitación, a través de la capacitación y sensibilización sobre la problemática específica de los adultos mayores;
+
+> <small>(ADICIONADA, G.G. 12 DE AGOSTO DE 2011)</small>
+
+XVIII. Vigilar que en los hospitales, las clínicas y los centros de salud, públicos o privados, se valore inmediatamente a todo adulto mayor que se presuma víctima de abuso o maltrato, tomando en resguardo su integridad y denunciando ante las autoridades correspondientes cualquier sospecha razonable de maltrato o abuso cometido en su contra.
 
 ###### Artículo 10.
 
@@ -289,9 +377,35 @@ VII. Fomentar el acceso de los adultos mayores que se encuentren en situación d
 
 VIII. Garantizar a los adultos mayores el derecho de ingresar voluntariamente a una casa hogar o albergue, o por el contrario, respetar su decisión a no ser internado;
 
-IX. Denunciar ante las autoridades competentes, cuando sea procedente, cualquier caso de maltrato, lesiones, abuso físico o psíquico, sexual, abandono, descuido o negligencia, explotación y en general cualquier acto que perjudique a los adultos mayores; y
+IX. Denunciar ante las autoridades competentes, cuando sea procedente, cualquier caso de maltrato, lesiones, abuso físico o psíquico, sexual, abandono, descuido o negligencia, explotación y en general cualquier acto que perjudique a los adultos mayores; y (sic)
 
-X. Verificar la atención que reciben los adultos mayores que residan en casas hogar, albergues, casas de día, centros de atención integral, públicos o privados.
+> <small>(REFORMADA, G.G. 12 DE AGOSTO DE 2011)</small>
+
+X. Verificar que la atención que reciben los adultos mayores que residan en casas hogar, albergues, casas de día, centros de atención integral, públicos o privados, sea adecuada a través de mecanismos de seguimiento y supervisión, en coordinación con la Secretaría de Salud;
+
+> <small>(ADICIONADA, G.G. 12 DE AGOSTO DE 2011)</small>
+
+XI. Integrar un sistema de información sobre las condiciones socioeconómicas de los adultos mayores, que contribuya al mejor diseño y planeación de los programas en la materia;
+
+> <small>(ADICIONADA, G.G. 12 DE AGOSTO DE 2011)</small>
+
+XII. Promover e implementar programas de sensibilización y capacitación, con el objeto de favorecer la convivencia familiar con los adultos mayores, para que esta sea armónica;
+
+> <small>(ADICIONADA, G.G. 12 DE AGOSTO DE 2011)</small>
+
+XIII. Establecer programas de apoyo a las familias para que la falta de recursos no sea causa de separación de los adultos mayores;
+
+> <small>(ADICIONADA, G.G. 12 DE AGOSTO DE 2011)</small>
+
+XIV. Coadyuvar con la Procuraduría General de Justicia del Estado, en la atención y protección jurídica de los adultos mayores víctimas de cualquier delito;
+
+> <small>(ADICIONADA, G.G. 12 DE AGOSTO DE 2011)</small>
+
+XV. Promover mediante la vía conciliatoria, la solución a la problemática familiar, cuando no se trate de delitos tipificados en el Código Penal;
+
+> <small>(ADICIONADA, G.G. 12 DE AGOSTO DE 2011)</small>
+
+XVI. La atención y seguimiento de quejas, denuncias e informes, sobre la violación de los derechos de los adultos mayores, haciéndolos del conocimiento de las autoridades competentes y de ser procedente ejercitar las acciones legales correspondientes.
 
 ### CAPÍTULO I. DEL OBJETO, ATRIBUCIONES Y FUNCIONES
 
@@ -343,9 +457,13 @@ l. Desarrollar programas de condonación o de reducción de contribuciones estat
 
 II. Promover entre los municipios de la entidad, la condonación, reducción o estímulos de contribuciones a favor de los adultos mayores;
 
-III. Realizar campañas de difusión de la condonación, reducción o estímulos de contribuciones a favor de los adultos mayores; y
+III. Realizar campañas de difusión de la condonación, reducción o estímulos de contribuciones a favor de los adultos mayores; y (sic)
 
 IV. Promover el acceso de los adultos mayores, a los créditos otorgados por las entidades financieras públicas y privadas.
+
+> <small>(ADICIONADA, G.G. 12 DE AGOSTO DE 2011)</small>
+
+V. Promover en coordinación con las autoridades competentes y en los términos de las disposiciones aplicables, programas de incentivos fiscales para aquellas industrias, empresas, comercios o establecimientos que contraten adultos mayores.
 
 ## TÍTULO CUARTO. DEL COMITÉ ESTATAL PARA LA ATENCIÓN DEL ADULTO MAYOR
 
@@ -355,7 +473,9 @@ IV. Promover el acceso de los adultos mayores, a los créditos otorgados por las
 
 Corresponde a la Secretaría del Trabajo:
 
-l. Desarrollar programas de capacitación para adultos mayores que les permitan continuar con su vida productiva;
+> <small>(REFORMADA, G.G. 12 DE AGOSTO DE 2011)</small>
+
+I. Fomentar el establecimiento de estímulos e incentivos en programas de capacitación para el trabajo, a fin de que los adultos mayores se integren y adquieran conocimientos y destrezas que les permitan continuar con su vida productiva;
 
 II. Desarrollar programas para que el adulto mayor goce de igualdad de oportunidades en el acceso al trabajo y de la protección de la Ley de la materia, realizando actividades acordes a su capacidad física e intelectual;
 
@@ -365,25 +485,43 @@ IV. Fomentar la creación de organizaciones productivas de adultos mayores en gr
 
 V. Ofrecer asesoría y apoyo jurídico, a los adultos mayores que requieran realizar su trámite de jubilación;
 
-VI. Integrar una bolsa de trabajo con ofertas laborales que puedan ser desempeñadas por los adultos mayores; y
+VI. Integrar una bolsa de trabajo con ofertas laborales que puedan ser desempeñadas por los adultos mayores; y (sic)
 
 VII. Brindar capacitación y financiamiento para el autoempleo de los adultos mayores.
+
+> <small>(ADICIONADA, G.G. 12 DE AGOSTO DE 2011)</small>
+
+VIII. Promover el establecimiento de convenios de colaboración con los sectores público, social y privado, que fomenten y propicien la integración laboral de los adultos mayores.
 
 ###### Artículo 15.
 
 Corresponde a la Secretaría de Educación:
 
-l. Fomentar el acceso de los adultos mayores a programas de educación y capacitación continua;
+> <small>(REFORMADA, G.G. 12 DE AGOSTO DE 2011)</small>
+
+I. Promover el acceso de los adultos mayores a programas de estímulos e incentivos en materia de educación y capacitación continua que contribuya a su desarrollo intelectual y que les permita conservar una actitud de aprendizaje constante;
 
 II. Fomentar, en coordinación con las universidades, programas de educación superior y de investigación en las etapas de pre-grado y post-grado en las especialidades de geriatría, gerontología y tanatología en todos los niveles de atención en salud, así como de atención integral a los adultos mayores, dirigidos a personal técnico asistencial;
 
-III. Proponer ante las autoridades correspondientes, la incorporación de contenidos sobre procesos de envejecimiento en los planes y programas de estudios de todos los niveles educativos;
+> <small>(REFORMADA, G.G. 12 DE AGOSTO DE 2011)</small>
 
-IV. Facilitar el acceso de los adultos mayores a la cultura y las artes, de manera gratuita o con descuentos especiales; y
+III. Proponer ante las autoridades correspondientes, la incorporación de contenidos sobre el proceso del envejecimiento, así como axiológicos en la formación de sus alumnos para que cultiven el respeto, reconocimiento, atención y cuidado de los adultos mayores, en los planes y programas de estudios de todos los niveles educativos;
+
+IV. Facilitar el acceso de los adultos mayores a la cultura y las artes, de manera gratuita o con descuentos especiales; y (sic)
 
 V. Facilitar el uso de las bibliotecas públicas que les otorguen préstamo a domicilio del material de las mismas, con la presentación de su identificación personal, credencial de jubilado o pensionado y/o credencial de adulto mayor.
 
+> <small>(ADICIONADA, G.G. 12 DE AGOSTO DE 2011)</small>
+
+VI. Fomentar el acceso gratuito o con descuentos especiales, a eventos culturales que promuevan las instituciones;
+
+> <small>(ADICIONADA, G.G. 12 DE AGOSTO DE 2011)</small>
+
+VII. Promover, en coordinación con las autoridades correspondientes, el establecimiento de programas permanentes de educación para la alfabetización de los adultos mayores, en el ámbito de su competencia.
+
 ### CAPÍTULO I. DE LA FAMILIA
+
+> <small>(REFORMADO, G.G. 12 DE AGOSTO DE 2011)</small>
 
 ###### Artículo 16.
 
@@ -409,9 +547,15 @@ III. Establecer convenios de coordinación con empresas del ramo, para ofrecer t
 
 Corresponde a la Secretaría del Transporte:
 
-l. Celebrar convenios con las empresas de transporte, para que otorguen tarifas preferenciales a los adultos mayores; y
+l. Celebrar convenios con las empresas de transporte, para que otorguen tarifas preferenciales a los adultos mayores; y (sic)
 
-II. Fomentar entre las empresas de transporte público y privado, el equipamiento adecuado de sus unidades, para otorgar servicios seguros y cómodos para los adultos mayores.
+> <small>(REFORMADA, G.G. 12 DE AGOSTO DE 2011)</small>
+
+II. Fomentar entre las empresas de transporte público y privado, el equipamiento adecuado de sus unidades, para otorgar servicios seguros y cómodos para los adultos mayores mediante la existencia de asientos preferenciales debidamente señalados, así como condiciones adecuadas para su ascenso y descenso en las paradas y terminales;
+
+> <small>(ADICIONADA, G.G. 12 DE AGOSTO DE 2011)</small>
+
+III. Establecer programas para la difusión de una cultura de aprecio y respeto hacia los adultos mayores en la prestación de este servicio.
 
 ###### Artículo 19.
 
@@ -422,6 +566,46 @@ l. Garantizar mecanismos expeditos, sin dilación en la procuración de justicia
 II. Brindar a las víctimas que sean adultos mayores la información integral sobre las instituciones públicas y privadas encargadas de su atención;
 
 III. Garantizar la seguridad jurídica, la integridad física, la protección de datos personales y la salvaguarda de los bienes de las víctimas que sean adultos mayores.
+
+> <small>(ADICIONADO, G.G. 12 DE AGOSTO DE 2011)</small>
+
+###### Artículo 19 Bis.
+
+Corresponde al Instituto Mexiquense de Cultura Física y Deporte en el ámbito de sus atribuciones:
+
+I. Instituir programas de educación física para los adultos mayores, a efecto de constituir y fomentar en ellos, el hábito del ejercicio o cultura deportiva en beneficio de su salud física y psicológica;
+
+II. Promover la participación de los adultos mayores en actividades deportivas, así como la adaptación, desarrollo y reglamentación de las diversas disciplinas y modalidades del deporte de acuerdo a las necesidades y características de su estado físico;
+
+III. Impulsar el desarrollo de competencias en las diferentes modalidades o disciplinas deportivas a nivel regional, estatal e interestatal en las que se fomente la participación y el reconocimiento de los adultos mayores;
+
+IV. Acondicionar las instalaciones e infraestructura deportiva, de acuerdo a las necesidades y requerimientos de los adultos mayores;
+
+V. Instituir acciones y programas, en coordinación con las instancias correspondientes, que le permitan al adulto mayor el mantenimiento físico natural, progresivo y sistemático;
+
+VI. Promover el acceso gratuito de los adultos mayores o en su caso con descuentos especiales a centros de entrenamiento y acondicionamiento físico, así como instalaciones deportivas;
+
+VII. Brindar asesoría e información a las organizaciones públicas o privadas, e instituciones que así lo requieran, sobre las actividades físicas que puedan realizar los adultos mayores.
+
+> <small>(ADICIONADO, G.G. 12 DE AGOSTO DE 2011)</small>
+
+###### Artículo 19 Ter.
+
+Corresponde a los Ayuntamientos:
+
+I. Establecer mecanismos y programas tendientes a garantizar a los adultos mayores el goce y ejercicio de los derechos referidos en la presente Ley;
+
+II. Celebrar convenios con los sectores público, social y privado en materia de apoyo y atención a los adultos mayores;
+
+III. Estimular la creación de parques, centros o espacios recreativos, culturales y deportivos para adultos mayores;
+
+IV. Buscar e implementar los mecanismos legales que permitan a los adultos mayores, el disfrute de los bienes y servicios públicos que le corresponden;
+
+V. Promover la participación ciudadana en actividades y proyectos dirigidos a la plena integración de los adultos mayores;
+
+VI. Promover programas de descuentos preferenciales a los adultos mayores en la gestión de trámites y servicios administrativos que tiene a su cargo;
+
+VII. Realizar, promover y alentar los programas de asistencia, protección, prevención, participación y atención de adultos mayores.
 
 ###### Artículo 20.
 
@@ -465,9 +649,17 @@ IX. Propiciar la colaboración y participación de instituciones públicas y pri
 
 X. Crear un paquete integral de servicios básicos, con acciones que fomenten la generación de la cultura del envejecimiento digno;
 
-XI. Establecer vínculos de colaboración entre los poderes del Estado, que permitan cumplir con los objetivos de la presente Ley; y
+XI. Establecer vínculos de colaboración entre los poderes del Estado, que permitan cumplir con los objetivos de la presente Ley; y (sic)
 
 XII. Gestionar fondos ante organizaciones públicas y privadas, nacionales e internacionales, para la ejecución de programas de atención a los adultos mayores.
+
+> <small>(ADICIONADA, G.G. 12 DE AGOSTO DE 2011)</small>
+
+XIII. Fomentar la elaboración, publicación y distribución de material informativo para dar a conocer la situación de los adultos mayores en la entidad;
+
+> <small>(ADICIONADA, G.G. 12 DE AGOSTO DE 2011)</small>
+
+XIV. Elaborar un informe anual que se remitirá a las Comisiones correspondientes de la Legislatura para su conocimiento.
 
 ###### Artículo 24.
 
@@ -541,7 +733,7 @@ Las dependencias, organismos auxiliares y entidades de la administración públi
 
 ###### Artículo 30.
 
-La familia deberá velar por el respeto a la dignidad de los adultos mayores y de sus derechos fundamentales.
+La familia deberá cumplir su función social, por tanto, de manera activa, constante y permanente deberá hacerse cargo de cada uno de los adultos mayores que formen parte de ella, debiendo velar por el respeto a su dignidad y de sus derechos fundamentales.
 
 ###### Artículo 31.
 
@@ -555,9 +747,17 @@ III. Procurar que permanezcan en el hogar del que forman parte y que sólo por d
 
 IV. Fomentar la convivencia familiar cotidiana, donde la persona adulta mayor participe activamente, promoviendo los valores que incidan en sus necesidades afectivas, de protección y apoyo;
 
-V. Evitar que alguno de sus integrantes, cometa cualquier acto de discriminación, abuso, explotación, aislamiento, violencia o actos jurídicos que pongan en riesgo su persona, bienes y derechos; y
+V. Evitar que alguno de sus integrantes, cometa cualquier acto de discriminación, abuso, explotación, aislamiento, violencia o actos jurídicos que pongan en riesgo su persona, bienes y derechos; y (sic)
 
 VI. Abstenerse de forzar al adulto mayor a realizar actos de mendicidad que atenten contra su dignidad o que impliquen un esfuerzo tal, que vaya en perjuicio de su salud física y mental.
+
+> <small>(ADICIONADA, G.G. 12 DE AGOSTO DE 2011)</small>
+
+VII. Contribuir a que se mantengan productivos y socialmente integrados, así como promover su acceso a la educación y a las actividades recreativas, culturales y deportivas;
+
+> <small>(ADICIONADA, G.G. 12 DE AGOSTO DE 2011)</small>
+
+VIII. Promover el acceso de los adultos mayores a los programas y mecanismos de asistencia social que se instituyan en su beneficio, cuando carezcan de los medios necesarios para su atención.
 
 ### CAPÍTULO III. DE LAS INSTITUCIONES DE ATENCIÓN A LOS ADULTOS MAYORES
 
@@ -637,9 +837,17 @@ IV. Integrar un expediente personal con la historia clínica y un registro con l
 
 V. Dar seguimiento a la evolución y evaluación de los casos atendidos, registrando los datos en los expedientes personales correspondientes;
 
-VI. Obtener en caso de ser posible, los nombres, domicilios y teléfonos de sus familiares; y
+VI. Obtener en caso de ser posible, los nombres, domicilios y teléfonos de sus familiares; y (sic)
 
 VII. Expedir copia del expediente a los familiares autorizados, a las autoridades judiciales o a las instituciones que continúen la atención del Adulto Mayor, cuando lo soliciten.
+
+> <small>(ADICIONADA, G.G. 12 DE AGOSTO DE 2011)</small>
+
+VIII. Contar con la infraestructura y equipamiento necesario en los términos de las disposiciones aplicables, así como con los servicios y medidas de seguridad que garanticen su funcionamiento en la atención de los adultos mayores;
+
+> <small>(ADICIONADA, G.G. 12 DE AGOSTO DE 2011)</small>
+
+IX. Denunciar a la autoridad competente los casos que sean de su conocimiento sobre discriminación, abandono, desamparo, marginación, abuso, explotación y violencia a los adultos mayores.
 
 ###### Artículo 45.
 
@@ -694,6 +902,10 @@ Para efectos del artículo anterior, el personal médico, psicológico y jurídi
 ###### Artículo 51.
 
 En ningún caso se podrá mantener a los Adultos Mayores en las estancias en contra de su voluntad.
+
+> <small>(ADICIONADO, G.G. 12 DE AGOSTO DE 2011)</small>
+
+El hecho de ingresar a los adultos mayores a instituciones para su atención, de ninguna manera libera a los familiares de los derechos y de las obligaciones que la Ley les reconoce e impone. En caso de que los familiares, dejen de cumplir con las obligaciones y atenciones, que requiere el adulto mayor, dejándolo en estado de abandono y atención, por más de sesenta días, el representante legal de la casa hogar, estancia o cualquiera que fuese su denominación, deberá informar y denunciar los hechos ante las autoridades correspondientes.
 
 ###### Artículo 52.
 
@@ -764,3 +976,11 @@ EL SECRETARIO GENERAL DE GOBIERNO
 DR. VICTOR HUMBERTO BENITEZ TREVIÑO
 
 (RUBRICA).
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+G.G. 12 DE AGOSTO DE 2011.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
