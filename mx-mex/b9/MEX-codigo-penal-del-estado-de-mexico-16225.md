@@ -4,7 +4,7 @@ identifier: "MEX-codigo-penal-del-estado-de-mexico-16225"
 country: "mx"
 rank: "codigo"
 publication_date: "2000-03-20"
-last_updated: "2011-03-31"
+last_updated: "2011-08-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16225&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CODIGO PENAL DEL ESTADO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 31 DE MARZO DE 2011.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 12 DE AGOSTO DE 2011.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el lunes 20 de marzo del 2000.
 
@@ -1933,9 +1933,9 @@ A quien porte, fabrique, importe, regale, trafique, o acopie sin un fin lícito 
 
 Se entiende por acopio la reunión de tres o más armas de las mencionadas en el artículo anterior.
 
-### CAPITULO IV. INCUMPLIMIENTO DE OBLIGACIONES ALIMENTARIAS
+### CAPITULO IV. INCUMPLIMIENTO DE OBLIGACIONES
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 26 DE NOVIEMBRE DE 2004)</small>
+> <small>(REFORMADO, G.G. 12 DE AGOSTO DE 2011)</small>
 
 ###### Artículo 181.
 
@@ -2307,25 +2307,27 @@ A los testigos y a las personas que intervengan en la celebración del nuevo mat
 
 El término para la prescripción de la bigamia, empezará a correr desde que uno de los dos matrimonios haya quedado disuelto por la muerte de uno de los cónyuges, o que el segundo haya sido declarado nulo. El término de la prescripción del matrimonio ilegal empieza a correr desde la disolución del matrimonio o por la muerte de uno de los cónyuges.
 
-> <small>(REFORMADA SU DENOMINACION, G.G. 1 DE SEPTIEMBRE DE 2000)</small>
+> <small>(REFORMADA SU DENOMINACION, G.G. 12 DE AGOSTO DE 2011)</small>
 
 ### CAPITULO VI. DISPOSICIONES GENERALES
 
 ###### Artículo 217.
 
-Comete este delito, el que sin motivo justificado abandone a sus descendientes, ascendientes, cónyuge, concubina, concubino, o acreedor alimentario sin recursos para atender sus necesidades de subsistencia, aun cuando estos, con motivo del abandono se vean obligados a allegarse por cualquier medio de recursos para satisfacer sus requerimientos indispensables, independientemente de que se inicie o no la instancia civil. El delito se sancionará con prisión de dos a cinco años y de treinta a quinientos días multa.
+Comete el delito de incumplimiento de obligaciones, quien incurra en las siguientes conductas:
 
-> <small>(REFORMADO, G.G. 26 DE NOVIEMBRE DE 2004)</small>
+l. El que estando obligado por la ley, sin motivo justificado abandone a sus descendientes, ascendientes, cónyuge, concubina, concubinario o acreedor alimentario, sin recursos para atender sus necesidades de subsistencia, aun cuando éstos, con motivo del abandono, se vean obligados a allegarse por cualquier medio de recursos para satisfacer sus requerimientos indispensables, independientemente de que se inicie o no la instancia civil. El delito se sancionará con prisión de dos a cinco años y de treinta a quinientos días multa;
 
-Este delito se perseguirá a petición del ofendido o del legítimo representante de los hijos o de los Sistemas para el Desarrollo Integral de la Familia Estatal o Municipal, Instituciones de Asistencia Privada debidamente constituidas y a falta de estos, la acción se iniciará por el Ministerio Público como representante legítimo de los menores. Para que el perdón concedido por el ofendido pueda extinguir la pretensión punitiva, deberá el inculpado pagar todas las cantidades que hubiera dejado de ministrar por concepto de alimentos y garantizar el pago futuro de los mismos, por un término no menor a un año.
+II. El que intencionalmente se coloque en estado de insolvencia, con el objeto de eludir el cumplimiento de las obligaciones alimentarias que la ley determina, se le impondrán de dos a siete años de prisión y de treinta a trescientos días multa. El órgano jurisdiccional determinará la aplicación del producto del trabajo que realice el inculpado, para satisfacer las obligaciones alimentarias a su cargo; y
 
-Al que intencionalmente se coloque en estado de insolvencia, con el objeto de eludir el cumplimiento de las obligaciones alimentarias que la ley determina, se le impondrán de dos a siete años de prisión y de treinta a trescientos días multa. El órgano jurisdiccional determinará la aplicación del producto del trabajo que realice el inculpado, para satisfacer las obligaciones alimentarias a su cargo.
+III. El padre, madre, tutor o quien tenga legalmente la custodia de un menor de edad, que por incurrir en negligencia u omisión en más de una ocasión en las obligaciones que le impone la ley, ponga en riesgo la salud mental o física del menor, se le impondrán de dos a siete años de prisión y de treinta a trescientos días multa.
 
-Este delito se perseguirá de oficio si de él resultare algún peligro, lesión o la muerte, independientemente de las reglas de concurso.
+El Ministerio Público solicitará al Sistema Estatal para el Desarrollo Integral de la Familia, información sobre antecedentes a que se refiere este artículo, en los términos de las disposiciones jurídicas aplicables.
 
-> <small>(ADICIONADO, G.G. 26 DE NOVIEMBRE DE 2004)</small>
+Este delito se perseguirá por querella, salvo cuando los ofendidos sean menores de edad o incapaces; en cuyo caso, se perseguirá de oficio. En el caso de las fracciones I y II, para que el perdón concedido por el ofendido pueda extinguir la pretensión punitiva, deberá el inculpado pagar todas las cantidades que hubiere dejado de ministrar por concepto de alimentos y garantizará el pago futuro de los mismos, por un término no menor a un año.
 
-Al inculpado de este delito además de las sanciones señaladas se impondrá la pérdida (sic) los derechos inherentes a la patria potestad del menor o incapaz agraviado por resolución judicial.
+Al inculpado de este delito, además de las sanciones señaladas, se le impondrá la pérdida de los derechos inherentes a la patria potestad del menor o incapaz agraviado, por resolución judicial.
+
+El inculpado de este delito, durante la investigación del mismo y al rendir su declaración, será apercibido por el Ministerio Público para que se abstenga de realizar cualquier conducta que pudiere causar daño a los pasivos.
 
 > <small>(REFORMADA SU DENOMINACION, G.G. 6 DE MARZO DE 2010)</small>
 
@@ -4242,3 +4244,11 @@ DÉCIMO CUARTO.- Se derogan las disposiciones de igual o menor jerarquía juríd
 DÉCIMO QUINTO.- El Programa Estatal de Publicidad Exterior deberá ser expedido por la Secretaría de Comunicaciones en un plazo máximo de cuatro meses contados a partir de la publicación del presente Decreto.
 
 DÉCIMO SEXTO.- Los permisos y autorizaciones en materia de publicidad exterior, vigentes al entrar en vigor las reformas serán respetados en sus términos hasta la conclusión del plazo por el que fueron otorgados. El Programa Estatal de Publicidad Exterior fijará los lineamientos para el otorgamiento de plazos adicionales de vigencia, cuando ello sea procedente.
+
+G.G. 12 DE AGOSTO DE 2011.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- El Sistema para el Desarrollo Integral de la Familia del Estado de México, con el objeto de cumplir con lo dispuesto en la fracción XXI del artículo 18 de la Ley para la Protección de los Derechos de las Niñas, Niños y Adolecentes (sic) del Estado de México, dispondrá de un plazo de seis meses contados a partir de la publicación del presente decreto para desarrollar la base de datos correspondientes.
