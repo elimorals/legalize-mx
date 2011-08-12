@@ -4,7 +4,7 @@ identifier: "GUA-ley-organica-municipal-para-el-estado-de-guanajuato-12552"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1997-07-25"
-last_updated: "2010-06-11"
+last_updated: "2011-08-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12552&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY ORGANICA MUNICIPAL PARA EL ESTADO DE GUANAJUATO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE JUNIO DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE AGOSTO DE 2011.
 
 Ley publicada en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el viernes 25 de julio de 1997.
 
@@ -2077,6 +2077,12 @@ Cuando el Ayuntamiento lo juzgue conveniente, el servicio de mercados y centrale
 
 Artículo 149 A.- Los servicios públicos de tránsito y vialidad, policía preventiva y protección civil se prestarán por el Municipio como áreas de seguridad pública.
 
+> <small>(ADICIONADO, P.O. 12 DE AGOSTO DE 2011)</small>
+
+Artículo 149 B.- El personal de policía preventiva y tránsito y vialidad de las áreas de seguridad pública de los municipios, deberán informar en forma inmediata a su superior jerárquico y al Ministerio Público toda denuncia que reciban y procederán a impedir que los hechos produzcan consecuencias ulteriores, identificar y detener en flagrancia a los probables responsables y preservar el lugar de los hechos, en los términos de la legislación de la materia.
+
+Además, la policía deberá auxiliar al Ministerio Público en la investigación y persecución de los delitos, cuando así se les requiera.
+
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE JULIO DE 2001)</small>
 
 ###### Artículo 150.
@@ -3180,3 +3186,7 @@ El presente Decreto entrará en vigor el cuarto día siguiente de su publicació
 ###### ARTÍCULO SEGUNDO.
 
 Los ayuntamientos contarán con un plazo que no excederá de 180 días contados a partir de la entrada en vigor de este Decreto para adecuar su normatividad al contenido del mismo.
+
+P.O. 12 DE AGOSTO DE 2011.
+
+Artículo Único. La adición del artículo 149 B entrará en vigencia de manera sucesiva conforme se implemente el sistema procesal penal acusatorio en el Estado de Guanajuato, de acuerdo a las regiones que establece el Artículo Primero Transitorio de la Ley del Proceso Penal para el Estado de Guanajuato.
