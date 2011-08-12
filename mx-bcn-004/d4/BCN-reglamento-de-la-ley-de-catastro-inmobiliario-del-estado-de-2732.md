@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-de-la-ley-de-catastro-inmobiliario-del-estado-de-273
 country: "mx"
 rank: "reglamento"
 publication_date: "1994-12-02"
-last_updated: "2010-07-30"
+last_updated: "2011-08-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2732&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 REGLAMENTO DE LA LEY DEL CATASTRO INMOBILIARIO DEL ESTADO DE BAJA CALIFORNIA PARA EL MUNICIPIO DE TIJUANA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE JULIO DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE AGOSTO DE 2011.
 
 Reglamento publicado en la Sección I del Periódico Oficial del Estado de Baja California, el viernes 2 de diciembre de 1994.
 
@@ -83,9 +83,11 @@ XIII.- Deslinde Catastral: Es la acción de medir y señalar físicamente en el 
 
 XIV.- Certificación de Polígonos Catastrales: Es la Constancia de los datos declarados que obran en los archivos de la dirección, que definen los linderos de un predio mayor de 5,000 m2.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE AGOSTO DE 2011)</small>
+
 ###### ARTICULO 4.
 
-El Catastro Inmobiliario en el territorio del Municipio se compone de:
+El Catastro inmobiliario en el territorio del Municipio se compone de cuando menos de los siguientes registros, padrones archivos, datos y mapas digitales.
 
 I.- Registros Gráficos, constituidos por:
 
@@ -105,7 +107,9 @@ a) Padrones impresos en material estable.
 
 b) Archivos digitales.
 
-III.- Archivos Documentales, integrados por expedientes que contienen la documentación propia de cada bien inmueble ubicado en el territorio Municipal.
+> <small>(REFORMADA, P.O. 12 DE AGOSTO DE 2011)</small>
+
+III.- Archivos, documentales integrados por expedientes que contienen la documentación propia de cada bien inmueble, así mismo medios digitales integrados por expedientes que contienen la documentación y las características digitalizadas propias de cada bien inmueble, basada en información generada por medios electrónicos, ópticos o de cualquier tipo o cualquier otra tecnología, condicionando su valor a la fiabilidad del método en que haya sido generada, comunicada, recibida o archivada y, en su caso, si es posible atribuir a las personas obligadas el contenido de la información relativa y ser accesible para su ulterior consulta.
 
 ###### ARTICULO 5.
 
@@ -688,3 +692,9 @@ PRIMERO.- Las presentes reformas entrarán en vigor al día siguiente de su publ
 P.O. 30 DE JULIO DE 2010.
 
 UNICO.- La presente Reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado y deberá publicarse en la Gaceta Municipal y/o en un periódico de esta ciudad, para el conocimiento de los vecinos.
+
+P.O. 12 DE AGOSTO DE 2011.
+
+PRIMERO.- EL PRESENTE ACUERDO ENTRARA EN VIGOR AL MOMENTO DE SU APROBACIÓN, MISMO QUE DEBERÁ PUBLICARSE EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO DE BAJA CALIFORNIA.
+
+SEGUNDO.- SE DEROGAN TODAS Y CADA UNA DE LAS DISPOSICIONES NORMATIVAS Y REGLAMENTARIAS DERIVADAS DE ACUERDOS Y REGLAMENTOS QUE SE OPONGAN A LAS PRESENTES DISPOSICIONES LEGALES.
