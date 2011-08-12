@@ -4,7 +4,7 @@ identifier: "MEX-ley-para-la-proteccion-de-los-derechos-de-las-ninas-ninos-y-409
 country: "mx"
 rank: "ley"
 publication_date: "2004-09-10"
-last_updated: "2011-03-30"
+last_updated: "2011-08-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40968&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY PARA LA PROTECCION DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 30 DE MARZO DE 2011.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 12 DE AGOSTO DE 2011.
 
 Ley publicada en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el viernes 10 de septiembre de 2004.
 
@@ -359,9 +359,31 @@ XVII. Comparecer ante las autoridades o instituciones competentes, en los casos 
 
 XVIII. Recabar los informes y datos estadísticos que requiera para el debido cumplimiento de sus atribuciones y solicitar el auxilio de las demás autoridades en el ámbito de su competencia;
 
-XIX. Promover y gestionar ante la Comisión de Derechos Humanos del Estado de México, la credencialización de promotores de sus propios derechos; y
+> <small>(REFORMADA, G.G. 12 DE AGOSTO DE 2011)</small>
 
-XX. Las demás que les confieran otros ordenamientos jurídicos.
+XIX. Promover y gestionar ante la Comisión de Derechos Humanos del Estado de México, la credencialización de promotores de sus propios derechos;
+
+> <small>(ADICIONADA, G.G. 12 DE AGOSTO DE 2011)</small>
+
+XX. A los Sistemas para el Desarrollo Integral de la Familia de los Municipios, en los casos que conozcan sobre padres, tutores o quien tenga legalmente la custodia de un menor de edad, que impliquen conductas u omisiones que pongan en riesgo la salud mental y/o física de los menores a su cargo; emitirán dictámenes en materia de:
+
+a) Entorno familiar;
+
+b) Socioeconómico;
+
+c) Medicina; y
+
+d) Psicología.
+
+Los dictámenes y, en su caso, el resultado integral de las evaluaciones, se remitirán al Sistema para el Desarrollo Integral de la Familia del Estado de México;
+
+> <small>(ADICIONADA, G.G. 12 DE AGOSTO DE 2011)</small>
+
+XXI. Al Sistema para el Desarrollo Integral de la Familia del Estado de México, elaborar y mantener actualizada una base de datos de los casos en que los padres, tutores o quien tenga legalmente la custodia de un menor de edad, realicen conductas u omisiones que pongan en riesgo la salud mental y/o física de los menores a su cargo, y dar seguimiento de los mismos en coordinación con los Sistemas para el Desarrollo Integral de la Familia de los Municipios.
+
+Hacer del conocimiento del Ministerio Público, los casos en que los padres, tutores o quienes tengan legalmente la custodia de un menor de edad, incurran en las conductas a que se refiere el párrafo anterior, y rendir los informes, dictámenes, antecedentes e información con que cuente al respecto; y
+
+XXII. Las demás que les confieran otros ordenamientos jurídicos.
 
 ### CAPITULO SEGUNDO. DE LAS OBLIGACIONES DE LA FAMILIA, DE LA SOCIEDAD Y DEL ESTADO
 
@@ -808,3 +830,11 @@ TERCERO.- El Comisionado de los Derechos Humanos, ahora denominado Presidente de
 CUARTO.- Toda disposición y ordenamiento legal, reglamentaria o administrativa que haga referencia al Comisionado de los Derechos Humanos del Estado de México, se entenderá que es al Presidente de la Comisión de Derechos Humanos del Estado de México.
 
 QUINTO.- El Consejo Consultivo de la Comisión de Derechos Humanos del Estado de México, deberá realizar las modificaciones correspondientes a la normatividad del Organismo, dentro de los ciento ochenta días naturales siguientes a la entrada en vigor de este Decreto.
+
+G.G. 12 DE AGOSTO DE 2011.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- El Sistema para el Desarrollo Integral de la Familia del Estado de México, con el objeto de cumplir con lo dispuesto en la fracción XXI del artículo 18 de la Ley para la Protección de los Derechos de las Niñas, Niños y Adolecentes del Estado de México, dispondrá de un plazo de seis meses contados a partir de la publicación del presente decreto para desarrollar la base de datos correspondientes.
