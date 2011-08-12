@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-interno-del-instituto-de-salud-del-estado-de-44019"
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-03-01"
-last_updated: "2005-07-06"
+last_updated: "2011-08-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44019&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "MEX"
 
 REGLAMENTO INTERNO DEL INSTITUTO DE SALUD DEL ESTADO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 6 DE JULIO DE 2005.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO TERCERO DEL REGLAMENTO INTERNO DEL INSTITUTO DE SALUD DEL ESTADO DE MEXICO, PUBLICADO EN LA SECCION PRIMERA DE LA G.G. DEL 12 DE AGOSTO DE 2011, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: ABROGADO.
 
 Reglamento publicado en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el martes 1 de marzo de 2005.
 
@@ -662,3 +664,11 @@ DIRECTOR DE ADMINISTRACION DEL INSTITUTO DE SALUD DEL ESTADO DE MEXICO Y SECRETA
 G.G. 6 DE JULIO DE 2005.
 
 UNICO.- El presente Acuerdo, entrará en vigor al día siguiente de su publicación en el periódico oficial "Gaceta del Gobierno".
+
+G.G. 12 DE AGOSTO DE 2011.
+
+PRIMERO.- Publíquese el presente Reglamento en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- Este Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- Se abroga el Reglamento Interno del Instituto de Salud del Estado de México, publicado en el Periódico Oficial "Gaceta del Gobierno" el 1 de marzo de 2005.
