@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-servicio-de-defensoria-de-oficio-para-el-estado-de-12480
 country: "mx"
 rank: "ley"
 publication_date: "1994-07-23"
-last_updated: "1994-07-23"
+last_updated: "2011-08-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12480&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "NAY"
 ---
 # LEY DE SERVICIO DE DEFENSORIA DE OFICIO PARA EL ESTADO DE NAYARIT
 
-LEY DE SERVICIO DE DEFENSORIA DE OFICIO PARA EL ESTADO DE NAYARIT
+LEY DE SERVICIO DE DEFENSORÍA DE OFICIO PARA EL ESTADO DE NAYARIT
 
-TEXTO ORIGINAL
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO, DE LA LEY DE DEFENSORÍA DE OFICIO DEL ESTADO DE NAYARIT, PUBLICADA EN LA SECCIÓN CUARTA DEL P.O. 13 DE AGOSTO DE 2011, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADA.
 
 Ley Publicada en la Segunda Sección del Periódico Oficial del Estado de Nayarit el sábado 23 de Julio de 1994.
 
@@ -422,3 +424,19 @@ Y en cumplimiento de lo dispuesto en la Fracción II del Artículo 69 de la Cons
 El Secretario General de Gobierno
 
 C.P. Antonio Echevarría Domínguez
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 13 DE AGOSTO DE 2011.
+
+Primero.- La presente Ley entrará en vigor a los noventa días siguientes de su publicación en el Periódico Oficial Órgano del Gobierno del Estado de Nayarit.
+
+Segundo.- Se abroga la Ley de Servicio de Defensoría de Oficio para el Estado de Nayarit, publicado el 23 de Julio de 1994, en el Periódico Oficial Órgano del Gobierno del Estado de Nayarit.
+
+Tercero.- La estructura orgánica de la jefatura de departamento de la defensoría de oficio se transfiere al Instituto de la Defensoría de Oficio del Estado a la entrada en vigor de la presente Ley. Se instruye a la (sic) Secretarías conducentes realizar los ajustes de transferencias.
+
+Cuarto.- A la entrada en vigor del presente decreto, se iniciará el traspaso de los recursos humanos, materiales, técnicos y financieros, de conformidad con el acuerdo de transferencia que al efecto disponga el Titular del Poder Ejecutivo.
+
+Quinto.- En la transferencia de los recursos humanos se deberán respetar los derechos laborales de los trabajadores.
+
+Sexto.- El Reglamento de la presente ley deberá expedirse dentro de los 90 días siguientes a su entrada en vigor.
