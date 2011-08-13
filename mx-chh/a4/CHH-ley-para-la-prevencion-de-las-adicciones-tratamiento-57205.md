@@ -4,7 +4,7 @@ identifier: "CHH-ley-para-la-prevencion-de-las-adicciones-tratamiento-57205"
 country: "mx"
 rank: "ley"
 publication_date: "2007-10-03"
-last_updated: "2010-10-02"
+last_updated: "2011-08-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57205&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY PARA LA PREVENCION DE LAS ADICCIONES, TRATAMIENTO, DISMINUCION DE DAÑO Y REINSERCION SOCIAL DE LAS PERSONAS CON ADICCION EN EL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE OCTUBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE AGOSTO DE 2011.
 
 Ley publicada en el Periódico Oficial del Estado de Chihuahua, el miércoles 3 de octubre de 2007.
 
@@ -95,7 +95,7 @@ XI. Sociedad: Población del Estado de Chihuahua.
 
 XII. Adicción o Dependencia: Conjunto de fenómenos del comportamiento, cognoscitivos y fisiológicos, que se desarrollan luego del consumo repetido de una sustancia psicoactiva.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO DEL P.O. 14 DE AGOSTO DE 2010 Y DEL P.O. 13 DE AGOSTO DE 2011 QUE MODIFICAN LA LEY.</small>
 
 > <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2010)</small>
 
@@ -113,7 +113,7 @@ XVIII. Reinserción social: Acciones dirigidas a promover un mejor estilo de vid
 
 XIX. Sustancias Adictivas, Estupefacientes o Psicotrópicas: Todas aquellas sustancias de origen mineral, vegetal o animal, de uso médico, industrial, de efectos estimulantes o deprimentes y narcóticos, que actúan sobre el sistema nervioso, alterando las funciones psíquicas y/o físicas, cuyo consumo puede producir adicción.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO DEL P.O. 14 DE AGOSTO DE 2010 Y DEL P.O. 13 DE AGOSTO DE 2011 QUE MODIFICAN LA LEY.</small>
 
 > <small>(REFORMADA, P.O. 14 DE AGOSTO DEL 2010)</small>
 
@@ -133,7 +133,7 @@ El Estado y la sociedad asumen la obligación de sensibilizar, prevenir, disminu
 
 Las disposiciones de esta Ley se aplicarán sin perjuicio de las contenidas en otras normas sobre cuestiones específicas que se relacionan con las materias que regula este ordenamiento.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO DEL P.O. 14 DE AGOSTO DE 2010 Y DEL P.O. 13 DE AGOSTO DE 2011 QUE MODIFICAN LA LEY.</small>
 
 > <small>(REFORMADO, P.O. 14 DE AGOSTO DEL 2010)</small>
 
@@ -373,7 +373,7 @@ Así mismo, serán invitados a participar con voz, pero sin voto, aquellas perso
 
 ### CAPÍTULO QUINTO. DEL REGISTRO
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR EL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO DEL P.O. 14 DE AGOSTO DE 2010 Y DEL P.O. 13 DE AGOSTO DE 2011 QUE MODIFICAN LA LEY.</small>
 
 > <small>(REFORMADO, P.O. 14 DE AGOSTO DEL 2010)</small>
 
@@ -385,7 +385,7 @@ La Secretaría tiene a su cargo el Registro Estatal de los Centros de Atención 
 
 Son requisitos para obtener el Registro Estatal los siguientes:
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO DEL P.O. 14 DE AGOSTO DE 2010 Y DEL P.O. 13 DE AGOSTO DE 2011 QUE MODIFICAN LA LEY.</small>
 
 > <small>(REFORMADA, P.O. 14 DE AGOSTO DEL 2010)</small>
 
@@ -483,7 +483,7 @@ IX. Permitir el acceso a las autoridades correspondientes y facilitar las medida
 
 X. Permitir y facilitar las visitas e inspecciones que la autoridad competente les practique, para fiscalizar el destino de los fondos públicos entregados.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO DEL P.O. 14 DE AGOSTO DE 2010 Y DEL P.O. 13 DE AGOSTO DE 2011 QUE MODIFICAN LA LEY.</small>
 
 > <small>(ADICIONADA, P.O. 14 DE AGOSTO DEL 2010)</small>
 
@@ -671,9 +671,11 @@ P.O. 14 DE AGOSTO DEL 2010.
 
 DECRETO NUMERO 1047/2010 II P.O., POR EL QUE SE REFORMAN Y ADICIONAN LOS ARTICULOS 2; 5; 9; 21; 22 Y 28 DE LA LEY PARA LA PREVENCION DE LAS ADICCIONES, TRATAMIENTO, DISMINUCION DE DAÑO Y REINSERCION SOCIAL DE PERSONAS CON ADICCION EN EL ESTADO DE CHIHUAHUA.
 
+> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 2011)</small>
+
 ###### ARTÍCULO PRIMERO.
 
-El presente Decreto entrará en vigor un año después de su publicación en el Periódico Oficial del Estado.
+El presente Decreto entrará en vigor el día veinte de agosto del año dos mil doce.
 
 ###### ARTÍCULO SEGUNDO.
 
@@ -754,3 +756,9 @@ P.O. 2 DE OCTUBRE DE 2010.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día cinco de octubre de dos mil diez, previa su publicación en el Periódico Oficial del Estado.
+
+P.O. 13 DE AGOSTO DE 2011.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
