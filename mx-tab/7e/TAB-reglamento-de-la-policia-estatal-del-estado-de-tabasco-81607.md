@@ -4,7 +4,7 @@ identifier: "TAB-reglamento-de-la-policia-estatal-del-estado-de-tabasco-81607"
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-03-05"
-last_updated: "2011-03-05"
+last_updated: "2011-08-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81607&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "TAB"
 ---
 # REGLAMENTO DE LA POLICIA ESTATAL DEL ESTADO DE TABASCO
 
-> <small>N. DE E. PARA CONSULTAR LA VERSION CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 13 DE AGOSTO DE 2011 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGIA CORRESPONDIENTE A DICHA FECHA, EN EL INDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 REGLAMENTO DE LA POLICIA ESTATAL DEL ESTADO DE TABASCO
 
 TEXTO ORIGINAL.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIODICO OFICIAL EL 13 DE AGOSTO DE 2011.</small>
 
 Reglamento publicado en el Suplemento del Periódico Oficial del Estado de Tabasco, el sábado 5 de marzo de 2011.
 
@@ -75,8 +75,6 @@ IX. Secretario: al Secretario de Seguridad Pública del Estado de Tabasco.
 
 ### CAPÍTULO II. DE LA ESTRUCTURA Y ORGANIZACIÓN DE LA POLICÍA ESTATAL
 
-> <small>N. DE E. PARA CONSULTAR LA VERSION CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 13 DE AGOSTO DE 2011 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGIA CORRESPONDIENTE A DICHA FECHA, EN EL INDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA, ASI COMO EL ARCHIVO ANEXO.</small>
-
 ###### Artículo 5.
 
 Para el estudio, planeación y despacho de los asuntos de su competencia, la Policía Estatal contará con la siguiente estructura orgánica:
@@ -115,7 +113,9 @@ b. Dirección de Servicios al Público.
 
 V. Comisión del Servicio Profesional de Carrera Policial; y
 
-VI. Comisión de Justicia.
+> <small>(F. DE E., 13 DE AGOSTO DE 2011)</small>
+
+VI. Comisión de Honor y Justicia.
 
 La Policía Estatal y su estructura podrán contar, además, con las unidades administrativas y órganos operativos que por las necesidades del servicio se requieran, de acuerdo a su capacidad presupuestal y conforme a las disposiciones normativas aplicables.
 
@@ -1015,15 +1015,17 @@ XVI. Mantener actualizada la base de datos integrada por el padrón vehicular, l
 
 XVII. Las demás que le confieran las disposiciones legales aplicables o le asignen sus superiores jerárquicos.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSION CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 13 DE AGOSTO DE 2011 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGIA CORRESPONDIENTE A DICHA FECHA, EN EL INDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+### CAPÍTULO VIII
 
-### CAPÍTULO VIII. DE LAS COMISIONES DEL SERVICIO PROFESIONAL DE CARRERA POLICIALY (SIC) DE JUSTICIA
+> <small>(F. DE E., 13 DE AGOSTO DE 2011)</small>
 
-> <small>N. DE E. PARA CONSULTAR LA VERSION CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 13 DE AGOSTO DE 2011 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGIA CORRESPONDIENTE A DICHA FECHA, EN EL INDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA, ASI COMO EL ARCHIVO ANEXO.</small>
+DE LAS COMISIONES DEL SERVICIO PROFESIONAL DE CARRERA POLICIAL Y DE HONOR Y JUSTICIA
+
+> <small>(F. DE E., 13 DE AGOSTO DE 2011)</small>
 
 ###### Artículo 26.
 
-La actuación, obligaciones y atribuciones de la Comisión del Servicio Profesional de Carrera Policial y de la Comisión de Justicia, así como las de sus integrantes, se regirán por el Reglamento del Servicio Profesional de Carrera y el Reglamento de Justicia Policial, respectivamente, sin perjuicio de lo establecido en la Ley General, la Ley, sus reglamentos y demás disposiciones jurídicas aplicables.
+La actuación, obligaciones y atribuciones de la Comisión del Servicio Profesional de Carrera Policial y de la Comisión de Honor y Justicia, así como de las de sus integrantes, se regirán por el Reglamento del Servicio Profesional de Carrera Policial y el Reglamento de la Comisión de Honor y Justicia, respectivamente, sin perjuicio de lo establecido en la Ley General, la Ley, sus reglamentos y demás disposiciones jurídicas aplicables.
 
 ### CAPÍTULO IX. DE LAS FUERZAS DE TAREA Y DE LOS OFICIALES DE CASO
 
