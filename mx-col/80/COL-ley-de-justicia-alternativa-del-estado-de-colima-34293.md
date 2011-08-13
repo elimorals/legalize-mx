@@ -4,7 +4,7 @@ identifier: "COL-ley-de-justicia-alternativa-del-estado-de-colima-34293"
 country: "mx"
 rank: "ley"
 publication_date: "2003-09-27"
-last_updated: "2003-09-27"
+last_updated: "2011-08-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34293&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DE JUSTICIA ALTERNATIVA DEL ESTADO DE COLIMA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE AGOSTO DE 2011.
 
 Ley publicada en el Suplemento No. 1 del Periódico Oficial del Estado de Colima, el sábado 27 de septiembre de 2003.
 
@@ -131,11 +131,15 @@ Toda persona que enfrente un conflicto de naturaleza jurídica tiene derecho a r
 
 El trámite de los procedimientos alternativos previstos en esta Ley, no interrumpe la prescripción de las acciones relativas a los asuntos sometidos, directamente por los particulares, a la mediación o conciliación.
 
+> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 2011)</small>
+
 ###### Artículo 10.
 
-En los juicios del orden civil y familiar, una vez contestada la demanda y resueltas las excepciones de previo y especial pronunciamiento relativas a la legitimación de las partes, el Juez tendrá la obligación de convocar a las partes a una audiencia, a fin de que comparezcan personalmente y conozcan la posibilidad de someter el conflicto a la mediación o a la conciliación. La inasistencia de las partes a esta audiencia se entenderá como una negativa a someter su conflicto a los medios alternativos. En caso de que asistan y acepten, el Juez suspenderá el procedimiento hasta por dos meses, que no serán computados para efectos de la caducidad de la instancia, y notificará al Centro Estatal o Regional, en su caso, con copia certificada de las actuaciones, para que cite a los interesados a una audiencia informativa y aplique el método que las partes prefieran.
+En los juicios del orden civil, familiar y mercantil, con las salvedades contempladas en el artículo 7° de esta Ley, el Juez en el auto de radicación deberá informar a las partes, la posibilidad que tienen de someter el conflicto a la mediación o conciliación con la finalidad de solucionarlo, indicando los beneficios que se obtienen con este tipo de medios de solución de conflictos; así como el domicilio del Centro de Justicia Alternativa que corresponda, para que las partes estén en posibilidad de acudir si así lo estiman conveniente.
 
-Si una o ambas partes rechazan someterse a los procedimientos alternativos, continuará el procedimiento judicial, sin perjuicio de que manifiesten posteriormente, por escrito, su voluntad de someterse a un procedimiento no jurisdiccional para resolver el conflicto.
+En caso de que las partes manifiesten en forma expresa su intención de someter la controversia planteada a la conciliación o mediación, el Juez suspenderá el procedimiento hasta por dos meses, que no serán computados para efectos de la caducidad de la instancia, remitiendo al Centro Estatal o Regional, en su caso, copia certificada de las actuaciones, para que cite a los interesados a una audiencia informativa y aplique el método que las partes prefieran.
+
+Si una o ambas partes rechazan someterse a los procedimientos alternativos, el Director del Centro correspondiente lo informará al Juez de la causa dentro del plazo de veinticuatro horas, levantándose la suspensión del procedimiento decretada, sin perjuicio de que manifiesten posteriormente su voluntad de someterse a un procedimiento no jurisdiccional para resolver el conflicto.
 
 ###### Artículo 11.
 
@@ -790,3 +794,9 @@ Por tanto mando se imprima, publique, circule y observe.
 Dado en Palacio de Gobierno, a los 23 días del mes de septiembre del año dos mil tres.
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, LIC. FERNANDO MORENO PEÑA. Rúbrica. EL SECRETARIO GENERAL DE GOBIERNO, LIC. JOSÉ GILBERTO GARCÍA NAVA. Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 13 DE AGOSTO DE 2011.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial "El Estado de Colima.
