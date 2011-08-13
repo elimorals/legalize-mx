@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-transito-y-transporte-del-estado-de-nayarit-11597"
 country: "mx"
 rank: "ley"
 publication_date: "1997-12-17"
-last_updated: "2007-08-18"
+last_updated: "2011-08-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11597&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY DE TRANSITO Y TRANSPORTE DEL ESTADO DE NAYARIT
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE AGOSTO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE AGOSTO DE 2011.
 
 Ley Publicada en la Segunda Sección del Periódico Oficial del Estado de Nayarit, el miércoles 17 de diciembre de 1997.
 
@@ -904,6 +904,26 @@ II.- Cuando el conductor transite en estado de ebriedad, bajo el influjo de drog
 III.- Cuando obstaculice la vía pública, ponga en peligro la integridad física de las personas, desprenda materias contaminantes, olores nauseabundos o produzca ruido excesivo;
 
 IV.- Cuando participe en hechos de tránsito de los que resulten ilícitos y en cualquier otro caso en que hubiese sido el medio utilizado para la comisión de delito.
+
+> <small>(ADICIONADO, P.O. 13 DE AGOSTO DE 2011)</small>
+
+ARTICULO 90 A.- Los conductores deben someterse a las pruebas de detección de ingestión de alcohol o sustancias psicotrópicas, estupefacientes o cualquier otra que altere el comportamiento de las personas y produzca dependencia física o psicológica, cuando lo solicite la autoridad competente.
+
+Los agentes pueden detener la marcha de un vehículo cuando se implementen programas de control y prevención de ingesta de alcohol o de sustancias psicotrópicas, estupefacientes o cualquier otra que altere el comportamiento de las personas y produzca dependencia física o psicológica para conductores de vehículos, estos programas deben ser elaborados coordinadamente entre la Dirección de Tránsito y Transporte del Estado y la instancia dedicada a la prevención del delito del Gobierno del Estado, y los mismos se deberán publicar en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+> <small>(ADICIONADO, P.O. 13 DE AGOSTO DE 2011)</small>
+
+ARTICULO 90 B.- Cuando los agentes cuenten con dispositivos especiales, métodos o técnicas para la detección de alcohol o de sustancias psicotrópicas, estupefacientes o cualquier otra que altere el comportamiento de las personas y produzca dependencia física o psicológica, se procederá de la manera que sigue:
+
+l. Los conductores se someterán a las pruebas para la detección del grado de intoxicación ya sea de alcohol o sustancias psicotrópicas, estupefacientes o cualquier otra que altere el comportamiento de las personas y produzca dependencia física o psicológica que establece la Dirección de Tránsito y Transporte del Estado y el Centro Estatal de Prevención del Delito;
+
+II. El agente entregará un ejemplar del comprobante de los resultados de la prueba al conductor, inmediato a su realización;
+
+III. En caso de que el conductor sobrepase el límite permitido de alcohol o se encuentre bajo el efecto de sustancias psicotrópicas, estupefacientes o cualquier otra que altere el comportamiento de las personas y produzca dependencia física o psicológica será remitido al Juez Calificador, y
+
+IV. El agente entregará un ejemplar del comprobante de los resultados de la prueba al Juez Calificador ante el cual sea presentado, documento que tendrá valor probatorio indiciario respecto de la cantidad de alcohol o de la sustancias psicotrópicas, estupefacientes o cualquier otra que altere el comportamiento de las personas y produzca dependencia física o psicológica y servirá de base para el dictamen del Médico Legista, que determine el tiempo probable de recuperación.
+
+Cuando el conductor sobrepase la cantidad de alcohol permitida, el vehículo será remitido al depósito vehicular, a no ser, que cuente con alguna persona que conduzca el vehículo en los términos de Ley.
 
 ###### ARTICULO 91.
 
@@ -1853,7 +1873,9 @@ E.- Se aplicará multa de cincuenta hasta cien días de salario mínimo general 
 
 2. Omitir dar aviso de cambio de propietario;
 
-3. A quien conduzca bajo los efectos de estupefacientes, psicotrópicos o bebidas alcohólicas, cualquier vehículo de los señalados fracciones I, II y IV del artículo 53 de esta Ley; y
+> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 2011)</small>
+
+3. A quien conduzca cualquier vehículo de los señalados en las fracciones I, II y IV del artículo 52 de esta Ley, bajo los efectos de sustancias psicotrópicas, estupefacientes o cualquier otra que altere el comportamiento de las personas y produzca dependencia física o psicológica o tengan una cantidad de alcohol en la sangre superior a 0.8 gramos por litro o de alcohol en aire expirado superior a 0.4 miligramos por litro, y
 
 4. Huir con o sin vehículo del lugar del accidente.
 
@@ -1879,17 +1901,37 @@ El crédito fiscal derivado de una multa, podrá pagarse sin recargo alguno, den
 
 Contra las resoluciones y actos administrativos de las autoridades que contravengan lo previsto en este ordenamiento, podrá interponerse el recurso administrativo de inconformidad o el juicio ante el Tribunal de Justicia Administrativa, en términos de la Ley de Justicia y Procedimientos Administrativos del Estado de Nayarit.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 13 DE AGOSTO DE 2011)</small>
+
 ###### ARTICULO 197.
 
-(DEROGADO POR ARTICULO SEGUNDO DEL DECRETO QUE APRUEBA LA LEY DE JUSTICIA Y PROCEDIMIENTOS ADMINISTRATIVOS DEL ESTADO DE NAYARIT, P.O. 17 DE AGOSTO DE 2002)
+Si el infractor dentro de los diez días hábiles que sigan a la fecha de la infracción cubre el pago de la sanción impuesta, ésta podrá ser reducida hasta en un cincuenta por ciento.
+
+> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 2011)</small>
 
 ###### ARTICULO 198.
 
-Si el infractor dentro de los diez días hábiles que sigan a la fecha de la infracción cubre con el pago de la sanción impuesta, ésta podrá ser reducida hasta en un cincuenta por ciento.
+A los reincidentes de las infracciones señaladas en el artículo 194 apartados E y F, en su respectivo numeral 3, se aplicará además de la multa correspondiente arresto inconmutable de entre veinte y treinta y seis horas.
+
+Para los efectos del presente ordenamiento se considerará que existe reincidencia, cuando se cometan dos infracciones del mismo tipo dentro de un periodo de seis meses.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 13 DE AGOSTO DE 2011)</small>
 
 ###### ARTICULO 199.
 
-(DEROGADO POR ARTICULO SEGUNDO DEL DECRETO QUE APRUEBA LA LEY DE JUSTICIA Y PROCEDIMIENTOS ADMINISTRATIVOS DEL ESTADO DE NAYARIT, P.O. 17 DE AGOSTO DE 2002)
+Los conductores de vehículos destinados al servicio de transporte público en cualquiera de sus modalidades que presenten algún grado de ingesta de alcohol, ya sea por medio de aire expirado o en la sangre o se detecte algún grado en el cuerpo de sustancias psicotrópicas, estupefacientes o cualquier otra que altere el comportamiento de las personas y produzca dependencia física o psicológica, se harán acreedores a la aplicación de la sanción pecuniaria contemplada en el presente ordenamiento y además a la suspensión de la licencia de manejo por un periodo de 15 hasta 60 días.
+
+> <small>(ADICIONADO, P.O. 13 DE AGOSTO DE 2011)</small>
+
+###### ARTÍCULO 200.
+
+En la imposición de las infracciones por la contravención a las disposiciones del presente ordenamiento, se observará lo siguiente;
+
+I. Las circunstancias personales del infractor;
+
+II. La gravedad del daño causado, y
+
+III. En su caso la reincidencia.
 
 ## TRANSITORIOS
 
@@ -1992,3 +2034,13 @@ Primero. El presente Decreto entrará en vigor al día siguiente de su publicaci
 Segundo. Los titulares de permisos del servicio público de transporte, contarán con un plazo de 6 meses contados a partir de la entrada en vigor de la presente reforma, para tramitar ante la Dirección el Título donde se contenga el permiso.
 
 Tercero. Las transmisiones de permisos del servicio público de transporte, que a la entrada en vigor del presente Decreto se hubieren realizado, deberán ser debidamente protocolizados en los términos indicados, en un plazo no mayor de 6 meses; en caso de omisión a esta disposición el Ejecutivo Estatal podrá revocarlos.
+
+P.O. 13 DE AGOSTO DE 2011.
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, órgano del Gobierno del Estado de Nayarit.
+
+###### ARTÍCULO SEGUNDO.
+
+El Titular del Poder Ejecutivo y los Gobiernos Municipales del Estado deberán ajustar sus reglamentos en lo referente a la materia de la presente iniciativa en un término máximo de 90 días naturales, contados a partir de su publicación.
