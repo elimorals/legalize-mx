@@ -4,7 +4,7 @@ identifier: "CHH-codigo-municipal-para-el-estado-de-chihuahua-4610"
 country: "mx"
 rank: "codigo"
 publication_date: "1995-11-18"
-last_updated: "2011-08-06"
+last_updated: "2011-08-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4610&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CODIGO MUNICIPAL PARA EL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE AGOSTO DE 2011.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE AGOSTO DE 2011.
 
 Código publicado en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 18 de noviembre de 1995.
 
@@ -2943,21 +2943,31 @@ Son objeto de derechos por servicios generales en los rastros municipales, toda 
 
 DERECHO POR SERVICIO DE ALUMBRADO PUBLICO
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 2011)</small>
+
 ###### ARTICULO 175.
 
-Es objeto de este derecho, el servicio de alumbrado público que el Municipio presta a través de sus contratantes, en calles, plazas, jardines y otros lugares de uso común.
+Es objeto de este derecho, el servicio de alumbrado público que el municipio presta en bienes de uso común, de los señalados en el artículo 105, fracción III, de este Código.
 
-Son sujetos del mismo, los consumidores de energía eléctrica previstos en las tarifas de derechos que anualmente aprueba el Congreso del Estado.
+Son sujetos de este derecho, los propietarios o poseedores de predios, ya sean urbanos, semiurbanos o rústicos, ubicados en el área territorial del municipio.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 2011)</small>
 
 ###### ARTICULO 176.
 
-Los derechos por el servicio de alumbrado público, se cubrirán por los causantes, sobre su consumo mensual de energía eléctrica, de acuerdo con la cuota que señale la Ley de Ingresos del Municipio, la que no podrá exceder del cinco por ciento, sobre el importe de dicho consumo.
+El derecho de alumbrado público se liquidará bimestralmente o, en su caso, mensualmente.
 
-Los ingresos provenientes del derecho por servicio de alumbrado público, serán recaudados por conducto de la Comisión Federal de Electricidad, mediante el cargo correspondiente, que deberá hacerse en las facturaciones, que formule a los consumidores sujetos al pago de este derecho.
+El pago se realizará, para los usuarios de la Comisión Federal de Electricidad en el recibo que ésta expida, simultáneamente con el pago del consumo de energía eléctrica, en el que se indicará la cuota correspondiente.
 
-La Comisión Federal de Electricidad, aplicará lo recaudado al pago del importe de la energía eléctrica, suministrada al Municipio y entregará a la Presidencia Municipal, los remanentes, mismos que sólo se destinarán al mantenimiento, mejoras, reposición y ampliación de alumbrado público en el Municipio relativo, previa autorización expresa del Ayuntamiento.
+Para los contribuyentes que no son usuarios de la Comisión Federal de Electricidad, el pago se efectuará en la Tesorería Municipal o en los organismos o empresas autorizados para tal efecto, debiendo expedir el recibo correspondiente.
 
-La Comisión Federal de Electricidad, enviará mensualmente a la Presidencia Municipal un estado de cuenta, en el que se especifiquen las cantidades acreditadas por la recaudación de los derechos, el importe del consumo por energía eléctrica a cargo del Municipio, las aplicaciones efectuadas y el saldo resultante.
+Anualmente, en la Ley de Ingresos de cada uno de los municipios, estos establecerán las cuotas y/o bases para el cálculo y determinación del derecho de alumbrado público.
+
+Una vez cubierto el monto del costo del alumbrado público, en su caso, los remanentes se destinarán al mejoramiento de este servicio público, incluyendo el mantenimiento y remozamiento de los bienes de uso común, a que se refiere la fracción III del artículo 105 de este Código.
 
 DERECHOS POR LOS SERVICIOS DE ASEO, RECOLECCION Y TRANSPORTE DE BASURA.
 
@@ -4133,23 +4143,11 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 
 P.O. 30 DE MARZO DE 2011.
 
-DECRETO No.
+> <small>(DEROGADO, P.O. 13 DE AGOSTO DE 2011)</small>
 
-249/2011 P.O.
-
-LA SEXAGÉSIMA TERCERA LEGISLATURA DEL HONORABLE CONGRESO DEL ESTADO DE CHIHUAHUA, REUNIDA EN SU SEGUNDO PERIODO ORDINARIO DE SESIONES, DENTRO DEL PRIMER AÑO DE EJERCICIO CONSTITUCIONAL,
-
-DECRETA
+DECRETO No. 249/2011 P.O.
 
 ## TRANSITORIOS
-
-###### ARTÍCULO PRIMERO.
-
-El presente Decreto entrará en vigor el día 3 de marzo del año dos mil once, sin perjuicio de su publicación en el Periódico Oficial del Estado.
-
-###### ARTÍCULO SEGUNDO.
-
-Los municipios de la Entidad deberán aplicar las disposiciones contenidas en el presente Decreto a más tardar en un plazo de seis meses, contados a partir de su entrada en vigor.
 
 ###### ARTÍCULO PRIMERO.
 
@@ -4161,14 +4159,6 @@ Hágase del conocimiento de los 67 Ayuntamientos del Estado, el contenido del pr
 
 P.O. 11 DE MAYO DE 2011.
 
-###### ARTÍCULO ÚNICO.
-
-Se modifica el Artículo Único Transitorio del Decreto 210/2010 I P.O., aprobado el 20 de diciembre del año 2010, por este H. Congreso del Estado de Chihuahua, para denominarse Artículo Primero, y se adicionan un Artículo Segundo y un Artículo Tercero, para quedar redactados de la siguiente forma:
-
-###### ARTÍCULO ÚNICO.
-
-El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
-
 ###### ARTÍCULO PRIMERO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
@@ -4179,6 +4169,32 @@ El Ejecutivo del Estado expedirá la reglamentación que se requiera para la ade
 
 P.O. 6 DE AGOSTO DE 2011.
 
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 13 DE AGOSTO DE 2011.
+
+> <small>(DEROGADO, P.O. 13 DE AGOSTO DE 2011)</small>
+
+DECRETO No. 210/2010 I P.O., POR EL QUE SE REFORMAN LOS ARTICULOS 175 Y 176 DEL CODIGO MUNICIPAL PARA EL ESTADO DE CHIHUAHUA.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día 28 de febrero del año dos mil once, sin perjuicio de su publicación en el Periódico Oficial del Estado.
+
+P.O. 13 DE AGOSTO DE 2011.
+
+DECRETO No. 372/2011 II P.O., POR EL QUE SE REFORMAN LOS ARTICULOS 175 Y 176 DEL CODIGO MUNICIPAL PARA EL ESTADO DE CHIHUAHUA.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día primero de enero del año dos mil doce.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan los Decretos No. 210/2010 I P.O., de fecha 20 de diciembre del 2010; y 249/2011 II P.O., de fecha 3 de marzo del 2011.
+
 ###### ARTÍCULO TERCERO.
 
-Para los efectos del presente Decreto, los municipios de la Entidad, deberán remitir a esta Soberanía para su aprobación las Iniciativas de modificación a sus leyes de ingresos para el actual ejercicio fiscal.
+Publíquese en el Periódico Oficial del Estado.
