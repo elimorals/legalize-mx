@@ -4,7 +4,7 @@ identifier: "JAL-codigo-de-procedimientos-civiles-del-estado-de-jalisco-5753"
 country: "mx"
 rank: "codigo"
 publication_date: "1938-12-24"
-last_updated: "2011-07-30"
+last_updated: "2011-08-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5753&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "JAL"
 
 CODIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE JULIO DE 2011.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE AGOSTO DE 2011.
 
 Código publicado en el Periódico Oficial del Estado de Jalisco, el 24 de diciembre de 1938.
 
@@ -5680,6 +5680,14 @@ Si antes de la celebración de la audiencia de pruebas y alegatos, el demandado 
 
 > <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2003)</small>
 
+ARTICULO 686 ter.- La audiencia a que se refiere el artículo anterior podrá ser diferida, a criterio del juez, por una sola ocasión, de oficio o a petición de parte, justificando debidamente el motivo del aplazamiento.
+
+> <small>(F. DE E., P.O. 30 DE MARZO DE 2004)</small>
+
+Cuando la causa del diferimiento de la audiencia, en los términos del párrafo anterior, sea la imposibilidad de desahogar en ese momento alguna prueba, el juez señalará nueva fecha para su celebración, dentro de los diez días siguientes, apercibiendo a las partes que de no aportar los elementos necesarios para el desahogo de las mismas, se les tendrá por perdido ese derecho, continuándose con el desarrollo de la audiencia.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2003)</small>
+
 ARTICULO 686 bis.- El juez debe citar a la audiencia de pruebas y alegatos, dentro de los treinta días posteriores a la emisión del auto que admite la contestación de la demanda o de la reconvención, en su caso, previniendo a las partes, con por lo menos cinco días de anticipación a la fecha señalada para la celebración de la audiencia, para que aporten los elementos necesarios para el desahogo de las pruebas a su cargo.
 
 Abierta la audiencia se procederá al desahogo, por su orden, de las pruebas y una vez desahogadas, se procederá a la formulación de alegatos, ya sea oralmente o por escrito. Acto continuo el juez citará a las partes, para oír sentencia, misma que deberá ser dictada, dentro de los quince días siguientes.
@@ -5687,14 +5695,6 @@ Abierta la audiencia se procederá al desahogo, por su orden, de las pruebas y u
 > <small>(F. DE E., P.O. 30 DE MARZO DE 2004)</small>
 
 Las partes podrán alegar verbalmente, sin que los alegatos puedan exceder de veinte minutos por cada parte, incluyendo las réplicas y contrarréplicas.
-
-> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2003)</small>
-
-ARTICULO 686 ter.- La audiencia a que se refiere el artículo anterior podrá ser diferida, a criterio del juez, por una sola ocasión, de oficio o a petición de parte, justificando debidamente el motivo del aplazamiento.
-
-> <small>(F. DE E., P.O. 30 DE MARZO DE 2004)</small>
-
-Cuando la causa del diferimiento de la audiencia, en los términos del párrafo anterior, sea la imposibilidad de desahogar en ese momento alguna prueba, el juez señalará nueva fecha para su celebración, dentro de los diez días siguientes, apercibiendo a las partes que de no aportar los elementos necesarios para el desahogo de las mismas, se les tendrá por perdido ese derecho, continuándose con el desarrollo de la audiencia.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1994)</small>
 
@@ -6572,11 +6572,15 @@ Si en el curso del juicio se hace constar que los bienes son inferiores a los cr
 
 Al cumplir el síndico lo que se dispone en el artículo 783, presentará también dictamen, por separado, respecto del juicio que se hubiese formado de las causas que motivaron la insolvencia del deudor y concluirá pidiendo, si estima que de las actuaciones resultaré motivo para presumir la insolvencia culpable o fraudulenta, se consignen los hechos al Ministerio Público para la averiguación correspondiente. La falta de dictamen no impedirá que el juez, en cualquier estado del concurso, ya sea de oficio o a solicitud de la parte interesada, haga la consignación antes indicada.
 
-### CAPITULO I.
+### CAPÍTULO VII. De la Extinción de Dominio de Bienes
 
-Disposiciones Generales.
+> <small>(ADICIONADO, P.O. 13 DE AGOSTO DE 2011)</small>
 
-(REFORMADO, P.O. 31 DE DICIEMBRE DE 1994) (F. DE E., P.O. 26 DE ENERO DE 1995)
+ARTICULO 953 bis.- Los jueces de extinción de dominio y, en tanto estos sean nombrados, los jueces civiles de primera instancia o mixtos serán competentes para conocer de los procedimientos de extinción de dominio de bienes, dentro del ámbito de su competencia y de acuerdo con la Ley de Extinción de Dominio del Estado de Jalisco.
+
+> <small>(ADICIONADO, P.O. 13 DE AGOSTO DE 2011)</small>
+
+ARTICULO 953 ter.- El procedimiento de extinción de dominio de bienes procederá en los términos de la Ley de Extinción de Dominio del Estado de Jalisco.
 
 ###### ARTICULO 817.
 
@@ -7492,6 +7496,18 @@ De la declaración judicial se remitirá copia autorizada al Secretario de la De
 
 En lo demás se observará lo dispuesto en el Capítulo que antecede.
 
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 13 DE AGOSTO DE 2011)</small>
+
+### CAPITULO I.
+
+Disposiciones Generales.
+
+(REFORMADO, P.O. 31 DE DICIEMBRE DE 1994) (F. DE E., P.O. 26 DE ENERO DE 1995)
+
+## TITULO DECIMO TERCERO.
+
+De La Jurisdicción Voluntaria.
+
 ### CAPITULO II.
 
 De la Declaración de Estado; del Nombramiento de Tutores y Curadores; del Discernimiento de estos Cargos y de las Cuentas de la Tutela.
@@ -7499,14 +7515,6 @@ De la Declaración de Estado; del Nombramiento de Tutores y Curadores; del Disce
 Sección 1a.
 
 De la Declaración de Estado.
-
-## TITULO DECIMO TERCERO.
-
-De La Jurisdicción Voluntaria.
-
-### CAPITULO III.
-
-De la Disposición de Bienes de Menores, Incapacitados y Ausentes y de la Transacción Sobre sus Derechos.
 
 ###### ARTICULO 954.
 
@@ -7572,11 +7580,9 @@ Los actos de jurisdicción voluntaria de que no se hiciere mención especial en 
 
 Los actos de que tratan los capítulos siguientes se sujetarán a las reglas que en ellos se establecen y a las contenidas en el presente, en cuanto no se opongan a lo establecido en sus respectivos capítulos.
 
-### CAPITULO IV.
+### CAPITULO III.
 
-De la Adopción.
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE OCTUBRE DE 2009)</small>
+De la Disposición de Bienes de Menores, Incapacitados y Ausentes y de la Transacción Sobre sus Derechos.
 
 ###### ARTICULO 965.
 
@@ -7942,9 +7948,11 @@ Cuando el examen de la cuenta resulten motivos graves para sospechar dolo o frau
 
 En todos los casos en que el tutor necesite para algún acto de la licencia del juez o de su aprobación, se requerirá la previa audiencia del curador, con el cual, en caso de oposición, se substanciará juicio ordinario. En este juicio se decidirá solamente la diferencia entre el tutor y el curador y no se admitirá, ni de las sentencias definitivas ni de las interlocutorias, recurso alguno. De la denegación de la licencia que haya pedido el tutor con aprobación del curador, se admitirán los recursos que correspondan según derecho, a los negocios de mayor interés.
 
-### CAPITULO V.
+### CAPITULO IV.
 
-De la Excusa y Pérdida de la Patria Potestad y de la Emancipación.
+De la Adopción.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE OCTUBRE DE 2009)</small>
 
 ###### ARTICULO 1014.
 
@@ -8034,11 +8042,9 @@ Lo dispuesto en los artículos que preceden se aplicará al gravamen y enajenaci
 
 Cuando se trata de enajenar, gravar o hipotecar a título oneroso, bienes que pertenezcan al incapacitado como copropietario, se comenzará por mandar justipreciar dichos bienes para fijar con toda precisión su valor y la parte que en ellos represente el incapacitado, a fin de que el juez resuelva si conviene o no que se dividan materialmente dichos bienes para que aquel reciba en plena propiedad su porción; o si, por el contrario, es conveniente la enajenación, gravamen o hipoteca fijando en este caso las condiciones y seguridades con que debe hacerse; pudiendo, si lo estimare conveniente, dispensar la almoneda siempre que consientan en ello el tutor y el curador.
 
-### CAPITULO VI.
+### CAPITULO V.
 
-De la Custodia de las Personas.
-
-> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2009)</small>
+De la Excusa y Pérdida de la Patria Potestad y de la Emancipación.
 
 ###### ARTICULO 1027.
 
@@ -8082,11 +8088,11 @@ Si el adoptado fuere menor de edad, no se decretará la conversión, sin escucha
 
 Rendidas las justificaciones y desahogadas las pruebas, el juez dictará su resolución, en un término no mayor de quince días de la celebración de la audiencia, y al causar Estado remitirá copias de la misma al Oficial del Registro Civil para que levante el acta correspondiente, o para que cancele el acta de adopción si fuese revocación.
 
-### CAPITULO VII.
+### CAPITULO VI.
 
-De las Informaciones Ad-Perpetuam.
+De la Custodia de las Personas.
 
-> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 1962)</small>
+> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2009)</small>
 
 ###### ARTICULO 1032.
 
@@ -8142,9 +8148,11 @@ De las resoluciones en que se conceda la emancipación se remitirá copia certif
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 24 DE OCTUBRE DE 2009)</small>
 
-### CAPITULO VIII.
+### CAPITULO VII.
 
-Del Apeo y Deslinde.
+De las Informaciones Ad-Perpetuam.
+
+> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 1962)</small>
 
 ###### ARTICULO 1040.
 
@@ -8230,11 +8238,9 @@ En los dos últimos casos el Juez volverá al menor a casa de las personas bajo 
 
 En las diligencias de que trata este capítulo se oirá precisamente al Agente de la Procuraduría Social y contra las resoluciones que se dicten no procederá recurso alguno.
 
-### CAPITULO IX.
+### CAPITULO VIII.
 
-Disposiciones Relativas a Otros Actos de Jurisdicción Voluntaria.
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE MAYO DE 2007)</small>
+Del Apeo y Deslinde.
 
 ###### ARTICULO 1051.
 
@@ -8298,9 +8304,11 @@ Si hubiere oposición y se fundare en título debidamente registrado con anterio
 
 No tendrá valor la información cuando se hubiere recibido habiendo juicio pendiente o anunciado, aún cuando se pretenda que se ratifique ante el Juez.
 
-### CAPITULO UNICO.
+### CAPITULO IX.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1994)</small>
+Disposiciones Relativas a Otros Actos de Jurisdicción Voluntaria.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE MAYO DE 2007)</small>
 
 ###### ARTICULO 1058.
 
@@ -8359,6 +8367,10 @@ Los puntos respecto de los cuales hubiere oposición, no quedarán deslindados n
 ###### ARTICULO 1063.
 
 Los gastos del apeo se harán a prorrata por el que lo promueva y los propietarios colindantes; pero el Juez podrá a su arbitrio eximir de la obligación de contribuir a los gastos, a los colindantes que sean notoriamente pobres.
+
+### CAPITULO UNICO.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1994)</small>
 
 ###### ARTICULO 1064.
 
@@ -8939,3 +8951,9 @@ DECRETO NUMERO 23467/LIX/10, SE REFORMA EL PRIMER PARRAFO DEL ARTICULO 871 DEL C
 P.O. 30 DE JULIO DE 2011.
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 13 DE AGOSTO DE 2011.
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+SEGUNDO. Se autoriza al titular del Poder Ejecutivo del Estado para que, por conducto de las dependencias correspondientes, realice las modificaciones y adecuaciones presupuestales y administrativas necesarias para el debido cumplimiento del presente decreto, en un plazo no mayor a sesenta días naturales contados a partir de la entrada en vigor de este decreto, de lo cual informará al Congreso del Estado.
