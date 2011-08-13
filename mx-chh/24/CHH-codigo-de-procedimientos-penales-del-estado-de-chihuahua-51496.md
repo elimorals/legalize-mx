@@ -4,7 +4,7 @@ identifier: "CHH-codigo-de-procedimientos-penales-del-estado-de-chihuahua-51496"
 country: "mx"
 rank: "codigo"
 publication_date: "2006-08-09"
-last_updated: "2011-05-14"
+last_updated: "2011-08-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51496&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,9 +25,7 @@ CODIGO DE PROCEDIMIENTOS PENALES DEL ESTADO DE CHIHUAHUA
 
 > <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO ÚNICO DEL DECRETO 276/08 II P.O. SE EXPIDE LA DECLARATORIA DE INCORPORACIÓN DEL NUEVO SISTEMA PROCESAL PENAL ACUSATORIO EN EL ESTADO DE CHIHUAHUA, PUBLICADA EN EL P.O. 30 DE JULIO DE 2008, LA CUAL ENTRARÁ EN VIGOR A PARTIR DE LAS CERO HORAS: 1.- EN EL DISTRITO JUDICIAL MORELOS, DEL 1o. DE ENERO DE 2007; 2.- EN EL DISTRITO JUDICIAL BRAVOS, DEL 1o. DE ENERO DE 2008; 3.- EN EL RESTO DE LOS DISTRITOS JUDICIALES DEL ESTADO, DEL 1o. DE JULIO DE 2008.</small>
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE MAYO DE 2011.
-
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 14 DE MAYO DE 2011.</small>
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE AGOSTO DE 2011.
 
 Código publicado en el Folleto Anexo al Periódico Oficial del Estado Chihuahua, el miércoles 9 de agosto de 2006.
 
@@ -1118,6 +1116,12 @@ I. Apercibimiento.
 II. Intervención de la fuerza pública.
 
 III. Multa de diez a doscientos días de salario.
+
+###### Artículo 108.
+
+Carga de la prueba.
+
+La carga de la prueba corresponderá al Ministerio Público.
 
 ###### Artículo 108.
 
@@ -2589,7 +2593,7 @@ Los agentes del Ministerio Público promoverán y dirigirán la investigación, 
 
 A partir de que tengan conocimiento de la existencia de un hecho que revista caracteres de delito, los agentes del Ministerio Público procederán de inmediato a la práctica de todas aquellas diligencias pertinentes y útiles al esclarecimiento y averiguación del hecho, de las circunstancias relevantes para la aplicación de la ley penal, de los autores y partícipes, así como de las circunstancias que sirvan para verificar la responsabilidad de éstos. Asimismo, deberán impedir que el hecho denunciado produzca consecuencias ulteriores.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICAN EL CÓDIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO DEL P.O. 14 DE AGOSTO DE 2010 Y DEL P.O. 13 DE AGOSTO DE 2011 QUE MODIFICAN EL CÓDIGO.</small>
 
 > <small>(ADICIONADO, P.O. 14 DE AGOSTO DE 2010)</small>
 
@@ -2805,7 +2809,7 @@ Inspecciones colectivas.
 
 Cuando la policía realice inspecciones de personas o de vehículos, colectiva o masivamente, en el marco de una investigación de un delito, se deberá realizar bajo dirección del Ministerio Público, con el fin de que éste vele por la legalidad del procedimiento. Si es necesaria la inspección de personas o vehículos determinados o identificados, el procedimiento se regirá según los Artículos anteriores.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO DEL P.O. 14 DE AGOSTO DE 2010 Y DEL P.O. 13 DE AGOSTO DE 2011 QUE MODIFICAN EL CODIGO.</small>
 
 > <small>(ADICIONADO, P.O. 14 DE AGOSTO DE 2010)</small>
 
@@ -2829,7 +2833,7 @@ Quien tuviera en su poder objetos o documentos de los señalados, estará obliga
 
 En los casos urgentes, esta medida podrá delegarse por orden del Ministerio Público, bajo su estricta responsabilidad, en un agente policial.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO DEL P.O. 14 DE AGOSTO DE 2010 Y DEL P.O. 13 DE AGOSTO DE 2011 QUE MODIFICAN EL CODIGO.</small>
 
 > <small>(ADICIONADO, P.O. 14 DE AGOSTO DE 2010)</small>
 
@@ -5211,9 +5215,11 @@ SEGUNDO.- Los artículos 438 al 455 del Código de Procedimientos Penales del Es
 
 P.O. 14 DE AGOSTO DE 2010.
 
+> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 2011)</small>
+
 ###### ARTÍCULO PRIMERO.
 
-El presente Decreto entrará en vigor un año después de su publicación en el Periódico Oficial del Estado.
+El presente Decreto entrará en vigor el día veinte de agosto del año dos mil doce.
 
 ###### ARTÍCULO SEGUNDO.
 
@@ -5294,6 +5300,12 @@ P.O. 19 DE FEBRERO DE 2011.
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 P.O. 7 DE MAYO DE 2011.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 13 DE AGOSTO DE 2011.
 
 ###### ARTÍCULO ÚNICO.
 
