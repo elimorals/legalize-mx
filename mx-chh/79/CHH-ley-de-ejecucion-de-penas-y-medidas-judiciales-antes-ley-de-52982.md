@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-ejecucion-de-penas-y-medidas-judiciales-antes-ley-de-529
 country: "mx"
 rank: "ley"
 publication_date: "2006-12-09"
-last_updated: "2011-05-14"
+last_updated: "2011-08-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52982&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "CHH"
 
 LEY DE EJECUCIÓN DE PENAS Y MEDIDAS JUDICIALES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE MAYO DE 2011.
-
-> <small>N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 14 DE MAYO DE 2011 NO APLICA AL ARTICULADO DEL DECRETO 298/2001 II P.O PUBLICADO EN EL P.O. DE 7 DE MAYO DE 2011.</small>
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE AGOSTO DE 2011.
 
 Ley publicada en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 9 de diciembre de 2006.
 
@@ -1207,7 +1205,7 @@ I.- Que haya cumplido la mitad de la pena de prisión impuesta en los delitos do
 
 II.- Haber acreditado plenamente durante su estancia en prisión, los estudios de personalidad que le sean practicados por el Consejo.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO DEL P.O. 14 DE AGOSTO DE 2010 Y DEL P.O. 13 DE AGOSTO DE 2011 QUE MODIFICAN LA LEY.</small>
 
 > <small>(ADICIONADO, P.O. 14 DE AGOSTO DE 2010)</small>
 
@@ -2163,7 +2161,7 @@ No podrán ser recluidos en los establecimientos penitenciarios a que se refiere
 
 En las áreas penitenciarias preventivas sólo se recluirá a los procesados. En tanto, en las destinadas a la ejecución de penas sólo se recluirá a los sentenciados ejecutoriados.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO DEL P.O. 14 DE AGOSTO DE 2010 Y DEL P.O. 13 DE AGOSTO DE 2011 QUE MODIFICAN LA LEY.</small>
 
 > <small>(REFORMADO, P.O. 14 DE AGOSTO DE 2010)</small>
 
@@ -2557,9 +2555,11 @@ SEGUNDO.- Los artículos 438 al 455 del Código de Procedimientos Penales del Es
 
 P.O. 14 DE AGOSTO DE 2010.
 
+> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 2011)</small>
+
 ###### ARTÍCULO PRIMERO.
 
-El presente Decreto entrará en vigor un año después de su publicación en el Periódico Oficial del Estado.
+El presente Decreto entrará en vigor el día veinte de agosto del año dos mil doce.
 
 ###### ARTÍCULO SEGUNDO.
 
@@ -2642,6 +2642,12 @@ Los procedimientos penales iniciados antes de la entrada en vigor del presente D
 Las disposiciones relativas a los delitos de secuestro previstas en el Código Penal del Estado hasta la entrada en vigor del presente Decreto, seguirán aplicándose por los hechos realizados durante su vigencia. Así mismo, dichos preceptos seguirán aplicándose a las personas procesadas o sentenciadas por los delitos previstos y sancionados por los mismos artículos.
 
 P.O. 7 DE MAYO DE 2011.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 13 DE AGOSTO DE 2011.
 
 ###### ARTÍCULO ÚNICO.
 
