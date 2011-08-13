@@ -4,7 +4,7 @@ identifier: "CHH-ley-estatal-de-salud-4748"
 country: "mx"
 rank: "ley"
 publication_date: "1987-03-11"
-last_updated: "2010-08-14"
+last_updated: "2011-08-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4748&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY ESTATAL DE SALUD
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE AGOSTO DEL 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE AGOSTO DE 2011.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 11 de marzo de 1987.
 
@@ -115,19 +115,19 @@ XVI.- La asistencia social;
 
 XVII.- La participación con las autoridades federales en el desarrollo de los programas contra el alcoholismo y el tabaquismo;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO DEL P.O. 14 DE AGOSTO DE 2010 Y DEL P.O. 13 DE AGOSTO DE 2011 QUE MODIFICAN LA LEY.</small>
 
 > <small>(REFORMADA, P. O. 14 DE AGOSTO DEL 2010)</small>
 
 XVIII.- El control sanitario de los expendios de alimentos, bebidas alcohólicas y no alcohólicas;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO DEL P.O. 14 DE AGOSTO DE 2010 Y DEL P.O. 13 DE AGOSTO DE 2011 QUE MODIFICAN LA LEY..</small>
 
 > <small>(REFORMADA, P. O. 14 DE AGOSTO DEL 2010)</small>
 
 XIX.- La prevención del consumo de narcóticos, atención a las adicciones y persecución de los delitos contra la salud, en los términos del artículo 474 de la Ley General de Salud, y
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO DEL P.O. 14 DE AGOSTO DE 2010 Y DEL P.O. 13 DE AGOSTO DE 2011 QUE MODIFICAN LA LEY.</small>
 
 > <small>(ADICIONADA, P. O. 14 DE AGOSTO DEL 2010)</small>
 
@@ -1533,7 +1533,7 @@ II.- La educación a la familia para prevenir el consumo de tabaco por parte de 
 
 ### CAPITULO III. PROGRAMA CONTRA LA FARMACODEPENDENCIA
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO DEL P.O. 14 DE AGOSTO DE 2010 Y DEL P.O. 13 DE AGOSTO DE 2011 QUE MODIFICAN LA LEY.</small>
 
 > <small>(REFORMADO, P. O. 14 DE AGOSTO DE 2010)</small>
 
@@ -1549,7 +1549,7 @@ I. Promover y llevar a cabo campañas permanentes de información y orientación
 
 II. Proporcionar información y brindar la atención médica y los tratamientos que se requieran a las personas que consuman estupefacientes y psicotrópicos.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO DEL P.O. 14 DE AGOSTO DE 2010 Y DEL P.O. 13 DE AGOSTO DE 2011 QUE MODIFICAN LA LEY.</small>
 
 > <small>(REFORMADO PRIMER PARRAFO, P. O. 14 DE AGOSTO DE 2010)</small>
 
@@ -1561,13 +1561,13 @@ I.- Determinarán y ejercerán medios de control en el expendio de substancias i
 
 II.- Establecerán sistemas de vigilancia en los establecimientos destinados al expendio y uso de dichas substancias, para evitar el empleo indebido de las mismas;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO DEL P.O. 14 DE AGOSTO DE 2010 Y DEL P.O. 13 DE AGOSTO DE 2011 QUE MODIFICAN LA LEY.</small>
 
 > <small>(REFORMADA, P. O. 14 DE AGOSTO DE 2010)</small>
 
 III.- Brindarán la atención médica que se requiera, a las personas que realicen o hayan realizado el consumo de narcóticos; y
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO DEL P.O. 14 DE AGOSTO DE 2010 Y DEL P.O. 13 DE AGOSTO DE 2011 QUE MODIFICAN LA LEY.</small>
 
 > <small>(REFORMADA, P. O. 14 DE AGOSTO DE 2010)</small>
 
@@ -1581,25 +1581,25 @@ A los establecimientos que vendan o utilicen substancias inhalantes con efectos 
 
 ### CAPITULO III BIS. DE LA PARTICIPACION DEL ESTADO EN LA PERSECUCION DE LOS DELITOS CONTRA LA SALUD, EN SU MODALIDAD DE NARCOMENUDEO
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO DEL P.O. 14 DE AGOSTO DE 2010 Y DEL P.O. 13 DE AGOSTO DE 2011 QUE MODIFICAN LA LEY.</small>
 
 > <small>(ADICIONADO, P. O. 14 DE AGOSTO DE 2010)</small>
 
 ARTICULO 156 BIS.- Las autoridades de seguridad pública, procuración e impartición de justicia, así como de ejecución de penas y medidas de seguridad del Estado, conocerán y resolverán de los delitos o ejecutarán las sanciones y medidas de seguridad a que se refiere el Capítulo VII del Título Décimo Octavo, de la Ley General de Salud, en la forma y con la competencia prevista en el artículo 474 de la propia Ley.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO DEL P.O. 14 DE AGOSTO DE 2010 Y DEL P.O. 13 DE AGOSTO DE 2011 QUE MODIFICAN LA LEY.</small>
 
 > <small>(ADICIONADO, P. O. 14 DE AGOSTO DE 2010)</small>
 
 ARTICULO 156 TER.- Los procedimientos penales y, en su caso, la ejecución de las penas y medidas de seguridad por los delitos a que se refiere este Capítulo, se regirán por las leyes del Estado en la materia, salvo en los casos del destino y destrucción de narcóticos y la clasificación de los delitos como graves para fines del otorgamiento de la libertad provisional bajo caución, en los cuales se observarán las disposiciones del Código Federal de Procedimientos Penales.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO DEL P.O. 14 DE AGOSTO DE 2010 Y DEL P.O. 13 DE AGOSTO DE 2011 QUE MODIFICAN LA LEY.</small>
 
 > <small>(ADICIONADO, P. O. 14 DE AGOSTO DE 2010)</small>
 
 ARTICULO 156 QUATER.- El Ministerio Público o el Juez de Garantía, en su caso, tan pronto identifiquen que una persona relacionada con un procedimiento es farmacodependiente, deberán informar de inmediato y, en su caso, dar intervención a la Secretaría de Salud del Estado, para los efectos del tratamiento que corresponda.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO DEL P.O. 14 DE AGOSTO DE 2010 Y DEL P.O. 13 DE AGOSTO DE 2011 QUE MODIFICAN LA LEY.</small>
 
 > <small>(ADICIONADO, P. O. 14 DE AGOSTO DE 2010)</small>
 
@@ -2739,9 +2739,11 @@ DÉCIMO.- En tanto se expidan los Reglamentos y Normas Técnicas que se deriven 
 
 P. O. 14 DE AGOSTO DE 2010.
 
+> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 2011)</small>
+
 ###### ARTÍCULO PRIMERO.
 
-El presente Decreto entrará en vigor un año después de su publicación en el Periódico Oficial del Estado.
+El presente Decreto entrará en vigor el día veinte de agosto del año dos mil doce.
 
 ###### ARTÍCULO SEGUNDO.
 
@@ -2754,3 +2756,9 @@ Los procedimientos penales que se estén substanciando a la entrada en vigor del
 ###### ARTÍCULO CUARTO.
 
 A las personas a las que se les impute la comisión o hayan cometido un delito de los contemplados en el presente Decreto con anterioridad a su entrada en vigor, incluidas las procesadas o sentenciadas, les serán aplicables las disposiciones vigentes en el momento en que se haya cometido.
+
+P.O. 13 DE AGOSTO DE 2011.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
