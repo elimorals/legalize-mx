@@ -4,7 +4,7 @@ identifier: "TAB-reglamento-interior-de-la-secretaria-de-seguridad-publica-81606
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-03-05"
-last_updated: "2011-03-05"
+last_updated: "2011-08-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81606&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "TAB"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA DE SEGURIDAD PUBLICA DEL ESTADO DE TABASCO
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 13 DE AGOSTO DE 2011, EN EL P.O. DEL ESTADO DE TABASCO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 REGLAMENTO INTERIOR DE LA SECRETARÍA DE SEGURIDAD PÚBLICA DEL ESTADO DE TABASCO
 
 TEXTO ORIGINAL.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 13 DE AGOSTO DE 2011.]</small>
 
 Reglamento publicado en el Suplemento del Periódico Oficial del Estado de Tabasco, el sábado 5 de marzo de 2011.
 
@@ -1389,9 +1389,11 @@ XIV. Administrar y supervisar las condiciones de la maquinaria, equipo e instrum
 
 ### CAPÍTULO ÚNICO. DE LA SUPLENCIA DE LOS SERVIDORES PÚBLICOS DE LA SECRETARÍA
 
+> <small>(F. DE E., P.O. 13 DE AGOSTO DE 2011)</small>
+
 ###### ARTÍCULO 46.
 
-Durante la ausencia del Secretario, el despacho y resolución de los asuntos estarán a cargo del Director General de Prevención y Reinserción Social, en ausencia de este, el Director General de Protección Civil, y en ausencia de este, del Director General de Administración, cuando sus ausencias no sean mayores de quince días, y cuando ellas sean superiores de quince días por el servidor público que designe el Gobernador del Estado.
+VII. (SIC) Durante la ausencia del Secretario, el despacho y resolución de los asuntos estarán a cargo del Comisionado y en ausencia de este, el Director de la Policía Estatal, cuando sus ausencias no sean mayores de quince días, y cuando ellas sean superiores de quince días por el servidor público que designe el Gobernador del Estado.
 
 En los asuntos jurisdiccionales, civiles, administrativos y del trabajo, el Secretario, los Directores Generales y Directores podrán ser suplidos por el Director de Asuntos Jurídicos, de conformidad con las normas aplicables.
 
