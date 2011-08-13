@@ -4,7 +4,7 @@ identifier: "JAL-ley-que-establece-las-bases-para-el-otorgamiento-de-premios-389
 country: "mx"
 rank: "ley"
 publication_date: "2003-12-27"
-last_updated: "2010-12-09"
+last_updated: "2011-08-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=38939&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY QUE ESTABLECE LAS BASES PARA EL OTORGAMIENTO DE PREMIOS Y CONDECORACIONES EN EL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE DICIEMBRE DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE AGOSTO DE 2011.
 
 Ley publicada en la Sección Cuarta del Periódico Oficial del Estado de Jalisco, el sábado 27 de diciembre de 2003.
 
@@ -167,7 +167,9 @@ III. Cultural: a quienes se hayan destacado en el dominio, dedicación, destreza
 
 IV. Cívico: a quienes constituyan, en el Estado, ejemplos de dignidad cívica, por su cabal cumplimiento de la ley; la firme y serena defensa de sus derechos y de los demás; el respeto a las instituciones públicas; su sentido de responsabilidad ante los retos que enfrenta la juventud en el Estado y su espíritu solidario ante ellos; y, en general, por su relevante comportamiento ciudadano digno de aprecio y reconocimiento;
 
-V. Laboral: a quienes por su responsabilidad, constancia e interés en el desempeño de sus labores sean ejemplo a seguir por sus compañeros trabajadores;
+> <small>(REFORMADA, P.O. 13 DE AGOSTO DE 2011)</small>
+
+V. Laboral: a quienes por su antigüedad, franqueza, enseñanza desinteresada, con responsabilidad, constancia e interés en el desempeño de sus labores sean ejemplo a seguir por sus compañeros trabajadores;
 
 > <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2010)</small>
 
@@ -203,7 +205,7 @@ Los premios a que se refiere este artículo serán entregados por el Titular del
 
 ### CAPÍTULO CUARTO. De las Condecoraciones
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 19.
 
@@ -383,7 +385,7 @@ LIC. HÉCTOR PÉREZ PLAZOLA
 
 (RÚBRICA)
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY:</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY:</small>
 
 P.O. 15 DE FEBRERO DE 2005.
 
@@ -394,5 +396,9 @@ P.O. 22 DE DICIEMBRE DE 2007.
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
 
 P.O. 9 DE DICIEMBRE DE 2010.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 13 DE AGOSTO DE 2011.
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
