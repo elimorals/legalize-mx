@@ -4,7 +4,7 @@ identifier: "TAB-reglamento-de-la-comision-de-justicia-de-la-policia-estatal-833
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-03-05"
-last_updated: "2011-03-05"
+last_updated: "2011-08-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=83331&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "TAB"
 ---
 # REGLAMENTO DE LA COMISION DE JUSTICIA DE LA POLICIA ESTATAL DE TABASCO
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 13 DE AGOSTO DE 2011 EN EL P.O. DEL ESTADO DE TABASCO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
-REGLAMENTO DE LA COMISIÓN DE JUSTICIA DE LA POLICÍA ESTATAL DEL ESTADO DE TABASCO
+REGLAMENTO DE COMISIÓN DE HONOR Y JUSTICIA DE LA POLICÍA ESTATAL DEL ESTADO DE TABASCO
 
 TEXTO ORIGINAL.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 13 DE AGOSTO DE 2011.</small>
 
 Reglamento publicado en el Suplemento del Periódico Oficial del Estado de Tabasco, el sábado 5 de marzo de 2011.
 
@@ -35,23 +35,23 @@ C O N S I D E R A N D O.
 
 Por lo que he tenido a bien expedir el siguiente:
 
-REGLAMENTO DE LA COMISIÓN DE JUSTICIA DE LA POLICÍA ESTATAL
+> <small>(F. DE E., P.O. 13 DE AGOSTO DE 2011)</small>
+
+REGLAMENTO DE COMISIÓN DE HONOR Y JUSTICIA DE LA POLICÍA ESTATAL
 
 ## TÍTULO PRIMERO. DISPOSICIONES GENERALES
 
 ### CAPÍTULO ÚNICO. DEFINICIONES
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 13 DE AGOSTO DE 2011 EN EL P.O. DEL ESTADO DE TABASCO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+> <small>(F. DE E., P.O. 13 DE AGOSTO DE 2011)</small>
 
 ###### Artículo 1.
 
-Las disposiciones del presente reglamento, son de orden público e interés general, y tienen por objeto reglamentar los Capítulos I, II, IV, V y VI del Título Décimo, de la Ley de Seguridad Pública para el Estado de Tabasco, relativos al régimen disciplinario y a la organización, funcionamiento y atribuciones de la Comisión de Justicia como instancia auxiliar de la Policía Estatal.
+Las disposiciones del presente reglamento, son de orden público y general, y tiene por objeto reglamentar lo (sic) capítulos I, II, IV, V y VI del Título Décimo de la Ley de Seguridad Pública para el Estado de Tabasco, relativos al régimen disciplinario y a la organización, funcionamiento y atribuciones de la Comisión de Honor y Justicia como instancia auxiliar de la Policía Estatal.
 
 ###### Artículo 2.
 
 La Justicia Policial es el conjunto de procesos que forman parte del régimen disciplinario, y que tienen por objeto conocer y resolver sobre las controversias suscitadas debido al incumplimiento y abuso por parte de los Elementos, de sus deberes y obligaciones.; busca fortalecer el apego al Estado de Derecho y el espíritu de servicio en la Institución.
-
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 13 DE AGOSTO DE 2011 EN EL P.O. DEL ESTADO DE TABASCO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
 
 ###### Artículo 3.
 
@@ -59,11 +59,15 @@ Para efectos del presente Reglamento, se entenderá por:
 
 I. Academia.- A la Academia de Seguridad Pública del Estado de Tabasco;
 
-II. Comisión.- A la Comisión de Justicia;
+> <small>(F. DE E., P.O. 13 DE AGOSTO DE 2011)</small>
+
+II. Comisión.- A la Comisión de Honor y Justicia.
 
 III. Comités.- A los Comités Disciplinarios;
 
-IV. Comisionado.- Al titular de la Policía Estatal;
+> <small>(F. DE E., P.O. 13 DE AGOSTO DE 2011)</small>
+
+IV. Comisionado.- Al Titular de la Comisión de Honor y Justicia.
 
 V. Deberes.- Los señalados con tal denominación por la Ley;
 
@@ -87,9 +91,9 @@ XIV. Ley.- A la Ley de Seguridad Pública para el Estado de Tabasco.
 
 ## TÍTULO SEGUNDO. DE LA INTEGRACIÓN, ATRIBUCIONES Y FUNCIONAMIENTO DE LA COMISIÓN
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 13 DE AGOSTO DE 2011 EN EL P.O. DEL ESTADO DE TABASCO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+> <small>(F. DE E., P.O. 13 DE AGOSTO DE 2011)</small>
 
-### CAPÍTULO I. DE LA COMISIÓN DE JUSTICIA
+### CAPÍTULO I. DE LA COMISIÓN DE HONOR Y JUSTICIA
 
 ###### Artículo 4.
 
