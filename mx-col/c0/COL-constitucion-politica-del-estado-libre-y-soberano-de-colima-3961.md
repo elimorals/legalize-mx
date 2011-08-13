@@ -4,7 +4,7 @@ identifier: "COL-constitucion-politica-del-estado-libre-y-soberano-de-colima-396
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-10-20"
-last_updated: "2011-07-16"
+last_updated: "2011-08-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3961&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE JULIO DE 2011.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE AGOSTO DE 2011.
 
 Constitución publicada en el Periódico Oficial "El Estado de Colima", los días 20, 27 de octubre y 3, 10, 17 y 24 de noviembre de 1917.
 
@@ -251,7 +251,7 @@ No podrá el Congreso abrir sus sesiones sin la concurrencia de la mayoría simp
 
 ###### Artículo 30.
 
-El Congreso, fuera de los períodos que señala el artículo anterior, celebrará sesiones o períodos extraordinarios sólo cuando fuere convocado al efecto por la Comisión Permanente, debiendo ocuparse en ellos solo de los asuntos para los cuales se haya hecho la convocatoria..
+El Congreso, fuera de los períodos que señala el artículo anterior, celebrará sesiones o períodos extraordinarios sólo cuando fuere convocado al efecto por la Comisión Permanente, debiendo ocuparse en ellos solo de los asuntos para los cuales se haya hecho la convocatoria.
 
 > <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2008)</small>
 
@@ -533,19 +533,21 @@ Todas las iniciativas se sujetarán a los trámites establecidos por la Ley Org�
 
 Las resoluciones del Poder Legislativo tendrán el carácter de Decreto-Ley, Decreto y Acuerdo. Las Leyes y Decretos se comunicarán al Ejecutivo firmadas por el Presidente y los Secretarios y los Acuerdos solamente por los Secretarios.
 
-> <small>(REFORMADO, P.O. 10 DE ENERO DE 1953)</small>
+> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 2011)</small>
 
 ###### Artículo 40.
 
-Al presentarse a la Cámara un dictamen de Ley o Decreto, por la Comisión respectiva, y una vez aprobado, se pasará copia de él al Ejecutivo para que en un término no mayor de diez días hábiles, haga las observaciones que estime convenientes y manifieste su conformidad; en este último caso, lo publicará inmediatamente.
+Al presentarse a la Cámara un dictamen de Ley o Decreto, por la Comisión respectiva y una vez aprobado, se remitirá copia de él al Ejecutivo para que en un término no mayor de diez días hábiles, haga las observaciones que estime convenientes o manifieste su conformidad; en este último caso, tendrá un término de cinco días hábiles a partir de que fenezca el término anterior para publicarlo.
 
-Si el Ejecutivo devolviere la Ley o Decreto con observaciones, pasará nuevamente a la Comisión para que previo dictamen sea discutido de nueva cuenta en cuanto a las observaciones hechas; y si fuere confirmado por el voto de las dos terceras partes de los miembros del Congreso, o modificado de conformidad con las observaciones hechas, el Proyecto tendrá el carácter de Ley o Decreto, y será devuelto al Ejecutivo para su inmediata promulgación.
+Transcurrido este último plazo, sin que el Ejecutivo haya realizado la publicación, la Ley o Decreto se tendrá por promulgada para todos los efectos legales, debiendo el Presidente del Congreso o de la Comisión Permanente, en su caso, ordenar la publicación en el Periódico Oficial dentro de los siguientes cinco días hábiles, sin que para ello se requiera refrendo.
 
-> <small>(REFORMADO, P.O. 10 DE ENERO DE 1953)</small>
+Si el Ejecutivo devolviere la Ley o Decreto con observaciones, pasará nuevamente a la Comisión para que previo dictamen sea discutido de nueva cuenta en cuanto a las observaciones hechas; y si fuere confirmado por el voto de las dos terceras partes de los miembros del Congreso, o modificado de conformidad con las observaciones hechas, el Proyecto tendrá el carácter de Ley o Decreto, y será devuelto al Ejecutivo para efectos de su promulgación y publicación dentro de los siguientes cinco días hábiles, de no hacerlo, lo hará el Presidente del Congreso o de la Comisión Permanente, en los términos del párrafo anterior.
+
+> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 2011)</small>
 
 ###### Artículo 41.
 
-Se reputará aprobado por el Poder Ejecutivo todo Proyecto no devuelto con observaciones a la Cámara en el término fijado para este fin, a no ser que, corriendo este término, hubiere el Congreso cerrado o suspendido sus sesiones en cuyo caso, la devolución deberá hacerse el primer día hábil en que el Congreso esté reunido.
+Se reputará aprobado por el Poder Ejecutivo todo Proyecto no devuelto con observaciones a la Cámara en el término fijado para este fin. Dicho término no se interrumpirá si el Congreso cierra o suspende sus sesiones, en cuyo caso la devolución deberá hacerse a la Comisión Permanente.
 
 ###### Artículo 42.
 
@@ -917,7 +919,7 @@ El Poder Judicial del Estado se deposita en el Supremo Tribunal de Justicia, Juz
 
 La Ley Orgánica del Poder Judicial del Estado fijará las atribuciones de los Tribunales y establecerá los procedimientos a que deben sujetarse en la impartición de justicia.
 
-La independencia de los magistrados y jueces en el ejercicio de sus funciones deberá estar garantizada por esta Constitución y la Ley Orgánica respectiva, las cuales establecerán las condiciones para el ingreso, formación y permanencia de quienes sirvan al Poder Judicial del Estado; ejercerán las funciones jurisdiccionales y su ejecución con autonomía absoluta.
+La independencia de los magistrados y jueces en el ejercicio de sus funciones deberá estar garantizada por esta Constitución y la ley orgánica respectiva, las cuales establecerán las condiciones para el ingreso, formación y permanencia de quienes sirvan al Poder Judicial del Estado; ejercerán las funciones jurisdiccionales y su ejecución con autonomía absoluta.
 
 Los recintos del pleno del Supremo Tribunal, de sus salas y de los juzgados, son inviolables.
 
@@ -1103,11 +1105,11 @@ El Tribunal estará integrado por un magistrado propietario y los supernumerario
 
 Estará a cargo del Tribunal de Arbitraje y Escalafón la función jurisdiccional para resolver las controversias de carácter laboral entre el Estado, los municipios, los organismos descentralizados de ambos, con los servidores públicos a su cargo; en este aspecto se regirán por la ley de la materia y sus reglamentos.
 
-> <small>(REFORMADA SU NUMERACION, P.O. 26 DE MARZO DE 1994)</small>
+> <small>(REFORMADA SU DENOMINACION, P.O. 13 DE AGOSTO DE 2011)</small>
 
 ### CAPITULO III.
 
-Del Ministerio Público y de la Defensoría de Oficio.
+Del Ministerio Público y de la Defensoría Pública.
 
 > <small>(REFORMADO, P.O. 26 DE MARZO DE 1994)</small>
 
@@ -1135,17 +1137,17 @@ El Procurador General de Justicia será nombrado y removido libremente por el Ej
 
 Para ser Procurador General de Justicia y Sub-Procurador se requieren los mismos requisitos que para ser Magistrado del Supremo Tribunal de Justicia del Estado, a excepción de la edad, que no será menor de 30 años y, del título profesional de licenciado en derecho, con antigüedad mínima de cinco años, expedida (sic) por autoridad o institución legalmente facultada para ello.
 
-> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 1989)</small>
+> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 2011)</small>
 
 ###### Artículo 84.
 
-La Defensoría de Oficio es una Institución de orden público obligatoria y gratuita que tiene por objeto proporcionar la defensa necesaria en materia penal a las personas que carecen de defensor particular; y el asesoramiento en asuntos civiles, administrativos, mercantiles y de amparo a quienes así lo soliciten y demuestren no estar en condiciones de retribuir los servicios de un abogado postulante.
+La Defensoría de Pública es una Institución de orden público obligatoria y gratuita que tiene por objeto proporcionar la defensa jurídica necesaria en materia penal a las personas que carecen de defensor particular; y el asesoramiento jurídico en asuntos civiles, administrativos, mercantiles, agrarios y de amparo a quienes así lo soliciten y demuestren no estar en condiciones de retribuir los servicios de un abogado postulante.
 
-> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 1989)</small>
+> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 2011)</small>
 
 ###### Artículo 85.
 
-La Ley organizará el Ministerio Público y la Defensoría de Oficio, fijará sus funciones y la estructura administrativa correspondiente, así como el nombramiento y remoción de sus integrantes.
+La Ley organizará el Ministerio Público y la Defensoría Pública, fijará sus funciones y la estructura administrativa correspondiente, así como el nombramiento y remoción de sus integrantes.
 
 > <small>(REFORMADA SU NUMERACION, P.O. 26 DE MARZO DE 1994)</small>
 
@@ -2894,6 +2896,10 @@ P.O. 14 DE MAYO DE 2011.
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
 
 P.O. 16 DE JULIO DE 2011.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 13 DE AGOSTO DE 2011.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
 
