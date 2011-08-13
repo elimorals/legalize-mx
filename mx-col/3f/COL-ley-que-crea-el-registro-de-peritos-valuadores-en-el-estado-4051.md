@@ -4,7 +4,7 @@ identifier: "COL-ley-que-crea-el-registro-de-peritos-valuadores-en-el-estado-405
 country: "mx"
 rank: "ley"
 publication_date: "1992-11-28"
-last_updated: "1995-08-26"
+last_updated: "2011-08-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4051&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "COL"
 
 LEY QUE CREA EL REGISTRO DE PERITOS VALUADORES EN EL ESTADO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE AGOSTO DE 1995.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE VALUACION PARA EL ESTADO DE COLIMA, PUBLICADA EN EL P.O. EL 13 DE AGOSTO DE 2011, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Estado de Colima, el sábado 28 de noviembre de 1992.
 
@@ -290,3 +292,21 @@ TERCERO.- La publicación del directorio de peritos valuadores a que se refiere 
 CUARTO.- La exigencia y validez del refrendo bianual comenzará a surtir efectos a partir del mes de enero de 1996.
 
 Los Peritos registrados deberán acreditar haber cubierto los derechos correspondientes a los ejercicios de 1994 y 1995, previamente a la obtención del refrendo bianual a que se refiere el párrafo anterior.
+
+P.O. 13 DE AGOSTO DE 2011.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial "El Estado de Colima".
+
+SEGUNDO.-Se abroga la LEY QUE CREA EL REGISTRO DE PERITOS VALUADORES EN EL ESTADO DE COLIMA, publicada en el Periódico Oficial "El Estado de Colima" el 28 de noviembre de 1992, aprobada mediante Decreto No. 106.
+
+TERCERO.- Se derogan todas las disposiciones que se opongan a lo dispuesto en la presente Ley.
+
+CUARTO.- Se establece un término de 180 días hábiles, contados a partir de la fecha de publicación de la presente Ley, en el Periódico Oficial "El Estado de Colima", para la expedición de su Reglamento. Mientras tanto se continuarán aplicando los ordenamientos reglamentarios y administrativos vigentes a la fecha de entrada en vigor de la presente Ley, en todo aquello que no la contravenga. Siendo la Comisión la encargada de resolver todas las cuestiones relativas a la aplicación y debidas observancias de esta Ley.
+
+QUINTO.- El Comité deberá instalarse dentro de un término no mayor a 90 días hábiles contados a partir de la entrada en vigor de la presente Ley, por lo que para tal efecto, la Secretaría deberá convocar a los integrantes del mismo, de acuerdo a lo dispuesto en el Artículo 52 de la presente Ley.
+
+SEXTO.- Los registros realizados por los entonces peritos valuadores, seguirán surtiendo efecto hasta en tanto se haga el nuevo registro, término que no podrá exceder de 240 días.
+
+SÉPTIMO.- Los peritos valuadores inscritos actualmente en el Directorio de Peritos Valuadores del Estado a cargo de la Dirección de Catastro, cuyos nombres y datos profesionales se señalan en el directorio respectivo, el cual fue expedido por el Titular de esa dependencia y publicado en el Periódico Oficial "El Estado de Colima", con fecha 27 de marzo del año 2010, serán respetados en todos sus derechos que hayan adquirido en su calidad de Peritos Valuadores, debiendo apegarse, para su refrendo, a las disposiciones de esta Ley y a los programas de capacitación, actualización y profesionalización en materia de valuación, que coordine la Comisión con las Asociaciones de Valuadores Profesionales en la materia, constituidos en el Estado, de acuerdo a sus especialidades respectivas.
+
+OCTAVO.- El cargo de Secretario Técnico del Comité será ejercido por el Director de Catastro, en tanto no sea creada la Dirección General del Instituto del Registro Territorial a que se refiere el artículo 41 fracción III de la presente Ley.
