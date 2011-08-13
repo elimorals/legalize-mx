@@ -4,7 +4,7 @@ identifier: "JAL-ley-organica-de-la-procuraduria-general-de-justicia-del-12026"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1998-02-05"
-last_updated: "2010-12-23"
+last_updated: "2011-08-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12026&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY ORGANICA DE LA PROCURADURIA GENERAL DE JUSTICIA DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE DICIEMBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE AGOSTO DE 2011.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el jueves 5 de febrero de 1998.
 
@@ -69,9 +69,15 @@ VII. Proporcionar atención a las víctimas o los ofendidos por el delito y faci
 
 VIII. Promover la participación de la comunidad en los programas de su competencia, en los términos que los mismos señalen;
 
-IX. Auxiliar a otras autoridades en la persecución de los delitos de la competencia de éstas, en los términos de los convenios, bases y demás instrumentos de colaboración celebrados al efecto, y
+IX. Auxiliar a otras autoridades en la persecución de los delitos de la competencia de éstas, en los términos de los convenios, bases y demás instrumentos de colaboración celebrados al efecto, y (sic)
 
-X. Las demás que señalen otras disposiciones legales.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 13 DE AGOSTO DE 2011)</small>
+
+X. Iniciar y tramitar los procedimientos de extinción de dominio, conforme a los ordenamientos legales aplicables, y
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 13 DE AGOSTO DE 2011)</small>
+
+XI. Las demás que señalen otras disposiciones legales.
 
 ###### Artículo 3º.
 
@@ -319,15 +325,15 @@ El reglamento establecerá el número de unidades administrativas de la Procurad
 
 El Procurador podrá adscribir orgánicamente las unidades administrativas establecidas en el reglamento mediante acuerdos que se publicarán en el periódico oficial "El Estado de Jalisco".
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE AGOSTO DE 2011)</small>
+
 ###### Artículo 15.
 
-La Procuraduría contará con delegaciones que tendrán el carácter de órganos desconcentrados por territorio con autonomía técnica y operativa, cuyos titulares estarán subordinados jerárquicamente al Procurador.
+La Procuraduría contará con delegaciones que tendrán el carácter de órganos desconcentrados por territorio con autonomía técnica y operativa, cuyos titulares se encontrarán al frente de un Coordinador General y estarán subordinados jerárquicamente al Procurador.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 2011)</small>
 
-> <small>(REFORMADO, P.O. 27 DE MAYO DE 2008)</small>
-
-Las delegaciones tendrán funciones en materia de averiguaciones previas, Policía Investigadora, Servicios Periciales, reserva de la averiguación previa, consignación, propuesta del no ejercicio de la acción penal y control de procesos, vigilancia del respeto a los derechos humanos, atención a la violencia de género, servicios a la comunidad, atención a la víctima o el ofendido por algún delito, prevención del delito, seguridad pública, información estadística y servicios administrativos y otros, en los términos que señalen las normas reglamentarias y demás disposiciones aplicables.
+Las delegaciones tendrán funciones en materia de investigaciones, Policía Investigadora, Servicios Periciales, archivo temporal de la averiguación previa, consignación, propuesta del no ejercicio de la acción penal y control de procesos, procedimientos de extinción de dominio, vigilancia del respeto a los derechos humanos, atención a la violencia de género, servicios a la comunidad, atención a la víctima o el ofendido por algún delito, prevención del delito, seguridad pública, información estadística y servicios administrativos y otros que conforme a las disposiciones aplicables correspondan al Ministerio Público.
 
 De conformidad con las necesidades del servicio, el Procurador podrá establecer las delegaciones y agencias del Ministerio Público que se requieran, de acuerdo con las disponibilidades presupuestales.
 
@@ -659,6 +665,14 @@ En caso necesario, el Ministerio Público encargado de las averiguaciones está 
 
 Para la atención de los delitos cuya investigación y persecución requiera de mayores exigencias técnicas, el Procurador General del Estado acordará la creación de unidades especializadas, las cuales se organizarán y ejercerán las funciones que se fijen en el reglamento respectivo.
 
+> <small>(ADICIONADO, P.O. 13 DE AGOSTO DE 2011)</small>
+
+###### Artículo 55.
+
+Le corresponde a la Unidad Especializada en Extinción de Dominio o al Ministerio Público designado por el Procurador General de Justicia, en los términos de la ley de la materia, el ejercicio de la acción de extinción de dominio de bienes, en los casos previstos en la Ley de Extinción de Dominio del Estado de Jalisco.
+
+La Unidad Especializada o el Ministerio Público tendrá las facultades que esta Ley le otorga para recabar las pruebas necesarias para la preparación del ejercicio de la acción de extinción de dominio.
+
 ## TRANSITORIOS
 
 Artículo Primero. El presente instrumento legal entrará en vigor, a los ciento veinte días siguientes de su publicación en el Periódico Oficial del Estado de Jalisco.
@@ -762,3 +776,9 @@ PRIMERO. El presente decreto entrará en vigor el 21 de agosto de 2012, previa s
 SEGUNDO. Previa entrada en vigor del presente decreto, los poderes Ejecutivo y Judicial del Estado deberán realizar las acciones necesarias para su debida instrumentación.
 
 De igual forma se autoriza a las secretarías de Finanzas y de Administración a realizar las adecuaciones presupuestales y administrativas necesarias para el debido cumplimiento tanto del párrafo anterior como del presente decreto.
+
+P.O. 13 DE AGOSTO DE 2011.
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+SEGUNDO. Se autoriza al titular del Poder Ejecutivo del Estado para que, por conducto de las dependencias correspondientes, realice las modificaciones y adecuaciones presupuestales y administrativas necesarias para el debido cumplimiento del presente decreto, en un plazo no mayor a sesenta días naturales contados a partir de la entrada en vigor de este decreto, de lo cual informará al Congreso del Estado.
