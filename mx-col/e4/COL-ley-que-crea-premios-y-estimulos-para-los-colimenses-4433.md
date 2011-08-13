@@ -4,7 +4,7 @@ identifier: "COL-ley-que-crea-premios-y-estimulos-para-los-colimenses-4433"
 country: "mx"
 rank: "ley"
 publication_date: "1967-10-14"
-last_updated: "2006-09-23"
+last_updated: "2011-08-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4433&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "COL"
 ---
 # LEY QUE CREA PREMIOS Y ESTIMULOS PARA LOS COLIMENSES
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 20 DE AGOSTO DE 2011 EN EL P.O. DEL ESTADO DE COLIMA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL INDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 LEY QUE CREA PREMIOS Y ESTIMULOS PARA LOS COLIMENSES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE SEPTIEMBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE AGOSTO DE 2011.
 
 Ley publicada en el Periódico Oficial del Estado de Colima, el sábado 14 de octubre de 1967.
 
@@ -48,6 +50,10 @@ Se crean en el Estado de Colima, de manera permanente, las siguientes Insignias:
 I.- a).- Condecoración "PROFESOR GREGORIO TORRES QUINTERO'', que se otorgará a miembros distinguidos del magisterio y a benefactores de la educación pública del Estado.
 
 b).- Orden "Profr. Gregorio Torres Quintero'' y diploma de Honor, para los maestros en servicio que cumplan cincuenta años de labor profesional.
+
+> <small>(ADICIONADO, P.O. 13 DE AGOSTO DE 2011)</small>
+
+c) Galardón "Profesor Gregorio Torres Quintero" y Diploma de Honor a los docentes en servicio que cumplan 50 años de labor profesional en el Sistema Educativo Estatal.
 
 La presea llevará grabados el Escudo de Colima, el nombre del maestro que la recibe, los años de servicios prestados, la autoridad que la concede y la fecha.
 
@@ -174,3 +180,7 @@ Este Decreto surtirá sus efectos a partir de la fecha de su publicación en el 
 P.O. 23 SEPTIEMBRE DE 2006.
 
 ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 13 DE AGOSTO DE 2011.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima.
