@@ -4,7 +4,7 @@ identifier: "COL-codigo-de-procedimientos-civiles-para-el-estado-de-colima-9881"
 country: "mx"
 rank: "codigo"
 publication_date: "1954-09-25"
-last_updated: "2011-05-21"
+last_updated: "2011-08-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9881&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE MAYO DE 2011.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE AGOSTO DE 2011.
 
 Código publicado en el Suplemento al Periódico Oficial del Estado Colima, el sábado 25 de septiembre de 1954.
 
@@ -1660,6 +1660,14 @@ VI.- Los fundamentos de derecho y la clase de acción, procurando citar los prec
 VII.- El valor de lo demandado si de ello depende la competencia del juez.
 
 ART. 255.- Presentada la demanda con los documentos y copias prevenidos, se correrá traslado de ella a la persona o personas contra quienes se proponga, y se les emplazará para que la contesten dentro de nueve días.
+
+> <small>(ADICIONADO, P.O. 13 DE AGOSTO DE 2011)</small>
+
+El juez en el auto de radicación de la demanda informará a las partes, en términos del artículo 10 de la Ley de Justicia Alternativa del Estado de Colima, de la posibilidad que tienen de someter el asunto a la mediación o conciliación, las cuales tendrán un término de cinco días hábiles para manifestar su intención de resolver su controversia de carácter jurídica a través de la justicia alternativa, mediante procedimientos no jurisdiccionales.
+
+> <small>(ADICIONADO, P.O. 13 DE AGOSTO DE 2011)</small>
+
+Si dentro del término fijado en el párrafo anterior, las partes no atendieran a la recomendación del Juez, no interrumpirá éste el término para la contestación de la demanda.
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO DE REFORMAS AL CODIGO.</small>
 
@@ -6200,3 +6208,7 @@ P.O. 16 DE ABRIL DE 2011.
 P.O. 21 DE MAYO DE 2011.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 13 DE AGOSTO DE 2011.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial "El Estado de Colima.
