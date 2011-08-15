@@ -4,7 +4,7 @@ identifier: "PUE-reglamento-interior-de-la-comision-de-vivienda-del-estado-82324
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-06-27"
-last_updated: "2011-06-27"
+last_updated: "2011-08-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=82324&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "PUE"
 ---
 # REGLAMENTO INTERIOR DE LA COMISION DE VIVIENDA DEL ESTADO DE PUEBLA
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 15 DE AGOSTO DE 2011 EN EL P.O., DEL ESTADO DE PUEBLA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 REGLAMENTO INTERIOR DE LA COMISION DE VIVIENDA DEL ESTADO DE PUEBLA
 
 TEXTO ORIGINAL.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 15 DE AGOSTO DE 2011.</small>
 
 Reglamento publicado en la Octava Sección del Periódico Oficial del Estado de Puebla, el lunes 27 de junio de 2011.
 
@@ -197,11 +197,11 @@ XII. Las demás que le delegue o encomiende el Comisionado y aquellas que otros 
 
 ### CAPÍTULO IV. DE LA DIRECCIÓN DE PROMOCIÓN SOCIAL Y ÁREA TÉCNICA
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 15 DE AGOSTO DE 2011 EN EL P.O., DEL ESTADO DE PUEBLA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA, ASÍ COMO EL ARCHIVO ANEXO.</small>
+> <small>(F. DE E., P.O. 15 DE AGOSTO DE 2011)</small>
 
 ###### ARTÍCULO 10.
 
-La Dirección de Promoción Social y Área Técnica, además de las atribuciones establecidas en el artículo 11 de este Reglamento, tendrá las siguientes:
+La Dirección de Promoción Social y Área Técnica, además de las atribuciones establecidas en el artículo 9 de este Reglamento, tendrá las siguientes:
 
 I. Proponer al Comisionado la gestión, inclusión y participación ante dependencias federales de nuestro Estado en los diferentes programas de vivienda;
 
@@ -253,11 +253,11 @@ XXIV. Promover con las autoridades competentes, las acciones pertinentes para qu
 
 ### CAPÍTULO V. DE LA DIRECCIÓN DE HIPOTECARIA SOCIAL Y JURÍDICO
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 15 DE AGOSTO DE 2011 EN EL P.O., DEL ESTADO DE PUEBLA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA, ASÍ COMO EL ARCHIVO ANEXO.</small>
+> <small>(F. DE E., P.O. 15 DE AGOSTO DE 2011)</small>
 
 ###### ARTÍCULO 11.
 
-La Dirección de Hipotecaria Social y Jurídico tendrá además de las atribuciones establecidas en el artículo 11 de este Reglamento, las siguientes:
+La Dirección de Hipotecaria Social y Jurídico tendrá además de las atribuciones establecidas en el artículo 9 de este Reglamento, las siguientes:
 
 I. Proponer al comisionado alternativas de financiamiento para vivienda y mecanismos para la formalización de los créditos hipotecarios otorgados a los beneficiarios;
 
@@ -301,11 +301,11 @@ XX. Expedir copias certificadas de los documentos y expedientes que obren en los
 
 ### CAPÍTULO VI. DE LA DIRECCIÓN DE ADMINISTRACIÓN Y FINANZAS
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 15 DE AGOSTO DE 2011 EN EL P.O., DEL ESTADO DE PUEBLA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA, ASÍ COMO EL ARCHIVO ANEXO.</small>
+> <small>(F. DE E., P.O. 15 DE AGOSTO DE 2011)</small>
 
 ###### ARTÍCULO 12.
 
-La Dirección de Administración y Finanzas tendrá, además de las atribuciones establecidas en el artículo 11 de este Reglamento, las siguientes:
+La Dirección de Administración y Finanzas tendrá, además de las atribuciones establecidas en el artículo 9 de este Reglamento, las siguientes:
 
 I. Vigilar la aplicación de las políticas, normas y procedimientos que regulan la operación financiera y contable de la COVEP, para una aplicación eficaz y eficiente de los recursos humanos, materiales y financieros;
 
@@ -343,11 +343,11 @@ XVII. Elaborar y presentar oportunamente las cuentas públicas parciales y anual
 
 ### CAPÍTULO VII. DE LA DIRECCIÓN DE PLANEACIÓN ESTRATÉGICA
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 15 DE AGOSTO DE 2011 EN EL P.O., DEL ESTADO DE PUEBLA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA, ASÍ COMO EL ARCHIVO ANEXO.</small>
+> <small>(F. DE E., P.O. 15 DE AGOSTO DE 2011)</small>
 
 ###### ARTÍCULO 13.
 
-La Dirección de Planeación Estratégica tendrá, además de las atribuciones establecidas en el artículo 11 de este Reglamento, las siguientes:
+La Dirección de Planeación Estratégica tendrá, además de las atribuciones establecidas en el artículo 9 de este Reglamento, las siguientes:
 
 l. Proponer a su superior jerárquico y, en su caso, gestionar la contratación de despachos y asesores externos para definir y desarrollar sistemas de informática que requiera la COVEP;
 
@@ -373,11 +373,11 @@ XI. Promover la investigación para la aplicación y desarrollo de técnicas eco
 
 ### CAPÍTULO VIII. DE LA DIRECCIÓN DE EDUCACIÓN Y CULTURA COMUNITARIA
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 15 DE AGOSTO DE 2011 EN EL P.O., DEL ESTADO DE PUEBLA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA, ASÍ COMO EL ARCHIVO ANEXO.</small>
+> <small>(F. DE E., P.O. 15 DE AGOSTO DE 2011)</small>
 
 ###### ARTÍCULO 14.
 
-La Dirección de Educación y Cultura Comunitaria tendrá, además de las atribuciones establecidas en el artículo 11 de este Reglamento, las siguientes:
+La Dirección de Educación y Cultura Comunitaria tendrá, además de las atribuciones establecidas en el artículo 9 de este Reglamento, las siguientes:
 
 I. Diseñar y proponer al Comisionado el modelo curricular de formación y capacitación del personal que labora en la COVEP;
 
