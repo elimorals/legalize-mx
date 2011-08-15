@@ -4,7 +4,7 @@ identifier: "AGU-reglamento-interior-del-instituto-de-transparencia-del-53817"
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-01-29"
-last_updated: "2009-02-02"
+last_updated: "2011-08-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=53817&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,13 +21,13 @@ state: "AGU"
 ---
 # REGLAMENTO INTERIOR DEL INSTITUTO DE TRANSPARENCIA DEL ESTADO DE AGUASCALIENTES
 
-REGLAMENTO INTERIOR DEL INSTITUTO DE TRANSPARENCIA DEL ESTADO DE AGUASCALIENTES
+REGLAMENTO INTERIOR DEL INSTITUTO DE TRANSPARENCIA DEL ESTADO DE AGUASCALlENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE FEBRERO DE 2009.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE AGOSTO DE 2011.
 
 Reglamento publicado en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 29 de enero de 2007.
 
-INSTITUTO DE TRANSPARENCIA DEL ESTADO DE AGUASCALIENTES
+INSTITUTO DE TRANSPARENCIA DEL ESTADO DE AGUASCALlENTES
 
 CONTADOR PUBLICO LUIS EMILIO LOPEZ GONZALEZ, COMISIONADO CIUDADANO PRESIDENTE DEL INSTITUTO DE TRANSPARENCIA DEL ESTADO DE AGUASCALIENTES; DE CONFORMIDAD CON LO ESTABLECIDO EN EL ARTICULO SEXTO TRANSITORIO DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACION PUBLICA DEL ESTADO DE AGUASCALIENTES, Y
 
@@ -521,9 +521,17 @@ IV Tendrá fe pública en todo lo relativo al ejercicio de sus funciones; en lo 
 
 V. Intervenir en los actos que deba dejarse constancia en autos, autorizándolos con su firma, excepción hecha de las encomendadas a otros servidores;
 
-VI. Redactar y autorizar las actas de audiencia, en las que corresponda dar cuenta y autorizar las resoluciones que recaigan en los expedientes; y
+> <small>(REFORMADA, P.O. 15 DE AGOSTO DE 2011)</small>
 
-VII. Expedir certificados de las constancias que obren en los expedientes.
+VI. Redactar y autorizar las actas de audiencia, en las que corresponda dar cuenta y autorizar las resoluciones que recaigan en los expedientes;
+
+> <small>(REFORMADA, P.O. 15 DE AGOSTO DE 2011)</small>
+
+VII. Expedir certificados de las constancias que obren en los expedientes, y
+
+> <small>(ADICIONADA, P.O. 15 DE AGOSTO DE 2011)</small>
+
+VIII. Dar trámite al Recurso de Inconformidad, elaborando los proyectos de acuerdo sobre el trámite y resolución del mismo.
 
 (REUBICADO [N. DE E. ANTES CAPITULO SEXTO], P.O. 30 DE JULIO DE 2007)
 
@@ -619,7 +627,7 @@ V. Elaborar los proyectos de normas internas y demás ordenamientos necesarios p
 
 VI. Coadyuvar en la revisión jurídica de los manuales de las Direcciones del Instituto y brindarles la asesoría jurídica que requieran;
 
-VII. Dar trámite al Recurso de Inconformidad, elaborando los proyectos de acuerdo sobre el trámite y resolución del mismo;
+VII. (DEROGADA, P.O. 15 DE AGOSTO DE 2011)
 
 VIII. Formular, revisar y validar los proyectos de convenios y contratos en los que el Instituto sea parte y, en su caso, proponer las adecuaciones convenientes conforme a los requisitos legales propios de su celebración y registrarlos para su control;
 
@@ -627,7 +635,9 @@ IX. Participar en calidad de asesor de adquisiciones, arrendamientos y servicios
 
 X. (DEROGADA, P.O. 30 DE JULIO DE 2007)
 
-XI. Asesorar legalmente al Instituto y a cualquiera de sus integrantes en asuntos oficiales; así mismo, brindar información a la ciudadanía a través del servicio telefónico 01-800;
+> <small>(REFORMADA, P.O. 15 DE AGOSTO DE 2011)</small>
+
+XI. Asesorar legalmente al Instituto y a cualquiera de sus integrantes en asuntos oficiales; asimismo, brindar información a la ciudadanía a través del servicio telefónico 01-800;
 
 XII. Diseñar programas de capacitación en materia jurídica y participar activamente en la impartición de talleres, cursos, conferencias, seminarios y todos aquellos instrumentos de capacitación para los sujetos obligados e impulsar el fácil acceso a la Información Pública;
 
@@ -755,7 +765,7 @@ Lic. César Octavio López Rodríguez, COMISIONADO CIUDADANO.
 
 Lic. Jorge Alejandro Doring Zuazo, COMISIONADO CIUDADANO.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
 
 P.O. 30 DE JULIO DE 2007.
 
@@ -764,3 +774,7 @@ Articulo Único. Las presentes adiciones y reformas al Reglamento Interior, entr
 P.O. 2 DE FEBRERO DE 2009.
 
 Artículo Único. La presente adición al Reglamento Interior, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 15 DE AGOSTO DE 2011.
+
+ÚNICO. Las presentes adecuaciones fueron aprobadas por UNANIMIDAD de votos de los Comisionados del Instituto de Transparencia del Estado de Aguascalientes, en sesión ordinaria de fecha tres de agosto del año dos mil once y entrarán en vigor al día hábil siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
