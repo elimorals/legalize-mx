@@ -4,7 +4,7 @@ identifier: "AGU-reglamento-del-recurso-de-inconformidad-55541"
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-05-14"
-last_updated: "2007-05-14"
+last_updated: "2011-08-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55541&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 REGLAMENTO DEL RECURSO DE INCONFORMIDAD
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE AGOSTO DE 2011.
 
 Reglamento publicado en el Periódico Oficial del Estado de Aguascalientes, el lunes 14 de mayo de 2007.
 
@@ -83,9 +83,9 @@ I. En contra de la resolución que se dicte por la Unidad de Enlace del sujeto o
 
 a) Se niegue o limite el acceso a la información; entendiéndose la negación cuando así expresamente lo señale la resolución que se combate o cuando haya transcurrido el tiempo para que al (sic) autoridad resuelva lo que corresponda, pasado el cual, sin que se notifique la resolución, el recurrente podrá considerar que la autoridad resolvió negativamente;
 
-> <small>(F. DE E., P.O. 30 DE JULIO DE 2007)</small>
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 15 DE AGOSTO DE 2011)</small>
 
-b) Se niegue a efectuar las modificaciones relativas a los datos personales o realice un tratamiento inadecuado en contravención a las disposiciones de la Ley de Transparencia y Acceso a la Información Pública del Estado de Aguascalientes y de este Reglamento;
+b) Se niegue a efectuar las modificaciones relativas a los datos personales o realice un tratamiento inadecuado en contravención a las disposiciones de la Ley y de este Reglamento y se niegue el acceso a datos personales obtenidos por actividades de Video Vigilancia;
 
 > <small>(F. DE E., P.O. 30 DE JULIO DE 2007)</small>
 
@@ -339,9 +339,17 @@ V. Se encontrare motivo manifiesto e indudable de improcedencia.
 
 El Instituto deberá resolver si admite o desecha el Recurso dentro del término de un día hábil, contadas (sic) desde que fue presentado el Recurso.
 
+> <small>(REFORMADO, P.O. 15 DE AGOSTO DE 2011)</small>
+
 ###### Artículo 45.
 
-Si el Instituto no encontrare motivos para desechar el Recurso, o sé hubiesen subsanado los errores, admitirá el Recurso y en el mismo auto pedirá informe justificado a las autoridades responsables y copia certificada de las constancias que sean necesarias para apoyar dicho informe; señalará día y hora para la celebración de audiencia, misma que se efectuará dentro de los cinco días hábiles siguientes a la rendición del informe justificado por la autoridad.
+Si el Instituto no encontrare motivos para desechar el Recurso, o se hubiesen subsanado los errores, admitirá el Recurso y en el mismo auto pedirá informe justificado a las autoridades responsables y copia certificada de las constancias que sean necesarias para apoyar dicho informe; en caso de que se tengan que desahogar pruebas, se señalará día y hora para la celebración de audiencia, misma que se efectuará dentro de los cinco días hábiles siguientes a la rendición del informe justificado por la autoridad, en caso de que no haya probanzas por desahogar se citará el asunto para dictar sentencia.
+
+Tratándose de negativas de acceso a datos personales obtenidos por actividades de Video Vigilancia se concederá suspensión, la cual se decretará de plano en el mismo auto en que el Instituto admita el Recurso, comunicando este hecho, sin demora, a la autoridad responsable para su inmediato cumplimiento, el auto en que el Instituto conceda la suspensión surtirá sus efectos desde luego.
+
+El efecto de la suspensión consiste en ordenar que el término previsto en la Ley de Video Vigilancia del Estado de Aguascalientes para la destrucción de las grabaciones se detenga.
+
+El otorgamiento de la suspensión no impedirá la continuación del procedimiento del Recurso de Inconformidad, su efecto durara hasta dictarse sentencia.
 
 ###### Artículo 46.
 
@@ -458,3 +466,9 @@ COMISIONADO.
 Lic. Jorge Alejandro Doring Zuazo,
 
 COMISIONADO.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 15 DE AGOSTO DE 2011.
+
+ÚNICO. Las presentes adecuaciones fueron aprobadas por UNANIMIDAD de votos de los Comisionados del Instituto de Transparencia del Estado de Aguascalientes, en sesión ordinaria de fecha tres de agosto del año dos mil once y entrarán en vigor al día hábil siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
