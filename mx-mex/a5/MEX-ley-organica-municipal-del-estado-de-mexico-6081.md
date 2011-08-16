@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-municipal-del-estado-de-mexico-6081"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1993-03-02"
-last_updated: "2011-08-02"
+last_updated: "2011-08-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6081&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY ORGANICA MUNICIPAL DEL ESTADO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 2 DE AGOSTO DE 2011.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 16 DE AGOSTO DE 2011.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el martes 2 de marzo de 1993.
 
@@ -447,11 +447,11 @@ Cada municipio será gobernado por un ayuntamiento de elección popular directa 
 
 Los integrantes de los ayuntamientos de elección popular deberán cumplir con los requisitos previstos por la ley, y no estar impedidos para el desempeño de sus cargos, de acuerdo con los artículos 119 y 120 de la Constitución Política del Estado Libre y Soberano de México y se elegirán conforme a los principios de mayoría relativa y de representación proporcional, con dominante mayoritario.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 11 DE AGOSTO DEL 2000)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 16 DE AGOSTO DE 2011)</small>
 
 ###### Artículo 16.
 
-Los ayuntamientos se renovarán cada tres años, iniciarán su periodo el 18 de agosto del año de las elecciones municipales ordinarias y lo concluirán el 17 de agosto del año de las elecciones para su renovación; y se integrarán por:
+Los Ayuntamientos se renovarán cada tres años, iniciarán su periodo el 1 de enero del año inmediato siguiente al de las elecciones municipales ordinarias y concluirán el 31 de diciembre del año de las elecciones para su renovación; y se integrarán por:
 
 > <small>(REFORMADA, G.G. 2 DE MARZO DE 1996)</small>
 
@@ -479,11 +479,11 @@ Dentro de los primeros tres días hábiles del mes de diciembre de cada año, el
 
 Dicho informe se publicará en la Gaceta Municipal.
 
-> <small>(REFORMADO, G.G. 10 DE AGOSTO DE 2009)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 16 DE AGOSTO DE 2011)</small>
 
 ###### Artículo 18.
 
-El día 17 de agosto del último año de la gestión del ayuntamiento, en reunión solemne, deberán presentarse los ciudadanos que, en términos de ley, resultaron electos para ocupar los cargos de presidente municipal, síndico o síndicos y regidores.
+El día 31 de diciembre del último año de la gestión del ayuntamiento, en reunión solemne, deberán presentarse los ciudadanos que, en términos de ley, resultaron electos para ocupar los cargos de presidente municipal, síndico o síndicos y regidores.
 
 La reunión tendrá por objeto:
 
@@ -491,11 +491,15 @@ I. Que los miembros del ayuntamiento entrante, rindan la protesta en términos d
 
 II. Que los habitantes del municipio conozcan los lineamientos generales del plan y programas de trabajo del ayuntamiento entrante, que será presentado por el presidente municipal.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 11 DE AGOSTO DEL 2000)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 16 DE AGOSTO DE 2011)</small>
 
 ###### Artículo 19.
 
-A las nueve horas del día 18 de agosto del año en que se hayan efectuado las elecciones municipales, el ayuntamiento saliente dará posesión de las oficinas municipales a los miembros del ayuntamiento entrante, que hubieren rendido la protesta de ley, cuyo presidente municipal hará la siguiente declaratoria formal y solemne: "Queda legítimamente instalado el ayuntamiento del municipio de ..., que deberá funcionar durante los años de ...".
+A las nueve horas del día 1 de enero del año inmediato siguiente a aquel en que se hayan efectuado las elecciones municipales, el ayuntamiento saliente dará posesión de las oficinas municipales a los miembros del ayuntamiento entrante, que hubieren rendido la protesta de ley, cuyo presidente municipal hará la siguiente declaratoria formal y solemne: "Queda legítimamente instalado el ayuntamiento del municipio de ..., que deberá funcionar durante los años de ...".
+
+> <small>(ADICIONADO, G.G. 16 DE AGOSTO DE 2011)</small>
+
+La inasistencia de los integrantes del ayuntamiento saliente no será obstáculo para que se dé por instalado el entrante, sin perjuicio de las sanciones que establezcan las disposiciones jurídicas aplicables.
 
 > <small>(REFORMADO, G.G. 10 DE AGOSTO DE 2009)</small>
 
@@ -1233,9 +1237,13 @@ VI. Hacer lo que no esté previsto en esta Ley y en otros ordenamientos municipa
 
 La elección de Delegados y Subdelegados se sujetará al procedimiento establecido en la convocatoria que al efecto expida el Ayuntamiento. Por cada Delegado y Subdelegado deberá elegirse un suplente.
 
-La elección de los Delegados y Subdelegados se realizará en la fecha señalada en la convocatoria entre el último domingo de octubre y el 15 de noviembre del primer año de gobierno del Ayuntamiento.
+> <small>(REFORMADO, G.G. 16 DE AGOSTO DE 2011)</small>
 
-La convocatoria deberá expedirse cuando menos diez días antes de la elección. Sus nombramientos serán firmados por el Presidente Municipal y el Secretario del Ayuntamiento, entregándose a los electos a más tardar el día en que entren en funciones, que será el primer día de diciembre del mismo año.
+La elección de los Delegados y Subdelegados se realizará en la fecha señalada en la convocatoria, entre el segundo domingo de marzo y el 30 de ese mes del primer año de gobierno del Ayuntamiento.
+
+> <small>(REFORMADO, G.G. 16 DE AGOSTO DE 2011)</small>
+
+La convocatoria deberá expedirse cuando menos diez días antes de la elección. Sus nombramientos serán firmados por el Presidente Municipal y el Secretario del Ayuntamiento, entregándose a los electos a más tardar el día en que entren en funciones, que será el 15 de abril del mismo año.
 
 ###### Artículo 60.
 
@@ -1351,11 +1359,11 @@ Las comisiones del ayuntamiento carecen de facultades ejecutivas. Los asuntos y 
 
 Para la gestión, promoción y ejecución de los planes y programas municipales en las diversas materias, los ayuntamientos podrán auxiliarse de consejos de participación ciudadana municipal.
 
-> <small>(REFORMADO, G.G. 11 DE AGOSTO DE 2000)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 16 DE AGOSTO DE 2011)</small>
 
 ###### Artículo 73.
 
-Cada consejo de participación ciudadana municipal se integrará hasta con cinco vecinos del municipio, con sus respectivos suplentes; uno de los cuales lo presidirá, otro fungirá como secretario y otro como tesorero y en su caso dos vocales, que serán electos en las diversas localidades por los habitantes de la comunidad, entre el último domingo del mes de octubre y el 15 de noviembre del año de la elección del ayuntamiento, en la forma y términos que éste determine en la convocatoria que deberá aprobar y publicar el ayuntamiento en los lugares mas visibles y concurridos de cada comunidad, cuando menos quince días antes de la elección. El ayuntamiento expedirá los nombramientos respectivos firmados por el presidente municipal y el secretario del ayuntamiento, entregándose a los electos a mas tardar el día en que entren en funciones, que será el día uno de diciembre del mismo año.
+Cada consejo de participación ciudadana municipal se integrará hasta con cinco vecinos del municipio, con sus respectivos suplentes; uno de los cuales lo presidirá, otro fungirá como secretario y otro como tesorero y en su caso dos vocales, que serán electos en las diversas localidades por los habitantes de la comunidad, entre el segundo domingo de marzo y el 30 de ese mes del año inmediato siguiente a la elección del ayuntamiento, en la forma y términos que éste determine en la convocatoria que deberá aprobar y publicar el ayuntamiento en los lugares más visibles y concurridos de cada comunidad, cuando menos quince días antes de la elección. El ayuntamiento expedirá los nombramientos respectivos firmados por el presidente municipal y el secretario del ayuntamiento, entregándose a los electos a más tardar el día en que entren en funciones, que será el día 15 de abril del mismo año.
 
 Los integrantes del consejo de participación ciudadana que hayan participado en la gestión que termina no podrán ser electos a ningún cargo del consejo de participación ciudadana para el periodo inmediato siguiente.
 
@@ -3210,3 +3218,9 @@ G.G. 2 DE AGOSTO DE 2011.
 PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
 
 SEGUNDO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 16 DE AGOSTO DE 2011.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor al siguiente día de su publicación en el Periódico Oficial "Gaceta del Gobierno", y se aplicará a los Ayuntamientos que inicien su ejercicio constitucional el 1 de enero del año 2013.
