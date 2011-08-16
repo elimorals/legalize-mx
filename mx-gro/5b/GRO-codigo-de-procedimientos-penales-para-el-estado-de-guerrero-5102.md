@@ -4,7 +4,7 @@ identifier: "GRO-codigo-de-procedimientos-penales-para-el-estado-de-guerrero-510
 country: "mx"
 rank: "codigo"
 publication_date: "1993-02-05"
-last_updated: "2011-02-01"
+last_updated: "2011-08-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5102&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE GUERRERO, NUMERO 357
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE FEBRERO DE 2011.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE AGOSTO DE 2011.
 
 Código publicado en el Periódico Oficial del Estado de Guerrero, el viernes 5 de febrero de 1993.
 
@@ -617,11 +617,19 @@ En estos supuestos el Ministerio Público, bajo su responsabilidad, ordenará su
 
 ###### Artículo 70.
 
-Se califican como delitos graves para todos los efectos legales, los siguientes: Homicidio, previsto en los Artículos 103, 104 y 108; Homicidio y Lesiones Culposos previsto en el Tercer Párrafo del Articulo 112; Secuestro, señalado en el Artículo 129; Asalto contra un poblado, a que se refiere el Artículo 136; Violación, señalado por los Artículos 139 al 142; Robo, contenido en el Artículo 163 Fracción III, en relación con el 164; Abigeato contemplado en el Artículo 167 Primer Párrafo; Extorsión, previsto por el Artículo; Ataque a los Medios de Transporte, previsto en el Artículo 206; Rebelión, previsto en los Artículos del 229 al 232, con la parte final del Artículo 230; Terrorismo, previsto en el Artículo 234 en su Primer Párrafo, y Sabotaje, previsto en el Artículo 235 Fracciones I, II y III, todos del Código Penal vigente.
+Se califican como delitos graves para todos los efectos legales, los siguientes: Homicidio, previsto en los Artículos 103, 104 y 108; Homicidio y Lesiones Culposos previsto en el Tercer Párrafo del Artículo 112; Secuestro, señalado en el Artículo 129; Asalto contra un poblado, a que se refiere el Artículo 136; Violación, señalado por los Artículos 139 al 142; Robo, contenido en el Artículo 163 Fracción III, en relación con el 164; Abigeato contemplado en el Artículo 167 Primer Párrafo; Extorsión, previsto por el Artículo; Ataque a los Medios de Transporte, previsto en el Artículo 206; Rebelión, previsto en los Artículos del 229 al 232, con la parte final del Artículo 230; Terrorismo, previsto en el Artículo 234 en su Primer Párrafo, y Sabotaje, previsto en el Artículo 235 Fracciones I, II y III, todos del Código Penal vigente.
 
-> <small>(REFORMADO, P.O. 1 DE ENERO DE 2008)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO ARTICULO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
 
-También se califican como delitos graves para todos los efectos legales, los siguientes: Despojo previsto en el artículo 177, segundo párrafo; la trata de personas prevista en el artículo 133 Bis; los artículos 216, 216 Bis 2 y 217 relativos a delitos contra la formación de las personas menores de edad y la protección integral de personas que no tienen la capacidad para comprender el significado del hecho y a la pornografía con utilización de imágenes y/o voz de personas menores de edad o de personas que no tienen la capacidad para comprender el significado del hecho, respectivamente; la administración de justicia cometidos por servidores públicos, previsto en la fracción XXIX del artículo 269 y evasión de presos contenido en el artículo 273, todos del Código Penal en vigor.
+> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2011)</small>
+
+También se califican como delitos graves para todos los efectos legales, los siguientes: Despojo, previsto en el artículo 177, segundo párrafo; los artículos 216, 216 Bis 2 y 217 relativos a delitos contra la formación de las personas menores de edad y la protección integral de personas que no tienen la capacidad para comprender el significado del hecho y a la pornografía con utilización de imágenes y/o voz de personas menores de edad o de personas que no tienen la capacidad para comprender el significado del hecho, respectivamente; Contra la administración de justicia cometidos por servidores públicos, previsto en la fracción XXIX del artículo 269 y Evasión de presos contenido en el artículo 273, todos del Código Penal en vigor.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO ARTICULO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+
+> <small>(ADICIONADO, P.O. 16 DE AGOSTO DE 2011)</small>
+
+Así mismo, es considerado como delito grave para todos los efectos legales, la Trata de Personas, previsto en el artículo 8 de la Ley para, Prevenir, Combatir y Sancionar la Trata de Personas en el Estado de Guerrero.
 
 > <small>(ADICIONADO, P.O. 31 DE MARZO DE 1995)</small>
 
@@ -1728,3 +1736,13 @@ P.O. 1 DE ENERO DE 2008.
 P.O. 1 DE FEBRERO DE 2011.
 
 ÚNICO.- El presente Decreto entrará en vigor, al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 16 DE AGOSTO DE 2011.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor a los diez días después del (sic) su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+###### ARTÍCULO SEGUNDO.
+
+Comuníquese el presente Decreto al Titular del Poder Ejecutivo del Estado de Guerrero, para los efectos legales conducentes.
