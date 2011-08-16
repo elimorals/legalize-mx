@@ -4,7 +4,7 @@ identifier: "FED-reglamento-para-el-tramite-de-solicitudes-de-reembolso-por-4403
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-03-31"
-last_updated: "2005-03-31"
+last_updated: "2011-08-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44035&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "2005-02-17"
 
 REGLAMENTO PARA EL TRAMITE DE SOLICITUDES DE REEMBOLSO POR LA PRESTACION DE SERVICIOS MEDICOS EXTRAINSTITUCIONALES
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO DE QUEJAS MEDICAS Y SOLICITUDES DE REEMBOLSO DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO, PUBLICADO EN EL D.O.F. DE 16 DE AGOSTO DE 2011, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: ABROGADO.
 
 Reglamento publicado en la Sección Primera del Diario Oficial de la Federación, el jueves 31 de marzo de 2005.
 
@@ -470,3 +472,15 @@ Lo que me permito hacer de su conocimiento para los efectos legales procedentes.
 Atentamente
 
 México, D.F., a 17 de febrero de 2005.- El Secretario, Roberto Figueroa Martínez.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+D.O.F. 16 DE AGOSTO DE 2011.
+
+PRIMERO.- El presente Reglamento entrará en vigor el día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Se abrogan los Reglamentos para el Trámite de Solicitudes de Reembolso por la Prestación de Servicios Médicos Extrainstitucionales y el de Quejas Médicas, aprobados mediante los Acuerdos 30.1293.2005 y 29.1293.2005 de la Junta Directiva del Instituto, publicados en el Diario Oficial de la Federación el 31 de marzo de 2005; el Manual de Integración y Funcionamiento del Comité y Subcomité Técnico de Evaluación de Quejas Médicas del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado; el Manual de Integración y Funcionamiento del Comité y Subcomité Técnico de Dictaminación y de la Comisión Dictaminadora Delegacional de Solicitudes de Reembolso; y el Manual de Procedimientos para el Trámite de Solicitudes de Reembolso por Prestación de Servicios Médicos Extrainstitucionales, aprobados mediante los Acuerdos del Director General publicados en el Diario Oficial de la Federación el 11 de marzo de 2002, el 06 de abril de 1999 y el 25 de junio de 1999, respectivamente.
+
+TERCERO.- Las Quejas Médicas, las Solicitudes de Reembolso y los Recursos de Reconsideración que se encuentren en trámite a la fecha de entrada en vigor del Reglamento, serán turnados al Comité y deberán resolverse conforme a la normatividad vigente al momento de su presentación.
+
+CUARTO.- El Instituto expedirá el Manual de Procedimientos para la Atención de Quejas Médicas y Solicitudes de Reembolso, en un término no mayor a ciento ochenta días a partir de la entrada en vigor del Reglamento.
