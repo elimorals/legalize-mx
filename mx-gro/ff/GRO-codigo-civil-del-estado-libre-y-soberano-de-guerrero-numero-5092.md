@@ -4,7 +4,7 @@ identifier: "GRO-codigo-civil-del-estado-libre-y-soberano-de-guerrero-numero-509
 country: "mx"
 rank: "codigo"
 publication_date: "1993-03-02"
-last_updated: "2011-01-04"
+last_updated: "2011-08-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5092&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 CODIGO CIVIL DEL ESTADO LIBRE Y SOBERANO DE GUERRERO, NUMERO 358
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE ENERO DE 2011.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE AGOSTO DE 2011.
 
 Código publicado en el Periódico Oficial del Estado de Guerrero, el martes 2 de marzo de 1993.
 
@@ -6735,6 +6735,10 @@ La disposición testamentaria que contenga condición de suceso pasado o present
 
 ### Capítulo II. Del testamento público abierto
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO ARTICULO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2011)</small>
+
 ###### Artículo 1297.
 
 El testamento, en cuanto a su forma, será ordinario o especial.
@@ -6815,31 +6819,47 @@ Si los interesados estuvieren ausentes o fueren desconocidos, la noticia se dar�
 
 ###### Artículo 1309.
 
-Testamento público abierto, será el que se otorgue ante notario y tres testigos idóneos.
+El testamento público abierto será el que se otorga ante notario público.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO ARTICULO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2011)</small>
 
 ###### Artículo 1310.
 
-El testamento se dictará y redactará en un solo acto. El testador expresará de un modo claro y terminante su voluntad, ante el notario y los testigos instrumentales. El notario redactará por escrito las cláusulas del testamento, sujetándose estrictamente a la voluntad del testador y las leerá en voz alta, para que éste manifieste si está conforme. Si lo estuviere, firmarán ante el notario, el testador, los testigos y, en su caso, los traductores o peritos. Deberá hacerse constar el lugar, año, mes, día y hora en que se otorgue el testamento.
+El testamento se dictará y redactará en un solo acto. El testador expresará de un modo claro y terminante su voluntad ante el notario quien redactará por escrito las cláusulas del testamento, sujetándose estrictamente a la voluntad del testador y las leerá en voz alta, para que éste manifieste si está conforme. Si lo estuviere firmará ante el notario quien, en seguida estampará su firma y, en su caso, los traductores y peritos. Deberá hacerse constar el lugar, año, día, mes y hora en que se otorgue el testamento.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO ARTICULO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
 
 ###### Artículo 1311.
 
-Si alguno de los testigos no supiere escribir firmará otro de ellos por él, pero, deberá constar la firma entera de dos testigos, por lo menos.
+(DEROGADO, P.O. 16 DE AGOSTO DE 2011)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO ARTICULO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2011)</small>
 
 ###### Artículo 1312.
 
-Si el testador no pudiere o no supiere escribir, intervendrá otro testigo más, quien firmará a su ruego.
+Si el testador no pudiere o no supiese escribir, otra persona de su confianza firmará a su ruego y el testador estampará la huella digital de su pulgar derecho o izquierdo.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO ARTICULO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
 
 ###### Artículo 1313.
 
-En el caso de extrema urgencia y no pudiendo ser llamado otro testigo, firmará por el testador uno de los testigos, haciéndose constar esta circunstancia.
+(DEROGADO, P.O. 16 DE AGOSTO DE 2011)
 
 ###### Artículo 1314.
 
 El testador que fuere enteramente sordo, pero que sepa leer, deberá dar lectura a su testamento; si no supiere o no pudiere hacerlo, designará una persona que lea a su nombre.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO ARTICULO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2011)</small>
+
 ###### Artículo 1315.
 
-Si el testador fuere ciego, se dará lectura al testamento dos veces; una por el notario, como está prescrito en el artículo 1310 y otra, en igual forma, por uno de los testigos u otra persona que el testador designe.
+Si el testador fuera ciego se dará lectura al testamento dos veces; una por el notario y la otra, en igual forma por la persona que el testador designe.
 
 ###### Artículo 1316.
 
@@ -14607,9 +14627,13 @@ No podrá demandarse la nulidad de una transacción, sin que previamente se hubi
 
 Cuando varios individuos convinieren reunirse, para realizar un fin común que no esté prohibido por la ley y que no tenga carácter preponderantemente económico, constituirán una asociación.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO ARTICULO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2011)</small>
+
 ###### Artículo 2815.
 
-El negocio jurídico por el que se constituya una asociación deberá constar en escritura privada, salvo que se transfieran bienes a la asociación cuya enajenación deba revestir otro tipo de formalidades. La asociación deberá inscribirse en el Registro Público de la Propiedad. La falta de cualquiera de estos requisitos impedirá la adquisición de la personalidad jurídica o moral.
+El negocio jurídico por el que se constituya una asociación podrá constar en escritura privada, salvo que se transfieran bienes a la asociación cuya enajenación deba revestir otro tipo de formalidades. La asociación deberá inscribirse en el Registro Público de la Propiedad. La falta de cualquiera de estos requisitos impedirá la adquisición de la personalidad jurídica o moral.
 
 ###### Artículo 2816.
 
@@ -14687,9 +14711,13 @@ La aportación de los socios podrá consistir en dinero u otros bienes, o en su 
 
 La aportación de bienes implicará la transferencia de dominio a favor de la sociedad, salvo que claramente se expresare otra cosa en el documento constitutivo de la sociedad.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO ARTICULO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2011)</small>
+
 ###### Artículo 2829.
 
-El negocio constitutivo de la sociedad deberá constar en escritura privada, salvo que se transfieran bienes a la sociedad cuya enajenación deba revestir otro tipo de formalidades. La constitución de la sociedad deberá inscribirse en el Registro Público de la Propiedad. La falta de cualquiera de estos requisitos impedirá la adquisición de la personalidad jurídica o moral.
+El negocio constitutivo de la sociedad podrá constar en escritura privada, salvo que se transfieran bienes a la sociedad cuya enajenación deba revestir otro tipo de formalidades. La constitución de la sociedad deberá inscribirse en el Registro Público de la Propiedad. La falta de cualquiera de estos requisitos impedirá la adquisición de la personalidad jurídica o moral.
 
 ###### Artículo 2830.
 
@@ -15554,3 +15582,13 @@ QUINTO. - EN UN TÉRMINO DE CUARENTA Y CINCO DÍAS LA COORDINACIÓN TÉCNICA DEL
 SEXTO. - UNA VEZ ENTRADA EN VIGOR LA PRESENTE LEY, LA COORDINACIÓN TÉCNICA DEL SISTEMA ESTATAL DEL REGISTRO CIVIL CREARÁ LAS UNIDADES ADMINISTRATIVAS ENCARGADAS DE CONOCER Y RESOLVER LOS PROCEDIMIENTOS DE ACLARACIÓN O RECTIFICACIÓN ADMINISTRATIVA QUE ESTABLECE ESTA LEY, CON EL PERSONAL ESPECIALIZADO EN LA MATERIA.
 
 SÉPTIMO.- RESPECTO A LOS JUICIOS DE RECTIFICACIÓN PENDIENTES POR RESOLVER EN LOS JUZGADOS FAMILIARES DE PRIMERA INSTANCIA, AL ENTRAR EN VIGOR LA PRESENTE LEY, LOS INTERESADOS PODRÁN CONTINUAR SU TRÁMITE CONFORME A LAS DISPOSICIONES LEGALES VIGENTES A LA FECHA DE SU INICIO O SUJETARSE AL PROCEDIMIENTO DE RECTIFICACIÓN ADMINISTRATIVA PREVISTO EN ESTA LEY.
+
+P.O. 16 DE AGOSTO DE 2011.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor a los dos meses siguientes del día de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+###### ARTÍCULO SEGUNDO.
+
+Comuníquese el presente Decreto al Titular del Poder Ejecutivo del Estado de Guerrero, para los efectos legales conducentes.
