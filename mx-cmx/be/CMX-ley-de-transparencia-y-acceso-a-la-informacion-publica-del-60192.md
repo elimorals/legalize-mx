@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-transparencia-y-acceso-a-la-informacion-publica-del-6019
 country: "mx"
 rank: "ley"
 publication_date: "2008-03-28"
-last_updated: "2011-06-16"
+last_updated: "2011-08-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=60192&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2008-03-07"
 
 LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACION PUBLICA DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 16 DE JUNIO DE 2011.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 16 DE AGOSTO DE 2011.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el viernes 28 de marzo de 2008.
 
@@ -194,9 +194,11 @@ IX. Las demás que se deriven de la normatividad vigente.
 
 Todo Ente Público del Distrito Federal deberá publicar al inicio de cada año un listado de la información que detentan, por rubros generales, especificando el ejercicio al que corresponde, medios de difusión y los lugares en donde se pondrá a disposición de los interesados, a excepción de la información reservada o clasificada como confidencial en términos de esta Ley.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 16 DE AGOSTO DE 2011)</small>
+
 ###### Artículo 14.
 
-Al inicio de cada año, los Entes Públicos deberán mantener actualizada, de forma impresa para consulta directa y en los respectivos sitios de Internet, de acuerdo con sus funciones, según corresponda, la información respecto de los temas, documentos y políticas que a continuación se detallan:
+Al inicio de cada año, los Entes Públicos deberán mantener actualizada, de forma impresa para consulta directa y en los respectivos sitios de Internet, de acuerdo con sus funciones, según corresponda, la información respecto de los temas, documentos y políticas, para lo cual podrán habilitar cuentas de redes sociales de Internet, que a continuación se detallan:
 
 I. El marco normativo aplicable al Ente Público, en la que deberá incluirse la Gaceta Oficial, leyes, reglamentos, reglas de procedimiento, manuales administrativos, políticas emitidas aplicables al ámbito de su competencia;
 
@@ -562,9 +564,11 @@ El órgano de control de la gestión pública y el órgano técnico de fiscaliza
 
 Los Entes Públicos deberán proporcionar a los solicitantes, la información relativa a las solventaciones o aclaraciones derivadas de las auditorías concluidas.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 16 DE AGOSTO DE 2011)</small>
+
 ###### Artículo 28.
 
-Los Entes Públicos deberán de tener en la página de inicio de sus portales de Internet una indicación que señale el sitio donde se encuentre a la que se refiere este Capítulo. Además las páginas deberán contar con buscadores temáticos y disponer de un respaldo con todos los registros electrónicos para cualquier persona que lo solicite.
+Los Entes Públicos deberán de tener en la página de inicio de sus portales de Internet una indicación que señale el sitio donde se encuentre la información a que se refiere este Capítulo. Además las páginas deberán contar con buscadores temáticos y disponer de un respaldo con todos los registros electrónicos para cualquier persona que lo solicite; y en su caso la denominación y el vínculo directo con sus cuentas en las redes sociales de Internet que se habiliten para tal efecto.
 
 Igualmente, procurarán la creación de bases de datos explotables para la generación de conocimiento por parte de la sociedad.
 
@@ -1499,3 +1503,15 @@ G.O. 16 DE JUNIO DE 2011.
 PRIMERO. Publíquese en la Gaceta del Distrito Federal y en el Diario Oficial de la Federación para su mayor difusión.
 
 SEGUNDO. El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+G.O. 16 DE AGOSTO DE 2011.
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- Publíquese en la Gaceta Oficial del Distrito Federal y para su mayor difusión en el Diario Oficial de la Federación.
+
+TERCERO.- Cada uno de los Entes Públicos habilitará los portales de internet, contemplados por el presente decreto, o en su caso modificar los existentes, en un plazo máximo de doce meses a partir de la entrada en vigor del presente Decreto. Las entidades de la Administración Pública del Distrito Federal deberán enviar la información de los servicios públicos y trámites administrativos de su competencia a la Contraloría General del Distrito Federal, en un plazo máximo de seis meses a partir de la entrada en vigor del presente Decreto.
+
+CUARTO.- La Contraloría General del Distrito Federal deberá habilitar el portal de Internet denominado "Gobierno en línea 2.0", en un plazo máximo de doce meses a partir de la entrada en vigor del presente Decreto.
+
+QUINTO.- El Instituto de Ciencia y Tecnología del Distrito Federal deberá elaborar, en un plazo máximo de tres meses a partir de la entrada en vigor del presente Decreto, un estudio con recomendaciones sobre el uso de redes sociales en el Distrito Federal.
