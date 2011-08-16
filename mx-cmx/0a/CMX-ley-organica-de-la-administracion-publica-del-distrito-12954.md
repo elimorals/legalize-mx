@@ -4,7 +4,7 @@ identifier: "CMX-ley-organica-de-la-administracion-publica-del-distrito-12954"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1998-12-29"
-last_updated: "2011-06-17"
+last_updated: "2011-08-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12954&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1998-12-14"
 
 LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 17 DE JUNIO DE 2011.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 16 DE AGOSTO DE 2011.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el martes 29 de diciembre de 1998.
 
@@ -312,9 +312,13 @@ VI. Resolver los recursos administrativos que les sean interpuestos cuando legal
 
 VII. Apoyar al Jefe de Gobierno en la planeación, conducción, coordinación, vigilancia y evaluación del desarrollo de las entidades paraestatales agrupadas en su subsector en congruencia con el Plan Nacional de Desarrollo, el Programa General de Desarrollo del Distrito Federal y los demás programas que deriven de éste;
 
-VIII. En los juicios de amparo, el Jefe de Gobierno podrá ser representado por el titular de la dependencia a la que el asunto corresponda, según la distribución de competencias. En los juicios contencioso-administrativos, los titulares de las dependencias contestarán la demanda por sí y en representación del Jefe de Gobierno, y
+VIII. En los juicios de amparo, el Jefe de Gobierno podrá ser representado por el titular de la dependencia a la que el asunto corresponda, según la distribución de competencias. En los juicios contencioso-administrativos, los titulares de las dependencias contestarán la demanda por sí y en representación del Jefe de Gobierno, y (sic)
 
 IX. Comparecer ante la Asamblea Legislativa en los casos previstos por el Estatuto de Gobierno y la legislación aplicable.
+
+> <small>(ADICIONADA, G.O. 16 DE AGOSTO DE 2011)</small>
+
+X. Proponer, formular y ejecutar las medidas de modernización, simplificación y desregulación administrativa, entre las que se incluya la habilitación de un sistema de orientación telefónica y un portal de Internet, podrán asimismo habilitar la apertura de cuentas en redes sociales de Internet a efecto de difundir la información relativa a los servicios públicos y trámites administrativos que les sean propios.
 
 ###### Artículo 17.
 
@@ -1596,7 +1600,9 @@ XLIV. Establecer e incrementar relaciones de colaboración con organizaciones e 
 
 XLV. Suscribir los documentos relativos al ejercicio de sus atribuciones, así como celebrar, otorgar y suscribir los contratos, convenios y demás actos jurídicos de carácter administrativo o de cualquier otra índole dentro del ámbito de su competencia, necesarios para el ejercicio de sus funciones y en sus (sic) caso de las unidades administrativas que les estén adscritas, con excepción de aquellos contratos y convenios a que se refiere el artículo 20, párrafo primero, de esta Ley. También podrán suscribir aquellos que les sean señalados por delegación o les correspondan por suplencia. El Jefe de Gobierno podrá ampliar o limitar el ejercicio de las facultades a que se refiere esta fracción;
 
-XLVI. Atender el sistema de orientación, información y quejas;
+> <small>(REFORMADA, G.O. 16 DE AGOSTO DE 2011)</small>
+
+XLVI. Proponer, formular y ejecutar las medidas de modernización, simplificación y desregulación administrativa, entre las que se incluya la habilitación de un sistema de orientación, información y quejas a través de un servicio de orientación telefónica y un portal de Internet, podrán asimismo habilitar la apertura de cuentas en redes sociales de Internet a efecto de difundir la información relativa a los servicios públicos y trámites administrativos que les sean propios;
 
 XLVII. Proponer y ejecutar las obras tendientes a la regeneración de barrios deteriorados y, en su caso, promover su incorporación al patrimonio cultural;
 
@@ -2239,3 +2245,15 @@ G.O. 17 DE JUNIO DE 2011.
 Primero. El presente Decreto entrará en vigor el día diecinueve de junio de dos mil once.
 
 Segundo. Publíquese en la Gaceta Oficial del Distrito Federal y, para su mayor difusión, en el Diario Oficial de la Federación.
+
+G.O. 16 DE AGOSTO DE 2011.
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- Publíquese en la Gaceta Oficial del Distrito Federal y para su mayor difusión en el Diario Oficial de la Federación.
+
+TERCERO.- Cada uno de los Entes Públicos habilitará los portales de internet, contemplados por el presente decreto, o en su caso modificar los existentes, en un plazo máximo de doce meses a partir de la entrada en vigor del presente Decreto. Las entidades de la Administración Pública del Distrito Federal deberán enviar la información de los servicios públicos y trámites administrativos de su competencia a la Contraloría General del Distrito Federal, en un plazo máximo de seis meses a partir de la entrada en vigor del presente Decreto.
+
+CUARTO.- La Contraloría General del Distrito Federal deberá habilitar el portal de Internet denominado "Gobierno en línea 2.0", en un plazo máximo de doce meses a partir de la entrada en vigor del presente Decreto.
+
+QUINTO.- El Instituto de Ciencia y Tecnología del Distrito Federal deberá elaborar, en un plazo máximo de tres meses a partir de la entrada en vigor del presente Decreto, un estudio con recomendaciones sobre el uso de redes sociales en el Distrito Federal.
