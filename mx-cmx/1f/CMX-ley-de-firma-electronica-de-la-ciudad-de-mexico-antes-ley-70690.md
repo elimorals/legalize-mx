@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-firma-electronica-de-la-ciudad-de-mexico-antes-ley-70690
 country: "mx"
 rank: "ley"
 publication_date: "2009-11-04"
-last_updated: "2009-11-04"
+last_updated: "2011-08-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70690&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2009-10-30"
 
 LEY DE FIRMA ELECTRONICA DEL DISTRITO FEDERAL
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 16 DE AGOSTO DE 2011.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el miércoles 4 de noviembre de 2009.
 
@@ -208,9 +208,29 @@ Los Entes Públicos deberán habilitar una oficialía de partes electrónica, qu
 
 Tales datos determinarán para todos los efectos de Ley la vigencia y vencimiento de los plazos.
 
+> <small>(REFORMADO, G.O. 16 DE AGOSTO DE 2011)</small>
+
 ###### Artículo 22.
 
-Los entes públicos deberán habilitar la prestación de servicios y trámites administrativos, mediante los medios electrónicos disponibles a la ciudadanía.
+Los Entes Públicos habilitarán, en sus respectivos ámbitos de competencia, un Portal de Internet y un correo electrónico, podrán asimismo habilitar cuentas en redes sociales de Internet a efecto de difundir la información relativa a los servicios públicos y trámites administrativos prestados en el ámbito de sus respectivas competencias.
+
+Corresponderá a la Contraloría General del Distrito Federal la habilitación y gestión de un Portal de Internet único, bajo la denominación “Gobierno en línea 2.0”, que concentrará la información de los servicios públicos y trámites administrativos prestados por cada uno de los entes públicos de la Administración Pública del Distrito Federal.
+
+El sistema de gobierno electrónico se regirá por los siguientes principios rectores:
+
+a) Acceso universal: Disponer el acceso al sistema en cualquier momento sin mayores restricciones a las establecidas para atender, o, en su caso, sustanciar, servicios públicos o trámites administrativos que los expresamente establecidos en los ordenamientos aplicables.
+
+b) Amigabilidad: Diseñar un sistema caracterizado por la facilidad en su consulta y la sencillez en su interacción de acuerdo con las preferencias y necesidades de los usuarios.
+
+c) Confiabilidad: Asegurar que la información proveída sea auténtica a efecto de garantizar su seguridad y eficacia jurídica.
+
+d) Innovación: Incorporar continuamente nuevas tecnologías de la información con base en la eficiencia de resultados y la optimización de costos.
+
+e) Participación multisectorial: Impulsar la colaboración del sector privado y el sector social en la implementación y la vigilancia del gobierno electrónico.
+
+f) Seguridad: Disponer de adecuados niveles de seguridad que garanticen la protección de datos personales de conformidad con lo establecido en los ordenamientos aplicables.
+
+g) Simplificación administrativa: Procurar la reducción de los requisitos y formalidades para la atención, y en su caso, sustanciación electrónica de los servicios públicos y trámites administrativos.
 
 ### Capítulo IV. De los Derechos y Obligaciones de los Titulares de Certificados de Firma Electrónica y de los prestadores del servicio de certificación
 
@@ -439,3 +459,17 @@ Quinto. Los órganos Legislativo, Judicial y Autónomos adoptarán las medidas a
 Recinto de la Asamblea Legislativa del Distrito Federal, a los dieciocho días del mes de agosto del año dos mil nueve.- POR LA MESA DIRECTIVA.- DIP. JORGE FEDERICO SCHIAFFINO ISUNZA, VICEPRESIDENTE.- DIP. AVELINO MÉNDEZ RANGEL, SECRETARIO.- DIP. ELVIRA MURILLO MENDOZA, SECRETARIA.- FIRMAS.
 
 En cumplimiento de lo dispuesto por los artículos 122, apartado C, Base Segunda, fracción II, inciso b), de la Constitución Política de los Estados Unidos Mexicanos; 48, 49 y 67, fracción II, del Estatuto de Gobierno del Distrito Federal, para su debida publicación y observancia, expido el presente Decreto Promulgatorio, en la Residencia Oficial del Jefe de Gobierno del Distrito Federal, en la Ciudad de México, a los treinta días del mes de octubre del año dos mil nueve.- EL JEFE DE GOBIERNO DEL DISTRITO FEDERAL, MARCELO LUIS EBRARD CASAUBON.- FIRMA.- EL SECRETARIO DE GOBIERNO, JOSÉ ÁNGEL ÁVILA PÉREZ.- FIRMA.- EL SECRETARIO DE DESARROLLO URBANO Y VIVIENDA, FELIPE LEAL FERNANDEZ.- FIRMA.- LA SECRETARIA DE DESARROLLO ECONÓMICO, LAURA VELÁZQUEZ ALZÚA.- FIRMA.- LA SECRETARIA DEL MEDIO AMBIENTE, MARTHA DELGADO PERALTA.- FIRMA.- EL SECRETARIO DE OBRAS Y SERVICIOS, FERNANDO JOSÉ ABOITIZ SARO.- FIRMA.- EL SECRETARIO DE DESARROLLO SOCIAL, MARTÍ BATRES GUADARRAMA.- FIRMA.- EL SECRETARIO DE SALUD, JOSÉ ARMANDO AHUED ORTEGA.- FIRMA.- EL SECRETARIO DE FINANZAS, MARIO MARTÍN DELGADO CARRILLO.- FIRMA.- EL SECRETARIO DE TRANSPORTES Y VIALIDAD, RAÚL ARMANDO QUINTERO MARTÍNEZ.- FIRMA.- EL SECRETARIO DE SEGURIDAD PÚBLICA, MANUEL MONDRAGÓN Y KALB.- FIRMA.- EL SECRETARIO DE TURISMO, ALEJANDRO ROJAS DÍAZ DURÁN.- FIRMA.- LA SECRETARIA DE CULTURA, ELENA CEPEDA DE LEÓN.- FIRMA.- EL SECRETARIO DE PROTECCIÓN CIVIL, ELÍAS MIGUEL MORENO BRIZUELA.- FIRMA.- EL SECRETARIO DE TRABAJO Y FOMENTO AL EMPLEO, BENITO MIRÓN LINCE.- FIRMA.- EL SECRETARIO DE EDUCACIÓN, MARIO CARRILLO HUERTA.- FIRMA.- SECRETARÍA DE DESARROLLO RURAL Y EQUIDAD PARA LAS COMUNIDADES, MARÍA ROSA MÁRQUEZ CABRERA.- FIRMA.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+G.O. 16 DE AGOSTO DE 2011.
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- Publíquese en la Gaceta Oficial del Distrito Federal y para su mayor difusión en el Diario Oficial de la Federación.
+
+TERCERO.- Cada uno de los Entes Públicos habilitará los portales de internet, contemplados por el presente decreto, o en su caso modificar los existentes, en un plazo máximo de doce meses a partir de la entrada en vigor del presente Decreto. Las entidades de la Administración Pública del Distrito Federal deberán enviar la información de los servicios públicos y trámites administrativos de su competencia a la Contraloría General del Distrito Federal, en un plazo máximo de seis meses a partir de la entrada en vigor del presente Decreto.
+
+CUARTO.- La Contraloría General del Distrito Federal deberá habilitar el portal de Internet denominado "Gobierno en línea 2.0", en un plazo máximo de doce meses a partir de la entrada en vigor del presente Decreto.
+
+QUINTO.- El Instituto de Ciencia y Tecnología del Distrito Federal deberá elaborar, en un plazo máximo de tres meses a partir de la entrada en vigor del presente Decreto, un estudio con recomendaciones sobre el uso de redes sociales en el Distrito Federal.
