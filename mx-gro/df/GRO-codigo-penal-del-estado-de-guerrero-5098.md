@@ -4,7 +4,7 @@ identifier: "GRO-codigo-penal-del-estado-de-guerrero-5098"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-11-14"
-last_updated: "2010-12-21"
+last_updated: "2011-08-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5098&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 CODIGO PENAL DEL ESTADO DE GUERRERO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE DICIEMBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE AGOSTO DE 2011.
 
 Código publicado en el Periódico Oficial del Estado de Guerrero, el viernes 14 de noviembre de 1986.
 
@@ -509,6 +509,38 @@ V.- Las que establecen los capítulos IX a XII de este Título.
 
 Toda sentencia de condena que imponga alguna sanción de las previstas en las fracciones I a IV de este artículo, al causar ejecutoria, se inscribirá en el Registro Público de la Propiedad y del Comercio.
 
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 16 DE AGOSTO DE 2011)</small>
+
+### CAPÍTULO XVI. DE LOS ANTECEDENTES PENALES
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO ARTICULO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+
+> <small>(ADICIONADO, P.O. 16 DE AGOSTO DE 2011)</small>
+
+55-A.- Solo constituyen antecedentes penales las sentencias condenatorias que hayan causado ejecutoria; en consecuencia, el inicio de una averiguación previa o proceso penal que se siga a un inculpado, no será motivo para constituir en su contra el registro de antecedentes penales ante ninguna autoridad administrativa o judicial.
+
+La autoridad judicial, en la misma sentencia condenatoria ordenará la inscripción de los antecedentes penales del sentenciado para lo cual remitirán copia certificada de la misma a la Procuraduría General de Justicia del Estado, dentro del término de quince días hábiles contados a partir de la fecha en que haya quedado firme.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO ARTICULO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+
+> <small>(ADICIONADO, P.O. 16 DE AGOSTO DE 2011)</small>
+
+55-B.- El registro de antecedentes penales estará a cargo de la Procuraduría General de Justicia del Estado.
+
+La Procuraduría General de Justicia planeará, organizará y controlará el registro de antecedentes penales así como también determinará los sistemas que deban emplearse para la inscripción de los antecedentes penales.
+
+La Procuraduría General de Justicia del Estado, deberá de tener un registro de los indiciados a través de la elaboración de fichas dactiloscópicas y llevar el registro de las órdenes de aprehensión que le sean giradas para su cumplimiento, lo cual sólo constituirá un registro de control de procesos penales y no serán antecedentes penales.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO ARTICULO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+
+> <small>(ADICIONADO, P.O. 16 DE AGOSTO DE 2011)</small>
+
+55-C.- Los antecedentes penales se cancelarán en los términos y condiciones que establezca el Reglamento de la Ley Orgánica de la Procuraduría General de Justicia del Estado de Guerrero.
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 20 DE ABRIL DE 1999)</small>
+
+## TITULO IV. APLICACION DE LAS SANCIONES Y MEDIDAS DE SEGURIDAD
+
 > <small>(REFORMADA SU DENOMINACION, P.O. 20 DE ABRIL DE 1999)</small>
 
 ### CAPITULO I. INDIVIDUALIZACION DE LA PENA
@@ -556,10 +588,6 @@ III.- Que se obligue al sentenciado a residir en determinado lugar y a desempeñ
 59.- Cuando en relación con las penas aplicables este Código haga referencia al salario para estimar el valor, cuantía o monto del objeto o producto del delito o de los daños o perjuicios patrimoniales causados, se entenderá el salario mínimo general que al momento de consumarse el delito haya estado vigente en la zona económica a que corresponda el lugar en que se hubiese cometido aquél.
 
 Tratándose de delito permanente, se atenderá al salario que hubiese estado en vigor al cesar la consumación; en caso de delito continuado, se tomará en cuenta el salario vigente al momento de consumarse la última conducta.
-
-> <small>(REFORMADA SU DENOMINACION, P.O. 20 DE ABRIL DE 1999)</small>
-
-## TITULO IV. APLICACION DE LAS SANCIONES Y MEDIDAS DE SEGURIDAD
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 20 DE ABRIL DE 1999)</small>
 
@@ -691,6 +719,8 @@ En caso de muerte o insolvencia del fiador, el sentenciado deberá poner el hech
 
 77.- Tratándose de los delitos de carácter político a que se refiere el Capítulo I del Título I Sección Cuarta de éste Código, el Ejecutivo podrá conmutar la pena impuesta en sentencia ejecutoriada, cuando ésta sea prohibición de ir a una circunscripción territorial determinada o de residir en ella, por multa a razón de un día de aquellas por uno de ésta.
 
+## TITULO V. EXTINCION PENAL
+
 ### CAPITULO I. EXTINCION DE LA ACCION PENAL Y DE LA POTESTAD DE EJECUTAR LAS PENAS Y MEDIDAS DE SEGURIDAD
 
 78.- La extinción de la acción penal y de la potestad de ejecutar las penas y medidas de seguridad, se resolverá de oficio o a petición de parte, según proceda.
@@ -700,8 +730,6 @@ En caso de muerte o insolvencia del fiador, el sentenciado deberá poner el hech
 La declaración de extinción de la potestad de ejecutar las penas y medidas de seguridad, corresponde a la autoridad judicial.
 
 80.- Si durante la ejecución de las penas o medidas de seguridad, se advierte que se extinguió la acción penal o la potestad ejecutiva, sin que esta circunstancia se haya hecho valer en la averiguación previa o durante el proceso, quien hubiese advertido la extinción propondrá la libertad absoluta del reo ante el órgano jurisdiccional que hubiere conocido del asunto y éste resolverá lo procedente.
-
-## TITULO V. EXTINCION PENAL
 
 ### CAPITULO II. CUMPLIMIENTO DE LA PENA O MEDIDA DE SEGURIDAD
 
@@ -837,6 +865,12 @@ Cuando se haya cumplido parte de la pena de prisión, se necesitará para la pre
 
 La prescripción de la potestad de ejecutar las demás penas y medidas de seguridad, se interrumpirá por cualquier acto de autoridad competente para hacerlas efectivas y comenzará a correr de nuevo al día siguiente del último acto realizado.
 
+# LIBRO SEGUNDO. PARTE ESPECIAL
+
+#### SECCION PRIMERA. DELITOS CONTRA EL INDIVIDUO
+
+## TITULO I. DELITOS CONTRA LA VIDA Y LA SALUD PERSONAL
+
 ### CAPITULO I. HOMICIDIO
 
 > <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 1991)</small>
@@ -846,12 +880,6 @@ La prescripción de la potestad de ejecutar las demás penas y medidas de seguri
 > <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2010)</small>
 
 104.- Al que dolosamente prive de la vida a su ascendiente o descendiente consanguíneo, en línea recta, hermano, cónyuge, concubina o concubinario; o persona con quien se tenga o haya tenido una relación de hecho, adoptante o adoptado con conocimiento de ese parentesco o relación, se le impondrá prisión de veinte a cuarenta años.
-
-# LIBRO SEGUNDO. PARTE ESPECIAL
-
-#### SECCION PRIMERA. DELITOS CONTRA EL INDIVIDUO
-
-## TITULO I. DELITOS CONTRA LA VIDA Y LA SALUD PERSONAL
 
 ### CAPITULO II. LESIONES
 
@@ -943,18 +971,6 @@ El que cometa este delito no tendrá derecho a gozar de los beneficios de remisi
 
 > <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2010)</small>
 
-### CAPITULO IV. INSTIGACION O AYUDA AL SUICIDIO
-
-115.- Al que instigue o ayude a otro para que se suicide, se le impondrá prisión de uno a ocho años, si el suicidio se consumare.
-
-Si el suicidio no se consuma la prisión será de tres meses a cuatro años, pero si se causan lesiones se aplicarán de seis meses a seis años de prisión.
-
-Cuando la persona a quien se instigue o ayude al suicidio fuere menor de edad o no tuviere capacidad de comprender la relevancia de su conducta o de determinarse de acuerdo a esa comprensión, las penas previstas en este artículo se aumentarán hasta en una mitad más y se impondrán de diez a cincuenta días multa.
-
-> <small>(ADICIONADO, P.O. 22 DE NOVIEMBRE DE 1991)</small>
-
-Cuando el cónyuge, concubino o amasio, instiguen o auxilien al otro a suicidarse, las penas previstas en este artículo se aumentarán hasta en una mitad más y se impondrán de diez a cincuenta días multa.
-
 ###### ARTÍCULO 108 Bis.
 
 Comete el delito de feminicidio y se le impondrán de treinta a cincuenta años de prisión, al que prive de la vida a una mujer, cuando concurra cualquiera de las circunstancias siguientes:
@@ -1023,6 +1039,18 @@ IV.- Con prisión de cinco a trece años, si comete lesiones a dos o más agravi
 
 114.- Además de las sanciones que se deban imponer conforme a los artículos que preceden, el juzgador podrá, si lo estima pertinente, declarar a los reos sujetos a vigilancia de la autoridad.
 
+### CAPITULO IV. INSTIGACION O AYUDA AL SUICIDIO
+
+115.- Al que instigue o ayude a otro para que se suicide, se le impondrá prisión de uno a ocho años, si el suicidio se consumare.
+
+Si el suicidio no se consuma la prisión será de tres meses a cuatro años, pero si se causan lesiones se aplicarán de seis meses a seis años de prisión.
+
+Cuando la persona a quien se instigue o ayude al suicidio fuere menor de edad o no tuviere capacidad de comprender la relevancia de su conducta o de determinarse de acuerdo a esa comprensión, las penas previstas en este artículo se aumentarán hasta en una mitad más y se impondrán de diez a cincuenta días multa.
+
+> <small>(ADICIONADO, P.O. 22 DE NOVIEMBRE DE 1991)</small>
+
+Cuando el cónyuge, concubino o amasio, instiguen o auxilien al otro a suicidarse, las penas previstas en este artículo se aumentarán hasta en una mitad más y se impondrán de diez a cincuenta días multa.
+
 ### CAPITULO V. ABORTO
 
 116.- Comete el delito de aborto el que cause la muerte del producto de la concepción en cualquier momento de la preñez.
@@ -1047,11 +1075,11 @@ III.- Cuando a juicio de dos médicos exista razón suficiente para suponer que 
 
 122.- Al que omita prestar el auxilio necesario a quien se encuentre desamparado y en peligro manifiesto en su persona, cuando según las circunstancias pudiere hacerlo sin riesgo propio ni de terceros, o al que no estando en condiciones de prestarlo no diere aviso inmediato a la autoridad o no solicitare auxilio a quienes pudieren prestarlo, se le impondrá prisión de tres a seis meses o de diez a treinta días multa.
 
+## TITULO II. DELITOS DE OMISION DE AUXILIO O DE CUIDADO
+
 ### CAPITULO II. OMISION DE CUIDADO
 
 123.- Al que abandone a una persona incapaz de valerse por sí misma, teniendo la obligación de cuidarla, se le aplicará prisión de tres meses a tres años.
-
-## TITULO II. DELITOS DE OMISION DE AUXILIO O DE CUIDADO
 
 ### CAPITULO III. OMISION DE AUXILIO A ATROPELLADOS
 
@@ -1066,6 +1094,8 @@ III.- Cuando a juicio de dos médicos exista razón suficiente para suponer que 
 No se aplicará pena alguna a la madre que entregue a su hijo por extrema pobreza o cuando aquel haya sido producto de una violación o inseminación artificial indebida.
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 20 DE ABRIL DE 1999)</small>
+
+## TITULO III. EXPOSICION DE INCAPACES
 
 ### CAPITULO I. PRIVACION DE LA LIBERTAD PERSONAL
 
@@ -1091,15 +1121,13 @@ III.- Que la privación de la libertad, fuera de las causas previstas por la ley
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 20 DE ABRIL DE 1999)</small>
 
-## TITULO III. EXPOSICION DE INCAPACES
+## TITULO IV. DELITOS DE PRIVACION ILEGAL DE LA LIBERTAD
 
 ### CAPITULO II. VIOLACION DE LA LIBERTAD DE TRABAJO
 
 128.- (DEROGADO, P.O. 17 DE ABRIL DE 2007)
 
 (REUBICADO Y REFORMADA SU DENOMINACION, P.O. 20 DE ABRIL DE 1999)
-
-## TITULO IV. DELITOS DE PRIVACION ILEGAL DE LA LIBERTAD
 
 ### CAPITULO III. SECUESTRO
 
@@ -1213,23 +1241,15 @@ El delito previsto en este artículo se perseguirá a petición de la parte ofen
 
 > <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2010)</small>
 
+## TITULO V. DELITOS CONTRA LA PAZ Y LA SEGURIDAD DE LAS PERSONAS
+
+> <small>(REFORMADO EN SU DENOMINACION, P.O. 21 DE DICIEMBRE DE 2010)</small>
+
 ### CAPITULO II. ASALTO
 
 135.- Al que en lugar solitario o desprotegido haga uso de la violencia sobre una persona, con el propósito de causar un mal, obtener un lucro o exigir su asentimiento para cualquier fin, se le sancionará con prisión de uno a seis años y hasta cincuenta días multa.
 
 136.- Cuando el asalto se cometa contra un poblado, se aplicarán de seis a veinte años de prisión y de cincuenta a doscientos días multa.
-
-## TITULO V. DELITOS CONTRA LA PAZ Y LA SEGURIDAD DE LAS PERSONAS
-
-> <small>(REFORMADO EN SU DENOMINACION, P.O. 21 DE DICIEMBRE DE 2010)</small>
-
-### CAPITULO UNICO. ALLANAMIENTO DE MORADA
-
-137.- Al que sin el consentimiento de la persona que legítimamente pueda otorgarlo o empleando engaño, se introduzca a una casa habitación o a sus dependencias o permanezca en ellas, se le impondrá prisión de seis meses a tres años.
-
-Si el medio empleado fuese la violencia, la penalidad se aumentará hasta en una mitad más.
-
-Este delito se perseguirá por querella.
 
 ###### ARTÍCULO 134 Bis.
 
@@ -1251,13 +1271,23 @@ No serán consideradas discriminatorias todas aquellas medidas tendientes a la p
 
 Este delito se perseguirá por querella.
 
+### CAPITULO UNICO. ALLANAMIENTO DE MORADA
+
+137.- Al que sin el consentimiento de la persona que legítimamente pueda otorgarlo o empleando engaño, se introduzca a una casa habitación o a sus dependencias o permanezca en ellas, se le impondrá prisión de seis meses a tres años.
+
+Si el medio empleado fuese la violencia, la penalidad se aumentará hasta en una mitad más.
+
+Este delito se perseguirá por querella.
+
+## TITULO VI. DELITO CONTRA LA INVIOLABILIDAD DEL DOMICILIO
+
 ### CAPITULO UNICO. REVELACION DEL SECRETO
 
 138.- Al que sin consentimiento de quien tenga derecho a otorgarlo y en perjuicio de alguien, revele un secreto que por cualquier forma haya conocido o se le haya confiado, o lo emplee en provecho propio o ajeno, se le impondrá prisión de tres meses a un año, hasta cincuenta días multa y suspensión en sus funciones en su caso, de tres meses a un año. Este delito se perseguirá por querella.
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 20 DE ABRIL DE 1999)</small>
 
-## TITULO VI. DELITO CONTRA LA INVIOLABILIDAD DEL DOMICILIO
+## TITULO VII. DELITOS CONTRA LA INVIOLABILIDAD DEL SECRETO
 
 ### CAPITULO I. VIOLACION
 
@@ -1323,7 +1353,7 @@ La misma pena se aplicará cuando la violación se ejecute con motivo de un asal
 
 > <small>(REFORMADO EN SU DENOMINACION, P.O. 21 DE DICIEMBRE DE 2010)</small>
 
-## TITULO VII. DELITOS CONTRA LA INVIOLABILIDAD DEL SECRETO
+## TITULO VIII. DELITOS CONTRA LA LIBERTAD SEXUAL
 
 ### CAPÍTULO II. ABUSO SEXUAL
 
@@ -1354,8 +1384,6 @@ III. - Si el ilícito fuera cometido por ministro de culto religioso o por servi
 > <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2010)</small>
 
 Tratándose de ministro de culto religioso, Además de la sanción prevista, se hará del conocimiento a la autoridad competente para solicitar su destitución e inhabilitación, y en el caso del servidor público será destituido del cargo o empleo e inhabilitado por el término de ocho años.
-
-## TITULO VIII. DELITOS CONTRA LA LIBERTAD SEXUAL
 
 ### CAPITULO III. ESTUPRO
 
@@ -1437,13 +1465,13 @@ III.- Se lleve a cabo por dos o más personas.
 
 150.- (DEROGADO, P.O. 30 DE NOVIEMBRE DE 2007)
 
+## TITULO IX. DELITOS CONTRA EL HONOR
+
 ### CAPITULO II. DIFAMACION
 
 151.- (DEROGADO, P.O. 30 DE NOVIEMBRE DE 2007)
 
 152.- (DEROGADO, P.O. 30 DE NOVIEMBRE DE 2007)
-
-## TITULO IX. DELITOS CONTRA EL HONOR
 
 ### CAPITULO III. CALUMNIA
 
@@ -1571,6 +1599,8 @@ No se castigará al que, sin emplear engaño ni medios violentos, se apodere una
 
 166.- Al que se apodere de una cosa mueble ajena, sin consentimiento del dueño o legítimo poseedor y acredite haberla tomado con carácter temporal y no para apropiársela o venderla, se le aplicarán de 3 meses a 1 año de prisión o multa de 30 a 90 días de salario, siempre que justifique no haberse negado a devolverla si se le requirió para ello. Como reparación del daño, además, pagará al ofendido el doble del alquiler, arrendamiento o intereses de la cosa usada.
 
+## TITULO X. DELITOS EN CONTRA DE LAS PERSONAS EN SU PATRIMONIO
+
 ### CAPITULO II. ABIGEATO
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE OCTUBRE DE 2005)</small>
@@ -1608,8 +1638,6 @@ III.- Expida certificados falsos para obtener guías, simulando ventas o haga co
 > <small>(REFORMADA, P.O. 20 DE ABRIL DE 1999)</small>
 
 IV.- Al que se apodere de una o más cabezas de ganado propio, que se halle en poder de otro, en virtud de una relación contractual o por mandato de autoridad.
-
-## TITULO X. DELITOS EN CONTRA DE LAS PERSONAS EN SU PATRIMONIO
 
 ### CAPITULO III. ABUSO DE CONFIANZA
 
@@ -1833,6 +1861,10 @@ Si el obligado paga todas las cantidades debidas o se somete al régimen de pago
 
 > <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2010)</small>
 
+#### SECCION SEGUNDA. DELITOS CONTRA LA FAMILIA
+
+## TITULO UNICO. DELITOS CONTRA LA FAMILIA
+
 ### CAPITULO II. SUSTRACCION DE MENORES O INCAPACES Y ROBO DE INFANTE
 
 190.- Al que sin tener relación familiar o de parentesco sustraiga a un menor de edad o a un incapaz, sin el consentimiento de quien legítimamente tenga su custodia o guarda, o lo retenga con la finalidad de violar derechos de familia, se le impondrá prisión de dos a seis años y de veinte a sesenta días multa.
@@ -1861,9 +1893,15 @@ Además de las sanciones señaladas en los párrafos anteriores, se le privará 
 
 Cuando el delito lo cometa un familiar del infante, que ejerciendo o no la custodia legal se le impondrá de cuatro a ocho años de prisión y de trescientos a seiscientos días multa, sancionándose además, con la pérdida de la patria potestad, tutela, custodia, guarda o educación y en su caso, de los derechos sucesorios con respecto de la víctima.
 
-#### SECCION SEGUNDA. DELITOS CONTRA LA FAMILIA
+###### ARTÍCULO 188 Bis.
 
-## TITULO UNICO. DELITOS CONTRA LA FAMILIA
+Las mismas sanciones se impondrán a quienes con el propósito de eludir o suspender el cumplimiento de sus obligaciones alimentarias decretadas por autoridad judicial, renuncie, abandone su trabajo, u obtenga licencia sin causa justificada.
+
+Se impondrá prisión de seis meses a dos años y multa de cincuenta a cien salarios mínimos, a aquellas personas que obligadas a informar acerca de los ingresos de quienes deban cumplir con las obligaciones señaladas, incumplan con la orden judicial de hacerlo.
+
+189.- Al que dolosamente se coloque en estado de insolvencia, con el objeto de eludir el cumplimiento de las obligaciones alimentarias que la ley determina, se le impondrá prisión de tres meses a tres años. El juez resolverá sobre la aplicación del producto del trabajo que realice el agente, a la satisfacción de las obligaciones alimentarias de éste.
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 20 DE ABRIL DE 1999)</small>
 
 ### CAPITULO III. TRAFICO DE MENORES
 
@@ -1878,16 +1916,6 @@ Si se acredita que quien recibió al menor lo hizo para incorporarlo a su núcle
 Cuando en la comisión del delito no exista el consentimiento a que se refiere el párrafo inicial, las penas se aumentarán hasta el doble de las previstas en aquél.
 
 A quienes teniendo el ejercicio de la patria potestad, tutela o custodia, cometan el delito previsto por este artículo, se les sancionará, además, con privación de aquél y de los derechos de familia en relación con el ofendido.
-
-###### ARTÍCULO 188 Bis.
-
-Las mismas sanciones se impondrán a quienes con el propósito de eludir o suspender el cumplimiento de sus obligaciones alimentarias decretadas por autoridad judicial, renuncie, abandone su trabajo, u obtenga licencia sin causa justificada.
-
-Se impondrá prisión de seis meses a dos años y multa de cincuenta a cien salarios mínimos, a aquellas personas que obligadas a informar acerca de los ingresos de quienes deban cumplir con las obligaciones señaladas, incumplan con la orden judicial de hacerlo.
-
-189.- Al que dolosamente se coloque en estado de insolvencia, con el objeto de eludir el cumplimiento de las obligaciones alimentarias que la ley determina, se le impondrá prisión de tres meses a tres años. El juez resolverá sobre la aplicación del producto del trabajo que realice el agente, a la satisfacción de las obligaciones alimentarias de éste.
-
-> <small>(REFORMADA SU DENOMINACION, P.O. 20 DE ABRIL DE 1999)</small>
 
 ### CAPITULO IV. DELITOS CONTRA LA FILIACION Y EL ESTADO CIVIL
 
@@ -1955,6 +1983,10 @@ Cuando exista reincidencia por parte del activo, se aumentará la pena en una te
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 22 DE NOVIEMBRE DE 1991)</small>
 
+#### SECCION TERCERA. DELITOS CONTRA LA SOCIEDAD
+
+## TITULO I. DELITOS DE PELIGRO CONTRA LA SEGURIDAD COLECTIVA
+
 ### CAPITULO I BIS. DELITOS CONTRA LA SALUD PUBLICA
 
 > <small>(ADICIONADO, P.O. 22 DE NOVIEMBRE DE 1991)</small>
@@ -1972,10 +2004,6 @@ Si el infractor fuere médico o se dedicase al expendio y venta de medicamentos 
 > <small>(ADICIONADO, P.O. 22 DE NOVIEMBRE DE 1991)</small>
 
 195 C.- Estas disposiciones sólo serán aplicables cuando no existan otras de carácter federal, y las sanciones a que se refieren los artículos 195 A y 195 B, serán sin perjuicio de imponer al infractor la sanción que corresponda si se causa el contagio y si resultare algún otro daño.
-
-#### SECCION TERCERA. DELITOS CONTRA LA SOCIEDAD
-
-## TITULO I. DELITOS DE PELIGRO CONTRA LA SEGURIDAD COLECTIVA
 
 ### CAPITULO II. ARMAS PROHIBIDAS
 
@@ -2051,6 +2079,8 @@ Si en el vehículo de que se trata no se hallare persona alguna, se aplicará pr
 
 207.- Cuando se cause algún daño por medio de cualquier vehículo, motor o maquinaria, además de aplicar las sanciones por el delito que resulte, se inhabilitará al delincuente para manejar aquellos aparatos por un tiempo no menor de seis meses ni mayor de cinco años. En caso de reincidencia, la inhabilitación será definitiva.
 
+## TITULO II. DELITOS CONTRA LA SEGURIDAD Y EL NORMAL FUNCIONAMIENTO DE LAS VIAS DE COMUNICACION Y DE LOS MEDIOS DE TRANSPORTE
+
 ### CAPITULO II. DELITOS CONTRA LA SEGURIDAD DEL TRANSITO DE VEHICULOS
 
 208.- Al que maneje un vehículo hallándose en estado de ebriedad o bajo el influjo de estupefacientes, psicotrópicos u otras sustancias que impidan o perturben su adecuada conducción, se le aplicará prisión de tres meses a dos años.
@@ -2058,8 +2088,6 @@ Si en el vehículo de que se trata no se hallare persona alguna, se aplicará pr
 Si este delito se comete por conductores de vehículos de transporte escolar o de servicio público de pasajeros o de carga, se duplicará la pena señalada en el párrafo anterior.
 
 En ambos casos se estará a lo dispuesto en el artículo 207.
-
-## TITULO II. DELITOS CONTRA LA SEGURIDAD Y EL NORMAL FUNCIONAMIENTO DE LAS VIAS DE COMUNICACION Y DE LOS MEDIOS DE TRANSPORTE
 
 ### CAPITULO III. VIOLACION DE CORRESPONDENCIA
 
@@ -2084,6 +2112,8 @@ El delito previsto en este artículo se perseguirá a petición de la parte ofen
 Si los objetos falsificados o alterados son propiedad de un particular, la sanción será de tres meses a tres años de prisión y de quince a noventa días multa.
 
 Al que use indebidamente cualquiera de los objetos arriba señalados, se le aplicarán las penas previstas en el párrafo anterior.
+
+## TITULO III. DELITOS CONTRA LA FE PUBLICA
 
 ### CAPITULO II. FALSIFICACION Y USO INDEBIDO DE DOCUMENTOS
 
@@ -2115,11 +2145,11 @@ IV.- A sabiendas haga uso indebido de cualquier documento, copia, testimonio o t
 
 213.- Cuando alguno de los delitos previstos en este Capítulo sea ejecutado por un servidor público en ejercicio de sus funciones será penado, además con privación del empleo e inhabilitación para ocupar otro cargo público hasta por tres años.
 
-## TITULO III. DELITOS CONTRA LA FE PUBLICA
-
 ### CAPITULO III. USO DE DOCUMENTOS FALSOS O ALTERADOS
 
-214.- Al que haga uso de un documento falso o alterado para obtener un beneficio o causar daño, se le impondrá prisión de tres meses a tres años y de quince a noventa días multa.
+> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2011)</small>
+
+214.- Al que con el conocimiento de que un documento es falso o alterado, haga uso del mismo para obtener un beneficio, para sí o para otro, o para causar un daño, se le impondrá prisión de tres meses a tres años y de quince a noventa días multa.
 
 ### CAPITULO IV. USURPACION DE PROFESIONES
 
@@ -2165,6 +2195,10 @@ No se actualizará el delito tratándose de programas preventivos, educativos o 
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 17 DE ABRIL DE 2007)</small>
 
+## TITULO IV. DELITOS CONTRA LA EVOLUCION O DESARROLLO DE LA PERSONALIDAD
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 17 DE ABRIL DE 2007)</small>
+
 ### CAPITULO II. PORNOGRAFIA CON UTILIZACION DE IMAGENES Y/O VOZ DE PERSONAS MENORES DE EDAD O DE PERSONAS QUE NO TIENEN LA CAPACIDAD PARA COMPRENDER EL SIGNIFICADO DEL HECHO
 
 > <small>(REFORMADO, P.O. 17 DE ABRIL DE 2007)</small>
@@ -2184,10 +2218,6 @@ A quien financie, dirija, administre o supervise cualquiera de las actividades a
 Las anteriores sanciones se impondrán sin perjuicio de las penas que correspondan por la comisión de los delitos contemplados en los (sic) en el capítulo V del Título IV Sección Primera de este Código.
 
 217 BIS.- (DEROGADO, P.O. 17 DE ABRIL DE 2007)
-
-> <small>(REFORMADA SU DENOMINACION, P.O. 17 DE ABRIL DE 2007)</small>
-
-## TITULO IV. DELITOS CONTRA LA EVOLUCION O DESARROLLO DE LA PERSONALIDAD
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 17 DE ABRIL DE 2007)</small>
 
@@ -2249,6 +2279,8 @@ II.- Sustraiga o esparza las cenizas de un cadáver o restos humanos o cometa ac
 
 221.- Al que profane un cadáver con actos de necrofilia, se le impondrá prisión de uno a cinco años y de treinta a ciento cincuenta días multa.
 
+## TITULO V. DELITOS CONTRA EL RESPETO A LOS MUERTOS Y CONTRA LAS NORMAS DE INHUMACION Y EXHUMACION
+
 ### CAPITULO UNICO. RESPONSABILIDAD PROFESIONAL
 
 222.- Los profesionistas y sus auxiliares, que cometan delitos en el ejercicio de su actividad, sufrirán, además de las sanciones que les correspondan, la suspensión en el ejercicio de ésta, de tres meses a tres años.
@@ -2287,7 +2319,7 @@ III.- Retarden o nieguen por cualquier motivo la entrega de un cadáver, excepto
 
 226.- A los encargados, empleados o dependientes de farmacias, que al surtir una receta sustituyan la medicina específicamente señalada, por otra que cause daños o sea evidentemente inapropiada al padecimiento para el cual se prescribió, se les impondrá prisión de tres meses a dos años y hasta cincuenta días multa.
 
-## TITULO V. DELITOS CONTRA EL RESPETO A LOS MUERTOS Y CONTRA LAS NORMAS DE INHUMACION Y EXHUMACION
+## TITULO VI. DELITOS COMETIDOS EN EL EJERCICIO DE LA PROFESION
 
 ### CAPITULO I. SEDICION
 
@@ -2295,15 +2327,13 @@ III.- Retarden o nieguen por cualquier motivo la entrega de un cadáver, excepto
 
 A quienes dirijan, organicen, inciten, compelan o patrocinen económicamente a otros para cometer el delito de sedición, se les sancionará con prisión de dos a doce años.
 
-## TITULO VI. DELITOS COMETIDOS EN EL EJERCICIO DE LA PROFESION
+#### SECCION CUARTA. DELITOS CONTRA EL ESTADO
+
+## TITULO I. DELITOS CONTRA LA SEGURIDAD INTERIOR DEL ESTADO
 
 ### CAPITULO II. MOTIN
 
 228.- A quienes para hacer uso de un derecho o pretextando su ejercicio o para evitar el cumplimiento de una ley, se reúnan tumultuariamente y perturben el orden público con el empleo de violencia en las personas o sobre las cosas, o amenacen a la autoridad para intimidarla u obligarla a tomar alguna determinación, se les aplicará de seis meses a cuatro años de prisión.
-
-#### SECCION CUARTA. DELITOS CONTRA EL ESTADO
-
-## TITULO I. DELITOS CONTRA LA SEGURIDAD INTERIOR DEL ESTADO
 
 ### CAPITULO III. REBELION
 
@@ -2375,6 +2405,8 @@ A los mexicanos que cometan algún delito de carácter político, se les privar�
 
 240.- Los servidores públicos que cometan alguno de los delitos previstos en el presente Título, serán sancionados con las penas de prisión y multa que para cada caso se señalan y privación del cargo e inhabilitación para desempeñar otro empleo, cargo o comisión públicos, hasta por el mismo tiempo que el señalado en las penas privativas de libertad.
 
+## TITULO II. DELITOS CONTRA EL SERVICIO PUBLICO COMETIDOS POR LOS SERVIDORES PUBLICOS
+
 ### CAPITULO II. EJERCICIO INDEBIDO Y ABANDONO DEL SERVICIO PUBLICO
 
 241.- Comete el delito de ejercicio indebido del servicio público, el servidor público que:
@@ -2400,8 +2432,6 @@ Al responsable de los delitos previstos en las fracciones IV y V se le impondrá
 > <small>(REFORMADO, P.O. 20 DE ABRIL DE 1999)</small>
 
 242.- Al servidor público que indebidamente y en perjuicio del servicio abandone las funciones que legalmente tenga conferidas, se le aplicará prisión de dos a siete años y de cincuenta a cuatrocientos días multa.
-
-## TITULO II. DELITOS CONTRA EL SERVICIO PUBLICO COMETIDOS POR LOS SERVIDORES PUBLICOS
 
 ### CAPITULO III. DESEMPEÑO IRREGULAR DE LA FUNCION PUBLICA
 
@@ -2543,13 +2573,13 @@ II.- Indebidamente solicite o promueva alguna resolución o la realización de c
 
 253.- Al particular que promueva una conducta ilícita de un servidor público o se preste para que él mismo o por interpósita persona promueva o gestione la tramitación o resolución ilícita de negocios públicos ajenos a las responsabilidades inherentes a su empleo, cargo o comisión, se le impondrá prisión de tres meses a cuatro años y de diez a cien días multa.
 
+## TITULO III. DELITOS CONTRA EL SERVICIO PUBLICO COMETIDOS POR PARTICULARES
+
 ### CAPITULO II. COHECHO COMETIDO POR PARTICULARES
 
 254.- Al particular que de manera espontánea dé u ofrezca dinero o cualquier otra dádiva u otorgue promesa a un servidor público o a interpósita persona, para que dicho servidor haga u omita un acto justo o injusto relacionado con sus funciones, se le aplicarán de seis meses a seis años de prisión y de veinte a doscientos cuarenta días multa.
 
 255.- El juez podrá imponer al cohechador hasta una tercera parte de las penas señaladas en el artículo anterior o, a su juicio, eximirlo de las mismas, cuando denuncie espontáneamente el delito cometido o cuando hubiere actuado para beneficiar a una persona con la que lo ligue un vínculo familiar.
-
-## TITULO III. DELITOS CONTRA EL SERVICIO PUBLICO COMETIDOS POR PARTICULARES
 
 ### CAPITULO III. ADQUISICION U OCULTACION INDEBIDA DE RECURSOS PUBLICOS
 
@@ -2703,6 +2733,8 @@ Se entenderá simulado el juicio que se siga en contra de un depositario, si tra
 
 También se entenderá simulado el que se siga contra cualquier otra persona, si con ese motivo se desposee al depositario de la cosa previamente embargada o secuestrada en otro juicio o procedimiento, siempre que éste no la reclame dentro de los tres días siguientes.
 
+## TITULO IV. DELITOS CONTRA LA ADMINISTRACION DE JUSTICIA
+
 ### CAPITULO III. IMPUTACION DE HECHOS FALSOS Y SIMULACION DE PRUEBAS
 
 272.- Al que con el propósito de inculpar a alguien como responsable de un delito, le impute ante la autoridad un hecho falso simule en su contra la existencia de pruebas materiales que hagan presumir su responsabilidad, se le impondrá prisión de seis meses a cinco años y de veinte a cien días multa.
@@ -2710,8 +2742,6 @@ También se entenderá simulado el que se siga contra cualquier otra persona, si
 No se procederá contra el agente, sino después de que se dicte resolución irrevocable que ponga fin al proceso que se instruya por el delito imputado.
 
 Son aplicables por este delito, en lo conducente, los artículos 159, 160, 161 y 162.
-
-## TITULO IV. DELITOS CONTRA LA ADMINISTRACION DE JUSTICIA
 
 ### CAPITULO IV. EVASION DE PRESOS
 
@@ -3370,3 +3400,35 @@ P.O. 21 DE DICIEMBRE DE 2010.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor, al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 16 DE AGOSTO DE 2011.
+
+DECRETO No. 777
+
+###### ARTICULO UNICO.
+
+SE ADICIONA AL TITULO III UN CAPITULO XVI CON LOS ARTICULOS 55-A, 55-B Y 55-C, AL CODIGO PENAL DEL ESTADO DE GUERRERO.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor a los treinta días siguientes de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+###### ARTÍCULO SEGUNDO.
+
+Comuníquese el presente Decreto al Titular del Poder Ejecutivo del Estado de Guerrero, para los efectos legales conducentes.
+
+P.O. 16 DE AGOSTO DE 2011.
+
+DECRETO No. 778
+
+###### ARTICULO UNICO.
+
+SE REFORMA EL ARTICULO 214 DEL CODIGO PENAL DEL ESTADO DE GUERRERO.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+###### ARTÍCULO SEGUNDO.
+
+Comuníquese el presente Decreto al Titular del Poder Ejecutivo del Estado de Guerrero, para los efectos legales conducentes.
