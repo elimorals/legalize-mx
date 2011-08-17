@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-de-la-ley-de-la-procuraduria-social-del-distrito-561
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-08-06"
-last_updated: "2008-08-05"
+last_updated: "2011-08-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56166&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,9 @@ issue_date: "2007-07-12"
 
 REGLAMENTO DE LA LEY DE LA PROCURADURIA SOCIAL DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 5 DE AGOSTO DE 2008.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO DE LA LEY DE LA PROCURADURIA SOCIAL DEL DISTRITO FEDERAL, PUBLICADO EN LA G.O. DE 17 DE AGOSTO DE 2011, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: ABROGADO.
 
 Reglamento publicado en la Gaceta Oficial de Distrito Federal, el lunes 6 de agosto de 2007.
 
@@ -651,3 +653,19 @@ Primero. - Publíquese en la Gaceta Oficial del Distrito Federal.
 Segundo. - El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
 
 Tercero. - Los procedimientos administrativos de aplicación de sanciones que se encuentren en trámite, así como los que se inicien durante el año dos mil ocho, serán substanciados y resueltos por la Jefatura de Unidad Departamental de Procedimientos.
+
+G.O. 17 DE AGOSTO DE 2011.
+
+PRIMERO.- Este reglamento entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- Se abroga el Reglamento de la Ley de la Procuraduría Social del Distrito Federal, publicado en la Gaceta Oficial del Distrito Federal el 6 de agosto de 2007 y sus reformas.
+
+TERCERO.- Los procedimientos que se encuentren en trámite ante la Procuraduría a la entrada en vigor del presente ordenamiento, se regularán por las normas jurídicas vigentes en el momento en que se hayan iniciado.
+
+CUARTO.- La Secretaría de Finanzas por conducto de la Subsecretaría de Egresos establecerá los mecanismos para que la Procuraduría reciba los recursos económicos que ingresen a la Secretaría de Finanzas, generados por las sanciones impuestas en los procedimientos administrativos de la Procuraduría, para destinarlos al Fondo de Ayuda y Rescate Condominal.
+
+QUINTO.- Hasta en tanto la Procuraduría cuente con la totalidad de Oficinas Desconcentradas en cada una de las demarcaciones territoriales, será facultad del Procurador determinar la competencia de las ya existentes, por concepto de materia o territorio, a efecto de facilitar a los particulares la atención de sus demandas.
+
+SEXTO.- El Consejo de Gobierno de la Procuraduría deberá ratificar por única ocasión a 3 de los actuales Consejeros Ciudadanos. Para determinar cuáles de los actuales Consejeros Ciudadanos deben ser ratificados el Consejo de Gobierno, a propuesta de su Presidente, realizará una evaluación del desempeño que tomará en cuenta al menos la asistencia y puntualidad.
+
+El Consejero Ciudadano mejor evaluado por el propio Consejo de Gobierno será ratificado para ejercer un único periodo de tres años. El Consejero Ciudadano que le siga en la evaluación será ratificado para ejercer un único periodo de dos años y el Consejero Ciudadano con la tercera mejor evaluación será ratificado para ejercer un único periodo de un año.
