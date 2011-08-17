@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-sesiones-de-los-consejos-locales-y-61953"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-07-18"
-last_updated: "2011-06-28"
+last_updated: "2011-08-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61953&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2008-06-27"
 
 REGLAMENTO DE SESIONES DE LOS CONSEJOS LOCALES Y DISTRITALES DEL INSTITUTO FEDERAL ELECTORAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 28 DE JUNIO DE 2011.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 17 DE AGOSTO DE 2011.
 
 Reglamento publicado en la Tercera Sección del Diario Oficial de la Federación, el viernes 18 de julio de 2008.
 
@@ -91,11 +91,13 @@ Objeto.
 
 3. Las sesiones que celebren los Consejos Locales y Distritales, con motivo de la realización de los Cómputos de entidad federativa y Distritales, se regirán por lo dispuesto en el Capítulo Tercero, Título Cuarto del Libro Quinto del Código Federal de Instituciones y Procedimientos Electorales, por las normas establecidas en el presente Reglamento, así como en los Lineamientos específicos que para tal efecto apruebe el Consejo General del Instituto Federal Electoral.
 
+> <small>(REFORMADO, D.O.F. 17 DE AGOSTO DE 2011)</small>
+
 ###### Artículo 2.
 
 Criterios para su interpretación.
 
-1. Para la interpretación de las disposiciones de este Reglamento, se estará a los criterios establecidos en el párrafo 2 del artículo 3 del Código Federal de Instituciones y Procedimientos Electorales, a las prácticas que mejor garanticen y reflejen la integración de los Consejos Locales y Distritales, la libre expresión y participación de sus integrantes, así como a la eficacia de los acuerdos o resoluciones que se tomen en su seno, en ejercicio de sus atribuciones.
+1. Para la interpretación de las disposiciones de este Reglamento, se estará a los criterios establecidos en el párrafo 2 del artículo 3 del Código Federal de Instituciones y Procedimientos Electorales, a las prácticas que mejor garanticen y reflejen la integración de los Consejos Locales y Distritales, la libre expresión y participación de sus integrantes, así como a la eficacia de los Acuerdos o Resoluciones que se tomen en su seno, en ejercicio de sus atribuciones.
 
 > <small>(REFORMADO, D.O.F. 28 DE JUNIO DE 2011)</small>
 
@@ -159,9 +161,9 @@ f) Conceder el uso de la palabra, de acuerdo con este Reglamento;
 
 g) Consultar a los integrantes del Consejo si los temas del orden del día han sido suficientemente discutidos;
 
-> <small>(REFORMADO, D.O.F. 28 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO, D.O.F. 17 DE AGOSTO DE 2011)</small>
 
-h) Ordenar al Secretario que someta a votación los proyectos de acuerdo y resoluciones del Consejo;
+h) Ordenar al Secretario que someta a votación los Proyectos de Acuerdo y Resoluciones del Consejo;
 
 i) Garantizar el orden en las sesiones, ejerciendo las medidas que se señalan en los artículos 165, párrafo 3 del Código y 13, párrafo 4 de este Reglamento;
 
@@ -639,9 +641,9 @@ Engrose, voto particular y devolución.
 
 4. El Consejero que disienta de la mayoría podrá formular voto particular, el cual se insertará al final del Acuerdo o Resolución, siempre y cuando se remita al Secretario dentro de los dos días siguientes a su aprobación.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 28 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO, D.O.F. 17 DE AGOSTO DE 2011)</small>
 
-5. En el supuesto de que el Consejo rechazara un Proyecto de Resolución relativo a un proyecto administrativo sancionador ordinario, especial o sobre financiamiento y gasto, o en materia de fiscalización de los recursos de los partidos políticos y considerara necesario la elaboración de un nuevo proyecto, se estará a los (sic) dispuesto por el Código y los reglamentos respectivos de la materia.
+5. En el supuesto de que el Consejo rechazara un Proyecto de Resolución relativo a un proyecto administrativo sancionador ordinario, especial o sobre financiamiento y gasto, o en materia de fiscalización de los recursos de los partidos políticos y considerara necesario la elaboración de un nuevo proyecto, se estará a los (sic) dispuesto por el Código y los Reglamentos respectivos de la materia.
 
 > <small>(REFORMADO, D.O.F. 28 DE JUNIO DE 2011)</small>
 
@@ -861,7 +863,9 @@ El personal de la Junta Local y de las Juntas Distritales Ejecutivas, así como 
 
 a) Colaborar en la apertura de la bodega y traslado de los paquetes electorales a los Grupos de Trabajo;
 
-b) Participar, de ser necesario, en el recuento de los votos;
+> <small>(REFORMADO, D.O.F. 17 DE AGOSTO DE 2011)</small>
+
+b) Auxiliar, de ser necesario, a los funcionarios encargados del recuento de votos
 
 c) Registrar y suscribir los resultados del recuento de votos de cada casilla sujeta a este procedimiento en los formatos que acuerde el Consejo General para este fin;
 
@@ -911,7 +915,13 @@ d) La elegibilidad de los candidatos de la fórmula que hubiese obtenido la mayo
 
 2. Para el análisis de la elegibilidad de los candidatos, los Consejos Locales y Distritales verificarán el cumplimiento de los requisitos establecidos en los artículos 55 y 58 de la Constitución Política de los Estados Unidos Mexicanos y 7 del Código.
 
-En el caso de los registros supletorios de las fórmulas de candidatos a Senadores y Diputados por el principio de mayoría relativa que realiza el Consejo General, el Secretario del Consejo General deberá remitir el expediente correspondiente al registro del candidato de que se trate al Consejo respectivo, para que éste pueda realizar la revisión de los requisitos de elegibilidad, con base en la documentación que le haya sido proporcionada.
+> <small>(REFORMADO, D.O.F. 17 DE AGOSTO DE 2011)</small>
+
+En el caso de los registros supletorios de las fórmulas de candidatos a Senadores y Diputados por el principio de mayoría relativa que realiza el Consejo General, el Secretario de dicho consejo deberá remitir, en original o copia certificada, el expediente correspondiente al registro del candidato de que se trate al Consejo respectivo, para que éste pueda realizar la revisión de los requisitos de elegibilidad, con base en la documentación que le haya sido proporcionada.
+
+> <small>(ADICIONADO, D.O.F. 17 DE AGOSTO DE 2011)</small>
+
+Tal remisión deberá realizarse antes del inicio de la sesión de cómputo correspondiente y con la oportunidad debida a efecto de que el consejo competente se encuentre en aptitud de revisar dicha documentación y determinar lo conducente.
 
 La determinación que al respecto adopten los Consejos Distritales y Locales deberá estar fundada y motivada.
 
@@ -948,5 +958,9 @@ Quinto.- El presente Reglamento deberá publicarse en el Diario Oficial de la Fe
 Sexto.- El presente Reglamento deberá publicarse en la Gaceta del Instituto Federal Electoral.
 
 D.O.F. 28 DE JUNIO DE 2011.
+
+EL ACUERDO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL FEDERAL VIGENTE.
+
+D.O.F. 17 DE AGOSTO DE 2011.
 
 EL ACUERDO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL FEDERAL VIGENTE.
