@@ -4,7 +4,7 @@ identifier: "SIN-reglamento-organico-de-la-administracion-municipal-del-80365"
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-03-18"
-last_updated: "2011-03-18"
+last_updated: "2011-08-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=80365&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "SIN"
 ---
 # REGLAMENTO ORGANICO DE LA ADMINISTRACION MUNICIPAL DEL MUNICIPIO DE EL FUERTE, ESTADO DE SINALOA
 
-REGLAMENTO ORGANICO DE LA ADMINISTRACION MUNICIPAL DEL MUNICIPIO DE EL FUERTE, ESTADO DE SINALOA
+REGLAMENTO ORGÁNICO DE LA ADMINISTRACIÓN MUNICIPAL DEL MUNICIPIO DE EL FUERTE, ESTADO DE SINALOA
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO ORGÁNICO DE LA ADMINISTRACIÓN MUNICIPAL DEL MUNICIPIO DE EL FUERTE, ESTADO DE SINALOA, PUBLICADO EN EL P.O. DE 17 DE AGOSTO DE 2011, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Periódico Oficial del Estado de Sinaloa, el viernes 18 de marzo de 2011.
 
@@ -1208,3 +1210,19 @@ C. LIC. JOSÉ ELEAZAR RUBIO AYALA.
 EL SECRETARIO DEL H. AYUNTAMIENTO
 
 C. LIC. NORBERTO SOTO CASTILLO.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 17 DE AGOSTO DE 2011.
+
+###### ARTICULO PRIMERO.
+
+El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente reglamento.
+
+###### ARTICULO TERCERO.
+
+Se abroga el Reglamento Orgánico de la Administración Municipal del Municipio de El Fuerte, Sinaloa; publicado en el Periódico Oficial "EI Estado de Sinaloa", número 33 de fecha 18 de Marzo del 2011.
