@@ -4,7 +4,7 @@ identifier: "CHP-ley-del-escudo-y-el-himno-del-estado-de-chiapas-77146"
 country: "mx"
 rank: "ley"
 publication_date: "2010-09-22"
-last_updated: "2010-09-22"
+last_updated: "2011-08-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77146&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 LEY DEL ESCUDO Y EL HIMNO DEL ESTADO DE CHIAPAS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE AGOSTO DE 2011.
 
 Ley publicada en el Periódico Oficial del Estado de Chiapas, el miércoles 22 de septiembre de 2010.
 
@@ -299,6 +299,12 @@ Aniversario del natalicio en 1925 de la poetisa Rosario Castellanos Figueroa.
 
 Aniversario luctuoso de don Joaquín Miguel Gutiérrez Canales en 1838.
 
+> <small>(ADICIONADA, P.O. 17 DE AGOSTO DE 2011)</small>
+
+27 de junio:
+
+Se Promulga la Constitución Chiapas Siglo XXI.
+
 7 de Agosto:
 
 Aniversario luctuoso de la poetisa Rosario Castellanos Figueroa en 1974.
@@ -310,6 +316,12 @@ Se trasladan definitivamente los poderes gubernamentales a la Ciudad de Tuxtla G
 12 de Agosto:
 
 Aniversario luctuoso de Ángel Albino Corzo en 1875.
+
+> <small>(ADICIONADA, P.O. 17 DE AGOSTO DE 2011)</small>
+
+20 de agosto:
+
+Día de las Asambleas de Barrios del Estado de Chiapas.
 
 21 de Agosto:
 
@@ -378,3 +390,9 @@ Dado en el Salón de Sesiones del H. Congreso del Estado Libre y Soberano de Chi
 De conformidad con la fracción I, del artículo 42, de la Constitución Política local y para su observancia, promulgo el presente Decreto en la Residencia del Poder Ejecutivo del Estado, en la Ciudad de Tuxtla Gutiérrez, Chiapas; a los veintiún días del mes de septiembre del año dos mil diez.
 
 Juan Sabines Guerrero, Gobernador del Estado.- Noé Castañón León, Secretario General de Gobierno.- Rúbricas.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 17 DE AGOSTO DE 2011.
+
+Artículo Único.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
