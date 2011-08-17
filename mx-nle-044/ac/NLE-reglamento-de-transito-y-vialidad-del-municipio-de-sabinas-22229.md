@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-transito-y-vialidad-del-municipio-de-sabinas-2222
 country: "mx"
 rank: "reglamento"
 publication_date: "2001-09-10"
-last_updated: "2001-09-10"
+last_updated: "2011-08-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22229&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "NLE"
 ---
 # REGLAMENTO DE TRANSITO Y VIALIDAD DEL MUNICIPIO DE SABINAS HIDALGO, NUEVO LEON
 
-REGLAMENTO DE TRANSITO Y VIALIDAD DEL MUNICIPIO DE SABINAS HIDALGO, NUEVO LEON
+REGLAMENTO DE TRÁNSITO Y VIALIDAD DEL MUNICIPIO DE SABINAS HIDALGO, NUEVO LEÓN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE AGOSTO DE 2011.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el lunes 10 de septiembre de 2001.
 
@@ -1947,9 +1947,11 @@ Circular con objetos que impiden visibilidad del
 
 conductor 26 VII 3
 
+> <small>(REFORMADO, P.O. 17 DE AGOSTO DE 2011)</small>
+
 Circular con parabrisas astillado, sombreado o
 
-carecer él (sic). 24 VIII 5
+carecer de el 24 VIII 70 a 140 cuotas de salario
 
 Circular con permiso
 
@@ -2810,3 +2812,13 @@ PRESIDENTE MUNICIPAL CONSTITUCIONAL
 PROFR. JOSE LUIS ESQUIVEL GARZA
 
 SECRETARIO DEL R. AYUNTAMIENTO
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 17 DE AGOSTO DE 2011.
+
+## [N. DE E. TRANSITORIO DE LA "REFORMA AL REGLAMENTO DE TRÁNSITO Y VIALIDAD MUNICIPAL".]
+
+###### ARTICULO PRIMERO
+
+La Reforma del Artículo 130 del Reglamento de de (sic) Tránsito y Vialidad Municipal, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
