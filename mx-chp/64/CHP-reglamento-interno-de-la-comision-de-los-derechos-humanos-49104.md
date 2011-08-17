@@ -4,7 +4,7 @@ identifier: "CHP-reglamento-interno-de-la-comision-de-los-derechos-humanos-49104
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-02-01"
-last_updated: "2009-08-19"
+last_updated: "2011-08-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=49104&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,13 @@ state: "CHP"
 ---
 # REGLAMENTO INTERNO DE LA COMISION DE LOS DERECHOS HUMANOS DEL ESTADO DE CHIAPAS
 
+> <small>N. DE E. PARA CONSULTAR LA VERSION CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 14 DE SEPTIEMBRE DE 2011 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGIA CORRESPONDIENTE A DICHA FECHA, EN EL INDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA</small>
+
 REGLAMENTO INTERNO DE LA COMISION DE LOS DERECHOS HUMANOS DEL ESTADO DE CHIAPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE AGOSTO DE 2009.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DEL CONSEJO ESTATAL DE LOS DERECHOS HUMANOS DEL ESTADO DE CHIAPAS PUBLICADO EN EL P.O. DE 17 DE AGOSTO DE 2011, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
 
 Reglamento publicado en la Segunda Sección del Periódico Oficial del Estado de Chiapas, el miércoles 1 de febrero de 2006.
 
@@ -1440,3 +1444,47 @@ Artículo Segundo.- Se derogan todas las disposiciones que se opongan a este Acu
 Artículo Tercero.- El Ejecutivo dispondrá se publique en el Periódico Oficial del Estado y el Consejo General de la Comisión de los Derechos Humanos, le dé amplia difusión para los efectos correspondientes.
 
 Artículo Cuarto.- Cúmplase.
+
+P.O. 17 DE AGOSTO DE 2011.
+
+Artículo Primero.- El presente Reglamento entrará en vigor a partir de esta fecha. Por conducto de la Secretaría Ejecutiva provéase lo necesario para el efecto de su publicación en la Gaceta Oficial de este Consejo; asimismo, se publique en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Se abroga el Reglamento Interno de la extinta Comisión de los Derechos Humanos del Estado de Chiapas, y se derogan todas las disposiciones reglamentarias y administrativas que se opongan a lo establecido en este nuevo Reglamento.
+
+Artículo Tercero.- Con la finalidad de dar cumplimiento al Artículo Tercero Transitorio del Decreto de Reformas a la Ley del Consejo Estatal de los Derechos Humanos, de fecha 21 de junio de 2011, cuya finalidad es sentar las bases de organización y refundación institucional, dentro del tiempo señalado, el Pleno del Consejo General deberá deliberar de manera colegiada, y expedir los siguientes instrumentos legales.
+
+l. En un plazo no mayor a treinta días hábiles, contados a partir del día siguiente de la publicación de este Reglamento Interior presentará propuesta para su aprobación y expedición del Plan de trabajo anual del Consejo Estatal de los Derechos Humanos para el año 2011.
+
+II. En un plazo no mayor a noventa días hábiles, contados a partir del día siguiente de la publicación de este Reglamento Interior, deberá presentar propuesta para su aprobación y expedición de:
+
+a. El Programa Institucional de Trámites y Procedimientos para Información, Orientación, Protección y Defensa a Peticionarias (os);
+
+b. El Programa Institucional de Planeación, Administración y Finanzas;
+
+c. El Programa Institucional de Fortalecimiento y Conducción Institucional;
+
+d. El programa Institucional de Educación en Derechos Humanos;
+
+e. El Programa Institucional de Promoción y Difusión de los Derechos Humanos;
+
+f. El Manual General de Organización del Consejo.
+
+III. En un plazo no mayor a ciento veinte días naturales, contados a partir del día siguiente de la publicación de este Reglamento Interior, propuesta para aprobación y expedición de:
+
+a. El Plan Operativo de Trabajo del Consejo para el período 2011 - 2014.
+
+b. Los Lineamientos Generales de Actuación del Consejo Estatal de los Derechos Humanos.
+
+c. El Estatuto del Servicio Profesional de Derechos Humanos.
+
+d. El Manual de Procedimientos Específicos del Servicio Profesional en Derechos Humanos.
+
+e. Los Manuales de Procedimientos para los Órganos y Áreas de Apoyo del Consejo Estatal de los Derechos Humanos.
+
+Artículo Cuarto.- La estructura orgánica del Consejo, a la que se refiere el presente Reglamento, se irá adecuando conforme lo permita la disponibilidad presupuestal. En tanto, seguirá operando la estructura vigente.
+
+Artículo Quinto.- Los expedientes de queja que a la fecha de entrada en vigor del presente Reglamento se encuentren en alguna etapa de su trámite, se sustanciarán conforme lo establece este Reglamento.
+
+Artículo Sexto.- La mención que se haga en otros ordenamientos jurídicos a la Comisión de los Derechos Humanos, se entenderá referida al Consejo Estatal de los Derechos Humanos.
+
+Artículo Séptimo.- Con las excepciones que establece la Ley, para la designación de los trabajadores del Consejo; el personal que integra el Organismo, se someterán al procedimiento de evaluación para ingreso y permanencia aplicado por el Consejo. Para tal efecto el Pleno del Consejo General establecerá de manera gradual y organizada el procedimiento, sin menoscabo de los derechos laborales.
