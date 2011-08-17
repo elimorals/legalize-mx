@@ -4,7 +4,7 @@ identifier: "CPEUM"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-02-05"
-last_updated: "2011-07-14"
+last_updated: "2011-08-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "CPEUM"
 
 CONSTITUCION POLITICA DE LOS ESTADOS UNIDOS MEXICANOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 14 DE JULIO DE 2011.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 17 DE AGOSTO DE 2011.
 
 Constitución publicada en el Diario Oficial de la Federación, el lunes 5 de febrero de 1917.
 
@@ -1708,15 +1708,21 @@ II.- A los Diputados y Senadores al Congreso de la Unión; y
 
 III.- A las Legislaturas de los Estados.
 
-Las iniciativas presentadas por el Prseidente (sic) de la República, por las Legislaturas de los Estados o por las Diputaciones de los mismos, pasarán desde luego a comisión. Las que presentaren los diputados o los senadores, se sujetarán a los trámites que designe el Reglamento de Debates.
+> <small>(REFORMADO, D.O.F. 17 DE AGOSTO DE 2011)</small>
+
+Las iniciativas presentadas por el Presidente de la República, por las legislaturas de los Estados o por las diputaciones de los mismos, pasarán desde luego a comisión. Las que presentaren los diputados o los senadores, se sujetarán a los trámites que designen la Ley del Congreso y sus reglamentos respectivos.
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 17 DE AGOSTO DE 2011)</small>
 
 ###### Art. 72.
 
-Todo proyecto de ley o decreto, cuya resolución no sea exclusiva de alguna de las Cámaras, se discutirá sucesivamente en ambas, observándose el Reglamento de Debates sobre la forma, intervalos y modo de proceder en las discusiones y votaciones.
+Todo proyecto de ley o decreto, cuya resolución no sea exclusiva de alguna de las Cámaras, se discutirá sucesivamente en ambas, observándose la Ley del Congreso y sus reglamentos respectivos, sobre la forma, intervalos y modo de proceder en las discusiones y votaciones:
 
 A.- Aprobado un proyecto en la Cámara de su origen, pasará para su discusión a la otra. Si ésta lo aprobare, se remitirá al Ejecutivo, quien, si no tuviere observaciones que hacer, lo publicará inmediatamente.
 
-B.- Se reputará aprobado por el Poder Ejecutivo, todo proyecto no devuelto con observaciones a la Cámara de su origen, dentro de diez días útiles; a no ser que, corriendo este término hubiere el Congreso cerrado o suspendido sus sesiones, en cuyo caso la devolución deberá hacerse el primer día útil en que el Congreso esté reunido.
+> <small>(REFORMADO, D.O.F. 17 DE AGOSTO DE 2011)</small>
+
+B.- Se reputará aprobado por el Poder Ejecutivo todo proyecto no devuelto con observaciones a la Cámara de su origen dentro de los treinta días naturales siguientes a su recepción; vencido este plazo el Ejecutivo dispondrá de diez días naturales para promulgar y publicar la ley o decreto. Transcurrido este segundo plazo, la ley o decreto será considerado promulgado y el Presidente de la Cámara de origen ordenará dentro de los diez días naturales siguientes su publicación en el Diario Oficial de la Federación, sin que se requiera refrendo. Los plazos a que se refiere esta fracción no se interrumpirán si el Congreso cierra o suspende sus sesiones, en cuyo caso la devolución deberá hacerse a la Comisión Permanente.
 
 C.- El proyecto de ley o decreto desechado en todo o en parte por el Ejecutivo, será devuelto, con sus observaciones, a la Cámara de su origen. Deberá ser discutido de nuevo por ésta,, (sic) y si fuese confirmado por las dos terceras partes del número total de votos, pasará otra vez a la Cámara revisora. Si por esta fuese sancionado por la misma mayoría, el proyecto será ley o decreto y volverá al Ejecutivo para su promulgación.
 
@@ -2142,7 +2148,9 @@ I. Prestar su consentimiento para el uso de la Guardia Nacional en los casos de 
 
 II. Recibir, en su caso, la protesta del Presidente de la República;
 
-III. Resolver los asuntos de su competencia; recibir durante el receso del Congreso de la Unión las iniciativas de ley y proposiciones dirigidas a las Cámaras y turnarlas para dictamen a las Comisiones de la Cámara a la que vayan dirigidas, a fin de que se despachen en el inmediato periodo de sesiones;
+> <small>(REFORMADA, D.O.F. 17 DE AGOSTO DE 2011)</small>
+
+III. Resolver los asuntos de su competencia; recibir durante el receso del Congreso de la Unión las iniciativas de ley, las observaciones a los proyectos de ley o decreto que envíe el Ejecutivo y proposiciones dirigidas a las Cámaras y turnarlas para dictamen a las comisiones de la Cámara a la que vayan dirigidas, a fin de que se despachen en el inmediato periodo de sesiones;
 
 IV. Acordar por sí o a propuesta del Ejecutivo, la convocatoria del Congreso o de una sola Cámara a sesiones extraordinarias, siendo necesario en ambos casos el voto de las dos terceras partes de los individuos presentes. La convocatoria señalará el objeto u objetos de las sesiones extraordinarias;
 
@@ -9641,6 +9649,10 @@ D.O.F. 14 DE JULIO DE 2011.
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 Segundo. El Congreso de la Unión deberá expedir la Ley General para Prevenir y Sancionar la Trata de Personas, en un plazo no mayor a los 180 días siguientes a la entrada en vigor del presente Decreto.
+
+D.O.F. 17 DE AGOSTO DE 2011.
+
+ÚNICO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 ###### ARTICULO PRIMERO.
 
