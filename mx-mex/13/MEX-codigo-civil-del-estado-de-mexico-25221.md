@@ -4,7 +4,7 @@ identifier: "MEX-codigo-civil-del-estado-de-mexico-25221"
 country: "mx"
 rank: "codigo"
 publication_date: "2002-06-07"
-last_updated: "2010-09-03"
+last_updated: "2011-08-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25221&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MEX"
 ---
 # CODIGO CIVIL DEL ESTADO DE MEXICO
 
+> <small>N. DE E. PARA CONSULTAR LA VERSION CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 31 DE AGOSTO DE 2011 EN LA G.G., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGIA CORRESPONDIENTE A DICHA FECHA, EN EL INDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 CODIGO CIVIL DEL ESTADO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 3 DE SEPTIEMBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 18 DE AGOSTO DE 2011.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el viernes 7 de junio de 2002.
 
@@ -2404,6 +2406,8 @@ Respeto y consideración entre hijos y ascendientes
 199.- La adopción internacional es la promovida por los ciudadanos de otro país, con residencia habitual fuera del territorio nacional; y tiene por objeto incorporar en una familia, a un menor que no pueda encontrar una familia en su país de origen. Esta adopción se regirá por los tratados internacionales suscritos y ratificados por el Estado Mexicano, tomando en cuenta lo dispuesto por la Ley de Protección de los Derechos de Niñas, Niños, y Adolescentes y, en lo conducente, por las disposiciones de este Código.
 
 Seguimiento de las adopciones internacionales
+
+> <small>(REFORMADO, G.G. 15 DE MAYO DE 2012)</small>
 
 ###### Artículo 4.
 
@@ -13843,6 +13847,8 @@ Falta de convenio sobre honorarios profesionales
 
 Publicidad de los actos jurídicos
 
+> <small>(REFORMADO, G.G. 18 DE AGOSTO DE 2011)</small>
+
 ### CAPITULO IV. Del Contrato de Hospedaje
 
 Elementos del contrato
@@ -15781,7 +15787,9 @@ Bienes no comprendidos en la hipoteca
 
 ### CAPITULO I. De los Documentos Registrables
 
-Actos jurídicos registrables
+Documentos jurídicos registrables
+
+> <small>(REFORMADO, G.G. 18 DE AGOSTO DE 2011)</small>
 
 ###### Artículo 7.
 
@@ -15971,6 +15979,8 @@ Constancia de la obligación futura o cumplimiento de condiciones
 
 Prioridad de la inscripción
 
+> <small>(REFORMADO, G.G. 18 DE AGOSTO DE 2011)</small>
+
 ###### Artículo 7.
 
 1130.- Para hacer constar en el Registro Público de la Propiedad el cumplimiento de las condiciones a que se refieren los artículos que preceden, o la existencia de las obligaciones futuras, presentará cualquiera de los interesados al propio Registro la copia del documento público que así lo acredite y, en su defecto, una solicitud formulada por ambas partes, pidiendo que se extienda la nota correspondiente y expresando claramente los hechos que deben dar lugar a ella.
@@ -16057,7 +16067,9 @@ Legitimación para pedir constitución de hipoteca necesaria
 
 ### CAPITULO III. De la Calificación Registral
 
-Devolución de documento con datos de inscripción
+Requisito para inscribir o anotar
+
+> <small>(REFORMADO, G.G. 18 DE AGOSTO DE 2011)</small>
 
 ###### Artículo 7.
 
@@ -16141,9 +16153,11 @@ Requisito formal de la transacción
 
 Transacción de ascendientes y tutores a nombre de sus representados
 
-### CAPITULO IV. De la rectificación de asientos
+### CAPITULO IV. De la rectificación y reposición de asientos
 
 Rectificación de asientos por error
+
+> <small>(REFORMADO, G.G. 18 DE AGOSTO DE 2011)</small>
 
 ###### Artículo 7.
 
@@ -16222,6 +16236,8 @@ Presencia de nuevos títulos o documentos
 ### CAPITULO I. De los Títulos Inscribibles y de los Anotables
 
 Títulos inscribibles
+
+> <small>(REFORMADO, G.G. 18 DE AGOSTO DE 2011)</small>
 
 ###### Artículo 7.
 
@@ -16323,6 +16339,8 @@ Obligatoriedad del laudo
 
 1174.- La decisión de los árbitros es de obligada aceptación.
 
+> <small>N. DE E. DE CONFORMIDAD CON EL DECRETO NUMERO 329, PUBLICADO EN LA G.G. DE 18 DE AGOSTO DE 2011, SE MODIFICA DE FORMA SUSTANTIVA EL LIBRO OCTAVO DEL CODIGO CIVIL DEL ESTADO DE MEXICO.</small>
+
 # LIBRO OCTAVO. Del Registro Público de la Propiedad
 
 ## TITULO SEGUNDO. Disposiciones Comunes
@@ -16331,95 +16349,89 @@ Obligatoriedad del laudo
 
 1.- Mediante el Registro Público de la Propiedad se da publicidad a los actos jurídicos para que surtan efectos contra terceros.
 
-> <small>(ADICIONADO, G.G. 3 DE DICIEMBRE DE 2007)</small>
+El Registro Público de la Propiedad tiene como finalidad dar certeza y seguridad jurídica en el tráfico inmobiliario, así como las demás finalidades previstas en este Código, en la Ley Registral y en el Reglamento.
 
-El Registro Público de la Propiedad tiene como finalidad dar certeza y seguridad jurídica en el tráfico inmobiliario, así como las demás finalidades previstas en este Código y en el Reglamento.
+La seguridad jurídica es una garantía institucional que se basa en un título auténtico generador del derecho y en su publicidad que opera a partir de su inscripción o anotación registral, por lo tanto, el Registrador realizará siempre la inscripción o anotación de los documentos que se le presenten. Las causas de suspensión o denegación se aplicarán de manera estricta, por lo que sólo podrá suspenderse o denegarse una inscripción o anotación, en los casos de excepción que señala el artículo 8.32.
 
-> <small>(ADICIONADO, G.G. 3 DE DICIEMBRE DE 2007)</small>
-
-Para efectos de este Libro Octavo se entenderá por "Reglamento" al Reglamento del Registro Público de la Propiedad del Estado de México.
+Para efectos de este Libro Octavo se entenderá por "Ley Registral" a la Ley Registral para el Estado de México y "Reglamento" al Reglamento de la Ley Registral para el Estado de México; el cual proveerá en la esfera administrativa a la exacta observancia de este Código y de la Ley Registral.
 
 Efectos declarativos del Registro Público
+
+> <small>(REFORMADO, G.G. 18 DE AGOSTO DE 2011)</small>
 
 ###### Artículo 8.
 
 2.- Las inscripciones hechas en el Registro Público de la Propiedad, tienen efectos declarativos y no constitutivos, de tal manera que los derechos provienen del acto jurídico, pero no de su inscripción, cuya finalidad es dar publicidad y no constituir el derecho.
 
-> <small>(ADICIONADO, G.G. 3 DE DICIEMBRE DE 2007)</small>
-
-La inscripción es el acto mediante el cual se registra la constitución, transmisión, modificación o extinción de derechos reales. La anotación es el acto procedimental que consta al margen de la inscripción en forma preventiva o transitoria dejando constancia de una situación jurídica que limita, grava o afecta el derecho que ampara una inscripción.
+La inscripción es el acto mediante el cual se registra la constitución, adquisición, transmisión, modificación, limitación, gravamen o extinción de derechos reales o los que sin serlo sean inscribibles de acuerdo con la Ley Registral. La anotación es el acto procedimental que en relación con el contenido de una inscripción, deja constancia en forma preventiva o provisional de una situación jurídica que limita, grava o afecta el derecho o bien que ampara dicha inscripción.
 
 Disposiciones que rigen al Registro
 
-> <small>(REFORMADO, G.G. 3 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO, G.G. 18 DE AGOSTO DE 2011)</small>
 
 ###### Artículo 8.
 
-3.- El Registro Público de la Propiedad está a cargo del Instituto de la Función Registral del Estado de México y se rige por las disposiciones de este Código, del Reglamento y de los demás ordenamientos legales aplicables.
+3.- El Registro Público de la Propiedad está a cargo del Instituto de la Función Registral del Estado de México y se rige por las disposiciones de este Código, de la Ley Registral, del Reglamento y de los demás ordenamientos legales aplicables.
 
-En las actividades registrales se observarán en todo momento los Principios Registrales de: Publicidad, Rogación, Tracto Sucesivo, Legalidad o Calificación Registral, Consentimiento, Inscripción, Especialidad o Determinación, Prioridad o Rango, Prelación, Legitimación y Fe Pública Registral, así como los demás principios y fines del sistema jurídico registral previstos en este Código, en el Reglamento y en los demás ordenamientos aplicables.
+La función registral se regirá por los Principios de: Publicidad, Rogación, Tracto Sucesivo, Legalidad, Consentimiento, Inscripción, Especialidad, Prelación, Legitimación y Fe Pública Registral, así como los demás principios y fines del sistema jurídico registral establecidos en éste Código y en la Ley Registral.
+
+El Archivo General de Notarias del Estado de México forma parte del Instituto de la Función Registral del Estado de México.
 
 Servicio Público del Registro
 
-> <small>(REFORMADO, G.G. 3 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO, G.G. 18 DE AGOSTO DE 2011)</small>
 
 ###### Artículo 8.
 
-4.- El Registro será público, por lo que los encargados del mismo tienen la obligación de permitir a las personas que lo soliciten, que se enteren de los asientos que obren inscritos y de los documentos relacionados con esas inscripciones que estén archivados o almacenados por el Registro Público de la Propiedad. También tienen obligación de expedir copias certificadas y simples de las inscripciones, anotaciones o constancias que figuren en los registros, así como certificaciones de no existir asientos o de especie determinada sobre bienes señalados o a nombre de ciertas personas, en los términos previstos en el Reglamento.
+4.- El Registro será público, por lo que los encargados del mismo tienen la obligación de permitir a las personas que lo soliciten, que se enteren de los asientos que obren inscritos, y también preservando los datos personales conforme a la Ley de los documentos relacionados con esas inscripciones que estén archivados o almacenados por el Registro Público de la Propiedad. Asimismo, tienen la obligación de expedir copias certificadas y simples de las inscripciones, anotaciones o constancias que figuren en los registros, así como, certificaciones de no existir asiento o de especie determinada sobre bienes señalados o a nombre de ciertas personas, en los términos previstos en la Ley Registral.
 
-> <small>(ADICIONADO, G.G. 3 DE DICIEMBRE DE 2007)</small>
+Certificación
+
+> <small>(REFORMADO, G.G. 18 DE AGOSTO DE 2011)</small>
 
 ###### Artículo 8.
 
-4.1.- La certificación es el acto a través del cual, el registrador da fe de los actos o constancias inscritos en los libros correspondientes, folios, registros o archivos del Registro Público de la Propiedad, o bien de la inexistencia de los mismos, así como también de las constancias que obren en los archivos respectivos.
+5.- La certificación es el acto a través del cual, el Registrador da fe de los asientos, actos o constancias inscritos en los libros correspondientes, folios electrónicos, registros o archivos del Registro Público de la Propiedad, o bien de la inexistencia de los mismos, así como también de las constancias que obren en los archivos respectivos.
 
-Los certificados se expedirán en las modalidades, contenido y términos previstos al efecto en el Reglamento.
+La certificación a que se refiere el párrafo anterior no podrá ser denegada, debiéndose expedir en los términos de los asientos respectivos y en su caso, se hará mención en ellas de las discrepancias existentes entre la solicitud y los asientos registrales.
 
 Acervo y Registros
 
-> <small>(ADICIONADO, G.G. 3 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO, G.G. 18 DE AGOSTO DE 2011)</small>
 
 ###### Artículo 8.
 
-4.2.- Para garantizar la preservación, guarda, custodia y seguridad del acervo registral, el Instituto de la Función Registral del Estado de México desarrollará sistemas y programas sustentados en tecnologías de la información, que garanticen su exactitud e inviolabilidad para otorgar seguridad jurídica a la propiedad inmobiliaria.
+6.- Para garantizar la preservación, guarda, custodia y seguridad del acervo registral, el Instituto de la Función Registral del Estado de México desarrollará sistemas y programas sustentados en la más avanzada tecnología telemática, que garantice su exactitud e inviolabilidad para otorgar seguridad jurídica a la propiedad inmobiliaria.
 
-Los lineamientos y criterios para la preservación, guarda, custodia y seguridad del acervo registral, así como las bases y mecanismos para la digitalización de los documentos inscritos en el Registro Público de la Propiedad se determinarán en el Reglamento.
+Los lineamientos y criterios para la preservación, guarda, custodia y seguridad del Acervo Registral, así como las bases y mecanismos para la incorporación electrónica de los documentos inscritos en el Registro Público de la Propiedad se determinarán en la Ley Registral y en el Reglamento.
 
-###### Artículo 8.
+Sistema de registro
 
-5.- Sólo se registrarán:
-
-I. Los testimonios de instrumentos notariales u otros documentos auténticos;
-
-II. Las resoluciones y providencias judiciales que así lo determinen;
-
-III. Los documentos privados que impliquen actos u operaciones jurídicas reputados válidos bajo esa forma con arreglo a la ley, siempre y cuando se hayan ratificado sus firmas judicialmente o ante notario público;
-
-IV. Los planes de desarrollo urbano, previstos en la ley.
-
-Quiénes pueden solicitar el registro
-
-> <small>(ADICIONADO, G.G. 3 DE DICIEMBRE DE 2007)</small>
-
-###### Articulo 8.
-
-5.1.- Podrá solicitar la inscripción o anotación de un documento el titular del derecho en él consignado, sus causahabientes, apoderados, representantes legales o el fedatario público que haya otorgado el documento, así como las autoridades judiciales y administrativas federales, estatales y municipales cuando así lo disponga la legislación aplicable.
-
-Actos jurídicos realizados en el extranjero que son inscribibles
+> <small>(REFORMADO, G.G. 18 DE AGOSTO DE 2011)</small>
 
 ###### Artículo 8.
 
-6- Los actos ejecutados, los contratos otorgados y las resoluciones judiciales pronunciadas en país extranjero, sólo se inscribirán si concurren las circunstancias siguientes:
+7.- La Ley Registral establecerá el sistema conforme al cual deberán llevarse los Folios Electrónicos del Registro Público y practicarse los Asientos Registrales.
 
-I. Si los actos o contratos hubiesen sido celebrados o las resoluciones pronunciadas en el Estado de México, habrían sido inscribibles;
+El Registro Público deberá operar con un sistema informático, mediante el cual se realice la captura, almacenamiento, custodia, seguridad, consulta, reproducción, verificación, administración y transmisión de la información contenida en el Acervo Registral.
 
-II. Los actos o contratos cuya inscripción se pretenda, no contravengan las leyes mexicanas;
+La primera inscripción de cada inmueble será de dominio o de posesión.
 
-III. Que estén debidamente legalizados y que hayan sido protocolizados ante notario. Si los documentos están redactados en idioma extranjero, deberán ser previamente traducidos por perito;
+Valor probatorio de la información contenida en el sistema
 
-IV. Si fueran resoluciones judiciales, se ordene su inscripción por la autoridad judicial nacional que corresponda.
+> <small>(REFORMADO, G.G. 18 DE AGOSTO DE 2011)</small>
 
-La inscripción no produce convalidación
+###### Artículo 8.
+
+8.- La información e imágenes contenidas en la base de datos de los sistemas informáticos con los que opere el Registro Público de la Propiedad, tendrán la misma validez y exactitud jurídica que las contenidas en los libros, folio electrónico o en el archivo histórico, así como el carácter probatorio para los efectos correspondientes.
+
+Formato Precodificado
+
+> <small>(REFORMADO, G.G. 18 DE AGOSTO DE 2011)</small>
+
+###### Artículo 8.
+
+9.- El Formato Precodificado deberá ajustarse al contenido que la Ley Registral indique para los asientos de inscripción, y será el estrictamente necesario para que el Registrador no la deniegue.
 
 ## TITULO TERCERO. Del Registro de la Propiedad Inmueble
 
@@ -16427,369 +16439,521 @@ La inscripción no produce convalidación
 
 Personas a quienes perjudica la anotación
 
+> <small>(REFORMADO, G.G. 18 DE AGOSTO DE 2011)</small>
+
 ###### Artículo 8.
 
-7.- La inscripción no convalida los actos o contratos que sean nulos con arreglo a las leyes.
+10.- Sólo se registrarán:
+
+l. Los testimonios de instrumentos notariales, copias certificadas electrónicas, formatos precodificados u otros documentos auténticos;
+
+II. Las resoluciones y providencias judiciales que así lo determinen, así como los demás títulos registrables sobre actos jurídicos de inmatriculación administrativa o que atribuyan o transfieran el domino de un bien inmueble;
+
+III. Los documentos privados no traslativos de dominio de inmuebles que impliquen actos u operaciones jurídicas reputados válidos bajo esa forma con arreglo a la ley, siempre y cuando se hayan ratificado sus firmas ante Notario Público, o judicialmente;
+
+IV. Los planes de Desarrollo Urbano Regionales, Municipales y de Centros de Población que contemplen las reservas, usos, destinos y provisiones, siempre y cuando graven, limiten o afecten la propiedad individual, materializada en los folios electrónicos y en la base de datos del sistema operativo.
+
+Quiénes pueden solicitar el registro
+
+> <small>(REFORMADO, G.G. 18 DE AGOSTO DE 2011)</small>
+
+###### Artículo 8.
+
+11.- Podrá solicitar la inscripción o anotación de un documento, el titular del derecho en él consignado, sus causahabientes, apoderados, representantes legales o Notario Público, así como las autoridades judiciales y administrativas federales, estatales y municipales cuando así lo disponga la legislación aplicable.
+
+Actos jurídicos realizados en otra entidad federativa o en el extranjero que sean inscribibles
+
+> <small>(REFORMADO, G.G. 18 DE AGOSTO DE 2011)</small>
+
+###### Artículo 8.
+
+12.- Los actos ejecutados o los contratos otorgados en otra entidad federativa o en el extranjero, sólo se inscribirán si dichos actos o contratos tienen el carácter de inscribibles conforme a las leyes.
+
+Los documentos de procedencia extranjera debidamente apostillados o legalizados que se refieran a actos inscribibles, deberán protocolizarse ante Notario Público. Cuando estuvieren redactados en idioma extranjero, serán previamente traducidos por perito.
+
+Las sentencias dictadas en el extranjero que no contravengan disposiciones de orden público, se registrarán cuando medie orden de autoridad judicial competente.
+
+Inoponibilidad de los actos no inscritos
+
+> <small>(REFORMADO, G.G. 18 DE AGOSTO DE 2011)</small>
+
+###### Artículo 8.
+
+13.- Los documentos que conforme a las leyes sean registrables y no se registren, sólo producirán efectos entre las partes y no en perjuicio de tercero.
+
+La inscripción no produce convalidación
+
+> <small>(REFORMADO, G.G. 18 DE AGOSTO DE 2011)</small>
+
+###### Artículo 8.
+
+14.- La inscripción no convalida los actos o contratos que sean nulos con arreglo a las leyes.
 
 Legitimación de las personas con derechos inscritos
 
+> <small>(REFORMADO, G.G. 18 DE AGOSTO DE 2011)</small>
+
 ###### Artículo 8.
 
-8.- No obstante lo dispuesto en el artículo anterior, los actos o contratos que se otorguen o celebren por personas que en el Registro aparezcan con derecho a ello, no se invalidarán en cuanto a terceros de buena fe, una vez inscritos, aunque después se anule o se resuelva el derecho del otorgante en virtud del título anterior no inscrito o de causas que no resulten claramente del mismo registro.
+15.- No obstante lo dispuesto en el artículo anterior, los actos o contratos que se otorguen o celebren por personas que en el Registro aparezcan con derecho para ello, no se invalidarán en cuanto a tercero de buena fe una vez inscritos, aunque después se anule o resuelva el derecho de su otorgante o de titulares anteriores, en virtud de título no inscrito, aún siendo válido o por causas que no resulten claramente del mismo Registro. Lo dispuesto en este artículo no se aplicará al último adquirente cuya adquisición se haya efectuado en violación a disposiciones prohibitivas o de orden público. En cuanto a adquirentes a título gratuito, gozarán de la misma protección registral que la que tuviere su causante o transferente.
 
-Lo dispuesto en este artículo no se aplicará a los contratos gratuitos.
+La buena fe se presume siempre; quien alegue lo contrario tiene la carga de la prueba.
 
 Presunción de existencia del derecho inscrito
 
+> <small>(REFORMADO, G.G. 18 DE AGOSTO DE 2011)</small>
+
 ###### Artículo 8.
 
-9.- El derecho registrado se presume que existe y que pertenece al titular de una inscripción de dominio o de posesión del inmueble inscrito.
+16.- El derecho registrado se presume que existe y que pertenece a su titular en la forma expresada en el asiento respectivo. Se presume también que el titular de una inscripción de dominio o de posesión, tiene la posesión del inmueble inscrito.
 
 Demanda de nulidad o cancelación de la inscripción
 
+> <small>(REFORMADO, G.G. 18 DE AGOSTO DE 2011)</small>
+
 ###### Artículo 8.
 
-10- No podrá ejercitarse acción contradictoria del dominio de inmuebles, de derechos reales sobre los mismos o de otros derechos inscritos o anotados en favor de persona o entidad determinada sin que previamente o a la vez, se entable demanda de nulidad o cancelación de la inscripción en que conste dicho dominio o derechos.
+17.- No podrá ejercitarse acción contradictoria del dominio de un inmueble o derechos reales sobre el mismo o de otros derechos inscritos o anotados a favor de persona o entidad determinada, sin que previa o concomitantemente, se entable demanda de nulidad o cancelación de la inscripción en que conste dicho dominio o derecho.
 
 Sobreseimiento al procedimiento
 
-###### Artículo 8.
-
-11.- En caso de embargo precautorio, juicio ejecutivo o procedimiento de apremio sobre bienes o derechos reales, se sobreseerá todo procedimiento de apremio respecto de los mismos o de sus frutos, inmediatamente que conste en los autos por manifestación auténtica del Registro, que dichos bienes o derechos están inscritos a favor de persona distinta de aquella contra la que se decretó el embargo o se siguió el procedimiento, a no ser que se hubiere dirigido contra ella la acción como causa habiente del que aparece dueño en el Registro.
+> <small>(REFORMADO, G.G. 18 DE AGOSTO DE 2011)</small>
 
 ###### Artículo 8.
 
-12.- La preferencia entre derechos reales sobre una misma finca o derechos, se determinará por la prioridad de su inscripción en el Registro.
-
-Derecho real anterior a la anotación
-
-###### Artículo 8.
-
-13.- El derecho real adquirido con anterioridad a la fecha de una anotación preventiva será preferente, aún cuando la inscripción sea posterior, siempre que se dé el aviso preventivo.
-
-Efectos de los asientos
-
-###### Artículo 8.
-
-14.- Los asientos del Registro producen todos sus efectos, salvo resolución judicial, cancelación o rectificación de los mismos.
-
-Prioridades por la hora y fecha de presentación
-
-###### Artículo 8.
-
-15.- La prelación entre los diversos documentos ingresados al Registro se determinará por la prioridad en cuanto a la fecha y hora de presentación, salvo lo dispuesto en el artículo siguiente.
-
-Exigencia de certificado de gravámenes
+18.- En caso de embargo precautorio, juicio ejecutivo o procedimiento de apremio sobre bienes o derechos reales, se sobreseerá todo procedimiento respecto de los mismos o de sus frutos, inmediatamente que conste en los autos por manifestación auténtica del Registro, que dichos bienes o derechos están inscritos a favor de persona distinta de aquella contra la que se decretó el embargo o se siguió el procedimiento, a no ser que se hubiere dirigido contra ella la acción como causahabiente del que aparece dueño en el Registro.
 
 ### CAPITULO III. De la Inmatriculación
 
 Inmuebles carentes de antecedentes registrales
 
+> <small>(REFORMADO, G.G. 18 DE AGOSTO DE 2011)</small>
+
 ###### Artículo 8.
 
-16.- Cuando vaya a otorgarse una escritura en la que se declare, reconozca, adquiera, transmita, modifique, limite o extinga la propiedad o posesión de bienes inmuebles o cualquier derecho real sobre los mismos o que sin serlo sea inscribible, el notario deberá solicitar al Registro, certificado sobre la existencia o inexistencia de gravámenes.
+19.- La preferencia entre derechos reales sobre un mismo inmueble o derechos, se determinará por la prioridad de su inscripción en el Registro.
+
+Derecho real anterior a la anotación
+
+> <small>(REFORMADO, G.G. 18 DE AGOSTO DE 2011)</small>
+
+###### Artículo 8.
+
+20.- El derecho real adquirido con anterioridad a la fecha de una anotación preventiva será preferente, aún cuando la inscripción sea posterior, siempre que se haya dado el aviso preventivo.
+
+Efectos de los asientos
+
+> <small>(REFORMADO, G.G. 18 DE AGOSTO DE 2011)</small>
+
+###### Artículo 8.
+
+21.- En tanto no se declare judicialmente la falsedad o nulidad de un asiento del Registro Público, en cuanto se refiera a derechos inscribibles o anotables, produce todos sus efectos. Los errores materiales o de concepto, se rectificarán en los términos de los artículos 8.35 al 8.37 inclusive, y demás aplicables de este Código o de la Ley Registral.
+
+Prioridades por la hora y fecha de presentación
+
+> <small>(REFORMADO, G.G. 18 DE AGOSTO DE 2011)</small>
+
+###### Artículo 8.
+
+22.- La prelación entre los diversos documentos ingresados al Registro se determinará por la prioridad en cuanto a la fecha y hora de presentación, salvo lo dispuesto en los artículos siguientes.
+
+Exigencia de certificado de gravámenes
+
+> <small>(REFORMADO, G.G. 18 DE AGOSTO DE 2011)</small>
+
+###### Artículo 8.
+
+23.- Cuando vaya a otorgarse una escritura en la que se declare, reconozca, adquiera, transmita, modifique, limite o grave, la propiedad o posesión de bienes inmuebles o cualquier derecho real sobre los mismos o que sin serlo sea inscribible, el Notario Público deberá solicitar al Registro, certificado sobre la existencia o inexistencia de gravámenes o anotaciones.
 
 Requisitos de la solicitud de certificado de gravámenes
 
+> <small>(REFORMADO, G.G. 18 DE AGOSTO DE 2011)</small>
+
 ###### Artículo 8.
 
-17.- En la solicitud a que se refiere el artículo anterior, y que surtirá efectos de aviso preventivo, deberán mencionarse los requisitos que señale el reglamento.
+24.- En la solicitud a que se refiere el artículo anterior, y que surtirá efectos de aviso preventivo, deberán mencionarse:
+
+l. Ubicación del inmueble, señalando lote, manzana, sección, colonia, municipio y nombre, en su caso;
+
+II. Medidas, colindancias y superficie en su caso, del inmueble;
+
+III. Nombre del o de algunos de los titulares,
+
+IV. Nombre del o de los adquirentes o titulares del derecho real a anotarse;
+
+V. El acto o actos jurídicos a otorgarse;
+
+VI. Clave catastral del inmueble, en su caso;
+
+VII. Antecedentes registrales; y
+
+VIII. Nombre y firma del Notario Público solicitante.
 
 Anotación del aviso preventivo
 
+> <small>(REFORMADO, G.G. 18 DE AGOSTO DE 2011)</small>
+
 ###### Artículo 8.
 
-18.- El registrador procederá a anotar el aviso preventivo, al margen del asiento correspondiente, sin cobro de derechos por este concepto.
+25.- El Registrador procederá a anotar, de inmediato, el aviso preventivo, sin cobro de derechos por este concepto.
 
 Dicha nota tendrá vigencia de sesenta días naturales a partir de la fecha de presentación de la solicitud.
 
-Aviso definitivo por el notario
+Aviso definitivo por el Notario
 
-###### Artículo 8.
+> <small>(REFORMADO, G.G. 18 DE AGOSTO DE 2011)</small>
 
-19.- Una vez firmada la escritura que produzca cualquiera de las consecuencias mencionadas, el notario dará el aviso definitivo al Registro durante la vigencia del aviso preventivo y contendrá los datos que señale el reglamento, la fecha de la escritura y la de su firma.
+###### Articulo 8.
 
-El Registrador con el aviso definitivo y sin cobro de derecho alguno, lo asentará de inmediato.
+26.- Una vez firmada la escritura que produzca cualquiera de las consecuencias mencionadas en el artículo 8.23, el Notario Público dará el aviso definitivo al Registro durante la vigencia del aviso preventivo que contendrá número y fecha de la escritura y la de su firma, acto, otorgantes, sello y firma del Notario Público.
+
+El Registrador con el aviso definitivo, sin cobro de derecho y sin calificación, lo asentará de inmediato.
+
+Sin perjuicio de la prelación que confiere la fecha de presentación del aviso definitivo, cualquier aclaración con relación a este aviso deberá ser solicitada por el registrador al Notario Público, en un plazo que no excederá de cinco días hábiles y éste deberá desahogarla en igual plazo.
+
+La presentación del aviso definitivo podrá ser sustituida por la presentación del testimonio del instrumento, formato precodificado o copia certificada electrónica que el Notario Público presente directamente o por comunicación remota, según corresponda.
 
 Momento en que surte efectos el aviso definitivo
 
+> <small>(REFORMADO, G.G. 18 DE AGOSTO DE 2011)</small>
+
 ###### Artículo 8.
 
-20.- Si el aviso definitivo se da durante la vigencia del aviso preventivo, surtirá efectos desde la presentación de éste, en caso contrario desde la presentación del aviso definitivo.
+27.- Si el aviso definitivo se da durante la vigencia del aviso preventivo, surtirá efectos desde la presentación de éste, en caso contrario desde la presentación del aviso definitivo.
 
 Momento en que surte efectos la inscripción definitiva
 
-###### Artículo 8.
-
-21.- La inscripción definitiva de un derecho que haya sido anotado preventivamente, surtirá sus efectos desde la fecha de dicha anotación preventiva.
+> <small>(REFORMADO, G.G. 18 DE AGOSTO DE 2011)</small>
 
 ###### Artículo 8.
 
-22.- Hecho el registro, serán devueltos los documentos al que los presentó, con los datos de la inscripción, fecha, firma y sello.
-
-Requisito para inscribir o anotar
+28.- La inscripción definitiva de un derecho que haya sido anotado preventivamente, surtirá sus efectos desde la fecha de dicha anotación preventiva.
 
 ###### Artículo 8.
 
-23.- Para inscribir o anotar cualquier título, deberá constar previamente inscrito o anotado el derecho de la persona que otorgó aquél o de la que vaya a resultar perjudicada por la inscripción, a no ser que se trate de una inmatriculación.
+29.- Para inscribir o anotar cualquier título, deberá constar previamente inscrito el derecho de la persona que otorgó aquél o de la que vaya a resultar perjudicada por la inscripción o anotación, a no ser que se trate de una inmatriculación judicial.
 
 Títulos incompatibles
 
-###### Artículo 8.
-
-24.- Inscrito o anotado un título no podrá inscribirse o anotarse otro de igual o anterior fecha que refiriéndose al mismo bien o derecho real, se le oponga o sea incompatible.
-
-Si sólo se hubiere extendido el asiento de presentación, tampoco podrá inscribirse o anotarse otro título de la clase antes expresada mientras el asiento esté vigente.
-
-Calificación registral
-
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 3 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO, G.G. 18 DE AGOSTO DE 2011)</small>
 
 ###### Artículo 8.
 
-25.- Los registradores y demás servidores públicos habilitados calificarán bajo su responsabilidad los documentos que se presenten; la inscripción o anotación podrá suspenderse o denegarse cuando:
+30.- Inscrito o anotado un título, no podrá inscribirse o anotarse otro de igual o anterior fecha que refiriéndose al mismo inmueble o derecho real, se le oponga por ser incompatible. La incompatibilidad sólo tendrá lugar cuando los derechos de que se trate no puedan coexistir.
 
-I. El título presentado no es de los que deben inscribirse o anotarse;
+Si sólo se hubiere extendido el asiento de presentación, tampoco podrá inscribirse otro título de la clase antes expresada, mientras el asiento esté vigente.
 
-II. El documento no revista las formas extrínsecas que establezca la ley;
+No existirá incompatibilidad cuando se trate de una inexactitud por error material.
 
-III. Haya incompatibilidad entre el texto del documento y los asientos del registro;
+Inscripción o anotación
 
-IV. No se individualicen los bienes del deudor sobre los que se constituya un derecho real, o cuando no se fije la cantidad máxima que garantice un gravamen en el caso de obligaciones de monto indeterminado;
-
-V. Falte algún otro requisito que deba llenar el documento de acuerdo con este Código y otras leyes aplicables.
-
-Impugnación contra la calificación registral
-
-> <small>(REFORMADO, G.G. 3 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO, G.G. 18 DE AGOSTO DE 2011)</small>
 
 ###### Artículo 8.
 
-26.- La calificación hecha por el registrador podrá recurrirse ante el Director General del Instituto de la Función Registral del Estado de México. Si éste confirma la calificación, el perjudicado por ella podrá reclamarla en juicio contencioso administrativo.
+31.- Los Registradores deberán inscribir o anotar, según corresponda, los documentos que se presenten al Registro para inscripción o anotación, dentro de un plazo máximo de diez días hábiles siguientes al de su presentación, salvo aquellas a las que este Código o la Ley Registral establezcan un plazo menor.
 
-Para efectos de lo dispuesto en el párrafo anterior, el titular del derecho inscrito, sus causahabientes, apoderados, representantes legales o el Fedatario Público que haya autorizado el documento, así como las autoridades, federales, estatales y municipales, cuando así lo establezca la normatividad aplicable podrán interponer ante el Director General del Instituto de la Función Registral del Estado de México un recurso de inconformidad o juicio ante el Tribunal de lo Contencioso Administrativo del Estado contra la resolución del registrador que niegue la inscripción, anotación o cancelación de un documento.
+Calificación Extrínseca
 
-Para los efectos de los procedimientos ante el Director General del Instituto de la Función Registral del Estado de México y del juicio contencioso administrativo antes mencionados, se estará a lo dispuesto en el Código de Procedimientos Administrativos del Estado de México, el Reglamento, la Ley que Crea el Organismo Público Descentralizado Denominado Instituto de la Función Registral del Estado de México y en los demás ordenamientos legales que resulten aplicables.
-
-Las resoluciones del Instituto de la Función Registral del Estado de México relativas a las calificaciones registrales, podrán notificarse por estrados en sitio abierto de las oficinas de dicho Instituto o por cualquier medio electrónico disponible previa conformidad o solicitud por escrito del promovente y surtirán efectos al día siguiente de su publicación o de su recepción, según sea el caso.
-
-Si la autoridad ordena que se registre el título rechazado, la inscripción surtirá sus efectos desde que por primera vez se presentó el título.
+> <small>(REFORMADO, G.G. 18 DE AGOSTO DE 2011)</small>
 
 ###### Artículo 8.
 
-27.- La rectificación de los asientos por causa de error material o de concepto, sólo procede cuando existe discrepancia entre el título y la inscripción.
+32.- Previo a la inscripción, el Registrador calificará extrínsecamente el documento presentado dentro del plazo señalado en el artículo anterior. La calificación registral consistirá en verificar únicamente que:
+
+l. El documento presentado sea de los que deben inscribirse o anotarse;
+
+II. El documento satisfaga los requisitos de forma establecidos en la ley que lo rige como necesarios para su validez;
+
+III. En el documento conste acreditada la identidad, capacidad y legitimación de los otorgantes que el acto consignado requiera, en su caso. Cuando por cualquier circunstancia alguno de los titulares registrales varíe su nombre, denominación o razón social, procederá la inscripción cuando así se hubiere hecho constar ante Notario Público;
+
+IV. Exista identidad entre el bien previamente inscrito y el descrito en el título. No habrá falta de identidad cuando no coincida la descripción en uno o algunos de los datos, si de los demás elementos comparados se desprende dicha identidad;
+
+V. No haya incompatibilidad entre el texto del documento y los asientos del registro, conforme a lo previsto por el artículo 8.30;
+
+VI. Esté fijada la cantidad máxima que garantice un gravamen en el caso de obligaciones de monto indeterminado;
+
+VII. En el acto consignado en el instrumento se observe el tracto sucesivo en los términos del artículo 8.29;
+
+VIII. El documento cumpla con los requisitos que deba llenar de acuerdo con el Código, la Ley Registral u otras leyes aplicables, como indispensables para su inscripción; y
+
+IX. No haya operado el cierre de registro, por mandamiento judicial o administrativo.
+
+Verificado lo anterior, el Registrador deberá realizar la anotación o inscripción dentro del plazo mencionado en el artículo anterior.
+
+Los Registradores no podrán exigir otros datos, requisitos e información que la necesaria para el llenado del Formato Precodificado.
+
+Devolución de documento con datos de inscripción
+
+> <small>(REFORMADO, G.G. 18 DE AGOSTO DE 2011)</small>
+
+###### Artículo 8.
+
+33.- Hecho el registro, serán devueltos los documentos al que los presentó, con los datos de la inscripción, fecha, firma y sello.
+
+Impugnación contra la calificación registral. Recurso de Inconformidad o juicio
+
+> <small>(REFORMADO, G.G. 18 DE AGOSTO DE 2011)</small>
+
+###### Artículo 8.
+
+34.- La calificación del Registrador podrá recurrirse por el solicitante del servicio o cualquier interesado, ante el Director General del Instituto de la Función Registral del Estado de México. Si éste confirma la calificación, cualquiera de ellos podrá reclamarla en juicio.
+
+Si mediante sentencia ejecutoriada se resuelve que el documento fue mal calificado e indebidamente rechazado y se ordena que se registre, la inscripción se practicará de inmediato y surtirá sus efectos desde que por primera vez se presentó el documento, debiéndose tener en cuenta lo dispuesto por los artículos 8.23 al 8.28 inclusive.
+
+> <small>(REFORMADA SU DENOMINACION, G.G. 18 DE AGOSTO DE 2011)</small>
+
+###### Artículo 8.
+
+35.- La rectificación de los asientos por causa de error material o de concepto, sólo procede cuando existe discrepancia entre el título y la inscripción.
+
+Procederá la rectificación de oficio o a petición de cualquier interesado con la exhibición de testimonio, acta o cualquier documento auténtico que reproduzca el documento que dio origen al asiento o inscripción a rectificarse. Cuando de los propios asientos registrales o legajos se desprenda el contenido de lo que se pretenda rectificar o reponer, no será necesaria la exhibición de documento alguno.
+
+El Registrador deberá hacer la rectificación en un plazo de cinco días hábiles.
+
+Cuando para la rectificación de una anotación o inscripción sea necesaria la consulta de algún instrumento o documento que obre depositado en el Archivo General de Notarías, tal consulta deberá hacerla el Registrador directamente en el mencionado Archivo, sin necesidad de pago de derecho alguno, en un plazo de cinco días hábiles. Lo mismo se observará en tratándose de reposición de folios, asientos o inscripciones.
 
 Error material
 
+> <small>(REFORMADO, G.G. 18 DE AGOSTO DE 2011)</small>
+
 ###### Artículo 8.
 
-28.- Se entenderá que se comete error material cuando se inscriban unas palabras por otras, se omita la expresión de alguna circunstancia, se equivoquen los nombres o las cantidades al copiarlas del título, sin cambiar por eso el sentido general de la inscripción ni el de ninguno de los conceptos.
+36.- Se entenderá que se comete error material cuando se escriban unas palabras por otras, se omita la expresión de alguna circunstancia, se equivoquen los nombres o las cantidades al copiarlas del documento, sin cambiar por eso el sentido general de la inscripción ni el de ninguno de los conceptos.
 
 Error de concepto
 
-###### Artículo 8.
-
-29.- Se entenderá que se comete error de concepto cuando al expresar en la inscripción alguno de los contenidos del título, se altere o varíe su sentido.
-
-Legitimación en el error por concepto
-
-> <small>(REFORMADO, G.G. 3 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO, G.G. 18 DE AGOSTO DE 2011)</small>
 
 ###### Artículo 8.
 
-30.- Cuando se trate de errores de concepto o materiales, los asientos practicados en el Registro Público de la Propiedad podrán rectificarse con la presentación del título, debiendo acreditar el interesado su interés jurídico.
+37.- Se entenderá que se comete error de concepto cuando al expresar en la inscripción alguno de los contenidos del documento, se altere o varíe su sentido.
 
-De la reposición y restauración de documentos
+Legitimación para la rectificación y reposición de asientos
 
-> <small>(ADICIONADO, G.G. 3 DE DICIEMBRE DE 2007)</small>
-
-###### Artículo 8.
-
-30.1.- Tratándose de la reposición y restauración de libros y documentos deteriorados, destruidos o extraviados, el interesado deberá acreditar su interés jurídico.
-
-Oposición del registrador a la rectificación
+> <small>(REFORMADO, G.G. 18 DE AGOSTO DE 2011)</small>
 
 ###### Artículo 8.
 
-31.- En caso de que el registrador se oponga a la rectificación se observará lo mismo que en el supuesto de que suspenda o niegue una inscripción.
+38.- Cuando se trate de errores de concepto o materiales, o de reposición de asientos deteriorados, destruidos o extraviados, podrán rectificarse o reponerse, con documento idóneo, debiendo acreditar el solicitante su interés jurídico.
 
-Personas a quienes no afecta la rectificación
+Oposición del registrador a la rectificación o reposición
 
-###### Artículo 8.
-
-32.- En ningún caso la rectificación perjudicará los derechos adquiridos por tercero a título oneroso y de buena fe durante la vigencia del asiento que se declare inexacto, independientemente de la responsabilidad de daños y perjuicios del registrador.
-
-Fecha en que surte efectos la rectificación
+> <small>(REFORMADO, G.G. 18 DE AGOSTO DE 2011)</small>
 
 ###### Artículo 8.
 
-33.- El concepto rectificado surtirá efectos desde la fecha de la rectificación.
+39.- En caso de que el Registrador se oponga a la rectificación o reposición se observará lo mismo que en el supuesto de que suspenda o deniegue una inscripción.
+
+Personas a quienes no afecta la rectificación o reposición de asientos
+
+> <small>(REFORMADO, G.G. 18 DE AGOSTO DE 2011)</small>
+
+###### Artículo 8.
+
+40.- En ningún caso la rectificación o reposición de un asiento inexacto, deteriorado, destruido o extraviado perjudicará los derechos adquiridos por tercero a título oneroso y de buena fe durante la vigencia del mismo, independientemente de la responsabilidad de daños y perjuicios del Registrador.
+
+Fecha en que surte efectos la rectificación o reposición
+
+> <small>(REFORMADO, G.G. 18 DE AGOSTO DE 2011)</small>
+
+###### Artículo 8.
+
+41.- Independientemente de la fecha de rectificación o reposición del asiento, éste surtirá sus efectos desde la fecha en que haya sido practicado; dejando a salvo los derechos adquiridos por tercero a título oneroso y de buena fe.
 
 Extinción de las anotaciones preventivas
 
+> <small>(REFORMADO, G.G. 18 DE AGOSTO DE 2011)</small>
+
 ###### Artículo 8.
 
-34.- Las anotaciones preventivas se extinguen por cancelación, caducidad o por la inscripción definitiva.
+42.- Las anotaciones preventivas se extinguen por cancelación, caducidad o por su inscripción definitiva.
 
 Cancelación por consentimiento
 
+> <small>(REFORMADO, G.G. 18 DE AGOSTO DE 2011)</small>
+
 ###### Artículo 8.
 
-35.- Las inscripciones y anotaciones pueden cancelarse por consentimiento de las personas a cuyo favor estén hechas o por orden judicial.
+43.- Las inscripciones y anotaciones pueden cancelarse por consentimiento de las personas a cuyo favor estén hechas, o sus causahabientes con o sin expresión de causa o por orden judicial.
 
 Podrán no obstante ser canceladas a petición de parte sin dichos requisitos cuando el derecho inscrito o anotado quede extinguido.
 
 Consentimiento expreso en escritura para cancelar
 
+> <small>(REFORMADO, G.G. 18 DE AGOSTO DE 2011)</small>
+
 ###### Artículo 8.
 
-36.- Para que el asiento pueda cancelarse por consentimiento de las partes, éste deberá constar en escritura pública.
+44.- Para que el asiento pueda cancelarse por consentimiento del titular o sus causahabientes, éste deberá constar en escritura pública.
 
 Cancelación total o parcial
 
+> <small>(REFORMADO, G.G. 18 DE AGOSTO DE 2011)</small>
+
 ###### Artículo 8.
 
-37.- La cancelación de las inscripciones y anotaciones preventivas podrá ser total o parcial.
+45.- La cancelación de las inscripciones y anotaciones preventivas podrá ser total o parcial.
 
 Cancelación total
 
+> <small>(REFORMADO, G.G. 18 DE AGOSTO DE 2011)</small>
+
 ###### Artículo 8.
 
-38.- Podrá pedirse y deberá ordenarse en su caso la cancelación total cuando:
+46.- Podrá pedirse y deberá ordenarse en su caso la cancelación total cuando:
 
 I. Se extinga por completo el bien objeto de la inscripción;
 
-II. Se extinga por declaración judicial el derecho inscrito o anotado;
+II. Se extinga por declaración judicial o disposición de la ley el derecho inscrito o anotado;
 
-III. Se declare la nulidad del acto jurídico o título en cuya virtud se haya hecho la inscripción o anotación;
+III. Se declare la nulidad o falsedad del hecho, acto jurídico o título en cuya virtud se haya hecho la inscripción o anotación;
 
-IV. Se declare judicialmente la nulidad del asiento;
+IV. Se declare judicialmente la nulidad o falsedad del asiento;
 
-V. Sea vendido judicialmente el inmueble que reporte gravamen;
+V. Sea vendido judicialmente el inmueble que reporte gravamen, cuando así proceda conforme al artículo 7.603; y
 
 VI. Tratándose de cédula hipotecaria o de embargo, hayan transcurrido dos años desde la fecha del asiento, sin que se ordene su prórroga.
 
+Tratándose de cancelaciones de hipotecas, se considerarán accesorias a las mismas y en consecuencia deberán cancelarse simultáneamente de oficio, aún cuando no hayan sido mencionadas expresamente en el instrumento correspondiente, los asientos que contengan cédulas hipotecarias, reestructuras, ampliaciones o modificaciones a las mismas.
+
 Cancelación parcial
+
+> <small>(REFORMADO, G.G. 18 DE AGOSTO DE 2011)</small>
 
 ###### Artículo 8.
 
-39.- Podrá pedirse y deberá decretarse en su caso, la cancelación parcial cuando se reduzca:
+47.- Podrá pedirse y deberá decretarse en su caso, la cancelación parcial cuando se reduzca:
 
-I. El inmueble objeto de la inscripción o anotación;
+l. El inmueble objeto de la inscripción o anotación; y
 
 II. El derecho inscrito o anotado.
 
 Caducidad y prórroga de las anotaciones
 
+> <small>(REFORMADO, G.G. 18 DE AGOSTO DE 2011)</small>
+
 ###### Artículo 8.
 
-40.- Las anotaciones preventivas, caducarán a los tres años de su fecha, salvo aquellas en las que se fije un plazo más breve. No obstante, a petición de parte interesada o por mandato de las autoridades que las decretaron, podrán prorrogarse una o mas veces por dos años cada vez, siempre que la prórroga sea anotada antes de que caduque el asiento.
+48.- Las anotaciones preventivas, caducarán a los tres años de su fecha, salvo aquellas en las que el presente Código les fije un plazo más breve. No obstante, a petición de parte interesada o por mandato de las autoridades que las decretaron, podrán prorrogarse una o más veces por dos años cada vez, siempre que la prórroga sea anotada antes de que caduque el asiento.
 
 Efectos de la caducidad del asiento
 
+> <small>(REFORMADO, G.G. 18 DE AGOSTO DE 2011)</small>
+
 ###### Artículo 8.
 
-41.- La caducidad produce la extinción del asiento respectivo por el simple transcurso del tiempo, pero cualquier interesado podrá solicitar en este caso que se registre la cancelación de dicho asiento.
+49.- La caducidad produce la extinción del asiento respectivo por el simple transcurso del tiempo, pero cualquier interesado podrá solicitar en este caso que se registre la cancelación de dicho asiento.
 
 Presunción de extinción del derecho por cancelación
 
+> <small>(REFORMADO, G.G. 18 DE AGOSTO DE 2011)</small>
+
 ###### Artículo 8.
 
-42.- Cancelado un asiento se presume extinguido el derecho a que dicho asiento se refiere.
+50.- Cancelado un asiento se presume extinguido el derecho a que dicho asiento se refiere.
 
 Consentimiento de representantes legales para cancelar
 
-###### Artículo 8.
-
-43.- Los padres administradores de los bienes de sus hijos, los tutores y cualesquiera otros administradores, aunque estén habilitados para recibir pagos y dar recibos, sólo pueden consentir la cancelación del registro hecho a favor de sus representados, en el caso de pago o por sentencia judicial.
-
-Forma de las cancelaciones
+> <small>(REFORMADO, G.G. 18 DE AGOSTO DE 2011)</small>
 
 ###### Artículo 8.
 
-44.- Las cancelaciones se harán en la forma que establezca el reglamento.
+51.- Los padres administradores de los bienes de sus hijos, los tutores y cualesquiera otros administradores, aunque estén habilitados para recibir pagos y dar recibos, sólo pueden consentir la cancelación del registro hecho a favor de sus representados, en el caso de pago o por sentencia judicial.
+
+Procedencia de las cancelaciones
+
+> <small>(REFORMADO, G.G. 18 DE AGOSTO DE 2011)</small>
 
 ###### Artículo 8.
 
-45.- En el Registro de la Propiedad inmueble se inscribirán:
+52.- Las cancelaciones procederán en los supuestos que establezca la Ley Registral.
 
-I. Los títulos por los cuales se cree, declare, reconozca, adquiera, transmita, modifique, limite, grave o extinga el dominio, la posesión originaria o los demás derechos reales sobre inmuebles;
+## TITULO CUARTO. Del Registro de Personas Jurídicas Colectivas
 
-II. Los contratos de arrendamiento de bienes inmuebles, por un período mayor de seis años y aquellos en que haya anticipos de rentas por más de tres años;
+Actos jurídicos sobre personas jurídicas colectivas
 
-III. Los contratos de arrendamiento de inmuebles de menores, incapacitados o de una sucesión;
+> <small>(REFORMADO, G.G. 18 DE AGOSTO DE 2011)</small>
 
-IV. Las resoluciones judiciales o laudos arbitrales que produzcan algunos de los efectos mencionados en la fracción I;
+###### Artículo 8.
 
-V. Los demás títulos que la ley ordene expresamente que sean registrados.
+53.- En el Registro de la Propiedad inmueble se inscribirán:
+
+l. Los títulos por los cuales se cree, declare, reconozca, adquiera, transmita, modifique, limite, grave o extinga el dominio, la posesión originaria o los demás derechos reales sobre inmuebles;
+
+II. Los contratos de arrendamiento de parte o de la totalidad de bienes inmuebles, por un período mayor de seis años y aquellos en que haya anticipos de rentas por más de tres años; y
+
+III. Los demás títulos que la ley ordene expresamente que sean registrados.
 
 Documentos anotables
 
-###### Artículo 8.
-
-46.- Se anotarán preventivamente en el registro:
-
-I. Por orden judicial, las demandas relativas a la propiedad de bienes inmuebles o a la constitución, declaración, modificación o extinción de cualquier derecho real sobre aquellos;
-
-II. Los contratos de promesa de venta sobre inmuebles;
-
-III. El mandamiento y el acta de embargo que se haya hecho efectivo en bienes inmuebles del demandado;
-
-IV. Por orden judicial, las demandas promovidas para exigir el cumplimiento de contratos preparatorios o para dar forma legal al acto o contrato concertado cuando tenga por objeto inmuebles o derechos reales sobre los mismos;
-
-V. Las providencias judiciales y administrativas que ordenen el secuestro o prohíban la enajenación de bienes inmuebles o derechos reales;
-
-VI. Los documentos presentados al registro, y cuya inscripción haya sido denegada o suspendida por el Registrador;
-
-VII. Las fianzas legales o judiciales;
-
-VIII. Las resoluciones judiciales en materia de amparo que ordenen la suspensión provisional o definitiva de actos de autoridad de cualquier tipo que afecten o pudieren afectar bienes o derechos inscritos en el Registro;
-
-IX. Cualquier otro título que sea anotable de acuerdo con este Código u otras leyes.
-
-> <small>(ADICIONADO, G.G. 3 DE DICIEMBRE DE 2007)</small>
-
-La anotación tiene un carácter transitorio y va al margen de la inscripción principal, en forma preventiva o provisional, y tiene por objeto consignar una situación jurídica que afecta o grava el bien o el derecho que consta en la inscripción.
-
-> <small>(ADICIONADO, G.G. 3 DE DICIEMBRE DE 2007)</small>
-
-Las anotaciones marginales serán de dos tipos: notas de relación de asientos y anotaciones preventivas. Las anotaciones se realizarán en los términos previstos al efecto en el Reglamento.
+> <small>(REFORMADO, G.G. 18 DE AGOSTO DE 2011)</small>
 
 ###### Artículo 8.
 
-47.- La anotación perjudicará a cualquier adquirente del inmueble o derecho real a que se refiere la anotación, cuya adquisición sea posterior a la fecha de aquélla, y dará preferencia para el cobro del crédito sobre cualquier otro de fecha posterior a la anotación.
+54.- Se anotarán preventivamente en el Registro:
+
+l. Por orden judicial, las demandas relativas a la propiedad de bienes inmuebles o a la constitución, declaración, modificación o extinción de cualquier derecho real sobre aquellos;
+
+II. El mandamiento y el acta de embargo que se haya hecho efectivo en bienes inmuebles del demandado;
+
+III. Por orden judicial, las demandas promovidas para exigir el cumplimiento de contratos preparatorios o para dar forma legal al acto o contrato concertado cuando tenga por objeto inmuebles o derechos reales sobre los mismos;
+
+IV. Las providencias judiciales y administrativas que ordenen el secuestro o prohíban la enajenación de bienes inmuebles o derechos reales;
+
+V. Los títulos presentados al Registro Público y cuya inscripción haya sido denegada o suspendida por el Registrador. En este caso, el Registrador asentará de oficio y de inmediato la anotación preventiva ordenada en esta fracción la cual caducará en un plazo de dos años, a fin de que si la autoridad jurisdiccional ordena que se registre el título rechazado, la inscripción definitiva surta sus efectos desde la fecha de su presentación, en los términos previstos por los artículos 8.23 al 8.28 inclusive;
+
+VI. Las fianzas legales o judiciales;
+
+VII. El decreto de expropiación y de ocupación temporal y declaración de limitación de dominio de bienes inmuebles;
+
+VIII. Las resoluciones judiciales en materia de amparo que ordenen la suspensión provisional o definitiva de actos de autoridad de cualquier tipo que afecten o pudieren afectar bienes o derechos inscritos en el Registro; y
+
+IX. Cualquier otro título que sea anotable de acuerdo con este Código, la Ley Registral u otras leyes.
+
+La anotación tiene un carácter transitorio y hace referencia a una inscripción principal, en forma preventiva o provisional, y tiene por objeto consignar una situación jurídica que afecta o grava el bien o el derecho que consta en la inscripción.
+
+Las anotaciones preventivas se realizarán en los términos previstos al efecto en la Ley Registral.
+
+###### Artículo 8.
+
+55.- La anotación perjudicará a cualquier adquirente del inmueble o derecho real a que se refiere la anotación, cuya adquisición sea posterior a la fecha de aquélla, o siendo anterior no haya sido anotada o inscrita, y dará preferencia para el cobro del crédito sobre cualquier otro de fecha posterior a la anotación.
 
 Anotaciones judiciales o administrativas
 
+> <small>(REFORMADO, G.G. 18 DE AGOSTO DE 2011)</small>
+
 ###### Artículo 8.
 
-48.- En los casos de las anotaciones judiciales o administrativas, podrá producirse el cierre del registro en los términos de la resolución correspondiente.
+56.- En los casos de las anotaciones judiciales o administrativas, podrá producirse el cierre del registro en los términos de la resolución correspondiente.
 
 Anotación de fianzas
 
-## TITULO CUARTO. Del Registro de Operaciones sobre Muebles
-
-Inscripción de actos jurídicos sobre muebles
+> <small>(REFORMADO, G.G. 18 DE AGOSTO DE 2011)</small>
 
 ###### Artículo 8.
 
-49.- En el caso de anotación de fianzas producirá el efecto fijado por el capítulo respectivo.
+57.- En el caso de anotación de fianzas producirá el efecto fijado por el capítulo respectivo, así como las fianzas a que se refieren los artículos 31 y 100 de la Ley Federal de Instituciones de Fianzas.
 
 Efectos de la anotación respecto a los bienes
 
-###### Artículo 8.
-
-50.- Salvo los casos en que la anotación cierre el registro, los bienes inmuebles o derechos reales anotados podrán enajenarse y gravarse, sin perjuicio del derecho de la persona a cuyo favor se haya hecho la anotación.
+> <small>(REFORMADO, G.G. 18 DE AGOSTO DE 2011)</small>
 
 ###### Artículo 8.
 
-51.- La inmatriculación es la inscripción de la propiedad o posesión de un inmueble que carece de antecedentes registrales.
+58.- Salvo los casos en que la anotación cierre el registro, los bienes inmuebles o derechos reales anotados podrán enajenarse y gravarse, sin perjuicio del derecho de la persona a cuyo favor se haya hecho la anotación.
+
+###### Artículo 8.
+
+59.- La inmatriculación es la inscripción de la propiedad o posesión de un inmueble que carece de antecedentes registrales.
 
 Medios de inmatriculación
 
+> <small>(REFORMADO, G.G. 18 DE AGOSTO DE 2011)</small>
+
 ###### Artículo 8.
 
-52.- La inmatriculación se verifica mediante:
+60.- La inmatriculación se verifica mediante:
 
 I. Información de dominio;
 
@@ -16799,153 +16963,161 @@ III. Resolución judicial que la ordene y que se haya dictado como consecuencia 
 
 IV. La inscripción del decreto publicado en la Gaceta del Gobierno del Estado que convierta en bien de dominio privado un inmueble que no tenga tal carácter, o del título o títulos que se expidan con fundamento en aquel decreto;
 
-V. Resolución administrativa que la ordene y que se haya dictado como consecuencia de la presentación de la solicitud del interesado;
+V. Resolución administrativa que la ordene y que se haya dictado como consecuencia de la presentación de la solicitud del interesado; y
 
 VI. La inscripción de los títulos de solares urbanos expedidos por el Registro Agrario Nacional o de los documentos que conviertan un bien ejidal a propiedad privada.
 
 Información posesoria
 
-###### Artículo 8.
-
-53.- El que haya poseído bienes inmuebles por el tiempo y con las condiciones exigidas para prescribirlos y no tenga título de propiedad o teniéndolo no sea inscribible, podrá demostrar ante el Juez competente que ha tenido esa posesión, rindiendo la información respectiva en los términos que establezca el Código de Procedimientos Civiles.
-
-Inmatriculación de la posesión
+> <small>(REFORMADO, G.G. 18 DE AGOSTO DE 2011)</small>
 
 ###### Artículo 8.
 
-54.- El que tenga una posesión apta para prescribir bienes inmuebles y que no constituyan parte de uno de mayor porción, pueden inmatricular la posesión antes de que transcurra el tiempo necesario para prescribir en los términos del Código de Procedimientos Civiles.
-
-Oposición a la información de dominio o de posesión
-
-###### Artículo 8.
-
-55.- El que justifique tener derecho a los bienes cuya inscripción se solicite mediante información de dominio o de posesión, podrá alegarlo ante la autoridad judicial.
+61.- El que haya poseído bienes inmuebles por el tiempo y con las condiciones exigidas para prescribirlos y no tenga título de propiedad o teniéndolo no sea inscribible, podrá demostrar ante el Juez competente que ha tenido esa posesión, rindiendo la información respectiva en los términos que establezca el Código de Procedimientos Civiles.
 
 Consumación de la usucapión por inscripción de la posesión
 
+> <small>(REFORMADO, G.G. 18 DE AGOSTO DE 2011)</small>
+
 ###### Artículo 8.
 
-56.- Transcurridos cinco años desde la inscripción de posesión, sin que en el Registro aparezca algún asiento que la contradiga, tiene derecho el poseedor, a que el Juez declare que se ha convertido en propietario en virtud de la prescripción y ordene se haga en el Registro la inscripción de dominio.
+62.- Transcurridos cinco años desde la inscripción de posesión, sin que en el Registro aparezca algún asiento que la contradiga, tiene derecho el poseedor, a que el Juez declare que se ha convertido en propietario en virtud de la prescripción y ordene se haga en el Registro la inscripción de dominio.
 
 Derechos inmatriculables mediante información posesoria
 
+> <small>(REFORMADO, G.G. 18 DE AGOSTO DE 2011)</small>
+
 ###### Artículo 8.
 
-57.- No podrán inscribirse mediante información posesoria, las servidumbres continuas no aparentes, tampoco el derecho hipotecario.
+63.- No podrán inscribirse mediante información posesoria, las servidumbres continuas no aparentes, tampoco el derecho hipotecario.
 
 Inmatriculación de título fehaciente
 
-###### Artículo 8.
-
-58.- El que tenga título fehaciente que abarque cuando menos un período ininterrumpido de cinco años inmediatamente anteriores a su promoción, podrá inmatricular su predio mediante resolución judicial, siempre y cuando se satisfagan los requisitos que señala el Código de Procedimientos Civiles.
-
-Inmatriculación de inmuebles que carezcan de antecedentes registrales
+> <small>(REFORMADO, G.G. 18 DE AGOSTO DE 2011)</small>
 
 ###### Artículo 8.
 
-59.- Para la inmatriculación de inmuebles que carezcan de antecedentes registrales los que tengan interés legítimo podrán ocurrir ante el Registro Público a solicitarla, debiendo acompañar a su promoción:
+64.- El que tenga título fehaciente que abarque cuando menos un período ininterrumpido de cinco años inmediatamente anteriores a su promoción, podrá inmatricular su predio mediante resolución judicial, siempre y cuando se satisfagan los requisitos que señala el Código de Procedimientos Civiles.
 
-I. Certificado del Registro Público de la Propiedad que acredite que el bien de que se trata no está inscrito;
+Inmatriculación de Inmuebles que carezcan de antecedentes registrales
 
-II. Comprobante del pago del impuesto predial al corriente a nombre de quién se promueve;
+> <small>(REFORMADO, G.G. 18 DE AGOSTO DE 2011)</small>
+
+###### Artículo 8.
+
+65.- Para la inmatriculación de inmuebles que carezcan de antecedentes registrales los que tengan interés legítimo podrán ocurrir ante el Registro Público a solicitarla, debiendo acompañar a su promoción:
+
+l. Certificado del Registro Público de la Propiedad que acredite que el bien de que se trata no está inscrito; y
+
+II. Comprobante del pago del impuesto predial al corriente a nombre de quién se promueve.
 
 Las personas que soliciten la inmatriculación de inmuebles, deberán cumplir los requisitos y sujetarse al procedimiento que establezca el reglamento respectivo.
 
 La inmatriculación en relación a terceros
 
+> <small>(REFORMADO, G.G. 18 DE AGOSTO DE 2011)</small>
+
 ###### Artículo 8.
 
-60.- La inmatriculación de un inmueble por resolución del titular del Registro Público, dejará siempre a salvo los derechos de terceros.
+66.- La inmatriculación de un inmueble por resolución del titular del Registro Público, dejará siempre a salvo los derechos de terceros.
 
 Rectificación de las inmatriculaciones
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 3 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO, G.G. 18 DE AGOSTO DE 2011)</small>
 
 ###### Artículo 8.
 
-61.- Una vez realizada la inmatriculación, sólo podrá rectificarse por el Director General del Instituto de la Función Registral del Estado de México cuando se hubieren cometido errores mecanográficos, ortográficos o de otra índole que no afecten sus datos esenciales, sin cambiar por eso el sentido general de la inscripción ni el de ninguno de los conceptos. Tratándose de un error de concepto, sólo podrá rectificarse o cancelarse por determinación judicial.
+67.- Una vez realizada la inmatriculación, sólo podrá rectificarse por el Director General del Instituto de la Función Registral del Estado de México cuando se hubieren cometido errores mecanográficos, ortográficos o de otra índole que no afecten sus datos esenciales, sin cambiar por eso el sentido general de la inscripción ni el de ninguno de los conceptos. Tratándose de un error de concepto, sólo podrá rectificarse o cancelarse por determinación judicial.
 
 Se entenderá que se comete error de concepto cuando al expresar en la inmatriculación alguno de los contenidos del título, se altere o varíe su sentido.
 
 Inscripción de la inmatriculación administrativa
 
+> <small>(REFORMADO, G.G. 18 DE AGOSTO DE 2011)</small>
+
 ###### Artículo 8.
 
-62.- Dictada la resolución de inmatriculación de un inmueble, se ordenará su inscripción, previo pago de los derechos por este concepto.
+68.- Dictada la resolución de inmatriculación de un inmueble, se ordenará su inscripción, previo pago de los derechos por este concepto.
 
 Oposición a la inmatriculación administrativa
 
-###### Artículo 8.
-
-63.- Cualquiera que se crea con derecho a los bienes materia de inmatriculación administrativa, podrá oponerse reuniendo los requisitos que señala el reglamento.
-
-Sistemas de registro
-
-> <small>(REFORMADO, G.G. 3 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO, G.G. 18 DE AGOSTO DE 2011)</small>
 
 ###### Artículo 8.
 
-64.- El Reglamento establecerá los sistemas y procesos conforme a los cuales deben llevarse las inscripciones y anotaciones. El contenido de los asientos de inscripción y las anotaciones, así como los efectos, cancelación, requisitos y calificación de dichas inscripciones y anotaciones y los demás actos y procedimientos registrales del Registro Público de la Propiedad se regularán conforme a lo previsto en el presente Código y el Reglamento.
+69.- Cualquiera que se crea con derecho a los bienes materia de inmatriculación administrativa, podrá oponerse reuniendo los requisitos que señala el reglamento.
 
-Las inscripciones, registros, anotaciones y asientos a que se refiere este Libro Octavo se practicarán en folios que podrán evidenciarse en forma impresa, documental, magnética, informática, electrónica o cibernética conforme a lo previsto en este Código y el Reglamento. Las anotaciones que se realicen al margen de los asientos o inscripciones correspondientes se harán constar conforme a lo previsto en el mencionado Reglamento.
+Sistema de registro
+
+> <small>(REFORMADO, G.G. 18 DE AGOSTO DE 2011)</small>
+
+###### Artículo 8.
+
+70.- El Reglamento establecerá los sistemas y procesos conforme a los cuales deben llevarse las inscripciones y anotaciones. El contenido de los asientos de inscripción y las anotaciones, así como los efectos, cancelación, requisitos y calificación de dichas inscripciones y anotaciones y los demás actos y procedimientos registrales del Registro Público de la Propiedad se regularán conforme a lo previsto en el presente Código y el Reglamento.
+
+Las inscripciones, registros, anotaciones y asientos a que se refiere este Libro Octavo se practicarán en folios que podrán evidenciarse en forma impresa, documental, magnética, informática, electrónica o cibernética conforme a lo previsto en este Código y el Reglamento.
+
+Las anotaciones que se realicen al margen de los asientos o inscripciones correspondientes se harán constar conforme a lo previsto en el mencionado Reglamento.
 
 La operación del Registro Público de la Propiedad podrá llevarse a cabo mediante un sistema informático, el cual utilice formas precodificadas para la realización de trámites registrales, de acuerdo con las disposiciones que al efecto se establezcan.
 
 El Reglamento regulará los sistemas y procesos informáticos para la captación, desarrollo, recuperación, almacenamiento, explotación, custodia, seguridad, consulta, reproducción, verificación, administración y transmisión de la información contenida tanto en libros como en la base de datos respectiva.
 
-> <small>(ADICIONADO, G.G. 3 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO, G.G. 18 DE AGOSTO DE 2011)</small>
 
 ###### Artículo 8.
 
-64.1.- La información contenida en libros u otros documentos servirá de base para la conformación del folio, el cual se integrará con el total de las anotaciones y registros existentes, vinculando el tracto sucesivo. La información será validada por la autoridad registral, asignando el folio respectivo y formará parte de la base de datos que al efecto opere el Instituto de la Función Registral del Estado de México.
+71.- La información contenida en libros u otros documentos servirá de base para la conformación del folio, el cual se integrará con el total de las anotaciones y registros existentes, vinculando el tracto sucesivo. La información será validada por la autoridad registral, asignando el folio respectivo y formará parte de la base de datos que al efecto opere el Instituto de la Función Registral del Estado de México.
 
 Las bases para la extracción y captura de información para integrar el folio se precisarán en el Reglamento.
 
-> <small>(ADICIONADO, G.G. 3 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO, G.G. 18 DE AGOSTO DE 2011)</small>
 
 ###### Artículo 8.
 
-64.2.- La información e imágenes contenidas en la base de datos de los sistemas informáticos con los que opere el Registro Público de la Propiedad, tendrán la misma validez y exactitud jurídica que las contenidas en los libros o en el archivo histórico, así como el carácter probatorio para los efectos correspondientes.
+72.- La información e imágenes contenidas en la base de datos de los sistemas informáticos con los que opere el Registro Público de la Propiedad, tendrán la misma validez y exactitud jurídica que las contenidas en los libros o en el archivo histórico, así como el carácter probatorio para los efectos correspondientes.
+
+> <small>(REFORMADA SU DENOMINACION, G.G. 18 DE AGOSTO DE 2011)</small>
+
+## TITULO QUINTO. De los Servidores Públicos del Instituto de la Función Registral del Estado de México
+
+Régimen aplicable
+
+> <small>(REFORMADO, G.G. 18 DE AGOSTO DE 2011)</small>
 
 ###### Artículo 8.
 
-65.- Se inscribirán en el Registro de operaciones sobre bienes muebles:
+73.- En el registro de las personas jurídicas colectivas se inscribirán los instrumentos por los que se constituyan, reformen, disuelvan o liquiden:
 
-I. Los contratos de compra venta a plazos de bienes muebles sujetos a condición resolutoria;
+l. Las sociedades y asociaciones civiles;
 
-II. Los contratos de compra venta de bienes muebles por los cuales el vendedor se reserva la propiedad de los mismos;
-
-III. Los contratos de prenda, cuyo registro exige este Código.
-
-###### Artículo 8.
-
-66.- En el registro de las personas jurídicas colectivas se inscribirán:
-
-I. Los instrumentos por los que se constituyan, reformen o disuelvan las sociedades y asociaciones civiles y sus estatutos;
-
-II. Los instrumentos por los que se constituyan reformen o disuelvan las sociedades y asociaciones extranjeras de carácter civil;
+II. Las sociedades y asociaciones extranjeras de carácter civil; y
 
 III. Las Instituciones de asistencia privada.
 
-Disposiciones aplicables al registro de inmuebles
+Disposiciones aplicables del registro de inmuebles
 
-## TITULO QUINTO. Del registro de personas jurídicas colectivas
-
-Actos jurídicos sobre personas jurídicas colectivas
+> <small>(REFORMADO, G.G. 18 DE AGOSTO DE 2011)</small>
 
 ###### Artículo 8.
 
-67.- Serán aplicables a estas inscripciones las disposiciones relativas al registro de bienes inmuebles, en cuanto sean compatibles con la naturaleza de los actos o contratos materia del presente capítulo y con los efectos que las inscripciones producen.
+74.- Serán aplicables a estas inscripciones las disposiciones relativas del registro de bienes inmuebles, en cuanto sean compatibles con la naturaleza de los actos o contratos materia del presente capítulo y con los efectos que las inscripciones producen.
 
-> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, G.G. 3 DE DICIEMBRE DE 2007)</small>
-
-###### Artículo 8.
-
-68.- En el desempeño de sus funciones y cumplimiento de sus responsabilidades, los servidores públicos del Instituto de la Función Registral del Estado de México deberán cumplir con las disposiciones de este Código, el Reglamento, la Ley que Crea el Organismo Público Descentralizado Denominado Instituto de la Función Registral del Estado de México, su reglamento interior, los manuales administrativos y demás disposiciones legales, reglamentarias y administrativas aplicables.
+> <small>(REFORMADA SU DENOMINACION, G.G. 18 DE AGOSTO DE 2011)</small>
 
 ## TITULO SEXTO. De los Servidores Públicos del Instituto de la Función Registral del Estado de México
 
 > <small>(ADICIONADO, G.G. 3 DE DICIEMBRE DE 2007)</small>
+
+###### Artículo 8.
+
+75.- En el desempeño de sus funciones y cumplimiento de sus responsabilidades, los servidores públicos del Instituto de la Función Registral del Estado de México deberán cumplir con las disposiciones de este Código, la Ley Registral, su Reglamento, la Ley que Crea el Organismo Público Descentralizado Denominado Instituto de la Función Registral del Estado de México, su reglamento interior, los manuales administrativos y demás disposiciones legales, reglamentarias y administrativas aplicables.
+
+> <small>(ADICIONADO, G.G. 18 DE AGOSTO DE 2011)</small>
+
+###### Artículo 8.
+
+76.- El Instituto de la Función Registral del Estado de México, proveerá lo necesario para capacitar, actualizar y profesionalizar al personal del mismo, de conformidad con lo que se establezca en la Ley Registral, su Reglamento, la Ley que crea el Organismo Publico Descentralizado denominado Instituto de la Función Registral del Estado México y su Reglamento Interior.
 
 ## TRANSITORIOS
 
@@ -17126,3 +17298,33 @@ G.G. 3 DE SEPTIEMBRE DE 2010.
 PRIMERO.- Publíquese el presente Decreto en el periódico oficial "Gaceta del Gobierno" del Estado de México.
 
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "Gaceta del Gobierno" del Estado de México.
+
+G.G. 18 DE AGOSTO DE 2011.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- Este Decreto entrará en vigor a los quince días siguientes al de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- Se abroga el Reglamento del Registro Público de la Propiedad del Estado de México publicado en el Periódico Oficial "Gaceta del Gobierno" del Estado de México el día 18 de febrero del año 2009 y todas las disposiciones y criterios registrales que se opongan a la presente Ley quedan derogados.
+
+CUARTO.- Se reforma el Libro Octavo del Código Civil del Estado de México del 07 de junio del año 2002 y todas las disposiciones y criterios registrales que se opongan al presente Decreto quedan derogadas.
+
+QUINTO.- El Reglamento correspondiente a la presente Ley deberá expedirse en un plazo de 90 días hábiles contados a partir de su publicación.
+
+SEXTO.- El proceso registral en curso, deberá ajustarse a las disposiciones del presente Decreto.
+
+SÉPTIMO.- Los recursos en trámite a la entrada en vigor del presente Decreto, se acogerán a las disposiciones del mismo, en lo que beneficie al usuario del servicio registral.
+
+OCTAVO.- El Traslado de información que se haga para la apertura de los Folios, con base en los datos de libros, imágenes digitalizadas, o cualquier otro documento del Acervo Registral, se hará en los términos existentes, sin calificación alguna. De todo traslado deberá dejarse constancia en su fuente, señalando el número de Folio que le corresponda e incluirá todos los asientos vigentes.
+
+Además deberá asentarse el aviso definitivo, aún cuando no se haya convertido en inscripción, regla que deberá observarse en cualquier caso de apertura de Folio Real Electrónico.
+
+NOVENO.- Para el caso de errores en el traslado de la información registral, se estará a lo que dispone este Código Civil y la Ley Registral, en tratándose de la corrección de errores materiales.
+
+DÉCIMO.- Los documentos ingresados que obren en el Registro, ya sea inscritos, suspendidos o denegados, con una antigüedad mayor a diez años, contados a partir de la publicación de la presente Ley que no hayan sido retirados por los interesados, deberán remitirse a un Archivo en el Estado de México.
+
+DÉCIMO PRIMERO.- Respecto de todos los libros o legajos que se encuentren en resguardo a la entrada en vigor del presente Decreto, deberá procederse como se establece en la presente Ley, en un plazo no mayor de tres meses contados a partir de su publicación.
+
+DÉCIMO SEGUNDO.- Las referencias en Ley a anotaciones marginales se harán en el Folio.
+
+DÉCIMO TERCERO.- Las Oficinas Registrales mientras no operen con sistema electrónico, seguirán haciendo sus funciones en soporte de papel.
