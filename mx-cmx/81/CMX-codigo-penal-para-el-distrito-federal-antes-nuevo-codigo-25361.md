@@ -4,7 +4,7 @@ identifier: "CMX-codigo-penal-para-el-distrito-federal-antes-nuevo-codigo-25361"
 country: "mx"
 rank: "codigo"
 publication_date: "2002-07-16"
-last_updated: "2011-07-26"
+last_updated: "2011-08-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25361&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2002-07-11"
 
 CODIGO PENAL PARA EL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 26 DE JULIO DE 2011.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 18 DE AGOSTO DE 2011.
 
 Código publicado en la Gaceta Oficial del Distrito Federal, el martes 16 de julio de 2002.
 
@@ -1752,7 +1752,9 @@ ARTÍCULO 190 TER. Cuando el responsable tenga parentesco, conviva o habite ocas
 
 ### CAPÍTULO ÚNICO
 
-> <small>(REFORMADO, G.O. 22 DE JULIO DE 2005)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 18 DE AGOSTO DE 2011)</small>
 
 ###### ARTÍCULO 182.
 
@@ -1920,11 +1922,21 @@ Las sanciones que se señalan en el Título Sexto, del Libro Segundo, se aumenta
 
 ###### ARTÍCULO 193.
 
-Al que incumpla con su obligación de dar alimentos a las personas que tienen derecho a recibirlos, se le impondrá de seis meses a cuatro años de prisión o de noventa a trescientos sesenta días multa, suspensión o pérdida de los derechos de familia, y pago como reparación del daño de las cantidades no suministradas oportunamente.
+Al que incumpla con su obligación de dar alimentos a las personas que tienen derecho a recibirlos, se le impondrá de tres a cinco años de prisión y de cien a cuatrocientos días multa, suspensión o pérdida de los derechos de familia, y pago como reparación del daño a las cantidades no suministradas oportunamente. Si el adeudo excede de noventa días, el Juez ordenará al Registro Civil el ingreso de los datos del sentenciado en el Registro de Deudores Alimentarios Morosos.
+
+> <small>(REFORMADO, G.O. 22 DE JULIO DE 2005)</small>
 
 Para los efectos de éste Artículo, se tendrá por consumado el delito aun cuando el o los acreedores alimentarios se dejen al cuidado o reciban ayuda de un tercero.
 
+> <small>(REFORMADO, G.O. 22 DE JULIO DE 2005)</small>
+
 Cuando no sean comprobables el salario o los ingresos del deudor alimentario, para efectos de cubrir los alimentos o la reparación del daño, se determinarán con base en la capacidad económica y nivel de vida que el deudor y sus acreedores alimentarios hayan llevado en los dos últimos años.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, G.O. 18 DE AGOSTO DE 2011)</small>
+
+Una vez que el sentenciado cumpla con la reparación del daño, el Juez a petición de parte deberá ordenar al Registro Civil la cancelación de la inscripción.
 
 > <small>(REFORMADO, G.O. 22 DE JULIO DE 2005)</small>
 
@@ -4643,3 +4655,11 @@ En la elaboración del protocolo deberá considerarse los estándares internacio
 Cuarto.- La Procuraduría General de Justicia del Distrito Federal y el Tribunal Superior de Justicia del Distrito Federal, en el ámbito de sus competencias, deberán capacitar continuamente al personal encargado de implementar los protocolos de investigación pericial, ministerial y policial del delito de feminicidio.
 
 Quinto.- La Procuraduría General de Justicia del Distrito Federal deberá en un plazo no mayor a seis meses poner en funcionamiento los registros a los que hace referencia el articulo 105 Ter del Código de Procedimientos Penales para el Distrito Federal, así como el Banco de Datos de Información Genética que establece el mismo precepto.
+
+G.O. 18 DE AGOSTO DE 2011.
+
+Primero.- Publíquese en la Gaceta Oficial del Distrito Federal y para su mayor difusión en el Diario Oficial de la Federación.
+
+Segundo.- El presente Decreto entrará en vigor a los 30 días siguientes de su publicación.
+
+Tercero.- Se concede un plazo de noventa días, a partir de la entrada en vigor del presente decreto, para que se realicen las adecuaciones necesarias al Reglamento del Registro Civil.
