@@ -4,7 +4,7 @@ identifier: "OAX-ley-ganadera-del-estado-de-oaxaca-6982"
 country: "mx"
 rank: "ley"
 publication_date: "1969-07-26"
-last_updated: "1969-07-26"
+last_updated: "2011-08-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6982&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "OAX"
 
 LEY GANADERA DEL ESTADO DE OAXACA
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY PECUARIA DEL ESTADO DE OAXACA, PUBLICADA EN EL EXTRA DEL P.O. DE FECHA 18 DE AGOSTO DE 2011, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Estado de Oaxaca, el sábado 26 de Julio de 1969.
 
@@ -362,3 +364,15 @@ Y lo comunico a usted para su conocimiento y fines consiguientes.
 SUFRAGIO EFECTIVO. NO REELECCION.- EL RESPETO AL DERECHO AJENO ES LA PAZ.- Oaxaca de Juárez, a 24 de junio de 1969.- EL SECRETARIO GENERAL DEL DESPACHO, LIC. FERNANDO GOMEZ SANDOVAL.- Rúbrica.
 
 Al C...
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 18 DE AGOSTO DE 2011.
+
+PRIMERO: El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Oaxaca.
+
+SEGUNDO: Con la consideración mencionada en el artículo transitorio anterior, se abroga la ley ganadera para el Estado de Oaxaca publicada en el Periódico Oficial del Estado, número 64 de fecha 1969; así mismo, se abroga la Ley Apícola del Estado de Oaxaca, publicada en el Periódico Oficial del Estado, número 311 de fecha 7 de octubre de 1995.
+
+TERCERO: Se derogan todas las disposiciones que se opongan al presente decreto.
+
+CUARTO: En un plazo no mayor a 180 días a partir de su aprobación, el Ejecutivo del Estado deberá emitir el reglamento de la presente ley.
