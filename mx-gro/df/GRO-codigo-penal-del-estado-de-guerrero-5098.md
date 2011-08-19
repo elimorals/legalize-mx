@@ -4,7 +4,7 @@ identifier: "GRO-codigo-penal-del-estado-de-guerrero-5098"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-11-14"
-last_updated: "2011-08-16"
+last_updated: "2011-08-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5098&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 CODIGO PENAL DEL ESTADO DE GUERRERO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE AGOSTO DE 2011.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE AGOSTO DE 2011.
 
 Código publicado en el Periódico Oficial del Estado de Guerrero, el viernes 14 de noviembre de 1986.
 
@@ -1197,39 +1197,21 @@ XII. Que la secuestrada se encuentre en estado de gravidez.
 
 133.- (DEROGADO, P.O. 21 DE DICIEMBRE DE 2010)
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 17 DE ABRIL DE 2007)</small>
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 16 DE AGOSTI DE 2011)</small>
 
 ### CAPÍTULO V. TRATA DE PERSONAS
 
-> <small>(ADICIONADO, P.O. 17 DE ABRIL DE 2007)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO ARTICULO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
 
-133 BIS.- Comete el delito de trata de personas quien induzca, procure, promueva, facilite, reclute, mantenga, capte, ofrezca, traslade, entregue o reciba para sí o para un tercero a una persona recurriendo a la coacción física o moral, a la privación de la libertad, al engaño, al abuso de poder o de una situación de vulnerabilidad a la concesión o recepción de pagos o beneficios para someterla a cualquier forma de explotación o para extirpar sus órganos, tejidos o sus componentes.
+133 BIS.- (DEROGADO, P.O. 19 DE AGOSTO DE 2011)
 
-Para efectos de este artículo se entenderá por explotación el obtener provecho económico o cualquier otro beneficio para sí o para otra persona, mediante la prostitución ajena u otras formas de explotación sexual, los trabajos o servicios forzados, la esclavitud o las prácticas similares, la servidumbre, la mendicidad ajena o la extracción de órganos, tejidos o componentes.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO ARTICULO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
 
-Cuando las conductas anteriores recaigan en una persona menor de dieciocho años de edad o persona que no tenga la capacidad de comprender el significado del hecho, se considerará como trata de personas incluso cuando no se recurra a ninguno de los medios señalados en el primer párrafo del presente artículo.
+133 BIS 1.- (DEROGADO, P.O. 19 DE AGOSTO DE 2011)
 
-> <small>(ADICIONADO, P.O. 17 DE ABRIL DE 2007)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO ARTICULO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
 
-133 BIS 1.- El consentimiento otorgado por la víctima en cualquier modalidad del delito de trata de personas no constituirá causa que excluye el delito.
-
-> <small>(ADICIONADO, P.O. 17 DE ABRIL DE 2007)</small>
-
-133 BIS 2.- A quien cometa el delito de trata de personas se le aplicará:
-
-I. De seis a doce años de prisión y de quinientos a mil quinientos días multa;
-
-II. De nueve a dieciocho años de prisión, si se emplease violencia física o moral, o el agente se valiese de la función pública que tuviere o hubiese ostentado sin tener. Además, se impondrá la destitución del empleo, cargo o comisión públicos e inhabilitación para desempeñar otro por veinticinco años;
-
-III. Las penas que resulten de las fracciones I y II de este artículo se incrementarán hasta una mitad;
-
-a) Si el delito es cometido en contra de una persona menor de dieciocho años de edad;
-
-b) Si el delito es cometido en contra de una persona mayor de sesenta años de edad;
-
-c) Si el delito es cometido en contra de quien no tenga capacidad para comprender el significado del hecho;
-
-d) Cuando el sujeto activo del delito tenga parentesco por consanguinidad, afinidad o civil, habite en el mismo domicilio con la víctima, tenga una relación similar al parentesco o una relación sentimental o de confianza con el sujeto pasivo; además, en los casos que proceda, perderá la patria potestad, guarda y custodia o régimen de visitas y convivencias, el derecho de alimentos que le correspondiera por su relación con la víctima y el derecho que pudiere tener respecto de los bienes de ésta.
+133 BIS 2.- (DEROGADO, P.O. 19 DE AGOSTO DE 2011)
 
 ### CAPITULO I. AMENAZAS Y DISCRIMINACIÓN
 
@@ -3428,6 +3410,16 @@ SE REFORMA EL ARTICULO 214 DEL CODIGO PENAL DEL ESTADO DE GUERRERO.
 ###### ARTÍCULO PRIMERO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+###### ARTÍCULO SEGUNDO.
+
+Comuníquese el presente Decreto al Titular del Poder Ejecutivo del Estado de Guerrero, para los efectos legales conducentes.
+
+P.O. 19 DE AGOSTO DE 2011.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor a los diez días después del su (sic) publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
 
 ###### ARTÍCULO SEGUNDO.
 
