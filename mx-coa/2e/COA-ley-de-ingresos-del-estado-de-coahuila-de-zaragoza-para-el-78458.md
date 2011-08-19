@@ -4,7 +4,7 @@ identifier: "COA-ley-de-ingresos-del-estado-de-coahuila-de-zaragoza-para-el-7845
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2010-12-24"
-last_updated: "2010-12-24"
+last_updated: "2011-08-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=78458&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE INGRESOS DEL ESTADO PARA EL EJERCICIO FISCAL 2011 DE COAHUILA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE AGOSTO DE 2011.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Coahuila, el viernes el 24 de diciembre de 2010.
 
@@ -161,11 +161,11 @@ Cuando no se cubran las contribuciones en la fecha o dentro de los plazos establ
 
 ###### ARTÍCULO 6.
 
-Se autoriza al Gobierno del Estado para que, por conducto de la Tesorería General del Estado y/o del Servicio de Administración Tributaria del Estado de Coahuila para que de ser conveniente para los intereses del Gobierno del Estado, reestructure los créditos que tenga contratados con el Sistema financiero, y que fueron autorizados por el H. Congreso del Estado.
+(DEROGADO, P.O. 19 DE AGOSTO DE 2011)
 
 ###### ARTÍCULO 7.
 
-Se autoriza al Ejecutivo del Estado para que, por conducto de la Tesorería General del Estado y/o del Servicio de Administración Tributaria del Estado de Coahuila, afecte en garantía y/o fuente de pago de todas y cada una de las obligaciones que contraiga por los créditos o empréstitos que contrate como deudor directo o contingente en términos del artículo 6 de esta Ley, las participaciones que en ingresos federales le correspondan al Estado, sin perjuicio de afectaciones anteriores.
+(DEROGADO, P.O. 19 DE AGOSTO DE 2011)
 
 ###### ARTÍCULO 8.
 
@@ -206,6 +206,12 @@ Se consideran créditos de cobro incosteable, aquellos cuyo importe sea inferior
 Cuando el deudor tenga dos o más créditos a su cargo, todos ellos se sumarán para determinar si se cumplen los requisitos señalados en el párrafo anterior. La cancelación de los créditos a que se refiere este artículo no libera de su pago.
 
 Se consideran insolventes los deudores o los responsables solidarios cuando no tengan bienes para cubrir el crédito, cuando éstos no se puedan localizar o cuando hubieran fallecido sin dejar bienes que puedan ser objeto del procedimiento administrativo de ejecución.
+
+> <small>(ADICIONADO, P.O. 19 DE AGOSTO DE 2011)</small>
+
+###### ARTÍCULO 12.
+
+Los ingresos previstos en esta Ley se incrementarán en función de los montos y conceptos de endeudamiento autorizados en el "DECRETO POR EL QUE SE AUTORIZA AL ESTADO DE COAHUILA DE ZARAGOZA A CONTRATAR EMPRÉSTITOS PARA SER DESTINADOS AL REFINANCIAMIENTO DE LA DEUDA PÚBLICA ESTATAL A SU CARGO QUE SE INDICA, Y A CELEBRAR LAS DEMÁS OPERACIONES FINANCIERAS Y ACTOS JURÍDICOS QUE SE SEÑALAN", aprobado por el Congreso del Estado Independiente, Libre y Soberano de Coahuila de Zaragoza.
 
 T R A N S I T O R I O S
 
@@ -264,3 +270,23 @@ PROFR. VÍCTOR MANUEL ZAMORA RODRÍGUEZ
 (RÚBRICA)
 
 > <small>N. DE E. VEASE ANEXO EN LA PRIMERA SECCION DEL P.O. DE 24 DE DICIEMBRE DE 2010, PAGINA 6.</small>
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 19 DE AGOSTO DE 2011.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Coahuila de Zaragoza.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan a lo dispuesto en este Decreto.
+
+###### ARTÍCULO TERCERO.
+
+En la cuenta pública correspondiente al ejercicio fiscal 2011, el Titular del Poder Ejecutivo informará a este Congreso General del Estado los montos, conceptos y partidas objeto de modificación en el Presupuesto de Egresos del Estado.
+
+###### ARTÍCULO CUARTO.
+
+Publíquese en el Periódico Oficial del Gobierno del Estado de Coahuila de Zaragoza.
