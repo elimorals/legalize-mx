@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-la-escuela-militar-de-ingenieria-antes-49"
 country: "mx"
 rank: "reglamento"
 publication_date: "1993-04-13"
-last_updated: "2004-08-16"
+last_updated: "2011-08-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=49&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1993-04-12"
 
 REGLAMENTO DE LA ESCUELA MILITAR DE INGENIEROS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 16 DE AGOSTO DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 19 DE AGOSTO DE 2011.
 
 Reglamento publicado en la Sección Segunda del Diario Oficial de la Federación, el martes 13 de abril de 1993.
 
@@ -1019,17 +1019,21 @@ II. El personal procedente de Tropa del Ejército y de la Fuerza Aérea y los ci
 
 Los militares y civiles de nacionalidad extranjera que ingresen al plantel, lo harán en calidad de becarios y se regirán durante su estancia en él, por lo establecido en la Ley Orgánica del Ejército y Fuerza Aérea Mexicanos en las partes aplicables y en el presente Reglamento; no estarán sujetos al fuero de guerra que comprende faltas y delitos contra la disciplina militar, regulándose su situación disciplinaria, en cada caso, como lo determine la Secretaría de la Defensa Nacional.
 
-> <small>(ADICIONADO, D.O.F. 22 DE JUNIO DE 2001)</small>
+> <small>(REFORMADO, D.O.F. 19 DE AGOSTO DE 2011)</small>
 
 ###### ARTICULO 42.
 
-El personal de cadetes que termine satisfactoriamente el 4o. año de alguna de las carreras que se imparten en el plantel, causará baja como tal y alta como Subteniente Pasante de Ingeniería, empleo que ostentará mientras permanezca en la escuela; al causar baja del plantel por situarse en lo establecido en el artículo 68, fracciones II, III, IV, V y VII, de este Reglamento podrá ser reclasificado al Arma o Servicio afín a la carrera que cursa y asignado al organismo que determine la Secretaría de la Defensa Nacional.
+El personal en instrucción que termine satisfactoriamente el cuarto año de alguna de las carreras que se imparten en el plantel, recibirá el grado de Subteniente Pasante de Ingeniería, empleo que ostentará mientras permanezca en la escuela.
 
-> <small>(ADICIONADO, D.O.F. 22 DE JUNIO DE 2001)</small>
+El personal de Oficiales en Instrucción que termine satisfactoriamente el cuarto año de estudios, conservará el grado jerárquico que ostente, como Pasante de Ingeniería, mientras permanezca en la escuela.
+
+El personal de Pasantes en Ingeniería que cause baja del plantel por situarse en lo establecido en el artículo 68, fracciones II, III, IV, V y VII, de este Reglamento podrá ser reclasificado al Arma o Servicio afín a la carrera que cursa y asignado al organismo que determine la Secretaría de la Defensa Nacional.
+
+> <small>N. DE E. LA PRESENTE REFORMA NO APLICARA A LOS DISCENTES QUE EN LA FECHA DE ENTRADA EN VIGOR DEL PRESENTE DECRETO, YA HAYAN INICIADO ESTUDIOS DE TIPO SUPERIOR DE NIVEL LICENCIATURA EN DICHAS INSTITUCIONES EDUCATIVAS MILITARES.</small>
 
 ###### ARTICULO 42 Bis.
 
-Los Subtenientes Pasantes de Ingeniería que terminen satisfactoriamente el 5o. año de alguna de las carreras que se imparten en el plantel, causarán baja como tal y alta como Tenientes Pasantes de Ingeniería, empleo que ostentarán mientras permanezcan en la escuela; al causar baja del plantel por situarse en lo establecido en el artículo 68, fracciones II, III, IV, V y VII, de este Reglamento podrán ser reclasificados al Arma o Servicio afín a la carrera que cursan y asignados al organismo que determine la Secretaría de la Defensa Nacional.
+(DEROGADO, D.O.F. 19 DE AGOSTO DE 2011)
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 22 DE JUNIO DE 2001)</small>
 
@@ -1349,7 +1353,11 @@ I. Certificado de Estudios;
 
 II. Título Profesional;
 
-III. Grado de Capitán Primero Ingeniero Constructor, Industrial, en Comunicaciones y Electrónica o en Computación e Informática, según corresponda;
+> <small>N. DE E. LA PRESENTE REFORMA NO APLICARA A LOS DISCENTES QUE EN LA FECHA DE ENTRADA EN VIGOR DEL PRESENTE DECRETO, YA HAYAN INICIADO ESTUDIOS DE TIPO SUPERIOR DE NIVEL LICENCIATURA EN DICHAS INSTITUCIONES EDUCATIVAS MILITARES.</small>
+
+> <small>(REFORMADA, D.O.F. 19 DE AGOSTO DE 2011)</small>
+
+III. Grado de Subteniente Ingeniero Constructor, Industrial, en Comunicaciones y Electrónica o en Computación e Informática, según corresponda; el personal de Oficiales en Instrucción conservará el grado jerárquico que ostente, como Ingeniero, conforme a los estudios que hayan realizado;
 
 IV. Patente;
 
@@ -1522,3 +1530,15 @@ D.O.F. 16 DE AGOSTO DE 2004.
 ###### ARTÍCULO ÚNICO.
 
 El presente decreto entrará en vigor a partir del día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 19 DE AGOSTO DE 2011.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Las erogaciones que deriven de la aplicación del presente Decreto serán realizadas mediante movimientos compensados, por lo que la Secretaría de la Defensa Nacional, debe sujetarse a su presupuesto autorizado para el presente ejercicio fiscal y no incrementar su presupuesto regularizable.
+
+TERCERO.- Se derogan las disposiciones que se opongan al presente Decreto.
+
+CUARTO.- La reforma de los artículos 78, fracción I, inciso C y 80, fracción V del Reglamento de la Escuela Médico Militar; 77, fracción III del Reglamento de la Escuela Militar de Odontología y 78, fracción III y la derogación del 42 BIS del Reglamento de la Escuela Militar de Ingenieros, no aplicará a los discentes que en la fecha de entrada en vigor del presente Decreto, ya hayan iniciado estudios de tipo superior de nivel licenciatura en dichas Instituciones Educativas Militares.
+
+QUINTO.- Los discentes que se encuentren en el supuesto que antecede, una vez que culminen satisfactoriamente sus estudios y aprueben el examen profesional correspondiente, obtendrán la jerarquía que se preveía antes de la entrada en vigor del presente Decreto.
