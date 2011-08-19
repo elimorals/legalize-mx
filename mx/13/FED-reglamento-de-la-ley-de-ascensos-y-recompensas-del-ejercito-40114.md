@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-la-ley-de-ascensos-y-recompensas-del-ejercito-401
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-07-19"
-last_updated: "2009-06-08"
+last_updated: "2011-08-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40114&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2004-07-13"
 
 REGLAMENTO DE LA LEY DE ASCENSOS Y RECOMPENSAS DEL EJERCITO Y FUERZA AEREA MEXICANOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 8 DE JUNIO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 19 DE AGOSTO DE 2011.
 
 Reglamento publicado en la Sección Segunda del Diario Oficial de la Federación, el lunes 19 de julio de 2004.
 
@@ -99,7 +99,9 @@ Para los ascensos por promoción, la Secretaría anualmente realizará las sigui
 
 I. Promoción de Sargentos Primeros Especialistas, para el personal de esta jerarquía que carece de escuelas de formación de oficiales;
 
-II. Promoción Especial, para los Subtenientes de arma o servicio egresados de escuelas de formación de oficiales que cumplan los requisitos de tiempo de servicio, antigüedad en el Grado y demás especificados en la Ley;
+> <small>(REFORMADA, D.O.F. 19 DE AGOSTO DE 2011)</small>
+
+II. Promoción Especial, para los Subtenientes de arma o servicio que cumplan los requisitos de tiempo de servicio, antigüedad en el Grado y demás especificados en la Ley y que hayan egresado de instituciones educativas militares que imparten estudios de tipo superior de nivel licenciatura o escuelas de formación de oficiales o hayan obtenido su grado en términos de la fracción III del artículo 9 de la Ley;
 
 III. Promoción General, para los Mayores y oficiales que reúnan los requisitos especificados en la Ley, incluyendo a los Subtenientes que no logren su ascenso en la promoción especial, y
 
@@ -181,6 +183,10 @@ El tiempo de servicios se acreditará con el extracto de antecedentes que formul
 
 La antigüedad en el Grado se acreditará con la Patente o Nombramiento respectivo del último ascenso, así como con las órdenes de ascenso que para ese efecto hayan girado las Direcciones.
 
+> <small>(ADICIONADO, D.O.F. 19 DE AGOSTO DE 2011)</small>
+
+En el caso de la promoción especial, los Subtenientes que hayan obtenido su grado conforme a la fracción III del artículo 9 de la Ley, acreditarán la antigüedad en el Grado, con las órdenes de ascenso y patente que para ese efecto hayan girado las Direcciones, por aprobar el cuarto año de sus respectivas carreras.
+
 #### SECCIÓN CUARTA. Tiempo de servicios en el Grado
 
 ###### ARTÍCULO 17.
@@ -223,7 +229,13 @@ Para determinar la conducta general, se asignará una escala de cien puntos como
 
 I. Para los participantes en la Promoción de Sargentos Primeros Especialistas con un año de antigüedad, cien puntos para cada año; y con cincuenta, para los que tengan dos años de antigüedad;
 
-II. Para los participantes en las Promociones General, Especial y de Sargentos Primeros Especialistas con tres o más años de antigüedad en el empleo, treinta y cinco puntos para cada uno de los dos años anteriores y treinta puntos para el año de la Promoción;
+> <small>(REFORMADA, D.O.F. 19 DE AGOSTO DE 2011)</small>
+
+II. Para los participantes en las Promociones General, Especial y de Sargentos Primeros Especialistas:
+
+A. Con dos años de antigüedad en el empleo, cincuenta puntos por el año anterior y cincuenta puntos para el año de la Promoción;
+
+B. Con tres o más años de antigüedad en el empleo, treinta y cinco puntos para cada uno de los dos años anteriores y treinta puntos para el año de la Promoción;
 
 III. Si durante un año se elabora más de un Acta de Consejo de Honor o Certificado de Conducta, la puntuación asignada al año de que se trate se dividirá entre el total de documentos existentes y el resultado se multiplicará por el número de aquéllos en que se haya asentado buena conducta, y
 
@@ -567,11 +579,15 @@ El personal egresado de los Planteles Militares obtendrá la jerarquía que esta
 
 La Dirección General de Educación Militar y Rectoría de la Universidad del Ejército y Fuerza Aérea acreditará la aprobación de los cursos con el certificado de estudios o el título correspondiente, a fin de que las Direcciones giren las órdenes de ascenso y expidan los nombramientos y patentes respectivos.
 
-#### SECCIÓN TERCERA. Por Aprobación del Cuarto y Quinto año de las carreras en las Escuelas Militar de Ingenieros y Médico Militar
+> <small>(REFORMADA SU DENOMINACION, D.O.F. 19 DE AGOSTO DE 2011)</small>
+
+#### SECCIÓN TERCERA. Por Aprobación del Cuarto año de las carreras en las Escuelas Militar de Ingenieros y Médico Militar
+
+> <small>(REFORMADO, D.O.F. 19 DE AGOSTO DE 2011)</small>
 
 ###### ARTÍCULO 48.
 
-A los pasantes de las carreras de ingeniería y medicina, se les otorgará la jerarquía que establezca el Reglamento Interior de su Plantel, siempre que hayan aprobado satisfactoriamente los exámenes correspondientes.
+Quienes aprueben el cuarto año de las carreras de ingeniería y medicina, serán considerados pasantes y se les otorgará la jerarquía que establezca el Reglamento Interior de su Plantel.
 
 ###### ARTÍCULO 49.
 
@@ -2138,3 +2154,15 @@ PRIMERO.- El presente Decreto entrará en vigor el día de su publicación en el
 SEGUNDO.- La Promoción Superior del presente año se realizará conforme a lo dispuesto por el presente Decreto.
 
 TERCERO.- Las Condecoraciones al Mérito Docente otorgadas conforme a las normas reglamentarias vigentes hasta la entrada en vigor del presente Decreto, podrán seguir siendo usadas por las personas condecoradas.
+
+D.O.F. 19 DE AGOSTO DE 2011.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Las erogaciones que deriven de la aplicación del presente Decreto serán realizadas mediante movimientos compensados, por lo que la Secretaría de la Defensa Nacional, debe sujetarse a su presupuesto autorizado para el presente ejercicio fiscal y no incrementar su presupuesto regularizable.
+
+TERCERO.- Se derogan las disposiciones que se opongan al presente Decreto.
+
+CUARTO.- La reforma de los artículos 78, fracción I, inciso C y 80, fracción V del Reglamento de la Escuela Médico Militar; 77, fracción III del Reglamento de la Escuela Militar de Odontología y 78, fracción III y la derogación del 42 BIS del Reglamento de la Escuela Militar de Ingenieros, no aplicará a los discentes que en la fecha de entrada en vigor del presente Decreto, ya hayan iniciado estudios de tipo superior de nivel licenciatura en dichas Instituciones Educativas Militares.
+
+QUINTO.- Los discentes que se encuentren en el supuesto que antecede, una vez que culminen satisfactoriamente sus estudios y aprueben el examen profesional correspondiente, obtendrán la jerarquía que se preveía antes de la entrada en vigor del presente Decreto.
