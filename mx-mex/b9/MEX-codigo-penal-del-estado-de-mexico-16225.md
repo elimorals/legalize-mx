@@ -4,7 +4,7 @@ identifier: "MEX-codigo-penal-del-estado-de-mexico-16225"
 country: "mx"
 rank: "codigo"
 publication_date: "2000-03-20"
-last_updated: "2011-08-12"
+last_updated: "2011-08-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16225&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CODIGO PENAL DEL ESTADO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 12 DE AGOSTO DE 2011.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 19 DE AGOSTO DE 2011.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el lunes 20 de marzo del 2000.
 
@@ -2645,7 +2645,9 @@ VII. Cuando la víctima u ofendido sea ascendiente, descendiente, hermano, pupil
 
 VIII. Cuando las lesiones a que se refiere éste artículo se infieran a los menores, incapaces o pupilos que se encuentren bajo la patria potestad, tutela o custodia del inculpado, se impondrá además de la pena correspondiente, la suspensión o privación de esos derechos;
 
-IX. (DEROGADA, G.G. 18 DE MARZO DE 2011)
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 19 DE AGOSTO DE 2011)</small>
+
+IX.- Cuando las lesiones se produzcan contra una persona en ejercicio de la actividad periodística, se aplicarán de seis meses a dos años de prisión y de cincuenta a ciento cincuenta días multa.
 
 ###### Artículo 239.
 
@@ -2698,6 +2700,10 @@ Se sancionará como homicidio a quien a sabiendas de que padece una enfermedad g
 El delito de homicidio, se sancionará en los siguientes términos:
 
 I. Al responsable de homicidio simple, se le impondrán de diez a quince años de prisión y de doscientos cincuenta a trescientos setenta y cinco días multa;
+
+> <small>(ADICIONADO, G.G. 19 DE AGOSTO DE 2011)</small>
+
+Cuando el homicidio se cometa contra una persona en ejercicio de la actividad periodística, se le impondrán de doce a veinte años de prisión y de trescientos a quinientos cincuenta días multa.
 
 > <small>(REFORMADA, G.G. 10 DE AGOSTO DE 2004)</small>
 
@@ -4252,3 +4258,9 @@ PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del G
 SEGUNDO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
 
 TERCERO.- El Sistema para el Desarrollo Integral de la Familia del Estado de México, con el objeto de cumplir con lo dispuesto en la fracción XXI del artículo 18 de la Ley para la Protección de los Derechos de las Niñas, Niños y Adolecentes (sic) del Estado de México, dispondrá de un plazo de seis meses contados a partir de la publicación del presente decreto para desarrollar la base de datos correspondientes.
+
+G.G. 19 DE AGOSTO DE 2011.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
