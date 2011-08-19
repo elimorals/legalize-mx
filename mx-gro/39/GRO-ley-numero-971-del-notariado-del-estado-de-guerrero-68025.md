@@ -4,7 +4,7 @@ identifier: "GRO-ley-numero-971-del-notariado-del-estado-de-guerrero-68025"
 country: "mx"
 rank: "ley"
 publication_date: "2009-03-27"
-last_updated: "2009-03-27"
+last_updated: "2011-08-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68025&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY NUMERO 971 DEL NOTARIADO DEL ESTADO DE GUERRERO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE AGOSTO DE 2011.
 
 Ley publicada en el Alcance I del Periódico Oficial del Estado de Guerrero, el viernes 27 de marzo de 2009.
 
@@ -49,11 +49,17 @@ La presente Ley es de orden público y de interés social, tiene por objeto regu
 
 Son autoridades para la aplicación de esta Ley:
 
-I. El Gobernador del Estado, toda vez que el Ejecutivo es el depositario original de la fe pública y función notarial quien por delegación la encomienda a licenciados en derecho para que lleven a cabo el servicio público inherente a tal función;
+> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2011)</small>
 
-II. La Secretaría General de Gobierno;
+I. El Gobernador del Estado;
 
-III. La Dirección General de Asuntos Jurídicos de la Secretaría General de Gobierno.
+> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2011)</small>
+
+II. El Secretario General de Gobierno, y
+
+> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2011)</small>
+
+III. El Director General de Asuntos Jurídicos de la Secretaría General de Gobierno.
 
 ###### ARTÍCULO 3.
 
@@ -83,19 +89,29 @@ XI. Estado: El Estado Libre y Soberano de Guerrero;
 
 XII. Ley: La Ley del Notariado para el Estado de Guerrero;
 
-XIII. Notariado: La función pública que el Estado organiza para el ejercicio de la fe pública;
+> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2011)</small>
 
-XIV. Notario: El Licenciado en derecho, investido de fe pública por delegación del Ejecutivo para ejercer el servicio público de la función notarial, para hacer constar los hechos o actos que conforme a las Leyes deben ser autorizados por ellos para proporcionarles autenticidad;
+XIII. Notariado: Notariado del Estado Libre y Soberano de Guerrero;
 
-XV. Periódico: El Periódico Oficial del Gobierno del Estado de Guerrero;
+> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2011)</small>
+
+XIV. Notario: Es un profesional del derecho investido de fe pública por el Estado, a través del titular del Poder Ejecutivo y que tiene a su cargo recibir, dar forma legal a la voluntad de las personas que ante él acuden y conferir autenticidad y certeza jurídica a los actos y hechos pasados ante su fe, de conformidad con las disposiciones normativas aplicables, mediante la consignación de los mismos en instrumentos públicos de su autoría, los cuales asienta en el protocolo a su cargo;
+
+> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2011)</small>
+
+XV. Periódico Oficial: Periódico Oficial del Gobierno del Estado de Guerrero;
 
 XVI. Registro Público: El Registro Público de la Propiedad, del Comercio y del Crédito Agrícola del Estado de Guerrero;
 
-XVII. Leyes Fiscales Federales: La Ley del Impuesto Sobre la Renta, Ley del Impuesto al Valor Agregado, Código Fiscal de la Federación, Ley Federal de Derechos, y otras disposiciones jurídicas federales vigentes;
+XVII. (DEROGADA, P.O. 19 DE AGOSTO DE 2011)
 
-XVIII. Leyes Fiscales Estatales: La Ley de Hacienda del Estado de Guerrero, Ley de Ingresos del Estado, Código Fiscal del Estado de Guerrero, y otras disposiciones jurídicas Estatales vigentes; y
+XVIII. (DEROGADA, P.O. 19 DE AGOSTO DE 2011)
 
-XIX. Leyes Fiscales Municipales: La Ley de Hacienda Municipal, Ley de Ingresos del Municipio, Código Fiscal Municipal, y otras disposiciones jurídicas municipales vigentes.
+XIX. (DEROGADA, P.O. 19 DE AGOSTO DE 2011)
+
+> <small>(ADICIONADA, P.O. 19 DE AGOSTO DE 2011)</small>
+
+XX.- Consejo: el Consejo Directivo del Colegio de Notarios;
 
 ###### ARTÍCULO 4.
 
@@ -111,11 +127,13 @@ El Ejecutivo del Estado está facultado para crear por decreto, nuevas notarías
 
 ###### ARTÍCULO 7.
 
-La colegiación es inherente al cargo de Notario, se genera o cancela inmediatamente con la adquisición o pérdida de tal carácter.
+(DEROGADO, P.O. 19 DE AGOSTO DE 2011)
+
+> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2011)</small>
 
 ###### ARTÍCULO 8.
 
-El Notario es inamovible de su cargo, salvo los casos previstos en esta Ley.
+Los Notarios son inamovibles y su patente es definitiva y permanente, salvo los casos previstos en esta Ley.
 
 ## TÍTULO SEGUNDO. DE LA FUNCIÓN NOTARIAL
 
@@ -125,59 +143,77 @@ El Notario es inamovible de su cargo, salvo los casos previstos en esta Ley.
 
 Toda persona tiene derecho, en los términos de la presente Ley, a la prestación del servicio de la fe pública cuando fuere requerido el Notario, siempre y cuando éste no tenga impedimento legal para hacerlo.
 
+> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2011)</small>
+
 ###### ARTÍCULO 10.
 
-Las autoridades podrán requerir de los servicios públicos, del Notario y éste deberá prestarlos para atender asuntos de orden público o de interés social. En estos casos las autoridades y el Notario convendrán sobre los honorarios correspondientes en cantidad inferior a las fijadas en el arancel notarial.
+Cuando las autoridades requieran los servicios de un Notario para atender asuntos de orden público como los relacionados con núcleos agrarios, asociaciones civiles o algún otro asunto o programa de interés social, el fedatario deberá prestar sus servicios acordando con la autoridad requeriente (sic), los honorarios en cantidad reducida en más de cincuenta por ciento de los señalado (sic) en arancel autorizado; en caso de que el evento no estuviere previsto en el arancel, se convendrá el monto de los honorarios de tal manera que estos no desnaturalice el objetivo de los programas sociales.
 
 ###### ARTÍCULO 11.
 
-Los Notarios participarán también, con honorarios reducidos en más del cincuenta por ciento con las autoridades correspondientes, en programas de interés social.
+(DEROGADO, P.O. 19 DE AGOSTO DE 2011)
 
-En tratándose de asuntos relacionados con núcleos agrarios y asociaciones civiles, los actos notariales tendrán un costo del 50% menos del considerado en el arancel vigente.
+> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2011)</small>
 
 ###### ARTÍCULO 12.
 
-El día en que se desarrolle una jornada electoral, los Notarios despacharán para atender inmediata y gratuitamente las solicitudes escritas de los servidores públicos de casilla, de los representantes de partido, de los candidatos o de los ciudadanos, para lo cual se trasladarán físicamente al lugar donde se les requiera dentro de su Distrito Notarial, a efecto de dar fe de hechos concretos o certificar documentos concernientes a la elección.
+El día en que se desarrolle una jornada electoral, los Notarios estarán obligados a prestar sus servicios para atender inmediata y gratuitamente las solicitudes escritas de los funcionarios de casilla, de los representantes de partido, de los candidatos o de los ciudadanos, para lo cual se trasladarán físicamente al lugar donde se les requiera dentro de su Distrito Notarial, a efecto de dar fe de hechos concretos o certificar documentos concernientes a la elección.
 
 ###### ARTÍCULO 13.
 
 Las autoridades estatales y municipales deberán auxiliar a los Notarios, cuando en el ejercicio de la función notarial se involucre el interés público y resulte ineludible conservar el orden público y la paz social, salvaguardando la integridad del fedatario.
 
+> <small>(ADICIONADO, P.O. 19 DE AGOSTO DE 2011)</small>
+
+Se aplicarán las penas que correspondan al servidor público que obstaculice o impida a un notario el ejercicio de sus funciones o no le preste el auxilio que requiera para esos fines, debiendo prestarlos.
+
+> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2011)</small>
+
 ###### ARTÍCULO 14.
 
-Cada notaría será atendida personalmente por el Notario y su personal auxiliar, salvo en los casos de excepción que indica esta Ley.
+Cada notaría será atendida personalmente por el Notario; salvo en los casos de excepción que indica esta Ley.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE AGOSTO DE 2011)</small>
 
 ###### ARTÍCULO 15.
 
-El ejercicio de la función notarial es personalísimo; el Notario otorgará la fe pública en cada caso concreto, con plenas garantías de imparcialidad, honradez, autonomía, legalidad y profesionalismo, con principios éticos y siempre de buena fe, tratando por igual a las partes en el asunto, sin preferencias, independientemente de quien lo haya solicitado o de quien paga sus servicios.
+La función notarial es personalísima; el Notario otorgará la·fe pública en cada caso concreto, con plenas garantías de imparcialidad, honradez, autonomía, legalidad y profesionalismo, con principios éticos y siempre de buena fe, tratando por igual, a las partes en el asunto, sin preferencias, independientemente de quien lo haya solicitado o de quien paga sus servicios.
 
 Los derechos de los prestatarios frente a los notarios serán los siguientes:
 
 I. Ser atendidos personalmente por el Notario titular, con profesionalismo;
 
-II. Ser informados por el Notario de los beneficios fiscales y facilidades administrativas que en su caso aplicará a su trámite;
+> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2011)</small>
 
-III. Obtener información del Notario en cualquier etapa del procedimiento que se realiza ante éste;
+II.- Ser asesorados por el Notario en los trámites que soliciten;
+
+> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2011)</small>
+
+III.- Obtener información del Notario en relación con los trámites solicitados;
 
 IV. Recibir copia de la solicitud de entrada y trámite al Registro Público o del documento que haga sus veces, así como ser informado acerca del estado que guarda el trámite registral;
 
-V. Recibir copia certificada de los comprobantes del pago de los impuestos, derechos y contribuciones correspondientes de las operaciones de actos o hechos notariales efectuados, independientemente que los originales, obren en el apéndice respectivo;
+V. (DEROGADA, P.O. 19 DE AGOSTO DE 2011)
 
 VI. Que el Notario le explique claramente la naturaleza, valor y alcance legal del acto u operación notarial que solicita, con la finalidad de que el prestatario entienda y comprenda el acto o la operación.
 
+> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2011)</small>
+
 ###### ARTÍCULO 16.
 
-Los Notarios, al no ser remunerados por el Estado, tendrán derecho a cobrar a los interesados los honorarios por su servicio público conforme al Arancel autorizado por el Ejecutivo del Estado. En caso contrario, se le impondrán las sanciones que la falta amerite, en los términos que señala esta Ley.
+Los Notarios, al no ser remunerados por el Estado, tendrán derecho a cobrar a los interesados los honorarios correspondientes por la prestación de sus servicios conforme al Arancel autorizado por el Ejecutivo del Estado. En aquellos casos que la Ley establezca la obligación de los notarios de prestar sus servicios en forma gratuita o percibir honorarios menores al cincuenta por ciento de los señalados en arancel, por el incumplimiento, se le impondrán las sanciones que la falta amerite, en los términos que señala esta Ley.
+
+> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2011)</small>
 
 ###### ARTÍCULO 17.
 
-La aprobación del Arancel, tendrá como soporte el estudio técnico socioeconómico que haga el Gobernador para determinar el costo económico del servicio de la función pública notarial que en principio está encomendada al Ejecutivo pero que éste la deriva en el Notario para el ejercicio de la fe pública en nombre del Estado.
+El Arancel determinará el costo económico del servicio de la función notarial, para que haya certeza y se genere confianza en los ciudadanos.
 
-Lo anterior, con el objeto de no hacer nugatorios los derechos de la ciudadanía para regularizar sus posesiones o derechos o dar validez a los actos o hechos que conforme a la Ley deben pasar ante la fe pública con la que el Estado inviste al Notario.
+> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2011)</small>
 
 ###### ARTÍCULO 18.
 
-El Notario y sus empleados guardarán reserva sobre los asuntos tratados en su notaría, salvo cuando la autoridad competente les ordene revelar información de dichos asuntos o bien que se dé a conocer por la propia naturaleza de la función notarial.
+El Notario y sus empleados guardarán reserva sobre los asuntos tratados en su notaría, salvo cuando la autoridad competente les ordene fundadamente revelar información de dichos asuntos o bien que se dé a conocer por la propia naturaleza de la función notarial.
 
 ###### ARTÍCULO 19.
 
@@ -205,9 +241,11 @@ Para fortalecer los principios de imparcialidad y autonomía de los servicios no
 
 De acreditarse que el fedatario actúa o para ese efecto tiene alguno de sus libros o folios del protocolo fuera de su Distrito Notarial, el Ejecutivo del Estado lo sancionará con la revocación de su patente.
 
+> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2011)</small>
+
 ###### ARTÍCULO 24.
 
-La notaría permanecerá abierta al público de lunes a viernes por lo menos ocho horas cada día; sin embargo, en aquel Distrito Notarial donde exista mas de un Notario, éstos convendrán la instalación de guardias en sábados, domingos y días de descanso obligatorios por Ley para dar el servicio público; consecuentemente la función notarial puede ejercerse en cualquier día y hora sea hábil o inhábil, debiendo observar, por lo que hace a sus empleados, las disposiciones que la Constitución y Leyes laborales establezcan.
+La notaría permanecerá abierta al público de lunes a viernes, por lo menos ocho horas cada día. La función notarial puede ejercerse en cualquier día y hora sea hábil o inhábil.
 
 ###### ARTÍCULO 25.
 
@@ -221,15 +259,17 @@ A todas las personas que no sean Notarios del Estado se les prohíbe utilizar an
 
 ###### ARTÍCULO 27.
 
-El ejercicio de la función notarial es incompatible con el desempeño de cualquier empleo de carácter privado o público; cargo de elección popular o cargo judicial; función eclesiástica y toda otra actividad, que pudiere afectar la imparcialidad y autonomía del Notario o la adecuada atención de sus tareas notariales.
+(DEROGADO, P.O. 19 DE AGOSTO DE 2011)
 
 ###### ARTÍCULO 28.
 
 El ejercicio de la profesión de abogado en asuntos en los que haya controversia o litigio son incompatibles con la función notarial, salvo que se trate de causa propia del Notario, o en asuntos en los que intervenga su cónyuge o sus parientes consanguíneos en línea recta ascendente y descendente hasta el cuarto grado.
 
+> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2011)</small>
+
 ###### ARTÍCULO 29.
 
-El ejercicio de la función notarial también es incompatible con el desempeño de cargos de elección popular y con el de servidor público de la administración pública central y paraestatal, federal o municipal; sin embargo, si el Notario desea contender y, en su caso, desempeñar tales cargos deberá renunciar a la patente de Notario.
+El ejercicio de la función notarial es incompatible con el desempeño de cargos de funciones eclesiásticas y también con el desempeño (sic) cargos judiciales, de elección popular y con el de servidor público de la administración pública central y paraestatal, en el ámbito federal, estatal o municipal o dentro de los organismos públicos autónomos; sin embargo, si el Notario desea contender para ocupar un cargo de elección popular o desea desempeñar cualquier cargo en el servicio público deberá obtener del Secretario General de Gobierno, por escrito la licencia respectiva para separarse de sus funciones de Notario por el tiempo que dure el cargo o puesto a desempeña (sic) en términos de los artículos 61 y 151 de esta Ley.
 
 ###### ARTÍCULO 30.
 
@@ -249,13 +289,19 @@ V. Intervenir, patrocinar y representar a los interesados en los procedimientos 
 
 Queda prohibido al Notario:
 
-I. Otorgar la fe pública cuando no tuviere bases, en los términos de esta Ley, para identificar debidamente a los comparecientes;
+> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2011)</small>
 
-II. Ejercer, como abogado postulante o agente de cambio o ministro de cualquier culto;
+I.- Otorgar la fe pública cuando no tuviere bases para identificar debidamente a los comparecientes, en términos de esta ley;
+
+> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2011)</small>
+
+II.- Ejercer, como abogado postulante o ministro de cualquier culto;
 
 III. Dar fe de actos, hechos o situaciones con respecto de los cuales haya intervenido previamente como abogado;
 
-IV. Actuar en aquellos asuntos que estén fuera de su competencia y facultades, como los jurisdiccionales;
+> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2011)</small>
+
+IV. - Actuar en aquellos asuntos que estén fuera de sus facultades;
 
 V. Ejercer sus funciones si el objeto, el motivo expresado o conocido por el Notario, o el fin del acto o hecho, es contrario a la Ley, a las buenas costumbres, o si el objeto del acto o hecho es física o legalmente imposible;
 
@@ -283,7 +329,9 @@ X. Las demás que establezcan esta Ley, otras Leyes y ordenamientos relativos a 
 
 El Notario solamente podrá excusarse de prestar sus servicios notariales, en los casos siguientes:
 
-I. En días inhábiles y en horas que no sean las de su oficina cuando no le corresponda atender la guardia de la función notarial, salvo que se trate del otorgamiento de un testamento u otro caso de urgencia inaplazable, o se lo solicite el Ejecutivo del Estado; y
+> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2011)</small>
+
+l.- En días inhábiles y en horas que no sean las de su oficina, salvo que se trate del otorgamiento de un testamento u otro caso de urgencia inaplazable, se lo solicite el Ejecutivo del Estado o lo obligue algún otro ordenamiento jurídico aplicable; y
 
 II. Cuando no se aporten al Notario los elementos necesarios para conocer con plenitud el asunto, o no le anticipen los gastos y honorarios correspondientes, excepción hecha de un testamento en caso urgente, el cual será autorizado por el Notario, sin anticipo de gastos y honorarios.
 
@@ -293,7 +341,9 @@ A las personas que dejaron de ejercer la fe notarial les queda prohibido interve
 
 ## TÍTULO TERCERO. DEL NOTARIO
 
-### CAPÍTULO I. DE LA COMPETENCIA TERRITORIAL
+> <small>(REFORMADA SU DENOMINACION, P.O. 19 DE AGOSTO DE 2011)</small>
+
+### CAPÍTULO I. DEL ÁMBITO TERRITORIAL
 
 ###### ARTÍCULO 34.
 
@@ -307,9 +357,11 @@ El Notario sólo podrá ejercer sus funciones dentro del Distrito Notarial de su
 
 En los Distritos Notariales en donde haya varios Notarios, éstos ejercerán sus funciones indistintamente, en las demarcaciones señaladas para todos.
 
+> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2011)</small>
+
 ###### ARTÍCULO 37.
 
-La actuación del Notario en todos los asuntos de su competencia, debe consignarse de manera documental. Para ello la Ley le autoriza el uso del protocolo notarial en el que deberá asentar, previa las formalidades debidas, los actos y hechos que pasen ante su fe.
+La actuación del Notario debe consignarse de manera documental. Para ello la Ley le autoriza el uso del protocolo notarial en el que deberá asentar, previas las formalidades legales, los actos y hechos que pasen ante su fe.
 
 ### CAPÍTULO II. DE LOS ASPIRANTES AL EJERCICIO DEL NOTARIADO
 
@@ -321,7 +373,9 @@ I. Ser ciudadano mexicano, con una residencia mínima de cinco años en el Estad
 
 II. Ser Licenciado en Derecho con título expedido por institución reconocida legalmente por el Estado debidamente registrado en la Dirección General de Profesiones de la Secretaría de Educación Pública, y con cédula profesional expedida debidamente con una antigüedad mínima de cinco años;
 
-III. Acreditar que durante los tres años anteriores a la presentación del examen de Aspirante al Ejercicio del Notariado, ha laborado como Licenciado en Derecho y de tiempo completo bajo la dirección y responsabilidad de un Notario titular, debiendo presentar a la Secretaría General de Gobierno la constancia del inicio y conclusión de esta práctica suscrita por el Notario respectivo; o acreditar haber cursado la especialización en Derecho Notarial que imparte la Universidad Nacional Autónoma de México, o en una semejante en tiempo y condiciones por alguna otra Universidad del Estado o del país. En este caso deberá acreditar, además, haber laborado por tiempo completo bajo la dirección de un Notario por un año y medio;
+> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2011)</small>
+
+III.- Acreditar que durante los tres años anteriores a la presentación del examen de Aspirante al Ejercicio del Notariado, ha laborado como Licenciado en Derecho y de tiempo completo, bajo la dirección y responsabilidad de un Notario titular en ejercicio de sus funciones en el Estado de Guerrero, debiendo presentar a la Secretaría General de Gobierno la constancia del inicio y conclusión de esta práctica, suscrita por el Notario respectivo; o acreditar haber cursado la especialización en Derecho Notarial que imparte la Universidad Nacional Autónoma de México, en cualquier otra del Estado o del país. En este caso deberá acreditar, además, haber laborado durante un año y medio, por tiempo completo bajo la dirección de un Notario en ejercicio de sus funciones en el Estado de Guerrero;
 
 IV. No estar sujeto a proceso penal, o no haber sido condenado a más de un año de prisión por delito intencional y patrimonial;
 
@@ -335,7 +389,9 @@ VII. No ser pariente hasta en cuarto grado en línea recta o transversal del Gob
 
 Los requisitos señalados en el artículo anterior se justificarán en la forma siguiente:
 
-I. Los requisitos de la fracción I con copia certificada del acta de nacimiento; con testimonial rendida ante el Tribunal Jurisdiccional con la intervención del Ministerio Público; con las constancias expedidas, en su caso, por la autoridad municipal correspondiente y por la Secretaría de Gobernación Federal;
+> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2011)</small>
+
+l. Los requisitos de la fracción I, con copia certificada del acta de nacimiento; con información testimonial rendida ante Juez de Primera Instancia competente del Estado, con la intervención del Ministerio Público; con las constancias expedidas, en su caso, por la autoridad municipal correspondiente y por la Secretaría de Gobernación Federal;
 
 II. El requisito de la fracción II con la presentación del título y la cédula profesional;
 
@@ -343,9 +399,13 @@ III. El requisito de la fracción III, con la constancia original que otorgue el
 
 De acreditarse por la Secretaría General de Gobierno que la constancia a que se alude en el párrafo anterior no está sustentada en la verdad, se sancionará al Notario con la revocación de su patente, independientemente de la acción penal que proceda.
 
-IV. Lo señalado en la fracción IV, se acreditará con la constancia de no sujeción a proceso que expida la Procuraduría General de Justicia del Estado; y la que expida la Dirección General de Readaptación Social del Estado y su homóloga a nivel federal por lo que hace a la sentencia ejecutoriada por delito intencional;
+> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2011)</small>
 
-V. Los requisitos de la fracción V, con las constancias de la Autoridad Municipal del lugar donde se pretenda la patente, así como con la acreditación de haber cursado la especialización en Derecho Notarial que imparta la Universidad Nacional Autónoma de México, o en una semejante en tiempo y condiciones por alguna otra Universidad del País;
+IV. Lo señalado en la fracción IV, se acreditará con la carta de antecedentes no penales que expida la Procuraduría General de Justicia del Estado; y la que expida la Dirección General de Readaptación Social del Estado y su homóloga a nivel federal, por lo que hace a la sentencia ejecutoriada por delito intencional;
+
+> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2011)</small>
+
+V. Los requisitos de la fracción V, con las constancias de la Autoridad Municipal del domicilio del aspirante a notario, así como con la acreditación de haber cursado la especialización en Derecho Notarial que imparta la Universidad Nacional Autónoma de México, o en alguna otra Universidad del Estado o del País, y
 
 VI. Los requisitos de las fracciones VI y VII, se acreditarán con constancias expedidas por la Secretaría de Finanzas y Administración, por el Instituto Estatal Electoral, el Congreso del Estado, el Presidente Municipal de su domicilio, el Instituto Federal Electoral y el acta de nacimiento respectiva.
 
@@ -353,51 +413,67 @@ VI. Los requisitos de las fracciones VI y VII, se acreditarán con constancias e
 
 El que pretenda examen de aspirante deberá presentar su solicitud al Gobernador del Estado, acompañando los documentos que prueben el cumplimiento de los requisitos enunciados en los artículos precedentes, quien podrá investigar la veracidad y autenticidad de los documentos y de la información. Hecho que sea el Gobernador del Estado señalará hora, fecha y lugar para efectuar el examen.
 
+> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2011)</small>
+
 ###### ARTÍCULO 41.
 
-El jurado de los aspirantes al ejercicio del Notariado se compondrá de cinco miembros: tres designados por el Ejecutivo del Estado que serán invariablemente Servidores Públicos con Título de Licenciado en derecho y con conocimientos en la especialidad de Derecho Notarial, un representante de la especialidad de Derecho Notarial de una Universidad del Estado o del país que imparta dicha materia, mismo que será designado por la mayoría de los sinodales, así como un notario integrante del Colegio de Notarios del Estado de Guerrero. Los miembros del Jurado en los que concurriere alguno de los impedimentos que señale esta Ley, deberán excusarse de intervenir en el examen, entonces, el Ejecutivo, la especialidad de Derecho Notarial y el colegio en su caso, designarán al sustituto.
+El jurado de los aspirantes al ejercicio del Notariado, se integrará por cinco miembros propietarios con sus respectivos suplentes y éstos actuarán a falta del titular:
 
-Fungirá como Presidente del Jurado, la persona que designe el Ciudadano Gobernador Constitucional, y como Secretario el que designe el Colegio.
+I.- Un Presidente nombrado por el Gobernador del Estado, que será un servidor público y jurista reconocido;
+
+II.- Un Secretario, que será un Notario designado por el Consejo, que será el que se encargará de levantar el acta circunstanciada; y
+
+III.- Tres vocales, designados por el Gobernador del Estado uno de los cuales será académico y los otros dos deberán ser servidores públicos y profesionales del derecho.
+
+> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2011)</small>
 
 ###### ARTÍCULO 42.
 
-El examen consistirá en una prueba práctica que será la redacción de un instrumento cuyo tema se sorteará de veinte propuestos, sellados y colocados en sobres cerrados por el Gobernador del Estado. Cada uno de los miembros del Jurado podrá hacer al sustentante una pregunta o interpelación relacionada precisamente con el caso jurídico notarial a que se refiere el tema.
+El examen consistirá en una prueba práctica y en una teórica; la práctica consistirá en la redacción de un instrumento cuyo tema se sorteará de veinte propuestos, sellados y colocados en sobres cerrados por el Presidente del Sínodo. En la teórica, cada uno de los miembros del Jurado podrá preguntar o interpelar al sustentante en relación precisamente con el caso jurídico notarial que le haya tocado en el sorteo.
+
+> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2011)</small>
 
 ###### ARTÍCULO 43.
 
-La Secretaría General del Gobierno del Estado, cuidará de tener seleccionados por lo menos veinte temas para sortear el que haya de ser presentado a los examinados. Aquellos temas que hubiesen sido motivo de examen, serán eliminados y no podrán presentarse dentro de los que sirvan para nuevos exámenes.
+La Secretaría General del Gobierno del Estado cuidará de tener seleccionados por lo menos veinte temas para sortearse a los examinados. Aquellos temas que hubiesen sido motivo de examen, serán eliminados y no podrán presentarse para nuevos exámenes.
+
+> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2011)</small>
 
 ###### ARTÍCULO 44.
 
-Fijada la fecha para la sustentación del examen, el Presidente convocará al jurado y citará al candidato para que en su presencia sea sorteado el tema.
+Fijada la fecha para la aplicación del examen, el Presidente convocará al jurado y citará a los aspirantes para que en su presencia se efectúe el sorteo de los temas.
 
-No podrán formar parte del jurado los Notarios en cuyas notarías haya hecho su práctica el sustentante, ni los parientes consanguíneos afines a éste dentro del tercer grado de parentesco en línea recta o transversal, ni los que guarden relación íntima de amistad con el mismo sustentante. Los miembros del jurado en los que concurriere alguno de los impedimentos señalados deberán excusarse de intervenir en el examen, en cuyo caso será nombrado el sustituto por el Gobernador, la especialidad en Derecho Notarial y el Colegio de Notarios respectivamente.
+No podrán formar parte del jurado los Notarios en cuyas notarías haya practicado el aspirante, ni los parientes consanguíneos afines a éste, dentro del tercer grado de parentesco en línea recta o transversal, ni los que guarden relación íntima o de amistad con el mismo aspirante. Los miembros del jurado en los que concurriere alguno de los impedimentos, señalados deberán excusarse de intervenir en el examen, en cuyo caso, serán llamados los suplentes en términos del artículo 41 de la presente Ley.
 
-El día señalado para el examen y tres horas antes de la fijada para la celebración del mismo, el Secretario del Jurado, abrirá el pliego, entregará el tema al interesado y vigilará que en el lugar señalado para el examen, sin el auxilio de personas extrañas, aunque provisto de los códigos y libros de consulta necesarios, proceda al desarrollo del tema y a la resolución del caso que se le haya propuesto.
+El día señalado para el examen y tres horas antes de la fijada para la celebración del mismo, el Secretario del Jurado, abrirá el pliego, entregará el tema al aspirante y vigilará que en el lugar señalado para el examen, sin el auxilio de personas extrañas, aunque provisto de los códigos y libros de consulta necesarios, proceda al desarrollo del tema que le haya tocado en el sorteo.
 
-A la hora fijada para la celebración del examen se instalará el jurado y el examinado procederá a dar lectura a su trabajo; a continuación los miembros del jurado podrán interrogarle versando las preguntas precisamente sobre el tema propuesto, y sobre la función del notariado.
+A la hora fijada para la celebración del examen e instalado el jurado, el aspirante procederá a dar lectura a su trabajo; a continuación los miembros del jurado podrán interrogarlo versando las preguntas precisamente sobre el que le haya tocado, y en general, sobre conocimiento de derecho notarial.
 
-El jurado resolverá sobre la aprobación o reprobación del sustentante, en escrutinio secreto y, la mayoría de votos en sentido aprobatorio será suficiente para extender la patente respectiva de aspirante. Si la mayoría del jurado vota por la reprobación del sustentante, no se podrá conceder nuevo examen a éste sino después de transcurrido un año.
+El jurado resolverá inmediatamente después del examen sobre la aprobación o reprobación del sustentante, en escrutinio secreto y, la mayoría de votos en sentido aprobatorio será suficiente para extender la patente respectiva de aspirante. Si la mayoría del jurado vota por la reprobación del sustentante, no se podrá conceder nuevo examen a éste, sino después de transcurrido un año.
 
-Al hacerse la calificación del instrumento redactado se tomará en cuenta no solo la parte jurídica, sino también la redacción gramatical en lo que se refiere a claridad y precisión del lenguaje, así como la aptitud que demuestre el examinado al responder a las preguntas hechas por los miembros del jurado.
+Al calificarse el instrumento redactado, se tomará en cuenta, no sólo la parte jurídica sino también la redacción gramatical, en lo que se refiere a claridad y precisión del lenguaje; así como los conocimientos jurídicos que demuestre el examinado al responder a las preguntas hechas por los miembros del jurado.
 
-El Secretario del Jurado levantará el acta relativa al examen, que deberá ser firmada por los integrantes del jurado, y enviará a la Secretaría General de Gobierno copia certificada del acta de examen para la integración del expediente formado con motivo de la solicitud del aspirante a Notario.
+El Secretario del Jurado levantará el acta relativa al examen, que firmaran los integrantes del jurado y enviará copia de la misma con firmas autógrafas a la Secretaría General de Gobierno para la integración del expediente correspondiente.
 
 ###### ARTÍCULO 45.
 
 Cumplidos los requisitos exigidos en los artículos anteriores, el Ejecutivo del Estado extenderá en favor del interesado la patente de aspirante al ejercicio del notariado.
 
+> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2011)</small>
+
 ###### ARTÍCULO 46.
 
-La patente de aspirante al ejercicio del notariado deberá ser registrada en la Dirección, en el Registro Público, y en el Colegio; el interesado deberá firmar en la parte correspondiente el registro de su patente en el libro destinado a ello, así como la misma patente. Igualmente se adherirá en el libro mencionado y en la patente el retrato del propio interesado.
+La patente de aspirante al ejercicio del notariado deberá ser registrada en la Dirección, en el Registro Público, y en el Consejo de Notarios; el interesado deberá firmar su patente y el libro donde se registre la misma. Asimismo se adherirá en el libro mencionado y en la patente el retrato del propio interesado.
 
 ###### ARTÍCULO 47.
 
 Satisfechos todos los requisitos que anteceden, se mandará publicar la patente en el Periódico Oficial del Gobierno del Estado, sin costo alguno para el interesado.
 
+> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2011)</small>
+
 ###### ARTÍCULO 48.
 
-Si después de extendida la patente de aspirante al ejercicio del notariado resultare que por causa superveniente el favorecido con ella estuviere sujeto a un impedimento o incapacidad para el desempeño de las funciones notariales, quedará privado del derecho que pudiere asistirle para ocupar la vacante que llegue a presentarse.
+Si después de extendida la patente de aspirante al ejercicio del notariado, resultare que por causa superveniente, el favorecido con ella estuviere sujeto a un impedimento o incapacidad para el desempeño de las funciones notariales, quedará privado del derecho que pudiere asistirle para continuar con el trámite para obtener la patente definitiva.
 
 ###### ARTÍCULO 49.
 
@@ -413,15 +489,23 @@ I. Tener patente de aspirante al ejercicio del notariado debidamente registrada;
 
 II. Acreditar no tener impedimento alguno de los señalados en el artículo 57 de esta Ley;
 
-III. Existir vacante en alguna notaría de las ya establecidas o de las que se crearen en lo sucesivo;
+> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2011)</small>
 
-IV. No ser o no haber sido servidor público por designación del Ejecutivo del Estado, o elección popular durante el último año inmediato anterior a su solicitud de práctica de examen;
+III. Existir alguna notaria vacante de las ya establecidas o alguna de nueva creación;
+
+> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2011)</small>
+
+IV. No ser o no haber sido servidor público por designación del Ejecutivo del Estado, o por elección popular, durante el último año inmediato anterior a su solicitud de práctica de examen;
 
 V. No ser pariente hasta en cuarto grado en línea recta o transversal del Gobernador del Estado, Secretario de despacho, Procurador General de Justicia del Estado ni de Presidentes Municipales de Cabeceras Distritales de que se trate;
 
-VI. Haber aprobado el examen que se celebre en la forma prevista por esta Ley; y
+> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2011)</small>
 
-VII. Efectuar el pago de los derechos que fije la Ley de Hacienda del Estado de Guerrero, y/o la Ley de Ingresos correspondientes del Estado.
+VI. Haber aprobado el examen que se practique en la forma prevista por esta Ley; y
+
+> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2011)</small>
+
+VII. Efectuar el pago de los derechos que fije la Ley de Hacienda del Estado de Guerrero y/o la Ley de Ingresos del Estado.
 
 ###### ARTÍCULO 51.
 
@@ -447,29 +531,41 @@ Cuando estuviere vacante una notaría, el Gobernador del Estado, según las nece
 
 En el plazo de treinta días naturales contados desde la fecha en que se publique el anuncio en el Periódico Oficial, los aspirantes al ejercicio del notariado, acudirán a la Secretaría General de Gobierno, solicitando ser admitidos a la oposición y la Dirección anotará en cada solicitud la fecha y hora en que fuere presentada.
 
+> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2011)</small>
+
 ###### ARTÍCULO 53.
 
-La Secretaría General de Gobierno señalará días y horas para la celebración de los exámenes de oposición y lo dará a conocer a los aspirantes cuando menos con veinte días naturales de anticipación, por medio de oficio enviado por correo certificado al domicilio que al efecto se hubiere designado en la solicitud.
+La Secretaría General de Gobierno señalará días y horas para la celebración de los exámenes de oposición y los dará a conocer a los aspirantes cuando menos con veinte días naturales de anticipación, por medio de publicaciones oportunas en dos periódicos de mayor circulación en el Estado y por oficio enviado al domicilio o al correo electrónico que al efecto se hubiere designado en la solicitud.
+
+> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2011)</small>
 
 ###### ARTÍCULO 54.
 
-El jurado de los aspirantes al ejercicio del Notariado se compondrá de cinco miembros: tres designados por el Ejecutivo del Estado que serán invariablemente Servidores Públicos con Título de Licenciado en derecho y con conocimientos en la especialidad de Derecho Notarial, un representante de la especialidad de Derecho Notarial de una Universidad del Estado o del país que imparta dicha materia, mismo que será designado por la mayoría de los sinodales, así como un notario integrante del Colegio de Notarios del Estado de Guerrero. Los miembros del Jurado en los que concurriere alguno de los impedimentos que señale esta Ley, deberán excusarse de intervenir en el examen, entonces, el Ejecutivo, la especialidad de Derecho Notarial y el colegio en su caso, designarán al sustituto.
+El jurado para el examen de oposición al ejercicio del Notariado se integrará en la forma y términos señalados en el artículo 41 de esta Ley.
+
+A(REFORMADO PRIMER PARRAFO, P.O. 19 DE AGOSTO DE 2011)
 
 ###### ARTÍCULO 55.
 
-El examen consistirá en dos ejercicios, uno práctico y otro teórico. Para el primero, el jurado deberá tener en sobres cerrados y numerados, veinte temas para redacción de escrituras o actas, elegidos de entre los casos más complejos que los integrantes del jurado hayan encontrado en su práctica laboral. Para el ejercicio teórico los miembros del jurado inquirirán a cada sustentante sobre puntos de derecho que entrañen alguna dificultad y sean de aplicación por el Notario en el ejercicio de sus funciones o de su profesión.
+El examen consistirá en dos ejercicios, uno práctico y otro teórico. Para el examen práctico el jurado deberá tener en sobres cerrados y numerados, veinte temas para redacción de escrituras o actas, elegidos de entre los casos más complejos que los integrantes del jurado hayan encontrado dentro de la función notarial. Para el ejercicio teórico, los miembros del jurado interrogarán a cada sustentante sobre temas que entrañen dificultad en el ejercicio de la práctica notarial.
 
-En el día y horas señalados para el ejercicio práctico, se reunirán todos los candidatos en el lugar designado por el Gobernador y en presencia de los integrantes del jurado, el Secretario extraerá de un ánfora una ficha y abrirá el sobre que contenga el tema marcado con el número de la ficha. Los candidatos se enterarán del tema y procederán desde luego a la redacción del instrumento correspondiente, cada uno por su parte y sin auxilio de ninguna persona, dispondrá de cinco horas corridas para su conclusión. A continuación se recogerán los trabajos hechos, guardándolos en sobres que serán firmados por el sustentante, el Presidente y el Secretario del Jurado.
+> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2011)</small>
+
+En el día y horas señalados para el ejercicio práctico, se reunirán todos los aspirantes en el lugar designado por el Gobernador y en presencia de los integrantes del jurado, el Secretario extraerá de un ánfora una ficha y abrirá el sobre que contenga el tema marcado con el número de la ficha. Los aspirantes se enterarán del tema y procederán desde luego a la redacción del instrumento correspondiente, sin auxilio de ninguna persona. Dispondrá de cinco horas corridas para su redacción. A continuación se recogerán los trabajos hechos, guardándolos en sobres que serán firmados por el aspirante, el Presidente y el Secretario del Jurado.
 
 El ejercicio teórico se verificará en los días y lugares designados por el Gobernador del Estado y serán públicos, conforme a la calendarización que se haga atendiendo al número de aspirantes.
 
-Una vez concluido el examen teórico, el Presidente del Jurado señalará lugar, día y hora para la calificación del sustentante, en donde el Secretario del Jurado dará lectura al trabajo práctico. En seguida el jurado, a puerta cerrada procederá, por mayoría de votos, a decidir la aprobación en vista del resultado de ambos ejercicios, con la nota de "Excelente", "Muy Bien", o "Bien", lo cual dará a conocer desde luego al interesado.
+> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2011)</small>
+
+Una vez concluido el examen teórico, los integrantes del Jurado a puerta cerrada calificarán cada prueba por mayoría de votos, con las nota (sic) de "Excelente", "Muy Bien", o "Bien", lo cual dará a conocer a los aspirantes examinados.
 
 Si la mayoría del jurado vota por la reprobación del sustentante no se podrá conceder nuevo examen a éste, sino después de transcurrido un año.
 
+> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2011)</small>
+
 ###### ARTÍCULO 56.
 
-Cumplidos los trámites a que se refiere los artículos anteriores el Gobernador del Estado extenderá la patente de Notario de la notaría vacante de nueva creación, al o los aspirantes que cuenten con mejor calificación en términos del artículo anterior, la que se registrará en la Dirección, en el Registro Público y se publicará en el Periódico Oficial y en dos diarios de mayor circulación estatal en el Distrito Notarial de la asignación.
+Cumplidos los trámites a que se refiere (sic) los artículos anteriores el Gobernador del Estado extenderá la patente de Notario de la notaría vacante o de nueva creación, al o los aspirantes que cuenten con mejor calificación en términos del artículo anterior, la que se registrará en la Dirección, en el Registro Público, en el Consejo de Notarios y se publicará en el Periódico Oficial y en dos diarios de mayor circulación estatal.
 
 ###### ARTÍCULO 57.
 
@@ -487,7 +583,9 @@ IV. Ser servidor público municipal, estatal o federal, un año previo a la real
 
 Para que el Notario pueda actuar debe:
 
-I. Otorgar fianza a favor de la autoridad competente, por la cantidad que resulte de multiplicar por cinco mil, el importe del salario mínimo general del área geográfica en la región del Distrito Notarial al que pertenece la asignación de la patente que corresponda a la fecha de constitución de la misma, expedida por la compañía legalmente autorizada por el monto señalado. Dicha fianza deberá mantenerse vigente y actualizarse en el mes de enero de cada año, acreditándose esto, ante la Dirección;
+> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2011)</small>
+
+I. Otorgar fianza expedida por compañía legalmente autorizada a favor de la autoridad competente, por la cantidad que resulte de multiplicar por cinco mil, el importe del salario mínimo general correspondiente al área geográfica o Distrito, en donde ejercerá la función de notario o en el que se establezca el domicilio de la nueva notaria. Dicha fianza deberá mantenerse vigente y actualizarse en el mes de enero de cada año, lo que se acreditará ante la Dirección;
 
 II. Proveerse a su costo de sello y protocolo;
 
@@ -497,19 +595,29 @@ El Gobierno del Estado podrá establecer el registro de la firma electrónica y 
 
 IV. Otorgar ante el Gobernador del Estado, la protesta de cumplir con la Constitución Política de los Estados Unidos Mexicanos, la particular del Estado y las Leyes que de una y otra emanen, y desempeñar con honestidad lealtad, legalidad, imparcialidad y buena fe, su función Notarial; y
 
-V. Establecer su domicilio particular y la oficina notarial, en el Distrito Notarial y Municipio donde va a desempeñar su cargo, dentro de los treinta días naturales siguientes a la fecha de la protesta.
+> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2011)</small>
 
-En vez de la fianza de que trata la fracción I de este artículo, es potestativo para el Notario constituir hipoteca o depósito por la cantidad que señala esta Ley. El Notario en cualquier tiempo puede sustituir una garantía por otra según le convenga, con aviso y aprobación del Gobernador del Estado.
+V. Establecer su domicilio particular y la oficina notarial en la cabecera Municipal señalada en su patente, dentro de los treinta días naturales siguientes a la fecha de la protesta.
 
-La hipoteca se constituirá sobre un bien inmueble ubicado en el Estado, siempre que dicha propiedad esté libre de gravámenes y tenga un valor catastral cuando menos igual al monto de la caución, esta garantía y la de depósito, en sus respectivos casos se constituirán conforme a las Leyes comunes.
+> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2011)</small>
+
+En vez de la fianza de que trata la fracción I de este artículo, es potestativo para el Notario constituir hipoteca o depósito por la cantidad que señala esta Ley. El Notario en cualquier tiempo puede sustituir una garantía por otra según le convenga, con aviso y aprobación del Secretario General de Gobierno del Estado.
+
+> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2011)</small>
+
+La hipoteca se constituirá sobre un bien inmueble ubicado en el Estado, siempre que el mismo se encuentre libre de gravámenes y tenga un valor comercial, cuando menos igual al monto de la caución, esta garantía y la de depósito, en sus respectivos casos, se otorgarán conforme a la Ley.
+
+> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2011)</small>
 
 ###### ARTÍCULO 59.
 
-El monto de la garantía notarial se hará efectivo para el pago de la responsabilidad civil que en su caso contraiga el Notario, y para el pago de las multas que se le hubiesen impuesto y que no satisfaga oportunamente.
+La garantía notarial se hará efectiva para el pago del monto de la responsabilidad civil en que incurra el Notario y para el pago de las multas que se le hubiesen impuesto y que no hayan sido cubiertas oportunamente.
+
+> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2011)</small>
 
 ###### ARTÍCULO 60.
 
-El Notario dará aviso al público por medio del Periódico Oficial, de la fecha en que iniciará sus funciones, comunicándolo además a la Dirección, al Registro Público y al Colegio.
+El Notario dará aviso al público del inicio de sus funciones por medio del Periódico Oficial, comunicándolo además a la Dirección, al Registro Público y al Consejo de Notarios.
 
 ### CAPÍTULO IV. DE LAS OBLIGACIONES DE LOS NOTARIOS
 
@@ -517,57 +625,79 @@ El Notario dará aviso al público por medio del Periódico Oficial, de la fecha
 
 Los Notarios tendrán las obligaciones siguientes:
 
-I. Actuar sólo en el Distrito Notarial donde se le asignó, pudiendo ausentarse sólo en los casos y con los requisitos que señala esta Ley;
+> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2011)</small>
+
+l. Actuar únicamente en el Distrito Notarial asignado, pudiendo ausentarse sólo en los casos y con los requisitos que señala esta Ley;
 
 II. Atender personalmente su notaría;
 
-III. Mantener abierta su notaría al público de lunes a viernes por lo menos ocho horas cada día;
+> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2011)</small>
+
+III. Mantener abierta su notaria al público, de lunes a viernes, por lo menos ocho horas diarias;
 
 IV. Pertenecer al Colegio;
 
 V. Prestar sus servicios en los casos y términos que establezcan los ordenamientos electorales;
 
-VI. Otorgar la fe pública en cada caso concreto, con plenas garantías de imparcialidad, honradez, autonomía, legalidad y profesionalismo, con principios éticos y siempre de buena fe, tratando por igual a las partes en el asunto, sin preferencias, independientemente de quien lo haya solicitado o de quien paga sus servicios;
+> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2011)</small>
 
-VII. Guardar reserva sobre los asuntos tratados en su notaría, salvo cuando la autoridad competente les ordene revelar información de dichos asuntos o bien que se dé a conocer por la propia naturaleza de la función notarial;
+VI. Otorgar la fe pública en cada caso concreto, con plenas garantías de imparcialidad, honradez, autonomía, legalidad y profesionalismo, con principios éticos y siempre de buena fe, tratando por igual a las partes en el asunto, sin preferencias, independientemente de quien haya solicitado o de quien paga sus servicios;
+
+> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2011)</small>
+
+VII. Guardar reserva sobre los asuntos tratados en su notaría, salvo cuando la autoridad competente les ordene fundadamente proporcionar información respecto de los mismos;
 
 VIII. Enterar en tiempo y forma las retenciones, impuestos, derechos y contribuciones federales, estatales y municipales, por cuenta de terceros, que le correspondan a las operaciones notariales que se realicen bajo su responsabilidad;
 
-IX. Cobrar honorarios conforme al arancel aprobado;
+> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2011)</small>
+
+IX. Cobrar honorarios conforme al arancel autorizado;
 
 X. Elaborar por duplicado y por cada libro, un índice de todos los instrumentos autorizados o con la razón de "no pasó";
 
 XI. Llevar un índice por duplicado, de cada juego de libros, de todos los instrumentos que autoricen por orden alfabético de apellidos de cada otorgante, con expresión del número de la escritura o acta, naturaleza del contrato, acto o hecho, volumen y fecha;
 
-XII. Solicitar al Ejecutivo del Estado en caso de ausencia, ser suplido para que su notaría permanezca abierta al público y ofrezca sus servicios a la comunidad;
+> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2011)</small>
 
-XIII. Renunciar a su función de Notario y a su patente, cuando desee contender por un cargo de elección popular, o si desea ejercer la función o servicio público dentro de la administración pública central o paraestatal federal, estatal o municipal; y
+XII. En caso de ausencia, solicitar al Gobernador del Estado, que se designe un suplente para que continúe prestando los servicios notariales;
+
+> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2011)</small>
+
+XIII. Solicitar licencia cuando desee contender para desempeñar un cargo de elección popular, o cuando sea llamado para ejercer una función o servicio público dentro de la administración pública central o paraestatal, federal, estatal o municipal, un cargo judicial o dentro de los organismos autónomos por todo el tiempo que dure el cargo o puesto a desempeñar;
 
 XIV. Proporcionar la información trimestral a la Dirección sobre el número de instrumentos notariales realizados en los libros o volúmenes en el protocolo cerrado, y los folios utilizados para cada instrumento en el protocolo abierto, mediante el sistema o programa electrónico que se establezca, para regular y vigilar la prestación eficaz del servicio notarial, que señala el artículo 19 y 93 de esta Ley.
 
 XV. Las demás que señalen los ordenamientos jurídicos aplicables.
 
-## TÍTULO CUARTO. DE LOS ELEMENTOS FORMALES DE LA FUNCIÓN NOTARIAL
+> <small>(REFORMADA SU DENOMINACION, P.O. 19 DE AGOSTO DE 2011)</small>
+
+## TÍTULO CUARTO. DE LOS ELEMENTOS NECESARIOS PARA EL EJERCICIO DE LA FUNCIÓN NOTARIAL
 
 ### CAPÍTULO I. DEL SELLO DE AUTORIZAR
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE AGOSTO DE 2011)</small>
+
 ###### ARTÍCULO 62.
 
-El sello de autorizar deberá registrarse en la Dirección y reunir las características físicas siguientes:
+El sello de autorizar se registrará en la Dirección, en el Registro Público y en el Consejo de Notarios y reunirá las características físicas siguientes:
 
-I. Ser de goma y fabricado bajo la técnica de foto polímeros;
+> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2011)</small>
+
+I. Será metálico o de goma, bajo la técnica más avanzada;
 
 II. Ser circular, con un diámetro de cuatro centímetros;
 
-III. Contener en su centro la reproducción del Escudo Nacional y, tener escrito dentro de su circunferencia el nombre y apellidos del Notario, el nombre del Distrito al que pertenezca y el número de la notaría que le corresponda. El número de la notaría deberá expresarse en números arábigos.
+> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2011)</small>
 
-El nombre propio y apellidos del Notario no deberán aparecer abreviados en el sello de autorizar. Si por cualquier circunstancia el nombre del Notario no puede expresarse de manera completa en el sello, podrá abreviarse previa autorización que conceda la Dirección;
+III. Contener en el centro el Escudo Nacional y escrito alrededor de éste la inscripción del Distrito Notarial mencionado en la patente, el nombre y apellidos del Notario y su número. El número de la notaría deberá grabarse con número arábigos (sic) y el nombre y apellidos del notario podrá abreviarse. El sello podrá incluir un signo adicional que lo identifique y distinga.
 
-IV. Si lo estima conveniente el Notario, el sello de autorizar podrá incluir un signo como otro elemento de su identificación; y
+IV. (DEROGADA, P.O. 19 DE AGOSTO DE 2011)
 
-V. Número de serie de fabricación.
+V. (DEROGADA, P.O. 19 DE AGOSTO DE 2011)
 
-El sello de autorizar es de uso exclusivo del Notario, personalísimo, solamente él está legitimado para usarlo en el ejercicio de sus funciones. El Notario usará únicamente un sello de autorizar para ejercer su actividad.
+> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2011)</small>
+
+El sello de autorizar es de uso exclusivo del Notario, solamente éste está legitimado para usarlo en el ejercicio de sus funciones. El Notario usará únicamente un sello de autorizar para ejercer su actividad.
 
 ###### ARTÍCULO 63.
 
@@ -577,11 +707,15 @@ El sello de autorizar también deberá imprimirse en la documentación citada en
 
 El sello de autorizar del Notario también podrá imprimirlo en toda aquella documentación relacionada a su actuación como Notario y que tenga relación con algún instrumento notarial asentado en su protocolo, tales como: avisos, informes, constancias, liquidaciones de contribuciones, etcétera.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE AGOSTO DE 2011)</small>
+
 ###### ARTÍCULO 64.
 
-El Notario que sufra extravío o pérdida de su sello de autorizar, inmediatamente después de que tenga conocimiento de ello lo hará saber al Ministerio Público de su adscripción, levantando el acta circunstanciada del suceso. También deberá inmediatamente comunicarlo por escrito, a la Dirección y al Colegio acompañando al aviso respectivo, el acta levantada en la representación citada.
+El Notario que sufra extravío o pérdida de su sello de autorizar, de inmediato lo hará del conocimiento del Ministerio Público de su adscripción, levantando el acta circunstanciada del suceso. También deberá comunicarlo por escrito, a la Dirección, al Registro Público y al Consejo acompañando copia del acta respectiva.
 
-Hecho lo anterior, la Dirección otorgará al Notario lo antes posible, la autorización para que éste se provea a su costa de un nuevo sello de autorizar con el número de serie correspondiente, en el cual deberá incluir dentro de sus características físicas un signo, señal o marca que sea visible en su impresión con el propósito de distinguirlo del anterior. El Notario deberá registrar su nuevo sello ante la Dirección, el Registro Público y el Colegio.
+> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2011)</small>
+
+Hecho lo anterior, la Dirección otorgará al Notario lo antes posible, la autorización para que éste se provea a su costa de un nuevo sello de autorizar con el número de serie correspondiente, en el cual deberá incluir dentro de sus características físicas un signo, señal o marca que sea visible en su impresión con el propósito de distinguirlo del anterior. El Notario deberá registrar su nuevo sello ante la Dirección, Registro Público y el Consejo de Notarios.
 
 Si el sello extraviado aparece, no podrá ser utilizado por el Notario, debiéndose remitir a la Dirección para su inutilización, de lo cual se levantará acta que deberá estar firmada por el titular de la Dirección y por el Notario.
 
@@ -597,15 +731,19 @@ Cuando el Notario tenga en su poder el nuevo sello de autorizar, deberá entrega
 
 Dicha acta deberá estar firmada por el titular de la Dirección y por el Notario.
 
-El sello inutilizado quedará bajo la custodia y responsabilidad de la Dirección citada.
+> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2011)</small>
 
-El Notario deberá registrar su nuevo sello de autorizar, ante la Dirección, el
+El sello inutilizado quedará bajo la custodia y responsabilidad de la Dirección.
 
-Registro Público y el Colegio.
+> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2011)</small>
+
+El Notario deberá registrar su nuevo sello de autorizar, ante la Dirección, el Registro Público y el Consejo.
+
+> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2011)</small>
 
 ###### ARTÍCULO 66.
 
-En todos los casos en los que se deje de utilizar definitivamente un sello, como son entre otros: la muerte, renuncia, cesación definitiva del cargo de Notario, el sello de autorizar de que se trate deberá entregarse a la Dirección para proceder a su inutilización, debiéndose levantar el acta correspondiente, la cual estará firmada por el titular de la Dirección, el Notario, o en su caso por el albacea de su sucesión.
+En los casos de muerte o renuncia del titular de la Notaría o revocación definitiva de la patente de Notario, el sello de autorizar deberá entregarse a la Dirección para proceder a su inutilización, levantándose el acta correspondiente, que firmarán el titular de la Dirección, un Notario designado por el Consejo de Notarios y en su caso, el albacea de la sucesión.
 
 ### CAPÍTULO II. DEL PROTOCOLO NOTARIAL
 
@@ -615,9 +753,11 @@ Protocolo es el conjunto de libros formados por folios, ordenados en forma numé
 
 Cuando los libros o volúmenes se encuentren encuadernados desde antes de autorizarse, se denominarán volúmenes de "Protocolo Cerrado"; y cuando se encuadernen hasta después de utilizarse, se denominarán volúmenes de "Protocolo Abierto".
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE AGOSTO DE 2011)</small>
+
 ###### ARTÍCULO 68.
 
-No podrán pasar de diez los libros de protocolo, que se lleven al mismo tiempo en una notaría; es decir, que el Notario libremente podrá optar por el número que estime conveniente, sin pasar de diez, dando aviso a la Dirección.
+No podrán pasar de diez los libros que integren el protocolo que se lleve en una notaria; es decir, que el Notario libremente podrá optar por el número que estime conveniente, sin pasar de diez, dando aviso a la Dirección.
 
 Cuando el Notario cambie del protocolo cerrado al protocolo abierto, deberá solicitar la autorización correspondiente a la Dirección, cancelando el último folio del libro utilizado.
 
@@ -631,17 +771,17 @@ En el caso de "Protocolo Abierto", las hojas de los libros lo forman los "folios
 
 Inmediatamente después de ponerse la nota de cierre, cada volumen deberá encuadernarse y empastarse sólidamente y conservarse permanentemente, en los términos de la presente Ley.
 
+> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2011)</small>
+
 ###### ARTÍCULO 70.
 
-El Secretario General de Gobierno autorizará los libros y folios de los Notarios directamente, pudiendo delegar esta función. En la primera página útil de cada volumen pondrá una razón en que consten: el lugar y fecha; el número que corresponda al volumen, según los que vaya recibiendo cada Notario durante su ejercicio; el número de páginas útiles, inclusive la primera y la última; el número, nombre y apellido del Notario; el lugar en que debe residir y esté situada la Notaría. Por último, la expresión de que ese libro, solamente debe utilizarse por el Notario o por la persona que legalmente lo substituya en sus funciones. Al final de la última página del volumen, se pondrá una razón análoga.
+El Secretario General de Gobierno autorizará los libros y folios de los Notarios, pudiendo delegar esta función. En la primera página útil de cada volumen pondrá una razón en que consten: el lugar y fecha; el número que corresponda al volumen, según los que vaya recibiendo cada Notario durante su ejercicio; el número de páginas útiles, inclusive la primera y la última; el número, nombre y apellidos del Notario; el lugar en que debe residir y esté situada la Notaría. Por último, la expresión de que ese libro, solamente debe utilizarse por el Notario o por la persona que legalmente lo substituya en sus funciones. Al final de la última página del volumen, se pondrá una razón análoga.
 
-Al ponerse las razones de autorización antes citadas, se deberá sellar cada una de las hojas con el sello que especialmente se destine para ello y que haga referencia a la materia.
+Al asentarse las razones de autorización antes citadas, se deberá sellar cada una de las hojas con el sello de autorizar.
 
-Tratándose de "Protocolo Abierto", los folios serán impresos por la Secretaría General de Gobierno, quien los autorizará y entregará a los Notarios, para su uso, por conducto de la Dirección, la que llevará un registro en que indique la fecha, cantidad y número de folios entregados a cada Notario. El Colegio se cerciorará que los folios del protocolo abierto se impriman en papel de seguridad, con numeración progresiva que permita distinguir un folio de otro y que, al frente, lleven impreso el sello del Gobierno del Estado y la leyenda "Folio autorizado para Protocolo Abierto".
+Tratándose de “Protocolo Abierto” los folios serán impresos por la Secretaría General de Gobierno, quien los autorizará y entregará a los Notarios, para su uso, por conducto de la Dirección, la que llevará un registro en que indique la fecha, cantidad y número de folios entregados a cada Notario. El Consejo se cerciorará que los folios del protocolo abierto se impriman en papel de seguridad, con numeración progresiva que permita distinguir un folio de otro y que, al frente, lleven impreso el sello del Gobierno del Estado y la leyenda "Folio autorizado para Protocolo Abierto"
 
-Nunca podrá sellarse hoja alguna por separado, siempre deberán ser al mismo tiempo, además de estar entre selladas la totalidad de las que formen un volumen.
-
-Tampoco podrá volverse a autorizar ni a sellar, total o parcialmente un volumen que ya lo haya sido previamente, excepto en caso de cambio o suplencia, aún cuando se echaren a perder o se extraviaren alguna o algunas de sus hojas.
+Nunca podrá sellarse hoja alguna por separado, siempre deberán ser al mismo tiempo, además de estar entreselladas la totalidad de las que formen un volumen. Tampoco podrá volverse a autorizar ni a sellar, total o parcialmente un volumen que ya lo haya sido previamente, excepto en caso de cambio o suplencia, aún cuando se echaren a perder o se extraviaren alguna o algunas de sus hojas.
 
 ###### ARTÍCULO 71.
 
@@ -649,9 +789,11 @@ El Notario abrirá cada libro o volumen del protocolo cuando vaya a usar de él,
 
 En caso de muerte del Notario, después del último instrumento, asentada la razón de que se trata se harán constar los nombres de los que van a actuar en cada uno de los volúmenes que estuvieren en uso, firmando los que en ella intervengan.
 
+> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2011)</small>
+
 ###### ARTÍCULO 72.
 
-Al comenzar a hacer uso de cada libro, se le pondrá al lado superior izquierdo de cada hoja el sello del Notario.
+Al iniciarse el uso de cada libro, se sellará el lado superior izquierdo de cada hoja.
 
 ###### ARTÍCULO 73.
 
@@ -663,17 +805,23 @@ La numeración de los instrumentos, de las escrituras o actas notariales, será 
 
 Los folios que se inutilicen se cruzarán con dos líneas diagonales y se agregarán al final del respectivo instrumento.
 
+> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2011)</small>
+
 ###### ARTÍCULO 75.
 
-El Notario, cuando calcule que ya no puede dar cabida a otro instrumento más en el libro o volumen, lo cerrará poniendo razón de cierre, expresando en ella el número de hojas utilizadas, el número de instrumentos contenidos y el lugar, día y hora en que se cierra, así como el número de actos y hechos que no hayan pasado, e inutilizando las hojas en blanco con tres líneas trasversales, el número de las que estén pendientes de firma y esté corriendo el término de Ley, así como el número de las que estén pendientes de autorización definitiva por estar transcurriendo el plazo legal para el pago de impuestos. Dicha razón deberá firmarla el Notario y ponerle su sello. Cuando el Notario tenga en uso varios protocolos, al cerrar uno tendrá que cerrarlos todos.
+El Notario, cuando calcule que ya no puede dar cabida a otro instrumento más en el libro o volumen, lo cerrará poniendo razón de cierre, expresando en ella el número de hojas utilizadas, el número de instrumentos contenidos y el lugar, día y hora en que se cierra, así como el número de actos y hechos que no hayan pasado, e inutilizando las hojas en blanco con dos líneas trasversales, el número de las que estén pendientes de firma y esté corriendo el término de Ley, así como el número de las que estén pendientes de autorización definitiva por estar transcurriendo el plazo legal para el pago de impuestos. Dicha razón deberá firmarla y sellarla el Notario. Cuando el Notario tenga en uso varios volúmenes, al cerrar uno tendrá que cerrar todos.
+
+> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2011)</small>
 
 ###### ARTÍCULO 76.
 
-Cuando estén por concluir los libros o volúmenes que lleven los Notarios, solicitarán oportunamente al Secretario General de Gobierno o, en su caso, a la Dirección, les provea de nuevos folios de Protocolo Abierto que requieran, o que les autoricen los nuevos libros o volúmenes de Protocolo Cerrado que para tal efecto remitan y donde habrán de continuar actuando y, una vez puestas las razones de autorización y haber entregado a la Dirección, la información de los folios anteriores utilizados en los protocolos abiertos o cerrados según sea el caso, se les harán llegar a los interesados, quienes deberán dar aviso por escrito a la Dirección y al Colegio tan pronto como los abran.
+Cuando estén por concluir los libros o volúmenes que lleven los Notarios, solicitarán oportunamente al Secretario General de Gobierno o, en su caso, a la Dirección, les provea de nuevos folios de Protocolo Abierto que requieran, o que les autoricen los nuevos libros o volúmenes de Protocolo Cerrado que para tal efecto remitan y donde habrán de continuar actuando y, una vez puestas las razones de autorización y haber entregado a la Dirección, la información de los folios anteriores utilizados en los protocolos abiertos o cerrados según sea el caso, se les harán llegar a los interesados, quienes deberán dar aviso por escrito a la Dirección y al Consejo tan pronto como los abran.
+
+> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2011)</small>
 
 ###### ARTÍCULO 77.
 
-Por ningún motivo podrán sacarse de la notaría los folios, ni los libros de los protocolos, ya sea que los folios, libros o volúmenes estén en uso o ya concluidos, si no es por el mismo Notario, dentro del Distrito Notarial de su adscripción y sólo en los casos determinados por la presente Ley o para recoger las firmas de las partes, cuando éstas no puedan asistir a la notaría. Si alguna autoridad con facultades legales, ordena la visita a uno o más libros o folios del protocolo, el acto se efectuará en la misma oficina del Notario y siempre en presencia de éste.
+Por ningún motivo podrán sacarse de la notaría los folios ni los libros que integran el protocolo, ya sea que los folios, libros o volúmenes estén en uso o ya concluidos, si no es por el mismo Notario dentro del Distrito Notarial de su adscripción y sólo en los casos determinados por la presente Ley o para recoger las firmas de las partes, cuando éstas no puedan asistir a la notaría. Si alguna autoridad con facultades legales, ordena la inspección a uno o más libros o folios del protocolo, el acto se efectuará en la misma oficina del Notario y siempre en presencia de éste.
 
 ###### ARTÍCULO 78.
 
@@ -785,15 +933,13 @@ Los Notarios que utilicen el protocolo cerrado, deberán llevar un cuaderno foli
 
 ### CAPÍTULO I. DE LAS GENERALIDADES
 
-###### ARTÍCULO 94.
+> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2011)</small>
 
-El instrumento notarial es el documento público autorizado por el Notario dentro de los límites de su competencia y facultades, cumpliendo con las formalidades prescritas por esta Ley, y las Leyes especiales de la materia que rigen el acto o hecho jurídico.
+ARTÍCULO. 94.- Instrumento notarial es el documento público autorizado por el Notario dentro de los límites de su competencia y facultades, cumpliendo con las formalidades prescritas por esta Ley, y las Leyes especiales de la materia que rigen el acto o hecho jurídico, comprende: la escritura, el acta y en general, todo documento autorizado por el Notario, bien sea original, en copia certificada, testimonio o certificaciones.
 
-El instrumento notarial comprende: la escritura, el acta y, en general, todo documento autorizado por el Notario, bien sea original, en copia certificada, testimonio o certificaciones.
+Los instrumentos notariales tienen el carácter de público y en consecuencia gozan de los privilegios que la Ley concede a este tipo de documentos.
 
-Todos los instrumentos notariales, sin distinción alguna, tienen el carácter de públicos y en consecuencia gozan de los privilegios que la Ley concede a este tipo de documentos.
-
-El instrumento notarial es el género, la escritura, el acta, el testimonio, la copia certificada y las certificaciones notariales constituyen la especie.
+El instrumento notarial es el género; la escritura, el acta, el testimonio, la copia certificada y las certificaciones notariales constituyen la especie.
 
 ###### ARTÍCULO 95.
 
@@ -1285,11 +1431,15 @@ CAPÍTULO UNO (SIC)
 
 DE LAS SUPLENCIAS
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE AGOSTO DE 2011)</small>
+
 ###### ARTÍCULO 148.
 
-Habrá lugar a la suplencia cuando un Notario se ausente por motivo de vacaciones no mayores a quince días por trimestre o no mayores a treinta días por semestre; seis meses en caso de enfermedad que no perjudique sus facultades mentales; por separación temporal o definitiva del cargo decretada en resolución administrativa definitiva en procedimiento administrativo de responsabilidad, hasta en tanto la resolución quede firme por causar ejecutoria o sea modificada en juicio de nulidad ante el Tribunal de lo Contencioso Administrativo o en juicio de amparo.
+Habrá lugar a la suplencia cuando un Notario se ausente por motivos de vacaciones no mayores a quince días por trimestre o no mayores a treinta días por semestre, cuando se le otorgue licencia en caso de enfermedad que no perjudique sus facultades mentales; cuando se le otorgue licencia para contender por un cargo de elección popular o para desempeñar algún otro dentro de la administración pública central o paraestatal federal, estatal o municipal; un cargo judicial; o dentro de los organismos autónomos; por separación temporal o definitiva del cargo decretada en resolución administrativa definitiva en procedimiento administrativo de responsabilidad, hasta en tanto la resolución quede firme por causar ejecutoria o sea modificada en juicio de nulidad ante el Tribunal de lo Contencioso Administrativo o en juicio de amparo.
 
-Los Notarios de un mismo Distrito Notarial a designación del Ejecutivo del Estado suplirán la ausencia temporal del suplido. En caso de no existir otro Notario en el mismo Distrito, previa anuencia que otorgue la Dirección, será el Juez Civil de Primera Instancia quien suplirá temporalmente al Notario ausente; debiendo el Juez sujetarse a todas y cada una de las disposiciones previstas en esta Ley.
+> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2011)</small>
+
+Los Notarios de un mismo Distrito Notarial suplirán temporalmente al notario ausente de acuerdo con los convenios de suplencia celebrados y aprobados por el Secretario General de Gobierno que se encuentren debidamente inscritos y publicados en la misma forma que establece el artículo 46 para las patentes de Notario. En caso de no existir ningún convenio de suplencia vigente o que el Notario suplente cuente con licencia, el Secretario General de Gobierno designará un suplente y de no existir otro Notario en el mismo Distrito, previa anuencia que otorgue el Secretario General de Gobierno, será el Juez Civil de Primera Instancia quien suplirá temporalmente al Notario ausente, debiendo el Juez sujetarse a todas y cada una de las disposiciones previstas en esta Ley.
 
 El Notario suplente tendrá las mismas facultades y atribuciones que el Notario suplido, por lo tanto, aquél podrá realizar cualquier acto derivado de la función notarial en el protocolo del Notario suplido.
 
@@ -1319,7 +1469,9 @@ El Notario podrá separarse del ejercicio de sus funciones o ausentarse del luga
 
 Cuando el Notario solicite licencia para separarse de su cargo por un plazo mayor al señalado en el artículo anterior, deberá solicitar la autorización de la Dirección, siempre y cuando no sea superior a tres meses.
 
-Cuando el Notario desee separarse por un plazo mayor a los tres meses, deberá justificar la causa de su separación y obtener la autorización por escrito de la Secretaría General de Gobierno, la que requerirá, a través de la Dirección.
+> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2011)</small>
+
+Así mismo, el Notario tendrá derecho a separarse por un plazo mayor a los tres meses, por enfermedad; para contender por algún cargo de elección popular o para desempeñar algún otro dentro de la administración pública central o paraestatal federal, estatal o municipal, un cargo judicial; o dentro de los organismos autónomos; o por cualquier otra causa justificada; debiendo obtener licencia por escrito del Secretario General de Gobierno la que requerirá, a través de la Dirección.
 
 ###### ARTÍCULO 152.
 
@@ -1433,7 +1585,9 @@ Las visitas ordinarias se notificarán cuando menos con ocho días hábiles de a
 
 La Dirección notificará al Notario respectivo la orden de visita correspondiente a través de personal autorizado de la propia Dirección.
 
-La Dirección comunicará al Colegio las fechas y horas en las que se practicarán las visitas especiales, a fin de que éste, si lo estima conveniente, designe a un Notario para que auxilie al visitador en la práctica de la visita.
+> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2011)</small>
+
+La Dirección comunicará al Consejo las fechas y horas en las que se practicarán las visitas especiales, a fin de que éste, si lo estima conveniente designe a un Notario para que auxilie al visitador en la práctica de la visita.
 
 ###### ARTÍCULO 164.
 
@@ -1659,11 +1813,11 @@ El titular de la Dirección, los visitadores de notarías y los empleados de esa
 
 ### CAPÍTULO II. DEL COLEGIO DE NOTARIOS DEL ESTADO
 
+> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2011)</small>
+
 ###### ARTÍCULO 185.
 
-La colegiación es inherente al cargo de Notario, se genera o cancela inmediatamente con la adquisición o pérdida de tal carácter. La colegiación constituye materia de la garantía institucional que esta Ley reconocer en el notariado para beneficio de la sociedad.
-
-La colegiación es obligatoria y constituye un órgano de control gremial, administrativo y una garantía que tutela la calidad de la función notarial.
+La colegiación es inherente al cargo de Notario, se genera o cancela inmediatamente con la adquisición o pérdida de tal carácter. La colegiación constituye un instrumento de carácter gremial, administrativo y una garantía institucional que tutela la calidad de la función notarial en beneficio de la sociedad.
 
 ###### ARTÍCULO 186.
 
@@ -1770,3 +1924,9 @@ EL SECRETARIO GENERAL DE GOBIERNO.
 LIC. GUILLERMO RAMÍREZ RAMOS.
 
 Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 19 DE AGOSTO DE 2011.
+
+ÚNICO. - El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
