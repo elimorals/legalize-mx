@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-municipal-del-estado-de-mexico-6081"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1993-03-02"
-last_updated: "2011-08-16"
+last_updated: "2011-08-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6081&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY ORGANICA MUNICIPAL DEL ESTADO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 16 DE AGOSTO DE 2011.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 19 DE AGOSTO DE 2011.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el martes 2 de marzo de 1993.
 
@@ -742,6 +742,10 @@ XXXIII. Formular programas de organización y participación social, que permita
 XXXIV. Elaborar y poner en ejecución programas de financiamiento de los servicios públicos municipales, para ampliar su cobertura y mejorar su prestación;
 
 XXXV. Coadyuvar en la ejecución de los planes y programas federales y estatales;
+
+> <small>(ADICIONADA, G.G. 19 DE AGOSTO DE 2011)</small>
+
+XXXV Bis.- Establecer, fomentar, coordinar y difundir permanentemente programas y acciones en materia de educación vial. Para el cumplimiento de esta disposición los ayuntamientos se auxiliarán de la participación directa de los concesionarios y permisionarios del transporte público;
 
 > <small>(REFORMADA, G.G. 25 DE AGOSTO DE 2009)</small>
 
@@ -3224,3 +3228,9 @@ G.G. 16 DE AGOSTO DE 2011.
 PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
 
 SEGUNDO.- El presente Decreto entrará en vigor al siguiente día de su publicación en el Periódico Oficial "Gaceta del Gobierno", y se aplicará a los Ayuntamientos que inicien su ejercicio constitucional el 1 de enero del año 2013.
+
+G.G. 19 DE AGOSTO DE 2011.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
