@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-jueces-auxiliares-propietarios-suplentes-y-41814"
 country: "mx"
 rank: "reglamento"
 publication_date: "1992-11-06"
-last_updated: "1992-11-06"
+last_updated: "2011-08-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41814&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "NLE"
 ---
 # REGLAMENTO DE JUECES AUXILIARES PROPIETARIOS, SUPLENTES Y JEFES DE MANZANA DEL MUNICIPIO DE APODACA, NUEVO LEON
 
-REGLAMENTO DE JUECES AUXILIARES PROPIETARIOS, SUPLENTES Y JEFES DE MANZANA
+REGLAMENTO DE JUECES AUXILIARES PROPIETARIOS, SUPLENTES Y JEFES DE MANZANA DEL MUNICIPIO DE APODACA, NUEVO LEÓN
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TERCERO TRANSITORIO DEL REGLAMENTO DE LOS JUECES AUXILIARES DEL MUNICIPIO DE APODACA, NUEVO LEÓN, PUBLICADO EN EL P.O. DE 19 DE AGOSTO DE 2011, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
 Reglamento publicado en Periódico Oficial del Estado de Nuevo León, el viernes 6 de noviembre de 1992.
 
@@ -262,3 +264,19 @@ El presente reglamento entrará en vigor, el día siguiente de su publicación e
 ###### ARTICULO TERCERO.
 
 El presente reglamento, abroga todas las disposiciones anteriores y las que se opongan al presente reglamento.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 19 DE AGOSTO DE 2011.
+
+###### ARTÍCULO PRIMERO
+
+El presente reglamento entrará en vigor al día hábil siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
+
+###### ARTÍCULO SEGUNDO
+
+Se manda que se impriman, publiquen, circulen y se le de el debido cumplimiento a las disposiciones de este reglamento, dadas en el Recinto Oficial de este Republicano Ayuntamiento ubicado en la Presidencia Municipal de Apodaca Nuevo León, a los 10-diez días del mes de Mayo del año 2011-dos mil once.
+
+###### ARTÍCULO TERCERO
+
+Se abroga el Reglamento anterior llamado Reglamento de Jueces Auxiliares Propietarios, Suplentes y Jefes de Manzana.
