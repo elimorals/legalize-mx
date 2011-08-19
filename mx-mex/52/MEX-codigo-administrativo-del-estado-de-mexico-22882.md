@@ -4,7 +4,7 @@ identifier: "MEX-codigo-administrativo-del-estado-de-mexico-22882"
 country: "mx"
 rank: "codigo"
 publication_date: "2001-12-13"
-last_updated: "2011-04-14"
+last_updated: "2011-08-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22882&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CODIGO ADMINISTRATIVO DEL ESTADO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 14 DE ABRIL DE 2011.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 19 DE AGOSTO DE 2011.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el jueves 13 de diciembre de 2001.
 
@@ -6059,7 +6059,9 @@ l. Prestar el servicio en los términos del presente Libro, de su reglamento y d
 
 II. Prestar el servicio obligatoriamente cuando lo requiera la Secretaría de Transporte, en casos de riesgo o desastre, con arreglo a las disposiciones del Libro Sexto de este Código;
 
-III. Vigilar que sus conductores y personal relacionado con el servicio cumpla con las disposiciones legales en materia de infraestructura vial y transporte;
+> <small>(REFORMADA, G.G. 19 DE AGOSTO DE 2011)</small>
+
+III. Vigilar que sus conductores y personal relacionado con el servicio cumpla con las disposiciones legales en materia de infraestructura vial y transporte; así mismo deberán portar en lugar visible en sus unidades un tarjetón de identificación expedido por la Secretaría de Transporte, con la finalidad de contar con un formato que reúna los elementos gráficos y de escritura legibles al usuario para la identificación plena del operador;
 
 IV. Proporcionar en todo tiempo a las secretarías de Transporte o de Finanzas, en su caso, los datos informes y documentos que le sean solicitados relacionados con la operación de la concesión o permiso, y otorgarle las facilidades necesarias para la realización de las visitas de verificación e inspección;
 
@@ -6095,9 +6097,15 @@ XIX. Tratándose de los concesionarios del servicio público de transporte de pa
 
 XX. En la prestación del transporte de pasajeros en las modalidades de colectivo, individual y mixto, entregar boleto o comprobante autorizado por la Secretaría de Transporte a través del Instituto del Transporte;
 
-XXI. En la prestación del servicio de arrastre, salvamento, guarda, custodia y depósito de vehículos, y del servicio auxiliar de arrastre y traslado, entregar factura fiscal por la prestación del mismo; y
+XXI. En la prestación del servicio de arrastre, salvamento, guarda, custodia y depósito de vehículos, y del servicio auxiliar de arrastre y traslado, entregar factura fiscal por la prestación del mismo; y (sic)
 
-XXII. Las demás que señalen este Libro y otras disposiciones legales, reglamentarias y administrativas.
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 19 DE AGOSTO DE 2011)</small>
+
+XXII. Participar permanentemente en los programas, acciones y su difusión que establezcan en materia de educación vial las autoridades estatales y municipales;
+
+> <small>(ADICIONADA [N. DE E. REPUBLICADA], G.G. 19 DE AGOSTO DE 2011)</small>
+
+XXIII. Las demás que señalen este Libro y otras disposiciones legales, reglamentarias y administrativas.
 
 > <small>(REFORMADO, G.G. 31 DE MARZO DE 2011)</small>
 
@@ -6273,7 +6281,7 @@ La retención del vehículo podrá determinarse hasta que las faltas que dieron 
 
 > <small>(REFORMADO, G.G. 31 DE MARZO DE 2011)</small>
 
-## TÍTULO QUINTO. De las medidas de seguridad, infracciones y sanciones
+## TITULO QUINTO. De las medidas de seguridad, infracciones y sanciones
 
 > <small>(REFORMADO, G.G. 31 DE MARZO DE 2011)</small>
 
@@ -6311,7 +6319,9 @@ V. Clausura temporal o definitiva, parcial o total, tratándose de depósitos de
 
 VI. Retiro de anuncios publicitarios en los medios de transporte cuando no se haya autorizado su colocación o puedan poner en riesgo la seguridad de los usuarios o terceros;
 
-VII. Cancelación de la licencia de conducir;
+> <small>(REFORMADA, G.G. 19 DE AGOSTO DE 2011)</small>
+
+VII. Cancelación de la licencia para conducir vehículos de transporte público y del tarjetón de identificación;
 
 VIII. Cancelación de las placas de matriculación; y
 
@@ -6343,7 +6353,9 @@ a) Conduzca la unidad bajo los influjos de bebidas alcohólicas, enervantes o cu
 
 b) Se niegue a la práctica de exámenes médicos, psicológicos, farmacológicos y otros que determine la Secretaría de Transporte en términos del Reglamento correspondiente;
 
-c) No acredite haber cumplido con la capacitación requerida para conducir vehículos sujetos a concesión o permiso.
+> <small>(REFORMADO, G.G. 19 DE AGOSTO DE 2011)</small>
+
+c) No acredite haber cumplido con la capacitación requerida para conducir vehículos sujetos a concesión o permiso y/o en su caso, no cuente o porte el tarjetón de identificación expedido por la Secretaría de Transporte.
 
 VIII. Multa de cuarenta a cien veces el salario mínimo general vigente en el área geográfica de que se trate al momento de cometer la infracción, a quien cometa cualquier otra violación al presente Libro, las disposiciones que de él emanen y a las condiciones establecidas en el título de concesión o permiso, cuya sanción no esté expresamente prevista, con la responsabilidad solidaria de los titulares de la concesión o permiso.
 
@@ -9533,7 +9545,7 @@ La información a que se refiere el párrafo anterior, en su caso, podrá conser
 
 ###### Artículo 13.
 
-76.- La Secretaría de la Contraloría y los ayuntamientos, a través de sus órganos de control interno, llevarán acabo el seguimiento de los actos, procedimientos y contratos en los términos que señale la reglamentación de este Libro.
+76.- La Secretaría de la Contraloría y los ayuntamientos, a través de sus órganos de control interno, llevarán acabo (sic) el seguimiento de los actos, procedimientos y contratos en los términos que señale la reglamentación de este Libro.
 
 Asimismo, podrán realizar las visitas e inspecciones que estimen pertinentes a las convocantes, contratantes, licitantes, proveedores y prestadores de servicios, a efecto de verificar que los actos, procedimientos y contratos se hayan celebrado conforme a las disposiciones de este Libro.
 
@@ -11943,7 +11955,7 @@ Si dentro de este lazo no fuere reclamado dicho material, la autoridad queda fac
 
 23.- La Secretaría es la autoridad competente en materia de Publicidad Exterior en la Infraestructura Vial Primaria y tendrá las siguientes atribuciones:
 
-l. Establecer y ejecutar políticas en materia de publicidad exterior;
+I. Establecer y ejecutar políticas en materia de publicidad exterior;
 
 II. Elaborar y emitir normas técnicas en materia de publicidad exterior;
 
@@ -11955,7 +11967,7 @@ V. Ordenar los trabajos de retiro de instalaciones publicitarias que hayan sido 
 
 VI. Integrar el Registro Estatal de Publicidad Exterior;
 
-VI!. Formular y divulgar el Programa Estatal de Publicidad Exterior;
+VII. Formular y divulgar el Programa Estatal de Publicidad Exterior;
 
 VIII. Las demás que les atribuyan otras disposiciones del Código Administrativo del Estado de México, Leyes, reglamentos y demás disposiciones administrativas aplicables.
 
@@ -13606,3 +13618,21 @@ G.G. 14 DE ABRIL DE 2011.
 PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
 
 SEGUNDO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+G.G. 19 DE AGOSTO DE 2011.
+
+DECRETO NUMERO 326 POR EL QUE SE REFORMA LA FRACCION XXII Y SE ADICIONA UNA FRACCION XXIII AL ARTÍCULO 7.26 DEL CODIGO ADMINISTRATIVO DEL ESTADO DE MEXICO.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 19 DE AGOSTO DE 2011.
+
+DECRETO NUMERO 327 POR EL QUE SE REFORMAN LA FRACCION III DEL ARTICULO 7.26, LA FRACCION VII DEL ARTICULO 7.41 Y EL INCISO C) DE LA FRACCION VII DEL ARTICULO 7.42, DEL LIBRO SEPTIMO DEL CODIGO ADMINISTRATIVO DEL ESTADO DE MEXICO.
+
+PRIMERO.- La Secretaría de Transporte, en términos de su reglamento interior, diseñará, aprobará y expedirá los formatos y documentación relativa al tarjetón de identificación personal para operadores de transporte público.
+
+SEGUNDO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
