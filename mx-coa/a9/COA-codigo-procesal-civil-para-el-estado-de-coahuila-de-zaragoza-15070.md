@@ -4,7 +4,7 @@ identifier: "COA-codigo-procesal-civil-para-el-estado-de-coahuila-de-zaragoza-15
 country: "mx"
 rank: "codigo"
 publication_date: "1999-06-29"
-last_updated: "2011-01-14"
+last_updated: "2011-08-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15070&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "COA"
 ---
 # CODIGO PROCESAL CIVIL PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-CODIGO PROCESAL CIVIL PARA EL ESTADO DE COAHUILA DE ZARAGOZA
+CÓDIGO PROCESAL CIVIL PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE ENERO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE AGOSTO DE 2011.
 
 Código publicado en el Periódico Oficial del Estado de Coahuila de Zaragoza, el martes 29 de junio de 1999.
 
@@ -3269,7 +3269,7 @@ Remisión del expediente al juzgador competente.
 
 Si el juzgador que decretó la separación no fuere el que deba conocer del proceso, remitirá las diligencias practicadas al que fuere competente, ante quién deberá presentarse la demanda.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 22 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 22 DE SEPTIEMBRE DE 2006)</small>
 
 ### CAPÍTULO TERCERO. Violencia Familiar
 
@@ -5037,7 +5037,7 @@ A los testigos de más de setenta años y a los enfermos, el juzgador podrá, se
 
 Testimonio de funcionarios públicos.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE MAYO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE MAYO DE 2009)</small>
 
 Al Gobernador, los Secretarios de Despacho, Diputados, Magistrados, Fiscal General, Fiscales Especializados, Jueces de Primera Instancia y Presidentes Municipales del Estado; a los Diputados y Senadores del Congreso de la Unión; a los Jueces de Distrito, titulares de dependencias federales y a los Generales con mando, que residan en el Estado, se pedirá su declaración mediante oficio y en esta forma la rendirán. El oficio en que se pida la declaración deberá contener o estar acompañado de los puntos del interrogatorio, el cual deberá ser exhibido por la parte que solicite la prueba, con el escrito de ofrecimiento.
 
@@ -5651,7 +5651,7 @@ Suplencia de la deficiencia en asuntos del orden familiar.
 
 En todos los asuntos del orden familiar los jueces y tribunales estarán obligados a suplir la deficiencia de las partes en sus planteamientos de derecho. En los mismos asuntos, con la salvedad de las prohibiciones legales relativas a alimentos, el juzgador deberá exhortar a los interesados a lograr un avenimiento, resolviendo sus diferencias mediante convenio, con el que pueda evitarse la controversia o darse por terminado el procedimiento.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE SEPTIEMBRE DE 2006)</small>
 
 ###### ARTÍCULO 550.
 
@@ -5979,7 +5979,9 @@ I. Acta de matrimonio.
 
 II. Actas de nacimiento de los hijos menores.
 
-III. El convenio que prevé el Código Civil sobre la situación de los cónyuges y los hijos menores o incapacitados, sobre los alimentos que deben ministrarse, así como sobre la administración y liquidación de la sociedad conyugal, en su caso.
+> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2011)</small>
+
+lII. El convenio que prevé el Código Civil sobre la situación de los cónyuges y los hijos menores o incapacitados, sobre los alimentos que deben ministrarse, el compromiso expreso de los cónyuges de evitar cualquier acto de manipulación encaminado a producir en el menor de edad rencor o rechazo hacia el otro progenitor, para salvaguardar la integridad física y psicológica, así como sobre la administración y liquidación de la sociedad conyugal, en su caso.
 
 ###### ARTÍCULO 579.
 
@@ -6133,7 +6135,7 @@ Acta de divorcio y anotación de la sentencia.
 
 Una vez que la sentencia que decretó el divorcio haya adquirido autoridad de cosa juzgada, el juzgador remitirá copia al Oficial ante quien se celebró el matrimonio y a la Dirección Estatal del Registro Civil para que se proceda a levantar el acta de divorcio por el primero y a realizar las anotaciones marginales correspondientes por ambos.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 22 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 22 DE SEPTIEMBRE DE 2006)</small>
 
 ### CAPÍTULO OCTAVO. Violencia Familiar
 
@@ -6151,7 +6153,7 @@ Representación legal o por dependencia oficial de menores, incapaces, ancianos 
 
 Cuando el afectado fuere menor o incapaz, anciano o discapacitado, los hechos deberán ser denunciados por sus representantes legales, por el Ministerio Público o por la Procuraduría de la Familia. También estarán obligados a efectuar la denuncia los encargados de los servicios asistenciales, sociales o educativos, públicos o privados, los profesionales de la salud y todo funcionario público en razón de su labor. El menor o incapaz puede directamente poner en conocimiento de los hechos al Ministerio Público.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE SEPTIEMBRE DE 2006)</small>
 
 ###### ARTÍCULO 599.
 
@@ -6213,7 +6215,7 @@ Requisito en caso de representación voluntaria.
 
 Si el juicio se entablare por medio de apoderado, no será admitida la personalidad del representante si no tiene poder especial o que contenga cláusula expresa, autorizándolo para formular la demanda y tramitar el juicio.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE AGOSTO DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE AGOSTO DE 2004)</small>
 
 ###### ARTÍCULO 603.
 
@@ -13169,7 +13171,7 @@ EL SECRETARIO DE GOBIERNO
 
 LIC. CARLOS JUARISTI SEPTIEN
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 25 DE JULIO DE 2003.
 
@@ -13228,3 +13230,9 @@ PRIMERO.- Este decreto entrará en vigor al día siguiente de su publicación en
 SEGUNDO.- Hasta en tanto el Consejo de la Judicatura determine nueva cuantía de los juicios civiles y mercantiles que podrán conocer los Juzgados letrados en materia civil, éstos continuarán conociendo de los asuntos que les competen.
 
 TERCERO.- Se dejan sin efectos las disposiciones que se opongan a lo previsto en este decreto.
+
+P.O. 19 DE AGOSTO DE 2011.
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
