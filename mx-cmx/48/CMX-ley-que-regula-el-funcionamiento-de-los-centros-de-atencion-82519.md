@@ -1,0 +1,585 @@
+---
+title: "LEY QUE REGULA EL FUNCIONAMIENTO DE LOS CENTROS DE ATENCION Y CUIDADO INFANTIL PARA LA CIUDAD DE MEXICO -- ANTES LEY QUE REGULA EL FUNCIONAMIENTO DE LOS CENTROS DE ATENCION Y CUIDADO INFANTIL PARA EL DISTRITO FEDERAL --"
+identifier: "CMX-ley-que-regula-el-funcionamiento-de-los-centros-de-atencion-82519"
+country: "mx"
+rank: "ley"
+publication_date: "2011-08-19"
+last_updated: "2011-08-19"
+status: "in_force"
+source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=82519&Vig=1&TPub=6"
+department: "Gaceta Oficial de la Ciudad de México"
+jurisdiction: "mx-cmx"
+scjn_id: "82519"
+scjn_status: "VIGENTE"
+gazette: "Gaceta Oficial de la Ciudad de México"
+original_category: "LEY"
+original_gazette_section: "G.O. 1164"
+reform_count: "3"
+scjn_last_update: "2022-12-12"
+issue_date: "2011-05-17"
+---
+# LEY QUE REGULA EL FUNCIONAMIENTO DE LOS CENTROS DE ATENCION Y CUIDADO INFANTIL PARA LA CIUDAD DE MEXICO -- ANTES LEY QUE REGULA EL FUNCIONAMIENTO DE LOS CENTROS DE ATENCION Y CUIDADO INFANTIL PARA EL DISTRITO FEDERAL --
+
+LEY QUE REGULA EL FUNCIONAMIENTO DE LOS CENTROS DE ATENCION Y CUIDADO INFANTIL PARA EL DISTRITO FEDERAL
+
+TEXTO ORIGINAL.
+
+Ley publicada en la Gaceta Oficial del Distrito Federal, el viernes 19 de agosto de 2011.
+
+(Al margen superior un escudo que dice: Ciudad de México.- Capital en Movimiento)
+
+MARCELO LUIS EBRARD CASAUBON, Jefe de Gobierno del Distrito Federal, a sus habitantes sabed:
+
+Que la H. Asamblea Legislativa del Distrito Federal, V Legislatura, se ha servido dirigirme el siguiente:
+
+DECRETO
+
+(Al margen superior izquierdo el Escudo Nacional que dice: ESTADOS UNIDOS MEXICANOS.- ASAMBLEA LEGISLATIVA DEL DISTRITO FEDERAL.- V LEGISLATURA)
+
+ASAMBLEA LEGISLATIVA DEL DISTRITO FEDERAL V LEGISLATURA.
+
+D E C R E T A
+
+DECRETO POR EL QUE SE EXPIDE LA LEY QUE REGULA EL FUNCIONAMIENTO DE LOS CENTROS DE ATENCIÓN Y CUIDADO INFANTIL PARA EL DISTRITO FEDERAL.
+
+###### ARTÍCULO ÚNICO.
+
+Se expide la Ley que Regula el Funcionamiento de los Centros de Atención y Cuidado Infantil para el Distrito Federal, para quedar como sigue:
+
+LEY QUE REGULA EL FUNCIONAMIENTO DE LOS CENTROS DE ATENCIÓN Y CUIDADO INFANTIL PARA EL DISTRITO FEDERAL.
+
+### CAPÍTULO I. DISPOSICIONES GENERALES
+
+###### ARTÍCULO 1.
+
+La presente Ley es de orden público y de observancia general en el Distrito Federal, y tiene por objeto regular las bases, condiciones y procedimientos mínimos para la creación, administración y funcionamiento de los Centros de Atención y Cuidado Infantil, que deben constituir un espacio seguro para el cuidado de los niños y niñas de padres, madres o de quien ejerza la patria potestad, guarda y custodia.
+
+###### ARTÍCULO 2.
+
+La aplicación de la presente Ley corresponde al Jefe de Gobierno del Distrito Federal, al Sistema para el Desarrollo Integral de la Familia del Distrito Federal, Dependencias que integran la Administración Pública Central y al Instituto de Verificación Administrativa del Distrito Federal, en sus respectivos ámbitos de competencia.
+
+###### ARTÍCULO 3.
+
+En todo lo no previsto por la presente Ley, serán de aplicación supletoria las disposiciones normativas de la Ley de Procedimiento Administrativo, Ley de Educación, Ley de Salud, Ley de Protección Civil, Ley del Instituto de Verificación Administrativa y el Código Civil, todos para el Distrito Federal y demás ordenamientos aplicables a la presente ley.
+
+###### ARTÍCULO 4.
+
+Para efectos de esta Ley, se entiende por:
+
+I. Autorización de apertura: Al permiso de funcionamiento emitido por la Secretaría de Gobierno para ejercer el servicio de Centros de Atención y Cuidado Infantil en el territorio del Distrito Federal, una vez que en materia de la presente Ley hayan cumplido los requisitos establecidos.
+
+II. Carta Compromiso: El acuerdo suscrito entre el usuario y el prestador de servicios con el objeto de utilizar los servicios de cuidado y atención infantil, en el que se indique entre otros aspectos: el nombre de los niños y niñas, horario y costo del servicio.
+
+III. CACI: A los Centros de Atención y Cuidado Infantil cualquiera que sea su denominación, de carácter privado, público o comunitario, manejados por personas físicas o morales que cuenten con centros para proporcionar servicios de cuidado y atención de niños y niñas a partir de los 45 días de nacidos hasta cinco años once meses de edad.
+
+IV. Comité: Al Comité de Desarrollo Interinstitucional de Atención y Cuidado de la Infancia.
+
+V. Contingencia: Siniestro, hecho funesto, daño grave, destrucción fortuita o pérdida importante que sufren los seres humanos en su persona o en sus bienes, causados por la presencia de un riesgo, emergencia o desastre.
+
+VI. Cuidado y Atención Infantil: Acciones tendientes a preservar y favorecer el bienestar de los niños y niñas, tomando como base la satisfacción de sus necesidades.
+
+VII. DIF DF: El Sistema para el Desarrollo Integral de la Familia del Distrito Federal que es un Organismo Público Descentralizado de la Administración Pública del Distrito Federal, con personalidad jurídica y patrimonio propios, teniendo como objetivos la promoción de la asistencia social y la prestación de servicios asistenciales en el Distrito Federal.
+
+VIII. Fondo: Al Fondo de Apoyo de Regularización de los CACI del Distrito Federal.
+
+IX. Instituto de Verificación Administrativa: Es el organismo descentralizado de la Administración Pública del Distrito Federal, con personalidad jurídica y patrimonio propio, dotado de autonomía presupuestaria, de operación y decisión funcional.
+
+X. Ley: Ley que Regula el Funcionamiento y Operación de los Centros de Atención y Cuidado Infantil para el Distrito Federal.
+
+XI. Niñas y niños: A la niña o niño desde los 45 días de nacido hasta los cinco años once meses de edad.
+
+XII. Padrón Único de Centros de Atención y Cuidado Infantil: Instrumento de registro y control de los Centros de Atención y Cuidado Infantil del Distrito Federal.
+
+XIII. Prestadores de servicios: Es la persona física o moral, responsable de un CACI para realizar actividades relacionadas con la guarda, custodia, cuidado, aseo, alimentación y recreación de los niños y niñas.
+
+XIV. Programa General de Protección Civil: Aquel que realice la Secretaría de Protección Civil, con el fin de salvaguardar la integridad física de los niños y niñas, empleados y personas que concurren a ellos, así como de proteger las instalaciones, bienes e información vital, ante la ocurrencia de un riesgo, emergencia, siniestro o desastre.
+
+XV. Reglamento: El Reglamento de la Ley de Centros de Atención y Cuidado Infantil para el Distrito Federal.
+
+XVI. Secretaría de Protección Civil: es el Órgano de la Administración Pública Central del Distrito Federal encargado de elaborar, coordinar y vigilar la ejecución de programas de protección Civil y prevención del desastre.
+
+XVII. Secretaría de Salud del Distrito Federal: es el Órgano de la Administración Pública Central del Distrito Federal encargado formular, ejecutar, operar y evaluar las políticas de salud.
+
+XVIII. Visitas de Verificación: Son las realizadas por las autoridades competentes del Distrito Federal, para comprobar el cumplimiento de las disposiciones. Dichas visitas se sujetarán a los principios de unidad, funcionalidad, coordinación, profesionalización, simplificación, agilidad, precisión, legalidad, transparencia, imparcialidad y autocontrol de los particulares.
+
+XIX. Usuario: La persona que utilice los servicios de un CACI, en cualquiera de sus modalidades, quienes podrán ser la madre, padre, tutor o quien judicialmente tuviere confiada la guarda y custodia del niño o niña.
+
+###### ARTÍCULO 5.
+
+Los CACI se clasifican en:
+
+I. CACI Públicos: Los creados, financiados y administrados por el Gobierno del Distrito Federal o sus Instituciones;
+
+II. CACI Privados: Todos los que son creados, financiados y administrados por particulares, excepto los que reciban subsidios o apoyos del Gobierno Federal;
+
+III. CACI Comunitarios: En estos, el Gobierno del Distrito Federal, los órganos político-administrativos y/o las personas físicas o morales participan en el financiamiento o establecimiento de centros que proporcionan diversos servicios de cuidado y atención a la infancia.
+
+###### ARTÍCULO 6.
+
+Además de la clasificación anterior, los CACI agruparán a las niñas y a los niños, para su cuidado y atención, por rangos de edad, así como en los grados y grupos siguientes:
+
+I. Lactantes: de 45 días de nacidos a 18 meses de edad.
+
+II. Maternal: de 1 año seis meses a tres años de edad.
+
+III. Preescolar: de 3 a 5 años 11 meses de edad.
+
+### CAPÍTULO II. DE LAS ATRIBUCIONES
+
+###### ARTÍCULO 7.
+
+Corresponde al Jefe de Gobierno:
+
+I. Emitir el Reglamento;
+
+II. Garantizar y velar por la integridad de los niños y niñas a través de las autoridades correspondientes mediante la aplicación de la presente ley;
+
+III. Evaluar los resultados de los servicios prestados en los CACI;
+
+IV. Incluir anualmente en el decreto de presupuesto de egresos del Distrito Federal, los recursos necesarios para la ejecución de la presente Ley;
+
+V. Vigilar el estricto cumplimiento de esta ley, así como las disposiciones que se dicten con base en ella, sin perjuicio de las facultades que en la materia competan a las dependencias públicas locales y federales, y
+
+VI. Las demás que le otorguen las leyes aplicables.
+
+###### ARTÍCULO 8.
+
+Corresponde al DIF DF:
+
+I. Elaborar el Padrón Único de Centros de Atención y Cuidado Infantil y publicarlo en su respectivo sitio de internet;
+
+II. Planear, organizar, desarrollar, administrar, supervisar y evaluar los servicios de atención y cuidado de los CACI;
+
+III. Observar que los CACI, cumplan con los planes y programas de desarrollo generados por estos, y que los servicios que proporcionen se sujeten a las normas establecidas en esta Ley;
+
+IV. Coordinar con las autoridades correspondientes las tareas de rehabilitación y mantenimiento de los CACI, así como el adecuado funcionamiento de todas y cada una de las instalaciones;
+
+V. Coordinar los programas de capacitación para el personal, incluyendo de manera permanente la enseñanza de cuidados y atención de niñas y niños;
+
+VI. Coordinar y determinar las opciones de actualización, acreditación y certificación para el personal, de acuerdo a su nivel y grado de desarrollo;
+
+VII. Celebrar convenios con la federación, así como con las autoridades correspondientes para unificar, ampliar y enriquecer los servicios de atención y cuidado infantil, y
+
+VIII. Las demás que le otorguen las leyes aplicables y que no se opongan a las disposiciones de la presente ley.
+
+###### ARTÍCULO 9.
+
+Corresponde a la Secretaría de Salud las siguientes atribuciones:
+
+I. Elaborar todos aquellos actos que permitan preservar la salubridad de los CACI de conformidad con la normatividad que en materia de salud esté vigente en el Distrito Federal;
+
+II. Emitir lineamientos en materia de sanidad para los CACI;
+
+III. Elaborar programas de nutrición y difundir información para recomendar hábitos alimenticios y de higiene correctos al interior de los CACI;
+
+IV. Realizar las visitas de inspección, cuando considere conveniente, con el fin de evaluar que las instalaciones destinadas a CACI cumplan con la normatividad en materia de salud;
+
+V. Supervisar que los CACI se sujeten a los lineamientos establecidos en la Ley de Salud del Distrito Federal;
+
+VI. Vigilar que los niños y niñas a su cuidado estén al corriente de sus vacunas, y
+
+VII. Las demás que le otorguen las leyes aplicables y que no se opongan a lo dispuesto en la presente Ley.
+
+###### ARTÍCULO 10.
+
+Corresponde a la Secretaría de Protección Civil, las siguientes atribuciones:
+
+I. La expedición del Programa General de Protección Civil para los CACI;
+
+II. Fomentar el cumplimiento del Programa General de Protección Civil en los CACI;
+
+III. Realizar la capacitación y actualización del personal que preste sus servicios en los CACI de acuerdo al Programa General de Protección Civil;
+
+IV. Emitir recomendaciones derivadas del programa General de Protección Civil, y
+
+V. Las demás que le otorguen las leyes aplicables.
+
+###### ARTÍCULO 11.
+
+Corresponde al Instituto de Verificación Administrativa:
+
+I. Practicar visitas de verificación administrativa en los CACI;
+
+II. Hacer públicas en su página de Internet las verificaciones y los resultados de estas, de conformidad con la normatividad que en materia de transparencia se establezca;
+
+III. Ordenar y ejecutar las medidas de seguridad que estime necesarias en los CACI, así como resolver los recursos administrativos que se promuevan;
+
+IV. Imponer, cuando sea procedente, en los CACI las sanciones previstas en las leyes, y
+
+V. Las demás que le otorguen las leyes aplicables y el Reglamento de los CACI.
+
+###### ARTÍCULO 12.
+
+Se crea el Comité de Desarrollo Interinstitucional de Atención y Cuidado de la Infancia, que es un órgano colegiado que tiene la función de evaluar y supervisar el cumplimiento de los objetivos y prioridades de los CACI.
+
+###### ARTÍCULO 13.
+
+El Comité, será integrado por:
+
+I. Jefe de Gobierno, quien lo presidirá;
+
+II. Director General del Sistema para el Desarrollo Integral de la Familia del Distrito Federal, quien tendrá a cargo la coordinación ejecutiva del Comité;
+
+III. Secretario de Protección Civil;
+
+IV. Secretario de Salud;
+
+V. Secretario de Educación; y
+
+VI. Un Representante de la Secretaría de Desarrollo Social del Distrito Federal.
+
+### CAPÍTULO III. COMITÉ DE DESARROLLO INTERINSTITUCIONAL DE ATENCIÓN Y CUIDADO DE LA INFANCIA
+
+###### ARTÍCULO 14.
+
+Corresponde al Comité de Desarrollo Interinstitucional de Atención y Cuidado de la Infancia, las siguientes atribuciones:
+
+I. Evaluar y supervisar el cumplimiento de los objetivos, metas y prioridades de los programas que se implementen, conjuntamente con los responsables de la ejecución de los mismos;
+
+II. Observar que en los CACI se cumplan con las disposiciones de la presente ley, así como los programas que en ellos se implementen en materia de seguridad y sanidad;
+
+III. Recopilar de manera sistemática y permanente con ayuda de las instituciones y organismos pertinentes los datos estadísticos relativos a los CACI que reflejen las condiciones físicas de las instalaciones, así como la matricula de los niños y de las niñas realizando su publicación cuando menos una vez al año;
+
+IV. Desarrollar y promover campañas y programas de prevención en materia de protección civil y salud en los CACI;
+
+V. Entregar un informe anual a la Asamblea Legislativa, y
+
+VI. Las demás que le otorguen las leyes aplicables y el Reglamento de los CACI.
+
+###### ARTÍCULO 15.
+
+Los CACI Públicos, Privados y Comunitarios que presten el servicio de atención y cuidado infantil en el Distrito Federal, con independencia de su régimen interno, deberán sujetarse, en lo conducente, a las disposiciones de esta Ley, y deberán registrarse en la Secretaría de Gobierno a efecto de realizar el tramite para la autorización de apertura.
+
+### CAPÍTULO IV. MEDIDAS DE SEGURIDAD EN LOS CENTROS DE ATENCIÓN Y CUIDADO INFANTIL
+
+###### ARTÍCULO 16.
+
+Los CACI deberán estar preferentemente, en la planta baja o primer piso, o en el caso de tener dos o más niveles, contar con dispositivos para evitar que los niños y niñas puedan lastimarse.
+
+###### ARTÍCULO 17.
+
+Los CACI deberán contar con la organización física y funcional que contemple la distribución de las siguientes áreas:
+
+I. Área física con dimensiones en promedio de dos metros cuadrados por niño suficientes, acorde a los servicios que se proporcionan y al tamaño del CACI. Asimismo, deberá ser suficientemente amplio de conformidad con el número de menores que atienda;
+
+II. Área de alimentación y de preparación de alimentos, esta última deberá estar ubicada de tal manera que los menores no tengan acceso a ella o que esté protegida con una puerta;
+
+III. Área común para el desarrollo de actividades físicas, de recreación o lúdicas;
+
+IV. Sala de atención con mobiliario acorde al servicio que preste cada CACI;
+
+V. Sanitarios con retretes, lavabos y bacinicas de acuerdo al modelo de atención y al sexo de los niños o niñas, en los que las puertas de las cabinas de los inodoros permitan una discreta vigilancia desde el exterior. En aquellos CACI que atiendan a infantes con discapacidad el sanitario deberá ser accesible para éstos, asimismo los CACI deberán contar con sanitario exclusivo para el uso del personal.
+
+###### ARTÍCULO 18.
+
+Los CACI, deberán contar con iluminación natural y artificial, ventilación adecuada que permita la circulación del aire y evite temperaturas extremas, asimismo, con pisos y acabados que no representen peligro para los niños y niñas, y tener botiquín de primeros auxilios.
+
+Toda escalera o rampa debe disponer de pasamanos, al menos en uno de sus laterales y deberá tener superficies antiderrapantes. Estarán prohibidas las escaleras helicoidales.
+
+Los CACI no podrán estar cerca de lugares que pongan en riesgo la integridad de los niños y niñas, de conformidad con la reglamentación que se dicte al respecto.
+
+###### ARTÍCULO 19.
+
+Los CACI, deberán contar con las medidas de seguridad siguientes:
+
+I. Extintores suficientes de capacidad adecuada;
+
+II. Toda la señalización y avisos de protección civil;
+
+III. Definir las rutas de evacuación, señalizarlas y verificar diariamente que se encuentren despejadas de obstáculos que impidan su utilización, y
+
+IV. Instalar detectores de humo en el interior del CACI.
+
+###### ARTÍCULO 20.
+
+El personal de los CACI, en el caso de contingencias deberán observar las medidas siguientes:
+
+I. Establecer como política que al menos una vez cada tres meses se realice un simulacro con diferentes hipótesis, con participación de todas las personas que ocupen regularmente el edificio;
+
+II. Programar sesiones informativas con objeto de transmitir a los ocupantes las instrucciones de comportamiento frente a situaciones de emergencia, y
+
+III. Planificar las acciones y actividades de los ocupantes vinculadas a situaciones de emergencia, determinando quien hará el aviso a los servicios de emergencia exteriores.
+
+###### ARTÍCULO 21.
+
+Las instalaciones de los CACI deberán observar las siguientes medidas de seguridad frente al riesgo derivado del uso de las instalaciones del edificio:
+
+I. El suelo de los sanitarios no será resbaladizo;
+
+II. Todos los mecanismos eléctricos deberán contar con protección infantil;
+
+III. Los aparatos de calefacción y las tuberías no deben tener la posibilidad de quemaduras o daños producidos por elementos salientes o aristas vivas a los usuarios del CACI;
+
+IV. Todo mobiliario con riesgo para las niñas y niños o el personal, deberá estar anclado o fijo a pisos, muros o techos;
+
+V. Establecer políticas para el acceso de vehículos a la zona de estacionamiento en caso de contar con dicha área debiendo ser independiente del acceso de los niños y niñas;
+
+VI. Las zonas de paso, patios y espacios de recreo no se podrán utilizar en ningún caso como zonas de almacenaje, y
+
+VII. Se debe contar con al menos una salida de emergencia, debiéndose verificar y comprobar periódicamente que se encuentre permanentemente despejada de obstáculos, así como su correcto funcionamiento.
+
+###### ARTÍCULO 22.
+
+Además de lo previsto en la presente ley, los CACI que brinden servicios educativos observarán lo dispuesto en la normatividad aplicable. Aquellos que además de dar cuidado y atención infantil impartan educación inicial o preescolar, conforme a los convenios, acuerdos y demás normatividad que en materia de educación resulte aplicable, la capacitación y supervisión se llevarán a cabo en coordinación entre la Secretaría de Educación y el DIF DF.
+
+### CAPÍTULO V. DEL PERSONAL
+
+###### ARTÍCULO 23.
+
+Los CACI contarán con el personal capacitado, para la realización de las tareas que le sean encomendadas.
+
+###### ARTÍCULO 24.
+
+Es obligación del personal, así como de sus responsables, denunciar cualquier tipo de violencia o abuso en contra de los niños y niñas ante las autoridades correspondientes; asimismo, dicho personal tendrá la obligación de informar sobre cualquier situación de peligro al encargado de la misma o su superior, y de tomar las medidas necesarias para que cese dicha situación inmediatamente.
+
+###### ARTÍCULO 25.
+
+Para salvaguardar la integridad de los niños y niñas, sólo se permitirá la entrada a los empleados que laboren en el CACI; quienes en todo momento deberán portar un gafete y uniforme que los identifique como personal del CACI y serán los únicos que podrán convivir con los infantes.
+
+Con excepción al párrafo anterior, los CACI deberán prever dentro de sus políticas o programas el derecho que tienen los padres o custodios legales de realizar visitas mientras los niños y niñas se encuentran a su cuidado.
+
+###### ARTÍCULO 26.
+
+Los prestadores del servicio de cuidado deberán tratar a los niños y niñas con respeto y comprensión, en un ambiente adecuado para lograr su pleno desarrollo físico y mental.
+
+Asimismo, podrán orientar a la madre, padre, o quienes judicialmente se le hubiere confiado la guarda o custodia, o ejerza la patria potestad, respecto de los asuntos relacionados con los niños y niñas en un ambiente de ética y confidencialidad, considerando el interés común acerca del desarrollo integral de los mismos.
+
+### CAPÍTULO VI. DE LA ADMISIÓN DE LOS NIÑOS Y NIÑAS
+
+###### ARTÍCULO 27.
+
+Los CACI para admitir a un niño o niña, deberán suscribir una carta compromiso con el padre, madre, tutor, o quien ejerza la patria potestad o guarda y custodia sobre el niño o la niña, en el cual se fijarán entre otras circunstancias, el horario al que quedará sujeta la prestación del servicio, la persona o personas autorizadas para recoger al niño o niña, la tolerancia para su entrada y salida y, en su caso, el costo del servicio.
+
+###### ARTÍCULO 28.
+
+Cada CACI deberá contar con un reglamento interno que no contravenga la presente Ley, en el que se establecerán los derechos y obligaciones del usuario y del prestador de servicio, así como los requisitos de admisión del niño o niña.
+
+###### ARTÍCULO 29.
+
+El reglamento interno de cada CACI contendrá como mínimo los siguientes requisitos de admisión del niño o niña:
+
+I. Del niño o niña:
+
+a) Copia certificada y fotostática del acta de nacimiento;
+
+b) Comprobante de examen médico general para descartar enfermedades infecciosas trasmisibles que ponga en peligro la salud de los niños y niñas, y
+
+c) Cartilla de vacunación.
+
+II. Del usuario:
+
+a) Nombre completo del usuario;
+
+b) Comprobante de domicilio;
+
+c) Copia de una identificación oficial;
+
+d) En caso de quienes judicialmente se les hubiere conferido la patria potestad o la guarda y custodia del niño o niña, deberán demostrarlo con los documentos correspondientes;
+
+e) Fotografías del usuario necesarias que dicte la política de los CACI, y
+
+f) Nombre y fotografías de las personas autorizadas para recoger al niño o niña en ausencia del usuario, cuyo número no excederá de tres, debiendo ser mayores de edad.
+
+### CAPÍTULO VII. DE LAS OBLIGACIONES DEL USUARIO
+
+###### ARTÍCULO 30.
+
+Para que el usuario tenga los servicios de los CACI deberá cumplir con las disposiciones de la presente Ley, así como las políticas y disposiciones internas que al efecto se emitan.
+
+###### ARTÍCULO 31.
+
+Es obligación del usuario mantener informado al personal, de cambios de números de teléfono, de domicilio, así como cualquier otro dato relacionado con las personas autorizadas para recoger al niño o niña.
+
+La información a la que se refiere este artículo deberá proporcionarse a más tardar en la semana siguiente en que ocurran los cambios de referencia.
+
+###### ARTÍCULO 32.
+
+El usuario deberá informar al personal de los CACI todos aquellos datos biológicos, psíquicos o sociales, relacionados con el niño o niña que considere necesarios.
+
+###### ARTÍCULO 33.
+
+El usuario está obligado a observar las indicaciones de tipo médico-preventivo que se le hagan por parte del personal autorizado, a fin de que el niño o niña sea sometido a exámenes médicos, en la forma y en los plazos que establezca la Secretaría de Salud.
+
+###### ARTÍCULO 34.
+
+El usuario o persona autorizada presentará al niño o niña con sus artículos de uso personal en la cantidad y con las características señaladas en los Reglamentos de los CACI.
+
+###### ARTÍCULO 35.
+
+Los niños y niñas no llevarán ningún objeto que le pueda causar daño a su persona o a la de los otros.
+
+###### ARTÍCULO 36.
+
+El usuario o persona autorizada informará diariamente al personal, el estado de salud que observó el niño o niña durante las últimas doce horas, que quedará asentado en el registro diario del filtro sanitario del niño o niña.
+
+En caso de que se informe que el niño o niña durante ese lapso sufrió algún accidente o presentó alteraciones en su estado de salud, el usuario o persona autorizada deberá esperar el resultado del filtro sanitario que se haga para su aceptación o rechazo para ese día.
+
+La omisión de proporcionar la información mencionada en el presente artículo, eximirá en su caso, de responsabilidad al personal de los CACI.
+
+###### ARTÍCULO 37.
+
+Es obligación del usuario o de la persona autorizada informar al personal las causas que hayan originado las lesiones físicas que presente el niño o la niña y que hubieren sido detectadas en los CACI al realizar el filtro sanitario o durante su estancia.
+
+Dependiendo de la gravedad de las lesiones y en caso de que éstas se apreciaran reiteradamente en el cuerpo del niño o niña, el responsable del CACI dará aviso a las autoridades competentes.
+
+###### ARTÍCULO 38.
+
+En caso de administrarse algún medicamento o alimento especial al niño o niña durante su estancia, será siempre a solicitud del usuario en la forma que señale la receta médica que entregará al momento de presentarlo en el CACI.
+
+###### ARTÍCULO 39.
+
+El usuario o la persona autorizada, está obligado a acudir a los CACI, en las circunstancias siguientes:
+
+I. Cuando se requiera su presencia por motivos de salud del niño o niña;
+
+II. Para realizar trámites administrativos;
+
+III. Cuando se requiera su participación activa en los programas y actividades de integración del niño o niña, y
+
+IV. En las reuniones de orientación, jornadas de trabajo o pláticas informativas, siempre que lo convoque los responsables del CACI o la persona responsable de la atención del niño o niña.
+
+###### ARTÍCULO 40.
+
+El usuario deberá avisar al personal respecto a la inasistencia del niño o niña, así como las causas que la motiven.
+
+###### ARTÍCULO 41.
+
+Cuando el niño o niña durante su estancia requiera de atención médica de urgencia, será trasladado al servicio médico correspondiente.
+
+En este caso se informará al usuario o personas autorizadas dicha situación, quiénes tendrán la obligación de presentarse en el lugar médico en el que se encuentre el niño o niña para conocer el estado de salud y permanecer con éste.
+
+El personal que acompañe al niño o la niña al centro de Salud o el lugar médico, permanecerá hasta en tanto llegue el usuario o personas autorizadas, las cuales se deberán identificar plenamente.
+
+### CAPÍTULO VIII. DE LA ENTREGA DE LOS NIÑOS O NIÑAS
+
+###### ARTÍCULO 42.
+
+Los CACI deberán expedir una credencial al usuario con el objeto de que se identifique éste y las personas autorizadas para recoger a los niños o niñas. En ningún caso serán entregados a persona distinta a las autorizadas para recogerlos.
+
+###### ARTÍCULO 43.
+
+El usuario o persona autorizada no deberá presentarse a recoger al niño o niña, bajo el influjo de bebidas embriagantes, drogas, enervantes o cualquier otra sustancia tóxica que altere su estado de conciencia. De lo contrario el CACI se reserva la facultad de retener al niño o niña hasta antes del cierre del mismo, lapso durante el cual el personal agotará las instancias para localizar a las personas autorizadas.
+
+###### ARTÍCULO 44.
+
+En el supuesto de que algún infante no sea recogido, el personal de los CACI, deberá agotar todas las instancias para localizar al usuario o personas autorizadas, posteriormente el personal dará parte al Juez Cívico de la demarcación territorial que corresponda.
+
+Asimismo, el usuario se hará acreedor a las sanciones que sobre el particular se establezcan.
+
+### CAPÍTULO IX. DE LA AUTORIZACIÓN DE APERTURA DE LOS CENTROS DE ATENCIÓN Y CUIDADO INFANTIL
+
+###### ARTÍCULO 45.
+
+La autorización de apertura para la operación y funcionamiento de los CACI, deberá tramitarla el responsable del Centro, para ejercer lícitamente la materia que regula esta Ley y demás disposiciones aplicables, por tanto, es intransferible, inalienable e inembargable y cualquier acto tendiente a tales efectos, será nulo de pleno derecho.
+
+###### ARTÍCULO 46.
+
+Los requisitos para tramitar la autorización de apertura son los siguientes:
+
+I.- Llenar el formato expedido por la Secretaría de Gobierno en el que se especificará, el nombre de la persona física o moral que desee prestar el servicio de un CACI;
+
+II.- Entrega de los siguientes documentos:
+
+a) Constancia expedida por la Secretaría de Protección Civil, quien tendrá un plazo de treinta días naturales para expedirla, en la cual se exprese que las instalaciones cuentan con todas las medidas de seguridad previstas en la presente ley para operar;
+
+b) Identificación oficial vigente y tratándose de personas morales, el acta constitutiva, reformas a ésta y los documentos que acrediten la representación legal del solicitante, y
+
+c) Carta de no antecedentes penales expedida por la Procuraduría General de Justicia del Distrito Federal de las personas físicas y en su caso de todos los socios de la persona moral, salvo tratándose de delitos culposos, cuando en estos últimos haya transcurrido el término de tres años. Por ningún motivo deberá tener antecedentes por delitos previstos en el Libro II, Título V y VI del Código Penal para el Distrito Federal, o cualquier otro similar que pudiera poner en peligro la integridad física y psicológica de los niños o niñas; y
+
+III. Un proyecto de reglamento operativo, de acuerdo con las edades y número de los niños y niñas que atenderá.
+
+###### ARTÍCULO 47.
+
+Recibida la solicitud, la Secretaria de Gobierno en un plazo máximo de quince días hábiles, comunicará al interesado la resolución fundada y motivada correspondiente y, en su caso, expedirá la autorización de apertura.
+
+###### ARTÍCULO 48.
+
+Para los CACI privados, además de las infracciones y sanciones señaladas en esta Ley, serán causas de revocación de la autorización de apertura expedida por la autoridad competente, las siguientes:
+
+I. Suspender sin causa justificada las actividades del CACI por un lapso mayor de 10 días hábiles;
+
+II. Realizar reiteradamente actividades diferentes a las autorizadas; y,
+
+III. Dejar de satisfacer los requisitos de operación o incumplir con las obligaciones establecidas en esta Ley y en el Reglamento, así como en la certificación.
+
+###### ARTÍCULO 49.
+
+Las autorizaciones de apertura deberán contener los datos del titular, nombre o denominación del CACI y su ubicación, el número de control respectivo, la fecha de expedición, el horario y días de prestación de servicio, en su caso, atendiendo a la modalidad, según sea el caso.
+
+### CAPÍTULO X. DE LA CAPACITACIÓN DEL PERSONAL
+
+###### ARTÍCULO 50.
+
+Los CACI, deberán establecer programas permanentes de capacitación para su personal; o bien autorizarlos para que participe en aquellos organizados por las autoridades correspondientes.
+
+###### ARTÍCULO 51.
+
+Lo cursos y programas de capacitación y actualización, así como talleres que organicen e implementen las autoridades, tendrán por objeto:
+
+I. Garantizar y certificar la calidad de los servicios que se presten en los CACI;
+
+II. Establecer un sistema permanente de capacitación y actualización del personal para su debida certificación, y
+
+III. Estimular y reconocer la calidad en la prestación del servicio.
+
+### CAPÍTULO XI. DE LAS INSPECCIONES Y VISITAS
+
+###### ARTÍCULO 52.
+
+En los CACI se practicarán las inspecciones, visitas y verificaciones que resulten pertinentes, con la finalidad de garantizar su buen funcionamiento en los rubros de cuidado y atención infantil, seguridad, nutrición, salubridad e higiene, los procedimientos se realizarán de conformidad con lo previsto en esta Ley, el Reglamento y demás normatividad aplicable.
+
+### CAPÍTULO XII. DE LA SUSPENSIÓN
+
+###### ARTÍCULO 53.
+
+El Instituto de Verificación Administrativa podrá ordenar la suspensión fundada y motivada, temporal o definitiva de los servicios que prestan los CACI, de conformidad con su normatividad y la presente Ley.
+
+###### ARTÍCULO 54.
+
+La autoridad correspondiente podrá ordenar la suspensión temporal de los servicios que prestan los CACI, cuando se den las causas que se mencionan a continuación:
+
+I. Cuando se detecte la existencia o la posibilidad de un padecimiento epidémico entre las niñas y los niños, de tal manera que se haga indispensable aislar el área que ocupa el CACI, por el tiempo que la Secretaría de Salud considere necesario;
+
+II. Cuando el CACI, considere necesario ejecutar obras de reparación, ampliación, remodelación, reacondicionamiento o reubicación del inmueble que ocupa el Centro, durante las cuales sea imposible la prestación del servicio en condiciones normales para las niñas y los niños o se ponga en riesgo su seguridad, y
+
+III. Cuando sobrevenga algún fenómeno natural, contingencia o causa operativa que impida la prestación del servicio.
+
+###### ARTÍCULO 55.
+
+Las sanciones, así como la revocación de las autorizaciones de apertura, serán por resolución que emane de los procedimientos establecidos en la Ley de Procedimiento Administrativo del Distrito Federal.
+
+### CAPÍTULO XIII. DEL FONDO DE APOYO PARA LA REGULARIZACIÓN DE LOS CENTROS DE ATENCIÓN Y CUIDADO INFANTIL
+
+###### Artículo 56.
+
+Los CACI contarán con un Fondo de Apoyo para su regularización, administrado por la Secretaría de Finanzas del Distrito Federal y en coordinación con el DIF DF.
+
+El Comité, establecerá los mecanismos para acceder al Fondo, tomando en cuenta lo siguiente:
+
+I. Grado de marginación;
+
+II. Necesidades materiales que permitan garantizar la seguridad del CACI;
+
+III. Número de niñas y niños inscritos en el CACI;
+
+IV. La urgencia o nivel de riesgo de las reparaciones o mejoras;
+
+V. Las demás que se planteen y que serán evaluadas por el Comité.
+
+## TRANSITORIOS
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- El Jefe de Gobierno del Distrito Federal deberá emitir el Reglamento respectivo en un plazo no mayor de noventa días a partir de la entrada en vigor de la presente Ley.
+
+TERCERO.- Los CACI que se encuentren en operación con anterioridad a la entrada en vigor de la presente Ley, contarán con el plazo que la autoridad correspondiente expida para su regularización.
+
+CUARTO.- El Jefe de Gobierno del Distrito Federal, deberá incluir en el presupuesto anual, los recursos necesarios para la ejecución de la presente Ley. Asimismo se destinará una partida suficiente para le (sic) ejecución del Fondo de Apoyo para la Regularización de los Centros de Atención a la Infancia del Distrito Federal.
+
+QUINTO.- Para acceder al Fondo de Apoyo para la Regularización de los Centros de Atención a la Infancia del Distrito Federal, se dará prioridad a aquellos CACI ya establecidos para mejoras en su infraestructura.
+
+SEXTO.- El Comité Interinstitucional deberá quedar legalmente instalado dentro de los treinta días hábiles siguientes a la entrada en vigor de la presente Ley. El Reglamento Interno del Comité deberá expedirse dentro de los sesenta días siguientes a la fecha de su instalación.
+
+Recinto de la Asamblea Legislativa del Distrito Federal, a los veinte días del mes de diciembre del año dos mil diez.- POR LA MESA DIRECTIVA.- DIP. KAREN QUIROGA ANGUIANO, PRESIDENTA.- DIP. JUAN JOSÉ LARIOS MÉNDEZ, SECRETARIO.- DIP. JUAN CARLOS ZÁRRAGA SARMIENTO, SECRETARIO.- (Firmas)
+
+En cumplimiento de lo dispuesto por los artículos 122, apartado C, Base Segunda, fracción II, inciso b), de la Constitución Política de los Estados Unidos Mexicanos; 48, 49 y 67, fracción II, del Estatuto de Gobierno del Distrito Federal, para su debida publicación y observancia, expido el presente Decreto Promulgatorio en la Residencia Oficial del Jefe de Gobierno del Distrito Federal, en la Ciudad de México, a los diecisiete días del mes de mayo del año dos mil once.- EL JEFE DE GOBIERNO DEL DISTRITO FEDERAL, MARCELO LUIS EBRARD CASAUBON.- FIRMA.-EL SECRETARIO DE GOBIERNO, JOSÉ ÁNGEL ÁVILA PÉREZ.- FIRMA.- LA SECRETARIA DEL MEDIO AMBIENTE, MARTHA DELGADO PERALTA.- FIRMA.- EL SECRETARIO DE OBRAS Y SERVICIOS, FERNANDO JOSÉ ABOITIZ SARO.- FIRMA.- EL SECRETARIO DE SALUD, JOSÉ ARMANDO AHUED ORTEGA.- FIRMA.- EL SECRETARIO DE FINANZAS, ARMANDO LÓPEZ CÁRDENAS.- FIRMA.- EL SECRETARIO DE EDUCACIÓN, MARIO M. DELGADO CARRILLO.- FIRMA.
