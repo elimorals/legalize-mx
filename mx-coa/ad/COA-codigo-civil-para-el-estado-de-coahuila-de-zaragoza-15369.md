@@ -4,7 +4,7 @@ identifier: "COA-codigo-civil-para-el-estado-de-coahuila-de-zaragoza-15369"
 country: "mx"
 rank: "codigo"
 publication_date: "1999-06-25"
-last_updated: "2010-12-14"
+last_updated: "2011-08-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15369&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 CODIGO CIVIL PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE DICIEMBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE AGOSTO DE 2011.
 
 Código publicado en el Periódico Oficial del Estado de Coahuila, el viernes 25 de junio de 1999.
 
@@ -1653,17 +1653,17 @@ Todo acuerdo de esponsales, cualquiera que sea el nombre que se le de, no produc
 
 Cualquiera condición contraria a la perpetuación de la especie o a la ayuda mutua que se deben los cónyuges, se tendrá por no puesta.
 
-> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2005)</small>
+> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2011)</small>
 
 ###### ARTÍCULO 255.
 
-La edad para contraer matrimonio será de dieciséis años de edad tanto para el hombre como para la mujer salvo los casos expresamente exceptuados por la ley. El Juez de Primera Instancia en Materia Familiar puede conceder dispensa de edad por causas graves y justificadas.
+La edad para contraer matrimonio será de dieciocho años de edad tanto para el hombre como para la mujer salvo los casos expresamente exceptuados por la ley. El Juez de Primera Instancia en Materia Familiar puede conceder dispensa de edad por causas graves y justificadas.
 
-> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2005)</small>
+> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2011)</small>
 
 ###### ARTÍCULO 256.
 
-Los menores de dieciséis años podrán contraer matrimonio con el consentimiento de quienes deban otorgarlo de acuerdo con este Código.
+Los menores de dieciocho años podrán contraer matrimonio con el consentimiento de quienes deban otorgarlo de acuerdo con este Código.
 
 ###### ARTÍCULO 257.
 
@@ -2385,6 +2385,10 @@ IV. La cantidad que a título de alimentos un cónyuge debe pagar al otro durant
 
 V. La manera de administrar los bienes de la sociedad conyugal durante el procedimiento, y la de liquidar dicha sociedad después de ejecutoriado el divorcio. A ese efecto se acompañará un inventario y avalúo de todos los bienes muebles o inmuebles de la sociedad.
 
+> <small>(ADICIONADA, P.O. 19 DE AGOSTO DE 2011)</small>
+
+VI. Compromiso expreso de los cónyuges de no realizar actos de manipulación sobre los menores tendientes a provocar rechazo, rencor o distanciamiento hacia el otro cónyuge.
+
 ###### ARTÍCULO 369.
 
 El divorcio por mutuo consentimiento no puede pedirse sino pasados dos años de la celebración del matrimonio.
@@ -2397,9 +2401,19 @@ Una vez ratificada, el Oficial del Registro Civil los declarará divorciados, le
 
 No surtirá efectos legales el divorcio administrativo, si se comprueba que los cónyuges son menores de edad, tienen hijos menores, o mayores de edad incapaces, o que requieran de alimentos, o si alguno de los cónyuges requiere alimentos, o la sociedad conyugal no está liquidada; además, se harán acreedores a la sanción a que haya lugar.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE AGOSTO DE 2011)</small>
+
 ###### ARTÍCULO 370.
 
-Mientras que se decrete el divorcio, el juez autorizará la separación de los cónyuges de una manera provisional y dictará las medidas necesarias para asegurar la subsistencia de los hijos a quienes haya obligación de dar alimentos, y los bienes de los consortes.
+Mientras que se decrete el divorcio, el juez autorizará la separación de los cónyuges de una manera provisional y dictará las medidas necesarias para asegurar la subsistencia de los hijos a quienes haya obligación de dar alimentos, garantizar el desarrollo físico y emocional de los menores y los bienes del consorte.
+
+> <small>(ADICIONADO, P.O. 19 DE AGOSTO DE 2011)</small>
+
+En tanto se decrete el divorcio, los cónyuges deben evitar cualquier acto de manipulación encaminado a producir en los hijos rencor o distanciamiento hacia el otro cónyuge. La presencia de todo acto de este tipo será valorado por cualquier instancia especializada a solicitud del juez, preferentemente por el Centro de Evaluación Psicosocial del Poder Judicial del Estado, y considerado por aquél en su resolución.
+
+> <small>(ADICIONADO, P.O. 19 DE AGOSTO DE 2011)</small>
+
+Una vez decretado el divorcio, la misma actitud deberá ser observada por los padres
 
 ###### ARTÍCULO 371.
 
@@ -2455,6 +2469,10 @@ IV. Dictar, en su caso, las medidas precautorias que la ley establece respecto a
 
 V. Poner a los hijos al cuidado de la persona que de común acuerdo hubieren designado los cónyuges, pudiendo ser uno de estos. En defecto de ese acuerdo, el cónyuge que pida el divorcio, propondrá a la persona o personas en cuyo poder deben quedar provisionalmente los menores. Tratándose de menores de siete años, quedarán al cuidado de la madre, salvo que ello no sea conveniente porque represente un riesgo para su integridad física, salvo que ello no sea conveniente porque represente un riesgo para su integridad física, moral o emocional. El juez en cualquier tiempo y antes de que provea en definitiva, podrá prudentemente modificar sus determinaciones estableciendo las modalidades y medidas que estimen necesarias en beneficio de los mayores y de los bienes de estos; y sin más limitación que este mismo beneficio, puede confiar la custodia de los menores a un tercero o a una institución de asistencia social y la administración de los bienes a una institución de crédito o a cualquier persona física o moral que, a juicio del juez, pueda cumplir con esta función.
 
+> <small>(ADICIONADA, P.O. 19 DE AGOSTO DE 2011)</small>
+
+VI. Apercibir a los cónyuges de evitar cualquier acto de manipulación, encaminado a producir en un menor de edad rencor o rechazo hacia el otro progenitor.
+
 ###### ARTÍCULO 378.
 
 La sentencia de divorcio fijará la situación de los hijos menores. El juez resolverá todo lo relativo a los derechos y obligaciones inherentes a la patria potestad, su pérdida, suspensión o limitación, atendiendo en todo momento al interés de los hijos y a la aptitud física y moral de los padres, a cuyo efecto deberá oír a éstos y a los hijos, y en caso de estimarlo necesario, a los abuelos, tíos o hermanos mayores.
@@ -2462,6 +2480,10 @@ La sentencia de divorcio fijará la situación de los hijos menores. El juez res
 Si ninguno de los progenitores está capacitado para ejercer la patria potestad o asumir la custodia de los hijos, el juez llamará al ascendiente que corresponda, y si tampoco se le considera idóneo se proveerá al menor de un tutor. El juez fundará y motivará su resolución con especial cuidado.
 
 Ambos progenitores acordarán las modalidades del derecho de convivencia con los hijos. En caso de desacuerdo será el juez quien fije tales modalidades en ejecución de sentencia, con audiencia de quien ejerza la patria potestad y del otro progenitor o progenitores.
+
+> <small>(ADICIONADO, P.O. 19 DE AGOSTO DE 2011)</small>
+
+Dentro de la convivencia, de manera recíproca deberá evitarse todo acto de manipulación de parte de cualquiera de los progenitores o ascendientes encaminado a producir en un menor de edad rechazo, rencor o distanciamiento hacia el otro progenitor. Cuando el Juez tenga conocimiento de este tipo de actos tomará las medidas necesarias de seguridad, seguimiento y en su caso ordenará las terapias psicológicas procedentes con el fin de salvaguardar la integridad física y emocional del menor.
 
 ###### ARTÍCULO 379.
 
@@ -20620,3 +20642,19 @@ Se derogan todas las disposiciones legales que se opongan a lo establecido por e
 P.O. 14 DE DICIEMBRE DE 2010.
 
 ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 19 DE AGOSTO DE 2011.
+
+DECRETO No. 529 POR EL QUE SE REFORMAN LOS ARTICULOS 255 Y 256 DEL CODIGO CIVIL PARA EL ESTADO DE COAHUILA
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias que se opongan al presente Decreto.
+
+P.O. 19 DE AGOSTO DE 2011.
+
+DECRETO No. 530 POR EL QUE SE ADICIONA LA FRACCION VI AL ARTICULO 368, UN SEGUNDO Y TERCER PARRAFO AL ARTICULO 370, UNA FRACCION IV AL ARTICULO 377, HACIENDO DE LAS ACTUALES FRACCIONES IV Y V, LAS FRACCIONES V Y VI RESPECTIVAMENTE Y EL CUARTO PARRAFO DEL ARTICULO 378 DEL CODIGO CIVIL PARA EL ESTADO DE COAHUILA
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
