@@ -4,7 +4,7 @@ identifier: "COA-codigo-penal-del-estado-de-coahuila-de-zaragoza-antes-15146"
 country: "mx"
 rank: "codigo"
 publication_date: "1999-05-28"
-last_updated: "2011-02-04"
+last_updated: "2011-08-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15146&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 CODIGO PENAL DE COAHUILA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE FEBRERO DE 2011.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE AGOSTO DE 2011.
 
 Código publicado en el Periódico Oficial del Estado de Coahuila de Zaragoza, el viernes 28 de mayo de 1999.
 
@@ -737,7 +737,9 @@ DELITOS POLÍTICOS. Para todos los efectos legales, se considerarán de carácte
 
 CONCEPTO DE SERVIDOR PÚBLICO Y DE ENTIDAD PÚBLICA, PARA LOS EFECTOS PENALES. Para todos los efectos de este código, es servidor público toda persona que desempeñe un cargo, empleo o comisión de cualquier naturaleza en una entidad pública.
 
-Para todos los efectos de este código, se entenderá como entidad pública a la administración pública estatal o municipal; al poder legislativo y al poder judicial; los organismos o empresas de cualquiera de los poderes del estado, o del municipio, sean desconcentrados o descentralizados; los organismos o empresas de participación mayoritaria o minoritaria estatal o municipal; las organizaciones y sociedades asimiladas a aquellos; los que manejen bienes o recursos económicos públicos estatales o municipales mediante fideicomisos u otras formas jurídicas.
+> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2011)</small>
+
+Para todos los efectos de este código, se entenderá como entidad pública a la administración pública estatal o municipal; al poder legislativo y al poder judicial; los organismos o empresas de cualquiera de los poderes del estado, o del municipio, sean desconcentrados o descentralizados; los organismos o empresas de participación mayoritaria o minoritaria estatal o municipal; las organizaciones y sociedades asimiladas a aquéllos; los que manejen bienes o recursos económicos públicos estatales o municipales mediante fideicomisos u otras formas jurídicas; así como a los organismos a los que la Constitución Política del Estado otorga autonomía.
 
 Se impondrán las mismas sanciones que se prevean para cualquier delito este título o el subsecuente: a cualquier persona que sin ser servidor público intervenga en aquel.
 
@@ -3831,13 +3833,17 @@ Cuando el activo y el pasivo de amenazas habiten en el mismo domicilio: Se aumen
 
 ### CAPITULO QUINTO. ACOSO SEXUAL
 
-> <small>(ADICIONADO, P.O. 25 DE NOVIEMBRE DE 2005)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE AGOSTO DE 2011)</small>
 
-ARTÍCULO 399 BIS. SANCIONES Y FIGURA TIPICA DE ACOSO SEXUAL. Se aplicará de uno a tres años de prisión y multa, a quien con fines lascivos asedie, acose o solicite favores de naturaleza sexual a cualquier persona, para sí o para un tercero.
+ARTÍCULO 399 BIS. SANCIONES Y FIGURA TIPICA DE ACOSO SEXUAL. Se aplicará de uno a cinco años de prisión y multa, a quien con fines lascivos asedie, acose en cualquier forma o solicite favores de naturaleza sexual a cualquier persona, para sí o para un tercero.
+
+> <small>(ADICIONADO, P.O. 25 DE NOVIEMBRE DE 2005)</small>
 
 Será punible el acoso sexual cuando el sujeto activo pueda causar un daño personal, laboral, educativo, profesional o patrimonial.
 
-Las sanciones mínima y máxima se aumentarán en un tercio más si el sujeto activo fuere servidor público y utilizare los medios propios del cargo, y será destituido e inhabilitado para ocupar empleo, cargo o comisión en el sector público por un período de uno a tres años.
+> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2011)</small>
+
+Las sanciones mínima y máxima se aumentarán en un tercio más si el sujeto activo fuere servidor público y utilizaré los medios propios del cargo, y será destituido e inhabilitado para ocupar empleo, cargo o comisión en el servicio público por un período de uno a cinco años.
 
 > <small>(DEROGADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, P.O. 6 DE FEBRERO DE 2009)</small>
 
@@ -3949,9 +3955,11 @@ I. PERSONA SIN CAPACIDAD. Con persona sin capacidad para comprender la naturalez
 
 II. PERSONA MENOR DE DOCE AÑOS. Con persona de hasta doce años de edad.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE AGOSTO DE 2011)</small>
+
 ###### ARTÍCULO 387.
 
-CIRCUNSTANCIAS CALIFICATIVAS DE LAS FIGURAS TIPICAS DE VIOLACION O DE LA EQUIPARADA A LA VIOLACION. Se incrementarán en una mitad los mínimos y máximos de las sanciones que señalan los dos artículos anteriores; según corresponda; cuando en el delito de violación o equiparado a la violación, concurra cualquiera de las circunstancias siguientes:
+CIRCUNSTANCIAS CALIFICATIVAS DE LAS FIGURAS TIPICAS DE VIOLACION O DE LA EQUIPARADA A LA VIOLACION. Se incrementarán en una mitad los mínimos y máximos de las sanciones que señalan los tres artículos anteriores; según corresponda; cuando en el delito de violación o equiparado a la violación, concurra cualquiera de las circunstancias siguientes:
 
 I. VIOLACIÓN POR DOS O MÁS PERSONAS. Se realice por dos o más personas.
 
@@ -4736,3 +4744,35 @@ P.O. 28 DE ENERO DE 2011.
 P.O. 4 DE FEBRERO DE 2011.
 
 EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE COAHUILA.
+
+P.O. 19 DE AGOSTO DE 2011.
+
+DECRETO No. 528 POR EL QUE SE MODIFICA EL SEGUNDO PARRAFO DEL ARTICULO 194 DEL CODIGO PENAL DE COAHUILA.
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 19 DE AGOSTO DE 2011.
+
+DECRETO No. 532 POR EL QUE SE REFORMA EL ARTICULO 399-BIS DEL CODIGO PENAL DEL ESTADO DE COAHUILA.
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones legales y reglamentarias que se opongan al presente Decreto.
+
+P.O. 19 DE AGOSTO DE 2011.
+
+DECRETO No. 533 POR EL QUE SE REFORMA EL PRIMER PARRAFO DEL ARTICULO 387 DEL CODIGO PENAL DE COAHUILA.
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente a su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan las disposiciones que se opongan al presente decreto.
