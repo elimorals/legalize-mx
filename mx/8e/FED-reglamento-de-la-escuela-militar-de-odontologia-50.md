@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-la-escuela-militar-de-odontologia-50"
 country: "mx"
 rank: "reglamento"
 publication_date: "1993-04-13"
-last_updated: "2004-08-16"
+last_updated: "2011-08-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1993-04-12"
 
 REGLAMENTO DE LA ESCUELA MILITAR DE ODONTOLOGIA
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 16 DE AGOSTO DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 19 DE AGOSTO DE 2011.
 
 Reglamento publicado en la Sección Segunda del Diario Oficial de la Federación, el martes 13 de abril de 1993.
 
@@ -1267,7 +1267,11 @@ I. Certificado de Estudios;
 
 II. Título Profesional de Cirujano Dentista Militar;
 
-III. Grado de Capitán Primero Cirujano Dentista;
+> <small>N. DE E. LA PRESENTE REFORMA NO APLICARA A LOS DISCENTES QUE EN LA FECHA DE ENTRADA EN VIGOR DEL PRESENTE DECRETO, YA HAYAN INICIADO ESTUDIOS DE TIPO SUPERIOR DE NIVEL LICENCIATURA EN DICHAS INSTITUCIONES EDUCATIVAS MILITARES.</small>
+
+> <small>(REFORMADA, D.O.F. 19 DE AGOSTO DE 2011)</small>
+
+III. Grado de Subteniente Cirujano Dentista los Cadetes; el personal de Oficiales en Instrucción conservará el grado jerárquico que ostente, como Cirujano Dentista;
 
 IV. Patente, y
 
@@ -1446,3 +1450,15 @@ D.O.F. 16 DE AGOSTO DE 2004.
 ###### ARTÍCULO ÚNICO.
 
 El presente decreto entrará en vigor a partir del día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 19 DE AGOSTO DE 2011.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Las erogaciones que deriven de la aplicación del presente Decreto serán realizadas mediante movimientos compensados, por lo que la Secretaría de la Defensa Nacional, debe sujetarse a su presupuesto autorizado para el presente ejercicio fiscal y no incrementar su presupuesto regularizable.
+
+TERCERO.- Se derogan las disposiciones que se opongan al presente Decreto.
+
+CUARTO.- La reforma de los artículos 78, fracción I, inciso C y 80, fracción V del Reglamento de la Escuela Médico Militar; 77, fracción III del Reglamento de la Escuela Militar de Odontología y 78, fracción III y la derogación del 42 BIS del Reglamento de la Escuela Militar de Ingenieros, no aplicará a los discentes que en la fecha de entrada en vigor del presente Decreto, ya hayan iniciado estudios de tipo superior de nivel licenciatura en dichas Instituciones Educativas Militares.
+
+QUINTO.- Los discentes que se encuentren en el supuesto que antecede, una vez que culminen satisfactoriamente sus estudios y aprueben el examen profesional correspondiente, obtendrán la jerarquía que se preveía antes de la entrada en vigor del presente Decreto.
