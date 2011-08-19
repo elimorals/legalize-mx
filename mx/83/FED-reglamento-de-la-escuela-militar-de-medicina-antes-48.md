@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-la-escuela-militar-de-medicina-antes-48"
 country: "mx"
 rank: "reglamento"
 publication_date: "1993-04-13"
-last_updated: "2004-08-16"
+last_updated: "2011-08-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=48&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1993-04-12"
 
 REGLAMENTO DE LA ESCUELA MEDICO MILITAR
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 16 DE AGOSTO DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 19 DE AGOSTO DE 2011.
 
 Reglamento Publicado en la Segunda Sección del Diario Oficial de la Federación el martes 13 de abril de 1993.
 
@@ -1155,7 +1155,11 @@ A. Certificado de Estudios;
 
 B. Título de Médico Cirujano Militar;
 
-C. Grado de Mayor Médico Cirujano;
+> <small>N. DE E. LA PRESENTE REFORMA NO APLICARA A LOS DISCENTES QUE EN LA FECHA DE ENTRADA EN VIGOR DEL PRESENTE DECRETO, YA HAYAN INICIADO ESTUDIOS DE TIPO SUPERIOR DE NIVEL LICENCIATURA EN DICHAS INSTITUCIONES EDUCATIVAS MILITARES.</small>
+
+> <small>(REFORMADO, D.O.F. 19 DE AGOSTO DE 2011)</small>
+
+C. Grado de Subteniente Médico Cirujano; el personal de Oficiales en Instrucción conservará el grado jerárquico que ostente, como Médico Cirujano;
 
 D. Patente, y
 
@@ -1177,9 +1181,11 @@ Al personal en instrucción que no concluya satisfactoriamente sus estudios se l
 
 ### CAPITULO II. De los Premios y Recompensas
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 19 DE AGOSTO DE 2011)</small>
+
 ###### ARTICULO 80.
 
-Los precios y recompensas que se otorgan al personal en instrucción de la Escuela Médico Militar por el aprovechamiento en sus estudios son los siguientes:
+Los premios y recompensas que se otorgan al personal en instrucción de la Escuela Médico Militar por el aprovechamiento en sus estudios son los siguientes:
 
 > <small>(REFORMADA, D.O.F. 22 DE JUNIO DE 2001)</small>
 
@@ -1195,9 +1201,15 @@ III. Figurar en el cuadro de honor durante el mes siguiente al periodo de evalua
 
 IV. Exento de realizar el examen final ordinario el personal en instrucción que obtenga un promedio mínimo de 9.0 puntos en una materia, después de haber sustentado los exámenes parciales de la misma, asentándose la calificación obtenida en el promedio, quedando a elección del alumno la opción de presentar o no dicha evaluación para incrementar su promedio general;
 
-> <small>(ADICIONADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+> <small>N. DE E. LA PRESENTE REFORMA NO APLICARA A LOS DISCENTES QUE EN LA FECHA DE ENTRADA EN VIGOR DEL PRESENTE DECRETO, YA HAYAN INICIADO ESTUDIOS DE TIPO SUPERIOR DE NIVEL LICENCIATURA EN DICHAS INSTITUCIONES EDUCATIVAS MILITARES.</small>
 
-V. El personal nacional en instrucción que termine satisfactoriamente el quinto año de estudios, recibirá el grado de Capitán Primero Pasante de Medicina mientras permanezca en la escuela; al causar baja del plantel por situarse en lo establecido en el artículo 70, fracciones I, II, III, IV, V y VII, del presente Reglamento podrá ser reclasificado y asignado al organismo que determine la Secretaría de la Defensa Nacional;
+> <small>(REFORMADA, D.O.F. 19 DE AGOSTO DE 2011)</small>
+
+V. El personal nacional en instrucción que termine satisfactoriamente el cuarto año de estudios, recibirá el grado de Subteniente Pasante de Medicina mientras permanezca en la escuela.
+
+El personal de Oficiales en Instrucción que termine satisfactoriamente el cuarto año de estudios, conservará el grado jerárquico que ostente, como Pasante de Medicina, mientras permanezca en la escuela.
+
+El personal de Pasantes de Medicina, al causar baja del plantel por situarse en lo establecido en el artículo 70, fracciones I, II, III, IV, V y VII del presente Reglamento podrá ser reclasificado y asignado al organismo que determine la Secretaría de la Defensa Nacional.
 
 > <small>(ADICIONADA, D.O.F. 22 DE JUNIO DE 2001)</small>
 
@@ -1316,3 +1328,15 @@ D.O.F. 16 DE AGOSTO DE 2004.
 ###### ARTÍCULO ÚNICO.
 
 El presente decreto entrará en vigor a partir del día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 19 DE AGOSTO DE 2011.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Las erogaciones que deriven de la aplicación del presente Decreto serán realizadas mediante movimientos compensados, por lo que la Secretaría de la Defensa Nacional, debe sujetarse a su presupuesto autorizado para el presente ejercicio fiscal y no incrementar su presupuesto regularizable.
+
+TERCERO.- Se derogan las disposiciones que se opongan al presente Decreto.
+
+CUARTO.- La reforma de los artículos 78, fracción I, inciso C y 80, fracción V del Reglamento de la Escuela Médico Militar; 77, fracción III del Reglamento de la Escuela Militar de Odontología y 78, fracción III y la derogación del 42 BIS del Reglamento de la Escuela Militar de Ingenieros, no aplicará a los discentes que en la fecha de entrada en vigor del presente Decreto, ya hayan iniciado estudios de tipo superior de nivel licenciatura en dichas Instituciones Educativas Militares.
+
+QUINTO.- Los discentes que se encuentren en el supuesto que antecede, una vez que culminen satisfactoriamente sus estudios y aprueben el examen profesional correspondiente, obtendrán la jerarquía que se preveía antes de la entrada en vigor del presente Decreto.
