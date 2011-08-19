@@ -4,7 +4,7 @@ identifier: "COA-codigo-de-procedimientos-penales-de-coahuila-15147"
 country: "mx"
 rank: "codigo"
 publication_date: "1999-05-25"
-last_updated: "2011-02-04"
+last_updated: "2011-08-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15147&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 CÓDIGO DE PROCEDIMIENTOS PENALES DE COAHUILA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE FEBRERO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE AGOSTO DE 2011.
 
 Código publicado en el Periódico Oficial del Estado de Coahuila, el martes 25 de mayo de 1999.
 
@@ -157,11 +157,15 @@ LAS DEFENSAS Y EXCEPCIONES PROBADAS, PUEDEN CONSIDERARSE DE OFICIO. El juzgador 
 
 ÓRGANOS CON JURISDICCIÓN PENAL. El ejercicio del poder jurisdiccional en materia penal corresponde:
 
-I. JUZGADOS LOCALES LETRADOS. A los jueces locales letrados en materia penal o locales letrados mixtos.
+> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2011)</small>
+
+I. JUZGADOS LETRADOS. A los jueces letrados en materia penal o letrados mixtos.
 
 II. JUZGADOS MIXTOS Y PENALES DE PRIMERA INSTANCIA. A los jueces de primera instancia en materia penal o de primera instancia mixtos.
 
-III. TRIBUNALES UNITARIOS DE DISTRITO. A los magistrados de los tribunales unitarios de distrito.
+> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2011)</small>
+
+III. TRIBUNALES DISTRITALES. A los magistrados de los tribunales distritales.
 
 IV. TRIBUNAL SUPERIOR DE JUSTICIA. A los magistrados del Tribunal Superior de Justicia, cuando integren pleno del propio tribunal o de sus salas; según lo establezca este código y la Ley Orgánica del Poder Judicial.
 
@@ -229,7 +233,9 @@ INCOMPETENCIA TERRITORIAL POR AUSENCIA DE JURISDICCIÓN. Existirá falta de juri
 
 El juez podrá decidir lo anterior desde el auto de inicio hasta antes de que se cumpla ante él la orden de aprehensión o de comparecencia.
 
-Si después de ello advierte o se promueve su falta de jurisdicción, el juez de plano y sin suspender el procedimiento, remitirá de inmediato testimonio de la causa al tribunal unitario. Exponiendo los motivos por los que estima carecer de jurisdicción; o en su caso, agregará la promoción. Al recibir el asunto, el tribunal unitario dará vista al Ministerio Público por cinco días y al concluir este plazo, resolverá dentro de otro igual. Si fuere el caso, hasta en tanto decida el tribunal unitario, el juez se abstendrá de dictar sentencia.
+> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2011)</small>
+
+Si después de ello advierte o se promueve su falta de jurisdicción, el juez de plano y sin suspender el procedimiento, remitirá de inmediato testimonio de la causa al tribunal distrital. Exponiendo los motivos por los que estima carecer de jurisdicción; o en su caso, agregará la promoción. Al recibir el asunto, el tribunal distrital dará vista al Ministerio Público por cinco días y al concluir este plazo, resolverá dentro de otro igual. Si fuere el caso, hasta en tanto decida el tribunal distrital, el juez se abstendrá de dictar sentencia.
 
 ###### ARTÍCULO 25.
 
@@ -245,17 +251,25 @@ Lo que se previene en este artículo y el anterior se entiende sin perjuicio de 
 
 COMPETENCIA POR TURNO. Si en el mismo lugar hay dos o más jueces competentes, conocerá el del turno.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE AGOSTO DE 2011)</small>
+
 ###### ARTÍCULO 27.
 
-COMPETENCIA POR GRAVEDAD DE LA SANCIÓN Y PRINCIPIO DE ATRACCIÓN. Los jueces locales letrados en materia penal o locales letrados mixtos, serán competentes para conocer de delitos que sin incluir atenuante, su pena máxima de prisión sea hasta seis años; siempre y cuando no sean graves.
+COMPETENCIA POR GRAVEDAD DE LA SANCIÓN Y PRINCIPIO DE ATRACCIÓN. Los jueces letrados en materia penal o letrados mixtos, serán competentes para conocer de delitos que sin incluir atenuante, su pena máxima de prisión sea hasta seis años; siempre y cuando no sean graves.
 
 Los jueces de primera instancia en materia penal o de primera instancia mixtos, conocerán de delitos cuya pena máxima de prisión sea superior a seis años; y de los que esa pena sea menor pero el delito sea grave.
 
-Cuando se trate de delitos conexos que por su gravedad diversa, sean competentes jueces locales letrados y de primera instancia, estos últimos conocerán preferentemente de todos los delitos. Sin perjuicio de considerar válido, en su caso, todo lo que conocieren los locales letrados.
+> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2011)</small>
 
-Tan pronto un juez de primera instancia o local letrado sepa de un proceso acumulable al de primera instancia; de oficio pedirá informe y con base en éste, de plano decidirá si se remite o no se remite la causa. En su caso, la remitirá después de resolver la situación jurídica.
+Cuando se trate de delitos conexos que por su gravedad diversa, sean competentes jueces letrados y de primera instancia, estos últimos conocerán preferentemente de todos los delitos. Sin perjuicio de considerar válido, en su caso, todo lo que conocieren los letrados.
 
-El juez de primera instancia también ordenará de plano remitir la causa al local letrado, cuando el proceso se deba continuar por sólo uno o más delitos que sean competencia de este último.
+> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2011)</small>
+
+Tan pronto un juez de primera instancia o letrado sepa de un proceso acumulable al de primera instancia; de oficio pedirá informe y con base en éste, de plano decidirá si se remite o no se remite la causa. En su caso, la remitirá después de resolver la situación jurídica.
+
+> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2011)</small>
+
+El juez de primera instancia también ordenará de plano remitir la causa al letrado, cuando el proceso se deba continuar por sólo uno o más delitos que sean competencia de este último.
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -285,13 +299,9 @@ IV. DELITOS CULPOSOS COMETIDOS CON MODALIDAD AGRAVANTE. Cualquier otro delito cu
 
 V. DELITOS EN LOS QUE LA PENA MÁXIMA DE PRISIÓN SE REDUCE A SEIS AÑOS O MENOS, POR MODALIDAD ATENUANTE. Los delitos cuya pena máxima de prisión se reduzca a seis años o menos, por concurrir una o más modalidades atenuantes.
 
-> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 1999)</small>
+> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2011)</small>
 
-VI. DELITOS CUANDO EXISTA REITERACION DELICTIVA. Cuando aparezca que el inculpado cometió con anterioridad otro delito, sin aún transcurrir el término legal para que se excluya la reiteración delictiva; sea ésta real o ficta; si ello aparece durante el proceso, el juez local letrado ordenará que se aprehenda al inculpado, sin perjuicio de que el inculpado obtenga luego su libertad provisional bajo caución.
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(DEROGADO SEGUNDO PARRAFO, P.O. 16 DE MAYO DE 2008)</small>
+VI. DELITOS CUANDO EXISTA REITERACION DELICTIVA. Cuando aparezca que el inculpado cometió con anterioridad otro delito, sin aún transcurrir el término legal para que se excluya la reiteración delictiva; sea ésta real o ficta; si ello aparece durante el proceso, el juez letrado ordenará que se aprehenda al inculpado, sin perjuicio de que el inculpado obtenga luego su libertad provisional bajo caución.
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -303,9 +313,11 @@ VII. DELITOS EN LOS QUE SE VIOLAN MEDIDAS DE ARRAIGO JUDICIAL. Los delitos en lo
 
 JUEZ QUE SE ESTIMA INCOMPETENTE PARA CONOCER UN ASUNTO QUE RECIBIÓ POR INCOMPETENCIA DE OTRO. (CONFLICTO NEGATIVO DE COMPETENCIA). Si el juez ante quién se ejercita acción penal porque otro se estimó incompetente; o al que se remita una causa por igual motivo; también así se considera; enviará los autos al tribunal de competencia para que resuelva el conflicto.
 
+> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2011)</small>
+
 ###### ARTÍCULO 32.
 
-COMPETENCIA POR GRADO DE TRIBUNALES UNITARIOS, SALAS Y PLENO DEL TRIBUNAL SUPERIOR. Los tribunales unitarios de distrito y las salas del Tribunal Superior de Justicia, conocerán de los recursos y demás asuntos en materia penal que les encomiende la ley. El pleno del Tribunal Superior de Justicia conocerá de los asuntos en los que se plantee el reconocimiento de la inocencia del sentenciado y demás en materia penal que le encomiende la ley.
+COMPETENCIA POR GRADO DE TRIBUNALES DISTRITALES, SALAS Y PLENO DEL TRIBUNAL SUPERIOR. Los tribunales distritales y las salas del Tribunal Superior de Justicia, conocerán de los recursos y demás asuntos en materia penal que les encomiende la ley. El pleno del Tribunal Superior de Justicia conocerá de los asuntos en los que se plantee el reconocimiento de la inocencia del sentenciado y demás en materia penal que le encomiende la ley.
 
 ## TÍTULO TERCERO. PARTES EN EL PROCESO PENAL
 
@@ -2423,7 +2435,9 @@ CONSIGNACIÓN SIN DETENIDO. Cuando el Ministerio Público, al iniciar la acción
 
 Si al solicitar la orden de aprehensión o comparecencia, el Ministerio Público incumple con los artículos 34 o 35; se ordenará aclarar su pedimento, sin pasar por alto lo que previene el artículo 44 y dejándose a salvo la acción que ejercitó. El auto que ordene aclarar el pedimento de inicio, contendrá los motivos, razones y fundamentos para esa determinación. El Ministerio Público podrá corregir la deficiencia o interponer el recurso de queja contra el auto que ordene aclarar la acusación.
 
-El Ministerio Público podrá recurrir en queja ante el tribunal unitario que corresponda, cuando dentro de los plazos que se señalan, el juez omita dictar auto de inicio; o resolver sobre la petición de la orden de aprehensión o comparecencia.
+> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2011)</small>
+
+El Ministerio Público podrá recurrir en queja ante el tribunal distrital que corresponda, cuando dentro de los plazos que se señalan, el juez omita dictar auto de inicio; o resolver sobre la petición de la orden de aprehensión o comparecencia.
 
 ###### ARTÍCULO 298.
 
@@ -2433,9 +2447,13 @@ I. PRESUPUESTO DE EJERCICIO DE LA ACCIÓN PENAL. Que la solicite el Ministerio P
 
 II. PRESUPUESTO DE ACUSACIÓN DETERMINADA. Que preceda denuncia o querella y, en su caso, acusación, por hecho determinado que integre los elementos del tipo penal de un delito; según lo previenen los artículos 34 o 35.
 
-Cuando después del auto de inicio y antes de resolver sobre la orden, el juez advierta que no se satisfizo la condición de esta fracción; se abstendrá de resolver sobre aquélla y de inmediato, expresando los motivos, razones y fundamentos, remitirá la causa al tribunal unitario.
+> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2011)</small>
 
-Además, ordenará notificar personalmente al Ministerio Público. Al día siguiente de su recepción, el tribunal unitario dictará auto en el que radicará la remisión; en el mismo acordará dar vista personal al Ministerio Público y resolverá al quinto día de la radicación si se manda o no se manda aclarar el pedimento. Se evacue o no se evacue la vista.
+Cuando después del auto de inicio y antes de resolver sobre la orden, el juez advierta que no se satisfizo la condición de esta fracción; se abstendrá de resolver sobre aquélla y de inmediato, expresando los motivos, razones y fundamentos, remitirá la causa al tribunal distrital.
+
+> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2011)</small>
+
+Además, ordenará notificar personalmente al Ministerio Público. Al día siguiente de su recepción, el tribunal distrital dictará auto en el que radicará la remisión; en el mismo acordará dar vista personal al Ministerio Público y resolverá al quinto día de la radicación si se manda o no se manda aclarar el pedimento. Se evacue o no se evacue la vista.
 
 III. PRESUPUESTO DE AUTORIDAD COMPETENTE. Que el juez sea competente para conocer del delito.
 
@@ -2457,11 +2475,13 @@ PRESUPUESTO ADICIONAL CUANDO SE TRATE DE ORDEN DE APREHENSIÓN. Para librar orde
 
 ORDEN DE APREHENSIÓN O COMPARECENCIA NO OBSTANTE ESTÉ PENDIENTE LA APELACIÓN SOBRE SU NEGATIVA. No será obstáculo para dictar orden de aprehensión o de comparecencia, el que esté por resolverse la apelación contra el auto anterior que le negó, si se acreditan nuevos datos que funden la orden.
 
-> <small>(REFORMADO, P.O. 12 DE MAYO DE 2009)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE AGOSTO DE 2011)</small>
 
 ###### ARTÍCULO 301.
 
-COMUNICACIÓN Y LUGAR DE EJECUCIÓN DE ORDEN DE APREHENSIÓN. El Juez ordenará notificar la orden de aprehensión al agente del Ministerio Público que intervenga en el proceso y girará oficio al Fiscal General del Estado, para que se ejecute. A la notificación y el oficio se acompañará copia certificada del auto. El tribunal unitario girará el oficio directamente, cuando revoque la negativa de orden de aprehensión.
+COMUNICACIÓN Y LUGAR DE EJECUCIÓN DE ORDEN DE APREHENSIÓN. El juez ordenará notificar la orden de aprehensión al agente del Ministerio Público que intervenga en el proceso y girará oficio al Fiscal General del Estado, para que se ejecute. A la notificación y el oficio se acompañará copia certificada del auto. El tribunal distrital girará el oficio directamente, cuando revoque la negativa de orden de aprehensión.
+
+> <small>(REFORMADO, P.O. 12 DE MAYO DE 2009)</small>
 
 Las órdenes de aprehensión se podrán ejecutar en todo el territorio del Estado; aun cuando se cumplan en distrito distinto al del juez que las libró. Cuándo se ejecuten fuera del estado, se observará lo que prevenga el respectivo convenio entre la Fiscalía General del Estado y otras procuradurías.
 
@@ -2621,7 +2641,9 @@ MUERTE DEL OFENDIDO CUANDO EL PROCESO SE SIGUE POR LESIONES. Cuando el ofendido 
 
 El Ministerio Público investigará el nexo causal en vía de averiguación previa. De existir aquél; por separado y ante el mismo juez ejercitará acción penal por el tipo penal de homicidio que proceda; acompañando las diligencias de averiguación y copia del proceso por lesiones. Por tal motivo el juez suspenderá el primer proceso cuando cierre el período probatorio. Si dicta auto de formal prisión por homicidio que quede firme, sobreseerá el proceso anterior. De lo contrario, lo reanudará si es que lo suspendió.
 
-Si quién conoce es juez local letrado, inmediatamente después del nuevo auto de formal prisión, enviará la causa al juez de primera instancia en turno, para que la continúe.
+> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2011)</small>
+
+Si quién conoce es juez letrado, inmediatamente después del nuevo auto de formal prisión, enviará la causa al juez de primera instancia en turno, para que la continúe.
 
 Se sobreseerá el proceso posterior cuando la acción penal por homicidio se inicie después de que se cerró la fase probatoria en el primer proceso.
 
@@ -2859,7 +2881,9 @@ TESTIMONIO POR ESCRITO DE ALGUNOS SERVIDORES PÚBLICOS. Se solicitará por escri
 
 OBLIGACIÓN DE EXAMINAR LOS TESTIGOS. El juzgador examinará a los testigos cuya declaración soliciten oportunamente las partes y ello sea conducente al objeto de la prueba. Si cualquiera de ellas presenta oportunamente al testigo sin citación previa, se tomará a éste declaración si concurren el Ministerio Público y el defensor.
 
-Cuando el testigo esté fuera del lugar donde resida el juzgado o tribunal; se podrá enviar oficio por el que se autorice a otra autoridad más cercana a efectuar el citatorio. A ésta se le transcribirá la forma de efectuar el citatorio. Se librará oficio con los insertos necesarios cuando la autoridad más cercana sea juez local letrado o de primera instancia, los que podrán recibir el testimonio si así se les autoriza. Lo mismo se observará cuando el testigo esté fuera del distrito judicial.
+> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2011)</small>
+
+Cuando el testigo esté fuera del lugar donde resida el juzgado o tribunal; se podrá enviar oficio por el que se autorice a otra autoridad más cercana a efectuar el citatorio. A ésta se le transcribirá la forma de efectuar el citatorio. Se librará oficio con los insertos necesarios cuando la autoridad más cercana sea juez letrado o de primera instancia, los que podrán recibir el testimonio si así se les autoriza. Lo mismo se observará cuando el testigo esté fuera del distrito judicial.
 
 ###### ARTÍCULO 355.
 
@@ -3833,9 +3857,11 @@ El juzgador ordenará notificar a la parte civil el auto que da vista al Ministe
 
 #### SECCIÓN DÉCIMA. AUDIENCIA FINAL
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE AGOSTO DE 2011)</small>
+
 ###### ARTÍCULO 480.
 
-CITACIÓN A LA AUDIENCIA FINAL. Se ordenará citar al Ministerio Público, al acusado y su defensor para la audiencia final en el auto que cierre la fase probatoria si antes no se reclasificó el delito por resolución firme; o cuando todavía se encuentre pendiente de resolver la apelación en contra del auto de formal prisión. En este caso, el auto que cierre la fase probatoria dejará sin materia el recurso de apelación interpuesto, por lo que se avisará de aquél al tribunal unitario. Para ello, antes del auto que cierre la fase probatoria, el secretario pedirá la información correspondiente a dicho tribunal, por teléfono y fax en caso de que se cuente con éste, y una vez recibida por la misma vía, asentará la razón en autos. Mas si se informa que ya se resolvió el recurso, se remitirá de inmediato testimonio de la resolución. En cuyo caso el auto que cierre la fase probatoria se dictará una vez que se reciba testimonio de la resolución del tribunal unitario. La audiencia final tendrá lugar no antes de diez días, ni después de treinta.
+CITACIÓN A LA AUDIENCIA FINAL. Se ordenará citar al Ministerio Público, al acusado y su defensor para la audiencia final en el auto que cierre la fase probatoria si antes no se reclasificó el delito por resolución firme; o cuando todavía se encuentre pendiente de resolver la apelación en contra del auto de formal prisión. En este caso, el auto que cierre la fase probatoria dejará sin materia el recurso de apelación interpuesto, por lo que se avisará de aquél al tribunal distrital. Para ello, antes del auto que cierre la fase probatoria, el secretario pedirá la información correspondiente a dicho tribunal, por teléfono y fax en caso de que se cuente con éste, y una vez recibida por la misma vía, asentará la razón en autos. Mas si se informa que ya se resolvió el recurso, se remitirá de inmediato testimonio de la resolución. En cuyo caso el auto que cierre la fase probatoria se dictará una vez que se reciba testimonio de la resolución del tribunal distrital. La audiencia final tendrá lugar no antes de diez días, ni después de treinta.
 
 Si hubo reclasificación, al día siguiente de presentarse las últimas conclusiones se ordenará citar a la audiencia final; o cuando se tengan por formuladas las de inculpabilidad. Aquella tendrá lugar no antes de cinco días, ni después de quince.
 
@@ -4261,21 +4287,25 @@ El recurso de inconformidad se regirá por lo dispuesto en la Ley de Procuració
 
 ## TÍTULO TERCERO. RECURSO DE QUEJA
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE AGOSTO DE 2011)</small>
+
 ###### ARTÍCULO 542.
 
-RECURSO DE QUEJA. El recurso de queja procede contra las conductas omisivas de los jueces locales letrados o de primera instancia; o de los tribunales unitarios de distrito; o de la sala penal del Tribunal Superior de Justicia; en cualquiera de los casos siguientes: 1) Cuando omitan resolver dentro de los plazos o términos que señala la ley. 2) Cuando omitan practicar actuación o diligencia que señale la ley o que acordaron practicar. 3) Cuando omitan dictar resolución que la ley les señale dictar. 4) Cuando omitan cumplir alguna formalidad esencial del procedimiento que señale la ley; o que ésta la implique de manera necesaria.
+RECURSO DE QUEJA. El recurso de queja procede contra las conductas omisivas de los jueces letrados o de primera instancia; o de los tribunales distritales; o de la sala penal del Tribunal Superior de Justicia; en cualquiera de los casos siguientes: 1) Cuando omitan resolver dentro de los plazos o términos que señala la ley. 2) Cuando omitan practicar actuación o diligencia que señale la ley o que acordaron practicar. 3) Cuando omitan dictar resolución que la ley les señale dictar. 4) Cuando omitan cumplir alguna formalidad esencial del procedimiento que señale la ley; o que ésta la implique de manera necesaria.
 
-También procederá el recurso de queja cuando el Ministerio Público no ejercite la acción penal no obstante que ya se resolvió en sentido contrario por el tribunal unitario; salvo que se trate de pruebas supervinientes y así se motive y funde en una nueva determinación de no-ejercicio.
+> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2011)</small>
+
+También procederá el recurso de queja cuando el Ministerio Público no ejercite la acción penal no obstante que ya se resolvió en sentido contrario por el tribunal distrital; salvo que se trate de pruebas supervinientes y así se motive y funde en una nueva determinación de no-ejercicio.
 
 El recurso de queja procederá igualmente contra el auto de un juez que mande aclarar el pedimento de inicio por acusación deficiente.
 
+> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2011)</small>
+
 ###### ARTÍCULO 543.
 
-ÓRGANOS ANTE LOS QUE SE INTERPONE LA QUEJA. El recurso de queja en contra de los jueces locales letrados o de primera instancia se interpondrá ante el tribunal unitario de donde correspondan. Los que formulen en contra de éstos, se interpondrá ante la sala penal del Tribunal Superior de Justicia.
+ÓRGANOS ANTE LOS QUE SE INTERPONE LA QUEJA. El recurso de queja en contra de los jueces letrados o de primera instancia se interpondrá ante el tribunal distrital de donde correspondan. Los que formulen en contra de éstos, se interpondrá ante la sala penal del Tribunal Superior de Justicia. Los que se formulen en contra de la sala penal, se interpondrán ante el Pleno de (sic) Tribunal Superior de Justicia.
 
-Los que se formulen en contra de la sala penal, se interpondrán ante el Pleno de Tribunal Superior de Justicia.
-
-En el caso del primer y segundo párrafo del artículo anterior, el recurso de queja se interpondrá ante el tribunal unitario.
+En el caso del primer y segundo párrafo del artículo anterior, el recurso de queja se interpondrá ante el tribunal distrital.
 
 ###### ARTÍCULO 544.
 
@@ -4289,15 +4319,19 @@ LEGITIMACIÓN PARA CIERTOS CASOS. Cuando el juez omita resolver sobre la petici�
 
 FORMA DE LA QUEJA. El recurso de queja será por escrito y en ella se señalará la conducta omisiva, o en su caso activa, que la motive y sus antecedentes; los preceptos legales violados y los conceptos de violación conducentes.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE AGOSTO DE 2011)</small>
+
 ###### ARTÍCULO 547.
 
-TRÁMITE DE LA QUEJA. El tribunal unitario, la sala o el tribunal pleno dará entrada al recurso de queja en el plazo de tres días y en el mismo auto requerirá al juzgador para que rinda informe dentro del plazo de cinco días. Si el juzgador se encuentra en el mismo lugar que el ad quem, se le notificará personalmente. En caso contrario se le requerirá por oficio.
+TRÁMITE DE LA QUEJA. El tribunal distrital, la sala o el tribunal pleno dará entrada al recurso de queja en el plazo de tres días y en el mismo auto requerirá al juzgador para que rinda informe dentro del plazo de cinco días. Si el juzgador se encuentra en el mismo lugar que el ad quem, se le notificará personalmente. En caso contrario se le requerirá por oficio.
 
 Al transcurrir este plazo según día de la notificación o acuse de recibo; con informe o sin él, se dictará la resolución que proceda. Si el recurso es procedente, el ad quem requerirá al omiso que subsane la omisión conforme a la ley. La falta de informe establece la presunción de ser cierta la omisión, pero no vinculará al ad quem; que resolverá, además, sobre los conceptos de violación.
 
 Quien omita informar oportunamente y sin causa justificada, se hará acreedor a multa de hasta treinta días de salario mínimo.
 
-Cuando la queja se interponga contra autos que mandan aclarar el pedimento de inicio, se acompañará copia del pedimento. En tal caso, si el tribunal unitario estima procedente la queja, declarará que la acusación está bien formulada y ordenará al juez que reanude el proceso enviándole de inmediato testimonio de su resolución.
+> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2011)</small>
+
+Cuando la queja se interponga contra autos que mandan aclarar el pedimento de inicio, se acompañará copia del pedimento. En tal caso, si el tribunal distrital estima procedente la queja, declarará que la acusación está bien formulada y ordenará al juez que reanude el proceso enviándole de inmediato testimonio de su resolución.
 
 ## TÍTULO CUARTO. RECURSO DE REVOCACIÓN
 
@@ -4315,9 +4349,11 @@ El juzgador lo resolverá sin trámite si estima innecesario oír a las partes. 
 
 ## TÍTULO QUINTO. APELACIÓN
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE AGOSTO DE 2011)</small>
+
 ###### ARTÍCULO 550.
 
-OBJETO DEL RECURSO. El recurso de apelación tiene por objeto principal que el tribunal unitario o la sala que corresponda, modifique o revoque la resolución impugnada, con base en los agravios que se hagan valer en su contra; salvo los casos que exceptúe la ley.
+OBJETO DEL RECURSO. El recurso de apelación tiene por objeto principal que el tribunal distrital o la sala que corresponda, modifique o revoque la resolución impugnada, con base en los agravios que se hagan valer en su contra; salvo los casos que exceptúe la ley.
 
 Se revocará o modificará la resolución que se apeló, si para ello hay agravios procedentes. Si son improcedentes, se confirmará.
 
@@ -4457,9 +4493,11 @@ Una vez que se formule la ponencia, se señalará día y hora en la lista que la
 
 Cuando el asunto se liste para su resolución, se enviará copia de la ponencia a los demás magistrados. Los autos quedarán a su disposición, para su estudio, en la secretaría.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE AGOSTO DE 2011)</small>
+
 ###### ARTÍCULO 570.
 
-SENTENCIA. El tribunal unitario citará a sentencia en la audiencia de vista y la pronunciará dentro de los ocho días siguientes.
+SENTENCIA. El tribunal distrital citará a sentencia en la audiencia de vista y la pronunciará dentro de los ocho días siguientes.
 
 En la sala penal se fijará la lista de los asuntos que deban resolverse, en el tercer día hábil anterior a la discusión de la ponencia; en lugar visible. La publicación de la lista surtirá los mismos efectos del auto que cita para sentencia.
 
@@ -4475,9 +4513,11 @@ Si entre todos los integrantes de la sala hubiere discrepancia en el resultado d
 
 Las ejecutorias que pronuncie la sala se firmarán por todos los magistrados que estuvieron presentes en la discusión del asunto, cualquiera que haya sido el sentido de su voto y se autorizarán por el secretario de la sala. Éste también autorizará los votos particulares.
 
+> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2011)</small>
+
 ###### ARTÍCULO 571.
 
-RESOLUCIÓN DE APELACIÓN Y REENVÍO. El ad quem; sea el tribunal unitario o la sala penal; se sustituye con plenitud de jurisdicción al a quo; sin que en la resolución o sentencia se pueda ordenar reenvío al a-quo para que dicte la resolución que se estime procedente; salvo los casos que en forma expresa autorice la ley.
+RESOLUCIÓN DE APELACIÓN Y REENVÍO. El ad quem; sea el tribunal distrital o la sala penal; se sustituye con plenitud de jurisdicción al a quo; sin que en la resolución o sentencia se pueda ordenar reenvío al a-quo para que dicte la resolución que se estime procedente; salvo los casos que en forma expresa autorice la ley.
 
 ###### ARTÍCULO 572.
 
@@ -4933,9 +4973,11 @@ SUSPENSIÓN DEL PROCESO. La excusa de los jueces y de los magistrados, lo mismo 
 
 Si el juez se excusa y está corriendo el término constitucional de setenta y dos horas para resolver la situación legal del inculpado; y en su caso su ampliación, el secretario lo substituirá y dictará el auto que proceda. Una vez transcurrido el plazo para impugnar la resolución y admitido o rechazado el recurso que se haga valer, se suspenderá el procedimiento y se remitirán los autos al tribunal que deba calificar la excusa.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE AGOSTO DE 2011)</small>
+
 ###### ARTÍCULO 623.
 
-CALIFICACIÓN DE LA EXCUSA. Las excusas de los jueces locales y de primera instancia se calificarán por el tribunal unitario que corresponda. La de los magistrados unitarios y los de la Sala Penal, por los integrantes de ésta, con exclusión del magistrado que se excuse, en su caso. Evento en el que se llamará al supernumerario.
+CALIFICACIÓN DE LA EXCUSA. Las excusas de los jueces letrados y de primera instancia se calificarán por el tribunal distrital que corresponda. La de los magistrados distritales y los de la Sala Penal, por los integrantes de ésta, con exclusión del magistrado que se excuse, en su caso. Evento en el que se llamará al supernumerario.
 
 Recibidos los autos, el tribunal o la sala resolverán dentro del plazo de tres días.
 
@@ -4993,11 +5035,13 @@ Cuando no se ofrezcan pruebas o se celebre la audiencia, se pronunciará resoluc
 
 SANCIÓN AL RECUSANTE. Cuando se deseche la recusación, al recusante se le impondrá multa de hasta cincuenta salarios mínimos. De esta multa será solidariamente responsable quien patrocine al recusante.
 
+> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2011)</small>
+
 ###### ARTÍCULO 634.
 
-SUSTITUCIÓN DEL IMPEDIDO O RECUSADO. En las cabeceras de los distritos judiciales en los que haya varios jueces de locales y/o de primera instancia penal, se sustituirán unos a otros en los casos de recusación o de excusa, siguiendo el orden numérico de su designación. Si el impedido o recusado es el último, conocerá el primero. Si ya no hubiere otro juez penal que pudiese conocer, se turnará al juez penal más cercano y así sucesivamente.
+SUSTITUCIÓN DEL IMPEDIDO O RECUSADO. En las cabeceras de los distritos judiciales en los que haya varios jueces letrados y/o de primera instancia penal, se sustituirán unos a otros en los casos de recusación o de excusa, siguiendo el orden numérico de su designación. Si el impedido o recusado es el último, conocerá el primero. Si ya no hubiere otro juez penal que pudiese conocer, se turnará al juez penal más cercano y así sucesivamente.
 
-Si el impedido o recusado fuere el magistrado de un tribunal unitario, lo sustituirá la sala penal. Si el magistrado impedido o recusado fuere el presidente de la Sala Penal del Tribunal Superior de Justicia, lo sustituirá el magistrado con mayor antigüedad. En los demás casos, se llamará al magistrado supernumerario que corresponda.
+Si el impedido o recusado fuere el magistrado de un tribunal distrital, lo sustituirá la sala penal. Si el magistrado impedido o recusado fuere el presidente de la Sala Penal del Tribunal Superior de Justicia, lo sustituirá el magistrado con mayor antigüedad. En los demás casos, se llamará al magistrado supernumerario que corresponda.
 
 ###### ARTÍCULO 635.
 
@@ -5009,9 +5053,11 @@ Si se declara que el impedimento o que la recusación no es procedente, el secre
 
 Contra la resolución que se dicte no procede ningún recurso.
 
+> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2011)</small>
+
 ###### ARTÍCULO 636.
 
-EXCUSA EXTRAORDINARIA. El juez de primera instancia que conozca de un proceso con detenido, deberá excusarse de su conocimiento si al continuar la tramitación ante él, hubiere peligro para el inculpado; o para la seguridad y el orden público; ordenando su traslado al distrito judicial donde exista más seguridad. El juez de inmediato remitirá la excusa al tribunal unitario que corresponda; el que de inmediato y de plano calificará la excusa; y si es justificada, ordenará que conozca del asunto otro juez de la misma categoría de donde presumiblemente no exista motivo de excusa extraordinaria; al que remitirá los autos.
+EXCUSA EXTRAORDINARIA. El juez de primera instancia que conozca de un proceso con detenido, deberá excusarse de su conocimiento si al continuar la tramitación ante él, hubiere peligro para el inculpado; o para la seguridad y el orden público; ordenando su traslado al distrito judicial donde exista más seguridad. El juez de inmediato remitirá la excusa al tribunal distrital que corresponda; el que de inmediato y de plano calificará la excusa; y si es justificada, ordenará que conozca del asunto otro juez de la misma categoría de donde presumiblemente no exista motivo de excusa extraordinaria; al que remitirá los autos.
 
 ### CAPÍTULO II. CONFLICTOS DE COMPETENCIA
 
@@ -5073,17 +5119,21 @@ Si admite su incompetencia, remitirá inmediatamente los autos al juez requerien
 
 Si sostiene su competencia, enviará luego el expediente al tribunal que deba resolver el conflicto y comunicará este trámite a requeriente (sic) para que, a su vez, envíe sus actuaciones a dicho tribunal.
 
+> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2011)</small>
+
 ###### ARTÍCULO 649.
 
-CONFLICTOS DE COMPETENCIA. Los tribunales unitarios conocerán de los conflictos de competencia que se susciten entre los jueces penales establecidos en sus circunscripciones territoriales. La Sala Penal del Tribunal Superior de Justicia conocerá de los conflictos de competencia que surjan entre los tribunales unitarios respecto a apelaciones en materia penal que les corresponda. Así como entre jueces locales letrados y/o de primera instancia de diferentes circunscripciones territoriales de los tribunales unitarios.
+CONFLICTOS DE COMPETENCIA. Los tribunales distritales conocerán de los conflictos de competencia que se susciten entre los jueces penales establecidos en sus circunscripciones territoriales. La Sala Penal del Tribunal Superior de Justicia conocerá de los conflictos de competencia que surjan entre los tribunales distritales respecto a apelaciones en materia penal que les corresponda. Así como entre jueces letrados y/o de primera instancia de diferentes circunscripciones territoriales de los tribunales distritales.
 
 ###### ARTÍCULO 650.
 
 TRAMITACIÓN EN LOS TRIBUNALES DE COMPETENCIA. Recibidas las actuaciones por el tribunal de competencia, dará vista al Ministerio Público por tres días y resolverá dentro de los cinco días siguientes. Resuelta la competencia al juez que se le declaró competente, se le remitirá el proceso y copia certificada del auto que se dictó; y al otro sólo copia autorizada de la misma resolución.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE AGOSTO DE 2011)</small>
+
 ###### ARTÍCULO 651.
 
-SANCIÓN. El tribunal unitario o la sala que resuelva el conflicto, impondrá multa hasta de veinte salarios mínimos a quien sostuvo con notoria temeridad su competencia.
+SANCIÓN. El tribunal distrital o la sala que resuelva el conflicto, impondrá multa hasta de veinte salarios mínimos a quien sostuvo con notoria temeridad su competencia.
 
 No habrá temeridad si el juez procedió según el parecer del Ministerio Público.
 
@@ -5467,7 +5517,9 @@ Las cauciones que se hayan exhibido para disfrutar la libertad caucional se apli
 
 ORDEN DE APREHENSIÓN. En caso de que la sala revoque la sentencia absolutoria y sancione al inculpado con pena de prisión, ordenará en la misma sentencia la aprehensión o reaprehensión de aquél y la comunicará al Ministerio Público para que la ejecute.
 
-Lo mismo se observará cuando un tribunal unitario revoque el auto de soltura; o debido a su improcedencia, la libertad provisional bajo caución o el sobreseimiento. En este último caso, sólo si antes el inculpado no venía disfrutando de libertad provisional bajo caución.
+> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2011)</small>
+
+Lo mismo se observará cuando un tribunal distrital revoque el auto de soltura; o debido a su improcedencia, la libertad provisional bajo caución o el sobreseimiento. En este último caso, sólo si antes el inculpado no venía disfrutando de libertad provisional bajo caución.
 
 Pero en los casos de libertad caucional, si sólo se modifica el monto, corresponderá al juez ordenar de inmediato la aprehensión o reaprehensión; una vez que, requerido el inculpado para que exhiba la diferencia en el plazo de diez días, no lo hiciere.
 
@@ -5940,3 +5992,13 @@ CUARTO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 4 DE FEBRERO DE 2011.
 
 EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE COAHUILA.
+
+P.O. 19 DE AGOSTO DE 2011.
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan las disposiciones que se opongan al presente decreto.
