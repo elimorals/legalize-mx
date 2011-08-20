@@ -4,7 +4,7 @@ identifier: "COL-ley-que-crea-premios-y-estimulos-para-los-colimenses-4433"
 country: "mx"
 rank: "ley"
 publication_date: "1967-10-14"
-last_updated: "2011-08-13"
+last_updated: "2011-08-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4433&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "COL"
 ---
 # LEY QUE CREA PREMIOS Y ESTIMULOS PARA LOS COLIMENSES
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 20 DE AGOSTO DE 2011 EN EL P.O. DEL ESTADO DE COLIMA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL INDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 LEY QUE CREA PREMIOS Y ESTIMULOS PARA LOS COLIMENSES
 
 ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE AGOSTO DE 2011.
+
+> <small>N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 20 DE AGOSTO DE 2011 NO APLICA AL ARTICULADO DEL DECRETO 350 PUBLICADO EN EL P.O. DE 13 DE AGOSTO DE 2011.</small>
 
 Ley publicada en el Periódico Oficial del Estado de Colima, el sábado 14 de octubre de 1967.
 
@@ -51,7 +51,7 @@ I.- a).- Condecoración "PROFESOR GREGORIO TORRES QUINTERO'', que se otorgará a
 
 b).- Orden "Profr. Gregorio Torres Quintero'' y diploma de Honor, para los maestros en servicio que cumplan cincuenta años de labor profesional.
 
-> <small>(ADICIONADO, P.O. 13 DE AGOSTO DE 2011)</small>
+> <small>(ADICIONADA, P.O. 13 DE AGOSTO DE 2011)</small>
 
 c) Galardón "Profesor Gregorio Torres Quintero" y Diploma de Honor a los docentes en servicio que cumplan 50 años de labor profesional en el Sistema Educativo Estatal.
 
