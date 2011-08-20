@@ -4,7 +4,7 @@ identifier: "COL-constitucion-politica-del-estado-libre-y-soberano-de-colima-396
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-10-20"
-last_updated: "2011-08-13"
+last_updated: "2011-08-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3961&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE AGOSTO DE 2011.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE AGOSTO DE 2011.
 
 Constitución publicada en el Periódico Oficial "El Estado de Colima", los días 20, 27 de octubre y 3, 10, 17 y 24 de noviembre de 1917.
 
@@ -1179,111 +1179,121 @@ La ley orgánica determinará la forma de integración, su estructura y funciona
 
 De los Partidos Políticos y Organismos Electorales.
 
-> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 1996)</small>
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2011)</small>
 
-###### Artículo 86 Bis.
+Artículo 86 BIS.- La renovación de los poderes Legislativo y Ejecutivo del Estado, así como los Ayuntamientos, se realizarán mediante elecciones libres, auténticas y periódicas, las cuales deberán celebrarse ordinariamente el primer domingo del mes de julio del año que corresponda, conforme a las siguientes bases:
 
-La renovación de los poderes Legislativo y Ejecutivo del Estado, así como los Ayuntamientos, se realizará mediante elecciones libres, auténticas y periódicas, conforme a las siguientes bases:
+I. Los partidos políticos son formas de organización política y constituyen entidades de interés público; la ley determinará las normas y requisitos para su registro legal y los modos específicos de su intervención en el proceso electoral. Los partidos políticos nacionales tendrán derecho a participar en las elecciones estatal, distritales y municipales, previa inscripción de la constancia de su registro ante el Instituto Electoral del Estado.
 
-I.- Los partidos políticos son formas de organización política y constituyen entidades de interés público; la ley determinará los modos específicos de su intervención en el proceso electoral. Los partidos políticos nacionales tendrán derecho a participar en las elecciones estatal, distritales y municipales, previa inscripción de la constancia de su registro ante el Instituto Electoral del Estado.
+Los partidos políticos tienen como fin promover la participación del pueblo en la vida democrática, contribuir a la integración de la representación estatal y municipal y, como organizaciones de ciudadanos, hacer posible el acceso de éstos al ejercicio del poder público, de acuerdo con los programas, principios e ideas que postulan y mediante el sufragio universal, libre, secreto y directo. En el Estado gozarán de las mismas prerrogativas que les confiere la Constitución Política de los Estados Unidos Mexicanos.
 
-Los partidos políticos tienen como fin promover la participación del pueblo en la vida democrática, contribuir a la integración de la representación estatal y municipal y, como organizaciones de ciudadanos, hacer posible el acceso de éstos al ejercicio del poder público, de acuerdo con los programas, principios e ideas que postulan y mediante el sufragio universal, libre, secreto y directo. En el Estado gozarán de las mismas prerrogativas que les confiere la Constitución General de la República. Los ciudadanos podrán afiliarse libre e individualmente a los partidos políticos.
+Sólo los ciudadanos podrán formar partidos políticos y afiliarse libre e individualmente a ellos; por tanto quedan prohibidas la intervención (sic) de organizaciones gremiales, o con objeto social diferente en la creación de partidos y cualquier forma de afiliación corporativa.
 
-> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2005)</small>
+Las autoridades electorales solamente podrán intervenir en los asuntos internos de los partidos políticos en los términos que señalen la Constitución Política de los Estados Unidos Mexicanos, esta Constitución y la ley.
 
-Los partidos políticos con el fin de estimular la participación equitativa, registrarán hasta el setenta por ciento de candidatos de un mismo género a cargos de diputados por el principio de mayoría relativa, y hasta cincuenta por ciento a cargos de diputados por el principio de representación proporcional, síndicos y regidores.
+Los partidos políticos promoverán y garantizarán la equidad y la paridad entre mujeres y hombres en sus órganos de dirección y en las candidaturas a cargos de elección popular.
 
-II.- Los partidos políticos tendrán derecho al uso en forma permanente e igualitaria de los medios de comunicación social propiedad del Gobierno del Estado, de acuerdo con las formas y procedimientos que establezca la ley. En los procesos electorales estatal, distritales y municipales, los partidos políticos deberán contar, en forma equitativa, con un mínimo de elementos para sus actividades tendientes a la obtención del sufragio popular.
+Para este último fin, podrán registrar hasta el 70% de candidatos de un mismo género a cargos de diputados por el principio de mayoría relativa, con excepción de las candidaturas de este tipo que sean resultado de un proceso de elección democrático, conforme a los estatutos de cada partido; tratándose de cargos de diputados por el principio de representación proporcional, quienes se ubicarán de manera alternada en la lista, no podrán incluir más del 50% de un mismo género.
 
-III.- La ley señalará las reglas a que se sujetarán el financiamiento ordinario de los partidos políticos y de sus campañas electorales, debiendo garantizar que los recursos públicos prevalezcan sobre los de origen privado.
+En el caso de los Ayuntamientos, cuyo número total de presidentes municipales, síndicos y regidores sea par, el porcentaje para cada uno de los géneros será del 50% y cuando se trate de un número impar, será hasta un 60% para un mismo género.
 
-El financiamiento público para los partidos políticos que mantengan su registro después de cada elección, se otorgará conforme a las siguientes bases y a lo que disponga la ley:
+Los partidos políticos garantizarán la inclusión de jóvenes en las candidaturas a cargos de elección popular.
 
-a).- El financiamiento público se fijará anualmente y será el resultado de multiplicar el número de ciudadanos que figuren en las listas nominales de electores al 30 de abril del año de la elección, por el 50% del salario mínimo diario vigente en esa fecha en la capital del Estado.
+Los partidos podrán formar coaliciones y postular candidaturas comunes para las elecciones de Gobernador, Ayuntamientos y diputados por el principio de mayoría relativa en los términos que disponga la ley.
 
-b).- Asimismo, se reintegrará un porcentaje de los gastos anuales que eroguen los partidos políticos por concepto de las actividades relativas a la educación, capacitación, investigación socioeconómica y política, así como a las tareas editoriales.
+Los partidos políticos tienen derecho al uso permanente de los medios de comunicación social, en los términos que establece la Constitución Política de los Estados Unidos Mexicanos, esta Constitución y las demás leyes de la materia.
 
-> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2005)</small>
+Los partidos políticos en ningún momento podrán contratar o adquirir, por sí o por terceras personas, tiempos en cualquier modalidad de radio y televisión.
 
-c).- La ley fijará los criterios para determinar los límites a las erogaciones de los partidos políticos en sus procesos internos para la selección de candidatos a cargos de elección, así como en sus campañas electorales; establecerá los montos máximos que tendrán las aportaciones pecuniarias de sus simpatizantes, los procedimientos para el control y vigilancia del origen y uso de todos los recursos con que cuenten; asimismo, señalará las sanciones que deban imponerse por el incumplimiento de estas disposiciones.
+Ninguna otra persona física o moral, sea a título propio o por cuenta de terceros, podrá contratar propaganda en radio y televisión dirigida a influir en las preferencias electorales de los ciudadanos, ni a favor o en contra de partidos políticos o de candidatos a cargos de elección popular. Queda prohibida la transmisión en el territorio del Estado de este tipo de mensajes contratados en otras entidades federativas o en el extranjero.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE JULIO DE 2002)</small>
+La libertad de expresión y el derecho a la información en el contexto del debate político, serán invariablemente garantizados por las autoridades electorales.
 
-IV.- La organización de las elecciones locales es una función estatal que se realiza a través de un organismo público de carácter permanente denominado Instituto Electoral del Estado, dotado de personalidad jurídica y patrimonio propios. La certeza, legalidad, independencia, imparcialidad y objetividad serán principios rectores en el ejercicio de dicha función.
+En la propaganda política o electoral que difundan los partidos políticos deberán abstenerse de expresiones que denigren a las instituciones, a los propios partidos o a las personas.
 
-El Instituto Electoral del Estado será autoridad en la materia, profesional en su desempeño, autónomo e independiente en sus decisiones y funcionamiento. Contará en su estructura con órganos de dirección, ejecutivos, técnicos y de vigilancia.
+Cuando a juicio de la autoridad electoral local el tiempo en radio y televisión que le fue otorgado, fuese insuficiente para sus fines, hará la solicitud a la autoridad administrativa electoral federal, quien determinará lo conducente para cubrir el tiempo faltante, conforme a las facultades que la Constitución Política de los Estados Unidos Mexicanos y las leyes de la materia le confieren.
 
-> <small>(REFORMADO, P.O. 23 DE JULIO DE 2002)</small>
+Durante el tiempo que comprendan las campañas electorales locales y hasta la conclusión de la respectiva jornada comicial, deberá suspenderse la difusión en los medios de comunicación social de toda propaganda gubernamental, tanto de los poderes estatales, como de los municipios, órganos autónomos y cualquier otro ente público. Las únicas excepciones a lo anterior serán las campañas de información de las autoridades electorales, las relativas a servicios educativos y de salud, o las necesarias para la protección civil en casos de emergencia.
 
-a). El Consejo General será su órgano superior de dirección y se integrará por siete Consejeros Electorales propietarios y tres suplentes, designados por el Congreso del Estado por mayoría calificada de sus integrantes, a propuesta de los grupos parlamentarios. Durarán en su encargo siete años sus requisitos y mecanismos de elección serán determinados en la ley de la materia. Uno de los Consejeros será presidente, electo por un mínimo de cinco votos de los Consejeros. Tendrá un Secretario Ejecutivo, que deberá ser también Consejero y será electo por cinco votos de los Consejeros, a propuesta en terna de su Presidente. Ambos funcionarios durarán en su cargo 4 años pudiendo ser reelectos para completar el resto del periodo. Los Consejeros Electorales estarán sujetos al régimen de responsabilidades establecido en el Título XI de esta Constitución.
+II. La ley garantizará que los partidos políticos cuenten de manera equitativa, con elementos para llevar a cabo sus actividades y señalará las reglas a que se sujetará el financiamiento ordinario de los propios partidos y de sus campañas electorales, debiendo garantizar que los recursos públicos prevalezcan sobre los de origen privado.
 
-En caso de que no se reúna en la segunda vuelta la mayoría calificada a que se refiere el párrafo anterior, los funcionarios electorales serán electos por el sistema de insaculación.
+El financiamiento público para los partidos políticos que mantengan su registro después de cada elección, se compondrá de las ministraciones destinadas al sostenimiento de sus actividades ordinarias permanentes, las tendientes a la obtención del voto durante los procesos electorales y las de carácter específico. Se otorgará conforme a las siguientes bases y a lo que disponga la ley:
 
-> <small>(REFORMADO, P.O. 26 DE JULIO DE 1999)</small>
+a) El financiamiento público se fijará anualmente y será el resultado de multiplicar el número de ciudadanos que figuren en las listas nominales de electores al 30 de abril del año de la elección, por el 50% del salario mínimo diario vigente en esa fecha en la capital del Estado.
+
+El 50% de la cantidad que resulte de acuerdo a lo señalado anteriormente, se distribuirá entre los partidos políticos en partes iguales y el 50% restante de acuerdo con el porcentaje de votos que hubieren obtenido cada uno en la elección de diputados inmediata anterior.
+
+b) El financiamiento público para las actividades tendientes a la obtención del voto durante el año en que se realicen elecciones, equivaldrá hasta un 70% adicional al monto del financiamiento público que le corresponda a cada partido político por actividades ordinarias en ese mismo año.
+
+c) El financiamiento público por actividades específicas, relativas a la educación, capacitación, investigación socioeconómica y política, así como a las tareas editoriales, equivaldrá hasta un veinticinco por ciento adicional al monto del financiamiento público que corresponda en cada año por actividades ordinarias.
+
+d) La ley fijará los límites a las erogaciones en los procesos internos de selección de candidatos y las campañas electorales de los partidos políticos. La propia ley establecerá el monto máximo que tendrán las aportaciones pecuniarias de sus simpatizantes, cuya suma total no podrá exceder anualmente, para cada partido, al 10% del tope de gastos establecido para la última campaña a gobernador; asimismo ordenará los procedimientos para el control y vigilancia del origen y uso de todos los recursos con que cuenten los partidos políticos y dispondrá las sanciones que deban imponerse por el incumplimiento de estas disposiciones.
+
+e) De igual manera, la ley establecerá el procedimiento para la liquidación de las obligaciones de los partidos políticos que pierdan su registro y los supuestos en los que sus bienes y remanentes serán adjudicados al Estado.
+
+III. La organización de las elecciones locales es una función estatal que se realiza a través de un organismo público de carácter permanente denominado Instituto Electoral del Estado, dotado de personalidad jurídica y patrimonio propio, en cuya integración participan el Poder Legislativo del Estado, los partidos políticos y los ciudadanos, en los términos que ordene la ley. En el ejercicio de esta función estatal, la certeza, legalidad, independencia, imparcialidad y objetividad serán principios rectores.
+
+El Instituto Electoral del Estado será autoridad en la materia, profesional en su desempeño, autónomo e independiente en sus decisiones y funcionamiento. Contará en su estructura con órganos de dirección, ejecutivos y técnicos y se organizará de acuerdo con las siguientes bases:
+
+a) El Consejo General será su órgano superior de dirección y se integrará por siete Consejeros Electorales propietarios, designados por el Congreso del Estado, por mayoría calificada de sus integrantes, a propuesta de los grupos parlamentarios, previa convocatoria pública, mediante la realización de una amplia consulta a la sociedad y con la aplicación de una evaluación a los aspirantes. Durarán en su encargo siete años, sus requisitos y mecanismos de elección serán determinados en la ley de la materia. Uno de los Consejeros será Presidente, electo por un mínimo de cinco votos de los Consejeros. Tendrá un Secretario Ejecutivo, que deberá ser también Consejero y será electo por cinco votos de los Consejeros, a propuesta en terna de su Presidente. Ambos funcionarios durarán en su cargo 4 años pudiendo ser reelectos para completar el resto del período. Los Consejeros Electorales estarán sujetos al régimen de responsabilidades establecido en el Título XI de esta Constitución.
+
+En caso de que no se reúna en una segunda vuelta la mayoría calificada a que se refiere el párrafo anterior, los funcionarios electorales serán electos por el sistema de insaculación.
 
 Los Consejeros Electorales no podrán:
 
-> <small>(F. DE E., P.O. 4 DE SEPTIEMBRE DE 1999)</small>
+1) Tener ningún otro empleo público durante el desempeño de su función;
 
-1).- Tener ningún otro empleo público durante el desempeño de su función;
+2) Ser candidatos a cargos de elección popular durante los tres años posteriores a la conclusión o separación de su cargo; y
 
-> <small>(F. DE E., P.O. 4 DE SEPTIEMBRE DE 1999)</small>
+3) Ocupar un cargo en los Poderes Ejecutivo y Legislativo, así como en los Ayuntamientos de la entidad, hasta pasado un año de la conclusión o separación de su cargo.
 
-2).- Ser candidatos a cargos de elección popular durante los tres años posteriores a la conclusión o separación de su cargo; y
+En el Consejo General y los Consejos Municipales participarán un representante acreditado por cada partido político o coalición, quienes sólo tendrán derecho a voz y gozarán de las prerrogativas que señale la ley.
 
-> <small>(F. DE E., P.O. 4 DE SEPTIEMBRE DE 1999)</small>
-
-3).- Ocupar cargo en las administraciones estatales o municipales, hasta pasado un año de la conclusión o separación de su cargo.
-
-En el Consejo General y los Consejos Municipales participarán un representante acreditado por cada partido político, quienes sólo tendrán derecho a voz.
-
-> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2005)</small>
-
-b).- El órgano ejecutivo dispondrá del personal calificado necesario para prestar el servicio profesional electoral. Los servidores del Instituto regirán sus relaciones de trabajo por las disposiciones de la Ley Electoral y por el Estatuto que apruebe el Congreso del Estado, cuyos derechos y obligaciones no podrán ser menores a los preceptuados por el artículo 123 Apartado B constitucional. Los órganos de vigilancia se integrarán mayoritariamente por representantes de los partidos políticos. Las mesas directivas de casillas estarán integradas por ciudadanos.
+b) El órgano ejecutivo dispondrá del personal calificado necesario para prestar el servicio profesional electoral. Los servidores del Instituto regirán sus relaciones de trabajo por las disposiciones del Código Electoral y por el Estatuto que apruebe el Congreso del Estado, cuyos derechos y obligaciones no podrán ser menores a los preceptuados por el artículo 123 Apartado B de la Constitución Política de los Estados Unidos Mexicanos. Las mesas directivas de casillas estarán integradas por ciudadanos.
 
 El Instituto Electoral del Estado agrupará para su desempeño, en forma integral y directa, además de las que le determine la ley, las actividades relativas al padrón y lista de electores, geografía electoral, observación electoral, derechos y prerrogativas de las agrupaciones y partidos políticos, preparación de la jornada electoral, la regulación de encuestas o sondeos de opinión con fines electorales, cómputos, declaración de validez y otorgamiento de constancias, capacitación electoral, educación cívica e impresión de materiales electorales. Las sesiones de todos los órganos colegiados electorales serán públicas, en los términos que disponga la ley.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 29 DE AGOSTO DE 2005)</small>
+La fiscalización de las finanzas de los partidos políticos, estará a cargo de una Comisión de Consejeros Electorales. La ley regulará la integración y funcionamiento de dicha comisión, así como las bases de coordinación con la autoridad administrativa electoral federal en la materia y los procedimientos para la aplicación de sanciones por el incumplimiento a las disposiciones legales de la materia.
 
-El Instituto Electoral del Estado vigilará, fiscalizará y sancionará los procesos internos de los partidos políticos para la selección de sus candidatos a cargos de elección, en la forma y términos que establezca la Ley.
+La ley establecerá los plazos para la realización de los procesos partidistas de selección y postulación de candidatos a cargos de elección popular, así como las reglas para las precampañas y las campañas electorales, además de las sanciones para quienes las infrinjan.
 
-> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 29 DE AGOSTO DE 2005)</small>
+La duración de las campañas no deberá exceder de noventa días para la elección de Gobernador, ni de sesenta días cuando se elijan diputados locales y ayuntamientos; las precampañas no podrán durar más de las dos terceras partes de las respectivas campañas electorales.
+
+La violación a estas disposiciones por los partidos o cualquier otra persona física o moral será sancionada conforme a la ley.
 
 El Instituto Electoral del Estado realizará el cómputo de cada elección; otorgará constancias de mayoría a los candidatos que hubieren obtenido el triunfo; declarará la validez de las elecciones de diputados de mayoría relativa y Ayuntamientos; y hará la declaratoria de validez y la asignación de diputados y regidores según el principio de representación proporcional.
 
-> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 29 DE AGOSTO DE 2005)</small>
+La ley señalará los supuestos y las reglas para la realización, en los ámbitos administrativo y jurisdiccional, de recuentos totales o parciales de votación.
 
 El Instituto Electoral del Estado tendrá a su cargo, además, la realización del plebiscito y referéndum, en los términos de la Ley respectiva.
 
-V.- Para garantizar los principios de constitucionalidad y legalidad de los actos y resoluciones electorales, se establecerá un sistema de medios de impugnación de los que conocerán, según la competencia, el Instituto Electoral del Estado y el Tribunal Electoral del Estado, en los términos que señale la Ley. Dicho sistema dará definitividad a las distintas etapas de los procesos electorales.
+El Instituto Electoral del Estado podrá convenir con la autoridad administrativa electoral federal, para que ésta se haga cargo de la organización de los procesos electorales locales.
+
+IV. Para garantizar los principios de constitucionalidad y legalidad de los actos y resoluciones electorales, se establecerá un sistema de medios de impugnación que dará definitividad a las distintas etapas de los procesos electorales locales, de los que conocerán, según la competencia, el Instituto Electoral del Estado o el Tribunal Electoral del Estado, en los términos que señale la Ley. Asimismo, se fijarán las causales de nulidad de las elecciones de Gobernador, Diputados Locales y Ayuntamientos.
 
 En materia electoral la interposición de los medios de impugnación no producirá, en ningún caso, efectos suspensivos sobre el acto o la resolución impugnados.
 
-Los cómputos efectuados por los órganos electorales, las determinaciones sobre la declaración de validez, el otorgamiento de las constancias y la asignación de diputados o regidores podrán ser impugnadas ante el Tribunal Electoral del Estado, en los términos que señale la ley.
+Los cómputos efectuados por los órganos electorales, las determinaciones sobre la declaración de validez, el otorgamiento de las constancias de mayoría y la asignación de diputados o regidores por el principio de representación proporcional podrán ser impugnadas ante el Tribunal Electoral del Estado, en los términos que señale la ley.
 
-VI.- El Tribunal Electoral del Estado será órgano autónomo en su funcionamiento e independiente en sus decisiones, de pleno derecho y máxima autoridad jurisdiccional electoral. Funcionará en pleno y sus sesiones de resolución serán públicas. Se organizará en los términos que señale la ley; regirá sus relaciones de trabajo conforme al Estatuto que apruebe el Congreso del Estado, en el que se establecerá que los derechos y obligaciones de sus trabajadores no podrán ser menores a los preceptuados por el artículo 123 Apartado B constitucional, y los mecanismos de vigilancia y disciplina se establecerán en la ley electoral. Sus Magistrados responderán sólo al mandato de la ley; deberán satisfacer los requisitos establecidos en la legislación electoral, que no podrán ser menores de los que señala esta Constitución para ser Magistrado del Poder Judicial. Serán electos por el Congreso del Estado, por mayoría calificada de los Diputados presentes, a propuesta del Supremo Tribunal de Justicia de conformidad con la ley de la materia.
+V. El Tribunal Electoral del Estado será órgano autónomo en su funcionamiento e independiente en sus decisiones, de pleno derecho y máxima autoridad jurisdiccional electoral. Funcionará en pleno y sus sesiones de resolución serán públicas. Se organizará en los términos que señale la ley; regirá sus relaciones de trabajo conforme al Estatuto que apruebe el Congreso del Estado, en el que se establecerá que los derechos y obligaciones de sus trabajadores no podrán ser menores a los preceptuados por el artículo 123 Apartado B de la Constitución Política de los Estados Unidos Mexicanos, y los mecanismos de vigilancia y disciplina se establecerán en la ley electoral. Sus magistrados responderán solo al mandato de la ley; deberán satisfacer los requisitos establecidos en la legislación electoral, que no podrán ser menores de los que señala esta Constitución para ser Magistrado del Poder Judicial. Serán electos por el Congreso del Estado, por mayoría calificada de los diputados presentes, a propuesta del Supremo Tribunal de Justicia de conformidad con la ley de la materia.
 
 El Tribunal Electoral del Estado tendrá competencia para:
 
-a).- Realizar el cómputo final de la elección de Gobernador del Estado, una vez resueltas, en su caso, las impugnaciones que se hubieren interpuesto sobre la misma, procediendo a formular la declaración de validez de la elección y la de Gobernador Electo respecto del candidato que hubiere obtenido el mayor número de votos;
+a) Realizar el cómputo final de la elección de Gobernador del Estado, una vez resueltas, en su caso, las impugnaciones que se hubieren interpuesto sobre la misma, procediendo a formular la declaración de validez de la elección y la de Gobernador Electo respecto del candidato que hubiere obtenido el mayor número de votos;
 
-> <small>(REFORMADO, P. O. 11 DE DICIEMBRE DE 1999)</small>
+b) Substanciar y resolver en forma firme y definitiva, en los términos de esta Constitución y el Código o Ley respectiva, las impugnaciones que se susciten en materia electoral, de referéndum y plebiscito;
 
-b).- Sustanciar y resolver en forma firme y definitiva, en los términos de esta Constitución y el Código o Ley respectiva, las impugnaciones que se susciten en materia electoral, de referéndum y plebiscito;
+c) Dirimir los conflictos o diferencias laborales entre el Tribunal, el Instituto Electoral del Estado y sus servidores;
 
-c).- Dirimir los conflictos o diferencias laborales entre el Tribunal, el Instituto Electoral del Estado y sus servidores;
+d) Determinar e imponer sanciones en la materia;
 
-d).- Determinar e imponer sanciones en la materia;
+e) Expedir su reglamento interior; y
 
-e).- Expedir su reglamento interior; y
+f) Realizar las demás atribuciones que le confiera la ley.
 
-f).- Realizar las demás atribuciones que le confiera la ley.
+Las sentencias del Tribunal Electoral del Estado serán definitivas y sólo podrán ser impugnadas ante el Tribunal Electoral del Poder Judicial de la Federación, en los términos establecidos por el artículo 99 de la Constitución Política de los Estados Unidos Mexicanos.
 
-Las resoluciones del Tribunal Electoral serán definitivas y sólo podrán ser impugnadas ante el Tribunal Federal Electoral, en los términos establecidos por el artículo 99 de la Constitución Política de los Estados Unidos Mexicanos.
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], P. O. 11 DE DICIEMBRE DE 1999)</small>
-
-Todo acto u omisión que atente contra la legalidad de los procesos democráticos de plebiscito y de referéndum, serán causa de responsabilidad. Las leyes respectivas determinarán las sanciones correspondientes.
+Las conductas delictuosas, las faltas en materia electoral, así como todo acto u omisión que atente contra la legalidad de los procesos democráticos de plebiscito y de referéndum, serán causa de responsabilidad. Las leyes respectivas determinarán las sanciones correspondientes.
 
 > <small>(REFORMADO, P.O. 26 DE MARZO DE 1994)</small>
 
@@ -1916,6 +1926,18 @@ Se prohibe ejercer simultáneamente dos o más cargos de elección popular; pero
 ###### Artículo 138.
 
 Todo cargo o empleo público es incompatible con cualquiera de la Federación, del Estado, de los Municipios o de organismos descentralizados y empresas de participación estatal de cualquiera de los tres órdenes de gobierno, cuando por ellos se perciba sueldo, exceptuándose los de los ramos de Instrucción, de Beneficencia Pública o los honoríficos en asociaciones científicas o literarias.
+
+> <small>(ADICIONADO, P.O. 20 DE AGOSTO DE 2011)</small>
+
+Los servidores públicos del Estado y los municipios tienen en todo tiempo la obligación de aplicar con imparcialidad los recursos públicos que están bajo su responsabilidad, sin influir en la equidad de la competencia entre los partidos políticos.
+
+> <small>(ADICIONADO, P.O. 20 DE AGOSTO DE 2011)</small>
+
+La propaganda, bajo cualquier modalidad de comunicación social, que difundan como tales, los poderes públicos del Estado, los órganos autónomos, las dependencias y entidades de la administración pública estatal y municipal y cualquier otro ente de gobierno, deberá tener carácter institucional y fines informativos, educativos o de orientación social. En ningún caso esta propaganda incluirá nombres, imágenes, voces o símbolos que impliquen promoción personalizada de cualquier servidor público.
+
+> <small>(ADICIONADO, P.O. 20 DE AGOSTO DE 2011)</small>
+
+Las leyes, en sus respectivos ámbitos de aplicación, garantizarán el estricto cumplimiento de lo previsto en los dos párrafos anteriores, incluyendo el régimen de sanciones a que haya lugar.
 
 > <small>(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2007)</small>
 
@@ -2900,6 +2922,10 @@ P.O. 16 DE JULIO DE 2011.
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
 
 P.O. 13 DE AGOSTO DE 2011.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 20 DE AGOSTO DE 2011.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
 
