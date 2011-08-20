@@ -4,7 +4,7 @@ identifier: "BCS-ley-organica-del-poder-legislativo-del-estado-de-baja-2996"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1990-12-10"
-last_updated: "2011-07-06"
+last_updated: "2011-08-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2996&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY REGLAMENTARIA DEL PODER LEGISLATIVO DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 6 DE JULIO DE 2011.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 20 DE AGOSTO DE 2011.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el lunes 10 de diciembre de 1990.
 
@@ -549,6 +549,10 @@ XXIII.- DEL DEPORTE.
 
 XXIV.- DE TRANSPARENCIA.
 
+> <small>(ADICIONADA, B.O. 20 DE AGOSTO DE 2011)</small>
+
+XXV.- DE ATENCIÓN A GRUPOS VULNERABLES Y A PERSONAS CON DISCAPACIDAD.
+
 ###### ARTICULO 55.
 
 Será materia de estudio y dictamen de las distintas comisiones, lo siguiente:
@@ -856,6 +860,22 @@ b) Lo relacionado con la difusión de las iniciativas, pronunciamientos, puntos 
 c) Las quejas de particulares que tengan que ver con la falta de transparencia; y
 
 d) Las demás que le encomiende la Mesa Directiva y la Gran Comisión.
+
+> <small>(ADICIONADA, B.O. 20 DE AGOSTO DE 2011)</small>
+
+XXV.- DE LA COMISIÓN DE ATENCIÓN A GRUPOS VULNERABLES Y A PERSONAS CON DISCAPACIDAD
+
+a) Analizar y dictaminar, en su caso, sobre la legislación relacionada con las personas con discapacidad, que no sean materia de otra Comisión;
+
+b) Conocer y dictaminar en su caso, los asuntos relacionados con el cuidado y atención que merecen los grupos vulnerables y las personas con discapacidad;
+
+c) Conocer e impulsar acciones que conlleven a la realización de planes y programas que contribuyan a mejorar la inserción productiva en la sociedad de las personas con discapacidad, para garantizar una situación de vida más digna a estos grupos;
+
+d) Promover la coordinación entre los niveles federal, estatal y municipal, así como, con las instituciones y organizaciones especializadas que brindan servicios de promoción y atención a personas con discapacidad;
+
+e) Organizar foros de consulta, a efecto de recibir y realizar propuestas que tiendan a mejorar la aplicación o adecuación de la legislación en materia de personas con discapacidad y lograr el cumplimiento de sus objetivos; y
+
+f) Las demás que le señalen la Directiva del Congreso y la Gran Comisión.
 
 ###### ARTICULO 56.
 
@@ -1511,7 +1531,7 @@ Si en el curso de las discusiones, el orador, con el propósito de allegar más 
 
 ###### ARTICULO 133.
 
-Los integrantes de la Comisión Dictaminadora y él o los Diputados autores de la iniciativa, podrán hacer uso de la palabra en la discusión de un negocio, aún sin haberse inscrito y cuantas veces la soliciten.
+Los integrantes de la Comisión Dictaminadora y el o los Diputados autores de la iniciativa, podrán hacer uso de la palabra en la discusión de un negocio, aún sin haberse inscrito y cuantas veces la soliciten.
 
 ###### ARTICULO 134.
 
@@ -2406,3 +2426,7 @@ UNICO.- El presente decreto entrara en vigor al día siguiente de su publicació
 B.O. 6 DE JULIO DE 2011.
 
 UNICO.- El presente decreto entrara en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+B.O. 20 DE AGOSTO DE 2011
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
