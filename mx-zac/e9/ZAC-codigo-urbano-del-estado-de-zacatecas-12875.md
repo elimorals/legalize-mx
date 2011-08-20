@@ -4,7 +4,7 @@ identifier: "ZAC-codigo-urbano-del-estado-de-zacatecas-12875"
 country: "mx"
 rank: "codigo"
 publication_date: "1996-09-11"
-last_updated: "2010-12-29"
+last_updated: "2011-08-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12875&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 CODIGO URBANO DEL ESTADO DE ZACATECAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE DICIEMBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE AGOSTO DE 2011.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Zacatecas, el miércoles 11 de septiembre de 1996.
 
@@ -589,7 +589,9 @@ XXII.- Supervisar la ejecución de las obras de urbanización de los fraccionami
 
 XXIII.- Controlar y vigilar que los fraccionadores o promoventes de condominio cumplan con lo dispuesto en la legislación y los programas de desarrollo urbano;
 
-XXIV.- Verificar que los fraccionadores y promoventes de condominios hayan cubierto los diversos impuestos, aprovechamientos, derechos o contribuciones fiscales estatales y municipales que les correspondan, realizado las donaciones respectivas, así como constituido las garantías que les señala este Código u otros ordenamientos legales aplicables;
+> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 2011)</small>
+
+XXIV.- Verificar que los fraccionadores y promoventes de condominios hayan cubierto los diversos impuestos, aprovechamientos, derechos o contribuciones fiscales estatales y municipales que les correspondan, realizado las donaciones respectivas haciendo la entrega de las áreas para equipamiento urbano respectivas, así como constituido las garantías que les señala este Código u otros ordenamientos legales aplicables;
 
 XXV.- Autorizar la propaganda y publicidad que los fraccionadores o promoventes de condominio utilicen;
 
@@ -603,7 +605,9 @@ XIX.- Dictaminar las obras de urbanización terminadas de los fraccionamientos y
 
 XXX.- Determinar las áreas y predios que conforme a este Código deberán donar los fraccionadores y promoventes de condominios al Municipio;
 
-XXXI.- Determinar el aprovechamiento de las áreas de donación de los fraccionamientos y condominios, en congruencia con lo dispuesto en este Código y en los programas de desarrollo urbano;
+> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 2011)</small>
+
+XXXI. Determinar el aprovechamiento para equipamiento urbano de las áreas de donación de los fraccionamientos y condominios, en congruencia con lo dispuesto en este Código y en los programas de desarrollo urbano;
 
 XXXII.- Municipalizar los fraccionamientos, cuando se hayan cubierto los requisitos legales;
 
@@ -2263,9 +2267,11 @@ El Gobernador del Estado, previa opinión de la Comisión del Patrimonio Cultura
 
 Una vez que las declaratorias de referencia sean aprobadas por la Legislatura del Estado, serán remitidas al Ejecutivo para los efectos de su publicación e inscripción en los registros correspondientes.
 
-###### ARTICULO 183.
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2011)</small>
 
-Las declaratorias relativas a monumentos, zonas y sitios del patrimonio cultural del Estado, son disposiciones de interés público y su observancia será de carácter obligatorio para autoridades y particulares, una vez que se publiquen e inscriban en los términos del artículo 121 de este Código.
+###### ARTÍCULO 183.
+
+Las declaratorias relativas a monumentos, zonas y sitios del patrimonio cultural del Estado, son disposiciones de interés público y su observancia será de carácter obligatorio para autoridades y particulares, en los términos de este Código para su publicación e inscripción así como en los otros registros que correspondan en razón de la materia.
 
 ###### ARTICULO 184.
 
@@ -2459,9 +2465,11 @@ III.- De vialidad; y
 
 IV.- De electrificación y alumbrado público.
 
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2011)</small>
+
 ###### ARTICULO 203.
 
-Las normas de diseño urbano son las que regulan el proyecto de fraccionamiento en cuanto a la zonificación, dimensiones de lotes y manzanas, densidades de población y construcción, equipamiento urbano, áreas verdes y de donación.
+Las normas de diseño urbano son las que regulan el proyecto de fraccionamiento en cuanto a la zonificación, dimensiones de lotes y manzanas, densidades de población y construcción, equipamiento urbano, áreas verdes y de donación en la que el promotor del fraccionamiento deberá ceder a título gratuito a favor del Ayuntamiento.
 
 ###### ARTICULO 204.
 
@@ -2487,17 +2495,19 @@ La construcción de vivienda multifamiliar o edificios habitacionales dentro de 
 
 Las construcciones en condominio, además de cumplir con lo dispuesto en el párrafo anterior, deberán respetar lo previsto en este Código, en cuanto a las densidades y características de las obras, así como a la extensión de las áreas libres, de estacionamiento y de uso común.
 
-> <small>(REFORMADO, P.O. 3 DE AGOSTO DE 2005)</small>
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2011)</small>
 
 ###### ARTICULO 208.
 
-Los ayuntamientos aprovecharán para infraestructura, equipamiento y servicios, cuando menos, el 60% de las áreas de donación que reciban conforme a lo dispuesto por este Código por parte de los fraccionadores en cada fraccionamiento
+Los ayuntamientos aprovecharán para infraestructura, equipamiento y servicios, cuando menos, el 60% de las áreas donadas por el promotor del fraccionamiento para equipamiento urbano y que reciban conforme a lo dispuesto por este Código por parte de los fraccionadores en cada fraccionamiento.
 
-Del área de donación de cada fraccionamiento, cuando menos un 30% deberá destinarse a áreas verdes, parques y jardines, el fraccionador tendrá la obligación de equipar dicha superficie para tales efectos.
+Del área total donada por el promotor del fraccionamiento para equipamiento urbano de cada fraccionamiento, cuando menos un 30% deberá destinarse a áreas verdes, parques y jardines; el fraccionador tendrá la obligación de equipar dicha superficie para tales efectos.
 
-###### ARTICULO 209.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE AGOSTO DE 2011)</small>
 
-El ayuntamiento correspondiente en ningún caso podrá ejercer actos de dominio, a título oneroso o gratuito, sin autorización de la Legislatura del Estado, respecto a las áreas de donación en la extensión a que se refiere el artículo anterior, a fin de que se garantice el equipamiento y la suficiencia de los servicios en el mismo.
+###### ARTÍCULO 209.
+
+El Ayuntamiento correspondiente en ningún caso podrá ejercer actos de dominio, a titulo oneroso o gratuito, sin autorización de la Legislatura del Estado, respecto a las áreas donadas por el promotor del fraccionamiento para equipamiento urbano en la extensión a que se refiere el artículo anterior, a fin de que se garantice el equipamiento y la suficiencia de los servicios en el mismo.
 
 > <small>(ADICIONADO, P.O. 3 DE AGOSTO DE 2005)</small>
 
@@ -2507,15 +2517,19 @@ En casos excepcionales, y atendiendo siempre el interés superior de la poblaci�
 
 El Servidor Público que disponga de las áreas de donación en contravención a lo que dispone el párrafo anterior, incurrirá en el delito de peculado a que se refiere el artículo 199 del Código Penal vigente en el Estado.
 
-###### ARTICULO 210.
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2011)</small>
 
-La Comisión Municipal respectiva deberá opinar sobre la transmisión de dominio por parte del Ayuntamiento correspondiente, de áreas de donación en fraccionamientos, previamente a la autorización de la Legislatura del Estado, cuando dichas superficies no se destinen a infraestructura, equipamiento y servicios públicos.
+###### ARTÍCULO 210.
 
-###### ARTICULO 211.
+La Comisión Municipal respectiva deberá opinar sobre la transmisión de dominio por parte del Ayuntamiento correspondiente, de las áreas donadas por el promotor del fraccionamiento para equipamiento urbano, previamente a la autorización de la Legislatura del Estado, cuando dichas superficies no se destinen a infraestructura, equipamiento y servicios públicos.
 
-En los fraccionamientos que se requiera caseta de vigilancia, el Ayuntamiento fijará sus especificaciones, dimensiones y ubicación. Es obligación del fraccionador construir la caseta y donarla al Ayuntamiento correspondiente.
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2011)</small>
 
-El área ocupada por la caseta de vigilancia será considerada como parte de la superficie que el fraccionador está obligado a donar al Ayuntamiento.
+###### ARTÍCULO 211.
+
+En los fraccionamientos que se requiera caseta de vigilancia, el Ayuntamiento fijará sus especificaciones, dimensiones y ubicación. Es obligación del fraccionador construir la caseta y cederla a título gratuito al Ayuntamiento correspondiente.
+
+El área ocupada por la caseta de vigilancia será considerada como parte de la superficie que el fraccionador está obligado a donar como área para equipamiento urbano al Ayuntamiento.
 
 ###### ARTICULO 212.
 
@@ -2559,6 +2573,10 @@ III.- Calles locales: son aquellas destinadas principalmente a dar acceso a los 
 
 IV.- Andadores: son aquellos que servirán exclusivamente para el tránsito de peatones; debiendo quedar cerrados al acceso de vehículos por medio de obstrucciones materiales.
 
+> <small>(ADICIONADA, P.O. 20 DE AGOSTO DE 2011)</small>
+
+V. Esquinas: deberá considerarse un radio (boleado) de 4.5 m. en calles locales y 9.00 m. en calles colectoras.
+
 ###### ARTICULO 219.
 
 Las calles colectoras de los fraccionamientos habitacionales urbanos deberán tener una longitud mínima en relación a el largo total de calles, de acuerdo con los siguientes porcentajes:
@@ -2583,13 +2601,17 @@ Ninguna de las calles de un fraccionamiento en proyecto, que sea prolongación d
 
 Cuando cualquiera de los tipos de calles a que se refiere este Código tenga cruzamiento o entronque con una arteria de alta velocidad, carretera, o con una vía de ferrocarril, con un canal de riego o corriente de agua, requerirán un proyecto especial que deberá contemplarse en el proyecto de urbanización del fraccionamiento.
 
-###### ARTICULO 223.
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2011)</small>
 
-Cuando por decisión del Ayuntamiento o por lo dispuesto en los programas de desarrollo urbano, se requieran calles con anchura superior a 30 metros, las superficies que excedan a esa extensión, serán descontadas de aquellas que el fraccionador deba donar al Municipio.
+###### ARTÍCULO 223.
+
+Cuando por decisión del Ayuntamiento o por lo dispuesto en los programas de desarrollo urbano, se requieran calles con anchura superior a 30 metros, las superficies que excedan a esa extensión, serán descontadas de aquellas que el fraccionador deba donar como área para equipamiento urbano al Municipio.
+
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2011)</small>
 
 ###### ARTICULO 224.
 
-La postería de la red de electrificación, alumbrado público, teléfonos, señalamiento, indicadores, letreros o cualquier otro tipo similar, deberán ubicarse en su caso, en el área jardinada de las banquetas, sin interferir el área de circulación de peatones.
+La posteria de la red de electrificación, alumbrado público, teléfonos, señalamiento, indicadores, letreros o cualquier otro tipo similar, deberán ubicarse en su caso, en el área jardinada de las banquetas, sin interferir el área de circulación de peatones, en las banquetas deberán construirse rampas para personas con discapacidad, pasamanos en aquellas calles que así lo requieran cuyo desnivel sea mayor del 12%, y en los cruces con los arroyos vehiculares deberán considerarse rampas especiales para sillas de ruedas, con un ancho mínimo de 90 cm. y una pendiente del 15%, con un acabado terso pero no resbaladizas, además de lo que establezcan otros ordenamientos legales en la materia incluyendo la normatividad definida para cada centro de población en su programa de desarrollo urbano.
 
 ###### ARTICULO 225.
 
@@ -2613,7 +2635,9 @@ II.- Usos y destinos del suelo: El aprovechamiento predominante será de viviend
 
 En este tipo de fraccionamientos se permitirá la construcción de viviendas multifamiliares en un máximo del 15% de la superficie vendible, en las zonas autorizadas;
 
-III.- Donaciones: El fraccionador deberá donar al Municipio el 12% de la superficie total del fraccionamiento, debidamente urbanizada;
+> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 2011)</small>
+
+III. Donaciones: El fraccionador deberá donar a título gratuito como área para equipamiento urbano al Municipio el 12% de la superficie total del fraccionamiento, debidamente urbanizada;
 
 IV.- Vialidad: Las calles colectoras deberán tener como mínimo una anchura de 16 metros, medida de paramento a paramento; las banquetas serán de 2.40 metros de ancho, de los cuales el 25% se empleará como zona jardinada. En cada caso, el Ayuntamiento determinará la conveniencia de usar camellones.
 
@@ -2627,19 +2651,27 @@ a) Fuente de abastecimiento de agua potable, red de distribución y tomas domici
 
 b) Sistema de alcantarillado con salidas domiciliarias de albañal;
 
-c) Red de distribución de energía eléctrica para uso doméstico, con cableado subterráneo;
+> <small>(ADICIONADO, P.O. 20 DE AGOSTO DE 2011)</small>
 
-d) Alumbrado público de vapor mercurial u otro de calidad similar, montado en poste metálico, de acuerdo a las normas de la Comisión Federal de Electricidad;
+c) Planta de tratamiento de aguas servidas, individual o colectiva de acuerdo a los estudios de la instancia normativa;
 
-e) Ductos para redes telefónicas;
+> <small>(ADICIONADO, P.O. 20 DE AGOSTO DE 2011)</small>
 
-f) Pavimento de calles, guarniciones y banquetas de concreto u otro material de calidad similar, a juicio del Ayuntamiento;
+d) Ductos para las redes de telecomunicaciones
 
-g) Arbolado en áreas de calles, glorietas y demás lugares destinados a ese fin, en una cantidad igual a 5 unidades por lote vendible;
+e) Red de distribución de energía eléctrica para uso doméstico, con cableado subterráneo;
 
-h) Placas de nomenclatura en los cruces de las calles; y
+f) Alumbrado público de vapor mercurial u otro de calidad similar, montado en poste metálico, de acuerdo a las normas de la Comisión Federal de Electricidad;
 
-i) Caseta de vigilancia.
+g) Ductos para redes telefónicas;
+
+h) Pavimento de calles, guarniciones y banquetas de concreto u otro material de calidad similar, a juicio del Ayuntamiento;
+
+i) Arbolado en áreas de calles, glorietas y demás lugares destinados a ese fin, en una cantidad igual a 5 unidades por lote vendible;
+
+j) Placas de nomenclatura en los cruces de las calles; y
+
+k) Caseta de vigilancia.
 
 ###### ARTICULO 228.
 
@@ -2671,17 +2703,25 @@ a) Fuente de abastecimiento de agua potable, red de distribución y tomas domici
 
 b) Sistema de alcantarillado con salidas domiciliarias de albañal;
 
-c) Red de distribución de energía eléctrica para uso doméstico;
+> <small>(ADICIONADO, P.O. 20 DE AGOSTO DE 2011)</small>
 
-d) Alumbrado público de vapor mercurial u otro de calidad similar, montado en poste octagonal de concreto y operado con celda fotoeléctrica;
+c) Planta de tratamiento de aguas servidas, individual o colectiva de acuerdo a los estudios de la instancia normativa;
 
-e) Pavimento de calles, guarniciones y banquetas de concreto u otro material de calidad similar, a juicio del Ayuntamiento;
+> <small>(ADICIONADO, P.O. 20 DE AGOSTO DE 2011)</small>
 
-f) Arbolado en áreas de calles, glorietas y demás lugares destinados a ese fin, en una cantidad igual a 3 unidades por lote vendible;
+d) Ductos para las redes de telecomunicaciones
 
-g) Placas de nomenclatura en los cruces de las calles; y
+e) Red de distribución de energía eléctrica para uso doméstico;
 
-h) Caseta de vigilancia.
+f) Alumbrado público de vapor mercurial u otro de calidad similar, montado en poste octagonal de concreto y operado con celda fotoeléctrica;
+
+g) Pavimento de calles, guarniciones y banquetas de concreto u otro material de calidad similar, a juicio del Ayuntamiento;
+
+h) Arbolado en áreas de calles, glorietas y demás lugares destinados a ese fin, en una cantidad igual a 3 unidades por lote vendible;
+
+i) Placas de nomenclatura en los cruces de las calles; y
+
+j) Caseta de vigilancia.
 
 ###### ARTICULO 229.
 
@@ -2693,7 +2733,9 @@ II.- Usos y destinos del suelo: El aprovechamiento predominante será de viviend
 
 En este tipo de fraccionamientos se permitirá la construcción de viviendas multifamiliares en un máximo del 60% de la superficie vendible, en las zonas autorizadas, sin sobrepasar la densidad máxima permitida;
 
-III.- Donaciones: El fraccionador deberá donar al Municipio el 10% de la superficie total del fraccionamiento, debidamente urbanizada;
+> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 2011)</small>
+
+III.- Donaciones: El fraccionador deberá donar a título gratuito como área para equipamiento urbano al Municipio el 10% de la superficie total del fraccionamiento, debidamente urbanizada;
 
 IV.- Vialidad: Las calles colectoras deberán tener una anchura de 12.50 metros, medida de paramento a paramento; las banquetas serán de 1.20 metros de ancho.
 
@@ -2711,17 +2753,25 @@ a) Fuente de abastecimiento de agua potable, red de distribución y tomas domici
 
 b) Sistema de alcantarillado con salidas domiciliarias de albañal;
 
-c) Red de distribución de energía eléctrica para uso doméstico;
+> <small>(ADICIONADO, P.O. 20 DE AGOSTO DE 2011)</small>
 
-d) Alumbrado público;
+c) Planta de tratamiento de aguas servidas, individual o colectiva de acuerdo a los estudios de la instancia normativa;
 
-e) Pavimento de calles, guarniciones y banquetas de concreto u otro material de calidad similar a juicio del Ayuntamiento;
+> <small>(ADICIONADO, P.O. 20 DE AGOSTO DE 2011)</small>
 
-f) Arbolado en áreas de calles, glorietas y demás lugares destinados a ese fin, en una cantidad igual a una unidad por lote vendible;
+d) Ductos para las redes de telecomunicaciones
 
-g) Placas de nomenclatura en los cruces de calles; y
+e) Red de distribución de energía eléctrica para uso doméstico;
 
-h) Caseta de vigilancia.
+f) Alumbrado público;
+
+g) Pavimento de calles, guarniciones y banquetas de concreto u otro material de calidad similar a juicio del Ayuntamiento;
+
+h) Arbolado en áreas de calles, glorietas y demás lugares destinados a ese fin, en una cantidad igual a una unidad por lote vendible;
+
+i) Placas de nomenclatura en los cruces de calles; y
+
+j) Caseta de vigilancia.
 
 ###### ARTICULO 230.
 
@@ -2765,7 +2815,9 @@ Las construcciones deberán remeterse 5 metros a partir del paramento; superfici
 
 II.- Usos y destinos del suelo: El aprovechamiento predominante será de vivienda unifamiliar para recreación y huertos familiares;
 
-III.- Donaciones: El fraccionador deberá donar al Municipio el 5% de la superficie total del fraccionamiento, debidamente urbanizada;
+> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 2011)</small>
+
+III. Donaciones: El fraccionador deberá donar a título gratuito como área para equipamiento urbano al Municipio el 5% de la superficie total del fraccionamiento, debidamente urbanizada;
 
 IV.- Vialidad: Las calles colectoras deberán tener una anchura de 15 metros, medida de paramento a paramento; las banquetas serán de 3 metros de ancho, de los cuales el 50% se empleará como zona jardinada.
 
@@ -2779,17 +2831,21 @@ a) Fuente de abastecimiento de agua potable, red de distribución y tomas domici
 
 b) Sistema de alcantarillado con salidas domiciliarias de albañal, o fosa séptica en cada lote;
 
-c) Red de distribución de energía eléctrica para uso doméstico;
+> <small>(ADICIONADO, P.O. 20 DE AGOSTO DE 2011)</small>
 
-d) Alumbrado público;
+c) Planta de tratamiento de aguas servidas, individual o colectiva de acuerdo a los estudios de la instancia normativa;
 
-e) Calles con empedrado u otro material de calidad similar; guarniciones de concreto y banquetas empedradas u otro material de calidad similar a juicio del Ayuntamiento;
+d) Red de distribución de energía eléctrica para uso doméstico;
 
-f) Arbolado en áreas de calles, glorietas y demás lugares destinados a ese fin, en una cantidad igual a 10 unidades por lote vendible;
+e) Alumbrado público;
 
-g) Placas de nomenclatura en los cruces de las calles; y
+f) Calles con empedrado u otro material de calidad similar; guarniciones de concreto y banquetas empedradas u otro material de calidad similar a juicio del Ayuntamiento;
 
-h) Caseta de vigilancia.
+g) Arbolado en áreas de calles, glorietas y demás lugares destinados a ese fin, en una cantidad igual a 10 unidades por lote vendible;
+
+h) Placas de nomenclatura en los cruces de las calles; y
+
+i) Caseta de vigilancia.
 
 ###### ARTICULO 237.
 
@@ -2801,7 +2857,9 @@ Se permitirá la construcción para habitación, como máximo, en el 15% de la s
 
 II.- Usos y destinos del suelo: el aprovechamiento predominante será para actividades agropecuarias;
 
-III.- Donaciones: el fraccionador deberá donar al Municipio el 5% de la superficie total del fraccionamiento, debidamente urbanizada;
+> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 2011)</small>
+
+III.- Donaciones: El fraccionador deberá donar a título gratuito como área para equipamiento urbano al Municipio el 5% de la superficie total del fraccionamiento, debidamente urbanizada;
 
 IV.- Vialidad: las calles en este tipo de fraccionamientos deberán tener como mínimo una anchura de 12 metros, medida de paramento a paramento; las banquetas serán de 2 metros de ancho; y
 
@@ -2823,7 +2881,9 @@ V.- Longitud, nomenclatura y anchura de las vías públicas, iguales a lo dispue
 
 VI.- Zonificación de los giros o servicios comerciales;
 
-VII.- El fraccionador deberá donar al Municipio el 5% de la superficie total del fraccionamiento, debidamente urbanizada;
+> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 2011)</small>
+
+VII.- El fraccionador deberá donar a título gratuito como área para equipamiento urbano al Municipio el 5% de la superficie total del fraccionamiento, debidamente urbanizada;
 
 VIII.- Espacios libres y su aprovechamiento;
 
@@ -2849,7 +2909,9 @@ II.- Ubicación, longitud, nomenclatura y anchura de las vías públicas, que se
 
 III.- Zonificación del terreno;
 
-IV.- El fraccionador deberá donar al Municipio el 10% de la superficie total del fraccionamiento, debidamente urbanizada;
+> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 2011)</small>
+
+IV.- El fraccionador deberá donar a título gratuito como área para equipamiento urbano al Municipio el 10% de la superficie total del fraccionamiento, debidamente urbanizada;
 
 V.- Obras de urbanización e instalación de los servicios públicos, tales como: red de agua, servicios sanitarios, alumbrado público, barda perimetral y demás que resulten necesarios para el adecuado desarrollo del cementerio;
 
@@ -2875,7 +2937,9 @@ Las construcciones deberán remeterse 6 metros a partir del paramento;
 
 II.- Usos y destinos del suelo: El aprovechamiento predominante será el industrial y en estos fraccionamientos no se autorizará la construcción de viviendas. Se permitirá solamente el 10% de la superficie vendible para áreas comerciales y de servicios en las zonas autorizadas;
 
-III.- Donaciones: El fraccionador deberá donar al Municipio el 5% de la superficie total, debidamente urbanizada;
+> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 2011)</small>
+
+III. Donaciones: El fraccionador deberá donar a título gratuito como área para equipamiento urbano al Municipio el 5% de la superficie total, debidamente urbanizada;
 
 IV.- Vialidad: En este tipo de fraccionamientos deberá realizarse un estudio especial de vialidad, el cual deberá ser autorizado por el Ayuntamiento para su ejecución. Dicho estudio deberá contemplar áreas jardinadas en camellones y banquetas y las calles deberán tener una anchura mínima de 18 metros; y
 
@@ -2885,21 +2949,25 @@ a) Fuente de abastecimiento de agua potable, red de distribución y tomas domici
 
 b) Sistema de alcantarillado separado, pluvial y de aguas residuales, con salidas domiciliarias de albañal y protección ecológica en las descargas;
 
-c) Red de distribución de energía eléctrica para uso industrial;
+> <small>(ADICIONADO, P.O. 20 DE AGOSTO DE 2011)</small>
 
-d) Alumbrado público de vapor mercurial u otro de calidad similar, montado en poste metálico, de acuerdo a las normas de la Comisión Federal de Electricidad;
+c) Planta de tratamiento de aguas servidas, individual o colectiva de acuerdo a los estudios de la instancia normativa;
 
-e) Ductos para redes telefónicas;
+d) Red de distribución de energía eléctrica para uso industrial;
 
-f) Pavimento de calles, guarniciones y banquetas de concreto, u otro material de calidad similar que soporte tráfico pesado;
+e) Alumbrado público de vapor mercurial u otro de calidad similar, montado en poste metálico, de acuerdo a las normas de la Comisión Federal de Electricidad;
 
-g) Hidrantes contra incendios;
+f) Ductos para redes telefónicas;
 
-h) Arbolado en áreas de calles, glorietas y demás lugares destinados a ese fin, en una cantidad igual a 15 unidades por lote vendible;
+g) Pavimento de calles, guarniciones y banquetas de concreto, u otro material de calidad similar que soporte tráfico pesado;
 
-i) Placas de nomenclatura en los cruces de las calles; y
+h) Hidrantes contra incendios;
 
-j) Caseta de vigilancia.
+i) Arbolado en áreas de calles, glorietas y demás lugares destinados a ese fin, en una cantidad igual a 15 unidades por lote vendible;
+
+j) Placas de nomenclatura en los cruces de las calles; y
+
+k) Caseta de vigilancia.
 
 ###### ARTICULO 242.
 
@@ -2909,9 +2977,11 @@ En los fraccionamientos industriales únicamente se podrán construir instalacio
 
 El ayuntamiento no autorizará fraccionamientos ni lotificaciones o relotificaciones cuyos lotes no cumplan con las características estipuladas en este Código, así como también las subdivisiones o desmembraciones de predios en fracciones menores a las señaladas en este ordenamiento, de acuerdo a su caso y ubicación. En consecuencia, serán nulos de pleno derecho los actos, convenios y contratos relativos a la propiedad, posesión o cualquier otro derecho sobre áreas y predios que contravengan las medidas del lote tipo en la zona, y los encargados de las oficinas del catastro y registro público de la propiedad negarán el trámite de inscripción relativo.
 
-En el caso de subdivisiones relativas a fracciones en que se hayan construido unidades arquitectónicas, con funcionamientos independientes, podrán autorizarse aquéllas a criterio del ayuntamiento, siempre y cuando las porciones resultantes cuenten con los servicios públicos respectivos sin perjuicio de la dotación y operación normal de los mismos al sector en que se ubiquen y que cumplan con el reglamento y normas técnicas para la construcción.
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2011)</small>
 
-En caso de que las porciones resultantes sean de tal manera inferiores a lo establecido por este Código, podrá recurrirse a la escrituración de las mismas mediante el establecimiento de un régimen de propiedad en condominio.
+En el caso de subdivisiones relativas a fracciones en que se hayan construido unidades arquitectónicas, con funcionamientos independientes, podrán autorizarse aquéllas a criterio del ayuntamiento, siempre y cuando no se rebase la densidad y las porciones resultantes cuenten con los servicios públicos respectivos sin perjuicio de la dotación y operación normal de los mismos al sector en que se ubiquen y que cumplan con el reglamento y normas técnicas para la construcción.
+
+> <small>(DEROGADO TERCER PARRAFO, P.O. 20 DE AGOSTO DE 2011)</small>
 
 ###### ARTICULO 244.
 
@@ -2967,15 +3037,19 @@ El acta constitutiva y el reglamento de referencia deberán inscribirse en el Ay
 
 ### CAPITULO IV. DE LA MUNICIPALIZACION DE LOS FRACCIONAMIENTOS
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE AGOSTO DE 2011)</small>
+
 ###### ARTICULO 255.
 
-Para los efectos de este Código se entiende por municipalización del fraccionamiento, el acto formal mediante el cual se realiza la entrega por parte del fraccionador al Ayuntamiento respectivo de los bienes inmuebles, áreas de donación, equipo e instalaciones destinados a los servicios públicos y de las obras de urbanización de un fraccionamiento, que cumpliendo con lo dispuesto en este Código y demás disposiciones jurídicas aplicables, se encuentren en posibilidad de operar suficiente y adecuadamente, permitiendo al Ayuntamiento, en la esfera de su competencia, prestar los servicios públicos necesarios para el bienestar de los colonos ahí asentados.
+Para los efectos de este Código se entiende por municipalización del fraccionamiento, el acto formal mediante el cual se realiza la entrega por parte del fraccionador al Ayuntamiento respectivo de los bienes inmuebles, áreas para equipamiento urbano, equipo e instalaciones destinados a los servicios públicos y de las obras de urbanización de un fraccionamiento, que cumpliendo con lo dispuesto en este Código y demás disposiciones jurídicas aplicables, se encuentren en posibilidad de operar suficiente y adecuadamente, permitiendo al Ayuntamiento, en la esfera de su competencia, prestar los servicios públicos necesarios para el bienestar de los colonos ahí asentados.
 
 En el caso de los servicios de suministro de energía eléctrica, agua potable y alcantarillado, las instalaciones se entregarán directamente a los organismos operadores respectivos, con intervención de la Secretaría y el Ayuntamiento.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE AGOSTO DE 2011)</small>
+
 ###### ARTICULO 256.
 
-De acuerdo a lo dispuesto en el artículo anterior, sólo el Ayuntamiento será la autoridad competente para recibir los bienes inmuebles, áreas de donación, equipo e instalaciones destinados a los servicios públicos y las obras de urbanización de un fraccionamiento, por lo que cualquier acto, contrato o convenio que se celebre por parte del fraccionador con la asociación de colonos u otra persona física o moral, que contravenga esta disposición, será nulo de pleno derecho.
+De acuerdo a lo dispuesto en el artículo anterior, sólo el Ayuntamiento será la autoridad competente para recibir los bienes inmuebles, áreas para equipamiento urbano, equipo e instalaciones destinados a los servicios públicos y las obras de urbanización de un fraccionamiento, por lo que cualquier acto, contrato o convenio que se celebre por parte del fraccionador con la asociación de colonos u otra persona física o moral, que contravenga esta disposición, será nulo de pleno derecho.
 
 Se exceptúan de esta disposición los servicios de energía eléctrica, agua potable y alcantarillado que serán recibidos por la dependencia responsable de su operación.
 
@@ -3001,9 +3075,11 @@ El dictamen técnico-jurídico lo elaborarán previamente el Ayuntamiento y la S
 
 El Ayuntamiento tramitará la publicación en el Periódico Oficial del Estado del acta de entrega-recepción del fraccionamiento.
 
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2011)</small>
+
 ###### ARTICULO 261.
 
-El Ayuntamiento tomará las medidas necesarias para el debido aprovechamiento del área de donación, en los términos a que se refiere el artículo 208 de este Código, programando la construcción de escuelas, parques, mercados, dispensarios y demás obras de servicios público y social, para beneficio del fraccionamiento o del centro de población en general.
+El Ayuntamiento tomará las medidas necesarias para el debido aprovechamiento del área para equipamiento urbano, en los términos a que se refiere el artículo 208 de este Código, programando la construcción de escuelas, parques, mercados, dispensarios y demás obras de servicios público y social, para beneficio del fraccionamiento o del centro de población en general.
 
 ###### ARTICULO 262.
 
@@ -3511,7 +3587,9 @@ En ambos casos, el plano contendrá las ligas del fraccionamiento o predio, con 
 
 2.- Plano topográfico del terreno destinado al fraccionamiento o condominio, a escala mínima 1:1,000, que contenga:
 
-a) El polígono o polígonos, indicando las colindancias, rumbos y distancias de sus lados;
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2011)</small>
+
+a) El polígono o polígonos, indicando las colindancias, rumbos y distancias de sus lados, con coordenadas UTM;
 
 b) La configuración del terreno con curvas de nivel a cada metro; y
 
@@ -3573,9 +3651,13 @@ c) Especificaciones del alumbrado público.
 
 9.- Propuesta, en su caso, del plano de las etapas de urbanización y secuencia de las mismas;
 
-10.- Especificaciones para las diversas obras de urbanización, conforme a las normas correspondientes; y
+10.- Especificaciones para las diversas obras de urbanización, conforme a las normas correspondientes; y (sic)
 
-11.- Los demás que a juicio del Ayuntamiento se requieran o se señalen en otras disposiciones jurídicas.
+> <small>(ADICIONADO, P.O. 20 DE AGOSTO DE 2011)</small>
+
+11.- Plano de ductos para redes de telecomunicaciones; y
+
+12.- Los demás que a juicio del Ayuntamiento se requieran o se señalen en otras disposiciones jurídicas.
 
 XIV.- En el caso específico de fraccionamientos, además de los anexos citados con anterioridad, el solicitante deberá incluir los siguientes documentos:
 
@@ -3591,7 +3673,9 @@ d) Zonificación interna;
 
 e) Distribución de secciones y manzanas con número de cada una;
 
-f) Areas de donación propuestas;
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2011)</small>
+
+f) Plano del proyecto para áreas de equipamiento urbano;
 
 g) Cota de rasante en cada crucero de calles referidas al plano topográfico;
 
@@ -3601,11 +3685,15 @@ i) Detalles y especificaciones de pavimentos, guarniciones y banquetas;
 
 j) Proposición de nomenclatura;
 
-K) Medidas de los linderos de los lotes y superficies de cada uno de ellos, incluyendo los de donación;
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2011)</small>
+
+k) Medidas de los linderos de los lotes y superficies de cada uno de ellos, incluyendo las del área para equipamiento urbano;
 
 l) Localización del arbolado y las áreas verdes; y
 
-m) Cuadro de superficies destinadas a lotes vendibles, vialidades y áreas de donación, indicando cantidad y porcentaje con respecto al área total del fraccionamiento.
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2011)</small>
+
+m) Cuadro de superficies destinadas a lotes vendibles, vialidades y área para equipamiento urbano, indicando cantidad y porcentaje con respecto al área total del fraccionamiento.
 
 2.- Memoria descriptiva de lotes, indicando:
 
@@ -3613,13 +3701,21 @@ a) El número total de lotes del fraccionamiento, señalando además, el número
 
 b) Medidas y colindancias de todos y cada uno de los lotes del fraccionamiento, señalando a qué manzana pertenecen.
 
-En el caso específico de condominios, además de los anexos correspondientes, el solicitante deberá incluir plano de zonificación, que señale, en su caso, las áreas de donación propuestas; así como la memoria descriptiva de predios, indivisos, medidas y colindancias.
+> <small>(ADICIONADA, P.O. 20 DE AGOSTO DE 2011)</small>
+
+XV. Manifestación de Impacto Ambiental
+
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2011)</small>
+
+En el caso específico de condominios, además de los anexos correspondientes, el solicitante deberá incluir plano de zonificación, que señale, en su caso, las áreas para equipamiento urbano propuestas; así como la memoria descriptiva de predios, indivisos, medidas y colindancias.
 
 Queda a juicio del Ayuntamiento determinar cuáles documentos de los señalados en el presente artículo, se omiten de presentación por parte de los solicitantes por no ser necesarios en el caso concreto.
 
 Tratándose de proyectos de desarrollos habitacionales, el Ayuntamiento en la autorización de fraccionamiento o de constitución de condominio, comprenderá todas aquellas autorizaciones o licencias de construcción, conexión de redes de agua potable y alcantarillado y demás trámites conexos, a efecto de que en un sólo acto se resuelva la factibilidad de ejecución del proyecto.
 
-En todos los planos y documentos técnicos deberán aparecer nombre, número de registro, domicilio y firma del director responsable de obra.
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2011)</small>
+
+Salvo en los casos que refiere el artículo 339, en todos los planos y documentos técnicos deberán aparecer nombre, número de registro, domicilio y firma del director responsable de obra.
 
 ###### ARTICULO 326.
 
@@ -3647,17 +3743,21 @@ El Ayuntamiento, en sesión de Cabildo, estudiará el expediente del fraccionami
 
 Toda resolución del Ayuntamiento en materia de fraccionamientos o condominios, para su validez, deberá ser suscrita por el Presidente Municipal, y el Director de Obras y Servicios Públicos Municipales.
 
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2011)</small>
+
 ###### ARTICULO 332.
 
-Una vez que el Ayuntamiento, en sesión de Cabildo, haya emitido su resolución, el Presidente Municipal la notificará al interesado, indicándole en el caso de que le haya sido favorable, las obligaciones que deberá cumplir, relativas al pago de los derechos o cargas fiscales, estatales o municipales, al otorgamiento de donaciones, a las características y especificaciones de las obras de urbanización y a la constitución de las garantías para caucionar el cumplimiento de las disposiciones contenidas en la autorización.
+Una vez que el Ayuntamiento, en sesión de Cabildo, haya emitido su resolución, el Presidente Municipal la notificará al interesado, indicándole en el caso de que le haya sido favorable, las obligaciones que deberá cumplir, relativas al pago de los derechos o cargas fiscales, estatales o municipales, al otorgamiento a título gratuito de áreas para equipamiento urbano, a las características y especificaciones de las obras de urbanización y a la constitución de las garantías para caucionar el cumplimiento de las disposiciones contenidas en la autorización.
 
 ###### ARTICULO 333.
 
 Cuando la solicitud de fraccionamiento o condominio haya sido aprobada, el Presidente Municipal ordenará la publicación de la autorización correspondiente, por una sola vez, en un periódico de circulación estatal, y solicitará su inscripción en el Registro Público de la Propiedad y del Comercio, así como en la oficina catastral competente. Ambos trámites se realizarán a costa del promovente.
 
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2011)</small>
+
 ###### ARTICULO 334.
 
-El solicitante colocará, en lugar visible del fraccionamiento, un tablero donde se indicará el oficio de autorización del fraccionamiento y maduro del plano debidamente aprobado y sellado por el Ayuntamiento, estos planos deberán contener las áreas de donación y señalados los lotes vendidos al día.
+El solicitante colocará, en lugar visible del fraccionamiento, un tablero donde se indicará el oficio de autorización del fraccionamiento y copia del plano debidamente aprobado y sellado por el Ayuntamiento, estos planos deberán contener las áreas para equipamiento urbano y señalados los lotes vendidos al día.
 
 ###### ARTICULO 335.
 
@@ -3827,13 +3927,17 @@ Tratándose de condominios, el dictamen técnico en ningún caso implica la muni
 
 Tan pronto como queden concluidas a satisfacción del Ayuntamiento las obras de urbanización de un fraccionamiento o condominio y estén en uso los servicios públicos, el Presidente municipal se dirigirá a la autoridad competente a efecto de que proceda al reavalúo de la zona en los términos de la legislación catastral.
 
-###### ARTICULO 366.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE AGOSTO DE 2011)</small>
 
-En el caso de los fraccionamientos que el Ayuntamiento autorice, la perforación y equipamiento de los pozos de agua potable que se requieran será realizada directamente por el Ayuntamiento, a costa del fraccionador, de acuerdo a las normas y especificaciones que la Comisión Nacional del Agua le determine. El Ayuntamiento, igualmente, administrará y se hará cargo del mantenimiento de las fuentes de abastecimiento, lo mismo que de las redes de distribución y demás partes del sistema de agua potable, conforme sean puestas en operación, aún cuando no se haya municipalizado el fraccionamiento.
+###### ARTÍCULO 366.
 
-Para cumplir con lo dispuesto en el párrafo anterior, antes de que se autorice el inicio de obras de urbanización, el fraccionador deberá depositar en la Tesorería Municipal, el importe del presupuesto de perforación y equipamiento de los pozos necesarios en su fraccionamiento, sin perjuicio de las diferencias de costo que eventualmente se presentaren, mismas que deberán cubrirse en su oportunidad, por el fraccionador.
+En el caso de los fraccionamientos que el Ayuntamiento autorice, la perforación y equipamiento de los pozos de agua potable que se requieran, será realizada a costa del fraccionador, de acuerdo a las normas y especificaciones que la Comisión Nacional del Agua le determine. El organismo operador del agua potable correspondiente, administrará y se hará cargo del mantenimiento de las fuentes de abastecimiento, lo mismo que de las redes de distribución y demás partes del sistema de agua potable, conforme sean puestas en operación, aún cuando no se haya municipalizado el fraccionamiento.
 
-En el caso de que previo a la autorización del fraccionamiento ya existiese pozo de abastecimiento, este pasará en calidad de mejora, con el conjunto del inmueble para ser administrado por el Ayuntamiento.
+> <small>(DEROGADO SEGUNDO PARRAFO, P.O. 20 DE AGOSTO DE 2011)</small>
+
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2011)</small>
+
+En el caso de que previo a la autorización del fraccionamiento ya existiese pozo de abastecimiento, este pasará en calidad de mejora, con el conjunto del inmueble para ser administrado por el organismo administrador del agua potable correspondiente.
 
 ###### ARTICULO 367.
 
@@ -3867,7 +3971,9 @@ I.- Ejecutar, en su caso y por su cuenta, en tiempo y especificaciones, las obra
 
 II.- Otorgar las garantías conducentes, a efecto de asegurar la ejecución adecuada de las obras de urbanización y el cumplimiento de cada una de las obligaciones que les correspondan;
 
-III.- Donar al Ayuntamiento, las superficies de terrenos que les señale este Código y la autorización respectiva;
+> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 2011)</small>
+
+III. Ceder a título gratuito al Ayuntamiento, las superficies de terreno destinadas para equipamiento urbano que les señale este Código y la autorización respectiva;
 
 IV.- Pagar en tiempo y forma las cargas fiscales que les correspondan, de acuerdo con lo dispuesto en la legislación fiscal estatal y municipal;
 
@@ -3883,19 +3989,27 @@ IX.- Solicitar al Ayuntamiento la autorización para iniciar la promoción de ve
 
 X.- Las demás que le señale este Código y otras disposiciones jurídicas aplicables.
 
-###### ARTICULO 371.
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2011)</small>
 
-De acuerdo a la densidad de construcción y población que se derive de cada inmueble sujeto al régimen de propiedad en condominio, el Ayuntamiento determinará las áreas de donación que, conforme a las normas y criterios para la dotación de equipamiento urbano básico, deban transferir los promoventes a favor del Ayuntamiento.
+###### ARTÍCULO 371.
+
+De acuerdo a la densidad de construcción y población que se derive de cada inmueble sujeto al régimen de propiedad en condominio, el Ayuntamiento determinará las áreas para equipamiento urbano que, conforme a las normas y criterios, deban transferir los promoventes a favor del Ayuntamiento.
 
 ###### ARTICULO 372.
 
 Para los efectos del artículo anterior, las normas y criterios para la dotación de equipamiento urbano básico, serán los siguientes:
 
-I.- Tratándose de condominios verticales habitacionales, el promovente deberá donar a favor del Ayuntamiento, como mínimo, una superficie de terreno debidamente urbanizada, equivalente a 10 metros cuadrados por cada departamento o vivienda;
+> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 2011)</small>
 
-II.- Tratándose de condominios horizontales habitacionales, el promovente deberá donar a favor del Ayuntamiento el 10% del área total del terreno, para el caso de condominios tipo medio y de interés social; y el 15% para condominios residenciales;
+I. Tratándose de condominios verticales habitacionales, el promovente deberá donar a título gratuito a favor del Ayuntamiento, como mínimo, una superficie de terreno debidamente urbanizada, equivalente a 10 metros cuadrados por cada departamento o vivienda;
 
-III.- Tratándose de condominios horizontales o verticales comerciales, industriales o especiales, el promovente deberá donar a favor del Ayuntamiento, el 5% de la superficie neta vendible; y
+> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 2011)</small>
+
+II. Tratándose de condominios horizontales habitacionales, el promovente deberá donar a título gratuito a favor del Ayuntamiento el 10% del área total del terreno, para el caso de condominios tipo medio y de interés social; y el 15% para condominios residenciales;
+
+> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 2011)</small>
+
+III. Tratándose de condominios horizontales o verticales comerciales, industriales o especiales, el promovente deberá donar a título gratuito a favor del Ayuntamiento, el 5% de la superficie neta vendible; y
 
 IV.- Tratándose de condominios mixtos habitacionales, comerciales, industriales o especiales el promovente deberá donar al Ayuntamiento en lo procedente, el porcentaje de superficie conforme a lo dispuesto en las normas y criterios señalados en las fracciones anteriores.
 
@@ -3903,15 +4017,19 @@ IV.- Tratándose de condominios mixtos habitacionales, comerciales, industriales
 
 El fraccionador o promovente estará obligado a formalizar a su costa las donaciones a favor del Ayuntamiento en los lugares y superficies que de acuerdo al tipo de fraccionamiento o condominio autorizado le sean señalados, así como a escriturar las áreas destinadas a vías públicas, áreas verdes y equipamiento urbano.
 
-El fraccionador o promovente podrá solicitar al Ayuntamiento que por la extensión del fraccionamiento o condominio, o bien, por motivos técnicos, le autorice a adquirir la superficie de donación en otro predio de valor equivalente; a ejecutar obras de beneficio comunitario; o a cubrir en efectivo las donaciones a las que está obligado, debiendo determinarse el monto de dicho pago, al valor comercial de la superficie que le hubiese correspondido donar en los términos de este Código. El avalúo de referencia y el pago en efectivo deberá ser aprobado en sesión de Cabildo, al momento en que éste autorice el fraccionamiento, y en su caso el condominio.
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2011)</small>
+
+El fraccionador o promovente podrá solicitar al Ayuntamiento que por la extensión del fraccionamiento o condominio, o bien, por motivos técnicos, le autorice a adquirir la superficie del área para equipamiento urbano en otro predio de valor equivalente; a ejecutar obras de beneficio comunitario; o a cubrir en efectivo las donaciones a las que está obligado, debiendo determinarse el monto de dicho pago, el valor comercial de la superficie que le hubiese correspondido donar en los términos de este Código. El avalúo de referencia y el pago en efectivo deberá ser aprobado en sesión de Cabildo, al momento en que éste autorice el fraccionamiento, y en su caso el condominio.
 
 ###### ARTICULO 374.
 
 El fraccionador o promovente tendrá la obligación de obtener previamente, por parte del Ayuntamiento, la autorización respecto a la publicidad para promover la venta de lotes, o en su caso, de los predios, departamentos, viviendas, casas o locales; en caso de no hacerlo, se hará acreedor a las sanciones que establece este Código.
 
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2011)</small>
+
 ###### ARTICULO 375.
 
-Será facultad del Ayuntamiento, precisar los terrenos que le deban ser donados, de acuerdo a lo dispuesto en este Código, debiendo tomar en cuenta al realizar la selección, aquellas áreas que satisfagan de mejor forma los servicios que requieran los colonos del propio fraccionamiento o en su caso, los condóminos y la comunidad en general, y se ajusten a la zonificación respectiva.
+Será facultad del Ayuntamiento, precisar los terrenos que le deban ser transferidos a título gratuito para equipamiento urbano, de acuerdo a lo dispuesto en este Código, debiendo tomar en cuenta al realizar la selección, aquellas áreas que satisfagan de mejor forma los servicios que requieran los colonos del propio fraccionamiento o en su caso, los condóminos y la comunidad en general, y se ajusten a la zonificación respectiva.
 
 ###### ARTICULO 376.
 
@@ -4874,3 +4992,9 @@ Primero.- El presente Decreto entrará en vigor al día siguiente al de su publi
 Segundo.- Se derogan todas las disposiciones que se opongan al contenido de este Decreto.
 
 Tercero.- Dentro de los siguientes treinta días naturales a la vigencia del presente Decreto, deberá presentarse ante esta Legislatura, a través del Ejecutivo del Estado, la Iniciativa de Declaratoria del Teúl de González Ortega, la cual deberá formularse de acuerdo al artículo 184 del Código Urbano del Estado de Zacatecas.
+
+P.O. 20 DE AGOSTO DE 2011.
+
+Primero.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+Segundo.- Se derogan las disposiciones que se opongan al presente instrumento.
