@@ -4,7 +4,7 @@ identifier: "BCS-reglamento-interior-de-las-dependencias-auxiliares-del-47689"
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-12-30"
-last_updated: "2011-07-06"
+last_updated: "2011-08-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=47689&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 REGLAMENTO INTERIOR DE LAS DEPENDENCIAS AUXILIARES DEL GOBERNADOR DEL ESTADO
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 6 DE JULIO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 20 DE AGOSTO DE 2011.
 
 Reglamento publicado en el Número Extraordinario del Boletín Oficial del Estado de Baja California Sur, el viernes 30 de diciembre de 2005.
 
@@ -37,41 +37,77 @@ REGLAMENTO INTERIOR DE LAS DEPENDENCIAS AUXILIARES DEL GOBERNADOR DEL ESTADO
 
 El Titular del Poder Ejecutivo del Estado tiene a su cargo las atribuciones que expresamente le asigna la Constitución Política del Estado, así como la Ley Orgánica de la Administración Pública del Estado de Baja California Sur y demás disposiciones que de ellas emanen.
 
-> <small>(REFORMADO, B.O. 6 DE JULIO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 20 DE AGOSTO DE 2011)</small>
 
 ###### ARTÍCULO 2.
 
-Para el desempeño de sus funciones, el Gobernador del Estado contará, además de las señaladas por el Artículo 6 de la Ley Orgánica de la Administración Pública del Estado de Baja California Sur, con las siguientes dependencias auxiliares:
+Para el estudio, planeación y despacho de los asuntos del Titular del Poder Ejecutivo, éste contará, además de las señaladas por el Artículo 16 de la Ley Orgánica de la Administración Pública del Estado de Baja California Sur, con las siguientes dependencias auxiliares:
+
+> <small>(REFORMADA, B.O. 6 DE JULIO DE 2011)</small>
 
 I. Secretaría Particular;
 
+> <small>(REFORMADA, B.O. 6 DE JULIO DE 2011)</small>
+
 II. Secretaría Privada;
+
+> <small>(REFORMADA, B.O. 6 DE JULIO DE 2011)</small>
 
 III. Dirección Comunicación (sic) Social;
 
+> <small>(REFORMADA, B.O. 6 DE JULIO DE 2011)</small>
+
 IV. Dirección de Relaciones Públicas;
+
+> <small>(REFORMADA, B.O. 6 DE JULIO DE 2011)</small>
 
 V. Dirección de Acción Cívica y Social;
 
+> <small>(REFORMADA, B.O. 6 DE JULIO DE 2011)</small>
+
 VI. Coordinación de Enlace Gubernamental;
+
+> <small>(REFORMADA, B.O. 6 DE JULIO DE 2011)</small>
 
 VII. Unidad de Atención Ciudadana;
 
+> <small>(REFORMADA, B.O. 6 DE JULIO DE 2011)</small>
+
 VIII. Unidad de Asesoría y de Apoyo Técnico;
+
+> <small>(REFORMADA, B.O. 6 DE JULIO DE 2011)</small>
 
 IX. Representación del Gobierno del Estado en la Ciudad de México;
 
-X. Enlace Regional de la Zona Norte con el Gobierno del Estado de Baja California Sur;
+> <small>(REFORMADA [N. DE E. ADICIONADA], B.O. 20 DE AGOSTO DE 2011)</small>
 
-XI. Dirección de Relaciones Internacionales; y
+X. Representación del Gobierno del Estado en el Municipio de Los Cabos, Baja California Sur;
 
-XII. Coordinación General de Administración.
+> <small>(REFORMADA, B.O. 20 DE AGOSTO DE 2011)</small>
+
+XI. Enlace Regional de la Zona Norte con el Gobierno del Estado de Baja California Sur;
+
+> <small>(REFORMADA, B.O. 20 DE AGOSTO DE 2011)</small>
+
+XII. Dirección de Relaciones Internacionales; y
+
+> <small>(REFORMADA, B.O. 20 DE AGOSTO DE 2011)</small>
+
+XIII. Coordinación General de Administración.
+
+> <small>(REFORMADO, B.O. 6 DE JULIO DE 2011)</small>
 
 Así mismo podrá contar con las representaciones necesarias, mismas que serán creadas por Acuerdo del Gobernador del Estado y publicado en el Boletín Oficial del Gobierno del Estado.
 
+> <small>(REFORMADO, B.O. 6 DE JULIO DE 2011)</small>
+
 Además, estarán bajo su coordinación los siguientes organismos descentralizados:
 
+> <small>(REFORMADA, B.O. 6 DE JULIO DE 2011)</small>
+
 I. Sistema para el Desarrollo Integral de la Familia; y
+
+> <small>(REFORMADA, B.O. 6 DE JULIO DE 2011)</small>
 
 II. Instituto Estatal de Radio y Televisión.
 
@@ -125,21 +161,39 @@ XVI. Las demás que les confieran las disposiciones legales aplicables y el Gobe
 
 A la Secretaría Particular le corresponde el ejercicio de las siguientes funciones:
 
+> <small>(REFORMADA, B.O. 6 DE JULIO DE 2011)</small>
+
 I. Tramitar las solicitudes de audiencias con el Gobernador del Estado;
+
+> <small>(REFORMADA, B.O. 6 DE JULIO DE 2011)</small>
 
 II. Coordinar y programar los acuerdos del Gobernador del Estado con los funcionarios de la Administración Pública Estatal;
 
+> <small>(REFORMADA, B.O. 6 DE JULIO DE 2011)</small>
+
 III. Llevar la agenda de actividades del Gobernador del Estado;
+
+> <small>(REFORMADA, B.O. 6 DE JULIO DE 2011)</small>
 
 IV. Acordar directamente con el Gobernador del Estado para informarle y recibir instrucciones sobre los asuntos a resolver;
 
+> <small>(REFORMADA, B.O. 6 DE JULIO DE 2011)</small>
+
 V. Recibir y despachar la correspondencia del Gobernador del Estado;
 
-VI. Dar seguimiento a las actividades de la Representación del Gobierno del Estado de la Ciudad de México; Oficina de enlace regional de la zona norte con el Gobierno del Estado de Baja California Sur; de la Unidad de Atención Ciudadana; de la Dirección de Comunicación Social; de la Dirección de Relaciones Públicas; de la Dirección de Acción Cívica y Social; de la Dirección de Asuntos Internacionales, de la Unidad de Asesoría; así como con la Coordinación General de Administración.
+> <small>(REFORMADA, B.O. 20 DE AGOSTO DE 2011)</small>
+
+VI. Dar seguimiento a las actividades de la Representación del Gobierno del Estado en la Ciudad de México; Representación del Gobierno del Estado en el Municipio de Los Cabos, Oficina de enlace regional de la zona norte con el Gobierno del Estado de Baja California Sur; de la Unidad de Atención Ciudadana; de la Dirección de Comunicación Social; de la Dirección de Acción Cívica y Social; de la Dirección de Asuntos Internacionales, de la Unidad de Asesoría; así como con la Coordinación General de Administración.
+
+> <small>(REFORMADA, B.O. 6 DE JULIO DE 2011)</small>
 
 VII. Evaluar el funcionamiento de hangares y otras instalaciones que determine el Gobernador del Estado;
 
+> <small>(REFORMADA, B.O. 6 DE JULIO DE 2011)</small>
+
 VIII. Coordinar las funciones del personal de la Oficina del Gobernador del Estado y vigilar que se desempeñen con productividad y eficiencia; y
+
+> <small>(REFORMADA, B.O. 6 DE JULIO DE 2011)</small>
 
 IX. Las demás que le asigne el Titular del Ejecutivo de acuerdo a sus atribuciones.
 
@@ -317,13 +371,13 @@ V. Apoyar las gestiones de las dependencias del Gobierno del Estado en la zona N
 
 VI. Las demás que le asigne el Gobernador, de acuerdo a sus atribuciones.
 
-> <small>(ADICIONADO, B.O. 31 DE MAYO DE 2007)</small>
+> <small>(ADICIONADO [N. DE E. REPUBLICADO], B.O. 20 DE AGOSTO DE 2011)</small>
 
 ###### ARTÍCULO 13-A.
 
 A la Representación del Gobierno del Estado en el Municipio de Los Cabos, Baja California Sur, le corresponden las siguientes funciones:
 
-l. Atender las actividades del Gobernador del Estado, cuando se encuentre en el Municipio de Los Cabos;
+I. Atender las actividades del Gobernador del Estado, cuando se encuentre en el Municipio de Los Cabos;
 
 II. En coordinación con la Secretaría de Despacho correspondiente, gestionar en el Municipio de Los Cabos, las audiencias del Gobernador del Estado;
 
@@ -441,7 +495,7 @@ EL SECRETARIO GENERAL DE GOBIERNO
 
 C. VICTOR MANUEL GULUARTE CASTRO
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA AL PRESENTE REGLAMENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA AL PRESENTE ORDENAMIENTO.</small>
 
 B.O. 15 DE ENERO DE 2006.
 
@@ -488,3 +542,17 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Los recursos humanos, materiales y financieros que (sic) asignados a la Secretaría Particular y que son utilizados para desempeñar las funciones de relaciones públicas, pasarán a formar parte de la Dirección de Relaciones Públicas que se crea mediante el presente Decreto.
 
 TERCERO.- Para los efectos del Artículo Segundo Transitorio, la Secretaría de Finanzas y la Oficialía Mayor de Gobierno, realizarán las modificaciones presupuestales y administrativas que haya lugar.
+
+B.O. 20 DE AGOSTO DE 2011.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+La Representación del Gobierno del Estado en el Municipio de Los Cabos, contará con los recursos humanos, materiales y financieros necesarios para su debido funcionamiento.
+
+###### ARTÍCULO TERCERO.
+
+La Secretaría de Finanzas y la Oficialía Mayor de Gobierno realizarán las modificaciones presupuestales y administrativas a que haya lugar.
