@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-educacion-del-estado-de-nayarit-6855"
 country: "mx"
 rank: "ley"
 publication_date: "1994-07-13"
-last_updated: "2011-07-27"
+last_updated: "2011-08-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6855&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "NAY"
 ---
 # LEY DE EDUCACION DEL ESTADO DE NAYARIT
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 20 DE AGOSTO DE 2011 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGIA CORRESPONDIENTE A DICHA FECHA, EN EL INDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 LEY DE EDUCACIÓN DEL ESTADO DE NAYARIT
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE JULIO DE 2011.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL EL 20 DE AGOSTO DE 2011.</small>
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Nayarit, el miércoles 13 de julio de 1994.
 
@@ -71,7 +71,7 @@ El Estado impartirá Educación Inicial, Preescolar, Primaria, Secundaria, Espec
 
 La educación Preescolar, Primaria y Secundaria que imparta el Estado y los Municipios, será gratuita, laica y obligatoria.
 
-> <small>(DEROGADO SEGUNDO PARRAFO, P.O. 9 DE MARZO DE 2011)</small>
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 9 DE MARZO DE 2011)</small>
 
 Las donaciones que se hagan a las Instituciones Educativas, en ningún caso se entenderán como contraprestaciones del servicio educativo.
 
@@ -545,7 +545,7 @@ El Ejecutivo del Estado, por conducto de las Autoridades Educativas, podrá reti
 
 Cuando se revoque la autorización para impartir educación a una Institución, se hará del conocimiento público a través del periódico oficial, Organo del Gobierno del Estado.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN], P.O. 20 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN], P.O. 20 DE DICIEMBRE DE 2008)</small>
 
 ### CAPITULO VII. DE LA CALIDAD DE LA INFRAESTRUCTURA FÍSICA EDUCATIVA
 
@@ -581,7 +581,7 @@ ARTICULO 60 C.- La infraestructura física educativa del estado deberá cumplir 
 
 ARTICULO 60 D.- Para que un inmueble pueda prestar servicios educativos ya sea de carácter público o privado, además de contar con autorización o reconocimiento de validez oficial de estudios, deberán obtenerse las licencias, avisos de funcionamiento y, en su caso, el certificado para garantizar el cumplimiento de los requisitos de construcción, estructura, condiciones especificas o equipamiento que sean obligatorios para cada tipo de obra, en los términos y las condiciones que establezca la norma aplicable.
 
-> <small>(REFORMADA SU DENOMINACION [N. DE E. REUBICADO, ANTES CAPITULO VII], P.O. 20 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADA SU DENOMINACIÓN [N. DE E. REUBICADO, ANTES CAPÍTULO VII], P.O. 20 DE DICIEMBRE DE 2008)</small>
 
 ### CAPITULO VIII. DE LA VALIDEZ OFICIAL DE ESTUDIOS Y DE LA CERTIFICACIÓN DE CONOCIMIENTOS
 
@@ -607,7 +607,7 @@ Las Autoridades Educativas del Estado otorgarán revalidaciones o convalidacione
 
 Las Secretarías de Educación Básica o de Educación Media Superior, Superior e Investigación Científica y Tecnológica, según corresponda, aplicarán los procedimientos establecidos por la Secretaría de Educación Pública, para expedir certificados, constancias o diplomas a quienes acrediten conocimientos terminales que correspondan a cierto nivel académico o grado escolar, adquiridos en forma autodidacta o a través de la experiencia laboral.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 27 DE JULIO DE 2011)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 27 DE JULIO DE 2011)</small>
 
 ### CAPITULO IX. DE LA CALIDAD DE LA EDUCACIÓN
 
@@ -657,7 +657,7 @@ Las autoridades educativas promoverán la participación de la sociedad en los p
 
 El logro de la calidad educativa es responsabilidad de todos los involucrados en el sistema educativo.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 27 DE JULIO DE 2011)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 27 DE JULIO DE 2011)</small>
 
 ### CAPITULO X. DE LA VINCULACIÓN DE LA EDUCACIÓN CON LA CULTURA Y LOS MEDIOS DE COMUNICACIÓN
 
@@ -717,11 +717,11 @@ Las instituciones educativas podrán realizar actividades escolares y extraescol
 
 Las autoridades educativas, del nivel básico y nivel medio superior y superior, crearán programas educativos por medio de la radio y la televisión para promover y operar diversos proyectos educativos y programas para retroalimentar los contenidos del aprendizaje.
 
-(REUBICADO [N. DE E. ANTES CAPITULO IX], P.O. 27 DE JULIO DE 2011)
+(REUBICADO [N. DE E. ANTES CAPÍTULO IX], P.O. 27 DE JULIO DE 2011)
 
 ### CAPITULO XI. DE LAS INFRACCIONES, LAS SANCIONES Y EL RECURSO ADMINISTRATIVO
 
-(REUBICADO [N. DE E. ANTES ARTICULO 66], P.O. 27 DE JULIO DE 2011)
+(REUBICADO [N. DE E. ANTES ARTÍCULO 66], P.O. 27 DE JULIO DE 2011)
 
 ###### ARTICULO 79.
 
@@ -759,7 +759,7 @@ XII.- No contar con la infraestructura física educativa en los términos de la 
 
 XIII.- Incumplir cualesquiera de los demás preceptos de esta Ley, así como las disposiciones expedidas con fundamento en ella;
 
-> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 67], P.O. 27 DE JULIO DE 2011)</small>
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTÍCULO 67], P.O. 27 DE JULIO DE 2011)</small>
 
 ###### ARTICULO 80.
 
@@ -773,13 +773,11 @@ III.- Revocación de la autorización o retiro del reconocimiento de validez ofi
 
 La imposición de la sanción establecida en la fracción III no excluye la posibilidad de que sea impuesta alguna multa.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 20 DE AGOSTO DE 2011 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGIA CORRESPONDIENTE A DICHA FECHA, EN EL INDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
-> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 68], P.O. 27 DE JULIO DE 2011)</small>
+(REFORMADO Y REUBICADO [N. DE E. ANTES ARTÍCULO 68], P.O. 27 DE JULIO DE 2011) (F. DE E., 20 DE AGOSTO DE 2011)
 
 ###### ARTICULO 81.
 
-Además de las previstas en el Artículo 66, también son infracciones a esta Ley:
+Además de las previstas en el Artículo 79, también son infracciones a esta Ley:
 
 I.- Ostentarse como Plantel incorporado sin estarlo;
 
@@ -787,9 +785,9 @@ II.- Incumplir con lo dispuesto en el Artículo 57, y
 
 III.- Impartir la educación primaria, la secundaria, la normal y demás, para la formación de maestros de educación básica, sin contar con la autorización correspondiente.
 
-En los supuestos previstos en este artículo, además de la aplicación de las sanciones señaladas en la fracción I del Artículo 79, podrá procederse a la clausura del plantel respectivo.
+En los supuestos previstos en este artículo, además de la aplicación de las sanciones señaladas en la fracción I del Artículo 80, podrá procederse a la clausura del plantel respectivo.
 
-> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 69], P.O. 27 DE JULIO DE 2011)</small>
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTÍCULO 69], P.O. 27 DE JULIO DE 2011)</small>
 
 ###### ARTICULO 82.
 
@@ -799,7 +797,7 @@ La autoridad dictará resolución con base en los datos aportados por el presunt
 
 Para determinar la sanción, se considerarán las circunstancias en que se cometió la infracción, los daños y perjuicios que se hayan producido o puedan producirse a los educandos, la gravedad de la infracción, las condiciones socioeconómicas del infractor, el carácter intencional o no de la infracción y si se trata de reincidencia
 
-(REUBICADO [N. DE E. ANTES ARTICULO 70], P.O. 27 DE JULIO DE 2011)
+(REUBICADO [N. DE E. ANTES ARTÍCULO 70], P.O. 27 DE JULIO DE 2011)
 
 ###### ARTICULO 83.
 
@@ -811,7 +809,7 @@ La autoridad que dicte la resolución, adoptará las medidas que sean necesarias
 
 En el caso de autorizaciones, cuando la revocación se dicte durante un ejercicio lectivo, la institución podrá seguir funcionando a juicio y bajo la vigilancia de la autoridad, hasta que aquel concluya.
 
-REUBICADO [N. DE E. ANTES ARTICULO 71], P.O. 27 DE JULIO DE 2011)
+REUBICADO [N. DE E. ANTES ARTÍCULO 71], P.O. 27 DE JULIO DE 2011)
 
 ###### ARTICULO 84.
 
@@ -855,7 +853,7 @@ El Secretario General de Gobierno.
 
 C.P. Antonio Echevarría Domínguez.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 17 DE AGOSTO DE 2002
 
