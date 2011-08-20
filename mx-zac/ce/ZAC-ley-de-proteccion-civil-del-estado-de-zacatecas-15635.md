@@ -4,7 +4,7 @@ identifier: "ZAC-ley-de-proteccion-civil-del-estado-de-zacatecas-15635"
 country: "mx"
 rank: "ley"
 publication_date: "2000-01-01"
-last_updated: "2009-09-26"
+last_updated: "2011-08-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15635&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "ZAC"
 
 LEY DE PROTECCION CIVIL DEL ESTADO DE ZACATECAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE SEPTIEMBRE DE 2009.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE PROTECION CIVIL DEL ESTADO DE ZACATECAS, PUBLICADA EN EL P.O. DE 20 DE AGOSTO DE 2011, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Zacatecas, el sábado 1 de enero del 2000.
 
@@ -816,3 +818,11 @@ P.O. 26 DE SEPTIEMBRE DE 2009.
 Artículo primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
 
 Artículo segundo.- Se derogan todas las disposiciones que contravengan este Decreto.
+
+P.O. DE 20 DE AGOSTO DE 2011.
+
+PRIMERO.- La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado.
+
+SEGUNDO.- Se abroga la Ley de Protección Civil del Estado de Zacatecas, publicada mediante Decreto numero 111 de fecha primero de enero del dos mil, en el suplemento del 1 al 7 y se derogan las disposiciones que contravengan a la presente Ley.
+
+TERCERO.- El Ejecutivo del Estado contará con noventa días siguientes a partir de la publicación del presente Decreto, para emitir el Reglamento de la presente Ley.
