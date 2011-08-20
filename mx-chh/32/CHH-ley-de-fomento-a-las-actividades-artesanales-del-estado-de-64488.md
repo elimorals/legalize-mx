@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-fomento-a-las-actividades-artesanales-del-estado-de-6448
 country: "mx"
 rank: "ley"
 publication_date: "2008-11-05"
-last_updated: "2008-11-05"
+last_updated: "2011-08-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64488&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE FOMENTO A LAS ACTIVIDADES ARTESANALES DEL ESTADO DE CHIHUAHUA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE AGOSTO DE 2011.
 
 Ley publicada en el Periódico Oficial del Estado de Chihuahua, el miércoles 5 de noviembre de 2008.
 
@@ -65,7 +65,7 @@ Se considera como patrimonio cultural del Estado de Chihuahua, el trabajo del ar
 
 ###### Artículo 5.
 
-Para los efectos de esta Ley, se entenderá por:
+Para los efectos de esta Ley se entenderá por:
 
 I. Artesanía: la obra creada por medio del trabajo manual del artesano cuyas piezas son únicas, consideradas como una expresión cultural y tradicional.
 
@@ -73,7 +73,9 @@ II. Artesano: Toda persona con sensibilidad y creatividad que desarrolla sus hab
 
 III. Producción Artesanal: La actividad económica de transformación en cuyo proceso se utilizan materias primas de origen natural o industrial, que posee aspectos culturales e históricos del lugar donde se elabora.
 
-IV. Secretaría: La Secretaría de Desarrollo Comercial y Turístico del Gobierno del Estado de Chihuahua.
+> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 2011)</small>
+
+IV. Secretaría: La Secretaría de Economía del Gobierno del Estado de Chihuahua.
 
 V. Estado: El Estado de Chihuahua.
 
@@ -163,6 +165,24 @@ IV. Créditos para la creación de entidades comercializadoras operadas por arte
 
 V. Las demás que se consideren como necesarias y viables para la obtención de soporte financiero.
 
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 20 DE AGOSTO DE 2011)</small>
+
+### CAPÍTULO VII. DE LA PROMOCIÓN
+
+> <small>(ADICIONADO, P.O. 20 DE AGOSTO DE 2011)</small>
+
+###### Artículo 22.
+
+El Titular del Poder Ejecutivo Estatal, a través de la Secretaría, deberá:
+
+I. Promover aquellas artesanías contempladas dentro del Catálogo que para tal efecto emita la Casa de las Artesanías del Estado de Chihuahua;
+
+II. Generar centros de capacitación que fomenten el autoempleo en elaboración de productos artesanales;
+
+III. Promover programas específicos para garantizar la infraestructura y equipamiento para cumplir con su responsabilidad de fomentar las actividades artesanales, y
+
+IV. Apoyar la comercialización de las artesanías en los mercados local, nacional e internacional.
+
 ## TRANSITORIOS
 
 ###### ARTÍCULO PRIMERO.
@@ -186,3 +206,11 @@ Por tanto mando se imprima, publique, circule y se le dé el debido cumplimiento
 En la Ciudad de Chihuahua, Palacio de Gobierno del Estado, a los quince días del mes de octubre del año dos mil ocho.
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO. LIC. JOSE REYES BAEZA TERRAZAS. Rúbrica. EL SECRETARIO GENERAL DE GOBIERNO. LIC. SERGIO GRANADAS PINEDA. Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 20 DE AGOSTO DE 2011.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
