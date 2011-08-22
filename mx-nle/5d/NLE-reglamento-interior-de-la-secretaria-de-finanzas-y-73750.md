@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-interior-de-la-secretaria-de-finanzas-y-73750"
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-02-26"
-last_updated: "2010-02-26"
+last_updated: "2011-08-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=73750&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "NLE"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA DE FINANZAS Y TESORERIA GENERAL DEL ESTADO
 
+> <small>N. DE E. PARA CONSULTAR LA VERSION CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 5 DE SEPTIEMBRE DE 2011 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGIA CORRESPONDIENTE A DICHA FECHA, EN EL INDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 REGLAMENTO INTERIOR DE LA SECRETARIA DE FINANZAS Y TESORERIA GENERAL DEL ESTADO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE AGOSTO DE 2011.
 
 Reglamento publicado en la Sección Segunda del Periódico Oficial del Estado de Nuevo León, el viernes 26 de febrero de 2010.
 
@@ -47,6 +49,8 @@ La Secretaría tendrá como titular al Secretario de Finanzas y Tesorero General
 
 ### CAPÍTULO SEGUNDO. DE LA ESTRUCTURA ORGÁNICA DE LA SECRETARÍA
 
+> <small>N. DE E. PARA CONSULTAR LA VERSION CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 5 DE SEPTIEMBRE DE 2011 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGIA CORRESPONDIENTE A DICHA FECHA, EN EL INDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA, ASI COMO EL ARCHIVO ANEXO.</small>
+
 ###### ARTÍCULO 3°.
 
 Para el ejercicio de sus funciones, atribuciones, trámite y despacho de los asuntos de su competencia, la Secretaría de Finanzas y Tesorería General del Estado, contará con las unidades administrativas siguientes:
@@ -59,11 +63,21 @@ b).Dirección de Coordinación Administrativa;
 
 c).Dirección de Patrimonio;
 
-d).Dirección de Recursos Humanos;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 22 DE AGOSTO DE 2011)</small>
 
-e).Dirección de Tecnologías de Información y Comunicaciones; y
+d) Dirección de Planeación, Evaluación y Racionalización del Gasto Público;
 
-f).Dirección Jurídica.
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2011)</small>
+
+e) Dirección de Recursos Humanos;
+
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2011)</small>
+
+f) Dirección de Tecnologías de Información y Comunicaciones; y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 22 DE AGOSTO DE 2011)</small>
+
+g) Dirección Jurídica.
 
 II. Subsecretaría de Egresos:
 
@@ -77,7 +91,9 @@ d).Dirección de Presupuesto y Control Presupuestal.
 
 III. Subsecretaría de Ingresos:
 
-a).Dirección de Catastro;
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2011)</small>
+
+a) Coordinación General de Ingresos;
 
 b).Dirección de Coordinación y Planeación Hacendaria;
 
@@ -90,6 +106,14 @@ e).Dirección de Recaudación.
 IV. Consejería Jurídica:
 
 a).Dirección Legal Hacendaria;
+
+> <small>(ADICIONADA, P.O. 22 DE AGOSTO DE 2011)</small>
+
+V. Unidad de Fomento al Financiamiento de Proyectos; y
+
+> <small>(ADICIONADA, P.O. 22 DE AGOSTO DE 2011)</small>
+
+VI. Unidad de Información Financiera.
 
 Para el ejercicio de sus atribuciones, estas unidades podrán contar con Coordinaciones, Jefaturas de Departamento y demás servidores públicos que se requieran.
 
@@ -149,9 +173,21 @@ XXIII. Ejercer las facultades necesarias para proceder a las acciones administra
 
 XXIV. Resolver los recursos administrativos competencia de la Secretaría;
 
-XXV. Ejercer directamente, cualquiera de las facultades que este Reglamento atribuye a las unidades administrativas a su cargo; y
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 22 DE AGOSTO DE 2011)</small>
 
-XXVI. Las demás facultades y funciones que se establezcan, tanto para el Secretario como para la Secretaría en las demás leyes, decretos, reglamentos, acuerdos o convenios y aquellas que le confiera directamente el Ejecutivo del Estado.
+XXV. Conducir las acciones para el financiamiento y gestión de programas y proyectos del Gobierno del Estado, que requieran recursos económicos;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 22 DE AGOSTO DE 2011)</small>
+
+XXVI. Ejercer las funciones que la Ley para la Prevención y Combate al Abuso del Alcohol y de Regulación para su Venta y Consumo para el Estado de Nuevo León confiere a la Secretaría de Finanzas y Tesorería General del Estado en materia de disminución de los días u horas de no venta o consumo de bebidas alcohólicas, adicionales a los establecidos en las leyes;
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 22 DE AGOSTO DE 2011)</small>
+
+XXVII. Ejercer directamente cualquiera de las facultades que este Reglamento atribuye a las unidades administrativas a su cargo; y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 22 DE AGOSTO DE 2011)</small>
+
+XXVIII. Las demás facultades y funciones que se establezcan, tanto para el Secretario como para la Secretaría en las demás leyes, decretos, reglamentos, acuerdos o convenios y aquellas que le confiera directamente el Ejecutivo del Estado.
 
 ###### ARTÍCULO 5°.
 
@@ -159,9 +195,11 @@ Para la mejor distribución, desempeño y eficacia de sus actividades, el Secret
 
 ### CAPÍTULO CUARTO. DE LAS FACULTADES COMUNES DE LOS SUBSECRETARIOS
 
-###### ARTÍCULO 6°.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE AGOSTO DE 2011)</small>
 
-Los Titulares de las Subsecretarías y el Consejero Jurídico tendrán las siguientes facultades:
+###### ARTÍCULO 6.
+
+Los Titulares de las Subsecretarías, de la Consejería Jurídica y de las Unidades previstas en el artículo 3° de este Reglamento, tendrán las siguientes facultades:
 
 I. Representar, en el ámbito de su competencia, al Secretario, a la Secretaría y a las unidades administrativas, en toda clase de juicios y controversias en los que éstos sean parte, pudiendo allanarse y transigir, sin más limitación que las señaladas por las leyes que resulten aplicables;
 
@@ -207,7 +245,9 @@ III. Aplicar y promover el debido cumplimiento de la normatividad en materia de 
 
 IV. Apoyar a las dependencias en la programación de la adquisición de sus bienes y servicios, así como en el desarrollo de los sistemas administrativos que requieran para el desempeño de sus actividades, en los términos que establezcan las leyes respectivas;
 
-V. Programar, realizar y celebrar los contratos relativos a las adquisiciones, suministros de bienes muebles e inmuebles, equipo informático y los servicios necesarios para el cumplimiento de los fines de la Administración Pública del Estado;
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2011)</small>
+
+V. Programar, realizar y celebrar los contratos relativos a las adquisiciones, suministros de bienes muebles e inmuebles; equipo de infraestructura y servicios en materia de tecnologías de información y comunicaciones y los servicios necesarios para el cumplimiento de los fines de la Administración Pública del Estado
 
 VI. Mantener actualizado el inventario de los bienes propiedad del Estado y establecer programas para su conservación y mantenimiento.
 
@@ -217,7 +257,9 @@ VIII. Celebrar los contratos de compraventa, comodato, donación, arrendamiento 
 
 IX. Realizar los trámites administrativos necesarios a fin de llevar a cabo los nombramientos, altas, promociones, cambios de adscripción, licencias, bajas y jubilaciones de los servidores públicos del Poder Ejecutivo;
 
-X. Proponer al Secretario el Plan de Tecnologías de Información y Comunicaciones del Gobierno del Estado, y los criterios rectores en dicha materia, así como la Plataforma Tecnológica Integral de la Administración Pública Central y sus criterios;
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2011)</small>
+
+X. Proponer al Secretario, implementar y administrar el Plan de Tecnologías de Información y Comunicaciones del Gobierno del Estado, y los criterios rectores en dicha materia, así como la Plataforma Tecnológica Integral de la Administración Pública Estatal y sus criterios;
 
 XI. Autorizar la selección, contratación y capacitación del personal y llevar los registros del mismo; controlar su asistencia, licencias, permisos y vacaciones; otorgar becas y otros estímulos, y promover actividades socioculturales y deportivas para los trabajadores al servicio del Estado; así como mantener al corriente el escalafón y el tabulador de los trabajadores al servicio del Estado, y programar los estímulos y recompensas para dicho personal;
 
@@ -225,9 +267,17 @@ XII. Llevar el registro de proveedores de bienes y servicios del Gobierno del Es
 
 XIII. Resolver los recursos administrativos en la materia de su competencia;
 
-XIV. Someter al Secretario, para su celebración, los convenios de colaboración con las entidades de la Administración Pública Paraestatal que así lo soliciten, respecto de los asuntos que son de su competencia; y
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2011)</small>
 
-XV. Apoyar en la conducción de las relaciones laborales con la representación sindical, así como participar en la revisión de las condiciones generales de trabajo, difundirlas y vigilar su cumplimiento dando cuenta de ello al Secretario.
+XIV. Someter al Secretario, para su celebración, los convenios de colaboración con las entidades de la Administración Pública Paraestatal que así lo soliciten, respecto de los asuntos que son de su competencia;
+
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2011)</small>
+
+XV. Apoyar en la conducción de las relaciones laborales con la representación sindical, así como participar en la revisión de las condiciones generales de trabajo, difundirlas y vigilar su cumplimiento dando cuenta de ello al Secretario; y
+
+> <small>(ADICIONADA, P.O. 22 DE AGOSTO DE 2011)</small>
+
+XVI. Nombrar a los representantes y suplentes de la Secretaría de Finanzas y Tesorería General del Estado en los comités de adquisiciones de las entidades de de la Administración Pública del Estado, y en el Comité de Operaciones Inmobiliarias del Estado.
 
 #### SECCION PRIMERA. DE LA DIRECCIÓN DE ADQUISICIONES Y SERVICIOS GENERALES
 
@@ -273,9 +323,17 @@ XVIII. Solicitar al área correspondiente de la Secretaría, las modificaciones 
 
 XIX. Determinar y supervisar el envío de facturas para su registro patrimonial;
 
-XX. Emitir las órdenes de pago y remitirlas a la unidad administrativa correspondiente de la Secretaría, para su trámite y pago; y
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2011)</small>
 
-XXI. Llevar a cabo los procedimientos de licitación pública en materia de adquisiciones y arrendamientos de bienes muebles y prestación de servicios de cualquier naturaleza a través del sistema electrónico de contrataciones gubernamentales denominado Compranet.
+XX. Emitir las órdenes de pago y remitirlas a la unidad administrativa correspondiente de la Secretaría, para su trámite y pago;
+
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2011)</small>
+
+XXI. Llevar a cabo los procedimientos de licitación pública en materia de adquisiciones y arrendamientos de bienes muebles y prestación de servicios de cualquier naturaleza a través del sistema electrónico de contrataciones gubernamentales denominado Compranet; y
+
+> <small>(ADICIONADA, P.O. 22 DE AGOSTO DE 2011)</small>
+
+XXII. Coordinar la labor de los representantes de la Secretaría en los comités de adquisiciones de las entidades de la Administración Pública del Estado.
 
 #### SECCION SEGUNDA. DE LA DIRECCIÓN DE COORDINACIÓN ADMINISTRATIVA
 
@@ -289,7 +347,7 @@ II. Realizar acciones tendientes a la vinculación de la (sic) unidades correspo
 
 III. Brindar apoyo administrativo a los tribunales y municipios ubicados fuera del área metropolitana de Monterrey, cuando lo soliciten;
 
-IV. Coordinar la labor de los representantes del Titular de la Secretaría en los comités de adquisiciones de las entidades de la Administración Pública del Estado; y
+IV. (DEROGADA, P.O. 22 DE AGOSTO DE 2011)
 
 V. Mediante un Coordinador General del área, administrar y vigilar el uso adecuado y regular de las aeronaves propiedad del Gobierno del Estado, su mantenimiento, conservación y utilización conforme a las leyes y demás normas aplicables.
 
@@ -329,9 +387,33 @@ XIV. Solicitar oportunamente la contratación de un sistema de administración d
 
 XV. Tramitar ante las compañías aseguradoras o afianzadoras los pagos por concepto de indemnización de bienes muebles e inmuebles.
 
-#### SECCION CUARTA. DE LA DIRECCIÓN DE RECURSOS HUMANOS
+> <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, P.O. 22 DE AGOSTO DE 2011)</small>
 
-#### SECCION QUINTA. DE LA DIRECCIÓN DE TECNOLOGÍAS DE INFORMACIÓN Y COMUNICACIONES
+#### SECCIÓN CUARTA. DE LA DIRECCIÓN DE PLANEACIÓN, EVALUACIÓN Y RACIONALIZACIÓN DEL GASTO PÚBLICO
+
+> <small>(ADICIONADO, P.O. 22 DE AGOSTO DE 2011)</small>
+
+###### ARTÍCULO 11 Bis.
+
+La Dirección de Planeación, Evaluación y Racionalización del Gasto Público tendrá las siguientes atribuciones en materia de adquisiciones de bienes, prestación de servicios y recursos humanos y patrimoniales del Estado:
+
+I. Recabar, analizar, clasificar y evaluar la información de las dependencias y entidades de la Administración Pública del Estado, relativa al gasto público;
+
+II. Proponer al Subsecretario las medidas que se estimen pertinentes para una adecuada racionalización y optimización del gasto;
+
+III. Comunicar a las dependencias y entidades de la Administración Pública del Estado respecto de las medidas que se tomen para la adecuada racionalización y optimización del gasto;
+
+IV. Planear, programar, coordinar y evaluar el ejercicio del gasto, con las dependencias y entidades de la Administración Pública del Estado, a fin de lograr una mayor racionalización y optimización del gasto público;
+
+V. Dar seguimiento a las medidas que se tomen para racionalizar y optimizar el gasto público y verificar que las mismas se cumplan para lograr su objetivo;
+
+VI. Vigilar que las dependencias y entidades de la Administración Pública Estatal se encuentren vinculadas en la metodología, aplicación y ejecución con los lineamientos y políticas en materia de racionalización y optimización del gasto público; y
+
+VII. Previo acuerdo con el Subsecretario, autorizar las nuevas asignaciones o incrementos de recursos.
+
+(REUBICADA [N. DE E. ANTES SECCION CUARTA], P.O. 22 DE AGOSTO DE 2011)
+
+#### SECCION QUINTA. DE LA DIRECCIÓN DE RECURSOS HUMANOS
 
 ###### ARTÍCULO 12.
 
@@ -391,7 +473,9 @@ XXVI. Coordinar las auditorías de recursos humanos y revisiones al sistema de p
 
 XXVII. Tramitar y desarrollar los proyectos y estudios de organización y revisión, en coordinación con las dependencias competentes, de los organigramas oficiales del Gobierno del Estado; asegurando consistencia en la nomenclatura y niveles de los puestos autorizados.
 
-#### SECCION SEXTA. DE LA DIRECCIÓN JURÍDICA
+(REUBICADA [N. DE E. ANTES SECCION QUINTA], P.O. 22 DE AGOSTO DE 2011)
+
+#### SECCION SEXTA. DE LA DIRECCIÓN DE TECNOLOGÍAS DE INFORMACIÓN Y COMUNICACIONES
 
 ###### ARTÍCULO 13.
 
@@ -399,35 +483,59 @@ La Dirección de Tecnologías de Información y Comunicaciones tendrá las sigui
 
 I. Formular el proyecto del Plan de Tecnologías de Información y Comunicaciones de la Administración Pública Estatal y los criterios rectores en dicha materia, y promover el funcionamiento integral y estandarización de los sistemas de información para su eficaz y eficiente operación;
 
-II. Asesorar a las dependencias y entidades de la Administración Pública Central en materia de tecnologías de información y comunicaciones;
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2011)</small>
 
-III. Diseñar la Plataforma Tecnológica Integral en Información y Comunicaciones de la Administración Pública Central;
+II. Asesorar a las dependencias y entidades de la Administración Pública Estatal en materia de tecnologías de información y comunicaciones;
 
-IV. Elaborar los criterios y proponer relaciones de vinculación en materia de tecnologías de información y comunicaciones de la Administración Pública Central y entidades que lo soliciten con otras entidades públicas y privadas.
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2011)</small>
 
-V. Revisar y en su caso validar los proyectos en materia de tecnologías de información y comunicaciones de la Administración Pública Central;
+III. Diseñar la Plataforma Tecnológica Integral en Información y Comunicaciones de la Administración Pública Estatal;
 
-VI. Proponer planes de capacitación en materia de tecnologías de información y comunicaciones para el personal de la Administración Pública Central;
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2011)</small>
 
-VII. Diseñar, proponer, implementar, administrar y operar los sistemas de información para la Secretaría, y los sistemas, paquetes, programas y herramientas de uso común en la Administración Pública Central;
+IV. Elaborar los criterios y proponer relaciones de vinculación en materia de tecnologías de información y comunicaciones de la Administración Pública Estatal con otras entidades públicas y privadas;
 
-VIII. Proporcionar servicio de soporte técnico a sistemas y equipos de cómputo y comunicaciones de la Secretaría y de las dependencias y entidades de la Administración Pública Estatal que así lo soliciten;
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2011)</small>
 
-IX. Coadyuvar con las dependencias y entidades de la Administración Pública Estatal que así lo soliciten en sus proyectos en materia de tecnologías de información y comunicaciones;
+V. Establecer, validar, administrar e implementar los proyectos en materia de tecnologías de información y comunicaciones de la Administración Pública Estatal;
 
-X. Administrar los proyectos de la Secretaría en materia de tecnologías de información y comunicaciones y apoyar en este rubro, a las demás dependencias y entidades de la Administración Pública Central que así lo soliciten;
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2011)</small>
+
+VI. Proponer planes de capacitación en materia de tecnologías de información y comunicaciones para el personal de la Administración Pública Estatal;
+
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2011)</small>
+
+VII. Diseñar, implementar, administrar y operar los sistemas paquetes, programas y herramientas en materia de tecnologías de información y comunicaciones, en la Administración Pública Estatal y autorizar las propuestas de las dependencias y entidades en esta materia;
+
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2011)</small>
+
+VIII. Proporcionar servicio de soporte técnico a sistemas y equipos de cómputo y comunicaciones de las dependencias y entidades de la Administración Pública Estatal;
+
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2011)</small>
+
+IX. Coadyuvar con las dependencias y entidades de la Administración Pública Estatal en sus proyectos en materia de tecnologías de información y comunicaciones;
+
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2011)</small>
+
+X. Diseñar, implementar y administrar la adecuación de los procesos para la racionalización, optimización, homologación y funcionamiento integral en materia de tecnologías de información y comunicaciones en las dependencias y entidades de la Administración Pública Estatal;
 
 XI. Operar, administrar, mantener y actualizar el Portal o Sitio de Internet y los sistemas de Gobierno Digital y Electrónico del Poder Ejecutivo Estatal;
 
 XII. Administrar y actualizar la información pública en la sección de transparencia que le proporcionen las dependencias y entidades de la Administración Pública Estatal;
 
-XIII. Operar, administrar y mantener el Sitio Central de Cómputo del Gobierno del Estado y de aquellos centros que por su naturaleza o capacidad alberguen equipo de cómputo y de comunicaciones de uso común para las dependencias y entidades de la Administración Pública Estatal;
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2011)</small>
 
-XIV. Diseñar, administrar, operar y mantener el Sistema de Directorio y Control de Usuarios que permita el acceso a los diferentes sistemas de información utilizados dentro de la Administración Pública Central; y
+XIII. Operar, administrar y mantener el Sitio Central de Cómputo del Gobierno del Estado y de aquellos centros de datos que por su naturaleza o capacidad alberguen equipo, infraestructura y tecnologías de información y comunicaciones en las dependencias y entidades de la Administración Pública Estatal;
+
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2011)</small>
+
+XIV. Diseñar, administrar, operar y mantener el Sistema de Directorio y Control de Usuarios que permita el acceso a los diferentes sistemas de información utilizados dentro de la Administración Pública Estatal; y
 
 XV. Mantener y operar bajo normas de seguridad la infraestructura que integra la red de telecomunicaciones y telefonía del Gobierno del Estado.
 
-#### SECCIÓN PRIMERA. DE LA DIRECCIÓN DE ADMINISTRACIÓN FINANCIERA
+(REUBICADA [N. DE E. ANTES SECCION SEXTA], P.O. 22 DE AGOSTO DE 2011)
+
+#### SECCION SÉPTIMA. DE LA DIRECCIÓN JURÍDICA
 
 ###### ARTÍCULO 14.
 
@@ -509,7 +617,7 @@ XXI. Coordinar y nombrar a los representantes de la Secretaría, propietarios y 
 
 XXII. Instruir a las instituciones del sistema financiero correspondientes, sobre la forma en que deberán operar las cuentas de cheques y de inversión de la Hacienda Pública del Estado.
 
-#### SECCIÓN SEGUNDA. DE LA DIRECCIÓN DE ATENCIÓN A MUNICIPIOS Y ORGANISMOS PARAESTATALES
+#### SECCIÓN PRIMERA. DE LA DIRECCIÓN DE ADMINISTRACIÓN FINANCIERA
 
 ###### ARTÍCULO 16.
 
@@ -535,7 +643,7 @@ IX. Instrumentar los mandatos u otros instrumentos jurídicos que otorgue el Gob
 
 X. Expedir los certificados de depósito que, para garantizar el cumplimiento de obligaciones, se establezcan en las diversas leyes.
 
-#### SECCIÓN TERCERA. DE LA DIRECCIÓN DE CONTABILIDAD Y CUENTA PÚBLICA
+#### SECCIÓN SEGUNDA. DE LA DIRECCIÓN DE ATENCIÓN A MUNICIPIOS Y ORGANISMOS PARAESTATALES
 
 ###### ARTÍCULO 17.
 
@@ -559,7 +667,7 @@ VIII. Requerir, recibir e integrar la información necesaria para presentar al S
 
 IX. Proponer, coordinar y ejecutar la desincorporación, fusión, escisión, liquidación y enajenación de las entidades paraestatales de la Administración Pública del Estado, previo estudio y análisis correspondientes.
 
-#### SECCIÓN CUARTA. DE LA DIRECCIÓN DE PRESUPUESTO Y CONTROL PRESUPUESTAL
+#### SECCIÓN TERCERA. DE LA DIRECCIÓN DE CONTABILIDAD Y CUENTA PÚBLICA
 
 ###### ARTÍCULO 18.
 
@@ -579,7 +687,7 @@ VI. Atender los requerimientos en las auditorías del ejercicio del gasto que re
 
 VII. Cumplir con las obligaciones fiscales a cargo del Gobierno del Estado y suscribir las declaraciones, avisos, solicitudes, constancias y demás documentos que se requieran ante el Servicio de Administración Tributaria o ante las instituciones de crédito autorizadas, conforme a las disposiciones fiscales aplicables.
 
-#### SECCIÓN PRIMERA. DE LA DIRECCIÓN DE CATASTRO
+#### SECCIÓN CUARTA. DE LA DIRECCIÓN DE PRESUPUESTO Y CONTROL PRESUPUESTAL
 
 ###### ARTÍCULO 19.
 
@@ -651,39 +759,35 @@ XXI. Celebrar convenios de coordinación o colaboración fiscal con toda clase d
 
 XXII. Condonar los recargos, multas y demás accesorios impuestos por las unidades administrativas adscritas a la Subsecretaría.
 
-#### SECCIÓN SEGUNDA. DE LA DIRECCIÓN DE COORDINACIÓN Y PLANEACIÓN HACENDARIA
+> <small>(REFORMADA SU DENOMINACION, P.O. 22 DE AGOSTO DE 2011)</small>
+
+#### SECCIÓN PRIMERA. DE LA COORDINACIÓN GENERAL DE INGRESOS
+
+> <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2011)</small>
 
 ###### ARTÍCULO 21.
 
-Corresponde a la Dirección de Catastro ejercer las siguientes facultades:
+Corresponde a la Coordinación General de Ingresos:
 
-I. Establecer y vigilar los procesos técnicos y administrativos, aplicables a la realización de los trabajos catastrales en la Entidad;
+I. Diseñar y establecer, previo acuerdo con el Subsecretario de Ingresos, la política de ingresos, en congruencia con la política de Hacienda Pública y la política económica y social del Estado, en coordinación con otras unidades administrativas competentes de la Secretaría, y de otras dependencias y entidades de la Administración Pública del Estado;
 
-II. Sin perjuicio de las facultades reservadas a otras autoridades, llevar el registro y control del Catastro en la Entidad, integrando, conservando y actualizando el padrón y la cartografía catastral, utilizando la fotogrametría u otros métodos técnicos de medición y cálculos masivos, a fin de facilitar la identificación, ubicación y valorización de los bienes inmuebles;
+II. Evaluar el efecto recaudatorio de las reformas que en materia fiscal se propongan;
 
-III. Requerir a los contribuyentes, responsables solidarios o a terceros con ellos relacionados, y a las autoridades, dependencias y organismos que realicen actividades que afecten a los bienes inmuebles de la Entidad, la presentación de informes o documentos en materia catastral, así como ordenar la realización de inspecciones y verificaciones, con el objeto de comprobar y en su caso, regularizar la información que obra en el padrón catastral;
+III. Supervisar y coordinar las funciones de las unidades administrativas de la Subsecretaría y evaluar su desempeño, además de vigilar el cumplimiento de las metas establecidas;
 
-IV. Realizar las altas, bajas y modificaciones que procedan en el padrón catastral;
+IV. Supervisar y vigilar la recepción de los ingresos que percibe la Secretaría de Finanzas y Tesorería General del Estado y sus entidades paraestatales;
 
-V. Presidir la Junta Central Catastral;
+V. Solicitar a las unidades administrativas de la Secretaría, y de otras dependencias y entidades de la Administración Pública del Estado, la información necesaria para el diseño de la política de ingresos y la evaluación de sus resultados;
 
-VI. Programar los trabajos de catastraciones en el Estado y coordinar a los Municipios que deseen efectuarlos;
+VI. Estudiar y analizar el comportamiento de la economía internacional, nacional, regional y estatal, con el propósito de identificar áreas de oportunidad y proponer alternativas de ingresos;
 
-VII. Coordinarse con los Municipios y proporcionar el apoyo que requieran para determinar el impuesto predial a cargo de los contribuyentes y en su caso, procesar y enviar oportunamente a las Tesorerías Municipales la información necesaria para la elaboración de los recibos de cobro del impuesto predial;
+VII. Emitir recomendaciones con el propósito de mejorar los sistemas y procedimientos utilizados por las unidades administrativas que recauden, manejen y administren ingresos del Estado;
 
-VIII. Determinar y liquidar las contribuciones estatales y municipales coordinadas, los aprovechamientos, los productos, así como sus accesorios, cuya omisión se hubiera detectado con motivo del ejercicio de sus facultades;
+VIII. Proponer al Subsecretario de Ingresos el diseño de las formas oficiales de avisos, declaraciones, manifestaciones y demás documentos requeridos por las disposiciones fiscales; y
 
-IX. De conformidad con los ordenamientos legales aplicables, imponer las sanciones administrativas que correspondan a las infracciones fiscales en materia catastral;
+IX. Asesorar a las entidades del Estado y a los Municipios, cuando éstos lo soliciten, en la evaluación del impacto de su política de ingresos.
 
-X. Verificar la debida aplicación de los subsidios y estímulos fiscales en materia catastral;
-
-XI. Expedir las cartas de no propiedad o de única propiedad en el Estado y demás constancias que sean solicitadas por los interesados y por dependencias oficiales en lo que respecta a los asuntos de su competencia;
-
-XII. Expedir los avalúos de bienes inmuebles que le sean solicitados, así como los informes de valor que procedan en los términos legales; y
-
-XIII. Justipreciar las rentas en los contratos de arrendamiento de inmuebles ubicados en el Estado, en los que intervengan el Gobierno del Estado o sus entidades paraestatales.
-
-#### SECCIÓN TERCERA. DE LA DIRECCIÓN DE CRÉDITOS Y COBRANZAS
+#### SECCIÓN SEGUNDA. DE LA DIRECCIÓN DE COORDINACIÓN Y PLANEACIÓN HACENDARIA
 
 ###### ARTÍCULO 22.
 
@@ -709,7 +813,7 @@ IX. Analizar y comunicar a las unidades administrativas de la Secretaría, los a
 
 X. Efectuar el cálculo y trámite de los incentivos federales que procedan a favor de la Hacienda Pública del Estado.
 
-#### SECCIÓN CUARTA. DE LA DIRECCIÓN DE FISCALIZACIÓN
+#### SECCIÓN TERCERA. DE LA DIRECCIÓN DE CRÉDITOS Y COBRANZAS
 
 ###### ARTÍCULO 23.
 
@@ -735,7 +839,7 @@ IX. Rematar los bienes decomisados, abandonados y embargados dentro del procedim
 
 X. Determinar los accesorios de las multas impuestas por las autoridades administrativas no fiscales, así como su actualización; liquidar las contribuciones estatales, municipales y federales coordinadas, los aprovechamientos, los productos y cualquier crédito fiscal, cuya omisión se hubiere determinado con motivo del ejercicio de sus facultades o cuando dicha facultad no sea competencia de otra unidad administrativa de la Secretaría.
 
-#### SECCIÓN QUINTA. DE LA DIRECCIÓN DE RECAUDACIÓN
+#### SECCIÓN CUARTA. DE LA DIRECCIÓN DE FISCALIZACIÓN
 
 ###### ARTÍCULO 24.
 
@@ -767,7 +871,7 @@ XII. Participar, en las materias de su competencia, en el análisis de la formul
 
 XIII. Dejar sin efectos las órdenes de visita domiciliaria, los requerimientos de información que se formulen a los contribuyentes, así como la revisión de papeles de trabajo que se haga a los contadores públicos, cuando proceda legalmente.
 
-#### SECCIÓN ÚNICA. DE LA DIRECCIÓN LEGAL HACENDARIA
+#### SECCIÓN QUINTA. DE LA DIRECCIÓN DE RECAUDACIÓN
 
 ###### ARTÍCULO 25.
 
@@ -791,9 +895,43 @@ VIII. Realizar en el ámbito de su competencia, las acciones necesarias para pro
 
 IX. Habilitar días y horas inhábiles para la práctica de diligencias y actuaciones en los términos de las disposiciones legales aplicables;
 
-X. Imponer multas por infracción en las disposiciones fiscales que rigen en materia de contribuciones estatales y las de carácter federal de los ingresos federales cuya administración tenga delegada el Estado, excepto cuando corresponda imponerlas a otra unidad administrativa de la Secretaría; y
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2011)</small>
 
-XI. Recibir, tramitar y resolver las solicitudes de devolución, acreditamiento o compensación, en los términos de las disposiciones jurídicas aplicables y determinar, en su caso, las contribuciones que hayan sido devueltas indebidamente.
+X. Imponer multas por infracción a las disposiciones fiscales que rigen en materia de contribuciones estatales y las de carácter federal de los ingresos federales cuya administración tenga delegada el Estado, excepto cuando corresponda imponerlas a otra unidad administrativa de la Secretaría;
+
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2011)</small>
+
+XI. Recibir, tramitar y resolver las solicitudes de devolución, acreditamiento o compensación, en los términos de las disposiciones jurídicas aplicables y determinar, en su caso, las contribuciones y sus accesorios debidamente actualizados, que hayan sido devueltas indebidamente; y
+
+> <small>(ADICIONADA, P.O. 22 DE AGOSTO DE 2011)</small>
+
+XII. En materia de establecimientos en los que se vendan, expendan o consuman bebidas alcohólicas, en los términos establecidos en la Ley para la Prevención y Combate al Abuso del Alcohol y de Regulación para su Venta y Consumo para el Estado de Nuevo León;
+
+a) Recibir las solicitudes y demás documentación relativa a los trámites de expedición de licencias y permisos especiales, cambios de titular, domicilio o giro, prórroga de vigencia de los permisos especiales y demás trámites que sean competencia de la Secretaría de Finanzas y Tesorería General del Estado y cuya atribución no haya sido conferida a otra dependencia de la misma Secretaría; efectuar la revisión de la documentación presentada y las verificaciones que se estimen conducentes a fin de constatar el cumplimiento a las disposiciones normativas y a los criterios técnicos que resulten aplicables y, en su caso, requerir a los solicitantes, a terceras personas o a las dependencias y entidades públicas la documentación e información que, a juicio de la Dirección de Recaudación, sea necesaria para analizar la procedencia del trámite respectivo;
+
+b) Integrar los expedientes relativos a las solicitudes de expedición de licencias y permisos especiales, cambios de domicilio o de giro, solicitudes de prórroga de los permisos especiales y demás trámites y solicitudes previstos en el inciso anterior, que serán sometidos a la consideración del Comité de Evaluación de Trámites y Licencias;
+
+c) Conjuntamente con la Dirección Legal Hacendaria, emitir la opinión previa correspondiente a los trámites y solicitudes que serán sometidos al Comité de Evaluación de Trámites y Licencias;
+
+d) Remitir al representante de la Secretaría de Finanzas y Tesorería General del Estado en el Comité de Evaluación de Trámites y Licencias, los proyectos de dictámenes que procedan en los términos legales y sus respectivos expedientes, a fin de que sean sometidos a la consideración del comité;
+
+e) Expedir o rechazar las licencias o permisos especiales, previa opinión favorable de la Dirección Legal Hacendaría;
+
+f) Autorizar o negar los cambios de titular de las licencias, el otorgamiento de poderes para la operación de las licencias y permisos especiales, y las correcciones de datos de las licencias, previa opinión favorable de la Dirección Legal Hacendaria;
+
+g) Autorizar la cancelación de las licencias;
+
+h) Autorizar o rechazar las prórrogas de los permisos especiales y los cambios de domicilio o giro, previa opinión favorable de la Dirección Legal Hacendaria;
+
+i) Otorgar los refrendos de las licencias;
+
+j) Expedir duplicados de las licencias y permisos especiales, en los casos de pérdida o extravío;
+
+k) Llevar el padrón único de establecimientos dedicados a la venta, expendio o consumo de bebidas alcohólicas y efectuar su publicación en los términos legales;
+
+l) Expedir o negar las certificaciones de Establecimiento de Consumo Responsable, previa verificación del cumplimiento de los requisitos legales establecidos; y
+
+m) Efectuar las visitas de verificación y designar a los servidores públicos autorizados para realizar tales actuaciones.
 
 ### CAPÍTULO NOVENO. DE LA CONSEJERÍA JURÍDICA
 
@@ -843,9 +981,19 @@ XX. Ejercer directamente, cualquiera de las facultades que este Reglamento atrib
 
 XXI. Establecer los criterios de interpretación de las disposiciones legales y administrativas en las materias competencia de la Secretaría, y resolver las contradicciones de criterios que se deriven de la actuación de las unidades administrativas de la Secretaría;
 
-XXII. Supervisar y coordinar las actuaciones de las áreas de apoyo jurídico de la Secretaría; y
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2011)</small>
 
-XXIII. Las demás que les confieran las leyes, decretos, reglamentos, acuerdos o convenios o que le sean atribuidas directamente por el Secretario, según corresponda.
+XXII. Supervisar y coordinar las actuaciones de las áreas de apoyo jurídico de la Secretaría;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 22 DE AGOSTO DE 2011)</small>
+
+XXIII. Plantear al Secretario de Finanzas y Tesorero General del Estado las propuestas de los elementos para la elaboración de los Criterios Técnicos para el otorgamiento de las licencias y permisos especiales y los cambios de giro y domicilio a que se refiere la Ley para la Prevención y Combate al Abuso del Alcohol del Estado; y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 22 DE AGOSTO DE 2011)</small>
+
+XXIV. Las demás que les confieran las leyes, decretos, reglamentos, acuerdos o convenios o que le sean atribuidas directamente por el Secretario, según corresponda.
+
+#### SECCIÓN ÚNICA. DE LA DIRECCIÓN LEGAL HACENDARIA
 
 ###### ARTÍCULO 27.
 
@@ -885,19 +1033,95 @@ XVI. Elaborar los proyectos para definir y determinar en su caso, la normativida
 
 XVII. Elaborar los proyectos para establecer los criterios de interpretación de las disposiciones legales y administrativas en las materias competencia de la Secretaría, y resolver las contradicciones de criterios que se deriven de la actuación de las unidades administrativas de la Secretaría;
 
-XVIII. Atender las solicitudes de transparencia y acceso a la información y las quejas sobre las actividades y servicios de las unidades administrativas de la Secretaría; y
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2011)</small>
 
-XIX. Apoyar directamente a los contribuyentes en la resolución de asuntos individuales y concretos relativos a los trámites administrativos que realicen ante la autoridad fiscal estatal, federal o municipal coordinada, sin interferir en sus funciones, así como prestarles los servicios de asistencia y orientación en el cumplimiento de las obligaciones fiscales, del calendario de aplicación de las mismas y de los procedimientos y formas para su debida observancia.
+XVIII. Atender las solicitudes de transparencia y acceso a la información y las quejas sobre las actividades y servicios de las unidades administrativas de la Secretaría;
 
-### CAPÍTULO DÉCIMO. DE LA SUPLENCIA DE LOS FUNCIONARIOS DE LA SECRETARÍA
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2011)</small>
+
+XIX. Apoyar directamente a los contribuyentes en la resolución de asuntos individuales y concretos relativos a los trámites administrativos que realicen ante la autoridad fiscal estatal, federal o municipal coordinada, sin interferir en sus funciones, así como prestarles los servicios de asistencia y orientación en el cumplimiento de las obligaciones fiscales, del calendario de aplicación de las mismas y de los procedimientos y formas para su debida observancia; y
+
+> <small>(ADICIONADA, P.O. 22 DE AGOSTO DE 2011)</small>
+
+XX. En las materias reguladas por la Ley para la Prevención y Combate al Abuso del Alcohol y de Regulación para su Venta y Consumo para el Estado de Nuevo León:
+
+a) Brindar apoyo técnico jurídico al Comité de Evaluación de Trámites y Licencias;
+
+b) Dar seguimiento a los acuerdos tomados por el Comité de Evaluación de Trámites y Licencias;
+
+c) Tramitar y resolver el recurso de inconformidad;
+
+d) Llevar a cabo el procedimiento de revocación de las licencias o permisos especiales; y
+
+e) Ejercer las demás atribuciones que el presente reglamento le confiere.
+
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 22 DE AGOSTO DE 2011)</small>
+
+### CAPÍTULO DÉCIMO. DE LA UNIDAD DE FOMENTO Al FINANCIAMIENTO DE PROYECTOS
+
+> <small>(ADICIONADO, P.O. 22 DE AGOSTO DE 2011)</small>
 
 ###### ARTÍCULO 28.
 
-En los casos de ausencia, el Secretario será suplido, en el ámbito de sus respectivas competencias, por los Titulares de las Subsecretarías y el Consejero Jurídico.
+Corresponde a la Unidad de Fomento al Financiamiento de Proyectos, ejercer las siguientes facultades:
+
+I. Formular recomendaciones y brindar asesoría a las dependencias y entidades del Gobierno del Estado, en la gestión y financiamiento de programas y proyectos;
+
+II. Proponer al Secretario los programas y proyectos estatales susceptibles de ser calificados como estratégicos;
+
+III. Diseñar, implementar, dirigir y supervisar el sistema de seguimiento de programas y proyectos estatales, que se lleve en la Secretaría de Finanzas y Tesorería General del Estado;
+
+IV. Gestionar ante la Federación y otros organismos, la obtención de recursos financieros para el financiamiento específico de programas y proyectos estratégicos del Estado;
+
+V. Proponer al Secretario los mecanismos de enlace interinstitucional para efecto de diseñar esquemas de financiamiento y gestión de programas y proyectos estatales;
+
+VI. Solicitar la información y la cooperación técnica necesaria a las dependencias y entidades del Ejecutivo Estatal, para el cumplimiento de las funciones de la Unidad;
+
+VII. Plantear, implementar, coordinar, supervisar y gestionar la obtención de recursos financieros y financiamientos de proyectos especificas y, en su caso, ejecutar los programas y proyectos que le sean encomendados por el Secretario; y
+
+VIII. Proponer al Secretario la formulación de programas y proyectos relacionados con los asuntos de la competencia de la Unidad.
+
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 22 DE AGOSTO DE 2011)</small>
+
+### CAPÍTULO DÉCIMO PRIMERO. DE LA UNIDAD DE INFORMACIÓN FINANCIERA
+
+> <small>(ADICIONADO, P.O. 22 DE AGOSTO DE 2011)</small>
 
 ###### ARTÍCULO 29.
 
-En las ausencias de los Subsecretarios o del Consejero Jurídico, éstos serán suplidos por los titulares de las Direcciones de cuya área se trate la suplencia y, en caso de ausencia de éstos, por los Coordinadores de Área o el Jefe del Departamento correspondiente.
+La Unidad de Información Financiera tendrá las siguientes atribuciones:
+
+I. Coadyuvar con la Dirección de Contabilidad y Cuenta Pública en la preparación de la cuenta pública y demás informes financieros del sector central de la Administración Pública del Estado;
+
+II. Brindar apoyo técnico a las entidades de la Administración Pública del Estado, y a los Municipios que lo soliciten en la elaboración de las cuentas públicas y demás informes financieros;
+
+III. Analizar la información contenida en las cuentas públicas y demás informes financieros de las entidades de la Administración Pública para el Estado, a fin de que sea conciliada con la que obra en los registros contables de la Secretaría de Finanzas y Tesorería General del Estado;
+
+IV. Brindar apoyo técnico a las dependencias y entidades de la Administración Pública del Estado, y a los Municipios que lo soliciten, para la atención de observaciones formuladas por los órganos fiscalizadores, tanto de control externo como interno, con el objeto de ser aclaradas o solventadas en forma adecuada y oportuna;
+
+V. Fungir como enlace institucional permanente de la Secretaría de Finanzas y Tesorería General del Estado con los órganos de fiscalización, tanto de control externo como interno;
+
+VI. Brindar apoyo al Secretario de Finanzas y Tesorero General del Estado en la atribución que ejerce de manera conjunta con la Controlaría (sic) y Transparencia Gubernamental, en el proceso de selección de los despachos de auditores externos que dictaminan anualmente los estados financieros del sector central y de las entidades paraestatales, en los términos previstos por la Ley de Administración Financiera del Estado;
+
+VII. Coadyuvar en los trabajos de implementación y desarrollo de sistemas de contabilidad, organización y archivo requeridos en las dependencias y entidades de la Administración Pública Estatal, y
+
+VIII. Proponer al Secretario la formulación de programas y proyectos relacionados con los asuntos de la competencia de la Unidad.
+
+(REUBICADO [N. DE E. ANTES CAPITULO DECIMO], P.O. 22 DE AGOSTO DE 2011)
+
+### CAPÍTULO DÉCIMO SEGUNDO. DE LA SUPLENCIA DE LOS FUNCIONARIOS DE LA SECRETARIA
+
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 28], P.O. 22 DE AGOSTO DE 2011)</small>
+
+###### ARTÍCULO 30.
+
+En los casos de ausencia, el Secretario será suplido, en el ámbito de sus respectivas competencias, por los Titulares de las Subsecretarías, de la Consejería Jurídica o de las Unidades previstas en este Reglamento.
+
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 29], P.O. 22 DE AGOSTO DE 2011)</small>
+
+###### ARTÍCULO 31.
+
+En las ausencias de los Subsecretarios, del Consejero Jurídico o de los Titulares de las Unidades previstas en este Reglamento, éstos serán suplidos por los Titulares de las Direcciones de cuya área se trate la suplencia y, en caso de ausencia de éstos, por los Coordinadores de Área o Jefes de Departamento correspondientes.
 
 T R A N S I T O R I O S
 
@@ -942,3 +1166,13 @@ JAVIER TREVIÑO CANTÚ
 EL C. SECRETARIO DE FINANZAS Y TESORERO GENERAL DEL ESTADO
 
 ALFREDO GERARDO GARZA DE LA GARZA
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 22 DE AGOSTO DE 2011.
+
+PRIMERO.- Este Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se autoriza al Secretario de Finanzas y Tesorero General del Estado, para que en los términos de la Ley de Egresos vigente, realice las trasferencias presupuestales que sean necesarias para dar cumplimiento a lo dispuesto en el presente Acuerdo.
+
+TERCERO.- Cuando en la Ley de Egresos del Estado se dé una nueva denominación a cualesquiera de las unidades administrativas que se mencionan en este Reglamento, mientras se prevén las reformas pertinentes al presente, dicha unidad ejercerá las atribuciones que le correspondan conforme a su naturaleza, en los términos contenidos en este Acuerdo.
