@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-interior-de-la-secretaria-de-desarrollo-economico-71
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-11-25"
-last_updated: "2009-11-25"
+last_updated: "2011-08-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=71240&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,778 +21,794 @@ state: "NLE"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA DE DESARROLLO ECONOMICO
 
-REGLAMENTO INTERIOR DE LA SECRETARIA DE DESARROLLO ECONOMICO
+REGLAMENTO DE OPERACIÓN DE LA UNIDAD MUNICIPAL DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN, Y DEL COMITÉ DE INFORMACIÓN DE ACCESO RESTRINGIDO DEL H. AYUNTAMIENTO DE XALAPA, VERACRUZ
 
 TEXTO ORIGINAL.
 
-Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el miércoles 25 de noviembre de 2009.
+Reglamento publicado en el Extraordinario de la Gaceta Oficial del Estado de Veracruz, el viernes 11 de abril de 2008.
 
-RODRIGO MEDINA DE LA CRUZ, GOBERNADOR CONSTITUCIONAL DEL ESTADO DE NUEVO LEÓN, EN EJERCICIO DE LAS FACULTADES QUE ME CONFIEREN LOS ARTÍCULOS 81, 85 FRACCIÓN X, 88 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE NUEVO LEÓN; 2, 4, 8, 9, 15, 17, 18 FRACCIONES I Y VIII DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA PARA EL ESTADO DE NUEVO LEÓN; Y
+Al margen un sello que dice. Xalapa.-H. Ayuntamiento.
 
-C O N S I D E R A N D O: .
+El C. licenciado José Alberto Hernández Melgarejo, secretario del Honorable Ayuntamiento Constitucional de Xalapa, Veracruz.
 
-Por lo anteriormente expuesto y fundado, he tenido a bien expedir el siguiente:
+Hace constar y certifica:
 
-REGLAMENTO INTERIOR DE LA SECRETARÍA DE DESARROLLO ECONÓMICO
+Que en sesión extraordinaria de esta fecha, el Honorable Cabildo aprobó por unanimidad, el siguiente:
 
-### CAPÍTULO PRIMERO. DE LA COMPETENCIA Y ORGANIZACIÓN
+ACUERDO
+
+De conformidad con lo establecido por el artículo 6 fracción V y tercero transitorio de la Ley de Transparencia y Acceso a la información Pública para el Estado de Veracruz de Ignacio de la Llave, que establece la obligación a los Ayuntamientos de emitir el Reglamento de Operación correspondiente y los artículos 28, 34 y 35 fracción XIV de la Ley Orgánica del Municipio Libre del Estado de Veracruz de Ignacio de la Llave, que lo otorgan a los Ayuntamientos la facultad de emitir y aprobar los reglamentos de las materias que le son inherentes, se aprueba el Reglamento de Operación de la Unidad Municipal de Transparencia y Acceso a la Información y del Comité de Información de Acceso Restringido del H. Ayuntamiento de Xalapa, Veracruz, así como la constitución del Comité de Información de Acceso Restringido de este H. Ayuntamiento de Xalapa, Veracruz, cuya integración y facultades serán conforme al Reglamento aprobado, mismo que a continuación se transcribe como sigue;
+
+Reglamento de Operación de la Unidad Municipal de Transparencia y Acceso a la Información, y del Comité de Información de Acceso Restringido del H. Ayuntamiento de Xalapa, Veracruz
+
+## TÍTULO PRIMERO. DISPOSICIONES GENERALES
+
+### CAPÍTULO I. Objeto del Reglamento
 
 ###### Artículo 1.
 
-La Secretaría de Desarrollo Económico, como dependencia del Poder Ejecutivo del Estado, tiene a su cargo las funciones y el despacho de los asuntos que expresamente le encomienda el Artículo 28 de la Ley Orgánica de la Administración Pública para el Estado de Nuevo León y las demás disposiciones legales aplicables, así como los decretos, reglamentos, acuerdos y órdenes que expida el Titular del Poder Ejecutivo del Estado.
+El presente Reglamento es de orden e interés público y de observancia general, tiene por objeto tutelar y garantizar el derecho de acceso a la información pública municipal; la protección de los datos personales, así como la información confidencial y la reservada que se encuentre en posesión del Ayuntamiento de Xalapa; (sic)
+
+Así como reglamentar la operación, integración y procedimientos de la Unidad Municipal de Transparencia y Acceso a la Información y del Comité de Información de Acceso Restringido.
 
 ###### Artículo 2.
 
-La Misión de la Secretaría consiste en facilitar, fomentar y apoyar el desarrollo económico en el Estado a través de: la coordinación subsidiaria de los actores económicos, académicos y gubernamentales; la atracción de inversión en sectores estratégicos que aprovechen las ventajas competitivas del Estado; el impulso a las exportaciones; la generación y el fortalecimiento de las empresas en Nuevo León; la innovación y el desarrollo tecnológico; el fomento al financiamiento de programas y proyectos en el Estado; de manera que todo lo anterior posibilite la generación de empleos bien remunerados y de alto valor agregado, enfatizando permanentemente la competitividad.
+Además de las definiciones contenidas en el artículo 3 de la Ley y para los efectos del presente Reglamento, se entenderá por:
+
+I. Áreas o Unidades Administrativas. Parte de la estructura orgánica del Ayuntamiento a la que se otorgan atribuciones para el desarrollo de actividades específicas;
+
+II. Ayuntamiento. El H. Ayuntamiento Constitucional de Xalapa, Veracruz;
+
+III. Comité. Comité de Información de Acceso Restringido;
+
+IV. Ley. La Ley de Transparencia y Acceso a la Información Pública para el Estado de Veracruz de Ignacio de la Llave;
+
+V. Link. Es el enlace que deberá existir en el portal de Internet del Ayuntamiento y que se dirige a otra página similar para facilitar la localización de otros temas relacionados con el mismo;
+
+VI. Presidente Municipal. El C. Presidente Municipal Constitucional del H. Ayuntamiento de Xalapa, Veracruz;
+
+VII. Reglamento. El Reglamento de Operación de la Unidad Municipal de Transparencia y Acceso a la Información y del Comité de Información de Acceso Restringido;
+
+VIII. Servidor Público Habilitado. Servidor público que forma parte de la plantilla del personal del Ayuntamiento y que es designado para recibir y dar trámite a las solicitudes de acceso a la información, a los datos personales y a la corrección de éstos, en oficinas, delegaciones o representaciones distintas a aquélla en la que se ubica su Unidad de Acceso.
+
+IX. Titular de la Unidad de Acceso. El Jefe de la Unidad Municipal de Transparencia y Acceso a la Información.
+
+X. Unidad de Acceso. La Unidad Municipal de Transparencia y Acceso a la Información del H. Ayuntamiento de Xalapa, Veracruz.
 
 ###### Artículo 3.
 
-Para el ejercicio de las funciones y el despacho de los asuntos que le competen, la Secretaría de Desarrollo Económico, contará con la siguiente estructura:
-
-I. Consejo Consultivo de Competitividad y Mejora Regulatoria.
-
-II. Subsecretaría de Industria, Comercio y Servicios:
-
-a) Dirección de Fomento Industrial y Competitividad;
-
-b) Dirección de Fomento a las Empresas de la Nueva Economía, y
-
-c) Dirección de Atención a la Planta Productiva.
-
-III. Subsecretaría de Inversión Extranjera y Comercio Internacional:
-
-a) Dirección de Fomento a la Inversión Extranjera, y
-
-b) Dirección de Fomento al Comercio Exterior.
-
-IV. Subsecretaría de Desarrollo Regional:
-
-a) Dirección de Planeación de Programas y Proyectos,
-
-b) Dirección de Promotora de Desarrollo Rural de Nuevo León, y
-
-c) Dirección de Fideicomisos y Atención a Municipios.
-
-V. Secretaría Técnica y Fomento al Financiamiento:
-
-a) Dirección de Planeación y Gestión, y
-
-b) Dirección de Fomento al Financiamiento.
-
-VI. Coordinación General de Administración y Finanzas,
-
-VII. Dirección Jurídica, y
-
-VIII. Coordinación General de Promoción e Impulso a MIPYMES.
+La información pública generada, administrada o en posesión del Ayuntamiento en ejercicio de sus atribuciones, será accesible de manera permanente a cualquier persona, privilegiando el principio de máxima publicidad de la información.
 
 ###### Artículo 4.
 
-Además del Consejo, las Subsecretarías, la Secretaría Técnica y las Direcciones enumeradas en el artículo anterior, la Secretaría contará con las demás Coordinaciones y Jefaturas que se establezcan con base en las necesidades internas, de conformidad con la legislación que resulte aplicable y de acuerdo a la disponibilidad del Presupuesto de Egresos. Así mismo, el Titular de la Secretaría, coordinará los Órganos, Comités, Fideicomisos, Consejos o Comisiones Interinstitucionales que el Titular del Poder Ejecutivo Estatal estime necesarios para la realización plena de sus funciones.
+Toda persona tiene el derecho de acceso a la información pública sin más limitaciones que las establecidas en la Ley, los Lineamientos que al efecto emita el Instituto y en el presente Reglamento. Lo anterior tiene como objeto garantizar la rendición de cuentas del gobierno municipal a la población.
 
 ###### Artículo 5.
 
-El Consejo, las Subsecretarías, la Secretaría Técnica y las Direcciones de la Secretaría de Desarrollo Económico, conducirán sus actividades en forma programada, orientada a servir a la comunidad, con base en las políticas, estrategias y prioridades que para el logro de los objetivos y metas de los planes a cargo de la Secretaría, fije y establezca el Titular del Poder Ejecutivo Estatal y determine el Titular de la Secretaría.
+Toda persona que acredite la titularidad de sus datos personales en posesión del Ayuntamiento, tiene derecho a saber si se está procesando información y a solicitar las rectificaciones o supresiones que correspondan cuando los registros sean incorrectos o no se justifique la razón de su registro y conservación, y a conocer los destinatarios cuando la información sea transmitida.
 
-### CAPÍTULO SEGUNDO. DEL SECRETARIO
+### CAPÍTULO II. De las Definiciones e Interpretaciones
 
 ###### Artículo 6.
 
-Al frente de la Secretaría de Desarrollo Económico habrá un Secretario, a quien corresponde la representación, trámite y resolución de los asuntos de la competencia de ésta, quien podrá delegar en sus subalternos cuando así sea procedente, las facultades que le son conferidas en este Reglamento Interior y demás leyes, mediante el acuerdo respectivo.
+El acceso a la información pública será permanente y gratuito. La expedición de documentos, grabaciones y reproducciones se sujetará, en su caso, al pago de los derechos, productos y aprovechamientos que se establezcan para tal fin.
 
 ###### Artículo 7.
 
-El Titular de la Secretaría tendrá las siguientes atribuciones y responsabilidades:
+Es indispensable que el Ayuntamiento a través de su Unidad de Acceso, recabe, actualice y difunda la información pública, así como también orienten a los particulares en las consultas y obtención de dicha información.
 
-I. Hacer cumplir dentro de las áreas de su competencia, el Plan Estatal de Desarrollo;
+El solicitante no tendrá la obligación de acreditar interés legítimo para pedir y acceder a la información pública.
 
-II. Establecer, dirigir y ejecutar los programas de la Secretaría, así como coordinar y evaluar las actividades de las Subsecretarías, Direcciones y demás unidades de conformidad con los lineamientos, estrategias y prioridades que determine el Titular del Poder Ejecutivo del Estado;
+## TÍTULO SEGUNDO. DE LAS OBLIGACIONES DE TRANSPARENCIA E INFORMACIÓN
 
-III. Fomentar una administración de calidad en la Secretaría mediante el trabajo en equipo, la administración de los procesos y de calidad, el desarrollo de los proveedores, la planeación estratégica y la mejora continua de los servicios;
-
-IV. Desempeñar las comisiones y funciones especiales que con tal carácter le encomiende el Ejecutivo del Estado, manteniéndolo informado sobre el desarrollo de las mismas;
-
-V. Representar al Titular del Poder Ejecutivo del Estado cuando él así lo disponga, en los comités, fideicomisos, consejos y demás órganos de la administración pública vinculados con la Secretaría;
-
-VI. Establecer los lineamientos bajo los cuales se proporcionará información a las demás dependencias y entidades de la administración pública estatal, cuando sea requerido para ello;
-
-VII. Comparecer ante el Congreso del Estado cuando sea citado, previa autorización del Titular del Ejecutivo del Estado, en los términos del artículo 62 de la Constitución Política del Estado;
-
-VIII. Proponer al Ejecutivo la celebración de convenios dentro del ámbito de su competencia con autoridades federales, estatales, municipales así como organismos nacionales o extranjeros, para el logro de sus atribuciones;
-
-IX. Celebrar con empresas u organismos nacionales e internacionales los acuerdos necesarios para el debido cumplimiento de los programas de la Secretaría. La suscripción de los documentos donde se comprometan recursos será exclusiva del Titular de la Secretaría;
-
-X. Proponer al Titular del Ejecutivo, la creación, supresión o modificación de la estructura administrativa de la Secretaría;
-
-XI. Someter a acuerdo del Titular del Ejecutivo, los nombramientos y remociones de los Titulares de las Subsecretarías, a que se refiere el artículo 3 del presente Reglamento, y proponer los planes y programas de su competencia;
-
-XII. Someter a la consideración y aprobación del Titular del Ejecutivo en términos de ley, el anteproyecto de presupuesto de egresos de la Secretaría;
-
-XIII. Coordinar y evaluar los fideicomisos públicos, organismos públicos, desconcentrados, interinstitucionales y del sector paraestatal, que sean de la competencia de la Secretaría de conformidad con las leyes y reglamentos aplicables, y por acuerdo del Ejecutivo que así lo determine;
-
-XIV. Aprobar los manuales de organización y de procedimientos necesarios para el eficiente despacho de los asuntos de la Secretaría;
-
-XV. Refrendar para su validez y efectos legales, los reglamentos, decretos, acuerdos y demás disposiciones que expida el Titular del Ejecutivo, que sean competencia de la Secretaría;
-
-XVI. Resolver los incidentes que se susciten internamente sobre la competencia de las unidades administrativas, con motivo de la interpretación o aplicación de este Reglamento, emitiendo en su caso los lineamientos respectivos;
-
-XVII. Coadyuvar con las instancias competentes en los términos que fijen las leyes, lo concerniente al trámite para la reversión al patrimonio del Estado de áreas de terreno que permanezcan baldíos o inactivos en los parques industriales del Estado;
-
-XVIII. Establecer, coordinar y vigilar, previo acuerdo del Titular del Ejecutivo, las actividades de oficinas en el extranjero para el fomento de las actividades propias de la Secretaría, así como apoyarlas con los recursos económicos autorizados para ello;
-
-XIX. Administrar las actividades de los fondos financieros y de los fideicomisos públicos que le sean asignados para su atención y vigilancia;
-
-XX. Imponer sanciones y resolver los recursos administrativos en los términos de las facultades que le correspondan, y
-
-XXI. Las demás atribuciones que le confieran las leyes, decretos, reglamentos, acuerdos, convenios o directamente el Titular del Ejecutivo del Estado.
-
-Son facultades indelegables del Secretario las establecidas en la fracciones IV, VI, VII, IX, X, XI, XIII, XIV y XVII de este artículo.
-
-### CAPÍTULO TERCERO. DEL CONSEJO CONSULTIVO DE COMPETITIVIDAD Y MEJORA REGULATORIA
+### CAPÍTULO III. Del Derecho de Acceso a la Información
 
 ###### Artículo 8.
 
-El Consejo Consultivo de Competitividad y Mejora Regulatoria, tendrá como objetivo la consulta y vinculación con los sectores privado, social, académico y de servicio para impulsar y desarrollar la mejora regulatoria, buscando eficientizar trámites, generar oportunidades de desarrollo empresarial e impulsar la competitividad, contando para ello con las siguientes facultades:
+Las Áreas administrativas del Ayuntamiento a través de la Unidad de Acceso y con el apoyo del área de soporte técnico de informática, deberá publicar y mantener actualizada la siguiente información pública:
 
-I. Proponer las medidas necesarias para elevar los índices de competitividad en el Estado mediante la revisión, diagnóstico y elaboración del marco jurídico vinculado con la actividad empresarial;
+I. Reglamentos, bando de policía y gobierno, circulares, acuerdos y demás normas que regulan su actividad;
 
-II. Elaborar el plan de trabajo en materia de competitividad y mejora regulatoria, para ponerlo a consideración del Secretario y éste a su vez lo someta a la aprobación del Ejecutivo del Estado;
+II. La estructura orgánica y las atribuciones de sus diversas áreas administrativas, incluyendo sus manuales de organización y de procedimientos;
 
-III. Proponer las acciones necesarias para elevar la competitividad de las empresas;
+III. El directorio de sus servidores públicos desde el nivel de Funcionario Público hasta los Altos Funcionarios. A partir del nivel de director de área o equivalente, se publicará su aurícula;
 
-IV. Emitir opiniones al Secretario con respecto a la función de fomento al financiamiento de los programas y proyectos para el desarrollo del Estado.
+IV. La información relativa a sueldos, salarios y remuneraciones de los servidores públicos, deberá ser publicada de la siguiente forma:
 
-V. Revisar, diagnosticar, elaborar y proponer al Secretario las adecuaciones necesarias para la simplificación de trámites; y
+a. El tabulador y las compensaciones brutas y netas, así como las prestaciones correspondientes del personal de base, de confianza y del contratado por honorarios. Igualmente deberá publicarse el número total de las plazas y del personal por honorarios, especificando las vacantes por cada unidad administrativa;
 
-VI. Las demás que el Secretario señale.
+b. Esta información deberá desagregarse por puestos, tratándose del trabajo personal subordinado; en el caso de remuneraciones al trabajo personal independiente, la información deberá desagregarse por el tipo de servicio de que se trate. En ambos casos la información deberá contener, además, las prestaciones que en dinero o en especie corresponda. Igualmente deberá especificarse el número de personas que ocupan los puestos, haciendo el desglose por niveles. En el caso de servicios personales independientes, se deberá especificar el número de personas contratadas en cada tipo de servicio;
+
+c. Los ingresos a que se hace referencia son los netos de impuestos, incluyendo además, aquellos que se encuentran exentos del impuesto sobre la renta;
+
+V. Los gastos de representación, viáticos y todo tipo de erogaciones realizadas por los servidores públicos en ejercicio o con motivo de sus funciones;
+
+VI. El domicilio oficial, número telefónico y dirección electrónica de la Unidad de Acceso;
+
+VII. Los planes de desarrollo; los objetivos, metas y acciones contenidas en los programas operativos anuales;
+
+VIII. Los servicios que se ofrecen al público, así como los trámites, requisitos y formatos sugeridos para acceder a ellos y los derechos que deban pagarse;
+
+IX. El monto de los presupuestos asignados, los informes emitidos sobre su ejercicio y aplicación, dicha información será proporcionada y actualizada permanentemente por la Tesorería del Ayuntamiento;
+
+X. Los resultados de las auditorias al ejercicio presupuestal del Ayuntamiento que realicen los órganos de control que correspondan, y en su caso, las resoluciones que pongan fin al procedimiento de fiscalización;
+
+XI. Los informes que por disposición de la Ley, rinda el Presidente Municipal;
+
+XII. Las enajenaciones y otros actos jurídicos relacionados con bienes públicos, indicando los motivos, beneficiarios o adquirentes, así como los montos de las operaciones;
+
+XIII. Las reglas de operación, el padrón de beneficiarios, las sumas asignadas y los criterios de distribución y acceso para los programas de subsidios, apoyos, rescates financieros y otros que impliquen el traspaso u otorgamiento de recursos públicos a particulares, así como los resultados de las revisiones y auditorias practicadas en este rubro, tanto al Ayuntamiento como a los beneficiarios;
+
+XIV. Las convocatorias a los procedimientos administrativos de licitación pública, licitación restringida o simplificada, incluidos los contratos o pedidos resultantes, además, de elaborarse un listado con las ofertas económicas consideradas. En el caso de los procedimientos administrativos de licitación, los fallos emitidos deberán contener:
+
+a. Nombre o razón social del contratista o proveedor;
+
+b. Objeto y monto del contrato;
+
+c. Fundamento legal; y
+
+d. Vigencia del contrato.
+
+XV. El registro de licencias, permisos y autorizaciones otorgados, precisando:
+
+a. El titular del derecho otorgado;
+
+b. Naturaleza de la licencia, permiso o autorización;
+
+c. Fundamento legal;
+
+d. Vigencia; y
+
+e. Monto de los derechos pagados por el titular del derecho.
+
+XVI. El inventario de bienes inmuebles en propiedad o posesión del Ayuntamiento. Dicho inventario incluirá:
+
+a. Dirección de los inmuebles;
+
+b. Régimen de propiedad;
+
+c. Nombre, domicilio o razón social del arrendador o comodante, según sea el caso;
+
+d. Valor catastral; y
+
+e. Cualquier otro dato que se considere de interés público.
+
+XVII. La cuenta pública del Ayuntamiento, así como los documentos relativos; incluyendo el informe de resultados de su revisión y su dictamen;
+
+XVIII. El origen de fondos auxiliares especiales y la aplicación que se haya hecho de los ingresos correlativos;
+
+XIX. Los acuerdos concertados entre el Ayuntamiento y fundaciones y organizaciones de la sociedad civil;
+
+XX. Los convenios de coordinación celebrados con otras autoridades y los convenios de colaboración celebrados con particulares;
+
+XXI. Las actas, minutas y demás documentos de las sesiones públicas del Cabildo;
+
+XXII. La relación de las solicitudes de acceso a la información pública y las respuestas dadas;
+
+XXIII. Los anteproyectos de Reglamentos que elabore el Ayuntamiento, por lo menos 15 días hábiles antes de la fecha de su aprobación o entrada en vigor, a fin de considerar las opiniones de los ciudadanos interesados en la materia;
+
+XXIV. Las controversias Constitucionales planteadas por el Ayuntamiento, aquellas en las que se les hubiera demandado o en las que resulten terceros interesados;
+
+XXV. Los contratos, convenios y condiciones generales de trabajo que regulen las relaciones laborales del personal sindicalizado y de confianza que se encuentre adscrito al Ayuntamiento; así como el monto de las transferencias o apoyos económicos que se desprendan de lo anterior;
+
+XXVI. Los estados financieros del Ayuntamiento;
+
+XXVII. Los montos y nombres de las personas a quienes por cualquier motivo se entregue (sic) recursos públicos, así como los informes que dichas personas les entreguen sobre el uso y destino de dichos recursos; y
+
+XXVIII. Toda otra información que sea de utilidad o se considere relevante, además de la que con base en la información estadística, responda a las preguntas hechas con más frecuencia por el público.
 
 ###### Artículo 9.
 
-El Consejo estará integrado por miembros vinculados a las áreas de competencia de la Secretaría, los cuales serán designados por el Secretario, previo acuerdo con el titular del Ejecutivo.
+Se incluirá también, cualquier otro informe relacionado con el cumplimiento de las atribuciones que la Constitución, la Ley u otros ordenamientos encomienden al Ayuntamiento.
 
-Los representantes señalados en el párrafo anterior tendrán cargo honorífico y sesionará de acuerdo a los lineamientos que emitirá el propio Consejo.
-
-### CAPÍTULO CUARTO. DE LAS SUBSECRETARÍAS
+### CAPÍTULO I. De las Obligaciones del Ayuntamiento
 
 ###### Artículo 10.
 
-Al frente de cada Subsecretaría habrá un Subsecretario, quienes tendrán las siguientes atribuciones comunes, además de las señaladas en las disposiciones subsecuentes:
-
-I. Acordar con el Titular de la Secretaría el despacho de los asuntos encomendados a las unidades adscritas a su responsabilidad e informarle oportunamente sobre la atención de los mismos;
-
-II. Resolver los asuntos inherentes a su área de responsabilidad;
-
-III. Planear, programar, presupuestar, organizar, dirigir y evaluar el funcionamiento de la Subsecretaría, sus Direcciones y del personal que le sea adscrito;
-
-IV. Coordinarse con las demás áreas de la Secretaría, para obtener un mejor desempeño de sus funciones;
-
-V. Someter a la aprobación del Titular de la Secretaría, los estudios y proyectos que elaboren las unidades administrativas a su cargo;
-
-VI. Someter a la consideración del Titular de la Secretaría la formulación de proyectos o reformas de leyes, reglamentos, decretos, acuerdos y demás disposiciones, relacionados con los asuntos de su competencia;
-
-VII. Vigilar que se cumpla estrictamente con las disposiciones legales en todos los asuntos que le competan;
-
-VIII. Realizar estudios para el mejoramiento administrativo de las unidades a su cargo, así como proponer al Titular de la Secretaría su reorganización y medidas de simplificación administrativa;
-
-IX. Recibir, atender y hacer del conocimiento del Titular de la Secretaría, las quejas y denuncias que reciba sobre funcionarios adscritos a su Subsecretaría;
-
-X. Proporcionar la información, los datos o la cooperación técnica que le sean requeridos por otras dependencias del Ejecutivo Estatal, entidades auxiliares del mismo o por las unidades de la propia Secretaría, de acuerdo a las políticas establecidas por el Titular de la Secretaría;
-
-XI. Suscribir los documentos relativos al ejercicio de sus atribuciones y aquellos que le sean señalados por delegación o le correspondan por suplencia;
-
-XII. Desempeñar las funciones y comisiones que el Titular de la Secretaría le delegue manteniéndolo informado sobre el desarrollo de sus actividades;
-
-XIII. Administrar de acuerdo a la normatividad, el presupuesto de egresos asignado a su Subsecretaría ejerciéndolo con honradez y eficiencia;
-
-XIV. Participar, en el ámbito de su competencia y previo acuerdo del Titular de la Secretaría, en las comisiones, juntas, consejos y comités que se le señalen, manteniéndolo informado sobre el desarrollo de sus actividades;
-
-XV. Proponer al Titular de la Secretaría, la celebración de convenios con empresas u organismos nacionales e internacionales, para el debido cumplimiento de sus funciones, cuando en los mismos no se comprometan recursos;
-
-XVI. Cumplir y hacer cumplir, los acuerdos, políticas, lineamientos, órdenes e instrucciones que determine el Secretario, y
-
-XVII. Las demás atribuciones que les sean conferidas por las leyes, decretos, reglamentos, acuerdos, convenios, o directamente por el Titular de la Secretaría.
+En el caso de la información contenida en la declaración de situación patrimonial que los servidores públicos presenten en los términos de la ley de la materia, será publicada cuando los declarantes autoricen su divulgación.
 
 ###### Artículo 11.
 
-Al frente de cada Dirección habrá un Director, quienes tendrán las siguientes atribuciones comunes, además de las señaladas en las disposiciones subsecuentes:
-
-I. Resolver los asuntos inherentes a su área de responsabilidad de conformidad con los lineamientos establecidos por el Titular de la Secretaría y en su caso, por el subsecretario correspondiente;
-
-II. Desempeñar las funciones y comisiones que su superior jerárquico le encomiende, manteniéndolo informado sobre el desarrollo de sus actividades;
-
-III. Someter a la aprobación del superior jerárquico los estudios y proyectos que elaboren las áreas administrativas a su cargo;
-
-IV. Coordinarse con las demás áreas de la Secretaría para el mejor desempeño de sus funciones;
-
-V. Planear, programar, presupuestar, organizar, dirigir y controlar el funcionamiento de las áreas administrativas y del personal que le sea adscrito;
-
-VI. Dictar las medidas necesarias de mejoramiento administrativo en las áreas a su cargo y proponer a su superior jerárquico, la delegación en funcionarios subalternos, de facultades que tenga encomendadas;
-
-VII. Proporcionar la información, datos o cooperación técnica que les sean requeridos por otras dependencias del Ejecutivo Estatal, de acuerdo a las normas y políticas que hubiere expedido y señalado su superior jerárquico y de conformidad con la legislación vigente;
-
-VIII. Someter a consideración del Titular de la Secretaría o Subsecretario correspondiente para su aprobación, los acuerdos y resoluciones que llegaren a emitir en el ejercicio de las atribuciones encomendadas;
-
-IX. Participar y dar seguimiento a los proyectos de modernización y calidad que sean susceptibles de ser implementados en su área de responsabilidad;
-
-X. Proponer la simplificación de los procesos administrativos dentro de su área de responsabilidad para proporcionar un servicio ágil y eficiente, y
-
-XI. Las demás atribuciones y funciones que les sean conferidas por las leyes, decretos, reglamentos, acuerdos, convenios, o directamente por el Titular de la Secretaría o Subsecretario de su adscripción.
+La información deberá publicarse de tal forma que facilite su uso y comprensión por las personas, y permita asegurar su calidad, veracidad, oportunidad y confiabilidad.
 
 #### SECCIÓN PRIMERA. DE LA SUBSECRETARÍA DE INDUSTRIA, COMERCIO Y SERVICIOS
 
 ###### Artículo 12.
 
-La Subsecretaría de Industria, Comercio y Servicios tiene como objetivo fomentar la generación de empleos, mediante el apoyo a la creación e instalación de empresas y el desarrollo competitivo de las ya existentes, promoviendo la adopción de medidas de simplificación, impulso e incentivos de la actividad productiva; ejecutar y apoyar programas de investigación para el desarrollo tecnológico sustentable en los sectores productivos y crear sistemas de información y asesoría técnica, que contribuyan a elevar el nivel de vida de la población, contando para ello con las siguientes facultades:
-
-I. Formular y conducir las bases del Plan de Competitividad y Desarrollo Económico del Estado;
-
-II. Formular y conducir las políticas generales de industria, comercio interior, servicios, desarrollo tecnológico y calidad total, previo acuerdo con el Titular de la Secretaría;
-
-III. Promover la comercialización y distribución de bienes y servicios que se producen y ofrecen en el Estado;
-
-IV. Establecer previo acuerdo con el Titular de la Secretaría, las políticas de industrialización;
-
-V. Evaluar y proponer para su aplicación mediante reglas generales, conforme a las leyes y reglamentos de la materia, estímulos fiscales para el fomento industrial, el comercio, servicios y el desarrollo tecnológico, así como apoyar su aplicación;
-
-VI. Promover la industria minera e impulsar su desarrollo;
-
-VII. Promover apoyos institucionales a las empresas del Estado, de acuerdo a las leyes y reglamentos en la materia;
-
-VIII. Promover la organización de toda clase de sociedades mercantiles, en coordinación con las dependencias competentes de los sectores público, privado o social y apoyar el trámite expedito para su constitución;
-
-IX. Promover exposiciones, ferias y eventos que tengan como objetivo promocionar la industria, el comercio, los servicios, el desarrollo tecnológico, las artesanías, la minería, así como las empresas en el Estado;
-
-X. Fomentar el apoyo a las cadenas productivas mediante la creación e impulso de programas de desarrollo de proveedores con el objeto de incrementar el contenido nacional y estatal del consumo de los productos manufacturados en el Estado;
-
-XI. Promover programas que fortalezcan la comercialización de productos fabricados en el Estado;
-
-XII. Conducir, aprobar, coordinar y vigilar las actividades de las empresas de participación estatal y fideicomisos públicos que le hayan sido sectorizadas para tal efecto a la Subsecretaría, a través de la Secretaría;
-
-XIII. Gestionar financiamientos ante diferentes órganos en apoyo al desarrollo tecnológico de las empresas en el Estado;
-
-XIV. Promover la vinculación de las actividades del gobierno, industria y academia para lograr un desarrollo tecnológico competitivo y continuo;
-
-XV. Asesorar a los sectores privado y social en el establecimiento de nuevas industrias y en la modernización de las existentes; así como facilitar sus trámites ante los organismos del sector público;
-
-XVI. Proponer bases y mecanismos de coordinación y asociatividad entre los diferentes actores del desarrollo económico, con el fin de impulsar proyectos a corto, mediano y largo plazo;
-
-XVII. Impulsar el desarrollo económico del Estado considerando sus ventajas competitivas, sean éstas de carácter comercial, artesanal, industrial, de servicios o de cualquier otra índole, y
-
-XVIII. Las que le sean conferidas por leyes, reglamentos, acuerdos, decretos, convenios, o directamente por el Titular de la Secretaría.
+La información referente a las obligaciones de transparencia que se señalan en el artículo 8 de este Reglamento, será puesta a disposición de los particulares por cualquier medio que facilite su acceso, dando preferencia al uso de sistemas computacionales y las nuevas tecnologías de la información.
 
 ###### Artículo 13.
 
-Para el cumplimiento de las funciones que le son encomendadas, a la Subsecretaría de Industria, Comercio y Servicios le estarán adscritas las siguientes Direcciones:
+Para el cumplimiento de las obligaciones de transparencia, el Ayuntamiento se ajustará a lo siguiente:
 
-I. Dirección de Fomento Industrial y Competitividad;
+I. La Unidad de Acceso será la encargada y responsable de conducir, facilitar y orientar a los particulares para consultar la información pública;
 
-II. Dirección de Fomento a las Empresas de la Nueva Economía; y
+II. Cuando sea el caso, la información deberá estar contenida en un link denominado portal de transparencia, que estará visible en la página principal del sitio de internet del Ayuntamiento, indicando su fecha de actualización y contendrá un vínculo al sitio de internet del Instituto;
 
-III. Dirección de Atención a la Planta Productiva.
+III. La información deberá presentarse de tal forma que facilite su uso y comprensión por parte de los interesados;
 
-Así como por las coordinaciones que por acuerdo del Titular de la Secretaría le sean adscritas, con las facultades que los propios acuerdos les confieran.
+IV. El portal de transparencia deberá contener la dirección electrónica, el domicilio oficial para recibir correspondencia o solicitudes de acceso, horario y números telefónicos de la Unidad de Acceso, así como del responsable del portal;
+
+V. La unidad de acceso, deberá contar con el espacio físico adecuado y con personal capacitado para atender al público; contar con equipo de cómputo o módulo con acceso a internet suficiente para que los particulares puedan consultar o incluso imprimir, previo pago de los costos de reproducción, la información que se encuentre publicada en el sitio correspondiente del Ayuntamiento. Para el cumplimiento de esta disposición, el Ayuntamiento deberá prever en su proyecto de presupuesto las partidas que resulten necesarias;
+
+VI. El diseño, operación y soporte técnico del portal de transparencia será responsabilidad del área de soporte técnico de informática del Ayuntamiento.
 
 ###### Artículo 14.
 
-La Dirección de Fomento Industrial y Competitividad tiene como objetivo promover acciones dirigidas a mejorar la competitividad de las empresas para generar su crecimiento e incrementar su presencia en el sector industrial del Estado, impulsando el establecimiento y desarrollo de parques industriales y apoyando y promoviendo las iniciativas de inversión y proyectos viables, contando para ello con las siguientes facultades:
+Para la publicación y actualización de la información pública señalada en el artículo 8 de este Reglamento, se observarán los Lineamientos que para tal efecto determinó el Instituto publicados en la Gaceta Oficial del Estado de Veracruz de Ignacio de la Llave de fecha 18 de Diciembre de 2007, así como a los Lineamientos que el mismo Instituto determine posteriormente.
 
-I. Apoyar, fomentar e integrar las empresas con las cadenas productivas de los sectores industriales;
-
-II. Promover el desarrollo de proveedores y subcontratación con las grandes Empresas nacionales y extranjeras, con el propósito de abastecer productos nacionales;
-
-III. Promover y coordinar las actividades de los encuentros empresariales que se realizan para vincular a los proveedores de la región con la empresa multinacional, sea nacional o extranjera;
-
-IV. Promover y organizar exposiciones o ferias de proveedores de todos los sectores industriales en México para promover la industria y el comercio de la entidad;
-
-V. Promover y coordinar la creación de programas de desarrollo de proveedores en las empresas, a fin de utilizar la capacidad de las empresas del Estado, facilitando enlaces de subcontratación para proyectos de inversión en empresas ya existentes;
-
-VI. Crear y fomentar el desarrollo de nuevas agrupaciones y de cadenas productivas, así como consolidar las existentes, mediante acciones conjuntas con empresarios, academia y las dependencias y organismos gubernamentales, desarrollando estrategias de planeación para sectores claves;
-
-VII. Proponer y gestionar estímulos fiscales para el fomento industrial y la competitividad en el Estado;
-
-VIII. Fomentar y propiciar el establecimiento de parques industriales y tecnológicos en polos de desarrollo socioeconómico en el Estado;
-
-IX. Mantener y promocionar los parques industriales propiedad del Gobierno del Estado de Nuevo León;
-
-X. Asesorar a los inversionistas nacionales y extranjeros en la localización del sitio para su instalación, ya sea dentro o fuera de algún parque industrial, así como el municipio más propicio para su inversión, según sus necesidades de insumos y servicios;
-
-XI. Apoyar a las empresas en la solución de problemas ante distintas dependencias municipales, estatales y federales;
-
-XII. Propiciar el buen funcionamiento y desarrollo de infraestructura dentro de los parques industriales propiedad del Gobierno del Estado de Nuevo León;
-
-XIII. Vigilar que los adquirentes de lotes de terreno en los parques industriales del Estado, cumplan con las obligaciones adquiridas en el contrato respectivo;
-
-XIV. Mantener actualizada, así como difundir la información de la actividad industrial, comercial, de servicios, tecnológica, artesanal y minera del Estado;
-
-XV. Informar, gestionar y brindar asistencia técnica para proyectos de empresas medianas y grandes;
-
-XVI. Promover y convertirse en el punto de enlace entre las medianas y grandes empresas nacionales y extranjeras con los organismos y dependencias, a través de la asesoría y gestión en todos los trámites inherentes al inicio de operaciones, y
-
-XVII. Apoyar a las empresas del Estado en la búsqueda de canales de comercialización.
+## TÍTULO TERCERO. DE LA UNIDAD DE ACCESO
 
 ###### Artículo 15.
 
-La Dirección de Fomento a las Empresas de la Nueva Economía tiene como objetivo impulsar el desarrollo de una cultura de calidad, innovación, inventiva, diseño y creatividad, aplicada en el Estado de Nuevo León con el propósito de elevar la competitividad empresarial en los mercados, siendo sus facultades las siguientes:
-
-I. Elaborar estudios sobre la economía del conocimiento y definir las líneas estratégicas de acción, creando un sistema de información que lo fomente y estimule;
-
-II. Impulsar programas y proyectos relacionados con el establecimiento de empresas basadas en el conocimiento;
-
-III. Apoyar el fideicomiso de fondo mixto Consejo Nacional de Ciencia y Tecnología (CONACYT);
-
-IV. Impulsar la creación de parques tecnológicos vinculados a centros de investigación para el desarrollo de empresas de la nueva economía;
-
-V. Vincular las actividades del gobierno, industria y academia para lograr un desarrollo tecnológico superior en las empresas del Estado;
-
-VI. Gestionar los recursos financieros y desarrollo de incentivos para el establecimiento de zonas de desarrollo tecnológico y de empresas del conocimiento;
-
-VII. Promover y gestionar ante la autoridad federal la creación de nuevos centros de investigación y desarrollo;
-
-VIII. Planear, administrar y coordinar el proceso del Premio Nuevo León a la Competitividad, el Premio TECNOS Nuevo León y otros similares en el Estado;
-
-IX. Diseñar e implementar estrategias de promoción y difusión del uso del modelo de Premio Nuevo León a la Competitividad y del Premio TECNOS Nuevo León, como sistema de evaluación y mejora continua en las organizaciones, y
-
-X. Vincular las actividades estatales relacionadas con la innovación tecnológica y la nueva economía, con las políticas y lineamientos de los consejos y organismos altamente reconocidos con objeto similar.
+La Unidad de Acceso será la instancia administrativa del Ayuntamiento, encargada de la recepción de las peticiones de información y de su trámite, conforme a la Ley y este Reglamento y será el vínculo con los particulares para el ejercicio del derecho de acceso a la información.
 
 ###### Artículo 16.
 
-La Dirección de Atención a la Planta Productiva tiene como objetivo desarrollar la planeación estratégica y operativa de proyectos y programas de la subsecretaria, de acuerdo al Plan Estatal de Desarrollo; asesoría, gestoría y mejora regulatoria con el objeto de facilitar la operación de las empresas, fortaleciendo la generación de empleos, contando para ello con las siguientes facultades:
-
-I. Buscar estrategias de promoción y difusión de servicios a los clientes potenciales;
-
-II. Coordinar con los presidentes municipales y otras instituciones la simplificación administrativa en trámites empresariales;
-
-III. Promover y publicitar la creación de instrumentos financieros tendientes a brindar apoyo a los sectores industrial, comercial y de servicios radicados en el Estado;
-
-IV. Promover y fomentar la coordinación de las dependencias y organismos de los sectores público y privado para fortalecer, ampliar y consolidar la planta productiva para el desarrollo económico del Estado;
-
-V. Promover convenios de participación y coordinación entre el sector público y privado para llevar a cabo acciones que permitan potencializar los recursos gubernamentales para el desarrollo, mantenimiento y fortalecimiento empresarial;
-
-VI. Promover y coadyuvar dentro del ámbito de su competencia, para la celebración de convenios y acuerdos tendientes a alcanzar la simplificación administrativa y la mejora regulatoria del marco jurídico de la entidad;
-
-VII. Fungir como enlace entre los empresarios de la entidad con los organismos y dependencias de la administración pública municipal, estatal y federal, a través de la asesoría y gestión en los trámites inherentes al desempeño de sus labores;
-
-VIII. Promover y coadyuvar al registro de trámites empresariales, en coordinación con otras dependencias de la administración pública del Estado y de la federación, así como con aquellos organismos del sector público y privado que ameriten participar, y
-
-IX. Promover la capacitación técnica a empresarios.
+La Unidad de Acceso dependerá directamente del Presidente Municipal, por lo que así se reflejará en el organigrama del Ayuntamiento.
 
 #### SECCIÓN SEGUNDA. DE LA SUBSECRETARÍA DE INVERSIÓN EXTRANJERA Y COMERCIO INTERNACIONAL
 
 ###### Artículo 17.
 
-La Subsecretaría de Inversión Extranjera y Comercio Internacional tiene como objetivo fomentar, en los términos de las leyes de la materia, la inversión nacional y la extranjera, las co-inversiones y la instalación de empresas dedicadas a la maquila; así como la creación y la participación de empresas en la actividad exportadora, a fin de fortalecer una cultura empresarial orientada al comercio exterior, contando para ello con las siguientes facultades:
-
-I. Fomentar la exportación, importación y la creación de alianzas estratégicas, a fin de fortalecer una cultura empresarial orientada al comercio exterior;
-
-II. Atraer inversiones extranjeras en aquellos sectores económicos que generen empleos mejor remunerados;
-
-III. Promover e impulsar las relaciones económicas internacionales del Estado;
-
-IV. Fomentar y promover el comercio exterior del Estado;
-
-V. Determinar y proponer estrategias sectoriales de desarrollo internacional para ser integradas al Plan Estatal de Desarrollo;
-
-VI. Fomentar la creación de empresas integradoras de comercialización para exportar, como medio para fomentar la integración de oferta exportable de las empresas del Estado;
-
-VII. Coadyuvar con las empresas para brindarles la información y asesoría necesaria para llevar a cabo la exportación de sus productos y servicios;
-
-VIII. Fomentar las alianzas de empresarios del Estado con extranjeros, como un medio para impulsar el crecimiento del Estado, y
-
-IX. Las que le sean conferidas por leyes, reglamentos, acuerdos, decretos, convenios, o directamente por el Titular de la Secretaría.
+El Titular de la Unidad de Acceso será propuesto por el Presidente Municipal con nivel mínimo de Jefe de departamento y será nombrado en Sesión de Cabildo y por mayoría de votos de sus integrantes.
 
 ###### Artículo 18.
 
-Para el cumplimiento de las funciones encomendadas, la Subsecretaría de Inversión Extranjera y Comercio Internacional, contará con las siguientes Direcciones:
-
-I. Dirección de Fomento a la Inversión Extranjera, y
-
-II. Dirección de Fomento al Comercio Exterior.
-
-Así como por las coordinaciones que por acuerdo del Titular de la Secretaría le sean adscritas, con las facultades que los propios acuerdos les confieran.
+Para el funcionamiento de la Unidad de Acceso se requiere que el perfil con el que deberá contar el Titular de la Unidad es el de Licenciado en Derecho con título y cédula profesional expedidos por autoridades o instituciones legalmente facultadas para ello.
 
 ###### Artículo 19.
 
-La Dirección de Fomento a la Inversión Extranjera tendrá como objetivo promover al Estado a nivel internacional, dando a conocer sus ventajas competitivas, contando para ello con las siguientes facultades:
+La Unidad de Acceso estará integrada por:
 
-I. Organizar y patrocinar exposiciones y toda clase de eventos que sirvan para promover las empresas de nuestro Estado a nivel internacional;
+I. El Titular;
 
-II. Desarrollar y promover directorios, folletos, bancos de información, videos, conferencias, estudios sectoriales y demás instrumentos promocionales a fin de difundir las ventajas competitivas del Estado para la atracción de inversión extranjera;
-
-III. Promover la participación y facilitar la integración regional y sectorial, con mayor potencial en el Estado de acuerdo a los Tratados de Libre Comercio;
-
-IV. Promover la celebración de convenios y acuerdos de entendimiento internacionales para la promoción del comercio, servicios y tecnología;
-
-V. Cuantificar los indicadores básicos de la inversión extranjera;
-
-VI. Asesorar y brindar apoyo para el análisis de factibilidad de proyectos de inversión;
-
-VII. Dar seguimiento y apoyo a necesidades generales y particulares de los proyectos presentados por inversionistas;
-
-VIII. Dirigir las actividades de promoción de la inversión extranjera directa;
-
-IX. Atraer la inversión extranjera en los sectores productivos que representen mayor beneficio para el Estado, realizando para ello exposiciones y participando en eventos internacionales, y
-
-X. Promover en el país y en el extranjero las ventajas competitivas y las oportunidades de inversión en el Estado a fin de incrementar la inversión extranjera con énfasis en sectores de alta tecnología.
+II. Los servidores públicos que resulten necesarios.
 
 ###### Artículo 20.
 
-La Dirección de Fomento al Comercio Exterior tendrá como objetivo desarrollar el potencial exportador del Estado, fomentando la exportación directa e indirecta, las alianzas estratégicas, la capacitación y el desarrollo de la cultura exportadora de las empresas, contando para ello con las siguientes facultades:
-
-I. Llevar a cabo reuniones con funcionarios, empresarios y organismos del sector, con el fin de solucionar los problemas inmediatos y estructurarles que entorpecen el comercio exterior;
-
-II. Planear estrategias de apoyo a las empresas exportadoras;
-
-III. Promover la implementación de políticas, lineamientos y normas de comercio internacional, para que sean acordes con las circunstancias económicas del Estado;
-
-IV. Ejecutar, controlar y evaluar planes y programas de apoyo a las empresas exportadoras;
-
-V. Identificar y organizar a grupos de empresas medianas y pequeñas de los diversos sectores económicos de la entidad, con el fin de fomentar una oferta exportable de dimensión y calidad competitiva en el ámbito mundial;
-
-VI. Apoyar a través de seminarios y eventos, la formación y actualización de los recursos humanos en el área de comercio exterior para las empresas del Estado;
-
-VII. Promover oportunidades comerciales en empresas del extranjero a productos fabricados en la entidad, así como llevar a cabo la difusión internacional de la oferta exportable individual de empresas del Estado;
-
-VIII. Organizar misiones comerciales de empresas del Estado a países seleccionados;
-
-IX. Organizar pabellones en ferias internacionales, contando con la participación de empresas de la entidad;
-
-X. Promocionar el padrón de subcontratistas con calidad y competitividad internacional de las empresas del Estado y establecer contactos con otras bolsas de subcontratación en el ámbito mundial, y
-
-XI. Coordinar con organismos federales, municipales, del sector privado, universidades y entidades paraestatales, la realización de promociones efectivas y convenientes para Nuevo León.
+El Presidente Municipal podrá designar a los servidores públicos habilitados que considere convenientes para el cumplimiento de la Ley y este Reglamento.
 
 #### SECCIÓN TERCERA. DE LA SUBSECRETARÍA DE DESARROLLO REGIONAL
 
 ###### Artículo 21.
 
-La Subsecretaría de Desarrollo Regional tiene como objetivo, promocionar, apoyar e impulsar el desarrollo económico permitiendo afrontar los retos de empleo y bienestar de la población, atendiendo la vocación y el desarrollo competitivo en todas las regiones del Estado, para explotar su potencial económico y humano, y fomentar la creación, instalación y desarrollo de empresas, impulsando su competitividad mediante la asesoría empresarial, gestoría y capacitación, contando para ello con las siguientes facultades:
+Son atribuciones de la Unidad de Acceso:
 
-I. Dar trámite a las peticiones que realicen con incidencia en el ámbito regional, dirigidas al Secretario a través de esta subsecretaría;
+I. Recabar y difundir la información de oficio a que se refiere la Ley y el presente Reglamento;
 
-II. Fomentar y apoyar la creación de una planeación estratégica municipal a través de la vinculación de los diferentes actores económicos;
+II. Recibir y tramitar dentro del plazo establecido en la Ley y el presente Reglamento, las solicitudes de acceso a la información pública;
 
-III. Promover proyectos de inversión que tengan por objeto fomentar y propiciar el desarrollo regional del Estado e impulsar el desarrollo de actividades agropecuarias, forestales, de la fauna, pesca y de la empresa rural;
+III. Entregar o negar la información requerida, fundando y motivando su resolución en los términos de la Ley y el presente Reglamento;
 
-IV. Establecer mecanismos de comunicación y coordinación con entidades municipales, así como con instituciones de los sectores público y privado, para coordinar las actividades enfocadas al desarrollo económico de las regiones;
+IV. Aplicar los acuerdos que clasifiquen la información como reservada o confidencial;
 
-V. Impulsar a las organizaciones de productores, creando condiciones propicias para el fortalecimiento municipal y la vinculación armónica con las diferentes entidades oficiales que participan en el sector, y
+V. Elaborar el catálogo de la información o de los expedientes clasificados como reservados;
 
-VI. Las que le sean conferidas por leyes, reglamentos, acuerdos, decretos, convenios, o directamente por el Titular de la Secretaría.
+VI. Diseñar procedimientos que faciliten la tramitación y adecuada atención a las solicitudes de acceso a la información pública;
+
+VII. Aplicar los criterios y Lineamientos prescritos por la Ley y el Instituto en materia de ordenamiento, manejo, clasificación y conservación de los documentos, registros y archivos;
+
+VIII. Preparar, conforme a los Lineamientos del Instituto, los formatos sugeridos para las solicitudes de acceso a la información pública, así como para la corrección de datos estrictamente personales;
+
+IX. Realizar los trámites internos necesarios para localizar y entregar la información pública requerida;
+
+X. Auxiliar a los particulares en la elaboración de las solicitudes de información, principalmente en los casos en que éstos no sepan leer ni escribir o en el caso de las personas con capacidades diferentes que así lo soliciten, así como orientar a los particulares sobre otros sujetos obligados que pudieran poseer la información pública que solicitan y de la que no se dispone;
+
+XI. Llevar un registro de las solicitudes de acceso a la información pública, sus resultados y los costos de atención de este servicio, así como los tiempos observados para las respuestas;
+
+XII. Difundir entre los servidores públicos los beneficios que conlleva divulgar la información pública, los deberes que deban asumirse para su buen uso y conservación, y las responsabilidades que traería consigo la inobservancia de la Ley y este Reglamento y las disposiciones legales aplicables;
+
+XIII. Elaborar semestralmente y por rubros temáticos, un índice de la información o de los expedientes clasificados como reservados. Dicha relación mencionará la unidad administrativa generadora o poseedora de la información pública, la fecha de su clasificación como reservada y el plazo de reserva acordado. En ningún caso ese índice será considerado como información reservada.
+
+XIV. Las demás necesarias para garantizar y agilizar el flujo de información entre el Ayuntamiento y los particulares.
+
+### CAPÍTULO IV. De las Atribuciones del Titular de la Unidad de Acceso
 
 ###### Artículo 22.
 
-Para el cumplimiento de las funciones encomendadas, la Subsecretaría de Desarrollo Regional, contará con las siguientes Direcciones:
+El Titular de la Unidad de Acceso además de las atribuciones que la Ley le establece, tendrá las siguientes:
 
-I. Dirección de Planeación de Programas y Proyectos,
+I. Supervisar que se realicen los trámites internos necesarios para entregar la información solicitada;
 
-II. Dirección de Promotora de Desarrollo Rural de Nuevo León, y
+II. Recopilar la información a que se refiere el artículo 8 de la Ley, controlando su calidad, veracidad, oportunidad, confiabilidad y demás principios que se establezcan en los Lineamientos correspondientes, y;
 
-III. Dirección de Fideicomisos y Atención a Municipios.
+III. Elaborar los manuales de organización y procedimientos de la Unidad de Acceso a su cargo.
 
-Así como por las coordinaciones que por acuerdo del Titular de la Secretaría le sean adscritas, con las facultades que los propios acuerdos les confieran.
+IV. El Titular de la Unidad de Acceso dispondrá de las medidas necesarias para la correcta aplicación de los recursos humanos, materiales y financieros, que en su caso le sean asignados de conformidad con la normatividad aplicable.
+
+### CAPÍTULO V. De la Suplencia
 
 ###### Artículo 23.
 
-La Dirección de Planeación de Programas y Proyectos tendrá como objetivo la planeación estratégica de los diversos programas y proyectos económicos generados para el crecimiento de las diferentes regiones del Estado, contando para ello con las siguientes facultades:
+En caso de la ausencia del Titular de la Unidad de Acceso, ésta será suplida por un servidor público adscrito a dicha Unidad.
 
-I. Coordinar una planeación estratégica municipal a través de la vinculación de los diferentes actores económicos;
-
-II. Apoyar y fortalecer los proyectos estratégicos municipales;
-
-III. Vincular, canalizar y dar seguimiento a las diferentes propuestas y proyectos que sean presentados para su atención, y
-
-IV. Impulsar dentro del ámbito de su competencia, el desarrollo económico de los Municipios del Estado considerando sus ventajas competitivas, sean éstas de carácter industrial, comercial, artesanal, de servicios, o de cualquier otra índole.
+### CAPÍTULO VI. De la Obligatoriedad y los Informes
 
 ###### Artículo 24.
 
-La Dirección de Promotora de Desarrollo Rural de Nuevo León tendrá como objetivo coadyuvar al incremento de la producción y la productividad del área rural del Estado de Nuevo León, a través de servicios de maquinaria con programas de apoyo a productores, así como al sector social y Municipios del Estado, contando para ello con las siguientes facultades:
-
-I. Atender a los organismos que incidan en el sector agropecuario, con especial énfasis en los siguientes servicios:
-
-a. Rehabilitación de praderas y agostaderos,
-
-b. Construcción de bordos para evitar la erosión,
-
-c. Construcción de presas y tajos para el almacenamiento de aguas,
-
-d. Construcción y rehabilitación de caminos y brechas para facilitar el manejo interno de las explotaciones y la comercialización de los productores del campo, y
-
-e. Perforación de pozos para la extracción de agua.
+Con el propósito de generar una coordinación efectiva al interior del Ayuntamiento, el Presidente Municipal determinará la obligatoriedad de las áreas o unidades administrativas, oficinas, delegaciones, representaciones o sus equivalentes, de coadyuvar con la Unidad de Acceso para el cumplimiento de los fines de la Ley y este Reglamento.
 
 ###### Artículo 25.
 
-La Dirección de Fideicomisos y Atención a Municipios tendrá como objetivo promover, gestionar y generar inversión pública y privada, otorgando apoyos a proyectos que tengan un impacto regional, impulsen la generación de empleos, incidan en el mejoramiento de la productividad y competitividad y contribuyan al desarrollo económico, social y al mejoramiento ambiental, contando para ello con las siguientes facultades:
+El Ayuntamiento, por conducto de la Unidad de Acceso remitirá al Instituto a mas tardar en los meses de enero y julio de cada año, un informe semestral de las actividades que realice la Unidad de Acceso, relativas a la información sobre el registro de las solicitudes de acceso a la información pública, sus resultados y los costos de atención de este servicio, así como los tiempos observados para las respuestas.
 
-I. Asegurar la correcta operación de los proyectos que le sean asignados;
-
-II. Establecer los vínculos necesarios entre la ciudadanía y los tres órdenes de gobierno, a fin de facilitar la implementación de los diferentes programas de apoyo;
-
-III. Proporcionar apoyos para el fomento y el desarrollo de actividades que incidan en el objetivo de combatir la pobreza y contribuyan al desarrollo integral de los Municipios del Estado;
-
-IV. Coordinar y generar los proyectos específicos que se llevarán a cabo con los Municipios del Estado;
-
-V. Atender las solicitudes específicas de apoyo que coadyuven al crecimiento económico de las diversas regiones del Estado;
-
-VI. Fomentar la creación y el fortalecimiento de las fuentes de trabajo en el Estado, a través del otorgamiento de apoyos crediticios a los empresarios de la entidad, y
-
-VII. Consolidar, apoyar y fortalecer los proyectos estratégicos municipales, a través de la eficiencia en el uso y aplicación de los recursos de los diferentes programas estatales y federales.
-
-### CAPÍTULO QUINTO. DE LOS ORGANOS DE APOYO
+### CAPÍTULO I. Objeto de la Unidad
 
 ###### Artículo 26.
 
-Los órganos de apoyo de la Secretaría de Desarrollo Económico, son áreas especializadas y responsables en los ámbitos de competencia que señala este Reglamento. Dependen orgánicamente de la Secretaría de Desarrollo Económico, teniendo como finalidad apoyar a todos los órganos de la propia Secretaría en el cumplimiento de sus atribuciones y sus funciones en general.
+Enviar cada seis meses al Instituto, a más tardar en los meses de enero y de julio, el índice de la información o los expedientes clasificados como reservados y contendrán todos los acuerdos emitidos durante el semestre inmediato anterior por el Comité.
+
+## TÍTULO CUARTO. DE LOS ARCHIVOS PÚBLICOS
+
+### CAPÍTULO I. Del Manejo de los Archivos
 
 #### SECCIÓN PRIMERA. DE LA SECRETARÍA TÉCNICA Y FOMENTO AL FINANCIAMIENTO
 
 ###### Artículo 27.
 
-La Secretaría Técnica y Fomento al Financiamiento, tiene como objetivo realizar la implementación de sistemas de planeación y seguimiento, calidad y mejora continua; ser el enlace en comités y grupos de trabajo interinstitucionales; proporcionar servicios de estudios económicos y estratégicos para las acciones de la dependencia; así como establecer mecanismos de promoción y difusión de los factores que contribuyen al desarrollo económico del Estado; a su vez promover y fomentar el financiamiento de los programas y proyectos de la administración estatal, contando para ello con las siguientes facultades:
+El Ayuntamiento, de conformidad con las disposiciones aplicables, deberá asegurar el manejo adecuado de los archivos, mediante la capacitación constante de los servidores públicos involucrados en la prestación de los servicios relacionados con el derecho de acceso a la información. Asimismo, deberá elaborar y poner a disposición del público una guía simple de sus sistemas de clasificación y catalogación, así como de la organización del archivo.
 
-I. Acordar con el Titular de la Secretaría el despacho de los asuntos encomendados a su responsabilidad e informarle oportunamente sobre la atención de los mismos;
+## TÍTULO QUINTO. DE LOS PROCEDIMIENTOS DE ACCESO A LA INFORMACIÓN PÚBLICA
 
-II. Formular recomendaciones a los titulares de las dependencias o entidades para el debido cumplimiento de los acuerdos, lineamientos, órdenes, instrucciones y demás determinaciones que emita el Secretario;
-
-III. Proponer una simplificación administrativa y jurídica que facilite la inversión pública, privada o la combinación de ambas en el Estado;
-
-IV. Dirigir e implementar un sistema de planeación estratégica en la Secretaría de Desarrollo Económico, de conformidad a la normatividad aplicable;
-
-V. Coordinar y supervisar el desarrollo e implementación del sistema de evaluación y seguimiento de programas y proyectos de la Secretaría de Desarrollo Económico;
-
-VI. Dirigir e implementar un sistema de calidad total y mejora continua en la Secretaría de Desarrollo Económico;
-
-VII. Planear y dar seguimiento a los programas de estudios estratégicos para el desarrollo de los sectores primordiales de la economía estatal;
-
-VIII. Establecer los mecanismos para el enlace interinstitucional para efectos de planeación y seguimiento de programas y proyectos de la Secretaría de Desarrollo Económico;
-
-IX. Coordinar la elaboración de los informes que corresponda presentar a la Secretaría como seguimiento del Plan Estatal de Desarrollo y de los programas que de él deriven;
-
-X. Proporcionar la información, los datos o la cooperación técnica que le sean requeridos por otras dependencias del Ejecutivo Estatal, entidades auxiliares del mismo o por las unidades de la propia Secretaría, de acuerdo a las políticas establecidas por el Titular de la Secretaría;
-
-XI. Apoyar al Titular de la Secretaría en la coordinación de los trabajos del gabinete funcional para la competitividad económica y desarrollo regional, creado por acuerdo del Titular del Ejecutivo del Estado;
-
-XII. Coordinar la elaboración, implementación y evaluación de la agenda estratégica de la Secretaría, así como la difusión de los programas, proyectos y resultados de su gestión;
-
-XIII. Mantener e implementar una infraestructura que sustente todo tipo de necesidad informática en la Secretaría, así como proponer y desarrollar sistemas con tecnología de punta para proporcionar información oportuna y veraz a las unidades administrativas de la Secretaría, así como dar cumplimiento a la Ley de Transparencia y Acceso a la Información Pública respecto al portal de internet de la Secretaría;
-
-XIV. Proponer al Titular de la Secretaría la formulación de proyectos o reformas de leyes, reglamentos, decretos, acuerdos y demás disposiciones relacionados con los asuntos de la competencia de la Secretaría, y
-
-XV. Las que le sean conferidas por leyes, reglamentos, acuerdos, decretos, convenios, o directamente por el Titular de la Secretaría.
+### CAPÍTULO I. Del Procedimiento de Acceso a la Información
 
 ###### Artículo 28.
 
-Para el cumplimiento de las funciones que le son encomendadas, la Secretaría Técnica y Fomento al Financiamiento contará con las siguientes Direcciones:
-
-I. Dirección de Planeación y Gestión, y
-
-II. Dirección de Fomento al Financiamiento.
-
-Así como por las coordinaciones que por acuerdo del Titular de la Secretaría le sean adscritas, con las facultades que los propios acuerdos le confieran.
+Cualquier persona, directamente o a través de su representante legal, podrá ejercer su derecho de acceso a la información ante el Ayuntamiento a través de la Unidad de Acceso.
 
 ###### Artículo 29.
 
-La Dirección de Planeación y Gestión tiene como objetivo, consolidar los estudios estratégicos para el desarrollo económico a fin de apoyar a la Secretaría en el diseño de políticas internas y públicas, efectivas para la promoción del crecimiento sostenible y en la planeación de la actividad económica en el Estado, contando para ello con las siguientes facultades:
+La solicitud se hará mediante escrito libre o en los formatos diseñados por el Instituto, que deberá contener:
 
-I. Realizar estudios sectoriales vinculados con el desarrollo económico de la entidad, y cuyo objeto es la determinación de políticas y líneas de acción que coadyuven al desarrollo de sectores primordiales en la economía estatal;
+I. Nombre del solicitante, domicilio para recibir notificaciones o, en su caso, correo electrónico;
 
-II. Implementar el sistema de calidad y mejora continua;
+II. La descripción de los documentos o registros, en los que se supone pueda localizarse la información solicitada;
 
-III. Asistir a reuniones estatales y nacionales a fin de homologar, normalizar y agilizar el flujo de información en materia de competitividad, competencia, economía, políticas institucionales, desregulación y las demás que determine el Secretario;
+III. Cualquier otro dato que, a juicio del requirente, facilite la ubicación de la información; y
 
-IV. Dar seguimiento continuo al desempeño económico del Estado y de sus principales sectores de actividad, a fin de proyectar tendencias previsibles y seguir alternativas de estímulo;
-
-V. Analizar los determinantes del crecimiento especial del Estado, evaluando alternativas para promover un desarrollo regional balanceado;
-
-VI. Analizar los factores de atracción y rechazo en las decisiones de localización de la inversión, a fin de promover y difundir políticas efectivas de estímulo a la inversión;
-
-VII. Concentrar estadísticas relacionadas con el desempeño de las actividades económicas del Estado, que permitan a la administración pública estatal, planear y establecer estrategias y políticas de desarrollo; estableciendo un sistema de información socioeconómica, geográfica y catastral para apoyar la toma de decisiones del sector productivo; generando, validando, analizando y difundiendo la información sobre la actividad económica del Estado, por municipios y sectores económicos;
-
-VIII. Realizar estudios a petición del Titular de la Secretaría, vinculados con diferentes aspectos del desarrollo económico;
-
-IX. Coordinar, dentro del ámbito de competencia de la Secretaría, las mesas de trabajo de la Delegación de Nuevo León que asista a la Conferencia Internacional de Gobernadores Fronterizos, así como organizar las reuniones, cuando Nuevo León las presida;
-
-X. Apoyar en la realización de eventos, a las unidades administrativas de la Secretaría, para el cumplimiento de sus objetivos;
-
-XI. Difundir los programas de apoyo de la Secretaría, en los sectores específicos;
-
-XII. Elaborar el material informativo necesario para los programas y proyectos de las unidades administrativas de la Secretaría, y
-
-XIII. Difundir los programas de la Secretaría de Desarrollo Económico en los niveles municipal, estatal, regional, nacional e internacional, para fomentar la calidad y competitividad en los sectores y actividades productivas del Estado.
+IV. Opcionalmente, la modalidad en que se prefiera se proporcione la información, la cual podrá ser verbal siempre y cuando sea para los fines de orientación mediante consulta directa, copias simples, certificadas, u otro tipo de medio. La información se entregará en el formato en que se encuentre.
 
 ###### Artículo 30.
 
-La Dirección de Fomento al Financiamiento, tiene como objetivo promover y fomentar el financiamiento de los programas y proyectos de la administración estatal y municipal, a través de una metodología que les permita ser susceptibles a recibir recursos federales, internacionales o de la iniciativa privada, contando para ello con las siguientes facultades:
-
-I. Desarrollar, dirigir y coordinar los estudios, investigaciones y análisis que considere necesarios para la realización de los programas y proyectos;
-
-II. Llevar a cabo la evaluación de factibilidad de proyectos de inversión con el fin de gestionar financiamiento o apoyo financiero a los mismos;
-
-III. Establecer un sistema de redes de información multidimensional de los programas y proyectos factibles de recibir apoyo;
-
-IV. Identificar las metodologías para la integración de los programas y proyectos en base a la normatividad aplicable en cada caso;
-
-V. Gestionar en conjunto con las entidades estatales y los municipios los recursos asignables a cada programa y proyecto;
-
-VI. Desarrollar una metodología de administración de proyectos que posibilite su gestión y financiamiento;
-
-VII. Proponer una simplificación administrativa y normativa que facilite la inversión pública, privada o la combinación de ambas en el Estado y los municipios de Nuevo León, y
-
-VIII. Identificar los programas y proyectos prioritarios de la Administración Estatal, susceptibles a recibir apoyo.
+Si los datos contenidos en la solicitud fuesen insuficientes o erróneos, la Unidad de Acceso requerirá, por una vez y dentro de los cinco días hábiles siguientes a la recepción de la solicitud, que se aporten más elementos o se corrijan los datos originalmente proporcionados. En caso de no obtener respuesta, se desechará la solicitud. Este requerimiento interrumpirá el término establecido en el Artículo 59 de la Ley. Una vez que el particular de cumplimiento se iniciará nuevamente el procedimiento en los términos previstos en la Ley.
 
 #### SECCIÓN SEGUNDA. DE LA COORDINACIÓN GENERAL DE ADMINISTRACIÓN Y FINANZAS
 
 ###### Artículo 31.
 
-La Coordinación General de Administración y Finanzas tiene como objetivo, asegurar que las diferentes áreas operativas de la Secretaría cuenten con los recursos humanos, financieros y materiales necesarios para el mejor desarrollo de su función, contando para ello con las siguientes facultades:
-
-I. Difundir y asegurar la operación de manuales, políticas y procedimientos autorizados en materia de administración y mantener la mejora continua;
-
-II. Autorizar las solicitudes de las unidades administrativas de la Secretaría en materias de abastecimiento, servicios generales y recursos humanos, de acuerdo al presupuesto y conforme a los procedimientos legales vigentes;
-
-III. Controlar y operar el presupuesto asignado a la Secretaría, de conformidad con las políticas y lineamientos establecidos por la Secretaría de Finanzas y Tesorería General del Estado;
-
-IV. Informar a las unidades administrativas de la Secretaría sobre el Estado que guardan los trámites de sus requerimientos solicitados y su presupuesto;
-
-V. Llevar a cabo la coordinación con las dependencias responsables de suministrarles los bienes y servicios que necesitan para su mejor desempeño a fin de obtener las características y especificaciones de calidad requeridas y en todo caso promover entre los proveedores externos el cumplimiento de las mismas;
-
-VI. Asegurar la conservación, orden y limpieza de los bienes muebles e inmuebles que a las unidades administrativas de la Secretaría, se les asignó para el cumplimiento de sus atribuciones;
-
-VII. Operar en coordinación con la dependencia competente, el control y resguardo del patrimonio del Estado asignado a las unidades de la Secretaría;
-
-VIII. Elaborar en coordinación con las unidades competentes los planes anuales y presupuesto de la Secretaría;
-
-IX. Tramitar ante la dependencia competente, los nombramientos, promociones, cambio de adscripción, renuncias, bajas y jubilaciones del personal de la Secretaría;
-
-X. Tramitar ante la dependencia competente, los cursos de capacitación para el personal de la Secretaría;
-
-XI. Dirigir, coordinar y vigilar la elaboración y seguimiento del presupuesto, así como los recursos humanos y materiales asignados a la Secretaría, de conformidad con las políticas y lineamientos establecidos por la Secretaría de Finanzas y Tesorería General del Estado, asumiendo la función permanente de enlace con la misma;
-
-XII. Dirigir, coordinar y supervisar las funciones de contabilidad, ingresos, egresos, patrimonio, adquisiciones y recursos humanos, de conformidad con el marco jurídico establecido;
-
-XIII. Intervenir a través de la Dirección Jurídica en todos aquellos actos, contratos, convenios y trámites legales en que intervenga la Secretaría, en concordancia con las funciones que se describen en el presente artículo;
-
-XIV. Representar a la Secretaría ante organismos estatales en asuntos relativos a recursos materiales, humanos y de presupuesto, y
-
-XV. Las que le sean conferidas por leyes, reglamentos, acuerdos, decretos, convenios, o directamente por el Titular de la Secretaría.
+En ningún caso la entrega de la información se condicionará a que se motive o justifique su utilización ni se requerirá demostrar interés jurídico alguno.
 
 ###### Artículo 32.
 
-Para el cumplimiento de las funciones que le son encomendadas la Coordinación General de Administración y Finanzas contará con las Coordinaciones que por Acuerdo del Titular de la Secretaría le sean adscritas, con las facultades que los propios acuerdos le confieran.
+El Ayuntamiento sólo entregará aquella información que se encuentre en su poder. La obligación de acceso a la información se dará por cumplida cuando se pongan los documentos o registros a disposición del solicitante o bien se expidan las copias simples, certificadas o por cualquier otro medio.
 
 #### SECCIÓN TERCERA. DE LA DIRECCIÓN JURÍDICA
 
 ###### Artículo 33.
 
-La Dirección Jurídica tiene como objetivo, asegurar y vigilar que las acciones de la Secretaría se realicen conforme a Derecho, contando para ello con las siguientes facultades:
-
-I. Asistir a la Secretaría y a las unidades administrativas en los procedimientos de carácter jurisdiccional federal, estatal y municipal en que sea parte;
-
-II. Acudir por instrucciones del Titular de la Secretaría a reuniones de consejos o comités en los cuales la Secretaría o el Titular de la Secretaría sean parte;
-
-III. Proporcionar a través de los enlaces jurídicos, la asesoría que le sea requerida por los organismos sectorizados;
-
-IV. Vigilar las acciones de la Secretaría, a fin de que éstas se realicen conforme a las normas jurídicas y administrativas aplicables;
-
-V. Expedir, a solicitud fundamentada, copia certificada de los documentos que obren en la Secretaría;
-
-VI. Proporcionar por sí o a través de las coordinaciones jurídicas, la asesoría que le sea requerida por el Titular de la Secretaría o las unidades de la Secretaría;
-
-VII. Preparar, revisar y analizar los documentos legales que deban ser suscritos por el Titular de la Secretaría o los Titulares de las unidades de la Secretaría, verificando que los mismos se encuentren conforme a derecho;
-
-VIII. Coadyuvar en la toma de decisiones de la Secretaría;
-
-IX. Desempeñar los cargos que le sean encomendados por los órganos de administración de los organismos sectorizados a la Secretaría;
-
-X. Elaborar y proponer los proyectos de leyes, acuerdos, decretos, reglamentos, circulares, manuales e instructivos de la Secretaría; así como despachar los asuntos jurídicos en que sea parte interesada o medie petición legal;
-
-XI. Instruir los procedimientos de responsabilidad administrativa de los servidores públicos adscritos a la Secretaría, en los términos de la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de Nuevo León;
-
-XII. Atender a las solicitudes de información que se reciban en la secretaría, en los términos de la Ley de Transparencia y Acceso a la Información Pública;
-
-XIII. Coadyuvar y supervisar las acciones legales relacionadas con los parques industriales a cargo de la Secretaría, y
-
-XIV. Las que le sean conferidas por leyes, reglamentos, acuerdos, decretos, convenios, o directamente por el Titular de la Secretaría.
+Cuando la información no se encuentre en los registros o archivos del Ayuntamiento, la Unidad de Acceso lo notificará al solicitante dentro del término establecido en el artículo 59 de la Ley, y le orientará, si fuese necesario, para que acuda ante otro sujeto obligado que pueda satisfacer su requerimiento.
 
 ###### Artículo 34.
 
-Para el cumplimiento de las funciones que le son encomendadas la Dirección Jurídica contará con las Coordinaciones que mediante acuerdo del Titular de la Secretaría le sean adscritas, las cuales contarán con las facultades que el propio acuerdo les señale.
+Tratándose de documentos que por su naturaleza, no sean normalmente sustituibles, tales como manuscritos, incunables, ediciones primeras o especiales, publicaciones periodísticas, mapas, planos, folletos y grabados importantes o raros y cualquier otro objeto o registro que contenga información de este género, se proporcionarán a los solicitantes los medios e instrumentos apropiados para su consulta, cuidando que no se dañen los registros o archivos en que se contengan y los documentos mismos.
 
 #### SECCIÓN CUARTA. DE LA COORDINACIÓN GENERAL DE PROMOCIÓN E IMPULSO A MIPYMES
 
 ###### Artículo 35.
 
-La Coordinación General de Promoción e Impulso a MIPYMES tiene como objetivo, promover, fomentar y consolidar los apoyos para el desarrollo integral de las micro, pequeñas y medianas empresas, gestionando y proporcionando herramientas y programas de capacitación, orientación, asesoría, financiamiento, tecnología, promoción, vinculación, organización de la producción, comercialización artesanal e impulso a las industrias familiares, con el objeto de que incrementen la competitividad y contribuyan al desarrollo armónico de todas las regiones del Estado así como a la búsqueda de nuevas vocaciones, contando para ello con las siguientes facultades:
-
-I. En coordinación con la Secretaría Federal del ramo, otorgar apoyos financieros para elevar la competitividad de la micro, pequeña y mediana empresa, para fortalecer el desarrollo económico;
-
-II. Vincular, canalizar y dar seguimiento a las distintas necesidades de la micro, pequeña y mediana empresa, apoyándolas en el acceso a crédito, seguros, innovaciones tecnológicas, canales de comercialización adecuados y mejores sistemas de administración;
-
-III. Facilitar la creación y fortalecimiento de la micro, pequeña y mediana empresa, vinculándolas con instituciones y organismos para la obtención de créditos y apoyos financieros que permitan su desarrollo;
-
-IV. Apoyar a la micro, pequeña y mediana empresa en la creación de un plan de negocios e imagen corporativa;
-
-V. Brindar y gestionar capacitación a los diferentes actores económicos de Nuevo León a través de pláticas y cursos de las diferentes universidades de la entidad y de las dependencias estatales y federales;
-
-VI. Promover el desarrollo de las micros, pequeñas y medianas empresas como proveedores de las grandes empresas nacionales y extranjeras, con el propósito de abastecer productos nacionales;
-
-VII. Impulsar la formación de empresas incubadoras dentro del Estado, que generen nuevas empresas competitivas;
-
-VIII. Organizar y coordinar ferias y exposiciones a nivel regional, nacional e internacional para promoción de las artesanías del Estado;
-
-IX. Organizar cursos de capacitación para mantener a los artesanos actualizados en cuanto al uso de herramientas y aprovechamiento de materias primas, así como sistemas de administración y comercialización;
-
-X. Organizar y apoyar la participación de los artesanos en concursos a nivel estatal, nacional e internacional;
-
-XI. Mantener actualizado el padrón artesanal de cada uno de los municipios identificados por rama artesanal e informarlos en cuanto a oportunidades de negocios, y
-
-XII. Las que le sean conferidas por leyes, reglamentos, acuerdos, decretos, convenios, o directamente por el Titular de la Secretaría.
+En caso de que la información solicitada ya esté disponible al público en medios impresos, tales como libros, compendios, trípticos, archivos públicos, formatos electrónicos, por Internet o cualquier otro medio, se le hará saber por escrito al interesado la fuente, el lugar y la forma en que se puede consultar, reproducir u obtener la información.
 
 ###### Artículo 36.
 
-Para el cumplimiento de las funciones que le son encomendadas la Coordinación General de Promoción e Impulso a MIPYMES podrá contar con las Coordinaciones que mediante acuerdo del Titular de la Secretaría le sean adscritas, las cuales contarán con las facultades que el propio acuerdo les señale.
+Respecto de documentos que contengan información tanto pública como reservada o confidencial, la Unidad de Acceso proporcionará únicamente la que tenga el carácter de pública, eliminando las partes o secciones clasificadas como reservadas o confidenciales, a excepción de que sobre estas últimas medie la autorización expresa de su Titular. En tales casos, deberá señalarse qué partes o secciones fueron eliminadas de la información proporcionada.
 
-### CAPÍTULO SEXTO. DE LOS ORGANOS DESCONCENTRADOS
+### CAPÍTULO II. De la Estructura de la Unidad de Acceso
 
 ###### Artículo 37.
 
-Previo acuerdo del Titular el Ejecutivo del Estado, la Secretaría, para el mejor desempeño de los asuntos de su competencia, podrá contar con órganos administrativos desconcentrados, que le estarán jerárquicamente subordinados.
+La Unidad de Acceso responderá a las solicitudes dentro de los diez días hábiles siguientes al de su recepción, notificando:
 
-### CAPÍTULO SÉPTIMO. DE LA SUPLENCIA DE LOS FUNCIONARIOS DE LA SECRETARÍA
+I. La existencia de la información solicitada, así como la modalidad de la entrega y, en su caso, el costo por reproducción y envío de la misma;
+
+II. La negativa para proporcionar la información clasificada como reservada o confidencial y la que, en su caso, se encuentra disponible en los casos de la fracción anterior; y,
+
+III. Que la información no se encuentra en los archivos, orientando al solicitante sobre el sujeto obligado a quien deba requerirla.
+
+### CAPÍTULO III. De las atribuciones de la Unidad de Acceso
 
 ###### Artículo 38.
 
-Las ausencias temporales del titular de la Secretaría, serán suplidas por el Subsecretario que éste designe. Si la ausencia temporal es por un período mayor a quince días, el Secretario designará, previo acuerdo con el Titular del Poder Ejecutivo, al funcionario que se quedará encargado de los asuntos de trámite de la Secretaría.
-
-En el caso de que el cargo de Secretario quede vacante por cualquier motivo, el Gobernador podrá designar a un encargado del Despacho de la Secretaría hasta en tanto se otorgue el nombramiento correspondiente al nuevo titular de la dependencia.
+La información deberá entregarse dentro de los diez días hábiles siguientes al de la notificación de la Unidad de Acceso, siempre que el solicitante compruebe haber cubierto el pago de los derechos correspondientes, en su caso.
 
 ###### Artículo 39.
 
-Las ausencias de los Subsecretarios, serán suplidos por el titular de alguna de las unidades administrativas adscritas al área de su responsabilidad que éste designe, previa autorización del Titular de la Secretaría. Cuando se trate de las ausencias de los titulares de las unidades administrativas, estos serán suplidos por los funcionarios que designe el Subsecretario correspondiente.
+Cuando se niegue la información por encontrarse en las excepciones previstas en la Ley y en el presente Reglamento, la Unidad de Acceso deberá notificar al solicitante de manera fundada y motivada las razones de su actuación, indicándole además el recurso que podrá interponer ante el Instituto.
 
-Corresponderá al titular de la Secretaría designar a los funcionarios que suplirán las ausencias de los titulares de los órganos de apoyo de la dependencia.
+###### Artículo 40.
+
+Cuando existan razones suficientes que impidan localizar la información o dificultad para reunirla dentro del plazo señalado en el artículo 59 de la Ley, el plazo se prorrogará hasta diez días hábiles más, previa notificación al solicitante.
+
+###### Artículo 41.
+
+La falta de respuesta a una solicitud de acceso a la información, en el plazo señalado en los artículos 59 y 61 de la Ley, se entenderá resuelta en sentido positivo. El Ayuntamiento deberá entregar la información solicitada, de manera gratuita, en un plazo no mayor a diez días hábiles, siempre y cuando no se trate de información reservada o confidencial.
+
+###### Artículo 42.
+
+Los particulares entregarán la constancia expedida por la Unidad de Acceso al momento de recibir la solicitud de información o bien la copia de ésta en la que conste la fecha de presentación ante la Unidad de Acceso. En todo caso, el procedimiento asegurará que el Ayuntamiento tenga la oportunidad de probar que respondieron en tiempo y forma al solicitante.
+
+###### Artículo 43.
+
+Las solicitudes de acceso a la información y las respuestas dadas, incluyendo, en su caso, la información entregada, serán públicas. Asimismo, el Ayuntamiento deberá poner a disposición del público ésta información en la medida de lo posible a través de medios remotos o locales de comunicación electrónica.
+
+###### Artículo 44.
+
+Para realizar las notificaciones a que se refiere este Reglamento, se observará lo que señala el Código de Procedimientos Administrativos del Estado de Veracruz.
+
+### CAPÍTULO II. Del Trámite Interno de las Solicitudes de Acceso a la Información
+
+###### Artículo 45.
+
+La Unidad de Acceso una vez recibida la solicitud de información y que cumpla los requisitos señalados en la Ley y el presente Reglamento, lo comunicará por escrito al área o unidad administrativa que corresponda al día hábil siguiente.
+
+###### Artículo 46.
+
+El área o unidad administrativa verificará la existencia de la información solicitada, así como la modalidad de la entrega y, en su caso, el costo por reproducción y envío de la misma. Dando respuesta por escrito en un término de cinco días hábiles a la Unidad de Acceso.
+
+###### Artículo 47.
+
+La Unidad de Acceso verificará si la información solicitada no se encuentra clasificada como reservada o confidencial.
+
+## TÍTULO SEXTO. DEL COMITÉ DE INFORMACIÓN DE ACCESO RESTRINGIDO
+
+### CAPÍTULO I. Del Objeto
+
+###### Artículo 48.
+
+Será responsabilidad del Comité emitir los acuerdos que clasifiquen la información reservada y confidencial, de conformidad con la Ley y este Reglamento.
+
+### CAPÍTULO II. De la Integración del Comité
+
+###### Artículo 49.
+
+El Comité se integrará por los siguientes miembros:
+
+I. El Presidente Municipal, quien lo presidirá y tendrá el voto de calidad en caso de empate en la votación respectiva;
+
+II. El Síndico;
+
+III. El Secretario del Ayuntamiento;
+
+IV. El Titular de la Unidad de Acceso;
+
+V. El Titular de la Dirección de Asuntos Jurídicos;
+
+VI. El Titular de la Contraloría Interna;
+
+VII. El Titular de la Tesorería Municipal;
+
+Los integrantes de las fracciones II a la VII tendrán el carácter de vocales.
+
+El Presidente Municipal designará a un colaborador que fungirá como Secretario Técnico, quien contará con voz pero no con voto.
+
+El Comité podrá invitar a sus sesiones, con voz pero sin voto a expertos, ya sean servidores públicos o no, que por sus conocimientos técnicos o especializados asesoren al Comité para una mejor toma de decisiones.
+
+### CAPÍTULO III. De las Atribuciones del Comité
+
+###### Artículo 50.
+
+El Comité tendrá las atribuciones siguientes:
+
+I. Emitir los acuerdos fundados y motivados que clasifiquen o desclasifiquen la información reservada y confidencial de conformidad con este Reglamento; dicho acuerdo deberá publicarse en la Gaceta Oficial del estado y en el sitio de Internet del Ayuntamiento, dentro de los 10 días hábiles siguientes a que se emitan o modifiquen.
+
+II. Preparar versiones públicas de los documentos y expedientes que contengan partes o secciones reservadas o confidenciales.
+
+III. Proteger los datos confidenciales, así como los datos personales, que estén en posesión de los servidores públicos municipales.
+
+IV. Divulgar la transparencia y la rendición de cuentas entre los empleados del ayuntamiento, el respeto a las prerrogativas de los ciudadanos y la sujeción a valores éticos durante las labores de su encargo.
+
+### CAPÍTULO IV. De la Información Reservada
+
+###### Artículo 51.
+
+La información reservada es la que se encuentra temporalmente sujeta a algunas de las excepciones previstas en la Ley, y por lo tanto no podrá difundirse, excepto dentro de los plazos y condiciones establecidos.
+
+###### Artículo 52.
+
+Será considerada información reservada la siguiente:
+
+I. La que comprometa la seguridad pública nacional, estatal o municipal, o pueda afectar la integridad territorial, la estabilidad o la permanencia de las instituciones políticas;
+
+II. Aquella cuya difusión ponga en peligro o dañe la estabilidad financiera o económica nacional, estatal o municipal. No se comprende en este rubro la información relativa a la deuda pública;
+
+III. La que pueda generar una ventaja indebida en perjuicio de un tercero;
+
+IV. Las actuaciones y las resoluciones relativas a procedimientos judiciales o administrativos, cuando aún no hayan causado estado;
+
+V. Las actuaciones y las resoluciones relativas a los procedimientos de responsabilidad de los servidores públicos, salvo cuando exista resolución definitiva, administrativa jurisdiccional;
+
+VI. Las opiniones, estudios, recomendaciones o puntos de vista que formen parte de un proyecto de trabajo del Ayuntamiento, cuya divulgación suponga un riesgo para su realización o pueda ser perjudicial al interés público, pero una vez tomada la decisión o aprobado el proyecto, todo lo anterior será información pública;
+
+VII. La contenida en las revisiones y auditorias realizadas directa o indirectamente por los órganos de control o de fiscalización, hasta en tanto se presenten ante la autoridad competente las conclusiones respectivas y haya definitividad en los procedimientos consecuentes;
+
+VIII. La que pueda ocasionar serios obstáculos a las actividades relacionadas con el cumplimiento de las Leyes y Reglamentos, y a la prevención o persecución de los delitos, incluyéndose en este rubro las averiguaciones previas en materia de procuración de justicia;
+
+IX. La que ponga en riesgo la vida, seguridad o salud de cualquier persona; y
+
+X. La que por disposición expresa de otra ley vigente, al momento de la publicación de este Reglamento, sea considerada reservada.
+
+###### Artículo 53.
+
+El plazo de reserva será determinado por el Comité siempre y cuando no exceda de seis años, pudiendo prorrogarse una sola vez mediante acuerdo del Instituto a petición del Comité; en caso de extinción de alguna de las causas que haya motivado su clasificación o medie una resolución del Instituto que declare infundada su reserva, la información se hará pública.
+
+### CAPÍTULO V. De la Información Confidencial
+
+###### Artículo 54.
+
+La Información Confidencial es la que estando en poder del Ayuntamiento es relativa a las personas y se encuentra protegida por el derecho a la intimidad y sobre la que no puede realizarse ningún acto o hecho sin la autorización debida de los titulares o sus representantes legales.
+
+###### Artículo 55.
+
+Será considerada como información confidencial, la siguiente:
+
+I. Los datos personales;
+
+II. La información que en caso de difundirse ponga en riesgo la vida, integridad física, seguridad o salud de cualquier persona o su patrimonio y afecte directamente el ámbito de su vida privada;
+
+III. La información que se obtenga cuando las autoridades intervengan las comunicaciones privadas, en los términos del articulo 16 de la Constitución Política de los Estados Unidos Mexicanos y las leyes reglamentarias de ese precepto; y
+
+IV. La que por mandato expreso de otra ley vigente, al momento de la publicación del presente Reglamento, deba ser considerada confidencial.
+
+El carácter de información confidencial es permanente para los efectos de este Reglamento y no está condicionado o limitado a un plazo o término.
+
+###### Artículo 56.
+
+No podrá considerarse como información de carácter personal y por tanto confidencial, la relativa a los sueldos, salarios, dietas o remuneraciones de cualquier otra naturaleza percibidas con motivo del ejercicio de cargos, empleos o comisiones en el servicio público.
+
+### CAPÍTULO VI. De la Protección de los Datos Personales
+
+###### Artículo 57.
+
+Los datos personales son la información confidencial relativa a una persona física, que tenga que ver con su origen étnico o racial; ideología; creencias o convicciones religiosas; preferencias sexuales; domicilio y teléfonos particulares; estado de salud físico o mental; patrimonio personal o familiar; claves informáticas o cibernéticas; códigos personales u otros datos análogos de identificación cuya divulgación pueda afectar su intimidad y que por tal razón se encuentra protegida en términos de lo dispuesto en la Ley y en el presente Reglamento.
+
+###### Artículo 58.
+
+El titular de los datos personales tiene derecho a:
+
+I. Conocer, actualizar y complementar la información que respecto a su persona esté contenida en bancos de datos, registros y archivos del Ayuntamiento;
+
+II. Obtener la modificación o supresión de dicha información cuando sea incorrecta o no se justifique la razón de su registro y conservación;
+
+III. Identificar al destinatario de la información cuando ésta haya sido entregada por el Ayuntamiento, así como la motivación y fundamentación legal que sustente el acuerdo relativo.
+
+###### Artículo 59.
+
+El Ayuntamiento será responsable de garantizar la debida protección de los datos personales; al efecto deberá:
+
+I. Establecer procedimientos adecuados para la recepción, resguardo y respuesta de las solicitudes de acceso y corrección de información confidencial, así como capacitar y supervisar el desempeño de los servidores públicos encargados de esa labor;
+
+II. Informar a los interesados sobre el propósito que se persigue al recabar y conservar sus datos personales;
+
+III. Cuidar que los datos personales sean correctos y estén actualizados. Deberán suprimirse, sustituirse, rectificarse o completarse de oficio y con oportunidad, aquellos datos personales cuyo registro no se justifique o su inexactitud fuese advertida;
+
+IV. Asegurarse que ninguno de estos datos sea difundido o utilizado con un propósito incompatible al que se haya especificado, a no ser que el propio interesado hubiera expresado su autorización para tal efecto; y
+
+V. Adoptar las medidas internas que garanticen la seguridad de los datos personales y eviten su pérdida, alteración, comercialización, transmisión y acceso no autorizados.
+
+###### Artículo 60.
+
+El titular de los datos personales, podrá solicitar a la Unidad de Acceso le proporcione la información que obre en poder del Ayuntamiento, y deberá entregarse en el plazo que señala la Ley a partir de la recepción de la solicitud.
+
+###### Artículo 61.
+
+Los titulares interesados podrán solicitar a la Unidad de Acceso se suprima de sus archivos o se modifiquen los datos personales que obren en posesión del Ayuntamiento. La Unidad de Acceso atenderá la petición en el plazo que señala la Ley y comunicará al solicitante en un plazo de 30 días hábiles a la presentación de la solicitud, sobre las supresiones o modificaciones realizadas o, en su caso, las razones y fundamentos por los cuales no procedieron.
+
+### CAPÍTULO VII. De la Operación del Comité
+
+###### Artículo 62.
+
+En todo caso que el Ayuntamiento funde y motive la clasificación de la información como reservada o confidencial, ésta deberá cumplir los siguientes tres requisitos:
+
+I. Que corresponda legítimamente en alguna de las hipótesis de excepción prevista en la ley;
+
+II. Que su liberación pueda amenazar efectivamente el interés protegido por la ley; y
+
+III. Que el daño que pueda producirse con su liberación sea mayor que el interés público de conocerla.
+
+###### Artículo 63.
+
+Se indicará expresamente la fuente de la información, las razones en que se apoye la justificación de la clasificación formulada; si el acuerdo abarca la totalidad o sólo parte de la información, y el plazo de reserva acordado el que deberá estar comprendido dentro del término máximo autorizado en el artículo 15 de la Ley, la Secretaría del Ayuntamiento será responsable de su conservación.
+
+###### Artículo 64.
+
+Si los expedientes que contengan información reservada incluyen alguna otra que no tenga tal calidad, la petición o solicitud que se formule se atenderá respecto de esta última.
+
+###### Artículo 65.
+
+La información que haya sido clasificada como reservada, deberá permanecer con tal carácter hasta por un período de seis años pudiendo prorrogar el plazo por una sola vez, salvo que antes de esos términos se extinga alguna de las causas que haya motivado su clasificación o medie una resolución del Instituto que declare infundada su reserva.
+
+###### Artículo 66.
+
+El Comité sesionará bimestralmente de manera ordinaria, sin perjuicio de las sesiones extraordinarias a las que convoque el Presidente Municipal, por medio del Secretario Técnico pudiendo ser éstas a solicitud de cualquiera de sus miembros.
+
+###### Artículo 67.
+
+Los acuerdos del Comité se tomarán por mayoría de votos. Los invitados tendrán derecho a externar opiniones sin la posibilidad de emitir un voto.
+
+###### Artículo 68.
+
+Para llevar a cabo una sesión ordinaria, el Comité por medio del Secretario Técnico, enviará a sus miembros e invitados la convocatoria señalando el día, hora y lugar correspondiente con una anticipación de cinco días hábiles en que se llevará a cabo; en caso de una sesión extraordinaria dicha convocatoria se hará con al menos un día de anticipación.
+
+###### Artículo 69.
+
+El calendario de sesiones ordinarias deberá ser propuesto, discutido y aprobado en la última sesión del año o en la primera para el cual funcionará. La modificación de alguna fecha deberá ser notificada por escrito a los integrantes del Comité por el Secretario Técnico y, en su caso, a los invitados, indicando la fecha en la que se llevará a cabo la sesión.
+
+###### Artículo 70.
+
+De cada sesión, sin importar el carácter que ésta tenga, se deberá elaborar un acta en cuyo contenido estará la fecha, el nombre y el cargo de los asistentes, el desarrollo de la reunión y los acuerdos tomados en la misma; de igual forma, se asentarán los responsables de la ejecución de los acuerdos que resulten, y en su caso, los plazos para su cumplimiento.
+
+###### Artículo 71.
+
+El Comité deberá llevar un registro de los servidores públicos que, por la naturaleza de sus atribuciones, tengan acceso a los expedientes y documentos clasificados como reservados o confidenciales; así mismo deberá asegurarse que dichos servidores tengan conocimiento de la responsabilidad y sanciones por el manejo inadecuado o ilícito de la información clasificada.
+
+### CAPÍTULO VIII. De las Suplencias
+
+###### Artículo 72.
+
+Los miembros del Comité sólo podrán ser suplidos en sus funciones por servidores públicos designados específicamente por cada miembro titular del Comité.
+
+En caso de la ausencia de alguno de los integrantes del Comité o de su respectivo suplente habiendo sido debidamente notificados, se hará constar y se les informará sobre los acuerdos correspondientes a la sesión.
+
+### CAPÍTULO IX. De las Funciones del Presidente del Comité
+
+###### Artículo 73.
+
+Son funciones del Presidente del Comité:
+
+I. Instruir al Secretario Técnico para que convoque a las sesiones del Comité;
+
+II. Conducir las sesiones del Comité;
+
+III. Someter a consideración y aprobación del Cabildo, los cambios que se susciten entre los miembros del Comité.
+
+### CAPÍTULO X. De las Funciones del Secretario Técnico del Comité
+
+###### Artículo 74.
+
+Son funciones del Secretario Técnico:
+
+I. Ordenar los asuntos del día a tratar en las sesiones, recabar la documentación requerida para su realización y suscribir las actas correspondientes a la sesión recabando la firma de los asistentes;
+
+II. Convocar a los asistentes a las sesiones ordinarias y extraordinarias, por instrucciones del Presidente del Comité;
+
+III. Llevar una relación sobre los acuerdos del Comité, en un libro oficial;
+
+IV. Proporcionar la información requerida a los miembros del Comité;
+
+V. Elaborar el calendario anual de sesiones ordinarias del Comité;
+
+VI. Llevar el registro de los servidores públicos que, por la naturaleza de sus atribuciones, tengan acceso a los expedientes y documentos clasificados como reservados o confidenciales.
+
+### CAPÍTULO XI. De las Obligaciones y Atribuciones de los Vocales del Comité
+
+###### Artículo 75.
+
+Son obligaciones y atribuciones de los vocales del Comité:
+
+I. Asistir puntualmente a las sesiones del Comité;
+
+II. Hacer observaciones al Presidente del Comité sobre los asuntos a tratar en sus sesiones;
+
+III. Opinar en las discusiones del Comité;
+
+IV. Solicitar información a través del Secretario Técnico del Comité;
+
+V. Votar respecto a lo tratado en las sesiones; y
+
+VI. Proponer al Secretario Técnico del Comité, la asistencia de servidores públicos de naturaleza relacionada con los asuntos a tratar en las sesiones.
+
+### CAPÍTULO XII. De la Clasificación de la Información
+
+###### Artículo 76.
+
+El acuerdo que en su caso clasifique la información como reservada, deberá:
+
+I. Precisar si se trata de uno o varios documentos o bien el expediente completo;
+
+II. Fundar y motivar la clasificación, destacando la relación de causa-efecto de que el daño que pueda producirse con la liberación de la información sea mayor que el interés público de conocerla;
+
+III. Señalar, sí así es el caso, las partes del documento o expediente que se reservan;
+
+IV. Determinar el plazo de reserva;
+
+V. Identificar al servidor público responsable de su conservación.
+
+### CAPÍTULO XIII. De la Desclasificación
+
+###### Artículo 77.
+
+Los expedientes y documentos que hayan sido clasificados como reservados quedarán desclasificados cuando:
+
+I. Haya transcurrido el periodo de reserva, sin que medie solicitud de ampliación del plazo, en este caso la desclasificación procederá de oficio;
+
+II. No habiendo transcurrido el periodo de reserva dejen de subsistir las causas que dieron origen a la clasificación, atendiendo las circunstancias de modo, tiempo y lugar; en este caso el acuerdo del comité que desclasifique deberá estar debidamente fundado y motivado;
+
+III. Cause estado la resolución emitida por el Instituto, que:
+
+a) Revoque o niegue la clasificación hecha por el Comité, y;
+
+b) Niegue la solicitud de ampliación de plazo de reserva.
+
+Para estos supuestos, la desclasificación procederá en los términos que fije la resolución.
+
+## TÍTULO SÉPTIMO. DE LOS RECURSOS, RESPONSABILIDADES Y SANCIONES
+
+### CAPÍTULO I. Del Recurso de Revisión
+
+###### Artículo 78.
+
+El solicitante o su representante legal podrán interponer un recurso de revisión ante el Instituto, en los siguientes supuestos:
+
+I. Contra las resoluciones de la Unidad de Acceso o del Comité que le nieguen ese acceso, fundadas o no en una previa clasificación de los datos relativos como información reservada o confidencial;
+
+II. Cuando habiéndose cumplido los plazos establecidos en la Ley, dicha información no haya sido proporcionada;
+
+III. Contra las resoluciones del Consejo General que hayan concedido la ampliación del período de reserva de una información, conforme a lo dispuesto por el artículo 15 de la Ley;
+
+IV. Si el Ayuntamiento se niega a efectuar modificaciones o correcciones a los datos personales, tratándose de una solicitud de su titular o representante legal; y
+
+V. Si el solicitante no está de acuerdo con la respuesta dada por el Ayuntamiento, por considerar que la información pública entregada es incompleta, no corresponde a lo requerido, o bien esté en desacuerdo con el tiempo, costo, formato o modalidad dispuestos para la entrega de la misma.
+
+El plazo para interponer el recurso de revisión es de quince días hábiles a partir de la notificación del acto impugnado, de que se haya tenido conocimiento o se ostente sabedor del mimo.
+
+### CAPÍTULO II. De las Responsabilidades
+
+###### Artículo 79.
+
+Será causa de responsabilidad administrativa de los servidores públicos, la comisión de las siguientes infracciones:
+
+I. Destruir, inutilizar, sustraer, alterar, ocultar, divulgar o usar en forma indebida, total o parcialmente, información pública confiada a su custodia;
+
+II. Actuar con negligencia culposa, dolo o mala fe, en la tramitación de las solicitudes de acceso a la información pública; de supresión o rectificación de información confidencial o en la difusión de la información pública a que se está obligado conforme a la Ley y este Reglamento;
+
+III. Incumplir con el deber de poner a disposición del público las obligaciones de transparencia, señaladas en el artículo 8 de la Ley y este Reglamento;
+
+IV. Denegar indebidamente el acceso a la información pública;
+
+V. Entregar indebidamente la información clasificada como reservada o confidencial;
+
+VI. Clasificar dolosamente como reservada o confidencial, la información pública que no cumpla con dichas características en los términos de la Ley y de este Reglamento;
+
+VII. Aportar dolosamente información pública falsa o de manera incompleta;
+
+VIII. Incumplir con la obligación de proporcionar la información pública, cuya entrega haya sido ordenada por la Unidad de Acceso u otra autoridad superior, administrativa o jurisdiccional, que sea competente en la materia;
+
+IX. Demorar injustificadamente la entrega de la información pública o de la información confidencial a quien sea su titular; o
+
+X. Negar la supresión o la rectificación de datos personales a quien sea titular de los mismos, en los casos de que así proceda conforme a lo dispuesto por la Ley y este Reglamento.
+
+La infracción prevista en la fracción VII del presente artículo o la reincidencia en las conductas definidas en las demás fracciones de este mismo artículo, serán consideradas como graves para efectos de su sanción administrativa.
+
+La responsabilidad administrativa por infracciones a este Reglamento, es independiente de las demás responsabilidades que establecen otras leyes del Estado.
+
+### CAPÍTULO III. De las Sanciones
+
+###### Artículo 80.
+
+Quienes sean responsables de las infracciones a que se refiere el artículo anterior, quedarán sujetos a los procedimientos y sanciones previstos en la Ley de la materia. Esto será independiente de las responsabilidades civiles o de otra naturaleza y de las penas a que se hagan acreedores si sus conductas corresponden a los supuestos descritos en otros ordenamientos civiles, administrativos o penales.
+
+###### Artículo 81.
+
+Antes de la aplicación de las medidas de apremio y las sanciones previstas en la Ley y en la Ley de Responsabilidades de los Servidores Públicos para el Estado de Veracruz de Ignacio de la Llave, se concederá al infractor la garantía de audiencia, conforme a lo dispuesto por la Constitución General de la República, la Constitución Local y el Código de Procedimientos Administrativos para el Estado de Veracruz de Ignacio de la Llave.
+
+###### Artículo 82.
+
+Lo no previsto en este Reglamento, se estará a lo dispuesto en la Ley y en los Lineamientos que para tal efecto determinó el Instituto, publicados en la Gaceta Oficial del Estado de Veracruz de Ignacio de la Llave de fecha 18 de Diciembre de 2007, así como a los Lineamientos que el mismo Instituto determine posteriormente.
 
 ## TRANSITORIOS
 
-PRIMERO.- El presente Reglamento Interior de la Secretaría de Desarrollo Económico, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+Artículo primero. El presente Reglamento entrará en vigor tres días después de su publicación en la Gaceta Oficial del Estado.
 
-SEGUNDO.- Se abroga el Reglamento Interior de la Secretaría de Desarrollo Económico, publicado en el Periódico Oficial del Estado el 24 de septiembre de 2004.
+Artículo segundo. Las áreas o unidades administrativas del Ayuntamiento se avocarán en forma inmediata a cumplir con las Obligaciones de Transparencia en materia de información que se establecen en el artículo 8 del presente Reglamento.
 
-TERCERO.- Se instruye a la Secretaría de Finanzas y Tesorería General del Estado para implementar las medidas de carácter financiero y administrativo necesarias para la debida ejecución del presente instrumento.
-
-CUARTO.- La Secretaria de Desarrollo Económico elaborará los lineamientos que sean necesarios para su mejor desempeño.
-
-Dado en el Despacho del Poder Ejecutivo del Estado de Nuevo León, en la Ciudad de Monterrey, Nuevo León, su capital, a los 03-tres días del mes de noviembre de 2009-dos mil nueve.
-
-EL C. GOBERNADOR CONSTITUCIONAL DEL ESTADO DE NUEVO LEÓN
-
-RODRIGO MEDINA DE LA CRUZ
-
-EL C. SECRETARIO GENERAL DE GOBIERNO
-
-JAVIER TREVIÑO CANTÚ
-
-EL C. SECRETARIO DE FINANZAS Y TESORERO GENERAL DEL ESTADO
-
-ALFREDO GERARDO GARZA DE LA GARZA
-
-EL C. SECRETARIO DE DESARROLLO ECONÓMICO
-
-OTHÓN RUIZ MONTEMAYOR
+Dado en el sala de sesiones del Cabildo, en la ciudad de Xalapa-Enríquez, Veracruz de Ignacio de la Llave, a los dieciocho días del mes de marzo del año dos mil ocho.
