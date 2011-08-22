@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-interior-de-la-secretaria-de-desarrollo-economico-71
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-11-25"
-last_updated: "2009-11-25"
+last_updated: "2011-08-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=71240&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 REGLAMENTO INTERIOR DE LA SECRETARIA DE DESARROLLO ECONOMICO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE AGOSTO DE 2011.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el miércoles 25 de noviembre de 2009.
 
@@ -73,11 +73,9 @@ b) Dirección de Promotora de Desarrollo Rural de Nuevo León, y
 
 c) Dirección de Fideicomisos y Atención a Municipios.
 
-V. Secretaría Técnica y Fomento al Financiamiento:
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2011)</small>
 
-a) Dirección de Planeación y Gestión, y
-
-b) Dirección de Fomento al Financiamiento.
+V. Secretaría Técnica;
 
 VI. Coordinación General de Administración y Finanzas,
 
@@ -159,7 +157,7 @@ II. Elaborar el plan de trabajo en materia de competitividad y mejora regulatori
 
 III. Proponer las acciones necesarias para elevar la competitividad de las empresas;
 
-IV. Emitir opiniones al Secretario con respecto a la función de fomento al financiamiento de los programas y proyectos para el desarrollo del Estado.
+IV. (DEROGADA, P.O. 22 DE AGOSTO DE 2011)
 
 V. Revisar, diagnosticar, elaborar y proponer al Secretario las adecuaciones necesarias para la simplificación de trámites; y
 
@@ -541,17 +539,21 @@ VII. Consolidar, apoyar y fortalecer los proyectos estratégicos municipales, a 
 
 Los órganos de apoyo de la Secretaría de Desarrollo Económico, son áreas especializadas y responsables en los ámbitos de competencia que señala este Reglamento. Dependen orgánicamente de la Secretaría de Desarrollo Económico, teniendo como finalidad apoyar a todos los órganos de la propia Secretaría en el cumplimiento de sus atribuciones y sus funciones en general.
 
-#### SECCIÓN PRIMERA. DE LA SECRETARÍA TÉCNICA Y FOMENTO AL FINANCIAMIENTO
+> <small>(REFORMADA SU DENOMINACION, P.O. 22 DE AGOSTO DE 2011)</small>
+
+#### SECCIÓN PRIMERA. DE LA SECRETARIA TÉCNICA
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE AGOSTO DE 2011)</small>
 
 ###### Artículo 27.
 
-La Secretaría Técnica y Fomento al Financiamiento, tiene como objetivo realizar la implementación de sistemas de planeación y seguimiento, calidad y mejora continua; ser el enlace en comités y grupos de trabajo interinstitucionales; proporcionar servicios de estudios económicos y estratégicos para las acciones de la dependencia; así como establecer mecanismos de promoción y difusión de los factores que contribuyen al desarrollo económico del Estado; a su vez promover y fomentar el financiamiento de los programas y proyectos de la administración estatal, contando para ello con las siguientes facultades:
+La Secretaria Técnica tiene como objetivo realizar la implementación de sistemas de planeación y seguimiento, calidad y mejora continua; ser el enlace en comités y grupos de trabajo interinstitucionales; proporcionar servicios de estudios económicos y estratégicos para las acciones de la dependencia; así como establecer mecanismos de promoción y difusión de los factores que contribuyen al desarrollo económico del Estado; contando para ello con las siguientes facultades:
 
 I. Acordar con el Titular de la Secretaría el despacho de los asuntos encomendados a su responsabilidad e informarle oportunamente sobre la atención de los mismos;
 
 II. Formular recomendaciones a los titulares de las dependencias o entidades para el debido cumplimiento de los acuerdos, lineamientos, órdenes, instrucciones y demás determinaciones que emita el Secretario;
 
-III. Proponer una simplificación administrativa y jurídica que facilite la inversión pública, privada o la combinación de ambas en el Estado;
+III. (DEROGADA, P.O. 22 DE AGOSTO DE 2011)
 
 IV. Dirigir e implementar un sistema de planeación estratégica en la Secretaría de Desarrollo Económico, de conformidad a la normatividad aplicable;
 
@@ -571,7 +573,9 @@ XI. Apoyar al Titular de la Secretaría en la coordinación de los trabajos del 
 
 XII. Coordinar la elaboración, implementación y evaluación de la agenda estratégica de la Secretaría, así como la difusión de los programas, proyectos y resultados de su gestión;
 
-XIII. Mantener e implementar una infraestructura que sustente todo tipo de necesidad informática en la Secretaría, así como proponer y desarrollar sistemas con tecnología de punta para proporcionar información oportuna y veraz a las unidades administrativas de la Secretaría, así como dar cumplimiento a la Ley de Transparencia y Acceso a la Información Pública respecto al portal de internet de la Secretaría;
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2011)</small>
+
+XIII. Mantener e implementar una infraestructura que sustente todo tipo de necesidad informática en la Secretaría, así como proponer y desarrollar sistemas con tecnología de punta para proporcionar información oportuna y veraz a las unidades administrativas de la Secretaría, así como dar cumplimiento a la Ley de Transparencia y Acceso a la Información Pública del Estado de Nuevo León respecto al portal de internet de la Secretaría
 
 XIV. Proponer al Titular de la Secretaría la formulación de proyectos o reformas de leyes, reglamentos, decretos, acuerdos y demás disposiciones relacionados con los asuntos de la competencia de la Secretaría, y
 
@@ -579,63 +583,15 @@ XV. Las que le sean conferidas por leyes, reglamentos, acuerdos, decretos, conve
 
 ###### Artículo 28.
 
-Para el cumplimiento de las funciones que le son encomendadas, la Secretaría Técnica y Fomento al Financiamiento contará con las siguientes Direcciones:
-
-I. Dirección de Planeación y Gestión, y
-
-II. Dirección de Fomento al Financiamiento.
-
-Así como por las coordinaciones que por acuerdo del Titular de la Secretaría le sean adscritas, con las facultades que los propios acuerdos le confieran.
+(DEROGADO, P.O. 22 DE AGOSTO DE 2011)
 
 ###### Artículo 29.
 
-La Dirección de Planeación y Gestión tiene como objetivo, consolidar los estudios estratégicos para el desarrollo económico a fin de apoyar a la Secretaría en el diseño de políticas internas y públicas, efectivas para la promoción del crecimiento sostenible y en la planeación de la actividad económica en el Estado, contando para ello con las siguientes facultades:
-
-I. Realizar estudios sectoriales vinculados con el desarrollo económico de la entidad, y cuyo objeto es la determinación de políticas y líneas de acción que coadyuven al desarrollo de sectores primordiales en la economía estatal;
-
-II. Implementar el sistema de calidad y mejora continua;
-
-III. Asistir a reuniones estatales y nacionales a fin de homologar, normalizar y agilizar el flujo de información en materia de competitividad, competencia, economía, políticas institucionales, desregulación y las demás que determine el Secretario;
-
-IV. Dar seguimiento continuo al desempeño económico del Estado y de sus principales sectores de actividad, a fin de proyectar tendencias previsibles y seguir alternativas de estímulo;
-
-V. Analizar los determinantes del crecimiento especial del Estado, evaluando alternativas para promover un desarrollo regional balanceado;
-
-VI. Analizar los factores de atracción y rechazo en las decisiones de localización de la inversión, a fin de promover y difundir políticas efectivas de estímulo a la inversión;
-
-VII. Concentrar estadísticas relacionadas con el desempeño de las actividades económicas del Estado, que permitan a la administración pública estatal, planear y establecer estrategias y políticas de desarrollo; estableciendo un sistema de información socioeconómica, geográfica y catastral para apoyar la toma de decisiones del sector productivo; generando, validando, analizando y difundiendo la información sobre la actividad económica del Estado, por municipios y sectores económicos;
-
-VIII. Realizar estudios a petición del Titular de la Secretaría, vinculados con diferentes aspectos del desarrollo económico;
-
-IX. Coordinar, dentro del ámbito de competencia de la Secretaría, las mesas de trabajo de la Delegación de Nuevo León que asista a la Conferencia Internacional de Gobernadores Fronterizos, así como organizar las reuniones, cuando Nuevo León las presida;
-
-X. Apoyar en la realización de eventos, a las unidades administrativas de la Secretaría, para el cumplimiento de sus objetivos;
-
-XI. Difundir los programas de apoyo de la Secretaría, en los sectores específicos;
-
-XII. Elaborar el material informativo necesario para los programas y proyectos de las unidades administrativas de la Secretaría, y
-
-XIII. Difundir los programas de la Secretaría de Desarrollo Económico en los niveles municipal, estatal, regional, nacional e internacional, para fomentar la calidad y competitividad en los sectores y actividades productivas del Estado.
+(DEROGADO, P.O. 22 DE AGOSTO DE 2011)
 
 ###### Artículo 30.
 
-La Dirección de Fomento al Financiamiento, tiene como objetivo promover y fomentar el financiamiento de los programas y proyectos de la administración estatal y municipal, a través de una metodología que les permita ser susceptibles a recibir recursos federales, internacionales o de la iniciativa privada, contando para ello con las siguientes facultades:
-
-I. Desarrollar, dirigir y coordinar los estudios, investigaciones y análisis que considere necesarios para la realización de los programas y proyectos;
-
-II. Llevar a cabo la evaluación de factibilidad de proyectos de inversión con el fin de gestionar financiamiento o apoyo financiero a los mismos;
-
-III. Establecer un sistema de redes de información multidimensional de los programas y proyectos factibles de recibir apoyo;
-
-IV. Identificar las metodologías para la integración de los programas y proyectos en base a la normatividad aplicable en cada caso;
-
-V. Gestionar en conjunto con las entidades estatales y los municipios los recursos asignables a cada programa y proyecto;
-
-VI. Desarrollar una metodología de administración de proyectos que posibilite su gestión y financiamiento;
-
-VII. Proponer una simplificación administrativa y normativa que facilite la inversión pública, privada o la combinación de ambas en el Estado y los municipios de Nuevo León, y
-
-VIII. Identificar los programas y proyectos prioritarios de la Administración Estatal, susceptibles a recibir apoyo.
+(DEROGADO, P.O. 22 DE AGOSTO DE 2011)
 
 #### SECCIÓN SEGUNDA. DE LA COORDINACIÓN GENERAL DE ADMINISTRACIÓN Y FINANZAS
 
@@ -705,7 +661,9 @@ X. Elaborar y proponer los proyectos de leyes, acuerdos, decretos, reglamentos, 
 
 XI. Instruir los procedimientos de responsabilidad administrativa de los servidores públicos adscritos a la Secretaría, en los términos de la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de Nuevo León;
 
-XII. Atender a las solicitudes de información que se reciban en la secretaría, en los términos de la Ley de Transparencia y Acceso a la Información Pública;
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2011)</small>
+
+XII. Atender a las solicitudes de información que se reciban en la secretaría, en los términos de la Ley de Transparencia y Acceso a la Información Pública del Estado de Nuevo León;
 
 XIII. Coadyuvar y supervisar las acciones legales relacionadas con los parques industriales a cargo de la Secretaría, y
 
@@ -796,3 +754,13 @@ ALFREDO GERARDO GARZA DE LA GARZA
 EL C. SECRETARIO DE DESARROLLO ECONÓMICO
 
 OTHÓN RUIZ MONTEMAYOR
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 22 DE AGOSTO DE 2011.
+
+PRIMERO.- Este Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se autoriza al Secretario de Finanzas y Tesorero General del Estado, para que en los términos de la Ley de Egresos vigente, realice las trasferencias presupuestales que sean necesarias para dar cumplimiento a lo dispuesto en el presente Acuerdo.
+
+TERCERO.- Cuando en la Ley de Egresos del Estado se dé una nueva denominación a cualesquiera de las unidades administrativas que se mencionan en este Reglamento, mientras se prevén las reformas pertinentes al presente, dicha unidad ejercerá las atribuciones que le correspondan conforme a su naturaleza, en los términos contenidos en este Acuerdo.
