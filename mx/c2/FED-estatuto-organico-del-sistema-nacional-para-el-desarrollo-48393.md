@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-del-sistema-nacional-para-el-desarrollo-48393
 country: "mx"
 rank: "estatuto"
 publication_date: "2006-02-08"
-last_updated: "2008-05-27"
+last_updated: "2011-08-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=48393&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2006-01-23"
 
 ESTATUTO ORGANICO DEL SISTEMA NACIONAL PARA EL DESARROLLO INTEGRAL DE LA FAMILIA
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 27 DE MAYO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 22 DE AGOSTO DE 2011.
 
 Estatuto publicado en la Primera Sección del Diario Oficial de la Federación, el miércoles 8 de febrero de 2006.
 
@@ -143,9 +143,11 @@ XXX. Supervisar y coadyuvar en el desarrollo de los procesos de adopción de ni�
 
 XXXI. Las demás que establezcan las disposiciones legales aplicables en la materia, así como aquellas necesarias para el cumplimiento de sus objetivos.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 22 DE AGOSTO DE 2011)</small>
+
 ###### ARTICULO 3.
 
-Para el despacho de los asuntos de su competencia, el Sistema Nacional para el Desarrollo Integral de la Familia contará con la siguiente estructura orgánica:
+Para el desarrollo de los asuntos de su competencia, el Sistema Nacional para el Desarrollo Integral de la Familia, contará con la siguiente estructura orgánica:
 
 Junta de Gobierno
 
@@ -167,7 +169,13 @@ Dirección General de Alimentación y Desarrollo Comunitario
 
 Dirección General de Protección a la Infancia
 
-Dirección General de Rehabilitación y Asistencia Social
+> <small>(ADICIONADO, D.O.F. 22 DE AGOSTO DE 2011)</small>
+
+Dirección General de Integración Social
+
+> <small>(REFORMADO, D.O.F. 22 DE AGOSTO DE 2011)</small>
+
+Dirección General de Rehabilitación
 
 Dirección General de Recursos Humanos
 
@@ -691,61 +699,81 @@ II. Asesorar y apoyar al Titular del Organismo en las funciones que le competan 
 
 III. Planear y coordinar las relaciones del Titular que, para el logro de los objetivos del organismo, deba establecer con los diferentes sectores y representantes del ámbito público, social y privado;
 
-IV. Gestionar, ante las áreas del Organismo, a favor de las entidades federativas y los municipios, apoyo, colaboración técnica y administrativa en materia de asistencia social y comunicación social;
+> <small>(ADICIONADA, D.O.F. 22 DE AGOSTO DE 2011)</small>
 
-V. Elaborar, en coordinación con las áreas del Organismo, documentos estadísticos, numeralia, informes y demás documentos necesarios para el cumplimiento de los objetivos de la institución o de la normatividad vigente;
+IV. Coordinar la atención, orientación, canalización y seguimiento a las peticiones de los sujetos de la Asistencia Social, así como operar el proceso de la atención ciudadana del Organismo;
 
-VI. Formular y proponer al Titular el programa de comunicación social del Organismo, para someterlo a la autorización de la Secretaría de Gobernación;
+> <small>(REFORMADA, D.O.F. 22 DE AGOSTO DE 2011)</small>
 
-VII. Establecer las normas y lineamientos internos en materia de comunicación social que deben observar las áreas del Organismo, así como sancionar los contenidos e intervenir en las actividades de comunicación e información que realicen las mismas;
+V. Gestionar, ante las áreas del Organismo, a favor de las entidades federativas y los municipios, apoyo, colaboración técnica y administrativa en materia de asistencia social y comunicación social;
 
-VIII. Compilar, analizar, procesar y difundir internamente la información de los medios de comunicación relativa a los acontecimientos de interés para el Organismo;
+> <small>(REFORMADA, D.O.F. 22 DE AGOSTO DE 2011)</small>
 
-IX. Ejecutar los acuerdos del Consejo Editorial del Organismo, así como establecer la identidad gráfica y editorial del mismo;
+VI. Elaborar, en coordinación con las áreas del Organismo, documentos estadísticos, numeralia, informes y demás documentos necesarios para el cumplimiento de los objetivos de la institución o de la normatividad vigente;
 
-X. Mantener coordinación y comunicación permanente con los medios de comunicación, áreas homólogas de los Sistemas Estatales y Municipales para el Desarrollo Integral de la Familia, así como de las instituciones públicas y privadas del campo de la asistencia social;
+> <small>(REFORMADA, D.O.F. 22 DE AGOSTO DE 2011)</small>
 
-XI. Desarrollar campañas, eventos, boletines de prensa, entrevistas y conferencias relativos a los programas del Organismo y coordinar la contratación de los medios de comunicación que se requieran para su realización;
+VII. Formular y proponer al Titular el programa de Comunicación Social del Organismo, para someterlo a la autorización de la Secretaría de Gobernación;
 
-> <small>(ADICIONADA [N. DE E. REFORMADA], D.O.F. 23 DE ENERO DE 2008)</small>
+> <small>(REFORMADA, D.O.F. 22 DE AGOSTO DE 2011)</small>
 
-XII. Coadyuvar con la Secretaría de Relaciones Exteriores en la representación del Gobierno Federal para la ejecución y difusión de programas en materia de asistencia social ante organismos internacionales y multilaterales;
+VIII. Establecer las normas y lineamientos internos en materia de Comunicación Social que deben observar las áreas del Organismo, así como sancionar los contenidos e intervenir en las actividades de comunicación e información que realicen las mismas;
 
-> <small>(ADICIONADA, D.O.F. 23 DE ENERO DE 2008)</small>
+> <small>(REFORMADA, D.O.F. 22 DE AGOSTO DE 2011)</small>
 
-XIII. Representar al Titular del Organismo ante la Secretaría de Relaciones Exteriores, embajadas y consulados mexicanos, así como ante organismos e instituciones internacionales relacionadas con actividades de asistencia social;
+IX. Compilar, analizar, procesar y difundir internamente la información de los medios de comunicación relativa a los acontecimientos de interés para el Organismo;
 
-> <small>(ADICIONADA, D.O.F. 23 DE ENERO DE 2008)</small>
+> <small>(REFORMADA, D.O.F. 22 DE AGOSTO DE 2011)</small>
 
-XIV. Conducir los esfuerzos de coordinación y concertación del Organismo ante los consulados mexicanos, para la atención asistencial de connacionales en condición vulnerable, residentes en el extranjero;
+X. Ejecutar los acuerdos del Consejo Editorial del Organismo, así como establecer la identidad gráfica y editorial del mismo;
 
-> <small>(ADICIONADA, D.O.F. 23 DE ENERO DE 2008)</small>
+> <small>(REFORMADA, D.O.F. 22 DE AGOSTO DE 2011)</small>
 
-XV. Establecer y operar mecanismos de información que permitan conocer la situación que guardan las circunstancias de riesgo social, que afecten a ciudadanos mexicanos en condiciones de vulnerabilidad social residentes en el extranjero;
+XI. Mantener coordinación y comunicación permanente con los medios de comunicación, áreas homólogas de los Sistemas Estatales y Municipales para el Desarrollo Integral de la Familia, así como de las instituciones públicas y privadas del campo de la asistencia social;
 
-> <small>(ADICIONADA, D.O.F. 23 DE ENERO DE 2008)</small>
+> <small>(REFORMADA, D.O.F. 22 DE AGOSTO DE 2011)</small>
 
-XVI. Proponer proyectos y programas de cooperación internacional, correspondientes a las acciones de protección y asistencia social desarrolladas bajo la responsabilidad del Organismo;
+XII. Desarrollar campañas, eventos, boletines de prensa, entrevistas y conferencias relativos a los programas del Organismo y coordinar la contratación de los medios de comunicación que se requieran para su realización;
 
-> <small>(ADICIONADA, D.O.F. 23 DE ENERO DE 2008)</small>
+> <small>(REFORMADA, D.O.F. 22 DE AGOSTO DE 2011)</small>
 
-XVII. Promover el cumplimiento de los acuerdos y convenios celebrados con organismos internacionales por el gobierno mexicano en lo general y el Organismo en lo particular, para la ejecución de programas y acciones de asistencia social;
+XIII Coadyuvar con la Secretaría de Relaciones Exteriores en la representación del Gobierno Federal para la ejecución y difusión de programas en materia de asistencia social ante organismos internacionales y multilaterales;
 
-> <small>(ADICIONADA, D.O.F. 23 DE ENERO DE 2008)</small>
+> <small>(REFORMADA, D.O.F. 22 DE AGOSTO DE 2011)</small>
 
-XVIII. Emitir opinión de los acuerdos en materia de asistencia social, de carácter binacional o multilateral, planteados por organismos o instituciones internacionales en los que se involucre el Organismo;
+XIV. Representar al Titular del Organismo ante la Secretaría de Relaciones Exteriores, embajadas y consulados mexicanos, así como ante organismos e instituciones internacionales relacionadas con actividades de asistencia social;
 
-> <small>(ADICIONADA, D.O.F. 23 DE ENERO DE 2008)</small>
+> <small>(REFORMADA, D.O.F. 22 DE AGOSTO DE 2011)</small>
 
-XIX. Representar al Titular del Organismo ante organismos financieros internacionales participantes en el desarrollo de proyectos de asistencia social, conjuntamente con el Oficial Mayor;
+XV. Conducir los esfuerzos de coordinación y concertación del Organismo ante los consulados mexicanos, para la atención asistencial de connacionales en condición vulnerable, residentes en el extranjero;
 
-> <small>(ADICIONADA, D.O.F. 23 DE ENERO DE 2008)</small>
+> <small>(REFORMADA, D.O.F. 22 DE AGOSTO DE 2011)</small>
 
-XX. Concertar la participación del Organismo en conferencias y congresos nacionales e internacionales de carácter binacional o multilateral y coordinar la participación de organismos e instituciones internacionales en reuniones y eventos de dicho carácter, promovidos por el Organismo, y
+XVI. Establecer y operar mecanismos de información que permitan conocer la situación que guardan las circunstancias de riesgo social, que afecten a ciudadanos mexicanos en condiciones de vulnerabilidad social residentes en el extranjero;
 
-> <small>(ADICIONADA, D.O.F. 23 DE ENERO DE 2008)</small>
+> <small>(REFORMADA, D.O.F. 22 DE AGOSTO DE 2011)</small>
 
-XXI. Las demás que le confiera su superior jerárquico y las disposiciones legales aplicables.
+XVII. Proponer proyectos y programas de cooperación internacional, correspondientes a las acciones de protección y asistencia social desarrolladas bajo la responsabilidad del Organismo;
+
+> <small>(REFORMADA, D.O.F. 22 DE AGOSTO DE 2011)</small>
+
+XVIII. Promover el cumplimiento de los acuerdos y convenios celebrados con organismos internacionales por el gobierno mexicano en lo general y el Organismo en lo particular, para la ejecución de programas y acciones de asistencia social;
+
+> <small>(REFORMADA, D.O.F. 22 DE AGOSTO DE 2011)</small>
+
+XIX. Emitir opinión de los acuerdos en materia de asistencia social, de carácter binacional o multilateral, planteados por organismos o instituciones internacionales en los que se involucre el Organismo;
+
+> <small>(REFORMADA, D.O.F. 22 DE AGOSTO DE 2011)</small>
+
+XX. Representar al Titular del Organismo ante organismos financieros internacionales participantes en el desarrollo de proyectos de asistencia social, conjuntamente con el Oficial Mayor;
+
+> <small>(REFORMADA, D.O.F. 22 DE AGOSTO DE 2011)</small>
+
+XXI. Concertar la participación del Organismo en conferencias y congresos nacionales e internacionales de carácter binacional o multilateral y coordinar la participación de organismos e instituciones internacionales en reuniones y eventos de dicho carácter, promovidos por el Organismo, y
+
+> <small>(REFORMADA, D.O.F. 22 DE AGOSTO DE 2011)</small>
+
+XXII. Las demás que le confiera su superior jerárquico y las disposiciones legales aplicables.
 
 ###### ARTICULO 27.
 
@@ -919,45 +947,109 @@ XXII. Coadyuvar en la instrumentación y operación del Servicio Nacional de Inf
 
 XXIII. Las demás que le confieran su superior jerárquico y las disposiciones legales aplicables.
 
+> <small>(REFORMADO, D.O.F. 22 DE AGOSTO DE 2011)</small>
+
 ###### ARTICULO 30.
 
-Corresponden a la Dirección General de Rehabilitación y Asistencia Social las siguientes facultades:
+Corresponden a la Dirección General de Integración Social las siguientes facultades:
 
-I. Establecer las políticas y estrategias en materia de prevención de discapacidad, de rehabilitación integral y servicios asistenciales conexos;
+I. Establecer las políticas y estrategias en materia de prevención y atención de riesgos sociales, así como en materia de integración social;
 
-II. Operar establecimientos de asistencia social y llevar a cabo acciones en materia de prevención;
+II. Operar establecimientos de Asistencia Social y llevar a cabo acciones en materia de prevención de la vulnerabilidad;
 
-III. Desarrollar programas de atención a personas con discapacidad;
+III. Desarrollar, ejecutar y actualizar programas de prevención y atención integral a personas sujetas de asistencia social;
 
-IV. Prestar servicios de prevención de discapacidad, rehabilitación integral y de asistencia social de su ámbito de responsabilidad;
+IV. Participar en la formulación de propuestas de anteproyecto de Normas Oficiales Mexicanas en materia de asistencia e integración social y de salud;
 
-V. Coadyuvar en la formulación de propuestas de anteproyecto de normas oficiales mexicanas en materia de prevención de discapacidad, rehabilitación e integración social de personas con discapacidad;
+V. Impulsar procesos de certificación en Normas Técnicas de Competencia Laboral dirigidas al personal del Organismo y de los Sistemas Estatales y Municipales para el Desarrollo Integral de la Familia que participan en los programas de atención a población vulnerable;
 
-VI. Impulsar procesos de certificación en Normas Técnicas de Competencia Laboral dirigidas al personal del Organismo y de los Sistemas Estatales y Municipales para el Desarrollo Integral de la Familia que participan en los programas de atención a población vulnerable;
+VI. Integrar y proponer Normas Oficiales Mexicanas para su aprobación a la Secretaría de Salud, a través del Subcomité respectivo, para el funcionamiento de establecimientos públicos y privados que proporcionen servicios asistenciales a personas sujetas de asistencia social, con base en lo establecido en la Ley de Asistencia Social;
 
-VII. Integrar y proponer normas para el funcionamiento de establecimientos públicos y privados que proporcionen servicios de rehabilitación a personas con discapacidad;
+VII. Ejercer la tutela de los menores a cargo del Organismo, en términos de las disposiciones legales aplicables, así como administrar, supervisar y coordinar la operación de centros asistenciales del Organismo, concertando en su caso acciones de apoyo y coordinación con los Sistemas Estatales y Municipales para el Desarrollo Integral de la Familia;
 
-VIII. Administrar y coordinar la operación de las unidades de rehabilitación y centros asistenciales del Organismo, concertando acciones de apoyo y coordinación con los sistemas estatales y municipales para el Desarrollo Integral de la Familia;
+VIII. Promover y concertar con los Sistemas Estatales y Municipales para el Desarrollo Integral de la Familia, el establecimiento de centros de asistencia social para la prestación de servicios de Asistencia Social;
 
-IX. Promover y concertar con los Sistemas Estatales y Municipales para el Desarrollo Integral de la Familia, el establecimiento de unidades operativas de rehabilitación y centros de asistencia social;
+IX. Promover la formación de médicos geriatras, así como las actividades de capacitación continua al personal paramédico, técnico y auxiliar del Organismo en esta materia;
 
-X. Promover la formación de médicos especialistas, personal paramédico, técnico y auxiliar, así como actividades de capacitación continua al personal que desarrolla los programas bajo su responsabilidad;
+X. Realizar estudios e investigaciones en materia de su competencia, sobre las causas y los efectos de los problemas prioritarios de Asistencia Social, especialmente para la atención de niños, niñas, adolescentes y adultos mayores, que permitan fortalecer los programas de atención;
 
-XI. Conducir la implementación y ejecución de programas de investigación y desarrollo tecnológico en materia de rehabilitación y prevención de discapacidad;
+XI. Emitir opinión sobre la expedición, revalidación o cancelación de licencias a centros de protección social y de servicios asistenciales de organismos públicos y privados;
 
-XII. Emitir opinión sobre la expedición, revalidación o cancelación de licencias a unidades de rehabilitación y de centros de protección social;
+XII. Promover y concertar esfuerzos y acciones con dependencias y entidades de la administración pública, y la comunidad en general, así como con instituciones privadas y organizaciones de la sociedad civil, dedicadas a la prevención, atención e integración, en favor de personas sujetas de asistencia social;
 
-XIII. Concertar esfuerzos y acciones con dependencias, entidades, así como instituciones públicas y privadas dedicadas a la prevención, atención e integración de personas con discapacidad;
+XIII. Participar en el diseño y desarrollo de modelos de atención integral, orientados a la prestación de servicios a niñas, niños, adolescentes y adultos mayores sujetos de asistencia social;
 
-XIV. Participar en el diseño y desarrollo de modelos de atención de carácter integral, orientados a la prevención de discapacidad, así como a la rehabilitación e integración social de personas con discapacidad e instrumentar su aplicación;
+XIV. Participar en la instrumentación y operación del Servicio Nacional de Información en materia de Asistencia Social;
 
-XV. Coadyuvar en la instrumentación y operación del Servicio Nacional de Información en materia de rehabilitación y asistencia social;
+XV. Proponer la celebración de acuerdos y convenios con los Sistemas Estatales y Municipales para el Desarrollo Integral de la Familia, así como instituciones de asistencia pública y privada, para la implementación de programas y modelos de Asistencia Social;
 
-XVI. Proponer la celebración de acuerdos y convenios con los Sistemas Estatales y Municipales para el Desarrollo Integral de la Familia, para la implementación de programas de asistencia social en materia de prevención de discapacidad, así como de rehabilitación e integración social de personas con discapacidad;
+XVI. Establecer, con base en los presupuestos autorizados, los mecanismos de asignación, control y seguimiento de los recursos transferidos a los Sistemas Estatales para el Desarrollo Integral de la Familia para el apoyo de sus programas de asistencia social;
 
-XVII. Con base a los presupuestos autorizados, establecer los mecanismos de asignación, control y seguimiento de los recursos transferidos a los Sistemas Estatales para el Desarrollo Integral de la Familia para apoyar los programas de rehabilitación y asistencia social; y
+XVII. Promover acciones para mantener la calidad de los servicios de asistencia social que preste el Organismo, los Sistemas Estatales y Municipales para el Desarrollo Integral de la Familia y las organizaciones de la sociedad civil;
 
-XVIII. Las demás que le confieran su superior jerárquico y las disposiciones legales aplicables.
+XVIII. Apoyar la coordinación entre las instituciones que presten servicios de asistencia social y las educativas para formar y capacitar recursos humanos en materia de asistencia social;
+
+XIX. Brindar, de manera gratuita, los servicios institucionales de recreación, hospedaje y alimentación en los centros recreativos del SNDIF para colaborar con el desarrollo de las potencialidades de la población sujeta de asistencia social;
+
+XX. Promover el desarrollo integral, el mejoramiento y la integración familiar de los sujetos de asistencia social;
+
+XXI. Impulsar la capacitación y la educación continua al personal del Organismo que desarrolla los programas bajo su responsabilidad; y
+
+XXII. Las demás que confieran su superior jerárquico y las disposiciones legales aplicables.
+
+> <small>(ADICIONADO, D.O.F. 22 DE AGOSTO DE 2011)</small>
+
+ARTICULO 30 BIS. Corresponde a la Dirección General de Rehabilitación, las siguientes facultades:
+
+I. Establecer las políticas y estrategias en materia de prevención y atención integral de las personas con discapacidad, así como procurar su inclusión social, educativa y laboral;
+
+II. Operar establecimientos de rehabilitación no hospitalitaria y llevar a cabo acciones en materia de prevención, así como de estimulación temprana y atención oportuna de padecimientos potencialmente generadores de discapacidades;
+
+III. Desarrollar y operar el Programa de Atención a Personas con Discapacidad, así como promover la participación de la comunidad en la prevención y control de las causas y factores condicionantes de la discapacidad;
+
+IV. Prestar servicios de atención, rehabilitación integral y promoción de la inclusión social, educativa y laboral para las personas con discapacidad;
+
+V. Participar en la formulación de propuestas de anteproyecto de Normas Oficiales Mexicanas en materia de prevención de discapacidad y rehabilitación integral de personas con discapacidad;
+
+VI. Impulsar procesos de certificación en Normas Técnicas de Competencia Laboral dirigidas al personal del Organismo y de los Sistemas Estatales y Municipales para el Desarrollo Integral de la Familia que participan en los programas de atención a Personas con Discapacidad;
+
+VII. Integrar y proponer Normas Oficiales Mexicanas para su aprobación a la Secretaría de Salud, a través del Subcomité respectivo, para el funcionamiento de establecimientos públicos y privados que proporcionen servicios de rehabilitación y atención integral a personas con discapacidad, incluyendo la adaptación de prótesis, órtesis y ayudas funcionales que requieran;
+
+VIII. Administrar, supervisar y coordinar la operación de las unidades y centros de rehabilitación del Organismo, concertando acciones de apoyo y coordinación con los sistemas estatales y municipales para el Desarrollo Integral de la Familia;
+
+IX. Promover y concertar con los Sistemas Estatales y Municipales para el Desarrollo Integral de la Familia, el establecimiento de unidades operativas de rehabilitación, así como la promoción de la inclusión social, educativa y laboral de las personas con discapacidad, ampliando la cobertura de atención;
+
+X. Formar médicos especialistas, licenciados en Terapia Física y Ocupacional, técnicos ortesistas y protesistas, con la finalidad de coadyuvar en la prevención, rehabilitación e inclusión social educativa y laboral de las personas con discapacidad;
+
+XI. Promover la capacitación y educación continua tanto a personal del Organismo que participa en la atención de las personas con discapacidad, como a las organizaciones de la sociedad civil, comunidades y familias que trabajen a favor de la inclusión social, educativa y laboral de las personas con discapacidad;
+
+XII. Conducir la implementación y ejecución oportuna de programas de investigación y desarrollo tecnológico en materia de prevención de la discapacidad, rehabilitación e inclusión social, educativa y laboral de las personas con discapacidad;
+
+XIII. Supervisar y emitir opinión sobre la expedición, revalidación o cancelación de licencias a unidades de rehabilitación de organismos públicos y privados;
+
+XIV. Promover y concertar esfuerzos y acciones con las dependencias y entidades de la administración pública, y la comunidad en general, así como con instituciones privadas y organizaciones de la sociedad civil, dedicadas a la prevención, atención e inclusión de personas con discapacidad;
+
+XV. Participar en el diseño y desarrollo de modelos de atención de carácter integral, orientados a la prevención de discapacidad, así como a la rehabilitación e integración social de personas con discapacidad e instrumentar su aplicación;
+
+XVI. Coadyuvar en la instrumentación y operación del Servicio Nacional de Información en materia de rehabilitación;
+
+XVII. Proponer la celebración de acuerdos y convenios con los Sistemas Estatales y Municipales para el Desarrollo Integral de la Familia, así como con las instituciones de asistencia privada, para la implementación de programas en materia de prevención de discapacidad, atención integral de personas con discapacidad, así como la inclusión social, educativa y laboral de las personas con discapacidad;
+
+XVIII. Con base en los presupuestos autorizados, establecer los mecanismos de asignación, control y seguimiento de los recursos transferidos a los Sistemas Estatales para el Desarrollo Integral de la Familia para apoyar los programas de rehabilitación;
+
+XIX. Promover estudios e investigaciones en materia de prevención, rehabilitación e integración social de las personas con discapacidad;
+
+XX. Coadyuvar en la implementación de sistemas de calidad en los procesos sustantivos de los centros de rehabilitación;
+
+XXI. Promover el desarrollo de contenidos y edición de materiales para la prevención, rehabilitación e integración social de las personas con discapacidad;
+
+XXII. Evaluar y validar proyectos estatales en materia de prevención, rehabilitación e inclusión social de las personas con discapacidad en el marco del Programa de Atención a Personas con Discapacidad;
+
+XXIII. Diseñar e instrumentar la normatividad para el funcionamiento de los centros de rehabilitación pertenecientes al Organismo;
+
+XXIV. Promover la aplicación de la normatividad vigente en materia de accesibilidad y modificaciones urbanísticas y arquitectónicas de acuerdo a las necesidades de las personas con discapacidad en la comunidad; y
+
+XXV. Las demás que le confieran su superior jerárquico y las disposiciones legales aplicables.
 
 ###### ARTICULO 31.
 
@@ -1138,3 +1230,9 @@ D.O.F. 27 DE MAYO DE 2008.
 PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO. Los asuntos pendientes a la entrada en vigor de la modificación a este estatuto, que conforme al mismo deben transferirse de un área administrativa a otra, continuarán su tramite y serán resueltos por aquella a la que se le haya atribuido la competencia correspondiente.
+
+D.O.F. 22 DE AGOSTO DE 2011.
+
+PRIMERO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Los asuntos pendientes a la entrada en vigor de la modificación a este Estatuto, que conforme al mismo deben transferirse de un área administrativa a otra, continuarán su trámite y serán resueltos por aquélla a la que se le haya atribuido la competencia correspondiente.
