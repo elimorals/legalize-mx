@@ -4,7 +4,7 @@ identifier: "GUA-reglamento-de-la-ley-de-la-defensoria-de-oficio-en-materia-5172
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-09-08"
-last_updated: "2011-06-03"
+last_updated: "2011-08-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51724&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "GUA"
 
 REGLAMENTO DE LA LEY DE LA DEFENSORIA DE OFICIO EN MATERIA PENAL DEL ESTADO DE GUANAJUATO
 
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO DE LA LEY DE LA DEFENSORIA PUBLICA PENAL DEL ESTADO DE GUANAJUATO, PUBLICADO EN LA SEGUNDA PARTE DEL P.O. DE 23 DE AGOSTO DE 2011, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
 > <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO CUARTO TRANSITORIO DEL DECRETO NUMERO 164 PUBLICADO EN EL P.O. DE 3 DE JUNIO DE 2011, TODA REFERENCIA QUE EN LEYES, DECRETOS, REGLAMENTOS O ACUERDOS SE HAGA DE LA DEFENSORIA DE OFICIO EN MATERIA PENAL, SE ENTENDERA HECHA A LA DEFENSORIA PUBLICA EN MATERIA PENAL, DE IGUAL FORMA LA DIRECCION DE LA DEFENSORIA DE OFICIO EN MATERIA PENAL, SE ENTENDERA HECHA A LA DIRECCION DE LA DEFENSORIA PUBLICA PENAL.</small>
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE JUNIO DE 2011.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
 
 Reglamento publicado en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el viernes 8 de septiembre de 2006.
 
@@ -450,3 +452,23 @@ Artículo Noveno. El personal de la Defensoría de Oficio en materia penal se re
 Servicio Profesional de Carrera
 
 Artículo Décimo. Las disposiciones del Servicio Civil de Carrera del Poder Ejecutivo, se aplicarán para el Servicio Profesional de Carrera, de los Defensores Públicos.
+
+P.O. 23 DE AGOSTO DE 2011.
+
+Inicio de vigencia
+
+Artículo Primero. El presente Decreto Gubernativo entrará en vigencia el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Abrogación del Reglamento de la Ley de la Defensoría de Oficio en Materia Penal
+
+Artículo Segundo. Se abroga el Reglamento de la Ley de la Defensoría de Oficio en Materia Penal, contenido en el Decreto Gubernativo número 283, publicado en el Periódico Oficial del Gobierno del Estado número 144, Segunda Parte, el 8 de septiembre de 2006.
+
+Ultractividad del Reglamento de la Ley de la Defensoría de Oficio en Materia Penal
+
+Artículo Tercero. El Reglamento de la Ley de la Defensoría de Oficio en Materia Penal que se abroga en el artículo anterior, continuará aplicándose a los casos del sistema procesal penal mixto.
+
+En consecuencia, los defensores de oficio y demás personal que actualmente atienden los asuntos del sistema procesal penal mixto, forman parte de la estructura de la Dirección de la Defensoría Pública Penal.
+
+Previsión presupuestal
+
+Artículo Cuarto. La Secretaría de Finanzas y Administración proveerá de los recursos necesarios para la operación de la estructura administrativa de la defensoría pública, por lo que las unidades administrativas que la integran entrarán en funcionamiento una vez que se asigne el presupuesto para ello.
