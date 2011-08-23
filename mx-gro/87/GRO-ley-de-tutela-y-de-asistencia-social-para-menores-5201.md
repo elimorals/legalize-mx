@@ -4,7 +4,7 @@ identifier: "GRO-ley-de-tutela-y-de-asistencia-social-para-menores-5201"
 country: "mx"
 rank: "ley"
 publication_date: "1988-12-13"
-last_updated: "1990-07-27"
+last_updated: "2011-08-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5201&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "GRO"
 
 LEY DE TUTELA Y DE ASISTENCIA SOCIAL PARA MENORES INFRACTORES DEL ESTADO DE GUERRERO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE JULIO DE 1990.
+> <small>N. DE E. DE CONFORMIDAD CON EL SEGUNDO TRANSITORIO DE LA LEY NUMERO 762 DE JUSTICIA PARA ADOLESCENTES DEL ESTADO LIBRE Y SOBERANO DE GUERRERO, PUBLICADA EN EL P.O. DE FECHA 23 DE AGOSTO DE 2011, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el martes 13 de diciembre de 1988.
 
@@ -946,3 +948,17 @@ P.O. 27 DE JULIO DE 1990.
 ###### ARTICULO UNICO.
 
 El presente Decreto de reformas y adiciones entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
+
+P.O. 23 DE AGOSTO DE 2011.
+
+PRIMERO.- La presente ley entrará en vigor a los seis meses siguientes de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- A la entrada en vigor del presente ordenamiento jurídico queda abrogada la Ley de Tutela y de Asistencia Social para Menores Infractores del Estado de Guerrero, publicada en el Periódico Oficial del Gobierno del Estado número 103 del 13 de diciembre de 1988. Los adolescentes sujetos a procedimiento por alguna infracción penal, o que se encuentren cumpliendo una medida de tratamiento de conformidad a la ley que se abroga, quedarán sujetos al régimen previsto en la presente ley en todo aquello que les favorezca.
+
+TERCERO.- Se derogan todas las disposiciones que se opongan a esta ley.
+
+CUARTO.- Los asuntos que se encuentren en trámite ante el Consejo Tutelar para Menores Infractores del Estado, a la entrada en vigor de esta ley, serán distribuidos entre los Jueces competentes, en los términos que determine el Pleno del Tribunal Superior de Justicia y conforme a la legislación aplicable.
+
+QUINTO.- Dentro del plazo comprendido entre la publicación y entrada en vigencia de la presente ley, las instancias encargadas de operar el Sistema de Justicia para Adolescentes en el Estado de Guerrero, tomarán las medidas y realizarán las acciones necesarias para que dicho sistema comience a funcionar al entrar en vigor este ordenamiento legal.
+
+SEXTO.- En un plazo de dos meses, después de la entrada en vigor de la presente ley, el Ejecutivo del Estado deberá expedir los reglamentos que se desprendan de la misma.
