@@ -4,7 +4,7 @@ identifier: "MOR-reglamento-interior-de-la-secretaria-del-trabajo-y-70807"
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-11-04"
-last_updated: "2009-11-04"
+last_updated: "2011-08-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70807&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 REGLAMENTO INTERIOR DE LA SECRETARIA DEL TRABAJO Y PRODUCTIVIDAD
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE AGOSTO DE 2011.
 
 Reglamento publicado en el Periódico Oficial del Estado de Morelos, el miércoles 4 de noviembre de 2009.
 
@@ -91,7 +91,9 @@ VI. Dirección General de Inspección del Trabajo en el Estado de Morelos;
 
 VII. Procuraduría Estatal de la Defensa del Trabajo;
 
-VIII. Dirección General del Servicio Nacional del Empleo, y
+> <small>(REFORMADA, P.O. 24 DE AGOSTO DE 2011)</small>
+
+VIII. Dirección General del Servicio Nacional de Empleo Morelos, y
 
 IX. Dirección General Administrativa.
 
@@ -111,9 +113,11 @@ Dichos órganos tendrán la estructura, competencia y se sujetarán a los ordena
 
 La Secretaría contará con las demás unidades administrativas que le sean autorizadas, cuyas funciones y líneas de autoridad se establecerán en el manual de organización general de ésta Secretaría; asimismo se auxiliará de los órganos técnicos y de los servidores públicos necesarios para el cumplimiento de sus atribuciones, de acuerdo con el presupuesto, estructura orgánica y normatividad aplicables.
 
+> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 2011)</small>
+
 ###### Artículo 6.
 
-Las personas titulares de la Secretaría, Subsecretaría de Justicia y Equidad Laboral, Dirección General Jurídica, Dirección General de Políticas Laborales, Dirección General de Conciliación, Dirección General de Inspección del Trabajo en el Estado de Morelos, Procuraduría Estatal de la Defensa del Trabajo, Dirección General del Servicio Nacional del Empleo, Dirección General Administrativa, y demás unidades administrativas que integran ésta Secretaría, conducirán sus actividades en forma programada con base en el Plan Nacional y Estatal de Desarrollo, así como los programas regionales, sectoriales y especiales a su cargo o en los que participe, de acuerdo con la normatividad aplicable.
+Las personas titulares de la Secretaría, Subsecretaría de Justicia y Equidad Laboral, Dirección General Jurídica, Dirección General de Políticas Laborales, Dirección General de Conciliación, Dirección General de Inspección del Trabajo en el Estado de Morelos, Procuraduría Estatal de la Defensa del Trabajo, Dirección General del Servicio Nacional de Empleo Morelos, Dirección General Administrativa, y demás unidades administrativas que integran ésta Secretaría, conducirán sus actividades en forma programada con base en el Plan Nacional y Estatal de Desarrollo, así como los programas regionales, sectoriales y especiales a su cargo o en los que participe, de acuerdo con la normatividad aplicable.
 
 ### CAPÍTULO SEGUNDO. DE LAS SUPLENCIAS Y ENCARGADOS DE DESPACHO
 
@@ -193,9 +197,17 @@ XXIII. Coordinar las acciones de la Secretaría que se puedan vincular con las d
 
 XXIV. Coordinar las investigaciones que muestren el comportamiento y tendencias de los sectores productivos con el fin de difundir los resultados hacia los organismos productivos para que éstos adopten las medidas que estimen necesarias y que contribuyan a su mejora;
 
-XXV. Atender las necesidades más apremiantes en materia de productividad en el Estado, a fin de que, en coordinación con instituciones públicas y privadas y en el ámbito de su competencia, se impartan cursos, diplomados y conferencias en la materia, que propicien el incremento de la misma, en las micro, pequeñas y medianas empresas, y
+> <small>(ADICIONADA, P.O. 24 DE AGOSTO DE 2011)</small>
 
-XXVI. Las demás que en materia de su competencia se establezcan en este Reglamento, los ordenamientos vigentes, acuerdos, decretos, circulares, convenios y sus anexos, así como las que le confiera el Gobernador del Estado.
+XXV. Formalizar y suscribir convenios y acuerdos de colaboración con autoridades, instituciones u organizaciones federales, estatales o municipales, con el objeto de fortalecer la cultura laboral en el Estado Libre y Soberano de Morelos, apegada al marco legal correspondiente, así como elaborar, implementar y ejecutar planes y programas para el desarrollo y promoción del empleo;
+
+> <small>(ADICIONADA, P.O. 24 DE AGOSTO DE 2011)</small>
+
+XXVI. Formalizar y suscribir los convenios y contratos que le correspondan en el ámbito de su competencia;
+
+XXVII. Atender las necesidades más apremiantes en materia de productividad en el Estado, a fin de que, en coordinación con instituciones públicas y privadas y en el ámbito de su competencia, se impartan cursos, diplomados y conferencias en la materia, que propicien el incremento de la misma, en las micro, pequeñas y medianas empresas, y
+
+XXVIII. Las demás que en materia de su competencia se establezcan en este Reglamento, los ordenamientos vigentes, acuerdos, decretos, circulares, convenios y sus anexos, así como las que le confiera el Gobernador del Estado.
 
 ### CAPÍTULO SEGUNDO. DE LA SUBSECRETARÍA DE JUSTICIA Y EQUIDAD LABORAL
 
@@ -261,7 +273,9 @@ b) La Dirección General Jurídica;
 
 c) La Procuraduría Estatal de la Defensa del Trabajo;
 
-d) La Dirección General del Servicio Nacional del Empleo;
+> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 2011)</small>
+
+d) La Dirección General del Servicio Nacional de Empleo Morelos;
 
 e) La Junta Local de Conciliación y Arbitraje;
 
@@ -533,15 +547,21 @@ IX. Desempeñar las comisiones que le confiera el Secretario, y
 
 X. Las demás que establezca su Reglamentación Interna y demás disposiciones legales aplicables.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE AGOSTO DE 2011)</small>
+
 ###### Artículo 23.
 
-Serán facultades del Director General del Servicio Nacional de Empleo las siguientes:
+Serán facultades del Director General del Servicio Nacional de Empleo Morelos las siguientes:
 
 I. Planear y vigilar el desarrollo del Programa de Apoyo al Empleo en el estado de Morelos y aquellos que le sean asignados por la Secretaría del Trabajo y Productividad;
 
-II. Promover el Servicio Nacional de Empleo ante las secretarías, dependencias o entidades de la administración pública estatal, organismos empresariales e instituciones educativas con el propósito de lograr una asertiva vinculación laboral;
+> <small>(REFORMADA, P.O. 24 DE AGOSTO DE 2011)</small>
 
-III. Gestionar ante los representantes de los sectores público, social y privado su colaboración y apoyo para las funciones del Servicio Nacional del Empleo;
+II. Promover el Servicio Nacional de Empleo Morelos ante las Secretarías, Dependencias o Entidades de la Administración Pública Estatal, organismos empresariales e instituciones educativas con el propósito de lograr una asertiva vinculación laboral;
+
+> <small>(REFORMADA, P.O. 24 DE AGOSTO DE 2011)</small>
+
+III. Gestionar ante los representantes de los sectores público, social y privado su colaboración y apoyo para las funciones del Servicio Nacional del Empleo Morelos;
 
 IV. Llevar a cabo diagnósticos trimestrales sobre el comportamiento del mercado del trabajo en el Estado de Morelos, que apoye a las autoridades responsables de implementar políticas públicas de empleo en la toma de decisiones;
 
@@ -555,11 +575,15 @@ VIII. Convocar al Comité Estatal de Capacitación y Empleo;
 
 IX. Proporcionar orientación y capacitación a los buscadores de empleo, para encausarlos hacia los puestos de trabajo vacantes, brindando apoyo a las empresas e industrias para cubrir sus necesidades de personal, dirigiendo a los solicitantes más adecuados por su preparación y aptitudes hacia los empleos que les resulten idóneos;
 
-X. Dirigir las actividades de la Dirección de Servicio Nacional de Empleo, orientadas a la compra o adquisición de maquinaria, herramienta y equipo de trabajo, que se requieran en cumplimiento al Programa de Apoyo al Empleo y la entrega de los mismos, a través de los instrumentos jurídicos idóneos, a los beneficiarios de dicho programa; y
+> <small>(REFORMADA, P.O. 24 DE AGOSTO DE 2011)</small>
+
+X. Dirigir las actividades de la Dirección General del Servicio Nacional de Empleo Morelos, orientadas a la compra o adquisición de maquinaria, herramienta y equipo de trabajo, que se requieran en cumplimiento al Programa de Apoyo al Empleo y la entrega de los mismos, a través de los instrumentos jurídicos idóneos, a los beneficiarios de dicho programa, y
 
 XI. Las demás que le sean conferidas por el Secretario del Trabajo y Productividad y las que contemple las reglas de operación del Programa de Apoyo al Empleo.
 
-La Dirección General del Servicio Nacional de Empleo conducirá sus actividades de conformidad con lo establecido en el Acuerdo mediante el cual se establecen las Reglas de Operación del Programa de Apoyo al Empleo que cada año expide el Gobierno Federal a través de la Secretaría del Trabajo y Previsión Social.
+> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 2011)</small>
+
+La Dirección General del Servicio Nacional de Empleo Morelos conducirá sus actividades de conformidad con lo establecido en el Acuerdo mediante el cual se establecen las Reglas de Operación del Programa de Apoyo al Empleo que cada año expide el Gobierno Federal a través de la Secretaría del Trabajo y Previsión Social.
 
 ###### Artículo 24.
 
@@ -710,3 +734,11 @@ EL SECRETARIO DEL TRABAJO Y PRODUCTIVIDAD
 ING. VÍCTOR AMADOR REYES ADAMS
 
 RÚBRICAS.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA AL PRESENTE REGLAMENTO.</small>
+
+P.O. 24 DE AGOSTO DE 2011.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión oficial del Gobierno del Estado Libre y Soberano de Morelos.
+
+SEGUNDO. Se derogan todas las disposiciones de igual o menor rango que contravengan al presente Decreto.
