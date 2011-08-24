@@ -4,7 +4,7 @@ identifier: "NAY-reglamento-interior-del-organo-de-fiscalizacion-superior-74477"
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-03-10"
-last_updated: "2011-01-29"
+last_updated: "2011-08-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=74477&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "NAY"
 ---
 # REGLAMENTO INTERIOR DEL ORGANO DE FISCALIZACION SUPERIOR DEL ESTADO DE NAYARIT
 
-REGLAMENTO INTERIOR DEL ORGANO DE FISCALIZACION SUPERIOR DEL ESTADO DE NAYARIT
+REGLAMENTO INTERIOR DEL ÓRGANO DE FISCALIZACIÓN SUPERIOR DEL ESTADO DE NAYARIT
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE ENERO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE AGOSTO DE 2011.
 
 Reglamento publicado en la Sección Quinta del Periódico Oficial del Estado de Nayarit, el miércoles 10 de marzo de 2010.
 
@@ -63,35 +63,65 @@ A fin de asegurar la operación y el funcionamiento del Órgano, las cuestiones 
 
 DEL ÁMBITO DE COMPETENCIA Y ORGANIZACIÓN DEL ÓRGANO DE FISCALIZACIÓN SUPERIOR.
 
-> <small>(REFORMADO, P.O. 29 DE ENERO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE AGOSTO DE 2011)</small>
 
 ###### ARTÍCULO 5°.
 
-Para el ejercicio de sus atribuciones y el despacho de los asuntos que le competen, el Órgano de Fiscalización Superior estará a cargo del Auditor General y contará con las unidades administrativas que conforman su estructura, las cuales se organizarán de la siguiente manera:
+Para el ejercicio de sus atribuciones y el despacho de los asuntos que le competen, el Órgano de Fiscalización Superior estará a cargo del Auditor General y contará con las unidades administrativas que conforman su estructura, las cuales se organizaran de la siguiente manera:
 
-1. Auditoria General.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE AGOSTO DE 2011)</small>
+
+1. Auditor General.
+
+> <small>(REFORMADO, P.O. 29 DE ENERO DE 2011)</small>
 
 1.1. Coordinación General de Planeación.
 
+> <small>(REFORMADO, P.O. 29 DE ENERO DE 2011)</small>
+
 1.1.1 Departamento de Supervisión de Auditorias Financieras y de Evaluación del Desempeño.
+
+> <small>(REFORMADO, P.O. 29 DE ENERO DE 2011)</small>
 
 1.1.2 Departamento de Supervisión de Auditorias de Obra Pública.
 
+> <small>(REFORMADO, P.O. 29 DE ENERO DE 2011)</small>
+
 1.1.3 Oficilia (sic) de Partes.
+
+> <small>(REFORMADO, P.O. 29 DE ENERO DE 2011)</small>
 
 1.1.4 Archivo de Digitalización.
 
+> <small>(REFORMADO, P.O. 29 DE ENERO DE 2011)</small>
+
 1.2. Secretaría Ejecutiva.
+
+> <small>(REFORMADO, P.O. 29 DE ENERO DE 2011)</small>
 
 1.3. Instituto de Capacitación y Desarrollo para la Fiscalización Superior.
 
+> <small>(REFORMADO, P.O. 29 DE ENERO DE 2011)</small>
+
 1.4. Contraloria Interna.
+
+> <small>(REFORMADO, P.O. 29 DE ENERO DE 2011)</small>
 
 1.5. Unidad de Enlace y Acceso a la Información.
 
+> <small>(REFORMADO, P.O. 29 DE ENERO DE 2011)</small>
+
 1.6. Secretaria Particular.
 
+> <small>(REFORMADO, P.O. 29 DE ENERO DE 2011)</small>
+
 1.7. Asesores.
+
+> <small>(ADICIONADO, P.O. 24 DE AGOSTO DE 2011)</small>
+
+1. 8 Unidad de Registro de Servidores Públicos Estatales y Municipales
+
+> <small>(REFORMADO, P.O. 29 DE ENERO DE 2011)</small>
 
 2. Auditoría Especial de Gestión Financiera y Evaluación del Desempeño.
 
@@ -115,6 +145,8 @@ Para el ejercicio de sus atribuciones y el despacho de los asuntos que le compet
 
 2.4.2. Departamento de Auditoría de Evaluación del Desempeño a Municipios.
 
+> <small>(REFORMADO, P.O. 29 DE ENERO DE 2011)</small>
+
 3. Auditoría Especial de Infraestructura.
 
 3.1. Dirección de Auditoría a Ifraestructura (sic) Estatal y Municipal.
@@ -125,15 +157,19 @@ Para el ejercicio de sus atribuciones y el despacho de los asuntos que le compet
 
 3.1.3. Departamento de Auditoría a Infraestructura Municipal B.
 
-4. Unidad Jurídica.
+> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 2011)</small>
 
-4.1 Dirección de Responsabilidades y Situación Patrimonial.
+4. Unidad Jurídica
 
-4.1.1 Departamento de Responsabilidades y Situación Patrimonial.
+4.1 Dirección de Responsabilidades
 
-4.2. Dirección Jurídica y Consultiva.
+4.1.1 Departamento de Responsabilidades
 
-4.2.1. Departamento Jurídico y Consultivo.
+4.2 Dirección Jurídica y Consultiva
+
+4.2.1 Departamento Jurídico y Consultivo
+
+> <small>(REFORMADO, P.O. 29 DE ENERO DE 2011)</small>
 
 5. Unidad de Administración.
 
@@ -145,7 +181,11 @@ Para el ejercicio de sus atribuciones y el despacho de los asuntos que le compet
 
 5.4. Departamento de Informática.
 
+> <small>(REFORMADO, P.O. 29 DE ENERO DE 2011)</small>
+
 El Órgano contará además con coordinadores, auditores, analistas, evaluadores, notificadores, consultores y con el demás personal auxiliar que las necesidades del servicio requieran y determine el Auditor General, de conformidad a la disponibilidad presupuestal; el funcionamiento organizacional y operativo se precisará en el Manual de Organización y de Procedimientos.
+
+> <small>(REFORMADO, P.O. 29 DE ENERO DE 2011)</small>
 
 Todos los servidores públicos del Órgano de Fiscalización Superior, deberán observar el Código de Ética que al efecto expida el Auditor General.
 
@@ -387,9 +427,11 @@ VIII. Coadyuvar con las demás unidades administrativas para complementar, conju
 
 DE LAS ATRIBUCIONES DE LOS TITULARES DE LAS UNIDADES JURÍDICA Y DE ADMINISTRACIÓN.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE AGOSTO DE 2011)</small>
+
 ###### ARTÍCULO 15.
 
-Además de las atribuciones que señala el artículo 17 de la Ley, el Director General de la Unidad Jurídica, tendrá las siguientes atribuciones:
+Además de las atribuciones que señala el artículo 17 de la Ley del Órgano, el Director General de la Unidad Jurídica, tendrá las siguientes atribuciones:
 
 I. Formular y proponer al Auditor General el Programa Operativo Anual que contenga los proyectos de los programas que realizará durante el ejercicio fiscal siguiente, y las modificaciones al mismo; para tal efecto, asumirá el modelo, criterios y/o lineamientos que determine el Auditor General a través de la Coordinación General de Planeación;
 
@@ -413,7 +455,9 @@ X. En ausencia del Auditor General y los Auditores Especiales, suscribir los inf
 
 XI. Asesorar sobre la elaboración de los dictámenes técnicos para promover acciones derivadas de la fiscalización de la Cuenta Pública;
 
-XII. Proponer las normas y lineamientos que regulen el procedimiento de recepción y registro de las declaraciones de situación patrimonial de los servidores públicos que deben presentarlas ante el Órgano y supervisar su aplicación, en términos de Ley o de los Acuerdos que al efecto se emitan;
+> <small>(REFORMADA, P.O. 24 DE AGOSTO DE 2011)</small>
+
+XII. Presentar las denuncias correspondientes, derivadas de la fiscalización a las declaraciones de situación patrimonial de los servidores públicos que deban presentarlas ante el órgano, cuando así lo instruya el Auditor General; así como coadyuvar en la realización de investigaciones y auditorías que se realicen a las declaraciones patrimoniales;
 
 XIII. Presentar un informe trimestral al Auditor General sobre el estado que guarda el desahogo de procedimientos de responsabilidades;
 
@@ -425,7 +469,9 @@ XVI. Instruir, substanciar y resolver el procedimiento para el financiamiento de
 
 XVII. Instruir el recurso de reconsideración a que alude el Capítulo IX de la Ley del Órgano, y proponer al Auditor General el proyecto de resolución respectivo;
 
-XVIII. Llevar el registro y seguimiento del cobro de los resarcimientos y ejecución de las sanciones impuestas por el Órgano, en los términos de la ley;
+> <small>(REFORMADA, P.O. 24 DE AGOSTO DE 2011)</small>
+
+XVIII. Llevar el registro de las sanciones administrativas y resarcitorias que sean determinadas e impuestas por el Órgano así como el seguimiento de su ejecución y cobro. En todo caso, de estas sanciones, una vez que queden firmes, y de los procedimientos disciplinarios instaurados deberá informarse al Registro de Servidores Públicos Estatales y Municipales;
 
 XIX. Para los efectos que establecen los párrafos segundo y tercero del artículo 57 de la Ley de Responsabilidades de los Servidores Públicos del Estado de Nayarit, el Director General de la Unidad Jurídica instruirá y substanciará el procedimiento administrativo disciplinario en los términos que establece el artículo 67 de dicho ordenamiento hasta su fase de resolución, al efecto, propondrá el proyecto resolutivo al acuerdo y firma del Auditor General;
 
@@ -681,9 +727,15 @@ XIII. Atender las inconformidades que presenten los proveedores o contratistas e
 
 XIV. Intervenir en los actos y procedimientos de la entrega-recepción de las áreas administrativas del Órgano;
 
-XV. Informar al Auditor General, sobre las actividades realizadas por la Contraloría Interna; y
+XV. Informar al Auditor General, sobre las actividades realizadas por la Contraloría Interna; y (sic)
 
-XVI. Las demás, que en el ámbito de su competencia le establezcan las disposiciones jurídicas aplicables o le encomiende el Auditor General del Órgano.
+> <small>(REFORMADA, P.O. 24 DE AGOSTO DE 2011)</small>
+
+XVI. Informar al Registro de Servidores Públicos Estatales y Municipales las sanciones administrativas que determine una vez que éstas queden firmes, así como de los procedimientos disciplinarios que instaure;
+
+> <small>(ADICIONADA, P.O. 24 DE AGOSTO DE 2011)</small>
+
+XVII. Las demás, que en el ámbito de su competencia le establezcan las disposiciones jurídicas aplicables o le encomiende el Auditor General del Órgano.
 
 DE LA UNIDAD DE ENLACE Y ACCESO A LA INFORMACIÓN
 
@@ -708,6 +760,38 @@ V. Proponer al Auditor General los procedimientos internos que aseguren la mayor
 VI. Llevar un registro de las solicitudes de acceso a la información, y su atención procedente; y
 
 VII. Las demás: (sic) necesarias para garantizar y agilizar el flujo de información entre el Órgano con el Instituto de Transparencia y Acceso a la Información Pública del Estado de Nayarit y los solicitantes, y en su caso, las que se establezcan por la Ley de la materia.
+
+> <small>(ADICIONADO, P.O. 24 DE AGOSTO DE 2011)</small>
+
+ARTÍCULO 22 A.- La Unidad de Registro de Servidores Públicos Estatales y Municipales es el área responsable de integrar y operar el registro a que alude al artículo 85 de la Ley de Responsabilidades de los Servidores Públicos del Estado de Nayarit. Al frente de esta Unidad, habrá un jefe de área el cual tendrá las siguientes atribuciones:
+
+I.- Promover ante el Auditor General las gestiones y acciones que estime necesarias a fin de integrar y mantener actualizado el Registro;
+
+II.- Elaborar los proyectos de constancias de inhabilitación, no inhabilitación, constancias de sanciones, constancias de no existencia de sanciones y demás documentos necesarios para atender las solicitudes de información al Registro y presentarlos al Auditor General para su suscripción;
+
+III.- Proponer al Auditor General, los proyectos de normas para la operación del Registro así como los formatos de solicitudes de información y constancias.
+
+IV.- Verificar que la información que emitan los entes públicos en relación al Registro se remita de manera veraz y oportuna.
+
+V.- Atender las dudas de los interesados en información del Registro que respecto a su operación y contenidos se presenten;
+
+VI.- Proponer acciones para difundir entre los entes públicos las normas para la operación del Registro de Servidores Públicos;
+
+VII.- Concentrar y salvaguardar la información y documentación que se genere por el Registro integrando el archivo correspondiente;
+
+VIII.- Realizar la recepción, registro, control y archivo de las declaraciones de situación patrimonial de los servidores públicos que deban presentarlas ante el Órgano; en todo caso la publicitación de la información de las declaraciones patrimoniales se hará siempre y cuando se cuente con la autorización previa y expresa del servidor público del que se trate, en los demás casos se deberá guardar la reserva de su contenido;
+
+IX.- Previo acuerdo con el Auditor General, podrá instrumentar las acciones para realizar las investigaciones y auditorías necesarias para verificar la evolución del patrimonio de los servidores públicos que presenten sus declaraciones ante el Órgano. Para este propósito podrá contar con la coadyuvancia de la Auditoría Especial de Gestión Financiera y Evaluación al Desempeño y de la Unidad Jurídica. El resultado de estas investigaciones deberá informarse al Auditor General, para que, de ser el caso, se promuevan las acciones procedentes en términos de ley;
+
+X.- Promover ante el Auditor General las acciones necesarias a fin de mantener actualizado el padrón de servidores públicos obligados a presentar su declaración patrimonial ante el Órgano,
+
+XI.- Informar al Auditor General, que servidores públicos han sido omisos y de los que presenten de manera extemporánea su declaración patrimonial al efecto de que se promuevan las acciones de responsabilidad correspondientes;
+
+XII.- Presentar al Auditor General los proyectos de normas, formatos impresos y electrónicos, manuales e instructivos necesarios para la presentación de las declaraciones patrimoniales, así como en su caso las propuestas de modificaciones a éstos para que, de considerarse necesario, en términos de ley se proceda a su emisión o modificación;
+
+XIII.- Elaborar el proyecto de Programa Operativo Anual para someterlo a la autorización del Auditor General y presentarle trimestralmente un informe sobre las actividades que realice;
+
+XIV.- Las demás que establezca este Reglamento y las que le encomiende el Auditor General.
 
 DE LA SECRETARÍA PARTICULAR
 
@@ -903,9 +987,11 @@ XV. Asesorar a las direcciones de auditoría en la elaboración de los documento
 
 XVI. Asesorar a los auditores especiales y direcciones de auditorías en la elaboración de los dictámenes técnicos para formular pliegos de observaciones, seguimiento y en su caso solventación de acuerdo con los plazos, procedimientos y disposiciones legales aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE AGOSTO DE 2011)</small>
+
 ###### ARTÍCULO 32.
 
-La Dirección de Responsabilidades y Situación Patrimonial, estará adscrita a la Unidad Jurídica y su titular tendrá las siguientes atribuciones:
+La Dirección de Responsabilidades, estará adscrita a la Unidad Jurídica y su titular tendrá las siguientes atribuciones:
 
 I. Apoyar al titular de la Unidad Jurídica en la instrucción y substanciación de los procedimientos para el fincamiento de las responsabilidades resarcitorias a que den lugar las irregularidades en que incurran los servidores públicos o particulares, personas físicas o morales, por actos u omisiones de los que resulte un daño o perjuicio, o ambos, estimable en dinero, que afecte al Estado y Municipios en su Hacienda Pública o al patrimonio de los entes públicos;
 
@@ -925,7 +1011,9 @@ VIII. Dar seguimiento a la gestión de cobro de los pliegos definitivos de respo
 
 IX. Solicitar a las auditorías especiales y direcciones de auditoría, la opinión técnica que se requiera para la sustanciación del procedimiento para el fincamiento de responsabilidades administrativas y resarcitorias; y
 
-X. Efectuar la recepción, registro, control, revisión y fiscalización de las declaraciones de situación patrimonial de los servidores públicos que deben presentarlas ante el Órgano y en su caso presentar las denuncias correspondientes a las contralorías internas para que inicien el procedimiento administrativo conducente.
+> <small>(REFORMADA, P.O. 24 DE AGOSTO DE 2011)</small>
+
+X.- Coadyuvar con la Unidad de Registro de Servidores Públicos Estatales y Municipales en las investigaciones y auditorías de las declaraciones patrimoniales que ésta realice así como en la formulación de las denuncias que en su caso se lleguen a presentar; (sic)
 
 ### CAPÍTULO VIII
 
@@ -1126,3 +1214,7 @@ P.O. 29 DE ENERO DE 2011.
 ###### ARTÍCULO PRIMERO.
 
 El presente acuerdo surtirá sus efectos a partir del día 01 de febrero de 2011 previa su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+P.O. 24 DE AGOSTO DE 2011.
+
+Artículo Único.- El presente acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano de Difusión del Gobierno del Estado.
