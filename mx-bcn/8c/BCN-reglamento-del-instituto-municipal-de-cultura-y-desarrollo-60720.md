@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-del-instituto-municipal-de-cultura-y-desarrollo-6072
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-04-11"
-last_updated: "2008-04-11"
+last_updated: "2011-08-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=60720&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 REGLAMENTO DEL INSTITUTO MUNICIPAL DE CULTURA Y DESARROLLO HUMANO DE ENSENADA, BAJA CALIFORNIA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE AGOSTO DE 2011.
 
 Reglamento publicado en el Periódico Oficial del Estado de Baja California, el viernes 11 de abril de 2008.
 
@@ -61,7 +61,9 @@ REGLAMENTO DEL INSTITUTO MUNICIPAL DE CULTURA Y DESARROLLO HUMANO DE ENSENADA
 
 ## Título Primero
 
-### Capítulo I.
+> <small>(REFORMADO, P.O. 26 DE AGOSTO DE 2011)</small>
+
+### Capítulo Primero.
 
 Disposiciones Generales.
 
@@ -115,7 +117,9 @@ El Instituto Municipal de Cultura y Desarrollo Humano de Ensenada, tiene por obj
 
 El patrimonio del Instituto se integra por:
 
-I. Las partidas presupuestales que le correspondan del Presupuesto de Egresos del Municipio;
+> <small>(REFORMADA, P.O. 26 DE AGOSTO DE 2011)</small>
+
+I. Las partidas presupuestales que le correspondan del Presupuesto de Egresos del Municipio, que le garanticen su operatividad y el cumplimiento de sus atribuciones, funciones y programas;
 
 II. Los activos, bienes muebles e inmuebles que posee actualmente y los que por cualquier título adquiera para la consecución de sus fines, o con motivo de las actividades propias de su objeto;
 
@@ -125,17 +129,25 @@ IV. Los ingresos que obtenga por las actividades que desarrolle en cumplimiento 
 
 V. Los rendimientos y demás ingresos que obtenga por la inversión de los recursos a que se refieren las fracciones anteriores.
 
+> <small>(REFORMADO, P.O. 26 DE AGOSTO DE 2011)</small>
+
 ###### Artículo 7.
 
-Dependerán del Instituto y se incorporan a su estructura orgánica, administrativa y normativa, los entes siguientes:
+Dependerán del Instituto, como entes incorporados en su estructura administrativa y normativa, los siguientes:
 
-I. La Casa de la Cultura y
+I. La Casa de la Cultura;
 
-II. Las Bibliotecas Públicas Municipales.
+II. Las Bibliotecas Públicas Municipales;
+
+III. El Archivo Histórico de Ensenada; y
+
+IV. La Hemeroteca Pública "Francisco Vargas Bañaga".
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE AGOSTO DE 2011)</small>
 
 ###### Artículo 8.
 
-Para la prestación de los servicios de promoción cultural y artística a la comunidad, el Instituto ejerce las funciones siguientes:
+Para la prestación de los servicios de promoción cultural y artística a la comunidad, el Instituto ejerce las siguientes atribuciones:
 
 l.- Garantizar sin discriminación a todos los ciudadanos el acceso equitativo que asegure el pleno disfrute de todos los bienes y servicios culturales que se oferten en el municipio;
 
@@ -167,7 +179,29 @@ XIV.- Contribuir a la oferta de servicios bibliotecarios en el municipio, increm
 
 XV.- Realizar labores editoriales de manera directa o a través de terceros que conduzcan a un adecuado registro de la cultura impresa o electrónica de las obras que abarquen todos los géneros literarios;
 
-XVI.- Aprovechar los medios masivos de comunicación para fines de difusión cultural, generando también sus propios medios impresos y electrónicos; boletines, revistas, programas de radio y televisión, a través de convenios con empresas e instituciones públicas o privadas que permitan desarrollar proyectos viables en materia de difusión masiva de la cultura y las artes.
+> <small>(REFORMADA, P.O. 26 DE AGOSTO DE 2011)</small>
+
+XVI. Aprovechar los medios masivos de comunicación para fines de difusión cultural, generando también sus propios medios impresos y electrónicos, boletines, revistas, programas de radio y televisión, a través de convenios con empresas e instituciones públicas o privadas que permitan desarrollar proyectos viables en materia de difusión masiva de la cultura y artes;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE AGOSTO DE 2011)</small>
+
+XVII. Elaborar el Plan de Desarrollo Cultural de Ensenada;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE AGOSTO DE 2011)</small>
+
+XVIII. Coadyuvar con las dependencias y organismos de la administración pública municipal a efecto de que formulen y lleven a cabo sus actividades culturales en forma coherente con el Plan de Desarrollo Cultural de Ensenada;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE AGOSTO DE 2011)</small>
+
+XIX. Establecer mecanismos de comunicación, coordinación y concertación con dependencias y organismos públicos y privados que realicen actividades de carácter cultural;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE AGOSTO DE 2011)</small>
+
+XX. Promover un proceso integral y participativo que propicie el conocimiento y fortalecimiento de la identidad ensenadense;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE AGOSTO DE 2011)</small>
+
+XXI. Las demás que le señalen las leyes, reglamentos y demás ordenamientos legales aplicables.
 
 ### Capítulo III.
 
@@ -187,35 +221,41 @@ III.- El Comisario.
 
 El Consejo del Instituto es el órgano jerárquicamente superior en la estructura del Instituto y estará integrado de la siguiente manera:
 
+> <small>(REFORMADA, P.O. 26 DE AGOSTO DE 2011)</small>
+
 I. Con voz y voto:
 
 a. Presidente Municipal o quien el designe;
 
-b. El Regidor Coordinador de la Comisión de Educación, Cultura y Deporte;
+b. Los Regidores integrantes de la Comisión de Educación, Cultura, Ciencia y Tecnología;
 
-c. Dos Regidores integrantes de la Comisión de Educación, Cultura y Deporte, designados en la sesión de la misma comisión;
+c. El Director General del Instituto;
 
-d. Un representante nombrado por el Consejo Ciudadano para la Cultura y las Artes, en su ausencia un representante del subcomité de cultura del COPLADEM;
+d. Un representante del Subcomité de Cultura del COPLADEM;
 
-e. Tres representantes ciudadanos, con al menos uno que pertenezca a alguna etnia indígena.
+e. Cuatro representantes ciudadanos, con al menos uno que pertenezca a alguna etnia indígena, uno a la comunidad de personas con discapacidad, y uno que represente a la comunidad artística.
+
+f. Un representante de la Asociación de Periodistas de Ensenada, A.C.
+
+g. Un representante del Seminario de Historia de Baja California, A.C.
+
+> <small>(REFORMADA, P.O. 26 DE AGOSTO DE 2011)</small>
 
 II. Con voz:
 
-a. El Director General del Instituto;
+a. Cuatro representantes del Ayuntamiento nombrados por el Presidente Municipal que se desempeñen en deporte, educación, asistencia social y salud;
 
-b. Cuatro Representantes del Ayuntamiento nombrados por el Presidente Municipal, que se desempeñen en deporte, educación, asistencia social y salud;
+b. Un representante del Instituto de Cultura de Baja California;
 
-c. Un Representante de Instituto de Cultura de Baja California;
+c. Un representante del Sistema Educativo Estatal;
 
-d. Un Representante de Sistema Educativo Estatal;
+d. Un representante del Instituto Nacional de Antropología e Historia;
 
-e. Un Representante de Instituto Nacional de Antropología e Historia;
+e. Un representante de la Comisión Nacional para el Desarrollo de los Pueblos Indígenas;
 
-f. Un Representante de la Comisión Nacional para el Desarrollo de los Pueblos Indígenas;
+f. Un representante de la Universidad Autónoma de Baja California;
 
-g. Un Representante de Universidad Autónoma de Baja California;
-
-h. Un Representante de la Comunidad Artística.
+g. El Cronista oficial.
 
 Los integrantes a que se refiere el presente artículo, deberán contar con su respectivo suplente, mismo que será nombrado junto con el propietario.
 
@@ -223,19 +263,27 @@ Los integrantes del Consejo serán honorarios, por lo que no recibirán retribuc
 
 El director del instituto fungirá como Secretario del Consejo.
 
+> <small>(ADICIONADO, P.O. 26 DE AGOSTO DE 2011)</small>
+
+###### Artículo 10 Bis.
+
+El Consejo podrá autorizar la incorporación de más integrantes con voz, cuando a su juicio sea necesario para el mejor desempeño de sus funciones.
+
 ###### Artículo 11.
 
 El Consejo tendrá las siguientes facultades:
 
-I. Presentar la terna para la elección del director del Instituto al Presidente Municipal;
+I. (DEROGADA, P.O. 26 DE AGOSTO DE 2011)
 
-II. Elegir a los aspirantes que cumplan con todos los requisitos establecidos en la convocatoria para nombrar los (sic) representantes ciudadanos, misma que será emitida por el Presidente Municipal;
+II. (DEROGADA, P.O. 26 DE AGOSTO DE 2011)
 
 III. Crear y reformar el reglamento interior del Instituto;
 
 IV. Aprobar y vigilar el cumplimiento de los planes, programas y proyectos que se elaboren para cumplir los objetivos y fines del Instituto;
 
-V. Aprobar anualmente los pronósticos de anteproyecto de presupuestos de ingresos y del presupuesto de egresos del instituto y someterlo a consideración del Ayuntamiento para su aprobación;
+> <small>(REFORMADA, P.O. 26 DE AGOSTO DE 2011)</small>
+
+V. Aprobar anualmente el anteproyecto de presupuesto de ingresos y del presupuesto de egresos del Instituto y someterlo a la consideración del Ayuntamiento para su aprobación;
 
 VI. La emisión de resoluciones respecto a los informes, dictámenes y recomendaciones del comisario;
 
@@ -263,17 +311,21 @@ XVII. Presentar anualmente al Ayuntamiento, informe sobre la aplicación de recu
 
 XVIII. Solicitar y en su casa contratar, estudios, opiniones y dictámenes que, deban realizarse por especialistas y técnicos de la materia de que se trate, cuando se considere que éstos son necesarios para la toma de decisiones, y el buen desempeño del Instituto;
 
-XIX. Nombrar al Director de Casa de la Cultura y al coordinador de Bibliotecas Públicas Municipales;
+XIX. (DEROGADA, P.O. 26 DE AGOSTO DE 2011)
 
 XX. Las demás que le fijen las leyes y reglamentos aplicables en la materia.
 
+> <small>(REFORMADO, P.O. 26 DE AGOSTO DE 2011)</small>
+
 ###### Artículo 12.
 
-El titular de la Dirección del Instituto, será nombrado por el Presidente Municipal en base a una terna propuesta por el Consejo.
+El titular de la Dirección del Instituto será nombrado por el Presidente Municipal.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE AGOSTO DE 2011)</small>
 
 ###### Artículo 13.
 
-Los miembros de la terna a que se refiere el artículo anterior deberán reunir los siguientes requisitos:
+El Director General del Instituto deberá reunir los siguientes requisitos:
 
 I. Ser ciudadano mexicano, de reconocida trayectoria por su relación con el ámbito cultural en la región, con conocimientos y sensibilidad en la materia;
 
@@ -321,15 +373,19 @@ VIII. No haber sido condenado por delito alguno.
 
 IX. Presentar una ponencia en materia de Cultura de máximo tres cuartillas.
 
-La convocatoria deberá ser lanzada en el mes de mayo, a los diecisiete meses de la instalación del Ayuntamiento de que se trate, publicándose en uno de los diarios de mayor circulación del Municipio.
+> <small>(REFORMADO, P.O. 26 DE AGOSTO DE 2011)</small>
+
+La convocatoria deberá ser lanzada dentro de los primeros tres meses de la instalación del Ayuntamiento de que se trate por el Presidente Municipal a través de la Secretaría General del Ayuntamiento, publicándose al menos en uno de los diarios de mayor circulación del Municipio.
 
 La publicación se realizará en dos ocasiones con una distancia de tres días naturales entre cada una de ellas.
 
-Los solicitantes deberán presentar su solicitud acompañada de la documentación correspondiente dentro de los diez días naturales posteriores a la última publicación de la convocatoria.
+> <small>(REFORMADO, P.O. 26 DE AGOSTO DE 2011)</small>
 
-Las solicitudes serán recibidas por la Secretaría General del Ayuntamiento y turnadas al Consejo para su dictamen y posterior aprobación.
+Las solicitudes serán recibidas por la Secretaría General del Ayuntamiento y turnadas a la Comisión de Educación, Cultura, Ciencia y Tecnología para su dictamen y posterior aprobación por el Ayuntamiento.
 
-El Consejo, deberá comunicar su resolución dentro de los cinco días posteriores a la fecha límite para la recepción de documentación.
+> <small>(REFORMADO, P.O. 26 DE AGOSTO DE 2011)</small>
+
+El Ayuntamiento deberá comunicar su resolución dentro de los quince días hábiles posteriores a la fecha límite para la recepción de documentación.
 
 ###### Artículo 17.
 
@@ -341,11 +397,15 @@ El Comisario del Instituto, será el Síndico Procurador Municipal o la persona 
 
 De las atribuciones y facultades de los miembros del Consejo del Instituto.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, 26 DE AGOSTO DE 2011)</small>
+
 ###### Artículo 18.
 
-Atribuciones del Presidente de Consejo del Instituto:
+Atribuciones del Presidente del Consejo del Instituto:
 
-I. Convocar a reunión del Consejo, con por lo menos 48 horas de anticipación;
+> <small>(REFORMADA, P.O. 26 DE AGOSTO DE 2011)</small>
+
+I. Convocar a reunión del Consejo, a través del Secretario del mismo por lo menos con 5 días de anticipación.
 
 II. Someter a consideración del Consejo para su análisis los expedientes correspondientes a los asuntos planteados;
 
@@ -415,7 +475,7 @@ El Consejo del Instituto celebrará sesiones ordinarias una vez cada tres meses.
 
 ###### Artículo 24.
 
-La convocatoria para las sesiones ordinarias del Consejo del Instituto deberá ser hecha por el Presidente del mismo, por lo menos con 10 días de anticipación.
+(DEROGADO, P.O. 26 DE AGOSTO DE 2011)
 
 ###### Artículo 25.
 
@@ -479,39 +539,33 @@ El Consejo del Instituto deberá girar una copia de las minutas y los informes d
 
 ## Título Tercero
 
-### Capítulo I.
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 26 DE AGOSTO DE 2011)</small>
 
-De la organización administrativa del Director del Instituto y sus atribuciones.
+### Capítulo I.. De la organización administrativa del Instituto
+
+> <small>(REFORMADO, P.O. 26 DE AGOSTO DE 2011)</small>
 
 ###### Artículo 38.
 
-El Instituto será administrado y operado por un Director, y para el mejor desempeño de su labor contará con el personal que permita la capacidad operativa, administrativa y financiera del propio Instituto.
+El Instituto será administrado y operado por un Director General y para el mejor desempeño de su labor contará con el personal que permita la capacidad operativa, administrativa y financiera del propio Instituto.
+
+> <small>(REFORMADO, P.O. 26 DE AGOSTO DE 2011)</small>
 
 ###### Artículo 39.
 
-Son funciones del Director del Instituto, las siguientes:
+El Instituto para el desempeño de sus funciones contará con la siguiente estructura orgánica:
 
-I. La organización administrativa y operativa del Instituto.
+I. Sub Dirección Operativo;
 
-II. Realizar las tareas de planeación, organización y conducción del Instituto de conformidad a las instrucciones dadas por el Consejo, y las disposiciones legales que le sean aplicables.
+II. Sub Dirección de Casas de la Cultura;
 
-III. Elaborar y presentar al Consejo del Instituto los programas operativos anuales y los proyectos de inversión del Instituto.
+III. Coordinación Administrativa;
 
-IV. Dirigir el funcionamiento del Instituto de conformidad con las disposiciones normativas aplicables.
+IV. Coordinación de Patrimonio Cultural y Archivo Histórico;
 
-V. De acuerdo con las disposiciones del Consejo del Instituto, celebrar convenios, contratos y todos aquellos actos jurídicos que sean indispensables para el cumplimiento del objetivo del Instituto.
+V. Coordinación de Difusión Cultural y Bibliotecas Públicas Municipales;
 
-VI. Designar y remover libremente al resto de funcionarios administrativos, con los que el Instituto tenga relación laboral, efectuando los nombramientos y estableciendo las relaciones laborales de acuerdo con las disposiciones legales vigentes aplicables en la materia y aquellas normas que observe este ordenamiento.
-
-VII. Presentar un informe trimestral del avance financiero y programático del organismo ante el Consejo del Instituto.
-
-VIII. Presentar informe trimestral y anual del estado que guarda la administración del organismo, así como de su patrimonio ante el Consejo del Instituto.
-
-IX. Elaborar y presentar al Consejo del Instituto los programas y presupuestos para los años subsecuentes durante el periodo administrativo correspondiente, durante el mes de agosto de cada año.
-
-X. Ejecutar los acuerdos y disposiciones del Consejo del Instituto.
-
-XI. Las demás que le fijen las leyes y reglamentos aplicables en la materia.
+Las funciones específicas de los órganos del Instituto serán establecidas en su Reglamento Interno.
 
 T R A N S I T O R I O S (SIC)
 
@@ -526,3 +580,19 @@ PRESIDENTE MUNICIPAL DEL XVIII AYUNTAMIENTO DE ENSENADA, B. C.
 LIC. JULIO CESAR ARENAS RUIZ
 
 SECRETARIO FEDATARIO DEL XVIII AYUNTAMIENTO DE ENSENADA, B. C.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 26 DE AGOSTO DE 2011.
+
+PRIMERO.- Una vez aprobada la presente reforma, publíquese en el Periódico Oficial del Estado de Baja California, para efectos de entrar en vigor al día siguiente de su publicación.
+
+SEGUNDO.- En un término no mayor a 60 días naturales a partir de la entrada en vigor de la presente reforma, el Consejo del Instituto Municipal de Cultura y Desarrollo Humano de Ensenada deberá elaborar y aprobar el Reglamento Interno del Instituto.
+
+TERCERO.- A partir de la entrada en vigor de la presente reforma la Dirección de Educación deberá iniciar la transferencia a favor del Instituto Municipal de Cultura y Desarrollo Humano de Ensenada, del mobiliario, vehículos, instrumentos, maquinaria, archivos, y en general los recursos que la Dirección haya utilizado para la atención de las Bibliotecas Públicas Municipales, estableciéndose como fecha límite para concluir el proceso referido el 31 de Diciembre de 2011; Asimismo en el subsidio que aporte el Municipio de Ensenada al Presupuesto de Egresos para el Ejercicio Fiscal 2012 del Instituto Municipal de Cultura y Desarrollo Humano, deberá incluirse el recurso necesario para la operatividad de las Bibliotecas Públicas Municipales, tomando como referencia el recurso asignado para tal efecto por la Dirección de Educación conforme al Presupuesto de Egresos del Ejercicio Fiscal 2011, a la cual consecuentemente le será disminuido el recurso aportado al Instituto para los fines señalados; lo anterior sin menoscabo de los aumentos que pudieran considerarse y/o del presupuesto propio del Instituto.
+
+CUARTO.- La administración de la Casa de la Cultura quedará a cargo de la Administración Central hasta el 31 de Diciembre de 2011, fecha que se establece como límite para que la Dirección de Casa de la Cultura transfiera al Instituto de Cultura y Desarrollo Humano de Ensenada, el mobiliario, vehículos, instrumentos, maquinaria, archivos, y en general los recursos que la Casa de la Cultura haya utilizado para la atención de sus funciones. Por lo que en el Presupuesto de Egresos del Instituto Municipal de Cultura y Desarrollo Humano de Ensenada para el ejercicio fiscal 2012, deberán incluirse los recursos de las partidas que ejerce la Dirección de Casa de la Cultura, conforme el Presupuesto de Egresos del ejercicio fiscal 2011, sin menoscabo de los aumentos que pudieran considerarse y/o del presupuesto propio del Instituto.
+
+QUINTO.- En la primera Sesión Ordinaria del Consejo del Instituto deberá tomarse protesta a los nuevos Consejeros establecidos en la presente reforma, en el entendido de que los Consejeros ciudadanos durarán en su encarga (sic) hasta la renovación del Consejo, en los términos del Reglamento del Instituto Municipal de Cultura y Desarrollo Humano de Ensenada.
+
+SEXTO.- Se derogan todas las disposiciones que contravengan el contenido de la presente reforma y sus artículos transitorios.
