@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-de-la-ley-de-organizacion-y-reglamentaria-del-3235"
 country: "mx"
 rank: "reglamento"
 publication_date: "1993-08-13"
-last_updated: "1999-09-17"
+last_updated: "2011-08-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3235&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,268 +21,302 @@ state: "BCN"
 ---
 # REGLAMENTO DE LA LEY DE ORGANIZACION Y REGLAMENTARIA DEL REGISTRO PUBLICO DE LA PROPIEDAD Y DEL COMERCIO
 
-REGLAMENTO DE LA LEY DE ORGANIZACION Y REGLAMENTARIA DEL REGISTRO PUBLICO DE LA PROPIEDAD Y DEL COMERCIO
+LEY DE CAMARAS DE LA PROPIEDAD URBANA PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE SEPTIEMBRE DE 1999.
+TEXTO ORIGINAL.
 
-Reglamento publicado en el Periódico Oficial del Estado de Baja California, el viernes 13 de agosto de 1993.
+Ley publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el miércoles 6 de febrero de 1957.
 
-ERNESTO RUFFO APPEL, GOBERNADOR CONSTITUCIONAL DEL ESTADO DE BAJA CALIFORNIA, EN USO DE LAS FACULTADES, CONTENIDAS EN EL ARTICULO 49 FRACCION XVI DE LA CONSTITUCION POLITICA DE LA ENTIDAD, ASI COMO EL ARTICULO 10 DE LA LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO, HE TENIDO A BIEN EXPEDIR EL SIGUIENTE.
+EL C. LIC. NEFTALI DAVILA, Gobernador Constitucional Interino del Estado Independiente, Libre y Soberano de Coahuila de Zaragoza, a sus habitantes sabed:
 
-REGLAMENTO DE LA LEY DE ORGANIZACION Y REGLAMENTARIA DEL REGISTRO PUBLICO DE LA PROPIEDAD Y DEL COMERCIO.
+Que el H. Congreso del mismo ha decretado lo que sigue:
 
-### CAPITULO I. DEL OBJETO Y AMBITO DE COMPETENCIA
+EL XL CONGRESO CONSTITUCIONAL DEL ESTADO INDEPENDIENTE, LIBRE Y SOBERANO DE COAHUILA DE ZARAGOZA, DECRETA:
 
-###### ARTICULO 1.
+Número: 135.-
 
-El presente reglamento tiene por objeto reglamentar los artículos 16, 23, 28, 41, 46 y 60 de la Ley de Organización y Reglamentaria del Registro Público de la Propiedad y del Comercio.
+Ley de Cámaras de la Propiedad Urbana para el Estado de Coahuila de Zaragoza.
 
-###### ARTICULO 2.
+### CAPITULO I.
 
-Compete a la Dirección del Registro Público de la Propiedad y del Comercio como dependencia del Poder Ejecutivo la aplicación del presente reglamento.
+DISPOSICIONES GENERALES.
 
-### CAPITULO II. DE LA RECTIFICACION, REPOSICION Y CANCELACIÓN DE LOS ASIENTOS REGISTRALES
+###### Artículo 1o.
 
-###### ARTICULO 3.
+Las Cámaras de la Propiedad Urbana en el Estado son Instituciones públicas, autónomas, con personalidad Jurídica, constituidas para la representación de los intereses de los propietarios de fincas urbanas y para servir de órgano coordinador entre ellos y las dependencias Administrativas y Fiscales, Estatales y Municipales, etc.
 
-Los errores materiales que se adviertan en los asientos registrales serán rectificados previa solicitud que por escrito presente la parte interesada.
+###### Artículo 2o.
 
-> <small>(REFORMADO, P.O. 17 DE SEPTIEMBRE DE 1999)</small>
+El Ejecutivo del Estado, por conducto de la Dirección General del Catastro, que en el curso de esta Ley se denominará "EL CATASTRO", resolverá sobre la constitución de las Cámaras de la Propiedad Urbana, a solicitud de estas, ó de algún grupo de propietarios, cuidando de que reúnan los requisitos establecidos en esta Ley, y ejercerá las demás funciones que en la misma se le asignan.
 
-###### ARTICULO 4.
+###### Artículo 3o.
 
-El Registro Público de la Propiedad y del Comercio, estará a cargo de la Dependencia del Poder Ejecutivo denominada Dirección del Registro Público de la Propiedad y del Comercio, con sede en la Capital del Estado y se desempeñará, por lo que se refiere a las inscripciones de los documentos objeto de él, por los registradores que funcionarán en las circunscripciones municipales que conforman a esta Entidad.
+El domicilio de la Jurisdicción de la Cámara de la Propiedad Urbana se fijará tomando en cuenta las ventajas del lugar, su importancia económica y las necesidades de las Cámaras circunvecinas.
 
-El titular del Registro Público de la Propiedad y del Comercio, será el Director de la Dependencia del Ejecutivo a que se refiere este Artículo, quien con el Subdirector, Registradores y demás personal administrativo, integrarán dicha Dependencia.
+###### Artículo 4o.
 
-###### ARTICULO 5.
+Sólo podrán usar la denominación de Cámaras de la Propiedad Urbana, las instituciones organizadas de acuerdo con esta Ley.
 
-Procede la reposición de los asientos registrales cuando por su destrucción o mutilación se haga imposible establecer el tracto sucesivo entre los efectuados y los posteriores.
+### CAPITULO II.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 24 DE DICIEMBRE DE 1993)</small>
+DEL OBJETO DE LAS CAMARAS DE LA PROPIEDAD URBANA.
 
-El Registrador procederá a cancelar la imagen que obre integrada en los dispositivos de almacenamiento óptico que se seleccionen, cuando se incurren en los casos señalados en el párrafo anterior y en el artículo 3o. del presente reglamento.
+###### Artículo 5o.
 
-### CAPITULO III. DE LA PUBLICIDAD DE INSCRIPCION
+Las Cámaras de la Propiedad Urbana tendrán como objeto:
 
-###### ARTICULO 6.
+I.- Representar los intereses de los Propietarios de fincas Urbanas, participar en su defensa y prestar los servicios que señalan los Estatutos.
 
-Los documentos originales que se presenten para su inscripción podrán ser digitalizados y validados mediante el sistema de cómputo que se adopte, con el objeto de que consten íntegramente en los dispositivos de almacenamiento electrónico que se seleccione, siempre y cuando proceda al registro de los mismos.
+II.- Ser órgano de consulta del Estado, particularmente de las Oficinas Administrativas y Fiscales, en lo referente a la expedición de Leyes del Catastro, su reglamentación y la fijación de los valores catastrales de fincas urbanas en cada período Catastral participando en su formación en coordinación con dichas oficinas.
 
-###### ARTICULO 7.
+III.- Ser órgano por cuyo conducto los propietarios de fincas urbanas puedan, si así lo desean, presentar sus quejas e inconformidades ante las Oficinas Fiscales del Estado en lo referente a valorizaciones catastrales, pago de impuesto por capital urbano y demás casos en que en forma alguna pudiera afectarse el valor o la renta de sus propiedades.
 
-Los asientos en los libros existentes de registro de documentos objeto de inscripción, podrán reproducirse por el sistema computarizado d. tramitación registral con el fin de facilitar al público la información contenida.
+IV.- Fomentar el desarrollo de las poblaciones de su Jurisdicción en todos los aspectos que se consideren convenientes, participando en los organismos de planificación y zonificación que con dicho objeto se formen o bien cooperando con las juntas de mejoras materiales y de urbanización que ya existen.
 
-###### ARTICULO 8.
+V.- Vigilar y recomendar que las fincas urbanas se conserven decorosamente para la vista y ornato de la ciudad, y hacer que se atiendan los reglamentos y condiciones de higiene de las vecindades muy principalmente y casas habitación en general.
 
-Las inscripciones de los documentos registrales se asentarán y archivarán por los procedimientos seleccionados, integrando un archivo registral que se contendrá en cualquier medio de procesamiento electrónico.
+VI.- Influir en la estabilidad de las rentas de casas habitación y promover la construcción de casas baratas y la formación de colonias populares.
 
-Cuando se utilice el sistema electrónico las inscripciones automatizadas contendrán: número de inscripción, sección a la que pertenece, fecha de registro y firma de autorización del Registrador Público.
+VII.- Realizar las demás funciones que les señalen esta Ley y los Estatutos, y las que se deriven de la naturaleza propia de la Institución.
 
-### CAPITULO IV. DEL REGISTRO INMOBILIARIO
+### CAPITULO III.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE DICIEMBRE DE 1993)</small>
+DE LOS SOCIOS.
 
-###### ARTICULO 9.
+###### Artículo 6o.
 
-Tratándose de documentos públicos o privados por virtud de los cuales se establezca, declare, reconozca, trasmita, modifique o extinga la propiedad de bienes inmuebles, deberá acompañarse siguiente documentación:
+Habrá Socios Inscritos y Socios Activos. Los Socios Inscritos son aquellos que pagan una cuota anual de registro. Los Socios Activos son los que estando registrados pagan además una cuota mensual y las extraordinarias que se acuerden por la Cámara.
 
-> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 1993)</small>
+###### Artículo 7o.
 
-I.- Deslinde Catastral, debidamente autorizado por la Dirección de Catastro, con excepción de los terrenos destinados a favor del Gobierno del Estado o de los Municipios en los términos del artículo 70 del Reglamento de fraccionamientos del Estado de Baja California, en estos casos bastará la exhibición del plano autorizado por la Secretaría de Asentamientos Humanos y Obras Públicas del Estado, o Dirección de Catastro Municipal correspondiente.
+Todo propietario de fincas urbanas está obligado a inscribirse anualmente en el registro especial que se llevará en la Cámara correspondiente y se considerará como Sacio (sic) Inscrito.
 
-> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 1993)</small>
+Por la inscripción de registro las Cámaras cobrarán una cuota a cada propietario, que se fijará tomando en consideración el valor catastral correspondiente y las bases que se establezcan al respecto en los Estatutos.
 
-II.- Avalúo expedido por la Comisión Estatal de Avalúos, Instituciones Bancarias o perito valuador autorizado, con excepción de los terrenos destinados al Gobierno del Estado o Municipios en los términos del artículo 70 del Reglamento de Fraccionamientos del Estado de Baja California.
+Quedan exentas de este pago las viudas, mujeres solas o menores de edad que no posean sino la casa en que habitan, siempre que su valor comercial no exceda de $10,000.00.
 
-III.- Declaración del impuesto sobre adquisición de bienes inmuebles y trasmisión de dominio.
+###### Artículo 8o.
 
-> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 1993)</small>
+Los Socios Activos cubrirán su cuota mensual conforme a las bases que se fijen en los Estatutos, bajo el entendimiento de que quienes no cubran regularmente la cuota que se les asigne no tendrá derecho para reclamar ninguna prestación de servicios por las Cámaras ni ocuparán cargos Directivos ni de Representación.
 
-IV.- Declaración del impuesto sobre adquisición de inmuebles y pago provisional del impuesto sobre la renta.
+Tanto las cuotas a que se refiere este artículo como las que por inscripciones señala el anterior, quedarán sujetas a la aprobación del Ejecutivo del Estado.
 
-V.- Certificado de libertad de gravámenes fiscales expedido por la autoridad correspondiente y que contendrá a su vez: sello y firma correspondiente a la Dirección de Catastro Municipal, Recaudación de Rentas Estatal y Municipal respectivamente, Consejo de Urbanización Municipal, Junta de Urbanización y Comisión Estatal de Servicios Públicos correspondiente.
+###### Artículo 9o.
 
-La documentación enunciada en las fracciones I, II y V tendrá vigencia de un año natural, computado a partir de la fecha de expedición.
+Los propietarios inscritos en los Registros de las Cámaras, ya sean Socios Inscritos ó Socios Activos, tendrán derecho de asistir a las Asambleas Generales.
 
-###### ARTICULO 10.
+Los Socios Activos tendrán además los siguientes derechos:
 
-(DEROGADO, P.O. 24 DE DICIEMBRE DE 1993)
+I.- Votar en las Asambleas Generales.
 
-###### ARTÍCULO 11.
+II.- Ser designados para los cargos Directivos y de Representación.
 
-(DEROGADO, P.O. 24 DE DICIEMBRE DE 1993)
+III.- Utilizar los servicios que haya establecido la Cámara sin erogación alguna por ese concepto.
 
-###### ARTICULO 12.
+###### Artículo 10o.
 
-Los actos registrales en que intervengan apoderados, albaceas, herederos y menores de edad deberán acompañar a su solicitud de inscripción, poder notariado, autorización o nombramiento judicial, en su caso, a efecto de comprobar la personalidad de las partes contratantes.
+Son obligaciones de todos los propietarios inscritos en una Cámara.
 
-###### ARTICULO 13.
+I.- Cubrir la cuota de Inscripción correspondiente.
 
-Los actos relativos a bienes inmuebles serán inscribibles siempre que reunan los siguientes requisitos:
+###### Artículo 11o.
 
-I.- Indicación del lugar en que se ubique, descripción del predio, fraccionamiento, colonia o poblado, número de lote, manzana y clave catastral.
+Son obligaciones de los Socios Activos.
 
-II.- Superficie, medidas y colindancias que deberán concordar con su antecedente registral.
+I.- Cubrir además las cuotas mensuales que se fijen en los Estatutos y las extraordinarias que acuerde la Cámara.
 
-###### ARTICULO 14.
+II.- Aceptar y desempeñar los cargos y comisiones que se les confieran.
 
-Los documentos que sean materia de inscripción consignarán en forma literal los nombres propios contenidos en los antecedentes de registro, a falta de estos datos será admisible la presentación de fé notarial o jurisdicción voluntaria.
+III.- Cumplir con las atribuciones y acuerdos de la Cámara en lo que se refiere a lo establecido en los Incisos (sic) V y VI del Artículo 5o. de la presente Ley.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 24 DE DICIEMBRE DE 1993)</small>
+### CAPITULO IV.
 
-### CAPITULO V. DE LAS INSCRIPCIONES PREVENTIVAS
+DE LA CONSTITUCION Y FUNCIONAMIENTO DE LAS CAMARAS.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE DICIEMBRE DE 1993)</small>
+###### Artículo 12o.
 
-###### ARTICULO 15.
+Para el establecimiento de una Cámara de Propietarios se requiere:
 
-Para la procedencia de las inscripciones preventivas se requerirá:
+I.- Que lo solicite un grupo no menor de 40 propietarios de fincas urbanas, domiciliados en una misma población.
 
-> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 1993)</small>
+En caso de concurrencia de dos o más grupos que soliciten la constitución de una Cámara, el Ejecutivo del Estado confiará las tareas de organización al grupo que en su concepto esté más capacitado para ello.
 
-I.- El señalamiento de la autoridad remitente, en su caso.
+Con la solicitud para el establecimiento de la Cámara deberá presentarse el proyecto de Estatutos.
 
-II.- Número de expediente.
+II.- Que en el lugar no exista Cámara de Propietarios organizada y reconocida por el Ejecutivo del Estado.
 
-III.- Naturaleza del procedimiento.
+III.- Que el Ejecutivo del Estado apruebe la Constitución de la Cámara y sus Estatutos.
 
-> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 1993)</small>
+###### Artículo 13o.
 
-IV.- Acción deducida, en su caso
+Las Cámaras serán dirigidas y administradas por un Consejo Directivo y por los demás órganos que se establezcan en los Estatutos y los cuales fijarán el número de Consejeros que deberán integrar el Consejo Directivo de Cada Cámara.
 
-V.- (REFORMADA [N. DE E. DEROGADA], P.O. 24 DE DICIEMBRE DE 1993)
+### CAPITULO V.
 
-> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 1993)</small>
+DE LAS ASAMBLEAS.
 
-VI.- Suerte principal o en su caso monto de la operación a registrar.
+###### Artículo 14o.
 
-> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 1993)</small>
+La Asamblea General de Socios es el órgano supremo de las Cámaras.- Las Asambleas Generales serán ordinarias y extraordinarios (sic).- Las primeras se celebrarán cada año en la época en que se fije en los Estatutos y las segundas cuando lo acuerde el Consejo Directivo ó cuando lo solicite la tercera parte de los Socios Activos. Si en este caso la Directiva no expide la convocatoria en un término de 10 días el Catastro hará la convocatoria.
 
-VII.- Descripción específica, tratándose de bienes muebles en los términos del artículo 16 de este reglamento. En el caso de inmuebles descripción que contenga superficie, medidas y colindancias y datos del registro del bien sobre el que recae la inscripción.
+Todas las Asambleas deberán celebrarse en el domicilio de la Cámara, salvo que el Consejo Directivo, ó en su caso el Catastro, por causas justificadas fijen un lugar distinto, pero siempre en la población del domicilio de la Cámara.
 
-VIII.- (REFORMADA [N. DE E. DEROGADA], P.O. 24 DE DICIEMBRE DE 1993)
+###### Artículo 15o.
 
-> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 1993)</small>
+Las Asambleas Generales ordinarias tendrán las siguientes atribuciones:
 
-IX.- Indicación de los efectos de la inscripción.
+I.- Revisar y en su caso aprobar el informe que rinda el Consejo Directivo; las cuentas de gastos del ejercicio anterior; los presupuestos de ingresos y gastos para el ejercicio siguiente; y el plan de trabajos a desarrollar en el siguiente ejercicio, todo lo cual deberá ser presentado por el Consejo Directivo a la consideración de la Asamblea.
 
-### CAPITULO VI. DEL REGISTRO INMOBILIARIO
+II.- Elegir a los miembros del Consejo Directivo, a un Comisario y a los integrantes de las Delegaciones cuando las haya.
 
-###### ARTICULO 16.
+III.- Resolver sobre los demás asuntos comprendidos en la Orden del Día y sobre aquellos que la Asamblea estime conveniente tratar.
 
-Los efectos relativos a bienes muebles serán inscribibles, siempre que reunan los requisitos siguientes:
+IV.- Los demás que le señalen la presente Ley y los Estatutos.
 
-I.- Que se trate de bienes muebles susceptibles de identificación indubitable, nombre del vendedor y comprador.
+###### Artículo 16o.
 
-II.- Número de modelo, motor, serie, número progresivo de fábrica, nombre de marca o cualquier otro medio que sea útil para identificarlo.
+Las convocatorias para las Asambleas Generales contendrán la Orden del Día y se harán mediante circulares enviadas a todos los socios y deberán publicarse por una sola vez en el diario local o regional donde se encuentre el domicilio de la Cámara. El envío de la convocatoria y publicación deberá hacerse cuando menos con diez días de anticipación a la fecha en que deba celebrarse la Asamblea.
 
-III.- Factura del mueble.
+###### Artículo 17o.
 
-IV.- Ubicación del bien mueble en la jurisdicción correspondiente.
+Para que funcionen legalmente las Asambleas Generales deberán asistir cuando menos el 51% de los Socios de la Cámara.
 
-###### ARTICULO 17.
+Si no concurre este número deberá hacerse una segunda convocatoria con los mismos requisitos que la primera y en éste caso la Asamblea funcionará legalmente con el número de socios que concurre.
 
-En caso de que la operación que ampara la factura no comprenda la totalidad de los bienes y se acompañará copia certificada de la misma.
+Los Estatutos reglamentarán el funcionamiento de las Asambleas Generales y la forma de tomar las decisiones.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 24 DE DICIEMBRE DE 1993)</small>
+###### Artículo 18o.
 
-### CAPITULO VII. DE LA INSCRIPCION DE GRAVAMENES
+Las Asambleas Extraordinarias se ocuparán de conocer y resolver los puntos especiales para los que fueron convocadas según la correspondiente Orden del Día.
 
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1993)</small>
+### CAPITULO VI.
 
-###### ARTICULO 18.
+DEL CONSEJO DIRECTIVO.
 
-Las inscripciones de toda clase de gravámenes o contratos de garantía que limiten la propiedad o la posesión de inmuebles, o los actos jurídicos en virtud de los cuales se adquieran, transmitan o modifiquen derechos reales, como embargo, cédula hipotecaria, o secuestro, procederán cuando el predio de que se trate se encuentre inscrito a nombre de quien se decretó la providencia.
+###### Artículo 19o.
 
-###### ARTICULO 19.
+El Consejo Directivo será el órgano ejecutivo de la Cámara y se integrará en la forma que establezcan los Estatutos, precisamente con propietarios de fincas urbanas que sean a la vez socios Activos.
 
-Para la inscripción de los actos señalados en el artículo anterior, se requerirá:
+Los miembros del Consejo durarán en su cargo 2 años no pudiendo ser reelectos para el ejercicio inmediato siguiente.
 
-I.- Orden proveniente de autoridad competente.
+En los Estatutos se establecerán las bases necesarias para que el Consejo se renueve por mitad cada año.
 
-II.- Que los nombres de las partes demandadas en los actos indicados coincidan literalmente con los plasmados en el antecedente de inscripción.
+Los cargos de los Consejeros son honoríficos. Los Estatutos establecerán la forma en que el Consejo elija de entre sus miembros a los que tengan la representación ejecutiva.
 
-III.- La identidad entre los datos que proporcione el documento y las inscripciones respectivas, como lo son: antecedente de propiedad, lote, manzana, superficie y colonia.
+###### Artículo 20o.
 
-IV.- Señalamiento expreso de las cantidades es (sic) materia de embargo, cédula, secuestro.
+El Catastro tendrá la facultad de nombrar un representante ante cada Cámara, quien formará parte del Consejo Directivo, con voz pero sin voto y sin remuneración de parte de la Cámara.
 
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1993)</small>
+###### Artículo 21o.
 
-###### ARTICULO 20.
+Son facultades y obligaciones del Consejo Directivo:
 
-Cuando los bienes del deudor se encuentren en copropiedad, tal circunstancia deberá constar en el documento materia de inscripción.
+I.- Representar a la Cámara por medio de su Presidente ó de la persona ó personas que para el efecto designen, ante toda clase de autoridades y particulares, con las facultades que conforme a derecho correspondan a un apoderado general con poder amplísimo, sin restricciones.
 
-###### ARTICULO 21.
+II.- Ejecutar todas las funciones administrativas, como nombramiento de Gerente y empleados, llevar registros y libros y todas las demás funciones de carácter administrativo.
 
-Los embargos u otros gravámenes con indicación de cuantías en moneda extranjera, causarán el pago de derechos conforme al tipo de cambio que rija en el Banco de México al momento de su cuantificación.
+III.- Cumplir los acuerdos de las Asambleas Generales.
 
-###### ARTICULO 22.
+IV.- Convocar a las Asambleas Generales Ordinarias y Extraordinarias y formular la Orden del Día correspondiente.
 
-Si el bien materia de embargo se encuentra inscrito a nombre de uno de los cónyuges, se proporcionará por la autoridad judicial o administrativa los derechos afectables derivados de la sociedad conyugal así como el antecedente de inscripción de las capitulaciones matrimoniales.
+V.- Las demás que se deriven de esta Ley y las que se fijen en los Estatutos.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 24 DE DICIEMBRE DE 1993)</small>
+###### Artículo 22o.
 
-### CAPITULO VIII. DE LA CANCELACION DE GRAVAMENES
+En caso de que el Consejo Directivo no cumpla con las funciones que le corresponden, incurra en graves violaciones a esta Ley, ó se ocupe de actividades distintas a las propias de la Institución, será removido por la Asamblea General.
 
-> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 1993)</small>
+La Convocatoria para esta Asamblea será hecha por el Catastro a solicitud de los Socios Activos Inscritos en la Cámara de cuando menos un 50%.
 
-###### ARTICULO 23.
+###### Artículo 23o.
 
-Los documentos públicos o privados en los cuales se solicite la liberación de gravámenes, deberán señalar los antecedentes de registro del gravámen que se pretenda cancelar.
+A solicitud de una Cámara, el Catastro acordará que se funden Delegaciones de la misma, en aquellos lugares que lo ameriten. Estas Delegaciones se integrarán con propietarios de la localidad en número no menor de 5 y tendrán un órgano directivo conforme se establezca en los Estatutos. La Directiva de las Delegaciones será nombrada por las Asambleas Generales de la Cámara a que pertenezcan.
 
-> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 1993)</small>
+### CAPITULO VII.
 
-###### ARTICULO 24.
+DE LOS ESTATUTOS DE LAS CAMARAS.
 
-Los documentos referentes a la cancelación de gravamenes, señalarán monto del gravámen o porcentaje del mismo con el propósito de proceder a realizar la tildación. Asimismo nombre de las Partes, descripción del bien mueble o inmueble y personalidad de quienes intervienen en dicho acto.
+###### Artículo 24o.
 
-TRANSITORIOS (SIC).
+Los Estatutos deberán expresar en todo caso:
+
+I.- El domicilio de la Cámara.
+
+II.- Las facultades que correspondan al Consejo Directivo, el Presidente del mismo y a los demás funcionarios que designe.
+
+III.- La forma de llevar los registros y libros de la Cámara.
+
+IV.- Las bases y tablas para el cobro de las cuotas de inscripción y de las mensuales.
+
+V.- Las reglas para el establecimiento y funcionamiento de los servicios para los socios.
+
+VI.- Las sanciones que deban aplicarse a los socios por incumplimiento de los Estatutos y prevenciones de la presente Ley.
+
+VII.- La reglamentación de los casos que en esta Ley se reserven para los Estatutos.
+
+VIII.- La forma de constitución y funcionamiento de las Delegaciones.
+
+IX.- El procedimiento que deberá seguirse en caso de disolución.
+
+###### Artículo 25o.
+
+Cualquiera modificación de los Estatutos de las Cámaras deberá ser aprobado por el Catastro.
+
+### CAPITULO VIII.
+
+DE LA DISOLUCION Y LIQUIDACION DE LAS CAMARAS.
+
+###### Artículo 26o.
+
+Las Cámaras de la Propiedad Urbana se disolverán cuando se reduzca a menos de 20 el número de sus miembros ó cuando la Asamblea Extraordinaria así lo determine, siendo liquidadas de acuerdo con los Estatutos.
+
+### CAPITULO IX.
+
+SANCIONES.
+
+###### Artículo 27o.
+
+A las personas físicas que hagan uso de la denominación "Cámaras de la Propiedad Urbana", sin estar facultados para ello, se les impondrá una multa de $500.00 a $1,000.00 sin perjuicio de las sanciones penales aplicables.
+
+###### Artículo 28o.
+
+A los propietarios de fincas Urbanas que no cumplan con el Artículo 7o. de esta Ley, se les aplicará una multa igual a la cuota de inscripción que hayan dejado de cubrir; no se les atenderá mientras no presenten su comprobante de pago respectivo, y además pagarán a su Cámara la cuota omitida.
+
+## TRANSITORIOS.
 
 ###### ARTICULO PRIMERO.
 
-El presente reglamento entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
-
-Mexicali, B.C. a los 26 días del mes de julio de 1993.
-
-ATENTAMENTE.
-
-SUFRAGIO EFECTIVO. NO REELECCION.
-
-EL GOBERNADOR CONSTITUCIONAL DEL ESTADO.
-
-LIC. ERNESTO RUFFO APPEL.
-
-EL SECRETARIO GENERAL DE GOBIERNO
-
-C.P. FORTUNATO ALVAREZ ENRIQUEZ.
-
-EL DIRECTOR DEL REGISTRO PUBLICO DE LA PROPIEDAD Y DE COMERCIO.
-
-LIC. JOSE ANTONIO BRETON MENA.
-
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA AL PRESENTE REGLAMENTO.</small>
-
-P.O. 24 DE DICIEMBRE DE 1993.
-
-###### ARTICULO PRIMERO.
-
-El presente acuerdo entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
-
-P.O. 17 DE SEPTIEMBRE DE 1999.
-
-###### ARTICULO PRIMERO.
-
-El presente Decreto entrará en vigor al día siguiente de su publicación, en el Periódico Oficial del Estado.
+Las Cámaras de Propietarios constituídas con anterioridad a esta Ley, bastará con que ajusten sus estatutos a las disposiciones de la misma y lo notifiquen al Ejecutivo del Estado, para que queden legalmente reconocidas.
 
 ###### ARTICULO SEGUNDO.
 
-El titular de la Oficina Registral en el Municipio de Playas de Rosarito, previo a consumar inscripciones, anotaciones o cancelaciones o a expedir o autorizar certificaciones de actos jurídicos conforme a la Ley que regula la materia y, cuyos antecedentes consten en los archivos de las Oficinas Registrales del municipio de Tijuana, procederá a solicitar al Registrador competente, copia certificada de éstos, para que formen parte del archivo histórico-registral de la nueva Oficina, causándose previamente los derechos respectivos conforme a la Ley de Ingresos vigente para el Estado de Baja California.
+La presente Ley entrará en vigor 15 días después de la fecha de su publicación en el Periódico Oficial.
 
-###### ARTICULO TERCERO.
+DADO en el Salón de Sesiones del Congreso del Estado, en la Ciudad de Saltillo, a los veintiséis días del mes de noviembre de mil novecientos cincuenta y seis.
 
-Practicado el proceso consignado en el Artículo anterior, el Registrador Público de la Propiedad y del Comercio en Playas de Rosarito, notificará oficialmente esa circunstancia al Registrador de la jurisdicción municipal correspondiente, para que este último haga constar en la partida inicial la referencia de que ésta fue trasladada a los archivos del Registro Público de Playas de Rosarito.
+DIPUTADO PRESIDENTE:
 
-###### ARTICULO CUARTO.
+Arturo Villareal Ramos.
 
-El Registrador Público de la Propiedad y de Comercio en el municipio de Tijuana, a partir de la fecha de publicación de este Decreto, carecerá de facultad para consumar nuevas inscripciones, expedir o autorizar certificación alguna respecto a inscripciones, anotaciones y cancelaciones de actos jurídicos que consten en el archivo y que resulten de actual competencia de la Oficina Registral con sede en el Municipio de Playas de Rosarito.
+(Rúbrica).
+
+DIPUTADO SECRETARIO:
+
+Justino Macías R.
+
+(Rúbrica).
+
+DIPUTADO SECRETARIO:
+
+Alejandro González R.
+
+(Rúbrica).
+
+IMPRIMASE, COMUNIQUESE Y OBSERVESE.
+
+Saltillo, Coah. Noviembre 27 de 1956.
+
+LIC. NEFTALI DAVILA.- Rúbrica.
+
+EL OF. MAYOR ENC. DEL DESP.
+
+PROFR. JOSE R. MIJARES.- Rúbrica.
