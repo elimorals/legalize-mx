@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-de-la-ley-de-organizacion-y-reglamentaria-del-3235"
 country: "mx"
 rank: "reglamento"
 publication_date: "1993-08-13"
-last_updated: "1999-09-17"
+last_updated: "2011-08-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3235&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "BCN"
 
 REGLAMENTO DE LA LEY DE ORGANIZACION Y REGLAMENTARIA DEL REGISTRO PUBLICO DE LA PROPIEDAD Y DEL COMERCIO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE SEPTIEMBRE DE 1999.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO DE LA LEY DEL REGISTRO PUBLICO DE LA PROPIEDAD Y DE COMERCIO, PUBLICADO EN EL P.O. DE 26 DE AGOSTO DE 2011, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Periódico Oficial del Estado de Baja California, el viernes 13 de agosto de 1993.
 
@@ -286,3 +288,11 @@ Practicado el proceso consignado en el Artículo anterior, el Registrador Públi
 ###### ARTICULO CUARTO.
 
 El Registrador Público de la Propiedad y de Comercio en el municipio de Tijuana, a partir de la fecha de publicación de este Decreto, carecerá de facultad para consumar nuevas inscripciones, expedir o autorizar certificación alguna respecto a inscripciones, anotaciones y cancelaciones de actos jurídicos que consten en el archivo y que resulten de actual competencia de la Oficina Registral con sede en el Municipio de Playas de Rosarito.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 26 DE AGOSTO DE 2011.
+
+PRIMERO.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado y de acuerdo a lo que se señala en los siguientes artículos.
+
+SEGUNDO.- Se abroga el Reglamento de la Ley de Organización y Reglamentaria del Registro Público de la Propiedad y del Comercio, publicado en el Periódico Oficial del Estado el 13 de agosto de 1993.
