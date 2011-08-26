@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-para-el-cronista-consejo-y-archivo-historico-del-603
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-03-14"
-last_updated: "2008-03-14"
+last_updated: "2011-08-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=60397&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,13 +23,13 @@ state: "BCN"
 ---
 # REGLAMENTO PARA EL CRONISTA, CONSEJO Y ARCHIVO HISTORICO DEL MUNICIPIO DE ENSENADA BAJA CALIFORNIA
 
-REGLAMENTO PARA EL CRONISTA, CONSEJO Y ARCHIVO HISTORICO DEL MUNICIPIO DE ENSENADA BAJA CALIFORNIA
+REGLAMENTO PARA EL CRONISTA, CONSEJO Y ARCHIVO HISTÓRICO DEL MUNICIPIO DE ENSENADA BAJA CALIFORNIA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE AGOSTO DE 2011.
 
 Reglamento publicado en la Sección I del Periódico Oficial del Estado de Baja California, el viernes 14 de marzo de 2008.
 
-EL SUSCRITO MARIO ALBERTO GARCIA SALAIZA, SECRETARIO FEDATARIO QUE AUTORIZA Y DA FE, CON FUNDAMENTO EN LO DISPUESTO POR LOS ARTlCULOS 115 FRACCION II DE LA CONSTlTUCION POLlTlCA DE LOS ESTADOS UNIDOS MEXICANOS; 81 DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA; ARTICULO 5 DE LA LEY DEL REGIMEN MUNICIPAL PARA EL ESTADO DE BAJA CALIFORNIA Y ARTICULO 66, FRACCION IX Y X DEL REGLAMENTO INTERIOR PARA EL AYUNTAMIENTO DE ENSENADA; BAJA CALIFORNIA; HACE CONSTAR Y CERTIFICA, QUE EN SESION ORDINARIA, CELEBRADA EL DIA 25 DE FEBRERO DEL AÑO 2008, SE TOMO EL SIGUIENTE:
+EL SUSCRITO MARIO ALBERTO GARCIA SALAIZA, SECRETARIO FEDATARIO QUE AUTORIZA Y DA FE, CON FUNDAMENTO EN LO DISPUESTO POR LOS ARTICULOS 115 FRACCION II DE LA CONSTITUCION POLITICA DE LOS ESTADOS UNIDOS MEXICANOS; 81 DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA; ARTICULO 5 DE LA LEY DEL REGIMEN MUNICIPAL PARA EL ESTADO DE BAJA CALIFORNIA Y ARTICULO 66, FRACCION IX Y X DEL REGLAMENTO INTERIOR PARA EL AYUNTAMIENTO DE ENSENADA; BAJA CALIFORNIA; HACE CONSTAR Y CERTIFICA, QUE EN SESION ORDINARIA, CELEBRADA EL DIA 25 DE FEBRERO DEL AÑO 2008, SE TOMO EL SIGUIENTE:
 
 ACUERDO
 
@@ -81,7 +81,7 @@ CUARTO.- Siendo aprobado el presente Dictamen, publíquese la reforma al Reglame
 
 Dado en la Sala de Juntas "Ma. Emmer de Carrillo" del Palacio Municipal de Ensenada, Baja California, a los 15 días del mes de Febrero del 2008.
 
-La votación fue la siguiente:- Síndico Procurador, Jorge Camargo Villa, (A favor) y a los CC. Regidores, María Catalina Talavera Nava, (A favor) Ricardo Mancillas Amador, (A favor) Serafín González Juárez, (A favor) Rolando Villarino Galván, (A favor) Sara Flores Larios, (A favor) Miriam Nailleli Méndez Carrillo, (A favor) Heriberto Herrera Arroyo, (A favor) Ricardo Fletes García, ,(sic) (A favor) Julio Felipe García Muñóz, , (sic) (A favor) Teresa González Beltrán (A favor) Gil Espinoza Gámez, (A favor) Enoé Morales Medina, (A favor) Eduardo Cota Osuna (A favor) y al Presidente Municipal, Pablo Alejo López Núñez,(A favor). Cero en contra. Cero abstenciones.
+La votación fue la siguiente:- Síndico Procurador, Jorge Camargo Villa, (A favor) y a los CC. Regidores, María Catalina Talavera Nava, (A favor) Ricardo Mancillas Amador, (A favor) Serafín González Juárez, (A favor) Rolando Villarino Galván, (A favor) Sara Flores Larios, (A favor) Miriam Nailleli Méndez Carrillo, (A favor) Heriberto Herrera Arroyo, (A favor) Ricardo Fletes García, , (A favor) Julio Felipe García Muñóz, , (A favor) Teresa González Beltrán (A favor) Gil Espinoza Gámez, (A favor) Enoé Morales Medina, (A favor) Eduardo Cota Osuna (A favor) y al Presidente Municipal, Pablo Alejo López Núñez, (A favor). Cero en contra. Cero abstenciones.
 
 Se extiende la presente Certificación para los usos legales a que haya lugar, el día Diez de Marzo del Año Dos Mil Ocho, en la Ciudad de Ensenada, Baja California, México.
 
@@ -93,17 +93,21 @@ REGLAMENTO PARA EL CRONISTA, CONSEJO Y ARCHIVO HISTORICO DEL MUNICIPIO DE ENSENA
 
 ### CAPITULO PRIMERO. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, P.O. 26 DE AGOSTO DE 2011)</small>
+
 ###### Artículo 1.
 
-El presente Reglamento es de orden público, e interés social, y tiene por objeto normar las actividades inherentes a la condición de Cronista, procedimiento y requisitos para su nombramiento, además de la relación con los ciudadanos o instituciones dedicados a la preservación del Archivo Histórico.
+El presente Reglamento es de orden público, e interés social, y tiene por objeto normar las actividades inherentes a la condición de Cronista, procedimiento y requisitos para su nombramiento, así como al Archivo Histórico de Ensenada y las atribuciones del Consejo en la materia.
 
 ###### Artículo 2.
 
 La aplicación y observancia de este Reglamento, se circunscribe a la jurisdicción del municipio de Ensenada, Baja California.
 
+> <small>(REFORMADO, P.O. 26 DE AGOSTO DE 2011)</small>
+
 ###### Artículo 3.
 
-El Consejo Ciudadano es el órgano encargado de rescatar y recopilar los registros literarios y documentales de los personajes y acontecimientos pasados mas relevantes de la comunidad, en estrecha relación y colaboración con el Ayuntamiento, para depositarlos en el Archivo Histórico del Municipio de Ensenada.
+El Archivo Histórico de Ensenada es el órgano del Instituto Municipal de Cultura y Desarrollo Humano de Ensenada, encargado de rescatar y recopilar los registros literarios y documentales de los personajes y acontecimientos pasados más relevantes de la comunidad, en estrecha relación y colaboración con el Ayuntamiento, organizaciones y sociedad civil, para ser depositados en él mismo.
 
 ###### Artículo 4.
 
@@ -127,9 +131,13 @@ CRONICA: Narración que tiene por objeto asentar sucesos históricos de un puebl
 
 HISTORIA: Narración y exposición de los acontecimientos pasados.
 
-CONSEJO: Consejo Ciudadano del Archivo Histórico del Municipio de Ensenada.
+> <small>(REFORMADO, P.O. 26 DE AGOSTO DE 2011)</small>
 
-ARCHIVO: Lugar para guardar documentos.
+CONSEJO: Consejo del Instituto Municipal de Cultura y Desarrollo Humano de Ensenada.
+
+> <small>(REFORMADO, P.O. 26 DE AGOSTO DE 2011)</small>
+
+ARCHIVO: Archivo Histórico del Municipio de Ensenada, entendido como el lugar para guardar documentos.
 
 ### CAPITULO SEGUNDO. NOMBRAMIENTO DEL CRONISTA
 
@@ -235,35 +243,29 @@ V.- Establecer relaciones públicas con los medios de comunicación, ya sea pren
 
 ### CAPITULO QUINTO. DEL CONSEJO Y EL ARCHIVO HISTORICO
 
+> <small>(REFORMADO, P.O. 26 DE AGOSTO DE 2011)</small>
+
 ###### Artículo 19.
 
-El Consejo Ciudadano para el Archivo Histórico de Ensenada, estará integrado por nueve miembros:
-
-I.- El Presidente Municipal o su representante.
-
-II.- El Regidor coordinador de la Comisión de Educación, Cultura y Deporte.
-
-III.- El Cronista de la Ciudad.
-
-IV.- Cinco ciudadanos representativos de instituciones académicas, y/o culturales, que podrán ser relevados por decisión de sus directivos.
-
-V.- Director del Instituto Municipal de Cultura y Desarrollo Humano de Ensenada
+El Consejo del Instituto Municipal de Cultura y Desarrollo Humano de Ensenada será el competente para proveer en materia operativa y de normatividad interna al Archivo Histórico, en los términos del Reglamento del Instituto.
 
 ###### Artículo 20.
 
-El Consejo sesionará cuando menos cada tres meses de manera ordinaria, pudiendo efectuar todas las sesiones extraordinarias que juzguen convenientes.
+(DEROGADO, P.O. 26 DE AGOSTO DE 2011)
+
+> <small>(REFORMADO, P.O. 26 DE AGOSTO DE 2011)</small>
 
 ###### Artículo 21.
 
-El Consejo podrá celebrar convenios relativos a sus objetivos con diferentes instituciones culturales o académicas.
+El Instituto podrá celebrar convenios relativos a los objetivos del Archivo Histórico de Ensenada con diferentes instituciones culturales y académicas.
 
 ###### Artículo 22.
 
-El Consejo estará a cargo del Archivo Histórico de Ensenada, para lo cual tendrá un subsidio mínimo operativo por parte del Instituto y buscará recursos complementarios en la comunidad.
+(DEROGADO, P.O. 26 DE AGOSTO DE 2011)
 
 ###### Artículo 23.
 
-Las decisiones del Consejo se tomarán por mayoría simple.
+(DEROGADO, P.O. 26 DE AGOSTO DE 2011)
 
 ###### Artículo 24.
 
@@ -277,9 +279,11 @@ El Archivo Histórico contará con espacio suficiente para recopilar libros, per
 
 El Cronista de la Ciudad se coordinará con el Director de administración de bienes patrimoniales del municipio, para tener acceso al archivo Municipal en donde únicamente se contará con documentos oficiales.
 
+> <small>(REFORMADO, P.O. 26 DE AGOSTO DE 2011)</small>
+
 ###### Artículo 27.
 
-El Consejo trabajará permanentemente para mantener actualizado su acervo y contar con los medios audiovisuales o electrónicos modernos e incluso microfilmes, discos compactos etc. con el objeto de facilitar la organización del archivo y la consulta a los usuarios.
+El Instituto a través del Archivo trabajará permanentemente para mantener actualizado su acervo y contar con los medios audiovisuales o electrónicos modernos e incluso microfilmes, discos compactos etc. con el objeto de facilitar la organización del archivo y la consulta a los usuarios.
 
 ## TRANSITORIOS
 
@@ -300,3 +304,13 @@ PRESIDENTE MUNICIPAL DEL XIX AYUNTAMIENTO DE ENSENADA, B. C.
 MARIO ALBERTO GARCIA SALAIZA
 
 SECRETARIO FEDATARIO DEL XIX AYUNTAMIENTO DE ENSENADA B. C.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 26 DE AGOSTO DE 2011.
+
+PRIMERO.- Una vez aprobada la presente reforma, publíquese en el Periódico Oficial del Estado de Baja California, para efectos de entrar en vigor al día siguiente de su publicación.
+
+SEGUNDO.- El Consejo del Archivo Histórico de Ensenada, que a la fecha se hubiese conformado quedará sin efectos a la entrada en vigor de la presente reforma.
+
+TERCERO.- Se derogan todas las disposiciones que contravengan el contenido de la presente reforma y sus artículos transitorios.
