@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-interior-del-instituto-del-deporte-del-distrito-6283
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-09-11"
-last_updated: "2009-08-21"
+last_updated: "2011-08-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62836&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2008-09-08"
 
 REGLAMENTO INTERIOR DEL INSTITUTO DEL DEPORTE DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 21 DE AGOSTO DE 2009.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 26 DE AGOSTO DE 2011.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el jueves 11 de septiembre de 2008.
 
@@ -272,6 +272,10 @@ XI. Celebrar directamente o a través de la Unidad Administrativa correspondient
 
 XII. Someter el Programa Institucional Anual del Instituto a la consideración de la Junta de Gobierno;
 
+> <small>(ADICIONADO, G.O. 26 DE AGOSTO DE 2011)</small>
+
+Dentro de las acciones incorporadas al Programa, deberá contemplarse anualmente el Maratón Internacional de la Ciudad de México. La Dirección General definirá su ruta, abarcando avenidas y monumentos históricos.
+
 XIII. Presentar para su aprobación, a la Junta de Gobierno, las propuestas de modificación al presente reglamento y a la estructura orgánica del Instituto;
 
 XIV. Promover la cultura del deporte entre los sectores público, social y privado para la obtención de los donativos que permitan incrementar el patrimonio del Instituto y del Fondo y cumplir su objeto;
@@ -435,6 +439,12 @@ V. Promover intercambios deportivos con diferentes organismos locales, nacionale
 VI. Evaluar las mejores alternativas de acción y trazar las estrategias para que el Distrito Federal se proyecte como uno de los mejores organizadores de eventos deportivos a nivel nacional y mundial;
 
 VII. Programar la organización de eventos deportivos internacionales masivos en el Distrito Federal, en los que se involucre a los deportistas del Distrito Federal;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(ADICIONADO, G.O. 26 DE AGOSTO DE 2011)</small>
+
+El Maratón Internacional de la Ciudad de México deberá programarse preferentemente para el primer domingo del mes de septiembre de cada año.
 
 VIII. Proponer esquemas de financiamiento y estímulos a los deportistas que contribuyan a elevar la calidad deportiva de la Ciudad;
 
@@ -763,3 +773,7 @@ G.O. 21 DE AGOSTO DE 2009.
 PRIMERO. - Publíquese el presente Decreto en la Gaceta Oficia del Distrito Federal.
 
 SEGUNDO. - El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+G.O. 26 DE AGOSTO DE 2011.
+
+Único.- El presente Decreto entrará en vigor el día de su publicación, excepto lo dispuesto por el artículo 20, fracción VII, segundo párrafo, de este Reglamento, que entrará en vigor a partir de la edición 2012 del Maratón Internacional de la Ciudad de México.
