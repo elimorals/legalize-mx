@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-participacion-ciudadana-del-distrito-federal-39363"
 country: "mx"
 rank: "ley"
 publication_date: "2004-05-17"
-last_updated: "2011-03-16"
+last_updated: "2011-08-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=39363&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2004-05-14"
 
 LEY DE PARTICIPACION CIUDADANA DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 16 DE MARZO DE 2011.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 26 DE AGOSTO DE 2011.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el lunes 17 de mayo de 2004.
 
@@ -1104,37 +1104,37 @@ La asamblea ciudadana deberá aprobar o modificar el programa general de trabajo
 
 Las asambleas ciudadanas también aprobarán los diagnósticos y propuestas de desarrollo integral que se le presenten, los que podrán ser tomados en cuenta en los términos de los artículos 83, 84 y 85 de esta Ley.
 
-> <small>(REFORMADO, G.O. 27 DE MAYO DE 2010)</small>
+> <small>(REFORMADO, G.O. 26 DE AGOSTO DE 2011)</small>
 
 ###### Artículo 83.
 
-La Asamblea Legislativa está obligada a prever en el Decreto de Presupuesto de Egresos el monto anual de recursos, que como parte del presupuesto de las Delegaciones, se destine para que los ciudadanos decidan sobre su aplicación en las colonias correspondientes.
+En el Distrito Federal existe el presupuesto participativo que es aquel sobre el cual los ciudadanos deciden respecto a la forma en que se aplican recursos en proyectos específicos en las colonias y pueblos originarios en que se divide el territorio del Distrito Federal.
 
-Los recursos presupuestales que para objeto del presente artículo apruebe la Asamblea Legislativa deberán corresponder, como mínimo, al 1% y como máximo al 3% del presupuesto anual de las Delegaciones. Los rubros a los que se destinará la aplicación de dichos recursos serán para los de obras y servicios, equipamiento e infraestructura urbana y prevención del delito.
+Los recursos del presupuesto participativo corresponderán al 3 por ciento del presupuesto anual de las Delegaciones. Los rubros generales a los que se destinará la aplicación de dichos recursos serán los de obras y servicios, equipamiento, infraestructura urbana y prevención del delito.
 
-El Jefe de Gobierno y los Jefes Delegacionales deberán incluir en sus proyectos y anteproyectos anuales de presupuesto de egresos, conforme a lo establecido en los párrafos anteriores, las propuestas de montos de recursos y rubros respecto a los cuales las asambleas ciudadanas decidirán sobre su aplicación. De igual manera, incluirán dichas disposiciones en sus programas operativos y programas operativos anuales.
+Los recursos de presupuesto participativo serán ejercidos en los capítulos 2000, 3000, 4000, 5000 y 6000 conforme a lo dispuesto en el Clasificador por Objeto del Gasto vigente.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 30 DE NOVIEMBRE DE 2010)</small>
+El Jefe de Gobierno y la Asamblea Legislativa están respectivamente obligados a incluir y aprobar en el decreto anual de presupuesto de egresos:
+
+a) El monto total de recursos al que asciende el presupuesto participativo por Delegación, el que corresponderá al tres por ciento del presupuesto total anual de aquéllas;
+
+b) Los recursos de presupuesto participativo correspondientes a cada una de las colonias y pueblos originarios en que se divide el territorio del Distrito Federal. Para tal efecto, el monto total de recursos de presupuesto participativo de cada una de las Delegaciones se dividirá entre el número de colonias y pueblos originarios que existan en aquéllas, de modo que la asignación de recursos sea igualitaria, y (sic)
+
+c) Los rubros específicos en que se aplicarán los recursos de presupuesto participativo en todas y cada una de las colonias y pueblos originarios en que se divide el territorio del Distrito Federal, de conformidad con los resultados de la consulta ciudadana que sobre la materia le remita el Instituto Electoral.
+
+d) Se establecerá que las autoridades administrativas del Gobierno de la Ciudad y Jefes Delegacionales tienen la obligatoriedad de ejercerlo.
+
+> <small>(REFORMADO, G.O. 26 DE AGOSTO DE 2011)</small>
 
 ###### Artículo 84.
 
-Para efectos de lo establecido en el artículo anterior y con arreglo a lo establecido en la Ley de Planeación, la Ley de Presupuesto y Gasto Eficiente y demás normatividad aplicable, la Asamblea Legislativa, el Jefe de Gobierno, los Jefes Delegacionales y los Comités Ciudadanos convocarán de manera coordinada a consultas ciudadanas para:
+Para efectos de lo establecido en el artículo anterior y con arreglo a lo dispuesto en la Ley de Planeación, la Ley de Presupuesto y Gasto Eficiente y demás normatividad aplicable, el Instituto Electoral convocará el segundo domingo de noviembre de cada año a la consulta ciudadana sobre presupuesto participativo, cuyo objeto será definir los proyectos específicos en que se aplicarán los recursos de presupuesto participativo correspondiente al ejercicio fiscal inmediato en todas y cada una de las colonias y pueblos originarios en que se divide el territorio del Distrito Federal.
 
-> <small>(REFORMADO, G.O. 27 DE MAYO DE 2010)</small>
+El Instituto Electoral es la autoridad con facultades para emitir la convocatoria, organizar, desarrollar y vigilar el proceso de celebración, así como computar el resultado de las consultas.
 
-a) Definir las acciones prioritarias de atención en las colonias, y
+Para la celebración de la consulta ciudadana a que se refiere el párrafo anterior, el Instituto Electoral podrá solicitar la cooperación del Gobierno del Distrito Federal, las Delegaciones y la Asamblea Legislativa. En todo caso, la difusión de dicha consulta se hará de manera conjunta entre el Instituto Electoral, el Gobierno del Distrito Federal, las Delegaciones y la Asamblea Legislativa.
 
-> <small>(REFORMADO, G.O. 27 DE MAYO DE 2010)</small>
-
-b) La forma en que habrán de aplicarse los recursos aprobados por la Asamblea Legislativa para tal efecto.
-
-> <small>(REFORMADO, G.O. 30 DE NOVIEMBRE DE 2010)</small>
-
-Las consultas ciudadanas a que se refiere el presente artículo se realizarán de conformidad con lo establecido en el Capítulo IV del Título Cuarto de la presente Ley.
-
-> <small>(REFORMADO, G.O. 30 DE NOVIEMBRE DE 2010)</small>
-
-El período para la realización de las consultas ciudadanas a que se refiere el inciso a) del párrafo primero de este artículo será en los meses de junio a agosto de cada año, con el propósito de que sus resultados sean incluidos en los anteproyectos y proyectos de presupuesto de egresos, así como en los programas operativos y programas operativos anuales; mientras que, el lapso para la celebración de las consultas ciudadanas a que se refiere el inciso b) del párrafo primero de este artículo, será en los meses de enero y febrero de cada año, con el propósito de que sean aplicados por las autoridades correspondientes y procurando su ejercicio bajo el instrumento de colaboración ciudadana previsto en el Capítulo V del Título Cuarto de esta Ley.
+Las consultas ciudadanas a que se refiere el presente artículo se realizarán de conformidad con lo establecido en esta ley y demás disposiciones aplicables.
 
 > <small>(REFORMADO, G.O. 27 DE MAYO DE 2010)</small>
 
@@ -3995,3 +3995,15 @@ G.O. 16 DE MARZO DE 2011.
 PRIMERO.- Remítase al Jefe de Gobierno del Distrito Federal, para su Publicación en la Gaceta Oficial del Distrito Federal.
 
 SEGUNDO.- El presente Decreto entrará en vigor el día de su publicación en la Gaceta Oficial del Distrito Federal.
+
+G.O. 26 DE AGOSTO DE 2011.
+
+PRIMERO.- Remítase al Jefe de Gobierno para su publicación en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- Las disposiciones contenidas en el presente decreto entrarán en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+TERCERO.- Se derogan todas aquellas disposiciones que se opongan al presente decreto.
+
+CUARTO.- Se declara suspendida la consulta ciudadana prevista para el 28 de agosto del 2011, por lo que se dejan sin efectos todos los actos efectuados al tenor de la convocatoria respectiva.
+
+QUINTO.- Para la celebración de la consulta ciudadana prevista para el segundo domingo de noviembre de 2011 conforme al artículo 84 de este decreto, el Instituto Electoral emitirá una nueva convocatoria en la que incluirá las reglas operativas para su desarrollo. Para la realización de dicha consulta ciudadana, el Jefe de Gobierno le brindará al Instituto Electoral los materiales y documentación necesarios conforme a los diseños que proponga este último. Los Jefes Delegacionales le proporcionarán al Instituto Electoral la logística y el equipamiento para el desarrollo de la consulta ciudadana
