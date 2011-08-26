@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-agua-potable-y-alcantarillado-del-estado-de-sinaloa-1149
 country: "mx"
 rank: "ley"
 publication_date: "1984-02-20"
-last_updated: "2002-05-06"
+last_updated: "2011-08-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11490&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY DE AGUA POTABLE Y ALCANTARILLADO DEL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE MAYO DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE AGOSTO DE 2011.
 
 Ley publicada en el Periódico Oficial "El Estado de Sinaloa", el lunes 20 de febrero de 1984.
 
@@ -381,11 +381,19 @@ XXIII.- Determinar las condiciones particulares de descarga domiciliaria al sist
 
 > <small>(ADICIONADA, P.O. 27 DE MAYO DE 1998)</small>
 
-XXIV.- Contratar los servicios de particulares, cuando sea necesario, para el cumplimiento de las funciones y atribuciones consignadas en este artículo; y
+XXIV.- Contratar los servicios de particulares, cuando sea necesario, para el cumplimiento de las funciones y atribuciones consignadas en este artículo; y (sic)
 
-> <small>(ADICIONADA, P.O. 27 DE MAYO DE 1998)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO TRANSITORIO UNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-XXV.- Las demás que le confieren leyes, reglamentos, decretos y acuerdos.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE AGOSTO DE 2011)</small>
+
+XXV. Sustituir el abastecimiento de agua potable por agua cruda o residual tratada, a los usuarios dedicados a la industria de la construcción, así como aquellos consumidores cuyos procesos productivos así lo permitan.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO TRANSITORIO UNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA [N. DE REPUBLICADA], P.O. 26 DE AGOSTO DE 2011)</small>
+
+XXVI. Las demás que le confieren leyes, reglamentos, decretos y acuerdos.
 
 ###### ARTICULO 17.
 
@@ -889,6 +897,16 @@ En vista de la inspección a que se refiere el artículo 75, las Juntas resolver
 
 En caso de que la descarga de alcantarillado se haya destruido intencionalmente o por causas imputables al usuario, poseedor o propietario del inmueble en que se halle instalada, éste deberá cubrir el precio de la reparación, de acuerdo con los costos vigentes.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO TRANSITORIO UNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 26 DE AGOSTO DE 2011)</small>
+
+###### Artículo 79 Bis.
+
+Es de interés público la promoción y ejecución de las medidas y acciones necesarias para cuidar el agua.
+
+Dada la importancia del agua, es deber de todo usuario utilizarla adecuada y racionalmente, por lo tanto, debido al uso irracional del vital líquido ante la falta de cultura del cuidado del agua, con el objeto de hacer más racional su consumo, queda prohibido al usuario el lavado de pisos, banquetas y automóviles a "chorro de agua".
+
 ### CAPITULO SEPTIMO. DE LAS INFRACCIONES
 
 ###### ARTICULO 80.
@@ -927,7 +945,11 @@ XIII.- El que se niegue a proporcionar sin causa justificada, los informes que s
 
 XIV.- El que emplee mecanismos para succionar agua de las tuberías de distribución o con esta finalidad lleve a cabo trabajos o realice actos sin autorización de la Junta respectiva;
 
-XV.- El que haga uso indebido del agua potable de tal forma que pueda considerarse como abuso en el consumo, o permita que lo hagan terceros;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO TRANSITORIO UNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 26 DE AGOSTO DE 2011)</small>
+
+XV. Las personas que desperdicien el agua potable;
 
 XVI.- El que intencional o imprudencialmente perjudique o dañe las instalaciones de alcantarillado o drenaje; y,
 
@@ -938,6 +960,24 @@ XVII.- Los usuarios industriales, comerciales o públicos que dejen de pagar los
 > <small>(ADICIONADA, P.O. 27 DE MAYO DE 1998)</small>
 
 XVIII.- Los que cometan cualquier otra infracción a las disposiciones de esta Ley, no especificadas en las fracciones que anteceden.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO TRANSITORIO UNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 26 DE AGOSTO DE 2011)</small>
+
+XIX. Los usuarios que teniendo como actividad la industria de la construcción, utilicen la red de agua potable en el ejercicio de su actividad en lugar de utilizar el agua cruda o tratada que deberá ser suministrada por el propio organismo público descentralizado operador del servicio; y,
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO TRANSITORIO UNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 26 DE AGOSTO DE 2011)</small>
+
+XX. El usuario que se niegue a reparar alguna fuga de agua que se localice en su predio.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE ARTICULO TRANSITORIO UNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 26 DE AGOSTO DE 2011)</small>
+
+Para efectos de la fracción XV, de este artículo, se entenderá como desperdicio del agua, el uso irresponsable que se haga del vital líquido, como el lavar la banqueta, pisos o el coche a "chorro de manguera"; no reportar cualquier fuga que se observe en la calle; no reparar la fuga que tenga el usuario en su predio; regar el jardín durante las horas de mayor calor, que es cuando el agua se evapora; permitir que sus hijos se bañen a chorro de agua o a cubetazos, entre otras actividades.
 
 ### CAPITULO OCTAVO. DE LAS SANCIONES
 
@@ -969,21 +1009,45 @@ Los infractores a que se refiere las fracciones VI, VII, VIII y IX del artículo
 
 También serán sancionados con la interrupción de los servicios, los infractores a que se refiere la fracción XVII del artículo 80, cuando se trate de usuarios industriales, comerciales o públicos a que se refiere el artículo 4 de esta Ley.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE ARTICULO TRANSITORIO UNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 26 DE AGOSTO DE 2011)</small>
+
+Los usuarios referidos en la fracción XIX, del artículo 80 de esta ley, serán sancionados con multa de 500 a 1000 veces el salario mínimo general vigente en la zona respectiva.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO TRANSITORIO UNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 26 DE AGOSTO DE 2011)</small>
+
 ###### ARTICULO 84.
 
-Las infracciones a que se refiere la fracción XV del artículo 80 se sancionarán de la forma siguiente:
+Las infracciones a que se refiere la fracción XV del artículo 80 serán sancionadas administrativamente a juicio de la junta municipal respectiva, de acuerdo a lo siguiente:
 
-I.- Después de levantada la primera acta de inspección sobre abuso en el consumo, se amonestará al infractor;
+I. Después de levantada la primera acta de inspección donde se haga constar el desperdicio del agua, se amonestará por escrito al infractor apercibiéndolo que deberá corregir la anomalía inmediatamente.
 
-II.- De levantarse una segunda acta al mismo infractor se le amonestará nuevamente con apercibimiento de limitación de servicio; y,
+II. De levantarse una segunda acta de inspección en el mismo año y por la misma causa, se le impondrá una multa económica equivalente a:
 
-III.- Si se incurre en la infracción por tercera ocasión, se limitará el servicio de agua potable de uno hasta cinco días.
+a). Multa de 50 a 200 veces el salario mínimo general vigente en la zona respectiva, en el caso de usuarios domésticos.
+
+b). Multa de 200 a 500 veces el salario mínimo general vigente en la zona respectiva, en el caso de usuarios comerciantes e industriales.
+
+III. Si mediante una inspección ocular resultare que el desperdicio de agua persiste, podrán imponerse multas sucesivas por cada día que transcurra sin obedecer el mandato, sin que el total de las multas exceda el monto máximo permitido.
+
+Las infracciones se calificarán por las Juntas tomando en consideración el carácter del servicio, la gravedad de la falta, los daños causados y las condiciones económicas del infractor. En caso, de que se trate de una fuga de agua domiciliaria, se le apercibirá para que la corrija inmediatamente.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO PRIMERO, VEASE ARTICULO TRANSITORIO UNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE AGOSTO DE 2011)</small>
 
 ###### ARTICULO 85.
 
-En los casos de las infracciones (sic) II, III y IV del artículo 80, además de las sanciones que se establecen en el artículo 82, los propietarios o poseedores de los predios que hayan recibido el servicio de agua potable como consecuencia de esas infracciones, estarán obligado (sic) a:
+En los casos de las infracciones señaladas en las fracciones II, III y IV del artículo 80, además de las sanciones que se establecen en el artículo 82, los propietarios o poseedores de los predios o fincas urbanas estarán obligados a:
 
-I.- Cubrir el importe de las cuotas por servicio de agua conforme a las tarifas aplicables a partir de la fecha en que se hubiere practicado la derivación. Si no es posible precisar esta fecha se cobrarán las cuotas correspondientes a cinco años anteriores al descubrimiento de la infracción, siempre y cuando el sistema de agua potable tenga de operar 5 o más años y si se trata de giros o establecimientos, comerciales o industriales, a partir de la fecha de su apertura, si ésta data de menos de cinco años; y,
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO TRANSITORIO UNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 26 DE AGOSTO DE 2011)</small>
+
+I. Cubrir el importe de las cuotas por servicio de agua conforme a las tarifas aplicables a partir de la fecha en que se hubiere practicado la derivación señalada en la fracción III del artículo 80. Si no es posible precisar esta fecha se cobrarán las cuotas correspondientes a seis años anteriores al descubrimiento de la infracción siempre y cuando el sistema de agua potable tenga de operar seis o más años, y si se trata de giros o establecimientos comerciales o industriales, a partir de la fecha de su apertura, si esta data de menos de seis años, y
 
 II.- Solicitar la instalación de la toma correspondiente de acuerdo con las prevenciones de esta Ley.
 
@@ -995,9 +1059,13 @@ Los propietarios o poseedores de predios, giros o establecimientos, en donde exi
 
 Además de la sanción que proceda de acuerdo con lo estipulado en el artículo 83, en relación con la fracción VI del artículo 80, el infractor estará obligado al pago del importe de la reparación del medidor.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO TRANSITORIO UNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 26 DE AGOSTO DE 2011)</small>
+
 ###### ARTICULO 88.
 
-En cada caso de reincidencia se aplicará a los responsables una nueva sanción elevándose los límites al doble de lo que corresponda originalmente a la infracción cometida y así sucesivamente.
+En caso de reincidencia el monto de la multa podrá ser hasta dos veces el monto del originalmente impuesto, sin exceder del doble permitido.
 
 ###### ARTICULO 89.
 
@@ -1006,6 +1074,18 @@ Tratándose de giros mercantiles o industriales, se podrá solicitar de las auto
 ###### ARTICULO 90.
 
 El inspector que descubra alguna infracción, levantará acta circunstanciada para consignar los hechos u omisiones en que se hubiere incurrido.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE ARTICULO TRANSITORIO UNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 26 DE AGOSTO DE 2011)</small>
+
+Con independencia de lo anterior, la denuncia ciudadana constituirá otra medida que tendrán las Juntas Municipales para detectar el uso irresponsable del vital líquido, por lo tanto, toda persona que tenga conocimiento del desperdicio de agua en cualquiera de sus formas, tienen la obligación de comunicar al respectivo Organismo Operador de Agua Potable, Alcantarillado y Saneamiento, para que éste realice las acciones correctivas que sean necesarias.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE ARTICULO TRANSITORIO UNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 26 DE AGOSTO DE 2011)</small>
+
+Las personas que capten a vecinos o a cualquier ciudadano desperdiciando el líquido, deberán denunciarlos ante la Junta de Agua Potable y Alcantarillado correspondiente, presentando pruebas como videos o fotografías tomados por celular, para que la dependencia competente tenga conocimiento del desperdicio de agua y esté en posibilidad de iniciar procedimientos de imposición de sanciones y su aplicación.
 
 ###### ARTICULO 91.
 
@@ -1202,3 +1282,7 @@ P.O. 6 DE MAYO DE 2002.
 Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
 
 Artículo Segundo.- En tanto el Congreso del Estado de Sinaloa aprueba las tarifas y cuotas para el cobro de los servicios que prestan las Juntas, de acuerdo a lo dispuesto en este Decreto, continuarán aplicándose las que se encuentran vigentes.
+
+P.O. 26 DE AGOSTO DE 2011.
+
+Artículo Único. El presente decreto entrará en vigor treinta días después de su publicación en el Periódico Oficial "El Estado de Sinaloa".
