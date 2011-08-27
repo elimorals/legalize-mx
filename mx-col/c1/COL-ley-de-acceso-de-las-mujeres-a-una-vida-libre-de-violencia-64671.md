@@ -4,7 +4,7 @@ identifier: "COL-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-6467
 country: "mx"
 rank: "ley"
 publication_date: "2008-11-29"
-last_updated: "2008-11-29"
+last_updated: "2011-08-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64671&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "COL"
 ---
 # LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE COLIMA
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 15 DE OCTUBRE DE 2011 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE COLIMA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE AGOSTO DE 2011.
 
 Ley publicada en el Suplemento No.2 del Periódico Oficial del Estado de Colima, el sábado 29 de noviembre de 2008.
 
@@ -891,7 +893,17 @@ IV.- Promover en cualquier momento la coadyuvancia legal en los términos de la 
 
 V.- Promover la cultura de respeto a los derechos humanos y procesales de las mujeres y garantizar la seguridad y secrecía del dominio y generales de quienes denuncian algún ilícito relacionado con la violencia de género;
 
-VI.- Promover la formación y especialización de Agentes del Ministerio Público y de todo el personal encargado de la procuración de justicia en materia de derechos humanos, para atender los casos de Violencia contra las Mujeres;
+> <small>(REFORMADA, P.O. 27 DE AGOSTO DE 2011)</small>
+
+VI.- Especializar a los agentes del Ministerio Público, peritos, así como al personal que atiende a victimas a través de programas y cursos permanentes en:
+
+a) Derechos humanos y género;
+
+b) Perspectiva de Género para la debida diligencia en la conducción de averiguaciones previas y procesos judiciales relacionados con discriminación, violencia y feminicidios;
+
+c) Incorporación de la perspectiva de genero en los servicios periciales;
+
+d) Eliminación de estereotipos sobre el rol social de las mujeres entre otros;
 
 VII.- Asesorar a la receptora de violencia, a efecto de dimensionar la trascendencia jurídica en los casos que proceda el perdón legal o estado de reserva del asunto;
 
@@ -905,15 +917,23 @@ XI.- Proporcionar semestralmente contención del estrés al personal especializa
 
 XII.- Brindar a las receptoras o al Generador, en su caso, la información integral sobre las instituciones públicas o privadas encargadas de su atención;
 
-XIII.- Proporcionar información al Banco de Datos para integrarla al sistema de información, sobre edad, género y número de receptoras, causas y daños derivados de la Violencia contra las Mujeres;
+> <small>(REFORMADA, P.O. 27 DE AGOSTO DE 2011)</small>
+
+XIII.- Llevar un registro y proporcionar información al Banco de Datos para integrarla al sistema de información sobre los delitos cometidos en contra de mujeres, que incluya la clasificación de los hechos de los que tenga conocimiento, lugar de ocurrencia y lugar de hallazgo de los cuerpos, características socio demográficas de las víctimas y del sujeto activo, especificando su tipología, relación entre sujeto activo y pasivo, móviles, diligencias básicas a realizar, así como las dificultades para la práctica de diligencias y determinaciones; los índices de incidencia y reincidencia, consignación, sanción y reparación del daño. Este registro se integrará a la estadística criminal y victimal para definir políticas en materia de prevención del delito, procuración y administración de justicia;
 
 XIV.- Establecer el procedimiento a seguir sobre las medidas necesarias para que la receptora reciba atención médica de urgencia cuando sea necesario;
 
 XV.- Brindar protección para salvaguardar la integridad física de las mujeres que denuncien la violencia cometida en su contra;
 
-XVI.- Celebrar convenios de colaboración, coordinación y concertación en la materia; y
+> <small>(REFORMADA, P.O. 27 DE AGOSTO DE 2011)</small>
 
-XVII.- Las demás previstas en esta Ley y en otras disposiciones aplicables.
+XVI.- Celebrar convenios de colaboración, coordinación y concertación en la materia;
+
+> <small>(ADICIONADA, P.O. 27 DE AGOSTO DE 2011)</small>
+
+XVII.- Elaborar y aplicar protocolos especializados con perspectiva de género en la búsqueda inmediata de mujeres y niñas desaparecidas, para la investigación de los feminicidios y la violencia sexual; y
+
+XVIII.- Las demás previstas en esta Ley y en otras disposiciones aplicables.
 
 #### SECCIÓN CUARTA. DE LOS MODELOS DE ERRADICACIÓN
 
@@ -1352,3 +1372,9 @@ Por lo tanto mando se imprima, publique, circule y observe.
 Dado en Palacio de Gobierno, al día 26 del mes de noviembre del año dos mil ocho.
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, LIC. JESÚS SILVERIO CAVAZOS CEBALLOS. Rúbrica. EL SECRETARIO GENERAL DE GOBIERNO, LIC. HÉCTOR MICHEL CAMARENA. Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 27 DE AGOSTO DE 2011.
+
+ÚNICO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
