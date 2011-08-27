@@ -4,7 +4,7 @@ identifier: "TAB-decreto-por-el-que-se-crea-el-instituto-tecnologico-18775"
 country: "mx"
 rank: "decreto"
 publication_date: "2000-11-29"
-last_updated: "2000-11-29"
+last_updated: "2011-08-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18775&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 DECRETO No. 395 SE CREA EL INSTITUTO TECNOLOGICO SUPERIOR DE LA REGION SIERRA, COMO ORGANISMO PUBLICO DESCENTRALIZADO DEL GOBIERNO DEL ESTADO, CON PERSONALIDAD JURIDICA Y PATRIMONIO PROPIOS, SECTORIZADO A LA SECRETARIA DE EDUCACION
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE AGOSTO DE 2011.
 
 Decreto publicado en el Suplemento al Periódico Oficial del Estado de Tabasco, el 29 de noviembre de 2000.
 
@@ -67,43 +67,51 @@ V. Promover la cultura nacional y universal especialmente la de carácter tecnol
 
 VI. Promover en sus alumnos actitudes solidarias y demandas que reafirmen nuestra independencia económica.
 
+> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2011)</small>
+
 ###### Artículo 4.
 
 El Instituto para el cumplimiento de sus objetivos tiene las siguientes atribuciones:
 
-I. Impartir educación superior tecnológica, en los niveles de licenciatura técnica, licenciatura, especialización, maestría y doctorado, cursos de actualización, de superación académica, así como realizar investigaciones científicas y tecnológicas, que contribuyan a elevar la calidad académica, vinculándola con las necesidades de desarrollo regional, estatal y nacional;
+I. Impartir educación superior tecnológica, en los niveles de licenciatura técnica, técnico superior, profesional asociado, licenciatura, especialización, maestría y doctorado, cursos de actualización, de superación académica, así como realizar investigaciones científicas y tecnológicas, que contribuyan a elevar la calidad académica, vinculándola con las necesidades de desarrollo regional, estatal y nacional;
 
 II. Formular y modificar en su caso, sus planes y programas de estudio y establecer los procedimientos de acreditación y certificación para someterlos a la autorización de la Secretaría de Educación Pública;
 
-III. Formular y proponer a la Junta Directiva para su aprobación la implementación de nuevas carreras tecnológicas y de ingeniería, según las necesidades de desarrollo de la región y del Estado;
+III. Formular y proponer a la Junta Directiva para su aprobación la implementación de nuevas carreras tecnológicas y de ingeniería, según las necesidades de desarrollo de la región y del Estado, en observancia a Io dispuesto por la Ley General de Educación, la Ley de Educación del Estado de Tabasco, y las demás Leyes y Reglamentos aplicables;
 
 IV. Organizar y desarrollar programas de intercambio académico y colaboración profesional con organismos e instituciones culturales, educativas, científicas o de investigación nacionales y extranjeras;
 
 V. Expedir constancias y certificados de estudios, títulos profesionales y grados académicos y otorgar distinciones profesionales.
 
-Los Títulos profesionales y los grados académicos mencionados, se sujetarán a los requisitos que exige la Ley Reglamentaria del artículo 5° Constitucional, relativo al ejercicio de las profesiones que para su validez deberán ser suscritos por el Secretario de Educación y el Director del Instituto;
+Los títulos profesionales y los grados académicos mencionados, se sujetarán a los requisitos que exijan las leyes aplicables, que para su validez deberán ser suscritos por el Secretario de Educación y el Director General del Instituto;
 
 VI. Regular el desarrollo de sus funciones sustantivas de docencia, investigación, vinculación con los sectores público, privado y social y difusión cultural;
 
 VII. Reconocer estudios y establecer sus equivalencias con los realizados en otras instituciones educativas conforme al Sistema Nacional de Créditos;
 
-VIII. Prestar servicios de asesoría, elaboración de proyectos de desarrollo de prototipos, paquetes tecnológicos y capacitación técnica a los sectores público, social y privado que le soliciten;
+VIII. Prestar servicios de supervisión, asistencia técnica, asesoría, elaboración de proyectos de desarrollo de ingeniería, paquetes tecnológicos, capacitación técnica y servicios diversos a los sectores público, social y privado que le soliciten;
 
 IX. Desarrollar y promover actividades culturales y deportivas, que contribuyan al desarrollo del educando;
 
-X. Establecer los procedimientos de ingreso, promoción y definitividad de su personal académico conforme al presente Decreto y a los reglamentos que expida la Junta Directiva;
+X. Establecer los procedimientos de ingreso, promoción y permanencia de su personal académico, administrativo y técnico de apoyo, conforme al presente Decreto y a los reglamentos que expida la Junta Directiva;
 
-XI. Capacitar y actualizar a su personal docente, técnico y administrativo;
+XI. Capacitar y actualizar a su personal académico, administrativo y técnico de apoyo;
 
-XII. Regular los procedimientos de selección e ingreso de los alumnos y establecer las normas para su definitividad en la institución;
+XII. Regular los procedimientos de selección e ingreso de los alumnos y establecer las normas para su permanencia en la institución;
 
-XIII. Expedir las disposiciones necesarias para hacer efectivas las facultades que se le confieren para el cumplimiento de sus objetivos; y
+XIII. Expedir las disposiciones necesarias para hacer efectivas las facultades que se le confieren para el cumplimiento de sus objetivos;
 
-XIV. Organizar y desarrollar programas permanentes de servicio social para los alumnos y pasantes.
+XIV. Organizar y desarrollar programas permanentes de servicio social para los alumnos y pasantes;
+
+XV. Promover y concretar acciones de servicio tecnológico externo y de capacitación al sector productivo de bienes y servicios, con el fin de impulsar el desarrollo de la región, del estado y del país; y
+
+XVI. Las demás que le confieran otras normas y las disposiciones reglamentarias del Instituto.
 
 ### CAPÍTULO II
 
 DE LA ORGANIZACIÓN.
+
+> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2011)</small>
 
 ###### Artículo 5.
 
@@ -111,37 +119,51 @@ Son órganos de gobierno y administración del Instituto:
 
 A).- Órgano de Gobierno:
 
-La Junta Directiva;
+I. La Junta Directiva.
 
-B).- Organos de Administración:
+B).- Órganos de Administración:
 
-I. El Director;
+I. El Director General;
 
-II. Los Subdirectores;
+II. Los Directores de Área;
 
-III. Los Jefes de División; y
+III. Los Subdirectores;
 
-IV. Los Jefes de Departamento.
+IV. Los Jefes de División;
+
+V. Los Jefes de Departamento; y
+
+VI. Las Unidades que el servicio requiera.
 
 ###### Artículo 6.
 
 La Junta Directiva es la máxima autoridad de la Institución y se integra por 9 miembros designados de la siguiente manera:
 
-I. Tres representantes del Gobierno del Estado designados por el Titular del Poder Ejecutivo Local, uno de los cuales será el Secretario de Educación, quien la presidirá;
+> <small>(REFORMADA, P.O. 27 DE AGOSTO DE 2011)</small>
+
+I. Tres representantes del Gobierno del Estado designados por el Titular del Poder Ejecutivo Local; dos de ellos de la Secretaría de Educación, uno de los cuales será el Secretario de Educación, quien la presidirá y el restante de la Secretaría de Administración y Finanzas;
 
 II. Dos representantes del Gobierno Federal designados por el Secretario de Educación Pública;
 
-III. Un representante del Gobierno Municipal y uno del sector social de la comunidad designados por el Ayuntamiento Constitucional de Teapa, Tabasco; o en su caso por el Concejo Municipal en funciones;
+> <small>(REFORMADA, P.O. 27 DE AGOSTO DE 2011)</small>
 
-IV. Dos representantes del sector productivo de la región, que participen en el financiamiento del organismo, mediante un Patronato constituido para apoyar la operación del mismo. Estos representantes serán designados por el propio Patronato de conformidad con sus estatutos.
+III. Un representante del Gobierno Municipal y uno del sector social de la comunidad designados por el Ayuntamiento Constitucional de Teapa, Tabasco; o en su caso por el Concejo Municipal en funciones. El representante del sector social durará en su cargo el tiempo que dure la administración municipal que lo haya designado.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE AGOSTO DE 2011)</small>
+
+IV. Dos representantes del sector productivo de la región, que serán designados por el Secretario de Educación del Estado, y duraran en su cargo dos años.
 
 También asistirán a las sesiones de la Junta Directiva con voz, pero sin voto:
 
-V. El Director del Instituto;
+> <small>(REFORMADA, P.O. 27 DE AGOSTO DE 2011)</small>
+
+V. El Director General del Instituto;
 
 VI. Un Secretario, que será designado por dicho órgano de gobierno a propuesta de su Presidente; y
 
-VII. Un Comisario, que será el representante de la Secretaría de la Contraloría y Desarrollo Administrativo.
+> <small>(REFORMADA, P.O. 27 DE AGOSTO DE 2011)</small>
+
+VII. Un Comisario, que será el representante de la Secretaría de Contraloría del Estado.
 
 El cargo de miembro de la Junta Directiva es estrictamente personal, en razón de su nombramiento y funciones, tratándose de servidores públicos del Gobierno del Estado, sin embargo, todos los miembros de la Junta contarán con sus respectivos suplentes.
 
@@ -169,7 +191,9 @@ I. Establecer las políticas y lineamientos para el desarrollo de las actividade
 
 II. Discutir y aprobar en su caso, los proyectos académicos que le presenten y los que surjan en su propio seno;
 
-III. Estudiar y aprobar en su caso, los planes y programas de estudio, así como la creación de nuevas carreras, mismas que deberán someterse a la autorización de la Secretaría de Educación Pública;
+> <small>(REFORMADA, P.O. 27 DE AGOSTO DE 2011)</small>
+
+III. Estudiar y aprobar en su caso, los planes y programas de estudio, así como la creación de nuevas carreras, o en su caso, la terminación ó suspensión de las existentes, mismas que deberán someterse a la autorización de la Secretaría de Educación Pública;
 
 IV. Aprobar el reglamento interior y expedir los manuales, acuerdos y demás disposiciones relativas a la organización y funcionamiento académico y administrativo del Instituto, así como el Reglamento General de la Asociación de Alumnos;
 
@@ -177,13 +201,19 @@ V. Analizar y aprobar en su caso, el plan de inversiones, los presupuestos de in
 
 VI. Establecer las condiciones generales de trabajo del personal del Instituto;
 
-VII. Aprobar los informes técnicos y financieros trimestrales que presente el Director;
+> <small>(REFORMADA, P.O. 27 DE AGOSTO DE 2011)</small>
 
-VIII. Reglamentar la integración de las Comisiones Dictaminadoras interna y externa para el ingreso, promoción y definitividad del personal, así como designar a sus representantes;
+VII. Aprobar los informes técnicos y financieros trimestrales que presente el Director General;
+
+> <small>(REFORMADA, P.O. 27 DE AGOSTO DE 2011)</small>
+
+VIII. Reglamentar la integración de las Comisiones Dictaminadoras interna y externa para el ingreso, promoción y permanencia del personal, así como designar a sus representantes;
 
 IX. Integrar el Consejo Técnico Consultivo que apoyará los trabajos de la Junta Directiva;
 
-X. Nombrar a los Subdirectores y Jefes de División a propuesta del Director;
+> <small>(REFORMADA, P.O. 27 DE AGOSTO DE 2011)</small>
+
+X. Nombrar a los Directores de Área, Subdirectores y Jefes de División a propuesta del Director General;
 
 XI. Autorizar los actos de dominio; y
 
@@ -197,17 +227,23 @@ La Junta Directiva celebrará sesiones ordinarias, cada tres meses y extraordina
 
 Para el cumplimiento de las facultades establecidas en las fracciones II y III del artículo 9, la Junta Directiva contará con el apoyo de un Consejo Técnico Consultivo integrado por especialistas de alto reconocimiento académico y profesional con funciones de asesoría. El número de miembros, la organización y las formas de trabajo estarán establecidas en las normas reglamentarias. El personal académico de la Institución podrá participar en este Consejo.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE AGOSTO DE 2011)</small>
+
 ###### Artículo 12.
 
-El Director del Instituto será nombrado por el Gobernador del Estado, a partir de una terna propuesta por la Junta Directiva, durará en su cargo cuatro años, pudiendo ser confirmado para un segundo período. Sólo podrá ser removido por causa justificada que discrecionalmente apreciará la Junta Directiva.
+El Director General del Instituto será nombrado por el Gobernador del Estado, a partir de una terna propuesta por la Junta Directiva, durará en su cargo cuatro años, pudiendo ser confirmado para un segundo período. Sólo podrá ser removido por causa justificada que discrecionalmente apreciará la Junta Directiva.
 
-Para ser Director se requiere:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE AGOSTO DE 2011)</small>
+
+Para ser Director General del Instituto se requiere:
 
 I. Ser de nacionalidad mexicana;
 
 II. Ser mayor de 30 y menor de 70 años de edad;
 
-III. Poseer título legalmente expedido y registrado en alguna de las carreras ofrecidas por el Instituto o en áreas afines;
+> <small>(REFORMADA, P.O. 27 DE AGOSTO DE 2011)</small>
+
+III. Poseer título legalmente expedido y registrado de nivel licenciatura y preferentemente contar con posgrado;
 
 IV. Tener experiencia académica y profesional;
 
@@ -215,11 +251,17 @@ V. No ser miembro de la Junta Directiva mientras dure su gestión; y
 
 VI. Ser persona de amplia solvencia moral y de reconocido prestigio profesional.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE AGOSTO DE 2011)</small>
+
 ###### Artículo 13.
 
-Son facultades del Director:
+Son facultades del Director General:
 
-I. Ser representante legal del Instituto con poder general para pleitos y cobranzas y actos de administración, incluyendo aquellas facultades que requieran cláusula especial conforme al Código Civil para el Estado de Tabasco. Para actos de dominio que impliquen la enajenación de los bienes muebles del Instituto, se requerirá la previa autorización de la Junta Directiva; tratándose de bienes inmuebles, además se requerirá la autorización del H. Congreso del Estado;
+> <small>(REFORMADA, P.O. 27 DE AGOSTO DE 2011)</small>
+
+I. Ser representante legal del Instituto con poder general para pleitos y cobranzas y actos de administración, incluyendo aquellas facultades que requieran cláusula especial conforme al Código Civil para el Estado de Tabasco. Para actos de dominio que impliquen la enajenación de los bienes muebles del Instituto, se requerirá la previa autorización de la Junta Directiva;
+
+El Director General, podrá delegar en otra persona poder amplio para que comparezca en los asuntos de cualquier materia en que intervenga el Instituto, cuando se afecte su patrimonio o tenga interés jurídico;
 
 II. Coordinar el funcionamiento del Instituto, vigilando el cumplimiento de los planes y programas;
 
@@ -229,15 +271,21 @@ IV. Vigilar el cumplimiento de las disposiciones y acuerdos que norman la estruc
 
 V. Proponer a la Junta Directiva la modificación de los planes de estudio y de los programas académicos sugeridos por las instancias correspondientes;
 
-VI. Proponer a la Junta Directiva los nombramientos de los Subdirectores y Jefes de División;
+> <small>(REFORMADA, P.O. 27 DE AGOSTO DE 2011)</small>
 
-VII. Designar a los Jefes de Departamento;
+VI. Proponer a la Junta Directiva los nombramientos de los Directores de Área y Subdirectores;
+
+> <small>(REFORMADA, P.O. 27 DE AGOSTO DE 2011)</small>
+
+VII. Designar a los Jefes de División, Jefes de Departamento y Jefes de Unidades.
 
 VIII. Proponer a la Junta Directiva las modificaciones a la organización académico-administrativa necesarias para el buen funcionamiento del Instituto;
 
 IX. Someter a la aprobación de la Junta Directiva los proyectos de reglamentos y condiciones generales de trabajo del Instituto, así como expedir los manuales necesarios para su funcionamiento;
 
-X. Nombrar y remover al personal académico, técnico y administrativo del Instituto de conformidad con las disposiciones aplicables;
+> <small>(REFORMADA, P.O. 27 DE AGOSTO DE 2011)</small>
+
+X. Nombrar y remover al personal académico, administrativo y técnico de apoyo del Instituto, de conformidad con las disposiciones aplicables;
 
 XI. Administrar el Patrimonio del Instituto;
 
@@ -247,19 +295,33 @@ XIII. Rendir un informe anual de actividades, así como presentar trimestralment
 
 XIV. Cumplir con los acuerdos de la Junta Directiva e informar de los resultados obtenidos;
 
-XV. Celebrar convenios y contratos, así como realizar los actos relacionados con las funciones que determine la Junta Directiva; y
+> <small>(REFORMADA, P.O. 27 DE AGOSTO DE 2011)</small>
 
-XVI. Las demás que le señalen otras disposiciones.
+XV. Celebrar convenios y contratos, así como realizar los actos relacionados con las funciones que determine la Junta Directiva;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 27 DE AGOSTO DE 2011)</small>
+
+XVI. Otorgar, revocar y delegar en nombre y representación del Instituto, poder general para pleitos y cobranzas, actos de administración y representación en materia laboral, a favor de terceros, con los limitantes (sic) que expresamente se señalen en la fracción I del artículo en mención; y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 27 DE AGOSTO DE 2011)</small>
+
+XVII. Las demás que le señalen otras disposiciones.
+
+> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2011)</small>
 
 ###### Artículo 14.
 
-Los Subdirectores serán nombrados por la Junta Directiva a partir de una terna propuesta por el Director del Instituto.
+Los Directores de Área y Subdirectores, serán nombrados por la Junta Directiva a partir de una terna propuesta por el Director General del Instituto.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE AGOSTO DE 2011)</small>
 
 ###### Artículo 15.
 
-Para ser Subdirector se requiere:
+Para ser Director de Área y Subdirector, se requiere:
 
-I. Poseer título legalmente expedido y registrado en alguna de las carreras ofrecidas por el Instituto o áreas afines;
+> <small>(REFORMADA, P.O. 27 DE AGOSTO DE 2011)</small>
+
+I. Poseer título legalmente expedido y registrado en alguna de las carreras ofrecidas por el Instituto o áreas afines, preferentemente;
 
 II. Tener experiencia académica y laboral; y
 
@@ -299,7 +361,9 @@ I. Un Secretario Ejecutivo;
 
 II. Un representante por cada uno de los municipios del área de influencia directa del Instituto, designados por los HH. Ayuntamientos respectivos;
 
-III. Un representante del Gobierno Estatal nombrado por el Gobernador del Estado, que podrá ser el Director del Instituto; y
+> <small>(REFORMADA, P.O. 27 DE AGOSTO DE 2011)</small>
+
+III. Un representante del Gobierno Estatal nombrado por el Gobernador del Estado, que podrá ser el Director General del Instituto; y
 
 IV. Cinco representantes de agrupaciones del sector productivo pertenecientes a la asociación civil constituida para apoyar las funciones del Instituto. Un representante de estas agrupaciones, presidirá el Patronato.
 
@@ -333,21 +397,25 @@ II. Técnico de apoyo; y
 
 III. Administrativo.
 
-El personal académico es el contratado por el Instituto para el desarrollo de sus funciones sustantivas de docencia, investigación, vinculación y difusión, en los términos de las disposiciones que al respecto se expidan y de los planes y programas académicos que se aprueben.
+> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2011)</small>
+
+El personal académico, es el conjunto de trabajadores del Instituto que ejerce funciones y realiza actividades de docencia, de investigación científica y tecnológica y de preservación y difusión de la cultura, así como los que realizan sistemática y específicamente actividades docentes de naturaleza técnica u auxiliar relacionadas con las anteriores.
 
 El personal técnico de apoyo es el contratado por la Institución para realizar actividades específicas que posibiliten, faciliten y complementen el desarrollo de las labores académicas.
 
 El personal administrativo es el contratado por la Institución para organizar y coordinar los recursos financieros, humanos y materiales.
 
+> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2011)</small>
+
 ###### Artículo 21.
 
-El ingreso y promoción del personal académico del Instituto se realizará por concursos de oposición que serán evaluados por una Comisión Interna integrada por acuerdo de la Junta Directiva. La definitividad de dicho personal será evaluada por una Comisión Dictaminadora Externa después de cinco años consecutivos de servicio, dentro del Instituto.
+El ingreso y promoción del personal académico del Instituto se realizará de acuerdo a los reglamentos y a la Comisión Interna que para tal efecto autorice la Junta Directiva del Instituto.
 
-La Junta Directiva establecerá los procedimientos y lineamientos para la integración y operación de las Comisiones, las cuales estarán integradas por profesionistas de alto reconocimiento.
+La Junta Directiva establecerá los procedimientos y lineamientos para la integración y operación de la Comisión Interna, la cual estará integrada por profesionistas de alto reconocimiento.
 
-Los procedimientos y normas que la Junta Directiva expida para regular dichos concursos deberán asegurar el ingreso, la promoción y la definitividad de personal altamente calificado.
+Los reglamentos y normas que la Junta Directiva expida para regular el ingreso del personal, también deberán asegurar la promoción y la permanencia de personal altamente calificado.
 
-Los procedimientos de definitividad se desarrollarán al concluir el quinto año de ingreso del personal académico. Durante este tiempo el ingreso del personal académico, técnico de apoyo y administrativo será por contratos temporales por semestre.
+Los procedimientos de permanencia se desarrollarán al concluir el quinto año de ingreso del personal académico. Durante este tiempo el ingreso del personal académico, técnico de apoyo y administrativo será por contratos temporales por semestre.
 
 ###### Artículo 22.
 
@@ -361,21 +429,27 @@ II. Contar con experiencia docente o profesional.
 
 Las relaciones laborales entre el Instituto y su personal académico, técnico de apoyo y administrativo se regularán por las leyes aplicables en la materia, por las condiciones generales de trabajo y demás disposiciones que expida la Junta Directiva.
 
+> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2011)</small>
+
 ###### Artículo 24.
 
-Son servidores públicos de confianza el Director del Instituto, los Subdirectores, los Jefes de División, los Jefes de Departamento, el Asesor Jurídico, los Coordinadores, los Jefes de Sección, los Investigadores, los Secretarios Particulares y en general el personal que desempeñe tareas de inspección, supervisión, fiscalización o vigilancia, manejo de fondos y los que consigne con este carácter el Catálogo Institucional de Puestos, emitido por la Comisión Interna de Administración y Programación de la Secretaría de Educación Pública.
+Son servidores públicos de confianza el Director General del Instituto, los Directores de Área, los Subdirectores, los Jefes de División, los Jefes de Departamento, el Asesor Jurídico, los Coordinadores, los Jefes de Sección, los Investigadores, los Secretarios Particulares y en general el personal que desempeñe tareas de inspección, supervisión, fiscalización o vigilancia, manejo de fondos y los que consigne con este carácter el Catálogo Institucional de Puestos, emitido por la Comisión Interna de Administración y Programación de la Secretaría de Educación Pública.
 
 ### CAPÍTULO VI
 
 DEL ALUMNADO.
 
+> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2011)</small>
+
 ###### Artículo 25.
 
-Son alumnos del Instituto quienes habiendo cumplido con los procedimientos y requisitos de selección e ingreso, sean admitidos para cursar cualquiera de las carreras que se impartan y tendrán los derechos y obligaciones que les confieran las disposiciones reglamentarias que expida el Instituto.
+Son alumnos del Instituto quienes habiendo cumplido con los procedimientos y requisitos de selección e ingreso, sean admitidos para cursar cualquiera de los programas académicos o estudios de postgrado que se impartan y tendrán los derechos y obligaciones que les confieran las disposiciones reglamentarias que expida el Instituto.
+
+> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2011)</small>
 
 ###### Artículo 26.
 
-Las agrupaciones de alumnos se organizarán libremente de conformidad al Reglamento General de la Asociación de Alumnos y se mantendrán independientes de grupos o partidos políticos y/o asociaciones religiosas.
+Las agrupaciones de alumnos se organizarán libremente de conformidad al Reglamento General de la Asociación de Alumnos y se mantendrán independientes de grupos o partidos políticos, asociaciones religiosas y sindicales.
 
 T R A N S I T O R I O S.
 
@@ -398,3 +472,13 @@ LIC. ROBERTO MADRAZO PINTADO.
 LIC. CARLOS MANUEL PÉREZ PRIEGO.
 
 SECRETARIO DE GOBIERNO.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 27 DE AGOSTO DE 2011.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Tabasco.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
+
+TERCERO. En un plazo no mayor a ciento ochenta días hábiles a partir de la entrada en vigor del presente Decreto, se deberán publicar en el Periódico Oficial del Estado las reformas correspondientes al Reglamento Interior del Instituto Tecnológico Superior de la Región Sierra, derivadas del presente Decreto.
