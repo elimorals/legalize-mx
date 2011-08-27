@@ -4,7 +4,7 @@ identifier: "COL-ley-para-la-inclusion-e-integracion-de-las-personas-con-44837"
 country: "mx"
 rank: "ley"
 publication_date: "2005-05-07"
-last_updated: "2011-07-23"
+last_updated: "2011-08-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44837&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "COL"
 ---
 # LEY PARA LA INCLUSION E INTEGRACION DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE COLIMA -- ANTES LEY PARA LA INCLUSION DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE COLIMA -- ANTES LEY PARA LA INTEGRACION Y DESARROLLO SOCIAL DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE COLIMA --
 
-LEY PARA LA INTEGRACION Y DESARROLLO SOCIAL DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE COLIMA
+LEY PARA LA INTEGRACIÓN Y DESARROLLO SOCIAL DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE JULIO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE AGOSTO DE 2011.
 
 Ley publicada en el Periódico Oficial del Estado de Colima, el sábado 7 de mayo de 2005.
 
@@ -124,6 +124,10 @@ II. Definir las estrategias y políticas necesarias para eliminar progresivament
 ###### Artículo 6°.
 
 Será obligatorio para las instituciones pública, privadas y sociales, proporcionar de manera gratuita información, orientación, motivación y promoción de toda clase de programas que beneficien a personas con discapacidad.
+
+> <small>(ADICIONADO, P.O. 27 DE AGOSTO DE 2011)</small>
+
+Así mismo, las dependencias y entidades de la administración pública estatal centralizada y paraestatal, los poderes Legislativo y Judicial, así como las dependencias y entidades de las administraciones públicas municipales centralizadas y paramunicipales, deberán contar con personal necesario capacitado en el uso de señas o lenguaje icónico utilizado por las personas sordomudas, principalmente en las áreas que tengan atención de manera directa con la población, con la finalidad de que puedan dar un trato y servicio adecuado, digno y eficaz a las personas con este tipo de discapacidad.
 
 ###### Artículo 7°.
 
@@ -255,7 +259,7 @@ XVIII. Las demás atribuciones contenidas en el Decreto que crea el lNCODIS, su 
 
 ## TITULO SEGUNDO. De los Servicios Institucionales
 
-### Capitulo I. De los Programas de Atención
+### Capítulo I. De los Programas de Atención
 
 ###### Artículo 15.
 
@@ -477,7 +481,7 @@ El INCODIS en coordinación con el Instituto Colimense del Deporte, vigilarán e
 
 ## TITULO TERCERO. De la movilidad en los diferentes espacios
 
-### Capitulo I. De las condiciones urbanísticas
+### Capítulo I. De las condiciones urbanísticas
 
 ###### Artículo 46.
 
@@ -917,7 +921,7 @@ Dado en Palacio de Gobierno, al día 04 del mes de mayo del año dos mil cinco.
 
 EL GOBERNADOR CONSTITUCIONAL INTERINO DEL ESTADO, C. ARNOLDO OCHOA GONZÁLEZ Rúbrica. EL SECRETARIO GENERAL DE GOBIERNO, LIC. CUAUHTÉMOC GÓMEZ CABEZUD. Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 21 DE JULIO DE 2007.
 
@@ -934,3 +938,11 @@ P.O. 14 DE FEBRERO DE 2009.
 P.O. 23 DE JULIO DE 2011.
 
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 27 DE AGOSTO DE 2011.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+SEGUNDO.- Las entidades de la administración pública estatal centralizada, integrada por la Gubernatura del Estado, las Secretarías y la Procuraduría General de Justicia, los ayuntamientos del Estado, así como los poderes Legislativo y Judicial, deberán cumplir con la obligación contenida en el presente Decreto a partir del mes de abril de 2012.
+
+TERCERO.- Las entidades de la administración pública paraestatal y paramunicipales, respectivamente, deberán cumplir con la obligación contenida en el presente Decreto a partir del mes de enero de 2013.
