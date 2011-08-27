@@ -4,7 +4,7 @@ identifier: "ZAC-ley-de-cultura-fisica-y-deporte-para-el-estado-de-zacatecas-706
 country: "mx"
 rank: "ley"
 publication_date: "2009-09-23"
-last_updated: "2011-06-15"
+last_updated: "2011-08-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70688&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY DE CULTURA FISICA Y DEPORTE PARA EL ESTADO DE ZACATECAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE JUNIO DE 2011.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE AGOSTO DE 2011.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Zacatecas, el miércoles 23 de septiembre de 2009.
 
@@ -1225,11 +1225,13 @@ XI. Abstenerse de prácticas violentas, discriminatorias y antirreglamentarias e
 
 XII. Las demás que le señale esta Ley, su Reglamento la normatividad aplicable.
 
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 27 DE AGOSTO DE 2011)</small>
+
 Obligatoriedad de la actividad física
 
 ###### ARTÍCULO 69.
 
-Es obligatoria la práctica de la actividad física o y (sic) de la práctica deportiva en las instituciones educativas y en los centros de readaptación social.
+Es obligatoria la práctica de la actividad física o y (sic) de la práctica deportiva en las instituciones educativas y en los centros de readaptación social, así mismo, para las corporaciones de seguridad pública, tanto del Estado como de los municipios, consideradas como tales en la legislación estatal de seguridad pública, incluyendo a los cuerpos de protección civil, de bomberos y los de seguridad privada.
 
 ## TÍTULO QUINTO. INFRAESTRUCTURA DEPORTIVA
 
@@ -1379,6 +1381,10 @@ La persona Titular del Ejecutivo, por conducto del Instituto, promoverá la cons
 
 Deberán establecerse reglas claras y transparentes para la administración, ejercicio, aplicación y fiscalización del Fondo Estatal e integrarse una comisión responsable de la ejecución de dichas reglas, sin que contravenga lo que disponga el Reglamento, la constitución del Fondo Estatal y la normatividad derivada.
 
+> <small>(ADICIONADO, P.O. 27 DE AGOSTO DE 2011)</small>
+
+En todo caso, del fondo integrado, se destinará al menos el 2% para deportistas con discapacidad.
+
 Prioridades
 
 ###### ARTÍCULO 83.
@@ -1473,11 +1479,15 @@ Capacitación
 
 El Instituto coordinará y concertará acciones, con los sectores, público, privado y social para generar la formación, capacitación, certificación, profesionalización, actualización y especialización, dentro del país o en el extranjero, de deportistas, jueces, árbitros, técnicos, instructores, entrenadores, guías, estudiantes o profesores de educación física, médicos, químicos, nutriólogos, fisiatras, y demás profesionistas, investigadores, o especialistas en ciencias aplicadas del deporte, prestadores de servicio y promotores comunitarios.
 
+> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2011)</small>
+
 Premio Estatal
 
 ###### ARTÍCULO 90.
 
-Se instituye el Premio Estatal del Deporte, como un estímulo y reconocimiento anual. Dicho premio será organizado por la persona Titular del Ejecutivo, a través del Instituto, y entregado a aquellas personas que se hayan distinguido en la práctica del deporte o cultura física, o por su trayectoria, aportación o participación destacada en la materia.
+Se instituye el 20 de noviembre de cada año como "Día del Deportista Zacatecano", fecha en la cual será entregado el Premio Estatal del Deporte, como un estímulo y reconocimiento al mérito deportivo.
+
+Dicho premio será organizado por la persona Titular del Ejecutivo, a través del Instituto, y entregado a aquellas personas que se hayan distinguido en la práctica del deporte o cultura física, o por su trayectoria, aportación o participación destacada en la materia.
 
 Salón de Honor
 
@@ -1485,11 +1495,13 @@ Salón de Honor
 
 Se crea el Salón de Honor del Deporte del Estado, como un reconocimiento social permanente a las personas nacidas en el Estado de Zacatecas, que se hayan distinguido o trascendido en la práctica, promoción o enseñanza del deporte o cultura física, o por su trayectoria y aportación destacada en la materia.
 
-Requisitos
+> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2011)</small>
+
+Convocatoria
 
 ###### ARTÍCULO 92.
 
-La persona Titular del Ejecutivo, a través del Instituto, en concertación con las organizaciones deportivas, medios de comunicación y los sectores social, privado y académico, que formen parte del Sistema Estatal, establecerá las bases, lineamientos, requisitos, condiciones, integración e ingreso, según corresponda, del Premio Estatal del Deporte o del Salón de Honor del Deporte. Dichas bases serán establecidas, descritas y actualizadas en el Reglamento y demás normatividad aplicable.
+La persona Titular del Ejecutivo, con la opinión de los agentes integrantes del Sistema Estatal, publicará convocatoria, por conducto del Instituto y bajo las bases que en ella se determinen se entregará el Premio Estatal del Deporte o del Salón de Honor del Deporte. La calificación para merecer dichos premios deberá hacerla un jurado integrado por personas que tengan conocimiento o destacada trayectoria sobre el tema, deportistas o entrenadores; por un representante del periodismo deportivo; un representante municipal; un diputado de la Legislatura del Estado y los demás que considere la convocatoria y el reglamento respectivo.
 
 ## TÍTULO SÉPTIMO. CIENCIAS APLICADAS AL DEPORTE
 
@@ -1862,3 +1874,13 @@ TERCERO.- El Instituto de Cultura Física y Deporte del Estado de Zacatecas, tom
 El responsable de dicha unidad, deberá contar cuando menos, con un año de experiencia en tareas de cultura física y de gestión o práctica deportiva para personas con discapacidad, preferentemente, pertenecer al sector de discapacitados y contar con las aptitudes adecuadas para el desempeño del encargo.
 
 CUARTO.- El porcentaje mínimo previsto en el presente decreto para garantizar el funcionamiento de la Unidad de Deporte Adaptado, será respetado y deberá aplicarse por la Dirección General del Instituto de Cultura Física y Deporte del Estado de Zacatecas a partir del presente ejercicio fiscal 2011.
+
+P.O. 27 DE AGOSTO DE 2011.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan a este Decreto.
+
+TERCERO.- El Estado a través de sus dependencias respectivas, los gobiernos de los municipios e instituciones de seguridad privada, en lo que les sea aplicable y en los 30 días hábiles siguientes a la entrada en vigor del presente decreto, adoptarán o modificarán en su caso, sus ordenamientos internos a efecto de garantizar el puntual cumplimiento de estas normas.
+
+CUARTO.- El porcentaje presupuestal establecido por este decreto para destinarse a deportistas con discapacidad, en lo posible, deberá aplicarse por la Dirección General del Instituto de Cultura Física y Deporte del Estado de Zacatecas a partir del presente ejercicio fiscal 2011.
