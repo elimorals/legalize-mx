@@ -4,7 +4,7 @@ identifier: "TAB-ley-que-crea-el-instituto-tecnologico-superior-de-comalcalco-17
 country: "mx"
 rank: "ley"
 publication_date: "1996-02-14"
-last_updated: "2009-10-24"
+last_updated: "2011-08-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17133&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 LEY QUE CREA EL INSTITUTO TECNOLOGICO SUPERIOR DE COMALCALCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE OCTUBRE DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE AGOSTO DE 2011.
 
 Ley publicada en el Periódico Oficial del Estado de Tabasco, el miércoles 14 de febrero de 1996.
 
@@ -77,7 +77,9 @@ IV.- Organizar y desarrollar programas de intercambio académico y colaboración
 
 V.- Expedir constancias y certificados de estudios, títulos profesionales y grados académicos y otorgar distinciones profesionales.
 
-Los títulos profesionales y los grados académicos mencionados, se sujetarán a los requisitos que exige la Ley Reglamentaria del artículo 5o. Constitucional, relativo al ejercicio de las profesiones que para su validez deberán ser suscritos por el Gobernador del Estado, el Secretario de Educación y el Director del Instituto.
+> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2011)</small>
+
+Los títulos profesionales y los grados académicos mencionados, se sujetarán a los requisitos que exige la Ley Reglamentaria del artículo 5o. Constitucional, relativo al ejercicio de las profesiones que para su validez deberán ser suscritos por el Secretario de Educación y el Director General del Instituto.
 
 VI.- Regular el desarrollo de sus funciones sustantivas, (docencia e investigación), y su vinculación con los sectores público, privado y social (difusión cultural).
 
@@ -99,27 +101,25 @@ XIV.- Organizar y desarrollar programas permanentes de servicio social para los 
 
 ### CAPITULO SEGUNDO. DE LA ORGANIZACION
 
-###### ARTICULO 4º.
+> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2011)</small>
 
-Serán órganos de gobierno del Instituto Tecnológico Superior de Comalcalco:
+###### ARTICULO 4°.
 
-I.- La Junta Directiva
+El Instituto Tecnológico Superior de Comalcalco contará con la siguiente estructura orgánica:
 
-II.- El Director
+I. La Junta Directiva;
 
-> <small>(ADICIONADO, P.O. 24 DE OCTUBRE DE 2009)</small>
+II. El Director General;
 
-a) Director Académico
+III. Los directores de área;
 
-> <small>(ADICIONADO, P.O. 24 DE OCTUBRE DE 2009)</small>
+IV. Los subdirectores;
 
-b) Director Administrativo
+V. Los jefes de división;
 
-III.- Los Subdirectores
+VI. Los jefes de departamento; y
 
-IV.- Los jefes de división y
-
-V.- Los jefes de Departamento
+VII. Las unidades que el servicio requiera.
 
 ###### ARTICULO 5º.
 
@@ -129,11 +129,17 @@ I.- Dos representantes del Gobierno del Estado designados por el Titular del Pod
 
 II.- Dos representantes del Gobierno Federal designados por el Secretario de Educación Pública.
 
-III.- Un representante del Gobierno Municipal y uno del sector social de la comunidad designados por el Ayuntamiento Constitucional de Comalcalco, Tabasco; o en su caso por el Concejo Municipal en funciones.
+> <small>(REFORMADA, P.O. 27 DE AGOSTO DE 2011)</small>
 
-IV.- Dos representantes del sector productivo que participen en el financiamiento de la Institución a través de una asociación civil previamente constituida para apoyar las funciones del Instituto Tecnológico y que serán designados por la propia asociación de conformidad con sus estatutos.
+III.- Un representante del Gobierno Municipal y uno del sector social de la comunidad, designados por el Ayuntamiento Constitucional de Comalcalco, Tabasco; o en su caso por el Consejo Municipal en funciones. El representante del sector social durará en su cargo el tiempo que dure la administración municipal que lo haya designado.
 
-El cargo de miembro de la Junta Directiva será estrictamente personal, sin embargo, todos los miembros de la Junta contarán con sus respectivos suplentes.
+> <small>(REFORMADA, P.O. 27 DE AGOSTO DE 2011)</small>
+
+IV.- Dos representantes del sector productivo de la región, que serán designados por el Secretario de Educación del Estado, y durarán en su cargo dos años.
+
+> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2011)</small>
+
+El cargo del miembro de la Junta Directiva será estrictamente personal, sin embargo, todos los miembros que integran a los órganos de gobierno podrán enviar a sus respectivos suplentes.
 
 ###### ARTICULO 6º.
 
@@ -173,7 +179,9 @@ VIII.- Reglamentar la integración de las Comisiones Dictaminadoras interna y ex
 
 IX.- Integrar el Consejo Técnico Consultivo que apoyará los trabajos de la Junta Directiva.
 
-X.- Nombrar a los Subdirectores y Jefes de División a propuesta del Director.
+> <small>(REFORMADA, P.O. 27 DE AGOSTO DE 2011)</small>
+
+X.- Nombrar a los Directores de Área, Subdirectores y Jefes de División a propuesta del Director General.
 
 XI.- Autorizar las actas de dominio.
 
@@ -187,17 +195,33 @@ La Junta Directiva celebrará sesiones ordinarias cada tres meses y extraordinar
 
 Para el cumplimiento de las facultades establecidas en las fracciones II y III del artículo 8º, la Junta Directiva contará con el apoyo de un Consejo Técnico Consultivo integrado por especialistas de alto reconocimiento académico y profesional con funciones de asesoría. El número de miembros, la organización y las formas de trabajo estarán establecidas en las normas reglamentarias. El personal académico de la Institución podrá participar en este Consejo.
 
-###### ARTICULO 11º.
+> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2011)</small>
 
-El Director del Instituto será nombrado por el Gobernador del Estado, durará en su cargo 4 años, pudiendo ser confirmado para un segundo periodo. Sólo podrá ser destituido por causa justificada que discrecionalmente apreciará la Junta Directiva.
+###### ARTICULO 11°.
 
-###### ARTICULO 12º.
+El Director General del Instituto será nombrado por el Gobernador del Estado, a partir de una terna propuesta por la Junta Directiva, durará en su cargo cuatro años, pudiendo ser confirmado para un segundo período. Sólo podrá ser removido por causa justificada que discrecionalmente apreciará la Junta Directiva.
 
-Para ser Director se requiere, además de lo señalado en el artículo 6º, poseer título en alguna de las profesiones ofrecidas en el Tecnológico o en áreas afines.
+> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2011)</small>
 
-###### ARTICULO 13º.
+###### ARTICULO 12°.
 
-Son facultades del Director:
+Para ser Director General del Instituto se requiere:
+
+I.- Ser de nacionalidad mexicana;
+
+II.- Ser mayor de 30 y menor de 70 años de edad;
+
+III.- Poseer título legalmente expedido y registrado de nivel licenciatura y preferentemente contar con posgrado;
+
+IV.- No ser miembro de la Junta Directiva mientras dure su gestión, y
+
+V.- Tener experiencia académica y profesional.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE AGOSTO DE 2011)</small>
+
+###### ARTICULO 13°.
+
+Son facultades del Director General:
 
 I.- Ser representante legal del Instituto con poder general para pleitos y cobranzas y actos de administración, incluyendo aquellas facultades que requieran cláusula especial conforme al Código Civil en el Estado de Tabasco. Para actos de dominio que impliquen la enajenación o gravámenes de los bienes muebles del Instituto, se requerirá la previa autorización de la Junta Directiva.
 
@@ -209,9 +233,13 @@ IV.- Vigilar el cumplimiento de las disposiciones y acuerdos que norman la estru
 
 V.- Proponer a la Junta Directiva la modificación de los planes de estudio y de los programas académicos sugeridos por las instancias correspondientes.
 
-VI.- Proponer a la Junta Directiva los nombramientos de los Subdirectores y Jefes de División.
+> <small>(REFORMADA, P.O. 27 DE AGOSTO DE 2011)</small>
 
-VII.- Designar a los Jefes de Departamento.
+VI.- Proponer a la Junta Directiva los nombramientos de los Directores de Área y Subdirectores.
+
+> <small>(REFORMADA, P.O. 27 DE AGOSTO DE 2011)</small>
+
+VII.- Designar a los Jefes de División, Jefes de Departamento y Jefes de Unidades.
 
 VIII.- Proponer a la Junta Directiva las modificaciones a la organización académico-administrativa necesarias para el buen funcionamiento del Instituto.
 
@@ -229,9 +257,9 @@ XIV.- Cumplir con los acuerdos de la Junta Directiva e informar de los resultado
 
 XV.- Celebrar convenios y contratos, así como realizar los actos relacionados con las funciones que determine la Junta Directiva.
 
-> <small>(ADICIONADA, P.O. 24 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADA, P.O. 27 DE AGOSTO DE 2011)</small>
 
-XVI.- Otorgar y revocar poderes generales y especiales, para actos de dominio, administración, laboral, pleitos y cobranzas, así como para toda clase de juicios en los que sea parte el Instituto Tecnológico Superior de Comalcalco.
+XVI.- Otorgar, revocar y delegar en nombre y representación del Instituto, poder general para pleitos y cobranzas, actos de administración y representación en materia laboral, a favor de terceros, con las limitantes que expresamente se señalen en la fracción I del artículo en mención.
 
 > <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2009)</small>
 
@@ -265,7 +293,9 @@ Los bienes inmuebles que formen parte del patrimonio de la Institución, serán 
 
 El patronato será un órgano de apoyo del Instituto que se integrará de la siguiente manera:
 
-I.- El Director del plantel.
+> <small>(REFORMADA, P.O. 27 DE AGOSTO DE 2011)</small>
+
+I.- El Director General del Instituto.
 
 II.- Un representante por cada uno de los Municipios del área de influencia directa del Instituto, designados por los Ayuntamientos respectivos.
 
@@ -321,9 +351,11 @@ Las relaciones laborales entre el Instituto y su personal académico, técnico d
 
 Todos los servidores públicos de base y de confianza del Instituto gozarán de la seguridad social que otorga la Ley del Instituto de Seguridad Social del Estado de Tabasco (ISSET), quedando incorporados a dicho régimen.
 
-###### ARTICULO 21º.
+> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2011)</small>
 
-Serán considerados servidores públicos de confianza el Director del Instituto, los Subdirectores, Jefes de División, Jefes de Departamento, el Asesor Jurídico, Coordinadores, Jefe de Sección, Investigadores, Secretarios Particulares y en general el personal que desempeñe tareas de inspección, supervisión, fiscalización o vigilancia, manejo de fondos y los que consigne con este carácter el catálogo institucional de puestos.
+###### ARTICULO 21°.
+
+Serán considerados servidores públicos de confianza el Director General del Instituto, los Directores de Área, Subdirectores, Jefes de División, Jefes de Departamento, Jefes de Unidades, el Asesor Jurídico, Coordinadores, Jefes de Sección, Investigadores, Secretarios Particulares y en general el personal que desempeñe tareas de inspección, supervisión, fiscalización o vigilancia, manejo de fondos y los que consigne con este carácter el catálogo institucional de puestos.
 
 ### CAPITULO SEXTO. DEL ALUMNADO
 
@@ -331,9 +363,11 @@ Serán considerados servidores públicos de confianza el Director del Instituto,
 
 Serán alumnos del Instituto Tecnológico Superior de Comalcalco quienes habiendo cumplido con los procedimientos y requisitos de selección e ingreso, sean admitidos para cursar cualquiera de las carreras que se impartan y tendrán los derechos y obligaciones que la presente Ley y las disposiciones reglamentarias que se expidan, lo determinen.
 
-###### ARTICULO 23º.
+> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2011)</small>
 
-Las agrupaciones de alumnos son totalmente independientes de las autoridades del Instituto y se organizarán en la forma que ellos mismos determinen.
+###### ARTICULO 23.
+
+Las agrupaciones de alumnos se organizaran libremente de conformidad al Reglamento General de la Asociación de Alumnos, y se mantendrán independientes de grupos o partidos políticos, asociaciones religiosas y sindicales.
 
 ## TRANSITORIO
 
@@ -362,3 +396,9 @@ P.O. 24 DE OCTUBRE DE 2009.
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 ARTÍCULO SEGUDO (SIC).- Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
+
+P.O. 27 DE AGOSTO DE 2011.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
