@@ -4,7 +4,7 @@ identifier: "TAB-codigo-penal-para-el-estado-de-tabasco-12339"
 country: "mx"
 rank: "codigo"
 publication_date: "1997-02-05"
-last_updated: "2011-06-01"
+last_updated: "2011-08-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12339&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 CODIGO PENAL PARA EL ESTADO DE TABASCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE JUNIO DE 2011.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE AGOSTO DE 2011.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Tabasco, el miércoles 5 de febrero de 1997.
 
@@ -1547,6 +1547,8 @@ Cuando esté pendiente el proceso de un delito imputado calumniosamente, no corr
 
 ### CAPITULO X. USURA
 
+> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2011)</small>
+
 ###### Artículo 172.
 
 Cuando la difamación o calumnia sean en contra de las instituciones estatales o municipales del Estado de Tabasco o de otra entidad federativa o del Distrito Federal, se procederá a solicitud del representante del Ejecutivo que corresponda.
@@ -1562,6 +1564,8 @@ Toda sentencia de condena por difamación o por calumnia se publicará a solicit
 ## TITULO SEGUNDO. DELITOS CONTRA EL ESTADO CIVIL Y EL EJERCICIO DE LOS DERECHOS FAMILIARES
 
 ### CAPITULO XI. EXTORSION
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE AGOSTO DE 2011)</small>
 
 ###### Artículo 175.
 
@@ -1653,25 +1657,51 @@ XIV.- Respecto de documentos que se conserven en oficinas públicas, cuando la s
 
 XV.- Respecto de uno o más bienes que en propiedad o en posesión formen parte de la infraestructura de centros educativos, públicos o privados, de trabajo, de salud o de todo inmueble destinado a la prestación de cualquier servicio público a cargo del Estado o los Municipios.
 
-> <small>(REFORMADO, P.O. 9 DE NOVIEMBRE DE 2002)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE AGOSTO DE 2011)</small>
 
-Artículo 179 bis.- Se equiparan al robo y se le impondrán las penas previstas en el artículo 175 más una mitad, a quien, a sabiendas:
+Artículo 179 bis.- Se equiparan al robo y se le impondrán las penas previstas en el artículo 175 más una mitad, a quien:
+
+> <small>(REFORMADA, P.O. 9 DE NOVIEMBRE DE 2002)</small>
 
 I.- Enajene o adquiera de cualquier manera uno o más vehículos robados;
 
+> <small>(REFORMADA, P.O. 9 DE NOVIEMBRE DE 2002)</small>
+
 II.- Trafique o comercie de cualquier manera con uno o más vehículos robados;
 
-III.- Detente, posea, o custodie sin derecho uno o más vehículos robados; altere o modifique de cualquier manera la documentación que acredite la propiedad o identificación de uno o más vehículos robados, o emita documentos no auténticos para identificar o simular la propiedad o posesión de uno o más vehículos robados;
+> <small>(REFORMADA, P.O. 27 DE AGOSTO DE 2011)</small>
+
+III. Posea, custodie o detente sin derecho:
+
+a) Uno o más vehículos robados o sus autopartes;
+
+b) Uno o más vehículos con placas de circulación reportadas como robadas; y
+
+c) Uno o más vehículos con alteraciones o modificaciones de cualquier tipo en sus números, signos o demás elementos de identificación.
+
+> <small>(REFORMADA, P.O. 9 DE NOVIEMBRE DE 2002)</small>
 
 IV.- Autorice el traslado de dominio de uno o varios vehículos con documentación apócrifa o aquel que siendo servidor público permita o lleve a cabo la tramitación irregular o ilícita de uno o más vehículos robados;
 
+> <small>(REFORMADA, P.O. 9 DE NOVIEMBRE DE 2002)</small>
+
 V.- Desmantele uno o más vehículos que resultaren robados o cuya propiedad o posesión no pueda acreditar, o comercialice conjunta o separadamente las partes del mismo;
+
+> <small>(REFORMADA, P.O. 9 DE NOVIEMBRE DE 2002)</small>
 
 VI.- Traslade en cualquier forma, uno o varios vehículos robados;
 
-VII.- Utilice el o los vehículos robados en la comisión de otro u otros delitos; y
+> <small>(REFORMADA, P.O. 27 DE AGOSTO DE 2011)</small>
 
-VIII.- Suprima, altere o modifique de cualquier manera los números, signos u otros medios de identificación de uno o más vehículos automotores que resultaren robados.
+VII. Utilice el o los vehículos robados en la comisión de otro u otros delitos;
+
+> <small>(REFORMADA, P.O. 27 DE AGOSTO DE 2011)</small>
+
+VIII. Suprima, altere o modifique de cualquier manera los números, signos u otros medios de identificación de uno o más vehículos automotores que resultaren robados; y
+
+> <small>(ADICIONADA, P.O. 27 DE AGOSTO DE 2011)</small>
+
+IX. Altere o modifique de cualquier manera la documentación que acredite la propiedad o identificación de uno o más vehículos robados, o emita documentos no auténticos para identificar o simular la propiedad o posesión de uno o más vehículos robados.
 
 (REFORMADO, P.O. 21 DE FEBRERO DE 1998) (F. DE E., P.O. 28 DE FEBRERO DE 1998)
 
@@ -1881,13 +1911,37 @@ Al que mediante cualquier acto, simule un estado de insolvencia con el objeto de
 
 ###### Artículo 195.
 
-Al que: Aprovechando la ignorancia, la inexperiencia o la necesidad económica apremiante de una persona, obtenga de ésta mediante convenio formal o informal ganancias notoriamente superiores a las vigentes en el mercado, incrementadas con los costos que tenga para el prestamista la obtención y administración de los recursos, causándole con ello perjuicio económico, se le impondrán de uno a cinco años de prisión. Asimismo se le condenará al resarcimiento, consistente en la devolución de la suma correspondiente a esos mismos intereses excedentes, más los perjuicios ocasionados.
+Comete el delito de usura quien:
+
+I. Obtenga de otra persona, mediante convenio o contrato, formal o informal; o del otorgamiento o endoso a nombre propio o de otro, de un documento nominativo, a la orden o al portador; intereses mensuales que excedan de diez veces el importe de la tasa de interés interbancario de equilibrio, determinada por el Banco de México a la fecha de su celebración, publicada oportunamente en el Diario Oficial de la Federación.
+
+II. Procure, gestione o tramite, para sí o para otro, el otorgamiento de cualquier préstamo, en efectivo o en especie, cobrando intereses mensuales que excedan de diez veces el importe de la tasa de interés interbancario de equilibrio determinada por el Banco de México a la fecha de su celebración, publicada oportunamente en el Diario Oficial de la Federación; y
+
+III. Habiendo otorgado un préstamo a otra persona, no registre en el documento respectivo, ni entregue recibos de pagos parciales a cuenta de la suerte principal o de intereses, pretendiendo su cobro posterior.
+
+Este delito se sancionará con prisión de uno a ocho años y de cien a mil días multa.
+
+Cuando en la comisión del delito resulte responsabilidad de una persona jurídica colectiva, regida por la legislación local, se le impondrá suspensión de actividades de tres meses a dos años. Tratándose de personas jurídicas colectivas que se rijan por leyes federales, al decretarse la sanción, el Ministerio Público, promoverá ante la autoridad competente la ejecución de la misma.
+
+> <small>(ADICIONADO, P.O. 27 DE AGOSTO DE 2011)</small>
+
+###### Artículo 195 Bis.
+
+Se incrementará de seis meses a dos años de prisión, la pena prevista en el artículo anterior, en los siguientes casos:
+
+l. Cuando el delito se cometa aprovechándose de la ignorancia, inexperiencia, miseria o necesidad del ofendido, aunque ésta fuese momentánea;
+
+II. Cuando para realizarlo, disimule o encubra las fechas de suscripción, el interés o lucro mediante títulos de crédito o cualquier otro documento;
+
+III. Cuando se otorgue en préstamo una suma de dinero garantizada con bienes muebles o inmuebles con un valor económico tres o más veces mayor al importe de la suma otorgada; o
+
+IV. Cuando para acreditar un préstamo, se exija como garantía que se suscriba más de un documento que corresponda a la propia operación concertada, provocando que haya más de un acto formal en que cada uno de ellos se vinculen directamente entre sí, siendo el mismo préstamo y se requiera el cobro de ambos.
 
 ### CAPITULO I. SUPRESION DEL ESTADO CIVIL
 
 ###### Artículo 196.
 
-Se impondrá prisión de dos a ocho años y multa de cuarenta a ciento sesenta días multa, al que para procurarse a sí mismo o a un tercero un lucro indebido, obligue a una persona a dar, hacer, tolerar o dejar de hacer algo en perjuicio de sus propios bienes patrimoniales o de los de otra persona.
+Se impondrá prisión de cuatro a trece años y multa de quinientos a mil días de salario, al que para procurarse a sí mismo o a un tercero un lucro indebido, obligue a una persona a dar, hacer, tolerar o dejar de hacer algo en perjuicio de sus propios bienes patrimoniales o de los de otra persona.
 
 Las penas se aumentarán en una mitad más si el constreñimiento se realiza por una asociación delictuosa, o por servidor público o ex servidor público o por miembros o ex miembros de alguna corporación policial. En este caso se impondrá, además al responsable, destitución del empleo, cargo o comisión y la inhabilitación de uno a cinco años para desempeñar empleo, cargo o comisión públicos.
 
@@ -3151,7 +3205,9 @@ II.- Use los objetos falsificados o alterados señalados en la fracción anterio
 
 III.- Use indebidamente los verdaderos sellos, marcas, llaves, estampillas, troqueles, cuños, matrices, planchas, contraseñas o boletos oficiales; o
 
-IV.- (DEROGADA, P.O. 9 DE NOVIEMBRE DE 2002)
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 27 DE AGOSTO DE 2011)</small>
+
+IV. Posea, custodie, detente o circule un vehículo con placas de circulación que en términos de las disposiciones aplicables han sido dadas de baja o que correspondan a otro vehículo.
 
 ### CAPITULO III. OPERACIONES QUIRURGICAS INDEBIDAS
 
@@ -3784,3 +3840,29 @@ P.O. 1 DE JUNIO DE 2011.
 DECRETO No. 101, POR LO QUE SE REFORMAN LAS FRACCIONES XIII Y XIV Y SE ADICIONA LA FRACCION XV AL ARTICULO 179 DEL CODIGO PENAL PARA EL ESTADO DE TABASCO.
 
 ÚNICO.- La presente adición entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Tabasco.
+
+P.O. 27 DE AGOSTO DE 2011.
+
+DECRETO 108 POR EL QUE SE REFORMA EL ARTICULO 195; Y SE ADICIONA UN ARTICULO 195 BIS, AMBOS DEL CODIGO PENAL PARA EL ESTADO DE TABASCO.
+
+PRIMERO.- La presente reforma y adición entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Tabasco. Derogándose las disposiciones que se opongan al mismo.
+
+SEGUNDO.- Los delitos cometidos durante la vigencia del artículo 195, que se reforma, se castigarán conforme a lo señalado en el mismo; salvo que las nuevas disposiciones contenidas en el presente decreto, beneficien al o los inculpados, pues no es pretensión de esta reforma despenalizar la conducta típica prevista en el mismo.
+
+P.O. 27 DE AGOSTO DE 2011.
+
+DECRETO 109 POR EL QUE SE REFORMA EL PRIMER PARRAFO DEL ARTÍCULO 196 DEL CODIGO PENAL PARA EL ESTADO DE TABASCO.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan las disposiciones que se opongan al presente decreto.
+
+P.O. 27 DE AGOSTO DE 2011.
+
+DECRETO 110 POR EL QUE SE REFORMAN LOS ARTICULOS 179 BIS, PRIMER PARRAFO, LAS FRACCIONES III, VII Y VIII Y 319, FRACCION IV; Y SE ADICIONA LA FRACCION IX AL ARTICULO 179 BIS, TODOS DEL CODIGO PENAL PARA EL ESTADO DE TABASCO.
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Tabasco.
