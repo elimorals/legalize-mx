@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-turismo-del-estado-de-oaxaca-45552"
 country: "mx"
 rank: "ley"
 publication_date: "2005-07-09"
-last_updated: "2011-07-22"
+last_updated: "2011-08-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45552&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE TURISMO DEL ESTADO DE OAXACA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE JULIO DE 2011.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE AGOSTO DE 2011.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado, el sábado 9 de julio de 2005.
 
@@ -65,9 +65,13 @@ VI.- Propiciar la conservación, mejoramiento, protección y aprovechamiento sus
 
 VII.- Coordinar el desarrollo de la actividad turística entre los sectores público y privado; así como entre los gobiernos federal, estatal y municipal.
 
-VIII.- Implementar las políticas de promoción, estímulos e incentivos administrativos, económicos y fiscales para la inversión en actividades turísticas; y
+VIII.- Implementar las políticas de promoción, estímulos e incentivos administrativos, económicos y fiscales para la inversión en actividades turísticas; y (sic)
 
 IX.- Regular y optimizar la prestación de los servicios turísticos.
+
+> <small>(ADICIONADA, P.O. 27 DE AGOSTO DE 2011)</small>
+
+X.- Fomentar y desarrollar acciones para diversificar la actividad turística del Estado. Todas las modalidades turísticas se considerarán como un factor de desarrollo local integrado, apoyando el aprovechamiento de las actividades propias de las diversas regiones y comunidades.
 
 ###### Artículo 3.
 
@@ -159,9 +163,11 @@ VIII.- Establecer medidas de seguridad tendiente (sic) a la protección de los t
 
 ### CAPITULO I. DE LA PLANEACION DE LA ACTIVIDAD TURISTICA
 
+> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2011)</small>
+
 ###### Artículo 8.
 
-La Secretaría es la dependencia encargada de formular y conducir la política integral de desarrollo, planificación, fomento y promoción de la actividad turística del Estado de Oaxaca; ésta se llevará a cabo de conformidad con lo establecido en la Ley de Planeación del Desarrollo del Estado de Oaxaca y en coordinación con los Ayuntamientos del Estado.
+La Secretaría es la dependencia encargada de formular, ejecutar y evaluar la política integral de desarrollo, planificación, fomento y promoción de la actividad turística del Estado de Oaxaca; ésta se llevará a cabo de conformidad con lo establecido en la Ley de Planeación del Estado de Oaxaca y en coordinación con los Ayuntamientos del Estado.
 
 ###### Artículo 9.
 
@@ -307,9 +313,13 @@ II. Turismo de aventura. Modalidad especifica del turismo alternativo que tiene 
 
 III. Turismo rural. Modalidad especifica del turismo alternativo en los cuales el turista participa en actividades de la vida cotidiana de las comunidades agrarias ejidales y pueblos indígenas, con fines culturales, educativos y recreativos, que le permiten conocer y participar en las tradiciones de las comunidades autóctonas oaxaqueñas.
 
-Siempre con respeto a sus usos y costumbres, sus manifestaciones artísticas, sus fiestas y en general a su forma de vida; y
+Siempre con respeto a sus usos y costumbres, sus manifestaciones artísticas, sus fiestas y en general a su forma de vida; y (sic)
 
-IV. Las demás que establezcan los reglamentos de la presente Ley.
+> <small>(ADICIONADA, P.O. 27 DE AGOSTO DE 2011)</small>
+
+IV. El turismo cultural. Modalidad que ofrece visitas guiadas a la amplia gama de sitios históricos y arqueológicos del Estado, con recorridos dirigidos por guías de turistas especializados e investigadores encargados del estudio y protección de dichos lugares.
+
+V. Las demás que establezcan los reglamentos de la presente Ley.
 
 En todo lo no dispuesto en el presente Capítulo serán aplicables las disposiciones que las normas oficiales mexicanas establecen sobre la materia.
 
@@ -822,3 +832,7 @@ P.O. 22 DE JULIO DE 2011.
 DECRETO NUMERO 575 POR EL QUE SE REFORMAN LOS ARTICULOS 61 Y 63 DE LA LEY DE TURISMO DEL ESTADO DE OAXACA.
 
 ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Oaxaca.
+
+P.O. 27 DE AGOSTO DE 2011.
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
