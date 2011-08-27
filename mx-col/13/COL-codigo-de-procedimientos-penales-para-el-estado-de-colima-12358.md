@@ -4,7 +4,7 @@ identifier: "COL-codigo-de-procedimientos-penales-para-el-estado-de-colima-12358
 country: "mx"
 rank: "codigo"
 publication_date: "1997-08-02"
-last_updated: "2011-06-25"
+last_updated: "2011-08-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12358&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "COL"
 ---
 # CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE COLIMA
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 15 DE OCTUBRE DE 2011 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE JUNIO DE 2011.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE AGOSTO DE 2011.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Colima, el sábado 2 de agosto de 1997.
 
@@ -189,9 +191,23 @@ VI.- Asegurar o restituir al ofendido en el goce de sus derechos, provisional e 
 
 Cuando por la naturaleza del bien y circunstancias de comisión del delito resulte evidente la necesidad de impedir su consumación, el Ministerio Público realizará todos los actos que se requieran para ello, tomando además las providencias adecuadas para evitar que con dichos actos se generen daños y perjuicios; aun cuando la posesión sea dudosa o se encuentre en litigio;
 
-VII.- Determinar conforme a las disposiciones de este Código, su reserva o bien el ejercicio o no ejercicio de la acción penal; y
+> <small>(REFORMADA, P.O. 27 DE AGOSTO DE 2011)</small>
 
-VIII.- Lo demás que éste Código y las leyes le autoricen expresamente.
+VII. Determinar conforme a las disposiciones de este Código, su reserva o bien el ejercicio o no ejercicio de la acción penal;
+
+> <small>(ADICIONADA, P.O. 27 DE AGOSTO DE 2011)</small>
+
+VIII. Proveer regularmente a las victimas sobre los avances en la investigación y darles pleno acceso a los expedientes;
+
+> <small>(ADICIONADA, P.O. 27 DE AGOSTO DE 2011)</small>
+
+IX. Evitar incorporar en la investigación elementos de discriminación que pueden dar como resultado una descalificación de la credibilidad de la víctima y una asunción tácita de responsabilidad de ella por los hechos, ya sea por su forma de vestir, por su ocupación laboral, conducta sexual, relación o parentesco con el agresor; y (sic)
+
+> <small>(ADICIONADA, P.O. 27 DE AGOSTO DE 2011)</small>
+
+X. Canalizar a las víctimas a los servicios de atención a víctimas del delito, para que se les proporcionen los servicios correspondientes; y
+
+XI. Lo demás que éste Código y las leyes le autoricen expresamente.
 
 ###### ARTICULO 21.
 
@@ -1281,6 +1297,34 @@ El Ministerio público, durante la averiguación previa y cuando se trate de bie
 
 En los delitos en que esté en peligro la integridad de las personas, el Ministerio Público durante la averiguación podrá ordenar al indiciado la restricción de ir a lugar determinado o acercamiento a la víctima o el ofendido. En caso de determinarse esta medida, el Juez al dictar los autos que señalan los artículos 302 y 303 de éste Código, resolverá sobre la subsistencia de la misma.
 
+> <small>(ADICIONADO, P.O. 27 DE AGOSTO DE 2011)</small>
+
+###### ARTÍCULO 158 Bis.
+
+Tratándose de delitos vinculados a la violencia de género, y en los casos en que las víctimas u ofendidos sean menores de edad, el Ministerio Público o la autoridad judicial, según corresponda, dictarán de inmediato, de oficio, las siguientes medidas de protección para salvaguardar su seguridad e integridad física y psicológica:
+
+I. La separación inmediata del domicilio cuando se trate de agresiones a mujeres y niños, o delitos sexuales, cuando la víctima u ofendido conviva con el destinatario de la medida;
+
+II. Restricción de acercarse por sí o por interpósita persona a la victima u ofendido, en un perímetro no menor de 500 metros a la redonda y hasta la distancia que el juez considere pertinente de acuerdo a los antecedentes y circunstancias del caso;
+
+III. Vigilancia en el domicilio de la víctima u ofendido;
+
+IV. Protección policial de la víctima u ofendido;
+
+V. Auxilio inmediato por integrantes de instituciones policiales, al domicilio donde se localice o se encuentre la víctima u ofendido en el momento de solicitarlo;
+
+VI. Auxilio de la fuerza pública para asegurar la inmediata entrega o devolución de objetos personales o documentos de identificación de la víctima u ofendido, así como de sus ascendientes, descendientes o dependientes económicos;
+
+VII. Traslado de la víctima u ofendido a refugios o albergues temporales, así como de sus descendientes;
+
+VIII. Reingreso de la víctima u ofendido a su domicilio, una vez que se salvaguarde su seguridad;
+
+IX. Registro o inscripción en programas estatales de desarrollo personal, social, educativo y laboral;
+
+X. La prohibición de realizar conductas de intimidación o molestia a la víctima u ofendido o personas relacionadas con ellos; y
+
+XI. Las demás que determinen las disposiciones legales.
+
 > <small>(F. DE E., P.O. 16 DE AGOSTO DE 1997)</small>
 
 ## TITULO QUINTO. MEDIOS DE PRUEBA
@@ -1916,6 +1960,12 @@ La autoridad expondrá en su resolución los razonamientos que haya tenido en cu
 Las diligencias de preparación de la acción procesal penal consisten en la investigación de las conductas o hechos posiblemente delictuosos de que tengan conocimiento el Ministerio Público, con el objeto de comprobar los elementos del tipo y la probable responsabilidad penal del inculpado.
 
 Para el ejercicio de la acción penal, será suficiente para proceder en el ejercicio de la acción penal que acredite la existencia del cuerpo del delito y establezca la probable responsabilidad penal del imputado.
+
+> <small>(ADICIONADO, P.O. 27 DE AGOSTO DE 2011)</small>
+
+###### ARTICULO 239 Bis.
+
+En los casos de muerte de mujeres ingresadas a hospitales por traumatismo, heridas, fracturas, esguinces; amputaciones, cuerpos extraños, quemaduras y sus secuelas; caídas, contactos traumáticos; disparos, exposición a chorros de alta presión, aporreo, golpe, mordedura, patada, rasguño o torcedura; choque o empellón; ahogamiento y sumersión; sofocación y estrangulamiento; exposición a calor excesiva, contacto con agua corriente, bebidas, alimentos, grasas y aceites para cocina, calientes; privación de alimentos o agua; agresión con drogas, medicamentos, y sustancias biológicas, con sustancias corrosivas; agresión con plaguicidas, con gases y vapores, con productos químicos y sustancias nocivas; agresión por ahorcamiento, estrangulamiento y sofocación; agresión con disparo; agresión con materia explosiva, agresión con humo, fuego y llamas; agresión con vapor de agua, vapores y objetos calientes; agresión con objetos cortantes; agresión por empujón; agresión con fuerza corporal; agresión sexual con fuerza corporal; el Ministerio Público deberá iniciar la investigación como probable feminicidio.
 
 ###### ARTICULO 240.
 
@@ -3410,3 +3460,7 @@ El Gobernador del Estado dispondrá se publique, circule Y observe."
 P.O. 25 DE JUNIO DE 2011.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 27 DE AGOSTO DE 2011.
+
+ÚNICO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
