@@ -4,7 +4,7 @@ identifier: "TAB-codigo-de-procedimientos-penales-para-el-estado-de-tabasco-1234
 country: "mx"
 rank: "codigo"
 publication_date: "1997-02-22"
-last_updated: "2011-06-01"
+last_updated: "2011-08-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12344&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE TABASCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE JUNIO DE 2011.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE AGOSTO DE 2011.
 
 Código publicado en el Periódico Oficial del Estado de Tabasco, el 22 de febrero de 1997.
 
@@ -901,9 +901,9 @@ XI. Adulterio previsto en el artículo 222. Podrá querellarse el cónyuge ofend
 
 XII. Ejercicio indebido del propio derecho, al que alude el artículo 282;
 
-> <small>(REFORMADA, P.O. 3 DE MAYO DE 2003)</small>
+> <small>(REFORMADA, P.O. 27 DE AGOSTO DE 2011)</small>
 
-XIII. Delitos contra el patrimonio de las personas previstos en el Título Décimo del Libro Segundo del Código Penal, excepto el abigeato, las operaciones con recursos de procedencia ilícita, aquellos en los que concurran calificativas y los dolosos cometidos contra instituciones públicas;
+XIII. Delitos contra el patrimonio de las personas previstos en el Título Décimo del Libro Segundo del Código Penal, excepto el abigeato, la extorsión, las operaciones con recursos de procedencia ilícita, aquellos en los que concurran calificativas y los dolosos cometidos contra instituciones públicas;
 
 > <small>(ADICIONADA, P.O. 3 DE MAYO DE 2003)</small>
 
@@ -2218,3 +2218,13 @@ P.O. 1 DE JUNIO DE 2011.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación, salvo para la competencia en materia de narcomenudeo.
 
 SEGUNDO.- En materia de narcomenudeo, la entidad conocerá de éste delito a partir del 20 de agosto de 2012, en cumplimiento a lo previsto en el artículo transitorio primero, párrafo tercero, del Decreto, publicado en el Diario Oficial de la Federación del 20 de agosto de 2009, por el que se reforman, adicionan y derogan diversas disposiciones de la Ley General de Salud, del Código Penal Federal y del Código Federal de Procedimientos Penales. Mientras tanto se realizarán las acciones necesarias a afectos (sic) de darle el debido cumplimiento.
+
+P.O. 27 DE AGOSTO DE 2011.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan las disposiciones que se opongan al presente decreto.
