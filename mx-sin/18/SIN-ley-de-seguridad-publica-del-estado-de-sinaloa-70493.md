@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-seguridad-publica-del-estado-de-sinaloa-70493"
 country: "mx"
 rank: "ley"
 publication_date: "2009-10-14"
-last_updated: "2009-10-14"
+last_updated: "2011-08-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70493&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY DE SEGURIDAD PUBLICA DEL ESTADO DE SINALOA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE AGOSTO DE 2011.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Sinaloa, el miércoles 14 de octubre de 2009.
 
@@ -311,9 +311,23 @@ III. Auxiliar al Ministerio Público en la detención de indiciados, en los caso
 
 IV. En los términos de las disposiciones legales de orden estatal y municipal, suscribir convenios para el cumplimiento de las atribuciones en materia de evaluación, control de confianza, profesionalización, desarrollo policial, registro y certificación de los integrantes de las instituciones de seguridad pública;
 
-V. Prestar auxilio a la población en caso de siniestros o accidentes, en coordinación con las instancias de protección civil correspondientes y con otros cuerpos policiales del Estado y los municipios; y,
+> <small>N. DE E. EN RELACION CON LA MATERIA DE NARCOMENUDEO PUBLICADO EN EL DECRETO NUMERO 322 DEL P.O. 29 DE AGOSTO DE 2011, CONSULTESE EL TRANSITORIO SEGUNDO.</small>
 
-VI. Las demás que determinen la presente Ley y otras disposiciones aplicables.
+> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2011)</small>
+
+V. Prestar auxilio a la población en caso de siniestros o accidentes, en coordinación con las instancias de protección civil correspondientes y con otros cuerpos policiales del Estado y los municipios;
+
+> <small>N. DE E. EN RELACION CON LA MATERIA DE NARCOMENUDEO PUBLICADO EN EL DECRETO NUMERO 322 DEL P.O. 29 DE AGOSTO DE 2011, CONSULTESE EL TRANSITORIO SEGUNDO.</small>
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE AGOSTO DE 2011)</small>
+
+VI. Participar en la prevención y combate a las actividades de posesión, comercio o suministro de estupefacientes y psicotrópicos cuando las mismas se realicen en lugares públicos, en términos de la Ley General de Salud; y,
+
+> <small>N. DE E. EN RELACION CON LA MATERIA DE NARCOMENUDEO PUBLICADO EN EL DECRETO NUMERO 322 DEL P.O. 29 DE AGOSTO DE 2011, CONSULTESE EL TRANSITORIO SEGUNDO.</small>
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 29 DE AGOSTO DE 2011)</small>
+
+VII. Las demás que determinen la presente Ley u otras disposiciones aplicables.
 
 ###### Artículo 23.
 
@@ -333,9 +347,23 @@ VI. Prohibir a sus integrantes el uso de grados e insignias reservados para el u
 
 VII. Auxiliar al Ministerio Público, a las autoridades judiciales y a las administrativas, cuando sean requeridos para ello, de conformidad con la ley;
 
-VIII. Exigir en su caso, al personal a su cargo, el uso de los uniformes con las características y especificaciones que para el efecto se determinen; y,
+> <small>N. DE E. EN RELACION CON LA MATERIA DE NARCOMENUDEO PUBLICADO EN EL DECRETO NUMERO 322 DEL P.O. 29 DE AGOSTO DE 2011, CONSULTESE EL TRANSITORIO SEGUNDO.</small>
 
-IX. Las demás que les asignen esta ley y otros ordenamientos aplicables.
+> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2011)</small>
+
+VIII. Exigir en su caso, al personal a su cargo, el uso de los uniformes con las características y especificaciones que para el efecto se determinen;
+
+> <small>N. DE E. EN RELACION CON LA MATERIA DE NARCOMENUDEO PUBLICADO EN EL DECRETO NUMERO 322 DEL P.O. 29 DE AGOSTO DE 2011, CONSULTESE EL TRANSITORIO SEGUNDO.</small>
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE AGOSTO DE 2011)</small>
+
+IX. Participar en la prevención y combate a las actividades de posesión, comercio o suministro de estupefacientes y psicotrópicos cuando las mismas se realicen en lugares públicos, en términos de la Ley General de Salud; y,
+
+> <small>N. DE E. EN RELACION CON LA MATERIA DE NARCOMENUDEO PUBLICADO EN EL DECRETO NUMERO 322 DEL P.O. 29 DE AGOSTO DE 2011, CONSULTESE EL TRANSITORIO SEGUNDO.</small>
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 29 DE AGOSTO DE 2011)</small>
+
+X. Las demás que les asignen esta ley u otros ordenamientos aplicables.
 
 ###### Artículo 24.
 
@@ -555,9 +583,23 @@ XXIX. Entregar sin demora a la autoridad correspondiente todo objeto, documento 
 
 XXX. Hacer entrega inmediata del equipamiento y medios de identificación que le hubiere sido asignado, al separarse del cargo;
 
-XXXI. Utilizar la fuerza física en forma racional, oportuna y proporcional en el desempeño de sus funciones; y,
+> <small>N. DE E. EN RELACION CON LA MATERIA DE NARCOMENUDEO PUBLICADO EN EL DECRETO NUMERO 322 DEL P.O. 29 DE AGOSTO DE 2011, CONSULTESE EL TRANSITORIO SEGUNDO.</small>
 
-XXXII. Los demás que establezcan las disposiciones legales aplicables.
+> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2011)</small>
+
+XXXI. Utilizar la fuerza física en forma racional, oportuna y proporcional en el desempeño de sus funciones;
+
+> <small>N. DE E. EN RELACION CON LA MATERIA DE NARCOMENUDEO PUBLICADO EN EL DECRETO NUMERO 322 DEL P.O. 29 DE AGOSTO DE 2011, CONSULTESE EL TRANSITORIO SEGUNDO.</small>
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE AGOSTO DE 2011)</small>
+
+XXXII. Participar en la prevención y combate a las actividades de posesión, comercio o suministro de estupefacientes y psicotrópicos cuando las mismas se realicen en lugares públicos, en términos de la Ley General de Salud; y,
+
+> <small>N. DE E. EN RELACION CON LA MATERIA DE NARCOMENUDEO PUBLICADO EN EL DECRETO NUMERO 322 DEL P.O. 29 DE AGOSTO DE 2011, CONSULTESE EL TRANSITORIO SEGUNDO.</small>
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 29 DE AGOSTO DE 2011)</small>
+
+XXXIII. Los demás que establezcan las disposiciones legales aplicables.
 
 ###### Artículo 32.
 
@@ -3280,3 +3322,13 @@ DIPUTADA SECRETARIA
 C. SOCORRO DEL CARMEN ASTORGA
 
 DIPUTADA SECRETARIA
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 29 DE AGOSTO DE 2011.
+
+PRIMERO. El presente decreto entrará en vigor el día de su publicación, salvo para la competencia en el delito de narcomenudeo.
+
+SEGUNDO. En materia de narcomenudeo, las autoridades competentes de la entidad conocerán de dicho delito a partir del día 21 de agosto de 2012, en cumplimiento al transitorio primero, párrafo tercero, del Decreto Federal publicado en el Diario Oficial de la Federación de fecha 20 de agosto de 2009.
+
+TERCERO. Durante la vacatio legis, los poderes Ejecutivo y Judicial deberán realizar las acciones necesarias para su debida observancia e instrumentación.
