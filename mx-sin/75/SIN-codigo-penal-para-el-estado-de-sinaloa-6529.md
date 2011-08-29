@@ -4,7 +4,7 @@ identifier: "SIN-codigo-penal-para-el-estado-de-sinaloa-6529"
 country: "mx"
 rank: "codigo"
 publication_date: "1992-10-28"
-last_updated: "2011-07-13"
+last_updated: "2011-08-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6529&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 CODIGO PENAL PARA EL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE JULIO DE 2011.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE AGOSTO DE 2011.
 
 Código publicado en la Sección Primera del Periódico Oficial del Estado de Sinaloa, el miércoles 28 de octubre de 1992.
 
@@ -106,6 +106,18 @@ Cuando una misma materia aparezca regulada por diversas disposiciones, la especi
 ###### ARTICULO 10.
 
 Cuando se cometa un delito tipificado en otra ley, se aplicará ésta, observándose las disposiciones generales de este Código, en lo no previsto por la ley especial.
+
+> <small>N. DE E. EN RELACION CON LA MATERIA DE NARCOMENUDEO PUBLICADO EN EL DECRETO NUMERO 322 DEL P.O. 29 DE AGOSTO DE 2011, CONSULTESE EL TRANSITORIO SEGUNDO.</small>
+
+> <small>(ADICIONADO, P.O. 29 DE AGOSTO DE 2011)</small>
+
+Cuando se realicen conductas típicas contempladas en leyes Federales de la República y que por disposición de las mismas compete conocer y resolver a las autoridades del Estado, será esta la que se aplique, observándose en su caso, las disposiciones generales de este Código en lo no previsto por aquella.
+
+> <small>N. DE E. EN RELACION CON LA MATERIA DE NARCOMENUDEO PUBLICADO EN EL DECRETO NUMERO 322 DEL P.O. 29 DE AGOSTO DE 2011, CONSULTESE EL TRANSITORIO SEGUNDO.</small>
+
+> <small>(ADICIONADO, P.O. 29 DE AGOSTO DE 2011)</small>
+
+Son aplicables en lo conducente, las disposiciones de este Código en los términos de los párrafos que anteceden, por los delitos contra la salud en la modalidad de narcomenudeo a que se refiere el artículo 474 y demás disposiciones aplicables del Capítulo VII del Título Octavo de la Ley General de Salud.
 
 ## TITULO SEGUNDO. DEL DELITO
 
@@ -857,7 +869,13 @@ La substitución o la conmutación de la pena no procederá para los sentenciado
 
 La ejecución de la pena de prisión que no exceda de tres años podrá ser suspendida condicionalmente, a petición de parte o de oficio, si concurren los requisitos siguientes:
 
-I.- Que sea la primera vez que el reo incurre en delito doloso y haya observado hasta el momento buena conducta;
+> <small>N. DE E. EN RELACION CON LA MATERIA DE NARCOMENUDEO PUBLICADO EN EL DECRETO NUMERO 322 DEL P.O. 29 DE AGOSTO DE 2011, CONSULTESE EL TRANSITORIO SEGUNDO.</small>
+
+> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2011)</small>
+
+I. Que sea la primera vez que el sentenciado incurre en un delito doloso y haya observado hasta el momento buena conducta.
+
+No se considerará como antecedente de mala conducta el relativo a que se le haya considerado farmacodependiente, pero sí se exigirá en todo caso que el sentenciado se someta al tratamiento médico correspondiente para su rehabilitación, bajo vigilancia de la autoridad ejecutora;
 
 II.- Que por sus antecedentes personales o modo honesto de vivir, así como por la naturaleza, modalidades y móviles del delito, se presuma fundadamente que el sentenciado no volverá a delinquir; y
 
@@ -3768,3 +3786,11 @@ Artículo Tercero.- El titular del Poder Ejecutivo Estatal contará con un plazo
 Artículo Cuarto.- La Comisión Interinstitucional, una vez instalada, contará con un plazo de cuarenta y cinco días a partir de la entrada en vigor de la presente Ley para elaborar el Programa Estatal para Combatir, Prevenir y Sancionar la Trata de Personas y Proteger a sus Víctimas.
 
 Artículo Quinto.- Se deroga el Capítulo III, del Título Cuarto, Sección Tercera, del Libro Segundo y el artículo 276 del Código Penal para el Estado de Sinaloa y aquellas disposiciones que se opongan al presente Decreto.
+
+P.O. 29 DE AGOSTO DE 2011.
+
+PRIMERO. El presente decreto entrará en vigor el día de su publicación, salvo para la competencia en el delito de narcomenudeo.
+
+SEGUNDO. En materia de narcomenudeo, las autoridades competentes de la entidad conocerán de dicho delito a partir del día 21 de agosto de 2012, en cumplimiento al transitorio primero, párrafo tercero, del Decreto Federal publicado en el Diario Oficial de la Federación de fecha 20 de agosto de 2009.
+
+TERCERO. Durante la vacatio legis, los poderes Ejecutivo y Judicial deberán realizar las acciones necesarias para su debida observancia e instrumentación.
