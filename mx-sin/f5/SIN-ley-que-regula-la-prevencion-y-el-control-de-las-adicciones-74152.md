@@ -4,7 +4,7 @@ identifier: "SIN-ley-que-regula-la-prevencion-y-el-control-de-las-adicciones-741
 country: "mx"
 rank: "ley"
 publication_date: "2010-03-26"
-last_updated: "2010-03-26"
+last_updated: "2011-08-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=74152&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY QUE REGULA LA PREVENCION Y EL CONTROL DE LAS ADICCIONES EN EL ESTADO DE SINALOA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE AGOSTO DE 2011.
 
 Ley publicada en el Periódico Oficial del Estado de Sinaloa, el viernes 26 de marzo de 2010.
 
@@ -47,9 +47,13 @@ La presente Ley es de orden público y de interés social, y tiene por objeto re
 
 El Estado y la sociedad asumen con responsabilidad el compromiso de prevenir, tratar y controlar el uso y abuso de sustancias adictivas en la sociedad sinaloense; buscando a través de métodos integrales de prevención y rehabilitación, la reintegración a la vida productiva de las personas que padecen la enfermedad del alcoholismo y la drogadicción.
 
+> <small>N. DE E. EN RELACION CON LA MATERIA DE NARCOMENUDEO PUBLICADO EN EL DECRETO NUMERO 322 DEL P.O. 29 DE AGOSTO DE 2011, CONSULTESE EL TRANSITORIO SEGUNDO.</small>
+
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2011)</small>
+
 ###### ARTÍCULO 3.
 
-La disposiciones de la presente ley, se aplicaran sin perjuicio de las contenidas en otras leyes referentes a la salud y asistencia social o privada y en acato al artículo 4° de la Constitución Política de los Estados Unidos Mexicanos, a las disposiciones contenidas en Ley General de Salud, a la Ley de Salud del Estado de Sinaloa, y a la Norma Oficial Mexicana NOM 028 SSA2 1999, para la prevención, tratamiento y control de las adicciones.
+Las disposiciones de la presente Ley, se aplicarán sin perjuicio de las contenidas en otras leyes referentes a la salud y asistencia social o privada y en acato al artículo 41 de la Constitución Política de los Estados Unidos Mexicanos, a las disposiciones contenidas en Ley General de Salud, a la Ley de Salud del Estado de Sinaloa, y a la Norma Oficial Mexicana NOM 028 SSA2 1999, para la prevención, tratamiento y control de las adicciones, así como al Programa Nacional para la Prevención y Tratamiento de la Farmacodependencia.
 
 ###### ARTÍCULO 4.
 
@@ -105,6 +109,22 @@ La Secretaría de Salud, será la encargada de velar por el debido cumplimiento 
 
 La Secretaría de Salud y el Consejo, acatarán además de esta Ley, los lineamientos del Consejo Nacional contra las Adicciones y se coordinará con el mismo para implementar programas y acciones dirigidos a los establecimientos que presten servicios de prevención, tratamiento y control de las adicciones.
 
+> <small>N. DE E. EN RELACION CON LA MATERIA DE NARCOMENUDEO PUBLICADO EN EL DECRETO NUMERO 322 DEL P.O. 29 DE AGOSTO DE 2011, CONSULTESE EL TRANSITORIO SEGUNDO.</small>
+
+> <small>(ADICIONADO, P.O. 29 DE AGOSTO DE 2011)</small>
+
+La Secretaria de Salud con el fin de orientar a la población sobre los servicios de prevención, tratamiento, atención y reinserción social en materia de adicciones deberá de:
+
+I. Crear un padrón de instituciones y organismos públicos y privados que realicen actividades de prevención, tratamiento, atención y reinserción social en materia de adicciones, que contenga las características de atención, condiciones y requisitos para acceder a los servicios que ofrecen; y,
+
+II. Celebrar convenios de colaboración con instituciones nacionales e internaciones de los sectores social y privado, y con personas físicas que se dediquen a la prevención, tratamiento, atención y reinserción social en materia de adicciones, con el fin de que quienes requieran de asistencia, puedan, conforme a sus necesidades, características, posibilidades económicas, acceder a los servicios que todas estas instituciones o personas físicas ofrecen.
+
+> <small>N. DE E. EN RELACION CON LA MATERIA DE NARCOMENUDEO PUBLICADO EN EL DECRETO NUMERO 322 DEL P.O. 29 DE AGOSTO DE 2011, CONSULTESE EL TRANSITORIO SEGUNDO.</small>
+
+> <small>(ADICIONADO, P.O. 29 DE AGOSTO DE 2011)</small>
+
+Para efectos de realizar las acciones vinculadas al proceso de superación de las adicciones o farmacodependencia, la Secretaría de Salud estatal y las instituciones públicas y privadas dedicadas a la prevención, tratamiento, control y rehabilitación de las adicciones, deberán coordinarse con la Secretaría de Salud del Gobierno Federal, en términos del artículo 192 sextus de la Ley General de Salud.
+
 ###### ARTÍCULO 8.
 
 La Secretaría de Salud, en atención a esta Ley, tendrá las funciones siguientes:
@@ -115,7 +135,11 @@ II. Autorizar el funcionamiento de los establecimientos, una vez que se verifiqu
 
 III. Expedir el registro del establecimiento, una vez autorizado el programa de trabajo que deberán acompañar a la solicitud de registro que los autoriza para prestar el servicio de prevención, control y tratamiento de adicciones;
 
-IV. Promover y mantener actualizado el registro de instituciones públicas, privadas o sociales que presten servicios de prevención, control o tratamiento de las adicciones en el Estado de Sinaloa;
+> <small>N. DE E. EN RELACION CON LA MATERIA DE NARCOMENUDEO PUBLICADO EN EL DECRETO NUMERO 322 DEL P.O. 29 DE AGOSTO DE 2011, CONSULTESE EL TRANSITORIO SEGUNDO.</small>
+
+> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2011)</small>
+
+IV. Promover el tratamiento y rehabilitación de los adictos, mediante el establecimiento de centros especializados, que funcionen con base en sistemas modernos de tratamiento y rehabilitación, fundados en el respeto a la integridad y a la libre decisión de los farmacodependientes, y con la participación de los sectores social y privado, cuidando que los programas se ajusten a la Norma Oficial Mexicana establecida para la prevención, tratamiento y control de las adicciones, así como al Programa Nacional para la Prevención y Tratamiento de la Farmacodependencia.
 
 V. Cancelar el registro del establecimiento, cuando éste no cumpla con las disposiciones de esta Ley y de la NOM, previa audiencia del representante legal del establecimiento;
 
@@ -163,9 +187,23 @@ V. Los representantes de los Comités;
 
 VI. Los representantes de organismos no gubernamentales;
 
-VII. Los representantes de los establecimientos; y,
+> <small>N. DE E. EN RELACION CON LA MATERIA DE NARCOMENUDEO PUBLICADO EN EL DECRETO NUMERO 322 DEL P.O. 29 DE AGOSTO DE 2011, CONSULTESE EL TRANSITORIO SEGUNDO.</small>
 
-VIII. El representante de la Comisión Estatal de los Derechos Humanos.
+> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2011)</small>
+
+VII. Los representantes de los establecimientos;
+
+> <small>N. DE E. EN RELACION CON LA MATERIA DE NARCOMENUDEO PUBLICADO EN EL DECRETO NUMERO 322 DEL P.O. 29 DE AGOSTO DE 2011, CONSULTESE EL TRANSITORIO SEGUNDO.</small>
+
+> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2011)</small>
+
+VIII. El representante de la Comisión Estatal de los Derechos Humanos; y,
+
+> <small>N. DE E. EN RELACION CON LA MATERIA DE NARCOMENUDEO PUBLICADO EN EL DECRETO NUMERO 322 DEL P.O. 29 DE AGOSTO DE 2011, CONSULTESE EL TRANSITORIO SEGUNDO.</small>
+
+> <small>(ADICIONADA, P.O. 29 DE AGOSTO DE 2011)</small>
+
+IX. Comisión: de Salud, de Deporte y Asistencia Social, de Seguridad Pública y de Protección Civil del Congreso del Estado.
 
 ###### ARTÍCULO 10.
 
@@ -184,6 +222,18 @@ I. Colaborar y servir de órgano de consulta permanente para el establecimiento 
 II. Promover y fomentar los valores éticos, cívicos y morales en las personas con adicción en estricto apego a los derechos humanos y el principio de no discriminación;
 
 III. Proponer programas y acciones en educación para la sensibilización y prevención de adicciones;
+
+> <small>N. DE E. EN RELACION CON LA MATERIA DE NARCOMENUDEO PUBLICADO EN EL DECRETO NUMERO 322 DEL P.O. 29 DE AGOSTO DE 2011, CONSULTESE EL TRANSITORIO SEGUNDO.</small>
+
+> <small>(ADICIONADO, P.O. 29 DE AGOSTO DE 2011)</small>
+
+En todos los planes y programas para la prevención, tratamiento, control y rehabilitación de las adicciones, se deberán acatar los procedimientos y criterios establecidos en el Programa Nacional para la Prevención y Tratamiento de la Farmacodependencia.
+
+> <small>N. DE E. EN RELACION CON LA MATERIA DE NARCOMENUDEO PUBLICADO EN EL DECRETO NUMERO 322 DEL P.O. 29 DE AGOSTO DE 2011, CONSULTESE EL TRANSITORIO SEGUNDO.</small>
+
+> <small>(ADICIONADO, P.O. 29 DE AGOSTO DE 2011)</small>
+
+Dicho Programa será de observancia obligatoria para los establecimientos de los sectores públicos, privado y social que realicen actividades preventivas, de tratamiento y control de las adicciones y la farmacodependencia.
 
 IV. Contribuir a que los usuarios participen activa y conscientemente en los programas que tiendan a satisfacer sus necesidades básicas y desarrollar sus capacidades;
 
@@ -330,6 +380,18 @@ VIII. Copia de título y cédula profesional del médico responsable.
 El programa de trabajo que se acompañará a la solicitud del registro de los establecimientos, deberá contener:
 
 I. Datos de identificación del establecimiento;
+
+> <small>N. DE E. EN RELACION CON LA MATERIA DE NARCOMENUDEO PUBLICADO EN EL DECRETO NUMERO 322 DEL P.O. 29 DE AGOSTO DE 2011, CONSULTESE EL TRANSITORIO SEGUNDO.</small>
+
+> <small>(ADICIONADO, P.O. 29 DE AGOSTO DE 2011)</small>
+
+Para determinar la ubicación de los centros de tratamiento, atención y rehabilitación contra las adicciones, la Secretaria de Salud deberá realizar estudios rigurosos sobre el impacto de las adicciones en todo el territorio del Estado.
+
+> <small>N. DE E. EN RELACION CON LA MATERIA DE NARCOMENUDEO PUBLICADO EN EL DECRETO NUMERO 322 DEL P.O. 29 DE AGOSTO DE 2011, CONSULTESE EL TRANSITORIO SEGUNDO.</small>
+
+> <small>(ADICIONADO, P.O. 29 DE AGOSTO DE 2011)</small>
+
+Los Centros de tratamiento, atención y rehabilitación contra las adicciones, deberán establecer y contar con sistemas modernos de tratamiento y rehabilitación, fundamentados en el respeto a la integridad y a la libre decisión del adicto.
 
 II. El tipo y modelo de tratamiento;
 
@@ -1258,3 +1320,13 @@ Lic. Quirino Ordaz Coppel
 El Secretario de Salud
 
 Dr. Héctor Ponce Ramos
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS DEL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 29 DE AGOSTO DE 2011.
+
+PRIMERO. El presente decreto entrará en vigor el día de su publicación, salvo para la competencia en el delito de narcomenudeo.
+
+SEGUNDO. En materia de narcomenudeo, las autoridades competentes de la entidad conocerán de dicho delito a partir del día 21 de agosto de 2012, en cumplimiento al transitorio primero, párrafo tercero, del Decreto Federal publicado en el Diario Oficial de la Federación de fecha 20 de agosto de 2009.
+
+TERCERO. Durante la vacatio legis, los poderes Ejecutivo y Judicial deberán realizar las acciones necesarias para su debida observancia e instrumentación.
