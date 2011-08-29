@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-del-poder-legislativo-del-estado-libre-y-6088"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-09-15"
-last_updated: "2011-08-02"
+last_updated: "2011-08-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6088&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 2 DE AGOSTO DE 2011.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 29 DE AGOSTO DE 2011.
 
 Ley publicada en la Tercera Sección de la Gaceta del Gobierno del Estado de México, el viernes 15 de septiembre de 1995.
 
@@ -491,35 +491,47 @@ Son atribuciones de los secretarios:
 
 I. Auxiliar al Presidente en la preparación del orden del día de las sesiones;
 
-II. Pasar lista de asistencia y verificar la existencia del quórum;
+> <small>(ADICIONADA, G.G. 29 DE AGOSTO DE 2011)</small>
 
-III. Distribuir el orden del día entre los diputados, así como el acta de la sesión anterior;
+II. Supervisar el sistema electrónico de asistencia y votación;
 
-IV. Leer los asuntos listados en el orden del día y los documentos que ordene el Presidente de la Legislatura;
+III. Pasar lista de asistencia y verificar la existencia del quórum;
 
-V. Dar lectura a las iniciativas de ley o decreto que no sean iniciadas por los diputados;
+IV. Distribuir el orden del día entre los diputados, así como el acta de la sesión anterior;
 
-VI. Recabar y contar los votos de los diputados, comunicando el resultado al presidente;
+V. Leer los asuntos listados en el orden del día y los documentos que ordene el Presidente de la Legislatura;
 
-VII. Entregar las iniciativas y expedientes, a las comisiones o comités correspondientes, a más tardar al tercer día del acuerdo respectivo;
+VI. Dar lectura a las iniciativas de ley o decreto que no sean iniciadas por los diputados;
 
-VIII. Proporcionar a las comisiones o comités la información que obre en su poder, cuando lo soliciten;
+VII. Recabar y contar los votos de los diputados, comunicando el resultado al presidente;
 
-IX. Informar al final de cada sesión de las faltas de asistencia (sic) justificadas y sin justificar de los diputados;
+VIII. Entregar las iniciativas y expedientes, a las comisiones o comités correspondientes, a más tardar al tercer día del acuerdo respectivo;
 
-X. Firmar las resoluciones que expida la Legislatura, así como la correspondencia que lo requiera;
+IX. Proporcionar a las comisiones o comités la información que obre en su poder, cuando lo soliciten;
 
-XI. Cuidar que se redacten las actas de las sesiones en forma fidedigna y asentarlas en el registro respectivo a más tardar al día siguiente de su aprobación;
+X. Informar al final de cada sesión de las faltas de asistencia (sic) justificadas y sin justificar de los diputados;
 
-XII. Expedir y certificar copia de documentos que obren en el archivo de la Legislatura;
+XI. Firmar las resoluciones que expida la Legislatura, así como la correspondencia que lo requiera;
+
+XII. Cuidar que se redacten las actas de las sesiones en forma fidedigna y asentarlas en el registro respectivo a más tardar al día siguiente de su aprobación;
+
+XIII. Expedir y certificar copia de documentos que obren en el archivo de la Legislatura;
 
 > <small>(REFORMADA, G.G. 19 DE AGOSTO DEL 2003)</small>
 
-XIII. Supervisar las funciones del Secretario de Asuntos Parlamentarios en cuanto a la secretaría se refiere;
+XIV. Supervisar las funciones del Secretario de Asuntos Parlamentarios en cuanto a la secretaría se refiere;
 
-XIV. Proporcionar la documentación necesaria para la edición del Diario de Debates;
+XV. Proporcionar la documentación necesaria para la edición del Diario de Debates;
 
-XV. Las demás que se deriven de las disposiciones legales o acuerdos de la Asamblea o del Presidente de la Legislatura.
+XVI. Las demás que se deriven de las disposiciones legales o acuerdos de la Asamblea o del Presidente de la Legislatura.
+
+> <small>(ADICIONADO, G.G. 29 DE AGOSTO DE 2011)</small>
+
+La asistencia, la verificación del quórum, el cómputo y registro de la votación nominal y, en su caso, la votación de asuntos que la legislatura determine, deberá realizarse a través del sistema electrónico de asistencia y votación.
+
+> <small>(ADICIONADO, G.G. 29 DE AGOSTO DE 2011)</small>
+
+En caso de que no se pueda utilizar el sistema electrónico, la asistencia, la verificación del quórum y la votación se realizará de conformidad con lo señalado en el Reglamento del Poder Legislativo.
 
 ### CAPITULO V. DE LOS GRUPOS PARLAMENTARIOS
 
@@ -1305,6 +1317,10 @@ II. Nominal;
 
 III. Secreta.
 
+> <small>(ADICIONADO, G.G. 29 DE AGOSTO DE 2011)</small>
+
+Las votaciones nominales deberán realizarse mediante el sistema electrónico de asistencia, a efecto de facilitar dichas actividades, salvo la hipótesis prevista en el último párrafo del artículo 50 de esta Ley.
+
 ###### Artículo 90.
 
 Por regla general la votación será económica excepto que se trate de la aprobación de iniciativas de ley o decreto, en cuyo caso será nominal; cuando se trate de la elección de personas, la votación será secreta, salvo disposición en contrario.
@@ -1888,3 +1904,13 @@ PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del G
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
 
 TERCERO.- La Secretaría de Administración y Finanzas del Poder Legislativo proveerá lo necesario para dar cumplimiento al presente Decreto.
+
+G.G. 29 DE AGOSTO DE 2011.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- El Sistema de registro de asistencia y votación electrónica, deberá ser puesto en operación en un plazo no mayor a 90 días.
+
+CUARTO.- Se faculta a la Junta de Coordinación Política, a la Secretaría de Administración y Finanzas y a la Secretaría de Asuntos Parlamentarios, para que en coordinación provean lo necesario para el cumplimiento del presente Decreto.
