@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-municipal-del-estado-de-mexico-6081"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1993-03-02"
-last_updated: "2011-08-19"
+last_updated: "2011-08-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6081&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY ORGANICA MUNICIPAL DEL ESTADO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 19 DE AGOSTO DE 2011.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 29 DE AGOSTO DE 2011.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el martes 2 de marzo de 1993.
 
@@ -713,6 +713,10 @@ XXIII. Preservar, conservar y restaurar el medio ambiente; así como generar las
 
 XXIV. Participar en la creación y administración de sus reservas territoriales y ecológicas; convenir con otras autoridades el control y la vigilancia sobre la utilización del suelo en sus jurisdicciones territoriales; intervenir en la regularización de la tenencia de la tierra urbana; otorgar licencias y permisos para construcciones privadas; planificar y regular de manera conjunta y coordinada el desarrollo de las localidades conurbadas;
 
+> <small>(ADICIONADA, G.G. 29 DE AGOSTO DE 2011)</small>
+
+XXIV Bis. Promover las acciones y ejecutar los programas sociales necesarios para la recuperación de espacios públicos, a fin de fortalecer la seguridad jurídica, mantenimiento, sostenibilidad, control y la apropiación social de éstos;
+
 > <small>(ADICIONADA, G.G. 23 DE AGOSTO DE 2005)</small>
 
 XXV. Coadyuvar con la Secretaría del Medio Ambiente a la creación y desarrollo del mercado de derechos de uso del medio ambiente;
@@ -851,9 +855,11 @@ V. Comprobación de que el inmueble no está destinado a un servicio público mu
 
 VI. El destino que se dará a los fondos que se obtengan de la enajenación.
 
+> <small>(REFORMADO, G.G. 29 DE AGOSTO DE 2011)</small>
+
 ###### Artículo 36.
 
-Las enajenaciones de bienes inmuebles propiedad de los municipios, se efectuarán en subasta pública, siguiendo un procedimiento semejante al establecido en el Código de Procedimientos Civiles del Estado para los remates judiciales, salvo que se les autorice en otra forma, respetando el derecho del tanto.
+Las enajenaciones de bienes inmuebles propiedad de los municipios y sus organismos auxiliares, una vez realizada la desincorporación, se efectuaran a través de subasta pública, en los términos de lo dispuesto en el Libro Décimo Tercero del Código Administrativo del Estado de México y su Reglamento.
 
 ###### Artículo 37.
 
@@ -863,9 +869,11 @@ Los actos realizados en contravención a lo dispuesto en este Capítulo, son nul
 
 La celebración de contratos y la realización de obra pública se sujetarán a la ley de la materia.
 
+> <small>(REFORMADO, G.G. 29 DE AGOSTO DE 2011)</small>
+
 ###### Artículo 39.
 
-Los ayuntamientos podrán donar, previa autorización de la Legislatura, bienes inmuebles propiedad del municipio, cuando se destinen a la realización de obras de interés público o de beneficio colectivo.
+Los Ayuntamientos podrán enajenar a título oneroso o gratuito, bienes inmuebles propiedad del municipio, así como realizar los demás actos jurídicos respecto a ellos, señalados en la Ley de Bienes del Estado de México y de sus Municipios, cumpliendo con los requisitos establecidos en la misma, en la presente Ley y demás disposiciones aplicables.
 
 ### CAPITULO QUINTO. Suplencia de los Miembros del Ayuntamiento
 
@@ -1567,11 +1575,15 @@ XIII. Ser responsable de la publicación de la Gaceta Municipal;
 
 XIV. Las demás que le confieran esta Ley y disposiciones aplicables.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 29 DE AGOSTO DE 2011)</small>
+
 ###### Artículo 92.
 
-Para ser secretario del ayuntamiento se requiere:
+Para ser secretario del ayuntamiento se requiere, además de los requisitos establecidos en el artículo 32 de esta Ley, los siguientes:
 
-I. En municipios que tengan una población de hasta 150 mil habitantes, haber concluido la educación secundaria; en los municipios que tengan más de 150 mil y hasta 500 mil habitantes, o que sean cabecera distrital, haber concluido la educación media superior; en los municipios de más de 500 mil habitantes y en el municipio sede de los poderes del Estado, haber concluido estudios de licenciatura;
+> <small>(REFORMADA, G.G. 29 DE AGOSTO DE 2011)</small>
+
+I. En municipios que tengan una población de hasta 150 mil habitantes, haber concluido la educación media superior; en los municipios que tengan más de 150 mil y hasta 500 mil habitantes, o que sean cabecera distrital, haber concluido estudios de licenciatura; en los municipios de más de 500 mil habitantes y en el municipio sede de los poderes del Estado, tener título profesional de nivel licenciatura;
 
 II. (DEROGADA, G.G. 4 DE OCTUBRE DE 2010)
 
@@ -1777,33 +1789,29 @@ La inspección de la hacienda pública municipal compete al ayuntamiento por con
 
 A la Secretaría de la Contraloría del Gobierno del Estado le corresponde vigilar en los términos de los convenios respectivos, que los recursos federales y estatales que ejerzan directamente los municipios, se apliquen conforme a lo estipulado en los mismos.
 
+> <small>(REFORMADO, G.G. 29 DE AGOSTO DE 2011)</small>
+
 ###### Artículo 105.
 
-Son bienes del dominio público municipal:
+Los bienes del dominio público municipal son de uso común o destinados a un servicio público, de conformidad con lo que establece la Ley de Bienes del Estado de México y de sus Municipios, en los términos siguientes:
 
-I. Los de uso común;
+I. Son bienes de uso común los que pueden ser aprovechados por los habitantes del municipio, sin más limitaciones y restricciones que las establecidas en las leyes y reglamentos administrativos; y
 
-II. Los destinados por el ayuntamiento a un servicio público;
+II. Son bienes destinados a un servicio público, aquellos que utilice el municipio para el desarrollo de sus actividades o los que de hecho se utilizan para la prestación de servicios o actividades equiparables a ellos.
 
-III. Los muebles municipales que por su naturaleza no sean sustituibles;
-
-IV. Las servidumbres, cuando el predio dominante sea alguno de los anteriores;
-
-V. Las pinturas murales, esculturas y cualquier obra artística o de valor histórico incorporada o adherida permanentemente a los inmuebles propiedad del municipio o de sus organismos descentralizados.
+> <small>(REFORMADO, G.G. 29 DE AGOSTO DE 2011)</small>
 
 ###### Artículo 106.
 
-Son bienes del dominio privado municipal:
+Son bienes del dominio privado de los municipios, aquellos que no son de uso común ni están destinados a un servicio público y que por su naturaleza están sujetos al derecho privado.
 
-I. Los que resulten de la liquidación, extinción de organismos auxiliares municipales, en la proporción que corresponda al municipio;
+Se consideran bienes del dominio privado municipal, los señalados en la Ley de Bienes del Estado de México y de sus Municipios.
 
-II. Los inmuebles o muebles que formen parte de su patrimonio, o adquiera el municipio, no destinados al uso común o a la prestación de un servicio público;
-
-III. Los demás inmuebles o muebles que por cualquier título adquiera el municipio.
+> <small>(REFORMADO, G.G. 29 DE AGOSTO DE 2011)</small>
 
 ###### Artículo 107.
 
-Podrá transmitirse onerosa o gratuitamente la propiedad de los bienes muebles del dominio privado, previo acuerdo del ayuntamiento, de conformidad al valor comercial que tengan los bienes en el mercado, según conste en el avalúo correspondiente, expidiéndose al adquirente o cesionario el documento que acredite la transmisión.
+El Ayuntamiento, previo dictamen del Comité correspondiente, podrá acordar la transmisión a título oneroso o gratuito, de los bienes muebles del dominio privado municipal, a través del procedimiento establecido en el Libro Décimo Tercero del Código Administrativo del Estado de México y su Reglamento.
 
 ###### Artículo 108.
 
@@ -3230,6 +3238,38 @@ PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del G
 SEGUNDO.- El presente Decreto entrará en vigor al siguiente día de su publicación en el Periódico Oficial "Gaceta del Gobierno", y se aplicará a los Ayuntamientos que inicien su ejercicio constitucional el 1 de enero del año 2013.
 
 G.G. 19 DE AGOSTO DE 2011.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 29 DE AGOSTO DE 2011.
+
+DECRETO No. 331 POR EL QUE SE ADICIONA LA FRACCION XXIV BIS AL ARTICULO 31 DE LA LEY ORGANICA MUNICIPAL DEL ESTADO DE MEXICO.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 29 DE AGOSTO DE 2011.
+
+DECRETO No. 332 POR EL QUE SE REFORMAN LOS ARTICULOS 36 Y 39 DE LA LEY ORGANICA MUNICIPAL DEL ESTADO DE MEXICO.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 29 DE AGOSTO DE 2011.
+
+DECRETO No. 333 POR EL QUE SE REFORMA EL ARTICULO 92 DE LA LEY ORGANICA MUNICIPAL DEL ESTADO DE MEXICO.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 29 DE AGOSTO DE 2011.
+
+DECRETO No. 334 POR EL QUE SE REFORMAN LOS ARTICULOS 105, 106 Y 107 DE LA LEY ORGANICA MUNICIPAL DEL ESTADO DE MEXICO.
 
 PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
 
