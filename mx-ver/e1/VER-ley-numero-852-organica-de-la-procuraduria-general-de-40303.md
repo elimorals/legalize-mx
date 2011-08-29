@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-852-organica-de-la-procuraduria-general-de-40303"
 country: "mx"
 rank: "ley"
 publication_date: "2004-07-12"
-last_updated: "2010-11-05"
+last_updated: "2011-08-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40303&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY NUMERO 852 ORGANICA DE LA PROCURADURIA GENERAL DE JUSTICIA DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 5 DE NOVIEMBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 29 DE AGOSTO DE 2011.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz, el lunes 12 de julio de 2004.
 
@@ -103,7 +103,15 @@ Cuando se estime necesario, el bien se mantendrá a disposición del Ministerio 
 
 VIII. Conceder la libertad a los indiciados, en los términos previstos en el artículo 20 de la Constitución Política de los Estados Unidos Mexicanos;
 
-IX. Solicitar al órgano jurisdiccional las órdenes de cateo, las medidas precautorias o cautelares que resulten procedentes, en términos de las leyes aplicables;
+> <small>(REFORMADA, G.O. 29 DE AGOSTO DE 2011)</small>
+
+IX. Ejecutar las medidas precautorias que resulten procedentes, de oficio o a petición de la víctima u ofendido o de cualquier persona en términos de lo establecido en el Código de Procedimientos Penales para el Estado y demás leyes aplicables.
+
+El Ministerio Público dictará las órdenes necesarias para garantizar el cumplimiento de las medidas u órdenes precautorias y de protección.
+
+Dentro del término de veinticuatro horas de la determinación de la imposición de la medida precautoria u orden de protección, el Ministerio Público comunicará la misma, por cualquier medio, al órgano jurisdiccional, con la finalidad de que la autoridad judicial conozca la imposición de la medida y fije día y hora para la celebración de una audiencia de revisión de las medidas.
+
+Tratándose de delitos vinculados a la violencia de género y en los casos en que las víctimas u ofendidos sean menores de edad, el Ministerio Público dictará de inmediato, de oficio, las medidas de protección apropiadas para salvaguardar su seguridad e integridad física y psicológica.
 
 X. Iniciar el procedimiento de mediación en los términos previstos en el Código de Procedimientos Penales en el Estado;
 
@@ -191,9 +199,41 @@ V. Formular quejas ante el Consejo de la Judicatura del Poder Judicial del Estad
 
 VI. Informar a las autoridades competentes acerca de los hechos que, no siendo constitutivos de delito, afecten a la administración pública del Estado;
 
-VII. Informar a los interesados acerca de los procedimientos legales en los trámites de las quejas que hubiesen formulado contra servidores públicos, por hechos no constitutivos de delito pero sí susceptibles de ser sancionados mediante el procedimiento administrativo correspondiente; y
+> <small>(REFORMADA, G.O. 29 DE AGOSTO DE 2011)</small>
 
-VIII. Aplicar normas de control y evaluación técnico-jurídicas en todas las unidades administrativas del Ministerio Público y sus órganos auxiliares, tanto centrales como desconcentrados, mediante la práctica de visitas de inspección y vigilancia.
+VII. Informar a los interesados acerca de los procedimientos legales en los trámites de las quejas que hubiesen formulado contra servidores públicos, por hechos no constitutivos de delito pero sí susceptibles de ser sancionados mediante el procedimiento administrativo correspondiente;
+
+> <small>(REFORMADA, G.O. 29 DE AGOSTO DE 2011)</small>
+
+VIII. Aplicar normas de control y evaluación técnico-jurídicas en todas las unidades administrativas del Ministerio Público y sus órganos auxiliares, tanto centrales como desconcentrados, mediante la práctica de visitas de inspección y vigilancia;
+
+> <small>(ADICIONADA, G.O. 29 DE AGOSTO DE 2011)</small>
+
+IX. Vigilar que el Ministerio Público solicite y ejecute de manera obligatoria, las órdenes y medidas de protección a favor de la víctima u ofendido;
+
+> <small>(ADICIONADA, G.O. 29 DE AGOSTO DE 2011)</small>
+
+X. Especializar a los agentes del Ministerio Público, peritos, personal que atiende a víctimas a través de programas y cursos permanentes en:
+
+a) Derechos humanos y género;
+
+b) Perspectiva de género para la debida diligencia en la conducción de averiguaciones previas y procesos judiciales relacionados con discriminación, violencia y feminicidios;
+
+c) Incorporación de la perspectiva de género en los servicios periciales; y
+
+d) Eliminación de estereotipos sobre el rol social de las mujeres, entre otros;
+
+> <small>(ADICIONADA, G.O. 29 DE AGOSTO DE 2011)</small>
+
+XI. Crear un registro público sistemático de los delitos cometidos en contra de mujeres, que incluya la clasificación de los hechos de los que tenga conocimiento, lugar de ocurrencia y lugar de hallazgo de los cuerpos, características socio demográficas de las víctimas y del sujeto activo, especificando su tipología, relación entre el sujeto activo y pasivo, móviles, diligencias básicas a realizar, así como las dificultades para la práctica de diligencias y determinaciones; los índices de incidencia y reincidencia, consignación, sanción y reparación del daño. Este registro se integrará a la estadística criminal y victimal para definir políticas en materia de prevención del delito, procuración y administración de justicia;
+
+> <small>(ADICIONADA, G.O. 29 DE AGOSTO DE 2011)</small>
+
+XII. Elaborar y aplicar de manera inmediata protocolos especializados con perspectiva de género en la búsqueda de mujeres y niñas desaparecidas, para la investigación de los feminicidios y la violencia sexual; y
+
+> <small>(ADICIONADA, G.O. 29 DE AGOSTO DE 2011)</small>
+
+XIII. Realizar y mantener actualizada una página de internet específica en la cual se encuentren los datos generales de las mujeres y niñas que sean reportadas como desaparecidas. La información deberá ser pública y permitir que la población en general pueda aportar información sobre el paradero de las mujeres y niñas desaparecidas.
 
 ###### Artículo 9.
 
@@ -211,7 +251,9 @@ I. Intervenir en su carácter de representante social ante los tribunales compet
 
 II. Tramitar los incidentes de reparación del daño exigibles a personas distintas del inculpado, ante los órganos jurisdiccionales competentes, conforme a lo dispuesto en el Código de Procedimientos Penales del Estado, cuando la víctima u ofendido pertenezca a algún grupo vulnerable o indígena;
 
-III. Promover la conciliación en asuntos de orden familiar, como instancia previa al órgano jurisdiccional; y
+> <small>(REFORMADA, G.O. 29 DE AGOSTO DE 2011)</small>
+
+III. Promover la conciliación en asuntos de orden familiar, como instancia previa al órgano jurisdiccional, excepto en los casos de violencia familiar y violencia de género; y
 
 IV. Coordinarse con instituciones públicas y privadas, cuyo objeto sea la asistencia de menores e incapaces, a fin de brindarles protección.
 
@@ -229,9 +271,17 @@ II. Proponer al Titular del Poder Ejecutivo del Estado, reformas jurídicas y to
 
 III. Investigar y determinar las causas que dan origen a los delitos, precisando los lugares en que se cometen, desarrollar las estadísticas criminales e investigar el impacto social del delito y su costo;
 
-IV. Promover la formación profesional y el mejoramiento de los sistemas administrativos y tecnológicos para la investigación de los delitos y la persecución eficaz de los delincuentes; y
+> <small>(REFORMADA, G.O. 29 DE AGOSTO DE 2011)</small>
 
-V. Elaborar, aplicar y evaluar los programas necesarios para lograr el mejor desempeño de sus funciones.
+IV. Promover la formación profesional y el mejoramiento de los sistemas administrativos y tecnológicos para la investigación de los delitos y la persecución eficaz de los delincuentes;
+
+> <small>(REFORMADA, G.O. 29 DE AGOSTO DE 2011)</small>
+
+V. Elaborar, aplicar y evaluar los programas necesarios para lograr el mejor desempeño de sus funciones; y
+
+> <small>(ADICIONADA, G.O. 29 DE AGOSTO DE 2011)</small>
+
+VI. Integrar la información sobre delitos de violencia de género, violencia familiar, contra la libertad y seguridad sexuales y contra la familia, de manera permanente, en el Banco Estatal de Datos e Información sobre Casos de Violencia contra las Mujeres.
 
 ###### Artículo 13.
 
@@ -299,9 +349,17 @@ VIII. Agentes del Ministerio Público; en las cabeceras municipales en donde no 
 
 IX. Los policías ministeriales de la Agencia Veracruzana de Investigaciones;
 
-X. Peritos; y
+> <small>(REFORMADA, G.O. 29 DE AGOSTO DE 2011)</small>
 
-XI. Oficiales Secretarios.
+X. Peritos;
+
+> <small>(REFORMADA, G.O. 29 DE AGOSTO DE 2011)</small>
+
+XI. Oficiales Secretarios; y
+
+> <small>(ADICIONADA, G.O. 29 DE AGOSTO DE 2011)</small>
+
+XII. Visitadurías.
 
 > <small>(REFORMADO, G.O. 5 DE NOVIEMBRE DE 2010)</small>
 
@@ -768,3 +826,9 @@ Primero. El presente Decreto entrará en vigor al día siguiente de su publicaci
 Segundo. Para todos los efectos legales procedentes, en tanto no se modifique el Reglamento de la Ley Orgánica de la Procuraduría General de Justicia del Estado de Veracruz de Ignacio de la Llave, las áreas y unidades existentes continuarán con su denominación, atribuciones y competencia.
 
 Tercero. Se derogan todas las demás disposiciones que se opongan al presente Decreto.
+
+G.O. 29 DE AGOSTO DE 2011.
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
