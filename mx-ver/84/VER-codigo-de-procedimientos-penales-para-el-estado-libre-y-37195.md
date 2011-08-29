@@ -4,7 +4,7 @@ identifier: "VER-codigo-de-procedimientos-penales-para-el-estado-libre-y-37195"
 country: "mx"
 rank: "codigo"
 publication_date: "2003-11-07"
-last_updated: "2010-12-07"
+last_updated: "2011-08-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=37195&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 7 DE DICIEMBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 29 DE AGOSTO DE 2011.
 
 Código publicado en el Alcance a la Gaceta Oficial del Estado de Veracruz de Ignacio de la Llave, el viernes 7 de noviembre de 2003.
 
@@ -137,7 +137,9 @@ VI. Acordará la detención o la retención de los indiciados, cuando sea proced
 
 VII. Determinará la reserva, el ejercicio o no de la acción penal;
 
-VIII. Solicitará, cuando proceda, la reparación del daño;
+> <small>(REFORMADA, G.O. 29 DE AGOSTO DE 2011)</small>
+
+VIII. Aplicará o solicitará las medidas precautorias y de protección que sean necesarias y solicitará la reparación del daño, aportando los dictámenes periciales correspondientes para cuantificar el mismo;
 
 IX. Solicitará la aplicación de sanciones; propondrá la liberación de quienes resulten inocentes; hará las promociones e interpondrá los recursos que estime necesarios dentro del procedimiento judicial; y
 
@@ -881,6 +883,10 @@ Iniciada la investigación ministerial, ésta tenderá a probar el cuerpo del de
 
 El Ministerio Público tomará o solicitará inmediatamente las medidas precautorias que estime procedentes, en relación con las personas o con los bienes relacionados con la investigación.
 
+> <small>(ADICIONADO, G.O. 29 DE AGOSTO DE 2011)</small>
+
+Tratándose de delitos de violencia de género, violencia familiar y delitos contra la libertad o seguridad sexuales, y en los casos en que las víctimas u ofendidos sean personas menores de edad, o incapaces, el Ministerio Público o la autoridad judicial, según corresponda, dictarán de inmediato, de oficio, las medidas precautorias apropiadas para salvaguardar su seguridad e integridad física y psicológica.
+
 > <small>(ADICIONADO, G.O. 2 DE AGOSTO DE 2007)</small>
 
 En su caso, el Ministerio Público tendrá como obligación solicitar los dictámenes técnicos emitidos por la Comisión de Arbitraje Médico del Estado, a fin de ser considerados en la integración de la investigación ministerial.
@@ -890,6 +896,156 @@ A través de los elementos de convicción que obren en la investigación ministe
 > <small>(ADICIONADO, G.O. 11 DE FEBRERO DE 2004)</small>
 
 En el caso del secuestro previsto en la fracción I del artículo 163 del Código Penal para el Estado, el Ministerio Público podrá, inmediatamente que tenga conocimiento de su comisión, solicitar la autorización judicial para el aseguramiento de los bienes de la víctima, mientras ésta permanezca privada de su libertad. De concederse la autorización, el juez lo comunicará a las oficinas del Registro Público de la Propiedad e instituciones y empresas bancarias y de seguros, para que no permitan movimientos en las cuentas y registros sin su autorización, ordenando las medidas provisionales necesarias para su conservación, resguardo o liberación.
+
+> <small>(ADICIONADO, G.O. 29 DE AGOSTO DE 2011)</small>
+
+Artículo 132 A. El Juez o el Ministerio Público podrán imponer una o más de las siguientes medidas precautorias:
+
+I. La exhibición de una garantía económica en los términos fijados por este Código;
+
+II. La prohibición de salir del país, de la localidad en la cual reside o del ámbito territorial que fije el juez, sin autorización;
+
+III. La obligación de someterse a las medidas reeducativas integrales y gratuitas establecidas en la Ley de Acceso de las Mujeres a una Vida Libre de Violencia;
+
+IV. La obligación de someterse a vigilancia de una persona o institución determinada que informe regularmente al juez;
+
+V. La obligación de presentarse periódicamente ante el juez o el Ministerio Público;
+
+VI. La colocación de localizadores electrónicos sin que pueda mediar violencia o lesión a la dignidad o integridad física del destinatario de la medida;
+
+VII. La prohibición de concurrir a determinadas reuniones o de visitar ciertos lugares;
+
+VIII. La prohibición de convivir o comunicarse con personas determinadas, siempre que no se afecte el derecho de defensa;
+
+IX. La separación inmediata del domicilio, cuando se trate de agresión a mujeres, menores de edad o incapaces, o delitos sexuales, y la víctima u ofendido conviva con el destinatario de la medida;
+
+X. La suspensión provisional del cargo, profesión u oficio, cuando se impute un delito cometido en el ejercicio de éstos y por la comisión de aquél se establezca como pena la inhabilitación, destitución o suspensión;
+
+XI. La suspensión de derechos vinculados al hecho, cuando exista riesgo fundado y grave de que el imputado reitere la conducta objeto de imputación; y
+
+XII. La prisión preventiva, si el delito de que se trate está sancionado con pena privativa de libertad.
+
+Las medidas contenidas en las fracciones II, III, V, X, XI y XII serán impuestas exclusivamente por el juez a petición del Ministerio Público, la víctima o el ofendido.
+
+> <small>(ADICIONADO, G.O. 29 DE AGOSTO DE 2011)</small>
+
+Artículo 132 B. El Ministerio Público solicitará, dentro del término de 24 horas siguientes a la imposición de medidas precautorias, audiencia al juez para su revisión. El juez citará para audiencia dentro de los siete días naturales siguientes, en la que resolverá sobre la ratificación, modificación, sustitución o revocación de la medida impuesta.
+
+Las medidas impuestas por el Ministerio Público tendrán plena vigencia y serán ejecutadas por conducto de las autoridades competentes y, en su caso, con el auxilio de la fuerza pública, en tanto el juez resuelve lo conducente.
+
+El Ministerio Público podrá solicitar la ampliación o prórroga de las medidas precautorias impuestas por el juez en cualquier etapa de la investigación, así como su extensión para la protección y seguridad de personas relacionadas con la víctima u ofendido o cualesquiera otras que deban intervenir en el proceso.
+
+> <small>(ADICIONADO, G.O. 29 DE AGOSTO DE 2011)</small>
+
+Artículo 132 C. El Ministerio Público o el juez, según sea el caso, dictarán las órdenes necesarias para garantizar el cumplimiento de las medidas precautorias.
+
+> <small>(ADICIONADO, G.O. 29 DE AGOSTO DE 2011)</small>
+
+Artículo 132 D. Se establecen como medidas de protección, para los efectos de este Código, las siguientes:
+
+I. Vigilancia en el domicilio de la víctima u ofendido;
+
+II. Protección policial de la víctima u ofendido;
+
+III. Auxilio inmediato por integrantes de instituciones policiales, al domicilio donde se localice o se encuentre la víctima u ofendido en el momento de solicitarlo;
+
+IV. Auxilio de la fuerza pública para asegurar la inmediata entrega o devolución de objetos personales o documentos de identificación de la víctima u ofendido, así como de sus ascendientes, descendientes o dependientes económicos;
+
+V. Realización del inventario de los bienes muebles e inmuebles de propiedad común, propiedad de la víctima o respecto de los cuales sea titular de derechos, incluyendo los implementos de trabajo de la víctima u ofendido;
+
+VI. Traslado de la víctima u ofendido y de sus descendientes a refugio, albergue o domicilio temporal;
+
+VII. Reingreso de la víctima u ofendido a su domicilio, una vez que se salvaguarde su seguridad;
+
+VIII. Registro o inscripción en programas estatales de desarrollo personal, social, educativo y laboral;
+
+IX. La prohibición de realizar conductas de intimidación o molestia a la víctima u ofendido o personas relacionadas con ellos;
+
+X. Suspensión temporal al agresor del régimen de visitas y convivencia con sus descendientes;
+
+XI. Posesión exclusiva de la víctima sobre el inmueble que sirvió de domicilio;
+
+XII. Embargo preventivo de bienes del agresor, que deberá inscribirse con carácter temporal en el Registro Público de la Propiedad, a efecto de garantizar las obligaciones alimentarias;
+
+XIII. Obligación alimentaria provisional e inmediata; y
+
+XIV. Las demás que determinen las disposiciones legales.
+
+> <small>(ADICIONADO, G.O. 29 DE AGOSTO DE 2011)</small>
+
+Artículo 132 E. Para la imposición de medidas u órdenes de protección, el Ministerio Público o el juez deberán considerar:
+
+I. La seguridad e integridad de la víctima u ofendido y de sus descendientes;
+
+II. El riesgo existente para la víctima u ofendido u otras personas relacionadas con los hechos; y
+
+III. Los elementos con que se cuente y demás datos relevantes para el cumplimiento de los fines a que se refiere el artículo 132 de este Código.
+
+> <small>(ADICIONADO, G.O. 29 DE AGOSTO DE 2011)</small>
+
+Artículo 132 F. El Ministerio Público y el juez informarán a la víctima u ofendido sobre las medidas u órdenes de protección pertinentes, así como las condiciones y limitantes para su aplicación y las circunstancias en que podrán ser revocadas.
+
+> <small>(ADICIONADO, G.O. 29 DE AGOSTO DE 2011)</small>
+
+Artículo 132 G. Las instituciones policiales y todas las dependencias, entidades y organismos auxiliares de la administración pública del Estado de Veracruz de Ignacio de la Llave y de los municipios están obligados a cumplir las órdenes que emitan el Ministerio Público o el juez para la debida ejecución de las medidas precautorias y medidas de protección que se dicten en los términos de la ley, así como a prestar el auxilio y colaboración que les sea requerido para ello.
+
+El incumplimiento de las órdenes que dicten el Ministerio Público o el juez será sancionado en términos de las disposiciones aplicables, sin perjuicio de la responsabilidad penal a que haya lugar.
+
+> <small>(ADICIONADO, G.O. 29 DE AGOSTO DE 2011)</small>
+
+Artículo 132 H. A la persona agresora que desacate una orden o medida de protección dictada por el Ministerio Público o el juez, éste le aplicará los siguientes medios de apremio:
+
+I. Arresto hasta por 36 horas; o
+
+II. Retención y guarda de armas de fuego o punzo cortantes o punzo contundentes que, independientemente de su uso, hayan sido empleadas para ejercer intimidación o violencia contra la víctima u ofendido.
+
+> <small>(ADICIONADO, G.O. 29 DE AGOSTO DE 2011)</small>
+
+Artículo 132 I. En la investigación ministerial corresponderá al Ministerio Público:
+
+I. Proveer regularmente de información a las víctimas sobre los avances en la investigación y darles pleno acceso a los expedientes;
+
+II. Evitar incorporar en la investigación elementos de discriminación que puedan dar como resultado una descalificación de la credibilidad de la víctima y una asunción tácita de responsabilidad de ella por los hechos, ya sea por su forma de vestir, por su ocupación laboral, conducta sexual, relación o parentesco con el agresor;
+
+III. Canalizar a las víctimas del delito al centro de atención correspondiente; y
+
+IV. Las demás que señale la ley.
+
+> <small>(ADICIONADO, G.O. 29 DE AGOSTO DE 2011)</small>
+
+Artículo 132 J. Si se tratare de homicidio o feminicidio, además de otras diligencias que sean procedentes, dos peritos médicos realizarán la necrocirugía. Sólo podrá dejar de hacerse la necrocirugía cuando el juez lo acuerde, previo dictamen de los peritos médicos.
+
+En la realización de necrocirugías debe dejarse constancia de cuando menos:
+
+I. Lugar, fecha, hora de inicio y finalización, y el nombre del servidor público que la ejecuta;
+
+II. La hora, fecha, causa y forma de la muerte;
+
+III. Registro fotográfico del cadáver, la bolsa o envoltorio en que se encuentre, así como de la ropa que vestía;
+
+IV. Registro de todas las lesiones, así como de la ausencia, soltura o daño en los dientes;
+
+V. Resultados del examen de las áreas genital y para-genital para determinar si existen señales de violencia sexual, para lo cual deberá tomar muestras de fluidos corporales, así como de las uñas y de cualquier elemento que permita identificar al sujeto activo; y
+
+VI. Registrar la temperatura del ambiente y recoger cualquier indicio biológico, para su análisis.
+
+> <small>(ADICIONADO, G.O. 29 DE AGOSTO DE 2011)</small>
+
+Artículo 132 K. Los cadáveres deberán ser identificados por los familiares, personas que les conocieran o que les hubieran visto recientemente. Si esto no fuere posible, en caso de que el estado del cuerpo permita su identificación visualmente, se harán fotografías, agregando a la investigación ministerial un ejemplar y poniéndola en lugares públicos, exhortando a la población a identificarlo.
+
+Cuando no es posible su identificación visualmente, los procedimientos adecuados técnico forenses para la identificación de los cuerpos serán antropométrico, dactilar, geométrico de Matheios, biométricos, antropología forense, odontología forense, identificación genética.
+
+En todo momento, se deberán tomar las medidas necesarias para evitar la contaminación y garantizar la apropiada custodia de las muestras biológicas.
+
+La entrega de restos sólo podrá realizarse una vez que se haya conseguido una identificación positiva.
+
+> <small>(ADICIONADO, G.O. 29 DE AGOSTO DE 2011)</small>
+
+Artículo 132 L. Cuando no sea posible la identificación de los cadáveres, el Ministerio Público investigador deberá determinar y supervisar que los restos humanos sean preservados adecuadamente por el lapso de un año, manteniendo la cadena de custodia respectiva.
+
+Transcurrido este tiempo, se procederá a inhumarlos. El Ministerio Público investigador deberá asegurarse que el lugar donde sean inhumados los cuerpos permita su exhumación.
+
+De manera previa a la inhumación, deberán realizarse moldes dentales y tomarse las muestras necesarias para realizar análisis de ADN. Esta información deberá ser preservada, con el fin de que pueda ser recuperada y reanalizada posteriormente. La información genética obtenida deberá incorporarse a una base de información genética.
 
 ###### Artículo 133.
 
@@ -1080,6 +1236,10 @@ IV. Presentar las pruebas que acrediten el cuerpo del delito y la probable respo
 V. Pedir la aplicación de las sanciones respectivas; y
 
 VI. En general, realizar todas las promociones que sean conducentes a la tramitación regular del proceso.
+
+> <small>(ADICIONADO, G.O. 29 DE AGOSTO DE 2011)</small>
+
+Tratándose de delitos vinculados a la violencia de género, el Ministerio Público ordenará de inmediato, de oficio, el aseguramiento de bienes suficientes para garantizar la reparación del daño. En este caso, la autoridad competente podrá designar como depositario de los bienes asegurados a la víctima u ofendido o a quien ejerza la patria potestad o la custodia de los menores.
 
 ###### Artículo 155.
 
@@ -3176,6 +3336,12 @@ Segundo. A partir de la entrada en vigor del presente Decreto, se derogan todas 
 Tercero. El Consejo de la Judicatura del Poder Judicial del Estado deberá adecuar, en un plazo no mayor a treinta días del inicio de la vigencia de este Decreto, el Reglamento de Juicios Orales Sumarios.
 
 G.O. 7 DE DICIEMBRE DE 2010.
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 29 DE AGOSTO DE 2011.
 
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
 
