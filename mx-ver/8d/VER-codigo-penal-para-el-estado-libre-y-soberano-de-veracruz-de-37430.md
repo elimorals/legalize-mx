@@ -4,7 +4,7 @@ identifier: "VER-codigo-penal-para-el-estado-libre-y-soberano-de-veracruz-de-374
 country: "mx"
 rank: "codigo"
 publication_date: "2003-11-07"
-last_updated: "2010-11-05"
+last_updated: "2011-08-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=37430&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 CODIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 5 DE NOVIEMBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 29 DE AGOSTO DE 2011.
 
 Código publicado en la Gaceta Oficial del Estado de Veracruz de Ignacio de la Llave, el viernes 7 de noviembre de 2003.
 
@@ -479,11 +479,27 @@ La reparación del daño comprende:
 
 I. La restitución en los derechos de guarda y custodia del menor o incapaz, tratándose del delito de sustracción o retención de menores o incapaces; y en general la restitución de la cosa obtenida por el delito, sus frutos, accesiones existentes y, en su caso, el pago de los deterioros o menoscabos ocasionados. Si se trata de bienes fungibles, el juez podrá condenar a la entrega de un objeto similar al que fuese materia de delito, sin necesidad de recurrir a prueba pericial. Si la restitución fuere imposible, se pagará en numerario el precio de todo lo dañado;
 
-II. La indemnización del daño material y moral causado, incluyendo el pago de los tratamientos que sean necesarios para la recuperación de la salud física y mental de la víctima. En los casos de delitos contra la libertad y seguridad sexual y de violencia familiar, además, el pago de los alimentos a la mujer y al hijo;
+> <small>(REFORMADA, G.O. 29 DE AGOSTO DE 2011)</small>
 
-III. El pago de gastos e intereses legales; y
+II. La indemnización del daño material y moral causado, incluyendo el pago de los tratamientos que sean necesarios para la recuperación de la salud física y mental de la víctima.
+
+III. El pago de gastos e intereses legales; y (sic)
 
 IV. Tratándose de delitos que afecten la vida y la integridad corporal, el monto de la reparación del daño no podrá ser menor del que resulte aplicándose las disposiciones relativas de la Ley Federal del Trabajo.
+
+> <small>(ADICIONADA, G.O. 29 DE AGOSTO DE 2011)</small>
+
+V. En los casos de delitos contra la libertad y seguridad sexual, violencia familiar, violencia de género y lesiones que sean con violencia de género, así como el de feminicidio, la reparación incluirá:
+
+a) Las hipótesis contenidas en las fracciones anteriores;
+
+b) El restablecimiento de su dignidad, mediante disculpa pública, a través de los mecanismos que señale la autoridad judicial;
+
+c) La reparación por la afectación en su entorno laboral, educativo, comunitario, y psicológico, a fin de lograr su restablecimiento; ante la imposibilidad de éste, la indemnización correspondiente, en los términos de la fracción VIII del artículo 11 del Código de Procedimientos Penales para el Estado de Veracruz de Ignacio de la Llave.
+
+La indemnización a que se refiere el párrafo anterior se cuantificará con base en diversos factores como la pérdida del empleo, la inasistencia a las jornadas laborales, la necesidad de cambio de plantel educativo o inasistencia a éste, el cambio de domicilio, la pérdida de instrumentos de trabajo y demás datos relevantes que permitan realizar la cuantificación correspondiente; y
+
+d) El pago de los gastos indispensables para su subsistencia y, si los hubiere, de los hijos e hijas menores de edad o discapacitados, cuando como consecuencia del delito sufrido se haya visto imposibilitada para desarrollarse en el ámbito laboral; lo anterior, por el tiempo que determine la autoridad judicial, atendiendo a su grado de estudios, edad y estado de salud.
 
 ###### Artículo 57.
 
@@ -781,6 +797,10 @@ La sustitución procederá cuando el sentenciado sea delincuente primario y cubr
 
 Este beneficio se tramitará en los términos que establezca el Código de Procedimientos Penales.
 
+> <small>(ADICIONADO, G.O. 29 DE AGOSTO DE 2011)</small>
+
+No procederá la sustitución en los delitos de violencia de género.
+
 ### CAPÍTULO VIII. LIBERTAD CONDICIONAL
 
 ###### Artículo 94.
@@ -880,6 +900,14 @@ I. Que el delito sea de los que se persiguen por querella;
 II. Que lo otorgue expresamente el ofendido o su representante legal, con facultades para el caso; y
 
 III. Que el imputado no se oponga al otorgamiento.
+
+> <small>(ADICIONADO, G.O. 29 DE AGOSTO DE 2011)</small>
+
+Tratándose de delitos contra la libertad y seguridad sexuales y lesiones que admitan el perdón, éste estará condicionado a la reparación del daño.
+
+> <small>(ADICIONADO, G.O. 29 DE AGOSTO DE 2011)</small>
+
+Al sujeto activo de los delitos mencionados en el párrafo anterior se le aplicarán medidas reeducativas, integrales, especializadas y gratuitas, conforme a los programas establecidos por el Sistema Estatal para Prevenir, Atender, Sancionar y Erradicar la Violencia contra las Mujeres.
 
 ###### Artículo 105.
 
@@ -1080,6 +1108,14 @@ Cuando las lesiones consideradas en las fracciones I, II y III de este artículo
 > <small>(REFORMADO, G.O. 18 DE OCTUBRE DE 2010)</small>
 
 Las lesiones comprendidas en las fracciones I y II se perseguirán por querella, salvo que la víctima sea incapaz, en cuyo caso se perseguirán de oficio.
+
+> <small>(ADICIONADO, G.O. 29 DE AGOSTO DE 2011)</small>
+
+Las penas previstas en las fracciones anteriores se incrementarán hasta en una mitad, sin perjuicio de las agravantes o calificativas que les sean aplicables, en los siguientes casos:
+
+a) Cuando las lesiones se cometan por un hombre en agravio de una mujer con quien tenga o haya tenido relación de parentesco por consanguinidad o afinidad, de matrimonio, concubinato o mantengan o hayan mantenido una relación de hecho, o incapaz sobre el que sea tutor o curador, o que esté sujeta a su custodia, guarda, protección, educación, instrucción o cuidado, o haya tenido una relación de amistad o confianza, o haya estado vinculada con el sujeto activo por una relación de hecho en su centro de trabajo o institución educativa, o por razones de carácter técnico o profesional; o
+
+b) Cuando la víctima presente signos de violencia sexual de cualquier tipo, independientemente de que se cometa o no un delito contra la libertad o seguridad sexuales.
 
 ###### Artículo 138.
 
@@ -2929,6 +2965,8 @@ Se impondrán las mismas sanciones que señala el artículo anterior al servidor
 
 ### CAPÍTULO IV. EVASIÓN DE PRESOS
 
+> <small>(REFORMADO, G.O. 29 DE AGOSTO DE 2011)</small>
+
 ###### Artículo 317.
 
 Se impondrán de dos a ocho años de prisión y multa hasta de doscientos días de salario al servidor público que ilegalmente ordene o ejecute un acto o inicie un procedimiento, en beneficio propio o ajeno o en perjuicio de alguien.
@@ -2958,6 +2996,10 @@ VI. Realice inversiones, enajenaciones, adquisiciones o cualquier otro acto que 
 ###### Artículo 319.
 
 Se impondrán de uno a ocho años de prisión y multa hasta de doscientos días de salario al servidor público que deje de cumplir con los deberes inherentes a su empleo, cargo o comisión en perjuicio de los derechos de un tercero o en beneficio propio o ajeno.
+
+> <small>(ADICIONADO, G.O. 29 DE AGOSTO DE 2011)</small>
+
+Se impondrán de cinco a ocho años de prisión e inhabilitación para el ejercicio de empleos, cargos o comisiones en el servicio público a la autoridad que, teniendo la obligación de evitar o investigar la comisión del delito de feminicidio o de cualquier otro de los señalados en el Título XXI Delitos de Violencia de Género de este Código, mediando el dolo o discriminación de género, no lo hiciere o incurriere en acciones u omisiones que tengan como consecuencia la perpetuación de las condiciones que faciliten la comisión del delito.
 
 ###### Artículo 320.
 
@@ -3053,6 +3095,10 @@ Además de las sanciones establecidas en este artículo, se decomisarán en bene
 
 Se impondrán de seis meses a un año de prisión y multa hasta de veinte días de salario a quien rehúse prestar un servicio de interés público a que la ley lo obligue o desobedezca un mandato legítimo de autoridad.
 
+> <small>(ADICIONADO, G.O. 29 DE AGOSTO DE 2011)</small>
+
+También comete este delito, quien desobedezca una medida precautoria, o medida u orden de protección dictada por el Ministerio Público o por una autoridad judicial.
+
 Cuando la ley autorice el empleo de medios de apremio, el delito sólo se consumará después de haberse agotado aquéllos.
 
 Se aplicarán de seis meses a dos años de prisión y multa hasta de cuarenta días de salario a quien impida que la autoridad ejerza sus funciones o resista el cumplimiento de una orden cuya ejecución se lleve a cabo en forma legal. De emplearse violencia física o moral, la sanción se agravará hasta en un año.
@@ -3109,17 +3155,15 @@ A quien se retracte espontáneamente de sus falsas declaraciones rendidas ante l
 
 Si la declaración falsa hubiere sido elemento de convicción para la imposición de sanción privativa de libertad, existiendo posterior reconocimiento de inocencia del inculpado, al falso declarante se le impondrán de tres a diez años de prisión y multa hasta de cien días de salario.
 
-### CAPÍTULO VIII. DISPOSICIONES COMUNES PARA LOS DELITOS DE VIOLENCIA DE GÉNERO
+### CAPÍTULO VII BIS. FEMINICIDIO
 
-> <small>(ADICIONADO, G.O. 2 DE ABRIL DE 2010)</small>
+> <small>(ADICIONADO, G.O. 29 DE AGOSTO DE 2011)</small>
 
 ###### Artículo 337.
 
 A quien simule actos jurídicos o altere elementos de prueba para obtener una resolución judicial o administrativa, de la que derive el perjuicio de alguien o un beneficio indebido, se le impondrán de seis meses a cinco años de prisión y multa hasta de cuarenta días de salario.
 
-### CAPÍTULO I. ESPIONAJE CONTRA LAS INSTITUCIONES DE SEGURIDAD PUBLICA
-
-> <small>(ADICIONADO, G.O. 27 DE AGOSTO DE 2010)</small>
+### CAPÍTULO VIII. DISPOSICIONES COMUNES PARA LOS DELITOS DE VIOLENCIA DE GÉNERO
 
 ###### Artículo 338.
 
@@ -3127,15 +3171,15 @@ A quien ante la autoridad impute falsamente a una persona un hecho calificado co
 
 No se procederá contra el probable responsable sino una vez pronunciada sentencia absolutoria o acto de sobreseimiento que causen ejecutoria o hubiere reconocimiento de inocencia del inculpado.
 
-### CAPÍTULO II. MOVILIZACION DE SERVICIOS DE EMERGENCIA
+### CAPÍTULO I. ESPIONAJE CONTRA LAS INSTITUCIONES DE SEGURIDAD PUBLICA
 
-> <small>(ADICIONADO, G.O. 8 DE SEPTIEMBRE DE 2010)</small>
+> <small>(ADICIONADO, G.O. 27 DE AGOSTO DE 2010)</small>
 
 ###### Artículo 339.
 
-A quien ponga en libertad o favorezca la evasión de una persona que se encuentre legalmente privada de su libertad se le impondrán de seis meses a cinco años de prisión y multa hasta de cuarenta días de salario.
+A quien ponga en libertad o favorezca la evasión de una persona que se encuentre legalmente privada de su libertad se le impondrán de cuatro a diez años de prisión y multa hasta de trescientos días de salario.
 
-Cuando el evadido se encuentre procesado o esté sentenciado por delito grave se impondrán de dos a diez años de prisión y multa hasta de ciento cincuenta días de salario.
+Cuando el evadido se encuentre procesado o esté sentenciado por delito grave se impondrán de cinco a quince años de prisión y multa hasta de cuatrocientos días de salario.
 
 ###### Artículo 340.
 
@@ -3152,6 +3196,10 @@ A los servidores públicos que ilegalmente permitan la salida temporal de las pe
 ###### Artículo 343.
 
 Si la reaprehensión del evadido se lograre por informes proporcionados por el responsable de la evasión, las sanciones se reducirán hasta en dos terceras partes de las previstas.
+
+### CAPÍTULO II. MOVILIZACION DE SERVICIOS DE EMERGENCIA
+
+> <small>(ADICIONADO, G.O. 8 DE SEPTIEMBRE DE 2010)</small>
 
 ###### Artículo 344.
 
@@ -3395,11 +3443,33 @@ II. Dañe la autoestima de las alumnas o su integridad física o psicológica; y
 
 III. Utilice lenguajes, imágenes, materiales educativos de todo tipo o prácticas discriminatorias en cualquiera de las etapas del proceso educativo.
 
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, G.O. 29 DE AGOSTO DE 2011)</small>
+
+###### Artículo 367 Bis.
+
+Comete el delito de feminicidio quien por razones de género priva de la vida a una mujer. Existen razones de género cuando se presenta alguna de las siguientes circunstancias:
+
+I. Exista o haya existido entre el activo y la víctima una relación de parentesco por consanguinidad o afinidad, de matrimonio, concubinato, noviazgo o cualquier otra relación de hecho o amistad;
+
+II. Exista o haya existido entre el activo y la víctima una relación laboral, escolar, o cualquier otra que implique confianza, subordinación o superioridad;
+
+III. La víctima presente signos de violencia sexual de cualquier tipo;
+
+IV. A la víctima se le hayan infligido lesiones infamantes, degradantes o mutilaciones previamente a la privación de la vida, o se realicen marcas infamantes o degradantes sobre el cadáver, o éste sea mutilado;
+
+V. Hayan existido amenazas, acoso o lesiones del sujeto activo en contra de la víctima;
+
+VI. El cuerpo de la víctima sea expuesto o arrojado en un lugar público; o
+
+VII. La víctima haya sido incomunicada.
+
+A quien cometa el delito de feminicidio se le impondrá una sanción de cuarenta a setenta años de prisión.
+
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.O. 2 DE ABRIL DE 2010)</small>
 
 ###### Artículo 368.
 
-Los delitos previstos en el presente Título se perseguirán por querella.
+(DEROGADO, G.O. 29 DE AGOSTO DE 2011)
 
 > <small>(ADICIONADO, G.O. 2 DE ABRIL DE 2010)</small>
 
@@ -3720,3 +3790,19 @@ G.O. 5 DE NOVIEMBRE DE 2010.
 Primero. La presente Ley entrará en vigor a partir del día siguiente a su publicación en la Gaceta Oficial del estado.
 
 Segundo. Se derogan los artículos 243 Bis, 250 y 293 del Código Penal para el Estado Libre y Soberano de Veracruz de Ignacio de la Llave, así como todas las disposiciones que se opongan a la presente Ley.
+
+G.O. 29 DE AGOSTO DE 2011.
+
+DECRETO NUMERO 291 POR EL QUE SE REFORMA EL ARTICULO 339 DEL CODIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE VERACRUZ DE IGNACIO DE LA LLAVE.
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 29 DE AGOSTO DE 2011.
+
+DECRETO NÚMERO 292 POR EL QUE SE REFORMAN LOS ARTICULOS 56, FRACCIONES II, III(SIC) Y IV (SIC), Y 329, PARRAFOS SEGUNDO Y TERCERO; SE ADICIONAN UNA FRACCION V AL ARTICULO 56, UN PARRAFO TERCERO AL ARTICULO 93, LOS PARRAFOS SEGUNDO Y TERCERO AL ARTICULO 104, UN PARRAFO CUARTO AL ARTICULO 137, UN PARRAFO SEGUNDO AL ARTICULO 319, UN PARRAFO QUE SERA EL SEGUNDO AL ARTICULO 329, CON EL CORRIMIENTO DE LOS ACTUALES SEGUNDO Y TERCERO, UN CAPITULO VII BIS, QUE SE DENOMINARA FEMINICIDIO, AL TITULO XXI DELITOS DE VIOLENCIA DE GENERO Y UN ARTICULO 367 BIS; Y SE DEROGA EL ARTICULO 368 DEL CODIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE VERACRUZ DE IGNACIO DE LA LLAVE.
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
