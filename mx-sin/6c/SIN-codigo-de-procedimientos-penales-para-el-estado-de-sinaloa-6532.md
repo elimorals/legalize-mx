@@ -4,7 +4,7 @@ identifier: "SIN-codigo-de-procedimientos-penales-para-el-estado-de-sinaloa-6532
 country: "mx"
 rank: "codigo"
 publication_date: "1986-09-26"
-last_updated: "2011-05-27"
+last_updated: "2011-08-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6532&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "SIN"
 ---
 # CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE SINALOA
 
-CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE SINALOA
+CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE MAYO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE AGOSTO DE 2011.
 
 Código publicado en la Tercera Sección del Periódico Oficial del Estado de Sinaloa, el viernes 26 de septiembre de 1986.
 
@@ -57,9 +57,11 @@ V.- De la ejecución, que comprende el lapso entre el momento que cause ejecutor
 
 Es facultad exclusiva del Ministerio Público, la persecución de los delitos y el ejercicio de la acción penal ante los tribunales.
 
-> <small>(ADICIONADO, P.O. 27 DE MAYO DE 2011)</small>
+> <small>N. DE E. EN RELACIÓN CON LA MATERIA DE NARCOMENUDEO PUBLICADO EN EL DECRETO NÚMERO 322 DEL P.O. 29 DE AGOSTO DE 2011, CONSÚLTESE EL TRANSITORIO SEGUNDO.</small>
 
-El Ministerio Público, en todos los casos, en materia de delitos de secuestro, procederá de oficio.
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2011)</small>
+
+La facultad prevista en el párrafo anterior comprende el supuesto de que se realicen conductas típicas contempladas en leyes Federales de la República y que por disposición de las mismas compete conocer y resolver a las autoridades del Estado, y será esta la que se aplique.
 
 ###### ARTICULO 3.
 
@@ -83,15 +85,41 @@ V.- Proceder, sin esperar orden judicial, a la detención de los responsables en
 
 Asimismo, después de ejecutado un delito, hará que tanto el ofendido, en su caso, como el probable responsable, sean examinados inmediatamente por los médicos legistas, para que éstos dictaminen con carácter provisional, acerca de su estado psicofisiológico.
 
+> <small>N. DE E. EN RELACIÓN CON LA MATERIA DE NARCOMENUDEO PUBLICADO EN EL DECRETO NÚMERO 322 DEL P.O. 29 DE AGOSTO DE 2011, CONSÚLTESE EL TRANSITORIO SEGUNDO.</small>
+
+> <small>(ADICIONADO, P.O. 29 DE AGOSTO DE 2011)</small>
+
+Asimismo, compete al Ministerio Público llevar a cabo la preparación y el ejercicio de la acción penal ante los tribunales del fuero común, en los delitos contra la salud en su modalidad de narcomenudeo, de conformidad con lo dispuesto por el artículo 474 de la Ley General de Salud.
+
 ###### ARTICULO 4.
 
 El Ministerio Público no ejercitará la acción penal:
 
-I.- Cuando los hechos de que conozca no sean constitutivos de delito; y
+> <small>N. DE E. EN RELACIÓN CON LA MATERIA DE NARCOMENUDEO PUBLICADO EN EL DECRETO NÚMERO 322 DEL P.O. 29 DE AGOSTO DE 2011, CONSÚLTESE EL TRANSITORIO SEGUNDO.</small>
 
-> <small>(REFORMADA, P.O. 10 DE AGOSTO DE 1994)</small>
+> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2011)</small>
 
-II.- Cuando opere alguna de las causas excluyentes del delito a que se refiere el Capítulo VI del Título Segundo, Libro Primero del Código Penal.
+I. Cuando los hechos de que conozca no sean constitutivos de delito;
+
+> <small>N. DE E. EN RELACIÓN CON LA MATERIA DE NARCOMENUDEO PUBLICADO EN EL DECRETO NÚMERO 322 DEL P.O. 29 DE AGOSTO DE 2011, CONSÚLTESE EL TRANSITORIO SEGUNDO.</small>
+
+> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2011)</small>
+
+II. Cuando opere alguna de las causas excluyentes del delito a que se refiere el Capítulo VI del Título Segundo, Libro Primero del Código Penal para el Estado de Sinaloa;
+
+> <small>N. DE E. EN RELACIÓN CON LA MATERIA DE NARCOMENUDEO PUBLICADO EN EL DECRETO NÚMERO 322 DEL P.O. 29 DE AGOSTO DE 2011, CONSÚLTESE EL TRANSITORIO SEGUNDO.</small>
+
+> <small>(ADICIONADA, P.O. 29 DE AGOSTO DE 2011)</small>
+
+III. Cuando el farmacodependiente consumidor posea alguno de los narcóticos señalados en la tabla contenida en el artículo 479 de la Ley General de Salud en igual o inferior cantidad a la prevista en la misma, para su estricto consumo personal y fuera de los lugares señalados en la fracción II del artículo 475 de la citada Ley.
+
+En este supuesto, el Ministerio Público tendrá la obligación de informar al consumidor la ubicación de las instituciones o centros para el tratamiento médico o de orientación para la prevención de la farmacodependencia. El Ministerio Público reportará el no ejercicio de la acción penal a la autoridad sanitaria, con el propósito de que ésta promueva la correspondiente orientación médica o de prevención; y
+
+> <small>N. DE E. EN RELACIÓN CON LA MATERIA DE NARCOMENUDEO PUBLICADO EN EL DECRETO NÚMERO 322 DEL P.O. 29 DE AGOSTO DE 2011, CONSÚLTESE EL TRANSITORIO SEGUNDO.</small>
+
+> <small>(ADICIONADA, P.O. 29 DE AGOSTO DE 2011)</small>
+
+IV. En los demás casos que señalen las leyes.
 
 > <small>(REFORMADO, P.O. 9 DE JULIO DE 1999)</small>
 
@@ -105,7 +133,7 @@ A los Tribunales Penales corresponde la aplicación de las penas cuando en sus s
 
 El procedimiento ante el Juez de Primera Instancia con competencia en materia penal comprenderá los períodos señalados en las fracciones II, III y IV del artículo 1 de este Código.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE ENERO DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE ENERO DE 2004)</small>
 
 ###### ARTICULO 7.
 
@@ -128,6 +156,12 @@ V.- La interposición de los recursos que señale la Ley; y
 VI.- Lo que corresponda en los incidentes que se tramiten.
 
 En la Segunda Instancia, el Ministerio Público sostendrá o no el recurso interpuesto ante el Juez, en el primer caso expresará sus agravios e intervendrá en todas las actuaciones e incidentes que corresponda, pudiendo promover pruebas en los casos previstos por la Ley.
+
+> <small>N. DE E. EN RELACIÓN CON LA MATERIA DE NARCOMENUDEO PUBLICADO EN EL DECRETO NÚMERO 322 DEL P.O. 29 DE AGOSTO DE 2011, CONSÚLTESE EL TRANSITORIO SEGUNDO.</small>
+
+> <small>(ADICIONADO, P.O. 29 DE AGOSTO DE 2011)</small>
+
+Lo precedente comprende el supuesto de que se realicen conductas típicas contempladas en leyes Federales de la República y que por disposición de las mismas compete conocer y resolver a las autoridades del Estado.
 
 ###### ARTICULO 8.
 
@@ -239,6 +273,16 @@ Igualmente el Ejecutivo del Estado, hará que se cumplan las medidas de segurida
 
 En materia penal no cabe prórroga ni renuncia de competencia.
 
+> <small>N. DE E. EN RELACIÓN CON LA MATERIA DE NARCOMENUDEO PUBLICADO EN EL DECRETO NÚMERO 322 DEL P.O. 29 DE AGOSTO DE 2011, CONSÚLTESE EL TRANSITORIO SEGUNDO.</small>
+
+> <small>(ADICIONADO, P.O. 29 DE AGOSTO DE 2011)</small>
+
+ARTICULO 11 BIS. Los jueces del Estado de Sinaloa son competentes para conocer y resolver de los delitos del fuero común y los establecidos en la legislación federal en los casos que ésta prevea la competencia para las entidades federativas que se cometan dentro del territorio del Estado.
+
+En los casos de delitos federales o contenidos en leyes especiales que por competencia concurrente sean del conocimiento de las autoridades del fuero común, se estará al procedimiento previsto en este Código, salvo las excepciones previstas en dichos ordenamientos.
+
+Los procedimientos penales por delitos contra la salud en su modalidad de narcomenudeo, se regirán por las disposiciones de este ordenamiento y demás legislación legal aplicable. Respecto de los mismos delitos, se observarán las disposiciones del Código Federal de Procedimientos Penales únicamente por lo que respecta al destino y la destrucción de narcóticos, así como la clasificación de los delitos como graves para fines del otorgamiento de la libertad provisional bajo caución.
+
 ###### ARTICULO 12.
 
 Es juez competente para juzgar de los hechos delictuosos y para aplicar la sanción procedente: el del lugar donde se hubiera cometido el delito, salvo lo establecido en este Código, en el Código Penal y en la Ley Orgánica del Poder Judicial.
@@ -283,7 +327,7 @@ Todas las actuaciones serán en idioma castellano. Los documentos que se present
 
 En las actuaciones se expresará el día, mes y año en que se practiquen, escribiéndose con número y letra las fechas y cantidades. La hora de su práctica se expresará cuando tenga relevancia respecto a la diligencia correspondiente.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE JUNIO DE 1991)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE JUNIO DE 1991)</small>
 
 ###### ARTICULO 19.
 
@@ -859,7 +903,7 @@ La falta de cumplimiento de esta disposición será sancionada por el Tribunal c
 
 REGLAS COMUNES
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE ABRIL DE 2000)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE ABRIL DE 2000)</small>
 
 ###### ARTICULO 112.
 
@@ -923,7 +967,11 @@ La violación de esta disposición, hará penalmente responsable al Ministerio P
 
 En casos urgentes, el Ministerio Público podrá bajo su responsabilidad, ordenar por escrito la detención de una persona, fundando y expresando los indicios que acrediten:
 
-A).- Que el indiciado haya intervenido en la comisión de alguno de los delitos señalados como graves en este artículo;
+> <small>N. DE E. EN RELACIÓN CON LA MATERIA DE NARCOMENUDEO PUBLICADO EN EL DECRETO NÚMERO 322 DEL P.O. 29 DE AGOSTO DE 2011, CONSÚLTESE EL TRANSITORIO SEGUNDO.</small>
+
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2011)</small>
+
+A). Que el indiciado haya intervenido en la comisión de alguno de los delitos señalados como graves en este artículo o en otra Ley que deban aplicar los tribunales del Estado;
 
 B).- Que exista riesgo fundado de que el indiciado pueda sustraerse a la acción de la justicia; y
 
@@ -936,6 +984,12 @@ La violación de esta disposición, hará penalmente responsable al Ministerio P
 Se califican como delitos graves para todos los efectos legales, los previstos en los siguientes artículos del Código Penal para el Estado de Sinaloa: homicidio previsto en el artículo 134; lesiones dolosas previsto en el artículo 136 fracciones VIII y IX; homicidio calificado previsto en los artículos 139 y 139 Bis; homicidio por culpa grave previsto en el artículo 144, párrafo primero; homicidio agravado por razón de parentesco o relación familiar previsto en los artículos 152 y 153; secuestro previsto en los artículos 167, 167 Bis, 168, 168 Bis, 168 Bis A, 168 Bis B, 168 Bis C, 168 Bis D, y 168 Bis E; rapto con violencia previsto en el artículo 169; rapto previsto en el artículo 170; asalto previsto en los artículos 174 y 175; violación previsto en los artículos 179, 180 y 181; robo previsto en el artículo 204 fracciones I y II; robo con violencia contra las personas o en lugar habitado o destinado para habitación o sus dependencias previstos en las fracciones I, II y III del artículo 205; robo de vehículo automotor previsto en los artículos 207 y 207 Bis, fracciones I, II, III, IV y V; robo bancario previsto en el artículo 210; abigeato previsto en los artículos 220 y 224; extorsión previsto en el artículo 231; sustracción de menores o incapaces previsto en el primer párrafo del artículo 242; tráfico de menores previsto en el primer párrafo del artículo 243; asociación delictuosa previsto en el segundo párrafo del artículo 253; ataques a los medios de transporte previsto en el articulo 262; corrupción de menores e incapaces previsto en el artículo 273; pornografía infantil y prostitución de menores, previsto en los artículos 274 Bis, 274 Bis A, 274 Bis B, 274 Bis C; rebelión previsto en el artículo 286; terrorismo previsto en el artículo 291; sabotaje previsto en el artículo 292; tortura previsto en el artículo 328; evasión de presos previsto en el artículo 336 en su comisión dolosa; y los delitos electorales previstos en los artículos 356 fracción VIII; 357 fracción III, 359 y 362.
 
 Igualmente para todos los efectos de ley, serán considerados como graves los delitos señalados con anterioridad cometidos dolosamente en grado de tentativa.
+
+> <small>N. DE E. EN RELACIÓN CON LA MATERIA DE NARCOMENUDEO PUBLICADO EN EL DECRETO NÚMERO 322 DEL P.O. 29 DE AGOSTO DE 2011, CONSÚLTESE EL TRANSITORIO SEGUNDO.</small>
+
+> <small>(ADICIONADO, P.O. 29 DE AGOSTO DE 2011)</small>
+
+Asimismo, serán considerados graves los delitos calificados como tales por leyes Federales o especiales.
 
 > <small>(REFORMADO, P.O. 10 DE AGOSTO DE 1994)</small>
 
@@ -1049,11 +1103,11 @@ VII.- Los peritos, médicos-legistas, los traductores y peritos en los ramos que
 
 Tanto el Ministerio Público como los Policías y demás auxiliares, se sujetarán a las disposiciones del presente Código, a los Reglamentos y Leyes Orgánicas respectivas, en lo que concierne a las diligencias que hayan de practicar antes de iniciarse el procedimiento judicial.
 
-> <small>(REFORMADO EN SU DENOMINACION, P.O. 10 DE AGOSTO DE 1994)</small>
+> <small>(REFORMADO EN SU DENOMINACIÓN, P.O. 10 DE AGOSTO DE 1994)</small>
 
 ### CAPITULO I. REGLAS ESPECIALES PARA LA PRACTICA DE DILIGENCIAS Y LEVANTAMIENTO DE ACTAS DE AVERIGUACION PREVIA
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE AGOSTO DE 1994)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE AGOSTO DE 1994)</small>
 
 ###### ARTICULO 128.
 
@@ -1067,11 +1121,35 @@ II.- Las pruebas que suministren las personas que rindan el parte o hagan la den
 
 III.- Las medidas y providencias necesarias para proporcionar seguridad y auxilio a las víctimas; evitando que el delito se siga cometiendo, y en general, todas aquellas que contribuyan a complementar la investigación.
 
+> <small>N. DE E. EN RELACIÓN CON LA MATERIA DE NARCOMENUDEO PUBLICADO EN EL DECRETO NÚMERO 322 DEL P.O. 29 DE AGOSTO DE 2011, CONSÚLTESE EL TRANSITORIO SEGUNDO.</small>
+
+> <small>(ADICIONADO, P.O. 29 DE AGOSTO DE 2011)</small>
+
+Tratándose de los delitos de narcomenudeo previstos en los artículos 475, 476 y 477 de la Ley General de Salud, el Ministerio Público Federal para fines de investigación podrá autorizar al Ministerio Público del fuero común cuando lo estime pertinente, para que por conducto de la policía de procuración de justicia, bajo su conducción y mando, empleen las técnicas de investigación consistentes en comprar, adquirir o recibir la transmisión material de algún narcótico para lograr la detención del probable responsable del comercio o suministro de narcóticos o de la posesión de los mismos con dichos fines y el aseguramiento correspondiente.
+
+> <small>N. DE E. EN RELACIÓN CON LA MATERIA DE NARCOMENUDEO PUBLICADO EN EL DECRETO NÚMERO 322 DEL P.O. 29 DE AGOSTO DE 2011, CONSÚLTESE EL TRANSITORIO SEGUNDO.</small>
+
+> <small>(ADICIONADO, P.O. 29 DE AGOSTO DE 2011)</small>
+
+En la autorización a que se refiere el párrafo precedente, el Ministerio Público Federal, deberá señalar por escrito en la orden respectiva los lineamientos, términos, limitaciones, modalidades y condiciones a los que debe sujetarse el agente o agentes de la policía que deberán ejecutar la orden.
+
+> <small>N. DE E. EN RELACIÓN CON LA MATERIA DE NARCOMENUDEO PUBLICADO EN EL DECRETO NÚMERO 322 DEL P.O. 29 DE AGOSTO DE 2011, CONSÚLTESE EL TRANSITORIO SEGUNDO.</small>
+
+> <small>(ADICIONADO, P.O. 29 DE AGOSTO DE 2011)</small>
+
+En las actividades que desarrollen el o los policías que ejecuten la orden se considerará que actúan en cumplimiento de un deber, siempre que su actuación se apegue a los lineamientos, términos, modalidades, limitaciones y condiciones señalados en la orden que, por escrito, deberá emitir el Ministerio Público Federal, a que se refiere el párrafo anterior.
+
 > <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 1998)</small>
 
 ###### ARTICULO 128 Bis.
 
 Cuando con motivo de una averiguación previa el Ministerio Público estime necesario el arraigo del indiciado o la prohibición de abandonar una determinada circunscripción, tomando en cuenta las características del hecho imputado y las circunstancias personas de aquél, recurrirá al órgano jurisdiccional, fundando y motivando su petición, para que éste, oyendo al indiciado, resuelva el arraigo con vigilancia de la autoridad, que ejercerán el Ministerio Público y sus auxiliares o la prohibición de abandonar una determinada circunscripción territorial. El arraigo o, en su caso, la prohibición de abandonar una determinada circunscripción territorial se prolongará por el tiempo estrictamente indispensable para la debida integración de la averiguación de que se trate, no pudiendo exceder de treinta días, prorrogables por igual término a petición del Ministerio Público. El Juez resolverá, escuchando al Ministerio Público y al indiciado, sobre la subsistencia o levantamiento del arraigo o la prohibición de abandonar una determinada circunscripción territorial.
+
+> <small>N. DE E. EN RELACIÓN CON LA MATERIA DE NARCOMENUDEO PUBLICADO EN EL DECRETO NÚMERO 322 DEL P.O. 29 DE AGOSTO DE 2011, CONSÚLTESE EL TRANSITORIO SEGUNDO.</small>
+
+> <small>(ADICIONADO, P.O. 29 DE AGOSTO DE 2011)</small>
+
+ARTICULO 128 BIS A. Cuando se recojan o aseguren estupefacientes o psicotrópicos previstos en la tabla del artículo 479 de la Ley General de Salud, el Ministerio Público o el juez solicitarán la elaboración del dictamen pericial correspondiente a quien legalmente competa, sobre las características organolépticas o químicas de la sustancia asegurada. Cuando en el caso exista detenido, el dictamen aludido antes, se rendirá dentro del término de veinticuatro horas, contadas a partir de su solicitud, a fin de no vulnerar lo dispuesto en el artículo 16 de la Constitución Política de los Estados Unidos Mexicanos.
 
 ###### ARTICULO 129.
 
@@ -1131,7 +1209,7 @@ El Ministerio Público y la Policía Ministerial, asentarán en el acta que leva
 
 Se asentarán en el acta a que se refiere el artículo anterior, todas las observaciones que acerca del presunto responsable y la víctima hubieran recibido, ya sea en el momento de cometer el delito, de su detención o bien durante la práctica de las diligencias en que hubiera intervenido, incluyendo el grupo étnico indígena al que pertenece en su caso.
 
-> <small>(REFORMADO EN SU DENOMINACION, P.O. 9 DE JULIO DE 1999)</small>
+> <small>(REFORMADO EN SU DENOMINACIÓN, P.O. 9 DE JULIO DE 1999)</small>
 
 ### CAPITULO II. ACREDITACION DEL CUERPO DEL DELITO Y DE LA PROBABLE RESPONSABILIDAD DEL INDICIADO
 
@@ -1155,7 +1233,7 @@ Cuando el estado y circunstancias a que se refiere el Artículo anterior, no pud
 
 Si para la acreditación de la existencia del delito, de su corporeidad o de sus circunstancias, tuviere importancia el reconocimiento de un lugar, se ordenará se verifique haciendo constar en el acta la descripción del mismo y de todos los detalles que puedan tener significación para la apreciación de los hechos. Asimismo, se agregarán las fotografías correspondientes.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE ABRIL DE 2000)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE ABRIL DE 2000)</small>
 
 ###### ARTICULO 144.
 
@@ -1191,7 +1269,7 @@ Cuando el delito fuere de los que no dejan vestigios o indicios de su perpetraci
 
 Si de las primeras diligencias se desprende que la muerte no se deba a un delito, no se practicará la autopsia y el Ministerio Público entregará el cadáver.
 
-> <small>(DEROGADO SEGUNDO PARRAFO, P.O. 5 DE OCTUBRE DE 2007)</small>
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 5 DE OCTUBRE DE 2007)</small>
 
 > <small>(REFORMADO, P.O. 5 DE OCTUBRE DE 2007)</small>
 
@@ -1341,6 +1419,32 @@ Para la acreditación del cuerpo del delito y la probable responsabilidad y para
 
 En los delitos en materia de secuestro previstos en el Código Penal para el Estado de Sinaloa, el Poder Judicial ordenará de oficio el desahogo de las pruebas que se consideren necesarias, así como todas las medidas que sirvan para mejor proveer, de conformidad con las circunstancias que se aprecien durante el desarrollo de los procesos penales de su competencia, privilegiando y garantizando en todo caso la libertad, seguridad y demás derechos de las víctimas y ofendidos de dichos delitos.
 
+> <small>N. DE E. EN RELACIÓN CON LA MATERIA DE NARCOMENUDEO PUBLICADO EN EL DECRETO NÚMERO 322 DEL P.O. 29 DE AGOSTO DE 2011, CONSÚLTESE EL TRANSITORIO SEGUNDO.</small>
+
+> <small>(ADICIONADO, P.O. 29 DE AGOSTO DE 2011)</small>
+
+ARTICULO 171 BIS. Del inicio de las averiguaciones previas de los delitos previstos en el artículo 474 de la Ley General de Salud, el Ministerio Público del fuero común informará oportunamente al Ministerio Público de la Federación para que éste tenga los elementos necesarios para solicitar la remisión de la averiguación previa de darse los supuestos legales para ello.
+
+> <small>N. DE E. EN RELACIÓN CON LA MATERIA DE NARCOMENUDEO PUBLICADO EN EL DECRETO NÚMERO 322 DEL P.O. 29 DE AGOSTO DE 2011, CONSÚLTESE EL TRANSITORIO SEGUNDO.</small>
+
+> <small>(ADICIONADO, P.O. 29 DE AGOSTO DE 2011)</small>
+
+ARTICULO 171 BIS A. Al darse los supuestos del segundo párrafo del artículo 474 de la Ley General de Salud, el Ministerio Público podrá practicar las diligencias de averiguación previa que correspondan y remitirá al Ministerio Público de la Federación, dentro de los tres días de haberlas concluido, el acta o actas levantadas y todo lo que con ellas se relacione.
+
+Si hubiere detenidos, la remisión se hará sin demora y se observarán las disposiciones relativas a la retención ministerial por flagrancia.
+
+> <small>N. DE E. EN RELACIÓN CON LA MATERIA DE NARCOMENUDEO PUBLICADO EN EL DECRETO NÚMERO 322 DEL P.O. 29 DE AGOSTO DE 2011, CONSÚLTESE EL TRANSITORIO SEGUNDO.</small>
+
+> <small>(ADICIONADO, P.O. 29 DE AGOSTO DE 2011)</small>
+
+ARTICULO 171 BIS B. Si de las constancias del procedimiento se advierte que las autoridades del fuero común no son competentes, se remitirá el expediente al Ministerio Público de la Federación o a la autoridad judicial que corresponda, dependiendo de la etapa procesal en que se encuentre, a fin de que se continúe el procedimiento, para lo cual las diligencias desahogadas hasta ese momento por la autoridad considerada como incompetente gozarán de plena validez.
+
+> <small>N. DE E. EN RELACIÓN CON LA MATERIA DE NARCOMENUDEO PUBLICADO EN EL DECRETO NÚMERO 322 DEL P.O. 29 DE AGOSTO DE 2011, CONSÚLTESE EL TRANSITORIO SEGUNDO.</small>
+
+> <small>(ADICIONADO, P.O. 29 DE AGOSTO DE 2011)</small>
+
+ARTICULO 171 BIS C. El Ministerio Público o la autoridad judicial del conocimiento, tan pronto identifiquen que una persona relacionada con un procedimiento es farmacodependiente, deberán informar de inmediato y, en su caso, dar intervención a las autoridades sanitarias competentes, para los efectos del tratamiento que corresponda.
+
 ### CAPITULO III. CURACION DE HERIDOS Y ENFERMOS
 
 ###### ARTICULO 172.
@@ -1385,7 +1489,7 @@ Siempre que un lesionado internado en un hospital público salga de él, los mé
 
 ### CAPITULO IV. CONSIGNACION ANTE LOS TRIBUNALES
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE JULIO DE 1999)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE JULIO DE 1999)</small>
 
 ###### ARTICULO 180.
 
@@ -1403,7 +1507,7 @@ En caso de que la detención de una persona exceda los plazos señalados en el a
 
 En el pliego de consignación, el Ministerio Público hará expreso señalamiento de los datos reunidos durante la averiguación previa que, a su juicio, puedan ser considerados para los efectos previstos en el artículo 20 fracción I, de la Constitución Política de los Estados Unidos Mexicanos, y en los preceptos de este Código relativos a la libertad provisional bajo caución, tanto en lo referente a la determinación del cuerpo del delito y la probable responsabilidad, como por lo que respecta a los elementos que deban tomarse en cuenta para fijar el monto de la garantía.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE ABRIL DE 2000)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE ABRIL DE 2000)</small>
 
 ###### ARTICULO 181.
 
@@ -1437,7 +1541,11 @@ III.- Tenga un trabajo lícito; y
 
 IV.- Que el inculpado no haya sido condenado por delito doloso.
 
-La presente disposición no resultará aplicable cuando se trate de delitos graves señalados en este Código.
+> <small>N. DE E. EN RELACIÓN CON LA MATERIA DE NARCOMENUDEO PUBLICADO EN EL DECRETO NÚMERO 322 DEL P.O. 29 DE AGOSTO DE 2011, CONSÚLTESE EL TRANSITORIO SEGUNDO.</small>
+
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2011)</small>
+
+La presente disposición no resultará aplicable cuando se trate de delitos graves señalados en este Código o en otra Ley que deban aplicar los tribunales del Estado.
 
 ## TITULO TERCERO. PREPARACION DEL PROCESO
 
@@ -1476,6 +1584,12 @@ El Tribunal que reciba la consignación radicará de inmediato el asunto y si du
 > <small>(ADICIONADO, P.O. 10 DE AGOSTO DE 1994)</small>
 
 Si la consignación es sin detenido por delito grave o delincuencia organizada, el asunto debe radicarse inmediatamente y el juez resolverá sobre el pedimento de la orden de aprehensión dentro de las veinticuatro horas siguientes. Si el juez no resuelve dentro de los términos señalados en este párrafo, el Ministerio Público podrá recurrir en queja ante la Sala Penal del Supremo Tribunal de Justicia.
+
+> <small>N. DE E. EN RELACIÓN CON LA MATERIA DE NARCOMENUDEO PUBLICADO EN EL DECRETO NÚMERO 322 DEL P.O. 29 DE AGOSTO DE 2011, CONSÚLTESE EL TRANSITORIO SEGUNDO.</small>
+
+> <small>(ADICIONADO, P.O. 29 DE AGOSTO DE 2011)</small>
+
+ARTICULO 182 BIS. Los órganos jurisdiccionales en materia penal del Estado, tomarán conocimiento de las consignaciones en materia de narcomenudeo de conformidad con los términos y formalidades establecidas en el Título Décimo Octavo, Capítulo VII, de la Ley General de Salud, llevarán un registro de las mismas y realizarán las actualizaciones concernientes. En los procedimientos penales que se sustancien con motivo de los mismos, se observarán las disposiciones previstas en el artículo 480 de dicho ordenamiento.
 
 ### CAPITULO II. APREHENSION DEL INCULPADO
 
@@ -1793,7 +1907,7 @@ La autopsia de los cadáveres de personas que hayan fallecido en un hospital pú
 
 A excepción de los casos previstos en los dos artículos anteriores, el reconocimiento o la autopsia se practicarán por los médicos legistas oficiales o por los peritos que designe el Juez o el Ministerio Público.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE AGOSTO DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE AGOSTO DE 2006)</small>
 
 ###### ARTICULO 230.
 
@@ -1811,7 +1925,7 @@ Si agotados los medios de apremio, el perito no presentare su dictamen, se proce
 
 Tratándose de los peritos institucionales, en caso de no rendir el dictamen, se procederá conforme a la Ley de Responsabilidades de los Servidores Públicos del Estado de Sinaloa, lo que no liberará de la obligación de rendir el dictamen.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE AGOSTO DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE AGOSTO DE 2006)</small>
 
 ###### ARTICULO 232.
 
@@ -2013,7 +2127,7 @@ Cuando alguna de las partes solicite la diligencia de reconstrucción, deberá p
 
 ### CAPITULO VI. CATEOS Y VISITAS DOMICILIARIAS
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE JUNIO DE 1991)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE JUNIO DE 1991)</small>
 
 ###### ARTICULO 262.
 
@@ -2301,7 +2415,7 @@ Hay presunción legal cuando se establece expresamente y cuando la consecuencia 
 
 Los Jueces y Tribunales apreciarán las pruebas con sujeción a las reglas de este Capítulo.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE JUNIO DE 1991)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE JUNIO DE 1991)</small>
 
 ###### ARTICULO 312.
 
@@ -2545,7 +2659,7 @@ Si la defensa no formula conclusiones en el plazo señalado en el Artículo 341 
 
 Recibidas las conclusiones acusatorias del Ministerio Público y las de la defensa en su caso, el Juez dictará auto fijando día y hora para la celebración de la vista dentro de los siguientes quince días.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE JUNIO DE 1991)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE JUNIO DE 1991)</small>
 
 ###### ARTICULO 354.
 
@@ -3341,7 +3455,7 @@ Tan pronto como se sospeche que el inculpado esté loco, idiota, imbécil o sufr
 
 Inmediatamente que se compruebe que el inculpado está en uno de los casos a que se refiere el artículo anterior, cesará el procedimiento ordinario y se abrirá el especial en el que la ley deja al recto criterio y a la prudencia del Tribunal la forma de investigar la infracción penal imputada, la participación que en ella hubiere tenido el inculpado, y la de estudiar la personalidad de éste, sin necesidad de que el procedimiento que se emplee sea similar al judicial.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE AGOSTO DE 1994)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE AGOSTO DE 1994)</small>
 
 ###### ARTICULO 485.
 
@@ -3411,7 +3525,11 @@ II.- Que garantice las sanciones pecuniarias que en su caso puedan imponérsele;
 
 III.- Que caucione el cumplimiento de las obligaciones a su cargo, que la ley establece en razón del proceso; y
 
-IV.- Que no se trate de alguno de los delitos señalados como graves en el artículo 117 de este Código.
+> <small>N. DE E. EN RELACIÓN CON LA MATERIA DE NARCOMENUDEO PUBLICADO EN EL DECRETO NÚMERO 322 DEL P.O. 29 DE AGOSTO DE 2011, CONSÚLTESE EL TRANSITORIO SEGUNDO.</small>
+
+> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2011)</small>
+
+IV. Que no se trate de alguno de los delitos señalados como graves en el artículo 117 de este Código o en la fracción XV del artículo 194 del Código Federal de Procedimientos Penales cuando se trate de los delitos contra la salud en su modalidad de narcomenudeo.
 
 La caución a que se refiere la fracción III y las garantías a que se refieren las fracciones I y II podrán consistir en lo que señala el artículo 498 de este Código.
 
@@ -3783,7 +3901,7 @@ Al que una vez se le hubiere concedido la rehabilitación, nunca se le podrá co
 
 Los registros o anotaciones de cualquier clase, relativos a la condena impuesta, no podrán ser comunicados a ninguna entidad o persona, con excepción de las autoridades judiciales y del Ministerio Público o policiales, para fines exclusivos de investigación.
 
-> <small>(REFORMADO EN SU DENOMINACION, P.O. 2 DE ENERO DE 2004)</small>
+> <small>(REFORMADO EN SU DENOMINACIÓN, P.O. 2 DE ENERO DE 2004)</small>
 
 ### CAPITULO VI. DEL INDULTO Y DEL RECONOCIMIENTO DE INOCENCIA
 
@@ -3925,7 +4043,7 @@ EL SUBSECRETARIO "A" DE GOBIERNO ENCARGADO DEL DESPACHO DE LA SECRETARÍA DE GOB
 
 LIC. RICARDO AGUILASOCHO RUBIO
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CÓDIGO.</small>
 
 P.O. 28 DE JUNIO DE 1991.
 
@@ -3943,7 +4061,7 @@ El presente Decreto entrará en vigor el día 1o. de Septiembre de mil novecient
 
 P.O. 19 DE AGOSTO DE 1994.
 
-EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE A LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE SINALOA.
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE A LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE SINALOA.
 
 P.O. 5 DE ABRIL DE 1995.
 
@@ -4100,3 +4218,11 @@ P.O. 27 DE MAYO DE 2011.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 29 DE AGOSTO DE 2011.
+
+PRIMERO. El presente decreto entrará en vigor el día de su publicación, salvo para la competencia en el delito de narcomenudeo.
+
+SEGUNDO. En materia de narcomenudeo, las autoridades competentes de la entidad conocerán de dicho delito a partir del día 21 de agosto de 2012, en cumplimiento al transitorio primero, párrafo tercero, del Decreto Federal publicado en el Diario Oficial de la Federación de fecha 20 de agosto de 2009.
+
+TERCERO. Durante la vacatio legis, los poderes Ejecutivo y Judicial deberán realizar las acciones necesarias para su debida observancia e instrumentación.
