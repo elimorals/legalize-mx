@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-65-organica-del-poder-judicial-del-estado-libre-1804
 country: "mx"
 rank: "ley"
 publication_date: "2000-07-26"
-last_updated: "2010-10-29"
+last_updated: "2011-08-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18048&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "VER"
 ---
 # LEY NUMERO 65 ORGANICA DEL PODER JUDICIAL DEL ESTADO LIBRE Y SOBERANO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-LEY NUM. 65 ORGANICA DEL PODER JUDICIAL DEL ESTADO LIBRE Y SOBERANO DE VERACRUZ DE IGNACIO DE LA LLAVE
+LEY NÚM. 65 ORGÁNICA DEL PODER JUDICIAL DEL ESTADO LIBRE Y SOBERANO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 29 DE OCTUBRE DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 29 DE AGOSTO DE 2011.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el miércoles 26 de julio de 2000.
 
@@ -37,7 +37,7 @@ Al margen un sello que dice: Estados Unidos Mexicanos.- Poder Legislativo.- Esta
 
 LA HONORABLE QUINCUAGÉSIMA OCTAVA LEGISLATURA DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE VERACRUZ-LLAVE, EN USO DE LA FACULTAD QUE LE CONFIEREN LOS ARTICULOS 33 FRACCIÓN I DE LA CONSTITUCIÓN POLÍTICA LOCAL; 44 DE LA LEY ORGANICA DEL PODER LEGISLATIVO; 103 DEL REGLAMENTO PARA EL GOBIERNO INTERIOR DEL PODER LEGISLATIVO Y EN NOMBRE DEL PUEBLO, EXPIDE LA SIGUIENTE:
 
-> <small>(REFORMADA SU DENOMINACION POR ARTICULO TERCERO TRANSITORIO DEL DECRETO DE REFORMA CONSTITUCIONAL, G.O. DE 18 DE MARZO DE 2003)</small>
+> <small>(REFORMADA SU DENOMINACIÓN POR ARTÍCULO TERCERO TRANSITORIO DEL DECRETO DE REFORMA CONSTITUCIONAL, G.O. DE 18 DE MARZO DE 2003)</small>
 
 LEY Núm. 65
 
@@ -131,13 +131,29 @@ XVI. Administrar con autonomía su presupuesto, el cual se manejará bajo una so
 
 XVII. Rendir cuentas anualmente al Congreso del Estado acerca del ejercicio de su presupuesto, conforme a lo dispuesto por la Constitución del Estado y las leyes de la materia;
 
-XVIII. Atender las solicitudes del Órgano de Fiscalización Superior del Estado, en términos de las leyes aplicables; y
+> <small>(REFORMADA, G.O. 29 DE AGOSTO DE 2011)</small>
 
-XIX. Las demás que expresamente establezcan la Constitución local, esta ley y las leyes del Estado.
+XVIII. Atender las solicitudes del Órgano de Fiscalización Superior del Estado, en términos de las leyes aplicables;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 29 DE AGOSTO DE 2011)</small>
+
+XIX. Coordinar, dirigir y administrar las órdenes y medidas de protección y los informes sobre las circunstancias en que se da la ejecución de estas, para efectos de rendir informes al Banco Estatal de Datos e Información sobre Violencia contra las Mujeres;
+
+> <small>(ADICIONADA, G.O. 29 DE AGOSTO DE 2011)</small>
+
+XX. Crear sistemas de registro que incorporen indicadores que faciliten el monitoreo de las tendencias socio-jurídicas de la violencia contra las mujeres y del acceso de las mujeres a la justicia;
+
+> <small>(ADICIONADA, G.O. 29 DE AGOSTO DE 2011)</small>
+
+XXI. Informar sobre los procedimientos judiciales en materia de violencia de género contra las mujeres; y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], G.O. 29 DE AGOSTO DE 2011)</small>
+
+XXII. Las demás que expresamente establezcan la Constitución local, esta ley y las leyes del Estado.
 
 La sede oficial del Poder Judicial del Estado es el municipio de Xalapa-Enríquez y, para el mejor desempeño de la función jurisdiccional, sus órganos podrán contar con Salas o Juzgados en los distintos municipios y regiones de la Entidad, en los términos que fijen esta Ley y demás leyes del Estado.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 17 DE JULIO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 17 DE JULIO DE 2009)</small>
 
 ###### Artículo 4.
 
@@ -197,7 +213,7 @@ La retribución que corresponda a los servidores públicos del Poder Judicial se
 
 ### CAPÍTULO II. De los Precedentes Obligatorios del Poder Judicial
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 17 DE JULIO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 17 DE JULIO DE 2009)</small>
 
 ###### Artículo 11.
 
@@ -309,7 +325,7 @@ Los Magistrados de las Salas Regionales serán suplidos, en sus faltas temporale
 
 En todo caso, las faltas mayores a diez días consecutivos, sin que medie causa justificada que califique el Presidente del Tribunal al que pertenezca el Magistrado, se considerarán definitivas.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 17 DE JULIO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 17 DE JULIO DE 2009)</small>
 
 ###### Artículo 22.
 
@@ -389,7 +405,7 @@ El Secretario General y los Secretarios de Acuerdos de Sala serán sustituidos, 
 
 #### SECCIÓN SEGUNDA. De los Secretarios de Estudio y Cuenta
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 30 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 30 DE DICIEMBRE DE 2002)</small>
 
 ###### Artículo 27.
 
@@ -505,7 +521,7 @@ Las resoluciones del Pleno se tomarán por mayoría de votos de los presentes, q
 
 ### CAPÍTULO II. De la competencia del Pleno del Tribunal
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 27 DE AGOSTO DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 27 DE AGOSTO DE 2004)</small>
 
 ###### Artículo 38.
 
@@ -821,7 +837,7 @@ IV. De la calificación de las excusas y recusaciones de los Jueces de Primera I
 
 V. Los demás que expresamente establezcan la Constitución Política local, esta ley y las leyes del Estado.
 
-> <small>(DEROGADA CON EL ARTICULO QUE LA INTEGRA, G.O. 17 DE JULIO DE 2009)</small>
+> <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA, G.O. 17 DE JULIO DE 2009)</small>
 
 #### SECCIÓN CUARTA. De la Sala Electoral
 
@@ -829,7 +845,7 @@ V. Los demás que expresamente establezcan la Constitución Política local, est
 
 (DEROGADO, G.O. 17 DE JULIO DE 2009)
 
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, G.O. 2 DE JULIO DE 2007)</small>
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, G.O. 2 DE JULIO DE 2007)</small>
 
 #### SECCIÓN QUINTA. De la Sala de Responsabilidad Juvenil
 
@@ -845,11 +861,11 @@ La Sala de Responsabilidad Juvenil se integrará con un Magistrado, un secretari
 
 La Sala de Responsabilidad Juvenil tendrá la facultad de resolver los recursos de apelación, apelación especial y revisión en los términos previstos en la Ley de Responsabilidad Juvenil.
 
-> <small>(ADICIONADO CON LAS SECCIONES Y ARTICULOS QUE LO INTEGRAN, G.O. 17 DE JULIO DE 2009)</small>
+> <small>(ADICIONADO CON LAS SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, G.O. 17 DE JULIO DE 2009)</small>
 
 ## TÍTULO SEGUNDO BIS. DEL TRIBUNAL ELECTORAL
 
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, G.O. 17 DE JULIO DE 2009)</small>
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, G.O. 17 DE JULIO DE 2009)</small>
 
 #### SECCIÓN PRIMERA. De su organización y Funcionamiento
 
@@ -889,7 +905,7 @@ El Presidente del Tribunal Electoral será suplido, en sus faltas temporales que
 
 Los Magistrados del Tribunal Electoral serán suplidos, en sus faltas temporales que no excedan de diez días consecutivos, por el Secretario de Acuerdos. Las faltas mayores a diez días consecutivos, sin que medie causa justificada que como tal califique el Presidente del Tribunal Electoral, se considerarán definitivas y darán lugar a la sustitución del faltista, conforme al procedimiento establecido en esta Ley.
 
-> <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRAN, G.O. 17 DE JULIO DE 2009)</small>
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRAN, G.O. 17 DE JULIO DE 2009)</small>
 
 #### SECCIÓN SEGUNDA. De la Competencia
 
@@ -955,7 +971,7 @@ VII. Proponer al Consejo de la Judicatura, el nombramiento del Secretario de Acu
 
 VIII. Proponer reformas al Reglamento del Tribunal;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2010)</small>
 
@@ -991,7 +1007,7 @@ El Pleno se integrará por todos los Magistrados adscritos a Salas; la Sala Supe
 
 El Pleno, la Sala Superior y las Salas Regionales contarán con un Secretario de Acuerdos, Actuarios y el personal administrativo que requieran para su buen funcionamiento, nombrados conforme a lo dispuesto por esta Ley. El Secretario de Acuerdos de la Sala Superior fungirá como tal en el Pleno del Tribunal.
 
-> <small>(ADICIONADA CON EL ARTICULO QUE LO INTEGRA, G.O. 30 DE OCTUBRE DE 2009)</small>
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LO INTEGRA, G.O. 30 DE OCTUBRE DE 2009)</small>
 
 #### SECCIÓN SEGUNDA. Del Pleno del Tribunal de lo Contencioso Administrativo
 
@@ -1025,7 +1041,7 @@ IX. Las demás que deriven de las disposiciones legales estatales.
 
 Los acuerdos del Pleno se tomarán por mayoría de votos de los integrantes presentes, quienes sólo podrán abstenerse de votar en los casos en que tengan impedimentos legales. Cuando exista empate, el Presidente tendrá voto de calidad.
 
-(REUBICADA [N. DE E. ANTES SECCION SEGUNDA], G.O. 30 DE OCTUBRE DE 2009)
+(REUBICADA [N. DE E. ANTES SECCIÓN SEGUNDA], G.O. 30 DE OCTUBRE DE 2009)
 
 #### SECCIÓN TERCERA. Del Presidente del Tribunal
 
@@ -1083,7 +1099,7 @@ XIV. Atender las observaciones y recomendaciones que le formule el Órgano de Fi
 
 XV. Las demás que expresamente establezcan la Constitución local y las leyes del Estado.
 
-(REUBICADA [N. DE E. ANTES SECCION TERCERA], G.O. 30 DE OCTUBRE DE 2009)
+(REUBICADA [N. DE E. ANTES SECCIÓN TERCERA], G.O. 30 DE OCTUBRE DE 2009)
 
 #### SECCIÓN CUARTA. De la Sala Superior
 
@@ -1121,11 +1137,11 @@ XIII. (DEROGADA, G.O. 17 DE SEPTIEMBRE DE 2010)
 
 XIV. Conocer de los demás asuntos que expresamente establezcan la Constitución local y las leyes del Estado.
 
-> <small>(ADICIONADA [N. DE E. REUBICADA, ANTES SECCION CUARTA], G.O. 30 DE OCTUBRE DE 2009)</small>
+> <small>(ADICIONADA [N. DE E. REUBICADA, ANTES SECCIÓN CUARTA], G.O. 30 DE OCTUBRE DE 2009)</small>
 
 #### SECCIÓN QUINTA. De las Salas Regionales
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 30 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 30 DE OCTUBRE DE 2009)</small>
 
 ###### Artículo 54.
 
@@ -1135,7 +1151,7 @@ I. Sala Regional. Zona Norte, con residencia en Tuxpan, Veracruz, con jurisdicci
 
 II. Sala Regional. Zona Centro, con residencia en Xalapa, Veracruz, con jurisdicción en los Distritos Judiciales de: Misantla, Jalacingo, Coatepec, Xalapa, Huatusco, Córdoba, Orizaba, Zongolica y Veracruz.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, G.O. 11 DE JUNIO DE 2008)</small>
 
@@ -1353,7 +1369,7 @@ III. Gozar de buena reputación y no haber sido condenado por delito que amerite
 
 El reglamento del Tribunal determinará, conforme a las atribuciones que expresamente señalen esta ley y las leyes del Estado, la organización y funcionamiento de la Procuraduría de la Defensa de los Trabajadores.
 
-> <small>(REFORMADA SU DENOMINACION, G.O. 2 DE JULIO DE 2007)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 2 DE JULIO DE 2007)</small>
 
 ## TÍTULO CUARTO. DE LOS JUZGADOS Y DEL CENTRO ESTATAL DE MEDIOS ALTERNATIVOS PARA LA SOLUCIÓN DE CONFLICTOS
 
@@ -1495,7 +1511,7 @@ Los Secretarios de Acuerdos de los Juzgados de Primera Instancia, tendrán bajo 
 
 ### CAPÍTULO II. De los Juzgados Menores
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 30 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 30 DE DICIEMBRE DE 2002)</small>
 
 ###### Artículo 74.
 
@@ -1633,7 +1649,7 @@ IV. Las demás que expresamente establezcan esta ley y las leyes del Estado.
 
 Los Jueces de Comunidad actuarán con un Secretario que podrá ser accidental o con dos testigos de asistencia.
 
-> <small>(REFORMADA SU DENOMINACION, G.O. 2 DE JULIO DE 2007)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 2 DE JULIO DE 2007)</small>
 
 ### CAPÍTULO V. De los Juzgados para Adolescentes
 
@@ -1721,7 +1737,7 @@ III. Gozar de buena reputación, y no haber sido condenado por delito que amerit
 
 IV. Tener conocimientos sobre la materia, lo que se acreditará con la constancia expedida por el Instituto de Formación, Capacitación, Especialización y Actualización del Poder Judicial.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.O. 2 DE JULIO DE 2007)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 2 DE JULIO DE 2007)</small>
 
 ### CAPÍTULO VI. Del Centro Estatal de Medios Alternativos para la Solución de Conflictos
 
@@ -1743,7 +1759,7 @@ La organización y funcionamiento del Centro Estatal de Medios Alternativos para
 
 El Centro Estatal de Medios Alternativos para la Solución de Conflictos y sus unidades regionales ejercerán en su caso, la facultad facilitadora en el proceso instituido por responsabilidad juvenil en los términos que prevé la Ley de la materia, previa certificación del Instituto de Formación, Capacitación, Especialización y Actualización.
 
-(REUBICADO [N. DE E. ANTES CAPITULO VI], G.O. 2 DE JULIO DE 2007)
+(REUBICADO [N. DE E. ANTES CAPÍTULO VI], G.O. 2 DE JULIO DE 2007)
 
 ### CAPÍTULO VII. Disposiciones Comunes
 
@@ -1841,7 +1857,9 @@ El Consejo de la Judicatura tendrá competencia para:
 
 I. Conducir la administración, vigilancia y disciplina del Poder Judicial, con excepción del Tribunal Superior de Justicia;
 
-II. Formar, actualizar y especializar a los servidores públicos del Poder Judicial, así como desarrollar la carrera judicial, la cual se regirá por los principios de excelencia, objetividad, imparcialidad, profesionalismo e independencia;
+> <small>(REFORMADA, G.O. 29 DE AGOSTO DE 2011)</small>
+
+II. Formar, actualizar y especializar a los servidores públicos del Poder Judicial, incorporando la perspectiva de género y la especialización en derechos humanos de las mujeres y en violencia de género contra las mujeres, así como desarrollar la carrera judicial, la cual se regirá por los principios de excelencia, objetividad, imparcialidad, profesionalismo e independencia;
 
 > <small>(REFORMADA, G.O. 27 DE AGOSTO DE 2004)</small>
 
@@ -2307,7 +2325,7 @@ IX. No concurran los Magistrados a sus sesiones o lo desintegren, en ambos casos
 
 X. Las demás que señale el Reglamento Interior.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 30 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 30 DE DICIEMBRE DE 2002)</small>
 
 ###### Artículo 137.
 
@@ -2339,7 +2357,7 @@ XI. No rindan los informes que les sean requeridos por sus superiores jerárquic
 
 XII. Las demás que señalen las disposiciones aplicables en la materia.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 30 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 30 DE DICIEMBRE DE 2002)</small>
 
 ###### Artículo 138.
 
@@ -2357,7 +2375,7 @@ II. Los abogados patronos y los defensores, en los casos de responsabilidades pr
 
 III. El Ministerio Público en los negocios en que intervenga, la víctima o el ofendido en las causas penales y, en general, quien tenga conocimiento de las faltas.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 30 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 30 DE DICIEMBRE DE 2002)</small>
 
 ###### Artículo 139.
 
@@ -2445,7 +2463,7 @@ Los Tribunales Electoral, de lo Contencioso Administrativo y de Conciliación y 
 
 Se consideran asuntos urgentes los casos de desistimiento de la acción penal por parte del Ministerio Público, cuando haya detenido; los referidos a demandas de Amparo y los que entrañen cumplimiento de ejecutorias en la misma materia que ordenen la libertad de alguna persona y los casos de alimentos, providencias precautorias, depósito de personas y libertad caucional. La Sala de Guardia tendrá facultades para interponer los recursos que sean procedentes conforme a la Ley de Amparo.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 30 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 30 DE DICIEMBRE DE 2002)</small>
 
 ###### Artículo 146.
 
@@ -2605,7 +2623,7 @@ Gobernador del Estado
 
 (Rúbrica)
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 G.O. 19 DE ENERO DE 2001.
 
@@ -2691,7 +2709,7 @@ LA MODIFICACION CON ANTELACION CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN 
 
 G.O. 11 DE JUNIO DE 2008.
 
-DECRETO No. 250, POR EL QUE SE REFORMAN Y ADICIONAN DIVERSOS ARTICULOS DE LA LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE.
+DECRETO No. 250, POR EL QUE SE REFORMAN Y ADICIONAN DIVERSOS ARTÍCULOS DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE.
 
 Primero. Las reformas previstas en el presente Decreto, entrarán en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
 
@@ -2703,7 +2721,7 @@ Tercero. El Consejo de la Judicatura deberá nombrar al Titular de la Contralor�
 
 G.O. 11 DE JUNIO DE 2008.
 
-DECRETO No. 251, POR EL QUE SE REFORMA EL ARTICULO 54 DE LA LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE.
+DECRETO No. 251, POR EL QUE SE REFORMA EL ARTÍCULO 54 DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE.
 
 Primero. La presente reforma entrará en vigor a los quince días hábiles siguientes a su publicación en la Gaceta Oficial del estado.
 
@@ -2782,3 +2800,9 @@ b) Los Consejeros designados por el Pleno del Tribunal Superior de Justicia del 
 c) Los Consejeros Licenciado José Luis Salas Torres, representante del Congreso del Estado, y Licenciado Javier Hernández Hernández, propuesto por el Titular del Poder Ejecutivo Estatal y ratificado por el Congreso del Estado, durarán en su encargo cinco años, contados, para el primero de los mencionados, desde el dos de junio de dos mil diez hasta el primero de junio de dos mil quince; y para el segundo, desde el nueve de agosto de dos mil diez al ocho de agosto de dos mil quince.
 
 Artículo tercero. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 29 DE AGOSTO DE 2011.
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
