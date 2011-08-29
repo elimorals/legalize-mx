@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-ejecucion-de-las-consecuencias-juridicas-del-delito-2216
 country: "mx"
 rank: "ley"
 publication_date: "2001-09-14"
-last_updated: "2011-05-27"
+last_updated: "2011-08-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22166&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY DE EJECUCION DE LAS CONSECUENCIAS JURIDICAS DEL DELITO DEL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE MAYO DE 2011.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE AGOSTO DE 2011.
 
 Ley publicada en el Periódico Oficial "El Estado de Sinaloa", el viernes 14 de septiembre de 2001.
 
@@ -41,9 +41,13 @@ LEY DE EJECUCIÓN DE LAS CONSECUENCIAS JURÍDICAS DEL DELITO DEL ESTADO DE SINAL
 
 ## TÍTULO PRELIMINAR. OBJETIVOS Y PRINCIPIOS RECTORES
 
+> <small>N. DE E. EN RELACION CON LA MATERIA DE NARCOMENUDEO PUBLICADO EN EL DECRETO NUMERO 322 DEL P.O. 29 DE AGOSTO DE 2011, CONSULTESE EL TRANSITORIO SEGUNDO.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE AGOSTO DE 2011)</small>
+
 ###### Artículo 1.
 
-La presente Ley regula la ejecución de las consecuencias jurídicas del delito previstas en el código penal y en las leyes penales especiales, impuestas por los tribunales del Poder Judicial del Estado de Sinaloa.
+La presente Ley regula la ejecución de las consecuencias jurídicas del delito previstas en el código penal, en las leyes penales especiales y en la legislación federal en los casos que ésta prevea la competencia para las entidades federativas, impuestas por los tribunales del Poder Judicial del Estado de Sinaloa.
 
 También se aplicará, en lo conducente, a los detenidos y procesados, promoviendo su participación voluntaria en los programas relacionados con el régimen de readaptación social.
 
@@ -1117,6 +1121,12 @@ III. Trabajo y capacitación para el mismo, relacionado con el tiempo laborado y
 
 IV. Disciplina, en relación con su comportamiento y participación en la vida comunitaria del centro.
 
+> <small>N. DE E. EN RELACION CON LA MATERIA DE NARCOMENUDEO PUBLICADO EN EL DECRETO NUMERO 322 DEL P.O. 29 DE AGOSTO DE 2011, CONSULTESE EL TRANSITORIO SEGUNDO.</small>
+
+> <small>(ADICIONADO, P.O. 29 DE AGOSTO DE 2011)</small>
+
+En este caso, no se considerará como antecedente de mala conducta el relativo a que se le haya considerado farmacodependiente, pero sí se exigirá en todo caso que el sentenciado se someta al tratamiento médico correspondiente para su rehabilitación, bajo vigilancia de la autoridad ejecutora.
+
 ###### Artículo 127.
 
 Para gozar del régimen de libertad preparatoria, el sentenciado deberá satisfacer los siguientes requisitos:
@@ -1700,3 +1710,11 @@ P.O. 27 DE MAYO DE 2011.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 29 DE AGOSTO DE 2011.
+
+PRIMERO. El presente decreto entrará en vigor el día de su publicación, salvo para la competencia en el delito de narcomenudeo.
+
+SEGUNDO. En materia de narcomenudeo, las autoridades competentes de la entidad conocerán de dicho delito a partir del día 21 de agosto de 2012, en cumplimiento al transitorio primero, párrafo tercero, del Decreto Federal publicado en el Diario Oficial de la Federación de fecha 20 de agosto de 2009.
+
+TERCERO. Durante la vacatio legis, los poderes Ejecutivo y Judicial deberán realizar las acciones necesarias para su debida observancia e instrumentación.
