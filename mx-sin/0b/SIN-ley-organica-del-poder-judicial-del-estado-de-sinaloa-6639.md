@@ -4,7 +4,7 @@ identifier: "SIN-ley-organica-del-poder-judicial-del-estado-de-sinaloa-6639"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-04-10"
-last_updated: "2009-03-30"
+last_updated: "2011-08-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6639&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE MARZO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE AGOSTO DE 2011.
 
 Ley publicada en el Periódico Oficial del Estado de Sinaloa, el lunes 10 de abril de 1995.
 
@@ -543,7 +543,11 @@ El Pleno del Supremo Tribunal de Justicia fijará la competencia penal, civil, f
 
 Los Juzgados de Primera Instancia del Ramo Penal, conocerán:
 
-I.- De los delitos del orden común, cuando su conocimiento no esté reservado a otra autoridad judicial, así como de los incidentes de responsabilidad civil que de tales delitos se deriven; y
+> <small>N. DE E. EN RELACION CON LA MATERIA DE NARCOMENUDEO PUBLICADO EN EL DECRETO NUMERO 322 DEL P.O. 29 DE AGOSTO DE 2011, CONSULTESE EL TRANSITORIO SEGUNDO.</small>
+
+> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2011)</small>
+
+I.- De los delitos del orden común, cuando su conocimiento no esté reservado a otra autoridad judicial, y los establecidos en la legislación federal en los casos que ésta prevea la competencia para las entidades Federativas, cometidos dentro del territorio del Estado, así como de los incidentes de responsabilidad civil que de tales delitos se deriven; y,
 
 II.- De los demás asuntos que les encomienden las Leyes.
 
@@ -1234,3 +1238,11 @@ P.O. 30 DE MARZO DE 2009.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entra en vigor el día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa"
+
+P.O. 29 DE AGOSTO DE 2011.
+
+PRIMERO. El presente decreto entrará en vigor el día de su publicación, salvo para la competencia en el delito de narcomenudeo.
+
+SEGUNDO. En materia de narcomenudeo, las autoridades competentes de la entidad conocerán de dicho delito a partir del día 21 de agosto de 2012, en cumplimiento al transitorio primero, párrafo tercero, del Decreto Federal publicado en el Diario Oficial de la Federación de fecha 20 de agosto de 2009.
+
+TERCERO. Durante la vacatio legis, los poderes Ejecutivo y Judicial deberán realizar las acciones necesarias para su debida observancia e instrumentación.
