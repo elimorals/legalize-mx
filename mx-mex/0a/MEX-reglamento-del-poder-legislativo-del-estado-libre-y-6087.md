@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-del-poder-legislativo-del-estado-libre-y-6087"
 country: "mx"
 rank: "reglamento"
 publication_date: "1995-09-15"
-last_updated: "2011-08-02"
+last_updated: "2011-08-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6087&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 REGLAMENTO DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 2 DE AGOSTO DE 2011.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 29 DE AGOSTO DE 2011.
 
 Reglamento publicado en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el viernes 15 de septiembre de 1995.
 
@@ -1201,6 +1201,24 @@ III.- Concluido este acto, el mismo secretario preguntará dos veces en voz alta
 
 IV.- El secretario hará enseguida el cómputo de los votos e informará el resultado, al presidente.
 
+> <small>(ADICIONADO, G.G. 29 DE AGOSTO DE 2011)</small>
+
+Artículo 113 BIS.- La votación nominal se efectuará mediante el sistema electrónico de asistencia y votación, en la forma siguiente:
+
+El sistema electrónico de asistencia y votación, se abrirá y cerrará previa instrucción de la Secretaría, hasta por el tiempo que señale el Presidente de la Directiva, después de lo cual, el Secretario en funciones preguntará si falta algún diputado por emitir su voto, y de ser así y habiendo vencido el término establecido para hacerlo, lo registrará de manera nominal.
+
+En caso de que no se pueda utilizar el sistema electrónico, la votación se realizará de conformidad con lo señalado en el artículo anterior.
+
+> <small>(ADICIONADO, G.G. 29 DE AGOSTO DE 2011)</small>
+
+Artículo 113 BIS I.- Los diputados deberán registrar su asistencia al inicio de las sesiones, a través del sistema electrónico.
+
+Si un diputado, por cualquier causa, no registrara oportunamente su asistencia a través del sistema electrónico, podrá hacerlo ante la Secretaría de la Directiva.
+
+En los casos en que se requiera la verificación del quórum, el Presidente de la Directiva ordenará abrir el sistema electrónico y votación por 5 minutos.
+
+Si no es posible la operación del sistema electrónico, se procederá de acuerdo con lo establecido en las disposiciones aplicables.
+
 ###### Artículo 114.
 
 La votación secreta se efectuará de la siguiente manera:
@@ -1563,7 +1581,9 @@ VI.- Presentar para su firma las resoluciones y correspondencia del presidente y
 
 VII.- Proporcionar a las comisiones, comités, grupos parlamentarios y diputados en particular, los apoyos, atención y documentación que requieran, para el adecuado cumplimiento de sus funciones legislativas;
 
-VIII.- Atender los servicios de estenografía y/o taquigrafía, grabación, sonido y cualquier otro mecanismo técnico autorizado;
+> <small>(REFORMADA, G.G. 29 DE AGOSTO DE 2011)</small>
+
+VIII.- Atender y en su caso controlar los servicios de estenografía y/o taquigrafía, grabación, sonido, sistema electrónico de asistencia y votación y cualquier otro mecanismo técnico autorizado;
 
 > <small>(REFORMADA, G.G. 18 DE AGOSTO DE 2010)</small>
 
@@ -1573,7 +1593,9 @@ IX.- Coadyuvar al cuidado y conservación del archivo histórico y biblioteca de
 
 X.- Coadyuvar en la vigilancia de la impresión, publicación y distribución del "Diario de Debates" y de la "Gaceta Parlamentaria";
 
-XI.- (DEROGADA, G.G. 30 DE ABRIL DE 2004)
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 29 DE AGOSTO DE 2011)</small>
+
+XI.- Administrar y resguardar los archivos que genere el sistema electrónico de asistencia y votación;
 
 XII.- Llevar libros de control para el despacho de los asuntos de recepción y remisión de documentos, en los que se asienten los documentos recibidos por la Oficialía de Partes;
 
@@ -1771,13 +1793,17 @@ XIX.- Desarrollar permanentemente programas de modernización y simplificación 
 
 XX.- Elaborar y publicar en el Periódico Oficial "Gaceta del Gobierno", los manuales de organización que sean necesarios para lograr el óptimo funcionamiento de las áreas que integran el Poder Legislativo;
 
+> <small>(ADICIONADA, G.G. 29 DE AGOSTO DE 2011)</small>
+
+XXI.- Mantener, conservar y proveer los apoyos técnicos, humanos y financieros que se requieran, para la operación del sistema electrónico de asistencia y votación;
+
 > <small>(REFORMADA, G.G. 30 DE ABRIL DE 2004)</small>
 
-XXI.- Ejercer el control y supervisión del personal de seguridad y vigilancia de la Legislatura;
+XXII.- Ejercer el control y supervisión del personal de seguridad y vigilancia de la Legislatura;
 
 > <small>(ADICIONADA, G.G. 30 DE ABRIL DE 2004)</small>
 
-XXII.- Las demás que le señalen los ordenamientos legales aplicables y las que determine la Junta de Coordinación Política o su presidente.
+XXIII.- Las demás que le señalen los ordenamientos legales aplicables y las que determine la Junta de Coordinación Política o su presidente.
 
 > <small>(REFORMADO, G.G. 30 DE ABRIL DE 2004)</small>
 
@@ -2302,3 +2328,13 @@ PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del G
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
 
 TERCERO.- La Secretaría de Administración y Finanzas del Poder Legislativo proveerá lo necesario para dar cumplimiento al presente Decreto.
+
+G.G. 29 DE AGOSTO DE 2011.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- El Sistema de registro de asistencia y votación electrónica, deberá ser puesto en operación en un plazo no mayor a 90 días.
+
+CUARTO.- Se faculta a la Junta de Coordinación Política, a la Secretaría de Administración y Finanzas y a la Secretaría de Asuntos Parlamentarios, para que en coordinación provean lo necesario para el cumplimiento del presente Decreto.
