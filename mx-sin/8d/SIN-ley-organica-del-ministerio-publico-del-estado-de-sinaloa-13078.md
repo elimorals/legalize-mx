@@ -4,7 +4,7 @@ identifier: "SIN-ley-organica-del-ministerio-publico-del-estado-de-sinaloa-13078
 country: "mx"
 rank: "ley_organica"
 publication_date: "1998-11-16"
-last_updated: "2011-05-27"
+last_updated: "2011-08-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13078&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY ORGANICA DEL MINISTERIO PUBLICO DEL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE MAYO DE 2011.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE AGOSTO DE 2011.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Sinaloa, el lunes 16 de noviembre de 1998.
 
@@ -91,13 +91,31 @@ II. Promover la eficaz, expedita y debida procuración de justicia;
 
 III. Velar por el respeto a los derechos humanos en la esfera de su competencia;
 
-IV. Investigar y perseguir los delitos del orden común;
+> <small>N. DE E. EN RELACION CON LA MATERIA DE NARCOMENUDEO PUBLICADO EN EL DECRETO NUMERO 322 DEL P.O. 29 DE AGOSTO DE 2011, CONSULTESE EL TRANSITORIO SEGUNDO.</small>
+
+> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2011)</small>
+
+IV. Investigar y perseguir los delitos del orden común y los autorizados por las leyes de conformidad con el artículo 73 fracción XXI, de la Constitución Política de los Estados Unidos Mexicanos.
+
+Para efectos del párrafo anterior, respecto de los delitos federales, conocerá de los delitos a que se refiere el Título Décimo Octavo, Capítulo VII, de la Ley General de Salud, que corresponde a los delitos contra la salud en la modalidad de narcomenudeo, cuando los narcóticos objeto de los mismos estén previstos en la tabla contenida en el artículo 479 de la citada ley, siempre y cuando la cantidad de que se trate sea inferior a la que resulte de multiplicar por mil el monto de las previstas en dicha tabla y no existan elementos suficientes para presumir delincuencia organizada. En estos casos le corresponde lo siguiente:
+
+a) Informar a la autoridad administrativa competente cuando tenga conocimiento que el propietario, poseedor, arrendatario o usufructuario de un establecimiento de cualquier naturaleza, lo empleará para realizar cualquiera de las conductas tipificadas como delitos contra la salud en su modalidad de narcomenudeo previstas en el Capítulo VII, del Titulo Décimo Octavo de la Ley General de Salud, o que permitiera su realización por terceros, para que, en ejercicio de sus atribuciones, realice la clausura del establecimiento, sin perjuicio de las sanciones penales correspondientes;
+
+b) Realizar la preparación y el ejercicio de la acción penal ante los tribunales del fuero común, en los delitos contra la salud en su modalidad de narcomenudeo, de conformidad con lo dispuesto por el artículo 474 de la Ley General de Salud, debiendo proceder en términos del artículo 19 Bis del Código de Procedimientos Penales del Estado;
+
+c) No ejercer la acción penal en el delito contra la salud en su modalidad de narcomenudeo previsto en el artículo 477 de la Ley General de Salud, cuando se colme la hipótesis establecida en el artículo 478 de la misma Ley; y
+
+d) Remitir oficio que contenga los datos del farmacodependiente a la Secretaría de Salud del Estado o la instancia competente respectiva de este sector, en los delitos contra la salud en su modalidad de narcomenudeo, a efectos de que aquella lo cite para proporcionarle orientación y conminarlo a tomar parte en los programas contra la farmacodependencia, al tercer reporte de la autoridad ministerial, el tratamiento del farmacodependiente será obligatorio;
 
 V. Promover la práctica de las diligencias para la consecución de la justicia penal, en los juicios o asuntos en que legalmente deba intervenir;
 
-> <small>(ADICIONADA, P.O. 11 DE SEPTIEMBRE DE 2006)</small>
+> <small>N. DE E. EN RELACION CON LA MATERIA DE NARCOMENUDEO PUBLICADO EN EL DECRETO NUMERO 322 DEL P.O. 29 DE AGOSTO DE 2011, CONSULTESE EL TRANSITORIO SEGUNDO.</small>
 
-VI. Investigar y perseguir las conductas tipificadas como delitos por las leyes penales atribuidas a adolescentes, proveyendo al respecto de sus derechos fundamentales y ejecutando las acciones conducentes a la solución del conflicto y la obtención de justicia ante la autoridad judicial;
+> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2011)</small>
+
+VI. Investigar y perseguir las conductas tipificadas como delitos por las leyes penales del Estado o en otras leyes que deban aplicar los tribunales del Estado atribuidas a adolescentes, proveyendo al respeto de sus derechos fundamentales y ejecutando las acciones conducentes a la solución del conflicto y la obtención de justicia ante la autoridad judicial.
+
+Para efectos del párrafo anterior, respecto de los delitos federales, conocerá de los delitos a que se refiere el Título Décimo Octavo, Capítulo VII, de la Ley General de Salud, que corresponde a los delitos contra la salud en la modalidad de narcomenudeo, cuando los narcóticos objeto de los mismos estén previstos en la tabla contenida en el artículo 479 de la citada ley, siempre y cuando la cantidad de que se trate sea inferior a la que resulte de multiplicar por mil el monto de las previstas en dicha tabla y no existan elementos suficientes para presumir delincuencia organizada;
 
 VII. Intervenir en los juicios que afecten a quienes las leyes otorgan especial protección;
 
@@ -135,9 +153,13 @@ III. Establecer coordinación con los organismos de derechos humanos referidos, 
 
 IV. Recibir y dar la atención debida a las quejas que directamente formule la población en materia de derechos humanos.
 
+> <small>N. DE E. EN RELACION CON LA MATERIA DE NARCOMENUDEO PUBLICADO EN EL DECRETO NUMERO 322 DEL P.O. 29 DE AGOSTO DE 2011, CONSULTESE EL TRANSITORIO SEGUNDO.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE AGOSTO DE 2011)</small>
+
 ###### Artículo 9o.
 
-La investigación y persecución de los delitos del orden común comprende:
+La investigación y persecución de los delitos del orden común y los autorizados por las leyes de conformidad con el artículo 73 fracción XXI, de la Constitución Política de los Estados Unidos Mexicanos comprende:
 
 > <small>(REFORMADA, P.O. 9 DE JULIO DE 1999)</small>
 
@@ -145,7 +167,11 @@ I. Recibir denuncias y querellas sobre acciones y omisiones que puedan constitui
 
 II. Propiciar adecuadamente la conciliación entre las víctimas u ofendidos por delitos y quienes aparezcan como probables responsables, en los ilícitos que se persigan por querella;
 
-III. Investigar los delitos del orden común con la ayuda de los auxiliares a que se refiere esta ley y de otras autoridades competentes en los términos de los convenios de colaboración;
+> <small>N. DE E. EN RELACION CON LA MATERIA DE NARCOMENUDEO PUBLICADO EN EL DECRETO NUMERO 322 DEL P.O. 29 DE AGOSTO DE 2011, CONSULTESE EL TRANSITORIO SEGUNDO.</small>
+
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2011)</small>
+
+III. Investigar los delitos del orden común y los autorizados por las leyes de conformidad con el artículo 73 fracción XXI, de la Constitución Política de los Estados Unidos Mexicanos; con la ayuda de los auxiliares a que se refiere esta ley y de otra (sic) autoridades competentes en los términos de los convenios de colaboración;
 
 > <small>(REFORMADA, P.O. 9 DE JULIO DE 1999)</small>
 
@@ -191,39 +217,73 @@ VIII. Impugnar legalmente las resoluciones judiciales que a su juicio causen agr
 
 IX. En general, promover lo conducente al desarrollo de los procesos y ejercer las demás atribuciones que le confieran las leyes.
 
-> <small>(ADICIONADO, P.O. 11 DE SEPTIEMBRE DE 2006)</small>
+> <small>N. DE E. EN RELACION CON LA MATERIA DE NARCOMENUDEO PUBLICADO EN EL DECRETO NUMERO 322 DEL P.O. 29 DE AGOSTO DE 2011, CONSULTESE EL TRANSITORIO SEGUNDO.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE AGOSTO DE 2011)</small>
 
 ###### Artículo 10 Bis.
 
-Investigar y perseguir las conductas tipificadas como delitos por las leyes penales estatales, atribuidas a adolescentes, proveyendo al respeto de sus derechos fundamentales y ejecutando las acciones conducentes a la solución del conflicto y la obtención de justicia ante la autoridad judicial, comprende:
+Investigar y perseguir las conductas tipificadas como delitos por las leyes penales estatales y los autorizados por las leyes de conformidad con el artículo 73 fracción XXI, de la Constitución Política de los Estados Unidos Mexicanos, atribuidas a adolescentes, proveyendo al respeto de sus derechos fundamentales y ejecutando las acciones conducentes a la solución del conflicto y la obtención de justicia ante la autoridad judicial, comprende:
 
-I. Realizar en cada asunto de su conocimiento, con motivo de la investigación y persecución de conductas tipificadas como delitos por las leyes penales, atribuidas a adolescentes, el análisis, el diagnóstico y la prognosis del caso, el plan de trabajo y la bitácora de las acciones de investigación;
+> <small>N. DE E. EN RELACION CON LA MATERIA DE NARCOMENUDEO PUBLICADO EN EL DECRETO NUMERO 322 DEL P.O. 29 DE AGOSTO DE 2011, CONSULTESE EL TRANSITORIO SEGUNDO.</small>
+
+> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2011)</small>
+
+I. Realizar en cada asunto de su conocimiento, con motivo de la investigación y persecución de conductas tipificadas como delitos por las leyes penales o en otras leyes que deban aplicar los tribunales del Estado, atribuidas a adolescentes, el análisis, el diagnóstico y la prognosis del caso, el plan de trabajo y la bitácora de las acciones de investigación;
+
+> <small>(ADICIONADA, P.O. 11 DE SEPTIEMBRE DE 2006)</small>
 
 II. Velar en todo momento, en los asuntos de su conocimiento, por el respeto, integridad, dignidad y estricto cumplimiento de los derechos y garantías de los adolescentes sujetos a la Ley de Justicia para Adolescentes, así como de las víctimas de los hechos presuntamente realizados por los adolescentes;
 
+> <small>(ADICIONADA, P.O. 11 DE SEPTIEMBRE DE 2006)</small>
+
 III. Informar de inmediato al adolescente, a sus familiares a su defensor su situación jurídica, así como los derechos que les asisten;
+
+> <small>(ADICIONADA, P.O. 11 DE SEPTIEMBRE DE 2006)</small>
 
 IV. Realizar lo conducente para que sea asignado un defensor público al adolescente desde el momento en el que sea puesto a su disposición;
 
+> <small>(ADICIONADA, P.O. 11 DE SEPTIEMBRE DE 2006)</small>
+
 V. Resolver dentro de los plazos y términos previstos en la Ley de Justicia para Adolescentes, la situación jurídica de los adolescentes que sean puestos a su disposición;
+
+> <small>(ADICIONADA, P.O. 11 DE SEPTIEMBRE DE 2006)</small>
 
 VI. Formular la remisión y poner inmediatamente a los adolescentes a disposición del Juez para Adolescentes, en los casos en que resulte procedente;
 
+> <small>(ADICIONADA, P.O. 11 DE SEPTIEMBRE DE 2006)</small>
+
 VII. Procurar, en los casos de querella necesaria, la conciliación entre el adolescente y la víctima u ofendido;
+
+> <small>(ADICIONADA, P.O. 11 DE SEPTIEMBRE DE 2006)</small>
 
 VIII. Garantizar que durante la fase de detención, no se mantenga al adolescente incomunicado ni se le coaccione, intimide, someta a torturas u otros tratos o penas crueles, inhumanas o degradantes y que se satisfagan sus derechos a la alimentación y a la salud, así como los demás que apliquen a su situación;
 
+> <small>(ADICIONADA, P.O. 11 DE SEPTIEMBRE DE 2006)</small>
+
 IX. Dirigir personalmente las investigaciones que sean conducente (sic) para formular el escrito de atribución de hechos;
+
+> <small>(ADICIONADA, P.O. 11 DE SEPTIEMBRE DE 2006)</small>
 
 X. Valorar los resultados de su investigación con el fin de determinar la posición del órgano respecto del caso;
 
+> <small>(ADICIONADA, P.O. 11 DE SEPTIEMBRE DE 2006)</small>
+
 XI. Formular el escrito de atribución de hechos;
+
+> <small>(ADICIONADA, P.O. 11 DE SEPTIEMBRE DE 2006)</small>
 
 XII. Realizar durante el procedimiento todas las actuaciones necesarias para la procuración de la justicia, incluyendo ofrecimiento de pruebas, formulación de agravios, alegatos e interposición de recursos;
 
+> <small>(ADICIONADA, P.O. 11 DE SEPTIEMBRE DE 2006)</small>
+
 XIII. Asesorar a la víctima durante la fase de investigación y juicio;
 
+> <small>(ADICIONADA, P.O. 11 DE SEPTIEMBRE DE 2006)</small>
+
 XIV. Solicitar la reparación del daño para la víctima cuando proceda, y realizar todas las acciones tendientes a obtenerla; y,
+
+> <small>(ADICIONADA, P.O. 11 DE SEPTIEMBRE DE 2006)</small>
 
 XV. Las demás que determine la ley.
 
@@ -299,6 +359,18 @@ A ese fin, las Agencias del Ministerio Público estarán constituidas permanente
 
 Para el cumplimiento de sus atribuciones el Ministerio Público gozará de las más amplias facultades, pudiendo requerir informes, documentos y en general elementos de prueba a las dependencias y entidades de la administración pública estatal, así como de otras autoridades, organismos y de particulares, que puedan proporcionar elementos para el ejercicio de sus funciones.
 
+> <small>N. DE E. EN RELACION CON LA MATERIA DE NARCOMENUDEO PUBLICADO EN EL DECRETO NUMERO 322 DEL P.O. 29 DE AGOSTO DE 2011, CONSULTESE EL TRANSITORIO SEGUNDO.</small>
+
+> <small>(ADICIONADO, P.O. 29 DE AGOSTO DE 2011)</small>
+
+###### Artículo 17 Bis.
+
+Tratándose de los delitos de narcomenudeo previstos en los artículos 475, 476 y 477 de la Ley General de Salud, el Ministerio Público Federal para fines de investigación podrá autorizar al Ministerio Público del fuero común cuando lo estime pertinente, para que por conducto de la policía ministerial, bajo su conducción y mando, empleen las técnicas de investigación consistentes en comprar, adquirir o recibir la transmisión material de algún narcótico para lograr la detención del probable responsable del comercio o suministro de narcóticos o de la posesión de los mismos con dichos fines y el aseguramiento correspondiente.
+
+En la autorización a que se refiere el párrafo precedente, el Ministerio Público Federal, deberá señalar por escrito en la orden respectiva los lineamientos, términos, limitaciones, modalidades y condiciones a los que debe sujetarse el agente o agentes de la policía que deberán ejecutar la orden.
+
+En las actividades que desarrollen el o los policías que ejecuten la orden se considerará que actúan en cumplimiento de un deber, siempre que su actuación se apegue a los lineamientos, términos, modalidades, limitaciones y condiciones señalados en la orden que, por escrito, deberá emitir el Ministerio Público Federal, a que se refiere el párrafo anterior.
+
 ###### Artículo 18.
 
 Con el fin de desarrollar eficazmente sus funciones, el Ministerio Público podrá celebrar convenios, acuerdos y otros instrumentos de coordinación con instancias públicas federales, estatales y municipales, así como con personas físicas y morales de los sectores social y privado.
@@ -364,6 +436,12 @@ XVI. El personal que el servicio requiere.
 Para el despacho de los asuntos de su competencia, los órganos y dependencias enumerados en este artículo se auxiliarán con las Coordinaciones, Unidades, Departamentos y Módulos que se establezcan en el Reglamento de esta Ley, en el que también se indicarán sus funciones.
 
 Además, habrá las Delegaciones, Oficinas y Secciones que se creen por acuerdo del Procurador General de Justicia, en cuyo caso se tendrán en cuenta las necesidades del servicio y su capacidad presupuestal.
+
+> <small>N. DE E. EN RELACION CON LA MATERIA DE NARCOMENUDEO PUBLICADO EN EL DECRETO NUMERO 322 DEL P.O. 29 DE AGOSTO DE 2011, CONSULTESE EL TRANSITORIO SEGUNDO.</small>
+
+> <small>(ADICIONADO, P.O. 29 DE AGOSTO DE 2011)</small>
+
+Así mismo, deberá contar con unidades especializadas para la investigación de los delitos en materia de narcomenudeo que prevé la Ley General de Salud.
 
 ### CAPITULO II. DEL PROCURADOR GENERAL DE JUSTICIA
 
@@ -1107,9 +1185,11 @@ I. De los Agentes del Ministerio Público Investigadores:
 
 a). Residir en el lugar de su adscripción;
 
-> <small>(REFORMADO, P.O. 9 DE JULIO DE 1999)</small>
+> <small>N. DE E. EN RELACION CON LA MATERIA DE NARCOMENUDEO PUBLICADO EN EL DECRETO NUMERO 322 DEL P.O. 29 DE AGOSTO DE 2011, CONSULTESE EL TRANSITORIO SEGUNDO.</small>
 
-b). Recibir las denuncias o querellas por delitos del orden común;
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2011)</small>
+
+b). Recibir las denuncias o querellas por delitos del orden común y los autorizados por las leyes de conformidad con el artículo 73 fracción XXI, de la Constitución Política de los Estados Unidos Mexicanos.
 
 c). Iniciar las averiguaciones previas respectivas;
 
@@ -1716,3 +1796,11 @@ P.O. 27 DE MAYO DE 2011.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 29 DE AGOSTO DE 2011.
+
+PRIMERO. El presente decreto entrará en vigor el día de su publicación, salvo para la competencia en el delito de narcomenudeo.
+
+SEGUNDO. En materia de narcomenudeo, las autoridades competentes de la entidad conocerán de dicho delito a partir del día 21 de agosto de 2012, en cumplimiento al transitorio primero, párrafo tercero, del Decreto Federal publicado en el Diario Oficial de la Federación de fecha 20 de agosto de 2009.
+
+TERCERO. Durante la vacatio legis, los poderes Ejecutivo y Judicial deberán realizar las acciones necesarias para su debida observancia e instrumentación.
