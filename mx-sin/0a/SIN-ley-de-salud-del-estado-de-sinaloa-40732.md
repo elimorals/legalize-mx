@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-salud-del-estado-de-sinaloa-40732"
 country: "mx"
 rank: "ley"
 publication_date: "2004-09-03"
-last_updated: "2008-02-11"
+last_updated: "2011-08-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40732&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY DE SALUD DEL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE FEBRERO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE AGOSTO DE 2011.
 
 Ley publicada en el Periódico Oficial del Estado de Sinaloa, el viernes 3 de septiembre de 2004.
 
@@ -154,6 +154,46 @@ XVII. Las demás materias que determine esta ley y otras disposiciones legales a
 ###### Artículo 4°.
 
 El Gobierno del Estado se coordinará con las autoridades sanitarias federales para la ejecución de programas y acciones contra el alcoholismo, el tabaquismo, la farmacodependencia, conforme a las leyes de la materia y en forma particular con la Ley que Regula la Prestación de los Servicios de Prevención y Tratamiento de las Adicciones en Sinaloa.
+
+> <small>N. DE E. EN RELACION CON LA MATERIA DE NARCOMENUDEO PUBLICADO EN EL DECRETO NUMERO 322 DEL P.O. 29 DE AGOSTO DE 2011, CONSULTESE EL TRANSITORIO SEGUNDO.</small>
+
+> <small>(ADICIONADO, P.O. 29 DE AGOSTO DE 2011)</small>
+
+###### Artículo 4 Bis.
+
+La Secretaría de Salud, en el marco del Sistema Nacional de Salud, y para ejecutar los programas nacionales de prevención y tratamiento de la farmacodependencia de conformidad con los convenios respectivos, realizará, entre otras, las siguientes acciones:
+
+I. Organizar, promover, operar, supervisar y evaluar la prestación de servicios y campañas permanentes de información y orientación al público para la prevención de daños a la salud provocados por el consumo de estupefacientes y psicotrópicos; así como la atención médica o tratamiento de las adicciones mediante la aplicación del Programa Nacional para la Prevención y Tratamiento de la Farmacodependencia, en términos del artículo 192 de la Ley General de Salud;
+
+II. Coordinar y promover con los sectores público, privado y social las acciones para prevenir la farmacodependencia;
+
+III. Crear centros especializados en tratamiento, atención y rehabilitación, con base en sistemas modernos de tratamiento y rehabilitación que se regirán en el respeto a la integridad y libre voluntad del farmacodependiente, con excepción de lo previsto en el segundo párrafo del artículo 193 Bis de la Ley General de Salud;
+
+IV Crear y mantener actualizado un padrón de instituciones y organismos públicos y privados que realicen actividades de prevención, tratamiento, atención y reinserción social en materia de farmacodependencia;
+
+V. Crear indicadores y bases de datos que permitan identificar zonas, sectores y grupos de alto riesgo en materia de farmacodependencia;
+
+VI. Supervisar a las instituciones y organismos públicos y privados para que realicen actividades de prevención, tratamiento, atención y reinserción social en materia de farmacodependencia, apegándose al respecto de la integridad y libre decisión del farmacodependiente;
+
+VII. Construir indicadores públicos sobre los índices de farmacodependencia en el estado de Sinaloa; y,
+
+VIII. Fomentar la participación comunitaria y la coordinación con las autoridades federales y las instituciones públicas o privadas para la planeación, programación, ejecución y evaluación de los programas y acciones del proceso de superación de la farmacodependencia.
+
+Todos los programas y acciones para el combate a la farmacodependencia se regirán en el respeto a la integridad y a la libre voluntad del farmacodependiente.
+
+> <small>N. DE E. EN RELACION CON LA MATERIA DE NARCOMENUDEO PUBLICADO EN EL DECRETO NUMERO 322 DEL P.O. 29 DE AGOSTO DE 2011, CONSULTESE EL TRANSITORIO SEGUNDO.</small>
+
+> <small>(ADICIONADO, P.O. 29 DE AGOSTO DE 2011)</small>
+
+###### Artículo 4 Bis 1.
+
+Las instituciones y organismos públicos y privados que realicen actividades de prevención, tratamiento, atención y reinserción social en materia de farmacodependencia, deberán emitir a la Secretaría, en los plazos que se precisan, la siguiente información:
+
+I. Dentro de los diez días hábiles siguientes a la fecha de ingreso, los datos generales de las personas que reciben con la finalidad de otorgarles tratamiento, señalando el tipo de tratamiento o rehabilitación. Los datos personales que sean remitidos se considerarán información confidencial en los términos de la ley de la materia, por lo que no está permitida su divulgación; y,
+
+II. El número de farmacodependientes que concluyeron sus tratamientos.
+
+Esta información se utilizará exclusivamente con fines estadísticos y sin señalar identidades, para la prevención de la farmacodependencia. La información estará protegida en términos de la Ley de Acceso a la Información Pública del Estado de Sinaloa.
 
 ### CAPÍTULO II. DE LAS AUTORIDADES SANITARIAS Y SU COMPETENCIA
 
@@ -2808,6 +2848,14 @@ P.O. 11 DE FEBRERO DE 2008.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor un día después de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 29 DE AGOSTO DE 2011.
+
+PRIMERO. El presente decreto entrará en vigor el día de su publicación, salvo para la competencia en el delito de narcomenudeo.
+
+SEGUNDO. En materia de narcomenudeo, las autoridades competentes de la entidad conocerán de dicho delito a partir del día 21 de agosto de 2012, en cumplimiento al transitorio primero, párrafo tercero, del Decreto Federal publicado en el Diario Oficial de la Federación de fecha 20 de agosto de 2009.
+
+TERCERO. Durante la vacatio legis, los poderes Ejecutivo y Judicial deberán realizar las acciones necesarias para su debida observancia e instrumentación.
 
 ###### ARTÍCULO PRIMERO.
 
