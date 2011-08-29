@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-justicia-para-adolescentes-del-estado-de-sinaloa-51701"
 country: "mx"
 rank: "ley"
 publication_date: "2006-09-11"
-last_updated: "2009-03-30"
+last_updated: "2011-08-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51701&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,13 +21,15 @@ state: "SIN"
 ---
 # LEY DE JUSTICIA PARA ADOLESCENTES DEL ESTADO DE SINALOA
 
+> <small>[N. DE E. DE CONFORMIDAD CON LA LEY NACIONAL DEL SISTEMA INTEGRAL DE JUSTICIA PENAL PARA ADOLESCENTES, PUBLICADA EN EL D.O.F. DE 16 DE JUNIO DE 2016, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO. TRANSITORIOS: ARTÍCULO PRIMERO. VIGENCIA PARA LOS EFECTOS SEÑALADOS EN EL PÁRRAFO TERCERO DEL ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL DIARIO OFICIAL DE LA FEDERACIÓN EL 18 DE JUNIO DE 2008, SE DECLARA QUE LA PRESENTE LEGISLACIÓN INCORPORA EL SISTEMA PROCESAL PENAL ACUSATORIO Y ENTRARÁ EN VIGOR EL 18 DE JUNIO DE 2016. LOS REQUERIMIENTOS NECESARIOS PARA LA PLENA OPERACIÓN DEL SISTEMA INTEGRAL DE JUSTICIA PENAL PARA ADOLESCENTES DEBERÁN ESTAR INCORPORADOS EN UN PLAZO NO MAYOR A TRES AÑOS A PARTIR DE LA FECHA DE ENTRADA EN VIGOR DEL PRESENTE DECRETO. ARTÍCULO SEGUNDO. ABROGACIÓN SE ABROGA LA LEY PARA EL TRATAMIENTO DE MENORES INFRACTORES PARA EL DISTRITO FEDERAL EN MATERIA COMÚN Y PARA TODA LA REPÚBLICA EN MATERIA FEDERAL, PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN EL 24 DE DICIEMBRE DE 1991 Y SUS POSTERIORES REFORMAS. SE ABROGAN TAMBIÉN LAS LEYES RESPECTIVAS DE LAS ENTIDADES FEDERATIVAS VIGENTES A LA ENTRADA EN VIGOR DEL PRESENTE DECRETO, PARA EFECTOS DE SU APLICACIÓN EN LOS PROCEDIMIENTOS PENALES PARA ADOLESCENTES INICIADOS POR HECHOS QUE OCURRAN A PARTIR DE LA ENTRADA EN VIGOR DE LA PRESENTE LEY. ARTÍCULO TERCERO. CARGA CERO LOS PROCEDIMIENTOS PENALES PARA ADOLESCENTES QUE A LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO SE ENCUENTREN EN TRÁMITE, CONTINUARÁN SU SUSTANCIACIÓN DE CONFORMIDAD CON LA LEGISLACIÓN APLICABLE EN EL MOMENTO DEL INICIO DE LOS MISMOS.]</small>
+
 LEY DE JUSTICIA PARA ADOLESCENTES DEL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE MARZO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE AGOSTO DE 2011.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Sinaloa, el lunes 11 de septiembre de 2006.
 
-EL CIUDADANO LIC. JESUS A. AGUlLAR PADlLLA, Gobernador Constitucional del Estado Libre y Soberano de Sinaloa, a sus habitantes hace saber:
+EL CIUDADANO LIC. JESUS A. AGUILAR PADILLA, Gobernador Constitucional del Estado Libre y Soberano de Sinaloa, a sus habitantes hace saber:
 
 Que por el H. Congreso del mismo se le ha comunicado lo siguiente:
 
@@ -55,9 +57,17 @@ Esta Ley es de orden público e interés general. Tiene como objeto la creación
 
 Son sujetos de esta Ley:
 
-I. Las personas de entre 12 años cumplidos y 18 años no cumplidos de edad, denominados adolescentes, a quienes se atribuya o compruebe la realización de una conducta tipificada como delito en las leyes estatales;
+> <small>N. DE E. EN RELACION CON LA MATERIA DE NARCOMENUDEO PUBLICADO EN EL DECRETO NUMERO 322 DEL P.O. 29 DE AGOSTO DE 2011, CONSULTESE EL TRANSITORIO SEGUNDO.</small>
 
-II. Las personas de entre 18 años cumplidos y 25 no cumplidos de edad, a quienes se atribuya o compruebe la realización de una conducta tipificada como delito en las leyes estatales, cometida cuando eran adolescentes, a quienes se les aplicará el Sistema Estatal de Justicia para Adolescentes en todo aquello que proceda; y,
+> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2011)</small>
+
+I. Las personas de entre 12 años cumplidos y 18 años no cumplidos de edad, denominados adolescentes, a quienes se atribuya o compruebe la realización de una conducta tipificada como delito en las leyes estatales, en las leyes Federales o especiales, en materia de competencia concurrente.
+
+> <small>N. DE E. EN RELACION CON LA MATERIA DE NARCOMENUDEO PUBLICADO EN EL DECRETO NUMERO 322 DEL P.O. 29 DE AGOSTO DE 2011, CONSULTESE EL TRANSITORIO SEGUNDO.</small>
+
+> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2011)</small>
+
+II. Las personas de entre 18 años cumplidos y 25 no cumplidos de edad, a quienes se atribuya o compruebe la realización de una conducta tipificada como delito en las leyes estatales, en las leyes Federales o especiales, en materia de competencia concurrente, cometida cuando eran adolescentes, a quienes se les aplicará el Sistema Estatal de Justicia para Adolescentes en todo aquello que proceda; y,
 
 III. Las víctimas u ofendidos por las conductas referidas en las fracciones anteriores.
 
@@ -73,9 +83,17 @@ II. Reconocer los derechos y garantías de las personas sujetas al Sistema y gar
 
 III. Establecer las atribuciones y facultades de las autoridades, instituciones y órganos encargados de la aplicación del Sistema;
 
-IV. Establecer los procedimientos y mecanismos para determinar la responsabilidad de los adolescentes por la realización de una conducta tipificada como delito en las leyes penales estatales; y,
+> <small>N. DE E. EN RELACION CON LA MATERIA DE NARCOMENUDEO PUBLICADO EN EL DECRETO NUMERO 322 DEL P.O. 29 DE AGOSTO DE 2011, CONSULTESE EL TRANSITORIO SEGUNDO.</small>
 
-V. Regular la ejecución de las medidas aplicables a los adolescentes que resulten responsables por la realización de una conducta tipificada como delito en las leyes penales estatales.
+> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2011)</small>
+
+IV. Establecer los procedimientos y mecanismos para determinar la responsabilidad de los adolescentes por la realización de una conducta tipificada como delito en las leyes penales estatales, en las leyes Federales o especiales, en materia de competencia concurrente; y,
+
+> <small>N. DE E. EN RELACION CON LA MATERIA DE NARCOMENUDEO PUBLICADO EN EL DECRETO NUMERO 322 DEL P.O. 29 DE AGOSTO DE 2011, CONSULTESE EL TRANSITORIO SEGUNDO.</small>
+
+> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2011)</small>
+
+V. Regular la ejecución de las medidas aplicables a los adolescentes que resulten responsables por la realización de una conducta tipificada como delito en las leyes penales estatales, en las leyes Federales o especiales, en materia de competencia concurrente.
 
 ###### Artículo 4.
 
@@ -119,11 +137,19 @@ XVII. Libertad probatoria y libre valoración de la prueba.
 
 Esta Ley debe aplicarse e interpretarse de conformidad con los principios rectores del Sistema, la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado de Sinaloa, la Ley para la Protección de los Derechos de Niñas, Niños y Adolescentes del Estado de Sinaloa y los instrumentos internacionales aplicables en la materia, siempre en el sentido de maximizar los derechos de los adolescentes y de minimizar los efectos negativos de la aplicación del Sistema.
 
-Sólo en lo no previsto por esta Ley, podrá aplicarse supletoriamente el Código Penal y el Código de Procedimientos Penales, ambos del Estado de Sinaloa, siempre que no se opongan a los principios rectores y ordenamientos referidos, protegiendo la integridad de los derechos y garantías de los adolescentes.
+> <small>N. DE E. EN RELACION CON LA MATERIA DE NARCOMENUDEO PUBLICADO EN EL DECRETO NUMERO 322 DEL P.O. 29 DE AGOSTO DE 2011, CONSULTESE EL TRANSITORIO SEGUNDO.</small>
+
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2011)</small>
+
+Sólo en lo no previsto por esta Ley, podrá aplicarse supletoriamente el Código Penal y el Código de Procedimientos Penales, ambos del Estado de Sinaloa, así como, en lo conducente lo contenido en las leyes Federales o especiales, en materia de competencia concurrente, siempre que no se opongan a los principios rectores y ordenamientos referidos, protegiendo la integridad de los derechos y garantías de los adolescentes.
+
+> <small>N. DE E. EN RELACION CON LA MATERIA DE NARCOMENUDEO PUBLICADO EN EL DECRETO NUMERO 322 DEL P.O. 29 DE AGOSTO DE 2011, CONSULTESE EL TRANSITORIO SEGUNDO.</small>
+
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2011)</small>
 
 ###### Artículo 6.
 
-Para todos los efectos de esta Ley, la edad a considerar será la que tenía la persona al momento de realizar la conducta tipificada como delito en las leyes estatales; en caso de ser necesario, la edad se comprobará mediante el acta de nacimiento expedida por el Registro Civil, de conformidad con lo previsto por el Código Civil correspondiente, o bien, tratándose de extranjeros, por documento apostillado o legalizado. Cuando esto no sea posible, la comprobación se hará mediante dictamen médico rendido por los peritos que para tal efecto designe la autoridad correspondiente.
+Para todos los efectos de esta Ley, la edad a considerar será la que tenía la persona al momento de realizar la conducta tipificada como delito en las leyes estatales, en leyes Federales o especiales, en materia de competencia concurrente; en caso de ser necesario, la edad se comprobará mediante el acta de nacimiento expedida por el Registro Civil, de conformidad con lo previsto por el Código Civil correspondiente, o bien, tratándose de extranjeros, por documento apostillado o legalizado. Cuando esto no sea posible, la comprobación se hará mediante dictamen médico rendido por los peritos que para tal efecto designe la autoridad correspondiente.
 
 ###### Artículo 7.
 
@@ -295,11 +321,19 @@ XIX. Apelar el sobreseimiento.
 
 Los adolescentes podrán ser responsables por infringir la ley penal, en los casos y términos que se establecen en esta Ley.
 
-Quienes al realizar una conducta prevista como delito en las leyes del estado sean menores de doce años, sólo serán sujetos a rehabilitación y asistencia social conforme a las disposiciones legales aplicables y tendrán la protección que en su favor establecen las disposiciones jurídicas específicas.
+> <small>N. DE E. EN RELACION CON LA MATERIA DE NARCOMENUDEO PUBLICADO EN EL DECRETO NUMERO 322 DEL P.O. 29 DE AGOSTO DE 2011, CONSULTESE EL TRANSITORIO SEGUNDO.</small>
+
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2011)</small>
+
+Quienes al realizar una conducta prevista como delito en las leyes del estado, en leyes Federales o especiales, en materia de competencia concurrente, sean menores de doce años, sólo serán sujetos a rehabilitación y asistencia social conforme a las disposiciones legales aplicables y tendrán la protección que en su favor establecen las disposiciones jurídicas específicas.
+
+> <small>N. DE E. EN RELACION CON LA MATERIA DE NARCOMENUDEO PUBLICADO EN EL DECRETO NUMERO 322 DEL P.O. 29 DE AGOSTO DE 2011, CONSULTESE EL TRANSITORIO SEGUNDO.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE AGOSTO DE 2011)</small>
 
 ###### Artículo 14.
 
-Los adolescentes que al momento de realizar el hecho tipificado como delito en la ley padezcan de algún trastorno mental que les impida comprender la trascendencia y las consecuencias de la conducta realizada, quedan exentos de responsabilidad en los términos de la presente ley. En estos casos, o bien cuando el trastorno se presente durante el procedimiento o en la fase de ejecución, la autoridad judicial competente podrá entregar estas personas a quienes legalmente corresponda hacerse cargo de ellas.
+Los adolescentes que al momento de realizar el hecho tipificado como delito en la Ley Estatal, en leyes Federales o especiales, en materia de competencia concurrente, padezcan de algún trastorno mental que les impida comprender la trascendencia y las consecuencias de la conducta realizada, quedan exentos de responsabilidad en los términos de la presente Ley. En estos casos, o bien cuando el trastorno se presente durante el procedimiento o en la fase de ejecución, la autoridad judicial competente podrá entregar estas personas a quienes legalmente corresponda hacerse cargo de ellas.
 
 El Juez Especializado para Adolescentes, en su caso, podrá resolver sobre la adecuación de la medida, en forma provisional o definitiva, considerando las características del trastorno, así como las necesidades del tratamiento.
 
@@ -337,7 +371,11 @@ Los defensores públicos especializados para adolescentes estarán adscritos al 
 
 La organización, competencia y atribuciones de los órganos judiciales especializados para adolescentes serán las previstas en la Ley Orgánica del Poder Judicial del Estado de Sinaloa y esta Ley.
 
-Cuando se trate de conductas tipificadas como delito en las leyes penales estatales por las que proceda imponer medida de tratamiento en los términos del artículo 128 de esta Ley, si al resolver la sujeción a proceso el Juez Especializado para Adolescentes, a solicitud del Ministerio Público, impone la medida cautelar de detención preventiva en institución especializada, y en la circunscripción judicial no exista Centro de Internamiento para Adolescentes, declinará su competencia favor del Juez Especializado en cuya circunscripción lo haya, quien conocerá del proceso respectivo.
+> <small>N. DE E. EN RELACION CON LA MATERIA DE NARCOMENUDEO PUBLICADO EN EL DECRETO NUMERO 322 DEL P.O. 29 DE AGOSTO DE 2011, CONSULTESE EL TRANSITORIO SEGUNDO.</small>
+
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2011)</small>
+
+Cuando se trate de conductas tipificadas como delito en las leyes penales estatales, en leyes Federales o especiales, en materia de competencia concurrente, por las que proceda imponer medida de tratamiento en los términos del artículo 128 de esta Ley, si al resolver la sujeción a proceso el Juez Especializado para Adolescentes, a solicitud del Ministerio Público, impone la medida cautelar de detención preventiva en institución especializada, y en la circunscripción judicial no exista Centro de Internamiento para Adolescentes, declinará su competencia a favor del Juez Especializado en cuya circunscripción lo haya, quien conocerá del proceso respectivo.
 
 Lo anterior se observará, asimismo, si se imponen la medida de internamiento en tiempo libre o definitivo.
 
@@ -361,9 +399,13 @@ La violación de derechos y garantías de los adolescentes es causa de nulidad d
 
 ### CAPÍTULO II. De las Policías
 
+> <small>N. DE E. EN RELACION CON LA MATERIA DE NARCOMENUDEO PUBLICADO EN EL DECRETO NUMERO 322 DEL P.O. 29 DE AGOSTO DE 2011, CONSULTESE EL TRANSITORIO SEGUNDO.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE AGOSTO DE 2011)</small>
+
 ###### Artículo 23.
 
-Los agentes de las policías que en el ejercicio de sus funciones tengan contacto con niños, niñas o adolescentes presuntamente involucrados en conductas tipificadas como delito en las leyes, deberán ejercer sus funciones conforme a los siguientes deberes y atribuciones:
+Los agentes de las policías que en el ejercicio de sus funciones tengan contacto con niños, niñas o adolescentes presuntamente involucrados en conductas tipificadas como delito en las leyes estatales, en leyes Federales o especiales, en materia de competencia concurrente, deberán ejercer sus funciones conforme a los siguientes deberes y atribuciones:
 
 I. Apegarse a los principios, derechos y garantías previstos en esta Ley, en la Constitución Política de los Estados Unidos Mexicanos, en la Constitución Política del Estado de Sinaloa, en la Ley para la Protección de los Derechos de Niñas, Niños y Adolescentes del Estado de Sinaloa y en los tratados internacionales aplicables en la materia;
 
@@ -455,9 +497,13 @@ Los centros de internamiento tendrán la organización administrativa que determ
 
 ### CAPÍTULO I. Disposiciones Generales
 
+> <small>N. DE E. EN RELACION CON LA MATERIA DE NARCOMENUDEO PUBLICADO EN EL DECRETO NUMERO 322 DEL P.O. 29 DE AGOSTO DE 2011, CONSULTESE EL TRANSITORIO SEGUNDO.</small>
+
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2011)</small>
+
 ###### Artículo 27.
 
-El proceso para adolescentes tiene como objetivo establecer la existencia jurídica de una conducta tipificada como delito por las leyes penales estatales, determinar quién es su autor o partícipe, el grado de responsabilidad y, en su caso, determinar la aplicación de las medidas que correspondan conforme a esta Ley.
+El proceso para adolescentes tiene como objetivo establecer la existencia jurídica de una conducta tipificada como delito por las leyes Estatales, en leyes Federales o especiales, en materia de competencia concurrente, determinar quién es su autor o partícipe, el grado de responsabilidad y, en su caso, determinar la aplicación de las medidas que correspondan conforme a esta Ley.
 
 ###### Artículo 28.
 
@@ -531,13 +577,21 @@ Si las reglas establecidas en los artículos precedentes son estrictamente obser
 
 ### CAPÍTULO II. Investigación y Formulación de la Remisión
 
+> <small>N. DE E. EN RELACION CON LA MATERIA DE NARCOMENUDEO PUBLICADO EN EL DECRETO NUMERO 322 DEL P.O. 29 DE AGOSTO DE 2011, CONSULTESE EL TRANSITORIO SEGUNDO.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE AGOSTO DE 2011)</small>
+
 ###### Artículo 41.
 
-La investigación de las conductas tipificadas como delito por las leyes penales atribuidas a adolescentes corresponde al Ministerio Público para Adolescentes, quien la iniciará de oficio, o a petición de parte a partir de la denuncia que de manera verbal o escrita se le formule.
+La investigación de las conductas tipificadas como delito por las leyes estatales, en leyes Federales o especiales, en materia de competencia concurrente, atribuidas a adolescentes corresponde al Ministerio Público para Adolescentes, quien la iniciará de oficio, o a petición de parte a partir de la denuncia que de manera verbal o escrita se le formule.
 
 Los requisitos de procedibilidad para determinar la calificación de la atribución de la conducta de los adolescentes serán los previstos por las leyes aplicables.
 
-En los casos de conductas tipificadas como delito en las leyes penales estatales que se persiguen sólo por querella, el Ministerio Público para Adolescentes estará obligado a promover el acuerdo conciliatorio, en los términos de esta Ley.
+> <small>N. DE E. EN RELACION CON LA MATERIA DE NARCOMENUDEO PUBLICADO EN EL DECRETO NUMERO 322 DEL P.O. 29 DE AGOSTO DE 2011, CONSULTESE EL TRANSITORIO SEGUNDO.</small>
+
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2011)</small>
+
+En los casos de conductas tipificadas como delito en las leyes estatales, en leyes Federales o especiales, en materia de competencia concurrente, que se persiguen sólo por querella, el Ministerio Público para Adolescentes estará obligado a promover el acuerdo conciliatorio, en los términos de esta Ley.
 
 ###### Artículo 42.
 
@@ -553,7 +607,11 @@ Una vez reunido lo anterior, en caso de resultar procedente, formulará la remis
 
 Por cuerpo del delito se entiende el conjunto de los elementos objetivos o externos que constituyen la materialidad del hecho que la Ley señale como delito, así como los normativos, en el caso de que la descripción típica lo requiera.
 
-La probable responsabilidad del adolescente se tendrá por acreditada cuando de los medios probatorios existentes se deduzca su participación en la conducta considerada como delito por las leyes penales, la comisión dolosa o culposa del mismo, y no exista acreditada a favor del adolescente alguna causa de licitud o alguna excluyente de responsabilidad.
+> <small>N. DE E. EN RELACION CON LA MATERIA DE NARCOMENUDEO PUBLICADO EN EL DECRETO NUMERO 322 DEL P.O. 29 DE AGOSTO DE 2011, CONSULTESE EL TRANSITORIO SEGUNDO.</small>
+
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2011)</small>
+
+La probable responsabilidad del adolescente se tendrá por acreditada cuando de los medios probatorios existentes se deduzca su participación en la conducta considerada como delito por las leyes estatales, en leyes Federales o especiales, en materia de competencia concurrente, la comisión dolosa o culposa del mismo, y no exista acreditada a favor del adolescente alguna causa de licitud o alguna excluyente de responsabilidad.
 
 El cuerpo del delito y la probable responsabilidad se acreditarán por cualquier medio probatorio que señale la ley.
 
@@ -925,9 +983,13 @@ No se podrá invocar, dar lectura, ni incorporar como medio de prueba ningún an
 
 #### Sección II. Suspensión del Proceso a Prueba
 
+> <small>N. DE E. EN RELACION CON LA MATERIA DE NARCOMENUDEO PUBLICADO EN EL DECRETO NUMERO 322 DEL P.O. 29 DE AGOSTO DE 2011, CONSULTESE EL TRANSITORIO SEGUNDO.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE AGOSTO DE 2011)</small>
+
 ###### Artículo 87.
 
-En los casos en los que la conducta tipificada como delito en las leyes penales estatales esté sancionada con privación de libertad y siempre que el adolescente no se encuentre gozando del beneficio en proceso diverso, procederá la suspensión del proceso a prueba, a solicitud del Ministerio Público para Adolescentes.
+En los casos en los que la conducta tipificada como delito en las leyes estatales, en leyes Federales o especiales, en materia de competencia concurrente, esté sancionada con privación de libertad, excepto los establecidos como graves y siempre que el adolescente no se encuentre gozando del beneficio en proceso diverso, procederá la suspensión del proceso a prueba, a solicitud del Ministerio Público para Adolescentes.
 
 La suspensión del proceso podrá solicitarse en cualquier momento desde que el adolescente es puesto a disposición del Ministerio Público y hasta antes de la audiencia de juicio; y no impedirá el ejercicio de la acción civil ante los tribunales respectivos. Si efectuada la petición aún no existe remisión, se estará a una descripción sucinta de los hechos que haga el Ministerio Público para Adolescentes.
 
@@ -1023,9 +1085,13 @@ Las medidas de orientación y protección se aplicarán bajo el seguimiento de l
 
 #### Sección I. Apercibimiento
 
+> <small>N. DE E. EN RELACION CON LA MATERIA DE NARCOMENUDEO PUBLICADO EN EL DECRETO NUMERO 322 DEL P.O. 29 DE AGOSTO DE 2011, CONSULTESE EL TRANSITORIO SEGUNDO.</small>
+
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2011)</small>
+
 ###### Artículo 97.
 
-El apercibimiento es la llamada de atención enérgica que el Juez Especializado hace al adolescente, en forma oral, clara y directa, en un único acto, para hacerle comprender la gravedad de la conducta realizada y las consecuencias que la misma ha tenido o pudo haber tenido, tanto para la víctima o el ofendido, como para el propio adolescente, instándolo a cambiar su comportamiento, a no reincidir y conminándolo a aprovechar la oportunidad que se le da al imponérsele esta medida, que es la más benévola entre las que considera esta Ley. La finalidad de esta medida es la de conminar al adolescente para que evite la futura realización de conductas tipificadas como delitos en las leyes penales así como advertirle que, en el caso de reincidir en su conducta, se le aplicará una medida más severa.
+El apercibimiento es la llamada de atención enérgica que el Juez especializado hace al adolescente, en forma oral, clara y directa, en un único acto, para hacerle comprender la gravedad de la conducta realizada y las consecuencias que la misma ha tenido o pudo haber tenido, tanto para la víctima o el ofendido, como para el propio adolescente, instándolo a cambiar su comportamiento, a no reincidir y conminándolo a aprovechar la oportunidad que se le da al imponérsele esta medida, que es la más benévola entre las que considera esta Ley. La finalidad de esta medida es la de conminar al adolescente para que evite la futura realización de conductas tipificadas como delitos en las leyes estatales, en leyes Federales o especiales, en materia de competencia concurrente, así como advertirle que, en el caso de reincidir en su conducta, se le aplicará una medida más severa.
 
 ###### Artículo 98.
 
@@ -1988,3 +2054,11 @@ P.O. 30 DE MARZO DE 2009.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entra en vigor el día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 29 DE AGOSTO DE 2011.
+
+PRIMERO. El presente decreto entrará en vigor el día de su publicación, salvo para la competencia en el delito de narcomenudeo.
+
+SEGUNDO. En materia de narcomenudeo, las autoridades competentes de la entidad conocerán de dicho delito a partir del día 21 de agosto de 2012, en cumplimiento al transitorio primero, párrafo tercero, del Decreto Federal publicado en el Diario Oficial de la Federación de fecha 20 de agosto de 2009.
+
+TERCERO. Durante la vacatio legis, los poderes Ejecutivo y Judicial deberán realizar las acciones necesarias para su debida observancia e instrumentación.
