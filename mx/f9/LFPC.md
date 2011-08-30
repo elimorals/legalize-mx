@@ -4,7 +4,7 @@ identifier: "LFPC"
 country: "mx"
 rank: "ley_federal"
 publication_date: "1992-12-24"
-last_updated: "2011-05-26"
+last_updated: "2011-08-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=115&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LFPC"
 
 LEY FEDERAL DE PROTECCION AL CONSUMIDOR
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 26 DE MAYO DE 2011.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 30 DE AGOSTO DE 2011.
 
 Ley publicada en el Diario Oficial de la Federación, el jueves 24 de diciembre de 1992.
 
@@ -438,27 +438,13 @@ Las medidas precautorias se dictarán conforme a los criterios que al efecto exp
 
 Los proveedores están obligados a informar de inmediato a las autoridades si determinan que alguno de sus productos puede implicar riesgos para la vida o la salud de los consumidores.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, D.O.F. 30 DE AGOSTO DE 2011)</small>
+
 ###### ARTICULO 26.
 
-La Procuraduría tendrá legitimación procesal activa para ejercer ante los tribunales competentes acciones de grupo en representación de consumidores, para que dichos órganos, en su caso, dicten:
-
-> <small>(REFORMADA, D.O.F. 4 DE FEBRERO DE 2004)</small>
-
-I. Sentencia que declare que una o varias personas han realizado una conducta que ha ocasionado daños o perjuicios a consumidores y, en consecuencia, proceda la reparación por la vía incidental a los interesados que acrediten su calidad de perjudicados. La indemnización de daños y perjuicios que en su caso corresponda no podrá ser inferior al veinte por ciento de los mismos, o
-
-II. Mandamiento para impedir, suspender o modificar la realización de conductas que ocasionen daños o perjuicios a consumidores o previsiblemente puedan ocasionarlos.
-
-> <small>(ADICIONADO, D.O.F. 4 DE FEBRERO DE 2004)</small>
-
-La Procuraduría en representación de los consumidores afectados podrá ejercer por la vía incidental la reclamación de los daños y perjuicios que correspondan, en base a la sentencia emitida por la autoridad judicial.
-
-> <small>(REFORMADO, D.O.F. 4 DE FEBRERO DE 2004)</small>
-
-Las atribuciones que este artículo otorga a la Procuraduría se ejercitarán previo análisis de su procedencia, tomando en consideración la gravedad, el número de reclamaciones o denuncias que se hubieran presentado en contra del proveedor o la afectación general que pudiera causarse a los consumidores en su salud o en su patrimonio.
-
-> <small>(ADICIONADO, D.O.F. 4 DE FEBRERO DE 2004)</small>
-
-La Procuraduría estará exenta de presentar garantía alguna ante las autoridades judiciales competentes, para el ejercicio de las acciones señaladas en las fracciones I y II.
+Cuando se realicen actos, hechos u omisiones que vulneren derechos e intereses de una colectividad o grupo de consumidores, la Procuraduría, así como cualquier legitimado a que se refiere el artículo 585 del Código Federal de Procedimientos Civiles, podrán ejercitar la acción colectiva de conformidad con lo dispuesto en el Libro Quinto de dicho Código.
 
 ###### ARTICULO 27.
 
@@ -2125,3 +2111,17 @@ D.O.F. 28 DE ENERO DE 2011.
 D.O.F. 26 DE MAYO DE 2011.
 
 ÚNICO.- El presente decreto entrará en vigor en el mes de enero siguiente al de su publicación en el Diario Oficial de la Federación y durante ese plazo se deberán expedir los lineamientos a que hace referencia el artículo 29 BIS.
+
+D.O.F. 30 DE AGOSTO DE 2011.
+
+PRIMERO.- El presente Decreto entrará en vigor a los seis meses siguientes al día de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan a lo previsto en el presente Decreto.
+
+TERCERO.- La Cámara de Diputados aprobará las modificaciones presupuestales necesarias a efecto de lograr el efectivo cumplimiento del presente Decreto.
+
+CUARTO.- El Consejo de la Judicatura Federal, en el ámbito de las atribuciones que le han sido conferidas, dictará las medidas necesarias para lograr el efectivo cumplimiento del presente Decreto.
+
+QUINTO.- El Consejo de la Judicatura Federal deberá crear el Registro dentro de los noventa días siguientes a la entrada en vigor del presente decreto. El requisito previsto en la fracción II del artículo 620 del Código Federal de Procedimientos Civiles no será aplicable sino hasta después del primer año de entrada en vigor del presente Decreto.
+
+SEXTO.- El Consejo de la Judicatura Federal deberá crear el Fondo a que se refiere el Capítulo XI del Título Único del Libro Quinto del Código Federal de Procedimientos Civiles dentro de los noventa días siguientes a la entrada en vigor del presente decreto. Mientras el Fondo no sea creado, los recursos que deriven de los procedimientos colectivos serán depositados en una institución bancaria y serán controlados directamente por el juez de la causa.
