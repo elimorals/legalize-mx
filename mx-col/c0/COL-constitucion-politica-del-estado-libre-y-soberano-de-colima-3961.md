@@ -4,7 +4,7 @@ identifier: "COL-constitucion-politica-del-estado-libre-y-soberano-de-colima-396
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-10-20"
-last_updated: "2011-08-20"
+last_updated: "2011-08-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3961&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "COL"
 ---
 # CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE COLIMA
 
-CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE COLIMA
+CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE AGOSTO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE AGOSTO DE 2011.
 
 Constitución publicada en el Periódico Oficial "El Estado de Colima", los días 20, 27 de octubre y 3, 10, 17 y 24 de noviembre de 1917.
 
@@ -135,7 +135,7 @@ Las funciones que competen al Poder Legislativo se ejercen por una Cámara que s
 
 De los Diputados y de la Instalacion y Funciones del Congreso.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE JULIO DE 1999)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE JULIO DE 1999)</small>
 
 ###### Artículo 22.
 
@@ -227,7 +227,7 @@ El Congreso se renovará totalmente y cambiará su nomenclatura cada tres años.
 
 Reunidos los Diputados el día antes indicado y en caso de no haber quórum, los presentes compelerán a los faltantes para que asistan dentro de los cinco días.
 
-> <small>N. DE E. POR UN ERROR EN LA EDICION SE PUBLICO DOS VECES EL PARRAFO ARRIBA CITADO.</small>
+> <small>N. DE E. POR UN ERROR EN LA EDICIÓN SE PUBLICO DOS VECES EL PÁRRAFO ARRIBA CITADO.</small>
 
 > <small>(ADICIONADO, P.O. 29 DE AGOSTO DE 2005)</small>
 
@@ -239,7 +239,7 @@ Reunidos los Diputados el día antes indicado y en caso de no haber quórum, los
 
 El Congreso se reunirá en dos períodos ordinarios de sesiones, en los que se ocupará de estudiar, discutir y votar las Iniciativas de leyes que se presenten, así como de resolver toda clase de asuntos de su competencia.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 31 DE MAYO DE 2008)</small>
 
@@ -439,7 +439,7 @@ XLI BIS.- Para expedir leyes que instituyan Tribunales de lo Contencioso Adminis
 
 XLII.- Para expedir todas las leyes que sean necesarias, a objeto de hacer efectivas las facultades anteriores y todas las otras concedidas por las Constituciones Federal y Estatal.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 22 DE JULIO DE 2000)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 22 DE JULIO DE 2000)</small>
 
 ### CAPITULO IV.
 
@@ -457,7 +457,7 @@ En los recesos del Congreso, funcionará una Comisión Permanente integrada por 
 
 La Comisión Permanente no podrá tener acuerdos sin la concurrencia de cinco del total de sus miembros.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE JULIO DE 2000)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE JULIO DE 2000)</small>
 
 ###### Artículo 36.
 
@@ -615,7 +615,9 @@ V.- No haber figurado directa ni indirectamente en alguna asonada, motín o cuar
 
 VI.- No estar en servicio activo de las fuerzas armadas y de los cuerpos de seguridad pública, a menos que se separe del cargo, por lo menos, un día antes del inicio del periodo de registro de candidatos;
 
-VII.- No ser Secretario de la Administración Pública Estatal, el Oficial Mayor, Procurador General de Justicia, Magistrado del Supremo Tribunal de Justicia o Presidente Municipal, a menos que se separe del cargo, por lo menos, un día antes del inicio del periodo de registro de candidatos; y
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2011)</small>
+
+VII. No ser Secretario de la Administración Pública Estatal, Procurador General de Justicia, Magistrado del Supremo Tribunal de Justicia o Presidente Municipal, a menos que se separe del cargo, por lo menos, un día antes del inicio del período de registro de candidatos; y
 
 VIII.- No haberse desempeñado como Gobernador del Estado de Colima electo popularmente o de otra entidad federativa, ni como jefe de gobierno del Distrito Federal o cualquier otra atribución que se refiera a las mismas funciones y atribuciones.
 
@@ -625,7 +627,7 @@ VIII.- No haberse desempeñado como Gobernador del Estado de Colima electo popul
 
 El Gobernador será electo popular y directamente, entrará en ejercicio de sus funciones el día primero de noviembre del año de su elección; durará en su encargo seis años y no podrá volver a ser electo.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE JULIO DE 2000)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE JULIO DE 2000)</small>
 
 ###### Artículo 53.
 
@@ -687,9 +689,9 @@ II.- Promulgar, ejecutar y hacer que se ejecuten las Leyes y Decretos haciendo u
 
 III.- Formar los reglamentos y dictar las providencias que demande la mejor ejecución de las leyes.
 
-> <small>(REFORMADA, P.O. 26 DE MARZO DE 1994)</small>
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2011)</small>
 
-IV.- Nombrar y remover libremente a los Secretarios de la Administración Pública Estatal, al Procurador General de Justicia, al Oficial Mayor y a los demás servidores públicos cuyos nombramientos o remoción no corresponda, conforme a la ley, a otra autoridad.
+IV. Nombrar y remover libremente a los Secretarios de la Administración Pública Estatal, al Procurador General de Justicia y a los demás servidores públicos cuyos nombramientos o remoción no correspondan, conforme a la ley, a otra autoridad.
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE MARZO DE 1994)</small>
 
@@ -749,7 +751,7 @@ XVIII Bis.- Presentar al Congreso del Estado para su revisión y fiscalización 
 
 XIX.- Dirigir y fomentar por todos los medios lícitos posibles, la Educación Pública, de acuerdo con esta Constitución y la Federal: y procurar el adelanto y mejoramiento social en todos los órdenes.
 
-(REFORMADA, P.O. 8 DE OCTUBRE DE 1932) (REPUBLICADA, P.O. 29 DE OCTUBRE DE 1932)
+(REFORMADA, P.O. 8 DE OCTUBRE DE 1932) (REPUBLICADA [N. DE E. REFORMADA], P.O. 29 DE OCTUBRE DE 1932)
 
 XX.- Expedir títulos profesionales a quienes hubieren justificado haber sido aprobados en los exámenes correspondientes, conforme a los reglamentos vigentes en las escuelas profesionales establecidas en el Estado.
 
@@ -863,11 +865,11 @@ VII.- Ausentarse del Territorio del Estado por más de treinta días sin licenci
 
 De la Administración Pública del Estado.
 
-> <small>(REFORMADO Y REUBICADO, P.O. 26 DE MARZO DE 1994)</small>
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2011)</small>
 
 ###### Artículo 60.
 
-Para el despacho de los asuntos que son competencia del Poder Ejecutivo, éste se auxiliará de un Secretario General de Gobierno y de los Secretarios, Oficial Mayor, Procurador General de Justicia y demás servidores públicos de las dependencias que forman la administración pública centralizada y descentralizada, en los términos de la Ley Orgánica de la Administración Pública del Estado.
+Para el despacho de los asuntos que son competencia del Poder Ejecutivo, éste se auxiliará de un Secretario General de Gobierno y de los Secretarios, Procurador General de Justicia y demás servidores públicos de las dependencias que forman la administración pública centralizada, y descentralizada, en los términos de la Ley Orgánica de la Administración Pública del Estado.
 
 (REUBICADO, P.O. 26 DE MARZO DE 1994)
 
@@ -887,11 +889,11 @@ Para ser Secretario de Administración Pública Estatal, se requieren los mismos
 
 Todas (sic) los reglamentos, decretos, acuerdos y órdenes del Ejecutivo, deberán ser refrendados con carácter obligatorio por el Secretario General de Gobierno y por los Secretarios del ramo a que el asunto corresponda.
 
-> <small>(REFORMADO Y REUBICADO, P.O. 26 DE MARZO DE 1994)</small>
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2011)</small>
 
 ###### Artículo 64.
 
-Mientras se encuentren en ejercicio de su cargo los Secretarios de la Administración Pública Estatal, el Oficial Mayor, el Procurador General de Justicia del Estado, no podrán desempeñar actividades profesionales que impliquen el ejercicio libre de su profesión o el Notariado.
+Mientras se encuentren en ejercicio de su cargo los secretarios de la Administración Pública Estatal y el Procurador General de Justicia del Estado, no podrán desempeñar actividades profesionales que impliquen el ejercicio libre de su profesión o el Notariado.
 
 > <small>(REFORMADO Y REUBICADO, P.O. 26 DE MARZO DE 1994)</small>
 
@@ -955,7 +957,7 @@ IV.- Gozar de buena reputación y no haber sido condenado por delito que amerite
 
 V.- Haber residido en el país durante los dos años anteriores al día de la designación.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE FEBRERO DE 1997)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE FEBRERO DE 1997)</small>
 
 ###### Artículo 70.
 
@@ -1073,7 +1075,7 @@ Los magistrados rendirán su protesta ante el H. Congreso del Estado, en sesión
 
 Durante el ejercicio de su encargo los miembros del Poder Judicial no podrán ejercer la profesión de abogado ni las funciones de notario público, salvo que estén desempeñando el cargo con el carácter de suplente y por un término que no exceda de tres meses.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 31 DE MAYO DE 2008)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE MAYO DE 2008)</small>
 
 ## TITULO V.
 
@@ -1105,7 +1107,7 @@ El Tribunal estará integrado por un magistrado propietario y los supernumerario
 
 Estará a cargo del Tribunal de Arbitraje y Escalafón la función jurisdiccional para resolver las controversias de carácter laboral entre el Estado, los municipios, los organismos descentralizados de ambos, con los servidores públicos a su cargo; en este aspecto se regirán por la ley de la materia y sus reglamentos.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 13 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 13 DE AGOSTO DE 2011)</small>
 
 ### CAPITULO III.
 
@@ -1149,7 +1151,7 @@ La Defensoría de Pública es una Institución de orden público obligatoria y g
 
 La Ley organizará el Ministerio Público y la Defensoría Pública, fijará sus funciones y la estructura administrativa correspondiente, así como el nombramiento y remoción de sus integrantes.
 
-> <small>(REFORMADA SU NUMERACION, P.O. 26 DE MARZO DE 1994)</small>
+> <small>(REFORMADA SU NUMERACIÓN, P.O. 26 DE MARZO DE 1994)</small>
 
 ### CAPITULO IV.
 
@@ -1173,7 +1175,7 @@ La Comisión no será competente tratándose de asuntos electorales, laborales y
 
 La ley orgánica determinará la forma de integración, su estructura y funcionamiento de dicho organismo, así como la responsabilidad en que incurran las autoridades, servidores públicos y particulares, que no atiendan los requerimientos de la Comisión.
 
-(REUBICADO Y REFORMADA SU NUMERACION, P.O. 26 DE MARZO DE 1994)
+(REUBICADO Y REFORMADA SU NUMERACIÓN, P.O. 26 DE MARZO DE 1994)
 
 ### CAPITULO UNICO.
 
@@ -1549,7 +1551,7 @@ Los Ayuntamientos presentarán al Congreso del Estado su cuenta pública anual, 
 
 La aprobación del dictamen de revisión por el Cabildo no impide que, en su caso, el Congreso del Estado finque responsabilidades a los servidores públicos que hayan incurrido en ellas.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE JULIO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE JULIO DE 2011)</small>
 
 ###### Artículo 96.
 
@@ -1677,51 +1679,51 @@ III. Por el gasto público, que estará contenido en el Presupuesto de Egresos d
 
 IV. Por las obligaciones a cargo del Estado, derivadas de empréstitos, garantías, avales, contratos de colaboración públicos, privados y demás actos jurídicos.
 
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2011)</small>
+
 ###### Artículo 109.
 
-El Congreso expedirá la ley de Hacienda que establezca las bases generales para la fijación de los impuestos y la manera de hacerlos efectivos.
+El Congreso expedirá la Ley de Hacienda que establezca las bases generales para la fijación de las contribuciones y la manera de hacerlas efectivas.
 
-> <small>(REFORMADO, P.O. 20 DE JUNIO DE 2009)</small>
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2011)</small>
 
 ###### Artículo 110.
 
-Habrá en el Estado una oficina encargada de la recaudación y distribución de los caudales públicos, que se denominará Secretaría de Finanzas del Estado y que estará a cargo del Secretario respectivo.
+Habrá en el Estado una dependencia encargada de la recaudación y distribución de los caudales públicos, así como de la administración del patrimonio del Estado, que se denominará Secretaría de Finanzas y Administración del Estado y que estará a cargo del Secretario respectivo.
 
-En las cabeceras de cada Municipio en donde la Secretaría de Finanzas del Estado lo juzgue conveniente, habrá una oficina encargada de recaudar los impuestos y contribuciones que correspondan al Estado, que se denominará Receptoría de Rentas y estará a cargo de un Receptor.
+En las cabeceras de cada Municipio o en donde la Secretaría de Finanzas y Administración del Estado lo juzgue conveniente, habrá oficinas encargadas de recaudar las contribuciones que correspondan al Estado, que se denominarán Receptoría de Rentas y estarán cada una de ellas a cargo de un Receptor de Rentas.
 
 ###### Artículo 111.
 
 En cada una de las cabeceras de las Municipalidades habrá una Oficina que recaudará los arbitrios Municipales y que se denominará "Tesorería Municipal" y estará a cargo de un Tesorero Municipal.
 
-> <small>(REFORMADO, P.O. 20 DE JUNIO DE 2009)</small>
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2011)</small>
 
 ###### Artículo 112.
 
-Las oficinas a que se refiere el artículo anterior, podrán ejercer la facultad económico-coactiva para hacer efectivos los impuestos y contribuciones decretados por las leyes.
+Las oficinas a que se refieren los dos artículos anteriores, podrán ejercer la facultad económico-coactiva para hacer efectivas las contribuciones decretadas por las leyes.
 
-> <small>(REFORMADO, P.O. 20 DE JUNIO DE 2009)</small>
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2011)</small>
 
 ###### Artículo 113.
 
-Los encargados de las oficinas de referencia, distribuirán los caudales públicos con estricto arreglo al presupuesto y serán responsables personal y pecuniariamente, por los gastos que hicieren u ordenaren sin estar comprendidos o autorizados por una Ley posterior.
+El Secretario de Finanzas y Administración del Estado y los tesoreros municipales, distribuirán los caudales públicos con estricto apego al presupuesto y serán responsables personal y pecuniariamente, por los gastos que hicieren u ordenaren sin estar comprendidos o autorizados por una Ley posterior.
 
-> <small>(REFORMADO, P.O. 20 DE JUNIO DE 2009)</small>
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2011)</small>
 
 ###### Artículo 114.
 
-El Secretario de Finanzas del Estado y los demás empleados que manejen fondos públicos, otorgarán fianza en la forma que la Ley determine.
-
-> <small>(REFORMADO, P.O. 20 DE JUNIO DE 2009)</small>
+El Secretario de Finanzas y Administración del Estado y los demás empleados que manejen fondos públicos, otorgarán fianza en la forma que la Ley determine.
 
 ###### Artículo 115.
 
-El Tribunal Fiscal Unitario del Estado es el órgano supremo administrativo fiscal y conocerá en la forma y términos que establezca el procedimiento contencioso del Título Segundo del Código Administrativo de esta misma Entidad, de las inconformidades de los causantes en contra de las resoluciones dictadas por las autoridades fiscales del Estado.
+(DEROGADO, P.O. 30 DE AGOSTO DE 2011)
 
 > <small>(ADICIONADO, P.O. 20 DE JUNIO DE 2009)</small>
 
 ## TITULO X.
 
-> <small>(REFORMADA SU NUMERACION, P.O. 20 DE JUNIO DE 2009)</small>
+> <small>(REFORMADA SU NUMERACIÓN, P.O. 20 DE JUNIO DE 2009)</small>
 
 ### CAPITULO II.
 
@@ -1777,7 +1779,7 @@ En caso de no proporcionar los auxilios o la información requerida, los respons
 
 De las Responsabilidades de los Servidores Públicos.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE SEPTIEMBRE DE 1996)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE SEPTIEMBRE DE 1996)</small>
 
 ###### Artículo 119.
 
@@ -1791,7 +1793,7 @@ El Gobernador del Estado, los Diputados a la Legislatura Local y los Magistrados
 
 Se concede acción popular para exigir la responsabilidad de los funcionarios y empleados públicos, a excepción de la que provenga de delitos en que se requiera la querella necesaria.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE FEBRERO DE 1997)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE FEBRERO DE 1997)</small>
 
 ###### Artículo 121.
 
@@ -2037,11 +2039,11 @@ El Estado de Colima reconoce, protege y garantiza a toda persona, el goce de sus
 
 Esta Constitución, para todos los efectos legales a que diere lugar, cuando haga referencia a los vocablos persona, individuo u hombre, incluyendo en su respectivo plural, así como, a la calidad de su función, se entenderá indistintamente al género femenino o masculino. De igual forma, cuando sea el caso de denominaciones a cargos públicos, se enunciarán en el género femenino o masculino que corresponda con el propio de quienes los ocupen o desempeñen.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE MARZO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE MARZO DE 2009)</small>
 
 Con respecto a la vida, la libertad, igualdad y seguridad jurídica, se establecen las siguientes declaraciones:
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE MARZO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE MARZO DE 2009)</small>
 
 I.- La vida es un derecho inherente a todo ser humano. El Estado protegerá y garantizará este derecho desde el momento de la concepción. La familia constituye la base fundamental de la sociedad. El Estado fomentará su organización y desarrollo, por la misma razón; el hogar y, particularmente, los niños serán objeto de especial protección por parte de las autoridades. Toda medida o disposición protectora de la familia y de la niñez, se considerarán de orden público. El niño tiene derecho desde su nacimiento a que se le inscriba en el Registro Civil y a tener un nombre.
 
@@ -2147,13 +2149,13 @@ El Estado es libre y soberano en su régimen interior, pero unido a las demás p
 
 La soberanía del Estado reside en el pueblo y en nombre de éste la ejerce el poder público, del modo y en los términos que establecen las Constituciones Federal y Estatal.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE SEPTIEMBRE DE 1989)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE SEPTIEMBRE DE 1989)</small>
 
 ###### Artículo 4°.
 
 El Poder Público se constituye para beneficio del pueblo y tiene su origen en la voluntad de éste, expresada en la forma que establezca esta Constitución y las Leyes Orgánicas.
 
-> <small>(DEROGADO SEGUNDO PARRAFO, P.O. 23 DE SEPTIEMBRE DE 1989)</small>
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 23 DE SEPTIEMBRE DE 1989)</small>
 
 ###### Artículo 5°.
 
@@ -2211,7 +2213,7 @@ Por tanto, mando se imprima, publique, circule y se le dé el debido cumplimient
 
 J.F. Valle.- Ramón Ahumada, Srio.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE CONSTITUCION.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 4 DE OCTUBRE DE 1924.
 
@@ -2233,7 +2235,7 @@ a) Acatar puntualmente lo establecido en la Constitución General de la Repúbli
 
 b) Contribuir para los gastos públicos que dispongan las leyes, obedecer y respetar las instituciones, leyes y autoridades del Estado, sujetándose a los fallos y sentencias de los tribunales, sin intentar otros recursos que los que se conceden a los mexicanos.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 26 DE JULIO DE 1999)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 26 DE JULIO DE 1999)</small>
 
 ###### Artículo 10.
 
@@ -2277,7 +2279,7 @@ Las prerrogativas y obligaciones de los ciudadanos del Estado de Colima son las 
 
 Ejercer la facultad de iniciativa popular y participar en los procesos de referéndum y plebiscito, en la forma y términos que señale esta Constitución y la Ley respectiva.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE JULIO DE 1999)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE JULIO DE 1999)</small>
 
 ###### Artículo 14.
 
@@ -2317,7 +2319,7 @@ Este Decreto comenzará a surtir sus efectos a partir de la fecha de su publicac
 
 P.O. 18 DE JUNIO DE 1932.
 
-> <small>N. DE E. EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ORDENAMIENTO CIVIL VIGENTE PARA EL ESTADO DE COLIMA.</small>
+> <small>N. DE E. EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ORDENAMIENTO CIVIL VIGENTE PARA EL ESTADO DE COLIMA.</small>
 
 P.O. 24 DE SEPTIEMBRE, 1, 8 Y 15 DE OCTUBRE DE 1932.
 
@@ -2477,13 +2479,13 @@ Este Decreto surtirá sus efectos a partir de la fecha de su publicación en el 
 
 P.O. 30 DE ENERO DE 1954.
 
-DECRETO NO. 128, QUE REFORMA, ADICIONA Y DEROGA LOS ARTICULOS 33 Y 36 DE LA CONSTITUCION DEL ESTADO.
+DECRETO No. 128, QUE REFORMA, ADICIONA Y DEROGA LOS ARTÍCULOS 33 Y 36 DE LA CONSTITUCIÓN DEL ESTADO.
 
 Este Decreto surtirá sus efectos a partir de la fecha de su publicación en el Periódico Oficial del Estado.
 
 P.O. 30 DE ENERO DE 1954.
 
-DECRETO NO. 129, QUE REFORMA, ADICIONA Y DEROGA LOS ARTICULOS 68, 70, 72, 74, 75, 77, 78 Y 79 DE LA CONSTITUCION DEL ESTADO.
+DECRETO No. 129, QUE REFORMA, ADICIONA Y DEROGA LOS ARTÍCULOS 68, 70, 72, 74, 75, 77, 78 Y 79 DE LA CONSTITUCIÓN DEL ESTADO.
 
 Este Decreto surtirá sus efectos a partir de la fecha de su publicación en el Periódico Oficial del Estado.
 
@@ -2523,7 +2525,7 @@ Este Decreto empezará a surtir sus efectos a partir de la fecha de su expedici�
 
 P.O. 3 DE JUNIO DE 1967.
 
-SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA CONSTITUCION.
+SE TRANSCRIBEN ÚNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA CONSTITUCIÓN.
 
 ###### ARTICULO PRIMERO.
 
@@ -2585,37 +2587,37 @@ UNICO.- El presente decreto entrará en vigor al día siguiente de su publicaci�
 
 P.O. 23 DE SEPTIEMBRE DE 1989.
 
-DECRETO No. 45, QUE REFORMA Y ADICIONA ARTICULOS 33 y 87 DE LA CONSTITUCION DEL ESTADO.
+DECRETO No. 45, QUE REFORMA Y ADICIONA ARTÍCULOS 33 Y 87 DE LA CONSTITUCIÓN DEL ESTADO.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "EL ESTADO DE COLIMA".
 
 P.O. 23 DE SEPTIEMBRE DE 1989.
 
-DECRETO No. 46, QUE REFORMA, ADICIONA Y DEROGA LOS ARTICULOS 4, 8, 9, 10, 30, 33, 51, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 80, 81, 82, 83, 84, 85, 86 BIS, 88, 91, 94 Y EL TITULO VI BIS DE LA CONSTITUCION DEL ESTADO.
+DECRETO No. 46, QUE REFORMA, ADICIONA Y DEROGA LOS ARTÍCULOS 4, 8, 9, 10, 30, 33, 51, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 80, 81, 82, 83, 84, 85, 86 BIS, 88, 91, 94 Y EL TÍTULO VI BIS DE LA CONSTITUCIÓN DEL ESTADO.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "EL ESTADO DE COLIMA".
 
 P.O. 5 DE ENERO DE 1991.
 
-DECRETO No. 110, QUE REFORMA EL PARRAFO SEGUNDO DE LA FRACCION I DEL ARTICULO 87 DE LA CONSTITUCION DEL ESTADO.
+DECRETO No. 110, QUE REFORMA EL PÁRRAFO SEGUNDO DE LA FRACCIÓN I DEL ARTÍCULO 87 DE LA CONSTITUCIÓN DEL ESTADO.
 
 UNICO.- El Presente Decreto surtirá sus efectos a partir del día 30 de septiembre de mil novecientos noventa y uno y deberá publicarse en el Periódico Oficial "El Estado de Colima".
 
 P.O. 5 DE ENERO DE 1991.
 
-DECRETO No. 134, QUE REFORMA EL PUNTO 1 DE LA FRACCION VIII DEL ARTICULO 87 DE LA CONSTITUCION DEL ESTADO.
+DECRETO No. 134, QUE REFORMA EL PUNTO 1 DE LA FRACCIÓN VIII DEL ARTÍCULO 87 DE LA CONSTITUCIÓN DEL ESTADO.
 
 UNICO.- El Presente Decreto surtirá sus efectos a partir del día 30 de septiembre de 1991 y deberá publicarse en el Periódico Oficial "El Estado de Colima".
 
 P.O. 5 DE ENERO DE 1991.
 
-DECRETO No. 135, QUE REFORMA LOS PARRAFOS PRIMERO, SEGUNDO Y LAS FRACCIONES I Y IV DEL ARTICULOS 22; EL SEGUNDO PARRAFO Y LAS FRACCIONES VI, VIII Y IX, ADICIONADOSE LAS FRACCIONES X Y XI AL ARTICULO 104, DE LA CONSTITUCION DEL ESTADO.
+DECRETO No. 135, QUE REFORMA LOS PÁRRAFOS PRIMERO, SEGUNDO Y LAS FRACCIONES I Y IV DEL ARTÍCULOS 22; EL SEGUNDO PÁRRAFO Y LAS FRACCIONES VI, VIII Y IX, ADICIONÁNDOSE LAS FRACCIONES X Y XI AL ARTÍCULO 104, DE LA CONSTITUCIÓN DEL ESTADO.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
 
 P.O. 5 DE ENERO DE 1991.
 
-DECRETO No. 136, QUE REFORMA EL ARTICULO 86 BIS DE LA CONSTITUCION DEL ESTADO.
+DECRETO No. 136, QUE REFORMA EL ARTÍCULO 86 BIS DE LA CONSTITUCIÓN DEL ESTADO.
 
 UNICO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
 
@@ -2665,7 +2667,7 @@ UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicaci�
 
 P.O. 26 DE JULIO DE 1999.
 
-DECRETO No. 168, QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ARTICULOS DE LA CONSTITUCION DEL ESTADO.
+DECRETO No. 168, QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ARTÍCULOS DE LA CONSTITUCIÓN DEL ESTADO.
 
 ###### ARTICULO UNICO.
 
@@ -2673,7 +2675,7 @@ El presente decreto entrará en vigor al día siguiente de su publicación en el
 
 P.O. 26 DE JULIO DE 1999.
 
-DECRETO No. 169, QUE REFORMA EL ARTICULO 22 DE LA CONSTITUCION DEL ESTADO.
+DECRETO No. 169, QUE REFORMA EL ARTÍCULO 22 DE LA CONSTITUCIÓN DEL ESTADO.
 
 ###### ARTÍCULO UNICO.
 
@@ -2687,13 +2689,13 @@ El presente decreto entrará en vigor al día siguiente de su publicación en el
 
 P.O. 11 DE DICIEMBRE DE 1999.
 
-DECRETO No. 207, POR EL QUE SE REFORMAN Y ADICIONAN DIVERSOS ARTICULOS DE LA CONSTITUCION DEL ESTADO.
+DECRETO No. 207, POR EL QUE SE REFORMAN Y ADICIONAN DIVERSOS ARTÍCULOS DE LA CONSTITUCIÓN DEL ESTADO.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
 
 P.O. 11 DE DICIEMBRE DE 1999.
 
-DECRETO No. 208, POR EL QUE SE REFORMA EL ARTICULO 144 Y SE DEROGA EL ARTICULO 6° TRANSITORIO DE LA CONSTITUCION DEL ESTADO.
+DECRETO No. 208, POR EL QUE SE REFORMA EL ARTÍCULO 144 Y SE DEROGA EL ARTÍCULO 6° TRANSITORIO DE LA CONSTITUCIÓN DEL ESTADO.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
 
@@ -2765,7 +2767,7 @@ El Ayuntamiento del Municipio de Tecomán, para la administración municipal 200
 
 P.O. 23 DE JULIO DE 2002.
 
-DECRETO No. 228, QUE REFORMA LOS ARTICULOS 33, 58 Y 86 DE LA CONSTITUCION DEL ESTADO.
+DECRETO No. 228, QUE REFORMA LOS ARTÍCULOS 33, 58 Y 86 DE LA CONSTITUCIÓN DEL ESTADO.
 
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
@@ -2773,7 +2775,7 @@ SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente ordenami
 
 P.O. 23 DE JULIO DE 2002.
 
-DECRETO No. 229, QUE REFORMA LOS ARTICULOS 1, 67, 68 Y 74 DE LA CONSTITUCION DEL ESTADO.
+DECRETO No. 229, QUE REFORMA LOS ARTÍCULOS 1, 67, 68 Y 74 DE LA CONSTITUCIÓN DEL ESTADO.
 
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el periódico Oficial del Estado.
 
@@ -2781,7 +2783,7 @@ SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente ordenami
 
 P.O. 23 DE JULIO DE 2002.
 
-DECRETO NO. 230, QUE REFORMA LOS ARTICULOS 22, 24, 51, 86 BIS, 89 Y 90 DE LA CONSTITUCION DEL ESTADO.
+DECRETO No. 230, QUE REFORMA LOS ARTÍCULOS 22, 24, 51, 86 BIS, 89 Y 90 DE LA CONSTITUCIÓN DEL ESTADO.
 
 UNICO.- El presente decreto entrará en vigor el día de su publicación en el Periódico Oficial "El Estado de Colima".
 
@@ -2793,13 +2795,13 @@ SEGUNDO.- Por esta única vez, las autoridades auxiliares municipales de los H. 
 
 P.O. 10 DE ABRIL DE 2004.
 
-DECRETO No. 70, QUE REFORMA EL ARTICULO 29 DE LA CONSTITUCION DEL ESTADO.
+DECRETO No. 70, QUE REFORMA EL ARTÍCULO 29 DE LA CONSTITUCIÓN DEL ESTADO.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 P.O. 10 DE ABRIL DE 2004.
 
-DECRETO No. 71, QUE REFORMA EL ARTICULO 69 EN SUS FRACCIONES II, III Y V DE LA CONSTITUCION DEL ESTADO.
+DECRETO No. 71, QUE REFORMA EL ARTÍCULO 69 EN SUS FRACCIONES II, III Y V DE LA CONSTITUCIÓN DEL ESTADO.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima."
 
@@ -2845,19 +2847,19 @@ CUARTO.- La revisión y fiscalización de las cuentas públicas de las comisione
 
 P.O. 31 DE MAYO DE 2008.
 
-DECRETO No. 320, POR EL QUE SE ADICIONA LA FRACCION XIII AL ARTICULO 1° DE LA CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE COLIMA.
+DECRETO No. 320, POR EL QUE SE ADICIONA LA FRACCIÓN XIII AL ARTÍCULO 1° DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE COLIMA.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
 
 P.O. 31 DE MAYO DE 2008.
 
-DECRETO No. 321, POR EL QUE SE REFORMA EL SEGUNDO PARRAFO DEL ARTICULO 29 DE LA CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE COLIMA.
+DECRETO No. 321, POR EL QUE SE REFORMA EL SEGUNDO PÁRRAFO DEL ARTÍCULO 29 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE COLIMA.
 
 ÚNICO.- El presente Decreto entrará en vigor el 1° de octubre de 2008, previa su publicación en el Periódico Oficial "El Estado de Colima".
 
 P.O. 31 DE MAYO DE 2008.
 
-DECRETO No. 322, POR EL QUE SE REFORMAN Y ADICIONAN LOS ARTICULOS 33, 77 Y LA DENOMINACION DEL CAPITULO II DE LA CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE COLIMA.
+DECRETO No. 322, POR EL QUE SE REFORMAN Y ADICIONAN LOS ARTÍCULOS 33, 77 Y LA DENOMINACIÓN DEL CAPÍTULO II DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE COLIMA.
 
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
 
@@ -2883,7 +2885,7 @@ UNICO.- El presente Decreto entrara en vigor el día de su publicación en el Pe
 
 P.O. 20 DE JUNIO DE 2009.
 
-DECRETO No. 570, POR EL QUE SE REFORMA EL ARTICULO 1 DE LA CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE COLIMA.
+DECRETO No. 570, POR EL QUE SE REFORMA EL ARTÍCULO 1 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE COLIMA.
 
 PRIMERO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial "El Estado de Colima".
 
@@ -2891,7 +2893,7 @@ SEGUNDO.- El sistema procesal penal acusatorio y oral entrará en vigor cuando l
 
 P.O. 20 DE JUNIO DE 2009.
 
-DECRETO No. 571, POR EL QUE SE REFORMAN Y ADICIONAN DIVERSOS PRECEPTOS DE LA CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE COLIMA.
+DECRETO No. 571, POR EL QUE SE REFORMAN Y ADICIONAN DIVERSOS PRECEPTOS DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE COLIMA.
 
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
 
@@ -2926,6 +2928,10 @@ P.O. 13 DE AGOSTO DE 2011.
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
 
 P.O. 20 DE AGOSTO DE 2011.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 30 DE AGOSTO DE 2011.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
 
