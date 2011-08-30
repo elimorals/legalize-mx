@@ -4,7 +4,7 @@ identifier: "FED-codigo-civil-federal-antes-codigo-civil-para-el-distrito-641"
 country: "mx"
 rank: "codigo"
 publication_date: "1928-05-26"
-last_updated: "2010-01-28"
+last_updated: "2011-08-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=641&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -20,7 +20,7 @@ scjn_last_update: "2025-11-14"
 
 CODIGO CIVIL FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 28 DE ENERO DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 30 DE AGOSTO DE 2011.
 
 Código publicado en la Sección Tercera del Diario Oficial de la Federación los días sábado 26 de mayo; sábado 14 de julio; viernes 3 de agosto y viernes 31 de agosto, todos de 1928.
 
@@ -8496,6 +8496,12 @@ ARTICULO 1,933.- Los jefes de familia que habiten una casa o parte de ella, son 
 
 ARTICULO 1,934.- La acción para exigir la reparación de los daños causados en los términos del presente capítulo, prescribe en dos años contados a partir del día en que se haya causado el daño.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, D.O.F. 30 DE AGOSTO DE 2011)</small>
+
+ARTICULO 1,934 Bis.- El que cause un daño de los previstos en este Capítulo a una colectividad o grupo de personas, estará obligado a indemnizar en términos de lo dispuesto en el Libro Quinto del Código Federal de Procedimientos Civiles.
+
 ### CAPITULO VI. Del riesgo profesional
 
 ARTICULO 1,935.- Los patrones son responsables de los accidentes del trabajo y de las enfermedades profesionales de los trabajadores sufridas con motivo o en el ejercicio de la profesión o trabajo que ejecuten; por tanto, los patrones deben pagar la indemnización correspondiente, según que hayan traído como consecuencia la muerte o simplemente la incapacidad temporal o permanente para trabajar. Esta responsabilidad subsistirá aún en el caso de que el patrón contrate el trabajo por intermediario.
@@ -12941,3 +12947,17 @@ D.O.F. 13 DE ABRIL DE 2007.
 D.O.F. 28 DE ENERO DE 2010.
 
 Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 30 DE AGOSTO DE 2011.
+
+PRIMERO.- El presente Decreto entrará en vigor a los seis meses siguientes al día de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan a lo previsto en el presente Decreto.
+
+TERCERO.- La Cámara de Diputados aprobará las modificaciones presupuestales necesarias a efecto de lograr el efectivo cumplimiento del presente Decreto.
+
+CUARTO.- El Consejo de la Judicatura Federal, en el ámbito de las atribuciones que le han sido conferidas, dictará las medidas necesarias para lograr el efectivo cumplimiento del presente Decreto.
+
+QUINTO.- El Consejo de la Judicatura Federal deberá crear el Registro dentro de los noventa días siguientes a la entrada en vigor del presente decreto. El requisito previsto en la fracción II del artículo 620 del Código Federal de Procedimientos Civiles no será aplicable sino hasta después del primer año de entrada en vigor del presente Decreto.
+
+SEXTO.- El Consejo de la Judicatura Federal deberá crear el Fondo a que se refiere el Capítulo XI del Título Único del Libro Quinto del Código Federal de Procedimientos Civiles dentro de los noventa días siguientes a la entrada en vigor del presente decreto. Mientras el Fondo no sea creado, los recursos que deriven de los procedimientos colectivos serán depositados en una institución bancaria y serán controlados directamente por el juez de la causa.
