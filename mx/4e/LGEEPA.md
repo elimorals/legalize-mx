@@ -4,7 +4,7 @@ identifier: "LGEEPA"
 country: "mx"
 rank: "ley_general"
 publication_date: "1988-01-28"
-last_updated: "2011-01-28"
+last_updated: "2011-08-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=225&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGEEPA"
 
 LEY GENERAL DEL EQUILIBRIO ECOLOGICO Y LA PROTECCION AL AMBIENTE
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 28 DE ENERO DE 2011.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 30 DE AGOSTO DE 2011.
 
 Ley publicada en el Diario Oficial de la Federación, el jueves 28 de enero de 1988.
 
@@ -3370,11 +3370,17 @@ Las autoridades y servidores públicos involucrados en asuntos de la competencia
 
 Las autoridades y servidores públicos a los que se les solicite información o documentación que se estime con carácter reservado, conforme a lo dispuesto en la legislación aplicable, lo comunicarán a la Procuraduría Federal de Protección al Ambiente. En este supuesto, dicha dependencia deberá manejar la información proporcionada bajo la más estricta confidencialidad.
 
-> <small>(REFORMADO, D.O.F. 5 DE JULIO DE 2007)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, D.O.F. 30 DE AGOSTO DE 2011)</small>
 
 ###### ARTICULO 202.
 
-La Procuraduría Federal de Protección al Ambiente en el ámbito de sus atribuciones, está facultada para iniciar las acciones que procedan, ante las autoridades competentes, cuando conozca de actos, hechos u omisiones que constituyan violaciones a la legislación administrativa o penal.
+La procuraduría Federal de Protección al Ambiente, en el ámbito de sus atribuciones, está facultada para iniciar las acciones que procedan, ante las autoridades competentes, cuando conozca de actos, hechos u omisiones que constituyan violaciones a la legislación administrativa o penal.
+
+Cuando se realicen actos, hechos u omisiones que vulneren derechos e intereses de una colectividad, la procuraduría Federal de Protección al Ambiente, así como cualquier legitimado a que se refiere el artículo 585 del Código Federal de Procedimientos Civiles, podrán ejercitar la acción colectiva de conformidad con lo dispuesto en el Libro Quinto de dicho Código.
+
+Lo anterior también será aplicable respecto de aquellos actos, hechos u omisiones que violenten la legislación ambiental de las entidades federativas.
 
 > <small>(ADICIONADO, D.O.F. 13 DE DICIEMBRE DE 1996)</small>
 
@@ -3581,3 +3587,17 @@ DECRETO QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY GENERAL DEL EQUI
 Artículo Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 
 Artículo Segundo. Se derogan y, en su caso, se abrogan todas las disposiciones que se opongan al presente Decreto.
+
+D.O.F. 30 DE AGOSTO DE 2011.
+
+PRIMERO.- El presente Decreto entrará en vigor a los seis meses siguientes al día de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan a lo previsto en el presente Decreto.
+
+TERCERO.- La Cámara de Diputados aprobará las modificaciones presupuestales necesarias a efecto de lograr el efectivo cumplimiento del presente Decreto.
+
+CUARTO.- El Consejo de la Judicatura Federal, en el ámbito de las atribuciones que le han sido conferidas, dictará las medidas necesarias para lograr el efectivo cumplimiento del presente Decreto.
+
+QUINTO.- El Consejo de la Judicatura Federal deberá crear el Registro dentro de los noventa días siguientes a la entrada en vigor del presente decreto. El requisito previsto en la fracción II del artículo 620 del Código Federal de Procedimientos Civiles no será aplicable sino hasta después del primer año de entrada en vigor del presente Decreto.
+
+SEXTO.- El Consejo de la Judicatura Federal deberá crear el Fondo a que se refiere el Capítulo XI del Título Único del Libro Quinto del Código Federal de Procedimientos Civiles dentro de los noventa días siguientes a la entrada en vigor del presente decreto. Mientras el Fondo no sea creado, los recursos que deriven de los procedimientos colectivos serán depositados en una institución bancaria y serán controlados directamente por el juez de la causa.
