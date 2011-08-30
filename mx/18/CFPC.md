@@ -4,7 +4,7 @@ identifier: "CFPC"
 country: "mx"
 rank: "codigo"
 publication_date: "1943-02-24"
-last_updated: "2011-05-24"
+last_updated: "2011-08-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=129&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "CFPC"
 
 CODIGO FEDERAL DE PROCEDIMIENTOS CIVILES
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 24 DE MAYO DE 2011.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 30 DE AGOSTO DE 2011.
 
 Código publicado en la Sección Segunda del Diario Oficial de la Federación, el miércoles 24 de febrero de 1943.
 
@@ -48,7 +48,17 @@ CODIGO FEDERAL DE PROCEDIMIENTOS CIVILES
 
 Sólo puede iniciar un procedimiento judicial o intervenir en él, quien tenga interés en que la autoridad judicial declare o constituya un derecho o imponga una condena, y quien tenga el interés contrario.
 
-Actuarán, en el juicio, los mismos interesados o sus representantes o apoderados, en los términos de la ley. En cualquier caso, los efectos procesales serán los mismos, salva prevención en contrario.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, D.O.F. 30 DE AGOSTO DE 2011)</small>
+
+Actuarán, en el juicio, los mismos interesados o sus representantes o apoderados, en los términos de la ley. En cualquier caso, los efectos procesales serán los mismos, salvo prevención en contrario.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, D.O.F. 30 DE AGOSTO DE 2011)</small>
+
+Se exceptúan de lo señalado en los párrafos anteriores, cuando el derecho o interés de que se trate sea difuso, colectivo o individual de incidencia colectiva. En estos casos, se podrá ejercitar en forma colectiva, en términos de lo dispuesto en el Libro Quinto de este Código.
 
 ###### ARTICULO 2º.
 
@@ -234,7 +244,11 @@ II.- El del lugar convenido para el cumplimiento de la obligación;
 
 III.- El de la ubicación de la cosa, tratándose de acciones reales sobre inmuebles o de controversias derivadas del contrato de arrendamiento. Si las cosas estuvieren situadas en, o abarcaren dos o más circunscripciones territoriales, será competente el que prevenga en el conocimiento del negocio;
 
-IV.- El del domicilio del demandado, tratándose de acciones reales sobre muebles o de acciones personales o del estado civil;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADA, D.O.F. 30 DE AGOSTO DE 2011)</small>
+
+IV.- El del domicilio del demandado, tratándose de acciones reales sobre muebles o de acciones personales, colectivas o del estado civil;
 
 V.- El del lugar del domicilio del deudor, en caso de concurso.
 
@@ -3948,6 +3962,718 @@ La distribución de los fondos resultantes del remate quedará a disposición de
 
 Si una sentencia, laudo o resolución jurisdiccional extranjera no pudiera tener eficacia en su totalidad, el tribunal podrá admitir su eficacia parcial a petición de parte interesada.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE LIBRO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO CON EL TITULO, CAPITULOS Y ARTICULOS QUE LO INTEGRAN, D.O.F. 30 DE AGOSTO DE 2011)</small>
+
+# LIBRO QUINTO. De las Acciones Colectivas
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE TITULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, D.O.F. 30 DE AGOSTO DE 2011)</small>
+
+## TITULO UNICO
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 30 DE AGOSTO DE 2011)</small>
+
+### CAPITULO I. Previsiones Generales
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, D.O.F. 30 DE AGOSTO DE 2011)</small>
+
+###### ARTICULO 578.
+
+La defensa y protección de los derechos e intereses colectivos será ejercida ante los Tribunales de la Federación con las modalidades que se señalen en este Título, y sólo podrán promoverse en materia de relaciones de consumo de bienes o servicios, públicos o privados y medio ambiente.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, D.O.F. 30 DE AGOSTO DE 2011)</small>
+
+###### ARTICULO 579.
+
+La acción colectiva es procedente para la tutela de las pretensiones cuya titularidad corresponda a una colectividad de personas, así como para el ejercicio de las pretensiones individuales cuya titularidad corresponda a los miembros de un grupo de personas.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, D.O.F. 30 DE AGOSTO DE 2011)</small>
+
+###### ARTICULO 580.
+
+En particular, las acciones colectivas son procedentes para tutelar:
+
+I. Derechos e intereses difusos y colectivos, entendidos como aquéllos de naturaleza indivisible cuya titularidad corresponde a una colectividad de personas, indeterminada o determinable, relacionadas por circunstancias de hecho o de derecho comunes.
+
+II. Derechos e intereses individuales de incidencia colectiva, entendidos como aquéllos de naturaleza divisible cuya titularidad corresponde a los individuos integrantes de una colectividad de personas, determinable, relacionadas por circunstancias de derecho.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, D.O.F. 30 DE AGOSTO DE 2011)</small>
+
+###### ARTICULO 581.
+
+Para los efectos de este Código, los derechos citados en el artículo anterior se ejercerán a través de las siguientes acciones colectivas, que se clasificarán en:
+
+I. Acción difusa: Es aquélla de naturaleza indivisible que se ejerce para tutelar los derechos e intereses difusos, cuyo titular es una colectividad indeterminada, que tiene por objeto reclamar judicialmente del demandado la reparación del daño causado a la colectividad, consistente en la restitución de las cosas al estado que guardaren antes de la afectación, o en su caso al cumplimiento sustituto de acuerdo a la afectación de los derechos o intereses de la colectividad, sin que necesariamente exista vínculo jurídico alguno entre dicha colectividad y el demandado.
+
+II. Acción colectiva en sentido estricto: Es aquélla de naturaleza indivisible que se ejerce para tutelar los derechos e intereses colectivos, cuyo titular es una colectividad determinada o determinable con base en circunstancias comunes, cuyo objeto es reclamar judicialmente del demandado, la reparación del daño causado consistente en la realización de una o más acciones o abstenerse de realizarlas, así como a cubrir los daños en forma individual a los miembros del grupo y que deriva de un vínculo jurídico común existente por mandato de ley entre la colectividad y el demandado.
+
+III. Acción individual homogénea: Es aquélla de naturaleza divisible, que se ejerce para tutelar derechos e intereses individuales de incidencia colectiva, cuyos titulares son los individuos agrupados con base en circunstancias comunes, cuyo objeto es reclamar judicialmente de un tercero el cumplimiento forzoso de un contrato o su rescisión con sus consecuencias y efectos según la legislación aplicable.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, D.O.F. 30 DE AGOSTO DE 2011)</small>
+
+###### ARTICULO 582.
+
+La acción colectiva podrá tener por objeto pretensiones declarativas, constitutivas o de condena.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, D.O.F. 30 DE AGOSTO DE 2011)</small>
+
+###### ARTICULO 583.
+
+El juez interpretará las normas y los hechos de forma compatible con los principios y objetivos de los procedimientos colectivos, en aras de proteger y tutelar el interés general y los derechos e intereses colectivos.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, D.O.F. 30 DE AGOSTO DE 2011)</small>
+
+###### ARTICULO 584.
+
+Las acciones colectivas previstas en este título prescribirán a los tres años seis meses contados a partir del día en que se haya causado el daño. Si se trata de un daño de naturaleza continua el plazo para la prescripción comenzará a contar a partir del último día en que se haya generado el daño causante de la afectación.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 30 DE AGOSTO DE 2011)</small>
+
+### CAPITULO II. De la Legitimación Activa
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, D.O.F. 30 DE AGOSTO DE 2011)</small>
+
+###### ARTICULO 585.
+
+Tienen legitimación activa para ejercitar las acciones colectivas:
+
+I. La Procuraduría Federal de Protección al Consumidor, la Procuraduría Federal de Protección al Ambiente, la Comisión Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros y la Comisión Federal de Competencia;
+
+II. El representante común de la colectividad conformada por al menos treinta miembros;
+
+III. Las asociaciones civiles sin fines de lucro legalmente constituidas al menos un año previo al momento de presentar la acción, cuyo objeto social incluya la promoción o defensa de los derechos e intereses de la materia de que se trate y que cumplan con los requisitos establecidos en este Código, y
+
+IV. El Procurador General de la República.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, D.O.F. 30 DE AGOSTO DE 2011)</small>
+
+###### ARTICULO 586.
+
+La representación a que se refieren las fracciones II y III del artículo anterior, deberá ser adecuada.
+
+Se considera representación adecuada:
+
+I. Actuar con diligencia, pericia y buena fe en la defensa de los intereses de la colectividad en el juicio;
+
+II. No encontrarse en situaciones de conflicto de interés con sus representados respecto de las actividades que realiza;
+
+III. No promover o haber promovido de manera reiterada acciones difusas, colectivas o individuales homogéneas frívolas o temerarias;
+
+IV. No promover una acción difusa, colectiva en sentido estricto o individual homogénea con fines de lucro, electorales, proselitistas, de competencia desleal o especulativos, y
+
+V. No haberse conducido con impericia, mala fe o negligencia en acciones colectivas previas, en los términos del Código Civil Federal.
+
+La representación de la colectividad en el juicio se considera de interés público. El juez deberá vigilar de oficio que dicha representación sea adecuada durante la substanciación del proceso.
+
+El representante deberá rendir protesta ante el juez y rendir cuentas en cualquier momento a petición de éste.
+
+En el caso de que durante el procedimiento dejare de haber un legitimado activo o aquéllos a que se refieren las fracciones II y III del artículo 585 no cumplieran con los requisitos referidos en el presente artículo, el juez de oficio o a petición de cualquier miembro de la colectividad, abrirá un incidente de remoción y sustitución, debiendo suspender el juicio y notificar el inicio del incidente a la colectividad en los términos a que se refiere el artículo 591 de este Código.
+
+Una vez realizada la notificación a que se refiere el párrafo anterior, el juez recibirá las solicitudes de los interesados dentro del término de diez días, evaluará las solicitudes que se presentaren y resolverá lo conducente dentro del plazo de tres días.
+
+En caso de no existir interesados, el juez dará vista a los órganos u organismos a que se refiere la fracción I del artículo 585 de este Código, según la materia del litigio de que se trate, quienes deberán asumir la representación de la colectividad o grupo.
+
+El juez deberá notificar la resolución de remoción al Consejo de la Judicatura Federal para que registre tal actuación y en su caso, aplique las sanciones que correspondan al representante.
+
+El representante será responsable frente a la colectividad por el ejercicio de su gestión.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 30 DE AGOSTO DE 2011)</small>
+
+### CAPITULO III. Procedimiento
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, D.O.F. 30 DE AGOSTO DE 2011)</small>
+
+###### ARTICULO 587.
+
+La demanda deberá contener:
+
+I. El tribunal ante el cual se promueve;
+
+II. El nombre del representante legal, señalando los documentos con los que acredite su personalidad;
+
+III. En el caso de las acciones colectivas en sentido estricto y las individuales homogéneas, los nombres de los miembros de la colectividad promoventes de la demanda;
+
+IV. Los documentos con los que la actora acredita su representación de conformidad con este Título;
+
+V. El nombre y domicilio del demandado;
+
+VI. La precisión del derecho difuso, colectivo o individual homogéneo que se considera afectado;
+
+VII. El tipo de acción que pretende promover;
+
+VIII. Las pretensiones correspondientes a la acción;
+
+IX. Los hechos en que funde sus pretensiones y las circunstancias comunes que comparta la colectividad respecto de la acción que se intente;
+
+X. Los fundamentos de derecho, y
+
+XI. En el caso de las acciones colectivas en sentido estricto e individuales homogéneas, las consideraciones y los hechos que sustenten la conveniencia de la substanciación por la vía colectiva en lugar de la acción individual.
+
+El juez podrá prevenir a la parte actora para que aclare o subsane su demanda cuando advierta la omisión de requisitos de forma, sea obscura o irregular, otorgándole un término de cinco días para tales efectos.
+
+El juez resolverá si desecha de plano la demanda en los casos en que la parte actora no desahogue la prevención, no se cumplan los requisitos previstos en este Título, o se trate de pretensiones infundadas, frívolas, o temerarias.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, D.O.F. 30 DE AGOSTO DE 2011)</small>
+
+###### ARTICULO 588.
+
+Son requisitos de procedencia de la legitimación en la causa los siguientes:
+
+I. Que se trate de actos que dañen a consumidores o usuarios de bienes o servicios públicos o privados o al medio ambiente o que se trate de actos que hayan dañado al consumidor por la existencia de concentraciones indebidas o prácticas monopólicas, declaradas existentes por resolución firme emitida por la Comisión Federal de Competencia;
+
+II. Que verse sobre cuestiones comunes de hecho o de derecho entre los miembros de la colectividad de que se trate;
+
+III. Que existan al menos treinta miembros en la colectividad, en el caso de las acciones colectivas en sentido estricto e individuales homogéneas;
+
+IV. Que exista coincidencia entre el objeto de la acción ejercitada y la afectación sufrida;
+
+V. Que la materia de la litis no haya sido objeto de cosa juzgada en procesos previos con motivo del ejercicio de las acciones tuteladas en este Título;
+
+VI. Que no haya prescrito la acción, y
+
+VII. Las demás que determinen las leyes especiales aplicables.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, D.O.F. 30 DE AGOSTO DE 2011)</small>
+
+###### ARTICULO 589.
+
+Son causales de improcedencia de la legitimación en el proceso, los siguientes:
+
+I. Que los miembros promoventes de la colectividad no hayan otorgado su consentimiento en el caso de las acciones colectivas en sentido estricto e individuales homogéneas;
+
+II. Que los actos en contra de los cuales se endereza la acción constituyan procedimientos administrativos seguidos en forma de juicio o procedimientos judiciales;
+
+III. Que la representación no cumpla los requisitos previstos en este Título;
+
+IV. Que la colectividad en la acción colectiva en sentido estricto o individual homogénea, no pueda ser determinable o determinada en atención a la afectación a sus miembros, así como a las circunstancias comunes de hecho o de derecho de dicha afectación;
+
+V. Que su desahogo mediante el procedimiento colectivo no sea idóneo;
+
+VI. Que exista litispendencia entre el mismo tipo de acciones, en cuyo caso procederá la acumulación en los términos previstos en este Código, y
+
+VII. Que las asociaciones que pretendan ejercer la legitimación en el proceso no cumplan con los requisitos establecidos en este Título.
+
+El juez de oficio o a petición de cualquier interesado podrá verificar el cumplimiento de estos requisitos durante el procedimiento.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, D.O.F. 30 DE AGOSTO DE 2011)</small>
+
+###### ARTICULO 590.
+
+Una vez presentada la demanda o desahogada la prevención, dentro de los tres días siguientes, el juez ordenará el emplazamiento al demandado, le correrá traslado de la demanda y le dará vista por cinco días para que manifieste lo que a su derecho convenga respecto del cumplimiento de los requisitos de procedencia previstos en este Título.
+
+Desahogada la vista, el juez certificará dentro del término de diez días, el cumplimiento de los requisitos de procedencia previstos en los artículos 587 y 588 de este Código. Este plazo podrá ser prorrogado por el juez hasta por otro igual, en caso de que a su juicio la complejidad de la demanda lo amerite.
+
+Esta resolución podrá ser modificada en cualquier etapa del procedimiento cuando existieren razones justificadas para ello.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, D.O.F. 30 DE AGOSTO DE 2011)</small>
+
+###### ARTICULO 591.
+
+Concluida la certificación referida en el artículo anterior, el juez proveerá sobre la admisión o desechamiento de la demanda y en su caso, dará vista a los órganos y organismos referidos en la fracción I del artículo 585 de este Código, según la materia del litigio de que se trate.
+
+El auto que admita la demanda deberá ser notificado en forma personal al representante legal, quien deberá ratificar la demanda.
+
+El juez ordenará la notificación a la colectividad del inicio del ejercicio de la acción colectiva de que se trate, mediante los medios idóneos para tales efectos, tomando en consideración el tamaño, localización y demás características de dicha colectividad. La notificación deberá ser económica, eficiente y amplia, teniendo en cuenta las circunstancias en cada caso.
+
+Contra la admisión o desechamiento de la demanda es procedente el recurso de apelación, al cual deberá darse trámite en forma inmediata.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, D.O.F. 30 DE AGOSTO DE 2011)</small>
+
+###### ARTICULO 592.
+
+La parte demandada contará con quince días para contestar la demanda a partir de que surta efectos la notificación del auto de admisión de la demanda. El juez podrá ampliar este plazo hasta por un periodo igual, a petición del demandado.
+
+Una vez contestada la demanda, se dará vista a la actora por 5 días para que manifieste lo que a su derecho convenga.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, D.O.F. 30 DE AGOSTO DE 2011)</small>
+
+###### ARTICULO 593.
+
+La notificación a que se refiere el segundo párrafo del artículo 591 de este Código, contendrá una relación sucinta de los puntos esenciales de la acción colectiva respectiva, así como las características que permitan identificar a la colectividad.
+
+Las demás notificaciones a los miembros de la colectividad o grupo se realizarán por estrados.
+
+Salvo que de otra forma se encuentren previstas en este Título, las notificaciones a las partes se realizarán en los términos que establece este Código.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, D.O.F. 30 DE AGOSTO DE 2011)</small>
+
+###### ARTICULO 594.
+
+Los miembros de la colectividad afectada podrán adherirse a la acción de que se trate, conforme a las reglas establecidas en este artículo.
+
+En el caso de las acciones colectivas en sentido estricto e individuales homogéneas, la adhesión a su ejercicio podrá realizarse por cada individuo que tenga una afectación a través de una comunicación expresa por cualquier medio dirigida al representante a que se refiere el artículo 585 de este Código o al representante legal de la parte actora, según sea el caso.
+
+Los afectados podrán adherirse voluntariamente a la colectividad durante la substanciación del proceso y hasta dieciocho meses posteriores a que la sentencia haya causado estado o en su caso, el convenio judicial adquiera la calidad de cosa juzgada.
+
+Dentro de este lapso, el interesado hará llegar su consentimiento expreso y simple al representante, quien a su vez lo presentará al juez. El juez proveerá sobre la adhesión y, en su caso, ordenará el inicio del incidente de liquidación que corresponda a dicho interesado.
+
+Los afectados que se adhieran a la colectividad durante la substanciación del proceso, promoverán el incidente de liquidación en los términos previstos en el artículo 605 de este Código.
+
+Los afectados que se adhieran posteriormente a que la sentencia haya causado estado o, en su caso, el convenio judicial adquiera la calidad de cosa juzgada, deberán probar el daño causado en el incidente respectivo. A partir de que el juez determine el importe a liquidar, el miembro de la colectividad titular del derecho al cobro tendrá un año para ejercer el mismo.
+
+En tratándose de la adhesión voluntaria, la exclusión que haga cualquier miembro de la colectividad posterior al emplazamiento del demandado, equivaldrá a un desistimiento de la acción colectiva, por lo que no podrá volver a participar en un procedimiento colectivo derivado de o por los mismos hechos.
+
+Tratándose de acciones colectivas en sentido estricto e individuales homogéneas sólo tendrán derecho al pago que derive de la condena, las personas que formen parte de la colectividad y prueben en el incidente de liquidación, haber sufrido el daño causado.
+
+El representante a que se refiere el artículo 585 de este Código tendrá los poderes más amplios que en derecho procedan con las facultades especiales que requiera la ley para sustanciar el procedimiento y para representar a la colectividad y a cada uno de sus integrantes que se hayan adherido o se adhieran a la acción.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, D.O.F. 30 DE AGOSTO DE 2011)</small>
+
+###### ARTICULO 595.
+
+Realizada la notificación a que se refiere el segundo párrafo del artículo 591 de este Código, el juez señalará de inmediato fecha y hora para la celebración de la audiencia previa y de conciliación, la cual se llevará a cabo dentro de los diez días siguientes.
+
+En la audiencia el juez personalmente propondrá soluciones al litigio y exhortará a las partes a solucionarlo, pudiendo auxiliarse de los expertos que considere idóneos.
+
+La acción colectiva podrá ser resuelta por convenio judicial entre las partes en cualquier momento del proceso hasta antes de que cause estado.
+
+Si las partes alcanzaren un convenio total o parcial, el juez de oficio revisará que proceda legalmente y que los intereses de la colectividad de que se trate estén debidamente protegidos.
+
+Previa vista por diez días a los órganos y organismos a que se refiere la fracción I del artículo 585 de este Código y al Procurador General de la República, y una vez escuchadas las manifestaciones de los miembros de la colectividad, si las hubiere, el juez podrá aprobar el convenio elevándolo a la categoría de cosa juzgada.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, D.O.F. 30 DE AGOSTO DE 2011)</small>
+
+###### ARTICULO 596.
+
+En caso de que las partes no alcanzaren acuerdo alguno en la audiencia previa y de conciliación, el juez procederá a abrir el juicio a prueba por un período de sesenta días hábiles, comunes para las partes, para su ofrecimiento y preparación, pudiendo, a instancia de parte, otorgar una prórroga hasta por veinte días hábiles.
+
+Una vez presentado el escrito de pruebas, el representante legal deberá ratificarlo bajo protesta ante el Juez.
+
+El auto que admita las pruebas señalará la fecha para la celebración de la audiencia final del juicio en la cual se desahogarán, en un lapso que no exceda de cuarenta días hábiles, el que podrá ser prorrogado por el juez.
+
+Una vez concluido el desahogo de pruebas, el juez dará vista a las partes para que en un periodo de diez días hábiles aleguen lo que a su derecho y representación convenga.
+
+El juez dictará sentencia dentro de los treinta días hábiles posteriores a la celebración de la audiencia final.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, D.O.F. 30 DE AGOSTO DE 2011)</small>
+
+###### ARTICULO 597.
+
+Los términos establecidos en los capítulos IV y V del Título Primero del Libro Segundo podrán ser ampliados por el juez, si existieren causas justificadas para ello.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, D.O.F. 30 DE AGOSTO DE 2011)</small>
+
+###### ARTICULO 598.
+
+Para mejor proveer, el juzgador podrá valerse de cualquier persona, documento o cosa, a petición de parte o de oficio, siempre que tengan relación inmediata con los hechos controvertidos.
+
+El juez deberá recibir todas aquellas manifestaciones o documentos, escritos u orales, de terceros ajenos al procedimiento que acudan ante él en calidad de amicus curiae o en cualquier otra, siempre que sean relevantes para resolver el asunto controvertido y que los terceros no se encuentren en conflicto de interés respecto de las partes.
+
+El juez en su sentencia deberá, sin excepción, hacer una relación sucinta de los terceros que ejerzan el derecho de comparecer ante el tribunal conforme a lo establecido en el párrafo anterior y de los argumentos o manifestaciones por ellos vertidos.
+
+El juez podrá requerir a los órganos y organismos a que se refiere la fracción I del artículo 585 de este Código o a cualquier tercero, la elaboración de estudios o presentación de los medios probatorios necesarios con cargo al Fondo a que se refiere este Título.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, D.O.F. 30 DE AGOSTO DE 2011)</small>
+
+###### ARTICULO 599.
+
+Si el juez lo considera pertinente, de oficio o a petición de parte, podrá solicitar a una de las partes la presentación de información o medios probatorios que sean necesarios para mejor resolver el litigio de que se trate o para ejecutar la sentencia respectiva.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, D.O.F. 30 DE AGOSTO DE 2011)</small>
+
+###### ARTICULO 600.
+
+Para resolver el juez puede valerse de medios probatorios estadísticos, actuariales o cualquier otro derivado del avance de la ciencia.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, D.O.F. 30 DE AGOSTO DE 2011)</small>
+
+###### ARTICULO 601.
+
+No será necesario que la parte actora ofrezca y desahogue pruebas individualizadas por cada uno de los miembros de la colectividad.
+
+Las reclamaciones individuales deberán justificar en su caso, la relación causal en el incidente de liquidación respectivo.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, D.O.F. 30 DE AGOSTO DE 2011)</small>
+
+###### ARTICULO 602.
+
+Cuando la acción sea interpuesta por los representantes a que se refieren las fracciones II y III del artículo 585 de este Código, estarán obligados a informar a través de los medios idóneos, a los miembros de la colectividad sobre el estado que guarda el procedimiento por lo menos cada seis meses.
+
+Los órganos y organismos a que se refiere la fracción I del artículo 585 de este Código, deberán llevar un registro de todos los procedimientos colectivos en trámite, así como los ya concluidos, en los que participan o hayan participado, respectivamente, como parte o tercero interesado. Dicho registro contará con la información necesaria y deberá ser de fácil acceso al público, de conformidad con la legislación aplicable.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 30 DE AGOSTO DE 2011)</small>
+
+### CAPITULO IV. Sentencias
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, D.O.F. 30 DE AGOSTO DE 2011)</small>
+
+###### ARTICULO 603.
+
+Las sentencias deberán resolver la controversia planteada por las partes conforme a derecho.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, D.O.F. 30 DE AGOSTO DE 2011)</small>
+
+###### ARTICULO 604.
+
+En acciones difusas el juez sólo podrá condenar al demandado a la reparación del daño causado a la colectividad, consistente en restitución de las cosas al estado que guardaren antes de la afectación, si esto fuere posible. Esta restitución podrá consistir en la realización de una o más acciones o abstenerse de realizarlas.
+
+Si no fuere posible lo anterior, el juez condenará al cumplimiento sustituto de acuerdo a la afectación de los derechos o intereses de la colectividad. En su caso, la cantidad resultante se destinará al Fondo a que se refiere el Capítulo XI de este Título.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, D.O.F. 30 DE AGOSTO DE 2011)</small>
+
+###### ARTICULO 605.
+
+En el caso de acciones colectivas en sentido estricto e individuales homogéneas, el juez podrá condenar al demandado a la reparación del daño, consistente en la realización de una o más acciones o abstenerse de realizarlas, así como a cubrir los daños en forma individual a los miembros del grupo conforme a lo establecido en este artículo.
+
+Cada miembro de la colectividad podrá promover el incidente de liquidación, en el que deberá probar el daño sufrido. El juez establecerá en la sentencia, los requisitos y plazos que deberán cumplir los miembros del grupo para promover dicho incidente.
+
+El incidente de liquidación podrá promoverse por cada uno de los miembros de la colectividad en ejecución de sentencia dentro del año calendario siguiente al que la sentencia cause ejecutoria.
+
+A partir de que el juez determine el importe a liquidar, el miembro de la colectividad titular del derecho al cobro tendrá un año para ejercer el mismo.
+
+El pago que resulte del incidente de liquidación será hecho a los miembros de la colectividad en los términos que ordene la sentencia; en ningún caso a través del representante común.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, D.O.F. 30 DE AGOSTO DE 2011)</small>
+
+###### ARTICULO 606.
+
+En caso de que una colectividad haya ejercitado por los mismos hechos de manera simultánea una acción difusa y una acción colectiva, el juez proveerá la acumulación de las mismas en los términos de este Código.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, D.O.F. 30 DE AGOSTO DE 2011)</small>
+
+###### ARTICULO 607.
+
+La sentencia fijará al condenado un plazo prudente para su cumplimiento atendiendo a las circunstancias del caso, así como los medios de apremio que deban emplearse cuando se incumpla con la misma.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, D.O.F. 30 DE AGOSTO DE 2011)</small>
+
+###### ARTICULO 608.
+
+La sentencia será notificada a la colectividad o grupo de que se trate en los términos de lo dispuesto por el segundo párrafo del artículo 591 de este Código.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, D.O.F. 30 DE AGOSTO DE 2011)</small>
+
+###### ARTICULO 609.
+
+Cuando una vez dictada la sentencia, alguna de las partes tenga conocimiento de que sus representantes ejercieron una representación fraudulenta en contra de sus intereses, éstas podrán promover dentro del plazo de cuarenta y cinco días hábiles la apelación que habrá de resolver sobre la nulidad de las actuaciones viciadas dentro del procedimiento colectivo, siempre que dicha representación fraudulenta haya influido en la sentencia emitida.
+
+En el caso de la colectividad, la apelación podrá promoverla el representante cuya designación haya sido autorizada por el juez. En este supuesto, el juez hará del conocimiento de los hechos que correspondan al Ministerio Público.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 30 DE AGOSTO DE 2011)</small>
+
+### CAPITULO V. Medidas Precautorias
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, D.O.F. 30 DE AGOSTO DE 2011)</small>
+
+###### ARTICULO 610.
+
+En cualquier etapa del procedimiento el juez podrá decretar a petición de parte, medidas precautorias que podrán consistir en:
+
+I. La orden de cesación de los actos o actividades que estén causando o necesariamente hayan de causar un daño inminente e irreparable a la colectividad;
+
+II. La orden de realizar actos o acciones que su omisión haya causado o necesariamente hayan de causar un daño inminente e irreparable a la colectividad;
+
+III. El retiro del mercado o aseguramiento de instrumentos, bienes, ejemplares y productos directamente relacionados con el daño irreparable que se haya causado, estén causando o que necesariamente hayan de causarse a la colectividad, y
+
+IV. Cualquier otra medida que el juez considere pertinente dirigida a proteger los derechos e intereses de una colectividad.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, D.O.F. 30 DE AGOSTO DE 2011)</small>
+
+###### ARTICULO 611.
+
+Las medidas precautorias previstas en el artículo anterior podrán decretarse siempre que con las mismas no se causen más daños que los que se causarían con los actos, hechos u omisiones objeto de la medida. El juez deberá valorar además que con el otorgamiento de la medida, no se cause una afectación ruinosa al demandado.
+
+Para el otorgamiento de dichas medidas se requerirá:
+
+I. Que el solicitante de la medida manifieste claramente cuáles son los actos, hechos o abstenciones que estén causando un daño o vulneración a los derechos o intereses colectivos o lo puedan llegar a causar.
+
+II. Que exista urgencia en el otorgamiento de la medida en virtud del riesgo de que se cause o continúe causando un daño de difícil o imposible reparación.
+
+Para decretar estas medidas, el juez dará vista por tres días a la parte demandada para que manifieste lo que a su derecho convenga respecto de la solicitud de medidas cautelares y solicitará opinión a los órganos y organismos competentes a que se refiere la fracción I del artículo 585 de este Código o de cualquier otra autoridad en los términos de la legislación aplicable.
+
+Si con el otorgamiento de la medida se pudiera ocasionar daño al demandado, éste podrá otorgar garantía suficiente para reparar los daños que pudieran causarse a la colectividad, salvo aquellos casos en los que se trate de una amenaza inminente e irreparable al interés social, a la vida o a la salud de los miembros de la colectividad o por razones de seguridad nacional.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 30 DE AGOSTO DE 2011)</small>
+
+### CAPITULO VI. Medios de Apremio
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, D.O.F. 30 DE AGOSTO DE 2011)</small>
+
+###### ARTICULO 612.
+
+Los tribunales para hacer cumplir sus determinaciones, pueden emplear, a discreción, los siguientes medios de apremio:
+
+I. Multa hasta por la cantidad equivalente a treinta mil días de salario mínimo general vigente en el Distrito Federal, cantidad que podrá aplicarse por cada día que transcurra sin cumplimentarse lo ordenado por el juez.
+
+II. El auxilio de la fuerza pública y la fractura de cerraduras si fuere necesario.
+
+III. El cateo por orden escrita.
+
+IV. El arresto hasta por treinta y seis horas.
+
+Si fuere insuficiente el apremio, se procederá contra el rebelde por el delito de desobediencia.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 30 DE AGOSTO DE 2011)</small>
+
+### CAPITULO VII. Relación entre Acciones Colectivas y Acciones Individuales
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, D.O.F. 30 DE AGOSTO DE 2011)</small>
+
+###### ARTICULO 613.
+
+No procederá la acumulación entre procedimientos individuales y procedimientos colectivos.
+
+En caso de coexistencia de un proceso individual y de un proceso colectivo proveniente de la misma causa, el mismo demandado en ambos procesos informará de tal situación a los jueces.
+
+El juez del proceso individual notificará a la parte actora de la existencia de la acción colectiva para que en su caso, decida continuar por la vía individual o ejerza su derecho de adhesión a la misma dentro del plazo de noventa días contados a partir de la notificación.
+
+Para que proceda la adhesión de la parte actora a la acción colectiva, deberá desistirse del proceso individual para que éste se sobresea.
+
+Tratándose de derechos o intereses individuales de incidencia colectiva, en caso de la improcedencia de la pretensión en el procedimiento colectivo, los interesados tendrán a salvo sus derechos para ejercerlos por la vía individual.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 30 DE AGOSTO DE 2011)</small>
+
+### CAPITULO VIII. Cosa Juzgada
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, D.O.F. 30 DE AGOSTO DE 2011)</small>
+
+###### ARTICULO 614.
+
+La sentencia no recurrida tendrá efectos de cosa juzgada.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, D.O.F. 30 DE AGOSTO DE 2011)</small>
+
+###### ARTICULO 615.
+
+Si alguna persona inició un procedimiento individual al cual recayó una sentencia que causó ejecutoria no podrá ser incluida dentro de una colectividad para efectos de un proceso colectivo, si el objeto, las causas y las pretensiones son las mismas.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 30 DE AGOSTO DE 2011)</small>
+
+### CAPITULO IX. Gastos y Costas
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, D.O.F. 30 DE AGOSTO DE 2011)</small>
+
+###### ARTICULO 616.
+
+La sentencia de condena incluirá lo relativo a los gastos y costas que correspondan.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, D.O.F. 30 DE AGOSTO DE 2011)</small>
+
+###### ARTICULO 617.
+
+Cada parte asumirá sus gastos y costas derivados de la acción colectiva, así como los respectivos honorarios de sus representantes.
+
+Los honorarios del representante legal y del representante común, que convengan con sus representados, quedarán sujetos al siguiente arancel máximo:
+
+I. Serán de hasta el 20%, si el monto líquido de la suerte principal no excede de 200 mil veces el salario mínimo diario en el Distrito Federal;
+
+II. Si el monto líquido de la suerte principal excede 200 mil pero es menor a 2 millones de veces el salario mínimo diario en el Distrito Federal, serán de hasta el 20% sobre los primeros 200 mil y de hasta el 10% sobre el excedente, y
+
+III. Si el monto líquido de la suerte principal excede a 2 millones de veces el salario mínimo diario en el Distrito Federal, serán de hasta el 11% sobre los primeros 2 millones, y hasta el 3% sobre el excedente.
+
+Si las partes llegaren a un acuerdo para poner fin al juicio antes de la sentencia, los gastos y costas deberán estar contemplados como parte de las negociaciones del convenio de transacción judicial. En cualquier caso, los honorarios del representante legal y del representante común que pacten con sus representados deberán ajustarse al arancel máximo previsto en este artículo.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, D.O.F. 30 DE AGOSTO DE 2011)</small>
+
+###### ARTICULO 618.
+
+Los gastos y costas se liquidarán en ejecución de sentencia de conformidad con las siguientes reglas:
+
+I. Los gastos y costas así como los honorarios de los representantes de la parte actora referidos en el artículo anterior, serán cubiertos en la forma que lo determine el juez, buscando asegurar el pago correspondiente. Dicho pago se hará con cargo al Fondo a que se refiere el Capítulo XI de este Título, cuando exista un interés social que lo justifique y hasta donde la disponibilidad de los recursos lo permita.
+
+II. En el caso de las sentencias que establezcan una cantidad cuantificable, la parte actora pagará entre el tres y el veinte por ciento del monto total condenado por concepto de honorarios a sus representantes según lo previsto en el artículo anterior.
+
+El juez tomará en consideración el trabajo realizado y la complejidad del mismo, el número de miembros, el beneficio para la colectividad respectiva y demás circunstancias que estime pertinente.
+
+III. Si la condena no fuere cuantificable, el juez determinará el monto de los honorarios, tomando en consideración los criterios establecidos en el segundo párrafo de la fracción anterior.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 30 DE AGOSTO DE 2011)</small>
+
+### CAPITULO X. De las Asociaciones
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, D.O.F. 30 DE AGOSTO DE 2011)</small>
+
+###### ARTICULO 619.
+
+Por ser la representación común de interés público, las asociaciones civiles a que se refiere la fracción II del artículo 585, deberán registrarse ante el Consejo de la Judicatura Federal.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, D.O.F. 30 DE AGOSTO DE 2011)</small>
+
+###### ARTICULO 620.
+
+Para obtener el registro correspondiente, dichas asociaciones deberán:
+
+I. Presentar los estatutos sociales que cumplan con los requisitos establecidos en este Título, y
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+II. Tener al menos un año de haberse constituido y acreditar que han realizado actividades inherentes al cumplimiento de su objeto social.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, D.O.F. 30 DE AGOSTO DE 2011)</small>
+
+###### ARTICULO 621.
+
+El registro será público, su información estará disponible en la página electrónica del Consejo de la Judicatura Federal, y cuando menos deberá contener los nombres de los socios, asociados, representantes y aquellos que ejerzan cargos directivos, su objeto social, así como el informe a que se refiere la fracción II del artículo 623 de este Código.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, D.O.F. 30 DE AGOSTO DE 2011)</small>
+
+###### ARTICULO 622.
+
+Las asociaciones deberán:
+
+I. Evitar que sus asociados, socios, representantes o aquellos que ejerzan cargos directivos, incurran en situaciones de conflicto de interés respecto de las actividades que realizan en términos de este Título;
+
+II. Dedicarse a actividades compatibles con su objeto social, y
+
+III. Conducirse con diligencia, probidad y en estricto apego a las disposiciones legales aplicables.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, D.O.F. 30 DE AGOSTO DE 2011)</small>
+
+###### ARTICULO 623.
+
+Para mantener el registro las asociaciones deberán:
+
+I. Cumplir con lo dispuesto en el artículo anterior;
+
+II. Entregar al Consejo de la Judicatura Federal, un informe anual sobre su operación y actividades respecto del año inmediato anterior, a más tardar el último día hábil del mes de abril de cada año, y
+
+III. Mantener actualizada en forma permanente la información que deba entregar al Consejo de la Judicatura Federal en los términos de lo dispuesto por el artículo 621 de este Código.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 30 DE AGOSTO DE 2011)</small>
+
+### CAPITULO XI. Del Fondo
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, D.O.F. 30 DE AGOSTO DE 2011)</small>
+
+###### ARTICULO 624.
+
+Para los efectos señalados en este Título, el Consejo de la Judicatura Federal administrará los recursos provenientes de las sentencias que deriven de las acciones colectivas difusas y para tal efecto deberá crear un Fondo.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, D.O.F. 30 DE AGOSTO DE 2011)</small>
+
+###### ARTICULO 625.
+
+Los recursos que deriven de las sentencias recaídas en las acciones referidas en el párrafo anterior, deberán ser utilizados exclusivamente para el pago de los gastos derivados de los procedimientos colectivos, así como para el pago de los honorarios de los representantes de la parte actora a que se refiere el artículo 617 de este Código, cuando exista un interés social que lo justifique y el juez así lo determine, incluyendo pero sin limitar, las notificaciones a los miembros de la colectividad, la preparación de las pruebas pertinentes y la notificación de la sentencia respectiva. Los recursos podrán ser además utilizados para el fomento de la investigación y difusión relacionada con las acciones y derechos colectivos.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, D.O.F. 30 DE AGOSTO DE 2011)</small>
+
+###### ARTICULO 626.
+
+El Consejo de la Judicatura Federal divulgará anualmente el origen, uso y destino de los recursos del Fondo.
+
 ## TRANSITORIOS
 
 ###### ARTICULO 1º.
@@ -4035,3 +4761,17 @@ D.O.F. 24 DE MAYO DE 2011.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 30 DE AGOSTO DE 2011.
+
+PRIMERO.- El presente Decreto entrará en vigor a los seis meses siguientes al día de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan a lo previsto en el presente Decreto.
+
+TERCERO.- La Cámara de Diputados aprobará las modificaciones presupuestales necesarias a efecto de lograr el efectivo cumplimiento del presente Decreto.
+
+CUARTO.- El Consejo de la Judicatura Federal, en el ámbito de las atribuciones que le han sido conferidas, dictará las medidas necesarias para lograr el efectivo cumplimiento del presente Decreto.
+
+QUINTO.- El Consejo de la Judicatura Federal deberá crear el Registro dentro de los noventa días siguientes a la entrada en vigor del presente decreto. El requisito previsto en la fracción II del artículo 620 del Código Federal de Procedimientos Civiles no será aplicable sino hasta después del primer año de entrada en vigor del presente Decreto.
+
+SEXTO.- El Consejo de la Judicatura Federal deberá crear el Fondo a que se refiere el Capítulo XI del Título Único del Libro Quinto del Código Federal de Procedimientos Civiles dentro de los noventa días siguientes a la entrada en vigor del presente decreto. Mientras el Fondo no sea creado, los recursos que deriven de los procedimientos colectivos serán depositados en una institución bancaria y serán controlados directamente por el juez de la causa.
