@@ -4,7 +4,7 @@ identifier: "FED-ley-organica-del-poder-judicial-de-la-federacion-2569"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-05-26"
-last_updated: "2011-05-26"
+last_updated: "2011-08-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2569&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LOPJF"
 
 LEY ORGANICA DEL PODER JUDICIAL DE LA FEDERACION
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 26 DE MAYO DE 2011.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 30 DE AGOSTO DE 2011.
 
 Ley publicada en el Diario Oficial de la Federación, el viernes 26 de mayo de 1995.
 
@@ -720,9 +720,23 @@ IV. De los asuntos civiles concernientes a miembros del cuerpo diplomático y co
 
 V. De las diligencias de jurisdicción voluntaria que se promuevan en materia federal;
 
-VI. De las controversias ordinarias en que la Federación fuere parte, y
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-VII. De los asuntos de la competencia de los juzgados de distrito en materia de procesos federales que no estén enumerados en los artículos 50, 52 y 55 de esta ley.
+> <small>(REFORMADA, D.O.F. 30 DE AGOSTO DE 2011)</small>
+
+VI. De las controversias ordinarias en que la federación fuere parte;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, D.O.F. 30 DE AGOSTO DE 2011)</small>
+
+VII. De las acciones colectivas a que se refiere el Libro Quinto del Código Federal de Procedimientos Civiles, y
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, D.O.F. 30 DE AGOSTO DE 2011)</small>
+
+VIII. De los asuntos de la competencia de los juzgados de distrito en materia de procesos federales que no estén enumerados en los artículos 50, 52 y 55 de esta ley.
 
 ###### ARTICULO 54.
 
@@ -1008,15 +1022,29 @@ XXXVIII. Dictar las medidas que exijan el buen servicio y la disciplina en las o
 
 XXXIX. Regular las autorizaciones para abandonar el lugar de residencia de los funcionarios judiciales a que se refiere el artículo 153 de esta ley;
 
-XL. Dictar las disposiciones necesarias para la recepción, control y destino de los bienes asegurados y decomisados, y (sic)
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(ADICIONADA, D.O.F. 22 DE NOVIEMBRE DE 1996)</small>
+> <small>(REFORMADA, D.O.F. 30 DE AGOSTO DE 2011)</small>
 
-XLI. Designar de entre sus miembros a los comisionados que integrarán la Comisión de Administración del Tribunal Electoral, en los términos señalados en el párrafo segundo del artículo 205 de esta ley; y
+XL. Dictar las disposiciones necesarias para la recepción, control y destino de los bienes asegurados y decomisados;
 
-> <small>(REFORMADA, D.O.F. 22 DE NOVIEMBRE DE 1996)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-XLII. Desempeñar cualquier otra función que la ley encomiende al Consejo de la Judicatura Federal.
+> <small>(REFORMADA, D.O.F. 30 DE AGOSTO DE 2011)</small>
+
+XLI. Designar de entre sus miembros a los comisionados que integrarán la Comisión de Administración del Tribunal Electoral, en los términos señalados en el párrafo segundo del artículo 205 de esta ley;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, D.O.F. 30 DE AGOSTO DE 2011)</small>
+
+XLII. Realizar las funciones que se le confieren en términos de lo dispuesto por el Libro Quinto del Código Federal de Procedimientos Civiles y expedir las disposiciones necesarias para el adecuado ejercicio de aquéllas, y
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, D.O.F. 30 DE AGOSTO DE 2011)</small>
+
+XLIII. Desempeñar cualquier otra función que la ley encomiende al Consejo de la Judicatura Federal.
 
 ###### ARTICULO 82.
 
@@ -3409,3 +3437,17 @@ Décimo Segundo. En un plazo de ciento ochenta días contados a partir de la ent
 D.O.F. 26 DE MAYO DE 2011.
 
 Único.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 30 DE AGOSTO DE 2011.
+
+PRIMERO.- El presente Decreto entrará en vigor a los seis meses siguientes al día de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan a lo previsto en el presente Decreto.
+
+TERCERO.- La Cámara de Diputados aprobará las modificaciones presupuestales necesarias a efecto de lograr el efectivo cumplimiento del presente Decreto.
+
+CUARTO.- El Consejo de la Judicatura Federal, en el ámbito de las atribuciones que le han sido conferidas, dictará las medidas necesarias para lograr el efectivo cumplimiento del presente Decreto.
+
+QUINTO.- El Consejo de la Judicatura Federal deberá crear el Registro dentro de los noventa días siguientes a la entrada en vigor del presente decreto. El requisito previsto en la fracción II del artículo 620 del Código Federal de Procedimientos Civiles no será aplicable sino hasta después del primer año de entrada en vigor del presente Decreto.
+
+SEXTO.- El Consejo de la Judicatura Federal deberá crear el Fondo a que se refiere el Capítulo XI del Título Único del Libro Quinto del Código Federal de Procedimientos Civiles dentro de los noventa días siguientes a la entrada en vigor del presente decreto. Mientras el Fondo no sea creado, los recursos que deriven de los procedimientos colectivos serán depositados en una institución bancaria y serán controlados directamente por el juez de la causa.
