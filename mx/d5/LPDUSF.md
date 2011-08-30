@@ -4,7 +4,7 @@ identifier: "LPDUSF"
 country: "mx"
 rank: "ley"
 publication_date: "1999-01-18"
-last_updated: "2009-06-25"
+last_updated: "2011-08-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12994&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LPDUSF"
 
 LEY DE PROTECCION Y DEFENSA AL USUARIO DE SERVICIOS FINANCIEROS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 25 DE JUNIO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 30 DE AGOSTO DE 2011.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el lunes 18 de enero de 1999.
 
@@ -171,6 +171,12 @@ IV. Actuar como árbitro en amigable composición o en juicio arbitral de estric
 > <small>(REFORMADA, D.O.F. 25 DE JUNIO DE 2009)</small>
 
 V. De conformidad con lo señalado por el artículo 86 de esta Ley, procurar, proteger y representar individualmente los intereses de los Usuarios, en las controversias entre éstos y las Instituciones Financieras mediante el ejercicio de las acciones, recursos, trámites o gestiones que procedan ante autoridades administrativas y jurisdiccionales, con motivo de operaciones o servicios que los primeros hayan contratado por montos inferiores a tres millones de unidades de inversión, salvo tratándose de reclamaciones en contra de instituciones de seguros en cuyo caso la cuantía deberá de ser inferior a seis millones de unidades de inversión;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, D.O.F. 30 DE AGOSTO DE 2011)</small>
+
+V Bis. Ejercitar la acción colectiva de conformidad con lo dispuesto en el Libro Quinto del Código Federal de Procedimientos Civiles, cuando se realicen actos, hechos u omisiones que vulneren los derechos e intereses de una colectividad de usuarios.
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -1264,13 +1270,23 @@ VI. Rendir mensualmente, dentro de los primeros cinco días hábiles, un informe
 
 VII. En general, llevar a cabo todas aquellas acciones que coadyuven a la mejor orientación jurídica y defensa legal de los Usuarios.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, D.O.F. 30 DE AGOSTO DE 2011)</small>
+
 ###### ARTÍCULO 91.
 
-Los Defensores, durante el tiempo que desempeñen dicho cargo, no podrán dedicarse al libre ejercicio de la profesión, salvo que se trate de actividades docentes.
+Los defensores, durante el tiempo que desempeñen dicho cargo, no podrán dedicarse al libre ejercicio de la profesión, salvo que se trate de actividades docentes.
+
+En caso de que un asunto represente, en cualquier forma, un conflicto de intereses para el defensor asignado por la Comisión Nacional, aquél deberá excusarse para hacerse cargo del mismo, y solicitar la asignación de otro defensor.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, D.O.F. 30 DE AGOSTO DE 2011)</small>
 
 ###### ARTÍCULO 92.
 
-En caso de que un asunto represente, en cualquier forma, un conflicto de intereses para el Defensor asignado por la Comisión Nacional, aquél deberá excusarse para hacerse cargo del mismo, y solicitar la asignación de otro Defensor.
+Cuando se realicen actos, hechos u omisiones que vulneren derechos e intereses de una colectividad de Usuarios, la Comisión Nacional, así como cualquier legitimado a que se refiere el artículo 585 del Código Federal de Procedimientos Civiles, podrán ejercitar la acción colectiva de conformidad con lo dispuesto en el Libro Quinto de dicho Código.
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE TITULO, VER ARTICULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -1669,3 +1685,17 @@ En tanto la Comisión Nacional para la Protección y Defensa de los Usuarios de 
 Al expedirse las disposiciones a que se refiere este artículo, se señalarán expresamente aquéllas a las que sustituyan o que queden derogadas.
 
 ...
+
+D.O.F. 30 DE AGOSTO DE 2011.
+
+PRIMERO.- El presente Decreto entrará en vigor a los seis meses siguientes al día de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan a lo previsto en el presente Decreto.
+
+TERCERO.- La Cámara de Diputados aprobará las modificaciones presupuestales necesarias a efecto de lograr el efectivo cumplimiento del presente Decreto.
+
+CUARTO.- El Consejo de la Judicatura Federal, en el ámbito de las atribuciones que le han sido conferidas, dictará las medidas necesarias para lograr el efectivo cumplimiento del presente Decreto.
+
+QUINTO.- El Consejo de la Judicatura Federal deberá crear el Registro dentro de los noventa días siguientes a la entrada en vigor del presente decreto. El requisito previsto en la fracción II del artículo 620 del Código Federal de Procedimientos Civiles no será aplicable sino hasta después del primer año de entrada en vigor del presente Decreto.
+
+SEXTO.- El Consejo de la Judicatura Federal deberá crear el Fondo a que se refiere el Capítulo XI del Título Único del Libro Quinto del Código Federal de Procedimientos Civiles dentro de los noventa días siguientes a la entrada en vigor del presente decreto. Mientras el Fondo no sea creado, los recursos que deriven de los procedimientos colectivos serán depositados en una institución bancaria y serán controlados directamente por el juez de la causa.
