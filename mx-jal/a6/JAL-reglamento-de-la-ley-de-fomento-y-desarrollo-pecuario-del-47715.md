@@ -4,7 +4,7 @@ identifier: "JAL-reglamento-de-la-ley-de-fomento-y-desarrollo-pecuario-del-47715
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-12-17"
-last_updated: "2005-12-17"
+last_updated: "2011-08-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=47715&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 REGLAMENTO DE LA LEY DE FOMENTO Y DESARROLLO PECUARIO DEL ESTADO DE JALISCO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE AGOSTO DE 2011.
 
 Reglamento publicado en la Sección XXXIX del Periódico Oficial del Estado de Jalisco, el sábado 17 de diciembre de 2005.
 
@@ -847,6 +847,108 @@ La guía de tránsito será despachada por el expeditor cuando el solicitante co
 
 La guía de tránsito tendrá vigencia hasta por cinco días naturales, a criterio del expeditor, fuera de este lapso se considerará guía vencida. Este documento deberá presentarse en los puntos de verificación zoosanitaria por los que transite.
 
+> <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 2011)</small>
+
+###### Artículo 72 Bis.
+
+Tratándose de equinos utilizados para deporte, espectáculo o trabajo, podrá ampararse su movilización mediante la Tarjeta de Tránsito Pecuario emitida por la Secretaría, la cual contendrá la siguiente información:
+
+I. Número de folio;
+
+II. Fecha de expedición y de vencimiento;
+
+III. Nombre y domicilio del propietario;
+
+IV. Reseña del animal, incluyendo:
+
+a) Raza;
+
+b) Número de registro genealógico, país de origen y nombre si los tuviera;
+
+c) Sexo;
+
+d) Fecha de nacimiento;
+
+e) Alzada;
+
+f) Color del pelaje;
+
+g) Descripción detallada de las manchas y otras características del pelaje, detallando tipo y ubicación, señaladas además en los dibujos incluidos en el documento; y
+
+h) Señas particulares;
+
+V. Medios de identificación con los que cuenta el animal para acreditar su propiedad; y
+
+VI. Número de patente de figura de herrar del propietario o del número de documento que acredita su adquisición, con fecha y lugar de expedición.
+
+> <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 2011)</small>
+
+###### Artículo 72 Bis 1.
+
+Para la obtención de la Tarjeta de Tránsito Pecuario, el propietario del animal deberá presentar ante el Inspector de Ganadería Municipal correspondiente, lo siguiente:
+
+I. Original y copia de un comprobante de domicilio;
+
+II. Original y copia de patente de figura de herrar o credencial vigente de ganadero siendo animal de su criadero, o del documento que acredite su adquisición; y
+
+III. Presentar el semoviente para el cual va a ser emitida la Tarjeta de Tránsito Pecuario para verificar las características del mismo y llevar a cabo el llenado de la solicitud respectiva por parte del Inspector de Ganadería Municipal, en el formato que le será proporcionado por la Secretaría.
+
+> <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 2011)</small>
+
+###### Artículo 72 Bis 2.
+
+Una vez llenada la solicitud, verificada la información proporcionada y revisado el animal por parte del Inspector de Ganadería Municipal, quien validará la documentación con su nombre, firma y sello, el propietario deberá hacer llegar a la Secretaría el expediente correspondiente, el cual deberá estar integrado por lo siguiente:
+
+I. Solicitud de expedición de Tarjeta de Tránsito Pecuario, por triplicado;
+
+II. Copia del comprobante de domicilio;
+
+III. Copia de patente de figura de herrar o credencial de ganadero siendo animal de su criadero, o del documento que acredite su adquisición; y
+
+IV. Original del recibo de pago de los derechos correspondientes por el concepto de expedición de Tarjeta de Tránsito Pecuario emitido por la oficina recaudadora de la Secretaría de Finanzas.
+
+> <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 2011)</small>
+
+###### Artículo 72 Bis 3.
+
+La Secretaría emitirá la Tarjeta de Tránsito Pecuario haciéndola llegar al solicitante, llevando un registro de todas las tarjetas emitidas en el Estado, por municipio, número y propietario.
+
+> <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 2011)</small>
+
+###### Artículo 72 Bis 4.
+
+La Tarjeta de Tránsito Pecuario deberá portarse cada vez que el semoviente sea movilizado, la cual tendrá los efectos de una Guía de Tránsito exclusivamente para su movilización dentro del territorio estatal.
+
+Aquellos animales que pretendan salir del Estado deberán amparar su movilización con la Guía de Tránsito emitida por la Secretaría de Finanzas a través de los expedidores autorizados en los términos de la Ley y el presente Reglamento y acatar las disposiciones que en la materia establecen la, normativa federal y cada una de las entidades federativas por las cuales transitará;
+
+Aún cuando un semoviente cuente con la Tarjeta de Tránsito Pecuario, optativamente se podrá amparar su movilización con la Guía de Tránsito.
+
+> <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 2011)</small>
+
+###### Artículo 72 Bis 5.
+
+La Tarjeta de Tránsito Pecuario no tiene validez para efectos de acreditación de propiedad, sino exclusivamente para movilización, y no podrá emitirse para animales orejanos o recién herrados. Tendrá una vigencia de dos años y se emitirá a favor del propietario del animal, previo el pago de derechos que por tal concepto establezca la Ley de Ingresos del Estado vigente.
+
+> <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 2011)</small>
+
+###### Artículo 72 Bis 6.
+
+La persona registrada como propietario del animal en la Tarjeta de Tránsito Pecuario será responsable de cualquier situación que se derive por un mal uso de la misma y por aquéllas infracciones a la Ley y su reglamento vinculadas con su uso u omisión, independientemente de las que pudieran resultar de la aplicación de la demás legislación civil o penal.
+
+En caso de cambio de propietario deberá notificarse ante la Secretaría dicha transferencia y entregar ante el Inspector de Ganadería Municipal la Tarjeta de Tránsito Pecuario del semoviente a fin de deslindar; al titular de la misma, de cualquier responsabilidad por uso indebido.
+
+> <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 2011)</small>
+
+###### Artículo 72 Bis 7.
+
+La Tarjeta de Tránsito Pecuario será válida para amparar sólo la movilización del semoviente que en ella se describe, es intransferible y su uso indebido dará a lugar a la cancelación de la misma por parte de la Secretaría. Dicha tarjeta no será válida en caso de tachaduras, enmendaduras o alteraciones.
+
+> <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 2011)</small>
+
+###### Artículo 72 Bis 8.
+
+La movilización de ganado amparada con una Guía de Tránsito o Tarjeta de Tránsito Pecuario vencida se considerará movilización no autorizada y se sancionará en los términos del artículo 129 fracción VI de la Ley.
+
 ###### Artículo 73.
 
 Cuando, derivado de la aplicación de la fracción I del artículo 53 de la Ley, se detecte alguna irregularidad en el ganado que se moviliza o la documentación que lo ampara, se procederá a retener el ganado en tanto se regulariza su situación debiendo el propietario cubrir las multas y gastos que esto genere.
@@ -1422,3 +1524,9 @@ LIC. ÁLVARO GARCÍA CHÁVEZ
 Secretario de Desarrollo Rural
 
 (RÚBRICA)
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA AL PRESENTE REGLAMENTO.</small>
+
+P.O. 30 DE AGOSTO DE 2011.
+
+ÚNICO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
