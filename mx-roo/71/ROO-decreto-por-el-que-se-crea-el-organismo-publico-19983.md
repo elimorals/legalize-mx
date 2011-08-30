@@ -4,7 +4,7 @@ identifier: "ROO-decreto-por-el-que-se-crea-el-organismo-publico-19983"
 country: "mx"
 rank: "decreto"
 publication_date: "1996-10-18"
-last_updated: "1996-10-18"
+last_updated: "2011-08-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=19983&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 DECRETO POR EL QUE SE CREA EL ORGANISMO PUBLICO DESCENTRALIZADO DENOMINADO "SERVICIOS ESTATALES DE SALUD"
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE AGOSTO DE 2011.
 
 Decreto publicado en el Periódico Oficial, el 18 de octubre de 1996.
 
@@ -68,6 +68,20 @@ XI.- Administrar los recursos que le sean asignados, las cuotas de recuperación
 XII.- Ejecutar todas las acciones contempladas en la Ley Estatal de Salud y sus reglamentos, en todo aquello que no se le contraponga, y
 
 XIII.- Las demás que este Decreto y otras disposiciones le confieran para el cumplimiento de su objeto.
+
+> <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 2011)</small>
+
+Asimismo, los Servicios Estatales de Salud, para dar cumplimiento a su objeto, tendrá adicionalmente las siguientes atribuciones:
+
+VI (SIC). Instrumentar y coordinar los sistemas de programación y evaluación institucional, en el área de obra pública de infraestructura en salud.
+
+VII. Elaborar en coordinación con las dependencias y entidades de la Administración Pública estatal, el Programa Anual de Infraestructura en Salud.
+
+VIII. Ejecutar o realizar obras públicas en materia de salud, directamente o a través de terceros, en términos de las leyes aplicables, así como vigilar su cumplimiento.
+
+IX. Organizar, dirigir y ejecutar los programas de obras públicas de infraestructura en salud, para la construcción, equipamiento, mantenimiento, rehabilitación, remodelación, habilitación, remozamiento y ampliación de los inmuebles destinados a la prestación de servicios de salud; así como apoyar a los Ayuntamientos del Estado en la realización de esas mismas acciones.
+
+X. Convocar y autorizar, en términos de las leyes aplicables, los procesos de adjudicación para las obras públicas de infraestructura en salud y servicios relacionados con las mismas, así como las adquisiciones en su caso.
 
 ###### ARTICULO 3o.
 
@@ -203,6 +217,10 @@ XIV.- Planear y dirigir técnica y administrativamente el funcionamiento del org
 
 XV.- Presentar a la Junta de Gobierno un informe anual de las actividades realizadas y de los resultados obtenidos, acompañando los informes específicos que se le requieran, y
 
+> <small>(ADICIONADA, P.O. 30 DE AGOSTO DE 2011)</small>
+
+XV.BIS.- Expedir a los constructores, en términos de la Ley de Salud del Estado de Quintana Roo, los Certificados de Autorización de Planos de Construcción, previo cumplimiento del procedimiento administrativo establecido por las disposiciones legales aplicables.
+
 XVI.- Las demás que este decreto y otras disposiciones le confieran.
 
 ###### ARTICULO 11.
@@ -246,3 +264,13 @@ DR. HECTOR ESQUILIANO SOLIS.
 EL SECRETARIO ESTATAL DE SALUD.
 
 DR. GUILBERT CANTO MASSA.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 30 DE AGOSTO DE 2011.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO.- El presente Decreto entrará en vigencia al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+TERCERO.- Se deroga toda disposición de igual o menor jerarquía contrarias al presente Decreto.
