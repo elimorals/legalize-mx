@@ -4,7 +4,7 @@ identifier: "COL-codigo-electoral-del-estado-de-colima-11634"
 country: "mx"
 rank: "codigo"
 publication_date: "1996-11-09"
-last_updated: "2008-08-31"
+last_updated: "2011-08-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11634&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 CODIGO ELECTORAL DEL ESTADO DE COLIMA
 
-> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO ELECTORAL DEL ESTADO DE COLIMA, PUBLICADO EN EDICION ESPECIAL EN EL P.O. 31 DE AGOSTO DE 2008, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO ELECTORAL DEL ESTADO DE COLIMA, PUBLICADO EN EDICION ESPECIAL EN EL P.O. 31 DE AGOSTO DE 2008, Y REPUBLICADO EN EL SUPLEMENTO NO. 1 EN EL P.O. 30 DE AGOSTO DE 2011, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
 
 ULTIMA REFORMA PUBLICADA EN EL PERIODIDO OFICIAL: ABROGADO.
 
@@ -4620,3 +4620,9 @@ SEGUNDO.- Se abroga el Código Electoral del Estado de Colima, expedido mediante
 TERCERO.- Por única vez la inscripción de los registros de los partidos políticos nacionales a que se refiere el artículo 38 de este CÓDIGO, para poder participar en el proceso electoral 2009, se deberá llevar a cabo a más tardar en el mes de septiembre de 2008.
 
 CUARTO.- Por única ocasión, en la revisión de los informes de financiamiento correspondientes al ejercicio 2008, no será aplicable lo establecido por la fracción I del artículo 67 de este CÓDIGO, por lo que se deberá tener como límite para las aportaciones de simpatizantes hechas a los PARTIDOS POLÍTICOS el 10% del financiamiento que haya correspondido al partido mayoritario en ese año.
+
+P.O. 30 DE AGOSTO DE 2011.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+SEGUNDO.- Se abroga el Código Electoral del Estado de Colima, expedido mediante Decreto número 230, de fecha 5 de noviembre de 1996 y publicado en el Periódico Oficial "El Estado de Colima" el 9 del mismo mes y año, así como sus reformas.
