@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-seguridad-publica-para-el-estado-de-tamaulipas-70382"
 country: "mx"
 rank: "ley"
 publication_date: "2007-12-27"
-last_updated: "2011-06-15"
+last_updated: "2011-08-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70382&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "TAM"
 ---
 # LEY DE SEGURIDAD PUBLICA PARA EL ESTADO DE TAMAULIPAS
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 30 DE AGOSTO DE 2011 EN EL P.O. DEL ESTADO DE TAMAULIPAS, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 LEY DE SEGURIDAD PUBLICA PARA EL ESTADO DE TAMAULIPAS
 
 ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE JUNIO DE 2011.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 30 DE AGOSTO DE 2011.</small>
 
 Ley publicada en el Anexo del Periódico Oficial del Estado de Tamaulipas, el jueves 27 de diciembre de 2007.
 
@@ -1585,19 +1585,19 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 
 ###### ARTÍCULO SEGUNDO.
 
-En un plazo no mayor a 30 días posteriores a la entrada en vigor del presente Decreto, el Ejecutivo del Estado deberá expedir el Decreto de creación del Instituto de Reclutamiento y Formación Policial de Tamaulipas.
+En un plazo no mayor a 30 días posteriores a la entrada en vigor del presente Decreto, el Ejecutivo del Estado deberá expedir las Normas de Funcionamiento del Instituto de Reclutamiento y Formación Policial del Estado de Tamaulipas.
 
 ###### ARTICULO TERCERO.
 
 Las Secretarías General de Gobierno, de Seguridad Pública, Finanzas y Administración, con la intervención de la Contraloría Gubernamental, harán las adaptaciones presupuestales y en materia de asignación de recursos humanos, oficinas, bienes inmuebles y muebles que se requieran para el cumplimiento del presente Decreto. Asimismo, se mantendrán a salvo los derechos laborales adquiridos por los integrantes de las instituciones policiales del Estado.
-
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTOS TRANSITORIOS, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 30 DE AGOSTO DE 2011 EN EL P.O. DEL ESTADO DE TAMAULIPAS, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
 
 P.O. 15 DE JUNIO DE 2011.
 
 ###### ARTÍCULO PRIMERO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+> <small>(F. DE E., P.O. 30 DE AGOSTO DE 2011)</small>
 
 ###### ARTÍCULO TERCERO.
 
