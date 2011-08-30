@@ -4,7 +4,7 @@ identifier: "MEX-codigo-de-procedimientos-administrativos-del-estado-de-17468"
 country: "mx"
 rank: "codigo"
 publication_date: "1997-02-07"
-last_updated: "2011-03-31"
+last_updated: "2011-08-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17468&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CODIGO DE PROCEDIMIENTOS ADMINISTRATIVOS DEL ESTADO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 31 DE MARZO DE 2011.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 30 DE AGOSTO DE 2011.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el viernes 7 de febrero de 1997.
 
@@ -1621,7 +1621,11 @@ IV. De los actos administrativos o fiscales que se relacionen con la resolución
 
 V. De las resoluciones negativas fictas que se configuren por el silencio de las autoridades administrativas y fiscales de carácter estatal o municipal, para dar respuesta a las peticiones de los particulares, en el plazo de 30 días siguientes a su presentación, conforme a las disposiciones de este ordenamiento;
 
-VI. Las omisiones de las autoridades del Poder Ejecutivo, de los municipios y de los organismos auxiliares de carácter estatal o municipal, para dar respuesta a las peticiones de los particulares, una vez que hayan transcurrido por lo menos 10 días siguientes a su presentación;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+
+> <small>(REFORMADA, G.G. 30 DE AGOSTO DE 2011)</small>
+
+VI. Las omisiones de las autoridades del Poder Ejecutivo, de los municipios y de los organismos auxiliares de carácter estatal o municipal para dar respuesta a las peticiones de los particulares, una vez que hayan transcurrido por lo menos 20 días siguientes a su presentación;
 
 VII. Los reglamentos, decretos, circulares y demás disposiciones generales de naturaleza administrativa y fiscal que expidan las autoridades del Poder Ejecutivo del Estado, de los municipios o de los organismos auxiliares de carácter estatal o municipal, sin que sea obligatorio o requisito previo para promover cualquier otro medio de impugnación en contra de tales determinaciones;
 
@@ -2398,3 +2402,17 @@ DÉCIMO CUARTO.- Se derogan las disposiciones de igual o menor jerarquía juríd
 DÉCIMO QUINTO.- El Programa Estatal de Publicidad Exterior deberá ser expedido por la Secretaría de Comunicaciones en un plazo máximo de cuatro meses contados a partir de la publicación del presente Decreto.
 
 DÉCIMO SEXTO.- Los permisos y autorizaciones en materia de publicidad exterior, vigentes al entrar en vigor las reformas serán respetados en sus términos hasta la conclusión del plazo por el que fueron otorgados. El Programa Estatal de Publicidad Exterior fijará los lineamientos para el otorgamiento de plazos adicionales de vigencia, cuando ello sea procedente.
+
+G.G. 30 DE AGOSTO DE 2011.
+
+###### ARTÍCULO PRIMERO.
+
+Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto entrará en vigor a los 30 días naturales siguientes al de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+###### ARTÍCULO TERCERO.
+
+Las peticiones que se encuentran en trámite al entrar en vigor este Decreto, se decidirán conforme a las disposiciones legales anteriores al mismo.
