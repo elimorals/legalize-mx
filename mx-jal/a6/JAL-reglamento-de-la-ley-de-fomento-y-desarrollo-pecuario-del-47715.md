@@ -4,7 +4,7 @@ identifier: "JAL-reglamento-de-la-ley-de-fomento-y-desarrollo-pecuario-del-47715
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-12-17"
-last_updated: "2005-12-17"
+last_updated: "2011-08-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=47715&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,1378 +21,1512 @@ state: "JAL"
 ---
 # REGLAMENTO DE LA LEY DE FOMENTO Y DESARROLLO PECUARIO DEL ESTADO DE JALISCO
 
-LEY DE FOMENTO GANADERO DEL ESTADO DE QUINTANA ROO
+REGLAMENTO DE LA LEY DE FOMENTO Y DESARROLLO PECUARIO DEL ESTADO DE JALISCO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE AGOSTO DE 2011.
 
-Ley publicada en el Periódico Oficial el 2 de enero de 1977.
+Reglamento publicado en la Sección XXXIX del Periódico Oficial del Estado de Jalisco, el sábado 17 de diciembre de 2005.
 
-DECRETO NUMERO 64.
+Al margen un sello que dice: Gobierno de Jalisco. Poder Ejecutivo. Secretaría General de Gobierno. Estados Unidos Mexicanos.
 
-La Primera Legislatura Constitucional del Estado Libre y Soberano de Quintana Roo, H. VII LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO,
+Guadalajara, Jalisco, jueves 17 de noviembre de 2005.
 
-D E C R E T A:
+Con fundamento en lo dispuesto por los artículos 36, 46 y 50 fracciones VIII y XXIV de la Constitución Política; 1°, 2°, 3°, 5°, 6°, 12, 19 fracción II, 21 y 22 fracciones I, IV y XXIII, de la Ley Orgánica del Poder Ejecutivo, todos los ordenamientos citados del Estado de Jalisco; y con base en los siguientes:
 
-LEY DE FOMENTO GANADERO DEL ESTADO DE QUINTANA ROO
+CONSIDERANDOS...
 
-## TITULO PRIMERO.. NATURALEZA Y OBJETO. COMPETENCIA Y ORGANIZACIÓN GANADERA
+Por lo anteriormente expuesto y fundado, he tenido a bien expedir el siguiente
 
-### CAPITULO I. NATURALEZA Y OBJETO
+ACUERDO
 
-###### ARTICULO 1.
+ÚNICO. Se expide el Reglamento de la Ley de Fomento y Desarrollo Pecuario del Estado de Jalisco, para quedar como sigue:
 
-Con fundamento en la facultad implícita otorgada por la Fracción XXI del Artículo 75 de la Constitución Política del Estado Libre y Soberano de Quintana Roo, esta Ley reglamenta el aprovechamiento de los recursos pecuarios disponibles y potenciales del Estado, pugnando por su mejoramiento y conservación en beneficio de la colectividad
+REGLAMENTO DE LA LEY DE FOMENTO Y DESARROLLO PECUARIO DEL ESTADO DE JALISCO
 
-###### ARTICULO 2.
+## Título Primero. De la Materia del Reglamento
 
-En base a lo anterior, se declara de interés público:
+### Capítulo I. De los Requisitos y Facultades de Nombramiento
 
-I.- La Cuantificación, clasificación y fomento de los recursos pecuarios del Estado.
+###### Artículo 1°.
 
-II.- Su adecuada utilización y comercialización con objeto de lograr su rendimiento optimo
+El presente ordenamiento tiene por objeto, reglamentar la Ley de Fomento y Desarrollo Pecuario del Estado de Jalisco en todo lo relativo a la producción, sanidad, inocuidad, regulación, clasificación, investigación, conservación, mejoramiento de las especies domésticas productivas, control de la movilización y comercialización, y vigilancia pecuaria.
 
-III.- La protección de esos recursos como patrimonio del pueblo y del Estado de Quintana Roo, y
+###### Artículo 2°.
 
-IV.- La investigación y experimentación con fines de mejoramiento de pastizales y ganado para definir la Asociación idónea para la producción
+Para efectos de este Reglamento, se entiende por:
 
-###### ARTICULO 3.
+I. AGOSTADERO. Predio rústico con pastos naturales dedicados a la ganadería.
 
-Quedan sujetas a las disposiciones de la presente Ley:
+II. APIARIO. Grupo de colmenas en explotación.
 
-I.- Todas las personas, sociedades e instituciones oficiales y privadas dedicadas a la explotación económica de la ganadería, la avicultura, la apicultura y demás especies menores, su movilización en pie y aprovechamiento de sus productos, subproductos, transporte, comercio e industrialización.
+III. ARREO. Traslado terrestre de animales.
 
-II.- Las plantas forrajeras de cultivo y sus productos, subproductos agrícolas y de industrialización y los productos de elaboración industrial destinados a la alimentación animal, y
+IV. ASOCIACIÓN GANADERA LOCAL GENERAL O ESPECIALIZADA. Agrupación organizada de ganaderos a nivel municipal, regulada por la Ley de Organizaciones Ganaderas y su Reglamento.
 
-III.- Los aguajes naturales y construidos, los depósitos de agua y los ríos y lagunas en uso o que puedan establecerse como abrevaderos para el ganado y otros usos inherentes a la ganadería, en cuanto no contravengan las disposiciones federales sobre la materia.
+V. CERTIFICADO ZOOSANITARIO. Documento oficial de la Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación expedido por médicos veterinarios oficiales o aprobados por la misma Secretaría.
 
-###### ARTÍCULO 4.
+VI. CLASIFICACIÓN. Determinación del grado de calidad de las especies domésticas productivas, productos y subproductos.
 
-Para los fines de esta Ley, se consideran:
+VII. COMISIÓN. Comisión México-Estados Unidos, para la Prevención de la Fiebre Aftosa y otras Enfermedades Exóticas de los Animales Domésticos.
 
-I.- Ganadero: Toda persona física o moral dedicada a la cría, mejoramiento y aprovechamiento zootécnico del ganado mayor, bovinos y equinos, desde 10 vientres y 1 semental o su equivalente en especies menores: porcinos 1:3, ovino y caprino 1:10 y que tengan debidamente registradas las patentes de propiedad que son las marcas a fuego y en frío fierro, las señales de sangre muescas, incisiones y cortes y los tatuajes.
+VIII. COMITÉ ESTATAL. Comité Estatal para la Calidad de la Carne.
 
-II.- Avicultor: Toda persona física o moral dedicada a la cría, mejoramiento y aprovechamiento zootécnico de las aves de corral con sistemas tecnificados, desde 1000 gallinas ponedoras permanentes, ó 500 pollos en engorda rotativa, ó 100 guajolotes e-nengorda (sic) rotativa, ó 500 patas ponedoras permanentes o los equivalentes en otras especies, y
+IX. CREDENCIAL DE PRODUCTOR PECUARIO. Documento que acredita al portador, mediante la fotografía, nombre y la leyenda impresa, la actividad que desempeña.
 
-III.- Apicultor: Toda persona física o moral dedicada a la cría, mejoramiento y aprovechamiento de las abejas y que posea uno o más apiarios integrados con no menos de 20 colmenas cada uno y con manejo tecnificado.
+X. CRÍA. Cuidado, manejo y alimentación de las especies domésticas productivas, durante la primera etapa de su vida.
 
-###### ARTICULO 5.
+XI. CRIADOR. Persona que se dedica a criar animales.
 
-La aplicación de esta Ley corresponde al Gobernador del Estado a través de la Secretaría de Fomento Agropecuario del Estado, y en lo conducente a los municipios del Estado
+XII. CUARENTENA. Medida de seguridad basada en el aislamiento, observación y restricción de la movilización de los animales por la sospecha o existencia de una enfermedad o plaga sujeta a control la cual se aplica a toda la explotación en que se localice el animal sospechoso, pudiendo ser precautorias, definitivas o de zona. La duración de la cuarentena la determinará la Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación, quién será la encargada de determinar que tipo de cuarentena se aplicará y su duración.
 
-###### ARTICULO 6.
+XIII. DOCUMENTO DE TRANSMISIÓN DE PROPIEDAD. Forma valorada emitida por la Secretaría de Finanzas y validada por el expeditor que sirve para acreditar la propiedad de las especies domésticas productivas, sus productos o subproductos.
 
-Para los efectos del artículo anterior se creara la Dirección de Ganadería, dependiente de la Secretaría de Fomento Agropecuario, como base para el Fomento de la Industria Pecuaria, programación, Estadística y Registro Ganaderos, de Administración, Organización y Vigilancia, con objeto de:
+XIV. ENFERMEDAD EXÓTICA. La que es extraña en el territorio nacional.
 
-I.- Coordinar la formulación e implementación de proyectos de fomento forrajero e integración, desarrollo y sanidad de la cría, reproducción y mejoramiento genético de los animales objeto de explotación zootécnica, y
+XV. ENZOOTIA. Enfermedad infecciosa o parasitaria que se presenta en una región de modo persistente y periódico.
 
-II.- Ser el órgano de enlace entre el Estado y las dependencias Federales competentes para conocer de la movilización interna y hacia y de fuera del Estado, de ganado de pie, sus productos, subproductos y esquilmos
+XVI. EPIZOOTIA. Enfermedad que se presenta en una población animal, durante un intervalo dado en una frecuencia mayor a la esperada.
 
-###### ARTICULO 7.
+XVII. EXPEDITOR. Persona contratada por las organizaciones pecuarias y designadas por la Secretaría con las atribuciones que le confiere el Reglamento.
 
-Para el logro de su objeto, la Dirección de Ganadería se coordinara, en lo conducente, con:
+XVIII. EXPENDIO DE CARNE CLASIFICADA. Establecimiento autorizado por la Secretaría para comercializar únicamente carne que ha sido sometida a clasificación de calidad y cortes finos.
 
-I.- La Representación General de Agricultura y Recursos Hidráulicos en el Estado.
+XIX. EXPLOTACIÓN PECUARIA. Conjunto de instalaciones, equipos, insumos y métodos para la cría y el aprovechamiento de las especies domésticas productivas, productos y subproductos.
 
-II.- La Banca Oficial y Privada para los programas de crédito y seguro ganaderos.
+XX. FIGURA DE HERRAR. Instrumento para herrar o marcar las especies domésticas productivas, como medida de identificación del propietario.
 
-III.- La Unión y las Asociaciones Ganaderas Locales del Estado y la Confederación Nacional Ganadera, y
+XXI. FORMAS VALORADAS. Documentos elaborados por la Secretaría de Finanzas, siendo la guía de tránsito, documento de transmisión de ganado, productos y subproductos, orden de sacrificio y solicitud de registro.
 
-IV.- Las Autoridades Federales, Estatales y Municipales
+XXII. FRIGORÍFICO. Cámara para almacenar, enfriar y conservar productos o subproductos que lo requieran.
 
-###### ARTÍCULO 8.
+XXIII. GUÍA. DE TRÁNSITO. Forma valorada que elabora la Secretaría de Finanzas y expiden los expeditores designados por la Secretaría, siendo el documento único que autoriza la movilización de las especies domésticas productivas, productos y subproductos.
 
-Son atribuciones de la Dirección de Ganadería del Estado las siguientes:
+XXIV. INFECTO CONTAGIOSO. Se denomina al organismo o material que pueda transmitir una infección o representar un riesgo de contagio.
 
-I.- Elaborar los estudios para la producción y mejoramiento de los pastos nativos e introducción de nuevas variedades de rendimiento y calidad probadas.
+XXV. INSPECCIÓN. Acto que se realiza para constatar mediante verificación el cumplimiento de las disposiciones sanitarias.
 
-II.- Realizar los estudios para el establecimiento de unidades de mejoramiento de la ganadería, a base de postas zootécnicas y bancos de semen de las especies y razas más idóneas al medio.
+XXVI. INSPECTOR DE GANADERÍA MUNICIPAL. Persona contratada por los ayuntamientos y designada por la Secretaría para realizar funciones establecidas en la Ley y en el Reglamento.
 
-III.- Tener a su cargo la dirección de los centros de experimentación forrajera y de mejoramiento genético, que establezca el Estado.
+XXVII. INTRODUCTOR. Persona que se dedica a la compra-venta habitual de las especies domésticas productivas e introducción de las mismas a los rastros.
 
-IV.- Mantener al día los libros de estadística pecuaria y de registro de razas que permitan en todo momento conocer la integración y desarrollo ganadero de la entidad, así como los libros de registro de fierros y otras marcas y señales de identidad, en función de patentes de los ganaderos.
+XXVIII. LABORATORIO DE DIAGNÓSTICO DE PATOLOGÍA ANIMAL. Centro de servicio, autorizado por la Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación para realizar estudios encaminados a diagnosticar la presencia de una enfermedad o plaga de los animales; así como para detectar la presencia de substancias que puedan ocasionar un daño a los animales y a la salud pública.
 
-V.- Dictar las medidas tendientes a evitar la salida del ganado mejorado y de raza producido en el Estado, o introducido para destinarlo a pies de cría o reproducción.
+XXIX. LEY. Ley de Fomento y Desarrollo Pecuario del Estado de Jalisco.
 
-VI.- Dictar las medidas tendientes a evitar el sacrificio de hembras, vientres, en edad y condiciones de reproducción y crías machos procedentes de ganado de raza o mejorado.
+XXX. LIBRO DE REGISTRO. Libro de control de sacrificio, entradas y salidas de animales, productos y subproductos, autorizados por la Secretaría, para ser utilizado en los rastros municipales, locales y centros de matanza debidamente autorizados, así como centros de acopio, engorda de ganado y aquellos otros establecimientos en los que por necesidades de control sea considerada necesaria su utilización por la Secretaría.
 
-VII.- Establecer los requisitos y lineamientos a que se sujetara el ganado que se introduzca al Estado, de origen Nacional o de importación como reproductores pies de cría y vientres, o para mejoramiento genético a través de sementales.
+XXXI. MARCA. Identificación individual que se hace en los animales a través de tatuajes, corte o muescas en las orejas, encías, belfos y/o en la cara interna de la cola de las especies domésticas productivas.
 
-VIII.- Hacer cumplir las medidas preventivas contra la propagación de enfermedades y parasitosis del ganado, dictadas en coordinación con los programas zoosanitarios correspondientes que desarrolla la federación.
+XXXII. MÉDICO VETERINARIO APROBADO. Profesionista reconocido por la Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación, para llevar a cabo actividades especiales, en materia zoosanitaria, de acuerdo a lo señalado por la Ley Federal de Sanidad Animal y las Normas Oficiales Mexicanas correspondientes.
 
-IX.- Asesorar a los ganaderos y promover las medidas tendientes a evitar el abigeato.
+XXXIII. NORMAS OFICIALES MEXICANAS. Regulación Técnica de observancia obligatoria expedida por las dependencias competentes, que establece reglas, especificaciones, atributos, directrices, características o prescripciones aplicables a un producto, proceso, instalación, sistema, actividad, servicio o método de producción u operación, así como aquellas relativas a terminología, simbología, embalaje, marcado o etiquetado y las que se refieran a su cumplimiento o aplicación.
 
-X.- Asesorar a la Unión Ganadera Regional, Asociaciones Ganaderas Locales y ganaderos Particulares, y servir de enlace con las instituciones de crédito y Seguro Pecuario, y
+XXXIV. NORMA MEXICANA. Disposición oficial publicada en el Diario Oficial de la Federación, de observancia general, pero no obligatoria, pudiendo ser emitida con carácter de temporal y emergente.
 
-XI.- Las demás que le confieren esta Ley y su reglamento
+XXXV. ORDEN DE SACRIFICIO. Acto administrativo materializado a través de la forma valorada expedida por la tesorería municipal y autorizada por el inspector de ganadería municipal, para autorizar el sacrificio de las especies domésticas productivas en los rastros, locales y municipales o en los centros de sacrifico, debidamente autorizados por la autoridad municipal.
 
-###### ARTÍCULO 9.
+XXXVI. PASTEURIZADORA. Establecimiento donde se acopia leche para su transformación, industrialización y comercialización.
 
-Para efectos de su función la dirección estará integrada por los departamentos y el personal técnico y administrativo que señale el presupuesto de egresos.
+XXXVII. PASTIZAL. Terreno con pasto forrajero para ser utilizado por el ganado.
 
-###### ARTICULO 10.
+XXXVIII. PATENTE. Número de registro de la figura de herrar que sirve para acreditar la propiedad de las especies domésticas productivas.
 
-Los ganaderos, los avicultores y los apicultores, en los términos de la Ley de Asociaciones Ganaderas, están obligados a organizarse en Asociaciones Ganaderas Especializadas o Mixtas, a nivel local Municipal a que corresponda la jurisdicción de su centro de actividades. La sede del domicilio social de las agrupaciones ganaderas se establecerá dentro de su zona de influencia en el lugar que más convenga a sus intereses
+XXXIX. PLAGA. Presencia de un agente biológico en un área determinada, que causa enfermedad o alteración en la salud de la población humana o animal.
 
-###### ARTICULO 11.
+XL. PLANTA PROCESADORA DE ALIMENTOS. Establecimiento donde se producen, industrializan y comercializan alimentos de origen animal, para consumo humano o animal.
 
-Debe entenderse por:
+XLI. PRADERA. Extensión de terreno cultivada con pastos nativos o mejorados para la alimentación del ganado.
 
-I.- Asociaciones Ganaderas Especializadas, las constituidas por ganaderos dedicados exclusivamente a la explotación de una función zootécnica definida del ganado, sea cual fuere la raza o razas pero de la misma especie, destinadas a la producción de carne o leche.
+XLII. PREVALENCIA. La frecuencia de una enfermedad o plaga, en un periodo preciso, referida a una población animal determinada.
 
-II.- Asociaciones Ganaderas Locales Mixtas o Generales son las constituidas por ganaderos que explotan indistintamente cualquiera de las funciones zootécnicas de una misma especie o de distintas especies sin importar la raza.
+XLIII. PREVENCIÓN. Conjunto de medidas zoosanitarias, que tienen por objeto evitar la presencia de una enfermedad o plaga de los animales.
 
-###### ARTICULO 12.
+XLIV. PROGRAMA ESTATAL. El Programa Estatal de Desarrollo Pecuario.
 
-Cada una de las asociaciones locales establecidas designará un delegado propietario y un suplente, para integrar la o las uniones ganaderas generales o especializadas respectivas, que tendrán por sede el lugar dentro de los limites del Estado más conveniente a sus actividades
+XLV. PUNTO DE VERIFICACIÓN ZOOSANITARIA. Instalación fija o móvil ubicada en vías de comunicación, con facultades federales y estatales, para inspeccionar y certificar el estado de salud de cualquiera de las especies domésticas productivas; y constatar documentos oficiales, para los animales, productos y subproductos en tránsito, con el fin de controlar su movilización de una zona a otra de acuerdo a lo establecido por la Ley Federal de Sanidad Animal y las normas oficiales mexicanas.
 
-###### ARTICULO 13.
+XLVI. RASTRO MUNICIPAL. Establecimiento registrado donde se sacrifican las especies domésticas productivas, para la comercialización de carnes y subproductos destinados a la alimentación humana.
 
-Las Asociaciones y uniones ganaderas, Regionales generales o especializadas, al quedar constituidas, conforme a esta Ley, solicitaran por escrito de la Dirección de Ganadería del Estado el registro correspondiente, adjuntando a dicha solicitud para su tramite legal los documentos que acrediten su personalidad, de conformidad a lo dispuesto en la Ley de Asociaciones Ganaderas.
+XLVII. RASTRO TIF. Establecimiento para sacrificio de animales y extracción de sus productos y subproductos. Las instalaciones y sus procesos productivos se ajustan a las normas oficiales mexicanas y su calidad zoosanitaria es certificada por la Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación.
 
-Satisfechos los requisitos anteriores, la Dirección los registrará como organismos auxiliares y de cooperación, reconociéndoles su personalidad jurídica, conforme a la Ley de la materia
+XLVIII. REMATE. Licitación encabezada por el presidente municipal correspondiente o su representante, en donde se subastan públicamente los animales mostrencos, previo conocimiento y autorización de la Secretaría.
 
-###### ARTICULO 14.
+XLIX. RIESGO EPIZOOTIOLÓGICO. Probabilidad de que una enfermedad se presente con alta difusión y transmisión.
 
-Las autoridades Estatales y Municipales, exigirán como requisito para todo tramite de asuntos relacionados con la ganadería, la cédula de identidad, de conformidad con lo dispuesto en el reglamento de la Ley de Asociaciones Ganaderas
+L. SALADEROS. Establecimientos donde se realiza tratamiento primario a las pieles frescas.
 
-###### ARTICULO 15.
+LI. SANIDAD ANIMAL. Actividad que tiene por objeto preservar la salud y prevenir las enfermedades y plagas de los animales encaminada a reducir su impacto económico negativo y proteger la salud pública.
 
-Para ser miembro de las Asociaciones Ganaderas, se requiere reunir los requisitos señalados en el artículo 4o., las comunidades ejidales de crédito ganadero lo harán mediante un socio delegado, el que será considerado representante legal de una entidad ganadera
+LII. SANIDAD PECUARIA. Conjunto de acciones encaminadas a preservar las condiciones sanitarias de las especies domésticas productivas.
 
-###### ARTICULO 16.
+LIII. SECRETARÍA. A la Secretaría de Desarrollo Rural.
 
-Serán atribuciones y obligaciones de las Asociaciones y Uniones Ganaderas del Estado:
+LIV. SUBPRODUCTO PECUARIO. Derivado del proceso de transformación e industrialización de un producto pecuario.
 
-I.- Pugnar por la afiliación de todos los ganaderos de su jurisdicción.
+LV. SUPERVISOR REGIONAL PECUARIO. Profesionista de la carrera de medicina veterinaria, que representa a la Secretaría en la región a la que está asignado, el cual es responsable de la aplicación de la Ley y su Reglamento.
 
-II.- Proponer y promover las medidas tendientes a proteger la ganadería colaborando ampliamente con los Gobiernos Estatal y Federal, para combatir el abigeato, las enfermedades, las parasitosis y otras que limitan su desarrollo.
+LVI. TRASHERRADO. Semoviente al que le fue sobrepuesta una figura de herrar sobre la figura herrada originalmente.
 
-III.- Promover los estudios de distribución geográfica más idónea entre el medio y especies pecuarias, en base a la relación de las reacciones del individuo en el medio, para fines de optimizar el aprovechamiento de los recursos naturales y rendimientos del ganado, establecida su explotación.
+LVII. UNIDADES DE PRODUCCIÓN PECUARIA. Organizaciones económicas de explotación de las especies domésticas productivas, pudiendo ser privadas o en conjunto.
 
-IV.- Promover el establecimiento de centros de investigación permanentes con objeto de mejorar los recursos pecuarios disponibles, potenciales y su utilización.
+LVIII. UNIÓN GANADERA. Agrupación de asociaciones ganaderas locales generales o especializadas.
 
-V.- Programar la producción de sus zonas de conformidad con la capacidad registrada, a fin de conocer (en un momento dado) las disponibilidades y poder organizar los canales de comercialización a cubierto de intermediarios.
+LIX. VACUNACIÓN. Práctica que se realiza para la aplicación de un biológico o antígeno específico, a fin de prevenir una enfermedad mediante inmunización.
 
-VI.- Pugnar por establecer en la producción animal, un criterio zootécnico congruente con las especificaciones del mercado a fin de uniformar la calidad de los productos en beneficio de la colectividad.
+LX. VERIFICACIÓN. Constatación ocular, mediante muestreo o análisis de laboratorio oficial acreditado, para el cumplimiento de las leyes y normas oficiales mexicanas.
 
-VII.- Asesorar y apoyar a sus asociados para la obtención de créditos para el mejoramiento genético y de rendimiento, organizando comités y otras comisiones para facilitar sus operaciones directas y agilizar los tramites.
+LXI. ZONA DE CONTROL. Área geográfica determinada en la que se operan medidas zoosanitarias, tendientes a erradicar o disminuir la incidencia o prevalencia de una enfermedad o plaga que afecte a las especies domésticas productivas, en un período determinado o indefinido.
 
-VIII.- Promover entre sus miembros el aprovechamiento de las prestaciones del Seguro Ganadero.
+LXII. ZONA DE ERRADICACIÓN. Área geográfica determinada en la que se operan medidas zoosanitarias tendientes a la eliminación de una enfermedad o plaga de animales.
 
-IX.- Administrar adecuadamente los fondos provenientes de las aportaciones de sus miembros, y otras que constituyen los recursos económicos de la asociación para su correcto funcionamiento.
+LXIII. ZONA DE PROMOCIÓN. Área geográfica determinada en donde se planea llevar a cabo una acción de erradicación o control de una enfermedad o plaga.
 
-X.- Participar y colaborar activamente en la organización de las exposiciones ganaderas y de la industria pecuaria a nivel Estatal, Regional y las Nacionales a que sean invitadas, teniendo en cuenta que dichos eventos aparte de dor (sic) a conocer los logros alcanzados por cada ganadero en particular, permiten el intercambio de experiencias entre los ganaderos y una mayor difusión y comprensión publica de sus actividades.
+LXIV. ZONA LIBRE. Área geográfica determinada en la cual se ha erradicado o no se han presentado casos de una enfermedad o plaga, que afectó a animales de forma específica.
 
-XI.- Pugnar por una mejor capacitación objetiva y orientada de sus asociados, organizando conferencias y mesas redondas con especialistas invitados tanto nacionales como extranjeros.
+LXV. ZONA METROPOLITANA DE GUADALAJARA. Área geográfica conformada por los municipios de Guadalajara, Tlaquepaque, Tonalá, Zapopan, Tlajomulco de Zúñiga y El Salto, todos del Estado de Jalisco.
 
-XII.- Pugnar por elevar el nivel de vida de sus asociados, fomentando el establecimiento de bibliotecas y centros de recreación cultural y deportivo.
+###### Artículo 3°.
 
-XIII.- Representar los intereses comunes de sus miembros ante las autoridades que lo requieran, procurando la mejor defensa en todos los casos que consoliden la agrupación.
+El Ejecutivo del Estado, además de celebrar convenios municipales y federales, podrá también realizarlos con organismos o autoridades de otros ámbitos internacionales. Éstos serán relativos a programas ganaderos o en apoyo de ellos, tendientes a establecer medidas zoosanitarias, de fomento, de genética, de investigación, educativa y científica de carácter pecuario.
 
-XIV.- Llevar el Censo Ganadero y Estadístico de los recursos pecuarios de su jurisdicción con el mayor acopio de datos posibles y los estatales y nacionales que incrementen su caudal de información.
+###### Artículo 4°.
 
-XV.- Llevar un registro de los fierros, señales y tatuajes que identifican la ganadería de cada uno de sus miembros, propiedad que a su vez registraran en la sección correspondiente de la dirección.
+La Secretaría, al designar a los Supervisores Regionales Pecuarios, tomará como base los siguientes requisitos:
 
-XVI.- Difundir entre sus asociados el conocimiento de esta Ley y vigilar su cumplimiento, y
+I. Ser mexicano por nacimiento;
 
-XVII.- Las demás que les confiere esta Ley, la Ley de Asociaciones Ganaderas y su Reglamento
+II. Ser mayor de 21 años de edad;
 
-###### ARTICULO 17.
+III. Contar con licenciatura de médico veterinario zootecnista; preferentemente con las acreditaciones otorgadas por la Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación en materia de movilización y campañas zoosanitarias;
 
-Los fondos económicos necesarios para el funcionamiento administrativo y de carácter social de las agrupaciones ganaderas, provendrán desde luego de las cuotas fijas generales que hayan de cubrir mensualmente sus miembros y de otras aportaciones especiales
+IV. No tener antecedentes penales;
 
-###### ARTICULO 18.
+V. Contar con reconocida calidad moral;
 
-Las cuotas mensuales de los miembros y otras aportaciones constituirán los recursos económicos de cada asociación mismos que serán manejados por sus respectivas directivas
+VI. Residir como mínimo tres años en el Estado de Jalisco y preferentemente en la región para la cual será designado.
 
-### CAPITULO II. COMPETENCIA
+###### Artículo 5°.
 
-###### ARTICULO 19.
+Los inspectores de ganadería municipales se nombraran y serán remunerados a propuesta de los ayuntamientos al que correspondan, con el visto bueno de las asociaciones ganaderas locales generales o especializadas legalmente constituidas en el municipio, quienes además de lo previsto en la Ley y su Reglamento, deberán cumplir con los siguientes requisitos:
 
-Para el funcionamiento de las Asociaciones Ganaderas se estará a lo dispuesto en la Ley de Asociaciones Ganaderas y su Reglamento
+I. Ser mexicano;
 
-###### ARTICULO 20.
+II. Ser mayor de 18 años;
 
-Para los términos de la presente Ley, la propiedad del ganado en pie y de los cueros sin tratar, se acreditara con los siguientes medios legales:
+III. Conocer plenamente las actividades pecuarias, la Ley y su Reglamento;
 
-I.- Del Ganado:
+IV. No tener antecedentes penales; y
 
-a) Con la marca a fuego o en frío del fierro de criador registrado conforme a lo establecido en la presente Ley.
+V. Contar con honorabilidad reconocida en el municipio.
 
-b) Con los tatuajes de control económico aplicados en partes accesibles sin pelo del animal.
+En caso de no existir acuerdo entre el ayuntamiento y las asociaciones ganaderas locales generales especializadas para su nombramiento, la Secretaría resolverá sobre el particular.
 
-c) Con las señales de sangre, debidamente registradas para el ganado menor, y para el ganado mayor hasta el año y medio de vida.
+###### Artículo 6°.
 
-d) Con el registro de raza pura, expedido a nombre del adquirente por la Asociación de Criadores especializados que corresponda, y
+Cuando por cualquier motivo no se cuente con un inspector de ganadería municipal en el municipio, el secretario del ayuntamiento asumirá sus funciones, previa notificación por escrito a la Secretaría, en tanto se cuenta con un titular para el cargo, sin que este encargo pueda exceder de un término de 30 días, a partir de lo cual la Secretaría determinará lo conducente.
 
-e) Con documentos de propiedad debidamente requisitados.
+###### Artículo 7°.
 
-II.- De los Cueros sin tratar:
+Las organizaciones de productores pecuarios legalmente constituidos ante la Ley de Organizaciones Ganaderas y su reglamento, otorgarán el servicio de expedición de Guías de Tránsito y de Transmisión de Propiedad, a través de sus expeditores, cobrando a los solicitantes el importe que para estas formas valoradas establezca la Ley de Ingresos del Estado. Lo anterior sin perjuicio del cobro de cuotas a sus socios por aquellos conceptos que por acuerdo de sus asambleas se determinen, en los términos del artículo 30 fracciones II del Reglamento de la Ley de Organizaciones Ganaderas en tanto estos no constituyan una contravención a cualquier ordenamiento legal.
 
-a) Con la marca del fierro de su propiedad claramente impresa en el cuero, cuando se trate de ganaderos propietarios, y
+###### Artículo 8°.
 
-b) Con documentos de transferencia de dominio debidamente requisitados
+Los expeditores que se nombrarán en los términos de la Ley y del Reglamento, a propuesta de las asociaciones ganaderas y de la cual dependerán laboralmente, deberán reunir los siguientes requisitos:
 
-###### ARTICULO 21.
+I. Ser mexicano por nacimiento;
 
-Se entiende por fierro ganadero el diseño que representa figuras especiales o la combinación de las iniciales del nombre del ganadero o de números, manufacturados en hierro, unidos entre sí en una pieza fija, que se prolonga en su parte posterior por un mango del mismo material aislado en su extremo libre o no, que se utiliza para herrar y definir la propiedad del ganado mayor complementada con la reseña
+II. Ser mayor de 18 años de edad;
 
-###### ARTICULO 22.
+III. Conocer la actividad pecuaria, la Ley y su Reglamento;
 
-Se entiende por tatuajes, todas las impresiones incruentas que se usan indistintamente tanto en ganado menor como mayor para imprimir siglas punteadas. Para tal efecto se utilizan pinzas especiales y tintas indelebles, para marcar por presión punzante en la cara interna del pabellón de la oreja, claves de registro y de control económico
+IV. No tener antecedentes penales; y
 
-###### ARTICULO 23.
+V. Contar con reconocida calidad moral.
 
-Se entiende por señales de sangre, todas las incisiones limpias con separación de continuidad de planos sin desprendimiento de partes y otras con desprendimiento de pequeñas secciones regulares y forma convencional, sin desgarraduras, que se practican generalmente en los bordes del pabellón de una o de ambas orejas, correspondiendo la situación de cada muesca en el plano apendicular, a un número clave dado, practicadas indistintamente en ganado mayor y menor
+###### Artículo 9°.
 
-### CAPITULO III. De las organizaciones Ganaderas
+Son funciones de los expeditores las siguientes:
 
-###### ARTICULO 24.
+Expedir y autorizar con firma y sello la guía de tránsito para la movilización de las especies domésticas productivas, sus productos o subproductos;
 
-Se entiende por registros de raza, el certificado o tarjeta genealógica o pedigrí, expedido a favor de un socio criador, por una asociación de criadores especializados y que contiene los antecedentes genéticos así como la raza, nombre o número, fecha de nacimiento y señas particulares o fotografías de un animal.
+II (sic). Autorizar con firma y sello, el documento de transmisión de propiedad o la factura fiscal de compra-venta, de las especies domésticas productivas;
 
-La adquisición de un animal de registro de raza pura, se ampara por el documento de transferencia junto con la tarjeta genealógica requisitada y endosada a nombre del nuevo propietario
+III. Asesorar a los ganaderos en los trámites de registro de patente de herrar;
 
-###### ARTICULO 25.
+IV. Orientar a los productores sobre la denuncia de abigeatos ante las autoridades competentes;
 
-Se entiende por documentos de propiedad, los documentos mercantiles, facturas de compra-venta actas de donación o traspaso que acrediten la enajenación por una parte, y por otra, la posesión de quien se ostente como propietario del o de los animales que los documentos reseñen.
+V. Llevar el archivo de las copias de la documentación expedida por lo menos durante 5 años; y
 
-Para efectos de la validez de los documentos de que habla el párrafo anterior, se exigirá que en dichos documentos figure el diseño del fierro del criador que transfiere, para el caso de ganado mayor, o las marcos (sic) de registro y reseña para el ganado menor, la naturaleza del cambio de dominio, nombres del cedente y el adquirente, lugar y fecha de la operación, destino del o los semovientes y la firma del inspector de ganadería, que certifica la legalidad del acto
+VI. Elaborar informe mensual de movilización y venta de ganado documentados en esa oficina, mismo que reportará a la Secretaría a través del inspector de ganadería municipal.
 
-###### ARTICULO 26.
+###### Artículo 10.
 
-Para ejercer el derecho de patente de propiedad sobre un fierro u otras marcas ganaderas de tenor particular o en copropiedad, los ganaderos gestionaran el registro de sus fierros y demás marcas, a través de la Asociación Ganadera Local correspondiente, ante la Dirección de Ganadería del Estado y los municipios respectivos
+La Secretaría podrá designar para cada asociación ganadera y a petición de la misma, el número de expeditores que por las necesidades de ésta se justifiquen.
 
-###### ARTICULO 27.
+###### Artículo 11.
 
-Los criadores de ganado registraran simultáneamente sus fierros de criador y venta y sus marcas y señales de sangre en la forma establecida por el Artículo anterior
+Cuando un expeditor se ausente del cargo de manera temporal o definitiva, se informará y tramitará ante la Secretaría la persona que asumirá el cargo a propuesta por escrito del consejo directivo de la asociación, en tanto se reincorpore el titular del cargo o bien se otorga el nombramiento a un nuevo expeditor, si es el caso.
 
-## TITULO SEGUNDO
+###### Artículo 12.
 
-### CAPITULO I. De la Propiedad Fierros, Marcas y Señales de Sangre
+Las funciones de inspector de ganadería municipal y del expeditor no podrán ser ejercidas por una misma persona en el municipio.
 
-###### ARTICULO 28.
+###### Artículo 13.
 
-Para el pago de los derechos de registro correspondiente, los ganaderos aportaran a sus asociaciones el monto de estos y con la documentación recabada se harán los registros en los municipios que correspondan
+En los municipios de la Zona Metropolitana de Guadalajara, la Secretaría asignará personal responsable de supervisar el cumplimiento de las disposiciones de la Ley y del Reglamento, en apoyo al supervisor regional pecuario.
 
-###### ARTICULO 29.
+La Secretaría, cuando lo considere conveniente, mediante autorización del Ejecutivo y previo convenio que así lo especifique, podrá delegar estas atribuciones al personal de aquélla, a las asociaciones ganaderas o a otros organismos auxiliares.
 
-Independientemente de la residencia particular de los ganaderos, deberán registrar sus patentes en el municipio donde se encuentren ubicados sus predios. Si un ganadero tiene predios y ganado en explotación permanentemente en varios municipios, deberá registrar sus patentes en los municipios correspondientes. Si la estancia de los animales es transitoria en un tiempo no mayor de noventa días, será suficiente que den aviso del hecho las Asociaciones ganaderas correspondientes y a falta de estas, a los municipios respectivos
+###### Artículo 14.
 
-###### ARTICULO 30.
+La Secretaría de Finanzas elaborará el documento de transmisión de propiedad, el cual será expedido mediante el pago del monto que establezca la Ley de Ingresos del Estado vigente a la fecha de transmisión de propiedad. El documento en original será para el comprador, mientras que cuatro copias serán repartidas entre el vendedor, la oficina recaudadora, la oficina del expeditor y la Secretaría; debiendo contener los siguientes datos:
 
-La Dirección llevara dos tipos de registro de fierros y otras marcas:
+I. Fecha de expedición;
 
-I.- Registro General: para control de ganado criollo, mejorado o cruzas y de raza sin registro, con los datos proporcionados por la asociación, y
+II. Nombre del vendedor;
 
-II.- Registro Especial: para control de ganado con registro de raza pura
+III. Número de Registro Federal de Contribuyentes del vendedor (opcional);
 
-###### ARTICULO 31.
+IV. Domicilio del vendedor;
 
-Para obtener los registros de fierros, las Asociaciones Ganaderas Locales formaran una solicitud de registro por cada socio, dirigida a la Dirección de Ganadería, la que contendrá domicilio del asociado, ubicación de sus predios ganaderos, extensión de los mismos, superficie en explotación, capacidad potencial, pastizales, coeficiente de agostadero, obras complementarias, especies de ganado, razas, número de cabeza por especie y raza, función zootécnica, rendimiento promedio, incremento medio anual y diseños o logotipos de sus fierros
+V. Nombre del comprador;
 
-###### ARTICULO 32.
+VI. Número de Registro Federal de Contribuyentes del comprador (opcional);
 
-Una vez presentada la solicitud a que se refiere el Artículo anterior, la Dirección de Ganadería, otorgara o negara el registro, en un término de treinta días.
+VII. Domicilio del comprador;
 
-Si se niega el registro, la Asociación correspondiente podrá presentar nueva solicitud, llenando los requisitos y satisfaciendo las medidas que señale la Dirección en su Resolución
+VIII. Tipo de productor;
 
-###### ARTICULO 33.
+IX. Especie doméstica productiva;
 
-La Dirección, rechazara las solicitudes de registro de fierros parecidos o de fácil confusión con otros ya acreditados con anterioridad, en prevención de conflictos y hechos delictuosos.
+X. Número de animales con letra y número;
 
-Conforme al párrafo anterior queda prohibido el uso de dos fierros iguales por distintos criadores de la misma especie y razas de ganado en el Estado, y en caso de coincidir las solicitudes de registro, la Dirección consultara a la Unión Ganadera Regional, respecto de los antecedentes de fundación o prioritarios de las ganaderías ponentes, para conceder la patente a quien corresponda buscando conciliar intereses en beneficio general
+XI. Número de patente o número de factura de procedencia;
 
-###### ARTICULO 34.
+XII. Descripción de los animales;
 
-Cada Asociación Ganadera Local por su parte, registrara un fierro de criador y otro de venta, para herrar el ganado de los pequeños propietarios de ganado de su jurisdicción que por el reducido número de animales en propiedad, menos de diez efectivos, no amerite a juicio de la Dirección el registro de una patente pero en todo caso el registro deberá asentarse en los municipios respectivos
+XIII. Importe del valor de la venta;
 
-###### ARTICULO 35.
+XIV. Dibujos de las figuras de herrar y cantidad con letra y número;
 
-Los fierros de criador y venta registrados conforme a esta Ley son de uso exclusivo del propietario, y únicamente marcara con ellos animales de su propiedad
+XV. Nombre y firma del vendedor;
 
-###### ARTICULO 36.
+XVI. Nombre, firma y sello del expeditor;
 
-Cuando un fierro deje de utilizarse como crédito de propiedad por cambio de giro u otros motivos que obliguen a la liquidación de la explotación, el dueño de la patente o su representante deberá solicitar su cancelación a la Asociación Ganadera correspondiente, en los 30 días siguientes al cierre de sus operaciones y la Asociación a su vez, en un plazo no mayor al anterior, hará los tramites respectivos ante la Dirección turnando copia al Ayuntamiento de la jurisdicción, a otras Asociaciones en el Estado, a la unión ganadera y al interesado
+XVII. Número de guía de tránsito; y
 
-###### ARTICULO 37.
+XVIII. Número de certificado zoosanitario.
 
-Los ganaderos que se dediquen a la compra de becerros y novillos para engorda en potreros y corrales, o bovinos de ambos sexos de toda edad para el abasto, darán aviso a la Dirección con copia a la Asociación Ganadera Local y la Presidencia Municipal correspondiente del inicio de sus actividades, razón social, ubicación y extensión del predio, capacidad, instalaciones complementarias, especialidad y sistemas utilizados, debiendo requisitar satisfactoriamente la documentación de cada partida de ganado que adquiera para comprobar la legitimidad de sus operaciones
+###### Artículo 15.
 
-###### ARTICULO 38.
+La Secretaría de Seguridad Pública, Previsión y Readaptación Social y la Procuraduría General de Justicia del Estado, dentro de su capacidad y atribuciones, prestarán a solicitud de la Secretaría, apoyos para vigilancia en los diferentes puntos de verificación zoosanitaria que se encuentran dentro del territorio estatal, el recurso humano proporcionado actuará en coordinación y como apoyo al inspector zoosanitario.
 
-La alteración intencional de un fierro, trasherrar, es un delito que se persigue de oficio y sin perjuicio de que a los autores y tenedores, en su caso, se le cobren los gastos que se originen por encierro, manejo y alimentación del ganado confiscado hasta el término del proceso con la Resolución Legal que previene la devolución del o los semovientes a su legitimo propietario sin costo alguno de su parte
+###### Artículo 16.
 
-###### ARTICULO 39.
+Los supervisores regionales pecuarios designados por la Secretaría, serán responsables de la supervisión, asesoría y capacitación de los expeditores, inspectores de ganadería municipales, así como de brindar asesoría y apoyo al personal de puntos de verificación zoosanitaria en su región, dentro del ámbito de su competencia.
 
-Para la protección de la propiedad de los semovientes en los términos de la presente Ley, se castigara como abigeato, la alteración de patentes en activo, y todo ganadero que se vea implicado en hechos delictuosos de tal naturaleza será dado de baja de la Asociación a que se haya adscrito retirándole todo derecho de afiliación en agrupaciones de tipo similar
+###### Artículo 17.
 
-### CAPITULO II. De Los Registros
+Para los efectos del artículo 18 de la Ley, el territorio del Estado se divide en las regiones que a continuación se indican:
 
-###### ARTICULO 40.
+I. Región Altos Norte «Lagos de Moreno»: Encarnación de Díaz, Lagos de Moreno, Ojuelos de Jalisco, San Diego de Alejandría, San Juan de los Lagos, Teocaltiche, Unión de San Antonio y Villa Hidalgo;
 
-Las curtidurías, otros establecimientos, y personas que maquilen o comercien con cueros para su tratamiento, recabaran como requisito para sus operaciones legales, el certificado de inspección y autorización expedido por la propia Dirección, inspección que se hará con la frecuencia que fije la propia dependencia
+II. Región Altos Sur «Tepatitlán de Morelos»: Acatic, Arandas, Jalostotitlán, Jesús María, Mexticacán, San Julián, San Miguel el Alto, San Ignacio Cerro Gordo, Tepatitlán de Morelos, Valle de Guadalupe, Cañadas de Obregón, Yahualica de González Gallo;
 
-###### ARTICULO 41.
+III. Región Ciénega «Ocotlán»: Atotonilco El Alto, Ayotlán, Chapala, Degollado, Jamay, Jocotepec, La Barca, Ocotlán, Poncitlán, Tizapán El Alto, Tototlán, Tuxcueca, Zapotlán del Rey;
 
-Las curtidurías y establecimientos similares están obligados a llevar libros de registro, que mantendrán actualizados, autorizados por la Dirección, en los que se asentaran los nombre de sus proveedores y clientes a quienes maquilen cueros, su domicilio, el diseño de sus fierros que ostenten sus cueros y fecha de entrega sin aceptar productos que no estén amparados por la guía respectiva y la documentación correspondiente.
+IV. Región Sureste «Tamazula de Gordiano»: Concepción de Buenos Aires, Jilotlán de los Dolores, La Manzanilla de la Paz, Mazamitla, Pihuamo, Quitupan, Santa María del Oro, Tamazula de Gordiano, Tecalitlán y Valle de Juárez;
 
-Los ganaderos tratantes de cueros o cualquier persona que tenga en su poder cueros frescos, deberá acreditar su legal tenencia. Si apareciere alteración en marcas y señales o documentación se estará a lo dispuesto en los artículos 35,38 y 39.
+V. Región Sur «Zapotlán el Grande». Amacueca, Atemajac de Brizuela, Atoyac, Gómez Farías, San Gabriel, Sayula, Tapalpa, Techaluta de Montenegro, Teocuitatlán de Corona, Tolimán, Tonila, Tuxpan, Zacoalco de Torres, Zapotiltic, Zapotitlán de Vadillo, Zapotlán el Grande;
 
-###### ARTICULO 42.
+VI. Región Sierra de Amula «El Grullo»: Atengo, Chiquilistlán, Ejutla, El Grullo, El Limón, Juchitlán, Tecolotlari, Tenamaxtlán, Tonaya, Tuxcacuesco, Unión de Tula;
 
-La propiedad de aves de corral y colmenas se acreditará con los movimientos de control interno: cuadros de existencias y producción, revisiones, historia clínica, que se tengan en antecedentes de registros de la explotación cuando se trate de avicultores o apicultores establecidos, o con los documentos correspondientes cuando quien se ostente como propietario no pueda presentar antecedentes de sus actividades en el campo objeto de investigación en los 90 días anteriores
+VII. Región Costa Sur «Autlán de Navarro»: Autlán de Navarro, Casimiro Castillo, Cihuatlán, Cuautitlán de García Barragán, La Huerta y Villa Purificación;
 
-###### ARTICULO 43.
+VIII. Región Costa Norte «Puerto Vallarta»: Cabo Corrientes, Puerto Vallarta y Tomatlán;
 
-La Dirección reconocerá y autorizara el uso de dos tipos de fierro a cada ganadero:
+IX. Región Sierra Occidental «Mascota»: Atenguillo, Ayutla, Cuautla, Guachinango, Mascota, Mixtlán, San Sebastián del Oeste, Talpa de Allende;
 
-I.- El primero es de valor positivo y acredita la propiedad. Se conoce como fierro de criador se aplica en la cara externa del muslo del miembro izquierdo, y
+X. Región Valles «Ameca»: Ahualulco de Mercado, Amatitán, Ameca, Arenal, Cocula, Etzatlán, Hostotipaquillo, Magdalena, San Juanito de Escobedo, San Marcos, San Martín Hidalgo, Tala, Tequila, Teuchitlán;
 
-II.- El segundo es de valor negativo y sanciona la enajenación se conoce como fierro de venta y se aplica por abajo del hombro en la paleta izquierda
+XI. Región Centro «Guadalajara»: Acatlán de Juárez, Cuquío, El Salto, Guadalajara, Juanacatlán, lxtlahuacán del Río, Ixtlahuacán de los Membrillos, San Cristóbal de la Barranca, Tlajomulco de Zúñiga, Tlaquepaque, Tonalá, Villa Corona, Zapopan y Zapotlanejo;
 
-###### ARTICULO 44.
+XII. Región Norte «Colotlán»: Bolaños, Chimaltitán, Colotlán, Huejúcar, Huejuquilla El Alto, Mezquitíc, San Martín de Bolaños, Santa María de los Ángeles, Totatiche y \/illa Guerrero.
 
-La Dirección reconocerá y autorizara el registro y uso ganadero de los tatuajes y señales de sangre convencionales a que se refiere esta Ley, para acreditar la propiedad por clase de ganado mayor y menor.
+### Capítulo II. Del Ejercicio de la Actividad Pecuaria y Clasificación de la Explotación de las Especies Domésticas Productivas
 
-LA (sic) Dirección reconoce el derecho de los ganaderos para establecer el sistema interno que más le acomode para el control numérico según finalidad de los semovientes: numeración a fuego, medallón, aretes, anillos, etc
+Artículo. 18. La Secretaría será responsable de establecer el Registro Estatal de Productores Pecuarios, el que se llevará por:
 
-###### ARTICULO 45.
+I. Municipio;
 
-El ganado adquirido por una ganadería con fines de reproducción, vaquillas, vientres y pies de cría, será marcado con el fierro del nuevo propietario, en la cara externa del muslo del miembro derecho
+II. Orden progresivo de patente;
 
-###### ARTICULO 46.
+III. Población, ejido o comunidad;
 
-Los criadores de ganado mayor tienen la obligación de herrar todas las crías durante su primer año de nacidas según el destino o finalidad de las mismas
+IV. Especie;
 
-###### ARTICULO 47.
+V. Especialidad zootécnica; y
 
-Las crías pertenecen al dueño de las madres, considerando como tales a las hembras que sigan las crías, salvo prueba en contrario
+VI. Credenciales de productor pecuario.
 
-###### ARTICULO 48.
+###### Artículo 19.
 
-Los animales de hasta un año de edad sin fierro de criador que se encuentren en potreros particulares cercados, se presumirán propiedad del dueño del terreno en tanto no se denuncie y pruebe lo contrario y salvo las excepciones siguientes:
+La Secretaría llevará el control de registro de figuras de herrar, tatuajes, marcas, muescas, aretes, anillos o cualquier otro medio de identificación debidamente registrado ante ella; que permitan identificar las especies domésticas productivas, sus productos y subproductos y acreditar su propiedad.
 
-I.- Que el dueño del terreno no sea propietario de ganado de la especie de que se trate o que haya transcurrido más de un año desde que dejo de tenerlo, y
+###### Artículo 20.
 
-II.- Que no haya transcurrido ocho meses desde que empezó a tener semovientes de tal especie.
+Con el objeto de obtener su registro, los productores pecuarios manifestarán el inicio de sus actividades pecuarias a la Secretaría a través de las formas valoradas, debiendo señalar cuando menos los siguientes datos:
 
-En estos casos los animales se tendrán por mostrencos, con las reservas del capítulo respectivo, en lo conducente
+I. Nombre del propietario;
 
-###### ARTICULO 49.
+II. Registro Federal de Contribuyentes (opcional);
 
-Los fierros, marcas y señales se revalidaran cada cinco años con noventa días de plazo después de cada vencimiento. La Dirección notificara a las Asociaciones Ganaderas el vencimiento de los registros de fierros, marcas y señales de sus socios, a fin de que estos procedan a su revalidación
+III. Nombre del predio;
 
-###### ARTICULO 50.
+IV. Ubicación del predio;
 
-Se prohibe el uso de planchas y otros fierros no registrados para herrar
+V. Tipo de explotación;
 
-### CAPITULO III. Mostrencos
+VI. Especies domésticas productivas y la cantidad de cada una;
 
-###### ARTICULO 51.
+VII. Tipo de instalaciones;
 
-Los animales sin fierro o trasherrados que pasten libremente o bajo dominio de persona que no pueda demostrar su propiedad, se consideraran sin dueño, y se les denominará mostrencos, y por tales serán tenidos en tanto no se demuestre lo contrario
+VIII. Clave Única de Registro de Población (opcional).
 
-###### ARTICULO 52.
+###### Artículo 21.
 
-El término mostrenco se aplicara al ganado mayor después del año de edad sin herrar, o en los casos previstos por las fracciones I y II del artículo 48 de esta Ley
+Las formas valoradas para registro serán proporcionadas por las oficinas de recaudación fiscal de la Secretaría de Finanzas, serán presentadas en original y tres copias al inspector de ganadería municipal respectivo, quien las remitirá a la Secretaría en donde se retendrá el original, remitiendo copia a la oficina de inspección de ganadería municipal. El interesado conservará la copia con el sello y firma autógrafa de recibido.
 
-###### ARTICULO 53.
+###### Artículo 22.
 
-Ninguna persona tiene facultades para retener y aprovechar de propia autoridad animales mostrencos. Esta atribución corresponde a las autoridades competentes para los fines específicos de los Artículos 57, 58 y 59 y demás relativos de esta Ley
+Las formas valoradas serán presentadas con los datos que al efecto establece el artículo 32 de la Ley.
 
-###### ARTICULO 54.
+###### Artículo 23.
 
-Todo extravío de animales deberá ser notificado por los interesados a la Asociación Ganadera Local adjuntando la reseña y datos complementarios, para que con auxilio del inspector de ganadería y autoridades competentes, se proceda a su localización.
+Una vez obtenido su registro, los productores podrán afiliarse libremente a una asociación ganadera local general o especializada por municipio.
 
-###### ARTICULO 55.
+### Capítulo III. De los Productores Pecuarios
 
-Toda persona que confirme la existencia de un animal que reúna las condiciones dadas en los Artículos 51 y 52 esta obligada a dar aviso a las autoridades municipales reportando las características del semoviente y las señas del lugar para su localización
+###### Artículo 24.
 
-###### ARTICULO 56.
+Conforme lo establecen las fracciones XVI y XVII del artículo 10 de la Ley y los artículos 5, 20 y 26 de este Reglamento, las credenciales de productor serán expedidas por la Secretaría siempre y cuando reúnan los requisitos que se establecen en este Reglamento.
 
-Al recibir la denuncia la autoridad municipal ordenara su inmediata confirmación y de resultar cierta, dispondrá bajo su estricta responsabilidad la captura y traslado del animal a predios o corrales del municipio o su permanencia en el terreno en que agoste, en tanto se da aviso a la Asociación Ganadera Local y se solicita la presencia del inspector de ganadería para que tome conocimiento y realice las investigaciones preliminares
+###### Artículo 25.
 
-###### ARTICULO 57.
+La vigencia de credenciales de productor pecuario será por 5 años, cubriendo el pago respectivo que al efecto se establezca en la ley de ingresos del Estado.
 
-Las autoridades municipales y ganaderas procederán a comprobar si el animal esta o no herrado o trasherrado y las marcas o señales que pueda presentar formulando a continuación la reseña
+###### Artículo 26.
 
-###### ARTICULO 58.
+Para obtener la credencial de productor pecuario, el solicitante deberá cumplir con los siguientes requisitos:
 
-Con los datos obtenidos, las autoridades citadas procuraran establecer de primera intención la identidad del propietario del animal, cotejando si es el caso, el fierro y señales que ostente con los registrados en la ocaidad (sic). De identificarse suficiente o supuestamente uno u otro, se dará aviso recibido a (sic) presunto dueño para que en un plazo no mayor de diez días a su notificación ocurra por el semoviente previa presentación de las pruebas que confirmen su propiedad, satisfecha la cual atenderá al pago del rescate, equivalente a $5.00 y $3.00 para ganado mayor y menor, respectivamente, por cabeza, más los gastos que resulten del agostadero y retención en corrales, mismos que fijara la autoridad municipal, los que no podrán exceder de $3.00 y $2.00 diarios por cabeza de ganado mayor y menor, respectivamente
+I. Copia de la cartulina de la patente de la figura de herrar o con el visto bueno del inspector de ganadería municipal;
 
-###### ARTICULO 59.
+II. Una fotografía tamaño infantil de frente a colores con cara y cabeza descubiertas;
 
-Si transcurridos los diez días de que hablara el artículo anterior no se presentare el interesado se procederá a boletinar la reseña y marcas a la Dirección, Unión Ganadera Regional, Asociaciones Ganaderas y Autoridades Municipales circunvecinas, a efecto de que en un plazo de diez días informen sobre la identificación del animal. De establecerse la identidad del presunto propietario las autoridades antes dichas atenderán a lo previsto en el Artículo anterior
+III. Original del recibo de pago respectivo ante oficina recaudadora de la Secretaría de Finanzas; y
 
-###### ARTICULO 60.
+IV. Para el refrendo, presentar la credencial vencida, en caso de que la conserve, misma que retendrá la Secretaría.
 
-La Dirección de Ganadería, Presidencias Municipales y la Unión Ganadera Regional y sus filiales, fijaran en lugar visible para el público copias de la reseña del animal reputado mostrenco
+###### Artículo 27.
 
-###### ARTICULO 61.
+Las asociaciones, uniones y demás organizaciones pecuarias tendrán las obligaciones contempladas en las fracciones V, VI y VII del artículo 23 de la Ley relativas a:
 
-De no identificarse el fierro cotejado con los registros de la Dirección y por lo tanto al propietario titular, el animal será declarado oficialmente mostrenco mandándose publicar la reseña y demás datos en un diario de la localidad o edicto en el Periódico Oficial proclamando su venta o remate, lugar, día y hora del evento y la postura legal
+I. Prevención y combate de las enfermedades de las especies domésticas productivas:
 
-###### ARTICULO 62.
+a) Deberán participar obligatoriamente en todas las campañas zoosanitarias establecidas en el Estado, en cumplimiento a la Ley Federal de Sanidad Animal, a las normas oficiales mexicanas y normas mexicanas;
 
-El plazo para presentar reclamación por derecho de propiedad sobre ganado mostrenco en pie en los términos del Artículo 58 vence el día del remate antes de efectuarse la venta.
+b) Acatar las medidas establecidas en los diferentes manuales de campañas zoosanitarias, en las normas oficiales mexicanas y normas mexicanas;
 
-Efectuada la venta se cierran los derechos de reclamación sobre el animal y se abre un nuevo plazo que se inicia precisamente después de la subasta y vence a los 60 días, en cuyo transcurso el eventual propietario original podrá rescatar el importe de la venta en los términos del Artículo 68
+II. Prevención de incendios y destrucción de montes y pastizales:
 
-###### ARTICULO 63.
+a) Apoyar y participar en los programas de combate de incendios agrícolas, forestales y de infraestructura agropecuaria;
 
-Los remates se harán invariablemente en publica subasta por la Presidencia Municipal en cuya jurisdicción se haya encontrado el animal, con la intervención de un representante fiscal del Estado y el inspector de ganadería de la Asociación Ganadera respectiva
+b) Apoyar y participar en las acciones para prevenir los incendios y destrucción de (sic) así como los procesos erosivos;
 
-###### ARTICULO 64.
+c) Apoyar y participar en los comités y asambleas formadas para el combate y prevención de incendios agrícolas, forestales y de infraestructura agropecuaria;
 
-El Inspector de Ganadería, oyendo a la Asociación Ganadera Local, tasará la postura legal, según la especie, raza, función zootécnica, y características genotípicas del animal en relación con los precios comerciales en pie que rijan el mercado local
+d) Apoyar y participar en las campañas de combate de incendios agrícolas, forestales y de infraestructura agropecuaria;
 
-###### ARTICULO 65.
+e) Respetar las medidas establecidas en las campañas para el control de las quemas;
 
-De la subasta efectuada se levantara un acta por sextuplicada en la que se hará constar lugar, fecha y hora; reseña del animal subastado, precio pagado nombres y cargos de los que intervinieron, y nombre y domicilio del comprador. El acta debidamente requisitada con las firmas de los participantes, se retendrá el original en la Presidencia Municipal y sus copias distribuidas en sus tantos a la Dirección de Ganadería, Unión Ganadera, Asociación Ganadera Local, inspector de ganadería y un tanto para el comprador para efectos de titulo de propiedad
+f) Vigilar y reportar las acciones de quema de pastos que no se apeguen a las medidas establecidas;
 
-###### ARTICULO 66.
+g) Permitir el pastoreo sólo en áreas de reforestación y de regeneración natural, cuando la vegetación natural no corra el riesgo de ser dañada;
 
-El importe de las ventas de ganado mostrenco será depositado por el Presidente Municipal en una cuenta especial de la Tesorería del Municipio por un plazo hasta de 60 días en custodia
+h) Contar en los terrenos forestales con la infraestructura, equipo, enseres y herramientas necesarios para el eficaz combate de incendios, y
 
-### CAPITULO IV. Mejoramiento del Ganado
+i) Participar en las campañas de reforestación.
 
-###### ARTICULO 67.
+III. Servicio de estadísticas pecuarias, las asociaciones, uniones y demás organizaciones pecuarias, tendrán un censo general de las especies domésticas productivas explotadas en el estado de Jalisco, así como la estadística de:
 
-Queda estrictamente prohibido a las autoridades ante quienes se verifique una subasta de animales reputados mostrencos, adquirir los remates por si o por interpósita persona y a sus parientes consanguíneos.
+a) Número de productores por municipio;
 
-Las ventas realizadas en contravención a lo dispuesto en este Artículo, serán nulas, independientemente de las sanciones a que se hagan acreedores los infractores, sin perjuicio de su consignación ante las autoridades judiciales
+b) Número y tipo de explotaciones por municipio;
 
-###### ARTICULO 68.
+c) Número de explotaciones pecuarias especializadas por especie;
 
-Si en el curso de los 60 días siguientes a la subasta de un mostrenco se presentare su propietario a reclamar el importe de la venta justificando a satisfacción sus derechos, el Presidente Municipal esta obligado a entregar la suma obtenida en el remate con las deducciones que establece el Artículo 58 de esta Ley
+d) Centros de acopio lechero;
 
-###### ARTICULO 69.
+e) Centros de acopio de ganado;
 
-Vencido el plazo establecido en el segundo párrafo del artículo 62 el importe de la subasta de mostrencos se distribuirá como sigue:
+f) Centros de sacrificio de ganado por tipo y especies;
 
-I.- A la Dirección el 40%.
+g) Baños garrapaticidas;
 
-II.- Al Municipio que celebre la subasta el 30%.
+h) Puntos de control zoosanitario;
 
-III - al denunciante el 30%
+i) Bodegas;
 
-###### ARTICULO 70.
+j) Bordos, Abrevaderos;
 
-Para efectos de registro del movimiento de animales mostrencos en el Estado, la Dirección llevara un libro en el que se asentaran por municipio los datos de las subastas, en los términos del Artículo 65
+k) Tanques enmelazadores;
 
-###### ARTICULO 71.
+l) Forrajeras y plantas de alimento balanceado;
 
-Queda estrictamente prohibido a la Dirección y autoridades municipales extender nombramientos que autoricen a dedicarse a localizar y recoger animales mostrencos
+m) Pasteurizadoras;
 
-###### ARTICULO 72.
+n) Empacadoras de carne;
 
-Atendiendo a sus facultades, la Dirección estudiara las alternativas de mejoramiento de las especies zootécnicas que integran la ganadería de la entidad, tendientes a consolidar la industria pecuarias ajustándola a las condiciones ecológicas prevalentes por zonificación natural, sus recursos productivos y a la naturaleza y especificaciones cuantitativas y cualitativas de los productos de origen animal que demanda la dinámica del mercado interno
+ñ) Expendios de carne;
 
-###### ARTÍCULO 73.
+o) Organismos de certificación;
 
-La Dirección estudiara los proyectos de mejoramiento ganadero de propia iniciativa o que le sean presentados, en coordinación con la Asociación Ganadera correspondiente en cada zona ecológica a efecto de integrar las necesidades a las posibilidades de desarrollo con un optimo de rendimiento
+p) Número de hectáreas utilizadas como pastizales;
 
-### CAPITULO V. Del Registro genealógico
+q) Número y ubicación de tanques enfriadores de leche;
 
-###### ARTICULO 74.
+r) Las que por necesidades tecnológicas determine la Secretaría; y
 
-De acuerdo con las recomendaciones que resulten de la evaluación de los recursos pecuarios disponibles a nivel de zona, la Dirección pondrá eventualmente en practica, programas estatales y regionales de mejoramiento ganadero en acción coordinada a mediano y a largo plazo en base a:
+s) El censo se actualizará cada año, durante el mes de enero.
 
-I.- Centros Genéticos.
+## Título Segundo. De la Propiedad y Movilización del Ganado
 
-II.- Bancos de semen, y
+### Capítulo I. De la Identificación Pecuaria
 
-III.- Estaciones de monta e inseminación.
+###### Artículo 28.
 
-Se procurara que los Programas se pongan en ejecución simultánea y se situaran según su modalidad en las zonas de penetración más adecuadas sin perjuicio de que en la jurisdicción de un municipio y de su Asociación Ganadera puedan establecerse las tres alternativas por así convenir a la población ganadera
+Las figuras de herrar ganado aplicadas para acreditar su propiedad y que no sean del criador, deberán estamparse en el miembro posterior derecho del animal.
 
-###### ARTICULO 75.
+###### Artículo 29.
 
-Los centros genéticos serán de estructura integral, tantos como los requieran las necesidades del desarrollo ganadero estatal.
+Se prohíbe la movilización y el sacrificio de ganado orejano y recién herrado, salvo autorización expresa de la Secretaría.
 
-Se Organizaran y Funcionaran en dos Etapas:
+Se considerará recién herrado un animal, cuando la figura de herrar tenga menos de cuarenta y cinco días de haberse estampado en el mismo.
 
-I.- Producción y distribución de pies de cría y pruebas de progenie e investigación bromatológica, y
+###### Artículo 30.
 
-II.- Distribución de hijos de sementales probados, dotación de sementales probados a las estaciones de monta. Asesoría y programas de alimentación
+El tatuaje se aplicará al ganado equino, bovino, de sangre pura y con registro que opte por este tipo de identificación o ganado de especies menores. Se podrá aplicar en el belfo del animal o en la cara interna del pabellón auricular izquierdo.
 
-###### ARTICULO 76.
+###### Artículo 31.
 
-Los centros genéticos prestaran los siguientes servicios:
+Los aretes y los anillos utilizados en la identificación de las especies domésticas productivas como acreditación de propiedad, deberán estar registrados ante la Secretaría, debiendo incluir en su grabado el número de patente del productor, número del municipio a que pertenezcan y el número progresivo.
 
-I.- Orientar a los ganaderos acerca de la raza de ganado de los sistemas de cría, alimentación, manejo y medicina preventiva que constituyan el mejor programa en cada zona y para cada caso en particular.
+El arete, anillo o cualquier otro medio de identificación podrá ser metálico o de plástico; se insertará en el pabellón auricular o miembro posterior izquierdo del animal y será aplicado en ovinos, caprinos, porcinos, conejos y aves.
 
-II.- Vender a precio de costo entre los ganaderos asociados y pequeños criadores independientes, crías logradas, premunizadas, machos y hembras de raza pura, debidamente seleccionadas para sementales e integrando pies de cría.
+###### Artículo 32.
 
-III.- Canjear los machos de baja calidad genética de los pequeños ganaderos por machos de raza debidamente seleccionados.
+El registro de los aretes, anillos, marcas o cualquier otro medio de identificación; se hará en un listado anexo al registro de la figura de herrar del criador.
 
-IV.- Desarrollar programas de alimentación integral aprovechando la eficiencia nutricional de los pastos nativos agrícolas y de industrialización estatal en apoyo de los programas de mejoramiento genético del ganado.
+###### Artículo 33.
 
-V.- Aprovechando las crías hembras y machos de producción propia que en la selección no reúnan las condiciones y requisitos para utilizarse como productores desarrollar programas tecnificados de engorda intensiva y combinados con fines probatorios y demostrativos para los ganaderos de la región.
+Los apiarios se identificarán mediante una marca a fuego aplicada en la cámara de cría. Esta marca será similar a la utilizada en el ganado mayor y con las mismas dimensiones.
 
-VI.- Proveer de sementales probados a las estaciones de monta.
+###### Artículo 34.
 
-VII.- Proveer de semen a los bancos de semen regionales y a las estaciones de inseminación, y
+Las granjas avícolas y cuniculares identificarán los empaques de su producto con la razón social y domicilio de la explotación, que será la misma que se encuentre registrada en la Secretaría.
 
-VIII.- Dar servicio de inseminación a la ganadería de sus zonas de influencia
+###### Artículo 35.
 
-###### ARTÍCULO 77.
+La Secretaría deberá registrar las figuras de herrar, tatuajes, aretes, anillos o cualquier otro medio para identificar las especies domésticas productivas, granjas, empaques y embalajes, cámaras de cría y explotaciones pecuarias.
 
-Los Bancos de semen se organizaran a dos niveles:
+###### Artículo 36.
 
-I.- Banco central receptor, distribuidor y de inseminación que funcionara a dos etapas:
+Para el registro de la figura de herrar, deberá:
 
-a).- Obtendrá el semen del Instituto Nacional de Inseminación Artificial por un periodo de 3 a 5 años. Distribuirá el producto a los bancos regionales y dará servicio de inseminación en su zona.
+I. Adquirir en la oficina de recaudación fiscal de la Secretaría de Finanzas correspondiente, las formas valoradas de:
 
-b).- Pasará a ser Banco Regional al momento en que los centros genéticos estén en capacidad de producir semen de sementales probados o conservara su carácter de distribuidor de los productos nacionales. Continuara prestando servicio en su zona.
+a) Solicitud de registros de figura de herrar ganado;
 
-II.- Bancos Regionales o subsidiarios de inseminación tantos como lo requieran las necesidades del mejoramiento ganadero
+b) Cartulina de registro general de fierros;
 
-###### ARTICULO 78.
+c) Manifestación de actividades pecuarias.
 
-Los Bancos Central y Regional podrán que dar ubicados en los propios centros genéticos a los que se prevé queden integrados toda vez que no requieren instalaciones de ninguna naturaleza para su centro domiciliario de actividades
+II. Llenar correctamente las formas valoradas anteriores y presentarlas para su aprobación ante el inspector de ganadería municipal;
 
-###### ARTICULO 79.
+III. Presentar dos cartas de recomendación; y
 
-Las estaciones de monta directa o inseminación se establecerán en las zonas con menor influencia de ganado mejorado y tendrán como su nombre lo indica la doble función de prestar servicio de sementales para monta directa y de inseminación artificial. Eventualmente quedaran integrados a los centros genéticos
+IV. Presentar copia de facturas de ganado a su nombre, o documento que acredite adjudicación testamentaria o donación del ganado.
 
-###### ARTICULO 80.
+Todos los documentos señalados se presentarán ante el inspector de ganadería municipal correspondiente.
 
-Los ejemplares producidos por los centrosgenéticos (sic), la inseminación artificial ya (sic) la monta directa se fijaran a precio de cuotas de costo de revisión anual por las propias asociaciones ganaderas en beneficio de sus socios y de los pequeños ganaderos
+###### Artículo 37.
 
-###### ARTICULO 81.
+Se cancelará el registro de la figura de herrar, previa notificación y audiencia del afectado ante la Secretaría, en caso de comprobarse que el productor pecuario no es propietario de cuando menos cinco vientres bovinos o su equivalente en otras especies domésticas productivas, o que no se dedique a la cría, engorda o explotación de cualquiera de éstas especies domésticas productivas.
 
-Los centros genéticos y sus subsidiarios contaran para su sostenimiento con los subsidios de las Asociaciones Ganaderas, ingresos por recuperación, cuotas de inseminación y además estarán a cargo de un director general y dos directores técnicos de programas especiales: el genético y el bromatológico que a su vez contara con los auxiliares técnicos y administrativos necesarios.
+###### Artículo 38.
 
-El personal técnico y administrativo de los centros genéticos será seleccionado en base a un alto grado de eficiencia profesional y nombrado por el consejo directivo de la Asociación Ganadera Local que corresponda en cada caso
+Aquellas marcas a fuego u otros medios utilizados para la identificación del ganado que se utilicen por disposición de las campañas zoosanitarias, no tendrán efecto alguno para acreditación de propiedad para efectos de la Ley y el Reglamento.
 
-###### ARTICULO 82.
+###### Artículo 39.
 
-El Director General, entendido de los asuntos administrativos del centro, vigilara se cumplan los lineamientos establecidos, manteniendo el más alto nivel de sanidad en los semovientes, en las pruebas en vivo e invitro que tenga bajo su responsabilidad
+Cuando el propietario de una patente de figura de herrar decida ceder los derechos de ésta a otra persona, deberá presentar solicitud por escrito a la Secretaría exponiendo los motivos, así como el número de cabezas de ganado con que cuente el hato herrado con dicha figura. Por su parte, quien reciba los derechos mencionados deberá tramitar ante la Secretaría el registro correspondiente, debiendo presentar la documentación a que se refiere el artículo 40 del Reglamento. Si el propietario no comparece, deberá certificarse la firma en la solicitud por un notario público o por el síndico del ayuntamiento que corresponda.
 
-###### ARTICULO 83.
+### Capítulo II. De la Acreditación de la Propiedad y Facturación
 
-Los Centros, Bancos y Estaciones de mejoramiento ganadero llevaran libros de registro en donde asentaran los movimientos de reproducción interna y otros para servicios externos de inseminación y monta directa con: origen del semen, raza del semental, nombre y número de registro, fecha del servicio, nombre de la vaca, número de fierro a fuego y número de registro si lo tiene. Nombre del propietario, nombre del predio o rancho, ubicación y derechos pagados
+###### Artículo 40.
 
-## TITULO TERCERO. FOMENTO DE LA PRODUCCIÓN PECUARIA
+Para la compraventa, movilización y sacrificio de ganado se requiere:
 
-### CAPITULO VI. Conservación y Mejoramiento de Agostadores
+I. La credencial de productor pecuario expedida por la Secretaría, cuando el ganado esté marcado únicamente con la figura del criador;
 
-###### ARTICULO 84.
+II. El registro de aretes, anillos, tatuajes o figuras de marcar cajones de apianes, para cerdos, ovinos, caprinos, aves, y conejos;
 
-Las asociaciones ganaderas concentrarán los movimientos registrados a que se refiere el artículo anterior a la Dirección dos veces al año, el 1o. de julio.
+III. Cuando el ganado además de la figura del criador ostente otras figuras, aunado a la credencial deberá el solicitante presentar el documento de transmisión de propiedad o factura fiscal a su nombre y que deberá contener las figuras que tenga marcado el animal, debiendo estar estos documentos debidamente validados por el expeditor;
 
-En base a la raza y línea genética de los sementales cuyos registros originales obran en su poder para el efecto, la Dirección elaborará la programación de rotación de sementales en las estaciones de monta y la dotación procedente de los centros genéticos para propiciar su mejor aprovechamiento.
+IV. La factura fiscal expedida por una persona física o moral solo será valida para la acreditación de propiedad de ganado cuando este debidamente validada con firma y sello por el expeditor; y
 
-###### ARTICULO 85.
+V. En caso de adquisición de animales por remate deberá presentar su documentación validada por la Secretaría, en la adjudicación por juicio sucesorio, resolución judicial o administrativa, deberá presentar copia certificada de la resolución correspondiente.
 
-Teniendo en cuenta la importancia de las razas puras para el mejoramiento de la industria pecuaria de la entidad, la Dirección promoverá la organización de las asociaciones de criadores de ganado de registro, con el propósito de fomentar la especialización zootécnica y el desarrollo de la explotación animal tecnificada
+###### Artículo 41.
 
-###### ARTICULO 86.
+Cuando no se cuente con ninguno de los documentos de propiedad de ganado que establece el 36 y la fracción IV del artículo 47 de la Ley; se deberá recabar constancia de propiedad ante el síndico del ayuntamiento respectivo y del presidente de la asociación ganadera local a la que pertenezca, bajo la estricta responsabilidad de éstos, la cual deberá presentarse ante el expeditor para elaborar el documento de transmisión de propiedad del ganado en cuestión.
 
-Las asociaciones de criadores de ganado de razas puras serán de nivel estatal, filiales de las Asociaciones Nacionales e Internacionales correspondientes e independientes de las Asociaciones Ganaderas Locales
+###### Artículo 42.
 
-###### ARTICULO 87.
+En caso de fallecimiento del titular de la patente de figura de herrar, la transmisión de la misma se realizará conforme a las disposiciones que el Código Civil del Estado establece respecto de los juicios sucesorios.
 
-La finalidad de las Asociaciones Estatales de criadores de ganado de registro, es la de integrar organismos Regionales que se encarguen de constatar y confirmar los antecedentes genealógicos de los progenitores de raza de todo origen radicados en el Estado, con objeto de preservar y mejorar sus características raciales y la pureza genética en las familias y líneas de progenie animal que constituye la estructura base para el desarrollo y mejoramiento de la ganadería de la entidad
+###### Artículo 43.
 
-###### ARTICULO 88.
+Cuando el ganado provenga de otros estados, se requerirán los documentos expedidos en el lugar de origen, debiendo ser coincidentes con la factura, certificados zoosanitarios, documento que ampare el libre tránsito, y visados por los puntos de verificación zoosanitaria por los que transitó.
 
-Para los efectos del Artículo anterior en los términos de la presente Ley, se autoriza el funcionamiento de las asociaciones de criadores de ganado de registro debidamente constituidas y como los únicos organismos con facultades para revalidar y expedir certificados o tarjetas de registro genealógico "pedigrí" para lo cual contaran con el personal y equipo adecuado y la asesoría permanente de la dirección
+###### Artículo 44.
 
-###### ARTICULO 89.
+Las adquisición (sic) de pieles se acreditarán con el documento de transmisión de propiedad, factura fiscal o copia de la orden de sacrificio.
 
-Las Asociaciones de Criadores de Ganado de Registro podrán ser mixtas o unitipos:
+###### Artículo 45.
 
-I.- Las Asociaciones de Criadores son mixtas cuando agrupan indistintamente a criadores de distintas especies y razas de ganado siempre que estas sean de registro, y
+Las pieles, que provengan de otros estados, se acreditarán con la documentación exigida por la legislación del lugar de origen.
 
-II.- Las Asociaciones de Criadores son unitipos cuando en ellas se agrupan únicamente criadores de una misma raza o tipo de ganado de registro
+###### Artículo 46.
 
-### CAPITULO I. Fomento Ganadero
+Los productos y subproductos pecuarios, deberán acreditarse con la factura fiscal expedida por el industrializador o propietario.
 
-###### ARTICULO 90.
+###### Artículo 47.
 
-En tanto no se constituyan las asociaciones de criadores de ganado de registro en el Estado, los criadores que adquieran pies de cría o sementales de registro de procedencia nacional o extranjera, deberán recabar los certificados y documentación de transferencia correspondiente, del criador o asociación de origen para revalidar su reconocimiento ante la representación general de Agricultura y Recursos Hidráulicos y la Dirección de Ganadería del Estado la que hará las veces del organismo Regional
+Las pieles, productos y subproductos pecuarios provenientes de otros países deberán contar además con permiso de importación que expida la autoridad federal competente, con los requisitos establecidos en las legislaciones respectivas y ser visados por los puntos de verificación zoosanitaria por los cuales transitó.
 
-###### ARTICULO 91.
+###### Artículo 48.
 
-Al constituirse las Asociaciones de criadores de ganado de razas puras deberán gestionar su registro ante la Dirección General de Ganadería de la Secretaría de Agricultura y Recursos Hidráulicos, y la Dirección, las que autorizaran su funcionamiento y tramitaran su reconocimiento internacional
+Los propietarios de tenerías, saladeros e industrias de pieles llevarán un libro de registro, el cual deberá estar autorizado por la Secretaría, en el que se anotará:
 
-###### ARTICULO 92.
+I. Lugar de origen de las pieles;
 
-Se autorizara el funcionamiento de una sola Asociación Estatal Mixta de ganado de registro y de tantas Asociaciones unitipos como la justifique el número de criadores de ganado de registro de razas puras que puedan constituirlas legalmente
+II. Nombre del vendedor;
 
-###### ARTICULO 93.
+III. Fecha de ingreso;
 
-Constituida legalmente una Asociación de Criadores de Ganado de registro de una raza, ese será el organismo estatal reconocido en los términos del Artículo 86 y a ella deberán asociarse todos los criadores que posean ganado de registro de dicha raza, pues en ningún caso se autorizara otra Asociación de criadores de la misma estirpe
+IV. Número y dibujos de fierros y señales que tengan; y
 
-### CAPITULO II. Fomento de la Producción Lechera
+V. Rastro.
 
-###### ARTICULO 94.
+###### Artículo 49.
 
-Cuando el número de criadores de ganado de registro no sea suficiente para justificar las asociaciones unitipos independientes y su funcionamiento económico, los criadores de las distintas razas y especies podrán integrar una asociación Estatal Mixta sin perjuicio de que antes, simultáneamente o después se integren las asociaciones unitipos que llenen los requisitos, desintegrándose sucesivamente la asociación mixta original cumplida su función conforme aumente el número de criadores y formen sus respectivas asociaciones
+Para aquellos productores que se dediquen exclusivamente a la engorda de ganado bovino en corrales, la Secretaría cuando así lo considere, podrá establecer los mecanismos necesarios para llevar a cabo el control y verificación de acreditación de propiedad del ganado, su movilización y cumplimento a las disposiciones sanitarias, pudiendo celebrar convenios de colaboración con estos productores, con organismos auxiliares y organizaciones de productores pecuarios, así como con otras autoridades para tal efecto, en los cuales se establezcan los procedimientos, obligaciones y atribuciones de cada uno de los participantes.
 
-###### ARTICULO 95.
+###### Artículo 50.
 
-La Dirección. La Unión Ganadera Regional y las asociaciones ganaderas locales mixtas o especializadas promoverán la constitución de las asociaciones estatales de criadores de ganado de registro y la afiliación de sus propios miembros o los organismos a que en cada caso corresponda
+La Secretaría, en coordinación con organizaciones pecuarias implementará los procedimientos que considere necesarios para llevar a cabo el control de la compraventa, movilización y sacrificio de crías de razas bovinas productoras de leche, menores de 45 días de edad, que por la naturaleza de su propósito zootécnico requieran ser comercializados.
 
-###### ARTICULO 96.
+### Capítulo III. De los Animales Mostrencos
 
-Los recursos económicos para el sostenimiento de las asociaciones estatales de criadores de ganado de registro provendrán de una aportación global original de los socios que la constituyan y que será fija como cuota de inscripción, de las cuotas regulares y de los derechos por certificación, revalidación y expedición de registros, más aportaciones especiales
+###### Artículo 51.
 
-###### ARTICULO 97.
+Para el reporte de animales mostrencos, se utilizará el formato correspondiente que la Secretaría proveerá al inspector de ganadería municipal y contendrá los siguientes datos:
 
-La conservación y mejoramiento de agostaderos, es un principio básico de económica (sic) pecuaria que la Dirección en su calidad de rectora de esa industria en el Estado, procurara se cumpla satisfactoriamente para preservar e incrementar los recursos ganaderos disponibles
+II (sic). Fecha de reporte;
 
-###### ARTICULO 98.
+III. Reseña del animal mostrenco:
 
-Mejorar los coeficientes de agostaderos, significa optimizar los rendimientos de la tierra en principio, con practicas sencillas de manejo: pastoreo controlado, rotación de potreros, control de malezas, de plagas, resiembra de humedad, almacenamiento de excedentes forrajeros estacionales.
+a) Especie;
 
-La Dirección vigilara que las tierras abiertas a la ganadería estén debidamente cercadas, con el objeto de controlar el manejo de los animales y facilitar el aprovechamiento de los pastizales. Tanto en los convenios, como de las controversias que surjan del uso, cuidado y conservación de cercas colindantes, tendrán intervención, en la esfera administrativa, la autoridad municipal
+b) Raza;
 
-###### ARTICULO 99.
+c) Sexo;
 
-Toda persona que detente el uso de la tierra con fines de cría y explotación ganadera esta obligada a respetar los coeficientes de agostadero de zona y poner en practica medidas de mejoramiento y aprovechamiento que aumenten su capacidad de carga animal y la proteja de la erosión
+d) Edad;
 
-###### ARTICULO 100.
+e) Color;
 
-En todos los casos en que se requieran estudios del suelo y del valor nutricional de los pastos, los interesados deberán solicitar la intervención de la Asociación Ganadera Local, para que por su mediación se haga las gestiones correspondientes ante el departamento técnico respectivo de la Dirección.
+f) Fierros o marcas; y
 
-### CAPITULO III. Fomento de la Porcicultura
+g) Señas particulares;
 
-###### ARTICULO 101.
+IV. Ubicación del animal:
 
-Los ganaderos deberán preservar y mejorar el rendimiento de la flora forrajera y pastizales de sus predios y de combatir las plantas nocivas, las plagas y enfermedades en base a las medidas fitosanitarias más recomendables
+a) Corral de retención; y
 
-###### ARTICULO 102.
+b) Corral de mostrenco;
 
-Las Asociaciones Ganaderas Locales procuraran mantenerse informadas de las practicas fitosanitarias inocuas más efectivas y asesoraran a sus miembros y pequeños productores de su jurisdicción, para evitar que la aplicación de herbicidas provoquen daños extensivos y residuales en los animales, los aguajes y cultivos con perjuicio de la economía agrícola, del medio y de la salud publica, para cuyo efecto se estará a lo dispuesto en la Ley Federal de Sanidad Fitopecuaria
+V. Nombre del depositario;
 
-### CAPITULO IV. Fomento Avícola
+VI. Domicilio del depositario;
 
-###### ARTICULO 103.
+VII. Firma del depositario;
 
-En protección de los recursos forrajeros del Estado, queda estrictamente prohibido introducir nuevas especies y variedades de pastos en sustitución y perjuicio de los nativos, si no se cuenta con los estudios preliminares sobre adaptabilidad, rendimientos y los que se requieran en potreros
+VIII. Firma del inspector de ganadería municipal; y
 
-###### ARTICULO 104.
+IX. Fecha de recibido en la Secretaría.
 
-Las Asociaciones Ganaderas Locales promoverán en su jurisdicción, los programas de mejoramiento y aprovechamiento forrajero, que acuerde la Dirección a nivel estatal, definidos en base a la Zonificación ecológica y de los estudios correspondientes
+###### Artículo 52.
 
-###### ARTÍCULO 105.
+Cuando a una persona se le autorice como depositaria de uno o varios animales, deberá retener copia firmada del reporte de los animales por la autoridad correspondiente.
 
-El fomento de la ganadería es una función cuyo ejercicio corresponde al Gobernador del Estado, de conformidad al contenido de la Fracción VI, del artículo 91 de la Constitución Política del Estado y se declara de interés público el potencial pecuario y al desarrollo de la ganadería en la entidad
+###### Artículo 53.
 
-###### ARTICULO 106.
+El boletín de animales mostrencos que elaborará la Secretaría contendrá la reseña de los animales reportados durante el mes correspondiente en los municipios del Estado, proporcionando copia a cada una de las oficinas de inspección de ganadería municipal y de las asociaciones ganaderas locales.
 
-Entendido que la producción pecuaria constituye un factor de apoyo para impulsar la integración de la entidad al nivel del desarrollo general del país, la Dirección dedicaba especial atención a los programas de fomento a la ganadería, como fuente de alimentos básicos y de incremento industrial
+###### Artículo 54.
 
-## TITULO CUARTO. DE LA COMERCIALIZACIÓN
+El acta de remate de los animales mostrencos deberá contener:
 
-### CAPITULO V. Fomento Apícola
+I. Municipio;
 
-###### ARTÍCULO 140.
+II. Fecha y hora;
 
-Siendo la apicultura una de las ramas agropecuarias que más han contribuido al arraigo de la familia campesina y cuya producción representa para el Estado un fuerte ingreso económico y prestigio internacional, la Dirección intensificara el fomento de la apicultura en la entidad, con el propósito de implementar progresivamente las extensas áreas con recursos meliferos naturales que permanecen sin aprovechamiento.
+III. Número de oficio de autorización de remate expedido por la Secretaría;
 
-###### ARTÍCULO 141.
+IV. Fecha de oficio;
 
-Para lograr su objeto, la Dirección constituirá una comisión de estudios apícolas que tendrá a su cargo la evaluación de la naturaleza y cuantía de los recursos meliferos disponibles en las áreas inexplotadas con el propósito de adecuar los polos de captación a la productividad de las zonas.
+V. Descripción de los animales;
 
-###### ARTICULO 142.
+VI. Dibujo de los fierros o marcas de los animales;
 
-En base al Artículo anterior, ningún nuevo apiario podrá establecerse en el Estado, si no cuenta con la autorización y el registro correspondiente de la Dirección.
+VII. Nombre de las autoridades que intervienen en el remate:
 
-###### ARTÍCULO 143.
+a) presidente municipal o su representante;
 
-La violación de esta disposición se sancionara conforme a lo establecido en el capitulo correspondiente y se prevendrá al infractor para que en un término no mayor de quince días proceda al retiro del apiario o a su registro, si su asentamiento es compatible con los territorios de pecorea colindante en los términos del artículo siguiente.
+b) organizaciones pecuarias en el municipio;
 
-###### ARTICULO 144.
+c) supervisor regional pecuario; y
 
-Se entiende por territorio de pecorea de un apiario, el espacio comprendido en un área de 5 kilómetros a la redonda de su punto de asentamiento consecuentemente con esta conclusión, 5 kilómetros es la distancia mínima de protección a la que deben ubicarse los apiarios independientemente del número de colmenas que los integren, toda vez que ello esta en función de la capacidad de la zona definida por sondeo.
+d) inspector de ganadería municipal;
 
-Compete a las Asociaciones de Apicultores en colaboración con la Dirección, vigilar que los nuevos apiarios que se instalen en su jurisdicción, cumplan estrictamente con este ordenamiento y procurar que los ya establecidos se ajusten progresivamente a su disposición.
+VIII. Monto del remate;
 
-###### ARTÍCULO 145.
+IX. Nombre del comprador;
 
-Para desarrollar sus programas de fomento apícola, el gobierno del Estado instrumentara a través de las sociedades y comités locales correspondientes, la capacitación individual de los apicultores.
+X. Domicilio del comprador;
 
-###### ARTICULO 146.
+XI. Monto de gastos ocasionados por alimentación, transportación, cuidado de los animales o reparación de daños ocasionados por los mismos en caso de existir éstos;
 
-En virtud de la importancia socio-económica que tiene y puede adquirir la apicultura en el Estado, se declara de interés público el establecimiento de un centro estatal de capacitación, en el que se impartan de manera objetiva y practica, los conocimientos más avanzados en materia apícola.
+XII. Cantidad resultante del remate; y
 
-###### ARTÍCULO 147.
+XIII. Firmas de los participantes en el acta.
 
-Para ello al desarrollo del programa de fomento en las áreas inexplotadas, se dará atención especial a la recuperación o mejoramiento de los apiarios establecidos y capacitación de los apicultores, para obtener el optimo aprovechamiento de los recursos disponibles, de preservar la calidad original del producto y facilitar su comercialización.
+###### Artículo 55.
 
-En base a lo anterior, se declara de interés público, la aplicación generalizada del control de calidad a toda la miel de abeja que se produzca en el Estado, con fines de comercialización.
+El pago de los gastos ocasionados por la manutención, traslado y cuidado de los animales mostrencos, se cubrirá a partir de la fecha del reporte de extravío de los mismos o de efectuado el realeo en su caso.
 
-###### ARTICULO 148.
+###### Artículo 56.
 
-Siendo el programa de fomento apícola, una estructura, basada en el aprovechamiento de los recursos naturales que son patrimonio del pueblo, a el tienen derecho y obligaciones todos los quintanarroenses, que quieran dedicarse a esta actividad pecuaria en los términos señalados en esta Ley.
+Para efectuar el pago a que se refiere el artículo 47 fracción VI de la Ley, se deberá recabar el recibo correspondiente por el supervisor regional pecuario, quien lo remitirá a la Secretaria, con los siguientes datos:
 
-###### ARTICULO 149.
+I. Nombre y firma de quien recibe el pago;
 
-Los apicultores del Estado, tienen la obligación de organizarse en Asociaciones Locales y en la Unión Estatal, según lo prevee la Ley de asociaciones ganaderas y los Artículos 10, 11, 12, 13 y 14 del Capitulo IV de esta Ley, con el propósito de pugnar por el mejoramiento de sus condiciones de vida y su nivel cultural.
+II. Domicilio;
 
-###### ARTÍCULO 150.
+III. Fecha;
 
-Las Asociaciones se integraran en cada municipio con los apicultores de la jurisdicción, salvo que como lo prevee el Artículo 8o. de la Ley de Asociaciones Ganaderas se constituyan en Asociaciones Regionales por convenir así a sus intereses comunes, económicos y administrativos.
+IV. Nombre del inspector de ganadería municipal;
 
-###### ARTICULO 151.
+V. Monto del pago, expresado en número y letra; y
 
-En todos los casos de Asociaciones, los productores independientes serán socios personales y las sociedades de crédito se incorporaran como entidades unitarias a través de la representación de un delegado.
+VI. Concepto de pago.
 
-###### ARTICULO 152.
+###### Artículo 57.
 
-Las Asociaciones de Apicultores atenderán en sus respectivas jurisdicciones, el cumplimiento de las Fracciones I a XIV y XVI del Artículo 16 de esta Ley.
+Al ingresar a la hacienda municipal el producto final de lo recaudado en la subasta, ésta extenderá el recibo correspondiente al inspector de ganadería municipal quien conservará copia y remitirá a la Secretaría el original para control de los animales mostrencos.
 
-###### ARTICULO 107.
+###### Artículo 58.
 
-Para cumplir con lo dispuesto en el Artículo anterior, la Dirección establecerá la coordinación procedente con las dependencias y organismos descentralizados federales que desarrollan programas pecuarios y de crédito a la producción, con el propósito de incrementar el desarrollo del Estado
+Cuando el animal considerado mostrenco se entregue a su dueño, de acuerdo a la fracción V del artículo 46 de la Ley, el inspector de ganadería municipal levantará el acta correspondiente, que deberá contener:
 
-## TITULO QUINTO. DE LA PREVENCIÓN
+I. Municipio;
 
-### CAPITULO I. Sanidad
+II. Fecha y hora;
 
-###### ARTICULO 208.
+III. Número y fecha del oficio de remate si ya se hubieran emitido;
 
-Atendiendo a que la integración y desarrollo de la industria pecuaria requiere un mecanismo de procedimientos de control sanitario que coadyuve a preservar su natural productividad, se declara de interés público para el Estado, las medidas de seguridad en materia de sanidad animal decretadas en la Ley de Sanidad Fitopecuaria de los Estados Unidos Mexicanos, del 13 de diciembre de 1974, las emergentes o permanentes que dicte la Dirección y las señaladas en esta Ley.
+IV. Descripción de los animales;
 
-###### ARTICULO 209.
+V. Dibujo de fierros o marcas;
 
-En cumplimiento de la anterior toda persona que tenga conocimiento de enfermedades y muertes violentas, acaecidas en el ganado propio o ajeno, esta obligada a denunciarlas ante las autoridades competentes más cercanas, federales, estatales o municipales, inspectores de ganadería, inspectores sanitarios, asociaciones ganaderas y demás, las que corroboraran la denuncia con la prontitud y discreción del caso y de confirmarlas dictaran las primeras disposiciones dando aviso de inmediato para los efectos de Ley, a la Dirección.
+VI. Nombre del propietario y domicilio;
 
-###### ARTICULO 210.
+VII. Datos de acreditación de propiedad:
 
-Cuando a juicio de las autoridades sanitarias competentes, un brote infeccioso represente una serie amenaza para la ganadería de la región, las medidas sanitarias podrán ser desde el aislamiento y tratamiento de los animales enfermos, la prevención general de los aparentemente sanos y otras medidas profilácticas, hasta el sacrificio e incineración de los animales enfermos, y aun de los sospechosos sus productos y deshechos, con establecimiento de la cuarentena y cordones sanitarios, prohibiéndose la movilización total de entrada y salida de ganado en las áreas afectadas y cuya duración dependerá de la naturaleza del brote infectante, según lo previsto por el Artículo 181 de esta Ley.
+a) Número de credencial que lo acredita como productor pecuario;
 
-###### ARTICULO 211.
+b) Número de patente;
 
-Son de declaratoria obligatoria, las enfermedades infecciosas y parasitarias en zoóticas o epizoóticas, las consideradas exóticas y todas aquellas que ocasionan perdidas elevadas de la producción en vida o por muerte del ganado, así como las que se transmiten al hombre.
+c) Número de factura y lugar de expedición;
 
-###### ARTICULO 212.
+d) Constancia de acreditación a que se refiere el artículo 41 de este Reglamento, en su caso; y
 
-Las enfermedades infecciosas, parasitosis transmisibles entre los animales y las zoonosis, serán objeto de prevención, combate y erradicación según lo establece esta Ley y la federal de sanidad fitopecuaria.
+VIII. Firmas del presidente municipal o síndico, supervisor regional pecuario, inspector de ganadería municipal, y del propietario.
 
-###### ARTICULO 213.
+Del acta se entregará una copia a cada uno de los que en ella intervinieron y el original de la misma será resguardado por la Secretaría.
 
-Se entiende por zoonosis, las enfermedades del ganado transmisibles al hombre por contacto inmediato o a través de sus productos, subproductos deshechos y esquilmos. Se declaran como tal, la fiebre carbonosa, la fiebre aftosa, la fiebre de malta, la viruela, la brucelosis, la tuberculosis, la rabia, el muermo, a (sic) micosis, la sarna, la cisticercosis, la triquinosis y las demás que señale la jefatura de los servicios coordinados de salud publica en el Estado.
+El dueño cubrirá el pago a que se refiere al artículo 55 de este Reglamento y entregará una copia del recibo al inspector de ganadería municipal al momento en que se le entregue el animal.
 
-###### ARTICULO 214.
+###### Artículo 59.
 
-Para los efectos de esta Ley, se consideran enfermedades de denuncia obligatoria, la fiebre carbonosa, el carbón sintomático, la brucelosis, la fiebre aftosa, el derriengue, la rabia, que son comunes a varias especies. La mastitis estreptococica de los bovinos. La enfalitis, el muermo y la adenitis estreptococica de los equinos. La fiebre de malta del ganado caprino, el cólera, la erisipela, la enteritis necrotica y la fiebre africana del ganado porcino. El cólera, la tifoidea, la pulcrosis, el newcastle y la enfermedad de mareck de las aves de corral así como las de origen parasitario comunes a varias especies: piroplasmosis, anaplasmosis, fasciolasis, cisticercosis, sarna, tiña y todas las que por su fácil difusión y consecuencias en la economía pecuaria y posible transmisión al hombre, puedan constituir peligro para la ganadería de una zona o del Estado.
+Para sacrificar un animal considerado mostrenco que sufra una enfermedad o lesión, se solicitará la certificación de un médico veterinario aprobado, que diagnostique y avale la necesidad del sacrificio como lo establece el artículo 49 de la Ley.
 
-###### ARTICULO 215.
+###### Artículo 60.
 
-Los ganaderos independientes o asociados, las organizaciones agrarias, las autoridades, los médicos veterinarios en ejercicio particular, la fuerza publica y de seguridad y los ciudadanos en general, tienen la obligación de colaborar en la lucha contra las plagas y enfermedades del ganado y de respetar y cumplir las disposiciones de control y cuarentenarias que en casos de emergencia puedan dictarse.
+Cuando se realice el sacrificio del animal por los motivos expuestos en el artículo anterior, se levantará el acta correspondiente que contendrá los motivos del sacrificio y el destino del producto. El acta será firmada por el supervisor regional pecuario, el inspector de ganadería municipal y el médico veterinario autorizado que realizó la certificación.
 
-###### ARTICULO 216.
+###### Artículo 61.
 
-Todos los ganaderos sin distinción, tienen la obligación de vacunar a su ganado contra las enfermedades infecciosas más comunes que se presenten en la región y desarrollar programas de control de parásitos y plagas y las medidas higiénico-sanitarias coadyuvantes de la sanidad del medio y de los animales.
+El sacrificio del animal se hará en el propio lugar de retención, cuando la enfermedad que padece, represente un riesgo grave para la ganadería del lugar, debiendo por obligación incinerar, encalar y enterrar el cadáver, de acuerdo a la norma de sacrificio contemplada en el Manual de la Comisión.
 
-###### ARTICULO 217.
+###### Artículo 62.
 
-Todos los ganaderos procuraran que sus animales de nueva adquisición, especialmente los sementales y vientres ya paridos, con fines de reproducción y mejoradores, ostenten certificados que los declaren libres de las enfermedades infecciosas transmisibles entre si y al hombre: aborto infeccioso, brucelosis, fiebre de malta, tuberculosis, mastitis estreptococica, erisipelaporcino, pulorosis y demás expedidos por autoridades zoosanitarias del estado o de otras entidads (sic).
+Cuando la enfermedad que se presenta en el animal, a juicio del médico veterinario aprobado, no represente un riesgo de contagio para la ganadería del lugar, se autorizará el sacrificio en el rastro del municipio, debiendo posteriormente incinerarlo. Por ningún motivo se autorizará la comercialización e industrialización de la carne, vísceras y demás productos.
 
-###### ARTICULO 218.
+###### Artículo 63.
 
-En todos los casos de movilizaciones extraordinarias de ganado, como son las exposiciones ganaderas y otras, la Dirección vigilara a través de sus inspectorías, los ayuntamientos, asociaciones locales y las de auxilio fiscal, el cumplimiento de las leyes de tránsito de las federales respectivas y de que los organizadores de los eventos se sujeten al reglamento sanitario interno autorizado por la propia dependencia.
+Cuando un animal considerado mostrenco, fallezca dentro del tiempo que transcurra entre la fecha del reporte al inspector de ganadería municipal, y la fecha de emisión de la autorización de remate de la Secretaría, el inspector de ganadería municipal correspondiente, solicitará la certificación de la causa de la muerte al médico veterinario aprobado para tal fin.
 
-###### ARTICULO 219.
+###### Artículo 64.
 
-Cuando entre los animales en tránsito por el estado, para exposición, se descubra o sospeche alguna enfermedad infecciosa transmisible, se procederá conforme lo señala el Artículo 174 de esta Ley.
+Cuando el animal se sacrifique por causa de lesión, a juicio del médico veterinario aprobado y no represente un riesgo para la salud pública, se pondrá a la venta el producto y lo recaudado deberá ingresarse en calidad de depósito a la hacienda municipal conforme a lo dispuesto al artículo 57 de este Reglamento, levantándose el acta a que se refiere el artículo 60 del Reglamento e informando de lo anterior a la Secretaría.
 
-###### ARTICULO 220.
+###### Artículo 65.
 
-Los animales de ordeña en estabulación, deberán ser sometidos a las pruebas de tuberculosis y de brucelosis con el propósito de formar los hatos libres de estos padecimientos.
+Cuando la Secretaría reciba reporte de un animal mostrenco, al cual se le autorizó el sacrificio, deberá especificarlo en el boletín, exponiendo los motivos.
 
-Para tal efecto, todos los animales que resulten positivos, serán retirados de la producción destinados al rastro y según la gravedad de la infección se confiscarán las partes afectadas que disponga el inspector sanitario.
+###### Artículo 66.
 
-###### ARTICULO 221.
+Cuando se comercialice un animal mostrenco autorizado para su sacrificio y llegare a aparecer el propietario en un plazo no mayor a diez días de publicado el boletín de mostrencos del mes correspondiente, una vez comprobada la legítima propiedad del animal, se le reintegrará el monto de la venta descontando los gastos a que se refiere el artículo 55 de este Reglamento, más los generados por el sacrificio del animal, caso contrario el depósito ingresará en firme a la hacienda municipal.
 
-La Dirección dictara las medidas zoosanitarias a que deberá someterse el ganado de cualesquier especie que se pretenda introducir al Estado, de procedencia regional, nacional o extranjera con fines de cría o abasto.
+### Capítulo IV. De la Movilización, Control y Vigilancia
 
-###### ARTICULO 222.
+###### Artículo 67.
 
-La salida de ganado del Estado con fines de cría o abasto, únicamente podrá ser autorizada por la Dirección, la que oyendo la opinión de la Unión Ganadera Regional, determinará las condiciones, número y especie animal y las zonas en que podrá efectuarse la extracción y su tasa anual.
+Las personas que movilicen en el Estado cualquier especie doméstica productiva, sus productos y subproductos, tendrán la obligación de detenerse en los puntos de verificación zoosanitaria, para ser verificado el cumplimiento a lo establecido en la normatividad federal y para acreditar la legal propiedad.
 
-###### ARTICULO 223.
+###### Artículo 68.
 
-La autorización para la entrada y salida del ganado, impone la obligación de la inspección de los animales en pie en sus lugares de procedencia, practicada por los inspectores de ganadería y por los médicos veterinarios oficiales del Estado, los que certificaran bajo su más estricta responsabilidad la aptitud sanitaria para la movilización y legitima propiedad.
+La guía de tránsito se expedirá al solicitante con fines de movilización, sea cual fuere el motivo, dentro y fuera del municipio, para lo cual deberá presentar:
 
-###### ARTICULO 224.
+I. La credencial que lo acredite como propietario del animal;
 
-La Dirección integrara un banco de información agropecuaria, en el que se concentraran todos los datos regionales de nivel nacional e internacional de las contingencias zoosanitarias, las medidas precautorias de movilización y cuarentenarias a que hayan dado lugar, las campañas locales y generales, las fluctuaciones de la oferta y la demanda en los mercados locales, regionales y nacionales y todos los datos de interés para la ganadería en el Estado, los que serán publicados en un periódico local en su oportunidad y con la frecuencia que se amerite y en el periódico oficial del Estado.
+II. La factura a su nombre cuando los animales tengan otros medios de identificación debidamente autorizados y que no sean de su registro;
 
-Al banco tendrán acceso la Unión Ganadera Regional y sus filiales.
+III. El certificado zoosanitario que marque la Ley Federal de Sanidad Animal;
 
-###### ARTICULO 225.
+IV. Constancias oficiales de participación en las campañas zoosanitarias y cumplimiento de las disposiciones oficiales en materia zoosanitarias vigentes;
 
-La Dirección mantendrá estrecha coordinación y colaboración con la representación general de agricultura y recursos hidráulicos en el estado, a efecto de que todos los programas zoosanitarios federales que se desarrollan en la entidad a través de la dirección general de sanidad animal y la campaña contra la garrapata, alcancen el mayor grado de eficiencia, que permita el establecimiento y desarrollo de una ganadería económicamente productiva.
+V. Tratándose de cambio de agostadero se deberá presentar además de los requisitos anteriores, la constancia de posesión o de arrendamiento de los terrenos en el lugar del destino.
 
-###### ARTICULO 226.
+###### Artículo 69.
 
-Para los efectos del artículo anterior, la dirección promoverá y difundirá entre los ganaderos con extensión publica, el conocimiento de los servicios, objetivos y finalidades de los programas federales de patología y diagnostico, brucelosis, tuberculosis, sanidad equina, derriengue, de hornos forrajeros, campaña contra la garrapata, inspección en puertos y fronteras, movilización de ganado y sus productos y de cuantos lleguen a establecer, con el propósito de que hagan uso de ellos y cumplan estrictamente con sus disposiciones en beneficio propio y de la economía del Estado.
+La guía de tránsito se expedirá en original y dos copias, siendo la original para el solicitante, una copia para la oficina que expida el documento y una copia para la Secretaría.
 
-### CAPITULO II. Vigilancia
+###### Artículo 70.
 
-###### ARTICULO 227.
+En caso de compras subsecuentes, además de los datos enumerados en el artículo 50 de la Ley, se deberán asentar en la guía de tránsito los números de las facturas que acrediten el origen de las figuras de herrar que presenten las especies domésticas productivas a movilizar.
 
-Compete a la Secretaria de Finanzas del Estado, vigilar se cumpla, a través de sus inspectores fiscales, los ordenamientos de esta Ley, respecto de los derechos que se acrediten al Estado, conforme a lo que establece la Ley de Hacienda vigente en la entidad.
+###### Artículo 71.
 
-###### ARTICULO 228.
+La guía de tránsito será despachada por el expeditor cuando el solicitante compruebe la legítima propiedad de los animales a movilizar. No podrá expedirse este documento respecto de animales orejanos o recién herrados, salvo autorización por escrito de la Secretaria y por causa fundamentada.
 
-La Dirección de ganadería a través de un cuerpo de inspectores ganaderos de zona, coordinará sus funciones con los municipios y los de las asociaciones ganaderas a fin de mantener un mecanismo de vigilancia especializado, que entre en contacto con los problemas más comunes de la ganadería: presentación de brotes infecciosos de carácter enzoóticoy (sic) epizoóticos, incendios de agostaderos, sequías regionales, robos de ganado, litigio de colindancias, invasiones de predios, inspecciones en rastros oficiales, particulares y curtidurías y todos cuantos afecten la economía pecuaria de la entidad.
+###### Artículo 72.
 
-###### ARTICULO 229.
+La guía de tránsito tendrá vigencia hasta por cinco días naturales, a criterio del expeditor, fuera de este lapso se considerará guía vencida. Este documento deberá presentarse en los puntos de verificación zoosanitaria por los que transite.
 
-Oyendo a la unión ganadera regional y a sus filiales, la dirección extenderá los nombramientos de inspectores honorarios entre los propios ganaderos o sus representantes, que por la naturaleza de sus actividades transiten constantemente los caminos vecinales de sus comunidades.
+> <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 2011)</small>
 
-###### ARTICULO 230.
+###### Artículo 72 Bis.
 
-Todos los inspectores honorarios, recibirán una credencial expedida por la propia Dirección, acreditando su personalidad y su nombramiento será comunicado a las autoridades que correspondan.
+Tratándose de equinos utilizados para deporte, espectáculo o trabajo, podrá ampararse su movilización mediante la Tarjeta de Tránsito Pecuario emitida por la Secretaría, la cual contendrá la siguiente información:
 
-Los inspectores honorarios coordinarán sus funciones con los inspectores de organismos ganaderos y municipales a efecto de organizar una mayor penetración de la vigilancia de su competencia.
+I. Número de folio;
 
-###### ARTICULO 231.
+II. Fecha de expedición y de vencimiento;
 
-Las dependencias estatales y las descentralizadas que apliquen programas agropecuarios y las agrupaciones, cuya actividad se relacione con el fomento pecuario deberán coordinar y colaborar con la Dirección, para la vigilancia, prevención y control de los problemas relativos a la industria pecuaria en los términos del Artículo 215 de esta Ley.
+III. Nombre y domicilio del propietario;
 
-###### ARTICULO 232.
+IV. Reseña del animal, incluyendo:
 
-La Dirección prestara especial colaboración a las delegaciones federales de sanidad animal y de inspectoría en puertos y fronteras de la secretaría de agricultura y recursos hidráulicos, teniendo en cuenta la extensión de litoral, de frontera común y la diversidad de los puntos de acceso de ganado y sus productos de origen extranjero que deben vigilarse para mantener el control de la sanidad pecuaria en el Estado,
+a) Raza;
 
-### CAPITULO III. Ejercicio Profesional
+b) Número de registro genealógico, país de origen y nombre si los tuviera;
 
-###### ARTICULO 233.
+c) Sexo;
 
-En materia de ganadería, avicultura y apicultura, el Estado de Quintana Roo reconocerá, de acuerdo con la Ley de profesionales (sic), el derecho del ejercicio profesional a los médicos veterinarios, zootecnistas, a los ingenieros agrónomos especializados, a los técnicos agropecuarios y a los profesionales del ramo, que pretendan establecerse en el estado y comprueben con la cédula profesional correspondiente, capacitación zootécnica, genética y de la nutrición, sanidad, comercialización e industrialización pecuaria y otras actividades relativas.
+d) Fecha de nacimiento;
 
-###### ARTICULO 234.
+e) Alzada;
 
-En los términos del artículo anterior y previa presentación de las cédulas profesionales y de causante, inscripción a la Secretaria de Finanzas, y las Tesorerías Municipales y la Dirección, el ejercicio de los profesionales y técnicos a que se refiere el Artículo anterior, es libre y el Estado de Quintana Roo les otorgara las totalidades para el desarrollo de sus actividades.
+f) Color del pelaje;
 
-###### ARTICULO 235.
+g) Descripción detallada de las manchas y otras características del pelaje, detallando tipo y ubicación, señaladas además en los dibujos incluidos en el documento; y
 
-Los profesionales del ramo agropecuario que ejerzan en el Estado, están obligados a respetar, cumplir y cooperar con todas las disposiciones que en esa materia dicte la Dirección, para salvaguardar la sanidad animal, su producción y proteger la salud publica.
+h) Señas particulares;
 
-###### ARTICULO 236.
+V. Medios de identificación con los que cuenta el animal para acreditar su propiedad; y
 
-El derecho ejercicio de la profesión garantizado por el Estado, implica para los beneficiarios el compromiso de actuar bajo su más estricta responsabilidad y ética profesional, de llevar registros de actividades de las que por concepto de vacunaciones de campo, inseminaciones, asesorías zootécnicas de reproducción y alimentación. Rendirán un informe mensual a la dirección, independientemente del aviso inmediato a queden lugar los brotes infecciosos, plagas, incendios y otras cuyas consecuencias están familiarizadas por su capacitación.
+VI. Número de patente de figura de herrar del propietario o del número de documento que acredita su adquisición, con fecha y lugar de expedición.
 
-###### ARTICULO 237.
+> <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 2011)</small>
 
-En coordinación con las uniones regionales y sus filiales locales, la dirección promoverá ante las agrupaciones profesionales establecidas en el Estado, su cooperación al desarrollo de la industria pecuaria en forma de simposiums técnico prácticos, programados en forma rotatoria en las sedes de las asociaciones locales y en las que se analicen y propongan soluciones practicas a los problemas que afecten a cada zona en particular, contribuyendo así a la difusión de la cultura pecuaria y a la mejor capacitación de los productores.
+###### Artículo 72 Bis 1.
 
-###### ARTICULO 238.
+Para la obtención de la Tarjeta de Tránsito Pecuario, el propietario del animal deberá presentar ante el Inspector de Ganadería Municipal correspondiente, lo siguiente:
 
-En coordinación con las direcciones de educación publica, federal y estatal, la dirección promoverá la impartieron de conocimientos pecuarios elementales a partir de los tres últimos años de la educación primaria y las cátedras correspondientes al nivel medio en las escuelas de la entidad.
+I. Original y copia de un comprobante de domicilio;
 
-## TITULO SEXTO. SANCIONES Y RECURSOS
+II. Original y copia de patente de figura de herrar o credencial vigente de ganadero siendo animal de su criadero, o del documento que acredite su adquisición; y
 
-### CAPITULO ÚNICO
+III. Presentar el semoviente para el cual va a ser emitida la Tarjeta de Tránsito Pecuario para verificar las características del mismo y llevar a cabo el llenado de la solicitud respectiva por parte del Inspector de Ganadería Municipal, en el formato que le será proporcionado por la Secretaría.
 
-###### ARTÍCULO 239.
+> <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 2011)</small>
 
-Compete a la dirección de ganadería a sus inspectores y a los gobiernos municipales, aplicar las sanciones por infracciones a la presente Ley.
+###### Artículo 72 Bis 2.
 
-###### ARTICULO 240.
+Una vez llenada la solicitud, verificada la información proporcionada y revisado el animal por parte del Inspector de Ganadería Municipal, quien validará la documentación con su nombre, firma y sello, el propietario deberá hacer llegar a la Secretaría el expediente correspondiente, el cual deberá estar integrado por lo siguiente:
 
-Se harán acreedores a las sanciones que establece el presente capitulo, los propietarios de ganado mayor o menor, porcicultores, avicultores, sus representantes legales o sus trabajadores o los funcionarios y empleados de la Dirección de ganadería o municipios que infrinjan las disposiciones en este capitulo.
+I. Solicitud de expedición de Tarjeta de Tránsito Pecuario, por triplicado;
 
-###### ARTICULO 241.
+II. Copia del comprobante de domicilio;
 
-Para la aplicación de las sanciones, se tomara en cuenta:
+III. Copia de patente de figura de herrar o credencial de ganadero siendo animal de su criadero, o del documento que acredite su adquisición; y
 
-I.- El nivel económico y cultural del infractor.
+IV. Original del recibo de pago de los derechos correspondientes por el concepto de expedición de Tarjeta de Tránsito Pecuario emitido por la oficina recaudadora de la Secretaría de Finanzas.
 
-II.- Las circunstancias en que se comete la infracción.
+> <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 2011)</small>
 
-III.- La mayor o menor responsabilidad del infractor.
+###### Artículo 72 Bis 3.
 
-IV.- La gravedad de la falta.
+La Secretaría emitirá la Tarjeta de Tránsito Pecuario haciéndola llegar al solicitante, llevando un registro de todas las tarjetas emitidas en el Estado, por municipio, número y propietario.
 
-V.- Sus consecuencias.
+> <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 2011)</small>
 
-###### ARTICULO 242.
+###### Artículo 72 Bis 4.
 
-Corresponde a las autoridades municipales sancionar:
+La Tarjeta de Tránsito Pecuario deberá portarse cada vez que el semoviente sea movilizado, la cual tendrá los efectos de una Guía de Tránsito exclusivamente para su movilización dentro del territorio estatal.
 
-I.- Con multa de cincuenta a quinientos pesos las infracciones de los siguientes Artículos:
+Aquellos animales que pretendan salir del Estado deberán amparar su movilización con la Guía de Tránsito emitida por la Secretaría de Finanzas a través de los expedidores autorizados en los términos de la Ley y el presente Reglamento y acatar las disposiciones que en la materia establecen la, normativa federal y cada una de las entidades federativas por las cuales transitará;
 
-a).- El Artículo 26, cuando omita el infractor el registro de sus fierros y marcas de propiedad en el registro municipal. Se le apercibirá de doble sanción en caso de no registrarse en un plazo de quince días.
+Aún cuando un semoviente cuente con la Tarjeta de Tránsito Pecuario, optativamente se podrá amparar su movilización con la Guía de Tránsito.
 
-b).- El Artículo 37. Debiendo dar el aviso a la Presidencia Municipal en un plazo de diez días en caso contrario, no se le autorizara esa actividad.
+> <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 2011)</small>
 
-c).- El Artículo 199.
+###### Artículo 72 Bis 5.
 
-II.- Con multa de quinientos a mil pesos, las infracciones a los Artículos 186 y 195.
+La Tarjeta de Tránsito Pecuario no tiene validez para efectos de acreditación de propiedad, sino exclusivamente para movilización, y no podrá emitirse para animales orejanos o recién herrados. Tendrá una vigencia de dos años y se emitirá a favor del propietario del animal, previo el pago de derechos que por tal concepto establezca la Ley de Ingresos del Estado vigente.
 
-III.- Con multa de mil a cinco mil pesos, las infracciones a los Artículos 53 y 203.
+> <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 2011)</small>
 
-Quienes infrinjan la segunda parte del Artículo 203, se les consignara a las autoridades competentes por los delitos en que incurran y se dictaran las medidas que pre (sic) del producto.
+###### Artículo 72 Bis 6.
 
-###### ARTICULO 243.
+La persona registrada como propietario del animal en la Tarjeta de Tránsito Pecuario será responsable de cualquier situación que se derive por un mal uso de la misma y por aquéllas infracciones a la Ley y su reglamento vinculadas con su uso u omisión, independientemente de las que pudieran resultar de la aplicación de la demás legislación civil o penal.
 
-La Dirección de Ganadería sancionara con multa de cien a quinientos pesos las infracciones a los Artículos siguientes:
+En caso de cambio de propietario deberá notificarse ante la Secretaría dicha transferencia y entregar ante el Inspector de Ganadería Municipal la Tarjeta de Tránsito Pecuario del semoviente a fin de deslindar; al titular de la misma, de cualquier responsabilidad por uso indebido.
 
-a).- El Artículo 26.
+> <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 2011)</small>
 
-b).- El Artículo 37.
+###### Artículo 72 Bis 7.
 
-c).- El Artículo 40. No se autorizara el funcionamiento de actividades de curtidurías, maquila o comercialización de cueros sin que los interesados cuenten con el correspondiente certificado de inspección.
+La Tarjeta de Tránsito Pecuario será válida para amparar sólo la movilización del semoviente que en ella se describe, es intransferible y su uso indebido dará a lugar a la cancelación de la misma por parte de la Secretaría. Dicha tarjeta no será válida en caso de tachaduras, enmendaduras o alteraciones.
 
-d).- El Artículo 41,(sic) Cuando se acepten cueros sin la debida documentación y sin guía sanitaria, se procederá conforme a lo dispuesto en la presente Ley.
+> <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 2011)</small>
 
-e).- El Artículo 49, se dará al infractor un plazo de quince días para revalidar sus marcas, fierros y señales, sin perjuicio de aplicar la sanción. Si no diera cumplimiento a lo mandado, se le cancelara el registro.
+###### Artículo 72 Bis 8.
 
-###### ARTICULO 244.
+La movilización de ganado amparada con una Guía de Tránsito o Tarjeta de Tránsito Pecuario vencida se considerará movilización no autorizada y se sancionará en los términos del artículo 129 fracción VI de la Ley.
 
-En el caso del Artículo 177, se aplicaran multas de hasta cien pesos por cabeza de ganado mayor, de cincuenta pesos por cabeza de ganado menor y de cien pesos por lote de especies menores. Los cueros frescos que carezcan de la guía de tránsito o documentación correspondiente, causaran multa del 50% de las fijadas, según especies.
+###### Artículo 73.
 
-###### ARTICULO 245.
+Cuando, derivado de la aplicación de la fracción I del artículo 53 de la Ley, se detecte alguna irregularidad en el ganado que se moviliza o la documentación que lo ampara, se procederá a retener el ganado en tanto se regulariza su situación debiendo el propietario cubrir las multas y gastos que esto genere.
 
-Se sancionará con multa de quinientos a mil pesos las infracciones a los artículos:
+Si en un término de setenta y dos horas no se acredita debidamente la propiedad del ganado, este se pondrá a disposición del ministerio público a fin de hacer las investigaciones correspondientes y proceder en consecuencia.
 
-a).- 36.
+### Capítulo V. De los Recuentos y Realeos
 
-b).- 50, debiendo el infractor registrar sus fierros en un plazo de cinco días contados a partir de la fecha de notificación de la sanción.
+###### Artículo 74.
 
-c).- 143.
+El recuento podrá realizarse por los interesados, con la presencia del inspector de ganadería municipal, dando cuenta del mismo a través de un escrito enviado en los términos del artículo 57 de la Ley, por lo menos dos días hábiles antes de su ejecución en el que se señale la fecha a efectuarse
 
-###### ARTICULO 246.
+###### Artículo 75.
 
-Se aplicara multa de mil a cinco mil pesos y se procederá conforme al Artículo siguiente, en las violaciones a los Artículos 35, 38, 39, 53, 182 y 205 de esta Ley.
+Efectuado el recuento y de resultar semovientes que no sean propiedad de los interesados, se procederá de acuerdo a lo que se establece en materia de realeos la Ley.
 
-###### ARTICULO 247.
+###### Artículo 76.
 
-Se faculta a la Dirección de Ganadería y a las autoridades municipales para denunciar a las autoridades competentes y consignar a los infractores, cuando en la violación al contenido de esta Ley, incurran en hechos delictuosos, sin perjuicio de aplicar las sanciones administrativas a que haya lugar.
+Los realeos serán conceptuados como acciones de protección exclusivamente del ámbito agrícola, ganadero y forestal. Sin excepción, no tendrán ningún valor para determinar o acreditar derechos de propiedad de predios y terrenos, lo cual corresponde únicamente a la autoridad competente.
 
-###### ARTICULO 248.
+###### Artículo 77.
 
-Los funcionarios o empleados de la Dirección de Ganadería, de los municipios o de cualquiera otra dependencia oficial del gobierno del Estado que intervenga en la aplicación de esta Ley, son responsables de las contravenciones que cometan a sus disposiciones.
+Para solicitar un realeo es necesario presentar ante inspector de ganadería municipal la petición por escrito, en la que se indique el lugar o predio donde se pretende llevar a cabo el realeo y justificando la razón, causa o circunstancia por la que se solicita, de ser posible mencionar el nombre del propietario y número de semovientes que se pretende realear, así como el lugar en donde se depositarán los mismos.
 
-###### ARTICULO 249.
+###### Artículo 78.
 
-Las sanciones para los infractores a que se refiere el artículo anterior, serán fijadas y aplicadas por el superior jerárquico, teniendo en cuenta el grado de responsabilidad, intencionalidad y otros motivos que determinen la sanción, a fin de que esta sea justa y equitativa, oyendo siempre en su defensa al infractor.
+A dicha solicitud, deberá de acompañar copia de la escritura de propiedad, contrato de arrendamiento, o cualquier otro documento que acredite también de manera indubitable su legitima posesión; en caso de ser ejidatario o comunero, copia del certificado de derechos agrarios, del certificado parcelario o de derechos comunes, sentencia o resolución relativa del Tribunal Agrario.
 
-###### ARTICULO 250.
+###### Artículo 79.
 
-El funcionario municipal que teniendo intervención en la aplicación de esta ley, adquiera por si o por interpósita persona o sus parientes consanguíneos, un animal mostrenco en subasta publica del Ayuntamiento, será sancionado con multa equivalente al 50% del monto de lo adquirido o bien suspendido temporalmente o relevado definitivamente de su cargo, según la gravedad de la falta.
+En el caso de ejidatarios o comuneros, las solicitudes de realeo deberán hacerse por las autoridades de los mismos y en caso de particulares o pequeños propietarios, por el dueño del predio, o su representante legal, arrendatario, comodatario o por el albacea cuando el propietario del inmueble haya fallecido.
 
-###### ARTICULO 251.
+###### Artículo 80.
 
-Los administradores o empleados de los rastros públicos o privados que permitan la introducción de animales enfermos en los rastros donde labore, serán sancionados con multa de quinientos a mil pesos. En caso de reincidencia, serán suspendidos temporal o definitivamente de sus cargos. Las empresas particulares observaran esta disposición o se harán responsables solidarios de las violaciones a la presente Ley.
+Antes de autorizarse el realeo, la Secretaría podrá recabar con el supervisor regional pecuario o con el inspector de ganadería municipal, la información sobre la petición del realeo.
 
-###### ARTICULO 252.
+###### Artículo 81.
 
-Sanciones a que se refieren los artículos anteriores, se aplicaran sin perjuicio de las medidas preventivas establecidas con motivo de la protección y fomento de la ganadería en la entidad.
+Una vez reunida y analizada toda la información, de ser procedente se autorizará el realeo solicitado; en caso contrario, se le notificará por escrito al solicitante la razón por la que no se les autorizó.
 
-###### ARTICULO 253.
+###### Artículo 82.
 
-Las multas que no las hagan efectivas el infractor, serán conmutadas por arresto, siempre que la falta lo amerite, el que no excederá de quince días. En ningún caso, los campesinos ejidatarios podrán ser sancionados con arresto mayor de cinco días o con multa mayor de trescientos cincuenta pesos.
+En caso de oposición a la ejecución del realeo que no se ajuste a lo dispuesto en el artículo siguiente por parte del propietario del ganado para que se ejecute el realeo autorizado por la Secretaría o por considerar prudente el supervisor regional pecuario y el inspector de ganadería municipal se girará oficio a la Secretaría de Seguridad Pública, Prevención y Readaptación Social o la policía municipal del lugar solicitando el apoyo de elementos para que auxilien en la diligencia del realeo.
 
-###### ARTICULO 254.
+###### Artículo 83.
 
-Los casos de reincidencia no previstos con sanción especial, serán sancionados hasta con el doble de la multa que se hubiere impuesto con anterioridad.
+No podrá autorizarse ningún realeo sin que previamente se hubiese otorgado garantía de audiencia al presunto propietario del ganado a realear en los términos del artículo 60 de la Ley.
 
-###### ARTICULO 255.
+En el caso de que no sea posible por cualquier causa llevar a cabo la notificación señalada en dicho artículo, el inspector de ganadería levantará un acta circunstanciada ante dos testigos de asistencia donde haga constar los hechos que motiven, surtiendo efectos de notificación.
 
-El presunto infractor podrá ocurrir ante la autoridad que lo sanciona a ofrecer pruebas excluyentes de responsabilidad de la infracción, dentro de un plazo de cinco días a partir de la fecha de la notificación de la sanción, oponiendo el recurso de reconsideración. La autoridad, con base a las pruebas ofrecidas y a las razones expuestas por el recurrente, podrá modificar o revocar la sanción impuesta, una vez acreditado el grado de responsabilidad o los puntos del artículo 241. La resolución deberá dictarse en un plazo de cinco días a partir de la fecha de recepción del escrito del presunto infractor.
+Una vez transcurrido el término de 72 horas posteriores a la notificación sin haberse retirado el ganado, el realeo deberá ejecutarse en un plazo no mayor de 15 días naturales siguientes.
 
-###### ARTICULO 256.
+El propietario del ganado podrá oponerse al realeo a través de los medios de defensa previstos en la Ley. La Secretaría podrá suspender provisionalmente la ejecución del realeo hasta en tanto se resuelva la inconformidad interpuesta.
 
-Prescribirá en un plazo de cinco años consecutivos contados a partir de la fecha en que se inicie el procedimiento de aplicación, la acción administrativa para hacer efectivas las sanciones o infracciones de la presente ley. La prescripción se interrumpe por cualquier acto que tienda a continuar el procedimiento para ejecutarla.
+## Título Tercero. Del Desarrollo Pecuario
 
-### CAPITULO VI. Exposiciones Ganaderas
+### Capítulo I. Del Programa Estatal de Desarrollo Pecuario
 
-###### ARTÍCULO 153.
+###### Artículo 84.
 
-Se entiende por Exposición Ganadera, la presentación y exhibición en especie, de muestras representativas de la ganadería, de sus productos naturales, de los resultados de su industrialización y los de las industrias conexas, que complementan el cuadro objetivo del desarrollo pecuario de una localidad, de un estado, de una región o del país, según el caso.
+La Secretaría elaborará y presentará al Ejecutivo del Estado, el Programa Estatal para las diferentes especies domésticas productivas, mismo que será actualizado anualmente para que sea acorde a los planes del sector, ya los avances tecnológicos en la materia.
 
-###### ARTÍCULO 154.
+###### Artículo 85.
 
-Las Exposiciones Ganaderas, tienen por finalidad confrontar los resultados obtenidos a través de las distintas practicas de manejo, reproducción y alimentación del ganado, con el propósito de promover en los ganaderos los fines zootécnicos que deben alcanzar en función de tiempo, rendimiento y calidad.
+El Programa Estatal determinará regiones, zonas y áreas del Estado de acuerdo a la vocación pecuaria, las especies, razas y cruzas que por las características del terreno, recursos naturales, clima, altitud y demás particularidades en eficiencia, eficacia, congruencia y suficiencia para su mayor rentabilidad; será enunciativo más no limitativo, propiciando la regulación y encauzamiento de la producción esta con objetivos y metas a corto, mediano y largo plazo, tomando en consideración las tecnologías de punta y su aplicación.
 
-###### ARTÍCULO 155.
+###### Artículo 86.
 
-Siendo las Exposiciones Ganaderas el medio de difusión más efectivo para promover la cultura pecuaria en el pueblo, y uniformar el criterio zootécnico de los ganaderos que se traducen en el mejor aprovechamiento de los recursos naturales. (sic) el Ejecutivo Estatal procurara su realización.
+Para apoyar el Programa Estatal, la Secretaría se coordinará con las diferentes organizaciones ganaderas estatales, industriales pecuarios, instituciones y organismos estatales, nacionales e internacionales de investigación mediante convenios, acuerdos y todos aquéllos actos que permitan el cumplimiento de las partes involucradas en los diferentes proyectos de desarrollo pecuario a realizarse.
 
-###### ARTÍCULO 156.
+###### Artículo 87.
 
-El Gobierno del Estado, a través de la Dirección, en coordinación con la Secretaría de Agricultura y Recursos Hidráulicos, la Confederación Nacional Ganadera, la Unión Ganadera Regional y las Asociaciones Locales, fomentara y promoverá la realización de las exposiciones, concediendo franquicias y premios y las menciones del caso, que estimulen a los expositores y motive su natural interés de superación.
+Los proyectos de desarrollo pecuario se enfocarán a incrementar la producción y productividad de las actividades pecuarias en la entidad, para contribuir a la autosuficiencia de productos alimentarios básicos del País.
 
-###### ARTICULO 157.
+###### Artículo 88.
 
-Las exposiciones ganaderas, pueden ser especializadas o generales:
+Dentro del Programa Estatal se considerarán como programas estratégicos:
 
-I.- Son especializadas cuando en ellas se presentan animales de una sola raza o de distintas razas, pero de la misma especie y de la misma función zootécnica, y
+I. Censo de población ganadera e inventario de recursos:
 
-II.- Son generales, cuando presentan indistintamente ganado de todas las razas, especies y función zootécnica.
+a) Padrón de productores;
 
-###### ARTICULO 158.
+b) Tipos de explotaciones;
 
-Las exposiciones ganaderas en el estado, ya sean especializadas o generales, tendrán dos jerarquías:
+c) Sistema de producción;
 
-I.- LOCALES.- Las que por su influencia y atractivo de participación no trascienda los limites geográficos de una zona económica, y
+d) Calidad genética;
 
-II.- ESTATALES.- Las que se realicen en la capital del Estado, u otro lugar, con la participación de ganaderos de toda la entidad, pudiendo eventualmente concurrir expositores de otros estados e invitados extranjeros se procurara que estas exposiciones, en razón a su influencia económica, zootécnica y cultural, organización y calidad de los tipos de ganado presentados, alcancen niveles obtenidos en exposiciones regionales y nacionales.
+e) Corrales de engorda;
 
-###### ARTICULO 159.
+f) Construcciones e instalaciones para el ganado;
 
-Las Exposiciones Ganaderas Locales y Estatales, se celebraran cada año, salvo causas de fuerza mayor, en fecha que para cada año determine el Ejecutivo Estatal y convenga al mayor lucimiento de los eventos.
+g) Baños garrapaticidas;
 
-###### ARTICULO 160.
+h) Bodegas y silos;
 
-Todas las Exposiciones Ganaderas, que se celebren en el Estado, serán registradas en la Secretaría de Fomento Agropecuario, la que a su vez hará los tramites de registro correspondientes para su calendarización y designación de jurados y presean (sic) ante la Dirección General de Ganadería, de la Secretaría de Agricultura y Recursos Hidráulicos.
+i) Rastros, centros de sacrificio, frigoríficos e industrias pecuarias;
 
-###### ARTICULO 161.
+j) Centros de recepción y comercialización de ganado;
 
-La exposición ganadera estatal, se denominará: Exposición y Feria Agrícola, Ganadera, Artesanal y de la Industria Rural y Pecuaria de Quintana Roo.
+k) Centros de cría de ganado;
 
-###### ARTICULO 162.
+l) Centros de inseminación artificial y de transferencia embrionaria;
 
-En las exposiciones ganaderas del estado, los expositores podrán concurrir con tres objetivos: exhibición, concurso y venta, teniendo presente que a dichos eventos solo tendrán acceso las muestras de ganado y sus productos más selectos de su especie, bajo la más estricta responsabilidad de los organizadores asesorados por la Dirección.
+m) Laboratorio de patología de sanidad animal;
 
-###### ARTICULO 163.
+n) Plantas procesadoras e industrializadoras de leche y productos lácteos;
 
-Todo el ganado que concurra a una Exposición, deberá entrar a sus pabellones con un mínimo de doce horas a la inauguración del evento y permanecer en ellos hasta el día de la clausura inclusive, sin perjuicio de que se cierren tratos de los ejemplares destinados a la venta.
+ñ) Centros de investigación pecuaria;
 
-###### ARTICULO 164.
+o) Fábricas de alimentos pecuarios;
 
-Con el propósito de establecer los más estrictos lineamientos de imparcialidad y honestidad en la clasificación del ganado que concurra a las exposiciones ganaderas del Estado, la Dirección solicitará la colaboración de la Secretaría de Agricultura y Recursos Hidráulicos, para que designe jurados auxiliares cuyo fallo a más de inapelable será positivo en beneficio de la ganadería estatal.
+p) Pastizales naturales;
 
-###### ARTICULO 165.
+q) Praderas cultivadas;
 
-Las exposiciones ganaderas del estado se convocaran con sesenta días de anticipación y de reglamentación interna sancionadas por la Dirección tendrán la difusión estatal, regional y nacional que a juicio del Gobierno del Estado convenga al prestigio de la entidad.
+r) Cultivos forrajeros;
 
-###### ARTICULO 108.
+s) Equipo y maquinaria pecuaria;
 
-En sus programas estatales, la Dirección otorgará especial atención a la explotación pecuaria a nivel familiar rural, a fin de mejorar las condiciones de vida y procurar el arraigo de la familia campesina para el logro de una mejor distribución de la riqueza pecuaria del Estado.
+t) Productos y subproductos agrícolas;
 
-###### ARTICULO 109.
+u) Productos y subproductos industriales;
 
-El fomento de la ganadería a nivel familiar en el medio rural se realizara en base a programas debidamente fundamentados, no precisamente para elevar el número de animales que posea el campesino, sino buscando preferentemente orientar la pequeña explotación rural, al tipo de granja integral que permita atender a las necesidades inmediatas de alimentos primarios en la familia, procurando diversificar la producción, en armonía con la naturaleza y cuantía de los recursos del hombre del campo y los productos de mayor aceptación y demanda en los mercados local y estatal, hasta alcanzar el grado de la industrialización rural.
+v) Empresas productoras de semillas forrajeras; y
 
-###### ARTICULO 110.
+w) Puntos de verificación zoosanitarios.
 
-La granja integral tendera a satisfacer sus propias necesidades de insumos nutrimentales en materia ganadera y sus especies en explotación se determinaran por zonas ecologías, económicas y características del mercado
+II. Programas de fomento genético y de prácticas de la reproducción:
 
-###### ARTICULO 111.
+a) Programas de mejoramiento genético;
 
-En el fomento de la granja familiar, no se intentará la introducción de especies de escasa aceptación en los mercados local y estatal en tanto la demanda de sus productos no justifique económicamente le explotación de dichas especies
+b) Programa de apoyo para inseminación artificial y de transferencia embrionaria; y
 
-###### ARTICULO 112.
+c) Programa de prácticas de mejoramiento de períodos de empadre.
 
-Para poner en marcha dichos programas, la Dirección tendrá muy en cuenta el asepecto (sic) de la capacitación orientada a difundir la cultura pecuaria y su relación con el factor económico que constituye la formula para motivar el interés del campesino
+III. Programas de fomento a la infraestructura pecuaria:
 
-###### ARTICULO 113.
+a) Programa estatal de bordería;
 
-En función de los recursos naturales y su transformación zootécnica-económica con mayor viabilidad, el orden jerárquico de las especies que constituyen la ganadería de agostadero, productora de alimentos en el Estado, se integra como sigue: bovinos, equinos, ovinos y caprinos
+b) Programa de puntos de verificación zoosanitaria;
 
-###### ARTÍCULO 114.
+c) Programa de tanques rancheros;
 
-Consciente de la importancia que tiene para la economía del Estado, producir sus propios insumos y teniendo en cuenta el enorme déficit tradicional en leche de bovinos y sus derivados que obligan a su importación en distintas formas industrializadas, nunca iguales en calidad y si muy inferiores a la natural, se procurara en el Estado el fomento de la producción lechera
+d) Programa de centros de acopio; y
 
-###### ARTICULO 115.
+e) Programa de fomento de rastros Tipo Inspección Federal.
 
-Para efectos del Artículo anterior, la Dirección promoverá el desarrollo de esta industria, poniendo en practica las medidas más idóneas para estimular su organización sobre las bases de crédito, seguro ganadero y garantía de comercialización
+IV. Programas de fomento a los cultivos forrajeros:
 
-###### ARTICULO 116.
+a) Programa de mejoramiento de suelos;
 
-En coordinación con las asociaciones ganaderas y los centros de investigación y de estudios pecuarios que funcionan en el Estado, la Dirección catalogara los tipos lecheros más recomendables para la entidad y los sistemas de explotación que deben implantarse
+b) Programa de fomento de cultivos forrajeros;
 
-###### ARTICULO 117.
+c) Programa de establecimiento de praderas; y
 
-Tomando en cuenta las características ecológicas que confiere al Estado su ubicación geográfica y la esca (sic) manejo de este tipo de ganado, la Dirección impartirá la asesoría y orientación técnica necesarias a efecto de que los interesados adquieran los conocimientos del caso y puedan organizar sus instalaciones y hatos en las condiciones más recomendables.
+d) Programa de mejoramientos de praderas.
 
-###### ARTICULO 118.
+V. Programas de fomento a la alimentación animal:
 
-Para formar los hatos de la industria lechera de Quintana Roo, la Dirección promoverá la selección de los vientres nativos con mejores aptitudes y vigilara que los pies de cría que se adquieran en el país o en el extranjero, sean animales de registro procedentes de ganadería de prestigio y amparados con los certificados sanitarios exigidos por las disposiciones legales.
+a) Programa de aprovechamiento de esquilmos agrícolas;
 
-Por sus características raciales, los pies de cría originales deberán presentar una premunización natural y ser los más aptos por su adaptabilidad y resistencia sin perjuicio de que la función zootécnica sea especializada o mixta
+b) Programa de aprovechamiento de subproductos industriales; y
 
-###### ARTICULO 119.
+c) Establecimiento de programas de alimentación de acuerdo a los recursos de insumos.
 
-Compete a la Dirección y a la unión ganadera regional y sus filiales, asesorará a sus miembros y ganaderos independientes para la obtención de líneas de crédito, en las condiciones más ven (sic) lecheras
+VI. Programas de sanidad animal:
 
-###### ARTICULO 120.
+a) Programa de apoyo por campañas zoosanitarias;
 
-Sentadas las bases para el desarrollo de la industria lechera la Dirección procurara que se preserve y mejore la calidad de los hatos lecheros a través de los sistemas de reproducción, alimentación y manejo más adecuado
+b) Programa de atención de enfermedades; y
 
-### CAPITULO VII. Crédito y Seguro Pecuario
+c) Diagnóstico de las enfermedades.
 
-###### ARTICULO 166.
+VII. Programa para mejoramiento de sistemas de comercializa (sic)
 
-Como ejecutora de la política pecuaria del estado, la Dirección promoverá la creación y ampliación de las líneas de crédito y seguro pecuario que opera la Banca Oficial y Privada en el Estado y coordinará la compatibilidad de los programas de esas instituciones, en función del fomento e incremento de la producción de alimentos de origen animal, canalizando los volúmenes adecuados de los créditos al fomento de las especies de corto ciclo zootécnico, capaces de satisfacer a corto plazo la demanda de proteína, sin menoscabo de las que deban aplicarse a la ganadería mayor.
+a) Programa bolsa de ganado; y
 
-###### ARTICULO 167.
+b) Programa de instalación de tanques rancheros y centros de acopio para la producción lechera.
 
-La Dirección promoverá entre los ganaderos la utilización de los créditos de la Banca Oficial, preferentemente para incrementar la producción de los satisfactores primarios de mayor demanda.
+VIII. Programas de apoyo para el mejoramiento nutricional de la población rural, a través de un programa de distribución de paquetes familiares
 
-###### ARTICULO 168.
+###### Artículo 89.
 
-La Subsecretaria vigilara que los créditos autorizados para la adquisición de pies de cría y núcleos de reposición, se apliquen inexcusablemente a la compra de animales de registro de calidad probada o de la progenie, en los tipos y razas según la especie, que por su (sic) características zootécnicas sean garantía de rentabilidad y de mejoramiento para la ganadería.
+La Secretaría, conjuntamente con las organizaciones de productores, asesorará a quien lo solicite, para la creación de agrupaciones ganaderas de tipo empresarial en donde se cuente con condiciones más favorables para producir, distribuir, industrializar y comercializar productos y subproductos de las distintas especies pecuarias.
 
-###### ARTICULO 169.
+### Capítulo II. De la Adaptación, Conservación y Mejoramiento de Tierras para Fines Pecuarios
 
-La Dirección promoverá oportunamente reuniones entre las agrupaciones ganaderas y las instituciones de crédito con el objeto de conocer los avances y evaluar los resultados obtenidos en la aplicación de los créditos.
+###### Artículo 90.
 
-En base a las conclusiones obtenidas en estas reuniones, los participantes harán conjuntamente las proposiciones de modificaciones, ampliaciones o creaciones de nuevas líneas de crédito más idóneas compatibles con el desarrollo pecuario del Estado.
+La Secretaría asesorará a quien lo solicite para la elaboración y ejecución de los programas que estén enfocados a obtener un máximo aporte de productos de origen animal sin ocasionar daño a la tierra y en su caso, restaurándola a sus condiciones originales.
 
-En base a este análisis y a las propuestas técnicas y económicamente fundamentadas, la Dirección someterá a la consideración del ejecutivo del Estado, los proyectos de crédito que deberán recibir mayor atención en un momento dado para que este a su vez los promueva ante los organismos correspondientes.
+###### Artículo 91.
 
-###### ARTICULO 170.
+La Secretaría asesorará a quien lo solicite para que a través de la Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación; el Instituto Nacional de Investigaciones Forestales, Agrícolas y Pecuarias y, el Centro de Investigación Experimental Pecuario de Jalisco, reciban la asistencia en lo referente a:
 
-En atención a la importancia que tiene (sic) los reproductores de raza y registro para el desarrollo de la ganadería, la Dirección promoverá su inscripción en el seguro ganadero, vigilando que cláusulas de los convenios, a fin de preser (sic) las instituciones cumplan cabalmente las (sic) var (sic) la salud y capacidad genética de los animales, que por su condición de pies de cría representan la base y el futuro de la industria ganadera de la entidad.
+I. Alternativas de producción de forrajes;
 
-La Dirección podrá eventualmente, realizar los estudios y preparar los proyectos para proponer al ejecutivo estatal la creación del Banco de Crédito y Seguro Ganadero del Estado.
+II. Programas de suplementación;
 
-###### ARTÍCULO 121.
+III. Manejo de potreros;
 
-La Dirección vigilara que todos los registros de los pies de cría sean revalidados oportunamente y que los interesados reciban la asesoría y asistencia técnica necesaria para continuar el registro de la progenie debidamente seleccionada
+IV. Mejoramiento de suelos; y
 
-###### ARTICULO 122.
+V. Cercos perimetrales.
 
-Para el logro de su objeto, la Dirección promoverá la practica de la inseminación artificial en el ganado lechero de la entidad, como uno de los sistemas de reproducción más seguros y económicos para el mejoramiento de la calidad genética de los animales y sus rendimientos, sin incurrir en las elevadas inversiones en sementales de dudosa capacidad y de su mantenimiento
+###### Artículo 92.
 
-###### ARTICULO 123.
+Los productores, propietarios o beneficiarios de pastizales que deseen recibir la colaboración técnica de la Secretaría, deberán:
 
-Para efectos del Artículo anterior, la Dirección vigilara que en tanto los programas estatales no alcancen su nivel de difusión practica, la inseminación del ganado lechero se realice con productos del Instituto de Inseminación Artificial, cuya calidad y proceso son reconocidos a nivel internacional
+I. Decidir un uso adecuado de apacentamiento;
 
-###### ARTICULO 124.
+II. Manifestar el número de animales y especie animal;
 
-En atención a la creciente demanda de la carne de cerdo y sus derivados y al estado actual de la explotación y rendimientos de esa especie en la entidad, el fomento de la porcicultura deberá ser estimulado en todo el Estado
+III. Mejorar la distribución del agua, saladeros y suplementadores;
 
-###### ARTICULO 125.
+IV. Conocer los efectos de la nutrición en la producción y la mejoría de prácticas de manejo del ganado; y
 
-Para el logro del fomento de la porcicultura, la Dirección pondrá en marcha los programas estatales que estime pertinentes a fin de impulsar su desarrollo tecnificado en base a las razas y tipos de mayor productividad.
+V. Relacionar el apacentamiento con otros usos de la tierra como cacería, pesca, recreación, entre otros.
 
-###### ARTICULO 126.
+###### Artículo 93.
 
-La Dirección autorizará la introducción de pies de cría de porcinos, de origen nacional o extranjero al Estado, vigilando el cumplimiento de las disposiciones de sanidad pecuaria que establece esta Ley.
+La Secretaría, orientará a los productores ante las diferentes instancias y organizaciones ganaderas para el uso de tecnologías que contribuyan a incrementar la producción de la ganadería en lo referente a:
 
-###### ARTÍCULO 127.
+I. Producción de forrajes:
 
-Son porcicultores en los términos de esta Ley, toda persona física o moral propietaria de cerdos, que se dedican a la reproducción, mejoramiento y explotación de la especie en instalaciones propias o arrendadas.
+a) Pastizales naturales;
 
-###### ARTÍCULO 128.
+b) Praderas cultivadas;
 
-Con el propósito de estimular a los porcicultores y satisfacer a corto plazo la creciente demanda de alimentos proteicos de origen animal, la Dirección, en base a los estudios económicos realizados, propondrá al ejecutivo estatal las medidas que transitoria o progresivamente puedan ponerse en practica las que convengan para la protección de los criadores que se establezcan en la entidad.
+c) Cultivos Forrajeros; y
 
-###### ARTICULO 129.
+d) Esquilmos y subproductos.
 
-En auxilio de los criadores de cerdos, la Dirección les otorgara toda la asesoría técnica necesaria para establecer sus explotaciones y para organizar el mecanismo contable que le (sic) permita operar en función de costos de producción.
+II. Manejo y aprovechamiento de forrajes:
 
-### CAPITULO I. Movilización del ganado y sus Productos
+a) Pastizales naturales;
 
-###### ARTICULO 171.
+b) Praderas cultivadas;
 
-Con el propósito de evitar que la movilización de animales y sus productos se conviertan en el factor principal de la propagación de enfermedades y parasitosis especificas y que propicie el comercio ilícito de ganado propio y ajeno, toda persona que constante o eventualmente transporte ganado y sus productos, esta obligada a recabar los permisos de traslado respectivos que son la guía sanitaria y la guía de tránsito.
+c) Forrajes cultivados; y
 
-###### ARTICULO 172.
+d) Esquilmos y subproductos agrícola (sic) e industriales
 
-Las guías sanitarias y de tránsito, pueden ir acompañadas por otro tipo de certificado especial de vacunación antirrábica, libre de pullorosis, libre de brucelosis, de baño garrapaticida, etc., pero no excluye la responsabilidad de los tenedores para sujetarse a todas las disposiciones sanitarias y de inspección vigentes en las diversas zonas de su tránsito.
+III. Alimentación racional del ganado:
 
-En las poblaciones donde no se expidan guías sanitarias, la movilización se hará al amparo de la guía de tránsito, con la prevención de recabar el documento sanitario en la primera población de paso donde exista este servicio oficial.
+a) Programas de producción y abastecimiento de forrajes;
 
-###### ARTICULO 173.
+b) Valor nutritivo de los forrajes; y
 
-Guía Sanitaria es el documento de control federal, que tiene validez en todo el territorio nacional y es el único documento oficial del orden sanitario que autoriza la movilización de ganado y sus productos. Su expedición esta a cargo de médicos veterinarios zootecnistas de la Secretaría de Agricultura y Recursos Hidráulicos, a ltraves (sic) de dependencias de la propia Secretaria, de la Dirección y de las Presidencias Municipales.
+c) Requerimientos nutricionales del ganado.
 
-###### ARTICULO 174.
+### Capítulo III. Del Mejoramiento Genético
 
-Queda estrictamente prohibido movilizar animales enfermos de una zona o región a otra, y si en el curso de la movilización a pie o transportada, se descubriera o sospechara la presencia de animales enfermos, el conductor del ganado esta obligado a denunciar el hecho a las autoridades competentes, quedando, entre tanto, la partida y sus medios de transporte detenida e nel(sic) lugar inmediato más adecuado para su observación y medidas de control procedente, dependiendo la reanudación del traslado, de la naturaleza del padecimiento que se haya presentado según lo previsto en esta Ley.
+###### Artículo 94.
 
-###### ARTICULO 175.
+La Secretaría, realizará programas permanentes de mediano y largo plazo, relativos al mejoramiento genético pecuario de la Entidad.
 
-Para efectos de control estatal de movilización de ganado y sus productos, la Dirección a través de las Presidencias Municipales, Inspectores de Ganadería y Asociaciones Ganaderas Locales, expedirá a su vez una guía de tránsito, que no debe confundirse con la guía sanitaria, y que no se sustituye entre si, pues una es de control federal zoosanitaria y la otra es de tipo administrativo.
+###### Artículo 95.
 
-###### ARTICULO 176.
+Los programas que se realicen, serán acordes a las diferentes regiones que conforman el Estado, tomando en cuenta las características ecológicas definidas en éste, de acuerdo al Programa Estatal.
 
-Previa a la expedición de la guía de tránsito, los inspectores municipales, inspectores ganaderos de zona y los de las asociaciones ganaderas, deberán practicar la inspección del ganado en pie, en corrales o en sus transportes para asegurarse de su condición sanitaria y para constatar la legitima propiedad del ganado, cotejando sus fierros, marcas y señales con los documentos que presente el solicitante, incluida la reseña de cada animal, la que en caso de faltar, formulará en ese momento el inspector certificándola con su firma y sello.
+###### Artículo 96.
 
-###### ARTÍCULO 177.
+La calidad genética del ganado será analizada en las diferentes regiones por la Secretaría, con el propósito de determinar el tipo de razas y el porcentaje requerido para el mejoramiento de las especies.
 
-Todo ganado y sus productos que se movilicen sin el amparo de la guía de tránsito al correspondiente, será detenido en tránsito por los inspectores de ganadería, los inspectores de las asociaciones ganaderas locales y en las casetas de vigilancia fiscal, y sancionado el infractor con las multas que para el efecto fije la Dirección, conforme al capitulo correspondiente de esta Ley, por cabeza de ganado según especie, cuya legitima propiedad deberá quedar perfectamente establecida antes de expedirse la guía para continuar el traslado.
+###### Artículo 97.
 
-###### ARTICULO 178.
+La Secretaría, conjuntamente con las diferentes organizaciones de productores y de investigación, establecerá y propondrán las razas de las diferentes especies domésticas productivas más apropiadas para ser introducidas a las diferentes zonas y regiones el Estado.
 
-En los lugares de procedencia del ganado o sus productos, donde no se expidan guías de tránsito, la autoridad correspondiente, certificara bajo su estricta responsabilidad, la legitima propiedad del ganado, o su origen en el caso de productos y autorizará su movilización, previniendo al interesado que su autorización únicamente será válida hasta el primer lugar en donde pueda recabar la guía.
+###### Artículo 98.
 
-###### ARTICULO 179.
+Para la implementación de programas de mejoramiento genético deberá tomarse en consideración la aplicación del paquete tecnológico generado por la Secretaría donde se contemplará el mejoramiento de pastos, manejo, administración, infraestructura, zootecnia y sanidad del ganado.
 
-En el caso de la transportación de cueros frescos y salados de bovino, equino, ovino y caprino, el inspector de ganadería que expida la guía de tránsito, pondrá especial atención en verificar las marcas, cotejándolas con las del documento de propiedad, que presente el conductor exigiendo además o previniendo el requisito de la guía sanitaria.
+###### Artículo 99.
 
-###### ARTICULO 180.
+Los productores a través de sus agrupaciones podrán participar activamente en los diferentes programas que sobre mejoramiento genético se realicen por las instituciones oficiales, centros de enseñanza y de investigación, previa concertación y convenio al respecto.
 
-La Dirección en coordinación con la representación general de Agricultura y Recursos Hidráulicos en el Estado, la Unión Ganadera y sus filiales locales, determinara los lugares más convenientes de acceso y salida de ganado a la entidad, para ubicar e implementar corrales y potreros de aislamiento cuarentenario, los que quedaran a cargo de la Asociación Ganadera en cuya jurisdicción se establezcan.
+###### Artículo 100.
 
-###### ARTICULO 181.
+La Secretaría, asesorará a los productores ante los organismos e instituciones educativas y de investigación, que otorguen apoyo para el mejoramiento genético en lo referente a:
 
-Los animales cuarentenados y sus productos, no podrán ser movilizados sin que haya transcurrido el periodo de cuarentena, la que será de un mínimo de 21 días después de la ultima muerte animal, si es el caso, y la autorización la certificara un médico veterinario oficial al servicio del Estado.
+I. Selección:
 
-###### ARTICULO 182.
+a) Medición de características económicas de razas y cruzas; y
 
-Queda estrictamente prohibido comerciar animales enfermos o hacer uso de sus productos y esquilmos.
+b) Medición de ganancia de peso.
 
-### CAPITULO II. Rastros y Mataderos
+II. Sistemas de cría:
 
-###### ARTICULO 183.
+a) Registros de producción;
 
-Para los términos de esta Ley, se entiende por rastro o matadero el sitio debidamente acondicionado con las instalaciones indispensables para sacrificar y procesar ganado, aves y otras especies menores, destinadas al consumo de la población.
+b) Cruzamiento por monta directa;
 
-###### ARTICULO 184.
+c) Cruzamiento por inseminación artificial y/o transferencia embrionaria; y
 
-Los rastros del Estado, serán de orden municipal y su establecimiento, funcionamiento administrativo e inspectoría sanitaria dependerán del Ayuntamiento en cuya jurisdicción se localicen.
+d) Manejo, selección y cría de razas puras.
 
-###### ARTICULO 185.
+III. Introducción de nuevas razas y comportamiento comparativo de nuevas razas; y
 
-Los rastros municipales serán los únicos autorizados para sacrificar, procesar y distribuir carnes y vísceras frescas y productos de origen animal a los expendios o lugares de abasto directo al público.
+IV. Estudios de interacciones genético ambientales y efectos del clima en el comportamiento y productividad del ganado.
 
-###### ARTICULO 186.
+### Capítulo IV. De la Educación, Capacitación e Investigación Pecuaria
 
-Para efectos del Artículo anterior, se prohibe el sacrificio de animales con fines de abasto, en vía publica, en predios particulares y en todos los sitios que no hayan sido legalmente autorizados por las autoridades competentes para esos fines.
+###### Artículo 101.
 
-###### ARTICULO 187.
+La Secretaría, en coordinación con las instituciones educativas de todos los niveles, programará los cursos y seminarios que se requieran para:
 
-Los rastros o mataderos se clasifican en:
+I. Asesoría a productores en:
 
-I.- OFICIALES: los que dependen del municipio con la finalidad del abasto público, y
+a) Producción de forrajes;
 
-II.- PARTICULARES: los de las industrias empacadoras, salchichonerías, etc., que sacrifican para proveer sus propios insumos de proceso industrial.
+b) Manejo y aprovechamiento de forrajes;
 
-Quedaran comprendidos en esta fracción los rastros o mataderos de particulares que obtengan del Ayuntamiento respectivo la concesión para su establecimiento, conforme a lo dispuesto por la Ley orgánica municipal y el reglamento respectivo.
+c) Alimentación racional de ganado;
 
-###### ARTICULO 188.
+d) Control de plagas y enfermedades;
 
-En los tramites previos al establecimiento y funcionamiento de un rastro particular, de nueva creación, o complementario, los interesados o sus representantes, invariablemente presentaran una solicitud escrita al Ayuntamiento respectivo, con copia a la Dirección adjuntando los planos completos del proyecto y los estudios fundamentales para su revisión.
+e) Manejo y mejoramiento genético del ganado;
 
-###### ARTICULO 189.
+f) Infraestructura ganadera, maquinaria y equipo de apoyo;
 
-Los Ayuntamientos asesorados, en su caso, por técnicos de la Dirección, realizaran los estudios pertinentes previos a la autorización para el funcionamiento de un rastro.
+g) Sistemas de producción pecuaria;
 
-###### ARTICULO 190.
+h) Industrialización y transformación de productos pecuarios; y
 
-La autorización para el funcionamiento del presunto rastro se determinara en base a los siguientes requisitos:
+i) Conservación, distribución y comercialización de alimentos, productos y subproductos pecuarios.
 
-I.- LOCALIZACIÓN: fuera del área urbana, tan apartado como lo recomiende la legislación en materia sanitaria vigente en el Estado, de 5 a 3 kilómetros y lo permitan las vías de comunicación de tránsito permanente, principales y secundarias.
+II. Difusión de las disposiciones de la Ley y su Reglamento entre los productores pecuarios, estudiantes de las carreras de medicina veterinaria, agronomía y carreras afines, así como en las dependencias oficiales, instituciones de investigación, organizaciones del medio rural y toda aquélla instancia que actúe o interactúe directa o indirectamente en el subsector pecuario.
 
-II.- EDIFICIO: especialmente construido para el efecto o acondicionado apropiadamente con las secciones, anexos, instalaciones y obras complementarias que garanticen su funcionalidad y la fluidez de actividades conforme a la capacidad inmediata y potencial del sacrificio, y
+###### Artículo 102.
 
-III.- SERVICIO: contar con energía eléctrica del servicio público y de planta propia, incluido transformador, agua potable a presión, con tanque de almacenamiento bajo y de distribución elevada, drenaje y desagüe propio, con sistemas de recuperación o de control sanitario, área de carga y descarga, corrales y abrevaderos.
+La Secretaría, las organizaciones, asociaciones y uniones de productores, fomentarán la comunicación con las instituciones educativas y de investigación pecuaria, para determinar y requerir las tecnologías faltantes en cada rama de la producción de las diferentes especies domésticas productivas, haciéndolas llegar a los productores a través de paquetes tecnológicos que puedan ser utilizados por los mismos, enfocados primordialmente a:
 
-En todo caso se estará a lo dispuesto en los planes de desarrollo urbano municipal y estatal, conforme a la Ley de la materia.
+I. Incrementar la producción y productividad de alimentos, productos y subproductos pecuarios al máximo potencial ganadero de cada región con esta vocación; y
 
-ARTICULO 194 (sic).- En las poblaciones pequeñas en las que se sacrifique ganado periódico y constate escaso que carezcan de rastros, se acondicionaran locales lo más adecuado posible para hacer las veces de matadero, nombrando la Presidencia Municipal a que corresponda un administrador o inspector honorario pudiendo recaer ese servicio social en un miembro de la Asociación Ganadera Local.
+II. Elevar el nivel de los productores de ganado mediante la aplicación de las tecnologías modernas conllevando a una mejor comercialización y retribución de sus productos.
 
-###### ARTICULO 195.
+### Capítulo V. De las Ferias y Exposiciones
 
-En todos los rastros, independientemente de su clasificación, se llevaran libros de registro por especies, en los que se asentaran las entradas de ganado con número de animales y su procedencia nombre del vendedor y los documentos probatorios de propiedad, de cuyos asentamientos el administrador integrara la relación mensual con expresión de los derechos pagados, que remitirá en original al Ayuntamiento, con copia a la Dirección y a la Asociación Ganadera Local de su asentamiento.
+###### Artículo 103.
 
-###### ARTICULO 196.
+La Secretaría promoverá ferias y exposiciones en aquellas regiones del Estado que se caractericen por el desarrollo de alguna vocación ganadera, dándole la importancia por el número de municipios colindantes que desarrollen esa actividad.
 
-Los administradores de los rastros oficiales, serán los únicos responsables de la legitimidad de los animales sacrificados previa constatación de sus marcas con los documentos que acrediten la propiedad de los introductores y de que se paguen los derechos o impuestos al municipio.
+###### Artículo 104.
 
-###### ARTICULO 197.
+A las ferias regionales se les dará el impulso y la proyección necesaria para la amplia participación de todos los productores de la región.
 
-Los cueros frescos y salados del ganado bovino, equino, caprino y ovino sacrificados en los rastros, deberán conservar las marcas a fuego, las que aparecerán en un registro similar al del movimiento de ganado.
+###### Artículo 105.
 
-###### ARTICULO 198.
+Las asociaciones, uniones y organizaciones de productores con el asesoramiento de la Secretaría, impulsarán y promoverán la realización de eventos ganaderos específicos y selectivos de acuerdo a las zonas y regiones del Estado y con base a su vocación.
 
-Los registros de entrada de ganado, sacrificio y de cueros frescos de los rastros, podrán ser revisados en todo momento por los inspectores de ganadería de la zona e inspectores fiscales del Estado y otras autoridades competentes, para constatar el cumplimiento de esta Ley y las disposiciones fiscales, o cuando se investiguen denuncias de abigeato.
+###### Artículo 106.
 
-###### ARTICULO 199.
+En las diferentes exposiciones regionales, la Secretaría, apoyará el reconocimiento al productor que se destaque por su desarrollo en ese campo.
 
-Todos los animales que se sacrifiquen en los rastros del Estado, con fines de abasto público, deberán tener un descanso mínimo en los corrales de 24 horas y dietarse durante las doce horas previas al sacrificio.
+## Título Cuarto. Sanidad Pecuaria y Medidas Profilácticas
 
-###### ARTICULO 200.
+### Capítulo Único. De la Sanidad Animal
 
-Todos los animales que se pretendan sacrificar en los rastros del Estado, pasaran dos inspecciones en pie.
+###### Artículo 107.
 
-I.- La primera inspección la pasarán durante la recepción. La realizaran normalmente el administrador o sus auxiliares y eventualmente con asistencia del inspector de ganadería de la zona o representantes de la Asociación Ganadera Local, con la finalidad de comprobar que los animales corresponden efectivamente a los que amparan los documentos de propiedad. Si durante la inspección se descubren animales enfermos o sospechosos de estarlo, se solicitará la intervención del veterinario oficial para que emita dictamen, reteniendo entre tanto el ganado en corrales de aislamiento o áreas de estacionamiento con el letrero de sospechosos, sin permitir su paso a los corrales generales, y
+Los Comités Municipales de Sanidad Animal a los que se refiere el artículo 89 de la Ley se integrarán bajo la supervisión de la Secretaría, conglomerando a autoridades federales, estatales, municipales, organizaciones de productores y demás organismos o instituciones que se relacionen con esta actividad.
 
-II.- La segunda es la inspección sanitaria practicada por el médico veterinario del municipio, de la Dirección o de la delegación de salubridad, o en su caso el inspector sanitario con el objeto de determinar el estado de salud de los animales.
+Estos promoverán acciones que permitan en su jurisdicción el combate de las enfermedades infecciosas y/o parasitarias de los animales con el objeto de auxiliar a los gobiernos federal y estatal en la mejor operación de las acciones relacionadas con la sanidad animal, a fin de que se llegue a un diagnostico oportuno que permita proceder a la prevención, control y/o erradicación de estas afecciones.
 
-###### ARTICULO 201.
+Establecerán programas de apoyo, que lleguen a todas las localidades de esa municipalidad.
 
-Cuando se trate de un inspector sanitario o auxiliar de médico veterinario el que practique la inspección y presuma o sospeche la presencia de animales enfermos, deberán dar aviso al administrador del rastro, el que solicitara la intervención del médico veterinario oficial o de uno particular, designado por la autoridad competente, para dictaminar en el caso.
+Siendo la finalidad de los Comités Municipales de Sanidad Animal, prevenir la presencia de enfermedades y plagas de los animales y por consecuencia preservar la salud pública, se establecen las siguientes acciones:
 
-###### ARTICULO 202.
+I. Promover fondos de contingencia con recursos municipales en apoyo a las (sic) ya establecidos;
 
-Queda estrictamente prohibido permitir la introducción de animales enfermos a los rastros de la entidad, el administrador vigilara que se cumpla fielmente esta disposición.
+II. Promover y fomentar la investigación en el área de la salud;
 
-###### ARTICULO 203.
+III. Apoyar a los supervisores regionales pecuarios en la verificación y actividades oficiales encaminadas al mejor control en la movilización y sacrificio de las especies domésticas productivas;
 
-Queda estrictamente prohibido sacrificar en los rastros oficiales o particulares del Estado, animales enfermos con fines de abasto sin la previa autorización del médico veterinario responsable oficial o particular y animales enfermos que en la inspección el responsable haya declarado como no propios para el consumo.
+IV. Establecer una base de datos actualizada, que contenga la información pecuaria y sanitaria del municipio;
 
-###### ARTICULO 204.
+V. Establecer un sistema de vigilancia epizootológica permanente de acuerdo a la normatividad vigente;
 
-En todos los rastros del Estado, se practicara inspección sanitaria de vísceras y canales, las que sean selladas por el inspector, que las realice antes de autorizar su distribución a los expendios públicos o su venta directa.
+VI. Apoyar los operativos que se establezcan en caso de que se requiera activar el Dispositivo Nacional de Emergencia en Sanidad Animal, en caso de emergencia zoosanitaria; y
 
-###### ARTÍCULO 205.
+VII. Llevar un estricto control sanitario en la inspección dentro de los rastros de su jurisdicción, reportando de inmediato cualquier anormalidad detectada tanto por hallazgos de enfermedad o bien por la sospecha del uso de substancias proporcionadas al ganado que puedan representar un riesgo para la salud publica.
 
-Par (sic) todos los rastros del Estado, queda estrictamente prohibido el sacrificio de vientre útiles para la reproducción en estado avanzado de gestación y las crías machos de animales mejorados viables a los servicios de canje "a la par" de que habla la fracción III, del Artículo 76 de esta Ley.
+## Título Quinto. De los Productos y Subproductos Pecuarios
 
-###### ARTICULO 206.
+### Capítulo I. De la Clasificación de Productos y Subproductos Pecuarios
 
-Compete a la Dirección, fijar los términos para el sacrificio de hembras en edad de reproducción y crías machos de reproductores mejorados y su cumplimiento será de observancia obligatoria para los administradores de los rastros, inspectores de ganadería, médicos veterinarios oficiales y en general para todas las personas relacionadas con el sacrificio de ganado bovino en los rastros municipales y particulares del Estado.
+###### Artículo 108.
 
-###### ARTICULO 207.
+La Secretaría coordinará y dirigirá la regulación de la clasificación para cada una de las diferentes especies productivas, sus productos o subproductos, de acuerdo a su calidad.
 
-En todos los rastros particulares del Estado, la inspección en pie y en canal, la hará invariable un médico veterinario o un inspector sanitario municipal, sin perjuicio de que la empresa tenga su propio veterinario o inspector y salvo convenio entre empresa y municipio. La empresa particular pagara al municipio directamente por el servicio de su inspección.
+###### Artículo 109.
 
-###### ARTICULO 130.
+La Secretaría, en coordinación con autoridades del ramo y organismos auxiliares, conformarán un comité técnico que se denominará Comité Estatal para la Calidad de la Carne, y será el encargado de realizar una clasificación en grados de calidad respecto de la carne de las especies domésticas productivas.
 
-Teniendo en cuenta que el renglón alimenticio representa el 80% de los costos de producción del cerdo, la Dirección mantendrá estrecha coordinación y colaboración con la Dirección de Agricultura en el Estado, a fin de que se incrementen los cultivos de los sustitutos del maíz, en la dieta porcina para abatir los precios de los concentrados y establecer en la entidad la elaboración de los alimentos balanceados.
+###### Artículo 110.
 
-###### ARTICULO 131.
+Los grados de calidad serán definidos en un manual técnico que elaborará el Comité Estatal, en colaboración con organismos técnicos e instituciones de investigación.
 
-Para la defensa de sus intereses y procurando obtener las ventajas de que normalmente participan las agrupaciones, los porcicultores deberán organizarse en asociaciones especializadas en los términos del Artículo 10, o incorporarse a la Asociación Ganadera Local Mixta que corresponda.
+###### Artículo 111.
 
-###### ARTÍCULO 132.
+Será responsabilidad del Comité Estatal emitir las Reglas para la Clasificación de las Especies Domésticas Productivas, Productos y Subproductos, basándose para ello en las normas oficiales mexicanas y normas mexicanas vigentes relativas a la materia.
 
-Considerando que el déficit de la producción de huevo y carne de aves para consumo domestico se origina en planeamientos equívocos en un marco tradicionalista que incide con mayor impacto en la economía de los estratos más vulnerables de la población, se otorgara especial atención al fomento de la cría y explotación de la aves de corral, gallinas, guajolotes, patos, codornices y demás especies avícolas susceptibles de aprovechamiento intensivo para la alimentación del hombre.
+###### Artículo 112.
 
-###### ARTICULO 133.
+El Comité Estatal tendrá la facultad de vigilar que los canales y cortes provenientes de otras entidades o países se homologuen a la clasificación establecida para el Estado, pudiendo en su caso, reclasificarlas para adecuarlas al mercado local.
 
-De conformidad a lo anterior, la Dirección se abocara a realizar los estudios para el fomento de la avicultura en el Estado.
+###### Artículo 113.
 
-###### ARTICULO 134.
+Para fines de clasificación, será considerada la carne procedente de animales que provengan de alimentación balanceada en pesebre como mínimo de 30 días para un rendimiento y calidad óptimos.
 
-El fomento de la avicultura tiene por finalidad, promover el desarrollo de la industria avícola en el Estado, incrementar su producción y abatir los precios de mercado para popularizar el consumo de sus productos en beneficio de la colectividad.
+###### Artículo 114.
 
-###### ARTICULO 135.
+Para determinar la clasificación y grado de calidad de las especies domésticas productivas, y canales, no se tomará en cuenta el período de engorda, sino la condición corporal del animal, el porcentaje de rendimiento en canal, así como las características organolépticas de la carne.
 
-El fomento de la avicultura y el consecuente desarrollo de la producción intensiva, representa fuentes de trabajo que absorven (sic) mano de obra calificada, la que se diversificara y multiplicara con las industrias conexas de equipo avícola y elaboradora de alimentos que demandan materias primas del campo y como tal deberá de estimularse por todos los medios legales.
+###### Artículo 115.
 
-###### ARTICULO 136.
+El Comité Estatal propondrá las tarifas que se aplicarán en los servicios enlistados a continuación, mismas que se determinarán por la Secretaría:
 
-La Dirección asesorará y autorizará el establecimiento de explotaciones avícolas en el Estado, previniendo la distribución de la producción y los canales de comercialización.
+I. Clasificación y reclasificación de las especies domésticas productivas, canales y cortes;
 
-###### ARTICULO 137.
+II. Licencia de establecimientos de comercialización de carne clasificada; y
 
-La Dirección promoverá ante las autoridades federales, la continuidad en el Estado del programa de recuperación avícola, con base en los lineamientos de la política general del plan nacional ganadero hasta alcanzar los objetivos, propuestos.
+III. Cortadores de carne clasificada para ventas a menudeo.
 
-###### ARTICULO 138.
+###### Artículo 116.
 
-La Dirección promoverá por si y por los conductos debidos la rehabilitación del Centro Nacional Avícola de Chetumal, con las especies y razas más recomendables por su mejor adaptación al medio y aceptación en el mercado local.
+Las personas físicas y jurídicas que se dediquen a la comercialización de carne clasificada en el Estado deberán obtener la autorización referida en el artículo 104 de la Ley.
 
-###### ARTICULO 139.
+###### Artículo 117.
 
-Los avicultores que se establezcan en el Estado deberán organizarse en asociaciones especializadas o integrarse a la Asociación Ganadera Local Mixta de su jurisdicción.
+Los requisitos para la autorización de establecimientos de comercialización de carne clasificada son:
 
-## ARTICULOS TRANSITORIOS
+I. Solicitud por escrito que contenga el nombre o razón social y dirección de comercializador;
 
-PRIMERO.- La presente ley entrara en vigor el 1° de agosto de 1977, ordenándose su publicación en el Periódico Oficial del Estado.
+II. Ubicación del lugar donde se realice su actividad;
 
-SEGUNDO.- Se faculta al ciudadano Gobernador del Estado para expedir el Reglamento de la presente ley.
+III. Contar con los permisos requeridos por las autoridades municipales y de salud para la operación del establecimiento;
 
-TERCERO.- Se abrogan las disposiciones que se opongan a la presente ley.
+IV. Contar con el equipo e infraestructura necesaria para el buen manejo de la carne así como su almacenamiento; y
 
-CUARTO.- Se fija un plazo de seis meses contados a partir de la fecha en que entre en vigor esta ley, para que todo criador de ganado, tratantes, curtidurías, rastros particulares, asociaciones ganaderas y demás a que se refiere esta ley, registren en la Dirección de Ganadería del Estado sus actividades.
+V. Carta compromiso para comercializar exclusivamente carne clasificada.
 
-Dado en el Salón de Sesiones de la I Legislatura Constitucional del Estado Libre y soberano de Quintana Roo, en la ciudad de Chetumal, capital del mismo, a los dieciséis días del mes de diciembre de mil novecientos setenta y seis.- Diputado Presidente, Serapio Flota Maas.- Diputada Secretaria, Ma. Cristina Sangri Aguilar.- Rubricas.
+###### Artículo 118.
 
-Dado en la residencia del Poder Ejecutivo del Estado de Quintana Roo, en la ciudad de Chetumal, capital del mismo, a los treinta y un días del mes de diciembre de mil novecientos setenta y seis.- El Gobernador Constitucional del Estado, Lic. Jesús Martínez Ross.- Rubrica.- El Secretario General de Gobierno, Lic. Pedro Joaquín Coldwell.- rubrica.
+La Secretaría podrá solicitar a los establecimientos registrados, información para certificar que la carne expedida es únicamente carne clasificada.
+
+###### Artículo 119.
+
+El Comité Estatal propondrá a la Secretaría los mecanismos necesarios para la verificación de los establecimientos autorizados para expender carne clasificada.
+
+###### Artículo 120.
+
+En caso de introducción al Estado de carne procedente de otras entidades federativas o países, deberán contar con la certificación sanitaria requerida para garantizar el tipo de producto, grado de calidad, sanidad e inocuidad del mismo. Además, deberán cumplir con las disposiciones fiscales y de comercio establecidas para el caso.
+
+### Capítulo II. Del Sacrificio de las Especies Domésticas Productivas para el Consumo Humano
+
+###### Artículo 121.
+
+Para obtener la credencial de introductor pecuario, expedida por la Secretaría se requiere:
+
+I. Autorización por escrito del ayuntamiento para dedicarse a la introducción de especies domésticas productivas a rastros, misma que deberá llevar el visto bueno del inspector de ganadería municipal que corresponda:
+
+II. Carta de no antecedentes penales;
+
+III. Una fotografía tamaño credencial; y
+
+IV. La credencial sólo será válida para el rastro o municipio a que corresponda.
+
+###### Artículo 122.
+
+Para el sacrificio de las especies domésticas productivas en los rastros, y centros de sacrificio autorizados por los ayuntamientos, se deberá recabar la orden de sacrificio que otorga el inspector de ganadería municipal correspondiente.
+
+###### Artículo 123.
+
+En aquellas delegaciones en las que por sus necesidades y a criterio del ayuntamiento se requiera realizar en ellas la expedición de órdenes de sacrificio previa autorización por escrito de la Secretaría, podrá otorgarse al delegado municipal, bajo la supervisión del inspector de ganadería municipal, la atribución para la expedición de este documento, debiendo cubrir los solicitantes los requisitos establecidos en este Reglamento.
+
+###### Artículo 124.
+
+La orden de sacrificio se expedirá, a través de la forma valorada correspondiente y previo pago del derecho que establezca la ley de ingresos del municipio, siempre y cuando se acrediten la propiedad y permiso de movilización de las especies domésticas productivas así como el cumplimiento de los requisitos sanitarios para ello; asentándose en ello:
+
+I. Nombre del productor o introductor;
+
+II. Nombre del municipio, rastro o centro de sacrificio correspondiente;
+
+III. Número de animales a sacrificar;
+
+IV. Figuras de herrar que ostente el ganado;
+
+V. Guía de tránsito que autorice su movilización al centro de sacrificio;
+
+VI. Documentos que acrediten la propiedad del ganado a sacrificar;
+
+VII. Fecha de expedición; y
+
+VIII. El delegado municipal deberá entregar la copia correspondiente al inspector de ganadería municipal al término de cada mes siendo responsabilidad de este tenerlas a disposición de las autoridades competentes cuando se requiera su revisión.
+
+Esta orden de sacrificio tendrá vigencia de cuarenta y ocho horas, y se emitirá en original para el solicitante, además de copias para el centro de sacrificio y para el inspector de ganadería municipal o delegado municipal autorizado. Carecerá de validez sin la firma y sello de quién expida la autorización.
+
+###### Artículo 125.
+
+El inspector de ganadería municipal autorizará el sacrificio una vez que se le compruebe la propiedad de los animales a través de la factura a nombre del interesado, o su patente cuando los animales presenten únicamente su figura de herrar registrada y la guía de tránsito correspondiente expedida por el expeditor a nombre del interesado.
+
+###### Artículo 126.
+
+Para animales de otras localidades, municipios, estados o países, se deberá presentar además de la factura fiscal o el documento de transmisión de propiedad, la guía de tránsito y el certificado zoosanitario, debidamente validados y sellados por los puntos de verificación zoosanitarios que transitó.
+
+###### Artículo 127.
+
+Una vez que se hayan sacrificado el total de los animales, en el frente de la factura fiscal se le pondrá un sello con la leyenda «Sólo válida para efectos fiscales», y en tratándose del documento de transmisión de propiedad se le colocará un sello con la leyenda «cancelada».
+
+###### Artículo 128.
+
+Cuando la factura o documento de transmisión de propiedad ampare más animales, el inspector de ganadería municipal, al frente anotará la fecha, el número de animales que quedan vigentes en la misma, firma y el sello oficial respectivo.
+
+###### Artículo 129.
+
+Para permitir la matanza en el rastro será necesario presentar la orden de sacrificio en la administración del mismo. El administrador permitirá la matanza de los animales autorizados por ella, anotando en el libro de registro el número de orden de sacrificio, nombre del introductor o ganadero, número de animales sacrificados y retendrá la orden de sacrificio.
+
+### Capítulo III. De las Sanciones
+
+###### Artículo 130.
+
+El procedimiento para la aplicación de sanciones se sujetará a lo dispuesto en su artículo 131, y en lo no previsto por éste, se actuará conforme a lo dispuesto en la Ley del Procedimiento Administrativo del Estado de Jalisco y sus municipios, y conforme a lo siguiente:
+
+I. Toda persona que tenga conocimiento de alguna infracción a lo dispuesto en este reglamento deberá notificarlo de inmediato al inspector de ganadería municipal o directamente a la Secretaría;
+
+II. El inspector de ganadería municipal o la Secretaría, a través de su supervisor regional pecuario o del personal que comisione para ello, acudirá al lugar de los hechos y elaborará un acta circunstanciada de lo que ocurra, con la participación de dos testigos de asistencia, asentando en ella las infracciones cometidas. Esta acta se elaborará en tres tantos, siendo el original para la Secretaría, copia para el infractor y para el actuario;
+
+III. Tratándose de tránsito de especies domésticas productivas, sus productos o subproductos, y que haya retenido el transporte en los puntos de verificación zoosanitaria, el inspector zoosanitario solicitará la intervención del inspector de ganadería municipal o del personal de la Secretaría para retener el embarque, en tanto se lleva a cabo el procedimiento respectivo, así como el lugar en donde se depositará este embarque;
+
+IV. La Secretaría, a través de su personal facultado, calificará las infracciones resultantes de los hechos, tomando en cuenta las circunstancias y la gravedad de la infracción, notificando por escrito al infractor de la sanción a la que se ha hecho acreedor, independientemente de las responsabilidades que resulten de la aplicación de la legislación penal o civil; y
+
+V. Cuando así lo considere, el inspector de ganadería municipal o el personal de la Secretaría responsable, podrá solicitar el apoyo de los diferentes cuerpos policíacos para llevar a cabo las diligencias necesarias del procedimiento.
+
+###### Artículo 131.
+
+En el caso de sanciones pecuniarias, estas serán consideradas créditos fiscales y serán hechas efectivas a través de la Secretaría de Finanzas por medio de sus oficinas de recaudación fiscal de los municipios.
+
+###### Artículo 132.
+
+Cuando por motivo de la infracción cometida se detenga algún embarque con especies domésticas productivas, sus productos o subproductos, el propietario o transportista deberá regularizar la situación y en su caso realizar el pago de la sanción pecuniaria aplicada, a fin de que se le permita continuar con la movilización de las especies pecuarias, productos o subproductos en un plazo no mayor de las 72 horas siguientes a la aplicación de la sanción, en caso contrario este se pondrá a disposición del ministerio público, cuando exista presunción de la comisión de un delito o se procederá como determine la Secretaría en cada caso particular.
+
+###### Artículo 133.
+
+Contra los actos o resoluciones fundados en el Reglamento, podrá presentarse recurso de reconsideración los términos de la Ley, ante la Secretaría o bien, promover juicio ante el Tribunal de lo Administrativo del Estado.
+
+## ARTÍCULOS TRANSITORIOS
+
+PRIMERO. Este Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial «El Estado de Jalisco».
+
+SEGUNDO. La aplicación de las disposiciones reglamentarias relacionadas con el ámbito competencial federal y municipal, se encuentra sujeta los términos en que sean suscritos los convenios de coordinación con los gobiernos federal y municipales, mismos que previamente deberán ser autorizados por la Secretaría General de Gobierno.
+
+«2005: Año del adulto mayor en Jalisco»
+
+Jueves 17 de noviembre de 2005, Guadalajara, Jalisco. México.
+
+LIC. FRANCISCO JAVIER RAMÍREZ ACUÑA
+
+Gobernador Constitucional del Estado
+
+(RÚBRICA)
+
+GERARDO OCTAVIO SOLÍS GÓMEZ
+
+Secretario General de Gobierno
+
+(RÚBRICA)
+
+LIC. ÁLVARO GARCÍA CHÁVEZ
+
+Secretario de Desarrollo Rural
+
+(RÚBRICA)
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA AL PRESENTE REGLAMENTO.</small>
+
+P.O. 30 DE AGOSTO DE 2011.
+
+ÚNICO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
