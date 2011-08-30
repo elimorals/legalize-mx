@@ -4,7 +4,7 @@ identifier: "FED-ley-federal-de-competencia-economica-112"
 country: "mx"
 rank: "ley_federal"
 publication_date: "1992-12-24"
-last_updated: "2011-05-10"
+last_updated: "2011-08-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=112&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LFCE"
 
 LEY FEDERAL DE COMPETENCIA ECONOMICA
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 10 DE MAYO DE 2011.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 30 DE AGOSTO DE 2011.
 
 Ley publicada en el Diario Oficial de la Federación, el jueves 24 de diciembre de 1992.
 
@@ -1106,11 +1106,21 @@ Los agentes económicos tendrán derecho a presentar programas alternativos de d
 
 La Comisión acudirá ante la autoridad judicial competente para solicitarle que ejecute la resolución.
 
-> <small>(REFORMADO, D.O.F. 28 DE JUNIO DE 2006)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 30 DE AGOSTO DE 2011)</small>
 
 ###### ARTICULO 38.
 
-Una vez que la resolución de la Comisión haya causado estado, los agentes económicos que hayan sufrido daños y perjuicios a causa de la práctica monopólica o concentración prohibida, podrán deducir su acción por la vía judicial, para obtener una indemnización por daños y perjuicios. Al efecto, la autoridad judicial podrá solicitar a la Comisión la estimación de los daños y perjuicios.
+Aquellas personas que hayan sufrido daños o perjuicios a causa de una práctica monopólica o una concentración prohibida podrán interponer las acciones en defensa de sus derechos o intereses de forma independiente a los procedimientos previstos en esta Ley. La autoridad judicial podrá solicitar la opinión de la Comisión en asuntos de su competencia.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, D.O.F. 30 DE AGOSTO DE 2011)</small>
+
+Las acciones a que se refiere el párrafo anterior podrán ejercerse de forma individual o colectiva, estas últimas en términos de lo dispuesto en el Libro Quinto del Código Federal de Procedimientos Civiles.
+
+> <small>(REFORMADO, D.O.F. 28 DE JUNIO DE 2006)</small>
 
 No procederá acción judicial o administrativa alguna con base en esta Ley, fuera de las que la misma establece.
 
@@ -1233,3 +1243,17 @@ La reforma al artículo 39 de la Ley Federal de Competencia Económica entrará 
 ###### ARTÍCULO SÉPTIMO.
 
 Se derogan las disposiciones que se opongan al presente Decreto.
+
+D.O.F. 30 DE AGOSTO DE 2011.
+
+PRIMERO.- El presente Decreto entrará en vigor a los seis meses siguientes al día de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan a lo previsto en el presente Decreto.
+
+TERCERO.- La Cámara de Diputados aprobará las modificaciones presupuestales necesarias a efecto de lograr el efectivo cumplimiento del presente Decreto.
+
+CUARTO.- El Consejo de la Judicatura Federal, en el ámbito de las atribuciones que le han sido conferidas, dictará las medidas necesarias para lograr el efectivo cumplimiento del presente Decreto.
+
+QUINTO.- El Consejo de la Judicatura Federal deberá crear el Registro dentro de los noventa días siguientes a la entrada en vigor del presente decreto. El requisito previsto en la fracción II del artículo 620 del Código Federal de Procedimientos Civiles no será aplicable sino hasta después del primer año de entrada en vigor del presente Decreto.
+
+SEXTO.- El Consejo de la Judicatura Federal deberá crear el Fondo a que se refiere el Capítulo XI del Título Único del Libro Quinto del Código Federal de Procedimientos Civiles dentro de los noventa días siguientes a la entrada en vigor del presente decreto. Mientras el Fondo no sea creado, los recursos que deriven de los procedimientos colectivos serán depositados en una institución bancaria y serán controlados directamente por el juez de la causa.
