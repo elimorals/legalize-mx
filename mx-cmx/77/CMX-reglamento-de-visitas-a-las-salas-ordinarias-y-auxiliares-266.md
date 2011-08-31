@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-de-visitas-a-las-salas-ordinarias-y-auxiliares-266"
 country: "mx"
 rank: "reglamento"
 publication_date: "1986-12-01"
-last_updated: "1986-12-01"
+last_updated: "2011-08-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=266&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,9 @@ issue_date: "1986-10-31"
 
 REGLAMENTO DE VISITAS A LAS SALAS ORDINARIAS Y AUXILIARES DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL DISTRITO FEDERAL
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO QUINTO DEL REGLAMENTO INTERIOR DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL DISTRITO FEDERAL, PUBLICADO EN LA G.O. DE 31 DE AGOSTO DE 2011, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: ABROGADO.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el lunes 1 de diciembre de 1986.
 
@@ -105,3 +107,19 @@ Cuando de la visita de inspección resulte responsabilidad para alguno de los mi
 UNICO.- El presente Reglamento entrará en vigor el día siguiente de su publicación en la Gaceta Oficial del Departamento del Distrito Federal.
 
 Así lo resolvió la H. Sala Superior del Tribunal de lo Contencioso Administrativo del Distrito Federal en sesión plenaria, celebrada el día 31 de octubre de 1986.- Firman el C. Magistrado Lic. José Luis Caballero Cárdenas, Presidente del Tribunal de lo Contencioso Administrativo del Distrito Federal y de la Sala Superior, y el C. Lic. Jesús Jiménez Delgado, Secretario General de Acuerdos de dicho Tribunal y de la Sala Superior, que da fe.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+G.O. 31 DE AGOSTO DE 2011.
+
+PRIMERO.- El presente Reglamento entrará en vigor diez días después de su publicación en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- Se abroga el Reglamento Interior del Tribunal de lo Contencioso Administrativo del Distrito Federal publicado en la Gaceta Oficial del Distrito Federal del diecisiete de junio de mil novecientos noventa y seis, con No. 368 Tomo I.
+
+TERCERO.- Hasta en tanto no se actualicen los manuales y procedimientos administrativos, continuarán vigentes los existentes, siempre y cuando no se contrapongan al contenido y alcance del presente Reglamento.
+
+CUARTO.- En aquellos casos en que el presente Reglamento se refiera a la "Contraloría Interna", hasta en tanto el Tribunal no cuente con dicha área, sus atribuciones serán atendidas por la Sala Superior.
+
+QUINTO.- Se abroga el Reglamento de Visitas a las Salas Ordinarias y Auxiliares del Tribunal de lo Contencioso Administrativo del Distrito Federal, publicado en la Gaceta Oficial del Distrito Federal del primero de diciembre de mil novecientos ochenta y seis.
+
+SEXTO.- Publíquese en la Gaceta Oficial del Distrito Federal.
