@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-hacienda-para-el-estado-de-tamaulipas-59131"
 country: "mx"
 rank: "ley"
 publication_date: "2007-12-31"
-last_updated: "2011-04-05"
+last_updated: "2011-08-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=59131&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE HACIENDA PARA EL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE ABRIL DE 2011.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE AGOSTO DE 2011.
 
 Ley publicada en el Anexo al Extraordinario No. 5 del Periódico Oficial del Estado de Tamaulipas, el lunes 31 de diciembre de 2007.
 
@@ -815,9 +815,11 @@ e) Por la conservación de cada libro y sus anexos (apéndice) del protocolo not
 
 XVII. Por la inscripción de avisos preventivos de compraventa, hipotecas y donaciones, el importe de diez días de salario mínimo, por cada propiedad;
 
-> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2011)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
 
-XVIII. Por la inscripción de contratos de mutuo con o sin garantía hipotecaria celebrados entre particulares, sobre el importe de la operación 4 al millar;
+> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2011)</small>
+
+XVIII. Por la inscripción de contratos de mutuo con o sin garantía hipotecaria celebrados entre particulares, 10 días de salario mínimo;
 
 XIX. Por la consulta de un legajo, dos días de salario mínimo;
 
@@ -1435,31 +1437,11 @@ XIV. Por la explotación y aprovechamiento de recursos minerales o sustancias no
 
 XV. Por el registro en el Padrón de Prestadores de Servicios Técnicos en Materia Ambiental, cincuenta días de salario mínimo.
 
-###### Artículo 76.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
 
-Por los servicios otorgados para el aprovechamiento de la Vida Silvestre en Tamaulipas, se pagarán las siguientes cuotas:
+###### Articulo 76.
 
-I. Por el dictamen de evaluación técnica para la determinación de la tasa de aprovechamiento por cada ejemplar aprovechable con fines cinegéticos y/o comerciales, 3.5 días de salario mínimo. Para efectos de este artículo se considerará límite de posesión de ejemplares el establecido oficialmente para cada especie. Dicho pago se deberá realizar al momento de la obtención de cada uno de los sistemas de marcaje autorizados.
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2008)</small>
-
-II. Por la recepción y evaluación del Plan de Manejo para la Conservación de la Vida Silvestre, once días de salario mínimo;
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2008)</small>
-
-III. Por la recepción y evaluación de la modificación al Plan de Manejo para la Conservación de la Vida Silvestre, siete y medio días de salario mínimo;
-
-IV. Aprovechamiento de especies (palomas) sujetas a un proyecto regional, seis y medio días de salario mínimo por cintillo expedido; y
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2008)</small>
-
-V. Aprovechamiento extractivo de especies mediante caza deportiva, seis y medio días de salario mínimo por cintillo vigente.
+(DEROGADO, P.O. 31 DE AGOSTO DE 2011)
 
 ### CAPITULO XIII. DE LA SENTENCIA
 
@@ -1820,3 +1802,9 @@ P.O. 5 DE ABRIL DE 2011.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 31 DE AGOSTO DE 2011.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto se publicará en el Periódico Oficial del Estado, y entrará en vigor el 1 de enero del 2012.
