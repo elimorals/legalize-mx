@@ -4,7 +4,7 @@ identifier: "CHH-ley-organica-de-la-universidad-autonoma-de-chihuahua-56223"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2007-06-27"
-last_updated: "2007-06-27"
+last_updated: "2011-08-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56223&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY ORGANICA DE LA UNIVERSIDAD AUTONOMA DE CHIHUAHUA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE AGOSTO DE 2011.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 27 de junio de 2007.
 
@@ -95,9 +95,17 @@ IV. Conferir menciones y reconocimientos honoríficos;
 
 V. Gestionar y allegarse recursos para su sostenimiento, así como determinar los derechos, participaciones y cuotas por los servicios que preste;
 
-VI. Establecer los criterios, requisitos y procedimientos para la admisión, permanencia y egreso de sus alumnos, mediante los reglamentos respectivos; y
+> <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2011)</small>
 
-VII. Las demás que se deriven de su naturaleza y de sus fines, así como las que otras leyes establezcan.
+VI. Establecer los criterios, requisitos y procedimientos para la admisión, permanencia y egreso de sus alumnos, mediante los reglamentos respectivos;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 31 DE AGOSTO DE 2011)</small>
+
+VII. Administrar unidades médicas y prestar servicios médicos y hospitalarios con sentido social, privilegiando la docencia, la investigación y el extensionismo; y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 31 DE AGOSTO DE 2011)</small>
+
+VIII. Las demás que se deriven de su naturaleza y de sus fines, así como las que otras leyes establezcan.
 
 ## TÍTULO II. ESTRUCTURA DE LA UNIVERSIDAD
 
@@ -1030,3 +1038,11 @@ Por tanto mando se imprima, publique, circule y se le dé el debido cumplimiento
 En la Ciudad de Chihuahua, Palacio de Gobierno del Estado, a los veinticinco días del mes de junio del año dos mil siete.
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO. LIC. JOSÉ REYES BAEZA TERRAZAS. Rúbrica. EL SECRETARIO GENERAL DE GOBIERNO INTERINO. LIC. HÉCTOR HUMBERTO HERNÁNDEZ VARELA. Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS DEL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 31 DE AGOSTO DE 2011.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
