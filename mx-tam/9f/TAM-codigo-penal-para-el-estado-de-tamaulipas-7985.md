@@ -4,7 +4,7 @@ identifier: "TAM-codigo-penal-para-el-estado-de-tamaulipas-7985"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-12-20"
-last_updated: "2011-06-22"
+last_updated: "2011-08-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7985&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CODIGO PENAL PARA EL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE JUNIO DE 2011.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE AGOSTO DE 2011.
 
 Código publicado en el Periódico Oficial del Estado de Tamaulipas, el sábado 20 de diciembre de 1986.
 
@@ -1607,7 +1607,7 @@ A los responsables del delito previsto en el artículo anterior se les impondrá
 
 ### CAPITULO V. ATENTADOS A LA SEGURIDAD DE LA COMUNIDAD
 
-> <small>(ADICIONADO, P.O. 3 DE MAYO DE 2011)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE AGOSTO DE 2011)</small>
 
 ###### ARTICULO 156.
 
@@ -1741,21 +1741,37 @@ Se entiende por pandilla, para los efectos de esta disposición, la reunión hab
 
 ###### ARTICULO 171 Quáter.
 
-Comete el delito contra la seguridad de la comunidad y se aplicara una sanción de seis a quince años de prisión y multa de doscientos a cuatrocientos días de salario, a quien sin causa justificada incurra en dos o más de los siguientes supuestos:
+Comete el delito de atentado contra la seguridad de la comunidad y se le aplicará una sanción de siete a quince años de prisión y multa de doscientos a cuatrocientos días de salario, a quien sin causa justificada incurra en dos o más supuestos contenidos en cualquiera de las siguientes fracciones:
+
+> <small>(ADICIONADA, P.O. 3 DE MAYO DE 2011)</small>
 
 I.- Posea o porte en su persona, en el vehículo en el que se encuentre o se le relacione con éste, o en el lugar donde se le capture, uno o varios instrumentos que puedan ser utilizados para agredir, y que no justifique que sea utilizado en actividades laborales o recreativas;
 
+> <small>(ADICIONADA, P.O. 3 DE MAYO DE 2011)</small>
+
 II.- Posea o porte, en su persona, en el vehículo en el que se encuentre o se le relacione con éste, en su domicilio o en el lugar donde se le capture, uno o más aparatos o equipos de comunicación de cualquier tipo, que hubieren sido contratados con documentación propia y verdadera, cuando tenga relación con el artículo 188 Bis, o falsa, o de terceros sin su conocimiento, o utilizados sin la autorización de éstos, o que por su origen, a la autoridad le resulte imposible conocer la identidad real del usuario del aparato o equipo de comunicación;
+
+> <small>(ADICIONADA, P.O. 3 DE MAYO DE 2011)</small>
 
 III.- Posea o porte, en su persona, en el vehículo en el que se encuentre o se le relacione con éste, en su domicilio o en el lugar donde se le capture, uno o varios equipos o artefactos que permitan la intervención, escucha o transmisión de datos con respecto a canales de comunicación oficiales o de comunicaciones privadas;
 
+> <small>(ADICIONADA, P.O. 3 DE MAYO DE 2011)</small>
+
 IV.- Posea o porte, en su persona, en el vehículo en que se encuentre o se le relacione con éste, en su domicilio o en el lugar donde se le capture, una o varias identificaciones alteradas o falsas;
+
+> <small>(ADICIONADA, P.O. 3 DE MAYO DE 2011)</small>
 
 V.- Posea o porte, en su persona, en el vehículo en que se encuentre o se le relacione con éste, en su domicilio o en el lugar donde se le capture, uno o más de los siguientes objetos: prendas de vestir, insignias, distintivos, equipos o condecoraciones correspondientes a instituciones policiales o militares de cualquier índole o que simulen la apariencia de los utilizados por éstas, sin estar facultado para ello;
 
+> <small>(ADICIONADA, P.O. 3 DE MAYO DE 2011)</small>
+
 VI.- Posea o porte, en su persona, en el vehículo en que se encuentre o de cualquier manera se le relacione con éste, en su domicilio o en el lugar donde se le capture, uno o varios escritos o mensajes producidos por cualquier medio que tengan relación con grupos o actividades delictivas; y
 
+> <small>(ADICIONADA, P.O. 3 DE MAYO DE 2011)</small>
+
 VII.- Posea o porte, en el vehículo en que se encuentre o se le relacione con éste, en su domicilio o en el lugar donde se le capture, uno o varios accesorios u objetos que se utilizan en los vehículos oficiales de instituciones policiales, de tránsito, militares de cualquier índole o utilice en aquéllos los colores, insignias, diseño o particularidades para igualar la apariencia de los vehículos oficiales. Igual sanción se impondrá a todos los participantes, cuando dos o más personas incurren en dos o más de los supuestos descritos en este artículo, si no es posible determinar quien posea dichos objetos.
+
+> <small>(ADICIONADO, P.O. 3 DE MAYO DE 2011)</small>
 
 Las penas a las que se refiere el presente artículo, se aumentarán hasta en una mitad de la que corresponda por el delito cometido, cuando para su perpetración se utilice a uno o varios menores de edad; o cuando el responsable sea un servidor público o haya tenido tal carácter dentro de los cinco años anteriores a la comisión de la conducta delictiva.
 
@@ -1887,7 +1903,7 @@ VIII. Tabla: La relación de narcóticos y la orientación de dosis máximas de 
 
 > <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2010)</small>
 
-ARTICULO 204 TER. Comete el delito de narcomenudeo, quien sin autorización comercie o suministre, aun gratuitamente, narcóticos previstos en la tabla, en cantidad inferior a la que resulte de multiplicar por mil el monto de las previstas en dicha tabla.
+ARTICULO 204 TER.- Comete el delito de narcomenudeo, quien sin autorización comercie o suministre, aun gratuitamente, narcóticos previstos en la tabla, en cantidad inferior a la que resulte de multiplicar por mil el monto de las previstas en dicha tabla.
 
 Por la comisión de este delito se impondrá prisión de cuatro a ocho años y sanción pecuniaria de doscientos a cuatrocientos días multa.
 
@@ -1935,11 +1951,13 @@ El Ministerio Público hará reporte del no ejercicio de la acción penal a la a
 
 Al que cometa un delito en contra de un servidor público o agente de la autoridad en el acto de ejercer sus funciones o con motivo de ellas, se le impondrá una sanción de uno a tres años de prisión, además de la que le corresponda por, el o los delitos cometidos.
 
-> <small>(ADICIONADO, P.O. 3 DE MAYO DE 2011)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE AGOSTO DE 2011)</small>
 
 ###### ARTICULO 188 Bis.
 
-Se impondrá sanción de cuatro a diez años de prisión y multa de doscientos a cuatrocientos días salario, a quien aceche, vigile, alerte, informe o realice espionaje, sobre las actividades, operativos, ubicación o, en general, respecto de las labores que realicen los elementos de las fuerzas armadas, o las instituciones de seguridad pública o de persecución y sanción del delito.
+Se impondrá sanción de siete a quince años de prisión y multa de doscientos a cuatrocientos días salario, a quien aceche, vigile, alerte, informe o realice espionaje, sobre las actividades, operativos, ubicación o, en general, respecto de las labores que realicen los elementos de las fuerzas armadas, o las instituciones de seguridad pública o de persecución y sanción del delito.
+
+> <small>(ADICIONADO, P.O. 3 DE MAYO DE 2011)</small>
 
 Las penas a que se refiere el párrafo anterior se aumentarán en una mitad más cuando:
 
@@ -4109,13 +4127,37 @@ II.- El apoderamiento de una cosa mueble por su dueño, si la cosa está en pode
 
 III.- El aprovechamiento de energía eléctrica o de cualquier otro fluido, ejecutado sin consentimiento de la persona que legalmente pueda disponer de él;
 
-> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2011)</small>
 
-IV.- El apoderamiento material de los documentos que contengan datos de computadoras o el aprovechamiento o utilización de dichos datos, sin consentimiento de la persona que legalmente pueda disponer de los mismos; y
+IV.- El apoderamiento material de los documentos que contengan datos de computadoras o el aprovechamiento o utilización de dichos datos, sin consentimiento de la persona que legalmente pueda disponer de los mismos;
 
-> <small>(ADICIONADA, P.O. 24 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2011)</small>
 
-V.- El apoderamiento material de documentos u objetos personales ajenos, con la finalidad de suplantar la identidad del propietario de éstos, o hacer uso de estos o de la información que contienen o acceder a ella por cualquier medio, con la finalidad de obtener un lucro para sí o para otro.
+V.- El apoderamiento material de documentos u objetos personales ajenos, con la finalidad de suplantar la identidad del propietario de éstos, o hacer uso de estos o de la información que contienen o acceder a ella por cualquier medio, con la finalidad de obtener un lucro para sí o para otro;
+
+> <small>(ADICIONADA, P.O. 31 DE AGOSTO DE 2011)</small>
+
+VI.- El desmantelamiento de uno o más vehículos robados, así como la comercialización conjunta o separadamente sus partes;
+
+> <small>(ADICIONADA, P.O. 31 DE AGOSTO DE 2011)</small>
+
+VII.- La enajenación o tráfico de cualquier manera de un vehículo o vehículos robados;
+
+> <small>(ADICIONADA, P.O. 31 DE AGOSTO DE 2011)</small>
+
+VIII.- La tenencia, custodia, alteración o modificación de cualquier manera, de la documentación que acredite la propiedad o los datos de identificación de un vehículo, sin estar facultado para ello;
+
+> <small>(ADICIONADA, P.O. 31 DE AGOSTO DE 2011)</small>
+
+IX.- El traslado de un vehículo o vehículos robados a otra entidad federativa o al extranjero;
+
+> <small>(ADICIONADA, P.O. 31 DE AGOSTO DE 2011)</small>
+
+X.- La utilización del o los vehículos robados en la comisión de otro u otros delitos; ó
+
+> <small>(ADICIONADA, P.O. 31 DE AGOSTO DE 2011)</small>
+
+XI.- La tenencia, posesión o utilización de algún vehículo de fuerza motriz robado, sin acreditar su legal posesión.
 
 ###### ARTICULO 401.
 
@@ -4134,6 +4176,12 @@ III.- Cuando excediere de doscientos días salario, la sanción será de seis a 
 ###### ARTICULO 403.
 
 Para estimar la cuantía del robo se atenderá al valor intrínseco de la cosa robada en el momento de su consumación. Si no fuere estimable en dinero, si por su naturaleza no se puede fijar su valor, o cantidad, o si por cualquier circunstancia no se haya valorizado, se aplicarán de seis meses a cinco años de prisión. Igualmente se atenderá al valor intrínseco de la cosa que se intentó robar en el momento del último acto tendiente a la ejecución; en los casos de tentativa de robo, cuando no se pueda determinar su monto, se aplicarán de seis meses a dos años de prisión.
+
+> <small>(ADICIONADO, P.O. 31 DE AGOSTO DE 2011)</small>
+
+###### ARTICULO 403 Bis.
+
+En los casos de las fracciones VI, VII, VIII, IX, X y XI del artículo 400 de este Código la pena que corresponda se aumentará con tres a doce años de prisión.
 
 ###### ARTICULO 404.
 
@@ -4191,29 +4239,17 @@ X.- Cuando el robo se cometa en una oficina recaudadora u otra en la que se cons
 
 XI.- Cuando se cometa estando la víctima en un vehículo particular o de transporte público.
 
-> <small>(ADICIONADA, P.O. 9 DE JULIO DE 2003)</small>
+XII.- (DEROGADA, P.O. 31 DE AGOSTO DE 2011)
 
-XII.- Cuando se desmantelen uno o más vehículos robados o comercialicen conjunta o separadamente sus partes;
+XIII.- (DEROGADA, P.O. 31 DE AGOSTO DE 2011)
 
-> <small>(ADICIONADA, P.O. 9 DE JULIO DE 2003)</small>
+XIV.- (DEROGADA, P.O. 31 DE AGOSTO DE 2011)
 
-XIII.- Cuando se enajenen o trafiquen de cualquier manera un vehículo o vehículos robados;
+XV. - (DEROGADA, P.O. 31 DE AGOSTO DE 2011)
 
-> <small>(ADICIONADA, P.O. 9 DE JULIO DE 2003)</small>
+XVI.- (DEROGADA, P.O. 31 DE AGOSTO DE 2011)
 
-XIV.- Cuando se altere o modifique de cualquier manera la documentación que acredite la propiedad o los datos de identificación de un vehículo, sin estar facultado para ello;
-
-> <small>(ADICIONADA, P.O. 9 DE JULIO DE 2003)</small>
-
-XV.- Cuando se traslade el o los vehículos robados a otra entidad federativa a al extranjero;
-
-> <small>(ADICIONADA, P.O. 9 DE JULIO DE 2003)</small>
-
-XVI.- Cuando se utilice el o los vehículos robados en la comisión de otro u otros delitos; y (sic)
-
-> <small>(ADICIONADA, P.O. 9 DE JULIO DE 2003)</small>
-
-XVII.- Cuando se posea o utilice algún vehículo de fuerza motriz robado, conociendo tal circunstancia;
+XVII.- (DEROGADA, P.O. 31 DE AGOSTO DE 2011)
 
 > <small>(ADICIONADA, P.O. 9 DE MAYO DE 2007)</small>
 
@@ -5400,6 +5436,12 @@ P.O. 22 DE JUNIO DE 2011.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 31 DE AGOSTO DE 2011.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 ###### ARTICULO OCTAVO
 
