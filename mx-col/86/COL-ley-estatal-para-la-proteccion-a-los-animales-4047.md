@@ -4,7 +4,7 @@ identifier: "COL-ley-estatal-para-la-proteccion-a-los-animales-4047"
 country: "mx"
 rank: "ley"
 publication_date: "1981-12-05"
-last_updated: "1981-12-05"
+last_updated: "2011-08-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4047&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "COL"
 
 LEY ESTATAL PARA LA PROTECCION A LOS ANIMALES
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY PARA LA PROTECCION A LOS ANIMALES DEL ESTADO DE COLIMA, PUBLICADO EN EL P.O. 31 DE AGOSTO DE 2011, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Estado de Colima, el sábado 5 de diciembre de 1981.
 
@@ -288,3 +290,15 @@ Dado en el Recinto del Poder Legislativo a los diez días del mes de Noviembre d
 Por tanto mando se imprima, publique, circule y observe.
 
 Palacio de Gobierno, Colima, Col., 17 de noviembre de 1981 mil novecientos ochenta y uno.- La Gobernadora Const. del Estado, LICDA. GRISELDA ALVAREZ.- Rúbrica.- El Secretario General de Gobierno.- LIC. CARLOS DE LA MADRID VIRGEN.- Rúbrica.
+
+N. DE E.: A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA AL PRESENTE ORDENAMIENTO.
+
+P.O. 31 DE AGOSTO DE 2011.
+
+PRIMERO. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+SEGUNDO.- Se abroga la Ley Estatal para la Protección a los Animales, aprobada el 10 de noviembre de 1981 y publicada en el Periódico Oficial "El Estado de Colima" el sábado 05 de diciembre de 1981, mediante Decreto No. 168, así como las demás disposiciones que se opongan a la presente Ley.
+
+TERCERO.- El Ejecutivo del Estado dispondrá de un plazo máximo de 180 días naturales a partir de la entrada en vigor del presente ordenamiento, a fin de expedir el Reglamento de la presente Ley.
+
+CUARTO.- Los ayuntamientos, de acuerdo a su disponibilidad presupuestal, deberán contar con un centro de control animal en cada uno de sus respectivos Municipios, a más tardar dentro de un año a partir de la entrada en vigor del presente ordenamiento.
