@@ -4,7 +4,7 @@ identifier: "COL-codigo-de-procedimientos-penales-para-el-estado-de-colima-12358
 country: "mx"
 rank: "codigo"
 publication_date: "1997-08-02"
-last_updated: "2011-08-27"
+last_updated: "2011-08-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12358&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "COL"
 ---
 # CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE COLIMA
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 15 DE OCTUBRE DE 2011 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LAS FE DE ERRATAS PUBLICADAS EL 24 DE SEPTIEMBRE DE 2011 Y 15 DE OCTUBRE DE 2011 EN EL P.O. DEL ESTADO DE COLIMA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHAS FECHAS, EN EL INDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
 
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE AGOSTO DE 2011.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE AGOSTO DE 2011.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Colima, el sábado 2 de agosto de 1997.
 
@@ -1324,6 +1324,28 @@ IX. Registro o inscripción en programas estatales de desarrollo personal, socia
 X. La prohibición de realizar conductas de intimidación o molestia a la víctima u ofendido o personas relacionadas con ellos; y
 
 XI. Las demás que determinen las disposiciones legales.
+
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 24 DE SEPTIEMBRE DE 2011 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA, ASÍ COMO EL ARCHIVO ANEXO.</small>
+
+> <small>(ADICIONADO, P.O. 31 DE AGOSTO DE 2011)</small>
+
+ARTÍCULO 158 Bis (sic).- El Ministerio Público autorizará dentro del término de cuarenta y ochos horas, contadas a partir de que la mujer presente la solicitud de la interrupción de embarazo de acuerdo con lo previsto por la fracción II del artículo 190 del Código Penal del Estado de Colima, cuando concurran los siguientes elementos:
+
+I. Que exista denuncia por el delito de violación o de alguna técnica de reproducción asistida indebida;
+
+II. Que la víctima declare la existencia del embarazo;
+
+III. Que se compruebe la existencia del embarazo en cualquier institución del sistema público o privado de salud;
+
+IV. Que el embarazo se encuentre dentro de los tres primeros meses de gestación;
+
+V. Que existan elementos que permitan al Ministerio Público suponer que el embarazo es producto de una violación o de cualquier técnica de reproducción asistida indebida; y
+
+VI. Que exista solicitud de la mujer embarazada.
+
+El Ministerio Público tendrá la obligación de garantizar que se le proporcione a la mujer información imparcial, objetiva, veraz y suficiente sobre la interrupción legal del embarazo, para que la mujer embarazada pueda tomar la decisión de manera libre, informada y responsable. Esta información deberá ser proporcionada de manera inmediata y no deberá tener como objetivo, inducir o retrasar la decisión de la mujer.
+
+En todos los casos las instituciones de salud pública del Estado de Colima deberán, a petición de la interesada, practicar el examen que corresponde la existencia del embarazo, así como su interrupción.
 
 > <small>(F. DE E., P.O. 16 DE AGOSTO DE 1997)</small>
 
@@ -3464,3 +3486,7 @@ P.O. 25 DE JUNIO DE 2011.
 P.O. 27 DE AGOSTO DE 2011.
 
 ÚNICO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 31 DE AGOSTO DE 2011.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
