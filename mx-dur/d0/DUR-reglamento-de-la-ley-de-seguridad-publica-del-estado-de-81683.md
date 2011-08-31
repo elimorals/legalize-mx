@@ -4,7 +4,7 @@ identifier: "DUR-reglamento-de-la-ley-de-seguridad-publica-del-estado-de-81683"
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-05-05"
-last_updated: "2011-05-05"
+last_updated: "2011-08-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81683&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "DUR"
 ---
 # REGLAMENTO DE LA LEY DE SEGURIDAD PUBLICA DEL ESTADO DE DURANGO PARA EL REGISTRO ESTATAL DE VEHICULOS, DEL ESTADO DE DURANGO
 
-REGLAMENTO DE LA LEY DE SEGURIDAD PUBLICA DEL ESTADO DE DURANGO PARA EL REGISTRO ESTATAL DE VEHICULOS
+REGLAMENTO DE LA LEY DE SEGURIDAD PÚBLICA DEL ESTADO DE DURANGO PARA EL REGISTRO ESTATAL DE VEHÍCULOS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE AGOSTO DE 2011.
 
 Reglamento publicado en el Periódico Oficial del Estado de Durango, el jueves 5 de mayo de 2011.
 
@@ -217,7 +217,11 @@ PRIMERO. Publíquese el presente Reglamento en el Periódico Oficial del Gobiern
 
 SEGUNDO. El presente Reglamento entrará en vigor al día siguiente de su publicación.
 
-TERCERO. El Registro Estatal de Vehículos iniciara su operación el 1 de Junio del 2011. Los propietarios, poseedores o tenedores de vehículos que deban registrarse conforme a lo dispuesto en el artículo 7 del presente Reglamento, deberán efectuar el registro en un plazo de tres meses contador (sic) a partir del inicio de operación.
+> <small>[N. DE E. DE CONFORMIDAD CON EL ACUERDO MEDIANTE EL CUAL SE MODIFICA EL REGLAMENTO DE LA LEY DE SEGURIDAD PÚBLICA DEL ESTADO DE DURANGO, PARA EL REGISTRO DE VEHÍCULOS SE AMPLÍA EL PLAZO ESTABLECIDO EN ESTE ARTÍCULO.]</small>
+
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 31 DE AGOSTO DE 2011)</small>
+
+TERCERO. El Registro Estatal de Vehículos iniciara su operación el 1 de Junio del 2011. Los propietarios, poseedores o tenedores de vehículos que deban registrarse conforme a lo dispuesto en el artículo 7 del presente Reglamento, deberán efectuar el registro durante el mes de septiembre del 2011.
 
 CUARTO. Concluido el plazo a que se refiere el anterior artículo, la Policía Estatal y las Direcciones Municipales de Tránsito y Vialidad y de Seguridad Pública, por conducto de sus agentes, aplicaran los procedimientos y las medidas establecidas en las leyes aplicables.
 
@@ -226,3 +230,9 @@ Dado en la Ciudad de Victoria de Durango, Dgo., a los cuatro días del mes de ma
 EL SECRETARIO DE SEGURIDAD PÚBLICA
 
 LIC. JESÚS ANTONIO ROSSO HOLGUIN
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 31 DE AGOSTO DE 2011.
+
+> <small>[N. DE E. EL “ACUERDO.- MEDIANTE EL CUAL SE MODIFICA EL REGLAMENTO DE LA LEY DE SEGURIDAD PÚBLICA DEL ESTADO DE DURANGO, PARA EL REGISTRO ESTATAL DE VEHÍCULOS”, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS ACTUALIZADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3° DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE DURANGO.]</small>
