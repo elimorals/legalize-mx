@@ -4,7 +4,7 @@ identifier: "COL-ley-de-salud-del-estado-de-colima-18943"
 country: "mx"
 rank: "ley"
 publication_date: "2000-12-23"
-last_updated: "2010-11-25"
+last_updated: "2011-08-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18943&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "COL"
 ---
 # LEY DE SALUD DEL ESTADO DE COLIMA
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 24 DE SEPTIEMBRE DE 2011 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 LEY DE SALUD DEL ESTADO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE NOVIEMBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE AGOSTO DE 2011.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Colima, el sábado 23 de diciembre de 2000.
 
@@ -458,6 +460,52 @@ La acción popular podrá ejercitarse por cualquier persona, bastando para darle
 ###### ARTICULO 20.
 
 La Secretaría, con la participación que corresponda al Comité de Planeación para el Desarrollo del Estado de Colima, elaborará el programa respectivo de salud, tomando en cuenta las prioridades y servicios del Sistema.
+
+> <small>(ADICIONADO, P.O. 31 DE AGOSTO DE 2011)</small>
+
+ARTICULO 20 BIS.- Las instituciones públicas de salud del Gobierno del Estado de Colima, gratuitamente y en condiciones de calidad, deberán proceder a la interrupción del embarazo en los supuestos permitidos en el Código Penal para el Estado de Colima, cuando la mujer interesada así lo solicite. Para la cual, dichas instituciones de salud deberán proporcionar, servicios de consejería médica y social con información veraz y oportuna de otras opciones con que cuentan las mujeres además de la interrupción legal del embarazo, tales como la adopción o los programas sociales de apoyo, así como las posibles consecuencias en su salud.
+
+La interrupción del embarazo deberá realizarse en un término de cinco días, contados a partir de que sea emitida la autorización del Ministerio Público, una vez satisfechos los requisitos establecidos en la legislación aplicable.
+
+En los casos de aborto contemplados en las fracciones II, III y IV del artículo 190 del Código Penal para el Estado de Colima, los médicos tendrán la obligación de proporcionar a la mujer embarazada, información objetiva, veraz, suficiente y oportuna sobre los procedimientos, riesgos, consecuencias y efectos; así como de los apoyos y alternativas existentes, para que la mujer embarazada pueda tomar la decisión de manera libre, informada y responsable.
+
+> <small>(ADICIONADO, P.O. 31 DE AGOSTO DE 2011)</small>
+
+ARTICULO 20 BIS 1.- Los prestadores de los servicios de salud a quienes corresponda practicar la interrupción del embarazo en los casos permitidos por el Código Penal para el Estado de Colima, y cuyas creencias religiosas o convicciones personales sean contrarias a tal interrupción, podrán ser objetores de conciencia y por tal razón excusarse de intervenir en la interrupción del embarazo, debiendo referir a la mujer con un médico no objetor.
+
+Será obligación de las instituciones públicas de salud garantizar la oportuna prestación de los servicios y la permanente disponibilidad de personal no objetor de conciencia en la materia.
+
+> <small>(ADICIONADO, P.O. 31 DE AGOSTO DE 2011)</small>
+
+ARTICULO 20 BIS 2.- La atención a la salud sexual, reproductiva y de planificación familiar y anticonceptiva es prioritaria. Los servicios que se presten en la materia constituyen un medio para el ejercicio del derecho de toda persona a decidir de manera libre, responsable e informada sobre el número y espaciamiento de los hijos, con pleno respeto a su dignidad.
+
+El Gobierno promoverá y aplicará permanentemente y de manera intensiva, políticas y programas integrales tendentes a la educación y capacitación sobre salud sexual, derechos reproductivos, así como a la maternidad y paternidad responsables. Los servicios de planificación familiar y anticoncepción que ofrezca, tienen como propósito principal reducir el índice de embarazos no deseados, mediante la prevención, disminuir el riesgo, evitar la propagación de infecciones de transmisión sexual y coadyuvar al pleno ejercicio de los derechos reproductivos con una visión de género, de respeto a la diversidad sexual y de conformidad a las características particulares de los diversos grupos poblacionales, especialmente para niñas y niños, adolescentes y jóvenes.
+
+El Gobierno otorgará servicios de consejería médica y social en materia de la atención a la salud sexual y reproductiva, los cuales funcionarán de manera permanente otorgando servicios gratuitos que ofrecerán información, difusión y orientación en la materia, así como el suministro constante de todos aquellos métodos anticonceptivos cuya eficacia y seguridad estén acreditadas científicamente. También, ofrecerán apoyo médico a la mujer que decida practicarse la interrupción de su embarazo, en los términos de esta Ley y de las disposiciones legales aplicables.
+
+> <small>(ADICIONADO, P.O. 31 DE AGOSTO DE 2011)</small>
+
+ARTICULO 20 BIS 3.- Los servicios de salud sexual y reproductiva, de planificación familiar y anticoncepción comprenden:
+
+I. La promoción de programas educativos en materia de servicios de salud sexual y reproductiva, de planificación familiar y anticoncepción, con base en los contenidos científicos y estrategias que establezcan las autoridades competentes;
+
+II. La atención y vigilancia de los aceptantes y usuarios de servicios de planificación familiar y anticoncepción;
+
+III. La asesoría para la prestación de servicios en materia de salud sexual y reproductiva, planificación familiar y anticoncepción a cargo de los sectores público, social y privado, así como la supervisión y evaluación en su ejecución, de acuerdo con las políticas establecidas por las autoridades competentes y en los términos que las disposiciones normativas lo establezcan;
+
+IV. El apoyo y fomento de la investigación y difusión en materia de anticoncepción, infertilidad humana, planificación familiar y biología de la reproducción humana;
+
+V. El establecimiento y realización de mecanismos idóneos para la adquisición, almacenamiento y distribución de medicamentos y otros insumos destinados a los servicios de atención a la salud sexual y reproductiva, de planificación familiar y anticoncepción;
+
+VI. La aplicación de programas preventivos en materia de salud sexual y reproductiva, incluyendo la aplicación de vacunas contra infecciones de transmisión sexual;
+
+VII. El fomento de la paternidad y la maternidad responsables, la prevención de embarazos no planeados y no deseados;
+
+VIII. La distribución gratuita, por parte de la Secretaría, de condones, a la población demandante, particularmente en los grupos de riesgo;
+
+IX. La realización de campañas intensivas de información y orientación en materia de salud sexual y reproductiva; y
+
+X. La prevención y atención médica integral de las infecciones de transmisión sexual, particularmente el VIH-SIDA.
 
 ### CAPITULO I. DISPOSICIONES COMUNES
 
@@ -1542,3 +1590,7 @@ PRIMERO.- El presente Decreto entrara en vigor al día siguiente de su publicaci
 SEGUNDO.- En un término no mayor de 90 días naturales a partir de la entrada en vigor del presente Decreto, los Ayuntamientos de la entidad, por conducto de sus Cabildos, deberán adecuar sus respectivos Reglamentos para la Venta y Consumo de Bebidas Alcohólicas en los que se regulan los establecimientos destinados a la venta y consumo de alimentos, para efectos de dar cumplimiento a lo establecido en este Decreto.
 
 TERCERO.- Los propietarios, poseedores o titulares de los establecimientos comprendidos en el presente Decreto, tendrán como plazo máximo el 1° de marzo de 2011, para dar debido cumplimiento a las obligaciones contenidas en el mismo.
+
+P.O. 31 DE AGOSTO DE 2011.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
