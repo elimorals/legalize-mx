@@ -4,7 +4,7 @@ identifier: "MOR-reglamento-de-construccion-del-municipio-de-cuernavaca-17724"
 country: "mx"
 rank: "reglamento"
 publication_date: "1999-11-03"
-last_updated: "2010-12-08"
+last_updated: "2011-08-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17724&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "MOR"
 ---
 # REGLAMENTO DE CONSTRUCCION DEL MUNICIPIO DE CUERNAVACA, MORELOS
 
-REGLAMENTO DE CONSTRUCCION DEL MUNICIPIO DE CUERNAVACA, MORELOS
+REGLAMENTO DE CONSTRUCCIÓN DEL MUNICIPIO DE CUERNAVACA, MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE DICIEMBRE DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE AGOSTO DE 2011.
 
 Reglamento publicado en el Periódico Oficial del Estado de Morelos, el miércoles 3 de noviembre de 1999.
 
@@ -455,7 +455,9 @@ c).- Acreditar ante el Comité de Directores Responsables de Obra y Corresponsab
 
 d).- Acreditar un mínimo de tres años de ejercicio profesional en la construcción de obras a las que se refiere el presente Reglamento; y
 
-e).- Acreditar que es miembro activo del Colegio de Arquitectos o de Ingenieros Civiles del Estado de Morelos oficialmente reconocidos como lo marca la Ley de Profesiones;
+> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2011)</small>
+
+e).- Acreditar que es miembro activo de algún Colegio de Arquitectos o de Ingenieros Civiles del Estado de Morelos, oficialmente reconocidos como lo marca la Ley de Profesiones;
 
 II.- Cuando se trate de personas morales:
 
@@ -787,7 +789,7 @@ DE LA NECESIDAD DE LICENCIA DE CONSTRUCCIÓN. Para ejecutar obras e instalacione
 
 Sin excepción, solo se concederán Licencias a los propietarios o poseedores de los inmuebles, cuando cumplan con cada uno de los requisitos señalados en las disposiciones relativas en este Reglamento.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 58.
 
@@ -1691,7 +1693,7 @@ REQUERIMIENTOS DE HABITABILIDAD Y FUNCIONAMIENTO.
 
 DIMENSIONES MÍNIMAS PARA DIFERENTES LOCALES. Los locales de las edificaciones, según su uso, deberán tener como mínimo las dimensiones y características que se establecen en la siguiente tabla:
 
-> <small>N. DE E. VEASE TABLA EN P.O. DE 3 DE NOVIEMBRE DE 1999, PAGINAS DE LA 27 A LA 28.</small>
+> <small>N. DE E. VÉASE TABLA EN P.O. DE 3 DE NOVIEMBRE DE 1999, PAGINAS DE LA 27 A LA 28.</small>
 
 OBSERVACIONES:
 
@@ -1849,7 +1851,7 @@ III.- Los locales de trabajo y comercio con superficie hasta de 120 metros cuadr
 
 IV.- En los demás casos se proveerán los muebles que se enumeran en la siguiente tabla:
 
-> <small>N. DE E. VEASE TABLA EN P.O. DE 3 DE NOVIEMBRE DE 1999, PAGINAS DE LA 30 A LA 32.</small>
+> <small>N. DE E. VÉASE TABLA EN P.O. DE 3 DE NOVIEMBRE DE 1999, PAGINAS DE LA 30 A LA 32.</small>
 
 En edificaciones de comercio, los sanitarios se proporcionarán para empleados y público en partes iguales, dividiendo entre dos las cantidades indicadas.
 
@@ -4509,7 +4511,7 @@ Secretario del H. Ayuntamiento.
 
 Rúbricas.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 12 DE SEPTIEMBRE DE 2001.
 
@@ -4522,3 +4524,11 @@ P.O. 8 DE DICIEMBRE DE 2010.
 PRIMERO.- La presente Reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial Tierra y Libertad del Estado de Morelos y en la Gaceta Municipal.
 
 SEGUNDO.- Se autoriza al Presidente Municipal para que instruya a las dependencias correspondientes para que den efectivo cumplimiento a la presente reforma.
+
+P.O. 31 DE AGOSTO DE 2011.
+
+PRIMERO.- La presente reforma entrará en vigor el día de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos.
+
+###### ARTÍCULO SEGUNDO.
+
+Publíquese en la Gaceta Municipal.
