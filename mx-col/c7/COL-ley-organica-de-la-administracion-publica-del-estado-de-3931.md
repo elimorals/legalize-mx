@@ -4,7 +4,7 @@ identifier: "COL-ley-organica-de-la-administracion-publica-del-estado-de-3931"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1985-11-16"
-last_updated: "2011-04-01"
+last_updated: "2011-08-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3931&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE ABRIL DE 2011.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE AGOSTO DE 2011.
 
 Ley publicada en el Periódico Oficial del Estado de Colima, el sábado 16 de noviembre de 1985.
 
@@ -81,9 +81,11 @@ Para los casos que determine el gobernador, los titulares de las dependencias y 
 
 Las Secretarías ejercerán las funciones de coordinadoras de sector de las entidades paraestatales que por acuerdo del Gobernador les correspondan.
 
+> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2011)</small>
+
 ###### ARTICULO 9o.
 
-Al frente de cada Secretaría habrá un Secretario, que será nombrado y removido libremente por el Gobernador y que para el despacho de los asuntos de su competencia se auxiliará de Directores, Subdirectores, Jefes de Departamento, de Oficina, de Sección y de Mesa y por los demás servidores públicos que requiera el desempeño de sus funciones, de acuerdo con lo que establezca el reglamento interior respectivo.
+Al frente de cada Secretaría habrá un Secretario, que será nombrado y removido libremente por el Gobernador y que para el despacho de los asuntos de su competencia se auxiliará de Directores Generales, Directores, Subdirectores, Jefes de Departamento, de Oficina, de Sección y de Mesa y por los demás servidores públicos que requiera el desempeño de sus funciones, de acuerdo con lo que establezca el reglamento interior respectivo.
 
 > <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2003)</small>
 
@@ -137,7 +139,9 @@ Para el estudio, planeación y despacho de los negocios del orden administrativo
 
 I. SECRETARÍA GENERAL DE GOBIERNO;
 
-II. SECRETARÍA DE FINANZAS;
+> <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2011)</small>
+
+II. SECRETARÍA DE FINANZAS Y ADMINISTRACIÓN;
 
 III. SECRETARÍA DE DESARROLLO SOCIAL;
 
@@ -157,7 +161,9 @@ X. SECRETARÍA DE CULTURA;
 
 XI. SECRETARÍA DE TURISMO;
 
-XII. SECRETARÍA DE ADMINISTRACIÓN;
+> <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2011)</small>
+
+XII. SECRETARÍA DE SEGURIDAD PÚBLICA;
 
 XIII. SECRETARÍA DE LA JUVENTUD;
 
@@ -181,7 +187,7 @@ V.- Publicar las leyes, reglamentos, decretos y acuerdos que regirán en el Esta
 
 VI.- Vigilar el cumplimiento de los preceptos constitucionales por parte de las autoridades del Estado.
 
-VII.- Auxiliar al Gobernador en la conservación del orden, tranquilidad y seguridad del Estado.
+VII.- (DEROGADA, P.O. 31 DE AGOSTO DE 2011)
 
 VIII.- Tramitar, por acuerdo expreso del Gobernador, lo relativo al ejercicio de las facultades que otorgan al Ejecutivo las fracciones VIII, IX, X, XI, XIV, XV, XXIII y XXVII del artículo 58 de la Constitución Política del Estado.
 
@@ -191,9 +197,11 @@ X.- Registrar y ejercer, por acuerdo del Gobernador, el derecho de expropiación
 
 XI.- Vigilar y controlar lo relativo a la delimitación territorial del Estado y sus municipios.
 
-XII.- Organizar, controlar y supervisar a las policías preventiva y de tránsito del Estado, cuyos titulares estarán bajo su autoridad y mando directo.
+> <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2011)</small>
 
-XIII.- Organizar la prevención social contra la delincuencia a través de las unidades especializadas y de programas de readaptación.
+XII.- Organizar, controlar y supervisar a los cuerpos de transporte del Estado, cuyo titular estará bajo su autoridad y mando directo.
+
+XIII.- (DEROGADA, P.O. 31 DE AGOSTO DE 2011)
 
 XIV.- Intervenir en auxilio o en coordinación con las autoridades federales en los términos de las leyes relativas en materia de cultos religiosos, explosivos, loterías, rifas y juegos permitidos, migración, prevención y combate de catástrofes públicas.
 
@@ -215,63 +223,109 @@ XXI.- Despachar los asuntos que en el área de su competencia, le encomiende el 
 
 XXII.- Refrendar las leyes, reglamentos y decretos del Ejecutivo.
 
-XXIII.- Los demás que le atribuyan las leyes y reglamentos vigentes siempre que esta Ley no los señale como exclusivos de otra dependencia.
+> <small>(ADICIONADA, P.O. 31 DE AGOSTO DE 2011)</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE DICIEMBRE DE 1991)</small>
+XXIII.- Coordinar al gabinete de seguridad pública del Estado, que se establece en la Ley del Sistema de Seguridad Pública para el Estado de Colima.
+
+> <small>(ADICIONADA, P.O. 31 DE AGOSTO DE 2011)</small>
+
+XXIV.- Coordinar el análisis, investigación y desarrollo sociopolítico del Estado, recopilando y conformando el sistema de información correspondiente, así como fomentar e impulsar la participación ciudadana en los asuntos públicos de la entidad y sus municipios.
+
+> <small>(ADICIONADA, P.O. 31 DE AGOSTO DE 2011)</small>
+
+XXV.- Coordinar el Sistema Estatal de Protección Civil.
+
+XXVI.- Los demás que le atribuyan las leyes y reglamentos vigentes siempre que esta Ley no los señale como exclusivos de otra dependencia.
+
+> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2011)</small>
 
 ###### ARTICULO 21o.
 
-A la Secretaría de Finanzas, corresponde, además de las facultades y obligaciones que le confiere la Constitución Política del Estado y demás leyes relativas, el despacho de los siguientes asuntos:
+A la Secretaría de Finanzas y Administración corresponde, además de las facultades y obligaciones que le confiere la Constitución Política del Estado y demás Leyes relativas, el despacho de los siguientes asuntos:
 
-I.- Aplicar y vigilar el cumplimiento de las disposiciones legales relativas a las ramas de su competencia.
+A) En materia de Finanzas:
 
-II.- Elaborar y proponer al Titular del Ejecutivo los proyectos de Leyes, Reglamentos y otras disposiciones que se requieran para el manejo de los asuntos fiscales, financieros, programáticos y presupuestales del Estado.
+I. Aplicar y vigilar el cumplimiento de las disposiciones legales relativas a las ramas de su competencia;
 
-III.- Proyectar y calcular los ingresos del Estado, considerando las necesidades del gasto público, la utilización razonable de créditos y la sanidad financiera de la Administración Pública Estatal.
+II. Elaborar y proponer al titular del Ejecutivo los proyectos de Leyes, Reglamentos y otras disposiciones que se requieran para el manejo de los asuntos fiscales, financieros, programáticos y presupuestales del Estado;
 
-IV.- Proyectar y calcular los egresos de las dependencias y entidades de la Administración Pública Estatal, atendiendo sus requerimientos, haciéndolos compatibles con la disponibilidad de recursos previstos para el respectivo ejercicio fiscal, y en atención a las necesidades y políticas del desarrollo del Estado.
+III. Proyectar y calcular los ingresos del Estado, considerando las necesidades del gasto público, la utilización razonable de créditos y la sanidad financiera de la Administración Pública Estatal;
 
-V.- Presentar anualmente al Ejecutivo el proyecto de Ley de Ingresos y el Presupuesto de Egresos del Estado.
+IV. Proyectar y calcular los egresos de las dependencias y entidades de la Administración Pública Estatal, atendiendo sus requerimientos, haciéndolos compatibles con la disponibilidad de recursos previstos para el respectivo ejercicio fiscal, y en atención a las necesidades y políticas del desarrollo del Estado;
 
-> <small>(REFORMADA, P.O. 24 DE ENERO DE 1998)</small>
+V. Presentar anualmente al Ejecutivo el proyecto de Ley de Ingresos y el Presupuesto de Egresos del Estado;
 
-VI.- Ejercer las facultades en materia de registro, recaudación, comprobación, determinación y cobranza de los impuestos, derechos, derechos de cooperación y contribuciones de mejoras, productos y aprovechamientos, que correspondan al Estado; así como de las contribuciones, sus accesorios y demás ingresos federales y municipales, en los términos de los convenios de coordinación y colaboración celebrados.
+VI. Ejercer las facultades en materia de registro, recaudación, comprobación, determinación y cobranza de los impuestos, derechos, derechos de cooperación y contribuciones de mejoras, productos y aprovechamientos, que correspondan al Estado; así como de las contribuciones, sus accesorios y demás ingresos federales y municipales, en los términos de los convenios de coordinación y colaboración celebrados;
 
-> <small>(REFORMADA, P.O. 24 DE ENERO DE 1998)</small>
+VII. Ejercer las atribuciones que en materia fiscal confieren al Estado los Convenios de Coordinación y de Colaboración Administrativa celebrados con los Gobiernos Federal y de los Municipios;
 
-VII.- Ejercer las atribuciones que en materia fiscal confieren al Estado los Convenios de Coordinación y de Colaboración Administrativa celebrados con los Gobiernos Federal y de los Municipios.
+Las atribuciones previstas en ésta y la fracción anterior, serán ejercidas por el Titular de la Secretaría de Finanzas y Administración o por las unidades administrativas dependientes de ésta, en los términos del Reglamento Interior de la propia Secretaría;
 
-Las atribuciones previstas en ésta y la fracción anterior, serán ejercidas por el Titular de la Secretaría de Finanzas o por las unidades administrativas dependientes de ésta, en los términos del Reglamento Interior de la propia Secretaría.
+VIII. Realizar una labor permanente de difusión, orientación y asesoría en materia fiscal, así como custodiar los fondos y valores del Estado;
 
-VIII.- Realizar una labor permanente de difusión, orientación y asesoría en materia fiscal; administrar el Catastro de la Entidad y custodiar los fondos y valores del Estado.
+IX. Practicar auditorías e inspecciones a los contribuyentes; ejercer la facultad económico coactiva conforme a las Leyes relativas; intervenir en los juicios de carácter fiscal que se ventilen ante cualquier tribunal cuando tenga interés la Hacienda Pública del Estado; y tramitar y resolver los recursos administrativos en la esfera de su competencia;
 
-IX.- Practicar auditorías e inspecciones a los contribuyentes; ejercer la facultad económico coactiva conforme a las Leyes relativas; intervenir en los juicios de carácter fiscal que se ventilen ante cualquier tribunal cuando tenga interés la Hacienda Pública del Estado; y tramitar y resolver los recursos administrativos en la esfera de su competencia.
+X. Tramitar, por acuerdo expreso del Gobernador, lo relativo al ejercicio de las facultades que otorgan al Ejecutivo las fracciones XVI, XVII y XXXVII del Artículo 58 de la Constitución Política del Estado;
 
-X.- Tramitar, por acuerdo expreso del Gobernador, lo relativo al ejercicio de las facultades que otorgan al Ejecutivo las fracciones XVI, XVII y XXXVII del Artículo 58 de la Constitución Política del Estado.
+XI. Formular, proponer y aplicar el Sistema Estatal de Política Financiera;
 
-XI.- Formular, proponer y aplicar el Sistema Estatal de Política Financiera.
+XII. Programar e intervenir en todas las operaciones en que el Gobierno otorgue u obtenga créditos; registrar, controlar e informar periódicamente al Gobernador sobre el comportamiento de la deuda pública y sus amortizaciones e intereses; así como participar en el otorgamiento de garantías a cargo del Gobierno del Estado y en aquellos actos que comprometan la Hacienda Pública Estatal;
 
-XII.- Programar e intervenir en todas las operaciones en que el Gobierno otorgue u obtenga créditos; registrar, controlar e informar periódicamente al Gobernador sobre el comportamiento de la deuda pública y sus amortizaciones e intereses; así como participar en el otorgamiento de garantías a cargo del Gobierno del Estado y en aquellos actos que comprometan la Hacienda Pública Estatal.
+XIII. Diseñar, implantar y actualizar el sistema de programación del gasto público, de acuerdo con los objetivos y necesidades de la Administración Pública del Estado, normando y asesorando a las dependencias y entidades en la integración de sus programas específicos;
 
-XIII.- Diseñar, implantar y actualizar el sistema de programación del gasto público, de acuerdo con los objetivos y necesidades de la Administración Pública del Estado, normando y asesorando a las dependencias y entidades en la integración de sus programas específicos.
+XIV. Formular el Programa General del Gasto Público del Estado y presentarlo a la consideración del Gobernador;
 
-XIV.- Formular el Programa General del Gasto Público del Estado y presentarlo a la consideración del Gobernador.
+XV. Autorizar y registrar el ejercicio del Presupuesto de Egresos aprobado por el Congreso del Estado;
 
-XV.- Autorizar y registrar el ejercicio del Presupuesto de Egresos aprobado por el Congreso del Estado.
+XVI. Realizar el seguimiento de los avances financieros de los programas de inversión y gasto corriente del Gobierno del Estado;
 
-XVI.- Realizar el seguimiento de los avances financieros de los programas de inversión y gasto corriente del Gobierno del Estado.
+XVII. Intervenir en el otorgamiento de los subsidios que conceda el Gobierno del Estado;
 
-XVII.- Intervenir en el otorgamiento de los subsidios que conceda el Gobierno del Estado.
+XVIII. Efectuar los pagos conforme a los programas y presupuestos aprobados; operar los sistemas automatizados en materia fiscal, financiera y presupuestal; procesar la nómina de los servidores públicos del Estado; establecer y llevar los sistemas de contabilidad gubernamental; formular periódicamente los estados financieros; elaborar la Cuenta Pública y mantener las relaciones con el Órgano Superior de Auditoría y Fiscalización Gubernamental del Estado;
 
-> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2003)</small>
+XIX. Despachar los asuntos que en el área de su competencia, le encomiende el titular del Poder Ejecutivo;
 
-XVIII.- Efectuar los pagos conforme a los programas y presupuestos aprobados; operar los sistemas automatizados en materia fiscal, financiera y presupuestal; procesar la nómina de los servidores públicos del Estado; establecer y llevar los sistemas de contabilidad gubernamental; formular periódicamente los estados financieros; elaborar la Cuenta Pública y mantener las relaciones con la Contaduría Mayor de Hacienda del Congreso del Estado.
+XX. Refrendar las Leyes, Reglamentos y Decretos del Ejecutivo Estatal que le correspondan; y
 
-XIX.- Despachar los asuntos que en el área de su competencia, le encomiende el titular del Poder Ejecutivo.
+XXI. Los demás que le atribuyan las leyes y reglamentos vigentes, siempre que esta Ley no los señale como exclusivos de otra dependencia.
 
-XX.- Refrendar las Leyes, Reglamentos y Decretos del Ejecutivo Estatal que le correspondan.
+B) En materia de Administración:
 
-XXI.- Los demás que le atribuyan las leyes y reglamentos vigentes, siempre que esta Ley no los señale como exclusivos de otra dependencia.
+I. Proporcionar a las dependencias del Poder Ejecutivo los elementos humanos, materiales, técnicos y de servicio que requieran para cumplir con las atribuciones establecidas en la presente Ley;
+
+II. Establecer políticas, normas y lineamientos en materia de administración, remuneraciones y desarrollo del personal, así como tramitar los nombramientos, remociones, licencias, renuncias y cualquier otra incidencia que modifique la relación jurídico-laboral entre el Estado y sus servidores públicos, incluyendo el control y elaboración de la nómina del personal del Gobierno del Estado;
+
+III. Adquirir o contratar los bienes y servicios que se requieran para el adecuado funcionamiento del Ejecutivo Estatal y sus dependencias, así como proveerlas oportunamente de los mismos;
+
+IV. Administrar, organizar y controlar los sistemas de transportes, intendencia, almacenes, archivo y correspondencia, impresión y fotocopiado, conservación y mantenimiento y, en general, aquellos que se requieran para el adecuado funcionamiento de las áreas sustantivas del gobierno estatal;
+
+V. Someter a la aprobación del titular del Ejecutivo los programas de mejoramiento y reorganización administrativa y la creación, supresión o modificación que requieran las dependencias, así como formular y revisar los manuales de organización, procedimientos y de servicios al público y asesorar a las áreas en la formulación de sus anteproyectos de reglamentos interiores;
+
+VI. Coordinar el desarrollo organizacional de las dependencias utilizando las metodologías y herramientas más actualizadas, con el fin de hacer eficiente su funcionamiento interno y elevar la calidad en los servicios y la atención que proporcionan a la ciudadanía;
+
+VII. Elaborar el programa anual de compras y contratación de servicios en coordinación con las dependencias del Poder Ejecutivo, observando las disposiciones establecidas en la ley de la materia;
+
+VIII. Administrar, asegurar, conservar e inventariar el patrimonio del Gobierno del Estado, aplicando sistemas electrónicos que garanticen su adecuado control y actualización permanente;
+
+IX. Supervisar y coordinar con las áreas responsables, los eventos especiales en que el Ejecutivo Estatal participe a efecto de proporcionar todos los elementos necesarios para el adecuado desarrollo de los mismos;
+
+X. Vigilar el cumplimiento de las disposiciones legales que rigen las relaciones de trabajo entre el gobierno y sus servidores públicos y, en su caso, aplicar las sanciones correspondientes;
+
+XI. Coordinar la profesionalización y capacitación de los servidores públicos en las dependencias y organismos del Poder Ejecutivo del Estado;
+
+XII. Establecer políticas para el desarrollo permanente del gobierno electrónico, con la incorporación sistemática de las tecnologías de la información y comunicación en los procesos administrativos y de servicios del gobierno estatal;
+
+XIII. Establecer mecanismos de coordinación de las unidades administrativas del resto de la administración pública estatal;
+
+XIV. Coordinar la organización y funcionamiento de la Oficina de la Representación del Estado en la Ciudad de México;
+
+XV. Coordinar el mantenimiento y conservación de los edificios propiedad del Gobierno del Estado;
+
+XVI. Despachar los asuntos que en el área de su competencia le encomiende el titular del Poder Ejecutivo;
+
+XVII. Refrendar las leyes, reglamentos y decretos del Ejecutivo Estatal que le corresponda; y
+
+XVIII. Las demás que le atribuyan las leyes y reglamentos vigentes siempre que esta Ley no los señale como exclusivos de otra dependencia.
 
 > <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2003)</small>
 
@@ -857,67 +911,61 @@ XXXVII. Imponer las sanciones establecidas en el TITULO DIECISÉIS de la Ley Fed
 
 XXXVIII. Las demás que le atribuyan expresamente las leyes y reglamentos, así como las que directamente le asigne o delegue el Titular del Ejecutivo del Estado.
 
-> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2003)</small>
+> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2011)</small>
 
-###### ARTICULO 25o.
+###### ARTICULO 25.
 
-A la Secretaría de Administración corresponde el despacho de los siguientes asuntos:
+A la Secretaría de Seguridad Pública corresponde el despacho de los siguientes asuntos:
 
-I.- Proporcionar a las dependencias del Poder Ejecutivo los elementos humanos, materiales, técnicos y de servicio que requieran para cumplir con las atribuciones establecidas en la presente Ley.
+I. Desarrollar y aplicar las políticas de seguridad pública y proponer la política criminal en el ámbito estatal, que comprenda las normas, instrumentos y acciones para prevenir de manera eficaz la comisión de delitos.
 
-II.- Establecer políticas, normas y lineamientos en materia de administración, remuneraciones y desarrollo del personal así como tramitar los nombramientos, remociones, licencias, renuncias y cualquier otra incidencia que modifique la relación jurídico-laboral entre el Estado y sus servidores públicos, incluyendo el control y elaboración de la nómina del personal del Gobierno del Estado.
+II. Organizar, dirigir, administrar y supervisar la Policía Estatal Preventiva y el nuevo modelo policial, así como garantizar el desempeño honesto de su personal y aplicar su régimen disciplinario.
 
-III.- Adquirir o contratar los bienes y servicios que se requieran para el adecuado funcionamiento del Ejecutivo Estatal y sus dependencias, así como proveerlas oportunamente de los mismos.
+III. Salvaguardar la integridad y el patrimonio de las personas, prevenir la comisión de delitos del fuero común, así como preservar la libertad, el orden, la tranquilidad y la paz públicos.
 
-IV.- Administrar, organizar y controlar los sistemas de transportes, intendencia, almacenes, archivo y correspondencia, impresión y fotocopiado, conservación y mantenimiento y, en general, aquellos que se requieran para el adecuado funcionamiento de las áreas sustantivas del gobierno estatal.
+IV. Organizar, dirigir y administrar el servicio profesional de carrera policial del personal a su cargo.
 
-V.- Someter a la aprobación del titular del Ejecutivo los programas de mejoramiento y reorganización administrativa y la creación, supresión o modificación que requieran las dependencias, así como formular y revisar los manuales de organización, procedimientos y de servicios al público y asesorar a las áreas en la formulación de sus anteproyectos de reglamentos interiores.
+V. Organizar y administrar el sistema estatal penitenciario; así como organizar y dirigir las actividades de apoyo a liberados.
 
-VI.- Coordinar el desarrollo organizacional de las dependencias utilizando las metodologías y herramientas más actualizadas, con el fin de hacer eficiente su funcionamiento interno y elevar la calidad en los servicios y la atención que proporcionan a la ciudadanía.
+VI. Coordinar las unidades de inteligencia, análisis táctico, así como las operaciones de los sistemas de emergencia, denuncia anónima y videovigilancia del Estado.
 
-VII.- Elaborar el programa anual de compras y contratación de servicios en coordinación con las dependencias del Poder Ejecutivo, observando las disposiciones establecidas en la ley de la materia.
+VII. Proponer al Ejecutivo Estatal las medidas que garanticen la congruencia de la política criminal entre las dependencias de la administración pública estatal.
 
-VIII.- Administrar, asegurar, conservar e inventariar el patrimonio del Gobierno del Estado, aplicando sistemas electrónicos que garanticen su adecuado control y actualización permanente.
+VIII. Formar parte del Consejo Estatal de Seguridad Pública.
 
-IX.- Supervisar y coordinar con las áreas responsables, los eventos especiales en que el Ejecutivo Estatal participe a efecto de proporcionar todos los elementos necesarios para el adecuado desarrollo de los mismos.
+IX. Proponer en el seno del Consejo Estatal de Seguridad Pública, políticas, acciones y estrategias de coordinación en materia de prevención del delito y política criminal en el Estado.
 
-X.- Vigilar el cumplimiento de las disposiciones legales que rigen las relaciones de trabajo entre el gobierno y sus servidores públicos y, en su caso, aplicar las sanciones correspondientes.
+X. Fomentar la participación ciudadana en la formulación de planes y programas de prevención en materia de delitos del orden común.
 
-XI.- Coordinar la profesionalización y capacitación de los servidores públicos mediante la implementación del Servicio Civil de Carrera en las dependencias y organismos del Poder Ejecutivo del Estado.
+XI. Promover y facilitar la participación social en materia de prevención del delito.
 
-XII.- Establecer políticas para el desarrollo permanente del gobierno electrónico con la incorporación sistemática de las tecnologías de la información y comunicación en los procesos administrativos y de servicios del gobierno estatal.
+XII. Atender de manera expedita las denuncias y quejas ciudadanas con relación al ejercicio de sus atribuciones.
 
-XIII.- Normar y coordinar la innovación para el desarrollo administrativo de las dependencias del Poder Ejecutivo.
+XIII. Proponer al Gobernador el nombramiento de los titulares de las Direcciones Generales y de área necesarias para su funcionamiento.
 
-XIV.- Coadyuvar en la innovación administrativa de los Poderes Legislativo y Judicial del Estado así como de los Ayuntamientos, cuando así lo soliciten, observando para tal fin el respeto irrestricto a su autonomía.
+XIV. Establecer un sistema destinado a obtener, analizar, estudiar y procesar información para la prevención de delitos, mediante métodos que garanticen el estricto respeto a los derechos humanos.
 
-XV.- Establecer políticas y estrategias en materia de desarrollo telemático y de aplicación de las nuevas tecnologías de información y comunicación en la administración pública estatal.
+XV. Elaborar y difundir estudios multidisciplinarios y estadísticas sobre el fenómeno delictivo.
 
-XVI.- Coordinar la organización y funcionamiento de la Oficina de la Representación del Estado en la Ciudad de México.
+XVI. Efectuar, en coordinación con la Procuraduría General de Justicia del Estado y las policías municipales, estudios sobre los actos delictivos no denunciados e incorporar esta variable en el diseño de las políticas en materia de prevención del delito.
 
-XVII.- Coordinar al acceso a la información pública de las dependencias del Poder Ejecutivo que para tal efecto se establece en la Ley de Transparencia y Acceso a la Información Pública del Estado.
+XVII. Organizar, dirigir y administrar un servicio para la atención a las víctimas del delito y celebrar acuerdos de colaboración con otras instituciones del sector público y privado para el mejor cumplimiento de esta atribución.
 
-XVIII.- Diseñar estrategias y acciones que permitan el acceso de las personas a las tecnologías de la información y comunicación, incorporando a la población estatal a la sociedad de la información.
+XVIII. Regular y autorizar la portación de armas para empleados estatales y municipales, para lo cual se coordinará con la Secretaría de la Defensa Nacional.
 
-XIX.- Planear, organizar y coordinar el sistema de evaluación y control gubernamental para el desarrollo de la administración pública estatal.
+XIX. Otorgar las autorizaciones a empresas que presten servicios privados de seguridad, así como supervisar su funcionamiento.
 
-XX.- Recibir y registrar las declaraciones patrimoniales que deben presentar los servidores de la Administración Pública Estatal; así como verificar y practicar las investigaciones que fueren pertinentes de acuerdo a la legislación y reglamentación de la materia.
+XX. Promover y celebrar convenios de colaboración, en el ámbito de su competencia, con autoridades federales, municipales y del Distrito Federal, así como establecer acuerdos de colaboración con instituciones similares.
 
-XXI.- Coordinar el programa de contraloría social, orientado a promover y organizar la participación ciudadana en la planeación y evaluación de la administración pública estatal.
+XXI. Colaborar, cuando así lo soliciten otras autoridades federales, estatales, municipales o del Distrito Federal competentes, en la protección de la integridad física de las personas y en la preservación de sus bienes, en situaciones de peligro cuando se vean amenazadas por disturbios u otras situaciones que impliquen violencia o riesgo inminente.
 
-XXII.- Evaluar sistemáticamente el funcionamiento y resultado de la administración pública e implementar sistemas de mejora continua tendientes a elevar la calidad de los servicios de gobierno.
+XXII. Auxiliar al Poder Judicial del Estado, a la Procuraduría General de Justicia del Estado y a los ayuntamientos, cuando así lo requieran, para el debido ejercicio de sus funciones.
 
-XXIII.- Expedir y vigilar que se cumplan las normas que regulen el funcionamiento de los órganos, instrumentos y procedimientos de control de la administración pública estatal en relación con bienes, servicios y obra pública, esta última en coordinación con la Secretaría de Desarrollo Urbano.
+XXIII. Administrar el Instituto para el Tratamiento de Menores Infractores, en términos de la política especial correspondiente y con estricto apego a los derechos humanos.
 
-XXIV.- Coordinar el mantenimiento y conservación de los edificios propiedad del Gobierno del Estado.
+XXIV. Coordinar junto con las policías municipales acciones conjuntas y colaborar en el diseño de sus planes operativos.
 
-XXV.- Normar y coordinar el proceso de entrega-recepción al término del periodo constitucional del Poder Ejecutivo Estatal, así como en los casos de sustitución de titulares de las dependencias y áreas de trabajo.
-
-XXVI.- Despachar los asuntos que en el área de su competencia le encomiende el titular del Poder Ejecutivo.
-
-XXVII.- Refrendar las leyes, reglamentos y decretos del Ejecutivo Estatal que le corresponda, y
-
-XXVIII.- Las demás que le atribuyan las leyes y reglamentos vigentes siempre que esta Ley no los señale como exclusivos de otra dependencia.
+XXV. Las demás que expresamente le confieran esta Ley y otros ordenamientos aplicables.
 
 > <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2003)</small>
 
@@ -1122,3 +1170,41 @@ OCTAVO.- La Secretaría del Trabajo y Previsión Social del Estado de Colima, in
 NOVENO.- El personal que actualmente labora para la Dirección del Trabajo, las Juntas Locales de Conciliación y Arbitraje, las Procuradurías de la Defensa del Trabajo, la Coordinación de Inspección del Trabajo y la Dirección de Empleo en operación del Servicio Nacional de Empleo Colima, se transferirán a la Secretaría del Trabajo y Previsión Social del Estado de Colima, respetando todos sus derechos laborales. Asimismo, los recursos materiales y financieros asignados a las citadas direcciones y demás órganos, se transferirán a la Secretaría de referencia, en un plazo no mayor de 90 días a partir de la publicación del presente Decreto, con la intervención que las leyes otorgan en ese proceso a las distintas dependencias de la Administración Pública Estatal.
 
 DÉCIMO.- Se autoriza la creación de los puestos administrativos referentes al Secretario del Despacho, Secretario Particular, Coordinador General Administrativo, Director de Informática y de Sistemas y el de Director Jurídico.
+
+P.O. 31 DE AGOSTO DE 2011.
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente de su publicación, en el Periódico Oficial "El Estado de Colima".
+
+SEGUNDO.- Se derogan todas las disposiciones jurídicas que se opongan al presente Decreto.
+
+TERCERO.- El titular del Ejecutivo del Estado deberá expedir el Reglamento Interior de la Secretaría de Seguridad Pública, en un plazo no mayor de noventa días naturales, contados a partir de la entrada en vigor del presente Decreto, entre tanto, seguirán vigentes los reglamentos y demás disposiciones aplicables, en lo que no se opongan al mismo.
+
+CUARTO.- Las menciones contenidas en otras leyes, reglamentos, decretos y, en general, en cualquier disposición, respecto de las atribuciones y funciones a cargo de la Secretaría General de Gobierno en materia de seguridad pública y de la Dirección General de la Policía Estatal Preventiva, se entenderán referidas a la Secretaría de Seguridad Pública que se crea por virtud de este Decreto, y a la cual se han transferido, hasta en tanto se realicen las reformas correspondientes.
+
+Asimismo, los derechos y obligaciones establecidos en contratos, convenios o acuerdos celebrados por la Secretaría General de Gobierno en materia de seguridad pública y de la Dirección General de la Policía Estatal Preventiva, con dependencias o entidades del gobierno del Estado, con dependencias y entidades de la Federación y de los municipios, y con cualquier persona física o moral, se entenderán referidas a la Secretaría de Seguridad Pública a partir de la entrada en vigor de este Decreto.
+
+QUINTO.- Las transferencias de recursos materiales, activos patrimoniales, humanos y financieros que en cumplimiento de este Decreto deban realizarse de la Secretaría General de Gobierno, la Dirección General de la Policía Estatal Preventiva y demás dependencias a la Secretaría de Seguridad Pública, incluirán las adecuaciones presupuestarias que comprenden las modificaciones a la estructura programática y financiera, así como a los calendarios financieros y de metas.
+
+SEXTO.- Los derechos laborales y antigüedad del personal administrativo que actualmente laboran para la Secretaría General de Gobierno, la Dirección General de la Policía Estatal Preventiva y demás dependencias, que en virtud de lo dispuesto en el presente Decreto se integren a la Secretaría de Seguridad Pública, se respetarán conforme a la ley.
+
+Los derechos de los servidores de los cuerpos policiales, se seguirán rigiendo conforme a las disposiciones legales aplicables.
+
+SÉPTIMO.- Los asuntos que se venían conociendo y tramitando ante la Secretaría General de Gobierno, la Dirección General de la Policía Estatal Preventiva y demás dependencias, continuarán su trámite hasta su total conclusión con base a la normatividad vigente en el momento en que se iniciaron.
+
+OCTAVO.- Se autoriza la reestructuración de las plazas indispensables para el funcionamiento y operatividad de la Secretaría de Seguridad Pública que se crea.
+
+NOVENO.- El titular del Ejecutivo del Estado deberá expedir el Reglamento Interior de la Secretaría de Finanzas y Administración, en un plazo no mayor de noventa días naturales, contados a partir de la entrada en vigor del presente Decreto, entre tanto, seguirán vigentes los reglamentos y demás disposiciones aplicables, en lo que no se opongan al mismo.
+
+DÉCIMO.- Las menciones contenidas en otras leyes, reglamentos, decretos y, en general, en cualquier disposición, respecto de las atribuciones y funciones a cargo de las Secretarías de Finanzas y de Administración, se entenderán referidas a la Secretaría de Finanzas y Administración que se crea por virtud de este Decreto, y a la cual se han transferido, hasta en tanto se realicen las reformas correspondientes.
+
+Asimismo, los derechos y obligaciones establecidos en contratos, convenios o acuerdos celebrados por las Secretarías de Finanzas y de Administración, con dependencias o entidades del gobierno del Estado, con dependencias y entidades de la Federación y de los municipios, y con cualquier persona física o moral, se entenderán referidas a la Secretaría de Finanzas y Administración a partir de la entrada en vigor de este Decreto.
+
+DÉCIMO PRIMERO.- Las transferencias de recursos materiales, activos patrimoniales, humanos y financieros que en cumplimiento de este Decreto deban realizarse de las Secretarías de Finanzas y de Administración y demás dependencias a la Secretaría de Finanzas y Administración, incluirán las adecuaciones presupuestarias que comprenden las modificaciones a la estructura programática y financiera, así como a los calendarios financieros y de metas.
+
+DÉCIMO SEGUNDO.- Los derechos laborales y antigüedad del personal administrativo que actualmente laboran para las Secretarías de Finanzas y de Administración y demás dependencias, que en virtud de lo dispuesto en el presente Decreto se integren a la Secretaría de Finanzas y Administración, se respetarán conforme a la ley.
+
+DÉCIMO TERCERO.- Los asuntos que se venían conociendo y tramitando ante las Secretarías de Finanzas y de Administración y demás dependencias, continuarán su trámite hasta su total conclusión con base a la normatividad vigente en el momento en que se iniciaron.
+
+DÉCIMO CUARTO.- Se autoriza la reestructuración de las plazas indispensables para el funcionamiento y operatividad de la Secretaría de Finanzas y Administración.
+
+DÉCIMO QUINTO.- Las atribuciones que actualmente se encuentran asignadas a la Secretaría de Administración y que han de transferirse a la Contraloría General del Estado, al Instituto para la Competitividad del Estado de Colima y al Instituto Colimense para la Sociedad de la Información y el Conocimiento, quedarán a cargo de la nueva Secretaría de Finanzas y Administración hasta en tanto se realicen las reformas correspondientes.
