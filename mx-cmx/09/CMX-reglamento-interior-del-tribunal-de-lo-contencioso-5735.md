@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-interior-del-tribunal-de-lo-contencioso-5735"
 country: "mx"
 rank: "reglamento"
 publication_date: "1996-06-17"
-last_updated: "2000-04-27"
+last_updated: "2011-08-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5735&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,9 @@ issue_date: "1996-04-19"
 
 REGLAMENTO INTERIOR DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 27 DE ABRIL DE 2000.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL DISTRITO FEDERAL, PUBLICADO EN LA G.O. DE 31 DE AGOSTO DE 2011, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: ABROGADO.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el lunes 17 de junio de 1996.
 
@@ -617,3 +619,17 @@ G.O. 27 DE ABRIL DE 2000.
 PRIMERO.- Las presentes adecuaciones entrarán en vigor el día de su publicación en la Gaceta Oficial del Distrito Federal.
 
 SEGUNDO.- Publíquese en la Gaceta Oficial del Distrito Federal.
+
+G.O. 31 DE AGOSTO DE 2011.
+
+PRIMERO.- El presente Reglamento entrará en vigor diez días después de su publicación en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- Se abroga el Reglamento Interior del Tribunal de lo Contencioso Administrativo del Distrito Federal publicado en la Gaceta Oficial del Distrito Federal del diecisiete de junio de mil novecientos noventa y seis, con No. 368 Tomo I.
+
+TERCERO.- Hasta en tanto no se actualicen los manuales y procedimientos administrativos, continuarán vigentes los existentes, siempre y cuando no se contrapongan al contenido y alcance del presente Reglamento.
+
+CUARTO.- En aquellos casos en que el presente Reglamento se refiera a la "Contraloría Interna", hasta en tanto el Tribunal no cuente con dicha área, sus atribuciones serán atendidas por la Sala Superior.
+
+QUINTO.- Se abroga el Reglamento de Visitas a las Salas Ordinarias y Auxiliares del Tribunal de lo Contencioso Administrativo del Distrito Federal, publicado en la Gaceta Oficial del Distrito Federal del primero de diciembre de mil novecientos ochenta y seis.
+
+SEXTO.- Publíquese en la Gaceta Oficial del Distrito Federal.
