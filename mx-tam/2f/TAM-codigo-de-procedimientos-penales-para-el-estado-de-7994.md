@@ -4,7 +4,7 @@ identifier: "TAM-codigo-de-procedimientos-penales-para-el-estado-de-7994"
 country: "mx"
 rank: "codigo"
 publication_date: "1987-01-17"
-last_updated: "2011-06-22"
+last_updated: "2011-08-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7994&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE JUNIO DE 2011.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE AGOSTO DE 2011.
 
 Código publicado en el Periódico Oficial del Estado de Tamaulipas, el sábado 17 de enero de 1987.
 
@@ -935,13 +935,97 @@ El Ministerio Público al emitir la orden de detención en caso urgente deberá 
 
 La orden mencionada será ejecutada por la Policía Ministerial, quien deberá sin dilación alguna, poner al detenido a disposición del Ministerio Público que la haya librado.
 
-> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2011)</small>
 
-Para todos los efectos legales, y por afectar de manera importante valores fundamentales de la sociedad, se califican como delitos graves, los siguientes: atentados a la soberanía del Estado previsto por el artículo 143; evasión de presos previsto por el artículo 158, en los casos a que se refiere la segunda parte del artículo 159 y el artículo 160; contra la seguridad de la comunidad previsto en el artículo 171 Quáter; ataques a los medios de transporte previsto por el artículo 174; las conductas previstas en el artículo 188 Bis; corrupción de menores e incapaces y pornografía infantil previstos por los artículos 192, en los casos del artículo 193 segundo párrafo, 194 Bis fracciones III y V, 194 Ter fracciones I, II y III, 195; narcomenudeo en los casos de los artículos 204 Ter y 204 Quáter; tortura previsto por el artículo 213; cohecho previsto por el artículo 216 en relación con el artículo 217 fracción II; peculado previsto por el artículo 218 en relación con el artículo 219 fracción II; uso indebido de atribuciones y facultades previstos por el artículo 222 en relación con el artículo 223 fracción II; enriquecimiento ilícito previsto por el artículo 230 en relación con el 231 fracción III; violación previsto en los artículos 273, 274, 275, 276 y 277; sustracción y retención de menores por los padres cuando se realice en la circunstancia prevista en el párrafo tercero del artículo 301; asalto previsto en el artículo 313 en relación con el 314 y 315; tráfico de menores e incapacitados previsto por el artículo 318-Bis; lesiones previsto por el artículo 319 en relación con el 322 fracción III; homicidio culposo previsto por el artículo 318; homicidio previsto por el artículo 329 con relación al 333, 335, 336, 337 Bis, 349; por el artículo 350 en relación con el 351; por el artículo 352 con relación al 353, 354 y 355; abandono de personas, cuando se trate de menores de 12 años, establecido en el párrafo tercero del artículo 363; secuestro en los casos de los artículos 391 y 391 Bis; robo previsto por el artículo 399, cuando se realice en cualquiera de las circunstancias señaladas en los artículos 405, 406, 407 fracciones I, VIII, IX y X, 409, exceptuando de éste los casos en que por el valor de lo robado se esté en la hipótesis del artículo 402 fracción I; robo previsto por el artículo 410, exceptuando de éste el caso previsto en su última parte, cuando el monto de lo robado no exceda del señalado por el artículo 402 fracción I, 411; extorsión previsto por el artículo 426; despojo de cosas inmuebles o de aguas previsto por el artículo 427, cuando se realice en la circunstancia prevista en la fracción IV; daño en propiedad en los casos previstos por el artículo 435; y operaciones con recursos de procedencia ilícita, previsto por el artículo 443 Bis, todos del Código Penal para el Estado de Tamaulipas; así como también el delito de trata de personas, previsto en el artículo 5 de la Ley para Prevenir, Combatir y Sancionar la Trata de Personas en el Estado de Tamaulipas.
+Para todos los efectos legales, y por afectar de manera importante valores fundamentales de la sociedad, se califican como delitos graves, los siguientes contemplados en el Código Penal para el Estado de Tamaulipas:
 
-(ADICIONADO, P.O. 19 DE JUNIO DE 1999) (F. DE E., P.O. 17 DE ABRIL DE 2002)
+l.- De los delitos contra la seguridad del Estado.
 
-La tentativa punible de los ilícitos penales mencionados en el párrafo anterior, también se califica como delito grave.
+a) Atentados a la soberanía del Estado previsto por el artículo 143.
+
+II.- De los delitos contra la seguridad pública.
+
+a) Evasión de presos previsto por el artículo 158, en los casos a que se refiere la segunda parte del artículo 159 y el artículo 160;
+
+b) Contra la seguridad de la comunidad previsto en el artículo 171 Quáter.
+
+III.- De los delitos contra la seguridad de los medios de transporte, vías de comunicación y correspondencia.
+
+a) Ataques a los medios de transporte previsto por el artículo 174.
+
+IV.- De los delitos contra la autoridad.
+
+a) Las conductas previstas en el artículo 188 Bis.
+
+V.- De los delitos contra la moral pública.
+
+a) Corrupción de menores e incapaces y pornografía infantil previstos por los artículos 192, en los casos del artículo 193 segundo párrafo, 194 Bis fracciones III y V, 194 Ter fracciones I, II y III, 195.
+
+VI.- De los delitos cometidos por servidores públicos.
+
+a) Tortura previsto por el artículo 213;
+
+b) Cohecho previsto por el artículo 216 en relación con el artículo 217 fracción II;
+
+c) Peculado previsto por el artículo 218 en relación con el artículo 219 fracción II;
+
+d) Uso indebido de atribuciones y facultades previstos por el artículo 222 en relación con el artículo 223 fracción II;
+
+e) Enriquecimiento ilícito previsto por el artículo 230 en relación con el 231 fracción III.
+
+VII.- De los delitos contra la seguridad y libertad sexuales.
+
+a) Violación previsto en los artículos 273, 274, 275, 276 y 277.
+
+VIII.- De los delitos contra la familia y el estado civil.
+
+a) Sustracción y retención de menores por los padres cuando se realice en la circunstancia prevista en el párrafo tercero del artículo 301.
+
+IX.- De los delitos contra la paz y la seguridad de las personas.
+
+a) Asalto previsto en el artículo 313 en relación con el 314 y 315;
+
+b) Homicidio culposo previsto por el artículo 318;
+
+c) Tráfico de menores e incapacitados previsto por el artículo 318-Bis.
+
+X.- De los delitos contra la vida y la salud de las personas.
+
+a) Lesiones previsto por el artículo 319 en relación con el 322 fracción III;
+
+b) Homicidio previsto por el articulo 329 con relación al 333, 335, 336, 337, 337 Bis, 349;
+
+c) El contemplado en el artículo 350 en relación con el 351;
+
+d) El contemplado en el artículo 352 con relación al 353 y 355;
+
+e) Abandono de personas, cuando se trate de menores de 12 años, establecido en el párrafo tercero del artículo 363.
+
+XI.- De los delitos contra la seguridad en el goce de garantías.
+
+a) Secuestro en los casos de los artículos 391 y 391 Bis.
+
+XII.- De los delitos contra el patrimonio de las personas.
+
+a) Robo previsto por el artículo 399, cuando se realice en cualquiera de las circunstancias señaladas en los artículos 405, 406, 407 fracciones I, VIII, IX y X, 409, exceptuando de éste los casos en que por el valor de lo robado se esté en la hipótesis del artículo 402 fracción I;
+
+b) Robo previsto por el artículo 410, exceptuando de éste el caso previsto en su última parte, cuando el monto de lo robado no exceda del señalado por el artículo 402 fracción I, 411;
+
+c) Extorsión, previsto por el artículo 426;
+
+d) Despojo de cosas inmuebles o de aguas previsto por el artículo 427, cuando se realice en la circunstancia prevista en la fracción IV;
+
+e) Daño en propiedad en los casos previstos por el artículo 435.
+
+XIII.- De los delitos comprendidos en el título de encubrimiento.
+
+a) Operaciones con recursos de procedencia ilícita, previsto por el artículo 443 Bis.
+
+También será grave el delito de trata de personas, previsto en el artículo 5 de la Ley para Prevenir, Combatir y Sancionar la Trata de Personas en el Estado de Tamaulipas.
+
+> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2011)</small>
+
+La tentativa punible de los ilícitos penales mencionados en este artículo, también se califica como delito grave.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE JUNIO DE 2011)</small>
 
@@ -1073,9 +1157,13 @@ II.- Asentar los datos generales para la identificación de la persona; en todo 
 
 III.- Comprobar su personalidad para los efectos legales.
 
-> <small>(ADICIONADO, P.O. 10 DE JULIO DE 2003)</small>
+> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2011)</small>
 
-Igualmente, el Ministerio Publico, antes de iniciar la averiguación previa o durante ésta y sin perjuicio de acordar las primeras medidas, deberá procurar la conciliación entre el ofendido o víctima y el inculpado, en los delitos que se persiguen por querella necesaria, y en los perseguibles de oficio cuando el perdón del ofendido o la victima sea causa de extinción de la acción penal.
+Igualmente, el Ministerio Público, antes de iniciar la averiguación previa o durante ésta y sin perjuicio de acordar las primeras medidas, procurará la conciliación entre el ofendido o víctima y el inculpado, en los delitos que se persiguen por querella necesaria, y en los perseguibles de oficio cuando el perdón del ofendido o la víctima sea causa de extinción de la acción penal.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 31 DE AGOSTO DE 2011)</small>
+
+El Ministerio Público, por los conductos debidos y cubriendo las formalidades establecidas en la ley para las notificaciones, citara a las partes para que comparezcan a la audiencia de conciliación. La inasistencia de cualquiera de las partes implicará su negativa respecto de aceptar dicho medio alternativo de solución.
 
 > <small>(ADICIONADO, P.O. 10 DE JULIO DE 2003)</small>
 
@@ -4774,3 +4862,9 @@ P.O. 22 DE JUNIO DE 2011.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 31 DE AGOSTO DE 2011.
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto entrara en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Tamaulipas.
