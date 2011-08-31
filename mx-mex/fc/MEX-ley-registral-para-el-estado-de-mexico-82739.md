@@ -4,7 +4,7 @@ identifier: "MEX-ley-registral-para-el-estado-de-mexico-82739"
 country: "mx"
 rank: "ley"
 publication_date: "2011-08-18"
-last_updated: "2011-08-18"
+last_updated: "2011-08-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=82739&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "MEX"
 ---
 # LEY REGISTRAL PARA EL ESTADO DE MEXICO
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 31 DE AGOSTO DE 2011 EN LA G.G. DEL ESTADO DE MÉXICO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 LEY REGISTRAL PARA EL ESTADO DE MEXICO
 
 TEXTO ORIGINAL.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 31 DE AGOSTO DE 2011.</small>
 
 Ley publicada en la Sección Tercera de la Gaceta de Gobierno del Estado de México, el jueves 18 de agosto de 2011.
 
@@ -39,11 +39,11 @@ LA H. "LVII" LEGISLATURA DEL ESTADO DE MEXICO
 
 DECRETA:
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTICULO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 31 DE AGOSTO DE 2011 EN LA G.G. DEL ESTADO DE MÉXICO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+> <small>(F. DE E., G.G. 31 DE AGOSTO DE 2011)</small>
 
 ###### ARTÍCULO PRIMERO.
 
-Se expide la Ley Registral del Estado de México, para que (sic) quedar como sigue:
+Se expide la Ley Registral para el Estado de México, para quedar como sigue:
 
 LEY REGISTRAL PARA EL ESTADO DE MEXICO
 
@@ -633,8 +633,6 @@ IX. Las afectaciones o limitaciones a que dé lugar la aplicación del Código A
 
 X. Los que de manera expresa señalen otros ordenamientos.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTICULO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 31 DE AGOSTO DE 2011 EN LA G.G. DEL ESTADO DE MÉXICO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA, ASÍ COMO EL ARCHIVO ANEXO.</small>
-
 ###### Artículo 58.
 
 Para mayor exactitud de las inscripciones sobre inmuebles se observará lo dispuesto por el Código, con arreglo a lo siguiente:
@@ -649,7 +647,9 @@ IV. Cuando se modifique la nomenclatura de las calles o la numeración de los in
 
 V. Los nombres propios que deban figurar en la inscripción se consignarán literalmente, según aparezca en el título respectivo. También se asentará la fecha de nacimiento de las partes, la Clave Única del Registro de Población y/o el Registro Federal de Contribuyentes, y cualquier otro dato de identificación cuando consten en el título.
 
-El Formato Precodificado a que se refiere el artículo 34 de la presente Ley, deberá ajustarse al contenido de esta disposición.
+> <small>(F. DE E., G.G. 31 DE AGOSTO DE 2011)</small>
+
+El Formato Precodificado a que se refiere el artículo 33 de la presente Ley, deberá ajustarse al contenido de esta disposición.
 
 ###### Artículo 59.
 
@@ -661,13 +661,13 @@ En estos casos, las notas de presentación a que se refiere (sic) los artículos
 
 ### CAPITULO TERCERO. DEL REGISTRO DE LAS PERSONAS JURIDICAS COLECTIVAS
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTICULO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 31 DE AGOSTO DE 2011 EN LA G.G. DEL ESTADO DE MÉXICO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA, ASÍ COMO EL ARCHIVO ANEXO.</small>
-
 ###### Artículo 60.
 
 La persona jurídica colectiva será la unidad básica de este Registro, identificándose con un número único correspondiente a cada folio electrónico.
 
-Las personas a que se refiere este capítulo serán aquellas previstas por el artículo 8.65 del Código y deberán tener su domicilio en el Estado de México.
+> <small>(F. DE E., G.G. 31 DE AGOSTO DE 2011)</small>
+
+Las personas a que se refiere este capítulo serán aquellas previstas por el artículo 8.73 del Código y deberán tener su domicilio en el Estado de México.
 
 ###### Artículo 61.
 
@@ -1150,6 +1150,10 @@ Con independencia de lo anterior, si el interesado consulta al Colegio de Notari
 ###### Artículo 123.
 
 El instituto, apoyado por Instituciones Académicas de Enseñanza Superior y Especializadas, promoverá la capacitación, actualización y profesionalización del personal que labora en las Oficinas Registrales y en las Unidades Administrativas que forman el propio Instituto, para establecer el Servicio Profesional de Carrera.
+
+> <small>(F. DE E., G.G. 31 DE AGOSTO DE 2011)</small>
+
+T R A N S I T O R I O S
 
 PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
 
