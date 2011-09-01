@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-5775
 country: "mx"
 rank: "ley"
 publication_date: "2007-12-05"
-last_updated: "2007-12-05"
+last_updated: "2011-09-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57751&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE MORELOS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE SEPTIEMBRE DE 2011.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 5 de diciembre de 2007.
 
@@ -775,7 +775,9 @@ VI.- Promover la formación y especialización con perspectiva de género de Age
 
 VII.- Crear unidades e instancias especializadas para la atención de las mujeres víctimas de delitos sexuales y de violencia en el ámbito familiar, atendiendo al tipo de victimización, sin prácticas de mediación o conciliación;
 
-VIII.- Proporcionar capacitación anual sobre no discriminación, violencia contra las mujeres y perspectiva de género, al personal encargado de la atención de mujeres víctimas de delito;
+> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2011)</small>
+
+VIII. Especializar a las y los agentes del Ministerio Público, peritos, personal que atiende a víctimas a través de programas y cursos permanentes, en: derechos humanos y género; perspectiva de género para la debida diligencia en la conducción de carpetas de investigación y procesos judiciales relacionados con discriminación, violencia y feminicidios; incorporación de la perspectiva de género en los servicios periciales; eliminación de estereotipos sobre el rol social de las mujeres, entre otros;
 
 IX.- Promover la creación de la Unidad Especializada de Mujeres Policías Ministeriales para la atención de delitos cometidos en contra de la mujer;
 
@@ -787,7 +789,29 @@ XII.- Ejecutar las órdenes de protección preventivas y emergentes que sean pro
 
 XIII.- Apoyar a las autoridades e instituciones estatales encargadas de efectuar investigaciones en materia de violencia contra las mujeres, proporcionando en su caso la información que se requiera para tal efecto; y
 
-XIV.- Las demás previstas para el cumplimiento de la presente ley.
+> <small>(ADICIONADA, P.O. 1 DE SEPTIEMBRE DE 2011)</small>
+
+XIV. Realizar estudios estadísticos e investigaciones referentes al acceso a la justicia de las mujeres víctimas de violencia, así como de las causas y sentencias que se dictan en contra de las mujeres responsables de delitos;
+
+> <small>(ADICIONADA, P.O. 1 DE SEPTIEMBRE DE 2011)</small>
+
+XV. Crear un sistema de registro público de los delitos cometidos en contra de mujeres, que integre la estadística criminal y victimal para definir políticas en materia de prevención del delito, procuración y administración de justicia, que incluya la clasificación de los hechos de los que tenga conocimiento, lugar en que ocurrieron, especificando su tipología, características de la víctima y del sujeto activo, móviles, diligencias básicas a realizar, así como las dificultades para la práctica de diligencias y determinaciones; los índices de incidencia y reincidencia, consignación, sanción y reparación del daño;
+
+> <small>(ADICIONADA, P.O. 1 DE SEPTIEMBRE DE 2011)</small>
+
+XVI. Elaborar una página de internet en la cual se encuentren los datos generales de las mujeres y niñas que sean reportadas como desaparecidas. Dicha página deberá actualizarse constantemente. La información deberá ser pública y permitir que la población en general pueda aportar información sobre el paradero de las mujeres y niñas desaparecidas;
+
+> <small>(ADICIONADA, P.O. 1 DE SEPTIEMBRE DE 2011)</small>
+
+XVII. Elaborar y aplicar Protocolos especializadas (sic) con perspectiva de género en: la búsqueda inmediata de mujeres y niñas desaparecidas, para la investigación de los feminicidios y la violencia sexual;
+
+> <small>(ADICIONADA, P.O. 1 DE SEPTIEMBRE DE 2011)</small>
+
+XVIII. Crear una Base de Información Genética que contenga la información personal disponible de mujeres y niña (sic) desaparecidas; la información genética y muestras celulares de los familiares de las personas desaparecidas que lo consientan; la información genética y muestras celulares proveniente de los cuerpos de cualquier mujer o niña no identificada;
+
+La información integrada en esta base deberá ser reguardada (sic) y únicamente podrá ser utilizada para la confrontación de información genética entre cuerpos no identificados y personas desaparecidas; y
+
+XIX. Las demás previstas en el cumplimiento de la presente ley.
 
 ###### Artículo 58.
 
@@ -801,41 +825,17 @@ III.- Fungir como Secretaría Ejecutiva del Sistema Estatal a través de su titu
 
 IV.- Registrar los programas y modelos estatales de prevención, atención, sanción y erradicación de la violencia contra las mujeres y los subprogramas, en coordinación con las dependencias de la Administración Pública Estatal y Municipal;
 
-V.- Representar al Estado en el Sistema Nacional;
+> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2011)</small>
 
-VI.- Integrar el Banco Estatal de Datos e Información sobre Casos de Violencia contra las Mujeres, el cual se organizará por tipo y modalidad de violencia contra las mujeres, en los casos que constituyan quejas, faltas administrativas e indagatorias.
+V.- Habilitar una línea única de atención telefónica para recibir denuncias de violencia contra las mujeres, por parte de la propia víctima o cualquier otra persona, y dar inicio a la investigación respectiva;
 
-Debiendo incluirse como mínimo los siguientes datos:
+> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2011)</small>
 
-a) fecha del evento;
+VI.- Crear una Unidad Especializada para la atención y coadyubancia (sic) a la investigación, con la debida diligencia de los feminicidios; y
 
-b) modalidad de la violencia;
+> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2011)</small>
 
-c) tipo de violencia;
-
-d) lugar de los hechos;
-
-e) sexo del agresor;
-
-f) duración del evento;
-
-g) tipo de orden de protección;
-
-h) eje de acción que intervino;
-
-i) edad de la víctima;
-
-j) estado civil;
-
-k) escolaridad de la víctima;
-
-l) probable agresor;
-
-m) ponencias de resolución administrativa y penal, y
-
-n) sentencias penales y civiles.
-
-VII.- Solicitar a las dependencias de la Administración Pública del Estado y a los Municipios la información estadística correspondiente;
+VII.- Los demás que le atribuyan otros ordenamientos legales.
 
 VIII.- Impulsar la armonización normativa y judicial en materia de violencia contra las mujeres en concordancia con los instrumentos internacionales y nacionales;
 
@@ -1004,3 +1004,23 @@ SECRETARIO DE GOBIERNO
 LIC. SERGIO ALVAREZ MATA
 
 RÚBRICAS.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS DEL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 1 DE SEPTIEMBRE DE 2011.
+
+###### ARTÍCULO PRIMERO.
+
+Publíquese en el Periódico Oficial "Tierra y Libertad" del Estado de Morelos.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente decreto entrará en vigor al siguiente día de su publicación.
+
+###### ARTÍCULO TERCERO.
+
+La Procuraduría General de Justicia del Estado de Morelos deberá emitir, en un plazo no mayor a ciento ochenta días naturales a partir de la entrada en vigor del presente Decreto, los Protocolos establecidos en el presente Decreto.
+
+###### ARTÍCULO CUARTO.
+
+La Procuraduría General de Justicia del Estado de Morelos deberá emitir, en un plazo no mayor a 60 días naturales a partir de la entrada en vigor del presente Decreto, un acuerdo por el que se establezcan los lineamientos para la investigación con debida diligencia de los feminicidios.
