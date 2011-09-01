@@ -4,7 +4,7 @@ identifier: "CMX-codigo-fiscal-de-la-ciudad-de-mexico-antes-codigo-fiscal-71178"
 country: "mx"
 rank: "codigo"
 publication_date: "2009-12-29"
-last_updated: "2011-05-19"
+last_updated: "2011-09-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=71178&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2009-12-28"
 
 CODIGO FISCAL DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 19 DE MAYO DE 2011.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 1 DE SEPTIEMBRE DE 2011.
 
 Código publicado en la Gaceta Oficial del Distrito Federal, el martes 29 de diciembre de 2009.
 
@@ -234,7 +234,9 @@ Una vez recibida la documentación a que hace referencia el párrafo anterior, e
 
 Las cuotas y las tarifas de las contribuciones, las multas, valores y, en general, las cantidades que en su caso se establecen en este Código, vigentes en el mes de diciembre de cada año, se actualizarán a partir del primero de enero del año siguiente con el factor que al efecto se establezca en la Ley de Ingresos.
 
-En el caso de que para un año de calendario la Asamblea no emita los factores a que se refiere el párrafo anterior, las cuotas y las tarifas de las contribuciones, las multas, valores y, en general las cantidades que en su caso se establecen en este Código, que se encuentren vigentes al treinta y uno de diciembre, se actualizarán a partir del primero de enero del año siguiente, conforme a la variación del promedio anual del Índice Nacional de Precios al Consumidor emitido por el Banco de México al mes de noviembre del año anterior al ejercicio fiscal en que deban actualizarse. Para ello, deberá dividirse el índice promedio de los doce meses más recientes entre el índice promedio de los doce meses anteriores, para aplicar su resultado como factor de ajuste.
+> <small>(REFORMADO, G.O. 1 DE SEPTIEMBRE DE 2011)</small>
+
+En el caso de que para un año de calendario la Asamblea no emita los factores a que se refiere el párrafo anterior, las cuotas y las tarifas de las contribuciones, las multas, valores y, en general las cantidades que en su caso se establecen en este Código, que se encuentren vigentes al treinta y uno de diciembre, se actualizarán a partir del primero de enero del año siguiente, conforme a la variación del promedio anual del Índice Nacional de Precios al Consumidor emitido por la autoridad competente al mes de noviembre del año anterior al ejercicio fiscal en que deban actualizarse. Para ello, deberá dividirse el índice promedio de los doce meses más recientes entre el índice promedio de los doce meses anteriores, para aplicar su resultado como factor de ajuste.
 
 ###### ARTICULO 19.
 
@@ -522,11 +524,15 @@ Los particulares podrán acudir ante las autoridades fiscales dentro de un plazo
 
 Lo previsto en este artículo no constituye instancia, ni interrumpe ni suspende los plazos para que los particulares puedan interponer los medios de defensa. Las resoluciones que se emitan por la autoridad fiscal no podrán ser impugnadas por los particulares.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 1 DE SEPTIEMBRE DE 2011)</small>
+
 ###### ARTICULO 41.
 
-Cuando no se cubran los créditos fiscales en la fecha o dentro del plazo fijado por las disposiciones fiscales, su monto se actualizará desde el mes en que debió hacerse el pago y hasta que el mismo se efectúe, lo anterior debido al transcurso del tiempo y con motivo de los cambios de precios en el país, para lo cual se aplicará el factor de actualización a las cantidades que se deban de actualizar. Dicho factor se obtendrá dividiendo el Indice Nacional de Precios al Consumidor que determine el Banco de México conforme a la legislación aplicable que regula su cálculo, del mes anterior al más reciente del período entre el citado índice correspondiente al mes anterior al más antiguo de dicho período.
+Cuando no se cubran los créditos fiscales en la fecha o dentro del plazo fijado por las disposiciones fiscales, su monto se actualizará desde el mes en que debió hacerse el pago y hasta que el mismo se efectúe, lo anterior debido al transcurso del tiempo y con motivo de los cambios de precios en el país, para lo cual se aplicará el factor de actualización a las cantidades que se deban actualizar. Dicho factor se obtendrá dividiendo el Índice Nacional de Precios al Consumidor que determine la autoridad competente conforme a la legislación aplicable que regula su cálculo, del mes anterior al más reciente del periodo entre el citado índice correspondiente al mes anterior al más antiguo de dicho periodo.
 
-En los casos en que el Indice Nacional de Precios al Consumidor del mes anterior al más reciente del período, no haya sido publicado por el Banco de México, la actualización de que se trate se realizará aplicando el último Indice mensual publicado.
+> <small>(REFORMADO, G.O. 1 DE SEPTIEMBRE DE 2011)</small>
+
+En los casos en que el Índice Nacional de Precios al Consumidor del mes anterior al más reciente del periodo, no haya sido publicado por la autoridad competente, la actualización de que se trate se realizará aplicando el último Índice mensual publicado.
 
 La actualización no se efectuará por fracciones de mes.
 
@@ -1608,9 +1614,9 @@ Las autoridades fiscales para el debido cumplimiento de sus facultades, proporci
 
 I. Explicar las disposiciones fiscales utilizando en lo posible un lenguaje llano alejado de tecnicismos y en los casos en que sean de naturaleza compleja, elaborar y distribuir folletos a los contribuyentes;
 
-> <small>(ADICIONADA, G.O. 30 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADA, G.O. 1 DE SEPTIEMBRE DE 2011)</small>
 
-II. Brindar la asistencia necesaria a todos los contribuyentes y en especial a aquellos que no sepan leer ni escribir, hablen alguna lengua indígena o posean algún tipo de discapacidad, o sean personas con discapacidad;
+II. Brindar la asistencia necesaria a todos los contribuyentes y en especial a aquellos que no sepan leer ni escribir, hablen alguna lengua indígena o sean personas con discapacidad.
 
 III. Mantener oficinas en diversos lugares del Distrito Federal que se ocuparán de orientar y auxiliar a los contribuyentes en el cumplimiento de sus obligaciones;
 
@@ -4462,7 +4468,9 @@ II. Fusión, por cada lote - $835.00
 
 III. Constitución de régimen de propiedad en condominio o sus modificaciones, por cada unidad - $835.00
 
-En aquellos casos en que los actos regulados en el presente artículo se originen por la constitución de un polígono de actuación y/o la aplicación de un sistema de actuación a los que se refieren los artículos 62 y 64 de la Ley de Desarrollo Urbano del Distrito Federal, en los que intervenga el Gobierno del Distrito Federal, quedarán exentos de los pagos previstos en las fracciones I, II y III de este artículo, siempre y cuando exista autorización de la Procuraduría Fiscal.
+> <small>(REFORMADO, G.O. 1 DE SEPTIEMBRE DE 2011)</small>
+
+En aquellos casos en que los actos regulados en el presente artículo se originen por la constitución de un polígono de actuación y/o la aplicación de un sistema de actuación a los que se refieren los artículos 76 y 78 de la Ley de Desarrollo Urbano del Distrito federal, en los que intervenga el Gobierno del Distrito federal, quedarán exentos de los pagos previstos en las fracciones I, II y III de este artículo, siempre y cuando exista autorización de la Procuraduría Fiscal.
 
 ###### ARTICULO 205.
 
@@ -9056,9 +9064,9 @@ A quien cometa las infracciones que a continuación se señalan, relacionadas co
 
 I. Por no presentar el aviso de no causación del Impuesto Sobre Adquisición de Inmuebles a que se refiere el artículo 121 de este Código, multa de $2,495.00 a $6,327.00;
 
-> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADA, G.O. 1 DE SEPTIEMBRE DE 2011)</small>
 
-II. Por no realizar las manifestaciones o presentar los documentos a que se refieren los artículos 141, fracción III y 152, fracciones VIII y IX de este Código, o hacerlo extemporáneamente, multa de $2,495.00 a $6,327.00;
+II. Por no realizar las manifestaciones o presentar los documentos a que se refiere los artículos 141, fracción III y 152 fracciones VII y IX de este Código o hacerlo extemporáneamente, multa de: la mayor que resulte entre $ 2, 495.00 y el 5% del valor total del espectáculo;
 
 > <small>(REFORMADA EN SU CUOTA, G.O. 30 DE DICIEMBRE DE 2010)</small>
 
@@ -10689,3 +10697,49 @@ El beneficio previsto en este artículo no da derecho a devolución o compensaci
 OCTAVO.- El Sistema de Aguas está obligado a establecer un programa permanente de información a los usuarios de servicio doméstico; así como a los usuarios de uso doméstico y no doméstico simultáneamente, acerca de la exención con la que cuentan los jubilados, pensionados, los adultos mayores, las personas con discapacidad y las madres jefas de familia, prevista en el artículo 177 del Código Fiscal del Distrito Federal. Al efecto, procederá a colocar carteles visibles afuera de cada una de las oficinas de atención a usuarios con dicha información, de manera clara y entendible, lo mismo en la página electrónica del Sistema y mediante volantes o trípticos informativos.
 
 NOVENO.- Aquellos usuarios del servicio de suministro de agua que se encuentren actualmente en manzana alta, y que durante el primer bimestre de 2011 su boleta de cobro contemple su facturación en cuota fija, no estarán obligados a pagar el monto que específica dicha boleta, sino la cuota que estipula el presente Decreto en el artículo 172, fracción II, inciso A, quedando sin efecto los accesorios que se pudiesen haber generado a falta de pago oportuno. El Sistema de Aguas procederá, sin más trámite a hacer el ajuste correspondiente.
+
+G.O. 1 DE SEPTIEMBRE DE 2011.
+
+DECRETO POR EL QUE SE ADICIONAN DIVERSAS DISPOSICIONES DEL CODIGO FISCAL DEL DISTRITO FEDERAL.
+
+PRIMERO. A los mercados públicos y concentraciones que soliciten y cuenten con una sola toma de agua de 13 milímetros de diámetro, se les establecerá la cuota fija señalada en el artículo 172, Fracción II, Inciso c) para diámetro de 13 mm, sin considerar el número de derivadas; salvo aquellos cuyos inmuebles se encuentren ubicados en las colonias señaladas en el Anexo I de la RESOLUCIÓN DE CARÁCTER GENERAL MEDIANTE LA CUAL SE CONDONA TOTALMENTE EL PAGO DE LOS DERECHOS POR EL SUMINISTRO DE AGUA, CORRESPONDIENTES A LOS EJERCICIOS FISCALES 2006, 2007, 2008, 2009, 2010 Y 2011, ASÍ COMO LOS RECARGOS Y SANCIONES A LOS CONTRIBUYENTES CUYOS INMUEBLES SE ENCUENTREN EN LAS COLONIAS QUE SE INDICAN, publicada en la Gaceta Oficial del Distrito Federal el 19 de mayo de 2011.
+
+Para los mercados públicos y concentraciones que durante el año 2011 cubran el requisito a que se hace referencia en el párrafo anterior, no estarán obligados a pagar el monto que específica la boleta, sino a cubrir la cuota fija que estipula el presente artículo, quedando sin efecto los accesorios que se pudiesen haber generado a falta de pago oportuno. El Sistema de Aguas procederá, sin más trámite a hacer el ajuste correspondiente.
+
+Para aquellos mercados públicos y concentraciones que soliciten su cambio de diámetro de toma por uno de 13 milímetros, se les aplicará una reducción del 90% sobre el pago que deban efectuar por los derechos establecidos en las fracciones I y II, apartado A, del artículo 181 y de la fracción I del artículo 182 ambos de este Código, sin que esté condicionado dicho beneficio al pago de adeudos. En estos casos se aplicará la cuota fija a la que se hace referencia en el párrafo anterior inmediatamente después de ingresada la solicitud. Asimismo, para supresión de tomas que soliciten los mercados públicos y concentraciones, no será necesaria la liquidación de adeudos fiscales para realizar dicho trámite.
+
+SEGUNDO. Publíquese en la Gaceta Oficial del Distrito Federal para su debida observancia y aplicación.
+
+TERCERO. El presente decreto entrará en vigor al día siguiente de su publicación.
+
+G.O. 1 DE SEPTIEMBRE DE 2011.
+
+DECRETO POR EL QUE SE REFORMAN Y ADICIONAN LOS ARTICULOS 18, 41, 103, 204 Y 466 DEL CODIGO FISCAL DEL DISTRITO FEDERAL.
+
+PRIMERO. Publíquese en la Gaceta Oficial del Distrito Federal para su debida observancia y aplicación.
+
+SEGUNDO. El presente decreto entrará en vigor al día siguiente de su publicación.
+
+TERCERO. A efecto de dar cumplimiento a lo establecido en el quinto párrafo del artículo 22 de este Código, en el sentido de que las instituciones de crédito y las sociedades civiles o mercantiles deberán auxiliarse para la suscripción de avalúos de un perito independiente, durante los siguientes dos años contados a partir del primero de enero de 2011, de manera excepcional, el examen a que se refiere el Manual de Valuación y Procedimientos Técnicos de Valuación Inmobiliaria para obtener el registro de perito independiente o auxiliar, podrá practicarse en las fechas que al efecto señale la Tesorería del Distrito Federal, fuera de los periodos señalados en el Manual.
+
+CUARTO.- Para el ejercicio fiscal 2011, no estarán obligados al pago de los derechos por el suministro de agua previstos en el artículo 172 de este Código, aquellos usuarios en cuyo domicilio se encuentre instalado un comedor popular, comedor público o comedor comunitario perteneciente a cualquiera de los Programas del Gobierno del Distrito Federal.
+
+Para efectos del cumplimiento de este precepto, el usuario acreditado por el Gobierno del Distrito Federal en cualquiera de los Programas de comedores, deberá presentar la constancia emitida por autoridad competente, que certifique que se encuentre operando un comedor del Gobierno del Distrito Federal.
+
+En caso de tener adeudos por este concepto, éstos le serán reducidos en un 100%, siempre y cuando demuestre que en esos bimestres ya se encontraba instalado y en operación el comedor.
+
+QUINTO.- Durante el ejercicio fiscal 2011, el Sistema de Aguas realizará el ajuste correspondiente a fin de que los usuarios del servicio de suministro de agua con uso doméstico, doméstico y no doméstico simultáneamente paguen la cuota fija que les correspondía cubrir, eliminándose de su historial cualquier otro cobro, siempre y cuando se encuentren en los siguientes supuestos:
+
+a. Que su toma se encuentre en el dictamen técnico que cataloga el servicio en su colonia como irregular, emitido anualmente por el Sistema de Aguas de la Ciudad de México y publicado en la Gaceta Oficial del Distrito Federal;
+
+b. Que en cualquiera de los ejercicios fiscales de 2006 a 2010, su boleta de cobro haya sido expedida bajo el sistema de emisión para servicio medido;
+
+c. Que su cobro sea superior a la cuota fija que le correspondía, y
+
+d. Que hayan realizado pagos con fundamento en el artículo 47 del Código Fiscal y tengan créditos fiscales, multas, recargos y actualizaciones pendientes de cubrir, producto de esa facturación indebida;
+
+Lo mismo aplicará para aquellos usuarios que no hayan hecho pago alguno; el Sistema de Aguas ajustará su crédito fiscal respecto a la cuota fija que debieron cubrir en su oportunidad. En este caso, sí generarán multas, recargos y actualizaciones, sólo respecto al monto de cuota fija que dejaron de enterar.
+
+SEXTO.- Para aquellos usuarios del servicio de suministro de agua con uso doméstico y no doméstico simultáneamente, que durante el ejercicio fiscal 2010 su boleta de cobro haya sido expedida bajo el sistema de emisión de cuota fija, les será aplicada retroactivamente la cuota contenida en el Decreto por el que se Reforman, Adicionan y Derogan Diversas Disposiciones del Código Fiscal del Distrito Federal, publicado en la Gaceta Oficial del Distrito Federal el dieciocho de mayo de dos mil once; por lo que el Sistema de Aguas, durante el ejercicio fiscal 2011, procederá a realizar el ajuste correspondiente, a fin de que dichos contribuyentes sólo tengan la obligación de pagar la cuota fija expresada en el artículo 172, fracción III, inciso a) de dicho decreto; eliminándose cualquier accesorio del historial del contribuyente.
+
+De existir diferencias a favor del contribuyente, éstas le serán tomadas a cuenta en subsecuentes cobros bimestrales.
