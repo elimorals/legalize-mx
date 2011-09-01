@@ -4,7 +4,7 @@ identifier: "LGS"
 country: "mx"
 rank: "ley_general"
 publication_date: "1984-02-07"
-last_updated: "2011-08-05"
+last_updated: "2011-09-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=361&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGS"
 
 LEY GENERAL DE SALUD
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 5 DE AGOSTO DE 2011.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 1 DE SEPTIEMBRE DE 2011.
 
 ULTIMA MODIFICACION AL LISTADO DE SUSTANCIAS PSICOTROPICAS: 9 DE JULIO DE 1996.
 
@@ -1300,7 +1300,7 @@ IV. Las acciones y campañas de promoción de los derechos de las personas con t
 
 V. Las demás acciones que directa o indirectamente contribuyan al fomento de la salud mental de la población.
 
-> <small>(REFORMADO, D.O.F. 5 DE AGOSTO DE 2011)</small>
+> <small>(ADICIONADO, D.O.F. 5 DE AGOSTO DE 2011)</small>
 
 ###### ARTICULO 74.
 
@@ -1312,7 +1312,7 @@ II. La organización, operación y supervisión de instituciones dedicadas al es
 
 III. La reintegración de la persona con trastornos mentales y del comportamiento a su comunidad, mediante la creación de programas extrahospitalarios y comunitarios para la atención de estos trastornos.
 
-> <small>(ADICIONADO, D.O.F. 5 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO, D.O.F. 5 DE AGOSTO DE 2011)</small>
 
 ###### ARTICULO 74 Bis.
 
@@ -1814,21 +1814,29 @@ Para el ejercicio de actividades técnicas y auxiliares que requieran conocimien
 
 Para el registro de diplomas de las actividades técnicas y auxiliares, la Secretaría de Salud, a petición de las autoridades educativas competentes, emitirá la opinión técnica correspondiente.
 
+> <small>(REFORMADO, D.O.F. 1 DE SEPTIEMBRE DE 2011)</small>
+
 ###### ARTICULO 81.
 
-Las autoridades educativas registrarán los certificados de especialización en materia de salud que expidan las instituciones de enseñanza superior o las instituciones de salud reconocidas oficialmente.
+La emisión de los diplomas de especialidades médicas corresponde a las instituciones de educación superior y de salud oficialmente reconocidas ante las autoridades correspondientes.
 
-> <small>(REFORMADO, D.O.F. 12 DE ENERO DE 2006)</small>
+Para la realización de los procedimientos médicos quirúrgicos de especialidad se requiere que el especialista haya sido entrenado para la realización de los mismos en instituciones de salud oficialmente reconocidas ante las autoridades correspondientes.
 
-Para el registro de certificados de especialización expedidos por academias, colegios, consejos o asociaciones de profesionales de las disciplinas para la salud, las autoridades educativas competentes solicitaran la opinión de la Secretaría de Salud. Si se tratare del registro de certificados de especialidades médicas o del registro de la recertificación de éstas, las autoridades ya señaladas también deberán solicitar la opinión del Comité Normativo Nacional de Consejos de Especialidades Médicas.
+El Comité Normativo Nacional de Consejos de Especialidades Médicas tendrá la naturaleza de organismo auxiliar de la Administración Pública Federal a efecto de supervisar el entrenamiento, habilidades, destrezas y calificación de la pericia que se requiere para la certificación y recertificación de la misma en las diferentes especialidades de la medicina reconocidas por el Comité y en las instituciones de salud oficialmente reconocidas ante las autoridades correspondientes.
+
+Los Consejos de Especialidades Médicas que tengan la declaratoria de idoneidad y que estén reconocidos por el Comité Normativo Nacional de Consejos de Especialidades Médicas, constituido por la Academia Nacional de Medicina de México, la Academia Mexicana de Cirugía y los Consejos de Especialidad miembros, están facultados para expedir certificados de su respectiva especialidad médica.
+
+Para la expedición de la cédula de médico especialista las autoridades educativas competentes solicitarán la opinión del Comité Normativo Nacional de Consejos de Especialidades Médicas.
 
 ###### ARTICULO 82.
 
 Las autoridades educativas competentes proporcionarán a las autoridades sanitarias la relación de títulos, diplomas y certificados del área de la salud que hayan registrado y la de cédulas profesionales expedidas, así como la información complementaria sobre la materia que sea necesaria.
 
+> <small>(REFORMADO, D.O.F. 1 DE SEPTIEMBRE DE 2011)</small>
+
 ###### ARTICULO 83.
 
-Quienes ejerzan las actividades profesionales, técnicas y auxiliares y las especialidades a que se refiere este Capítulo, deberán poner a la vista del público un anuncio que indique la institución que les expidió el título, diploma o certificado y, en su caso, el número de su correspondiente cédula profesional. Iguales menciones deberán consignarse en los documentos y papelería que utilicen en el ejercicio de tales actividades y en la publicidad que realicen a su respecto.
+Quienes ejerzan las actividades profesionales, técnicas y auxiliares y las especialidades médicas, deberán poner a la vista del público un anuncio que indique la institución que les expidió el Título, Diploma, número de su correspondiente cédula profesional y, en su caso, el Certificado de Especialidad vigente. Iguales menciones deberán consignarse en los documentos y papelería que utilicen en el ejercicio de tales actividades y en la publicidad que realicen al respecto.
 
 ### CAPITULO I. Disposiciones comunes
 
@@ -3438,7 +3446,9 @@ Los envases y embalajes de los productos a que se refiere este título deberán 
 
 La Secretaría de Salud publicará en el Diario Oficial de la Federación las normas oficiales mexicanas que expida y, en caso necesario, las resoluciones sobre otorgamiento y revocación de autorizaciones sanitarias de medicamentos, estupefacientes, substancias psicotrópicas y productos que los contengan, equipos médicos, plaguicidas, nutrientes vegetales y substancias tóxicas o peligrosas, así como de las materias primas que se utilicen en su elaboración.
 
-### CAPITULO X. Productos de Aseo
+### CAPITULO IX BIS. Ejercicio especializado de la Cirugía
+
+> <small>(ADICIONADO, D.O.F. 1 DE SEPTIEMBRE DE 2011)</small>
 
 ###### ARTICULO 215.
 
@@ -3470,9 +3480,7 @@ La Secretaría de Salud, con base en la composición de los alimentos y bebidas,
 
 Los alimentos o bebidas que se pretendan expender o suministrar al público en presentaciones que sugieran al consumidor que se trate de productos o substancias con características o propiedades terapéuticas, deberán en las etiquetas de los empaques o envases incluir la siguiente leyenda: “Este producto no es un medicamento”, escrito con letra fácilmente legible y en colores contrastantes.
 
-### CAPITULO XI. Tabaco
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+### CAPITULO X. Productos de Aseo
 
 ###### ARTICULO 217.
 
@@ -3496,9 +3504,9 @@ La Secretaría de Salud, en su caso, publicará en el Diario Oficial de la Feder
 
 En ningún caso y de ninguna forma se podrán expender o suministrar bebidas alcohólicas a menores de edad.
 
-### CAPITULO XII. Plaguicidas, nutrientes vegetales y substancias tóxicas o peligrosas
+### CAPITULO XI. Tabaco
 
-> <small>(REFORMADO, D.O.F. 7 DE MAYO DE 1997)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 ###### ARTICULO 221.
 
@@ -3680,9 +3688,9 @@ Los medicamentos de origen biológico de acción inmunológica ostentarán en su
 
 Quedan prohibidos la venta y suministro de medicamentos con fecha de caducidad vencida.
 
-### CAPITULO XII BIS. Productos biotecnológicos
+### CAPITULO XII. Plaguicidas, nutrientes vegetales y substancias tóxicas o peligrosas
 
-> <small>(ADICIONADO, D.O.F. 7 DE MAYO DE 1997)</small>
+> <small>(REFORMADO, D.O.F. 7 DE MAYO DE 1997)</small>
 
 ###### ARTICULO 234.
 
@@ -3794,9 +3802,9 @@ Los citados establecimientos recogerán invariablemente las recetas o permisos, 
 
 Los preparados que contengan acetildihidrocodeína, codeína, destropropoxifeno, dihidrocodeína, etilmorfina, folcodina, nicocodina, corcodeína y propiram, que formen parte de la composición de especialidades farmacéuticas, estarán sujetos, para los fines de su preparación, prescripción y venta o suministro al público, a los requisitos que sobre su formulación establezca la Secretaría de Salud.
 
-### CAPITULO XIII. Importación y exportación
+### CAPITULO XII BIS. Productos biotecnológicos
 
-> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
+> <small>(ADICIONADO, D.O.F. 7 DE MAYO DE 1997)</small>
 
 ###### ARTICULO 244.
 
@@ -4280,7 +4288,7 @@ Los medicamentos que tengan incorporadas substancias psicotrópicas que puedan c
 
 Los envases y empaques de las substancias psicotrópicas, para su expendio llevarán etiquetas que, además de los requisitos que determina el artículo 210 de esta Ley, ostenten los que establezcan las disposiciones aplicables a la materia de este Capítulo.
 
-### CAPITULO UNICO
+### CAPITULO XIII. Importación y exportación
 
 > <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
 
@@ -4356,9 +4364,9 @@ VI.- En los establecimientos señalados en la fracción XII, el Consejo de Salub
 
 En los casos en que resulten afectadas, por acción u omisión, la identidad, pureza, conservación, preparación, dosificación o manufactura de los productos, el responsable del establecimiento y el propietario del mismo responderán solidariamente de las sanciones que correspondan en los términos que señalen esta Ley y demás disposiciones legales aplicables.
 
-### CAPITULO I. Disposiciones comunes
+### CAPITULO UNICO
 
-> <small>(REFORMADO, D.O.F. 26 DE MAYO DE 2000)</small>
+> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
 
 ###### ARTICULO 262.
 
@@ -4442,9 +4450,9 @@ La violación de esta disposición se sancionará en los términos previstos en 
 
 > <small>(REFORMADA SU DENOMINACION, D.O.F. 7 DE JUNIO DE 2011)</small>
 
-### CAPITULO II. Donación
+### CAPITULO I. Disposiciones comunes
 
-> <small>(REFORMADO Y REUBICADO, D.O.F. 26 DE MAYO DE 2000)</small>
+> <small>(REFORMADO, D.O.F. 26 DE MAYO DE 2000)</small>
 
 ###### ARTICULO 269.
 
@@ -4468,13 +4476,11 @@ Los responsables de la publicidad de productos cosméticos deberán presentar av
 
 Nombre y domicilio del fabricante, nombre y domicilio del importador y distribuidor, marca, nombre y Registro Federal de Contribuyentes del responsable del producto y de la publicidad.
 
-> <small>(REFORMADO, D.O.F. 19 DE JUNIO DE 2007)</small>
+> <small>(REFORMADO, D.O.F. 1 DE SEPTIEMBRE DE 2011)</small>
 
 ###### ARTICULO 271.
 
-Los productos para adelgazar o engrosar partes del cuerpo o variar las proporciones del mismo, así como aquellos destinados a los fines a que se refiere el artículo 269 de esta Ley, que contengan hormonas, vitaminas y, en general, substancias con acción terapéutica que se les atribuya esta acción, serán considerados como medicamentos y deberán sujetarse a lo previsto en el Capitulo IV de este Título.
-
-Cualquier cirugía estética y cosmética relacionada con cambiar o corregir el contorno o forma de diferentes zonas o regiones de la cara y del cuerpo, deberán efectuarse en establecimientos o unidades médicas con licencia sanitaria vigente, atendidos por profesionales de la salud de conformidad con lo que establece el artículo 81 y se encuentren autorizados por la Secretaría de Salud conforme al reglamento correspondiente.
+Los productos para adelgazar o engrosar partes del cuerpo o variar las proporciones del mismo; así como aquellos destinados a los fines a que se refiere el artículo 269 de esta Ley; que contengan hormonas, vitaminas y, en general, substancias con acción terapéutica que se les atribuya esta acción, serán considerados medicamentos y deberán sujetarse a lo previsto en el Capítulo IV de este Título.
 
 ###### ARTICULO 272.
 
@@ -4484,13 +4490,45 @@ En las etiquetas de los envases y empaques en los que se presenten los productos
 
 Para la declaración de ingredientes se utilizarán las nomenclaturas técnicas internacionales que determine la normatividad aplicable.
 
-### CAPITULO III. Trasplantes
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 1 DE SEPTIEMBRE DE 2011)</small>
+
+### CAPITULO II. Donación
 
 > <small>(REFORMADO Y REUBICADO, D.O.F. 26 DE MAYO DE 2000)</small>
 
-### CAPITULO IV. Pérdida de la vida
+###### ARTICULO 272 Bis.
 
-> <small>(REFORMADO, D.O.F. 11 DE JUNIO DE 2009)</small>
+Para la realización de cualquier procedimiento médico quirúrgico de especialidad, los profesionales que lo ejerzan requieren de:
+
+I. Cédula de especialista legalmente expedida por las autoridades educativas competentes.
+
+II. Certificado vigente de especialista que acredite capacidad y experiencia en la práctica de los procedimientos y técnicas correspondientes en la materia, de acuerdo a la Lex Artis Ad Hoc de cada especialidad, expedido por el Consejo de la especialidad según corresponda, de conformidad con el artículo 81 de la presente Ley.
+
+Los médicos especialistas podrán pertenecer a una agrupación médica, cuyas bases de organización y funcionamiento estarán a cargo de las asociaciones, sociedades, colegios o federaciones de profesionales de su especialidad; agrupaciones que se encargan de garantizar el profesionalismo y ética de los expertos en esta práctica de la medicina.
+
+El Comité Normativo Nacional de Consejos de Especialidades Médicas y los Consejos de Especialidades Médicas para la aplicación del presente artículo y lo dispuesto en el Título Cuarto de la presente Ley, se sujetarán a las disposiciones que emita la Secretaría de Salud.
+
+> <small>(ADICIONADO, D.O.F. 1 DE SEPTIEMBRE DE 2011)</small>
+
+###### ARTICULO 272 Bis 1.
+
+La cirugía plástica, estética y reconstructiva relacionada con cambiar o corregir el contorno o forma de diferentes zonas o regiones de la cara y del cuerpo, deberá efectuarse en establecimientos o unidades médicas con licencia sanitaria vigente, atendidos por profesionales de la salud especializados en dichas materias, de conformidad con lo que establece el artículo 272 Bis.
+
+> <small>(ADICIONADO, D.O.F. 1 DE SEPTIEMBRE DE 2011)</small>
+
+###### ARTICULO 272 Bis 2.
+
+La oferta de los servicios que se haga a través de medios informativos, ya sean impresos, electrónicos u otros, por profesionistas que ejerzan cirugía plástica, estética o reconstructiva; así como, los establecimientos o unidades médicas en que se practiquen dichas cirugías, deberán prever y contener con claridad en su publicidad los requisitos que se mencionan en los artículos 83, 272 Bis, 272 Bis 1 y en lo previsto en el Capítulo Único del Título XIII de esta Ley.
+
+> <small>(ADICIONADO, D.O.F. 1 DE SEPTIEMBRE DE 2011)</small>
+
+###### ARTICULO 272 Bis 3.
+
+Las sociedades, asociaciones, colegios o federaciones de profesionistas pondrán a disposición de la Secretaría de Salud, un directorio electrónico, con acceso al público que contenga los nombres, datos de los profesionistas que lleven a cabo procedimientos médico-quirúrgicos y certificado de especialización vigente, además de proporcionar el nombre y datos de la Institución y/o Instituciones educativas, que avalen su ejercicio profesional.
+
+### CAPITULO III. Trasplantes
+
+> <small>(REFORMADO Y REUBICADO, D.O.F. 26 DE MAYO DE 2000)</small>
 
 ###### ARTICULO 273.
 
@@ -4522,9 +4560,9 @@ IX.- Los demás de naturaleza análoga que determine la Secretaría de Salud.
 
 En las etiquetas de los envases y empaques en los que se presenten los productos a que se refiere el artículo anterior, además de lo establecido en el artículo 210 de esta Ley, en lo conducente, figurarán las leyendas que determinen las disposiciones aplicables.
 
-### CAPITULO V. Cadáveres
+### CAPITULO IV. Pérdida de la vida
 
-> <small>(REFORMADO Y REUBICADO, D.O.F. 26 DE MAYO DE 2000)</small>
+> <small>(REFORMADO, D.O.F. 11 DE JUNIO DE 2009)</small>
 
 ###### ARTICULO 275.
 
@@ -4550,9 +4588,9 @@ En las etiquetas de los envases y empaques en los que se presenten los productos
 
 > <small>(REFORMADA SU DENOMINACION, D.O.F. 7 DE MAYO DE 1997)</small>
 
-### CAPITULO I. Disposiciones comunes
+### CAPITULO V. Cadáveres
 
-> <small>(REFORMADO, D.O.F. 7 DE MAYO DE 1997)</small>
+> <small>(REFORMADO Y REUBICADO, D.O.F. 26 DE MAYO DE 2000)</small>
 
 ###### ARTICULO 278.
 
@@ -4612,7 +4650,9 @@ El control sanitario de las substancias a que se refiere el artículo 278, se aj
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 7 DE MAYO DE 1997)</small>
 
-### CAPITULO II. Sanidad en Materia de Migración
+### CAPITULO I. Disposiciones comunes
+
+> <small>(REFORMADO, D.O.F. 7 DE MAYO DE 1997)</small>
 
 ###### ARTICULO 282 Bis.
 
@@ -4630,9 +4670,9 @@ Se deberá notificar a la Secretaría de Salud, de todos aquellos productos biot
 
 Las disposiciones y especificaciones relacionadas con el proceso, características y etiquetas de los productos objeto de este capítulo, se establecerán en las normas oficiales mexicanas correspondientes.
 
-### CAPITULO III. Sanidad marítima, aérea y terrestre
+### CAPITULO II. Sanidad en Materia de Migración
 
-### CAPITULO I. Autorizaciones
+### CAPITULO III. Sanidad marítima, aérea y terrestre
 
 ###### ARTICULO 283.
 
@@ -4766,7 +4806,7 @@ Cuando se autorice la importación de las substancias mencionadas en el artícul
 
 ## TITULO DECIMO QUINTO. Sanidad Internacional
 
-### CAPITULO II. Revocación de autorizaciones sanitarias
+### CAPITULO I. Autorizaciones
 
 ###### ARTICULO 300.
 
@@ -4950,7 +4990,7 @@ TITULO DECIMOCUARTO
 
 Donación, trasplantes y pérdida de la vida
 
-### CAPITULO III. Certificados
+### CAPITULO II. Revocación de autorizaciones sanitarias
 
 ###### ARTICULO 313.
 
@@ -5094,9 +5134,7 @@ Se considerará disposición ilícita de órganos, tejidos, células y cadávere
 
 > <small>(REFORMADA SU DENOMINACION, D.O.F. 26 DE MAYO DE 2000)</small>
 
-### CAPITULO UNICO
-
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 27 DE MAYO DE 1987)</small>
+### CAPITULO III. Certificados
 
 ###### ARTICULO 320.
 
@@ -5188,9 +5226,9 @@ De igual forma el Centro Nacional de Trasplantes se encargará de expedir el doc
 
 > <small>(REFORMADA SU DENOMINACION Y REUBICADO, D.O.F. 26 DE MAYO DE 2000)</small>
 
-### CAPITULO I. Medidas de Seguridad Sanitaria
+### CAPITULO UNICO
 
-> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 27 DE MAYO DE 1987)</small>
 
 ###### ARTICULO 330.
 
@@ -5320,7 +5358,9 @@ Asimismo, el Centro Nacional de Trasplantes fomentará la cultura de la donació
 
 > <small>(REFORMADO, D.O.F. 30 DE JUNIO DE 2003)</small>
 
-### CAPITULO II. Sanciones Administrativas
+### CAPITULO I. Medidas de Seguridad Sanitaria
+
+> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
 
 ###### ARTICULO 340.
 
@@ -5348,7 +5388,7 @@ Cualquier órgano o tejido que haya sido extraído, desprendido o seccionado por
 
 > <small>(ADICIONADO, D.O.F. 26 DE MAYO DE 2000)</small>
 
-### CAPITULO III. Procedimiento Para Aplicar las Medidas de Seguridad y Sanciones
+### CAPITULO II. Sanciones Administrativas
 
 ###### ARTICULO 343.
 
@@ -5382,7 +5422,7 @@ No existirá impedimento alguno para que a solicitud y con la autorización de l
 
 > <small>(ADICIONADO, D.O.F. 26 DE MAYO DE 2000)</small>
 
-### CAPITULO IV. Recurso de inconformidad
+### CAPITULO III. Procedimiento Para Aplicar las Medidas de Seguridad y Sanciones
 
 ###### ARTICULO 346.
 
@@ -5484,7 +5524,7 @@ Los establecimientos en los que se realicen actos relacionados con cadáveres de
 
 ## TITULO DECIMO SEXTO. Autorizaciones y certificados
 
-### CAPITULO V. Prescripción
+### CAPITULO IV. Recurso de inconformidad
 
 ###### ARTICULO 351.
 
@@ -5538,9 +5578,7 @@ Cuando en las localidades donde residan cónsules mexicanos aparezcan casos de e
 
 La Secretaría de Salud notificará a la Organización Mundial de la Salud de todas medidas (sic) que haya adoptado, de modo temporal o permanente, en materia de sanidad internacional. Asimismo, informará a esta misma organización y con la oportunidad debida, sobre cualquier caso que sea de interés en la vigilancia epidemiológica de las enfermedades que se citan en el Reglamento Sanitario Internacional, las que puedan originar epidemias o cualesquiera otras que considere de importancia notificar.
 
-### CAPITULO VI. Delitos
-
-> <small>(REFORMADO, D.O.F. 7 DE MAYO DE 1997)</small>
+### CAPITULO V. Prescripción
 
 ###### ARTICULO 360.
 
@@ -5562,9 +5600,9 @@ La Secretaría de Salud determinará qué otras enfermedades transmisibles queda
 
 Las personas comprendidas en lo dispuesto en el artículo anterior, quedarán bajo vigilancia y aislamiento en los lugares que la autoridad sanitaria determine, o en los que señale el interesado, si fueran aceptados por la autoridad, en tanto se decida, mediante el examen médico pertinente, si es aceptada o no su internación más allá del sitio de confinamiento, y se le preste, en su caso, la atención médica correspondiente.
 
-### CAPITULO VII. Delitos Contra la Salud en su modalidad de Narcomenudeo
+### CAPITULO VI. Delitos
 
-> <small>(ADICIONADO, D.O.F. 20 DE AGOSTO DE 2009)</small>
+> <small>(REFORMADO, D.O.F. 7 DE MAYO DE 1997)</small>
 
 ###### ARTICULO 363.
 
@@ -5595,6 +5633,10 @@ La Secretaría de Salud determinará el tipo de servicio médico, medicamentos, 
 Las embarcaciones y aeronaves procedentes del extranjero con destino al territorio nacional, así como las que partan del territorio nacional al extranjero, deberán estar provistas de la documentación sanitaria exigida por los tratados y convenciones internacionales a que se refiere el artículo 351 de esta Ley y demás disposiciones generales aplicables.
 
 ## TITULO DECIMO SEPTIMO. Vigilancia Sanitaria
+
+### CAPITULO VII. Delitos Contra la Salud en su modalidad de Narcomenudeo
+
+> <small>(ADICIONADO, D.O.F. 20 DE AGOSTO DE 2009)</small>
 
 ###### ARTICULO 368.
 
@@ -7165,3 +7207,9 @@ D.O.F. 5 DE AGOSTO DE 2011.
 Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 Segundo.- La Secretaría contará con un plazo de 180 días naturales para emitir las disposiciones administrativas necesarias para la aplicación de este Decreto.
+
+D.O.F. 1 DE SEPTIEMBRE DE 2011.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- La Secretaría de Salud contará con un plazo no mayor a 120 días contados a partir de su publicación en el Diario Oficial de la Federación, para emitir las disposiciones a que se refiere el artículo 272 Bis de la presente Ley.
