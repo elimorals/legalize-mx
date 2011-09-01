@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-ciencia-y-tecnologia-del-estado-de-mexico-49893"
 country: "mx"
 rank: "ley"
 publication_date: "2004-12-31"
-last_updated: "2004-12-31"
+last_updated: "2011-09-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=49893&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "MEX"
 
 LEY DE CIENCIA Y TECNOLOGIA DEL ESTADO DE MEXICO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO EN EL ARTICULO TERCERO TRANSITORIO DEL DECRETO NUMERO 337, PUBLICADO EN LA G.G. DE 1 DE SEPTIEMBRE DE 2011, CUANDO EN OTROS ORDENAMIENTOS LEGALES, SE HAGA REFERENCIA AL TERMINO PERSONAS CON CAPACIDADES DIFERENTES, SE ENTENDERA QUE CORRESPONDE AL TERMINO PERSONAS CON DISCAPACIDAD.</small>
+
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 1 DE SEPTIEMBRE DE 2011.
 
 Ley publicada en la Tercera Sección Bis de la Gaceta del Gobierno del Estado de México, el viernes 31 de diciembre de 2004.
 
@@ -393,7 +395,9 @@ III. Promover actividades para prever, controlar y dar atención oportuna a situ
 
 IV. Impulsar el desarrollo de la ciencia e innovación tecnológica para el mejoramiento de la calidad de la educación en la entidad;
 
-V. Promover la investigación científica y desarrollo tecnológico para la ejecución de programas que den atención a personas con capacidades diferentes, así como a grupos marginados o en extrema pobreza;
+> <small>(REFORMADA, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
+
+V. Promover la investigación científica y desarrollo tecnológico para la ejecución de programas que den atención a personas discapacitadas, así como a grupos marginados o en extrema pobreza;
 
 VI. Orientar las actividades de investigación científica y desarrollo tecnológico de la entidad conforme al Plan Estatal de Desarrollo;
 
@@ -606,3 +610,15 @@ EL SECRETARIO GENERAL DE GOBIERNO
 MANUEL CADENA MORALES
 
 (RUBRICA).
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+G.G. 1 DE SEPTIEMBRE DE 2011.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- Cuando en otros ordenamientos legales, se haga referencia al término personas con capacidades diferentes, se entenderá que corresponde al término personas con discapacidad.
+
+CUARTO.- El Ejecutivo del Estado hará las modificaciones a los reglamentos, decretos administrativos, acuerdos y demás disposiciones de su competencia, para incorporar a estos el término de discapacitados en sustitución de personas con capacidades diferentes, de acuerdo con el presente Decreto.
