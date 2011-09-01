@@ -4,7 +4,7 @@ identifier: "MOR-ley-general-de-hacienda-municipal-del-estado-de-morelos-6633"
 country: "mx"
 rank: "ley_general"
 publication_date: "1984-01-04"
-last_updated: "2010-06-16"
+last_updated: "2011-09-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6633&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY GENERAL DE HACIENDA MUNICIPAL DEL ESTADO DE MORELOS 1984
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE JUNIO DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE SEPTIEMBRE DE 2011.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Morelos, el miércoles 4 de enero de 1984.
 
@@ -3179,11 +3179,63 @@ Cuando las obras para el suministro de aguas hayan sido financiadas mediante emp
 
 Con respecto a tarifas aplicables en este capítulo, se estará a las que establezcan las Juntas de Sistema de Agua Potable en cada Municipio, o a las vigentes en 1983 en el Municipio correspondiente, incrementadas en un 35%.
 
-### CAPITULO UNICO
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 1 DE SEPTIEMBRE DE 2011)</small>
+
+### CAPITULO VIGESIMO QUINTO. DE LA RECUPERACION DE LOS MATERIALES UTILIZADOS EN EL PROCESO DE RESPUESTA A LAS SOLICITUDES DE ACCESO A LA INFORMACION PUBLICA
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 1 DE SEPTIEMBRE DE 2011)</small>
+
+ARTICULO 204 BIS. Por la reproducción de copias simples de información pública, derivado de la solicitud de acceso a la información, se causarán 0.00882 días de Salario Mínimo General Vigente en el Estado por cada una de las reproducciones de copias simples.
+
+Queda exenta del pago que se prevé en el presente artículo la información que se genere con motivo de la respuesta a una solicitud de acceso a los datos personales o la corrección de éstos. Asimismo por éste concepto no se generara el impuesto a que hace referencia el Capítulo Tercero Título Segundo de la presente Ley.
+
+El cobro de Derechos por conceptos de copias certificadas se causará de conformidad con lo establecido en el Capitulo Décimo Quinto del presente Título.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 1 DE SEPTIEMBRE DE 2011)</small>
+
+ARTICULO 204 TER. Por la reproducción de información en otros medios:
+
+N° CONCEPTO TARIFA EN DÍAS DE
+
+SALARIO MÍNIMO
+
+GENERAL VIGENTE
+
+EN EL
+
+ESTADO
+
+1. En medios informáticos por unidad
+
+a) Disco magnético de tres y
+
+media pulgada 0.0705
+
+b) Disco Compacto (CD) 0.1411
+
+c) Disco Versátil Digital (DVD) 0.1940
+
+2. En medios holográficos por unidad
+
+3. Impresiones por cada hoja 0.0176
+
+4. Impresiones en papel heliográfico
+
+hasta 60 x 90 cm.
+
+Por cada 25 cm. Extras
+
+Los solicitantes que proporcionen el material en el que sea reproducida la información pública quedarán exentos del pago previsto en éste artículo. Asimismo por este concepto no se generará el impuesto a que hace referencia el Capítulo Tercero Título Segundo de la presente Ley.
 
 ## TITULO QUINTO. PRODUCTOS
 
-### CAPITULO PRIMERO. REZAGOS
+### CAPITULO UNICO
 
 ###### ARTICULO 205.
 
@@ -3199,13 +3251,13 @@ El arrendamiento, la explotación, el traspaso y la cesión de bienes de propied
 
 Son aprovechamientos, los ingresos municipales ordinarios, no clasificados como impuestos, derechos o productos. Quedan comprendidos como tales los siguientes: (sic)
 
-### CAPITULO SEGUNDO. RECARGOS
+### CAPITULO PRIMERO. REZAGOS
 
 ###### ARTICULO 208.
 
 Son los adeudos fiscales municipales que no fueron cubiertos en su oportunidad legal, los que se exigirán conforme a las bases vigentes en la fecha en que se generó la obligación.
 
-### CAPITULO TERCERO. MULTAS
+### CAPITULO SEGUNDO. RECARGOS
 
 ###### ARTICULO 209.
 
@@ -3217,7 +3269,7 @@ Si el pago se hace por intervención de la autoridad fiscal, se aplicarán adem�
 
 Los causantes que obtengan plazos para cubrir sus adeudos, además de la suerte principal, pagarán intereses que se computarán anualmente sobre saldos insolutos a la tasa que se determine en la Ley de Ingresos Municipal de cada ejercicio.
 
-### CAPITULO CUARTO. REINGRESOS
+### CAPITULO TERCERO. MULTAS
 
 ###### ARTICULO 211.
 
@@ -3233,7 +3285,7 @@ a).- Las infracciones leves se sancionarán de $1,000.00 a $10,000.00, de acuerd
 
 b).- Las infracciones graves se sancionarán de $10,001.00 en adelante de acuerdo a la gravedad de la infracción.
 
-### CAPITULO QUINTO. GASTOS DE NOTIFICACION, EJECUCION E INSPECCION FISCAL
+### CAPITULO CUARTO. REINGRESOS
 
 ###### ARTICULO 213.
 
@@ -3245,7 +3297,7 @@ II.- Cuando por improcedencia del pago de cualquier naturaleza deba exigirlo com
 
 III.- Devoluciones por faltantes en el manejo de fondos.
 
-### CAPITULO SEXTO. OTROS INGRESOS
+### CAPITULO QUINTO. GASTOS DE NOTIFICACION, EJECUCION E INSPECCION FISCAL
 
 ###### ARTICULO 214.
 
@@ -3253,9 +3305,7 @@ Los gastos que se originen durante el desarrollo del procedimiento administrativ
 
 La intervención de inspectores, en los casos en que se determinen violaciones a esta Ley u otras Leyes Municipales vigentes, Reglamentos o cualquier Ordenamiento, causará gastos de inspección, los que se calcularán tomando base la calificación de la infracción cometida y aplicando el porcentaje que señale la Ley de Ingresos Municipal de cada ejercicio.
 
-### CAPITULO SEPTIMO. INGRESOS DIVERSOS
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE JULIO DE 2008)</small>
+### CAPITULO SEXTO. OTROS INGRESOS
 
 ###### ARTICULO 215.
 
@@ -3280,6 +3330,10 @@ a).- Por no conservar en buen estado las obras de: $20,000.00 a $150,000.00.
 b).- Por no otorgar la fianza establecida de: $10,000.00 a $50,000.00.
 
 La sanción podrá aumentarse progresivamente en tanto no se realice la conducta omitida.
+
+### CAPITULO SEPTIMO. INGRESOS DIVERSOS
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE JULIO DE 2008)</small>
 
 ###### ARTICULO 217.
 
@@ -3464,6 +3518,14 @@ SEGUNDO.- El presente decreto entrará en vigor al día siguiente de su publicac
 TERCERO.- Se derogan todas las disposiciones que se opongan al presente decreto.
 
 CUARTO.- Los actuales procedimientos de divorcio administrativo que se estén realizando ante la Dirección del Registro Civil del Estado de Morelos deberán concluirse ante la misma.
+
+P.O. 1 DE SEPTIEMBRE DE 2011.
+
+PRIMERO.- Aprobado que sea el presente decreto, entrará en vigor a los treinta días naturales siguientes a partir de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado Libre y Soberano de Morelos.
+
+SEGUNDO.- Túrnese el presente Decreto al Titular del Poder Ejecutivo del Estado de Morelos, para los efectos constitucionales respectivos.
+
+TERCERO.- Se derogan las disposiciones de las Leyes de Ingresos Municipales correspondientes, en lo relativo a los costos de materiales utilizados en el proceso de respuesta a las solicitudes de acceso a la información pública u otros conceptos análogos y todo aquello que se contraponga a lo establecido en la presente ley.
 
 ###### ARTÍCULO PRIMERO.
 
