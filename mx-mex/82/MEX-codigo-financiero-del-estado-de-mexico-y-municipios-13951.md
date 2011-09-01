@@ -4,7 +4,7 @@ identifier: "MEX-codigo-financiero-del-estado-de-mexico-y-municipios-13951"
 country: "mx"
 rank: "codigo"
 publication_date: "1999-03-09"
-last_updated: "2011-01-12"
+last_updated: "2011-09-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13951&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ CODIGO FINANCIERO DEL ESTADO DE MEXICO Y MUNICIPIOS
 
 ULTIMA ACTUALIZACION POR ACUERDO EN QUE SE DAN A CONOCER LAS CUOTAS Y TARIFAS PARA EL EJERCICIO FISCAL DE 2011: 1 DE ENERO DE 2011.
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 21 DE DICIEMBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 1 DE SEPTIEMBRE DE 2011.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el martes 9 de marzo de 1999.
 
@@ -2389,9 +2389,9 @@ VI. Pensiones, jubilaciones y gastos funerarios.
 
 VII. (DEROGADA, G.G. 29 DE DICIEMBRE DE 2006)
 
-> <small>(REFORMADA, G.G. 22 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADA, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
 
-VIII. Pagos a personas con capacidades diferentes.
+VIII. Pagos a personas discapacitadas.
 
 IX. (DEROGADA, G.G. 29 DE DICIEMBRE DE 2000)
 
@@ -3721,9 +3721,9 @@ CONCEPTO
 
 I. Por la expedición inicial de placas, tarjeta de circulación y calcomanía:
 
-A). Para vehículos de servicio particular y capacidades
+> <small>(REFORMADO, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
 
-diferentes. $499
+A). Para vehículos de servicio particular y discapacitados. $499
 
 B). Para vehículos particulares de carga comercial. $1,053
 
@@ -3753,7 +3753,9 @@ Los derechos previstos en esta fracción se pagarán previamente a la prestació
 
 II. Por refrendo anual:
 
-A). Para vehículos de uso particular y capacidades diferentes. $332
+> <small>(REFORMADO, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
+
+A). Para vehículos de uso particular y discapacitados. $332
 
 B). Para vehículos particulares de carga comercial. $945
 
@@ -3851,7 +3853,9 @@ vehículo. $51
 
 X. Por el canje de placas, tarjeta de circulación y calcomanía:
 
-A). Para vehículos de uso particular y capacidades diferentes. $447
+> <small>(REFORMADO, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
+
+A). Para vehículos de uso particular y discapacitados. $447
 
 B). Para vehículos destinados a carga mercantil. $773
 
@@ -5741,9 +5745,9 @@ Están obligadas al pago de este impuesto las personas físicas y jurídicas col
 
 Para efectos de este impuesto se entiende por adquisición, la que se derive de:
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 29 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
 
-I. Todo acto por el que se adquiera la propiedad, incluyendo la donación, la que ocurra por causa de muerte, la aportación de toda clase de asociaciones o sociedades e incluso los bienes que el trabajador se adjudique por virtud de remate judicial, a excepción de las que se realicen al constituir la copropiedad o la sociedad conyugal, siempre que sean inmuebles propiedad de los copropietarios o de los cónyuges, o cuando se trate de donación de inmuebles a asociaciones y sociedades que tengan por objeto social la atención a personas con capacidades diferentes y promuevan el cuidado del medio ambiente, y cuyo valor no supere los $200,000.00.
+I. Todo acto por el que se adquiera la propiedad, incluyendo la donación, la que ocurra por causa de muerte, la aportación de toda clase de asociaciones o sociedades e incluso los bienes que el trabajador se adjudique por virtud de remate judicial, a excepción de las que se realicen al constituir la copropiedad o la sociedad conyugal, siempre que sean inmuebles propiedad de los copropietarios o de los cónyuges, o cuando se trate de donación de inmuebles a asociaciones y sociedades que tengan por objeto social la atención a personas discapacitadas y promuevan el cuidado del medio ambiente, y cuyo valor no supere los $200,000.00.
 
 En las permutas se considerará que se efectúan dos adquisiciones.
 
@@ -8017,9 +8021,9 @@ A). Adulto 7.00
 
 B). Niño 5.00
 
-> <small>(REFORMADO, G.G. 22 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
 
-El Ayuntamiento mediante acuerdo de cabildo determinará a favor de pensionados, jubilados, personas con capacidades diferentes, adultos mayores y viudas sin ingresos fijos; que acrediten fehacientemente encontrarse en estos supuestos, y comprueben un bajo nivel de ingresos económicos, el otorgamiento de bonificaciones de hasta el 50%, en el pago de los derechos a que se refiere este artículo.
+El Ayuntamiento mediante acuerdo de cabildo determinará a favor de pensionados, jubilados, personas con discapacidades, adultos mayores y viudas sin ingresos fijos; que acrediten fehacientemente encontrarse en estos supuestos, y comprueben un bajo nivel de ingresos económicos, el otorgamiento de bonificaciones de hasta el 50%, en el pago de los derechos a que se refiere este artículo.
 
 > <small>(REFORMADO PRIMER PARRAFO, G.G. 24 DE DICIEMBRE DE 1999)</small>
 
@@ -10231,8 +10235,6 @@ D). El 100% de la recaudación del Impuesto sobre Erogaciones por Remuneraciones
 
 Los municipios percibirán los recursos del Fondo de Fomento Municipal constituido por las cantidades que ministra el Gobierno Federal al Estado, en los términos de la Ley de Coordinación Fiscal.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
 
 ###### Artículo 221.
@@ -10241,11 +10243,9 @@ A las participaciones e incentivos federales derivados de los convenios a que se
 
 La Recaudación Estatal Participable se distribuirá conforme a la fórmula siguiente:
 
-> <small>N. DE E. VÉASE FÓRMULA EN LA SECCIÓN TERCERA DE LA G.G. DE 26 DE DICIEMBRE DE 2007, PÁGINA 80.</small>
+(VEASE ARCHIVO ANEXO)
 
-> <small>N. DE E. VÉASE REFORMAS A LA FÓRMULA EN LA SECCIÓN QUINTA DE LA G.G. DE 18 DE DICIEMBRE DE 2008, PÁGINA 60.</small>
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
 > <small>(REFORMADO, G.G. 10 DE DICIEMBRE DE 2009)</small>
 
@@ -10253,7 +10253,7 @@ La fórmula anterior no será aplicable en el evento de que en el año de cálcu
 
 La Secretaría deberá publicar las reglas para la asignación de las participaciones federales y estatales a los municipios, las cuales deberán contener las definiciones de los conceptos referidos en este Código a través del Periódico Oficial “Gaceta del Gobierno” y en Internet.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
 > <small>(REFORMADO, G.G. 21 DE DICIEMBRE DE 2010)</small>
 
@@ -14270,6 +14270,16 @@ G.G. 1 DE ENERO DE 2011.
 Primero.- Publíquese en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
 
 Segundo.- Dese a conocer a las Dependencias de la Administración Pública del Gobierno del Estado de México, así como a las Unidades Administrativas de la Subsecretaria de Ingresos.
+
+G.G. 1 DE SEPTIEMBRE DE 2011.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- Cuando en otros ordenamientos legales, se haga referencia al término personas con capacidades diferentes, se entenderá que corresponde al término personas con discapacidad.
+
+CUARTO.- El Ejecutivo del Estado hará las modificaciones a los reglamentos, decretos administrativos, acuerdos y demás disposiciones de su competencia, para incorporar a estos el término de discapacitados en sustitución de personas con capacidades diferentes, de acuerdo con el presente Decreto.
 
 ## [N. DE E. TRANSITORIOS DEL “ACUERDO POR EL QUE SE DA A CONOCER EL MANUAL GRÁFICO PARA EL USO DE UNIFORMES, DIVISAS Y EQUIPO DEL EJÉRCITO Y FUERZA AÉREA MEXICANOS”.]
 
