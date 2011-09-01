@@ -4,7 +4,7 @@ identifier: "MEX-ley-para-la-proteccion-de-los-derechos-de-las-ninas-ninos-y-409
 country: "mx"
 rank: "ley"
 publication_date: "2004-09-10"
-last_updated: "2011-08-12"
+last_updated: "2011-09-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40968&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "MEX"
 
 LEY PARA LA PROTECCION DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 12 DE AGOSTO DE 2011.
+> <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO EN EL ARTICULO TERCERO TRANSITORIO DEL DECRETO NUMERO 337, PUBLICADO EN LA G.G. DE 1 DE SEPTIEMBRE DE 2011, CUANDO EN OTROS ORDENAMIENTOS LEGALES, SE HAGA REFERENCIA AL TERMINO PERSONAS CON CAPACIDADES DIFERENTES, SE ENTENDERA QUE CORRESPONDE AL TERMINO PERSONAS CON DISCAPACIDAD.</small>
+
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 1 DE SEPTIEMBRE DE 2011.
 
 Ley publicada en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el viernes 10 de septiembre de 2004.
 
@@ -103,11 +105,11 @@ IX. Familia Sustituta o adoptiva: Grupo de individuos que va a sustituir provisi
 
 X. Maltrato: Todo acto de agresión física, psicoemocional, verbal, patrimonial o sexual que cause daño a la integridad de las niñas, niños y adolescentes;
 
-XI. Capacidad Diferente: Aquellas personas que sufren una pérdida, alteración o disminución de un órgano o función física, sensorial o intelectual, que limita las actividades de la vida diaria e impide su desarrollo individual y social;
+> <small>(REFORMADA, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
 
-> <small>(REFORMADA, G.G. 5 DE ABRIL DE 2010)</small>
+XI. Discapacidad: Aquellas personas que sufren una pérdida, alteración o disminución de un órgano o función física, sensorial o intelectual, que limita las actividades de la vida diaria e impide su desarrollo individual y social;
 
-XII. Discapacidad: Es toda restricción o ausencia de la capacidad de realizar una actividad en la forma o dentro del margen que se considera normal para una persona;
+XII. (DEROGADA, G.G. 1 DE SEPTIEMBRE DE 2011)
 
 XIII. Niñas, niños y adolescentes que se encuentren en circunstancias especialmente difíciles: Aquellas que dentro o fuera del ámbito familiar y en especial por causas de pobreza o miseria, estén temporal o permanentemente sujetos a:
 
@@ -119,7 +121,9 @@ c) Desintegración Familiar;
 
 d) Enfermedades severas físicas, mentales o emocionales;
 
-e) Alguna Discapacidad o Capacidad Diferente;
+> <small>(REFORMADO, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
+
+e) Alguna discapacidad;
 
 f) Padres privados de la libertad;
 
@@ -147,9 +151,11 @@ XXII. Hogar Provisional: El núcleo familiar que proporciona alojamiento tempora
 
 XXIII. Estado: Al Estado de México.
 
+> <small>(REFORMADO, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
+
 ###### ARTICULO 5.
 
-Esta Ley se aplicará a las niñas, niños y adolescentes sin distinción alguna independientemente de su origen, cultura, sexo, idioma, religión, ideología, nacionalidad, capacidades diferentes, circunstancias de nacimiento o cualquier otra condición propia de quienes legalmente ejerzan la patria potestad, su guarda o tutela en términos de las disposiciones aplicables, de la Legislación Civil o Penal para el Estado de México.
+Esta Ley se aplicará a las niñas, niños y adolescentes sin distinción alguna independientemente de su origen, cultura, sexo, idioma, religión, ideología, nacionalidad, discapacidades, circunstancias de nacimiento o cualquier otra condición propia de quienes legalmente ejerzan la patria potestad, su guarda o tutela en términos de las disposiciones aplicables, de la Legislación Civil o Penal para el Estado de México.
 
 ###### ARTICULO 6.
 
@@ -485,7 +491,9 @@ II. Promover y garantizar que las niñas, niños y adolescentes sean inscritos y
 
 III. Fomentar la educación preescolar en el Estado;
 
-IV. Proporcionar a las niñas, niños y adolescentes con capacidades diferentes o discapacidad, una educación básica, media y media superior acorde a sus necesidades;
+> <small>(REFORMADA, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
+
+IV. Proporcionar a las niñas, niños y adolescentes discapacitados, una educación básica, media y media superior acorde a sus necesidades;
 
 V. Fomentar que las niñas, niños y adolescentes que posean cualidades intelectuales por encima de la media, reciban una educación acorde a sus capacidades;
 
@@ -625,7 +633,9 @@ VII. Contribuir a la difusión de los principios, derechos y deberes de las niñ
 
 VIII. Rendir un informe anual de actividades al Ejecutivo Estatal y al Congreso Local, durante el mes de enero.
 
-## TITULO QUINTO. DE LAS NIÑAS, NIÑOS Y ADOLESCENTES EN CIRCUNSTANCIAS ESPECIALMENTE DIFICILES, CON CAPACIDADES DIFERENTES, EN SITUACION DE CALLE Y CON ADICCIONES
+> <small>(REFORMADA SU DENOMINACION, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
+
+## TITULO QUINTO. DE LAS NIÑAS, NIÑOS Y ADOLESCENTES EN CIRCUNSTANCIAS ESPECIALMENTE DIFICILES, DISCAPACITADOS, EN SITUACION DE CALLE Y CON ADICCIONES
 
 ### CAPITULO PRIMERO. DE LAS NIÑAS, NIÑOS Y ADOLESCENTES EN CIRCUNSTANCIAS ESPECIALMENTE DIFICILES
 
@@ -633,13 +643,17 @@ VIII. Rendir un informe anual de actividades al Ejecutivo Estatal y al Congreso 
 
 Toda persona, autoridad o institución que tenga conocimiento de que alguna niña, niño o adolescente, se encuentre en condiciones de vulnerabilidad o desventaja social, considerándose como tales el maltrato, abandono, abuso y explotación sexual y en los supuestos de sustracción o suplantación ilegal de la tutela, tendrán la obligación de hacerlo del conocimiento de la Procuraduría de la Defensa del Menor y de la Familia, así como de las autoridades competentes, sin perjuicio del derecho que tendrá el menor de denunciar todo maltrato en sus diferentes modalidades o abuso de que sea objeto; esto es con el fin de tomar las medidas necesarias para su protección y en caso de situación de riesgo o peligro inminente, se solicitará al Ministerio Público, dicte las medidas de protección que permitan atender de manera urgente la situación que enfrenten las niñas, niños o adolescentes.
 
+> <small>(REFORMADO, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
+
 ###### ARTICULO 42.
 
-Las Secretarías de Educación, Cultura y Bienestar Social, de Desarrollo Social, de Salud y el Sistema para el Desarrollo Integral de la Familia del Estado de México, impulsarán con la participación de las demás dependencias del Gobierno, Organismos Públicos e Instituciones Sociales y Privadas, los programas dirigidos a las niñas, niños y adolescentes para la prevención de capacidades diferentes o discapacidad, su rehabilitación, su integración familiar, educativa y social, así como la creación de talleres para su capacitación en el trabajo, recreación y participación en el deporte, encaminados a su rehabilitación integral.
+Las Secretarías de Educación, Cultura y Bienestar Social, de Desarrollo Social, de Salud y el Sistema para el Desarrollo Integral de la Familia del Estado de México, impulsarán con la participación de las demás dependencias del Gobierno, Organismos Públicos e Instituciones Sociales y Privadas, los programas dirigidos a las niñas, niños y adolescentes para la prevención de discapacidades, su rehabilitación, su integración familiar, educativa y social, así como la creación de talleres para su capacitación en el trabajo, recreación y participación en el deporte, encaminados a su rehabilitación integral.
+
+> <small>(REFORMADO, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
 
 ###### ARTICULO 43.
 
-El Sistema para el Desarrollo Integral de la Familia, en coordinación con la Secretaría de Desarrollo Social y demás dependencias e instituciones especializadas, implementarán acciones encaminadas a la protección y cuidado de las niñas, niños y adolescentes con capacidades diferentes o discapacidad, impulsando la construcción de Centros de Rehabilitación en los Sistemas para el Desarrollo Integral de la Familia de los Municipios del Estado de México.
+El Sistema para el Desarrollo Integral de la Familia, en coordinación con la Secretaría de Desarrollo Social y demás dependencias e instituciones especializadas, implementarán acciones encaminadas a la protección y cuidado de las niñas, niños y adolescentes discapacitados, impulsando la construcción de Centros de Rehabilitación en los Sistemas para el Desarrollo Integral de la Familia de los Municipios del Estado de México.
 
 ### CAPITULO SEGUNDO. DE LAS NIÑAS, NIÑOS Y ADOLESCENTES Y EN SITUACION DE CALLE Y CON ADICCIONES
 
@@ -838,3 +852,13 @@ PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del G
 SEGUNDO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
 
 TERCERO.- El Sistema para el Desarrollo Integral de la Familia del Estado de México, con el objeto de cumplir con lo dispuesto en la fracción XXI del artículo 18 de la Ley para la Protección de los Derechos de las Niñas, Niños y Adolecentes del Estado de México, dispondrá de un plazo de seis meses contados a partir de la publicación del presente decreto para desarrollar la base de datos correspondientes.
+
+G.G. 1 DE SEPTIEMBRE DE 2011.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- Cuando en otros ordenamientos legales, se haga referencia al término personas con capacidades diferentes, se entenderá que corresponde al término personas con discapacidad.
+
+CUARTO.- El Ejecutivo del Estado hará las modificaciones a los reglamentos, decretos administrativos, acuerdos y demás disposiciones de su competencia, para incorporar a estos el término de discapacitados en sustitución de personas con capacidades diferentes, de acuerdo con el presente Decreto.
