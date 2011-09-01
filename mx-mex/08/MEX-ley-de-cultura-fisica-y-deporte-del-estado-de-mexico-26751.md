@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-cultura-fisica-y-deporte-del-estado-de-mexico-26751"
 country: "mx"
 rank: "ley"
 publication_date: "2002-09-10"
-last_updated: "2002-09-10"
+last_updated: "2011-09-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26751&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "MEX"
 
 LEY DE CULTURA FISICA Y DEPORTE DEL ESTADO DE MEXICO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO EN EL ARTICULO TERCERO TRANSITORIO DEL DECRETO NUMERO 337, PUBLICADO EN LA G.G. DE 1 DE SEPTIEMBRE DE 2011, CUANDO EN OTROS ORDENAMIENTOS LEGALES, SE HAGA REFERENCIA AL TERMINO PERSONAS CON CAPACIDADES DIFERENTES, SE ENTENDERA QUE CORRESPONDE AL TERMINO PERSONAS CON DISCAPACIDAD.</small>
+
+ULTIMA REFORMA PUBLICADA EN LA GACETA DE GOBIERNO: 1 DE SEPTIEMBRE DE 2011.
 
 Ley publicada en la Gaceta del Gobierno, el 10 de septiembre de 2002.
 
@@ -327,9 +329,11 @@ Los integrantes de los sectores social y privado que celebren convenios en térm
 
 El Instituto promoverá con los sectores social y privado la constitución de un fideicomiso destinado a apoyar la promoción, fomento, desarrollo y capacitación de la cultura física y el deporte en el Estado de México.
 
+> <small>(REFORMADO, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
+
 ###### Artículo 26.
 
-Los rendimientos del fideicomiso se destinarán en parte al otorgamiento de estímulos a talentos deportivos, deportistas de alto rendimiento y en general a deportistas, entrenadores, jueces, árbitros y profesores de educación física, que se distingan por su trayectoria destacada en la cultura física o el deporte y particularmente a los deportistas con capacidades diferentes y adultos en plenitud.
+Los rendimientos del fideicomiso se destinarán en parte al otorgamiento de estímulos a talentos deportivos, deportistas de alto rendimiento y en general a deportistas, entrenadores, jueces, árbitros y profesores de educación física, que se distingan por su trayectoria destacada en la cultura física o el deporte y particularmente a los deportistas discapacitados y adultos en plenitud.
 
 ###### Artículo 27.
 
@@ -349,7 +353,9 @@ VI. Gastos para asistir a competencias oficiales;
 
 VII. Cursos de formación, capacitación y actualización;
 
-VIII. Las personas con capacidades diferentes y adultos en plenitud, dispondrán además, de los espacios y programas adecuados.
+> <small>(REFORMADA, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
+
+VIII. Las personas discapacitadas y adultos en plenitud, dispondrán además, de los espacios y programas adecuados.
 
 El otorgamiento de los apoyos a que se refiere el presente artículo, quedará sujeto a los recursos disponibles y a lo previsto en los convenios que al efecto celebre el Instituto con los sectores social y privado.
 
@@ -526,3 +532,15 @@ EL SECRETARIO GENERAL DE GOBIERNO
 MANUEL CADENA MORALES
 
 (RUBRICA).
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+G.G. 1 DE SEPTIEMBRE DE 2011.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- Cuando en otros ordenamientos legales, se haga referencia al término personas con capacidades diferentes, se entenderá que corresponde al término personas con discapacidad.
+
+CUARTO.- El Ejecutivo del Estado hará las modificaciones a los reglamentos, decretos administrativos, acuerdos y demás disposiciones de su competencia, para incorporar a estos el término de discapacitados en sustitución de personas con capacidades diferentes, de acuerdo con el presente Decreto.
