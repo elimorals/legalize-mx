@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-los-organismos-auxiliares-de-la-administracion-6653"
 country: "mx"
 rank: "ley"
 publication_date: "1989-07-19"
-last_updated: "2008-07-16"
+last_updated: "2011-09-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6653&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "MOR"
 ---
 # LEY DE LOS ORGANISMOS AUXILIARES DE LA ADMINISTRACION PUBLICA DEL ESTADO DE MORELOS
 
-LEY DE LOS ORGANISMOS AUXILIARES DE LA ADMINISTRACION PUBLICA DEL ESTADO DE MORELOS
+LEY DE LOS ORGANISMOS AUXILIARES DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE JULIO DE 2008.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE SEPTIEMBRE DE 2011.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 19 de julio de 1989.
 
@@ -131,6 +131,12 @@ En el mes de febrero de cada año, la Secretaría de Programación y Finanzas pu
 
 Los servidores públicos estatales adscritos a los organismos auxiliares, serán responsables de las infracciones cometidas a la presente Ley, las cuales se sancionarán de acuerdo a lo dispuesto en las leyes del servicio civil y de responsabilidades vigentes en el Estado.
 
+> <small>(ADICIONADO, P.O. 1 DE SEPTIEMBRE DE 2011)</small>
+
+ARTICULO 10 BIS.- Ningún Servidor Público estatal podrá ser adscrito a los organismos auxiliares sin el nombramiento respectivo. Quedan exceptuados de esta disposición los puestos de base.
+
+En caso de que, por cualquier circunstancia dentro de los organismos públicos se presente una vacante definitiva, sólo se autorizará como encargado de despacho al inferior jerárquico por un término que no exceda de noventa días naturales contados a partir de dicho nombramiento, periodo dentro del cual deberá ser nombrado el nuevo titular, quien tendrá que contar con el perfil que para ese efecto se señale en el manual respectivo.
+
 ### CAPITULO II. DE LAS EMPRESAS DE PARTICIPACION ESTATAL MAYORITARIA
 
 ###### ARTICULO 11.
@@ -157,7 +163,7 @@ El Consejo de Administración o equivalente será presidido por el titular de la
 
 Independientemente de las facultades específicas que les otorguen sus estatutos y la legislación de la materia, así como aquellas propias de las asambleas ordinarias y extraordinarias, los consejos de administración o sus equivalentes tendrán las facultades que les otorga esta Ley, en lo que no sean incompatibles con las primeras.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, P.O. 16 DE JULIO DE 2008)</small>
 
@@ -175,15 +181,15 @@ En los casos de fusión y liquidación de empresas de participación estatal may
 
 ### CAPITULO III. DE LOS FIDEICOMISOS PUBLICOS
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE JULIO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE JULIO DE 2008)</small>
 
 ###### ARTICULO 19.
 
 Para los efectos de esta Ley, los fideicomisos públicos son aquéllos organismos auxiliares que se constituyan con las características señaladas en el artículo 47, primer párrafo, de la Ley Orgánica de la Administración Pública del Estado.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, P.O. 16 DE JULIO DE 2008)</small>
 
@@ -399,21 +405,29 @@ Los organismos auxiliares ajustarán sus actividades a lo dispuesto por la Ley E
 
 El Plan Estatal de Desarrollo será la base para elaborar los Programas de los Organismos auxiliares, los que tomarán en cuenta que su vigencia será por el período gubernamental durante el cual se aprobaron, aún cuando su proyección y previsión señalen un plazo mayor.
 
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2011)</small>
+
 ###### ARTICULO 42.
 
-Los Organismos auxiliares elaborarán sus presupuestos con base en sus programas anuales, además, contendrán la descripción detallada de los objetivos, metas y las unidades responsables de su ejecución, así como los elementos que hagan posible una sistemática evaluación de los programas respectivos.
+Los organismos auxiliares elaborarán sus presupuestos de ingresos y de egresos con base en sus programas anuales.
+
+Los presupuestos de egresos además deberán contener la descripción detallada de los objetivos, metas y las unidades responsables de su ejecución, así como los elementos que hagan posible una sistemática evaluación de los programas respectivos.
+
+En los presupuestos de ingresos, se especificará el origen de éstos mencionando si derivan de transferencias institucionales, ingresos propios, derivados de contribuciones, cuotas de recuperación, productos, ya sea financieros o del derecho privado o cualquier otro ingreso extraordinario.
+
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2011)</small>
 
 ###### ARTICULO 43.
 
-Los Organismos auxiliares al elaborar sus presupuestos, se ajustarán a los lineamientos generales que en materia de gasto determine la Secretaría de Programación y Finanzas; asimismo, a las directrices específicas que fije la dependencia coordinadora de sector.
+Los organismos auxiliares al elaborar sus presupuestos, se ajustarán a las disposiciones legales establecidas en la materia así como a los lineamientos generales que en materia de gasto determine la Secretaría de Finanzas y Planeación; así como a las directrices específicas que fije la dependencia coordinadora de sector.
 
-Cuando se trate de compromisos relacionados con compras o suministros que rebasen al período anual del presupuesto, los mismos contendrán la referencia precisa de dichos compromisos, con la finalidad de preveer (sic) pagos a plazos mayores de un año.
+Cuando se trate de compromisos relacionados con compras o suministros que rebasen al período anual del presupuesto, los mismos contendrán la referencia precisa de dichos compromisos y su fuente de pago, con la finalidad de prever pagos a plazos mayores de un año.
 
 ###### ARTICULO 44.
 
 Los organismos auxiliares administrarán y dispondrán de sus recursos, por medio de sus unidades administrativas; podrán recibir subsidios y transferencias de la Secretaría de Programación y Finanzas, por conducto de la Tesorería General del Estado, de acuerdo a los presupuestos anuales del Gobierno del Estado, y se sujetarán a los controles e informes que establezcan las Secretarías de Programación y Finanzas y de la Contraloría.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, P.O. 16 DE JULIO DE 2008)</small>
 
@@ -605,7 +619,7 @@ Alfredo de la Torre y Martínez
 
 Rúbrica
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 22 DE JULIO DE 1992.
 
@@ -618,3 +632,37 @@ P.O. 16 DE JULIO DE 2008.
 Artículo Primero.- El presente Decreto entrará en vigor a los treinta días naturales siguientes al de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión oficial del Gobierno del Estado de Morelos.
 
 Artículo Segundo.- Se derogan todas aquellas disposiciones legales, reglamentarias y administrativas en lo que se opongan o de cualquier forma contravengan el presente Decreto.
+
+P.O. 1 DE SEPTIEMBRE DE 2011.
+
+DECRETO NUMERO MIL DOSCIENTOS CINCUENTA Y DOS POR EL QUE SE ADICIONA EL ARTÍCULO 10 BIS A LA LEY DE LOS ORGANISMOS AUXILIARES DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MORELOS.
+
+###### ARTÍCULO PRIMERO.
+
+Remítase al titular del Poder Ejecutivo para su publicación en el Periódico Oficial "Tierra y Libertad" órgano de difusión del Gobierno del Estado de Morelos.
+
+El presente decreto entrará en vigor al día siguiente de su publicación.
+
+###### ARTÍCULO SEGUNDO.
+
+A más tardar en 60 días hábiles contados a partir de la entrada en vigor del presente decreto, se deberán reformar o derogar las disposiciones del Reglamento de la Administración Pública del Estado de Morelos, del Reglamento de los Organismos Auxiliares de la Administración Pública del Estado de Morelos y de los manuales respectivos de cada Secretaría u Organismo auxiliar del ejecutivo del estado, que no se ajusten a las presentes reformas.
+
+###### ARTÍCULO TERCERO.
+
+En el caso de los Organismos Descentralizados, fideicomisos y empresas de participación estatal mayoritarias que cuenten con personal encargado sin nombramiento en algún puesto que no sea de base, deberá ser sometido al escrutinio de su respectivo Órgano de Gobierno para la expedición del nombramiento correspondiente, en caso de ser procedente conforme a su manual de organización vigente.
+
+###### ARTÍCULO CUARTO.
+
+Se otorga un plazo de noventa días naturales a partir de la entrada en vigor de la presente reforma, para que los titulares de las secretarías y organismos auxiliares acrediten ante la Contraloría del Estado el cumplimiento de las presentes reformas.
+
+P.O. 1 DE SEPTIEMBRE DE 2011.
+
+DECRETO NÚMERO MIL DOSCIENTOS SESENTA Y UNO POR EL QUE SE REFORMAN LOS ARTÍCULOS 42 Y 43 DE LA LEY DE LOS ORGANISMOS AUXILIARES DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MORELOS.
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial Tierra y Libertad órgano de difusión del Gobierno del Estado de Morelos.
+
+SEGUNDO.- Los organismos auxiliares de la Administración Pública, dispondrán de un plazo de noventa días naturales a partir de la entrada en vigor del presente decreto, a efecto de que emitan y/o reformen sus respectivos reglamentos en términos de la presente reforma.
+
+TERCERO.- Se derogan todas las disposiciones administrativas y reglamentarias que se opongan al presente Decreto.
+
+CUARTO.- Remítase el presente Decreto al titular del Poder Ejecutivo para su publicación respectiva en el órgano oficial del Gobierno del Estado.
