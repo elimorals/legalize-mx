@@ -4,7 +4,7 @@ identifier: "MOR-codigo-de-procedimientos-penales-del-estado-de-morelos-57615"
 country: "mx"
 rank: "codigo"
 publication_date: "2007-11-22"
-last_updated: "2011-01-05"
+last_updated: "2011-09-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57615&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 CÓDIGO DE PROCEDIMIENTOS PENALES DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE ENERO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE SEPTIEMBRE DE 2011.
 
 Código publicado en el Periódico Oficial del Estado de Morelos, el jueves 22 de noviembre de 2007.
 
@@ -2091,7 +2091,9 @@ Los agentes de policía que ejecuten una orden de detención por caso urgente, d
 
 Catálogo de delitos graves.
 
-Se califican como delitos graves para todos los efectos legales, los previstos en el código y leyes siguientes:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE SEPTIEMBRE DE 2011)</small>
+
+Se califican como delitos graves para todos los efectos legales, los previstos en el Código y Leyes siguientes:
 
 A) Del artículo 2 de la Ley Estatal contra la Delincuencia Organizada para el Estado de Morelos, previstos en el Código Penal del Estado de Morelos, los siguientes:
 
@@ -2117,45 +2119,49 @@ X. Enriquecimiento ilícito, previsto en el artículo 280, y
 
 XI. Evasión de presos, previsto en los artículos 304, 305 y 306;
 
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2011)</small>
+
 B) Del Código Penal del Estado de Morelos:
 
 I. Homicidio simple doloso, previsto en el artículo 106;
 
-II. Homicidio doloso de ascendientes o descendientes por consanguinidad en línea recta, previsto por el artículo 107;
+II. Feminicidio, previsto en el artículo 213 Quintus;
 
-III. Homicidio calificado previsto en el artículo 108;
+III. Homicidio doloso de ascendientes o descendientes por consanguinidad en línea recta, previsto por el artículo 107;
 
-IV. Homicidio doloso cometido durante la comisión de secuestro, robo o violación, previsto en el artículo 109;
+IV. Homicidio calificado previsto en el artículo 108;
 
-V. Lesiones dolosas previstas en la fracción IX del artículo 121;
+V. Homicidio doloso cometido durante la comisión de secuestro, robo o violación, previsto en el artículo 109;
 
-VI. Secuestro previstos (sic) en los artículos 140 y 142;
+VI. Lesiones dolosas previstas en la fracción IX del artículo 121;
 
-VII. Extorsión prevista en el artículo 146;
+VII. Secuestro previstos (sic) en los artículos 140 y 142;
 
-VIII. Trata de personas a que se refiere el artículo 148 bis y 148 ter;
+VIII. Extorsión prevista en el artículo 146;
 
-IX. Violación previsto en los artículos 152, 153, 154, 155 y 156;
+IX. Trata de personas a que se refiere el artículo 148 bis y 148 ter: (sic)
 
-X. Inseminación artificial sin consentimiento, previsto en el artículo 157;
+X. Violación previsto en los artículos 152, 153, 154, 155 y 156;
 
-XI. Hostigamiento sexual, previsto en el cuarto párrafo del artículo 158;
+XI. Inseminación artificial sin consentimiento, previsto en el artículo 157;
 
-XII. Abuso sexual en persona menor de edad, cuando se empleare violencia física, previsto en el primer párrafo del artículo 162;
+XII. Hostigamiento sexual, previsto en el cuarto párrafo del artículo 158;
 
-XIII. Robo calificado previsto en el artículo 176 fracciones I y V;
+XIII. Abuso sexual en persona menor de edad, cuando se empleare violencia física, previsto en el primer párrafo del artículo 162;
 
-XIV. Robo de vehículo automotor cuando se cometa en los términos de la fracción XI del artículo 176 bis;
+XIV. Robo calificado previsto en el artículo 176 fracciones I y V;
 
-XV. Abigeato, previsto en el artículo 181 fracción V;
+XV. Robo de vehículo automotor cuando se cometa en los términos de la fracción XI del artículo 176 bis;
 
-XVI. Despojo previsto en el artículo 185 segundo párrafo;
+XVI. Abigeato, previsto en el articulo 181 fracciones (sic) V;
 
-XVII. Corrupción de menores e incapaces previsto en los párrafos segundo y tercero del artículo 213 quater;
+XVII. Despojo previsto en el artículo 185 segundo párrafo;
 
-XVIII. Rebelión cuando se realice en las circunstancias previstas en el artículo 259, y
+XVIII. Corrupción de menores e incapaces previsto en los párrafos segundo y tercero del artículo 213 quater;
 
-XIX. Terrorismo previsto en el artículo 263.
+XIX. Rebelión cuando se realice en las circunstancias previstas en el artículo 259, y
+
+XX. Terrorismo previsto en el artículo 263.
 
 La tentativa punible de los ilícitos penales mencionados en este artículo, también se califica como grave.
 
@@ -2523,7 +2529,9 @@ Procedencia.
 
 Procederán los acuerdos reparatorios en los delitos culposos; aquellos en los que proceda el perdón de la víctima u ofendido; los de contenido patrimonial que se hayan cometido sin violencia sobre las personas; en los que admitan presumiblemente la sustitución de sanciones o condena condicional; así como en aquellos cuya pena máxima de prisión no exceda de seis años y carezcan de trascendencia social.
 
-Se exceptúan de esta disposición los homicidios culposos en los supuestos a que se refiere el artículo 128, el delito de aborto previsto en la fracción II del artículo 115, el de privación ilegal de la libertad previsto en el artículo 138, el de secuestro previsto en el artículo 141 párrafo primero, los delitos contra la libertad y el normal desarrollo psicosexual, el delito de robo cuando concurran las circunstancias a que se refieren las fracciones I, II, III, IV, V, VI, XI del inciso a y el inciso b del artículo 176, los previstos en el artículo 176 bis, el equiparable al abigeato previsto en el artículo 180, el abigeato y su equiparable cuando concurran las circunstancias previstas en el artículo 181, el despojo cuando concurran las circunstancias previstas en el artículo 185, los fraudes previstos en el artículo 189, fracciones I y V, cuando se simule un acto judicial, el delito cometido por fraccionadores previsto en el artículo 192, el daño cuando se cometa por medio de inundación, incendio o explosivos en términos del artículo 194, el de operaciones con recursos de procedencia ilícita, previsto en el artículo 198, el de tráfico de menores previsto en el artículo 204, párrafo segundo, el de corrupción de menores previsto en el artículo 212, el de peligro de devastación, previsto en el artículo 243, todos ellos del Código Penal vigente en el Estado, así como los delitos cometidos por servidores públicos en el ejercicio de sus funciones o con motivo de ellas y los realizados por sujetos que pertenezcan a alguna asociación delictuosa de conformidad con el Código Penal.
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2011)</small>
+
+Se exceptúan de esta disposición los homicidios culposos en los supuestos a que se refiere el artículo 128, el feminicidio, el delito de aborto previsto en la fracción II del artículo 115, el de privación ilegal de la libertad previsto en el artículo 138, el de secuestro previsto en el artículo 141 párrafo primero, los delitos contra la libertad y el normal desarrollo psicosexual, el delito de robo cuando concurran las circunstancias a que se refieren las fracciones I, II, III. IV, V, VI, XI del inciso a y el inciso b del artículo 176, los previstos en el artículo 176bis (sic), el equiparable al abigeato previsto en el artículo 180, el abigeato y su equiparable cuando concurran las circunstancias previstas en el artículo 181, el despojo cuando concurran las circunstancias previstas en el artículo 185, los fraudes previstos en el artículo 189, fracciones I y V, cuando se simule un acto judicial, el delito cometido por fraccionadores previsto en el artículo 192, el daño cuando se cometa por medio de inundación, incendio o explosivos en términos del artículo 194, el de operaciones con recursos de procedencia ilícita, previsto en el artículo 198, el de tráfico de menores previsto en el artículo 204, párrafo segundo, el de corrupción de menores previsto en el artículo 212, el de peligro de devastación, previsto en el artículo 243, todos ellos del Código Penal vigente en el Estado, así como los delitos cometidos por servidores públicos en el ejercicio de sus funciones o con motivo de ellas y los realizados por sujetos que pertenezcan a alguna asociación delictuosa de conformidad con el Código Penal.
 
 > <small>(REFORMADO, P.O. 24 DE AGOSTO DE 2009)</small>
 
@@ -3223,7 +3231,9 @@ I. Sea una comunicación entre particulares y uno de ellos la grabe;
 
 II. Sea una comunicación entre particulares y un tercero, con conocimiento y acuerdo de uno de los participantes, la grabe, y
 
-III. Sea una comunicación entre particulares y, con conocimiento y acuerdo de uno de ellos, se grabe a instancias del Ministerio Público, siempre que se trate de los delitos de homicidio doloso, robo de vehículos, secuestro, privación ilegal de la libertad, extorsión, fraude, cohecho, delitos cometidos por servidores públicos, tortura, evasión de presos, asociación delictuosa y pandilla, delincuencia organizada, corrupción de menores, encubrimiento, ejercicio indebido del servicio público, coalición de servidores públicos, cohecho, pornografía infantil, trata de personas, abuso de autoridad, tráfico de influencias, o enriquecimiento ilícito.
+> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2011)</small>
+
+III. Sea una comunicación entre particulares y, con conocimiento y acuerdo de uno de ellos, se grabe a instancias del Ministerio Público, siempre que se trate de los delitos de homicidio doloso, feminicidio, robo de vehículos, secuestro, privación ilegal de la libertad, extorsión, fraude, cohecho, delitos cometidos por servidores públicos, tortura, evasión de presos, asociación delictuosa y pandilla, delincuencia organizada, corrupción de menores, encubrimiento, ejercicio indebido del servicio público, coalición de servidores públicos, cohecho, pornografía infantil, trata de personas, abuso de autoridad, tráfico de influencias, o enriquecimiento ilícito.
 
 Sólo serán admisibles en el proceso las partes de las grabaciones que contengan información relacionada con los hechos imputados o acusados y que no violen el deber de confidencialidad que establezca la ley.
 
@@ -5374,3 +5384,21 @@ P.O. 5 DE ENERO DE 2011.
 PRIMERO.- El presente decreto iniciará su vigencia a partir del día siguiente a su publicación el (sic) Periódico Oficial "Tierra y Libertad" órgano oficial de difusión del gobierno del Estado de Morelos.
 
 SEGUNDO.- Se derogan las disposiciones que se opongan al presente ordenamiento.
+
+P.O. 1 DE SEPTIEMBRE DE 2011.
+
+###### ARTÍCULO PRIMERO.
+
+Publíquese en el Periódico Oficial "Tierra y Libertad" del Estado de Morelos.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente decreto entrará en vigor al siguiente día de su publicación.
+
+###### ARTÍCULO TERCERO.
+
+La Procuraduría General de Justicia del Estado de Morelos deberá emitir, en un plazo no mayor a ciento ochenta días naturales a partir de la entrada en vigor del presente Decreto, los Protocolos establecidos en el presente Decreto.
+
+###### ARTÍCULO CUARTO.
+
+La Procuraduría General de Justicia del Estado de Morelos deberá emitir, en un plazo no mayor a 60 días naturales a partir de la entrada en vigor del presente Decreto, un acuerdo por el que se establezcan los lineamientos para la investigación con debida diligencia de los feminicidios.
