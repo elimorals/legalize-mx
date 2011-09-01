@@ -4,7 +4,7 @@ identifier: "MOR-ley-organica-de-la-administracion-publica-del-estado-libre-6912
 country: "mx"
 rank: "ley_organica"
 publication_date: "2009-06-26"
-last_updated: "2010-06-02"
+last_updated: "2011-09-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69120&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE JUNIO DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE SEPTIEMBRE DE 2011.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el viernes 26 de junio de 2009.
 
@@ -128,6 +128,10 @@ II. Desempeñar otro empleo, cargo o comisión en el Gobierno Federal, Estatal, 
 III. Desempeñar ningún otro puesto, cargo o comisión de la Federación, de los Estados, de los Municipios u Órganos Constitucionales Autónomos, que no esté directamente relacionado con sus funciones y no sea autorizado por su superior jerárquico. Debiendo ser en estos casos siempre de carácter honorífico, y
 
 IV. Desempeñar trabajos o empleos que las leyes prohíban.
+
+> <small>(ADICIONADO, P.O. 1 DE SEPTIEMBRE DE 2011)</small>
+
+ARTÍCULO 12 BIS.- Ante la vacante que se produzca por ausencia temporal o definitiva en los cargos considerados de confianza, deberá quedar como encargado de manera temporal y por un plazo que no exceda los noventa días naturales, el funcionario de jerarquía inmediata inferior; periodo dentro del cual deberá nombrarse al titular que de manera definitiva continuará en el encargo.
 
 ###### ARTÍCULO 13.
 
@@ -1254,3 +1258,23 @@ SEGUNDO.- Los reglamentos de las leyes y reglamentos interiores de las dependenc
 TERCERO.- Los asuntos que con motivo de este Decreto deban pasar de la Secretaría de Seguridad Pública a la Secretaría de Gobierno, permanecerán en el último trámite que hubieren alcanzado hasta que el personal o las unidades administrativas de la Secretaría de Seguridad Pública que deban conocer de los mismos, se incorporen a la Secretaría de Gobierno, con excepción de los trámites urgentes o sujetos a plazos improrrogables, que serán resueltos por la Secretaría que actualmente tenga el asunto a su cargo, fundamentando para ello sus actuaciones en las normas que les dieron origen a dichos trámites.
 
 CUARTO.- Las Secretarías de Finanzas y Planeación, Gestión e Innovación Gubernamental y de la Contraloría, coordinarán con la intervención que corresponda a las Secretarías de Seguridad Pública y Gobierno, el proceso de transferencia de los recursos humanos, materiales y financieros para hacer operativas las disposiciones contenidas en el presente Decreto.
+
+P.O. 1 DE SEPTIEMBRE DE 2011.
+
+###### ARTÍCULO PRIMERO.
+
+Remítase al titular del Poder Ejecutivo para su publicación en el Periódico Oficial "Tierra y Libertad" órgano de difusión del Gobierno del Estado de Morelos.
+
+El presente decreto entrará en vigor al día siguiente de su publicación.
+
+###### ARTÍCULO SEGUNDO.
+
+A más tardar en 60 días hábiles contados a partir de la entrada en vigor del presente decreto, se deberán reformar o derogar las disposiciones del Reglamento de la Administración Pública del Estado de Morelos, del Reglamento de los Organismos Auxiliares de la Administración Pública del Estado de Morelos y de los manuales respectivos de cada Secretaría u Organismo auxiliar del ejecutivo del estado, que no se ajusten a las presentes reformas.
+
+###### ARTÍCULO TERCERO.
+
+En el caso de los Organismos Descentralizados, fideicomisos y empresas de participación estatal mayoritarias que cuenten con personal encargado sin nombramiento en algún puesto que no sea de base, deberá ser sometido al escrutinio de su respectivo Órgano de Gobierno para la expedición del nombramiento correspondiente, en caso de ser procedente conforme a su manual de organización vigente.
+
+###### ARTÍCULO CUARTO.
+
+Se otorga un plazo de noventa días naturales a partir de la entrada en vigor de la presente reforma, para que los titulares de las secretarías y organismos auxiliares acrediten ante la Contraloría del Estado el cumplimiento de las presentes reformas.
