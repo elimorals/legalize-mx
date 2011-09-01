@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-desarrollo-rural-sustentable-del-estado-de-morelos-67318
 country: "mx"
 rank: "ley"
 publication_date: "2009-03-04"
-last_updated: "2009-03-04"
+last_updated: "2011-09-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=67318&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE DESARROLLO RURAL SUSTENTABLE DEL ESTADO DE MORELOS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE SEPTIEMBRE DE 2011.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 4 de marzo de 2009.
 
@@ -163,9 +163,9 @@ XXXV. Secretaría: Secretaría de Desarrollo Agropecuario;
 
 XXXVI. Seguridad Alimentaria: El abasto oportuno, suficiente e incluyente de los alimentos a la población;
 
-XXXVII. Servicio: Institución pública responsable de la ejecución de programas y acciones específicas en una materia;
+XXXVII. Servicio: Institución pública responsable de la ejecución de programas y acciones especificas en una materia;
 
-XXXVIII. Servicios Ambientales: Los beneficios que obtiene la sociedad de los recursos naturales, tales como la provisión y calidad del agua, la captura de contaminantes, generación de oxígeno, la mitigación del efecto de los fenómenos naturales adversos, el paisaje y la recreación entre otros, estipulados en las leyes especificas de la materia;
+XXXVIII. Servicios Ambientales: Los beneficios que obtiene la sociedad de los recursos naturales, tales como la provisión y calidad del agua, la captura de contaminantes, generación de oxígeno, la mitigación del efecto de los fenómenos naturales adversos, el paisaje y la recreación entre otros, estipulados en las leyes específicas de la materia;
 
 XXXIX. Silvicultura: La teoría y práctica de controlar el establecimiento, composición, constitución, crecimiento y desarrollo de los ecosistemas forestales para la continua producción de bienes y servicios;
 
@@ -365,9 +365,19 @@ La demarcación territorial de las regiones podrá ser modificada por la Secreta
 
 Se crea el Comité Técnico Consultivo, como órgano de apoyo al Consejo Estatal, con representantes que éste determine y que cuenten con amplio reconocimiento y capacidad técnica demostrada, y con la participación permanente de un representante de la Comisión de Desarrollo Agropecuario del Congreso del Estado, el cual tendrá derecho a voz pero no a voto.
 
+> <small>(ADICIONADO, P.O. 1 DE SEPTIEMBRE DE 2011)</small>
+
+Dentro de este mismo, se creará un Subcomité Técnico Especializado en turismo rural, que estará integrado por empresas de turismo comunitario rural y/o prestadores de servicios turísticos de la materia, como un área de apoyo del Comité Técnico Consultivo.
+
+> <small>(ADICIONADO, P.O. 1 DE SEPTIEMBRE DE 2011)</small>
+
+A las reuniones del Subcomité Técnico Especializado asistirán como invitados permanentes los representantes de la Secretaría de Turismo Estatal y de la Comisión de Turismo del Congreso del Estado de Morelos, con derecho a voz solamente.
+
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2011)</small>
+
 ###### Artículo 22.
 
-El Comité Técnico será presidido por el Secretario de Desarrollo Agropecuario.
+El Comité Técnico y el Subcomité Técnico especializado serán presididos por el Secretario de Desarrollo Agropecuario.
 
 ###### Artículo 23.
 
@@ -1111,7 +1121,7 @@ El Consejo Estatal y la Secretaría, coadyuvarán al establecimiento y mantenimi
 
 ###### Artículo 97.
 
-En relación con los organismos genéticamente modificados, la Secretaria y el Consejo se orientarán conforme a los criterios de bioseguridad, inocuidad, seguridad alimentaría y protección de la salud, según lo dispuesto en materia federal.
+En relación con los organismos genéticamente modificados, la Secretaria y el Consejo se orientarán conforme a los criterios de bioseguridad, inocuidad, seguridad alimentaria y protección de la salud, según lo dispuesto en materia federal.
 
 ###### Artículo 98.
 
@@ -1165,7 +1175,7 @@ La Secretaría a través del Centro Estatal de Agronegocios, diseñarán program
 
 ###### Artículo 104.
 
-Se establecerán y fortalecerán las políticas de abasto interno, como una forma de propiciar la seguridad alimentaría y de servicios en el Estado.
+Se establecerán y fortalecerán las políticas de abasto interno, como una forma de propiciar la seguridad alimentaria y de servicios en el Estado.
 
 ###### Artículo 105.
 
@@ -1367,7 +1377,7 @@ Bajo el principio de equidad y para disminuir las asimetrías, la Secretaría, c
 
 Toda persona que acredite interés jurídico o interés social en los supuestos de las fracciones I, II y III, podrá presentar quejas y/o denuncias ante las autoridades competentes de los hechos, acciones y omisiones que:
 
-I. Cause daño a los recursos naturales, la biodiversidad, la soberanía, la seguridad alimentaría;
+I. Cause daño a los recursos naturales, la biodiversidad, la soberanía, la seguridad alimentaria;
 
 II. Se realice causando daño al ambiente;
 
@@ -1456,3 +1466,21 @@ SECRETARIO DE GOBIERNO
 JORGE MORALES BARUD
 
 RÚBRICAS.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS DEL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 1 DE SEPTIEMBRE DE 2011.
+
+###### ARTÍCULO PRIMERO.
+
+Aprobado el presente, remítase para su publicación en el Periódico Oficial Tierra y Libertad órgano de difusión oficial del Gobierno del Estado de Morelos.
+
+###### ARTÍCULO SEGUNDO.
+
+Remítase el presente Decreto al Titular del Poder Ejecutivo Estatal para los efectos a que se refiere el artículo 44 de la Constitución Política del Estado de Morelos. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Morelos.
+
+###### ARTÍCULO TERCERO.
+
+El Subcomité Técnico especializado deberá ser integrado dentro de los 30 días naturales a la publicación del presente documento.
+
+ARTÍCULO CUATRO.- El Subcomité Técnico especializado contara con 30 días naturales después de su integración para la expedición de su reglamento o lineamientos que los rija para su operación.
