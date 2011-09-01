@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-bienestar-y-desarrollo-social-del-estado-de-mexico-43630
 country: "mx"
 rank: "ley"
 publication_date: "2004-12-31"
-last_updated: "2010-12-20"
+last_updated: "2011-09-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=43630&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "MEX"
 
 LEY DE DESARROLLO SOCIAL DEL ESTADO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN EL GACETA DEL GOBIERNO: 20 DE DICIEMBRE DE 2010.
+> <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO EN EL ARTICULO TERCERO TRANSITORIO DEL DECRETO NUMERO 337, PUBLICADO EN LA G.G. DE 1 DE SEPTIEMBRE DE 2011, CUANDO EN OTROS ORDENAMIENTOS LEGALES, SE HAGA REFERENCIA AL TERMINO PERSONAS CON CAPACIDADES DIFERENTES, SE ENTENDERA QUE CORRESPONDE AL TERMINO PERSONAS CON DISCAPACIDAD.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL GACETA DEL GOBIERNO: 1 DE SEPTIEMBRE DE 2011.
 
 Ley publicada en la Tercera Sección de la Gaceta del Gobierno, el viernes 31 de diciembre de 2004.
 
@@ -265,7 +267,9 @@ II. Justicia Distributiva: Garantiza que toda persona reciba de manera equitativ
 
 III. Solidaridad: Colaboración entre las personas, grupos sociales y ordenes de gobierno, de manera corresponsable para el mejoramiento de la calidad de vida de la sociedad;
 
-IV. Respeto a la diversidad: Reconocimiento en términos de origen étnico, género, edad, capacidades diferentes, condición social, condiciones de salud, religión, opiniones, preferencias, estado civil, o cualquier otra para superar toda condición de discriminación y promover un desarrollo con equidad y respeto a las diferencias;
+> <small>(REFORMADA, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
+
+IV. Respeto a la diversidad: Reconocimiento en términos de origen étnico, género, edad, discapacidades, condición social, condiciones de salud, religión, opiniones, preferencias, estado civil, o cualquier otra para superar toda condición de discriminación y promover un desarrollo con equidad y respeto a las diferencias;
 
 > <small>(REFORMADA, G.G. 7 DE SEPTIEMBRE DE 2010)</small>
 
@@ -333,9 +337,9 @@ Para efectos de la presente Ley, se consideran como grupos o sectores que merece
 
 I. Las regiones, municipios, microrregiones, zonas de atención prioritaria e inmediata, que muestren mayor pobreza, marginación y exclusión, de acuerdo a los indicadores de desarrollo social y humano;
 
-> <small>(REFORMADA, G.G. 15 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADA, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
 
-II. A la población indígena, mujeres, niños y adolescentes, adultos mayores, familias de los migrantes, personas con discapacidad o que se encuentren en situación de vulnerabilidad social; y
+II. A la población indígena, mujeres, niños y adolescentes, adultos mayores, familias de los migrantes, discapacitados o que se encuentren en situación de vulnerabilidad social; y
 
 III. A los grupos que lo requieran según condiciones de desastre, dinámica geográfica y social del Estado.
 
@@ -1092,3 +1096,13 @@ PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del G
 SEGUNDO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
 
 TERCERO.- En un plazo no mayor a seis meses, contados a partir de la publicación de este Decreto, el Ejecutivo Estatal, por conducto del Consejo de Investigación y Evaluación de la Política Social, deberá expedir los lineamientos relativos a la operación del Sistema Estatal de Indicadores de Desarrollo Social y Humano, a que se refiere el presente Decreto.
+
+G.G. 1 DE SEPTIEMBRE DE 2011.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- Cuando en otros ordenamientos legales, se haga referencia al término personas con capacidades diferentes, se entenderá que corresponde al término personas con discapacidad.
+
+CUARTO.- El Ejecutivo del Estado hará las modificaciones a los reglamentos, decretos administrativos, acuerdos y demás disposiciones de su competencia, para incorporar a estos el término de discapacitados en sustitución de personas con capacidades diferentes, de acuerdo con el presente Decreto.
