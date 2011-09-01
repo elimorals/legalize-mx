@@ -4,7 +4,7 @@ identifier: "MEX-codigo-electoral-del-estado-de-mexico-5988"
 country: "mx"
 rank: "codigo"
 publication_date: "1996-03-02"
-last_updated: "2011-05-13"
+last_updated: "2011-09-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5988&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MEX"
 ---
 # CODIGO ELECTORAL DEL ESTADO DE MEXICO
 
-CODIGO ELECTORAL DEL ESTADO DE MEXICO
+CÓDIGO ELECTORAL DEL ESTADO DE MÉXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 13 DE MAYO DE 2011.
+> <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO EN EL ARTÍCULO TERCERO TRANSITORIO DEL DECRETO NÚMERO 337, PUBLICADO EN LA G.G. DE 1 DE SEPTIEMBRE DE 2011, CUANDO EN OTROS ORDENAMIENTOS LEGALES, SE HAGA REFERENCIA AL TERMINO PERSONAS CON DISCAPACIDADES DIFERENTES, SE ENTENDERÁ QUE CORRESPONDE AL TERMINO PERSONAS CON DISCAPACIDAD</small>
+
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 1 DE SEPTIEMBRE DE 2011.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el sábado 2 de marzo de 1996.
 
@@ -63,7 +65,7 @@ IV. La integración y el funcionamiento del Tribunal Electoral, y el sistema de 
 
 La interpretación de éste Código se hará conforme a los criterios gramatical, sistemático y funcional, atendiendo a lo dispuesto en el último párrafo del artículo 14 de la Constitución Federal.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE OCTUBRE DE 1998)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE OCTUBRE DE 1998)</small>
 
 ###### Artículo 3.
 
@@ -93,7 +95,7 @@ Consejo General: el Consejo General del Instituto Electoral del Estado de Méxic
 
 ## TITULO SEGUNDO. De los Derechos y las Obligaciones de los Ciudadanos
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 10 DE SEPTIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 10 DE SEPTIEMBRE DE 2008)</small>
 
 ###### Artículo 5.
 
@@ -143,7 +145,7 @@ Es derecho de los ciudadanos constituir partidos políticos locales, afiliarse y
 
 Ningún ciudadano podrá estar afiliado a más de un partido político.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 10 DE SEPTIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 10 DE SEPTIEMBRE DE 2008)</small>
 
 ###### Artículo 9.
 
@@ -227,7 +229,7 @@ El incumplimiento por los observadores electorales de las normas establecidas pa
 
 Los ciudadanos acreditados como observadores electorales podrán solicitar ante la Junta que corresponda, la información que requieran, la cual será proporcionada siempre que no sea reservada o confidencial en los términos fijados por este Código u otras leyes, ni afecte los derechos de terceros y existan las posibilidades materiales y técnicas para su entrega.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 10 DE SEPTIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 10 DE SEPTIEMBRE DE 2008)</small>
 
 ###### Artículo 12.
 
@@ -563,7 +565,7 @@ Queda prohibida la intervención de organizaciones gremiales o con objeto social
 
 Toda organización que pretenda constituirse como partido político local deberá cumplir los siguientes requisitos:
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 13 DE MAYO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 13 DE MAYO DE 2011)</small>
 
 I. Tener actividades políticas independientes de cualquier otra organización, de manera permanente por lo menos un año antes del día en que se realice la jornada electoral del proceso en que se desee participar por primera ocasión. Dichas actividades deberán acreditarse de manera fehaciente y el inicio de las mismas habrá de ser notificado al Instituto.
 
@@ -643,7 +645,7 @@ VII. Las sanciones aplicables a los miembros que infrinjan sus disposiciones int
 
 Satisfechos los requisitos anteriores, la organización interesada notificará al Instituto este propósito y cumplirá con los siguientes requisitos previos a la solicitud de registro:
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 13 DE MAYO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 13 DE MAYO DE 2011)</small>
 
 I. Celebrar una asamblea en cada uno de los municipios a que se refiere la fracción IV del artículo 39 de este Código, una vez hecha la notificación de la intención de constituirse en partido politico local, la agrupación contará con 120 días para llevar a cabo las asambleas en presencia de un funcionario del Instituto o, a falta de éste, de un Notario Público del Estado quien certificará:
 
@@ -1141,7 +1143,7 @@ Los partidos políticos deberán contar con un órgano interno encargado de la p
 
 En términos de lo dispuesto en el penúltimo párrafo de la fracción V, del artículo 41 de la Constitución Federal, el Órgano Técnico de Fiscalización del Instituto solicitará al Órgano Técnico del Instituto Federal Electoral sea el conducto para superar las limitaciones derivadas de los secretos bancario, fiduciario y fiscal en los procedimientos de fiscalización de las finanzas de los partidos políticos en el ámbito de la Entidad.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 10 DE SEPTIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 10 DE SEPTIEMBRE DE 2008)</small>
 
 ###### Artículo 60.
 
@@ -1379,7 +1381,7 @@ El Consejo General realizará monitoreos cuantitativos y cualitativos y el segui
 
 El Instituto gestionará ante los medios de comunicación social con cobertura en el territorio estatal, la transmisión de programas en formatos de debate, entrevista, difusión de plataformas electorales, entre otros, en apoyo al fortalecimiento a la cultura político democrática.
 
-> <small>(REFORMADA SU DENOMINACION, G.G. 25 DE SEPTIEMBRE DE 2010)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, G.G. 25 DE SEPTIEMBRE DE 2010)</small>
 
 ### CAPITULO SEXTO. De las Coaliciones y Fusiones
 
@@ -1401,15 +1403,15 @@ III. Ninguna coalición podrá postular como candidato a quien ya haya sido regi
 
 IV. Los partidos políticos que se coaliguen para participar en las elecciones deberán celebrar y registrar el convenio correspondiente en los términos del presente capítulo;
 
-V. (DEROGADA, P.O. 1 DE ENERO DE 2002)
+V. (DEROGADA, G.G. 1 DE ENERO DE 2002)
 
-VI. (DEROGADA, P.O. 1 DE ENERO DE 2002)
+VI. (DEROGADA, G.G. 1 DE ENERO DE 2002)
 
-> <small>(REFORMADA, P.O. 24 DE AGOSTO DE 2001)</small>
+> <small>(REFORMADA, G.G. 24 DE AGOSTO DE 2001)</small>
 
 VII. Los partidos podrán formar coaliciones para la elección de diputados por el principio de mayoría relativa en uno o más distritos uninominales.
 
-> <small>(REFORMADA, P.O. 24 DE AGOSTO DE 2001)</small>
+> <small>(REFORMADA, G.G. 24 DE AGOSTO DE 2001)</small>
 
 VIII. Los partidos podrán formar coaliciones para la elección de uno o más ayuntamientos.
 
@@ -2235,7 +2237,7 @@ Los órganos, áreas ejecutivas y servidores públicos del Instituto estarán ob
 
 ### CAPITULO SEXTO. De las Direcciones
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 10 DE SEPTIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 10 DE SEPTIEMBRE DE 2008)</small>
 
 ###### Artículo 104.
 
@@ -2317,13 +2319,13 @@ VIII. Las demás que le confiera este Código.
 
 La Dirección de Capacitación tiene las siguientes atribuciones:
 
-> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 1999)</small>
+> <small>(REFORMADA, G.G. 9 DE OCTUBRE DE 1999)</small>
 
 I. Elaborar y proponer los programas de educación cívica, capacitación electoral y difusión de la cultura política democrática, que desarrollen los órganos del Instituto; debiendo someterse a la aprobación del Consejo General a través de la Junta General;
 
 II. Coordinar y vigilar el cumplimiento de los programas a que se refiere la fracción anterior;
 
-> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 1999)</small>
+> <small>(REFORMADA, G.G. 9 DE OCTUBRE DE 1999)</small>
 
 III. Diseñar, elaborar e integrar el material didáctico y los instructivos electorales, debiendo éstos someterse a la aprobación del Consejo General a través de la Junta General;
 
@@ -2377,17 +2379,17 @@ La Dirección de Administración tiene las siguientes atribuciones:
 
 I. Aplicar las políticas, normas y procedimientos para la administración de los recursos financieros y materiales del Instituto;
 
-> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 1999)</small>
+> <small>(REFORMADA, G.G. 9 DE OCTUBRE DE 1999)</small>
 
 II. Organizar y dirigir la administración de los recursos materiales y financieros, así como la prestación de los servicios generales en el Instituto;
 
 III. Formular el anteproyecto anual de presupuesto del Instituto;
 
-> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 1999)</small>
+> <small>(REFORMADA, G.G. 9 DE OCTUBRE DE 1999)</small>
 
 IV. Establecer y operar los sistemas administrativos para el ejercicio y control del presupuesto;
 
-> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 1999)</small>
+> <small>(REFORMADA, G.G. 9 DE OCTUBRE DE 1999)</small>
 
 V. Elaborar el proyecto de manual de organización y el Catálogo de cargos y puestos del Instituto y someterlo para su aprobación a la Junta General, con excepción de los puestos permanentes relacionados con el Servicio Electoral Profesional;
 
@@ -2397,9 +2399,9 @@ VI. Atender las necesidades administrativas de los órganos del Instituto;
 
 VII. Suministrar a los partidos políticos nacionales o locales con registro, el financiamiento público al que tienen derecho;
 
-VIII. (DEROGADA, P.O. 9 DE OCTUBRE DE 1999)
+VIII. (DEROGADA, G.G. 9 DE OCTUBRE DE 1999)
 
-IX. (DEROGADA, P.O. 9 DE OCTUBRE DE 1999)
+IX. (DEROGADA, G.G. 9 DE OCTUBRE DE 1999)
 
 > <small>(REFORMADA, G.G. 10 DE SEPTIEMBRE DE 2008)</small>
 
@@ -2459,15 +2461,15 @@ IV. Capacitar a los ciudadanos que habrán de integrar las Mesas Directivas de C
 
 V. Informar a la Junta General una vez al mes por lo menos, durante el proceso electoral, por conducto del Secretario Ejecutivo General sobre el desarrollo de sus actividades;
 
-> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 1999)</small>
+> <small>(REFORMADA, G.G. 9 DE OCTUBRE DE 1999)</small>
 
 VI. Informar mensualmente al Consejo Distrital correspondiente sobre el desarrollo de sus actividades;
 
-> <small>(ADICIONADA, P.O. 9 DE OCTUBRE DE 1999)</small>
+> <small>(ADICIONADA, G.G. 9 DE OCTUBRE DE 1999)</small>
 
 VII. Entregar copia de los memorándums, circulares y documentos remitidos por las Comisiones del Consejo General y la Junta General, al secretario del Consejo Distrital para su distribución a los integrantes del mismo;
 
-> <small>(ADICIONADA, P.O. 9 DE OCTUBRE DE 1999)</small>
+> <small>(ADICIONADA, G.G. 9 DE OCTUBRE DE 1999)</small>
 
 VIII. Entregar al Consejo Distrital copia de los informes y reportes que remita a la Junta General; y (sic)
 
@@ -2489,7 +2491,7 @@ Los Consejos Distritales Electorales funcionarán durante el proceso para la ele
 
 I. Dos Consejeros que serán el Vocal Ejecutivo y el Vocal de Organización Electoral de la Junta Distrital correspondiente. Fungirá como presidente del Consejo el Vocal Ejecutivo con derecho a voz y voto y, en caso de empate, con voto de calidad; y como secretario del Consejo, el Vocal de Organización Electoral, con voz y sin voto, quien auxiliará al presidente en sus funciones y lo suplirá en sus ausencias;
 
-> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 1999)</small>
+> <small>(REFORMADO, G.G. 9 DE OCTUBRE DE 1999)</small>
 
 El Secretario del Consejo Distrital será suplido en sus ausencias temporales por el vocal de capacitación o en su caso, por el funcionario que designe el propio Consejo Distrital.
 
@@ -2505,7 +2507,7 @@ III. Un representante de cada uno de los partidos políticos con registro, quien
 
 Los Consejeros Electorales de los Consejos Distritales deberán satisfacer los mismos requisitos que los Consejeros Electorales del Consejo General, salvo el de residencia efectiva, que se entenderá referido al distrito de que se trate, y el de título profesional que no será necesario.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 10 DE SEPTIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 10 DE SEPTIEMBRE DE 2008)</small>
 
 ###### Artículo 115.
 
@@ -2695,7 +2697,7 @@ III. Un representante de cada uno de los partidos políticos con registro, quien
 
 Los Consejeros Electorales de los Consejos Municipales deberán satisfacer los mismos requisitos que los Consejeros Electorales del Consejo General, salvo el de residencia efectiva, que se entenderá referido al Municipio de que se trate, y el de título profesional que no será necesario.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 10 DE SEPTIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 10 DE SEPTIEMBRE DE 2008)</small>
 
 ###### Artículo 124.
 
@@ -2821,7 +2823,7 @@ XII. Las demás que les confiere este Código.
 
 Las Mesas Directivas de Casilla, como autoridad electoral son los órganos electorales integrados por ciudadanos que tienen a su cargo respetar y hacer respetar la libre emisión y efectividad del sufragio, garantizar el secreto del voto y asegurar la autenticidad del escrutinio y cómputo en cada una de las casillas, ubicadas en las distintas secciones de los distritos electorales y los municipios del Estado.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 10 DE SEPTIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 10 DE SEPTIEMBRE DE 2008)</small>
 
 ###### Artículo 128.
 
@@ -3043,7 +3045,7 @@ La etapa de resultados y declaraciones de validez de la elección de Gobernador,
 
 ## TITULO SEGUNDO. De los Actos Preparatorios de la Elección
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 11 DE MARZO DE 2005)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 11 DE MARZO DE 2005)</small>
 
 ### CAPITULO PRIMERO. De las precampañas en los procesos internos de selección de candidatos
 
@@ -3079,7 +3081,7 @@ Artículo 144 D.- En la colocación de propaganda dentro del desarrollo de las p
 
 Antes del inicio del plazo para el registro de candidatos de la elección de que se trate, los partidos políticos deberán haber retirado su propaganda electoral de precampaña, para su reciclaje. De no retirarla, el Consejo General, con el auxilio de las autoridades competentes, tomará las medidas necesarias para su retiro con cargo a las ministraciones de financiamiento público que correspondan al partido.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 10 DE SEPTIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 10 DE SEPTIEMBRE DE 2008)</small>
 
 Artículo 144 E.- Se entenderán por actos anticipados de campaña, aquéllos que realicen los partidos políticos, dirigentes, militantes, afiliados y simpatizantes, fuera de los plazos que se establezcan para realizar actos de campaña electoral que trasciendan al conocimiento de la comunidad, cuya finalidad consista en solicitar el voto ciudadano en favor de un candidato, para acceder a un cargo de elección popular o publicitar sus plataformas electorales o programas de gobierno.
 
@@ -3121,7 +3123,7 @@ La violación de los topes de gastos de precampaña por los partidos políticos 
 
 Artículo 144 H.- El Instituto revisará el origen, monto y destino de los recursos ejercidos por los partidos políticos y sus aspirantes en las precampañas, para lo cual deberá aplicar las disposiciones relativas del presente Código y los lineamientos técnicos que al efecto expida.
 
-> <small>(REFORMADA SU NUMERACION, P.O. 11 DE MARZO DE 2005)</small>
+> <small>(REFORMADA SU NUMERACIÓN, P.O. 11 DE MARZO DE 2005)</small>
 
 ### CAPITULO SEGUNDO. Del Procedimiento de Registro de Candidatos
 
@@ -3165,7 +3167,7 @@ III. Las de miembros de ayuntamiento ante el Consejo Municipal correspondiente, 
 
 Del registro se expedirá constancia.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE OCTUBRE DE 1999)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE OCTUBRE DE 1999)</small>
 
 ###### Artículo 147.
 
@@ -3257,11 +3259,11 @@ II. Vencido el plazo a que se refiere la fracción anterior, exclusivamente podr
 
 III. Cuando la renuncia del candidato fuera notificada por éste al Consejo General, se hará del conocimiento del partido o coalición que lo registró para que proceda, en su caso, a la sustitución.
 
-> <small>(REFORMADA SU NUMERACION, P.O. 11 DE MARZO DE 2005)</small>
+> <small>(REFORMADA SU NUMERACIÓN, P.O. 11 DE MARZO DE 2005)</small>
 
 ### CAPITULO TERCERO. De las Campañas Electorales
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 10 DE SEPTIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 10 DE SEPTIEMBRE DE 2008)</small>
 
 ###### Artículo 152.
 
@@ -3393,7 +3395,7 @@ En los mítines de campaña, los partidos políticos o coaliciones podrán colga
 
 Quienes incumplan con las disposiciones previstas en materia de actos de campaña o de propaganda electoral se harán acreedores a las sanciones que al efecto se determinan en el artículo 355 del presente Código.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 10 DE SEPTIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 10 DE SEPTIEMBRE DE 2008)</small>
 
 ###### Artículo 159.
 
@@ -3417,7 +3419,7 @@ Las personas físicas o jurídico colectivas que pretendan llevar a cabo encuest
 
 Quienes infrinjan las prohibiciones contenidas en este artículo, quedarán sujetos a las sanciones que este Código impone, así como a las penas que señala el Código Penal del Estado y demás disposiciones aplicables.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 10 DE SEPTIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 10 DE SEPTIEMBRE DE 2008)</small>
 
 ###### Artículo 160.
 
@@ -3459,7 +3461,7 @@ El Instituto realizará monitoreos de la propaganda de los partidos políticos c
 
 El resultado de los monitoreos se harán públicos en los términos que determine el Consejo General.
 
-> <small>(REFORMADA SU NUMERACION, P.O. 11 DE MARZO DE 2005)</small>
+> <small>(REFORMADA SU NUMERACIÓN, P.O. 11 DE MARZO DE 2005)</small>
 
 ### CAPITULO CUARTO. De los Procedimientos para la Integración y
 
@@ -3531,7 +3533,7 @@ En el caso de la elección de Gobernador, las actividades mencionadas en el pár
 
 Los representantes de los partidos políticos o coaliciones en los Consejos respectivos, podrán vigilar el desarrollo del procedimiento previsto en este artículo y tendrán acceso a toda la información previa solicitud, a la cual el presidente del Consejo no podrá negarse. Los partidos políticos podrán verificar las etapas de insaculación, notificación, capacitación, integración y designación de los integrantes de las Mesas Directivas de Casilla.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 10 DE SEPTIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 10 DE SEPTIEMBRE DE 2008)</small>
 
 ###### Artículo 167.
 
@@ -3613,7 +3615,7 @@ Quince días antes del día de la jornada electoral, los Consejos Municipales y 
 
 Si después de la publicación a que hace referencia el artículo anterior, ocurrieran causas supervenientes, los Consejos correspondientes podrán hacer los cambios que se requieran, los cuales serán publicados. Tratándose de cambios en la ubicación de las casillas, los Consejos respectivos mandarán fijar avisos en los lugares excluidos, indicando la nueva ubicación.
 
-> <small>(REFORMADA SU NUMERACION, P.O. 11 DE MARZO DE 2005)</small>
+> <small>(REFORMADA SU NUMERACIÓN, P.O. 11 DE MARZO DE 2005)</small>
 
 ### CAPITULO QUINTO. Del Registro de Representantes
 
@@ -3747,7 +3749,7 @@ De estos nombramientos se formará una lista que se entregará a los Presidentes
 
 Al nombramiento se anexará el texto de los artículos que correspondan a las funciones de los representantes generales.
 
-> <small>(REFORMADA SU NUMERACION, P.O. 11 DE MARZO DE 2005)</small>
+> <small>(REFORMADA SU NUMERACIÓN, P.O. 11 DE MARZO DE 2005)</small>
 
 ### CAPITULO SEXTO. De la Documentación y el Material Electoral
 
@@ -3921,7 +3923,7 @@ VI Cuando por razones de distancia o de dificultad de las comunicaciones, no sea
 
 La actualización de cualquiera de los supuestos a que hace referencia este artículo se hará constar en el acta de la jornada electoral.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 10 DE SEPTIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 10 DE SEPTIEMBRE DE 2008)</small>
 
 ###### Artículo 203.
 
@@ -3975,7 +3977,7 @@ Recibida la comunicación que antecede, tratándose de las elecciones de diputad
 
 Tratándose de la elección de Gobernador, la decisión a que se hace referencia la tomará el Consejo Distrital.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 10 DE SEPTIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 10 DE SEPTIEMBRE DE 2008)</small>
 
 ###### Artículo 209.
 
@@ -4011,9 +4013,9 @@ III. Devolver al elector su Credencial para Votar.
 
 Aquéllos electores que no sepan leer o que se encuentren impedidos físicamente para marcar sus boletas, podrán hacerse asistir por una persona de su confianza que les acompañe.
 
-> <small>(ADICIONADO, G.G. 10 DE SEPTIEMBRE DE 2008)</small>
+> <small>(REFORMADO, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
 
-Los electores con capacidades diferentes, si así lo solicitan, tendrán derecho preferencial para emitir su voto, y sólo de ser necesario, podrán acceder a la casilla con un acompañante que los asista. El presidente de la mesa directiva de casilla acordará las medidas necesarias para hacer efectivos estos derechos. Para el caso de que corresponda al acompañante emitir su voto en esa casilla, el presidente decidirá si le hace extensivo el derecho preferencial.
+Los electores discapacitados, si así lo solicitan, tendrán derecho preferencial para emitir su voto, y sólo de ser necesario, podrán acceder a la casilla con un acompañante que los asista. El presidente de la mesa directiva de casilla acordará las medidas necesarias para hacer efectivos estos derechos. Para el caso de que corresponda al acompañante emitir su voto en esa casilla, el presidente decidirá si le hace extensivo el derecho preferencial.
 
 > <small>(ADICIONADO, G.G. 10 DE SEPTIEMBRE DE 2008)</small>
 
@@ -4549,7 +4551,7 @@ II. Haber obtenido menos del 51% de la votación válida emitida y que su númer
 
 III. No obtengan por lo menos el 1.5% de la votación válida emitida.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE MAYO DE 2002)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE MAYO DE 2002)</small>
 
 ###### Artículo 265.
 
@@ -4559,7 +4561,7 @@ Serán asignados a cada partido político, los diputados de representación prop
 
 I. Determinar la votación válida efectiva de la elección;
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 25 DE SEPTIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 25 DE SEPTIEMBRE DE 2010)</small>
 
 II. Establecer el porcentaje de la votación válida efectiva que le corresponda a cada partido político, de acuerdo al número total de votos que haya obtenido, independientemente de haber integrado alguna coalición.
 
@@ -4733,7 +4735,7 @@ I. Que cada uno de los partidos integrantes de la coalición haya registrado pla
 
 II. Haber obtenido en su favor, en el municipio correspondiente, al menos el porcentaje de votos que resulte de multiplicar 1.5% por el número de partidos integrantes de la coalición. De no cumplirse este requisito, la coalición no tendrá derecho a participar en la asignación de miembros de Ayuntamiento por el principio de representación proporcional.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE OCTUBRE DE 1999)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE OCTUBRE DE 1999)</small>
 
 ###### Artículo 278.
 
@@ -4747,7 +4749,7 @@ Cociente de unidad es el resultado de dividir la votación válida emitida en ca
 
 Resto mayor de votos es el remanente más alto entre los restos de las votaciones de cada partido político, una vez hecha la distribución de miembros de Ayuntamiento mediante el cociente de unidad. El resto mayor se utilizará cuando aún hubiese miembros por asignar.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE OCTUBRE DE 1999)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE OCTUBRE DE 1999)</small>
 
 ###### Artículo 279.
 
@@ -4767,7 +4769,7 @@ En ningún caso y por ningún motivo los candidatos a Presidentes Municipales po
 
 ### CAPITULO QUINTO. De la Calificación de la Elección de Gobernador
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 25 DE SEPTIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 25 DE SEPTIEMBRE DE 2010)</small>
 
 ###### Artículo 280.
 
@@ -4835,7 +4837,7 @@ Al Tribunal le corresponderá resolver de forma definitiva e inatacable las impu
 
 ### CAPITULO SEGUNDO. De la Integración del Tribunal
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 10 DE SEPTIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 10 DE SEPTIEMBRE DE 2008)</small>
 
 ###### Artículo 283.
 
@@ -4943,7 +4945,7 @@ XIV. Las demás que le otorga este Código.
 
 ### CAPITULO SEGUNDO. Del Funcionamiento del Tribunal
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 10 DE SEPTIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 10 DE SEPTIEMBRE DE 2008)</small>
 
 ###### Artículo 290.
 
@@ -5019,7 +5021,7 @@ XVII. Las demás que le confiere este Código.
 
 El Presidente será suplido, en el caso de faltas temporales, por los otros magistrados numerarios siguiendo el orden de designación y, de ser necesario, el orden alfabético. Si la falta es definitiva se designará nuevo Presidente para concluir el periodo.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 10 DE SEPTIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 10 DE SEPTIEMBRE DE 2008)</small>
 
 ###### Artículo 293.
 
@@ -5211,7 +5213,7 @@ V. Cuando servidores públicos provoquen en forma generalizada temor a los elect
 
 VI. Cuando se acrediten irregularidades graves y no reparadas, desde la preparación del proceso electoral, hasta la conclusión de los cómputos respectivos y que en forma determinante vulneren los principios constitucionales que deben regir en las elecciones democráticas.
 
-> <small>N. DE E. SE MODIFICA LA ESTRUCTURA CAPITULAR DEL PRESENTE TITULO, G.G. 10 DE SEPTIEMBRE DE 2008.</small>
+> <small>N. DE E. SE MODIFICA LA ESTRUCTURA CAPÍTULAR DEL PRESENTE TÍTULO, G.G. 10 DE SEPTIEMBRE DE 2008.</small>
 
 ## TITULO SEGUNDO. De los Medios de Impugnación
 
@@ -5993,7 +5995,7 @@ II. La Sección de Instrucción y Dictamen de la Legislatura deberá respetar la
 
 El dictamen de la Sección de Instrucción y Dictamen de la Legislatura y el acuerdo de la Legislatura que le recaiga, deberán contener consideraciones de hecho y de derecho, que funden y motiven el sentido de su determinación.
 
-> <small>N. DE E. SE MODIFICA LA ESTRUCTURA CAPITULAR DEL PRESENTE TITULO, G.G. 10 DE SEPTIEMBRE DE 2008.</small>
+> <small>N. DE E. SE MODIFICA LA ESTRUCTURA CAPÍTULAR DEL PRESENTE TÍTULO, G.G. 10 DE SEPTIEMBRE DE 2008.</small>
 
 ## TITULO TERCERO. De las Infracciones y Sanciones Administrativas
 
@@ -6001,7 +6003,7 @@ El dictamen de la Sección de Instrucción y Dictamen de la Legislatura y el acu
 
 ### CAPITULO UNICO. De la Imposición de Sanciones por Infracciones Administrativas
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE OCTUBRE DE 1999)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE OCTUBRE DE 1999)</small>
 
 ###### Artículo 348.
 
@@ -6015,7 +6017,7 @@ II. Realicen aportaciones económicas a un partido político o candidato.
 
 Artículo 348 bis.- El Instituto informará a la Secretaría de Gobernación y a la Secretaría de Comunicaciones y Transportes, sobre el incumplimiento que realicen medios de comunicación a los lineamientos y reglamentos que emita el Consejo General del Instituto sobre la publicación de encuestas o sondeos de opinión.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE OCTUBRE DE 1999)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE OCTUBRE DE 1999)</small>
 
 ###### Artículo 349.
 
@@ -6037,7 +6039,7 @@ El Consejo General del Instituto cancelará la acreditación de los observadores
 
 El Contralor General del Instituto y el del Tribunal serán responsables por las faltas en que incurran en el desempeño de sus funciones, conforme a lo establecido en la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE OCTUBRE DE 1999)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE OCTUBRE DE 1999)</small>
 
 ###### Artículo 352.
 
@@ -6259,7 +6261,7 @@ LIC. HECTOR XIMENEZ GONZALEZ
 
 (Rúbrica)
 
-N. DE E., A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 2 DE OCTUBRE DE 1998
 
@@ -6347,7 +6349,7 @@ SEGUNDO.- Este decreto entrará en vigor al día siguiente de su publicación en
 
 G.G. 25 DE SEPTIEMBRE DE 2010.
 
-DECRETO NUMERO 171, POR EL QUE SE REFORMAN LOS PARRAFOS TERCERO Y SEXTO DEL ARTICULO 166 DEL CODIGO ELECTORAL DEL ESTADO DE MEXICO.
+DECRETO NÚMERO 171, POR EL QUE SE REFORMAN LOS PÁRRAFOS TERCERO Y SEXTO DEL ARTÍCULO 166 DEL CÓDIGO ELECTORAL DEL ESTADO DE MÉXICO.
 
 PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
 
@@ -6357,7 +6359,7 @@ TERCERO.- Se derogan las disposiciones de igual o menor jerarquía que se oponga
 
 G.G. 25 DE SEPTIEMBRE DE 2010.
 
-DECRETO NUMERO 172, POR EL QUE SE REFORMAN LOS INCISOS C), J) Y K) DE LA FRACCION I, Y EL INCISO H) DE LA FRACCION II DEL ARTICULO 62; SE REFORMA LA FRACCION XXXV Y SE ADICIONA LA FRACCION XXXV BIS AL ARTICULO 95; SE ADICIONA LA FRACCION I BIS AL ARTICULO 97 DEL CODIGO ELECTORAL DEL ESTADO DE MEXICO.
+DECRETO NÚMERO 172, POR EL QUE SE REFORMAN LOS INCISOS C), J) Y K) DE LA FRACCIÓN I, Y EL INCISO H) DE LA FRACCIÓN II DEL ARTÍCULO 62; SE REFORMA LA FRACCIÓN XXXV Y SE ADICIONA LA FRACCIÓN XXXV BIS AL ARTÍCULO 95; SE ADICIONA LA FRACCIÓN I BIS AL ARTÍCULO 97 DEL CÓDIGO ELECTORAL DEL ESTADO DE MÉXICO.
 
 PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
 
@@ -6367,7 +6369,7 @@ TERCERO. Se derogan las disposiciones de igual o menor jerarquía que se opongan
 
 G.G. 25 DE SEPTIEMBRE DE 2010.
 
-DECRETO NUMERO 173, POR EL QUE SE REFORMAN LOS ARTICULOS 22 EN SU SEGUNDO PARRAFO; LA DENOMINACION DEL CAPITULO SEXTO DEL TITULO SEGUNDO DEL LIBRO SEGUNDO; 67; 105 EN SU FRACCION V; 151 EN SU FRACCION II; 230 FRACCION V EN SU INCISO A); 231 EN SU FRACCION II; 265 FRACCION II EN SU PRIMER PARRAFO; 267 EN SUS PARRAFOS PRIMERO Y SEGUNDO; 280 EN SU PRIMER PARRAFO. SE DEROGAN EL ARTICULO 76; LA FRACCION V DEL ARTICULO 147 Y LA FRACCION II DEL ARTICULO 233, DEL CODIGO ELECTORAL DEL ESTADO DE MEXICO.
+DECRETO NÚMERO 173, POR EL QUE SE REFORMAN LOS ARTÍCULOS 22 EN SU SEGUNDO PÁRRAFO; LA DENOMINACIÓN DEL CAPÍTULO SEXTO DEL TÍTULO SEGUNDO DEL LIBRO SEGUNDO; 67; 105 EN SU FRACCIÓN V; 151 EN SU FRACCIÓN II; 230 FRACCIÓN V EN SU INCISO A); 231 EN SU FRACCIÓN II; 265 FRACCIÓN II EN SU PRIMER PÁRRAFO; 267 EN SUS PÁRRAFOS PRIMERO Y SEGUNDO; 280 EN SU PRIMER PÁRRAFO. SE DEROGAN EL ARTÍCULO 76; LA FRACCIÓN V DEL ARTÍCULO 147 Y LA FRACCIÓN II DEL ARTÍCULO 233, DEL CÓDIGO ELECTORAL DEL ESTADO DE MÉXICO.
 
 PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
 
@@ -6377,7 +6379,7 @@ TERCERO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 G.G. 25 DE SEPTIEMBRE DE 2010.
 
-DECRETO NUMERO 174, POR EL QUE SE REFORMAN LOS ARTICULOS 58 FRACCION II, INCISO B) EN SU SEGUNDO PARRAFO; 144 A EN SU CUARTO PARRAFO; 144 F; 147 EN SUS FRACCIONES I, II, III Y IV Y 149 EN SUS PARRAFOS CUARTO, QUINTO Y SEXTO. SE DEROGA LA FRACCION V DEL ARTICULO 147 DEL CODIGO ELECTORAL DEL ESTADO DE MEXICO.
+DECRETO NÚMERO 174, POR EL QUE SE REFORMAN LOS ARTÍCULOS 58 FRACCIÓN II, INCISO B) EN SU SEGUNDO PÁRRAFO; 144 A EN SU CUARTO PÁRRAFO; 144 F; 147 EN SUS FRACCIONES I, II, III Y IV Y 149 EN SUS PÁRRAFOS CUARTO, QUINTO Y SEXTO. SE DEROGA LA FRACCIÓN V DEL ARTÍCULO 147 DEL CÓDIGO ELECTORAL DEL ESTADO DE MÉXICO.
 
 PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
 
@@ -6387,7 +6389,7 @@ TERCERO.- Se derogan las disposiciones de igual o menor jerarquía que se oponga
 
 G.G. 25 DE SEPTIEMBRE DE 2010.
 
-DECRETO NUMERO 175, POR EL QUE SE REFORMAN Y ADICIONAN LAS FRACCIONES II INCISO B) Y III DEL ARTICULO 58 DEL CODIGO ELECTORAL DEL ESTADO DE MEXICO.
+DECRETO NÚMERO 175, POR EL QUE SE REFORMAN Y ADICIONAN LAS FRACCIONES II INCISO B) Y III DEL ARTÍCULO 58 DEL CÓDIGO ELECTORAL DEL ESTADO DE MÉXICO.
 
 PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
 
@@ -6397,7 +6399,7 @@ TERCERO.- Se derogan las disposiciones de igual o menor jerarquía que se oponga
 
 G.G. 25 DE SEPTIEMBRE DE 2010.
 
-DECRETO NUMERO 176, POR EL QUE SE REFORMAN LOS ARTICULOS 158 EN SUS FRACCIONES I, IV Y V Y 162 EN SU PARRAFO SEGUNDO DEL CODIGO ELECTORAL DEL ESTADO DE MEXICO.
+DECRETO NÚMERO 176, POR EL QUE SE REFORMAN LOS ARTÍCULOS 158 EN SUS FRACCIONES I, IV Y V Y 162 EN SU PÁRRAFO SEGUNDO DEL CÓDIGO ELECTORAL DEL ESTADO DE MÉXICO.
 
 PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
 
@@ -6410,3 +6412,13 @@ PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del G
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
 
 TERCERO.- El Instituto Electoral del Estado de México, deberá realizar las adecuaciones al Reglamento conforme a lo previsto en el presente Decreto, dentro de los treinta días naturales siguientes a su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 1 DE SEPTIEMBRE DE 2011.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- Cuando en otros ordenamientos legales, se haga referencia al término personas con capacidades diferentes, se entenderá que corresponde al término personas con discapacidad.
+
+CUARTO.- El Ejecutivo del Estado hará las modificaciones a los reglamentos, decretos administrativos, acuerdos y demás disposiciones de su competencia, para incorporar a estos el término de discapacitados en sustitución de personas con capacidades diferentes, de acuerdo con el presente Decreto.
