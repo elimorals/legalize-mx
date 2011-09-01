@@ -4,7 +4,7 @@ identifier: "TAM-ley-organica-de-la-administracion-publica-del-estado-de-42429"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2004-12-21"
-last_updated: "2010-12-29"
+last_updated: "2011-09-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=42429&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "TAM"
 ---
 # LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE TAMAULIPAS
 
-LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE TAMAULIPAS
+LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE DICIEMBRE DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE SEPTIEMBRE DE 2011.
 
 Ley publicada en el Anexo del Periódico Oficial del Estado de Tamaulipas, el martes 21 de diciembre de 2004.
 
@@ -459,13 +459,13 @@ XXIV. Coordinar administrativamente a la entidad estatal denominada Unidad de Pr
 
 XXV. Las demás que le señalen las leyes, reglamentos y otras disposiciones jurídicas, así como las que le encomiende el Gobernador del Estado con relación a sus competencias.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 29 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 29 DE DICIEMBRE DE 2010)</small>
 
 #### Sección IV. De la Secretaría de Desarrollo Económico y Turismo
 
 ###### ARTICULO 27.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE DICIEMBRE DE 2010)</small>
 
 A la Secretaría de Desarrollo Económico y Turismo, además de las atribuciones que le confieren las leyes aplicables, le corresponde el despacho de los siguientes asuntos:
 
@@ -547,13 +547,11 @@ XXXI. Administrar y operar los fondos para financiar a la micro, pequeña y medi
 
 XXXII. Coordinar, en el ámbito de su competencia, la operación de los fondos y fideicomisos de fomento establecidos por el titular del Ejecutivo con los gobiernos federal y municipales, y los sectores social y privado;
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2011)</small>
 
-XXXIII. Coordinar administrativamente las actividades de las entidades denominadas: Administración Portuaria Integral de Tamaulipas, A. C.; Servicios Aeroportuarios Tamaulipecos, S.A. de C.V.;
+XXXIII. Coordinar administrativamente las actividades de las entidades denominadas:
 
-Comisión Estatal para la Conservación y Aprovechamiento Económico de la Vida Silvestre;
-
-Zoológico, Parque Recreativo y de Investigación Tamatán, así como las demás entidades que determine el Ejecutivo del Estado, de acuerdo a la materia de su competencia;
+Administración Portuaria Integral de Tamaulipas, A. C.; Servicios Aeroportuarios Tamaulipecos, S.A. de C.V.; Zoológico, Parque Recreativo y de Investigación Tamatán, así como las demás entidades que determine el Ejecutivo del Estado, de acuerdo a la materia de su competencia;
 
 > <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2010)</small>
 
@@ -603,15 +601,13 @@ XLIV. Participar, en el ámbito de su competencia, con la Secretaría de Desarro
 
 XLV. Formular, promover y conducir las estrategias, objetivos y normas en materia de turismo de naturaleza y turismo cinegético, en coordinación con la Secretaría de Desarrollo Urbano y Medio Ambiente, con objeto de lograr el uso óptimo de los recursos, manteniéndose los procesos ambientales esenciales e impulsándose la conservación de los recursos naturales y la diversidad biológica; y (sic)
 
-> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2010)</small>
-
-XLVI. Regular y promover la protección de los recursos de fauna y flora silvestres en el territorio del Estado, así como regular y controlar su aprovechamiento sustentable;
+XLVI. (DEROGADA, P.O. 1 DE SEPTIEMBRE DE 2011)
 
 > <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2010)</small>
 
 XLVII. Las demás que le señalen las leyes, reglamentos y otras disposiciones jurídicas, así como las que le encomiende el Gobernador del Estado con relación a sus competencias.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 29 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 29 DE DICIEMBRE DE 2010)</small>
 
 #### Sección V. De la Secretaría del Trabajo
 
@@ -733,13 +729,13 @@ XXVIII. Promover y participar, de manera conjunta con la Secretaría de Desarrol
 
 XXIX. Las demás que le señalen las leyes, reglamentos y otras disposiciones jurídicas, así como las que le encomiende el Gobernador del Estado con relación a sus competencias.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 29 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 29 DE DICIEMBRE DE 2010)</small>
 
 #### Sección VII. De la Secretaría de Desarrollo Social
 
 ###### ARTICULO 30.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE DICIEMBRE DE 2010)</small>
 
 A la Secretaría de Desarrollo Social, además de las atribuciones que le asignan las disposiciones legales vigentes, le corresponde el despacho de los siguientes asuntos:
 
@@ -905,7 +901,7 @@ XXII. Coordinar administrativamente las actividades del Sistema para el Desarrol
 
 XXIII. Las demás que le señalen las leyes, reglamentos y otras disposiciones jurídicas, así como las que le encomiende el Gobernador del Estado con relación a sus competencias.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 29 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 29 DE DICIEMBRE DE 2010)</small>
 
 #### Sección X. De la Secretaría de Desarrollo Urbano y Medio Ambiente
 
@@ -917,7 +913,9 @@ A la Secretaría de Desarrollo Urbano y Medio Ambiente, además de las atribucio
 
 I. Formular y conducir la política general de asentamientos humanos, medio ambiente, recursos naturales y desarrollo sustentable; elaborar, actualizar y ejecutar los instrumentos de la planeación del ordenamiento territorial y desarrollo urbano y participar coordinadamente con los Municipios en la elaboración de sus Planes Municipales respectivos;
 
-II. Aplicar las disposiciones legales y administrativas estatales en materia de ordenamiento territorial, desarrollo urbano, asentamientos humanos, vivienda, medio ambiente, forestal, áreas naturales protegidas, residuos, recursos naturales y desarrollo sustentable; vigilar su cumplimiento, y proponer al Ejecutivo Estatal las reformas que estime pertinentes;
+> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2011)</small>
+
+II. Aplicar las disposiciones legales y administrativas estatales en materia de ordenamiento territorial, desarrollo urbano, asentamientos humanos, vivienda, medio ambiente, vida silvestre, forestal, áreas naturales protegidas, residuos, recursos naturales y desarrollo sustentable; vigilar su cumplimiento, y proponer al Ejecutivo Estatal las reformas que estime pertinentes;
 
 III. Procurar la integración de los asentamientos humanos irregulares al desarrollo urbano, de acuerdo con las leyes que rigen en la materia y las disposiciones administrativas que dicte el Ejecutivo;
 
@@ -961,7 +959,7 @@ XXII. Difundir los programas y estrategias relacionadas con el equilibrio ecoló
 
 XXIII. Promover y fomentar las investigaciones sobre el medio ambiente y el desarrollo sustentable;
 
-XXIV. Coordinar administrativamente a las entidades que determine el Ejecutivo del Estado, de acuerdo a la materia de su competencia;
+XXIV. (DEROGADA, P.O. 1 DE SEPTIEMBRE DE 2011)
 
 XXV. Elaborar y mantener actualizado el inventario de los recursos naturales en el Estado;
 
@@ -1017,17 +1015,19 @@ L. Formular, por conducto de la Comisión Estatal del Agua de Tamaulipas, la ado
 
 LI. Participar, por conducto de la Comisión Estatal del Agua de Tamaulipas, con el carácter de representante del Gobierno del Estado, en los consejos u organismos de cuenca de los que forma parte el Estado, de conformidad con la legislación aplicable;
 
-LlI. Coadyuvar con los Ayuntamientos, cuando así lo requieran y exista disponibilidad presupuestal, en la instalación, desarrollo y mantenimiento de obras de ornato y alumbrado público;
+LII. Coadyuvar con los Ayuntamientos, cuando así lo requieran y exista disponibilidad presupuestal, en la instalación, desarrollo y mantenimiento de obras de ornato y alumbrado público;
 
 LIII. Vigilar y opinar previamente a la modificación o demolición de inmuebles que pudieran tener valor cívico, arquitectónico o histórico en los Municipios;
 
-LlV. Elaborar y mantener actualizado el inventario del patrimonio histórico-cultural, y promover la conservación del entorno urbano original de las poblaciones del Estado;
+LIV. Elaborar y mantener actualizado el inventario del patrimonio histórico-cultural, y promover la conservación del entorno urbano original de las poblaciones del Estado;
 
-LV. Coordinar administrativamente las actividades de la (sic) entidades estatales denominadas: Comisión Estatal de Areas Naturales Protegidas; Instituto Tamaulipeco de Vivienda y Urbanismo; Comisión Estatal de Agua de Tamaulipas; Comisiones Municipales de Agua Potable y Alcantarillado; y de las otras entidades que determine el Ejecutivo del Estado, de acuerdo a la materia de su competencia; y
+> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2011)</small>
+
+LV. Coordinar administrativamente las actividades de las entidades estatales denominadas: Comisión Estatal de Áreas Naturales Protegidas; Comisión Estatal para la Conservación y Aprovechamiento Económico de la Vida Silvestre; Instituto Tamaulipeco de Vivienda y Urbanismo; Comisión Estatal de Agua de Tamaulipas; Comisiones Municipales de Agua Potable y Alcantarillado; y de las otras entidades que determine el Ejecutivo del Estado, de acuerdo a la materia de su competencia; y
 
 LVI. Las demás que le señalen las leyes, reglamentos y otras disposiciones jurídicas, así como las que le encomiende el Gobernador del Estado con relación a sus competencias.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 29 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 29 DE DICIEMBRE DE 2010)</small>
 
 #### Sección XI. De la Secretaría de Obras Públicas
 
@@ -1069,7 +1069,7 @@ XV. Llevar y mantener actualizado el Padrón de Contratistas de Obras Públicas 
 
 XVI. Las demás que le señalen las leyes, reglamentos y otras disposiciones jurídicas, así como las que le encomiende el Gobernador del Estado con relación a sus competencias.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 29 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 29 DE DICIEMBRE DE 2010)</small>
 
 #### Sección XII. De la Secretaría de Seguridad Pública
 
@@ -1135,11 +1135,13 @@ XXVII. Coordinar los programas y comisiones de seguridad pública;
 
 XXVIII. Coordinar actividades en materia vehicular con las autoridades federales;
 
-XXIX. Coordinar las tareas de vigilancia, con el apoyo de la Secretaría de Desarrollo Económico y Turismo, tendentes a prevenir y combatir las acciones que afecten el medio ambiente y los recursos naturales en el Estado, en especial la cacería furtiva, la afectación de la actividad cinegética, el uso inadecuado del agua y la disposición de materiales o residuos en lugares no autorizados para ello; así como vigilar la observancia y cumplimiento de las disposiciones establecidas en los ordenamientos en materia ambiental y desarrollo sustentable del Estado; y
+> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2011)</small>
+
+XXIX. Coordinar las tareas de vigilancia, con el apoyo de la Secretaría de Desarrollo Urbano y Medio Ambiente, tendentes a prevenir y combatir las acciones que afecten el medio ambiente y los recursos naturales en el Estado, en especial la cacería furtiva, la afectación de la actividad cinegética, el uso inadecuado del agua y la disposición de materiales o residuos en lugares no autorizados para ello; así como vigilar la observancia y cumplimiento de las disposiciones establecidas en los ordenamientos en materia ambiental y desarrollo sustentable del Estado; y
 
 XXX. Las demás que le señalen las leyes, reglamentos y otras disposiciones jurídicas, así como las que le encomiende el Gobernador del Estado con relación a sus competencias.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 29 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 29 DE DICIEMBRE DE 2010)</small>
 
 #### Sección XIII. De la Procuraduría General de Justicia
 
@@ -1185,7 +1187,7 @@ XVII. Las demás que le señalen las leyes, reglamentos y otras disposiciones ju
 
 ARTICULO 36 BIS. (DEROGADO, P.O. 29 DE DICIEMBRE DE 2010)
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 29 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 29 DE DICIEMBRE DE 2010)</small>
 
 #### Sección XIV. De la Contraloría Gubernamental
 
@@ -1399,7 +1401,7 @@ Dado en la residencia del Poder Ejecutivo, en Ciudad Victoria, Capital del Estad
 
 ATENTAMENTE.- SUFRAGIO EFECTIVO. NO REELECCION.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO.- TOMAS YARRINGTON RUVALCABA.- Rúbrica.- LA SECRETARIA GENERAL DE GOBIERNO.- MERCEDES DEL CARMEN GUILLEN VICENTE.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 12 DE SEPTIEMBRE DE 2006.
 
@@ -1498,3 +1500,11 @@ Los asuntos que con motivo del presente decreto pasen del conocimiento de una de
 ###### ARTICULO SEPTIMO.
 
 Cuando con motivo del presente decreto se confieran una denominación nueva o distinta a alguna dependencia cuyas funciones sean referidas por otros ordenamientos legales, dichas atribuciones se entenderán concedidas a la dependencia que determine el presente decreto.
+
+P.O. 1 DE SEPTIEMBRE DE 2011.
+
+ARTÍCULO PRIMERO El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Las Secretarías de Finanzas, de Administración y la Contraloría Gubernamental, coordinarán las acciones necesarias para el cumplimiento del presente Decreto en todos sus términos, gozando al efecto de las atribuciones necesarias para su estricta aplicación.
