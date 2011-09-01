@@ -4,7 +4,7 @@ identifier: "MEX-ley-para-la-prevencion-y-erradicacion-de-la-violencia-63497"
 country: "mx"
 rank: "ley"
 publication_date: "2008-09-25"
-last_updated: "2011-03-18"
+last_updated: "2011-09-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=63497&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "MEX"
 
 LEY PARA LA PREVENCION Y ERRADICACION DE LA VIOLENCIA FAMILIAR DEL ESTADO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DE GOBIERNO: 18 DE MARZO DE 2011.
+> <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO EN EL ARTICULO TERCERO TRANSITORIO DEL DECRETO NUMERO 337, PUBLICADO EN LA G.G. DE 1 DE SEPTIEMBRE DE 2011, CUANDO EN OTROS ORDENAMIENTOS LEGALES, SE HAGA REFERENCIA AL TERMINO PERSONAS CON CAPACIDADES DIFERENTES, SE ENTENDERA QUE CORRESPONDE AL TERMINO PERSONAS CON DISCAPACIDAD.</small>
+
+ULTIMA REFORMA PUBLICADA EN LA GACETA DE GOBIERNO: 1 DE SEPTIEMBRE DE 2011.
 
 Ley publicada en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el jueves 25 de septiembre de 2008.
 
@@ -143,11 +145,15 @@ l. Los miembros integrantes del Grupo Familiar;
 
 II. La persona con la que tiene o tuvo relación de concubinato, de pareja unida fuera de matrimonio o de noviazgo;
 
-III. Cualquier miembro del Grupo Familiar sin importar edad y condición, con capacidades diferentes y adultos mayores, que estén sujetos a patria potestad y tutela, guarda, protección, educación, cuidado o custodia;
+> <small>(REFORMADA, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
+
+III. Cualquier miembro del Grupo Familiar sin importar edad y condición, discapacidades y adultos mayores, que estén sujetos a patria potestad y tutela, guarda, protección, educación, cuidado o custodia;
 
 IV. Cualquier miembro del Grupo Familiar que aún cuando no tenga parentesco, haya habitado por cualquier razón en el domicilio familiar y que se le haya dado trato de familiar; y
 
-V. Cualquier miembro del Grupo Familiar que haya o no habitado en el domicilio familiar y que hubiera tenido bajo su cuidado o atención remunerada o no, a un menor de edad, adulto mayor o persona con alguna capacidad diferente.
+> <small>(REFORMADA, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
+
+V. Cualquier miembro del Grupo Familiar que haya o no habitado en el domicilio familiar y que hubiera tenido bajo su cuidado o atención remunerada o no, a un menor de edad, adulto mayor o discapacitado.
 
 ### CAPÍTULO IV. CONSEJO PARA PREVENIR Y ERRADICAR LA VIOLENCIA FAMILIAR DEL ESTADO DE MÉXICO
 
@@ -249,7 +255,7 @@ El Presidente tendrá las siguientes atribuciones:
 
 l. Representar al Consejo ante las dependencias, entidades, centros, Instituciones y cualquier otra autoridad, organización o agrupación docente de investigación o asistencia que se relacione con el objeto de la Ley;
 
-II Vigilar con apoyo del Secretario Técnico el cumplimiento de los acuerdos;
+II. Vigilar con apoyo del Secretario Técnico el cumplimiento de los acuerdos;
 
 III. Proponer y someter a la aprobación del Consejo, el proyecto del Programa Anual;
 
@@ -446,3 +452,13 @@ QUINTO.- El Consejo de la Judicatura del Estado deberá proveer respecto de la c
 SEXTO.- El Procurador General de Justicia del Estado de México, deberá expedir el acuerdo a que se refiere la fracción XXV del artículo 51 de la Ley de Acceso de las Mujeres a una Vida Libre de Violencia del Estado de México, en un plazo máximo de quince días, contados a partir de la publicación del presente Decreto.
 
 SÉPTIMO.- La Procuraduría General de Justicia del Estado de México, emitirá en un plazo no mayor de 60 días naturales siguientes a la vigencia, los protocolos de investigación mínimos para la comprobación de los nuevos delitos tipificados del presente decreto.
+
+G.G. 1 DE SEPTIEMBRE DE 2011.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- Cuando en otros ordenamientos legales, se haga referencia al término personas con capacidades diferentes, se entenderá que corresponde al término personas con discapacidad.
+
+CUARTO.- El Ejecutivo del Estado hará las modificaciones a los reglamentos, decretos administrativos, acuerdos y demás disposiciones de su competencia, para incorporar a estos el término de discapacitados en sustitución de personas con capacidades diferentes, de acuerdo con el presente Decreto.
