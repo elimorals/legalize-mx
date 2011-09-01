@@ -4,7 +4,7 @@ identifier: "MEX-codigo-civil-del-estado-de-mexico-25221"
 country: "mx"
 rank: "codigo"
 publication_date: "2002-06-07"
-last_updated: "2011-08-31"
+last_updated: "2011-09-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25221&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "MEX"
 
 CODIGO CIVIL DEL ESTADO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 18 DE AGOSTO DE 2011.
+> <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO EN EL ARTICULO TERCERO TRANSITORIO DEL DECRETO NUMERO 337, PUBLICADO EN LA G.G. DE 1 DE SEPTIEMBRE DE 2011, CUANDO EN OTROS ORDENAMIENTOS LEGALES, SE HAGA REFERENCIA AL TERMINO PERSONAS CON DISCAPACIDADES DIFERENTES, SE ENTENDERA QUE CORRESPONDE AL TERMINO PERSONAS CON DISCAPACIDAD.</small>
 
-> <small>N. DE E. LA FE DE ERRATAS PUBLICADA EN LA G.G. EL 31 DE AGOSTO DE 2011 NO APLICA AL ARTICULADO DEL DECRETO PUBLICADO EN LA G.G. DE 18 DE AGOSTO DE 2011.</small>
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 1 DE SEPTIEMBRE DE 2011.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el viernes 7 de junio de 2002.
 
@@ -1919,9 +1919,9 @@ Reparto de la obligación alimentaria
 
 139.- Si fueren varios los que deben dar los alimentos y todos tuvieren posibilidad para hacerlo, el Juez repartirá el importe entre ellos, en proporción a sus haberes.
 
-> <small>(ADICIONADO, G.G. 7 DE SEPTIEMBRE DEL 2004)</small>
+> <small>(REFORMADO, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
 
-Si fuesen varios los acreedores alimentarios, el Juez repartirá el importe de la pensión, atendiendo a las necesidades e interés superior de las niñas, niños o aquellos con capacidades diferentes sobre los adolescentes.
+Si fuesen varios los acreedores alimentarios, el Juez repartirá el importe de la pensión, atendiendo a las necesidades e interés superior de las niñas, niños o aquellos discapacitados sobre los adolescentes.
 
 Posibilidad económica de algunos para dar alimentos
 
@@ -17328,3 +17328,13 @@ DÉCIMO PRIMERO.- Respecto de todos los libros o legajos que se encuentren en re
 DÉCIMO SEGUNDO.- Las referencias en Ley a anotaciones marginales se harán en el Folio.
 
 DÉCIMO TERCERO.- Las Oficinas Registrales mientras no operen con sistema electrónico, seguirán haciendo sus funciones en soporte de papel.
+
+G.G. 1 DE SEPTIEMBRE DE 2011.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- Cuando en otros ordenamientos legales, se haga referencia al término personas con capacidades diferentes, se entenderá que corresponde al término personas con discapacidad.
+
+CUARTO.- El Ejecutivo del Estado hará las modificaciones a los reglamentos, decretos administrativos, acuerdos y demás disposiciones de su competencia, para incorporar a estos el término de discapacitados en sustitución de personas con capacidades diferentes, de acuerdo con el presente Decreto.
