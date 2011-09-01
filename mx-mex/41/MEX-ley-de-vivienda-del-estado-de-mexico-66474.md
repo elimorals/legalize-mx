@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-vivienda-del-estado-de-mexico-66474"
 country: "mx"
 rank: "ley"
 publication_date: "2009-01-22"
-last_updated: "2009-01-22"
+last_updated: "2011-09-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=66474&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "MEX"
 
 LEY DE VIVIENDA DEL ESTADO DE MEXICO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO EN EL ARTICULO TERCERO TRANSITORIO DEL DECRETO NUMERO 337, PUBLICADO EN LA G.G. DE 1 DE SEPTIEMBRE DE 2011, CUANDO EN OTROS ORDENAMIENTOS LEGALES, SE HAGA REFERENCIA AL TERMINO PERSONAS CON CAPACIDADES DIFERENTES, SE ENTENDERA QUE CORRESPONDE AL TERMINO PERSONAS CON DISCAPACIDAD.</small>
+
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 1 DE SEPTIEMBRE DE 2011.
 
 Ley publicada en la Tercera Sección de la Gaceta Oficial del Estado de México, el jueves 22 de enero de 2009.
 
@@ -55,9 +57,11 @@ La vivienda es un sector prioritario para el desarrollo económico y la integrac
 
 La política estatal y los programas, así como el conjunto de instrumentos y acciones que señala este ordenamiento, se conducirán al desarrollo y promoción de las actividades de las dependencias y entidades de la administración pública estatal en materia de vivienda, su coordinación con los municipios y la concertación con los sectores social o privado.
 
+> <small>(REFORMADO, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
+
 ###### Artículo 4.
 
-Las disposiciones de esta Ley deberán aplicarse bajo principios de equidad e inclusión social, de manera tal que, toda persona que reside en el Estado de México, sin importar su origen étnico, género, edad, capacidades diferentes, su condición social o económica, las condiciones de salud, la religión, las opiniones, las preferencias o el estado civil, pueda ejercer su derecho constitucional a una vivienda digna y decorosa.
+Las disposiciones de esta Ley deberán aplicarse bajo principios de equidad e inclusión social, de manera tal que, toda persona que reside en el Estado de México, sin importar su origen étnico, género, edad, discapacidades, su condición social o económica, las condiciones de salud, la religión, las opiniones, las preferencias o el estado civil, pueda ejercer su derecho constitucional a una vivienda digna y decorosa.
 
 ###### Artículo 5.
 
@@ -688,3 +692,15 @@ EL SECRETARIO GENERAL DE GOBIERNO
 DR. VICTOR HUMBERTO BENITEZ TREVIÑO
 
 (RUBRICA).
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+G.G. 1 DE SEPTIEMBRE DE 2011.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- Cuando en otros ordenamientos legales, se haga referencia al término personas con capacidades diferentes, se entenderá que corresponde al término personas con discapacidad.
+
+CUARTO.- El Ejecutivo del Estado hará las modificaciones a los reglamentos, decretos administrativos, acuerdos y demás disposiciones de su competencia, para incorporar a estos el término de discapacitados en sustitución de personas con capacidades diferentes, de acuerdo con el presente Decreto.
