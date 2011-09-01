@@ -4,7 +4,7 @@ identifier: "FED-reglamento-del-instituto-federal-electoral-para-la-62098"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-08-08"
-last_updated: "2008-08-08"
+last_updated: "2011-09-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62098&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -20,7 +20,9 @@ scjn_last_update: "2011-09-01"
 
 REGLAMENTO DEL INSTITUTO FEDERAL ELECTORAL PARA LA PROMOCION DEL VOTO POR PARTE DE ORGANIZACIONES CIUDADANAS
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL PUNTO DE ACUERDO PRIMERO DEL REGLAMENTO DEL INSTITUTO FEDERAL ELECTORAL PARA LA PROMOCION DEL VOTO POR PARTE DE ORGANIZACIONES CIUDADANAS EN EL PROCESO ELECTORAL FEDERAL 2011-2012, PUBLICADO EN EL D.O.F. DE 1 DE SEPTIEMBRE DE 2011, EL PRESENTE ORDENAMIENTO HA SIDO DEROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: DEROGADO.
 
 Reglamento publicado en la Segunda Sección del Diario Oficial de la Federación, el viernes 8 de agosto de 2008.
 
@@ -269,3 +271,9 @@ Artículo 20 (sic). Toda contravención a lo establecido en el presente Reglamen
 ## TRANSITORIO
 
 Unico. El presente Reglamento entrará en vigor a partir del día siguiente de su publicación en el Diario Oficial de la Federación.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 1 DE SEPTIEMBRE DE 2011.
+
+LA MODIFICACION CON ANTELACION CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE FEDERAL.
