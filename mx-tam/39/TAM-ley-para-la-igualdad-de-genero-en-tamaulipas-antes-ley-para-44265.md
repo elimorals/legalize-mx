@@ -4,7 +4,7 @@ identifier: "TAM-ley-para-la-igualdad-de-genero-en-tamaulipas-antes-ley-para-442
 country: "mx"
 rank: "ley"
 publication_date: "2005-03-08"
-last_updated: "2010-11-02"
+last_updated: "2011-09-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44265&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY PARA LA EQUIDAD DE GENERO EN TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE NOVIEMBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE SEPTIEMBRE DE 2011.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el martes 8 de marzo de 2005.
 
@@ -177,11 +177,15 @@ f) Realizar labores que la expongan al contacto con agentes infectocontagiosos o
 
 a) Incentivar la educación mixta, buscando siempre la permanencia de la mujer en todos los tipos y modalidades de educación;
 
-b) Impulsar programas de becas y apoyos económicos en favor de aquellas mujeres que en virtud de ser madres solteras hayan dejado los estudios prematuramente, a efecto de que puedan continuar con los mismos;
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2011)</small>
+
+b) Impulsar en los ámbitos educativos de los tres órdenes de gobierno, la adopción de programas de becas y apoyos económicos a favor de aquellas mujeres que en virtud de ser el sostén de su familia, hayan dejado prematuramente sus estudios, a efecto de que puedan continuar con los mismos;
 
 c) Proporcionar información sobre el derecho de toda persona a decidir sobre el número y espaciamiento de sus hijos;
 
-d) Establecer programas para lograr una mayor incorporación de las mujeres en el campo laboral, y propiciar que en igualdad de requisitos para su acceso al empleo se aliente su contratación en aras de alcanzar el equilibrio entre géneros;
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2011)</small>
+
+d) Alentar la adopción de programas en las instituciones públicas de los tres órdenes de gobierno para lograr una mayor incorporación de las mujeres al trabajo remunerado y propiciar que en igualdad de requisitos para su acceso al empleo, se aliente su contratación en aras de alcanzar el equilibrio entre géneros;
 
 e) Impulsar en las instituciones y organizaciones de los sectores público, social y privado, donde el número de mujeres trabajadoras sea menor al de los varones, el derecho preferente de aquéllas a los beneficios de becas para la capacitación laboral, tanto en el Instituto Tamaulipeco de Capacitación para el Empleo como en cualquier otro que se establezca con recursos públicos;
 
@@ -191,7 +195,9 @@ g) Establecer procedimientos para que en los programas sociales de vivienda, las
 
 h) Impulsar la creación de espacios públicos donde se incentive y además se proporcionen los medios adecuados para el desarrollo de actividades culturales, recreativas y de asistencia en beneficio de la mujer;
 
-i) Formar mujeres con carácter de cuadros políticos susceptibles de ser postuladas para el ejercicio de cargos de elección popular, con miras a lograr una proporción de candidatas equivalente al porcentaje de mujeres que conforman la sociedad;
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2011)</small>
+
+i) Impulsar la formación de mujeres con carácter de cuadros políticos susceptibles de ser postuladas para el ejercicio de cargos de elección popular, con miras a lograr una proporción de candidatos equivalentes al porcentaje de mujeres que conforman la sociedad;
 
 j) Disponer procedimientos para evitar se menoscaben los derechos de la mujer en los asuntos de carácter judicial en los que sea parte, especialmente cuando tenga el carácter de agraviada o víctima, y
 
@@ -207,7 +213,9 @@ b) Disfrutar de estabilidad en el empleo, cargo u ocupación que desarrolle;
 
 c) No sufrir discriminación alguna;
 
-d) Acceder a las oportunidades de empleo en igualdad de condiciones con los varones y con las mujeres que no estén embarazadas;
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2011)</small>
+
+d) Promover y respetar el acceso a las oportunidades de empleo en igualdad de condiciones con los varones y con las mujeres;
 
 e) Ocupar cargos públicos en igualdad de condiciones que los varones y las mujeres no embarazadas;
 
@@ -217,7 +225,9 @@ g) Acceder a los servicios de orientación y de asesoría legal en las instituci
 
 h) Recibir la atención y orientación gratuita sobre su esfera de derechos por parte del Instituto de la Mujer Tamaulipeca;
 
-i) Disfrutar de los distintos derechos y prerrogativas contenidos en las leyes, reglamentos, contratos colectivos o convenios de cualquier naturaleza en materia de descanso con motivo del embarazo y posterior al parto; y
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2011)</small>
+
+i) Fomentar el disfrute de los distintos derechos y prerrogativas contenidos en las leyes, reglamentos, contrato colectivo o convenio de cualquier naturaleza en materia de descanso con motivo del embarazo y posterior al parto; y
 
 j) Acceder en forma preferente al disfrute de los beneficios de los programas sociales del Gobierno del Estado, sin demérito de los derechos de otras personas en condiciones de vulnerabilidad social.
 
@@ -275,7 +285,9 @@ d) Los rendimientos, recuperaciones, bienes, derechos y demás ingresos que le g
 
 1. Para la atención de las situaciones no previstas en el presente ordenamiento, se aplicarán supletoriamente las leyes relativas a la organización de la administración pública estatal, las entidades paraestatales y el derecho común local.
 
-2. Para efectos administrativos, el Secretario de Desarrollo Social, Cultura y Deporte podrá interpretar sus disposiciones, con base a los principios generales del derecho.
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2011)</small>
+
+2. Para efectos administrativos, el titular de la Secretaría de Desarrollo Social, podrá interpretar sus disposiciones, con base a los principios generales del derecho.
 
 #### Sección Segunda
 
@@ -301,9 +313,9 @@ g) Establecer vínculos de colaboración con el Poder Legislativo y con los Ayun
 
 h) Actuar como órgano de consulta, capacitación y asesoría de las dependencias y entidades de la administración pública estatal, así como de las autoridades municipales y de los sectores social y privado, en materia de equidad de género y de igualdad de oportunidades para el desarrollo integral de la mujer, cuando así lo requieran;
 
-i) Promover el desarrollo de estrategias y metodologías de capacitación para el trabajo, impulsar la creación de fuentes de empleo e incentivar el financiamiento de créditos productivos, sociales y de servicios para la mujer;
+i) (DEROGADO, P.O. 1 DE SEPTIEMBRE DE 2011)
 
-j) Propiciar la profesionalización de las mujeres que prestan sus servicios en los poderes y entes públicos del Estado y los Municipios del mismo;
+j) (DEROGADO, P.O. 1 DE SEPTIEMBRE DE 2011)
 
 k) Proponer a las autoridades federales, estatales o municipales, según corresponda, la facilitación y simplificación de trámites para el establecimiento y operación de empresas, microempresas y proyectos productivos a cargo de la mujer o para su beneficio directo;
 
@@ -355,31 +367,31 @@ d) El Órgano de Vigilancia.
 
 2. La Dirección General cuenta con las unidades administrativas que establezca el Reglamento Interior, cuya expedición corresponde al Ejecutivo del Estado.
 
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2011)</small>
+
 ###### Artículo 17.
 
-1. La Junta de Gobierno es la máxima autoridad del Instituto.
+1. La Junta de Gobierno es la máxima autoridad del Instituto y se integra de la siguiente forma:
 
-2. La Junta de Gobierno se integra por:
+a) El Secretario de Desarrollo Social, quien la presidirá;
 
-a) Los titulares de cada una de las dependencias de la administración pública del Estado;
+b) El Secretario General de Gobierno;
 
-> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2005)</small>
+c) El Secretario del Trabajo;
 
-b) Un Diputado representante del H. Congreso del Estado integrante de la Comisión de Equidad y Género;
+d) El Secretario de Educación;
 
-c) Un integrante del Supremo Tribunal de Justicia del Estado;
+e) El Secretario de Salud;
 
-d) Un Representante del Sistema para el Desarrollo Integral de la Familia del Estado; y
+f) El Director General del Sistema Estatal para el Desarrollo Integral de la Familia;
 
-e) La Presidenta del Consejo Consultivo Ciudadano.
+g) Un Diputado representante del H. Congreso del Estado, integrante de la Comisión de Equidad y Género; y
 
-3. La Presidenta del Sistema para el Desarrollo Integral de la Familia del Estado desempeñará el cargo de Presidenta Honoraria y con esa calidad podrá asistir a las sesiones de la Junta de Gobierno.
+h) La Presidenta del Consejo Consultivo Ciudadano.
 
-4. La presidencia de la Junta de Gobierno corresponde al titular de la Secretaria de Desarrollo Social, Cultura y Deporte. Sus demás integrantes tienen el carácter de vocales.
+2. Los integrantes de la Junta de Gobierno nombrarán a su respectivo suplente, quien deberá desempeñar una función del nivel administrativo inmediato inferior.
 
-5. Los integrantes de la Junta de Gobierno nombrarán a su respectivo suplente, quien deberá desempeñar una función del nivel administrativo inmediato inferior. En el caso de la Presidenta del Consejo Consultivo Ciudadano, su suplente será designada de entre los miembros del órgano.
-
-6. La Junta de Gobierno, de acuerdo con el tema que se trate en su agenda, podrá invitar a los representantes de entidades estatales, instituciones públicas federales, estatales o municipales, así como de organizaciones de los sectores social o privado, quienes tendrán derecho de voz.
+3. La Junta de Gobierno, de acuerdo con el tema que se trate en su agenda, podrá invitar a los representantes de entidades estatales, instituciones públicas federales, estatales o municipales, así como de organizaciones de los sectores social o privado, quienes tendrán derecho de voz.
 
 ###### Artículo 18.
 
@@ -399,7 +411,9 @@ f) Aprobar, sustentada en las leyes aplicables, las políticas, proyectos y acci
 
 g) Establecer con base en la legislación aplicable, las normas internas en materia de adquisiciones, arrendamientos y contratación de bienes y servicios que requiera el Instituto;
 
-h) Proponer al Gobernador del Estado el Reglamento Interior del Instituto;
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2011)</small>
+
+h) Proponer al Gobernador del Estado el Estatuto Orgánico del Instituto;
 
 i) Aprobar los manuales de organización, de procedimientos y de atención al público;
 
@@ -413,7 +427,9 @@ ll) Expedir la convocatoria para la integración del Consejo Consultivo Ciudadan
 
 m) Adoptar los acuerdos necesarios para el ejercicio de las atribuciones del Instituto, y
 
-n) Las demás que establezca esta ley, otros ordenamientos legales y el Reglamento Interior del Instituto.
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2011)</small>
+
+n) Las demás que establezca esta ley, otros ordenamientos legales y el Estatuto Orgánico del Instituto.
 
 #### Sección Cuarta.
 
@@ -431,7 +447,9 @@ De las Sesiones.
 
 5. La Junta de Gobierno sesionará válidamente con la asistencia de por lo menos la mitad más uno de sus integrantes, entre ellos, el titular de la Presidencia. Las resoluciones se tomarán por votación mayoritaria de los presentes. En caso de empate, la Presidencia de la Junta de Gobierno tendrá el voto decisorio.
 
-6. Los vocales titulares de la Junta de Gobierno tendrán derecho a voz y voto; en su ausencia estos derechos corresponderán a sus respectivos suplentes.
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2011)</small>
+
+6. Los titulares de la Junta de Gobierno tendrán derecho a voz y voto; en su ausencia estos derechos corresponderán a sus respectivos suplentes.
 
 7. Las titulares de la Dirección General y del Órgano de Vigilancia asistirán a las sesiones de la Junta de Gobierno y tendrán únicamente derecho a voz.
 
@@ -469,13 +487,17 @@ a) Asistir a las sesiones de la Junta de Gobierno, con derecho a voz;
 
 b) Administrar y representar legalmente al Instituto, para lo cual tendrá poderes generales para actos de dominio, administración, pleitos y cobranzas, con todas las facultades generales y las que requieran cláusula especial; para suscribir, endosar y negociar títulos de crédito, sustituirlos o revocarlos; para promover y desistirse del juicio de amparo, querellas y denuncias penales, y para actuar ante todas las autoridades laborales; estos poderes podrán ser otorgados total o parcialmente, a favor de quien la Junta de Gobierno autorice, con base en la propuesta de quien sea titular de la Dirección General;
 
-c) Proponer al Ejecutivo del Estado, por conducto del titular de la Secretaría de Desarrollo Social, Cultura y Deporte, proyectos de iniciativas de ley que favorezcan la equidad de género y la igualdad de oportunidades para el desarrollo integral de la mujer;
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2011)</small>
+
+c) Proponer al Ejecutivo del Estado, por conducto del titular de la Secretaría de Desarrollo Social, proyectos de iniciativas de ley que favorezcan la equidad de género y la igualdad de oportunidades para el desarrollo integral de la mujer;
 
 d) Celebrar actos y otorgar documentos inherentes al objeto y funciones del Instituto;
 
 e) Ejecutar y dar seguimiento al debido cumplimiento de los acuerdos de la Junta de Gobierno;
 
-f) Presentar a consideración y, en su caso, aprobación de la Junta de Gobierno, el anteproyecto de Reglamento Interior del Instituto, así como los proyectos de manuales de organización, de procedimientos y de atención al público;
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2011)</small>
+
+f) Presentar a consideración y, en su caso, aprobación de la Junta de Gobierno, el anteproyecto de Estatuto Orgánico del Instituto, así como los proyectos de manuales de organización, de procedimientos y de atención al público;
 
 g) Elaborar el proyecto de Programa Institucional de la Mujer y someterlo a la aprobación de la Junta de Gobierno;
 
@@ -497,7 +519,9 @@ n) Establecer vínculos de colaboración con los responsables del área de equid
 
 ñ) Impulsar la creación de institutos municipales de las mujeres y la apertura de oficinas regionales o municipales del Instituto, y
 
-o) Las demás que establezca esta ley, otros ordenamientos legales, el Reglamento Interior del Instituto, así como los acuerdos de la Junta de Gobierno.
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2011)</small>
+
+o) Las demás que establezca esta ley, otros ordenamientos legales, el Estatuto Orgánico, así como los acuerdos de la Junta de Gobierno.
 
 ###### Artículo 23.
 
@@ -527,7 +551,9 @@ Del Consejo Consultivo Ciudadano del Instituto.
 
 ###### Artículo 25.
 
-1. El Consejo estará integrado mayoritariamente por mujeres en un número no menor de diez ni mayor de veinte miembros, representativos de las organizaciones y asociaciones de los sectores social y privado.
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2011)</small>
+
+1. El Consejo estará integrado mayoritariamente por mujeres en un número no menor de cinco ni mayor a diez miembros, representativos de las organizaciones y asociaciones de los sectores social y privado.
 
 2. Los integrantes del Consejo no percibirán retribución, emolumento o compensación alguna por su desempeño.
 
@@ -535,9 +561,13 @@ Del Consejo Consultivo Ciudadano del Instituto.
 
 ###### Artículo 26.
 
-1. La estructura, organización y funciones del Consejo se determinará en el Reglamento Interior del Instituto.
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2011)</small>
 
-2. El Consejo será dirigido por una consejera presidenta, electa entre sus miembros y quien deberá presentar un informe anual a la Junta de Gobierno sobre las actividades del propio Consejo.
+1. La estructura, organización y funciones del Consejo se determinará en el Estatuto Orgánico del Instituto.
+
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2011)</small>
+
+2. El Consejo será dirigido por una consejera presidenta, electa por la Junta de Gobierno y deberá presentar un informe anual a la Junta de Gobierno sobre las actividades del propio Consejo.
 
 3. El Consejo tendrá las siguientes facultades:
 
@@ -557,7 +587,9 @@ g) Hacer propuestas y formular opiniones a la Dirección General para el mejor e
 
 h) Integrar comisiones o comités para la atención de asuntos específicos, y
 
-i) Las demás que establezca esta ley, otros ordenamientos legales y el Reglamento Interior del Instituto.
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2011)</small>
+
+i). Las demás que establezca esta ley, otros ordenamientos legales y el Estatuto Orgánico del Instituto.
 
 ### Capítulo Cuarto.
 
@@ -567,13 +599,19 @@ Del Programa Institucional de la Mujer y su cumplimiento.
 
 1. El Programa Institucional de la Mujer es el documento comprensivo de las acciones que, en forma planeada y coordinada, deberán realizarse en beneficio de la mujer, a efecto de promover la equidad de género y la igualdad de oportunidades para el desarrollo integral de la mujer.
 
-2. El Programa se emitirá dentro de los noventa días naturales siguientes a la aprobación del Plan Estatal de Desarrollo.
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2011)</small>
+
+2. El Programa se emitirá dentro de los 180 días naturales siguientes a la aprobación del Plan Estatal de Desarrollo.
 
 ###### Artículo 28.
 
-1. El Programa se elaborará en consulta con la sociedad y será congruente con los programas relativos a la mujer que emanen del Sistema Nacional de Planeación Democrática.
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2011)</small>
 
-2. En la elaboración del Programa se incluirán las acciones de coordinación con el sector público y de concertación con los sectores social y privado, de conformidad con el Reglamento de esta ley.
+1. El Programa se elaborará en consulta con la sociedad y será congruente con los programas relativos a la mujer que emanen del Plan Estatal de Desarrollo.
+
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2011)</small>
+
+2. En la elaboración del Programa se incluirán las acciones de coordinación con el sector público y de concertación con los sectores social y privado, de conformidad con el Estatuto Orgánico del Instituto.
 
 3. El Programa deberá contener propuestas de carácter regional y municipal.
 
@@ -880,3 +918,21 @@ P.O. 2 DE NOVIEMBRE DE 2010.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 1 DE SEPTIEMBRE DE 2011.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+De acuerdo a su conformación en términos del presente Decreto, la Junta de Gobierno del Instituto, deberá quedar instalada en un plazo no mayor de sesenta días naturales contados a partir de su vigencia.
+
+###### ARTÍCULO TERCERO.
+
+Conforme a su integración en términos del presente Decreto, el Consejo Consultivo Ciudadano del Instituto, deberá quedar constituido dentro de los sesenta días naturales siguientes a la instalación de la Junta de Gobierno.
+
+###### ARTÍCULO CUARTO.
+
+La Junta de Gobierno propondrá al Ejecutivo del Estado el proyecto de Estatuto Orgánico del Instituto, dentro de los ciento veinte días naturales siguientes a su instalación.
