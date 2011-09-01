@@ -4,7 +4,7 @@ identifier: "MOR-ley-general-de-hacienda-del-estado-de-morelos-51070"
 country: "mx"
 rank: "ley_general"
 publication_date: "2006-07-05"
-last_updated: "2010-10-20"
+last_updated: "2011-09-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51070&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY GENERAL DE HACIENDA EL ESTADO DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE OCTUBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE SEPTIEMBRE DE 2011.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Morelos, el miércoles 5 de julio de 2006.
 
@@ -2325,7 +2325,9 @@ IX. Otros servicios: $2,000.00
 
 ### CAPÍTULO DÉCIMO OCTAVO. DE LA RECUPERACIÓN DE LOS MATERIALES UTILIZADOS EN EL PROCESO DE RESPUESTA A LAS SOLICITUDES DE ACCESO A LA INFORMACIÓN PÚBLICA
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE MARZO DE 2007)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2011)</small>
 
 ###### Artículo 97.
 
@@ -3027,37 +3029,49 @@ Los certificados de insolvencia no causarán los derechos fijados en la tarifa.
 
 ###### Artículo 113.
 
-Por la reproducción de copias simples de información pública, derivado de la solicitud de acceso a la información, se causará 0.015 días de salario mínimo general vigente en el Estado por cada una de las reproducciones de copias simples.
+Por la reproducción de copias simples de información pública, derivado de la solicitud de acceso a la información, se causarán 0.00882 días de Salario Mínimo General Vigente en el Estado por cada una de las reproducciones de copias simples.
 
-Queda exenta del pago que se prevé en el presente artículo la información que se genere con motivo de la respuesta a una solicitud de acceso a los datos personales o la corrección de éstos.
+Queda exenta del pago que se prevé en el presente artículo la información que se genere con motivo de la respuesta a una solicitud de acceso a los datos personales o la corrección de éstos. Asimismo por éste concepto no se generara el impuesto a que hace referencia el Capítulo Octavo Título Segundo de la presente Ley.
 
-El cobro de Derechos por conceptos de copias certificadas se causarán de conformidad con lo establecido en el Capítulo Décimo Séptimo del presente Título.
+El cobro de Derechos por conceptos de copias certificadas se causará de conformidad con lo establecido en el Capítulo Décimo Séptimo del presente Título.
 
 ###### Artículo 114.
 
 Por la reproducción de información en otros medios:
 
-Tarifa en días de salario
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE TABLA, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
 
-mínimo general vigente
+> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2011)</small>
 
-en el Estado
+N° CONCEPTO TARIFA EN DÍAS DE SALARIO
 
-1. En medios magnéticos por unidad 1.00
+MÍNIMO GENERAL VIGENTE
 
-2. En medios digitales por unidad 1.00
+EN EL ESTADO
 
-3. En medios holográficos por unidad 1.00
+1. En medios magnéticos por unidad
 
-4. Impresiones por cada hoja 0.25
+a) Disco magnético de tres y media pulgada 0.0705
 
-5. Impresiones en papel heliográfico
+b) Disco Compacto (CD) 0.1411
 
-hasta 60 x 90 cm. 6.00
+c) Disco Versátil Digital (DVD) 0.1940
 
-Por cada 25 cm. Extras 2.00
+2. En medios holográficos por unidad
 
-Los solicitantes que proporcionen el material en el que sea reproducida la información pública quedarán exentos del pago previsto en este artículo.
+3. Impresiones por cada hoja 0,0176
+
+4. Impresiones en papel heliográfico
+
+hasta 60 x 90 cm.
+
+Por cada 25 cm. Extras
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2011)</small>
+
+Los solicitantes que proporcionen el material en el que sea reproducida la información pública quedarán exentos del pago previsto en este artículo. Asimismo por éste concepto no se generará el impuesto a que hace referencia el Capítulo Octavo Título Segundo de la presente Ley.
 
 ## TÍTULO QUINTO. DE LOS PRODUCTOS
 
@@ -3414,3 +3428,11 @@ P.O. 20 DE OCTUBRE DE 2010.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado Libre y Soberano de Morelos.
 
 SEGUNDO.- Túrnese el presente Decreto al Titular del Poder Ejecutivo del Estado de Morelos para los efectos constitucionales respectivos.
+
+P.O. 1 DE SEPTIEMBRE DE 2011.
+
+PRIMERO.- Aprobado que sea el presente decreto, entrará en vigor a los treinta días naturales siguientes a partir de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado Libre y Soberano de Morelos.
+
+SEGUNDO.- Túrnese el presente Decreto al Titular del Poder Ejecutivo del Estado de Morelos, para los efectos constitucionales respectivos.
+
+TERCERO.- Se derogan las disposiciones de las Leyes de Ingresos Municipales correspondientes, en lo relativo a los costos de materiales utilizados en el proceso de respuesta a las solicitudes de acceso a la información pública u otros conceptos análogos y todo aquello que se contraponga a lo establecido en la presente ley.
