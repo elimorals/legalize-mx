@@ -4,7 +4,7 @@ identifier: "MOR-ley-que-crea-el-centro-de-rehabilitacion-integral-xoxotla-22269
 country: "mx"
 rank: "ley"
 publication_date: "1994-02-02"
-last_updated: "1994-02-02"
+last_updated: "2011-09-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22269&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY QUE CREA EL CENTRO DE REHABILITACION INTEGRAL XOXOTLA COMO ORGANISMO DESCENTRALIZADO ESTATAL
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE SEPTIEMBRE DE 2011.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 2 de febrero de 1994.
 
@@ -69,7 +69,9 @@ El organismo que se crea tendrá su domicilio en la Ciudad de Jojutla, Morelos.
 
 Es objeto del organismo:
 
-I.- Planear, organizar, dirigir y ejecutar las acciones que en materia de rehabilitación de inválidos, minusválidos e incapaces corresponden al Gobierno del Estado;
+> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2011)</small>
+
+I.- Planear, organizar, dirigir y ejecutar las acciones que en materia de rehabilitación de discapacitados corresponden al Gobierno del Estado.
 
 II.- Prestar servicios de diagnóstico, tratamiento y adiestramiento a inválidos;
 
@@ -93,6 +95,12 @@ III.- Las partidas presupuestales que le asigne el Gobierno del Estado;
 
 IV.- Las aportaciones, donativos, legados y en general cualquier recurso que reciba por cualquier título.
 
+> <small>(ADICIONADO, P.O. 1 DE SEPTIEMBRE DE 2011)</small>
+
+ARTICULO 4o BIS.- Los bienes muebles e inmuebles que formen parte del patrimonio del organismo serán inalienables e imprescriptibles y en ningún caso podrán constituirse gravamen sobre ellos.
+
+La custodia uso y destino de los bienes que constituyen el patrimonio del organismo no podrá variarse sin la autorización de la Junta de Gobierno.
+
 ###### ARTICULO 5o.
 
 Son órganos de gobierno:
@@ -101,7 +109,7 @@ I.- La Junta de Gobierno;
 
 II.- El Director General; y
 
-III.- El Consejo Consultivo.
+III.- (DEROGADA, P.O. 1 DE SEPTIEMBRE DE 2011)
 
 ###### ARTICULO 6o.
 
@@ -109,7 +117,9 @@ La Junta de Gobierno estará integrada como sigue:
 
 I.- La Presidenta del Patronato del Sistema para el Desarrollo Integral de la Familia, quien la presidirá;
 
-II.- El Director General del Sistema para el Desarrollo Integral de la Familia;
+> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2011)</small>
+
+II.- Un representante de la Secretaría de Salud;
 
 III.- El Director de Promotoras Voluntarias del Sistema para el Desarrollo Integral de la Familia;
 
@@ -121,11 +131,17 @@ VI.- El Representante de la Secretaría de Administración;
 
 VII.- El Representante de la Secretaría de la Contraloría; y
 
-VIII.- Un representante de la sociedad civil nombrado por la propia junta a propuesta de las organizaciones sociales existentes en la región.
+> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2011)</small>
+
+VIII.- Dos representantes de la sociedad civil nombrados por la propia junta a propuesta de las organizaciones sociales existentes en la región.
 
 Por cada miembro propietario habrá un suplente.
 
 Habrá un secretario técnico designado por la Junta a propuesta del Director General.
+
+> <small>(ADICIONADO, P.O. 1 DE SEPTIEMBRE DE 2011)</small>
+
+Los cargos de los integrantes de la Junta de Gobierno serán de carácter honorífico.
 
 ###### ARTICULO 7o.
 
@@ -155,9 +171,17 @@ X.- Las demás que sean necesarias para el ejercicio de las facultades anteriore
 
 La Junta de Gobierno celebrará sesiones ordinarias trimestrales y las extraordinarias que se requieran, de conformidad con el reglamento respectivo.
 
+> <small>(ADICIONADO, P.O. 1 DE SEPTIEMBRE DE 2011)</small>
+
+Dichas sesiones serán válidas con la asistencia de por lo menos la mitad más uno de sus integrantes.
+
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2011)</small>
+
 ###### ARTICULO 9o.
 
-El Director General será nombrado y removido libremente por el Gobernador del Estado.
+El Director General será nombrado y removido por el Gobernador del Estado, debiendo reunir los requisitos a que se refiere el artículo 32 de la Ley de los Organismos Auxiliares de la Administración Pública del Estado de Morelos.
+
+Cada seis años, ante el cambio de titular del Poder Ejecutivo, el Director General podrá ser ratificado o removido de su cargo.
 
 ###### ARTICULO 10.
 
@@ -177,9 +201,17 @@ VI.- Planear, dirigir y controlar el funcionamiento del Organismo con sujeción 
 
 VII.- Celebrar los convenios, contratos y actos jurídicos que sean indispensables para el cumplimiento de los objetivos del Organismo;
 
-VIII.- Actuar en representación del Organismo con facultades generales para actos de administración, para pleitos y cobranzas, así como aquellos que requieran cláusula especial conforme a las leyes; y
+> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2011)</small>
 
-IX.- Las demás que sean necesarias para el ejercicio de las anteriores.
+VIII.- Actuar en representación del Organismo con facultades generales para actos de administración, para pleitos y cobranzas, así como aquellos que requieran cláusula especial conforme a las leyes;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 1 DE SEPTIEMBRE DE 2011)</small>
+
+IX.- Proponer a la Junta de Gobierno las (sic) cambios, licencias, aumentos de sueldo y demás prestaciones de conformidad a las disposiciones aplicables; y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 1 DE SEPTIEMBRE DE 2011)</small>
+
+X.- Las demás que sean necesarias para el ejercicio de las anteriores.
 
 ###### ARTICULO 11.
 
@@ -188,6 +220,10 @@ El Consejo Técnico Consultivo es el órgano encargado de asesorar a la Direcci�
 ###### ARTICULO 12.
 
 Las relaciones laborales del Organismo con sus trabajadores se regirán por la Ley del Servicio Civil del Estado.
+
+> <small>(ADICIONADO, P.O. 1 DE SEPTIEMBRE DE 2011)</small>
+
+ARTICULO 12 BIS.- El régimen de seguridad social aplicable a los trabajadores que laboren en el “Centro de Rehabilitación Integral Xoxotla”, será el Instituto Mexicano del Seguro Social o el Instituto de Seguridad Social al Servicio de los Trabajadores del Estado, en términos del convenio suscrito con dichas instituciones.
 
 ###### ARTICULO 13.
 
@@ -232,3 +268,15 @@ EL SECRETARIO GENERAL DE GOBIERNO
 ALFREDO DE LA TORRE Y MARTINEZ
 
 Rúbricas
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 1 DE SEPTIEMBRE DE 2011.
+
+PRIMERO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado Libre y Soberano de Morelos.
+
+SEGUNDO.- El organismo descentralizado contará con un plazo de 90 días hábiles para la expedición de su Reglamento Interior.
+
+TERCERO.- Previo el aval del titular de ejecutivo, el organismo descentralizado deberá realizar los convenios respectivos ante la institución de seguridad social que corresponda.
+
+CUARTO.- Se derogan todas las disposiciones que se opongan al presente decreto.
