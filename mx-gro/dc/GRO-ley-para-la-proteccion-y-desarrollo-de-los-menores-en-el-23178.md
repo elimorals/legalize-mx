@@ -4,7 +4,7 @@ identifier: "GRO-ley-para-la-proteccion-y-desarrollo-de-los-menores-en-el-23178"
 country: "mx"
 rank: "ley"
 publication_date: "2002-01-15"
-last_updated: "2002-01-15"
+last_updated: "2011-09-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23178&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY PARA LA PROTECCION Y DESARROLLO DE LOS MENORES EN EL ESTADO DE GUERRERO, NUMERO 415
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE SEPTIEMBRE DE 2011.
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el martes 15 de enero de 2002.
 
@@ -959,6 +959,10 @@ IX. Participar en los procesos de mejora de la autoestima.
 
 El Sistema Estatal para el Desarrollo Integral de la Familia, vigilará que las Instituciones antes señaladas, cumplan y respeten los derechos de los menores de edad, reportando cualquier anomalía a la Junta Estatal de Asistencia Privada para que determine las sanciones que procedan en términos de la Ley respectiva.
 
+> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2011)</small>
+
+Asimismo, vigilará el cumplimiento de las normas oficiales e implementará los mecanismos necesarios para que las instituciones encargadas de dar albergue y atención a menores de edad cumplan los requerimientos de infraestructura, recursos y funcionamiento necesarios que garanticen su salud física y mental.
+
 ### CAPITULO II. DE LA PARTICIPACION CIUDADANA EN LA PROTECCION DE LOS MENORES DE EDAD
 
 ###### ARTICULO 118.
@@ -1086,3 +1090,13 @@ El Secretario General de Gobierno.
 C. MARCELINO MIRANDA AÑORVE.
 
 Rúbrica.
+
+N. DE. E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.
+
+P.O. 2 DE SEPTIEMBRE DE 2011.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+SEGUNDO. - Comuníquese el presente Decreto al Titular del Poder Ejecutivo del Estado de Guerrero, para los efectos legales conducentes.
