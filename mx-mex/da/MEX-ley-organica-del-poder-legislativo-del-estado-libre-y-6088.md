@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-del-poder-legislativo-del-estado-libre-y-6088"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-09-15"
-last_updated: "2011-08-29"
+last_updated: "2011-09-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6088&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 29 DE AGOSTO DE 2011.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 2 DE SEPTIEMBRE DE 2011.
 
 Ley publicada en la Tercera Sección de la Gaceta del Gobierno del Estado de México, el viernes 15 de septiembre de 1995.
 
@@ -288,6 +288,10 @@ La Legislatura recibirá en sesión solemne el 5 de septiembre de cada año, el 
 ###### Artículo 35.
 
 La Legislatura recibirá anualmente para su revisión las cuentas de gastos del Estado, correspondiente al año inmediato anterior, a más tardar el 15 de mayo, y de los municipios, dentro de los primeros quince días naturales del mes de marzo.
+
+> <small>(ADICIONADO, G.G. 2 DE SEPTIEMBRE DE 2011)</small>
+
+La Comisión de Vigilancia del Órgano Superior de Fiscalización deberá celebrar reunión de trabajo para revisar los Informes de Resultados presentados por el Órgano Superior de Fiscalización, a más tardar el 5 de noviembre.
 
 > <small>(REFORMADO, G.G. 30 DE ABRIL DE 2004)</small>
 
@@ -1914,3 +1918,9 @@ SEGUNDO.- Este Decreto entrará en vigor al día siguiente de su publicación en
 TERCERO.- El Sistema de registro de asistencia y votación electrónica, deberá ser puesto en operación en un plazo no mayor a 90 días.
 
 CUARTO.- Se faculta a la Junta de Coordinación Política, a la Secretaría de Administración y Finanzas y a la Secretaría de Asuntos Parlamentarios, para que en coordinación provean lo necesario para el cumplimiento del presente Decreto.
+
+G.G. 2 DE SEPTIEMBRE DE 2011.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
