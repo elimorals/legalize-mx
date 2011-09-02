@@ -4,7 +4,7 @@ identifier: "MEX-codigo-de-procedimientos-penales-para-el-estado-de-mexico-67092
 country: "mx"
 rank: "codigo"
 publication_date: "2009-02-09"
-last_updated: "2011-03-18"
+last_updated: "2011-09-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=67092&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE MÉXICO
 
 > <small>N. DE E. DE CONFORMIDAD CON EL DECRETO NO. 4 PUBLICADO EN LA G.G. DE 30 DE SEPTIEMBRE DE 2009, EL SISTEMA PROCESAL PENAL ACUSATORIO ADVERSARIAL Y ORAL HA SIDO INCORPORADO EN EL PRESENTE ORDENAMIENTO, Y ENTRARÁ EN VIGOR EN LOS SIGUIENTES PLAZOS Y DISTRITOS: 1) EL PRIMERO DE OCTUBRE DE DOS MIL NUEVE, EN LOS DISTRITOS JUDICIALES DE TOLUCA, LERMA, TENANCINGO Y TENANGO DEL VALLE; 2) EL PRIMERO DE ABRIL DE DOS MIL DIEZ, EN LOS DISTRITOS JUDICIALES DE CHALCO, OTUMBA Y TEXCOCO; 3) EL PRIMERO DE OCTUBRE DE DOS MIL DIEZ, EN LOS DISTRITOS JUDICIALES DE NETZAHUALCÓYOTL, EL ORO, IXTLAHUACA, SULTEPEC Y TEMASCALTEPEC; 4) EL PRIMERO DE ABRIL DE DOS MIL ONCE, EN LOS DISTRITOS JUDICIALES DE TLALNEPANTLA, CUAUTITLÁN Y ZUMPANGO; 5) EL PRIMERO DE OCTUBRE DE DOS MIL ONCE, EN LOS DISTRITOS JUDICIALES DE ECATEPEC DE MORELOS, JILOTEPEC Y VALLE DE BRAVO.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DE GOBIERNO: 18 DE MARZO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DE GOBIERNO: 2 DE SEPTIEMBRE DE 2011.
 
 Código publicado en la Sección Quinta de la Gaceta del Gobierno del Estado de México, el lunes 9 de febrero de 2009.
 
@@ -323,7 +323,9 @@ Jurisdicción penal
 
 La jurisdicción penal es irrenunciable e improrrogable.
 
-Juez o tribunal competente
+> <small>(REFORMADO EN SU RUBRO, G.G. 2 DE SEPTIEMBRE DE 2011)</small>
+
+Juez o Tribunal Competente
 
 ###### Artículo 30.
 
@@ -331,11 +333,17 @@ Es competente para conocer de un hecho considerado como delito el juez o tribuna
 
 Por razón de seguridad; atendiendo a las características del hecho imputado, circunstancias personales del inculpado u otras que impidan el desarrollo adecuado del procedimiento, podrá ser juez competente, el que corresponda al centro de reclusión que el ministerio público o el juez estime apropiado.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>(REFORMADO, G.G. 2 DE SEPTIEMBRE DE 2011)</small>
 
-> <small>(REFORMADO, G.G. 30 DE SEPTIEMBRE DE 2009)</small>
+El Tribunal de Juicio Oral se integrará colegiadamente por tres jueces y conocerá de la etapa de juicio tratándose de los delitos consumados o tentados siguientes:
 
-El tribunal de juicio oral se integrará colegiadamente por tres jueces y conocerá del juicio oral tratándose de los delitos de homicidio, violación, secuestro, robo en interior de casa habitación con violencia, robo que ocasione la muerte, robo de vehículo automotor o de la mercancía transportada a bordo de aquél, el de trata de personas, sedición, motín, deterioro al área natural protegida; los cometidos en contra de menores de edad a que se refiere el artículo 205, y el de lesiones previsto en el artículo 238 fracción V, del Código Penal del Estado; así como en aquellos en los que se ejerza la facultad de atracción.
+I. Violación, secuestro, robo en interior de casa habitación con violencia, robo que ocasione la muerte, robo de vehículo automotor o de la mercancía transportada a bordo de aquél, el de trata de personas, sedición, motín, los cometidos en contra de menores de edad a que se refiere el artículo 205;
+
+II. Los dolosos de homicidio, deterioro al área natural protegida y el de lesiones previsto en el artículo 238 fracción V del Código Penal del Estado; y
+
+III. Aquellos en los que se ejerza la facultad de atracción.
+
+De los demás delitos conocerá unitariamente, el juez de juicio oral.
 
 Las facultades que señale este código para el juez de juicio oral, las ejercerá unitariamente el juez que presida el tribunal de juicio oral.
 
@@ -1065,7 +1073,9 @@ Procedencia
 
 Procederán los acuerdos reparatorios en los delitos culposos; aquellos en los que proceda el perdón de la víctima u ofendido; los de contenido patrimonial que se hayan cometido sin violencia sobre las personas; y en aquellos que tengan señalada una pena cuyo término medio aritmético no exceda de cinco años de prisión.
 
-Se exceptúan de esta disposición los homicidios culposos producidos en accidentes de tránsito bajo el influjo de sustancias que alteren la capacidad de conducir vehículos o con motivo de la conducción de vehículo de motor de transporte público, cuando se ocasionen lesiones que pongan en peligro la vida a más de tres personas o se cause la muerte de dos o más personas.
+> <small>(REFORMADO, G.G. 2 DE SEPTIEMBRE DE 2011)</small>
+
+Se exceptúan de esta disposición el robo de vehículo automotor, robo a interior de casa habitación, los homicidios culposos producidos en accidentes de tránsito bajo el influjo de sustancias que alteren la capacidad de conducir vehículos o con motivo de la conducción de vehículo de motor de transporte público de pasajeros, de personal o escolar en servicio, cuando se ocasionen lesiones que pongan en peligro la vida a más de tres personas o se cause la muerte de dos o más personas.
 
 Si el delito afecta intereses difusos o colectivos, el ministerio público asumirá la representación para efectos del acuerdo reparatorio, cuando no se haya apersonado como víctima alguno de los sujetos autorizados en este código.
 
@@ -3983,7 +3993,9 @@ El ministerio público manifestará su deseo de aplicar el procedimiento abrevia
 
 En caso de dictarse sentencia de condena, se aplicarán las penas mínimas previstas por la ley para el delito cometido, reducidas en un tercio, sin perjuicio de cualquier otro beneficio que proceda en términos del código penal.
 
-Tratándose de los delitos de secuestro, homicidio doloso con modificativas que lo califiquen o lo agraven, violación y robo que ocasione la muerte, solamente se aplicarán las penas mínimas previstas por la ley para el delito cometido, con exclusión de cualquier otro beneficio.
+> <small>(REFORMADO, G.G. 2 DE SEPTIEMBRE DE 2011)</small>
+
+Tratándose de los delitos de secuestro, homicidio doloso con modificativas que lo califiquen o lo agraven, el homicidio culposo de dos o más personas, violación, robo que ocasione la muerte, robo de vehículo automotor con violencia y robo cometido a interior de casa habitación con violencia, solamente se aplicarán las penas mínimas previstas por la ley para el delito cometido, con exclusión de cualquier otro beneficio.
 
 Verificación del juez
 
@@ -4220,6 +4232,10 @@ Trámite
 Recibidas las constancias procesales, el tribunal competente resolverá de plano la admisibilidad y efecto del recurso. Citará a una audiencia dentro de los diez días siguientes, para resolver sobre la cuestión planteada.
 
 Excepcionalmente, de oficio o a petición de parte, podrá solicitar otras copias o las actuaciones originales. Ello no implicará la paralización, ni suspensión del procedimiento.
+
+> <small>(ADICIONADO, G.G. 2 DE SEPTIEMBRE DE 2011)</small>
+
+El Tribunal pronunciará resolución en la audiencia a que se refiere este articulo, salvo que la complejidad del asunto amerite mayor tiempo para su estudio y resolución, en cuyo caso, mediante auto motivado podrá prorrogarse hasta por un plazo de diez días.
 
 Celebración de la audiencia
 
@@ -5030,3 +5046,21 @@ QUINTO.- El Consejo de la Judicatura del Estado deberá proveer respecto de la c
 SEXTO.- El Procurador General de Justicia del Estado de México, deberá expedir el acuerdo a que se refiere la fracción XXV del artículo 51 de la Ley de Acceso de las Mujeres a una Vida Libre de Violencia del Estado de México, en un plazo máximo de quince días, contados a partir de la publicación del presente Decreto.
 
 SÉPTIMO.- La Procuraduría General de Justicia del Estado de México, emitirá en un plazo no mayor de 60 días naturales siguientes a la vigencia, los protocolos de investigación mínimos para la comprobación de los nuevos delitos tipificados del presente decreto.
+
+G.G. 2 DE SEPTIEMBRE DE 2011.
+
+###### ARTICULO PRIMERO.
+
+Publíquese este Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+###### ARTICULO SEGUNDO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+###### ARTICULO TERCERO.
+
+El concepto del cuerpo del delito y las disposiciones que le resulten compatibles, seguirán aplicándose para la vigencia del sistema de justicia penal anterior al sistema acusatorio penal; en los términos de los artículos Segundo y Sexto Transitorios del Código de Procedimientos Penales para el Estado, contenido en el Decreto 266, publicado en el Periódico Oficial "Gaceta del Gobierno" del Estado de México, el nueve de febrero de 2009, modificados mediante Decretos 289 y 3 de fecha treinta de julio y treinta de septiembre del dos mil nueve.
+
+###### ARTICULO CUARTO.
+
+Los recursos de apelación admitidos antes de la entrada en vigor del presente Decreto, se substanciarán conforme a las disposiciones anteriores al mismo.
