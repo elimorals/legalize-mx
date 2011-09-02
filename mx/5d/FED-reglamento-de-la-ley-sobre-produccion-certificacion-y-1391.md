@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-la-ley-sobre-produccion-certificacion-y-1391"
 country: "mx"
 rank: "reglamento"
 publication_date: "1993-05-26"
-last_updated: "1993-05-26"
+last_updated: "2011-09-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=1391&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "1993-05-24"
 
 REGLAMENTO DE LA LEY SOBRE PRODUCCION, CERTIFICACION Y COMERCIO DE SEMILLAS
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO DE LA LEY FEDERAL DE PRODUCCION, CERTIFICACION Y COMERCIO DE SEMILLAS, PUBLICADO EN EL D.O.F. DE 2 DE SEPTIEMBRE DE 2011, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: ABROGADO.
 
 Reglamento publicado en el Diario Oficial de la Federación el miércoles 26 de mayo de 1993.
 
@@ -392,3 +394,23 @@ PRIMERO.- El presente reglamento entrará en vigor al día siguiente de su publi
 SEGUNDO.- Se derogan todas las disposiciones reglamentarias y administrativas que se opongan al presente ordenamiento.
 
 Dado en la residencia del Poder Ejecutivo Federal, en México, Distrito Federal, a los veinticuatro días del mes de mayo de mil novecientos noventa y tres.- Carlos Salinas de Gortari.- Rúbrica.- El Secretario de Comercio y Fomento Industrial, Jaime Serra Puche.- Rúbrica.- El Secretario de Agricultura y Recursos Hidráulicos, Carlos Hank González.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+D.O.F. 2 DE SEPTIEMBRE DE 2011.
+
+PRIMERO.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Se abroga el Reglamento de la Ley sobre Producción, Certificación y Comercio de Semillas publicado en el Diario Oficial de la Federación el 26 de mayo de 1993, así como todas las disposiciones que se opongan al presente Reglamento.
+
+TERCERO.- La Secretaría publicará los formatos a que hace referencia el presente Reglamento dentro de los tres meses siguientes a la publicación de este ordenamiento.
+
+CUARTO.- La Secretaría publicará las guías a que hace referencia el presente Reglamento dentro de los tres meses siguientes a la publicación de este ordenamiento.
+
+QUINTO.- La Secretaría publicará las reglas a que hace referencia el presente Reglamento dentro de los tres meses siguientes a la publicación de este ordenamiento.
+
+SEXTO.- El Sistema Nacional de Semillas aprobará y publicará su Reglamento de operación y funcionamiento, dentro de los seis meses siguientes a la publicación de este ordenamiento.
+
+SÉPTIMO.- La Secretaría publicará las normas oficiales mexicanas a que hace referencia el presente Reglamento, en un plazo de doce meses a partir de que sea publicado el presente ordenamiento.
+
+OCTAVO.- Las erogaciones que, en su caso, se realicen con motivo de la entrada en vigor del presente Reglamento se cubrirán con cargo al presupuesto modificado autorizado de la Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación, en el ejercicio fiscal correspondiente, por lo que dicha Secretaría no deberá incrementar su presupuesto regularizable.
