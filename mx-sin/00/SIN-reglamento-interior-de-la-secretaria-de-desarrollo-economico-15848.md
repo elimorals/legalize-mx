@@ -4,7 +4,7 @@ identifier: "SIN-reglamento-interior-de-la-secretaria-de-desarrollo-economico-15
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-02-28"
-last_updated: "2011-07-06"
+last_updated: "2011-09-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15848&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "SIN"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA DE DESARROLLO ECONOMICO
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 26 DE JULIO DE 2011 EN EL P.O. DEL ESTADO DE SINALOA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 REGLAMENTO INTERIOR DE LA SECRETARIA DE DESARROLLO ECONOMICO
 
 ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE JULIO DE 2011.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIODICO OFICIAL DEL 2 DE SEPTIEMBRE DE 2011.</small>
 
 Reglamento publicado en la Tercera Sección del Periódico Oficial del Estado de Sinaloa, el lunes 28 de febrero del 2000.
 
@@ -225,8 +225,6 @@ IV. Agendar y manejar las audiencias del Secretario.
 
 #### SECCIÓN II. DE LA DIRECCIÓN GENERAL DEL SERVICIO NACIONAL DE EMPLEO SINALOA
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 2 DE SEPTIEMBRE DE 2011 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA, ASÍ COMO EL ARCHIVO ANEXO.</small>
-
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 6 DE JULIO DE 2011)</small>
 
 ###### Artículo 10.
@@ -241,15 +239,15 @@ III. Promover el empleo productivo a través de acciones de capacitación y colo
 
 IV. Coordinar el desarrollo de un sistema de información sobre los recursos humanos disponibles en el Estado, que opere como bolsa de trabajo, y coadyuve a la adecuada toma de decisiones y al fortalecimiento del mercado laboral en nuestra entidad;
 
-> <small>(ADICIONADA, P.O. 6 DE JULIO DE 2011)</small>
+(ADICIONADA, P.O. 6 DE JULIO DE 2011) (F. DE E., P. O. 2 DE SEPTIEMBRE DE 2011)
 
-VI (SIC). Administrar el funcionamiento de los programas del Servicio Nacional de Empleo Sinaloa, vinculando las tareas de capacitación para el trabajo y en el trabajo que impartan las instituciones del sector educativo, con los sectores productivos del Estado;
+V. Administrar el funcionamiento de los programas del Servicio Nacional de Empleo Sinaloa, vinculando las tareas de capacitación para el trabajo y en el trabajo que impartan las instituciones del sector educativo, con los sectores productivos del Estado;
 
-> <small>(REFORMADA, P.O. 6 DE JULIO DE 2011)</small>
+(REFORMADA, P.O. 6 DE JULIO DE 2011) (F. DE E., P. O. 2 DE SEPTIEMBRE DE 2011)
 
-VII. Las demás que le señale la Ley, el presente Reglamento y otras disposiciones normativas, así como todas aquellas que le fueren encomendadas por el Gobernador del Estado o por el Secretario.
+VI. Las demás que le señale la Ley, el presente Reglamento y otras disposiciones normativas, así como todas aquellas que le fueren encomendadas por el Gobernador del Estado o por el Secretario.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 6 DE JULIO DE 2011)</small>
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2011)</small>
 
 ###### Artículo 11.
 
@@ -753,10 +751,10 @@ P.O. 27 DE ABRIL DE 2007.
 
 Artículo Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial "El Estado de Sinaloa".
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 2 DE SEPTIEMBRE DE 2011 EN EL P.O. DEL ESTADO DE SINALOA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 P.O. 6 DE JULIO DE 2011.
 
 Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
 
-Artículo Segundo.- Las funciones y atribuciones que las leyes, decretos, reglamentos, convenios, acuerdos y demás disposiciones jurídicas a la Dirección del Servicio Estatal del Empleo y Productividad se entenderán hechas a la Dirección del Servicio Nacional de Empleo Sinaloa.
+> <small>(F. DE E., P. O. 26 DE JULIO DE 2011)</small>
+
+Artículo Segundo.- Las funciones y atribuciones que las leyes, decretos, reglamentos, convenios, acuerdos y demás disposiciones jurídicas a la Dirección del Servicio Estatal del Empleo y Productividad se entenderán hechas a la Dirección General del Servicio Nacional de Empleo Sinaloa.
