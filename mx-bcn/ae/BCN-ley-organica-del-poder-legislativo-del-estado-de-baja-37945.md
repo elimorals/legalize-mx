@@ -4,7 +4,7 @@ identifier: "BCN-ley-organica-del-poder-legislativo-del-estado-de-baja-37945"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2002-06-25"
-last_updated: "2011-07-15"
+last_updated: "2011-09-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=37945&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "BCN"
 ---
 # LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE BAJA CALIFORNIA
 
-LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE BAJA CALIFORNIA
+LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE JULIO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE SEPTIEMBRE DE 2011.
 
 Ley publicada en el Número Especial del Periódico Oficial del Estado de Baja California, el martes 25 de junio de 2002.
 
@@ -77,7 +77,7 @@ El desempeño de la función pública de los Diputados es incompatible con cualq
 
 El edificio del Poder Legislativo y/o recinto parlamentario es inviolable. Toda fuerza pública estará impedida de tener acceso al mismo, salvo que el Presidente del Congreso le otorgue permiso, quedando ésta bajo su mando.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE NOVIEMBRE DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE NOVIEMBRE DE 2004)</small>
 
 ###### ARTICULO 7.
 
@@ -91,7 +91,7 @@ Cuando sin mediar autorización se hiciere presente la fuerza pública, el Presi
 
 Ninguna autoridad podrá ejecutar mandamientos judiciales o administrativos sobre los bienes del Poder Legislativo, ni sobre las personas o bienes de los Diputados al interior del edificio del Poder Legislativo o del recinto parlamentario que se habilite en términos de esta Ley.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE NOVIEMBRE DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE NOVIEMBRE DE 2004)</small>
 
 ###### ARTICULO 9.
 
@@ -111,9 +111,9 @@ La sesión, es la reunión oficial de los integrantes del Pleno del Congreso del
 
 Asimismo, se denominan sesiones las reuniones de los integrantes de las Comisiones, en la sala de juntas de las mismas o en la que se acuerde, para tratar todo lo inherente al desarrollo de sus funciones.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE DICIEMBRE DE 2010)</small>
 
-###### ARTÍCULO 10.
+###### ARTICULO 10.
 
 La presente Ley sólo podrá ser modificada, reformada, abrogada o derogada por mayoría calificada de los miembros del Pleno
 
@@ -139,9 +139,9 @@ V.- Reglamento: El Reglamento de Procedimientos y Prácticas Parlamentarias del 
 
 ### CAPITULO I. DE LA TRANSICIÓN
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE JUNIO DE 2011)</small>
 
-###### ARTÍCULO 11.
+###### ARTICULO 11.
 
 La Mesa Directiva de la Legislatura saliente, se erigirá en una Asamblea de Transición, y tendrá las siguientes atribuciones:
 
@@ -151,7 +151,7 @@ II.- Citar a los Diputados electos a Junta previa a celebrarse el día anterior 
 
 III.- Entregar a la Mesa Directiva de la Legislatura entrante, el inventario justipreciado de los bienes muebles e inmuebles del Poder Legislativo y el estado que guardan en forma documental, reservando la entrega física en acto formal posterior a la junta previa, mediante el levantamiento de una Acta de Entrega Recepción circunstanciada y signada por la Mesa Directiva saliente y la entrante, así como las memorias, oficios, comunicaciones, asuntos o dictámenes pendientes y demás documentos recibidos que correspondan al Congreso.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE NOVIEMBRE DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE NOVIEMBRE DE 2004)</small>
 
 ###### ARTICULO 12.
 
@@ -215,7 +215,7 @@ El Congreso del Estado expedirá el Bando Solemne para dar a conocer en el Munic
 
 ## TITULO CUARTO. DE LAS FACULTADES LEGISLATIVAS DEL CONGRESO
 
-> <small>(REFORMADA EN SU NUMERACION [N. DE E. ANTES CAPITULO UNICO], P.O. 2 DE JULIO DE 2010)</small>
+> <small>(REFORMADA EN SU NUMERACIÓN [N. DE E. ANTES CAPÍTULO ÚNICO], P.O. 2 DE JULIO DE 2010)</small>
 
 ### CAPITULO PRIMERO. ATRIBUCIONES
 
@@ -223,7 +223,7 @@ El Congreso del Estado expedirá el Bando Solemne para dar a conocer en el Munic
 
 Son atribuciones del Congreso del Estado, las que derivan de la Constitución Política de los Estados Unidos Mexicanos, de la Constitución Local y de las Leyes que de ella emanen, de la presente Ley y de los Reglamentos respectivos.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 2 DE JULIO DE 2010)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 2 DE JULIO DE 2010)</small>
 
 ### CAPITULO SEGUNDO. DEL PLAN DE DESARROLLO LEGISLATIVO
 
@@ -461,7 +461,7 @@ Examinada por el Presidente del Congreso la documentación referida, dará cuent
 
 El funcionamiento, las actividades y los procedimientos para la designación de los Coordinadores de los Grupos Parlamentarios, serán regulados por las normas estatutarias y los lineamientos de los respectivos partidos políticos, en el marco de las disposiciones de esta Ley.
 
-> <small>(REFORMADO PRIMER PARRAFO [N. DE E. REPUBLICADO] P.O. 2 DE JULIO DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO] P.O. 2 DE JULIO DE 2010)</small>
 
 ###### ARTICULO 31.
 
@@ -503,7 +503,7 @@ La fusión e integración de un nuevo Grupo Parlamentario será notificada a la 
 
 Los Grupos Parlamentarios dispondrán de locales adecuados en las instalaciones del Congreso del Estado, así como de los asesores, personal y elementos materiales necesarios para el cumplimiento de sus funciones, atendiendo a la importancia cuantitativa de cada uno de ellos, de acuerdo con las posibilidades y el presupuesto de egresos del propio Congreso.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 14 DE ENERO DE 2003)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 14 DE ENERO DE 2003)</small>
 
 ## TITULO SEXTO. DEL CONGRESO DEL ESTADO
 
@@ -515,7 +515,7 @@ Los Grupos Parlamentarios dispondrán de locales adecuados en las instalaciones 
 
 Para el cumplimiento de sus facultades y ejercicio de sus funciones, el Congreso del Estado integra su estructura con órganos de Gobierno, de Trabajo; de Apoyo Parlamentario y Administrativo.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.P. 14 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.P. 14 DE OCTUBRE DE 2010)</small>
 
 ###### ARTICULO 37.
 
@@ -531,7 +531,7 @@ III.- Los demás que se consideran necesarios para el cumplimiento de sus atribu
 
 > <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2010)</small>
 
-###### ARTÍCULO 38.
+###### ARTICULO 38.
 
 Al órgano de gobierno, denominado Mesa Directiva, le corresponde la conducción del Congreso, que es ejercida por su Presidente y Secretario quienes tendrán la representación legal del Congreso ante todo género de autoridades.
 
@@ -547,7 +547,7 @@ La Presidencia de la Junta de Coordinación Política, la Presidencia de la Mesa
 
 Las Comisiones del Congreso, son órganos de trabajo que se integran de conformidad con esta Ley, y cuyo objeto lo constituye el estudio, consulta, supervisión, vigilancia, investigación, opinión o dictamen de los asuntos que esta Ley o la Mesa Directiva les atribuya o encomiende, para el cumplimiento de las facultades que la Constitución Local le confiere al Congreso del Estado.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.P. 14 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.P. 14 DE OCTUBRE DE 2010)</small>
 
 ###### ARTICULO 40.
 
@@ -603,7 +603,7 @@ ARTICULO 40 BIS.- El Órgano de Fiscalización Superior del Estado, es el órgan
 
 #### SECCION I. DE LA MESA DIRECTIVA
 
-> <small>(REFORMADO PRIMER PARRAFO, G.P. 14 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.P. 14 DE OCTUBRE DE 2010)</small>
 
 ###### ARTICULO 41.
 
@@ -903,7 +903,7 @@ En tanto órganos colegiados, las comisiones tienen las atribuciones siguientes:
 
 (DEROGADO, G.P. 14 DE OCTUBRE DE 2010)
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTICULO 60.
 
@@ -943,7 +943,7 @@ A todas estas comisiones les corresponderá, además de las facultades y atribuc
 
 (DEROGADO, G.P. 14 DE OCTUBRE DE 2010)
 
-> <small>(REFORMADO PRIMER PARRAFO, G.P. 14 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.P. 14 DE OCTUBRE DE 2010)</small>
 
 ###### ARTICULO 62.
 
@@ -1003,7 +1003,7 @@ XVIII.- Los demás que le confiera la Constitución Local, esta Ley, sus Reglame
 
 Para el cumplimiento de las atribuciones señaladas en el artículo que antecede la Comisión de Gobernación, Legislación y Puntos Constitucionales solicitará a la Dirección General de Asuntos Jurídicos o a la Consultoría Legislativa el estudio y análisis respectivo.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.P. 14 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.P. 14 DE OCTUBRE DE 2010)</small>
 
 ###### ARTICULO 64.
 
@@ -1021,7 +1021,7 @@ II.- Las que se refieren a las modificaciones de Leyes secundarias producto de l
 
 El Reglamento establecerá los mecanismos y procedimientos de organización bajo los cuales funcionará dicha Comisión, quien lo propondrá al Pleno del Congreso para su aprobación.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE NOVIEMBRE DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE NOVIEMBRE DE 2004)</small>
 
 ###### ARTICULO 65.
 
@@ -1117,7 +1117,7 @@ Para el cumplimiento de sus atribuciones, la Comisión de Fiscalización del Gas
 
 La Comisión de Fiscalización del Gasto Público podrá solicitar al Instituto de Estudios de Economía y Finanzas Públicas el estudio, análisis y opinión de los asuntos que le encomiende.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.P. 14 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.P. 14 DE OCTUBRE DE 2010)</small>
 
 ###### ARTICULO 67.
 
@@ -1195,7 +1195,7 @@ Los votos particulares serán declarativos y su fin es el de dejar asentada una 
 
 Cuando algún Diputado integrante de una comisión tuviere interés particular en un asunto que sea objeto de Dictamen, se abstendrá de intervenir y lo comunicará de inmediato y por escrito al Presidente a fin de que se le sustituya en el caso de que se trate.
 
-> <small>(REFORMADO PRIMER PARRAFO [N. DE E. REPUBLICADO], G.P. 14 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], G.P. 14 DE OCTUBRE DE 2010)</small>
 
 ###### ARTICULO 72.
 
@@ -1225,11 +1225,11 @@ Su participación será para efecto de informar, respecto de los motivos y razon
 
 Los miembros de las Comisiones no tendrán derecho a ninguna retribución adicional a su dieta como diputados.
 
-> <small>(REFORMADA SU DENOMINACION, G.P. 14 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, G.P. 14 DE OCTUBRE DE 2010)</small>
 
 ### CAPITULO III. DE LOS ÓRGANOS DE APOYO PARLAMENTARIO Y ADMINISTRATIVO
 
-> <small>(REFORMADA SU DENOMINACION, G.P. 14 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, G.P. 14 DE OCTUBRE DE 2010)</small>
 
 #### SECCION I
 
@@ -1313,7 +1313,7 @@ El desempeño de las atribuciones y obligaciones de la Secretaría de Servicios 
 
 ARTICULO 83 BIS.- La Dirección de Programación y Gasto Interno del Congreso del Estado, es el órgano administrativo al cual le corresponde realizar tareas de apoyo que permitan el estudio y planeación de asuntos de naturaleza presupuestal relativas del Poder Legislativo, de conformidad con esta Ley y el Reglamento Interior.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE NOVIEMBRE DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE NOVIEMBRE DE 2004)</small>
 
 ARTICULO 83 TER.- Al frente de la Dirección de Programación y Gasto Interno del Congreso del Estado, estará como titular un Director; quien será nombrado y removido por la mayoría absoluta de los Diputados integrantes del Pleno del Congreso.
 
@@ -1333,7 +1333,7 @@ El Reglamento Interior fijará los requisitos que deberá reunir el titular de d
 
 El desempeño de las atribuciones y obligaciones de la Dirección de Programación y Gasto Interno del Congreso del Estado, estará bajo la vigilancia y control de la Comisión de Administración y Finanzas.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 17 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 17 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTICULO 80.
 
@@ -1349,13 +1349,13 @@ La Contraloría Interna es un órgano dependiente del Pleno del Congreso del Est
 
 ARTICULO 83 QUATER.- La Dirección de Comunicación Social es el órgano técnico cuya función será, atender, estudiar, diseñar y ejecutar las estrategias de comunicación social para el Poder Legislativo del Estado; así como difundir las actividades legislativas, fortalecer la imagen del Congreso y de los Diputados en sus relaciones con los medios de comunicación, de conformidad con esta Ley y el Reglamento Interior.
 
-> <small>(DEROGADO SEGUNDO PARRAFO, P.O. 17 DE DICIEMBRE DE 2010)</small>
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 17 DE DICIEMBRE DE 2010)</small>
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], G.P. 14 DE OCTUBRE DE 2010)</small>
 
 El Canal tiene por objeto reseñar y difundir la actividad parlamentaria que corresponde a las responsabilidades del Congreso, así como contribuir a informar, analizar y discutir pública y ampliamente la situación de los problemas de la realidad nacional, del estado y los municipios vinculados con la actividad legislativa.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE DICIEMBRE DE 2010)</small>
 
 ARTICULO 83 QUINQUIES.- Al frente de la Dirección de Comunicación Social del Congreso del Estado, estará como titular un Director; quien será nombrado y removido por la mayoría absoluta de los Diputados integrantes del Pleno del Congreso, atendiendo a lo previsto en la presente Ley, y previa opinión de la Comisión de Comunicación Social y Relaciones Públicas.
 
@@ -1375,15 +1375,15 @@ El Reglamento Interior fijará los requisitos que deberá reunir el titular de d
 
 El desempeño de las atribuciones y obligaciones de la Dirección de Comunicación social, estará bajo la vigilancia y control de la Comisión de Comunicación Social y Relaciones Públicas.
 
-> <small>(DEROGADO SEXTO PARRAFO, P.O. 17 DE DICIEMBRE DE 2010)</small>
+> <small>(DEROGADO SEXTO PÁRRAFO, P.O. 17 DE DICIEMBRE DE 2010)</small>
 
-> <small>(DEROGADO SEPTIMO PARRAFO, P.O. 17 DE DICIEMBRE DE 2010)</small>
+> <small>(DEROGADO SÉPTIMO PÁRRAFO, P.O. 17 DE DICIEMBRE DE 2010)</small>
 
-> <small>(DEROGADO OCTAVO PARRAFO, P.O. 17 DE DICIEMBRE DE 2010)</small>
+> <small>(DEROGADO OCTAVO PÁRRAFO, P.O. 17 DE DICIEMBRE DE 2010)</small>
 
-> <small>(DEROGADO NOVENO PARRAFO, P.O. 17 DE DICIEMBRE DE 2010)</small>
+> <small>(DEROGADO NOVENO PÁRRAFO, P.O. 17 DE DICIEMBRE DE 2010)</small>
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 17 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 17 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTICULO 81.
 
@@ -1401,11 +1401,11 @@ ARTICULO 81 QUARTER (SIC).- (DEROGADO, P.O. 19 DE NOVIEMBRE DE 2004)
 
 #### SECCION VII. DE LA BIBLIOTECA DEL CONGRESO Y DE LOS INSTITUTOS DEL CONGRESO DEL ESTADO DE BAJA CALIFORNIA
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], G.P. 14 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 14 DE OCTUBRE DE 2010)</small>
 
 ARTICULO 83 SEXIES.- El Congreso del estado cuenta con una Biblioteca a través de la cual se conservan, man tienen (sic) y acrecientan los acervos bibliográficos y de otros contenidos científico, cultural o informativo. Para contribuir al cumplimiento de las atribuciones del propio Congreso, sus comisiones y legisladores. Estos acervos tendrán carácter público.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE DICIEMBRE DE 2010)</small>
 
 El Congreso del Estado contará con los siguientes Institutos:
 
@@ -1433,9 +1433,9 @@ Al Órgano Colegiado del Instituto de Estudios Legislativos corresponde acordar 
 
 El Órgano Colegiado del Instituto de Estudios Legislativos tomará sus decisiones y acuerdos por el voto de la mayoría de sus integrantes, el Presidente tendrá voto de calidad.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 17 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2010)</small>
 
-El Instituto de Estudios Legislativos tendrá tres titulares de las Direcciones que dependerán del Órgano Colegiado y serán nombrados por el mismo a propuesta de cada uno de sus secretarios.
+El Instituto de Estudios Legislativos tendrá tres titulares de las Direcciones que dependerán del Órgano Colegiado y serán nombrados por el mismo a propuesta de cada uno de sus secretarios. A fin de que las direcciones trabajen de manera armónica para alcanzar los objetivos contenidos en esta Ley Orgánica, en el Plan de Desarrollo Legislativo y en sus Planes de Trabajo, el Presidente del Instituto someterá a la aprobación de los integrantes del Órgano Colegiado la propuesta del Coordinador de Direcciones.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 17 DE DICIEMBRE DE 2010)</small>
 
@@ -1477,7 +1477,7 @@ El Reglamento Interior fijará los lineamientos que deberá cumplir el personal 
 
 El desempeño de las atribuciones y obligaciones de la Secretaría de Servicios Parlamentarios, estará bajo la vigilancia y control de la Mesa Directiva.
 
-> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 3 DE JUNIO DE 2011)</small>
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 3 DE JUNIO DE 2011)</small>
 
 ###### ARTICULO 82.
 
@@ -1493,7 +1493,7 @@ II.- Conocer e investigar los actos, omisiones o conductas de los servidores pú
 
 III.- Atender las quejas o denuncias que se presenten mediante escrito firmado, por particulares o servidores públicos de los Ayuntamientos o de los Poderes Ejecutivo y Judicial, con motivo del incumplimiento de las obligaciones de los servidores públicos del Congreso del Estado.
 
-> <small>(REFORMADA SU DENOMINACION, G.P. 14 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, G.P. 14 DE OCTUBRE DE 2010)</small>
 
 ###### ARTICULO 83.
 
@@ -1507,7 +1507,7 @@ El Reglamento Interior fijará los requisitos que deberá reunir el titular de d
 
 El desempeño de las atribuciones y obligaciones de la Dirección General de Asuntos Jurídicos, estará bajo la vigilancia y control de la Comisión de Gobernación, Legislación y Puntos Constitucionales.
 
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 14 DE ENERO DE 2003)</small>
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 14 DE ENERO DE 2003)</small>
 
 #### SECCION I
 
@@ -1521,13 +1521,13 @@ El desempeño de las atribuciones y obligaciones de la Dirección General de Asu
 
 (DEROGADO, P.O. 3 DE JUNIO DE 2011)
 
-> <small>(DEROGADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 14 DE ENERO DE 2003)</small>
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 14 DE ENERO DE 2003)</small>
 
 #### SECCION I. DEL CEREMONIAL DE LAS SESIONES
 
 ### CAPITULO IV. DE LA COMISION PERMANENTE
 
-> <small>(DEROGADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 14 DE ENERO DE 2003)</small>
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 14 DE ENERO DE 2003)</small>
 
 #### SECCION II. DE LA FORMA Y PERIODICIDAD DE LAS SESIONES
 
@@ -1553,7 +1553,7 @@ ARTICULO 87 QUINQUIES.- (DEROGADO, P.O. 3 DE JUNIO DE 2011)
 
 > <small>(REFORMADO, P.O. 3 DE JUNIO DE 2011)</small>
 
-###### ARTÍCULO 88.
+###### ARTICULO 88.
 
 El Congreso del Estado tendrá cada año tres períodos de Sesiones ordinarias, el Primer Período inicia a partir del primero de octubre al último día de enero de cada año, el Segundo Período comprende del primero de febrero al último día de mayo de cada año, y el Tercer Período será a partir del primero de junio al último día de septiembre de cada año.
 
@@ -1619,7 +1619,7 @@ XI.- Cita.
 
 En caso de no existir Quórum Legal, después del primer pase de lista, se volverá a pasar lista por segunda vez, quince minutos después para que el Presidente pueda declarar que no hay asistencia requerida para estar en posibilidad con el Quórum Legal o para abrir la Sesión. También se pasará lista de asistencia durante las Sesiones o al final de ellas cuando así lo acuerde la Asamblea o por moción de cuando menos tres Diputados.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE NOVIEMBRE DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE NOVIEMBRE DE 2004)</small>
 
 ###### ARTICULO 94.
 
@@ -1639,9 +1639,9 @@ Todas las personas sin excepción alguna tienen el derecho de asistir a presenci
 
 El libre acceso del público al recinto parlamentario será garantizado por el Presidente del Congreso por conducto del personal de vigilancia de la Secretaría de Servicios Parlamentarios, con excepción de los casos que así lo acuerde el Pleno del Congreso de limitar el acceso del público al recinto parlamentario, mediante tarjetas o invitaciones.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.P. 14 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.P. 14 DE OCTUBRE DE 2010)</small>
 
-###### ARTÍCULO 96.
+###### ARTICULO 96.
 
 No se permitirá la entrada al edificio del Poder Legislativo o al recinto parlamentario, a personas que se presenten armadas, con el rostro cubierto, en estado de embriaguez o bajo la influencia de alguna sustancia tóxica, narcótica o enervante o pretendan introducir objetos extraños sin someterlos a la inspección del personal de vigilancia del Congreso del Estado.
 
@@ -1653,7 +1653,7 @@ La infracción a lo dispuesto anteriormente será sancionado por el Presidente d
 
 Los asistentes a las sesiones del Pleno conservarán el mayor respeto y compostura y por ningún motivo podrán tomar parte en las discusiones, ni realizar manifestaciones verbales de ningún género salvo el caso de audiencia o foro público con autorización del Pleno del Congreso.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE NOVIEMBRE DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE NOVIEMBRE DE 2004)</small>
 
 ###### ARTICULO 98.
 
@@ -1675,7 +1675,7 @@ Se entiende por ceremonial a las formalidades que deberán observarse durante la
 
 El Presidente, para abrir o cerrar las sesiones, usará respectivamente, las expresiones siguientes: "Se abre la sesión" y "Se levanta la sesión", seguido de un toque de timbre.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE SEPTIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE SEPTIEMBRE DE 2008)</small>
 
 ###### ARTICULO 101.
 
@@ -2115,7 +2115,7 @@ Cuando se objetare por más de dos ocasiones el resultado de la votación econó
 
 Los Diputados en las votaciones nominales y económicas tienen la obligación de votar a favor o en contra, en caso de abstención deberán razonar ésta.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTICULO 156.
 
@@ -2207,11 +2207,11 @@ Los servidores públicos que no concurran a las sesiones correspondientes, se ha
 
 Para la designación de los Servidores Públicos que por disposición Constitucional o Legal le corresponda realizar al Poder Legislativo, se atenderá al procedimiento previsto en el Reglamento, excepto en los casos en que dicho procedimiento se encuentre regulado por otro ordenamiento legal.
 
-> <small>(REFORMADA SU DENOMINACION, G.P. 14 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, G.P. 14 DE OCTUBRE DE 2010)</small>
 
 ## TITULO OCTAVO
 
-> <small>(REFORMADA SU DENOMINACION, G.P. 14 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, G.P. 14 DE OCTUBRE DE 2010)</small>
 
 ### CAPITULO PRIMERO. DECLARACIÓN PATRIMONIAL
 
@@ -2249,7 +2249,7 @@ La Dirección de Garantía de Acceso y Transparencia de la Información será el
 
 Todas las quejas o denuncias del personal del Congreso del Estado, se presentarán ante la Contraloría Interna.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN], G.P. 14 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN], G.P. 14 DE OCTUBRE DE 2010)</small>
 
 ## TITULO NOVENO. DE LA GACETA Y EL DIARIO DE LOS DEBATES DEL CONGRESO DEL ESTADO
 
@@ -2373,7 +2373,7 @@ SECRETARIO GENERAL DE GOBIERNO.
 
 BERNARDO BORBON VILCHES.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DEL DECRETO DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DEL DECRETO DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 14 DE ENERO DE 2003.
 
@@ -2480,3 +2480,11 @@ SEGUNDO.- Las presentes reformas entrarán en vigor al momento de su aprobación
 P.O. 15 DE JULIO DE 2011.
 
 ÚNICO.- Las presentes reformas entrarán en vigor al momento de su aprobación por el Pleno del Congreso del Estado, se publicarán en la Gaceta del Poder Legislativo, enviándose al Poder Ejecutivo para su publicación en el Periódico Oficial del Estado de Baja California, "Órgano del Gobierno Constitucional del Estado de Baja California".
+
+P.O. 2 DE SEPTIEMBRE DE 2011.
+
+PRIMERO.- Dado que la presente reforma implica modificaciones a la Ley Orgánica del Poder Legislativo del Estado y por consecuencias a su vida interna, entrará en vigor al momento de su aprobación por el Pleno del Congreso del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones normativas que contravengan el presente ordenamiento.
+
+TERCERO.- Publíquese la presente reforma en el Periódico Oficial del Estado.
