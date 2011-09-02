@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-interior-de-la-comision-auxiliar-mixta-del-44781"
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-05-03"
-last_updated: "2005-05-03"
+last_updated: "2011-09-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44781&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,9 @@ state: "MEX"
 
 REGLAMENTO INTERIOR DE LA COMISION AUXILIAR MIXTA DEL INSTITUTO DE SEGURIDAD SOCIAL DEL ESTADO DE MEXICO Y MUNICIPIOS
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO TERCERO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA COMISION AUXILIAR MIXTA DEL INSTITUTO DE SEGURIDAD SOCIAL DEL ESTADO DE MEXICO Y MUNICIPIOS, PUBLICADO EN LA SEGUNDA SECCION DE LA G.G. DE 2 DE SEPTIEMBRE DE 2011, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
 
 Reglamento publicado en la Sección Primera de la Gaceta del Gobierno del Estado de México, el martes 3 de mayo de 2005.
 
@@ -339,3 +341,19 @@ Los actos celebrados durante la vigencia de las disposiciones reglamentarias que
 C.P. RODOLFO DAVIS CONTRERAS
 
 SECRETARIO DEL HONORABLE CONSEJO DIRECTIVO DE ISSEMYM (RUBRICA).
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+G.G. 2 DE SEPTIEMBRE DE 2011.
+
+PRIMERO.- Publíquese el presente Reglamento en el periódico oficial "Gaceta del Gobierno" del Estado de México.
+
+SEGUNDO.- El presente Reglamento entrará en vigor el día siguiente de su publicación en el periódico oficial "Gaceta del Gobierno" del Estado de México.
+
+TERCERO.- Se abroga el Reglamento Interior de la Comisión Auxiliar Mixta del Instituto de Seguridad Social del Estado de México y Municipios, publicado en el periódico oficial "Gaceta del Gobierno", el día tres de mayo de dos mil cinco, así como todas las disposiciones de igual o menor jerarquía que se opongan a las contenidas en el presente Reglamento.
+
+CUARTO.- Los actos celebrados conforme a las disposiciones que se abrogan, seguirán surtiendo sus efectos hasta la conclusión del término o cumplimiento de las condiciones en que se hayan efectuado.
+
+QUINTO.- Los casos no previstos en el presente Reglamento, serán resueltos por la Comisión.
+
+SEXTO.- Los conflictos que se presenten con motivo de la aplicación del presente Reglamento serán resueltos por la Comisión.
