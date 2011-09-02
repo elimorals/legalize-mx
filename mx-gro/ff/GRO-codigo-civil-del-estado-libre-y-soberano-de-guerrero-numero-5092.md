@@ -4,7 +4,7 @@ identifier: "GRO-codigo-civil-del-estado-libre-y-soberano-de-guerrero-numero-509
 country: "mx"
 rank: "codigo"
 publication_date: "1993-03-02"
-last_updated: "2011-08-16"
+last_updated: "2011-09-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5092&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 CODIGO CIVIL DEL ESTADO LIBRE Y SOBERANO DE GUERRERO, NUMERO 358
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE AGOSTO DE 2011.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE SEPTIEMBRE DE 2011.
 
 Código publicado en el Periódico Oficial del Estado de Guerrero, el martes 2 de marzo de 1993.
 
@@ -1819,9 +1819,17 @@ Para los indigentes tienen obligación de expedir gratuitamente este certificado
 
 V. El convenio que los pretendientes deberán celebrar si contrajeran matrimonio bajo el régimen de sociedad conyugal con relación a sus bienes presentes y a los que adquieran durante el matrimonio. Si los pretendientes son menores de edad, deberán aprobar el convenio las personas cuyo consentimiento previo es necesario para la celebración del matrimonio;
 
-VI. Copia del acta de defunción del cónyuge fallecido si alguno de los contrayentes es viudo, o de la parte resolutiva de la sentencia de divorcio o de nulidad de matrimonio, en caso de que alguno de los pretendientes hubiere sido casado anteriormente; y
+VI. Copia del acta de defunción del cónyuge fallecido si alguno de los contrayentes es viudo, o de la parte resolutiva de la sentencia de divorcio o de nulidad de matrimonio, en caso de que alguno de los pretendientes hubiere sido casado anteriormente; y (sic)
 
 VII. Copia de la dispensa de impedimentos, si los hubo.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADA, P.O. 2 DE SEPTIEMBRE DE 2011)</small>
+
+VIII. Constancia de haber recibido pláticas sobre violencia familiar, impartidas por la Secretaría de la Mujer del Gobierno del Estado o la Coordinación Técnica del Sistema Estatal del Registro Civil a través de las Oficialías del Registro Civil.
+
+La constancia a que se refiere el párrafo anterior, no tendrá costo alguno para quien la solicite y reciba.
 
 ###### Artículo 350.
 
@@ -15584,6 +15592,16 @@ SEXTO. - UNA VEZ ENTRADA EN VIGOR LA PRESENTE LEY, LA COORDINACIÓN TÉCNICA DEL
 SÉPTIMO.- RESPECTO A LOS JUICIOS DE RECTIFICACIÓN PENDIENTES POR RESOLVER EN LOS JUZGADOS FAMILIARES DE PRIMERA INSTANCIA, AL ENTRAR EN VIGOR LA PRESENTE LEY, LOS INTERESADOS PODRÁN CONTINUAR SU TRÁMITE CONFORME A LAS DISPOSICIONES LEGALES VIGENTES A LA FECHA DE SU INICIO O SUJETARSE AL PROCEDIMIENTO DE RECTIFICACIÓN ADMINISTRATIVA PREVISTO EN ESTA LEY.
 
 P.O. 16 DE AGOSTO DE 2011.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor a los dos meses siguientes del día de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+###### ARTÍCULO SEGUNDO.
+
+Comuníquese el presente Decreto al Titular del Poder Ejecutivo del Estado de Guerrero, para los efectos legales conducentes.
+
+P.O. 2 DE SEPTIEMBRE DE 2011.
 
 ###### ARTÍCULO PRIMERO.
 
