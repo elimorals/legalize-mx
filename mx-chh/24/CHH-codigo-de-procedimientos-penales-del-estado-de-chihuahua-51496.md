@@ -4,7 +4,7 @@ identifier: "CHH-codigo-de-procedimientos-penales-del-estado-de-chihuahua-51496"
 country: "mx"
 rank: "codigo"
 publication_date: "2006-08-09"
-last_updated: "2011-08-13"
+last_updated: "2011-09-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51496&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ CODIGO DE PROCEDIMIENTOS PENALES DEL ESTADO DE CHIHUAHUA
 
 > <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO ÚNICO DEL DECRETO 276/08 II P.O. SE EXPIDE LA DECLARATORIA DE INCORPORACIÓN DEL NUEVO SISTEMA PROCESAL PENAL ACUSATORIO EN EL ESTADO DE CHIHUAHUA, PUBLICADA EN EL P.O. 30 DE JULIO DE 2008, LA CUAL ENTRARÁ EN VIGOR A PARTIR DE LAS CERO HORAS: 1.- EN EL DISTRITO JUDICIAL MORELOS, DEL 1o. DE ENERO DE 2007; 2.- EN EL DISTRITO JUDICIAL BRAVOS, DEL 1o. DE ENERO DE 2008; 3.- EN EL RESTO DE LOS DISTRITOS JUDICIALES DEL ESTADO, DEL 1o. DE JULIO DE 2008.</small>
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE AGOSTO DE 2011.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE SEPTIEMBRE DE 2011.
 
 Código publicado en el Folleto Anexo al Periódico Oficial del Estado Chihuahua, el miércoles 9 de agosto de 2006.
 
@@ -117,7 +117,7 @@ Cuando el imputado esté privado de su libertad, el encargado de custodiarlo com
 
 Defensa Técnica.
 
-> <small>(REFORMADO, P.O.18 DE FEBRERO DE 2009)</small>
+> <small>(REFORMADO, P.O. 18 DE FEBRERO DE 2009)</small>
 
 Toda persona, desde el momento de su detención o comparecencia y a partir de la realización de cualquier diligencia ante el Ministerio Público o autoridad judicial, con el carácter de posible autor o partícipe de un hecho punible, y hasta el fin de la ejecución de la sentencia que imponga una pena o medida de seguridad, tendrá derecho a una defensa adecuada por licenciado en derecho con cédula profesional debidamente registrada.
 
@@ -849,7 +849,7 @@ I. Se trate de un hecho socialmente insignificante o de mínima o exigua culpabi
 
 No podrá aplicarse el principio de oportunidad en los casos de delitos contra la libertad y seguridad sexuales o de violencia familiar, por afectar gravemente el interés público.
 
-II Se trate de la actividad de organizaciones criminales, de delitos que afecten seriamente bienes jurídicos fundamentales o de investigación compleja, y el imputado colabore eficazmente con la misma, brinde información esencial para evitar que continúe el delito o se perpetren otros, ayude a esclarecer el hecho investigado u otros conexos o proporcione información útil para probar la participación de otros imputados que tengan funciones de dirección o administración dentro de las organizaciones criminales, y siempre que los hechos que motivan la acción penal de la cual se prescinda, resulten considerablemente más leves que aquellos cuya persecución facilita o cuya continuación evita;
+II. Se trate de la actividad de organizaciones criminales, de delitos que afecten seriamente bienes jurídicos fundamentales o de investigación compleja, y el imputado colabore eficazmente con la misma, brinde información esencial para evitar que continúe el delito o se perpetren otros, ayude a esclarecer el hecho investigado u otros conexos o proporcione información útil para probar la participación de otros imputados que tengan funciones de dirección o administración dentro de las organizaciones criminales, y siempre que los hechos que motivan la acción penal de la cual se prescinda, resulten considerablemente más leves que aquellos cuya persecución facilita o cuya continuación evita;
 
 III. El imputado haya sufrido, a consecuencia del hecho, daño físico o psicológico grave que torne desproporcionada la aplicación de una pena;
 
@@ -1116,12 +1116,6 @@ I. Apercibimiento.
 II. Intervención de la fuerza pública.
 
 III. Multa de diez a doscientos días de salario.
-
-###### Artículo 108.
-
-Carga de la prueba.
-
-La carga de la prueba corresponderá al Ministerio Público.
 
 ###### Artículo 108.
 
@@ -1688,6 +1682,10 @@ Asistentes.
 Las partes podrán designar asistentes para que colaboren en su tarea. En tal caso, asumirán la responsabilidad por su elección y vigilancia.
 
 Los asistentes podrán acudir a las audiencias para contribuir en las labores de las mesas en que permanezcan las partes.
+
+> <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2011)</small>
+
+El Ministerio Público tendrá bajo su supervisión un cuerpo especial de asistencia y práctica profesional para la colaboración en el ejercicio de sus atribuciones, en los términos de la Ley Orgánica respectiva.
 
 ###### Artículo 153.
 
@@ -2547,7 +2545,7 @@ En tanto no se formule la imputación, el Ministerio Público podrá archivar te
 
 En los delitos contra la libertad y seguridad sexuales y de violencia familiar, se deberá verificar la aplicación de los protocolos y disposiciones especializadas emitidos por la Fiscalía General del Estado.
 
-> <small>(REFORMADO, P.O.18 DE FEBRERO DE 2009)</small>
+> <small>(REFORMADO, P.O. 18 DE FEBRERO DE 2009)</small>
 
 La víctima u ofendido podrá solicitar al Ministerio Público la reapertura del procedimiento y la realización de diligencias de investigación y, de ser denegada esta petición, podrá reclamarla ante el Juez de Garantía.
 
@@ -2869,7 +2867,9 @@ Lsta (sic) devolución podrá ordenarse en calidad de depósito judicial, quedan
 
 Si existiere controversia acerca de la tenencia, posesión o dominio sobre un objeto o documento, para entregarlo en depósito o devolverlo, el Juez resolverá en una audiencia a quién asiste mejor derecho para poseer, sin perjuicio de que los interesados planteen la acción correspondiente en la vía civil. La resolución que recaiga será apelable.
 
-Concluido el proceso, si no fue posible averiguar a quién corresponden, las cosas podrán ser entregadas en depósito a un establecimiento o institución de beneficencia pública, quienes sólo podrán utilizarlas para cumplir el servicio que brindan al público.
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 2011)</small>
+
+Concluido el proceso, si no fue posible averiguar a quién corresponden, las cosas podrán ser entregadas en depósito al organismo para la asistencia social pública, quienes sólo podrán utilizarlas para cumplir el servicio que brindan al público, o bien, resolver que han causado abandono, por lo que pasarán a dominio del Estado, de conformidad con lo dispuesto por el artículo 22 de la Constitución Política de los Estados Unidos Mexicanos.
 
 Cuando se estime conveniente, se dejará constancia de los elementos restituidos o devueltos, mediante fotografías u otros medios que resulten adecuados.
 
@@ -3941,7 +3941,7 @@ Métodos de autenticación e identificación.
 
 La autenticidad e identificación de los documentos no mencionados en el Artículo que antecede, se probará por métodos como los siguientes:
 
-l. Reconocimiento de la persona que lo ha elaborado, manuscrito, mecanografiado, impreso, firmado o producido.
+I. Reconocimiento de la persona que lo ha elaborado, manuscrito, mecanografiado, impreso, firmado o producido.
 
 II. Reconocimiento de la parte contra la cual se aduce.
 
@@ -5310,3 +5310,23 @@ P.O. 13 DE AGOSTO DE 2011.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 3 DE SEPTIEMBRE DE 2011.
+
+DECRETO No. 342/2011 II P.O. POR EL QUE SE REFORMA EL PARRAFO CUARTO DEL ARTICULO 252 DEL CODIGO DE PROCEDIMIENTOS PENALES DEL ESTADO DE CHIHUAHUA.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
+
+P.O. 3 DE SEPTIEMBRE DE 2011.
+
+DECRETO No. 393/2011 II P.O. POR EL QUE SE ADICIONA UN TERCER PARRAFO AL ARTICULO 152 DEL CODIGO DE PROCEDIMIENTOS PENALES DEL ESTADO DE CHIHUAHUA.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial de la (sic) Estado.
