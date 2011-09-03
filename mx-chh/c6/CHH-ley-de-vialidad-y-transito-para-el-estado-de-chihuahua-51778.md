@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-vialidad-y-transito-para-el-estado-de-chihuahua-51778"
 country: "mx"
 rank: "ley"
 publication_date: "2006-09-20"
-last_updated: "2010-10-02"
+last_updated: "2011-09-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51778&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE VIALIDAD Y TRANSITO PARA EL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE OCTUBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE SEPTIEMBRE DE 2011.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 20 de septiembre de 2006.
 
@@ -535,11 +535,13 @@ II. Reflejantes y una luz cubierta con mica de color rojo en la parte posterior,
 
 En todo caso los vehículos deberán aprobar las revisiones correspondientes a sus condiciones físicas, eléctricas y mecánicas que disponga la Dirección, las que se realizarán por conducto del personal de esa dependencia, sin perjuicio de lo dispuesto en los artículos siguientes.
 
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 2011)</small>
+
 ###### Artículo 37.
 
-El vidrio parabrisas frontal de los vehículos deberá permanecer libre de cualquier obstáculo que dificulte o impida la visibilidad hacia el exterior o interior de los mismos, por lo que se prohíbe su oscurecimiento a través de cualquier medio, con excepción de una franja de un máximo de veinticinco centímetros de ancho que podrá colocarse en la parte superior del vidrio parabrisas.
+El vidrio parabrisas frontal de los vehículos deberá permanecer libre de cualquier obstáculo que dificulte o impida la visibilidad hacia el exterior o interior de los mismos, por lo que se prohíbe su oscurecimiento a través de cualquier medio, con excepción de una franja con un tono de polarizado medio, de un máximo de veinticinco centímetros de ancho, que podrá colocarse en la parte superior del vidrio parabrisas.
 
-Los demás vidrios del vehículo podrán ser obscurecidos con un tono de polarizado medio, siempre y cuando no dificulten la visibilidad.
+Los demás vidrios del vehículo podrán ser oscurecidos únicamente con un tono de polarizado medio, siempre y cuando no dificulten la visibilidad.
 
 ###### Artículo 38.
 
@@ -1538,3 +1540,9 @@ P.O. 2 DE OCTUBRE DE 2010.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día cinco de octubre de dos mil diez, previa su publicación en el Periódico Oficial del Estado.
+
+P.O. 3 DE SEPTIEMBRE DE 2011.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
