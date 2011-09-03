@@ -4,7 +4,7 @@ identifier: "CHH-codigo-penal-del-estado-de-chihuahua-52963"
 country: "mx"
 rank: "codigo"
 publication_date: "2006-12-27"
-last_updated: "2011-05-14"
+last_updated: "2011-09-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52963&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "CHH"
 
 CODIGO PENAL DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE MAYO DE 2011.
-
-> <small>N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 14 DE MAYO DE 2011 NO APLICA AL ARTICULADO DEL DECRETO 298 PUBLICADO EN EL P.O. DE 7 DE MAYO DE 2011.</small>
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE SEPTIEMBRE DE 2011.
 
 Código publicado en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el miércoles 27 de diciembre de 2006.
 
@@ -1363,11 +1361,9 @@ Efectos y características de la prescripción
 
 La prescripción es personal y extingue la pretensión punitiva y la potestad de ejecutar las penas y las medidas de seguridad, y para ello bastará el transcurso del tiempo señalado por la ley.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 2011)</small>
 
-> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2011)</small>
-
-Los delitos de extorsión; desaparición forzada de personas; tráfico de influencias, previsto en el artículo 265; cohecho, en el supuesto que prevé el artículo 269, fracción II; peculado, en la hipótesis señalada en el artículo 270, fracción II; concusión, de acuerdo con el artículo 271, fracción II; homicidio calificado; tortura y, enriquecimiento ilícito, de acuerdo con el numeral 272, son imprescriptibles.
+Los delitos de extorsión; desaparición forzada de personas; tráfico de influencias, previsto en el artículo 265; cohecho, en el supuesto que prevé el artículo 269, fracción II; peculado, en la hipótesis señalada en el artículo 270, fracción II; concusión, de acuerdo con el artículo 271, fracción II; homicidio calificado; tortura y, enriquecimiento ilícito, de acuerdo con el numeral 272; así como aquéllos previstos en los artículos 171, 172, 173, 174, 175, 178, 184, 185, 198 y 201 de este Código, cometidos en contra de personas menores de edad o de las que no tienen capacidad para comprender el significado del hecho o de resistirlo, son imprescriptibles.
 
 ###### Artículo 106.
 
@@ -4046,3 +4042,13 @@ P.O. 14 DE MAYO DE 2011.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 3 DE SEPTIEMBRE DE 2011.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
