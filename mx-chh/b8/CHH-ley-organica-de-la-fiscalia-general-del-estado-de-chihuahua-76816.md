@@ -4,7 +4,7 @@ identifier: "CHH-ley-organica-de-la-fiscalia-general-del-estado-de-chihuahua-768
 country: "mx"
 rank: "ley_organica"
 publication_date: "2010-09-25"
-last_updated: "2010-10-02"
+last_updated: "2011-09-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76816&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY ORGANICA DE LA FISCALIA GENERAL DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE OCTUBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE SEPTIEMBRE DE 2011.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 25 de septiembre de 2010.
 
@@ -55,7 +55,9 @@ La Fiscalía General del Estado tiene las siguientes atribuciones:
 
 A.- En materia de Seguridad Pública y Prevención del Delito:
 
-I. Desarrollar las políticas de seguridad pública que establezca el titular del Poder Ejecutivo, y proponer la política criminal en el ámbito estatal, que comprende las normas, instrumentos y acciones para prevenir, de manera eficaz, la comisión de delitos e infracciones;
+> <small>(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 2011)</small>
+
+I. Desarrollar las políticas de seguridad pública que establezca el titular del Poder Ejecutivo, y proponer la política criminal en el ámbito estatal, que comprende las normas, protocolos, instrumentos y acciones para prevenir, de manera eficaz, la comisión de delitos e infracciones; así como aquellas que tengan por objeto la búsqueda inmediata de mujeres, niñas y niños desaparecidos, utilizando los medios de comunicación a su alcance;
 
 II. Establecer un sistema integral de investigación, destinado a obtener, analizar, procesar e interpretar, técnica y científicamente, la información para la prevención de delitos e infracciones;
 
@@ -161,6 +163,20 @@ En la investigación de los delitos o en el ejercicio de la acción penal, será
 
 Todas las autoridades del Estado están obligadas a prestar colaboración inmediata y a proporcionar los datos que les requieran los representantes del Ministerio Público, en ejercicio de sus funciones. Si no se trata de información confidencial, en los términos de la Ley, les facilitarán acceso a libros, documentos y registros, y si les solicitan informes por escrito, deberán atender la petición en un término no mayor de setenta y dos horas.
 
+> <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2011)</small>
+
+###### Artículo 5 Bis.
+
+La Unidad de Asistencia y Práctica Ministerial es un área administrativa auxiliar del Ministerio Público, de acuerdo con las siguientes disposiciones:
+
+I. Se integra por licenciados, pasantes o estudiantes en curso de los dos últimos semestres de las carreras de derecho, criminología, psicología o afines, mediante convocatoria que la Fiscalía General expedirá en conjunto con las instituciones de educación superior que deseen participar. Dicha convocatoria establecerá, entre otros requisitos, el de acreditar un examen de control de confianza.
+
+II. La Escuela Estatal de Policía, en colaboración con las señaladas instituciones, tendrá a su cargo el diseño del plan de estudios específico de capacitación para la asistencia al Ministerio Público en las áreas pericial y de investigación, de acuerdo con el área de adscripción.
+
+III. La Unidad de Asistencia y Práctica Ministerial auxiliará al Ministerio Público en el cumplimiento de las atribuciones previstas en el artículo 2, apartado B, con excepción de aquellas que sean exclusivas del Fiscal; así como en el artículo 12, con las especificaciones y limitaciones que por acuerdo dicte el Fiscal General. La duración del servicio auxiliar será de un año.
+
+IV. Los integrantes de la Unidad recibirán una beca económica como contraprestación por sus servicios auxiliares y tendrán al término de los mismos, en igualdad de circunstancias con otros aspirantes, el derecho preferencial para incorporarse al servicio en los términos de los artículos 16 y 17.
+
 ### CAPÍTULO III. De la Fiscalía General del Estado
 
 ###### Artículo 6.
@@ -169,7 +185,9 @@ El Fiscal General del Estado, tiene las siguientes atribuciones:
 
 I. Ejercer por sí, o por conducto de las Fiscalías Especializadas y demás Órganos de la Fiscalía General, las atribuciones a que se refiere el artículo 2 del presente ordenamiento;
 
-II. Proponer al Ejecutivo del Estado los proyectos de reglamentos, decretos, acuerdos, convenios, acciones y mecanismos relativos a los asuntos de la competencia de la Fiscalía General;
+> <small>(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 2011)</small>
+
+II. Proponer al Ejecutivo del Estado los proyectos de reglamentos, decretos, acuerdos, convenios, protocolos, instrumentos y acciones relativas a los asuntos de la competencia de la Fiscalía General;
 
 III. Proponer al Ejecutivo anteproyectos de leyes relacionados con la Seguridad Pública, la prevención, investigación y persecución del delito, y la reinserción social de los delincuentes;
 
@@ -484,3 +502,19 @@ P.O. 2 DE OCTUBRE DE 2010.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día cinco de octubre de dos mil diez, previa su publicación en el Periódico Oficial del Estado.
+
+P.O. 3 DE SEPTIEMBRE DE 2011.
+
+DECRETO No. 384/2011 II P.O. POR EL QUE SE REFORMA LA FRACCION I DEL INCISO A DEL ARTICULO 2; ASI COMO LA FRACCION II DEL ARTICULO 6, DE LA LEY ORGANICA DE LA FISCALIA GENERAL DEL ESTADO DE CHIHUAHUA.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Chihuahua.
+
+P.O. 3 DE SEPTIEMBRE DE 2011.
+
+DECRETO No. 393/2011 II P.O. POR EL QUE SE ADICIONA EL ARTICULO 5 BIS A LA LEY ORGANICA DE LA FISCALIA GENERAL DEL ESTADO DE CHIHUAHUA.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial de la (sic) Estado.
