@@ -4,7 +4,7 @@ identifier: "CHH-ley-organica-del-poder-ejecutivo-del-estado-de-chihuahua-22997"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1986-10-01"
-last_updated: "2011-02-12"
+last_updated: "2011-09-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22997&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY ORGANICA DEL PODER EJECUTIVO DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE FEBRERO DE 2011.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE SEPTIEMBRE DE 2011.
 
 Ley publicada en el Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 1 de octubre de 1986.
 
@@ -1081,7 +1081,9 @@ La Fiscalía General del Estado es la Dependencia del Poder Ejecutivo del Estado
 
 A.- En materia de Seguridad Pública y Prevención del Delito:
 
-I. Desarrollar las políticas de seguridad pública que establezca el titular del Poder Ejecutivo, y proponer la política criminal en el ámbito estatal, que comprende las normas, instrumentos y acciones para prevenir, de manera eficaz, la comisión de delitos e infracciones;
+> <small>(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 2011)</small>
+
+I. Desarrollar las políticas de seguridad pública que establezca el titular del Poder Ejecutivo, y proponer la política criminal en el ámbito estatal, que comprende las normas, protocolos, instrumentos y acciones para prevenir, de manera eficaz, la comisión de delitos e infracciones; así como aquellas que tengan por objeto la búsqueda inmediata de mujeres, niñas y niños desaparecidos, utilizando los medios de comunicación a su alcance;
 
 II. Establecer un sistema integral de investigación, destinado a obtener, analizar, procesar e interpretar, técnica y científicamente, la información para la prevención de delitos e infracciones;
 
@@ -1912,3 +1914,9 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 El Ejecutivo del Estado expedirá el reglamento interior de la Consejería Jurídica a que se refiere este Decreto, en un plazo pertinente, acorde a las necesidades propias de su funcionamiento.
+
+P.O. 3 DE SEPTIEMBRE DE 2011.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Chihuahua.
