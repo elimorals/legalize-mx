@@ -4,7 +4,7 @@ identifier: "DUR-reglamento-interno-del-tribunal-estatal-electoral-del-poder-560
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-05-17"
-last_updated: "2007-05-17"
+last_updated: "2011-09-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56076&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "DUR"
 
 REGLAMENTO INTERNO DEL TRIBUNAL ESTATAL ELECTORAL DEL PODER JUDICIAL DEL ESTADO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERNO DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DEL ESTADO DE DURANGO, PUBLICADO EN EL P.O. DE 4 DE SEPTIEMBRE DE 2011, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Periódico Oficial del Estado de Durango, el jueves 17 de mayo de 2007.
 
@@ -1364,3 +1366,13 @@ EL C. LIC. DAMIÁN CARMONA GRACIA, SECRETARIO GENERAL DE ACUERDOS DEL TRIBUNAL E
 CERTIFICA
 
 QUE LA PRESENTE COPIA ES UNA FIEL Y EXACTA REPRODUCCIÓN DE SU ORIGINAL, Y CONSTA DE OCHENTA FOJAS ÚTILES, LA CUAL OBRA EN EL ARCHIVO DE ESTA SECRETARIA GENERAL DE ACUERDOS Y SE EXPIDE EN LA CIUDAD DE DURANGO, DGO., A LOS VEINTlÚN DIAS DEL MES DE MARZO DEL AÑO DOS MIL SIETE.- EL SECRETARIO GENERAL DE ACUERDOS DEL TRIBUNAL ESTATAL ELECTORAL DEL PODER JUDICIAL DEL ESTADO.- LIC. DAMIÁN CARMONA GRACIA. CONSTE.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 4 DE SEPTIEMBRE DE 2011.
+
+PRIMERO.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Durango.
+
+SEGUNDO.- Se abroga el Reglamento Interno del Tribunal Estatal Electoral del Poder Judicial del Estado de Durango, publicado en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, número 39, de fecha 17 de mayo de 2007, tomo CCXVI.
+
+TERCERO.- La vigencia de este Reglamento no afectará la situación laboral ni administrativa en que se encuentran actualmente los servidores y empleados del Tribunal Electoral del Poder Judicial del Estado de Durango.
