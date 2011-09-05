@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-bienestar-y-desarrollo-social-del-estado-de-mexico-43630
 country: "mx"
 rank: "ley"
 publication_date: "2004-12-31"
-last_updated: "2011-09-01"
+last_updated: "2011-09-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=43630&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ LEY DE DESARROLLO SOCIAL DEL ESTADO DE MEXICO
 
 > <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO EN EL ARTICULO TERCERO TRANSITORIO DEL DECRETO NUMERO 337, PUBLICADO EN LA G.G. DE 1 DE SEPTIEMBRE DE 2011, CUANDO EN OTROS ORDENAMIENTOS LEGALES, SE HAGA REFERENCIA AL TERMINO PERSONAS CON CAPACIDADES DIFERENTES, SE ENTENDERA QUE CORRESPONDE AL TERMINO PERSONAS CON DISCAPACIDAD.</small>
 
-ULTIMA REFORMA PUBLICADA EN EL GACETA DEL GOBIERNO: 1 DE SEPTIEMBRE DE 2011.
+ULTIMA REFORMA PUBLICADA EN EL GACETA DEL GOBIERNO: 5 DE SEPTIEMBRE DE 2011.
 
 Ley publicada en la Tercera Sección de la Gaceta del Gobierno, el viernes 31 de diciembre de 2004.
 
@@ -458,6 +458,10 @@ El Gobierno del Estado deberá publicar en el periódico oficial Gaceta del Gobi
 ###### Artículo 19.
 
 La publicidad y la información relativa a todos los programas de desarrollo social deberán identificarse con el escudo estatal o toponímico municipal y en los casos de participación conjunta con el de ambos.
+
+> <small>(ADICIONADO, G.G. 5 DE SEPTIEMBRE DE 2011)</small>
+
+La Secretaría y los Ayuntamientos en el ámbito de sus respectivas competencias, deberán traducir a las lenguas originales de los pueblos indígenas más representativos asentados en el territorio estatal y municipal, los programas sociales a su cargo y las reglas de operación de éstos.
 
 ### CAPITULO III. DEL FINANCIAMIENTO
 
@@ -1106,3 +1110,11 @@ SEGUNDO.- El presente Decreto entrará en vigor el día siguiente de su publicac
 TERCERO.- Cuando en otros ordenamientos legales, se haga referencia al término personas con capacidades diferentes, se entenderá que corresponde al término personas con discapacidad.
 
 CUARTO.- El Ejecutivo del Estado hará las modificaciones a los reglamentos, decretos administrativos, acuerdos y demás disposiciones de su competencia, para incorporar a estos el término de discapacitados en sustitución de personas con capacidades diferentes, de acuerdo con el presente Decreto.
+
+G.G. 5 DE SEPTIEMBRE DE 2011.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- De conformidad con el presente Decreto el Ejecutivo del Estado, realizará las adecuaciones pertinentes en las disposiciones reglamentarias, para que las reglas de operación de los programas sociales implementados por las dependencias y organismos auxiliares, se difundan en la lengua o lenguas que se hablen en los pueblos indígenas reconocidos en las disposiciones correspondientes.
