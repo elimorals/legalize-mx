@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-cg193-2011-del-consejo-general-del-instituto-82091"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2011-07-06"
-last_updated: "2011-07-06"
+last_updated: "2011-09-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=82091&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2011-06-27"
 
 ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO FEDERAL ELECTORAL POR EL QUE SE EMITEN NORMAS REGLAMENTARIAS SOBRE IMPARCIALIDAD EN LA APLICACIÓN DE RECURSOS PÚBLICOS A QUE SE REFIERE EL ARTÍCULO 347, PÁRRAFO 1, INCISO C) DEL CÓDIGO FEDERAL DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES EN RELACIÓN CON EL ARTÍCULO 134, PÁRRAFO SÉPTIMO DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 5 DE SEPTIEMBRE DE 2011.
 
 Acuerdo publicado en la Quinta Sección del Diario Oficial de la Federación, el miércoles 6 de julio de 2011.
 
@@ -127,7 +127,9 @@ XIII. Cualquier conducta análoga que a través de la utilización de recursos p
 
 SEGUNDA.- Además de los supuestos señalados en la norma reglamentaria primera, el Presidente de la República, los Gobernadores de los Estados, el Jefe de Gobierno del Distrito Federal, los Presidentes Municipales, los Jefes Delegacionales del Distrito Federal y los servidores públicos en general, incurrirán en una violación al principio de imparcialidad en la aplicación de los recursos públicos, si realizan cualquiera de las siguientes conductas:
 
-I. Asisten en días hábiles a mítines, marchas, asambleas, reuniones o eventos públicos que tengan como finalidad promover o influir, de cualquier forma, en el voto a favor o en contra de un partido político, coalición, aspirante, precandidato o candidato, o la abstención.
+> <small>(REFORMADA POR EL PUNTO PRIMERO DEL ACUERDO CG247/2011 DEL CONSEJO GENERAL DEL INSTITUTO FEDERAL ELECTORAL, D.O.F. 5 DE SEPTIEMBRE DE 2011)</small>
+
+I. Asisten durante sus respectivas jornadas laborales a mítines, marchas, asambleas, reuniones o eventos públicos que tengan como finalidad promover o influir, de cualquier forma, en el voto a favor o en contra de un partido político, coalición, aspirante, precandidato o candidato, o la abstención.
 
 II. Usan recursos públicos para promover la difusión de propaganda que pueda influir o inducir el sentido del voto de los militantes o electores.
 
@@ -143,7 +145,9 @@ QUINTA.- En caso que se determine la responsabilidad del sujeto infractor, la au
 
 ## TRANSITORIOS
 
-PRIMERO.- El presente Acuerdo entrará en vigor a partir de su publicación en el Diario Oficial de la Federación.
+> <small>(REFORMADO POR EL PUNTO PRIMERO DEL ACUERDO CG247/2011 DEL CONSEJO GENERAL DEL INSTITUTO FEDERAL ELECTORAL, D.O.F. 5 DE SEPTIEMBRE DE 2011)</small>
+
+PRIMERO.- El presente Acuerdo entrará en vigor a los tres días posteriores a su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO.- Para efectos de difusión del contenido del presente Acuerdo a los servidores públicos de los distintos niveles de gobierno, se instruye al Secretario Ejecutivo disponga de las medidas conducentes para dicha difusión.
 
@@ -160,3 +164,9 @@ Se aprobó en lo particular la Norma 2, párrafo 1, por cinco votos a favor de l
 Se aprobó en lo particular el Artículo Transitorio Primero, por cinco votos a favor de los Consejeros Electorales, Maestro Marco Antonio Baños Martínez, Maestro Alfredo Figueroa Fernández, Doctor Francisco Javier Guerrero Aguirre, Doctor Benito Nacif Hernández y el Consejero Presidente, Doctor Leonardo Valdés Zurita; y un voto en contra de la Consejera Electoral Doctora María Macarita Elizondo Gasperín.
 
 El Consejero Presidente del Consejo General, Leonardo Valdés Zurita.- Rúbrica.- El Secretario del Consejo General, Edmundo Jacobo Molina.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 5 DE SEPTIEMBRE DE 2011.
+
+EL ACUERDO DE MODIFICACIONES CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CÓDIGO CIVIL FEDERAL VIGENTE.
