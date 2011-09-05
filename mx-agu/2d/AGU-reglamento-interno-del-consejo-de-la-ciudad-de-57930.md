@@ -4,7 +4,7 @@ identifier: "AGU-reglamento-interno-del-consejo-de-la-ciudad-de-57930"
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-12-31"
-last_updated: "2007-12-31"
+last_updated: "2011-09-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57930&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "AGU"
 
 REGLAMENTO INTERNO DEL CONSEJO DE LA CIUDAD DE AGUASCALIENTES
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL RESOLUTIVO PRIMERO DEL REGLAMENTO INTERNO DEL CONSEJO DE LA CIUDAD DE AGUASCALIENTES, PUBLICADO EN EL P.O. DE 5 DE SEPTIEMBRE DE 2011, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
 Reglamento publicado en la Segunda Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 31 de diciembre de 2007.
 
@@ -724,3 +726,11 @@ Por lo que tiene el honor de comunicarlo, para su conocimiento y efectos legales
 En cumplimiento a lo ordenado por el Presidente Municipal de Aguascalientes, con fundamento en los artículos 120, fracción VII de la Ley Municipal par (sic) el Estado de Aguascalientes; 107, fracción IX del Código Municipal de Aguascalientes, tengo a bien solicitar la publicación del presente.
 
 El Secretario del H. Ayuntamiento y Director General de Gobierno.- M. en D. Gabriel Ochoa Amador.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 5 DE SEPTIEMBRE DE 2011.
+
+PRIMERO.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Una vez que entre en vigor este Reglamento deberá de estarse a la renovación del CONSEJO, en los términos que se establecen en el mismo.
