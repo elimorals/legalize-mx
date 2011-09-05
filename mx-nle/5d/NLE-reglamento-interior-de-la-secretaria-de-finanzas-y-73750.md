@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-interior-de-la-secretaria-de-finanzas-y-73750"
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-02-26"
-last_updated: "2011-08-22"
+last_updated: "2011-09-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=73750&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "NLE"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA DE FINANZAS Y TESORERIA GENERAL DEL ESTADO
 
-> <small>N. DE E. PARA CONSULTAR LA VERSION CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 5 DE SEPTIEMBRE DE 2011 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGIA CORRESPONDIENTE A DICHA FECHA, EN EL INDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 REGLAMENTO INTERIOR DE LA SECRETARIA DE FINANZAS Y TESORERIA GENERAL DEL ESTADO
 
 ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE AGOSTO DE 2011.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIODICO OFICIAL EL 5 DE SEPTIEMBRE DE 2011.</small>
 
 Reglamento publicado en la Sección Segunda del Periódico Oficial del Estado de Nuevo León, el viernes 26 de febrero de 2010.
 
@@ -48,8 +48,6 @@ Para la mejor observancia de la Ley Orgánica de la Administración Pública par
 La Secretaría tendrá como titular al Secretario de Finanzas y Tesorero General del Estado, quien como Responsable de la Hacienda Pública ejercerá sus atribuciones de conformidad con lo establecido por la Constitución Política del Estado de Nuevo León, la Ley Orgánica de la Administración Pública para el Estado de Nuevo León, el presente Reglamento y las demás disposiciones jurídicas aplicables.
 
 ### CAPÍTULO SEGUNDO. DE LA ESTRUCTURA ORGÁNICA DE LA SECRETARÍA
-
-> <small>N. DE E. PARA CONSULTAR LA VERSION CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 5 DE SEPTIEMBRE DE 2011 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGIA CORRESPONDIENTE A DICHA FECHA, EN EL INDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA, ASI COMO EL ARCHIVO ANEXO.</small>
 
 ###### ARTÍCULO 3°.
 
@@ -111,7 +109,7 @@ a).Dirección Legal Hacendaria;
 
 V. Unidad de Fomento al Financiamiento de Proyectos; y
 
-> <small>(ADICIONADA, P.O. 22 DE AGOSTO DE 2011)</small>
+(ADICIONADA, P.O. 22 DE AGOSTO DE 2011) (F. DE E., P.O. 5 DE SEPTIEMBRE DE 2011)
 
 VI. Unidad de Información Financiera.
 
