@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-municipal-del-estado-de-mexico-6081"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1993-03-02"
-last_updated: "2011-08-29"
+last_updated: "2011-09-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6081&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY ORGANICA MUNICIPAL DEL ESTADO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 29 DE AGOSTO DE 2011.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 5 DE SEPTIEMBRE DE 2011.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el martes 2 de marzo de 1993.
 
@@ -477,7 +477,9 @@ IV. Un presidente, dos síndicos y once regidores, electos por planilla según e
 
 Dentro de los primeros tres días hábiles del mes de diciembre de cada año, el ayuntamiento se constituirá solemnemente en cabildo público, a efecto de que el presidente municipal informe por escrito acerca del estado que guarda la administración pública municipal y de las labores realizadas durante el ejercicio.
 
-Dicho informe se publicará en la Gaceta Municipal.
+> <small>(REFORMADO, G.G. 5 DE SEPTIEMBRE DE 2011)</small>
+
+Dicho informe se publicará en la Gaceta Municipal y en los estrados de la Secretaría del Ayuntamiento.
 
 > <small>(REFORMADO PRIMER PARRAFO, G.G. 16 DE AGOSTO DE 2011)</small>
 
@@ -587,13 +589,15 @@ Los ayuntamientos podrán sesionar con la asistencia de la mayoría de sus integ
 
 Los ayuntamientos no podrán revocar sus acuerdos sino en aquellos casos en que se hayan dictado en contravención a la Ley, lo exija el interés público o hayan desaparecido las causas que lo motivaron, y siguiendo el procedimiento y las formalidades que fueron necesarios para tomar los mismos, en cuyo caso se seguirán las formalidades de ley.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 5 DE SEPTIEMBRE DE 2011)</small>
+
 ###### Artículo 30.
 
-Las sesiones del ayuntamiento serán presididas por el presidente municipal o por quien lo sustituya legalmente; constarán en un libro de actas en el cual deberán asentarse los extractos de los acuerdos y asuntos tratados y el resultado de la votación. Cuando se refieran a reglamentos y otras normas de carácter general que sean de observancia municipal éstos constarán íntegramente en el libro de actas debiendo firmar en ambos casos los miembros del ayuntamiento que hayan estado presentes, debiéndose difundir en la Gaceta Municipal entre los habitantes del municipio. De las actas, se les entregará copia certificada a los integrantes del Ayuntamiento que lo soliciten en un plazo no mayor de ocho días.
+Las sesiones del ayuntamiento serán presididas por el presidente municipal o por quien lo sustituya legalmente; constarán en un libro de actas en el cual deberán asentarse los extractos de los acuerdos y asuntos tratados y el resultado de la votación. Cuando se refieran a reglamentos y otras normas de carácter general que sean de observancia municipal éstos constarán íntegramente en el libro de actas debiendo firmar en ambos casos los miembros del Ayuntamiento que hayan estado presentes, debiéndose difundir en la Gaceta Municipal entre los habitantes del municipio y en los estrados de la Secretaría del Ayuntamiento. De las actas, se les entregará copia certificada a los integrantes del Ayuntamiento que lo soliciten en un plazo no mayor de ocho días.
 
-> <small>(ADICIONADO, G.G. 25 DE AGOSTO DE 2009)</small>
+> <small>(REFORMADO, G.G. 5 DE SEPTIEMBRE DE 2011)</small>
 
-Todos los acuerdos de las sesiones públicas que no contengan información clasificada y el resultado de su votación, serán difundidos por lo menos cada tres meses en la Gaceta Municipal, así como los datos de identificación de las actas que contengan acuerdos de sesiones privadas o con información clasificada, incluyendo en cada caso, la causa que haya calificado privada la sesión, o el fundamento legal que clasifica la información.
+Todos los acuerdos de las sesiones públicas que no contengan información clasificada y el resultado de su votación, serán difundidos cada mes en la Gaceta Municipal y en los estrados de la Secretaría del Ayuntamiento, así como los datos de identificación de las actas que contengan acuerdos de sesiones privadas o con información clasificada, incluyendo en cada caso, la causa que haya calificado privada la sesión, o el fundamento legal que clasifica la información.
 
 > <small>(ADICIONADO, G.G. 9 DE MARZO DE 2011)</small>
 
@@ -1017,7 +1021,9 @@ I. Presidir y dirigir las sesiones del ayuntamiento;
 
 II. Ejecutar los acuerdos del ayuntamiento e informar su cumplimiento;
 
-III. Promulgar y publicar en la Gaceta Municipal el Bando Municipal, y ordenar la difusión de las normas de carácter general y reglamentos aprobados por el ayuntamiento;
+> <small>(REFORMADA, G.G. 5 DE SEPTIEMBRE DE 2011)</small>
+
+III. Promulgar y publicar el Bando Municipal en la Gaceta Municipal y en los estrados de la Secretaría del Ayuntamiento, así como ordenar la difusión de las normas de carácter general y reglamentos aprobados por el Ayuntamiento;
 
 > <small>(REFORMADA, G.G. 17 DE AGOSTO DE 2009)</small>
 
@@ -1349,6 +1355,10 @@ n). De salud pública;
 
 ñ). De población;
 
+> <small>(ADICIONADO, G.G. 5 DE SEPTIEMBRE DE 2011)</small>
+
+ñ). Bis. De Participación Ciudadana;
+
 > <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 2 DE FEBRERO DE 2010)</small>
 
 o). De asuntos indígenas, en aquellos municipios con presencia de población indígena;
@@ -1404,6 +1414,10 @@ Los miembros de los consejos podrán ser removidos, en cualquier tiempo por el a
 ###### Artículo 77.
 
 Los ayuntamientos promoverán entre sus habitantes la creación y funcionamiento de organizaciones sociales de carácter popular, a efecto de que participen en el desarrollo vecinal, cívico y en beneficio colectivo de sus comunidades.
+
+> <small>(ADICIONADO, G.G. 5 DE SEPTIEMBRE DE 2011)</small>
+
+La Comisión De Participación Ciudadana a que se refiere el artículo 69 de esta Ley, fungirá como instancia de apoyo entre los ciudadanos, organizaciones de la sociedad civil, constructores o desarrolladores y las autoridades municipales, en los conflictos que se generen en materia de desarrollo urbano y uso de suelo, adicionalmente a las funciones que le señale el reglamento correspondiente.
 
 ###### Artículo 78.
 
@@ -1571,7 +1585,9 @@ En el caso de que el ayuntamiento adquiera por cualquier concepto bienes muebles
 
 XII. Integrar un sistema de información que contenga datos de los aspectos socio-económicos básicos del municipio;
 
-XIII. Ser responsable de la publicación de la Gaceta Municipal;
+> <small>(REFORMADA, G.G. 5 DE SEPTIEMBRE DE 2011)</small>
+
+XIII. Ser responsable de la publicación de la Gaceta Municipal, así como de las publicaciones en los estrados de los Ayuntamientos; y
 
 XIV. Las demás que le confieran esta Ley y disposiciones aplicables.
 
@@ -1975,9 +1991,11 @@ El Plan de Desarrollo Municipal se complementará con programas anuales sectoria
 
 En la elaboración de su Plan de Desarrollo Municipal, los ayuntamientos proveerán lo necesario para promover la participación y consulta populares.
 
+> <small>(REFORMADO, G.G. 5 DE SEPTIEMBRE DE 2011)</small>
+
 ###### Artículo 121.
 
-Los ayuntamientos publicarán su Plan de Desarrollo Municipal a través de la Gaceta Municipal durante el primer año de gestión y lo difundirán en forma extensa.
+Los ayuntamientos publicarán su Plan de Desarrollo Municipal a través de la Gaceta Municipal y de los estrados de los Ayuntamientos durante el primer año de gestión y lo difundirán en forma extensa.
 
 ###### Artículo 122.
 
@@ -2423,6 +2441,8 @@ VII. Las que el ayuntamiento le asigne.
 
 ### CAPITULO PRIMERO. Del Bando y los Reglamentos
 
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 5 DE SEPTIEMBRE DE 2011)</small>
+
 ## TITULO V. De la Función Mediadora-Conciliadora y de la Calificadora de los Ayuntamientos
 
 > <small>(REFORMADA SU DENOMINACION, G.G. 4 DE SEPTIEMBRE DE 2003)</small>
@@ -2647,7 +2667,7 @@ Contra los actos y resoluciones administrativos que dicten o ejecuten las autori
 
 ###### Artículo 160.
 
-Los ayuntamientos expedirán el Bando Municipal y los presidentes municipales lo promulgarán y difundirán en la Gaceta Municipal y por los medios que estimen convenientes.
+Los ayuntamientos expedirán el Bando Municipal y los presidentes municipales lo promulgarán y difundirán en la Gaceta Municipal y en los estrados de los Ayuntamientos, así como por los medios que estime conveniente.
 
 El 5 de febrero de cada año el presidente municipal acompañado de los demás miembros del ayuntamiento en acto solemne dará publicidad al bando municipal o sus modificaciones.
 
@@ -2699,9 +2719,11 @@ El Bando Municipal podrá modificarse en cualquier tiempo, siempre y cuando se c
 
 Los ayuntamientos podrán expedir los reglamentos, circulares y disposiciones administrativas que regulen el régimen de las diversas esferas de competencia municipal.
 
+> <small>(REFORMADO, G.G. 5 DE SEPTIEMBRE DE 2011)</small>
+
 ###### Artículo 165.
 
-Los Bandos, sus reformas y adiciones, así como los reglamentos municipales deberán promulgarse estableciendo su obligatoriedad y vigencia y darse a la publicidad en la Gaceta Municipal y en los medios que se estime conveniente.
+Los Bandos, sus reformas y adiciones, así como los reglamentos municipales deberán promulgarse estableciendo su obligatoriedad y vigencia y darse a la publicidad en la Gaceta Municipal y en los estrados de los ayuntamientos, así como en los medios que se estime conveniente.
 
 ###### Artículo 166.
 
@@ -3270,6 +3292,22 @@ SEGUNDO.- El presente Decreto entrará en vigor el día siguiente de su publicac
 G.G. 29 DE AGOSTO DE 2011.
 
 DECRETO No. 334 POR EL QUE SE REFORMAN LOS ARTICULOS 105, 106 Y 107 DE LA LEY ORGANICA MUNICIPAL DEL ESTADO DE MEXICO.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 5 DE SEPTIEMBRE DE 2011.
+
+DECRETO No. 340 POR EL QUE SE REFORMAN LOS ARTICULOS 17 EN SU SEGUNDO PARRAFO, 30 EN SUS PARRAFOS PRIMERO Y SEGUNDO; 48 EN SU FRACCION III, 91 EN SU FRACCION XIII, 121, 160 EN SU PRIMER PARRAFO Y 165 DE LA LEY ORGANICA MUNICIPAL DEL ESTADO DE MEXICO.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- Este Decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 5 DE SEPTIEMBRE DE 2011.
+
+DECRETO No. 341 POR EL QUE SE ADICIONA EL INCISO Ñ) BIS A LA FRACCION I DEL ARTICULO 69 Y UN SEGUNDO PARRAFO AL ARTICULO 77 DE LA LEY ORGANICA MUNICIPAL DEL ESTADO DE MEXICO.
 
 PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
 
