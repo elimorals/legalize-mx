@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-sesiones-del-consejo-general-del-instituto-61486"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-06-16"
-last_updated: "2011-07-07"
+last_updated: "2011-09-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61486&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -23,7 +23,7 @@ ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO FEDERAL ELECTORAL POR EL QUE SE EXPIDE
 
 > <small>N. DE E. LAS REFORMAS APROBADAS POR EL ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO FEDERAL ELECTORAL, MODIFICA DE MANERA SUSTANCIAL PRACTICAMENTE TODO EL TEXTO DEL REGLAMENTO DEL 16 DE JUNIO DE 2008, DANDO COMO RESULTADO UN TEXTO DIFERENTE AL ORIGINAL, Y SI BIEN DIVERSOS ARTICULOS QUEDARON INTACTOS POR LA REFORMA, DEBIDO A LO ANTERIOR SE CONSERVA EL TEXTO APROBADO Y PUBLICADO EN EL D.O.F. DE 7 DE JULIO DE 2011.</small>
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 7 DE JULIO DE 2011.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 5 DE SEPTIEMBRE DE 2011.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el lunes 16 de junio de 2008.
 
@@ -635,27 +635,53 @@ FORMA DE TOMAR LA VOTACIÓN
 
 CASO DE EMPATE
 
-5. En caso de empate se procederá a una segunda votación; de persistir éste, el proyecto de acuerdo o resolución se tendrá por no aprobado, por lo que el Consejo deberá determinar sobre su presentación en la sesión inmediata posterior a efecto de someterlo nuevamente a discusión y votación.
+> <small>(REFORMADO, D.O.F. 5 DE SEPTIEMBRE DE 2011)</small>
 
-6. En los casos de los procedimientos administrativos sancionadores ordinarios, especiales, de fiscalización y aquellos relacionados con las quejas sobre financiamiento y gasto de los partidos políticos el Presidente determinará que se presenten en una sesión posterior, en la que se encuentren presentes todos los Consejeros Electorales.
+5. En caso de empate se procederá a una segunda votación; de persistir éste, el Proyecto de Acuerdo o Resolución se tendrá por no aprobado, por lo que el Presidente deberá determinar sobre su presentación en la sesión inmediata posterior a efecto de someterlo nuevamente a discusión y votación.
+
+> <small>(REFORMADO, D.O.F. 5 DE SEPTIEMBRE DE 2011)</small>
+
+6. En los casos de los procedimientos administrativos sancionadores ordinarios, de fiscalización y aquellos relacionados con las quejas sobre financiamiento y gasto de los partidos políticos el Presidente determinará que se presenten en una sesión posterior, en la que se encuentren presentes todos los Consejeros Electorales.
+
+> <small>(ADICIONADO, D.O.F. 5 DE SEPTIEMBRE DE 2011)</small>
+
+7. En los casos de los proyectos relacionados con los procedimientos especiales sancionadores, el Presidente deberá suspender la sesión respecto del punto del orden del día en el que se produzca el empate y en un plazo no mayor a veinticuatro horas, deberá reanudarla para la discusión y Resolución del proyecto correspondiente.
+
+> <small>(ADICIONADO, D.O.F. 5 DE SEPTIEMBRE DE 2011)</small>
+
+8. La suspensión es para el único efecto de adoptar la Resolución correspondiente que fue objeto de empate en la votación, por lo que se deberá continuar, de ser el caso, con el desahogo de los demás asuntos agendados en el orden del día de la sesión.
 
 VOTACIÓN EN LO GENERAL Y EN LO PARTICULAR
 
-7. La votación se hará en lo general y en lo particular, siempre y cuando así lo solicite un integrante del Consejo.
+> <small>(REFORMADO, D.O.F. 5 DE SEPTIEMBRE DE 2011)</small>
 
-8. Las propuestas de modificación que se formulen por parte de un integrante del Consejo a un proyecto de acuerdo o resolución, durante el desarrollo de la sesión, deberán someterse a votación; salvo que previo al (sic) este proceso se decline de la propuesta.
+9. La votación se hará en lo general y en lo particular, siempre y cuando así lo solicite un integrante del Consejo.
 
-9. En caso de no existir consenso respecto de las modificaciones propuestas, se procederá a realizar una votación en lo general. Posteriormente, en lo particular, se podrán realizar dos votaciones por cada propuesta planteada; la primera para someter a consideración el proyecto circulado y de no ser aprobado, se procederá a votar la propuesta alterna.
+> <small>(REFORMADO, D.O.F. 5 DE SEPTIEMBRE DE 2011)</small>
 
-10. Tratándose de propuestas vinculadas con un mismo punto en lo particular y que sean excluyentes, se entenderá que de ser aprobada la primera, no será necesario votar la segunda propuesta.
+10. Las propuestas de modificación que se formulen por parte de un integrante del Consejo a un Proyecto de Acuerdo o Resolución, durante el desarrollo de la sesión, deberán someterse a votación; salvo que previo al (sic) este proceso se decline de la propuesta.
+
+> <small>(REFORMADO, D.O.F. 5 DE SEPTIEMBRE DE 2011)</small>
+
+11. En caso de no existir consenso respecto de las modificaciones propuestas, se procederá a realizar una votación en lo general. Posteriormente, en lo particular, se podrán realizar dos votaciones por cada propuesta planteada; la primera para someter a consideración el proyecto circulado y de no ser aprobado, se procederá a votar la propuesta alterna.
+
+> <small>(REFORMADO, D.O.F. 5 DE SEPTIEMBRE DE 2011)</small>
+
+12. Tratándose de propuestas vinculadas con un mismo punto en lo particular y que sean excluyentes, se entenderá que de ser aprobada la primera, no será necesario votar la segunda propuesta.
 
 PROCEDIMIENTO PARA LA VOTACIÓN
 
-11. La votación se tomará contando en primer término el número de votos a favor y, en su caso, el número de votos en contra. El sentido de la votación quedará asentado en el acta.
+> <small>(REFORMADO, D.O.F. 5 DE SEPTIEMBRE DE 2011)</small>
 
-12. Se considerará unanimidad, aquella votación en la que todos los Consejeros Electorales se pronuncien en el mismo sentido, ya sea a favor o en contra.
+13. La votación se tomará contando en primer término el número de votos a favor y, en su caso, el número de votos en contra. El sentido de la votación quedará asentado en el acta.
 
-13. Se entenderá por mayoría, ya sea a favor o en contra, cuando se cuente con el voto de la mitad más uno de los Consejeros Electorales.
+> <small>(REFORMADO, D.O.F. 5 DE SEPTIEMBRE DE 2011)</small>
+
+14. Se considerará unanimidad, aquella votación en la que todos los Consejeros Electorales se pronuncien en el mismo sentido, ya sea a favor o en contra.
+
+> <small>(REFORMADO, D.O.F. 5 DE SEPTIEMBRE DE 2011)</small>
+
+15. Se entenderá por mayoría, ya sea a favor o en contra, cuando se cuente con el voto de la mitad más uno de los Consejeros Electorales.
 
 > <small>(REFORMADO, D.O.F. 7 DE JULIO DE 2011)</small>
 
@@ -711,7 +737,9 @@ VOTO PARTICULAR, VOTO CONCURRENTE Y VOTO RAZONADO
 
 DEVOLUCIÓN
 
-9. En el caso de que el Consejo rechazara un proyecto de resolución relativo a un proyecto administrativo sancionador ordinario, especial o sobre financiamiento y gasto, o en materia de fiscalización de los recursos de los partidos políticos y considerara necesario la elaboración de un nuevo proyecto, se estará a los (sic) dispuesto por el Código y los reglamentos respectivos de la materia.
+> <small>(REFORMADO, D.O.F. 5 DE SEPTIEMBRE DE 2011)</small>
+
+10 (SIC). En el caso que el Consejo rechazara un proyecto de Resolución relativo a un proyecto administrativo sancionador ordinario o sobre financiamiento y gasto en materia de fiscalización de los recursos de los partidos políticos y considerara necesario la elaboración de un nuevo proyecto, se estará a lo dispuesto por el Código y los Reglamentos respectivos de la materia.
 
 > <small>(REFORMADO, D.O.F. 7 DE JULIO DE 2011)</small>
 
@@ -792,3 +820,13 @@ PRIMERO. Las presentes reformas, modificaciones y adiciones al Reglamento de Ses
 SEGUNDO. Se derogan las disposiciones y acuerdos adoptados con anterioridad por el Consejo que contravengan al presente Reglamento.
 
 TERCERO. Las notificaciones electrónicas respecto a la documentación que se discuta y analice en las sesiones del Consejo son optativas. El Instituto Federal Electoral implementará los sistemas tecnológicos necesarios para su instrumentación.
+
+D.O.F. 5 DE SEPTIEMBRE DE 2011.
+
+> <small>N. DE E. DEBIDO A SU IMPORTANCIA SE TRANSCRIBEN LOS PUNTOS DE ACUERDO QUE SE RELACIONAN CON EL PRESENTE ORDENAMIENTO.</small>
+
+...
+
+Segundo.- Las modificaciones al Reglamento de sesiones del Consejo General entrarán en vigor al día siguiente de su aprobación por el Consejo General.
+
+Tercero.- Publíquese el presente Acuerdo en el Diario Oficial de la Federación y en la Gaceta del Instituto Federal Electoral.
