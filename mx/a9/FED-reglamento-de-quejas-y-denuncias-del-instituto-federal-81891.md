@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-quejas-y-denuncias-del-instituto-federal-81891"
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-06-30"
-last_updated: "2011-06-30"
+last_updated: "2011-09-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81891&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2011-06-23"
 
 REGLAMENTO DE QUEJAS Y DENUNCIAS DEL INSTITUTO FEDERAL ELECTORAL
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 5 DE SEPTIEMBRE DE 2011.
 
 Reglamento publicado en la Segunda Sección del Diario Oficial de la Federación, el jueves 30 de junio de 2011.
 
@@ -1291,7 +1291,11 @@ De la admisión y el emplazamiento
 
 1. El Secretario contará con un plazo de veinticuatro horas para emitir el Acuerdo de admisión o propuesta de desechamiento, contado a partir del día en que reciba el escrito original de queja o denuncia en el que conste firma autógrafa del promovente.
 
-El procedimiento especial sancionador se rige preponderantemente por el principio dispositivo, no obstante en los casos en los que el denunciante o quejoso no aporte indicios suficientes para que la autoridad dicte el Acuerdo de admisión o desechamiento, según corresponda, o en caso de considerarlo necesario para el debido conocimiento de los hechos, el Secretario ejercerá su facultad para llevar a cabo u ordenar la realización de diligencias preliminares, debiendo justificar la necesidad y oportunidad de las mismas, privilegiando la expeditez del procedimiento. En este caso, el plazo para emitir el Acuerdo correspondiente se computará a partir que la autoridad cuente con los elementos necesarios.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE EL PUNTO TERCERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, D.O.F. 5 DE SEPTIEMBRE DE 2011)</small>
+
+El procedimiento especial sancionador se rige preponderantemente por el principio dispositivo, no obstante en los casos en los que el denunciante o quejoso no aporte indicios suficientes para que la autoridad dicte el Acuerdo de admisión o desechamiento, según corresponda, o en caso de considerarlo necesario para el debido conocimiento de los hechos, el Secretario ejercerá su facultad para llevar a cabo u ordenar la realización de diligencias preliminares, las cuales deben realizarse atendiendo a la naturaleza, objeto y efectos de de (sic) dicho procedimiento y su carácter sumario, a fin de que tales diligencias de investigación se lleven a cabo en un plazo razonable, idóneo y proporcional, debiendo justificar para tal efecto su necesidad y oportunidad. En este caso, el plazo para emitir el Acuerdo correspondiente se computará a partir que la autoridad cuente con los elementos necesarios.
 
 2. Admitida la denuncia, el Secretario emplazará al denunciante y al denunciado para que comparezcan a una audiencia de pruebas y alegatos, que tendrá lugar dentro del plazo de cuarenta y ocho horas posteriores a la admisión. En el escrito respectivo se le informará al denunciado de la infracción que se le imputa y se le correrá traslado de la denuncia con sus anexos y las demás constancias que obren en el expediente.
 
@@ -1319,19 +1323,25 @@ d) Concluido el desahogo de las pruebas, el Secretario concederá en forma suces
 
 5. Las reglas establecidas en los Capítulos Tercero y Cuarto, del Título Segundo de este Reglamento serán aplicables al procedimiento que se regula en este Título, en todo aquello que no se oponga a la naturaleza del mismo y a las reglas contenidas en este artículo.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE EL PUNTO TERCERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, D.O.F. 5 DE SEPTIEMBRE DE 2011)</small>
+
 Artículo 69
 
-Del proyecto de resolución
+Del Proyecto de Resolución
 
-1. Celebrada la audiencia, el Secretario deberá formular un proyecto de resolución dentro de las veinticuatro horas siguientes y lo presentará ante el Consejero Presidente, para que éste convoque a los miembros del Consejo a una sesión que deberá celebrarse, a más tardar dentro de las veinticuatro horas posteriores a la entrega del citado proyecto.
+1. Celebrada la audiencia, el Secretario deberá formular un Proyecto de Resolución dentro de las veinticuatro horas siguientes y lo presentará ante el Consejero Presidente, para que éste convoque a los miembros del Consejo a una sesión que deberá celebrarse, a más tardar dentro de las veinticuatro horas posteriores a la entrega del citado proyecto.
 
-2. En la sesión respectiva el Consejo conocerá y resolverá sobre el proyecto de resolución. En caso de comprobarse la infracción denunciada, se ordenará la cancelación inmediata de la transmisión de la propaganda política, electoral o gubernamental en radio y televisión motivo de la denuncia, el retiro físico o la inmediata suspensión de la distribución o difusión de propaganda violatoria de este Código, cualquiera que sea su forma o medio de difusión, e impondrá las sanciones correspondientes.
+2. En la sesión respectiva el Consejo conocerá y resolverá sobre el Proyecto de Resolución. En caso de comprobarse la infracción denunciada, se ordenará la cancelación inmediata de la transmisión de la propaganda política, electoral o gubernamental en radio y televisión motivo de la denuncia, el retiro físico o la inmediata suspensión de la distribución o difusión de propaganda violatoria de este Código, cualquiera que sea su forma o medio de difusión, e impondrá las sanciones correspondientes.
 
-3. En el supuesto que durante el trámite del expediente se haya ordenado la emisión de medidas cautelares, pero en la resolución correspondiente no se haya acreditado la infracción denunciada, se ordenará la suspensión de los efectos de las medidas cautelares concedidas.
+3. En caso de empate se procederá a una segunda votación; si persiste el empate, el Consejero Presidente deberá suspender la sesión para ser reanudada dentro de las veinticuatro horas siguientes, a efecto de continuar la misma para la discusión y Resolución del procedimiento especial sancionador.
 
-4. El proyecto de resolución correspondiente, deberá contener los elementos precisados en el artículo 56 del presente Reglamento.
+4. En el supuesto que durante el trámite del expediente se haya ordenado la emisión de medidas cautelares, pero en la Resolución correspondiente no se haya acreditado la infracción denunciada, se ordenará la suspensión de los efectos de las medidas cautelares concedidas.
 
-5. Las reglas establecidas en los Capítulos Sexto, Séptimo y Octavo, del Título Segundo de este Reglamento serán aplicables al procedimiento que se regula en este Título, en todo aquello que no se oponga a la naturaleza del mismo y a las reglas contenidas en este artículo.
+5. El Proyecto de Resolución correspondiente, deberá contener los elementos precisados en el artículo 56 del presente Reglamento.
+
+6. Las reglas establecidas en los Capítulos Sexto, Séptimo y Octavo, del Título Segundo de este Reglamento serán aplicables al procedimiento que se regula en este Título, en todo aquello que no se oponga a la naturaleza del mismo y a las reglas contenidas en este artículo.
 
 ### CAPITULO SEGUNDO. Del procedimiento ante los órganos desconcentrados
 
@@ -1385,7 +1395,11 @@ iii) El vocal ejecutivo contará con veinticuatro horas para elaborar el engrose
 
 6. En el caso de la propaganda impresa, podrá interponerse la queja respectiva ante el vocal ejecutivo o ante el vocal secretario de la Junta Distrital que corresponda al ámbito territorial en que se presente el hecho motivo de la impugnación.
 
-7. En caso de empate motivado por la ausencia de alguno de los consejeros electorales, se procederá a una segunda votación; en caso de persistir el empate, el Consejero Presidente determinará que se presente en una sesión posterior, en la que se encuentren presentes todos los consejeros electorales.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE EL PUNTO TERCERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, D.O.F. 5 DE SEPTIEMBRE DE 2011)</small>
+
+7. En caso de empate se procederá a una segunda votación, si persiste el empate el Consejero Presidente deberá suspender la sesión para ser reanudada dentro de las veinticuatro horas siguientes, a efecto de continuar la misma para la discusión y Resolución del procedimiento.
 
 8. El Consejero Electoral que disienta de la mayoría podrá formular voto particular; si comparte el sentido, pero discrepa de las consideraciones que lo sustentan, podrá formular voto particular, en la modalidad de concurrente. El Consejero Electoral que coincida tanto con los argumentos expresados, así como con el sentido de la resolución; sin embargo, considere necesario agregar algunos otros argumentos que fortalezcan el sentido del proyecto, podrá formular un voto particular, en la modalidad de razonado. En estos casos, se insertarán en el proyecto respectivo si se remiten al vocal ejecutivo dentro de los dos días siguientes a la fecha de la notificación de la resolución correspondiente.
 
@@ -1586,3 +1600,21 @@ Se aprobó en lo particular el Punto Cuarto Transitorio del Reglamento de Quejas
 Se aprobó en lo particular el Punto Quinto Transitorio del Reglamento de Quejas y Denuncias del Instituto Federal Electoral, por votación unánime de los Consejeros Electorales, Maestro Marco Antonio Baños Martínez, Doctora María Macarita Elizondo Gasperín, Maestro Alfredo Figueroa Fernández, Doctor Francisco Javier Guerrero Aguirre, Doctor Benito Nacif Hernández y el Consejero Presidente, Doctor Leonardo Valdés Zurita.
 
 El Consejero Presidente del Consejo General, Leonardo Valdés Zurita.- Rúbrica.- El Secretario del Consejo General, Edmundo Jacobo Molina.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 5 DE SEPTIEMBRE DE 2011.
+
+> <small>N. DE E. DEBIDO A SU IMPORTANCIA, A CONTINUACION SE TRANSCRIBEN LOS PUNTOS DEL ACUERDO DE REFORMAS.</small>
+
+...
+
+Tercero.- Las modificaciones al presente Reglamento obligan y surten sus efectos tres días después de su publicación en el Diario Oficial de la Federación.
+
+Cuarto.- Se instruye al Secretario del Consejo para que instrumente lo conducente para que el presente Reglamento se publique en el Diario Oficial de la Federación con las modificaciones realizadas.
+
+Quinto.- Se instruye al Secretario del Consejo a efecto de que notifique el contenido del presente Acuerdo a la H. Sala Superior del Tribunal Electoral del Poder Judicial de la Federación, dentro de las 24 horas siguientes a la aprobación del mismo.
+
+Sexto.- El Secretario Ejecutivo dispondrá, a la brevedad posible, la edición del número de ejemplares de este Reglamento que estime necesarios para su adecuada difusión.
+
+Séptimo.- Publíquese el presente Acuerdo en la Gaceta Electoral del Instituto Federal Electoral.
