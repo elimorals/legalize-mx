@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-interno-del-instituto-hacendario-del-estado-de-82480
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-08-09"
-last_updated: "2011-08-09"
+last_updated: "2011-09-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=82480&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "MEX"
 ---
 # REGLAMENTO INTERNO DEL INSTITUTO HACENDARIO DEL ESTADO DE MEXICO
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 5 DE SEPTIEMBRE DE 2011 EN LA G.G. DEL ESTADO DE MÉXICO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 REGLAMENTO INTERNO DEL INSTITUTO HACENDARIO DEL ESTADO DE MÉXICO
 
 TEXTO ORIGINAL.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA GACETA DEL GOBIERNO DEL 5 DE SEPTIEMBRE DE 2011.</small>
 
 Reglamento publicado en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el martes 9 de agosto de 2011.
 
@@ -57,7 +57,9 @@ IV. Presidente, al Presidente del Consejo Directivo y de la Comisión Permanente
 
 V. Secretario, al Secretario del Consejo Directivo y de la Comisión Permanente;
 
-VI. Comisario, al Comisario del Consejo Directivo del Instituto Hacendario del Estado de México;
+> <small>(F. DE E., P.O. 5 DE SEPTIEMBRE DE 2011)</small>
+
+VI. Comisario, al Comisario del Consejo Directivo y de la Comisión Permanente;
 
 VII. Vocalía Ejecutiva, a la Vocalía Ejecutiva del Instituto Hacendario del Estado de México;
 
@@ -71,7 +73,7 @@ XI. Tesoreros, a los Tesoreros Municipales del Estado de México;
 
 XII. Sesiones, a las reuniones ordinarias o extraordinarias de la Comisión Permanente; y
 
-XIII. Reuniones Regionales, a las Reuniones Regionales Hacendarias de Tesoreros municipales; (sic)
+XIII. Reuniones Regionales, a las Reuniones Regionales Hacendarias de Tesoreros municipales;
 
 ###### Artículo 3.
 
@@ -85,9 +87,11 @@ El Instituto se sujetará a lo dispuesto por el Código, por la Ley para la Coor
 
 El Instituto conducirá sus actividades en forma programada y coordinada, con base en lo señalado en el Plan de Desarrollo del Estado de México, así como en los programas regionales, sectoriales y especiales que estén a su cargo o en los que participe, de acuerdo con su ámbito de competencia.
 
+> <small>(F. DE E., P.O. 5 DE SEPTIEMBRE DE 2011)</small>
+
 ###### Artículo 6.
 
-Las actividades que realice el Instituto, serán única y exclusivamente de carácter técnico, administrativo y académico, y sólo podrá actuar a petición expresa de los gobiernos municipales o del Gobierno del Estado, respetando invariablemente las instrucciones que de éstos reciba, quienes en todo caso podrán solicitar que se guarde la información bajo los principios de siglo y confidencialidad.
+Las actividades que realice el Instituto, serán única y exclusivamente de carácter técnico, administrativo y académico, y sólo podrá actuar a petición expresa de los gobiernos municipales o del Gobierno del Estado, respetando invariablemente las instrucciones que de éstos reciba, quienes en todo caso podrán solicitar que se guarde la información bajo los principios de sigilo y confidencialidad.
 
 ### CAPÍTULO II. DE LA REUNIÓN ESTATAL DE SERVIDORES PÚBLICOS HACENDARIOS
 
@@ -115,13 +119,15 @@ II. Que se privilegie el diálogo y consenso de las propuestas que sus integrant
 
 III. La armonización de los intereses de los órdenes de gobierno involucrados en la Coordinación Hacendaria, cuando haya discrepancia de opinión; y
 
-IV. Que el desarrollo y perfeccionamiento del Sistema vaya acorde a los cambios sociales, económicos y políticos que experimente el país; (sic)
+IV. Que el desarrollo y perfeccionamiento del Sistema vaya acorde a los cambios sociales, económicos y políticos que experimente el país;
 
 ###### Artículo 9.
 
 La Reunión se desarrollará de acuerdo con lo previsto en el Código y se tratarán los asuntos que se señalen en el orden del día, que comprenderán preferentemente, los siguientes:
 
-I. Presentación conjunta de los gobiernos municipales y del Estado de un proyecto unificado de Ley de Ingresos de los municipios, que considere las propuestas que formulen los ayuntamientos en el ámbito de su competencia; y
+> <small>(F. DE E., P.O. 5 DE SEPTIEMBRE DE 2011)</small>
+
+II. Presentación conjunta de los gobiernos municipales y del Estado de un proyecto unificado de reformas, adiciones y/o derogaciones de disposiciones establecidas en el Código, sugeridas por los gobiernos municipales en el ámbito de su competencia.
 
 II. Presentación conjunta de los gobiernos municipales y del Estado de un proyecto unificado de reformas, adiciones o derogaciones de disposiciones establecidas en el Código, sugeridas por los gobiernos municipales en el ámbito de su competencia.
 
@@ -177,9 +183,11 @@ Para la sesión del Consejo Directivo en Asamblea Anual, la convocatoria deberá
 
 El orden del día para la sesión del Consejo Directivo en Asamblea Anual, considerará preferentemente, los siguientes asuntos:
 
-I. Proyecto de los gobiernos municipales y del Estado de un proyecto unificado de “Ley de Ingresos de los Municipios”, que considere las propuestas que formulen los gobiernos municipales en el ámbito de su competencia; y (sic)
+I. Proyecto de los gobiernos municipales y del Estado de un proyecto unificado de “Ley de Ingresos de los Municipios”, que considere las propuestas que formulen los gobiernos municipales en el ámbito de su competencia; y
 
-II. Proyecto de los gobiernos municipales y del Estado de un proyecto unificado de “Reformas, adiciones o derogaciones de disposiciones establecidas en el Código”, sugeridas por los gobiernos municipales en el ámbito de su competencia.
+> <small>(F. DE E., P.O. 5 DE SEPTIEMBRE DE 2011)</small>
+
+II. Proyecto unificado de los gobiernos municipales y del Estado, de reformas, adiciones y/o derogaciones de disposiciones establecidas en el Código, sugeridas por los gobiernos municipales en el ámbito de su competencia.
 
 III. Informe del Vocal Ejecutivo sobre las actividades del Instituto;
 
@@ -189,17 +197,21 @@ V. Anteproyecto de presupuesto anual de ingresos y egresos, así como los proyec
 
 VI. Asuntos generales.
 
-###### Artículo 15.
+> <small>(F. DE E., P.O. 5 DE SEPTIEMBRE DE 2011)</small>
 
-El Consejo Directivo podrá sesionar válidamente en primera convocatoria con la asistencia del Presidente, Secretario y cuando menos, el cincuenta por ciento más uno de sus vocales y en segunda convocatoria, después de transcurridos treinta minutos a la primera, con el Presidente, el Secretario y los vocales presentes.
+###### Articulo 15.
+
+El Consejo Directivo podrá sesionar válidamente en primera convocatoria con la asistencia del Presidente, Secretario y, cuando menos, el cincuenta por ciento más uno de sus vocales y, en segunda convocatoria, después de transcurridos treinta minutos a la primera, con el Presidente, el Secretario y los vocales presentes.
 
 ###### Artículo 16.
 
 Las sesiones extraordinarias del Consejo Directivo se ocuparán solamente de los asuntos señalados en la convocatoria respectiva y el orden del día no comprenderá asuntos generales.
 
+> <small>(F. DE E., P.O. 5 DE SEPTIEMBRE DE 2011)</small>
+
 ###### Artículo 17.
 
-Los acuerdos que se determinen en las sesiones del Consejo Directivo se harán constar en acta, misma que firmará el Presidente y el Secretario y del cual se proporcionará copia a los representantes de las regiones presentes y a los vocales que lo soliciten.
+Los acuerdos que se determinen en las sesiones del Consejo Directivo se harán constar en acta, misma que firmará el Presidente y el Secretario y de la cual se proporcionará copia a los representantes de las regiones presentes y a los vocales que lo soliciten.
 
 Los acuerdos que tome el Consejo Directivo, se darán en estricto respeto a la soberanía estatal y a la autonomía municipal.
 
@@ -497,7 +509,9 @@ X. Apoyar a los gobiernos municipales, en la interpretación de los ordenamiento
 
 XI. Promover y coordinar la creación de Comisiones Temáticas y/o Grupos de Trabajo en las materias de su competencia, previo acuerdo del Vocal Ejecutivo;
 
-XII. Coordinar la operación de Comisiones Temáticas para elaborar el proyecto unificado de Ley de Ingresos de los Municipios y del proyecto unificado de reformas, adiciones o derogaciones a las disposiciones establecidas en el Código, relativas al ámbito municipal;
+> <small>(F. DE E., P.O. 5 DE SEPTIEMBRE DE 2011)</small>
+
+XII. Coordinar la operación de Comisiones Temáticas para elaborar el proyecto unificado de Ley de Ingresos de los Municipios y del proyecto unificado de reformas, adiciones y/o derogaciones a las disposiciones establecidas en el Código, relativas al ámbito municipal;
 
 XIII. Substanciar los procedimientos administrativos y jurisdiccionales en los que el Instituto sea parte;
 
@@ -583,7 +597,9 @@ IV. Promover la presentación oportuna de las declaraciones de situación patrim
 
 V. Instruir y resolver los recursos o medios de impugnación presentados en contra de las resoluciones que emita este órgano de control interno;
 
-VI. Instar que se presenten las denuncias correspondientes o dar vista al Ministerio Público cuando en el trámite de un expediente de queja, denuncia o investigación por responsabilidad administrativa o en el ejercicio de sus facultades de control y evaluación, advierta que existen hechos o elementos que puedan ser constitutivos de delito por parte de los servidores público (sic) del Organismo;
+> <small>(F. DE E., P.O. 5 DE SEPTIEMBRE DE 2011)</small>
+
+VI. Instar que se presenten las denuncias correspondientes o dar vista al Ministerio Público cuando en el trámite de un expediente de queja, denuncia o investigación por responsabilidad administrativa o en el ejercicio de sus facultades de control y evaluación, advierta que existen hechos o elementos que puedan ser constitutivos de delito por parte de los servidores públicos del Organismo;
 
 VII. Participar en las sesiones de los comités de adquisiciones y servicios y de arrendamientos, adquisiciones de inmuebles y enajenaciones del Instituto;
 
@@ -619,7 +635,13 @@ Las reuniones serán presididas por uno de los Vocales del Consejo Directivo, en
 
 Asimismo, podrá asistir personal del Instituto, así como otros servidores públicos estatales o municipales que tengan interés y su participación sea inherente al desarrollo de la reunión.
 
-Las reuniones se llevarán a cabo bimestralmente, en cada una de las Regiones Hacendarias o de forma plenaria en la sede del Instituto, a convocatoria del Vocal Ejecutivo.
+> <small>(F. DE E., P.O. 5 DE SEPTIEMBRE DE 2011)</small>
+
+Las reuniones se llevarán a cabo bimestralmente, en cada una de las Regiones Hacendarias o de forma plenaria, a convocatoria del Vocal Ejecutivo.
+
+> <small>(F. DE E., P.O. 5 DE SEPTIEMBRE DE 2011)</small>
+
+Las Reuniones Hacendarias podrán sesionar válidamente en primera convocatoria con la asistencia del Presidente, Secretario y, cuando menos, el cincuenta por ciento más uno de sus vocales y, en segunda convocatoria, después de transcurridos treinta minutos a la primera, por el Presidente, el Secretario y los vocales presentes.
 
 ###### Artículo 34.
 
@@ -657,11 +679,15 @@ REGIÓN SUR: Amanalco, Amatepec, Donato Guerra, Ixtapan del Oro, Luvianos, Otzol
 
 REGIÓN NORTE: Acambay, Aculco, Atlacomulco, Chapa de Mota, El Oro, Ixtlahuaca, Jilotepec, Jiquipilco, Jocotitlán, Morelos, Polotitlán, San Felipe del Progreso, San José del Rincón, Soyaniquilpan de Juárez, Temascalcingo, y Timilpan.
 
-REGIÓN VALLE DE TOLUCA CENTRO: Almoloya de Juárez, Almoloya del Río, Atizapán. Calimaya, Capulhuac, Chapultepec, Lerma, Metepec, Mexicaltzingo, Ocoyoacac, Otzolotepec, Rayón, San Mateo Atenco, San Antonio la Isla, Temoaya, Toluca, Texcalyacac, Tianguistenco, Villa Victoria, Xalatlaco, Xonacatlán y Zinacantepec.
+> <small>(F. DE E., P.O. 5 DE SEPTIEMBRE DE 2011)</small>
+
+REGIÓN VALLE DE TOLUCA CENTRO: Almoloya de Juárez, Almoloya del Río, Atizapán, Calimaya, Capulhuac, Chapultepec, Lerma, Metepec, Mexicaltzingo, Ocoyoacac, Otzolotepec, Rayón, San Mateo Atenco, San Antonio la Isla, Temoaya, Toluca, Texcalyacac, Tianguistenco, Villa Victoria, Xalatlaco, Xonacatlán y Zinacantepec.
 
 REGIÓN VALLE DE TOLUCA SUR: Almoloya de Alquisiras, Coatepec Harinas, Ixtapan de la Sal, Joquicingo, Malinalco, Ocuilan, Sultepec, Tenancingo, Tenango del Valle, Texcaltitlán, Tonatico, Villa Guerrero, Zacualpan y Zumpahuacán.
 
-REGIÓN NORESTE: Acolman, Apaxco, Axapusco, Coacalco de Berriozábal, Ecatepec de Morelos, Hueypoxtla, Jaltenco, Nextlalpan, Nopaltepec, Otumba, San Martín de las Pirámides, Tecámac, Temascalapa, Teotihuacan, Tequixquiac, Tezoyuca, Tonanitla y Zumpango
+> <small>(F. DE E., P.O. 5 DE SEPTIEMBRE DE 2011)</small>
+
+REGlON NORESTE: Acolman, Apaxco, Axapusco, Coacalco de Berriozábal, Ecatepec de Morelos, Hueypoxtla, Jaltenco, Nextlalpan, Nopaltepec, Otumba, San Martín de las Pirámides, Tecámac, Temascalapa, Teotihuacan, Tequixquiac, Tezoyuca, Tonanitla y Zumpango.
 
 REGIÓN VALLE DE MÉXICO: Atizapán de Zaragoza, Coyotepec, Cuautitlán, Cuautitlán Izcalli, Huehuetoca, Huixquilucan, Isidro Fabela, Jilotzingo, Melchor Ocampo, Naucalpan de Juárez, Nicolás Romero, Teoloyucan, Tepotzotlán, Tlalnepantla de Baz, Tultepec, Tultitlán y Villa del Carbón.
 
@@ -689,9 +715,11 @@ III. Los municipios, que sean designados en la primera Reunión Regional Hacenda
 
 Conforme a lo previsto por el artículo 254 Bis del Código, podrá invitarse a participar en estas comisiones a instituciones académicas, de investigación, servidores públicos de las áreas normativas estatales y agrupaciones del sector social y privado, las que expondrán sus planteamientos sin derecho a deliberar en el proceso de votación.
 
+> <small>(F. DE E., P.O. 5 DE SEPTIEMBRE DE 2011)</small>
+
 ###### Artículo 38.
 
-Las Comisiones Temáticas podrán sesionar válidamente en primera convocatoria con la asistencia del Presidente, Secretario y, cuando menos, el cincuenta por ciento más uno de sus vocales, y en segunda convocatoria, después de transcurridos treinta minutos de la primera, por el Presidente, el Secretario y los vocales presentes.
+Las Comisiones Temáticas podrán sesionar válidamente en primera convocatoria con la asistencia del Presidente, Secretario y, cuando menos, el cincuenta por ciento más uno de sus vocales y, en segunda convocatoria, después de transcurridos treinta minutos a la primera, por el Presidente, el Secretario y los vocales presentes.
 
 ###### Artículo 39.
 
@@ -763,7 +791,9 @@ Los servidores públicos del Instituto quedan sujetos al régimen de seguridad s
 
 El Vocal Ejecutivo será suplido en sus ausencias temporales hasta por 15 días hábiles, por el Coordinador que aquél designe. En las mayores de 15 días hábiles, por quien designe el Presidente del Consejo Directivo.
 
-En ausencias definitivas del Vocal Ejecutivo, el Presidente del Consejo Directivo, en su caso, nombrará al servidor público que ocupe provisionalmente el cargo, hasta en tanto este órgano de gobierno designa al nuevo titular.
+> <small>(F. DE E., P.O. 5 DE SEPTIEMBRE DE 2011)</small>
+
+En ausencias definitivas del Vocal Ejecutivo, el Presidente del Consejo Directivo, en su caso, nombrará al servidor público que ocupe provisionalmente el cargo, hasta en tanto este órgano de gobierno designe al nuevo titular.
 
 ###### Artículo 49.
 
@@ -775,11 +805,13 @@ PRIMERO.- Publíquese el presente Reglamento en el Periódico Oficial "Gaceta de
 
 SEGUNDO.- El presente Reglamento tendrá vigencia a partir de su publicación en el Periódico Oficial "Gaceta del Gobierno".
 
-TERCERO.- Se abroga el Reglamento Interno del Instituto Hacendario del Estado de México, publicado en la "Gaceta del Gobierno" el 22 abril (sic) de 2002.
+TERCERO.- Se abroga el Reglamento Interno del Instituto Hacendario del Estado de México, publicado en la "Gaceta del Gobierno" el 22 abril de 2002.
 
 CUARTO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan al presente Reglamento.
 
-QUINTO.- Las disposiciones contenidas en el artículo 34 de este Reglamento, entrarán en vigor el día que se lleve a cabo la XII Asamblea Anual del Consejo Directivo del Instituto Hacendario del Estado de México.
+> <small>(F. DE E., P.O. 5 DE SEPTIEMBRE DE 2011)</small>
+
+QUINTO.- Las disposiciones contenidas en el artículo 35 de este Reglamento, entrarán en vigor el día que se lleve a cabo la XII Asamblea Anual del Consejo Directivo del Instituto Hacendario del Estado de México.
 
 Aprobado por el Consejo Directivo del Instituto Hacendario del Estado de México, según consta en acta de su L Sesión Ordinaria, celebrada en la ciudad de Toluca de Lerdo, México, a los dieciséis días del mes de diciembre de dos mil diez.
 
