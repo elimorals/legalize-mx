@@ -4,7 +4,7 @@ identifier: "AGU-reglamento-del-sistema-de-participacion-ciudadana-municipal-573
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-10-15"
-last_updated: "2011-05-30"
+last_updated: "2011-09-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57300&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "AGU"
 ---
 # REGLAMENTO DEL SISTEMA DE PARTICIPACION CIUDADANA MUNICIPAL DE AGUASCALIENTES, AGUASCALIENTES
 
-REGLAMENTO DEL SISTEMA DE PARTICIPACIÓN CIUDADANA MUNICIPAL DE AGUASCALIENTES, AGUASCALIENTES
+REGLAMENTO DEL SISTEMA DE PARTICIPACIÓN CIUDADANA MUNICIPAL DE AGUSCALIENTES, AGUSCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MAYO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE SEPTIEMBRE DE 2011.
 
 Reglamento publicado en la Segunda Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 15 de octubre de 2007.
 
@@ -145,6 +145,10 @@ XII. Unidad Territorial Peñuelas "El Cienegal".
 
 XIII. Unidad Territorial Salto de los (sic) Salado.
 
+> <small>(ADICIONADA, P.O. 5 DE SEPTIEMBRE DE 2011)</small>
+
+XlV. Unidad Territorial Santa Cruz de la Presa "La Tlacuacha".
+
 > <small>(REFORMADO, P.O. 30 DE MAYO DE 2011)</small>
 
 ###### ARTÍCULO 12.
@@ -163,7 +167,9 @@ V. A la Unidad Regional Oriente corresponde, El Puertecito, Fraccionamiento Cumb
 
 VI. A la Unidad Regional Insurgentes corresponde, Isla San Marcos, Canteras de Santa Imelda, Rinconada Santa Mónica, Los Barandales San José, Fraccionamiento Loma Bonita, Fraccionamiento Villas de la Cantera, Fraccionamiento Canteras de San Javier, Fraccionamiento Canteras de San José, Condominio Los Eucaliptos, Colonia San Francisco del Arenal, Fraccionamiento San Francisco del Arenal, Fraccionamiento Casa Sólida, Condominio Paseos de Santa Mónica, Fraccionamiento La Casita, Fraccionamiento Santa Imelda, Fraccionamiento Rinconada de San José, Fraccionamiento Capital City, Centro Comercial Chedraui, Fraccionamiento Hermanos Carreón, Barranca de Guadalupe, Fraccionamiento España, Infonavit los Pirules, Colonia Nueva España, Fraccionamiento Educación Álamos, Fraccionamiento Licenciado José López Portillo, Fraccionamiento Torres de San Francisco, Fraccionamiento Rinconada del Sur, Fraccionamiento La Estancia, Fraccionamiento Villas de Santa Rosa, Centro Comercial Villasuncion (sic), Colonia San Pedro, Unidad Habitacional Potreros del Oeste, Fraccionamiento Trojes del Sur, Fraccionamiento Prados de Villasuncion (sic), Infonavit Pilar Blanco, Colonia Martínez Domínguez, Fraccionamiento Villas del Oeste, Fraccionamiento Vista del Sur, Fraccionamiento Villas del Pilar, Fraccionamiento Villas de San Antonio, Fraccionamiento Vicente Guerrero, Fraccionamiento Bulevares II, Fraccionamiento Versalles II, Fraccionamiento Insurgentes, Colonia Vicente Guerrero, Condominio San Francisco, Fraccionamiento Casasólida (sic), Fraccionamiento La Casita, Colonia San Francisco del Arenal, Fraccionamiento San Francisco del Arenal, Condominio San Gerardo, Panteón San Francisco.
 
-VII. A la Unidad Regional Poniente corresponde, Colegio Esperanza, Granja Duarte, Condominio La Perla, Condominio Jardines del Lago, Condominio Canteras de San Agustín, Fraccionamiento Vergel, Colonia la Perla, Comunidad San Ignacio III, Fraccionamiento Jardines Eternos II, Colonia La Soledad, Comunidad San Ignacio, Fraccionamiento Puesta del Sol, Fraccionamiento La Rioja, Condómino Los Eucaliptos, Fraccionamiento Misión de Juan Pablo II, Colonia Francisco Villa, Fraccionamiento Misión de San Jerónimo, San Ignacio II, Condominio Rancho Santa Elena, Los Negritos, Loma de los Negritos, Viñedo San Felipe, el Cariñán, La Primavera, Santa Cruz de la Presa, Residencial San Ignacio, Colonia la Soledad, Condominio Paseos del Río, Condominio Rinconada de San Ignacio, Condominio Trojes de San Agustín, Fraccionamiento Valle de San Ignacio, Fraccionamiento Parque Industrial Tecnopolo (sic) Pocitos II, Bella Vista, Fraccionamiento Vistas del Mediterráneo, Condómino San Nicolás, Fraccionamiento Ex-Hacienda la Cantera, Fraccionamiento José Vasconcelos Calderón, Fraccionamiento Licenciado Manuel Gómez Morín, Fraccionamiento Rancho Santa Mónica, Condominio Providencia, Condominio Fuentes del Lago, Condominio Nuestra Señora de Lourdes, Fraccionamiento Veteranos de la Revolución, Fraccionamiento El Quelite, Fraccionamiento Olinda, San Martín de la Cantera, El Lucero de la Cruz, Condominio Porta Canteras, Universidad del Valle de México, Universidad Tecnológica de Aguascalientes.
+> <small>(REFORMADA, P.O. 5 DE SEPTIEMBRE DE 2011)</small>
+
+VII. A la Unidad Regional Poniente corresponde, Colegio Esperanza, Granja Duarte, Condominio La Perla, Condominio Jardines del Lago, Condominio Canteras de San Agustín, Fraccionamiento Vergel, Colonia la Perla, Comunidad San Ignacio III, Fraccionamiento Jardines Eternos II, Colonia La Soledad, Comunidad San Ignacio, Fraccionamiento Puesta del Sol, Fraccionamiento La Rioja, Condómino Los Eucaliptos, Fraccionamiento Misión de Juan Pablo II, Colonia Francisco Villa, Fraccionamiento Misión de San Jerónimo, San Ignacio II, Condominio Rancho Santa Elena, Los Negritos, Loma de los Negritos, Viñedo San Felipe, el Cariñán, La Primavera, Residencial San Ignacio, Colonia la Soledad, Condominio Paseos del Río, Condominio Rinconada de San Ignacio, Condominio Trojes de San Agustín, Fraccionamiento Valle de San Ignacio, Fraccionamiento Parque Industrial Tecnopolo (sic) Pocitos II, Bella Vista, Fraccionamiento Vistas del Mediterráneo, Condómino San Nicolás, Fraccionamiento Ex-Hacienda la Cantera, Fraccionamiento José Vasconcelos Calderón, Fraccionamiento Licenciado Manuel Gómez Morín, Fraccionamiento Rancho Santa Mónica, Condominio Providencia, Condominio Fuentes del Lago, Condominio Nuestra Señora de Lourdes, Fraccionamiento Veteranos de la Revolución, Fraccionamiento El Quelite, Fraccionamiento Olinda, San Martín de la Cantera, El Lucero de la Cruz, Condominio Porta Canteras, Universidad del Valle de México, Universidad Tecnológica de Aguascalientes.
 
 VIII. A la Unidad Regional Norte corresponde, Universidad Autónoma de Aguascalientes, U.G.A.S.A., Colegio Cristóbal Colón, Granja Estrella, Condominio Rinconada de los Álamos, Privada Benjamín Méndez, La Joya, Fraccionamiento Valle de Santa Teresa, Fraccionamiento Jardines de la Concepción, Fraccionamiento Bosques del Prado Norte, Condominio Rinconada Los Bosques, Fraccionamiento Los Bosques, Fraccionamiento Jardines de la Concepción, Condominio Residencial Pulgas Pandas, Fraccionamiento Lomas del Campestre, Fraccionamiento Villas de San Nicolás, Fraccionamiento Trojes de Oriente, Condominio Puerto Las Hadas, Condominio Residencial San Pedro, Fraccionamiento Valle del Campestre, Fraccionamiento Campestre, Fraccionamiento Los Vergeles, Fraccionamiento Club Campestre, Conjunto Residencial San Miguel, Condominio Villas del Vergel, Colonia San José del Arenal, Fraccionamiento Palmas del Pedregal, Fraccionamiento Bosques del Prado Sur, Condominio Pulgas Pandas Sur, Condominio Punta Campestre, Colonia Primo Verdad, Fraccionamiento Cerrada del Campanario, Condominio Fundición, Fraccionamiento Palma Real, Condominio Puerta Navarra, Fraccionamiento Granjas Campestre, Trojes de Oriente, Fraccionamiento Villa de las Trojes, Fraccionamiento Trojes de Oriente, Fraccionamiento Villas de Montenegro, Condómino Puerto Las Hadas, Fraccionamiento Valle de las Trojes, Fraccionamientos Villas del Campestre, Condominio Privilege, Colonia Fátima, Condominio Desarrollo Ecológico Club Campestre, Condómino La Plazuela, Condominio Santa María, Condómino Rincón Andaluz, Condómino Contadero, Condómino La Querencia, Condominio San Xavier, Fraccionamiento Valle de San Ignacio, Fraccionamiento Coto Residencial San Ignacio, Condominio Rinconada San Ignacio, Condominio Residencial Hacienda San Ignacio, Hacienda San Ignacio, Hacienda Nueva, Fraccionamiento Bosques del Prado, Condominio Cerrada San Miguel, Condominio La Punta, Fraccionamiento Las Quintas, Condominio Marsella, Condominio Residencial del Real, Condominio Residencial Haciendas de San Ignacio, Condominio Río Viejo, Mamposteo, Lomas de San José de los Pocitos, Barrio de Santiago, Fraccionamiento Cerrada del Valle, Fraccionamiento Cerrada de la Misión, Cerrada El Molino, Fraccionamiento Valle del Campanario, Fraccionamiento Valle Real, Calicantos III, Condómino Misión de Santiago I, Condominio Misión de Santiago II, Fraccionamiento Trojes del Sol, Condominio Las Trojes, Condominio Terzetto, Condominio Trojes de Cristal, Condominio La Paloma, Condominio Jardines del Campestre, Condominio Rancho San Antonio, Fraccionamiento La Herradura, Fraccionamiento Cerrada La Mezquitera, Fraccionamiento Misión del Campanario, Fraccionamiento las Misiones, Condómino los Jarales, Fraccionamiento los Calicantos, Ejido los Pocitos, Fraccionamiento Tecnopolo (sic) Pocitos, Condómino Portón de Santa Clara, Condominio Santiago de Compostela, Barrio de Santiago Norte y Condominio Risco, Condómino Santa Fe, Fraccionamiento la Troje, Colonia Trojes de Alonso, Villas de San Alonso.
 
@@ -221,29 +227,53 @@ El Consejo de la Ciudad de Aguascalientes estará integrado por:
 
 A. Representantes Ciudadanos que serán electos cada tres años, de entre los diferentes grupos que dan identidad a la sociedad aguascalentense, los que emergerán de:
 
-I.- La sociedad civil organizada a través de representantes de las asociaciones y organizaciones, cámaras, colegios, federaciones, uniones, movimientos sociales, asociaciones u otras que se inscriban en el padrón correspondiente y cumplan con los requisitos formales que exija el Reglamento Interior del Consejo de la Ciudad de Aguascalientes y que apliquen a este tipo de agrupaciones para ser elegibles;
+> <small>(REFORMADA, P.O. 5 DE SEPTIEMBRE DE 2011)</small>
+
+I.- La sociedad civil organizada a través de representantes de las asociaciones y organizaciones, cámaras, colegios, federaciones, uniones, movimientos sociales y otras que se inscriban en el padrón correspondiente y cumplan con los requisitos formales que exija el Reglamento Interior del Consejo de la Ciudad de Aguascalientes y que apliquen a este tipo de agrupaciones para ser elegibles;
 
 II.- Las principales instituciones de la ciudad, con base en su reconocimiento ante la sociedad y aportaciones al bienestar y desarrollo de la ciudad;
 
-III.- Los ciudadanos más destacados en los diferentes ámbitos, cuya trayectoria trascienda ante la sociedad o haya servido a la proyección de Aguascalientes en los ámbitos nacional e internacional;
+> <small>(REFORMADA, P.O. 5 DE SEPTIEMBRE DE 2011)</small>
+
+III.- Los Ciudadanos representantes de los diversos consejos temáticos de opinión y consulta que apoyan y auxilian a la administración municipal;
 
 IV.- Los ciudadanos de Aguascalientes que se inscriban a título personal como aspirantes a consejeros, y cumplan con los requisitos que determine el reglamento interior del Consejo de la Ciudad de Aguascalientes;
 
-V.- Electos los consejeros de dichos sectores, formarán parte del pleno del Consejo y serán elegibles en sus diferentes categorías a los consejos o comisiones temáticas, especiales o temporales que se designen para casos particulares.
+V.- (DEROGADA, P.O. 5 DE SEPTIEMBRE DE 2011)
 
 B. Representantes del Gobierno Municipal, tendrán representación en el Consejo de la Ciudad durante el tiempo que dure su gestión, y que serán:
 
-I.- El Presidente Municipal de Aguascalientes;
+> <small>(REFORMADA, P.O. 5 DE SEPTIEMBRE DE 2011)</small>
 
-II.- El Secretario del H. Ayuntamiento de Aguascalientes y Director General de Gobierno;
+I.- El Titular de la Presidencia Municipal de Aguascalientes;
 
-III.- Un regidor por cada partido político representado en el H. Ayuntamiento de Aguascalientes;
+> <small>(REFORMADA, P.O. 5 DE SEPTIEMBRE DE 2011)</small>
 
-IV.- El Jefe de la Oficina Ejecutiva del Gobierno Municipal de Aguascalientes; y
+II.- Un Regidor o Regidora representante de cada partido político en el H. Ayuntamiento;
 
-V.- El Secretario de Integración Social del Gobierno Municipal de Aguascalientes.
+> <small>(REFORMADA, P.O. 5 DE SEPTIEMBRE DE 2011)</small>
 
-C. Invitados.- Personas o representantes de instituciones que concurran a sesiones particulares y cuando la temática de los asuntos a tratar lo exijan.
+III.- El Titular de la Oficina Ejecutiva de la Presidencia Municipal;
+
+> <small>(REFORMADA, P.O. 5 DE SEPTIEMBRE DE 2011)</small>
+
+IV.- El Titular de la Secretaría del H. Ayuntamiento y Dirección General de Gobierno;
+
+> <small>(REFORMADA, P.O. 5 DE SEPTIEMBRE DE 2011)</small>
+
+V.- El Titular de la Secretaría de Integración Social del Municipio de Aguascalientes; y
+
+> <small>(ADICIONADA, P.O. 5 DE SEPTIEMBRE DE 2011)</small>
+
+VI.- El Titular del Instituto Municipal de Planeación, quién fungirá como Secretario Técnico.
+
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2011)</small>
+
+C. Un representante de la Coordinación General del Observatorio Ciudadano de Transparencia y Gestión Municipal, quien fungirá como Contralor Social con derecho a voz pero sin voto.
+
+> <small>(ADICIONADO, P.O. 5 DE SEPTIEMBRE DE 2011)</small>
+
+D. Invitados.- Personas o representantes de instituciones que concurran a sesiones particulares y cuando la temática de los asuntos a tratar lo exijan.
 
 El Presidente autorizará la asistencia de invitados al Consejo a propuesta del Secretario del H. Ayuntamiento de Aguascalientes, regidores o comisiones. Los invitados no adquieren atribuciones de consejero, teniendo derecho a voz pero no a voto.
 
@@ -257,7 +287,9 @@ I. Coadyuvar en el desarrollo armónico y equilibrado de la vida social del Muni
 
 II. Ser un espacio formal de participación permanente de los ciudadanos respecto al desarrollo municipal;
 
-III. Crear el consenso de la sociedad organizada sobre los temas públicos sometidos a su consideración;
+> <small>(REFORMADA, P.O. 5 DE SEPTIEMBRE DE 2011)</small>
+
+III. Someter a consenso de la sociedad organizada sobre los temas públicos;
 
 IV. Elaborar informes en los que defina su postura, líneas de acción y medición del progreso de la Ciudad de Aguascalientes;
 
@@ -269,13 +301,65 @@ VII. Alentar la retroalimentación entre la autoridad y los ciudadanos desde el 
 
 VIII. Favorecer el intercambio de opiniones mediante el debate y la consulta para aumentar la eficiencia de las políticas públicas y mejorar la rendición de cuentas, en un marco de absoluta transparencia;
 
-IX. Implementar un modelo de gobernanza conveniente a la pluralidad de grupos e individuos que conforman a la ciudad de Aguascalientes;
+> <small>(REFORMADA, P.O. 5 DE SEPTIEMBRE DE 2011)</small>
 
-X. Lograr una efectiva promoción de la participación ciudadana a través de la recepción y generación de información que contribuya al desarrollo de políticas pertinentes, así como medir su avance, eficiencia, desarrollo y resultado. El flujo es transversal, lo que implica compartir registros oficiales y particulares;
+IX. Impulsar un modelo de gobernanza conveniente a la pluralidad de grupos e individuos que conforman la ciudad de Aguascalientes;
 
-XI. Debatir, consultar, proponer e informar sobre temas estratégicos de la ciudad, entre ellos: Planes estratégicos, Proyectos de la ciudad, Crecimiento urbano, Presupuestos municipales, Consultas a la ciudadanía y aquellos temas que por su trascendencia en la vida pública y social de la población aguascalentense merezca especial interés;
+> <small>(REFORMADA, P.O. 5 DE SEPTIEMBRE DE 2011)</small>
 
-XII. Consultar a la ciudadanía sobre temas de interés público.
+X. Lograr una efectiva promoción de la participación ciudadana a través de la recepción y generación de información que contribuya al desarrollo de políticas pertinentes, así como medir su avance, eficiencia, desarrollo y resultado;
+
+> <small>(REFORMADA, P.O. 5 DE SEPTIEMBRE DE 2011)</small>
+
+XI. Debatir, consultar, proponer e informar sobre temas estratégicos de la ciudad, entre ellos: Planes Estratégicos, Proyectos de la Ciudad, Crecimiento Urbano, Presupuestos Municipales, y aquellos temas que por su trascendencia en la vida pública y social de la población aguascalentense merezca especial interés;
+
+> <small>(REFORMADA, P.O. 5 DE SEPTIEMBRE DE 2011)</small>
+
+XII. Consultas a la Ciudadanía sobre temas de interés público;
+
+> <small>(ADICIONADA, P.O. 5 DE SEPTIEMBRE DE 2011)</small>
+
+XIII. Concertar las decisiones de la autoridad que fueren aprobadas por el Consejo, con los ciudadanos afectados por las acciones que ellas impliquen, procurando la corresponsabilidad de las partes;
+
+> <small>(ADICIONADA, P.O. 5 DE SEPTIEMBRE DE 2011)</small>
+
+XIV. Servir como vínculo de comunicación entre la administración municipal y la sociedad;
+
+> <small>(ADICIONADA, P.O. 5 DE SEPTIEMBRE DE 2011)</small>
+
+XV. Respetar y hacer respetar los acuerdos que el H. Ayuntamiento y el pleno del Consejo tomen en materia de participación, su reglamentación, la coordinación con los diferentes órganos de consulta y el desarrollo de la Agenda Común;
+
+> <small>(ADICIONADA, P.O. 5 DE SEPTIEMBRE DE 2011)</small>
+
+XVI. Conocer la estadística y estructura municipal;
+
+> <small>(ADICIONADA, P.O. 5 DE SEPTIEMBRE DE 2011)</small>
+
+XVII. Recabar la asistencia técnica especializada;
+
+> <small>(ADICIONADA, P.O. 5 DE SEPTIEMBRE DE 2011)</small>
+
+XVIII. Impulsar iniciativas para la aprobación de disposiciones municipales de carácter municipal;
+
+> <small>(ADICIONADA, P.O. 5 DE SEPTIEMBRE DE 2011)</small>
+
+XIX. Asesorar al H. Ayuntamiento en la definición de las grandes líneas de la política y la gestión municipal, y generar el consenso ciudadano sobre estos temas;
+
+> <small>(ADICIONADA, P.O. 5 DE SEPTIEMBRE DE 2011)</small>
+
+XX. Conocer los grandes rubros del presupuesto municipal y los resultados de los indicadores de la gestión municipal;
+
+> <small>(ADICIONADA, P.O. 5 DE SEPTIEMBRE DE 2011)</small>
+
+XXI. Conocer y opinar sobre los proyectos especiales relevantes del H. Ayuntamiento;
+
+> <small>(ADICIONADA, P.O. 5 DE SEPTIEMBRE DE 2011)</small>
+
+XXII. Proponer iniciativas ciudadanas; y
+
+> <small>(ADICIONADA, P.O. 5 DE SEPTIEMBRE DE 2011)</small>
+
+XXIII. Proponer el impulso de procesos participativos, consultas ciudadanas, plebiscito y referéndum, conforme a lo establecido en la Ley de Participación Ciudadana del Estado de Aguascalientes.
 
 > <small>(REFORMADO, P.O. 30 DE MAYO DE 2011)</small>
 
@@ -293,13 +377,33 @@ El Consejo de la Ciudad de Aguascalientes, emitirá su Reglamento Interno dentro
 
 El Consejo de Desarrollo Municipal de Aguascalientes es un órgano en el cual democráticamente se propone el destino de los recursos y se definen actividades concretas orientadas a promover el desarrollo integral del individuo así como de la sociedad; integrándose de la siguiente manera:
 
-I. El Presidente Municipal de Aguascalientes, o quien él designe para que funja como Presidente del Consejo;
+> <small>(REFORMADA, P.O. 5 DE SEPTIEMBRE DE 2011)</small>
 
-II. Un representante electo democráticamente de cada uno de los Consejos Regionales de Desarrollo que durarán en su cargo tres años;
+I. El Presidente Municipal de Aguascalientes, quien fungirá como presidente del Consejo;
 
-III. Un Vocal de Control y Vigilancia designado por los Delegados Municipales, el cual no podrá ser servidor público y durará en su cargo hasta tres años;
+> <small>(REFORMADA, P.O. 5 DE SEPTIEMBRE DE 2011)</small>
 
-IV. Un equipo asesor coordinado por el Secretario de Integración Social del Municipio de Aguascalientes e integrado por el Secretario de Finanzas del Municipio de Aguascalientes, el Director del Instituto de Planeación del Municipio de Aguascalientes quien fungirá como Secretario Técnico, el Director de Integración Social, el Director de Desarrollo Social de la Secretaría de Integración Social, el Director de Desarrollo Rural de la Secretaría de Integración Social, el Secretario de Obras Públicas del Municipio de Aguascalientes, un Representante de la Coordinación Estatal de Planeación y Proyectos del Gobierno del Estado, un representante de la Secretaría de Desarrollo Social Federal, el Regidor Presidente de la Comisión de Desarrollo Social, el Regidor Presidente de la Comisión de Obra Pública del H. Ayuntamiento de Aguascalientes, un representante de la Secretaría de Bienestar y Desarrollo Social de (sic) Gobierno del Estado de Aguascalientes, un representante de Comisión (sic) Ciudadana de Agua Potable y Alcantarillado del Municipio de Aguascalientes, un representante de la Coordinación General del Observatorio Ciudadano de Transparencia y Gestión Municipal de Aguascalientes, y los Delegados Municipales.
+II. El Titular de la Secretaría de Integración Social del Municipio de Aguascalientes, quien suplirá las ausencias del Presidente Municipal;
+
+> <small>(REFORMADA, P.O. 5 DE SEPTIEMBRE DE 2011)</small>
+
+III. El Titular del Instituto Municipal de Planeación, quien fungirá como Secretario Técnico;
+
+> <small>(REFORMADA, P.O. 5 DE SEPTIEMBRE DE 2011)</small>
+
+IV. Un representante de la Coordinación General del Observatorio Ciudadano de Transparencia y Gestión Municipal, quien fungirá como Contralor Social con derecho a voz pero sin voto;
+
+> <small>(ADICIONADA, P.O. 5 DE SEPTIEMBRE DE 2011)</small>
+
+V. Un representante electo democráticamente de cada uno de los Consejos Regionales de Desarrollo que durarán en su cargo tres años;
+
+> <small>(ADICIONADA, P.O. 5 DE SEPTIEMBRE DE 2011)</small>
+
+VI. Un Vocal de Control y Vigilancia designado por los Delegados Municipales, el cual no podrá ser servidor público y durará en su cargo hasta tres años;
+
+> <small>(ADICIONADA, P.O. 5 DE SEPTIEMBRE DE 2011)</small>
+
+VII. Un equipo asesor coordinado por el Secretario de Integración Social del Municipio de Aguascalientes e integrado por el Secretario de Finanzas del Municipio de Aguascalientes, el Director de Integración Social, el Director de Desarrollo Social de la Secretaría de Integración Social, el Director de Desarrollo Rural de la Secretaría de Integración Social, el Secretario de Obras Públicas del Municipio de Aguascalientes, un Representante de la Coordinación Estatal de Planeación y Proyectos del Gobierno del Estado, un representante de la Secretaría de Desarrollo Social Federal, el Regidor Presidente de la Comisión de Desarrollo Social, el Regidor Presidente de la Comisión de Obra Pública del H. Ayuntamiento de Aguascalientes, un representante de la Secretaría de Bienestar y Desarrollo Social de Gobierno del Estado de Aguascalientes, un representante de Comisión (sic) Ciudadana de Agua Potable y Alcantarillado del Municipio de Aguascalientes, un representante de la Coordinación General del Observatorio Ciudadano de Transparencia y Gestión Municipal de Aguascalientes, y los Delegados Municipales.
 
 Cuando se traten asuntos relacionados con el Fondo para la Infraestructura Social Municipal del Ramo 33, el equipo asesor sólo tendrá derecho a voz; a excepción de los Regidores Presidente de la Comisión de Desarrollo Social y Presidente de la Comisión de Obra Pública del H. Ayuntamiento de Aguascalientes quienes además tendrán derecho a voto; y durará en el cargo el tiempo que dure su gestión.
 
@@ -377,7 +481,9 @@ Para el funcionamiento de cada Consejo Regional, se formará una Mesa Directiva,
 
 I. Un representante de la Secretaría de Integración Social de Aguascalientes, quien presidirá la Mesa Directiva;
 
-II. Un representante del Instituto de Planeación Municipal de Aguascalientes;
+> <small>(REFORMADA, P.O. 5 DE SEPTIEMBRE DE 2011)</small>
+
+II. Un representante del Instituto Municipal de Planeación, quien fungirá como Secretario Técnico;
 
 III. Un representante de la Secretaría de Servicios Públicos de Aguascalientes;
 
@@ -463,11 +569,11 @@ Las Unidades Regionales Municipales se dividirán en Micro Regiones para el cont
 
 El Consejo Micro Regional es el ente regulador de la Unidad Territorial respectiva, y tendrá una estrecha relación entre el Consejo Regional de Desarrollo y los Comités de Integración Social y Convivencia Ciudadana.
 
-> <small>(REFORMADO, P.O. 30 DE MAYO DE 2011)</small>
+> <small>(REFORMADA, P.O. 5 DE SEPTIEMBRE DE 2011)</small>
 
 ###### ARTÍCULO 30.
 
-El Consejo Micro Regional será presidido por un representante de la Secretaría de Integración Social, un representante del Instituto Municipal de Planeación de Aguascalientes quien ejercerá como Secretario Técnico, un representante de la Coordinación General del Observatorio Ciudadano de Transparencia y Gestión Municipal, dos representantes de los Organismos Intermedios por invitación expresa del Presidente Municipal ó el Secretario de Integración Social, los Presidentes de los Comités de Integración Social y Convivencia Ciudadana, y el Coordinador de la Unidad Territorial.
+El Consejo Micro Regional será presidido por un representante de la Secretaría de Integración Social, un representante del Instituto Municipal de Planeación de Aguascalientes quien ejercerá como Secretario Técnico, un representante de la Coordinación General del Observatorio Ciudadano de Transparencia y Gestión Municipal, al menos dos representantes de los Organismos Intermedios por invitación expresa del Presidente Municipal ó el Secretario de Integración Social y los Presidentes de los Comités de Integración Social y Convivencia Ciudadana.
 
 > <small>(REFORMADO, P.O. 30 DE MAYO DE 2011)</small>
 
@@ -495,13 +601,17 @@ IV. Informar al Consejo Regional de Desarrollo de los acuerdos tomados en el sen
 
 V. Formar comisiones de trabajo que considere necesarias para atender de manera eficaz y consensuada la demanda ciudadana;
 
-VI. Las Micro Regiones serán coordinadas por un Coordinador de Unidad Territorial designado por la Secretaría de Integración Social, y un representante de cada Dependencia Municipal para que éstos actúen como gestores, los cuales harán llegar las peticiones a las respectivas dependencias.
+VI. Las Micro Regiones serán coordinadas por un Coordinador de Unidad Territorial designado por la Secretaría de Integración Social, y un representante de cada Dependencia Municipal para que éstos actúen como gestores, los cuales harán llegar las peticiones a las respectivas dependencias;
+
+> <small>(ADICIONADA, P.O. 5 DE SEPTIEMBRE DE 2011)</small>
+
+VII. Formar en cada Comité de Integración y Convivencia Ciudadana, una Red de Prevención y Cohesión Social.
 
 > <small>(REFORMADO, P.O. 30 DE MAYO DE 2011)</small>
 
 ### CAPITULO X. De la integración de las Micro Regiones
 
-> <small>(REFORMADO, P.O. 30 DE MAYO DE 2011)</small>
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2011)</small>
 
 ###### ARTÍCULO 33.
 
@@ -513,85 +623,87 @@ a. Zona Centro, Condominio Hornedo.
 
 b. Colonia Morelos, Colonia Gremial, Colonia Primavera, Barrio de la Estación, Barrio de la Purísima, Colonia La Fe, Colonia Industrial.
 
-c. Fraccionamiento para Burócratas, Villas del Acueducto, Colonia las Flores, Rinconada Cristo Negro, Residencial Colosio, Fraccionamiento los Fresnos, Fraccionamiento Triana, Condominio Virreyes, Jardines de Triana, Infonavit San Fernando, Colonia El Llanito, Fraccionamiento Residencial El Encino, Condominio Triana, Barrio El Encino, Colonia Obraje, Barrio La Salud, Fovissste Ojo de Agua primera sección, Colonia Ojo de Agua, Condominio Rinconada del Cedazo, Condominio La Luna, Condominio San Miguel, Fraccionamiento Jardines de Triana, Condominio Joyas del Sur, Colonia Laurel y Condominio Rinconada de la Asunción.
+c. Fraccionamiento para Burócratas, Villas del Acueducto, Colonia Las Flores, Rinconada Cristo Negro, Residencial Colosio, Fraccionamiento los Fresnos, Fraccionamiento Triana, Condominio Virreyes, Jardines de Triana, Infonavit San Fernando, Colonia El Llanito, Fraccionamiento Residencial el Encino, Condominio Triana, Barrio el Encino, Colonia Obraje, Barrio la Salud, Fovissste Ojo de Agua primera sección, Colonia Ojo de Agua, Condominio Rinconada del Cedazo, Condominio la Luna, Condominio San Miguel, Fraccionamiento Jardines de Triana, Condominio Joyas del Sur, Colonia Laurel y Condominio Rinconada de la Asunción.
 
-d. Condominio Soledad Larreategui, Condominio Rinconada de Guadalupe, Colonia Buenos Aires, Colonia San Pablo, Colonia del Carmen, Barrio de Guadalupe, Colonia Altavista, Colonia Miravalle, Colonia San Marcos, Fraccionamiento Modelo, Barrio San Marcos, Condominio Libertad, Condominio Guadalupe Posada, Panteón de la Cruz, Panteón de los Ángeles, Tianguis San Juanito.
+d. Condominio Soledad Larreategui, Condominio Rinconada de Guadalupe, Colonia Buenos Aires, Colonia San Pablo, Colonia del Carmen, Barrio de Guadalupe, Colonia Alta vista, Colonia Miravalle, Colonia San Marcos, Fraccionamiento Modelo, Barrio San Marcos, Condominio Libertad, Condominio Guadalupe Posada, Panteón de la Cruz, Panteón de los Ángeles, Tianguis San Juanito.
 
 II. Unidad Regional Circunvalación:
 
 a. Fraccionamiento Fuentes de la Asunción, Fraccionamiento Jardines de la Cruz, Condominio Los Cedros, Fraccionamiento Bulevar, Fraccionamiento Lindavista, Caminero, Fraccionamiento Jardines de Aguascalientes, Jardines de las Fuentes, Fraccionamiento Antonio Garza Elizondo, Fraccionamiento Jardines de la Asunción, Centro Comercial Plaza Fiesta.
 
-b. Fraccionamiento Prados del Sur, Fraccionamiento Bulevares primera sección, Fraccionamiento Jardines del Sur, Fraccionamiento Villa Jardín I y II, Agricultura, Fraccionamiento Las Américas, Fraccionamiento El Dorado primera y segunda sección, Fraccionamiento Versalles primera sección.
+b. Fraccionamiento Prados del Sur, Fraccionamiento Bulevares primera sección, Fraccionamiento Jardines del Sur, Fraccionamiento Villa Jardín I y II, Agricultura, Fraccionamiento Las Américas, Fraccionamiento el Dorado primera y segunda sección, Fraccionamiento Versalles primera sección.
 
-c. Fraccionamiento del Valle primera sección, Fraccionamiento Las Torres, Zona Federal, Unidad Habitacional Vivienda Popular, Fraccionamiento Circunvalación Poniente, Fraccionamiento la Fuente, Fraccionamiento Santa Elena, Fraccionamiento Jardines de Santa Elena segunda sección, Fraccionamiento Montebello (sic), Fraccionamiento Valle Dorado, Fraccionamiento Pirules, Centro Comercial El Dorado, Centro Comercial Expo-Plaza.
+c. Fraccionamiento del Valle primera sección, Fraccionamiento Las Torres, Zona Federal, Unidad Habitacional Vivienda Popular, Fraccionamiento Circunvalación Poniente, Fraccionamiento la Fuente, Fraccionamiento Santa Elena, Fraccionamiento Jardines de Santa Elena segunda sección, Fraccionamiento Montebello (sic), Fraccionamiento Valle Dorado, Fraccionamiento Pirules, Centro Comercial el Dorado, Centro Comercial Expo-Plaza.
 
-d. Guadalupe, Fraccionamiento La Fundición, Fraccionamiento San Cayetano, Fraccionamiento Colinas de San Ignacio, Fraccionamiento Los Sauces. Fraccionamiento Las Arboledas, Fraccionamiento Villas de la Universidad, Fraccionamiento Las Brisas, Heliodoro García, Fraccionamiento La Concordia, Colonia Olivares Santana, Unidad Habitacional José Guadalupe Posada, Fraccionamiento Gómez, Del Valle Río San Pedro, Fraccionamiento San Marcos, Fraccionamiento del Valle segunda sección, Fraccionamiento Residencial Los Pirules, Moderno, Fraccionamiento Panorama, Condominio Diamante, Dominiu, Fraccionamiento Ramón Romo Franco, Residencial Guadalupe, Colegio Marista, Centro Comercial Plaza San Marcos, Fraccionamiento Anexo los Sauces Sur, Fraccionamiento Línea de Fuego.
+d. Guadalupe, Fraccionamiento La Fundición, Fraccionamiento San Cayetano, Fraccionamiento Colinas de San Ignacio, Fraccionamiento los Sauces, Fraccionamiento las Arboledas, Fraccionamiento Villas de la Universidad, Fraccionamiento las Brisas, Heliodoro García, Fraccionamiento La Concordia, Colonia Olivares Santana, Unidad Habitacional José Guadalupe Posada, Fraccionamiento Gómez, Del Valle Rio San Pedro, Fraccionamiento San Marcos, Fraccionamiento del Valle segunda sección, Fraccionamiento Residencial Los Pirules, Moderno, Fraccionamiento Panorama, Condominio Diamante, Dominiu, Fraccionamiento Ramón Romo Franco, Residencial Guadalupe, Colegio Marista, Centro Comercial Plaza San Marcos, Fraccionamiento Anexo los Sauces Sur, Fraccionamiento Línea de Fuego.
 
-e. Fraccionamiento Colinas del Rio, Fraccionamiento Colinas del Poniente, Parque Funeral Jardines Eternos, Colonia Curtidores, Coto del Río.
+e. Fraccionamiento Colinas del Rio, Fraccionamiento Colinas del Poniente, Parque Funeral Jardines Eternos, Colonia Curtidores, Coto del Rio.
 
 III. Unidad Regional Ferrocarril:
 
-a. Costco, Embotelladora las Trojes, Deportivo Futurama, Centro Comercial Galerías, Valle del Mezquital, Industrial La Perla, Centro Comercial Altaria, Los Ángeles, Residencial las Plazas, Fraccionamiento Las Cavas, Fraccionamiento Arrollo del Molino, Centro Comercial Agropecuario, Centro Comercial Distribuidor de Básicos, Fraccionamiento San José de Pozo Bravo, Condominio Cartagena 1947, Fraccionamiento Montebello (sic) Della Stanza, Condominio La Enramada, Colonia Talamantes Ponce, Arroyo de la Hacienda, Condominio Jardines de Monte Bello, Hotel Las Trojes.
+a. Costco, Embotelladora las Trojes, Deportivo Futurama, Centro Comercial Galerías, Valle del Mezquital, Industrial la Perla, Centro Comercial Altaria, Los Ángeles, Residencial las Plazas, Fraccionamiento las Cavas, Fraccionamiento Arrollo del Molino, Centro Comercial Agropecuario, Centro Comercial Distribuidor de Básicos, Fraccionamiento San José de Pozo Bravo, Condominio Cartagena 1947, Fraccionamiento Montebello (sic) Della Stanza, Condominio la Enramada, Colonia Talamantes Ponce, Arroyo de la Hacienda, Condominio Jardines de Monte Bello, Hotel las Trojes.
 
-b. Antigua estación de PEMEX, Fraccionamiento La Rinconada, Fraccionamiento Nueva Rinconada, Fraccionamiento El Roble, Fraccionamiento Industrial, Fraccionamiento Los Arcos, Fraccionamiento Las Hadas, Condominio Bugambilias, Fraccionamiento El Plateado, Fraccionamiento Circunvalación Norte, Fraccionamiento El Sol, Fraccionamiento Villas de San Francisco, Fraccionamiento Constitución, Fraccionamiento Soberana Convención Revolucionaria, Fraccionamiento Villas de la Convención, Conjunto Los Naranjos, Fraccionamiento Libertad, Fraccionamiento Pozo Bravo Sur, Fraccionamiento Villa Teresa, El Rosedal, Fraccionamiento El Maguey, Colonia Progreso, Fraccionamiento Parras, Fraccionamiento Bosques del Prado Oriente, Fraccionamiento Trojes del Cobano, Fraccionamiento El Cóbano, Fraccionamiento Villas del Cóbano, Fraccionamiento Alianza Ferrocarrilera, Colonia Macías Arellano, Colonia Francisco Guel Jiménez, Fraccionamiento Hacienda El Cóbano, Fraccionamiento Loma del Cóbano, Fraccionamiento C.T.M., Infonavit Las Viñas, Fraccionamiento S.T.E.M.A., Unidad Habitacional Licenciado Benito Juárez, Santa Anita cuarta sección, Fraccionamiento C.N.O.P. Oriente, Fraccionamiento Villa Bonita, Fraccionamiento Nazario Ortiz Garza, Fraccionamiento Colinas de Oriente, Unidad Habitacional XIV Zona Militar, Fraccionamiento Independencia, Fraccionamiento La Estrella, Fraccionamiento Rinconada de Pozo Bravo, Fraccionamiento Pozo Bravo, Fraccionamiento Las Viñas, Parque Santa Anita, Escuela Normal Superior.
+b. Antigua estación de PEMEX, Fraccionamiento la Rinconada, Fraccionamiento Nueva Rinconada, Fraccionamiento el Roble, Fraccionamiento Industrial, Fraccionamiento los Arcos, Fraccionamiento las Hadas, Condominio Bugambilias, Fraccionamiento El Plateado, Fraccionamiento Circunvalación Norte, Fraccionamiento el Sol, Fraccionamiento Villas de San Francisco, Fraccionamiento Constitución, Fraccionamiento Soberana Convención Revolucionaria, Fraccionamiento Villas de la Convención, Conjunto los Naranjos, Fraccionamiento Libertad, Fraccionamiento Pozo Bravo Sur, Fraccionamiento Villa Teresa, el Rosedal, Fraccionamiento el Maguey, Colonia Progreso, Fraccionamiento Parras, Fraccionamiento Bosques del Prado Oriente, Fraccionamiento Trojes del Cobano, Fraccionamiento el Cobano, Fraccionamiento Villas del Cobano, Fraccionamiento Alianza Ferrocarrilera, Colonia Macías Arellano, Colonia Francisco Guel Jiménez, Fraccionamiento Hacienda el Cobano, Fraccionamiento Loma del Cobano, Fraccionamiento C.T.M., Infonavit las Viñas, Fraccionamiento S.T.E.M.A., Unidad Habitacional Licenciado Benito Juárez, Santa Anita cuarta sección, Fraccionamiento C.N.O.P. Oriente, Fraccionamiento Villa Bonita, Fraccionamiento Nazario Ortiz Garza, Fraccionamiento Colinas de Oriente, Unidad Habitacional XIV Zona Militar, Fraccionamiento Independencia, Fraccionamiento la Estrella, Fraccionamiento Rinconada de Pozo Bravo, Fraccionamiento Pozo Bravo, Fraccionamiento las Viñas, Parque Santa Anita, Escuela Normal Superior.
 
-c. Deportivo Ferrocarrilero, Instituto Tecnológico de Aguascalientes, Instituto de Educación de Aguascalientes, Instituto del Deporte del Estado de Aguascalientes, Centro Comercial Plaza Aguascalientes, Unidad Habitacional Vivienda Militar, Fraccionamiento Héroes de Aguascalientes, Unidad Habitacional IV Centenario, Fraccionamiento Gámez, Fraccionamiento Santa Anita, Fraccionamiento Rinconada de la Alameda, Fraccionamiento Luis Gómez Zepeda, Colonia Ferronales, Colonia del Trabajo, Condominio Bosques de la Alameda, Fraccionamiento Alameda, Fraccionamiento Lomas de Santa Anita, Colonia Héroes, Condominio La Hacienda, Condominio La Mancha, Colonia San Luis, Fraccionamiento Jesús Terán Peredo, Fraccionamiento Jardines de la Convención primera y segunda sección, Condominio S.T.E.M.A., Condominio Primo Verdad I.N.E.G.I., Fraccionamiento Jardines de la Cruz, Unidad Habitacional Infonavit Los Volcanes, Fraccionamiento Jesús Gómez Portugal, Centro Comercial El Cerrito, Fraccionamiento Bona Gens, Fovissste Ojocaliente (sic), Villas de Ojocaliente (sic), Fraccionamiento Fovissste Ojocaliente (sic), Fraccionamiento Ojocaliente (sic) Las Torres, Ex-Hacienda Ojocaliente (sic), Condominio Misión La Alameda, Ejido Ojocaliente (sic), Fraccionamiento La Huerta, Unidad Habitacional Lázaro Cárdenas, Tres Centurias, Condominio Nueva Alameda Residencial, Centro Escolar Triana, Ejido Ojocaliente (sic), Escuela Normal del Estado, Parque El Cedazo, Parque La Pona, Unidad Deportiva IV Centenario.
+c. Deportivo Ferrocarrilero, Instituto Tecnológico de Aguascalientes, Instituto de Educación de Aguascalientes, Instituto del Deporte del Estado de Aguascalientes, Centro Comercial Plaza Aguascalientes, Unidad Habitacional Vivienda Militar, Fraccionamiento Héroes de Aguascalientes, Unidad Habitacional IV Centenario, Fraccionamiento Gámez, Fraccionamiento Santa Anita, Fraccionamiento Rinconada de la Alameda, Fraccionamiento Luis Gómez Zepeda, Colonia Ferronales, Colonia del Trabajo, Condominio Bosques de la Alameda, Fraccionamiento Alameda, Fraccionamiento Lomas de Santa Anita, Colonia Héroes, Condominio La Hacienda, Condominio la Mancha, Colonia San Luis, Fraccionamiento Jesús Terán Peredo, Fraccionamiento Jardines de la Convención primera y segunda sección, Condominio S.T.E.M.A., Condominio Primo Verdad I.N.E.G.I., Fraccionamiento Jardines de la Cruz, Unidad Habitacional Infonavit Los Volcanes, Fraccionamiento Jesús Gómez Portugal, Centro Comercial el Cerrito, Fraccionamiento Bona Gens, Fovissste Ojocaliente (sic), Villas de Ojocaliente (sic), Fraccionamiento Fovissste Ojocaliente (sic), Fraccionamiento Ojocaliente (sic) las Torres, Ex-Hacienda Ojocaliente (sic), Condominio Misión la Alameda, Ejido Ojocaliente (sic), Fraccionamiento la Huerta, Unidad Habitacional Lázaro Cárdenas, Tres Centurias, Condominio Nueva Alameda Residencial, Centro Escolar Triana, Ejido Ojocaliente (sic), Escuela Normal del Estado, Parque el Cedazo, Parque la Pona, Unidad Deportiva IV Centenario.
 
-d. Fraccionamiento Rancho San Francisco de los Arteaga, Fraccionamiento Villa Sur, Fraccionamiento Laureles del Sur, S.E.N.S.A.T.A., Infonavit Ojo de Agua, Fraccionamiento México, Fraccionamiento Pirámides, Fraccionamiento Jardines del Sol, Colonia La Cruz, Fraccionamiento Vistas del Sol, Fraccionamiento Misión de Santa Fe, Fraccionamiento Jardines de Casa Blanca, Fraccionamiento Casa Blanca, Fraccionamiento Misión de Santa Lucía, Fraccionamiento Lomas del Sur, Fraccionamiento Lomas del Mirador y Fraccionamiento Lomas de Vista Bella.
+d. Fraccionamiento Rancho San Francisco de los Arteaga, Fraccionamiento Villa Sur, Fraccionamiento Laureles del Sur, S.E.N.S.A.T.A., Infonavit Ojo de Agua, Fraccionamiento México, Fraccionamiento Pirámides, Fraccionamiento Jardines del Sol, Colonia la Cruz, Fraccionamiento Vistas del Sol, Fraccionamiento Misión de Santa Fe, Fraccionamiento Jardines de Casa Blanca, Fraccionamiento Casa Blanca, Fraccionamiento Misión de Santa Lucia, Fraccionamiento Lomas del Sur, Fraccionamiento Lomas del Mirador y Fraccionamiento Lomas de Vista Bella.
 
 IV. Unidad Regional Línea Verde:
 
-a. Cumbres III, Fraccionamiento Las Cumbres, Fraccionamiento Lomas de la Asunción, Fraccionamiento Villas de Nuestra Señora de la Asunción sector Estación, Fraccionamiento Villas de Nuestra Señora de la Asunción sector Alameda, Fraccionamiento Villas de Nuestra Señora de la Asunción sector San Marcos, Fraccionamiento Villas de Nuestra Señora de la Asunción sector Encino, Fraccionamiento Villas de Nuestra Señora de la Asunción sector Guadalupe, Fraccionamiento Pintores Mexicanos, Fraccionamiento Cerro Alto, Pensadores Mexicanos, Condominio Rinconada del Puertecito, Fraccionamiento Villas del Rio II, Fraccionamiento Santa Margarita, Fraccionamiento Luis Ortega Douglas, Colonia José Refugio Esparza Reyes, Ejido Cumbres, Fraccionamiento Santa Margarita, Parque Ecológico México.
+a. Cumbres III, Fraccionamiento las Cumbres, Fraccionamiento Lomas de la Asunción, Fraccionamiento Villas de Nuestra Señora de la Asunción sector Estación, Fraccionamiento Villas de Nuestra Señora de la Asunción sector Alameda, Fraccionamiento Villas de Nuestra Señora de la Asunción sector San Marcos, Fraccionamiento Villas de Nuestra Señora de la Asunción sector Encino, Fraccionamiento Villas de Nuestra Señora de la Asunción sector Guadalupe, Fraccionamiento Pintores Mexicanos, Fraccionamiento Cerro Alto, Pensadores Mexicanos, Condominio Rinconada del Puertecito, Fraccionamiento Villas del Rio II, Fraccionamiento Santa Margarita, Fraccionamiento Luis Ortega Douglas, Colonia José Refugio Esparza Reyes, Ejido Cumbres, Fraccionamiento Santa Margarita, Parque Ecológico México.
 
 b. Fraccionamiento Rodolfo Landeros Gallegos, Fraccionamiento Municipio Libre, Infonavit Fidel Velázquez, Condominio Ojocaliente (sic) II I.N.E.G.I., Fraccionamiento Ojocaliente (sic) III, Fraccionamiento Ojocaliente (sic) I.
 
-c. Infonavit Morelos, Fraccionamiento Jardines de Casa Nueva, Condominio Villas de Morelos, Condominio Valle del Cedazo, Fraccionamiento Morelos I, Fraccionamiento Balcones de Ojocaliente (sic), Fraccionamiento El Cedazo, Fraccionamiento Solidaridad II, Ejido Salto de Ojocaliente (sic), Fraccionamiento Solidaridad I, Fraccionamiento Cima del Chapulín, Fraccionamiento Lomas del Chapulín, Fraccionamiento Bajío de las Palmas, José Guadalupe Peralta Gámez, Fraccionamiento Morelos, Condominio Villa Taurina, Condominio la Terraza, Condominio del Río.
+c. Infonavit Morelos, Fraccionamiento Jardines de Casa Nueva, Condominio Villas de Morelos, Condominio Valle del Cedazo, Fraccionamiento Morelos I, Fraccionamiento Balcones de Ojocaliente (sic), Fraccionamiento el Cedazo, Fraccionamiento Solidaridad II, Ejido Salto de Ojocaliente (sic), Fraccionamiento Solidaridad I, Fraccionamiento Cima del Chapulín, Fraccionamiento Lomas del Chapulín, Fraccionamiento Bajío de las Palmas, José Guadalupe Peralta Gámez, Fraccionamiento Morelos, Condominio Villa Taurina, Condominio la Terraza, Condominio del Rio.
 
 d. Lomas de la Mandarina, Fraccionamiento Cielo Claro, Fraccionamiento Tierra Buena, Fraccionamiento Agua Clara, Fraccionamiento Solidaridad IV, Fraccionamiento Emiliano Zapata, Fraccionamiento VillaIta (sic), Fraccionamiento Lomas Altas, Fraccionamiento Reencuentro, Fraccionamiento Lomas del Ajedrez, Fraccionamiento Fundadores, Condominio Rinconada San Antonio I, Condominio Mujeres Divinas, Fraccionamiento Solidaridad III, Fraccionamiento Mujeres Ilustres, Fraccionamiento Periodistas, Fraccionamiento Morelos II, Fraccionamiento Centenario de la Revolución.
 
 V. Unidad Regional Oriente:
 
-a. El Puertecito, Fraccionamiento Cumbres II, Fraccionamiento Claustros de Loma Dorada, Fraccionamiento Villa de Loma Dorada, Condominio Natura, Fraccionamiento Natura, Fraccionamiento Villas del Río I, Fraccionamiento La Florida I, Fraccionamiento La Florida II, Condominio Villas de Don Antonio, Asentamiento Irregular Cumbres III, Condominio Naturaleza.
+a. El Puertecito, Fraccionamiento Cumbres II, Fraccionamiento Claustros de Loma Dorada, Fraccionamiento Villa de Loma Dorada, Condominio Natura, Fraccionamiento Natura, Fraccionamiento Villas del Rio I, Fraccionamiento La Florida I, Fraccionamiento La Florida II, Condominio Villas de Don Antonio, Asentamiento Irregular Cumbres III, Condominio Naturaleza.
 
-b. Fraccionamiento Villerías, Fraccionamiento Haciendas de Aguascalientes, Colonia El Riego, Fraccionamiento Vista de las Cumbres, Fraccionamiento Vistas de Oriente, Fraccionamiento Villas de las Fuentes, Fraccionamiento Mirador de Santa Elena, Fraccionamiento Mirador de las Culturas II, Fraccionamiento Villas de la Loma, Fraccionamiento Los Pericos, Fraccionamiento Mirador de las Culturas, Fraccionamiento Real de Haciendas, Fraccionamiento Colinas de San Patricio, Fraccionamiento Balcones de Oriente, Comunidad El Rocío, Colonia José Guadalupe Posada, Condominio Los Laureles, Fraccionamiento Los Laureles, Fraccionamiento Paseos del Sol, Fraccionamiento Licenciado Benito Palomino Dena, El Guadalupano, Fraccionamiento Lomas de Oriente, Fraccionamiento Lomas de Vista Bella, Fraccionamiento Villa Nova, Fraccionamiento Real del Sol, Norias de Ojocaliente (sic), Fraccionamiento Villas de las Norias, El Conejal, Condominio La Hojarasca.
+b. Fraccionamiento Villerías, Fraccionamiento Haciendas de Aguascalientes, Colonia el Riego, Fraccionamiento Vista de las Cumbres, Fraccionamiento Vistas de Oriente, Fraccionamiento Villas de las Fuentes, Fraccionamiento Mirador de Santa Elena, Fraccionamiento Mirador de las Culturas II, Fraccionamiento Villas de la Loma, Fraccionamiento Los Pericos, Fraccionamiento Mirador de las Culturas, Fraccionamiento Real de Haciendas, Fraccionamiento Colinas de San Patricio, Fraccionamiento Balcones de Oriente, Comunidad el Roció, Colonia José Guadalupe Posada, Condominio los Laureles, Fraccionamiento los Laureles, Fraccionamiento Paseos del Sol, Fraccionamiento Licenciado Benito Palomino Dena, El Guadalupano, Fraccionamiento Lomas de Oriente, Fraccionamiento Lomas de Vista Bella, Fraccionamiento Villa Nova, Fraccionamiento Real del Sol, Norias de Ojocaliente (sic), Fraccionamiento Villas de las Norias, el Conejal, Condominio la Hojarasca.
 
-c. Fraccionamiento Villas de las Palmas III, Fraccionamiento San Jorge, Fraccionamiento Villa de las Palmas, Fraccionamiento Lomas del Gachupín, Norias de Paso Hondo, El Hotelito, Fraccionamiento La Lomita, Lomas de San Jorge, Ojo de Agua de Palmitas II, Paseo de los Cactus, Residencial Asturias, Fraccionamiento San Ángel, Condominio Tepame, Valle de los Cactus, Fraccionamiento Valle del Bicentenario.
+c. Fraccionamiento Villas de las Palmas III, Fraccionamiento San Jorge, Fraccionamiento Villa de las Palmas, Fraccionamiento Lomas del Gachupin, Norias de Paso Hondo, el Hotelito, Fraccionamiento la Lomita, Lomas de San Jorge, Ojo de Agua de Palmitas II, Paseo de los Cactus, Residencial Asturias, Fraccionamiento San Ángel, Condominio Tepame, Valle de los Cactus, Fraccionamiento Valle del Bicentenario.
 
 VI. Unidad Regional Insurgentes:
 
 a. Isla San Marcos, Canteras de Santa Imelda, Rinconada Santa Mónica, Los Barandales San José, Fraccionamiento Loma Bonita, Fraccionamiento Villas de la Cantera, Fraccionamiento Canteras de San Javier, Fraccionamiento Canteras de San José, Condominio Los Eucaliptos, Colonia San Francisco del Arenal, Fraccionamiento San Francisco del Arenal, Fraccionamiento Casa Solida, Condominio Paseos de Santa Mónica, Fraccionamiento La Casita, Fraccionamiento Santa Imelda, Fraccionamiento Rinconada de San José, Fraccionamiento Capital City.
 
-b. Centro Comercial Chedraui, Fraccionamiento Hermanos Carreón, Barranca de Guadalupe, Fraccionamiento España, Infonavit Los Pirules, Colonia Nueva España, Fraccionamiento Educación Álamos, Fraccionamiento Licenciado José López Portillo, Fraccionamiento Torres de San Francisco, Fraccionamiento Rinconada del Sur, Fraccionamiento La Estancia, Fraccionamiento Villas de Santa Rosa, Centro Comercial Villasuncion (sic), Colonia San Pedro, Unidad Habitacional Potreros del Oeste, Fraccionamiento Trojes del Sur, Fraccionamiento Prados de Villasuncion (sic), Infonavit Pilar Blanco, Colonia Martínez Domínguez, Fraccionamiento Villas del Oeste, Fraccionamiento Vista del Sur, Fraccionamiento Villas del Pilar, Fraccionamiento Villas de San Antonio, Fraccionamiento Vicente Guerrero, Fraccionamiento Bulevares II, Fraccionamiento Versalles II, Fraccionamiento Insurgentes, Colonia Vicente Guerrero, Condominio San Francisco, Fraccionamiento Casasólida (sic), Fraccionamiento la Casita, Colonia San Francisco del Arenal, Fraccionamiento San Francisco del Arenal, Condominio San Gerardo, Panteón San Francisco.
+b. Centro Comercial Chedraui, Fraccionamiento Hermanos Carreón, Barranca de Guadalupe, Fraccionamiento España, Infonavit los Pirules, Colonia Nueva España, Fraccionamiento Educación Álamos, Fraccionamiento Licenciado José López Portillo, Fraccionamiento Torres de San Francisco, Fraccionamiento Rinconada del Sur, Fraccionamiento la Estancia, Fraccionamiento Villas de Santa Rosa, Centro Comercial Villasunción (sic), Colonia San Pedro, Unidad Habitacional Potreros del Oeste, Fraccionamiento Trojes del Sur, Fraccionamiento Prados de Villasunción (sic), Infonavit Pilar Blanco, Colonia Martínez Domínguez, Fraccionamiento Villas del Oeste, Fraccionamiento Vista del Sur, Fraccionamiento Villas del Pilar, Fraccionamiento Villas de San Antonio, Fraccionamiento Vicente Guerrero, Fraccionamiento Bulevares II, Fraccionamiento Versalles II, Fraccionamiento Insurgentes, Colonia Vicente Guerrero, Condominio San Francisco, Fraccionamiento Casasolida (sic), Fraccionamiento la Casita, Colonia San Francisco del Arenal, Fraccionamiento San Francisco del Arenal, Condominio San Gerardo, Panteón San Francisco.
 
 VII. Unidad Regional Poniente:
 
-a. Colegio Esperanza, Granja Duarte, Condominio la Perla, Condominio Jardines del Lago, Condominio Canteras de San Agustín, Fraccionamiento Vergel, Colonia La Perla, Comunidad San Ignacio III, Fraccionamiento Jardines Eternos II, Colonia La Soledad, Comunidad San Ignacio, Fraccionamiento Puesta del Sol, Fraccionamiento La Rioja, Condómino los Eucaliptos, Fraccionamiento Misión de Juan Pablo II, Colonia Francisco Villa, Fraccionamiento Misión de San Jerónimo, San Ignacio II, Condominio Rancho Santa Elena, Los Negritos, Loma de los Negritos, Viñedo San Felipe, El Cariñán, La Primavera, Santa Cruz de la Presa, Residencial San Ignacio, Colonia La Soledad, Condominio Paseos del Río, Condominio Rinconada de San Ignacio, Condominio Trojes de San Agustín, Fraccionamiento Valle de San Ignacio, Fraccionamiento Parque Industrial Tecnopolo (sic) Pocitos II.
+a. Colegio Esperanza, Granja Duarte, Condominio la Perla, Condominio Jardines del Lago, Condominio Canteras de San Agustín, Fraccionamiento Vergel, Colonia la Perla, Comunidad San Ignacio III, Fraccionamiento Jardines Eternos II, Colonia la Soledad, Comunidad San Ignacio, Fraccionamiento Puesta del Sol, Fraccionamiento la Rioja, Condómino los Eucaliptos, Fraccionamiento Misión de Juan Pablo II, Colonia Francisco Villa, Fraccionamiento Misión de San Jerónimo, San Ignacio II, Condominio Rancho Santa Elena, los Negritos, Loma de los Negritos, Viñedo San Felipe, el Cariñan, la Primavera, Residencial San Ignacio, Colonia la Soledad, Condominio Paseos del Rio, Condominio Rinconada de San Ignacio, Condominio Trojes de San Agustín, Fraccionamiento Valle de San Ignacio, Fraccionamiento Parque Industrial Tecnopolo (sic) Pocitos II.
 
-b. Bella Vista, Fraccionamiento Vistas del Mediterráneo, Condómino San Nicolás, Fraccionamiento Ex-Hacienda La Cantera, Fraccionamiento José Vasconcelos Calderón, Fraccionamiento Licenciado Manuel Gómez Morín, Fraccionamiento Rancho Santa Mónica, Condominio Providencia, Condominio Fuentes del Lago, Condominio Nuestra Señora de Lourdes, Fraccionamiento Veteranos de la Revolución, Fraccionamiento El Quelite, Fraccionamiento Olinda, San Martín de la Cantera, El Lucero de la Cruz, Condominio Porta Canteras, Universidad del Valle de México, Universidad Tecnológica de Aguascalientes.
+b. Bella Vista, Fraccionamiento Vistas del Mediterráneo, Condómino San Nicolás, Fraccionamiento Ex-Hacienda la Cantera, Fraccionamiento José Vasconcelos Calderón, Fraccionamiento Licenciado Manuel Gómez Morín, Fraccionamiento Rancho Santa Mónica, Condominio Providencia, Condominio Fuentes del Lago, Condominio Nuestra Señora de Lourdes, Fraccionamiento Veteranos de la Revolución, Fraccionamiento el Quelite, Fraccionamiento Olinda, San Martín de la Cantera, el Lucero de la Cruz, Condominio Porta Canteras, Universidad del Valle de México, Universidad Tecnológica de Aguascalientes.
 
 VIII. Unidad Regional Norte:
 
-a. Universidad Autónoma de Aguascalientes, U.G.A.S.A., Colegio Cristóbal Colón, Granja Estrella, Condominio Rinconada de los Álamos, Privada Benjamín Méndez, La Joya, Fraccionamiento Valle de Santa Teresa, Fraccionamiento Jardines de la Concepción, Fraccionamiento Bosques del Prado Norte, Condominio Rinconada Los Bosques, Fraccionamiento Los Bosques, Fraccionamiento Jardines de la Concepción, Condominio Residencial Pulgas Pandas, Fraccionamiento Lomas del Campestre, Fraccionamiento Villas de San Nicolás, Fraccionamiento Trojes de Oriente, Condominio Puerto Las Hadas, Condominio Residencial San Pedro, Fraccionamiento Valle del Campestre, Fraccionamiento Campestre, Fraccionamiento Los Vergeles, Fraccionamiento Club Campestre, Conjunto Residencial San Miguel, Condominio Villas del Vergel, Colonia San José del Arenal, Fraccionamiento Palmas del Pedregal, Fraccionamiento Bosques del Prado Sur, Condominio Pulgas Pandas Sur, Condominio Punta Campestre, Colonia Primo Verdad, Fraccionamiento Cerrada del Campanario, Condominio Fundición, Fraccionamiento Palma Real, Condominio Puerta Navarra, Fraccionamiento Granjas Campestre, Trojes de Oriente, Fraccionamiento Villa de las Trojes, Fraccionamiento Trojes de Oriente, Fraccionamiento Villas de Montenegro, Condómino Puerto Las Hadas, Fraccionamiento Valle de las Trojes, Fraccionamientos Villas del Campestre, Condominio Privilege, Colonia Fátima, Condominio Desarrollo Ecológico Club Campestre, Condómino La Plazuela, Condominio Santa María, Condómino Rincón Andaluz, Condómino Contadero, Condómino La Querencia, Condominio San Xavier, Fraccionamiento Valle de San Ignacio, Fraccionamiento Coto Residencial San Ignacio, Condominio Rinconada San Ignacio, Condominio Residencial Hacienda San Ignacio, Hacienda San Ignacio, Hacienda Nueva, Fraccionamiento Bosques del Prado, Condominio Cerrada San Miguel, Condominio La Punta, Fraccionamiento Las Quintas, Condominio Marsella, Condominio Residencial del Real, Condominio Residencial Haciendas de San Ignacio, Condominio Río Viejo,
+a. Universidad Autónoma de Aguascalientes, U.G.A.S.A., Colegio Cristóbal Colon, Granja Estrella, Condominio Rinconada de los Álamos, Privada Benjamín Méndez, La Joya, Fraccionamiento Valle de Santa Teresa, Fraccionamiento Jardines de la Concepción, Fraccionamiento Bosques del Prado Norte, Condominio Rinconada los Bosques, Fraccionamiento los Bosques, Fraccionamiento Jardines de la Concepción, Condominio Residencial Pulgas Pandas, Fraccionamiento Lomas del Campestre, Fraccionamiento Villas de San Nicolás, Fraccionamiento Trojes de Oriente, Condominio Puerto las Hadas, Condominio Residencial San Pedro, Fraccionamiento Valle del Campestre, Fraccionamiento Campestre, Fraccionamiento Conjunto Residencial San Miguel, Condominio Villas del Vergel, Colonia San José del Arenal, Fraccionamiento Palmas del Pedregal, Fraccionamiento Bosques del Prado Sur, Condominio Pulgas Pandas Sur, Condominio Punta Campestre, Colonia Primo Verdad, Fraccionamiento Cerrada del Campanario, Condominio Fundición, Fraccionamiento Palma Real, Condominio Puerta Navarra, Fraccionamiento Granjas Campestre, Trojes de Oriente, Fraccionamiento Villa de las Trojes, Fraccionamiento Trojes de Oriente, Fraccionamiento Villas de Montenegro, Condómino Puerto las Hadas, Fraccionamiento Valle de las Trojes, Fraccionamientos Villas del Campestre, Condominio Privilege, Colonia Fátima, Condominio Desarrollo Ecológico Club Campestre, Condómino la Plazuela, Condominio Santa María, Condómino Rincón Andaluz, Condómino Contadero, Condómino la Querencia, Condominio San Xavier, Fraccionamiento Valle de San Ignacio, Fraccionamiento Coto Residencial San Ignacio, Condominio Rinconada San Ignacio, Condominio Residencial Hacienda San Ignacio, Hacienda San Ignacio, Hacienda Nueva, Fraccionamiento Bosques del Prado, Condominio Cerrada San Miguel, Condominio La Punta, Fraccionamiento las Quintas, Condominio Marsella, Condominio Residencial del Real, Condominio Residencial Haciendas de San Ignacio, Condominio Rio Viejo.
 
-b. Mamposteo, Lomas de San José de los Pocitos, Barrio de Santiago, Fraccionamiento Cerrada del Valle, Fraccionamiento Cerrada de la Misión, Cerrada El Molino, Fraccionamiento Valle del Campanario, Fraccionamiento Valle Real, Calicantos III, Condómino Misión de Santiago I, Condominio Misión de Santiago II, Fraccionamiento Trojes del Sol, Condominio las Trojes, Condominio Terzetto, Condominio Trojes de Cristal, Condominio La Paloma, Condominio Jardines del Campestre, Condominio Rancho San Antonio, Fraccionamiento La Herradura, Fraccionamiento Cerrada La Mezquitera, Fraccionamiento Misión del Campanario, Fraccionamiento Las Misiones, Condómino Los Jarales, Fraccionamiento Los Calicantos, Ejido Los Pocitos, Fraccionamiento Tecnopolo (sic) Pocitos, Condómino Portón de Santa Clara, Condominio Santiago de Compostela, Barrio de Santiago Norte y Condominio Risco.
+b. Mamposteo, Lomas de San José de los Pocitos, Barrio de Santiago, Fraccionamiento Cerrada del Valle, Fraccionamiento Cerrada de la Misión, Cerrada el Molino, Fraccionamiento Valle del Campanario, Fraccionamiento Valle Real, Calicantos III, Condómino Misión de Santiago I, Condominio Misión de Santiago II, Fraccionamiento Trojes del Sol, Condominio las Trojes, Condominio Terzetto, Condominio Trojes de Cristal, Condominio la Paloma, Condominio Jardines del Campestre, Condominio Rancho San Antonio, Fraccionamiento la Herradura, Fraccionamiento Cerrada la Mezquitera, Fraccionamiento Misión del Campanario, Fraccionamiento las Misiones, Condómino los Jarales, Fraccionamiento los Calicantos, Ejido los Pocitos, Fraccionamiento Tecnopolo (sic) Pocitos, Condómino Portón de Santa Clara, Condominio Santiago de Compostela, Barrio de Santiago Norte y Condominio Risco.
 
 c. Condómino Santa Fe, Fraccionamiento la Troje, Colonia Trojes de Alonso, Villas de San Alonso.
 
-XI (SIC). Unidad Regional Industrial:
+IX. Unidad Regional Industrial:
 
-a. Fraccionamiento San Javier, Fraccionamiento San Sebastián, Universidad Bonaterra, I. N. E. G. I., Parque Rodolfo Landeros Gallegos, Condómino Rinconada del Parque, Fraccionamiento Residencial del Parque, Fraccionamiento Ciudad Industrial, Fraccionamientos Rústicos Calpulli, Condómino Villas de Bonaterra, Centro Comercial Central de Abastos, Fraccionamiento Jardines del Parque y Fraccionamiento Jardines de las Bugambilias, Condominio Residencial del Parque, Teatro Aguascalientes.
+a. Fraccionamiento San Javier, Fraccionamiento San Sebastián, Universidad Bonaterra, I.N.E.G.I., Parque Rodolfo Landeros Gallegos, Condómino Rinconada del Parque, Fraccionamiento Residencial del Parque, Fraccionamiento Ciudad Industrial, Fraccionamientos Rústicos Calpulli, Condómino Villas de Bonaterra, Centro Comercial Central de Abastos, Fraccionamiento Jardines del Parque y Fraccionamiento Jardines de las Bugambilias, Condominio Residencial del Parque, Teatro Aguascalientes.
 
 b. NISSAN, Fraccionamiento Altec, Fraccionamiento Parque Industrial Siglo XXI, Fraccionamiento Vista Alegre, Los Arellano, Fraccionamiento Lomas de Arellano, Fraccionamiento Lomas de Nueva York, Fraccionamiento Paseos de San Antonio, Fraccionamiento Hacienda San Antonio.
 
 A su vez la Unidad Regional Rural se dividirá de la siguiente manera:
 
-a. Unidad Territorial Villa Licenciado Jesús Terán "Calvillito" pertenecen las siguientes comunidades: El Duraznillo, Los Cuervos ó Los Ojos de Agua, La Chiripa, Matamoros, Soledad de Abajo, Los Durón, Las Jaboneras, Rancho El Carmen ó Gallinas Güeras, Los Hoyos ó Puerta de los Hoyos, Soledad de Arriba, Bajío Los Vázquez, Cañada Grande de Cotorina, Villa Lic. Jesús Terán ó Calvillito, Las Animas, La Ahuja ó La Aguja, El Cardón, La Congoja, El Fresno ó Las Norias de San Bartolo, El Guarda, El Jagüey, Laguna Verde, El Mirador, El Mirasol, El Mitote, La Petaquilla ó El Milagro, El Potrero Nuevo, Sal Sí Puedes, San Bartolo, San Miguelito de Abajo, El Tacón, Tanque de Guadalupe, El Tepetate, El Tropezón, Vista Alegre I ó Bella Vista, Los Hernández, El Ranchito ó El Mocho, Bella Vista ó El Coronel, Los Cables, La Cachucha ó El Salero, El Capirote, El Caracol ó La Mesa, El 14, El Copetillo, El Crucero, La Estancia, Gómez Palacio, Los Lirios, La Mesa, El Molino, Los Órganos, Rancho El Paraíso, Rancho El Pirul ó El Pirulito, El Pozo, Potrero Grande, Rancho 2 Arbolitos, El Refugio II, Rancho Sin Nombre, La Rinconada ó La Escondida, San José del Cono, La Santa Cruz, Santa Elena, El Salero, El Gato, El Yerbaniz, Azarco, La Cañada de las Habas, Lomas del Guarda, Mesa del Tepetate, Los Salazar, La Lagunita, Cañada del Duraznillo, Cañada Grande, El Capirote, El Ocal ó El Capirote, La Chiripa, El Cono, El Copetillo, El Copetillo Chico ó La Miseria, La Cruz, Los Durón I, La Escuadra, La Fortuna, Los Laureles, El Maistrujenio, El Mirador, Ojos de Agua la Estancia, El Plan de Lagos, Rancho de Guadalupe ó Las Jaboneras, Rancho El Duraznillo, La Rinconada ó La Escondida, Rancho La Cruz, Rancho Nuevo 1880, Rancho Porvenir, Rancho Santa Teresa, El Salero, San Miguelito, Las Trojes ó Las Jaboneras, Cañada del Tabaco, Loma del Mezquite, Maíz Prieto, San Juanito ó Los López, El Copetillo Chico, Localidades Sin Nombre, La Morada, El Ocal, Rancho Los Córdova, El Refugio, La Cabaña Roja, El Maguey y Los Valdez.
+X. Unidad Territorial Villa Licenciado Jesús Terán "Calvillito". Las comunidades: El Duraznillo, Los Cuervos ó Los Ojos de Agua, La Chiripa, Matamoros, Soledad de Abajo, Los Durón, Las Jaboneras, Rancho El Carmen ó Gallinas Güeras, Los Hoyos ó Puerta de los Hoyos, Soledad de Arriba, Bajío Los Vázquez, Cañada Grande de Cotorina, Villa Lic. Jesús Terán ó Calvillito, Las Animas, La Ahuja ó La Aguja, El Cardón, La Congoja, El Fresno ó Las Norias de San Bartolo, El Guarda, El Jagüey, Laguna Verde, El Mirador, El Mirasol, El Mitote, La Petaquilla ó El Milagro, El Potrero Nuevo, Sal Sí Puedes, San Bartolo, San Miguelito de Abajo, El Tacón, Tanque de Guadalupe, El Tepetate, El Tropezón, Vista Alegre I ó Bella Vista, Los Hernández, El Ranchito ó El Mocho, Bella Vista ó El Coronel, Los Cables, La Cachucha ó El Salero, El Capirote, El Caracol ó La Mesa, El 14, El Copetillo, El Crucero, La Estancia, Gómez Palacio, Los Lirios, La Mesa, El Molino, Los Órganos, Rancho El Paraíso, Rancho El Pirul ó El Pirulito, El Pozo, Potrero Grande, Rancho 2 Arbolitos, El Refugio II, Rancho Sin Nombre, La Rinconada ó La Escondida, San José del Cono, La Santa Cruz, Santa Elena, El Salero, El Gato, El Yerbaniz, Azarco, La Cañada de las Habas, Lomas del Guarda, Mesa del Tepetate, Los Salazar, La Lagunita, Cañada del Duraznillo, Cañada Grande, El Capirote, El Ocal ó El Capirote, La Chiripa, El Cono, El Copetillo, El Copetillo Chico ó La Miseria, La Cruz, Los Durón I, La Escuadra, La Fortuna, Los Laureles, El Maistrujenio, El Mirador, Ojos de Agua la Estancia, El Plan de Lagos, Rancho de Guadalupe ó Las Jaboneras, Rancho El Duraznillo, La Rinconada ó La Escondida, Rancho La Cruz, Rancho Nuevo 1880, Rancho Porvenir, Rancho Santa Teresa, El Salero, San Miguelito, Las Trojes ó Las Jaboneras, Cañada del Tabaco, Loma del Mezquite, Maíz Prieto, San Juanito ó Los López, El Copetillo Chico, Localidades Sin Nombre, La Morada, El Ocal, Rancho Los Córdova, El Refugio, La Cabaña Roja, El Maguey y Los Valdez.
 
-b. Unidad Territorial General José María Morelos y Pavón "Cañada Honda" pertenecen las siguientes comunidades: San José de la Ordeña, Ejido San Antonio de los Pedroza, Santa María de Gallardo, Jaltomate, General José María Morelos y Pavón ó Cañada Honda, Estación Cañada Honda, Comité, Congregación San Antonio Primero de los Pedroza, San Nicolás de Arriba, El Chiflido, La Coyotera, El Becerro, El Refugio, El Jardín, Puerta de los Viejitos, Rancho El Venado y San Nicolás de Arriba.
+XI. Unidad Territorial General José Maria Morelos y Pavón "Cañada Honda". Las comunidades: San José de la Ordeña, Ejido San Antonio de los Pedroza, Santa Maria de Gallardo, Jaltomate, General José María Morelos y Pavón ó Cañada Honda, Estación Cañada Honda, Comité, Congregación San Antonio Primero de los Pedroza, San Nicolás de Arriba, El Chiflido, La Coyotera, El Becerro, El Refugio, El Jardín, Puerta de los Viejitos, Rancho El Venado y San Nicolás de Arriba.
 
-c. Unidad Regional Salto de los Salado pertenecen las siguientes comunidades: El Niágara ó Rancho El Niágara, El Ocote, Granja San Antonio, San José de la Esperanza, Centro de Arriba ó El Taray, La Huerta ó La Cruz, Cuauhtémoc ó Las Palomas, San Pedro Cieneguilla, San Rafael I, El Tanque de los Jiménez, Cieneguilla ó La Lumbrera, Piedras Chinas, Presa de Guadalupe, El Salto de los Salado, Los Arbolitos ó Rancho de los Arbolitos, Cabecita 3 Marías ó Rancho Nuevo, Los Caños, La Ademe, San José del Monte ó Las Petacas, Ex-Hacienda de Agostaderito, Rancho Legendario, Norias de Cedazo ó Cedazo Norias de Montoro, El Rubio, Asociación Local Ganadera de Aguascalientes ó C. del Niágara, Cieneguilla ó La Hacienda, Las Bugambilias, Castillo Fontenac, La Chiripa, Granja Los Lirios, Las Marías ó Las 3 Marías, Rancho San Carlos, San Gerónimo, Las Víboras, Granjas Fátima, El 14, Rancho La Chiripa, El Arquito, Quinta Santa Isabel, Rancho Aurora, Rancho San José del Monte, Granja Chela, Rancho Nuevo, Rancho Topogigio, San Isidro de los Esparza, San Isidro ó La Estación, San Cristóbal, San Nicolás de Enmedio, El Sabino ó San Román, El Sauz Amarillo, La Tijera, Ampliación del Conejal, La Sociedad, Granjas El Conejal, Granja Los Jacalitos, Rancho Las Jarillas, Granja Don Mónico, Rancho El Chiflido, Los Placeres, El Futuro, Los Girasoles, Granja San Nicolás, El Paraíso, San Antonio, San Antonio y Los 3 Cuartos.
+XII. Unidad Territorial Salto de los Salado. Las comunidades: El Niágara ó Rancho El Niágara, El Ocote, Granja San Antonio, San José de la Esperanza, Centro de Arriba ó EI Taray, La Huerta ó La Cruz, Cuauhtémoc ó Las Palomas, San Pedro Cieneguilla, San Rafael I, El Tanque de los Jiménez, Cieneguilla ó La Lumbrera, Piedras Chinas, Presa de Guadalupe, El Salto de los Salado (sic), Los Arbolitos ó Rancho de los Arbolitos, Cabecita 3 Marías ó Rancho Nuevo, Los Caños, La Ademe, San José del Monte ó Las Petacas, Ex-Hacienda de Agostaderito, Rancho Legendario, Norias de Cedazo ó Cedazo Norias de Montoro, El Rubio, Asociación Local Ganadera de Aguascalientes ó C. del Niágara, Cieneguilla ó La Hacienda, Las Bugambilias, Castillo Fontenac, La Chiripa, Granja Los Lirios, Las Marías ó Las 3 Marías, Rancho San Carlos, San Gerónimo, Las Víboras, Granjas Fátima, El 14, Rancho La Chiripa, El Arquito, Quinta Santa Isabel, Rancho Aurora, Rancho San José del Monte, Granja Chela, Rancho Nuevo, Rancho Topogigio, San Isidro de los Esparza, San Isidro ó La Estación, San Cristóbal, San Nicolás de Enmedio, El Sabino ó San Román, El Sauz Amarillo, La Tijera, Ampliación del Conejal, La Sociedad, Granjas El Conejal, Granja Los Jacalitos, Rancho Las Jarillas, Granja Don Mónico, Rancho El Chiflido, Los Placeres, El Futuro, Los Girasoles, Granja San Nicolás, El Paraíso, San Antonio, San Antonio y Los 3 Cuartos.
 
-d. Unidad Regional Peñuelas "El Cienegal" pertenecen las siguientes comunidades: San Antonio de Peñuelas, El Cedazo ó Cedazo de San Antonio, Cotorina de Abajo, Dolores, La Soledad, El Turicate, El Mirador, Peñuelas ó El Cienegal, El Refugio de Peñuelas, Bajío de Montoro, Buenavista de Peñuelas, Viñedos Cuauhtémoc ó Churubusco, La Esperanza, Interpec San Marcos, Marisol, Cotorina ó Coyotes, Montoro ó Mesa del Salto, Acapulco, Hacienda Los Pavorreales, Cotorina de Altamira, San Carlos, La Florida, Granja Maricela, El Huizachal, Mesa del Salto ó Fracción de Montoro, La Providencia, Rancho La Manga, La Primavera, Rancho El Mitawa, Rancho San Jacinto, San Isidro ó Granja Santa Anita, San Miguel, Santa Elena ó Tres Pelonas, Santa Inés, Santa Teresa, Tanque de la Cruz, Las Trojes, Villa Su; Ex-Hacienda de Peñuelas, Coyotillos, El Esfuerzo, Llanos de San Antonio, Las Granjas ó Santa Elena, Los Jazmines, Localidades Sin Nombre, La Rinconada, Rancho La Loma, Rancho San Martín, Bellavista, Colonia Salto de Montoro, Ejido Peñuelas Granja El Huizache, Rancho La Primavera, San José, Granja Marisela y Rancho la Gaviota.
+XIII. Unidad Territorial Peñuelas "El Cienegal". Las comunidades: San Antonio de Peñuelas, El Cedazo ó Cedazo de San Antonio, Cotorina de Abajo, Dolores, La Soledad, El Turicate, El Mirador, Peñuelas ó El Cienegal, El Refugio de Peñuelas, Bajío de Montoro, Buenavista de Peñuelas, Viñedos Cuauhtémoc ó Churubusco, La Esperanza, Interpec San Marcos, Marisol, Cotorina ó Coyotes, Montoro ó Mesa del Salto, Acapulco, Hacienda Los Pavorreales, Cotorina de Altamira, San Carlos, La Florida, Granja Maricela, El Huizachal, Mesa del Salto ó Fracción de Montoro, La Providencia, Rancho La Manga, La Primavera, Rancho El Mitawa, Rancho San Jacinto, San Isidro ó Granja Santa Anita, San Miguel, Santa Elena ó Tres Pelonas, Santa Inés, Santa Teresa, Tanque de la Cruz, Las Trojes, Villa Su, Ex-Hacienda de Peñuelas, Coyotillos, El Esfuerzo, Llanos de San Antonio, Las Granjas ó Santa Elena, Los Jazmines, Localidades Sin Nombre, La Rinconada, Rancho La Loma, Rancho San Martín, Bellavista, Colonia Salto de Montoro, Ejido Peñuelas, Granja El Huizache, Rancho La Primavera, San José, Granja Marisela y Rancho La Gaviota.
+
+XlV. Unidad Territorial Santa Cruz de la Presa "La Tlacuacha".
 
 > <small>(REFORMADO, P.O. 30 DE MAYO DE 2011)</small>
 
@@ -709,7 +821,11 @@ VIII. Participar conjuntamente con las dependencias de la Administración Públi
 
 IX. Realizar la vigilancia, control y seguimiento de las obras, acciones y proyectos aprobados y ejecutados por el municipio;
 
-X. Gestionar ante los representantes de las Dependencias Municipales en cada una de la (sic) Micro Regiones sobre las necesidades más sentidas de las colonias.
+X. Gestionar ante los representantes de las Dependencias Municipales en cada una de la (sic) Micro Regiones sobre las necesidades más sentidas de las colonias;
+
+> <small>(ADICIONADA, P.O. 5 DE SEPTIEMBRE DE 2011)</small>
+
+XI. Instalar y operar la red de Prevención y Cohesión Social.
 
 (REFORMADO, P.O. 30 DE MAYO DE 2011
 
@@ -1030,3 +1146,7 @@ El Consejo Técnico Ciudadano de Salud del Municipio de Aguascalientes deberá q
 P.O. 30 DE MAYO DE 2011.
 
 LA MODIFICACIÓN CON ANTELACIÓN CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE AGUASCALIENTES.
+
+P.O. 5 DE SEPTIEMBRE DE 2011.
+
+SEGUNDO.- Las presentes reformas y adiciones entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
