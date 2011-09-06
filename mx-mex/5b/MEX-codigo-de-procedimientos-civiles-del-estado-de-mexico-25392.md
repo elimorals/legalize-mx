@@ -4,7 +4,7 @@ identifier: "MEX-codigo-de-procedimientos-civiles-del-estado-de-mexico-25392"
 country: "mx"
 rank: "codigo"
 publication_date: "2002-07-01"
-last_updated: "2010-03-06"
+last_updated: "2011-09-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25392&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CODIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 6 DE MARZO DE 2010.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 6 DE SEPTIEMBRE DE 2011.
 
 Código publicado en el Gaceta del Gobierno del Estado de México, el lunes 1 de julio del 2002.
 
@@ -45,17 +45,17 @@ CODIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE MEXICO
 
 ## TITULO PRIMERO. Jurisdicción
 
-Ejercicio de la jurisdicción
-
-###### Artículo 1.
-
-1.- Corresponde a los Tribunales del Poder Judicial, la facultad de interpretar y aplicar las leyes en los asuntos del orden civil y familiar del fuero común, lo mismo que del orden federal, en los casos en que expresamente lo ordene la ley.
-
 Inicio dispositivo e impulso procesal oficioso
 
 ###### Artículo 1.
 
 2.- La jurisdicción civil sólo se ejercerá mediante instancia de parte, pero mientras se mantenga en ejercicio, corresponde al Juez desarrollar el proceso de oficio, salvo los casos en que la ley exija la petición de parte.
+
+Ejercicio de la jurisdicción
+
+###### Artículo 1.
+
+1.- Corresponde a los Tribunales del Poder Judicial, la facultad de interpretar y aplicar las leyes en los asuntos del orden civil y familiar del fuero común, lo mismo que del orden federal, en los casos en que expresamente lo ordene la ley.
 
 Normas genéricas de la jurisdicción
 
@@ -1484,6 +1484,10 @@ Notificación por edictos
 El Secretario fijará además, en la puerta del Tribunal, una copia íntegra de la resolución, por todo el tiempo del emplazamiento. Si pasado este plazo no comparece por sí, por apoderado o por gestor que pueda representarla, se seguirá el juicio en rebeldía, haciéndole las ulteriores notificaciones por lista y boletín.
 
 El Juez tomará previamente, las providencias necesarias para cerciorarse de la necesidad de emplazar, en la forma señalada en este precepto, y adoptará las medidas que estime pertinentes con el propósito de que se investigue su domicilio, solicitando el auxilio de la policía judicial y los cuerpos de seguridad pública estatal o municipal.
+
+> <small>(ADICIONADO, G.G. 6 DE SEPTIEMBRE DE 2011)</small>
+
+En las controversias de la fracción I del artículo 5.2 del presente ordenamiento, el Juez girará oficio al Instituto de la Función Registral del Estado de México, a las instituciones de seguridad social, al Instituto Federal Electoral, a la Secretaría de Hacienda y Crédito Público o en su caso, a la Institución que señale el actor, para que informen si se encuentra registrado el demandado y en su caso, el domicilio con que cuenta.
 
 Notificaciones no personales
 
@@ -7051,25 +7055,25 @@ Apelación de la adjudicación
 
 75.- La resolución que decida sobre la adjudicación es apelable con efecto suspensivo.
 
-### CAPITULO I. Disposiciones Generales
+### CAPITULO V. Audiencia Inicial
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
 > <small>(ADICIONADO, G.G. 19 DE FEBRERO DE 2009)</small>
 
-Reglas de las controversias
+Etapas de la audiencia inicial
 
 ###### Artículo 4.
 
 76.- Exhibida el acta de defunción, acreditado el derecho de los herederos y la existencia del patrimonio familiar, el Juez dictará resolución de adjudicación.
 
-### CAPITULO II. Actos Procesales en General
+### CAPITULO IV. De la Demanda
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
 > <small>(ADICIONADO, G.G. 19 DE FEBRERO DE 2009)</small>
 
-Peticiones orales
+De la demanda, reconvención y su contestación
 
 ###### Artículo 4.
 
@@ -7113,13 +7117,13 @@ III. El Notario redactará el instrumento en el que se relacionarán los documen
 
 IV. En el instrumento a que se refiere la fracción anterior, los legatarios podrán otorgar, a su vez, testamento público simplificado.
 
-### CAPITULO III. De la Pruebas
+### CAPITULO VI. De la Audiencia Principal
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
 > <small>(ADICIONADO, G.G. 19 DE FEBRERO DE 2009)</small>
 
-Requisitos de los medios de prueba
+Desarrollo de la audiencia principal
 
 ###### Artículo 4.
 
@@ -7141,13 +7145,13 @@ Resolución en la tramitación especial
 
 84.- El Juez en una sola audiencia y en presencia de los interesados, examinará los documentos y resolverá haciendo la declaración de herederos, y adjudicación de los bienes.
 
-### CAPITULO IV. De la Demanda
+### CAPITULO VII. Cambio de Vía en el Divorcio Necesario
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
 > <small>(ADICIONADO, G.G. 19 DE FEBRERO DE 2009)</small>
 
-De la demanda, reconvención y su contestación
+Solicitud de divorcio por mutuo consentimiento
 
 ###### Artículo 4.
 
@@ -7159,59 +7163,537 @@ Formalidad de la adjudicación
 
 86.- La adjudicación de bienes hereditarios se hará con la misma formalidad que la ley exige para su venta.
 
-> <small>(ADICIONADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, G.G. 19 DE FEBRERO DE 2009)</small>
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.G. 19 DE FEBRERO DE 2009)</small>
 
 # LIBRO QUINTO. De las Controversias sobre el Estado Civil de las Personas y del Derecho Familiar
 
-T R A N S I T O R I O S
-
-PRIMERO.- Publíquese el presente decreto en el periódico oficial "Gaceta del Gobierno".
-
-SEGUNDO.- Este decreto entrará en vigor a los quince días naturales siguientes a su publicación en el periódico oficial "Gaceta del Gobierno".
-
-TERCERO.- Se abroga el Código de Procedimientos Civiles expedido con fecha 9 de agosto de 1937.
-
-CUARTO.- En los asuntos en trámite seguirá aplicándose el Código que se abroga.
-
-Lo tendrá entendido el Gobernador del Estado, haciendo que se publique y se cumpla.
-
-Dado en el Palacio del Poder Legislativo, en la ciudad de Toluca de Lerdo, capital del Estado de México, a los treinta y un días del mes de mayo de 2002.- Diputado Presidente.- C. Roberto Modesto Flores González.- Diputados Secretarios.- C. Víctor Ernesto González Huerta.- C. Andrea María del Rocío Merlos Nájera.- Rúbricas.
-
-Por tanto mando se publique, circule, observe y se le dé el debido cumplimiento.
-
-Toluca de Lerdo, Méx., a 1o. de julio del 2002.
-
-EL GOBERNADOR CONSTITUCIONAL DEL ESTADO DE MEXICO
-
-ARTURO MONTIEL ROJAS
-
-(RUBRICA).
-
-EL SECRETARIO GENERAL DE GOBIERNO
-
-MANUEL CADENA MORALES
-
-(RUBRICA).
-
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.</small>
-
-G.G. 8 DE MAYO DE 2003
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.G. 19 DE FEBRERO DE 2009)</small>
 
 ## TITULO UNICO. De las Controversias sobre el Estado Civil de las Personas y del Derecho Familiar
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.G. 19 DE FEBRERO DE 2009)</small>
+> <small>(ADICIONADO CON EL TITULO, CAPITULOS Y ARTICULOS QUE LO INTEGRAN, G.G. 19 DE FEBRERO DE 2009)</small>
 
-### CAPITULO V. Audiencia Inicial
+### CAPITULO VIII. De los Recursos
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
 > <small>(ADICIONADO, G.G. 19 DE FEBRERO DE 2009)</small>
 
-Etapas de la audiencia inicial
+Revocación fuera de audiencia
+
+###### Artículo 5.
+
+50.- La audiencia inicial comprenderá:
+
+I. Enunciación de la litis;
+
+II. Fase conciliatoria;
+
+III. Fase de depuración procesal;
+
+IV. Admisión y preparación de pruebas; y
+
+V. Revisión de las medidas provisionales.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, G.G. 19 DE FEBRERO DE 2009)</small>
+
+Inasistencia de las partes
+
+###### Artículo 5.
+
+51.- De inasistir las partes a la audiencia inicial, ésta se verificará de manera reservada, sin necesidad de que sea video o audiograbada; sólo se instrumentará un acta en la que se puntualizarán los acuerdos y providencias que se lleguen a emitir en el desahogo de cada fase.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, G.G. 19 DE FEBRERO DE 2009)</small>
+
+Enunciación de la litis
+
+###### Artículo 5.
+
+52.- Declarada abierta la audiencia inicial, el juez precisará sucintamente las pretensiones de las partes.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, G.G. 19 DE FEBRERO DE 2009)</small>
+
+Fase conciliatoria
+
+###### Artículo 5.
+
+53.- El juez procurará conciliar a las partes, de lograrlo, se formulará el convenio respectivo. Para aprobarlo, el juez vigilará que los derechos de los menores o incapaces queden garantizados, de ser necesario sugerirá las modificaciones respectivas.
+
+En la etapa de conciliación el juez mencionará los inconvenientes que conlleva la tramitación de un juicio y los instruirá de los alcances de una transacción.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, G.G. 19 DE FEBRERO DE 2009)</small>
+
+Conciliación parcial
+
+###### Artículo 5.
+
+54.- Si las partes logran conciliar parcialmente sus diferencias, cuando la naturaleza de la litis lo permita, el juez aprobará el convenio y continuará la controversia con los puntos que no fueron objeto de éste.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, G.G. 19 DE FEBRERO DE 2009)</small>
+
+Fase de depuración procesal
+
+###### Articulo 5.
+
+55.- Si no comparece alguna de las partes, no se logrará la conciliación o subsisten puntos litigiosos, el juez resolverá, en su caso, sobre las excepciones procesales y la cosa juzgada, con el fin de depurar el proceso y ordenará el desahogo de algún medio de prueba, si así lo estima pertinente.
+
+La excepción de falta de personalidad del actor o en la objeción que se haga a la del represente al demandado, de declararse fundadas, si fuera subsanable la causa, se otorgará un plazo de diez días para tal efecto, de no hacerlo, si se trata del actor se sobreseerá la controversia; y del demandado, se seguirá en rebeldía.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, G.G. 19 DE FEBRERO DE 2009)</small>
+
+Admisión de medios de prueba
+
+###### Artículo 5.
+
+56.- El juez procederá a admitir los medios de prueba ofrecidos en la demanda, reconvención y contestación a éstas, y las relacionadas con la objeción de documentos y tendrá por desahogadas las que su naturaleza así lo permita; dictará las medidas necesarias para preparar el desahogo de las restantes en la audiencia principal o fuera de ésta.
+
+Cuando se advierta la falta de algún requisito en el ofrecimiento de una prueba, el juez requerirá a la oferente para que lo subsane en ese acto, de no hacerlo en sus términos, la inadmitirá.
+
+En los asuntos donde se controviertan derechos de menores e incapaces o en materia de alimentos a favor del acreedor alimentario, el juez podrá ordenar el desahogo y práctica de cualquier medio probatorio.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, G.G. 19 DE FEBRERO DE 2009)</small>
+
+Desahogo de pruebas fuera de audiencia
+
+###### Artículo 5.
+
+57.- El desahogo de las pruebas fuera del local del juzgado pero dentro de su ámbito de competencia territorial, se realizará en los días, horas y lugares que señale el juez, pero antes de la audiencia principal, para lo cual, dictará las medidas conducentes.
+
+En el auto en que se admitan medios de prueba, se dejará a disposición del oferente el oficio o exhorto respectivo para que realice los trámites necesarios a fin de exhibirlo debidamente diligenciado hasta la fecha de la audiencia principal, con el apercibimiento de la deserción de la prueba.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, G.G. 19 DE FEBRERO DE 2009)</small>
+
+Revisión de las medidas provisionales
+
+###### Artículo 5.
+
+58.- Las medidas provisionales serán revisadas, a través del análisis conjunto de lo manifestado por las partes y las documentales exhibidas. El juez determinará las que perdurarán durante la tramitación del proceso, y sólo podrán ser modificadas en sentencia definitiva.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, G.G. 19 DE FEBRERO DE 2009)</small>
+
+Día y hora de la audiencia principal
+
+### CAPITULO I. Disposiciones Generales
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, G.G. 19 DE FEBRERO DE 2009)</small>
+
+Reglas de las controversias
+
+###### Artículo 5.
+
+59.- El juez señalará día y hora para la celebración de la audiencia principal dentro de los quince días siguientes, en la que recibirá las pruebas pendientes de desahogo, se formularán alegatos y, en su caso, dictará la resolución definitiva.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, G.G. 19 DE FEBRERO DE 2009)</small>
+
+Recepción de alegatos
+
+###### Artículo 5.
+
+60.- Si las pruebas admitidas, por su naturaleza, fueron desahogadas y el juez no considera la recepción de otra, se recibirán alegatos y, en su caso, dictará sentencia.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.G. 19 DE FEBRERO DE 2009)</small>
+
+###### Artículo 5.
+
+40.- La demanda, la reconvención y contestación a éstas, se regularán por lo previsto en el Libro Segundo, en lo que no se oponga al presente capítulo.
+
+> <small>(ADICIONADO, G.G. 6 DE SEPTIEMBRE DE 2011)</small>
+
+En las controversias de la fracción I del artículo 5.2 del presente ordenamiento no se requerirán formalidades especiales para acudir ante el Juez, y los jueces y tribunales deberán suplir la deficiencia de la queja en sus planteamientos de derecho.
+
+En la demanda, reconvención y contestación a éstas, se ofrecerán las pruebas respectivas.
+
+Además de los medios de prueba que este código establece, las partes podrán ofrecer la declaración de parte, sin más requisitos que los establecidos en este capítulo.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, G.G. 19 DE FEBRERO DE 2009)</small>
+
+Presentación de documentos
+
+###### Artículo 5.
+
+41.- La presentación de documentos públicos podrá hacerse en copia simple, si el interesado manifiesta que carece de otra fehaciente, pero no producirá efectos, si no son exhibidos dentro de la audiencia inicial con los requisitos legales necesarios.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, G.G. 19 DE FEBRERO DE 2009)</small>
+
+Excepciones supervenientes
+
+###### Artículo 5.
+
+42.- Las excepciones supervenientes y los medios para acreditarlas, se harán valer a más tardar en la audiencia principal, antes de la etapa de alegatos.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, G.G. 19 DE FEBRERO DE 2009)</small>
+
+Orden de descuento para alimentos
+
+###### Artículo 5.
+
+43.- En el auto admisorio de demanda, si el juez considera acreditada la obligación alimentaria, de oficio determinará el monto de la pensión alimenticia provisional y ordenará se realicen los descuentos correspondientes por la vía que considere más rápida.
+
+> <small>(ADICIONADO, G.G. 6 DE SEPTIEMBRE DE 2011)</small>
+
+El Juez girará oficio al centro laboral del demandado, al Instituto de la Función Registral del Estado de México, a las instituciones de seguridad social o a la Secretaría de Hacienda y Crédito Público, para que informen sobre sueldos, prestaciones, ingresos y bienes declarados por el deudor alimentario.
+
+La orden de descuento de los alimentos o el informe solicitado, se atenderá de inmediato por el responsable de la fuente laboral o del área de recursos humanos, y dará respuesta dentro del término de tres días, con el apercibimiento que de no hacerlo se les aplicará una multa o arresto de hasta treinta y seis horas; sin perjuicio de la responsabilidad solidaria con el deudor alimentario.
+
+Cuando no se acredite la capacidad económica del deudor alimentario, en atención a las circunstancias especiales del caso, se fijará en salarios mínimos, sin que pueda ser inferior a uno.
+
+Fuera de los casos anteriores, se ordenará requerir al deudor alimentario sobre el pago inmediato de dicha pensión provisional, embargando, en su caso, bienes de su propiedad que garanticen su cumplimiento.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, G.G. 19 DE FEBRERO DE 2009)</small>
+
+Medidas provisionales
+
+###### Artículo 5.
+
+44.- Cuando se controviertan derechos de menores o incapaces, el juez podrá dictar las medidas provisionales que estime pertinentes para salvaguardar los derechos de aquellos, ya sea a petición de parte o de oficio, con conocimiento de la posición de las partes sobre el particular.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, G.G. 19 DE FEBRERO DE 2009)</small>
+
+Revisión de las medidas provisionales
+
+###### Artículo 5.
+
+45.- Las medidas provisionales serán revisadas de oficio y, en su caso, modificadas en la audiencia inicial en la que, inclusive, podrán dictarse otras.
+
+Las resoluciones provisionales dictadas en la audiencia inicial sólo podrán modificarse en sentencia definitiva.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, G.G. 19 DE FEBRERO DE 2009)</small>
+
+Fecha para la celebración de la audiencia inicial
+
+###### Artículo 5.
+
+46.- En el auto que tenga por contestada la demanda o reconvención, en su caso, se citará a las partes a la audiencia inicial a verificarse dentro de los cinco días siguientes.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, G.G. 19 DE FEBRERO DE 2009)</small>
+
+Apercibimiento para el caso de inasistencia
+
+###### Artículo 5.
+
+47.- El juez apercibirá a las partes, que para el caso de inasistencia a la audiencia inicial, se impondrá una multa de hasta cincuenta días de salario mínimo vigente en el área de residencia del juzgado, que se aplicará a favor del Fondo Auxiliar de la Administración de Justicia, excepto cuando el demandado no haya producido contestación ni cuando a su juicio se cause un perjuicio mayor.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, G.G. 19 DE FEBRERO DE 2009)</small>
+
+Citación personal para la audiencia inicial
+
+###### Artículo 5.
+
+48.- La citación a la audiencia inicial se realizará mediante notificación personal a las partes.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, G.G. 19 DE FEBRERO DE 2009)</small>
+
+Trámite sumario
+
+###### Artículo 5.
+
+49.- En las controversias sobre estado civil de las personas, queda a criterio del juez realizar o no la etapa de conciliación, si no se afectan intereses de la colectividad.
+
+De no ser procedente la conciliación por la naturaleza del asunto, en el auto que tenga por contestada la demanda o reconvención, el juez procederá a: depurar el proceso, proveer sobre las probanzas ofrecidas, dictar las medidas para preparar el desahogo de pruebas, revisar de oficio o modificar, en su caso, las medidas provisionales, y, fijar día y hora para la celebración de la audiencia principal.
+
+De no existir prueba pendiente por desahogar y el juez no estime necesaria la recepción de alguna, se señalará fecha, dentro de los cinco días siguientes, para la audiencia de alegatos y sentencia que podrá dictarse en la propia audiencia o dentro del plazo legal respectivo.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.G. 19 DE FEBRERO DE 2009)</small>
+
+###### Artículo 5.
+
+61.- La audiencia principal se desarrollará de la siguiente manera:
+
+I. Abierta la audiencia, el secretario hará saber su objeto, llamará a las partes, peritos, testigos y demás personas que intervendrán, y precisará quiénes permanecerán en el recinto.
+
+II. Se recibirán los medios de prueba, de preferencia, en el orden que fueron ofrecidos.
+
+III. Desahogadas las probanzas, se formularán alegatos, por un tiempo prudente a juicio del juez, sin derecho a réplica.
+
+IV. El juez dictará la sentencia que contendrá los motivos y fundamentos del fallo; su lectura podrá efectuarse de manera resumida.
+
+De no dictar la sentencia en la audiencia, por la complejidad del asunto, se citará a las partes para oírla dentro de un plazo de diez días.
+
+De la sentencia quedará constancia íntegra por escrito; una copia, se pondrá a disposición de las partes en la secretaría respectiva.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, G.G. 19 DE FEBRERO DE 2009)</small>
+
+Causas de suspensión de la audiencia
+
+###### Artículo 5.
+
+62.- La audiencia principal sólo se suspenderá por motivo excepcional a juicio del juez.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, G.G. 19 DE FEBRERO DE 2009)</small>
+
+De los incidentes
+
+###### Artículo 5.
+
+63.- Los incidentes se formularán con ofrecimiento de pruebas durante la audiencia y previa vista a la contraria, se resolverán en la propia audiencia.
+
+Sólo será admisible la documental y presuncional, salvo que el juez estime el desahogo de algún otro medio de prueba para mejor proveer.
+
+El incidente de nulidad no suspende la citación para sentencia.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, G.G. 19 DE FEBRERO DE 2009)</small>
+
+Recepción de pruebas después de la audiencia principal
+
+###### Artículo 5.
+
+64.- El juez ordenará el desahogo de las pruebas admitidas que no hayan sido recibidas en la audiencia principal por causas ajenas al oferente; y señalará nuevo día y hora para la continuación de la audiencia, en un plazo no mayor a cinco días.
+
+El juez dictará las providencias necesarias para su desahogo.
+
+Cuando se hayan solicitado informes de autoridades o particulares, se les requerirá para que, a la brevedad, los rindan. Una vez agotadas las medidas de apremio que se estimen conducentes, el juez podrá tenerlas por desiertas y señalará fecha dentro de los cinco días siguientes para la continuación de la audiencia.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.G. 19 DE FEBRERO DE 2009)</small>
+
+###### Artículo 5.
+
+65.- En los asuntos relacionados con divorcio necesario, desde la etapa conciliatoria hasta la de alegatos, las partes de común acuerdo, podrán solicitar la suspensión de la audiencia, siempre que expresen su voluntad de disolver su vínculo matrimonial por mutuo consentimiento, al efecto, exhibirán o elaborarán en ese acto, el convenio a que se refiere el artículo 4.102 del Código Civil del Estado.
+
+Para ello, deberán estar agregadas las copias certificadas de las actas de matrimonio y de nacimiento de los menores hijos, en su caso.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, G.G. 19 DE FEBRERO DE 2009)</small>
+
+Vista al Ministerio Público
+
+###### Artículo 5.
+
+66.- De la solicitud del divorcio por mutuo consentimiento y del convenio, se dará vista al Ministerio Público cuando estén involucrados derechos de menores o incapaces.
+
+El Ministerio Público adscrito desahogará la vista en la propia audiencia.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, G.G. 19 DE FEBRERO DE 2009)</small>
+
+Análisis del convenio
+
+###### Artículo 5.
+
+67.- En la misma audiencia, el juez analizará el convenio y señalará a los cónyuges los puntos que no se apeguen a derecho o que considere inequitativos, para que los corrijan.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, G.G. 19 DE FEBRERO DE 2009)</small>
+
+Aprobación del convenio
+
+###### Artículo 5.
+
+68.- De encontrar apegado a derecho el convenio y de estar garantizados los derechos de los menores o incapaces, el juez dictará resolución.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, G.G. 19 DE FEBRERO DE 2009)</small>
+
+Derechos de tercero
+
+###### Artículo 5.
+
+69.- En lo relativo a la administración y liquidación de la sociedad conyugal, quedan a salvo los derechos de terceros.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, G.G. 19 DE FEBRERO DE 2009)</small>
+
+Sentencia irrecurrible
+
+###### Artículo 5.
+
+70.- la sentencia que declare la disolución del vínculo matrimonial es irrecurrible.
+
+Se procederá inmediatamente a su ejecución en el mismo expediente.
+
+El juez podrá dictar las medidas necesarias para su ejecución.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, G.G. 19 DE FEBRERO DE 2009)</small>
+
+Levantamiento de la suspensión de la audiencia
+
+###### Artículo 5.
+
+71.- De no decretarse el divorcio por mutuo consentimiento se continuará con la audiencia respectiva.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, G.G. 19 DE FEBRERO DE 2009)</small>
+
+Efectos de la solicitud de suspensión
+
+### CAPITULO II. Actos Procesales en General
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, G.G. 19 DE FEBRERO DE 2009)</small>
+
+Peticiones orales
+
+###### Artículo 5.
+
+72.- La solicitud de suspensión de la audiencia no constituye perdón tácito en relación a los hechos del divorcio necesario.
+
+Sólo la sentencia que decrete el divorcio por mutuo consentimiento constituirá la extinción de las pretensiones relacionadas con la controversia del orden familiar.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, G.G. 19 DE FEBRERO DE 2009)</small>
+
+Aplicación supletoria
+
+###### Artículo 5.
+
+73.- Se aplicarán en lo conducente las disposiciones del divorcio por mutuo consentimiento.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.G. 19 DE FEBRERO DE 2009)</small>
+
+###### Artículo 5.
+
+74.- Los autos y decretos dictados fuera de audiencia serán revocables conforme a las reglas generales.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, G.G. 19 DE FEBRERO DE 2009)</small>
+
+De la revocación en audiencia
+
+###### Artículo 5.
+
+75.- En audiencia, el recurso de revocación sólo procede en contra de:
+
+I. El auto que resuelva excepciones procesales;
+
+II. El que inadmita pruebas;
+
+III. El auto que declare o niegue tener por confesa a alguna de las partes; y
+
+IV. El que resuelva sobre la revisión de medidas provisionales.
+
+Los demás decretos y autos dictados en audiencia serán irrecurribles.
+
+La revocación sólo podrá plantearse en la audiencia y al momento de emitirse el auto o decreto. Interpuesta, el juez dará vista a la contraria, de estar presente, para que en el acto la desahogue y dictará resolución.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, G.G. 19 DE FEBRERO DE 2009)</small>
+
+De la apelación
+
+###### Artículo 5.
+
+76.- la apelación procede en contra de:
+
+I. las resoluciones que ponen fin a la controversia;
+
+II. El auto interlocutorio que resuelva sobre incompetencia; y
+
+III. Las resoluciones interlocutorias y definitivas.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, G.G. 19 DE FEBRERO DE 2009)</small>
+
+Apelación de la sentencia que concede alimentos
+
+###### Artículo 5.
+
+77.- La sentencia que concede alimentos será apelable sin efecto suspensivo.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, G.G. 19 DE FEBRERO DE 2009)</small>
+
+Tramite de la apelación
+
+###### Artículo 5.
+
+78.- El trámite y substanciación del recurso de apelación, se sujetará a las disposiciones generales de este código, con la salvedad de que en el auto de la calificación del grado, en su caso, se realizará el turno respectivo para su resolución.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, G.G. 19 DE FEBRERO DE 2009)</small>
+
+Recepción dé pruebas en segunda instancia
+
+###### Artículo 5.
+
+79.- La Sala podrá ordenar la recepción o ampliación de pruebas, cuando se trate asuntos que afecten los derechos de menores o incapaces y en materia de alimentos a favor del acreedor alimentario.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, G.G. 19 DE FEBRERO DE 2009)</small>
+
+Reposición del procedimiento
+
+### CAPITULO III. De la Pruebas
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, G.G. 19 DE FEBRERO DE 2009)</small>
+
+Requisitos de los medios de prueba
+
+###### Artículo 5.
+
+80.- Sólo podrá decretarse la reposición del procedimiento con reenvío al juzgado de origen, por ausencia de algún presupuesto procesal esencial o por una violación procesal manifiesta, cuando haya trascendido al resultado del fallo; o bien, cuando en suplencia de la queja de menores o incapaces y en materia de alimentos a favor del acreedor alimentario, estime necesario el desahogo de medios probatorios.
+
+> <small>(ADICIONADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, G.G. 19 DE FEBRERO DE 2009)</small>
 
 ###### Artículo 5.
 
 1.- Las controversias sobre el estado civil de las personas y del derecho familiar, se tramitarán de acuerdo con las reglas que se señalan en este Libro, y en lo no previsto, con las del Libro Segundo de este ordenamiento.
+
+> <small>(ADICIONADO, G.G. 6 DE SEPTIEMBRE DE 2011)</small>
+
+Las controversias de derecho familiar, se consideran de orden público por constituir la base de la integración de la sociedad, estando facultado el juzgador para actuar de oficio, especialmente tratándose de menores, discapacitados, en materia de alimentos y de las cuestiones relacionadas con violencia familiar, decretando las medidas cautelares tendentes a preservar la familia y a proteger a sus miembros.
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
@@ -7304,14 +7786,6 @@ Suplencia de la queja
 > <small>(ADICIONADO, G.G. 19 DE FEBRERO DE 2009)</small>
 
 Determinaciones orales
-
-### CAPITULO VI. De la Audiencia Principal
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
-
-> <small>(ADICIONADO, G.G. 19 DE FEBRERO DE 2009)</small>
-
-Desarrollo de la audiencia principal
 
 ###### Artículo 5.
 
@@ -7489,7 +7963,9 @@ Conservación del registro de las audiencias
 
 Prohibición para grabar audiencias
 
-Artículo.5.25.- Queda prohibido utilizar equipos de telefonía, grabación y videograbación en el recinto oficial.
+###### Artículo 5.
+
+25.- Queda prohibido utilizar equipos de telefonía, grabación y videograbación en el recinto oficial.
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
@@ -7555,7 +8031,7 @@ De los juicios especiales y procedimientos no contenciosos
 
 31.- Son aplicables a los juicios especiales y procedimientos no contenciosos relacionados con derecho familiar y el estado civil de las personas, en lo conducente, las reglas señaladas en el presente libro.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.G. 19 DE FEBRERO DE 2009)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 19 DE FEBRERO DE 2009)</small>
 
 ###### Artículo 5.
 
@@ -7602,14 +8078,6 @@ El juez interrogará al declarante cuando lo estime pertinente.
 > <small>(ADICIONADO, G.G. 19 DE FEBRERO DE 2009)</small>
 
 Declaración de parte y confesional
-
-### CAPITULO VII. Cambio de Vía en el Divorcio Necesario
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
-
-> <small>(ADICIONADO, G.G. 19 DE FEBRERO DE 2009)</small>
-
-Solicitud de divorcio por mutuo consentimiento
 
 ###### Articulo 5.
 
@@ -7714,494 +8182,6 @@ Oposición al desahogo de pruebas
 ###### Artículo 5.
 
 39.- Se tendrán por ciertos los hechos que pretendan acreditar las partes al ofrecer los medios de prueba: cuando su contraria impida u obstaculice de cualquier forma su desahogo, no presente a los menores que tenga bajo su custodia y cuando no exhiba algún documento o instrumento de acreditarse que los tiene a su disposición.
-
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.G. 19 DE FEBRERO DE 2009)</small>
-
-###### Artículo 5.
-
-40.- La demanda, la reconvención y contestación a éstas, se regularán por lo previsto en el Libro Segundo, en lo que no se oponga al presente capítulo.
-
-En la demanda, reconvención y contestación a éstas, se ofrecerán las pruebas respectivas.
-
-Además de los medios de prueba que este código establece, las partes podrán ofrecer la declaración de parte, sin más requisitos que los establecidos en este capítulo.
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
-
-> <small>(ADICIONADO, G.G. 19 DE FEBRERO DE 2009)</small>
-
-Presentación de documentos
-
-###### Artículo 5.
-
-41.- La presentación de documentos públicos podrá hacerse en copia simple, si el interesado manifiesta que carece de otra fehaciente, pero no producirá efectos, si no son exhibidos dentro de la audiencia inicial con los requisitos legales necesarios.
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
-
-> <small>(ADICIONADO, G.G. 19 DE FEBRERO DE 2009)</small>
-
-Excepciones supervenientes
-
-### CAPITULO VIII. De los Recursos
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
-
-> <small>(ADICIONADO, G.G. 19 DE FEBRERO DE 2009)</small>
-
-Revocación fuera de audiencia
-
-###### Artículo 5.
-
-42.- Las excepciones supervenientes y los medios para acreditarlas, se harán valer a más tardar en la audiencia principal, antes de la etapa de alegatos.
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
-
-> <small>(ADICIONADO, G.G. 19 DE FEBRERO DE 2009)</small>
-
-Orden de descuento para alimentos
-
-###### Artículo 5.
-
-43.- En el auto admisorio de demanda, si el juez considera acreditada la obligación alimentaria, de oficio determinará el monto de la pensión alimenticia provisional y ordenará se realicen los descuentos correspondientes por la vía que considere más rápida.
-
-La orden de descuento de los alimentos o el informe solicitado, se atenderá de inmediato por el responsable de la fuente laboral o del área de recursos humanos, y dará respuesta dentro del término de tres días, con el apercibimiento que de no hacerlo se les aplicará una multa o arresto de hasta treinta y seis horas; sin perjuicio de la responsabilidad solidaria con el deudor alimentario.
-
-Cuando no se acredite la capacidad económica del deudor alimentario, en atención a las circunstancias especiales del caso, se fijará en salarios mínimos, sin que pueda ser inferior a uno.
-
-Fuera de los casos anteriores, se ordenará requerir al deudor alimentario sobre el pago inmediato de dicha pensión provisional, embargando, en su caso, bienes de su propiedad que garanticen su cumplimiento.
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
-
-> <small>(ADICIONADO, G.G. 19 DE FEBRERO DE 2009)</small>
-
-Medidas provisionales
-
-###### Artículo 5.
-
-44.- Cuando se controviertan derechos de menores o incapaces, el juez podrá dictar las medidas provisionales que estime pertinentes para salvaguardar los derechos de aquellos, ya sea a petición de parte o de oficio, con conocimiento de la posición de las partes sobre el particular.
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
-
-> <small>(ADICIONADO, G.G. 19 DE FEBRERO DE 2009)</small>
-
-Revisión de las medidas provisionales
-
-###### Artículo 5.
-
-45.- Las medidas provisionales serán revisadas de oficio y, en su caso, modificadas en la audiencia inicial en la que, inclusive, podrán dictarse otras.
-
-Las resoluciones provisionales dictadas en la audiencia inicial sólo podrán modificarse en sentencia definitiva.
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
-
-> <small>(ADICIONADO, G.G. 19 DE FEBRERO DE 2009)</small>
-
-Fecha para la celebración de la audiencia inicial
-
-###### Artículo 5.
-
-46.- En el auto que tenga por contestada la demanda o reconvención, en su caso, se citará a las partes a la audiencia inicial a verificarse dentro de los cinco días siguientes.
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
-
-> <small>(ADICIONADO, G.G. 19 DE FEBRERO DE 2009)</small>
-
-Apercibimiento para el caso de inasistencia
-
-###### Artículo 5.
-
-47.- El juez apercibirá a las partes, que para el caso de inasistencia a la audiencia inicial, se impondrá una multa de hasta cincuenta días de salario mínimo vigente en el área de residencia del juzgado, que se aplicará a favor del Fondo Auxiliar de la Administración de Justicia, excepto cuando el demandado no haya producido contestación ni cuando a su juicio se cause un perjuicio mayor.
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
-
-> <small>(ADICIONADO, G.G. 19 DE FEBRERO DE 2009)</small>
-
-Citación personal para la audiencia inicial
-
-###### Artículo 5.
-
-48.- La citación a la audiencia inicial se realizará mediante notificación personal a las partes.
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
-
-> <small>(ADICIONADO, G.G. 19 DE FEBRERO DE 2009)</small>
-
-Trámite sumario
-
-###### Artículo 5.
-
-49.- En las controversias sobre estado civil de las personas, queda a criterio del juez realizar o no la etapa de conciliación, si no se afectan intereses de la colectividad.
-
-De no ser procedente la conciliación por la naturaleza del asunto, en el auto que tenga por contestada la demanda o reconvención, el juez procederá a: depurar el proceso, proveer sobre las probanzas ofrecidas, dictar las medidas para preparar el desahogo de pruebas, revisar de oficio o modificar, en su caso, las medidas provisionales, y, fijar día y hora para la celebración de la audiencia principal.
-
-De no existir prueba pendiente por desahogar y el juez no estime necesaria la recepción de alguna, se señalará fecha, dentro de los cinco días siguientes, para la audiencia de alegatos y sentencia que podrá dictarse en la propia audiencia o dentro del plazo legal respectivo.
-
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.G. 19 DE FEBRERO DE 2009)</small>
-
-###### Artículo 5.
-
-50.- La audiencia inicial comprenderá:
-
-I. Enunciación de la litis;
-
-II. Fase conciliatoria;
-
-III. Fase de depuración procesal;
-
-IV. Admisión y preparación de pruebas; y
-
-V. Revisión de las medidas provisionales.
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
-
-> <small>(ADICIONADO, G.G. 19 DE FEBRERO DE 2009)</small>
-
-Inasistencia de las partes
-
-###### Artículo 5.
-
-51.- De inasistir las partes a la audiencia inicial, ésta se verificará de manera reservada, sin necesidad de que sea video o audiograbada; sólo se instrumentará un acta en la que se puntualizarán los acuerdos y providencias que se lleguen a emitir en el desahogo de cada fase.
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
-
-> <small>(ADICIONADO, G.G. 19 DE FEBRERO DE 2009)</small>
-
-Enunciación de la litis
-
-###### Artículo 5.
-
-52.- Declarada abierta la audiencia inicial, el juez precisará sucintamente las pretensiones de las partes.
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
-
-> <small>(ADICIONADO, G.G. 19 DE FEBRERO DE 2009)</small>
-
-Fase conciliatoria
-
-###### Artículo 5.
-
-53.- El juez procurará conciliar a las partes, de lograrlo, se formulará el convenio respectivo. Para aprobarlo, el juez vigilará que los derechos de los menores o incapaces queden garantizados, de ser necesario sugerirá las modificaciones respectivas.
-
-En la etapa de conciliación el juez mencionará los inconvenientes que conlleva la tramitación de un juicio y los instruirá de los alcances de una transacción.
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
-
-> <small>(ADICIONADO, G.G. 19 DE FEBRERO DE 2009)</small>
-
-Conciliación parcial
-
-###### Artículo 5.
-
-54.- Si las partes logran conciliar parcialmente sus diferencias, cuando la naturaleza de la litis lo permita, el juez aprobará el convenio y continuará la controversia con los puntos que no fueron objeto de éste.
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
-
-> <small>(ADICIONADO, G.G. 19 DE FEBRERO DE 2009)</small>
-
-Fase de depuración procesal
-
-###### Articulo 5.
-
-55.- Si no comparece alguna de las partes, no se logrará la conciliación o subsisten puntos litigiosos, el juez resolverá, en su caso, sobre las excepciones procesales y la cosa juzgada, con el fin de depurar el proceso y ordenará el desahogo de algún medio de prueba, si así lo estima pertinente.
-
-La excepción de falta de personalidad del actor o en la objeción que se haga a la del represente al demandado, de declararse fundadas, si fuera subsanable la causa, se otorgará un plazo de diez días para tal efecto, de no hacerlo, si se trata del actor se sobreseerá la controversia; y del demandado, se seguirá en rebeldía.
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
-
-> <small>(ADICIONADO, G.G. 19 DE FEBRERO DE 2009)</small>
-
-Admisión de medios de prueba
-
-###### Artículo 5.
-
-56.- El juez procederá a admitir los medios de prueba ofrecidos en la demanda, reconvención y contestación a éstas, y las relacionadas con la objeción de documentos y tendrá por desahogadas las que su naturaleza así lo permita; dictará las medidas necesarias para preparar el desahogo de las restantes en la audiencia principal o fuera de ésta.
-
-Cuando se advierta la falta de algún requisito en el ofrecimiento de una prueba, el juez requerirá a la oferente para que lo subsane en ese acto, de no hacerlo en sus términos, la inadmitirá.
-
-En los asuntos donde se controviertan derechos de menores e incapaces o en materia de alimentos a favor del acreedor alimentario, el juez podrá ordenar el desahogo y práctica de cualquier medio probatorio.
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
-
-> <small>(ADICIONADO, G.G. 19 DE FEBRERO DE 2009)</small>
-
-Desahogo de pruebas fuera de audiencia
-
-###### Artículo 5.
-
-57.- El desahogo de las pruebas fuera del local del juzgado pero dentro de su ámbito de competencia territorial, se realizará en los días, horas y lugares que señale el juez, pero antes de la audiencia principal, para lo cual, dictará las medidas conducentes.
-
-En el auto en que se admitan medios de prueba, se dejará a disposición del oferente el oficio o exhorto respectivo para que realice los trámites necesarios a fin de exhibirlo debidamente diligenciado hasta la fecha de la audiencia principal, con el apercibimiento de la deserción de la prueba.
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
-
-> <small>(ADICIONADO, G.G. 19 DE FEBRERO DE 2009)</small>
-
-Revisión de las medidas provisionales
-
-###### Artículo 5.
-
-58.- Las medidas provisionales serán revisadas, a través del análisis conjunto de lo manifestado por las partes y las documentales exhibidas. El juez determinará las que perdurarán durante la tramitación del proceso, y sólo podrán ser modificadas en sentencia definitiva.
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
-
-> <small>(ADICIONADO, G.G. 19 DE FEBRERO DE 2009)</small>
-
-Día y hora de la audiencia principal
-
-###### Artículo 5.
-
-59.- El juez señalará día y hora para la celebración de la audiencia principal dentro de los quince días siguientes, en la que recibirá las pruebas pendientes de desahogo, se formularán alegatos y, en su caso, dictará la resolución definitiva.
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
-
-> <small>(ADICIONADO, G.G. 19 DE FEBRERO DE 2009)</small>
-
-Recepción de alegatos
-
-###### Artículo 5.
-
-60.- Si las pruebas admitidas, por su naturaleza, fueron desahogadas y el juez no considera la recepción de otra, se recibirán alegatos y, en su caso, dictará sentencia.
-
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.G. 19 DE FEBRERO DE 2009)</small>
-
-###### Artículo 5.
-
-61.- La audiencia principal se desarrollará de la siguiente manera:
-
-I. Abierta la audiencia, el secretario hará saber su objeto, llamará a las partes, peritos, testigos y demás personas que intervendrán, y precisará quiénes permanecerán en el recinto.
-
-II. Se recibirán los medios de prueba, de preferencia, en el orden que fueron ofrecidos.
-
-III. Desahogadas las probanzas, se formularán alegatos, por un tiempo prudente a juicio del juez, sin derecho a réplica.
-
-IV. El juez dictará la sentencia que contendrá los motivos y fundamentos del fallo; su lectura podrá efectuarse de manera resumida.
-
-De no dictar la sentencia en la audiencia, por la complejidad del asunto, se citará a las partes para oírla dentro de un plazo de diez días.
-
-De la sentencia quedará constancia íntegra por escrito; una copia, se pondrá a disposición de las partes en la secretaría respectiva.
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
-
-> <small>(ADICIONADO, G.G. 19 DE FEBRERO DE 2009)</small>
-
-Causas de suspensión de la audiencia
-
-###### Artículo 5.
-
-62.- La audiencia principal sólo se suspenderá por motivo excepcional a juicio del juez.
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
-
-> <small>(ADICIONADO, G.G. 19 DE FEBRERO DE 2009)</small>
-
-De los incidentes
-
-###### Artículo 5.
-
-63.- Los incidentes se formularán con ofrecimiento de pruebas durante la audiencia y previa vista a la contraria, se resolverán en la propia audiencia.
-
-Sólo será admisible la documental y presuncional, salvo que el juez estime el desahogo de algún otro medio de prueba para mejor proveer.
-
-El incidente de nulidad no suspende la citación para sentencia.
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
-
-> <small>(ADICIONADO, G.G. 19 DE FEBRERO DE 2009)</small>
-
-Recepción de pruebas después de la audiencia principal
-
-###### Artículo 5.
-
-64.- El juez ordenará el desahogo de las pruebas admitidas que no hayan sido recibidas en la audiencia principal por causas ajenas al oferente; y señalará nuevo día y hora para la continuación de la audiencia, en un plazo no mayor a cinco días.
-
-El juez dictará las providencias necesarias para su desahogo.
-
-Cuando se hayan solicitado informes de autoridades o particulares, se les requerirá para que, a la brevedad, los rindan. Una vez agotadas las medidas de apremio que se estimen conducentes, el juez podrá tenerlas por desiertas y señalará fecha dentro de los cinco días siguientes para la continuación de la audiencia.
-
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.G. 19 DE FEBRERO DE 2009)</small>
-
-###### Artículo 5.
-
-65.- En los asuntos relacionados con divorcio necesario, desde la etapa conciliatoria hasta la de alegatos, las partes de común acuerdo, podrán solicitar la suspensión de la audiencia, siempre que expresen su voluntad de disolver su vínculo matrimonial por mutuo consentimiento, al efecto, exhibirán o elaborarán en ese acto, el convenio a que se refiere el artículo 4.102 del Código Civil del Estado.
-
-Para ello, deberán estar agregadas las copias certificadas de las actas de matrimonio y de nacimiento de los menores hijos, en su caso.
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
-
-> <small>(ADICIONADO, G.G. 19 DE FEBRERO DE 2009)</small>
-
-Vista al Ministerio Público
-
-###### Artículo 5.
-
-66.- De la solicitud del divorcio por mutuo consentimiento y del convenio, se dará vista al Ministerio Público cuando estén involucrados derechos de menores o incapaces.
-
-El Ministerio Público adscrito desahogará la vista en la propia audiencia.
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
-
-> <small>(ADICIONADO, G.G. 19 DE FEBRERO DE 2009)</small>
-
-Análisis del convenio
-
-###### Artículo 5.
-
-67.- En la misma audiencia, el juez analizará el convenio y señalará a los cónyuges los puntos que no se apeguen a derecho o que considere inequitativos, para que los corrijan.
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
-
-> <small>(ADICIONADO, G.G. 19 DE FEBRERO DE 2009)</small>
-
-Aprobación del convenio
-
-###### Artículo 5.
-
-68.- De encontrar apegado a derecho el convenio y de estar garantizados los derechos de los menores o incapaces, el juez dictará resolución.
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
-
-> <small>(ADICIONADO, G.G. 19 DE FEBRERO DE 2009)</small>
-
-Derechos de tercero
-
-###### Artículo 5.
-
-69.- En lo relativo a la administración y liquidación de la sociedad conyugal, quedan a salvo los derechos de terceros.
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
-
-> <small>(ADICIONADO, G.G. 19 DE FEBRERO DE 2009)</small>
-
-Sentencia irrecurrible
-
-###### Artículo 5.
-
-70.- la sentencia que declare la disolución del vínculo matrimonial es irrecurrible.
-
-Se procederá inmediatamente a su ejecución en el mismo expediente.
-
-El juez podrá dictar las medidas necesarias para su ejecución.
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
-
-> <small>(ADICIONADO, G.G. 19 DE FEBRERO DE 2009)</small>
-
-Levantamiento de la suspensión de la audiencia
-
-###### Artículo 5.
-
-71.- De no decretarse el divorcio por mutuo consentimiento se continuará con la audiencia respectiva.
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
-
-> <small>(ADICIONADO, G.G. 19 DE FEBRERO DE 2009)</small>
-
-Efectos de la solicitud de suspensión
-
-###### Artículo 5.
-
-72.- La solicitud de suspensión de la audiencia no constituye perdón tácito en relación a los hechos del divorcio necesario.
-
-Sólo la sentencia que decrete el divorcio por mutuo consentimiento constituirá la extinción de las pretensiones relacionadas con la controversia del orden familiar.
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
-
-> <small>(ADICIONADO, G.G. 19 DE FEBRERO DE 2009)</small>
-
-Aplicación supletoria
-
-###### Artículo 5.
-
-73.- Se aplicarán en lo conducente las disposiciones del divorcio por mutuo consentimiento.
-
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.G. 19 DE FEBRERO DE 2009)</small>
-
-###### Artículo 5.
-
-74.- Los autos y decretos dictados fuera de audiencia serán revocables conforme a las reglas generales.
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
-
-> <small>(ADICIONADO, G.G. 19 DE FEBRERO DE 2009)</small>
-
-De la revocación en audiencia
-
-###### Artículo 5.
-
-75.- En audiencia, el recurso de revocación sólo procede en contra de:
-
-I. El auto que resuelva excepciones procesales;
-
-II. El que inadmita pruebas;
-
-III. El auto que declare o niegue tener por confesa a alguna de las partes; y
-
-IV. El que resuelva sobre la revisión de medidas provisionales.
-
-Los demás decretos y autos dictados en audiencia serán irrecurribles.
-
-La revocación sólo podrá plantearse en la audiencia y al momento de emitirse el auto o decreto. Interpuesta, el juez dará vista a la contraria, de estar presente, para que en el acto la desahogue y dictará resolución.
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
-
-> <small>(ADICIONADO, G.G. 19 DE FEBRERO DE 2009)</small>
-
-De la apelación
-
-###### Artículo 5.
-
-76.- la apelación procede en contra de:
-
-I. las resoluciones que ponen fin a la controversia;
-
-II. El auto interlocutorio que resuelva sobre incompetencia; y
-
-III. Las resoluciones interlocutorias y definitivas.
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
-
-> <small>(ADICIONADO, G.G. 19 DE FEBRERO DE 2009)</small>
-
-Apelación de la sentencia que concede alimentos
-
-###### Artículo 5.
-
-77.- La sentencia que concede alimentos será apelable sin efecto suspensivo.
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
-
-> <small>(ADICIONADO, G.G. 19 DE FEBRERO DE 2009)</small>
-
-Tramite de la apelación
-
-###### Artículo 5.
-
-78.- El trámite y substanciación del recurso de apelación, se sujetará a las disposiciones generales de este código, con la salvedad de que en el auto de la calificación del grado, en su caso, se realizará el turno respectivo para su resolución.
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
-
-> <small>(ADICIONADO, G.G. 19 DE FEBRERO DE 2009)</small>
-
-Recepción dé pruebas en segunda instancia
-
-###### Artículo 5.
-
-79.- La Sala podrá ordenar la recepción o ampliación de pruebas, cuando se trate asuntos que afecten los derechos de menores o incapaces y en materia de alimentos a favor del acreedor alimentario.
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
-
-> <small>(ADICIONADO, G.G. 19 DE FEBRERO DE 2009)</small>
-
-Reposición del procedimiento
-
-###### Artículo 5.
-
-80.- Sólo podrá decretarse la reposición del procedimiento con reenvío al juzgado de origen, por ausencia de algún presupuesto procesal esencial o por una violación procesal manifiesta, cuando haya trascendido al resultado del fallo; o bien, cuando en suplencia de la queja de menores o incapaces y en materia de alimentos a favor del acreedor alimentario, estime necesario el desahogo de medios probatorios.
-
-> <small>(ADICIONADO CON EL TITULO, CAPITULOS Y ARTICULOS QUE LO INTEGRAN, G.G. 19 DE FEBRERO DE 2009)</small>
-
-###### Artículo 5.
-
-80.- Sólo podrá decretarse la reposición del procedimiento con reenvío al juzgado de origen, por ausencia de algún presupuesto procesal esencial o por una violación procesal manifiesta, cuando haya trascendido al resultado del fallo; o bien, cuando en suplencia de la queja de menores o incapaces y en materia de alimentos a favor del acreedor alimentario, estime necesario el desahogo de medios probatorios.
 
 T R A N S I T O R I O S
 
@@ -8348,3 +8328,11 @@ El uno de agosto de dos mil once, en los distritos judiciales de El Oro, Jilotep
 QUINTO.- Los procedimientos y actuaciones penales y civiles que se hayan iniciado con anterioridad a la entrada en vigor del presente Decreto, continuarán tramitándose hasta su conclusión de conformidad con las disposiciones jurídicas aplicables en ese momento.
 
 SEXTO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
+
+G.G. 6 DE SEPTIEMBRE DE 2011.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
