@@ -4,7 +4,7 @@ identifier: "MEX-codigo-penal-del-estado-de-mexico-16225"
 country: "mx"
 rank: "codigo"
 publication_date: "2000-03-20"
-last_updated: "2011-09-02"
+last_updated: "2011-09-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16225&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ CODIGO PENAL DEL ESTADO DE MEXICO
 
 > <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO EN EL ARTICULO TERCERO TRANSITORIO DEL DECRETO NUMERO 337, PUBLICADO EN LA G.G. DE 1 DE SEPTIEMBRE DE 2011, CUANDO EN OTROS ORDENAMIENTOS LEGALES, SE HAGA REFERENCIA AL TERMINO PERSONAS CON DISCAPACIDADES DIFERENTES, SE ENTENDERA QUE CORRESPONDE AL TERMINO PERSONAS CON DISCAPACIDAD</small>
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 2 DE SEPTIEMBRE DE 2011.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 6 DE SEPTIEMBRE DE 2011.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el lunes 20 de marzo del 2000.
 
@@ -1765,15 +1765,23 @@ Comete el delito de falso testimonio, el que:
 
 I. Interrogado por alguna autoridad pública o fedatario en ejercicio de sus funciones o con motivo de ellas, faltare a la verdad;
 
-II. Examinado por la autoridad judicial como testigo, faltare a la verdad en relación con el hecho que se trata de averiguar ya sea afirmando, negando u ocultando la existencia de alguna circunstancia que pueda servir de prueba sobre la verdad o falsedad del hecho principal, o que aumente o disminuya la gravedad.
+II. Examinado por la autoridad judicial como testigo, faltare a la verdad en relación con el hecho que se trata de averiguar ya sea afirmando, negando u ocultando la existencia de alguna circunstancia que pueda servir de prueba sobre la verdad o falsedad del hecho principal, o que aumente o disminuya la gravedad;
 
-La pena podrá ser de tres a quince años de prisión y de cien a quinientos días multa, para el testigo que fuere examinado en un procedimiento penal, cuando al inculpado se le haya impuesto una pena mayor de tres años de prisión y el testimonio falso haya servido de base para la condena;
+> <small>(DEROGADO SEGUNDO PARRAFO, G.G. 6 DE SEPTIEMBRE DE 2011)</small>
 
 III. Soborne a un testigo, a un perito o a un intérprete para que se produzca con falsedad en juicio; o los obligue o comprometa a ella en cualquier forma; y
 
 IV. Siendo perito o intérprete, afirmare una falsedad, negare o callare la verdad, al rendir un dictamen o hacer una traducción.
 
 Al responsable de este delito se le impondrán de dos a seis años de prisión y de treinta a setecientos cincuenta días multa.
+
+> <small>(ADICIONADO, G.G. 6 DE SEPTIEMBRE DE 2011)</small>
+
+Cuando la falsedad o el ocultamiento de la verdad a que se refiere la fracción I de este artículo, se hagan en procedimientos que versen sobre alimentos se le impondrán de tres a siete años de prisión y de cincuenta a mil días multa.
+
+> <small>(ADICIONADO, G.G. 6 DE SEPTIEMBRE DE 2011)</small>
+
+En el caso de la fracción II, la pena será de tres a quince años de prisión y de cien a quinientos días multa, para el testigo que fuere examinado en un procedimiento penal, cuando al inculpado se le haya impuesto una pena mayor de tres años de prisión y el testimonio falso haya servido de base para la condena.
 
 ###### Artículo 157.
 
@@ -2487,6 +2495,10 @@ Al inculpado de este delito, además de las sanciones señaladas, se le impondr�
 
 El inculpado de este delito, durante la investigación del mismo y al rendir su declaración, será apercibido por el Ministerio Público para que se abstenga de realizar cualquier conducta que pudiere causar daño a los pasivos.
 
+> <small>(ADICIONADO, G.G. 6 DE SEPTIEMBRE DE 2011)</small>
+
+En los casos de reincidencia del delito de incumplimiento de obligaciones alimentarias, las penas a que se refiere este artículo se incrementarán hasta en una mitad.
+
 > <small>(REFORMADA SU DENOMINACION, G.G. 6 DE MARZO DE 2010)</small>
 
 ### CAPITULO IV. OMISION DE AUXILIO A LESIONADOS
@@ -2596,6 +2608,8 @@ SUBTITULO SEPTIMO
 DELITOS CONTRA EL AMBIENTE
 
 ### CAPITULO IV. SUSTRACCION DE HIJO
+
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 6 DE SEPTIEMBRE DE 2011)</small>
 
 ###### Artículo 228.
 
@@ -3147,7 +3161,7 @@ Si el menor es restituido espontáneamente a su familia o a la autoridad dentro 
 
 ###### Artículo 263.
 
-Al padre o la madre que se apodere de su hijo menor de edad o familiares que participen en el apoderamiento, respecto del cual no ejerza la patria potestad o la custodia, privando de este derecho a quien legítimamente lo tenga, se le impondrán de uno a cinco años de prisión y multa de cuarenta a ciento veinticinco días.
+Al padre o la madre que se apodere de su hijo menor de edad o familiares que participen en el apoderamiento, respecto del cual no ejerza la patria potestad o la custodia, privando de este derecho a quien legítimamente lo tenga, o a quién aún sin saber la determinación de un Juez sobre el ejercicio (sic) la patria potestad o la custodia, impida al otro progenitor ver y convivir con el menor, se le impondrán de uno a cinco años de prisión y multa de cuarenta a ciento veinticinco días.
 
 Este delito se perseguirá por querella.
 
@@ -3475,7 +3489,7 @@ XI. Cuando se cometa por los obreros, artesanos o discípulos, en la casa, talle
 
 XII. Cuando el robo recaiga en expedientes o documentos de protocolo, oficina o archivos públicos o en documentos que contengan obligación, liberación o transmisión de deberes que obren en expediente judicial, se impondrán de uno a cinco años de prisión. Si el delito lo comete el servidor público de la dependencia en que se encuentre el expediente o documento, se le impondrán además destitución e inhabilitación de dos a diez años para desempeñar otro empleo, cargo o comisión públicos;
 
-XIII. Cuando el robo se cometa en lugar cerrado, la pena será de tres a nueve años. Se entenderá por lugar cerrado, cualquier recinto notoriamente aislado del espacio circundante al que el activo no tenga libre acceso, independientemente de que se encuentren abiertas la puertas o rotos los muros;
+XIII. Cuando el robo se cometa en lugar cerrado, la pena será de tres a nueve años. Se entenderá por lugar cerrado, cualquier recinto notoriamente aislado del espacio circundante al que el activo no tenga libre acceso, independientemente de que se encuentren abiertas la puertas o rotos los muros.
 
 Si en los actos mencionados participa algún servidor público que tenga a su cargo funciones de prevención, persecución, sanción del delito o de ejecución de penas, además de las sanciones a que se refiere este artículo, se le aumentará la pena de prisión en una mitad más, destitución definitiva e inhabilitación por veinte años para desempeñar cualquier empleo, cargo o comisión públicos.
 
@@ -4462,3 +4476,11 @@ El concepto del cuerpo del delito y las disposiciones que le resulten compatible
 ###### ARTÍCULO CUARTO.
 
 Los recursos de apelación admitidos antes de la entrada en vigor del presente Decreto, se substanciarán conforme a las disposiciones anteriores al mismo.
+
+G.G. 6 DE SEPTIEMBRE DE 2011.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
