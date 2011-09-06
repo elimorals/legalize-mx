@@ -4,7 +4,7 @@ identifier: "MEX-constitucion-politica-del-estado-libre-y-soberano-de-mexico-594
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-10"
-last_updated: "2011-07-21"
+last_updated: "2011-09-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5949&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 21 DE JULIO DE 2011.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 6 DE SEPTIEMBRE DE 2011.
 
 Constitución publicada en la Gaceta del Gobierno, los días 10, 14 y 17 de noviembre de 1917.
 
@@ -69,11 +69,11 @@ La soberanía estatal reside esencial y originariamente en el pueblo del Estado 
 
 ## TITULO SEGUNDO. De los Principios Constitucionales
 
-> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 1995)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 6 DE SEPTIEMBRE DE 2011)</small>
 
 ###### Artículo 5.
 
-En el Estado de México todos los individuos son iguales y tienen las libertades, derechos y garantías que la Constitución Federal, esta Constitución y las leyes del Estado establecen.
+En el Estado de México todos los individuos son iguales y tienen las libertades, derechos y garantías que la Constitución Federal, esta Constitución, los Tratados Internacionales en materia de derechos fundamentales de los que el Estado Mexicano sea parte y las leyes del Estado establecen.
 
 > <small>(REFORMADO, G.G. 13 DE ABRIL DE 2010)</small>
 
@@ -1219,7 +1219,9 @@ El Gobernador del Estado podrá renunciar al cargo por causa grave, o solicitar 
 
 Son facultades y obligaciones del Gobernador del Estado:
 
-I. Cumplir y hacer cumplir la Constitución Federal, las leyes del Congreso de la Unión y los tratados internacionales;
+> <small>(REFORMADA, G.G. 6 DE SEPTIEMBRE DE 2011)</small>
+
+I. Cumplir y hacer cumplir la Constitución Federal, las leyes del Congreso de la Unión y los Tratados Internacionales en materia de derechos fundamentales de los que el Estado Mexicano sea parte;
 
 II. Cuidar el cumplimiento de la presente Constitución y de las leyes, reglamentos, acuerdos y demás disposiciones que de ella emanen, expidiendo al efecto las órdenes correspondientes;
 
@@ -1478,6 +1480,10 @@ a) Un órgano colegiado denominado Tribunal Superior de Justicia, el cual funcio
 b) En tribunales y juzgados de primera instancia y juzgados de cuantía menor; organizados de acuerdo a su competencia establecida en las leyes secundarias. Los órganos jurisdiccionales aplicarán las leyes federales, tratándose de jurisdicción concurrente.
 
 El Poder Judicial contará con jueces de control que tendrán las atribuciones que la Constitución Política de los Estados Unidos Mexicanos, esta Constitución y las leyes secundarias les atribuyan.
+
+> <small>(ADICIONADO, G.G. 6 DE SEPTIEMBRE DE 2011)</small>
+
+Los jueces y magistrados del Estado de México, en el ámbito de su competencia, al emitir sus resoluciones observarán en lo concerniente el respeto a los derechos fundamentales, a las libertades, derechos y garantías reconocidas por la Constitución Federal, esta Constitución, los Tratados Internacionales de los que el Estado Mexicano sea parte, las leyes y reglamentos que el Estado establecen (sic).
 
 Las leyes determinarán los procedimientos que habrán de seguirse para sustanciar los juicios y todos los actos en que intervenga el Poder Judicial.
 
@@ -3472,3 +3478,9 @@ Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
 ###### ARTÍCULO SEGUNDO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 6 DE SEPTIEMBRE DE 2011.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
