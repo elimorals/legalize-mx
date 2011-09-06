@@ -4,7 +4,7 @@ identifier: "MEX-ley-para-la-proteccion-de-los-derechos-de-las-ninas-ninos-y-409
 country: "mx"
 rank: "ley"
 publication_date: "2004-09-10"
-last_updated: "2011-09-01"
+last_updated: "2011-09-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40968&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ LEY PARA LA PROTECCION DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES DEL 
 
 > <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO EN EL ARTICULO TERCERO TRANSITORIO DEL DECRETO NUMERO 337, PUBLICADO EN LA G.G. DE 1 DE SEPTIEMBRE DE 2011, CUANDO EN OTROS ORDENAMIENTOS LEGALES, SE HAGA REFERENCIA AL TERMINO PERSONAS CON CAPACIDADES DIFERENTES, SE ENTENDERA QUE CORRESPONDE AL TERMINO PERSONAS CON DISCAPACIDAD.</small>
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 1 DE SEPTIEMBRE DE 2011.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 6 DE SEPTIEMBRE DE 2011.
 
 Ley publicada en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el viernes 10 de septiembre de 2004.
 
@@ -383,9 +383,11 @@ d) Psicología.
 
 Los dictámenes y, en su caso, el resultado integral de las evaluaciones, se remitirán al Sistema para el Desarrollo Integral de la Familia del Estado de México;
 
-> <small>(ADICIONADA, G.G. 12 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 6 DE SEPTIEMBRE DE 2011)</small>
 
-XXI. Al Sistema para el Desarrollo Integral de la Familia del Estado de México, elaborar y mantener actualizada una base de datos de los casos en que los padres, tutores o quien tenga legalmente la custodia de un menor de edad, realicen conductas u omisiones que pongan en riesgo la salud mental y/o física de los menores a su cargo, y dar seguimiento de los mismos en coordinación con los Sistemas para el Desarrollo Integral de la Familia de los Municipios.
+XXI. Al Sistema para el Desarrollo Integral de la Familia del Estado de México, elaborar y mantener actualizada una base de datos de los casos en que los padres, tutores o quien tenga legalmente la custodia de un menor de edad o discapacitado, incumplan las obligaciones alimentarias que la ley determina, realicen conductas u omisiones que pongan en riesgo la salud mental y/o física de los menores a su cargo, y dar seguimiento de los mismos en coordinación con los Sistemas para el Desarrollo Integral de la Familia de los Municipios.
+
+> <small>(ADICIONADO, G.G. 12 DE AGOSTO DE 2011)</small>
 
 Hacer del conocimiento del Ministerio Público, los casos en que los padres, tutores o quienes tengan legalmente la custodia de un menor de edad, incurran en las conductas a que se refiere el párrafo anterior, y rendir los informes, dictámenes, antecedentes e información con que cuente al respecto; y
 
@@ -651,7 +653,7 @@ Las Secretarías de Educación, Cultura y Bienestar Social, de Desarrollo Social
 
 > <small>(REFORMADO, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
 
-###### ARTICULO 43.
+###### ARTÍCULO 43.
 
 El Sistema para el Desarrollo Integral de la Familia, en coordinación con la Secretaría de Desarrollo Social y demás dependencias e instituciones especializadas, implementarán acciones encaminadas a la protección y cuidado de las niñas, niños y adolescentes discapacitados, impulsando la construcción de Centros de Rehabilitación en los Sistemas para el Desarrollo Integral de la Familia de los Municipios del Estado de México.
 
@@ -862,3 +864,11 @@ SEGUNDO.- El presente Decreto entrará en vigor el día siguiente de su publicac
 TERCERO.- Cuando en otros ordenamientos legales, se haga referencia al término personas con capacidades diferentes, se entenderá que corresponde al término personas con discapacidad.
 
 CUARTO.- El Ejecutivo del Estado hará las modificaciones a los reglamentos, decretos administrativos, acuerdos y demás disposiciones de su competencia, para incorporar a estos el término de discapacitados en sustitución de personas con capacidades diferentes, de acuerdo con el presente Decreto.
+
+G.G. 6 DE SEPTIEMBRE DE 2011.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
