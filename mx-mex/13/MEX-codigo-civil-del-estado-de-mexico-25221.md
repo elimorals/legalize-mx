@@ -4,7 +4,7 @@ identifier: "MEX-codigo-civil-del-estado-de-mexico-25221"
 country: "mx"
 rank: "codigo"
 publication_date: "2002-06-07"
-last_updated: "2011-09-01"
+last_updated: "2011-09-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25221&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "MEX"
 
 CODIGO CIVIL DEL ESTADO DE MEXICO
 
-> <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO EN EL ARTICULO TERCERO TRANSITORIO DEL DECRETO NUMERO 337, PUBLICADO EN LA G.G. DE 1 DE SEPTIEMBRE DE 2011, CUANDO EN OTROS ORDENAMIENTOS LEGALES, SE HAGA REFERENCIA AL TERMINO PERSONAS CON DISCAPACIDADES DIFERENTES, SE ENTENDERA QUE CORRESPONDE AL TERMINO PERSONAS CON DISCAPACIDAD.</small>
-
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 1 DE SEPTIEMBRE DE 2011.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 6 DE SEPTIEMBRE DE 2011.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el viernes 7 de junio de 2002.
 
@@ -1909,7 +1907,9 @@ Alimentos en proporción a las posibilidades y necesidades
 
 138.- Los alimentos han de ser proporcionados de acuerdo a la capacidad económica del deudor alimentario y de las necesidades de quien deba recibirlos.
 
-Cuando no sean comprobables el salario o ingresos del deudor alimentario, el juez resolverá tomando como referencia la capacidad económica y el nivel de vida que el deudor y sus acreedores alimentarios hayan llevado en el último año.
+> <small>(REFORMADO, G.G. 6 DE SEPTIEMBRE DE 2011)</small>
+
+Cuando no sean comprobables el salario o ingresos del deudor alimentario, el juez resolverá tomando como referencia la capacidad económica y el nivel de vida que el deudor y sus acreedores alimentarios hayan llevado en el último año, la cantidad correspondiente no podrá ser inferior a un salario mínimo diario.
 
 Los alimentos determinados por convenio o sentencia, se modificarán de manera proporcional a las modificaciones de los ingresos del deudor alimentario. En este caso, el incremento en los alimentos se ajustará al que realmente hubiese obtenido el deudor. Estas prevenciones deberán expresarse siempre en la sentencia o convenio correspondiente.
 
@@ -1959,19 +1959,19 @@ Aseguramiento para cubrir alimentos
 
 Cesación de la obligación alimentaria
 
+> <small>(REFORMADO, G.G. 6 DE SEPTIEMBRE DE 2011)</small>
+
 ###### Artículo 4.
 
 144.- Cesa la obligación de dar alimentos:
 
-I. Cuando el que la tiene carece de medios para cumplirla;
+I. Cuando el acreedor deja de necesitar los alimentos;
 
-II. Cuando el acreedor deja de necesitar los alimentos;
+II. En caso de injuria, falta o daño (sic) graves inferidos por el acreedor contra el que debe proporcionarlos;
 
-III. En caso de injuria, falta o daño graves inferidos por el acreedor contra el que debe proporcionarlos;
+III. Cuando la necesidad de los alimentos dependa de la conducta viciosa o de la falta de aplicación al trabajo del acreedor, mientras subsistan estas causas; y
 
-IV. Cuando la necesidad de los alimentos dependa de la conducta viciosa o de la falta de aplicación al trabajo del acreedor, mientras subsistan estas causas;
-
-V. Si el acreedor, sin consentimiento del que debe dar los alimentos, abandona la casa de éste por causas injustificables.
+IV. Si el acreedor, sin consentimiento del que debe dar los alimentos, abandona la casa de éste por causas injustificables.
 
 Derecho alimentario irrenunciable, imprescriptible e intransigible
 
@@ -17338,3 +17338,11 @@ SEGUNDO.- El presente Decreto entrará en vigor el día siguiente de su publicac
 TERCERO.- Cuando en otros ordenamientos legales, se haga referencia al término personas con capacidades diferentes, se entenderá que corresponde al término personas con discapacidad.
 
 CUARTO.- El Ejecutivo del Estado hará las modificaciones a los reglamentos, decretos administrativos, acuerdos y demás disposiciones de su competencia, para incorporar a estos el término de discapacitados en sustitución de personas con capacidades diferentes, de acuerdo con el presente Decreto.
+
+G.G. 6 DE SEPTIEMBRE DE 2011.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
