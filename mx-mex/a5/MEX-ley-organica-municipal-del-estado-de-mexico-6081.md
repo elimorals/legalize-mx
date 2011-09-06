@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-municipal-del-estado-de-mexico-6081"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1993-03-02"
-last_updated: "2011-09-05"
+last_updated: "2011-09-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6081&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY ORGANICA MUNICIPAL DEL ESTADO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 5 DE SEPTIEMBRE DE 2011.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 6 DE SEPTIEMBRE DE 2011.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el martes 2 de marzo de 1993.
 
@@ -1365,7 +1365,13 @@ o). De asuntos indígenas, en aquellos municipios con presencia de población in
 
 p). De revisión y actualización de la reglamentación municipal;
 
-q). Las demás que determine el ayuntamiento, de acuerdo con las necesidades el municipio.
+> <small>(ADICIONADO, G.G. 6 DE SEPTIEMBRE DE 2011)</small>
+
+q). De apoyo y atención al migrante;
+
+> <small>(REFORMADO, G.G. 6 DE SEPTIEMBRE DE 2011)</small>
+
+r). Las demás que determine el ayuntamiento, de acuerdo con las necesidades del municipio.
 
 II. Serán comisiones transitorias, aquéllas que se designen para la atención de problemas especiales o situaciones emergentes o eventuales de diferente índole y quedarán integradas por los miembros que determine el ayuntamiento, coordinadas por el responsable del área competente.
 
@@ -3059,7 +3065,7 @@ QUINTO.- Los procedimientos y actuaciones penales y civiles que se hayan iniciad
 
 SEXTO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
 
-G.G. 31 DE AGOSTO DE 2010.
+P.O. 31 DE AGOSTO DE 2010.
 
 PRIMERO.- Publíquese la presente Ley en el periódico oficial "Gaceta del Gobierno" del Estado de México.
 
@@ -3308,6 +3314,12 @@ SEGUNDO.- Este Decreto entrara en vigor al día siguiente de su publicación en 
 G.G. 5 DE SEPTIEMBRE DE 2011.
 
 DECRETO No. 341 POR EL QUE SE ADICIONA EL INCISO Ñ) BIS A LA FRACCION I DEL ARTICULO 69 Y UN SEGUNDO PARRAFO AL ARTICULO 77 DE LA LEY ORGANICA MUNICIPAL DEL ESTADO DE MEXICO.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 6 DE SEPTIEMBRE DE 2011.
 
 PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
 
