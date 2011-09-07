@@ -4,7 +4,7 @@ identifier: "CHP-reglamento-interior-del-tribunal-de-justicia-electoral-y-69787"
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-07-08"
-last_updated: "2009-07-08"
+last_updated: "2011-09-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69787&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 REGLAMENTO INTERIOR DEL TRIBUNAL DE JUSTICIA ELECTORAL Y ADMINISTRATIVA DEL PODER JUDICIAL DEL ESTADO DE CHIAPAS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE SEPTIEMBRE DE 2011.
 
 Reglamento publicado en el Periódico Oficial del Estado de Chiapas, el miércoles 8 de julio de 2009.
 
@@ -73,7 +73,9 @@ b) Pleno: Pleno del Tribunal;
 
 c) Presidente: Magistrado Presidente del Tribunal;
 
-d) Salas: Salas del Tribunal;
+> <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 2011)</small>
+
+d) Salas: Sala Colegiada de Primera Instancia y Sala Colegiada de Segunda Instancia;
 
 e) Presidente de Sala: Magistrado Presidente de alguna de las Salas del Tribunal;
 
@@ -107,19 +109,29 @@ El Tribunal funcionará en Pleno y en dos Salas, sus resoluciones serán emitida
 
 Está integrado por siete Magistrados, uno de los cuales por decisión del Pleno fungirá como su Presidente.
 
+> <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 2011)</small>
+
 ###### Artículo 4°.
 
-En materia electoral, el Pleno estará conformado por los siete Magistrados que lo integran, pero bastará la presencia del Presidente y tres Magistrados más para que pueda sesionar y resolverá en una sola instancia, teniendo el Presidente voto de calidad en caso de empate.
+En materia electoral funcionará en Pleno, el cual se integra por los siete Magistrados del Tribunal.
 
-En materia administrativa, el Presidente no integrará Sala en primera instancia. En segunda instancia el Pleno estará integrado por él y la diversa Sala que no hubiese conocido del asunto en primera instancia, teniendo el Presidente voto de calidad en caso de empate.
+Todos los Magistrados integrarán ponencia, y recibirán los asuntos correspondientes en riguroso orden alfabético de apellidos.
+
+> <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 2011)</small>
 
 ###### Artículo 5°.
 
-Las Salas conocerán en materia administrativa como primera instancia, del juicio de nulidad a través del Procedimiento contencioso administrativo y sus resoluciones podrán ser impugnadas a través del recurso de revisión como medio de defensa legal ordinario, del que conocerá el Pleno integrado en términos del párrafo segundo del artículo anterior.
+En materia administrativa funcionará en Salas.
+
+La Sala Colegiada de Primera Instancia conocerá del juicio contencioso administrativo y estará integrada por tres Magistrados; la Sala Colegiada de Segunda Instancia conocerá del recurso de revisión que se interponga en contra de las sentencias que dicte aquélla y estará integrada por tres Magistrados y el Presidente del Tribunal quien la presidirá; y en caso de empate tendrá voto de calidad.
+
+Todos Magistrados integrarán ponencia, y recibirán los asuntos correspondientes en riguroso orden alfabético de apellidos.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 7 DE SEPTIEMBRE DE 2011)</small>
 
 ###### Artículo 6°.
 
-Además de la competencia y atribuciones que le confieren los artículos 14 Bis, apartado C, fracción III y 49, párrafo sexto de la Constitución; 222, 223, 228, 229 y 239 del Código de Organización, corresponde al Pleno:
+Además de la competencia y atribuciones que le confieren los artículos 17, apartado C, fracción III y 56, párrafo sexto de la Constitución; 222, 223, 228, 229 y 239 del Código de Organización, corresponde al Pleno:
 
 I. En General
 
@@ -139,7 +151,9 @@ g) Aprobar, a propuesta del Presidente del Tribunal y por causa justificada, que
 
 h) Aprobar los instructivos en las materias electoral y administrativa, con base al proyecto que presente la Secretaria (sic) General de Acuerdos y del Pleno;
 
-i) Aprobar los manuales con base al proyecto que presente Oficial Mayor;
+> <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 2011)</small>
+
+i) Aprobar los manuales con base al proyecto que presente el Oficial Mayor;
 
 j) Aprobar a propuesta de la Comisión, las adiciones, las modificaciones y las reformas, de este Reglamento, así como expedir el acuerdo respectivo y ordenar su publicación en el Periódico Oficial del Estado;
 
@@ -155,7 +169,13 @@ o) Calificar la solicitud de recusación de los Magistrados y Peritos. Si la exc
 
 p) Dictar los acuerdos necesarios para el adecuado funcionamiento del Tribunal; en el caso de acuerdos generales, éstos deberán ser publicados en el Periódico Oficial del Estado; y,
 
-q) Las demás que le señale el Código de Organización, el Código de Elecciones, la Ley de Procedimientos Administrativos, el presente Reglamento y ordenamientos jurídicos aplicables.
+> <small>(ADICIONADO, P.O. 7 DE SEPTIEMBRE DE 2011)</small>
+
+q) Conocer del acta de visita que rinda la Sala Colegiada de Segunda Instancia sobre las visitas realizadas a los Secretarios de Estudio y Cuenta, a la Secretaría de Acuerdos de la Sala Colegiada de Primera Instancia, y a la Secretaría General de Acuerdos y del Pleno, así como a las áreas auxiliares de ésta última, exclusivamente a lo que atañe a la función jurisdiccional, a efecto de dictar las providencias que procedan; y
+
+> <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 2011)</small>
+
+r) Las demás que le señale el Código de Organización, el Código de Elecciones, la Ley de Procedimientos Administrativos, el presente Reglamento y ordenamientos jurídicos aplicables.
 
 II. En materia electoral
 
@@ -165,15 +185,19 @@ b) Calificar las elecciones, declarando la validez o nulidad de las mismas;
 
 c) Calificar la excusa de los Magistrados del Tribunal; y (sic),
 
-d) Las demás que le señalen los ordenamientos jurídicos aplicables;
+> <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 2011)</small>
 
-e) Conocer y resolver los conflictos o diferencias laborales que surjan entre:
+d) Conocer y resolver los conflictos o diferencias laborales que surjan entre:
 
 1. El Instituto de Elecciones y Participación Ciudadana y sus servidores;
 
 2. La Comisión de Fiscalización Electoral y sus servidores; y,
 
 3. El propio Tribunal y sus servidores.
+
+> <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 2011)</small>
+
+e) Las demás que le señalen los ordenamientos jurídicos aplicables.
 
 III. En materia administrativa
 
@@ -197,13 +221,15 @@ La operatividad del Pleno se determinará en el manual de funciones respectivo.
 
 ### Capítulo III. Del Presidente
 
+> <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 2011)</small>
+
 ###### Artículo 8°.
 
-Además de lo señalado en el Código de Organización; el Código de Elecciones y la Ley de Procedimientos Administrativos, el Presidente del Tribunal tendrá las facultades y obligaciones siguientes:
+Además de lo señalado en el Código de Organización, el Código de Elecciones y la Ley de Procedimientos Administrativos, el Presidente del Tribunal tendrá las facultades y obligaciones siguientes:
 
 I. Representar al Tribunal ante cualquier autoridad o particular;
 
-II. Presidir las sesiones de Pleno;
+II. Presidir las sesiones de Pleno y de la Sala Colegiada de Segunda Instancia;
 
 III. Dirigir los debates y someter los asuntos a votación;
 
@@ -221,35 +247,43 @@ IX. Autorizar a los Magistrados faltar o ausentarse de sus labores;
 
 X. Convocar por escrito a sesiones ordinarias, extraordinarias y solemnes del Pleno;
 
-XI. Dar cuenta al Pleno de la contradicción de criterios denunciada por cualquiera de los Magistrados o las partes, en los juicios en las que tales tesis se sustentaron;
+XI. Aplazar las sesiones en casos fortuitos o de fuerza mayor; en año electoral hasta por 24 horas; y en año no electoral hasta por 3 días;
 
-XII. Someter a consideración del Pleno con auxilio del Secretario General, el escrito de excusa del Magistrado, el escrito de recusación y el informe del Magistrado o Perito recusado;
+XII. Dar cuenta al Pleno de la contradicción de criterios denunciada por cualquiera de los Magistrados o las partes, en los juicios en las que tales tesis se sustentaron;
 
-XIII. En materia administrativa, calificar la excusa que planteen los Magistrados de Sala;
+XIII. Someter a consideración del Pleno, el escrito de excusa del Magistrado, el escrito de recusación y el informe del Magistrado o Perito recusado;
 
-XIV. Proponer a la Comisión el nombramiento del personal necesario para las funciones del Tribunal;
+XIV. En materia administrativa, calificar la excusa que planteen los Magistrados de Sala;
 
-XV. Conducir la instrucción y sustanciar el procedimiento de los asuntos que por turno le corresponda conocer;
+XV. Proponer a la Comisión el nombramiento del personal necesario para las funciones del Tribunal;
 
-XVI. Turnar a los Magistrados que integran el Pleno los recursos de revisión o juicios electorales que les corresponda conocer conforme al turno respectivo;
+XVI. Conducir la instrucción y sustanciar el procedimiento de los asuntos que por turno le corresponda conocer;
 
-XVII. Tramitar las denuncias por contradicción de sentencias o criterios, las quejas y las excitativas de justicia, con auxilio del Secretario General;
+XVII. Turnar a los Magistrados que integran la Sala Colegiada de Segunda Instancia, los recursos de revisión que les corresponda conocer conforme al turno respectivo;
 
-XVIII. Rendir los informes previos y justificados en los juicios de amparo promovidos en contra de las resoluciones dictadas por el Pleno;
+XVIII. Turnar a los Magistrados que integran el Pleno, los juicios electorales que les corresponda conocer conforme al turno respectivo;
 
-XIX. Rendir los informes circunstanciados en los juicios de revisión constitucional electoral y para la protección de los derechos político electorales del ciudadano, que se interpongan en contra de las sentencias emitidas por el Pleno;
+XIX. Tramitar las denuncias por contradicción de sentencias o criterios, las quejas y las excitativas de justicia, con auxilio del Secretario General;
 
-XX. Resolver sobre la excitativa de justicia promovida por alguna de las partes en los juicios administrativos, cuando los Magistrados no formulen el proyecto de resolución que corresponda dentro de los plazos señalados por la Ley de la materia; así como en los casos en que las autoridades no den cabal cumplimiento a las resoluciones del Tribunal;
+XX. Rendir los informes previos y justificados en los juicios de amparo promovidos en contra de las resoluciones dictadas por la Sala Colegiada de Segunda Instancia;
 
-XXI. Enviar para su publicación en el Periódico Oficial del Estado, cuando el caso lo requiera, los acuerdos del Pleno, de la Comisión de Administración y demás resoluciones, para que surtan los efectos legales conducentes;
+XXI. Rendir los informes circunstanciados en los juicios de revisión constitucional electoral y para la protección de los derechos político electorales del ciudadano, que se interpongan en contra de las sentencias emitidas por el Pleno;
 
-XXII. Rendir un informe mensual al área de Planeación y seguimiento Operativo, sobre sus actividades jurisdiccionales, de administración, académicas y otras, para ser enviado al Tribunal Superior de Justicia del Estado y a la Secretaría de Hacienda, según corresponda;
+XXII. Resolver sobre la excitativa de justicia promovida por alguna de las partes en los juicios administrativos, cuando los Magistrados no formulen el proyecto de resolución que corresponda dentro de los plazos señalados por la Ley de la materia; así como en los casos en que las autoridades no den cabal cumplimiento a las resoluciones del Tribunal;
 
-XXIII. Delegar atribuciones y facultades entre el personal jurídico, administrativo o técnico del Tribunal, salvo aquellas que por disposición legal sean indelegables;
+XXIII. Enviar para su publicación en el Periódico Oficial del Estado, cuando el caso lo requiera, los acuerdos del Pleno, de la Comisión de Administración y demás resoluciones, para que surtan los efectos legales conducentes;
 
-XXIV. Dar trámite a la correspondencia del Tribunal; y,
+XXIV. Rendir un informe mensual al área de Planeación y Seguimiento Operativo, sobre sus actividades jurisdiccionales, de administración, académicas y otras, para ser enviado al Tribunal Superior de Justicia del Estado y a la Secretaría de Hacienda, según corresponda;
 
-XXV. Las que le confieran otros ordenamientos jurídicos aplicables.
+XXV. Delegar atribuciones y facultades entre el personal jurídico, administrativo o técnico del Tribunal, salvo aquellas que por disposición legal sean indelegables;
+
+XXVI. Dar trámite a la correspondencia del Tribunal; y, (sic)
+
+XXVII. Notificar al Congreso del Estado y/o Tribunal Constitucional del Tribunal Superior de Justicia del Estado, según corresponda, de las ausencias definitivas y de los casos de retiro forzoso de los Magistrados para que procedan a la designación correspondiente;
+
+XXVIII. En caso de ausencia, temporal o definitiva, del Magistrado ponente en materia electoral, hacer suyo y presentar al Pleno, el proyecto de sentencia correspondiente; y,
+
+XXIX. Las que le confieran otros ordenamientos jurídicos aplicables.
 
 ###### Artículo 9°.
 
@@ -265,37 +299,27 @@ IV. Secretarios de Estudio y Cuenta; y,
 
 V. Personal necesario para el cumplimiento de sus fines.
 
-### Capítulo IV. De las Salas
+> <small>(REFORMADA SU DENOMINACION, P.O. 7 DE SEPTIEMBRE DE 2011)</small>
+
+### Capítulo IV. De las Salas Colegiadas de Primera y Segunda Instancia
+
+> <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 2011)</small>
 
 ###### Artículo 10.
 
-Para el desahogo de los asuntos jurisdiccionales de su competencia, el Tribunal contará con las Salas "A" y "B". Éstas se integrarán por tres Magistrados, de los cuales uno fungirá como su Presidente en riguroso orden alfabético de apellidos, nombrado en la primera sesión que se celebre en el año; durará en su caso un año y tendrá la posibilidad de ser reelecto por una sola vez.
+La Sala Colegiada de Primera Instancia, estará integrada por tres Magistrados, de los cuales uno fungirá como su Presidente en riguroso orden alfabético de apellidos, nombrado en la primera sesión que se celebre en el año; durará en el cargo un año y tendrá la posibilidad de ser reelecto por una sola vez.
 
-Las decisiones de las Salas serán tomadas por unanimidad o mayoría de votos. Los Magistrados no podrán abstenerse de votar, salvo que tengan impedimento y cuya excusa o recusación haya sido calificada.
+Las decisiones de la Sala serán tomadas por unanimidad o mayoría de votos. Los Magistrados no podrán abstenerse de votar, salvo que tengan impedimento y cuya excusa o recusación haya sido calificada procedente.
 
-###### Artículo 11.
+Además de la competencia y atribuciones que le confiere la Constitución, el Código de Organización, y la Ley de Procedimientos Administrativos, la Sala Colegiada de Primera Instancia tiene las siguientes:
 
-Para el eficaz y debido desempeño de sus funciones, las Salas contarán con:
+I. Elegir a su Presidente entre los tres Magistrados que la integran, en los términos del presente artículo;
 
-I. Una Secretaría de Acuerdos;
-
-II. Secretarios de Estudio y Cuenta;
-
-III. Actuarios; y,
-
-IV. Personal de apoyo necesario para el desempeño de sus funciones.
-
-###### Artículo 12.
-
-Además de la competencia y atribuciones que le confieren la Constitución; el Código de Organización; y la Ley de Procedimientos Administrativos, las Salas tienen las siguientes:
-
-I. Elegir a su Presidente entre los tres Magistrados que la Integran, en los términos del artículo 10 de este Reglamento;
-
-II. Conocer y resolver, como primera instancia de los juicios contencioso administrativo y en materia de responsabilidades administrativas de servidores públicos;
+II. Conocer y resolver los juicios contencioso administrativo (sic) y en materia de responsabilidades administrativas de servidores públicos;
 
 III. Tramitar y resolver el procedimiento de queja, por incumplimiento de sus sentencias en los juicios de los que le corresponda conocer;
 
-IV. Tramitar y resolver por cuerda separada los incidentes, de previo y especial pronunciamiento y en general, que hagan valer las partes en los juicios en que intervenga;
+IV. Tramitar y resolver por cuerda separada los incidentes de previo y especial pronunciamiento y, en general, los que hagan valer las partes en los juicios en que intervenga;
 
 V. Elegir al Magistrado que deberá fungir como encargado de la Presidencia de Sala, siempre que la ausencia temporal del titular sea de quince días a dos meses; en caso de empate, será designado el Magistrado de mayor antigüedad o edad de entre los propuestos. En cualquiera de los anteriores supuestos, la designación será exclusivamente por el tiempo de ausencia;
 
@@ -309,17 +333,117 @@ IX. Solicitar a las autoridades federales, estatales y municipales, la informaci
 
 X. Celebrar sesiones ordinarias, extraordinarias y solemnes, previa convocatoria de su presidente;
 
-XI. Resolver la aclaración de las sentencias que dicte, sin que ello implique variar la sustancia y el sentido de la misma; y,
+XI. Resolver la aclaración de las sentencias que dicte, sin que ello implique variar la sustancia y el sentido de la misma;
 
-XII. Las demás que le confieran otras disposiciones jurídicas aplicables.
+XII. Fijar criterios sustentados en sus sentencias, los cuales se constituirán una vez aprobados tres precedentes en el mismo sentido, no interrumpidos por otro en contrario;
+
+XIII. Aplicar los criterios de la Sala Colegiada de Segunda Instancia; y,
+
+XIV. Las demás que le confieran otras disposiciones jurídicas aplicables.
+
+> <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 2011)</small>
+
+###### Artículo 11.
+
+La Sala Colegiada de Segunda Instancia estará integrada por tres Magistrados y el Presidente del Tribunal quien la presidirá.
+
+Las decisiones de la Sala serán tomadas por unanimidad o mayoría de votos; en caso de empate el Presidente tendrá voto de calidad.
+
+Además de la competencia y atribuciones que le confieren la Constitución, el Código de Organización y la Ley de Procedimientos Administrativos, la Sala Colegiada de Segunda Instancia tiene las siguientes:
+
+I. Conocer y resolver el recurso de revisión interpuesto en contra de los (sic) sentencias y autos dictados por la Sala Colegiada de Primera Instancia;
+
+II. Emitir los acuerdos necesarios para garantizar su debido funcionamiento;
+
+III. Celebrar sesiones ordinarias, extraordinarias y solemnes, previa convocatoria de su presidente;
+
+IV. Fijar criterios sustentados en sus sentencias, los cuales se constituirán una vez aprobados tres precedentes en el mismo sentido, no interrumpidos por otro en contrario;
+
+V. Conocer y resolver la contradicción de criterios de la Sala Colegiada de Primera Instancia;
+
+VI. Suspender un criterio de la Sala Colegiada de Primera Instancia, cuando en una sentencia o en una resolución de contradicción de sentencias, resuelva en sentido contrario al criterio de la Sala de Segunda Instancia;
+
+VII. Practicar visitas a los Secretarios de Estudio y Cuenta, a la Secretaría de Acuerdos de la Sala Colegiada de Primera Instancia, y a la Secretaría General de Acuerdos y del Pleno, así como a las áreas auxiliares de ésta última, para verificar su debido desempeño;
+
+VIII. Revisar que los libros que al efecto manejan la Secretaría General de Acuerdos y del Pleno, las áreas auxiliares de ésta así como la Secretaría de Acuerdos de la Sala Colegiada de Primera Instancia, se encuentren debidamente requisitados;
+
+IX. Examinar los expedientes de la Secretaría General de Acuerdos y del Pleno y Secretaría de Acuerdos de la Sala Colegiada de Primera Instancia, para determinar si los acuerdos y resoluciones han sido dictados y cumplidos oportunamente; si las notificaciones y diligencias se efectuaron dentro de los plazos legales; si los exhortos han sido diligenciados y devueltos oportunamente; si se han observado las garantías procesales; si están debidamente foliados, rubricados y entresellados;
+
+X. Elaborar el acta circunstanciada al término de la visita por triplicado, asentando el estado de los asuntos revisados, así como las observaciones que estime de importancia;
+
+XI. Asentar la constancia de visita en cada uno de los expedientes y libros revisados;
+
+XII. Remitir el acta de visita a la Comisión de Administración y al Pleno de este Tribunal, en el que se exprese el resultado de la visita, para que en caso de existir alguna irregularidad, tanto administrativa como jurisdiccional, tomen las medidas; de conformidad con las respectivas atribuciones inherentes de cada uno, en términos de los artículos 6, fracción I, inciso q), y 54, fracción XIII, de este Reglamento;
+
+XIII. Las demás que le confieran otras disposiciones jurídicas aplicables.
+
+> <small>(ADICIONADO, P.O. 7 DE SEPTIEMBRE DE 2011)</small>
+
+###### Artículo 11 Bis.
+
+Las visitas que la Sala Colegiada de Segunda Instancia efectúe tanto a los Secretarios de Estudio y Cuenta, a la Secretaría de Acuerdos de la Sala Colegiada de Primera Instancia, a la Secretaría General de Acuerdos y del Pleno, así como a las áreas auxiliares de ésta, será efectuada por los tres Magistrados que la integran, exceptuando a su Presidente.
+
+Para el desarrollo de la visita, el Magistrado Presidente de este Tribunal determinará las fechas y habilitará al personal necesario para llevarla a cabo.
+
+Apartado A.- Los Magistrados Visitadores tendrán como atribuciones las siguientes:
+
+I. Practicar visitas a los Secretarios de Estudio y Cuenta, a la Secretaría de Acuerdos de la Sala Colegiada de Primera Instancia, a la Secretaría General de Acuerdos y del Pleno y a sus áreas auxiliares, para verificar su debido desempeño;
+
+II. Fijar en todos los lugares visibles del área u órgano visitado, anuncios que den a conocer al público en general, la visita que se está practicando, quién la efectúa y los días que se realizará;
+
+III. Cotejar los datos asentados en los libros con los expedientes que se lleven en la Secretaría de Acuerdos de la Sala Colegiada de Primera Instancia así como en la Secretaría General de Acuerdos y del Pleno y sus áreas auxiliares, asentando constancia de la revisión;
+
+IV. Verificar que los documentos y valores inherentes a los expedientes revisados se encuentren debidamente asegurados y resguardados en la caja de seguridad del órgano visitado;
+
+V. Examinar los expedientes para determinar si las resoluciones y acuerdos han sido dictados y cumplidos oportunamente; si las notificaciones y diligencias se efectuaron dentro de los plazos legales; si los exhortos han sido diligenciados y devueltos oportunamente; si se han observado las garantías procesales; si se han observado las garantías procesales (sic); si están debidamente foliados, rubricados y entresellados;
+
+VI. Asentar la constancia de visita en cada uno de los expedientes, libros y legajos revisados;
+
+VII. Recibir quejas del público durante la visita;
+
+VIII. Elaborar el acta circunstanciada al término de la visita con el secretario del órgano visitado, haciendo constar todos los pormenores y observaciones necesarias de la visita y revisión efectuada;
+
+IX. Una vez concluida la visita, remitir el acta dentro del término de diez días hábiles, a la Comisión de Administración y al Pleno de este Tribunal, en el que expresará su resultado, para que en caso de existir alguna irregularidad, tanto administrativa como jurisdiccional, tomen las medidas necesarias; de conformidad con las respectivas atribuciones inherentes de cada uno, en términos de los artículos 6°, fracción I, inciso q), y 54, fracción XIII, de este Reglamento; y,
+
+X. Las demás que determine el Pleno de este Tribunal por medio de acuerdos generales.
+
+Apartado B.- En el acta circunstanciada se hará constar por lo menos:
+
+I. La Secretaría o áreas auxiliares de la misma o Secretarios de Estudio y Cuenta, a los que se les practica la visita;
+
+II. Fecha y nombre completo del titular del órgano o área visitada y del Secretario actuante;
+
+III. Desarrollo pormenorizado de la visita, asentando número de expedientes radicados, con sentencia, en revisión, en amparo y concluidos; libros y legajos revisados, con expresión de la fecha de inicio de cada expediente, de sus principales trámites y de la última diligencia practicada, así como las observaciones que estime de importancia;
+
+IV. Las quejas o denuncias que respecto a la visita realicen los titulares, servidores públicos o público en general del órgano visitado; y,
+
+V. La firma del Magistrado Visitador, del titular de la Secretaría, área auxiliar o Secretario de Estudio y Cuenta, y del Secretario con quien actúa.
+
+El acta se levantará por triplicado, un ejemplar para el titular del órgano visitado, otro para el Magistrado Visitador, y el último para el Presidente de este Tribunal, quien la turnará a la Comisión de Administración o al Pleno del mismo, que estime deba conocer del contenido de la misma, y en un término que no exceda de diez días hábiles emitirán su opinión a dicho Presidente; y en la siguiente sesión que corresponda, lo pondrán a consideración y resolverán lo conducente.
+
+> <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 2011)</small>
+
+###### Artículo 12.
+
+Para el eficaz y debido desempeño de sus funciones, las Salas contarán con:
+
+I. Una Secretaría de Acuerdos;
+
+II. Secretarios de Estudio y Cuenta;
+
+III. Actuarios; y,
+
+IV. Personal de apoyo necesario para el desempeño de sus funciones.
 
 La operatividad de las Salas se determinará en el manual de funciones respectivo.
 
 ### Capítulo V. Del Presidente de Sala
 
+> <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 2011)</small>
+
 ###### Artículo 13.
 
-Son facultades y obligaciones del Presidente de Sala, las siguientes:
+Son facultades y obligaciones del Presidente de la Sala Colegiada de Primera Instancia, las siguientes:
 
 I. Convocar por escrito a sesiones ordinarias, extraordinarias y solemnes;
 
@@ -343,13 +467,11 @@ X. Rendir informes previos y justificados en los juicios de amparo promovidos en
 
 XI. Proveer en la esfera administrativa todo lo necesario para el buen despacho de los asuntos de Sala;
 
-I (SIC). Dar cuenta al Presidente de la Comisión de los actos u omisiones del personal adscrito a la Sala que impliquen violación a las normas jurídicas, en contra de la correcta administración e impartición de justicia;
-
-XII. Las demás que les confieran las disposiciones jurídicas aplicables;
+XII. Dar cuenta al Presidente de la Comisión de los actos u omisiones del personal adscrito a la Sala que impliquen violación a las normas jurídicas, en contra de la correcta administración e impartición de justicia;
 
 XIII. Plantear al Presidente del Tribunal la contradicción de criterios de los asuntos que se tramiten en la Sala;
 
-XIV. Remitir al Presidente del Tribunal, el recurso de revisión y el expediente completo en el que se haya dictado la resolución recurrida;
+XIV. Remitir al Presidente del Tribunal, el recurso de revisión y el expediente completo en el que se haya dictado la resolución recurrida; en caso de que el acto impugnado fuese un acuerdo, remitirá copias certificadas del expediente;
 
 XV. Conducir la instrucción y sustanciar el procedimiento de los asuntos que por turno le corresponda conocer;
 
@@ -359,41 +481,43 @@ XVII. Enviar al Presidente del Tribunal el escrito de recusación junto con el i
 
 XVIII. Enviar al Presidente del Tribunal la excusa planteada por alguno de los Magistrados que integran la Sala;
 
-XIX. Rendir un informe mensual de actividades de la Sala al Presidente del Tribunal; y
+XIX. Rendir un informe mensual de actividades de la Sala al Presidente del Tribunal; y,
 
 XX. Las demás que le confieran otras disposiciones legales aplicables.
 
 ### Capítulo VI. De los Derechos y Obligaciones de los Magistrados
 
+> <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 2011)</small>
+
 ###### Artículo 14.
 
 Son derechos y obligaciones de los Magistrados:
 
-II (sic). Concurrir, participar y votar en las sesiones públicas o privadas, convocadas por el Presidente que corresponda;
+I. Concurrir, participar y votar en las sesiones públicas o privadas, convocadas por el Presidente que corresponda;
 
-III. Integrar las Salas o el Pleno para resolver colegiadamente los asuntos de su competencia;
+II. Integrar las Salas o el Pleno para resolver colegiadamente los asuntos de su competencia;
 
-IV. Formular voto particular razonado, en caso de disentir de un proyecto de resolución aprobado por la mayoría y solicitar que se agregue a la sentencia;
+III. Formular voto particular razonado, en caso de disentir de un proyecto de resolución aprobado por la mayoría y solicitar que se agregue a la sentencia;
 
-V. Solicitar al Pleno o a la Sala que sus proyectos de resolución se agreguen a los expedientes, como votos particulares cuando no sean aprobados por la mayoría;
+IV. Solicitar al Pleno o a la Sala que sus proyectos de resolución se agreguen a los expedientes, como votos particulares cuando no sean aprobados por la mayoría;
 
-VI. Conducir la instrucción y sustanciar el procedimiento en los asuntos que se les turne y, en su caso, desechar o tener por no presentada la demanda interpuesta;
+V. Conducir la instrucción y sustanciar el procedimiento en los asuntos que se les turne y, en su caso, desechar o tener por no presentada la demanda interpuesta;
 
-VII. Vigilar y dictar las medidas necesarias para la pronta y expedita resolución de los asuntos que les sean turnados;
+VI. Vigilar y dictar las medidas necesarias para la pronta y expedita resolución de los asuntos que les sean turnados;
 
-VIII. Formular, auxiliado por el Secretario de Estudio y Cuenta, el proyecto de sentencia de sobreseimiento o de fondo, según sea el caso, y someterlo a consideración de la Sala o del Pleno, para su aprobación;
+VII. Formular, auxiliado por el Secretario de Estudio y Cuenta, el proyecto de sentencia de sobreseimiento o de fondo, según sea el caso, y someterlo a consideración de la Sala o del Pleno, para su aprobación;
 
-IX. Informar al Presidente del Pleno o Sala de los actos que trasciendan en el ejercicio de sus funciones;
+VIII. Informar al Presidente del Pleno o Sala de los actos que trasciendan en el ejercicio de sus funciones;
 
-X. Excusarse de conocer algún asunto que le sea turnado, cuando se actualice alguna causa de impedimento prevista en las leyes aplicables;
+IX. Excusarse de conocer algún asunto que le sea turnado, cuando se actualice alguna causa de impedimento prevista en las leyes aplicables;
 
-XI. Solicitar autorización del Presidente del Tribunal para faltar o ausentarse de sus labores y comunicarlo al Presidente de la Sala de su adscripción;
+X. Solicitar autorización del Presidente del Tribunal para faltar o ausentarse de sus labores y comunicarlo al Presidente de la Sala de su adscripción;
 
-XII. Ordenar el despacho de la correspondencia oficial y desahogar los asuntos, comisiones o tareas que le sean encomendados;
+XI. Ordenar el despacho de la correspondencia oficial y desahogar los asuntos, comisiones o tareas que le sean encomendados;
 
-XIII. Dar cuenta al Presidente de la Comisión de Administración de los actos u omisiones de los servidores públicos judiciales, que impliquen violación a las normas jurídicas, en contra de la correcta administración e impartición de justicia; y,
+XII. Dar cuenta al Presidente de la Comisión de Administración de los actos u omisiones de los servidores públicos judiciales, que impliquen violación a las normas jurídicas, en contra de la correcta administración e impartición de justicia; y,
 
-XIV. Las demás que les confieran las disposiciones jurídicas aplicables.
+XIII. Las demás que les confieran las disposiciones jurídicas aplicables.
 
 ### Capítulo VII. De los Impedimentos y Excusas de los Magistrados
 
@@ -435,11 +559,17 @@ En todo caso, el impedimento podrá ser invocado por cualquiera de las partes an
 
 Durante el tiempo que ejerzan las funciones de su cargo, los Magistrados no podrán en ningún caso, aceptar y desempeñar empleo o encargos en el sector público federal, estatal o municipal, salvo que se trate de actividades con carácter honorífico, científico o educativo, en las que deberán atender a las disposiciones jurídicas aplicables.
 
-### Capítulo VIII. De la Secretaría General de Acuerdos y del Pleno
+> <small>(REFORMADA SU DENOMINACION, P.O. 7 DE SEPTIEMBRE DE 2011)</small>
+
+### Capítulo VIII. De la Secretaría General de Acuerdos y del Pleno y de la Sala Colegiada de Segunda Instancia
+
+> <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 2011)</small>
 
 ###### Artículo 18.
 
-Para el desahogo de los asuntos del Pleno, el Tribunal nombrará a propuesta de su Presidente al Secretario General, quien tendrá fe pública con respecto a la función judicial que realice, debiendo conducirse con estricto apego a derecho, bajo pena de incurrir en las responsabilidades que prevengan las leyes aplicables.
+Para el desahogo de los asuntos del Pleno y de la Sala Colegiada de Segunda Instancia, el Tribunal nombrará a propuesta de su Presidente al Secretario General, quien tendrá fe pública con respecto a la función judicial que realice, debiendo conducirse con estricto apego a derecho, bajo pena de incurrir en las responsabilidades que prevengan las leyes aplicables.
+
+> <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 2011)</small>
 
 ###### Artículo 19.
 
@@ -447,13 +577,13 @@ Además de las facultades y obligaciones que le confiere el Código de Organizac
 
 I. Auxiliar al Presidente en el cumplimiento de sus facultades;
 
-II. Dar fe y autorizar con su firma los acuerdos, resoluciones y determinaciones del Pleno;
+II. Dar fe y autorizar con su firma los acuerdos, resoluciones y determinaciones del Pleno y de la Sala Colegiada de Segunda Instancia;
 
-III. Dar cuenta al Pleno de los asuntos del orden del día;
+III. Dar cuenta al Pleno y a la Sala Colegiada de Segunda Instancia, de los asuntos del orden del día;
 
-IV. Pasar lista de asistencia a los integrantes del Pleno;
+IV. Pasar lista de asistencia a los integrantes del Pleno y de la Sala Colegiada de Segunda Instancia;
 
-V. Verificar el quórum legal para la celebración de la sesión del Pleno;
+V. Verificar el quórum legal para la celebración de la sesión del Pleno y de la Sala Colegiada de Segunda Instancia;
 
 VI. En su oportunidad, tomar las votaciones y elaborar el acta de sesión correspondiente, misma que contendrá, lugar y fecha, nombre de los Magistrados que concurran, quien la preside, lo manifestado por los Magistrados que hayan hecho uso de la palabra a favor o en contra de un asunto, y el texto de los acuerdos tomados. El Secretario General cerrará el acta dando fe de lo sucedido en la sesión;
 
@@ -461,9 +591,9 @@ VII. Recibir y dar cuenta a los Magistrados de la correspondencia jurisdiccional
 
 VIII. Asentar en los expedientes los cómputos y razones que procedan;
 
-IX. Expedir certificaciones de las constancias que obren en los expedientes del Pleno;
+IX. Expedir certificaciones de las constancias que obren en los expedientes del Pleno y de la Sala Colegiada de Segunda Instancia;
 
-X. Expedir certificaciones de expedientes resueltos por el Pleno que se hayan remitido al Archivo Judicial del Estado;
+X. Expedir certificaciones de expedientes resueltos por el Pleno y por la Sala Colegiada de Segunda Instancia, que se hayan remitido al Archivo Judicial del Estado;
 
 XI. Cuidar que los expedientes sean debidamente integrados y foliados al agregarse cada una de las fojas rubricándolas en el centro de las actuaciones y entre sellándolas;
 
@@ -471,7 +601,7 @@ XII. Coordinar y desahogar los asuntos propios de su competencia y distribuirlos
 
 XIII. Vigilar la conservación del orden, disciplina y puntualidad de los servidores públicos de su adscripción, así como el despacho oportuno de los asuntos de su competencia, dando cuenta al Presidente de las infracciones que observe sobre el particular;
 
-XIV. Formar expedientes de cada uno de los asuntos que así lo requieran y, en su caso, efectuar las certificaciones necesarias para el debido engrose de las sentencias del Pleno;
+XIV. Formar expedientes de cada uno de los asuntos que así lo requieran y, en su caso, efectuar las certificaciones necesarias para el debido engrose de las sentencias del Pleno y de la Sala Colegiada de Segunda Instancia;
 
 XV. Cuidar que en la formación y registro de los expedientes, consten los datos indispensables de identificación, bastando para ello citar el número progresivo que corresponda y el año de ejercicio jurisdiccional en que se haya recibido el juicio;
 
@@ -487,15 +617,15 @@ XX. Turnar al Actuario los expedientes con los acuerdos y resoluciones para su d
 
 XXI. Permitir a las partes acreditadas que lo soliciten, bajo su más estricta responsabilidad, la consulta de los expedientes que tenga a su cargo;
 
-XXII. Coordinar las funciones del archivo judicial correspondientes al Pleno;
+XXII. Coordinar las funciones del archivo judicial correspondientes al Pleno y a la Sala Colegiada de Segunda Instancia;
 
-XXIII. Revisar que las resoluciones del Pleno se engrosen al expediente respectivo;
+XXIII. Revisar que las resoluciones del Pleno y de la Sala Colegiada de Segunda Instancia, se engrosen al expediente respectivo;
 
 XXIV. Coordinar y vigilar el funcionamiento de la oficialía de partes;
 
 XXV. Realizar los trámites conducentes para que se publiquen en el Periódico Oficial del Estado, los acuerdos o documentos que determine el Pleno o su Presidente;
 
-XXVI. Formar legajos de correspondencia, exhortos, telegramas, telefonemas, constancias de correspondencia y circulares que el Tribunal o la presidencia emitan y reciban en su actividad jurisdiccional;
+XXVI. Formar legajos de correspondencia, exhortas, telegramas, telefonemas, constancias de correspondencia y circulares que el Tribunal o la presidencia emitan y reciban en su actividad jurisdiccional;
 
 XXVII. Llevar el control de oficios, memorándums, circulares y cuadernillos que emita en el ejercicio de sus funciones;
 
@@ -505,13 +635,13 @@ XXIX. Auxiliar en la elaboración de los proyectos de manuales e instructivos de
 
 XXX. Llevar el control y registro de los criterios de jurisprudencia electoral y administrativa, que surjan de las sentencias que dicten el Pleno y las Salas del Tribunal;
 
-XXXI. Rendir un informe de las actividades jurisdiccionales del Pleno, al área de Planeación y seguimiento Operativo dentro de los primeros cinco días de cada mes;
+XXXI. Rendir un informe de las actividades jurisdiccionales del Pleno y de la Sala Colegiada de Segunda Instancia, al área de Planeación y Seguimiento Operativo dentro de los primeros tres días de cada mes;
 
 XXXII. Enviar semanalmente al área de transparencia y acceso a la información e informática, la estadística de expedientes recibidos, resueltos y los que se encuentran en trámite;
 
-XXXIII. Tramitar con toda oportunidad y bajo su más estricta responsabilidad, los asuntos competentes al Poder Judicial de la Federación, según corresponda;
+XXXIII. Tramitar con toda oportunidad y bajo su más estricta responsabilidad, los asuntos competencia del Poder Judicial de la Federación, según corresponda; de igual forma, cuando la Sala Colegiada de Segunda Instancia sea autoridad responsable en materia administrativa;
 
-XXXIV. Tramitar lo conducente y remitir con toda oportunidad los expedientes a la (sic) Tribunal Constitucional del Poder Judicial del Estado, en los casos en que se interponga un juicio de control constitucional cuando el asunto sea del Pleno;
+XXXIV. Tramitar lo conducente y remitir con toda oportunidad los expedientes al Tribunal Constitucional del Poder Judicial del Estado, en los casos en que se promueva un juicio de control constitucional cuando el asunto se encuentre en la Sala Colegiada de Segunda Instancia;
 
 XXXV. Elaborar el oficio de notificación a las autoridades responsables, debiendo insertar textualmente el auto a notificar y entregarlo al Actuario para la entrega respectiva;
 
@@ -525,7 +655,7 @@ XXXIX. Despachar la correspondencia relacionada con el ámbito de su competencia
 
 XL. Cubrir las guardias que en materia administrativa le correspondan y las necesidades del servicio requieran;
 
-XLI. Recabar las firmas autógrafas de los Magistrados integrantes del Pleno, una vez que le sea turnada la sentencia respectiva; y,
+XLI. Recabar las firmas autógrafas de los Magistrados integrantes del Pleno y de la Sala Colegiada de Segunda Instancia, una vez que le sea turnada la sentencia respectiva; y,
 
 XLII. Desempeñar las funciones que por ley le corresponda, las que le encomiende el Presidente del Tribunal, los Magistrados del Pleno, el presente Reglamento y demás disposiciones aplicables.
 
@@ -563,7 +693,33 @@ VII. De registro de cédulas profesionales; y,
 
 VIII. De entrega-recepción de expedientes al Actuario.
 
+> <small>(ADICIONADA, P.O. 7 DE SEPTIEMBRE DE 2011)</small>
+
+IX. De entrega-recepción de promociones a los Secretarios de Estudio y Cuenta.
+
 Antes de efectuar cualquier anotación o registro en los libros deberán estar foliados y autorizados por el Presidente del Tribunal y por el Secretario General. En la primera foja se hará constar la razón de su apertura, y en la última que se utilice constará el cierre correspondiente al año de ejercicio jurisdiccional; así como, en su caso, la razón de término de libro utilizado.
+
+> <small>(ADICIONADO, P.O. 7 DE SEPTIEMBRE DE 2011)</small>
+
+###### Artículo 21 Bis.
+
+En la sala Colegiada de Segunda Instancia, se llevarán los siguientes libros:
+
+I. De gobierno;
+
+II. De actas;
+
+III. De correspondencia;
+
+IV. De revisión;
+
+V. De amparos;
+
+VI. De entrega-recepción de expedientes al Actuario; y,
+
+VII. De entrega-recepción de promociones a los Secretarios de Estudio y Cuenta.
+
+Antes de efectuar cualquier anotación o registro en los libros deberán estar foliados y autorizados por el Presidente del Tribunal y por el Secretario General. En la primera foja se hará constar la razón de su apertura, y en la última que se utilice constará el cierre correspondiente al año de ejercicio jurisdiccional; así como, en su caso, la razón de término del libro utilizado.
 
 ###### Artículo 22.
 
@@ -587,9 +743,23 @@ La operatividad de la Secretaría General de Acuerdos se determinará en el manu
 
 Cuando haya cambio de Secretario General, el Presidente del Tribunal dará a conocer a las autoridades competentes el nombre y firma de quien ocupe el cargo.
 
+> <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 2011)</small>
+
 ###### Artículo 24.
 
-La Subsecretaría de Acuerdos, es una área de auxilio exclusivo para el desempeño de las funciones que tenga encomendadas la Secretaría General. Quien desempeñe el cargo deberán cumplir con los mismos requisitos para ser Secretario General y estarán facultados para suplir su ausencia.
+La Subsecretaría de Acuerdos, es una área de auxilio exclusivo para el desempeño de las funciones que tenga encomendadas la Secretaría General de Acuerdos y del Pleno. Quien desempeñe el cargo deberán (sic) cumplir con los mismos requisitos para ser Secretario General y tendrá las atribuciones siguientes:
+
+I. Cubrir las ausencias temporales del titular de la Secretaría General;
+
+II. Coadyuvar con el Secretario General en el cumplimiento de las atribuciones que tiene encomendadas;
+
+III. Dar fe de los actos y diligencias que le encomiende el Pleno o la Presidencia del Tribunal;
+
+IV. Certificar los documentos que obren en los archivos de la Secretaría General; y,
+
+V. Las demás que le confieran las disposiciones aplicables y este Reglamento, así como las que le sean encomendadas por el Pleno, por la Presidencia del Tribunal o por el Secretario General de Acuerdos y del Pleno.
+
+La operatividad de la Subsecretaría de Acuerdos se determinará en el manual de funciones respectivo.
 
 ###### Artículo 25.
 
@@ -621,11 +791,13 @@ X. Cubrir las guardias cuando así lo requiera el servicio; y,
 
 XI. Las que le asignen los Magistrados, el Secretario General o de Acuerdos, el presente Reglamento y demás disposiciones aplicables.
 
+> <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 2011)</small>
+
 ###### Artículo 27.
 
 El Tribunal contará con un Archivo Judicial, que dependerá funcionalmente del Secretario General.
 
-Tendrá como objetivo primordial, la custodia y salvaguarda de los expedientes resueltos por el Pleno y las Salas del Tribunal. En él, se depositarán y conservarán ordenadamente los expedientes concluidos, con la finalidad de ser utilizados para consulta, gestión, información e investigación.
+Tendrá como objetivo primordial, la custodia y salvaguarda de los expedientes del Pleno y las Salas del Tribunal; tanto los que estén en trámite como los resueltos. En él, se depositarán y conservarán ordenadamente todos los expedientes, con la finalidad de ser utilizados para consulta, gestión, información e investigación.
 
 ###### Artículo 28.
 
@@ -657,7 +829,9 @@ VIII. Elaborar cada seis meses y presentarlo ante al Secretario General, la (sic
 
 IX. Las demás que le confieran las disposiciones aplicables, así como las que le sean encomendadas por los Magistrados, el Secretario General o de Acuerdos.
 
-### Capítulo IX. De la Secretaría de Acuerdos de Sala
+> <small>(REFORMADA SU DENOMINACION, P.O. 7 DE SEPTIEMBRE DE 2011)</small>
+
+### Capítulo IX. De la Secretaría de Acuerdos de la Sala Colegiada de Primera Instancia
 
 ###### Artículo 30.
 
@@ -707,7 +881,9 @@ XVIII. Formar legajos de los listados de publicación, listas que suscriba;
 
 XIX. Auxiliar en la elaboración de los proyectos de manuales e instructivos del área a su cargo o en aquellos en que el Pleno o la Sala determinen;
 
-XX. Rendir un informe de las actividades jurisdiccionales de la Sala, al área de Planeación y seguimiento Operativo dentro de los primeros cinco días hábiles de cada mes;
+> <small>(REFORMADA, P.O. 7 DE SEPTIEMBRE DE 2011)</small>
+
+XX. Rendir un informe de las actividades jurisdiccionales de la Sala, al área de Planeación y Seguimiento Operativo dentro de los primeros tres días hábiles de cada mes;
 
 XXI. Enviar semanalmente al área de transparencia y acceso a la información e informática, la estadística de expedientes recibidos, resueltos y los que se encuentran en trámite;
 
@@ -747,6 +923,8 @@ XXXVIII. Remitir a la Secretaría General los expedientes concluidos; y,
 
 XXXIX. Desempeñar las funciones que por ley le corresponda, las que le encomiende el Presidente del Tribunal, los Magistrados de la Sala de su adscripción, el Presidente de la misma, el presente Reglamento y demás disposiciones aplicables.
 
+> <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 2011)</small>
+
 ###### Artículo 32.
 
 En la Secretaría de Acuerdos, se llevarán los siguientes libros:
@@ -759,9 +937,13 @@ III. De correspondencia;
 
 IV. De exhortos;
 
-V. De amparos; y,
+V. De amparos;
 
-VI. De entrega-recepción de expedientes al Actuario.
+VI. De revisión;
+
+VII. De entrega-recepción de expedientes al Actuario; y,
+
+VIII. De entrega-recepción de promociones a los Secretarios de Estudio y Cuenta.
 
 Antes de efectuar cualquier anotación o registro en los libros deberán estar foliados y autorizados por el Presidente de Sala y por el Secretario de Acuerdos. En la primera foja se hará constar la razón de su apertura, y en la última que se utilice constará el cierre correspondiente al año de ejercicio jurisdiccional, así como, en su caso, la razón de término de libro utilizado.
 
@@ -791,11 +973,21 @@ VIII. Realizar los trabajos que les encomiende el Magistrado al cual se encuentr
 
 IX. Desempeñar las tareas que les encomiende la Sala de su adscripción, el Presidente de la misma o el Presidente del Tribunal, previa anuencia del Magistrado de su adscripción y atendiendo a las cargas de trabajo;
 
-X. Llevar el control de expedientes que les sean entregados por su Magistrado para proyecto, con el fin de registrar la fecha en que les fueron turnados y la correspondiente devolución con el proyecto de sentencia;
+> <small>(REFORMADA, P.O. 7 DE SEPTIEMBRE DE 2011)</small>
 
-XI. Cubrir guardias cuando así lo requiera el servicio; y,
+X. Llevar el libro de control de expedientes que les sean entregados por su Magistrado para proyecto, con el fin de registrar la fecha en que les fueron turnados y la correspondiente devolución con el proyecto de sentencia;
 
-XII. Las que les asignen el Pleno, el Presidente de éste, las Salas, el Presidente de las mismas, el presente Reglamento y demás disposiciones aplicables.
+> <small>(ADICIONADA, P.O. 7 DE SEPTIEMBRE DE 2011)</small>
+
+XI. Llevar el libro de control de promociones que les sean entregados por el Secretario de Acuerdos de Sala, con el fin de registrar la fecha en que fueron recibidas y la correspondiente devolución con el acuerdo respectivo;
+
+> <small>(REFORMADA, P.O. 7 DE SEPTIEMBRE DE 2011)</small>
+
+XII. Cubrir guardias cuando así lo requiera el servicio; y,
+
+> <small>(REFORMADA, P.O. 7 DE SEPTIEMBRE DE 2011)</small>
+
+XIII. Las que les asignen el Pleno, el Presidente de éste, las Salas, el Presidente de las mismas, el presente Reglamento y demás disposiciones aplicables.
 
 ### Capítulo XI. De los Actuarios del Tribunal
 
@@ -807,7 +999,9 @@ Los Actuarios tienen fe pública judicial con respecto a las diligencias y notif
 
 Para ser Actuario del Tribunal, se deben satisfacer los mismos requisitos para ser Secretario de Acuerdos. Son facultades y .obligaciones de los Actuarios en el ámbito de su competencia:
 
-I. Recibir del Secretario General, Subsecretario o Secretarios de Acuerdos, los expedientes para su diligenciación respectiva, firmando el libro de control de entrega recepción;
+> <small>(REFORMADA, P.O. 7 DE SEPTIEMBRE DE 2011)</small>
+
+I. Recibir del Secretario General, Subsecretario o Secretario de Acuerdos, los expedientes para su diligenciación respectiva, firmando el libro de control de entrega-recepción;
 
 II. Realizar las notificaciones en los términos y tiempos, que se indiquen exclusivamente en los acuerdos o sentencias, y en las leyes que rigen las materias electoral y administrativa, debiendo asentar en la diligencia hora, fecha y lugar en que se lleve a cabo;
 
@@ -827,7 +1021,9 @@ IX. Llevar el libro correspondiente de la actuaría, en donde se llevará el con
 
 X. Cubrir las guardias cuando así lo requiera el servicio;
 
-XI. Informar permanentemente al Secretario General, Subsecretario o Secretarios de Acuerdos, según sea el caso, sobre las tareas que les sean encomendadas y del desahogo de los asuntos de su competencia; y,
+> <small>(REFORMADA, P.O. 7 DE SEPTIEMBRE DE 2011)</small>
+
+XI. Informar permanentemente al Secretario General, Subsecretario o Secretario de Acuerdos, según sea el caso, sobre las tareas que les sean encomendadas y del desahogo de los asuntos de su competencia; y,
 
 XII. Las demás que le confieren las disposiciones aplicables.
 
@@ -863,19 +1059,25 @@ Los asuntos generales sólo deben considerarse en las sesiones ordinarias. Se de
 
 En las sesiones extraordinarias sólo podrán tratarse aquellos asuntos descritos en la convocatoria o en el orden del día respectivo.
 
+> <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 2011)</small>
+
 ###### Artículo 39.
 
-Para que el Pleno pueda sesionar en materia electoral se requiere el quórum de cuando menos cuatro de sus integrantes, incluyendo al Presidente. En materia administrativa bastará la presencia de tres Magistrados incluyendo al Presidente.
+Para que el Pleno pueda sesionar en materia electoral y laboral, se requiere el quórum de cuando menos cuatro de sus integrantes, incluyendo al Presidente.
 
-En tratándose de las Salas, se requiere la presencia de todos sus integrantes. Cuando por causa de recusación, excusa o cualquier otro motivo justificado, un Magistrado no integre Sala, será sustituido por el Secretario de Acuerdos de la misma, y éste a su vez por un Secretario de Estudio y Cuenta. Si se trata del Presidente de Sala, será sustituido por el Magistrado que le siga en orden alfabético de su apellido, y éste a su vez por el Secretario de Acuerdos de la Sala.
+En tratándose de la Sala Colegiada de Primera Instancia, se requiere la presencia de todos sus integrantes; y para la Sala Colegiada de Segunda Instancia, bastará la presencia de tres Magistrados incluyendo al Presidente.
+
+Cuando por causa de recusación, excusa o cualquier otro motivo justificado, un Magistrado no integre Sala, será sustituido por el Secretario General o de Acuerdos respectivamente, y éste a su vez por un Secretario de Estudio y Cuenta. Si se trata del Presidente de Sala, será sustituido por el Magistrado que le siga en orden alfabético de su apellido, y éste a su vez por el Secretario General o de Acuerdos de la Sala, según sea el caso.
+
+> <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 2011)</small>
 
 ###### Artículo 40.
 
-En el caso de que el Presidente del Tribunal no pueda estar presente en la sesión correspondiente, será suplido por el Magistrado que el mismo designe.
+En el caso de que el Presidente del Tribunal no pueda estar presente en la sesión correspondiente, será suplido por el Magistrado que él mismo designe.
 
-Si la ausencia es del Secretario General, sus funciones serán realizadas por el Subsecretario o el Secretario de Acuerdos que al efecto designe el Presidente del Tribunal. Cuando la ausencia sea del Secretario de Acuerdos, éste será suplido por el Secretario de Estudio y Cuenta o Actuario que designe el Presidente de Sala.
+Si la ausencia es del Secretario General, sus funciones serán realizadas por el Subsecretario, el Secretario de Acuerdos o quien designe la Comisión de Administración. Cuando la ausencia sea del Secretario de Acuerdos, éste será suplido por el Secretario de Estudio y Cuenta o Actuario que designe el Presidente de Sala o del Tribunal.
 
-El Presidente del Tribunal o de Sala, ordenará al Secretario General o Secretario de Acuerdos, según sea el caso, informe al Pleno o a la Sala respectiva, de las inasistencias justificadas de los Magistrados.
+El Presidente del Tribunal o de Sala, ordenará al Secretario General o de Acuerdos, según sea el caso, informe al Pleno o a las Salas respectivas, de las inasistencias justificadas de los Magistrados.
 
 ###### Artículo 41.
 
@@ -884,6 +1086,10 @@ Las sesiones del Tribunal podrán ser públicas o privadas, con carácter de ord
 El público asistente deberá permanecer en silencio, guardando respeto, compostura y ocupando los lugares que para tal efecto se les asignen.
 
 El Presidente del Pleno o de la Sala respectiva, podrá acordar que las sesiones sean privadas cuando los asistentes perturben el orden, impidiendo el desarrollo normal de la sesión, o cuando a su juicio deban desarrollarse con tal carácter.
+
+> <small>(ADICIONADO, P.O. 7 DE SEPTIEMBRE DE 2011)</small>
+
+De igual forma, podrá aplazar las sesiones en caso fortuito o fuerza mayor; en año electoral hasta por 24 horas; y en año no electoral, hasta por 3 días.
 
 ###### Artículo 42.
 
@@ -969,7 +1175,9 @@ I. Fallado un asunto, los Secretarios de Estudio y Cuenta, por instrucción del 
 
 II. Si existe voto particular, éste no deberá contener puntos resolutivos y se insertará en la sentencia después de la indicación de su notificación respectiva; seguidamente se anotará el pié de la resolución, la votación por la que fue aprobada y finalmente el nombre de los Magistrados que intervinieron en su emisión; y,
 
-III. El Secretario de Acuerdos que corresponda procederá a recabar la firma de los Magistrados que hayan votado el asunto.
+> <small>(REFORMADA, P.O. 7 DE SEPTIEMBRE DE 2011)</small>
+
+III. El Secretario General o de Acuerdos que corresponda procederá a recabar la firma de los Magistrados que hayan votado el asunto.
 
 ## Título Segundo. De la Administración del Tribunal
 
@@ -1023,7 +1231,9 @@ VI. Discutir y aprobar los programas de auditorías formulados por la Contralor�
 
 VII. Aplicar medidas de apremio, correcciones disciplinarias y sanciones, según sea el caso, en contra de los funcionarios y servidores públicos del Tribunal, previa sustanciación de procedencia de la queja o denuncia interpuesta;
 
-VIII. Nombrar y aprobar, a propuesta que formule su Presidente, a los titulares y servidores públicos de los órganos auxiliares, acordando lo relativo a sus ascensos, licencias, remociones y renuncias, conforme lo dispuesto en la fracción VII, del artículo 166, del Código de Organización;
+> <small>(REFORMADA, P.O. 7 DE SEPTIEMBRE DE 2011)</small>
+
+VIII. Nombrar y aprobar, a propuesta que formule su Presidente, a los titulares y servidores públicos de los órganos auxiliares, acordando lo relativo a sus ascensos, licencias, remociones y renuncias, conforme lo dispuesto en la fracción VII del artículo 247 del Código de Organización;
 
 IX. Emitir acuerdos generales;
 
@@ -1033,33 +1243,61 @@ XI. Resolver con base a los informes que le proporcione el Centro, respecto a la
 
 XII. Revisar y autorizar las tareas de capacitación, investigación y difusión en materia electoral y administrativa, desarrolladas por el Centro;
 
-XIII. Establecer las bases de coordinación del Centro con el Instituto de Estudios Judiciales del Consejo de la Judicatura del Poder Judicial del Estado, de acuerdo a los lineamientos que previamente acuerde la propia Comisión;
+> <small>(ADICIONADA, P.O. 7 DE SEPTIEMBRE DE 2011)</small>
 
-XIV. Elaborar y revisar el proyecto de Reglamento Interior del Tribunal, así como efectuar las modificaciones, adiciones y reformas al respecto, para someterlo a la consideración del Pleno del mismo;
+XIII. Conocer del acta de visita que rinda la Sala Colegiada de Segunda Instancia sobre las visitas realizadas a los Secretarios de Estudio y Cuenta, a la Secretaría de Acuerdos de la Sala Colegiada de Primera Instancia, y a la Secretaría General de Acuerdos y del Pleno, así como a las áreas auxiliares de ésta última, exclusivamente a lo que atañe al régimen disciplinario, a efecto de dictar las providencias que procedan;
 
-XV. Analizar y aprobar la normativa y criterios establecidos por la Oficialía Mayor, para modernizar las estructuras organizacionales, los sistemas y procedimientos administrativos internos;
+> <small>(REFORMADA, P.O. 7 DE SEPTIEMBRE DE 2011)</small>
 
-XVI. Dictar las bases generales de organización, funcionamiento, coordinación y supervisión de los órganos dependientes de la Comisión;
+XIV. Establecer las bases de coordinación del Centro con el Instituto de Estudios Judiciales del Consejo de la Judicatura del Poder Judicial del Estado, de acuerdo a los lineamientos que previamente acuerde la propia Comisión;
 
-XVII. Acordar los días de descanso que considere pertinente;
+> <small>(REFORMADA, P.O. 7 DE SEPTIEMBRE DE 2011)</small>
 
-XVIII. Fijar las bases de la política de medios de comunicación digital y estadística del Tribunal;
+XV. Elaborar y revisar el, proyecto de Reglamento Interior del Tribunal, así como efectuar las modificaciones, adiciones y reformas al respecto, para someterlo a la consideración del Pleno del mismo;
 
-XIX. Establecer e implantar el Sistema de Carrera Judicial en términos de este Reglamento;
+> <small>(REFORMADA, P.O. 7 DE SEPTIEMBRE DE 2011)</small>
 
-XX. Aprobar el proyecto de Presupuesto de Egresos;
+XVI. Analizar y aprobar la normativa y criterios establecidos por la Oficialía Mayor, para modernizar las estructuras organizacionales, los sistemas y procedimientos administrativos internos;
 
-XXI. Promulgar las medidas necesarias para el buen servicio y disciplina del Tribunal;
+> <small>(REFORMADA, P.O. 7 DE SEPTIEMBRE DE 2011)</small>
 
-XXII. Emitir las bases mediante acuerdos generales para que las adquisiciones, arrendamientos y enajenaciones de bienes, prestación de servicios y contratación de obra realizada por el Tribunal, se ajusten a los criterios previstos en el Código de Organización y el presente Reglamento;
+XVII. Dictar las bases generales de organización, funcionamiento, coordinación y supervisión de los órganos dependientes de la Comisión;
 
-XXIII. Procurar, acondicionar y mantener en óptimas condiciones los bienes muebles e inmuebles al servicio del Tribunal;
+> <small>(REFORMADA, P.O. 7 DE SEPTIEMBRE DE 2011)</small>
 
-XXIV. Verificar el cumplimiento de las normas y procedimientos sobre la administración del presupuesto del Tribunal, así como ejercer el mismo, por conducto de su Presidente, en apego a los principios de racionalidad, austeridad, eficiencia y disciplina presupuestal; y,
+XVIII. Acordar los días de descanso que considere pertinente;
 
-XXV. Las demás que le confieran las disposiciones aplicables y el presente Reglamento.
+> <small>(REFORMADA, P.O. 7 DE SEPTIEMBRE DE 2011)</small>
 
-La operatividad de la Comisión se determinará en el manual de funciones respectivo.
+XIX. Fijar las bases de la política de medios de comunicación digital y estadística del Tribunal;
+
+> <small>(REFORMADA, P.O. 7 DE SEPTIEMBRE DE 2011)</small>
+
+XX. Establecer e implantar el Sistema de Carrera Judicial en términos de este Reglamento;
+
+> <small>(REFORMADA, P.O. 7 DE SEPTIEMBRE DE 2011)</small>
+
+XXI. Aprobar el proyecto de Presupuesto de Egresos;
+
+> <small>(REFORMADA, P.O. 7 DE SEPTIEMBRE DE 2011)</small>
+
+XXII. Promulgar las medidas necesarias para el buen servicio y disciplina del Tribunal;
+
+> <small>(REFORMADA, P.O. 7 DE SEPTIEMBRE DE 2011)</small>
+
+XXIII. Emitir las bases mediante acuerdos generales para que las adquisiciones, arrendamientos y enajenaciones de bienes, prestación de servicios y contratación de obra realizada por el Tribunal, se ajusten a los criterios previstos en el Código de Organización y el presente Reglamento;
+
+> <small>(REFORMADA, P.O. 7 DE SEPTIEMBRE DE 2011)</small>
+
+XXIV. Procurar, acondicionar y mantener en óptimas condiciones los bienes muebles e inmuebles al servicio del Tribunal;
+
+> <small>(REFORMADA, P.O. 7 DE SEPTIEMBRE DE 2011)</small>
+
+XXV. Verificar el cumplimiento de las normas y procedimientos sobre la administración del presupuesto del Tribunal, así como ejercer el mismo, por conducto de su Presidente, en apego a los principios de racionalidad, austeridad, eficiencia y disciplina presupuestal; y,
+
+> <small>(REFORMADA, P.O. 7 DE SEPTIEMBRE DE 2011)</small>
+
+XXVI. Las demás quo le confieran las disposiciones aplicables y el presente Reglamento. La operatividad de la Comisión se determinará en el manual de funciones respectivo.
 
 ### Capítulo II. De su Presidente
 
@@ -1237,7 +1475,9 @@ XIII. Preparar la edición del boletín informativo del Tribunal y de la Comisi�
 
 XIV. Compilar y mantener actualizado el marco jurídico electoral y administrativo;
 
-XV. Proponer al Secretario General, Subsecretario y Secretarios de Acuerdos, el rubro y texto de los criterios de jurisprudencia electoral y administrativa, que surjan de las sentencias que dicten el Pleno y las Salas del Tribunal;
+> <small>(REFORMADA, P.O. 7 DE SEPTIEMBRE DE 2011)</small>
+
+XV. Proponer al Secretario General, Subsecretario y Secretario de Acuerdos, el rubro y texto de los criterios de jurisprudencia electoral y administrativa, que surjan de las sentencias que dicten el Pleno y las Salas del Tribunal;
 
 XVI. Las demás que le confieran las disposiciones aplicables.
 
@@ -1313,9 +1553,11 @@ XXIV. Intervenir en los actos de entrega-recepción, elaborando el acta correspo
 
 XXV. Las demás que en el ámbito de su competencia le confieran la Comisión, su Presidente, el presente Reglamento y demás disposiciones aplicables.
 
+> <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 2011)</small>
+
 ###### Artículo 68.
 
-Para ser Contralor Interno, además de satisfacer los requisitos señalados en el artículo 20, del presente Reglamento, se debe contar con título legalmente expedido y cédula profesional en Contaduría Pública.
+Para ser Contralor Interno se deben satisfacer los requisitos señalados en los artículos 20 y 59 del presente Reglamento.
 
 ###### Artículo 69.
 
@@ -1775,15 +2017,69 @@ Los servidores públicos del Tribunal que hubieren gozado de una licencia no pod
 
 Las ausencias y licencias de los Magistrados serán cubiertas y otorgadas de conformidad con el presente Reglamento y demás ordenamientos jurídicos aplicables.
 
+> <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 2011)</small>
+
 ###### Artículo 94.
 
-Las licencias de las trabajadoras en estado de gravidez, serán con goce de sueldo íntegro al equivalente a seis semanas antes de la fecha probable del parto y seis semanas posteriores a éste, previa certificación médica de cualquier institución de salud pública o médico particular, quien deberá ratificarla a solicitud de la Comisión o su Presidente.
+Las licencias de maternidad y paternidad otorgadas a los trabajadores del Tribunal serán en los siguientes términos:
 
-En el período de lactancia, la madre trabajadora tendrá dos descansos de media hora por día, para alimentar al lactante.
+I. La licencia de maternidad será por un período de tres meses, con goce de sueldo, en términos de lo señalado la Ley del Servicio Civil del Estado y los municipios de Chiapas. Una vez que la madre haya tramitado su licencia ante el instituto de seguridad social competente, deberá informar por escrito al Departamento de Recursos Humanos del Tribunal de Justicia Electoral y Administrativa del Poder Judicial del Estado, con el fin de que queden registradas las fechas de la licencia.
+
+El período de licencia de maternidad podrá ser ampliado en los siguientes supuestos:
+
+a. Cuando se trate de un parto prematuro, el período será ampliado proporcionalmente en días naturales en función de las semanas de gestación;
+
+b. En caso de que el menor presente problemas de salud al nacer, que pongan en riesgo su vida, y ameriten intervención quirúrgica o cuidados intensivos, la licencia se extenderá por 30 días naturales más;
+
+c. Si el menor presenta problemas de discapacidad al nacer, la licencia se extenderá por 30 días naturales más; y,
+
+d. En caso de parto múltiple, la licencia se extenderá por 15 días naturales más.
+
+Todas las madres tendrán derecho al período de lactancia hasta que el recién nacido cumpla los seis meses de edad, y en términos de lo señalado por la Ley del Servicio Civil del Estado y los municipios de Chiapas, es decir, dos períodos durante el día de media hora cada uno. Las madres podrán decidir cómo aplicar su derecho de una hora de lactancia diaria, pudiendo optar por entrar una hora más tarde al Tribunal, salir una hora más temprano o ampliar su horario de comida. Esta decisión deberá ser informada por escrito, tanto a su superior jerárquico como al área de recursos humanos.
+
+II. El padre disfrutará de una licencia de paternidad remunerada de diez días hábiles continuos, con goce de sueldo, contados a partir del nacimiento de su hijo o hija. A tal efecto, el trabajador deberá presentar ante el Departamento de Recursos Humanos de este Tribunal el certificado médico de nacimiento del niño o niña, expedido por un centro de salud público o privado, en el cual conste su carácter progenitor. Además, tendrá un plazo de treinta días naturales para presentar a dicha área el acta de nacimiento de su hija o hijo; salvo que el recién nacido no sea entregado en los plazos ordinarios por haber nacido prematuramente, entre otras causas de excepción.
+
+En caso de enfermedad grave o discapacidad de su hija o hijo recién nacidos, así como de complicaciones graves de salud, que coloquen en riesgo la vida de la madre, este permiso o licencia de paternidad remunerada se extenderá por un período igual de diez días hábiles continuos.
+
+En caso de parto múltiple el permiso o licencia de paternidad remunerada se extenderá por cinco días hábiles continuos más.
+
+III. Cuando fallezca la madre, el padre de la niña o niño recién nacidos, tendrá derecho a tomar licencia por el período que hubiere correspondido a ésta.
+
+IV. La (el) trabajadora (or), mujer o (sic) hombre, a quien se le conceda la adopción de una niña o niño disfrutará de esta licencia en los siguientes términos:
+
+a. En caso de que el menor tenga entre dos y seis meses, se extenderá una licencia de sesenta días naturales a la madre.
+
+b. En caso de que el menor tenga entre seis y doce meses, se extenderá una licencia de treinta días naturales a la madre.
+
+c. En caso de que el menor tenga más de doce meses de edad, se extenderá una licencia de diez días hábiles a la madre.
+
+d. En todos los casos, se extenderá una licencia de diez días hábiles al padre.
+
+V. Si el menor es recién nacido y su vida está en peligro, se extenderá la licencia por un período adicional de treinta días naturales. Si el menor presenta problemas de discapacidad, se extenderá la licencia por diez días hábiles. Esta extensión será tanto para la madre como para el padre.
+
+VI. Las licencias de maternidad y paternidad son irrenunciables, salvo las extensiones de las mismas que serán a solicitud del trabajador.
+
+VII. Para acreditar los derechos señalados en las fracciones anteriores, será necesario que quien ejerza dichos derechos presente el acta de nacimiento, adopción, defunción o constancia de estado de salud respectiva, ante el Departamento de Recursos Humanos.
+
+> <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 2011)</small>
 
 ###### Artículo 95.
 
 La incapacidad médica deberá ser justificada mediante certificación expedida por institución de salud pública o médico particular, quien deberá ratificarla a solicitud de la Comisión o su Presidente.
+
+El personal jurisdiccional y administrativo que sufra enfermedades no profesionales, tendrá derecho a presentar incapacidad médica para dejar de concurrir a sus labores, previo dictamen del Instituto Mexicano del Seguro Social, a quienes se les podrá conceder licencia en los siguientes términos:
+
+I. A los empleados que tengan menos de un año de servicio, se les otorgará licencia por quince días con goce de sueldo íntegro y hasta quince días más con medio sueldo.
+
+II. A los que tengan de uno a cinco años de servicio, se les otorgará licencia por treinta días con goce de sueldo íntegro y hasta treinta días más con medio sueldo.
+
+III. A los que tengan de cinco a diez años de servicio, se les otorgará licencia por cuarenta y cinco días con goce de sueldo integro y hasta cuarenta y cinco días más con medio sueldo; y,
+
+IV. A los que tengan diez años de servicio en adelante, se les otorgará licencia por sesenta días con goce de sueldo y hasta sesenta días más con goce de medio sueldo.
+
+En los casos previstos en las fracciones anteriores, si al vencer las licencias con sueldo y medio sueldo continúa la incapacidad, se prorrogará al trabajador la licencia, sin goce de sueldo hasta totalizar en conjunto el término que establezca la ley de la institución de seguridad social que le corresponda.
+
+La Comisión puede ampliar los plazos con goce de sueldo íntegro y los de medio sueldo previstos en las fracciones que anteceden, atendiendo al buen desempeño del servidor público de que se trate, debiendo fundar y motivar esa determinación.
 
 ### Capítulo IV. De las vacaciones y días inhábiles
 
@@ -1959,7 +2255,189 @@ De las renuncias y licencias de los Magistrados del Tribunal conocerá el Pleno,
 
 Las renuncias de los Secretarios, Actuarios, Oficial Mayor, Jefes de Departamento, de Unidad y las de los demás servidores del Tribunal conocerán el Pleno o la Comisión, en su caso.
 
-### Capítulo VIII. Del Juicio Laboral
+> <small>(REFORMADA SU DENOMINACION, P.O. 7 DE SEPTIEMBRE DE 2011)</small>
+
+### Capítulo VIII. De la Carrera Judicial
+
+> <small>(ADICIONADO, P.O. 7 DE SEPTIEMBRE DE 2011)</small>
+
+###### Artículo 110 Bis.
+
+Los principios generales y las categorías que integran la Carrera Judicial son de observancia general y tienen por objeto:
+
+I. Reglamentar la organización y funcionamiento de la carrera judicial en el Tribunal.
+
+II. Determinar los requisitos y procedimientos de ingreso al Sistema de Carrera Judicial.
+
+III. Instaurar mecanismos de permanencia, ascensos e incentivos que fomenten el desarrollo del personal de carrera.
+
+IV. Establecer un sistema permanente de actualización y profesionalización de los servidores públicos del Tribunal, que permita contar con funcionarios especializados que coadyuven al cumplimiento de los fines y atribuciones encomendadas a dicho órgano jurisdiccional.
+
+V. Integrar al personal de carrera del Tribunal de Justicia Electoral y Administrativa a la Carrera Judicial.
+
+VI. Promover mecanismos de intercambio académico con el Centro de Capacitación Judicial Electoral del Tribunal Electoral del Poder Judicial de la Federación y el Instituto de la Judicatura Federal.
+
+Para efectos de la Carrera Judicial se entenderá como personal de carrera a los servidores públicos en activo que cumplieron con los requisitos establecidos en el Código de Organización del Poder Judicial del Estado y en el presente Reglamento para ser considerados miembros del Sistema de Carrera Judicial del Tribunal.
+
+La Carrera Judicial en el Tribunal de Justicia Electoral y Administrativa se basará en lo siguiente:
+
+Apartado A.- Para el óptimo desarrollo del Sistema de Carrera Judicial en el Tribunal se deberá:
+
+I. Seleccionar al personal de carrera de conformidad con lo establecido en el presente reglamento.
+
+II. Establecer un sistema de ascensos que tome en consideración la antigüedad, la trayectoria profesional y el desempeño jurisdiccional.
+
+III. Promover el desarrollo del personal de carrera a través de la capacitación y el establecimiento de incentivos y reconocimientos.
+
+IV. Fomentar en el personal, los principios de excelencia, objetividad, imparcialidad, profesionalismo e independencia, valores que rigen la actividad jurisdiccional estatal.
+
+Apartado B.- La Carrera Judicial en el Tribunal estará integrada por las siguientes categorías:
+
+l. Secretario General de Acuerdos y del Pleno y Secretario de Acuerdos de la Sala Colegiada de Segunda Instancia.
+
+II. Subsecretario General de Acuerdos.
+
+III. Secretario de Acuerdos de la Sala de Primera Instancia.
+
+IV. Secretario de Estudio y Cuenta.
+
+V. Actuario.
+
+Las dos terceras partes por cada categoría jurisdiccional de Carrera Judicial que integre las salas del Tribunal, deberá estar conformada por personal de carrera. Para su ingreso, dicho personal deberá cumplir con los requisitos establecidos en el Código de Organización del Poder Judicial del Estado, el presente Reglamento y sujetarse a los procedimientos contemplados en este ordenamiento. Cada ponencia deberá contar con al menos dos terceras partes de personal de Carrera Judicial.
+
+El Centro de Formación Electoral y Administrativa será el área responsable de implementar y ejecutar el Sistema de Carrera Judicial del Tribunal, para lo cual contará con el apoyo que le brinden otras unidades administrativas.
+
+Apartado C.- El ingreso al Sistema de Carrera Judicial será a través de la aprobación de los exámenes de aptitud o a través de la aprobación del curso para Secretario de Estudio y Cuenta y Actuario
+
+La Comisión de Administración, previo dictamen del Centro de Formación Electoral y Administrativa, establecerá la calificación mínima aprobatoria y la frecuencia de la celebración de exámenes y de los cursos.
+
+La especialidad en Secretaría de Juzgado de Distrito y de Tribunal de Circuito y el curso para actuario que imparte el Instituto de la Judicatura Federal, así como la especialidad en Secretario de Estudio y Cuenta y el curso para Actuario que imparte el Tribunal Electoral del Poder Judicial de la Federación, se equiparan a los cursos que para ocupar dichos cargos imparte este Tribunal.
+
+Para el ingreso al Sistema de Carrera Judicial se tomarán en consideración los siguientes elementos:
+
+I. Aprobación de los exámenes de aptitud o de la especialidad.
+
+II. Tiempo efectivamente laborado en el Poder Judicial del Estado o de la Federación.
+
+III. La experiencia en materia electoral y administrativa.
+
+IV. Los cursos recibidos o impartidos; y,
+
+V. El grado académico del aspirante.
+
+Además de dar la posibilidad de ingresar al Sistema de Carrera Judicial, la aprobación de los exámenes de aptitud o del curso para Actuario, así como de la especialidad dará la posibilidad de integrar una lista de habilitados con vigencia de un año de la cual podrán elegir los Magistrados para ocupar las vacantes que se generen en sus ponencias, sean estas plazas eventuales o permanentes, de Carrera Judicial o no.
+
+Las convocatorias a los exámenes de aptitud podrán ser abiertas o cerradas, según lo determine en cada caso la Comisión de Administración. La elaboración de los exámenes de aptitud será responsabilidad del Centro de Formación Electoral y Administrativa con el auxilio académico de Magistrados y, en su caso, el apoyo de la Secretaría General de Acuerdos y del Pleno.
+
+Los exámenes de aptitud se realizarán en las fechas y en la sede que para tal efecto determine la Comisión de Administración
+
+Los exámenes de aptitud deberán estar conformados por una evaluación teórica y una evaluación práctica. De no acreditar los exámenes a los que se refiere este párrafo, los aspirantes podrán sustentar subsecuentes exámenes en las fechas que determine la Comisión de Administración. En el caso de que un aspirante no aprobara el examen en la misma categoría en más de tres ocasiones consecutivas, no podrá presentar otro, sino un año después de sustentado el último.
+
+Con el propósito de otorgar mayor eficiencia a los procedimientos de publicidad de las convocatorias, etapa de inscripción y realización de exámenes, se privilegiará el uso de sistemas informáticos. Para ello, en caso de que se posibilite a los participantes la remisión de su documentación por medios electrónicos, dichos participantes deberán manifestar bajo protesta de decir verdad, que la información que envían por ese conducto es auténtica y que se comprometen a presentarla en cualquier momento que les sea solicitada, ya sea en original o copia certificada.
+
+Dentro de los diez días posteriores a la evaluación, se publicará (sic) los resultados de los exámenes de aptitud; dicha publicación surtirá efectos de notificación a los interesados. En caso de desacuerdo con la calificación publicada, los sustentantes cuentan con el plazo de tres días a partir de la publicación de los resultados, para la presentación de su reclamación ante el Centro de Formación Electoral y Administrativa.
+
+Dicha reclamación deberá presentarse en los términos que establezca la Comisión de Administración en la convocatoria correspondiente. La referida Comisión resolverá la reclamación dentro del plazo de quince días posteriores a su recepción, con dictamen previo del Centro de Formación Electoral y Administrativa. La resolución emitida será definitiva e inatacable, y deberá ser notificada de manera personal al reclamante en el domicilio que señale para tal efecto.
+
+Los nombres de las personas que hayan acreditado los exámenes de aptitud serán integrados a una lista de habilitados que se publicará en la página de Internet del Tribunal, la cual se mantendrá actualizada.
+
+En el supuesto de que un integrante de la lista hubiere sido nombrado en alguna plaza y concluya sus funciones, volverá a formar parte de la lista de habilitados con una vigencia de un año a partir de la conclusión de sus funciones, siempre y cuando la conclusión de sus servicios no sea por causas de responsabilidad administrativa o penal imputables al servidor público.
+
+Apartado D.- Para la permanencia del personal de carrera, se realizarán cursos de actualización obligatorios. Se establecerá un mecanismo de evaluación periódico del desempeño del personal de carrera que permita medir su desempeño laboral y en el cual se tomarán en consideración los cursos de actualización que haya impartido o recibido.
+
+Las evaluaciones del personal de carrera serán anuales, determinadas en su contenido por el Centro de Formación Electoral y Administrativa, aprobadas por la Comisión de Administración.
+
+Los ascensos en la Carrera Judicial estarán sujetos a la existencia de vacantes, la disponibilidad presupuestal y las necesidades propias del Tribunal.
+
+Para los ascensos se tomarán en consideración:
+
+I. El resultado de los exámenes de aptitud correspondientes al cargo al que se desea ascender.
+
+II. Antigüedad en el Poder Judicial del Estado o de la Federación.
+
+III. Resultados obtenidos en las evaluaciones anuales.
+
+IV. Créditos obtenidos en los cursos con valor en el Sistema de Carrera Judicial, organizados por el Centro de Capacitación del Tribunal Electoral del Poder Judicial de la Federación o el Instituto de la Judicatura Federal, y el propio Tribunal de Justicia Electoral y Administrativa.
+
+V. Títulos profesionales y grados académicos obtenidos.
+
+De acuerdo a las necesidades del servicio y de manera temporal el personal de carrera podrá ser comisionado a otras áreas del Tribunal.
+
+Apartado E.- El Centro de Capacitación promoverá la constante actualización del personal de carrera a través de diversos cursos, congresos o seminarios; sean estos nacionales o extranjeros.
+
+Los cursos serán coordinados por dicho Centro, de conformidad con las disposiciones que le confiere este Reglamento, el Manual de Organización del Centro de Capacitación y el Programa Académico que apruebe la Comisión de Administración.
+
+Las personas que acrediten dichos cursos de manera destacada, estarán acreditadas para impartirlos, lo que se tomará en consideración para efectos de la evaluación del desempeño del personal de carrera.
+
+El Centro de Capacitación llevará un registro actualizado de los cursos tomados o impartidos por el personal de carrera. Los resultados de los cursos tomados deberán agregarse a los expedientes personales de los interesados.
+
+El Centro de Capacitación publicará los eventos de capacitación señalando cuáles de ellos tendrán valor para el personal de Carrera Judicial, los cuales serán tomados en consideración para efectos de permanencia y ascensos.
+
+Derivado de la incorporación del personal jurisdiccional del Tribunal a la Carrera Judicial del Estado, se promoverá el intercambio académico y de capacitación con el Instituto de la Judicatura Estatal.
+
+Con el objeto de fortalecer la capacitación del personal de carrera se privilegiará la celebración de convenios con instituciones académicas y judiciales; nacionales o extranjeras; que contribuyan a la formación de los servidores públicos de carrera.
+
+Apartado F.- Son derechos del personal de Carrera Judicial:
+
+I. Recibir su nombramiento como miembro de Carrera Judicial una vez cumplidos los requisitos determinados para ello.
+
+II. Si la disponibilidad presupuestaria así lo permite y de acuerdo a los resultados de las evaluaciones anuales, el personal de carrera tendrá derecho a recibir estímulos económicos o aquéllos incentivos que determine la Comisión de Administración, que fomenten su desarrollo profesional.
+
+III. Ser ascendido, en términos de la evaluación y los requisitos determinados.
+
+IV. Si las cargas de trabajo lo permiten, recibir los apoyos y las autorizaciones correspondientes para participar en los cursos de capacitación y actualización.
+
+V. Los demás que así determinen las leyes y los acuerdos de la Comisión de Administración.
+
+Apartado G.- Son obligaciones del personal de carrera:
+
+I. Coadyuvar en los fines encomendados al Tribunal.
+
+II. Ejercer sus funciones con base en los principios de excelencia, objetividad, imparcialidad, profesionalismo e independencia.
+
+III. Acreditar los cursos de capacitación y actualización, así como las evaluaciones anuales. El personal de carrera deberá acreditar haber aprobado o impartido cuando menos un curso por año.
+
+IV. De acuerdo a las necesidades del servicio y a las cargas de trabajo, los miembros de la Carrera Judicial del Tribunal deberán tener la disponibilidad para ser comisionados en otras áreas del propio Tribunal.
+
+V. Cumplir la normatividad aplicable a sus funciones, así como la relativa al sistema de Carrera Judicial.
+
+VI. Las demás que determinen las leyes y los acuerdos de la Comisión de Administración.
+
+Apartado H.- De aprobar los exámenes de aptitud, los aspirantes a los cargos de Secretario de Estudio y Cuenta y Actuario serán integrados a una lista de habilitados para los cargos conforme a los cuales fueron evaluados y de la cual podrán seleccionar los Magistrados para ser designados en una plaza de las consideradas de Carrera Judicial u otra, en caso de existir la vacante.
+
+Sólo cuando por determinación de la Comisión de Administración se generen vacantes de urgente ocupación, con el objeto de no afectar la actividad jurisdiccional, los Magistrados podrán seleccionar de forma inmediata y directa a quien no esté en la lista de habilitados, siempre y cuando cumplan con los requisitos del cargo y se comprometa el personal contratado a evaluarse en un plazo de tres meses.
+
+El expediente personal de los servidores públicos o los documentos entregados por los participantes, serán los medios idóneos de comprobación de los requisitos exigidos.
+
+Será responsabilidad del aspirante o del servidor público acreditar la antigüedad o la experiencia a la que se refiere este Reglamento. El Departamento de Recursos Humanos tendrá en todo momento la facultad de comprobar la información proporcionada por los servidores públicos o solicitar información adicional.
+
+La designación del Secretario General de Acuerdos y del Pleno, así como la del Subsecretario General de Acuerdos, se realizará a propuesta del Magistrado Presidente y se someterá a la decisión del Pleno del Tribunal.
+
+Tan pronto como un servidor público ingrese a cualquiera de las categorías a que se refiere este Reglamento, deberá entregar al Departamento de Recursos Humanos los documentos originales que acrediten el cumplimiento de los requisitos exigidos para el cargo, con el objeto de que la citada coordinación integre el expediente con copias de dichos documentos.
+
+Apartado I.- El Tribunal velará porque se establezca un sistema de estímulos o incentivos para el personal de carrera judicial. La Comisión de Administración podrá establecer el otorgamiento de becas, para realizar estudios en instituciones nacionales o extranjeras, al personal de carrera, conforme a la normatividad aplicable.
+
+Se podrán otorgar becas o apoyos, simultáneamente, a más de un servidor público de Carrera Judicial adscrito a una misma ponencia, siempre que ello no afecte las actividades jurisdiccionales.
+
+La Comisión de Administración podrá acordar el otorgamiento de otro tipo de estímulos al personal de carrera.
+
+La Comisión de Administración privilegiará que las becas que en su caso se autoricen, beneficien al mayor número de servidores públicos de carrera judicial. El Tribunal destinará anualmente un presupuesto especial para el desarrollo del sistema de carrera judicial, así como para el establecimiento de estímulos económicos y becas.
+
+Apartado J.- El personal de carrera podrá solicitar licencias que no deberán ser mayores de seis meses para la realización de estudios y tendrá derecho a reincorporarse al Sistema de Carrera Judicial en el puesto que venía desempeñando.
+
+La separación del personal de carrera podrá darse por las siguientes causas:
+
+I. Por renuncia que deberá hacer por escrito y que producirá efectos a partir de la recepción de la misma.
+
+II. Retiro por edad y tiempo de servicio.
+
+III. Destitución o inhabilitación por resolución firme que así lo determine.
+
+IV. Por no cumplir con las obligaciones en términos de este acuerdo.
+
+V. Por no aprobar las evaluaciones a las que se refiere este acuerdo.
+
+Apartado K.- El personal de carrera podrá ocupar plazas eventuales en la misma categoría o en una superior. En caso de ocupar una plaza eventual superior a la que venía ocupando, deberá someterse al correspondiente examen de aptitud previo a su nombramiento, en el plazo de los tres meses posteriores a la expedición de su nombramiento o en la fecha que determine la Comisión de Administración.
 
 ###### Artículo 111.
 
@@ -2176,3 +2654,11 @@ Artículo Tercero.- Los casos no previstos en este Reglamento, serán resueltos 
 Dado en el Salón de Pleno "Democracia y Justicia" del Tribunal de Justicia Electoral y Administrativa del Poder Judicial del Estado de Chiapas; en la ciudad de Tuxtla Gutiérrez, Chiapas, el cuatro de junio de 2009.
 
 José María Chambé Hernández, Presidente.- Genaro Coello Pérez, Magistrado.- Miguel Reyes Lacroix Macosay, Magistrado.- José Manuel Mantecón Vázquez, Magistrado.- Susana Sarmiento López, Magistrada.- Noé Miguel Zenteno Orantes, Magistrado.- Julio Serrano Castillejos, Magistrado.- Sofía Mosqueda Malanche, Secretaria General de Acuerdos y del Pleno.- Rúbricas.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 7 DE SEPTIEMBRE DE 2011.
+
+Artículo Primero.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Se abrogan las disposiciones que se opongan al presente acuerdo.
