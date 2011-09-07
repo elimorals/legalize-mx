@@ -4,7 +4,7 @@ identifier: "CHH-ley-del-sistema-estatal-de-seguridad-publica-68304"
 country: "mx"
 rank: "ley"
 publication_date: "2009-04-01"
-last_updated: "2010-10-02"
+last_updated: "2011-09-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68304&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DEL SISTEMA ESTATAL DE SEGURIDAD PUBLICA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE OCTUBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE SEPTIEMBRE DE 2011.
 
 Ley publicada en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el miércoles 1 de abril de 2009.
 
@@ -495,9 +495,11 @@ XII.- Informar al Consejo Estatal y a su Presidente, sobre el incumplimiento a l
 
 Para el impulso y desarrollo de las distintas materias de coordinación a que se refiere esta Ley, el Sistema Estatal contará con órganos e instancias auxiliares en los que participarán representantes de las instituciones del Estado y municipios.
 
+> <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 2011)</small>
+
 ###### ARTÍCULO 32.
 
-Son órganos e instancias auxiliares del Sistema Estatal, los consejos consultivos, los consejos regionales y las organizaciones civiles que promuevan el cumplimiento de los derechos fundamentales.
+Son órganos e instancias auxiliares del Sistema Estatal, la Coordinación Estatal de Seguridad Escolar, los consejos consultivos, los consejos regionales y las organizaciones civiles que promuevan el cumplimiento de los derechos fundamentales.
 
 ###### ARTÍCULO 33.
 
@@ -1800,3 +1802,13 @@ P.O. 2 DE OCTUBRE DE 2010.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día cinco de octubre de dos mil diez, previa su publicación en el Periódico Oficial del Estado.
+
+P.O. 7 DE SEPTIEMBRE DE 2011.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+El Ejecutivo del Estado, en el término de sesenta días contados a partir de la publicación del presente Decreto, expedirá el Reglamento de la Coordinación Estatal de Seguridad Escolar, en el que se definan las atribuciones de ésta.
