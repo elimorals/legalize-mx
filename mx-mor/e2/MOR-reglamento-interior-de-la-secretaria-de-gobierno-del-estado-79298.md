@@ -4,7 +4,7 @@ identifier: "MOR-reglamento-interior-de-la-secretaria-de-gobierno-del-estado-792
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-01-31"
-last_updated: "2011-01-31"
+last_updated: "2011-09-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=79298&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "MOR"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA DE GOBIERNO DEL ESTADO DE MORELOS
 
-REGLAMENTO INTERIOR DE LA SECRETARIA DE GOBIERNO DEL ESTADO DE MORELOS
+REGLAMENTO INTERIOR DE LA SECRETARÍA DE GOBIERNO DEL ESTADO DE MORELOS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE SEPTIEMBRE DE 2011.
 
 Reglamento publicado en el Periódico Oficial del Estado de Morelos, el lunes 31 de enero de 2011.
 
@@ -77,9 +77,37 @@ XIV. Dirección General de Atención a Municipios;
 
 XV. Dirección General de Administración;
 
-XVI. Coordinación General de Asesores del titular de la Secretaría, y
+> <small>(ADICIONADA, P.O. 7 DE SEPTIEMBRE DE 2011)</small>
 
-XVII. Los órganos administrativos desconcentrados de la Secretaría.
+XVI. Dirección General de Reorganización Institucional, Control y Evaluación;
+
+> <small>(ADICIONADA, P.O. 7 DE SEPTIEMBRE DE 2011)</small>
+
+XVII. Dirección General de Armonización Legislativa y Comunicación;
+
+> <small>(ADICIONADA, P.O. 7 DE SEPTIEMBRE DE 2011)</small>
+
+XVIII. Secretaría Técnica del titular de la Secretaría de Gobierno;
+
+> <small>(ADICIONADA, P.O. 7 DE SEPTIEMBRE DE 2011)</small>
+
+XIX. Secretaría Técnica del titular de la Subsecretaría de Gobierno;
+
+> <small>(ADICIONADA, P.O. 7 DE SEPTIEMBRE DE 2011)</small>
+
+XX. Secretaría Técnica del titular de la Subsecretaría de Asuntos Jurídicos y Desarrollo Político Municipal;
+
+> <small>(ADICIONADA, P.O. 7 DE SEPTIEMBRE DE 2011)</small>
+
+XXI. Coordinación de Agenda Política;
+
+> <small>(REFORMADA, P.O. 7 DE SEPTIEMBRE DE 2011)</small>
+
+XXII. Coordinación General de Asesores del titular de la Secretaría, y
+
+> <small>(REFORMADA, P.O. 7 DE SEPTIEMBRE DE 2011)</small>
+
+XXIII. Los órganos administrativos desconcentrados de la Secretaría.
 
 Las unidades administrativas estarán integradas por las personas titulares respectivas de las Direcciones de Área, Subdirecciones, Jefaturas de Departamento, y demás servidores públicos que se señalen en los Manuales de Organización y las disposiciones jurídicas aplicables.
 
@@ -387,11 +415,19 @@ XXII. Las demás que le otorguen otros ordenamientos legales o le sean delegadas
 
 ### CAPÍTULO CUARTO. DE LA ADSCRIPCIÓN DE LAS UNIDADES ADMINISTRATIVAS
 
+> <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 2011)</small>
+
 ###### Artículo 11.
 
-La Secretaría Ejecutiva de Enlace para Asuntos de Justicia Penal, tendrá nivel de Subsecretaría, y estará adscrita directamente a la Oficina del Secretario de Gobierno.
+La Coordinación General de Asesores de la Secretaría y la Dirección General de Administración, estarán adscritas como unidades administrativas directamente al titular de la Secretaría.
 
-La Coordinación General de Asesores del Secretario también estará adscrita directamente al titular de la Secretaría.
+La Secretaría Técnica del titular de la Secretaría de Gobierno y la Coordinación de Agenda Política, tendrán nivel de Dirección General y estarán contemplados dentro de la propia estructura de la Oficina de la Secretaría de Gobierno.
+
+> <small>(ADICIONADO, P.O. 7 DE SEPTIEMBRE DE 2011)</small>
+
+###### Artículo 11 Bis.
+
+La Secretaría Técnica del titular de la Subsecretaría de Asuntos Jurídicos y Desarrollo Político Municipal, así como la Secretaría Técnica del titular de la Subsecretaría de Gobierno, tendrán nivel de Dirección general y estarán contemplados dentro de la estructura de cada Subsecretaría, respectivamente.
 
 ###### Artículo 12.
 
@@ -421,6 +457,18 @@ IV. Dirección General Jurídica, y
 
 V. Dirección General Atención (sic) a Municipios.
 
+> <small>(ADICIONADO, P.O. 7 DE SEPTIEMBRE DE 2011)</small>
+
+###### Artículo 13 Bis.
+
+La Secretaría Ejecutiva de Enlace para Asuntos de Justicia Penal, tendrá nivel de Subsecretaría, y estará adscrita directamente a la Oficina del titular de la Secretaría de Gobierno.
+
+Se adscriben a la Secretaría Ejecutiva de Enlace para Asuntos de Justicia Penal, las siguientes unidades administrativas:
+
+I. Dirección General de Reorganización Institucional, Control y Evaluación, y
+
+II. Dirección General de Armonización Legislativa y Comunicación.
+
 ###### Artículo 14.
 
 Al frente de cada Dirección General o Coordinación General habrá un titular, quien se auxiliará de Directores de Área, Subdirectores, Jefes de Departamento, Jefes de Unidad, Jefes de Oficina y demás personal necesario para el desempeño de sus funciones, mismos que estarán definidos en el Manual de Organización de la Secretaría y considerados en el Presupuesto de Egresos del Gobierno del Estado.
@@ -437,7 +485,9 @@ III. Suscribir los documentos relativos al ejercicio de sus facultades, así com
 
 IV. Emitir dictámenes, opiniones e informes sobre los asuntos de su competencia, así como aquellos que le encargue la persona titular de la Secretaría o Subsecretaría, en su caso;
 
-V. Expedir certificaciones de constancias de los expedientes relativos a los asuntos de su competencia;
+> <small>(REFORMADA, P.O. 7 DE SEPTIEMBRE DE 2011)</small>
+
+(SIC) Expedir certificaciones de constancias de los expedientes relativos a los asuntos de su competencia y que obren en sus archivos;
 
 VI. Ordenar y firmar la comunicación de los acuerdos de trámite, trasmitir las resoluciones o acuerdos de la superioridad y autorizar con su firma las que emita en el ejercicio de sus facultades;
 
@@ -479,7 +529,9 @@ XXIV. Acordar e informar a la persona titular de la Secretaría y Subsecretaría
 
 XXV. Las demás que le otorguen otros ordenamientos legales o le sean delegadas por la persona titular de la Secretaría o, en su caso, de la Subsecretaría a la que se encuentren adscritos.
 
-### CAPÍTULO SEXTO (SIC). DE LAS ATRIBUCIONES ESPECÍFICAS DE LAS DIRECCIONES GENERALES ADSCRITAS A LAS SUBSECRETARÍAS
+> <small>(REFORMADO EN SU REFERENCIA NUMÉRICA, P.O. 7 DE SEPTIEMBRE DE 2011)</small>
+
+### CAPÍTULO QUINTO. DE LAS ATRIBUCIONES ESPECÍFICAS DE LAS DIRECCIONES GENERALES ADSCRITAS A LAS SUBSECRETARÍAS
 
 ###### Artículo 16.
 
@@ -679,7 +731,9 @@ XVI. Las demás que le otorguen otros ordenamientos legales o le sean delegadas 
 
 La Dirección General de la Defensoría Pública tendrá las atribuciones siguientes:
 
-I. Prestar el servicio público de la Defensoría de (sic) Pública, de acuerdo con las disposiciones previstas en la Constitución Política de los Estados Unidos Mexicanos, así como en la Constitución Política del Estado Libre y Soberano de Morelos;
+> <small>(REFORMADA, P.O. 7 DE SEPTIEMBRE DE 2011)</small>
+
+I. Prestar el servicio público de defensa de acuerdo con las disposiciones previstas en la Constitución Política de los Estados Unidos Mexicanos, así como en la Constitución Política del Estado Libre y Soberano de Morelos;
 
 II. Representar legalmente a la Dirección con las más amplias facultades que en derecho le correspondan;
 
@@ -693,7 +747,9 @@ VI. Acordar, con las personas titulares de las Direcciones de Área, Subdireccio
 
 VII. Rendir a la persona titular de la Secretaría de Gobierno un informe mensual de las actividades desarrolladas por la Dirección General, y
 
-X (SIC). Las demás que le otorguen otros ordenamientos legales o le sean delegadas por la persona titular de la Subsecretaría de Asuntos Jurídicos y Desarrollo Político Municipal.
+> <small>(REFORMADA, P.O. 7 DE SEPTIEMBRE DE 2011)</small>
+
+VIII. Las demás que le otorguen otros ordenamientos legales o le sean delegadas por la persona titular de la Subsecretaría de Asuntos Jurídicos y Desarrollo Político Municipal.
 
 ###### Artículo 23.
 
@@ -795,9 +851,77 @@ VIII. Desarrollar y fortalecer los vínculos políticos y sociales con los Ayunt
 
 IX. Las demás que le otorguen otros ordenamientos legales o le sean delegadas por la persona titular de la Subsecretaría de Asuntos Jurídicos y Desarrollo Político Municipal.
 
-### CAPÍTULO SÉPTIMO. DE LAS ATRIBUCIONES ESPECÍFICAS DE LAS UNIDADES ADMINISTRATIVAS ADSCRITAS AL TITULAR DE LA SECRETARÍA
+> <small>(ADICIONADO CON LAS SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, P.O. 7 DE SEPTIEMBRE DE 2011)</small>
 
-### CAPÍTULO OCTAVO. DE LOS ÓRGANOS DESCONCENTRADOS
+### CAPÍTULO SEXTO. DE LAS ATRIBUCIONES ESPECÍFICAS DE LAS DIRECCIONES GENERALES ADSCRITAS A LA SECRETARÍA EJECUTIVA Y LAS SECRETARIAS TÉCNICAS
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 7 DE SEPTIEMBRE DE 2011)</small>
+
+#### SECCIÓN I. DE LAS ATRIBUCIONES ESPECÍFICAS DE LAS DIRECCIONES GENERALES ADSCRITAS A LA SECRETARÍA EJECUTIVA DE ENLACE PARA ASUNTOS DE JUSTICIA PENAL
+
+> <small>(ADICIONADO, P.O. 7 DE SEPTIEMBRE DE 2011)</small>
+
+###### Artículo 25 Bis.
+
+Quien funja como titular de la Dirección General de Reorganización Institucional, Control y Evaluación, tendrá las atribuciones siguientes:
+
+I. Diseñar e implementar procesos administrativos y operativos dirigidos a resultados, para lograr la reorganización, control y evaluación de las instituciones operadoras del Sistema de Justicia Penal y Seguridad Pública;
+
+II. Supervisar el cumplimiento y avance de los proyectos, programas, acuerdos y acciones relacionadas con la implementación del Sistema de Justicia Penal y Seguridad Pública en las instituciones operadoras;
+
+III. Detectar las necesidades de capacitación de los operadores del Sistema de Justicia Penal y Seguridad Pública;
+
+IV. Supervisar la sistematización y evaluación continua de la capacitación a los operadores del Sistema de Justicia Penal y Seguridad Pública; así como requerir de acuerdo a la naturaleza de sus funciones y en términos de las disposiciones aplicables al caso concreto, información y documentación a las instituciones operadoras de dicho Sistema;
+
+V. Diseñar e implementar modelos de gestión para las instituciones operadoras del Sistema de Justicia Penal y Seguridad Pública;
+
+VI. Proponer a las instituciones operadoras del Sistema de Justicia Penal y Seguridad Pública, mecanismos, programas, proyectos o acciones que la Secretaría Ejecutiva de Enlace para Asuntos de Justicia Penal considere necesarias para la implementación y consolidación del Sistema, y
+
+VII. Las demás que le otorguen otros ordenamientos legales o le sean delegadas por el titular de la Secretaría Ejecutiva de Enlace para Asuntos de Justicia Penal.
+
+> <small>(ADICIONADO, P.O. 7 DE SEPTIEMBRE DE 2011)</small>
+
+###### Artículo 25 Ter.
+
+Quien sea titular de la Dirección General de Armonización Legislativa y Comunicación, tendrá las atribuciones siguientes:
+
+l. Diagnosticar y proponer las iniciativas de reforma necesarias al marco regulatorio vigente del Sistema de Justicia Penal de corte acusatorio adversarial;
+
+II. Coadyuvar con la Dirección General de Reorganización Institucional, Control y Evaluación en la incorporación en el marco legal, de los modelos de gestión a implementarse en las instituciones operadoras del Sistema de Justicia Penal,
+
+III. Identificar las áreas de oportunidad en materia de vinculación interinstitucional y grupos de interés, para propiciar alianzas estratégicas entre la Secretaría Ejecutiva de Enlace para Asuntos de Justicia Penal y organismos públicos, privados, sociales y filantrópicos que contribuyan en la implementación y consolidación del Sistema de Justicia Penal;
+
+IV. Desarrollar, administrar y supervisar la difusión de la imagen institucional del Sistema de Justicia Penal; así como medir y evaluar el impacto social de la difusión de dicho Sistema, con la finalidad de plantear nuevas estrategias;
+
+V. Coadyuvar con el área de capacitación, para el posicionamiento de los programas de capacitación, con la finalidad de garantizar su publicidad y ciudadanización;
+
+VI. Proponer al titular de la Secretaría Ejecutiva de Enlace para Asuntos de Justicia Penal la planeación y realización de acciones para alcanzar consensos entre los operadores del Sistema de Justicia Penal, que permitan llegar a acuerdos o criterios de interpretación comunes, o en su caso, identificar posibles reformas legislativas, y
+
+VII. Las demás que le otorguen otros ordenamientos legales o le sean delegadas por el titular de la Secretaría Ejecutiva de Enlace para Asuntos de Justicia Penal.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 7 DE SEPTIEMBRE DE 2011)</small>
+
+#### SECCIÓN II. DE LAS ATRIBUCIONES ESPECÍFICAS DE LAS SECRETARIAS TÉCNICAS DE LAS SUBSECRETARIAS
+
+> <small>(ADICIONADO, P.O. 7 DE SEPTIEMBRE DE 2011)</small>
+
+###### Artículo 25 Quater.
+
+Son atribuciones de quienes sean titulares de las Secretarías Técnicas de los (sic) Subsecretarías las siguientes:
+
+I. Coordinar y administrar los compromisos de la agenda del titular de la Subsecretaría, mediante la verificación de actividades programadas, con la finalidad de concluir de manera satisfactoria con los objetivos previamente establecidos;
+
+II. Planear la correcta administración de los recursos en la oficina del titular de la Subsecretaría, mediante la verificación de un desempeño adecuado conforme a las políticas establecidas por el titular, con la finalidad de dar cumplimiento a la normatividad vigente;
+
+III. Implementar y desarrollar mecanismos de comunicación efectiva con las personas que soliciten audiencia con el titular de la Subsecretaría, mediante la realización de entrevistas, con la finalidad de asegurar la programación de compromisos y de la agenda;
+
+IV. Administrar las actividades de sus áreas adscritas, mediante la atención de las solicitudes de apoyo, con la finalidad de dar seguimiento y turnarlas al área o dirección general correspondiente y dar solución en tiempo y forma;
+
+V. Controlar de manera eficiente la correspondencia oficial de los distintos ámbitos de gobierno, recibidos en la oficina del titular de la Subsecretaría, a través de realizar un orden de la misma, con la finalidad de turnarla al área correspondiente a fin de otorgar una respuesta oportuna en tiempo y forma, y
+
+VI. Las demás que le otorguen otros ordenamientos legales o le sean delegadas por el titular de la Subsecretaría correspondiente
+
+### CAPÍTULO SÉPTIMO. DE LAS ATRIBUCIONES ESPECÍFICAS DE LAS UNIDADES ADMINISTRATIVAS ADSCRITAS AL TITULAR DE LA SECRETARÍA
 
 ###### Artículo 26.
 
@@ -867,13 +991,59 @@ XXI. Generar y mantener actualizada la información sobre los asesores de las Se
 
 XXII. Las demás que le otorguen otros ordenamientos legales o le sean delegadas por la persona titular de la Secretaría de Gobierno.
 
-### CAPÍTULO NOVENO. DE LA SUPLENCIA DE LOS FUNCIONARIOS
+> <small>(ADICIONADO, P.O. 7 DE SEPTIEMBRE DE 2011)</small>
+
+###### Artículo 27 Bis.
+
+El titular de la Secretaría Técnica de la Secretaría de Gobierno, tendrá las atribuciones siguientes:
+
+I. Coordinar la integración de análisis políticos, jurídicos, sociales y económicos, mediante notas informativas, resúmenes de las unidades administrativas y organismos adscritos a la Secretaría de Gobierno, con la finalidad de conocer las condiciones actuales del Estado y ponerlos a disposición de la persona titular de la Secretaría de Gobierno;
+
+II. Asesorar a la persona titular de la Secretaría de Gobierno con la planeación integral de las áreas de oportunidad planteadas por las áreas o unidades administrativas, mediante la organización técnica de las actividades relacionadas con la finalidad de poder proporcionar un servicio con calidad;
+
+III. Planear y determinar propuestas de mejora en la operación de la Secretaría de Gobierno, a través de encuestas a la ciudadanía y personal externo e interno del Poder Ejecutivo con el propósito de incrementar su eficiencia y productividad;
+
+IV. Proponer en la función directiva y promover el mejoramiento de gestión de la Secretaría de Gobierno, mediante proyectos estratégicos a fin de contribuir al funcionamiento, consolidación y cumplimiento de las actividades inherentes del titular de la Secretaría de Gobierno;
+
+V. Proponer estudios y análisis especializados que permitan anticipar en la Entidad los escenarios y situaciones de orden económico global, político y jurídico, sugiriendo estrategias de acción y políticas alternativas con la finalidad de contar con información precisa y veraz proponiendo alternativas de solución anticipadas, y
+
+VI. Las demás que·le otorguen otros ordenamientos legales o le sean delegadas por el titular de la Secretaría de Gobierno.
+
+> <small>(ADICIONADO, P.O. 7 DE SEPTIEMBRE DE 2011)</small>
+
+###### Artículo 27 Ter.
+
+El titular de la Coordinación de Agenda Política, tendrá las atribuciones siguientes:
+
+I. Coordinar y atender los compromisos de la agenda del titular de la Secretaría de Gobierno, mediante la verificación de actividades programadas, con la finalidad de concluir de manera satisfactoria con los objetivos previamente establecidos;
+
+II. Controlar de manera eficiente la correspondencia oficial de los distintos ámbitos de gobierno, recibidos en la oficina del titular de la Secretaría de Gobierno, así como ordenar la misma para turnarla al área correspondiente, a fin de otorgar una respuesta oportuna en tiempo y forma;
+
+III. Vigilar la correcta administración en la oficina del titular de la Secretaría de Gobierno, mediante la verificación de un desempeño adecuado conforme a las políticas establecidas por el titular, con la finalidad de dar cumplimiento con la normatividad vigente;
+
+IV. Implementar y desarrollar mecanismos de comunicación efectiva con las personas que soliciten audiencia con el titular de la Secretaría de Gobierno, mediante la realización de entrevistas, con la finalidad de asegurar la programación de compromisos y agenda del titular de la Secretaría;
+
+V. Administrar las actividades de sus áreas adscritas, mediante la atención de las solicitudes de apoyo, con la finalidad de dar seguimiento y turnarlas a las dependencias correspondientes y dar solución en tiempo y forma, y
+
+VII. Las demás que le otorguen otros ordenamientos legales o le sean delegadas por el titular de la Secretaría de Gobierno.
+
+### CAPÍTULO OCTAVO. DE LOS ÓRGANOS DESCONCENTRADOS
 
 ###### Artículo 28.
 
 La Secretaría de Gobierno tendrá los órganos administrativos desconcentrados que decrete la persona titular del Poder Ejecutivo.
 
-Estos órganos tendrán la competencia y facultades que les señalen los instrumentos jurídicos que los creen o regulen, y las personas titulares tendrán las atribuciones genéricas que se conceden a los Directores Generales en el artículo 14 del presente Reglamento.
+> <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 2011)</small>
+
+Estos órganos tendrán la competencia y facultades que les señalen los instrumentos jurídicos que los creen o regulen, y las personas titulares tendrán las atribuciones genéricas que se conceden a los Directores Generales en el artículo 15 del presente Reglamento.
+
+> <small>(ADICIONADO, P.O. 7 DE SEPTIEMBRE DE 2011)</small>
+
+###### Artículo 28 Bis.
+
+El Consejo Estatal de Población es un órgano desconcentrado de la Secretaría de Gobierno cuyo titular tendrá el nivel de Director General; quien para llevar a cabo su función de apoyo y coordinación de dicho Consejo se ajustará al objeto, integración, operatividad y atribuciones determinados en su Decreto de creación y demás normatividad aplicable.
+
+### CAPÍTULO NOVENO. DE LA SUPLENCIA DE LOS FUNCIONARIOS
 
 ###### Artículo 29.
 
@@ -910,3 +1080,11 @@ EL SECRETARIO DE GOBIERNO
 ING. OSCAR SERGIO HERNÁNDEZ BENÍTEZ.
 
 RÚBRICAS.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 7 DE SEPTIEMBRE DE 2011.
+
+PRIMERO. El presente Reglamento iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado.
+
+SEGUNDO. En el caso de los manuales de las unidades administrativas de la Secretaría de Gobierno, que como consecuencia (sic) las reformas decretadas mediante el presente instrumento deban actualizarse, las unidades administrativas a las que corresponda la actualización respectiva, contarán con un plazo máximo de noventa días hábiles a partir de la publicación del presente Decreto para realizar lo conducente.
