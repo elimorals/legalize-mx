@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-seguridad-escolar-para-el-estado-de-chihuahua-40693"
 country: "mx"
 rank: "ley"
 publication_date: "2004-07-31"
-last_updated: "2005-01-19"
+last_updated: "2011-09-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40693&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE SEGURIDAD ESCOLAR PARA EL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE ENERO DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE SEPTIEMBRE DE 2011.
 
 Ley publicada en el Periódico Oficial del Estado de Chihuahua, el sábado 31 de julio de 2004.
 
@@ -77,7 +77,9 @@ Para los efectos de esta ley, se entenderá por:
 
 I. Ley: La Ley de Seguridad Escolar para el Estado de Chihuahua;
 
-II. Secretaría: La Secretaría de Educación y Cultura;
+> <small>(REFORMADA, P.O. 7 DE SEPTIEMBRE DE 2011)</small>
+
+II. Secretaría: La Secretaría de Educación, Cultura y Deporte;
 
 III. Plantel escolar, escuela o centro escolar: El establecimiento público o privado, donde se brinda educación básica, media superior y superior;
 
@@ -85,9 +87,7 @@ IV. Brigada: Las brigadas preventivas de seguridad escolar;
 
 V.- Comunidad escolar: Conjunto de personas que comparten espacios educativos, dentro de los cuales se consideran a alumnos, docentes, personal de apoyo y administrativo, padres de familia, vecinos y autoridades educativas.
 
-> <small>(ADICIONADA, P.O. 19 DE ENERO DE 2005)</small>
-
-VI.- Secretaría de Seguridad: La Secretaría de Seguridad Pública.
+VI.- (DEROGADA, P.O. 7 DE SEPTIEMBRE DE 2011)
 
 ###### Artículo 6.
 
@@ -109,17 +109,25 @@ Son autoridades en materia de seguridad escolar:
 
 I. El Gobernador del Estado;
 
-II.- El Procurador General de Justicia del Estado;
+> <small>(REFORMADA, P.O. 7 DE SEPTIEMBRE DE 2011)</small>
 
-III. El Secretario de Educación y Cultura;
+II. El Fiscal General del Estado;
 
-IV. Los Ayuntamientos;
+> <small>(REFORMADA, P.O. 7 DE SEPTIEMBRE DE 2011)</small>
 
-V. Los órganos de gobierno de los organismos públicos descentralizados cuya cabeza de sector sea la Secretaría de Educación y Cultura.
+III. El Secretario de Educación, Cultura y Deporte;
 
-> <small>(ADICIONADA, P.O. 19 DE ENERO DE 2005)</small>
+> <small>(REFORMADA, P.O. 7 DE SEPTIEMBRE DE 2011)</small>
 
-VI. El Secretario de Seguridad Pública.
+IV. El Coordinador Estatal de Seguridad Escolar;
+
+> <small>(REFORMADA, P.O. 7 DE SEPTIEMBRE DE 2011)</small>
+
+V. Los órganos de gobierno de los organismos públicos descentralizados cuya cabeza de sector sea la Secretaría de Educación, Cultura y Deporte; y
+
+> <small>(REFORMADA, P.O. 7 DE SEPTIEMBRE DE 2011)</small>
+
+VI. Los Ayuntamientos.
 
 ###### Artículo 8.
 
@@ -131,9 +139,11 @@ II. Celebrar convenios de coordinación y ejecución a fin de cumplir los objeti
 
 III. Las demás atribuciones que conforme a ésta y las demás disposiciones legales aplicables le correspondan.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 7 DE SEPTIEMBRE DE 2011)</small>
+
 ###### Artículo 9.
 
-Corresponde al Procurador de Justicia del Estado:
+Corresponde al Fiscal General del Estado, por conducto de las Fiscalías Especializadas en Seguridad Pública y Prevención del Delito:
 
 I.- Aplicar en el ámbito de su competencia la presente Ley, su reglamento, y demás disposiciones que resulten aplicables bajo la premisa de que la Seguridad Escolar se constituye desde el marco del Servicio de Seguridad Pública y que por tanto, tiene por objeto principal asegurar el pleno goce de las garantías individuales y sociales, la paz, la tranquilidad, el orden público, así como prevenir la comisión de delitos y procurar la protección que la sociedad otorga a cada uno de sus miembros, para la conservación de su persona, de sus derechos y de sus bienes;
 
@@ -141,9 +151,31 @@ II.- Coordinar y auxiliarse de las autoridades y entidades auxiliares previstas 
 
 III.- Proponer al Ejecutivo Estatal la adopción de medidas necesarias para el cabal cumplimiento del objeto de esta Ley, y en su caso, aplicarlas en el ámbito de su competencia;
 
-IV. Promover la realización de cursos de capacitación y actualización para el personal de las diferentes áreas vinculados con la seguridad escolar y demás organismos y personas relacionados con las actividades que esta ley regula;
+IV.- Promover la realización de cursos de capacitación y actualización para el personal de las diferentes áreas vinculados con la seguridad escolar y demás organismos y personas relacionados con las actividades que esta ley regula;
 
-V.- Las demás atribuciones que conforme a ésta ley y demás disposiciones legales aplicables, le competan.
+> <small>(REFORMADA, P.O. 7 DE SEPTIEMBRE DE 2011)</small>
+
+V.- Auxiliar a las autoridades en el cumplimiento de esta Ley y demás disposiciones legales que de ésta deriven;
+
+> <small>(ADICIONADA, P.O. 7 DE SEPTIEMBRE DE 2011)</small>
+
+VI.- Celebrar acuerdos de colaboración con los Ayuntamientos de la Entidad a fin de cumplir el objetivo de la presente Ley;
+
+> <small>(ADICIONADA, P.O. 7 DE SEPTIEMBRE DE 2011)</small>
+
+VII.- Aplicar los programas de prevención para el mejor cumplimiento del objeto de esta Ley, así como apoyar y asesorar a las brigadas escolares;
+
+> <small>(ADICIONADA, P.O. 7 DE SEPTIEMBRE DE 2011)</small>
+
+VIII.- Formular, desarrollar programas y realizar las acciones que le competen, en materia de seguridad escolar, coordinándose, en su caso, con las demás dependencias del Ejecutivo Estatal, según sus respectivas esferas de competencia, con los municipios de la Entidad y con la sociedad;
+
+> <small>(ADICIONADA, P.O. 7 DE SEPTIEMBRE DE 2011)</small>
+
+IX.- Auxiliar en las revisiones a que se refiere el artículo 30 de esta Ley; y
+
+> <small>(ADICIONADA, P.O. 7 DE SEPTIEMBRE DE 2011)</small>
+
+X.- Las que conforme a este ordenamiento y otras disposiciones aplicables le correspondan.
 
 ###### Artículo 10.
 
@@ -153,7 +185,9 @@ I. Aplicar, en la esfera de su competencia, esta ley, sus reglamentos y vigilar 
 
 II. Proponer al Titular del Ejecutivo Estatal la celebración de acuerdos con los Ayuntamientos de la Entidad a fin de cumplir el objetivo de la presente ley;
 
-III. Proponer al Procurador General de Justicia del Estado la adopción de medidas necesarias para el cabal cumplimiento del objeto de esta ley;
+> <small>(REFORMADA, P.O. 7 DE SEPTIEMBRE DE 2011)</small>
+
+III. Proponer al Fiscal General del Estado la adopción de medidas necesarias para el cabal cumplimiento del objeto de esta ley;
 
 IV. Concentrar el registro de las brigadas en la Entidad;
 
@@ -161,27 +195,25 @@ V. Formular y desarrollar programas y realizar las acciones que le competen, en 
 
 VI. Motivar y facilitar la organización de los miembros de la comunidad escolar en los diversos niveles educativos para el cumplimiento del objeto de esta ley, estimulando su participación en el rescate de valores y ataque a las causas que generan la inseguridad;
 
-VII. Vigilar que en la toma de decisiones, en la materia de esta ley, las autoridades o instancias respectivas consideren las necesidades específicas para cada una de las regiones del Estado; y,
+> <small>(REFORMADA, P.O. 7 DE SEPTIEMBRE DE 2011)</small>
 
-VIII. Las que conforme a esta ley y otras disposiciones aplicables le correspondan.
+VII. Vigilar que en la toma de decisiones, en la materia de esta ley, las autoridades o instancias respectivas consideren las necesidades específicas para cada una de las regiones del Estado;
 
-> <small>(ADICIONADO, P.O. 19 DE ENERO DE 2005)</small>
+> <small>(REFORMADA, P.O. 7 DE SEPTIEMBRE DE 2011)</small>
+
+VIII. Proponer a la Fiscalía General del Estado, en atención a lo dispuesto por los artículos 8, fracción V y 11, fracción I, de la Ley de Protección Civil del Estado de Chihuahua, el proyecto de Programa Estatal de Seguridad Escolar, el cual contendrá como mínimo el manual y protocolos de seguridad escolar, con la información de cómo se debe actuar en caso de accidente o lesión en la escuela; incendio; fuga o derrame de materiales peligrosos; amenaza de bomba; disturbio o despliegue de fuerzas de seguridad y contingencia meteorológica;
+
+> <small>(ADICIONADA, P.O. 7 DE SEPTIEMBRE DE 2011)</small>
+
+IX. Participar, a través de la Coordinación Estatal de Seguridad Escolar, con la Fiscalía General del Estado, en la operación del Programa Estatal de Seguridad Escolar; y
+
+> <small>(ADICIONADA, P.O. 7 DE SEPTIEMBRE DE 2011)</small>
+
+X. Las que conforme a esta ley y otras disposiciones aplicables le correspondan.
 
 ###### Artículo 10 Bis.
 
-Corresponde a la Secretaría de Seguridad Pública:
-
-I.- Auxiliar a las autoridades en el cumplimiento de esta Ley y demás disposiciones legales que de ésta deriven;
-
-II.- Celebrar acuerdos de colaboración con los Ayuntamientos de la Entidad a fin de cumplir el objetivo de la presente Ley;
-
-III.- Aplicar los programas de prevención para el mejor cumplimiento del objeto de esta Ley, así como apoyar y asesorar a las brigadas escolares;
-
-IV.- Formular, desarrollar programas y realizar las acciones que le competen, en materia de seguridad escolar, coordinándose, en su caso, con las demás dependencias del Ejecutivo Estatal, según sus respectivas esferas de competencia, y con los municipios de la Entidad y con la sociedad;
-
-V.- Auxiliar en las revisiones a que se refiere el artículo 30 de esta Ley; y
-
-VII (SIC).- Las que conforme a este ordenamiento y otras disposiciones aplicables le correspondan.
+(DEROGADO, P.O. 7 DE SEPTIEMBRE DE 2011)
 
 ###### Artículo 11.
 
@@ -203,13 +235,13 @@ Corresponde a los Órganos de Gobierno de los Organismos Públicos Descentraliza
 
 I.- Aplicar en la esfera de su competencia, esta ley y sus reglamentos, así como vigilar su observancia;
 
-> <small>(REFORMADA, P.O. 19 DE ENERO DE 2005)</small>
+> <small>(REFORMADA, P.O. 7 DE SEPTIEMBRE DE 2011)</small>
 
-II.- Proponer a los titulares de la Secretaría de Educación y Cultura y de la Secretaría de Seguridad Pública, la adopción de medidas necesarias para el cabal cumplimiento de los objetivos de esta Ley, y en su caso, aplicarlas en el ámbito de su competencia;
+II.- Proponer a los titulares de la Secretaría de Educación, Cultura y Deporte y de la Fiscalía General del Estado, la adopción de medidas necesarias para el cabal cumplimiento de los objetivos de esta Ley y, en su caso, aplicarlas en el ámbito de su competencia;
 
-> <small>(REFORMADA, P.O. 19 DE ENERO DE 2005)</small>
+> <small>(REFORMADA, P.O. 7 DE SEPTIEMBRE DE 2011)</small>
 
-III.- Coadyuvar con la Secretaría de Educación y Cultura, la Secretaría de Seguridad Pública y los Ayuntamientos, en la formulación del registro de las brigadas de los planteles educativos a su cargo;
+III.- Coadyuvar con la Secretaría de Educación, Cultura y Deporte, la Fiscalía General del Estado y los Ayuntamientos, en la formulación del registro de las brigadas de los planteles educativos a su cargo;
 
 IV.- Las que conforme a esta ley y otras disposiciones aplicables les correspondan.
 
@@ -261,11 +293,13 @@ X.- Las demás acciones que conforme a esta Ley y otras disposiciones aplicables
 
 Las Brigadas son instancias de apoyo para la aplicación de la presente Ley, que interactúan con las distintas autoridades previstas en la misma, a través de su coordinador.
 
+> <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 2011)</small>
+
 ###### Artículo 16.
 
-En cada plantel escolar oficial de educación pública que dependa de la Secretaría de Educación y Cultura del Poder Ejecutivo del Estado, en aquellos que cuenten con Acuerdo de Reconocimiento de Validez Oficial de Estudios o con Incorporación expedido por la autoridad educativa local o Estatal, así como en las Universidades Autónomas del Estado, se conformará una Brigada.
+En cada plantel escolar oficial de educación pública que dependa de la Secretaría de Educación, Cultura y Deporte del Poder Ejecutivo del Estado, en aquellos que cuenten con Acuerdo de Reconocimiento de Validez Oficial de Estudios o con Incorporación expedido por la autoridad educativa local o Estatal, así como en las Universidades Autónomas del Estado, se conformará una Brigada.
 
-En el caso de los Centros Educativos que dependan del Poder Ejecutivo Federal y no estén contemplados en el párrafo anterior, el Titular del Poder Ejecutivo Estatal podrá suscribir, a través de la Secretaría de Educación y Cultura, convenios de colaboración para la ejecución de la presente Ley hacia el interior de sus planteles escolares.
+En el caso de los Centros Educativos que dependan del Poder Ejecutivo Federal y no estén contemplados en el párrafo anterior, el Titular del Poder Ejecutivo Estatal podrá suscribir, a través de la Secretaría de Educación, Cultura y Deporte, convenios de colaboración para la ejecución de la presente Ley hacia el interior de sus planteles escolares.
 
 ###### Artículo 17.
 
@@ -349,7 +383,9 @@ III.- Las disposiciones mínimas que deberá contener el reglamento interior de 
 
 A efecto de llevar el registro a que se refiere la fracción VII, del artículo 19 de esta Ley, en cualquier momento, la brigada podrá solicitar a los responsables de negocios, vendedores o comerciantes, ubicados dentro del perímetro del centro escolar, la exhibición de los permisos, autorizaciones o licencias expedidos por autoridad competente para la operación de que se trate.
 
-Para efectos de esta Ley, se entiende que un establecimiento o negociación está en el perímetro del centro escolar cuando se encuentre en un área inferior a los quinientos metros de éste.
+> <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 2011)</small>
+
+Para efectos de esta Ley, se entiende que un establecimiento o negociación está en el perímetro del centro escolar cuando se encuentre en un área inferior a los doscientos metros de éste, contados a partir de cualquier punto del polígono del centro educativo.
 
 ###### Artículo 24.
 
@@ -436,3 +472,13 @@ Para el correcto desempeño de las atribuciones que se confieren a la Secretarí
 ###### ARTÍCULO TERCERO.
 
 Cuando en la Ley de Protección Civil del Estado de Chihuahua, se haga referencia a la unidad de Protección Civil, se entenderá citada la Coordinación de Protección Civil.
+
+P.O. 7 DE SEPTIEMBRE DE 2011.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+El Ejecutivo del Estado, en el término de sesenta días contados a partir de la publicación del presente Decreto, expedirá el Reglamento de la Coordinación Estatal de Seguridad Escolar, en el que se definan las atribuciones de ésta.
