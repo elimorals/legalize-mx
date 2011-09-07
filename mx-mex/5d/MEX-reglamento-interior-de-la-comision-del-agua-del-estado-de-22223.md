@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-interior-de-la-comision-del-agua-del-estado-de-22223
 country: "mx"
 rank: "reglamento"
 publication_date: "2001-09-05"
-last_updated: "2007-10-24"
+last_updated: "2011-09-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22223&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 REGLAMENTO INTERIOR DE LA COMISION DEL AGUA DEL ESTADO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 24 DE OCTUBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 7 DE SEPTIEMBRE DE 2011.
 
 Reglamento publicado en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el miércoles 5 de septiembre de 2001.
 
@@ -157,17 +157,25 @@ II. Dirección General de Inversión y Gestión;
 
 III. Dirección General de Infraestructura Hidráulica;
 
-IV. Dirección General de Coordinación con Organismos Operadores;
+> <small>(ADICIONADA, G.G. 7 DE SEPTIEMBRE DE 2011)</small>
 
-V. Dirección General de Administración y Finanzas; y (sic)
+IV. Dirección General de Operaciones y Atención a Emergencias.
 
-> <small>(REFORMADA, G.G. 24 DE OCTUBRE DE 2007)</small>
+> <small>(REFORMADA, G.G. 7 DE SEPTIEMBRE DE 2011)</small>
 
-VI. Dirección General de Asuntos Jurídicos; y
+V. Dirección General de Coordinación con Organismos Operadores.
 
-> <small>(ADICIONADA, G.G. 24 DE OCTUBRE DE 2007)</small>
+> <small>(REFORMADA, G.G. 7 DE SEPTIEMBRE DE 2011)</small>
 
-VII. Contraloría Interna.
+VI. Dirección General de Administración y Finanzas.
+
+> <small>(REFORMADA, G.G. 7 DE SEPTIEMBRE DE 2011)</small>
+
+VII. Dirección General de Asuntos Jurídicos.
+
+> <small>(REFORMADA, G.G. 7 DE SEPTIEMBRE DE 2011)</small>
+
+VIII. Contraloría Interna.
 
 El Vocal Ejecutivo contará con el número de servidores públicos y unidades administrativas necesarias para el cumplimiento de sus atribuciones, de conformidad con la normatividad establecida y de acuerdo con el presupuesto de egresos respectivo.
 
@@ -287,7 +295,7 @@ XI. Realizar, en coordinación con las unidades administrativas de la Comisión,
 
 XII. Apoyar a las unidades administrativas de la Comisión, en la atención de la problemática presentada por las comunidades o particulares, respecto a la construcción y funcionamiento de la infraestructura hidráulica;
 
-XIII. Gestionar la liberación de los predios necesarios para la realización de obras hidráulicas y tramitar la indemnización a favor de los propietarios; y
+XIII. (DEROGADA, G.G. 7 DE SEPTIEMBRE DE 2011)
 
 XIV. Las demás que le señalen otros ordenamientos aplicables y las que le encomiende el Consejo o el Vocal Ejecutivo.
 
@@ -297,25 +305,51 @@ Corresponde a la Dirección General de Infraestructura Hidráulica:
 
 I. Planear, ejecutar y evaluar las acciones relacionadas con la prestación de servicios de infraestructura hidráulica;
 
-II. Establecer normas y especificaciones técnicas para la elaboración de estudios y proyectos de contratación, mantenimiento, rehabilitación y operación de las obras de infraestructura hidráulica;
+> <small>(REFORMADA, G.G. 7 DE SEPTIEMBRE DE 2011)</small>
+
+II. Establecer normas y especificaciones técnicas para la elaboración de estudios y proyectos de contratación de las obras de infraestructura hidráulica;
 
 III. Apoyar y vigilar la ejecución de las obras de infraestructura hidráulica;
 
 IV. Supervisar que se cumplan las disposiciones en materia de construcción de infraestructura hidráulica, vigilando que las obras se realicen de acuerdo con los contratos respectivos;
 
-V. Coordinar la operación y mantenimiento de los sistemas de abastecimiento de agua para consumo humano, industrial y de servicios, y de drenaje, tratamiento y reuso de aguas residuales tratadas;
+V. (DEROGADA, G.G. 7 DE SEPTIEMBRE DE 2011)
 
-VI. Impulsar y vigilar el cumplimiento de la normatividad federal y estatal, con relación al suministro de agua potable, drenaje, y tratamiento y reuso de aguas residuales tratadas;
+VI. (DEROGADA, G.G. 7 DE SEPTIEMBRE DE 2011)
 
 VII. Promover, en coordinación con las instancias que determine el Vocal Ejecutivo, la ejecución de programas y proyectos en materia de infraestructura hidráulica;
 
-VIII. Coadyuvar en la formulación de propuestas de cuotas o tarifas para el cobro de los servicios de suministro de agua en bloque, de drenaje, tratamiento y reuso de aguas residuales tratadas;
+VIII. (DEROGADA, G.G. 7 DE SEPTIEMBRE DE 2011)
 
-IX. Proporcionar, conjuntamente con la Dirección General de Coordinación con Organismos Operadores, asesoría técnica en materia de agua potable, drenaje, tratamiento y reuso de aguas residuales tratadas, a los municipios y Organismos que lo requieran;
+> <small>(REFORMADA, G.G. 7 DE SEPTIEMBRE DE 2011)</small>
+
+IX. Proporcionar, conjuntamente con la Dirección General de Coordinación con Organismos Operadores, asesoría técnica en materia de construcción de infraestructura hidráulica, a los municipios y organismos del Estado de México que lo requieran;
 
 X. Informar al Vocal Ejecutivo sobre las obras de infraestructura hidráulica terminadas, a fin de integrarlas al Sistema Estatal del Agua; y
 
 XI. Las demás que le señalen otros ordenamientos aplicables y las que le encomiende el Consejo o el Vocal Ejecutivo.
+
+> <small>(ADICIONADO, G.G. 7 DE SEPTIEMBRE DE 2011)</small>
+
+Artículo 18 bis.- Corresponde a la Dirección General de Operaciones y Atención a Emergencias:
+
+I. Coordinar con la Dirección General de Infraestructura Hidráulica, la elaboración de estudios y proyectos de mantenimiento, rehabilitación y operación de las obras de infraestructura hidráulica;
+
+II. Coordinar la operación y mantenimiento de los sistemas de abastecimiento de agua para consumo humano, industrial y de servicios, y de drenaje, tratamiento y reuso de aguas residuales tratadas;
+
+III. Impulsar y vigilar el cumplimiento de la normatividad federal y estatal, con relación al suministro de agua potable, drenaje, y tratamiento y reuso de aguas residuales tratadas;
+
+IV. Coadyuvar en la formulación de propuestas de cuotas o tarifas para el cobro de los servicios de suministro de agua en bloque, de drenaje, tratamiento y reuso de aguas residuales tratadas;
+
+V. Proponer los dictámenes de factibilidad para el suministro de agua potable, descargas de aguas residuales y pluviales en nuevos desarrollos del Estado de México;
+
+VI. Atender con oportunidad las emergencias presentadas en la infraestructura hidráulica estatal a cargo de la Comisión;
+
+VII. Coordinar el apoyo a los ayuntamientos y organismos operadores de la Entidad, en situaciones de contingencias o emergencias suscitadas en época de lluvias o cuando se solicite, de conformidad con los lineamientos del Sistema Estatal de Protección Civil;
+
+VIII. Proporcionar conjuntamente con la Dirección General de Coordinación con Organismos Operadores, asesoría a las autoridades federales y municipales que lo soliciten, durante emergencias que se susciten en los sistemas de agua potable, drenaje, desalojo de aguas residuales y pluviales administrados por ellos o cuando así lo requieran;
+
+IX. Las demás que le confieren otras disposiciones legales y las que le encomiende el Consejo o el Vocal Ejecutivo.
 
 ###### Artículo 19.
 
@@ -411,7 +445,13 @@ VIII.- Promover la regularización de los inmuebles propiedad de la Comisión y 
 
 IX.- Compilar y difundir entre el personal de la Comisión, los ordenamientos jurídicos y demás disposiciones de carácter normativo, que incidan en el desarrollo de sus funciones; y
 
-X.- Las demás que le confieren las disposiciones aplicables y las que le encomiende el Consejo o el Vocal Ejecutivo.
+> <small>(ADICIONADA, G.G. 7 DE SEPTIEMBRE DE 2011)</small>
+
+X.- Gestionar la liberación de los predios necesarios para la realización de obras hidráulicas y tramitar la indemnización a favor de los propietarios;
+
+> <small>(REFORMADA, G.G. 7 DE SEPTIEMBRE DE 2011)</small>
+
+XI.- Las demás que le confieren las disposiciones aplicables y las que le encomiende el Consejo o el Vocal Ejecutivo.
 
 ### CAPITULO VI. DE LAS ATRIBUCIONES DE LA CONTRALORIA INTERNA
 
@@ -522,3 +562,19 @@ PRIMERO.- Publíquese el presente Acuerdo en el periódico oficial "Gaceta del G
 SEGUNDO.- Este Acuerdo entrará en vigor al día siguiente de su publicación en el periódico oficial "Gaceta del Gobierno".
 
 TERCERO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan al presente Acuerdo.
+
+G.G. 7 DE SEPTIEMBRE DE 2011.
+
+PRIMERO.- Publíquese el presente Acuerdo en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- Este Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- Los recursos humanos, materiales y financieros con los que venía operando la Dirección General de Infraestructura Hidráulica para atender las funciones de operación y mantenimiento de la infraestructura hidráulica, se transferirán a la Dirección General de Operaciones y Atención a Emergencias.
+
+Lo anterior, sin perjuicio de los derechos laborales y demás prerrogativas adquiridas por los servidores públicos que se transfieren.
+
+CUARTO.- Los trámites, procesos y demás asuntos que venía atendiendo la Dirección General de Infraestructura Hidráulica en materia de operación y mantenimiento de la infraestructura hidráulica, antes de la entrada en vigor del presente Acuerdo, serán resueltos hasta su conclusión por la Dirección General de Operaciones y Atención a Emergencias.
+
+QUINTO.- Con la entrada en vigor del presente Acuerdo, cuando en otros ordenamientos legales y administrativos se haga referencia a los asuntos en materia de operación y al mantenimiento de la infraestructura hidráulica, se entenderá que éstos corresponden al ámbito de competencia de la Dirección General de Operaciones y Atención a Emergencias.
+
+SEXTO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan al presente Acuerdo.
