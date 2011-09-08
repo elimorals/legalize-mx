@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-interno-del-instituto-mexiquense-de-cultura-25717"
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-07-02"
-last_updated: "2004-12-20"
+last_updated: "2011-09-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25717&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "MEX"
 
 REGLAMENTO INTERNO DEL INSTITUTO MEXIQUENSE DE CULTURA
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 20 DE DICIEMBRE DE 2004.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO TERCERO TRANSITORIO DEL REGLAMENTO INTERNO DEL INSTITUTO MEXIQUENSE DE CULTURA, PUBLICADO EN LA SECCION PRIMERA DE LA G.G. DE 8 DE SEPTIEMBRE DE 2011, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN LA GACETA DELGOBIERNO: ABROGADO.
 
 Reglamento publicado en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el martes 2 de julio de 2002.
 
@@ -482,3 +484,13 @@ G.G. 20 DE DICIEMBRE DE 2004.
 PRIMERO.- Publíquese el presente Acuerdo en el periódico oficial "Gaceta del Gobierno".
 
 SEGUNDO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el periódico oficial "Gaceta del Gobierno".
+
+G.G. 8 DE SEPTIEMBRE DE 2011.
+
+PRIMERO.- Publíquese el presente Reglamento en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- Este Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- Se abroga el Reglamento Interno del Instituto Mexiquense de Cultura, publicado en el Periódico Oficial "Gaceta del Gobierno" el dos de julio de dos mil dos.
+
+CUARTO.- Se derogan las disposiciones de igual o menor jerarquía jurídica que se opongan a las contenidas en el presente Reglamento.
