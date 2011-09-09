@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-interior-del-ayuntamiento-de-mexicali-baja-23264"
 country: "mx"
 rank: "reglamento"
 publication_date: "2001-12-14"
-last_updated: "2011-05-13"
+last_updated: "2011-09-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23264&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,9 +25,7 @@ state: "BCN"
 
 REGLAMENTO INTERIOR DEL AYUNTAMIENTO DE MEXICALI, BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE ABRIL DE 2011.
-
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 13 DE MAYO DE 2011.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE SEPTIEMBRE DE 2011.
 
 Reglamento publicado en la Sección II del Periódico Oficial del Estado de Baja California, el viernes 14 de diciembre de 2001.
 
@@ -909,6 +907,10 @@ XII.- Educación, Cultura y Asuntos Indígenas; y,
 
 XIII.- Asuntos Fronterizos.
 
+> <small>(ADICIONADA, P.O. 9 DE SEPTIEMBRE DE 2011)</small>
+
+XIV. Equidad de Género.
+
 ###### ARTICULO 78.
 
 Comisión de Gobernación y Legislación.- La Comisión de Gobernación y Legislación tendrá las siguientes atribuciones:
@@ -1137,7 +1139,31 @@ IV. Dictaminar respecto de los proyectos de convenios en los que el Ayuntamiento
 
 V. En general, aquellas que el Cabildo le encomiende.
 
-ARTICULO 91 TER.- (DEROGADO, P.O. 29 DE FEBRERO DE 2008)
+> <small>(ADICIONADO, P.O. 9 DE SEPTIEMBRE DE 2011)</small>
+
+ARTICULO 91 TER.- Comisión de Equidad de Género.- La Comisión de Equidad de Género, tendrá las siguientes atribuciones:
+
+I.- Promover una cultura de respeto y dignificación del papel de las mujeres en la sociedad.
+
+II.- Atender las causas y efectos de la Discriminación hacia las mujeres.
+
+III.- Consolidar a través de la prevención, atención, detección y sanción a la violencia familiar, al hostigamiento sexual y a la discriminación laboral.
+
+IV.- Vigilar que los presupuestos públicos sean sensibles al género, para aumentar la capacitación en dicha índole a los servidores públicos y poder desarrollar políticas públicas y acciones afirmativas con perspectiva de género.
+
+V.- Dar seguimiento al ejercicio presupuestal de la Federación que deberá bajar al Municipio, para el etiquetamiento de recursos para programas que impacten en beneficio de las mujeres y niñas.
+
+VI.- Realizar acciones para la participación de las mujeres en la toma de decisiones y en la promoción de sus derechos políticos, económicos, sociales y culturales, poniendo énfasis en la prevención y erradicación de la violencia de género.
+
+VII.- Presentar proposiciones con Punto de Acuerdo, Iniciativas de Ley y, en su caso, Dictámenes que permitan cumplir con los objetivos que le dieron origen hacia una cultura institucional con perspectiva de género.
+
+VIII.- Garantizar el ejercicio pleno de los derechos sociales, económicos, políticos y culturales de las mujeres, a través de la agenda municipal que realice la Comisión y sus integrantes para la transversalidad en la perspectiva de género.
+
+IX.- Impulsar mecanismos para la armonización de las leyes con los reglamentos del Ayuntamiento de Mexicali, de conformidad a los instrumentos internacionales que México ha firmado.
+
+X.- Estrechar la vinculación con las diversas dependencias de la Administración Pública Federal y Local, con los Congresos Locales y con la Sociedad Civil, con la finalidad de trabajar en los temas que son de agenda común y avanzar en materia de equidad de género.
+
+XI.- Así como las necesarias para el cumplimiento puntual de la Comisión.
 
 #### SECCION IV. DEL PROCEDIMIENTO EN COMISIONES
 
@@ -1436,3 +1462,9 @@ P.O. 8 DE ABRIL DE 2011.
 SE TRANSCRIBE EL PUNTO DEL ACUERDO QUE SE RELACIONA CON EL PRESENTE ORDENAMIENTO.
 
 SEGUNDO.- Las presentes modificaciones entraran en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Baja California.
+
+P.O. 9 DE SEPTIEMBRE DE 2011.
+
+SE TRANSCRIBE EL PUNTO DEL ACUERDO QUE SE RELACIONA CON EL PRESENTE ORDENAMIENTO.
+
+SEGUNDO: Las presentes modificaciones entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Baja California.
