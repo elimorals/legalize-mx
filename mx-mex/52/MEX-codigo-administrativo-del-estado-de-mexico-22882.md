@@ -4,7 +4,7 @@ identifier: "MEX-codigo-administrativo-del-estado-de-mexico-22882"
 country: "mx"
 rank: "codigo"
 publication_date: "2001-12-13"
-last_updated: "2011-09-01"
+last_updated: "2011-09-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22882&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CODIGO ADMINISTRATIVO DEL ESTADO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 1 DE SEPTIEMBRE DE 2011.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 9 DE SEPTIEMBRE DE 2011.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el jueves 13 de diciembre de 2001.
 
@@ -2675,7 +2675,7 @@ II. Cuando por causas supervenientes se compruebe que el ejercicio de las activi
 
 III. Por reiterada renuencia de los titulares de la autorización, a acatar las determinaciones que dicte el Instituto en los términos de este Libro y demás disposiciones legales aplicables;
 
-IV. Cuando resulten falsos los datos o documentos proporcionados por el interesado para el otorgamiento de la autorización;
+IV. Cuando resulten falsos los datos o documentos proporcionados por el interesado para el otorgamiento de la autorización; y
 
 V. Cuando el interesado no se ajuste a los términos, condiciones y requisitos establecidos en la autorización o haga uso indebido o distinto de ésta.
 
@@ -5533,8 +5533,6 @@ Las autoridades de desarrollo urbano para hacer cumplir las medidas de seguridad
 
 ### CAPÍTULO SEGUNDO. De las Infracciones y Sanciones
 
-> <small>N. DE E. DEL ANÁLISIS REALIZADO AL DECRETO 337, SE ADVIERTE QUE DICHO ARTÍCULO CONTEMPLABA ONCE FRACCIONES Y EL ACTUAL ARTÍCULO TUVO UNA REFORMA INTEGRAL MEDIANTE DECRETO 336 PUBLICADOS AMBOS EN LA GACETA DEL GOBIERNO DE 1 DE SEPTIEMBRE DE 2011, POR LO QUE A EFECTO DE MOSTRAR DICHA CRONOLOGÍA SE SUGIERE CONSULTAR EL ARCHIVO ANEXO, ASÍ COMO LAS PUBLICACIONES OFICIALES EN LÍNEA.</small>
-
 > <small>(REFORMADO, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
 
 ###### Artículo 5.
@@ -5557,10 +5555,6 @@ Las multas se duplicarán en caso de reincidencia y se podrán aplicar conjuntam
 
 Las autoridades estatales y municipales en materia de desarrollo urbano podrán solicitar la intervención de la Secretaría de Finanzas y de las Tesorerías Municipales respectivas para exigir el pago de las multas que no se hubieren cubierto por los infractores en los plazos señalados.
 
-(VÉASE ARCHIVO ANEXO)
-
-> <small>N. DE E. DEL ANÁLISIS REALIZADO AL DECRETO 337, SE ADVIERTE QUE DICHO ARTÍCULO CONTEMPLABA DOCE FRACCIONES Y EL ACTUAL ARTÍCULO TUVO UNA REFORMA INTEGRAL MEDIANTE DECRETO 336 PUBLICADOS AMBOS EN LA GACETA DEL GOBIERNO DE 1 DE SEPTIEMBRE DE 2011, POR LO QUE A EFECTO DE MOSTRAR DICHA CRONOLOGÍA SE SUGIERE CONSULTAR EL ARCHIVO ANEXO, ASÍ COMO LAS PUBLICACIONES OFICIALES EN LÍNEA.</small>
-
 > <small>(REFORMADO, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
 
 ### CAPITULO PRIMERO. Del objeto y finalidad
@@ -5570,8 +5564,6 @@ Las autoridades estatales y municipales en materia de desarrollo urbano podrán 
 64.- Las sanciones se impondrán sin perjuicio de la responsabilidad civil o penal que pudieran resultar por los hechos o actos constitutivos de la infracción.
 
 La demolición parcial o total que ordene la autoridad competente será ejecutada por el afectado o infractor a su costa y dentro del plazo que fije la resolución respectiva. En caso contrario, la autoridad la mandará ejecutar por cuenta y cargo del afectado o infractor y su monto constituirá un crédito fiscal.
-
-(VÉASE ARCHIVO ANEXO)
 
 ## TÍTULO QUINTO. De las Medidas de Seguridad, Infracciones y Sanciones
 
@@ -6971,6 +6963,10 @@ Los titulares de la concesión o permiso serán responsables solidarios para el 
 
 > <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
 
+#### SECCION PRIMERA. Del comité consultivo estatal de normalización técnica de la construcción
+
+> <small>(ADICIONADO, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
+
 ## TITULO SEGUNDO. Del tránsito
 
 ### CAPITULO TERCERO. De la investigación, transferencia de tecnología y capacitación
@@ -7358,6 +7354,10 @@ VII. La integración de cadenas productivas, y mecanismos que permitan la obtenc
 ### CAPÍTULO PRIMERO. Disposiciones generales
 
 > <small>(REFORMADO PRIMER PARRAFO, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
+
+#### SECCION SEGUNDA. De la expedición de las normas técnicas
+
+> <small>(ADICIONADO, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
 
 ###### Artículo 9.
 
@@ -12153,9 +12153,9 @@ La Unidad Contratante tendrá derecho de compensar cantidades que le adeude el P
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.G. 21 DE AGOSTO DE 2006)</small>
 
-### CAPITULO SEGUNDO. Del Sistema de Autopistas, Aeropuertos, Servicios Conexos y Auxiliares del Estado de México
+### CAPITULO PRIMERO. Del objeto y finalidad
 
-> <small>(ADICIONADO, G.G. 31 DE MARZO DE 2011)</small>
+> <small>(ADICIONADO, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
 
 ###### Artículo 16.
 
@@ -12181,9 +12181,9 @@ En caso de incumplimiento de la Unidad Contratante y siempre que ésta dependa d
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.G. 21 DE AGOSTO DE 2006)</small>
 
-### CAPITULO TERCERO. Del Sistema de Transporte Masivo del Estado de México
+### CAPITULO SEGUNDO. De las autoridades
 
-> <small>(ADICIONADO, G.G. 31 DE MARZO DE 2011)</small>
+> <small>(ADICIONADO, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
 
 ###### Artículo 16.
 
@@ -12211,9 +12211,9 @@ Los órganos de control interno y el Órgano Superior de Fiscalización del Esta
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.G. 31 DE MARZO DE 2011)</small>
 
-### CAPITULO CUARTO. Del registro estatal de comunicaciones
+### CAPITULO TERCERO. De las normas técnicas
 
-> <small>(ADICIONADO, G.G. 31 DE MARZO DE 2011)</small>
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
 
 ###### Artículo 16.
 
@@ -12254,6 +12254,10 @@ IV. La situación específica del infractor.
 ## TITULO SEGUNDO. De la Infraestructura Vial
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.G. 31 DE MARZO DE 2011)</small>
+
+### CAPITULO CUARTO. De los peritos responsables de obra
+
+> <small>(ADICIONADO, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
 
 ###### Artículo 16.
 
@@ -12317,6 +12321,10 @@ En las materias reguladas en el presente Libro no procederá el recurso administ
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.G. 31 DE MARZO DE 2011)</small>
 
+### CAPITULO PRIMERO. De las licencias de construcción
+
+> <small>(ADICIONADO, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
+
 ###### Artículo 17.
 
 1.- Este Libro tiene por objeto regular las comunicaciones de jurisdicción local.
@@ -12377,6 +12385,10 @@ IX. Zona de Seguridad.- Al predio lindante con el derecho de vía de anchura var
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.G. 31 DE MARZO DE 2011)</small>
 
+### CAPITULO SEGUNDO. De los permisos de obra
+
+> <small>(ADICIONADO, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
+
 ###### Artículo 17.
 
 5.- Son autoridades para la aplicación de este Libro:
@@ -12433,6 +12445,10 @@ Para los efectos de este artículo la Secretaría contará con un registro de v�
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.G. 31 DE MARZO DE 2011)</small>
 
+### CAPITULO TERCERO. De las constancias
+
+> <small>(ADICIONADO, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
+
 ###### Artículo 17.
 
 11.- La infraestructura vial se clasifica en:
@@ -12460,6 +12476,10 @@ III. Cubrir el costo que se genere por la adquisición del instrumento de uso re
 IV. Cubrir los daños que ocasionen a la infraestructura vial y su derecho de vía, sin perjuicio de la responsabilidad civil o penal que derive de los hechos o actos constitutivos de la infracción administrativa y de aquéllas sanciones que procedan en términos de otras disposiciones legales.
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.G. 31 DE MARZO DE 2011)</small>
+
+### CAPITULO PRIMERO. De los lineamientos de diseño
+
+> <small>(ADICIONADO, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
 
 ###### Artículo 17.
 
@@ -12542,6 +12562,10 @@ Los accesos que se construyan dentro del derecho de vía se considerarán auxili
 Si dentro de este lazo no fuere reclamado dicho material, la autoridad queda facultada para disponer del mismo y aplicar su valor al pago de las infracciones y gastos correspondientes.
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.G. 31 DE MARZO DE 2011)</small>
+
+### CAPITULO SEGUNDO. De los lineamientos del proyecto
+
+> <small>(ADICIONADO, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
 
 ###### Artículo 17.
 
@@ -12763,6 +12787,10 @@ Declarada desierta una licitación pública, se podrá adjudicar la concesión a
 
 > <small>(ADICIONADO, G.G. 31 DE MARZO DE 2011)</small>
 
+### CAPITULO TERCERO. De los lineamientos de diseño para personas con discapacidad
+
+> <small>(ADICIONADO, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
+
 ###### Artículo 17.
 
 41.- La Secretaría podrá cancelar el procedimiento de otorgamiento de la concesión por causas de interés público, caso fortuito o de fuerza mayor; asimismo, podrá cancelarlo cuando existan circunstancias debidamente justificadas que extingan de la necesidad pública que le dio origen; y que, en caso de continuarse con el procedimiento, se pudiera ocasionar un daño o perjuicio al Estado.
@@ -12808,6 +12836,10 @@ II. Los costos futuros de ampliación y mejoramiento; y
 III. Las demás proyecciones financieras y operativas que considere la rentabilidad de la concesión.
 
 > <small>(ADICIONADO, G.G. 31 DE MARZO DE 2011)</small>
+
+### CAPITULO PRIMERO. Disposiciones generales
+
+> <small>(ADICIONADO, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
 
 ###### Artículo 17.
 
@@ -12878,6 +12910,10 @@ b) Al término de la concesión o sus modificaciones, los bienes objeto de la co
 48.- El servicio público de transporte masivo o de alta capacidad deberá ser prestado de manera regular y uniforme, mediante retribución de los usuarios. Las concesiones obligan a sus titulares a la prestación directa del servicio.
 
 > <small>(ADICIONADO, G.G. 31 DE MARZO DE 2011)</small>
+
+### CAPITULO SEGUNDO. De los criterios de diseño estructural
+
+> <small>(ADICIONADO, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
 
 ###### Artículo 17.
 
@@ -13021,6 +13057,10 @@ XIII. Las demás previstas en este Libro y la concesión o permiso respectivo.
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.G. 31 DE MARZO DE 2011)</small>
 
+### CAPITULO TERCERO. De las prevenciones estructurales
+
+> <small>(ADICIONADO, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
+
 ###### Artículo 17.
 
 58.- La Secretaría emitirá los dictámenes de incorporación e impacto vial, tratándose de las autorizaciones de impacto regional a que se refiere el Libro Quinto de este Código.
@@ -13038,6 +13078,10 @@ XIII. Las demás previstas en este Libro y la concesión o permiso respectivo.
 60.- El dictamen de incorporación vial es la resolución técnica que determina la factibilidad de acceder a la infraestructura vial primaria y de cuota determinando las obras y acciones necesarias para tal fin.
 
 > <small>(ADICIONADO, G.G. 31 DE MARZO DE 2011)</small>
+
+### CAPITULO CUARTO. De las demoliciones y excavaciones
+
+> <small>(ADICIONADO, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
 
 ###### Artículo 17.
 
@@ -13099,9 +13143,13 @@ La organización y funcionamiento de la Junta se rige por el reglamento interno 
 
 > <small>(ADICIONADO, G.G. 31 DE MARZO DE 2011)</small>
 
-## TITULO QUINTO. DE LAS MEDIDAS DE SEGURIDAD, INFRACCIONES Y SANCIONES
+## TITULO PRIMERO. De las disposiciones generales
 
-> <small>(ADICIONADO, G.G. 31 DE MARZO DE 2011)</small>
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
+
+### CAPITULO UNICO. De los procedimientos constructivos, de los materiales y de la supervisión de las obras
+
+> <small>(ADICIONADO, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
 
 ###### Artículo 17.
 
@@ -13189,6 +13237,10 @@ La organización y funcionamiento del Sistema se rige por el reglamento interno 
 
 > <small>(ADICIONADO, G.G. 31 DE MARZO DE 2011)</small>
 
+### CAPITULO PRIMERO. De las visitas de verificación
+
+> <small>(ADICIONADO, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
+
 ###### Artículo 17.
 
 73.- El consejo directivo se integra en los términos previstos en la Ley para la Coordinación y Control de Organismos Auxiliares y Fideicomisos del Estado de México y cuenta con siete vocales, que son: el Secretario de Comunicaciones quien lo preside, los representantes de las secretarías de Finanzas, de Desarrollo Urbano, de Agua y Obra Pública, de Medio Ambiente, y los directores generales de Vialidad y de la Junta de Caminos del Estado de México.
@@ -13275,6 +13327,10 @@ La organización y funcionamiento del Sistema se rige por el Reglamento Interno 
 
 > <small>(ADICIONADO, G.G. 31 DE MARZO DE 2011)</small>
 
+### CAPITULO SEGUNDO. De las medidas de seguridad
+
+> <small>(ADICIONADO, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
+
 ###### Artículo 17.
 
 79.- El Consejo Directivo se integra en los términos previstos en la Ley para la Coordinación y Control de Organismos Auxiliares y Fideicomisos del Estado de México y cuenta con ocho vocales, que son: el Secretario de Comunicaciones, quien lo preside, los representantes de las Secretarías de Finanzas, de Desarrollo Urbano, de Transporte y del Medio Ambiente, y los directores generales de Vialidad, de la Junta de Caminos del Estado de México y del Sistema de Autopistas, Aeropuertos, Servicios Conexos y Auxiliares del Estado de México.
@@ -13333,6 +13389,10 @@ El Registro Estatal de Comunicaciones será público y tendrá efectos declarati
 
 > <small>(ADICIONADO, G.G. 31 DE MARZO DE 2011)</small>
 
+### CAPITULO TERCERO. De las infracciones y sanciones
+
+> <small>(ADICIONADO, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
+
 ###### Artículo 17.
 
 85.- La aplicación de las sanciones por infracciones a las disposiciones de este Libro y su reglamentación, se hará independientemente de que se exija el pago de contribuciones y sus accesorios, así como las responsabilidades de orden administrativo, civil o penal previstas en los ordenamientos legales respectivos.
@@ -13357,13 +13417,1141 @@ VI. Retiro de anuncios publicitarios; y
 
 VII. Las sanciones que se contengan en los respectivos títulos de concesión.
 
-T R A N S I T O R I O S
+> <small>(ADICIONADO CON LOS TITULOS, CAPITULOS, SECCIONES Y ARTICULOS QUE LO INTEGRAN, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
+
+## TITULO SEGUNDO. De las licencias, permisos y constancias
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
+
+# LIBRO DECIMO OCTAVO. De las Construcciones
+
+> <small>(ADICIONADO CON LOS CAPITULOS, SECCIONES Y ARTICULOS QUE LO INTEGRAN, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
+
+## TITULO TERCERO. De los lineamientos para los proyectos arquitectónicos
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
+
+### CAPITULO CUARTO. Del recurso de inconformidad
+
+> <small>(ADICIONADO, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
 
 ###### Artículo 18.
 
-La Escuadrilla Naval, es una organización operativa compuesta de dos a cuatro unidades de superficie del mismo tipo o clase que cumplen una misma misión.
+1.- Las disposiciones de este Libro son de orden público e interés general y tienen por objeto regular las construcciones privadas que se realicen en el territorio estatal, con el fin de que satisfagan condiciones de seguridad, habitabilidad, calidad, higiene, funcionalidad, sustentabilidad e integración al contexto e imagen urbana.
 
-Están integradas por personal naval y unidades de superficie de acuerdo con los requerimientos operativos. Los Comandantes serán de la categoría de Capitán y estarán subordinados al Comandante de Fuerza, Región, Zona o Sector Naval que corresponda.
+> <small>(ADICIONADO, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
+
+###### Artículo 18.
+
+2.- Para los efectos del presente Libro, se entenderá por:
+
+I. Código: al Código Administrativo del Estado de México;
+
+II. Comité: al Comité Consultivo Estatal de Normalización Técnica de la Construcción;
+
+III. Construcciones: a toda obra, edificación o instalación de carácter privado, así como su modificación, ampliación, reparación o demolición;
+
+IV. Normas Técnicas: a las Normas Técnicas Complementarias de Construcción, en materia de diseño urbano y arquitectónico, procesos constructivos, estructuras e instalaciones;
+
+V. Secretaría: a la Secretaría del Agua y Obra Pública; y
+
+VI. Vía pública: a la infraestructura vial primaria y local definidas en el Libro Séptimo del Código, que tiene por objeto el libre tránsito de personas, bienes y servicios; el alojamiento de redes de infraestructura; así como el dar acceso, iluminación, ventilación y asoleamiento a los inmuebles que la delimitan.
+
+> <small>(ADICIONADO, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
+
+###### Artículo 18.
+
+3.- Toda construcción se sujetará a lo siguiente:
+
+I. A las disposiciones de este Libro, del Libro Quinto del Código y su Reglamento, a las Normas Técnicas y a las demás disposiciones jurídicas aplicables;
+
+II. Requerirán para su ejecución de la correspondiente licencia de construcción, salvo los casos de excepción que se establecen en este Libro;
+
+III. Requerirán de la respectiva constancia de terminación de obra;
+
+IV. Observarán la normatividad de uso y aprovechamiento del suelo contenida en los planes de desarrollo urbano correspondientes;
+
+V. Contarán con los cajones de estacionamiento que establezca el plan municipal de desarrollo urbano correspondiente, atendiendo lo que al respecto determine la normatividad aplicable;
+
+VI. Garantizarán su iluminación, ventilación y asoleamiento, la mitigación de efectos negativos que puedan causar a las construcciones vecinas;
+
+VII. Cumplirán los requisitos de seguridad estructural que les permitan satisfacer los fines para los cuales fueron proyectadas;
+
+VIII. Estarán provistas de los servicios básicos de agua potable, desalojo de aguas residuales y energía eléctrica;
+
+IX. Dispondrán de espacios y muebles sanitarios de bajo consumo de agua, en número suficiente para los usuarios y de conformidad a las normas oficiales mexicanas;
+
+X. Cumplirán con las previsiones correspondientes a protección civil, ingeniería sanitaria y personas con discapacidad;
+
+XI. Las que se ubiquen en zonas de valor arqueológico, histórico, artístico y cultural, deberán sujetarse a las restricciones que señalen el Instituto Nacional de Antropología e Historia o el Instituto Nacional de Bellas Artes y Literatura según corresponda y cumplir con las normas que señalen los ordenamientos legales aplicables;
+
+XII. Las dedicadas a servicios de radiotelecomunicación o similares y anuncios publicitarios que requieran elementos estructurales, fomentarán su integración al contexto y se ajustarán a las disposiciones aplicables; y
+
+XIII. Procurarán la utilización de tecnologías a efecto de lograr un aprovechamiento sustentable de los recursos naturales y el cuidado de la biosfera.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
+
+###### Artículo 18.
+
+4.- Son autoridades para la aplicación del presente Libro, la Secretaría y los Municipios.
+
+> <small>(ADICIONADO, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
+
+###### Artículo 18.
+
+5.- Son atribuciones de la Secretaría:
+
+a) Expedir las Normas Técnicas, previa elaboración del Comité;
+
+b) Proponer anteproyectos de Normas Técnicas al Comité;
+
+c) Promover la elaboración y actualización de las Normas Técnicas que establece el presente Libro;
+
+d) Compilar y difundir las Normas Técnicas;
+
+e) Fomentar la capacitación y certificación de los servidores públicos de los municipios de conformidad con la normatividad aplicable; y
+
+f) Las demás que le confieran otras disposiciones legales.
+
+> <small>(ADICIONADO, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
+
+###### Artículo 18.
+
+6.- Son atribuciones de los Municipios:
+
+I. Presentar anteproyectos de Normas Técnicas al Comité;
+
+II. Expedir licencias, permisos y constancias en materia de construcción, de conformidad con lo dispuesto por este Libro, las Normas Técnicas, los planes municipales de desarrollo urbano y demás normatividad aplicable;
+
+III. Fijar las restricciones a que deban sujetarse las construcciones;
+
+IV. Difundir la normatividad y los trámites en la materia en sus respectivos ámbitos territoriales;
+
+V. Asesorar a los particulares respecto a las disposiciones de este Libro, las Normas Técnicas y demás disposiciones jurídicas aplicables;
+
+VI. Vigilar que las construcciones en proceso, terminadas o en demolición, se ajusten a las disposiciones de este Libro, de los planes municipales de desarrollo urbano, de las licencias y permisos de construcción y demás normatividad aplicable;
+
+VII. Ordenar y ejecutar las medidas de seguridad que fueren procedentes de conformidad con lo establecido por este Libro y demás disposiciones jurídicas aplicables;
+
+VIII. Imponer las sanciones que correspondan por las infracciones cometidas a las disposiciones de este Libro, las Normas Técnicas, los planes municipales de desarrollo urbano, las licencias y permisos de construcción y demás normatividad aplicable;
+
+IX. Expedir los reglamentos y disposiciones administrativas de carácter general, que fueren necesarias para la ejecución y cumplimiento del presente Libro;
+
+X. Auxiliarse de la fuerza pública cuando fuere necesario para hacer cumplir sus determinaciones; y
+
+XI. Las demás que le confieran otras disposiciones legales.
+
+> <small>(ADICIONADO, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
+
+###### Artículo 18.
+
+7.- Para la emisión de las licencias, permisos y constancias de que trata este Libro, los Municipios deberán contar con servidores públicos especializados en la materia.
+
+> <small>(ADICIONADO CON LAS SECCIONES Y ARTICULOS QUE LO INTEGRAN, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
+
+###### Artículo 18.
+
+8.- La Secretaría instaurará el Comité Consultivo Estatal de Normalización Técnica de la Construcción, como órgano técnico de carácter interinstitucional que tendrá por objeto elaborar, revisar y actualizar las Normas Técnicas, con el fin de que las construcciones satisfagan condiciones de seguridad, habitabilidad, calidad, higiene, funcionalidad, sustentabilidad e integración al contexto e imagen urbana.
+
+> <small>(ADICIONADO, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
+
+###### Artículo 18.
+
+9.- El Comité se integra por:
+
+I. El titular de la Secretaría, quien fungirá como Presidente;
+
+II. Representantes especialistas de las Secretarías General de Gobierno, del Medio Ambiente, del Agua y Obra Pública, de Desarrollo Económico, de Desarrollo Urbano y de Salud;
+
+III. Las instituciones académicas de educación superior, de ciencia y tecnología, las asociaciones de profesionistas en la materia y las cámaras y asociaciones de industriales y de la construcción, que determine el Presidente del Comité, quienes deberán designar como representantes a especialistas en la materia; y
+
+IV. Los especialistas independientes que determine el Presidente del Comité.
+
+Los integrantes del Comité podrán designar un suplente, quien deberá ser especialista en la materia.
+
+Los Ayuntamientos de la entidad podrán participar en las sesiones del Comité, a través de un representante especialista en la materia previamente registrado ante el mismo órgano.
+
+Asimismo, podrá invitarse a participar en las sesiones del Comité a representantes de autoridades de carácter federal y estatal, así como a otros especialistas cuando se traten temas de su competencia, especialidad o interés. Será invitado permanente, con derecho a voz, el Presidente de la Comisión de Desarrollo Urbano de la Legislatura del Estado.
+
+Para el desempeño de sus funciones, el Comité contará con un secretariado técnico, cuyo titular será designado por el Presidente del Comité.
+
+> <small>(ADICIONADO, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
+
+###### Artículo 18.
+
+10.- El Comité tendrá las siguientes funciones:
+
+I. Establecer reglas para la elaboración y presentación de anteproyectos de Normas Técnicas;
+
+II. Recomendar a las dependencias o municipios la elaboración de anteproyectos de Normas Técnicas, así como la modificación o extinción de las Normas Técnicas en vigor;
+
+III. Proponer la integración de grupos de trabajo para el estudio e investigación de materias específicas;
+
+IV. Proponer las medidas que se estimen oportunas para el fomento de la normalización, así como aquellas necesarias para resolver las quejas que presenten los interesados sobre aspectos relacionados con la aplicación de las Normas Técnicas;
+
+V. Promover la capacitación para el conocimiento y observancia de las Normas Técnicas;
+
+VI. Revisar que no existan Normas Técnicas relacionadas con el proyecto de Norma en elaboración, en cuyo caso deberá elaborar una sola Norma que las integre;
+
+VII. Expedir y modificar su Reglamento Interior, el cual determinará su organización y funcionamiento;
+
+VIII. Dar seguimiento a la aplicación de las normas técnicas que se emitan; y
+
+IX. Todas aquellas que sean necesarias para la realización de su objeto.
+
+> <small>(ADICIONADO, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
+
+###### Artículo 18.
+
+11.- Las sesiones del Comité serán convocadas por el secretario técnico a petición de su presidente o de cualquiera de sus integrantes y se celebrarán con la periodicidad que determine su Reglamento Interior.
+
+Las sesiones serán válidas con la asistencia de cuando menos tres cuartas partes de los miembros convocados.
+
+Los acuerdos del Comité deberán tomarse por consenso; de no ser esto posible, se tomarán por el voto de por lo menos la mitad más uno de los miembros presentes, en caso de empate, el Presidente contará con voto de calidad.
+
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
+
+###### Artículo 18.
+
+12.- Las dependencias estatales, en el ámbito de sus respectivas competencias, así como los Municipios elaborarán anteproyectos de Normas Técnicas y las someterán a la consideración del Comité.
+
+El Comité, con base en los anteproyectos mencionados, elaborará a su vez los proyectos de Nomas Técnicas, de conformidad con lo dispuesto en el presente capítulo.
+
+Toda persona o institución interesada podrá presentar propuestas de Normas Técnicas a la Secretaría o a los Municipios, las cuales harán la evaluación correspondiente y en su caso, presentarán al Comité el respectivo anteproyecto de norma técnica.
+
+> <small>(ADICIONADO, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
+
+###### Artículo 18.
+
+13.- La expedición y modificación de las Normas Técnicas se sujetará a las siguientes reglas:
+
+I. Los anteproyectos a que se refiere el artículo anterior, se presentarán a la consideración del Comité, para que éste, en un plazo que no excederá los cuarenta y cinco días naturales formule al presentante las observaciones que considere pertinentes;
+
+II. La dependencia estatal o municipal que haya presentado el anteproyecto de Norma, contestará fundadamente las observaciones hechas por el Comité, en un plazo no mayor de treinta días naturales, contados a partir de la fecha en que le sean entregadas y, en caso de considerarlas procedentes, el Comité procederá a elaborar el proyecto de Norma de que se trate.
+
+En los casos de las propuestas presentadas de conformidad con el último párrafo del artículo anterior se le notificarán las observaciones al autor de la misma, a efecto de que realice en su caso los comentarios que considere pertinentes;
+
+III. El proyecto de Norma Técnica que elabore el Comité, la Secretaría deberá publicarlo íntegramente en el Periódico Oficial Gaceta del Gobierno así como difundirlo en su portal oficial, a efecto de que dentro de los cuarenta y cinco días naturales posteriores a su publicación, los interesados presenten sus comentarios al Comité;
+
+IV. Al término del plazo a que se refiere la fracción anterior, el Comité estudiará los comentarios recibidos y, en caso de estimarlos procedentes, modificará el proyecto en un plazo que no excederá los treinta días naturales;
+
+V. Concluido el plazo a que se refiere la fracción anterior, el Comité sesionará con el fin de conocer y evaluar los comentarios recibidos y las modificaciones realizadas al proyecto de norma y, en su caso, procederá a la definición del proyecto de Norma Técnica; y
+
+VI. Una vez definido el proyecto de Norma Técnica por el Comité, éste la enviará a la Secretaría para que proceda a la expedición y publicación de la Norma Técnica en el Periódico Oficial "Gaceta del Gobierno" del Estado de México, para efectos de su entrada en vigor, así como en su portal oficial para su difusión.
+
+Dada la naturaleza técnica del Comité, contra las decisiones que tome respecto de los comentarios recibidos a los proyectos de Normas Técnicas, no procederá recurso o medio de defensa legal alguno.
+
+En ningún caso se podrá expedir una Norma Técnica que contravenga otras disposiciones legales o reglamentarias.
+
+> <small>(ADICIONADO, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
+
+###### Artículo 18.
+
+14.- El Comité podrá revisar en cualquier tiempo las Normas Técnicas que se encuentren en vigor, debiendo notificar a la Secretaría el inicio y los resultados de la revisión, a efecto de que en su caso, la Secretaría proceda a su modificación de conformidad con el procedimiento previsto en el artículo anterior, o bien, a su extinción, la cual deberá publicarse en el Periódico Oficial Gaceta del Gobierno.
+
+Sin perjuicio de lo anterior, dentro del año siguiente a la entrada en vigor de las Normas Técnicas, el Comité podrá solicitar comentarios a los municipios respecto de la aplicación, efectos y observancia de dichas normas, a fin de sugerir las acciones de mejora que procedan, las que se difundirán en el portal oficial de la Secretaría.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
+
+###### Artículo 18.
+
+15.- Perito responsable de obra es la persona física autorizada por la Secretaría para actuar como auxiliar de las autoridades municipales de construcción, que será responsable de que en los proyectos y obras en los que otorgue su responsiva, se cumplan con las disposiciones de este Libro, las Normas Técnicas y demás normatividad aplicable.
+
+En los casos que no se requiere de Perito responsable de obra, el titular de la licencia de construcción asumirá dicha responsabilidad.
+
+> <small>(ADICIONADO, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
+
+###### Artículo 18.
+
+16.- La autorización para ejercer con el carácter de Perito responsable de obra, se acreditará con la credencial vigente expedida al efecto por la Secretaría.
+
+Así mismo, la Secretaría contará con un registro de los expedientes de los peritos de obra en el que, además de los documentos que acreditan la profesionalización de los solicitantes, se registrarán las sanciones a que se hayan hecho acreedores.
+
+> <small>(ADICIONADO, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
+
+###### Artículo 18.
+
+17.- Para obtener la autorización como perito responsable de obra se requerirá:
+
+I. Tener cédula profesional para su ejercicio de alguna de las disciplinas relacionadas con la materia de la construcción;
+
+II. Acreditar conocimientos especializados en la materia, cuando menos de tres años de experiencia, mediante los siguientes documentos:
+
+a) Certificados de cursos, seminarios, talleres y, en general, de estudios de especialización en materia de construcción;
+
+b) Constancias laborales, contratos, convenios u otros documentos que oficialmente acrediten su participación en proyectos de obras o edificaciones; y
+
+c) Los demás que el solicitante considere pertinentes para acreditar sus conocimientos especializados y experiencia profesional.
+
+III. Realizar el curso de perito responsable de obra, impartido por la Secretaría o la institución que ésta determine y aprobar el examen correspondiente; y
+
+IV. La autorización para ejercer como Perito responsable de obra tendrá una vigencia de tres años y podrá ser refrendada mediante la aprobación del curso o examen a que se refiere la fracción III y el pago de los derechos correspondientes.
+
+> <small>(ADICIONADO, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
+
+###### Artículo 18.
+
+18.- Se entenderá que los peritos responsables de obra otorgan su responsiva cuando, con ese carácter:
+
+I. Suscriba una solicitud de licencia o permiso de construcción;
+
+II. Tome a su cargo la supervisión de la ejecución de una construcción; y
+
+III. Suscriban cualquier otro documento que establezcan las disposiciones reglamentarias del presente Libro y demás disposiciones jurídicas aplicables.
+
+> <small>(ADICIONADO, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
+
+###### Artículo 18.
+
+19.- Los Peritos responsables de obra tendrán las obligaciones siguientes:
+
+I. Suscribir las solicitudes de licencias de construcción, así como los planos que integren el proyecto;
+
+II. Dirigir y vigilar las construcciones asegurándose que tanto el proyecto como la ejecución de las edificaciones e instalaciones cumplan con lo establecido en este Libro, las Normas Técnicas y demás disposiciones jurídicas aplicables;
+
+III. Llevar en la obra un libro de bitácora, foliado y sellado por la autoridad municipal correspondiente, en el que se anotarán los datos siguientes:
+
+a) Nombre y firma del propietario o poseedor, del Perito responsable de obra y del Residente de obra;
+
+b) Nombre o razón social de la persona física o jurídico colectiva que ejecute la obra;
+
+c) Materiales empleados para fines estructurales o de seguridad;
+
+d) Procedimientos generales de construcción y de control de calidad;
+
+e) Descripción de los detalles definidos durante la ejecución de la obra;
+
+f) Fecha de las visitas, observaciones e instrucciones del Perito responsable de obra y de los demás peritos en su caso;
+
+g) Fecha de inicio de cada etapa de la obra; y
+
+h) Los demás datos que establezcan las disposiciones reglamentarias del presente Libro.
+
+IV. Responder de cualquier violación a las disposiciones de este Libro, las Normas Técnicas, las licencias y permisos y demás normatividad que resulte aplicable;
+
+V. Entregar al propietario, concluida la obra, los planos actualizados y registrados del proyecto completo en original, el libro de bitácora, memorias de cálculo y conservar un juego de copias de éstos documentos;
+
+VI. Firmar y presentar a la autoridad municipal correspondiente la solicitud de constancia de terminación de obras; y
+
+VII. Las demás que establezcan las disposiciones reglamentarias del presente Libro y demás disposiciones jurídicas aplicables.
+
+> <small>(ADICIONADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
+
+###### Artículo 18.
+
+20.- La licencia de construcción tiene por objeto autorizar:
+
+I. Obra nueva;
+
+II. Ampliación, modificación o reparación que afecte elementos estructurales de la obra existente;
+
+III. Demolición parcial o total;
+
+IV. Excavación o relleno;
+
+V. Construcción de bardas;
+
+VI. Obras de conexión a las redes de agua potable y drenaje;
+
+VII. Modificación del proyecto de una obra autorizada;
+
+VIII. Construcción e instalación de estaciones repetidoras y antenas para radiotelecomunicaciones;
+
+IX. Anuncios publicitarios que requieran de elementos estructurales; y
+
+X. Instalaciones o modificaciones de ascensores para personas, montacargas, escaleras mecánicas o cualquier otro mecanismo de transporte electromecánico.
+
+La licencia de construcción tendrá vigencia de un año y podrá autorizar, además del uso de la vía pública, uno o más de los rubros señalados, conforme a la solicitud que se presente.
+
+La autoridad municipal que emita la licencia de construcción deberá revisar que en el proyecto que autoriza se observen las disposiciones de este Libro, las Normas Técnicas y demás disposiciones jurídicas aplicables.
+
+> <small>(ADICIONADO, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
+
+###### Artículo 18.
+
+21.- A la solicitud de licencia de construcción se acompañará como mínimo:
+
+I. Documento que acredite la personalidad del solicitante;
+
+II. Documento que acredite la propiedad o la posesión en concepto de propietario del inmueble;
+
+III. De acuerdo al tipo de licencia de construcción que se solicite, adicionalmente se requerirá:
+
+A). Para obra nueva, así como para la ampliación, modificación o reparación que afecte elementos estructurales de una obra existente:
+
+1. Licencia de uso del suelo, autorización de conjunto urbano o, en los casos que impliquen la construcción de más de diez viviendas o de un coeficiente de utilización del suelo de tres mil o más metros cuadrados de construcción en otros usos, constancia de viabilidad, autorización de subdivisión o de condominio según corresponda, expedida por la Secretaría de Desarrollo Urbano;
+
+2. Constancia de alineamiento y número oficial;
+
+3. Planos arquitectónicos del proyecto, firmados por perito responsable de obra;
+
+4. Planos arquitectónicos del proyecto en los que se indiquen los pisos, departamentos, viviendas o locales que serán áreas privativas o del dominio exclusivo de los condóminos, los elementos comunes de la construcción y las áreas de uso común del inmueble, así como tabla de indivisos, firmados por perito responsable de obra, en el caso de construcciones en régimen de propiedad en condominio;
+
+5. Planos estructurales, firmados por perito responsable de obra;
+
+6. Planos de instalaciones hidráulicas, sanitarias, eléctricas y especiales, firmados por perito responsable de obra;
+
+7. Constancia de terminación de obra, en los casos de ampliación, modificación o reparación de la obra existente.
+
+B). Para modalidades de obra nueva, de ampliación, modificación o reparación de la construcción existente, que no afecte elementos estructurales e impliquen la construcción de entre veinte y sesenta metros cuadrados:
+
+1. Documento que acredite la personalidad del solicitante;
+
+2. Documento que acredite la propiedad o la posesión en concepto de propietario;
+
+3. Constancia de alineamiento y número oficial en los casos de obra nueva;
+
+4. Licencia de uso del suelo;
+
+5. Croquis arquitectónico.
+
+C). Para demolición parcial o total:
+
+1. Croquis arquitectónico de la construcción existente, indicando el área a demoler;
+
+2. Memoria y programa del proceso de demolición, en el que se indicará el orden, volumen estimado y fechas aproximadas en que se demolerán los elementos de la construcción. Tratándose de demoliciones con un área mayor de cuarenta metros cuadrados en planta baja o de veinte metros cuadrados en niveles superiores, la memoria y el programa deberán ser firmados por perito responsable de obra;
+
+3. Autorización de la demolición por parte de las autoridades federales que correspondan, cuando ésta se localice en zonas declaradas como patrimonio histórico, artístico y arqueológico o cuando se trate de inmuebles que se ubiquen en zonas de conservación patrimonial previstas por los planes de desarrollo urbano.
+
+D). Para excavación, relleno o movimiento de tierras:
+
+1. Croquis de localización del área donde se va a realizar;
+
+2. Memoria y programa del procedimiento respectivo.
+
+E). Para construcción de bardas:
+
+1. Croquis arquitectónico, indicando las dimensiones de la misma.
+
+F). Para obras de conexión a la red de agua potable y drenaje:
+
+1. Autorización de la conexión correspondiente;
+
+2. Croquis de la obra a realizar.
+
+G). Para modificación del proyecto de una obra autorizada:
+
+1. Licencia de construcción y, en su caso, constancia de suspensión voluntaria de obra;
+
+2. Planos de las modificaciones arquitectónicas, estructurales y de instalaciones, según el caso, firmados por perito responsable de obra;
+
+3. Tratándose de usos de impacto regional, la correspondiente memoria de cálculo.
+
+H). Para la construcción e instalación de estaciones repetidoras y antenas para radiotelecomunicaciones; anuncios publicitarios que requieran de elementos estructurales; así como instalaciones o modificaciones de ascensores para personas, montacargas, escaleras mecánicas o cualquier otro mecanismo de transporte electromecánico:
+
+1. Planos y memoria de cálculo de la estructura sustentante, firmados por perito responsable de obra;
+
+2. Licencia de construcción otorgada a la edificación existente, en su caso; y
+
+3. Planos o diseños que fomenten la integración de la estructura al contexto.
+
+> <small>(ADICIONADO, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
+
+###### Artículo 18.
+
+22.- Los planos que se acompañarán a la solicitud de licencia de construcción, contendrán al menos:
+
+I. Arquitectónicos: plantas de distribución, cortes sanitarios, fachadas y planta de conjunto, con escala debidamente acotada y especificada:
+
+II. Estructurales: plantas de excavación, cimentación, entrepisos y azoteas, con detalles y especificaciones de los armados;
+
+III. Instalaciones eléctricas: plantas de distribución, acometida, cuadro de cargas y diagrama unifilar, con detalles y especificaciones;
+
+IV. Instalaciones hidráulica y sanitaria: plantas de distribución, acometida y vertido, cortes e isométricos, con detalles y especificaciones; y
+
+V. Instalaciones especiales: plantas de distribución, cortes, isométricos, con detalles y especificaciones, referidos principalmente a detección y extinción de incendios, aire acondicionado, voz, datos y telefonía, gas y energía regulada.
+
+> <small>(ADICIONADO, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
+
+###### Artículo 18.
+
+23.- Tratándose de construcciones mayores de sesenta metros cuadrados o con claros mayores de cuatro metros, la solicitud de la licencia de construcción y los planos respectivos deberán contener la firma del perito responsable de la obra.
+
+Además de la responsiva del Perito Responsable de Obra, en las obras destinadas a los usos del suelo indicados en el artículo 5.32 del Código, será necesario contar con el visto bueno de profesionales que cuenten con Especialidad en: Arquitectura, Urbanismo, Seguridad Estructural, Instalaciones o Arquitectura del Paisaje.
+
+> <small>(ADICIONADO, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
+
+###### Artículo 18.
+
+24.- No se requiere licencia de construcción para efectuar las siguientes obras:
+
+I. Construcciones de hasta veinte metros cuadrados;
+
+II. Bardas de hasta diez metros de largo y dos metros con veinte centímetros de altura;
+
+III. Impermeabilización y reparación de azoteas, sin afectar elementos estructurales;
+
+IV. Reposición de pisos, ventanas, puertas, cortinas metálicas;
+
+V. Reparación de instalaciones hidráulicas, sanitarias y eléctricas;
+
+VI. Limpieza, aplanados, pintura y revestimiento en fachadas. En estos casos deberán adoptarse las medidas necesarias para no causar molestias en la vía pública;
+
+VII. Construcciones provisionales para uso de oficinas, bodegas o vigilancia durante la edificación de una obra y los servicios sanitarios correspondientes;
+
+VIII. Pozos y calas de exploración para estudios varios;
+
+IX. Fosas sépticas y cisternas con una capacidad de hasta ocho metros cúbicos;
+
+X. Obras de jardinería;
+
+XI. Apertura de vanos para la instalación de puertas y ventanas, sin afectar elementos estructurales; y
+
+XII. Obras urgentes para prevenir accidentes o en ejecución de medidas de seguridad.
+
+> <small>(ADICIONADO, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
+
+## TITULO CUARTO. De la seguridad estructural de las construcciones
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
+
+###### Artículo 18.
+
+25.- Toda construcción, en su etapa de edificación, mantendrá en un lugar visible al público una placa que contenga los datos de la licencia de construcción, vigencia de la misma, el destino de la obra y su ubicación, así como en su caso, los datos del perito responsable de obra.
+
+> <small>(ADICIONADO, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
+
+###### Artículo 18.
+
+26.- La licencia de construcción autoriza la ocupación de la vía pública, para:
+
+I. Carga y descarga de materiales de construcción y de los productos de excavaciones o demoliciones; e
+
+II. Instalación de andamios y tapiales o estructuras provisionales que se requieran para la ejecución de las obras y edificaciones autorizadas.
+
+Una vez realizado el uso de la vía pública, el titular de la licencia deberá restaurarla a su estado original.
+
+El que ocupe la vía pública sin la autorización correspondiente, será sancionado en términos de este ordenamiento.
+
+> <small>(ADICIONADO, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
+
+###### Artículo 18.
+
+27.- El titular de la licencia de construcción deberá colocar en la vía pública la señalización y protección necesaria para evitar daños a terceros, además de señalar y contener los escombros, materiales o cualquier otro elemento que obstaculice el libre tránsito.
+
+> <small>(ADICIONADO, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
+
+###### Artículo 18.
+
+28.- Cuando el plazo que ampara la licencia de construcción o el permiso temporal no fuese suficiente para la conclusión de la obra o instalación autorizada, los Municipios podrán otorgar prórrogas, las cuales se sujetarán a las reglas siguientes:
+
+I. Se podrán otorgar tantas veces como lo requiera el solicitante, previo pago de los derechos correspondientes;
+
+II. Tendrán una vigencia máxima al de la licencia o permiso temporal originalmente otorgado; y
+
+III. Se deberán solicitar dentro de la vigencia de la licencia o permiso temporal;
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
+
+###### Artículo 18.
+
+29.- La ejecución de obras subterráneas o aéreas en la vía pública, para la instalación, mantenimiento o retiro de ductos o líneas para la conducción de energía eléctrica, telefonía inalámbrica, telecomunicaciones, gasoductos, oleoductos, televisión por cable y demás fluidos, así como para la instalación de anuncios publicitarios que requieran de elementos estructurales, deberá ser autorizada mediante el permiso de obra correspondiente.
+
+Los permisos de obra en la infraestructura vial primaria, se otorgarán por la autoridad estatal competente de conformidad con lo que establece el Libro Séptimo del Código y su reglamento.
+
+Los permisos de obra en la infraestructura vial local, se otorgarán por la autoridad municipal competente de acuerdo con lo establecido en el presente Libro, las Normas Técnicas y demás disposiciones jurídicas aplicables.
+
+> <small>(ADICIONADO, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
+
+###### Artículo 18.
+
+30.- Los permisos de obra de la autoridad municipal tendrán por objeto autorizar:
+
+I. Obras o instalaciones de redes subterráneas o aéreas en la vía pública;
+
+II. La ruptura del pavimento en su caso, así como la realización de cortes en las banquetas y guarniciones de la vía pública para la ejecución de las obras o instalaciones autorizadas; y
+
+III. El uso y aprovechamiento del derecho de vía, en el caso de los anuncios publicitarios.
+
+El que sin el permiso de la autoridad competente ocupe la vía pública con obras o instalaciones superficiales, aéreas o subterráneas, quedará obligado a retirarlas o demolerlas inmediatamente, en caso contrario, lo ejecutará la autoridad competente por cuenta y cargo del infractor y su monto constituirá un crédito fiscal.
+
+> <small>(ADICIONADO, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
+
+###### Artículo 18.
+
+31.- La solicitud de permiso de obra se acompañará de:
+
+I. Proyecto ejecutivo de la obra aprobado por la instancia competente en la materia de que se trate, en el cual se defina el procedimiento constructivo y, en su caso, los lugares en que por razones técnicas tengan que realizarse con sistemas especiales; y
+
+II. Las autorizaciones federales, estatales o municipales que procedan.
+
+> <small>(ADICIONADO, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
+
+###### Artículo 18.
+
+32.- Las instalaciones, estructuras, postes y demás elementos de la infraestructura urbana localizados sobre la vía pública, no deberán obstruir las circulaciones peatonales y vehiculares, y en caso de ubicarse en banquetas, tampoco se permitirá su colocación, cuando con ellos se impida la entrada a un inmueble o se obstruya el servicio de una rampa para personas con discapacidad, así como el libre desplazamiento de éstas en las banquetas.
+
+Las características físicas y de colocación de elementos tales como tapas de registros, cajas de válvulas, brocales o medidores serán determinadas por las instancias gubernamentales competentes y las normas oficiales mexicanas, en su caso.
+
+Las instalaciones aéreas en la vía pública que estén sostenidas por estructuras o postes colocados para ese efecto, deben observar lo siguiente:
+
+I. Los cables deberán colocarse a no menos de cinco metros de altura sobre el nivel de la banqueta; y
+
+II. Las estructuras, postes e instalaciones deben ser identificadas por sus propietarios, quienes están obligados a conservarlos en buenas condiciones de servicio y a retirarlos cuando dejen de cumplir su función.
+
+Los Municipios podrán ordenar el retiro o cambio de lugar de estructuras, postes o instalaciones por cuenta de sus propietarios, por razones de seguridad o porque se modifique el ancho de las banquetas o se ejecute cualquier obra en la vía pública que lo requiera y establecerá el plazo para tal efecto.
+
+Si no lo hicieren dentro del plazo que se les haya fijado, el propio municipio lo ejecutará a cargo y costa de los mismos propietarios y su monto constituirá un crédito fiscal.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
+
+###### Artículo 18.
+
+33.- El titular de la licencia o permiso de construcción o el perito responsable de la obra, deberá dar aviso por escrito a la autoridad municipal, de la terminación de las obras autorizadas, dentro de los treinta días hábiles posteriores a su conclusión, a efecto de que le expida la constancia de terminación de obra.
+
+La autoridad municipal extenderá la constancia solicitada, previa inspección que realice para comprobar que la obra, edificación o instalación se ejecutó de acuerdo al proyecto autorizado y que por lo tanto, es apta para su ocupación o para el fin señalado en la licencia o permiso de construcción.
+
+La autoridad municipal competente autorizará diferencias de obra ejecutada con respecto al proyecto autorizado, siempre que no se afecten las condiciones de seguridad, estabilidad, destino, uso, habitabilidad e higiene, se respeten las restricciones indicadas y las tolerancias que fijen las Normas Técnicas y demás disposiciones jurídicas aplicables.
+
+> <small>(ADICIONADO, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
+
+###### Artículo 18.
+
+34.- A solicitud expresa del titular y durante el periodo de vigencia de la licencia o permiso de construcción o su prórroga, los Municipios podrán otorgar la suspensión del plazo concedido, por una sola vez y por un tiempo máximo de un año. Al término del periodo de suspensión, continuará transcurriendo el plazo concedido para la ejecución de la obra sin necesidad de aviso alguno.
+
+Los Municipios expedirán la constancia de suspensión voluntaria de la obra, para lo cual bastará con que en la solicitud se indiquen los datos de la licencia de construcción o su prorroga otorgada y el plazo de suspensión requerido.
+
+> <small>(ADICIONADO, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
+
+###### Artículo 18.
+
+35.- La constancia de alineamiento y número oficial es el documento expedido por los municipios, que tiene por objeto delimitar la colindancia de un inmueble determinado con respecto a la vía pública adyacente, así como precisar sus restricciones de construcción y el número oficial que le corresponde.
+
+La constancia se podrá otorgar para ambos o para uno u otro servicio, de acuerdo a la solicitud del interesado, la cual se acompañará del croquis de localización y del documento que acredite la propiedad o posesión del inmueble respectivo.
+
+> <small>(ADICIONADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
+
+###### Artículo 18.
+
+36.- Para garantizar las condiciones de habitabilidad, accesibilidad, funcionamiento, higiene, sustentabilidad, comunicación, seguridad en emergencias, seguridad estructural, integración al contexto e imagen urbana de las edificaciones en el Estado de México, los proyectos arquitectónicos deberán cumplir con los lineamientos establecidos en este Libro, las Normas Técnicas y demás disposiciones jurídicas aplicables.
+
+> <small>(ADICIONADO, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
+
+###### Artículo 18.
+
+37.- Las edificaciones e instalaciones deberán respetar el alineamiento que les señalen los Municipios, así como integrarse al contexto arquitectónico en que se ubiquen. Las que se proyecten en áreas sujetas a reglamentos de imagen urbana deberán ajustarse a sus lineamientos y las que se proyecten en zonas del patrimonio histórico, artístico y arqueológico y sus áreas de influencia, deben sujetarse a las restricciones que señalen el Instituto Nacional de Antropología e Historia o el Instituto Nacional de Bellas Artes y Literatura, según sea el caso.
+
+> <small>(ADICIONADO, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
+
+###### Artículo 18.
+
+38.- Las edificaciones deberán cumplir con características que garanticen su asoleamiento, iluminación y ventilación natural y artificial, con las dimensiones de vanos, orientaciones y especificaciones de acuerdo a su uso y en función de las condiciones climatológicas de la región donde se ubiquen. Al efecto, se separarán los edificios entre ellos de acuerdo a su altura y ésta se establecerá en función de la anchura de la o las calles con que colinden.
+
+Las dimensiones mínimas y la normatividad específica para garantizar el asoleamiento, iluminación y ventilación se establecerán en las Normas Técnicas, los Planes de Desarrollo Urbano y demás normatividad aplicable.
+
+> <small>(ADICIONADO, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
+
+###### Artículo 18.
+
+39.- En relación a las instalaciones, las edificaciones deberán observar lo siguiente:
+
+I. Instalaciones hidráulicas y sanitarias; toda edificación deberá contar con suministro de agua proveniente de la red general de agua potable de acuerdo al volumen que requiera y en caso de no existir ésta, contar con almacenamiento que garantice el suministro. Asimismo, deberá tener drenaje sanitario con descarga al colector público y en caso de no existir éste, proveerse de fosa séptica.
+
+Se requerirá la realización de estudios de factibilidad para el tratamiento y reutilización de aguas residuales tratadas para las edificaciones que se destinen a industrias, establecimientos mercantiles, de servicios, de recreación, centros comerciales, obras en proceso mayores a dos mil quinientos metros cuadrados de construcción y establecimientos dedicados al lavado de autos;
+
+II. Las edificaciones estarán provistas, con el número de servicios sanitarios, tipo de mueble y características de acuerdo al uso y capacidad de las mismas;
+
+III. Aguas pluviales; se deberá especificar la conducción de aguas pluviales en edificaciones cuya ubicación así lo permita, dependiendo de los servicios de alcantarillado pluvial de la localidad;
+
+IV. De combustibles; cuando la edificación así lo requiera, deberán regularse las conexiones a la red de gas entubado, la instalación de recipientes y equipos de combustión, redes de conducción y recipientes de alta o baja presión, entre otros;
+
+V. Energía eléctrica; todo tipo de locales, deberán contar, por lo menos, con un contacto y salida para iluminación. Las edificaciones de salud, hospedaje, recreación, oficinas públicas y privadas, centros comerciales, comunicaciones y transportes y todas aquellas de concentración masiva de personas, deben tener además sistemas de iluminación de emergencia con encendido automático; y
+
+VI. Ahorro de agua y energía; toda edificación deberá contar con mecanismos ahorradores de agua y energía, así como, preferentemente, sistemas que utilicen fuentes alternativas de energía, a efecto de lograr un aprovechamiento sustentable de los recursos naturales y el cuidado de la biosfera.
+
+Las características y especificaciones de estos tipos de instalaciones, así como las de instalaciones especiales, elevadores, albercas, acondicionamiento o expulsión de aire o de telecomunicaciones de las edificaciones, se determinarán con base en lo establecido en las Normas Técnicas y las normas oficiales mexicanas aplicables.
+
+> <small>(ADICIONADO, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
+
+###### Artículo 18.
+
+40.- Las edificaciones deberán garantizar que a su interior se observen las características específicas en materia de acústica y visibilidad que establezcan las Normas Técnicas, las normas oficiales mexicanas y demás disposiciones jurídicas aplicables.
+
+Los locales destinados a cines, auditorios, teatros, salas de concierto, reunión, entretenimiento, espectáculos deportivos u otros espacios para actos y espectáculos tanto al aire libre como en espacios cerrados, deberán garantizar condiciones de isóptica, acústica, visibilidad.
+
+> <small>(ADICIONADO, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
+
+## TITULO QUINTO. De la ejecución de las construcciones
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
+
+###### Artículo 18.
+
+41.- Toda edificación debe contar con el número de cajones de estacionamiento que prevea la normatividad aplicable de acuerdo a su tipo y uso. Los estacionamientos públicos o privados deberán contar con cajones de estacionamiento para personas con discapacidad, debidamente señalizados.
+
+El área destinada a estacionamiento, no podrá tener una superficie menor al mínimo requerido por su uso; asimismo, no se permitirá el establecimiento de usos distintos que disminuyan el área de estacionamiento o que afecten de alguna forma las normas mínimas de seguridad, accesos y circulación de vehículos o peatones.
+
+Los estacionamientos públicos deben contar con carriles separados para entrada y salida de los vehículos, área de espera techada para la entrega y recepción de vehículos, caseta o casetas de control y sanitarios suficientes para los usuarios y empleados; asimismo, los que estén a descubierto deben tener drenaje y estar bardeados en sus colindancias con los predios vecinos.
+
+> <small>(ADICIONADO, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
+
+###### Artículo 18.
+
+42.- Toda edificación o instalación, según su tipo y magnitud, deberán observarse las normas de ubicación y protección de los depósitos de basura y contar con espacios y facilidades para el almacenamiento, separación y recolección de residuos sólidos que establezcan las normas oficiales mexicanas, las normas técnicas y las demás disposiciones jurídicas aplicables.
+
+Las edificaciones para almacenar residuos sólidos peligrosos, químico-tóxicos o radioactivos se ajustarán a las leyes, reglamentos, normas oficiales mexicanas y normas técnicas y demás normatividad aplicable de la materia.
+
+Las edificaciones y obras que produzcan contaminación por humos, olores, gases, polvos y vapores, energía térmica o lumínica, ruidos y vibraciones, se sujetarán igualmente a la legislación y normatividad de la materia.
+
+> <small>(ADICIONADO, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
+
+###### Artículo 18.
+
+43.- Los proyectos de ampliación de edificaciones sólo podrán ser autorizados a través de la correspondiente licencia de construcción, siempre que los planes de desarrollo urbano permitan el uso y aprovechamiento del suelo pretendido y además cumplan con las disposiciones que establecen el presente Libro, las Normas Técnicas y demás disposiciones jurídicas aplicables.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
+
+###### Artículo 18.
+
+44.- En relación a los accesos, salidas y circulaciones de los edificios, con fines de prevención de emergencias, se deberán observar los siguientes lineamientos:
+
+I. Las salidas y circulaciones horizontales y verticales de los edificios garantizarán un rápido y seguro desalojo, sus dimensiones, así como las características de las áreas de dispersión, puertas y accesos, se establecerán de acuerdo al tipo, magnitud, capacidad del edificio;
+
+II. La ubicación, dimensiones y número de las salidas de emergencia se determinará según las características del proyecto de la edificación;
+
+III. Las edificaciones de tres o más niveles, así como las mayores de quinientos metros cuadrados de construcción, deberán contar con un sistema de circulaciones, rutas de evacuación y puertas, debidamente señalizadas, que permitan el desalojo total de sus ocupantes en un tiempo mínimo en caso de sismo, incendio u otras contingencias;
+
+IV. Las dimensiones mínimas para corredores, túneles y pasillos se establecerán de acuerdo al tipo de edificación y circulación;
+
+V. Los edificios tendrán siempre escaleras o rampas peatonales que comuniquen todos sus niveles, aún cuando existan elevadores, escaleras eléctricas o montacargas;
+
+VI. Los elevadores de pasajeros y de carga, escaleras eléctricas y bandas transportadoras de público, observarán las disposiciones establecidas en la materia; y
+
+VII. Las edificaciones de atención al público contarán con los elementos necesarios que permitan el acceso, salida y circulación de personas con discapacidad, tanto en sus espacios interiores como en los exteriores.
+
+> <small>(ADICIONADO, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
+
+###### Artículo 18.
+
+45.- En proyectos de edificaciones de alta concentración de personas, al sistema de circulaciones normal se le deberá adicionar un sistema complementario de circulaciones no mecanizadas con salidas de emergencia. Ambos sistemas de circulaciones, el normal y el de salidas de emergencia, contarán con las características de señalización y dispositivos requeridos.
+
+Asimismo, deberán contar con áreas de dispersión y espera dentro de los predios, donde desemboquen las puertas de salida antes de conducir a la vía pública.
+
+> <small>(ADICIONADO, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
+
+###### Artículo 18.
+
+46.- Toda edificación deberá contar con las instalaciones y los equipos necesarios para prevenir y combatir los incendios, los cuales deben mantenerse en condiciones adecuadas de funcionamiento, para lo cual serán revisados y probados periódicamente en términos de las disposiciones aplicables.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
+
+###### Artículo 18.
+
+47.- Las construcciones o modificaciones que se hagan en edificaciones destinadas para uso del público, deberán incluir elementos urbanísticos y arquitectónicos adecuados a las necesidades de las personas con discapacidad, que les faciliten su uso y desplazamiento, de conformidad con lo siguiente:
+
+I. Contar con rampas para la circulación de personas en silla de ruedas, con muletas y aparatos ortopédicos. De ninguna forma puede ser considerada como rampa la de servicio de carga y descarga de los diferentes edificios;
+
+II. Los servicios sanitarios deberán tener al menos, un cubículo destinado a este tipo de personas, debiendo preferentemente localizarse cerca del vestíbulo de entrada y nunca al final de una circulación y tener las características siguientes:
+
+A) Cuando menos de noventa centímetros de ancho por ciento sesenta y cinco centímetros de fondo;
+
+B) Las puertas deben abrir hacia fuera y tener un metro de ancho completamente libre; y
+
+C) El asiento de la taza debe encontrarse a cuarenta y siete centímetros de altura a nivel del piso terminado.
+
+III. Los lavamanos deben permitir el acceso fácil a una silla de ruedas y tener aislados los tubos inferiores de agua caliente;
+
+IV. Las bibliotecas, comedores de autoservicio, restaurantes, cafeterías y demás espacios que lo requieran, deberán contar cuando menos con una mesa rectangular que tenga un mínimo de setenta y cinco centímetros libres del piso hasta la parte inferior de la mesa;
+
+V. Cuando menos uno de cada cinco teléfonos de servicio público que se instalen, deberá colocarse a una altura no mayor de ciento veinte centímetros sobre el nivel del piso, para personas en silla de ruedas;
+
+VI. En salas de conferencias, auditorios, teatros, estadios, cines y demás lugares de concentración masiva de personas se deberán destinar espacios para personas con discapacidad, o en su caso, habilitarlos para tal efecto;
+
+VII. La señalización para la identificación de los espacios destinados a personas con discapacidad, deberá hacerse mediante el empleo de placas con números, leyendas o símbolos estampados o grabados con colores contrastantes que faciliten su identificación a débiles visuales; y
+
+VIII. Los diferentes tipos de señales deben ser fijados en muros o lugares no abatibles y a una altura no mayor de ciento ochenta centímetros.
+
+Las vías públicas contarán con rampas y guías en las banquetas para identificar el límite de la guarnición.
+
+> <small>(ADICIONADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
+
+###### Artículo 18.
+
+48.- En las construcciones deberá asegurarse un comportamiento estructural eficiente en condiciones normales de funcionamiento, así como proporcionar seguridad contra las acciones y situaciones accidentales que puedan afectar la estructura, con especial atención a los efectos sísmicos y ampliaciones.
+
+El proyecto considerará una estructura que cumpla con los requisitos que establezcan este Libro, las Normas Técnicas y demás disposiciones jurídicas aplicables, lo cual será documentado en una memoria de cálculo y planos estructurales, que deberán ser avalados por perito responsable de obra.
+
+> <small>(ADICIONADO, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
+
+###### Artículo 18.
+
+49.- La autorización de construcciones en zonas de fallas o donde se han manifestado problemas de fisuramiento o inestabilidad del suelo, así como aledañas a ríos, canales, barrancas, a lugares de confinamiento de residuos sólidos y cualquier otro de riesgo, deberá observar las disposiciones que determine la autoridad competente en materia de protección civil.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
+
+###### Artículo 18.
+
+50.- Para el diseño estructural de las construcciones deberán considerarse tres tipos de acciones, de acuerdo al periodo tiempo en que actúan sobre las estructuras con su intensidad máxima, las cuales son:
+
+I. Acciones permanentes.- Son aquellas que actúan en forma continua sobre la estructura y cuya intensidad puede considerarse no varía con el tiempo. Entran en esta categoría, las cargas muertas debidas al peso propio de la estructura y al de los elementos no estructurales de la construcción, como tinacos, depósitos, anuncios, peso de acabados y materiales constructivos que tengan un carácter permanente en la edificación;
+
+II. Acciones variables.- Son aquellas que actúan sobre la estructura con una intensidad variable con el tiempo pero que alcanzan valores significativos durante periodos grandes de tiempo. Se incluyen en esta categoría las cargas vivas, que son las que obedecen al funcionamiento propio de la construcción y que no tienen carácter de permanente; y
+
+III. Acciones accidentales.- Son aquellas que no se deben al funcionamiento normal de la construcción y que pueden tomar valores significativos sólo durante pequeñas fracciones de la vida útil de la estructura. Se incluyen en esta categoría acciones excepcionales, como sismos, viento, efecto del agua en movimiento, nieve, granizo, explosiones y otros fenómenos que pueden presentarse en casos extraordinarios.
+
+Las Normas Técnicas definirán los requisitos específicos de materiales y sistemas estructurales, así como procedimientos de diseño para los efectos de las distintas acciones y de sus combinaciones.
+
+> <small>(ADICIONADO, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
+
+###### Artículo 18.
+
+51.- La seguridad de una estructura debe proyectarse para el efecto combinado de todas las acciones que tengan probabilidad de ocurrir simultáneamente, considerándose dos categorías de combinaciones:
+
+I. Condiciones normales, son combinaciones que incluyen acciones permanentes y variables. Para este tipo de combinación deberán revisarse todos los posibles estados límite, tanto de falla como de servicio; y
+
+II. Condiciones de accidente, comprende la combinación de las acciones permanentes y las variables más los efectos de las acciones accidentales. Sólo es necesario considerar una de las acciones accidentales en cada combinación.
+
+> <small>(ADICIONADO, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
+
+###### Artículo 18.
+
+52.- Toda estructura y cada una de sus partes deberán diseñarse para tener la seguridad adecuada, atendiendo a:
+
+I. La seguridad contra la aparición de cualquier estado límite de falla posible ante la combinación de las acciones más desfavorables que puedan presentarse; y
+
+II. No rebasar ningún estado límite de servicio ante la combinación de acciones que correspondan a condiciones normales de operación de proyecto.
+
+Al efecto, se deberá establecer una lista de los estados límite que son importantes en una estructura dado su tipo, grupo al que pertenece, geometría y materiales de que está compuesto; esta lista deberá estar incluida en la memoria de cálculo.
+
+En el caso de la obra nueva destinada a casa habitación, el constructor anexará copia simple de la memoria de cálculo a los títulos de propiedad.
+
+> <small>(ADICIONADO, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
+
+###### Artículo 18.
+
+53.- Las construcciones deberán considerar los efectos de las principales acciones accidentales, cuyas especificaciones y procedimientos detallados de diseño se determinaran en las Normas Técnicas y demás disposiciones jurídicas aplicables:
+
+I. Sismo, cuyo propósito es obtener una seguridad adecuada tal que bajo el sismo máximo probable, no habrá fallas estructurales mayores, aunque puedan presentarse daños que lleguen a afectar al funcionamiento del edificio y requerir reparaciones importantes;
+
+II. Viento, cuyo objeto consiste en garantizar la seguridad de estructuras para resistir los efectos de viento proveniente de cualquier dirección horizontal. Deberá revisarse el efecto del viento sobre la estructura en su conjunto y sobre sus componentes directamente expuestos a dicha acción; y
+
+III. Nieve y granizo, con el propósito de prever la seguridad en el diseño de estructuras sometidas a la acción de nieve y granizo, cuyos efectos sean significativos.
+
+## TITULO SEXTO. De las visitas de verificación, medidas de seguridad y sanciones
+
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
+
+###### Artículo 18.
+
+54.- Toda construcción deberá contar con un sistema estructural que permita el flujo adecuado de las fuerzas que generan las distintas acciones de diseño, para que dichas fuerzas puedan ser transmitidas de manera continua y eficiente hacia la cimentación. Debe contar además con una cimentación que garantice la correcta transmisión de dichas fuerzas al subsuelo.
+
+Las construcciones no podrán, en ningún caso, desplantarse sobre suelo orgánico, suelo suelto, rellenos sueltos o desechos. Sólo será aceptable cimentar sobre terreno natural firme o sobre rellenos artificiales que hayan sido adecuadamente compactados.
+
+En la memoria de cálculo y los planos estructurales correspondientes, se deberá fijar el procedimiento constructivo y las medidas de seguridad de las cimentaciones, excavaciones y muros de contención, que aseguren el cumplimiento de las hipótesis de diseño y garanticen la seguridad durante y después de la construcción. Dicho procedimiento deberá ser tal que se eviten daños a las estructuras e instalaciones vecinas.
+
+Deben investigarse el tipo y las condiciones de cimentación de las edificaciones colindantes particulares o públicas en materia de estabilidad, hundimientos, emersiones, agrietamientos del suelo y desplomos, y tomarse en cuenta en el diseño y construcción de la cimentación en proyecto. Asimismo, se investigarán la localización y las características de las obras subterráneas cercanas, existentes o proyectadas, con objeto de verificar que la edificación no cause daños a tales instalaciones ni sea afectada por ellas.
+
+Para aquellos edificios que se proyecten en terrenos con problemas especiales, en particular los que se localicen en terrenos agrietados, sobre taludes o donde existan rellenos o antiguas minas subterráneas o zonas aledañas a sitios de disposición final de residuos, se agregará a la memoria de cálculo una descripción de dichas condiciones y cómo se tomaron en cuenta para diseñar la cimentación.
+
+Las características específicas para el diseño de cimentaciones y de muros de contención para estabilizar desniveles de terreno, así como para el análisis y diseño de excavaciones, considerando sus respectivos estados límites, se precisarán en las Normas Técnicas.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
+
+###### Artículo 18.
+
+55.- Será necesario comprobar la seguridad de una estructura por medio de pruebas de carga, a costa del titular de la licencia de construcción y avaladas por perito responsable de obra, en los siguientes casos:
+
+I. Obras provisionales o para edificaciones de deportes y recreación que puedan albergar a más de 100 personas;
+
+II. Cuando no exista suficiente evidencia teórica o experimental para juzgar en forma confiable la seguridad de la estructura en cuestión, sea por condiciones normales de operación o por haber resultado dañada por causas accidentales, como sismos o por la acción del tiempo; y
+
+III. Cuando los Municipios lo determinen conveniente, en razón de la duda que genere la falta de claridad de la normatividad establecida en el presente Libro, las Normas Técnicas o demás disposiciones jurídicas aplicables; en la calidad y resistencia de los materiales; o, en cuanto al proyecto estructural y a los procedimientos constructivos.
+
+En los supuestos anteriores, en caso de enajenación, el vendedor entregará copia simple de la prueba de carga realizada.
+
+> <small>(ADICIONADO, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
+
+###### Artículo 18.
+
+56.- Todo propietario de un inmueble que presente daños debidos a sismo, viento, nieve, granizo, explosión, incendios, hundimientos, peso propio de la construcción y de las cargas que obran sobre ella o por deterioro de sus materiales e instalaciones, tendrá la obligación de informarlo al Municipio para que se efectúe una visita de inspección.
+
+Al efecto, los propietarios de dichas edificaciones, recabarán un dictamen de estabilidad y seguridad de la estructura por parte de un perito responsable de obra, que será complementario a la inspección de la autoridad municipal, para valorar que los daños no afectan la estabilidad de la construcción en su conjunto o de una parte significativa de la misma, en cuyo caso, la construcción puede dejarse en su situación actual, o bien, sólo repararse o reforzarse localmente.
+
+De lo contrario, la construcción deberá ser objeto de un proyecto de refuerzo estructural, el cual deberá ser desarrollado por el propietario de manera inmediata para evitar daños mayores.
+
+> <small>(ADICIONADO, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
+
+###### Artículo 18.
+
+57.- El proyecto de refuerzo estructural y las renovaciones de las instalaciones de las construcciones a que se refiere el artículo anterior, deberá cumplir con lo siguiente:
+
+I. Diseñarse para que la edificación alcance cuando menos los niveles de seguridad establecidos para las construcciones nuevas en las Normas Técnicas y demás normatividad aplicable;
+
+II. Basarse en el diagnóstico del estado de la estructura y las instalaciones dañadas, así como en la eliminación de las causas de los daños que se hayan presentado;
+
+III. Incluir una inspección detallada de los elementos estructurales y de las instalaciones, en la que se retiren los acabados y recubrimientos que puedan ocultar daños estructurales;
+
+IV. Basarse en las pruebas del comportamiento de la cimentación y de las instalaciones ante las condiciones que resulten de las modificaciones a la estructura; y
+
+V. Contener las consideraciones hechas sobre la participación de la estructura existente y la de refuerzo en la seguridad del conjunto, así como detalles de liga entre ambas, y las modificaciones de las instalaciones.
+
+Antes de iniciar las obras de refuerzo y reparación, deberá demostrarse que la edificación dañada cuenta con la capacidad de soportar las cargas estimadas para la edificación y las cargas previstas durante la ejecución de las obras. En los casos que se requiera, se podrá recurrir al apuntalamiento o rigidización temporal de la estructura completa o alguna de sus partes.
+
+> <small>(ADICIONADO, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
+
+###### Artículo 18.
+
+58.- Los acabados y recubrimientos cuyo desprendimiento pudiera ocasionar daños a los ocupantes de una construcción o a quienes transiten en su exterior, deben fijarse mediante los procedimientos que establezcan las Normas Técnicas de la materia. Especial atención deberá darse a los recubrimientos pétreos en fachadas y escaleras, a las fachadas prefabricadas de concreto, así como a los plafones de elementos prefabricados de yeso y otros materiales pesados.
+
+Los elementos no estructurales que puedan dañar la estructura o que tengan un peso considerable, como muros divisorios, muros cortos, de colindancia y de fachada, pretiles y otros elementos rígidos en fachadas, escaleras y equipos pesados, tanques, tinacos y casetas, serán igualmente regulados en sus características y en su forma de sustentación por las Normas Técnicas y demás normatividad aplicable.
+
+El mobiliario, los equipos y otros elementos cuyo volteo o desprendimiento puedan ocasionar daños físicos o materiales ante movimientos sísmicos, como libreros altos, anaqueles, tableros eléctricos o telefónicos y aire acondicionado, entre otros, deben fijarse de tal manera que se eviten estos daños ante movimientos sísmicos.
+
+Los anuncios adosados, colgantes, en azotea, auto soportados y en marquesina, deben ser objeto de diseño estructural, con particular atención a los efectos del viento. Deberán diseñarse sus apoyos y fijaciones a la estructura principal y revisar su efecto en la estabilidad de dicha estructura.
+
+Cualquier perforación, modificación o alteración de un elemento estructural para alojar ductos o instalaciones deberá ser aprobada por los Municipios a través de la licencia de construcción respectiva.
+
+Las prevenciones establecidas en este artículo deberán especificarse en la memoria de cálculo respectiva y, en su caso, en los planos estructurales, debiendo ser ambos documentos avalados por perito responsable de obra.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
+
+###### Artículo 18.
+
+59.- Previo al inicio de la demolición y durante su ejecución, se deben proveer todas las medidas de seguridad que determine en cada caso la autoridad municipal en la licencia respectiva, de acuerdo a lo establecido en la normatividad aplicable.
+
+Cuando la demolición tenga que hacerse en forma parcial, ésta comprenderá también la parte que resulte afectada por la continuidad estructural.
+
+Los materiales, desechos y escombros provenientes de una demolición deben ser retirados en su totalidad en un plazo no mayor de 30 días hábiles contados a partir del término de la demolición y bajo las condiciones que establezcan las autoridades correspondientes en materia de vialidad, transporte y sitio de disposición final.
+
+> <small>(ADICIONADO, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
+
+###### Artículo 18.
+
+60.- En caso de prever el uso de explosivos, el programa de demolición señalará con toda precisión el o los días y la o las horas en que se realizarán las explosiones, debiendo la autoridad municipal avisar a los vecinos la fecha y hora exacta de las explosiones, cuando menos con veinticuatro horas de anticipación.
+
+El uso de explosivos para demoliciones quedará condicionado a que la Secretaría de la Defensa Nacional otorgue el permiso correspondiente.
+
+> <small>(ADICIONADO, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
+
+###### Artículo 18.
+
+61.- Se tomarán las precauciones necesarias para impedir el acceso al sitio de una excavación mediante señalamiento adecuado y barreras para evitar accidentes.
+
+Si durante el proceso de una excavación se encuentran restos fósiles o arqueológicos, se debe suspender de inmediato la excavación en ese lugar e informar a la autoridad municipal para que lo hagan del conocimiento del Instituto Nacional de Antropología e Historia o a las autoridades competentes estatales, según sea el caso.
+
+Cuando se interrumpa una excavación, se ejecutarán las obras necesarias para evitar que se presenten movimientos que puedan dañar a las construcciones y predios colindantes o a las instalaciones de la vía pública y que ocurran fallas en los taludes o fondo de la excavación por intemperismo prolongado, descompensación del terreno o por cualquier otra causa.
+
+El uso de explosivos en excavaciones quedará condicionado a la autorización y cumplimiento de los ordenamientos que señale la Secretaría de la Defensa Nacional y a las restricciones y elementos de protección que ordenen los Municipios.
+
+> <small>(ADICIONADO CON EL CAPITULO Y ARTICULOS QUE LO INTEGRAN, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
+
+###### Artículo 18.
+
+62.- Las construcciones se deberán realizar mediante procedimientos constructivos que garanticen su calidad.
+
+Podrán utilizarse nuevos procedimientos de construcción acordes al desarrollo de la tecnología, siempre que éstos se encuentren certificados por un organismo certificador en materia de construcción.
+
+> <small>(ADICIONADO, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
+
+###### Artículo 18.
+
+63.- Al iniciarse una construcción deberá verificarse el trazo del alineamiento del predio con base en la constancia de alineamiento y número oficial, las medidas de la poligonal del terreno, así como la situación del predio en relación con los colindantes.
+
+Si los datos que arroje el levantamiento del predio exigen un ajuste de las distancias entre los ejes consignados en los planos arquitectónicos, deberá dejarse constancia de las diferencias mediante anotaciones en bitácora o elaborando planos del proyecto ajustado.
+
+El perito responsable de obra deberá hacer constar que las diferencias no afectan la seguridad estructural ni el funcionamiento de la construcción. En caso necesario deberán hacerse las modificaciones pertinentes a los proyectos arquitectónico y estructural.
+
+> <small>(ADICIONADO, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
+
+###### Artículo 18.
+
+64.- Los materiales que se empleen en la construcción deberán ajustarse a las disposiciones siguientes:
+
+I. Cumplir con las normas oficiales mexicanas en los casos que procedan;
+
+II. La resistencia, calidad y características de los materiales empleados en la construcción, serán las que se señalen en las especificaciones de diseño y los planos constructivos autorizados;
+
+III. Que contribuyan a evitar efluentes y emisiones que deterioren el medio ambiente, y así mismo, propicien ahorro de energía, uso eficiente de agua y un ambiente más confortable y saludable; y
+
+IV. Cuando se proyecte utilizar algún material desarrollado con nuevas tecnologías, deberá garantizarse la calidad del mismo, mediante las respectivas pruebas de verificación, avaladas por un laboratorio de pruebas certificado.
+
+Los materiales de construcción deben ser almacenados en el predio donde se realicen las obras, de tal manera que se evite su deterioro y la intrusión de sustancias o elementos químicos que afecten las propiedades y características del material.
+
+> <small>(ADICIONADO, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
+
+###### Artículo 18.
+
+65.- Durante la ejecución de las construcciones el titular de la licencia de construcción o el perito responsable de obra, deberá tomar las precauciones y medidas técnicas necesarias para proteger la integridad física de los trabajadores y la de terceros, de conformidad con lo establecido en las disposiciones jurídicas aplicables.
+
+Durante las diferentes etapas de construcción deberán tomarse las precauciones necesarias para evitar incendios y para combatirlos mediante el equipo de extinción adecuado. Esta protección deberá proporcionarse tanto al área ocupada por la obra en sí, como a las colindancias, bodegas, almacenes y oficinas. El equipo de extinción de fuego debe ubicarse en lugares de fácil acceso en las zonas donde se ejecuten soldaduras u otras operaciones que puedan originar incendios y se identificará mediante señales, letreros o símbolos claramente visibles.
+
+Los aparatos y equipos que funcionen a base de combustión deberán ser colocados de manera que se evite el peligro de incendio o intoxicación.
+
+Los trabajadores deberán usar equipos de protección personal, así como utilizar cinturones de seguridad, arneses, líneas de amarre o andamios con barandales donde exista la posibilidad de caídas.
+
+En las obras deberán proporcionarse a los trabajadores servicios provisionales de agua potable y un sanitario portátil, excusado o letrina por cada veinticinco trabajadores, así como mantener permanentemente un botiquín con los medicamentos e instrumentales de curación necesarios para proporcionar primeros auxilios.
+
+> <small>(ADICIONADO, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
+
+###### Artículo 18.
+
+66.- Con el fin de garantizar la calidad de las construcciones, los titulares de las licencias de construcción estarán obligados a contratar los servicios de personas físicas o jurídico colectivas especializadas, que supervisen la ejecución de las mismas, en aquellos casos en que los inmuebles a construir, con motivo de los usos a que se destinen, vayan a ser utilizados por el público, o bien, se trate de construcciones que vayan a ser transmitidas en propiedad a terceras personas.
+
+> <small>(ADICIONADO, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
+
+###### Artículo 18.
+
+67.- Los propietarios de construcciones tienen obligación de conservarlas en buenas condiciones de estabilidad, servicio, aspecto e higiene; de evitar que se conviertan en molestia o peligro para las personas o los bienes; así como de reparar y corregir los desperfectos y fugas que presenten.
+
+> <small>(ADICIONADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
+
+###### Artículo 18.
+
+68.- Las visitas de verificación tendrán por objeto comprobar que en las construcciones terminadas o en proceso se observe el cumplimiento de las disposiciones jurídicas de este Libro, las Normas Técnicas, los proyectos autorizados a través de las licencias y permisos de construcción y demás normatividad aplicable.
+
+Las visitas de verificación se realizarán de conformidad con lo establecido en el Código de Procedimientos Administrativos del Estado de México.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
+
+###### Artículo 18.
+
+69.- Las medidas de seguridad son determinaciones de carácter preventivo que tienen por objeto evitar la consolidación o permanencia de construcciones que pongan en riesgo a las personas o los bienes, por deficiencias en su edificación, ser de mala calidad en los materiales empleados, encontrarse en estado ruinoso o presentar cualquier otra circunstancia análoga.
+
+Las medidas de seguridad serán de ejecución inmediata y durarán todo el tiempo en que persistan las causas que las motivaron.
+
+> <small>(ADICIONADO, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
+
+###### Artículo 18.
+
+70.- Las medidas de seguridad que podrán adoptar las autoridades municipales son:
+
+I. Suspensión provisional, parcial o total de las construcciones;
+
+II. Desocupación parcial o total de inmuebles;
+
+III. Demolición parcial o total;
+
+IV. Retiro de materiales, instalaciones y equipos;
+
+V. Evacuación o desalojo de personas y bienes; y
+
+VI. Cualquiera otra acción o medida que tienda a garantizar la seguridad de las personas y los bienes.
+
+La autoridad municipal para hacer cumplir las determinaciones señaladas, podrá dictar las medidas de apremio que prevé el Código de Procedimientos Administrativos del Estado de México, incluso requerir la intervención de la fuerza pública y la participación de las autoridades administrativas que sean necesarias.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
+
+###### Artículo 18.
+
+71.- El incumplimiento o infracción a las disposiciones del presente Libro, de las Normas Técnicas, de los planes de desarrollo urbano, de las licencias de construcción y de los alineamientos oficiales y demás normatividad aplicable, será sancionada por las autoridades municipales o estatales, según corresponda, conforme al procedimiento establecido en el Código de Procedimientos Administrativos del Estado de México.
+
+Las infracciones se sancionarán con:
+
+I. Clausura provisional o definitiva, parcial o total de funcionamiento;
+
+II. Demolición, parcial o total de construcciones;
+
+III. Retiro de materiales, instalaciones o equipos;
+
+IV. Revocación de la licencia otorgada;
+
+V. Multa, atendiendo a la gravedad de la infracción;
+
+VI. Amonestación por escrito al perito responsable de la obra;
+
+VII. Suspensión temporal por dos años de la autorización como perito responsable de obra;
+
+VIII. Cancelación de la autorización como perito responsable de obra; y
+
+IX. Impedimento para obtener licencias de construcción en el Estado de México.
+
+La imposición y cumplimiento de las sanciones no exime al infractor de la obligación de corregir las irregularidades que le hayan dado motivo y en caso de oposición reiterada, la autoridad competente podrá aplicar las medidas de apremio señaladas en el Código de Procedimientos Administrativos del Estado de México.
+
+> <small>(ADICIONADO, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
+
+###### Artículo 18.
+
+72.- Las autoridades municipales determinarán los montos de las multas que impongan al titular de la licencia de construcción o a los peritos responsables de obra por las infracciones cometidas, tomando en cuenta la gravedad de la infracción, las modalidades y demás circunstancias en que la misma se haya cometido y las condiciones económicas del infractor, de acuerdo a los siguientes parámetros:
+
+I. Multa de entre 10 a 250 días de salario mínimo general vigente en el municipio que corresponda, cuando:
+
+A) Se obstaculicen las funciones de los verificadores o no muestre a su solicitud la licencia otorgada, así como los planos y memoria (sic) calculo autorizados;
+
+B) Se ocupe la vía pública con materiales de cualquier naturaleza, sin contar con la licencia de construcción correspondiente;
+
+C) En la construcción no se respeten las previsiones contra incendio; y
+
+D) No se de el aviso de terminación de las obras autorizadas dentro del plazo fijado.
+
+II. Multa de entre 251 a 500 días de salario mínimo general vigente en el municipio que corresponda, cuando:
+
+A) Se hagan cortes en banquetas, arroyos, guarniciones y/o pavimentos, para conectarse a redes municipales o ejecución de instalaciones subterráneas o aéreas, sin contar con la licencia de construcción o permiso correspondiente;
+
+B) Se determine que por la realización de excavaciones u otras obras, se afectó la estabilidad del propio inmueble o de las edificaciones y predios vecinos;
+
+C) Con motivo de la ejecución de la construcción, demolición o excavación, se deposite material producto de estos trabajos en la vía pública; y
+
+D) Se trate de incumplimiento a este Libro, a las Normas Técnicas, a las licencias de construcción o de los permisos por parte de los peritos responsables de obra.
+
+III. Con multa equivalente del uno al diez por ciento del valor de las construcciones o instalaciones, de acuerdo al avalúo comercial que emita el Instituto de Investigación e Información Geográfica, Estadística y Catastral del Estado de México, cuando:
+
+A) Se realicen construcciones sin haber obtenido previamente la licencia de construcción correspondiente;
+
+B) Las construcciones no correspondan con el proyecto autorizado; y
+
+C) Se viole una medida de seguridad.
+
+Las multas se duplicarán en caso de reincidencia y se podrán aplicar conjuntamente con cualquiera de las otras sanciones contempladas en el artículo anterior.
+
+Para los efectos de este Libro se considera reincidente a aquella persona física o jurídico colectiva que incurra en otra infracción, diferente o igual a aquélla por la que haya sido sancionada con anterioridad, durante la vigencia de la licencia de construcción que se le haya otorgado.
+
+> <small>(ADICIONADO, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
+
+###### Artículo 18.
+
+73.- Procederá la revocación de la licencia de construcción cuando:
+
+I. Se haya expedido con base en documentos falsos o apócrifos;
+
+II. Se hubieren otorgado en contravención a lo dispuesto por este Libro, las Normas Técnicas o demás normatividad aplicable; y
+
+III. Cuando en el plazo señalado en una medida de seguridad no se haya dado cumplimiento a las causas que le dieron origen.
+
+> <small>(ADICIONADO, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
+
+###### Artículo 18.
+
+74.- La demolición parcial o total que ordene la autoridad competente, como medida de seguridad o sanción, será ejecutada por el infractor a su costa y dentro del plazo que fije la resolución respectiva. En caso contrario, la autoridad la mandará ejecutar por su cuenta y cargo del afectado o infractor y su monto constituirá un crédito fiscal.
+
+> <small>(ADICIONADO, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
+
+###### Artículo 18.
+
+75.- La Secretaría, a petición de las autoridades municipales competentes en materia de construcción, aplicará las sanciones previstas para los peritos responsables de obra, con independencia de las sanciones que sean aplicadas por las autoridades municipales, de conformidad con lo dispuesto en este capítulo, en los casos siguientes:
+
+I. Amonestación por escrito al perito responsable de obra, cuando infrinjan las disposiciones de este Libro, de las Normas Técnicas, licencias, permisos, autorizaciones o demás normatividad aplicable, sin causar situaciones de peligro para la vida de las personas y/o los bienes;
+
+II. Suspensión temporal por dos años de la autorización como perito responsable de obra cuando infrinjan las disposiciones jurídicas de este Libro, de las Normas Técnicas, licencias, permisos, autorizaciones o demás normatividad aplicable, sin causar situaciones que pongan en peligro la vida de las personas y/o los bienes, cuando:
+
+a) Sin conocimiento y aprobación de la autoridad municipal correspondiente, se modifique la construcción sin apegarse a las condiciones previstas en la licencia de construcción correspondiente, con excepción de las diferencias permitidas que se establecen en el presente Libro; y
+
+b) El infractor acumule dos amonestaciones por escrito en el periodo de un año, contado a partir de la fecha de la primera amonestación.
+
+III. Cancelación de la autorización como perito responsable de obra cuando:
+
+a) No cumplan con las disposiciones del presente Libro, de las Normas Técnicas o demás normatividad que resulte aplicable, causando situaciones que pongan en peligro la vida de las personas y/o los bienes; y
+
+b) Hayan obtenido con datos o documentos falsos la autorización como perito responsable de obra, o cuando presenten documentos apócrifos en los trámites que gestionen ante las autoridades estatales o municipales.
+
+IV. El impedimento para obtener licencias de construcción en el Estado de México, se aplicará cuando se incumpla lo dispuesto por este Libro, las normas técnicas o demás normatividad aplicable generando con ello afectaciones graves en las propiedades que se enajenen.
+
+a) De entre tres y cinco años a quienes incumplan en dos ocasiones; y
+
+b) De cinco a veinte años a quienes luego de ser inhabilitados vuelvan a incumplir estas disposiciones.
+
+> <small>(ADICIONADO, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
+
+###### Artículo 18.
+
+76.- Las autoridades municipales impondrán las medidas de seguridad y sanciones que resulten procedentes, en los términos de este Libro, de las disposiciones reglamentarias de este Libro, licencias, permisos, autorizaciones y demás normatividad aplicable, independientemente de la responsabilidad civil o penal que proceda.
+
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
+
+###### Artículo 18.
+
+77.- Los interesados afectados por los actos y resoluciones que emitan las autoridades administrativas, podrán interponer el recurso administrativo de inconformidad, en términos de lo previsto por el Código de Procedimientos Administrativos del Estado de México.
+
+T R A N S I T O R I O S
 
 ###### Artículo 19.
 
@@ -14260,3 +15448,29 @@ SEGUNDO.- El presente Decreto entrará en vigor el día siguiente de su publicac
 TERCERO.- Cuando en otros ordenamientos legales, se haga referencia al término personas con capacidades diferentes, se entenderá que corresponde al término personas con discapacidad.
 
 CUARTO.- El Ejecutivo del Estado hará las modificaciones a los reglamentos, decretos administrativos, acuerdos y demás disposiciones de su competencia, para incorporar a estos el término de discapacitados en sustitución de personas con capacidades diferentes, de acuerdo con el presente Decreto.
+
+G.G. 9 DE SEPTIEMBRE DE 2011.
+
+###### ARTÍCULO PRIMERO.
+
+Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+###### ARTÍCULO SEGUNDO.
+
+El presente ordenamiento entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+###### ARTÍCULO TERCERO.
+
+Se derogan las demás disposiciones legales de igual o menor jerarquía que se opongan a lo establecido en este Libro.
+
+###### ARTÍCULO CUARTO.
+
+Los Municipios adecuarán su reglamentación en materia de construcciones conforme a lo dispuesto por este ordenamiento, en un plazo no mayor de un año contado a partir de su entrada en vigor, dando aviso a la Secretaría de su publicación y contenido.
+
+###### ARTÍCULO QUINTO.
+
+En tanto se adecua la reglamentación a que se refiere el artículo anterior, se aplicarán las disposiciones reglamentarias en vigor que no sean contrarias a las previsiones de este Libro.
+
+###### ARTÍCULO SEXTO.
+
+Los procedimientos y recursos administrativos iniciados al amparo de las disposiciones que se derogan, que se encuentren en trámite al entrar en vigor el presente ordenamiento, se sustanciarán y resolverán conforme las disposiciones legales anteriores.
