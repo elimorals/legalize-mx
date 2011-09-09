@@ -4,7 +4,7 @@ identifier: "GRO-ley-numero-571-de-instituciones-y-procedimientos-58784"
 country: "mx"
 rank: "ley"
 publication_date: "2008-01-01"
-last_updated: "2010-02-12"
+last_updated: "2011-09-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=58784&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY NUMERO 571 DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DEL ESTADO DE GUERRERO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE FEBRERO DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE SEPTIEMBRE DE 2011.
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el martes 1 de enero de 2008.
 
@@ -1559,7 +1559,9 @@ VIII. Una vez elaborada la lista final de candidatos, la Comisión de Gobierno p
 
 Así mismo, se designarán siete consejeros suplentes, en orden de prelación, para cubrir las ausencias temporales o definitivas de los propietarios, tomando en cuenta los siguientes siete mejores promedios de las evaluaciones.
 
-Los consejeros electorales propietarios y suplentes durarán en su cargo cuatro años. Pudiendo ser ratificados en una sola ocasión por un periodo igual. Los consejeros electorales no podrán tener ningún otro empleo, cargo o comisión, con excepción de aquellos en que actúen en representación del Consejo General del Instituto.
+> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 2011)</small>
+
+Los consejeros electorales propietarios y suplentes durarán en su cargo cuatro años. Pudiendo ser ratificados en una sola ocasión por un periodo igual. Los Consejeros Electorales que se encuentren en funciones deberán concluir su encargo hasta en tanto sean designados los nuevos Consejeros del Instituto. Los consejeros electorales no podrán tener ningún otro empleo, cargo o comisión, con excepción de aquellos en que actúen en representación del Consejo General del Instituto.
 
 De producirse una ausencia definitiva o en su caso, de incurrir los consejeros electorales propietarios, en dos inasistencias consecutivas sin causa justificada a sesión, será llamado el suplente según el orden de prelación en que fueron designados por la Cámara de Diputados.
 
@@ -5241,7 +5243,13 @@ CUARTO.- El Consejero Presidente y el Secretario General del Consejo General del
 
 QUINTO.- El Consejo General del Instituto Electoral, dictará las bases para regular la incorporación del personal que haya sido transferido al Instituto incluidos los propios consejeros electorales estatales, así como contratar y reclutar provisionalmente al personal de nuevo ingreso que sea necesario. En todo caso se respetarán los derechos laborales del personal transferido, quienes gozarán de las mismas condiciones que tenían antes de su transferencia.
 
-En su caso, los consejeros electorales estatales que sean ratificados por un periodo más y los designados en el año 2008, durarán en su cargo del 29 de mayo de 2008 al 15 de noviembre de 2011.
+> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 2011)</small>
+
+En su caso, los consejeros electorales estatales ratificados por un periodo más y los designados en el año 2008 actualmente en funciones, durarán en su cargo del 29 de mayo de 2008 al 15 de noviembre de 2012, quedando los nombramientos y cargos conferidos en los términos que actualmente tienen.
+
+> <small>(ADICIONADO, P.O. 9 DE SEPTIEMBRE DE 2011)</small>
+
+Por única ocasión el Congreso del Estado emitirá convocatoria para evaluar y designar Consejeros Electorales, para integrar el Instituto Electoral del Estado a más tardar el 16 de julio de 2012, debiendo concluir dicho proceso antes del 12 de septiembre de 2012.
 
 El Secretario Técnico del Consejo Estatal Electoral designado el día 1º de enero de 2006, concluirá su cargo por el periodo que fue designado, salvo su separación anticipada por renuncia o responsabilidad administrativa.
 
@@ -5502,3 +5510,17 @@ El presente Decreto entrara en vigor al día siguiente de su publicación en el 
 ###### ARTÍCULO SEGUNDO.
 
 Remítase al Titular del Poder Ejecutivo del Estado, para los efectos legales procedentes.
+
+P.O. 9 DE SEPTIEMBRE DE 2011.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas aquellas disposiciones que se opongan a este Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Remítase al Titular del Poder Ejecutivo para su promulgación y Publicación en el Periódico Oficial del Gobierno del Estado.
