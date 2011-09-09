@@ -4,7 +4,7 @@ identifier: "GRO-ley-organica-del-tribunal-electoral-del-estado-de-guerrero-1240
 country: "mx"
 rank: "ley_organica"
 publication_date: "1998-02-13"
-last_updated: "2008-01-01"
+last_updated: "2011-09-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12408&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY ORGANICA DEL TRIBUNAL ELECTORAL DEL ESTADO DE GUERRERO NUMERO 145
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE ENERO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE SEPTIEMBRE DE 2011.
 
 Ley publicada en el Alcance al Periódico Oficial del Estado de Guerrero, el viernes 13 de febrero de 1998.
 
@@ -375,7 +375,9 @@ IX. Las demás que les confiera las leyes y el Reglamento Interior del Tribunal.
 
 Los Magistrados del Tribunal serán elegidos por los miembros presentes de la Cámara de Diputados conforme a las siguientes bases:
 
-I. Sesenta días antes de que concluya el periodo para el que fueron electos los Magistrados Electorales que integran el Tribunal Electoral, el Congreso del Estado emitirá convocatoria pública abierta, que será publicada en el Periódico Oficial del Gobierno del Estado y cuando menos en dos periódicos de mayor circulación en el Estado, dirigida a todos los Licenciados en Derecho residentes en el Estado de Guerrero, que tengan interés de participar como candidatos a ocupar el cargo de Magistrado Electoral; para que en el plazo de quince días naturales contados a partir de la publicación presenten su solicitud;
+> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 2011)</small>
+
+I. Noventa días antes de que concluya el periodo para el que fueron electos los Magistrados Electorales que integran el Tribunal Electoral, el Congreso del Estado emitirá convocatoria pública abierta, que será publicada en el Periódico Oficial del Gobierno del Estado y cuando menos en dos periódicos de mayor circulación en el Estado, dirigida a todos los Licenciados en Derecho residentes en el Estado de Guerrero, que tengan interés de participar como candidatos a ocupar el cargo de Magistrado Electoral; para que en el plazo de quince días naturales contados a partir de la publicación presenten su solicitud;
 
 II. En dicha convocatoria se establecerán los requisitos que deben cumplir los aspirantes y que nunca serán menores a los establecidos en el artículo 18 de esta Ley, el procedimiento que se seguirá para la selección de los Magistrados Electorales, debiendo acompañar a su solicitud los documentos que acrediten el cumplimiento de los requisitos respectivos;
 
@@ -393,7 +395,9 @@ VIII. Una vez elaborada la lista final de candidatos, la Comisión de Gobierno p
 
 Así mismo, se designarán dos magistrados supernumerarios, para cubrir las ausencias temporales o definitivas de los propietarios, tomando en cuenta los siguientes dos mejores promedios de la lista elaborada por la institución académica.
 
-Los magistrados electorales numerarios y supernumerarios durarán en su cargo cuatro años. Pudiendo ser ratificados en una sola ocasión por un periodo igual. Los magistrados electorales no podrán tener ningún otro empleo, cargo o comisión, con excepción de aquellos en que actúen en representación del Tribunal.
+> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 2011)</small>
+
+Los magistrados electorales numerarios y supernumerarios durarán en su cargo cuatro años. Pudiendo ser ratificados en una sola ocasión por un periodo igual. Los magistrados electorales que se encuentren en funciones deberán concluir su encargo hasta en tanto sean designados los nuevos magistrados del Tribunal Electoral del Estado. Los magistrados electorales no podrán tener ningún otro empleo, cargo o comisión, con excepción de aquellos en que actúen en representación del Tribunal.
 
 Los magistrados electorales podrán ser ratificados por una sola ocasión. Para determinar procedente la ratificación de los magistrados electorales, la Comisión de Gobierno deberá realizar una evaluación objetiva e imparcial sobre el trabajo desarrollado por cada uno de los magistrados electorales, al frente de las Salas del Tribunal, debiendo integrar un dictamen individual en el que se hará constar la justificación de la ratificación o no ratificación. Para la práctica de la evaluación que refiere el párrafo anterior, el Congreso del Estado emitirá el reglamento que establezca las bases y los parámetros respectivos.
 
@@ -1103,10 +1107,28 @@ P.O. 1 DE ENERO DE 2008.
 
 PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
 
-SEGUNDO.- En su caso, los Magistrados Electorales del Tribunal Electoral que sean ratificados o designados en el año 2008, durarán por esta única ocasión en el cargo del 29 de mayo de 2008 al 15 de noviembre de 2011.
+> <small>(REFORMADO POR ARTICULO UNICO DEL DECRETO NUMERO 813 DEL ESTADO DE GUERRERO, P.O. 9 DE SEPTIEMBRE DE 2011)</small>
+
+SEGUNDO. En su caso, los Magistrados Electorales del Tribunal Electoral ratificados o designados en el 2008 actualmente en funciones, durarán por esta única ocasión en el cargo del 29 de mayo de 2008 al 15 de noviembre de 2012, quedando los nombramientos y cargos conferidos en los términos que actualmente tienen.
+
+Por única ocasión el Congreso del Estado emitirá convocatoria para evaluar y designar Magistrados Electorales, para integrar el Tribunal Electoral del Estado a más tardar el 16 de julio de 2012, debiendo concluir dicho proceso antes del 12 de septiembre de 2012.
 
 TERCERO.- El Congreso del Estado dentro de los treinta días naturales a la entrada en vigor del presente Decreto, emitirá la normatividad que será la base para el procedimiento de evaluación para determinar la procedencia o la ratificación de los magistrados del Tribunal Electoral del Estado.
 
 CUARTO.- El Tribunal Electoral inmediatamente después de que entre en vigor el presente Decreto, actualizará la normatividad reglamentaria interna ajustándola a la presente Ley y a la Ley del Sistema de Medios de Impugnación en Materia Electoral y demás disposiciones aplicables.
 
 QUINTO.- Se abrogan todas las disposiciones jurídicas que se opongan al presente Decreto.
+
+P.O. 9 DE SEPTIEMBRE DE 2011.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas aquellas disposiciones que se opongan a este Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Remítase al Titular del Poder Ejecutivo para su promulgación y Publicación en el Periódico Oficial del Gobierno del Estado.
