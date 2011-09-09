@@ -4,7 +4,7 @@ identifier: "FED-reglamento-del-instituto-federal-electoral-en-materia-de-81841"
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-06-28"
-last_updated: "2011-06-28"
+last_updated: "2011-09-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81841&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2011-06-23"
 
 REGLAMENTO DEL INSTITUTO FEDERAL ELECTORAL EN MATERIA DE TRANSPARENCIA Y ACCESO A LA INFORMACION PUBLICA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 9 DE SEPTIEMBRE DE 2011.
 
 Reglamento publicado en la Segunda Sección del Diario Oficial de la Federación, el martes 28 de junio de 2011.
 
@@ -1329,9 +1329,13 @@ Del procedimiento
 
 1. La Secretaría Técnica, al recibir el Recurso de Revisión, deberá:
 
-I. Verificar que el escrito cumpla con los requisitos señalados en el artículo anterior; en caso contrario, deberá prevenir al recurrente para que en un plazo no mayor a cinco días hábiles los subsane, apercibido que en caso de no hacerlo, dará lugar al desechamiento del recurso;
+> <small>(REFORMADA, D.O.F. 9 DE SEPTIEMBRE DE 2011)</small>
 
-II. Verificar si se actualiza o no alguno de los supuestos previstos en el artículo 48de (sic) este Reglamento; en cuyo caso, procederá a proyectar el Acuerdo que deseche de plano el recurso de revisión correspondiente, debiéndolo someter en la siguiente sesión a la aprobación del Organo Garante;
+I. Verificar que el escrito cumpla con los requisitos señalados en el artículo anterior; en caso contrario, deberá prevenir al recurrente para que en un plazo no mayor a cinco días hábiles los subsane, apercibido que en caso de no hacerlo, según el caso, puede tener lugar al desechamiento del recurso.
+
+> <small>(REFORMADA, D.O.F. 9 DE SEPTIEMBRE DE 2011)</small>
+
+II. Verificar si se actualiza o no alguno de los supuestos previstos en el artículo 48 de este Reglamento; en cuyo caso, procederá a proyectar el Acuerdo que deseche de plano el recurso de revisión correspondiente, debiéndolo someter en la siguiente sesión a la aprobación del Organo Garante;
 
 III. Subsanar las deficiencias de los recursos interpuestos por los particulares, invocando hechos notorios y corrigiendo los errores que advierta en la cita de los preceptos que son considerados violados, pero sin cambiar los hechos expuestos en el recurso respectivo.
 
@@ -1485,7 +1489,9 @@ V. Se recurra acto, que no haya sido emitido por el partido político;
 
 VI. Se haya resuelto o se esté tramitando algún recurso o medio de defensa interpuesto por el recurrente ante el Poder Judicial Federal o ante autoridad estatal, o municipal, especializada en materia de transparencia, y la información solicitada sea sustancialmente la misma;
 
-VII. El recurrente no haya desahogado, en tiempo y forma, la prevención de la Secretaría Técnica del Organo Garante, prevista en el artículo 43 de este Reglamento, y
+> <small>(REFORMADA, D.O.F. 9 DE SEPTIEMBRE DE 2011)</small>
+
+VII. El recurrente que no haya desahogado en tiempo y forma, la prevención de la Secretaría Técnica del Organo Garante, prevista en el artículo 43 de este Reglamento, siempre y cuando el requisito faltante sea un presupuesto indispensable para constituir la relación procesal del recurso o para emitir una Resolución de fondo, de manera que la tramitación del recurso sea innecesaria, y
 
 VIII. El recurso se refiera a información sustancialmente idéntica solicitada anteriormente por el mismo ciudadano y que fue atendida conforme a derecho.
 
@@ -1982,3 +1988,9 @@ El presente Acuerdo fue aprobado en lo general en sesión extraordinaria del Con
 Se aprobaron en lo particular los artículos 5, 32 y 66 del Reglamento del Instituto Federal Electoral en Materia de Transparencia y Acceso a la Información Pública, por cuatro votos a favor de los Consejeros Electorales, Maestro Marco Antonio Baños Martínez, Doctor Francisco Javier Guerrero Aguirre, Doctor Benito Nacif Hernández y el Consejero Presidente, Doctor Leonardo Valdés Zurita; y dos votos en contra de los Consejeros Electorales, Doctora María Macarita Elizondo Gasperín y Maestro Alfredo Figueroa Fernández.
 
 El Consejero Presidente del Consejo General, Leonardo Valdés Zurita.- Rúbrica.- El Secretario del Consejo General, Edmundo Jacobo Molina.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 9 DE SEPTIEMBRE DE 2011.
+
+EL ACUERDO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL FEDERAL VIGENTE.
