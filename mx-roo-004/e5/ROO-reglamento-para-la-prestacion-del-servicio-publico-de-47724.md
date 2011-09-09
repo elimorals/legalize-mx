@@ -4,7 +4,7 @@ identifier: "ROO-reglamento-para-la-prestacion-del-servicio-publico-de-47724"
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-12-20"
-last_updated: "2005-12-20"
+last_updated: "2011-09-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=47724&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "ROO"
 ---
 # REGLAMENTO PARA LA PRESTACION DEL SERVICIO PUBLICO DE LIMPIA, RECOLECCION, TRANSPORTE, TRATAMIENTO Y DISPOSICION FINAL DE RESIDUOS SOLIDOS EN EL MUNICIPIO DE OTHON P. BLANCO
 
-REGLAMENTO PARA LA PRESTACION DEL SERVICIO PUBLICO DE LIMPIA, RECOLECCION, TRANSPORTE, TRATAMIENTO y DISPOSICION FINAL DE RESIDUOS SOLIDOS EN EL MUNICIPIO DE OTHON P. BLANCO
+REGLAMENTO PARA LA PRESTACIÓN DEL SERVICIO PÚBLICO DE LIMPIA, RECOLECCIÓN, TRANSPORTE, TRATAMIENTO Y DISPOSICIÓN FINAL DE RESIDUOS SÓLIDOS EN EL MUNICIPIO DE OTHÓN P. BLANCO, DEL ESTADO DE QUINTANA ROO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE SEPTIEMBRE DE 2011.
 
 Reglamento publicado en el Número Extraordinario del Periódico Oficial del Estado de Quintana Roo, el martes 20 de diciembre de 2005.
 
@@ -751,6 +751,8 @@ Es responsabilidad del usuario del servicio de recolección mantener resguardado
 
 ### CAPÍTULO I. DEL PROCEDIMIENTO DE INSPECCIÓN Y VIGILANCIA
 
+> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 2011)</small>
+
 ###### Artículo 62.
 
 Los usuarios que desechen cajas de cartón deberán desarmarlas con el objeto de que ocupen el menor espacio posible, tratándose de establecimientos comerciales o industriales que desechen cajas de cartón, deberán formar atados que no excedan de veinte kilogramos de peso y depositarlas a un costado de los contenedores que utilicen.
@@ -1049,67 +1051,91 @@ Los operadores y usuarios del relleno sanitario tienen la obligación de acatar 
 
 Son autoridades competentes para ordenar y ejecutar visitas de inspección, levantamiento y elaboración de actas administrativas por infracciones al presente reglamento, las siguientes:
 
-I. Con carácter de ordenadoras y sancionadoras:
+I. Con carácter de ordenadoras.
 
 a) El Ayuntamiento;
 
 b) El Presidente o Presidenta Municipal;
 
-c) El Director General de Servicios Públicos Municipales;
+c) El Director General de Servicios Públicos Municipales; y
 
-d) El Director General de Desarrollo Urbano, Medio Ambiente y Obras Públicas;
-
-e) El Director de Desarrollo Urbano; y
-
-f) El Director de Medio Ambiente.
+d) El Director General de Desarrollo Urbano y Medio Ambiente
 
 II. Con carácter de ejecutoras:
 
-a) Inspectores de la Dirección General de Servicios Públicos;
+a) Inspectores de la Dirección General de Servicios Públicos Municipales;
 
-b) Inspectores de la Dirección de Desarrollo Urbano; y
+b) Inspectores de la Dirección de Desarrollo Urbano;
 
 c) Inspectores de la Dirección de Medio Ambiente.
 
+III. Con carácter de sancionadora:
+
+a) El Ayuntamiento
+
+b) El Presidente o Presidenta Municipal
+
+c) Juez Calificador
+
+> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 2011)</small>
+
 ###### Artículo 120.
 
-A falta de disposición expresa relativa al procedimiento de inspección, vigilancia y aplicación de sanciones se tendrán como supletorias las disposiciones del Código Fiscal Municipal, en su caso el Código de Procedimientos Civiles del Estado, en lo que no se opongan al presente reglamento.
+A falta de disposición expresa relativa al procedimiento de inspección, vigilancia y aplicación de sanciones se tendrán como supletorias las disposiciones del Código Fiscal Municipal, en su caso el Código de Procedimientos Civiles del Estado y el Reglamento del Juzgado Municipal de Othón P. Blanco, en lo que no se opongan al presente reglamento.
+
+> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 2011)</small>
 
 ###### Artículo 121.
 
 El personal autorizado deberá contar con el documento oficial que los acredite o autorice a practicar la inspección o verificación, así como la orden escrita debidamente fundada y motivada, expedida por la autoridad ordenadora, en la que se precisará la fecha, el lugar o zona que habrá de inspeccionarse, el objeto de la diligencia y el alcance de ésta.
 
+De igual forma se dará inicio al procedimiento con la denuncia escrita o por comparecencia ante las autoridades que ostentan el carácter de ordenadoras en el presente reglamento, por el agraviado o cualquier persona que observe algún hecho probablemente constitutivo de una infracción.
+
+La autoridad ordenadora dará trámite al procedimiento en los términos previstos en el presente capítulo.
+
+> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 2011)</small>
+
 ###### Artículo 122.
 
-El personal autorizado, al iniciar la inspección se identificará debidamente con la persona con quien se entienda la diligencia, exhibirá la orden respectiva y le entregará copia de la misma con firma autógrafa, requiriéndola para que en el acto designe dos testigos.
+La autoridad ejecutora, al iniciar la inspección se identificará debidamente con la persona con quien se entienda la diligencia, exhibirá la orden respectiva y le entregará copia de la misma con firma autógrafa, requiriéndola para que en el acto designe dos testigos.
 
 En caso de negativa o de que los designados no acepten fungir como testigos, el personal autorizado podrá designarlos, haciendo constar esta situación en el acta administrativa que al efecto se levante, sin que esta circunstancia invalide los efectos de la inspección.
+
+> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 2011)</small>
 
 ###### Artículo 123.
 
 En toda visita de inspección se levantará acta, en la que se hará constar en forma circunstanciada los hechos u omisiones que se hubiesen presentado durante la diligencia.
 
-Concluida la inspección, se dará oportunidad a la persona con la que se entendió la diligencia para que en el mismo acto manifieste lo que a su derecho convenga con relación a los hechos u omisiones asentadas en el acta respectiva. A continuación se procederá a firmar el acta por la persona con quien se entendió la diligencia, por los testigos y por el personal autorizado, quien entregará copia del acta al interesado.
+Concluida la inspección, se dará oportunidad a la persona con la que se entendió la diligencia para que en el mismo acto manifieste lo que a su derecho convenga con relación a los hechos u omisiones asentadas en el acta respectiva. A continuación se procederá a firmar el acta por la persona con quien se entendió la diligencia, por los testigos y por la autoridad ejecutora, quien entregará copia del acta al interesado.
 
 Si la persona con quien se entendió la diligencia o los testigos, se niegan a firmar el acta, o el interesado se negare a aceptar copia de la misma, dichas circunstancias se asentarán en ella sin que esto afecte su validez y valor probatorio.
 
+> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 2011)</small>
+
 ###### Artículo 124.
 
-La persona con quien se entienda la diligencia estará obligada a permitir al personal autorizado al acceso al lugar o lugares sujetos a inspección en los términos previstos en la orden escrita a que se hace referencia en el Artículo 116 de este Reglamento.
+La persona con quien se entienda la diligencia estará obligada a permitir al personal autorizado al acceso al lugar o lugares sujetos a inspección en los términos previstos en la orden escrita a que se hace referencia en el Artículo 121 de este Reglamento.
+
+> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 2011)</small>
 
 ###### Artículo 125.
 
-La autoridad competente podrá solicitar el auxilio de la fuerza pública para efectuar la visita de inspección, cuando alguna o algunas personas obstaculicen o se opongan a la práctica de la diligencia, independientemente de las sanciones a que haya lugar.
+La autoridad competente podrá solicitar el auxilio de la fuerza pública para efectuar la visita de inspección en los términos establecidos en la Ley de los Municipios del Estado de Quintana Roo, cuando alguna o algunas personas obstaculicen o se opongan a la práctica de la diligencia, independientemente de las sanciones a que haya lugar.
+
+> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 2011)</small>
 
 ###### Artículo 126.
 
-Iniciado el procedimiento la autoridad ordenadora (sic) dentro de las setenta y dos horas siguientes, requerirá al interesado, mediante notificación personal o por correo certificado con acuse de recibo, para que adopte de inmediato las medidas correctivas o de urgente aplicación necesarias para cumplir con las disposiciones jurídicas aplicables, así como con los permisos, licencias, autorizaciones o concesiones respectivas, fundando y motivando el requerimiento y para que dentro del término de tres días exponga lo que a su derecho convenga y, en su caso, aporte las pruebas que considere procedentes, en relación con la actuación de la autoridad.
+Iniciado el procedimiento la autoridad ordenadora dentro de las setenta y dos horas siguientes, requerirá al interesado, mediante notificación personal o por correo certificado con acuse de recibo, para que adopte de inmediato las medidas correctivas o de urgente aplicación necesarias para cumplir con las disposiciones jurídicas aplicables, así como con los permisos, licencias, autorizaciones o concesiones respectivas, fundando y motivando el requerimiento y para que dentro del término de tres días exponga lo que a su derecho convenga y, en su caso, aporte las pruebas que considere procedentes, en relación con la actuación de la autoridad.
 
-Admitidas o desahogadas las pruebas ofrecidas por el interesado, o habiendo transcurrido el plazo a que se refiere el Artículo anterior, será optativo presentar alegatos dentro del término de dos días.
+Admitidas o desahogadas las pruebas ofrecidas por el interesado, o habiendo transcurrido el plazo a que se refiere el párrafo anterior, será optativo presentar alegatos dentro del término de dos días.
+
+> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 2011)</small>
 
 ###### Artículo 127.
 
-Una vez recibidos los alegatos o transcurrido el término para presentarlos, la autoridad procederá, dentro del plazo de diez días hábiles siguientes, a dictar por escrito la resolución respectiva, misma que se notificará al interesado, personalmente o por correo certificado con acuse de recibo.
+Una vez recibidos los alegatos o transcurrido el término para presentarlos, se turnará el expediente a la autoridad sancionadora quien procederá, dentro del plazo de diez días hábiles siguientes, a dictar por escrito la resolución respectiva, misma que se notificará al interesado, personalmente o por correo certificado con acuse de recibo.
 
 ###### Artículo 128.
 
@@ -1173,6 +1199,8 @@ En caso de reincidencia, se podrá proceder a la clausura en forma definitiva de
 
 Las sanciones que le sean impuestas no relevan a los infractores de la obligación de corregir las irregularidades en que hubieran incurrido. En los casos en los que el Ayuntamiento por seguridad o salud ambiental, tenga que asumir la corrección de las irregularidades, el costo correrá por cuenta del infractor.
 
+(REPUBLICADO [N. DE E. ESTE PÁRRAFO], P.O. 9 DE SEPTIEMBRE DE 2011)
+
 ###### Artículo 139.
 
 A los responsables de las infracciones señaladas en este Reglamento, se les aplicará las sanciones conforme lo siguiente:
@@ -1189,13 +1217,25 @@ V. Multa de 5 a 10 salarios mínimos por violaciones a los Artículos 12 cuando 
 
 VI. Multa de 5 a 30 salarios mínimos vigentes por violaciones a los Artículos 12 y 37 cuando el infractor sea el prestador del servicio 20, 47, 48, 50, 84, 85, 86, 87, 88, 89 y 118;
 
-VII. Suspensión temporal de 3 a 7 días por violación a los Artículos 69, 71 y 129 debiéndose tomar en cuenta lo señalado en el Artículo 131 Fracción I;
+> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 2011)</small>
 
-VIII. Cancelación o clausura por violación al Artículo 30;
+VII. Multa de 53 a 265 salarios mínimos vigentes, por violaciones a las fracciones I, III y VIII del artículo 26.
 
-IX. Arresto administrativo hasta por treinta y seis horas en caso de reincidencia; y
+> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 2011)</small>
 
-X. Revocación de la concesión en términos de lo dispuesto en el artículo 187 y 188 de la Ley de los Municipios del Estado de Quintana Roo, en caso de reincidencia.
+VIII. Suspensión temporal de 3 a 7 días por violación a los Artículos 69, 71 y 129 debiéndose tomar en cuenta lo señalado en el Artículo 131 Fracción I;
+
+> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 2011)</small>
+
+IX. Cancelación o clausura por violación al Artículo 30;
+
+> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 2011)</small>
+
+X. Arresto administrativo hasta por treinta y seis horas en caso de reincidencia; y
+
+> <small>(ADICIONADA, P.O. 9 DE SEPTIEMBRE DE 2011)</small>
+
+XI. Revocación de la concesión en términos de lo dispuesto en el artículo 187 y 188 de la Ley de los Municipios del Estado de Quintana Roo, en caso de reincidencia.
 
 ###### Artículo 140.
 
@@ -1240,3 +1280,11 @@ ATENTAMENTE
 LIC. ANGEL E. RIVERO PALOMO
 
 SECRETARIO GENERA (SIC) DEL HONORABLE AYUNTAMIENTO DE OTHON P. BLANCO
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 9 DE SEPTIEMBRE DE 2011.
+
+> <small>[N. DE E. DEBIDO A SU IMPORTANCIA SE TRANSCRIBE EL ARTÍCULO TERCERO DEL ACUERDO POR EL CUAL SE REFORMA EL REGLAMENTO PARA LA PRESTACIÓN DEL SERVICIO PUBLICO DE LIMPIA, RECOLECCIÓN, TRANSPORTE, TRATAMIENTO Y DISPOSICIÓN FINAL DE RESIDUOS SÓLIDOS EN EL MUNICIPIO DE OTHÓN P. BLANCO.]</small>
+
+TERCERO.- La reforma a este reglamento entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado.
