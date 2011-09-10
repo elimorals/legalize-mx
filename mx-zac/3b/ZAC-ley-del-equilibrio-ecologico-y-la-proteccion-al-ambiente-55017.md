@@ -4,7 +4,7 @@ identifier: "ZAC-ley-del-equilibrio-ecologico-y-la-proteccion-al-ambiente-55017"
 country: "mx"
 rank: "ley"
 publication_date: "2007-03-31"
-last_updated: "2009-09-26"
+last_updated: "2011-09-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55017&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "ZAC"
 ---
 # LEY DEL EQUILIBRIO ECOLOGICO Y LA PROTECCION AL AMBIENTE DEL ESTADO DE ZACATECAS
 
-LEY DEL EQUILIBRIO ECOLOGICO Y LA PROTECCION AL AMBIENTE DEL ESTADO DE ZACATECAS
+LEY DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE DEL ESTADO DE ZACATECAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE SEPTIEMBRE DE 2009.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE SEPTIEMBRE DE 2011.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Zacatecas, el sábado 31 de marzo de 2007.
 
@@ -111,107 +111,115 @@ VIII. Biotecnología: Toda aplicación tecnológica que utilice recursos biológ
 
 IX. Cambio climático: Afectaciones que se presentan de manera global en la temperatura de la Tierra, atribuibles a la presencia de dióxido de carbono, metano, óxidos nitrosos y clorofluorocarbonos, que son producidos directa o indirectamente por la actividad humana y producen alteraciones espontáneas en las condiciones climáticas del planeta, en los patrones de precipitación global y en los ecosistemas;
 
-X. Conservación: Mantener los ecosistemas en forma tal que se mantenga su equilibrio ecológico, llevando a cabo facciones de preservación o bien de aprovechamiento sustentable;
+> <small>(REFORMADA [N DE E. ADICIONADA], P.O. 10 DE SEPTIEMBRE DE 2011)</small>
 
-XI. Contaminación: La presencia en el ambiente de uno o más contaminantes o de cualquier combinación de ellos en cantidades, concentraciones o niveles capaces de interferir en el bienestar y la salud de las personas, atentar contra la flora y la fauna o causar desequilibrio ecológico;
+X. Centro de Verificación: Establecimiento determinado por las autoridades competentes y autorizado por éstas, para llevar a cabo la medición de emisiones contaminantes, con equipo autorizado, provenientes de los vehículos automotores en circulación;
 
-XII. Contaminante: Toda materia o energía, en cualesquiera de sus estados químicos o físicos y formas, que al incorporarse o actuar en la atmósfera, el agua, el suelo, la flora, la fauna o cualquier elemento natural, altere o modifique su composición y condición original;
+XI. Conservación: Mantener los ecosistemas en forma tal que se mantenga su equilibrio ecológico, llevando a cabo facciones de preservación o bien de aprovechamiento sustentable;
 
-XIII. Contaminación visual: La alteración de las cualidades de la imagen de un paisaje natural o urbano causada por cualquier elemento funcional o simbólico que tenga carácter comercial, propagandístico o de servicio;
+XII. Contaminación: La presencia en el ambiente de uno o más contaminantes o de cualquier combinación de ellos en cantidades, concentraciones o niveles capaces de interferir en el bienestar y la salud de las personas, atentar contra la flora y la fauna o causar desequilibrio ecológico;
 
-XIV. Contingencia ambiental: La situación de riesgo derivada de actividades humanas o fenómenos naturales, que puede poner en peligro la integridad de uno o varios ecosistemas;
+XIII. Contaminante: Toda materia o energía, en cualesquiera de sus estados químicos o físicos y formas, que al incorporarse o actuar en la atmósfera, el agua, el suelo, la flora, la fauna o cualquier elemento natural, altere o modifique su composición y condición original;
 
-XV. Control: La inspección, vigilancia y aplicación de las medidas necesarias para el cumplimiento de las disposiciones establecidas en este ordenamiento;
+XIV. Contaminación visual: La alteración de las cualidades de la imagen de un paisaje natural o urbano causada por cualquier elemento funcional o simbólico que tenga carácter comercial, propagandístico o de servicio;
 
-XVI. Criterios ecológicos: Los lineamientos contenidos en la presente Ley, para orientar las acciones de preservación y restauración del equilibrio ecológico, el aprovechamiento sustentable de los recursos naturales y la protección al ambiente, que tendrán el carácter de instrumentos de la política ambiental;
+XV. Contingencia ambiental: La situación de riesgo derivada de actividades humanas o fenómenos naturales, que puede poner en peligro la integridad de uno o varios ecosistemas;
 
-XVII. Cultura Ambiental: El conjunto de conocimientos hábitos y actitudes que mueven a una sociedad a actuar en armonía con la naturaleza, transmitidos a través de generaciones o adquiridos por medio de la educación ambiental;
+XVI. Control: La inspección, vigilancia y aplicación de las medidas necesarias para el cumplimiento de las disposiciones establecidas en este ordenamiento;
 
-XVIII. Desarrollo sustentable: El proceso evaluable mediante criterios e indicadores de carácter ambiental, económico y social que tiende a mejorar la calidad de vida y busca la justicia social, que se funda en medidas apropiadas de preservación del equilibrio ecológico, protección del ambiente y aprovechamiento de recursos naturales, de manera que no se comprometa la satisfacción de las necesidades de las generaciones futuras;
+XVII. Criterios ecológicos: Los lineamientos contenidos en la presente Ley, para orientar las acciones de preservación y restauración del equilibrio ecológico, el aprovechamiento sustentable de los recursos naturales y la protección al ambiente, que tendrán el carácter de instrumentos de la política ambiental;
 
-XIX. Desequilibrio ecológico: La alteración de las relaciones de interdependencia entre los elementos naturales que conforman el ambiente, que afecta negativamente la existencia, transformación y desarrollo del hombre y demás seres vivos;
+XVIII. Cultura Ambiental: El conjunto de conocimientos hábitos y actitudes que mueven a una sociedad a actuar en armonía con la naturaleza, transmitidos a través de generaciones o adquiridos por medio de la educación ambiental;
 
-XX. Disposición final: La acción de depositar permanentemente los residuos sólidos no susceptibles a reciclarse, en sitios y condiciones adecuadas para evitar daños al ambiente;
+XIX. Desarrollo sustentable: El proceso evaluable mediante criterios e indicadores de carácter ambiental, económico y social que tiende a mejorar la calidad de vida y busca la justicia social, que se funda en medidas apropiadas de preservación del equilibrio ecológico, protección del ambiente y aprovechamiento de recursos naturales, de manera que no se comprometa la satisfacción de las necesidades de las generaciones futuras;
 
-XXI. Ecosistema: La unidad funcional básica de interacción de los organismos vivos entre sí y de estos con el medio físico en un espacio y tiempo determinado en función del equilibrio en el intercambio de materia y de energía;
+XX. Desequilibrio ecológico: La alteración de las relaciones de interdependencia entre los elementos naturales que conforman el ambiente, que afecta negativamente la existencia, transformación y desarrollo del hombre y demás seres vivos;
 
-XXII. Educación ambiental: El proceso sistematizado de aprendizaje mediante el cual cualquier individuo adquiere conciencia de ser parte integrante de la naturaleza para actuar positivamente hacia ella;
+XXI. Disposición final: La acción de depositar permanentemente los residuos sólidos no susceptibles a reciclarse, en sitios y condiciones adecuadas para evitar daños al ambiente;
 
-XXIII. Ejecutivo del Estado: Al Gobernador o Gobernadora del Estado;
+XXII. Ecosistema: La unidad funcional básica de interacción de los organismos vivos entre sí y de estos con el medio físico en un espacio y tiempo determinado en función del equilibrio en el intercambio de materia y de energía;
 
-XXIV. Equilibrio ecológico: La relación de interdependencia entre los elementos que conforman el ambiente a nivel de intercambio de energía y de materia que hace posible la existencia y desarrollo de los seres vivos;
+XXIII. Educación ambiental: El proceso sistematizado de aprendizaje mediante el cual cualquier individuo adquiere conciencia de ser parte integrante de la naturaleza para actuar positivamente hacia ella;
 
-XXV. Elemento natural: Los elementos físicos, químicos y biológicos que se presentan en un tiempo y espacio determinados, sin la inducción del hombre;
+XXIV. Ejecutivo del Estado: Al Gobernador o Gobernadora del Estado;
 
-XXVI. Emergencia ecológica: La situación derivada de actividades humanas o fenómenos naturales, que al afectar severamente los elementos naturales pone en peligro uno o varios ecosistemas;
+XXV. Equilibrio ecológico: La relación de interdependencia entre los elementos que conforman el ambiente a nivel de intercambio de energía y de materia que hace posible la existencia y desarrollo de los seres vivos;
 
-XXVII. Emisión: La descarga directa o indirecta a la atmósfera de toda sustancia, en cualquiera de sus estados físicos, o de energía;
+XXVI. Elemento natural: Los elementos físicos, químicos y biológicos que se presentan en un tiempo y espacio determinados, sin la inducción del hombre;
 
-XXVIII. Estudio de riesgo: El documento mediante el cual se da a conocer, a partir del análisis de las acciones proyectadas para el desarrollo de una obra o actividad, los riesgos que éstas representen para el equilibrio ecológico o el ambiente, así como las medidas técnicas de seguridad, preventiva y correctivas, tendientes a evitar, mitigar, minimizar o controlar los efectos adversos al equilibrio ecológico en caso de un posible accidente, durante la ejecución y operación normal de la obra o actividad de que se trate;
+XXVII. Emergencia ecológica: La situación derivada de actividades humanas o fenómenos naturales, que al afectar severamente los elementos naturales pone en peligro uno o varios ecosistemas;
 
-XXIX. Fauna silvestre: Las especies animales que subsisten sujetas a los procesos de selección natural y que se desarrollan libremente, incluyendo sus poblaciones que se encuentran bajo control del hombre, así como los animales domésticos que por abandono se tornen salvajes y que por ello sean susceptibles de captura y apropiación;
+XXVIII. Emisión: La descarga directa o indirecta a la atmósfera de toda sustancia, en cualquiera de sus estados físicos, o de energía;
 
-XXX. Flora silvestre: Las especies vegetales, así como los hongos, que subsisten sujetas a los procesos de selección natural y que se desarrollan libremente en el territorio estatal;
+XXIX. Estudio de riesgo: El documento mediante el cual se da a conocer, a partir del análisis de las acciones proyectadas para el desarrollo de una obra o actividad, los riesgos que éstas representen para el equilibrio ecológico o el ambiente, así como las medidas técnicas de seguridad, preventiva y correctivas, tendientes a evitar, mitigar, minimizar o controlar los efectos adversos al equilibrio ecológico en caso de un posible accidente, durante la ejecución y operación normal de la obra o actividad de que se trate;
 
-XXXI. Fuente Fija: Toda instalación establecida en un solo lugar, que tenga como finalidad desarrollar operaciones o procesos industriales, comerciales de servicios o actividades que generen o puedan generar emisiones contaminantes a la atmósfera;
+XXX. Fauna silvestre: Las especies animales que subsisten sujetas a los procesos de selección natural y que se desarrollan libremente, incluyendo sus poblaciones que se encuentran bajo control del hombre, así como los animales domésticos que por abandono se tornen salvajes y que por ello sean susceptibles de captura y apropiación;
 
-XXXII. Fuente Móvil: Todo vehículo ya sea tractocamiones, autobuses, camiones, microbuses, automóviles, motocicletas, equipos y maquinarias no fijos con motores de combustión y similares, que con motivo de su operación generen o puedan generar emisiones contaminantes a la atmósfera y que sea de competencia de esta Ley;
+XXXI. Flora silvestre: Las especies vegetales, así como los hongos, que subsisten sujetas a los procesos de selección natural y que se desarrollan libremente en el territorio estatal;
 
-XXXIII. Impacto ambiental: La modificación al ambiente ocasionada por la acción del hombre o de la naturaleza;
+XXXII. Fuente Fija: Toda instalación establecida en un solo lugar, que tenga como finalidad desarrollar operaciones o procesos industriales, comerciales de servicios o actividades que generen o puedan generar emisiones contaminantes a la atmósfera;
+
+XXXIII. Fuente Móvil: Todo vehículo ya sea tractocamiones, autobuses, camiones, microbuses, automóviles, motocicletas, equipos y maquinarias no fijos con motores de combustión y similares, que con motivo de su operación generen o puedan generar emisiones contaminantes a la atmósfera y que sea de competencia de esta Ley;
+
+XXXIV. Impacto ambiental: La modificación al ambiente ocasionada por la acción del hombre o de la naturaleza;
 
 > <small>(ADICIONADA, P.O. 26 DE SEPTIEMBRE DE 2009)</small>
 
-XXXIV. Incineración: Todo tratamiento térmico con o sin la recuperación de calor producido por la combustión, incluyendo pirolisis, gasificación, plasma y cualquier otro proceso que genere dioxinas y furanos como subproductos;
+XXXV. Incineración: Todo tratamiento térmico con o sin la recuperación de calor producido por la combustión, incluyendo pirolisis, gasificación, plasma y cualquier otro proceso que genere dioxinas y furanos como subproductos;
 
-XXXV. Instituto: El Instituto de Ecología y Medio Ambiente del Estado;
+XXXVI. Instituto: El Instituto de Ecología y Medio Ambiente del Estado;
 
-XXXVI. Ley: La Ley del Equilibrio Ecológico y la Protección al Ambiente del Estado de Zacatecas;
+XXXVII. Ley: La Ley del Equilibrio Ecológico y la Protección al Ambiente del Estado de Zacatecas;
 
-XXXVII. Ley General: La Ley General del Equilibrio Ecológico y la Protección al Ambiente;
+XXXVIII. Ley General: La Ley General del Equilibrio Ecológico y la Protección al Ambiente;
 
-XXXVIII. Manifestación de impacto ambiental: El documento mediante el cual se da a conocer, con base en estudios, el impacto ambiental significativo y potencial; especificaciones, condiciones, procedimientos, parámetros y límites permisibles, que deberán observarse en el desarrollo de actividades o uso y destino de bienes, que causen o puedan causar desequilibrio ecológico o daño al ambiente, así como la forma de evitarlo o atenuarlo en caso de impacto negativo;
+XXXIX. Manifestación de impacto ambiental: El documento mediante el cual se da a conocer, con base en estudios, el impacto ambiental significativo y potencial; especificaciones, condiciones, procedimientos, parámetros y límites permisibles, que deberán observarse en el desarrollo de actividades o uso y destino de bienes, que causen o puedan causar desequilibrio ecológico o daño al ambiente, así como la forma de evitarlo o atenuarlo en caso de impacto negativo;
 
-XXXIX. Material genético: Todo material de origen vegetal, animal, microbiano o de otro tipo, que contenga unidades funcionales de herencia;
+XL. Material genético: Todo material de origen vegetal, animal, microbiano o de otro tipo, que contenga unidades funcionales de herencia;
 
-XL. Material peligroso: Los elementos, substancias, compuestos, residuos o mezclas de ellos que, independientemente de su estado físico, represente un riesgo para el ambiente, la salud o los recursos naturales, por sus características corrosivas, reactivas, explosivas, tóxicas, inflamables o biológico-infecciosas;
+XLI. Material peligroso: Los elementos, substancias, compuestos, residuos o mezclas de ellos que, independientemente de su estado físico, represente un riesgo para el ambiente, la salud o los recursos naturales, por sus características corrosivas, reactivas, explosivas, tóxicas, inflamables o biológico-infecciosas;
 
-XLI. Medidas de prevención y mitigación: El conjunto de disposiciones y acciones anticipadas que tienen por objeto evitar o reducir los impactos ambientales que pudieran ocurrir en cualquier etapa de desarrollo de una obra o actividad;
+XLII. Medidas de prevención y mitigación: El conjunto de disposiciones y acciones anticipadas que tienen por objeto evitar o reducir los impactos ambientales que pudieran ocurrir en cualquier etapa de desarrollo de una obra o actividad;
 
-XLII. Normas estatales ambientales: El conjunto de reglas científicas o tecnológicas donde se establecen los requisitos, especificaciones, condiciones, procedimientos, parámetros y límites permisibles que deberán observarse en el desarrollo de actividades, uso, destino de bienes, causen o puedan causar desequilibrio ecológico o daño al ambiente y además uniforman principios, criterios, políticas y estrategias en la materia;
+XLIII. Normas estatales ambientales: El conjunto de reglas científicas o tecnológicas donde se establecen los requisitos, especificaciones, condiciones, procedimientos, parámetros y límites permisibles que deberán observarse en el desarrollo de actividades, uso, destino de bienes, causen o puedan causar desequilibrio ecológico o daño al ambiente y además uniforman principios, criterios, políticas y estrategias en la materia;
 
-XLIII. Normas oficiales mexicanas: El conjunto de reglas científicas o tecnológicas emitidas por el procedimiento señalado en el Diario Oficial de la Federación, que establecen los requisitos, especificaciones, condiciones, procedimientos, parámetros y límites permisibles, que deberán observarse en el desarrollo de actividades o uso y destino de bienes, que causen o puedan causar desequilibrio ecológico o daño al ambiente y demás que uniforman principios, criterios, políticas y estrategias en la materia;
+XLIV. Normas oficiales mexicanas: El conjunto de reglas científicas o tecnológicas emitidas por el procedimiento señalado en el Diario Oficial de la Federación, que establecen los requisitos, especificaciones, condiciones, procedimientos, parámetros y límites permisibles, que deberán observarse en el desarrollo de actividades o uso y destino de bienes, que causen o puedan causar desequilibrio ecológico o daño al ambiente y demás que uniforman principios, criterios, políticas y estrategias en la materia;
 
-XLIV. Preservación: El conjunto de políticas y medidas para mantener las condiciones que propicien la evolución y continuidad de los ecosistemas y hábitat naturales, así como para conservar a las poblaciones viables de especies en sus entornos naturales y los componentes de la biodiversidad fuera de su hábitat natural;
+XLV. Preservación: El conjunto de políticas y medidas para mantener las condiciones que propicien la evolución y continuidad de los ecosistemas y hábitat naturales, así como para conservar a las poblaciones viables de especies en sus entornos naturales y los componentes de la biodiversidad fuera de su hábitat natural;
 
-XLV. Prevención: El conjunto de disposiciones y medidas anticipadas para evitar el deterioro del ambiente;
+> <small>(REFORMADA [N DE E. ADICIONADA], P.O. 10 DE SEPTIEMBRE DE 2011)</small>
 
-XLVI. Protección: El conjunto de políticas y medidas para mejorar el ambiente y evitar su deterioro;
+XLVI. Programa de Verificación Vehicular: Procedimiento por el cual todo vehículo automotor en circulación matriculado en el Estado de Zacatecas, deberá someterse a la verificación de emisiones contaminantes;
 
-XLVII. Reciclaje: El proceso de utilización de los residuos que hayan sido tratados y que se aplicarán a un nuevo proceso de transformación;
+XLVII. Prevención: El conjunto de disposiciones y medidas anticipadas para evitar el deterioro del ambiente;
 
-XLVIII. Recolección: La acción de transferir los residuos al equipo destinado a conducirlos a las instalaciones de almacenamiento, tratamiento o reciclaje, o a los sitios para su disposición final;
+XLVIII. Protección: El conjunto de políticas y medidas para mejorar el ambiente y evitar su deterioro;
 
-XLIX. Recursos biológicos: Los organismos o partes de ellos, las poblaciones, o cualquier otro componente biótico de los ecosistemas con valor o utilidad real o potencial para el ser humano;
+XLIX. Reciclaje: El proceso de utilización de los residuos que hayan sido tratados y que se aplicarán a un nuevo proceso de transformación;
 
-L. Recursos genéticos: El material genético de valor real o potencial;
+L. Recolección: La acción de transferir los residuos al equipo destinado a conducirlos a las instalaciones de almacenamiento, tratamiento o reciclaje, o a los sitios para su disposición final;
 
-LI. Recurso natural: El elemento natural susceptible de ser aprovechado en beneficio del hombre;
+LI. Recursos biológicos: Los organismos o partes de ellos, las poblaciones, o cualquier otro componente biótico de los ecosistemas con valor o utilidad real o potencial para el ser humano;
 
-LII. Región ecológica: La unidad de territorio que comparte características ecológicas comunes;
+LII. Recursos genéticos: El material genético de valor real o potencial;
 
-LIII. Residuo: Cualquier material generado en los procesos de extracción, beneficio, transformación, producción, consumo, utilización, control o tratamiento cuya calidad no permita usarlo nuevamente en el proceso que lo generó;
+LIII. Recurso natural: El elemento natural susceptible de ser aprovechado en beneficio del hombre;
 
-LIV. Residuos peligrosos: Todos aquellos residuos, en cualquier estado físico, que por sus características corrosivas, reactivas, explosivas, tóxicas, inflamables o biológicoinfecciosas, representen un peligro para la salud humana, el equilibrio ecológico o el ambiente;
+LIV. Región ecológica: La unidad de territorio que comparte características ecológicas comunes;
 
-LV. Restauración: El conjunto de actividades tendientes a la recuperación y restablecimiento de las condiciones que propician la evolución y continuidad de los procesos naturales;
+LV. Residuo: Cualquier material generado en los procesos de extracción, beneficio, transformación, producción, consumo, utilización, control o tratamiento cuya calidad no permita usarlo nuevamente en el proceso que lo generó;
 
-LVI. Secretaría: La Secretaría de Medio Ambiente y Recursos Naturales;
+LVI. Residuos peligrosos: Todos aquellos residuos, en cualquier estado físico, que por sus características corrosivas, reactivas, explosivas, tóxicas, inflamables o biológicoinfecciosas, representen un peligro para la salud humana, el equilibrio ecológico o el ambiente;
 
-LVII. Tratamiento de Agua Residual: El proceso a que se someten las aguas residuales, con el objeto de disminuir o eliminar las características perjudiciales que se le hayan incorporado;
+LVII. Restauración: El conjunto de actividades tendientes a la recuperación y restablecimiento de las condiciones que propician la evolución y continuidad de los procesos naturales;
 
-LVIII. Verificación: La medición de las emisiones de gases o partículas sólidas o líquidas a la atmósfera, provenientes de vehículos automotores o de la industria, y
+LVIII. Secretaría: La Secretaría de Medio Ambiente y Recursos Naturales;
 
-LIX. Vocación Natural: Las características que presenta un ecosistema para sostener una o varias actividades sin que se produzcan desequilibrios ecológicos.
+LIX. Tratamiento de Agua Residual: El proceso a que se someten las aguas residuales, con el objeto de disminuir o eliminar las características perjudiciales que se le hayan incorporado;
+
+LX. Verificación: La medición de las emisiones de gases o partículas sólidas o líquidas a la atmósfera, provenientes de vehículos automotores o de la industria, y
+
+LXI. Vocación Natural: Las características que presenta un ecosistema para sostener una o varias actividades sin que se produzcan desequilibrios ecológicos.
 
 ## TÍTULO SEGUNDO. DE LA DISTRIBUCIÓN DE COMPETENCIAS Y SU COORDINACIÓN
 
@@ -311,7 +319,17 @@ XXX. Impulsar en el seno del Comité de Planeación para el Desarrollo del Estad
 
 XXXI. Expedir en los términos de esta Ley, las normas estatales ambientales, y
 
-XXXII. Las demás que le confiera la presente Ley, sus reglamentos y otras disposiciones legales.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE SEPTIEMBRE DE 2011)</small>
+
+XXXII. Elaborar y ejecutar el Programa de Verificación Vehicular para el Estado de Zacatecas;
+
+> <small>(ADICIONADA, P.O. 10 DE SEPTIEMBRE DE 2011)</small>
+
+XXXIII. Registrar los centros de verificación de automotores en circulación, así como los informes detallados que generen, y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 10 DE SEPTIEMBRE DE 2011)</small>
+
+XXXIV. Las demás que le confiera la presente Ley, sus reglamentos y otras disposiciones legales.
 
 ###### Artículo 7.
 
@@ -725,7 +743,7 @@ IV. Promover tecnologías orientadas al aprovechamiento racional de los recursos
 
 #### Sección primera. Disposiciones comunes
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE AGOSTO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE AGOSTO DE 2008)</small>
 
 ###### Artículo 43.
 
@@ -1587,7 +1605,7 @@ I. La calidad del aire debe ser satisfactoria en todos los asentamientos humanos
 
 II. Las emisiones de contaminantes de la atmósfera, sean de fuentes naturales o artificiales, fijas o móviles, deben ser reducidas y controladas, para asegurar una calidad del aire satisfactoria para el bienestar de la población y el equilibrio ecológico.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE AGOSTO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE AGOSTO DE 2008)</small>
 
 ###### Artículo 139.
 
@@ -1635,11 +1653,25 @@ XVIII. Emitir las disposiciones y establecer las medidas, consignadas en el regl
 
 XIX. Establecer las medidas necesarias para prohibir la incineración de residuos sólidos urbanos y de residuos de manejo especial en el Estado;
 
-XX. Ejercerán las demás facultades que les confieren las disposiciones legales y reglamentarias aplicables.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE SEPTIEMBRE DE 2011)</small>
+
+XX. Ejecutar el Programa de Verificación Vehicular que regula las emisiones de automotores en circulación, con base en las Normas Oficiales Mexicanas que establezcan, los límites máximos permisibles de emisiones de contaminantes a la atmósfera;
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 10 DE SEPTIEMBRE DE 2011)</small>
+
+XXI. Ejercerán las demás facultades que les confieren las disposiciones legales y reglamentarias aplicables.
 
 ###### Artículo 140.
 
 Para la operación y funcionamiento de las fuentes fijas de jurisdicción estatal que emitan o puedan emitir olores, gases o partículas sólidas o líquidas a la atmósfera, así como las de nueva creación, requerirán la autorización en materia de impacto ambiental. Será obligatoria la verificación, de acuerdo con los criterios que así se establezcan en el reglamento correspondiente, determinando el número de verificaciones anuales, en relación con el grado de riesgo de las actividades industriales o de servicios de que se trate, las cuales nunca podrán ser inferiores de una al año.
+
+> <small>(ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 2011)</small>
+
+Todo vehículo automotor en circulación matriculado en el Estado de Zacatecas, deberá someterse a la verificación de emisiones contaminantes, en los centros de verificación autorizados por el Instituto, en los términos del Programa de Verificación Vehicular que se expida.
+
+> <small>(ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 2011)</small>
+
+En los casos en que un vehículo rebase los límites máximos permisibles de emisiones contaminantes fijados por las normas correspondientes, podrá quedar fuera de circulación hasta que regularice su situación ambiental.
 
 ###### Artículo 141.
 
@@ -2373,7 +2405,7 @@ EL SECRETARIO GENERAL DE GOBIERNO
 
 LUIS GERARDO ROMO FONSECA.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 30 DE AGOSTO DE 2008.
 
@@ -2396,3 +2428,11 @@ El Ejecutivo del Estado deberá modificar la reglamentación de la Ley de Equili
 ###### ARTÍCULO TERCERO.
 
 Publíquese en el Periódico Oficial Órgano de Gobierno del Estado.
+
+P.O. 10 DE SEPTIEMBRE DE 2011.
+
+Artículo primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+Artículo segundo.- Se derogan las disposiciones que contravengan este Decreto.
+
+Artículo tercero.- Dentro de los noventa días siguientes a la entrada en vigor del presente Decreto, deberá expedirse el Programa de Verificación Vehicular.
