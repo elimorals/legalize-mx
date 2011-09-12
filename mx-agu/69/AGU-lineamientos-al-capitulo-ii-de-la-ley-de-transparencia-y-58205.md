@@ -4,7 +4,7 @@ identifier: "AGU-lineamientos-al-capitulo-ii-de-la-ley-de-transparencia-y-58205"
 country: "mx"
 rank: "lineamientos"
 publication_date: "2007-09-10"
-last_updated: "2008-06-23"
+last_updated: "2011-09-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=58205&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LINEAMIENTOS AL CAPITULO II DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACION PUBLICA DEL ESTADO DE AGUASCALIENTES, REFERENTE A "LA INFORMACION PUBLICA QUE DEBE SER DIFUNDIDA DE OFICIO"
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE JUNIO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE SEPTIEMBRE DE 2011.
 
 Lineamientos publicados en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 10 de septiembre de 2007.
 
@@ -45,9 +45,9 @@ LINEAMIENTOS AL CAPÍTULO II DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACI�
 
 PRIMERO. Los presentes Lineamientos establecen los criterios y procedimientos que los sujetos obligados deberán aplicar para proporcionar de manera clara, veraz, oportuna, regular, permanente y actualizada, la información considerada pública, sin que medie solicitud de información alguna, con el objeto de que esta información se encuentre disponible y al alcance de cualquier persona permitiendo y facilitando un acceso sencillo y expedito.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE JUNIO DE 2008)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE SEPTIEMBRE DE 2011)</small>
 
-SEGUNDO. Los titulares de los sujetos obligados establecerán y supervisarán a través de las Unidades de Enlace, criterios específicos para recabar, organizar y difundir la información a que se refiere el Capítulo II de la Ley de Transparencia y Acceso a la Información Pública del Estado de Aguascalientes, además de propiciar que las Unidades Administrativas responsables que generan u obtienen la información pública, en el ejercicio de sus funciones y que se encuentra en su posesión y bajo su resguardo, actualicen la información a más tardar a los treinta días naturales contados a partir del primer día del mes siguiente a aquel en que se generó la información, debiéndose incluir a su vez, la fecha de la última actualización de la información en la página donde se publica la información pública de oficio.
+SEGUNDO. Los titulares de los sujetos obligados establecerán y supervisarán a través de sus Unidades de Enlace, criterios específicos para recabar, organizar y difundir la información a que se refiere el Capítulo II de la Ley de Transparencia y Acceso a la Información Pública del Estado de Aguascalientes, además de propiciar que las Unidades Administrativas responsables que generan u obtienen la información pública, en el ejercicio de sus funciones y que se encuentra en su posesión y bajo su resguardo, actualicen la información a más tardar a los cuarenta y cinco días naturales contados a partir del primer día del mes siguiente a aquel en que se generó la información, debiéndose incluir a su vez, la fecha de la última actualización de la información en la página donde se publica la información pública de oficio.
 
 Se suspenderá el plazo del párrafo anterior en función de los calendarios laborales oficialmente publicados por cada sujeto obligado, sin que se exima de su cumplimiento.
 
@@ -268,3 +268,9 @@ Artículo Primero. Las presentes adiciones, reformas y derogación a los Lineami
 Artículo Segundo. Para efectos del Lineamiento Séptimo, por lo que resta del presente año, se realizará únicamente una evaluación en el mes de octubre.
 
 Las presentes adiciones, reformas y derogación a los Lineamientos al Capítulo II de la Ley de Transparencia y Acceso a la Información Pública del Estado de Aguascalientes, referente "De la Información Pública que debe ser difundida de Oficio" fueron aprobadas por Unanimidad de votos de los Comisionados Propietarios del Instituto de Transparencia del Estado de Aguascalientes, en Sesión Extraordinaria del día once de junio del 2008.
+
+P.O. 12 DE SEPTIEMBRE DE 2011.
+
+###### ARTÍCULO ÚNICO.
+
+La presente adecuación fue aprobada por UNANIMIDAD de votos de los Comisionados del Instituto de Transparencia del Estado de Aguascalientes, en sesión ordinaria de fecha treinta y uno de agosto del año dos mil once y entrarán en vigor al día hábil siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
