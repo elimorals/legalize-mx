@@ -4,7 +4,7 @@ identifier: "AGU-codigo-municipal-de-san-francisco-de-los-romo-aguascalientes-54
 country: "mx"
 rank: "codigo"
 publication_date: "2007-02-12"
-last_updated: "2010-08-30"
+last_updated: "2011-09-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=54096&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 CODIGO MUNICIPAL DE SAN FRANCISCO DE LOS ROMO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE AGOSTO DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE SEPTIEMBRE DE 2011.
 
 Código publicado en la Segunda Sección al Periódico Oficial del Estado de Aguascalientes, el lunes 12 de febrero de 2007.
 
@@ -1043,93 +1043,93 @@ En todo lo no previsto en el presente Código, se recurrirá a las disposiciones
 
 ### CAPITULO I. De las Dependencias y Entidades de la Administración Municipal
 
+> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 2011)</small>
+
 ###### ARTICULO 99.
 
-Para el despacho de los asuntos de la Administración Pública Municipal, el Presidente Municipal se auxiliará de las siguientes Dependencias y Unidades Administrativas:
-
-Presidencia Municipal
-
-Asesor;
-
-Secretaria Particular;
-
-Departamento de Difusión Institucional;
-
-Instancia Municipal de la Mujer;
-
-Comité Municipal para el Desarrollo Integral de la Familia;
-
-Contraloría Municipal;
-
-Dirección de Mejora Regulatoria, Simplificación, Transparencia e Innovación;
-
-Secretaría del H. Ayuntamiento y Dirección General de Gobierno;
-
-Dirección General de Finanzas y Administración;
-
-Dirección de Desarrollo Social, Económico y Agropecuario;
-
-Dirección General de Desarrollo Urbano, Ecología y Servicios Públicos.
+Para el despacho de los asuntos de la Administración Pública Municipal, el Presidente Municipal se auxiliara de las siguientes Dependencias y Unidades Administrativas:
 
 I.- PRESIDENCIA MUNICIPAL
 
-Presidente Municipal:
+Presidente Municipal;
 
-Asesor;
+Coordinación de Asesores;
 
-Secretaría Particular;
+Secretaria Particular;
 
-Departamento de Difusión Institucional;
+Coordinación de Comunicación Social e Imagen Institucional;
 
-COMITE MUNICIPAL PARA EL DESARROLLO INTEGRAL DE LA FAMILIA (DIF)
+Departamento de Comunicación e Información;
 
-Presidente del Comité Municipal para el D.I.F:
+Coordinación de Relaciones Públicas;
+
+Departamento de Gestión Social;
+
+Instancia Municipal de la Mujer; e
+
+Instancia Municipal de la juventud;
+
+COMITÉ MUNICIPAL PARA EL DESARROLLO INTEGRAL DE LA FAMILIA (DIF)
+
+Presidente del Comité Municipal para el D.I.F;
 
 Dirección del Comité Municipal para el DIF;
 
-Subdirección del Comité Municipal del DIF;
+Subdirección Administrativa;
+
+Coordinación Operativa;
 
 Departamento de Programas Alimenticios (PASAF);
 
-Departamento de Programas Especiales;
-
 Departamento de Rehabilitación Física;
 
-Coordinación de Artes y Oficios; y
+Departamento Jurídico de la Defensa del Menor y la Familia;
 
-Departamento Jurídico de la Defensa del Menor y la Familia.
+Departamento de INAPAM;
+
+Departamento de Habilidades, Capacitación y Desarrollo Integral; y
+
+Departamento de Psicología;
 
 DELEGACIONES
 
-Delegación Puertecito de la Virgen:
+Delegación Puertecito de la Virgen;
 
-Delegado:
+Delegado;
 
 Subdelegado.
 
-CONTRALORÍA MUNICIPAL
+Delegación La Escondida;
 
-Contralor Municipal:
+Delegado; y
 
-Subdirección de Auditoria Financiera, Administrativa y de Obra Pública.
+Subdelegado.
 
-DIRECCIÓN DE MEJORA REGULATORIA, SIMPLIFICACIÓN, TRANSPARENCIA E INNOVACIÓN
+CONTRALORIA Y DESARROLLO ADMINISTRATIVO MUNICIPAL
 
-Director:
+Contralor Municipal;
 
-Subdirección del Centro de Atención Integral;
+Departamento de Control Patrimonial y Auditoria;
 
-Departamento de Instrumentos de Mejora, Simplificación y Transparencia; y
+Departamento Jurídico y Auditoría; y
 
-Departamento de Informática e Innovación.
+Departamento de Mejora Regulatoria, Simplificación Administrativa e Innovación.
 
 II.- SECRETARIA DEL H. AYUNTAMIENTO Y DIRECCION GENERAL DE GOBIERNO
 
 Secretario del H. Ayuntamiento y Director General de Gobierno:
 
-Departamento de Reglamentos; y
+Departamento de Reglamentos;
 
-Proyectos Especiales.
+Coordinación de Fomento Deportivo;
+
+Departamento de Acción Cívica y Cultural;
+
+Departamento de Control Sanitario;
+
+Departamento de Protección Civil; y
+
+Paramédicos.
 
 DIRECCION DE SEGURIDAD PUBLICA Y TRANSITO MUNICIPAL
 
@@ -1139,97 +1139,81 @@ Subdirección de Seguridad Pública y Tránsito Municipal;
 
 Primer Comandante de Seguridad Pública y Tránsito Municipal;
 
-Comandantes de Grupo;
+Comandante de Grupo;
 
 Oficiales;
 
-Suboficiales; y
+Suboficiales;
 
-Departamento de Servicios Médicos.
+Agentes;
 
-Subdirector Municipal de la Unidad de Protección Civil;
+Departamento de Servicios Médicos; y
+
+Departamento de Asuntos Internos;
 
 DIRECCION DE ASUNTOS JURIDICOS
 
-Director:
-
-Subdirector;
+Director.
 
 Departamento de Gestión Jurídica; y
 
 Departamento de Jueces Calificadores.
 
-III.- DIRECCIÓN GENERAL DE FINANZAS Y ADMINISTRACIÓN
+III.- DIRECCION DE FINANZAS Y ADMINISTRACION
 
-Director General:
+Director de Finanzas y Administración;
 
-Departamento de Contabilidad, Ingresos y Egresos.
+Subdirector de Finanzas, Administración y Control Presupuestal;
 
-Subdirección de Catastro e Impuestos a la Propiedad Raíz y de Adquisición de Inmuebles: Departamento de Catastro; y
+Departamento de Ingresos y Egresos;
 
-Departamento de Impuestos a la Propiedad Raíz y de Adquisición de Inmuebles.
+Departamento de Compras y Suministros; y
 
-DIRECCION DE ADMINISTRACION:
-
-Subdirección de Recursos Humanos;
-
-Subdirector de Adquisiciones; y
-
-Subdirección de Servicios Generales.
+Departamento de Recursos Humanos.
 
 IV.- DIRECCION DE DESARROLLO SOCIAL, ECONOMICO Y AGROPECUARIO
 
-DIRECTOR:
+Director:
 
-Departamento de Gestión Social;
+Subdirector;
 
-Departamento Cívico - Cultural; y
+Departamento de Concertación Social;
 
-Departamento de Fomento Deportivo.
+Departamento de Desarrollo Económico;
 
-Subdirector de Desarrollo Social, Económico y Agropecuario:
+Departamento de Desarrollo Agropecuario; y
 
-Departamento de Concertación Social.
+Departamento de Desarrollo Turístico;
 
-V.- DIRECCION GENERAL DE DESARROLLO URBANO, ECOLOGIA y SERVICIOS PUBLICOS
+V.- DIRECCION DE DESARROLLO URBANO
 
-Director General:
+Director;
 
-DIRECCION DE PLANEACION URBANA, RURAL Y ECOLOGIA:
+Departamento de Planes y Programas; y
 
-Subdirección de Ecología;
+Departamento de Uso de Suelo.
 
-Subdirección de Licencias y Uso de Suelo:
+DIRECCION DE OBRAS PÚBLICAS:
 
-Departamento de Planes y Programas.
+Director;
 
-SUBDIRECCION DE OBRAS PUBLICAS:
+Departamento de Supervisión de Costos y Licitaciones;
 
-Departamento de Construcción y Mantenimiento; y
+Departamento de Proyectos; y
 
-Departamento de Proyectos y Contratos.
+Departamento de Topografía.
 
-DIRECCION DE SERVICIOS PÚBLICOS
+DIRECCION DE SERVICIOS PUBLICOS
 
 Director:
 
-Subdirección de Servicios Públicos; y
+Departamento de Limpia y Aseo Público;
 
-Departamento de Verificación
+Departamento de Alumbrado Público;
 
-Sanitaria y Panteones.
+Departamento de Parques, Jardines y Panteones; y
 
-Departamento de Proyectos y Contratos.
-
-DIRECCION DE SERVICIOS PUBLlCOS
-
-Director:
-
-Subdirección de Servicios Públicos; y
-
-Departamento de Verificación
-
-Sanitaria y Panteones.
+Departamento de Ecología.
 
 ###### ARTICULO 100.
 
@@ -1417,6 +1401,58 @@ XIX. Emitir los lineamientos normativos que orienten su quehacer; y
 
 XX. Las demás que le señale éste y otros ordenamientos legales.
 
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 12 DE SEPTIEMBRE DE 2011)</small>
+
+APARTADO QUINTO BIS
+
+De la Instancia Municipal de la Juventud
+
+> <small>(ADICIONADO, P.O. 12 DE SEPTIEMBRE DE 2011)</small>
+
+ARTICULO 106 A. El objeto de la Instancia Municipal de la Juventud es implementar y operar programas integrales para organizar y brindar atención a los jóvenes que habiten en el Municipio de San Francisco de los Romo de edades comprendidas entre los 13 y 35 años, procurando su integración y participación en las distintas áreas del desarrollo humano en materias laboral, política, de expresión cultural, deportivas, artísticas, educativas, científica, tecnológicas, recreativas, de integración social y en especial aquéllas encaminadas a fortalecer el núcleo familiar, proporcionando alternativas reales que contribuyan a su pleno desarrollo.
+
+De las Atribuciones de la Instancia Municipal de la Juventud
+
+> <small>(ADICIONADO, P.O. 12 DE SEPTIEMBRE DE 2011)</small>
+
+ARTICULO 106 B.- Para el cumplimiento de su objeto, la Instancia Municipal de la Juventud tendrá como atribuciones las siguientes:
+
+I.- Proponer e impulsar una política municipal de juventud que permita incorporar plenamente a los jóvenes al desarrollo del Municipio;
+
+II.- Asesorar al Presidente Municipal en la planeación y programación de las políticas y acciones relacionadas con el desarrollo de la juventud, de acuerdo con el Plan Municipal de Desarrollo;
+
+III.- Concertar acuerdos y convenios con las autoridades federales, estatales y municipales para promover, con la participación, en su caso, de los sectores social y privado, las políticas, acciones y programas tendientes al desarrollo integral de la juventud;
+
+IV.- Proporcionar información, y gestionar apoyos ante diversas instancias públicas y privadas a favor de la juventud;
+
+V.- Elaborar en coordinación con dependencias federales, estatales y municipales programas y cursos de capacitación y desarrollo destinados a la juventud;
+
+VI.- Realizar, promover y difundir estudios e investigaciones de la problemática y características juveniles;
+
+VII.- Auxiliar a las dependencias y entidades de la Administración Pública Estatal y Municipal, en la promoción y difusión de los beneficios que presten a la juventud que así lo requieran;
+
+VIII.- Promover y ejecutar acciones para el reconocimiento público y difusión de las actividades sobresalientes de los jóvenes que habitan en el Municipio de San Francisco de los Romo, en distintos ámbitos del acontecer municipal;
+
+IX.- Promover, coordinadamente con las dependencias y entidades de la Administración Pública Municipal, las acciones destinadas a mejorar el nivel de vida de la juventud del Municipio de San Francisco de los Romo, así como sus expectativas familiares, sociales, culturales y derechos;
+
+X.- Recibir y canalizar propuestas, sugerencias e inquietudes de la juventud, ante las autoridades competentes y organizaciones encargadas de estos asuntos;
+
+XI.- Fomentar actividades formativas y de capacitación para el empleo, dirigidas a la población juvenil, particularmente en la micro y pequeña empresa, así como ampliar la información sobre el mercado de trabajo disponible;
+
+XII.- Fomentar la cooperación de los sectores público, social y privado, en la realización de acciones de bienestar social en las que participen jóvenes;
+
+XIII.- Desarrollar actividades que estimulen el quehacer artístico, cultural y la expresión creativa de la juventud;
+
+XIV.- Operar e implementar programas integrales que vayan dirigidos a disminuir la drogadicción juvenil y la integración familiar;
+
+XV.- Analizar, y en su caso aprobar, los apoyos a jóvenes que demuestren tener facultades extraordinarias en la práctica de una disciplina artística, deportiva o científica;
+
+XVI.- Coadyuvar en la evaluación de las políticas públicas en relación con su efectiva incidencia en la vida y desarrollo de los jóvenes del Municipio de San Francisco de los Romo;
+
+XVII.- Apoyar los sistemas de información de la juventud y promover la evaluación de los servicios que inciden en la atención de la juventud; y
+
+XVIII.- Las demás que le señale el presente Código, y las que le encomiende el H. Ayuntamiento por conducto del Presidente Municipal.
+
 APARTADO SEXTO
 
 De la Delegación
@@ -1433,13 +1469,17 @@ III. Vigilar que se cumpla estrictamente con las disposiciones legales y adminis
 
 IV. Formular y proponer al Presidente Municipal los proyectos de planes y programas que le correspondan.
 
+> <small>(REFORMADA SU DENOMINACION, P.O. 12 DE SEPTIEMBRE DE 2011)</small>
+
 APARTADO SEPTIMO
 
-De la Contraloría Municipal
+Contraloría y Desarrollo Administrativo Municipal
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE SEPTIEMBRE DE 2011)</small>
 
 ###### ARTICULO 108.
 
-Corresponde a la Contraloría Municipal como órgano de control interno del Municipio de San Francisco de los Romo, el despacho de los siguientes asuntos:
+Corresponde a la Contraloría y Desarrollo Administrativo Municipal como órgano de control interno del Municipio de San Francisco de los Romo, el despacho de los siguientes asuntos:
 
 I. Evaluar el Sistema de Control Interno en la Administración Pública Municipal;
 
@@ -1475,99 +1515,167 @@ XVI. Ejecutar las funciones establecidas en este Código y en la Legislación Fe
 
 XVII. Designar a su personal que auditará a las Dependencias y Entidades Municipales, así como normar y controlar su desempeño;
 
-XVIII. Dictar las disposiciones que requiera la Contraloría Municipal para la adecuada aplicación y cumplimiento de la Entrega-Recepción de la Administración Pública Municipal, que previene el presente Código; y
+XVIII. Dictar las disposiciones que requiera la Contraloría Municipal para la adecuada aplicación y cumplimiento de la Entrega-Recepción de la Administración Pública Municipal, que previene el presente Código; y (sic)
 
-XIX. Las demás que expresamente le señalen las leyes, el presente Código y reglamentos vigentes en el Municipio, el H. Ayuntamiento o el Presidente Municipal.
+> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2011)</small>
+
+XIX. Coordinar la mejora regulatoria, la simplificación administrativa, la innovación y la transparencia, así como las tecnologías de información en la Administración Pública Municipal;
+
+> <small>(ADICIONADA, P.O. 12 DE SEPTIEMBRE DE 2011)</small>
+
+XX. Definir y establecer los lineamientos, instrumentos y mecanismos para la aplicación y seguimiento de la mejora regulatoria interna y externa;
+
+> <small>(ADICIONADA, P.O. 12 DE SEPTIEMBRE DE 2011)</small>
+
+XXI. Coordinar, evaluar y dar seguimiento al Programa Municipal de Mejora Regulatoria, Simplificación, Innovación, Transparencia y Tecnologías de Información y las acciones que se deriven del mismo;
+
+> <small>(ADICIONADA, P.O. 12 DE SEPTIEMBRE DE 2011)</small>
+
+XXII. Implementar directamente o a través de terceros las acciones, mecanismos y productos del Programa Municipal de Mejora Regulatoria, Simplificación, Innovación, Transparencia y Tecnologías de Información;
+
+> <small>(ADICIONADA, P.O. 12 DE SEPTIEMBRE DE 2011)</small>
+
+XXIII. Promover la mejora continua de los procesos administrativos, la utilización de soluciones tecnológicas y la innovación para brindar servicios ciudadanos e internos más eficientes, sencillos y claros;
+
+> <small>(ADICIONADA, P.O. 12 DE SEPTIEMBRE DE 2011)</small>
+
+XXIV. Coordinar con el Presidente Municipal, los Regidores y Síndico, así como con las Dependencias y Entidades, el Programa Municipal de Mejora Regulatoria, Simplificación, Innovación, Transparencia y Tecnologías de Información;
+
+> <small>(ADICIONADA, P.O. 12 DE SEPTIEMBRE DE 2011)</small>
+
+XXV. Coordinar, integrar y publicar el Registro Municipal de Trámites y Servicios Externos y el Registro Municipal de Trámites y Servicios Internos, conjuntamente con las Dependencias y Entidades involucradas;
+
+> <small>(ADICIONADA, P.O. 12 DE SEPTIEMBRE DE 2011)</small>
+
+XXVI. Recibir, revisar y dictaminar las Manifestaciones de Impacto Regulatorio que se presenten para las iniciativas de ley con impacto económico o que generen trámites a los ciudadanos para su respectiva evaluación y dictamen, previo a que sea turnada dicha iniciativa al H. Cabildo;
+
+> <small>(ADICIONADA, P.O. 12 DE SEPTIEMBRE DE 2011)</small>
+
+XXVII. Promover, coordinar y actualizar los sistemas de apertura rápida de empresas;
+
+> <small>(ADICIONADA, P.O. 12 DE SEPTIEMBRE DE 2011)</small>
+
+XXVIII. Otorgar y expedir, negar o condicionar las licencias de funcionamientos para actividades no reglamentadas solicitadas por los particulares para las actividades comerciales, industriales y de prestación de servicios según lo señalando por el presente Código, la Ley de Hacienda del Municipio de San Francisco de los Romo, y las demás disposiciones legales aplicables;
+
+> <small>(ADICIONADA, P.O. 12 DE SEPTIEMBRE DE 2011)</small>
+
+XXIX. Promover, coordinar y actualizar sistemas de trámites comunes o secuenciales para una actividad a fin de facilitar su realización;
+
+> <small>(ADICIONADA, P.O. 12 DE SEPTIEMBRE DE 2011)</small>
+
+XXX. Establecer mecanismos que brinden mayor sencillez y certeza jurídica a los ciudadanos, empresarios y funcionarios municipales;
+
+> <small>(ADICIONADA, P.O. 12 DE SEPTIEMBRE DE 2011)</small>
+
+XXXI. Asesorar, capacitar y colaborar con las Dependencias y Entidades sobre la implementación del Programa Municipal de Mejora Regulatoria, Simplificación, Transparencia e Innovación y Tecnologías de Información;
+
+> <small>(ADICIONADA, P.O. 12 DE SEPTIEMBRE DE 2011)</small>
+
+XXXII. Formular propuestas de nuevas reformas ante las Dependencias y Entidades Municipales en esta materia y presentar a las Dependencias Estatal y Federal correspondientes las propuestas en materia de su competencia;
+
+> <small>(ADICIONADA, P.O. 12 DE SEPTIEMBRE DE 2011)</small>
+
+XXXIII. Coordinar el Centro de Atención Integral Municipal y los servicios que se ofrezcan en el mismo con la colaboración de las Dependencias y Entidades de la Administración Pública Municipal;
+
+> <small>(ADICIONADA, P.O. 12 DE SEPTIEMBRE DE 2011)</small>
+
+XXXIV. Establecer conjuntamente con la Dirección de Finanzas y Administración reglas normas, criterios y procedimientos que deberán observar las Dependencias y Entidades en materia de Simplificación y Modernización Administrativa y asesorarles para optimizar el funcionamiento interno y mejorar el servicio al público;
+
+> <small>(ADICIONADA, P.O. 12 DE SEPTIEMBRE DE 2011)</small>
+
+XXXV. Instituir y coordinar el programa usuario simulado para verificar la atención otorgada al ciudadano y el cumplimiento de los tiempos de respuesta a los trámites y servicios, como un proceso de evaluación de la función pública;
+
+> <small>(ADICIONADA, P.O. 12 DE SEPTIEMBRE DE 2011)</small>
+
+XXXVI. Participar y promover reuniones en materia de mejora regulatoria, simplificación administrativa a nivel estatal, nacional e internacional;
+
+> <small>(ADICIONADA, P.O. 12 DE SEPTIEMBRE DE 2011)</small>
+
+XXXVII. Coordinar el Registro de Personas Acreditadas para la realización de sus trámites ante las Dependencias y Entidades Municipales;
+
+> <small>(ADICIONADA, P.O. 12 DE SEPTIEMBRE DE 2011)</small>
+
+XXXVIII. Coordinar los sistemas de cómputo e informática, las tecnologías de información y comunicación que se utilicen para mayor eficiencia de las labores de la Administración Pública Municipal;
+
+> <small>(ADICIONADA, P.O. 12 DE SEPTIEMBRE DE 2011)</small>
+
+XXXIX. Establecer la normatividad y lineamientos para el buen uso y desempeño de los instrumentos tecnológicos;
+
+> <small>(ADICIONADA, P.O. 12 DE SEPTIEMBRE DE 2011)</small>
+
+XL. Coordinar la página electrónica del Municipio y desarrollar mecanismos innovadores para la atención ciudadana y el acceso a la información pública por medios electrónicos;
+
+> <small>(ADICIONADA, P.O. 12 DE SEPTIEMBRE DE 2011)</small>
+
+XLI. Promover el uso de información georeferenciada y establecer los mecanismos para su mayor utilización y difusión;
+
+> <small>(ADICIONADA, P.O. 12 DE SEPTIEMBRE DE 2011)</small>
+
+XLII. Colaborar y promover con las Dependencias y Entidades estrategias para detectar los procesos que sean factibles a incorporarse a medios electrónicos;
+
+> <small>(ADICIONADA, P.O. 12 DE SEPTIEMBRE DE 2011)</small>
+
+XLIII. Promover con las Dependencias y Entidades Municipales la innovación y la creatividad en sus puestos de trabajo para mejorar los procesos administrativos y en su caso la regulación correspondiente;
+
+> <small>(ADICIONADA, P.O. 12 DE SEPTIEMBRE DE 2011)</small>
+
+XLIV. Es el órgano de autoridad, promoción, difusión e investigación sobre el derecho de acceso a la información pública municipal;
+
+> <small>(ADICIONADA, P.O. 12 DE SEPTIEMBRE DE 2011)</small>
+
+XLV. Coordinar la implementación y seguimiento del Sistema Municipal de Transparencia y Acceso a la Información Pública de conformidad a la ley de la materia y al presente Código:
+
+> <small>(ADICIONADA, P.O. 12 DE SEPTIEMBRE DE 2011)</small>
+
+XLVI. Interpretar en el orden administrativo las disposiciones legales en materia de transparencia y acceso a la información pública con el propósito de favorecer el principio de publicidad de la información en posesión de la autoridad;
+
+> <small>(ADICIONADA, P.O. 12 DE SEPTIEMBRE DE 2011)</small>
+
+XLVII. Establecer los lineamientos para catalogar, clasificar, desclasificar y conservar la información;
+
+> <small>(ADICIONADA, P.O. 12 DE SEPTIEMBRE DE 2011)</small>
+
+XLVIII. Coordinar y proponer medidas para brindar mayor transparencia y eficacia a las labores de inspección y verificación que realicen las autoridades municipales a través del Sistema de Verificación e Inspección Municipal;
+
+> <small>(ADICIONADA, P.O. 12 DE SEPTIEMBRE DE 2011)</small>
+
+XLIX. Asegurar la calidad y eficiencia en la atención y realización de trámites de la Administración Pública y propiciar en los servidores públicos una cultura de mejores prácticas de gestión y de transparencia en la realización de los mismos;
+
+> <small>(ADICIONADA, P.O. 12 DE SEPTIEMBRE DE 2011)</small>
+
+L. Fungir como Unidad de Enlace, de conformidad con lo dispuesto en la Ley de Transparencia y Acceso a la Información Pública del Estado de Aguascalientes;
+
+> <small>(ADICIONADA, P.O. 12 DE SEPTIEMBRE DE 2011)</small>
+
+LI. Recabar y difundir la información a que se refiere el Artículo 9° de la Ley, además de propiciar que las áreas administrativas la actualicen periódicamente;
+
+> <small>(ADICIONADA, P.O. 12 DE SEPTIEMBRE DE 2011)</small>
+
+LII. Recibir y dar trámite a las solicitudes de acceso a la información de su competencia;
+
+> <small>(ADICIONADA, P.O. 12 DE SEPTIEMBRE DE 2011)</small>
+
+LIII. Auxiliar a los particulares en la elaboración de solicitudes y, en su caso, orientarlos sobre las Dependencias o Entidades u otros órganos que pudieran tener la información que solicitan;
+
+> <small>(ADICIONADA, P.O. 12 DE SEPTIEMBRE DE 2011)</small>
+
+LIV. Llevar el Registro Municipal de las solicitudes de Acceso a la información, sus resultados y costos;
+
+> <small>(ADICIONADA, P.O. 12 DE SEPTIEMBRE DE 2011)</small>
+
+LV. Garantizar y agilizar el flujo de información entre la mismas Dependencias y Entidades, así como de éstas con los particulares; y
+
+> <small>(ADICIONADA, P.O. 12 DE SEPTIEMBRE DE 2011)</small>
+
+LVI. Las demás que señale la Ley Municipal, el presente Código y las que le encomiende el H. Ayuntamiento por conducto del Presidente Municipal.
+
+> <small>(DEROGADO CON EL ARTICULO QUE LO INTEGRA, P.O. 12 DE SEPTIEMBRE DE 2011)</small>
 
 APARTADO OCTAVO
 
-De la Dirección de Mejora Regulatoria, Simplificación, Transparencia e Innovación
+###### ARTÍCULO 109.
 
-###### ARTICULO 109.
-
-Corresponde a la Dirección de Mejora Regulatoria, Simplificación, Transparencia e Innovación, entre otras funciones las siguientes:
-
-I. Coordinar la mejora regulatoria, la simplificación administrativa, la innovación y la transparencia, así como las tecnologías de información en la Administración Pública Municipal;
-
-II. Definir y establecer los lineamientos, instrumentos y mecanismos para la aplicación y seguimiento de la mejora regulatoria interna y externa;
-
-III. Coordinar, evaluar y dar seguimiento al Programa Municipal de Mejora Regulatoria, Simplificación, Innovación, Transparencia y Tecnologías de Información y las acciones que se deriven del mismo;
-
-IV. Implementar directamente o a través de terceros las acciones, mecanismos y productos del Programa Municipal de Mejora Regulatoria, Simplificación, Innovación, Transparencia y Tecnologías de Información;
-
-V. Promover la mejora continua de los procesos administrativos, la utilización de soluciones tecnológicas y la innovación para brindar servicios ciudadanos e internos más eficientes, sencillos y claros;
-
-VI. Coordinar con el Presidente Municipal, los Regidores y Síndico, así como con las Dependencias y Entidades, el Programa Municipal de Mejora Regulatoria, Simplificación, Innovación, Transparencia y Tecnologías de Información;
-
-VII. Coordinar, integrar y publicar el Registro Municipal de Trámites y Servicios Externos y el Registro Municipal de Trámites y Servicios Internos, conjuntamente con las Dependencias y Entidades involucradas;
-
-VIII. Coordinar, integrar y llevar el Registro Municipal de Personas Acreditadas conjuntamente con las dependencias involucradas;
-
-IX. Recibir, revisar y dictaminar las Manifestaciones de Impacto Regulatorio que se presenten para las iniciativas de ley con impacto económico o que generen trámites a los ciudadanos para su respectiva evaluación y dictamen, previo a que sea turnada dicha iniciativa al H. Cabildo;
-
-X. Promover, coordinar y actualizar los sistemas de apertura rápida de empresas;
-
-XI. Otorgar y expedir, negar o condicionar las licencias de funcionamientos para actividades no reglamentadas solicitadas por los particulares para las actividades comerciales, industriales y de prestación de servicios según lo señalando por el presente Código, la Ley de Hacienda del Municipio de San Francisco de los Romo, y las demás disposiciones legales aplicables;
-
-XII. Promover, coordinar y actualizar sistemas de trámites comunes o secuenciales para una actividad a fin de facilitar su realización;
-
-XIII. Establecer mecanismos que brinden mayor sencillez y certeza jurídica a los ciudadanos, empresarios y funcionarios municipales;
-
-XIV. Asesorar, capacitar y colaborar con las Dependencias y Entidades sobre la implementación del Programa Municipal de Mejora Regulatoria, Simplificación, Transparencia e Innovación y Tecnologías de Información;
-
-XV. Formular propuestas de nuevas reformas ante las Dependencias y Entidades Municipales en esta materia y presentar a las Dependencias Estatal y Federal correspondientes las propuestas en materia de su competencia;
-
-XVI. Coordinar el Centro de Atención Integral Municipal y los servicios que se ofrezcan en el mismo con la colaboración de las Dependencias y Entidades de la Administración Pública Municipal;
-
-XVII. Establecer conjuntamente con la Dirección General de Finanzas y Administración reglas normas, criterios y procedimientos que deberán observar las Dependencias y Entidades en materia de Simplificación y Modernización Administrativa y asesorarles para optimizar el funcionamiento interno y mejorar el servicio al público;
-
-XVIII. Instituir y coordinar el programa usuario simulado para verificar la atención otorgada al ciudadano y el cumplimiento de los tiempos de respuesta a los trámites y servicios, como un proceso de evaluación de la función pública;
-
-XIX. Participar y promover reuniones en materia de mejora regulatoria, simplificación administrativa a nivel estatal, nacional e internacional;
-
-XX. Coordinar el Registro de Personas Acreditadas para la realización de sus trámites ante las Dependencias y Entidades Municipales;
-
-XXI. Coordinar e instituir el Premio Anual de Mejora Regulatoria, Simplificación, Transparencia e Innovación como un mecanismo de promoción de la calidad en la gestión pública;
-
-XXII. Coordinar los sistemas de cómputo e informática, las tecnologías de información y comunicación que se utilicen para mayor eficiencia de las labores de la Administración Pública Municipal;
-
-XXIII. Establecer la normatividad y lineamientos para el buen uso y desempeño de los instrumentos tecnológicos;
-
-XXIV. Coordinar la página electrónica del Municipio y desarrollar mecanismos innovadores para la atención ciudadana y el acceso a la información pública por medios electrónicos;
-
-XXV. Establecer los criterios y códigos de seguridad para el uso seguro de la firma electrónica en los procesos administrativos internos y externos del Municipio;
-
-XXVI. Promover el uso de información georeferenciada y establecer los mecanismos para su mayor utilización y difusión;
-
-XXVII. Colaborar y promover con las Dependencias y Entidades estrategias para detectar los procesos que sean factibles a incorporarse a medios electrónicos;
-
-XXVIII. Promover con las Dependencias y Entidades Municipales la innovación y la creatividad en sus puestos de trabajo para mejorar los procesos administrativos y en su caso la regulación correspondiente;
-
-XXIX. Es el órgano de autoridad, promoción, difusión e investigación sobre el derecho de acceso a la información pública municipal;
-
-XXX. Coordinar la implementación y seguimiento del Sistema Municipal de Transparencia y Acceso a la Información Pública de conformidad a la ley de la materia y al presente Código:
-
-XXXI. Interpretar en el orden administrativo las disposiciones legales en materia de transparencia y acceso a la información pública con el propósito de favorecer el principio de publicidad de la información en posesión de la autoridad;
-
-XXXII. Establecer los lineamientos para catalogar, clasificar, desclasificar y conservar la información;
-
-XXXIII. Coordinar y proponer medidas para brindar mayor transparencia y eficacia a las labores de inspección y verificación que realicen las autoridades municipales a través del Sistema de Verificación e Inspección Municipal;
-
-XXXIV. Asegurar la calidad y eficiencia en la atención y realización de trámites de la Administración Pública y propiciar en los servidores públicos una cultura de mejores prácticas de gestión y de transparencia en la realización de los mismos;
-
-XXXV. Fungir como Unidad de Enlace de la Dirección, de conformidad con lo dispuesto en la Ley de Transparencia y Acceso a la Información Pública del Estado de Aguascalientes;
-
-XXXVI. Recabar y difundir la información a que se refiere el Artículo 9° de la Ley, además de propiciar que las áreas administrativas la actualicen periódicamente;
-
-XXXVII. Recibir y dar trámite a las solicitudes de acceso a la información de su competencia;
-
-XXXVIII. Auxiliar a los particulares en la elaboración de solicitudes y, en su caso, orientarlos sobre las Dependencias o Entidades u otros órganos que pudieran tener la información que solicitan;
-
-XXXIX. Llevar el Registro Municipal de las solicitudes de Acceso a la información, sus resultados y costos;
-
-XL. Las demás necesarias para garantizar y agilizar el flujo de información entre la mismas Dependencias y Entidades, así como de éstas con los particulares; y
-
-XLI. Las demás que se requieran para la implementación de las políticas públicas de buen gobierno señaladas en el presente Código y demás disposiciones legales.
+(DEROGADO, P.O. 12 DE SEPTIEMBRE DE 2011)
 
 APARTADO NOVENO
 
@@ -1605,9 +1713,51 @@ XIII. Solicitar la publicación de leyes, decretos, bandos y reglamentos y tener
 
 XIV. Elaborar con intervención del Síndico el inventario general de los bienes muebles e inmuebles propiedad del Municipio, de los destinados a un servicio público y los de uso común, expresando en el mismo todas las características de identificación;
 
-XV. Integrar un Sistema de Información que contenga datos de los aspectos socio-económicos básicos del Municipio; y
+XV. Integrar un Sistema de Información que contenga datos de los aspectos socio-económicos básicos del Municipio; y (sic)
 
-XVI. Las demás que le confiera el Presidente Municipal, que le encomiende el H. Ayuntamiento, el presente ordenamiento y demás que le señalen las leyes.
+> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2011)</small>
+
+XVI. Fomentar el óptimo y ordenado desarrollo de la cultura física y deporte en todas sus manifestaciones y expresiones;
+
+> <small>(ADICIONADA, P.O. 12 DE SEPTIEMBRE DE 2011)</small>
+
+XVII. Elevar, por medio de la cultura física y deporte, el nivel de vida social y cultural de los habitantes en el Estado;
+
+> <small>(ADICIONADA, P.O. 12 DE SEPTIEMBRE DE 2011)</small>
+
+XVIII. Fomentar el desarrollo de la cultura física y deporte, como medio importante en la prevención del delito y como medida de desarrollo integral de las personas;
+
+> <small>(ADICIONADA, P.O. 12 DE SEPTIEMBRE DE 2011)</small>
+
+XIX. Garantizar a todas las personas, sin distinción de género, edad, discapacidad, condición social, religión, opiniones, preferencias o estado civil la igualdad de oportunidades dentro de los programas de desarrollo que en materia de cultura física y deporte se implementen;
+
+> <small>(ADICIONADA, P.O. 12 DE SEPTIEMBRE DE 2011)</small>
+
+XX. Conservar y acrecentar el patrimonio cultural del Municipio con sus valores como patrimonio e identidad y testimonio histórico universal;
+
+> <small>(ADICIONADA, P.O. 12 DE SEPTIEMBRE DE 2011)</small>
+
+XXI. Promover el desarrollo de la cultura y la educación cívica en el Municipio;
+
+> <small>(ADICIONADA, P.O. 12 DE SEPTIEMBRE DE 2011)</small>
+
+XXII. Promover, fortalecer y apoyar las acciones en materia de salubridad local y regulación sanitaria, ejerciendo las atribuciones que correspondan al Municipio y en base a los acuerdos y políticas estatales y federales;
+
+> <small>(ADICIONADA, P.O. 12 DE SEPTIEMBRE DE 2011)</small>
+
+XXIII. Vigilar de acuerdo a su competencia, el cumplimiento de la Ley Estatal de Salud y las disposiciones legales que correspondan, coordinándose con las autoridades estatales y federales en materia de salud, a efecto de instrumentar y desarrollar programas que mejoren los niveles de salud en el Municipio;
+
+> <small>(ADICIONADA, P.O. 12 DE SEPTIEMBRE DE 2011)</small>
+
+XXIV. Ejercer las atribuciones que le corresponde al Municipio de la Regulación Sanitaria en materia de salud local, a través del Director de Servicios Públicos, con base en los acuerdos de descentralización que se hayan celebrado con el Ejecutivo Estatal;
+
+> <small>(ADICIONADA, P.O. 12 DE SEPTIEMBRE DE 2011)</small>
+
+XXV. Auxiliar a la población en casos de siniestros y desastres;
+
+> <small>(ADICIONADA, P.O. 12 DE SEPTIEMBRE DE 2011)</small>
+
+XXVI. Las demás que le confiera el Presidente Municipal, que le encomiende el H. Ayuntamiento, el presente ordenamiento y demás que le señalen las leyes.
 
 ###### ARTICULO 111.
 
@@ -1645,13 +1795,17 @@ XV. Compilar leyes, decretos reglamentos, periódicos oficiales del Estado, circ
 
 XVI. Las demás que le confieran el Presidente Municipal, el Secretario del H. Ayuntamiento y Director General de Gobierno, el presente Código y demás normatividad.
 
+> <small>(REFORMADA SU DENOMINACION, P.O. 12 DE SEPTIEMBRE DE 2011)</small>
+
 APARTADO DECIMO
 
-De la Dirección General de Finanzas y Administración
+De la Dirección de Finanzas y Administración
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE SEPTIEMBRE DE 2011)</small>
 
 ###### ARTICULO 112.
 
-Corresponde a la Dirección General de Finanzas y Administración entre otras funciones las siguientes:
+Corresponde a la Dirección de Finanzas y Administración entre otras funciones las siguientes:
 
 I. Ejercer las funciones de recaudación de los ingresos municipales, realizar las erogaciones que haga el H. Ayuntamiento y demás que le señala la Ley Municipal para el Estado de Aguascalientes, la Ley de Hacienda del Municipio de San Francisco de los Romo, el presente Código y las demás disposiciones legales municipales aplicables;
 
@@ -1807,13 +1961,17 @@ L. Promover y fomentar la calidad en la prestación de servicios turísticos, im
 
 LI. Las demás que señalen las leyes o le encomiende el H. Ayuntamiento por conducto del Presidente Municipal.
 
+> <small>(REFORMADA SU DENOMINACION, P.O. 12 DE SEPTIEMBRE DE 2011)</small>
+
 APARTADO DECIMO SEGUNDO
 
-De la Dirección General de Desarrollo Urbano, Ecología y Servicios Públicos
+De la Dirección de Desarrollo Urbano
+
+> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 2011)</small>
 
 ###### ARTICULO 114.
 
-Corresponde a la Dirección General de Desarrollo Urbano, Ecología y Servicios Públicos:
+Corresponde a la Dirección de Desarrollo Urbano,
 
 I. Participar en la elaboración de los proyectos de reglamentación de zonificación y usos del suelo, de planeación, de construcciones, de ordenamiento territorial y de protección al ambiente;
 
@@ -1843,7 +2001,7 @@ g) Números oficiales para las fincas; y
 
 h) Prevenir y manejar los asentamientos humanos irregulares.
 
-VII. Supervisar y regular los parques industriales del Municipio y evaluar, autorizar o negar, y supervisar los nuevos proyectos de ocupación en los mismos;
+VII. Supervisar y regular los parques industriales del Municipio y evaluar, autorizar o negar, y supervisar los nuevos proyectos de ocupación en los mismos
 
 VIII. Determinar el tipo de construcciones que se puedan edificar en el municipio;
 
@@ -1873,65 +2031,81 @@ XX. Expedir normas técnicas complementarias para el debido cumplimiento en lo r
 
 XXI. Determinar los requisitos y procedimientos para la asignación, forma de instalación, rectificación y cambio de nomenclatura de fraccionamientos, vialidades, parques, jardines, plazas, sitios y monumentos históricos y todo aquel lugar factible de otorgársele denominación;
 
-XXII. Ejecutar el Programa Municipal de Obras y Servicios Públicos, de acuerdo a los lineamientos, directrices y prioridades que le señale el C. Presidente Municipal;
+XXII. Participar en el ordenamiento territorial de su competencia; y
 
-XXIII. Realizar directamente o a través de terceros, las obras públicas del Municipio, formulando los estudios, proyectos y presupuestos correspondientes
+XXIII. Las demás que señale la Ley Municipal, el presente Código y las que le encomiende el H. Ayuntamiento por conducto del Presidente Municipal.
 
-XXIV Inspeccionar los trabajos de mantenimiento y conservación de las y servicios públicos municipales;
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 12 DE SEPTIEMBRE DE 2011)</small>
 
-XXV. Proponer las políticas y programas relativos a la construcción y mantenimiento de las obras públicas municipales;
+APARTADO DECIMO SEGUNDO BIS
 
-XXVI. Asesorar técnicamente los Comités de trabajo comunitario o comités de obra comunitarios, que lo requieran, en lo concerniente a la realización de obras públicas municipales;
+De la Dirección de Obras Públicas
 
-XXVII. Presentar al C. Presidente Municipal los informes de labores que soliciten, con la periodicidad que le señale;
+> <small>(ADICIONADO, P.O. 12 DE SEPTIEMBRE DE 2011)</small>
 
-XXVIII. Supervisar y controlar las actividades de las diferentes áreas que integran la Dirección General;
+ARTICULO 114 A .Corresponde a la Dirección de Obras Públicas:
 
-XXIX. Expedir las convocatorias y bases a que deben ajustarse los concursos de obra pública que se celebren en el ámbito municipal, así como vigilar la estricta aplicación de las disposiciones legales vigentes en la materia;
+I. Ejecutar el Programa Municipal de Obras Públicas, de acuerdo a los lineamientos, directrices y prioridades que le señale el C. Presidente Municipal;
 
-XXX. La prestación por sí o por conducto de terceras personas a través de concesiones, los servicios de mercados, rastro municipal, control de rabia y de población canina, limpia y aseo público, tratamiento y disposición final de residuos sólidos no peligrosos, panteones, parques y jardines, alumbrado público. En cuanto al control de rabia y de población canina, el servicio no puede concesionarse;
+II. Realizar directamente o a través de terceros, las obras públicas del Municipio, formulando los estudios, proyectos y presupuestos correspondientes
 
-XXXI. Vigilar que los servicios que proporciona el rastro a los usuarios se hagan en condiciones que garanticen la higiene en el sacrificio y transportación de los productos cárnicos;
+III. Proponer las políticas y programas relativos a la construcción y mantenimiento de las obras públicas municipales;
 
-XXXII. Regular la introducción y salida de ganado y el abastecimiento de carne para el consumo humano;
+IV. Asesorar técnicamente los Comités de trabajo comunitario o comités de obra comunitarios, que lo requieran, en lo concerniente a la realización de obras públicas municipales;
 
-XXXIII. Impedir la comercialización de productos cárnicos que no hayan sido previamente inspeccionados en cuanto a sus condiciones sanitarias o no hayan cubierto los impuestos y/o derechos municipales;
+V. Presentar al C. Presidente Municipal los informes de labores que soliciten, con la periodicidad que le señale;
 
-XXXIV Determinar el destino de las carnes no apropiadas para el consumo de la población de acuerdo a la Ley General de Salud;
+VI. Expedir las convocatorias y bases a que deben ajustarse los concursos de obra pública que se celebren en el ámbito municipal, así como vigilar la estricta aplicación de las disposiciones legales vigentes en la materia; y
 
-XXXV. Promover, fortalecer y apoyar las acciones en materia de salubridad local y regulación sanitaria, ejerciendo las atribuciones que correspondan al Municipio y en base a los acuerdos y políticas estatales y federales;
+VII. Las demás que señale la Ley Municipal, el presente Código y las que le encomiende el H. Ayuntamiento por conducto del Presidente Municipal.
 
-XXXVI. Vigilar de acuerdo a su competencia, el cumplimiento de la Ley Estatal de Salud y las disposiciones legales que correspondan, coordinándose con las autoridades estatales y federales en materia de salud, a efecto de instrumentar y desarrollar programas que mejoren los niveles de salud en el Municipio;
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 12 DE SEPTIEMBRE DE 2011)</small>
 
-XXXVII. Supervisar el correcto funcionamiento y prestación del servicio público de los mercados y áreas comerciales;
+APARTADO DECIMO SEGUNDO TER
 
-XXXVIII. Ejercer las atribuciones que le corresponde al Municipio de la Regulación Sanitaria en materia de salud local, a través del Director de Servicios Públicos, con base en los acuerdos de descentralización que se hayan celebrado con el Ejecutivo Estatal;
+De la Dirección de Servicios Públicos
 
-XXXIX. Ejercer las atribuciones que le correspondan al municipio en materia de regulación, control ambiental y ecología de acuerdo a la ley;
+> <small>(ADICIONADO, P.O. 12 DE SEPTIEMBRE DE 2011)</small>
 
-XL. Formular, conducir y evaluar la política ambiental en su jurisdicción territorial, en el ámbito de su competencia;
+ARTICULO 114 B. Corresponde a la Dirección de Servicios Públicos:
 
-XLI. Ejercer las funciones que le transfieran la Federación y el Estado en materia ambiental, en los términos que establezcan los convenios o acuerdos de coordinación correspondientes de competencia estatal, cuando las mismas se realicen en el ámbito de su circunscripción territorial;
+I. Inspeccionar los trabajos de mantenimiento y conservación de los servicios públicos municipales;
 
-XLII. Aplicar, en coordinación con el Organismo Operador del Agua, las disposiciones jurídicas en materia de prevención y control de la contaminación de las aguas que se descarguen a los sistemas de drenaje y alcantarillado de los centros de población, así como de las aguas nacionales que tengan asignadas;
+II. La prestación por sí o por conducto de terceras personas a través de concesiones, los servicios de mercados, rastro municipal, control de rabia y de población canina, limpia y aseo público, tratamiento y disposición final de residuos sólidos no peligrosos, panteones, parques y jardines, alumbrado público. En cuanto al control de rabia y de población canina, el servicio no puede concesionarse;
 
-XLIII. Aplicar las disposiciones jurídicas en materia de prevención y control de la contaminación atmosférica generada por fuentes fijas, que funcionen como establecimientos mercantiles y de servicios y quemas dentro de la zona de competencia municipal:
+III. Vigilar que los servicios que proporciona el rastro a los usuarios se hagan en condiciones que garanticen la higiene en el sacrificio y transportación de los productos cárnicos;
 
-XLIV Aplicar las disposiciones jurídicas relativas a la prevención y control de la contaminación por ruido, vibraciones, energía térmica, radiaciones electromagnéticas y lumínicas y olores perjudiciales para el ambiente, provenientes de fuentes fijas que funcionen como establecimientos mercantiles o de servicios;
+IV. Regular la introducción y salida de ganado y el abastecimiento de carne para el consumo humano;
 
-XLV. Aplicar las disposiciones jurídicas relativas a la prevención y control de los efectos sobre el ambiente ocasionados por el manejo de los residuos municipales e industriales que no estén considerados como peligrosos de conformidad con lo dispuestos por los demás ordenamientos aplicables;
+V. Impedir la comercialización de productos cárnicos que no hayan sido previamente inspeccionados en cuanto a sus condiciones sanitarias o no hayan cubierto los impuestos y/o derechos municipales;
 
-XLVI. Participar en la atención de los asuntos que afecten el ambiente de dos o más municipios y que generen efectos ambientales adversos en su circunscripción territorial, entre otras;
+VI. Determinar el destino de las carnes no apropiadas para el consumo humano de la población de acuerdo a la Ley General de Salud;
 
-XLVII. Verificar y ejercer el control sobre desechos líquidos o sólidos que pudieran contaminar el medio ambiente;
+VII. Supervisar el correcto funcionamiento y prestación del servicio público de los mercados y áreas comerciales;
 
-XLVIII. Regular y vigilar la emisión de ruidos que afecten el medio ambiente así como la salud de las personas;
+VIII. Ejercer las atribuciones que le correspondan al municipio en materia de regulación, control ambiental y ecología de acuerdo a la ley;
 
-XLIX. Participar en la creación y administración de reservas ecológicas;
+IX. Formular, conducir y evaluar la política ambiental en su jurisdicción territorial, en el ámbito de su competencia;
 
-L. Participar en el ordenamiento territorial de su competencia; y
+X. Ejercer las funciones que le transfieran la Federación y el Estado en materia ambiental, en los términos que establezcan los convenios o acuerdos de coordinación correspondientes de competencia estatal, cuando las mismas se realicen en el ámbito de su circunscripción territorial;
 
-LI. Las demás funciones que le indiquen las disposiciones legales correspondientes o le confiera expresamente el Presidente Municipal.
+XI. Aplicar, en coordinación con el Organismo Operador del Agua, las disposiciones jurídicas en materia de prevención y control de la contaminación de las aguas que se descarguen a los sistemas de drenaje y alcantarillado de los centros de población, así como de las aguas nacionales que tengan asignadas;
+
+XII. Aplicar las disposiciones jurídicas en materia de prevención y control de la contaminación atmosférica generada por fuentes fijas, que funcionen como establecimientos mercantiles y de servicios y quemas dentro de la zona de competencia municipal:
+
+XIII. Aplicar las disposiciones jurídicas relativas a la prevención y control de la contaminación por ruido, vibraciones, energía térmica, radiaciones electromagnéticas y lumínicas y olores perjudiciales para el ambiente, provenientes de fuentes fijas que funcionen como establecimientos mercantiles o de servicios;
+
+XIV. Aplicar las disposiciones jurídicas relativas a la prevención y control de los efectos sobre el ambiente ocasionados por el manejo de los residuos municipales e industriales que no estén considerados como peligrosos de conformidad con lo dispuestos por los demás ordenamientos aplicables;
+
+XV. Participar en la atención de los asuntos que afecten el ambiente de dos o más municipios y que generen efectos ambientales adversos en su circunscripción territorial, entre otras;
+
+XVI. Verificar y ejercer el control sobre desechos líquidos o sólidos que pudieran contaminar el medio ambiente;
+
+XVII. Regular y vigilar la emisión de ruidos que afecten el medio ambiente así como la salud de las personas;
+
+XVIII. Participar en la creación y administración de reservas ecológicas;
+
+XIX. Las demás que señale la Ley Municipal, el presente Código y las que le encomiende el H. Ayuntamiento por conducto del Presidente Municipal.
 
 APARTADO DECIMO TERCERO
 
@@ -4761,9 +4935,11 @@ X. Implementar mecanismos innovadores para mejorar la atención al ciudadano y b
 
 La Mejora Regulatoria Integral conlleva el reformar, crear, desregular, simplificar o eliminar regulaciones y procesos internos y externos de la Administración Pública Municipal, a través de las acciones que las autoridades y la sociedad realizan para contar con instrumentos jurídicos actualizados a través de procesos transparentes de elaboración, revisión, modificación y aplicación, tendientes a lograr la competitividad regulatoria y el desarrollo económico del Municipio.
 
+> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 2011)</small>
+
 ###### ARTICULO 412.
 
-El H. Ayuntamiento, implementará el Programa de Mejora Regulatoria Integral, Simplificación, Transparencia e Innovación, a través de la Dirección de Mejora Regulatoria, Simplificación, Transparencia e Innovación con el objeto de que la regulación municipal sea clara, sencilla y transparente para aumentar la eficiencia, evitar discrecionalidad, incrementar beneficios y reducir costos a la administración pública y a los particulares.
+El H. Ayuntamiento, implementará el Programa de Mejora Regulatoria Integral, Simplificación, Transparencia e Innovación, a través de la Contraloría y Desarrollo Administrativo Municipal con el objeto de que la regulación municipal sea clara, sencilla y transparente para aumentar la eficiencia, evitar discrecionalidad, incrementar beneficios y reducir costos a la administración pública y a los particulares.
 
 ###### ARTICULO 413.
 
@@ -4773,9 +4949,11 @@ El H. Ayuntamiento, para la instrumentación de lo señalado en el presente Libr
 
 El H. Ayuntamiento, para efectos de llevar a cabo lo estipulado en el presente Libro, destinará una partida presupuestal para el fomento, desarrollo, ejecución y aplicación del Programa Municipal de Mejora Regulatoria, Simplificación, Transparencia, Innovación y Tecnologías de Información, la cual no deberá ser inferior a 5 % del ingreso anual previsto en la Ley de Ingresos correspondiente al ejercicio fiscal anual.
 
+> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 2011)</small>
+
 ###### ARTICULO 415.
 
-El Presidente Municipal por sí o a través de la Dirección de Mejora Regulatoria, Simplificación, Transparencia e Innovación, podrá contratar asesoría y consultoría externa, servicios de capacitación, asistencia técnica y desarrollo de productos o servicios para realizar las actividades señaladas en el presente Libro.
+El Presidente Municipal por sí o a través de la Contraloría y Desarrollo Administrativo Municipal, podrá contratar asesoría y consultoría externa, servicios de capacitación, asistencia técnica y desarrollo de productos o servicios para realizar las actividades señaladas en el presente Libro.
 
 ###### ARTICULO 416.
 
@@ -4803,9 +4981,13 @@ V. Programa: El Programa Municipal de Mejora Regulatoria y Simplificación Admin
 
 VI. Gestión Empresarial: Función Pública para apoyar, asesorar, orientar y auxiliar a los empresarios;
 
-VII. Dirección: La Dirección de Mejora Regulatoria, Simplificación, Transparencia, Innovación y de Tecnologías de Información;
+> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2011)</small>
 
-VIII. Director: El titular de la Dirección de Mejora Regulatoria, Simplificación, Transparencia, Innovación y de Tecnologías de Información;
+VII. Dirección: La Contraloría y Desarrollo Administrativo Municipal;
+
+> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2011)</small>
+
+VIII. Director: El titular de la Contraloría y Desarrollo Administrativo Municipal;
 
 IX. Dependencias: Para el ejercicio de sus atribuciones y el despacho de los negocios del orden administrativo el Presidente Municipal cuenta con las Dependencias señaladas en el Artículo 99 de este Código Municipal de San Francisco de los Romo como Direcciones Administrativas;
 
@@ -4869,7 +5051,9 @@ XI. Las demás que determine la Dirección, El Comité Municipal y los ordenamie
 
 Para dar cumplimiento a lo establecido en el presente Libro se establecen los siguientes órganos:
 
-I.- La Dirección de Mejora Regulatoria, Simplificación, Transparencia e Innovación;
+> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2011)</small>
+
+I. La Contraloría y Desarrollo Administrativo Municipal;
 
 II. El Consejo Municipal de Mejora Regulatoria, Simplificación, Transparencia e Innovación de Mejora Regulatoria; y
 
@@ -5909,9 +6093,11 @@ La Dirección rendirá anualmente en el mes de Noviembre un informe escrito al P
 
 ### CAPITULO XI. De la Dirección de Mejora Regulatoria, Simplificación, Transparencia e Innovación como Órgano de Acceso a la Información Pública
 
+> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 2011)</small>
+
 ###### ARTICULO 528.
 
-La Dirección de Mejora Regulatoria, Simplificación, Transparencia e Innovación Municipal es la instancia interna responsable de aplicar la Ley y este Título y ejercer las demás facultades que le otorga este ordenamiento.
+La Contraloría y Desarrollo Administrativo Municipal es la instancia interna responsable de aplicar la Ley y este Título y ejercer las demás facultades que le otorga este ordenamiento.
 
 ###### ARTICULO 529.
 
@@ -7331,7 +7517,7 @@ VI. Procurar el buen estado de los jardines que se encuentran dentro de los pant
 
 Los Administradores de los cementerios tendrán las siguientes obligaciones:
 
-l. Cuidar y aplicar las medidas necesarias para la conservación, limpieza e higiene del cementerio;
+I. Cuidar y aplicar las medidas necesarias para la conservación, limpieza e higiene del cementerio;
 
 II. Cuidar que los sepulcros en general, guarden entre sí la distancia señalada en este Capítulo y estén numerados convenientemente para su debida identificación;
 
@@ -8091,9 +8277,11 @@ X. Fomentar programas de prevención en instituciones de enseñanza, con la part
 
 XI. Promover y asesorar a los comités, organizaciones vecinales, instituciones y sectores respecto de programas y acciones en materia de seguridad vecinal y prevención del delito, fomentando la cultura del autocuidado.
 
+> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 2011)</small>
+
 ###### ARTICULO 800.
 
-La Subdirección Municipal de la Unidad de Protección Civil depende de la Dirección de Seguridad Pública y Tránsito Municipal, su objeto y atribuciones están contenidas en el Libro Séptimo de este Código Municipal.
+El Departamento de la Unidad de Protección Civil depende de la Secretaría del Ayuntamiento y Dirección General de Gobierno, su objeto y atribuciones están contenidas en el Reglamento Municipal de Protección Civil de San Francisco de los Romo.
 
 ###### ARTICULO 801.
 
@@ -8955,9 +9143,7 @@ Las facultades de la Comisión de Honor y Justicia se ejercerán sin perjuicio d
 
 ###### ARTICULO 875.
 
-El presente Capítulo contiene disposiciones de observancia general obligatoria en el Municipio de San Francisco de los
-
-Romo y sanciona las faltas administrativas que alteran o ponen en peligro el orden público.
+El presente Capítulo contiene disposiciones de observancia general obligatoria en el Municipio de San Francisco de los Romo y sanciona las faltas administrativas que alteran o ponen en peligro el orden público.
 
 ###### ARTICULO 876.
 
@@ -16681,6 +16867,8 @@ IV. La altura máxima del anuncio será de 3 metros y como superficie máxima de
 
 ### CAPITULO I. Disposiciones Generales
 
+> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 2011)</small>
+
 ###### ARTICULO 1586.
 
 Los anuncios tipo toldo opaco o luminoso, además de los requisitos aplicables por este Código Municipal, deben llenar los siguientes:
@@ -16839,6 +17027,8 @@ La Dirección, con la opinión del Comité, resolverá los casos que por sus car
 
 ### CAPITULO II. Del Impacto Ambiental
 
+> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 2011)</small>
+
 ###### ARTICULO 1597.
 
 Para la aplicación de este Código Municipal en materia de anuncios, la Ciudad de San Francisco de los Romo, se clasifica en cinco zonas:
@@ -16993,6 +17183,8 @@ En las vialidades locales, se permite la instalación de los anuncios que sean c
 
 ### CAPITULO IV. De la Prevención y Control de la Contaminación
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE SEPTIEMBRE DE 2011)</small>
+
 ###### ARTICULO 1611.
 
 Se entenderá por medida de seguridad la adopción y ejecución de las acciones que con apoyo en el Código Urbano y éste Código Municipal, dicte la Dirección, encaminadas a evitar los daños que puedan causar los anuncios, con todas sus instalaciones y accesorios a las personas o bienes.
@@ -17105,7 +17297,7 @@ El desahogo de este procedimiento, no excederá de quince días hábiles desde l
 
 Las disposiciones del presente Libro son de orden público e interés social y regulan la conservación, protección, restauración, preservación y regeneración del ambiente, así como el control, corrección y prevención de los procesos de deterioro ambiental.
 
-Corresponde a la Dirección General de Desarrollo Urbano, Ecología y Servicios Públicos a través de la Dirección de Planeación Urbana, Rural y Ecología, la aplicación y observancia de las presentes disposiciones.
+Corresponde a la Dirección de Desarrollo Urbano así como a la Dirección de Servicios Públicos, en el ámbito de sus respectivas competencias, la aplicación y observancia de las presentes disposiciones.
 
 ###### ARTICULO 1626.
 
@@ -17181,9 +17373,11 @@ XXVI. Atender los demás asuntos que en materia de preservación y protección a
 
 Se considera de competencia exclusiva de la Federación, según lo dispuesto por la Ley General del Equilibrio Ecológico y la Protección al Ambiente, la regulación de los materiales o residuos peligrosos, por lo que el Municipio participará como auxiliar en todas la instancias competentes para el cumplimiento de lo dispuesto en la legislación vigente en los términos de los acuerdos que para tal efecto se celebren. Así mismo el Municipio proporcionará las facilidades administrativas e información u orientación necesarias para que las actividades comerciales que se realizan en mercados y vías públicas así como en otros establecimientos comerciales e industriales manejen y confinen sus desechos según lo dispuesto por las leyes y ordenamientos en la materia.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE SEPTIEMBRE DE 2011)</small>
+
 ###### ARTICULO 1629.
 
-En base a lo establecido en el Artículo 8° de la Ley General de Equilibrio Ecológico y la Protección al Ambiente y en congruencia con el Artículo 5° de la Ley de Protección Ambiental para el Estado de Aguascalientes el H. Ayuntamiento, a través de la Dirección General de Desarrollo Urbano, Rural, Ecología y Servicios Públicos y su Unidad Administrativa Dirección de Planeación, Urbana Rural y Ecología tienen las siguientes atribuciones:
+En base a lo establecido en el Artículo 8° de la Ley General de Equilibrio Ecológico y la Protección al Ambiente y en congruencia con el Artículo 5° de la Ley de Protección Ambiental para el Estado de Aguascalientes el H. Ayuntamiento, a través de la Dirección de Desarrollo Urbano tienen las siguientes atribuciones:
 
 I. La creación, administración y manejo de áreas naturales protegidas de competencia municipal en coordinación con el Estado;
 
@@ -17207,7 +17401,9 @@ X. La realización de actividades de protección y control ambiental en coordina
 
 XI. Establecer centros de acopio, los cuales serán lugares cerrados instalados por el Municipio, destinados para la recepción, separación y almacenamiento de residuos no peligrosos para su posterior reuso, reciclaje o disposición final;
 
-XII. El fomento y la realización de programas y proyectos de educación ambiental en todos los sectores de la sociedad;
+> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2011)</small>
+
+XII. En coordinación con la Dirección de Servicios Públicos, el fomento y la realización de programas y proyectos de educación ambiental en todos los sectores de la sociedad;
 
 XIII. La realización, en coordinación con la Dirección de Servicios Públicos, de campañas de reforestación urbana y rural, congruentes con las del Estado y la Federación;
 
@@ -17231,7 +17427,9 @@ XXII. Promover la asistencia técnica a instituciones públicas y privadas y la 
 
 XXIII. Coordinar con los demás sectores y las entidades públicas y privadas el desarrollo de políticas de uso eficiente de la energía;
 
-XXIV. Promover el consumo eficiente de energéticos en zonas aisladas y remotas; y
+> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2011)</small>
+
+XXIV. Promover conjuntamente con la Dirección de Servicios Públicos, el consumo eficiente de energéticos en zonas aisladas y remotas; y
 
 XXV. Las demás que otorgue el presente Código y las leyes de la materia.
 
@@ -17241,9 +17439,9 @@ XXV. Las demás que otorgue el presente Código y las leyes de la materia.
 
 La realización de obras o actividades públicas o privadas que puedan causar desequilibrios ecológicos o rebasar los limites y condiciones señalados en los reglamentos y las normas ambientales emitidas por la Federación o el estado para proteger el ambiente, deberán sujetarse a la autorización previa del Gobierno Municipal en su caso del Estado o la Federación con base en las competencias señaladas por la Ley General de Equilibrio Ecológico y la Protección al Ambiente y la Ley de Protección Ambiental para el Estado de Aguascalientes.
 
-Para fines de dicha autorización, los interesados deberán presentar ante la Dirección General de Desarrollo Urbano, Ecología y Servicios Públicos una manifestación de impacto ambiental con la dictaminación correspondiente emitida por la Federación o el Estado.
+Para fines de dicha autorización, los interesados deberán presentar ante la Dirección de Desarrollo Urbano una manifestación de impacto ambiental con la dictaminación correspondiente emitida por la Federación o el Estado.
 
-Aquellas obras o actividades que por sus características y de acuerdo a las leyes antes señaladas, no requieran presentar manifiesto de impacto ambiental, deberán presentar un informe preventivo a la Dirección de Planeación Urbana, Rural y Ecología.
+Aquellas obras o actividades que por sus características y de acuerdo a las leyes antes señaladas, no requieran presentar manifiesto de impacto ambiental, deberán presentar un informe preventivo a la Dirección de Desarrollo Urbano.
 
 ###### ARTICULO 1631.
 
@@ -17251,7 +17449,9 @@ En la planeación ambiental del desarrollo municipal, se deben considerar los si
 
 I. El ordenamiento ecológico, entendido éste como el proceso de planeación dirigido a evaluar y programar el uso del suelo y el manejo de los recursos naturales del Municipio, y el impacto ambiental dentro del territorio del mismo;
 
-II. El H. Ayuntamiento a través de la Dirección General de Desarrollo Urbano, Ecología y Servicios Públicos, deberá considerar en el diseño y proyectos de los nuevos fraccionamientos y desarrollos habitacionales, aspectos e infraestructura que permitan incluir elementos ambientales tales como: árboles, áreas verdes, y similares de manera que no afecten a la infraestructura urbana, y por otro lado, aprovechar los elementos naturales para beneficio del entorno, es decir, el agua de lluvia para riego de áreas verdes, la radiación solar para el aprovechamiento de energía térmica, la vegetación para la creación de áreas verdes y similares; y
+> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2011)</small>
+
+II. El H. Ayuntamiento a través de la Dirección de Desarrollo Urbano, deberá considerar en el diseño y proyectos de los nuevos fraccionamientos y desarrollos habitacionales, aspectos e infraestructura que permitan incluir elementos ambientales tales como: árboles, áreas verdes, y similares de manera que no afecten a la infraestructura urbana, y por otro lado, aprovechar los elementos naturales para beneficio del entorno, es decir, el agua de lluvia para riego de áreas verdes, la radiación solar para el aprovechamiento de energía térmica, la vegetación para la creación de áreas verdes y similares; y
 
 III. Integrar el desarrollo y el crecimiento de las comunidades rurales del Municipio al entorno en el que se ubican, aplicando la infraestructura más adecuada a sus características y niveles de desarrollo, aprovechando al máximo los recursos económicos, humanos y naturales, evitando un desfasamiento entre las necesidades y peticiones de los habitantes con el tipo de obras proyectadas.
 
@@ -17287,19 +17487,21 @@ Los programas de manejo integral de las áreas naturales protegidas de competenc
 
 Las áreas naturales protegidas municipales a que se refiere el Artículo anterior se establecerán mediante declaratoria que expida el Ejecutivo del Estado a iniciativa del H. Ayuntamiento.
 
+> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 2011)</small>
+
 ###### ARTICULO 1636.
 
 Para la expedición de la declaratoria será necesario realizar previamente los estudios ambientales, ecológicos, socio-económicos y los demás que sean necesarios para fundamentar su declaratoria.
 
-Dichos estudios deberán ser realizados por la Dirección de Planeación Urbana, Rural y Ecología por sí o a través de terceros, en coordinación con las demás Dependencias de la Administración Municipal y en su caso con el apoyo del Estado y la Federación, así como la participación de las instituciones de educación superior y las asociaciones de profesionistas.
+Dichos estudios deberán ser realizados por la Dirección de Desarrollo Urbano por sí o a través de terceros, en coordinación con las demás Dependencias de la Administración Municipal y en su caso con el apoyo del Estado y la Federación, así como la participación de las instituciones de educación superior y las asociaciones de profesionistas.
 
-Una vez integrados debidamente los estudios a que se refiere el párrafo anterior y habiendo concertado con los habitantes y propietarios de las áreas que abarcará la declaratoria, la Dirección General en coordinación con la Comisión del Cabildo de la materia presentará la iniciativa al Cabildo del H. Ayuntamiento para su revisión y aprobación. En caso de ser aprobada por el H. Cabildo, el Ayuntamiento presentará la iniciativa al Ejecutivo del Estado para su análisis, gestión y aprobación.
+Una vez integrados debidamente los estudios a que se refiere el párrafo anterior y habiendo concertado con los habitantes y propietarios de las áreas que abarcará la declaratoria, la Dirección de Desarrollo Urbano en coordinación con la Comisión del Cabildo de la materia presentará la iniciativa al Cabildo del H. Ayuntamiento para su revisión y aprobación. En caso de ser aprobada por el H. Cabildo, el Ayuntamiento presentará la iniciativa al Ejecutivo del Estado para su análisis, gestión y aprobación.
 
 ### CAPITULO II. Definiciones
 
 ###### ARTICULO 1637.
 
-Para prevenir, controlar, reducir o evitar la contaminación de la atmósfera, el Municipio a través de la Dirección de Planeación Urbana, Rural y Ecología tendrá las siguientes facultades:
+Para prevenir, controlar, reducir o evitar la contaminación de la atmósfera, el Municipio a través de la Dirección de Desarrollo Urbano en coordinación con la Dirección de Servicios Públicos tendrá las siguientes facultades:
 
 I. Aplicar los criterios generales para la protección de la atmósfera en los planes de desarrollo urbano de su competencia, definiendo las zonas en que sea permitida la instalación de industrias;
 
@@ -17323,27 +17525,33 @@ La emisión de contaminantes a la atmósfera no deberá exceder los niveles máx
 
 Queda prohibido hacer fogatas o poner hornillas en la vía pública; quemar cohetes y llantas, o cualquier otro material contaminante en la vía pública.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE SEPTIEMBRE DE 2011)</small>
+
 ###### ARTICULO 1640.
 
-Se prohíbe y será materia de sanción el realizar quemas al aire libre de cualquier material o residuo, sólido o líquido o materia orgánica de origen vegetal, sin autorización previa y por escrito de la Dirección de Planeación Urbana, Rural y Ecología.
+Se prohíbe y será materia de sanción el realizar quemas al aire libre de cualquier material o residuo, sólido o líquido o materia orgánica de origen vegetal, sin autorización previa y por escrito de la Dirección (sic) Servicios Públicos.
 
-Cuando se pretenda realizar cualquier tipo de quema, se deberá de solicitar por escrito a la Dirección de Planeación Urbana, Rural y Ecología, la autorización que deberá contener la siguiente información:
+> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 2011)</small>
 
-l. Nombre y domicilio del solicitante;
+Cuando se pretenda realizar cualquier tipo de quema, se deberá de solicitar por escrito a la Dirección de Servicios Públicos, la autorización que deberá contener la siguiente información:
 
-II. Fecha, hora y lugar donde se pretende llevar a cabo la quema;
+a). Nombre y domicilio del solicitante;
 
-III. Propósito, fin, motivo o justificación de la quema;
+b). Fecha, hora y lugar donde se pretende llevar a cabo la quema;
 
-IV. Tipo de material o combustible a utilizar;
+c). Propósito, fin, motivo o justificación de la quema;
 
-V. Cantidad o volumen de material o combustible;
+d). Tipo de material o combustible a utilizar;
 
-VI. Tiempo aproximado de duración; y
+e). Cantidad o volumen de material o combustible;
 
-VII. Medidas de seguridad que determine la autoridad competente, la cual cumplirá el solicitante durante la actividad de la quema.
+f). Tiempo aproximado de duración; y
 
-La solicitud y la autorización respectiva serán por cada quema que se pretenda realizar. La Dirección de Planeación Urbana, Rural y Ecología autorizará la quema en los siguientes casos:
+g). Medidas de seguridad que determine la autoridad competente, la cual cumplirá el solicitante durante la actividad de la quema.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE SEPTIEMBRE DE 2011)</small>
+
+La solicitud y la autorización respectiva serán por cada quema que se pretenda realizar. La Dirección de Servicios Públicos autorizará la quema en los siguientes casos:
 
 I. Para acciones de adiestramiento y capacitación de personal encargado del combate de incendios;
 
@@ -17357,9 +17565,11 @@ V. Todas las demás que contemplen las Normas Oficiales Mexicanas correspondient
 
 El Municipio podrá autorizar, en el ámbito de su competencia, el uso de residuos como fuentes de combustible estableciendo las condicionantes y medidas de seguridad que deberán observarse.
 
-ARTICULO 1641 Se requerirá autorización de la Dirección de Planeación Urbana, Rural y Ecología para la instalación y funcionamiento de ladrilleras y alfarerías.
+> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 2011)</small>
 
-Para la autorización anterior el interesado deberá presentar solicitud de permiso de funcionamiento para ladrillera y/o alfarería en el formato que para tal fin emita la Dirección General y deberá ir acompañada del informe preventivo correspondiente y de la constancia de alineamiento y compatibilidad urbanística.
+ARTICULO 1641 Se requerirá autorización de la Dirección de Servicios Públicos para la instalación y funcionamiento de ladrilleras y alfarerías.
+
+Para la autorización anterior el interesado deberá presentar solicitud de permiso de funcionamiento para ladrillera y/o alfarería en el formato que para tal fin emita la Dirección de Servicios Públicos y deberá ir acompañada del informe preventivo correspondiente y de la constancia de alineamiento y compatibilidad urbanística.
 
 Sólo se autorizará la instalación de ladrilleras y/o alfarerías en los sitios que para tal fin haya designado el H. Ayuntamiento, en apego a la normatividad vigente.
 
@@ -17367,25 +17577,35 @@ El H. Ayuntamiento en coordinación con el Estado definirá los combustibles per
 
 Los productores de ladrillo y/o cerámica deberán instalar el equipo necesario, para prevenir y controlar la contaminación atmosférica.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE SEPTIEMBRE DE 2011)</small>
+
 ###### ARTICULO 1642.
 
-Para la operación y funcionamiento de las fuentes fijas que operen como establecimientos mercantiles o de servicios de jurisdicción municipal que emitan o puedan emitir olores, gases o partículas sólidas o liquidas a la atmósfera, se requerirá contar con permiso ambiental de funcionamiento emitido por la Dirección de Planeación Urbana, Rural y Ecología y cumplir además con las siguientes obligaciones:
+Para la operación y funcionamiento de las fuentes fijas que operen como establecimientos mercantiles o de servicios de jurisdicción municipal que emitan o puedan emitir olores, gases o partículas sólidas o liquidas a la atmósfera, se requerirá contar con permiso ambiental de funcionamiento emitido por la Dirección de Desarrollo Urbano y cumplir además con las siguientes obligaciones:
 
 I. Emplear equipos y sistemas que controlen las emisiones a la atmósfera, para que éstas no rebasen los niveles máximos permisibles establecidos en las Normas Oficiales Mexicanas;
 
-II. Integrar un inventario de sus emisiones contaminantes a la atmósfera, en el formato que determine la Dirección de Planeación Urbana, Rural y Ecología;
+> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2011)</small>
 
-III. Medir sus emisiones contaminantes a la atmósfera, conforme a lo establecido por las Normas Oficiales Mexicanas aplicables y registrar en el formato que determine la Dirección de Planeación Urbana, Rural y Ecología y remitir los registros a ésta, cuando se le solicite;
+II. Integrar un inventario de sus emisiones contaminantes a la atmósfera, en el formato que determine la Dirección de Desarrollo Urbano;
+
+> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2011)</small>
+
+III. Medir sus emisiones contaminantes a la atmósfera, conforme a lo establecido por las Normas Oficiales Mexicanas aplicables y registrar en el formato que determine la Dirección de Desarrollo Urbano y remitir los registros a ésta, cuando se le solicite;
 
 IV. Llevar a cabo el monitoreo perimetral de sus emisiones contaminantes a la atmósfera, cuando la fuente de que se trate se localice en zonas urbanas y suburbanas, cuando colinde con áreas naturales protegidas y cuando por sus características de operación o por sus materias primas, productos y subproductos, puedan causar grave deterioro al ambiente, a juicio de la Dirección de Planeación Urbana, Rural y Ecología;
 
 V. Llevar una bitácora de operación, mantenimiento de equipos y procesos que generen emisiones contaminantes y de los equipos de control de anticontaminantes; y
 
-VI. Dar aviso de inmediato a la Dirección de Planeación Urbana, Rural y Ecología en caso de falla del equipo de control, para que esta determine lo conducente.
+> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2011)</small>
+
+VI. Dar aviso de inmediato a la Dirección de Desarrollo Urbano en caso de falla del equipo de control, para que esta determine lo conducente.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE SEPTIEMBRE DE 2011)</small>
 
 ###### ARTICULO 1643.
 
-Para la obtención del permiso ambiental de funcionamiento, el interesado deberá presentar ante la Dirección de Planeación Urbana, Rural y Ecología, una solicitud conteniendo la siguiente información:
+Para la obtención del permiso ambiental de funcionamiento, el interesado deberá presentar ante la Dirección de Desarrollo Urbano, una solicitud conteniendo la siguiente información:
 
 a) Datos generales del promovente, anexando el croquis de localización;
 
@@ -17407,9 +17627,11 @@ i) Equipos o método de control de las emisiones con la descripción detallada; 
 
 j) Ductos de emisión e indicar altura y diámetro y especificar cuando las emisiones no sean conducidas por éstos.
 
+> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 2011)</small>
+
 ###### ARTICULO 1644.
 
-La Dirección de Planeación Urbana, Rural y Ecología, una vez presentada la solicitud e integrado el expediente completo, deberá emitir en un plazo de veinte días hábiles su resolución fundada y motivada, en la que autorice o niegue el permiso ambiental de funcionamiento.
+La Dirección de Desarrollo Urbano, una vez presentada la solicitud e integrado el expediente completo, deberá emitir en un plazo de veinte días hábiles su resolución fundada y motivada, en la que autorice o niegue el permiso ambiental de funcionamiento.
 
 ###### ARTICULO 1645.
 
@@ -17417,7 +17639,9 @@ El permiso ambiental de funcionamiento a que se refiere el Artículo anterior, d
 
 I. Los límites máximos permisibles de emisión por tipo de contaminante a que deberá de sujetarse la fuente emisora, cuando por sus características especiales de construcción o sus peculiaridades en los procesos que comprenden no puedan encuadrarse dentro de las Normas Oficiales Mexicanas;
 
-II. La periodicidad con que deberá remitirse a la Dirección de Planeación Urbana, Rural y Ecología el inventario de emisiones;
+> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2011)</small>
+
+II. La periodicidad con que deberá remitirse a la Dirección de Desarrollo Urbano el inventario de emisiones;
 
 III. La periodicidad con que deberá llevarse a cabo la medición y el monitoreo de emisiones;
 
@@ -17425,9 +17649,11 @@ IV. Las medidas y acciones que deberán llevarse a cabo en el caso de una contin
 
 V. Los equipos y el programa de reducción de emisiones contaminantes a la atmósfera.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE SEPTIEMBRE DE 2011)</small>
+
 ###### ARTICULO 1646.
 
-Corresponde al H. Ayuntamiento, a través del Organismo Operador de Agua del Municipio de San Francisco de los Romo, en coordinación con la Dirección General de Desarrollo Urbano, Ecología y Servicios Públicos y con la Dirección de Planeación Urbana, Rural y Ecología en materia de regulación, prevención y control de la contaminación del agua tendrán las siguientes facultades:
+Corresponde al H. Ayuntamiento, a través del Organismo Operador de Agua del Municipio de San Francisco de los Romo, en coordinación con las Direcciones de Desarrollo Urbano y de Servicios Públicos en materia de regulación, prevención y control de la contaminación del agua tendrán las siguientes facultades:
 
 I. Prevenir y controlar la contaminación de las descargas a cuerpos receptores de competencia municipal;
 
@@ -18229,7 +18455,7 @@ El permiso no deberá presentar raspaduras, enmendaduras o cualquier alteración
 
 ###### ARTICULO 1717.
 
-El comerciante, deberá renovar su credencial o gafete cada año, dentro de los tres primeros meses del año. Dirección (sic) de Servicios Públicos, deberá conceder dicha renovación siempre y cuando el comerciante haya cumplido con los requisitos que establece este Capítulo.
+El comerciante, deberá renovar su credencial o gafete cada año, dentro de los tres primeros meses del año. (sic) Dirección de Servicios Públicos, deberá conceder dicha renovación siempre y cuando el comerciante haya cumplido con los requisitos que establece este Capítulo.
 
 ###### ARTICULO 1718.
 
@@ -20616,3 +20842,13 @@ P.O. 30 DE AGOSTO DE 2010.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 12 DE SEPTIEMBRE DE 2011.
+
+PRIMERO. El presente Decreto de reformas entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO En tanto se hacen las adecuaciones legales a este Código, las referencias normativas a la Dirección General de Finanzas y Administración, se deberá entender como referidas a la Dirección de Finanzas y Administración; asimismo, las referencias normativas que se hacen a la Dirección de Mejora Regulatoria, Simplificación, Transparencia e Innovación en el Libro Cuarto, deberán entenderse como referidas a la Contraloría y Desarrollo Administrativo Municipal.
+
+TERCERO. Las referencias normativas que se hacen a la Dirección General de Desarrollo Urbano, Ecología y Servicios Públicos en los Libros Quinto y Noveno deberán entenderse como referidas a la Dirección de Servicios Públicos.
+
+CUARTO. Las referencias normativas que se hacen a la Dirección General de Desarrollo Urbano, Ecología y Servicios Públicos el Libro Octavo de este Código deberán entenderse como referidas a la Dirección de Desarrollo Urbano.
