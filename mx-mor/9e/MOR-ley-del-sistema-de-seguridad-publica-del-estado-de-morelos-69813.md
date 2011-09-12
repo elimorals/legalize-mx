@@ -4,7 +4,7 @@ identifier: "MOR-ley-del-sistema-de-seguridad-publica-del-estado-de-morelos-6981
 country: "mx"
 rank: "ley"
 publication_date: "2009-08-24"
-last_updated: "2010-08-18"
+last_updated: "2011-09-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69813&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DEL SISTEMA DE SEGURIDAD PUBLICA DEL ESTADO DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE AGOSTO DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE SEPTIEMBRE DE 2011.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el lunes 24 de agosto de 2009.
 
@@ -1247,7 +1247,7 @@ El ingreso es el procedimiento de integración de los candidatos a la estructura
 
 La permanencia es el resultado del cumplimiento constante de los requisitos establecidos en la presente ley para continuar en el servicio activo de las instituciones policiales.
 
-(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE AGOSTO DE 2010) (F. DE E., P.O. 25 DE AGOSTO DE 2010) (F. DE E., P.O. 8 DE SEPTIEMBRE DE 2010)
+(REFORMADO PRIMER PARRAFO, P.O. 18 DE AGOSTO DE 2010) (F. DE E., P.O. 25 DE AGOSTO DE 2010) (F. DE E., P.O. 8 DE SEPTIEMBRE DE 2010)
 
 ###### Artículo 82.
 
@@ -1853,11 +1853,27 @@ En las labores diarias de vigilancia y patrullaje se buscará una distribución 
 
 Las policías preventivas estatales y municipales podrán desarrollar operativos de vigilancia y patrullaje para detener en flagrancia, mediante el uso de los medios idóneos para tal fin, a quien cometa conductas antisociales o delitos.
 
-### CAPÍTULO I. DEL PROGRAMA ESTATAL DE SEGURIDAD PÚBLICA
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 12 DE SEPTIEMBRE DE 2011)</small>
+
+### CAPÍTULO VI. DEL SISTEMA DE PREVENCIÓN Y ERRADICACIÓN DEL DELITO DE LA TRATA DE PERSONAS
+
+> <small>(ADICIONADO, P.O. 12 DE SEPTIEMBRE DE 2011)</small>
+
+###### Articulo 130-A.
+
+Con el objeto de establecer el Sistema de Prevención, Combate, Protección, Atención y Asistencia a las Víctimas del delito indicado por el artículo 148 bis del Código Penal vigente en la entidad, garantizándoles a éstas el respeto a su derecho a la libertad y la dignidad o de quienes podrían convertirse en víctimas, trátese de residentes o trasladadas al territorio del estado de Morelos, las autoridades que constituyen al Consejo Estatal de Seguridad Pública en términos del artículo 9 de la presente Ley, en el ámbito de sus respectivas atribuciones tienen la obligación de coordinarse para perseguir el delito de trata de personas, realizando las investigaciones y acciones necesarias para sancionar a los responsables, brindar atención y protección a los sujetos pasivos y, fundamentalmente, para prevenir la comisión del delito mediante el desarrollo de programas y acciones permanentes.
+
+> <small>(ADICIONADO, P.O. 12 DE SEPTIEMBRE DE 2011)</small>
+
+###### Artículo 130-B.
+
+El Consejo Estatal de Seguridad Pública, conformará en los términos del artículo 14 de la presente Ley, una comisión permanente cuyo propósito será promover, proponer y concertar acciones en la Entidad que prevengan, combatan y procuren la sanción de la trata de personas y de todos los medios que le asisten a su perpetración.
+
+> <small>(ADICIONADO, P.O. 12 DE SEPTIEMBRE DE 2011)</small>
 
 ## TÍTULO NOVENO. DE LA PLANEACIÓN
 
-### CAPÍTULO II. DE LOS PROGRAMAS MUNICIPALES
+### CAPÍTULO I. DEL PROGRAMA ESTATAL DE SEGURIDAD PÚBLICA
 
 ###### Artículo 131.
 
@@ -1870,6 +1886,94 @@ II. Establecer los mecanismos para combatir las causas generadoras de insegurida
 III. Desarrollar las operaciones de una manera organizada, racional y eficiente; y
 
 IV. Facilitar la rendición de cuentas y la evaluación del sistema estatal.
+
+###### Articulo 131
+
+C (SIC).- En la conformación de esta Comisión, el Consejo Estatal deberá garantizar que la misma contará con los representantes de las dependencias de la administración pública estatal, del Congreso del Estado y del Tribunal Superior de Justicia y de los especialistas, académicos y representes de la sociedad, suficientes para cumplir con los cometidos siguientes:
+
+I. Elaborar los estudios para conformar un diagnóstico anual acerca de la situación de la trata de personas en el Estado;
+
+II. Proponer al Consejo Estatal el diseño de programas para contrarrestar la trata de personas en Morelos;
+
+III. Diseñar y proponer campañas para la prevención de la trata de personas;
+
+IV. Recomendar la expedición o adecuación de normas en materia de trata de personas, a las autoridades estatales y municipales;
+
+V. Evaluar el cumplimiento de los objetivos y metas de los programas destinados a combatir y contrarrestar la trata de personas;
+
+VI. Sugerirle al Consejo Estatal acciones de coordinación interinstitucional para prevenir, combatir y sancionar la trata de personas;
+
+VII. Concertar la cooperación de organizaciones no gubernamentales y de la sociedad civil en la prevención y erradicación de la trata de personas, vinculándolas a través del Secretario Ejecutivo con el Consejo Estatal;
+
+VIII. Promover con la intervención del Secretario Ejecutivo y del Consejo Estatal, la celebración de convenios de colaboración interinstitucional y de coordinación con otras entidades federativas, así como con los municipios, en relación con la seguridad, internación, tránsito o destino de las víctimas del delito de trata de personas, con el propósito de proteger sus derechos, orientarlas, atenderlas y, en su caso, asistirlas en el regreso a su lugar de residencia, así como para prevenir este delito y sancionar a quienes intervengan o participen en él;
+
+IX. Promover con apoyo del Secretario Ejecutivo y el Consejo Estatal, la investigación científica y el intercambio de experiencias entre organismos e instituciones a nivel nacional e internacional, incluyendo organizaciones de la sociedad civil, vinculadas con la prevención, protección y atención a las víctimas de la trata de personas;
+
+X. Recopilar, con la ayuda de instituciones y organismos pertinentes, los datos estadísticos relativos a la incidencia delictiva en materia de trata de personas, con la finalidad de utilizarlos en la toma de decisiones y para la elaboración de los programas en la materia. Dicha información deberá contener:
+
+a. El número de detenciones, procesos judiciales y sentencias condenatorias en el que estén involucrados tratantes de personas;
+
+b. El numero de víctimas de trata de personas, su sexo, estado civil, edad, nacionalidad, modalidad de victimización, y en su caso, calidad migratoria.
+
+XI. Elaborar esquemas que someta a la consideración del Consejo Estatal, de cómo propiciar una adecuada comunicación y colaboración con otros órganos colegiados de la Federación, las Entidades Federativas y el Distrito Federal, con facultades para combatir y erradicar la trata de personas;
+
+XII. Fungir como órgano asesor de los tres poderes públicos del Estado de en materia de trata de personas; y
+
+XIII. Las demás que el Consejo Estatal le atribuya para cumplir cabalmente con su propósito.
+
+> <small>(ADICIONADO, P.O. 12 DE SEPTIEMBRE DE 2011)</small>
+
+###### Artículo 131
+
+D (SIC).- El Consejo Estatal en materia de trata de personas, además de las atribuciones que tiene enunciadas en el artículo 15 de la presente Ley, tendrá en materia de política de prevención y protección a las víctimas de la trata de personas, las siguientes:
+
+XIV.(SIC) Sensibilizar a la población mediante la divulgación de material referente al delito de trata de personas y los derechos de las víctimas;
+
+XV. Proponer medidas educativas, sociales, culturales y de cualquier otra Índole para desalentar la demanda que propicia cualquier forma de explotación relacionada con la trata de personas, señalando las repercusiones que el delito conlleva;
+
+XVI. Realizar campañas de información acerca de los métodos utilizados por los responsables del delito de trata de personas para captar o reclutar a las víctimas;
+
+XVII. Informar sobre los riesgos a la salud que sufren las víctimas de trata de personas;
+
+XVIII. Fomentar la participación ciudadana y la solidaridad, a fin de reducir los factores de vulnerabilidad de las personas;
+
+XIX. Promover la cultura de la denuncia como un factor indispensable en la lucha contra el crimen organizado, la impunidad y la aceptación, social del delito; y
+
+XX. Las demás que considere necesarias para la prevención del delito de trata de personas.
+
+> <small>(ADICIONADO, P.O. 12 DE SEPTIEMBRE DE 2011)</small>
+
+###### Articulo 131
+
+E (SIC).-. Las autoridades y dependencias que integran al Consejo Estatal de Seguridad Pública, con el objeto de procurarles a las víctimas del delito de trata de personas la restitución de sus derechos y dignidad, dentro de la esfera de competencia de cada una, garantizarán a los sujetos pasivos de este delito lo siguiente:
+
+I. Proporcionarles información, asesoramiento en su idioma o lengua materna sobre sus derechos y el proceso de los trámites judiciales y administrativos, de manera gratuita y expedita, acorde a su edad y madurez;
+
+II. Otorgarles pronta atención médica y psicológica;
+
+III. Brindarles un trato respetuoso acorde a su integridad y garantizarles el ejercicio pleno de sus derechos, tomando en cuenta su edad, especialmente cuando se trate de menores de dieciocho años;
+
+IV. Ordenar las medidas necesarias para garantizar la integridad física y psicológica de las víctimas;
+
+V. Proteger y tutelar su identidad y la de su familia;
+
+VI. Permitirles su estancia en el país de conformidad con la legislación aplicable;
+
+VII. Facilitarles el retorno al lugar en el que tuvieran su domicilio; y
+
+VIII. Las demás que se precisen necesarias para restituirles el ejercicio pleno de todos sus derechos humanos.
+
+> <small>(ADICIONADO, P.O. 12 DE SEPTIEMBRE DE 2011)</small>
+
+###### Artículo 131
+
+F (SIC).- Cuando el Consejo Estatal conozca de asuntos relacionados con la trata de personas, se incorporarán a él los siguientes legisladores al Congreso del Estado de Morelos:
+
+a. El que presida la Comisión de Grupos Indígenas;
+
+b. El que presida la Comisión de Equidad de Género; y
+
+c. El que presida la Comisión de Migración.
 
 ###### Artículo 132.
 
@@ -1925,7 +2029,7 @@ Los elementos de la instancia jerárquica inferior darán acuse de recibo sobre 
 
 El incumplimiento reiterado de las metas programáticas parciales o finales, será causal de responsabilidad para los integrantes de las instituciones de seguridad pública en todos sus niveles jerárquicos, conforme corresponda a la Ley de Responsabilidades.
 
-### CAPÍTULO I. DEL CENTRO ESTATAL DE ANÁLISIS DE INFORMACION SOBRE SEGURIDAD PÚBLICA
+### CAPÍTULO II. DE LOS PROGRAMAS MUNICIPALES
 
 ###### Artículo 138.
 
@@ -1935,7 +2039,7 @@ Dichos programas deberán ser congruentes con las políticas, planes y programas
 
 ## TÍTULO DÉCIMO. DE LA INFORMACIÓN ESTATAL SOBRE SEGURIDAD PÚBLICA
 
-### CAPÍTULO II. DE LA INFORMACIÓN Y ESTADÍSTICA DEL CENTRO ESTATAL DE ANÁLISIS DE INFORMACIÓN SOBRE SEGURIDAD PÚBLICA
+### CAPÍTULO I. DEL CENTRO ESTATAL DE ANÁLISIS DE INFORMACION SOBRE SEGURIDAD PÚBLICA
 
 ###### Artículo 139.
 
@@ -1971,7 +2075,7 @@ En caso de que un Presidente Municipal requiera información sobre seguridad pú
 
 El Consejo de Información Clasificada de la Secretaría, determinará la información que deba ser clasificada como pública, reservada o confidencial.
 
-### CAPÍTULO III. DE LOS REGISTROS DE SEGURIDAD PÚBLICA
+### CAPÍTULO II. DE LA INFORMACIÓN Y ESTADÍSTICA DEL CENTRO ESTATAL DE ANÁLISIS DE INFORMACIÓN SOBRE SEGURIDAD PÚBLICA
 
 ###### Artículo 144.
 
@@ -2083,7 +2187,7 @@ Dicha información podrá ser utilizada para generar indicadores de medición de
 
 Por lo que respecta al Tribunal Superior de Justicia están obligados a proporcionar al Centro Estatal, datos sobre imputados presentados, incidentes de libertad y autos de formal prisión e información sobre las sentencias absolutorias y condenatorias, así como las confirmadas y revocadas que hubiesen sido recurridas en juicio de amparo.
 
-### CAPÍTULO IV. DEL REGISTRO NACIONAL DEL PERSONAL EN SEGURIDAD PÚBLICA
+### CAPÍTULO III. DE LOS REGISTROS DE SEGURIDAD PÚBLICA
 
 ###### Artículo 149.
 
@@ -2093,7 +2197,7 @@ En el Estado el responsable de la operación y seguimiento de los registros naci
 
 La Secretaría entregará un informe de los avances y nivel de actualización de los registros de las instituciones de seguridad pública al Secretariado Ejecutivo para hacerlo del conocimiento del Consejo Estatal.
 
-### CAPÍTULO V. DEL REGISTRO NACIONAL DE ARMAMENTO Y EQUIPO
+### CAPÍTULO IV. DEL REGISTRO NACIONAL DEL PERSONAL EN SEGURIDAD PÚBLICA
 
 ###### Artículo 150.
 
@@ -2105,7 +2209,7 @@ Cuando a los integrantes de las instituciones de seguridad pública, o auxiliare
 
 Los titulares de las instituciones de seguridad pública, deberán llevar a cabo una consulta previa a las bases de datos Nacional y Estatal, del personal aspirante a ingresar a alguna institución de seguridad pública, con la finalidad de mantener el orden y el control de personas aspirantes que no reúnan los perfiles para formar parte de las instituciones de seguridad pública.
 
-### CAPÍTULO I. DE LA REMOCION POLICIAL
+### CAPÍTULO V. DEL REGISTRO NACIONAL DE ARMAMENTO Y EQUIPO
 
 ###### Artículo 152.
 
@@ -2143,7 +2247,7 @@ El incumplimiento de las disposiciones de este capítulo, dará lugar a que la p
 
 ## TÍTULO DÉCIMO PRIMERO. DE LA REMOCIÓN DE LA RELACIÓN ADMINISTRATIVA POLICIAL
 
-### CAPÍTULO III. DE LOS CONSEJOS DE HONOR Y JUSTICIA
+### CAPÍTULO I. DE LA REMOCION POLICIAL
 
 ###### Artículo 159.
 
@@ -2209,7 +2313,7 @@ CAPÍTULO (SIC)
 
 DE LA VISITADURÍA GENERAL Y LAS UNIDADES DE ASUNTOS INTERNOS DE LAS INSTITUCIONES DE SEGURIDAD PÚBLICA
 
-### CAPÍTULO l. DE LA QUEJA
+### CAPÍTULO III. DE LOS CONSEJOS DE HONOR Y JUSTICIA
 
 ###### Artículo 162.
 
@@ -2313,7 +2417,7 @@ En aquellos casos que con motivo de su actuación, la Unidad de Asuntos Internos
 
 La Visitaduría General y las Unidades de Asuntos Internos, ejecutarán las resoluciones que tome el Consejo de Honor y Justicia y notificarán al elemento en proceso, y una vez que queden firmes, vigilarán y se coordinarán con las áreas administrativas y operativas correspondientes en lo relativo a la suspensión ó destitución, descuentos de adeudos, resguardos e inventario de equipo, inscripción en el Sistema Nacional de Personal de Seguridad Pública y otras medidas conducentes, su incumplimiento dará lugar a las sanciones previstas por la Ley Estatal de Responsabilidades.
 
-### CAPÍTULO II. DE LA RECLAMACIÓN
+### CAPÍTULO l. DE LA QUEJA
 
 ###### Artículo 176.
 
@@ -2373,7 +2477,7 @@ Para los efectos de práctica de diligencia, audiencia y notificaciones se consi
 
 ## TÍTULO DÉCIMO SEGUNDO. DE LOS RECURSOS EN EL PROCEDIMIENTO ADMINISTRATIVO
 
-### CAPÍTULO III. DEL RECURSO DE REVISIÓN
+### CAPÍTULO II. DE LA RECLAMACIÓN
 
 ###### Artículo 183.
 
@@ -2393,15 +2497,13 @@ El Presidente del Consejo de Honor y Justicia, tan pronto como reciba la queja, 
 
 En caso de declararse procedente la queja, la resolución que así lo determine fijará los lineamientos a que debe someterse la autoridad para debido cumplimiento a la misma.
 
-### CAPÍTULO IV. DEL RECURSO DE RECTIFICACIÓN
+### CAPÍTULO III. DEL RECURSO DE REVISIÓN
 
 ###### Artículo 185.
 
 El recurso de reclamación procede en contra del acuerdo dictado por el titular de la Unidad de Asuntos Internos respectiva, en el que se desechen las pruebas ofrecidas durante el procedimiento.
 
-### CAPÍTULO I. DISPOSICIONES GENERALES
-
-> <small>(REFORMADO, P.O. 16 DE OCTUBRE DE 2009)</small>
+### CAPÍTULO IV. DEL RECURSO DE RECTIFICACIÓN
 
 ###### Artículo 186.
 
@@ -2423,7 +2525,9 @@ Concluido el período probatorio en su caso, la autoridad resolverá dentro de l
 
 No procederá el Recurso de Revisión, contra un cambio de adscripción decretado en razón de las necesidades del servicio y que no tenga el carácter de sanción.
 
-### CAPÍTULO ÚNICO
+### CAPÍTULO I. DISPOSICIONES GENERALES
+
+> <small>(REFORMADO, P.O. 16 DE OCTUBRE DE 2009)</small>
 
 ###### Artículo 191.
 
@@ -2512,6 +2616,8 @@ XVII. Aprovechar la posición que su cargo o comisión le confiere para inducir 
 XVIII. Las que señalen otros ordenamientos jurídicos aplicables.
 
 ## TÍTULO DÉCIMO CUARTO. DE LA PRESCRIPCIÓN
+
+### CAPÍTULO ÚNICO
 
 ###### Artículo 200.
 
@@ -2662,3 +2768,11 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO TERCERO.
 
 Se derogan todas las disposiciones de igual o menor rango que se opongan al presente Decreto.
+
+P.O. 12 DE SEPTIEMBRE DE 2011.
+
+Primero.- Aprobado que sea el presente decreto túrnese al titular del Poder Ejecutivo para su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión del Gobierno del estado de Morelos.
+
+Segundo.- Este decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”.
+
+Tercero.- La comisión permanente que el Consejo Estatal de Seguridad Pública debe conformar en términos del artículo 14 de la Ley del Sistema de Seguridad Pública del Estado de Morelos, por virtud de lo establecido en el artículo 130-B, adicionado en ese ordenamiento por efecto del presente decreto, habrá de ser establecida para iniciar sus labores a más tardar en cuarenta y cinco días hábiles contados a partir de la entrada en vigor de esta reforma.
