@@ -4,7 +4,7 @@ identifier: "MOR-codigo-penal-para-el-estado-de-morelos-6539"
 country: "mx"
 rank: "codigo"
 publication_date: "1996-10-09"
-last_updated: "2011-09-01"
+last_updated: "2011-09-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6539&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 CODIGO PENAL PARA EL ESTADO DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE SEPTIEMBRE DE 2011.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE SEPTIEMBRE DE 2011.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Morelos, el miércoles 9 de octubre de 1996.
 
@@ -1851,13 +1851,21 @@ Si el autor de la extorsión obtiene lo que se propuso, la sanción se aumentar�
 
 ### CAPITULO VII. TRATA DE PERSONAS
 
-> <small>(ADICIONADO, P.O. 9 DE JULIO DE 2008)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE SEPTIEMBRE DE 2011)</small>
 
 ###### ARTICULO 148 Bis.
 
-Comete el delito de trata de personas quien para sí o para un tercero, induzca, procure, promueva, capte, reclute, facilite, traslade, consiga, ofrezca, mantenga, entregue o reciba a una persona recurriendo a la coacción física o moral, a la privación de la libertad, al engaño, al abuso de poder, al aprovechamiento de una situación de vulnerabilidad o a la concesión o recepción de pagos o beneficios para someterla a explotación.
+Comete el delito de trata de personas quien capte, reclute, induzca, procure, facilite, consiga, promueva, mantenga, acoja, favorezca, retenga, transporte, permita, solicite, ofrezca, traslade, entregue o reciba, para sí o para un tercero, a una o más personas, recurriendo a la coacción física o moral, a la privación de la libertad, a la seducción, al engaño, al abuso de poder o de una situación de vulnerabilidad o la concesión o recepción de pagos o beneficios, con fines de explotación.
+
+> <small>(ADICIONADO, P.O. 12 DE SEPTIEMBRE DE 2011)</small>
+
+Este delito se investigará, perseguirá y sancionará de oficio siempre que se inicie, prepare o cometa en el territorio de la Entidad, independientemente del lugar donde se produzcan o se pretenda que se produzcan sus efectos. También se perseguirá, investigará y sancionará por las autoridades estatales el delito que tenga efectos o se pretenda que tenga efectos en el Estado, independientemente que se inicie, prepare o cometa fuera o al interior de la misma Entidad.
+
+> <small>(ADICIONADO, P.O. 9 DE JULIO DE 2008)</small>
 
 Para efectos de este artículo se entenderá por explotación el obtener provecho económico o cualquier otro beneficio para sí o para otra persona, mediante la prostitución ajena u otras formas de aprovechamiento sexual, los trabajos o servicios forzados, la esclavitud, la servidumbre o para extraer sus órganos, tejidos o sus componentes.
+
+> <small>(ADICIONADO, P.O. 9 DE JULIO DE 2008)</small>
 
 Cuando las conductas anteriores recaigan en una persona menor de dieciocho años de edad o persona que no tenga la capacidad de comprender, el significado del hecho, se considerará como trata de personas incluso cuando no se recurra a ninguno de los medios señalados en el
 
@@ -1866,6 +1874,20 @@ primer párrafo del presente artículo.
 > <small>(ADICIONADO, P.O. 1 DE SEPTIEMBRE DE 2011)</small>
 
 La persona que contrate publicidad por cualquier medio de comunicación, así como la persona que publique anuncios que encuadren en alguna de las conductas del delito de trata de personas, será sancionada conforme a lo dispuesto en el artículo 148 ter de este Código.
+
+> <small>(ADICIONADO, P.O. 12 DE SEPTIEMBRE DE 2011)</small>
+
+Comete este delito quien haga uso de servicios sexuales de un menor de dieciocho años de edad, a cambio de una retribución en dinero o en especie.
+
+> <small>(ADICIONADO, P.O. 12 DE SEPTIEMBRE DE 2011)</small>
+
+Las víctimas no podrán ser procesadas, detenidas o sancionadas por el delito de trata del que fueron víctimas, ni por la entrada ilegal en el país, en su caso. Las víctimas tendrán derecho a interponer las acciones civiles correspondientes, derivadas del delito de trata de personas.
+
+> <small>(ADICIONADO, P.O. 12 DE SEPTIEMBRE DE 2011)</small>
+
+El careo entre el presunto agresor y la víctima de trata menor de dieciocho años de edad deberá realizarse a través del uso de la cámara de (sic).
+
+> <small>(ADICIONADO, P.O. 9 DE JULIO DE 2008)</small>
 
 El consentimiento otorgado por la víctima en cualquier modalidad del delito de trata de personas no constituirá causa que excluye el delito.
 
@@ -4430,3 +4452,11 @@ DECRETO NUMERO 1266 MEDIANTE EL CUAL SE REFORMA EL ARTICULO 238 DEL CODIGO PENAL
 Primero. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial Tierra y Libertad.
 
 Segundo. Se deroga toda disposición legal y reglamentaria que se opongan (sic) al presente decreto.
+
+P.O. 12 DE SEPTIEMBRE DE 2011.
+
+Primero.- Aprobado que sea el presente decreto túrnese al titular del Poder Ejecutivo para su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del estado de Morelos.
+
+Segundo.- Este decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad".
+
+Tercero.- La comisión permanente que el Consejo Estatal de Seguridad Pública debe conformar en términos del artículo 14 de la Ley del Sistema de Seguridad Pública del Estado de Morelos, por virtud de lo establecido en el artículo 130-B, adicionado en ese ordenamiento por efecto del presente decreto, habrá de ser establecida para iniciar sus labores a más tardar en cuarenta y cinco días hábiles contados a partir de la entrada en vigor de esta reforma.
