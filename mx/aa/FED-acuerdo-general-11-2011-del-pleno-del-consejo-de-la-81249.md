@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-11-2011-del-pleno-del-consejo-de-la-81249"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2011-05-12"
-last_updated: "2011-07-14"
+last_updated: "2011-09-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81249&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2011-05-03"
 
 ACUERDO GENERAL 11/2011, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DETERMINACION DEL NUMERO Y LIMITES TERRITORIALES DE LOS CIRCUITOS EN QUE SE DIVIDE LA REPUBLICA MEXICANA; Y AL NUMERO, A LA JURISDICCION TERRITORIAL Y ESPECIALIZACION POR MATERIA DE LOS TRIBUNALES COLEGIADOS Y UNITARIOS DE CIRCUITO Y DE LOS JUZGADOS DE DISTRITO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 14 DE JULIO DE 2011.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 13 DE SEPTIEMBRE DE 2011.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el jueves 12 de mayo de 2011.
 
@@ -701,7 +701,9 @@ QUINTO. Se contará con:
 
 6. El Centro Auxiliar de la Sexta Región, con residencia en Chihuahua, Chihuahua, el cual se integrará por un tribunal colegiado de Circuito Auxiliar, un tribunal unitario de Circuito Auxiliar y un juzgado de Distrito Auxiliar.
 
-7. El Centro Auxiliar de la Séptima Región, con residencia en Acapulco, Guerrero, se integrará por un tribunal colegiado de Circuito Auxiliar, un tribunal unitario de Circuito Auxiliar y tres juzgados de Distrito Auxiliares.
+> <small>(REFORMADO POR EL PUNTO UNICO DEL ACUERDO GENERAL 27/2011, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 13 DE SEPTIEMBRE DE 2011)</small>
+
+7. El Centro Auxiliar de la Séptima Región, con residencia en Acapulco, Guerrero, se integrará por un tribunal colegiado de Circuito Auxiliar, un tribunal unitario de Circuito Auxiliar y cuatro juzgados de Distrito Auxiliares.
 
 8. El Centro Auxiliar de la Octava Región, con residencia en Cancún, Quintana Roo, se integrará por dos tribunales colegiados de Circuito Auxiliares y dos juzgados de Distrito Auxiliares.
 
@@ -758,3 +760,11 @@ PRIMERO. El presente acuerdo entrará en vigor el día de su aprobación.
 SEGUNDO. Publíquese este acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
 
 TERCERO. La Secretaría Ejecutiva de Vigilancia, Información y Evaluación, deberá integrar de inmediato el texto de esta reforma, al Acuerdo General 11/2011, del Pleno del Consejo de la Judicatura Federal, relativo a la determinación del número y límites territoriales de los circuitos en que se divide la República Mexicana; y al número, a la jurisdicción territorial y especialización por materia de los Tribunales Colegiados y Unitarios de Circuito y de los Juzgados de Distrito.
+
+D.O.F. 13 DE SEPTIEMBRE DE 2011.
+
+PRIMERO. El presente acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO. Publíquese este acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+
+TERCERO. La Secretaría Ejecutiva de Vigilancia, Información y Evaluación, deberá integrar de inmediato el texto de esta reforma, al Acuerdo General 54/2008, del Pleno del Consejo de la Judicatura Federal, por el que se crea el Centro Auxiliar de la Séptima Región, con residencia en Acapulco, Guerrero, así como los órganos jurisdiccionales que lo integrarán; además, al Acuerdo General 11/2011 del Pleno del Consejo de la Judicatura Federal, relativo a la determinación del número y límites territoriales de los Circuitos en que se divide la República Mexicana; y al número, a la jurisdicción territorial y especialización por materia de los Tribunales Colegiados y Unitarios de Circuito y de los Juzgados de Distrito.
