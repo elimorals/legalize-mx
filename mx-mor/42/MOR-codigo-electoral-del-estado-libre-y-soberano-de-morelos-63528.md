@@ -4,7 +4,7 @@ identifier: "MOR-codigo-electoral-del-estado-libre-y-soberano-de-morelos-63528"
 country: "mx"
 rank: "codigo"
 publication_date: "2008-10-02"
-last_updated: "2011-07-05"
+last_updated: "2011-09-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=63528&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 CODIGO ELECTORAL DEL ESTADO LIBRE Y SOBERANO DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE JULIO DE 2011.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE SEPTIEMBRE DE 2011.
 
 Código publicado en el Periódico Oficial del Estado de Morelos, el jueves 2 de octubre de 2008.
 
@@ -857,15 +857,21 @@ Los informes que presenten los partidos políticos; así como las auditorías y 
 
 ### CAPÍTULO III. DE LA PROPAGANDA ELECTORAL
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE SEPTIEMBRE DE 2011)</small>
+
 ###### ARTÍCULO 69.
 
-Los partidos políticos durante sus precampañas y campañas político-electorales, podrán realizar actos de propaganda sobre las siguientes bases:
+Los partidos políticos durante sus precampañas y campañas político-electorales, podrán realizar actos de propaganda electoral sobre las siguientes bases:
 
 I. Se sujetarán a los términos y procedimientos que dicten los organismos electorales, en todo lo relativo a la fijación de su propaganda en los lugares de uso común o de acceso público;
 
-II. No podrán pintar y fijar propaganda en:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE SEPTIEMBRE DE 2011)</small>
 
-a) Árboles, pavimento de calles, calzadas, carreteras, centros históricos, aceras, guarniciones, parques y jardines o plazas públicas;
+II. No podrán pintar fijar o colgar propaganda en:
+
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2011)</small>
+
+a) Postes de energía eléctrica o de telefonía, puentes, semáforos y en lugares considerados turísticos, árboles, pavimento de calles, calzadas, carreteras, centros históricos, aceras, guarniciones, parques y jardines o plazas públicas;
 
 b) Monumentos históricos o artísticos, edificios públicos, zonas arqueológicas o históricas;
 
@@ -873,15 +879,39 @@ c) En edificios, terrenos y obras de propiedad particular, sin la autorización 
 
 d) En cerros, piedras, barrancas, colinas y demás accidentes geográficos;
 
+> <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 2011)</small>
+
+Para efecto de determinar cuáles son considerados lugares turísticos, se estará a lo dispuesto en el artículo 77 fracción III. La lista de lugares turísticos en cada municipio será publicada en el órgano de información y página web del municipio correspondiente.
+
 III. Se prohíbe el empleo de símbolos, distintivos, signos, emblemas, figuras con motivos religiosos o raciales;
 
 IV. Se prohíben las expresiones verbales escritas contrarias a la moral y a las buenas costumbres, o que injurien a las autoridades, a los demás partidos políticos, o que tiendan a incitar a la violencia y al desorden;
+
+(NOTA: EL 24 DE NOVIEMBRE DE 2011, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO CUARTO Y EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 28/2011, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN IV, SEGUNDO PÁRRAFO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 25 DE NOVIEMBRE DE 2011 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+> <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 2011)</small>
+
+EL CONSEJO ESTATAL ELECTORAL DEL INSTITUTO ESTÁ FACULTADO PARA ORDENAR, UNA VEZ SATISFECHOS LOS PROCEDIMIENTOS ESTABLECIDOS EN ESTE CÓDIGO, LA SUSPENSIÓN INMEDIATA DE LOS MENSAJES EN RADIO O TELEVISIÓN CONTRARIOS A ESTA NORMA.
 
 V. Se prohíbe la destrucción o alteración de la propaganda que en apoyo de sus candidatos hubieren fijado, pintado o instalado los partidos políticos, exceptuándose de esta prohibición a los propietarios de edificios, terrenos, o de obras que no hayan otorgado su consentimiento para ello, recurriendo al Consejo Estatal Electoral para obtener la autorización correspondiente.
 
 VI. Se prohíbe a las empresas comerciales de bailes populares y eventos similares que fijen publicidad sobre la propaganda de los partidos políticos.
 
-VII. En toda propaganda que realicen los partidos políticos para la elección de sus candidatos o dirigentes internos, deberán utilizar material reciclable.
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2011)</small>
+
+VII. En toda propaganda que realicen los partidos políticos para la elección de sus candidatos o dirigentes internos, deberán utilizar material reciclable de fácil degradación natural por lo que, solo podrán usar material plástico reciclable en la propaganda electoral impresa pertenecientes al grupo de los “termoplásticos” para facilitar el reciclado, la propaganda debe incluir impreso el símbolo internacional de material reciclable.
+
+La propaganda deberá ser retirada por los partidos políticos dentro de los 3 días siguientes al día de la elección y en caso de no hacerlo, el Consejo Estatal Electoral ordenará su retiro con cargo a las prerrogativas de los partidos políticos.
+
+Se entiende por propaganda electoral el conjunto de escritos, publicaciones, imágenes, grabaciones, spots radiofónicos y de televisión, proyecciones y expresiones que durante la precampaña o campaña electoral producen y difunden los partidos políticos, los candidatos registrados y sus simpatizantes, con el propósito de presentar ante la ciudadanía las candidaturas registradas.
+
+> <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 2011)</small>
+
+ARTÍCULO 69 BIS.- Los partidos políticos, los precandidatos y candidatos podrán ejercer el derecho de réplica que establece el primer párrafo del artículo 6 de la Constitución respecto de la información que presenten los medios de comunicación, cuando consideren que la misma ha deformado hechos o situaciones referentes a sus actividades.
+
+Este derecho se ejercitará sin perjuicio de aquellos correspondientes a las responsabilidades o al daño moral que se ocasionen en términos de la ley que regule la materia de imprenta y de las disposiciones civiles y penales aplicables.
+
+El derecho a que se refiere el párrafo anterior se ejercerá en la forma y términos que determine la ley de la materia.
 
 ###### ARTÍCULO 70.
 
@@ -4494,3 +4524,13 @@ Aprobado que sea el presente, remítase para su publicación en el Periódico Of
 ###### ARTICULO SEGUNDO.
 
 Se derogan todas aquellas disposiciones que contravengan en lo dispuesto al presente decreto.
+
+P.O. 13 DE SEPTIEMBRE DE 2011.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial Tierra y Libertad.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan a este decreto.
