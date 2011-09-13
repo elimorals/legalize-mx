@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-desarrollo-social-para-el-distrito-federal-16245"
 country: "mx"
 rank: "ley"
 publication_date: "2000-05-23"
-last_updated: "2009-02-11"
+last_updated: "2011-09-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16245&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2000-04-24"
 
 LEY DE DESARROLLO SOCIAL PARA EL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 11 DE FEBRERO DE 2009.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 13 DE SEPTIEMBRE DE 2011.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el martes 23 de mayo de 2000.
 
@@ -752,6 +752,14 @@ En los subsidios y beneficios de tipo material y económico que se otorguen, con
 
 Quien haga uso indebido de los recursos de este programa en el Distrito Federal, será sancionado de acuerdo con la ley aplicable y ante la autoridad competente"
 
+> <small>(ADICIONADO, G.O. 13 DE SEPTIEMBRE DE 2011)</small>
+
+###### Artículo 38 Bis.
+
+Las Dependencias y entidades, así como los dieciséis Órganos Político Administrativos del Distrito Federal que operan los Programas Sociales, deberán en todo tiempo invitar a las personas participantes o beneficiarias de los mismos, a diversas actividades de formación e información como: pláticas, talleres, cursos, encuentros, o foros sobre los diversos tipos y modalidades de violencia de género, así como la capacitación en materia de derechos de las mujeres, debiendo también proporcionar materiales de difusión, relacionados con estos temas y la información respecto a los lugares e instituciones a los cuales pueden tener acceso, para mayor información y atención, en caso necesario.
+
+El Instituto de las Mujeres, la Procuraduría General de Justicia, el Sistema para el Desarrollo Integral de la Familia, entre otras dependencias y entidades todas del Distrito Federal participarán en la elaboración de los lineamientos, metodología, materiales y todo lo relacionado a la capacitación, que en este artículo se menciona, bajo la coordinación de la dependencia que opere el programa.
+
 > <small>(REFORMADO, G.O. 16 DE MAYO DE 2005)</small>
 
 ### CAPÍTULO OCTAVO. DE LA PARTICIPACIÓN SOCIAL
@@ -1089,3 +1097,9 @@ QUINTO.- El Consejo de Evaluación deberá expedir su Estatuto Orgánico, en un 
 SEXTO.- El Consejo de Evaluación a que hace referencia el presente Decreto es el mismo que fue creado por el Jefe de Gobierno mediante Decreto del 21 de septiembre de 2007, y que se halla actualmente en funciones. Para dar continuidad a las labores del Consejo de Evaluación, éste permanecerá con su conformación hasta terminar el periodo para el cual fueron designados sus actuales integrantes.
 
 SÉPTIMO.- La Asamblea Legislativa del Distrito Federal deberá aprobar los recursos necesarios para el funcionamiento del Consejo de Evaluación.
+
+G.O. 13 DE SEPTIEMBRE DE 2011.
+
+PRIMERO.- Publíquese el presente Decreto en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- El presente decreto, entrará en vigor el día siguiente de su publicación.
