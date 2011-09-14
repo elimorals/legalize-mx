@@ -4,7 +4,7 @@ identifier: "CHP-reglamento-interior-del-instituto-de-poblacion-y-ciudades-70904
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-10-21"
-last_updated: "2009-10-21"
+last_updated: "2011-09-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70904&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 REGLAMENTO INTERIOR DEL INSTITUTO DE POBLACION Y CIUDADES RURALES
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE SEPTIEMBRE DE 2011.
 
 Reglamento publicado en el Periódico Oficial del Estado de Chiapas, el miércoles 21 de octubre de 2009.
 
@@ -159,7 +159,25 @@ XIII. Vigilar las actividades técnicas, administrativas y financieras del Insti
 
 XIV. Participar en las comisiones, congresos, consejos, instituciones, entidades, reuniones, juntas y organizaciones nacionales e internacionales, en el ámbito de competencia del Instituto.
 
-XV. Las demás que en el ámbito de su competencia le asigne el Titular del Ejecutivo, las leyes, reglamentos, decretos, acuerdos y demás disposiciones legales y normativas que le resulten aplicables.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 14 DE SEPTIEMBRE DE 2011)</small>
+
+XV. Determinar criterios, lineamientos y mecanismos para la constitución del Padrón de Familias Pertenecientes a los Poblados a Reubicar en la Entidad.
+
+> <small>(ADICIONADA, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
+
+XVI. Establecer un procedimiento basado en el acuerdo comunitario, para que con disposición de todos, se reubique en su totalidad a los pobladores a la Ciudad o Villa Rural Sustentable.
+
+> <small>(ADICIONADA, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
+
+XVII. Emitir o ejecutar las medidas necesarias para la suspensión o reintegro de los apoyos y servicios del Programa de Ciudades Rurales Sustentables, de conformidad con la legislación aplicable.
+
+> <small>(ADICIONADA, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
+
+XVIII. Fomentar la incorporación de beneficiarios al Programa de Ciudades Rurales Sustentables, observando los criterios establecidos en la Ley de Ciudades Rurales Sustentables para el Estado de Chiapas.
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 14 DE SEPTIEMBRE DE 2011)</small>
+
+XIX. Las demás que en el ámbito de su competencia le asigne el Titular del Ejecutivo, las leyes, reglamentos, decretos y demás disposiciones legales y normativas que le resulten aplicables.
 
 ###### Artículo 14.
 
@@ -557,7 +575,29 @@ XIII. Promover programas de comercialización en las Villas y Ciudades Rurales S
 
 XIV. Dar seguimiento a las acciones de desarrollo socio-económico, reconversión productiva, figuras asociativas, comercialización y proyectos productivos.
 
-XV. Las demás que en el ámbito de su competencia le confieran las disposiciones legales aplicables, así como las que le sean asignadas.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 14 DE SEPTIEMBRE DE 2011)</small>
+
+XV. Establecer lineamientos y mecanismos para la constitución, actualización, autenticidad, inalterabilidad y seguridad de la información del Padrón de Familias Pertenecientes a los Poblados a Reubicar en la Entidad.
+
+> <small>(ADICIONADA, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
+
+XVI. Establecer un procedimiento basado en el acuerdo comunitario, para que con disposición de todos, se reubique en su totalidad a los pobladores a la Ciudad o Villa Rural Sustentable.
+
+> <small>(ADICIONADA, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
+
+XVII. Elaborar encuestas de manera personalizada que permitan obtener información de carácter social, económico, productivo y agrario, de las familias pertenecientes a los poblados a reubicar.
+
+> <small>(ADICIONADA, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
+
+XVIII. Implementar un archivo con imágenes de las familias beneficiadas tanto en su lugar de origen como en la Ciudad o Villa Rural Sustentable.
+
+> <small>(ADICIONADA, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
+
+XIX. Promover la incorporación de beneficiarios al Programa de Ciudades Rurales Sustentables, observando los criterios establecidos en la Ley de Ciudades Rurales Sustentables para el Estado de Chiapas.
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 14 DE SEPTIEMBRE DE 2011)</small>
+
+XX. Las demás que en el ámbito de su competencia le confieran las disposiciones legales aplicables, así como las que le sean asignadas.
 
 ## Título Cuarto. De las Suplencias de los Servidores Públicos
 
@@ -592,3 +632,13 @@ Artículo Sexto.- El cumplimiento a lo dispuesto por el artículo 8°, de la Ley
 Dado en el Palacio de Gobierno, Residencia Oficial del Poder Ejecutivo del Estado, en la ciudad de Tuxtla Gutiérrez, Chiapas; a los dieciocho días del mes de septiembre del año dos mil nueve.
 
 Juan Sabines Guerrero, Gobernador del Estado.- Noé Castañón León, Secretario General de Gobierno.- José Antonio Malina Farro, Presidente del Instituto de Población y Ciudades Rurales.- Rúbricas.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 14 DE SEPTIEMBRE DE 2011.
+
+Artículo Primero.- El Presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
+
+Artículo Segundo.- Se derogan todas las disposiciones que tengan similar o menor jerarquía al presente Decreto y se opongan al mismo.
+
+Artículo Tercero.- Conforme a lo dispuesto por el artículo 8°, de la Ley Orgánica de la Administración Pública del Estado de Chiapas, publíquese el presente Decreto en el Periódico Oficial.
