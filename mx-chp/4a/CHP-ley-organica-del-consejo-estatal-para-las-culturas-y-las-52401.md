@@ -4,7 +4,7 @@ identifier: "CHP-ley-organica-del-consejo-estatal-para-las-culturas-y-las-52401"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2006-10-12"
-last_updated: "2011-05-11"
+last_updated: "2011-09-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52401&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 LEY ORGANICA DEL CONSEJO ESTATAL PARA LAS CULTURAS Y LAS ARTES DE CHIAPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE MAYO DE 2011.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE SEPTIEMBRE DE 2011.
 
 Ley publicada en el Periódico Oficial del Estado de Chiapas, el jueves 12 de octubre de 2006.
 
@@ -97,7 +97,9 @@ VI. Crear y coordinar el Programa de Estímulos a las Actividades Culturales y A
 
 VII. Promover y difundir la creación de Empresas Culturales y regular la preservación, promoción desarrollo y divulgación de la función económica de la cultura;
 
-VIII. Identificar, proteger, preservar, rescatar, enriquecer, conservar y restaurar el patrimonio cultural y artístico, material e inmaterial y la memoria histórica del pueblo chiapaneco;
+> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
+
+VIII. Identificar, proteger, preservar, rescatar, enriquecer, conservar y restaurar el patrimonio cultural y artístico, material e inmaterial y la memoria histórica del pueblo chiapaneco, con excepción de lo relacionado al material fílmico y videográfico;
 
 IX. Normar la organización, funcionamiento y control del Sistema Estatal de Archivos;
 
@@ -107,7 +109,9 @@ XI. Garantizar y promover el derecho de las personas y comunidades al conocimien
 
 XII. Normar la organización y funcionamiento de la Red Estatal de Bibliotecas y Salas de Lectura, en su carácter de servicios públicos culturales;
 
-XIII. Llevar a cabo la conservación y resguardo del acervo documental bibliográfico, no bibliográfico y audiovisual del Estado, regional y municipal;
+> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
+
+XIII. Llevar a cabo la conservación y resguardo del acervo documental bibliográfico y no bibliográfico del Estado y sus municipios;
 
 XIV. Regular la construcción, edificación, rehabilitación y remodelación de la infraestructura cultural en el marco del Plan Estatal de Cultura, así como las acciones de mantenimiento, conservación y rescate de los valores culturales del Estado;
 
@@ -115,13 +119,15 @@ XV. Normar la participación de los Consejos Ciudadanos de Cultura en regiones, 
 
 XVI. Fomentar la presencia de las diversas culturas chiapanecas en los escenarios internacionales, como factor de cooperación, intercambio y entendimiento entre los pueblos, en el marco de los acuerdos y convenios internacionales suscritos por el gobierno mexicano en materia de cultura;
 
-XVII. Establecer las disposiciones normativas, en el marco del Plan Estatal de Cultura, para garantizar el derecho de los pueblos y comunidades a preservar su identidad étnica y cultural, valores éticos y estéticos, lenguas, formas de organización, espiritualidad y sus lugares sagrados y de culto;
+XVII. (DEROGADA, P.O. 14 DE SEPTIEMBRE DE 2011)
 
-XVIII. Promover el reconocimiento, valoración, respeto y desarrollo de las lenguas, arte, literatura y culturas de los pueblos indígenas con plena observancia a su diversidad pluricultural;
+XVIII. (DEROGADA, P.O. 14 DE SEPTIEMBRE DE 2011)
 
 XIX. Coadyuvar con la Federación en los trabajos de descubrimiento, investigación, restauración y protección de sitios, zonas y monumentos arqueológicos, paleontológicos, artísticos e históricos, así como, en la administración de los mismos ubicados en el territorio estatal;
 
-XX. Expedir los lineamientos normativos para garantizar la preservación de la propiedad intelectual cultural del pueblo chiapaneco, con la finalidad de estimular el estudio, investigación y difusión de las actividades culturales y artísticas;
+> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
+
+XX. Expedir los lineamientos normativos para garantizar la preservación de la propiedad intelectual cultural del pueblo chiapaneco, con la finalidad de estimular el estudio, investigación y difusión de las actividades culturales y artísticas, con excepción de lo relacionado al material fílmico y videográfico;
 
 XXI. Coordinar y fomentar las relaciones de orden cultural y artístico con la federación, entidades federativas, municipios y con instituciones públicas y privadas, locales, nacionales e internacionales, de conformidad con lo establecido por la Constitución General de la República;
 
@@ -131,7 +137,9 @@ XXIII. Coordinar, administrar y fomentar el uso de los espacios culturales asign
 
 XXIV. Proponer un Consejo Editorial que coordine y defina los criterios de la labor editorial del Gobierno del Estado;
 
-XXV. Proponer, diseñar y ejecutar programas que promuevan, desarrollen, fomenten y difundan la cultura en general, la indígena y las expresiones artísticas a través de la radio, la televisión y cualquier otro medio de comunicación; y, (sic)
+> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
+
+XXV. Proponer, diseñar y ejecutar programas que promuevan, desarrollen, fomenten y difundan la cultura en general y las expresiones artísticas a través de la radio, la televisión y cualquier otro medio de comunicación;
 
 > <small>(REFORMADA, P.O. 11 DE MAYO DE 2011)</small>
 
@@ -159,35 +167,33 @@ II. Un Director General.
 
 El Consejo Directivo es la autoridad suprema de gobierno, responsable de fijar las políticas, programas, objetivos y metas del Consejo, así como de evaluar sus resultados operativos, administrativos, financieros y en general, el desarrollo de sus actividades sustantivas.
 
-###### Artículo 8º.
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
+
+###### Artículo 8°.
 
 El Consejo Directivo estará integrado por:
 
-I. Un Presidente que será el Gobernador del Estado;
+I. Un Presidente que será el Gobernador del Estado, representado por el Secretario de Educación.
 
-II. Un Secretario técnico que será designado por el Consejo Directivo; y,
-
-> <small>(REFORMADA, P.O. 11 DE MAYO DE 2011)</small>
+II. Un Secretario Técnico que será designado por el consejo directivo.
 
 III. Vocales que serán los titulares de las siguientes Dependencias y Entidades:
 
-A). Secretaría General de Gobierno.
+a) Secretaría General de Gobierno.
 
-B). Secretaría de Hacienda.
+b) Secretaría de Hacienda.
 
-C). Secretaría de Educación.
+c) Secretaría de Turismo.
 
-D). Secretaría de Turismo.
+d) Secretaría de Pueblos y Culturas Indígenas.
 
-E). Secretaría de Pueblos y Culturas Indígenas.
+e) Sistema para el Desarrollo Integral de la Familia del Estado de Chiapas.
 
-F). Sistema para el Desarrollo Integral de la Familia del Estado de Chiapas.
+f) Universidad Autónoma de Chiapas.
 
-G). Universidad Autónoma de Chiapas.
+g) Universidad de Ciencias y Artes de Chiapas.
 
-H). Universidad de Ciencias y Artes de Chiapas.
-
-I). Universidad Intercultural de Chiapas.
+h) Universidad Intercultural de Chiapas.
 
 ###### Artículo 9º.
 
@@ -209,11 +215,11 @@ Los acuerdos y resoluciones del Consejo Directivo se tomaran por mayoría de vot
 
 Todas las decisiones que emita el Consejo Directivo serán obligatorias, por lo que ninguna celebrada sin su acuerdo será valida.
 
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
+
 ###### Artículo 12.
 
-El Consejo contará con un órgano permanente de vigilancia el cual estará a cargo de un Comisario que será designado por la Contraloría General del Estado, quien podrá participar en las sesiones del Consejo Directivo con derecho a voz, pero sin voto.
-
-El Comisario ejercerá sus funciones de conformidad con el Decreto para el fortalecimiento de la función de Comisarios Públicos en las Entidades de la Administración Pública Estatal.
+El Consejo contará con un órgano permanente de vigilancia el cual estará a cargo de un comisario que será designado por la Secretaría de la Función Pública, quien podrá participar en las sesiones del Consejo Directivo con derecho a voz, pero sin voto.
 
 ###### Artículo 13.
 
@@ -251,7 +257,9 @@ XII. Aprobar, de acuerdo con las leyes aplicables, las políticas, bases y progr
 
 XIII. Expedir las normas y bases generales con arreglos, a las cuales el Director General podrá disponer de los activos fijos, que no afecten el cumplimiento del objeto del Consejo;
 
-XIV. Proporcionar a la Secretaría de Planeación y Finanzas la información presupuestal, contable, financiera y de otra índole que ésta requiera, conforme a la normatividad aplicable; y,
+> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
+
+XIV. Proporcionar a la Secretaría de Hacienda la información presupuestal, contable, financiera y de otra índole que ésta requiera, conforme a la normatividad aplicable;
 
 XV. Las demás que le señale esta ley, su reglamento y demás disposiciones legales aplicables.
 
@@ -400,3 +408,17 @@ Los compromisos y procedimientos que a la entrada en vigor del presente Decreto,
 Artículo Cuarto.- Las Dependencias normativas del Poder Ejecutivo del Estado, en el ámbito de sus respectivas competencias, deberán llevar a cabo de inmediato las acciones que sean necesarias para el cumplimiento de lo ordenado en el presente instrumento.
 
 Artículo Quinto.- El Consejo Estatal para las Culturas y las Artes de Chiapas llevará a cabo lo conducente para la actualización de su marco jurídico.
+
+P.O. 14 DE SEPTIEMBRE DE 2011.
+
+Artículo Primero.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Se derogan las disposiciones que se opongan al presente Decreto.
+
+Artículo Tercero.- Las atribuciones, compromisos y procedimientos que a la entrada en vigor del presente Decreto, hubiere contraído el Consejo Estatal para las Culturas y las Artes del Estado de Chiapas, así como las atribuciones y referencias que otras leyes le asignen, en relación con la operación y mantenimiento de los bienes muebles e inmuebles relativos a la cinematografía, se entenderán conferidas y serán asumidos de inmediato por el Sistema Chiapaneco de Radio, Televisión y Cinematografía.
+
+Artículo Cuarto.- Los recursos humanos, materiales y financieros que a la entrada en vigor del presente Decreto, se encuentren asignados al Consejo Estatal para las Culturas y las Artes del Estado de Chiapas, y que se relacionan con la operación y mantenimiento de los bienes muebles e inmuebles relativos a la cinematografía, serán transferidos, respetando todas las disposiciones administrativas y derechos laborales que correspondan, al Sistema Chiapaneco de Radio, Televisión y Cinematografía.
+
+Artículo Quinto.- Las Dependencias Normativas del Ejecutivo Estatal, para el cumplimiento del presente Decreto, llevarán a cabo de inmediato las acciones necesarias para que los recursos humanos, materiales y financieros que actualmente se encuentran asignados al Consejo Estatal para las Culturas y las Artes del Estado de Chiapas, y que se relacionan con la operación y mantenimiento de los bienes muebles e inmuebles relativos a la cinematografía, pasen a formar parte del Sistema Chiapaneco de Radio, Televisión y Cinematografía.
+
+Artículo Sexto.- En un plazo no mayor a noventa días hábiles contados a partir de la entrada en vigor del presente Decreto, el Consejo Estatal para las Culturas y las Artes del Estado de Chiapas, deberá realizar las adecuaciones necesarias a su normatividad interior, para el debido cumplimiento de lo establecido en este Decreto.
