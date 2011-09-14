@@ -4,7 +4,7 @@ identifier: "CHP-estatuto-organico-de-la-universidad-intercultural-de-chiapas-50
 country: "mx"
 rank: "estatuto"
 publication_date: "2006-04-26"
-last_updated: "2010-06-16"
+last_updated: "2011-09-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50465&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 ESTATUTO ORGANICO DE LA UNIVERSIDAD INTERCULTURAL DE CHIAPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE JUNIO DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE SEPTIEMBRE DE 2011.
 
 Estatuto publicado en el Periódico Oficial del Estado de Chiapas, el miércoles 26 de abril de 2006.
 
@@ -139,7 +139,13 @@ I. La Coordinación de Planeación;
 
 II. La Coordinación de Extensión y Difusión Universitaria; y,
 
-III. Unidad de Informática.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 14 DE SEPTIEMBRE DE 2011)</small>
+
+III. La Coordinación de Gestión de la Calidad; y,
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 14 DE SEPTIEMBRE DE 2011)</small>
+
+IV. Unidad de Informática.
 
 ###### Artículo 14.
 
@@ -425,6 +431,26 @@ VI. Establecer mecanismos de soporte técnico para los bienes informáticos, ele
 
 VII. Las demás que en el ámbito de su competencia le confieran las disposiciones legales aplicables, así como las que le asigne el Titular de la Universidad.
 
+> <small>(ADICIONADO, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
+
+###### Artículo 24 Ter.
+
+Corresponde a la Coordinación de la Gestión de la Calidad, los siguientes asuntos:
+
+I. Diseñar las políticas de calidad orientadas hacia el mejoramiento continuo;
+
+II. Coordinar la implementación del programa de gestión de la calidad y la certificación de los procesos administrativos por las normas ISO 9001:2008;
+
+III. Coordinar las actividades de mejoramiento del clima laboral y procesos de creación de valor;
+
+IV. Coordinar el seguimiento de los (sic) auditorias de calidad y desempeño realizadas a la Universidad;
+
+V. Coordinar las actividades de la contraloría social y seguimiento de la atención y satisfacción de usuarios;
+
+VI. Responsable de la oficialía de partes de la correspondencia institucional; y,
+
+VII. Las demás que determine la normatividad, o en su caso, la rectoría.
+
 ### Capítulo VII. Secretaría Académica
 
 ###### Artículo 25.
@@ -505,11 +531,15 @@ XXXI. Coordinar e integrar las propuestas de requisición de material biblioheme
 
 XXXII. Las demás que determine la normatividad universitaria, o en su caso, el Rector.
 
-### Capítulo VIII. Área de Procesos de Vinculación con la Comunidad y Servicio Social
+> <small>(REFORMADA SU DENOMINACION, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
+
+### Capítulo VII (SIC). Departamento de Vinculación con la Comunidad y Servicio Social
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
 
 ###### Artículo 28.
 
-Corresponde al Área de Procesos de Vinculación con la Comunidad y Servicio Social:
+Corresponde al Departamento de Vinculación con la Comunidad y Servicio Social:
 
 I. Establecer el marco general de la estrategia de vinculación social de la Universidad;
 
@@ -549,11 +579,15 @@ XVIII. Proponer políticas, criterios y prioridades para el otorgamiento de beca
 
 XIX. Las demás que determine la normatividad universitaria, o en su caso el Secretario Académico.
 
-### Capítulo IX. Área de Procesos de Servicios Escolares
+> <small>(REFORMADA SU DENOMINACION, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
+
+### Capítulo IX. Departamento de Servicios Escolares
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
 
 ###### Artículo 29.
 
-Corresponde al Área de Procesos de Servicios Escolares:
+Corresponde al Departamento de Servicios Escolares:
 
 I. Supervisar la escolaridad de los estudiantes;
 
@@ -579,11 +613,15 @@ XI. Controlar que el número de matrícula de los estudiantes de nuevo ingreso s
 
 XII. Realizar todas aquellas actividades necesarias y convenientes para el logro de los objetivos y las que le señale con esa finalidad el Secretario Académico o se encuentren consignadas en la legislación universitaria.
 
-### Capítulo X. Área de Procesos de Servicios de Información
+> <small>(REFORMADA SU DENOMINACION, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
+
+### Capítulo X. Departamento de Servicios de Información
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
 
 ###### Artículo 30.
 
-Corresponde al Área de Procesos de Servicios de Información:
+Corresponde al Departamento de Servicios de Información:
 
 I. Elaborar conjuntamente con las Direcciones corresponsables el plan general de implantación funcional del Sistema Integral de Información Universitaria;
 
@@ -723,7 +761,13 @@ II. Profesores de asignatura;
 
 III. Profesores invitados, y,
 
-IV. Técnicos académicos.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 14 DE SEPTIEMBRE DE 2011)</small>
+
+IV. Profesores y/o investigadores extraordinarios; y,
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 14 DE SEPTIEMBRE DE 2011)</small>
+
+V. Técnicos académicos.
 
 ###### Artículo 40.
 
@@ -748,6 +792,20 @@ Cualquier miembro del personal académico designado para el desempeño de un car
 ###### Artículo 44.
 
 La Rectoría podrá acordar excepcionalmente la participación en un concurso de oposición para ingreso como profesor o investigador, a aquellas personas que se hayan distinguido en una especialidad, en la docencia o investigación, acreditada por varios años de labor o por la realización y publicación de obras, y/o que no cumplan con alguno de los requisitos reglamentarios.
+
+> <small>(ADICIONADO, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
+
+De igual forma, podrán ocupar un puesto de profesor de tiempo completo y/o investigador, aquellos funcionarios de la Universidad, siempre que cubran los siguientes requisitos:
+
+I. Contar con una antigüedad mínima de cuatro años ininterrumpidos en la Universidad;
+
+II. Demostrar experiencia académica frente a (sic) grupo en instituciones de educación superior, de al menos cinco años; y,
+
+III. Contar con grado académico de maestro, cuando menos, y preferentemente tener alguna producción académica.
+
+> <small>(ADICIONADO, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
+
+Estas plazas estarán sujetas a suficiencia presupuestal y su designación será directamente por acuerdo del Consejo Directivo.
 
 ###### Artículo 45.
 
@@ -1348,3 +1406,9 @@ P.O. 16 DE JUNIO DE 2010.
 Artículo Primero.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
 
 Artículo Segundo.- En su oportunidad, y en cumplimiento a las disposiciones del Estatuto Orgánico, este Acuerdo deberá publicarse en la Gaceta Universitaria para su difusión interna en la comunidad universitaria.
+
+P.O. 14 DE SEPTIEMBRE DE 2011.
+
+Artículo Primero.- Las presentes reformas y adiciones al Estatuto Orgánico de la Universidad Intercultural de Chiapas, entrarán en vigor al día siguiente de su publicación en el Periódico Oficial.
+
+Artículo Segundo.- Se instruye al Rector de la Universidad Intercultural de Chiapas, para que realice los trámites jurídicos necesarios para dar cabal cumplimiento al presente Acuerdo.
