@@ -4,7 +4,7 @@ identifier: "PUE-reglamento-interior-para-los-establecimientos-de-reclusion-7533
 country: "mx"
 rank: "reglamento"
 publication_date: "1984-03-16"
-last_updated: "1992-02-11"
+last_updated: "2011-09-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7533&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "PUE"
 ---
 # REGLAMENTO INTERIOR PARA LOS ESTABLECIMIENTOS DE RECLUSION DEL ESTADO DE PUEBLA
 
-REGLAMENTO INTERIOR PARA LOS ESTABLECIMIENTOS DE RECLUSION DEL ESTADO DE PUEBLA
+REGLAMENTO INTERIOR PARA LOS ESTABLECIMIENTOS DE RECLUSIÓN DEL ESTADO DE PUEBLA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE FEBRERO DE 1992.
+> <small>N. DE E. DE CONFORMIDAD CON EL SEGUNDO TRANSITORIO DEL REGLAMENTO DE LOS CENTROS DE REINSERCIÓN SOCIAL PARA EL ESTADO DE PUEBLA, PUBLICADO EN LA QUINTA SECCIÓN DEL P.O. DE 14 DE SEPTIEMBRE DE 2011, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE SEPTIEMBRE DE 2011 (ABROGADO).
 
 Reglamento publicado en la Segunda Sección del Periódico Oficial del Estado de Puebla, el viernes 16 de marzo de 1984.
 
@@ -1019,7 +1021,7 @@ IV.- Se derogan las disposiciones que se opongan a este reglamento.
 
 Dado en el Palacio del Poder Ejecutivo, en la Heroica Ciudad de Puebla de Zaragoza a los veintidós días del mes de febrero de mil novecientos ochenta y cuatro.- El Gobernador Constitucional del Estado.- Lic. Guillermo Jiménez Morales.- Rúbrica.- El Secretario de Gobernación.- Lic. Carlos Palafox Vázquez.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
 
 P.O. 11 DE FEBRERO DE 1992.
 
@@ -1030,3 +1032,15 @@ El presente Decreto de reformas y derogación, entrará en vigor al día siguien
 ###### ARTICULO SEGUNDO.
 
 Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 14 DE SEPTIEMBRE DE 2011.
+
+PRIMERO.- El presente Reglamento deberá publicarse en el Periódico Oficial del Estado de Puebla y entrará en vigor al día hábil siguiente de su publicación.
+
+SEGUNDO.- Se abroga el Reglamento Interior para los Establecimientos de Reclusión publicado en el Periódico Oficial del Estado, el dieciséis de marzo de mil novecientos ochenta y cuatro.
+
+TERCERO.- Quedan sin efecto todas las disposiciones de la misma naturaleza que contravengan lo dispuesto en el presente Reglamento.
+
+CUARTO.- En tanto no se emitan nuevos lineamientos, se aplicarán los vigentes en tanto no contravengan el presente Reglamento.
+
+QUINTO.- Para el ejercicio y cumplimiento de las atribuciones contenidas en este Reglamento, las autoridades contarán con las instalaciones, personal y presupuesto que se le asignen de conformidad con la suficiencia presupuestal.
