@@ -4,7 +4,7 @@ identifier: "CHP-ley-para-la-igualdad-entre-mujeres-y-hombres-del-estado-de-7077
 country: "mx"
 rank: "ley"
 publication_date: "2009-09-23"
-last_updated: "2009-09-23"
+last_updated: "2011-09-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70771&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE CHIAPAS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE SEPTIEMBRE DE 2011.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Chiapas, el miércoles 23 de septiembre de 2009.
 
@@ -59,9 +59,11 @@ Son sujetos de los derechos que establece esta Ley, las mujeres y los hombres qu
 
 La trasgresión a los principios y programas que la misma prevé, será sancionada de acuerdo a lo dispuesto por la Ley de Responsabilidades de los Servidores Públicos del Estado de Chiapas, por el Código de Atención a la Familia y Grupos Vulnerables para el Estado Libre y Soberano de Chiapas y por las demás leyes aplicables a la materia.
 
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
+
 ###### Artículo 4°.
 
-En lo no previsto en esta Ley, se aplicará en forma supletoria y en lo conducente, las disposiciones de la Ley para la Promoción y Protección de los Derechos Humanos, la Convención para la Eliminación de Toda Forma de Discriminación contra la Mujer, la Convención Interamericana Para Prevenir, Sancionar y Erradicar La Violencia Contra La Mujer "Convención De Belem Do Para", los instrumentos internacionales ratificados por el estado mexicano y los demás ordenamientos aplicables en la materia.
+En lo no previsto en esta Ley, se aplicará en forma supletoria y en lo conducente, las disposiciones de la Ley del Consejo Estatal (sic) los Derechos Humanos, la Convención para la Eliminación de Toda Forma de Discriminación contra la Mujer, la Convención Interamericana Para Prevenir, Sancionar y Erradicar la Violencia Contra La Mujer "Convención De Belem Do Para", los instrumentos internacionales ratificados por el estado mexicano y los demás ordenamientos aplicables en la materia.
 
 ###### Artículo 5°.
 
@@ -69,11 +71,15 @@ Para los efectos de esta Ley, se entenderá por:
 
 I. Acciones Afirmativas: Al conjunto de medidas y acciones de carácter temporal encaminadas a acelerar la igualdad de hecho entre mujeres y hombres;
 
-II. Comisión: A la Comisión de Derechos Humanos del Estado de Chiapas;
+> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
+
+II. Consejo: Al Consejo Estatal de los Derechos Humanos.
 
 III. Género: Al Conjunto de ideas, creencias, representaciones y atribuciones sociales construidas en cada cultura tomando como base la diferencia sexual;
 
-IV. Instituto: Al Instituto Estatal de las Mujeres;
+> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
+
+IV. Secretaría: A la Secretaría para el Desarrollo y Empoderamiento de las Mujeres.
 
 V. Programa: Al Programa Estatal para la Igualdad entre Mujeres y Hombres;
 
@@ -91,19 +97,21 @@ VIII. Transversalidad: Al proceso que permite garantizar la incorporación de la
 
 El Gobierno del Estado de Chiapas, y los municipios del Estado de Chiapas, ejercerán sus atribuciones en materia de esta ley, de conformidad con la distribución de competencias previstas en la misma y en otros ordenamientos aplicables.
 
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
+
 ###### Artículo 7°.
 
-El Gobierno del Estado de Chiapas, establecerá las bases de coordinación para la integración y el funcionamiento del Sistema Estatal, así como para su homologación con el nivel municipal y con el federal. El Ejecutivo del Estado, a través de la Secretaría de Desarrollo Social, podrá suscribir convenios o acuerdos de coordinación con la coparticipación del Instituto Estatal de las Mujeres, a fin de:
+El Gobierno del Estado de Chiapas, establecerá las bases de coordinación para la integración y el funcionamiento del Sistema Estatal, así como para su homologación con el nivel municipal y el federal. El Ejecutivo del Estado, a través de la Secretaría de Desarrollo y Participación Social, podrá suscribir convenios o acuerdos de coordinación con la coparticipación de la Secretaría, a fin de:
 
-I. Fortalecer sus funciones y atribuciones en materia de igualdad;
+I. Fortalecer sus funciones y atribuciones en materia de igualdad.
 
-II. Establecer mecanismos de coordinación, para lograr la transversalidad de la perspectiva de género en la función pública estatal;
+II. Establecer mecanismos de coordinación, para lograr la transversalidad de la perspectiva de género en la función pública estatal.
 
-III. Impulsar la vinculación interinstitucional en el marco del Sistema;
+III. Impulsar la vinculación interinstitucional en el marco del Sistema.
 
-IV. Coordinar las tareas en materia de igualdad, mediante acciones específicas y, en su caso, afirmativas que contribuyan a una estrategia estatal;
+IV. Coordinar las tareas en materia de igualdad, mediante acciones específicas y, en su caso, afirmativas que contribuyan a una estrategia estatal.
 
-V. Promover el establecimiento de acciones afirmativas, de conformidad a la estrategia nacional para lograr la igualdad entre hombres y mujeres; y,
+V. Promover el establecimiento de acciones afirmativas, de conformidad a la estrategia nacional para lograr la igualdad entre hombres y mujeres.
 
 VI. Proponer iniciativas y políticas de cooperación, para el desarrollo de mecanismos de participación ciudadana, que tienda a la igualdad entre mujeres y hombres, en los ámbitos de la economía, la toma de decisiones y en la vida social, cultural y civil.
 
@@ -111,9 +119,11 @@ VI. Proponer iniciativas y políticas de cooperación, para el desarrollo de mec
 
 En la celebración de convenios o acuerdos de coordinación, deberán tomarse en consideración los recursos presupuestarios, materiales y humanos, para el cumplimiento de la presente Ley, conforme a la normatividad jurídica, administrativa presupuestaria correspondiente.
 
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
+
 ###### Artículo 9°.
 
-En el seguimiento y evaluación de los resultados obtenidos por la ejecución de convenios y acuerdos a que se refiere este capítulo, intervendrá la Comisión, de acuerdo con las atribuciones que su propia ley le confiere.
+En el seguimiento y evaluación de los resultados obtenidos por la ejecución de convenios y acuerdos a que se refiere este Capítulo, intervendrá el Consejo, de acuerdo con las atribuciones que su propia ley le confiere.
 
 ### Capítulo II. Del Gobierno Estatal
 
@@ -223,13 +233,17 @@ En el diseño, elaboración, aplicación, evaluación y seguimiento de los instr
 
 El Ejecutivo Estatal es el encargado de la aplicación del Sistema y del Programa; a través de los órganos correspondientes.
 
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
+
 ###### Artículo 19.
 
-El Instituto, a través de su Junta de Gobierno, sin menoscabo de las atribuciones que le confiere la ley especifica que lo rige, tendrá a su cargo la coordinación del Sistema, así como la determinación de los lineamientos para el establecimiento de las políticas públicas en materia de igualdad, y las demás que sean necesarias para cumplir con los objetivos de la presente ley.
+La Secretaría, a través de su Junta de Gobierno, sin menoscabo de las atribuciones que le confiere la ley especifica que lo rige, tendrá a su cargo la coordinación del Sistema, así como la determinación de los lineamientos para el establecimiento de las políticas públicas en materia de igualdad, y las demás que sean necesarios para cumplir con los objetivos de la presente ley.
+
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
 
 ###### Artículo 20.
 
-De acuerdo con lo establecido por el artículo 12, de la Ley para la Promoción y Protección de los Derechos Humanos en el Estado de Chiapas, la Comisión, es la facultada de velar por el seguimiento, evaluación y monitoreo de la política estatal en materia de igualdad entre mujeres y hombres.
+De acuerdo con lo establecido en la Ley del Consejo Estatal de los Derechos Humanos en el Estado de Chiapas, el Consejo es la instancia facultada para velar por el seguimiento, evaluación y monitoreo de la política estatal en materia de igualdad entre las mujeres y hombres.
 
 ### Capítulo III. Del Sistema Estatal para la Igualdad entre Mujeres y Hombres
 
@@ -237,43 +251,67 @@ De acuerdo con lo establecido por el artículo 12, de la Ley para la Promoción 
 
 El Sistema, es el conjunto orgánico y articulado de estructuras, relaciones funcionales, métodos y procedimientos que establecen las dependencias y las entidades de la Administración Pública Estatal entre sí, con las organizaciones de los diversos grupos sociales, las instituciones académicas y de investigación, con las entidades federativas y con los municipios del Estado, a fin de efectuar acciones de común acuerdo destinadas a la promoción y procuración de la igualdad entre mujeres y hombres.
 
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
+
 ###### Artículo 22.
 
-El Sistema se estructurará por medio de un Consejo Consultivo a cargo del Instituto, mismo que estará integrado por:
+El Sistema se estructurará por medio de un Consejo Consultivo a cargo de la Secretaría, mismo que será integrado por:
 
-Un Presidente que será el Gobernador del Estado y el Titular de la Secretaría de Desarrollo Social como su suplente;
+I. Un Presidente, que será el Gobernador del Estado y el Titular de la Secretaría de Desarrollo y Participación Social, como su suplente.
 
-Un Secretario Técnico que será la Titular del Instituto Estatal de las Mujeres;
+II. Un Secretario Técnico, que será el Titular de la Secretaría.
 
-Los vocales, que serán los titulares de:
+III. Los vocales, que serán los titulares de:
 
-I. La Secretaría de Hacienda;
+a) La Secretaría de Hacienda.
 
-II. La Secretaría de Pueblos Indios;
+b) La Secretaría de Pueblos y Culturas Indígenas.
 
-III. La Secretaría de Salud;
+c) La Secretaría de Salud.
 
-IV. La Secretaría de Educación;
+d) La Secretaría de Educación.
 
-V. La Procuraduría General de Justicia del Estado;
+e) La Secretaría del Medio Ambiente e Historia Natural.
 
-VI. El Instituto del Deporte;
+f) La Secretaría de Transportes.
 
-VII. El Instituto Estatal de la Juventud;
+g) La Secretaría del Trabajo.
 
-VIII. La Presidencia de la Comisión de Equidad y Género y de la Comisión de Atención a la Mujer y a la Niñez, del Congreso del Estado;
+h) La Secretaría de Economía.
 
-IX. El Tribunal Superior de Justicia del Estado;
+i) La Secretaría del Campo.
 
-X. La Procuraduría de la Familia y Grupos Vulnerables;
+j) La Secretaría de Pesca y Acuacultura.
 
-Así como, dos representantes de la sociedad civil y dos de instituciones académicas, nombrados por el Gobernador del Estado.
+k) La Secretaría de Seguridad y Protección Ciudadana.
+
+l) La Secretaría para el Desarrollo de la Frontera Sur y Enlace para la Cooperación Internacional.
+
+m) El Instituto de la Consejería Jurídica y de Asistencia Legal.
+
+n) La Procuraduría General de Justicia del Estado.
+
+o) El Instituto del Deporte.
+
+p) El Instituto Estatal de la Juventud.
+
+q) La Presidencia de la Comisión de Equidad y Género, del Congreso del Estado.
+
+r) La Presidencia de la Comisión de Atención a la Mujer y a la Niñez, del Congreso del Estado.
+
+s) El Tribunal Superior de Justicia del Estado.
+
+t) La Procuraduría de la Familia y Adopciones del Sistema DIF-CHIAPAS.
+
+u) Dos representantes de la sociedad civil y dos de instituciones académicas, propuestos por el Gobernador del Estado.
 
 El Consejo Consultivo sesionara cuando menos tres veces al año y podrá celebrar las reuniones extraordinarias que considere convenientes para el cumplimiento de la presente Ley. Sus decisiones se tomarán por mayoría simple.
 
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
+
 ###### Artículo 23.
 
-El Instituto coordinará las acciones que el Sistema genere, sin perjuicio de las atribuciones y funciones contenidas en su ordenamiento, y conforme al artículo anterior, expedirá las reglas para la organización y el funcionamiento del mismo, así como las medidas para vincularlo con otros de carácter nacional y municipal.
+La Secretaría coordinará las acciones que el Sistema genere, sin perjuicio de las atribuciones y funciones contenidas en su ordenamiento, y conforme al artículo anterior, expedirá las reglas para la organización y el funcionamiento del mismo, así como las medidas para vincularlo con otros de carácter nacional y municipal.
 
 ###### Artículo 24.
 
@@ -299,9 +337,11 @@ IX. Concertar con los medios de comunicación pública y privada la adopción de
 
 X. Otorgar anualmente un reconocimiento a las empresas que se distingan por su alto compromiso con la igualdad sustantiva entre mujeres y hombres. De acuerdo a los siguientes lineamientos:
 
-a. Dicho compromiso deberá ser acreditado por las empresas interesadas, que certificarán los avances en lo concerniente a la igualdad sustantiva en las relaciones laborales, políticas de comunicación, fomento de la igualdad sustantiva, propaganda no sexista, políticas de empleo, como: el reclutamiento e ingreso de personal, retribución, capacitación, promoción y distribución equilibrada entre mujeres y hombres en todas las plazas, prioritariamente en las de toma de decisiones; y,
+a) Dicho compromiso deberá ser acreditado por las empresas interesadas, que certificarán los avances en lo concerniente a la igualdad sustantiva en las relaciones laborales, políticas de comunicación, fomento de la igualdad sustantiva, propaganda no sexista, políticas de empleo, como: el reclutamiento e ingreso de personal, retribución, capacitación, promoción y distribución equilibrada entre mujeres y hombres en todas las plazas, prioritariamente en las de toma de decisiones; y,
 
-b. El Instituto será el encargado de llevar a cabo la evaluación de la información proporcionada para el otorgamiento de los reconocimientos;
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
+
+b) La Secretaría será la encargada de llevar a cabo la evaluación de la información proporcionada para el otorgamiento de los reconocimientos.
 
 XI. Fomentar acciones encaminadas al reconocimiento progresivo del derecho de conciliación de la vida personal, laboral y familiar y establecer los medios y mecanismos tendentes a la convivencia sin menoscabo del pleno desarrollo humano;
 
@@ -311,15 +351,19 @@ XIII. Las demás que se requieran para el cumplimiento de los objetivos del Sist
 
 ### Capítulo IV. Del Programa Estatal para la Igualdad
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
+
 ###### Artículo 25.
 
-El Programa será elaborado por el Instituto y aprobado por el Consejo Consultivo, y tomará en cuenta las necesidades del Estado y sus municipios, así como las particularidades específicas de la desigualdad en el medio rural y las zonas urbanas, así como de las poblaciones indígenas. Asimismo deberá tomar en cuenta los criterios e instrumentos de la política nacional de igualdad en congruencia con los programas nacionales. Este Programa deberá integrarse a los instrumentos de planeación, programación y presupuestación contemplados en la Ley de Planeación para el Estado de Chiapas, así como deberá establecer los objetivos, estrategias y líneas de acción prioritarias, tomando en cuenta lo establecido en la presente Ley.
+El Programa será elaborado por la Secretaría y aprobado por el Consejo Consultivo, y tomará en cuenta las necesidades del Estado y sus municipios, así como las particularidades específicas de la desigualdad en el medio rural y las zonas urbanas, así como de las poblaciones indígenas. Asimismo deberá tomar en cuenta los criterios e instrumentos de la política nacional de igualdad en congruencia con los programas nacionales. Este Programa deberá integrarse a los instrumentos de planeación, programación y presupuestación contemplados en la Ley de Planeación para el Estado de Chiapas, así como deberá establecer los objetivos, estrategias y líneas de acción prioritarias, tomando en cuenta lo establecido en la presente Ley.
 
 Con el objetivo de lograr la transversalidad, propiciará que los programas sectoriales, regionales y especiales, tomen en cuenta los criterios e instrumentos de esta Ley.
 
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
+
 ###### Artículo 26.
 
-El Instituto deberá revisar y evaluar anualmente el Programa.
+La Secretaría deberá revisar y evaluar anualmente el Programa.
 
 ###### Artículo 27.
 
@@ -387,7 +431,9 @@ I. Favorecer el trabajo del Honorable Congreso del Estado con la perspectiva de 
 
 II. Garantizar que la educación en todos sus niveles se realice en el marco de la igualdad entre mujeres y hombres, además de crear conciencia de la necesidad de eliminar toda forma de discriminación;
 
-III. Evaluar por medio del área competente de la Comisión, la participación equilibrada entre mujeres y hombres en los cargos de elección popular;
+> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
+
+III. Evaluar por medio del área del Consejo, la participación equilibrada entre mujeres y hombres en los cargos de elección popular.
 
 IV. Promover la participación y representación equilibrada entre mujeres y hombres, dentro de las estructuras de los partidos políticos;
 
@@ -491,15 +537,19 @@ Los acuerdos y convenios que en materia de igualdad celebren el Ejecutivo Estata
 
 ### Capítulo Único. De la Vigilancia en Materia de Igualdad entre Mujeres y Hombres
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
+
 ###### Artículo 42.
 
-De acuerdo con lo establecido en el artículo 20 de esta Ley, la Comisión, es la encargada de la vigilancia en el seguimiento, evaluación y monitoreo de la política estatal en materia de igualdad entre mujeres y hombres.
+De acuerdo con lo establecido en el artículo 20 de esta Ley, el Consejo, es la encargada de la vigilancia en el seguimiento, evaluación y monitoreo de la política estatal en materia de igualdad entre mujeres y hombres.
 
 Tiene por objeto la construcción de un sistema de información, con capacidad para conocer la situación que guarda la igualdad entre hombres y mujeres, y el efecto de las políticas públicas aplicadas en esta materia.
 
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
+
 ###### Artículo 43.
 
-La vigilancia deberá ser realizada por personas de reconocida trayectoria y especializadas en el análisis de la igualdad entre mujeres y hombres.
+La vigilancia en el análisis de la igualdad entre mujeres y hombres, deberá ser realizada por personas de reconocida trayectoria y especializadas.
 
 ###### Artículo 44.
 
@@ -515,7 +565,11 @@ IV. Difundir información sobre los diversos aspectos relacionados con la iguald
 
 V. Las demás que sean necesarias para cumplir los objetivos de esta ley.
 
-Artículo 43 (sic).- Dé acuerdo con lo establecido en la Ley de la Comisión de Derechos Humanos del Estado de Chiapas ésta podrá recibir quejas, formular recomendaciones y presentar informes especiales en la materia objeto de esta ley.
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 14 DE SEPTIEMBRE DE 2011)</small>
+
+###### Artículo 45.
+
+De acuerdo con lo establecido en la Ley del Consejo Estatal de Derechos Humanosestá (sic) podrá recibir quejas, formular recomendaciones y presentar informes especiales en la materia objeto de esta ley.
 
 T r a n s i t o r i o s
 
@@ -536,3 +590,11 @@ Dado en el Salón de Sesiones del H. Congreso del Estado Libre y Soberano de Chi
 De conformidad con la fracción I, del artículo 42, de la Constitución Política local y para su observancia, promulgo el presente Decreto en la Residencia del Poder Ejecutivo del Estado, en la Ciudad de Tuxtla Gutiérrez, Chiapas; a los once días del mes de septiembre del año dos mil nueve.
 
 Juan Sabines Guerrero, Gobernador del Estado.- Noé Castañón León, Secretario General de Gobierno.- Rúbricas.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 14 DE SEPTIEMBRE DE 2011.
+
+Artículo Primero.- El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Se derogan todas las disposiciones que se opongan a este Decreto.
