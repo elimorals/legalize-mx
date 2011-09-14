@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-delegados-municipales-del-municipio-de-san-38255"
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-03-10"
-last_updated: "2004-03-10"
+last_updated: "2011-09-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=38255&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "NLE"
 ---
 # REGLAMENTO DE DELEGADOS MUNICIPALES DEL MUNICIPIO DE SAN NICOLAS DE LOS GARZA
 
-REGLAMENTO DE DELEGADOS MUNICIPALES DEL MUNICIPIO DE SAN NICOLAS DE LOS GARZA
+REGLAMENTO DE DELEGADOS MUNICIPALES DEL MUNICIPIO DE SAN NICOLÁS DE LOS GARZA, NUEVO LEÓN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE SEPTIEMBRE DE 2011.
 
 Reglamento Publicado en el Periódico Oficial del Estado de Nuevo León, el miércoles 10 de marzo de 2004.
 
@@ -55,15 +55,25 @@ I. Presidente Municipal;
 
 II. Secretario del Ayuntamiento;
 
-III. Coordinador de Delegados Municipales; y,
+> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
 
-IV. Los demás servidores públicos adscritos a la Coordinación de Delegados Municipales.
+III. Secretaría de Desarrollo Humano;
+
+> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
+
+IV. Director de Participación Ciudadana; y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 14 DE SEPTIEMBRE DE 2011)</small>
+
+V. Los demás servidores públicos adscritos a la Dirección de Participación Ciudadana.
 
 ### CAPÍTULO SEGUNDO. DEL NOMBRAMIENTO, SUBSTITUCIÓN, REVOCACIÓN Y RENUNCIA
 
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
+
 ###### Artículo 4.
 
-Antes del nombramiento o ratificación por el Presidente Municipal; la Coordinación de Delegados Municipales, deberá de realizar una consulta entre los vecinos de la zona correspondiente, para que la designación de Delegado Municipal se realice en una persona que, reuniendo los requisitos que establece este Reglamento, resulte idónea para el desempeño del cargo.
+Antes del nombramiento o ratificación por el Presidente Municipal; la Dirección de Participación Ciudadana, deberá de realizar una consulta entre los vecinos de la zona correspondiente, para que la designación de Delegado Municipal se realice en una persona que, reuniendo los requisitos que establece este Reglamento, resulte idónea para el desempeño del cargo.
 
 ###### Artículo 5.
 
@@ -71,7 +81,9 @@ Son requisitos para ser nombrado o ratificado como Delegado Municipal, los sigui
 
 I. Ser ciudadana o ciudadano mexicano por nacimiento;
 
-II. Ser mayor de 21 años de edad y en pleno uso de sus facultades físicas y mentales;
+> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
+
+II. Ser mayor de 18 años de edad y en pleno uso de sus facultades físicas y mentales;
 
 III. Ser residente de la zona en la cual desempeñará el cargo, por lo menos durante un año anterior a su designación, excepto cuando se trate de zonas de reciente creación;
 
@@ -93,15 +105,23 @@ XI. No formar parte de órganos directivos de partidos políticos o ser su repre
 
 XII. No ser ministro de culto religioso.
 
+> <small>(ADICIONADA, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
+
+XIII. No ser miembro de Asociaciones Civiles.
+
 ###### Artículo 6.
 
 Las o los Delegados Municipales durarán en su cargo el período del Gobierno Municipal que los nombre, debiendo permanecer en su puesto, hasta el momento de ser substituidos formalmente por la Autoridad Municipal entrante, pudiendo ser ratificados en el ejercicio de sus funciones.
 
 Los cargos de Delegados Municipales serán honoríficos, pudiendo recibir por parte de la autoridad municipal, compensaciones y estímulos por el desempeño de sus facultades y obligaciones.
 
-Las y los Delegados Municipales podrán portar los distintivos o insignias que, para el desempeño de su cargo, les aporte el Gobierno Municipal.
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
 
-Los nombramientos y las credenciales que se extiendan a las y los Delegados Municipales serán rubricados por el Presidente Municipal y el Secretario del Ayuntamiento.
+Las y los Delegados Municipales deberán portar los distintivos o insignias que, para el desempeño de su cargo, les aporte el Gobierno Municipal.
+
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
+
+Los nombramientos y las credenciales que se extiendan a las y los Delegados Municipales serán rubricados por el Presidente Municipal, el Secretario del Ayuntamiento y el Secretario de Desarrollo Humano.
 
 ###### Artículo 7.
 
@@ -131,23 +151,31 @@ XI. Por incurrir en trasgresión a las leyes, a éste u otros reglamentos munici
 
 XII. Por otras causas graves, a juicio de la Autoridad Municipal.
 
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
+
 ###### Artículo 8.
 
-De incurrirse en alguna de las causas indicadas en el artículo anterior; el Presidente Municipal acordará la revocación inmediata del nombramiento de la o el Delegado Municipal infractor. Entretanto, mientras se realiza nuevo nombramiento, actuará la o el Delegado Municipal de la zona más cercana, a juicio del Coordinador de Delegados Municipales.
+De incurrirse en alguna de las causas indicadas en el artículo anterior; el Presidente Municipal acordará la revocación inmediata del nombramiento de la o el Delegado Municipal infractor. Entretanto, mientras se realiza nuevo nombramiento, actuará la o el Delegado Municipal de la zona más cercana, a juicio de la Dirección de Participación Ciudadana.
+
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
 
 ###### Artículo 9.
 
-La ausencia o incapacidad temporal de una o un Delegado Municipal será cubierta por la o el de la zona más cercana, a juicio del Coordinador de Delegados Municipales.
+La ausencia o incapacidad temporal de una o un Delegado Municipal será cubierta por la o el de la zona más cercana, a juicio de la Dirección de Participación Ciudadana.
 
-Los casos de ausencia o incapacidad temporal deberán ser notificados oportunamente, por escrito o por vía telefónica, por la o el Delegado Municipal, a la Coordinación de Delegados Municipales, a fin de que se tomen las providencias que amerite la situación.
+Los casos de ausencia o incapacidad temporal deberán ser notificados oportunamente, por escrito o por vía telefónica, por la o el Delegado Municipal, a la Dirección de Participación Ciudadana, a fin de que se tomen las providencias que amerite la situación.
+
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
 
 ###### Artículo 10.
 
-Cuando por cualquier motivo llegare a faltar o ausentarse una o un Delegado Municipal; los vecinos estarán facultados, para hacerlo del conocimiento del Presidente Municipal, Secretario del Ayuntamiento o de la Coordinación de Delegados Municipales, a fin de que se designe provisionalmente a una persona que funja interinamente. En cuyo caso, deberá designarse en un término no mayor de 60 días, a la persona que fungirá como Delegado Municipal en forma definitiva.
+Cuando por cualquier motivo llegare a faltar o ausentarse una o un Delegado Municipal; los vecinos estarán facultados, para hacerlo del conocimiento del Presidente Municipal, Secretario de Desarrollo Humano o de la Dirección de Participación Ciudadana, a fin de que se designe provisionalmente a una persona que funja interinamente. En cuyo caso, deberá designarse en un término no mayor de 90 días, a la persona que fungirá como Delegado Municipal en forma definitiva.
+
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
 
 ###### Artículo 11.
 
-Las o los Delegados Municipales podrán presentar su renuncia mediante oficio dirigido al Presidente Municipal, entregada por medio de la Coordinación de Delegados Municipales.
+Las o los Delegados Municipales podrán presentar su renuncia mediante oficio dirigido al Presidente Municipal, entregada por medio de la Dirección de Participación Ciudadana.
 
 ### CAPÍTULO TERCERO. DE LAS FACULTADES Y OBLIGACIONES DE LOS DELEGADOS MUNICIPALES
 
@@ -165,55 +193,77 @@ IV. Vigilar que las reuniones de tipo social, con fines de diversión, de conviv
 
 V. Mediar en los conflictos familiares o de vecinos de su zona, siempre y cuando los interesados lo soliciten, y únicamente con el carácter de consejero matrimonial, conciliador, amigable componedor o árbitro vecinal extrajudicial; intervendrá procurando arreglar las diferencias o conflictos mediante el diálogo y el avenimiento, aplicando el sentido común y los principios morales y de justicia, con el mayor respeto a la persona, dignidad y privacidad de las partes; de no lograr resultados positivos, orientará a los interesados para que acudan a la autoridad municipal encargada efectuar labores de mediación;
 
-VI. Hacer constar, a petición de algún vecino respecto de hechos que le manifieste, ante dos testigos vecinos no familiares debidamente identificados, los que podrán ser ofrecidos por el solicitante; y formular actas de hechos relacionados a sus funciones u obligaciones. También expedir copias de documentos que obren en su archivo; las constancias que expidan deberán ser legalizadas por el Secretario del Ayuntamiento; dichas certificaciones tendrán el valor probatorio que les asignen las leyes;
+> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
 
-VII. Extender constancia, cuando proceda, con certificación del Secretario del Ayuntamiento; formulada ante dos testigos vecinos no familiares debidamente identificados, y cuando tenga los elementos de juicio suficientes que describirá en el documento correspondiente, signando y sellando cada una de sus hojas, solo si le es solicitada por la o el interesado; de lo siguiente:
+VI. Expedir cartas, a petición de algún vecino respecto de hechos que le manifieste, ante dos testigos vecinos no familiares debidamente identificados, los que podrán ser ofrecidos por el solicitante; y formular actas de hechos relacionados a sus funciones u obligaciones. También expedir copias de documentos que obren en su archivo; las cartas que expidan deberán ser certificadas por el Secretario del Ayuntamiento; dichas certificaciones tendrán el valor probatorio que les asignen las leyes;
 
-a) Constancia de Residencia;
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 14 DE SEPTIEMBRE DE 2011)</small>
 
-b) Constancia de Cambio de Domicilio;
+VII. Extender cartas, cuando proceda, con certificación del Secretario del Ayuntamiento; formulada ante dos testigos vecinos no familiares debidamente identificados, y cuando tenga los elementos de juicio suficientes que describirá en el documento correspondiente, signando y sellando cada una de sus hojas, solo si le es solicitada por la o el interesado; de lo siguiente:
 
-c) Constancia de Domicilio Conyugal;
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
 
-d) Constancia de Estado Familiar de Unión Libre;
+a) Carta de Residencia;
 
-e) Constancia de Condición de Madre Soltera;
+b) (DEROGADO, P.O. 14 DE SEPTIEMBRE DE 2011)
 
-f) Constancia de Condición de Sostén Económico Familiar;
+c) (DEROGADO, P.O. 14 DE SEPTIEMBRE DE 2011)
 
-g) Constancia de Condición de Dependiente Económico;
+d) (DEROGADO, P.O. 14 DE SEPTIEMBRE DE 2011)
 
-h) Constancia de Ingresos Económicos;
+e) (DEROGADO, P.O. 14 DE SEPTIEMBRE DE 2011)
 
-i) Constancia de Abandono de Hogar;
+f) (DEROGADO, P.O. 14 DE SEPTIEMBRE DE 2011)
 
-j) Constancia de Ausencia del Hogar Conyugal por Causa Justificada;
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
 
-k) Constancia de Maltrato Conyugal;
+g) Carta de Condición de Dependiente Económico;
 
-l) Constancia de Maltrato Infantil;
+h) (DEROGADO, P.O. 14 DE SEPTIEMBRE DE 2011)
 
-m) Constancia de Identificación Personal por Causa de Inexistencia de Documentos Oficiales Probatorios; y,
+> <small>(REFORMADO, P. O. 14 DE SEPTIEMBRE DE 2011)</small>
+
+i) Carta de Abandono de Hogar;
+
+j) (DEROGADO, P.O. 14 DE SEPTIEMBRE DE 2011)
+
+k) (DEROGADO, P.O. 14 DE SEPTIEMBRE DE 2011)
+
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
+
+l) Carta de Solicitud de Beca,
+
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
+
+m) Carta de Manifiesto; y,
+
+(REPUBLICADO, P.O. 14 DE SEPTIEMBRE DE 2011)
 
 n) Las demás que autorice la autoridad municipal.
 
-VIII) Solicitar colaboración de la Coordinación de Delegados Municipales y demás Autoridades Municipales competentes, en la medida y forma que estime conveniente, para el buen desempeño de sus facultades y cumplimiento de sus obligaciones;
+VIII. Solicitar colaboración de la Coordinación de Delegados Municipales y demás Autoridades Municipales competentes, en la medida y forma que estime conveniente, para el buen desempeño de sus facultades y cumplimiento de sus obligaciones;
 
-IX) Fungir como promotor ciudadano en la realización de programas y acciones que lleve a cabo la autoridad municipal por medio de sus dependencias o entidades;
+IX. Fungir como promotor ciudadano en la realización de programas y acciones que lleve a cabo la autoridad municipal por medio de sus dependencias o entidades;
 
-X) Auxiliarse de vecinos que funjan como colaboradores dentro de la zona que se le asigne, con el visto bueno de la autoridad municipal;
+X. Auxiliarse de vecinos que funjan como colaboradores dentro de la zona que se le asigne, con el visto bueno de la autoridad municipal;
 
-XI) Auxiliar y colaborar con las autoridades federales, estatales y municipales en los asuntos de sus respectivas competencias; y realizar gestiones de asuntos de interés comunitario, por sí o en representación de los vecinos, ante sus dependencias u organismos descentralizados;
+> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
 
-XII) Reportar a la autoridad municipal correspondiente todas las deficiencias en la prestación de servicios públicos que afecten la zona que le corresponda;
+XI. Auxiliar y colaborar con las autoridades federales, estatales y municipales en los asuntos de sus respectivas competencias;
 
-XIII) Denunciar o reportar ante el Presidente Municipal o autoridad municipal competente, la negligencia o abuso de los servidores públicos del municipio o desatención a sus solicitudes como vínculo ciudadano;
+XII. Reportar a la autoridad municipal correspondiente todas las deficiencias en la prestación de servicios públicos que afecten la zona que le corresponda;
 
-XIV) Hacer del conocimiento de la autoridad competente, cuando en su zona se realice la violación de los reglamentos municipales; del horario establecido para la venta y/o consumo de bebidas alcohólicas por los negocios del ramo; del giro autorizado según los diversos negocios establecidos en su zona; la venta clandestina de bebidas alcohólicas o la distribución de drogas psicotrópicas; la violación de los permisos y licencias de uso de suelo o de edificación; y el quebrantamiento o violación de sellos de clausura;
+XIII. Denunciar o reportar ante el Presidente Municipal o autoridad municipal competente, la negligencia o abuso de los servidores públicos del municipio o desatención a sus solicitudes como vínculo ciudadano;
 
-XV) Fomentar la cultura ecológica entre los vecinos y negocios establecidos en su zona, principalmente promoviendo mediante el convencimiento, la arborización, la limpieza de calles y banquetas y que la basura se deposite en recipientes adecuados para su idónea recolección;
+XIV. Hacer del conocimiento de la autoridad competente, cuando en su zona se realice la violación de los reglamentos municipales; del horario establecido para la venta y/o consumo de bebidas alcohólicas por los negocios del ramo; del giro autorizado según los diversos negocios establecidos en su zona; la venta clandestina de bebidas alcohólicas o la distribución de drogas psicotrópicas; la violación de los permisos y licencias de uso de suelo o de edificación; y el quebrantamiento o violación de sellos de clausura;
 
-XVI) Las demás que establezcan éste y otros reglamentos municipales.
+XV. Fomentar la cultura ecológica entre los vecinos y negocios establecidos en su zona, principalmente promoviendo mediante el convencimiento, la arborización, la limpieza de calles y banquetas y que la basura se deposite en recipientes adecuados para su idónea recolección;
+
+XVI. Las demás que establezcan éste y otros reglamentos municipales.
+
+> <small>(ADICIONADA, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
+
+XVII. Expedir carta de Declaratoria de Inmueble Deshabitado y/o Desocupado, a petición de algún vecino respecto de la existencia de un predio o terreno con construcción total o parcial sin ocupantes y/o habitantes dentro de su zona, que no cumple con las características estipuladas en el artículo 36 Bis del Reglamento del Servicio de Limpieza Municipal de San Nicolás de los Garza, Nuevo León y por tal motivo representa un riesgo de insalubridad e inseguridad para la comunidad, la cual será elaborada ante dos testigos vecinos no familiares debidamente identificados, los que podrán ser ofrecidos por el solicitante.
 
 ###### Artículo 13.
 
@@ -221,7 +271,9 @@ Son obligaciones de los Delegados Municipales, las siguientes:
 
 I. Enterarse de las necesidades, carencias y problemas que afecten a la comunidad, en la zona en que ejerzan su función, proporcionando los datos necesarios para su solución;
 
-II. Informar por escrito a la Coordinación de Delegados Municipales, respecto de las actividades desarrolladas en el mes calendario anterior;
+> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
+
+II. Informar por escrito a la Dirección de Participación Ciudadana, respecto de las actividades desarrolladas en el mes calendario anterior;
 
 III. Abstenerse de actuar en la zona de otro Delegados Municipales, salvo en los casos previstos en los Artículos 7, 8, 9, 10 y 11 del presente Reglamento;
 
@@ -229,9 +281,13 @@ IV. Informar a la autoridad competente, las deficiencias en la prestación de lo
 
 V. Auxiliar y colaborar en todo cuanto sea requerido por las Autoridades Federales, Estatales o Municipales, en los asuntos de su respectiva competencia;
 
-VI. Informar a la Autoridad Municipal de Seguridad Pública, sobre el pandillerismo, la vagancia, la mal vivencia, la drogadicción, la distribución de drogas, el consumo de bebidas alcohólicas en la vía pública, el rayado de paredes por vándalos y toda irregularidad que observen en su zona, principalmente aquellas que afecten el orden público, la tranquilidad, las buenas costumbres y la moral, rindiendo en casos graves, informe por escrito al Presidente Municipal, con copia para la Coordinación de Delegados Municipales;
+> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
 
-VII. Asistir obligatoriamente a las juntas programadas por la Coordinación de Delegados Municipales, quien previamente les indicará lugar, día y hora para su realización, teniendo estas reuniones como finalidad, analizar temas de interés general relacionados con su función;
+VI. Informar a la Autoridad Municipal de Seguridad Pública, sobre el pandillerismo, la vagancia, la mal vivencia, la drogadicción, la distribución de drogas, el consumo de bebidas alcohólicas en la vía pública, el rayado de paredes por vándalos y toda irregularidad que observen en su zona, principalmente aquellos que afecten el orden público, la tranquilidad, las buenas costumbres y la moral, rindiendo en casos graves, informe por escrito al Presidente Municipal, con copia para la Dirección de Participación Ciudadana;
+
+> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
+
+VII. Asistir obligatoriamente a las juntas programadas por la Dirección de Participación Ciudadana, quien previamente les indicará lugar, día y hora para su realización, teniendo estas reuniones como finalidad, analizar temas de interés general relacionados con su función;
 
 VIII. Portar la credencial que los acredite como Delegados Municipales.
 
@@ -269,13 +325,17 @@ XXIV. Las demás que establezcan éste y otros reglamentos municipales.
 
 ### CAPÍTULO CUARTO. DE LA COORDINACIÓN DE DELEGADOS MUNICIPALES
 
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
+
 ###### Artículo 14.
 
-La función de supervisión y asesoría de las y los Delegados Municipales estará a cargo de la Coordinación de Delegados Municipales; cuyo titular será designado por el Presidente Municipal.
+La función de supervisión y asesoría de las y los Delegados Municipales estará a cargo de la Dirección de Participación Ciudadana; cuyo titular será designado por el Presidente Municipal.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 14 DE SEPTIEMBRE DE 2011)</small>
 
 ###### Artículo 15.
 
-La Coordinación de Delegados Municipales, tendrá las siguientes facultades y obligaciones:
+La Dirección de Participación Ciudadana, tendrá las siguientes facultades y obligaciones:
 
 I. Fungir como enlace entre los Delegados Municipales, y las Autoridades del Municipio;
 
@@ -291,7 +351,9 @@ VI. Llevar un registro de Delegados Municipales en el que se incluyan sus firmas
 
 VII. Asesorar a los Delegados Municipales en los casos de conflicto de jurisdicción de su zona;
 
-VIII. Expedir credenciales y placas a los Delegados Municipales que los identifique como tales ante su comunidad. La credencial contará con la firma y sello del C. Presidente Municipal y del C. Secretario del Ayuntamiento;
+> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
+
+VIII. Expedir credenciales y placas a los Delegados Municipales que los identifique como tales ante su comunidad. La credencial contará con la firma y sello del C. Presidente Municipal, del C. Secretario del Ayuntamiento y del Secretario de Desarrollo Humano;
 
 IX. Recibir los informes de los Delegados Municipales respecto de las irregularidades que observen en su zona, así como las soluciones propuestas;
 
@@ -311,13 +373,17 @@ XII. Vigilar el debido cumplimiento de las disposiciones del presente Reglamento
 
 En la medida que se modifiquen las condiciones socioeconómicas del Municipio, en virtud de su desarrollo demográfico, social y de las actividades productivas y demás aspectos de la vida comunitaria, el presente Reglamento podrá ser modificado, tomando en cuenta la opinión de la comunidad.
 
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
+
 ###### Artículo 17.
 
-Para lograr el propósito a que se refiere el artículo anterior, el Presidente Municipal, el Secretario del Ayuntamiento, los Regidores y Síndicos, deberán recibir y atender cualquier propuesta, sugerencia, ponencia o queja que presenten los ciudadanos en relación con el contenido normativo de este Reglamento.
+Para lograr el propósito a que se refiere el artículo anterior, el Presidente Municipal, el Secretario del Ayuntamiento, el Secretario de Desarrollo Humano, los Regidores y Síndicos, deberán recibir y atender cualquier propuesta, sugerencia, ponencia o queja que presenten los ciudadanos en relación con el contenido normativo de este Reglamento.
+
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
 
 ###### Artículo 18.
 
-La Secretaría del Ayuntamiento, por conducto de la Coordinación de Delegados Municipales, recibirá cualquier propuesta, sugerencia, ponencia o queja que presenten los Delegados Municipales y los vecinos de la comunidad en relación a las distintas disposiciones contenidas en el presente ordenamiento.
+La Secretaría de Desarrollo Humano, por conducto de la Dirección de Participación Ciudadana, recibirá cualquier propuesta, sugerencia, ponencia o queja que presenten los Delegados Municipales y los vecinos de la comunidad en relación a las distintas disposiciones contenidas en el presente ordenamiento.
 
 ## ARTÍCULOS TRANSITORIOS
 
@@ -338,3 +404,11 @@ SECRETARIO DEL AYUNTAMIENTO
 C. LIC. GUSTAVO RAMÍREZ VILLAREAL
 
 Dado en el Salón de Sesiones del R. Ayuntamiento de San Nicolás de los Garza, Nuevo León, a los 26-veintiséis días del mes de Febrero del 2004- dos mil cuatro.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 14 DE SEPTIEMBRE DE 2011.
+
+## [N. DE E. TRANSITORIO DE LA "REFORMA AL REGLAMENTO DE DELEGADOS MUNICIPALES DEL MUNICIPIO DE SAN NICOLÁS DE LOS GARZA, NUEVO LEÓN”.]
+
+ÚNICO.- La presente reforma entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado.
