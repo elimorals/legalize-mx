@@ -4,7 +4,7 @@ identifier: "CHP-ley-del-colegio-de-bachilleres-de-chiapas-68450"
 country: "mx"
 rank: "ley"
 publication_date: "2009-03-18"
-last_updated: "2009-03-18"
+last_updated: "2011-09-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68450&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "CHP"
 
 LEY DEL COLEGIO DE BACHILLERES DE CHIAPAS
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY DEL COLEGIO DE BACHILLERES DE CHIAPAS, PUBLICADA EN LA TERCERA SECCION DEL PERIODICO OFICIAL DEL ESTADO, EL 14 DE SEPTIEMBRE DE 2011, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en la Tercera Sección del Periódico Oficial del Estado de Chiapas, el miércoles 18 de marzo de 2009.
 
@@ -1554,3 +1556,21 @@ Dado en el Salón de Sesiones del Honorable Congreso del Estado de Chiapas, en l
 De conformidad con la fracción I del artículo 42 de la Constitución Política Local y para su observancia, promulgo el presente Decreto en la Residencia del Poder Ejecutivo del Estado, en la Ciudad de Tuxtla Gutiérrez, Chiapas; a los dieciocho días del mes de marzo del año dos mil nueve.
 
 Juan Sabines Guerrero, Gobernador del Estado.- Noé Castañón León, Secretario General de Gobierno.- Rúbricas.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 14 DE SEPTIEMBRE DE 2011.
+
+Artículo Primero.- La presente Ley entrará en vigor a los treinta días posteriores al de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Se abroga la Ley del Colegio de Bachilleres de Chiapas, publicado en el Periódico Oficial número 151, Tercera Sección, de fecha dieciocho de marzo de dos mil nueve, así como las demás disposiciones que contravengan lo establecido en el presente ordenamiento.
+
+Artículo Tercero.- En un periodo de 90 días hábiles a partir de la entrada en vigor de la presente Ley, el Director General someterá a aprobación de la Junta Directiva, el Reglamento y/o las reformas que sean necesarias, conforme a lo establecido en el presente Decreto, mismo que será de observancia para todos los trabajadores, alumnos y sociedad de padres de familia del organismo.
+
+Artículo Cuarto.- Con objeto de facilitar las actividades académicas, administrativas y financieras del Colegio de Bachilleres de Chiapas, todo el personal académico, directivo y administrativo que lo conforma continuará prestando sus servicios en los mismos términos en que lo han venido haciendo, a partir de la entrada en vigor de la presente Ley.
+
+Artículo Quinto.- A partir de la entrada en vigor de la presente Ley, los recursos humanos que forman parte del Colegio de Bachilleres de Chiapas, pasarán a formar parte del organismo que por esta Ley se crea, respetando en todo momento los derechos laborales que les correspondan.
+
+Asimismo, a partir de la entrada en vigor de la presente Ley, todos los recursos materiales y financieros del Colegio de Bachilleres de Chiapas, pasarán a formar parte del patrimonio del organismo creado por esta Ley.
+
+Artículo Sexto.- Las horas basificadas a que hace referencia la presente ley, serán únicamente las otorgadas hasta el ejercicio 2010.
