@@ -4,7 +4,7 @@ identifier: "CHP-ley-de-acceso-a-una-vida-libre-de-violencia-para-las-68552"
 country: "mx"
 rank: "ley"
 publication_date: "2009-03-23"
-last_updated: "2009-10-31"
+last_updated: "2011-09-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68552&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 LEY DE ACCESO A UNA VIDA LIBRE DE VIOLENCIA PARA LAS MUJERES EN EL ESTADO DE CHIAPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE OCTUBRE DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE SEPTIEMBRE DE 2011.
 
 Ley publicada en el Periódico Oficial del Estado de Chiapas, el lunes 23 de marzo de 2009.
 
@@ -67,9 +67,11 @@ VIII. Establecer bases de coordinación y cooperación entre las autoridades fed
 
 IX. Las demás que establezca la presente Ley, su reglamento y demás disposiciones legales aplicables en la materia.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
+
 ###### Artículo 3°.
 
-El Estado y los municipios, en el ámbito de sus respectivas competencias, expedirán los ordenamientos condignos y tomarán las medidas presupuestales y administrativas correspondientes, para garantizar el derecho de las mujeres a una vida libre de violencia, de conformidad con los Tratados Internacionales en la materia, ratificados por el Estado Mexicano.
+El Estado y los municipios, en el ámbito de sus respectivas competencias, expedirán los ordenamientos convenientes y tomarán las medidas presupuestales y administrativas correspondientes, para garantizar el derecho de las mujeres a una vida libre de violencia, de conformidad con los Tratados Internacionales en la materia, de los que el Estado Mexicano sea parte.
 
 El Estado y los municipios podrán coordinarse con la Federación para garantizar el derecho a que se refiere el párrafo anterior, en los términos de la legislación aplicable.
 
@@ -130,6 +132,10 @@ XVIII. Alimentos: Comprenden la comida, el vestido, habitación y asistencia en 
 XIX. Empoderamiento: Es un proceso por medio del cual las mujeres transitan de cualquier situación de opresión, desigualdad, discriminación, explotación o exclusión a un estado de conciencia, autodeterminación y autonomía, el cual se manifiesta en el ejercicio del poder democrático que emana del goce pleno de sus derechos y libertades.
 
 XX. Misoginia: Son conductas de odio hacia la mujer y se manifiesta en actos violentos y crueles contra ella por el hecho de ser mujer.
+
+> <small>(ADICIONADA, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
+
+XXI. Refugio: Es un espacio secreto temporal donde se proporciona atención a víctimas de violencia familiar, siendo una opción para salvaguardar su vida, salud e integridad física y emocional.
 
 ###### Artículo 6°.
 
@@ -215,9 +221,21 @@ IV. Asistencia médica y psicológica para la atención de las consecuencias gen
 
 V. Acciones de asistencia social que contribuyan a su pleno desarrollo;
 
-VI. Atención en un refugio temporal;
+> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
 
-VII. Las demás que establezcan esta Ley, su reglamento y otras disposiciones legales aplicables.
+VI. Atención en un refugio temporal en compañía de sus hijos.
+
+> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
+
+VII. La víctima no será obligada a participar en mecanismos de conciliación con su agresor.
+
+> <small>(ADICIONADA, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
+
+VIII. Las mujeres víctimas de violencia serán asistidas en todo tiempo por intérpretes y defensores sociales que tengan conocimiento de su lengua y cultura, en los casos que se requiera.
+
+> <small>(ADICIONADA, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
+
+IX. Las demás que establezcan esta ley, su reglamento y otras disposiciones legales aplicables.
 
 ###### Artículo 11.
 
@@ -261,6 +279,10 @@ III. Reingreso de la víctima al domicilio, una vez que se salvaguarde su seguri
 
 IV. Prohibición de intimidar o molestar a la víctima en su entorno social, así como a cualquier integrante de su familia.
 
+> <small>(ADICIONADA, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
+
+V. Auxilio policiaco de reacción inmediata a favor de la víctima, con autorización expresa de ésta, cualquier miembro de su familia o persona autorizada, para el ingreso al domicilio donde se localice o se encuentre la víctima en el momento de solicitar el auxilio.
+
 > <small>(ADICIONADO, P.O. 31 DE OCTUBRE DE 2009)</small>
 
 Las medidas a que se refiere el presente artículo, podrán ser emitidas por el Ministerio Público, cuando se ponga en peligro la vida y/o la libertad de la víctima, previa valoración psicológica y/o médica del perito en la materia legalmente acreditado ante esa institución.
@@ -279,7 +301,7 @@ III. Uso y goce de bienes muebles que se encuentren en el inmueble que sirva de 
 
 IV. Acceso al domicilio en común, de autoridades policíacas o de personas que auxilien a la víctima, para tomar sus objetos personales y documentos; previa orden de autoridad competente;
 
-V. Auxilio policíaco de reacción inmediata a favor de la víctima, con autorización expresa de ésta, cualquier miembro de su familia o persona autorizada, para el ingreso al domicilio donde se localice o se encuentre la víctima en el momento de solicitar el auxilio, y
+V. (DEROGADA, P.O. 14 DE SEPTIEMBRE DE 2011)
 
 VI. Brindar servicios reeducativos integrales especializados y gratuitos, con perspectiva de género al agresor en instituciones públicas debidamente acreditadas.
 
@@ -341,6 +363,8 @@ Los recursos humanos, financieros y materiales que conforman al sistema serán r
 
 ### Capítulo VI. De la Distribución de Competencias del Consejo
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
+
 ###### Artículo 26.
 
 El Consejo como órgano ejecutor del Sistema, con funciones de planeación y coordinación de los modelos de prevención, atención y erradicación de la violencia contra las mujeres, así como para fomentar y gestionar la protección y asistencia de las víctimas en el Estado, según los ordenamientos aplicables a la materia.
@@ -353,7 +377,9 @@ El Consejo estará integrado por:
 
 I. Un Presidente, que será designado por el Ejecutivo de entre los integrantes del Consejo.
 
-II. El Titular del Instituto Estatal de las Mujeres, quien fungirá como Secretario Ejecutivo.
+> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
+
+II. La Titular de la Secretaría para el Desarrollo y Empoderamiento de las Mujeres, quien fungirá como Secretario Ejecutivo.
 
 III. El Titular de la Procuraduría General de Justicia del Estado, quien fungirá como Secretario Técnico.
 
@@ -365,9 +391,13 @@ VI. El Titular de la Secretaría de Educación.
 
 VII. El Titular de la Secretaría de Salud.
 
-VIII. El Titular de la Secretaría de Desarrollo Social.
+> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
 
-IX. El Titular de la Secretaría de Pueblos Indios.
+VIII. El Titular de la Secretaría de Desarrollo y Participación Social.
+
+> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
+
+IX. El Titular de la Secretaría de Pueblos y Culturas Indígenas.
 
 X. El Titular del Sistema para el Desarrollo Integral de la Familia en el Estado.
 
@@ -375,7 +405,9 @@ XI. El Titular del Sistema Chiapaneco de Radio, Televisión y Cinematografía.
 
 XII. El Titular de la Coordinación General de Gabinetes del Poder Ejecutivo del Estado.
 
-XIII. El Titular de la Comisión de los Derechos Humanos.
+> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
+
+XIII. El Titular del Consejo Estatal de los Derechos Humanos.
 
 XIV. Un representante del Poder Judicial.
 
@@ -437,7 +469,9 @@ II. Transformar los modelos socioculturales de conducta de hombres y mujeres, in
 
 III. Impulsar la capacitación con perspectiva de género del personal a cargo de la Procuración de Justicia y Seguridad Pública;
 
-IV. Impulsar la capacitación de Magistradas, Magistrados, Juezas, Jueces, Defensoras y Defensores de Oficio, y personal a cargo del Poder Judicial, a fin de dotarles de instrumentos que les permitan realizar su labor con perspectiva de género;
+> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
+
+IV. Impulsar la capacitación de las y los Magistrados, Jueces y Defensores sociales, y demás integrantes del Poder Judicial, a fin de dotarles de instrumentos que les permitan realizar su labor con perspectiva de género;
 
 V. Proporcionar, a través de las autoridades e instituciones públicas o privadas, la atención especializada a las víctimas de violencia que garantice un servicio de carácter sensible, con apego a lo establecido en sus respectivos reglamentos internos;
 
@@ -455,7 +489,7 @@ X. Promover en la comunidad la cultura de denuncia de la violencia contra las mu
 
 ###### Artículo 34.
 
-Corresponde al Presidente del Consejo:
+Corresponde a la Presidencia del Consejo:
 
 I. Presidir las sesiones del Consejo;
 
@@ -489,9 +523,11 @@ XV. Garantizar el cumplimiento e implementación, en el Sector Salud, de las nor
 
 XVI. Las demás previstas en este y otros ordenamientos para el cumplimiento del objeto de la presente Ley.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
+
 ###### Artículo 35.
 
-Corresponde al Secretario Ejecutivo del Consejo:
+Corresponde a la Secretaría Ejecutiva del Consejo:
 
 I. Presidir las sesiones ordinarias y extraordinarias del consejo, en ausencia del Presidente;
 
@@ -521,9 +557,11 @@ XI. Administrar los recursos humanos, materiales y financieros del Consejo;
 
 XII. Las demás que le confieran el Consejo, su Presidente y otras disposiciones legales aplicables.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
+
 ###### Artículo 36.
 
-Corresponde al Secretario Técnico del Consejo:
+Corresponde a la Secretaría Técnica del Consejo:
 
 I. Elaborar los trabajos que le encomiende el Presidente y el Secretario Ejecutivo del Consejo;
 
@@ -575,7 +613,9 @@ X. Evaluar y considerar la eficacia del Programa Estatal, con base en los result
 
 XI. Coadyuvar con las instituciones públicas y privadas dedicadas a la atención de victimas;
 
-XII. Con apoyo del Instituto Estatal de las Mujeres se realizarán campañas de información y prevención de la violencia contra las mujeres, utilizando los medios idóneos para llegar a las localidades más apartadas, en las lenguas locales;
+> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
+
+XII. Con apoyo de la Secretaría para el Desarrollo y Empoderamiento de las Mujeres, se realizarán campañas de información y prevención de la violencia contra las mujeres, utilizando los medios idóneos para llegar a las localidades más apartadas, en las lenguas locales.
 
 XIII. Las demás que esta Ley y otros ordenamientos aplicables les confieran.
 
@@ -609,7 +649,13 @@ III. Brindar la asesoría que requieran los municipios a fin de suscribir conven
 
 IV. Convocar, concertar, coordinar y promover la integración y participación de los municipios en el Sistema Estatal;
 
-V. Las demás previstas para el cumplimiento de esta Ley.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 14 DE SEPTIEMBRE DE 2011)</small>
+
+V. Promover directrices para que los medios de comunicación favorezcan la erradicación de todos los tipos de violencia y se fortalezca la dignidad y el respeto hacia las mujeres.
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 14 DE SEPTIEMBRE DE 2011)</small>
+
+VI. Las demás previstas para el cumplimiento de esta Ley.
 
 ###### Artículo 41.
 
@@ -647,7 +693,9 @@ III. Promover acciones que garanticen la igualdad y la equidad en todas las etap
 
 IV. Proponer a la Secretaría de Educación Pública la incorporación en todos los programas educativos de temas relativos al respeto de los derechos humanos, la protección especial a personas vulnerables, la no discriminación, así como contenidos tendentes a modificar los modelos de conducta que impliquen prejuicios basados en la idea de la inferioridad o superioridad, y en roles estereotipados asignados a cada uno de los sexos;
 
-V. Desarrollar programas educativos en todos los tipos, niveles y modalidades, que fomenten la cultura de la no violencia hacia las mujeres, así como el respeto a la dignidad de las personas;
+> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
+
+V. Desarrollar programas educativos, en todos los niveles de escolaridad, que fomenten la cultura de una vida libre de violencia contra las mujeres y el respeto a su dignidad; así como la comprensión adecuada al ejercicio del derecho a una paternidad y maternidad libre, responsable e informada, como función social y el reconocimiento de la responsabilidad compartida de hombres y mujeres en cuanto a la educación y el desarrollo de sus hijos.
 
 VI. Elaborar materiales educativos, cursos y talleres dirigidos a la prevención de la violencia contra las mujeres y al desarrollo de habilidades para la resolución pacífica de conflictos;
 
@@ -669,11 +717,13 @@ XIV. Las demás previstas para el cumplimiento de esta Ley.
 
 ###### Artículo 43.
 
-Corresponde a-la Secretaría de Salud:
+Corresponde a la Secretaría de Salud:
 
 I. Brindar a las víctimas, en los hospitales públicos a su cargo, atención integral e interdisciplinaria;
 
-II. Crear programas de capacitación con perspectiva de género a través de diplomados, talleres y cursos, para el personal del sector salud, para generar acciones de prevención, promoción, atención y rehabilitación respecto de la violencia familiar y género;
+> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
+
+II. Crear programas de capacitación con perspectiva de género a través de diplomados, talleres y cursos, para el personal del sector salud, así como vigilar la aplicación de normas oficiales mexicanas vigentes a fin de generar acciones de prevención, promoción, atención y rehabilitación respecto de la violencia contra las mujeres;
 
 III. Difundir material informativo en los centros de salud, relativo a la prevención de la violencia contra las mujeres y a las organizaciones de la sociedad civil que se dedican a la salud de las mujeres y el impulso de campañas con perspectiva de género;
 
@@ -693,9 +743,11 @@ V. Canalizar a las víctimas de violencia a las instituciones que les presten as
 
 VI. Las demás previstas para el cumplimiento de esta Ley.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
+
 ###### Artículo 44.
 
-Corresponde a la Secretaría de Desarrollo:
+Corresponde a la Secretaría de Desarrollo y Participación Social:
 
 I. Fomentar el desarrollo social desde la visión de protección integral de los derechos humanos de las mujeres con perspectiva de género, para garantizarles una vida libre de violencia;
 
@@ -709,19 +761,19 @@ V. Promover políticas de igualdad de condiciones y oportunidades entre mujeres 
 
 VI. Las demás previstas para el cumplimiento de la presente Ley.
 
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
+
 ###### Artículo 45.
 
-Corresponde a la Secretaría de Pueblos Indios:
+Corresponde a la Secretaría de Pueblos y Culturas Indígenas:
 
-I. Promover la formación del personal de la Secretaría en perspectiva de género, derechos humanos y violencia contra las mujeres indígenas;
+I. Promover la formación del personal de la Secretaría en perspectiva de género, derechos humanos y violencia contra las mujeres indígenas.
 
-II. Promover y difundir los derechos de las mujeres indígenas con base en el reconocimiento de la composición pluricultural del Estado;
+II. Promover y difundir los derechos de las mujeres indígenas con base en el reconocimiento de la composición pluricultural del Estado.
 
-III. Vigilar que los usos y costumbres no atenten contra los derechos humanos de las mujeres indígenas;
+III. Vigilar que los usos y costumbres no atenten contra los derechos humanos de las mujeres indígenas.
 
-IV. (DEROGADA, P.O. 31 DE OCTUBRE DE 2009)
-
-V. Las demás previstas para el cumplimiento de la presente Ley.
+IV. Las demás previstas para el cumplimiento de la presente Ley.
 
 ###### Artículo 46.
 
@@ -735,7 +787,9 @@ III. Proporcionar a las mujeres víctimas de violencia, cuando ésta constituya 
 
 IV. Realizar ante hechos presumiblemente delictivos, los exámenes necesarios a las mujeres víctimas de violencia para determinar las alteraciones producidas en su estado de salud físico y emocional, así como su causa probable. Para tal fin, se aplicará el protocolo respectivo y se auxiliará por especialistas del sector salud;
 
-V. Colaborar proporcionando la información sobre edad, género y número de víctimas, causas y daños derivados de la violencia contra las mujeres al Instituto Estatal de las Mujeres e instancias encargadas de realizar estadísticas;
+> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
+
+V. Colaborar proporcionando la información sobre edad, género y número de víctimas, causas y daños derivados de la violencia contra las mujeres, a la Secretaría para el Desarrollo y Empoderamiento de las Mujeres e instancias encargadas de realizar estadísticas;
 
 VI. Proporcionar a las víctimas información sobre las instituciones públicas o privadas encargadas de brindarles asistencia;
 
@@ -745,15 +799,19 @@ VIII. Promover la cultura de denuncia de la violencia contra las mujeres;
 
 IX. Las demás previstas para el cumplimiento de esta Ley.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
+
 ###### Artículo 47.
 
-Corresponde al Instituto Estatal de las Mujeres:
+Corresponde a la Secretaría para el Desarrollo y Empoderamiento de las Mujeres:
 
 I. Participar en la elaboración y ejecución del Programa, y en el diseño de nuevos modelos de prevención y erradicación de la violencia contra las mujeres;
 
 II. Formular los proyectos de toda clase de contratos, convenios y acuerdos para el adecuado cumplimiento de las atribuciones del Consejo;
 
-III. Promover la creación de refugios para la atención a víctimas de violencia y centros de rehabilitación para agresores, de conformidad con su capacidad técnica y financiera, y con las atribuciones que el marco jurídico le otorga;
+> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
+
+III. Promover la creación de refugios para la atención a víctimas de violencia y centros de rehabilitación para agresores;
 
 IV. Contar con un área especializada para la asistencia y protección de las mujeres víctimas de violencia;
 
@@ -827,9 +885,11 @@ XIV. Las demás previstas para el cumplimiento de esta Ley.
 
 Corresponde al Sistema Chiapaneco de Radio, Televisión y Cinematografía coadyuvar con las dependencias para la difusión y publicidad de todo lo relacionado con los modelos de prevención, atención, sanción y erradicación de la violencia contra las mujeres.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
+
 ###### Artículo 50.
 
-Corresponde a la Comisión de Derechos Humanos las siguientes:
+Corresponde al Consejo Estatal de los Derechos Humanos:
 
 I. Promover la defensa, respeto, estudio y divulgación de los Derechos Humanos de las mujeres establecidos en el Orden Jurídico Mexicano e Internacional, considerando la diversidad cultural, las costumbres y tradiciones de grupos étnicos de la Entidad;
 
@@ -919,6 +979,10 @@ En todo momento las mujeres víctimas de violencia podrán decidir sobre su perm
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 31 DE OCTUBRE DE 2009)</small>
 
+### Capítulo XII. De las Responsabilidades y Sanciones
+
+> <small>(ADICIONADO, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
+
 ###### Artículo 59.
 
 Para los efectos de esta Ley, se considera violencia feminicida, a la forma extrema de Violencia de Género contra las Mujeres, producto de la violación de sus derechos humanos, en cualquier ámbito, conformada por el conjunto de conductas misóginas que pueden conllevar impunidad social y del Estado y puede culminar en el homicidio de mujeres.
@@ -963,6 +1027,12 @@ II. Solicitar al Juez el embargo precautorio de los bienes del probable responsa
 
 III. Informar a la víctima sobre el derecho que tiene de acudir a la Comisión Estatal de los Derechos Humanos, cuando de los hechos que constituyen delito también se desprende la violación a sus derechos humanos.
 
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
+
+###### Artículo 65.
+
+Será causa de responsabilidad administrativa el incumplimiento de esta ley y se sancionará conforme a las leyes en la materia.
+
 T r a n s i t o r i o s
 
 Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
@@ -992,3 +1062,9 @@ Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de s
 Artículo Segundo.- Se derogan las disposiciones que se opongan a este Decreto.
 
 Artículo Tercero.- El Sistema para el Desarrollo Integral de la Familia en el Estado, deberá integrar de inmediato el Banco Estatal de Datos e Información sobre Casos de Violencia contra las Mujeres.
+
+P.O. 14 DE SEPTIEMBRE DE 2011.
+
+Artículo Primero.- El presente Decreto entrará en vigor al siguiente día de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Se derogan todas las disposiciones que tengan igual o menor jerarquía al presente Decreto y se opongan al mismo.
