@@ -4,7 +4,7 @@ identifier: "PUE-reglamento-interior-de-la-comision-para-el-acceso-a-la-49468"
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-11-30"
-last_updated: "2005-11-30"
+last_updated: "2011-09-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=49468&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "PUE"
 ---
 # REGLAMENTO INTERIOR DE LA COMISION PARA EL ACCESO A LA INFORMACION PUBLICA DE LA ADMINISTRACION PUBLICA ESTATAL
 
-REGLAMENTO INTERIOR DE LA COMISION PARA EL ACCESO A LA INFORMACION PUBLICA DE LA ADMINISTRACION PUBLICA ESTATAL
+REGLAMENTO INTERIOR DE LA COMISIÓN PARA EL ACCESO A LA INFORMACIÓN PÚBLICA DE LA ADMINISTRACIÓN PÚBLICA ESTATAL DEL ESTADO DE PUEBLA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE SEPTIEMBRE DE 2011.
 
 Reglamento publicado en la Tercera Sección del Periódico Oficial del Estado de Puebla, el miércoles 30 de noviembre de 2005.
 
@@ -389,9 +389,11 @@ XVIII. Promover que los Sujetos Obligados difundan la información que ya esté 
 
 XIX. Las demás que le confiera la Comisión.
 
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
+
 ###### ARTÍCULO 16.
 
-La Dirección de Capacitación y Vinculación Ciudadana asumirá las funciones de la Unidad Administrativa de Acceso a la Información de la Comisión.
+La Dirección de la Unidad de Desarrollo Administrativo y Planeación asumirá las funciones de la Unidad Administrativa de Acceso a la Información de la Comisión.
 
 ### CAPÍTULO OCTAVO. DE LA DIRECCIÓN DE SISTEMAS Y SEGUIMIENTO
 
@@ -564,3 +566,9 @@ El presente Reglamento Interior entrará en vigor al día siguiente de su public
 Así lo acordó el Pleno de la Comisión para el Acceso a la Información Pública de la Administración Pública Estatal, en la sesión celebrada el día dieciocho de mayo del año dos mil cinco.- El Comisionado Presidente.- ROBERTO DÍAZ SÁENZ.- Rúbrica.- Los Comisionados: JOSEFINA BUXADÉ CASTELÁN y ANTONIO JUÁREZ ACEVEDO.- Rúbricas.
 
 Por tanto se acuerda su expedición y se manda imprimir, publicar y circular para sus efectos. Dado en la sede del Poder Ejecutivo, a los diez días del mes de noviembre de dos mil cinco.-.El Gobernador Constitucional del Estado. LICENCIADO MARIO P. MARÍN TORRES: Rúbrica.- El Secretario de Gobernación.- LICENCIADO JAVIER LÓPEZ ZAVALA.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 14 DE SEPTIEMBRE DE 2011.
+
+LA MODIFICACIÓN CON ANTELACIÓN CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS ACTUALIZADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3° DEL CÓDIGO CIVIL FEDERAL VIGENTE.
