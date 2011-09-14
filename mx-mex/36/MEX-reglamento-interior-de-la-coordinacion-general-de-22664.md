@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-interior-de-la-coordinacion-general-de-22664"
 country: "mx"
 rank: "reglamento"
 publication_date: "2001-11-12"
-last_updated: "2001-11-12"
+last_updated: "2011-09-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22664&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MEX"
 ---
 # REGLAMENTO INTERIOR DE LA COORDINACION GENERAL DE COMUNICACION SOCIAL
 
-REGLAMENTO INTERIOR DE LA COORDINACION GENERAL DE COMUNICACION SOCIAL
+REGLAMENTO INTERIOR DE LA COORDINACION GENERAL DE COMUNICACION SOCIAL DEL ESTADO DE MÉXICO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA COORDINACIÓN GENERAL DE COMUNICACIÓN SOCIAL, PUBLICADO EN LA G.G. 14 DE SEPTIEMBRE DE 2011, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO
 
 Reglamento publicado en la Sección Cuarta de la Gaceta del Gobierno del Estado de México, el lunes 12 de noviembre de 2001.
 
@@ -280,3 +282,15 @@ EL SECRETARIO GENERAL DE GOBIERNO
 MANUEL CADENA MORALES
 
 (RUBRICA).
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+G.G. 14 DE SEPTIEMBRE DE 2011.
+
+PRIMERO.- Publíquese el presente Reglamento en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- Este Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- Se abroga el Reglamento Interior de la Coordinación General de Comunicación Social, publicado en el Periódico Oficial "Gaceta del Gobierno", el 12 de noviembre de 2001.
+
+CUARTO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan a las contenidas en el presente Reglamento.
