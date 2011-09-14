@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-las-asociaciones-de-padres-de-familia-en-el-40038
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-06-18"
-last_updated: "2004-06-18"
+last_updated: "2011-09-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40038&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 REGLAMENTO DE LAS ASOCIACIONES DE PADRES DE FAMILIA EN EL ESTADO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE SEPTIEMBRE DE 2011.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el viernes 18 de junio de 2004.
 
@@ -51,7 +51,9 @@ III.- Padre o padres de familia: padre, madre, tutor o cualquier persona que eje
 
 IV.- Secretaría: la Secretaría de Educación; y
 
-V.- Oficina Regional: Jefes de Región o USEDES dependientes de la Secretaría de Educación.
+> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
+
+V.- Unidad Regional: Coordinadores de Región dependientes de la Secretaría de Educación del Estado.
 
 ###### Artículo 2.
 
@@ -73,7 +75,9 @@ Las asociaciones tendrán por objeto:
 
 I.- Representar ante las autoridades de la institución educativa y ante la Secretaría, los intereses que en materia educativa sean comunes a sus asociados;
 
-II.- Colaborar con las autoridades de la institución educativa a fin de lograr una mejor integración de la comunidad escolar, así como el mejoramiento y funcionamiento de aquélla;
+> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
+
+II.- Colaborar con las autoridades de la institución educativa y con el Consejo Escolar de Participación Social en la Educación, a fin de lograr una mejor integración de la comunidad escolar, así como el mejoramiento y funcionamiento de aquélla;
 
 III.- Colaborar en forma voluntaria con aportaciones en numerario, bienes y servicios a favor de la institución educativa, previo acuerdo de la asamblea general;
 
@@ -95,7 +99,9 @@ Para el cumplimiento de su objeto, las asociaciones tendrán las siguientes facu
 
 I.- Participar en la aplicación de las aportaciones voluntarias que en numerario, bienes y servicios las propias asociaciones hagan a favor de la institución educativa, para el cumplimiento de los fines de la misma;
 
-II.- Colaborar con las autoridades de la institución educativa y en su caso, con la Secretaría, en la planeación y realización de acciones y obras materiales que tiendan a mejorar el funcionamiento de los planteles escolares;
+> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
+
+II.- Colaborar con las autoridades de la institución educativa, con el Consejo Escolar de Participación Social en la Educación y en su caso, con la Secretaría, en la planeación y realización de acciones y obras materiales que tiendan a mejorar el funcionamiento de los planteles escolares;
 
 III.- Recaudar fondos derivados de las aportaciones voluntarias de sus integrantes, realizar eventos especiales debidamente autorizados por la autoridad competente, recibir donaciones de personas ajenas a la institución educativa a favor de la misma, manejar recursos financieros y cualesquier otro ingreso lícito para la consecución del objeto de la asociación;
 
@@ -111,15 +117,15 @@ VIII.- Las que resulten necesarias para el cumplimiento de su objeto y que se de
 
 ### CAPÍTULO TERCERO. DE LA CONSTITUCIÓN
 
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
+
 ###### Artículo 8.
 
 En cada institución de educación básica oficial o particular con autorización y/o reconocimiento de validez oficial de estudios, deberá constituirse una asociación, misma que deberá registrarse ante la Secretaría.
 
 Dichas asociaciones deberán constituirse por los padres de familia que cuenten con hijos o pupilos inscritos en la institución educativa de que se trate.
 
-No podrá existir más de una asociación por institución educativa, salvo en los casos siguientes:
-
-La institución educativa particular con autorización y/o reconocimiento de validez oficial de estudios que proporcione en un mismo plantel el servicio educativo para diferentes niveles, podrá constituir una asociación por nivel, en la que deberá representarse a los diferentes niveles educativos.
+La institución educativa particular con autorización y/o reconocimiento de validez oficial de estudios que proporcione en un mismo plantel el servicio educativo para diferentes niveles, deberá constituir una asociación por nivel.
 
 En la institución educativa oficial que funcione en dos o más turnos, deberá constituirse una asociación por cada turno.
 
@@ -141,7 +147,9 @@ En las instituciones educativas de nueva creación, la asociación se constituir
 
 I.- El director de la institución educativa, con base en el padrón de familias de alumnos inscritos, expedirá una convocatoria en la que se les informe a los padres de alumnos inscritos en la institución educativa de que se trate, de la celebración de la sesión constitutiva de la asociación;
 
-II.- La convocatoria deberá notificarse al menos cinco días hábiles antes de la realización de la asamblea general, entregándose una copia simple con acuse de recibo a cada alumno para los padres de familia, así como mediante la colocación de avisos en el periódico mural y en la puerta de entrada de la institución educativa, debiendo entregarse una copia de la convocatoria a la Oficina Regional correspondiente;
+> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
+
+II.- La convocatoria deberá notificarse al menos tres días hábiles antes de la realización de la asamblea general, entregándose una copia simple con acuse de recibo a cada alumno para los padres de familia, así como mediante la colocación de avisos en el periódico mural y en la puerta de entrada de la institución educativa, debiendo entregarse una copia de la convocatoria a la Unidad Regional correspondiente;
 
 III.- El quórum necesario para la validez de la sesión constitutiva será al menos el de la mitad más uno de las familias de alumnos inscritos en la institución educativa. En caso de no reunir dicho quórum de asistencia, el director de la institución educativa expedirá una nueva convocatoria dentro de los cinco días hábiles siguientes a la fecha señalada para la primera sesión. La sesión en segunda convocatoria deberá celebrarse dentro de los cinco días hábiles siguientes a la expedición de la segunda convocatoria, la cual se celebrará y será válida con la asistencia de cualquier número de asistentes;
 
@@ -165,7 +173,9 @@ En las instituciones educativas particulares con autorización y/o reconocimient
 
 III.- Ejercer el voto correspondiente en las sesiones de la asamblea general;
 
-IV.- Ser electos para formar parte de la mesa directiva de la asociación, con la salvedad de que sólo podrá participar un miembro por familia;
+> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
+
+IV.- Ser electos para formar parte de la mesa directiva de la asociación, de un solo plantel educativo a la vez, con la salvedad de que sólo podrá participar un miembro por familia;
 
 V.- Cooperar de manera voluntaria en la ejecución de aquellos acuerdos de la asamblea general que tengan relación directa con el objeto y atribuciones de la asociación;
 
@@ -225,6 +235,10 @@ La asamblea general sesionará ordinariamente al menos dos veces durante el cicl
 
 Para que una sesión de la asamblea general se considere válida, deberá contar con un quórum de asistencia de al menos la mitad más uno de los integrantes de la asociación.
 
+> <small>(ADICIONADO, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
+
+La convocatoria deberá notificarse con acuse de recibo en un término no mayor de cinco días hábiles previos a la realización de la asamblea general.
+
 En caso de que en primera convocatoria no se reúna el quórum requerido, se convocará nuevamente a sesión mediante segunda convocatoria, que deberá expedirse en un plazo máximo de cinco días hábiles después de la fecha fijada para la primera convocatoria. La sesión resultante de la segunda convocatoria deberá celebrarse en un plazo máximo de cinco días hábiles a partir de la emisión de la misma y se considerará válida con la asistencia de cualquier número de asociados.
 
 El director de la institución educativa deberá proporcionar a la mesa directiva saliente, previo a la sesión en la que se elija a la mesa directiva entrante, un padrón actualizado de familias cuyos hijos o pupilos estén inscritos en la institución educativa.
@@ -241,9 +255,11 @@ De las sesiones de la asamblea general se levantará un acta circunstanciada en 
 
 ### CAPÍTULO SÉPTIMO. DE LA MESA DIRECTIVA
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
+
 ###### Artículo 18.
 
-En las dos últimas semanas del mes de junio, la Secretaría, por conducto del director y del presidente de la mesa directiva de la institución educativa de que se trate, convocará a los padres de familia de los alumnos inscritos, para la elección o renovación de la mesa directiva, mediante sesión que deberá celebrarse antes del último día hábil del ciclo escolar correspondiente.
+En las dos últimas semanas del mes de junio, la Secretaría, por conducto del director y del presidente de la mesa directiva de la institución educativa de que se trate, convocará y realizará la asamblea general de padres de familia de los alumnos inscritos, para la elección o renovación de la mesa directiva.
 
 En la sesión en la que se lleve a cabo la elección o renovación de la mesa directiva, la asamblea general designará una mesa de debates provisional compuesta por un presidente, un secretario y tres escrutadores, la cual tendrá bajo su responsabilidad el desahogo del proceso de elección de la mesa directiva entrante, bajo el principio de mayoría. La mesa de debates provisional se elegirá mediante el voto de la mayoría de los presentes, de entre las propuestas que hagan los asociados.
 
@@ -253,7 +269,9 @@ La mesa directiva entrante iniciará sus actividades al momento de ser electa y 
 
 En la sesión para la elección de la mesa directiva entrante, la mesa directiva en funciones deberá rendir un informe de actividades y un reporte financiero por escrito a los asociados que se encuentren presentes, y en su caso a la Secretaría, cuando así lo solicitare.
 
-La mesa directiva en funciones, a través de la dirección de la institución educativa, pondrá a disposición de los padres de familia tanto el informe de actividades como el reporte financiero a que se refieren el párrafo inmediato anterior, con una anticipación mínima de cinco días hábiles a la fecha de celebración de la sesión en la que se vaya a elegir a los integrantes de la nueva mesa directiva.
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
+
+La mesa directiva en funciones, a través de la dirección de la institución educativa, pondrá a disposición de los padres de familia tanto el informe de actividades como el reporte financiero a que se refieren el párrafo inmediato anterior, con una anticipación mínima de dos días hábiles a la fecha de celebración de la sesión en la que se vaya a elegir a los integrantes de la nueva mesa directiva.
 
 ###### Artículo 20.
 
@@ -303,7 +321,9 @@ En caso de ausencias temporales para el ejercicio de sus correspondientes facult
 
 Los integrantes de la mesa directiva durarán en su encargo un año y sus cargos serán honoríficos y de colaboración, por lo que no percibirán remuneración económica alguna por ejercer tales cargos. Podrán ser reelectos para el mismo encargo por un período más, siempre y cuando aún tengan hijos o pupilos inscritos como alumnos en la institución educativa de que se trate. Para los casos de reelección, se requiere una votación calificada de las dos terceras partes de los miembros presentes de la asociación, en la asamblea general que corresponda.
 
-En caso de renuncia de cualquier integrante de la mesa directiva, abandono del cargo o incumplimiento de las obligaciones inherentes al mismo, será sustituido mediante designación realizada por la misma mesa directiva por alguno de sus integrantes y esto dentro de los diez días hábiles siguientes a la fecha de la renuncia y demás supuestos previstos al inicio del presente párrafo; ello únicamente en forma provisional, ya que deberán ser nombrados en forma definitiva en la subsecuente asamblea general, notificando de manera inmediata y por escrito a la Oficina Regional correspondiente.
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
+
+En caso de renuncia de cualquier integrante de la mesa directiva, abandono del cargo o incumplimiento de las obligaciones inherentes al mismo, será sustituido mediante designación realizada por la misma mesa directiva y por alguno de sus integrantes, esto dentro de los diez días hábiles siguientes a la fecha de la renuncia y demás supuestos previstos al inicio del presente párrafo; ello únicamente en forma provisional, ya que deberán ser nombrados en forma definitiva en la subsecuente asamblea general, notificando de manera inmediata y por escrito a la Unidad Regional correspondiente.
 
 Se entiende por abandono del cargo la falta injustificada a dos o más sesiones consecutivas de la mesa directiva, ordinarias o extraordinarias.
 
@@ -367,7 +387,9 @@ VI.- En coordinación con el director de la institución educativa, verificar qu
 
 VII.- En la última sesión de la asociación que corresponda al término de su gestión, rendir a la asamblea general un informe de los trabajos desarrollados;
 
-VIII.- Representar a la asociación ante el Consejo Consultivo Escolar de Participación Ciudadana para la Educación; y
+> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
+
+VIII.- Representar a la asociación ante el Consejo Escolar de Participación Social en la Educación; y
 
 IX.- Las demás que le confiera este Reglamento, cualquier otra disposición legal aplicable o bien los lineamientos que al respecto emita la Secretaría.
 
@@ -381,7 +403,9 @@ II.- Vigilar que las cifras señaladas en los informes, facturas y demás docume
 
 III.- Elaborar y rendir en las sesiones ordinarias de la asamblea general, un informe sobre los ingresos y egresos obtenidos en el período inmediato anterior y publicarlo en el periódico mural de la institución educativa correspondiente;
 
-IV.- Elaborar conjuntamente con el presidente y bajo la asesoría del director de la escuela, los informes mensuales y anual de las actividades, ingresos y egresos de la mesa directiva, conforme a los lineamientos que para tal efecto expida la Secretaría, debiendo enviar copia de dichos informes a la Oficina Regional correspondiente. En caso de que no entreguen el o los informes a la oficina regional, esta le requerirá por única vez y por escrito, para que regularice su situación;
+> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
+
+IV.- Elaborar conjuntamente con el presidente y bajo la asesoría del director de la escuela, los informes mensuales y anual de las actividades, ingresos y egresos de la mesa directiva, conforme a los lineamientos que para tal efecto expida la Secretaría, debiendo enviar copia de dichos informes a la Unidad Regional correspondiente. En caso de que no entregue el o los informes a la Unidad Regional, ésta le requerirá por única vez y por escrito, para que regularice su situación.
 
 V.- Al concluir su encargo y en la sesión en la que se nombre a la mesa directiva entrante, deberá hacer entrega al nuevo tesorero, en forma material e inmediata, de los recursos existentes en la asociación y la documentación correspondiente, de conformidad con los lineamientos que en esta materia expida la Secretaría; y
 
@@ -407,7 +431,9 @@ VI.- Las demás que le confiera este Reglamento, cualquier otra disposición leg
 
 Los vocales de la mesa directiva tendrán las siguientes facultades y obligaciones:
 
-I.- Apoyar a la mesa directiva de la asociación de la institución educativa oficial, en la carga de trabajo administrativa, operativa y de vigilancia, existente en la tienda escolar;
+> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
+
+I.- Apoyar a la mesa directiva de la asociación de la institución educativa oficial, en la carga de trabajo administrativo, operativo y de vigilancia, existente en el establecimiento de consumo escolar;
 
 II.- Cooperar en el funcionamiento de la mesa directiva, de la manera como acuerde la misma;
 
@@ -479,7 +505,9 @@ II.- Donaciones de personas ajenas a la institución educativa: son los donativo
 
 III.- Ingresos por realización de eventos especiales: son los obtenidos por la asociación en la celebración de dichos eventos;
 
-IV.- Ventas en la tienda escolar: constituyen los ingresos obtenidos por la asociación por la venta de alimentos en dicha tienda;
+> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
+
+IV.- Ventas en el establecimiento de consumo escolar constituyen los ingresos obtenidos por la asociación por la venta de alimentos en dicho establecimiento;
 
 V.- Productos financieros: son los rendimientos de los depósitos bancarios efectuados por la mesa directiva en una institución de crédito, en sus cuentas de ahorros, cheques y/o inversiones;
 
@@ -495,13 +523,17 @@ Para el caso de que se fusione o cierre una institución educativa oficial y que
 
 En las instituciones educativas particulares con autorización y/o reconocimiento de validez oficial de estudios, el manejo y aplicación de los fondos obtenidos por la asociación se regirá de acuerdo a los términos señalados en su reglamento interno, en los acuerdos de la asamblea general y en las demás disposiciones legales que resulten aplicables.
 
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
+
 ###### Artículo 42.
 
-En cumplimiento de lo previsto por la Ley de Educación del Estado, el equipo y mobiliario que se adquiera en las instituciones educativas oficiales con aportaciones de los padres de familia de los alumnos o donaciones mediante fondos provenientes de terceros, pasarán a formar parte del patrimonio del Gobierno del Estado, debiendo registrarse formalmente en el inventario escolar en un plazo máximo de quince días naturales, contados a partir del momento en que se reciban en la institución educativa, dando aviso a la Oficina Regional correspondiente, a la Dirección de Patrimonio de la Oficialía Mayor de Gobierno y a la Contraloría Interna del Estado.
+En cumplimiento de lo previsto por la Ley de Educación del Estado, el equipo y mobiliario que se adquiera en las instituciones educativas oficiales con aportaciones de los padres de familia de los alumnos, o donaciones mediante fondos provenientes de terceros, pasarán a formar parte del patrimonio del Gobierno del Estado, debiendo registrarse formalmente en el inventario escolar en un plazo máximo de quince días naturales, contados a partir del momento en que se reciban en la institución educativa, dando aviso a la Unidad Regional correspondiente, a la Dirección de Patrimonio y a la Contraloría y Transparencia Gubernamental.
+
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
 
 ###### Artículo 43.
 
-A efecto de recaudar fondos y cumplir con el objeto de la asociación, la mesa directiva en coordinación con el director de la institución educativa, podrá establecer dentro de la institución educativa oficial de que se trate, una tienda escolar que funcionará durante el descanso parcial de los educandos, con venta exclusivamente de alimentos higiénicamente preparados para los estudiantes y personal de la institución educativa, la cual se regirá por los lineamientos que en esta materia emita la Secretaría.
+A efecto de recaudar fondos y cumplir con el objeto de la asociación, la mesa directiva en coordinación con el director de la institución educativa, podrá establecer dentro de la institución educativa oficial de que se trate, un establecimiento de consumo escolar, que funcionará durante el descanso parcial de los educandos, con venta exclusivamente de alimentos higiénicamente preparados para los estudiantes y personal de la institución educativa, el cual se regirá por los lineamientos que en esta materia emita la Secretaría.
 
 ### CAPÍTULO DÉCIMO PRIMERO. DE LAS INCIDENCIAS
 
@@ -509,7 +541,9 @@ A efecto de recaudar fondos y cumplir con el objeto de la asociación, la mesa d
 
 En caso de controversia entre los asociados, éstos acudirán ante el director de la institución educativa de que se trate, el que deberá coadyuvar en la solución del conflicto existente. De no lograrla, solicitará la intervención del supervisor/inspector y el jefe de sector, para tal fin.
 
-De subsistir la controversia, los asociados acudirán ante la Oficina Regional correspondiente, la cual deberá coadyuvar en la solución del conflicto existente. De no resolverse el caso, éste se remitirá con su respectivo expediente a la Dirección de Participación Social de la Secretaría, quien efectuará las diligencias necesarias a fin de presentar una posible solución al conflicto.
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
+
+De subsistir la controversia, los asociados acudirán ante la Unidad Regional correspondiente, la cual deberá coadyuvar en la solución del conflicto existente. De no resolverse el caso, éste se remitirá con su respectivo expediente a la Dirección de Participación Social de la Secretaría, quien efectuará las diligencias necesarias a fin de presentar una posible solución al conflicto.
 
 En cada caso, se deberá levantar el acta administrativa circunstanciada correspondiente.
 
@@ -820,3 +854,9 @@ NAPOLEÓN CANTÚ CERNA
 LA C. SECRETARIA DE EDUCACIÓN
 
 MARÍA YOLANDA BLANCO GARCÍA
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 14 DE SEPTIEMBRE DE 2011.
+
+ÚNICO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
