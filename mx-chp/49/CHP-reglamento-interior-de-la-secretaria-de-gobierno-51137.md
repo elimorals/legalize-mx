@@ -4,7 +4,7 @@ identifier: "CHP-reglamento-interior-de-la-secretaria-de-gobierno-51137"
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-06-21"
-last_updated: "2006-06-21"
+last_updated: "2011-09-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51137&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "CHP"
 
 REGLAMENTO INTERIOR DE LA SECRETARIA DE GOBIERNO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARIA DE GOBIERNO, PUBLICADO EN EL P.O. DE 14 DE SEPTIEMBRE DE 2011, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Periódico Oficial del Estado de Chiapas, el miércoles 21 de junio de 2006.
 
@@ -1152,3 +1154,23 @@ Segundo.- Se abroga el Reglamento Interior de la Secretaría de Gobierno conteni
 Dado en la Residencia del Poder Ejecutivo del Estado, en la Ciudad de Tuxtla Gutiérrez, Chiapas; a los tres días del mes de mayo del año dos mil seis.
 
 Pablo Salazar Mendiguchía, Gobernador del Estado.- Roger Grajales González, Secretario de Gobierno.- Rúbricas.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 14 DE SEPTIEMBRE DE 2011.
+
+Artículo Primero.- El presente Reglamento Interior entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Se abroga el Reglamento Interior de la Secretaría de Gobierno, contenido en la Publicación Estatal número 2690-A-2006, publicado en el Periódico Oficial número 368, Segunda Sección, de fecha 21 de junio del año 2006; así como todas las disposiciones legales que se opongan al presente Reglamento.
+
+Artículo Tercero.- Los asuntos pendientes a la entrada en vigor de este Reglamento, que conforme al mismo deban pasar de un órgano administrativo a otro, continuarán su trámite y serán resueltos por aquel o aquellos órganos a los que se les haya atribuido la competencia correspondiente en este Reglamento.
+
+Artículo Cuarto.- Las menciones que los convenios, acuerdos, leyes, reglamentos y demás disposiciones legales hagan de servidores públicos u órganos administrativos de la Secretaría General de Gobierno cuya denominación, funciones o atribuciones se vean modificadas con motivo de la entrada en vigor del presente reglamento, se entenderán referidas a los servidores públicos u órganos administrativos que, conforme al mismo, sean competentes en la materia de que se trate.
+
+Artículo Quinto.- Las dependencias normativas del Poder Ejecutivo del Estado, en el ámbito de sus respectivas competencias, deberán llevar a cabo de inmediato las acciones que sean necesarias para el cumplimiento de lo ordenado en este instrumento.
+
+Artículo Sexto.- En los casos no previstos en el presente Reglamento y en los que se presente controversia en cuanto a su aplicación y observancia, el Secretario resolverá lo conducente.
+
+Artículo Séptimo.- En tanto se actualizan los Manuales Administrativos respectivos, el Secretario resolverá las incidencias de procedimiento y operación, que se originen por la aplicación de este ordenamiento legal.
+
+Artículo Octavo.- En cumplimiento a lo dispuesto por el artículo 8°, de la Ley Orgánica de la Administración Pública del Estado de Chiapas, publíquese el Reglamento Interior en el Periódico Oficial del Estado.
