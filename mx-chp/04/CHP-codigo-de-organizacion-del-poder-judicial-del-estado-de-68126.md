@@ -4,7 +4,7 @@ identifier: "CHP-codigo-de-organizacion-del-poder-judicial-del-estado-de-68126"
 country: "mx"
 rank: "codigo"
 publication_date: "2009-03-18"
-last_updated: "2011-06-29"
+last_updated: "2011-09-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68126&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "CHP"
 ---
 # CODIGO DE ORGANIZACION DEL PODER JUDICIAL DEL ESTADO DE CHIAPAS
 
-CODIGO DE ORGANIZACION DEL PODER JUDICIAL DEL ESTADO DE CHIAPAS
+CÓDIGO DE ORGANIZACIÓN DEL PODER JUDICIAL DEL ESTADO DE CHIAPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE JUNIO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE SEPTIEMBRE DE 2011.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Chiapas, el miércoles 18 de marzo de 2009.
 
@@ -45,11 +45,15 @@ Por las anteriores consideraciones este Honorable Congreso del Estado, ha tenido
 
 ### Capítulo Único. Disposiciones Generales
 
-###### Artículo 1º.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
 
-El presente Código de Organización Judicial es de orden público y reglamentario del Título Sexto de la Constitución Política del Estado de Chiapas. Tiene por objeto regular la estructura y atribuciones de los órganos que integran al Poder Judicial del Estado, a través de los cuales, cumple con las funciones de impartir y administrar justicia dentro de su jurisdicción en materia del fuero común y, en materia del fuero federal, cuando las leyes respectivas así lo permitan.
+###### Artículo 1°.
+
+El presente Código de Organización es de orden público y reglamentario del Título Octavo de la Constitución Política del Estado de Chiapas. Tiene por objeto regular la estructura y atribuciones de los órganos que integran al Poder Judicial del Estado, a través de los cuales cumple con las funciones de impartir y administrar justicia dentro de su jurisdicción en materia del fuero común y, en materia del fuero federal, cuando las leyes respectivas así lo permitan.
 
 En todo lo que no se oponga al presente Código, se aplicarán supletoriamente los Códigos de Procedimientos Civiles y Penales para el Estado de Chiapas, la Ley de Procedimientos Administrativos para el Estado de Chiapas, el Código de Elecciones y Participación Ciudadana, la Ley que, Establece el Sistema Integral de Justicia para Adolescentes en el Estado de Chiapas y demás disposiciones legales conducentes.
+
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
 
 ###### Artículo 2°.
 
@@ -57,31 +61,11 @@ El Poder Judicial del Estado se integra por:
 
 I. El Tribunal Superior de Justicia del Estado;
 
-a).- El Tribunal Constitucional;
-
-b).- Salas Regionales Colegiadas;
-
-c).- Juzgados de Primera Instancia;
-
-d).- Juzgados Especializados en Justicia para Adolescentes;
-
-e).- Juzgados de Paz y Conciliación;
-
-f).- Juzgados de Paz y Conciliación Indígena;
-
-g).- Juzgados Municipales;
-
-h).- El Centro de Justicia Alternativa;
-
-i).- El Instituto de la Defensoría Social.
-
 II. El Consejo de la Judicatura;
 
 III. El Tribunal de Justicia Electoral y Administrativa;
 
-IV El Tribunal del Trabajo Burocrático; y,
-
-V. Los demás servidores públicos del Poder Judicial, en los términos que establece este Código y demás ordenamientos legales aplicables.
+IV. El Tribunal del Trabajo Burocrático.
 
 Cada uno de los órganos del Poder Judicial, regulará en su propio Reglamento Interior, lo concerniente a su estructura, funcionamiento, obligaciones y atribuciones de sus servidores públicos, conforme a las disposiciones constitucionales correspondientes, el presente Código y demás ordenamientos aplicables.
 
@@ -93,7 +77,7 @@ El Consejo de la Judicatura, a través de su Presidente será el órgano encarga
 
 Los acuerdos de la Comisión de Justicia del Poder Judicial se tomarán en pleno respeto a la autonomía e independencia de cada órgano, en los términos de las disposiciones de este Código. Podrán ser publicados en el Periódico Oficial del Estado, cuando se trate de asuntos de interés general.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE JUNIO DE 2011)</small>
 
 ###### Artículo 4°.
 
@@ -101,9 +85,15 @@ Corresponde al Poder Judicial, en los términos de la Constitución Política de
 
 De igual manera, atañe al Poder Judicial, la impartición de justicia a través de medios alternativos para la resolución de controversias, en los términos previstos en este Código y demás disposiciones legales aplicables.
 
+> <small>(ADICIONADO, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
+
+La justicia estará basada en el principio de oralidad para la resolución de aquellas controversias cuya naturaleza jurídica lo permita.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
+
 ###### Artículo 5°.
 
-El Poder Judicial ejerce sus atribuciones de manera independiente respecto de los otros poderes públicos y órganos del Estado, con los cuales, únicamente mantiene relaciones de coordinación en los términos del artículo 14, de la Constitución Política del Estado de Chiapas.
+El Poder Judicial ejerce sus atribuciones de manera independiente respecto de los otros poderes públicos y órganos del Estado, con los cuales únicamente mantiene relaciones de coordinación en los términos del artículo 16 de la Constitución Política del Estado de Chiapas.
 
 Los Magistrados y Jueces gozan de plena autonomía e independencia en sus determinaciones y ejercen su función sin más sujeción que a las leyes, la equidad y los Principios Generales de Derecho.
 
@@ -171,7 +161,7 @@ Para el caso de conclusión del encargo por las razones de edad, los citados en 
 
 # Libro Segundo. De la Organización del Tribunal Superior de Justicia del Estado
 
-> <small>(REFORMADO, P.O. 26 DE MAYO DE 2010)</small>
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
 
 ## Título Segundo (sic). Del Tribunal Constitucional
 
@@ -181,23 +171,49 @@ Para el caso de conclusión del encargo por las razones de edad, los citados en 
 
 ###### Artículo 16.
 
-El Tribunal Superior de Justicia del Estado, se integra con un Tribunal Constitucional, Salas Regionales Colegiadas, Juzgados de Primera Instancia, Juzgados Especializados en Justicia para Adolescentes, Juzgados de Paz y Conciliación, Juzgados de Paz y Conciliación Indígena, Juzgados Municipales, un Centro de Justicia Alternativa y un Instituto de Defensoría Social. El número de Salas Regionales Colegiadas, su especialización, jurisdicción, integración y competencia, así como la adscripción y/o readscripción de los Magistrados que las integran, se decidirá por acuerdo del Pleno del Consejo de la Judicatura, en términos de este Código.
+El Tribunal Superior de Justicia del Estado se integra por:
+
+I. El Tribunal Constitucional.
+
+II. Las Salas Regionales Colegiadas.
+
+III. Los Juzgados de Primera Instancia.
+
+IV. Los Juzgados y Salas Especializadas en Justicia para Adolescentes.
+
+V. Los Juzgados de Paz y Conciliación.
+
+VI. Los Juzgados de Paz y Conciliación Indígena.
+
+VII. Los Juzgados Municipales.
+
+VIII. El Centro Estatal de Justicia Alternativa.
+
+X (SIC). El Instituto de la Defensoría Social.
+
+El número de Salas Regionales Colegiadas, su especialización, jurisdicción, integración y competencia, así como la adscripción y/o readscripción de los Magistrados que las integran se decidirá por acuerdo del Pleno del Consejo de la Judicatura, en los términos de este Código.
 
 ###### Artículo 17.
 
 El nombramiento de los Magistrados del Tribunal Constitucional, de las Salas Regionales, Colegiadas y de las Salas Especializadas en Justicia para Adolescentes, deberá hacerse en los términos de la Constitución Política del Estado Chiapas, de manera preferente entre aquellas personas que hayan prestado sus servicios con eficiencia y probidad en la impartición de justicia o en quienes por su honorabilidad, competencia y profesionalismo en otras ramas del Derecho, así lo ameriten. De la misma manera, las autoridades facultadas para hacer los respectivos nombramientos, deberán cuidar que se incluya como máximo al setenta por ciento de personas del mismo sexo.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
+
 ###### Artículo 18.
 
-Antes de Iniciar funciones, los Magistrados deberán rendir protesta de ley ante el Congreso del Estado o de la Comisión Permanente, en su caso, en los términos del artículo 29, fracción XXXVII, en relación con el artículo 37, ambos, de la Constitución Política del Estado de Chiapas.
+Antes de iniciar funciones, los Magistrados deberán rendir protesta de ley ante el Pleno del Congreso del Estado o de la Comisión Permanente, en su caso, en los términos del artículo 30, fracción XXXII, en relación con el artículo 40, ambos de la Constitución Política del Estado de Chiapas.
 
 Si la persona nombrada no se presentare a rendir la protesta sin que medie causa justificada, dentro del término de 10 días hábiles a partir de la fecha de la notificación de su nombramiento, éste se dejará sin efecto y se procederá a realizar una nueva designación en los términos previstos en la Constitución Política del Estado y el presente Código.
 
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
+
 ###### Artículo 19.
 
-Los Magistrados que integran el Tribunal Superior de Justicia del Estado, serán nombrados a propuesta del titular del Poder Ejecutivo, con la aprobación de las dos terceras partes de los integrantes del Congreso del Estado o de la Comisión Permanente, en su caso.
+Los nombramientos de los magistrados del Tribunal Superior de Justicia, salvo los magistrados constitucionales, serán aprobados por el Pleno del Congreso del Estado o la Comisión Permanente en su caso, a propuesta del Titular del Poder Ejecutivo, con la aprobación de la mayoría de sus integrantes.
 
-La designación por parte del Congreso del Estado, se hará dentro de un plazo que no excederá de siete días hábiles, respecto de aquel en que fue presentada la propuesta por el Titular del Poder Ejecutivo. Si el Congreso no resuelve dentro de dicho plazo, ocupará el cargo de Magistrado la persona que haya sido propuesta por el Titular del Ejecutivo del Estado.
+Los magistrados del Tribunal Constitucional serán nombrados por el Pleno del Congreso del Estado o la Comisión Permanente en su caso, a propuesta del Titular del Poder Ejecutivo, con la aprobación de las dos terceras partes de sus integrantes.
+
+La designación por parte del Congreso del Estado, se hará dentro de un plazo que no excederá de siete días hábiles, respecto de aquel en que fue presentada la propuesta por el Titular del Poder Ejecutivo. Si el Congreso no resuelve dentro de dicho plazo, ocupará el cargo de Magistrado, la persona que haya sido propuesta por el Titular del Ejecutivo del Estado.
 
 ###### Artículo 20.
 
@@ -217,17 +233,23 @@ VI. No ser Secretario de Despacho, Procurador General del (sic) Justicia del Est
 
 VII. Ser física y mentalmente apto para el desempeño del cargo; y,
 
-VIII. Acreditar conocimientos especializados en materia constitucional para el caso de los Magistrados del Tribunal Constitucional.
+> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
+
+VIII. Acreditar conocimientos especializados en la materia de que se trate el referido nombramiento.
 
 ### Capítulo III. De la Ratificación de Magistrados
+
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
 
 ###### Artículo 21.
 
 Los Magistrados del Tribunal Constitucional durarán en su encargo nueve años y podrán ser reelectos para ejercer un siguiente periodo consecutivo. La renovación de los integrantes de este alto Tribunal, se hará siempre de manera escalonada.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
+
 ###### Artículo 22.
 
-Los Magistrados de las Salas Regionales Colegiadas, durarán en sus funciones seis años, con posibilidad de ser reelectos por otro periodo igual, a través del procedimiento que regula la Constitución Política del Estado (sic) Chiapas y el presente Código.
+Los magistrados que integren las Salas Regionales Colegiadas y Especializadas en Justicia para Adolescentes y Visitaduría, durarán en sus funciones seis años, con posibilidad de ser reelectos por otro periodo igual, a través del procedimiento que regula la Constitución Política del Estado de Chiapas y el presente Código. El Consejo de la Judicatura determinará la adscripción de los magistrados del Tribunal Superior de Justicia, en las salas regionales, salas especializadas o en la Visitaduría, según sea el caso, a excepción de los magistrados del Tribunal Constitucional.
 
 Dicho plazo se computará a partir de la fecha en que rindan protesta de ley, considerando incluso, el tiempo de licencias, permisos, cargos o comisiones en que hubieran participado.
 
@@ -241,15 +263,31 @@ II. La renuncia;
 
 III. Aceptar el desempeño de un cargo que sea incompatible con la función que realiza, en los términos del presente Código;
 
-IV. Cumplir 75 años de edad al momento de ejercer el cargo;
+> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
 
-V. Dejar de poseer cualquiera de los requisitos de elegibilidad a que se refiere el artículo 53 de la Constitución Política del Estado (sic) Chiapas y el presente Código; y,
+IV. Cumplir 75 años de edad al momento de ejercer el cargo, independientemente del periodo para el que hayan sido nombrado
 
-VI. La conclusión ordinaria y definitiva del periodo por el que fue nombrado; (sic)
+> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
+
+V. Incumplir cualquiera de los requisitos de elegibilidad a que se refiere el artículo 61 de la Constitución Política del Estado de Chiapas y el presente Código.
+
+> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
+
+VI. El fenecimiento ordinario y definitivo de su nombramiento.
+
+> <small>(ADICIONADA, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
+
+VII. La designación del Tribunal Constitucional como magistrado del Tribunal de Justicia Electoral y Administrativa, en los términos del presente Código.
+
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
 
 ###### Artículo 24.
 
-Cuando ocurriere una vacante definitiva de Magistrado del Tribunal Constitucional o de Sala Regional, por cualquiera de las causas previstas en el artículo anterior, el Presidente del poder Judicial dará aviso al Titular del Ejecutivo del Estado, en caso de que la vacante definitiva fuera de su Presidente, el Secretario General de Acuerdos de ese Tribunal dará el aviso correspondiente; el Presidente del Consejo de la Judicatura tratándose de las Salas Regionales Colegiadas será quien dé el aviso mencionado, para los efectos previstos en los artículos 50 y 52, de la Constitución Política del Estado.
+Cuando ocurra una vacante definitiva de algún magistrado del Tribunal Superior de Justicia, a excepción de los magistrados del Tribunal Constitucional, el Consejo de la Judicatura dará aviso inmediato al Titular del Poder Ejecutivo. Para el caso de los magistrados del Tribunal Constitucional, será el Presidente del Tribunal Superior de Justicia quien dará el aviso.
+
+En el caso de que la vacante definitiva fuera del Presidente del Tribunal Constitucional, el Secretario General de Acuerdos y del Pleno de ese Tribunal dará el aviso correspondiente.
+
+El Titular del Poder Ejecutivo, una vez recibido el aviso previsto en el presente artículo, procederá al nombramiento de la magistratura vacante, en términos de lo que establece la Constitución Política del Estado y este Código.
 
 ###### Artículo 25.
 
@@ -259,25 +297,29 @@ Si por cualquier motivo superveniente, el nombramiento de un Magistrado quedare 
 
 El presente Código garantiza la estabilidad e independencia de los Magistrados, así como la plena ejecución de sus resoluciones.
 
-Los Magistrados del Tribunal Constitucional y de las Salas Regionales, únicamente podrán ser destituidos por el Congreso del Estado, a petición del Presidente del Tribunal Constitucional y del Tribunal Superior de Justicia, previo procedimiento seguido ante el Consejo de la Judicatura, que demuestre que actuaron dolosa o negligentemente en el desempeño de sus labores, por incapacidad física o mental, o porque hayan incurrido en alguna de las hipótesis previstas en el Título Noveno de la Constitución Política del Estado de Chiapas y las demás que señala la Ley de Responsabilidades de los Servidores Públicos del Estado de Chiapas.
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
+
+Los Magistrados del Tribunal Superior de Justicia, únicamente podrán ser destituidos por el Congreso del Estado, a petición del Presidente del Tribunal Constitucional, previo procedimiento seguido ante el Consejo de la Judicatura, que demuestre que actuaron dolosa o negligentemente en el desempeño de sus labores, por incapacidad física o mental, o porque hayan incurrido en alguna de las hipótesis previstas en el Título Décimo Segundo de la Constitución Política del Estado de Chiapas y las demás que señala la Ley de Responsabilidades de los Servidores Públicos del Estado de Chiapas.
 
 ### Capítulo I. De su Integración
 
 ###### Artículo 27.
 
-La ratificación sólo es procedente para el caso de los Magistrados de la (sic) Salas Regionales Colegiadas, conforme al mismo mecanismo regulado para su nombramiento y previa opinión técnica que al efecto emita el Consejo de la Judicatura.
+La ratificación de los magistrados del Tribunal Superior de Justicia se realizará a través del mismo mecanismo regulado para su nombramiento y previa opinión técnica que al efecto emita el Consejo de la Judicatura, a excepción de los magistrados del Tribunal Constitucional, la cual estará a cargo del Pleno de ese Tribunal.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE MAYO DE 2010)</small>
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
 
 ###### Artículo 28.
 
-Las Comisiones de Carrera Judicial, Vigilancia y Disciplina, serán las responsables de formular la opinión técnica a que se refiere el artículo anterior, con base en la información que al efecto proporcione la Visitaduría Judicial, la Dirección de Informática y Estadística, la Unidad de Control de Confianza, el Instituto de Formación Judicial y demás unidades del Poder Judicial que se estimen pertinentes.
+Las Comisiones de Carrera Judicial, Vigilancia y Disciplina, serán las responsables de formular la opinión técnica que deberá emitir el Consejo de la Judicatura, con base en la información que al efecto proporcione la Visitaduría Judicial, la Dirección de Estadística, la Unidad de Control de Confianza, el Instituto de Formación Judicial y demás unidades del Poder Judicial que se estimen pertinentes. El Pleno del Tribunal Constitucional, podrá allegarse de la información que requiera a través de las áreas que considere.
 
-La formulación de la opinión técnica deberá comenzar seis meses antes de que concluya el periodo por el que fue nombrado y concluido por lo menos, noventa días naturales antes de la fecha de terminación del cargo.
+La elaboración de la opinión técnica deberá comenzar seis meses antes de que concluya el período por el que fue nombrado el magistrado. Los resultados de la misma deberán ser concluidos por lo menos noventa días naturales antes de la fecha de terminación del cargo.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
 
 ###### Artículo 29.
 
-La opinión técnica así como el expediente personal del Magistrado que tenga la posibilidad de ser ratificado conforme a los ordenamientos correspondientes, deberán ser remitidos de inmediato al Pleno del Consejo para su valoración definitiva y para su envío al Titular del Poder Ejecutivo, cuando menos treinta días antes de la conclusión del cargo.
+La opinión técnica así como el expediente personal del Magistrado que tenga la posibilidad de ser ratificado conforme a los ordenamientos correspondientes, deberán ser remitidos de inmediato al Pleno del Consejo o del Tribunal Constitucional, según sea el caso, para su valoración definitiva y su envío al Titular del Poder Ejecutivo, cuando menos treinta días antes de la conclusión del cargo.
 
 Si se resuelve sobre la no ratificación, el Magistrado cesará en sus funciones a la conclusión del periodo por el que fue designado, teniendo derecho a recibir el beneficio económico a que se refiere el artículo 15 del presente Código. Si fuera el caso de su ratificación, se procederá a realizar un nuevo y definitivo nombramiento conforme al mismo mecanismo de nombramiento inicial descrito en la Constitución Política del Estado de Chiapas y en este ordenamiento.
 
@@ -309,7 +351,7 @@ VIII. La contestación de que durante su encargo se ha conducido con responsabil
 
 El dictamen técnico, así como los demás datos, información y opiniones que se hagan llegar al Titular del Poder Ejecutivo, servirán para el proceso de ratificación de los Magistrados; pero no limitan la atribución constitucional conferida a las autoridades que intervienen en su nombramiento, ni son determinantes para su ratificación.
 
-## Título Tercero. De las Salas Regionales Colegiadas del Tribunal Superior de Justicia del Estado
+## Título Tercero. De las Salas del Tribunal Superior de Justicia del Estado
 
 ### Capítulo II. De las Atribuciones del Tribunal Constitucional
 
@@ -329,7 +371,7 @@ El Tribunal Constitucional contará con un fondo auxiliar, integrado por las eco
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE MAYO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE MAYO DE 2011)</small>
 
 ###### Artículo 33.
 
@@ -361,9 +403,13 @@ Son atribuciones del Tribunal Constitucional:
 
 I. Garantizar la supremacía y control de la Constitución Política del Estado mediante su interpretación; siempre y cuando no sea contraria a lo establecido en el artículo 133, de la Constitución Política de los Estados Unidos Mexicanos, ni a la jurisprudencia de la Suprema Corte de Justicia de la Nación;
 
-II. Conocer de las controversias constitucionales, acciones de inconstitucionalidad, acciones por omisión legislativa y de las cuestiones de inconstitucionalidad a que se refiere la Constitución Política del Estado en el artículo 56, fracción IV;
+> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
 
-III. Erigirse en Tribunal de Sentencia y conocer de los juicios y procedimientos instaurados a los servidores públicos que incurran en actos u omisiones a que se refiere el Título Noveno de la Constitución Política del Estado de Chiapas; así como de las acusaciones por delitos oficiales a que se refiere la Ley de Responsabilidades de los Servidores Públicos, el Código Penal y demás disposiciones legales aplicables;
+II. Conocer de las controversias constitucionales, acciones de inconstitucionalidad, acciones por omisión legislativa y de las cuestiones de inconstitucionalidad a que se refiere la Constitución Política del Estado en el artículo 64.
+
+> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
+
+III. Erigirse en Tribunal de Sentencia y conocer de los juicios y procedimientos instaurados a los servidores públicos que incurran en actos u omisiones a que se refiere el Título Décimo Segundo de la Constitución Política del Estado de Chiapas; así como de las acusaciones por delitos oficiales a que se refiere la Ley de Responsabilidades de los Servidores Públicos, el Código Penal y demás disposiciones legales aplicables.
 
 IV. Conocer de oficio o a petición de parte legítima, de los casos de contradicción de criterios que se susciten entre las Salas Regionales Colegiadas y determinar la aplicación obligatoria de sus resoluciones, sin perjuicio de observarse la Jurisprudencia de los Tribunales Federales;
 
@@ -425,6 +471,10 @@ c) El Procurador General del Justicia del Estado, en contra de leyes expedidas p
 
 d) El equivalente al treinta y tres por ciento de los Ayuntamientos de la Entidad.
 
+> <small>(ADICIONADO, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
+
+e) El Presidente del Consejo Estatal de los Derechos Humanos, en el ámbito de su competencia.
+
 Las resoluciones dictadas tendrán efectos generales cuando hubieren sido aprobadas por el Pleno del Tribunal Constitucional y surtirán efectos a partir de su publicación en el Periódico Oficial del Estado, sin efecto retroactivo, excepto cuando se trate de asuntos del orden penal en beneficio del inculpado.
 
 III. De las acciones por omisión legislativa, cuando se considere que el Congreso no ha emitido alguna Ley o Decreto y que dicha omisión afecte el debido cumplimiento de la Constitución Política del Estado de Chiapas, que interponga:
@@ -444,6 +494,8 @@ IV. A efecto de dar respuesta fundada y motivada a las cuestiones de inconstituc
 ### Capítulo V. De la Secretaría General de Acuerdos y del Pleno
 
 ### Capítulo VI. De la Unidad de Apoyo Administrativo
+
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
 
 ###### Artículo 39.
 
@@ -567,19 +619,21 @@ Estos mismos requisitos se observarán respecto a los Secretarios de Estudio y C
 
 La Unidad de Apoyo Administrativo, tendrá las siguientes atribuciones:
 
-I. Planear, programar, dirigir y controlar las actividades de apoyo administrativo relacionadas con el manejo de los recursos humanos, financieros y materiales del Tribunal Constitucional,
+I. Representar legalmente al Tribunal Constitucional en la celebración de actos jurídicos inherentes a su función administrativa;
 
-II. Informar cada tres meses sobre la asignación de recursos y ejercicio del gasto del Tribunal Constitucional;
+II. Planear, programar, dirigir y controlar las actividades de apoyo administrativo relacionadas con el manejo de los recursos humanos, financieros y materiales del Tribunal Constitucional;
 
-III. Dirigir y coordinar la elaboración de los estudios de organización, manuales y demás documentos de apoyo administrativo;
+III. Informar cada tres meses sobre la asignación de recursos y ejercicio del gasto del Tribunal Constitucional;
 
-IV. Vigilar que el desarrollo de las funciones de control presupuestal sea realizado adecuadamente;
+IV. Dirigir y coordinar la elaboración de los estudios de organización, manuales y demás documentos de apoyo administrativo;
 
-V. Coordinar la ejecución de los trámites sobre movimientos e incidencia del personal;
+V. Vigilar el desarrollo de las funciones de control presupuestal sea (sic) realizado adecuadamente;
 
-VI. Observar las políticas y procedimientos fijados sobre los sistemas de contabilidad establecidos para la administración de los recursos humanos, financieros y materiales; y,
+VI. Coordinar la ejecución de los trámites sobre movimientos e incidencia del personal;
 
-VII. Las demás que señale el Presidente del Tribunal Constitucional y las establecidas en el Reglamento Interno.
+VII. Observar las políticas y procedimientos fijados sobre los sistemas de contabilidad establecidos para la administración de los recursos humanos, financieros y materiales; y,
+
+VIII. Las demás que señale el Presidente del Tribunal Constitucional y las establecidas en el Reglamento Interno.
 
 ###### Artículo 47.
 
@@ -601,7 +655,9 @@ VI. Gozar de buena reputación y no haber sido condenado por delito que amerite 
 
 La Unidad de Apoyo Administrativo contará con el personal necesario que le permita el presupuesto.
 
-### Capítulo II. De las Atribuciones de los Presidentes de las Salas Regionales Colegiadas
+### Capítulo II. De las Atribuciones de los Presidentes de las Salas
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
 
 ###### Artículo 49.
 
@@ -637,7 +693,9 @@ V. Gozar de buena reputación y no haber sido condenado por delito que amerite u
 
 La Dirección de Compilación de Legislación y Jurisprudencia, contará con el personal necesario que permita el presupuesto.
 
-### Capítulo III. De las Atribuciones de los Magistrados de las Salas Regionales Colegiadas
+### Capítulo III. De las Atribuciones de los Magistrados de las Salas
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
 
 ###### Artículo 52.
 
@@ -691,9 +749,13 @@ II. Un Jefe de Oficina de Colecciones; y,
 
 III. Un Jefe de Acervo.
 
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
+
 ## Título Cuarto. De la Organización de los Juzgados del Poder Judicial del Estado
 
-### Capítulo IV. De los Secretarios Generales de Acuerdos de las Salas Regionales Colegiadas
+### Capítulo IV. De los Secretarios Generales de Acuerdos de las Salas
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
 
 ###### Artículo 55.
 
@@ -745,11 +807,13 @@ Los casos no previstos en este precepto serán resueltos por el Pleno del Tribun
 
 Las faltas de los Secretarios Generales de Acuerdos de las Salas, serán suplidas por un Secretario de Estudio y Cuenta y, en su defecto, por el Actuario que designe el Presidente de la Sala.
 
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
+
 ### Capítulo V. De las Salas en Materia Civil
 
 ###### Artículo 62.
 
-Son atribuciones de los Presidentes de Salas Regionales Colegiadas:
+Son atribuciones de los Presidentes de Salas:
 
 I. La representación de la Sala y el despacho de la correspondencia oficial;
 
@@ -777,21 +841,27 @@ XII. Comunicar al Presidente del Consejo de la Judicatura cuando haya necesidad 
 
 XIII. Remitir los informes estadísticos de la Sala a la Dirección de Informática y Estadística del Consejo de la Judicatura;
 
-XIV. Autorizar con su firma, conjuntamente con la del Secretario de Acuerdos, los autos de trámite y las actas de las sesiones, haciendo constar en ellas una síntesis de las deliberaciones y los acuerdos que se tomen;
+> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
+
+XIV. Autorizar con su firma, conjuntamente con la del Secretario General de Acuerdos, los autos de trámite y las actas de las sesiones, haciendo constar en ellas una síntesis de las deliberaciones y los acuerdos que se tomen;
 
 XV. Rendir cada seis meses, un informe general de actividades, al pleno del Tribunal Constitucional;
 
 XVI. Proveer en la esfera administrativa, todo lo necesario para el buen despacho de los asuntos de la Sala;
 
-XVII. Conocer de las denuncias o quejas, que por razón de la distancia, sean presentadas ante la Sala Regional Colegiada que presida, autorizando con su firma, conjuntamente con la que del Secretario General de Acuerdos, los autos de trámite y las audiencias en los procedimientos administrativos a que hace referencia el artículo 304, del presente ordenamiento legal; y,
+> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
+
+XVII. Conocer de las denuncias o quejas, que por razón de la distancia, sean presentadas ante la Sala que presida, autorizando con su firma, conjuntamente con la del Secretario General de Acuerdos, los autos de trámite y las audiencias en los procedimientos administrativos a que hace referencia el artículo 304, del presente ordenamiento legal; y,
 
 XVIII. Las demás que le otorguen el presente Código y las disposiciones legales aplicables.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
 
 ### Capítulo VI. De las Salas en Materia Penal
 
 ###### Artículo 63.
 
-Corresponden a los Magistrados de las Salas Regionales Colegiadas:
+Corresponden a los Magistrados de las Salas:
 
 I. Dictar las medidas necesarias para la pronta y expedita resolución de los asuntos que les sean turnados;
 
@@ -833,11 +903,13 @@ XIX. Las demás que les confieran este Código y otras disposiciones legales.
 
 Las licencias de los servidores públicos de las Salas, hasta por cinco días, serán autorizadas por el titular de la Sala.
 
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
+
 ### Capítulo VII. De las Salas Especializadas en Justicia para Adolescentes
 
 ###### Artículo 64.
 
-Las Salas Regionales Colegiadas contarán con un Secretario General de Acuerdos, el cual tendrá las siguientes atribuciones:
+Las Salas contarán con un Secretario General de Acuerdos, el cual tendrá las siguientes atribuciones:
 
 I. Concurrir a las sesiones del Pleno de su respectiva Sala y dar fe de sus acuerdos:
 
@@ -855,7 +927,7 @@ VII. Autorizar las actas, los acuerdos y resoluciones, así como expedir constan
 
 VIII. Redactar los acuerdos y actas de los asuntos que se tramiten, recogiendo la firma de los Magistrados de su Sala y firmando, a su vez, dichas actuaciones;
 
-IX. Guardar bajlo su responsabilidad los pliegos, expedientes y documentos que las disposiciones legales o el Presidente de la Sala dispongan y devolverlos con las formalidades legales, mientras no se envíen al Archivo Judicial;
+IX. Guardar bajo su responsabilidad los pliegos, expedientes y documentos que las disposiciones legales o el Presidente de la Sala dispongan y devolverlos con las formalidades legales, mientras no se envíen al Archivo Judicial;
 
 X. Dar cuenta inmediata de las resoluciones que por su urgencia así lo ameriten;
 
@@ -873,7 +945,9 @@ I. Cumplir con los requisitos a que se refiere el artículo 45 de este Código, 
 
 II. Aprobar los cursos o exámenes del Instituto de Formación Judicial.
 
-Estos mismos requisitos se observarán respecto a los Secretarios de Estudio y Cuenta y Secretarios Auxiliares.
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
+
+Estos mismos requisitos se observarán respecto a los Secretarios de Estudio y Cuenta y Secretarios Auxiliares. Los actuarios deberán contar con los requisitos previstos en el presente artículo, a excepción de la experiencia mínima en el ejercicio de la profesión.
 
 ### Capítulo VIII. De las Salas Mixtas
 
@@ -1111,7 +1185,7 @@ VII. De las demás que les reconozcan las disposiciones legales aplicables.
 
 ### Capítulo VIII. De las Atribuciones de los Juzgados de Ejecución de Sentencias
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE JUNIO DE 2011)</small>
 
 ###### Artículo 82.
 
@@ -1135,7 +1209,9 @@ V. De las demás que les reconozcan las disposiciones legales aplicables.
 
 Son atribuciones de los Juzgados Especializados en Justicia para Adolescentes, las siguientes:
 
-I. Librar la orden de presentación, de comparecencia, de cateo, de arraigo en el lugar de residencia habitual del adolescente, de apertura de correspondencia, de aseguramiento de bienes, de prohibición de ir a lugares determinados y de prohibición de acercarse a personas determinadas;
+> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
+
+I. Librar la orden de presentación, de comparecencia, de cateo, de apertura de correspondencia, de aseguramiento de bienes, de prohibición de ir a lugares determinados y de prohibición de acercarse a personas determinadas;
 
 II. Decretar la libertad vigilada del adolescente, las medidas cautelares establecidas en la Ley de la materia, inclusive el internamiento conforme a la misma, y la reparación del daño de acuerdo a lo establecido en la Ley de la materia;
 
@@ -1155,7 +1231,7 @@ VII. Las demás que le otorguen este Código, la Ley de la materia y otras dispo
 
 Los Juzgados Mixtos de Primera Instancia tendrán competencia para conocer de los asuntos en materia civil, mercantil, familiar y penal, a que se refiere el presente título y los demás que les reconozcan otras disposiciones aplicables.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 29 DE JUNIO DE 2011)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 29 DE JUNIO DE 2011)</small>
 
 ### Capítulo I. De su Integración y Funcionamiento
 
@@ -1163,31 +1239,31 @@ Los Juzgados Mixtos de Primera Instancia tendrán competencia para conocer de lo
 
 Son atribuciones del Juez de Ejecución de Sentencias, las siguientes:
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CÓDIGO.</small>
 
 > <small>(REFORMADA, P.O. 11 DE MAYO DE 2011)</small>
 
 I. Mantener o modificar las penas y medidas de seguridad decretadas en sentencia.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CÓDIGO.</small>
 
 > <small>(REFORMADA, P.O. 11 DE MAYO DE 2011)</small>
 
 II. Controlar la ejecución material de toda pena o medida de seguridad.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CÓDIGO.</small>
 
 > <small>(REFORMADA, P.O. 11 DE MAYO DE 2011)</small>
 
 III. Conocer sobre los beneficios de la libertad anticipada.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CÓDIGO.</small>
 
 > <small>(REFORMADA, P.O. 11 DE MAYO DE 2011)</small>
 
 IV. Ordenar la cesación de la pena o medida de seguridad, así como su extinción.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CÓDIGO.</small>
 
 > <small>(REFORMADA, P.O. 11 DE MAYO DE 2011)</small>
 
@@ -1239,9 +1315,11 @@ IV. Gozar de buena reputación y no haber sido condenado por delito doloso que a
 
 V. En los casos en que sea necesario, deberá acreditarse el dominio de la lengua indígena correspondiente a la región de que se trate.
 
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
+
 ###### Artículo 91.
 
-Los Jueces de Paz y Conciliación y de Paz y Conciliación Indígena y sus suplentes, serán nombrados por el Consejo de la Judicatura tomando en consideración las propuestas de los ayuntamientos municipales, así como su calidad de especialistas reconocida por el Centro Estatal de Justicia Alternativa del Poder Judicial del Estado, y su correspondiente acreditación por el órgano encargado de la Carrera Judicial.
+Los Jueces de Paz y Conciliación y de Paz y Conciliación Indígena y sus suplentes, serán nombrados por el Consejo de la Judicatura tomando en consideración las propuestas de los Ayuntamientos respectivos, quienes deberán estar sujetos a un programa de capacitación en materia de medios alternativos de solución de controversias, aprobado por el Centro Estatal de Justicia Alternativa del Poder Judicial del Estado.
 
 ### Capítulo III. De la Coordinación de los Juzgados Municipales
 
@@ -1331,9 +1409,11 @@ IV. Gozar de buena reputación y no haber sido condenado por delito doloso que a
 
 V. En los casos en que sea necesario, deberá acreditarse el dominio de la lengua indígena correspondiente a la región de que se trate.
 
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
+
 ###### Artículo 99.
 
-Los Jueces Municipales y sus suplentes, serán nombrados por el Consejo de la Judicatura tomando en consideración las propuestas de los ayuntamientos municipales.
+Los Jueces Municipales y sus suplentes, serán nombrados por el Consejo de la Judicatura tomando en consideración las propuestas de los Ayuntamientos respectivos, quienes deberán estar sujetos a un programa de capacitación en materia de medios alternativos de solución de controversias, aprobado por el Centro Estatal de Justicia Alternativa del Poder Judicial del Estado.
 
 ### Capítulo III. De su Estructura, Organización y Funcionamiento
 
@@ -1359,6 +1439,8 @@ VII. Las demás que les otorgue este Código y demás disposiciones legales apli
 
 ### Capítulo IV. Del Director General
 
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
+
 ###### Artículo 101.
 
 La coordinación, asesoría y capacitación de los Juzgados Municipales, estarán a cargo de personal especializado adscrito a una Coordinación de Juzgados Municipales, la cual estará integrada, cuando menos, por:
@@ -1375,29 +1457,37 @@ IV. El personal que sea necesario, de conformidad con el presupuesto autorizado.
 
 ### Capítulo V. De las Subdirecciones Regionales del Centro Estatal
 
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
+
 ###### Artículo 102.
 
 Corresponde al Poder Judicial del Estado solucionar las controversias privadas de naturaleza jurídica que les sean planteadas, mediante los procedimientos no jurisdiccionales que este Título dispone, a través del Centro Estatal de Justicia Alternativa y sus Subdirecciones Regionales.
 
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
+
 ###### Artículo 103.
 
-La organización y funcionamiento del Centro Estatal se regulará por lo que disponga el presente Título y la Ley correspondiente.
+La organización y funcionamiento del Centro Estatal se regulará por lo que disponga el presente Título, la Ley correspondiente y el Reglamento respectivo.
 
 ###### Artículo 104.
 
 La justicia alternativa comprende aquél procedimiento alterno al proceso jurisdiccional para solucionar conflictos de índole civil, familiar, mercantil, penal o en materia de justicia para adolescentes, al que pueden recurrir voluntariamente las partes involucradas, para buscar una solución acordada que ponga fin a su controversia, a través de las diversas técnicas previstas en este Código y en la Ley de la materia.
 
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
+
 ###### Artículo 105.
 
-Los procedimientos que deberán observarse respecto a la resolución de controversias a través de los medios de justicia alternativa, serán regulados por la Ley de la materia.
+Los procedimientos que deberán observarse respecto a la resolución de controversias a través de los medios de justicia alternativa, serán regulados por la Ley de la materia y el Reglamento respectivo.
 
 ###### Artículo 106.
 
 Los medios alternativos para la solución de conflictos, tendrán el carácter obligatorio, previo a todo juicio, de conformidad con lo previsto en la Ley de la materia, en la que se regularán sus casos de aplicación y excepción.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
+
 ###### Artículo 107.
 
-Los medios alternativos de solución de controversias que otorga el Centro Estatal y sus Subdirecciones Regionales, se desarrollarán de acuerdo con lo previsto en la Ley de la materia. Los medios alternativos consisten en:
+Los medios alternativos de solución de controversias que otorga el Centro Estatal y sus Subdirecciones Regionales, se desarrollarán de acuerdo con lo previsto en la Ley de la materia y en el Reglamento respectivo. Los medios alternativos consisten en:
 
 I. Conciliación.
 
@@ -1485,7 +1575,7 @@ X. Las demás que le confiera este Título y la Ley aplicable.
 
 ###### Artículo 115.
 
-El Centro Estatal estará a cargo de un Director General, quien será nombrado por el Consejo de la Judicatura, de entre aquellos que aprueban satisfactoriamente el curso de formación para mediadores y conciliadores y hayan resultado electos mediante un proceso riguroso de oposición.
+El Centro Estatal estará a cargo de un Director General, quien será nombrado por el Consejo de la Judicatura, a propuesta del Titular del Ejecutivo del Estado.
 
 ###### Artículo 116.
 
@@ -1527,13 +1617,21 @@ II. La incapacidad mental o física que impida el adecuado ejercicio de sus func
 
 III. El desempeño de algún empleo, cargo o comisión, distinto de los previstos en el artículo anterior de este artículo;
 
-IV. No cumplir los acuerdos del Tribunal Constitucional o actuar deliberadamente de manera grave en exceso o defecto de sus atribuciones;
+> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
 
-V. Utilizar, en beneficio propio o de terceros, la información confidencial de que disponga en razón de su cargo, o divulgarla sin la autorización del Tribunal Constitucional;
+IV. No cumplir los acuerdos del Consejo de la Judicatura o actuar deliberadamente de manera grave en exceso o defecto de sus atribuciones;
 
-VI. Someter a la consideración del Tribunal Constitucional, información falsa teniendo conocimiento de ello; y,
+> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
 
-VII. Ausentarse de sus labores por más de tres días sin aviso al Presidente del Consejo de la Judicatura o sin mediar causa de fuerza mayor o motivo justificado.
+V. Utilizar, en beneficio propio o de terceros, la información confidencial de que disponga en razón de su cargo, o divulgarla sin la autorización del Consejo de la Judicatura;
+
+> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
+
+VI. Someter a la consideración del Consejo de la Judicatura, información falsa teniendo conocimiento de ello; y,
+
+> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
+
+VII. Ausentarse de sus labores por más de tres días sin aviso al Consejo de la Judicatura o sin mediar causa de fuerza mayor o motivo justificado.
 
 ###### Artículo 121.
 
@@ -1567,11 +1665,17 @@ XI. Participar en la aplicación de exámenes, en los concursos de oposición pa
 
 XII. Planear, programar, organizar, dirigir, controlar y evaluar la administración de los recursos humanos, materiales, financieros e informáticos del Centro Estatal y de las Subdirecciones Regionales;
 
-XIII. Proponer al Pleno del Tribunal Constitucional, la reglamentación interna del Centro Estatal y de las Subdirecciones Regionales, así como las reformas a los mismos y a las demás disposiciones relacionadas directamente con la operación y funcionamiento del Centro Estatal y de las Subdirecciones Regionales;
+> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
 
-XIV. Ejecutar los acuerdos del Tribunal Constitucional y del Consejo de la Judicatura, en relación con el Centro Estatal y las Subdirecciones Regionales;
+XIII. Proponer al Pleno del Consejo de la Judicatura, la reglamentación interna del Centro Estatal y de las Subdirecciones Regionales, así como las reformas a los mismos y a las demás disposiciones relacionadas directamente con la operación y funcionamiento del Centro Estatal y de las Subdirecciones Regionales;
 
-XV. Rendir, dentro de los diez primeros días de cada mes, un informe al Presidente del Tribunal Superior de Justicia del Estado, al Pleno del Consejo de la Judicatura y a la Dirección de Informática y Estadística del Poder Judicial, sobre los asuntos que se inicien y concluyan por acuerdo de las partes en el propio Centro Estatal o en las Subdirecciones Regionales;
+> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
+
+XIV. Ejecutar los acuerdos del Consejo de la Judicatura, en relación con el Centro Estatal y las Subdirecciones Regionales;
+
+> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
+
+XV. Rendir, dentro de los diez primeros días de cada mes, un informe al Pleno del Consejo de la Judicatura y a la Dirección de Estadística del Poder Judicial, sobre los asuntos que se inicien y concluyan por acuerdo de las partes en el propio Centro Estatal o en las Subdirecciones Regionales;
 
 XVI. Proponer al Pleno del Consejo de la Judicatura, el anteproyecto anual de egresos del Centro Estatal;
 
@@ -1581,13 +1685,15 @@ XVIII. Celebrar toda clase de actos jurídicos que permitan el cumplimiento de s
 
 XIX. Solicitar ante el Juez competente a petición de parte, la ejecución de los acuerdos, convenios y laudos derivados de sus funciones; y,
 
-XX. Las demás establecidas en este Título, la Ley correspondiente y los acuerdos del Pleno del Tribunal Constitucional.
+> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
+
+XX. Las demás establecidas en este Título, la Ley correspondiente, el Reglamento del Centro y los acuerdos del Pleno del Consejo de la Judicatura.
 
 ### Capítulo IV. De la Dirección General del Instituto de la Defensoría de (sic) Social
 
 ###### Artículo 123.
 
-Las Subdirecciones Regionales dependerán jerárquicamente del Centro Estatal y su estructura la determinará la Ley de la materia.
+Las Subdirecciones Regionales dependerán jerárquicamente del Centro Estatal y su estructura la determinará la Ley de la materia y el Reglamento.
 
 ###### Artículo 124.
 
@@ -1621,7 +1727,9 @@ V. Dar fe de los convenios celebrados entre las partes ante los especialistas de
 
 VI. Certificar los documentos que obren en los archivos de la Subdirección a su cargo; y
 
-VII. Las demás atribuciones establecidas en este Título, la Ley correspondiente o los acordados por el Pleno del Tribunal Constitucional.
+> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
+
+VII. Las demás establecidas en este Título, la Ley correspondiente, su Reglamento y los acuerdos del Pleno del Consejo de la Judicatura.
 
 ## Título Primero. Integración y Funcionamiento
 
@@ -1647,7 +1755,7 @@ Se podrá brindar el servicio de asesoría jurídica en cualquier materia de der
 
 En los asuntos en materia penal y de justicia para adolescentes, la defensoría de oficio proporcionará asistencia y representación Jurídica a personas inculpadas por la probable realización de una conducta tipificada como delito en las leyes del Estado, desde el momento en que tengan contacto con la autoridad investigadora y hasta que concluya en todo caso el proceso al que sea sometido y exista una sentencia ejecutoriada.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CÓDIGO.</small>
 
 > <small>(ADICIONADO, P.O. 11 DE MAYO DE 2011)</small>
 
@@ -1700,6 +1808,8 @@ VII. Tratándose de miembros pertenecientes a grupos étnicos o indígenas, se p
 El órgano superior del Instituto de la Defensoría Social, es el Consejo General.
 
 ### Capítulo II. De los Consejeros
+
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
 
 ###### Artículo 138.
 
@@ -1939,7 +2049,9 @@ El Tribunal Constitucional, de justicia Electoral y Administrativa y del Trabajo
 
 El Consejo de la Judicatura se integra por cinco miembros, designados de la siguiente forma:
 
-I. Dos representantes del Poder Judicial, de los cuales uno será el Presidente del Tribunal Superior de Justicia, quien también lo será del Consejo y un Juez de Primera Instancia, nombrados por el Tribunal Constitucional; en los términos del artículo 57, de la Constitución Política del Estado de Chiapas;
+> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
+
+I. Dos representantes del Poder Judicial, de los cuales uno será el Presidente del Tribunal Superior de Justicia, quien también lo será del Consejo y un Juez de Primera Instancia, nombrados por el Tribunal Constitucional;
 
 II. Dos Consejeros, nombrados por el Congreso del Estado o por la Comisión Permanente, en su caso; y,
 
@@ -1951,7 +2063,7 @@ El Consejo de la Judicatura será presidido por el Presidente del Tribunal Super
 
 ###### Artículo 154.
 
-Los consejeros de la Judicatura deberán ser personas que se hayan distinguido por su capacidad, honestidad y honorabilidad en el ejercicio de su profesión, durarán cuatro años en su cargo, con posibilidad de reelección para un periodo igual; ejercerán sus atribuciones con independencia e imparcialidad y deberán tener cuando menos treinta años de edad cumplidos al día de la designación y contar con antigüedad en el ejercicio profesional; con título y cédula de Licenciado en Derecho y cumplir con las condiciones establecidas en las fracciones I, IV, V y VI del artículo 53, de la Constitución Política del Estado de Chiapas, con excepción de la especialidad en materia constitucional.
+Los Consejeros de la Judicatura deberán ser personas que se hayan distinguido por su capacidad, honestidad y honorabilidad en el ejercicio de su profesión, durarán cuatro años en su cargo, con posibilidad de reelección para un periodo igual; ejercerán sus atribuciones con independencia e imparcialidad y deberán tener cuando menos treinta años de edad cumplidos al día de la designación y contar con antigüedad mínima de cinco años en el ejercicio profesional, con título y cédula de Licenciado en Derecho y cumplir con las condiciones establecidas en las fracciones I, IV, V y VI, del artículo 61, de la Constitución Política del Estado de Chiapas.
 
 ###### Artículo 155.
 
@@ -1959,9 +2071,11 @@ Los Consejeros actuarán con absoluta independencia de quien los nombre, por lo 
 
 Las percepciones recibidas con motivo al desempeño de sus atribuciones, serán equivalentes a las de los Magistrados del Tribunal Constitucional, mismas que no podrán ser disminuidas durante el periodo del cargo.
 
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
+
 ###### Artículo 156.
 
-Los Consejeros quedarán sujetos a las responsabilidades que establecen el Título Noveno de la Constitución Política del Estado de Chiapas, la Ley de Responsabilidades de los Servidores Públicos y las señaladas en este Código.
+Los Consejeros quedarán sujetos a las responsabilidades que establecen el Título Décimo Segundo de la Constitución Política del Estado de Chiapas, la Ley de Responsabilidades de los Servidores Públicos y las señaladas en este Código.
 
 ###### Artículo 157.
 
@@ -2015,7 +2129,9 @@ XI. Nombrar a los Consejeros que formarán parte del Comité Académico del Inst
 
 XII. Nombrar o remover al Secretario Ejecutivo del Consejo, a propuesta de su Presidente;
 
-XIII. Nombrar al titular del Centro de Justicia Alternativa del Poder Judicial del Estado, de entre aquellos que aprueben satisfactoriamente el curso de formación respectivo y hayan resultado electos mediante un proceso de oposición; así como a los tres miembros del Consejo General del referido Centro;
+> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
+
+XIII. Nombrar al titular del Centro Estatal de Justicia Alternativa, a propuesta del Titular del Ejecutivo del Estado;
 
 > <small>(REFORMADA, P.O. 26 DE MAYO DE 2010)</small>
 
@@ -2037,13 +2153,17 @@ XXI. Resolver, previa garantía de audiencia, sobre los procedimientos de respon
 
 XXII. Otorgar estímulos y recompensas a los servidores públicos del Poder Judicial que se hayan destacado en el desempeño de su cargo;
 
-XXIII. Conceder licencias a los Magistrados de las Salas Regionales Colegiadas, Jueces, Secretarios, Actuarios y demás servidores públicos del Poder Judicial;
+> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
+
+XXIII. Conceder licencias a los magistrados de las Salas y Visitadores, Jueces, Secretarios, Actuarios y demás servidores públicos del Poder Judicial;
 
 XXIV. Fijar las bases para cubrir las plazas vacantes de sus miembros, de acuerdo con lo establecido en este Código y determinar las previsiones para su sustitución, en casos de ausencia temporal o absoluta;
 
 XXV. (DEROGADA, P.O. 17 DE NOVIEMBRE DE 2010)
 
-XXVI. Participar en la designación de Magistrados, en los términos del artículo 52, párrafo segundo, de la Constitución Política del Estado de Chiapas;
+> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
+
+XXVI. Participar en la designación de Magistrados, en los términos del artículo 57, de la Constitución Política del Estado de Chiapas;
 
 XXVII. Formar, actualizar y especializar a los servidores públicos del Poder Judicial, así como desarrollar la carrera judicial, la cual se regirá por los principios de excelencia, objetividad, imparcialidad, profesionalismo e independencia;
 
@@ -2059,7 +2179,9 @@ XXXII. Ofertar estudios a los servidores públicos del Poder Judicial del Estado
 
 XXXIII. Supervisar que la aplicación y evaluación de los exámenes de oposición que se practiquen a los aspirantes de nuevo ingreso, se hagan con imparcialidad, objetividad y rigor académico y que para quienes deseen promoverse a cargos superiores, en sus expedientes personales no obren quejas fundadas que demeriten los principios que imperan en la administración de justicia;
 
-XXXIV. Cuidar el cumplimiento y efectividad de la carrera judicial y, la eficacia y eficiencia de los especialistas del Centro de Justicia Alternativa;
+> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
+
+XXXIV. Cuidar el cumplimiento y efectividad de la carrera judicial y, la eficacia y eficiencia de los especialistas del Centro Estatal de Justicia Alternativa;
 
 XXXV. Expedir los reglamentos interiores en materia administrativa, de contraloría Interna, carrera judicial, escalafón, visitaduría y régimen disciplinario del Poder Judicial del Estado;
 
@@ -2131,7 +2253,7 @@ XIX. Las demás que le otorguen este Código y otras disposiciones legales aplic
 
 ### Capítulo III. De su Funcionamiento
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 11 DE MAYO DE 2011)</small>
 
@@ -2181,7 +2303,7 @@ V. Gozar de buena reputación y no haber sido condenado por delito que amerite p
 
 ### Capítulo IV. De las Atribuciones del Tribunal de Justicia Electoral y Administrativa
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 11 DE MAYO DE 2011)</small>
 
@@ -2699,17 +2821,19 @@ El presidente del jurado tiene atribución para decidir lo conducente de present
 
 La Visitaduría es un órgano judicial del Consejo de la Judicatura, que se encarga de vigilar el ejercicio adecuado de las atribuciones de los órganos del Poder Judicial, con excepción del Tribunal Constitucional.
 
-Las atribuciones que este Código confiere a la Visitaduría, serán realizadas por los Magistrados Visitadores.
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
 
-> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2010)</small>
+Las atribuciones que este Código confiere a la Visitaduría serán realizadas por los magistrados del Tribunal Superior de Justicia, a excepción de los del Tribunal Constitucional, que el Consejo de la Judicatura adscriba a ésta, quienes en tanto se encuentren adscritos en este órgano serán denominados magistrados visitadores.
+
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
 
 ###### Artículo 214.
 
-La Visitaduría estará integrada por cinco Magistrados Visitadores, nombrados a propuesta del Titular del Poder Ejecutivo y ratificada por el Congreso del Estado o por la Comisión Permanente, en su caso, en los términos del párrafo cuarto, del artículo 54, de la Constitución Política del Estado de Chiapas. Durarán en el encargo seis años, contados a partir de su nombramiento, con posibilidad de reelección por otro periodo igual. El titular de la Visitaduría será designado de entre sus miembros, a propuesta del Presidente del Tribunal Constitucional, por el Consejo de la Judicatura, quién durará en el encargo dos años, con posibilidad de reelección por otro tanto igual.
+La Visitaduría estará integrada por cinco magistrados. El titular de la Visitaduría, será designado de entre sus miembros, por el Presidente del Consejo de la Judicatura.
 
 ###### Artículo 215.
 
-Los Magistrados Visitadores deberán ser personas que se hayan distinguido por su capacidad, honestidad y honorabilidad en el ejercicio de su profesión, con experiencia en la elaboración de sentencias; ejercerán sus atribuciones con independencia e imparcialidad y deberán reunir los requisitos previstos en el artículo 53, de la Constitución Política del Estado, con excepción de la especialidad en materia constitucional.
+(DEROGADO, P.O. 14 DE SEPTIEMBRE DE 2011)
 
 ###### Artículo 216.
 
@@ -2833,9 +2957,13 @@ Los Magistrados del Tribunal de Justicia Electoral y Administrativa, serán nomb
 
 I. Cinco serán nombrados por el Congreso del Estado o por la Comisión Permanente, en su caso, de entre las propuestas que formulen los grupos parlamentarios; y,
 
-II. Dos serán designados por el Tribunal Constitucional de entre los Magistrados de las Salas Regionales Colegiadas, del Tribunal Superior de Justicia del Estado.
+> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
 
-Los Magistrados no representan a quien los propone o los designa, por lo que ejercerán su función con independencia e imparcialidad y durante su encargo solo podrán ser removidos en términos del Título Noveno de la Constitución Política del Estado de Chiapas y la Ley de Responsabilidades de los Servidores Públicos del Estado de Chiapas. Los Magistrados designados por el Tribunal Constitucional podrán ser removidos en cualquier tiempo, previo acuerdo del Pleno de este Tribunal.
+II. Dos serán designados por el Tribunal Constitucional de entre aquellos que ocupen un cargo de magistrado en el Tribunal Superior de Justicia. La designación de los magistrados dará por concluido su nombramiento anterior, considerándose a partir de su nombramiento magistrados electorales por el término previsto en la Constitución Política del Estado y este Código.
+
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
+
+Los Magistrados no representan a quien los propone o los designa, por lo que ejercerán su función con independencia e imparcialidad y durante su encargo sólo podrán ser removidos en términos del Título Décimo Segundo de la Constitución Política del Estado de Chiapas y la Ley de Responsabilidades de los Servidores Públicos del Estado de Chiapas. Los Magistrados designados por el Tribunal Constitucional podrán ser removidos en cualquier tiempo, previo acuerdo del Pleno de este Tribunal.
 
 ###### Artículo 227.
 
@@ -2845,7 +2973,9 @@ I. Ser ciudadano chiapaneco, mexicano por nacimiento, en pleno ejercicio de sus 
 
 II. Tener cuando menos treinta y cinco años de edad cumplidos al día de la designación y hasta setenta y cinco años como máximo en el cargo de magistrado; en caso de estar en funciones al cumplir setenta y cinco años, el retiro será forzoso;
 
-III. Tener título y cédula profesionales de Licenciado en Derecho, con antigüedad mínima de cinco años anteriores al día de su nombramiento, expedido y registrado por autoridad o institución legalmente facultada para ello, y contar con conocimientos y experiencia en materia electoral y administrativa;
+> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
+
+III. Tener título y cédula profesionales de Licenciado en Derecho, con antigüedad mínima de diez años anteriores al día de su nombramiento, expedido y registrado por autoridad o institución legalmente facultada para ello, y contar con conocimientos y experiencia en materia electoral y administrativa;
 
 IV. Gozar de buena reputación y no haber sido condenado por delito que amerite pena corporal de más de un año; pero si se tratare de otro delito que lesione seriamente la fama pública del aspirante, se considerará inhabilitado para el desempeño del cargo, cualquiera que haya sido la pena impuesta;
 
@@ -2853,9 +2983,17 @@ V. No pertenecer al estado eclesiástico, ni ser ministro de algún culto religi
 
 VI. No ocupar o haber ocupado cargo de elección popular en los cinco años anteriores a su designación;
 
-VII. No desempeñar ni haber desempeñado cargo de dirección nacional, estatal o municipal en algún partido político, en los cinco años anteriores a la designación; y,
+> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
 
-VIII. No haber sido postulado por partido político alguno a ningún puesto de elección popular, durante los dos últimos procesos electorales.
+VII. No desempeñar ni haber desempeñado cargo de dirección nacional, estatal o municipal en algún partido político, en los cinco años anteriores a la designación;
+
+> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
+
+VIII. No haber sido postulado por partido político alguno a ningún puesto de elección popular, durante los dos últimos procesos electorales; y,
+
+> <small>(ADICIONADA, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
+
+IX. Que la persona que vaya a designarse no haya sido titular de una Secretaría de Estado, Procurador General de Justicia del Estado, a menos que se haya separado del cargo un año antes del día de su nombramiento.
 
 ### Capítulo II. De sus Atribuciones
 
@@ -2881,7 +3019,7 @@ III. De los conflictos o diferencias laborales entre la Comisión de Fiscalizaci
 
 IV. De los conflictos o diferencias laborales del propio Tribunal de Justicia Electoral y Administrativa y sus servidores.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 11 DE MAYO DE 2011)</small>
 
@@ -2899,7 +3037,7 @@ III. Los demás casos que señale la Ley de Procedimientos Administrativos para 
 
 Las decisiones del Pleno y de las Salas serán tomadas por mayoría o por unanimidad de votos, en caso de empate, el Presidente del Tribunal tendrá voto de calidad.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 11 DE MAYO DE 2011)</small>
 
@@ -2915,7 +3053,7 @@ Si se trata del Presidente de la Sala Colegiada de Primera Instancia, será sust
 
 Los casos no previstos serán resueltos por el Pleno del Tribunal.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 11 DE MAYO DE 2011)</small>
 
@@ -2927,7 +3065,7 @@ Las ausencias del Presidente de la Sala Colegiada de Segunda Instancia, serán s
 
 Cuando por causa de recusación, excusa o cualquier otro motivo justificado, un Magistrado no integre Sala, será sustituido por el Secretario General de Acuerdos y del Pleno, y éste a su vez, por un Secretario de Estudio y Cuenta.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 11 DE MAYO DE 2011)</small>
 
@@ -3207,21 +3345,23 @@ La estructura y funcionamiento de cada uno de los órganos auxiliares de la Comi
 
 El Tribunal del Trabajo Burocrático es un órgano del Poder Judicial, de naturaleza colegiada, a quien corresponde conocer de los conflictos laborales suscitados entre el Poder Ejecutivo, el Poder Legislativo, los Ayuntamientos y los órganos constitucionales autónomos, a excepción de los electorales, con sus respectivos trabajadores.
 
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
+
 ###### Artículo 251.
 
 El Tribunal del Trabajo Burocrático se integra por:
 
-I. Siete Magistrados, de los cuales el designado por el Tribunal Constitucional del Tribunal Superior de Justicia del Estado, fungirá como su Presidente;
+I. Siete Magistrados, de los cuales el Tribunal Constitucional del Tribunal Superior de Justicia del Estado nombrará a su Presidente.
 
-II. Un Secretario General de Acuerdos y del Pleno;
+II. Un Secretario General de Acuerdos y del Pleno.
 
-III. Secretarios de Acuerdos de Sala;
+III. Secretarios de Acuerdos de Sala.
 
-IV. Secretarios de Acuerdos de Ponencia;
+IV. Secretarios de Acuerdos de Ponencia.
 
-V. Secretarios de Estudio y Cuenta;
+V. Secretarios de Estudio y Cuenta.
 
-VI. Actuarios; y,
+VI. Actuarios.
 
 VII. El personal administrativo que se considere necesario y permita el presupuesto.
 
@@ -3243,17 +3383,23 @@ Los conflictos que surjan entre el Tribunal del Trabajo Burocrático y sus traba
 
 Los Magistrados del Tribunal del Trabajo Burocrático, serán nombrados de la siguiente manera:
 
-I. Uno por el Tribunal Constitucional, quien fungirá como su Presidente;
+> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
+
+I. Uno por el Tribunal Constitucional;
 
 II. Dos por el Poder Ejecutivo;
 
 III. Uno que será designado por el Congreso del Estado, de entre las propuestas que le envíen por escrito, tres de los Ayuntamientos de mayor población en el Estado;
 
-IV. Un máximo de tres propuestos por las tres unidades burocráticas de mayor representatividad.
+> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
+
+IV. Tres propuestos de la misma forma por las tres unidades burocráticas de mayor representatividad.
+
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
 
 ###### Artículo 255.
 
-Todos los nombramientos de los Magistrados, con excepción de los correspondientes al Poder Ejecutivo, serán sometidos a la aprobación del Congreso del Estado o de la Comisión Permanente en su caso, quien otorgará o negará su nombramiento dentro del término improrrogable de cinco días. Si no resolviere dentro del citado término, se tendrán por aprobados.
+La designación de los magistrados nombrados por el Ejecutivo del estado, será directa. Las propuestas de designación de los magistrados formuladas por los ayuntamientos y las unidades burocráticas a que hace mención el artículo anterior, deberán ser aprobadas por el Pleno del Congreso del Estado o de la Comisión Permanente en su caso, quien otorgará o negará su nombramiento dentro del término improrrogable de cinco días. Si no resolviere dentro del citado término, se tendrán por aprobados.
 
 ###### Artículo 256.
 
@@ -3261,13 +3407,15 @@ Para ser Magistrado del Tribunal del Trabajo Burocrático, se requiere:
 
 I. Acreditar por lo menos tres años de experiencia en materia laboral; y,
 
-II. Reunir los requisitos establecidos en el artículo 53, de la Constitución Política del Estado de Chiapas, a excepción de los conocimientos especializados en materia constitucional.
+> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
 
-> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2009)</small>
+II. Reunir los requisitos establecidos en el artículo 61, de la Constitución Política del Estado de Chiapas.
+
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
 
 ###### Artículo 257.
 
-Los Magistrados serán nombrados por un período de cuatro años, y podrán ser reelectos por un período más. Durante el encargo, sólo podrán ser removidos en los términos del Título Noveno de la Constitución Política del Estado.
+Los Magistrados serán nombrados por un periodo de cuatro años, y podrán ser reelectos por un periodo más. Durante el encargo, sólo podrán ser removidos en los términos del Título Décimo Segundo de la Constitución Política del Estado.
 
 ###### Artículo 258.
 
@@ -3335,7 +3483,7 @@ VI. Las demás que determinen la Ley de la materia y su Reglamento Interior.
 
 ### Capítulo VI. De la Prescripción
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE MAYO DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE MAYO DE 2010)</small>
 
 ###### Artículo 263.
 
@@ -3531,7 +3679,7 @@ VI. Los demás que señalen otras disposiciones legales aplicables.
 
 ## Título Tercero. De la Remoción de los Funcionarios y Servidores Públicos del Poder Judicial del Estado
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 26 DE MAYO DE 2010)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 26 DE MAYO DE 2010)</small>
 
 ###### Artículo 276.
 
@@ -3585,9 +3733,11 @@ III. En los casos de renuncia, baja por abandono de empleo, destitución, imposi
 
 Las faltas temporales del Presidente del Tribunal Constitucional y del Consejo de la Judicatura, se cubrirán por el Magistrado del Tribunal que se designe en Pleno.
 
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
+
 ###### Artículo 285.
 
-En caso de que la falta de Presidente del Tribunal Constitucional y del Consejo de la Judicatura sea definitiva, se dará aviso inmediato al Titular del Poder Ejecutivo, para proceder en los términos del párrafo segundo, del artículo 50, de la Constitución Política del Estado de Chiapas, dicho aviso será a cargo del Secretario General de Acuerdos y del Pleno del Tribunal Constitucional.
+En caso de que la falta de Presidente del Tribunal Constitucional y del Consejo de la Judicatura sea definitiva, se dará aviso inmediato al Titular del Poder Ejecutivo, para proceder en los términos del párrafo sexto, del artículo 57, de la Constitución Política del Estado de Chiapas; dicho aviso será a cargo del Secretario General de Acuerdos y del Pleno del Tribunal Constitucional.
 
 ###### Artículo 286.
 
@@ -3601,15 +3751,21 @@ Las faltas del Secretario Ejecutivo del Consejo de la Judicatura, se cubrirán p
 
 Las faltas accidentales y temporales de los Magistrados de las Salas Regionales Colegiadas, serán suplidas por el Secretario General de Acuerdos de la Sala.
 
-SI la falta de un Magistrado de Sala Regional Colegiada fuere definitiva, se dará aviso inmediato al Titular del Poder Ejecutivo, para proceder en los términos del párrafo segundo, del artículo 50, de la Constitución Política del Estado de Chiapas; dicho aviso será a cargo del Presidente del Tribunal Superior de Justicia del Estado.
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
+
+Si la falta de un Magistrado fuere definitiva, se dará aviso inmediato al Titular del Poder Ejecutivo, para proceder en los términos del párrafo octavo, del artículo 57, de la Constitución Política del Estado de Chiapas; dicho aviso será a cargo del Presidente del Tribunal Superior de Justicia del Estado.
+
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
 
 ###### Artículo 289.
 
-Las faltas accidentales y temporales de los Secretarios Generales de Acuerdos de las Salas Regionales Colegiadas, serán suplidas por un Secretario de estudio y Cuenta de la misma Sala, designado por el Presidente de la Sala.
+Las faltas accidentales y temporales de los Secretarios Generales de Acuerdos de las Salas, serán suplidas por un Secretario de estudio y Cuenta de la misma Sala, designado por el Presidente de la Sala.
+
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
 
 ###### Artículo 290.
 
-Las faltas definitivas de los Secretarios Generales de Acuerdos de las Salas Regionales, serán suplidas en los términos del artículo anterior, hasta en tanto el Consejo de la Judicatura realiza la nueva designación, en un plazo no mayor a quince días.
+Las faltas definitivas de los Secretarios Generales de Acuerdos de las Salas, serán suplidas en los términos del artículo anterior, hasta en tanto el Consejo de la Judicatura realiza la nueva designación, en un plazo no mayor a quince días.
 
 ###### Artículo 291.
 
@@ -3835,7 +3991,7 @@ La prescripción no se interrumpe por la tramitación del procedimiento de Media
 
 ###### Artículo 311.
 
-La prescripción no se interrumpe por la tramitación del procedimiento de Mediación, sin embargo, se interrumpirá al iniciarse los procedimientos previstos en la ley. SI se dejare de actuar en ellos, la prescripción empezará a correr nuevamente desde el día siguiente al en que se hubiere practicado el último acto procedimental o realizado la última promoción.
+(DEROGADO, P.O. 14 DE SEPTIEMBRE DE 2011)
 
 > <small>(ADICIONADO, P.O. 26 DE MAYO DE 2010)</small>
 
@@ -3899,7 +4055,7 @@ De conformidad con la fracción I del artículo 42 de la Constitución Política
 
 Juan Sabines Guerrero, Gobernador del Estado.- Noé Castañón León, Secretario General de Gobierno.- Rúbricas.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA AL PRESENTE CODIGO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA AL PRESENTE CÓDIGO.</small>
 
 P.O. 21 DE OCTUBRE DE 2009.
 
@@ -3942,6 +4098,12 @@ Artículo Cuarto.- Los juicios contenciosos administrativos que se encuentren en
 Artículo Quinto.- Las Salas Colegiadas de Primera y Segunda Instancia del Tribunal de Justicia Electoral y Administrativa, quedarán integradas por los magistrados que sean propuestos por el Presidente de ese órgano jurisdiccional y aprobados por el Pleno del propio Tribunal.
 
 P.O. 29 DE JUNIO DE 2011.
+
+Artículo Primero.- El presente Decreto entrará en vigor, al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 14 DE SEPTIEMBRE DE 2011.
 
 Artículo Primero.- El presente Decreto entrará en vigor, al día siguiente de su publicación en el Periódico Oficial del Estado.
 
