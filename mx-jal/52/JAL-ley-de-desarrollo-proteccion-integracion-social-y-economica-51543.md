@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-desarrollo-proteccion-integracion-social-y-economica-515
 country: "mx"
 rank: "ley"
 publication_date: "2006-08-08"
-last_updated: "2007-05-31"
+last_updated: "2011-09-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51543&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "JAL"
 
 LEY DE DESARROLLO, PROTECCION, INTEGRACION SOCIAL Y ECONOMICA DEL ADULTO MAYOR DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE MAYO DE 2007.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO PRIMERO TRANSITORIO DEL DECRETO No. 23563/LIX/11, PUBLICADO EN EL P.O. DEL 15 DE SEPTIEMBRE DE 2011, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
 
 Ley publicada en la Sección II del Periódico Oficial del Estado de Jalisco, el martes 8 de agosto de 2006.
 
@@ -802,3 +804,19 @@ MTRO. GERARDO OCTAVIO SOLÍS GÓMEZ
 P.O. 31 DE MAYO DE 2007.
 
 ÚNICO: El presente decreto entrará en vigor el día siguiente al de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. DEL 15 DE SEPTIEMBRE DE 2011.
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco, y se abrogan el decreto número 21388, de la Ley de Desarrollo, Protección, Integración Social y Económica del Adulto mayor del Estado de Jalisco, y demás disposiciones legales que se opongan al presente decreto.
+
+SEGUNDO. El titular del Ejecutivo del Estado deberá expedir el reglamento de la presente ley, en los términos de la fracción VIII del artículo 50 de la Constitución Política del Estado de Jalisco.
+
+TERCERO. A partir de la publicación de la presente ley, el titular del Poder Ejecutivo del Estado de Jalisco deberá nombrar dentro de los treinta días siguientes al Director del Instituto el cual deberá cumplir con los requisitos establecidos por el artículo 49 de la presente ley.
+
+CUARTO. Por única ocasión, para la elección de las vaca lías descritas por el artículo 40, fracciones IV y V, de esta ley, el presidente y vocales miembros del sector público que se indican en la fracción 111 del mismo artículo elegirán, mediante convocatoria pública y abierta a la ciudadanía jalisciense en general, a dichos vocales. Quienes aspiren a ocupar las vocalías antes descritas deberán cumplir con los requisitos establecidos por la convocatoria respectiva, la cual se publicará por tres días hábiles en el periódico de mayor circulación.
+
+QUINTO. Los derechos laborales y sociales que actualmente disfrutan los servidores públicos asignados al Consejo Estatal de la Salud para la Atención del Envejecimiento quedarán a salvo, de conformidad con lo dispuesto por la ley reglamentaria del apartado A del artículo 123 de la Constitución federal.
+
+SEXTO. Se autoriza a la Secretaría de Finanzas a realizar todas las adecuaciones presupuestales necesarias para el debido cumplimiento del presente decreto.
+
+SÉPTIMO. Los recursos humanos, materiales y presupuestales del Consejo Estatal de la Salud para la Atención del Envejecimiento pasarán a formar parte del patrimonio del Instituto Jalisciense del Adulto mayor.
