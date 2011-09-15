@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-de-la-comision-interinstitucional-del-81778
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-06-22"
-last_updated: "2011-06-22"
+last_updated: "2011-09-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81778&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,11 +19,13 @@ issue_date: "2011-06-14"
 ---
 # REGLAMENTO INTERIOR DE LA COMISION INTERINSTITUCIONAL DEL CUADRO BASICO Y CATALOGO DE INSUMOS DEL SECTOR SALUD
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LAS FE DE ERRATAS PUBLICADAS EL 15 DE SEPTIEMBRE DE 2011 Y EL 3 DE JULIO DE 2013 EN EL D.O.F., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 3 DE JULIO DE 2013 EN EL D.O.F., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
 
 REGLAMENTO INTERIOR DE LA COMISION INTERINSTITUCIONAL DEL CUADRO BASICO Y CATALOGO DE INSUMOS DEL SECTOR SALUD
 
 TEXTO ORIGINAL.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION DEL 15 DE SEPTIEMBRE DE 2011.</small>
 
 Reglamento publicado en la Segunda Sección del Diario Oficial de la Federación, el miércoles 22 de junio de 2011.
 
@@ -415,11 +417,11 @@ Podrán solicitar actualizaciones de los insumos en el Cuadro Básico y Catálog
 
 Las solicitudes y la documentación que las acompañe deberán ser presentadas preferentemente en medios digitales, conforme a los requisitos citados en este Reglamento. La solicitud y la documentación presentada con motivo de la actualización serán conservadas en el Consejo de Salubridad General durante un periodo de cuatro años, al término de los cuales se transferirán al Archivo de Concentración de la Secretaría de Salud.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 15 DE SEPTIEMBRE DE 2011 EN EL D.O.F., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+> <small>(F. DE E., D.O.F. 15 DE SEPTIEMBRE DE 2011)</small>
 
 ###### Artículo 28.
 
-Toda solicitud de actualización, independientemente del tipo de insumo de que se trate, deberá contener los datos de contacto de la persona responsable y deberá ser acompañada de lo siguiente:
+Toda solicitud de actualización deberá contener los datos de contacto de la persona responsable. Las solicitudes de inclusión, independientemente del tipo de insumo de que se trate, y las solicitudes de modificación a las indicaciones de un medicamento, deberán ser acompañadas de lo siguiente:
 
 I. Copia del Registro Sanitario vigente expedido por la Comisión Federal para la Protección contra Riesgos Sanitarios certificada por notario público o corredor público, con excepción de los insumos que por definición de COFEPRIS, no requieran Registro Sanitario. Cuando se trate de insumos sin patente, las instituciones públicas prestadoras de servicios de salud podrán presentar su solicitud acompañada de copia simple del Registro Sanitario.
 
