@@ -4,7 +4,7 @@ identifier: "JAL-reglamento-de-la-ley-organica-del-poder-legislativo-del-40056"
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-06-19"
-last_updated: "2011-02-10"
+last_updated: "2011-09-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40056&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 REGLAMENTO DE LEY ORGANICA DEL PODER LEGISLATIVO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE FEBRERO DE 2011.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE SEPTIEMBRE DE 2011.
 
 Reglamento publicado en la Sección IV del Periódico Oficial del Estado de Jalisco, el sábado 19 de junio de 2004.
 
@@ -909,7 +909,9 @@ II. Por enfermedad, o cuestiones relacionadas con la salud e integridad física 
 
 III. Estar cumpliendo con tareas en conjunto con titulares de otros de los Poderes del Estado o de la Federación;
 
-IV. Estar en cumplimiento de labores inherentes a su encargo como diputado o encontrarse imposibilitadazo (sic) para asistir por caso fortuito o fuerza mayor; y
+> <small>(REFORMADA, P.O. 15 DE SEPTIEMBRE DE 2011)</small>
+
+IV. Estar en cumplimiento de labores inherentes a su encargo como diputado o encontrarse imposibilitado para asistir por caso fortuito o fuerza mayor, y
 
 V. Haber presentado a la Asamblea solicitud de separación del cargo de diputado o del trabajo de la comisión.
 
@@ -2356,5 +2358,9 @@ DECRETO NUMERO 23481/LIX/10, POR EL QUE SE SE ADICIONA EL CAPITULO V Y EL ARTICU
 P.O. 10 DE FEBRERO DE 2011.
 
 DECRETO NUMERO 23485/LIX/10, POR EL QUE SE SE REFORMA EL ARTICULO 12 DEL REGLAMENTO DE LA LEY ORGANICA DEL PODER LEGISLATIVO.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 15 DE SEPTIEMBRE DE 2011.
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
