@@ -4,7 +4,7 @@ identifier: "SLP-reglamento-interior-del-tribunal-electoral-del-poder-70236"
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-09-05"
-last_updated: "2009-09-05"
+last_updated: "2011-09-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70236&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,1296 +21,790 @@ state: "SLP"
 ---
 # REGLAMENTO INTERIOR DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DEL ESTADO DE SAN LUIS POTOSI
 
-CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE TABASCO
+REGLAMENTO INTERIOR DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DEL ESTADO DE SAN LUIS POTOSÍ
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE DICIEMBRE DE 1982.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DEL ESTADO DE SAN LUIS POTOSÍ, PUBLICADO EN EL P.O. DE 15 DE SEPTIEMBRE DE 2011, EL PRESENTE ORDENAMIENTO HA SIDO DEROGADO.</small>
 
-Constitución publicada por Bando Solemne en el Estado de Tabasco, el 5 de abril de 1919.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: DEROGADO.
 
-General Brigadier CARLOS GREENE, Gobernador Constitucional del Estado Libre y Soberano de Tabasco a sus habitantes hago saber:
+Reglamento publicado en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 5 de septiembre de 2009.
 
-LA H. XXVI LEGISLATURA DEL ESTADO DE TABASCO, erigida en Congreso Constituyente el día 10 de marzo último en la ciudad de Villahermosa, de conformidad con el artículo 64 de la Ley Orgánica Electoral de 23 de diciembre de 1918, expide la siguiente
+CONSIDERANDO.
 
-> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1975)</small>
+Por lo expuesto, el Pleno del Consejo de la Judicatura del Poder Judicial del Estado; con fundamento en las disposiciones constitucionales, legales citadas, expide el siguiente:
 
-Constitución Política del Estado Libre y Soberano de Tabasco
+REGLAMENTO INTERIOR DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DEL ESTADO DE SAN LUIS POTOSÍ.
 
-> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1975)</small>
+## TÍTULO PRIMERO.. DISPOSICIONES GENERALES
 
-## TITULO I. DEL ESTADO Y SUS HABITANTES
+### CAPÍTULO ÚNICO
 
-> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1975)</small>
+###### Artículo 1.
 
-### CAPITULO I. DEL ESTADO Y SU TERRITORIO
+Las disposiciones de este ordenamiento tienen por objeto proveer lo necesario para la exacta observancia de la Ley Orgánica del Poder Judicial del Estado en lo referente a la organización y funcionamiento del Tribunal Electoral del Poder Judicial del Estado.
 
-> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1975)</small>
+###### Artículo 2.
 
-###### ARTICULO 1°.
+Será obligatoria la observancia del presente reglamento para todos los servidores judiciales adscritos al Tribunal Electoral del Poder Judicial del Estado.
 
-El Estado de Tabasco es parte integrante de los Estados Unidos Mexicanos.
+###### Artículo 3.
 
-> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1975)</small>
+Para los efectos del presente Reglamento se entenderá por:
 
-###### ARTICULO 2°.
+I. Archivo Judicial; El Archivo Judicial del Poder Judicial del Estado;
 
-El Territorio del Estado es el que de hecho y por derecho le pertenece.
+II. CEEPAC: Consejo Estatal Electoral y de Participación Ciudadana;
 
-> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 1982)</small>
+III. Consejo: Consejo de la Judicatura del Poder Judicial del Estado;
 
-###### ARTICULO 3°.
+IV. Constitución: La Constitución Política del Estado de San Luis Potosí;
 
-El Estado de Tabasco se integra con los Municipios siguientes:
+V. Ley Orgánica: la Ley Orgánica del Poder Judicial del Estado;
 
-Balancán, Cárdenas, Centla, Centro, Comalcalco, Cunduacán, Emiliano Zapata, Huimanguillo, Jalapa, Jalpa de Méndez, Jonuta, Macuspana, Nacajuca, Paraíso, Tacotalpa, Teapa, y Tenosique, con la extensión y límites que de hecho y por derecho les corresponde.
+VI. Ley Electoral: la Ley Electoral del Estado de San Luis Potosí;
 
-> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1975)</small>
+VII. Magistrado: Magistrados de la Sala de Segunda Instancia y de las Salas Regionales;
 
-###### ARTICULO 4°.
+VIII. Magistrado Presidente: Magistrado Presidente del Tribunal Electoral del Poder judicial del Estado y de la Sala de Segunda Instancia;
 
-Los habitantes del Estado tienen iguales derechos y obligaciones, en los términos de esta Constitución.
+IX. Pleno del Consejo: Pleno del Consejo de la Judicatura del Poder Judicial del Estado;
 
-> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1975)</small>
+X. Pleno del Supremo Tribunal: Pleno del Supremo Tribunal de Justicia del Estado;
 
-###### ARTICULO 5°.
+XII. Sala de Segunda Instancia: Sala colegiada de segunda instancia del Tribunal Estatal Electoral, con carácter permanente;
 
-Son tabasqueños:
+XIII. Salas Regionales: Salas unitarias de primera instancia del Tribunal Estatal Electoral, con sede en las diferentes regiones del Estado; y
 
-I.- Los nacidos en territorio de la Entidad;
+XIV. Tribunal Electoral: El Tribunal Electoral del Poder Judicial del Estado.
 
-II.- Los hijos de padres tabasqueños nacidos fuera del Estado; y
+###### Artículo 4.
 
-III.- Los mexicanos que tengan domicilio establecido con residencia efectiva de dos años por lo menos, dentro de la circunscripción territorial del Estado y estén dedicados al desempeño de actividad lícita.
+El Tribunal Electoral es un órgano permanente y especializado del Poder Judicial del Estado, máxima autoridad jurisdiccional en materia electoral, que resolverá los recursos que le competen de conformidad con la Ley Electoral- y tendrá la organización, funcionamiento y atribuciones que establezca la Ley Orgánica del Poder Judicial del Estado.
 
-> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1975)</small>
+###### Artículo 5.
 
-###### ARTICULO 6°.
+La administración del presupuesto y de los recursos públicos del Tribunal Electoral corresponderá al Consejo.
 
-Son obligaciones de los ciudadanos tabasqueños:
+Durante los procesos electorales la administración se realizará por conducto de la Comisión de Administración del Tribunal Electoral, la que tendrá las mismas atribuciones en la esfera de competencia del Tribunal Electoral, que la Comisión de Administración y Presupuesto del Pleno del Consejo.
 
-I.- Inscribirse en los padrones electorales y en el catastro de la municipalidad, en la forma que determinen las leyes;
+###### Artículo 6.
 
-II.- Votar en las elecciones populares, en la sección electoral que les corresponda;
+La Comisión de Administración del Tribunal Electoral funcionará durante el proceso electoral y se integrará por los mismos consejeros que conforman la Comisión de Administración y Presupuesto del Consejo, quienes tendrán derecho a voz y voto.
 
-III.- Desempeñar los cargos de elección del Estado, que en ningún caso serán gratuitos;
+Se invitará con derecho únicamente a voz al Magistrado del Presidente del Tribunal Electoral cuando se elabore el proyecto Estado; del presupuesto de egresos del Tribunal Electoral.
 
-IV.- Desempeñar los cargos que les impongan las funciones electorales y las de jurado en el municipio en que residan; y
+###### Artículo 7.
 
-V.- Las demás que las leyes señalen.
+Las Salas Regionales al concluir sus funciones, remitirán al Secretario Ejecutivo de Administración, previo inventario, los recursos públicos con los que cuenten, bajo los procedimientos establecidos.
 
-> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1975)</small>
+###### Artículo 8.
 
-###### ARTICULO 7°.
+Del mismo modo, remitirán al Archivo Judicial los expedientes que se hubieren formado con motivo de los medios de impugnación de su competencia, los libros de gobierno y auxiliares y demás documentación administrativa.
 
-Son derechos de los ciudadanos tabasqueños, el de votar en las elecciones populares, el de ser votado para todo cargo impuesto por tales elecciones y el de ser nombrado, si se satisfacen los requisitos legales, para otros empleos o comisiones.
+###### Artículo 9.
 
-> <small>(ADICIONADO, P.O. 22 DE OCTUBRE DE 1977)</small>
+En cumplimiento al artículo 32, párrafo tercero de la Constitución, una vez concluido el proceso electoral y no quedando recursos que resolver, el Pleno dé la Sala de Segunda Instancia comunicará lo anterior al Pleno del Supremo Tribunal para que éste, decida sobre la competencia que habrá de asignarle como Sala Auxiliar.
 
-Ejercer el de petición, por escrito en forma pacífica y respetuosa, a toda petición la autoridad ante quien se ejercite, dictará su proveído dentro de quince días cuando las Leyes no señalen otros términos.
+## TÍTULO SEGUNDO.. DE LA INSTALACIÓN Y FUNCIONAMIENTO DEL TRIBUNAL ELECTORAL
 
-> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1975)</small>
+### CAPÍTULO ÚNICO.
 
-###### ARTICULO 8°.
+###### Artículo 10.
 
-Los derechos de los ciudadanos se suspenden:
+La instalación y el funcionamiento del Tribunal Electoral previo al proceso electoral, se hará de la siguiente manera:
 
-I.- Por falta de cumplimiento, sin causa justificada, de las obligaciones señaladas en el artículo sexto de esta Constitución. Tal suspensión durará un año y se impondrá sin perjuicio de otras penas que por el mismo hecho señalen las leyes;
+I. La Sala de Segunda Instancia, asumirá de pleno derecho su función de impartir justicia electoral a partir del tercer domingo de agosto del año anterior a la elección ordinaria, de acuerdo a las siguientes formalidades:
 
-II.- Por estar procesado, desde que se dicte el auto correspondiente hasta la sentencia si es absolutoria, o hasta la extinción de la pena si es condenatoria;
+Quien desempeñe el cargo de Presidente en la fecha señalada en el párrafo anterior, convocará a sesión extraordinaria de Pleno a los demás Magistrados numerarios, con un mínimo de cinco días de anticipación a la misma. La convocatoria mencionada, se hará por escrito, mismo que será entregado personalmente a cada uno de los Magistrados, recabándose constancia de ello. El escrito deberá contener:
 
-III.- Por estar prófugo de la justicia, desde que se dicte la orden de aprehensión hasta que prescriba la acción penal;
+a) Lugar, día y hora para la celebración de la sesión;
 
-IV.- Por sentencia ejecutoriada que lo inhabilite para el ejercicio de esos derechos; y
+b) Objeto de la convocatoria; y,
 
-V.- En los demás casos que las leyes señalen.
+c) Firma del Magistrado que convoca.
 
-> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1975)</small>
+En la sesión a que se refiere el párrafo anterior, se elegirá al Presidente de la Sala de Segunda Instancia, por unanimidad o mayoría de votos, de entre los Magistrados de segunda instancia; hecha la designación, quien resulte electo fungirá como Magistrado Presidente y durará en su encargo un año, pudiendo ser reelecto;
 
-###### ARTICULO 9°.
+II. La Sala Regional Zona Centro, se instalará en la primera quincena de septiembre del año anterior a la elección;
 
-El Estado de Tabasco es libre y soberano en lo que se refiere a su régimen interior, dentro de los lineamientos que señala la Constitución Política de los Estados Unidos Mexicanos.
+III. Las demás Salas Regionales, se instalarán durante enero del año de la elección.
 
-> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1975)</small>
+###### Artículo 11.
 
-## TITULO II. DE LA SOBERANIA Y DE LA FORMA DE GOBIERNO
+Concluirán las funciones de las Salas Regionales, cuando finalice el proceso electoral y se resuelva en forma definitiva e inatacable el último de los recursos de su competencia planteados respecto de la elección correspondiente.
 
-> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1975)</small>
+La Sala de Segunda Instancia continuara funcionando de manera permanente y sin perjuicio de su competencia como Sala Auxiliar del Supremo Tribunal y conocerá de los recursos que puedan presentarse fuera del proceso electoral.
 
-### CAPITULO II. DE LOS HABITANTES
+###### Artículo 12.
 
-> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1975)</small>
+Tratándose de procesos electorales extraordinarios se Instalará la Sala o Salas que resulten competentes, para cuyo efecto el Pleno del Supremo Tribunal propondrá al Congreso del Estado al Magistrado o Magistrados que sean requeridos para el desahogo del proceso de que se trate.
 
-###### ARTICULO 10.
+###### Artículo 13.
 
-El Estado adopta para su régimen interior, la forma de Gobierno Republicana, Representativa y Popular, teniendo como base de su organización política y administrativa el Municipio Libre.
+La Sala de Segunda Instancia tendrá jurisdicción en el Estado de San Luis Potosí y su sede estará ubicada en la ciudad capital; las Salas Regionales se conformarán en el número, ubicación y jurisdicción, que determine el Pleno del Supremo Tribunal, en términos del artículo 32 de la Constitución.
 
-> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1975)</small>
+###### Artículo 14.
 
-###### ARTICULO 11.
+Durante el proceso electoral todos los días y horas serán hábiles y no habrá periodos vacacionales, en términos de lo establecido por el artículo 208 de la Ley Electoral. Sin perjuicio de lo anterior, el Pleno de la Sala de Segunda Instancia y los Magistrados de las Salas Regionales podrán determinar, en forma temporal, el horario de actividades en los términos que estimen convenientes y conforme a las necesidades del servicio.
 
-El Poder Público se divide para su ejercicio en Legislativo, Ejecutivo y Judicial. No podrán reunirse dos o más Poderes en un solo individuo o corporación, ni depositarse el Legislativo en una sola persona, salvo lo prevenido en la fracción XVIII del Artículo 36 de esta Constitución.
+Durante el tiempo que no corresponda a un proceso electoral, serán días hábiles aquellos previstos por la Ley Orgánica, y horas hábiles, las que medien entre las ocho y las diecinueve, horas.
 
-> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1975)</small>
+## TÍTULO TERCERO.. DE LOS ÓRGANOS Y LOS SERVIDORES JUDICIALES DEL TRIBUNAL ELECTORAL
 
-###### ARTICULO 12.
+### CAPÍTULO I.. DE LA SALA DE SEGUNDA INSTANCIA
 
-El Poder Legislativo se deposita en un Congreso integrado por la Cámara de Diputados.
+###### Artículo 15.
 
-> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1975)</small>
+La Sala de Segunda Instancia se integrará de la siguiente manera;
 
-###### ARTICULO 13.
+I. Tres Magistrados;
 
-El Congreso se integrará por representantes populares electos cada tres años, que constituirán en cada caso la Legislatura correspondiente. Las Elecciones serán directas y se apegarán a lo que dispone la Ley Local Electoral.
+II. Un secretario general de acuerdos;
 
-> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1975)</small>
+III. Un actuario; y
 
-###### ARTICULO 14.
+IV Los secretarios de estudio y cuenta; y
 
-Se elegirá un Diputado propietario y un suplente por cada doscientos mil habitantes o fracción que pase de cien mil, tornando en cuenta el censo general del Estado, pero en ningún caso la representación de un Municipio será menor de un diputado.
+V. El demás personal administrativo y de apoyo, que sea necesario para el buen funcionamiento de la misma, de acuerdo con la disponibilidad presupuestal.
 
-> <small>(ADICIONADO, P.O. 3 DE MAYO DE 1978)</small>
+###### Artículo 16.
 
-Y hasta 4 Diputados que serán electos según el principio de representación proporcional, mediante el sistema de listas regionales, votadas en circunscripciones plurinominales.
+La Sala de Segunda Instancia funcionará de forma colegiada; sus resoluciones se tomarán por unanimidad o mayoría de votos; para que sesione válidamente se requerirá de la presencia de los tres Magistrados que la integran; las resoluciones que se dicten, deberán ostentar las firmas de los Magistrados y del secretario general de acuerdos que autoriza.
 
-> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1975)</small>
+Si votado un proyecto, éste no alcanzara la mayoría a favor, el Magistrado ponente podrá retirarlo y presentar uno nuevo en la próxima sesión. En el supuesto de que el nuevo proyecto tampoco alcance la mayoría para ser aprobado, el Magistrado Presidente declarará suficientemente discutido el asunto y turnará el asunto a otro Magistrado para que formule nuevo proyecto, sobre el cual se decidirá en definitiva, asentándose constancia de ello en el acta respectiva.
 
-## TITULO III. DEL PODER LEGISLATIVO
+###### Artículo 17.
 
-> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1975)</small>
+Además de las atribuciones que le confieren la Constitución, la Ley Orgánica y demás legislación aplicable, el Pleno de la Sala de Segunda Instancia, tendrá las siguientes:
 
-### CAPITULO III. DE LOS TABASQUEÑOS
+I. Expedir las circulares que considere necesarias para el adecuado funcionamiento del Tribunal Electoral;
 
-> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1975)</small>
+II. Celebrar las sesiones necesarias para atender los asuntos de su competencia;
 
-###### ARTICULO 15.
+III. Proponer al Pleno del Consejo el nombramiento, cambio adscripción o remoción con causa del Secretario General de Acuerdos de la Sala de Segunda Instancia, actuario y demás personal administrativo; por lo que respecta a los secretarios de estudio y cuenta a propuesta del Magistrado que así lo requiera;
 
-Para ser Diputado se requiere:
+IV. Modificar el horario de actividades atendiendo a las necesidades del servicio;
 
-I.- Ser ciudadano mexicano, nativo de la entidad o con residencia en ella no menor de cinco años;
+V. Organizarlas Comisiones que se consideren necesarias y designar a los Magistrados integrantes de las mismas, como mínimo se debe atender las funciones de formación, investigación y capacitación;
 
-II.- Tener veintiún años cumplidos el día de la elección;
+VI. Habilitar como actuarios a los secretarios general de acuerdos y de estudio y cuenta, cuando las necesidades del servicio lo ameriten;
 
-III.- No estar en servicio activo en el Ejército ni tener mando en la Policía o Gendarmería Rural en el distrito donde se haga la elección, cuando menos noventa días antes de la misma;
+VII. Asistir al desahogo de las pruebas y en su caso de las supervinientes;
 
-IV.- No ser Gobernador del Estado, ni Secretario de ramo alguno de Administración Pública, Procurador General de Justicia, Magistrado del Tribunal Superior de Justicia, Oficial Mayor o titular de alguna de las Direcciones de la propia Administración, Presidente Municipal o Funcionario Federal, a menos que permanezca separado de su cargo desde noventa días antes de la elección; y
+VIII. Convocar a los Magistrados supernumerarios. Cuando así proceda;
 
-V.- No ser ministro de culto religioso alguno.
+IX. Elaborar informe de actividades, al concluir el proceso electoral y en forma anual fuera de éste;
 
-> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1975)</small>
+X. Verificar la publicación de las tesis de jurisprudencia, una vez concluido el proceso electoral, debiendo remitirlas, para ese fin al Coordinador General· de Compilación Sistematización de Tesis dependiente del Consejo, y hacerlas del conocimiento, tanto del CEEPAC como de los partidos políticos y del público, subiendo las mismas a su sitio de Internet; y
 
-###### ARTICULO 16.
+XI. Las demás que establezcan las disposiciones constitucionales, legales y reglamentarias aplicables.
 
-Los Diputados al Congreso del Estado no podrán ser reelectos para el período inmediato. Los Diputados suplentes podrán ser electos para el período inmediato con el carácter de propietarios, siempre que no hubieren estado en ejercicio; pero los Diputados propietarios no podrán ser electos para el período inmediato con el carácter de suplentes.
+###### Artículo 18.
 
-> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1975)</small>
+En las sesiones del Pleno de la Sala de Segunda Instancia, se observará lo siguiente;
 
-###### ARTICULO 17.
+I. El ponente hará una breve relación de los resultandos, considerandos y del sentido de la resolución que integre el proyecto y concluida ésta, el Magistrado Presidente pondrá a discusión la ponencia respectiva;
 
-Los Diputados, durante el período de su cargo, no podrán desempeñar, con excepción de los docentes, ninguna comisión ni empleo de la Federación, del Estado o del Municipio, por los cuales se disfrute sueldo, sin previa licencia de la Cámara, en cuyo caso cesarán en sus funciones mientras dure la nueva ocupación.
+II. Concluido el debate, el Magistrado Presidente concederá la palabra a los Magistrados para que emitan su voto, quienes en ningún caso podrán abstenerse;
 
-La infracción de este precepto se castigará con la pérdida del cargo de Diputado.
+III. A continuación, se declarará la aprobación o la fijación del sentido que deba darse a la resolución, que será por unanimidad o por mayoría, asentándose, en su caso, el sentido del voto particular.
 
-###### ARTICULO 18.
+IV. Los asuntos de naturaleza administrativa, se discutirán y en su caso aprobarán por unanimidad o mayoría de votos;
 
-Los Diputados no pueden ser reconvenidos ni juzgados por autoridad alguna, por opiniones manifestadas en el ejercicio de su investidura.
+V. Se podrán discutir, proponer y desarrollar programas o actividades para mejorarla administración de justicia electoral; y
 
-Los Diputados gozan de fuero desde el día en que hubieren sido declarados electos por la Junta Computadora de su Distrito Electoral.
+VI. Las demás que establezcan las disposiciones constitucionales, legales o reglamentarias.
 
-> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1975)</small>
+### CAPÍTULO II.. DEL MAGISTRADO PRESIDENTE
 
-### CAPITULO IV. DE LAS OBLIGACIONES Y DERECHOS DE LOS CIUDADANOS EN EL ESTADO
+###### Artículo 19.
 
-> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1975)</small>
+El Magistrado Presidente de la Sala de Segunda Instancia tendrá, las siguientes atribuciones:
 
-###### ARTICULO 19.
+I. Convocar a los Magistrados a las sesiones del Pleno, ejecutar y cumplir las resoluciones del mismo;
 
-La Cámara de Diputados se renovará en su totalidad cada tres años, iniciando sus funciones el primero de enero siguiente a las elecciones.
+II. Representar al Tribunal Electoral en cualquier acto y ante cualquier· autoridad y, en su caso, delegar dicha representación;
 
-> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1975)</small>
+III. Substanciar ante la fe del secretario general de acuerdos los recursos que sean competencia de la Sala de Segunda Instancia;
 
-###### ARTICULO 20.
+IV. Dirigir las sesiones, en su· ausencia, se estará a lo dispuesto en el presente reglamento;
 
-La Cámara entrante, erigida en Colegio Electoral, calificará las elecciones de sus miembros resolviendo las dudas o controversias que se presenten con motivo de aquellas y sus resoluciones serán definitivas e inacatables.
+V. Mantener el orden en las audiencias, pudiendo en su caso sancionar conforme a la legislación aplicable, a quien altere las mismas;
 
-> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1975)</small>
+VI. Proponer al Pleno las circulares necesarias para el adecuado funcionamiento del Tribunal Electoral;
 
-###### ARTICULO 21.
+VII. Representar al Tribunal Electoral ante la Comisión de Administración del Tribunal Electoral;
 
-Los presuntos miembros de la Cámara declarados electos por la Junta Computadora de su Distrito Electoral, se reunirán en el Salón de Sesiones del Poder Legislativo diez días antes de la instalación del Congreso para constituirse, presente la mayoría, en Junta Preparatoria. Si no se reuniere la mayoría absoluta de los presuntos Diputados, los presentes se constituirán en Junta Previa para compeler a los ausentes a que concurran, advertidos de que si no lo hacen en el término de diez días se entenderá que no aceptan el cargo, llamándose luego a los suplentes. Estos deberán presentarse dentro del plazo de veinte días y de no conseguirse su asistencia, se declarará vacante el cargo, convocándose a nuevas elecciones para los Distritos respectivos.
+VIII. Validar los permisos del personal de la Sala, para su trámite ante el Consejo;
 
-> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1975)</small>
+IX. Encargarse de la integración de los informes y de que se remitan, a los Plenos del Supremo Tribunal y del Consejo;
 
-###### ARTICULO 22.
+X. Ejercer el control del personal de guardia del Tribunal Electoral;
 
-Calificadas las elecciones de la mayoría de los Diputados integrantes de la Cámara y habiendo quórum, otorgarán protesta de guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos, la del Estado y las leyes que de ellas emanen; rindiéndola por sí, el Presidente de la Junta Preparatoria, quien la tomará después a los otros Diputados. Acto seguido, se designará la Mesa Directiva del Congreso y se hará la declaración solemne de quedar instalada la Legislatura respectiva y abierto su período de sesiones ordinarias.
+XI. Coordinar las labores de difusión de información del propio Tribunal Electoral y de la capacitación del personal;
 
-> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1975)</small>
+XII. Vigilar la puntual observancia del presente Reglamento; y
 
-### CAPITULO I. DE LA SOBERANIA DEL ESTADO
+XIII. Las demás que establezcan las disposiciones constitucionales, legales y reglamentarias aplicables.
 
-> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1975)</small>
+###### Artículo 20.
 
-###### ARTICULO 23.
+El cargo de Magistrado Presidente es renunciable y corresponderá al Pleno de la Sala de Segunda Instancia, calificar su renuncia.
 
-El Congreso del Estado tendrá dos periodos de sesiones al año; el inicial, del primero de enero al treinta de abril y el final, del primero de septiembre al treinta y uno de diciembre del mismo año.
+###### Artículo 21.
 
-Durante el receso funcionará una Comisión Permanente.
+En los casos, de falta temporal del Magistrado Presidente, sus funciones las desempeñará el Magistrado de mayor antigüedad a su cargo, mientras se llama al Magistrado Supernumerario que corresponda, procediéndose en su caso, a juicio del Pleno de la Sala de Segunda Instancia, de acuerdo a la temporalidad de la ausencia, a la elección del Magistrado Presidente, el que durará en su cargo el tiempo de la ausencia de quien sustituya, o hasta finalizar el periodo comprendido para aquél. De existir dos o más Magistrados de igual antigüedad, se observará el orden de las designaciones que hizo el Congreso. Si la falta del Magistrado Presidente fuere absoluta, se observará el mismo procedimiento y el electo durará en su cargo hasta finalizar el periodo que el anterior hubiese comenzado.
 
-> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1975)</small>
+###### Artículo 22.
 
-###### ARTICULO 24.
+Además de las atribuciones otorgadas por el artículo 47 de la Ley Orgánica, los Magistrados de la Sala de Segunda Instancia tendrán las siguientes:
 
-El Congreso funcionará con la asistencia de la mitad más uno del total de sus componentes. A falta de quórum para iniciar algún período de sesiones, se procederá de acuerdo con el artículo veintiuno convocando a elecciones la Comisión Permanente.
+I. Desempeñar y cumplir las encomiendas oficiales que les asignen;
 
-> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1975)</small>
+II. Formar parte de las Comisiones a las que se les adscriba, salvo causa justificada;
 
-### CAPITULO II. FORMA DE GOBIERNO
+III. Solicitar al Presidente que convoque a sesión al Pleno y
 
-> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1975)</small>
+IV. Dar cuenta al Pleno de los asuntos trascendentes que surjan en el ejercicio de alguna comisión; (sic)
 
-###### ARTICULO 25.
+### CAPITULO III.. DE LAS SALAS Y MAGISTRADOS REGIONALES DE PRIMERA INSTANCIA
 
-Durante el primer período de sesiones, el Congreso se ocupará preferentemente en examinar y calificar la cuenta pública del año anterior.
+###### Artículo 23.
 
-> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1975)</small>
+Las Salas Regionales funcionarán de manera unitaria, se integrarán por:
 
-###### ARTICULO 26.
+I. Un Magistrado;
 
-El Congreso declarará si las cantidades percibidas y gastadas de acuerdo con las partidas presupuestases respectivas, si los gastos están justificados o a lugar ha exigir responsabilidades.
+II. Un secretario de acuerdos;
 
-Para tales efectos el Congreso tiene facultades para practicar las investigaciones que considere convenientes.
+III. Un actuario;
 
-> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1975)</small>
+IV. Los secretarios de estudio y cuenta; y
 
-###### ARTICULO 27.
+V. El personal administrativo que resulte necesario, en base a la disponibilidad presupuestal.
 
-Durante el segundo período se ocupará con la misma preferencia en estudiar, discutir y votar las leyes de ingresos y los presupuestos de egresos del Estado y de los Municipios, que serán presentados, las primeras por el Ejecutivo y los segundos por los Ayuntamientos.
+###### Artículo 24.
 
-> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1975)</small>
+Los Magistrados de las Salas Regionales tendrán, además de las atribuciones señaladas en la Ley Orgánica las siguientes:
 
-### CAPITULO I. FORMACION DEL CONGRESO
+I. Substanciar con el Secretario, los recursos que sean de su competencia;
 
-> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1975)</small>
+II. Mantener el orden en las audiencias, pudiendo en su caso sancionar conforme a la legislación aplicable, a cualquier persona que altere las mismas;
 
-###### ARTICULO 28.
+III. Proponer al Pleno de la Sala de Segunda Instancia del Tribunal, los programas o actividades necesarias para el mejor funcionamiento de la Sala;
 
-Toda resolución del Congreso tendrá el carácter de LEY o DECRETO. Unas y otros se remitirán al Ejecutivo firmados por el Presidente y el Secretario para su promulgación.
+IV. Proponer al Pleno del Consejo que conceda permisos con o sin goce de sueldo, hasta por cinco días al personal de la Sala;
 
-> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1975)</small>
+V. Remitir al Magistrado Presidente del Tribunal Electoral, el informe de actividades al concluir el proceso electoral;
 
-###### ARTICULO 29.
+VI. Vigilar la puntual observancia del presente Reglamento y demás disposiciones aplicables; y
 
-El Congreso se reunirá en sesiones extraordinarias cada vez que lo convoque para este objeto la Comisión Permanente por sí, o a solicitud del Ejecutivo y sólo se ocupará del asunto o asuntos que la propia Comisión someta a su conocimiento, expresados en la convocatoria respectiva. En la apertura de las sesiones extraordinarias a que fuera convocado el Congreso, el Presidente de la Comisión Permanente informará acerca de los motivos o razones que originaron la convocatoria.
+VII. Las demás que establezcan las disposiciones constitucionales, legales y reglamentarias aplicables; (sic)
 
-> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1975)</small>
+### CAPÍTULO IV.. DE LOS MAGISTRADOS SUPERNUMERARIOS
 
-### CAPITULO II. DE LA ELECCION
+###### Artículo 25.
 
-> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1975)</small>
+En los casos de ausencias temporales o definitivas de los Magistrados numerarios, ocuparán el cargo los Magistrados supernumerarios, quienes tendrán las mismas atribuciones. El Magistrado Presidente será el encargado de convocarlos.
 
-###### ARTICULO 30.
+###### Artículo 26.
 
-Si las sesiones extraordinarias se prolongan hasta que deban comenzar las ordinarias, cesarán aquellas y durante éstas se despacharán los asuntos objeto de la convocatoria que hayan quedado pendientes.
+Para la integración de los Magistrados Supernumerarios a las Salas, se procederá de la siguiente manera:
 
-> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1975)</small>
+I. Se convocará por medio de oficio al Magistrado Supernumerario nombrado en primer término por el Congreso del Estado, quien sólo podrá dejar de presentarse por causa debidamente justificada, debiendo manifestar lo anterior al Magistrado Presidente, procediéndose, en su caso, a llamar al supernumerario que haya sido nombrado en el orden siguiente;
 
-###### ARTICULO 31.
+II. Si una vez convocados los Magistrados Supernumerarios en el orden de la lista proporcionada por el Congreso, ninguno de ellos aceptara el cargo, se comunicará lo anterior al Pleno del Supremo Tribunal de Justicia, a efecto de que proceda en los términos del artículo 27, fracción II de la Ley Orgánica.
 
-La Legislatura del Estado celebrará sus sesiones en la ciudad de Villahermosa y no podrá trasladarse a otro sitio sin el acuerdo de las dos terceras partes de sus miembros.
+###### Artículo 27.
 
-> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1975)</small>
+Cuando algún Magistrado supernumerario, tenga que ausentarse del lugar de su residencia, durante el proceso electoral, está obligado a comunicarlo por escrito, así como su regreso y, señalar el lugar donde se le puede localizar.
 
-###### ARTICULO 32.
+### CAPÍTULO V.. DISPOSICIONES COMUNES A LOS SERVIDORES JUDICIALES ADSCRITOS AL TRIBUNAL ELECTORAL
 
-Las sesiones serán públicas, excepto cuando el Reglamento o la índole del asunto de que se trate exija el secreto.
+###### Artículo 28.
 
-> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1975)</small>
+El personal del Tribunal Electoral por ningún motivo podrá sacar ningún expediente, de las instalaciones, salvo que existiera causa justificada para ello previa autorización de su superior. Igualmente, se prohíbe entregar o circular a cualquier persona ajena al Tribunal Electoral, los proyectos de autos, acuerdos o sentencias, de los asuntos sometidos al conocimiento de ese órgano jurisdiccional.
 
-###### ARTICULO 33.
+###### Artículo 29.
 
-El derecho de iniciar las leyes o decretos corresponde:
+Durante el proceso electoral y en caso de que los servidores públicos que laboren en el Tribunal Electoral se ausenten de la ciudad por un plazo mayor a 24 horas, deberán dar aviso a la Secretaría de Acuerdos para su conocimiento.
 
-I.- Al Gobernador del Estado;
+### CAPÍTULO VI.. DE LOS SECRETAROS DE ACUERDOS DE LAS SALAS DEL TRIBUNAL ELECTORAL
 
-II.- A los Diputados;
+###### Artículo 30.
 
-III.- Al Tribunal Superior de Justicia, en asuntos de su ramo; y
+Son atribuciones del secretario general de acuerdos de la Sala de Segunda Instancia, además de las señaladas en los artículos 48 de la Ley Orgánica y 144 del Reglamento Interior del Consejo de la Judicatura, las siguientes:
 
-IV.- A los Ayuntamientos en asuntos del ramo municipal.
+I. Redactar las resoluciones de trámite que se le instruyan;
 
-> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1975)</small>
+II. Acordar diariamente con la Presidencia o el Pleno de la Sala el desahogo de los asuntos en trámite;
 
-###### ARTICULO 34.
+III. Después de ser publicadas las listas de acuerdos, poner los expedientes a disposición de las partes para que conozcan su contenido;
 
-Ningún proyecto de ley o decreto que fuere desechado en el Congreso podrá ser presentado de nuevo en el mismo período de sesiones.
+IV. Redactar la correspondencia oficial, conforme a las instrucciones que reciba del Magistrado Presidente, y vigilar que se envíe a la brevedad posible;
 
-> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1975)</small>
+V. En el registro de los expedientes formados, agregar los acuerdos de la Sala que correspondan a su trámite, conforme vayan promoviendo las partes, hasta que se encuentren en estado para pronunciar sentencia;
 
-###### ARTICULO 35.
+VI. Dar fe ante la presencia del Magistrado Presidente o del habilitado, de las pruebas admitidas a las partes;
 
-Las leyes o decretos aprobados por el Congreso se enviarán al Ejecutivo, quien si no tuviere observaciones que hacer los promulgará inmediatamente. Se considerará aprobado por el Ejecutivo, todo proyecto no devuelto con observaciones dentro de los diez días hábiles siguientes a su envío. Si corriendo este término, el Congreso cierra o suspende sus sesiones, la devolución deberá hacerse a más tardar el décimo día de haberse vuelto a reunir.
+VII. Llevar los libros de control de la Sala y mantenerlos actualizados;
 
-El proyecto de ley o decreto desechado en todo o en parte por el Ejecutivo, será devuelto con sus observaciones al Congreso, quien deberá discutirlo de nuevo y de aprobarlo, lo enviará para su promulgación.
+VIII. Autorizar, conjuntamente con el Magistrado Presidente,
 
-Si el Congreso no aceptare las observaciones del Ejecutivo por las dos terceras partes de los Diputados presentes, el proyecto tendrá el carácter de ley o decreto y será devuelto al Ejecutivo para su inmediata promulgación.
+VIII. Autorizar, conjuntamente con el Magistrado Presidente, los libros de control;
 
-> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1975)</small>
+IX. Vigilar con acuerdo del Magistrado Presidente, que los informes que deban rendirse a las diversas autoridades federales, locales o internas se realicen con oportunidad y exactitud;
 
-### CAPITULO III. INSTALACION Y PERIODOS DE SESIONES DEL CONGRESO
+X. Entregar al actuario los expedientes con las resoluciones para notificar y al recibirlo notificados, revisando si éstas se realizaron conforme a la legislación aplicable.
 
-> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1975)</small>
+XI. Responsabilizarse del control de los sellos de la Sala y usarlos, de acuerdo a sus atribuciones;
 
-###### ARTICULO 36.
+XII. Evitar la salida de expedientes, salvo en los casos plenamente justificados;
 
-Son facultades del Congreso:
+XIII. Llevar un control de los expedientes y su préstamo;
 
-> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 1977)</small>
+XIV. Supervisar que el préstamo de expedientes para consulta se realice utilizando un formato de control y que la persona solicitante esté legitimada para recibir el expediente, debiendo depositar su identificación que le será devuelta una vez que haga entrega física del mismo. En el supuesto que el expediente no sea devuelto o se regrese destruido o alterado, deberá dar cuenta al Magistrado Presidente, a fin de que se levante el acta correspondiente y se denuncie ante el ministerio público a la persona que no lo devuelva o realice la alteración o destrucción;
 
-I.- Expedir, reformar y derogar Leyes y Decretos para la mejor administración del Estado;
+XV. Autorizar las copias certificadas que se expidan por mandato judicial;
 
-II.- Determinar los fundos de ciudades, villas y pueblos;
+XVI .Expedir las copias simples que, soliciten las partes en sus asuntos;
 
-III.- Crear nuevos poblados de cualesquiera de las categorías establecidas por la Ley Orgánica Municipal;
+XVII. Vigilar la distribución, uso de materiales y útiles de oficina, solicitando el surtido oportuno de lo necesario;
 
-IV.- Legislar sobre expropiación por causa de utilidad pública;
+XVIII. Cuidar el buen desempeño de la actuaría y demás personal de la Sala;
 
-V.- Legislar sobre materia electoral con base en el sufragio universal y directo;
+XIX. Archivar el original de las listas de acuerdos publicados, los oficios recibidos y la copia de los enviados;
 
-> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 1977)</small>
+XX. Vigilar que los expedientes que se envíen al Archivo Judicial se encuentren debidamente firmados, rubricados, foliados y sellados;
 
-VI.- Legislar en la forma que proceda sobre Educación, Instrucción y seguridad pública;
+XXI. Asentar en el libro de expedientes y en la libreta de archivo, el envío de asuntos concluidos y recabar la firma del encargado del Archivo Judicial;
 
-> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 1977)</small>
+XXII. Dar cuenta al Magistrado Presidente, de las ausencias del personal o faltas administrativas que el mismo cometa;
 
-VII.- Imponer las contribuciones que deban corresponder al Estado y a los Municipios, fijando anualmente los ingresos y egresos que fueren necesarios para cubrir los presupuestos que se sometan a su consideración y aprobación por el Ejecutivo; determinar en los términos de la Constitución Política de los Estados Unidos Mexicanos y de esta Constitución, las participaciones que correspondan a los Municipios en los impuestos federales y estatales; y legislar sobre la integración del patrimonio del Estado y de los Municipios;
+XXIII. Vigilar que los recursos públicos de la Sala se utilicen sólo para desahogar el trabajo de la misma y por el personal que ahí labora;
 
-VIII.- Reglamentar las facultades concedidas a la Entidad por el artículo 130 de la Constitución Política de los Estados Unidos Mexicanos;
+XXIV. Conservar bajo su custodia, previo inventario, el mobiliario de la Sala y cuidar de su conservación, acatando los manuales y disposiciones de la materia;
 
-> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 1977)</small>
+XXV. Brindar atención a las personas que lo requieran;
 
-IX.- Legislar sobre Administración de Justicia, Salubridad Pública Estatal y vías de comunicaciones Estatales y Municipales;
+XXVI. Después de las labores ordinarias de la Sala, recibir escritos en su domicilio particular, a cualquier hora que se le presenten, así mismo, deberá publicar en la puerta de entrada del Tribunal Electoral los números telefónicos y dirección donde pueda ser localizado;
 
-X.- Erigirse en Colegio Electoral para ejercer las atribuciones que la ley le señale, haciendo la declaración que corresponde sobre las elecciones de Gobernador del Estado, de Diputados al Congreso local y de Regidores de los Ayuntamientos y en cumplimiento de lo dispuesto por el artículo 56 de la Constitución Política de los Estados Unidos Mexicanos, en cuanto a las elecciones de Senadores al Congreso de Unión;
+XXVII. Controlar las llamadas telefónicas;
 
-> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 1977)</small>
+XXVIII. Registrar los recursos interpuestos, dando cuenta de ello al Magistrado Presidente; y elaborar mensualmente la estadística de los mismos;
 
-XI.- Autorizar al Ejecutivo para que celebre contratos con los demás Estados o con la Federación sobre asuntos relacionados con la Administración y aprobar o nó esos contratos;
+XXIX. Recibir los escritos y anexos que se le entreguen, asentando razón, con su firma, del día y hora de su recepción;
 
-> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 1977)</small>
+XXX. Distribuir a los Magistrados, por orden secuencial, el turno de los asuntos;
 
-XII.- Dar bases conforme a las cuales el Ejecutivo pueda celebrar empréstitos a nombre del Estado, con las limitaciones hechas a las facultades de los Estados en el Artículo 117 de la Constitución General; aprobar esos mismos empréstitos, y reconocer y mandar a pagar la deuda del Estado contraída;
+XXXI. Recibir de los Magistrados, original y copia de los proyectos de sentencia que se presentarán en la respectiva sesión del pleno;
 
-XIII.- Inspeccionar la Contaduría Mayor de Hacienda, designar y remover libremente al Contador Mayor y al Oficial Mayor del Congreso y, en los términos de la Ley aplicable, a los empleados administrativos;
+XXXII. Verificar que los Magistrados reciban oportunamente copia de los Proyectos de sentencia, que se habrán de presentar en la sesión respectiva;
 
-> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 1977)</small>
+XXXIIII. Redactar las actas que deriven de las sesiones del Pleno, cuidando que éstas sean firmadas, las que estarán bajo su guardia y custodia, mismas que serán encuadernadas y hechas públicas, con las reservas de ley, al concluir el proceso electoral correspondiente;
 
-XIV.- Reclamar ante la Suprema Corte de Justicia de la Nación, cuando alguna Ley o acto del Gobierno Federal constituya una violación a la Soberanía del Estado o a la Constitución General de la República;
+XXXIV. Coadyuvar con el Magistrado Presidente en la elaboración del informe de actividades, al concluir el proceso electoral y el anual fuera de éste;
 
-> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 1977)</small>
+XXXV. Asentar en los expedientes las certificaciones, constancias y demás que la legislación aplicable obligue;
 
-XV.- Decretar recompensas y honores a los que se distingan por servicios prestados a la Patria o a la Humanidad;
+XXXVI. Cuidar el buen funcionamiento de la secretaría, así como del eficaz desempeño del Personal a su cargo, dando cuenta inmediata al Magistrado Presidente de cualquier irregularidad; y
 
-XVI.- Legislar de acuerdo con las facultades concedidas por la Constitución Política de los Estados Unidos Mexicanos;
+XXXVII. Las demás que les sean, encomendadas por las disposiciones legales o reglamentarias aplicables, así como aquéllas que le encomiende el Pleno de la Sala de Segunda instancia.
 
-XVII.- Conceder amnistías por delitos de la competencia de los Tribunales de la Entidad;
+###### Artículo 31.
 
-XVIII.- Conceder al Ejecutivo por tiempo limitado y por el voto de las dos terceras partes de los Diputados presentes, las facultades extraordinarias que necesite en casos de invasión, alteración del orden o peligro público;
+Para el ejercicio de sus funciones los secretarios de acuerdos de las Salas Regionales, tendrán las encomendadas por la legislación aplicable y, en su esfera de competencia, las mismas del secretario general de acuerdos de la Sala de Segunda instancia, con excepción de las contenidas en las fracciones XXX, XXXI, XXXII y XXXIII del artículo anterior, además contará con las siguientes:
 
-> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 1977)</small>
+I. Reunir los datos estadísticos relativos a los medios de impugnación tramitados remitirlos mensualmente a la Sala de Segunda Instancia, así como cualquier información solicitada por el Magistrado Presidente;
 
-XIX.- Otorgar o negar su aprobación a los nombramientos de Magistrados del Tribunal Superior de Justicia, sometidos por el Gobernador del Estado;
+II. Constatar que las resoluciones que se hubiesen dictado respecto a los recursos interpuestos se comuniquen a más tardar dentro de las cuarenta y ocho horas siguientes al día que se dictó la resolución; al CEEPAC, a las Comisiones Distritales, a los Comités Municipales Electorales por conducto del CEEPAC, y a la Sala de Segunda Instancia, según se ordene en la misma resolución;
 
-XX.- Dirimir los conflictos políticos y de límites entre el Municipio y el Estado y de los Municipios entre sí;
+III. Constatar que se remitan de manera inmediata al superior los recursos interpuestos; y
 
-XXI.- Resolver acerca de las renuncias de Gobernador, Diputados o Magistrados del Tribunal Superior de Justicia y conceder licencia a los mismos en los términos de ley;
+IV. Cumplir con los (sic) dispuesto en las circulares que dicte el Pleno del Tribunal Electoral.
 
-XXII.- Convocar a elecciones para cubrir las vacantes definitivas de sus miembros por el período respectivo, si la falta ocurriere antes de los últimos seis meses del período constitucional;
+###### Artículo 32.
 
-> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 1977)</small>
+La remisión de correspondencia se hará por medio de correo certificado con acuse de recibo, o por mensajería, debiéndose archivar la constancia respectiva; (sic)
 
-XXIII.- Convocar a elecciones Extraordinarias de Ayuntamientos cuando resulte procedente según esta Constitución;
+###### Artículo 33.
 
-XXIV.- Dirimir los conflictos entre los otros dos Poderes, siempre que aquéllos no fueren de la competencia de la Suprema Corte de Justicia de la Nación;
+Los secretarios de acuerdos, llevarán minutarios y controles de correspondencia.
 
-XXV.- Conocer de las acusaciones que se hagan a los Funcionarios Públicos mencionados en el artículo 166 (sic) de esta Constitución por delitos oficiales, formulando en su caso, acusación contra ellos ante el Tribunal Superior de Justicia, y erigirse en Gran Jurado para declarar si ha lugar a preceder contra los que gozan de fuero constitucional, cuando sean acusados por delitos del orden común;
+###### Artículo 34.
 
-XXVI.- Resolver los conflictos de límites del Estado mediante convenios amistosos, con aprobación del Congreso de la Unión;
+Los expedientes que se remitan, con el informe circunstanciado, deberán ser previamente revisados por el secretario general de acuerdos, asegurándose que éstos contengan las formalidades necesarias.
 
-> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 1977)</small>
+###### Artículo 35.
 
-XXVII.- Citar al Secretario del Ramo que corresponda para que informe cuando se discuta una Ley, o se estudie un negocio relativo a su Secretaría;
+Los acuerdos deberán mecanografiarse en los locales de las Salas.
 
-> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 1977)</small>
+### CAPÍTULO VII.. DE LOS SECRETARIOS DE ESTUDIO Y CUENTA
 
-XXVIII.- Expedir la Ley Orgánica Municipal y las bases de policía y Buen Gobierno a que deban sujetarse los Municipios para hacer las propias;
+###### Artículo 36.
 
-XXIX.- Autorizar la enajenación o gravamen de los bienes de los Municipios;
+Además de las atribuciones que les encomiendan los artículos 80 de la Ley Orgánica y 146 del Reglamento Interior del Consejo de la Judicatura, los secretarios de estudio y cuenta de la Sala de Segunda Instancia y de las Salas Regionales, en su esfera de competencia, tendrán las siguientes:
 
-XXX.- Recibir la protesta constitucional a los Diputados, al Gobernador y a los Magistrados del Tribunal Superior de Justicia;
+I. Estudiar bajo su estricta responsabilidad los expedientes o tocas, según sea el caso, que le sean turnados, dando cuenta de los mismos a la brevedad posible, al Magistrado de su adscripción y elaborar los respectivos proyectos de resolución, observándose lo previsto en la legislación aplicable;
 
-XXXI.- Crear y suprimir empleos públicos del Estado según los requerimientos del servicio público y señalar, aumentar o disminuir las respectivas partidas presupuestarias atendiendo a las circunstancias del Erario;
+II. Conservar bajo su estricta responsabilidad los expedientes que se le hayan turnado;
 
-> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 1977)</small>
+III. Dar cuenta al Pleno, en su caso, de los asuntos que le sean turnados, cuando se estime necesario; y (sic)
 
-XXXII.- Nombrar, a propuesta del Gobernador, un Consejo Municipal compuesto de tres personas, cuando debiendo renovarse un Ayuntamiento no se hubiere celebrado su elección en la fecha correspondiente, o habiendo sido elegido no se presentare oportunamente al ejercicio de sus funciones. Dicho Consejo se encargará provisionalmente de las funciones del Ayuntamiento hasta en tanto se celebren elecciones extraordinarias que deberán efectuarse en un plazo no mayor de sesenta días. Las mismas facultades se entenderán conferidas al Congreso cuando las elecciones Municipales se declaren nulas o por cualquier causa desaparecieren los Poderes del Ayuntamiento, siempre que tales situaciones se presentaren dentro del primer año de su correspondiente ejercicio, pues de suceder durante los dos últimos años del período de Gobierno Municipal, el Congreso siempre a propuesta del Gobernador, nombrará un Comité Administrativo, integrado por tres personas, el que asumirá la Administración Municipal hasta la conclusión del período de Gobierno respectivo. Por cada integrante del Comité habrá un suplente;
+IV. Asistir a capacitaciones de actualización en materia electoral; y
 
-XXXIII.- Expedir y modificar su Reglamento Interior;
+V. Las demás que les impongan las disposiciones legales y reglamentarias aplicables, así como aquéllas que les confiera su superior jerárquico.
 
-> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 1977)</small>
+### CAPÍTULO VIII.. DE LOS ACTUARIOS
 
-XXXIV.- Suspender definitivamente por sí o a petición del Ejecutivo, previa formación de proceso a los miembros de los Ayuntamientos cuando abusen de sus facultades, siempre que así se acuerde por el voto de las dos terceras partes de los miembros de la Legislatura;
+###### Artículo 37.
 
-XXXV.- Cambiar provisional o definitivamente la residencia de los Poderes del Estado por el voto de las dos terceras partes de los miembros de la Legislatura;
+Además de las atribuciones señaladas en los articulas 82 y 83 de la Ley Orgánica y 147 del Reglamento Interior del Consejo de la Judicatura del Poder Judicial, los actuarios, en su esfera de competencia, tendrán las siguientes:
 
-XXXVI.- Conceder licencia a los Diputados para separarse de su cargo hasta por dos meses con goce de dietas, o por más tiempo sin ellas;
+I. Llevar un libro de registro de expedientes a su cargo, debidamente autorizado por el secretario general de acuerdos, donde asentarán diariamente las actuaciones y notificaciones, indicando:
 
-> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 1977)</small>
+a) La fecha de recepción del expediente respectivo;
 
-XXXVII.- Crear nuevos Municipios, modificar o suprimir algunos de los existentes, y decretar la erección de pueblos, Villas y ciudades;
+b) La fecha del auto o resolución que deba diligenciarse;
 
-XXXVIII.- Designar el día anterior al de la clausura en los períodos de sesiones ordinarias, la Comisión Permanente que ha de funcionar en los recesos del Congreso; y
+c) La fecha en que se haya practicado la diligencia, notificación o acto, o los-motivos por los cuales no se realizó;
 
-> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 1977)</small>
+d) La fecha en que se haga la devolución del expediente;
 
-XXXIX.- Expedir las Leyes necesarias para hacer efectivas todas las anteriores facultades y las demás concedidas por esta Constitución, así como las que no estén expresamente reservadas a los Poderes de la Unión y correspondan a su régimen interior.
+II. Notificar, sin demora, las resoluciones;
 
-> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1975)</small>
+III. Recabar en cada diligencia que levante, la firma del notificado, si éste consintiere en hacerlo, absteniéndose de obtener firmas en papeles en blanco;
 
-### CAPITULO IV. INICIATIVA Y FORMACION DE LAS LEYES
+IV. Permanecer en el despacho de la Sala correspondiente, el tiempo que señale el secretario general de acuerdos o secretario de acuerdos según sea el caso, a fin de que pueda practicarse cualquier diligencia urgente que se requiera;
 
-> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1975)</small>
+V. Entregar al secretario general de acuerdos, sin demora, los expedientes que tuviere en su poder, una vez que hubiere practicado las diligencias respectivas; y,
 
-###### ARTICULO 37.
+VI. Las demás que le sean encomendadas por las disposiciones legales y reglamentarias aplicables o por su superior jerárquico.
 
-Corresponde al Congreso con asistencia de no menos de las tres cuartas partes del total de Diputados, resolver acerca de la renuncia que de su cargo haga el Gobernador del Estado.
+###### Artículo 38.
 
-Sólo podrá aceptarse tal renuncia, cuando a juicio del Congreso hubiese causa grave y suficiente, libre de toda coacción o violencia.
+Las notificaciones se realizarán conforme a lo establecido en la Ley Electoral.
 
-> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1975)</small>
+###### Artículo 39.
 
-###### ARTICULO 38.
+Las listas de acuerdos, serán llenadas únicamente por un solo lado de la hoja y autorizadas cada una de ellas, al calce. Así mismo, deberán estar publicadas el mismo día del acuerdo. Una vez publicadas, queda prohibido reemplazarlas.
 
-La Comisión Permanente se integrará con cuatro Diputados y no podrá celebrar sesiones sin la concurrencia cuando menos de dos de sus miembros.
+Al publicarse la lista de acuerdos, los expedientes deberán estar a disposición de las partes, a fin de que puedan conocer su contenido.
 
-> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1975)</small>
+###### Artículo 40.
 
-###### ARTICULO 39.
+Las Salas contarán con estrados necesarios para fijar notificaciones y avisos de naturaleza judicial, en el sitio que resulte más conveniente y visible para la consulta de las partes y público en general, esto sin detrimento de que extraoficialmente se puedan realizar dichas publicaciones mediante el portal de Internet del Tribunal Electoral.
 
-Son obligaciones de la Comisión Permanente:
+### CAPÍTULO IX.. DEL PERSONAL ADMINISTRATIVO
 
-I.- Acordar por sí, cuando a su juicio lo exija el bien o la seguridad del Estado, o a solicitud del Poder Ejecutivo, la convocatoria de la Legislatura a sesiones extraordinarias, señalando el objeto u objetos de esas sesiones, no pudiendo el Congreso atender más asuntos que aquellos para los que fue convocado;
+###### Artículo 41.
 
-II.- Recibir la protesta de ley a los Funcionarios que deban presentarlas ante el Congreso;
+El personal administrativo adscrito al Tribunal Electoral, además de las atribuciones genéricas que el marco normativo aplicable le confiere a los servidores públicos, tendrá las siguientes:
 
-III.- Conceder licencia a los mismos Funcionarios referidos en la fracción anterior, hasta por quince días, salvo a los Magistrados del Tribunal Superior de Justicia;
+I. Realizar las labores inherentes a su puesto, así como elaborar técnicamente lo que le dicte su jefe inmediato;
 
-IV.- Aprobar o no los nombramientos de Magistrados del Tribunal Superior de Justicia que le someta el Gobernador del Estado;
+II. Consignar en los documentos que redacten, las iniciales con letra mayúscula de quien dicta y con minúscula las de quien tomo el dictado, en el ángulo izquierdo de los escritos;
 
-V.- Nombrar con carácter provisional a todos los Funcionarios y empleados cuya designación compete al Congreso del Estado;
+III. Procurar la racionalización los recursos públicos a su disposición;
 
-VI.- Resolver los asuntos de su competencia y recibir durante los recesos del Congreso las iniciativas de ley y proposiciones turnándolas para dictamen a las comisiones respectivas, a fin de que se despachen en el inmediato período de sesiones;
+IV. Llevar el control de los expedientes que les sean entregados cuidando que los mismos estén debidamente firmados, rubricados, foliados y sellados, de manera que el sello abarque los márgenes interiores;
 
-VII.- Convocar a elecciones extraordinarias de Ayuntamientos conforme a la ley respectiva; y
+V. Elaborar técnicamente los proyectos de resolución que les dicten los secretarios de estudio y cuenta, cuidando escrupulosamente la ortografía y forma de los mismos, reproduciéndose el número de copias necesarias; y
 
-VIII.- Las demás que le imponga esta Constitución.
+VI. Las demás que sean impuestas por sus superiores jerárquicos, de acuerdo a las necesidades del servicio.
 
-> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1975)</small>
+###### Artículo 42.
 
-###### ARTICULO 40.
+Además de lo establecido por el artículo anterior, los mozos deberán:
 
-La Contaduría Mayor de Hacienda dependerá directamente del Congreso y en ella se glosarán sin excepción las cuentas del Erario Estatal.
+I. Realizar el servicio de mensajería; y
 
-> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1975)</small>
+III (SIC). Cuidar el correcto aseo del local de la Sala, así como de los muebles, enseres, documentos, expedientes y demás recursos públicos. Iniciando sus tareas de aseo, una hora antes de la apertura del local de su adscripción; (sic)
 
-### CAPITULO V. FACULTADES DEL CONGRESO
+###### Artículo 43.
 
-> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1975)</small>
+Las secretarias de Magistrado, además de las obligaciones del personal administrativo, tendrán las que les asignen el o los Magistrados de su adscripción, guardando el sigilo y empeño necesario.
 
-###### ARTICULO 41.
+## TÍTULO CUARTO.. DEL DESPACHO DE LOS ASUNTOS
 
-Toda cuenta del Erario Estatal o Municipal deberá quedar concluida y glosada anualmente dentro de los primeros diez días del mes de enero. El cumplimiento de este precepto, imputable a los empleados de la Contaduría, es causa de responsabilidad.
+### CAPÍTULO I.. DE LOS LIBROS DE CONTROL
 
-> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1975)</small>
+###### Artículo 44.
 
-###### ARTICULO 42.
+Para el control de los asuntos que se lleven en la Sala de Segunda Instancia, el secretario general de acuerdos será responsable de los siguientes libros:
 
-Se deposita el Poder Ejecutivo en un ciudadano que se denominará Gobernador del Estado Libre y Soberano de Tabasco.
+I. Libro de Gobierno que contendrá;
 
-> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1975)</small>
+a) Número de toca;
 
-###### ARTICULO 43.
+b) Nombre del recurrente;
 
-La elección de Gobernador será popular y directa, en los términos de la Ley local Electoral.
+c) Nombre del (los) partido (s) político (s) de que se trate (n);
 
-> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1975)</small>
+d) Tipo de recurso;
 
-## TITULO IV. PODER EJECUTIVO
+e) Fecha de entrada;
 
-> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1975)</small>
+f) Autoridad responsable;
 
-### CAPITULO VI. COMISION PERMANENTE Y SUS ATRIBUCIONES
+g) Auto o resolución que se impugna;
 
-> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1975)</small>
+h) El sentido de la resolución;
 
-###### ARTICULO 44.
+i) Fecha de resolución;
 
-Para ser Gobernador del Estado se requiere:
+j) Fecha de notificación;
 
-I.- Ser ciudadano mexicano por nacimiento y nativo del Estado, o con residencia en él no menor de cinco años inmediatamente anteriores al día de la elección;
+k) Observaciones.
 
-II.- Tener treinta años cumplidos el día de la elección;
+II. Libro de promociones en el que se anotarán:
 
-III.- No ser ministro de culto religioso alguno;
+a) Fecha y hora en que se reciben;
 
-IV.- No ser Secretario de alguno de los ramos de la Administración Pública del Estado, Procurador General de Justicia, Oficial Mayor o titular de alguna de las Direcciones de la Administración Pública del Estado, Presidente Municipal, Magistrado del Tribunal Superior de Justicia, ni Funcionario Federal, ni haber tenido mano de Fuerza Pública alguna durante noventa días inmediatamente antes de la elección; y
+b) Número de toca;
 
-V.- No estar comprendido dentro de algunas de las incapacidades del artículo 115 de la Constitución Política de los Estados Unidos Mexicanos.
+c) Nombre del recurrente.
 
-> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1975)</small>
+III. Libro de Actuaría que registrará:
 
-###### ARTICULO 45.
+a) Fecha de turno;
 
-El Gobernador Constitucional entrará en funciones el día 1º de enero siguiente a la elección y durará en su cargo seis años.
+b) Número de toca;
 
-El ciudadano que haya desempeñado el cargo de Gobernador del Estado mediante elección popular, en ningún caso podrá volver a ocupar ese puesto, ni aun con el carácter de Interino, Provisional o Sustituto.
+c) Nombre del recurrente;
 
-Nunca podrán ser electos para el período inmediato:
+d) Fecha de notificación;
 
-a).- El Gobernador Sustituto o el designado para concluir el período en caso de falta absoluta del electo popularmente, aun cuando tengan distinta denominación.
+e) Fecha en que se da de baja;
 
-b).- El Gobernador Interino, el Provisional o el ciudadano que, bajo cualquier denominación, supla las faltas temporales del Gobernador, siempre que desempeñe el cargo en los dos últimos años del período.
+IV. Libro de control de juicios de revisión constitucional, en donde se registrarán:
 
-> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1975)</small>
+a) Número de Toca;
 
-###### ARTICULO 46.
+b) Nombre del actor;
 
-El Gobernador, al tomar posesión de su cargo, rendirá ante el Congreso o ante la Comisión Permanente la siguiente protesta: "Protesto guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos, la particular del Estado, las leyes que de ellas emanen y desempeñar leal y patrióticamente el cargo de Gobernador que el Pueblo me ha conferido, mirando en todo por el bien y prosperidad de la Unión y del Estado. Si no lo hiciere así que la Nación o el Estado me lo demanden".
+c) Fecha en que se remite, el informe circunstanciado;
 
-> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1975)</small>
+d) Número de juicio de revisión constitucional;
 
-###### ARTICULO 47.
+e) Sentido del fallo de la ejecutoria.
 
-En el caso de falta absoluta del Gobernador, ocurrida en los dos primeros años del período respectivo, si el Congreso estuviera en sesiones, se erigirá inmediatamente en Colegio Electoral y concurriendo cuando menos las dos terceras partes del número total de sus miembros, nombrará, en escrutinio secreto y por mayoría absoluta de votos, a un Gobernador Interino.
+###### Artículo 45.
 
-El mismo Congreso expedirá, dentro de los cinco días siguientes al de la designación de Gobernador Interino, la convocatoria para la elección de Gobernador que debe concluir el período respectivo, debiendo mediar entre la fecha de la convocatoria y la que se señale para efectuar elecciones, un plazo no menor de tres meses ni mayor de seis.
+Para el control de los asuntos que se siguen en las Salas Regionales, los Secretarios de Acuerdos se responsabilizarán de los siguientes libros:
 
-Si el Congreso no estuviere en sesiones, la Comisión Permanente nombrará, desde luego, a un Gobernador Provisional y convocará a sesiones extraordinarias al Congreso para que éste designe al Gobernador Interino y expida la convocatoria para la elección de Gobernador, en los términos del párrafo anterior.
+I. Libro de Gobierno que contendrá:
 
-Cuando la falta de Gobernador ocurriese después del segundo año del período respectivo, si el Congreso se encontrase en sesiones designará al Gobernador Sustituto que deberá concluir el período. Si el Congreso no estuviera reunido, la Comisión Permanente nombrará un Gobernador Provisional y convocará al Congreso a sesiones extraordinarias para que se erija en Colegio Electoral y haga la designación Gobernador Sustituto.
+a) Número de expediente;
 
-> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1975)</small>
+b) Nombre del recurrente;
 
-###### ARTICULO 48.
+c) Nombre del (los) partido (s) de que se trata (n);
 
-Si al comenzar un período constitucional no se presentase el Gobernador electo sin causa justificada, o la elección no estuviera hecha y declarada, el primero de enero cesará el Gobernador cuyo período haya concluido y se encargara, desde luego, del Poder Ejecutivo en calidad de Gobernador Interino, el que designe el Congreso, procediéndose en seguida como se dispone en el artículo anterior.
+d) Fecha de radicación;
 
-Para suplir las ausencias temporales del Gobernador hasta por sesenta días, éste designará de entre los Secretarios de alguno de los Ramos de la Administración Pública y el Procurador General de Justicia, al Funcionario que deba sustituirlo comunicándolo al Congreso del Estado, o en su defecto a la Comisión Permanente.
+e) Acto o resolución que se impugna;
 
-Cuando la falta de Gobernador fuese temporal excediendo de sesenta días, el Congreso designará Gobernador Interino por el tiempo que dure la falta, o en su defecto la Comisión Permanente designará un Gobernador Provisional, convocando al Congreso a sesión extraordinaria para que se erija en Colegio Electoral y haga la designación de Gobernador Interino.
+f) Fecha de sentencia y su sentido;
 
-> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1975)</small>
+g) Fecha de remisión en reconsideración;
 
-###### ARTICULO 49.
+h) Fecha de sentencia en reconsideración;
 
-El Gobernador no podrá ausentarse del territorio del Estado ni separarse del ejercicio de sus funciones por más de sesenta días, sin permiso de la Legislatura.
+i) Número de toca;
 
-> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1975)</small>
+j) Sentido de reconsideración;
 
-### CAPITULO VII. CONTADURIA MAYOR DE HACIENDA
+k) Juicio de revisión constitucional y su sentido;
 
-> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1975)</small>
+l) Fecha de remisión al archivo;
 
-###### ARTICULO 50.
+m) Observaciones.
 
-El cargo de Gobernador Constitucional del Estado solo es renunciable por causa grave que calificará la Legislatura en los términos del artículo 36.
+II. Libro índice del juicio de revisión constitucional y juicios para la protección de los derechos político-electorales del ciudadano, en donde se anotará:
 
-> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1975)</small>
+a) Número de expediente;
 
-### CAPITULO II. FACULTADES Y OBLIGACIONES DEL GOBERNADOR
+b) Nombre del actor;
 
-> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1975)</small>
+c) Nombre del tercero interesado;
 
-###### ARTICULO 51.
+d) Fecha de informe circunstanciado;
 
-Son facultades y obligaciones del Gobernador:
+e) Fecha de remisión;
 
-I.- Promulgar y ejecutar las leyes y decretos dados por el Poder Legislativo del Estado y expedir los reglamentos necesarios para la exacta observancia de los mismos;
+f) Fecha de sentencia de juicio de revisión y su sentido;
 
-II.- Nombrar y remover a los funcionarios y al personal que forman parte del Poder Ejecutivo;
+g) Fecha de cumplimentación;
 
-III.- Disponer de la fuerza pública del Municipio de su residencia habitual o temporal y auxiliarse de la fuerza pública de los otros Municipios para conservar la tranquilidad y el orden público cuando se altere;
+h) Observaciones.
 
-IV.- Nombrar apoderado para toda clase de asuntos dentro o fuera del Estado;
+III. Libro de promociones en que se anotará:
 
-V.- Solicitar a la Comisión Permanente que convoque a sesiones extraordinarias;
+a) Fecha y hora en que se recibe;
 
-VI.- Facilitar al Poder Judicial los auxilios que necesite, para hacer expedito el ejercicio de sus funciones;
+b) Número de expediente;
 
-VII.- Publicar mensualmente los cortes de caja de las oficinas recaudadoras del Estado;
+c) Nombre del recurrente
 
-VIII.- Otorgar los títulos profesionales conforme a las leyes que regulen los estudios correspondientes;
+IV. Libro de actuaría que registrará:
 
-IX.- Pedir al Congreso del Estado o a la Comisión Permanente, la destitución del o los Magistrados del Tribunal Superior de Justicia que incurrieren en falta o faltas a las buenas costumbres, escuchando previamente a los responsables para apreciar en conciencia la justificación que éstos ofrecieren;
+a) Fecha de turno;
 
-X.- Conceder indultos por los delitos de la competencia de los Tribunales del Estado, con los requisitos establecidos por las leyes;
+b) Número de expediente;
 
-XI.- Celebrar contratos, convenios, otorgar permisos, concesiones y autorizaciones de acuerdo con la ley;
+c) Nombre del recurrente;
 
-XII.- Enajenar, con autorización del Congreso, los bienes que según las leyes pertenezcan al Estado;
+d) Fecha de notificación;
 
-XIII.- Otorgar autorización para el ejercicio de la Función Notarial;
+e) Fecha en que se da de baja.
 
-XIV.- Formular el Programa Anual de Gobierno de acuerdo a un estudio que para tal efecto se elabore, mediante una adecuada planificación, en el que se jerarquicen las necesidades públicas a satisfacer, buscando con el mayor rigor el máximo aprovechamiento de los recursos disponibles;
+###### Artículo 46.
 
-XV.- Coordinar la inversión pública estatal y municipal para los efectos de la fracción anterior y propiciar su armonización con los programas del Gobierno Federal;
+Cada Sala llevará, además de los libros oficiales, los de control interno que los Magistrados determinen.
 
-XVI.- Promover la inversión de todos los sectores de acuerdo con el Programa de Gobierno, con sentido social que genere empleos y propicie el desarrollo económico;
+###### Artículo 47.
 
-> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 1977)</small>
+La autorización de los libros se consignará en la primera y última hoja, asentándose la constancia de su fecha por el Magistrado Presidente o Magistrado en su caso conjuntamente con el Secretario General de Acuerdos.
 
-XVII.- Presentar un informe escrito al Congreso del Estado, el día 14 de Diciembre de cada año de su ejercicio Constitucional, en el q. (sic) manifieste el estado general que guarde la Administración Pública del Estado, informe que contestará en el mismo acto el Presidente del Congreso;
+###### Artículo 48.
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 22 DE OCTUBRE DE 1977)</small>
+Los libros deberán ser llenados con tinta y letra legible, en todos y cada uno de los espacios, a más tardar al día siguiente en que recaiga el acuerdo o dato respectivo. Los espacios se distribuirán mediante columnas cuidando la adecuada proporción con el dato que deban registrarse. Lo anterior sin perjuicio de que se elabore y respalde la información de los libros en forma electrónica, y la impresión que se haga una vez autorizada, tendrá el mismo valor oficial.
 
-XVIII.- Acordar que concurran a las sesiones de la Legislatura el Secretario del ramo que corresponda, cuando sea citado por el Congreso para informar acerca de alguna iniciativa de Ley, presentada por el Ejecutivo;
+###### Artículo 49.
 
-> <small>(ADICIONADA, P.O. 22 DE OCTUBRE DE 1977)</small>
+Ningún libro debe llevar tachas, borraduras o enmendaduras; las correcciones necesarias se harán en el espacio de observaciones, debidamente autorizadas por el Secretario General de acuerdos.
 
-XIX.- Pedir la protección de los Poderes de la Unión, en caso de sublevación o trastorno interior;
+### CAPÍTULO II.. DE LA RECEPCIÓN Y REGISTRO DE DOCUMENTOS
 
-> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 22 DE OCTUBRE DE 1977)</small>
+###### Artículo 50.
 
-XX.- Las demás que le confiera esta Constitución y la Federal.
+En la recepción de documentos que hará el Secretario General de Acuerdos, deberá anotarse constancia en el escrito original y en la copia del promovente, respecto de la fecha y hora de presentación, número de documentos, anexos, con una breve descripción de ellos y las copias que agrega; Así como el nombre de quien los presenta y el nombre y firma de quién recibe.
 
-> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1975)</small>
+###### Artículo 51.
 
-### CAPITULO III. DE LAS DEPENDENCIAS QUE INTEGRAN EL PODER EJECUTIVO
+Se entiende por expediente, el conjunto de escritos y actuaciones, relativos, a todo procedimiento debidamente integrado y asentado en un cuaderno con una caratula, que a su vez contiene los datos que lo identifican y debe encontrarse foliado y sellado.
 
-> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1975)</small>
+###### Artículo 52.
 
-###### ARTICULO 52.
+Los documentos que integran un expediente deberán ir en forma ordenada, encuadernados con broche o cosidos, foliados, rubricados y sellados, de manera que el sello abarque una parte de la hoja inmediata anterior y otra de la subsiguiente e identificando el expediente en su caratula con la siguiente información:
 
-Para el despacho de los asuntos de la Administración Pública del Estado, habrá el número de dependencias que establezca la Ley Orgánica del Poder Ejecutivo, que distribuirá las funciones que a cada una corresponda y señalará los requisitos que el Gobernador observará para nombrar los titulares de las mismas.
+I. De las Salas Regionales:
 
-El Ministerio Público se organizará y funcionará de acuerdo con las disposiciones de la Constitución Política de los Estados Unidos Mexicanos y las leyes correspondientes.
+a) El Escudo de los Estados Unidos Mexicanos:
 
-> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1975)</small>
+b) La leyenda "TRIBUNAL ELECTORAL DEL PODER JUDICIAL DEL ESTADO, SALA REGIONAL DE PRIMERA INSTANCIA, ZONA …”
 
-###### ARTICULO 53.
+c) Número de expediente;
 
-Los acuerdos, órdenes y disposiciones que dicte el Gobernador y que sean despachados por las diversas dependencias del Poder Ejecutivo, irán firmados por el titular de la dependencia que los despache y por el Gobernador del Estado. Sin este requisito no obligan.
+d) Clase de recurso;
 
-> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1975)</small>
+e) Nombre del actor;
 
-###### ARTICULO 54.
+f) Nombre del representante;
 
-Los titulares de las Dependencias son responsables por el despacho de los asuntos de su competencia que autoricen actos contrarios a lo previsto en la Constitución Política de los Estados Unidos Mexicanos, leyes federales o de esta Constitución.
+g) Abogado Patrono;
 
-> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1975)</small>
+h) Acto impugnado;
 
-###### ARTICULO 55.
+i) Organismo emisor;
 
-Se deposita el ejercicio del Poder Judicial del Estado, en un Tribunal Superior de Justicia, en Juzgados de Primera Instancia y en Juzgados Menores, que administrarán de acuerdo con el artículo 17 de la Constitución Política de los Estados Unidos Mexicanos, justicia expedita y gratuita en los términos que fijen las leyes.
+j) Fecha de su inicio;
 
-> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 27 DE FEBRERO DE 1982)</small>
+k) Fecha en que concluye.
 
-El Tribunal Superior de Justicia del Estado, se integra por 10 Magistrados Numerarios y los Supernumerarios que se requieren, y funcionará en Pleno y en Salas.
+II. De la Sala de Segunda Instancia;
 
-En los términos que la Ley disponga, las sesiones del Pleno y de las Salas serán públicas, y por excepción secretas en los casos que así lo exijan la moral o el interés público. Sus resoluciones se tomarán por mayoría de votos.
+a) El Escudo de los Estados Unidos Mexicanos;
 
-Los Magistrados Numerarios serán nombrados en los términos del Artículo 56 de la Constitución Política Local y los Supernumerarios por el Pleno del propio Tribunal.
+b) La leyenda "TRIBUNAL ELECTORAL, SALA DE SEGUNDA INSTANCIA"
 
-(REFORMADO, P.O. 27 DE FEBRERO DE 1982) (F. DE E., P.O. 27 DE MARZO DE 1982)
+c) El año;
 
-## TITULO V. PODER JUDICIAL
+d) Número de toca o reconsideración en su caso;
 
-> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1975)</small>
+e) Número de fojas;
 
-### CAPITULO UNICO
+f) Recurso;
 
-> <small>(REFORMADO, P.O. 16 DE FEBRERO DE 1980)</small>
+g) Promovente;
 
-### CAPITULO I. DEL GOBERNADOR DEL ESTADO
+h) Resolución o acto impugnado;
 
-> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1975)</small>
+i) Autoridad u órgano emisor;
 
-###### ARTICULO 56.
+j) Fecha de su inicio;
 
-El Gobernador del Estado nombrará directamente a los Magistrados Numerarios del Tribunal Superior de Justicia, cuyos nombramientos serán sometidos a la aprobación del Congreso o de la Comisión Permanente, que otorgará o negará esa aprobación dentro del improrrogable término de diez días. Si el Congreso no resolviera dentro de dicho término, se tendrá por aprobado los nombramientos. En caso de que el Congreso no apruebe dos nombramientos sucesivos respecto de la misma vacante, el Gobernador hará un tercero que surtirá sus efectos, desde luego, como provisional y que será sometido a la aprobación del Congreso en el siguiente periodo de sesiones dentro de los primeros diez días de ese periodo. El Congreso deberá aprobar o rechazar el nombramiento, y si lo aprueba o nada resuelve, el Magistrado nombrado provisionalmente continuará en sus funciones con el carácter de definitivo. Si la Cámara desecha el nombramiento, el Magistrado provisional cesará en sus funciones y el Gobernador someterá un nuevo nombramiento al Congreso, en los términos indicados.
+k) Fecha en que concluye.
 
-> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1975)</small>
+###### Artículo 53.
 
-###### ARTICULO 57.
+Se podrán formar legajos auxiliares en los expedientes que por su volumen lo requieran, quedando éstos al resguardo del Secretario General de Acuerdos, para su mejor manejo.
 
-Para ser Magistrado del Tribunal Superior de Justicia se requiere:
+###### Artículo 54.
 
-I.- Ser ciudadano mexicano por nacimiento;
+De igual manera, los secretarios de acuerdos tendrán la facultad de autorizar los testimonios de sentencias, autos o cualquier otro documento que, por disposición del Magistrado Presidente o del Magistrado de primera instancia, deban expedirse, realizando el cotejo y rubricando los mismos.
 
-II.- Tener treinta años de edad cumplidos, el día de la designación;
+###### Artículo 55.
 
-III.- Ser abogado con título expedido y registrado por Instituciones legalmente autorizadas para ello y haber ejercido la profesión cuando menos cinco años o tres la judicatura;
+Se prohíbe utilizar números bis para la identificación de expedientes.
 
-IV.- No ser ministro de ningún culto religioso; y
+## TÍTULO QUINTO.. DE LAS RESPONSABILIDADES
 
-V.- Gozar de buena reputación y no haber sido condenado por delito intencional que amerite sanción corporal.
+### CAPÍTULO ÚNICO.
 
-> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1975)</small>
+###### Artículo 56.
 
-###### ARTICULO 58.
+Podrán ser sujetos a responsabilidad administrativa por los actos u omisiones en que incurran en el desempeño de sus respectivas funciones: El secretario general de acuerdos, los secretarios de acuerdos de las salas regionales de primera instancia, los secretarios de estudio y cuenta, actuarios y demás personal administrativo, de acuerdo a los (sic) establecido por la Ley Orgánica, la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de San Luis Potosí, el Reglamento Interior del Consejo de la Judicatura y demás disposiciones aplicables. Cuando el personal a que se refiere el presente artículo, incumpla en las obligaciones que les hayan sido encomendadas, serán sancionadas por el Consejo, de acuerdo a sus atribuciones.
 
-Los Magistrados del Tribunal Superior de Justicia al entrar a ejercer su cargo, rendirán ante el Congreso o ante la Comisión Permanente la protesta siguiente: - Presidente: - ¿Protestáis desempeñar leal y patrióticamente el cargo de Magistrado del Tribunal Superior de Justicia del Estado, guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos, la particular del Estado y las leyes que de ellas emanen, mirando en todo por el bien y prosperidad de la Unión y del Estado? - Magistrado: "Sí protesto". - Presidente: "si no lo hiciereis así, que la Nación o el Estado os lo demande".
+###### Artículo 57.
 
-> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 1982)</small>
+Los Magistrados que integran el Tribunal Electoral, se estarán a lo dispuesto por los artículos 126 y 127 de la Constitución y 5° de la ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de San Luis Potosí.
 
-###### ARTICULO 59.
+## ARTÍCULOS TRANSITORIOS
 
-Será Presidente del Tribunal Superior de Justicia del Estado, el Magistrado Numerario que anualmente sea electo para ese efecto por el cuerpo Colegiado en Pleno. Cada Sala elegirá su propio Presidente en la primera sesión del año.
+PRIMERO.- El presente Reglamento estará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
-El Presidente del Tribunal Superior de Justicia concurrirá al Congreso del Estado el día 18 de diciembre de cada año y rendirá ante la Representación Popular, un informe escrito acerca de la situación que guarda la administración de Justicia del Estado, cuyo informe será contestado en el mismo acto por el Presidente del Congreso.
+SEGUNDO.- Se deroga el Reglamento Interior del Tribunal Electoral del Poder Judicial del Estado de San Luis Potosí, publicado en edición extraordinaria del Periódico Oficial del Estado, el veintidós de abril del dos mil tres, así como todas las disposiciones reglamentarias que se opongan al contenido del presente.
 
-Las faltas temporales del Presidente serán suplidas por otro Magistrado Numerario designado en la misma forma que el anterior, y las de los Presidentes de las Salas por el que éstas elijan.
+Así lo acordó por unanimidad, en sesión ordinaria celebrada el 19 diecinueve de agosto de 2009 dos mil nueve, el Pleno del Consejo de la Judicatura del Poder Judicial del Estado de San Luis Potosí, integrado por los C.C. consejero Presidente, Magistrado Ricardo Sánchez Márquez, consejero Licenciado Ernesto G. de la Garza Hinojosa, consejero Licenciado Miguel Gutiérrez Reyes, consejero Licenciado José Víctor Jorge Hernández García, ante el secretario Ejecutivo de Pleno y Carrera Judicial, licenciado Juan Miguel Chávez Vázquez, que autoriza y da fe.
 
-Las ausencias temporales de los Magistrados Numerarios serán cubiertas por el Supernumerario que designe el Pleno del Tribunal, el que podrá ser un Juez o el Secretario General de Acuerdos.
+MGDO. RICARDO SÁNCHEZ MÁRQUEZ.
 
-> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1975)</small>
+CONSEJERO PRESIDENTE
 
-###### ARTICULO 60.
+(Rúbrica)
 
-El Tribunal Superior de Justicia residirá en la Capital del Estado y en ningún caso ejercerá sus funciones fuera de ella, a no ser que lo autorice la Legislatura.
+LIC. ERNESTO G. DE LA GARZA HINOJOSA.
 
-> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1975)</small>
+CONSEJERO
 
-###### ARTICULO 61.
+(Rúbrica)
 
-Son facultades del Tribunal Superior de Justicia, funcionando en pleno, dirimir los conflictos de carácter jurídico que surjan entre los Municipios y cualquiera de los otros dos Poderes del Estado y las demás que le confieren las leyes.
+LIC. MIGUEL GUTIÉRREZ REYES.
 
-> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1975)</small>
+CONSEJERO
 
-###### ARTICULO 62.
+(Rúbrica)
 
-Los Magistrados del Tribunal Superior de Justicia y demás funcionarios judiciales no podrán, en ningún caso, aceptar y desempeñar empleo o encargo de la Federación, del Estado, Municipio o de particulares, salvo los cargos honoríficos en asociaciones científicas, literarias o de beneficencia y docentes. La infracción de esta disposición será castigada con la pérdida del cargo.
+LIC. JOSÉ VÍCTOR JORGE HERNÁNDEZ GARCÍA.
 
-> <small>(REFORMADO, P.O. 16 DE FEBRERO DE 1980)</small>
+CONSEJERO
 
-###### ARTICULO 63.
+(Rúbrica)
 
-La competencia del Tribunal Superior de Justicia, los períodos de sesiones, el funcionamiento del Pleno y de las Salas, las atribuciones de los Magistrados, el número y competencia de los Juzgados de Primera Instancia y de los Juzgados Menores y las responsabilidades en que incurran los funcionarios y empleados del Poder Judicial del Estado, se regirán por esta Constitución y lo que dispongan las Leyes y Reglamentos respectivos.
+LIC. JUAN MIGUEL CHÁVEZ VÁZQUEZ.
 
-La remuneración que perciban los Magistrados del Tribunal Superior de Justicia y los Jueces, por los servicios que presten al Poder Judicial, no podrá ser disminuída durante su encargo.
+SECRETARIO EJECUTIVO DE PLENO Y CARRERA
 
-> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 27 DE FEBRERO DE 1982)</small>
+JUDICIAL DEL CONSEJO DE LA JUDICATURA
 
-Los Magistrados Numerarios y Jueces del Tribunal Superior de Justicia del Estado, serán inamovibles en sus cargos y sólo podrán ser removidos, cuando públicamente observen mala conducta, de acuerdo con el procedimiento señalado de la Fracción IX del Artículo 51 de esta Constitución o previo el juicio de responsabilidad, por incapacidad legal o física o por renuncia expresa al puesto.
+(Rúbrica)
 
-> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1975)</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
-## TITULO VI. MUNICIPIO LIBRE
+P.O. 15 DE SEPTIEMBRE DE 2011.
 
-> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1975)</small>
+PRIMERO. El presente Reglamento estará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
-### CAPITULO UNICO
-
-> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1975)</small>
-
-###### ARTICULO 64.
-
-El Municipio Libre se organizará y funcionará conforme a las bases siguientes:
-
-> <small>(REFORMADA, P.O. 3 DE MAYO DE 1978)</small>
-
-I.- Cada Municipio será administrado por un Ayuntamiento de elección popular directa, que entrará en funciones el primero de enero siguiente a las elecciones.
-
-> <small>(REFORMADO, P.O. 10 DE MARZO DE 1979)</small>
-
-El Ayuntamiento se integrará con el número de Regidores que determine la Ley correspondiente y radicará en la cabecera del Municipio respectivo. En la elección de aquellos Municipios cuya población sea de 100,000 o más habitantes se aplicará el principio de representación proporcional.
-
-II.- El primer Regidor será el Presidente Municipal; el segundo, Síndico de Hacienda y los demás desempeñarán las funciones que la ley asigne;
-
-III.- Para ser Regidor se requiere ser ciudadano mexicano por nacimiento, tener residencia no menor de tres años anteriores al día de la elección en el Municipio correspondiente, no ser ministro de culto religioso alguno, no tener antecedentes penales y haber cumplido veintiún años el día de la elección o antes;
-
-IV.- El Ayuntamiento deberá sesionar públicamente cuando menos una vez al mes;
-
-V.- El Ayuntamiento deberá fomentar la participación política de los ciudadanos y propiciar la educación cívica de los mismos;
-
-VI.- Los Ayuntamientos tienen personalidad jurídica para todos los efectos legales y se renovarán cada tres años en los términos que disponga la ley;
-
-VII.- Para crear un Municipio se requiere que exista un mínimo de treinta mil habitantes en el territorio que pretenda constituirse, que las fuentes de ingresos sean suficientes para cubrir sus necesidades, que no afecte seriamente la economía del que se pretenda segregar, que mediante plebiscito y por mayoría de dos terceras partes se confirme el deseo de los habitantes de integrar un nuevo Municipio y que se consulte al Ayuntamiento del que intenta desmembrarse.
-
-> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1975)</small>
-
-###### ARTICULO 65.
-
-La Ley Orgánica Municipal se sujetará a las bases siguientes:
-
-I.- Los Municipios formarán su Hacienda de las contribuciones que señale la Legislatura del Estado y que serán suficientes para atender sus necesidades;
-
-> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 1977)</small>
-
-II.- Los Ayuntamientos enviarán al Congreso, por conducto del Ejecutivo, durante el Primer mes del segundo período de sesiones, sus proyectos de presupuesto de egresos y Ley de Ingresos;
-
-III.- Los Ayuntamientos presentaran a la Legislatura, en el primer período de sesiones de ésta, sus cuentas anuales para su revisión y aprobación, en su caso;
-
-IV.- No podrán contraer empréstitos ni celebrar contratos cuya duración exceda de un año, ni enajenar bienes sin autorización previa del Poder Legislativo, ni cobrar contribuciones que correspondan al año siguiente de su período;
-
-V.- El mando de la Policía y Fuerza Pública Municipal estará a cargo del presidente;
-
-VI.- Los Ayuntamientos asignarán los ramos de su Administración a comisiones integradas por uno o más Regidores;
-
-VII.- El Cargo de Regidor no es renunciaba, salvo el caso de causa grave; y
-
-VIII.- En las rancherías y en los centros de población exceptuando la Cabecera Municipal, se designarán o elegirán de acuerdo a la ley correspondiente, las Autoridades Municipales que representen al Ayuntamiento.
-
-> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1975)</small>
-
-## TITULO VII. RESPONSABILIDADES DE LOS FUNCIONARIOS PUBLICOS
-
-> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1975)</small>
-
-### CAPITULO UNICO
-
-> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1975)</small>
-
-###### ARTICULO 66.
-
-Los Diputados al Congreso del Estado, los Magistrados, los Titulares de las Secretarías y el Procurador de Justicia, así como los Presidentes de los Ayuntamientos, son responsables de los delitos comunes que cometan durante el tiempo de su encargo y por los delitos, faltas u omisiones en que incurran en el ejercicio de ese mismo cargo.
-
-El Gobernador del Estado y los Diputados a la Legislatura Local son responsables por violaciones a la Constitución Política de los Estados Unidos Mexicanos, a las leyes federales y a la Constitución Local, por traición a la patria y delitos graves del orden común.
-
-> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1975)</small>
-
-###### ARTICULO 67.
-
-Si el delito fuese común, el Congreso erigido en Gran Jurado declarará, por mayoría de votos del número total de miembros que lo formen, si ha lugar a proceder contra el acusado.
-
-En caso negativo, no habrá lugar a ningún procedimiento ulterior, pero tal declaración no será obstáculo para que la acusación continúe su curso, cuando el acusado haya dejado de tener fuero, pues la resolución de la Cámara no prejuzga absolutamente los fundamentos de la acusación.
-
-En caso afirmativo, el acusado queda, por el mismo hecho, separado de su encargo y sujeto desde luego a la acción de los Tribunales comunes, a menos que se trate del Gobernador del Estado pues en tal caso, sólo habrá lugar a acusarlo ante el Tribunal Superior de Justicia, como si se tratase de delito oficial.
-
-> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1975)</small>
-
-###### ARTICULO 68.
-
-No gozan de fuero constitucional los Altos Funcionarios que señala el artículo 66 por los delitos oficiales o comunes, faltas u omisiones en que incurran en el desempeño de empleo, cargo o comisión pública ajenos al que le otorgue fuero. Para que la causa pueda iniciarse cuando el Alto Funcionario haya vuelto a ocupar el cargo que le otorga fuero, deberá procederse conforme al artículo anterior.
-
-> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1975)</small>
-
-###### ARTICULO 69.
-
-De los delitos oficiales conocerá el Tribunal Superior de Justicia, erigido en Gran Jurado, pero no podrá abrir la averiguación correspondiente, sin previa acusación de la Cámara de Diputados. Si el Pleno del Tribunal Superior de Justicia declarase, por mayoría de las dos terceras partes de sus miembros, después de practicar las diligencias que estime convenientes y de oír al acusado, que éste es culpable, quedará privado de su puesto por virtud de tal declaración e inhabilitado para obtener otro por el tiempo que determine la ley.
-
-Cuando el mismo hecho tuviere señalada otra sanción en la legislación penal del Estado, el acusado quedará a disposición de las autoridades comunes para que lo juzguen y castiguen con arreglo a ella.
-
-En los casos de este artículo y en los del 67, las resoluciones del Gran Jurado y la declaración en su caso de la Cámara de Diputados, son inatacables.
-
-Se concede acción popular para denunciar ante la Cámara de Diputados los delitos comunes y oficiales de los Altos Funcionarios del Estado. Cuando la Cámara declare que procede acusar, nombrará una comisión entre sus miembros para que sostenga ante el Tribunal Superior de Justicia la acusación de que se trate.
-
-El Congreso del Estado expedirá, a la mayor brevedad, una Ley de Responsabilidad de todos los Funcionarios y Empleados del Estado y de los Municipios, determinando como delitos o faltas oficiales todos los actos u omisiones que puedan redundar en perjuicio de los intereses públicos aun cuando hasta la fecha no hayan tenido carácter delictuoso.
-
-Estos delitos o faltas serán siempre juzgados por un Jurado Popular, en los términos que para los delitos de imprenta establece el articulo 20 de la Constitución Política de los Estados Unidos Mexicanos.
-
-> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1975)</small>
-
-###### ARTICULO 70.
-
-Pronunciada una sentencia de responsabilidad por delitos oficiales, no puede concederse al reo la gracia del indulto.
-
-> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1975)</small>
-
-###### ARTICULO 71.
-
-La responsabilidad por delitos y faltas oficiales sólo exigirse durante el período en que el Funcionario ejerza su encargo y hasta un año después.
-
-> <small>(REFORMADO, P.O. 22 DE OCTUBRE DE 1977)</small>
-
-###### ARTICULO 72.
-
-En demanda del orden civil no hay fuero ni inmunidad para ningún Funcionario Público, pero no podrá decretarse ninguna providencia de arraigo en su contra.
-
-> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1975)</small>
-
-###### ARTICULO 73.
-
-Todos los empleados de Hacienda que tuvieren a su cargo caudales públicos en el Estado y Municipio, garantizarán suficientemente su manejo.
-
-> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1975)</small>
-
-## TITULO VIII. PREVENCIONES GENERALES
-
-> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1975)</small>
-
-### CAPITULO UNICO
-
-> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1975)</small>
-
-###### ARTICULO 74.
-
-Ningún ciudadano podrá desempeñar a la vez dos o más cargos de elección popular, pero el electo puede aceptar el que prefiera.
-
-> <small>(ADICIONADO, P.O. 22 DE OCTUBRE DE 1977)</small>
-
-Todo funcionario y empleado público del Estado o de los Municipios, sin excepción alguna, antes de tomar posesión de su cargo otorgará ante quien corresponda protesta de cumplir las obligaciones que contrae, guardar y hacer guardar sin reserva alguna la Constitución General de la República, la del Estado y las Leyes que de ellas emanen, usándose la forma prevista en el Artículo 58 adaptándola a cada caso.
-
-> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1975)</small>
-
-###### ARTICULO 75.
-
-Los Diputados, el Gobernador del Estado, los Magistrados del Tribunal Superior de Justicia y todos los Funcionarios de elección popular serán retribuidos por sus servicios como lo dispongan las leyes y pagados por la dependencia que legalmente corresponda o por los Municipios, en su caso. La Ley que les aumente o disminuya la remuneración entrará en vigor hasta el siguiente ejercicio fiscal.
-
-> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1975)</small>
-
-###### ARTICULO 76.
-
-El Estado, representado por el Ejecutivo, puede participar en empresas industriales, agrícolas y mercantiles, con el fin de impulsar la productividad y el desarrollo estatal.
-
-> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1975)</small>
-
-###### ARTICULO 77.
-
-Para los efectos de esta Constitución, la residencia no se pierde por ausencia en el desempeño de cargo de elección popular, de comisiones oficiales del Gobierno del Estado o con motivo del deber de todo mexicano de servir a la Patria y sus Instituciones.
-
-> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1975)</small>
-
-###### ARTICULO 78.
-
-Cuando desaparezcan los Poderes Ejecutivo y Legislativo del Estado, o bien desaparezcan los tres Poderes del mismo, entrará a ejercer como Gobernador provisional el último Presidente del Tribunal Superior de Justicia y en su defecto, el último Presidente del Congreso desaparecido.
-
-> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1975)</small>
-
-###### ARTICULO 79.
-
-La persona que asuma el Poder Ejecutivo designará con carácter provisional, cuando hubiere desaparecido también el Poder Judicial a los Magistrados del Tribunal Superior de Justicia y éstos designarán a su vez, con carácter también provisional, a los Jueces y demás personal del Poder Judicial. Si desaparecieren únicamente los Poderes Ejecutivo y Legislativo y el Presidente del Tribunal entrare a desempeñar el Ejecutivo, éste designará a la persona que lo sustituya interinamente en su cargo de Magistrado.
-
-> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1975)</small>
-
-###### ARTICULO 80.
-
-Al ocurrir la desaparición de Poderes, el Gobernador provisional convocará a elecciones de nuevos Diputados para que concluyan el período.
-
-La convocatoria se hará en tiempo oportuno, a fin de que los nuevos Diputados queden instalados antes de que el Gobernador Provisional cumpla seis meses de gestión.
-
-> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1975)</small>
-
-###### ARTICULO 81.
-
-Si la desaparición de Poderes ocurriese en los primeros dos años del período constitucional que le corresponde al Gobernador, el Provisional convocará a nuevas elecciones, para que el electo concluya lo que falte de período. La convocatoria se lanzará en tiempo oportuno para que el nuevo Gobernador tome posesión antes de que el Provisional cumpla año y medio de gestión.
-
-Si la desaparición de poderes ocurriese en los cuatro últimos años de un período constitucional, el Gobernador Provisional terminará ese período con el carácter de Sustituto. Cuando en razón a la época en que tenga lugar la desaparición de poderes no hubiere Gobernador Constitucional que inicie el período, el Provisional cesará como tal y se procederá en los términos del artículo 48.
-
-> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1975)</small>
-
-###### ARTICULO 82.
-
-La ciudad de Villahermosa es la Capital del Estado y la residencia de los Poderes del mismo.
-
-> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1975)</small>
-
-## TITULO IX. DE LAS REFORMAS Y DE LA INVIOLABILIDAD DE LA CONSTITUCION
-
-> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1975)</small>
-
-### CAPITULO I. REFORMAS DE LA CONSTITUCION
-
-> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1975)</small>
-
-###### ARTICULO 83.
-
-La presente Constitución puede ser adicionada o reformada. Para que las adiciones o reformas lleguen a formar parte de la misma, se requiere que el Congreso del Estado, por el voto de las dos terceras partes de los Diputados presentes, acuerde las referidas reformas o adiciones y que éstas sean aprobadas por la mayoría de los Ayuntamientos del Estado. El Congreso hará el cómputo de los votos de los Ayuntamientos y la declaración de haber sido aprobadas las adiciones o reformas.
-
-> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1975)</small>
-
-### CAPITULO II. INVIOLABILIDAD DE LA CONSTITUCION
-
-> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1975)</small>
-
-###### ARTICULO 84.
-
-Esta Constitución no perderá su vigencia, aun cuando por alguna rebelión se interrumpa su observancia. En caso de que por cualquier trastorno público se establezca un Gobierno contrario a los principios que ella sanciona, tan luego como el pueblo recobre su libertad se restablecerá su observancia y con arreglo a ella y a las leyes que en su virtud se hubieren expedido, serán juzgados quienes hayan figurado en el Gobierno emanado de la rebelión, así como los que hubieren contribuido a ésta.
-
-## TRANSITORIOS.
-
-###### Art. 1°.
-
-Esta Constitución se promulgará y publicará por bando solemne en todo el Estado el día 5 de Abril del año en curso; surtirá sus efectos desde luego y será protestada en todo el Estado con la mayor solemnidad.
-
-###### Art. 2°.
-
-La XXVI Legislatura terminará el 15 de septiembre del año de 1921, y abrirá sus sesiones, para terminar el segundo período a que se refiere el artículo 45, inmediatamente después de finalizadas sus labores de ASAMBLEA CONSTITUYENTE; pero sus ocupaciones no serán las que determina el artículo 48, sino las que sean necesarias para atender la buena marcha de la administración pública.
-
-###### Art. 3°.
-
-El actual período Constitucional del Gobernador del Estado terminará el 31 de diciembre de 1922.
-
-###### Art. 4°.
-
-Entretanto se expiden las leyes reglamentarias que corresponden, se observarán las vigentes en todo lo que no se opongan a la Constitución General de la República y particular del Estado.
-
-###### Art. 5°.
-
-Las cuentas generales del Estado y las Municipales, correspondientes al período preconstitucional, se presentaran para su glosa a la Contaduría Mayor de Hacienda, a la mayor brevedad posible.
-
-###### Art. 6°.
-
-Entretanto son nombrados por el Congreso los funcionarios y empleados en la forma que establece esta Constitución, los actuales seguirán funcionando.
-
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1970)</small>
-
-###### Art. 7°.
-
-La compensación a que tienen derecho los funcionarios de que habla el artículo 140 no se tendrá por definitivamente establecida, conforme a las leyes o decretos expedidos con anterioridad a esta Constitución, sino hasta que la XXVI Legislatura expida la ley fijando la retribución de cada uno de dichos funcionarios, la cual puede, esta vez, surtir sus efectos después de su publicación.
-
-###### Art. 8°.
-
-Mientras se carezca de abogados idóneos para formar el Tribunal Superior de Justicia, pueden ser Magistrados del mismo, con el carácter de provisionales, los ciudadanos que a juicio del Congreso estén versados en la ciencia del derecho, pudiendo ser removidos libremente y sin sujeción a período alguno.
-
-###### Art. 9°.
-
-Por el término de diez años no podrán ser electos para ningún cargo de elección popular los individuos que hayan tomado las armas en favor de la usurpación iniciada con la infidencia del 9 de febrero 1913 y que terminó con la ocupación de la ciudad de México por el Ejército Constitucionalista en agosto de 1914. Tampoco podrán ser electos los que hubieren figurado como coautores o cómplices de dicha usurpación, hayan hecho política activa en favor de la misma, así como los que hayan sido Funcionarios Públicos de la Federación o del Estado durante aquel término; y además los directores, propietarios o gerentes de periódicos oficiales, semioficiales o subvencionados de la misma época.
-
-Quedan también inhabilitados para dichos cargos, en los propios términos de este precepto, los autores, cómplices o encubridores del cuartelazo local del 29 de Agosto de 1915.
-
-###### Art. 10.
-
-Quedan extinguidas de pleno derecho las deudas que por concepto de servidumbre o servicios personales hayan contraído los trabajadores, hasta la fecha de esta Constitución, con los propietarios, encargados, o patronos, sus familiares o intermediarios.
-
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1970)</small>
-
-###### Art. 11.
-
-En el caso de la fracción II del artículo 118 y mientras el Tribunal Superior de Justicia se componga de tres Magistrados propietarios, éstos y dos de los suplentes, designados por sorteo, integrarán el Gran Jurado.
-
-###### Art. 12.
-
-Por el término de cuatro años quedan exceptuados de la prescripción del artículo 34 los empleos de los ramos de instrucción y beneficencia públicas, arreglo de tierras, aguas, bosques y el trabajo, que podrán desempeñarse sin perjuicio de las funciones de Diputado.
-
-Dada en el Salón de Sesiones de Congreso Constituyente, en la ciudad de Villahermosa de Tabasco, a los cinco días del mes de abril del año de 1919, mil novecientos diez y nueve.
-
-Presidente, Lic. Rafael Martínez de Escobar, Diputado P. por el I Distrito (Centro).- Vicepresidente, Cnel. J.D. Ramírez Garrido, Diputado P. por el XI Distrito (Jonuta).- Lic. FJ. Santamaría, Diputado P. por el II Distrito (Centro).- P. Casanova C., Diputado P. por el IV Distrito (Cárdenas).- Natividad de Dios G., Diputado P. por el V Distrito (Cunduacán).- Dr. Federico Martínez de Escobar, Diputado P. por el VIII Distrito (Jalpa).- Ing. E. Hernández Carrillo, Diputado P. por el IX Distrito (Paraíso).- B. Hernández, Diputado P. por el X Distrito (Frontera).- Gllmo. Escoffié, Diputado P. por el XII Distrito (Balancán y Montecristo).- S. Ruiz S., Diputado P. por el XIV Distrito (Jalapa).- Tte. Cnel. A.N. Cámara, Diputado P. por el XV Distrito (Macuspana).- Prosecretario C. Pedrero C., Diputado P. por el XVII Distrito (Teapa).- Prosecretario, Pedro H. Chapuz, Diputado P. por el III Distrito (Comalcalco).- Secretario, Fdo. Aguirre, Diputado P. por el VI Distrito (Huimanguillo).- Secretario, P. Jiménez Calleja, Diputado P. por el VII Distrito (Nacajuca).
-
-Por tanto, mando, se imprima, publique por bando solemne, circule y se le dé el debido cumplimiento.
-
-Palacio del Poder Ejecutivo en la Ciudad de Villahermosa, Capital del Estado de Tabasco, a cinco de abril de mil novecientos diez y nueve.
-
-C. Greene
-
-El Srio. Gral.,
-
-J.D. Ramírez Garrido.
-
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA A LA PRESENTE CONSTITUCION.</small>
-
-P.O. 25 DE MAYO DE 1921.
-
-###### Art. 1º.
-
-Los Ayuntamientos actualmente en funciones cesarán en ellas el 31 de Diciembre del corriente año, y los futuros el tiempo señalado por el artículo 118 reformado por este Decreto.
-
-###### Art. 2º.
-
-Este Decreto comenzará a regir desde la fecha de su publicación.
-
-P.O. 28 DE MAYO DE 1923.
-
-UNICO:- Este Decreto comenzará a surtir sus efectos legales desde la fecha de su promulgación.
-
-P.O. 25 DE NOVIEMBRE DE 1925.
-
-UNICO:- Este Decreto surte sus efectos legales desde la fecha de su promulgación.
-
-P.O. 24 DE NOVIEMBRE DE 1928.
-
-Artículo Unico.- Este Decreto surte sus efectos legales al verificarse las elecciones para el XXXI Congreso Local, debiendo publicarse por Bando Solemne en todo el Estado.
-
-P.O. 28 DE NOVIEMBRE DE 1928.
-
-###### Artículo UNICO.
-
-Este Decreto surte sus efectos legales desde la fecha de su promulgación, que se hará por Bando Solemne en todo el Estado.
-
-P.O. 17 DE DICIEMBRE DE 1930.
-
-UNICO.- Este decreto surte sus efectos legales desde la fecha de su promulgación, que se hará por Bando Solemne en todo el Estado.
-
-P.O. 28 DE MARZO DE 1938.
-
-UNICO.- Este Decreto surte sus efectos legales, desde la fecha de su promulgación, que se hará por bando solemne en todo el Estado.
-
-P.O. 24 DE SEPTIEMBRE DE 1938.
-
-UNICO.- Este Decreto surte sus efectos legales desde la fecha de su promulgación, que se hará por Bando Solemne en todo el Estado.
-
-P.O. 6 DE MAYO DE 1941.
-
-UNICO.- Este Decreto comienza a surtir sus efectos legales desde la fecha de su publicación en el "Periódico Oficial".
-
-P.O. 5 DE DICIEMBRE DE 1942.
-
-UNICO.- Esta Ley comenzará a surtir sus efectos desde la fecha de su publicación en el Periódico Oficial del Estado.
-
-P.O. 9 DE OCTUBRE DE 1943.
-
-UNICO.- Este Decreto surte sus efectos legales desde la fecha de su publicación.
-
-P.O. 20 DE NOVIEMBRE DE 1943.
-
-UNICO.- Este Decreto comienza a surtir sus efectos al día siguiente de su publicación en el Periódico Oficial del Estado.
-
-P.O. 3 DE JUNIO DE 1944.
-
-UNICO.- Este Decreto comenzará a surtir sus efectos legales a partir del día 16 de septiembre del año en curso.
-
-P.O. 4 DE MAYO DE 1946.
-
-UNICO. Este Decreto entrará en vigor quince días después del de su publicación en el Periódico Oficial del Estado; pero la reforma del artículo 45, que pasa a ser 49, no entrará en vigor sino hasta el 16 de septiembre del año en curso.
-
-P.O. 31 DE MAYO DE 1952.
-
-###### Art. 1o.
-
-Este Decreto comenzará a surtir sus efectos desde la fecha de su publicación en el Periódico Oficial del Estado.
-
-###### Art. 2º.
-
-Para mayor publicidad promúlguese el presente Decreto por bando solemne en esta Capital y en las Cabeceras Municipales.
-
-P.O. 11 DE AGOSTO DE 1954.
-
-Artículo Primero.- Este Decreto entrará en vigor en la fecha de su publicación en el Periódico Oficial del Gobierno del Estado.
-
-Artículo Segundo.- Para mayor publicidad, promúlguese el presente Decreto por Bando Solemne en esta Capital y en las Cabeceras Municipales, el domingo siguiente a la fecha de su publicación en el Periódico Oficial.
-
-P.O. 1 DE JUNIO DE 1960.
-
-###### Art. 1o.
-
-Este decreto comienza a surtir sus efectos legales desde la fecha de su publicación en el Periódico Oficial del Gobierno.
-
-P.O. 17 DE MAYO DE 1961.
-
-UNICO.- Este decreto surte sus efectos legales desde la fecha de su publicación en el Periódico Oficial del Gobierno.
-
-P.O. 8 DE JULIO DE 1964.
-
-UNICO.- Este Decreto surte sus efectos legales a partir de la fecha de su publicación en el Periódico Oficial del Gobierno.
-
-P.O. 29 DE ENERO DE 1966.
-
-UNICO.- Este Decreto surte sus efectos legales a partir de la fecha de su publicación en el Periódico Oficial del Estado.
-
-P.O. 17 DE FEBRERO DE 1968.
-
-###### ARTICULO PRIMERO.
-
-El informe relativo a la situación de la Administración Pública, por lo que se refiere al período comprendido del 27 de febrero de 1967 a la fecha del presente Decreto, será rendido en el informe del bienio correspondiente a los años de 1967 a 1969, el día 27 de febrero de este último año, y por lo que respecta al período comprendido del 27 de febrero de 1969 al último año del ejercicio constitucional, será rendido el 20 de noviembre de 1970.
-
-###### ARTICULO SEGUNDO.
-
-Este Decreto comenzará a surtir sus efectos legales desde la fecha de su publicación en el Periódico Oficial del Gobierno del Estado.
-
-P.O. 19 DE JULIO DE 1969.
-
-UNICO.- Este Decreto surte sus efectos legales a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
-
-P.O. 27 DE AGOSTO DE 1969.
-
-UNICO.- Este Decreto comenzará a surtir sus efectos legales a partir de su publicación en el Periódico Oficial del Gobierno del Estado.
-
-P.O. 28 DE MARZO DE 1970.
-
-UNICO.- Este Decreto surte sus efectos legales a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
-
-P.O. 30 DE DICIEMBRE DE 1970.
-
-UNICO.- Este Decreto surte sus efectos legales a partir del día primero de enero de 1971.
-
-P.O. 28 DE ABRIL DE 1971.
-
-Artículo Primero.- El Gobernador del Estado, cuyo sexenio comenzó el primero de enero del corriente año, rendirá su primer informe precisamente el día 20 de noviembre del año en curso.
-
-Artículo Segundo.- Este Decreto surtirá sus efectos a partir de la fecha de su publicación en el Periódico Oficial del Estado.
-
-P.O. 16 DE JUNIO DE 1971.
-
-###### ARTICULO PRIMERO.
-
-Los Diputados que integrarán el XLVII Congreso tomarán posesión de su cargo, el 16 de septiembre del corriente año y durarán en sus funciones hasta el 31 de diciembre de 1973. A partir del XLVIII Congreso, los períodos serán de tres años y se iniciarán el 1o. de enero de 1974.
-
-###### ARTICULO SEGUNDO.
-
-El período de sesiones del Congreso que se iniciará el 16 de septiembre próximo, terminará el 15 de diciembre de este año.
-
-###### ARTICULO TERCERO.
-
-En el período de sesiones a que se refiere el artículo segundo transitorio de este Decreto, el Congreso se ocupará, de preferencia, en examinar y calificar las cuentas de recaudación y aplicación de los fondos públicos correspondientes al año próximo pasado, las cuales serán presentadas por el Ejecutivo en los primeros diez días de abierto el período.
-
-###### ARTICULO CUARTO.
-
-Durante el período de sesiones citado en el artículo segundo transitorio de este Decreto, el Congreso se ocupará de preferencia de estudiar, discutir y votar la Ley de Ingresos y los Presupuestos de Egresos del Estado y de los Municipios, que serán presentados: los primeros, por el Ejecutivo y los segundos, por los Ayuntamientos, pero por conducto del mismo Ejecutivo, quien a su vez presentará todas las observaciones que tuviere que hacerles. Posteriormente esta obligación será atendida por el Congreso en el período ordinario de sesiones que en 1972 se iniciará el primero de septiembre de cada año.
-
-###### ARTICULO QUINTO.
-
-Este Decreto entrará en vigor tres días después de su publicación en el Periódico Oficial del Gobierno del Estado.
-
-P.O. 22 DE DICIEMBRE DE 1971.
-
-UNICO.- Este Decreto surte sus efectos legales tres días después de su publicación en el Periódico Oficial del Gobierno del Estado.
-
-P.O. 3 DE JUNIO DE 1972.
-
-###### ARTICULO UNICO.
-
-Este decreto entrará en vigor tres días después de su publicación en el Periódico Oficial del Gobierno del Estado.
-
-P.O. 2 DE ABRIL DE 1975.
-
-PRIMERO.- Estas reformas han sido aprobadas, en los términos del artículo 151 de la Constitución vigente, por las autoridades que presiden cada uno de los 17 Municipios integrantes del Estado, respectivamente. Entrarán, en consecuencia, en vigor quince días después de su publicación en el Periódico Oficial del Estado.
-
-SEGUNDO.- Toda norma que de cualquier manera se oponga a estas reformas Constitucionales quedará derogada a partir de la vigencia de las mismas.
-
-P.O. 22 DE OCTUBRE DE 1977.
-
-PRIMERO.- Es numeral vigente de ésta Constitución el señalado en las Reformas publicadas en el Suplemento del Periódico Oficial del Estado número 3395 de fecha 2 de Abril del año de 1975, con las Reformas y adiciones que contiene el presente Decreto.
-
-SEGUNDO.- Estas reformas y adiciones, han sido aprobadas en los términos del Artículo 83 de la Constitución Política del Estado, por la mayoría de las Autoridades que presiden los Ayuntamientos de esta Entidad Federativa.
-
-TERCERO.- Toda norma que de cualquier manera se oponga a estas reformas y adiciones Constitucionales quedarán derogadas a partir de la vigencia de las mismas.
-
-CUARTO.- Este Decreto entrará en vigor tres días después de su publicación en el Periódico Oficial del Gobierno del Estado.
-
-P.O. 3 DE MAYO DE 1978.
-
-PRIMERO.- Esta adición y reforma, han sido aprobadas, en los términos del Artículo 83 de la Constitución Política del Estado, por la mayoría de las autoridades que presiden los Ayuntamientos de esta Entidad Federativa.
-
-SEGUNDO.- Este Decreto entrará en vigor tres días después de su publicación en el Periódico Oficial del Estado.
-
-P.O. 10 DE MARZO DE 1979.
-
-PRIMERO.- Esta Reforma, ha sido aprobada en los términos del Artículo 83 de la Constitución Política del Estado por la mayoría de las autoridades que presiden los Ayuntamientos de esta Entidad Federativa.
-
-SEGUNDO.- Este Decreto entrará en vigor tres días después de su publicación en el Periódico Oficial del Gobierno del Estado.
-
-P.O. 16 DE FEBRERO DE 1980.
-
-PRIMERO.- La inamovilidad judicial que previenen los artículos 11 y 36 de la Ley Orgánica del Poder Judicial, surtirán sus efectos a partir de la primera sesión del Pleno del mes de enero del año de 1983.
-
-SEGUNDO.- Esta adición y reforma han sido aprobadas, en los términos del artículo 83 de la Constitución Política del Estado, por la mayoría de las autoridades que presiden los Ayuntamientos de esta Entidad Federativa.
-
-TERCERO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
-
-P.O. 27 DE FEBRERO DE 1982.
-
-PRIMERO.- La inamovilidad judicial que establece el artículo 63 de la Constitución Política del Estado, surtirá sus efectos a partir del primer día hábil del mes de febrero de 1983. Pero los Magistrados y Jueces que sean nombrados en ese año durarán en su cargo tres años, al término de los cuáles, si fueren ratificados solo podrán ser separados en las circunstancias previstas por la Ley.
-
-SEGUNDO.- Toda norma que se oponga a esta reforma y adiciones constitucionales quedará derogada a partir de la vigencia de este decreto.
-
-TERCERO.- Estas reformas y adiciones han sido aprobadas en los términos del artículo 83 de la Constitución Política del Estado, por la mayoría de las autoridades que constituyen los Ayuntamientos de esta Entidad Federativa.
-
-CUARTO.- Este Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
-
-P.O. 8 DE DICIEMBRE DE 1982.
-
-PRIMERO.- Esta reforma ha sido aprobada, en los términos del artículo 83 de la Constitución Política del Estado, por la mayoría de las autoridades que presiden los HH. Ayuntamientos del Estado de Tabasco.
-
-SEGUNDO.- Con la asistencia de los representantes de los Tres Poderes del Estado, los miembros del H. Ayuntamiento Constitucional del Municipio de Jalpa de Méndez, en sesión pública que se efectuará a partir de las doce horas del día veinte de noviembre próximo, deberán colocar la impresión que contenga el texto del presente Decreto, en la Sala de Juntas del Cabildo.
-
-TERCERO.- Para mayor publicidad, promúlguese el presente Decreto por Bando Solemne en la ciudad de JALPA DE MENDEZ, TABASCO, a partir de las nueve horas del día veinte de noviembre del presente año.
-
-CUARTO.- Este Decreto surte sus efectos legales a partir del día de su publicación en el Periódico Oficial del Gobierno del Estado.
+SEGUNDO. Se deroga el Reglamento Interior del Tribunal Electoral del Poder Judicial del Estado de San Luis Potosí publicado en edición extraordinaria del Periódico Oficial del Estado el cinco 05 de septiembre de dos mil nueve 2009, así como todas las disposiciones reglamentarias que se opongan al contenido del presente.
