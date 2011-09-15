@@ -4,7 +4,7 @@ identifier: "JAL-ley-del-registro-civil-del-estado-de-jalisco-10544"
 country: "mx"
 rank: "ley"
 publication_date: "1995-02-25"
-last_updated: "2011-07-30"
+last_updated: "2011-09-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10544&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DEL REGISTRO CIVIL DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE JULIO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE SEPTIEMBRE DE 2011.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el sábado 25 de febrero de 1995.
 
@@ -81,7 +81,7 @@ III. Las oficialías que sean necesarias para el cumplimiento eficaz de este ser
 
 La Dirección General del Registro Civil dependerá de la Secretaría General de Gobierno del Estado; en tanto que los oficiales jefes y las oficialías dependerán de los ayuntamientos.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE OCTUBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE OCTUBRE DE 2007)</small>
 
 ###### Artículo 6.
 
@@ -239,7 +239,7 @@ Artículo 22 bis.- Las autoridades municipales deberán pagar horas extras a los
 
 ### CAPITULO IV. De los procedimientos
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE ENERO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE ENERO DE 2007)</small>
 
 ###### Artículo 23.
 
@@ -323,7 +323,7 @@ IX. No podrán dejar de anotarse los datos previstos en las formas del Registro 
 
 X. No podrá asentarse en las actas, ni por vía de nota o advertencia, sino lo que deba ser declarado para el acto preciso a que ellas se refieren y lo que esté expresamente prevenido en la ley.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE OCTUBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE OCTUBRE DE 2007)</small>
 
 ###### Artículo 30.
 
@@ -337,7 +337,7 @@ El hacer constar un acto y el asentamiento del acta en un formato no autorizado 
 
 Para asentar los actos a que se refiere el artículo anterior, existirá un formato específico para cada uno. Si por cualquier causa no existiere, se asentará en el de inscripciones generales.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE OCTUBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE OCTUBRE DE 2007)</small>
 
 ###### Artículo 32.
 
@@ -425,7 +425,7 @@ Para llevar a cabo el registro de un nacimiento, el Oficial del Registro Civil e
 
 Cuando no se de asistencia profesional durante el parto, para registrar el nacimiento se requiere, información rendida y apoyada por dos testigos vecinos o conocidos de la madre que sepan y les conste la gravidez y fecha de nacimiento, cuya declaración se efectuará ante el Oficial del Registro Civil, Presidente Municipal, Servidor Público responsable del Sistema para el Desarrollo Integral de la Familia en la localidad o del Ministerio Público, quienes tendrán la obligación de cerciorarse de la veracidad de la información ante ellos vertida.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE JULIO DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE JULIO DE 2006)</small>
 
 ###### Artículo 42.
 
@@ -443,7 +443,7 @@ Cuando sólo uno de los cónyuges presente al infante y exhiba copia certificada
 
 Cuando no se presente copia certificada o extracto del acta de matrimonio o no ocurran ambos progenitores, sólo se asentará el nombre del padre o de la madre, cuando éste lo solicite por sí o por apoderado.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 7 DE SEPTIEMBRE DE 1996)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE SEPTIEMBRE DE 1996)</small>
 
 ###### Artículo 44.
 
@@ -533,7 +533,7 @@ Las actas de registro extemporáneo de nacimiento deberán contener los datos pr
 
 El acta de reconocimiento de hijo contendrá: el nombre, apellidos, sexo, fecha y lugar de nacimiento, la edad, domicilio, huella digital y Clave Única del Registro Nacional de Población del reconocido. Asimismo, se asentarán los nombres, apellidos, edades, estado civil, nacionalidad y domicilio, del reconocedor, de los padres del mismo, así como de los testigos, y en su caso, del representante legal.
 
-(REFORMADO PRIMER PARRAFO, P.O. 24 DE JUNIO DE 2004) (F. DE E., P.O. 9 DE OCTUBRE DE 2004) (F. DE E., P.O. 2 DE NOVIEMBRE DE 2004)
+(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE JUNIO DE 2004) (F. DE E., P.O. 9 DE OCTUBRE DE 2004) (F. DE E., P.O. 2 DE NOVIEMBRE DE 2004)
 
 ###### Artículo 60.
 
@@ -769,7 +769,7 @@ IX. Copia simple de la Cartilla Nacional de Salud de la Mujer.
 
 Cuando los pretendientes no sepan escribir, la solicitud y el convenio a que se refiere la fracción V del artículo anterior, tendrá obligación de redactarlos el oficial del Registro Civil, con los datos que los mismos interesados le manifiesten. En la misma forma se tomará razón de lo declarado por los testigos.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 7 DE SEPTIEMBRE DE 1996)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE SEPTIEMBRE DE 1996)</small>
 
 ###### Artículo 84.
 
@@ -887,9 +887,11 @@ También podrá exigir declaración bajo protesta de decir verdad, a los testigo
 
 La sentencia ejecutoria que declare un divorcio, se remitirá en copia certificada al Archivo General del Registro Civil y al oficial del Registro Civil del lugar donde se celebró el matrimonio, para que levante el acta correspondiente.
 
-> <small>(ADICIONADO, P.O. 2 DE ENERO DE 2007)</small>
+> <small>N. DE E. ANTES 98 BIS, CON ESTA REFORMA APARECE COMO ARTÍCULO 98.</small>
 
-Artículo 98 bis.- El Oficial del Registro Civil quien (sic) se presente una solicitud de divorcio administrativo que reúna los requisitos previstos por el Código Civil del Estado, dará curso a la misma en los términos establecidos por dicho ordenamiento, resolverá lo conducente y en su caso, los declarará divorciados, levantará el acta de divorcio y hará las anotaciones correspondientes.
+> <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2011)</small>
+
+Artículo 98 (sic). El oficial del Registro Civil ante quien se presente una solicitud de divorcio administrativo que reúna los requisitos previstos por el Código Civil del Estado, dará curso a la misma en los términos establecidos por dicho ordenamiento, resolverá lo conducente y, en su caso, los declarará divorciados, levantará el acta de divorcio y hará las anotaciones correspondientes.
 
 > <small>(REFORMADO, P.O. 2 DE ENERO DE 2007)</small>
 
@@ -1013,7 +1015,7 @@ Las actas a que se refiere el artículo anterior contendrán: el nombre, apellid
 
 Cuando se presente la persona declarada ausente o cuya muerte se presumía o se recobre la capacidad para administrar bienes, se dará aviso al oficial del Registro Civil y al Archivo General por la autoridad que corresponda, para que se cancele la inscripción a que se refiere el artículo 117 de esta ley.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 15 DE JUNIO DE 1999)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 15 DE JUNIO DE 1999)</small>
 
 ### CAPITULO XV. De las Certificaciones
 
@@ -1065,7 +1067,7 @@ f) De las actas de defunción: Nombre, apellidos, fecha de nacimiento, sexo, eda
 
 g) De las actas de inscripción de sentencia de tutela, emancipación, ausencia, presunción de muerte y pérdida o limitación de la capacidad legal para administrar bienes: Nombre, apellidos, estado civil, nacionalidad y edad de la persona de que se trata; fecha en que causó estado la sentencia, tribunal que las dictó, número de expediente y resumen de las proposiciones; nombre, apellidos y nacionalidad de quienes aparecieren en el acta respectiva con interés jurídico en el registro y carácter con el que comparecieron.
 
-(REUBICADO CON LOS ARTICULOS QUE LO INTEGRAN [N. DE E. ANTES CAPITULO XV], P.O. 15 DE JUNIO DE 1999)
+(REUBICADO CON LOS ARTÍCULOS QUE LO INTEGRAN [N. DE E. ANTES CAPÍTULO XV], P.O. 15 DE JUNIO DE 1999)
 
 ### CAPITULO XVI. De la nulificación, rectificación, aclaración y testadura de las actas del registro civil
 
@@ -1121,7 +1123,7 @@ Cuando se observe que en una actuación no autorizada, se hiciere mención de cu
 
 En los casos de los dos artículos que preceden, la parte interesada deberá, ante el Oficial del Registro Civil que corresponda, o ante el Registro Civil del Estado, presentar solicitud con apego a lo dispuesto en el reglamento aplicable.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 7 DE SEPTIEMBRE DE 1996)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE SEPTIEMBRE DE 1996)</small>
 
 ###### Artículo 131.
 
@@ -1153,7 +1155,7 @@ Una vez que exista sentencia ejecutoria deberá remitirse copia de la misma al o
 
 La sentencia ejecutoria hará fe plena contra todos, aunque no hayan comparecido; pero si alguno probare que estuvo absolutamente impedido para salir al juicio o que el procedimiento intentado es fraudulento, se le admitirá probar contra ella; más se tendrá como buena la sentencia anterior y surtirá sus efectos, hasta que recaiga otra que la contradiga y cause ejecutoria.
 
-(REUBICADO CON LOS ARTICULOS QUE LO INTEGRAN [N. DE E. ANTES CAPITULO XVI], P.O. 15 DE JUNIO DE 1999)
+(REUBICADO CON LOS ARTÍCULOS QUE LO INTEGRAN [N. DE E. ANTES CAPÍTULO XVI], P.O. 15 DE JUNIO DE 1999)
 
 ### CAPITULO XVIII. De las sanciones
 
@@ -1173,7 +1175,7 @@ Las visitas de control administrativo tendrán por objeto asegurar la coordinaci
 
 Las visitas e inspecciones que corresponde realizar a la Procuraduría General de Justicia, se desarrollarán conforme las disposiciones que regulan las actividades de verificación y control a cargo del Ministerio Público.
 
-(REUBICADO CON LOS ARTICULOS QUE LO INTEGRAN [N. DE E. ANTES CAPITULO XVII], P.O. 15 DE JUNIO DE 1999)
+(REUBICADO CON LOS ARTÍCULOS QUE LO INTEGRAN [N. DE E. ANTES CAPÍTULO XVII], P.O. 15 DE JUNIO DE 1999)
 
 ###### Artículo 140.
 
@@ -1297,7 +1299,7 @@ El Secretario General de Gobierno
 
 Lic. José Luis Leal Sanabria.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 7 DE SEPTIEMBRE DE 1996.
 
@@ -1333,7 +1335,7 @@ SEGUNDO. El Ejecutivo del Estado en un término no mayor a 60 días deberá toma
 
 P.O. 24 DE JUNIO DE 2004.
 
-DECRETO NO. 20518, QUE REFORMA ARTICULOS 82 DE LA LEY DEL REGISTRO CIVIL DEL ESTADO DE JALISCO.
+DECRETO NO. 20518, QUE REFORMA ARTÍCULOS 82 DE LA LEY DEL REGISTRO CIVIL DEL ESTADO DE JALISCO.
 
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
 
@@ -1341,7 +1343,7 @@ SEGUNDO. Publíquese el presente decreto en uno de los diarios de mayor circulac
 
 P.O. 24 DE JUNIO DE 2004.
 
-DECRETO NO. 20519, QUE REFORMA DIVERSOS ARTICULOS DE LA LEY DEL REGISTRO CIVIL DEL ESTADO DE JALISCO.
+DECRETO NO. 20519, QUE REFORMA DIVERSOS ARTÍCULOS DE LA LEY DEL REGISTRO CIVIL DEL ESTADO DE JALISCO.
 
 ÚNICO. Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
 
@@ -1380,5 +1382,9 @@ SEGUNDO. Se derogan las disposiciones que se opongan al presente.
 TERCERO. Los delegados institucionales privados que estén debidamente acreditados, seguirán en funciones y se regularán observando las normas contenidas en la Ley vigente al momento de su acreditación.
 
 P.O. 30 DE JULIO DE 2011.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 15 DE SEPTIEMBRE DE 2011.
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
