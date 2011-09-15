@@ -4,7 +4,7 @@ identifier: "SLP-reglamento-interior-de-la-comision-estatal-de-garantia-de-62613
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-07-17"
-last_updated: "2009-08-15"
+last_updated: "2011-09-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62613&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "SLP"
 ---
 # REGLAMENTO INTERIOR DE LA COMISION ESTATAL DE GARANTIA DE ACCESO A LA INFORMACION PUBLICA DE SAN LUIS POTOSI
 
-REGLAMENTO INTERIOR DE LA COMISION ESTATAL DE GARANTIA DE ACCESO A LA INFORMACION PUBLICA DE SAN LUIS POTOSI
+REGLAMENTO INTERIOR DE LA COMISIÓN ESTATAL DE GARANTÍA DE ACCESO A LA INFORMACIÓN PÚBLICA DE SAN LUIS POTOSÍ
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE AGOSTO DE 2009.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE SEPTIEMBRE DE 2011.
 
 Reglamento publicado en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 17 de julio de 2008.
 
@@ -71,7 +71,7 @@ II. Comisionados: los integrantes de la Comisión Estatal de Garantía de Acceso
 
 > <small>(ADICIONADO, P.O. 15 DE AGOSTO DE 2009)</small>
 
-a) Comisionados Numerarios: los integrantes de la Comisión Estatal de Garantía de Acceso a la Información Pública del Estado de San Luís Potosí, electos por el Congreso del Estado, en el desempeño efectivo del cargo;
+a) Comisionados Numerarios: los integrantes de la Comisión Estatal de Garantía de Acceso a la Información Pública del Estado de San Luis Potosí, electos por el Congreso del Estado, en el desempeño efectivo del cargo;
 
 > <small>(ADICIONADO, P.O. 15 DE AGOSTO DE 2009)</small>
 
@@ -581,7 +581,7 @@ XVIII. Las demás que le establezcan la Ley, el presente Reglamento y las que le
 
 #### Sección Primera. Del Secretario Ejecutivo
 
-> <small>(REFORMADO PRIMER PARRAFO [N. DE E. ADICIONADO], P.O. 15 DE AGOSTO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. ADICIONADO], P.O. 15 DE AGOSTO DE 2009)</small>
 
 ###### ARTICULO 32.
 
@@ -693,7 +693,9 @@ XV. Proponer al Pleno, a través del Presidente, las políticas generales en mat
 
 XVI. Tener bajo su adscripción la oficialía de partes de la Comisión, y recibir, turnar y despachar la correspondencia;
 
-XVII. Vigilar que se lleve a cabo la notificación de las resoluciones y acuerdos que emita la Comisión;
+> <small>(REFORMADA, P.O. 15 DE SEPTIEMBRE DE 2011)</small>
+
+XVII. Vigilar que se lleven a cabo las notificaciones de las resoluciones y acuerdos que emita la Comisión, de forma tal, que los funcionarios designados y autorizados para realizar dichas notificaciones dispongan de plena fe pública;
 
 XVIII. Elaborar los proyectos de reformas y derogaciones al presente ordenamiento reglamentario;
 
@@ -1063,14 +1065,20 @@ LIC. WALTER STAHL LEIJA
 
 LA SECRETARIA DE ACTAS
 
-LIC. ROSA MARÍA MOTlLLA GARCÍA
+LIC. ROSA MARÍA MOTILLA GARCÍA
 
 (RÚBRICA)
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 15 DE AGOSTO DE 2009.
 
 PRIMERO. El presente Reglamento entrará en vigor el mismo día de su aprobación por el Pleno de esta Comisión Estatal de Garantía y Acceso a la Información Pública del Estado de San Luis Potosí.
 
 SEGUNDO. Se ordena su publicación en el Periódico Oficial del Estado.
+
+P.O. 15 DE SEPTIEMBRE DE 2011.
+
+PRIMERO. Se reforma el artículo 34, fracción XVII del Reglamento Interior de esta Comisión.
+
+SEGUNDO. La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
