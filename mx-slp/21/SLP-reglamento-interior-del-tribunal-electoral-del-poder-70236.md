@@ -4,7 +4,7 @@ identifier: "SLP-reglamento-interior-del-tribunal-electoral-del-poder-70236"
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-09-05"
-last_updated: "2009-09-05"
+last_updated: "2011-09-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70236&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "SLP"
 ---
 # REGLAMENTO INTERIOR DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DEL ESTADO DE SAN LUIS POTOSI
 
-REGLAMENTO INTERIOR DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DEL ESTADO DE SAN LUIS POTOSI
+REGLAMENTO INTERIOR DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DEL ESTADO DE SAN LUIS POTOSÍ
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DEL ESTADO DE SAN LUIS POTOSÍ, PUBLICADO EN EL P.O. DE 15 DE SEPTIEMBRE DE 2011, EL PRESENTE ORDENAMIENTO HA SIDO DEROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: DEROGADO.
 
 Reglamento publicado en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 5 de septiembre de 2009.
 
@@ -798,3 +800,11 @@ SECRETARIO EJECUTIVO DE PLENO Y CARRERA
 JUDICIAL DEL CONSEJO DE LA JUDICATURA
 
 (Rúbrica)
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 15 DE SEPTIEMBRE DE 2011.
+
+PRIMERO. El presente Reglamento estará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se deroga el Reglamento Interior del Tribunal Electoral del Poder Judicial del Estado de San Luis Potosí publicado en edición extraordinaria del Periódico Oficial del Estado el cinco 05 de septiembre de dos mil nueve 2009, así como todas las disposiciones reglamentarias que se opongan al contenido del presente.
