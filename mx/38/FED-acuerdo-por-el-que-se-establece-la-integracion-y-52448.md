@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-por-el-que-se-establece-la-integracion-y-52448"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2006-12-28"
-last_updated: "2006-12-28"
+last_updated: "2011-09-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52448&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "2006-12-22"
 
 ACUERDO POR EL QUE SE ESTABLECE LA INTEGRACION Y FUNCIONAMIENTO DEL COMITE DE TRANSPARENCIA Y ACCESO A LA INFORMACION DE LA AUDITORIA SUPERIOR DE LA FEDERACION
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL ACUERDO QUE REGULA LA INTEGRACION, FUNCIONAMIENTO Y ATRIBUCIONES DEL COMITE DE TRANSPARENCIA Y ACCESO A LA INFORMACION DE LA AUDITORIA SUPERIOR DE LA FEDERACION, PUBLICADO EN EL D.O.F. DE 15 DE SEPTIEMBRE DE 2011, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: ABROGADO.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el jueves 28 de diciembre de 2006.
 
@@ -324,3 +326,11 @@ VI. Las demás que les correspondan de conformidad con la aplicación de los ord
 Unico. El presente Acuerdo por el que se establece la integración y funcionamiento del Comité de Transparencia y Acceso a la Información de la Auditoría Superior de la Federación, entrará en vigor el día hábil siguiente al de su publicación en el Diario Oficial de la Federación, abrogando el Acuerdo por el que se establece la Integración y Funcionamiento del Comité de Información de la Auditoría Superior de la Federación de fecha 5 de junio de 2003.
 
 México, D.F., a 22 de diciembre de 2006.- El Auditor Superior de la Federación, Arturo González de Aragón O.- Rúbrica.- El Presidente del Comité de Información, José Miguel Macias Fernández.- Rúbrica.- El Titular de la Unidad de Enlace, Raúl Esquerra Castañeda.- Rúbrica.- El Secretario Ejecutivo, Sergio Gallardo Franco.- Rúbrica.- Los Vocales: Juan Manuel Portal Martínez, Roberto Salcedo Aquino, Julián A. Olivas Ugalde.- Rúbricas.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 15 DE SEPTIEMBRE DE 2011.
+
+Primero.- El presente Acuerdo que regula la integración, funcionamiento y atribuciones del Comité de Transparencia y Acceso a la Información de la Auditoría Superior de la Federación, entrará en vigor el día hábil siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- Se abroga el "Acuerdo por el que se establece la integración y funcionamiento del Comité de Transparencia y Acceso a la Información de la Auditoría Superior de la Federación" de fecha 28 de diciembre de 2006.
