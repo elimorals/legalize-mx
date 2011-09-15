@@ -4,7 +4,7 @@ identifier: "JAL-ley-para-los-servidores-publicos-del-estado-de-jalisco-y-5896"
 country: "mx"
 rank: "ley"
 publication_date: "1984-04-07"
-last_updated: "2010-11-20"
+last_updated: "2011-09-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5896&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY PARA LOS SERVIDORES PUBLICOS DEL ESTADO DE JALISCO Y SUS MUNICIPIOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE NOVIEMBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE SEPTIEMBRE DE 2011.
 
 Ley publicada en el Periódico Oficial del Estado de Jalisco, el sábado 7 de abril de 1984.
 
@@ -959,33 +959,57 @@ XXVI. No desviar los recursos económicos y en especie que reciba como apoyo par
 
 Son obligaciones de las Entidades Públicas, en las relaciones laborales con sus servidores:
 
-I. Preferir en igualdad de condiciones, de conocimientos y de antigüedad, a los trabajadores sindicalizados respecto de quienes no lo sean; a quienes representen la única fuente de ingreso familiar, a los que con anterioridad les hubiesen prestado servicios, y a los que acrediten tener mejores derechos conforme al escalafón. Para los efectos del párrafo que antecede en las Entidades Públicas se formarán los escalafones con las bases establecidas en la ley;
+> <small>(ADICIONADA, P.O. 15 DE SEPTIEMBRE DE 2011)</small>
 
-II. Pagar puntualmente los sueldos y demás prestaciones los días previstos, y de acuerdo a los tabuladores correspondientes a las categorías en que estén clasificados escalafonariamente los servidores públicos;
+I. Respetar y tratar dignamente a los servidores públicos;
 
-III. Cumplir con todos los servicios de higiene y de prevención de accidentes a que estén obligadas;
+> <small>(REFORMADA, P.O. 15 DE SEPTIEMBRE DE 2011)</small>
 
-IV. Proporcionar a los Servidores Públicos los útiles, instrumentos y materiales necesarios para el desempeño normal de su trabajo;
+II. Preferir, en igualdad de condiciones, de conocimientos y de antigüedad, a los trabajadores sindicalizados respecto de quienes no lo sean; a quienes representen la única fuente de ingreso familiar a los que con anterioridad les hubiesen prestado servicios, y a los que acrediten tener mejores derechos conforme al escalafón. Para los efectos del párrafo que antecede, en las entidades públicas se formarán los escalafones con las bases establecidas en la ley;
 
-V. Hacer efectivas las deducciones de sueldos que ordenen la Dirección de Pensiones del Estado y la Autoridad Judicial competente en los casos especificados en esta ley;
+> <small>(REFORMADA, P.O. 15 DE SEPTIEMBRE DE 2011)</small>
 
-VI. Acatar en sus términos los laudos que emita el Tribunal de Arbitraje y Escalafón;
+III. Pagar puntualmente los sueldos y demás prestaciones los días previstos, y de acuerdo con los tabuladores correspondientes a las categorías en que estén clasificados escalafonariamente los servidores públicos;
 
-VII. En los casos de supresión de plazas, los servidores afectados tendrán derecho, en su caso, a que se les otorgue otra equivalente en categoría de sueldos;
+> <small>(REFORMADA, P.O. 15 DE SEPTIEMBRE DE 2011)</small>
 
-VIII. Fijar las condiciones generales de trabajo en los términos de esta ley;
+IV. Cumplir con todos los servicios de higiene y de prevención de accidentes a que estén obligadas;
 
-IX. Aplicar los descuentos de cuotas sindicales;
+> <small>(REFORMADA, P.O. 15 DE SEPTIEMBRE DE 2011)</small>
 
-X. Conceder licencia a los servidores públicos en los casos en que proceda, de acuerdo a esta propia ley o a las condiciones generales de trabajo;
+V. Proporcionar a los servidores públicos los útiles, instrumentos y materiales necesarios para el desempeño normal de su trabajo;
 
-> <small>(REFORMADA, P.O. 17 DE ENERO DE 1998)</small>
+> <small>(REFORMADA, P.O. 15 DE SEPTIEMBRE DE 2011)</small>
 
-XI. Proporcionar servicios médicos, quirúrgicos, hospitalarios, farmacéuticos y asistenciales, a los servidores públicos, o en su caso, afiliarlos a través de convenios de incorporación, al Instituto Mexicano del Seguro Social, o a alguna institución federal, estatal u organismo público descentralizado, que sea instrumento básico de la seguridad social, y
+VI. Hacer efectivas las deducciones de sueldos que ordenen la Dirección de Pensiones del Estado y la autoridad judicial competente en los casos especificados en esta ley;
 
-> <small>(F. DE E., P.O. 2 DE JUNIO DE 1984)</small>
+> <small>(REFORMADA, P.O. 15 DE SEPTIEMBRE DE 2011)</small>
 
-XII. Otorgar las jubilaciones conforme lo dispone la Ley de Pensiones para el estado de Jalisco.
+VII. Acatar en sus términos los laudos que emita el Tribunal de Arbitraje y Escalafón;
+
+> <small>(REFORMADA, P.O. 15 DE SEPTIEMBRE DE 2011)</small>
+
+VIII. En los casos de supresión de plazas, los servidores afectados tendrán derecho, en su caso, a que se les otorgue otra equivalente en categoría de sueldos;
+
+> <small>(REFORMADA, P.O. 15 DE SEPTIEMBRE DE 2011)</small>
+
+IX. Fijar las condiciones generales de trabajo en los términos de esta ley;
+
+> <small>(REFORMADA, P.O. 15 DE SEPTIEMBRE DE 2011)</small>
+
+X. Aplicar los descuentos de cuotas sindicales;
+
+> <small>(REFORMADA, P.O. 15 DE SEPTIEMBRE DE 2011)</small>
+
+XI. Conceder licencia a los servidores públicos en los casos en que proceda, de acuerdo con esta propia ley o con las condiciones generales de trabajo;
+
+> <small>(REFORMADA, P.O. 15 DE SEPTIEMBRE DE 2011)</small>
+
+XII. Proporcionar servicios médicos, quirúrgicos, hospitalarios, farmacéuticos y asistenciales a los servidores públicos o, en su caso, afiliarlos a través de convenios de incorporación al Instituto Mexicano del Seguro Social o a alguna institución federal, estatal u organismo público descentralizado que sea instrumento básico de la seguridad social, y
+
+> <small>(REFORMADA, P.O. 15 DE SEPTIEMBRE DE 2011)</small>
+
+XIII. Otorgar las jubilaciones conforme lo dispone la Ley de Pensiones del Estado de Jalisco.
 
 > <small>(ADICIONADO, P.O. 20 DE NOVIEMBRE DE 1999)</small>
 
@@ -2426,5 +2450,9 @@ P.O. 31 DE DICIEMBRE DE 2009.
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
 
 P.O. 20 DE NOVIEMBRE DE 2010.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 15 DE SEPTIEMBRE DE 2011.
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
