@@ -4,7 +4,7 @@ identifier: "JAL-codigo-civil-del-estado-de-jalisco-5751"
 country: "mx"
 rank: "codigo"
 publication_date: "1995-02-25"
-last_updated: "2011-07-30"
+last_updated: "2011-09-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5751&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 CODIGO CIVIL DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE JULIO DE 2011.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE SEPTIEMBRE DE 2011.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el sábado 25 de febrero de 1995.
 
@@ -15611,9 +15611,15 @@ Los herederos instituidos en forma simultánea sin designación de la parte que 
 
 El heredero instituido en cosa cierta y determinada debe tenerse por legatario.
 
+> <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2011)</small>
+
 ###### Art. 2714.
 
-Aunque el testador nombre algunos herederos individualmente y a otros colectivamente, como si dijera: "Instituyo por mis herederos a Pedro, a Pablo y a los hijos de Francisco", los colectivamente nombrados se considerarán como si fuesen individualmente, a no ser que se conozca de un modo claro que ha sido otra la voluntad del testador.
+El testador podrá instituir herederos a personas no identificadas individualmente sino por su inclusión a un grupo o heredero colectivo.
+
+Cuando el testador nombre heredero colectivo se considerará a los integrantes del grupo como si fuesen herederos individuales, a no ser que se conozca de un modo indubitable que ha sido otra la voluntad del testador.
+
+La disposición señalada en el párrafo anterior no afecta a la institución de los herederos que hayan sido considerados individualmente.
 
 ###### Art. 2715.
 
@@ -18088,5 +18094,9 @@ DECRETO NUMERO 23526/LIX/11, POR EL QUE SE REFORMA EL ARTICULO 639 DEL CODIGO CI
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
 
 P.O. 30 DE JULIO DE 2011.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 15 DE SEPTIEMBRE DE 2011.
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
