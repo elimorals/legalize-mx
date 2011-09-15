@@ -4,7 +4,7 @@ identifier: "JAL-codigo-penal-para-el-estado-libre-y-soberano-de-jalisco-5757"
 country: "mx"
 rank: "codigo"
 publication_date: "1982-09-02"
-last_updated: "2011-05-05"
+last_updated: "2011-09-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5757&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 CODIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE MAYO DE 2011.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE SEPTIEMBRE DE 2011.
 
 Código publicado en el Periódico Oficial del Estado de Jalisco, el jueves 2 de septiembre de 1982.
 
@@ -613,7 +613,7 @@ Los delitos culposos se sancionarán con prisión de tres días a ocho años y s
 
 Si se causaren por culpa grave homicidio o las lesiones señaladas en las fracciones IV o V del artículo 207 de este Código, se aplicará la sanción de tres a diez años de prisión e inhabilitación para manejar hasta por un tiempo igual al de la duración de la pena privativa de la libertad.
 
-> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2003)</small>
+> <small>(ADICIONADO, P.O. 12 DE JUNIO DE 2003)</small>
 
 Se considera culpa grave en los homicidios o lesiones a que se refiere el párrafo anterior, si se cometen con motivo del tránsito de vehículos y se dé una de las siguientes circunstancias:
 
@@ -1613,9 +1613,7 @@ Las penas previstas en este artículo se incrementarán en una mitad cuando el s
 
 Se impondrán de uno a seis meses de prisión al que provoque públicamente a cometer algún delito o haga apología de éste o de algún vicio, si el delito no se ejecutare; si se ejecuta se aplicará al provocador la sanción que le corresponda por su participación en el delito cometido.
 
-> <small>(ADICIONADO, P.O. 14 DE ENERO DE 1999)</small>
-
-En tratándose del delito de secuestro, a los que colaboren en la difusión pública de las pretensiones o mensajes de los secuestradores, fuera del estricto derecho a la información, se le impondrá una pena de tres a ocho años de prisión y multa de trescientos a seiscientos días de salario.
+> <small>(DEROGADO SEGUNDO PARRAFO, P.O. 15 DE SEPTIEMBRE DE 2011)</small>
 
 > <small>(ADICIONADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, P.O. 30 DE ENERO DE 2007)</small>
 
@@ -2093,6 +2091,8 @@ Las penas señaladas serán independientes de las que pudieren resultar de la co
 
 ## TITULO DECIMO PRIMERO. DELITOS CONTRA LA SEGURIDAD Y LIBERTAD SEXUAL
 
+> <small>(DEROGADO, P.O. 15 DE SEPTIEMBRE DE 2011)</small>
+
 ### CAPITULO I. De la Violencia Intrafamiliar
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
@@ -2355,7 +2355,7 @@ Se impondrán de un mes a tres años de prisión y multa de cien a trescientos d
 
 I. Al que, sin ser servidor público, se atribuya ese carácter e intente ejercer alguna de las funciones correspondientes;
 
-II. Al que, sin tener título profesional o autorización para ejercer alguna profesión reglamentada, expedidos por autoridad y organismos legalmente capacitados para ello, conforme a las disposiciones reglamentarias del Artículo 5o. de la Constitución Política de los Estados Unidos Mexicanos, incurra en cualquiera de los casos siguientes:
+II. Al que, sin tener título profesional o autorización para ejercer alguna profesión reglamentada, expedidos por autoridad y organismos legalmente capacitados para ello, conforme a las disposiciones reglamentarias del Art. 5.° de la Constitución Política de los Estados Unidos Mexicanos, incurra en cualquiera de los casos siguientes:
 
 a) Se atribuya el carácter de profesionista;
 
@@ -2409,7 +2409,7 @@ La pena se aumentará al doble de la ya señalada, cuando el inculpado sea integ
 
 (DEROGADO, P.O. 30 DE ENERO DE 2007)
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 14 DE ABRIL DE 2001)</small>
+> <small>(DEROGADO, P.O. 15 DE SEPTIEMBRE DE 2011)</small>
 
 ### CAPITULO V. Asalto
 
@@ -4806,5 +4806,19 @@ CUARTO. El Instituto Jalisciense de Ciencias Forenses deberá coordinarse con la
 QUINTO. Se autoriza al Ejecutivo del Estado para que realice los ajustes presupuestales necesarios para dar cumplimiento al presente decreto, de lo cual deberá informar al Congreso de los cambios financieros que haga.
 
 P.O. 5 DE MAYO DE 2011.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 15 DE SEPTIEMBRE DE 2011.
+
+DECRETO NUMERO 23559/LIX/11 POR EL QUE SE DEROGAN LOS CAPITULOS I Y II DEL TITULO DECIMO PRIMERO.
+
+PRIMERO. El presente decreto entrará en vigor a partir del día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+SEGUNDO. Una vez aprobado y, en su caso, publicado el presente decreto, hágase de su conocimiento al titular del Poder Judicial del Estado de Jalisco y al Presidente y consejeros del Consejo de la Judicatura del Estado de Jalisco, a efecto de que lo hagan del conocimiento de los integrantes de dicho poder que se encargan de la impartición de justicia.
+
+P.O. 15 DE SEPTIEMBRE DE 2011.
+
+DECRETO NUMERO 23562/LIX/11 POR EL QUE SE DEROGA EL SEGUNDO PARRAFO DEL ARTICULO 142.
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
