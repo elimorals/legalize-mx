@@ -4,7 +4,7 @@ identifier: "GRO-constitucion-politica-del-estado-libre-y-soberano-de-5126"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-03"
-last_updated: "2008-05-06"
+last_updated: "2011-09-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5126&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE GUERRERO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE MAYO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE SEPTIEMBRE DE 2011.
 
 Constitución publicada en los Periódicos Oficiales del Estado de Guerrero los días 3, 10 y 17 de noviembre de 1917 y 5 de enero de 1918.
 
@@ -695,7 +695,9 @@ La Ley establecerá un sistema de medios de impugnación, de los que conocerá e
 
 El Tribunal Electoral del Estado funcionará en Pleno, una Sala de Segunda Instancia y Cinco Salas unitarias; se integrará por cinco Magistrados numerarios y dos supernumerarios, los cuales para el ejercicio de la función Jurisdiccional contarán con cuerpos de jueces instructores y con el personal jurídico y administrativo necesario para el adecuado funcionamiento, los que serán independientes y responderán sólo al mandato de la Ley. Las sesiones de resolución serán públicas en los términos que establezca la Ley y expedirá su reglamento interior.
 
-Los Magistrados del Tribunal deberán satisfacer los requisitos que establezca la Ley, que no podrán ser menores de los que señala esta Constitución para ser Magistrado del Tribunal Superior de Justicia. Serán electos por el Congreso del Estado, bajo el procedimiento previsto en la Ley Orgánica del Tribunal Electoral del Estado. El cargo de Presidente durará cuatro años sin derecho a reelección, y se elegirá en sesión pública por los Magistrados propietarios de entre sus miembros.
+> <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 2011)</small>
+
+Los Magistrados del Tribunal deberán satisfacer los requisitos que establezca la Ley Orgánica del Tribunal Electoral del Estado. Serán electos por el Congreso del Estado, bajo el procedimiento previsto en dicho ordenamiento. El cargo de Presidente durará cuatro años sin derecho a reelección, y se elegirá en sesión pública por los Magistrados propietarios de entre sus miembros.
 
 El Tribunal Electoral del Estado tendrá competencia para resolver en forma firme y definitiva, en los términos de esta Constitución y la Ley, las impugnaciones que se presenten en materia electoral local; así como las impugnaciones de actos y resoluciones de las autoridades locales y Partidos Políticos que violen los derechos político-electorales de los ciudadanos de ser votado; de asociarse individual, libre y pacífica para tomar parte de los asuntos del Estado y de afiliarse libre e individualmente a los Partidos Políticos; siempre que se hubiesen reunido los requisitos de la Constitución Federal y los que se señalan en las Leyes para el ejercicio de esos derechos; y toda violación a los derechos de la militancia partidista.
 
@@ -3306,3 +3308,9 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Para dar cumplimiento a lo establecido en la fracción III del artículo 125 de la Constitución Política del Estado Libre y Soberano de Guerrero, remítase el presente Decreto a los Ayuntamientos que integran el Estado.
 
 TERCERO.- Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado para sus efectos constitucionales y para su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 16 DE SEPTIEMBRE DE 2011.
+
+PRIMERO.- Remítase el presente Decreto a los Honorables Ayuntamientos de la entidad, para los efectos de la fracción II del artículo 125 de la Constitución Política del Estado Libre y Soberano de Guerrero, y oportunamente expídase el Acuerdo de Validación respectivo.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Guerrero.
