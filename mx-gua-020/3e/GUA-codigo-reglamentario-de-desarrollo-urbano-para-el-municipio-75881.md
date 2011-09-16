@@ -4,7 +4,7 @@ identifier: "GUA-codigo-reglamentario-de-desarrollo-urbano-para-el-municipio-758
 country: "mx"
 rank: "codigo"
 publication_date: "2010-08-06"
-last_updated: "2011-08-02"
+last_updated: "2011-09-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=75881&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "GUA"
 
 CODIGO REGLAMENTARIO DE DESARROLLO URBANO PARA EL MUNICIPIO DE LEON, GUANAJUATO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE AGOSTO DE 2011.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE SEPTIEMBRE DE 2011.
 
 Código publicado en la Segunda Parte al Periódico Oficial del Estado de Guanajuato, el viernes 6 de agosto de 2010.
 
@@ -493,7 +493,9 @@ XV. Ejecutar las medidas necesarias a que deban sujetarse los usos en los predio
 
 XVI. Aplicar en el ámbito de su competencia las diferentes restricciones que marquen las Leyes y Reglamentos aplicables, así como las especificaciones técnicas y normativas que dicten la Comisión Nacional del Agua, la CFE, el SAPAL y todos los demás aplicables, para evitar el mal uso del suelo;
 
-XVII. Asignar la clasificación de vías colectoras y vías, de acuerdo a la sección de las mismas y al planteamiento de proyecto de los nuevos desarrollos;
+> <small>(REFORMADA, P.O. 16 DE SEPTIEMBRE DE 2011)</small>
+
+XVII.- Asignar la clasificación de vías colectoras y locales, de acuerdo a la sección de las mismas y al planteamiento de proyecto de los desarrollos; así como coadyuvar con el IMPLAN en las propuestas de usos del suelo, clasificación y reclasificación de las vialidades que conforman el sistema vial primario del Municipio;
 
 XVIII. Resolver auxiliados por el IMPLAN, las compatibilidades de uso de suelo que presenten problemática de incompatibilidad aparente, a partir de estudios de compatibilidad urbanística, siempre y cuando no impliquen modificación al POTE, al Plano de Zonificación y los que de estos deriven, en tal caso, corresponderá al H. Ayuntamiento su autorización;
 
@@ -632,6 +634,10 @@ I. Promover la participación ciudadana a través del Consejo Directivo de Plane
 II. Proponer al H. Ayuntamiento las acciones a tomar, para promover el uso eficiente del suelo urbano y evitar el crecimiento descontrolado;
 
 III. Auxiliar, como asesor técnico, al H. Ayuntamiento en cambios a la zonificación del territorio municipal que les sean solicitados rindiendo dictámenes técnicos correspondientes;
+
+> <small>(ADICIONADA, P.O. 16 DE SEPTIEMBRE DE 2011)</small>
+
+III- A. Clasificar, reclasificar y asignar los usos del suelo en los Ejes Metropolitanos, Vías Primarias e Interbarrios, de manera conjunta y coordinada con la Dirección General de Desarrollo Urbano, dicho procedimiento, deberá estar soportado en un estudio técnico que avale su procedencia;
 
 IV. Proponer al Ayuntamiento, a través de la Comisión del Instituto Municipal de Planeación, las propuestas de actualización y modificación al POTE y al Plano de Zonificación Municipal, incluyendo las declaratorias de asignación de uso del suelo en zonas de reserva para el crecimiento (ZRC y ZRC-C);
 
@@ -5997,7 +6003,7 @@ En contra de los actos y resoluciones de las autoridades competentes en la aplic
 
 ANEXOS
 
-> <small>N. DE E. VEASE ANEXO 1: MANUAL TECNICO DE USOS DEL SUELO, EN EL P.O. 6 DE AGOSTO DE 2010, PAGINAS 163 A LA 194. REFORMAS EN EL P.O. 3 DE DICIEMBRE DE DE 2010, PAGINAS 53 A LA 54; P.O. 24 DE DICIEMBRE DE DE 2010, PAGINAS 21 A LA 22; P.O. 2 DE AGOSTO DE 2011, PAGINAS 66 A LA 67.</small>
+> <small>N. DE E. VEASE ANEXO 1: MANUAL TECNICO DE USOS DEL SUELO, EN EL P.O. 6 DE AGOSTO DE 2010, PAGINAS 163 A LA 194. REFORMAS EN EL P.O. 3 DE DICIEMBRE DE DE 2010, PAGINAS 53 A LA 54; P.O. 24 DE DICIEMBRE DE DE 2010, PAGINAS 21 A LA 22; P.O. 2 DE AGOSTO DE 2011, PAGINAS 66 A LA 67; P.O. 16 DE SEPTIEMBRE DE 2011, PAGINAS 26 A LA 27.</small>
 
 > <small>N. DE E. VEASE ANEXO 2: TABLA DE GIROS DEL SISTEMA DE APERTURA RÁPIDA DE EMPRESAS CON ACTIVIDADES DE INTENSIDAD MINIMA, BAJA Y MEDIA, EN EL P.O. 6 DE AGOSTO DE 2010, PAGINAS 194 A LA 201.</small>
 
@@ -6092,3 +6098,9 @@ PRIMERO.- Las presentes adiciones, entrarán en vigor al cuarto día siguiente a
 SEGUNDO.- Los procedimientos administrativos iniciados antes de la entrada en vigor de las presentes adiciones, se tramitarán conforme a las disposiciones vigentes en aquel momento hasta su total conclusión; excepción hecha de los documentos informativos que habiendo sido emitidos por la Dirección General de Desarrollo Urbano conforme a la normativa anterior, los interesados no hubiesen iniciado algún trámite para la obtención de los permisos, licencias y/o autorizaciones ante las autoridades federales, estatales o municipales competentes, para la instalación de una estación de servicio o bien para la adquisición del inmueble donde pretenda instalarse; en tal caso, dichos documentos informativos se entenderán que han quedado sin efectos, sin que para ello deba mediar acuerdo que así lo determine, por lo que deberán ser solicitados nuevamente.
 
 TERCERO.- Se derogan todas aquellas disposiciones legales, reglamentarias y administrativas municipales que se opongan a las presentes modificaciones.
+
+P.O. 16 DE SEPTIEMBRE DE 2011.
+
+PRIMERO.- Las presentes reformas y adiciones, entrarán en vigor al cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas aquellas disposiciones legales, reglamentarias y administrativas municipales que se opongan a las presentes modificaciones.
