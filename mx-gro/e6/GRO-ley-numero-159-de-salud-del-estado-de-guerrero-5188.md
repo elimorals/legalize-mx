@@ -4,7 +4,7 @@ identifier: "GRO-ley-numero-159-de-salud-del-estado-de-guerrero-5188"
 country: "mx"
 rank: "ley"
 publication_date: "1995-04-25"
-last_updated: "2010-08-20"
+last_updated: "2011-09-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5188&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY NUM. 159, DE SALUD DEL ESTADO DE GUERRERO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE AGOSTO DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE SEPTIEMBRE DE 2011.
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el martes 25 de abril de 1995.
 
@@ -347,9 +347,9 @@ I.- La atención médica, preferentemente en beneficio de grupos vulnerables;
 
 II.- La atención materno-infantil;
 
-> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2007)</small>
+> <small>(REFORMADA, P.O. 16 DE SEPTIEMBRE DE 2011)</small>
 
-III.- El programa de nutrición materno - infantil en los pueblos y comunidades indígenas;
+III.- El programa de nutrición materno-infantil en las comunidades indígenas del Estado, el cual ha de diseñarse, planearse y administrarse en coordinación, consulta y consenso con los Pueblos y comunidades indígenas, tomando en cuenta sus especificidades culturales;
 
 > <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2007)</small>
 
@@ -363,9 +363,9 @@ V.- La salud mental;
 
 VI.- La organización, coordinación y vigilancia del ejercicio de las actividades profesionales, técnicas y auxiliares para la salud;
 
-> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2007)</small>
+> <small>(REFORMADA, P.O. 16 DE SEPTIEMBRE DE 2011)</small>
 
-VII.- La promoción de la formación de recursos humanos para la salud;
+VII.- La promoción de la formación de recursos humanos para la salud, con énfasis en la formación y capacitación de parteras tradicionales.
 
 > <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2007)</small>
 
@@ -483,35 +483,39 @@ El Sistema Estatal de Salud tiene los siguientes objetivos:
 
 I.- Proporcionar servicios de salud a toda la población del Estado y mejorar la calidad de los mismos, atendiendo a los problemas sanitarios prioritarios y a los factores que condicionen y causen daños a la salud, con especial interés en las acciones preventivas;
 
-II.- Contribuir al desarrollo demográfico armónico del Estado;
+> <small>(ADICIONADA, P.O. 16 DE SEPTIEMBRE DE 2011)</small>
 
-III.- Colaborar al bienestar social de la población del Estado, mediante servicios de asistencia social, principalmente a menores en estado de abandono, ancianos desamparados y minusválidos, para fomentar su bienestar y propiciar su incorporación a una vida equilibrada en lo económico y social;
+II.- Identificar las causas de morbilidad y mortalidad específicas de los Pueblos Indígenas que habitan en la entidad, a través de incorporar en el Sistema Único de Información de la Secretaría de Salud, una variable que registre la pertenencia del usuario a un grupo étnico.
 
-IV.- Dar impulso al desarrollo de la familia y de la comunidad, así como la integración social y al crecimiento físico y mental de la niñez;
+III.- Contribuir al desarrollo demográfico armónico del Estado;
 
-> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2007)</small>
+IV.- Colaborar al bienestar social de la población del Estado, mediante servicios de asistencia social, principalmente a menores en estado de abandono, ancianos desamparados y minusválidos, para fomentar su bienestar y propiciar su incorporación a una vida equilibrada en lo económico y social;
 
-V.- Impulsar el bienestar y el desarrollo de las familias y comunidades indígenas que propicien el desarrollo de sus potencialidades político - sociales y culturales, con su participación, y tomando en cuenta sus valores y organización social;
-
-> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2007)</small>
-
-VI.- Apoyar el mejoramiento de las condiciones sanitarias del medio ambiente del Estado que propicien el desarrollo satisfactorio de la vida;
+V.- Dar impulso al desarrollo de la familia y de la comunidad, así como la integración social y al crecimiento físico y mental de la niñez;
 
 > <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2007)</small>
 
-VII.- Impulsar, en el ámbito estatal un sistema racional de administración y desarrollo de los recursos humano (sic) para mejorar la salud, y (sic)
+VI.- Impulsar el bienestar y el desarrollo de las familias y comunidades indígenas que propicien el desarrollo de sus potencialidades político - sociales y culturales, con su participación, y tomando en cuenta sus valores y organización social;
 
 > <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2007)</small>
 
-VIII.- Coadyuvar a la modificación de los patrones culturales que determinen hábitos, costumbres y actitudes relacionados con la salud y con el uso de los servicios que presten para su protección;
+VII.- Apoyar el mejoramiento de las condiciones sanitarias del medio ambiente del Estado que propicien el desarrollo satisfactorio de la vida;
+
+> <small>(REFORMADA, P.O. 16 DE SEPTIEMBRE DE 2011)</small>
+
+VIII.- Impulsar, en el ámbito estatal un sistema racional de administración y desarrollo de los recursos humano (sic) para mejorar la salud;
+
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2007)</small>
+
+IX.- Coadyuvar a la modificación de los patrones culturales que determinen hábitos, costumbres y actitudes relacionados con la salud y con el uso de los servicios que presten para su protección.
+
+> <small>(REFORMADA, P.O. 16 DE SEPTIEMBRE DE 2011)</small>
+
+X.- Promover y fortalecer el conocimiento, desarrollo y práctica de la medicina indígena tradicional en condiciones adecuadas, formando, capacitando y acreditando a las parteras tradicionales, incluyendo sus métodos preventivos, diagnósticos y terapéuticos, así como el uso de plantas medicinales y otros recursos curativos, de acuerdo a las especificidades de cada región, en términos de lo que señalen las Leyes General y Estatal de Salud, y demás ordenamientos legales aplicables; y
 
 > <small>(ADICIONADA, P.O. 6 DE NOVIEMBRE DE 2007)</small>
 
-IX.- Promover el conocimiento y desarrollo de la medicina tradicional indígena y su práctica en condiciones adecuadas;
-
-> <small>(ADICIONADA, P.O. 6 DE NOVIEMBRE DE 2007)</small>
-
-X.- Promover dentro de su respectivo ámbito de competencia, la realización de programas específicos, menús de alimentos con alto contenido nutricional, y campañas contra la mala nutrición, el sobrepeso y la obesidad, utilizando todos los medios de comunicación que estén a su alcance en programas de concientización y divulgación.
+XI.- Promover dentro de su respectivo ámbito de competencia, la realización de programas específicos, menús de alimentos con alto contenido nutricional, y campañas contra la mal nutrición, el sobrepeso y la obesidad, utilizando todos los medios de comunicación que estén a su alcance en programas de concientización y divulgación.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE OCTUBRE DE 1999)</small>
 
@@ -522,6 +526,10 @@ La Coordinación del Sistema Estatal de Salud, estará a cargo de la Secretaría
 > <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 1999)</small>
 
 I.- Establecer, conducir y ejecutar la política estatal en materia de salud, en los términos de esta Ley y demás disposiciones legales aplicables y de conformidad con las políticas del Sistema Nacional de Salud y con lo dispuesto por el Ejecutivo Estatal;
+
+> <small>(ADICIONADO, P.O. 16 DE SEPTIEMBRE DE 2011)</small>
+
+Formular, difundir y vigilar el cumplimiento de los programas nacional y estatal de salud, estableciendo los convenios correspondientes con la federación, los ayuntamientos y las autoridades de las comunidades indígenas del estado, para los mismos fines; garantizando la participación efectiva de las comunidades y de las personas que ejercen la medicina indígena tradicional, tomando en cuenta sus métodos preventivos, diagnósticos y terapéuticos, incluyendo el uso de plantas medicinales y otros recursos curativos; en términos de lo que disponga la presente ley y demás ordenamientos legales aplicables.
 
 II.- Coordinar los programas de servicios de salud de las dependencias y entidades de la Administración Pública Estatal;
 
@@ -560,6 +568,10 @@ XVI.- Las demás atribuciones, afines a las anteriores, que se requieran para el
 ###### ARTICULO 19.
 
 La Secretaría de Salud, promoverá la participación en el Sistema Estatal de Salud, de los prestadores de servicios de salud de los Sectores Público, Social y Privado, de sus trabajadores y de los usuarios de los mismos, así como de las autoridades o representantes de las comunidades indígenas, en los términos de las disposiciones que al efecto se expidan.
+
+> <small>(ADICIONADO, P.O. 16 DE SEPTIEMBRE DE 2011)</small>
+
+Dentro del Sistema Estatal de Salud se promoverá la formación y capacitación intercultural del personal sanitario que labora en las regiones y comunidades indígenas, así como de los recursos comunitarios para la salud, tales como los terapeutas indígenas tradicionales, parteras y promotores de salud.
 
 Asimismo, fomentará la coordinación con los proveedores de insumos para la salud, a fin de racionalizar y procurar la disponibilidad de éstos últimos.
 
@@ -601,9 +613,17 @@ I.- Coordinar el sistema estatal de salud y coadyuvar en su funcionamiento y con
 
 II.- Formular y desarrollar programas locales de salud en el marco de los sistemas estatal y nacional de salud y de acuerdo con los principios y objetivos de la planeación nacional;
 
-III.- Celebrar con la Federación los acuerdos de coordinación en materia de salubridad general concurrente y exclusiva, en los términos de la Ley General de Salud y demás disposiciones legales aplicables, y
+III.- Celebrar con la Federación los acuerdos de coordinación en materia de salubridad general concurrente y exclusiva, en los términos de la Ley General de Salud y demás disposiciones legales aplicables, y (sic)
 
-IV.- Las demás atribuciones que sean necesarias para hacer efectivas las facultades anteriores y las que deriven de esta Ley y de más disposiciones generales aplicables.
+> <small>(ADICIONADA, P.O. 16 DE SEPTIEMBRE DE 2011)</small>
+
+IV.- Celebrar con los Pueblos y comunidades indígenas del estado, acuerdos y convenios de coordinación y consulta en materia de salubridad general, en términos de lo dispuesto en las Leyes General y Estatal de Salud, y demás disposiciones legales aplicables;
+
+> <small>(ADICIONADA, P.O. 16 DE SEPTIEMBRE DE 2011)</small>
+
+V.- Diseñar e implementar programas en coordinación con los Pueblos y comunidades indígenas del estado, que faciliten el desarrollo y práctica de la medicina indígena tradicional en condiciones adecuadas, incluyendo sus métodos preventivos, diagnósticos y terapéuticos, así como el uso de plantas medicinales y otros recursos curativos, de acuerdo a las especificidades de cada región, en términos de lo que señalen las Leyes General y Estatal de Salud, y demás ordenamientos legales aplicables. Lo anterior, con el objetivo y finalidad de que se impulse su bienestar y desarrollo, garantizando su plena participación, de acuerdo a sus especificidades culturales; y
+
+VI.- Las demás atribuciones que sean necesarias para hacer efectivas las facultades anteriores y las que deriven de esta Ley y de más disposiciones generales aplicables.
 
 B) En materia de salubridad local:
 
@@ -805,7 +825,13 @@ Las cuotas de recuperación que en su caso se recauden por la prestación de ser
 
 Para la determinación de las cuotas de recuperación se tomará en cuenta el costo de los servicios y las condiciones socioeconómicas del usuario.
 
-Las cuotas de recuperación se fundarán en principios de solidaridad social y guardarán relación con los ingresos de los usuarios, debiéndose eximir del cobro cuando el usuario carezca de recursos para cubrirlas, o en las zonas de menor desarrollo económico y social, conforme a las disposiciones del Gobierno del Estado.
+> <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 2011)</small>
+
+Las cuotas de recuperación se fundarán en principios de solidaridad social y guardarán relación con los ingresos de los usuarios, debiéndose eximir del cobro cuando el usuario carezca de recursos para cubrirlas, o en las zonas de menor desarrollo económico y social, las comunidades indígenas que presenten los más altos índices de pobreza y marginación, conforme a las disposiciones del Gobierno del Estado.
+
+> <small>(ADICIONADO, P.O. 16 DE SEPTIEMBRE DE 2011)</small>
+
+Se eximirá del cobro de las cuotas de recuperación por concepto de atención médica y medicamentos de los servicios incluidos en el paquete básico de servicios de salud (PABSS) a todo menor indígena a partir de su nacimiento hasta los cinco años cumplidos, que no sea beneficiario o derechohabiente de alguna institución del sector salud. Asimismo para otro tipo de padecimientos no incluidos en el PABSS, se considerará la excesión (sic) de pago, previo estudio socioeconómico de la familia solicitante. Cabe hacer mención que por decreto presidencial, todo niño nacido a partir del primero de diciembre del 2006, debe ser incorporado de manera voluntaria al seguro popular.
 
 ###### ARTICULO 46.
 
@@ -863,17 +889,17 @@ Los usuarios tendrán derecho a obtener prestaciones de salud oportunas y de cal
 
 Los usuarios deberán ajustarse a las reglamentaciones internas de las instituciones prestadoras de servicios de salud, y dispensar cuidado y diligencia en el uso y conservación de los materiales y equipos médicos que se pongan a su disposición.
 
-> <small>(REFORMADO, P.O. 15 DE OCTUBRE DE 1999)</small>
+> <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 2011)</small>
 
 ###### ARTICULO 55.
 
-La Secretaría de Salud, establecerá los procedimientos para regular las modalidades de acceso a los servicios públicos de la población en general y los servicios sociales y privados, en el Estado.
+La Secretaría de Salud, establecerá los procedimientos para regular las modalidades de acceso a los servicios públicos de la población en general y los servicios sociales y privados, en el Estado. Procurando el establecimiento de mecanismos y acciones que conlleven al reconocimiento oficial de las parteras tradicionales.
 
-> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2007)</small>
+> <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 2011)</small>
 
 ###### ARTICULO 56.
 
-Las autoridades sanitarias del Estado y las propias instituciones de salud, establecerán sistemas de orientación y asesoría a los usuarios sobre el uso de los servicios de salud que requieran, así como mecanismos para que presenten sus quejas, reclamaciones y sugerencias respecto a la prestación de los servicios de salud y en relación a la falta de probidad, en su caso, de los servidores públicos. En el caso de las poblaciones o comunidades indígenas, las autoridades sanitarias brindarán la asesoría y orientación en español y en la lengua o lenguas en uso en la región o comunidad de que se trate.
+Las autoridades sanitarias del Estado y las propias instituciones de salud, establecerán sistemas de orientación y asesoría a los usuarios sobre el uso de los servicios de salud que requieran, así como mecanismos para que presenten sus quejas, reclamaciones y sugerencias respecto a la prestación de los servicios de salud y en relación a la falta de probidad, en su caso, de los servidores públicos. En el caso de la población indígena, las autoridades sanitarias y los prestadores de servicio de atención a la salud brindarán asesoría y, en su caso, orientación en español y en la lengua o lenguas en uso en la región o comunidad de que se trate, a través de enlaces interculturales o traductores.
 
 ###### ARTICULO 57.
 
@@ -945,9 +971,11 @@ II.- La atención del niño y la vigilancia de su crecimiento, nutrición adecua
 
 III.- La promoción de la integración y del bienestar familiar.
 
+> <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 2011)</small>
+
 ###### ARTICULO 66.
 
-En los servicios de salud se promoverá la organización institucional de comités de prevención de la mortalidad materna e infantil, a efecto de conocer, sistematizar y evaluar el problema y adoptar las medidas conducentes.
+En los servicios de salud se promoverá la organización institucional de comités de prevención de la mortalidad materna e infantil, a efecto de conocer, sistematizar y evaluar el problema y adoptar las medidas conducentes, en esta acción deberá involucrarse a las parteras tradicionales.
 
 ###### ARTICULO 67.
 
@@ -959,9 +987,17 @@ En la organización y operación de los servicios de salud destinados a la atenc
 
 I.- Procedimientos que permitan la participación activa de la familia en la prevención y atención oportuna de los padecimientos de los usuarios;
 
-II.- Acciones de orientación y vigilancia institucional, fomento a la lactancia materna y, en su caso, la ayuda alimentaria directa tendiente a mejorar el estado nutricional del grupo materno-infantil, y
+> <small>(REFORMADA, P.O. 16 DE SEPTIEMBRE DE 2011)</small>
 
-III.- Acciones para controlar las enfermedades prevenibles por vacunación, los procesos diarréicos y las infecciones respiratorias agudas de los menores de 5 años.
+II.- Acciones de orientación y vigilancia institucional, fomento a la lactancia materna y, en su caso, la ayuda alimentaria directa tendiente a mejorar el estado nutricional del grupo materno-infantil,
+
+> <small>(REFORMADA, P.O. 16 DE SEPTIEMBRE DE 2011)</small>
+
+III. - Acciones para controlar las enfermedades prevenibles por vacunación, los procesos diarréicos y las infecciones respiratorias agudas de los menores de 5 años, y
+
+> <small>(ADICIONADA, P.O. 16 DE SEPTIEMBRE DE 2011)</small>
+
+IV. Acciones de capacitación para fortalecer el conocimiento técnico y participación de las parteras tradicionales, para la atención del embarazo, parto y puerperio.
 
 ###### ARTICULO 69.
 
@@ -993,9 +1029,9 @@ Los servicios que se presten en la materia constituyen un medio para el ejercici
 
 Quienes practiquen esterilización sin la voluntad del paciente o ejerzan presión para que éste la admita, serán sancionados conforme a las disposiciones de esta Ley, independientemente de la responsabilidad penal en que incurran.
 
-> <small>(ADICIONADO, P.O. 6 DE NOVIEMBRE DE 2007)</small>
+> <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 2011)</small>
 
-En materia de planificación familiar, las acciones de información y orientación educativa en las comunidades indígenas, deberán llevarse a cabo en español y en la lengua o lenguas indígenas en uso en la región o comunidad de que se trate.
+En materia de planificación familiar, las acciones de información y orientación educativa en las comunidades indígenas, deberán llevarse a cabo de manera adecuada y completa, tomando en cuenta sus especificidades culturales, con personal capacitado en la aplicación del enfoque intercultural, en el idioma español y en la lengua o lenguas indígenas en uso en la región o comunidad de que se trate.
 
 ###### ARTICULO 72.
 
@@ -1013,9 +1049,11 @@ V.- La participación en el establecimiento de mecanismos idóneos para la deter
 
 VI.- La recopilación, sistematización y actualización de la información necesaria para el adecuado seguimiento de las actividades desarrolladas.
 
+> <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 2011)</small>
+
 ###### ARTICULO 73.
 
-Los comités de salud a que se refiere el artículo 62 de esta Ley, promoverán que en las poblaciones y comunidades semiurbanas y rurales en el Estado se impartan pláticas de orientación en materia de planificación familiar y educación sexual, las instituciones de salud y educativas brindarán al efecto el apoyo necesario.
+Los comités de salud a que se refiere el artículo 62 de esta Ley, promoverán que en las poblaciones y comunidades semiurbanas y rurales en el Estado se impartan pláticas de orientación en materia de planificación familiar y educación sexual, tomando en cuenta la participación activa de las parteras tradicionales; las instituciones de salud y educativas brindarán al efecto el apoyo necesario.
 
 ###### ARTICULO 74.
 
@@ -1126,6 +1164,10 @@ El Gobierno del Estado, con la participación de las Instituciones de Educación
 ###### ARTICULO 89.
 
 Las autoridades educativas, en coordinación con las autoridades sanitarias estatales y con la participación de las instituciones de educación superior, recomendarán normas y criterios para la formación de recursos humanos para la salud.
+
+> <small>(ADICIONADO, P.O. 16 DE SEPTIEMBRE DE 2011)</small>
+
+De la misma manera, promoverán la capacitación intercultural de los recursos humanos que laboren en las regiones y comunidades indígenas; en donde se reconozca, respeten y promuevan el desarrollo y fortalecimiento de la medicina indígena tradicional. Los programas de atención a la salud que se desarrollen en comunidades indígenas, deberán ser consultados previamente con dichas comunidades y adaptarse a su estructura social y administrativa, así como a su concepción de la salud y la enfermedad, propiciando una relación médico-paciente apegada al respeto de los derechos humanos.
 
 Las autoridades sanitarias, sin perjuicio de la competencia que sobre la materia corresponda a las autoridades educativas y en coordinación con ellas, así como con la participación de las instituciones de salud, establecerán las normas y criterios para la capacitación y actualización de los recursos humanos para la salud.
 
@@ -1251,9 +1293,11 @@ II.- Factores demográficos, económicos, sociales y ambientales vinculados a la
 
 III.- Recursos físicos, humanos y financieros disponibles para la protección de la salud de la población, y su utilización.
 
+> <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 2011)</small>
+
 ###### ARTICULO 102.
 
-Los establecimientos que presten servicios de salud, los profesionales, técnicos y auxiliares de la salud del Estado, llevarán a cabo estadísticas que en materia de salud les señalen las autoridades sanitarias locales y proporcionarán a éstas y a las autoridades federales competentes, la información correspondiente, sin perjuicio de las obligaciones de suministrar la información que señalen otras disposiciones legales aplicables.
+Los establecimientos que presten servicios de salud, los profesionales, técnicos y auxiliares de la salud del Estado, los municipios y las autoridades de las comunidades indígenas cuando proceda, llevarán a cabo estadísticas que en materia de salud les señalen las autoridades sanitarias locales y proporcionarán a éstas y a las autoridades federales competentes, la información correspondiente, sin perjuicio de las obligaciones de suministrar la información que señalen otras disposiciones legales aplicables.
 
 ## TITULO OCTAVO. PROMOCION DE LA SALUD
 
@@ -1301,9 +1345,9 @@ IV.- Elaborar, distribuir y aplicar listados de productos alimenticios de alto v
 
 Las autoridades sanitarias estatales en coordinación con las autoridades federales competentes, formularán, propondrán y desarrollarán programas de educación para la salud, los cuales podrán ser difundidos en los medios de difusión colectiva que actúen en el ámbito del Estado, procurando optimizar los recursos y alcanzar una cobertura total de la población.
 
-> <small>(ADICIONADO, P.O. 6 DE NOVIEMBRE DE 2007)</small>
+> <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 2011)</small>
 
-Tratándose de las comunidades indígenas, los programas a los que se refiere el párrafo anterior, deberán difundirse en español y la lengua o lenguas indígenas que correspondan.
+Tratándose de las comunidades indígenas, los programas a los que se refiere el párrafo anterior, deberán ser consultados y consensuados con aquellas y difundirse en español y la lengua o lenguas indígenas que correspondan.
 
 ### CAPITULO III. NUTRICION
 
@@ -1391,9 +1435,23 @@ Queda prohibida la descarga de aguas residuales sin el tratamiento para satisfac
 
 La Secretaría de Salud, en coordinación con las autoridades federales y municipales competentes y con la autoridad estatal encargada de la administración del distrito de riego, orientará a la población para evitar la contaminación de aguas de presas, pluviales, lagos y otras que se utilicen para riego o para uso doméstico, originada por plaguicidas, substancias tóxicas y desperdicios o basura.
 
-### CAPITULO I. DISPOSICIONES COMUNES
+### CAPITULO VI. DE LA MEDICINA TRADICIONAL
 
-> <small>(REFORMADO, P.O. 15 DE OCTUBRE DE 1999)</small>
+> <small>(ADICIONADO, P.O. 16 DE SEPTIEMBRE DE 2011)</small>
+
+ARTICULO 115 BIS.- La Secretaría, en coordinación, consulta y consenso con las comunidades indígenas, diseñará e implementará programas que fortalezcan el conocimiento, práctica y desarrollo de la medicina indígena tradicional, como una forma de atención a la salud.
+
+En los programas de salud instrumentados en las regiones y comunidades indígenas se complementarán, en la medida de lo posible, con los métodos de prevención, diagnóstico y tratamiento de la medicina indígena tradicional, incluyendo el uso de plantas medicinales y otros recursos curativos, de acuerdo a las especificidades de cada región, en términos de lo que señalen las Leyes General y Estatal de Salud, y demás ordenamientos legales aplicables.
+
+> <small>(ADICIONADO, P.O. 16 DE SEPTIEMBRE DE 2011)</small>
+
+ARTICULO 115 TER. - La Secretaría de Salud, en coordinación con las instancias que integra el Sistema Estatal de Salud, diseñarán y aplicarán, previa consulta y consenso con las comunidades indígenas, programas que brinden las facilidades necesarias para la asistencia y colaboración con los terapeutas indígenas y parteras tradicionales; promoviendo la realización de programas educativos de fomento y mejoramiento de la salud, en los que participen activamente en sus respectivas comunidades, en términos de lo que señala esta ley y demás ordenamientos legales aplicables.
+
+> <small>(ADICIONADO, P.O. 16 DE SEPTIEMBRE DE 2011)</small>
+
+ARTICULO 115 QUATER.- Tanto la Secretaría de Salud como las instancias que conforman el Sistema Estatal de Salud, garantizarán que los métodos y prácticas de la medicina indígena tradicional lleguen a toda la población cuando ésta así lo requiera. Asimismo, se establecerán en las regiones y comunidades indígenas Centros de Desarrollo de la Medicina Indígena Tradicional, a partir de un proceso de consulta y consenso con los Pueblos Indígenas.
+
+La Secretaría de Salud, reconocerá y certificara, a través, de programas de capacitación a los terapeutas indígenas, así como a las parteras tradicionales, que presten sus servicios en los Centros, de Desarrollo de la Medicina Indígena Tradicional a que se refiere el párrafo anterior.
 
 ###### ARTICULO 114.
 
@@ -1403,17 +1461,21 @@ La Secretaría de Salud, tendrá a su cargo el control sanitario de los establec
 
 El Gobierno del Estado, en coordinación con las dependencias y entidades federales competentes, desarrollará y difundirá investigación multidisciplinaria que permita prevenir y controlar las enfermedades y accidentes ocupacionales, así como estudios para adecuar los instrumentos y equipo de trabajo a las características del hombre.
 
-### CAPITULO II. ENFERMEDADES TRANSMISIBLES
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 16 DE SEPTIEMBRE DE 2011)</small>
+
+### CAPITULO I. DISPOSICIONES COMUNES
+
+> <small>(REFORMADO, P.O. 15 DE OCTUBRE DE 1999)</small>
 
 ## TITULO NOVENO. PREVENCION Y CONTROL DE ENFERMEDADES Y ACCIDENTES
 
-### CAPITULO III. ENFERMEDADES NO TRANSMISIBLES
+### CAPITULO II. ENFERMEDADES TRANSMISIBLES
 
 ###### ARTICULO 116.
 
 Corresponde a la Secretaría de Salud en coordinación con las autoridades federales, realizar actividades de vigilancia epidemiológica, de prevención y control de las enfermedades transmisibles, la prevención y control de las no transmisibles y la investigación, prevención y control de accidentes.
 
-### CAPITULO IV. ACCIDENTES
+### CAPITULO III. ENFERMEDADES NO TRANSMISIBLES
 
 ###### ARTICULO 117.
 
@@ -1527,7 +1589,7 @@ El transporte de enfermos de afecciones transmisibles deberá efectuarse en veh�
 
 Las autoridades sanitarias determinarán los casos en que se deba proceder a la descontaminación microbiana o parasitaria, desinfección, desinsectación, desinfestación u otras medidas de saneamiento de lugares, edificios, vehículos y objetos.
 
-### CAPITULO UNICO
+### CAPITULO IV. ACCIDENTES
 
 ###### ARTICULO 131.
 
@@ -1551,7 +1613,7 @@ V.- Las demás que sean necesarias para la prevención, tratamiento y control de
 
 Los profesionales, técnicos y auxiliares de la salud deberán rendir los informes que la autoridad sanitaria requiera acerca de las enfermedades no transmisibles, en los términos de los reglamentos que al efecto se expidan.
 
-### CAPITULO I. PROGRAMA CONTRA EL ALCOHOLISMO Y EL ABUSO DE BEBIDAS ALCOHOLICAS
+### CAPITULO UNICO
 
 ###### ARTICULO 134.
 
@@ -1581,7 +1643,7 @@ Dicho consejo se coordinará con el Consejo Nacional para la Prevención de Acci
 
 ## TITULO DECIMO. ASISTENCIA SOCIAL, PREVENCION DE INVALIDEZ Y REHABILITACION DE INVALIDOS
 
-### CAPITULO II. PROGRAMA CONTRA EL TABAQUISMO
+### CAPITULO I. PROGRAMA CONTRA EL ALCOHOLISMO Y EL ABUSO DE BEBIDAS ALCOHOLICAS
 
 ###### ARTICULO 136.
 
@@ -1727,7 +1789,7 @@ El organismo del Gobierno del Estado previsto en el artículo 141 de ésta Ley t
 
 ## TITULO DECIMO PRIMERO. PROGRAMA CONTRA LAS ADICCIONES
 
-### CAPITULO III. PROGRAMA CONTRA LA FARMACODEPENDENCIA
+### CAPITULO II. PROGRAMA CONTRA EL TABAQUISMO
 
 ###### ARTICULO 160.
 
@@ -1751,9 +1813,7 @@ III.- Hábitos de consumo de alcohol en los diferentes grupos de población, y
 
 IV.- Efectos del abuso de bebidas alcohólicas en los ámbitos familiar, social, deportivo, de los espectáculos, laboral y educativo.
 
-### CAPITULO UNICO
-
-> <small>(REFORMADO, P.O. 15 DE OCTUBRE DE 1999)</small>
+### CAPITULO III. PROGRAMA CONTRA LA FARMACODEPENDENCIA
 
 ###### ARTICULO 162.
 
@@ -1771,7 +1831,9 @@ I.- La investigación de las causas del tabaquismo y de las acciones para contro
 
 II.- La educación a la familia para prevenir el consumo de tabaco por parte de niños y adolescentes.
 
-### CAPITULO I. DISPOSICIONES COMUNES
+### CAPITULO UNICO
+
+> <small>(REFORMADO, P.O. 15 DE OCTUBRE DE 1999)</small>
 
 ###### ARTICULO 164.
 
@@ -1793,7 +1855,7 @@ A los establecimientos que vendan o utilicen substancias e inhalantes con efecto
 
 ## TITULO DECIMO SEGUNDO. DE LOS EXPENDIOS DE ALIMENTOS, BEBIDAS NO ALCOHOLICAS Y ALCOHOLICAS
 
-### CAPITULO II. MERCADOS Y CENTROS DE ABASTO
+### CAPITULO I. DISPOSICIONES COMUNES
 
 ###### ARTICULO 166.
 
@@ -1813,7 +1875,7 @@ Los propietarios o encargados de los establecimientos en que se expendan o sumin
 
 ## TITULO DECIMO TERCERO. SALUBRIDAD LOCAL
 
-### CAPITULO III. CONSTRUCCIONES
+### CAPITULO II. MERCADOS Y CENTROS DE ABASTO
 
 ###### ARTICULO 170.
 
@@ -1891,7 +1953,7 @@ El organismo publicará en el Periódico Oficial del Estado, las normas en mater
 
 Las notificaciones que conforme a esta Ley deban publicarse, surtirán efectos a partir del día siguiente de su publicación.
 
-### CAPITULO IV. CEMENTERIOS, CREMATORIOS Y FUNERARIAS
+### CAPITULO III. CONSTRUCCIONES
 
 ###### ARTICULO 177.
 
@@ -1915,7 +1977,7 @@ Los vendedores, locatarios y personas que su actividad esté vinculada con los m
 
 La Secretaría de Salud realizará periódicamente una supervisión en las centrales de abasto para determinar el contenido de agroquímicos en los alimentos perecederos o la presencia de coliformes, si se cultivan con aguas negras.
 
-### CAPITULO V. LIMPIEZA PUBLICA
+### CAPITULO IV. CEMENTERIOS, CREMATORIOS Y FUNERARIAS
 
 ###### ARTICULO 180.
 
@@ -1955,7 +2017,7 @@ Los propietarios o poseedores de los edificios y locales, o de los negocios en e
 
 Cuando los edificios, construcciones o terrenos representen un peligro por su insalubridad o inseguridad, las autoridades sanitarias competentes, podrán ordenar la ejecución de las obras que estimen de urgencia con cargo a sus propietarios, encargados o poseedores o a los dueños de las negociaciones en ellos establecidos, cuando no las realicen dentro de los plazos concedidos.
 
-### CAPITULO VI. RASTROS
+### CAPITULO V. LIMPIEZA PUBLICA
 
 ###### ARTICULO 189.
 
@@ -1987,7 +2049,7 @@ Los cementerios deberán contar con áreas verdes y zonas destinadas a reforesta
 
 La aprobación de las solicitudes de refrigeración, exhumación y cremación de cadáveres deberán ajustarse a las medidas de higiene y seguridad sanitaria que al efecto expida el organismo y las normas que dicte la Secretaría de Salud del Gobierno Federal.
 
-### CAPITULO VII. AGUA POTABLE Y ALCANTARILLADO
+### CAPITULO VI. RASTROS
 
 ###### ARTICULO 195.
 
@@ -2027,9 +2089,7 @@ El Gobierno del Estado, por conducto de sus municipios, proveerá de depósitos 
 
 Para toda actividad relacionada con este capítulo, se estará a lo dispuesto por esta Ley, otras disposiciones legales aplicables y las normas correspondientes.
 
-### CAPITULO VIII
-
-ESTABLOS, GRANJAS AVICOLAS, PORCICOLAS, APIARIOS Y ESTABLECIMIENTOS SIMILARES.
+### CAPITULO VII. AGUA POTABLE Y ALCANTARILLADO
 
 ###### ARTICULO 201.
 
@@ -2067,7 +2127,9 @@ La norma técnica correspondiente, establecerá los requisitos sanitarios y medi
 
 El sacrificio de animales en los rastros se efectuarán en los días y horas que fijen las autoridades sanitaria y municipal, tomando en consideración las condiciones del lugar y los elementos de que dispongan dichas autoridades para realizar las verificaciones necesarias.
 
-### CAPITULO IX. PROSTITUCION
+### CAPITULO VIII
+
+ESTABLOS, GRANJAS AVICOLAS, PORCICOLAS, APIARIOS Y ESTABLECIMIENTOS SIMILARES.
 
 ###### ARTICULO 209.
 
@@ -2109,7 +2171,7 @@ Los proyectos para la implantación del sistema de alcantarillado deberán ser e
 
 Queda prohibido que los desechos o líquidos que conduzcan los caños sean vertidos en los ríos, arroyos, acueductos, corrientes o canales por donde fluyan aguas destinadas al uso o consumo humano, en todo caso deberán ser tratados y cumplir con las normas oficiales mexicanas en materia de contaminación.
 
-### CAPITULO X. RECLUSORIOS O CENTROS DE READAPTACION SOCIAL
+### CAPITULO IX. PROSTITUCION
 
 ###### ARTICULO 218.
 
@@ -2133,7 +2195,7 @@ Los establecimientos a que se refiere este capítulo, no podrán ser ubicados en
 
 Las condiciones y requisitos sanitarios que deban reunir los establecimientos a que de refiere el artículo 218 de esta Ley, serán fijados en las disposiciones reglamentarias y las normas correspondientes.
 
-### CAPITULO XI. BAÑOS PUBLICOS
+### CAPITULO X. RECLUSORIOS O CENTROS DE READAPTACION SOCIAL
 
 ###### ARTICULO 221.
 
@@ -2165,7 +2227,7 @@ Queda prohibido el acceso de menores de edad al interior de los establecimientos
 
 La autoridad municipal, determinará los lugares en donde se permitirá el ejercicio de la prostitución, para lo cual solicitará la opinión de la Secretaría de Salud, de conformidad con las disposiciones legales reglamentarias aplicables.
 
-### CAPITULO XII. CENTROS DE REUNION Y ESPECTACULOS
+### CAPITULO XI. BAÑOS PUBLICOS
 
 ###### ARTICULO 228.
 
@@ -2187,7 +2249,7 @@ Tratándose de enfermedades de emergencia, graves o cuando así lo requiera el t
 
 Las personas encargadas de los servicios médicos de los reclusorios o centros de readaptación social, deberán a partir de que tengan conocimiento de alguna enfermedad transmisible adoptar las medidas de seguridad sanitaria que procedan, para evitar la propagación de la misma, así como observar lo dispuesto por el artículo 118 de esta Ley.
 
-### CAPITULO XIII. ESTABLECIMIENTOS DEDICADOS A LA PRESTACION DE SERVICIOS COMO PELUQUERIAS, SALONES DE BELLEZA O ESTETICAS Y OTROS SIMILARES
+### CAPITULO XII. CENTROS DE REUNION Y ESPECTACULOS
 
 ###### ARTICULO 232.
 
@@ -2203,7 +2265,7 @@ Para abrir al servicio público estos establecimientos, deberá notificarse a la
 
 La actividad de estos establecimientos estará sujeta a lo dispuesto por esta Ley, otras disposiciones legales aplicables y a las normas oficiales mexicanas en materia de salubridad local correspondientes que dicte la Secretaría de Salud.
 
-### CAPITULO XIV. TINTORERIAS, LAVANDERIAS Y LAVADEROS PUBLICOS
+### CAPITULO XIII. ESTABLECIMIENTOS DEDICADOS A LA PRESTACION DE SERVICIOS COMO PELUQUERIAS, SALONES DE BELLEZA O ESTETICAS Y OTROS SIMILARES
 
 ###### ARTICULO 235.
 
@@ -2219,7 +2281,7 @@ La autoridad sanitaria competente, una vez terminada la edificación del centro 
 
 El funcionamiento de los establecimientos a que se refiere el artículo 235 de esta Ley, deberá acatar lo expuesto por las disposiciones legales aplicables y contará con los servicios de seguridad e higiene que se establezcan en los reglamentos de esta Ley, otras disposiciones legales aplicables y las normas oficiales mexicanas correspondientes.
 
-### CAPITULO XV. ESTABLECIMIENTOS PARA EL HOSPEDAJE
+### CAPITULO XIV. TINTORERIAS, LAVANDERIAS Y LAVADEROS PUBLICOS
 
 ###### ARTICULO 238.
 
@@ -2229,7 +2291,7 @@ Para los efectos de esta Ley, se entiende por peluquería, salones de belleza y 
 
 El funcionamiento y personal de los establecimientos señalados en el artículo 238 deberán apegarse a lo establecido en esta Ley, otras disposiciones legales aplicables y a las normas técnicas correspondientes.
 
-### CAPITULO XVI. TRANSPORTE ESTATAL Y MUNICIPAL
+### CAPITULO XV. ESTABLECIMIENTOS PARA EL HOSPEDAJE
 
 ###### ARTICULO 240.
 
@@ -2245,7 +2307,7 @@ III.- Lavadero público: el establecimiento al cual acuden los interesados para 
 
 Corresponde a la autoridad sanitaria competente ejercer la verificación sanitaria de los establecimientos a que se refiere este capítulo, conforme a las disposiciones legales aplicables.
 
-### CAPITULO XVII. GASOLINERIAS
+### CAPITULO XVI. TRANSPORTE ESTATAL Y MUNICIPAL
 
 ###### ARTICULO 242.
 
@@ -2261,7 +2323,7 @@ La Secretaría de Salud, realizará la verificación sanitaria a los establecimi
 
 Para la construcción o acondicionamiento de un inmueble que se pretenda destinar como establecimiento para el hospedaje, así como para su funcionamiento, se deberá notificar de acuerdo a lo que establece el artículo 174 de esta Ley.
 
-### CAPITULO XVIII. PREVENCION Y CONTROL DE LA RABIA EN ANIMALES Y SERES HUMANOS
+### CAPITULO XVII. GASOLINERIAS
 
 ###### ARTICULO 245.
 
@@ -2273,7 +2335,7 @@ Para los efectos de esta Ley, se entiende por transporte, todo aquel vehículo d
 
 Los transportes que circulen por uno o más Municipios del Estado, no requerirán de autorización sanitaria, debiendo cumplir con los requisitos sanitarios establecidos en las disposiciones reglamentarias aplicables y las normas oficiales mexicanas que para tal efecto se emitan.
 
-### CAPITULO I. AUTORIZACIONES
+### CAPITULO XVIII. PREVENCION Y CONTROL DE LA RABIA EN ANIMALES Y SERES HUMANOS
 
 ###### ARTICULO 247.
 
@@ -2285,7 +2347,7 @@ Para los efectos de esta Ley, se entiende por gasolinería el establecimiento de
 
 Las gasolinerías deberán contar con las instalaciones de seguridad que establezcan las disposiciones legales y reglamentarias aplicables y las normas oficiales mexicanas correspondientes.
 
-### CAPITULO II. REVOCACION DE AUTORIZACIONES SANITARIAS
+### CAPITULO I. AUTORIZACIONES
 
 ###### ARTICULO 249.
 
@@ -2321,7 +2383,7 @@ Las autoridades sanitarias, mantendrán campañas permanentes de orientación a 
 
 ## TITULO DECIMO CUARTO. AUTORIZACIONES Y CERTIFICADOS
 
-### CAPITULO III. CERTIFICADOS
+### CAPITULO II. REVOCACION DE AUTORIZACIONES SANITARIAS
 
 ###### ARTICULO 253.
 
@@ -2365,7 +2427,7 @@ Las autorizaciones a que se refiere esta Ley podrán ser revisadas por la autori
 
 Los derechos a que se refiere esta Ley se regirán por lo que disponga la legislación fiscal y los convenios de coordinación que celebren en la materia, el Gobierno del Estado con el Ejecutivo Federal.
 
-### CAPITULO UNICO
+### CAPITULO III. CERTIFICADOS
 
 ###### ARTICULO 261.
 
@@ -2425,7 +2487,7 @@ La autoridad sanitaria competente emitirá la resolución que corresponda al con
 
 La resolución administrativa o de revocación en su caso, surtirá efectos, de clausura definitiva, prohibición de uso, de venta o de ejercicio de las actividades a que se refiere la autorización revocada.
 
-### CAPITULO I. MEDIDAS DE SEGURIDAD SANITARIA
+### CAPITULO UNICO
 
 ###### ARTICULO 269.
 
@@ -2459,11 +2521,15 @@ Las autoridades judiciales o administrativas sólo admitirán como válidos los 
 
 ## TITULO DECIMO QUINTO. VIGILANCIA SANITARIA
 
-### CAPITULO II. SANCIONES ADMINISTRATIVAS
+### CAPITULO I. MEDIDAS DE SEGURIDAD SANITARIA
 
 ###### ARTICULO 274.
 
 Corresponde a las autoridades sanitarias del Estado, en el ámbito de sus respectivas competencias, la vigilancia del cumplimiento de esta Ley y demás disposiciones reglamentarias que se dicten con base en ella.
+
+> <small>(ADICIONADO, P.O. 16 DE SEPTIEMBRE DE 2011)</small>
+
+La participación de las autoridades municipales y de las autoridades de las comunidades indígenas, se determinará por los convenios que celebren al respecto y por lo que dispongan los demás ordenamientos locales aplicables.
 
 ###### ARTICULO 275.
 
@@ -2563,7 +2629,7 @@ En el caso de los productos recogidos en procedimientos de muestreo o verificaci
 
 ## TITULO DECIMO SEXTO. MEDIDAS DE SEGURIDAD SANITARIA Y SANCIONES
 
-### CAPITULO III. PROCEDIMIENTO PARA APLICAR LAS MEDIDAS DE SEGURIDAD Y SANCIONES
+### CAPITULO II. SANCIONES ADMINISTRATIVAS
 
 ###### ARTICULO 286.
 
@@ -2663,7 +2729,7 @@ Los productos perecederos que no se reclamen por los interesados dentro de las v
 
 La desocupación o desalojo de casas, edificios, establecimientos y, en general, de cualquier predio, se ordenará, previa la observancia de la garantía de audiencia y de dictamen pericial, cuando, a juicio de las autoridades sanitarias, se considere que es indispensable para evitar un daño grave a la salud o la vida de las personas.
 
-### CAPITULO IV. RECURSO DE INCONFORMIDAD
+### CAPITULO III. PROCEDIMIENTO PARA APLICAR LAS MEDIDAS DE SEGURIDAD Y SANCIONES
 
 ###### ARTICULO 299.
 
@@ -2689,7 +2755,9 @@ I.- Los daños que se hayan producido o puedan producirse en la salud de las per
 
 II.- La gravedad de la infracción;
 
-III.- Las condiciones socio-económicas del infractor, y
+> <small>(REFORMADA, P.O. 16 DE SEPTIEMBRE DE 2011)</small>
+
+III.- Las condiciones socio-económicas y las características culturales del infractor, y
 
 IV.- La calidad de reincidente del infractor.
 
@@ -2753,7 +2821,7 @@ Sólo procederá esta sanción, si previamente se dictó cualquiera otra de las 
 
 Impuesto el arresto, se comunicará la resolución a la autoridad correspondiente para que la ejecute.
 
-### CAPITULO V. PRESCRIPCION
+### CAPITULO IV. RECURSO DE INCONFORMIDAD
 
 ###### ARTICULO 311.
 
@@ -2826,6 +2894,8 @@ En los casos de suspensión de trabajos o de servicios o de clausura temporal o 
 ###### ARTICULO 320.
 
 Cuando del contenido de un acta de verificación se desprenda la posible comisión de uno o varios delitos, la autoridad sanitaria competente formulará la denuncia correspondiente ante el Ministerio Público, sin perjuicio de la aplicación de la sanción administrativa que proceda.
+
+### CAPITULO V. PRESCRIPCION
 
 ###### ARTICULO 321.
 
@@ -3034,3 +3104,11 @@ PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado, en dos diarios de circulación estatal, así como en la página web del Congreso del Estado, para el conocimiento general y efectos legales procedentes.
 
 TERCERO.- Notifíquese a las autoridades competentes, para los efectos legales conducentes.
+
+P.O. 16 DE SEPTIEMBRE DE 2011.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+SEGUNDO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado, así como en la página web del Congreso del Estado, para el conocimiento general y efectos legales procedentes.
+
+TERCERO.- Notifíquese a las Autoridades competentes.
