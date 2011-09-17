@@ -4,7 +4,7 @@ identifier: "OAX-reglamento-interno-del-comite-de-informacion-y-de-la-unidad-832
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-09-10"
-last_updated: "2011-09-10"
+last_updated: "2011-09-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=83281&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,11 +22,9 @@ state: "OAX"
 
 REGLAMENTO INTERNO DEL COMITE DE INFORMACION Y DE LA UNIDAD DE ENLACE DEL SISTEMA DIF OAXACA
 
-> <small>N. DE E. ESTE ORDENAMIENTO CUENTA CON UNA SEGUNDA IMPRESION EN LA TERCERA SECCION DEL PERIODICO OFICIAL No. 38 DE FECHA 17 DE SEPTIEMBRE DE 2011.</small>
+> <small>N. DE E. ESTE ORDENAMIENTO ES UNA REIMPRESION DEL PUBLICADO EN LA TERCERA SECCION DEL PERIODICO OFICIAL No. 37 DE FECHA 11 DE SEPTIEMBRE DE 2011.</small>
 
 TEXTO ORIGINAL.
-
-Reglamento publicado en la Tercera Sección del Periódico Oficial del Estado de Oaxaca, el sábado 10 de septiembre de 2011.
 
 El Comité de Información del Sistema para el Desarrollo Integral de la Familia del Estado de Oaxaca, en uso de las atribuciones que le confieren los artículos 45 y 46 de la Ley de Transparencia y Acceso a la Información Pública para el Estado de Oaxaca, así como las conferidas por el artículo vigésimo sexto de los Lineamientos para la Regulación Interna de los Sujetos Obligados por la Ley de Transparencia y Acceso a la Información Pública para el Estado de Oaxaca, en relación con el Establecimiento y Operación de sus Comités de Información y Unidades de Enlace, y
 
