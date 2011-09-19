@@ -4,7 +4,7 @@ identifier: "HID-constitucion-politica-del-estado-de-hidalgo-5440"
 country: "mx"
 rank: "constitucion"
 publication_date: "1920-10-01"
-last_updated: "2011-03-21"
+last_updated: "2011-09-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5440&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 CONSTITUCION POLITICA DEL ESTADO DE HIDALGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE MARZO DE 2011.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE SEPTIEMBRE DE 2011.
 
 Constitución publicada en el Periódico Oficial del Estado de Hidalgo, el 1 de octubre de 1920.
 
@@ -643,11 +643,11 @@ Los Diputados son inviolables por las opiniones que manifiesten en el desempeño
 
 El Presidente del Congreso, velará por el respeto al fuero constitucional de los Diputados y por la inviolabilidad del Recinto Oficial.
 
-> <small>(REFORMADO, P.O. 19 DE ABRIL DE 2004)</small>
+> <small>(REFORMADO, P.O. 19 DE SEPTIEMBRE DE 2011)</small>
 
 ###### Artículo 35.
 
-Los Diputados en ejercicio, no podrán desempeñar ningún empleo, cargo o comisión de los Gobiernos Federal, Estatal o Municipal, salvo el académico o de beneficencia pública. La violación de esta disposición, será sancionada con la pérdida del cargo de Diputado.
+Los diputados en funciones durante el periodo de su encargo, no podrán desempeñar algún otro empleo, cargo o comisión de los Gobiernos Federal, Estatal o Municipal, por el que se disfrute de sueldo, remuneración, honorarios, gratificación o cualquiera otra ministración de dinero, sin previa licencia del Congreso. En tanto se encuentren desempeñando dicho cargo, empleo o comisión públicos cesarán en su función representativa. La infracción de esta disposición será castigada con la pérdida del carácter de diputado.
 
 > <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2009)</small>
 
@@ -3155,7 +3155,7 @@ P.O. 15 DE MARZO DE 2007.
 
 DECRETO NUM. 347 QUE ADICIONA EL ARTICULO 4 TER DE LA CONSTITUCION.
 
-UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su Publicación en el Periódico Oficial del Estado.
 
 P.O. 15 DE MARZO DE 2007.
 
@@ -3304,3 +3304,9 @@ DECRETO NUMERO 590, POR EL QUE SE REFORMAN LOS ARTICULOS 56 FRACCION XXXII Y 109
 PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 19 DE SEPTIEMBRE DE 2011.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su Publicación en el Periódico Oficial del Estado de Hidalgo.
