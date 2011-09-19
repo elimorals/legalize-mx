@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-del-servicio-de-seguridad-publica-para-el-77410"
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-10-29"
-last_updated: "2010-10-29"
+last_updated: "2011-09-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77410&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 REGLAMENTO DEL SERVICIO DE SEGURIDAD PUBLICA PARA EL MUNICIPIO DE TIJUANA, BAJA CALIFORNIA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE SEPTIEMBRE DE 2011.
 
 Reglamento publicado en la Sección I del Periódico Oficial del Estado de Baja California, el viernes 29 de octubre de 2010.
 
@@ -191,25 +191,29 @@ En los procedimientos que instruya la Comisión se salvará en todo tiempo la ga
 
 ### CAPITULO SEGUNDO. DE LA INTEGRACIÓN Y FUNCIONAMIENTO DE LA COMISIÓN DE DESARROLLO POLICIAL
 
+> <small>(REFORMADO, P.O. 19 DE SEPTIEMBRE DE 2011)</small>
+
 ###### ARTÍCULO 13.
 
-Si la naturaleza del asunto a tratar corresponde a una controversia que se suscite con relación al Régimen Disciplinario, la Comisión se integrará de la forma siguiente:
+Si la naturaleza del asunto a tratar corresponde a una controversia que se suscite con la relación al Régimen Disciplinario, la Comisión se integrara de la forma siguiente:
 
-I. Un Presidente, que será el Secretario de Seguridad Pública;
+I.- Un presidente, que será el Secretario de Seguridad Pública;
 
-II. Un Secretario Técnico; designado y removido libremente por el Secretario; quien deberá de contar con título de Licenciado en Derecho, ser de reconocida honorabilidad y probidad, pertenecer a la Secretaría y tener experiencia en la materia mínima de tres años;
+II.- El Sindico Procurador;
 
-III. Tres Vocales, que serán:
+III.- El Regidor Presidente de la Comisión de Seguridad Pública del Cabildo de Tijuana
 
-a) El Sindico Procurador;
+IV.- El Regidor Presidente de la Comisión de Derechos Humanos y Grupos Vulnerables del Cabildo de Tijuana.
 
-b) El Director General de Policía y Tránsito;
+V.- El Oficial Mayor del Ayuntamiento de Tijuana
 
-c) Un Representante, que será un Miembro condecorado de la Unidad Operativa, ya sea de investigación, prevención o de reacción de la Institución Policial, a la que pertenezca el Miembro sujeto al procedimiento, quien deberá tener además como requisito la Certificación del Centro de Evaluación y Control de Confianza de la Unidad Operativa, ya sea de investigación, prevención o de reacción, a la que pertenezca el presunto infractor.
+VI.- El Director General de Policía y Tránsito;
 
-IV. El Regidor Presidente de la Comisión de Seguridad Pública del Cabildo de Tijuana.
+VII.- Un Representante, que será un Miembro condecorado de la Unidad Operativa, ya sea de investigación, prevención o de reacción de la Institución Policial, a la que pertenezca el Miembro Sujeto al procedimiento, quien deberá tener además como requisito la Certificación del Centro de Evaluación y Control de Confianza de la Unidad Operativa, ya sea de investigación, prevención o de reacción, a la que pertenezca el presunto infractor.
 
-V. Un representante del Consejo Ciudadano de Seguridad Pública del municipio de Tijuana, Baja California, con voz y sin voto.
+El Representante del Consejo Ciudadano de Seguridad Publica del Municipio de Tijuana, deberá ser invitado permanentemente a las sesiones de la Comisión con derecho a voz pero sin voto.
+
+Un secretario Técnico; quien será elegido por la mayoría de los integrantes de la Comisión de una terna propuesta por el Presidente de la misma, deberá de contar con título de Licenciado en Derecho, ser de reconocida honorabilidad y probidad y tener experiencia acreditable en la materia mínima de tres años; con voz y sin voto.
 
 ###### Artículo 14.
 
@@ -1146,3 +1150,7 @@ Para todos los efectos a que haya lugar, se extiende la presente CERTIFICACIÓN,
 EL SECRETARIO DE GOBIERNO MUNICIPAL DEL H. XIX AYUNTAMIENTO DE TIJUANA
 
 RAUL CORONA SESMA
+
+P.O. 19 DE SEPTIEMBRE DE 2011.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL FEDERAL VIGENTE.
