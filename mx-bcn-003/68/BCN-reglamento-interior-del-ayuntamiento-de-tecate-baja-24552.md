@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-interior-del-ayuntamiento-de-tecate-baja-24552"
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-02-01"
-last_updated: "2011-06-03"
+last_updated: "2011-09-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=24552&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 REGLAMENTO INTERIOR DEL AYUNTAMIENTO DE TECATE, BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE JUNIO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE SEPTIEMBRE DE 2011.
 
 Reglamento publicado en el Periódico Oficial del Estado de Baja California, el viernes 1 de febrero de 2001.
 
@@ -771,31 +771,53 @@ La comisión podrá invitar a los ciudadanos interesados en el asunto de que se 
 
 COMISIONES PERMANENTES
 
-> <small>(REFORMADO, P.O. 3 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE SEPTIEMBRE DE 2011)</small>
 
 ###### ARTICULO 70.
 
-Serán Comisiones permanentes las siguientes:
+Serán Comisiones Permanentes:
+
+> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2011)</small>
 
 l. Gobernación, Legislación y Migración.
 
+> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2011)</small>
+
 II. Hacienda y Administración Pública.
+
+> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2011)</small>
 
 III. Obras y Servicios Públicos.
 
+> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2011)</small>
+
 IV. Desarrollo Urbano y Planeación.
+
+> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2011)</small>
 
 V. Seguridad Pública, Bomberos y Protección Civil.
 
+> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2011)</small>
+
 VI. Asuntos Fronterizos y Medio Ambiente.
+
+> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2011)</small>
 
 VII. Salud y Asistencia Social.
 
-VIII. Educación, Cultura y Deporte.
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2011)</small>
+
+VIII. Comisión de Educación, Cultura, Deporte y Juventud.
+
+> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2011)</small>
 
 IX. Equidad de Género y Gestión Social.
 
+> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2011)</small>
+
 X. Desarrollo Social, Rural y Comunidades Indígenas.
+
+> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2011)</small>
 
 XI. Turismo.
 
@@ -1276,3 +1298,9 @@ P.O. 3 DE JUNIO DE 2011.
 PRIMERO.- Las presentes Reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 Segundo.- Publíquese en el Periódico Oficial del Estado.
+
+P.O. 19 DE SEPTIEMBRE DE 2011.
+
+SE TRANSCRIBE EL PUNTO DEL ACUERDO QUE SE RELACIONA CON EL PRESENTE ORDENAMIENTO.
+
+TERCERO.- La presente Reforma, entrará en vigor al día siguiente de su publiación, en el Periódico Oficial del Estado.
