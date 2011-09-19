@@ -4,7 +4,7 @@ identifier: "HID-ley-organica-del-poder-legislativo-del-estado-libre-y-70231"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2009-09-21"
-last_updated: "2011-07-04"
+last_updated: "2011-09-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70231&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE HIDALGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE JULIO DE 2011.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE SEPTIEMBRE DE 2011.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 21 de septiembre de 2009.
 
@@ -197,9 +197,11 @@ Los Diputados, son responsables por los delitos que cometan durante el tiempo de
 
 En demandas del orden civil, mercantil, familiar, laboral y agrario, los Diputados no gozarán de fuero alguno.
 
+> <small>(REFORMADO, P.O. 19 DE SEPTIEMBRE DE 2011)</small>
+
 ###### ARTÍCULO 20.
 
-Los Diputados en ejercicio, no podrán desempeñar ningún empleo, cargo o comisión de los Gobiernos Federal, Estatal o Municipal, salvo el académico o de beneficencia pública. La violación de ésta disposición será sancionada con la pérdida del cargo de Diputado.
+Los diputados en funciones durante el periodo de su encargo, no podrán desempeñar algún otro empleo, cargo o comisión de los Gobiernos Federal, Estatal o Municipal, por el que se disfrute de sueldo, remuneración, honorarios, gratificación o cualquiera otra ministración de dinero, sin previa licencia del Congreso. En tanto se encuentren desempeñando dicho cargo, empleo o comisión públicos cesarán en su función representativa. La infracción de esta disposición será castigada con la pérdida del carácter de diputado.
 
 ###### ARTÍCULO 21.
 
@@ -1123,7 +1125,7 @@ Los Servidores Públicos del Poder Ejecutivo, asistirán a las Sesiones, siempre
 
 Igualmente podrán ser citados en los mismos términos del párrafo anterior, los integrantes y Servidores Públicos de los Ayuntamientos, de los Organismos Autónomos y cualquier persona física o moral, que reciban, por cualquier titulo recursos públicos.
 
-### CAPITULO II. DE LA APERTURA Y CLAUSURA DE LOS PERIODOS DE SESIONES
+### CAPÍTULO II. DE LA APERTURA Y CLAUSURA DE LOS PERIODOS DE SESIONES
 
 ### CAPÍTULO III. DE LAS INICIATIVAS
 
@@ -1243,7 +1245,7 @@ Toda propuesta de Acuerdo Económico que se dictamine, se someterá a votación 
 
 Cuando en el Congreso se discuta una propuesta de Acuerdo Económico y no fuere aprobada, la Presidencia preguntará si se turna nuevamente a Comisiones, para un nuevo análisis y dictamen, en caso de negativa, se tendrá como asunto concluido.
 
-### CAPÍTULO VII. DE LAS VOTACIONES
+### CAPITULO VII. DE LAS VOTACIONES
 
 ###### ARTÍCULO 139.
 
@@ -1966,3 +1968,9 @@ Primero.- Envíese al Ejecutivo del Estado para su Publicación en el Periódico
 P.O. 4 DE JULIO DE 2011.
 
 ÚNICO.- Este Decreto entrará en vigor al día siguiente de su Publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 19 DE SEPTIEMBRE DE 2011.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su Publicación en el Periódico Oficial del Estado de Hidalgo.
