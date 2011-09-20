@@ -4,7 +4,7 @@ identifier: "OAX-ley-organica-del-ministerio-publico-del-estado-de-oaxaca-61334"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2008-05-01"
-last_updated: "2010-10-02"
+last_updated: "2011-09-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61334&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "OAX"
 ---
 # LEY ORGANICA DEL MINISTERIO PUBLICO DEL ESTADO DE OAXACA
 
-LEY ORGANICA DEL MINISTERIO PUBLICO DEL ESTADO DE OAXACA
+LEY ORGÁNICA DEL MINISTERIO PUBLICO DEL ESTADO DE OAXACA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE OCTUBRE DE 2010.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DE LA LEY ORGÁNICA DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO DE OAXACA, PUBLICADA EN EL EXTRA DEL P.O. EL 20 DE SEPTIEMBRE DE 2011, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADA.
 
 Ley publicada en el Extra al Periódico Oficial del Estado de Oaxaca, el jueves 1 de mayo de 2008.
 
@@ -1115,7 +1117,7 @@ Al C.
 
 NOTA: Las presentes firmas corresponden al Decreto No. 614, aprobado por la Sexagésima Legislatura Constitucional del Estado Libre y Soberano de Oaxaca, para el Estado de Oaxaca, mediante el cual se aprueba la Ley Orgánica del Ministerio Público del Estado.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 2 DE OCTUBRE DE 2010.
 
@@ -1124,3 +1126,27 @@ PRIMERO.- El presente Decreto entrará en vigor el día siguiente de su publicac
 SEGUNDO.- Con la finalidad de integrar la Unidad Policial de Acción Inmediata la totalidad de los elementos qua actualmente integran al grupo de Fuerza Policial de Alto Rendimiento, adscritos al titular de la Institución Ministerial; pasan a formar parte de la Unidad citada; atendiendo a que el personal del grupo de Fuerza Policial de Alto Rendimiento forma parte a la fecha de la nomina de la Procuraduría General de Justicia del Estado, los sueldos de dichos elementos continuarán cubriéndose con los recursos presupuestales de ésta institución, sin perjuicio de los beneficios económicos pagaderos con recursos proporcionados por la Federación a que tengan derecho.
 
 TERCERO.- A fin de fortalecer y hacer más efectivo el cumplimiento de los deberes de la Unidad Policial de Acción Inmediata, la totalidad del equipo y armamento destinados al grupo de Fuerza Policial de Alto Rendimiento, deberán incorporarse de manera inmediata a dicha Unidad.
+
+P.O. 20 DE SEPTIEMBRE DE 2011.
+
+PRIMERO. El presente Decreto entrará en vigor a los 120 días naturales siguientes de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. El Reglamento de la Ley Orgánica, así como el Reglamento del Servicio Civil de Carrera deberán expedirse dentro de los treinta días naturales siguientes al de la entrada en vigor de la presente Ley Orgánica.
+
+En tanto se emitan los Reglamentos se seguirán aplicando las disposiciones vigentes al momento de la entrada en vigor de la presente Ley Orgánica, en lo que no se opongan a la misma.
+
+TERCERO. Se abroga la Ley Orgánica del Ministerio Público del Estado de Oaxaca publicada el 1° de mayo de 2008 en el Periódico Oficial del Gobierno del Estado, y se derogan todas las disposiciones que se opongan al presente Decreto.
+
+CUARTO. En virtud de la coexistencia de los Códigos de Procedimientos Penales de 1979 y Procesal Penal para el Estado de Oaxaca de 2006, en las regiones del Estado en que este último ordenamiento se vaya implementando, el Procurador, tendrá facultades para adecuar la estructura de la Institución conforme a las necesidades del servicio para atender dicha situación.
+
+QUINTO. Para el trámite y desahogo de los casos relativos al sistema mixto tradicional, en lo conducente continuará vigente la Ley Orgánica de la Procuraduría General de Justicia, aprobada con fecha 29 de junio de 1983, hasta la conclusión del último asunto.
+
+SEXTO. Se instruye a la Secretaría de Finanzas del Ejecutivo Estatal, para que realice las adecuaciones presupuestarias que sean necesarias para la implementación de la presente Ley Orgánica.
+
+SÉPTIMO. El Centro de Control de Confianza deberá realizar los procedimientos de evaluación a que se refiere esta Ley Orgánica, a los agentes del Ministerio Público, a los integrantes de la Agencia Investigadora y a los Peritos con el objeto de expedir el Certificado e inscribir el Registro correspondiente dentro del plazo señalado en el artículo tercero transitorio de la Ley General del Sistema Nacional de Seguridad Pública.
+
+En el lapso antes mencionado, deberá realizar el procedimiento de evaluación de control de confianza al personal de confianza de la Procuraduría a que alude el artículo 17, fracción III de la Ley Orgánica, para los efectos a que haya lugar.
+
+OCTAVO. Los integrantes de la Agencia Investigadora que al momento de la entrada en vigor del presente Decreto no cumplan con el requisito establecido en el artículo 26, fracción I, inciso b) de la Ley Orgánica, estarán en posibilidad de acreditar con posterioridad que han concluido los estudios correspondientes a la enseñanza media superior, o que han iniciado los estudios correspondientes a la enseñanza superior o equivalente, según sea el caso, en un plazo que no exceda de 6 años a partir de la publicación de la presente Ley Orgánica.
+
+NOVENO. Los procedimientos de responsabilidad administrativa que se encuentren en trámite, respecto a los servidores públicos de la Procuraduría, a la entrada en vigor de la presente Ley Orgánica, continuarán hasta su conclusión de conformidad con las disposiciones vigentes al momento de su inicio.
