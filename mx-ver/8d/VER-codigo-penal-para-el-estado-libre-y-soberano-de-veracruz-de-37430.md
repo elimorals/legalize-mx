@@ -4,7 +4,7 @@ identifier: "VER-codigo-penal-para-el-estado-libre-y-soberano-de-veracruz-de-374
 country: "mx"
 rank: "codigo"
 publication_date: "2003-11-07"
-last_updated: "2011-08-29"
+last_updated: "2011-09-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=37430&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 CODIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 29 DE AGOSTO DE 2011.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 20 DE SEPTIEMBRE DE 2011.
 
 Código publicado en la Gaceta Oficial del Estado de Veracruz de Ignacio de la Llave, el viernes 7 de noviembre de 2003.
 
@@ -3215,6 +3215,12 @@ II. El cónyuge, concubina o concubinario y parientes colaterales por consanguin
 
 III. Los que estén ligados con el delincuente por amor, respeto, gratitud o estrecha amistad.
 
+### CAPITULO III. PERTURBACION DEL ORDEN PUBLICO
+
+(NOTA: EL 20 DE JUNIO DE 2013, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 29/2011, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL TENDRÁ EFECTOS RETROACTIVOS A PARTIR DEL 21 DE SEPTIEMBRE DE 2011 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+> <small>(ADICIONADO, G.O. 20 DE SEPTIEMBRE DE 2011)</small>
+
 ###### Artículo 346.
 
 A quien quebrante una sanción de privación, suspensión o inhabilitación de derechos se le impondrá multa hasta de ciento cincuenta días de salario. En caso de reincidencia, se duplicará la multa y se impondrá prisión de seis meses a dos años.
@@ -3511,6 +3517,12 @@ Si el sujeto activo es un servidor público, las penas señaladas en el párrafo
 
 A quien, por cualquier medio, dolosamente reporte emergencias falsas que movilicen a personal de instituciones públicas o privadas que presten servicios de emergencia, protección civil o seguridad pública, se le impondrán de seis meses a dos años de prisión y multa de diez a cien días de salario.
 
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, G.O. 20 DE SEPTIEMBRE DE 2011)</small>
+
+###### Artículo 373.
+
+A quien, por cualquier medio, afirme falsamente la existencia de aparatos explosivos u otros; de ataques con armas de fuego; o de sustancias químicas, biológicas o tóxicas que puedan causar daño a la salud, ocasionando la perturbación del orden público, se le impondrá prisión de uno a cuatro años y multa de quinientos a mil días de salario, atendiendo a la alarma o perturbación del orden efectivamente producida.
+
 ## TRANSITORIOS
 
 PRIMERO.- El presente ordenamiento entrará en vigor el día primero de enero de 2004, previa publicación en la Gaceta Oficial del estado.
@@ -3806,3 +3818,7 @@ DECRETO NÚMERO 292 POR EL QUE SE REFORMAN LOS ARTICULOS 56, FRACCIONES II, III(
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
 
 Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 20 DE SEPTIEMBRE DE 2011.
+
+Único. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
