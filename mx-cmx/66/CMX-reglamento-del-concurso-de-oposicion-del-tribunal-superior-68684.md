@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-del-concurso-de-oposicion-del-tribunal-superior-6868
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-09-03"
-last_updated: "2009-07-06"
+last_updated: "2011-09-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68684&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2004-08-11"
 
 REGLAMENTO DEL CONCURSO DE OPOSICION DEL TRIBUNAL SUPERIOR DE JUSTICIA DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 6 DE JULIO DE 2009.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 20 DE SEPTIEMBRE DE 2011.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el martes 3 de agosto de 2004.
 
@@ -65,6 +65,10 @@ IV. Mixtas para las personas comprendidas en las fracciones anteriores.
 > <small>(REFORMADO, G.O. 3 DE JUNIO DE 2009)</small>
 
 En el concurso interno de oposición participarán únicamente los servidores públicos judiciales que laboren en los órganos jurisdiccionales y dependencias del Tribunal Superior de Justicia y del Consejo de la Judicatura del Distrito Federal, en salvaguarda de la carrera judicial y en el concurso de oposición libre, además de los anteriores, podrán participar los Licenciados en Derecho que no formen parte de las instituciones antes señaladas.
+
+> <small>(ADICIONADO, G.O. 20 DE SEPTIEMBRE DE 2011)</small>
+
+Corresponde al Instituto de Estudios Judiciales la integración y recopilación de la información, así como la documentación que se genere con motivo de los concursos de oposición a que se refiere el párrafo anterior, comprendiendo todas sus etapas desde su inicio hasta la publicación de los resultados respectivos, a fin de que los expedientes queden debidamente integrados para su resguardo y custodia por parte de dicho instituto.
 
 ###### Artículo 3.
 
@@ -247,3 +251,7 @@ G.O. 6 DE JULIO DE 2009.
 Artículo Primero. - Publíquese el presente Acuerdo General en el Boletín Judicial del Tribunal Superior de Justicia del Distrito Federal, y para su mayor difusión en la Gaceta Oficial del Distrito Federal, por una sola ocasión.
 
 Artículo Segundo. - El presente Reglamento entrará en vigor al día siguiente de su publicación en el Boletín Judicial del Tribunal Superior de Justicia del Distrito Federal.
+
+G.O. 20 DE SEPTIEMBRE DE 2011.
+
+UNICO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Boletín Judicial del Tribunal Superior de Justicia del Distrito Federal. Para su mayor difusión publíquese en la Gaceta Oficial del Distrito Federal, por una sola ocasión.
