@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-seguridad-publica-para-el-estado-de-oaxaca-63209"
 country: "mx"
 rank: "ley"
 publication_date: "2008-09-12"
-last_updated: "2008-09-12"
+last_updated: "2011-09-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=63209&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,11 +23,13 @@ state: "OAX"
 
 LEY DE SEGURIDAD PUBLICA PARA EL ESTADO DE OAXACA
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY DEL SISTEMA ESTATAL DE SEGURIDAD PUBLICA DE OAXACA, PUBLICADO EN EL NUMERO EXTRA DEL P.O. DE FECHA 20 DE SEPTIEMBRE DE 2011, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Extra del Periódico Oficial del Estado de Oaxaca, el viernes 12 de septiembre de 2008.
 
-LlC. ULISES ERNESTO RUIZ ORTIZ, GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE OAXACA, A SUS HABITANTES HACE SABED:
+LIC. ULISES ERNESTO RUIZ ORTIZ, GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE OAXACA, A SUS HABITANTES HACE SABED:
 
 QUE LA LEGISLATURA DEL ESTADO, HA TENIDO A BIEN, APROBAR LO SIGUIENTE.
 
@@ -774,3 +776,27 @@ Oaxaca de Juárez, Oax., a 11 de septiembre del 2008
 EL SECRETARIO GENERAL DE GOBIERNO.
 
 ING. TEOFILO MANUEL GARCÍA CORPUS.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 20 DE SEPTIEMBRE DE 2011.
+
+Primero. La presente Ley entrará en vigor al día siguiente del de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+Segundo. Se abroga la Ley de Seguridad Pública del Estado de Oaxaca, publicada en el Periódico Oficial del Gobierno del Estado de Oaxaca, el día 12 de septiembre del 2008, así como las todas (sic) las disposiciones de igual o menor rango que se oponga al contenido de la presente Ley.
+
+Tercero. Las disposiciones legales de otros ordenamientos que beneficien al servicio y personal de Seguridad pública, conservarán su vigencia, hasta en tanto no se adecuen a la Ley.
+
+Cuarto. Los procedimientos administrativos que se hayan iniciado o se encuentren en trámite ante los Órganos Colegiados de las Instituciones Policiales, hasta el momento de la publicación de la presente Ley, continuarán su prosecución hasta su total conclusión.
+
+Quinto. Se otorga al Gobernador del Estado un plazo máximo de 180 días contados a partir de la vigencia de la presente Ley, para la elaboración de la reglamentación que derive de la misma.
+
+Sexto. Los Ayuntamientos, en un plazo que no exceda de ciento ochenta días a partir de la entrada en vigor de esta Ley, deberán adecuar sus ordenamientos jurídicos a las prescripciones contenidas en la Ley, sin perjuicio de sus facultades constitucionales.
+
+Séptimo. Al personal de seguridad pública que actualmente esté en activo, le será aplicable la Ley, sin menoscabo de sus derechos derivados de la relación de prestación de servicio.
+
+Octavo. Para el cumplimiento de las acciones derivadas por la entrada en vigor de la Ley, la Secretaría, los Ayuntamientos, el Consejo Estatal, la Secretaría de Finanzas, la Secretaría de Administración, y la Secretaría de la Contraloría y Transparencia Gubernamental, en el ámbito de sus respectivas competencias, establecerán y desarrollarán los mecanismos de programación, ejecución e inversión presupuestaria.
+
+Noveno. Los empleados de base que laboren actualmente en las Instituciones de Seguridad Pública, podrán participar en las evaluaciones de control de confianza para su permanencia, sujetándose al régimen administrativo que esta ley establece. Se Instruye a la Secretaría de Administración y de Seguridad Pública, para determinar los procedimientos para resolver la reubicación del personal de base que no se sometan a la nueva Ley, respetando los derechos laborales adquiridos.
+
+Décimo. Los contratos y convenios vigentes; así como los dictámenes y demás instrumentos expedidos por el Centro de Control de Confianza creado por decreto del Ejecutivo de fecha veintiuno de febrero de dos mil once y publicado el mismo día en el Periódico Oficial del Gobierno del Estado, así como los recursos humanos, materiales y financieros asignados, se subrogan al Centro Estatal de Evaluación y Control de Confianza, entendiéndose como expedidos por este último.
