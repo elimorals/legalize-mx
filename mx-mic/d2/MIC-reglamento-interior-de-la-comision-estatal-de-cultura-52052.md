@@ -4,7 +4,7 @@ identifier: "MIC-reglamento-interior-de-la-comision-estatal-de-cultura-52052"
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-10-13"
-last_updated: "2006-10-13"
+last_updated: "2011-09-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52052&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "MIC"
 
 REGLAMENTO INTERIOR DE LA COMISIÓN ESTATAL DE CULTURA FÍSICA Y DEPORTE
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA COMISIÓN ESTATAL DE CULTURA FÍSICA Y DEPORTE, PUBLICADO EN EL P.O. DE 21 DE SEPTIEMBRE DE 2011, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
 Reglamento publicado en la Segunda Sección del Periódico Oficial del Estado de Michoacán, el viernes 13 de octubre de 2006.
 
@@ -382,3 +384,11 @@ ROSA HILDA ABASCAL RODRÍGUEZ
 Secretaria de Contraloría y Desarrollo Administrativo
 
 (Firmado)
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 21 DE SEPTIEMBRE DE 2011.
+
+Artículo primero. El presente Reglamento Interior entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+Artículo segundo. Se abroga el Reglamento Interior de la Comisión Estatal de Cultura Física y Deporte, publicado en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo, el 13 de octubre de 2006, y se dejan sin efecto las demás disposiciones de carácter administrativo en lo que se opongan al presente Reglamento Interior.
