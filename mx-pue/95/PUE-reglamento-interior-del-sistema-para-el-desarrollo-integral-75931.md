@@ -4,7 +4,7 @@ identifier: "PUE-reglamento-interior-del-sistema-para-el-desarrollo-integral-759
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-07-16"
-last_updated: "2010-07-16"
+last_updated: "2011-09-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=75931&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "PUE"
 
 REGLAMENTO INTERIOR DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DEL ESTADO DE PUEBLA
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DEL ESTADO DE PUEBLA, PUBLICADO EN LA TERCERA SECCION DEL P.O. EL 21 DE SEPTIEMBRE DE 2011, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
 
 Reglamento publicado en la Tercera Sección del Periódico Oficial del Estado de Puebla, el viernes 16 de julio de 2010.
 
@@ -598,3 +600,15 @@ Se Deroga el Reglamento Interior publicado en el Periódico Oficial del Estado e
 Se derogan todos los acuerdos, decretos, circulares, instructivos y demás disposiciones que contravengan el presente Reglamento.
 
 Dado en la Residencia del Poder Ejecutivo del Estado, en la Heroica Puebla de Zaragoza, a los veintidós días del mes de junio de dos mil diez.- El Gobernador Constitucional del Estado.- LICENCIADO MARIO P. MARÍN TORRES.- Rúbrica.- El Secretario de Gobernación.- LICENCIADO VALENTÍN JORGE MENESES ROJAS.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS DEL PRESENTE ARTICULO.</small>
+
+P.O. 21 DE SEPTIEMBRE DE 2011.
+
+PRIMERO.- El presente Reglamento entrará en vigor a partir del día hábil siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se abroga el Reglamento Interior publicado en el Periódico Oficial del Estado el dieciséis de julio de dos mil diez.
+
+TERCERO.- Se derogan todos los acuerdos, decretos, circulares, instructivos y demás disposiciones que contravengan el presente Reglamento.
+
+CUARTO.- Las aprobaciones de la Junta Directiva que prevé el artículo 6 del presente Reglamento, podrán ser posteriores a la instrumentación de las acciones que requieran ejecución inmediata. Lo anterior de acuerdo a la normatividad aplicable y sin menoscabo de las más amplias facultades de la Junta Directiva, para realizar a nombre del SEDIF todos los actos que fueron necesarios para el cumplimiento de su objetivo.
