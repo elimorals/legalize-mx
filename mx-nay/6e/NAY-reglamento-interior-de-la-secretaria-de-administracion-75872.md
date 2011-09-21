@@ -4,7 +4,7 @@ identifier: "NAY-reglamento-interior-de-la-secretaria-de-administracion-75872"
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-06-24"
-last_updated: "2010-06-24"
+last_updated: "2011-09-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=75872&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "NAY"
 
 REGLAMENTO INTERIOR DE LA SECRETARIA DE ADMINISTRACION
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO TERCERO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARIA DE ADMINISTRACION Y FINANZAS, PUBLICADO EN LA SECCION SEXTA DEL P.O. DE 21 DE SEPTIEMBRE DE 2011, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
 
 Reglamento publicado en la Sección Segunda del Periódico Oficial del Estado de Nayarit, el jueves 24 de junio de 2010.
 
@@ -856,3 +858,21 @@ En tanto se expiden el Manual de Organización de la Secretaría y otros instrum
 Dado en el Palacio del Poder Ejecutivo del Estado Libre y Soberano de Nayarit, en Tepic, su capital, a los veinticuatro días del mes de Junio del dos mil diez.
 
 A T E N T A M E N T E.- "SUFRAGIO EFECTIVO; NO REELECCIÓN" LIC. NEY GONZÁLEZ SÁNCHEZ, GOBERNADOR CONSTITUCIONAL DEL ESTADO.- Rúbrica.- DR. ROBERTO MEJÍA PÉREZ, SECRETARIO GENERAL DE GOBIERNO.- Rúbrica.- ING. FLORENCIO ROMÁN MESSINA, SECRETARIO DE ADMINISTRACIÓN.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 21 DE SEPTIEMBRE DE 2011.
+
+PRIMERO.- El presente reglamento entrará en vigor al día de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+SEGUNDO.- Se abroga el reglamento Interior de la Secretaría de Hacienda, publicado en el Periódico Oficial, Órgano del Gobierno del Estado, el día 27 de Febrero de 2010.
+
+TERCERO.- Se abroga el reglamento interior de la Secretaría de Administración publicado el 24 de junio de 2010 en el Periódico Oficial Órgano de (sic) Gobierno del Estado de Nayarit, a (sic) así como sus reformas posteriores.
+
+CUARTO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan o contravengan al presente reglamento.
+
+QUINTO.- En tanto se expidan las disposiciones normativas a que se refiere este reglamento, el titular de la Secretaría queda facultado para resolver las cuestiones inherentes a dichas disposiciones.
+
+SEXTO.- Aquellos asuntos que al entrar en vigor el presente reglamento se encuentren en trámite a cargo de alguna de las Unidades Administrativas que se suprimen, modifican su denominación o cambian de adscripción dentro de la propia Secretaría, serán turnados para su conocimiento y resolución a la Unidad Administrativa que sea competente, conforme a las disposiciones de este ordenamiento.
+
+SÉPTIMO.- Cuando en este reglamento se dé una denominación nueva o distinta a alguna Unidad Administrativa cuyas funciones estén establecidas en otros ordenamientos legales vigentes o por ley que se deroga u otras leyes especiales, dichas atribuciones se entenderán concedidas a la Unidad Administrativa que determine este reglamento
