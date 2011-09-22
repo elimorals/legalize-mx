@@ -4,7 +4,7 @@ identifier: "MIC-reglamento-interior-del-comite-de-adquisiciones-del-poder-24697
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-02-14"
-last_updated: "2002-02-14"
+last_updated: "2011-09-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=24697&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "MIC"
 
 REGLAMENTO INTERIOR DEL COMITE DE ADQUISICIONES DEL PODER EJECUTIVO DEL ESTADO DE MICHOACAN DE OCAMPO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DEL COMITE DE ADQUISICIONES DEL PODER EJECUTIVO, PUBLICADO EN LA QUINTA SECCION DEL P.O. DE 22 DE SEPTIEMBRE DE 2011, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
 
 Reglamento publicado en la Tercera Sección del Periódico Oficial del Estado de Michoacán, el jueves 14 de febrero de 2002.
 
@@ -278,3 +280,11 @@ Morelia, Michoacán, a 3 de Enero del 2002.
 LIC. VÍCTOR MANUEL TINOCO RUBÍ.- GOBERNADOR CONSTITUCIONAL DEL ESTADO.- LIC. JUAN BENITO COQUET RAMOS.- SECRETARIO DE GOBIERNO. (Firmados).
 
 C.P. ÓSCAR A. MENDOZA AHUMADA.- COORDINADOR DE CONTROL Y DESARROLLO ADMINISTRATIVO.- LIC. ROSALVA HERNÁNDEZ BOLAÑOS.- DIRECTORA GENERAL DEL COMITÉ DE ADQUISICIONES DEL PODER EJECUTIVO DEL ESTADO. (Firmados).
+
+> <small>N. DE E. A CONTINUACION SE TRASCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 22 DE SEPTIEMBRE DE 2011.
+
+Artículo Primero. El presente Reglamento entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+Artículo Segundo. Se abroga el Reglamento Interior del Comité de Adquisiciones del Poder Ejecutivo del Estado de Michoacán de Ocampo, publicado en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo de fecha 14 de Febrero de 2002, y se dejan sin efecto todas las disposiciones de carácter administrativo en lo que se oponga al presente Reglamento.
