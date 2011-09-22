@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-2-241-30-03-2010-de-la-comision-nacional-de-74844"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2010-05-14"
-last_updated: "2010-05-14"
+last_updated: "2011-09-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=74844&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "2010-03-30"
 
 ACUERDO DE LA COMISION NACIONAL DE VIGILANCIA DEL REGISTRO FEDERAL DE ELECTORES, POR EL QUE APRUEBAN LOS MEDIOS Y PROCEDIMIENTOS DE IDENTIFICACION PARA OBTENER LA CREDENCIAL PARA VOTAR
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL PUNTO PRIMERO DEL ACUERDO 1-257: 28/07/2011 DE LA COMISION NACIONAL DE VIGILANCIA DEL REGISTRO FEDERAL DE ELECTORES, POR EL QUE SE APRUEBAN LOS MEDIOS DE IDENTIFICACION PARA OBTENER LA CREDENCIAL PARA VOTAR, PUBLICADO EN EL D.O.F. DE 22 DE SEPTIEMBRE DE 2011, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: ABROGADO.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 14 de mayo de 2010.
 
@@ -224,3 +226,15 @@ Segundo. Los procedimientos a que se refieren los puntos Tercero y Noveno del Ac
 Tercero. Los documentos a que se hace referencia en el párrafo segundo del punto Tercero del presente Acuerdo, serán obligatorios para cualquier trámite que realicen los ciudadanos para obtener su Credencial para Votar con Fotografía, a partir del día siguiente de su publicación en el Diario Oficial de la Federación y hasta el treinta de septiembre de 2010.
 
 El presente Acuerdo fue aprobado en sesión ordinaria de la Comisión Nacional de Vigilancia del Registro Federal de Electores del Instituto Federal Electoral, celebrada el 30 de marzo de 2010.- El Presidente de la Comisión Nacional de Vigilancia del Registro Federal de Electores, Alberto Alonso y Coria.- Rúbrica.- El Secretario de la Comisión Nacional de Vigilancia del Registro Federal de Electores, Juan Gabriel García Ruiz.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 22 DE SEPTIEMBRE DE 2011.
+
+> <small>N. DE E. DEBIDO A SU IMPORTANCIA SE TRANSCRIBE EL PUNTO DE ACUERDO QUE SE RELACIONA CON EL PRESENTE ORDENAMIENTO.</small>
+
+Primero. La Comisión Nacional de Vigilancia del Registro Federal de Electores, abroga el Acuerdo 2-241: 30/03/2010, por el que se aprobó los medios y procedimientos de identificación para obtener la Credencial para Votar.
+
+## TRANSITORIO
+
+Unico. Para dar cumplimiento al presente acuerdo, la Dirección Ejecutiva del Registro Federal de Electores, dará la instrucción para que el acuerdo entre en vigor a través del Sistema Integral de Información del Registro Federal de Electores (SIIRFE), a fin de que el 1o. de octubre de 2011 todos los módulos de atención ciudadana cuenten con la versión actualizada de dicho sistema.
