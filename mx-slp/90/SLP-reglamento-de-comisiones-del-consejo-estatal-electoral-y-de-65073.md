@@ -4,7 +4,7 @@ identifier: "SLP-reglamento-de-comisiones-del-consejo-estatal-electoral-y-de-650
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-11-25"
-last_updated: "2008-11-25"
+last_updated: "2011-09-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=65073&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "SLP"
 
 REGLAMENTO DE COMISIONES DEL CONSEJO ESTATAL ELECTORAL Y DE PARTICIPACION CIUDADANA
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO DE COMISIONES DEL CONSEJO ESTATAL ELECTORAL Y DE PARTICIPACION CIUDADANA, PUBLICADO EN LA EDICION EXTRAORDINARIA DEL P.O. DE 22 DE SEPTIEMBRE DE 2011, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
 
 Reglamento publicado en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el martes 25 de noviembre de 2008.
 
@@ -512,3 +514,13 @@ SEGUNDO. Las Comisiones anteriores a la aprobación del presente Reglamento, que
 TERCERO. Publíquese en el Periódico Oficial del Estado para los efectos legales procedentes.
 
 Así por unanimidad de votos lo aprobó el Pleno del Consejo Estatal Electoral y de Participación Ciudadana en Sesión Ordinaria de fecha doce de noviembre del año dos mil ocho. Lic. Rodolfo J, Aguilar Gallegos. Consejero Presidente. Lic. Rafael Rentaría Armendáriz, Secretario de Actas. (Rúbricas)
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 22 DE SEPTIEMBRE DE 2011.
+
+PRIMERO. El presente Reglamento entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Con la vigencia del presente acuerdo se abroga el Reglamento de Comisiones del Consejo Estatal Electoral y de Participación Ciudadana de San Luis Potosí, expedido por acuerdo del Pleno del Consejo número 102/11/2008 de fecha 12 de noviembre de 2008.
+
+TERCERO. Publíquese para los efectos legales procedentes.
