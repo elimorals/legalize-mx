@@ -4,7 +4,7 @@ identifier: "MIC-constitucion-politica-del-estado-libre-y-soberano-de-6004"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-02-07"
-last_updated: "2011-07-22"
+last_updated: "2011-09-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6004&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE MICHOACAN DE OCAMPO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE JULIO DE 2011.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE SEPTIEMBRE DE 2011.
 
 Constitución publicada en el Periódico Oficial del Gobierno del Estado de Michoacán de Ocampo, los días jueves 7, domingo 10, jueves 14, domingo 17, jueves 21, domingo 24, jueves 28, de febrero; domingo 3, jueves 7, domingo 10 y jueves 14 de marzo de 1918.
 
@@ -1487,7 +1487,9 @@ En todo proceso penal, la víctima o el ofendido por algún delito, tendrá dere
 
 El Tribunal de Justicia Administrativa, será órgano autónomo, independiente en sus resoluciones y de jurisdicción plena en materia administrativa con sujeción a los principios de igualdad, publicidad, audiencia y legalidad.
 
-Tendrá competencia para dirimir, resolviendo en forma definitiva, las controversias que se susciten por actos u omisiones de naturaleza administrativa o fiscal del Poder Ejecutivo, de la Auditoría Superior de Michoacán, de los ayuntamientos, de los organismos autónomos, de las entidades u organismos descentralizados o desconcentrados, estatales o municipales. La ley determinará las atribuciones y procedimientos al tenor de la presente Constitución.
+> <small>(REFORMADO, P.O. 22 DE SEPTIEMBRE DE 2011)</small>
+
+Tendrá competencia para dirimir, resolviendo en forma definitiva, las controversias que se susciten por actos u omisiones de naturaleza administrativa o fiscal entre el Poder Ejecutivo, los ayuntamientos, los organismos autónomos, las entidades u organismos descentralizados o desconcentrados, estatales o municipales y los particulares. La ley determinará las atribuciones y procedimientos al tenor de la presente Constitución.
 
 Funcionará y se organizará según lo determine su Ley Orgánica, en colegio de tres Magistrados y sus sesiones serán públicas.
 
@@ -3288,3 +3290,13 @@ El presente Decreto entrará en vigor el día siguiente de su publicación en el
 ###### ARTÍCULO TERCERO.
 
 El nuevo sistema de reinserción social previsto en el párrafo segundo del artículo 18 de la Constitución Política de los Estados Unidos Mexicanos, entrará en vigor cuando lo establezca la legislación secundaria correspondiente, sin que pueda exceder el plazo de tres años, contados a partir del día siguiente de la publicación de este Decreto.
+
+P.O. 22 DE SEPTIEMBRE DE 2011.
+
+###### ARTÍCULO PRIMERO.
+
+Publíquese el presente Decreto en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo, para su conocimiento general y efectos legales procedentes.
+
+###### ARTÍCULO SEGUNDO.
+
+Remítase a los ayuntamientos del Estado, el presente Decreto, para que, en los términos de la fracción IV del artículo 164 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo, después de recibida, envíen al Congreso del Estado el resultado de su votación.
