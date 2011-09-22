@@ -4,7 +4,7 @@ identifier: "NLE-ley-del-organo-de-fiscalizacion-superior-del-estado-de-51708"
 country: "mx"
 rank: "ley"
 publication_date: "2006-09-13"
-last_updated: "2006-09-13"
+last_updated: "2011-09-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51708&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "NLE"
 
 LEY DEL ORGANO DE FISCALIZACION SUPERIOR DEL ESTADO DE NUEVO LEON
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE FISCALIZACION SUPERIOR DEL ESTADO DE NUEVO LEON, PUBLICADA EN EL P.O. DE 22 DE SEPTIEMBRE DE 2011, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el miércoles 13 de septiembre de 2006.
 
@@ -856,3 +858,21 @@ RUBÉN EDUARDO MARTÍNEZ DONDÉ
 EL C. OFICIAL MAYOR DE GOBIERNO
 
 ALFREDO GERARDO GARZA DE LA GARZA
+
+P.O. 22 DE SEPTIEMBRE DE 2011.
+
+Primero.- La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, y se aplicará lo dispuesto en los artículos transitorios siguientes.
+
+Segundo.- A partir del inicio de vigencia de este Decreto, se abroga la Ley del Órgano de Fiscalización Superior del Estado de Nuevo León publicada en el Periódico Oficial del Estado el 13 de Septiembre de 2006 y todas sus reformas, sin embargo, los asuntos que se encuentren en trámite o en proceso en la Auditoría Superior del Estado al entrar en vigor esta Ley, incluyendo la Cuenta Pública del ejercicio 2010, se seguirán tramitando hasta su conclusión en términos de la referida Ley del Órgano de Fiscalización Superior del Estado de Nuevo León.
+
+Tercero.- La Auditoría Superior del Estado deberá adecuar su Reglamento Interior a lo establecido en la presente Ley, en un plazo no mayor a noventa días hábiles contados a partir de la publicación de la misma en el Periódico Oficial del Estado.
+
+Cuarto.- Se derogan las disposiciones jurídicas que contravengan lo dispuesto en la presente Ley.
+
+Quinto.- Las referencias que se encuentren en otras disposiciones legales o reglamentarias a la Ley del Órgano de Fiscalización Superior del Estado de Nuevo León o a la Ley de la Contaduría Mayor de Hacienda, al Órgano de Fiscalización Superior o a la Contaduría Mayor de Hacienda o a sus servidores públicos, se tendrán por realizadas a esta Ley, a la Auditoría Superior del Estado, así como a sus servidores públicos, respectivamente.
+
+Sexto.- En cuanto a la estructura del contenido de la Cuenta Pública que rindan los Entes Públicos a que se refieren los artículos 8 y 9 de esta Ley, se estará a lo dispuesto en el artículo CUARTO fracción IV TRANSITORIO de la Ley General de Contabilidad Gubernamental, publicada el miércoles 13 de diciembre de 2008 en el Diario Oficial de la Federación, así como a lo dispuesto en los acuerdos y normatividad que al respecto emita el Consejo Nacional de Armonización Contable.
+
+Entretanto y mientras no se oponga a lo establecido en la Ley General de Contabilidad Gubernamental y a los acuerdos y normatividad emitidos por el Consejo Nacional de Armonización Contable, se estará a lo dispuesto por el artículo 30 de la Ley del Órgano de Fiscalización Superior del Estado de Nuevo León, publicada el miércoles 13 de septiembre de 2006.
+
+Séptimo: En lo referente al Artículo 20 fracción XXV en lo relativo a la fiscalización de la deuda a proveedores con bienes y servicios y contratistas de obra pública entrará en vigor hasta en tanto quede debidamente implementada y en operación la contabilidad a que refiere la Ley General de Contabilidad Gubernamental y las disposiciones que emita el Consejo Nacional de Armonización Contable.
