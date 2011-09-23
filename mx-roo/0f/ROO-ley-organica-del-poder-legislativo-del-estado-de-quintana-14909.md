@@ -4,7 +4,7 @@ identifier: "ROO-ley-organica-del-poder-legislativo-del-estado-de-quintana-14909
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-10-25"
-last_updated: "2011-03-26"
+last_updated: "2011-09-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14909&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "ROO"
 ---
 # LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE QUINTANA ROO
 
-LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE QUINTANA ROO
+LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE QUINTANA ROO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE MARZO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE SEPTIEMBRE DE 2011.
 
 Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el miércoles 25 de octubre de 1995.
 
@@ -79,11 +79,11 @@ Esta Ley, sus reformas y adiciones no necesitarán de promulgación del Gobernad
 
 ## TITULO SEGUNDO
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 15 DE NOVIEMBRE DE 1999)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 15 DE NOVIEMBRE DE 1999)</small>
 
 ### CAPITULO UNICO. DE LA INSTALACION DE LA LEGISLATURA Y DE LA ELECCION DE LA MESA DIRECTIVA
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE MARZO DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE MARZO DE 2010)</small>
 
 ###### ARTICULO 7.
 
@@ -93,7 +93,7 @@ Para la instalación de la Legislatura, la Diputación Permanente saliente convo
 
 a) El Secretario de la Diputación Permanente dará lectura a la lista de los Diputados que hayan resultado electos y comprobando que se tiene la asistencia de más de la mitad del total de sus miembros, dará cuenta al Presidente de la Diputación Permanente.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE NOVIEMBRE DE 1999)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE NOVIEMBRE DE 1999)</small>
 
 b) El Presidente pedirá a los Diputados electos que se encuentren presentes que en escrutinio secreto y por mayoría de votos procedan a elegir a la Comisión Instaladora de la Legislatura.
 
@@ -129,7 +129,7 @@ En todo caso, cada uno de los Diputados a que se refiere el párrafo anterior, e
 
 ### CAPITULO I. DE LOS PERIODOS DE SESIONES Y DE RECESOS
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE MARZO DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE MARZO DE 2010)</small>
 
 ###### ARTICULO 10.
 
@@ -261,7 +261,9 @@ XLI.- Determinar el patrimonio familiar señalando los bienes que lo integran, s
 
 XLII.- Legislar en materia de seguridad social, teniendo como objetivo la permanente superación del nivel de vida de la población, el mejoramiento de su salud y la conservación del medio ambiente.
 
-XLIII.- Recibir la protesta de ley y aprobar o rechazar el nombramiento de Procurador General de Justicia que otorgue el Gobernador del Estado; y (sic)
+> <small>(REFORMADA, P.O. 23 DE SEPTIEMBRE DE 2011)</small>
+
+XLIII.- Recibir la protesta de Ley y aprobar o rechazar el nombramiento del Procurador General de Justicia del Estado que efectúe el Gobernador del Estado y que le someta a su consideración, previa entrevista realizada por las Comisiones de Puntos Constitucionales y de Justicia a la persona nombrada en el referido cargo;
 
 XLIV.- Designar, mediante el procedimiento que la ley determine, al Presidente y a los integrantes del Consejo Consultivo de la Comisión de Derechos Humanos del Estado de Quintana Roo, así como recibirles la protesta de ley.
 
@@ -627,7 +629,7 @@ La integración de la Gran Comisión y la elección de su Presidente se comunica
 
 Son atribuciones de la Gran Comisión:
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE OCTUBRE DE 2010)</small>
 
 A) En materia de Gobierno:
 
@@ -655,7 +657,7 @@ X.- Dictaminar sobre las elecciones de Gobernador Constitucional del Estado.
 
 XI.- Conducir las relaciones políticas con los demás Poderes de la entidad, los Municipios, los Poderes de la Unión y las Legislaturas de los Estados.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE OCTUBRE DE 2010)</small>
 
 B) En materia Legislativa:
 
@@ -673,7 +675,7 @@ VI.- Impulsar y realizar los estudios que versen sobre disposiciones normativas,
 
 VII.- Desahogar las consultas respecto de la aplicación e interpretación de esta ley, reglamentos y prácticas y usos parlamentarios.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE OCTUBRE DE 2010)</small>
 
 C) Es materia Administrativa:
 
@@ -807,11 +809,17 @@ VII.- Designar a los miembros de los Concejos Municipales, en los casos previsto
 
 VIII.- Recibir la protesta de ley y aprobar o desechar nombramientos, renuncias y destituciones, solicitadas por el Gobernador del Estado de los Magistrados del Tribunal Superior de Justicia.
 
-IX.- Recibir la protesta de ley al Gobernador interino, provisional, sustituto o quien haga sus veces.
+> <small>(ADICIONADA, P.O. 23 DE SEPTIEMBRE DE 2011)</small>
 
-X.- Designar, mediante el procedimiento que la ley determine, al Presidente y a los integrantes del Consejo Consultivo de la Comisión de Derechos Humanos del Estado de Quintana Roo, así como recibirles la protesta de ley.
+IX.- Recibir la protesta de Ley y aprobar o rechazar el nombramiento del Procurador General de Justicia del Estado que efectúe el Gobernador del Estado y que le someta a su consideración, previa entrevista realizada por las Comisiones de Puntos Constitucionales y de Justicia a la persona nombrada en el referido cargo;
 
-XI.- Las demás que le confieran expresamente la Constitución Política del Estado, la presente ley y las demás disposiciones legales y reglamentarias.
+X.- Recibir la protesta de Ley al Gobernador Interino, provisional, sustituto o quien haga sus veces;
+
+> <small>(REFORMADA, P.O. 23 DE SEPTIEMBRE DE 2011)</small>
+
+XI.- Designar mediante el procedimiento que la ley determine, al Presidente y a los Integrantes del Consejo Consultivo de la Comisión de Derechos Humanos del Estado de Quintana Roo, así como recibir la protesta de ley;
+
+XII.- Las demás que le confieran expresamente la Constitución Política del Estado, la presente Ley y las demás disposiciones legales y reglamentarias.
 
 > <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1999)</small>
 
@@ -1083,7 +1091,7 @@ El Oficial Mayor proveerá de lo necesario a los Diputados, Comisiones y Depende
 
 Estará a cargo del Oficial Mayor expedir los nombramientos y ejecutar las bajas del personal de las Dependencias del Poder Legislativo acordadas por la Gran Comisión; así como autorizar las altas y bajas de los bienes muebles y ejercer actos de dominio sobre el patrimonio del Poder Legislativo que aquélla acuerde.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 10 DE MARZO DE 2008)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 10 DE MARZO DE 2008)</small>
 
 ### CAPITULO III. DEL INSTITUTO DE INVESTIGACIONES LEGISLATIVAS
 
@@ -1281,7 +1289,7 @@ III.- Auxiliar a las Comisiones y demás Dependencias del Poder Legislativo en e
 
 IV.- Las demás inherentes a las anteriores y las que le encomiende la Legislatura.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 15 DE NOVIEMBRE DE 1999)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 15 DE NOVIEMBRE DE 1999)</small>
 
 ### CAPITULO IX. DE LA DIRECCION DE ARCHIVO GENERAL Y BIBLIOTECA
 
@@ -1539,7 +1547,7 @@ Podrá votarse en forma simultánea un proyecto de ley o decreto en lo general y
 
 ###### ARTICULO 133.
 
-Las disposiciones de un proyecto de ley o de decreto que sean declaradas aprobadas, se turnarán de inmediato a la Comisión de Puntos Legislativos y Ténica Parlamentaria para la elaboración de la Minuta, corregida conforme al buen uso del lenguaje y con la claridad que amerite para su inequívoca interpretación, sin que se altere su contenido esencial en lo más mínimo. La Minuta podrá ser dispensada de su lectura si así lo aprueba el Pleno a propuesta de algún Diputado.
+Las disposiciones de un proyecto de ley o de decreto que sean declaradas aprobadas, se turnarán de inmediato a la Comisión de Puntos Legislativos y Técnica Parlamentaria para la elaboración de la Minuta, corregida conforme al buen uso del lenguaje y con la claridad que amerite para su inequívoca interpretación, sin que se altere su contenido esencial en lo más mínimo. La Minuta podrá ser dispensada de su lectura si así lo aprueba el Pleno a propuesta de algún Diputado.
 
 (REUBICADO, P.O. 15 DE NOVIEMBRE DE 1999)
 
@@ -1671,7 +1679,7 @@ El Secretario de la Legislatura dará fe e instruirá las resoluciones de trámi
 
 ###### ARTICULO 148.
 
-En la sesión de audiencia de conclusiones, alegatos y resolución definitiva, el Presidente de la Legislatura, luego de declarar abierta la sesión, procederá a informar al Pleno del estado en que se encuentra el expediente y acto seguido concederá el uso de la palabra al Presidente de la Comisión Instructora o a alguno de sus miembros que lo solicite y al servidor público al que se le instruye el Juicio Político, en forma alternada. Podrán hacer uso de la palabra una sola vez hasta tres miembros de la Comisión y hasta dos veces su Presidente, concediendo la palabra por cada vez al servidor público encausado.
+En la sesión de audiencia de conclusiones, alegatos y resolución definitiva, el Presidente de la Mesa Directiva de la Legislatura, luego de declarar abierta la sesión, procederá a informar al Pleno del estado en que se encuentra el expediente y acto seguido concederá el uso de la palabra al Presidente de la Comisión Instructora o a alguno de sus miembros que lo solicite y al servidor público al que se le instruye el Juicio Político, en forma alternada. Podrán hacer uso de la palabra una sola vez hasta tres miembros de la Comisión y hasta dos veces su Presidente, concediendo la palabra por cada vez al servidor público sujeto a juicio.
 
 > <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1999)</small>
 
@@ -1879,7 +1887,7 @@ EL C. SECRETARIO GENERAL DE GOBIERNO
 
 C. ING. RAFAEL LARA Y LARA
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 15 DE JUNIO DE 1999.
 
@@ -1970,3 +1978,13 @@ SEGUNDO.- Las Comisiones Ordinarias señaladas en el presente Decreto se integra
 TERCERO.- Aquellas disposiciones legales establecidas en el Estado que refieran a las Comisiones que ahora cambian de denominación, se entenderán aplicables a las Comisiones ahora determinadas por el presente Decreto.
 
 CUARTO.- Se derogan todas aquellas disposiciones que contravengan lo dispuesto en el presente Decreto.
+
+P.O. 23 DE SEPTIEMBRE DE 2011.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO.- Las reformas planteadas a la legislación secundaria contenidas en el presente Decreto, iniciarán su vigencia al momento en que entren en vigor las disposiciones constitucionales también contempladas en el presente Decreto.
+
+T R A N S I T O R I O:
+
+ÚNICO.- Publíquese el presente Decreto en el Periódico Oficial del Estado de Quintana Roo.
