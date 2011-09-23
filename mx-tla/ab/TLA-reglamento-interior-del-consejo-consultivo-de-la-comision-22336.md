@@ -4,7 +4,7 @@ identifier: "TLA-reglamento-interior-del-consejo-consultivo-de-la-comision-22336
 country: "mx"
 rank: "reglamento"
 publication_date: "2001-09-19"
-last_updated: "2009-07-01"
+last_updated: "2011-09-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22336&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "TLA"
 
 REGLAMENTO INTERIOR DEL CONSEJO CONSULTIVO DE LA COMISION ESTATAL DE DERECHOS HUMANOS DEL ESTADO DE TLAXCALA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE JULIO DE 2009.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO TERCERO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA COMISION ESTATAL DE DERECHOS HUMANOS, PUBLICADO EN EL No. EXTRAORDINARIO DEL P.O. DE 23 DE SEPTIEMBRE DE 2011, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
 
 Reglamento publicado en la Segunda Sección del Periódico Oficial del Estado de Tlaxcala, el miércoles 19 de septiembre de 2001.
 
@@ -316,3 +318,13 @@ P.O. 1 DE JULIO DE 2009.
 ###### ARTICULO UNICO.
 
 El presente Anexo Único del Acuerdo CCCEDHT/02/2009, entrará en vigor al día siguiente al de su aprobación por el Consejo Consultivo de la Comisión Estatal de Derechos Humanos de Tlaxcala.
+
+P.O. 23 DE SEPTIEMBRE DE 2011.
+
+Artículo Primero. Este Reglamento entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Artículo Segundo. Se Abroga el Reglamento Interior de la Comisión Estatal de Derechos Humanos publicado el 25 de Agosto de 2008 con sus reformas publicadas el 20 de febrero de 2009, en el Periódico Oficial del Gobierno del Estado.
+
+Artículo Tercero. Se abroga el Reglamento Interior del Consejo Consultivo de la Comisión Estatal de Derechos Humanos de Tlaxcala publicado el 19 de septiembre del año 2001 con sus reformas publicadas el 23 de marzo del 2007, 26 de diciembre del año 2008 y 01 de julio del año 2009, en el Periódico Oficial del Gobierno del Estado.
+
+Artículo Cuarto. Se derogan todas las disposiciones que se opongan a las contenidas en este Reglamento.
