@@ -4,7 +4,7 @@ identifier: "OAX-codigo-de-procedimientos-penales-para-el-estado-libre-y-6909"
 country: "mx"
 rank: "codigo"
 publication_date: "1980-08-09"
-last_updated: "2011-06-16"
+last_updated: "2011-09-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6909&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA
 
 > <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO PROCESAL PENAL PARA EL ESTADO DE OAXACA, PUBLICADO EN EL P.O. DE 9 DE SEPTIEMBRE DE 2006, 5 DE SEPTIEMBRE DE 2009, 2 DE MARZO DE 2010, 23 DE AGOSTO DE 2010 Y 5 DE MAYO DE 2011, EL PRESENTE ORDENAMIENTO QUEDARA ABROGADO EN LOS TERMINOS DEL TRANSITORIO PRIMERO DEL NUEVO CODIGO.</small>
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE JUNIO DE 2011.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE SEPTIEMBRE DE 2011.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Oaxaca, el sábado 9 de agosto de 1980.
 
@@ -396,6 +396,14 @@ DEL TRAFICO DE CONCESIONES Y PERMISOS DEL SERVICIO PUBLICO DE TRANSPORTE, previs
 > <small>(REFORMADO, P.O. 21 DE NOVIEMBRE DE 2008)</small>
 
 LA TENTATIVA, a que se refiere el artículo 10 fracción II y 57 primer párrafo en relación con los delitos previstos por los artículos 140, 141, 155, 195, 208 fracciones XXIII, XXIV y XXXVIII, 246, 247, 248, 269, 270, 285, 307, 309 primera parte, 348, 348 BIS, 348 BIS A y 348 BIS D, 349 en relación con los artículos 354 y 355, cuando concurran cualquiera de las circunstancias señaladas en los artículos 359, 362 fracción V, 369 fracciones I y VIII, 357 fracción I y fracción II segunda parte, 357 BIS, 372, 373 fracción III y 383 BIS, en relación con las fracciones II y III, los artículos 194 fracciones I y II, 195 fracciones I, II, III y IV, 196, 197 fracciones I, II y III y el delito previsto por el artículo 348 BIS F, sancionado por el artículo 348 BIS H.
+
+> <small>(ADICIONADO, P.O. 23 DE SEPTIEMBRE DE 2011)</small>
+
+VIOLENCIA INTRAFAMILIAR, previsto en el artículo 404, y tipificado por el artículo 405 (sic) Código Penal para el Estado Libre y soberano de Oaxaca, en vigor.
+
+> <small>(ADICIONADO, P.O. 23 DE SEPTIEMBRE DE 2011)</small>
+
+SUSTRACCIÓN DE MENORES O INCAPACES, cuando sea cometido por un tercero a instrucciones de quien ejerza la patria potestad o sea pariente sin limitación de grado del menor o incapaz, previsto en el artículo 407 del Código Penal del Estado Libre y Soberano de Oaxaca.
 
 > <small>(ADICIONADO, P.O. 9 DE JULIO DE 1994)</small>
 
@@ -4376,3 +4384,17 @@ CUARTO.- A partir de la entrada en vigor del presente decreto, las facultades so
 QUINTO.- La competencia territorial de los jueces de ejecución de sanciones del sistema mixto; será determinada por el Pleno del Tribunal Superior de Justicia atendiendo a la ubicación de los centros de reclusión, si el sentenciado se encuentra privado de su libertad, o en libertad por estar gozando de alguno de los beneficios que el juez o la autoridad administrativa le otorgó.
 
 SEXTO.- En un plazo no mayor a sesenta días, el Congreso del Estado deberá realizar las reformas y adecuaciones pertinentes a las leyes y reglamentos que tengan relación con la ejecución de las penas y medidas de seguridad, a fin de adecuarlas al texto constitucional local y federal.
+
+P.O. 23 DE SEPTIEMBRE DE 2011.
+
+DECRETO NUM. 633 POR EL QUE SE ADICIONA UN ULTIMO PARRAFO AL ARTICULO 23 BIS A DEL CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA.
+
+PRIMERO.- El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 23 DE SEPTIEMBRE DE 2011.
+
+DECRETO NUM. 643 POR EL QUE SE ADICIONA UN ULTIMO PARRAFO AL ARTICULO 23 BIS A DEL CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
