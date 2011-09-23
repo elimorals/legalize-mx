@@ -4,7 +4,7 @@ identifier: "NLE-codigo-civil-para-el-estado-de-nuevo-leon-7390"
 country: "mx"
 rank: "codigo"
 publication_date: "1935-07-06"
-last_updated: "2011-07-05"
+last_updated: "2011-09-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7390&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 CODIGO CIVIL PARA EL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE JULIO DE 2011.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE SEPTIEMBRE DE 2011.
 
 Código publicado en el Periódico Oficial del Estado de Nuevo León, el sábado 6 de julio de 1935.
 
@@ -2417,17 +2417,27 @@ Ejecutoriada una sentencia de divorcio, el juez de Primera Instancia remitirá c
 
 ### CAPITULO XI. DEL CONCUBINATO
 
-> <small>(ADICIONADO, P.O. 8 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2011)</small>
 
 ###### Art. 291 Bis.
 
-El concubinato es la unión de un hombre y una mujer, libres de matrimonio, que durante más de cinco años hacen vida marital sin estar unidos en matrimonio entre sí, siempre que no tengan impedimentos legales para contraerlo.
+El concubinato es la unión de un hombre y una mujer, libres de matrimonio, que durante más de dos años hacen vida marital sin estar unidos en matrimonio entre si, siempre que no tengan impedimentos legales para contraerlo.
 
 > <small>(ADICIONADO, P.O. 8 DE DICIEMBRE DE 2004)</small>
 
-Art. 291 Bis I.- Los concubinos, durante su unión, tienen derechos y obligaciones en forma recíproca, alimentarios y sucesorios, independientemente de los demás reconocidos por este Código o por otras leyes.
+###### Art. 291 Bis 1.
 
-No es necesario que transcurran los cinco años que menciona este Código para que se generen dichos derechos y obligaciones cuando, reunidos los demás requisitos, tengan un hijo en común.
+Los concubinos, durante su unión, tienen derechos y obligaciones en forma recíproca, alimentarios y sucesorios, independientemente de los demás reconocidos por este Código o por otras leyes.
+
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2011)</small>
+
+No es necesario que transcurran los dos años que menciona este Código para que se generen dichos derechos y obligaciones cuando, reunidos los demás requisitos, tengan un hijo en común.
+
+> <small>(ADICIONADO, P.O. 23 DE SEPTIEMBRE DE 2011)</small>
+
+###### Art. 291 Bis 2.
+
+Los derechos y obligaciones derivadas del concubinato, sólo podrán reclamarse judicialmente cuando se hayan cumplido los plazos o las condiciones a que se refieren los artículos precedentes.
 
 ## TITULO SEXTO. DEL PARENTESCO Y DE LOS ALIMENTOS
 
@@ -3005,13 +3015,17 @@ III.- Cuando el hijo haya sido concebido durante el tiempo en que la madre habit
 
 IV.- Cuando el hijo tenga a su favor un principio de prueba en contra del pretendido padre. Si no se cuenta con este tipo de prueba, podrá obtenerse mediante el acto prejudicial de investigación de la paternidad.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE SEPTIEMBRE DE 2011)</small>
+
 ###### Art. 383.
 
-Se presumen hijos del concubinario y de la concubina:
+Se presumen hijos del concubino y de la concubina:
 
 I.- Los nacidos después de ciento ochenta días contados desde que comenzó el concubinato;
 
-II.- Los nacidos dentro de los trescientos días siguientes al en que cesó la vida común entre el concubinario y la concubina.
+> <small>(REFORMADA, P.O. 23 DE SEPTIEMBRE DE 2011)</small>
+
+II.- Los nacidos dentro de los trescientos días siguientes al en que cesó la vida común entre el concubino y la concubina.
 
 ###### Art. 384.
 
@@ -7935,9 +7949,9 @@ III.- Al cónyuge supérstite, siempre que esté impedido de trabajar, se encuen
 
 IV.- A los ascendientes;
 
-> <small>(REFORMADA, P.O. 13 DE OCTUBRE DE 2000)</small>
+> <small>(REFORMADA, P.O. 23 DE SEPTIEMBRE DE 2011)</small>
 
-V.- A la persona con quien el testador vivió como si fuera su cónyuge durante los 5 años que precedieron inmediatamente a su muerte o con quien tuvo hijos, siempre que ambos hayan permanecido libres de matrimonio durante el concubinato. Este derecho solo subsistirá mientras la persona de que se trate no contraiga nupcias y observe buena conducta. Si fueren varias las personas con quien el testador vivió como si fueran cónyuges ninguna de ellas tendrá derecho a alimentos;
+V.- A la persona con quien el testador vivió como si fuera su cónyuge durante los dos años que precedieron inmediatamente a su muerte o con quien tuvo hijos, siempre que ambos hayan permanecido libres de matrimonio durante el concubinato. Este derecho solo subsistirá mientras la persona de que se trate no contraiga nupcias y observe buena conducta. Si fueren varias las personas con quien el testador vivió como si fueran cónyuges ninguna de ellas tendrá derecho a alimentos;
 
 VI.- A los hermanos y demás parientes colaterales dentro del cuarto grado, si están incapacitados o mientras que no cumplan dieciocho años, si no tienen bienes para subvenir a sus necesidades.
 
@@ -9175,7 +9189,7 @@ Si el reconocimiento se hace después de que el descendiente haya adquirido bien
 
 ### CAPITULO VI. DE LA SUCESION DE LOS CONCUBINOS
 
-> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2000)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE SEPTIEMBRE DE 2011)</small>
 
 ###### Art. 1521.
 
@@ -9231,21 +9245,37 @@ Al aplicar las disposiciones anteriores se tendrá en cuenta lo que ordena el Ca
 
 ###### Art. 1532.
 
-La persona con quien el autor de la herencia vivió como si fuera su cónyuge durante los cinco años que precedieron inmediatamente a su muerte o con la que tuvo hijos, siempre que ambos hayan permanecido libres de matrimonio durante el concubinato, tiene derecho a heredar conforme a las siguientes reglas:
+La persona con quien el autor de la herencia vivió como si fuera su cónyuge durante los dos años que precedieron inmediatamente a su muerte o con la que tuvo hijos, siempre que ambos hayan permanecido libres de matrimonio durante el concubinato, tiene derecho a heredar conforme a las siguientes reglas:
+
+> <small>(REFORMADA, P.O. 13 DE OCTUBRE DE 2000)</small>
 
 I.- Si concurre con sus hijos que lo sean también del autor de la herencia, se observará lo dispuesto en los artículos 1521 y 1522;
 
+> <small>(REFORMADA, P.O. 13 DE OCTUBRE DE 2000)</small>
+
 II.- Si concurre con descendientes del autor de la herencia, que no sean hijos suyos, tendrá derecho a la mitad de la porción que le corresponde a un hijo;
+
+> <small>(REFORMADA, P.O. 13 DE OCTUBRE DE 2000)</small>
 
 III.- Si concurre con hijos suyos y con hijos que el autor de la herencia tuvo con otra persona, tendrá derecho a las dos terceras partes de la porción de un hijo;
 
+> <small>(REFORMADA, P.O. 13 DE OCTUBRE DE 2000)</small>
+
 IV.- Si concurre con ascendientes del autor de la herencia, tendrá derecho a la cuarta parte de los bienes que forman la sucesión;
+
+> <small>(REFORMADA, P.O. 13 DE OCTUBRE DE 2000)</small>
 
 V.- Si concurre con parientes colaterales dentro del cuarto grado del autor de la sucesión, tendrá derecho a una tercera parte de ésta;
 
+> <small>(REFORMADA, P.O. 13 DE OCTUBRE DE 2000)</small>
+
 VI.- Si el autor de la herencia no deja descendientes, ascendientes, cónyuge o parientes colaterales dentro del cuarto grado, la mitad de los bienes de la sucesión pertenecen a la concubina o concubino y la otra mitad al fisco del Estado.
 
+> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2000)</small>
+
 En los casos a que se refieren las fracciones II, III y IV, debe observarse lo dispuesto en los artículos 1521 y 1522, si la concubina o concubino tiene bienes.
+
+> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2000)</small>
 
 Si al morir el autor de la herencia tiene varias concubinas o concubinos según sea el caso, en las condiciones mencionadas al principio de este artículo, ninguno heredará.
 
@@ -16832,6 +16862,10 @@ Cuarto.- La Procuraduría emitirá una convocatoria dentro de los 15-quince día
 Quinto.- El Titular del Ejecutivo deberá emitir el Reglamento de la Ley que Regula el Funcionamiento de las Instituciones que tienen bajo su Guarda y Custodia a Niñas, Niños y Adolescentes en el Estado de Nuevo León, en un plazo que no podrá exceder de 90-noventa días hábiles contados a partir del día siguiente a la entrada en vigor del presente Decreto.
 
 Sexto.- Se derogan las disposiciones contenidas en las Leyes, reglamentos y demás ordenamientos que se opongan al presente Decreto.
+
+P.O. 23 DE SEPTIEMBRE DE 2011.
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 ###### ARTICULO TERCERO.
 
