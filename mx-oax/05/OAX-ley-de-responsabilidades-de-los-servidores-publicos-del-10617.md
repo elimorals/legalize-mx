@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-responsabilidades-de-los-servidores-publicos-del-10617"
 country: "mx"
 rank: "ley"
 publication_date: "1996-06-01"
-last_updated: "2010-10-02"
+last_updated: "2011-09-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10617&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS DEL ESTADO Y MUNICIPIOS DE OAXACA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE OCTUBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE SEPTIEMBRE DE 2011.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Oaxaca, el Sábado 1o de junio de 1996.
 
@@ -625,7 +625,9 @@ Incurre en responsabilidad el servidor público que por sí o por interpósita p
 
 El Tribunal Superior de Justicia del Estado, establecerá los órganos y sistemas para identificar, investigar y determinar las responsabilidades de sus servidores públicos, derivadas del incumplimiento de las obligaciones a que se refiere el artículo 56, así como para aplicar las sanciones establecidas en el presente Título Cuarto, Capítulo anterior, por conducto del superior jerárquico, en los términos de los artículos 59 fracción IV y 106 fracción III de la correspondiente Ley Orgánica.
 
-Lo propio hará el Congreso del Estado, respecto a sus servidores públicos y conforme a la legislación respectiva; siendo también competente para identificar, investigar y determinar las responsabilidades a que se refiere este artículo, tratándose de Presidentes Municipales, Regidores y Síndicos, así como para aplicarles las sanciones que correspondan en los términos de esta Ley.
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2011)</small>
+
+Lo propio hará el Congreso del Estado, respecto a sus servidores públicos y conforme a la legislación respectiva; siendo también competente para identificar, investigar y determinar las responsabilidades a que se refiere este artículo, tratándose de Presidentes Municipales, Regidores, Síndicos, Encargados del Despacho de la Presidencia Municipal, Encargados de la Administración Municipal, Encargados del Municipio, los integrantes del Consejo Municipal y de cualquier persona que supla las funciones de los Síndicos y Regidores Municipales, así como para aplicarles las sanciones que correspondan en los términos de esta Ley.
 
 Los Ayuntamientos establecerán los órganos y sistemas respectivos en los términos del primer párrafo de este artículo y aplicarán las sanciones respectivas, previa instrucción de los procedimientos por el Presidente Municipal.
 
@@ -932,6 +934,10 @@ P.O. 22 DE MARZO DE 2005.
 UNICO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 P.O. 2 DE OCTUBRE DE 2010.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 23 DE SEPTIEMBRE DE 2011.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
