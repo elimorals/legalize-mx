@@ -4,7 +4,7 @@ identifier: "OAX-ley-organica-municipal-del-estado-de-oaxaca-78509"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2010-11-30"
-last_updated: "2011-04-07"
+last_updated: "2011-09-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=78509&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY ORGANICA MUNICIPAL DEL ESTADO DE OAXACA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE ABRIL DE 2011.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE SEPTIEMBRE DE 2011.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Oaxaca, el martes 30 de noviembre de 2010.
 
@@ -193,7 +193,21 @@ I.- Que el Ayuntamiento interesado lo solicite por escrito al Congreso y exista 
 
 II.- Que el centro de población de que se trate tenga el número de habitantes requeridos por esta Ley; y
 
-III.- Que el número de habitantes del centro de población de que se trate se acredite con la documental, instrumental o certificación que expida la delegación Estatal del Instituto Nacional de Estadística, Geografía e Informática.
+> <small>(REFORMADA, P.O. 23 DE SEPTIEMBRE DE 2011)</small>
+
+III.- Que el número de habitantes del centro de población de que se trata se acredite con la documental, instrumental o certificación que expida el Instituto Nacional de Estadística y Geografía.
+
+> <small>(ADICIONADO, P.O. 23 DE SEPTIEMBRE DE 2011)</small>
+
+ARTÍCULO 20 BIS.- Para la rectificación o modificación de nombre de las poblaciones del Estado, que así lo ameriten y justifiquen, se requiere de la declaración que realice el Ayuntamiento de su Municipio, con la aprobación de la Legislatura del Estado.
+
+El Congreso del Estado, podrá emitir el Decreto correspondiente, cuando se reúnan los siguientes requisitos:
+
+I.- Que el Ayuntamiento del municipio a que pertenece el centro de población, lo solicite por escrito al Congreso y que exista acta de cabildo aprobando lo solicitado por el acuerdo de las dos terceras partes de sus integrantes.
+
+II.- Acta de acuerdo del centro de población que pretenda la rectificación o modificación de nombre, con las firmas de sus ciudadanos.
+
+III.- Documentos públicos y/o privados que acrediten o justifiquen el uso del nombre que solicitan.
 
 ### CAPÍTULO II. DE LA MODIFICACIÓN TERRITORIAL MUNICIPAL
 
@@ -383,7 +397,9 @@ II.- Proponer ante la Legislatura del Estado, iniciativas de leyes, decretos y a
 
 III.- Ordenar su territorio municipal para efectos administrativos;
 
-IV.- Declarar la denominación y categoría administrativa que les corresponda a las localidades conforme a esta Ley;
+> <small>(REFORMADA, P.O. 23 DE SEPTIEMBRE DE 2011)</small>
+
+IV. Declarar la denominación, categoría administrativa que le corresponda a las localidades conforme a esta ley y la rectificación o modificación del nombre de los centros de población que pertenecen al territorio de su Municipio;
 
 V.- Convenir o contratar la ejecución y operación de obras y la prestación de servicios públicos con el Estado, con otros Municipios de la entidad o con particulares, de acuerdo con las leyes aplicables;
 
@@ -1936,3 +1952,15 @@ P.O. 7 DE ABRIL DE 2011.
 DECRETO NUMERO 390, POR EL QUE SE DEROGA LA FRACCION II DEL ARTICULO 47 DE LA LEY ORGANICA MUNICIPAL DEL ESTADO DE OAXACA.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 23 DE SEPTIEMBRE DE 2011.
+
+DECRETO NUMERO 644, POR EL QUE SE ADICIONA UN ARTICULO 20 BIS, AL TITULO SEGUNDO, CAPITULO PRIMERO Y SE REFORMA LA FRACCION IV DEL ARTICULO 43, DE LA LEY ORGANICA MUNICIPAL DEL ESTADO DE OAXACA.
+
+ÚNICO. El presente Decreto entrará en vigor, al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 23 DE SEPTIEMBRE DE 2011.
+
+DECRETO NUMERO 645, POR EL QUE SE REFORMA LA FRACCION III DEL ARTICULO 20, DE LA LEY ORGANICA MUNICIPAL DEL ESTADO DE OAXACA.
+
+ÚNICO.- El presente Decreto entrará en vigor, al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
