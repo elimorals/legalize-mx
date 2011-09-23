@@ -4,7 +4,7 @@ identifier: "ROO-constitucion-politica-del-estado-libre-y-soberano-de-7319"
 country: "mx"
 rank: "constitucion"
 publication_date: "1975-01-12"
-last_updated: "2011-03-25"
+last_updated: "2011-09-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7319&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE MARZO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE SEPTIEMBRE DE 2011.
 
 Constitución publicada en el Periódico Oficial del Estado de Quintana Roo, el 12 de enero de 1975.
 
@@ -715,7 +715,7 @@ La calidad de ciudadano quintanarroense se pierde por sentencia ejecutoria, dict
 
 El territorio del Estado de Quintana Roo, comprende:
 
-I.- La porción oriental de la Península de Yucatán, limitada por una línea divisoria que partiendo de la costa norte del Canal de Yucatán, sigue el meridiano 87 grados, 32 minutos, longitud oeste de Greenwich, hasta cortar el paralelo 21 grados, y de allí continúa hasta encontrar el paraleleleo (sic) que pasa por la torre sur de Chemax veinte kilómetros al oriente de este punto, llega después al vértice del ángulo formado por las líneas que dividen los Estados de Yucatán y Campeche -cerca de Put- que se localiza en el meridiano 19 grados, 39 minutos, 07 segundos de latitud norte y 89 grados, 24 minutos, 52 segundos de longitud oeste de Greenwich y desciende al sur hasta el paralelo límite de las República (sic) de México y Guatemala, y
+I.- La porción oriental de la Península de Yucatán, limitada por una línea divisoria que partiendo de la costa norte del Canal de Yucatán, sigue el meridiano 87 grados, 32 minutos, longitud oeste de Greenwich, hasta cortar el paralelo 21 grados, y de allí continúa hasta encontrar el paraleleo (sic) que pasa por la torre sur de Chemax veinte kilómetros al oriente de este punto, llega después al vértice del ángulo formado por las líneas que dividen los Estados de Yucatán y Campeche -cerca de Put- que se localiza en el meridiano 19 grados, 39 minutos, 07 segundos de latitud norte y 89 grados, 24 minutos, 52 segundos de longitud oeste de Greenwich y desciende al sur hasta el paralelo límite de las República (sic) de México y Guatemala, y
 
 II.- Las islas de: Cozumel, Cancún, Mujeres, Blanca y Contoy, situadas en el Mar Caribe y la de Holbox en el Golfo de México, así como las islas, islotes, cayos y arrecifes adyacentes a su litoral.
 
@@ -805,7 +805,7 @@ Los partidos políticos nacionales derivado de su participación en las eleccion
 
 > <small>(REFORMADO, P.O. 3 DE MARZO DE 2009)</small>
 
-Los partidos políticos promoverán y garantizarán en los términos que señale la Ley, la igualdad de oportunidades y la equidad entre mujeres y hombres en la vida política del Estado, a través de postulaciones a cargo de elección popular, tanto de mayoría relativa como de representación proporcional. Corresponde, única y exclusivamente a los partidos políticos, el derecho de solicitar el registro de candidatos a cargos (sic) elección popular por ambos principios.
+Los partidos políticos promoverán y garantizarán en los términos que señale la Ley, la igualdad de oportunidades y la equidad entre mujeres y hombres en la vida política del Estado, a través de postulaciones a cargo de elección popular, tanto de mayoría relativa como de representación proporcional. Corresponde, única y exclusivamente a los partidos políticos, el derecho de solicitar el registro de candidatos a cargos elección popular por ambos principios.
 
 > <small>(REFORMADO, P.O. 3 DE MARZO DE 2009)</small>
 
@@ -1269,11 +1269,11 @@ XLI.- Expedir leyes para fijar la extensión máxima de la propiedad rural, en l
 
 XLII.- Determinar el patrimonio familiar señalando los bienes que lo integran, sobre la base de su naturaleza inalienable e ingravable.
 
-XLIII.- Legislar en materia de seguridad social, teniendo como objetivo la permanente superación del nivel de vida de la población, el mejoramiento de su salud y la conservación del medio ambiente, y
+XLIII.- Legislar en materia de seguridad social, teniendo como objetivo la permanente superación del nivel de vida de la población, el mejoramiento de su salud y la conservación del medio ambiente, y (sic)
 
-> <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 1995)</small>
+> <small>(REFORMADA, P.O. 23 DE SEPTIEMBRE DE 2011)</small>
 
-XLIV.- Legislar sobre la protección, conservación y restauración del patrimonio histórico, cultural y artístico del Estado.
+XLIV.- Recibir la protesta de Ley y aprobar o rechazar el nombramiento del Procurador General de Justicia del Estado que efectúe el Gobernador del Estado y que le someta a su consideración, previa entrevista realizada por las Comisiones de Puntos Constitucionales y de Justicia del Congreso del Estado a la persona nombrada en el referido cargo;
 
 > <small>(REFORMADA, P.O. 29 DE OCTUBRE DE 1999)</small>
 
@@ -1317,7 +1317,9 @@ VIII.- Designar a los Magistrados del Tribunal Superior de Justicia del Estado y
 
 IX.- Recibir la protesta de Ley al Gobernador interino, provisional, sustituto o quien haga sus veces;
 
-X.- Recibir la protesta de Ley y aprobar o rechazar el nombramiento de Procurador General de Justicia que otorgue el Gobernador del Estado;
+> <small>(REFORMADA, P.O. 23 DE SEPTIEMBRE DE 2011)</small>
+
+X.- Recibir la protesta de Ley y aprobar o rechazar el nombramiento del Procurador General de Justicia del Estado que efectúe el Gobernador del Estado y que le someta a su consideración, previa entrevista realizada por las Comisiones de Puntos Constitucionales y de Justicia a la persona nombrada en el referido cargo.
 
 XI.- Designar mediante el procedimiento que la Ley determine, al Presidente y a los integrantes del Consejo Consultivo de la Comisión de Derechos Humanos del Estado de Quintana Roo, así como recibirles la protesta de Ley;
 
@@ -4230,3 +4232,7 @@ P.O. 25 DE MARZO DE 2011.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el mismo día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+P.O. 23 DE SEPTIEMBRE DE 2011.
+
+ÚNICO.- El presente Decreto entrará en vigor al día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
