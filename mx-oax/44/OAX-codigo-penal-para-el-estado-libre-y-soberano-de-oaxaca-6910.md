@@ -4,7 +4,7 @@ identifier: "OAX-codigo-penal-para-el-estado-libre-y-soberano-de-oaxaca-6910"
 country: "mx"
 rank: "codigo"
 publication_date: "1980-08-09"
-last_updated: "2011-06-16"
+last_updated: "2011-09-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6910&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 CODIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE JUNIO DE 2011.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE SEPTIEMBRE DE 2011.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Oaxaca, el sábado 9 de agosto de 1980.
 
@@ -3119,17 +3119,9 @@ Prescripción.
 
 118.- La prescripción producirá su efecto, aún cuando no la alegue como excepción el acusado; los jueces la suplirán de oficio en todo caso, tan luego como tengan conocimiento de ella, sea cual fuere el estado del proceso.
 
-> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2011)</small>
 
-119.- Los términos pera la prescripción de la acción penal serán continuos: en ellos se considerará el delito con sus modalidades y se contarán.
-
-I.- A partir del momento en que se consumó el delito si fuere instantáneo;
-
-II.- Desde que casó su consumación el fuere permanente o continuo;
-
-III.- Desde el día en que se realizó la ultima conducta su fuere continuado; y
-
-IV.- A partir del día en que se realizó el último acto ejecutivo o se omitió la conducta debida, si el delito fuere de tentativa.
+119.- Los términos para la prescripción de la acción penal serán continuos y se contarán desde el día en que se cometió el delito si fuere consumado; desde el día en que cesó, si fuere permanente o continuo y, desde el día en que se hubiere realizado el último acto de ejecución, si se tratare de tentativa.
 
 120.- Los términos para la prescripción de las sanciones serán igualmente continuos y correrán desde el día siguiente a aquél en que el condenado se sustraiga a la acción de la autoridad, si las sanciones son corporales, y si no lo son, desde la fecha de la sentencia ejecutoria.
 
@@ -3137,15 +3129,17 @@ IV.- A partir del día en que se realizó el último acto ejecutivo o se omitió
 
 121.- Cuando la sanción correspondiente del delito de que se trate no sea privativa de libertad, la prescripción de la acción penal operará en dos años.
 
-> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2011)</small>
 
-122.- La acción penal prescribe en un plazo igual al término medio aritmético de la pena privativa de libertad, incluidas las modalidades del delito cometido, pero en ningún caso será menor de tres años.
+122.- La acción penal prescribirá en un plazo igual al tiempo de la sanción corporal que corresponda al delito de que se trata; pero en ningún caso bajará de tres años.
 
 > <small>(ADICIONADO, P.O. 6 DE FEBRERO DE 2010)</small>
 
 122 Bis.- Cuando se trate de delitos cometidos en personas menores de edad, previstos en los artículos 194 fracciones II a V, 195, 196, 241, 241 BIS, 246, 247, 248 BIS fracciones I a III, 255, 347 BIS y 348 BIS F, la acción penal será imprescriptible.
 
-123.- (DEROGADO, P.O. 2 DE OCTUBRE DE 2010)
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 23 DE SEPTIEMBRE DE 2011)</small>
+
+123.- Si el delito sólo mereciere destitución, suspensión de derechos o inhabilitación, la prescripción se consumará en dos años.
 
 124.- La acción penal que nazca de un delito que sólo puede perseguirse por queja de parte, prescribirá en un año, contado desde el día en que la parte ofendida tenga conocimiento del delito y del delincuente, y en tres, independientemente de esta circunstancia.
 
@@ -3841,9 +3835,9 @@ Enriquecimiento ilegítimo.
 
 217 Bis D.- Se impondrá sanción de tres meses a dos años de prisión, destitución e inhabilitación para ocupar empleos o cargos públicos, por un término de uno a tres años, al funcionario o empleado de la Administración Pública Estatal o Municipal, o Descentralizada, que otorgue nombramiento o comisión oficial a una persona cuando ésta no desempeñe el servicio para el que se le nombró, si ésta percibe el sueldo, honorarios o remuneración correspondiente. Al nombrado, se le aplicarán de dos meses a dos años de prisión.
 
-> <small>(ADICIONADO, P.O. 2 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2011)</small>
 
-217 Bis E.- Los delitos previstos en este Título y de los cuales se desprenda un quebranto a la hacienda pública del Estado o municipios, se perseguirán por querella y previa declaratoria de perjuicio emitida por la autoridad competente.
+217 Bis E.- Los delitos previstos en este Título y de los cuales se desprenda un quebranto a la hacienda pública del Estado o municipios, se perseguirán de oficio.
 
 ### CAPITULO I.
 
@@ -5161,9 +5155,9 @@ Asimismo se aplicará de tres a siete años de prisión y de treinta a ciento ve
 
 382.- Se impondrá prisión de seis meses a ocho años y multa de cinco mil a diez mil pesos, o sólo la prisión al que, para hacerse de una cantidad de dinero en numerario, en papel moneda o billetes de banco, de un documento que importa obligación, liberación o transmisión de derechos o de cualquiera otra cosa ajena mueble, logre que se le entregue por medio de maquinaciones, engaños o artificios.
 
-> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2011)</small>
 
-383.- El fraude se perseguirá por querella de parte ofendida o legitimado para formularla. En los casos en que el sujeto pasivo sea el Estado, se requerirá la declaratoria de perjuicio a que se refiere el artículo 217 Bis-E.
+383.- El fraude se perseguirá por querella. Excepción hecha cuando el activo tenga conducta precedente por el mismo delito o para el caso de que el pasivo sea un organismo o institución pública o descentralizada.
 
 > <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 3 DE JUNIO DE 1995)</small>
 
@@ -5429,7 +5423,7 @@ V.- Materiales electorales: los elementos físicos, tales como urnas, canceles o
 
 > <small>(ADICIONADO CON EL CAPITULO Y ARTICULOS QUE LO INTEGRAN, P.O. 7 DE FEBRERO DE 1998)</small>
 
-### CAPITULO UNICO.
+### CAPITULO I
 
 Violencia intrafamiliar.
 
@@ -5443,13 +5437,31 @@ Comete el delito de Violencia Intrafamiliar el cónyuge, concubina o concubinari
 
 405.- A quien comete el delito de violencia intrafamiliar se le impondrá de seis meses a cuatro años de prisión, restricción o pérdida de la patria potestad, y en su caso perderá los derechos hereditarios y de alimentos. Así mismo se le sujetará a tratamiento psicológico especializado.
 
-> <small>(ADICIONADO, P.O. 7 DE FEBRERO DE 1998)</small>
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2011)</small>
 
-406.- Este delito se perseguirá por querella de la parte ofendida, salvo que la víctima sea menor de edad o incapaz, en cuyo caso se perseguirá de oficio.
+406.- En todos los casos previstos en los dos artículos precedentes, el Ministerio Público, exhortará al probable responsable para que se abstenga de cualquier conducta que pudiere resultar ofensiva para la víctima y acordará las medidas preventivas necesarias para salvaguardar la integridad física o psíquica de la misma. En todos los casos, el Ministerio Público deberá solicitar las medidas precautorias que considere pertinentes.
 
-> <small>(ADICIONADO, P.O. 15 DE SEPTIEMBRE DE 2001)</small>
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 23 DE SEPTIEMBRE DE 2011)</small>
 
-En todos los casos previstos en los dos artículos precedentes, el Ministerio Público, exhortará al probable responsable para que se abstenga de cualquier conducta que pudiere resultar ofensiva para la víctima y acordará las medidas preventivas necesarias para salvaguardar la integridad física o psíquica de la misma. En todos los casos, el Ministerio Público deberá solicitar las medidas precautorias que considere pertinentes.
+### CAPITULO II
+
+De la Sustracción de Menores o Incapaces.
+
+> <small>(ADICIONADO, P.O. 23 DE SEPTIEMBRE DE 2011)</small>
+
+407.- Se le impondrá de cuatro a siete años de prisión y multa de cuatrocientos a setecientos días de salario mínimo, a quien siendo pariente sin limitación de grado y ejerza la patria potestad o al que por instrucciones de aquél, sustraiga de la custodia y guarda a una persona menor de dieciocho años de edad o incapaz, sin causa justificada o sin orden de autoridad competente.
+
+> <small>(ADICIONADO, P.O. 23 DE SEPTIEMBRE DE 2011)</small>
+
+408.-Si el sujeto activo devuelve espontáneamente al menor o al incapaz dentro de los siete días siguientes a la comisión del delito, se le impondrá una tercera parte de las sanciones antes señaladas.
+
+> <small>(ADICIONADO, P.O. 23 DE SEPTIEMBRE DE 2011)</small>
+
+409.- Si al encontrarse en proceso de divorcio o disuelto el matrimonio, alguno de los progenitores salga fuera del estado o del país, trasladando consigo a los menores hijos o Incapaces, sin contar con la autorización expresa de la otra parte o sin orden de autoridad competente, se le impondrá de tres a cinco años de prisión y multa de trescientos a quinientos cincuenta días de salario mínimo.
+
+> <small>(ADICIONADO, P.O. 23 DE SEPTIEMBRE DE 2011)</small>
+
+410.- Al progenitor que cambie su domicilio señalado para la guarda y custodia de los menores hijos, fuera del estado o del país, argumentando cualquier causa, sin que exista consentimiento expreso y por escrito de la otra parte o por orden de autoridad competente, se le impondrá de tres a cinco años de prisión y multa de trescientos a quinientos cincuenta días de salario mínimo.
 
 ARTICULOS TRANSITORIOS:
 
@@ -5479,7 +5491,7 @@ IV.- (DEROGADA, P.O. 3 DE OCTUBRE DE 1998)
 
 Delitos contra la familia.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 7 DE FEBRERO DE 1998)</small>
+> <small>(REFORMADO [N. DE E. ANTES CAPITULO UNICO], P.O. 23 DE SEPTIEMBRE DE 2011)</small>
 
 ###### ARTICULO 1o.
 
@@ -5700,6 +5712,20 @@ CUARTO.- A partir de la entrada en vigor del presente decreto, las facultades so
 QUINTO.- La competencia territorial de los jueces de ejecución de sanciones del sistema mixto; será determinada por el Pleno del Tribunal Superior de Justicia atendiendo a la ubicación de los centros de reclusión, si el sentenciado se encuentra privado de su libertad, o en libertad por estar gozando de alguno de los beneficios que el juez o la autoridad administrativa le otorgó.
 
 SEXTO.- En un plazo no mayor a sesenta días, el Congreso del Estado deberá realizar las reformas y adecuaciones pertinentes a las leyes y reglamentos que tengan relación con la ejecución de las penas y medidas de seguridad, a fin de adecuarlas al texto constitucional local y federal.
+
+P.O. 23 DE SEPTIEMBRE DE 2011.
+
+DECRETO NUM. 633 POR EL QUE SE REFORMAN LOS ARTICULOS 119, 122, 123, 217 BIS-E, 383 Y 406 DEL CODIGO PENAL DEL ESTADO LIBRE Y SOBERANO DE OAXACA.
+
+PRIMERO.- El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 23 DE SEPTIEMBRE DE 2011.
+
+DECRETO NUM. 643 POR EL QUE SE REFORMA LA DENOMINACION DEL CAPITULO UNICO PARA DENOMINARSE CAPITULO I Y SE ADICIONA UN CAPITULO II, INTEGRADO CON LOS ARTICULOS 407, 408, 409 Y 410 AL TITULO VIGESIMO SEGUNDO DEL CODIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 ###### Artículo 10.
 
