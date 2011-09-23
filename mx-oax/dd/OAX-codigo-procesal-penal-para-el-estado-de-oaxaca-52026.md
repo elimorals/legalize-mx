@@ -4,7 +4,7 @@ identifier: "OAX-codigo-procesal-penal-para-el-estado-de-oaxaca-52026"
 country: "mx"
 rank: "codigo"
 publication_date: "2006-09-09"
-last_updated: "2011-05-05"
+last_updated: "2011-09-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52026&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ CODIGO PROCESAL PENAL PARA EL ESTADO DE OAXACA
 
 > <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO PRIMERO TRANSITORIO DEL CODIGO PROCESAL PENAL PARA EL ESTADO DE OAXACA, PUBLICADO EN EL P.O. DE 9 DE SEPTIEMBRE DE 2006, 5 DE SEPTIEMBRE DE 2009, 2 DE MARZO DE 2010, 23 DE AGOSTO DE 2010 Y 5 DE MAYO DE 2011, EL PRESENTE ORDENAMIENTO ENTRARA EN VIGOR SUCESIVAMENTE EN LOS TERMINOS SEÑALADOS EN EL PROPIO TRANSITORIO.</small>
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE MAYO DE 2011.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE SEPTIEMBRE DE 2011.
 
 Código publicado en la Cuarta Sección del Periódico Oficial del Estado de Oaxaca, el sábado 9 de septiembre de 2006.
 
@@ -1813,9 +1813,9 @@ Imposición oficiosa de la prisión preventiva
 
 El juez ordenará oficiosamente la prisión preventiva cuando se trate de los siguientes delitos, previstos en el Código Penal del Estado Libre y Soberano de Oaxaca:
 
-I. Homicidios dolosos, previsto (sic) en el artículo 285 y sancionados en los artículos 289, 291, 307 y 309 primera parte;
+I. Homicidios dolosos, previsto en el artículo 285 y sancionados en los artículos 289, 291, 307 y 309 primera parte;
 
-II. Violación, previsto y sancionados (sic) en los artículos 246, 247, 248 y 248 BIS;
+II. Violación, previsto y sancionados en los artículos 246, 247, 248 y 248 BIS;
 
 III. Secuestro, previsto y sancionado en los artículos 348, 348 BIS y 348 BIS A;
 
@@ -1831,9 +1831,13 @@ VIII. Delitos cometidos en perjuicio de personas menores de edad y de quienes no
 
 IX. Abuso sexual agravado, previsto y sancionado en el artículo 241, cuando concurran las circunstancias señaladas en sus fracciones I y II;
 
-X. Delito de trata de personas, previstos (sic) en los artículos 348 BIS F y sancionado en el artículo 348 BIS H; y
+X. Delito de trata de personas, previstos (sic) en los artículos 348 BIS F y sancionado en el artículo 348 BIS H; y (sic)
 
 XI. Lesiones dolosas, previsto en el artículo 271 y sancionado en los artículos 274, 275 y 276.
+
+> <small>(ADICIONADA, P.O. 23 DE SEPTIEMBRE DE 2011)</small>
+
+XII. Violencia intrafamiliar, previsto en el artículo 404, y tipificado por el artículo 405.
 
 Así como el delito de tortura, previsto en el artículo 1 y sancionado en los artículos 2, 3 y 4 de la Ley Estatal para Prevenir y Sancionar la Tortura.
 
@@ -5378,3 +5382,7 @@ P.O. 28 DE AGOSTO DE 2010.
 P.O. 5 DE MAYO DE 2011.
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 23 DE SEPTIEMBRE DE 2011.
+
+ÚNICO.- El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
