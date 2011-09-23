@@ -4,7 +4,7 @@ identifier: "ROO-reglamento-de-transito-en-el-estado-de-quintana-roo-7298"
 country: "mx"
 rank: "reglamento"
 publication_date: "1991-01-18"
-last_updated: "1998-02-27"
+last_updated: "2011-09-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7298&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 REGLAMENTO DE TRÁNSITO DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE FEBRERO DE 1998.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE SEPTIEMBRE DE 2011.
 
 Reglamento publicado en el Extraordinario del Periódico Oficial del Estado de Quintana Roo, el 19 de enero de 1991.
 
@@ -275,7 +275,9 @@ XXXIII.- MOTOCICLETA.- Vehículo de motor de dos o tres ruedas.
 
 XXXIV.- NOCHE.- Intervalo comprendido entre la puesta y la salida del sol.
 
-XXXV.- OMNIBUS o AUTOBÚS.- Vehículo de motor destinado al transporte de más de nueve pasajeros.
+> <small>(REFORMADA, P.O. 23 DE SEPTIEMBRE DE 2011)</small>
+
+XXXV.- OMNIBUS o AUTOBÚS.- Vehículo de motor destinado al transporte de más de veinticinco pasajeros.
 
 XXXVI.- PARADA:
 
@@ -342,6 +344,10 @@ LXIII.- ACCIDENTE DE TRANSITO.- Hecho de tránsito; suceso inesperado producido 
 LXIV.- AGENTE DE TRANSITO.- Es el servidor público encargado de vigilar de manera física el cumplimiento del presente Reglamento, aplicando y cumpliendo con las disposiciones que en él se establecen.
 
 LXV.- ESTADO DE EMBRIAGUEZ o INTOXICACIÓN.- Consiste en la pérdida o disminución de la razón producida por la utilización de bebidas alcohólicas, enervantes o estupefacientes.
+
+> <small>(ADICIONADA, P.O. 23 DE SEPTIEMBRE DE 2011)</small>
+
+LXVI.- VAGONETA.- Vehículo de motor destinado al transporte de hasta veinticuatro pasajeros.
 
 ### CAPITULO II. DE LOS CONDUCTORES (LICENCIAS Y PERMISOS)
 
@@ -2566,3 +2572,13 @@ P.O. 27 DE FEBRERO DE 1998.
 PRIMERO.- Dentro de los tres primeros meses del año de 1998, todos los tenedores o usuarios de vehículos matriculados en el Estado, deberán canjear la placa de su unidad.
 
 SEGUNDO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado
+
+P.O. 23 DE SEPTIEMBRE DE 2011.
+
+###### ARTÍCULO PRIMERO.
+
+LAS PRESENTES REFORMAS AL REGLAMENTO DE TRÁNSITO DEL ESTADO DE QUINTANA ROO, ENTRARÁN EN VIGOR AL DÍA SIGUIENTE DE SU PUBLICACIÓN EN EL PERIÓDICO OFICIAL DEL ESTADO.
+
+###### ARTÍCULO SEGUNDO.
+
+SE DEROGAN TODAS LAS DISPOSICIONES QUE SE OPONGAN A LO PREVISTO EN LAS PRESENTES REFORMAS.
