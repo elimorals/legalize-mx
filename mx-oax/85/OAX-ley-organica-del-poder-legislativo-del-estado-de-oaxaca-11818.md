@@ -4,7 +4,7 @@ identifier: "OAX-ley-organica-del-poder-legislativo-del-estado-de-oaxaca-11818"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-11-04"
-last_updated: "2011-01-29"
+last_updated: "2011-09-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11818&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE OAXACA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE ENERO DE 2011.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE SEPTIEMBRE DE 2011.
 
 Ley publicada en el Periódico Oficial del Estado de Oaxaca, el sábado 4 de noviembre de 1995.
 
@@ -635,13 +635,21 @@ ARTICULO 62 BIS.- El Congreso del Estado, contará con su propia Contraloría In
 
 Para ser Titular de la Contraloría Interna se requiere contar con cédula profesional en áreas económicas, contables, jurídicas o administrativas legalmente expedida y experiencia profesional de cuando menos tres años en actividades relacionadas con la fiscalización de recursos públicos, además deberá cubrir los requisitos exigidos para el Oficial Mayor.
 
-### CAPITULO UNICO. DE LA RESPONSABILIDAD DE LOS SERVIDORES PUBLICOS
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 23 DE SEPTIEMBRE DE 2011)</small>
+
+### CAPITULO V. DEL CENTRO DE ESTUDIOS ECONOMICOS Y DE FINANZAS PUBLICAS DEL H. CONGRESO DEL ESTADO DE OAXACA
+
+> <small>(ADICIONADO, P.O. 23 DE SEPTIEMBRE DE 2011)</small>
+
+ARTICULO 62 TER.- El Congreso del Estado Contará con un Centro de Estudios Económicos y de Finanzas Públicas, como organismo de apoyo y consulta, que tendrá por objeto desarrollar investigación, análisis, opinión y evaluación en materia de economía, hacienda, presupuesto, finanzas y políticas públicas.
+
+Para ser titular del Centro de Estudios Económicos y de Finanzas Públicas, se requiere contar con grado de Doctor en cualquiera de las siguientes áreas: Administración Pública, Economía, Ciencias Políticas, o Finanzas. Experiencia profesional mínima de cinco años, además deberá cubrir los requisitos para el oficial mayor.
 
 ## TITULO SEPTIMO
 
 DE LA SUBSTANCIACION DE LA RESPONSABILIDAD DE LOS SERVIDORES PUBLICOS.
 
-### CAPITULO I. DE LA INICIATIVA DE LEYES Y DECRETOS
+### CAPITULO UNICO. DE LA RESPONSABILIDAD DE LOS SERVIDORES PUBLICOS
 
 ###### ARTICULO 63.
 
@@ -661,7 +669,7 @@ En todo tiempo, tanto para el juicio político como para la responsabilidad pena
 
 ## TITULO OCTAVO. DEL PROCEDIMIENTO LEGISLATIVO
 
-### CAPITULO II. DE LAS RESOLUCIONES
+### CAPITULO I. DE LA INICIATIVA DE LEYES Y DECRETOS
 
 ###### ARTICULO 67.
 
@@ -677,7 +685,7 @@ IV.- A los Ayuntamientos en los asuntos que incumben a los Municipios, por lo qu
 
 V.- A los Ciudadanos del Estado en todos los ramos de la administración.
 
-### CAPITULO III. DE LAS ADICIONES Y REFORMAS A LA CONSTITUCION
+### CAPITULO II. DE LAS RESOLUCIONES
 
 ###### ARTICULO 68.
 
@@ -691,7 +699,7 @@ Las Iniciativas al Congreso de la Unión, se comunicarán también con firma del
 
 El Pleno del Congreso o de la Comisión Permanente en su caso, le toca declarar si una resolución suya es Ley, Decreto o Acuerdo, cuando se dudare de su naturaleza.
 
-### CAPITULO UNICO. DE LA DIPUTACION PERMANENTE
+### CAPITULO III. DE LAS ADICIONES Y REFORMAS A LA CONSTITUCION
 
 ###### ARTICULO 70.
 
@@ -709,7 +717,7 @@ Si el Congreso estuviere en receso, será convocado a período extraordinario de
 
 ## TITULO NOVENO. DE LA DIPUTACIÓN PERMANENTE
 
-### CAPITULO UNICO. DEL COLEGIO ELECTORAL
+### CAPITULO UNICO. DE LA DIPUTACION PERMANENTE
 
 ###### ARTICULO 73.
 
@@ -729,7 +737,7 @@ Las discusiones y votaciones de la Diputación Permanente, se regirán por lo qu
 
 ## TITULO DECIMO. DE LOS CASOS EN QUE EL CONGRESO SE ERIGIRA EN COLEGIO ELECTORAL
 
-### CAPITULO PRIMERO. DEL CEREMONIAL DE LA LEGISLATURA
+### CAPITULO UNICO. DEL COLEGIO ELECTORAL
 
 ###### ARTICULO 77.
 
@@ -767,11 +775,13 @@ IV.- (DEROGADA, P.O. 4 DE JULIO DE 2009)
 
 ## TITULO DECIMO PRIMERO. DEL RECINTO PARLAMENTARIO
 
-### CAPITULO SEGUNDO. DE LAS GALERIAS
+### CAPITULO PRIMERO. DEL CEREMONIAL DE LA LEGISLATURA
 
 ###### ARTICULO 83.
 
 Cuando algún funcionario, representante diplomático o persona de relieve se presente en la Cámara a invitación de ésta o por sí, se nombrará una comitiva de tres miembros que lo reciba en las puertas de la misma y lo acompañe hasta el lugar en donde deba tomar asiento que podrá ser en los palcos altos o bajos o en el presidium.
+
+### CAPITULO SEGUNDO. DE LAS GALERIAS
 
 ###### ARTICULO 84.
 
@@ -880,3 +890,11 @@ TERCERO.- Para efectos de la definición de los Secretarios A y B, se considerar
 CUARTO.- Para efectos de la aplicación de los recursos económicos y administrativos, se integraran los manuales administrativos necesarios dentro de los tres meses posteriores a esta reforma.
 
 QUINTO.- En la sesión solemne de fecha 1º de diciembre de 2010, fungirá la Mesa Directiva en su totalidad.
+
+P.O. 23 DE SEPTIEMBRE DE 2011.
+
+PRIMERO.- El presente Decreto entrará en vigor, al día siguiente de su aprobación.
+
+SEGUNDO.- El Centro de Estudios Económicos y de Finanzas Públicas del H. Congreso del Estado de Oaxaca, entrará en operaciones una vez que se le asigne el presupuesto para el desempeño de sus funciones.
+
+TERCERO.- Se faculta al Director del Centro de Estudios Económicos y Finanzas Públicas a realizar su reglamento interno que será autorizado por la Comisión Permanente de Hacienda.
