@@ -4,7 +4,7 @@ identifier: "PUE-codigo-reglamentario-para-el-municipio-de-puebla-44625"
 country: "mx"
 rank: "codigo"
 publication_date: "2004-12-31"
-last_updated: "2011-09-07"
+last_updated: "2011-09-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44625&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "PUE"
 
 CÓDIGO REGLAMENTARIO PARA EL MUNICIPIO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE SEPTIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE SEPTIEMBRE DE 2011.
 
 Código publicado en el Periódico Oficial del Estado de Puebla, el viernes 31 de diciembre de 2004.
 
@@ -1587,11 +1587,11 @@ XV.- Consejo de la Juventud; y (sic)
 
 XVI.- Consejo Ciudadano de Desempeño Gubernamental;
 
-> <small>(REFORMADA, P.O. 2 DE FEBRERO DE 2011)</small>
+> <small>(REFORMADA, P.O. 23 DE SEPTIEMBRE DE 2011)</small>
 
-XVII.- Consejo Ciudadano de Discapacidad; y
+XVII.- Consejo Ciudadano de Derechos Humanos y Equidad entre Géneros.
 
-> <small>(ADICIONADA, P.O. 2 DE FEBRERO DE 2011)</small>
+> <small>(ADICIONADA [N. DE E. REPUBLICADA], P.O. 23 DE SEPTIEMBRE DE 2011)</small>
 
 XVIII.- Los demás que determine el Ayuntamiento.
 
@@ -5085,7 +5085,7 @@ DE LAS ATRIBUCIONES EN MATERIA DE PROTECCIÓN CIVIL
 
 ###### Artículo 385.
 
-Corresponde al Honorable Ayuntamiento a través de la Unidad Operativa Municipal de Protección Civil, las siguientes atribuciones
+Corresponde al Honorable Ayuntamiento a través de la Unidad Operativa Municipal de Protección Civil, las siguientes atribuciones:
 
 I. Elaborar, difundir y ejecutar el programa municipal;
 
@@ -5301,11 +5301,11 @@ XIV. Vigilar que en los establecimientos o los espectáculos se observe el cupo 
 
 XV. Solicitar y verificar que las salidas de emergencia estén libres de llaves, candados o cualquier otro objeto que pueda obstruir o bloquear las mismas, pudiendo liberar éstas en el momento de la verificación e inspección;
 
-> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+(ADICIONAR, P.O. 31 DE DICIEMBRE DE 2008)
 
 XVI. Solicitar y verificar que los establecimientos comerciales cuenten con medidas de seguridad que controlen sus accesos; y
 
-> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+(ADICIONAR, P.O. 31 DE DICIEMBRE DE 2008)
 
 XVII. Las demás que le confieran otras leyes, decretos, reglamentos y acuerdos.
 
@@ -9637,7 +9637,7 @@ XVII. Producto cárnico: Se entenderá por éste lo contemplado en el artículo 
 
 XVIII. Reinspección: Revisión para constatar el cumplimiento de las disposiciones de este Código y demás ordenamientos legales aplicables en la materia; de las canales o subproductos que ya fueron sujetos a inspección por un rastro distinto del Municipal;
 
-XIX. Resello: Sello que se coloca con la leyenda "Inspeccionado y Aprobado" en la carne comercializada en el Municipio de Puebla que presenta alguna alteración en el sello original, como estar borroso o presumirse de dudosa procedencia; y
+XIX. Resello: Sello que se coloca con la leyenda “Inspeccionado y Aprobado” en la carne comercializada en el Municipio de Puebla que presenta alguna alteración en el sello original, como estar borroso o presumirse de dudosa procedencia; y
 
 XX. Subproducto: Derivado del producto cárnico, como jamón, tocino, queso de puerco, pastel de pollo, longaniza, chorizo, mortadela, salami, carne adobada, carne seca, cecina, tasajo, chicharrón, frituras, toda clase de embutidos, y cualquier otro semejante.
 
@@ -9855,11 +9855,9 @@ VI. Las vísceras y el pollo estarán separados y refrigerados, en caso de no co
 
 DEL TRANSPORTE DE LOS PRODUCTOS CÁRNICOS Y/O SUBPRODUCTOS
 
-> <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2009)</small>
+Artículo 639 Septdecies.- El transporte de productos cárnicos y/o subproductos, estará regulado por lo contemplado en el Capítulo 23 referente al "Servicio de Transporte del Producto Cárnico y sus Derivados", por las normas NOM-009-ZOO-1994, NOM-024-ZOO-1995 y NOM-194-SSA1-2004, así como las normas oficiales vigentes y demás disposiciones legales aplicables.
 
-Artículo 639 Septdecies.- El transporte de productos cárnicos y/o subproductos, estará regulado por lo contemplado en el Capítulo 23 referente al “Servicio de Transporte del Producto Cárnico y sus Derivados”, por las normas NOM-009-ZOO-1994, NOM-024-ZOO-1995 y NOM-194-SSA1-2004, así como las normas oficiales vigentes y demás disposiciones legales aplicables.
-
-Para el caso de que el transporte provenga de un Rastro Tipo Inspección Federal y/o en él se trasladen productos cárnicos y/o subproductos amparados con la certificación “México Calidad Suprema”, los inspectores municipales sólo verificarán que la documentación correspondiente se encuentre en orden.
+Para el caso de que el transporte provenga de un Rastro Tipo Inspección Federal y/o en él se trasladen productos cárnicos y/o subproductos amparados con la certificación "México Calidad Suprema", los inspectores municipales sólo verificarán que la documentación correspondiente se encuentre en orden.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 14 DE DICIEMBRE DE 2009)</small>
 
@@ -9867,7 +9865,7 @@ DE LAS SANCIONES
 
 > <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2009)</small>
 
-Artículo 639 Octodecies.- Las autoridades sanitarias municipales determinarán, calificarán e impondrán a quienes infrinjan las disposiciones establecidas en el Subtítulo "De la Comercialización de Productos Cárnicos y/o Subproductos y Aves Muertas", y los que resulten aplicables en la materia, indistintamente las sanciones señalas (sic) en el artículo 1671 de este ordenamiento.
+Artículo 639 Octodecies.- Las autoridades sanitarias municipales determinarán, calificarán e impondrán a quienes infrinjan las disposiciones establecidas en el Subtítulo “De la Comercialización de Productos Cárnicos y/o Subproductos y Aves Muertas”, y los que resulten aplicables en la materia, indistintamente las sanciones señalas (sic) en el artículo 1671 de este ordenamiento.
 
 Para la aplicación de dichas sanciones se considerará como infracciones administrativas las contempladas en el artículo 1671 Bis fracciones I, II, III, IV, V y VI del presente Código. La reincidencia será sancionada con multa por el doble de las cantidades señaladas.
 
@@ -23213,7 +23211,7 @@ DE LA VERIFICACIÓN E INSPECCIÓN
 
 Los que procesen, refrigeren, empaquen, industrialicen, movilicen, comercialicen productos cárnicos para consumo humano dentro de los límites del Municipio, estarán sujetos a inspección sanitaria por parte del Ayuntamiento, sin prejuicio de que concurran con el mismo fin, inspectores de los Servicios de Salud del Estado de Puebla y autoridades competentes.
 
-> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2008)</small>
 
 ###### Artículo 1636 Bis.
 
@@ -23225,13 +23223,7 @@ Para el cumplimiento de lo dispuesto en el artículo anterior se contará con el
 
 Las visitas de inspección se regirán y sujetarán a lo dispuesto en el artículo 16 de la Constitución Política de los Estados Unidos Mexicanos; artículos 51, 52 y 53 del Reglamento del Código Fiscal y Presupuestario para el Municipio de Puebla y normatividad aplicable.
 
-> <small>(ADICIONADO, P.O. 23 DE MAYO DE 2007)</small>
-
-###### Artículo 1637 Bis.
-
-El producto cárnico que no esté amparado con la documentación de sanidad, legal procedencia y el sello del Rastro Municipal o del rastro al que pertenece será decomisado y sometido a inspección sanitaria, de resultar apto para consumo se destinará a un establecimiento de beneficencia privada.
-
-> <small>(ADICIONADO, P.O. 23 DE MAYO DE 2007)</small>
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2009)</small>
 
 ###### Artículo 1637 Bis.
 
@@ -23247,7 +23239,7 @@ I. Si se encuentran alteraciones que los hagan impropios para el consumo humano,
 
 II. Cuando estén en condiciones de sanidad que permitan su uso en la alimentación humana, previo pago de los derechos correspondientes, serán resellados con la leyenda "Inspeccionado y Aprobado", pudiendo el propietario aprovecharlo en su venta directa o en la elaboración de productos comestibles; esto también se hará constar en el acta respectiva.
 
-> <small>(REFORMADO, P.O. 23 DE MAYO DE 2007)</small>
+> <small>(ADICIONADO, P.O. 23 DE MAYO DE 2007)</small>
 
 ###### Artículo 1637 Ter.
 
@@ -30529,7 +30521,7 @@ DE LOS REPRESENTANTES
 
 ###### Artículo 2170.
 
-Para ser representante de boxeadores o luchadores, se requiere ser mayor de edad, persona de reconocida honorabilidad y tener licencia expedida por la Comisión, en los términos previstos por los artículos relativos del presente Capitulo.
+Para ser representante de boxeadores o luchadores, se requiere ser mayor de edad, persona de reconocida honorabilidad y tener licencia expedida por la Comisión, en los términos previstos por los Artículos relativos del presente Capitulo.
 
 > <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2006)</small>
 
@@ -31131,7 +31123,7 @@ II. Los que celebre un representante o promotor con una empresa, respecto a una 
 
 III. Los de exclusividad, celebrados por un promotor o representante con una empresa para el efecto de que el boxeador actúe bajo su promoción por un tiempo determinado, de acuerdo con las cláusulas en el contrato respectivo, o entre éstos y el boxeador directamente en condiciones especiales.
 
-Todos los contratos o convenios en materia de Box o Lucha Libre celebrados dentro del Municipio, deberán ser presentados por triplicado para el respectivo registro ante la Comisión, para los efectos administrativos y legales que corresponda, estando obligadas las partes a ratificarlo ante la propia Comisión, en un plazo no mayor de 3 días a partir de aquél en que se hayan presentado para su registro; no podrán contener cláusulas Leoninas.
+Todos los contratos o convenios en materia de Box o Lucha Libre celebrados dentro del Municipio, deberán ser presentados por triplicado para el respectivo registro ante la Comisión, para los efectos administrativos y legales que corresponda, estando obligadas las partes a ratificarlos ante la propia Comisión, en un plazo no mayor de 3 días a partir de aquél en que se hayan presentado para su registro; no podrán contener cláusulas Leoninas.
 
 Una vez registrado y autorizado el contrato, se entregará un tanto al representante, otro al boxeador y el restante quedará depositado en el archivo de la Comisión.
 
@@ -33402,3 +33394,7 @@ P.O. 7 DE SEPTIEMBRE DE 2011.
 PRIMERO. El presente Dictamen entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan las disposiciones que se opongan a lo establecido en las reformas, adiciones y derogaciones contenidas en el presente Dictamen.
+
+P.O. 23 DE SEPTIEMBRE DE 2011.
+
+LA MODIFICACION CON ANTELACION CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DEL TEXTO ACTUALIZADO, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE FEDERAL.
