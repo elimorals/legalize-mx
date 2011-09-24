@@ -4,7 +4,7 @@ identifier: "CHH-codigo-municipal-para-el-estado-de-chihuahua-4610"
 country: "mx"
 rank: "codigo"
 publication_date: "1995-11-18"
-last_updated: "2011-08-13"
+last_updated: "2011-09-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4610&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CODIGO MUNICIPAL PARA EL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE AGOSTO DE 2011.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE SEPTIEMBRE DE 2011.
 
 Código publicado en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 18 de noviembre de 1995.
 
@@ -1029,9 +1029,13 @@ III.- Asignar a cada Regidor, los ramos que considere convenientes para su mejor
 
 IV.- Conceder licencia al Presidente Seccional, por un término mayor de diez días, en ese caso, debe llamarse al suplente y en su defecto nombrar Presidente seccional interino, entre sus miembros;
 
-V.- Aprobar, el anteproyecto de presupuesto de egresos y remitirlo al Ayuntamiento para su aprobación e integración en el presupuesto de egresos del Municipio.
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2011)</small>
 
-Los Ayuntamientos, al aprobar el presupuesto de egresos municipal, deberán autorizar las partidas, que fueren necesarias para el pago de la administración seccional y la prestación, a cargo de ésta, de los servicios públicos que le competan y la realización de las obras que correspondan;
+V.- Aprobar el Anteproyecto de Presupuesto de Egresos elaborado de acuerdo a las necesidades administrativas y al porcentaje de población que representan, tomando como referencia el último censo del Instituto Nacional de Estadística y Geografía, y remitirlo al Ayuntamiento para su aprobación e integración en el presupuesto de egresos del municipio.
+
+El ayuntamiento, al momento de realizar el cálculo y elaborar el Presupuesto de Egresos del Municipio, atenderá en lo conducente las necesidades contenidas en el Anteproyecto de Egresos enviado por las juntas municipales.
+
+Los Ayuntamientos, al aprobar el Presupuesto de Egresos Municipal, deberán autorizar las partidas que fueren necesarias para el pago de la administración seccional y la prestación, a cargo de ésta, de los servicios públicos que le competan y la realización de las obras que correspondan. En caso de que el Ayuntamiento no autorice las partidas solicitadas por las secciones municipales, la negativa correspondiente deberá estar debidamente fundada y motivada.
 
 VI.- Recaudar, previo acuerdo con el tesorero municipal, los ingresos municipales de la sección, e informar de ello al Ayuntamiento, por conducto del tesorero municipal, haciendo la aplicación de los mismos de acuerdo con el presupuesto aprobado;
 
@@ -1411,7 +1415,9 @@ g) El cobro de los tributos, recargos, intereses y multas federales o estatales,
 
 V.- Determinar y aplicar las sanciones que procedan por el incumplimiento de las disposiciones fiscales, contenidas en este Código y sus reglamentos o de los acuerdos y mandamientos de las autoridades fiscales municipales;
 
-VI.- Proponer al Presidente Municipal el anteproyecto del Presupuesto anual de egresos y dirigir, programar y controlar la inversión pública municipal, con la participación de la Oficialía Mayor, en su caso;
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2011)</small>
+
+VI.- Proponer al Presidente Municipal el anteproyecto del Presupuesto anual de egresos, previo análisis del diverso que remitan las juntas municipales, y dirigir, programar y controlar la inversión pública municipal, con la participación de la Oficialía Mayor, en su caso;
 
 VII.- Realizar los pagos, de acuerdo con el presupuesto de egresos y las órdenes que reciba, en la inteligencia, de que salvo los correspondientes a sueldos, no podrá hacer ningún otro, sin orden escrita y directa del Presidente Municipal o por conducto de la Oficialía Mayor.
 
@@ -3131,7 +3137,7 @@ III.- Porque el concesionario no preste el servicio de manera regular, continua,
 
 IV.- Porque el concesionario no otorgue o amplíe las garantías en los términos que le fueron fijadas;
 
-V.- Porque hipoteque, enajene o de cualquier manera se grave la concesión o algunos de los derechos en ella establecidos o los bienes afectos al servicio público de que se trate sin la previa autorización por escrito del Ayuntamiento y siempre que haya transcurrido cuando menos un año de su otorgamiento;
+V.- Porque hipoteque, enajene o de cualquier manera se grave (sic) la concesión o algunos de los derechos en ella establecidos o los bienes afectos al servicio público de que se trate sin la previa autorización por escrito del Ayuntamiento y siempre que haya transcurrido cuando menos un año de su otorgamiento;
 
 VI.- Cuando se deje de prestar el servicio en todo o en parte, temporal o permanentemente sin causa justificada, a juicio del Ayuntamiento o sin previa autorización por escrito del mismo;
 
@@ -4198,3 +4204,9 @@ Se derogan los Decretos No. 210/2010 I P.O., de fecha 20 de diciembre del 2010; 
 ###### ARTÍCULO TERCERO.
 
 Publíquese en el Periódico Oficial del Estado.
+
+P.O. 24 DE SEPTIEMBRE DE 2011.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
