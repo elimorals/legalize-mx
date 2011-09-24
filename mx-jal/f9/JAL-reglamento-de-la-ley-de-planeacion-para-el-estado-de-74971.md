@@ -4,7 +4,7 @@ identifier: "JAL-reglamento-de-la-ley-de-planeacion-para-el-estado-de-74971"
 country: "mx"
 rank: "reglamento"
 publication_date: "2001-06-16"
-last_updated: "2001-06-16"
+last_updated: "2011-09-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=74971&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "JAL"
 
 REGLAMENTO DE LA LEY DE PLANEACION PARA EL ESTADO DE JALISCO Y SUS MUNICIPIOS
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL SEGUNDO TRANSITORIO DEL REGLAMENTO DE LA LEY DE PLANEACION PARA EL ESTADO DE JALISCO Y SUS MUNICIPIOS, PUBLICADO EN LA SECCION II DEL P.O. DE FECHA 24 DE SEPTIEMBRE DE 2011, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO
 
 Reglamento publicado en la Sección II del Periódico Oficial del Estado de Jalisco, el sábado 16 de junio de 2001.
 
@@ -1270,3 +1272,13 @@ Lic. FRANCISCO JAVIER RAMÍREZ ACUÑA.
 EL C. SECRETARIO GENERAL DE GOBIERNO
 
 HECTOR PEREZ PLAZOLA.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS DEL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 24 DE SEPTIEMBRE DE 2011.
+
+PRIMERO. El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+SEGUNDO. Se abroga el Reglamento de la Ley de Planeación para el Estado de Jalisco publicado el 16 de junio de 2001 en el periódico oficial "El Estado de Jalisco" y se derogan las disposiciones reglamentarias que se opongan a la aplicación del presente Reglamento.
+
+TERCERO. Las regulaciones para los Ayuntamientos concernientes al funcionamiento y estructura de los COPLADEMUN entrarán en vigor a partir del 1 primero de octubre del año 2012.
