@@ -4,7 +4,7 @@ identifier: "CHH-ley-estatal-de-educacion-del-estado-de-chihuahua-11451"
 country: "mx"
 rank: "ley"
 publication_date: "1997-12-27"
-last_updated: "2011-07-02"
+last_updated: "2011-09-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11451&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY ESTATAL DE EDUCACION
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE JULIO DE 2011.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE SEPTIEMBRE DE 2011.
 
 Ley publicada en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 27 de diciembre de 1997.
 
@@ -183,9 +183,9 @@ XVIII. Fomentar en las y los educandos una cultura cívica y de participación e
 
 XIX. Promover, mediante el establecimiento de procedimientos y formas de organización, de sistematización de la información, de trabajo y de convivencia administrativas, académicas y escolares, la cultura de la transparencia y la rendición de cuentas.
 
-> <small>(REFORMADA, P.O. 13 DE ENERO DE 2010)</small>
+> <small>(REFORMADA, 24 DE SEPTIEMBRE DE 2011)</small>
 
-XX. Promover y fomentar el desarrollo de la cultura por la paz y la no violencia, así como el respeto a las demás personas, la igualdad entre hombres y mujeres y a los principios de equidad y no discriminación, de conformidad a lo establecido en la Ley Estatal del Derecho de las Mujeres a una Vida Libre de Violencia y demás relacionadas.
+XX. Promover y fomentar el desarrollo de la cultura por la paz y la no violencia, basándose en la convivencia respetuosa y el fomento de la educación libre de cualquier forma de maltrato físico o psicológico entre estudiantes, así como el respeto a las demás personas, la igualdad entre hombres y mujeres y a los principios de equidad y no discriminación, de conformidad a lo establecido en la Ley Estatal del Derecho de las Mujeres a una Vida Libre de Violencia, la Ley para Prevenir y Eliminar la Discriminación en el Estado de Chihuahua y demás disposiciones relacionadas.
 
 > <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
 
@@ -199,9 +199,9 @@ I. Será democrático, considerando a la democracia no solamente como una estruc
 
 II. Será nacional, en cuanto sin hostilidades ni exclusivismos atenderá a la comprensión de nuestros problemas, al aprovechamiento de nuestros recursos, a la defensa de nuestra independencia política, al aseguramiento de nuestra independencia económica y a la continuidad y acrecentamiento de nuestra cultura y el amor a la patria;
 
-> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2010)</small>
+> <small>(REFORMADA, 24 DE SEPTIEMBRE DE 2011)</small>
 
-III. Contribuirá a la mejor convivencia humana y a la resolución no violenta de conflictos sociales a través de la participación social, tanto por los elementos que aporte a fin de robustecer en el educando, junto con el aprecio por la dignidad de la persona y la integridad de la familia, la convicción del interés general de la sociedad; así como por el cuidado que ponga en sustentar los ideales de fraternidad e igualdad de derechos de todos los hombres, evitando los privilegios de raza, género, religión, grupo e individuo.
+III. Contribuirá a la mejor convivencia humana y a la resolución no violenta de conflictos sociales a través de la participación social, tanto por los elementos que aporte a fin de robustecer en el educando, junto con el aprecio por la dignidad de la persona y la integridad de la familia, la convicción del interés general de la sociedad; así como por el cuidado que ponga en sustentar los ideales de fraternidad e igualdad de derechos de todas las personas, evitando los privilegios de raza, género, religión, grupo e individuo, así como cualquier forma de maltrato y violencia entre escolares.
 
 > <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
 
@@ -979,7 +979,7 @@ La Autoridad Educativa Estatal fomentará la investigación en la educación fí
 
 #### SECCIÓN IX. DE LA EDUCACIÓN EN VALORES
 
-> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
+> <small>(REFORMADO, 24 DE SEPTIEMBRE DE 2011)</small>
 
 ###### ARTÍCULO 63.
 
@@ -1015,7 +1015,9 @@ En el tipo superior orientado al dominio y desarrollo de nuevas tecnologías a t
 
 ###### ARTÍCULO 67.
 
-La educación en valores es parte esencial de la formación integral de las y los educandos y coadyuva a su desarrollo armónico, promoviendo valores universales, para que ejerza plenamente sus capacidades dentro del marco de la convivencia, estimulando su iniciativa y un alto sentido de responsabilidad social.
+La educación en valores es parte esencial de la formación integral de las y los educandos y coadyuva a su desarrollo armónico, promoviendo valores universales, para que ejerza plenamente sus capacidades dentro del marco de la convivencia entre los integrantes de la comunidad escolar, estimulando su iniciativa y un alto sentido de responsabilidad social.
+
+Este proceso educativo se basará en los principios de libertad, responsabilidad y equidad, de forma tal que aseguren una convivencia social fundada en el respeto a las personas y las leyes, así como libre de cualquier forma de maltrato, violencia o abuso entre escolares, y promoviendo el trabajo en grupo para asegurar la comunicación y el diálogo entre educandos, educadores, padres de familia e instituciones.
 
 > <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
 
@@ -1770,6 +1772,14 @@ VII. Podrá opinar sobre asuntos pedagógicos y desarrollar acciones que contrib
 VIII. En general, podrá realizar actividades en beneficio del propio plantel.
 
 En las escuelas particulares del tipo básico de educación, podrán integrarse y operar consejos similares, que cumplan con la normatividad correspondiente.
+
+> <small>(ADICIONADO, P.O. 24 DE SEPTIEMBRE DE 2011)</small>
+
+Estos Consejos Escolares de Participación Social en la Educación, conforme a la normatividad expedida por la autoridad educativa competente, conformarán un Comité de Desaliento de las Prácticas que Generen Violencia entre Pares, cuyo objeto será prevenir, detectar y canalizar, ante la instancia correspondiente para su atención, al alumnado víctima y agresor del acoso escolar.
+
+> <small>(ADICIONADO, P.O. 24 DE SEPTIEMBRE DE 2011)</small>
+
+Para efectos de lo anterior, el Comité podrá celebrar convenios con instituciones educativas y oficiales relacionadas con atención psicológica.
 
 > <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
 
@@ -2548,3 +2558,13 @@ P.O. 2 DE JULIO DE 2011.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 24 DE SEPTIEMBRE DE 2011.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Para dar pleno cumplimiento a la reforma, la Secretaría de Educación, Cultura y Deporte, reforzará aquellos programas enfocados a prevenir, detectar y atender los casos de violencia y abuso entre escolares que se presenten en las instituciones educativas del Estado.
