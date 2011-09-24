@@ -4,7 +4,7 @@ identifier: "JAL-reglamento-interior-de-la-secretaria-del-trabajo-y-24988"
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-05-28"
-last_updated: "2005-10-22"
+last_updated: "2011-09-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=24988&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "JAL"
 
 REGLAMENTO INTERIOR DE LA SECRETARIA DEL TRABAJO Y PREVISION SOCIAL
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE OCTUBRE DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE SEPTIEMBRE DE 2011.
 
 Reglamento publicado en la Sección III del Periódico Oficial del Estado de Jalisco, el martes 28 de mayo de 2002.
 
@@ -100,11 +100,25 @@ IV. Coordinación General Administrativa;
 
 A) Coordinador General Administrativo;
 
-B) Dirección del Servicio Estatal de Empleo;
+B) (DEROGADO, P.O. 24 DE SEPTIEMBRE DE 2011)
 
-C). Dirección Administrativa;
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 24 DE SEPTIEMBRE DE 2011)</small>
 
-V. Las demás áreas que sean indispensables para el ejercicio de las atribuciones de la Secretaría, de conformidad con el Presupuesto de Egresos del Estado.
+C) Dirección Administrativa;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 24 DE SEPTIEMBRE DE 2011)</small>
+
+V. Servicio Nacional de Empleo Jalisco:
+
+A) Dirección de Vinculación Laboral;
+
+B) Dirección de Capacitación Laboral; y
+
+C) Dirección de Control y Supervisión; y (sic)
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 24 DE SEPTIEMBRE DE 2011)</small>
+
+VI. Las demás áreas que sean indispensables para el ejercicio de las atribuciones de la Secretaría, de conformidad con el Presupuesto de Egresos del Estado.
 
 ###### Artículo 5°.
 
@@ -498,7 +512,9 @@ I. Coordinar la elaboración del presupuesto anual de egresos de la Secretaría;
 
 II. Supervisar que el ejercicio del presupuesto de egresos autorizado a la Secretaría se apegue a las políticas y lineamientos establecidos;
 
-III. Supervisar que se proporcionen adecuadamente todos los servicios que prestan las áreas que conforman las Direcciones Administrativa y del Servicio Estatal de Empleo;
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2011)</small>
+
+III. Supervisar que se proporcionen adecuadamente todos los servicios que prestan las áreas que conforman la Dirección Administrativa;
 
 IV. Supervisar que se proporcionen a todas las Áreas que conforman la Secretaría del Trabajo y Previsión Social, los recursos humanos, materiales, financieros e informáticos que requieran para su correcta operación;
 
@@ -510,13 +526,17 @@ VI. Las demás que le confiera su superior jerárquico y las que le señalen otr
 
 Artículo 33 bis.- El titular de la Coordinación General Administrativa representará al Secretario en el Comité de Clasificación de Información Pública de la Secretaría, y lo presidirá.
 
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2011)</small>
+
 ###### Artículo 34.
 
-La Dirección del Servicio Estatal de Empleo estará a cargo de un Director cuyo nombramiento será expedido por el Secretario del Trabajo y Previsión Social.
+El Servicio Nacional de Empleo Jalisco estará a cargo de un Director General cuyo nombramiento será expedido por el Secretario del Trabajo y Previsión Social.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE SEPTIEMBRE DE 2011)</small>
 
 ###### Artículo 35.
 
-La Dirección del Servicio Estatal de Empleo, será competente para:
+El Servicio Nacional de Empleo Jalisco tendrá las siguientes atribuciones:
 
 I. Desarrollar el Servicio Público de Empleo, adecuando su operación a las características particulares del mercado de trabajo en la Entidad;
 
@@ -534,9 +554,11 @@ VII. Promover la superación de los trabajadores mediante la concertación de ac
 
 VIII. Las demás que le confiera su superior jerárquico y las que le señalen otros ordenamientos jurídicos aplicables.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE SEPTIEMBRE DE 2011)</small>
+
 ###### Artículo 36.
 
-El Director del Servicio Estatal de Empleo tendrá las siguientes obligaciones:
+El Director General del Servicio Nacional del Empleo Jalisco tendrá las siguientes obligaciones:
 
 I. Planear, programar, dirigir, controlar y supervisar el trabajo de la Dirección a su cargo;
 
@@ -544,7 +566,9 @@ II. Promover y evaluar el servicio público del empleo en la Entidad;
 
 III. Vigilar el funcionamiento de las agencias de colocación en el Estado, en los términos de la Ley Federal del Trabajo;
 
-IV. Acordar con el Coordinador General Administrativo, los planes de trabajo y las acciones a desarrollar, así como el seguimiento de los mismos; y
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2011)</small>
+
+IV. Acordar con el Secretario los planes de trabajo y las acciones a desarrollar, así como el seguimiento de los mismos; y
 
 V. Las demás que le confiera su superior jerárquico y las que le señalen otros ordenamientos jurídicos aplicables.
 
@@ -621,3 +645,9 @@ PRIMERO.- Publíquese en el Periódico Oficial "El Estado de Jalisco" el present
 ...
 
 QUINTO. Se derogan todas las disposiciones reglamentarias que se opongan al presente Acuerdo.
+
+P.O. 24 DE SEPTIEMBRE DE 2011.
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+SEGUNDO. El cambio de nomenclatura del Servicio Estatal de Empleo a Servicio Nacional de Empleo Jalisco, no implicará un cambio de nivel salarial ni movimiento de plantilla de personal.
