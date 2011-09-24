@@ -4,7 +4,7 @@ identifier: "COL-codigo-de-procedimientos-penales-para-el-estado-de-colima-12358
 country: "mx"
 rank: "codigo"
 publication_date: "1997-08-02"
-last_updated: "2011-08-31"
+last_updated: "2011-09-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12358&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,13 @@ state: "COL"
 ---
 # CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE COLIMA
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LAS FE DE ERRATAS PUBLICADAS EL 24 DE SEPTIEMBRE DE 2011 Y 15 DE OCTUBRE DE 2011 EN EL P.O. DEL ESTADO DE COLIMA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHAS FECHAS, EN EL INDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 15 DE OCTUBRE DE 2011 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
 
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE COLIMA
 
 ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE AGOSTO DE 2011.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 24 DE SEPTIEMBRE DE 2011.</small>
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Colima, el sábado 2 de agosto de 1997.
 
@@ -1325,11 +1327,11 @@ X. La prohibición de realizar conductas de intimidación o molestia a la vícti
 
 XI. Las demás que determinen las disposiciones legales.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 24 DE SEPTIEMBRE DE 2011 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA, ASÍ COMO EL ARCHIVO ANEXO.</small>
+(ADICIONADO, P.O. 31 DE AGOSTO DE 2011) (F. DE E., P.O. 24 DE SEPTIEMBRE DE 2011)
 
-> <small>(ADICIONADO, P.O. 31 DE AGOSTO DE 2011)</small>
+###### ARTÍCULO 158 Bis 1.
 
-ARTÍCULO 158 Bis (sic).- El Ministerio Público autorizará dentro del término de cuarenta y ochos horas, contadas a partir de que la mujer presente la solicitud de la interrupción de embarazo de acuerdo con lo previsto por la fracción II del artículo 190 del Código Penal del Estado de Colima, cuando concurran los siguientes elementos:
+El Ministerio Público autorizará dentro del término de cuarenta y ochos horas, contadas a partir de que la mujer presente la solicitud de la interrupción de embarazo de acuerdo con lo previsto por la fracción II del artículo 190 del Código Penal del Estado de Colima, cuando concurran los siguientes elementos:
 
 I. Que exista denuncia por el delito de violación o de alguna técnica de reproducción asistida indebida;
 
