@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-cultura-fisica-y-deporte-del-estado-de-durango-76220"
 country: "mx"
 rank: "ley"
 publication_date: "2010-07-22"
-last_updated: "2010-07-22"
+last_updated: "2011-09-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76220&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE CULTURA FISICA Y DEPORTE DEL ESTADO DE DURANGO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE SEPTIEMBRE DE 2011.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 22 de julio de 2010.
 
@@ -489,11 +489,23 @@ A las personas físicas o morales, así como a las organizaciones que hubieren c
 
 Los estímulos de otra naturaleza que soliciten las organizaciones a las autoridades, estarán condicionadas al cumplimiento de las obligaciones que para las mismas establece el artículo 28. Para el cumplimiento de lo anterior, las autoridades deberán verificar dicha obligación, con información que les proporcione el Instituto.
 
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2011)</small>
+
 ###### Artículo 43.
 
-A los deportistas duranguenses que hubieren competido oficialmente representando a México en juegos olímpicos, se les otorgará por parte del Gobierno del Estado, una pensión mensual equivalente a noventa salarios mínimos en forma vitalicia.
+A los deportistas duranguenses que hubieren competido oficialmente, representando a México se les otorgará por parte del Gobierno del Estado, una pensión mensual de acuerdo a lo siguiente:
 
-Para la concesión, suspensión o revocación de dicha pensión, se estará a lo que determine el Reglamento de esta Ley.
+I. En juegos Olímpicos y Paralímpicos una pensión mensual de hasta cien veces el salario diario mínimo vigente en el Estado;
+
+II. En Juegos Panamericanos una pensión mensual de hasta ochenta veces el salario diario mínimo vigente en el Estado, y
+
+III. En Juegos Centroamericanos una pensión mensual de hasta sesenta veces el salario diario mínimo vigente en el Estado.
+
+Para el otorgamiento, suspensión o revocación de dicha pensión, se estará a lo que determine el Reglamento correspondiente.
+
+> <small>(ADICIONADO, P.O. 25 DE SEPTIEMBRE DE 2011)</small>
+
+Artículo 43 bis. La pensión a que se refiere la fracción I de artículo anterior será otorgada de manera vitalicia a aquellos deportistas que obtengan medalla en dichas competencias, para el resto de los competidores a que se refiere el artículo anterior se estará a lo dispuesto por el reglamento respectivo.
 
 ###### Artículo 44.
 
@@ -660,3 +672,13 @@ C.P. ISMAEL ALFREDO HERNANDEZ DERAS
 EL SECRETARIO GENERAL DE GOBIERNO
 
 LIC. OLIVERIO REZA CUELLAR
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 25 DE SEPTIEMBRE DE 2011.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación, en el Periódico Oficial del Gobierno Constitucional del Estado de Durango.
+
+SEGUNDO.- Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+TERCERO.- El Titular del Ejecutivo del Estado expedirá el Reglamento a que se refiere el presente Decreto en un plazo no mayor a cuarenta días hábiles a partir de la entrada en vigor del mismo.
