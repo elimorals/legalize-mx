@@ -4,7 +4,7 @@ identifier: "AGU-reglamento-interno-de-la-comision-estatal-de-arbitraje-20255"
 country: "mx"
 rank: "reglamento"
 publication_date: "2001-01-15"
-last_updated: "2010-09-20"
+last_updated: "2011-09-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=20255&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 REGLAMENTO INTERNO DE LA COMISION ESTATAL DE ARBITRAJE MEDICO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE SEPTIEMBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE SEPTIEMBRE DE 2011.
 
 Reglamento publicado en el Periódico Oficial del Estado de Aguascalientes, el lunes 15 de enero de 2001.
 
@@ -137,7 +137,9 @@ II. Revisar y, en su caso, aprobar los programas operativos a que se sujetará l
 
 III. Aprobar el anteproyecto de presupuesto anual de la Comisión, sujetándose a las disposiciones establecidas al respecto por la Ley de Presupuesto Contabilidad y Gasto Público del Estado de Aguascalientes y el Presupuesto de Egresos del Estado.
 
-IV. Aprobar anualmente, previa opinión de la Secretaria de Finanzas y la Contraloría General del Estado, los estados financieros anuales de la Comisión.
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2011)</small>
+
+IV. Aprobar anualmente previa opinión de la Secretaría de Finanzas y la Secretaría de Fiscalización y Rendición de Cuentas, los estados financieros anuales de la Comisión.
 
 V. Emitir opiniones sobre los asuntos que someta a su consideración el Comisionado, cuando no estén previstos en este Reglamento u otros ordenamientos que rijan la operación de la Comisión.
 
@@ -333,7 +335,9 @@ X. Suscribir, cuando proceda, los convenios, contratos y demás documentos que i
 
 XI. Expedir certificaciones y autentificar documentos relacionados con su competencia;
 
-XII. Realizar, a iniciativa de la Contraloría General del Estado, las auditorias y revisiones que se requieran, así como proponer y vigilar la aplicación de las medidas correctivas y opiniones que correspondan;
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2011)</small>
+
+XII. Realizar, a iniciativa de la Secretaría de Fiscalización y Rendición de Cuentas, las auditorías y revisiones que se requieran, así como proponer y vigilar la aplicación de las medidas correctivas y opiniones que correspondan,
 
 XIII. Practicar investigaciones sobre los actos de los servidores públicos que pudieran generar responsabilidades en términos de la Ley de Responsabilidades de los Servidores Públicos del Estado de Aguascalientes y vigilar su cumplimiento;
 
@@ -435,9 +439,13 @@ IV. Emitir los dictámenes, opiniones o informes que le sean solicitados por su 
 
 V. Proponer a su superior jerárquico, el ingreso, promociones, licencias y remociones del personal bajo su adscripción;
 
-VI. Elaborar, de conformidad con los lineamientos de las unidades competentes del lnstituto, así como de las dependencias competentes, los informes necesarios para el adecuado desarrollo de las actividades encomendadas a la Comisión;
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2011)</small>
 
-VII. Formular, de conformidad con los lineamientos que al respecto dicten las dependencias competentes y con la participación que le corresponda al Instituto, los proyectos de los programas y presupuestos relativos a la unidad administrativa a su cargo;
+VI. Elaborar, de conformidad con los lineamientos de las unidades competentes de la Comisión, así como de las dependencias competentes, los informes necesarios para el adecuado desarrollo de las actividades encomendadas a la Comisión;
+
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2011)</small>
+
+VII. Formular, de conformidad con los lineamientos que al respecto dicten las dependencias competentes y con la participación que le corresponda a la Comisión, los proyectos de programas y presupuestos relativos a la unidad administrativa a su cargo;
 
 VIII. Coordinar sus actividades con las demás unidades administrativas cuando así se requiera para el mejor funcionamiento de la Comisión;
 
@@ -598,3 +606,7 @@ UNICO. - Este decreto entrará en vigor al día siguiente de su publicación en 
 P.O. 20 DE SEPTIEMBRE DE 2010.
 
 UNICO.- La presente Reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 26 DE SEPTIEMBRE DE 2011.
+
+ÚNICO.- La presente Reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
