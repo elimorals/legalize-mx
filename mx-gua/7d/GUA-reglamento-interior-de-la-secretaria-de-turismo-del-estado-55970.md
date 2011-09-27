@@ -4,7 +4,7 @@ identifier: "GUA-reglamento-interior-de-la-secretaria-de-turismo-del-estado-5597
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-06-12"
-last_updated: "2007-11-06"
+last_updated: "2011-09-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55970&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 REGLAMENTO INTERIOR DE LA SECRETARIA DE DESARROLLO TURISTICO DEL ESTADO DE GUANAJUATO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE NOVIEMBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE SEPTIEMBRE DE 2011.
 
 Reglamento publicado en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el martes 12 de junio de 2007.
 
@@ -61,9 +61,9 @@ a) Dirección de Asuntos Jurídicos;
 
 b) Dirección Administrativa;
 
-> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2007)</small>
+> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2011)</small>
 
-c) Unidad de Comunicación Social; y
+c) Coordinación de Comunicación Social; y
 
 d) Secretaría Particular;
 
@@ -77,13 +77,21 @@ b) Dirección de Mercadotecnia;
 
 c) Dirección de Relaciones Públicas;
 
+> <small>(ADICIONADO, P.O. 27 DE SEPTIEMBRE DE 2011)</small>
+
+d) Dirección de Productos Turísticos; y
+
+> <small>(ADICIONADO, P.O. 27 DE SEPTIEMBRE DE 2011)</small>
+
+e) Coordinación de Atención a Segmentos Especializados.
+
 III. Dirección General de Desarrollo Turístico:
 
 a) Dirección de Cultura Turística;
 
-b) Dirección de Desarrollo de Proyectos; y
+b) Dirección de Desarrollo de Proyectos; y (sic)
 
-c) Dirección de Productos Turísticos;
+c) (DEROGADO, P.O. 27 DE SEPTIEMBRE DE 2011)
 
 IV. Dirección General de Planeación:
 
@@ -175,9 +183,13 @@ III. Proponer y en su caso elaborar los proyectos de reglamentos, decretos, acue
 
 IV. Elaborar y revisar los proyectos de acuerdos, convenios y contratos en los que intervenga la Secretaría;
 
-V. Brindar respuesta a los informes de auditoría emitidos por las unidades de revisión gubernamental, despachos externos o cualquier otra instancia que tenga facultades de revisión sobre los programas de atención y áreas de la Secretaría;
+> <small>(REFORMADA, P.O. 27 DE SEPTIEMBRE DE 2011)</small>
 
-VI. Fungir como unidad de enlace de la Secretaría ante la Unidad de Acceso a la Información Pública del Poder Ejecutivo, así como promover el uso de medios electrónicos para la simplificación y agilización de trámites y procesos, de conformidad con la normativa correspondiente;
+V. Coordinar al interior de la Secretaría y con las instancias correspondientes, la programación, ejecución y seguimiento de los proyectos de mejora regulatoria;
+
+> <small>(REFORMADA, P.O. 27 DE SEPTIEMBRE DE 2011)</small>
+
+VI. Fungir como unidad de enlace de la Secretaría ante la Unidad de Acceso a la Información Pública del Poder Ejecutivo;
 
 > <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2007)</small>
 
@@ -189,7 +201,9 @@ IX. Promover, tramitar, intervenir y dar seguimiento a los juicios, procedimient
 
 X. Elaborar y presentar las denuncias y querellas respecto de los asuntos competencia de la Secretaría o de sus unidades administrativas;
 
-XI. Recibir y canalizar a la secretaría federal en materia de turismo, los recursos de revisión que se interpongan en contra de sus resoluciones, con apego al procedimiento previsto en las disposiciones jurídicas aplicables;
+> <small>(REFORMADA, P.O. 27 DE SEPTIEMBRE DE 2011)</small>
+
+XI. Ejecutar las atribuciones que en materia de procedimientos contra prestadores de servicios turísticos y recursos de revisión, le confieran a la Secretaría los distintos ordenamientos y convenios que al efecto se suscriban;
 
 XII. Expedir certificaciones de los documentos existentes en los archivos de la Secretaría;
 
@@ -215,7 +229,9 @@ IV. Implementar la aplicación de las políticas, manuales y criterios para la a
 
 V. Coordinar y vigilar el cumplimiento de la normativa para la adquisición, control, custodia, mantenimiento, conservación y uso de los bienes muebles e inmuebles, así como de los recursos que conforman el patrimonio de la Secretaría;
 
-VI. Coordinarse con las demás unidades administrativas de la Secretaría para atender a los órganos de revisión gubernamental, despachos externos o cualquier instancia que tenga facultades de control, vigilancia, seguimiento y evaluación;
+> <small>(REFORMADA, P.O. 27 DE SEPTIEMBRE DE 2011)</small>
+
+VI. Promover el uso de medios electrónicos para la simplificación y agilización de trámites y procesos, de conformidad con la normatividad correspondiente;
 
 VII. Coordinar el proceso de elaboración del anteproyecto anual del presupuesto de egresos de la Secretaría y someterlo a la consideración y aprobación del Secretario;
 
@@ -229,27 +245,31 @@ IX. Vigilar y supervisar la ejecución de las políticas, normas, criterios, sis
 
 X. Las demás que otras disposiciones jurídicas aplicables le atribuyan, así como aquellas que le confiera su superior jerárquico.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 6 DE NOVIEMBRE DE 2007)</small>
+> <small>(REFORMADA SU DENOMINACION, P.O. 27 DE SEPTIEMBRE DE 2011)</small>
 
-### Capítulo VI. De la Unidad de Comunicación Social
+### Capítulo VI. De la Coordinación de Comunicación Social
 
-> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2007)</small>
+> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2011)</small>
 
 ###### Artículo 10.
 
-La Unidad de Comunicación Social tendrá las siguientes facultades:
+La Coordinación de Comunicación Social tendrá las siguientes facultades:
 
-I. Previo acuerdo con el Secretario, difundir los programas, acciones y logros de la Secretaría, a través de diferentes medios de comunicación;
+I. Proponer al Secretario las estrategias de comunicación para difundir los programas, acciones y logros de la Secretaría, a través de diversos medios de comunicación estatal, nacional e internacional;
 
-II. Asesorar a las unidades administrativas de la Secretaría, en el manejo, atención y presentación de información ante los representantes de los medios de comunicación;
+II. Coordinar la presentación de información de la Secretaría ante los medios de comunicación;
 
-III. Elaborar síntesis informativas de los medios de comunicación, cuyo contenido sea de interés para la Secretaría;
+III. Elaborar análisis y síntesis de la información relacionada con la Secretaría y el sector turístico, para difundirla en los distintos medios de comunicación;
 
-IV. Diseñar mensajes y desplegados para medios impresos, anuncios espectaculares, así como para radio y televisión, de conformidad con los requerimientos de la Secretaría;
+IV. Fungir como enlace de la Secretaría con la Coordinación General de Comunicación Social del Ejecutivo del Estado, para el cumplimiento de los lineamientos y demás normatividad que se genere en materia de comunicación social del Gobierno del Estado;
 
-V. Apoyar en la realización de eventos especiales, giras y foros que organice o en los que participe la Secretaría, así como convocar a las ruedas de prensa para su difusión; y
+V. Diseñar mensajes y desplegados para diversos medios de comunicación de conformidad con los requerimientos de la Secretaría;
 
-VI. Las demás que prevé el artículo 6 de este Reglamento, en el ámbito de su competencia.
+VI. Apoyar a las unidades administrativas de la Secretaría en la realización de eventos especiales, giras, foros, ruedas de prensa y otras actividades de la misma naturaleza que organicen o participen;
+
+VII. Convocar y atender a los representantes de los medios de comunicación en los eventos en que la Secretaría participe; y
+
+VIII. Las demás que otras disposiciones jurídicas aplicables le atribuyan, así como aquellas que le confiera su superior jerárquico.
 
 ### Capítulo VII. De la Secretaría Particular
 
@@ -283,6 +303,14 @@ II. Dirección de Mercadotecnia;
 
 III. Dirección de Relaciones Públicas.
 
+> <small>(ADICIONADA, P.O. 27 DE SEPTIEMBRE DE 2011)</small>
+
+IV. Dirección de Productos Turísticos; y
+
+> <small>(ADICIONADA, P.O. 27 DE SEPTIEMBRE DE 2011)</small>
+
+V. Coordinación de Atención a Segmentos Especializados.
+
 ###### Artículo 13.
 
 La Subsecretaría de Promoción Turística tendrá las siguientes facultades:
@@ -297,7 +325,9 @@ III. Coordinar el diseño, elaboración y ejecución de campañas de promoción 
 
 IV. Supervisar la planeación, ejecución y evaluación de las estrategias de promoción que permitan fortalecer y posicionar al Estado de Guanajuato como un destino turístico;
 
-V. Fungir como vínculo ante el Consejo de Promoción Turística de México y demás instancias similares, con la finalidad de alentar la afluencia de visitantes nacionales y extranjeros hacia los destinos turísticos locales;
+> <small>(REFORMADA, P.O. 27 DE SEPTIEMBRE DE 2011)</small>
+
+V. Fungir como vínculo ante el Consejo de Promoción Turística de México y demás instancias competentes en materia de promoción, con la finalidad de participar en las diversas acciones que se diseñen orientadas a alentar la afluencia de turistas y visitantes nacionales y extranjeros hacia los destinos turísticos de la Entidad;
 
 VI. Fomentar la organización de eventos orientados a promover la actividad turística en el Estado de Guanajuato;
 
@@ -313,9 +343,35 @@ XI. Coordinar sus actividades con los titulares de las demás unidades administr
 
 XII. Suscribir los documentos relativos al ejercicio de sus facultades y aquellos que le sean encomendados por delegación o le correspondan por suplencia;
 
-XIII. Desempeñar las comisiones que por acuerdo expreso le encomiende el Secretario, así como representar a la Secretaría ante personas del sector público y privado; y
+XIII. Desempeñar las comisiones que por acuerdo expreso le encomiende el Secretario, así como representar a la Secretaría ante personas del sector público y privado; y (sic)
 
-XIV. Las demás que otras disposiciones jurídicas aplicables le atribuyan, así como aquellas que le confiera su superior jerárquico.
+> <small>(REFORMADA, P.O. 27 DE SEPTIEMBRE DE 2011)</small>
+
+XIV. Promover y respaldar la institucionalización del turismo social, en coordinación con los sectores público, privado y social;
+
+> <small>(ADICIONADA, P.O. 27 DE SEPTIEMBRE DE 2011)</small>
+
+XV. Promover, en coordinación con los prestadores de servicios turísticos y los municipios, la integración de organismos de carácter público, privado, social o mixto, orientados al fomento de la actividad turística;
+
+> <small>(ADICIONADA, P.O. 27 DE SEPTIEMBRE DE 2011)</small>
+
+XVI. Operar el Fondo de Promoción y Difusión para el Turismo del Estado de Guanajuato, constituido con recursos provenientes del impuesto por servicios de hospedaje que transfiere la Secretaría de Finanzas y Administración a la Secretaría, de conformidad con la legislación de la materia;
+
+> <small>(ADICIONADA, P.O. 27 DE SEPTIEMBRE DE 2011)</small>
+
+XVII. Supervisar y evaluar los mecanismos, programas y acciones de promoción turística de los destinos turísticos del Estado, así como la actividad de las oficinas de convenciones y visitantes constituidas en la Entidad, con el objeto de impulsar el turismo de segmentos especializados;
+
+> <small>(ADICIONADA, P.O. 27 DE SEPTIEMBRE DE 2011)</small>
+
+XVIII. Coordinar las acciones orientadas a la creación y mejoramiento de productos turísticos en la Entidad;
+
+> <small>(ADICIONADA, P.O. 27 DE SEPTIEMBRE DE 2011)</small>
+
+XIX. Promover el desarrollo de operadores de experiencias turísticas en el Estado; y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 27 DE SEPTIEMBRE DE 2011)</small>
+
+XX. Las demás que otras disposiciones jurídicas aplicables le atribuyan, así como aquellas que le confiera su superior jerárquico.
 
 #### Sección Primera. De la Dirección de Promoción y Difusión
 
@@ -325,13 +381,17 @@ La Dirección de Promoción y Difusión tendrá las siguientes facultades:
 
 I. Coadyuvar en la elaboración y ejecución del Programa de Promoción Turística Estatal;
 
-II. Establecer, supervisar y evaluar los mecanismos de promoción de los diferentes destinos turísticos del Estado;
+> <small>(REFORMADA, P.O. 27 DE SEPTIEMBRE DE 2011)</small>
 
-> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2007)</small>
+II Diseñar, ejecutar y evaluar campañas de promoción y difusión turística en mercados regionales, nacionales e internacionales;
 
-III. Participar con las autoridades competentes, en la definición de los requerimientos técnicos y dictaminación de las propuestas técnicas que se presenten con motivo de la contratación de servicios de promoción, publicidad y difusión turística en los mercados regional, nacional e internacional;
+> <small>(REFORMADA, P.O. 27 DE SEPTIEMBRE DE 2011)</small>
 
-IV. Diseñar, ejecutar y evaluar campañas de promoción y difusión turística;
+III. Participar, proponer, supervisar y autorizar el uso de la imagen turística del Estado en los diferentes medios publicitarios y herramientas de promoción, previo acuerdo con el Subsecretario de Promoción Turística;
+
+> <small>(REFORMADA, P.O. 27 DE SEPTIEMBRE DE 2011)</small>
+
+IV. Participar con las autoridades competentes, en la definición de los requerimientos técnicos y dictaminación de las propuestas técnicas que se presenten con motivo de la contratación de servicios de promoción, publicidad y difusión turística;
 
 V. Atender los planteamientos que provengan de distintas personas físicas o morales orientadas a fomentar el turismo, así como dar seguimiento a los acuerdos logrados con las mismas; y (sic)
 
@@ -339,17 +399,17 @@ V. Atender los planteamientos que provengan de distintas personas físicas o mor
 
 VI. Proponer alianzas estratégicas en materia de promoción y difusión turística, en los mercados regional, nacional e internacional, para lo cual podrá solicitar apoyo del Consejo de Promoción Turística de México;
 
-> <small>(ADICIONADA, P.O. 6 DE NOVIEMBRE DE 2007)</small>
+> <small>(REFORMADA, P.O. 27 DE SEPTIEMBRE DE 2011)</small>
 
-VII. Coordinar el diseño, producción y actualización del material de promoción y difusión turística del Estado de Guanajuato;
+VII. Participar en la planeación, ejecución y evaluación de los programas que en materia de promoción y difusión turística lleven a cabo los sectores público, privado y social;
 
-> <small>(ADICIONADA, P.O. 6 DE NOVIEMBRE DE 2007)</small>
+> <small>(REFORMADA, P.O. 27 DE SEPTIEMBRE DE 2011)</small>
 
-VIII. Participar en la elaboración de estrategias y lineamientos para la integración, ejecución y evaluación de programas cooperativos;
+VIII. Participar en la integración, ejecución y evaluación de programas cooperativos en conjunto con el Consejo de Promoción Turística de México y demás instancias competentes en materia de promoción;
 
-> <small>(ADICIONADA, P.O. 6 DE NOVIEMBRE DE 2007)</small>
+> <small>(REFORMADA, P.O. 27 DE SEPTIEMBRE DE 2011)</small>
 
-IX. Coordinar las estrategias y acciones que en materia de promoción y difusión turística lleven a cabo, las instancias federales y estatales; y
+IX. Coordinar el diseño, producción y actualización del material de promoción y difusión turística del Estado de Guanajuato; y
 
 > <small>(ADICIONADA, P.O. 6 DE NOVIEMBRE DE 2007)</small>
 
@@ -361,11 +421,17 @@ X. Las demás que otras disposiciones jurídicas aplicables le atribuyan, así c
 
 La Dirección de Mercadotecnia tendrá las siguientes facultades:
 
-I. Diseñar y coordinar la ejecución de estrategias y acciones de mercadotecnia que permitan posicionar los productos, servicios y destinos turísticos del Estado, para lo cual podrá vincularse con el sector turismo;
+> <small>(REFORMADA, P.O. 27 DE SEPTIEMBRE DE 2011)</small>
 
-II. Proponer, supervisar y autorizar el uso de la imagen turística del Estado en los diferentes medios publicitarios y herramientas de promoción, previo acuerdo con el Subsecretario de Promoción Turística;
+I. Diseñar, coordinar y evaluar las estrategias y acciones con los sectores público, privado y social para la integración y comercialización de una oferta consolidada y continua de productos, rutas, circuitos, servicios y destinos turísticos del Estado;
 
-III. Concertar acciones con los prestadores de servicio turísticos para la integración y comercialización de una oferta consolidada y continua de productos y servicios turísticos; y (sic)
+> <small>(REFORMADA, P.O. 27 DE SEPTIEMBRE DE 2011)</small>
+
+II. Diseñar, implementar y supervisar acciones y herramientas de mercadotecnia en apoyo a la comercialización de la oferta turística del Estado;
+
+> <small>(REFORMADA, P.O. 27 DE SEPTIEMBRE DE 2011)</small>
+
+III. Gestionar y coordinar con los organismos legalmente constituidos de carácter público, privado, social o mixto, la participación en la conjunción de recursos y ejecución de acciones de promoción y difusión de la oferta turística de los destinos turísticos de la Entidad;
 
 > <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2007)</small>
 
@@ -379,27 +445,67 @@ V. Las demás que otras disposiciones jurídicas aplicables le atribuyan, así c
 
 #### Sección Tercera. De la Dirección de Relaciones Públicas
 
-> <small>(ADICIONADO, P.O. 6 DE NOVIEMBRE DE 2007)</small>
+> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2011)</small>
 
 ###### Artículo 15 Bis.
 
 La Dirección de Relaciones Públicas tendrá las siguientes facultades:
 
-I. Establecer y dar seguimiento a un programa de relaciones públicas con los sectores público y privado;
+I. Participar, previa aprobación de su superior jerárquico, en la coordinación y ejecución de un programa de relaciones públicas encaminado a posicionar la imagen turística del Estado de Guanajuato;
 
-II. Establecer y coordinar mecanismos de comunicación con los prestadores de servicios, que permitan anticipar o atender de manera precisa sus requerimientos y necesidades para fortalecer el sector y la oferta turística;
+II. Proponer y coordinar mecanismos de comunicación con los sectores público, privado y social, que permitan anticipar o atender de manera precisa sus requerimientos y necesidades para fortalecer el sector y la oferta turística;
 
-III. Implementar, coordinar y evaluar los mecanismos que permitan proporcionar información y orientación a los turistas y visitantes;
+III. Implementar y coordinar mecanismos de comunicación que permitan proporcionar información y orientación a los turistas y visitantes;
 
-IV. Establecer y dar seguimiento a los programas de atención de viajes de incentivos y familiarización, en coordinación con las unidades administrativas de la Secretaría que sean competentes;
+IV. Atender y dar seguimiento a los viajes de incentivos y familiarización, en coordinación con los sectores público, privado y social;
 
-V. Apoyar, gestionar y dar seguimiento a la organización de congresos, convenciones, ferias, exposiciones y demás eventos relacionados con la promoción de la actividad turística; y
+V. Implementar y coordinar caravanas de promoción turística nacionales e internacionales con la participación del sector turístico;
 
-VI. Las demás que otras disposiciones jurídicas aplicables le atribuyan, así como aquellas que le confiera su superior jerárquico.
+VI. Concertar y coordinar con los prestadores de servicios turísticos programas y acciones de turismo social, mediante la integración de una oferta consolidada y continua con garantía de condiciones especiales de tiempo, calidad y precios; y
 
-#### Sección Primera. De la Dirección de Cultura Turística
+VII. Las demás que otras disposiciones jurídicas aplicables le atribuyan, así como aquellas que le confiera su superior jerárquico.
 
-#### Sección Segunda. De la Dirección de Desarrollo de Proyectos
+> <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, P.O. 27 DE SEPTIEMBRE DE 2011)</small>
+
+#### Sección Cuarta. De la Dirección de Productos Turísticos
+
+> <small>(ADICIONADO, P.O. 27 DE SEPTIEMBRE DE 2011)</small>
+
+###### Artículo 15 Ter.
+
+La Dirección de Productos Turísticos tendrá las siguientes facultades:
+
+I. Proponer e implementar estrategias y mecanismos para incrementar la competitividad de productos, circuitos y rutas de los destinos turísticos del Estado;
+
+II. Participar en la identificación y creación de nuevos productos turísticos, conforme a criterios de competitividad, sustentabilidad y desarrollo regional, en coordinación con los sectores público, privado y social:
+
+III. Proponer a su superior jerárquico las estrategias, programas y proyectos para la creación de empresas integradoras y operadoras de productos turísticos a nivel regional y estatal, en coordinación con las autoridades competentes;
+
+IV. Apoyar, gestionar y dar seguimiento a la organización y desarrollo de eventos relacionados con la promoción de la actividad turística del Estado;
+
+V. Fomentar e incentivar la innovación, profesionalización y mejoramiento de productos turísticos de la Entidad;
+
+VI. Definir, diseñar y fomentar la creación y desarrollo de rutas y circuitos turísticos en el Estado; y
+
+VII. Las demás que otras disposiciones jurídicas aplicables le atribuyan, así como aquellas que le confiera su superior jerárquico.
+
+> <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, P.O. 27 DE SEPTIEMBRE DE 2011)</small>
+
+#### Sección Quinta. De la Coordinación de Atención a Segmentos Especializados
+
+> <small>(ADICIONADO, P.O. 27 DE SEPTIEMBRE DE 2011)</small>
+
+###### Artículo 15 Quáter.
+
+La Coordinación de Atención a Segmentos Especializados tendrá las siguientes facultades:
+
+I. Coordinar el apoyo y seguimiento a la organización y desarrollo de congresos convenciones, ferias, exposiciones y demás actividades orientadas a promover el turismo hacia el Estado;
+
+II. Coordinar y dar seguimiento a los programas que en materia de atención de segmentos especializados realicen la Secretaría y los diferentes destinos turísticos del Estado, a través de los organismos legalmente constituidos;
+
+III. Coadyuvar con las oficinas de convenciones y visitantes constituidas en el Estado, en el diseño y ejecución de programas de impulso al segmento de congresos y convenciones, así como en la implementación de programas de incentivos a organizadores de estos eventos; y
+
+IV. Las demás que otras disposiciones jurídicas aplicables le atribuyan, así como aquellas que le confiera su superior jerárquico.
 
 ### Capítulo IX. De la Dirección General de Desarrollo Turístico
 
@@ -409,9 +515,9 @@ La Dirección General de Desarrollo Turístico deberá planear, dirigir y superv
 
 I. Dirección de Cultura Turística;
 
-II. Dirección de Desarrollo de Proyectos; y
+II. Dirección de Desarrollo de Proyectos; y (sic)
 
-III. Dirección de Productos Turísticos.
+III. (DEROGADA, P.O. 27 DE SEPTIEMBRE DE 2011)
 
 ###### Artículo 17.
 
@@ -425,59 +531,87 @@ III. Promover y gestionar ante autoridades municipales, estatales y federales la
 
 IV. Promover y participar en la ejecución de acciones destinadas a mejorar la imagen urbana de los destinos turísticos en la Entidad, así como de la infraestructura complementaria que requieran;
 
-V. Coordinar las acciones orientadas a la creación y mejoramiento de productos turísticos en la Entidad;
+> <small>(REFORMADA, P.O. 27 DE SEPTIEMBRE DE 2011)</small>
 
-VI. Coordinar las acciones orientadas a fomentar una cultura turística de calidad entre diversos sectores vinculados a la actividad turística y la sociedad en general;
+V. Coordinar las acciones orientadas a fomentar una cultura turística de calidad entre diversos sectores vinculados a la actividad turística y la sociedad en general;
 
-VII. Coordinar los actos de verificación del cumplimiento de la normatividad en materia turística en los términos de los convenios y disposiciones legales respectivas, apoyándose con la Dirección de Asuntos Jurídicos;
+> <small>(REFORMADA, P.O. 27 DE SEPTIEMBRE DE 2011)</small>
 
-VIII. Coordinar y coadyuvar en la elaboración de los programas especiales de protección, asistencia y auxilio a los turistas y visitantes, apoyándose para su ejecución en los organismos e instancias correspondientes;
+VI. Supervisar con apoyo de la Dirección de Asuntos Jurídicos, los actos de verificación del cumplimiento de la normatividad en materia turística en los términos de los convenios y disposiciones legales respectivas;
 
-IX. Promover, coordinar y vigilar la aplicación de modelos de estandarización y clasificación de los servicios turísticos, de conformidad con la normatividad aplicable;
+> <small>(REFORMADA, P.O. 27 DE SEPTIEMBRE DE 2011)</small>
 
-X. Emitir opinión sobre los programas educativos y de capacitación en materia turística, así como participar en los diferentes esfuerzos que sobre la materia realicen las autoridades competentes y los sectores social y privado;
+VII. Participar en la elaboración de los programas especiales de protección, asistencia y auxilio a los turistas y visitantes, apoyando en su ejecución a los organismos e instancias correspondientes;
 
-XI. Fomentar la creación y ejecución de programas de competitividad del sector turístico para impulsar la calidad de los servicios turísticos de la Entidad;
+> <small>(REFORMADA, P.O. 27 DE SEPTIEMBRE DE 2011)</small>
 
-XII. Coadyuvar con las autoridades correspondientes en las acciones encaminadas a fomentar el cuidado y conservación de zonas arqueológicas, monumentos artísticos e históricos u objetos de interés, así como en la administración y conservación de áreas recreativas, de descanso, parques, bosques, lagos, lagunas y otros atractivos turísticos típicos o naturales;
+VIII. Promover, coordinar y vigilar la aplicación de modelos de estandarización y clasificación de los servicios turísticos, de conformidad con la normatividad aplicable;
 
-XIII. Promover acciones a efecto de que los prestadores de servicios turísticos se coordinen con el fin de integrar organizaciones orientadas al fomento de la actividad turística en la Entidad;
+> <small>(REFORMADA, P.O. 27 DE SEPTIEMBRE DE 2011)</small>
 
-XIV. Promover el desarrollo de operadores de experiencias turísticas en el Estado; y
+IX. Fomentar la creación y ejecución de programas de competitividad del sector turístico para impulsar la calidad de los servicios turísticos de la Entidad;
 
-XV. Las demás que otras disposiciones jurídicas aplicables le atribuyan, así como aquellas que le confiera su superior jerárquico.
+> <small>(REFORMADA, P.O. 27 DE SEPTIEMBRE DE 2011)</small>
 
-#### Sección Tercera. De la Dirección de Productos Turísticos
+X. Coadyuvar con las autoridades correspondientes en las acciones encaminadas a fomentar el cuidado y conservación de zonas arqueológicas, monumentos artísticos e históricos u objetos de interés, así como en la administración y conservación de áreas recreativas, de descanso, parques, bosques, lagos, lagunas y otros atractivos turísticos típicos y naturales;
+
+> <small>(REFORMADA, P.O. 27 DE SEPTIEMBRE DE 2011)</small>
+
+XI. Promover la integración de organizaciones orientadas al fomento de la actividad turística en la Entidad; y
+
+> <small>(REFORMADA, P.O. 27 DE SEPTIEMBRE DE 2011)</small>
+
+XII. Las demás que otras disposiciones jurídicas aplicables le atribuyan, así como aquellas que le confiera su superior jerárquico.
+
+XIII. (DEROGADA, P.O. 27 DE SEPTIEMBRE DE 2011)
+
+XIV. (DEROGADA, P.O. 27 DE SEPTIEMBRE DE 2011)
+
+XV. (DEROGADA, P.O. 27 DE SEPTIEMBRE DE 2011)
+
+#### Sección Primera. De la Dirección de Cultura Turística
 
 ###### Artículo 18.
 
 La Dirección de Cultura Turística tendrá las siguientes facultades:
 
-I. Proponer, instrumentar e implementar estrategias de concientización que contribuyan a fomentar la importancia y valoración de la actividad turística;
+> <small>(REFORMADA, P.O. 27 DE SEPTIEMBRE DE 2011)</small>
 
-II. Elaborar diagnósticos en coordinación con las autoridades competentes sobre las necesidades y requerimientos de capacitación del sector y someterlos a consideración del Director General de Desarrollo Turístico;
+I. Proponer a su superior jerárquico, estrategias de concientización que contribuyan a fomentar una cultura turística y llevar a cabo su implementación;
 
-III. Participar en la ejecución de programas de capacitación a los prestadores de servicios turísticos, así como de cursos para la formación de guías de turistas;
+> <small>(REFORMADA, P.O. 27 DE SEPTIEMBRE DE 2011)</small>
 
-IV. Otorgar asesoría y asistencia técnica para la capacitación continua de los empleados y operarios de los prestadores de servicios turísticos en colaboración con las instituciones competentes, así como promover la elaboración de programas municipales de capacitación turística;
+II. Participar en la detección de necesidades de capacitación del sector turístico y someter su diagnóstico a consideración del Director General de Desarrollo Turístico;
 
-V. Recibir la documentación necesaria para iniciar el trámite y realizar gestiones ante la secretaría federal en materia de turismo para la inscripción de prestadores de servicios turísticos en el Registro Nacional de Turismo, así como para obtener la acreditación de guías de turistas, de conformidad con las disposiciones jurídicas aplicables;
+> <small>(REFORMADA, P.O. 27 DE SEPTIEMBRE DE 2011)</small>
 
-VI. Llevar un registro actualizado de las escuelas y centros de educación y capacitación donde se brinda enseñanza turística en la Entidad y difundir su existencia entre los prestadores de servicios turísticos, futuros educandos y solicitantes de información en general;
+III. Participar en el diseño, instrumentación, ejecución y supervisión de programas de formación, capacitación y actualización de los prestadores de servicios turísticos;
 
-VII. Propiciar la vinculación entre los prestadores de servicios turísticos y las escuelas o centros de capacitación, para que brinden elementos que permitan actualizar los planes y programas educativos, a fin de hacerlos acordes con las necesidades de formación en materia turística;
+IV. (DEROGADA, P.O. 27 DE SEPTIEMBRE DE 2011)
 
-VIII. Emitir opinión técnica respecto de las solicitudes que realicen escuelas o centros de educación y capacitación de enseñanza turística, para obtener el reconocimiento de validez oficial de estudios ante las autoridades competentes;
+V. (DEROGADA, P.O. 27 DE SEPTIEMBRE DE 2011)
 
-IX. Promover entre los prestadores de servicios turísticos los programas de certificación en perfiles ocupacionales o de competencias laborales en materia turística;
+> <small>(REFORMADA, P.O. 27 DE SEPTIEMBRE DE 2011)</small>
 
-X. Practicar con apoyo de la Dirección de Asuntos Jurídicos, las visitas de verificación para constatar el cumplimiento de los servicios turísticos en coordinación con las autoridades competentes, a efecto de que los mismos se presten conforme a la normatividad aplicable; y
+VI. Propiciar la vinculación entre el sector empresarial y el sector educativo para el intercambio de elementos que permitan actualizar los planes y programas educativos, a fin de hacerlos acordes con las necesidades de formación en materia turística;
 
-XI. Las demás que otras disposiciones jurídicas aplicables le atribuyan, así como aquellas que le confiera su superior jerárquico.
+> <small>(REFORMADA, P.O. 27 DE SEPTIEMBRE DE 2011)</small>
 
-#### Sección Primera. De la Dirección de Planeación Estratégica y Enlace Gubernamental
+VII. Promover entre los prestadores de servicios turísticos programas de certificación, acreditación en perfiles ocupacionales y de competencias laborales en materia turística;
 
-> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2007)</small>
+> <small>(REFORMADA, P.O. 27 DE SEPTIEMBRE DE 2011)</small>
+
+VIII. Ejecutar las atribuciones en materia de verificación del cumplimiento de la normatividad turística, en los términos de los convenios y disposiciones legales respectivas; y
+
+> <small>(REFORMADA, P.O. 27 DE SEPTIEMBRE DE 2011)</small>
+
+IX. Las demás que otras disposiciones jurídicas aplicables le atribuyan, así como aquellas que le confiera su superior jerárquico.
+
+X. (DEROGADA, P.O. 27 DE SEPTIEMBRE DE 2011)
+
+XI. (DEROGADA, P.O. 27 DE SEPTIEMBRE DE 2011)
+
+#### Sección Segunda. De la Dirección de Desarrollo de Proyectos
 
 ###### Artículo 19.
 
@@ -495,25 +629,13 @@ V. Brindar asesoría y orientación a los empresarios turísticos en los proceso
 
 VI. Las demás que otras disposiciones jurídicas aplicables le atribuyan, así como aquellas que le confiera su superior jerárquico.
 
-#### Sección Segunda. De la Dirección de Información y Análisis
+#### Sección Tercera. De la Dirección de Productos Turísticos
+
+> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2011)</small>
 
 ###### Artículo 20.
 
-La Dirección de Productos Turísticos tendrá las siguientes facultades:
-
-I. Proponer e implementar estrategias y mecanismos para incrementar la competitividad de las líneas de productos y destinos turísticos del Estado;
-
-II. Fomentar y coordinar el desarrollo del turismo sustentable, alternativo, rural y otras modalidades de especial interés, conforme a criterios de competitividad y desarrollo regional;
-
-III. Promover e instrumentar estrategias, programas, y proyectos para la creación de empresas integradoras y operadoras de productos turísticos a nivel regional y estatal, en coordinación con las autoridades competentes;
-
-IV. Diseñar y fomentar con los prestadores de servicios turísticos, la creación y mejoramiento de productos turísticos en la Entidad;
-
-V. Realizar un inventario de los productos turísticos del Estado;
-
-VI. Definir, diseñar y fomentar la creación y desarrollo de rutas y circuitos turísticos en el Estado; y
-
-VII. Las demás que otras disposiciones jurídicas aplicables le atribuyan, así como aquellas que le confiera su superior jerárquico.
+Para el diseño e implementación de proyectos y programas de desarrollo turístico, la Dirección General de Desarrollo Turístico, deberá atender los principios y criterios que en materia de planificación turística establece la Ley de Turismo para el Estado de Guanajuato y sus Municipios.
 
 ### Capítulo X. De la Dirección General de Planeación
 
@@ -545,19 +667,23 @@ VI. Coordinar el diseño de estrategias que permitan el desarrollo y fortalecimi
 
 VII. Promover la sistematización de los procesos de las unidades administrativas de la Secretaría, a fin de facilitar el cumplimiento de sus funciones;
 
-> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2007)</small>
+> <small>(REFORMADA, P.O. 27 DE SEPTIEMBRE DE 2011)</small>
 
-VIII. Asegurar que todos los sistemas de información de la Secretaría se encuentren bajo una misma plataforma tecnológica, así como coordinar la operación de los mismos;
+VIII. Brindar respuesta a los informes de auditoría emitidos por las unidades de revisión gubernamental, despachos externos o cualquier otra instancia que tenga facultades de revisión sobre los programas de atención y áreas de la Secretaría;
 
 IX. Supervisar la integración y difusión de la información relacionada con la actividad turística;
 
-X. Proponer y coordinar la ejecución de talleres, cursos y demás eventos que coadyuven a la planeación estratégica; y
+> <small>(REFORMADA, P.O. 27 DE SEPTIEMBRE DE 2011)</small>
+
+X. Coordinar con los sectores público, privado y social, los mecanismos, herramientas y demás acciones que permitan llevar a cabo la medición y monitoreo de la actividad turística y de las variables que le afectan; y
 
 XI. Las demás que otras disposiciones jurídicas aplicables le atribuyan, así como aquellas que le confiera su superior jerárquico.
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 6 DE NOVIEMBRE DE 2007)</small>
 
-#### Sección Primera. De las Suplencias
+#### Sección Primera. De la Dirección de Planeación Estratégica y Enlace Gubernamental
+
+> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2007)</small>
 
 ###### Artículo 23.
 
@@ -567,7 +693,9 @@ I. Formular, evaluar y someter a consideración del Director General de Planeaci
 
 II. Elaborar en coordinación con las unidades administrativas de la Secretaría, los proyectos estratégicos de la misma, así como establecer y aplicar los mecanismos de seguimiento y evaluación de las metas y compromisos adquiridos;
 
-III. Elaborar y someter a consideración del Director General de Planeación el programa sectorial de turismo, atendiendo a lo dispuesto por la normativa e instrumentos aplicables;
+> <small>(REFORMADA, P.O. 27 DE SEPTIEMBRE DE 2011)</small>
+
+III. Coordinar la elaboración, aplicación, actualización y evaluación del programa sectorial de turismo, atendiendo a lo dispuesto por la normativa e instrumentos jurídicos aplicables;
 
 IV. Proponer, diseñar y en su caso efectuar talleres, cursos y demás eventos de planeación estratégica, dirigidos a las unidades administrativas de la Secretaría;
 
@@ -577,25 +705,41 @@ VI. Brindar asesorías en materia de planeación turística, a los municipios y 
 
 VII. Verificar y validar el cumplimiento de las obligaciones adquiridas por terceros para con la Secretaría, y coordinarse con la Dirección de Asuntos Jurídicos para implementar las acciones legales a efecto de exigir a terceros el cumplimiento de sus obligaciones con la Secretaría; y
 
-VIII. Las demás que otras disposiciones jurídicas aplicables le atribuyan, así como aquellas que le confiera su superior jerárquico.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 27 DE SEPTIEMBRE DE 2011)</small>
 
-#### Sección Segunda. De las Relaciones Laborales
+VIII. Fungir como enlace ante las unidades de revisión gubernamental, despachos externos o cualquier instancia que tenga facultades de revisión sobre los programas de atención y áreas de la Secretaria; y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 27 DE SEPTIEMBRE DE 2011)</small>
+
+IX. Las demás que otras disposiciones jurídicas aplicables le atribuyan, así como aquellas que le confiera su superior jerárquico.
+
+#### Sección Segunda. De la Dirección de Información y Análisis
+
+> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2011)</small>
 
 ###### Artículo 24.
 
 La Dirección de Información y Análisis tendrá las siguientes facultades:
 
-I. Operar y mantener actualizado el Sistema de Información Turística Estatal, respecto de los diferentes servicios que se ofrecen en la Entidad;
+I. Operar y mantener actualizados el Sistema Estatal de Información Turística y el inventario turístico estatal, de conformidad con lo establecido en la Ley de Turismo para el Estado de Guanajuato y sus Municipios y su Reglamento;
 
-II. Recopilar información para generar los indicadores de impacto de la actividad turística en el Estado;
+II. Coordinar con las instancias competentes, la integración, operación y actualización de los instrumentos de información turística y estadística que se implementen de conformidad con la Ley General de Turismo y su Reglamento, así como los convenios que para tales efectos se suscriban con la federación;
 
-III. Gestionar y en su caso elaborar los estudios y diagnósticos en materia turística que le sean requeridos;
+III. Recopilar información y generar los indicadores de impacto de la actividad turística en el Estado;
 
-IV. Administrar y controlar el desarrollo y contenido de la página web de la Secretaría, ya sean internos o desarrollados por terceros, atendiendo a las disposiciones establecidas por las autoridades estatales competentes;
+IV. Gestionar y en su caso elaborar los estudios y diagnósticos en materia turística que le sean requeridos;
 
-V. Integrar y difundir en el sector turístico la información de la actividad turística que les permita conocer las tendencias e innovaciones en la materia; y
+V. Integrar y mantener actualizado un inventario de los productos, rutas y circuitos turísticos del Estado;
 
-VI. Las demás que otras disposiciones jurídicas aplicables le atribuyan, así como aquellas que le confiera su superior jerárquico.
+VI. Diseñar y someter a la aprobación del Director General de Planeación, un registro de prestadores de servicios turísticos en la Entidad, así como llevar a cabo su operación;
+
+VII. Actualizar el registro de prestadores de servicios turísticos en la Entidad, así como participar en la operación del Registro Nacional de Turismo, de conformidad con los convenios que para tales efectos se suscriban con la federación;
+
+VIII. Instrumentar, dar seguimiento y evaluar los mecanismos, herramientas y acciones que se implementen, en coordinación con los sectores público, privado y social, para la medición y monitoreo de la actividad turística;
+
+IX. Integrar y difundir en el sector turístico la información de la actividad turística, que permita conocer las tendencias e innovaciones en la materia; y
+
+X. Las demás que otras disposiciones jurídicas aplicables le atribuyan, así como aquellas que le confiera su superior jerárquico.
 
 ### Capítulo XI. De los Asesores
 
@@ -647,6 +791,8 @@ La Secretaría ejercerá las funciones de coordinadora de sector en los término
 
 ### Capítulo XV. De las Licencias
 
+#### Sección Primera. De las Suplencias
+
 ###### Artículo 35.
 
 El Secretario de Desarrollo Turístico será suplido en sus ausencias menores de quince días por el Subsecretario de Promoción Turística o, en su defecto, por el Director General que al efecto designe, cuando exceda de ese plazo, por quien designe el Gobernador del Estado.
@@ -654,6 +800,8 @@ El Secretario de Desarrollo Turístico será suplido en sus ausencias menores de
 ###### Artículo 36.
 
 Los servidores públicos de la Secretaría, serán suplidos en sus ausencias menores a quince días por aquel que al efecto designe su superior jerárquico, cuando exceda de ese plazo, por quien designe el Secretario.
+
+#### Sección Segunda. De las Relaciones Laborales
 
 ###### Artículo 37.
 
@@ -684,3 +832,7 @@ SERGIO ENRIQUE RODRÍGUEZ HERRERA
 P.O. 6 DE NOVIEMBRE DE 2007.
 
 Artículo Único. El presente Decreto Gubernativo entrará en vigencia el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 27 DE SEPTIEMBRE DE 2011.
+
+Artículo Único. El presente Decreto Gubernativo entrará en vigencia el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
