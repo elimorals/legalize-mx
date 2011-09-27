@@ -4,7 +4,7 @@ identifier: "GRO-constitucion-politica-del-estado-libre-y-soberano-de-5126"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-03"
-last_updated: "2011-09-16"
+last_updated: "2011-09-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5126&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE GUERRERO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE SEPTIEMBRE DE 2011.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE SEPTIEMBRE DE 2011.
 
 Constitución publicada en los Periódicos Oficiales del Estado de Guerrero los días 3, 10 y 17 de noviembre de 1917 y 5 de enero de 1918.
 
@@ -3297,9 +3297,11 @@ OCTAVO. El Consejo General del Instituto Electoral del Estado, dentro de los tre
 
 NOVENO. El Congreso del Estado expedirá la Ley reglamentaria de los artículos 17 y 18 de democracia participativa dentro de los 180 días posteriores a la entrada en vigor del presente decreto.
 
-DÉCIMO. Los consejeros electorales del Instituto Electoral del Estado y los magistrados del Tribunal Electoral del Estado, en su caso que sean ratificados por un periodo más y los designados en el año dos mil ocho, durarán en su cargo del veintinueve de mayo de dos mil ocho al quince de noviembre de dos mil once.
+> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2011)</small>
 
-El Fiscal Especializado para la Atención de Delitos Electorales del Estado, que sea ratificado o designado durará en su cargo del veinticinco de Mayo de dos mil ocho al quince de noviembre de dos mil once.
+DÉCIMO. Los consejeros electorales del Instituto Electoral del Estado y los magistrados del Tribunal Electoral del Estado, ratificados y los designados en el año dos mil ocho actualmente en funciones, durarán en su cargo del veintinueve de mayo de dos mil ocho al quince de noviembre de dos mil doce, por esta única ocasión.
+
+Por única ocasión el Congreso del Estado emitirá convocatoria para evaluar y designar Consejeros y Magistrados Electorales, para integrar el Instituto y el Tribunal Electoral del Estado a más tardar el 16 de julio de 2012, debiendo concluir dicho proceso antes del 12 de septiembre de 2012.
 
 P.O. 6 DE MAYO DE 2008.
 
@@ -3314,3 +3316,17 @@ P.O. 16 DE SEPTIEMBRE DE 2011.
 PRIMERO.- Remítase el presente Decreto a los Honorables Ayuntamientos de la entidad, para los efectos de la fracción II del artículo 125 de la Constitución Política del Estado Libre y Soberano de Guerrero, y oportunamente expídase el Acuerdo de Validación respectivo.
 
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Guerrero.
+
+P.O. 27 DE SEPTIEMBRE DE 2011.
+
+###### ARTÍCULO PRIMERO.
+
+Para dar cumplimiento a lo establecido en la Fracción III del artículo 125 de la Constitución Política del Estado Libre y Soberano de Guerrero, remítase el presente decreto a los Honorables Ayuntamientos Municipales para los efectos legales procedentes.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTÍCULO TERCERO.
+
+Remítase al Titular del Poder Ejecutivo para su promulgación y Publicación en el Periódico Oficial del Gobierno del Estado.
