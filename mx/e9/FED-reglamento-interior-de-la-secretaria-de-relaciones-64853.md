@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-de-la-secretaria-de-relaciones-64853"
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-01-08"
-last_updated: "2009-09-04"
+last_updated: "2011-09-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64853&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2008-12-30"
 
 REGLAMENTO INTERIOR DE LA SECRETARIA DE RELACIONES EXTERIORES
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 4 DE SEPTIEMBRE DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 27 DE SEPTIEMBRE DE 2011.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el jueves 8 de enero de 2009.
 
@@ -33,9 +33,11 @@ REGLAMENTO INTERIOR DE LA SECRETARÍA DE RELACIONES EXTERIORES
 
 ### CAPÍTULO I. De la Competencia y Organización de la Secretaría
 
+> <small>(REFORMADO, D.O.F. 27 DE SEPTIEMBRE DE 2011)</small>
+
 ###### ARTÍCULO 1.
 
-La Secretaría tiene a su cargo las atribuciones y el despacho de los asuntos que expresamente le encomiendan la Constitución Política de los Estados Unidos Mexicanos, la Ley Orgánica de la Administración Pública Federal, la Ley del Servicio Exterior Mexicano, la Ley sobre la Celebración de Tratados y otras leyes, así como los reglamentos, decretos, acuerdos y órdenes relativos que expida el Presidente de los Estados Unidos Mexicanos.
+La Secretaría tiene a su cargo las atribuciones y el despacho de los asuntos que expresamente le encomiendan la Constitución Política de los Estados Unidos Mexicanos, la Ley Orgánica de la Administración Pública Federal, la Ley del Servicio Exterior Mexicano, la Ley sobre la Celebración de Tratados, la Ley de Cooperación Internacional para el Desarrollo y otras leyes, así como los reglamentos, decretos, acuerdos y órdenes relativos que expida el Presidente de los Estados Unidos Mexicanos.
 
 ###### ARTÍCULO 2.
 
@@ -45,9 +47,17 @@ I. Ejecutar la política exterior de México;
 
 II. Promover, propiciar y coordinar las acciones en el exterior de las dependencias y entidades de la Administración Pública Federal, de conformidad con las atribuciones que a cada una de ellas corresponda;
 
-III. Dirigir el Servicio Exterior Mexicano, e
+> <small>(REFORMADA, D.O.F. 27 DE SEPTIEMBRE DE 2011)</small>
 
-IV. Intervenir en toda clase de tratados, acuerdos y convenciones de los que el país sea parte.
+III. Dirigir el Servicio Exterior Mexicano;
+
+> <small>(REFORMADA, D.O.F. 27 DE SEPTIEMBRE DE 2011)</small>
+
+IV. Intervenir en toda clase de tratados, acuerdos y convenciones de los que el país sea parte, y
+
+> <small>(ADICIONADA, D.O.F. 27 DE SEPTIEMBRE DE 2011)</small>
+
+V. Supervisar el cumplimiento de los objetivos consignados en el Programa de Cooperación Internacional para el Desarrollo.
 
 ###### ARTÍCULO 3.
 
@@ -73,7 +83,7 @@ D) Subsecretaría para Asuntos Multilaterales y Derechos Humanos;
 
 E) Oficialía Mayor;
 
-F) Unidad de Relaciones Económicas y Cooperación Internacional;
+F) (DEROGADO, D.O.F. 27 DE SEPTIEMBRE DE 2011)
 
 G) Consultoría Jurídica;
 
@@ -92,6 +102,10 @@ V. Para Asia-Pacífico;
 VI. Para Europa;
 
 VII. Para América del Norte;
+
+> <small>(ADICIONADA, D.O.F. 27 DE SEPTIEMBRE DE 2011)</small>
+
+VII bis. De Asuntos Especiales;
 
 VIII. De Protección a Mexicanos en el Exterior;
 
@@ -125,11 +139,15 @@ XXII. De Tecnologías de Información e Innovación;
 
 XXIII. De Cooperación Educativa y Cultural;
 
-XXIV. De Organismos Económicos Regionales y Multilaterales;
+XXIV. (DEROGADA, D.O.F. 27 DE SEPTIEMBRE DE 2011)
 
-XXV. De Promoción Económica Internacional;
+> <small>(REFORMADA, D.O.F. 27 DE SEPTIEMBRE DE 2011)</small>
 
-XXVI. De Relaciones Económicas Bilaterales;
+XXV. De Cooperación y Promoción Económica Internacional;
+
+> <small>(REFORMADA, D.O.F. 27 DE SEPTIEMBRE DE 2011)</small>
+
+XXVI. De Cooperación y Relaciones Económicas Bilaterales;
 
 XXVII. De Cooperación Técnica y Científica, y
 
@@ -139,9 +157,17 @@ I) Desconcentración administrativa:
 
 I. Las Delegaciones;
 
-II. El Instituto Matías Romero, y
+> <small>(REFORMADA, D.O.F. 27 DE SEPTIEMBRE DE 2011)</small>
 
-III. El Instituto de los Mexicanos en el Exterior.
+II. El Instituto Matías Romero;
+
+> <small>(REFORMADA, D.O.F. 27 DE SEPTIEMBRE DE 2011)</small>
+
+III. El Instituto de los Mexicanos en el Exterior, y
+
+> <small>(ADICIONADA, D.O.F. 27 DE SEPTIEMBRE DE 2011)</small>
+
+IV. La Agencia Mexicana de Cooperación Internacional para el Desarrollo.
 
 J) Las Secciones Mexicanas de las Comisiones Internacionales de Límites y Aguas:
 
@@ -158,6 +184,10 @@ K) La Secretaría contará con un Órgano Interno de Control, que se regirá con
 El trámite y la resolución de los asuntos de la competencia de la Secretaría corresponden originalmente al Secretario. Éste, para la mejor distribución y el desarrollo del trabajo, podrá delegar facultades en servidores públicos subalternos. Los acuerdos de delegación de facultades deberán ser publicados en el Diario Oficial de la Federación y ser compilados en los manuales de organización y de procedimientos de la Secretaría.
 
 La delegación de facultades a que se refiere el párrafo anterior y la asignación de éstas a los servidores públicos de las unidades administrativas de la Secretaría, establecidas en el presente Reglamento, no impedirán al Secretario el ejercicio directo de tales facultades.
+
+> <small>(ADICIONADO, D.O.F. 27 DE SEPTIEMBRE DE 2011)</small>
+
+El Secretario contará con una coordinación administrativa, con el objeto de atender las necesidades de recursos presupuestales, humanos y materiales de las unidades administrativas de su adscripción.
 
 ###### ARTÍCULO 7.
 
@@ -195,6 +225,10 @@ XIV. Formular la parte que corresponda a la Secretaría del Informe Presidencial
 
 XV. Autorizar la apertura, cierre o redefinición de competencias de las representaciones de México en el exterior a propuesta del Subsecretario correspondiente a la región geográfica de que se trate e instruir la realización de los trámites administrativos necesarios al Oficial Mayor;
 
+> <small>(ADICIONADA, D.O.F. 27 DE SEPTIEMBRE DE 2011)</small>
+
+XV bis. Expedir, a propuesta del Subsecretario de la región geográfica que corresponda, los acuerdos de exención del pago de derechos por la expedición de las visas ordinarias en pasaportes extranjeros, en consideración a aspectos de reciprocidad internacional o en forma unilateral, con el fin de estimular el turismo y los intercambios comerciales o culturales, cuando se estime conveniente;
+
 XVI. Acordar los nombramientos del personal de la Secretaría y del Servicio Exterior Mexicano, así como sus traslados y ordenar al Oficial Mayor su expedición y la realización de los trámites necesarios para su cumplimiento;
 
 XVII. Designar y, en su caso, remover a las autoridades centrales y ejecutoras en los tratados o convenios internacionales, competencia de la Secretaría;
@@ -205,13 +239,23 @@ XIX. Aprobar la organización y funcionamiento de la Secretaría y adscribir org
 
 XX. Presidir en su caso, las comisiones que sean necesarias para el buen funcionamiento de la Secretaría y designar a sus miembros, así como establecer las unidades de coordinación, asesoría y apoyo técnico que requiera el funcionamiento administrativo de la misma;
 
+> <small>(ADICIONADA, D.O.F. 27 DE SEPTIEMBRE DE 2011)</small>
+
+XX bis. Presidir el Consejo Consultivo de la Agencia Mexicana de Cooperación Internacional para el Desarrollo;
+
+> <small>(ADICIONADA, D.O.F. 27 DE SEPTIEMBRE DE 2011)</small>
+
+XX ter. Proponer al Presidente de la República el nombramiento del Director Ejecutivo de la Agencia Mexicana de Cooperación Internacional para el Desarrollo, en términos de la Ley de Cooperación Internacional para el Desarrollo;
+
 > <small>(REFORMADA, D.O.F. 4 DE SEPTIEMBRE DE 2009)</small>
 
 XXI. Aprobar y ordenar la publicación, en el Diario Oficial de la Federación, del Manual General de Organización, así como aprobar y expedir los demás manuales de organización, de procedimientos y de servicios necesarios para el buen funcionamiento de la Secretaría;
 
 XXII. Aprobar los programas de trabajo de la Secretaría y el proyecto de presupuesto de egresos correspondiente y, en su caso, sus modificaciones;
 
-XXIII. Resolver los recursos administrativos que se interpongan en términos de lo dispuesto por la Ley Federal de Procedimiento Administrativo;
+> <small>(REFORMADA, D.O.F. 27 DE SEPTIEMBRE DE 2011)</small>
+
+XXIII. Resolver los procedimientos de Responsabilidad Patrimonial del Estado y los demás procedimientos y recursos administrativos que se promuevan ante la Secretaría;
 
 XXIV. Resolver las dudas que se susciten con motivo de la interpretación y aplicación de este Reglamento, y de los casos no previstos en el mismo correspondientes a las actividades de la Secretaría, y
 
@@ -227,7 +271,9 @@ I. Acordar con el Secretario, el despacho de los asuntos de las unidades adminis
 
 II. Desempeñar las funciones y comisiones que el Secretario le encomiende y delegue, y mantenerlo informado sobre el desarrollo de las mismas;
 
-III. Representar a la Secretaría en los actos que el Secretario determine;
+> <small>(REFORMADA, D.O.F. 27 DE SEPTIEMBRE DE 2011)</small>
+
+III. Representar a la Secretaría en los actos que el Secretario determine y participar, en su caso, en foros y eventos nacionales e internacionales en asuntos relativos a las materias competencia de las unidades administrativas bajo su responsabilidad;
 
 IV. Vigilar el estricto cumplimiento de las normas legales y disposiciones administrativas en todos los asuntos de su competencia;
 
@@ -245,7 +291,13 @@ X. Suscribir, conforme al ámbito de sus respectivas competencias los convenios,
 
 XI. Coordinar las acciones en el exterior de las dependencias y entidades gubernamentales y proporcionarles la cooperación, información y opiniones que soliciten, de conformidad con las instrucciones que emita el Secretario;
 
-XII. Emitir instrucciones sobre asuntos de su competencia a los titulares de las representaciones diplomáticas y consulares de México en el exterior;
+> <small>(REFORMADA, D.O.F. 27 DE SEPTIEMBRE DE 2011)</small>
+
+XII. Emitir instrucciones sobre asuntos de su competencia a los titulares de las representaciones diplomáticas y consulares de México en el exterior o a los servidores públicos que los suplan durante sus ausencias;
+
+> <small>(ADICIONADA, D.O.F. 27 DE SEPTIEMBRE DE 2011)</small>
+
+XII bis. Autorizar la salida del personal del Servicio Exterior Mexicano y de sus dependientes económicos del país en el que se encuentren adscritos, con cargo al presupuesto de la Secretaría, en casos fortuitos o de fuerza mayor ocasionados por fenómenos naturales o antropogénicos;
 
 XIII. Expedir copias certificadas de los documentos y constancias que obren en sus archivos, a petición del Ministerio Público, autoridades jurisdiccionales, administrativas y del trabajo, o bien, cuando sean materia de solicitudes de acceso a la información;
 
@@ -255,13 +307,21 @@ XV. Proponer al Secretario, la apertura, cierre, o redefinición de Consulados H
 
 XVI. Ejercer las demás atribuciones que le confieran las disposiciones legales aplicables y el Secretario dentro del marco de su competencia, así como las que corresponden a las unidades administrativas que se le adscriban.
 
+> <small>(ADICIONADO, D.O.F. 27 DE SEPTIEMBRE DE 2011)</small>
+
+Cada una de la (sic) Subsecretarías contará con una coordinación administrativa, con el objeto de atender las necesidades de recursos presupuestales, humanos y materiales de las unidades administrativas de su adscripción. La coordinación administrativa de la Subsecretaría para Asuntos Multilaterales y Derechos Humanos atenderá los asuntos en la materia de la Consultoría Jurídica.
+
+> <small>(REFORMADO, D.O.F. 27 DE SEPTIEMBRE DE 2011)</small>
+
 ###### ARTÍCULO 9.
 
-Al Subsecretario para América del Norte le corresponderá, además de las funciones señaladas en el artículo anterior, impartir instrucciones respecto de las labores de la Sección Mexicana de la Comisión Internacional de Límites y Aguas entre México y Estados Unidos, así como emitir lineamientos sobre asuntos políticos bilaterales en materia de límites y aguas internacionales, por sí o por conducto de la Dirección General para América del Norte.
+Al Subsecretario para América del Norte le corresponderá, además de las funciones señaladas en el artículo anterior, coordinar las funciones de la Sección Mexicana de la Comisión Internacional de Límites y Aguas entre México y Estados Unidos, así como emitir lineamientos sobre asuntos políticos bilaterales en materia de límites y aguas internacionales, por sí o por conducto de la Dirección General para América del Norte.
+
+> <small>(REFORMADO, D.O.F. 27 DE SEPTIEMBRE DE 2011)</small>
 
 ###### ARTÍCULO 10.
 
-Al Subsecretario para América Latina y el Caribe le corresponderá, además de las funciones señaladas en el artículo 8, dirigir y supervisar las labores de la Sección Mexicana de las Comisiones Internacionales de Límites y Aguas entre México y Guatemala y entre México y Belize, así como emitir lineamientos sobre asuntos políticos bilaterales en materia de límites y aguas internacionales.
+Al Subsecretario para América Latina y el Caribe le corresponderá, además de las funciones señaladas en el artículo 8, coordinar las funciones de la Sección Mexicana de las Comisiones Internacionales de Límites y Aguas entre México y Guatemala y entre México y Belize, así como emitir lineamientos sobre asuntos políticos bilaterales en materia de límites y aguas internacionales. Asimismo, fungir como Comisionado Presidencial ante el Proyecto de Integración y Desarrollo de Mesoamérica.
 
 ### CAPÍTULO IV. De las atribuciones del Oficial Mayor
 
@@ -305,6 +365,10 @@ XVII. Dar seguimiento a los avances en el cumplimiento de los programas, así co
 
 XVIII. Coordinar la elaboración de la Cuenta de la Hacienda Pública Federal de la Secretaría y presentarla a la Secretaría de Hacienda y Crédito Público, de conformidad con las disposiciones legales aplicables;
 
+> <small>(ADICIONADA, D.O.F. 27 DE SEPTIEMBRE DE 2011)</small>
+
+XVIII bis. Formular todo tipo de consultas en materia fiscal y presupuestal, a la Secretaría de Hacienda y Crédito Público, así como a cualquier otra autoridad de carácter fiscal;
+
 XIX. Ejercer las facultades y cumplir con las obligaciones a que se refiere el artículo 69-D de la Ley Federal de Procedimiento Administrativo;
 
 XX. Proponer al Secretario y, en su caso, dictar las medidas técnicas y administrativas que se estimen convenientes para el mejor funcionamiento y organización de la Secretaría, incluyendo las modificaciones que requiera la estructura de la dependencia, así como controlar y evaluar el trabajo y los resultados de las actividades de las mismas, en cuanto a la gestión de calidad y eficiencia en materia de recursos de la Secretaría;
@@ -321,6 +385,10 @@ XXV. Dirigir la planeación y administración de los recursos materiales promovi
 
 XXVI. Suscribir los contratos, convenios y acuerdos relativos al ejercicio de sus atribuciones, y que impliquen obligaciones patrimoniales con cargo a la Secretaría; así como los demás documentos que impliquen actos de administración, de acuerdo con las disposiciones legales aplicables, contando con el dictamen favorable de la Dirección General de Asuntos Jurídicos, debiendo constar en ellos la firma de validación del titular de la unidad administrativa responsable de su instrumentación y del Director General de Bienes Inmuebles y Recursos Materiales;
 
+> <small>(ADICIONADA, D.O.F. 27 DE SEPTIEMBRE DE 2011)</small>
+
+XXVI bis. Resolver los procedimientos de rescisión de contratos, en términos de la normatividad aplicable en la materia;
+
 XXVII. Preservar el patrimonio artístico de la Federación que se encuentre bajo resguardo de la Secretaría;
 
 XXVIII. Dirigir la política de “techo único” de las representaciones de nuestro país en el extranjero, para lograr el mejor uso y aprovechamiento de los inmuebles ubicados fuera del territorio nacional, de conformidad con las disposiciones jurídicas aplicables;
@@ -335,41 +403,17 @@ XXXII. Regular y autorizar, previamente a su difusión electrónica, el modelo y
 
 XXXIII. Ejercer las demás atribuciones que le confieran otras disposiciones legales y administrativas, y el Secretario, dentro del marco de su competencia, así como las que correspondan a las unidades administrativas que se le adscriban.
 
+> <small>(ADICIONADO, D.O.F. 27 DE SEPTIEMBRE DE 2011)</small>
+
+La Oficialía Mayor contará con una coordinación administrativa, con el objeto de atender las necesidades de recursos presupuestales, humanos y materiales de las unidades administrativas de su adscripción, así como del Órgano Interno de Control en la Secretaría.
+
+> <small>(DEROGADO CON EL ARTICULO QUE LO INTEGRA, D.O.F. 27 DE SEPTIEMBRE DE 2011)</small>
+
 ### CAPÍTULO V. De las Atribuciones de la Unidad de Relaciones Económicas y Cooperación Internacional
 
 ###### ARTÍCULO 12.
 
-Al frente de la Unidad de Relaciones Económicas y Cooperación Internacional habrá un Jefe de Unidad, quien tendrá las atribuciones siguientes:
-
-I. Acordar con el Secretario el despacho de los asuntos de las unidades administrativas que éste adscriba orgánicamente bajo su responsabilidad, así como desempeñar las funciones y comisiones que el propio Secretario le encomiende o delegue, y mantenerlo informado sobre el desarrollo de las mismas;
-
-II. Dictar las medidas necesarias para el mejor funcionamiento de las unidades administrativas a su cargo, así como controlar y evaluar el trabajo y los resultados de las actividades de las mismas;
-
-III. Designar al servidor público encargado provisionalmente del despacho de los asuntos en tanto se designa al servidor público correspondiente, en el caso de las vacantes de los titulares de las unidades administrativas que le sean adscritas;
-
-IV. Coordinar, supervisar y dar seguimiento a las actividades que en materia de organismos económicos y promoción económica internacionales, relaciones económicas bilaterales, y cooperación técnica, científica, educativa y cultural, realicen las unidades administrativas a su cargo, de conformidad con las políticas que dicte el Secretario;
-
-V. Suscribir los convenios y bases de colaboración referentes a los temas de su competencia, siempre que no impliquen obligaciones patrimoniales a cargo de la Secretaría; así como los convenios, contratos y acuerdos de cooperación que al suscribirse afecten exclusivamente los presupuestos de programas específicos a cargo de las unidades administrativas de su adscripción;
-
-VI. Emitir instrucciones sobre asuntos en materia de organismos económicos y promoción económica internacionales, relaciones económicas bilaterales y cooperación internacional, a los titulares de las representaciones diplomáticas y consulares de México en el exterior;
-
-VII. Dictar lineamientos de política exterior en materia de cooperación internacional para el desarrollo, promoción económica internacional, relaciones económicas bilaterales y organismos económicos internacionales;
-
-VIII. Formular el anteproyecto de programa-presupuesto de la Unidad a su cargo, en coordinación con la Dirección General de Programación, Organización y Presupuesto, y de conformidad con las disposiciones legales aplicables;
-
-IX. Autorizar por escrito a las unidades administrativas que se le adscriban, la celebración de convenios y contratos que impliquen obligaciones patrimoniales a cargo de la Secretaría, previamente a su formalización;
-
-X. Proponer el ingreso, promoción, licencia y la terminación laboral del personal adscrito, así como la de extender autorizaciones a que tenga derecho su personal, de conformidad con las disposiciones legales aplicables;
-
-XI. Suscribir los documentos relativos al ejercicio de sus atribuciones y aquéllos que le sean señalados por delegación o le correspondan por suplencia;
-
-XII. Vigilar el estricto cumplimiento de las normas legales y disposiciones administrativas en todos los asuntos de su competencia;
-
-XIII. Coordinar las labores de las unidades administrativas a su cargo, dictando las medidas necesarias para su mejor funcionamiento, así como coordinarse, en su caso, con las demás áreas de la Secretaría;
-
-XIV. Expedir copias certificadas de los documentos y constancias que obren en sus archivos, a petición del Ministerio Público, autoridades jurisdiccionales, administrativas y del trabajo, o bien, cuando sean materia de solicitudes de acceso a la información, y
-
-XV. Ejercer las demás atribuciones que le confieran el Secretario dentro del marco de su competencia y las disposiciones legales aplicables que sean afines a las señaladas en las fracciones anteriores, así como las que corresponden a las unidades administrativas que se le adscriban.
+(DEROGADO, D.O.F. 27 DE SEPTIEMBRE DE 2011)
 
 ### CAPÍTULO VI. De las Atribuciones de la Consultoría Jurídica
 
@@ -443,7 +487,9 @@ XXXII. Formular el anteproyecto de programa-presupuesto de la Consultoría Jurí
 
 XXXIII. Ejercer las demás atribuciones que las disposiciones legales confieran a la Secretaría, que sean afines a las señaladas en las fracciones anteriores o que le encomiende el Secretario.
 
-El Consultor Jurídico, para el ejercicio de sus atribuciones, se auxiliará del Consultor Jurídico Adjunto “A”, del Consultor Jurídico Adjunto “B”, del Director de Litigios, de los Directores de Tratados I, II y III, así como de los Directores de Derecho Internacional I, II y III, del Director Jurídico de Acceso a la Información, y de las demás Subdirecciones correspondientes a cada una de las Direcciones de Área.
+> <small>(REFORMADO, D.O.F. 27 DE SEPTIEMBRE DE 2011)</small>
+
+El Consultor Jurídico, para el ejercicio de sus atribuciones, se auxiliará del Consultor Jurídico Adjunto “A”, del Consultor Jurídico Adjunto “B”, de los Directores de Litigios I y II, de los Directores de Tratados I, II y III, así como de los Directores de Derecho Internacional I, II y III, del Director Jurídico de Acceso a la Información, y de las demás Subdirecciones correspondientes a cada una de las Direcciones de Área.
 
 ### CAPÍTULO VII. De las Atribuciones de los Directores Generales
 
@@ -459,19 +505,27 @@ III. Formular los dictámenes, opiniones e informes que les sean solicitados por
 
 IV. Formular el anteproyecto de programa-presupuesto de la Dirección General a su cargo, en coordinación con la Dirección General de Programación, Organización y Presupuesto, y de conformidad con las disposiciones aplicables;
 
-V. Coordinar sus actividades con las demás Direcciones Generales o unidades administrativas, cuando así se requiera, para el mejor funcionamiento de la Secretaría, para asegurar el desarrollo de posiciones consistentes en los ámbitos bilateral y multilateral, así como para promover la imagen y el perfil económico de México en el exterior;
+> <small>(REFORMADA, D.O.F. 27 DE SEPTIEMBRE DE 2011)</small>
 
-VI. Firmar y notificar por conducto del servidor público que comisione, los oficios de trámite, las notas diplomáticas dirigidas a las representaciones extranjeras acreditadas en México, así como las resoluciones y acuerdos de las autoridades superiores cuando así se les ordene o delegue y aquéllos que emitan de conformidad con las facultades que les correspondan;
+V. Coordinar sus actividades con las demás Direcciones Generales o unidades administrativas, cuando así se requiera, para el mejor funcionamiento de la Secretaría, para asegurar el desarrollo de posiciones consistentes en los ámbitos bilateral y multilateral, así como para promover la interlocución política, la imagen y el perfil económico de México en el exterior;
+
+> <small>(REFORMADA, D.O.F. 27 DE SEPTIEMBRE DE 2011)</small>
+
+VI. Firmar y notificar, por conducto del servidor público que comisione, los oficios de trámite, las notas diplomáticas dirigidas a las representaciones extranjeras acreditadas en México, así como las resoluciones y acuerdos de la autoridad superior cuando así se le ordene o delegue y aquéllos que emitan de conformidad con las facultades que les correspondan;
 
 VII. Proponer el ingreso, promoción, licencia y la terminación de la relación laboral del personal adscrito a la Dirección General a su cargo, así como extender las autorizaciones a que tenga derecho el personal, de conformidad con lo previsto en la Ley Federal de los Trabajadores al Servicio del Estado, las disposiciones presupuestarias y las Condiciones Generales de Trabajo de la Secretaría;
 
 VIII. Elaborar y mantener actualizados, en coordinación con la Dirección General de Programación, Organización y Presupuesto, los manuales de organización y procedimientos, de la Dirección General a su cargo;
 
-IX. Participar en las comisiones, comités u otros cuerpos colegiados cuando así se establezca por ley, lo señalen disposiciones aplicables o lo disponga el Secretario, con la personalidad que en cada caso se determine;
+> <small>(REFORMADA, D.O.F. 27 DE SEPTIEMBRE DE 2011)</small>
+
+IX. Participar en las comisiones, comités u otros cuerpos colegiados cuando así se establezca por ley, lo señalen disposiciones aplicables o lo disponga el Secretario, con la personalidad que en cada caso sea determinada;
 
 X. Proporcionar la información y la colaboración que les sea requerida por otras unidades administrativas de la Secretaría o por otras dependencias o entidades de la Administración Pública Federal, dentro del ámbito de sus atribuciones, de conformidad con las disposiciones aplicables y los lineamientos que para tal efecto establezca el Secretario;
 
-XI. Participar en la negociación y, cuando corresponda, en la coordinación y seguimiento de los tratados y acuerdos interinstitucionales que estén dentro del ámbito de sus respectivas competencias;
+> <small>(REFORMADA, D.O.F. 27 DE SEPTIEMBRE DE 2011)</small>
+
+XI. Participar en la negociación y, cuando corresponda, según sus atribuciones específicas, en la promoción, actualización y seguimiento de los tratados y acuerdos interinstitucionales, con el apoyo de las unidades administrativas competentes de la Secretaría, así como de otras dependencias gubernamentales;
 
 XII. Autorizar, instruir y vigilar el ejercicio del presupuesto asignado a la Dirección General a su cargo, de conformidad con las disposiciones legales aplicables;
 
@@ -481,7 +535,9 @@ XIV. Verificar, en coordinación con la Dirección General de Bienes Inmuebles y
 
 XV. Validar las facturas que presenten los contratistas, proveedores y prestadores de servicios a la Secretaría, por haber recibido los bienes y servicios conforme a lo pactado, a efecto de que se gestionen los pagos correspondientes ante la Dirección General de Programación, Organización y Presupuesto;
 
-XVI. Elaborar la justificación de la contratación que se pretenda, proporcionando a la Dirección General de Bienes Inmuebles y Recursos Materiales los insumos correspondientes que servirán de base para dictar el fallo respectivo y participar en todos los actos relacionados en los procedimientos de contratación y los posteriores que deriven de ellos;
+> <small>(REFORMADA, D.O.F. 27 DE SEPTIEMBRE DE 2011)</small>
+
+XVI. Elaborar con la antelación suficiente, la justificación de la contratación que se pretenda, proporcionando a la Dirección General de Bienes Inmuebles y Recursos Materiales los insumos correspondientes, que servirán de base para dictar el fallo respectivo y participar en todos los actos relacionados en los procedimientos de contratación y los posteriores que deriven de ellos;
 
 XVII. Gestionar ante la Dirección General de Bienes Inmuebles y Recursos Materiales con la antelación suficiente, los trámites necesarios para la prórroga de los contratos o pedidos y, la entrega de cualquier tipo de bienes o prestación de servicios, en los que sea la unidad requirente o administradora, debiendo proporcionar la justificación correspondiente;
 
@@ -643,9 +699,13 @@ I. Presentar opciones de política exterior y participar en la planeación, el d
 
 II. Impulsar y dar seguimiento desde la perspectiva política, al conjunto de asuntos del interés para México con los países y organizaciones de la región;
 
-III. Elaborar análisis e informes políticos, requeridos para la formulación de la política bilateral y multilateral con las regiones del área;
+> <small>(REFORMADA, D.O.F. 27 DE SEPTIEMBRE DE 2011)</small>
 
-IV. Coadyuvar con las dependencias gubernamentales y las unidades administrativas competentes de la Secretaría, a la promoción, actualización y seguimiento del marco jurídico que norme las relaciones de México con los países y organizaciones de la región;
+III. Elaborar análisis e informes políticos, así como formular opiniones de política bilateral y multilateral con los países y organizaciones de la región;
+
+> <small>(REFORMADA, D.O.F. 27 DE SEPTIEMBRE DE 2011)</small>
+
+IV. Coadyuvar con las dependencias gubernamentales y las unidades administrativas competentes, cuando así le sea solicitado, en la promoción, actualización y seguimiento del marco jurídico que norme las relaciones de México con los países y organizaciones de la región;
 
 V. Contribuir, cuando así sea solicitado por las áreas competentes de la Secretaría, a la formulación de políticas de cooperación bilateral y regional sobre temas de la nueva agenda multilateral;
 
@@ -655,11 +715,15 @@ VII. Emitir instrucciones sobre asuntos de su competencia a los titulares de las
 
 VIII. Proponer la apertura o cierre de las misiones diplomáticas y representaciones consulares, así como la definición de concurrencias, en coordinación con las unidades administrativas correspondientes;
 
-IX. Evaluar sistemáticamente la aplicación de las directrices e instrucciones transmitidas a las misiones diplomáticas de México en la región sobre política exterior o programas de acción, proponiendo los ajustes que sean aconsejables de acuerdo con las circunstancias y las necesidades de política exterior;
+> <small>(REFORMADA, D.O.F. 27 DE SEPTIEMBRE DE 2011)</small>
+
+IX. Evaluar el cumplimiento de las instrucciones transmitidas a las misiones diplomáticas de México en la región sobre política exterior o programas de acción, proponiendo los ajustes que sean aconsejables de acuerdo con las circunstancias y los objetivos de política exterior;
 
 X. Coordinar, en consulta con las unidades administrativas de la Secretaría con competencia en los temas de que se trate, la conducción de las relaciones políticas bilaterales de México con los países y organizaciones de su competencia, a través de la atención oportuna de los asuntos que le formulen las representaciones de los gobiernos acreditados ante el gobierno de México;
 
-XI. Planear, programar, desarrollar, supervisar y evaluar las actividades relacionadas con la concertación, preparación, realización y seguimiento de las visitas de alto nivel, en coordinación con las unidades administrativas competentes de la Secretaría y de las dependencias y entidades de la Administración Pública Federal;
+> <small>(REFORMADA, D.O.F. 27 DE SEPTIEMBRE DE 2011)</small>
+
+XI. Planear, programar, desarrollar, supervisar y evaluar las actividades relacionadas con la concertación, preparación, realización y seguimiento, desde la perspectiva política, de las visitas de alto nivel, en coordinación con las unidades administrativas competentes de la Secretaría y de las dependencias y entidades de la Administración Pública Federal;
 
 XII. Planear, preparar, organizar, dirigir y dar seguimiento a las reuniones que en materia de consultas políticas gubernamentales y reuniones binacionales que se realicen con los países y organizaciones de la competencia de la región, en coordinación con las unidades administrativas competentes;
 
@@ -667,7 +731,9 @@ XIII. Tramitar ante las dependencias y entidades competentes de la Administraci�
 
 XIV. Participar, en coordinación con las unidades administrativas correspondientes de la Secretaría, en la elaboración de evaluaciones sobre la organización interna de las representaciones diplomáticas y consulares de México en el exterior, para atender sus necesidades y requerimientos en materia de recursos humanos y financieros;
 
-XV. Desarrollar el diálogo político y dar seguimiento a la evolución de los acontecimientos en los países de África y de Medio Oriente, así como de las subregiones de Asia Sudoccidental, que comprende la Península Arábiga, Iraq e Irán, y de Asia Central, incluyendo además Pakistán. Asimismo, atenderá la participación de México, en su dimensión política, como Observador Permanente en la Unión Africana y en la Liga de Estados Árabes, en coordinación con las unidades administrativas de la Secretaría y las dependencias de la Administración Pública Federal competentes, y
+> <small>(REFORMADA, D.O.F. 27 DE SEPTIEMBRE DE 2011)</small>
+
+XV. Desarrollar el diálogo político y dar seguimiento a la evolución de los acontecimientos en los países de África y de Medio Oriente, así como de las subregiones de Asia Sudoccidental, que comprende la Península Arábiga, Iraq e Irán, y de Asia Central, incluyendo además Pakistán. Asimismo, atenderá la relación de México, en su dimensión política, con los diversos foros regionales y subregionales como la Unión Africana, la Comunidad Económica de Estados de África Occidental y con la Liga de los Estados Árabes, en coordinación con las unidades administrativas de la Secretaría y las dependencias de la Administración Pública Federal competentes, y
 
 XVI. Ejercer las demás atribuciones que las disposiciones legales confieran a la Secretaría, que sean afines a las señaladas en las fracciones anteriores o que le encomiende el Secretario.
 
@@ -679,9 +745,13 @@ I. Presentar opciones de política exterior y participar en la planeación, el d
 
 II. Impulsar y dar seguimiento desde la perspectiva política, al conjunto de asuntos del interés para México con los países y organizaciones de la región;
 
-III. Elaborar análisis e informes políticos, requeridos para la formulación de la política bilateral y multilateral con las regiones del área;
+> <small>(REFORMADA, D.O.F. 27 DE SEPTIEMBRE DE 2011)</small>
 
-IV. Coadyuvar con las dependencias gubernamentales y las unidades administrativas competentes de la Secretaría, a la promoción, actualización y seguimiento del marco jurídico que norme las relaciones de México con los países y organizaciones de la región;
+III. Elaborar análisis e informes políticos, así como formular opiniones de política bilateral y multilateral con los países y organizaciones de la región;
+
+> <small>(REFORMADA, D.O.F. 27 DE SEPTIEMBRE DE 2011)</small>
+
+IV. Coadyuvar con las dependencias gubernamentales y las unidades administrativas competentes, cuando así le sea solicitado, en la promoción, actualización y seguimiento del marco jurídico que norme las relaciones de México con los países y organizaciones de la región;
 
 V. Contribuir, cuando así sea solicitado por las áreas competentes de la Secretaría, a la formulación de políticas de cooperación bilateral y regional sobre temas de la nueva agenda multilateral;
 
@@ -691,11 +761,15 @@ VII. Emitir instrucciones sobre asuntos de su competencia a los titulares de las
 
 VIII. Proponer la apertura o cierre de las misiones diplomáticas y representaciones consulares, así como la definición de concurrencias, en coordinación con las unidades administrativas correspondientes;
 
-IX. Evaluar sistemáticamente la aplicación de las directrices e instrucciones transmitidas a las misiones diplomáticas de México en la región sobre política exterior o programas de acción, proponiendo los ajustes que sean aconsejables de acuerdo con las circunstancias y las necesidades de política exterior;
+> <small>(REFORMADA, D.O.F. 27 DE SEPTIEMBRE DE 2011)</small>
+
+IX. Evaluar el cumplimiento de las instrucciones transmitidas a las misiones diplomáticas de México en la región sobre política exterior o programas de acción, proponiendo los ajustes que sean aconsejables de acuerdo con las circunstancias y los objetivos de política exterior;
 
 X. Coordinar, en consulta con las unidades administrativas de la Secretaría con competencia en los temas de que se trate, la conducción de las relaciones políticas bilaterales de México con los países y organizaciones de su competencia, a través de la atención oportuna de los asuntos que le formulen las representaciones de los gobiernos acreditados ante el gobierno de México;
 
-XI. Planear, programar, desarrollar, supervisar y evaluar las actividades relacionadas con la concertación, preparación, realización y seguimiento de las visitas de alto nivel, en coordinación con las unidades administrativas competentes de la Secretaría y de las dependencias y entidades de la Administración Pública Federal;
+> <small>(REFORMADA, D.O.F. 27 DE SEPTIEMBRE DE 2011)</small>
+
+XI. Planear, programar, desarrollar, supervisar y evaluar las actividades relacionadas con la concertación, preparación, realización y seguimiento, desde la perspectiva política, de las visitas de alto nivel, en coordinación con las unidades administrativas competentes de la Secretaría y de las dependencias y entidades de la Administración Pública Federal;
 
 XII. Planear, preparar, organizar, dirigir y dar seguimiento a las reuniones que en materia de consultas políticas gubernamentales y reuniones binacionales que se realicen con los países y organizaciones de la competencia de la región, en coordinación con las unidades administrativas competentes;
 
@@ -703,7 +777,9 @@ XIII. Tramitar ante las dependencias y entidades competentes de la Administraci�
 
 XIV. Participar, en coordinación con las unidades administrativas correspondientes de la Secretaría, en la elaboración de evaluaciones sobre la organización interna de las representaciones diplomáticas y consulares de México en el exterior, para atender sus necesidades y requerimientos en materia de recursos humanos y financieros;
 
-XV. Desarrollar el diálogo político y dar seguimiento a la evolución de los acontecimientos en los países del subcontinente indio, con excepción de Pakistán; las naciones del noreste y sureste de Asia, así como las naciones insulares del Pacífico Sur. De igual forma le corresponde fomentar el diálogo político con los países de la región en el marco de su participación en los foros y organismos regionales, así como el seguimiento del Foro de Cooperación de América Latina-Asia del Este y de los organismos y mecanismos subregionales, tales como la Asociación de Naciones del Sureste Asiático, la Asociación del Sur de Asia para la Cooperación Regional, y el Foro de las Islas del Pacífico, entre otros, y
+> <small>(REFORMADA, D.O.F. 27 DE SEPTIEMBRE DE 2011)</small>
+
+XV. Desarrollar el diálogo político y dar seguimiento a la evolución de los acontecimientos en los países del subcontinente indio, con excepción de Pakistán; las naciones del noreste y sureste de Asia, así como las naciones insulares del Pacífico Sur. De igual forma le corresponde fomentar el diálogo político con los países de la región en el marco de su participación en los foros y organismos regionales, así como el seguimiento de los asuntos relacionados con la participación de México en el Foro de Cooperación América Latina-Asia del Este, el Foro de Cooperación Económica Asia-Pacífico y el Consejo de Cooperación Económica del Pacífico, así como de los diversos foros regionales y subregionales de Asia-Pacífico, y
 
 XVI. Ejercer las demás atribuciones que las disposiciones legales confieran a la Secretaría, que sean afines a las señaladas en las fracciones anteriores o que le encomiende el Secretario.
 
@@ -715,9 +791,13 @@ I. Presentar opciones de política exterior y participar en la planeación, el d
 
 II. Impulsar y dar seguimiento desde la perspectiva política, al conjunto de asuntos del interés para México con los países y organizaciones de la región;
 
-III. Elaborar análisis e informes políticos, requeridos para la formulación de la política bilateral y multilateral con las regiones del área;
+> <small>(REFORMADA, D.O.F. 27 DE SEPTIEMBRE DE 2011)</small>
 
-IV. Coadyuvar con las dependencias gubernamentales y las unidades administrativas competentes de la Secretaría, a la promoción, actualización y seguimiento del marco jurídico que norme las relaciones de México con los países y organizaciones de la región;
+III. Elaborar análisis e informes políticos, así como formular opiniones de política bilateral y multilateral con los países y organizaciones de la región;
+
+> <small>(REFORMADA, D.O.F. 27 DE SEPTIEMBRE DE 2011)</small>
+
+IV. Coadyuvar con las dependencias gubernamentales y las unidades administrativas competentes, cuando así le sea solicitado, en la promoción, actualización y seguimiento del marco jurídico que norme las relaciones de México con los países y organizaciones de la región;
 
 V. Contribuir, cuando así sea solicitado por las áreas competentes de la Secretaría, a la formulación de políticas de cooperación bilateral y regional sobre temas de la nueva agenda multilateral;
 
@@ -731,7 +811,9 @@ IX. Evaluar sistemáticamente la aplicación de las directrices e instrucciones 
 
 X. Coordinar, en consulta con las unidades administrativas de la Secretaría con competencia en los temas de que se trate, la conducción de las relaciones políticas bilaterales de México con los países y organizaciones de su competencia, a través de la atención oportuna de los asuntos que le formulen las representaciones de los gobiernos acreditados ante el gobierno de México;
 
-XI. Planear, programar, desarrollar, supervisar y evaluar las actividades relacionadas con la concertación, preparación, realización y seguimiento de las visitas de alto nivel, en coordinación con las unidades administrativas competentes de la Secretaría y de las dependencias y entidades de la Administración Pública Federal;
+> <small>(REFORMADA, D.O.F. 27 DE SEPTIEMBRE DE 2011)</small>
+
+XI. Planear, programar, desarrollar, supervisar y evaluar las actividades relacionadas con la concertación, preparación, realización y seguimiento, desde la perspectiva política, de las visitas de alto nivel, en coordinación con las unidades administrativas competentes de la Secretaría y de las dependencias y entidades de la Administración Pública Federal;
 
 XII. Planear, preparar, organizar, dirigir y dar seguimiento a las reuniones que en materia de consultas políticas gubernamentales y reuniones binacionales que se realicen con los países y organizaciones de la competencia de la región, en coordinación con las unidades administrativas competentes;
 
@@ -769,13 +851,21 @@ X. Coordinar, en consulta con las unidades administrativas de la Secretaría con
 
 XI. Planear, programar, desarrollar y evaluar las actividades relacionadas con la concertación, preparación, realización y seguimiento de las visitas de alto nivel, en coordinación con las unidades administrativas competentes de la Secretaría y de las dependencias y entidades de la Administración Pública Federal;
 
-XII. Planear, preparar, organizar, dirigir y dar seguimiento a las reuniones que en materia de consultas políticas gubernamentales y reuniones binacionales que se realicen con los países y organizaciones de la competencia de la región, en coordinación con las unidades administrativas competentes;
+> <small>(REFORMADA, D.O.F. 27 DE SEPTIEMBRE DE 2011)</small>
 
-XIII. Tramitar ante las dependencias y entidades competentes de la Administración Pública Federal, los permisos de tránsito o visita para buques de armadas extranjeras y, a su vez, los permisos ante los gobiernos extranjeros que la Armada de México requiera para el mismo objeto. Asimismo, gestionar los permisos de sobrevuelo y aterrizaje para aeronaves oficiales mexicanas, así como los correspondientes a las aeronaves oficiales extranjeras que lo requieran;
+XII. Planear, preparar, organizar, dirigir y dar seguimiento a las reuniones de consultas políticas gubernamentales y reuniones binacionales que se realicen con los países y organizaciones de la competencia de la región, en coordinación con las unidades administrativas competentes;
 
-XIV. Tramitar los permisos que soliciten los gobiernos extranjeros para realizar investigaciones científicas o académicas en el territorio nacional o en aguas jurisdiccionales de México, en coordinación en su caso, con la Dirección General de Cooperación Técnica y Científica y la Dirección General de Cooperación Educativa y Cultural;
+> <small>(REFORMADA, D.O.F. 27 DE SEPTIEMBRE DE 2011)</small>
 
-XV. Participar, en coordinación con las unidades administrativas correspondientes de la Secretaría, en la elaboración de evaluaciones sobre la organización interna de las representaciones diplomáticas y consulares de México en el exterior, para atender sus necesidades y requerimientos en materia de recursos humanos y financieros;
+XIII. Tramitar ante las dependencias y entidades competentes de la Administración Pública Federal, los permisos de tránsito o visita para buques de las armadas extranjeras que correspondan a la región y, a su vez, los permisos ante los gobiernos extranjeros que la Armada de México requiera para el mismo objeto. Asimismo, gestionar los permisos de sobrevuelo y aterrizaje para aeronaves oficiales mexicanas, así como los correspondientes a las aeronaves oficiales de los países de la región que lo requieran;
+
+> <small>(REFORMADA, D.O.F. 27 DE SEPTIEMBRE DE 2011)</small>
+
+XIV. Opinar sobre los permisos que soliciten los gobiernos de Estados Unidos de América y Canadá a la Dirección General de Cooperación Técnica y Científica, para la realización de toda clase de investigaciones científicas y de colectas en el territorio nacional o en aguas jurisdiccionales de México;
+
+> <small>(REFORMADA, D.O.F. 27 DE SEPTIEMBRE DE 2011)</small>
+
+XV. Participar, cuando se le requiera y en coordinación con las unidades administrativas correspondientes de la Secretaría, en la elaboración de evaluaciones sobre la organización interna de las representaciones diplomáticas y consulares de México en la región, para atender sus necesidades y requerimientos en materia de recursos humanos y financieros;
 
 XVI. Promover la aplicación y cumplimiento de los tratados de límites y aprovechamientos de las aguas de los ríos internacionales en la frontera norte;
 
@@ -794,6 +884,36 @@ XXII. Coordinar y convocar los trabajos intersecretariales con dependencias del 
 XXIII. Coordinar y convocar las reuniones del Grupo Binacional México-Estados Unidos de América sobre Puentes y Cruces Internacionales para la definición de proyectos y la construcción y modificación de infraestructura fronteriza, y
 
 XXIV. Ejercer las demás atribuciones que las disposiciones legales confieran a la Secretaría, que sean afines a las señaladas en las fracciones anteriores o que les encomiende el Secretario.
+
+> <small>(ADICIONADO, D.O.F. 27 DE SEPTIEMBRE DE 2011)</small>
+
+ARTÍCULO 21 bis. Corresponde a la Dirección General de Asuntos Especiales:
+
+I. Analizar, revisar y preparar los proyectos especiales sobre planeación, formulación, ejecución y evaluación de la política exterior en materia de cooperación internacional sobre seguridad con los países de la región de América del Norte;
+
+II. Fungir como enlace con otras dependencias y entidades de la Administración Pública Federal y local en materia de seguridad regional;
+
+III. Impulsar y dar seguimiento desde la perspectiva política, al conjunto de asuntos del interés para México en los temas de su competencia, con los países de la región de América del Norte;
+
+IV. Elaborar análisis e informes políticos, así como formular opiniones de política bilateral y regional en los temas de su competencia;
+
+V. Contribuir, cuando así sea solicitado por las áreas competentes de la Secretaría, a la formulación de políticas de cooperación bilateral y regional, en los temas de su competencia;
+
+VI. Coordinar las tareas de apoyo y asesoría en materia de cooperación internacional sobre seguridad con los países de la región de América del Norte;
+
+VII. Participar en la negociación, coordinación, ejecución y seguimiento de los mecanismos de cooperación internacional en materia de seguridad con los países de América del Norte, sin menoscabo de las atribuciones que competan a otras unidades administrativas de la Secretaría u otras dependencias de la Administración Pública Federal;
+
+VIII. Establecer canales de coordinación con las dependencias de la Administración Pública Federal que tienen competencia con la cooperación internacional sobre seguridad;
+
+IX. Dar seguimiento a las actividades de las Embajadas en México de los países de la región, en temas relacionados con la cooperación internacional sobre seguridad;
+
+X. Mantener mecanismos de diálogo y consulta con actores relevantes de la sociedad en materia de seguridad regional;
+
+XI. Planear, preparar, organizar y dar seguimiento a las reuniones que en materia de cooperación sobre seguridad se realicen con los Estados Unidos de América y Canadá;
+
+XII. Promover y difundir, en coordinación con la Dirección General de Comunicación Social, los avances y resultados de los programas de cooperación sobre seguridad regional con América del Norte, y
+
+XIII. Ejercer las demás atribuciones que las disposiciones legales confieran a la Secretaría, que sean afines a las señaladas en las fracciones anteriores o que le encomiende el Secretario.
 
 ###### ARTÍCULO 22.
 
@@ -841,11 +961,17 @@ XX. Coordinar sus acciones con las Subsecretarías que cuentan con unidades admi
 
 XXI. Ejercer las demás atribuciones que las disposiciones legales confieran a la Secretaría, que sean afines a las señaladas en las fracciones anteriores o que le encomiende el Secretario.
 
+> <small>(ADICIONADO, D.O.F. 27 DE SEPTIEMBRE DE 2011)</small>
+
+De conformidad con lo dispuesto en el artículo 14 del presente Reglamento, el Director General de Protección a Mexicanos en el Exterior, para el ejercicio de sus atribuciones, se auxiliará del Director General Adjunto de Protección, del Director General Adjunto de Políticas de Protección, del Director de Protección para Estados Unidos de América, del Director de Protección en el Resto del Mundo y Asuntos Especiales, del Director de Derecho de Familia, del Director de Análisis y Prospectiva, del Director de Información de Políticas de Protección, de los Subdirectores de Protección Penal y Migratoria, de Protección Administrativo, Civil y Laboral, de Protección en el Resto del Mundo, de Protección a Derechos Humanos, de Protección Interinstitucional, de Restitución de Menores, de Coordinación de Programas Institucionales, y de Coordinación y Enlace Interinstitucional; así como de los Jefes de Departamento correspondientes a cada Subdirección.
+
 ###### ARTÍCULO 23.
 
 Corresponde a la Dirección General de Servicios Consulares:
 
-I. Supervisar el desarrollo de las labores consulares en materia de prestación de servicios consulares;
+> <small>(REFORMADA, D.O.F. 27 DE SEPTIEMBRE DE 2011)</small>
+
+I. Coordinar y normar el desarrollo de las labores consulares en materia de prestación de servicios consulares;
 
 II. Participar en coordinación con las autoridades y unidades administrativas competentes de la Secretaría y de otras dependencias federales en el diseño e instrumentación de la política migratoria de México;
 
@@ -853,11 +979,17 @@ III. Instrumentar, en coordinación con el Instituto Matías Romero, acciones de
 
 IV. Promover y realizar estudios, en coordinación con las unidades administrativas competentes de la Secretaría y con otras dependencias y entidades de la Administración Pública Federal, respecto al análisis integral del fenómeno migratorio;
 
-V. Emitir instrucciones a las representaciones de México en el exterior respecto de asuntos técnico-consulares y coordinarse para los mismos efectos con las demás unidades administrativas de la Secretaría que fueren competentes en asuntos políticos, culturales, de cooperación técnica y científica, comercial, turística y de imagen de México;
+> <small>(REFORMADA, D.O.F. 27 DE SEPTIEMBRE DE 2011)</small>
 
-VI. Supervisar, coordinar y normar la expedición en las oficinas diplomáticas y consulares de México en el exterior, de visas, autorizaciones de internación, certificados de matrícula consular, legalización de documentos públicos, certificación de documentos, actos del registro civil, actos notariales, cartillas del Servicio Militar Nacional, declaratorias de nacionalidad mexicana y demás actos jurídicos competencia de las oficinas consulares;
+V. Emitir instrucciones a las representaciones de México en el exterior respecto de asuntos técnico-consulares y coordinarse para los mismos efectos con las demás unidades administrativas de la Secretaría que fueren competentes en asuntos políticos, culturales, de cooperación internacional para el desarrollo, comercial, turística y de imagen de México;
 
-VII. Normar, conjuntamente con la Dirección General de Delegaciones, la expedición de pasaportes mexicanos ordinarios en las representaciones de México en el exterior;
+> <small>(REFORMADA, D.O.F. 27 DE SEPTIEMBRE DE 2011)</small>
+
+VI. Coordinar y normar la expedición en las oficinas diplomáticas y consulares de México en el exterior, de visas, certificados de matrícula consular, legalización de documentos públicos, certificación de documentos, actos del registro civil, actos notariales, cartillas del Servicio Militar Nacional, declaratorias de nacionalidad mexicana y demás actos jurídicos competencia de las oficinas consulares;
+
+> <small>(REFORMADA, D.O.F. 27 DE SEPTIEMBRE DE 2011)</small>
+
+VII. Coordinar y normar, conjuntamente con la Dirección General de Delegaciones, la expedición de pasaportes ordinarios en las representaciones de México en el exterior;
 
 VIII. Participar en los trabajos de las áreas competentes y de otras dependencias y entidades de la Administración Pública Federal, en lineamientos y propuestas de México en materia de documentación migratoria;
 
@@ -867,11 +999,21 @@ X. Proponer la apertura, cierre, o redefinición de las oficinas consulares de M
 
 XI. Proponer la apertura, cierre, o redefinición de Consulados Honorarios, y sobre el nombramiento y término de funciones de los Cónsules y Vicecónsules Honorarios de México;
 
-XII. Proponer la asignación de personal y participar, en coordinación con las unidades administrativas competentes, en la preparación de evaluaciones relacionadas con la organización interna de las misiones diplomáticas y representaciones consulares, con el propósito de atender sus necesidades y requerimientos en materia de recursos humanos;
+> <small>(REFORMADA, D.O.F. 27 DE SEPTIEMBRE DE 2011)</small>
 
-XIII. Llevar las estadísticas de los actos consulares y migratorios que efectúen las oficinas consulares, vigilar que los informes sean rendidos de conformidad con las disposiciones aplicables en la materia, verificar el tipo de cambio de conversión con el cual se operará el cobro de derechos en moneda extranjera de los servicios que se prestan y, cuando proceda, notificar la modificaciones a la Ley Federal de Derechos;
+XII. Participar, en coordinación con las unidades administrativas competentes, en la preparación de evaluaciones relacionadas con la organización interna de las misiones diplomáticas y representaciones consulares, con el propósito de atender sus necesidades y requerimientos en materia de recursos materiales y humanos; así como proponer la asignación de personal;
 
-XIV. Elaborar las cartas patentes para el ejercicio de funciones de los Cónsules y Vicecónsules honorarios y, en coordinación con las representaciones correspondientes, supervisar todo lo relativo al funcionamiento de dichas oficinas;
+> <small>(REFORMADA, D.O.F. 27 DE SEPTIEMBRE DE 2011)</small>
+
+XIII. Llevar las estadísticas de los actos consulares y migratorios que efectúen las oficinas consulares, vigilar que los informes sean rendidos de conformidad con las disposiciones aplicables en la materia, verificar el tipo de cambio de conversión con el cual se operará el cobro de derechos en moneda extranjera de los servicios que se prestan y, cuando proceda, notificar las modificaciones a la Ley Federal de Derechos;
+
+> <small>(ADICIONADA, D.O.F. 27 DE SEPTIEMBRE DE 2011)</small>
+
+XIII bis. Proponer al Secretario, por conducto del Subsecretario de la región geográfica que corresponda, la exención del pago de derechos por la expedición de las visas ordinarias en pasaportes extranjeros, en consideración a aspectos de reciprocidad internacional o en forma unilateral, con el fin de estimular el turismo y los intercambios comerciales o culturales, cuando se estime conveniente;
+
+> <small>(REFORMADA, D.O.F. 27 DE SEPTIEMBRE DE 2011)</small>
+
+XIV. Elaborar las cartas patentes para el ejercicio de funciones de los Cónsules y Vicecónsules Honorarios y, en coordinación con las representaciones correspondientes, supervisar todo lo relativo al funcionamiento de dichas oficinas;
 
 XV. Coordinar con las instancias competentes, las medidas de simplificación, modernización tecnológica y desregulación administrativa tendientes a mejorar la prestación de los servicios consulares y migratorios que ofrecen las representaciones de México en el exterior;
 
@@ -882,6 +1024,10 @@ XVII. Dar acceso, de conformidad con la Ley de Seguridad Nacional, a los sistema
 XVIII. Coordinar sus acciones con las Subsecretarías que cuentan con unidades administrativas cuya competencia se determine por área geográfica, para el efecto de intercambiar información y coadyuvar en las acciones de tipo consular, así como con la Dirección General de Protección a Mexicanos en el Exterior, y
 
 XIX. Ejercer las demás atribuciones que las disposiciones legales confieran a la Secretaría, que sean afines a las señaladas en las fracciones anteriores o que le encomiende el Secretario.
+
+> <small>(ADICIONADO, D.O.F. 27 DE SEPTIEMBRE DE 2011)</small>
+
+De conformidad con lo dispuesto en el artículo 14 del presente Reglamento, el Director General de Servicios Consulares, para el ejercicio de sus atribuciones, se auxiliará de los Directores Generales Adjuntos de Servicios Consulares, y de Servicios Migratorios, del Director de Servicios Consulares, del Director de Servicios Migratorios, del Director de Recursos Consulares, del Director de Prospectiva e Innovación Consular y del Director de Normatividad Consular; así como de los Subdirectores y Jefes de Departamento correspondientes a cada Dirección de Área.
 
 ###### ARTÍCULO 24.
 
@@ -961,7 +1107,9 @@ IV. Supervisar y coordinar las labores de las representaciones de México ante l
 
 V. Realizar los estudios y acciones necesarios para promover las iniciativas de México en los organismos y mecanismos regionales americanos;
 
-VI. Presentar y promover, en coordinación con la Dirección General para la Organización de las Naciones Unidas y, en su caso, con la participación de la Dirección General de Organismos Económicos Regionales y Multilaterales y de acuerdo a los lineamientos establecidos por el Comité de Candidaturas, las candidaturas de México en el ámbito de la Organización de los Estados Americanos, los organismos y mecanismos regionales de concertación de su competencia, así como considerar y otorgar el apoyo a las peticiones que formulen otros países a favor de sus candidatos;
+> <small>(REFORMADA, D.O.F. 27 DE SEPTIEMBRE DE 2011)</small>
+
+VI. Presentar y promover, en coordinación con la Dirección General para la Organización de las Naciones Unidas y de acuerdo a los lineamientos establecidos por el Comité de Candidaturas, las candidaturas de México en el ámbito de la Organización de los Estados Americanos, los organismos y mecanismos regionales de concertación de su competencia, así como considerar y otorgar el apoyo a las peticiones que formulen otros países a favor de sus candidatos;
 
 VII. Realizar, en coordinación con la Dirección General de Programación, Organización y Presupuesto, los trámites necesarios para cumplir con los pagos de contribuciones, aportaciones y cuotas de México ante los organismos internacionales en materia de su competencia, así como apoyar a otras dependencias y entidades de la Administración Pública Federal en cumplimiento de sus compromisos con organismos internacionales, en coordinación con las representaciones de México en el exterior, y
 
@@ -971,7 +1119,13 @@ VIII. Ejercer las demás atribuciones que las disposiciones legales confieran a 
 
 Corresponde a la Dirección General para Temas Globales:
 
-I. Promover, propiciar y asegurar la coordinación de las unidades competentes de la Secretaría y de las distintas dependencias y entidades de la Administración Pública Federal, involucradas en la ejecución de las estrategias de política exterior relativas a los temas de la agenda multilateral de naturaleza transversal, enfocados al desarrollo humano sustentable, la seguridad humana, tales como el medio ambiente y los recursos naturales, la migración, la salud, la asistencia humanitaria, los desastres naturales y el refugio, entre otros, así como el problema mundial de las drogas, la cooperación internacional para la prevención del delito, el combate a la corrupción, al terrorismo y a las diversas expresiones de la delincuencia organizada trasnacional, entre ellas, el narcotráfico y sus delitos conexos, que se abordan en los ámbitos regionales, subregionales y universales;
+> <small>(REFORMADA, D.O.F. 27 DE SEPTIEMBRE DE 2011)</small>
+
+I. Promover, propiciar y asegurar la coordinación de las unidades competentes de la Secretaría y de las distintas dependencias y entidades de la Administración Pública Federal, involucradas en la ejecución de las estrategias de política exterior relativas a los temas de la agenda multilateral de naturaleza transversal, enfocados al desarrollo humano sustentable y la seguridad humana, tales como el medio ambiente y los recursos naturales, el cambio climático, los desastres naturales y el refugio, la migración, la salud y la asistencia humanitaria, entre otros, así como el problema mundial de las drogas, la cooperación internacional para la prevención del delito, el combate a la corrupción, al terrorismo, a las operaciones con recursos de procedencia ilícita y a las diversas expresiones de la delincuencia organizada trasnacional, entre ellas, el narcotráfico y sus delitos conexos, que se abordan en los ámbitos regionales, subregionales y universales;
+
+> <small>(ADICIONADA, D.O.F. 27 DE SEPTIEMBRE DE 2011)</small>
+
+I bis. Proporcionar, a la Secretaría de Gobernación, la opinión sobre las condiciones prevalecientes en el país de origen del solicitante de reconocimiento de la condición de refugiado, de conformidad con lo dispuesto en la Ley sobre Refugiados y Protección Complementaria y su Reglamento;
 
 II. Proponer y concertar las acciones encaminadas a establecer la posición de México en temas competencia de esta Dirección General, así como en aquellos otros temas emergentes de la agenda internacional y regional cuyo carácter evolutivo y dinámico exija una intervención y respuesta en beneficio de los intereses del país;
 
@@ -983,11 +1137,15 @@ V. Promover, en los temas de su competencia y en coordinación con la Dirección
 
 VI. Acordar las acciones necesarias para la aplicación de los programas nacionales en las materias de su competencia y las correspondientes al cumplimiento de los compromisos internacionales de México, en coordinación con las demás dependencias y entidades gubernamentales;
 
-VII. Coordinar y proporcionar los lineamientos para la realización de las actividades de las representaciones de México en las reuniones relacionadas con los temas de su competencia, así como la oportuna acreditación y actuación de las delegaciones de México en cada caso;
+> <small>(REFORMADA, D.O.F. 27 DE SEPTIEMBRE DE 2011)</small>
+
+VII. Formular, coordinar y proporcionar los lineamientos para la realización de las actividades de las representaciones de México en las reuniones relacionadas con los temas de su competencia, así como la oportuna acreditación y actuación de las delegaciones de México en cada caso;
 
 VIII. Recopilar y difundir entre las áreas de la Secretaría y dependencias de la Administración Pública Federal, así como otras instancias nacionales interesadas, la información y documentación relativas a los resultados de las negociaciones internacionales en materias de su competencia;
 
-IX. Dar seguimiento a la labor de los organismos internacionales en temas de su competencia y coadyuvar al eficaz desempeño de las funciones de los mecanismos que tengan representación en México;
+> <small>(REFORMADA, D.O.F. 27 DE SEPTIEMBRE DE 2011)</small>
+
+IX. Dar seguimiento a la labor de los organismos internacionales en temas de su competencia;
 
 X. Proponer al Secretario la suscripción y adhesión a instrumentos internacionales relativos a los temas de su competencia ya existentes o, en su caso, promover la participación de México en las negociaciones de nuevos instrumentos, en coordinación con las demás áreas competentes de la Secretaría, así como dar seguimiento al cumplimento de los mismos;
 
@@ -1005,7 +1163,9 @@ II. Diseñar, proponer y coadyuvar a la instrumentación de las estrategias de p
 
 III. Preparar la participación de México en las reuniones convocadas por los mecanismos de la Organización de las Naciones Unidas y organismos y mecanismos internacionales especializados;
 
-IV. Proponer y concertar las acciones encaminadas a establecer la posición de México en los temas de carácter político, jurídico, social, económico, administrativo, presupuestal, humanitario y de desarme que se examinen en la Organización de las Naciones Unidas;
+> <small>(REFORMADA, D.O.F. 27 DE SEPTIEMBRE DE 2011)</small>
+
+IV. Proponer y concertar las acciones encaminadas a establecer la posición de México en los temas de carácter político, jurídico, social, económico, administrativo, presupuestal, humanitario y de desarme que sean objeto de examen en la Organización de las Naciones Unidas y en los organismos y mecanismos internacionales especializados;
 
 V. Realizar los estudios y acciones necesarios para promover las iniciativas de México ante la Organización de las Naciones Unidas y los organismos y mecanismos internacionales especializados;
 
@@ -1017,9 +1177,13 @@ VIII. Coordinar el establecimiento de mecanismos de información y consulta con 
 
 IX. Recopilar y difundir entre las áreas de la Secretaría y dependencias de la Administración Pública Federal interesadas, así como en otras instancias nacionales, la información y documentación sobre aquellos asuntos de interés específico que se encuentran en gestión y los resultados de las negociaciones internacionales;
 
-X. Participar en la negociación de tratados, convenios y acuerdos internacionales promovidos por la Organización de las Naciones Unidas, los organismos y mecanismos internacionales especializados y otras instancias internacionales que sean de interés para el país;
+> <small>(REFORMADA, D.O.F. 27 DE SEPTIEMBRE DE 2011)</small>
 
-XI. Dar seguimiento a la labor de la Organización de las Naciones Unidas, los organismos y mecanismos internacionales especializados y de otros foros u organismos internacionales, así como coadyuvar al eficaz desempeño de las funciones de los organismos que tengan representación en México;
+X. Proponer elementos y participar en la negociación de acuerdos, convenios y tratados internacionales, promovidos por la Organización de las Naciones Unidas, los organismos y mecanismos internacionales especializados y otras instancias internacionales;
+
+> <small>(REFORMADA, D.O.F. 27 DE SEPTIEMBRE DE 2011)</small>
+
+XI. Dar seguimiento a la labor de la Organización de las Naciones Unidas, los organismos y mecanismos internacionales especializados y de otros foros u organismos internacionales;
 
 XII. Realizar, en coordinación con la Dirección General de Programación, Organización y Presupuesto, los trámites necesarios para cumplir con los pagos de contribuciones, aportaciones y cuotas de México ante los organismos internacionales en materia de su competencia, así como apoyar a otras dependencias y entidades de la Administración Pública Federal en cumplimiento de sus compromisos con organismos internacionales, en coordinación con las representaciones de México en el exterior;
 
@@ -1047,7 +1211,9 @@ VII. Llevar a cabo actividades de promoción y difusión en materia de derechos 
 
 VIII. Mantener informadas a las representaciones de México en el exterior sobre la política exterior de México en materia derechos humanos y sobre la situación nacional de los derechos humanos;
 
-IX. Negociar acuerdos y acciones de cooperación en materia de derechos humanos y democracia, tanto con organismos, instituciones y organizaciones nacionales, regionales e internacionales, como con otros Estados;
+> <small>(REFORMADA, D.O.F. 27 DE SEPTIEMBRE DE 2011)</small>
+
+IX. Negociar acuerdos y acciones de cooperación en materia de derechos humanos y democracia, tanto con organismos, instituciones y organizaciones nacionales, regionales e internacionales, como con otros Estados. En caso de las acciones de cooperación, éstas deberán concertarse en coordinación con la Agencia Mexicana de Cooperación Internacional para el Desarrollo;
 
 X. Dar seguimiento, en coordinación con las dependencias nacionales y organismos internacionales, a la implementación de las medidas cautelares y provisionales emitidas por los mecanismos internacionales y regionales de protección de los derechos humanos;
 
@@ -1075,17 +1241,23 @@ II. Facilitar el intercambio de información y la promoción de acciones de vinc
 
 III. Desarrollar y coordinar los mecanismos institucionales e interinstitucionales, criterios, políticas, programas, estrategias y lineamientos encaminados a facilitar la interacción de la Secretaría con las organizaciones de la sociedad civil;
 
-IV. Promover el diálogo como una modalidad para conocer la opinión de las organizaciones de la sociedad civil y, cuando proceda, hacerlas del conocimiento de las unidades administrativas correspondientes de la Secretaría, para su utilización en la formulación de la política exterior;
+> <small>(REFORMADA, D.O.F. 27 DE SEPTIEMBRE DE 2011)</small>
+
+IV. Promover el diálogo y la consulta como una modalidad para conocer la opinión de las organizaciones de la sociedad civil y, cuando proceda, hacerlas del conocimiento de las unidades administrativas correspondientes de la Secretaría, para su utilización en la formulación de la política exterior;
 
 V. Someter a consideración del Secretario, Subsecretarios, y unidades administrativas de la Secretaría, las propuestas conducentes para la atención de solicitudes, invitaciones y proyectos de cooperación que formulen a la Secretaría las organizaciones de la sociedad civil, con pleno respeto de las leyes mexicanas;
 
-VI. Promover el acceso a la información, al diálogo, a la consulta y al análisis en temas de política exterior a las organizaciones de la sociedad civil, a través de foros y eventos públicos, material de divulgación, grupos de análisis de la sociedad civil redes de medios electrónicos y publicaciones impresas; así como actividades de formación dirigidas a organizaciones de la sociedad civil;
+> <small>(REFORMADA, D.O.F. 27 DE SEPTIEMBRE DE 2011)</small>
+
+VI. Promover el acceso a la información, al diálogo, a la consulta y al análisis en temas de política exterior a las organizaciones de la sociedad civil, a través de foros y eventos públicos, material de divulgación, grupos de análisis de la sociedad civil, redes de medios electrónicos y publicaciones impresas; así como actividades de formación dirigidas a organizaciones de la sociedad civil;
 
 VII. Orientar a las organizaciones de la sociedad civil en su vinculación con los organismos, foros e instancias internacionales en los que México participa, así como en su integración a delegaciones internacionales de conformidad con el acuerdo por el que se establecen los lineamientos para la participación de las organizaciones de la sociedad civil en temas de política exterior;
 
 VIII. Integrar los informes de las tareas de fomento a las actividades de la sociedad civil que en materia de política exterior se desarrollen por las áreas de la Secretaría;
 
-IX. Promover acciones de vinculación en las actividades derivadas de la Ley de Fomento a las Actividades Realizadas por Organizaciones de la Sociedad Civil, en coordinación con otras dependencias y entidades de la Administración Pública Federal;
+> <small>(REFORMADA, D.O.F. 27 DE SEPTIEMBRE DE 2011)</small>
+
+IX. Promover acciones de vinculación en las actividades derivadas de la Ley Federal de Fomento a las Actividades Realizadas por Organizaciones de la Sociedad Civil, en coordinación con otras dependencias y entidades de la Administración Pública Federal y de las entidades federativas;
 
 X. Ser el enlace entre las organizaciones no gubernamentales internacionales y las dependencias y entidades de la Administración Pública Federal, y entidades federativas para proporcionarles información y mecanismos de interlocución sobre las acciones y contenidos de la política exterior, con apego a lo dispuesto por las leyes mexicanas;
 
@@ -1129,7 +1301,13 @@ XIV. Desempeñar la procuraduría de los miembros del Servicio Exterior ante otr
 
 XV. Certificar las firmas de los documentos que expidan los miembros del Servicio Exterior Mexicano adscritos en el extranjero, en el ejercicio de sus funciones;
 
-XVI. Estudiar y proponer políticas y normas para atender los requerimientos de personal de las unidades administrativas de la Secretaría y realizar las labores relativas al reclutamiento, selección, nombramiento, contratación, remuneración, incentivos, ubicación, reubicación y control de personal;
+> <small>(REFORMADA, D.O.F. 27 DE SEPTIEMBRE DE 2011)</small>
+
+XVI. Estudiar y proponer políticas y normas para atender los requerimientos de personal de las unidades administrativas de la Secretaría y realizar las labores relativas al reclutamiento, selección, nombramiento, contratación, remuneración, evaluación del desempeño, incentivos, ubicación, reubicación, control de personal y fomentar un óptimo clima organizacional;
+
+> <small>(ADICIONADA, D.O.F. 27 DE SEPTIEMBRE DE 2011)</small>
+
+XVI bis. Incorporar la perspectiva de género en las políticas, acciones y actividades laborales al interior de la Secretaría;
 
 XVII. Conducir las relaciones laborales, determinar la conclusión de las mismas, así como intervenir en las cuestiones que sobre la materia se presenten, conforme a las disposiciones aplicables, los lineamientos y políticas que establezca la Oficialía Mayor con la participación de los titulares de las unidades administrativas correspondientes;
 
@@ -1145,23 +1323,41 @@ XXII. Intervenir ante el Instituto de Seguridad y Servicios Sociales de los Trab
 
 XXIII. Establecer los procedimientos y formas para la imposición de sanciones, aplicar al personal las que correspondan, registrar y tramitar administrativamente las mismas en los términos previstos en las Condiciones Generales de Trabajo y demás disposiciones aplicables;
 
+> <small>(ADICIONADA, D.O.F. 27 DE SEPTIEMBRE DE 2011)</small>
+
+XXIII bis. Determinar la medida disciplinaria y/o sanción laboral que se aplicará al personal de confianza de la Secretaría, en términos de la legislación aplicable en la materia;
+
 XXIV. Asesorar a las unidades administrativas de la Secretaría en lo referente a la aplicación de disposiciones relativas al área de los recursos humanos;
 
-XXV. Coordinar y promover los programas de servicio social y prácticas profesionales de pasantes para las unidades administrativas de la Secretaría, así como los servicios asistenciales, culturales, deportivos y demás servicios sociales que ofrezca la Secretaría a su personal;
+> <small>(REFORMADA, D.O.F. 27 DE SEPTIEMBRE DE 2011)</small>
 
-XXVI. Apoyar las actividades del grupo promotor voluntario de la Secretaría y administrar el Centro de Desarrollo Infantil “Rosario Castellanos” y en coordinación con la Secretaría de Educación Pública la primaria “José Gorostiza”;
+XXV. Coordinar y promover los programas de servicio social y prácticas profesionales de estudiantes de los niveles medio superior y superior, para las unidades administrativas de la Secretaría, así como los servicios asistenciales, culturales, deportivos y demás servicios sociales que ofrezca la Secretaría a su personal;
+
+> <small>(REFORMADA, D.O.F. 27 DE SEPTIEMBRE DE 2011)</small>
+
+XXVI. Apoyar las actividades del grupo promotor voluntario de la Secretaría;
+
+> <small>(ADICIONADA, D.O.F. 27 DE SEPTIEMBRE DE 2011)</small>
+
+XXVI bis. Administrar, en coordinación con la Secretaría de Educación Pública, las actividades del Centro de Desarrollo Infantil “Rosario Castellanos” y de la Escuela primaria “José Gorostiza”;
 
 XXVII. Organizar y realizar programas de capacitación para el personal de la Secretaría, proponer al Oficial Mayor los proyectos de normas sobre esta materia, vigilar su cumplimiento y evaluar los resultados de dichos programas;
 
 XXVIII. Auxiliar y asesorar a los miembros representantes de la Secretaría ante la Comisión Mixta de Escalafón, así como a las demás comisiones previstas en las disposiciones aplicables que correspondan al área de personal;
 
-XXIX. Analizar y evaluar las modificaciones a la estructura orgánica de la Secretaría y de sus unidades administrativas para someterlas a aprobación y registro de las dependencias competentes de la Administración Pública Federal;
+> <small>(REFORMADA, D.O.F. 27 DE SEPTIEMBRE DE 2011)</small>
 
-XXX. Promover y verificar la aplicación del principio de igualdad de oportunidades en los procesos de selección, contratación, promoción y ascenso del personal que labora en la Secretaría, con base en criterios de capacidad y mérito;
+XXIX. Analizar y evaluar las modificaciones a la estructura orgánica de la Secretaría, de sus unidades administrativas y de los órganos desconcentrados para someterlas a aprobación y registro de las dependencias competentes de la Administración Pública Federal;
+
+> <small>(REFORMADA, D.O.F. 27 DE SEPTIEMBRE DE 2011)</small>
+
+XXX. Promover y verificar la aplicación del principio de igualdad de oportunidades en los procesos de selección, contratación y promoción del personal que labora en la Secretaría, con base en criterios de capacidad y mérito;
 
 XXXI. Realizar el aseguramiento de los recursos humanos de la Secretaría y de las representaciones de México en el exterior, de conformidad con la legislación y normatividad respectiva;
 
-XXXII. Promover el desarrollo de una cultura de calidad y de ética en la Secretaría, así como la implantación y mantenimiento de los sistemas de calidad que operen dentro del Sistema de Gestión de Calidad;
+> <small>(REFORMADA, D.O.F. 27 DE SEPTIEMBRE DE 2011)</small>
+
+XXXII. Promover el desarrollo de una cultura de calidad y de ética en la Secretaría, así como la implantación y mantenimiento de los procesos que integran el Sistema de Gestión de Calidad;
 
 XXXIII. Expedir los gafetes de identificación del personal de la Secretaría y normar la expedición de cualquier tipo de credencial o gafete que legal o reglamentariamente se requiera para el correcto ejercicio de las atribuciones de la propia Dependencia, y
 
@@ -1217,17 +1413,31 @@ De conformidad con lo dispuesto en el artículo 14 del presente Reglamento, el D
 
 Corresponde a la Dirección General de Asuntos Jurídicos:
 
-I. Dictaminar sobre los asuntos relacionados con nacionalidad y naturalización, así como imponer las sanciones a que se refiere la Ley de Nacionalidad y su Reglamento;
+> <small>(REFORMADA, D.O.F. 27 DE SEPTIEMBRE DE 2011)</small>
+
+I. Resolver las solicitudes que en materia de nacionalidad y naturalización se formulen a la Secretaría, así como imponer las sanciones a que se refiere la Ley de Nacionalidad y su Reglamento;
 
 II. Expedir certificados de nacionalidad mexicana y declaratorias de nacionalidad mexicana por nacimiento, así como cartas de naturalización;
 
-III. Conceder a los extranjeros las licencias o autorizaciones correspondientes para adquirir el dominio de tierras, aguas y sus accesiones o para obtener concesiones de explotación de minas, aguas o combustibles minerales en la República Mexicana; y para adquirir bienes inmuebles ubicados fuera de la zona restringida;
+> <small>(REFORMADA, D.O.F. 27 DE SEPTIEMBRE DE 2011)</small>
 
-IV. Otorgar los permisos correspondientes para la constitución de sociedades mexicanas civiles o mercantiles y para reformar sus estatutos, por lo que se refiere al cambio de denominación o razón social;
+III. Conceder a los extranjeros las autorizaciones correspondientes para adquirir el dominio de tierras, aguas y sus accesiones; así como para adquirir bienes inmuebles ubicados fuera de la zona restringida, y para la obtención de concesiones de explotación de minas, aguas o combustibles minerales en la República Mexicana;
 
-V. Recibir y registrar los avisos a que se refiere el Reglamento de la Ley de Inversión Extranjera y del Registro Nacional de Inversiones Extranjeras;
+> <small>(REFORMADA, D.O.F. 27 DE SEPTIEMBRE DE 2011)</small>
 
-VI. Autorizar la constitución o modificación de fideicomisos y llevar el registro de las licencias o autorizaciones concedidas, así como imponer las sanciones a que se refiere la Ley de Inversión Extranjera en términos de la legislación aplicable;
+IV. Otorgar los permisos de uso de denominación o razón social para la constitución de sociedades mexicanas civiles o mercantiles; y para el cambio de denominación o razón social;
+
+> <small>(REFORMADA, D.O.F. 27 DE SEPTIEMBRE DE 2011)</small>
+
+V. Registrar los avisos a que se refiere el Reglamento de la Ley de Inversión Extranjera y del Registro Nacional de Inversiones Extranjeras;
+
+> <small>(REFORMADA, D.O.F. 27 DE SEPTIEMBRE DE 2011)</small>
+
+VI. Expedir a las instituciones de crédito, los permisos para la constitución o modificación de fideicomisos;
+
+> <small>(ADICIONADA, D.O.F. 27 DE SEPTIEMBRE DE 2011)</small>
+
+VI bis. Imponer las sanciones a que se refiere la Ley de Inversión Extranjera y su Reglamento;
 
 VII. Intervenir en los procedimientos de extradición y tramitar las solicitudes de detención provisional y formal correspondientes conforme a lo que establece la Ley de Extradición Internacional, así como las solicitudes de entrega temporal, de reextradición y de consentimiento a la excepción a la Regla de Especialidad previstos en los tratados y convenios que nuestro país ha celebrado con otros Estados en la materia;
 
@@ -1265,7 +1475,9 @@ XVII. Formular y presentar denuncias o querellas ante el Ministerio Público com
 
 XVIII. Hacer del conocimiento del Procurador General de la República todos aquellos asuntos contenciosos que, como representante de la Federación, le competan, en términos del artículo 102 Constitucional;
 
-XIX. Tramitar los recursos administrativos que no sean competencia de otras unidades administrativas, formulando los proyectos de resoluciones para firma del Secretario;
+> <small>(REFORMADA, D.O.F. 27 DE SEPTIEMBRE DE 2011)</small>
+
+XIX. Sustanciar los procedimientos de Responsabilidad Patrimonial del Estado y los demás procedimientos y recursos administrativos, así como formular los proyectos de resolución correspondiente;
 
 XX. Revisar y, en su caso, aprobar los reglamentos, decretos, acuerdos y demás disposiciones legales que deba suscribir o refrendar el Secretario;
 
@@ -1285,7 +1497,9 @@ XXVII. Establecer los criterios que sean necesarios para el trámite y la resolu
 
 XXVIII. Compilar y difundir leyes, reglamentos, decretos, acuerdos, circulares y demás disposiciones de observancia general, así como la jurisprudencia establecida por los tribunales en los juicios relacionados con asuntos de la competencia de la Secretaría;
 
-XXIX. Promover la ejecución de los tratados bilaterales y multilaterales sobre cuestiones jurídicas y de cooperación judicial internacional, a través de proyectos para su reglamentación en la legislación nacional;
+> <small>(REFORMADA, D.O.F. 27 DE SEPTIEMBRE DE 2011)</small>
+
+XXIX. Atender los requerimientos que las autoridades jurisdiccionales le formulen a la Secretaría;
 
 XXX. Opinar cuando se le solicite, sobre las formalidades que deben contener los formatos de resoluciones, actas, notificaciones y citatorios, así como sobre los proyectos de tratados en materia de cooperación judicial internacional;
 
@@ -1293,25 +1507,41 @@ XXXI. Expedir copias certificadas de los documentos, fichas microfilmadas o docu
 
 XXXII. Ejercer las demás atribuciones que las disposiciones legales confieran a la Secretaría, que sean afines a las señaladas en las fracciones anteriores o que le encomiende el Secretario.
 
-> <small>(REFORMADO, D.O.F. 4 DE SEPTIEMBRE DE 2009)</small>
+> <small>(REFORMADO, D.O.F. 27 DE SEPTIEMBRE DE 2011)</small>
 
-De conformidad con lo dispuesto en el artículo 14 del presente Reglamento, el Director General de Asuntos Jurídicos, para el ejercicio de sus atribuciones, se auxiliará del Director General Adjunto de Asuntos Jurídicos, del Director Jurídico Contencioso, del Director de Asistencia Jurídica Internacional, del Director de Nacionalidad y Naturalización, del Director de Permisos Artículo 27 Constitucional, y del Director Consultivo y de Normatividad; de los Subdirectores de lo Contencioso Administrativo, de Asuntos Penales, de Asuntos Laborales, de Asistencia Jurídica, de Exhortos y Cartas Rogatorias, de Nacionalidad, de Naturalización, de Sociedades, para Asuntos Especiales, y Técnico Legal; así como de los Jefes de Departamento correspondientes a cada Subdirección.
+De conformidad con lo dispuesto en el artículo 14 del presente Reglamento, el Director General de Asuntos Jurídicos, para el ejercicio de sus atribuciones, se auxiliará del Director General Adjunto de Asuntos Jurídicos, del Director Jurídico Contencioso, del Director de Asistencia Jurídica Internacional, del Director de Nacionalidad y Naturalización, del Director de Permisos Artículo 27 Constitucional, y del Director Consultivo y de Normatividad; de los Subdirectores de lo Contencioso Administrativo, de Asuntos Penales, de Asuntos Laborales, de Asistencia Jurídica, de Exhortos y Cartas Rogatorias, de Nacionalidad, de Naturalización, de Sociedades, de Fideicomisos, para Asuntos Especiales, y Técnico Legal; así como de los Jefes de Departamento adscritos a cada Subdirección.
 
 ###### ARTÍCULO 34.
 
 Corresponde a la Dirección General de Bienes Inmuebles y Recursos Materiales:
 
-I. Llevar a cabo la planeación y administración de las adquisiciones, arrendamientos y servicios de los bienes muebles e inmuebles, de las obras públicas y de los servicios relacionados con las mismas de la Secretaría;
+> <small>(REFORMADA, D.O.F. 27 DE SEPTIEMBRE DE 2011)</small>
+
+I. Llevar a cabo, con base en la información que suministren las unidades administrativas, la planeación y administración de las adquisiciones, arrendamientos y servicios de los bienes muebles e inmuebles, de las obras públicas y de los servicios relacionados con las mismas de la Secretaría;
 
 II. Aplicar, en el ámbito de su competencia, las leyes, reglamentos y demás disposiciones jurídicas y normativas en materia de adquisiciones, arrendamientos, servicios, obras públicas y de los servicios relacionados con las mismas, así como de los bienes muebles e inmuebles;
 
 III. Elaborar el anteproyecto de programa-presupuesto de la Secretaría, en lo que corresponde a los gastos de materiales y suministros, servicios generales, bienes muebles e inmuebles, y obras públicas y servicios relacionados con las mismas, que deban administrarse centralmente, con excepción de aquellos de tipo informático, así como instruir su ejercicio a la Dirección General de Programación, Organización y Presupuesto;
 
-IV. Realizar las funciones de Secretario Ejecutivo de los comités de Adquisiciones, Arrendamientos y Servicios; de Obras Públicas y Servicios Relacionados con las Mismas; de Bienes Muebles, y participar en cualquier otro comité o grupo de trabajo que se establezcan en las materias del ámbito de su competencia;
+> <small>(REFORMADA, D.O.F. 27 DE SEPTIEMBRE DE 2011)</small>
 
-V. Conducir los procesos de licitaciones públicas, de invitaciones a cuando menos tres personas y de adjudicaciones directas, relativas a la adquisición de recursos materiales, a la prestación de servicios y a la realización de obras públicas y servicios relacionados con éstas, que se administren centralmente, a petición de las unidades administrativas requirentes de la Secretaría y efectuar los actos jurídicos y administrativos inherentes y derivados de ellos; así como conservar los originales de los contratos, pedidos y órdenes de trabajo y en general de toda la documentación que se genere;
+IV. Realizar las funciones de Vocal Titular y, en su caso, Presidente Suplente de los comités de Adquisiciones, Arrendamientos y Servicios; de Obras Públicas y Servicios Relacionados con las Mismas; de Bienes Muebles, y participar en cualquier otro comité o grupo de trabajo que se establezcan en las materias del ámbito de su competencia;
 
-VI. Efectuar los actos jurídicos y administrativos inherentes a los procedimientos de contratación y derivados de los contratos, convenios y pedidos, verificando el cumplimiento de la normatividad aplicable a la materia, así como participar en los actos y elaborar los documentos necesarios para la rescisión de contratos y pedidos y, en su caso, lo correspondiente a la aplicación o reclamación de garantías;
+> <small>(REFORMADA, D.O.F. 27 DE SEPTIEMBRE DE 2011)</small>
+
+V. Conducir los procesos de licitaciones públicas, de invitaciones a cuando menos tres personas y de adjudicaciones directas, relativas a la adquisición de recursos materiales, a la prestación de servicios y a la realización de obras públicas y servicios relacionados con éstas, que se administren centralmente, a petición de las unidades administrativas requirentes de la Secretaría y efectuar los actos jurídicos y administrativos inherentes y derivados de ellos; así como conservar los originales de los contratos, pedidos y órdenes de trabajo y en general de toda la documentación que se genere, diferente de la contable o de alguna otra que por su competencia corresponda a otra unidad administrativa;
+
+> <small>(REFORMADA, D.O.F. 27 DE SEPTIEMBRE DE 2011)</small>
+
+VI. Efectuar los actos jurídicos y administrativos inherentes a los contratos, convenios y pedidos, verificando el cumplimiento de la normatividad aplicable a la materia;
+
+> <small>(ADICIONADA, D.O.F. 27 DE SEPTIEMBRE DE 2011)</small>
+
+VI bis. Iniciar los procedimientos de recisión de contratos y pedidos a petición del área requirente, así como elaborar los documentos necesarios y, en el caso de la recisión de contratos, someter a firma del Oficial Mayor la resolución correspondiente;
+
+> <small>(ADICIONADA, D.O.F. 27 DE SEPTIEMBRE DE 2011)</small>
+
+VI ter. Llevar a cabo las acciones necesarias para la aplicación o reclamación de garantías en los casos de contratos, convenios y pedidos;
 
 VII. Cotejar la documentación original con las copias que le presenten en los procedimientos de contratación los diversos proveedores y prestadores de servicio;
 
@@ -1355,13 +1585,17 @@ XXVI. Proponer la adquisición, renta, mantenimiento, conservación, remodelaci�
 
 XXVII. Representar a la Secretaría y designar a los servidores públicos, para llevar a cabo ante las autoridades municipales, de las entidades federativas y federales, los trámites necesarios para el buen funcionamiento de los inmuebles de la Secretaría, así como los demás trámites relacionados con la adecuada administración de los recursos materiales a su cargo;
 
-XXVIII. Elaborar las políticas, bases y lineamientos en materia de adquisiciones, arrendamientos y servicios y de obras públicas y servicios relacionados con las mismas, someterlas para su autorización a las instancias correspondientes y difundirlas ante los servidores públicos de las unidades administrativas y órganos desconcentrados de la Secretaría y de las representaciones de México en el exterior;
+> <small>(REFORMADA, D.O.F. 27 DE SEPTIEMBRE DE 2011)</small>
+
+XXVIII. Proponer la actualización, conforme al marco normativo aplicable, de las políticas, bases y lineamientos en materia de adquisiciones, arrendamientos y servicios y de obras públicas y servicios relacionados con las mismas, someterlas para su autorización a las instancias correspondientes y difundirlas entre los servidores públicos de las unidades administrativas, así como tramitar su difusión en la página de internet de la Secretaría;
 
 XXIX. Elaborar, conforme a las necesidades de las unidades administrativas y órganos desconcentrados de la Secretaría, los programas anuales de adquisiciones, arrendamientos y servicios, de obras públicas y servicios relacionados con las mismas, y de arrendamiento de inmuebles;
 
 XXX. Suscribir pedidos de la Secretaría hasta por el monto correspondiente que se establezca en el Presupuesto de Egresos de la Federación para invitación a cuando menos tres personas para cada ejercicio fiscal, conforme a la normatividad aplicable;
 
-XXXI. Admitir y resguardar las garantías relacionadas con los contratos, pedidos y convenios que celebre la Secretaría, por la adquisición, arrendamientos y servicios y de obras públicas y servicios relacionados con las mismas y aquellas que reciba en el ejercicio de sus atribuciones, así como presentarlas ante la Tesorería de la Federación para que las haga efectivas y, en su caso, autorizar su liberación cuando proceda, en términos de la legislación aplicable, y
+> <small>(REFORMADA, D.O.F. 27 DE SEPTIEMBRE DE 2011)</small>
+
+XXXI. Aceptar, calificar y resguardar las garantías relacionadas con los contratos, pedidos y convenios que celebre la Secretaría, por la adquisición, arrendamientos y servicios y de obras públicas y servicios relacionados con las mismas y aquellas que reciba en el ejercicio de sus atribuciones, así como integrar los expedientes para su reclamación, con las aportaciones de las áreas requirente y técnica ante la Tesorería de la Federación para que las haga efectivas y, en su caso, autorizar su liberación cuando proceda, en términos de la legislación aplicable, y
 
 XXXII. Ejercer las demás atribuciones que las disposiciones legales confieran a la Secretaría, que sean afines a las señaladas en las fracciones anteriores o que le encomiende el Secretario.
 
@@ -1375,7 +1609,9 @@ I. Normar, autorizar y supervisar en territorio nacional las actividades y servi
 
 II. Normar, conjuntamente con la Dirección General de Servicios Consulares, la expedición de pasaportes mexicanos ordinarios en las representaciones de México en el exterior;
 
-III. Administrar el sistema de expedición de pasaportes, resguardar la información, generar estadísticas de los servicios que presten las delegaciones y subdelegaciones, así como elaborar proyectos que mejoren el procedimiento y servicio en la expedición de pasaportes;
+> <small>(REFORMADA, D.O.F. 27 DE SEPTIEMBRE DE 2011)</small>
+
+III. Administrar el sistema de expedición de pasaportes, resguardar la información, generar estadísticas de los servicios que presten las delegaciones y subdelegaciones, así como elaborar proyectos que mejoren el procedimiento y servicio en la expedición de pasaportes, así como la supervisión y dirección de las delegaciones y subdelegaciones;
 
 IV. Llevar el registro de los arraigos que comunique la Dirección General de Asuntos Jurídicos u otras autoridades, así como establecer impedimentos administrativos que restrinjan la expedición de pasaportes por causas justificadas;
 
@@ -1383,13 +1619,19 @@ V. Organizar, dirigir y supervisar a las delegaciones y subdelegaciones de la Se
 
 VI. Expedir y autorizar con su firma los pasaportes diplomáticos, oficiales y ordinarios, así como el documento de identidad y viaje, de conformidad con las disposiciones vigentes;
 
-VII. Elaborar las notas para la obtención de visas correspondientes, en apoyo al resto de las unidades administrativas de la Secretaría y de otras dependencias y entidades de la Administración Pública Federal;
+> <small>(REFORMADA, D.O.F. 27 DE SEPTIEMBRE DE 2011)</small>
+
+VII. Elaborar las notas para la obtención de visas oficiales o diplomáticas correspondientes, en apoyo al resto de las unidades administrativas de la Secretaría y de otras dependencias y entidades de la Administración Pública Federal;
 
 VIII. Proponer la creación de delegaciones, subdelegaciones y oficinas de enlace, su modificación, reubicación o desaparición, así como el nombramiento, comisión o remoción de los delegados, subdelegados y demás servidores públicos bajo su competencia;
 
-IX. Realizar periódicamente visitas de supervisión a las delegaciones, subdelegaciones y oficinas de enlace, a fin de evaluar, en especial que:
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 27 DE SEPTIEMBRE DE 2011)</small>
 
-a) Su funcionamiento y operación, se ajusten a las políticas que rijan la emisión y legalización de documentos a que se refiere la fracción I de este artículo;
+IX. Realizar periódicamente visitas de supervisión a las delegaciones y subdelegaciones, a fin de evaluar, en especial que:
+
+> <small>(REFORMADO, D.O.F. 27 DE SEPTIEMBRE DE 2011)</small>
+
+a) Su funcionamiento y operación, así como el de las oficinas de enlace de su circunscripción, se ajusten a las políticas que rijan la emisión y legalización de documentos a que se refieren las fracciones I y III de este artículo;
 
 b) Exista una colaboración eficaz con otras unidades administrativas de la Secretaría, y
 
@@ -1397,11 +1639,17 @@ c) Se preste un servicio eficiente y de calidad a la ciudadanía;
 
 X. Promover y coordinar el programa de desconcentración administrativa de los servicios que presta la Secretaría, a través del establecimiento de delegaciones y subdelegaciones, que podrán auxiliarse de oficinas de enlace estatales o municipales, mediante la suscripción de convenios de colaboración administrativa, conforme a la normatividad aplicable;
 
-XI. Colaborar con las diversas unidades administrativas de la Secretaría en el desarrollo de sus atribuciones en los estados y municipios, mediante la organización, dirección y supervisión de las delegaciones y subdelegaciones, en los (sic) distintas funciones enunciadas en el artículo 46 de este Reglamento Interior;
+> <small>(REFORMADA, D.O.F. 27 DE SEPTIEMBRE DE 2011)</small>
+
+XI. Colaborar con las diversas unidades administrativas de la Secretaría en el desarrollo de sus atribuciones en los estados y municipios, mediante la organización, dirección y supervisión de las delegaciones y subdelegaciones, en las distintas funciones enunciadas en el artículo 46 de este Reglamento Interior;
 
 XII. Expedir copias certificadas de los documentos, fichas microfilmadas o documentos digitalizados que obren en sus archivos y proporcionar información al respecto, a petición del Ministerio Público, autoridades jurisdiccionales, administrativas y del trabajo, o bien, cuando sean materia de solicitudes de acceso a la información, y
 
 XIII. Ejercer las demás atribuciones que las disposiciones legales confieran a la Secretaría, que sean afines a las señaladas en las fracciones anteriores o que le encomiende el Secretario.
+
+> <small>(ADICIONADO, D.O.F. 27 DE SEPTIEMBRE DE 2011)</small>
+
+De conformidad con lo dispuesto en el artículo 14 del presente Reglamento, el Director General de Delegaciones, para el ejercicio de sus atribuciones, se auxiliará del Director General Adjunto de Pasaportes, del Director General Adjunto de Delegaciones, del Director de Supervisión, del Director de Normatividad, del Director de Operación de Pasaportes, del Director de Planeación y Administración de Insumos, del Director de Vinculación con los Estados, del Director de Evaluación y Mejora y de los Subdirectores Técnico-Consultivo y de Atención a Autoridades.
 
 ###### ARTÍCULO 36.
 
@@ -1437,7 +1685,9 @@ XIV. Apoyar a las distintas áreas de la Secretaría a la autentificación de do
 
 XV. Coordinar y emitir la comunicación con las diversas instituciones de seguridad nacional y aquellas internacionales que soliciten información sobre las bases de datos de los distintos sistemas informáticos de la Secretaría;
 
-XVI. Coordinar con las unidades administrativas competentes la celebración de contratos, convenios y demás instrumentos jurídicos en materia su competencia, con organismos y entidades tanto públicos como privados, nacionales o internacionales, y
+> <small>(REFORMADA, D.O.F. 27 DE SEPTIEMBRE DE 2011)</small>
+
+XVI. Coordinar con las unidades administrativas competentes la celebración de contratos, convenios y demás instrumentos jurídicos en materia de su competencia, con organismos y entidades tanto públicos como privados, nacionales o internacionales, y
 
 XVII. Ejercer las demás atribuciones que las disposiciones legales confieran a la Secretaría, que sean afines a las señaladas en las fracciones anteriores o que le encomiende el Secretario.
 
@@ -1489,67 +1739,39 @@ XX. Ejercer las demás atribuciones que las disposiciones legales confieran a la
 
 ###### ARTÍCULO 38.
 
-Corresponde a la Dirección General de Organismos Económicos Regionales y Multilaterales:
+(DEROGADO, D.O.F. 27 DE SEPTIEMBRE DE 2011)
 
-I. Diseñar, proponer y coadyuvar a la instrumentación de las estrategias de negociación económica en las instancias internacionales de su competencia, en coordinación con las áreas de la Secretaría y las dependencias y entidades de la Administración Pública Federal involucradas;
-
-II. Coordinar y participar, respetando plenamente las atribuciones de las distintas instancias competentes, las acciones tendientes a fortalecer las relaciones económicas de México con el mundo y promover los procesos de negociación internacional en materia económica regional y multilateral, que contribuyan al logro de los objetivos nacionales de desarrollo;
-
-III. Formular e impartir, en coordinación con las diversas áreas de la Secretaría y otras dependencias y entidades de la Administración Pública Federal, los lineamientos generales que normen la actuación de México en los organismos, fondos, programas, mecanismos y foros económicos regionales y multilaterales;
-
-IV. Coordinar, en el marco de la Organización de las Naciones Unidas, la participación de México en la Conferencia de las Naciones Unidas sobre Comercio y Desarrollo, en los temas económicos del Consejo Económico y Social, así como en los demás organismos económicos del sistema y en las conferencias y reuniones que se convoquen en el seno de las mismas;
-
-V. Representar a la Secretaría en las negociaciones de instrumentos regionales y multilaterales en materia económica y acuerdos de carácter sectorial;
-
-VI. Recopilar y difundir entre las áreas de la Secretaría y dependencias y entidades de la Administración Pública Federal interesadas, la información y documentación relativas a los resultados de las negociaciones regionales y multilaterales de su área de competencia;
-
-VII. Mantener el seguimiento de los acuerdos económicos suscritos por el gobierno de México con diferentes bloques regionales;
-
-VIII. Coordinar y apoyar los trabajos de enlace con la Unión Europea en el ámbito económico y, especialmente, en lo que se refiere al Acuerdo de Asociación Económica, Concertación Política y Cooperación. En el mismo sentido, realizar las mismas funciones en lo referente al Tratado de Libre Comercio México-Asociación Europea de Libre Comercio;
-
-IX. Proponer elementos para la negociación y participación en tratados, acuerdos y convenios económicos que se celebren en los organismos, fondos, programas, mecanismos y foros económicos regionales y multilaterales de su competencia, así como dar seguimiento a los mismos;
-
-X. Representar a la Secretaría en las reuniones convocadas por organismos, fondos, programas, mecanismos y foros económicos regionales y multilaterales, así como en las instancias donde se presenten los temas de su competencia;
-
-XI. Coordinar las labores de las representaciones de México ante los organismos, fondos, programas, mecanismos y foros económicos regionales y multilaterales de su competencia, así como la oportuna acreditación y actuación de las delegaciones de México en cada caso;
-
-XII. Supervisar el cumplimiento de las obligaciones contraídas por México en los organismos, fondos, programas, mecanismos y foros económicos regionales y multilaterales;
-
-XIII. Realizar, en coordinación con la Dirección General de Programación, Organización y Presupuesto, los trámites necesarios para cumplir con los pagos de contribuciones, aportaciones y cuotas de México ante los organismos internacionales en materia de su competencia, así como apoyar a otras dependencias y entidades de la Administración Pública Federal en cumplimiento de sus compromisos con organismos internacionales, en coordinación con las representaciones de México en el exterior;
-
-XIV. Participar en la evaluación y el análisis de los proyectos de presupuesto de los organismos, fondos, programas, mecanismos y foros económicos regionales y multilaterales de los que México sea miembro;
-
-XV. Contribuir, en el ámbito de su competencia, a la definición de una política de candidaturas a puestos en organismos, fondos, programas, mecanismos y foros económicos regionales y multilaterales que favorezcan los objetivos de México, en coordinación con la Dirección General para la Organización de las Naciones Unidas y de acuerdo con los lineamientos establecidos por el Comité de Candidaturas;
-
-XVI. Fortalecer el análisis, diseño, coordinación y difusión de la política mexicana en materia de cooperación y de desarrollo económico regional y multilateral;
-
-XVII. Participar, en los temas de su competencia, en coordinación con la Dirección General de Vinculación con las Organizaciones de la Sociedad Civil, para promover un diálogo efectivo entre la Secretaría y las organizaciones de la sociedad civil interesadas, con miras a mantener informadas de las actividades que lleva a cabo, tomando en cuenta sus observaciones y sugerencias en la definición y ejecución de la política exterior de México;
-
-XVIII. Coordinar el enlace con la Organización para la Cooperación y el Desarrollo Económico, así como asegurar la participación adecuada del gobierno de México y la promoción de intereses del país en lo que se refiere a organismos regionales y multilaterales de carácter económico;
-
-XIX. Definir la participación de la Secretaría en el foro de Cooperación Económica Asia-Pacífico, así como coordinar e impartir los lineamientos, en colaboración con las diversas áreas de la Secretaría y otras dependencias y entidades de la Administración Pública Federal, que normen la participación de la Secretaría en dicho foro;
-
-XX. Proporcionar y recibir de las representaciones diplomáticas y consulares, la información necesaria para llevar a cabo la promoción activa de los intereses de México;
-
-XXI. Coordinar las relaciones interinstitucionales para la promoción de sus objetivos en materia de desarrollo económico regional y multilateral;
-
-XXII. Promover el acceso del sector público mexicano al intercambio de información y a las labores de análisis comparativo, evaluación y diseño de políticas públicas en todos los ámbitos del quehacer gubernamental que tienen lugar en los foros de cooperación y de desarrollo económico regional y multilateral;
-
-XXIII. Elaborar propuestas y analizar la viabilidad de proyectos en materia de cooperación y de desarrollo económico en las áreas de su competencia;
-
-XXIV. Dar seguimiento a los compromisos internacionales de México en materia de cooperación y de desarrollo económico regional y multilateral; integrar y sistematizar información sobre esta vertiente de la cooperación y llevar a cabo su difusión entre las instituciones nacionales y extranjeras correspondientes y al público en general, y
-
-XXV. Ejercer las demás atribuciones que las disposiciones legales confieran a la Secretaría, que sean afines a las señaladas en las fracciones anteriores o que le encomiende el Secretario.
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 27 DE SEPTIEMBRE DE 2011)</small>
 
 ###### ARTÍCULO 39.
 
-Corresponde a la Dirección General de Promoción Económica Internacional:
+Corresponde a la Dirección General de Cooperación y Promoción Económica Internacional:
 
 I. Diseñar, dirigir, coordinar e instrumentar, en colaboración con las diversas dependencias y entidades de la Administración Pública Federal y Estatal y las representaciones de México en el exterior, las estrategias y actividades que en materia de atracción de inversión extranjera directa, promoción económica, comercial y turística realicen la red de embajadas, consulados y oficinas de México en el exterior;
 
+> <small>(ADICIONADA, D.O.F. 27 DE SEPTIEMBRE DE 2011)</small>
+
+I bis. Coordinar con instituciones gubernamentales de promoción económica y el sector privado nacional, acciones, proyectos y programas de cooperación internacional encaminadas a favorecer un mayor desarrollo económico de México;
+
 II. Identificar oportunidades de exportación de productos mexicanos y de atracción de inversión extranjera directa, en colaboración con las representaciones de México en el exterior, dándoles el debido seguimiento en coordinación con las entidades y dependencias del sector público federal y estatal;
 
+> <small>(ADICIONADA, D.O.F. 27 DE SEPTIEMBRE DE 2011)</small>
+
+II bis. Promover una participación dinámica del sector privado nacional en los foros internacionales de cooperación, que favorezca el diálogo, la coordinación y la acción conjunta con el sector público;
+
+> <small>(ADICIONADA, D.O.F. 27 DE SEPTIEMBRE DE 2011)</small>
+
+II ter. Favorecer acciones de cooperación que contribuyan al fortalecimiento de las mejores prácticas empresariales y a mayor promoción de la responsabilidad social de las empresas, a nivel regional y mundial;
+
+> <small>(ADICIONADA, D.O.F. 27 DE SEPTIEMBRE DE 2011)</small>
+
+II quáter. Promover a través de acciones, proyectos y programas de cooperación internacional, el acceso a nuevas tecnologías para beneficio de las micro, pequeñas y medianas empresas de México para favorecer su competitividad, productividad, sostenibilidad e internacionalización en la economía global;
+
 III. Fungir como enlace entre la Secretaría y las diversas dependencias y entidades del sector público federal y estatal, así como entre las empresas y organismos del sector privado de México y entre éstos y sus contrapartes en el exterior, para dar seguimiento a la ejecución de los programas, actividades y compromisos de promoción económica;
+
+> <small>(ADICIONADA, D.O.F. 27 DE SEPTIEMBRE DE 2011)</small>
+
+III bis. Apoyar a los gobiernos estatales y locales, así como al sector privado nacional, en el aprovechamiento de las oportunidades de negocios, comercio e inversión y a su integración a los mercados regionales y mundiales, acercándoles las oportunidades de capacitación y exploración ofrecidas por la cooperación económica internacional;
 
 IV. Diseñar y coordinar, en conjunto con las dependencias y entidades del sector público federal y estatal y en su caso en coordinación con las áreas competentes de esta Secretaría, la realización de misiones de promoción económica en el exterior, y asistirlas en la consecución de sus objetivos generales y específicos, con particular énfasis en la atracción de inversión extranjera directa y la penetración sostenida y creciente de las exportaciones mexicanas en el exterior;
 
@@ -1567,89 +1789,97 @@ X. Planear, programar, organizar y dirigir los talleres y seminarios para la cap
 
 XI. Ejercer las demás atribuciones que las disposiciones legales confieran a la Secretaría, que sean afines a las señaladas en las fracciones anteriores o que le encomiende el Secretario.
 
+> <small>(REFORMADO, D.O.F. 27 DE SEPTIEMBRE DE 2011)</small>
+
 ###### ARTÍCULO 40.
 
-Corresponde a la Dirección General de Relaciones Económicas Bilaterales:
+Corresponde a la Dirección General de Cooperación y Relaciones Económicas Bilaterales:
 
-I. Contribuir a asegurar la coordinación de acciones de política exterior en materia económica en el ámbito bilateral con las dependencias y entidades de la Administración Pública Federal competentes;
+I. Definir, planear y formular, en coordinación con las dependencias de la Administración Pública Federal competentes, las políticas de cooperación internacional para el desarrollo en el ámbito económico y financiero, en concordancia con los lineamientos y metas del Plan Nacional de Desarrollo y de los programas que de éste se deriven;
 
-II. Coadyuvar al diseño y evaluación de la política económica exterior mediante el análisis y sistematización de información de las relaciones económicas de México con otros países;
+II. Coordinar con otras dependencias y entidades gubernamentales, las reuniones de concertación y colaboración económica y financiera de México con el mundo;
 
-III. Definir, conjuntamente con las dependencias y entidades de la Administración Pública Federal, la estrategia de política económica exterior en el plano bilateral con países prioritarios y las acciones específicas para ampliar y profundizar las relaciones económicas;
+III. Promover diálogos macroeconómicos y financieros a fin de apoyar, mediante la cooperación internacional, el mejoramiento de la gestión de las finanzas públicas a nivel nacional, regional y local así como los marcos legales y regulatorios y los sistemas correspondientes para estabilizar las economías;
 
-IV. Establecer lineamientos sobre asuntos económicos bilaterales para las representaciones de México en el exterior y evaluar las acciones realizadas;
+IV. Promover la cooperación entre las bancas de desarrollo y comercial de México con otros países y el mejoramiento del marco institucional para el desarrollo de los mercados;
 
-V. Coadyuvar a la ejecución de la política económica exterior mediante el seguimiento de tratados y acuerdos económicos que suscriba México con los diferentes países del mundo con miras a su cabal cumplimiento y eficiente utilización;
+V. Promover la integración económica y empresarial con los países socios de México, mediante el desarrollo de acciones, proyectos y programas de cooperación internacional en el ámbito productivo: armonización de normas, estándares técnicos, y mecanismos y políticas de regulación y control, así como la transferencia de tecnología y la formación y capacitación de recursos humanos;
 
-VI. Participar en las negociaciones de acuerdos bilaterales en materia económica;
+VI. Contribuir, en coordinación con las dependencias y entidades públicas competentes, a generar espacios de diálogo, coordinación y acción conjunta, entre los sectores públicos internacionales en materia económica y financiera;
 
-VII. Contribuir a concertar, preparar y realizar visitas de alto nivel y reuniones de los mecanismos de concertación y colaboración económica de México con el mundo, en coordinación con otras dependencias y entidades gubernamentales;
+VII. Coadyuvar a la ejecución de la política económica exterior, mediante el seguimiento de tratados y acuerdos económicos que suscriba México con los diferentes países del mundo;
 
-VIII. Elaborar análisis y documentos informativos sobre las relaciones económicas de México con otros países, considerando las acciones en el exterior de las dependencias y entidades de la Administración Pública Federal y organismos privados mexicanos;
+VIII. Participar en las negociaciones de acuerdos bilaterales en materia económica, con el objeto de fortalecer la cooperación en ese marco;
 
-IX. Generar estudios, con el apoyo de las representaciones de México en el exterior, sobre la situación económica de otros países y su grado de complementación con la economía nacional teniendo presentes las características del contexto internacional;
+IX. Generar estudios sobre la situación económica de otros países y su grado de complementación con la economía nacional, a fin de diseñar nuevas áreas para desarrollar cooperación económica;
 
-X. Apoyar las gestiones a favor de intereses mexicanos en el extranjero, en particular mediante la difusión y el seguimiento a la participación de empresas mexicanas en licitaciones internacionales, y
+X. Generar condiciones para mejorar la capacidad de uso de los Acuerdos Económicos y Comerciales que México ha suscrito, y
 
 XI. Ejercer las demás atribuciones que las disposiciones legales confieran a la Secretaría, que sean afines a las señaladas en las fracciones anteriores o que le encomiende el Secretario.
+
+> <small>(REFORMADO, D.O.F. 27 DE SEPTIEMBRE DE 2011)</small>
 
 ###### ARTÍCULO 41.
 
 Corresponde a la Dirección General de Cooperación Técnica y Científica:
 
-I. Definir, planear y formular las políticas de cooperación técnica, tecnológica y científica internacional para el desarrollo en concordancia con los lineamientos y metas del Plan Nacional de Desarrollo y de los programas que de éste se deriven;
+I. Coadyuvar con el Director Ejecutivo de la Agencia Mexicana de Cooperación Internacional para el Desarrollo, en la definición, planeación y formulación de las políticas de cooperación técnica y científica en concordancia con los lineamientos y metas del Plan Nacional de Desarrollo y del Programa de Cooperación Internacional para el Desarrollo;
 
-II. Definir políticas de cooperación técnica, científica y tecnológica internacional para el desarrollo en relación con el cumplimiento de los compromisos de México, derivados del escenario internacional;
+II. Elaborar diagnósticos y evaluaciones del Programa de Cooperación Internacional para el Desarrollo, así como de las tendencias a nivel global en dicha materia, que sirvan como elementos para las actualizaciones del referido Programa;
 
-III. Definir el marco jurídico y consolidar el Sistema Mexicano de Cooperación Internacional para el Desarrollo;
+III. Planificar, dar seguimiento y evaluar, en el ámbito de su competencia y en coordinación con las instituciones cooperantes que correspondan, la ejecución de las políticas, programas, proyectos y acciones de cooperación internacional de conformidad con los lineamientos del Programa de Cooperación Internacional para el Desarrollo;
 
-IV. Participar en la estructuración, negociación e instrumentación de los convenios básicos y acuerdos complementarios de cooperación técnica, científica y tecnológica internacional;
+IV. Reforzar esquemas de cooperación internacional que promuevan la complementariedad y fortalecimiento institucional en los órdenes federal, estatal y municipal que favorezcan, asimismo, la descentralización de la cooperación internacional para el desarrollo, tomando en cuenta la opinión de la Dirección General de Coordinación Política;
 
-V. Fortalecer esquemas de cooperación internacional que promuevan la complementariedad institucional en los órdenes federal, estatal y municipal que favorezcan, asimismo, la descentralización de la cooperación internacional para el desarrollo, tomando en cuenta la opinión de la Dirección General de Coordinación Política;
+V. Suscribir, previa opinión de la Consultoría Jurídica, los documentos de proyectos bilaterales, multilaterales, regionales, trilaterales y de las diversas vertientes de cooperación en curso, que sean parte de los programas de cooperación técnica, científica y tecnológica vigentes;
 
-VI. Diseñar, negociar y coordinar la ejecución, seguimiento y evaluación de los programas y proyectos de cooperación técnica, científica y tecnológica;
+VI. Convocar, organizar y celebrar, en el marco de los acuerdos de cooperación suscritos por México, las reuniones de las comisiones mixtas, grupos de trabajo o sus similares en el caso de los organismos, fondos, programas y agencias especializadas, regionales y multilaterales, en materia de cooperación técnica, científica y tecnológica;
 
-VII. Convocar, organizar y celebrar las reuniones de las comisiones mixtas, bilaterales, y multilaterales de cooperación técnica, científica y tecnológica internacional para el desarrollo;
+VII. Solicitar informes a las contrapartes internacionales y a las instituciones cooperantes sobre los avances y resultados de las actividades de cooperación internacional que deriven de acuerdos interinstitucionales y sus anexos técnicos o planes de trabajo;
 
-VIII. Participar en las comisiones, consejos y comités interinstitucionales de carácter técnico, científico y tecnológico, a los que sea invitada la Dirección General;
+VIII. Dar seguimiento a la labor de los organismos internacionales en materia de cooperación técnica, científica y tecnológica, con objeto de constatar que sus actividades se desarrollan de conformidad con los objetivos de cooperación acordados conjuntamente;
 
-IX. Representar a la Secretaría en foros nacionales e internacionales en materia de cooperación técnica, científica y tecnológica internacional para el desarrollo;
+IX. Participar, previa invitación que se le haga, en los Consejos Técnicos para la atención de temas específicos de la cooperación internacional propuestos por el Consejo Consultivo;
 
-X. Coordinar con las áreas competentes de la Secretaría, así como con las instituciones nacionales correspondientes, la atención de la cooperación técnica, científica y tecnológica;
+X. Fomentar y apoyar la participación de las instituciones mexicanas de los sectores público, privado y social en los esquemas vigentes de cooperación internacional para el desarrollo;
 
-XI. Fomentar y apoyar la participación de las instituciones mexicanas de los sectores público, privado y social en los esquemas vigentes de cooperación internacional para el desarrollo;
+XI. Coadyuvar con el Director Ejecutivo de la Agencia Mexicana de Cooperación Internacional para el Desarrollo y con las dependencias y entidades de la Administración Pública Federal, en el diseño y promoción de nuevos mecanismos de financiamiento para la ejecución de la cooperación internacional para el desarrollo;
 
-XII. Diseñar y promover nuevos mecanismos de financiamiento para la ejecución de la cooperación internacional para el desarrollo, en coordinación con las dependencias y entidades de la Administración Pública Federal competentes;
+XII. Coordinar las acciones de la Secretaría y otras dependencias y entidades de la Administración Pública Federal, en el seguimiento, supervisión y evaluación que se haga de la ejecución de las políticas y acciones de cooperación internacional previstas en el Programa de Cooperación Internacional para el Desarrollo;
 
-XIII. Supervisar, en coordinación con las dependencias y entidades de la Administración Pública Federal, gobiernos de los estados y municipios y los sectores privado y social, el cumplimiento de los objetivos y prioridades de los programas de cooperación técnica, científica y tecnológica internacional para el desarrollo;
+XIII. Coadyuvar con el Director Ejecutivo de la Agencia Mexicana de Cooperación Internacional para el Desarrollo, en la instalación y participación de los paneles sectoriales para la identificación y estructuración de proyectos y actividades que integren los programas de cooperación técnica, científica y tecnológica, bilaterales y multilaterales;
 
-XIV. Instalar y participar en los paneles sectoriales para la identificación y estructuración de proyectos y actividades que integren los programas de cooperación técnica, científica y tecnológica, bilaterales y multilaterales;
+XIV. Coadyuvar con el Director Ejecutivo de la Agencia Mexicana de Cooperación Internacional para el Desarrollo, en la estructuración e instrumentación de estrategias y políticas de convergencia entre las fuentes de cooperación técnica, tecnológica y científica, multilaterales y bilaterales, así como impulsar esquemas de diversificación que permitan equilibrar el desarrollo de las relaciones internacionales del país, promoviendo para el efecto las capacidades de las instituciones mexicanas de los sectores público, privado, académico y social;
 
-XV. Estructurar e instrumentar estrategias y políticas de convergencia entre las fuentes de cooperación técnica, tecnológica y científica, multilaterales y bilaterales, así como impulsar esquemas de diversificación que permitan equilibrar el desarrollo de las relaciones internacionales del país, aprovechando activos y capacidades de las instituciones mexicanas de los sectores público, privado, académico y social;
+XV. Asistir a la Agencia Mexicana de Cooperación Internacional para el Desarrollo en la formulación, en coordinación con dependencias y entidades de la Administración Pública Federal e instituciones nacionales competentes, de los lineamientos que normen la participación de México en los foros multilaterales de cooperación técnica, científica y tecnológica internacional para el desarrollo, de conformidad con lo establecido en la fracción I del presente artículo;
 
-XVI. Formular, en coordinación con dependencias y entidades de la Administración Pública Federal e instituciones nacionales competentes, los lineamientos que normen la participación de México en los foros multilaterales de cooperación técnica, científica y tecnológica internacional para el desarrollo, de conformidad con lo establecido en la fracción I del presente artículo;
+XVI. Gestionar ante las autoridades aduaneras competentes la internación de materiales y equipo destinados a la ejecución de proyectos de cooperación internacional para el desarrollo;
 
-XVII. Gestionar ante las autoridades aduaneras competentes la internación de materiales y equipo destinados a la ejecución de proyectos de cooperación internacional para el desarrollo;
+XVII. Gestionar ante la Dirección General de Servicios Consulares y el Instituto Nacional de Migración, la documentación como cooperantes, de los expertos extranjeros participantes en los diversos programas de cooperación técnica, científica y tecnológica en vigor;
 
 XVIII. Fungir como Secretaría Técnica de la Comisión Mexicana para la Cooperación con Centroamérica;
 
-XIX. Proponer el nombramiento de funcionarios de la Secretaría como encargados de la cooperación técnica, científica y tecnológica en las representaciones de México en el exterior;
+XIX. Proponer a la Agencia Mexicana de Cooperación Internacional para el Desarrollo, el nombramiento de servidores públicos de la Secretaría como encargados de la cooperación técnica, científica y tecnológica en las representaciones de México en el exterior;
 
-XX. Servir como punto focal en las gestiones para la recepción y envío de ayuda humanitaria en casos de desastres ocurridos en México o en el extranjero;
+XX. Coordinar las gestiones de recepción y envío de ayuda humanitaria en casos de desastres ocurridos en México o en el extranjero y, en su caso, realizar conjuntamente con la Coordinación General de Protección Civil de la Secretaría de Gobernación las gestiones de envío y recepción de ayuda humanitaria cuando la emergencia sea en otros países o cuando el Titular del Ejecutivo Federal emita un llamado de ayuda humanitaria internacional ante la ocurrencia de una emergencia en México;
 
-XXI. Asistir a foros internacionales o recomendar la conformación de las delegaciones mexicanas en foros internacionales donde se trate el tema de desastres;
+XXI. Coordinar, con las unidades administrativas competentes de la Secretaría, las acciones de ayuda internacional para la atención de una emergencia o desastre ocurrido en México;
 
-XXII. Registrar y sistematizar información sobre los recursos financieros, ejecución y administración de la cooperación internacional para el desarrollo, a fin de atender el ciclo integral de programas y proyectos en términos de la planificación, monitoreo y evaluación de acciones;
+XXII. Coordinar, conjuntamente con las instancias del Sistema Nacional de Protección Civil y áreas correspondientes de la Secretaría, en la formulación de lineamientos para la participación de delegaciones mexicanas, hacer recomendaciones y, en los casos que se discutan posiciones de cooperación en materia de desastres asistir a foros y reuniones internacionales donde se traten tema (sic) de cooperación en materia de desastres o ayuda humanitaria;
 
-XXIII. Mantener un registro de los expertos internacionales adscritos a programas y proyectos de cooperación que se realizan en México, basándose para ello en la información que le proporcionen las áreas correspondientes;
+XXIII. Coadyuvar con el Director Ejecutivo de la Agencia Mexicana de Cooperación Internacional para el Desarrollo en la conformación y la permanente actualización tanto del Registro Nacional de Instituciones y Expertos Participantes y de Acciones de Cooperación Internacional, como del Sistema Nacional de Información de la Cooperación Internacional para el Desarrollo;
 
-XXIV. Participar con instituciones nacionales y con interlocutores extranjeros en la selección conjunta de los expertos y becarios que colaborarán en programas y proyectos de cooperación internacional para el desarrollo;
+XXIV. Participar en el registro de los expertos internacionales adscritos a programas y proyectos de cooperación que se realizan en México, basándose para ello en la información que le proporcionen las áreas correspondientes;
 
-XXV. Tramitar los permisos que soliciten los gobiernos extranjeros para realizar investigaciones científicas o académicas en el territorio nacional o en aguas jurisdiccionales de México;
+XXV. Participar con instituciones nacionales y con interlocutores extranjeros en la selección conjunta de los expertos y becarios que colaborarán en programas y proyectos de cooperación internacional para el desarrollo;
 
-XXVI. Difundir las actividades de los programas y los proyectos de cooperación internacional para el desarrollo, y
+XXVI. Recibir y tramitar los permisos que soliciten los gobiernos extranjeros para realizar toda clase de investigaciones científicas y/o colectas en el territorio nacional o en aguas jurisdiccionales de México, así como dar seguimiento a las mismas, en consulta con las unidades administrativas competentes de la Secretaría;
 
-XXVII. Ejercer las demás atribuciones que las disposiciones legales confieran a la Secretaría, que sean afines a las señaladas en las fracciones anteriores o que le encomiende el Secretario.
+XXVII. Difundir las actividades de los programas y los proyectos de cooperación internacional para el desarrollo;
+
+XXVIII. Coordinar sus acciones con las unidades administrativas correspondientes, para mantener actualizado a su personal y a los encargados de cooperación internacional para el desarrollo de las representaciones de México en el exterior en relación con las mejores prácticas en materia de cooperación internacional, desarrolladas, adoptadas y aplicadas por agencias de cooperación de terceros países y por organismos multilaterales especializados, y
+
+XXIX. Ejercer las demás atribuciones que las disposiciones legales confieran a la Secretaría, que sean afines a las señaladas en las fracciones anteriores o que le encomiende el Secretario.
 
 ###### ARTÍCULO 42.
 
@@ -1713,7 +1943,9 @@ II. Coadyuvar en la recepción de solicitudes de extranjeros que deseen obtener 
 
 III. Expedir declaratorias de nacionalidad mexicana por nacimiento y certificados de nacionalidad mexicana, con las modalidades, condiciones y excepciones que fije la mencionada Dirección General de Asuntos Jurídicos;
 
-IV. Intervenir de acuerdo a las instrucciones que reciban de la Dirección General de Asuntos Jurídicos, en los procedimientos y juicios en que la Secretaría sea parte;
+> <small>(REFORMADA, D.O.F. 27 DE SEPTIEMBRE DE 2011)</small>
+
+IV. Intervenir de acuerdo a las instrucciones que reciban de la Dirección General de Asuntos Jurídicos, en los procedimientos y juicios en que la Secretaría sea parte, así como en materia de pensiones alimenticias, adopciones y restitución de menores en los términos que lo solicite la Dirección General de Protección a Mexicanos en el Exterior;
 
 V. Tramitar previo dictamen de su procedencia, los exhortos y cartas rogatorias que reciban;
 
@@ -1731,9 +1963,67 @@ XI. Elaborar programas y presupuestos de operación, así como rendir informes m
 
 XII. Ejercer las demás atribuciones que las disposiciones legales confieran a la Secretaría, que sean afines a las señaladas en las fracciones anteriores o que les encomiende el Secretario.
 
+> <small>(REFORMADO, D.O.F. 27 DE SEPTIEMBRE DE 2011)</small>
+
 ###### ARTÍCULO 47.
 
-El Instituto de los Mexicanos en el Exterior se regirá por su Decreto de creación.
+El Instituto de los Mexicanos en el Exterior, se regirá por su Decreto de creación. Además de su Director contará con un Director Ejecutivo. El Director tendrá las atribuciones siguientes:
+
+I. Elaborar los planes y programas de trabajo del Instituto de los Mexicanos en el Exterior;
+
+II. Formular los proyectos de programas y de presupuesto relativos al Instituto de los Mexicanos en el Exterior, de conformidad con las disposiciones y lineamientos aplicables;
+
+III. Coordinar acciones a favor de las comunidades mexicanas en el exterior, a través de la red diplomática y consular del Gobierno de México;
+
+IV. Coordinar y participar en las reuniones de los órganos asesores que se formen;
+
+V. Ejecutar las políticas y directrices definidas por el Presidente de la República o el Secretario;
+
+VI. Participar en las comisiones y consejos de que forme parte la Secretaría de Relaciones Exteriores en el ámbito de competencia del Instituto de los Mexicanos en el Exterior;
+
+VII. Coordinar y promover las acciones institucionales en aquellos ámbitos que impulsen el fortalecimiento y desarrollo de comunidades en el exterior en coordinación con las dependencias del Ejecutivo Federal;
+
+VIII. Promover y participar en coordinación con los gobiernos, instituciones y organizaciones de los estados y municipios y sector privado, en los programas y acciones que beneficien a los migrantes;
+
+IX. Participar en acciones de beneficio a los migrantes en coordinación con las oficinas públicas y privadas, de apoyo a mexicanos migrantes;
+
+X. Colaborar y participar en los distintos programas del Gobierno Federal a favor de las comunidades mexicanas en el extranjero;
+
+XI. Participar en los programas y acciones del Gobierno Federal encaminados a obtener y proporcionar información en los temas de interés sobre las comunidades en el exterior;
+
+XII. Formular y proponer políticas públicas al Consejo Nacional para las Comunidades Mexicanas en el Exterior, con base en las necesidades, opiniones e inquietudes expresadas por los mexicanos que residen en el exterior, y
+
+XIII. Ejercer las demás atribuciones que otras disposiciones legales le confieran a él o a la Secretaría, y que sean afines a las señaladas en las fracciones anteriores y las que le encomiende el Secretario.
+
+El Titular del Instituto de los Mexicanos en el Exterior, para el ejercicio de sus atribuciones, se auxiliará del Director Ejecutivo, del Director General Adjunto de Atención y Administración, del Director General Adjunto de Asuntos Comunitarios, del Director de Análisis de Información, del Director de Atención a Consejeros, del Director de Asuntos Económicos y Comunitarios, del Director de Promoción Comunitaria; de los Subdirectores de Logística, Supervisión Administrativa, Información y Estadísticas, Procuración de Fondos, de Atención a Consejeros y de Enlace con Dependencias Gubernamentales, de Enlace, de Análisis, de Educación; así como de los Jefes de Departamento adscritos a cada Subdirección.
+
+> <small>(ADICIONADO, D.O.F. 27 DE SEPTIEMBRE DE 2011)</small>
+
+ARTÍCULO 47 bis. El Director Ejecutivo del Instituto de los Mexicanos en el Exterior tendrá las siguientes atribuciones:
+
+I. Auxiliar al Director del Instituto en el ejercicio de sus funciones;
+
+II. Dirigir y coordinar al equipo de trabajo del Instituto;
+
+III. Ejecutar las estrategias y programas del Instituto a favor de las comunidades mexicanas en el exterior;
+
+IV. Coordinar la elaboración de los planes y programas de trabajo del Instituto;
+
+V. Participar conjuntamente con el Director del Instituto en el ámbito de su competencia, en las comisiones y consejos de que forme parte la Secretaría;
+
+VI. Participar en la promoción de las acciones institucionales en aquellos ámbitos que impulsen el fortalecimiento y desarrollo de comunidades en el exterior en coordinación con las dependencias del Ejecutivo Federal;
+
+VII. Fomentar en coordinación con las demás áreas competentes de la Secretaría y con los gobiernos, organizaciones e instituciones de los estados y municipios y, sector privado, los programas y acciones que beneficien a los migrantes;
+
+VIII. Recabar y sistematizar las propuestas y recomendaciones que formulen los órganos consultivos constituidos por representantes de las comunidades mexicanas en el exterior;
+
+IX. Facilitar la construcción de redes para vincular a la extensa población mexicana, radicada fuera de México, y contribuir a su mejor integración en las distintas sociedades receptoras;
+
+X. Proponer la celebración de acuerdos, convenios y estrategias con las instituciones mexicanas y extranjeras que tengan o deseen tener programas orientados a contribuir al mejoramiento de las comunidades mexicanas en el exterior y a fortalecer los vínculos de dichas instituciones extranjeras entre México con su país de origen;
+
+XI. Servir como vínculo entre el Instituto y otras unidades administrativas de la Secretaría, así como fungir como enlace con las demás dependencias del Ejecutivo Federal en los temas de su competencia, y
+
+XII. Realizar las demás funciones que le sean asignadas por sus superiores jerárquicos, en el marco de sus atribuciones.
 
 ###### ARTÍCULO 48.
 
@@ -1763,13 +2053,57 @@ XI. Apoyar a la Comisión de Personal, prevista en la Ley del Servicio Exterior 
 
 XII. Coordinar el diseño de los contenidos de los exámenes de historia y cultura de México que aplica regularmente la Dirección General de Asuntos Jurídicos a los interesados en obtener la nacionalidad mexicana por naturalización;
 
-XIII. Capacitar a los miembros del Servicio Exterior Mexicano en las áreas de promoción comercial y turística, en coordinación con la Unidad de Relaciones Económicas y Cooperación Internacional;
+> <small>(REFORMADA, D.O.F. 27 DE SEPTIEMBRE DE 2011)</small>
 
-XIV. Fungir como entidad coordinadora para la difusión de todas las oportunidades de capacitación que en materia de diplomacia, asuntos internacionales y política exterior de México y de otros países, ofrezcan a la Secretaría entidades públicas y privadas, nacionales e internacionales, así como para la selección de candidatos;
+XIII. Capacitar a los miembros del Servicio Exterior Mexicano en las áreas de promoción comercial y turística, en coordinación con la Agencia Mexicana de Cooperación Internacional para el Desarrollo;
+
+> <small>(REFORMADA, D.O.F. 27 DE SEPTIEMBRE DE 2011)</small>
+
+XIV. Fungir como entidad coordinadora de la difusión y selección de candidatos de todas las oportunidades de capacitación que ofrezcan a la Secretaría entidades públicas y privadas, nacionales e internacionales, en materia de diplomacia, asuntos internacionales y política exterior de México;
 
 XV. Promover mecanismos de reflexión sobre problemas de coyuntura, tales como foros, seminarios y estudios especializados, cuyo objetivo sea congregar a servidores públicos, académicos y otros expertos en temas vinculados al campo de los estudios internacionales, a fin de proporcionar al Secretario elementos para la toma de decisiones, y
 
 XVI. Ejercer las demás atribuciones que las disposiciones legales confieran a la Secretaría, que sean afines a las señaladas en las fracciones anteriores o que le encomiende el Secretario.
+
+> <small>(ADICIONADO, D.O.F. 27 DE SEPTIEMBRE DE 2011)</small>
+
+ARTÍCULO 48 bis. La Agencia Mexicana de Cooperación Internacional para el Desarrollo, tendrá las atribuciones establecidas en la Ley de Cooperación Internacional para el Desarrollo, así como las demás que se establezcan en otros ordenamientos jurídicos.
+
+La Agencia contará con una coordinación administrativa, con el objeto de atender las necesidades de recursos presupuestales, humanos y materiales de las unidades administrativas de su adscripción.
+
+> <small>(ADICIONADO, D.O.F. 27 DE SEPTIEMBRE DE 2011)</small>
+
+ARTÍCULO 48 ter. La dirección y administración de la Agencia Mexicana de Cooperación Internacional para el Desarrollo estará a cargo de un Director Ejecutivo quien tendrá, además de las atribuciones previstas en la Ley de Cooperación Internacional para el Desarrollo, las siguientes:
+
+I. Acordar con el Secretario el despacho de los asuntos de las unidades administrativas que éste adscriba orgánicamente bajo su responsabilidad, así como desempeñar las funciones y comisiones que el propio Secretario le encomiende o delegue, y mantenerlo informado sobre el desarrollo de las mismas;
+
+II. Dictar las medidas necesarias para el mejor funcionamiento de las unidades administrativas a su cargo, así como controlar y evaluar el trabajo y los resultados de las actividades de las mismas;
+
+III. Designar al servidor público encargado provisionalmente del despacho de los asuntos en tanto se designa al servidor público correspondiente, en el caso de las vacantes de los titulares de las unidades administrativas que le sean adscritas;
+
+IV. Coordinar, supervisar y dar seguimiento a las actividades que realicen las unidades administrativas a su cargo en materia de organismos económicos y promoción económica internacionales, relaciones económicas bilaterales, y cooperación técnica, científica, educativa y cultural, conforme a las políticas que dicte el Secretario;
+
+V. Emitir instrucciones sobre asuntos en materia de organismos económicos y promoción económica internacionales, relaciones económicas bilaterales y cooperación internacional, a los titulares de las representaciones diplomáticas y consulares de México en el exterior;
+
+VI. Dictar lineamientos de política exterior en materia de cooperación internacional para el desarrollo, promoción económica internacional, relaciones económicas bilaterales y organismos económicos internacionales;
+
+VII. Representar al Secretario en foros nacionales e internacionales en materia de su competencia;
+
+VIII. Formular el anteproyecto de programa-presupuesto de la Agencia a su cargo, en coordinación con la Dirección General de Programación, Organización y Presupuesto, y de conformidad con las disposiciones legales aplicables;
+
+IX. Autorizar por escrito a las unidades administrativas que se le adscriban, la celebración de convenios y contratos que impliquen obligaciones patrimoniales a cargo de la Secretaría, previamente a su formalización;
+
+X. Proponer el ingreso, promoción, licencia y la terminación laboral del personal adscrito, así como la de extender autorizaciones a que tenga derecho su personal, de conformidad con las disposiciones legales aplicables;
+
+XI. Suscribir los documentos relativos al ejercicio de sus atribuciones y aquéllos que le sean señalados por delegación o le correspondan por suplencia;
+
+XII. Vigilar el estricto cumplimiento de las normas legales y disposiciones administrativas en los asuntos de su competencia;
+
+XIII. Coordinar las labores de las unidades administrativas a su cargo, dictando las medidas necesarias para su mejor funcionamiento, así como coordinarse, en su caso, con las demás áreas de la Secretaría;
+
+XIV. Expedir copias certificadas de los documentos y constancias que obren en sus archivos, a petición del Ministerio Público, autoridades jurisdiccionales, administrativas y del trabajo, o bien, cuando sean materia de solicitudes de acceso a la información, y
+
+XV. Ejercer las demás atribuciones que le confieran el Secretario dentro del marco de su competencia y las disposiciones legales aplicables que sean afines a las señaladas en las fracciones anteriores, así como las que corresponden a las unidades administrativas que se le adscriban.
 
 ### CAPÍTULO IX. De las Secciones Mexicanas de las Comisiones Internacionales de Límites y Aguas
 
@@ -1793,45 +2127,39 @@ VI. Ejercer los programas de inversión que se le autoricen para la operación y
 
 VII. Ejercer las demás atribuciones que le confieran los tratados y acuerdos internacionales en materia de límites y aguas internacionales y las que le señale el Secretario.
 
+> <small>(REFORMADO, D.O.F. 27 DE SEPTIEMBRE DE 2011)</small>
+
 ###### ARTÍCULO 50.
 
-Corresponde a la Sección Mexicana de la Comisión Internacional de Límites y Aguas entre México y Estados Unidos:
+La Sección Mexicana de la Comisión Internacional de Límites y Aguas entre México y Estados Unidos, tendrá las siguientes atribuciones, sin menoscabo de las que como parte de un organismo internacional le confieren los tratados internacionales de límites y aguas vigentes entre ambos países:
 
-I. Cumplir con las políticas, lineamientos y disposiciones que le hagan llegar las unidades administrativas jerárquicamente superiores, competentes en la materia;
+I. Acatar las políticas públicas internacionales que al efecto dicte la Secretaría de Relaciones Exteriores;
 
-II. Vigilar el cumplimiento y ejercer las atribuciones previstas en los tratados y acuerdos internacionales vigentes y aquellos que se celebren con el gobierno de los Estados Unidos de América en materia de límites internacionales; contabilidad, distribución y aprovechamiento de las aguas de los ríos internacionales de la frontera norte del país, y solución de problemas fronterizos de saneamiento y de la calidad de las aguas internacionales tanto superficiales como subterráneas;
+II. Dar aviso al Gobierno Mexicano a través de la Secretaría de Relaciones Exteriores, sobre las diferencias que se susciten con motivo de la interpretación o aplicación de los tratados internacionales vigentes en materia de límites y aguas;
 
-III. Participar en las negociaciones diplomáticas para la forma de acuerdos internacionales sobre la materia, en coordinación con las unidades administrativas competentes de la Secretaría;
+III. Ejercer, en coordinación con las autoridades competentes, la jurisdicción sobre la parte mexicana de las obras construidas al amparo de los tratados internacionales vigentes en materia de límites y aguas;
 
-IV. Atender los asuntos relativos a los límites y aguas internacionales tanto superficiales como subterráneas, en la frontera con los Estados Unidos de América en coordinación con las autoridades federales, estatales y municipales competentes;
+IV. Coordinar, con las autoridades competentes mexicanas, el establecimiento de los lineamientos que prevean el uso civil de las superficies de las aguas de las presas internacionales, las zonas de inundación de los ríos internacionales que determine la Comisión Internacional de Límites y Aguas, así como las áreas y orillas de aquella parte de los lagos comprendidos dentro de la frontera norte del territorio Mexicano;
 
-V. Operar y mantener, las presas, estaciones hidrométricas y otras obras e instalaciones de carácter internacional requeridas para la contabilidad, almacenamiento y derivación de las aguas de los ríos internacionales, de la frontera norte de México, en coordinación cuando así corresponda, con las autoridades federales, estatales y municipales con atribuciones en la materia;
+V. Instruir y supervisar la elaboración de los trabajos de construcción que les sean asignados, solicitando el apoyo para ese fin de las autoridades mexicanas competentes;
 
-VI. Contabilizar las aguas internacionales por medio de estaciones hidrométricas, con el objeto de efectuar la distribución de las aguas asignadas a cada país de conformidad con lo establecido en los acuerdos y tratados internacionales vigentes, sin perjuicio de las atribuciones que corresponda a otras autoridades;
+VI. Vigilar las obras de conducción de agua o energía eléctrica y para los servicios anexos a las mismas obras que se ubiquen en territorio mexicano, conforme haya sido determinado por la Comisión Internacional de Límites y Aguas;
 
-VII. Atender, en coordinación con las autoridades responsables, los problemas de saneamiento en la frontera norte, así como vigilar la calidad de las aguas internacionales para preservar su uso benéfico;
+VII. Solicitar el apoyo de las autoridades mexicanas competentes para la ejecución y cumplimiento de las facultades que le otorguen los tratados internacionales en materia de límites y aguas;
 
-VIII. Participar en la solución de los asuntos relativos a la protección de medio ambiente en la frontera norte de la República Mexicana, en coordinación con otras autoridades federales, estatales o municipales que tengan atribuciones en esta materia;
+VIII. Construir, operar y mantener en las corrientes internacionales y sus afluentes las estaciones hidrométricas que sean necesarias;
 
-IX. Revisar en los términos de los Tratados y Acuerdos Internacionales vigentes, el impacto de los proyectos de construcción de obras y puentes internacionales sobre la frontera terrestre y los tramos limítrofes de los ríos internacionales, así como emitir las recomendaciones respectivas a las autoridades federales correspondientes;
+IX. Ejecutar y supervisar las resoluciones de la Comisión Internacional de Límites y Aguas, y
 
-X. Vigilar que no se afecte la capacidad de conducción ni se provoque desviación de los ríos internacionales en sus tramos limítrofes;
+X. Establecer los mecanismos de coordinación con las autoridades competentes para la debida atención de las disposiciones establecidas en los tratados internacionales vigentes en materia de aguas.
 
-XI. Vigilar que no se afecte la permanencia y visibilidad de los monumentos que demarcan la frontera internacional entre México y los Estados Unidos de América;
-
-XII. Opinar a petición de la Comisión Nacional del Agua, sobre las solicitudes de ocupación de las zonas de inundación en los ríos y presas internacionales, situadas en la frontera norte del país, a fin de asegurar la observancia de los tratados y acuerdos internacionales en materia de límites y aguas internacionales;
-
-XIII. Realizar los estudios y proyectos necesarios para el aprovechamiento de las aguas internacionales y obras conexas;
-
-XIV. Participar en las reuniones que se celebren tanto en México como en los Estados Unidos de América, cuya temática se enmarque en el ámbito de competencia de la Comisión Internacional de Límites y Aguas entre México y los Estados Unidos, conforme a los tratados vigentes, y
-
-XV. Ejercer las demás atribuciones que las disposiciones legales confieran a la Secretaría, que sean afines a las señaladas en las fracciones anteriores o que le encomiende el Secretario.
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 27 DE SEPTIEMBRE DE 2011)</small>
 
 ###### ARTÍCULO 51.
 
-Corresponde a la Sección Mexicana de las Comisiones Internacionales de Límites y Aguas entre México y Guatemala, y entre México y Belize:
+Corresponde a la Sección Mexicana de las Comisiones Internacionales de Límites y Aguas entre México y Guatemala, y entre México y Belize, ejecutar las decisiones de dichos organismos internacionales y tendrá las siguientes atribuciones:
 
-I. Cumplir con las políticas, lineamientos y disposiciones que le hagan llegar las unidades administrativas, jerárquicamente superiores, competentes en la materia;
+I. (DEROGADA, D.O.F. 27 DE SEPTIEMBRE DE 2011)
 
 II. Asegurar el cumplimento de los tratados internacionales celebrados por México relacionados con los límites internacionales y aguas transfronterizas;
 
@@ -1843,11 +2171,13 @@ V. Contribuir, en coordinación con otras dependencias y entidades federales o e
 
 VI. Planear, organizar, coordinar, dirigir y controlar las labores de los servidores públicos adscritos a la Sección Mexicana;
 
-VII. Llevar a cabo el control y actualización de los expedientes y documentos relativos a las actividades que desempeñen;
+VII. (DEROGADA, D.O.F. 27 DE SEPTIEMBRE DE 2011)
 
-VIII. Participar en los asuntos de medio ambiente en las fronteras entre México y Guatemala y entre México y Belice, en coordinación con otras dependencias y entidades federales o estatales que tengan atribuciones en esta materia, y
+VIII. (DEROGADA, D.O.F. 27 DE SEPTIEMBRE DE 2011)
 
-IX. Ejercer las demás atribuciones que las disposiciones legales confieran a la Secretaría, que sean afines a las señaladas en las fracciones anteriores o que le encomiende el Secretario.
+> <small>(REFORMADA, D.O.F. 27 DE SEPTIEMBRE DE 2011)</small>
+
+IX. Ejercer las demás funciones que se deriven de los acuerdos y tratados internacionales vigentes.
 
 ### CAPÍTULO X. Del Órgano Interno de Control
 
@@ -1877,11 +2207,17 @@ El Secretario será suplido en sus ausencias temporales por el Subsecretario de 
 
 La ausencia de los Subsecretarios y del Oficial Mayor será suplida por el servidor público que designen respectivamente.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 27 DE SEPTIEMBRE DE 2011)</small>
+
 ###### ARTÍCULO 55.
 
-El Jefe de la Unidad de Relaciones Económicas y Cooperación Internacional será suplido en sus ausencias por el servidor público que éste designe en cada caso.
+El Director Ejecutivo de la Agencia Mexicana de Cooperación Internacional para el Desarrollo será suplido en sus ausencias por el servidor público que éste designe en cada caso.
 
 El Consultor Jurídico será suplido en sus ausencias por el Consultor Jurídico Adjunto que designe y a falta de cualquiera de éstos, por el servidor público que designe el primero; los titulares de las respectivas Secciones Mexicanas de las Comisiones Internacionales de Límites y Aguas, serán suplidos en sus ausencias temporales por el servidor público que designen; los Directores Generales serán suplidos en sus ausencias temporales por el Director General Adjunto o el Director de Área que designen; y las ausencias temporales de los Directores Generales Adjuntos, Directores de Área y Subdirectores serán suplidas por el servidor público que designe el Director General.
+
+> <small>(ADICIONADO, D.O.F. 27 DE SEPTIEMBRE DE 2011)</small>
+
+El Director del Instituto de los Mexicanos en el Exterior será suplido en sus ausencias por el servidor público que éste designe en cada caso.
 
 En los demás casos, en que por alguna razón no exista titular de las unidades administrativas citadas, quedará encargado del despacho provisionalmente el Director General Adjunto o el Director de Área que designe el jefe superior jerárquico.
 
@@ -1893,9 +2229,11 @@ ARTÍCULO 55 bis. Las ausencias del Director General de Asuntos Jurídicos, ser�
 
 Los Delegados y Subdelegados serán suplidos en sus ausencias por el servidor público que designe el Director General de Delegaciones.
 
+> <small>(REFORMADO, D.O.F. 27 DE SEPTIEMBRE DE 2011)</small>
+
 ###### ARTÍCULO 57.
 
-Las ausencias del Contralor Interno, así como las de los titulares de las áreas de Responsabilidades, Auditoría y Quejas, serán suplidas conforme a lo previsto por el artículo 75 del Reglamento Interior de la Secretaría de la Función Pública.
+Las ausencias del Contralor Interno, así como las de los titulares de las áreas de Responsabilidades, Auditoría y Quejas, serán suplidas conforme a lo previsto por el artículo 88 del Reglamento Interior de la Secretaría de la Función Pública.
 
 ###### ARTÍCULO 58.
 
@@ -1980,3 +2318,29 @@ D.O.F. 4 DE SEPTIEMBRE DE 2009.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 27 DE SEPTIEMBRE DE 2011.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Los asuntos pendientes al entrar en vigor este Decreto, que conforme al mismo deban pasar de una unidad administrativa a otra u otras, continuarán su trámite y serán resueltos por aquélla o aquéllas a las que se les haya atribuido la competencia en este Reglamento.
+
+TERCERO. Al entrar en vigor el presente Decreto, las menciones que se hagan en cualesquier disposición administrativa a la:
+
+a) Unidad de Relaciones Económicas y Cooperación Internacional se entenderán hechas a la Agencia Mexicana de Cooperación Internacional para el Desarrollo.
+
+b) Dirección General de Organismos Económicos Regionales y Multilaterales, se entenderán hechas a la Agencia Mexicana de Cooperación Internacional para el Desarrollo, así como a las Direcciones Generales para Asia-Pacífico; de Organismos y Mecanismos Regionales Americanos, y para la Organización de las Naciones Unidas, respectivamente.
+
+c) Dirección General de Promoción Económica Internacional a la Dirección General de Cooperación y Promoción Económica Internacional.
+
+d) Dirección General de Relaciones Económicas Bilaterales a la Dirección General de Cooperación y Relaciones Económicas Bilaterales.
+
+CUARTO. Cuando la competencia de alguna unidad administrativa establecida con anterioridad a la vigencia de este Decreto deba ser ejercida por alguna otra unidad de las que el mismo establece, pasarán a la unidad competente el archivo, mobiliario y, en general, el equipo que aquella hubiera venido utilizando, así como los recursos humanos y presupuestales correspondientes.
+
+QUINTO. Los derechos de los trabajadores serán respetados conforme a las disposiciones aplicables.
+
+SEXTO. Las modificaciones a la estructura orgánica que deriven de la entrada en vigor del presente Decreto serán realizadas mediante movimientos compensados, por lo que no aumentarán el presupuesto regularizable de la Secretaría de Relaciones Exteriores.
+
+SÉPTIMO. Los cambios en la estructura y programas para atender el contenido del presente Decreto, serán cubiertos con el presupuesto autorizado a la Secretaría de Relaciones Exteriores.
+
+OCTAVO. La Oficialía Mayor de la Secretaría de Relaciones Exteriores realizará las acciones necesarias para que los recursos humanos, financieros y materiales asignados a las unidades o áreas que se modifican o desaparecen, sean transferidos a las unidades que correspondan, en los términos del presente Decreto y de conformidad con las normas aplicables y disponibilidad presupuestaria.
