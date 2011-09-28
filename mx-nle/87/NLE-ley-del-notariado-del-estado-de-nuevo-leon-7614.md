@@ -4,7 +4,7 @@ identifier: "NLE-ley-del-notariado-del-estado-de-nuevo-leon-7614"
 country: "mx"
 rank: "ley"
 publication_date: "1983-12-26"
-last_updated: "2008-12-15"
+last_updated: "2011-09-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7614&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DEL NOTARIADO DEL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE DICIEMBRE DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE SEPTIEMBRE DE 2011.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el lunes 26 de diciembre de 1983.
 
@@ -55,11 +55,11 @@ En la demarcación notarial que corresponde al primer distrito registral habrá 
 
 El cargo de Notario es permanente. A los Notarios actualmente en ejercicio, así como a los que en el futuro fueren designados, podrá suspendérseles o revocárseles la patente en los términos previstos por esta Ley.
 
-> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2000)</small>
+> <small>(REFORMADO, P.O. 28 DE SEPTIEMBRE DE 2011)</small>
 
 ###### Artículo 4.
 
-El conjunto de Notarios Titulares de la Entidad constituirá el Colegio de Notarios del Estado, el cual desempeñará las funciones que esta Ley le asigna.
+El conjunto de Notarios Titulares y Suplentes con adscripción vigente de la Entidad constituirá el Colegio de Notarios del Estado, el cual desempeñará las funciones que esta Ley asigna.
 
 ###### Artículo 5.
 
@@ -1109,11 +1109,11 @@ Las copias certificadas y certificaciones notariales carecerán de validez en lo
 
 ### CAPITULO PRIMERO. COLEGIO DE NOTARIOS
 
-> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2000)</small>
+> <small>(REFORMADO, P.O. 28 DE SEPTIEMBRE DE 2011)</small>
 
 ###### Artículo 154.
 
-En el Estado de Nuevo León habrá un Colegio de Notarios integrado por todos los Notarios Titulares que ejerzan sus funciones en la Entidad. El Colegio de Notarios tendrá personalidad jurídica propia y para la realización de sus fines, actuará como Asociación Civil; tendrá las funciones que se deriven de la presente Ley, de sus disposiciones reglamentarias y se regirá por dichos ordenamientos y además por sus Estatutos, que serán elaborados o reformados en su caso por el propio Colegio.
+En el Estado de Nuevo León, habrá un Colegio de Notarios integrado por todos los Notarios Titulares y Suplentes con adscripción vigente que ejerzan sus funciones en la Entidad. El Colegio de Notarios tendrá personalidad propia para la realización de sus funciones, actuará como Asociación Civil; tendrá las funciones que se deriven de la presente Ley, de sus disposiciones reglamentarias y se regirá por dichos ordenamientos y además por sus Estatutos, los que regularán sus relaciones internas, que serán elaborados o reformados en su caso por el propio Colegio.
 
 ###### Artículo 155.
 
@@ -1450,3 +1450,7 @@ P.O. 15 DE DICIEMBRE DE 2008.
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 Por lo tanto envíese al Ejecutivo del Estado, para su promulgación y publicación en el Periódico Oficial del Estado.
+
+P.O. 28 DE SEPTIEMBRE DE 2011.
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
