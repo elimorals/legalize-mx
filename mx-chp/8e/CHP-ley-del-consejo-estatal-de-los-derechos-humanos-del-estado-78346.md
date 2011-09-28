@@ -4,7 +4,7 @@ identifier: "CHP-ley-del-consejo-estatal-de-los-derechos-humanos-del-estado-7834
 country: "mx"
 rank: "ley"
 publication_date: "2010-11-17"
-last_updated: "2011-06-21"
+last_updated: "2011-09-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=78346&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 LEY DEL CONSEJO ESTATAL DE LOS DERECHOS HUMANOS DEL ESTADO DE CHIAPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE JUNIO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE SEPTIEMBRE DE 2011.
 
 Ley publicada en el Periódico Oficial del Estado de Chiapas, el miércoles 17 de noviembre de 2010.
 
@@ -43,13 +43,17 @@ Ley del Consejo Estatal de los Derechos Humanos
 
 ### Capítulo Único. Disposiciones Generales
 
-> <small>(REFORMADO, P.O. 21 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE SEPTIEMBRE DE 2011)</small>
 
 ###### Artículo 1°.
 
-Las disposiciones de esta Ley son de orden público e interés social y tendrán aplicación en el Estado de Chiapas en materia local de derechos humanos respecto de las mujeres y los hombres mexicanos y extranjeros que se encuentren en el territorio de éste, en los términos del artículo 102, apartado B de la Constitución Política de los Estados Unidos Mexicanos y 48 de la Constitución Política del Estado de Chiapas.
+Las disposiciones de esta Ley son de orden público e interés social y tendrán aplicación en el Estado de Chiapas en materia local de derechos humanos respecto de las mujeres y los hombres mexicanos y extranjeros que se encuentren en territorio de éste, en los términos del artículo 102, apartado B de la Constitución Política de los Estados Unidos Mexicanos y 55 de la Constitución Política del Estado de Chiapas.
+
+> <small>(REFORMADO, P.O. 21 DE JUNIO DE 2011)</small>
 
 Estas disposiciones regularán la estructura, atribuciones y funcionamiento del Consejo Estatal de Derechos Humanos de Chiapas, cuyo fin es promover y proteger los derechos humanos y libertades fundamentales de las personas que habitan y transitan por el Estado de Chiapas, así como prevenir y erradicar todas las formas de discriminación.
+
+> <small>(REFORMADO, P.O. 21 DE JUNIO DE 2011)</small>
 
 Los derechos humanos son aquellos derechos y libertades de los que deben gozar los seres humanos para vivir una vida digna, mismos que el Estado tiene la obligación de respetar, promover, proteger y garantizar su libre y pleno ejercicio, de conformidad con los principios de universalidad, interdependencia, indivisibilidad y progresividad, sin discriminación alguna por motivos de sexo, género, etnia, clase, idioma, religión, orientación o preferencia sexual, opiniones o de cualquier otra índole, reconocidos en:
 
@@ -62,6 +66,8 @@ c) Los tratados internacionales en materia de derechos humanos, firmados y ratif
 d) Los contenidos en otros instrumentos internacionales en los términos que establece la Constitución.
 
 e) Los derechos de los grupos de población más vulnerabilizados, entendiendo por éstos el conjunto de personas cuyas condiciones físicas, psíquicas, históricas, económicas, sociales o culturales son tomadas como motivos discriminatorios que hacen probable la existencia de ataques reiterados a sus derechos humanos.
+
+> <small>(REFORMADO, P.O. 21 DE JUNIO DE 2011)</small>
 
 Una violación de los derechos humanos es cualquier distinción, exclusión, restricción, perjuicio, daño, afectación, lesión o cualquier otro acto, que tenga por objeto o resultado menoscabar, afectar, vulnerar o anular el goce o ejercicio de los derechos humanos y libertades fundamentales, en las esferas política, económica, social, cultural y civil o en cualquier otra esfera, derivado de actos, conductas u omisiones de naturaleza administrativa cometidos por servidores públicos conforme a las disposiciones que señalan la Constitución y la Constitución local; los Tratados, los Acuerdos Interinstitucionales y demás leyes en la materia o actúen al margen de lo que establece el artículo 102, apartado B, de la Constitución.
 
@@ -85,7 +91,7 @@ El Consejo aplicará criterios de optimización y eficiencia en el cuidado de su
 
 Para manejar la transparencia y manejo de la correcta utilización de los recursos públicos a cargo del Consejo, se contará con un órgano de supervisión y control interno, la Contraloría Interna, que auxilie al Consejo en el ámbito de sus respectivas competencias para la correcta utilización de los recursos públicos a cargo de dicho Consejo.
 
-La instauración, integración y conclusión de los expedientes para regular la transmisión de cesión de derechos estipulados en el artículo que antecede, se hará previa solicitud de regularización de concesiones, realizada por el interesado.
+> <small>(DEROGADO ULTIMO PÁRRAFO, P.O. 28 DE SEPTIEMBRE DE 2011)</small>
 
 > <small>(REFORMADO, P.O. 21 DE JUNIO DE 2011)</small>
 
@@ -215,11 +221,13 @@ Esta Comisión estará integrada por los cinco consejeros, y designarán cada un
 
 La Dirección General de Planeación, Administración y Finanzas deberá otorgar todas las facilidades a los Consejeros y/o los suplentes acreditados, para mantenerlos informados y les otorgará sin restricción de ninguna naturaleza, toda la información relativa al ejercicio presupuestal y la que soliciten sobre este rubro. Para el funcionamiento de esta comisión, el pleno del Consejo emitirá los lineamientos correspondientes para su operación.
 
-> <small>(REFORMADO, P.O. 21 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE SEPTIEMBRE DE 2011)</small>
 
 ###### Artículo 10.
 
-El Consejo será competente en todo el territorio del Estado de Chiapas para conocer de peticiones que contengan quejas o denuncias relacionadas con presuntas violaciones de derechos humanos en asuntos individuales o colectivos, y cuando éstas fueren imputadas a cualquier autoridad competente, de la administración pública centralizada y descentralizada del gobierno del Estado; los órganos autónomos por ley, y en lo conducente del Poder Legislativo y Judicial del Estado, o en los órganos de procuración de justicia cuya competencia se circunscriba al ámbito local del Estado, en los términos que establece el artículo 102, apartado B, de la Constitución y el artículo 48 de la Constitución local.
+El Consejo será competente en todo el territorio del Estado de Chiapas para conocer de peticiones que contengan quejas o denuncias relacionadas con presuntas violaciones de derechos humanos en asuntos individuales o colectivos, y cuando éstas fueren imputadas a cualquier autoridad competente, de la administración pública centralizada y descentralizada del gobierno del Estado; los órganos autónomos por ley, y en lo conducente del Poder Legislativo y Judicial del Estado, o en los órganos de procuración de justicia cuya competencia se circunscriba al ámbito local del Estado, en los términos que establece el artículo 102, apartado B, de la Constitución y el artículo 55 de la Constitución local.
+
+> <small>(REFORMADO, P.O. 21 DE JUNIO DE 2011)</small>
 
 El Consejo puede iniciar de oficio o a petición de parte interesada, cualquier investigación que conduzca al esclarecimiento de actos u omisiones de naturaleza administrativa de los servidores públicos y autoridades que violen los derechos humanos. Así como de presuntas violaciones que deriven del ejercicio de las facultades discrecionales que no tengan el carácter de jurisdiccionales.
 
@@ -249,17 +257,17 @@ El personal del Consejo deberá manejar de manera confidencial la información o
 
 Las recomendaciones que recaigan a los expedientes de queja, atentos al principio de publicidad podrán publicarse o divulgarse en los medios de comunicación, previo acuerdo del pleno del Consejo; cuando afecten los derechos de las víctimas o terceros, se omitirán los datos personales; para los informes públicos mensuales y anuales de actividades, deberá incluirse una síntesis de todas las que se hubieran emitido durante el periodo.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE SEPTIEMBRE DE 2011)</small>
 
 ###### Artículo 14.
 
-El Presidente, los Consejeros, el Secretario Ejecutivo, el Coordinador General, los Visitadores Generales y los Visitadores Adjuntos, en sus actuaciones tendrán fe pública para certificar la veracidad de los hechos en relación con las quejas o inconformidades presentadas ante el Consejo.
+El Presidente, los Consejeros, el Secretario Ejecutivo, el Coordinador General de Visitadurías, los Visitadores Generales y los Visitadores Adjuntos, en sus actuaciones tendrán fe pública para certificar la veracidad de los hechos en relación con las quejas o inconformidades presentadas ante el Consejo.
 
 Para los efectos de este artículo, se entenderá por fe pública la facultad de constatar la autenticidad de documentos preexistentes, declaraciones o hechos que estén aconteciendo, en presencia de cualquiera de los funcionarios mencionados en este artículo.
 
 Las declaraciones y hechos a que se refiere el párrafo anterior, se harán constar en el acta circunstanciada que al efecto practicará el funcionario correspondiente.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE JUNIO DE 2011)</small>
 
 ###### Artículo 15.
 
@@ -293,11 +301,11 @@ Los servidores públicos que pertenezcan al Consejo, tendrán la prohibición de
 
 Tratándose del ámbito de responsabilidades de los servidores públicos que integran el Consejo, se sujetarán a las disposiciones de la legislación de la materia en el Estado de Chiapas.
 
-> <small>(REFORMADA SU DENOMINACION [N. DE E. REPUBLICADA], P.O. 21 DE JUNIO DE 2011)</small>
+> <small>(REFORMADA SU DENOMINACIÓN [N. DE E. REPUBLICADA], P.O. 21 DE JUNIO DE 2011)</small>
 
 ## Título Segundo. Facultades e Integración del Consejo Estatal de los Derechos Humanos
 
-> <small>(REFORMADA SU DENOMINACION [N. DE E. COMPRENDE LOS ARTICULOS DEL 21 AL 24], P.O. 21 DE JUNIO DE 2011)</small>
+> <small>(REFORMADA SU DENOMINACIÓN [N. DE E. COMPRENDE LOS ARTÍCULOS DEL 21 AL 24], P.O. 21 DE JUNIO DE 2011)</small>
 
 ### Capítulo I. Del Consejo General y sus atribuciones
 
@@ -363,7 +371,9 @@ a) Las instituciones que integran el Sistema Penitenciario del Estado de Chiapas
 
 b) Los orfanatos, asilos, hospicios, instituciones y organismos públicos que trabajen con la niñez, para verificar la observancia y respeto de los derechos de los niños contenidos en las leyes federales, locales, en los instrumentos internacionales sobre los Derechos de la Infancia que hayan sido ratificados por México o de los que forme parte, así como los derechos de la educación y la salud que establece la Constitución y la Constitución local.
 
-c) Las instituciones de tratamiento y apoyo a enfermos mentales, discapacitados y adultos mayores, centros de salud y demás establecimientos de asistencia social, en los que intervenga cualquier autoridad, para cerciorarse del absoluto respecto (sic) a los derechos humanos de las personas que son atendidas en esas instituciones.
+> <small>(REFORMADO, P.O. 28 DE SEPTIEMBRE DE 2011)</small>
+
+c) Las instituciones de tratamiento y apoyo a enfermos mentales, discapacitados y adultos mayores, centros de salud y demás establecimientos de asistencia social, en los que intervenga cualquier autoridad, para cerciorarse del absoluto respeto a los derechos humanos de las personas que son atendidas en esas instituciones.
 
 d) Los lugares de prisión preventiva o sitios destinados para cumplir las sanciones administrativas.
 
@@ -371,7 +381,9 @@ XXIII. Formular programas y proponer acciones en coordinación con las dependenc
 
 XXIV. Formular recomendaciones públicas, autónomas, no vinculatorias, así como denuncias y quejas ante las autoridades respectivas, demostrada la existencia de violaciones a los derechos humanos, cuando no se hubiere logrado conciliación, haya sido parcial o no se haya cumplido ésta, seguido que sea el procedimiento hasta su culminación.
 
-XXV. Formular Recomendaciones Generales públicas autónomas no vinculatorias en el supuesto previsto en el artículo 102 apartado B, de la Constitución y 48, de la Constitución local.
+> <small>(REFORMADA, P.O. 28 DE SEPTIEMBRE DE 2011)</small>
+
+XXV. Formular recomendaciones generales públicas autónomas no vinculatorias en el supuesto preventivo en el artículo 102 apartado B, de la Constitución y 55, de la Constitución local.
 
 XXVI. Hacer del conocimiento público las Recomendaciones y Recomendaciones Generales que emita, así como los informes especiales a que se refiere la presente Ley.
 
@@ -429,13 +441,15 @@ V. La Secretaría Ejecutiva.
 
 VI. La Contraloría Interna.
 
-B. Áreas de apoyo:
+> <small>(REFORMADO, P.O. 28 DE SEPTIEMBRE DE 2011)</small>
+
+B) Áreas de apoyo:
 
 I. Las Direcciones Generales Ejecutivas.
 
 II. Las Direcciones.
 
-III. La Secretaría Particular del Consejero.
+III. La Secretaría Particular del Presidente.
 
 IV. Las Secretarías Técnicas de las Comisiones Temáticas.
 
@@ -449,55 +463,53 @@ VIII. Las Visitadurías Generales.
 
 IX. Todas aquellas que sean necesarias para el apoyo a los Órganos del Consejo.
 
-El Director General de Orientación y Atención a Peticionarios.
-
 Para efectos de este artículo, el Consejo contará como mínimo, con las áreas de apoyo siguientes:
 
-1. Dirección General de Planeación, Administración y Finanzas;
+1. Dirección General de Planeación, Administración y Finanzas.
 
-2. Dirección General de Trámites y Procedimientos para Información, Orientación, Protección y Defensa a Peticionarios (as);
+2. Dirección General de Trámites y Procedimientos para Información, Orientación, Protección y Defensa a Peticionarios (as).
 
-3. Dirección General de Fortalecimiento y Conducción Institucional;
+3. Dirección General de Fortalecimiento y Conducción Institucional.
 
-4. Dirección General de Educación en Derechos Humanos y Servicio Profesional;
+4. Dirección General de Educación en Derechos Humanos y Servicio Profesional.
 
-5. Dirección General de Promoción y Difusión de los Derechos Humanos;
+5. Dirección General de Promoción y Difusión de los Derechos Humanos.
 
-6. Coordinación general de visitadurías;
+6. Dirección General de Orientación y Atención a Peticionarios.
 
-7. Dirección de información, orientación, quejas y gestoría;
+7. Dirección de Información, Orientación, Quejas y Gestoría.
 
-8. Dirección de servicios médicos, psicológicos y trabajo social.
+8. Dirección de Servicios Médicos, Psicológicos y Trabajo Social.
 
-9. Dirección de seguimiento de recomendaciones, propuestas conciliatorias y documentos emitidos por la comisión;
+9. Dirección de Seguimiento de Recomendaciones, Propuestas Conciliatorias y documentos emitidos por el Consejo.
 
-10. Dirección de atención a víctimas de violaciones a derechos humanos;
+10. Dirección de Atención a Víctimas de Violaciones a Derechos Humanos.
 
-11. Dirección de evaluación y seguimiento institucional;
+11. Dirección de Evaluación y Seguimiento Institucional.
 
-12. Dirección de asuntos jurídicos;
+12. Dirección de Asuntos Jurídicos.
 
-13. Dirección de grupos vulnerables;
+13. Dirección de Grupos Vulnerables.
 
-14. Dirección de investigación en derechos humanos;
+14. Dirección de Investigación en Derechos Humanos.
 
-15. Dirección de sistematización de la información;
+15. Dirección de Sistematización de la Información.
 
-16. Dirección de resolución positiva de conflictos;
+16. Dirección de Resolución Positiva de Conflictos.
 
-17. Dirección de estudios y proyectos y atención a organismos no gubernamentales de derechos humanos;
+17. Dirección de Estudios y Proyectos y Atención a Organismos No Gubernamentales de Derechos Humanos.
 
-18. Dirección de Investigación y Desarrollo Institucional;
+18. Dirección de Investigación y Desarrollo Institucional.
 
-19. Coordinación de Asesores;
+19. Dirección del Servicio Profesional en Derechos Humanos.
 
-20. Dirección de Interlocución Institucional y Legislativa;
+20. Dirección de Interlocución Institucional y Legislativa.
 
-21. Relatorías temáticas;
+21. Relatorías Temáticas.
 
-22. Secretaría particular de la presidencia;
+22. Coordinación General de Visitadurías.
 
-23. Dirección del Servicio Profesional en derechos humanos;
+23. Coordinación de Asesores.
 
 24. Visitadurías Generales.
 
@@ -575,9 +587,9 @@ I. Establecer los lineamientos, políticas y programas generales de actuación d
 
 II. Aprobar los reglamentos del Consejo, así como sus modificaciones, y la demás normatividad necesaria para su adecuado funcionamiento.
 
-> <small>(REFORMADA, P.O. 21 DE JUNIO DE 2011)</small>
+> <small>(REFORMADA, P.O. 28 DE SEPTIEMBRE DE 2011)</small>
 
-III. Opinar y aprobar el proyecto de informe anual de actividades que el Presidente presente al Congreso del Estado, así como de los informes especiales que se emitan.
+III. Opinar y aprobar el proyecto de informe anual de actividades que el Presidente presente al Congreso del Estado, así como los informes especiales que se emitan.
 
 IV. Solicitar al Presidente información adicional sobre los asuntos que se encuentren en trámite o haya resuelto el Consejo.
 
@@ -595,11 +607,11 @@ VIII. Formar parte de las Comisiones permanentes y temporales, y dirigir bajo su
 
 IX. Las demás que se establezcan en esta ley y su Reglamento.
 
-> <small>(REFORMADO, P.O. 21 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO, P.O. 28 DE SEPTIEMBRE DE 2011)</small>
 
 ###### Artículo 29.
 
-El Consejo estará conformado por cinco Consejeros, los cuales durarán en el ejercicio de su cargo cuatro años, con posibilidad de reelección por un periodo más y solo podrán ser removidos de sus funciones en los términos del Título Décimo de la Constitución local. De entre los integrantes del Consejo, uno de ellos ocupará el cargo de Presidente.
+El Consejo estará conformado por cinco Consejeros, los cuales durarán en el ejercicio de su cargo cuatro años, con posibilidad de reelección por un periodo más y solo podrán ser removidos de sus funciones en los términos del Título Décimo Segundo de la Constitución local. De entre los integrantes del Consejo, uno de ellos ocupará el cargo de Presidente.
 
 > <small>(REFORMADO, P.O. 21 DE JUNIO DE 2011)</small>
 
@@ -609,7 +621,7 @@ En el caso de ausencia definitiva de uno de los Consejeros, la designación se h
 
 Si la ausencia definitiva fuera del Consejero que ostentaba el cargo de Presidente, una vez designado el nuevo Consejero que habrá de sustituirlo, se procederá en términos de lo previsto en el artículo 35 de esta Ley.
 
-> <small>(REFORMADA SU NUMERACION, P.O. 21 DE JUNIO DE 2011)</small>
+> <small>(REFORMADA SU NUMERACIÓN, P.O. 21 DE JUNIO DE 2011)</small>
 
 ### Capítulo III. De las Sesiones
 
@@ -625,11 +637,11 @@ Para la realización de las sesiones ordinarias, el Secretario Ejecutivo del Con
 
 Para el caso de las sesiones extraordinarias no será aplicable el término anterior.
 
-> <small>(REFORMADO, P.O. 21 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO, P.O. 28 DE SEPTIEMBRE DE 2011)</small>
 
 ###### Artículo 32.
 
-Para la instalación legal de las sesiones del Consejo, el quórum será con tres de sus integrantes, siendo válidos los acuerdos tomados por unanimidad. En segunda convocatoria y subsecuentes, se requerirá de la existencia del mismo para su instalación. Solamente cuando se reúna la totalidad de los Consejeros, los acuerdos se tomarán por mayoría de votos, en caso de empate, el Presidente tendrá el voto de calidad.
+Para la instalación legal de las sesiones del Consejo General, el Quórum será con tres de sus integrantes, siendo válidos los acuerdos tomados por unanimidad. En segunda convocatoria y subsecuentes, se requerirá de la existencia del mismo para su instalación. Solamente cuando se reúna la totalidad de los Consejeros, los acuerdos se tomarán por mayoría de votos, en caso de empate, el Presidente tendrá el voto de calidad.
 
 > <small>(REFORMADO, P.O. 21 DE JUNIO DE 2011)</small>
 
@@ -637,7 +649,7 @@ Para la instalación legal de las sesiones del Consejo, el quórum será con tre
 
 De cada sesión del Consejo, el Secretario Ejecutivo levantará un acta en el libro autorizado para tal efecto, en la que se asiente una síntesis de los asuntos planteados, de las intervenciones de cada Consejero, así como de los servidores públicos que asistan; de igual forma se transcribirán los acuerdos que hayan sido aprobados. Las actas deberán firmarse por los Consejeros en cada sesión.
 
-> <small>(REFORMADA SU NUMERACION, P.O. 21 DE JUNIO DE 2011)</small>
+> <small>(REFORMADA SU NUMERACIÓN, P.O. 21 DE JUNIO DE 2011)</small>
 
 ### Capítulo IV. Del Presidente
 
@@ -655,43 +667,45 @@ El cargo de Presidente será ejercido de entre los Consejeros que conforman el C
 
 Durará en el cargo dos años y únicamente podrá ser ampliado hasta por un periodo continuo.
 
-> <small>(REFORMADO, P.O. 21 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO, P.O. 28 DE SEPTIEMBRE DE 2011)</small>
 
 ###### Artículo 36.
 
 El Presidente, tendrá las facultades, atribuciones y obligaciones siguientes:
 
-I. Actuar como representante legal del Consejo, pudiendo otorgar poderes para pleitos y cobranzas, actos de administración y actos de dominio, previa autorización expresa del Consejo.
+l. Actuar como representante legal del Consejo, pudiendo otorgar poderes para pleitos y cobranzas, actos de administración y actos de dominio, previa autorización expresa del Consejo General.
 
-II. Formular y proponer al Consejo, los lineamientos, políticas y programas generales a los que habrán de sujetarse las actividades administrativas y sustantivas del Consejo.
+II. Formular y proponer al Consejo General, los lineamientos, políticas y programas generales a los que habrán de sujetarse las actividades administrativas y sustantivas del Consejo.
 
-III. Previa aprobación del Consejo, nombrar, dirigir, coordinar y expedir los nombramientos de los servidores públicos del Consejo, así como removerlos cuando lo estime conveniente.
+III. Previa aprobación del Consejo General, nombrar, dirigir, coordinar y expedir los nombramientos de los servidores públicos del Consejo, así como removerlos cuando lo estime conveniente.
 
-IV. Delegar sus facultades, con aprobación del Consejo, en los servidores públicos del organismo, de conformidad con el acuerdo respectivo.
+IV. Delegar sus facultades, con aprobación del Consejo General, en los servidores públicos del organismo, de conformidad con el acuerdo respectivo.
 
-V. Proponer al Consejo las políticas generales que en materia de derechos humanos habrá de seguir el Consejo ante los organismos nacionales e internacionales.
+V. Proponer al Consejo General las políticas generales que en materia de derechos humanos habrá de seguir el Consejo ante los organismos nacionales e internacionales.
 
 VI. Promover y fortalecer las relaciones del Consejo con organismos públicos o privados, nacionales e internacionales, en la materia de su competencia.
 
-VII. Con la aprobación del Consejo, dictar las medidas específicas que estime idóneas para el adecuado desempeño de las actividades del Consejo.
+VII. Con la aprobación del Consejo General, dictar las medidas específicas que estime idóneas para el adecuado desempeño de las actividades del Consejo.
 
-VIII. Con la aprobación del Consejo, celebrar convenios de colaboración con autoridades y organizaciones de defensa de los derechos humanos, así como con instituciones académicas y asociaciones culturales para el cumplimiento de los fines del Consejo.
+VIII. Con la aprobación del Consejo General, celebrar convenios de colaboración con autoridades y organizaciones de defensa de los derechos humanos, así como con instituciones académicas y asociaciones culturales para el cumplimiento de los fines del Consejo.
 
-IX. Formular al Consejo, propuestas generales tendentes a mejorar la protección de los derechos humanos y la equidad de género en el Estado de Chiapas.
+IX. Formular al Consejo General, propuestas generales tendentes a mejorar la protección de los derechos humanos y la equidad de género en el Estado de Chiapas.
 
-X. Presidir el Consejo y proponer ante éste para su aprobación, sus lineamientos y programas generales; así como la normatividad interna, manuales y procedimientos administrativos necesarios para su buen funcionamiento.
+X. Presidir el Consejo General y proponer ante éste para su aprobación, sus lineamientos y programas generales; así como, la normatividad interna, manuales y procedimientos administrativos necesarios para su buen funcionamiento.
 
 XI. Fomentar y difundir una cultura proclive al conocimiento y respeto de los derechos humanos.
 
-XII. Emitir, en su caso, con la aprobación del Consejo, las recomendaciones públicas, autónomas no vinculatorias, así como los acuerdos y peticiones que sometan a su consideración los Visitadores que resulten de las investigaciones efectuadas.
+XII. Emitir, en su caso, con la aprobación del Consejo General, las recomendaciones públicas, autónomas no vinculatorias, así como los acuerdos y peticiones que sometan a su consideración los Visitadores que resulten de las investigaciones efectuadas.
 
-XIII. Emitir, en su caso, con la aprobación del Consejo, las recomendaciones generales públicas, autónomas no vinculatorias que sean aprobadas y suscritas por los Consejeros.
+XIII. Emitir, en su caso, con la aprobación del Consejo General, las recomendaciones generales públicas, autónomas no vinculatorias que sean aprobadas y suscritas por los Consejeros.
 
-XIV. Proponer al Consejo el proyecto de Estatuto del Servicio Profesional, así como las modificaciones al mismo.
+XIV. Proponer al Consejo General el proyecto de Estatuto del Servicio Profesional, así como las modificaciones al mismo.
 
-XV. Llevar a cabo reuniones con organizaciones no gubernamentales de defensa de los derechos humanos legalmente constituidas, a fin de intercambiar puntos de vista sobre los objetivos del Consejo, considerando al efecto las propuestas que se le presenten.
+XV. Llevar al cabo reuniones con organizaciones no gubernamentales de defensa de los derechos humanos legalmente constituidas, a fin de intercambiar puntos de vista sobre los objetivos del Consejo, considerando al efecto las propuestas que se le presenten.
 
 XVI. Comparecer y rendir anualmente un informe ante el Congreso del Estado, respecto de las actividades desarrolladas durante ese periodo por el Consejo.
+
+Asimismo presentar al Poder Legislativo del Estado de Chiapas, a través del Órgano de Fiscalización Superior del Congreso del Estado, un informe anual del ejercicio del presupuesto asignado al Consejo.
 
 XVII. Elaborar el anteproyecto del presupuesto anual de egresos del Consejo y el correspondiente informe sobre su ejercicio para ser presentado a la aprobación del Consejo General.
 
@@ -713,11 +727,13 @@ Durante las ausencias temporales del Presidente, sus funciones y representación
 
 Se entenderán por ausencia temporal aquellas que no excedan de treinta días. De lo contrario se entenderá como definitiva, salvo que exista justificación por incapacidad médica.
 
+> <small>(REFORMADO, P.O. 28 DE SEPTIEMBRE DE 2011)</small>
+
 ###### Artículo 38.
 
-Los Consejeros podrán ser separados del cargo o destituidos y, en su caso, sujetos a responsabilidad, sólo por las causas y mediante los procedimientos establecidos por el Título Décimo de la Constitución. En ese supuesto y en caso de ausencias definitivas, se determinará lo establecido por los párrafos segundo y tercero del artículo 30, de la presente Ley.
+Los Consejeros podrán ser separados del cargo o destituidos y, en su caso, sujetos a responsabilidad, sólo por las causas y mediante los procedimientos establecidos por el Título Décimo Segundo de la Constitución. En ese supuesto y en ausencias definitivas, se determinará lo establecido por el artículo 30, de la presente Ley.
 
-> <small>(REFORMADA SU NUMERACION Y DENOMINACION [N. DE E. COMPRENDE EL ARTICULO 39], PO. 21 DE JUNIO DE 2011)</small>
+> <small>(REFORMADA SU NUMERACIÓN Y DENOMINACIÓN [N. DE E. COMPRENDE EL ARTÍCULO 39], PO. 21 DE JUNIO DE 2011)</small>
 
 ### Capítulo V. De la Coordinación General Ejecutiva
 
@@ -751,9 +767,11 @@ h) Recibir informes del Contralor Interno, respecto de los expedientes relativos
 
 i) Formular los estudios y proyectos de convenios de colaboración y asistencia técnica que determine el Consejo.
 
-j) Las demás que le encomienden este Código, el Consejo General o su Presidente.
+> <small>(REFORMADO, P.O. 28 DE SEPTIEMBRE DE 2011)</small>
 
-> <small>(REFORMADA SU NUMERACION Y DENOMINACION [N. DE E. COMPRENDE LOS ARTICULOS DEL 40 Y 41], P.O. 21 DE JUNIO DE 2011)</small>
+j) Las demás que le encomienden esta Ley, el Consejo General o su Presidente.
+
+> <small>(REFORMADA SU NUMERACIÓN Y DENOMINACIÓN [N. DE E. COMPRENDE LOS ARTÍCULOS DEL 40 Y 41], P.O. 21 DE JUNIO DE 2011)</small>
 
 ### Capítulo VI. De la Secretaría Ejecutiva
 
@@ -799,7 +817,9 @@ V. Cumplir los acuerdos del Consejo General.
 
 VI. Someter al conocimiento y, en su caso, a la aprobación del Consejo General los asuntos de su competencia.
 
-VII. Orientar y coordinar las acciones de las áreas de apoyo del organismo, informando permanentemente al Pleno del Consejo.
+> <small>(REFORMADA, P.O. 28 DE SEPTIEMBRE DE 2011)</small>
+
+VII. Orientar y coordinar las acciones de las áreas de apoyo del organismo, informando permanentemente al Consejo General.
 
 VIII. Previo acuerdo del Consejo General, suscribir, en coordinación con el Presidente, los convenios de colaboración, asistencia técnica y los que resulten con instituciones académicas, e instituciones afines en materia de derechos humanos.
 
@@ -811,7 +831,9 @@ XI. Proveer a los órganos del Consejo los elementos necesarios para el cumplimi
 
 XII. Actuar como Secretario de la Coordinación General Ejecutiva y preparar el orden del día de sus sesiones.
 
-XIII. Recibir los informes de los Visitadores Generales y adjuntos y dar cuenta al Consejo sobre los mismos.
+> <small>(REFORMADA, P.O. 28 DE SEPTIEMBRE DE 2011)</small>
+
+XIII. Recibir los informes de los Visitadores Generales y adjuntos y dar cuenta al Consejo General sobre los mismos.
 
 XIV. Sustanciar los recursos que deban ser resueltos por el Consejo y, en su caso, tramitar los que se interpongan contra los actos o resoluciones de ésta, en los términos de la ley de la materia.
 
@@ -827,31 +849,41 @@ XIX. Colaborar con el Presidente en la elaboración de los informes anuales, as�
 
 XX. Enriquecer, mantener, custodiar y actualizar el acervo documental del Consejo.
 
-XXI. Convocar semanalmente a las sesiones ordinarias y cuando así lo soliciten, a las sesiones extraordinarias de los Consejeros.
+> <small>(REFORMADA, P.O. 28 DE SEPTIEMBRE DE 2011)</small>
+
+XXI. Convocar mensualmente a las sesiones ordinarias y cuando así lo soliciten, a las sesiones extraordinarias de los Consejeros.
 
 XXII. Requisitar las actas de las sesiones en las que queden asentados los acuerdos.
 
 XXIII. Dar seguimiento a los acuerdos del Consejo General y de la Coordinación General Ejecutiva.
 
-XXIV. Dar a conocer a los órganos y áreas de apoyo que integran el organismo, los acuerdos tomados por el Consejo.
+> <small>(REFORMADA, P.O. 28 DE SEPTIEMBRE DE 2011)</small>
+
+XXIV. Dar a conocer a los órganos y áreas de apoyo que integran el organismo, los acuerdos tomados por el Consejo General.
 
 XXV. Promover actividades académicas dirigidas a los servidores públicos del Consejo, de las instituciones del Estado y municipios, así como a la sociedad.
 
 XXVI. Coordinar a través de la Dirección del Servicio Profesional en Derechos Humanos, los trabajos necesarios, para su implementación en el Consejo.
 
-XXVII. Las demás que les sean conferidas mediante acuerdo del Consejo, de la Coordinación General Ejecutiva, o que se plasmen en las disposiciones reglamentarias correspondientes.
+> <small>(REFORMADA, P.O. 28 DE SEPTIEMBRE DE 2011)</small>
 
-> <small>(REFORMADA SU NUMERACION Y DENOMINACION [N. DE E. COMPRENDE LOS ARTICULOS DEL 42 AL 44], P.O. 21 DE JUNIO DE 2011)</small>
+XXVII. Las demás que le sean conferidas mediante acuerdo del Consejo General, de la Coordinación General Ejecutiva, o que se plasmen en las disposiciones reglamentarias correspondientes.
+
+> <small>(REFORMADA SU NUMERACIÓN Y DENOMINACIÓN [N. DE E. COMPRENDE LOS ARTÍCULOS DEL 42 AL 44], P.O. 21 DE JUNIO DE 2011)</small>
 
 ### Capítulo VII. De las Visitadurías Generales
 
-> <small>(REFORMADO, P.O. 21 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE SEPTIEMBRE DE 2011)</small>
 
 ###### Artículo 42.
 
-Los Visitadores Generales serán nombrados y removidos por causas fundadas por acuerdo del pleno del Consejo General y deberán reunir para su designación los requisitos establecidos en el artículo 39 de esta Ley.
+Los Visitadores Generales serán nombrados y removidos por acusas (sic) fundadas por acuerdo del pleno del Consejo General y deberán reunir para su designación los requisitos establecidos en el artículo 40 de esta Ley.
+
+> <small>(REFORMADO, P.O. 21 DE JUNIO DE 2011)</small>
 
 Las Visitadurías Generales tendrán a su cargo la tramitación de los procedimientos de investigación que se inicien de oficio o mediante queja, así como los programas especiales que les encomiende la Secretaría Ejecutiva por acuerdo aprobado por del (sic) Consejo General.
+
+> <small>(REFORMADO, P.O. 21 DE JUNIO DE 2011)</small>
 
 Los Visitadores Adjuntos auxiliarán en sus funciones a los Visitadores Generales, en los términos que fije el Reglamento y para tal efecto deberán reunir los requisitos que establezca el mismo para su designación.
 
@@ -893,9 +925,11 @@ V. Realizar visitas o inspecciones en los lugares que estén relacionados con lo
 
 VI. Entrevistar a los testigos presenciales sobre los hechos motivo de la investigación, y realizar las diligencias de inspección ocular, auditiva y de identificación cuando el caso lo amerite, ya sea directamente o por medio del personal bajo su adscripción.
 
-VII. Las demás que le confiera el presente Reglamento, la o el Presidente y los ordenamientos internos.
+> <small>(REFORMADA, P.O. 28 DE SEPTIEMBRE DE 2011)</small>
 
-> <small>(REFORMADA SU NUMERACION, P.O. 21 DE JUNIO DE 2011)</small>
+VII. Las demás que le confiere la presente Ley, la o el Presidente y los ordenamientos internos.
+
+> <small>(REFORMADA SU NUMERACIÓN, P.O. 21 DE JUNIO DE 2011)</small>
 
 ### Capítulo VIII. De la Contraloría Interna
 
@@ -957,13 +991,15 @@ XIII. Recibir, substanciar y resolver los medios de defensa que se presenten en 
 
 XIV. Recibir, investigar y resolver las quejas y denuncias que se presenten contra servidores y ex servidores públicos del Consejo y aplicar las sanciones que procedan en los términos de la legislación aplicable en el Estado.
 
-XV. Instaurar los procedimientos administrativos disciplinarios internos, con motivo de quejas y denuncias formuladas contra servidores y ex servidores públicos de la Comisión y como resultado de las auditorias practicadas.
+> <small>(REFORMADA, P.O. 28 DE SEPTIEMBRE DE 2011)</small>
+
+XV. Instaurar los procedimientos administrativos disciplinarios internos, con motivo de quejas y denuncias formuladas contra servidores y ex servidores públicos del Consejo y como resultado de las auditorias practicadas.
 
 XVI. Las demás que le confieren esta ley y otras disposiciones aplicables.
 
 ## Título Tercero
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 21 DE JUNIO DE 2011)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 21 DE JUNIO DE 2011)</small>
 
 ### Capítulo Único. De la promoción, difusión y procuración de los Derechos Humanos
 
@@ -1111,7 +1147,7 @@ El Consejo designará personal de guardia para recibir quejas y atender las quej
 
 En caso de que la persona agraviada sea extranjera, y ella así lo considere conveniente, el Consejo podrá comunicar por escrito a la representación diplomática o consular de su país de origen acreditado en el país, la existencia de la queja y de los resultados de la misma, siempre con el consentimiento previo de la persona agraviada.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE JUNIO DE 2011)</small>
 
 ###### Artículo 62.
 
@@ -1119,13 +1155,17 @@ El Consejo podrá no admitir quejas o denuncias en los casos siguientes:
 
 I. Cuando se trate de asuntos que ya hayan sido atendidos y resueltos por el Consejo.
 
-II. Cuando se trate de quejas anónimas, considerándose como tales aquellas que no contengan el nombre o datos de identificación, no este firmada o no tenga huella digital de la parte quejosa.
+> <small>(REFORMADA, P.O. 28 DE SEPTIEMBRE DE 2011)</small>
+
+II. Cuando se trate de quejas anónimas, considerándose como tales aquellas que no contengan el nombre o datos de identificación, no esté firmada o no tenga huella digital del peticionario.
 
 Ninguno de los supuestos previstos por el presente artículo impide la investigación sobre los problemas generales planteados en las quejas formuladas.
 
+> <small>(REFORMADO, P.O. 28 DE SEPTIEMBRE DE 2011)</small>
+
 ###### Artículo 63.
 
-El Consejo deberá poner a disposición de los quejosos o agraviados, formularios que faciliten el trámite y en todo caso orientará a los comparecientes sobre el contenido de su queja.
+El Consejo deberá poner a disposición de los peticionarios o agraviados, formularios que faciliten el trámite y en todo caso orientará a los comparecientes sobre el contenido de su queja.
 
 > <small>(REFORMADO, P.O. 21 DE JUNIO DE 2011)</small>
 
@@ -1291,7 +1331,7 @@ El Consejo notificará inmediatamente a las personas denunciantes de los expedie
 
 En el caso de las Recomendaciones que hayan sido aceptadas, del seguimiento, del cumplimiento y de su conclusión, el Consejo informará de manera oportuna y sistemática a las víctimas.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE JUNIO DE 2011)</small>
 
 ###### Artículo 85.
 
@@ -1371,7 +1411,9 @@ El Consejo deberá poner en conocimiento de las autoridades superiores competent
 
 El personal que preste sus servicios en el Consejo estará regulado por las disposiciones de la Ley del Servicio Civil del Estado y los Municipios de Chiapas.
 
-Al efecto, se establecerá un servicio profesional que garantice el cumplimiento del objeto señalado en esta Ley, de conformidad con lo que disponga el Estatuto del Servicio Profesional, que deberá ser aprobado por el Consejo a propuesta del Secretario Ejecutivo.
+> <small>(REFORMADO, P.O. 28 DE SEPTIEMBRE DE 2011)</small>
+
+Al efecto, se establecerá un servicio profesional que garantice el cumplimiento del objeto señalado en esta Ley, de conformidad con lo que disponga el Estatuto del Servicio Profesional, que deberá ser aprobado por el Consejo General a propuesta del Secretario Ejecutivo.
 
 Todos los servidores públicos que integren la plantilla de personal del Consejo, serán trabajadores de confianza debido a la naturaleza de las funciones que desempeñan, por lo tanto, con las excepciones que establece esta Ley, corresponde al Presidente, previo acuerdo del Pleno del Consejo, nombrar y remover al personal del Organismo.
 
@@ -1413,7 +1455,7 @@ De conformidad con la fracción I, del artículo 42, de la Constitución Políti
 
 Juan Sabines Guerrero, Gobernador del Estado.- Noé Castañón León, Secretario General de Gobierno.- Rúbricas.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 21 DE JUNIO DE 2011.
 
@@ -1428,3 +1470,11 @@ El Pleno del Consejo General en un plazo improrrogable no mayor a treinta días 
 Cuarto.- En el término de tres días hábiles siguientes a la designación del Secretario Ejecutivo por parte del Consejo Estatal de los Derechos Humanos, la Comisión de Derechos Humanos del Congreso del Estado hará los trámites pertinentes para la toma de protesta respectiva y expedirá el nombramiento que corresponda.
 
 El Ejecutivo del Estado dispondrá se publique, circule y se le dé el debido cumplimiento.
+
+P.O. 28 DE SEPTIEMBRE DE 2011.
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Se derogan todas las disposiciones que se opongan a este Decreto.
+
+Artículo Tercero.- El Consejo Estatal de los Derechos Humanos, en el marco de su competencia, proveerá lo necesario para el cumplimiento del presente Decreto.
