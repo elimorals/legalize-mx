@@ -4,7 +4,7 @@ identifier: "TAM-reglamento-interior-del-instituto-electoral-de-tamaulipas-73173
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-06-25"
-last_updated: "2009-06-25"
+last_updated: "2011-09-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=73173&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 REGLAMENTO INTERIOR DEL INSTITUTO ELECTORAL DE TAMAULIPAS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE SEPTIEMBRE DE 2011.
 
 Reglamento publicado en Anexo del Periódico Oficial del Estado de Tamaulipas, el miércoles 25 de junio de 2009.
 
@@ -91,7 +91,7 @@ X. Representantes: Los representantes de los partidos políticos o coaliciones d
 
 Las actividades del Instituto se realizarán en horas y días hábiles. Son inhábiles los días sábados, domingos y días de descanso obligatorio previstos por la Ley Federal del Trabajo, así como los días de asueto autorizados o por motivo de las vacaciones generales del personal del Instituto.
 
-El horario del Instituto será de las 9:00 a las 14:00 horas y de las 17:00 a las 20:00 horas.
+> <small>(DEROGADO SEGUNDO PARRAFO, P.O. 28 DE SEPTIEMBRE DE 2011)</small>
 
 Durante los periodos en que se desarrollen los procesos electorales todos los días y horas se considerarán hábiles.
 
@@ -115,7 +115,9 @@ IV. La Secretaría Ejecutiva;
 
 V. Las Direcciones de la Secretaria Ejecutiva:
 
-a) Jurídica;
+> <small>(ADICIONADO, [N. DE E. REFORMADO], P.O. 28 DE SEPTIEMBRE DE 2011)</small>
+
+a) Jurídica y Titular de la Unidad de Información Pública
 
 b) Del Secretariado;
 
@@ -139,7 +141,7 @@ X. Los Consejos Municipales;
 
 XI. Las mesas directivas de Gasilla;
 
-XII. La Unidad de Información Pública;
+XII. (DEROGADA, P.O. 28 DE SEPTIEMBRE DE 2011)
 
 Para efectos de operatividad y conforme a su ámbito de competencia, los distintos órganos del Instituto, estarán adscritos como se define a continuación:
 
@@ -153,7 +155,7 @@ Secretaría Ejecutiva;
 
 Contraloría General;
 
-Unidad de Información Pública.
+> <small>(DEROGADO, P.O. 28 DE SEPTIEMBRE DE 2011)</small>
 
 C. Secretaría Ejecutiva:
 
@@ -168,6 +170,10 @@ Las Direcciones Ejecutivas de:
 Las Direcciones:
 
 1. Jurídica;
+
+> <small>(ADICIONADO, P.O. 28 DE SEPTIEMBRE DE 2011)</small>
+
+1.1 Unidad de Información Pública
 
 2. del Secretariado;
 
@@ -235,7 +241,11 @@ VI. Instrumentar la notificación de los acuerdos y resoluciones emitidos por el
 
 VII. Habilitar a los servidores públicos del Instituto, que resulte necesario, a efecto de que funjan como notificadores en los distintos trámites o en la sustanciación de procedimientos competencia del Instituto; y
 
-VIII. Las demás que le delegue el Código, los reglamentos, el Presidente, las disposiciones que emita el Consejo y las disposiciones legales aplicables.
+> <small>(ADICIONADA, P.O. 28 DE SEPTIEMBRE DE 2011)</small>
+
+VIII. Implementar en acuerdo con el Presidente el horario de labores del Instituto cuando no haya proceso electoral.
+
+IX. Las demás que le delegue el Código, los reglamentos, el Presidente, las disposiciones que emita el Consejo y las disposiciones legales aplicables.
 
 ### CAPITULO VII. De los Directores Ejecutivos
 
@@ -429,7 +439,9 @@ XII. Llevar un registro de los diversos procedimientos que deban ser resueltos p
 
 XIII. En los procedimientos que sustancie el Instituto, deberá levantar acta o dejar constancia de las diligencias que practique; y
 
-XIV. Las demás que le delegue el Código, los reglamentos, el Presidente o el Secretario Ejecutivo.
+> <small>(REFORMADA, P.O. 28 DE SEPTIEMBRE DE 2011)</small>
+
+XIV. Fungir como Titular de la Unidad de Información Pública, y las demás que le delegue el Código, los Reglamentos, el Presidente o el Secretario Ejecutivo.
 
 ### CAPITULO XIII. De la Dirección del Secretariado
 
@@ -579,9 +591,11 @@ XIX. Las demás que le delegue el Código, los reglamentos, o el Consejo.
 
 ### CAPITULO II. De la Unidad de Información Pública
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE SEPTIEMBRE DE 2011)</small>
+
 ###### Artículo 23.
 
-Para el cumplimiento de sus atribuciones, corresponde al Responsable de la Unidad de Información Pública:
+Para el cumplimiento de sus atribuciones, corresponde al Director Jurídico fungir como responsable de la Unidad de Información Pública:
 
 I. Atender, gestionar, dar trámite y resolver, las solicitudes de información pública y las que se realicen en el ejercicio del hábeas data, dentro de los plazos fijados por la Ley, tomando en cuenta solamente los días hábiles, entendiéndose como tales los señalados en el artículo 4º, del presente reglamento, aun en proceso electoral;
 
@@ -686,3 +700,11 @@ ASI LO APROBARON POR UNANIMIDAD DE VOTOS LAS CONSEJERAS Y LOS CONSEJEROS ELECTOR
 PRESIDENTE.- LIC. JESUS MIGUEL GARCIA RIESTRA.- Rúbrica.- SECRETARIO EJECUTIVO.- LIC. OSCAR BECERRA TREJO.- Rúbrica.
 
 EN SEGUIDA SE PUBLICO EL LOS ESTRADOS DEL INSTITUTO Y EN SU PAGINA DE INTERNET. CONSTE.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 28 DE SEPTIEMBRE DE 2011.
+
+PRIMERO. El Presente Reglamento entrará en vigor desde el momento de su aprobación.
+
+SEGUNDO. Publíquese el presente proveído en los estrados, en la página de internet del Instituto y en el Periódico Oficial del Estado.
