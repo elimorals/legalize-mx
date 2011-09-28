@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-para-el-gobierno-interior-del-congreso-del-7471"
 country: "mx"
 rank: "reglamento"
 publication_date: "1992-09-16"
-last_updated: "2011-08-05"
+last_updated: "2011-09-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7471&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 REGLAMENTO PARA EL GOBIERNO INTERIOR DEL CONGRESO DEL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE AGOSTO DE 2011.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE SEPTIEMBRE DE 2011.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el miércoles 16 de septiembre de 1992.
 
@@ -1915,9 +1915,9 @@ El Presidente de la Asamblea tendrá siempre voto de calidad en caso de empate.
 
 Llegado el momento de la votación el Presidente lo anunciará a la Asamblea y ordenará a los Diputados que se hallen fuera del Salón de Sesiones y dentro del Recinto concurran a votar. Durante ese acto, ninguno de los Diputados podrá salir del Recinto, ni excusarse de participar en la votación a menos que con anterioridad alguno de ellos hubiese manifestado tener interés personal en el asunto.
 
-### CAPITULO VI. DEL CEREMONIAL
+### CAPITULO V BIS. DEL SALÓN DE SESIONES
 
-> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2000)</small>
+> <small>(ADICIONADO, P.O. 28 DE SEPTIEMBRE DE 2011)</small>
 
 ###### Artículo 143.
 
@@ -1939,9 +1939,25 @@ Los Acuerdos Legislativos deberán elaborarse por escrito y estar firmados por l
 
 Cuando se concerte un Acuerdo Legislativo unánimemente para presentar un Proyecto de Ley o propuesta al Pleno, los Diputados integrantes de la comisión a que sea turnado el asunto, podrán elaborar el dictamen conforme lo señala el Artículo 45 de este Reglamento.
 
-### CAPITULO VII. DE LOS ASISTENTES A LAS SESIONES
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 28 DE SEPTIEMBRE DE 2011)</small>
 
-### CAPITULO UNICO. DE LA DIPUTACION PERMANENTE
+### CAPITULO VI. DEL CEREMONIAL
+
+> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2000)</small>
+
+###### Artículo 145 Bis.
+
+Las Sesiones Ordinarias y Extraordinarias a que se refiere el Artículo 78 del presente Reglamento, se efectuarán en el Salón de Sesiones, salvo acuerdo en contrario, aprobado por las dos terceras partes de los Diputados presentes.
+
+> <small>(ADICIONADO, P.O. 28 DE SEPTIEMBRE DE 2011)</small>
+
+###### Artículo 145 Bis 1.
+
+En el muro principal del Salón de Sesiones se ubica el mapa del Estado de Nuevo León. A la derecha e izquierda del extremo superior, se localiza el Escudo Nacional y el Escudo de Nuevo León, respectivamente. Sobre el muro dos Banderas Nacionales, una de izquierda a derecha y otra de derecha a izquierda, enlazadas por un moño tricolor.
+
+En los costados derecho e izquierdo, se encuentran colocados los Muros de Honor, con los nombres de personajes declarados por el Congreso del Estado de Nuevo León, como Hombres y Mujeres Ilustres, así como de Instituciones y participantes de hechos históricos, con igual declaración, inscritos con letras áureas.
+
+### CAPITULO VII. DE LOS ASISTENTES A LAS SESIONES
 
 ###### Artículo 146.
 
@@ -1994,6 +2010,8 @@ En ningún caso podrán establecerse diálogos entre Diputados, ni entre éstos 
 ###### Artículo 154.
 
 A las sesiones solemnes, los Diputados concurrirán con traje oscuro.
+
+### CAPITULO UNICO. DE LA DIPUTACION PERMANENTE
 
 ###### Artículo 155.
 
@@ -2406,5 +2424,9 @@ Primero.- El presente Decreto entrará en vigor al día siguiente de su publicac
 Segundo.- Por única ocasión el Informe Anual al que se refiere el Artículo 18 Bis del Reglamento para el Gobierno Interior del Congreso del Estado, correspondiente al Segundo Año del Ejercicio Constitucional deberá realizarse ante los Ciudadanos hasta la conclusión del Primer Periodo Ordinario de Sesiones del Tercer año de ejercicio constitucional.
 
 P.O. 5 DE AGOSTO DE 2011.
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 28 DE SEPTIEMBRE DE 2011.
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
