@@ -4,7 +4,7 @@ identifier: "TAB-reglamento-interior-del-instituto-de-educacion-para-adultos-258
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-08-07"
-last_updated: "2002-08-07"
+last_updated: "2011-09-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25858&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "TAB"
 
 REGLAMENTO INTERIOR DEL INSTITUTO DE EDUCACION PARA ADULTOS DE TABASCO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DEL INSTITUTO DE EDUCACION PARA ADULTOS DE TABASCO (IEAT), PUBLICADO EN EL SUPLEMENTO J DEL P.O. DE 28 DE SEPTIEMBRE DE 2011, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Suplemento del Periódico Oficial del Estado de Tabasco, el miércoles 7 de agosto de 2002.
 
@@ -632,3 +634,13 @@ SECRETARIO DE EDUCACION EN EL ESTADO
 LIC. JULIO CESAR PONCE MARTINEZ
 
 DIRECTOR GENERAL DEL INSTITUTO DE EDUCACION PARA ADULTOS DE TABASCO
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA AL PRESENTE REGLAMENTO.</small>
+
+P.O. 28 DE SEPTIEMBRE DE 2011.
+
+PRIMERO. El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se abroga el Reglamento Interior del Instituto de Educación para Adultos de Tabasco, publicado en el Periódico Oficial del Estado número 6252, de fecha 7 de agosto del año 2002; así como todas aquellas disposiciones que se opongan al mismo.
+
+TERCERO. Cuando las facultades de alguna unidad administrativa a que se refiere este Reglamento deban ser ejercidas por una u otras conforme a lo estipulado en el mismo, los recursos humanos, materiales y financieros con que aquella contaba y que fueron necesarios, pasarán a la unidad o unidades competentes, distribuyéndose en su caso, de conformidad con el ámbito de atribuciones que a cada una le corresponda.
