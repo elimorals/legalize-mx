@@ -4,7 +4,7 @@ identifier: "MOR-reglamento-interior-de-la-secretaria-de-la-contraloria-del-7456
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-04-21"
-last_updated: "2010-04-21"
+last_updated: "2011-09-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=74563&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,9 @@ state: "MOR"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA DE LA CONTRALORIA DEL ESTADO DE MORELOS
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 13 DE JUNIO DE 2012 EN EL P.O. DEL ESTADO DE MORELOS, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 REGLAMENTO INTERIOR DE LA SECRETARIA DE LA CONTRALORIA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE SEPTIEMBRE DE 2011.
 
 Reglamento publicado en la Segunda Sección del Periódico Oficial del Estado de Morelos, el miércoles 21 de abril de 2010.
 
@@ -320,8 +318,6 @@ XXXVI. Justificar conforme a la ley de la materia, las faltas e incidencias del 
 XXXVII. Las demás que determinen las disposiciones jurídicas aplicables.
 
 ### CAPÍTULO V. DE LA DIRECCIÓN GENERAL DE AUDITORÍA
-
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 13 DE JUNIO DE 2012 EN EL P.O. DEL ESTADO DE MORELOS, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
 
 ###### Artículo 10.
 
@@ -847,115 +843,13 @@ Si en cualquier momento de la revisión, el auditor advierte que existe responsa
 
 Los Órganos Internos de Control serán directamente responsables sobre el pronunciamiento que hagan sobre las observaciones determinadas. Fincándoles en su caso el procedimiento de responsabilidad establecido en la Ley Estatal de Responsabilidades de los Servidores Públicos.
 
+> <small>(DEROGADO CON EL ARTICULO QUE LO INTEGRA, POR EL ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO EN MATERIA DE PRESENTACION DE DECLARACION DE SITUACION PATRIMONIAL, P.O. 28 DE SEPTIEMBRE DE 2011)</small>
+
 ### CAPÍTULO XVI. DE LOS SERVIDORES PÚBLICOS OBLIGADOS A PRESENTAR DECLARACIONES DE SITUACIÓN PATRIMONIAL
 
 ###### Artículo 39.
 
-De conformidad con lo dispuesto por el artículo 78 de la Ley Estatal de Responsabilidades de los Servidores Públicos tienen obligación de presentar su Declaración de Situación Patrimonial, los siguientes servidores públicos:
-
-I. En el Poder Ejecutivo:
-
-a) El Gobernador del Estado;
-
-b) Secretarios de Despacho;
-
-c) Procurador General de Justicia;
-
-d) Subprocuradores;
-
-e) Coordinadores Generales;
-
-f) Subsecretarios;
-
-g) Directores Generales;
-
-h) Visitadores Generales;
-
-i) Asesores;
-
-j) Secretarios Particulares;
-
-k) Directores de Área;
-
-l) Subdirectores;
-
-m) Jefes de Departamento;
-
-n) Agentes del Ministerio Público;
-
-o) Agentes de la Policía Ministerial;
-
-p) Defensores Públicos;
-
-q) Defensores de Oficio;
-
-r) Supervisores;
-
-s) Auditores;
-
-t) Verificadores Sanitarios;
-
-u) Encargados de Centros Deportivos;
-
-v) Peritos;
-
-w) Actuarios, y
-
-x) Abogados, Auxiliares Jurídicos y/o Contables.
-
-II. En el Poder Judicial:
-
-a) Los Magistrados;
-
-b) Los Consejeros de la Judicatura;
-
-c) Los Jueces;
-
-d) El Oficial Mayor o su equivalente;
-
-e) Los Secretarios Generales;
-
-f) Directores Generales;
-
-g) Secretarios Particulares;
-
-h) Asesores;
-
-i) Directores de Área;
-
-j) Los Secretarios de Acuerdos, y
-
-k) Los Actuarios.
-
-IV. En los Organismos Constitucionales Autónomos:
-
-a) Los Consejeros;
-
-b) Presidentes
-
-c) Secretarios Ejecutivos;
-
-d) Directores Generales;
-
-e) Asesores;
-
-f) Secretarios Particulares;
-
-g) Directores de Área;
-
-h) Subdirectores;
-
-i) Jefes de Departamento, y
-
-j) Actuarios.
-
-V. En general todos aquellos que manejen, custodien, administren o supervisen fondos, valores o bienes de la propiedad o al cuidado de los Poderes del Gobierno del Estado y cualesquiera otros servidores públicos que desempeñen funciones análogas o similares.
-
-La presentación de las Declaraciones de Situación Patrimonial se realizará en las instalaciones de la Secretaría y/o módulos establecidos por la misma, siempre en días y horas hábiles. Para el caso de la Declaración Anual de Modificación Patrimonial, se presentará durante el mes de enero de cada año, teniendo como fecha límite de entrega, el último día hábil del mes.
-
-Por el incumplimiento de la obligación en la presentación de las declaraciones de situación patrimonial, se impondrán en términos de lo dispuesto por el artículo 79 de la Ley Estatal de Responsabilidades de los Servidores Públicos, una multa de ocho a veinte días de salario mínimo general vigente en el Estado de Morelos.
-
-En caso de que persista el incumplimiento y una vez aplicada la multa antes señalada, se formulará la denuncia correspondiente ante la Dirección General de Responsabilidades y Sanciones Administrativas, para que inicie el procedimiento de responsabilidad administrativa contemplado en la Ley de la materia, previa declaración de incumplimiento de la Dirección General Asuntos Jurídicos y Situación Patrimonial.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO EN MATERIA DE PRESENTACION DE DECLARACION DE SITUACION PATRIMONIAL, P.O. 28 DE SEPTIEMBRE DE 2011)
 
 ### CAPÍTULO XVII. DE LAS SUPLENCIAS Y ENCARGADOS DE DESPACHO
 
@@ -1040,3 +934,13 @@ LA SECRETARIA DE LA CONTRALORÍA
 LIC. PATRICIA MARISCAL VEGA
 
 RÚBRICAS.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 28 DE SEPTIEMBRE DE 2011.
+
+PRIMERO. El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos.
+
+SEGUNDO. Se deroga el Capítulo XVI del Reglamento Interior de la Secretaría de la Contraloría, publicado el veintiuno de abril del dos mil diez en el Periódico Oficial "Tierra y Libertad" número 4798 Segunda Sección.
+
+TERCERO. Se derogan todas las disposiciones reglamentarias o administrativas que se opongan al presente Reglamento.
