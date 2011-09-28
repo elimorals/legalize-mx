@@ -4,7 +4,7 @@ identifier: "OAX-constitucion-politica-del-estado-libre-y-soberano-de-oaxaca-692
 country: "mx"
 rank: "constitucion"
 publication_date: "1922-04-04"
-last_updated: "2011-06-16"
+last_updated: "2011-09-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6921&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "OAX"
 ---
 # CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 28 DE SEPTIEMBRE DE 2011 EN EL P.O. DEL ESTADO DE OAXACA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA
 
 ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE JUNIO DE 2011.
+
+> <small>N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 28 DE SEPTIEMBRE DE 2011 NO APLICA AL ARTICULADO DEL DECRETO 397 PUBLICADO EN EL P.O. DE 15 DE ABRIL DE 2011.</small>
 
 Constitución promulgada por bando solemne, el martes 4 de abril de 1922.
 
@@ -109,7 +109,7 @@ Nadie podrá ser privado, de la vida, de la libertad o de sus propiedades, poses
 
 En los juicios del orden criminal queda prohibido imponer por simple analogía y aún por mayoría de razón, pena alguna que no esté decretada por una ley exactamente aplicable al delito de que se trate. En los juicios del orden civil, la sentencia definitiva deberá ser conforme a la letra o a la interpretación jurídica de la ley, y a falta de ésta, se fundará en los principios generales del derecho.
 
-> <small>(REFORMADOS PRIMER Y SEGUNDO PARRAFOS [N. DE E. REFORMADO], P.O. 21 DE SEPTIEMBRE DE 2009)</small>
+> <small>(REFORMADOS PRIMERO Y SEGUNDO PARRAFOS [N. DE E. REFORMADO], P.O. 21 DE SEPTIEMBRE DE 2009)</small>
 
 ###### ARTICULO 6°.
 
@@ -1323,7 +1323,7 @@ VII. Erigir nuevos Municipios dentro de los ya existentes, siempre que los inter
 
 > <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2000)</small>
 
-VIII. Suprimir Municipios, siempre que sus rentas no alcancen a cubrir sus Presupuestos de Egresos o carezcan de capacidad para manejarse por sí mismos y administrarse a través de sus respectivos Ayuntamientos o cuando los núcleos de población que los integran no lleguen a los 15 mil habitantes;
+VIII. Suprimir Municipios, siempre que sus rentas no alcancen a cubrir sus Presupuestos de Egresos o carezcan de capacidad para manejarse por sí mismos y administrarse a través de sus respectivo Ayuntamientos o cuando los núcleos de población que los integran no lleguen a los 15 mil habitantes;
 
 > <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2000)</small>
 
@@ -2873,7 +2873,7 @@ La responsabilidad por delitos cometidos durante el tiempo del encargo por cualq
 
 > <small>(F. DE E., P.O. 28 DE JULIO DE 2001)</small>
 
-La ley señalará los casos de prescripción de la responsabilidad administrativa tomando en cuenta a la naturaleza y consecuencia de los actos y omisiones a que hace referencia la fracción III del Artículo 116. Cuando dichos actos u omisiones fuesen graves los plazos de prescripción no serán inferiores a tres años.
+La Ley señalará los casos de prescripción de la responsabilidad administrativa tomando en cuenta a la naturaleza y consecuencia de los actos y omisiones a que hace referencia la fracción III del Artículo 116. Cuando dichos actos u omisiones fuesen graves los plazos de prescripción no serán inferiores a tres años.
 
 > <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 146], P.O. 8 DE DICIEMBRE DE 2000)</small>
 
