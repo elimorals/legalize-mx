@@ -4,7 +4,7 @@ identifier: "CHP-ley-organica-municipal-del-estado-de-chiapas-69793"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2009-07-29"
-last_updated: "2011-08-11"
+last_updated: "2011-09-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69793&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 LEY ORGANICA MUNICIPAL DEL ESTADO DE CHIAPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE AGOSTO DE 2011.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE SEPTIEMBRE DE 2011.
 
 Ley publicada en el Periódico Oficial del Estado de Chiapas, el miércoles 29 de julio de 2009.
 
@@ -2391,9 +2391,9 @@ Artículo Segundo.- Como excepción a lo dispuesto por los artículos 26, 36, fr
 
 a) Los integrantes de los Ayuntamientos que sean electos el primer domingo de Octubre del año dos mil diez, tomarán la protesta respectiva el día primero de enero del año dos mil once y cesarán en sus funciones el treinta de septiembre de dos mil doce.
 
-> <small>(F. DE E., P.O. 12 DE AGOSTO DE 2009)</small>
+> <small>(REFORMADO, P.O. 28 DE SEPTIEMBRE DE 2011)</small>
 
-b) El informe pormenorizado de la gestión administrativa anual que en sesión solemne de Cabildo presente a la población el Presidente Municipal en funciones, se rendirá en el mes de diciembre de los años dos mil nueve y dos mil diez.
+b) El informe pormenorizado de la gestión administrativa anual que en sesión solemne de Cabildo presente a la población el Presidente Municipal en funciones, se rendirá en el mes de diciembre de los años dos mil nueve, dos mil diez y dos mil once.
 
 > <small>(F. DE E., P.O. 4 DE NOVIEMBRE DE 2009)</small>
 
@@ -2460,3 +2460,7 @@ Artículo Segundo.- Para los efectos de la implementación de planes de tratamie
 Artículo Tercero.- Se derogan las disposiciones que se opongan al presente Decreto.
 
 Artículo Cuarto.- Los Ayuntamientos llevarán a cabo las acciones necesarias para el debido cumplimiento del presente Decreto.
+
+P.O. 28 DE SEPTIEMBRE DE 2011.
+
+Artículo Único.- El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado.
