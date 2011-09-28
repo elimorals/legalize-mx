@@ -4,7 +4,7 @@ identifier: "TAB-ley-que-crea-el-instituto-tecnologico-superior-de-los-rios-1148
 country: "mx"
 rank: "ley"
 publication_date: "1996-11-23"
-last_updated: "2011-08-27"
+last_updated: "2011-09-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11486&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "TAB"
 ---
 # LEY QUE CREA EL INSTITUTO TECNOLOGICO SUPERIOR DE LOS RIOS
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 28 DE SEPTIEMBRE DE 2011 EN EL P.O. DEL ESTADO DE TABASCO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL INDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 LEY QUE CREA EL INSTITUTO TECNOLOGICO SUPERIOR DE LOS RIOS
 
 ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE AGOSTO DE 2011.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 28 DE SEPTIEMBRE DE 2011.</small>
 
 Ley publicada en el Periódico Oficial del Estado de Tabasco, el 23 de noviembre de 1996.
 
@@ -159,8 +159,6 @@ VI. Los Jefes de Departamento; y
 
 VII. Las Unidades que el servicio requiera.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 28 DE SEPTIEMBRE DE 2011 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA, ASÍ COMO EL ARCHIVO ANEXO.</small>
-
 ###### Artículo 6.
 
 La Junta Directiva es la máxima autoridad de la Institución y se integra por 10 miembros designados de la siguiente manera:
@@ -171,9 +169,9 @@ II. Tres representantes del Gobierno Federal designados por el Secretario de Edu
 
 A invitación del Gobierno del Estado:
 
-> <small>(REFORMADA, P.O. 27 DE AGOSTO DE 2011)</small>
+(REFORMADA, P.O. 27 DE AGOSTO DE 2011) (F. DE E., P.O. 28 DE SEPTIEMBRE DE 2011)
 
-III. Un representante del Gobierno Municipal y uno del sector social de la comunidad designados por el Ayuntamiento Constitucional de Macuspana, Tabasco; o en su caso por el Concejo Municipal en funciones. El representante del sector social durará en su cargo el tiempo que dure la administración municipal que lo haya designado.
+III. Un representante del Gobierno Municipal y uno del sector social de la comunidad designados por el Ayuntamiento Constitucional de Balancán, Tabasco; o en su caso por el Concejo Municipal en funciones. El representante del sector social durará en su cargo el tiempo que dure la administración municipal que lo haya designado.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE AGOSTO DE 2011)</small>
 
