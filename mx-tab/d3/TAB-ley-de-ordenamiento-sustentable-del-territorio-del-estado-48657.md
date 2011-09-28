@@ -4,7 +4,7 @@ identifier: "TAB-ley-de-ordenamiento-sustentable-del-territorio-del-estado-48657
 country: "mx"
 rank: "ley"
 publication_date: "2005-12-28"
-last_updated: "2009-03-14"
+last_updated: "2011-09-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=48657&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 LEY DE ORDENAMIENTO SUSTENTABLE DEL TERRITORIO DEL ESTADO DE TABASCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE MARZO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE SEPTIEMBRE DE 2011.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Tabasco, el miércoles 28 de diciembre de 2005.
 
@@ -2203,7 +2203,15 @@ III. Impulsar la investigación para la generación de reservas óptimas para as
 
 IV. Considerar aspectos técnicos de protección civil en los diseños arquitectónicos y estructurales, en edificios o inmuebles para uso de equipamiento y vivienda;
 
-V.- Incluir un apartado especial a la problemática de riesgo en el desarrollo de los asentamientos humanos dentro del Programas (sic) Estatal de Ordenamiento Territorial y de los Programas Estatal y Municipales de Desarrollo urbano;
+> <small>(ADICIONADO, P.O. 28 DE SEPTIEMBRE DE 2011)</small>
+
+Las viviendas cercanas a los cuerpos de agua o ubicadas en zonas urbanas o rurales vulnerables a inundaciones, deberán atender en lo aplicable, el modelo de construcción en palafitos, previo estudio de factibilidad del uso de suelo para este tipo de construcción;
+
+> <small>(REFORMADA, P.O. 28 DE SEPTIEMBRE DE 2011)</small>
+
+V. Incluir dentro del Programa Estatal de Ordenamiento Territorial y de los Programas Estatal y Municipales de Desarrollo Urbano, un apartado especial para la problemática de riesgo en el desarrollo de los asentamientos humanos.
+
+Dichos programas deberán identificar aquellas zonas en las cuales, por su vulnerabilidad, preferentemente deba edificarse sobre palafitos;
 
 VI.- Monitorear los resultados del sistema automatizado para el alertamiento de inundaciones a autoridades y pobladores que puedan ser afectados, de manera conjunta con autoridades estatales y municipales de protección civil; y
 
@@ -2705,293 +2713,161 @@ El Ayuntamiento o Concejo Municipal tramitará la publicación de la constancia 
 
 ### CAPITULO XIX. VIVIENDA
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(DEROGADA POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE VIVIENDA PARA EL ESTADO DE TABASCO, P.O. 28 DE SEPTIEMBRE DE 2011)</small>
+
 #### Sección Primera. Del Sistema Estatal de Vivienda
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
 
 ###### Artículo 242.
 
-Se establece el Sistema Estatal de Vivienda como un mecanismo permanente de concurrencia, colaboración, coordinación y concertación de los sectores público, social y privado, que tiene por objeto:
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE VIVIENDA PARA EL ESTADO DE TABASCO, P.O. 28 DE SEPTIEMBRE DE 2011)
 
-I. Coordinar y concertar las acciones para cumplir los objetivos, prioridades y estrategias de la Política Estatal de Vivienda;
-
-II. Dar integralidad y coherencia a las acciones, instrumentos, procesos y apoyos orientados a la satisfacción de las necesidades de vivienda, particularmente de la población en situación de pobreza, marginación y vulnerabilidad;
-
-III. Promover y garantizar la participación articulada de todos los factores productivos cuyas actividades incidan en el desarrollo de la vivienda;
-
-IV. Fortalecer la coordinación entre los diferentes ámbitos de gobierno, así como inducir acciones de concertación con los sectores social y privado, y
-
-V. Promover la coordinación interinstitucional entre las diferentes instancias relacionadas con la vivienda.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
 
 ###### Artículo 243.
 
-El Sistema estará integrado por:
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE VIVIENDA PARA EL ESTADO DE TABASCO, P.O. 28 DE SEPTIEMBRE DE 2011)
 
-I. El Consejo Estatal de Vivienda;
-
-II. El Instituto, la Secretaría, representantes de los Organismos Nacionales de Vivienda; y
-
-III. Los Ayuntamientos, así como los sectores social y privado, en el marco del Sistema Estatal de Planeación y en los términos de los convenios de coordinación y concertación que al efecto se celebren.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
 
 ###### Artículo 244.
 
-El Sistema Estatal de Vivienda se ejecutará a través de:
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE VIVIENDA PARA EL ESTADO DE TABASCO, P.O. 28 DE SEPTIEMBRE DE 2011)
 
-I. Los Programas Operativos anuales que elaboren conjuntamente el Instituto y las demás dependencias y entidades de la administración pública estatal, así como los organismos financieros de vivienda a fin de regular la ejecución de las acciones habitacionales; y
-
-II. Los Programas Municipales de Vivienda, en los casos en que se presenten.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
 
 ###### Artículo 245.
 
-El Gobierno del Estado celebrará acuerdos de coordinación y convenios de concertación con la federación, municipios y los sectores público, social y privado respectivamente, a efecto de realizar acciones tendientes a fomentar el desarrollo de programas de vivienda.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE VIVIENDA PARA EL ESTADO DE TABASCO, P.O. 28 DE SEPTIEMBRE DE 2011)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
 
 ###### Artículo 246.
 
-La planeación de las acciones públicas de vivienda se sujetará a lo dispuesto en esta Ley, el Programa Nacional de Vivienda, el Programa Estatal de Ordenamiento Territorial, al Programa Estatal de Desarrollo Urbano y los Programas de Desarrollo Urbano de los Centros de Población.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE VIVIENDA PARA EL ESTADO DE TABASCO, P.O. 28 DE SEPTIEMBRE DE 2011)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
 
 ###### Artículo 247.
 
-El Programa Sectorial de Vivienda, será elaborado por el Instituto, en coordinación con las demás dependencias y entidades de la administración pública federal y estatal involucrados en la promoción de vivienda.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE VIVIENDA PARA EL ESTADO DE TABASCO, P.O. 28 DE SEPTIEMBRE DE 2011)
 
-El Instituto someterá el Programa a la consideración del Ejecutivo Estatal y una vez aprobado por éste deberá publicarse su versión completa en el Periódico Oficial del Estado y en los diarios de mayor circulación en la entidad.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
 
 ###### Artículo 248.
 
-Los Programas Sectorial y Municipales de Vivienda deberán contener lo siguiente:
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE VIVIENDA PARA EL ESTADO DE TABASCO, P.O. 28 DE SEPTIEMBRE DE 2011)
 
-I. La fundamentación jurídica;
-
-II. Las condiciones que señalen el programa nacional de vivienda, el plan estatal de desarrollo y el programa estatal de desarrollo urbano en lo conducente;
-
-III. El diagnóstico de los problemas habitacionales en el Estado y su pronóstico a corto, mediano y largo plazo;
-
-IV. Los objetivos que se persigan y que regirán el desempeño de las acciones habitacionales de la administración pública estatal.
-
-V. La metas compatibles con los medios y recursos disponibles del Estado.
-
-VI. La estrategia general que comprenderá las acciones básicas, el señalamiento de prioridades y su previsible impacto en el sistema económico y social;
-
-VII. Los lineamientos y la previsión de recursos para la programación institucional y anual con el señalamiento de metas y previsiones de recursos;
-
-VIII. La articulación del programa con el gasto público y su vinculación presupuestal;
-
-IX. Las bases de coordinación con la federación y los municipios;
-
-X.- Las bases de participación con los sectores social y privado;
-
-XI. El manejo de instrumentos de políticas económicas y social relacionados con la vivienda y los responsables de su ejecución; y
-
-XII. La ejecución en su caso, de proyectos estratégicos y de aquellos que se programen fundados en los lineamientos de sustentabilidad que determina la presente Ley.
-
-En el marco de las funciones que le confiere su decreto de creación, el Instituto de Vivienda del Estado, propondrá a las dependencias competentes medidas de financiamiento y estímulos para el cumplimiento del Programa Sectorial de Vivienda, así como sistema de control, seguimiento y evaluación de los mismos.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
 
 ###### Artículo 249.
 
-Las acciones y lineamientos básicos que comprendan los Programas Sectorial y Municipal de Vivienda serán entre otros, los siguientes:
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE VIVIENDA PARA EL ESTADO DE TABASCO, P.O. 28 DE SEPTIEMBRE DE 2011)
 
-I. Adquisición, aprovechamiento y enajenación de suelo para fraccionamientos de urbanización inmediata con vivienda de interés social y Progresiva, así como fraccionamientos de urbanización progresiva con vivienda de autoconstrucción, en los términos de esta Ley;
-
-II. Canalización y aplicación de recursos económicos para la vivienda de interés social progresiva y de autoconstrucción, fomentando los estímulos que faciliten la inversión pública y privada en la construcción de vivienda;
-
-III. Apoyo a la construcción y a la vivienda de construcción progresiva, en acciones públicas, y en predios en propiedad;
-
-IV. Aplicación de normas mínimas de habitabilidad y seguridad;
-
-V. Adopción de reglas prácticas para el mejoramiento y conservación de la vivienda;
-
-VI. Mejoramiento de la vivienda rural y urbana;
-
-VII. Adopción de normas de diseño para la construcción de vivienda, coordinación modular de componentes físicos y espacios arquitectónicos, y la aplicación de tecnologías adecuadas social y ecológica;
-
-VIII. Producción y distribución de materiales de construcción;
-
-IX. Asistencia técnica, organización y participación social;
-
-X. Fomento a la producción y mejoramiento de vivienda a través de sociedades cooperativas y otras normas de gestión social;
-
-XI. Promoción y apoyo a los Programas de vivienda de los municipios; e
-
-XII. Información y difusión de los programas públicos habitacionales con objeto de que la población beneficiaria tenga un mejor conocimiento y participación en los mismos.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
 
 ###### Artículo 250.
 
-A fin de dar cumplimiento a los programas sectorial y municipal de vivienda, el Instituto y los Ayuntamientos o Concejos Municipales; así como las dependencias y entidades de la administración pública estatal, en el ámbito de su competencia, deberán:
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE VIVIENDA PARA EL ESTADO DE TABASCO, P.O. 28 DE SEPTIEMBRE DE 2011)
 
-I. Promover ante las autoridades correspondientes el establecimiento de procedimientos que den agilidad a los trámites relacionados con la expedición de licencias, permisos y autorizaciones para la construcción de vivienda;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
 
-II. Apoyar la producción y distribución de materiales básicos para la construcción de vivienda;
-
-III. Apoyar la constitución, registro y operación de sociedades cooperativas dedicadas a la producción y mejoramiento de vivienda;
-
-IV. Establecer medidas para capacitar y dar asistencia técnica en materia de autoconstrucción del desarrollo habitacional a los grupos sociales organizados; y
-
-V.- Otorgar estímulos para la ejecución de las acciones señaladas en el programa.
+> <small>(DEROGADA POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE VIVIENDA PARA EL ESTADO DE TABASCO, P.O. 28 DE SEPTIEMBRE DE 2011)</small>
 
 #### Sección Segunda. El Instituto de Vivienda del Estado
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+
 ###### Artículo 251.
 
-Las atribuciones que en materia de vivienda tiene el Ejecutivo Estatal serán ejercidas por el Instituto, según el ámbito de competencia que ésta y otras leyes les confieran.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE VIVIENDA PARA EL ESTADO DE TABASCO, P.O. 28 DE SEPTIEMBRE DE 2011)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
 
 ###### Artículo 252.
 
-Corresponde al Instituto:
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE VIVIENDA PARA EL ESTADO DE TABASCO, P.O. 28 DE SEPTIEMBRE DE 2011)
 
-I. Formular, conducir, coordinar y evaluar la Política Estatal de Vivienda y el Programa Nacional en la materia, de conformidad con los objetivos y prioridades que marque el Plan Estatal de Desarrollo;
-
-II. Definir los lineamientos, normas y mecanismos para ejecutar la Política Estatal de Vivienda, con la participación de las entidades federativas y de los municipios, así como de los sectores social y privado;
-
-III. Coordinar el Sistema Estatal de Vivienda, con la participación que corresponda a los Ayuntamientos y a los sectores social y privado;
-
-IV. Proponer mecanismos y programas de financiamiento y fomento para la producción de vivienda en todas sus modalidades;
-
-V. Promover, impulsar y coordinar los esfuerzos de las diferentes instituciones de los sectores público, social y privado, en sus respectivos ámbitos de competencia, en la ejecución de acciones que promuevan la constitución de reservas territoriales y la adquisición de suelo destinado a la vivienda;
-
-VI. Identificar los inmuebles de propiedad estatal que puedan ser materia de enajenación en favor de instituciones públicas o privadas que tengan a su cargo resolver problemas de habitación popular para atender las necesidades de la población en situación de pobreza;
-
-VII. Impulsar la disposición y aprovechamiento de terrenos ejidales o comunales, con la participación que corresponda a las autoridades agrarias y de conformidad con las disposiciones jurídicas aplicables, a efecto de promover el desarrollo habitacional;
-
-VIII. Promover la celebración de instrumentos de coordinación y concertación para el fomento e impulso a la vivienda, y
-
-IX. Proponer las acciones para la ejecución de la Política Nacional de Vivienda;
-
-X. Desarrollar e instrumentar los mecanismos para coordinar el Sistema Nacional de Vivienda, con la intervención que corresponda a los gobiernos de las entidades federativas y de los municipios, así como a los sectores social y privado, de acuerdo con las bases que establezca la Secretaría de Desarrollo Social;
-
-XI. Elaborar, ejecutar y dar seguimiento al Programa Nacional de Vivienda y proponer, en su caso, las adecuaciones correspondientes;
-
-XII. Desarrollar y fomentar esquemas, mecanismos y programas de financiamiento, subsidio y ahorro previo para la vivienda, priorizando la atención a la población en situación de pobreza;
-
-XIII. Coordinar sus acciones con organismos públicos nacionales, estatales, del Distrito Federal y municipales de vivienda, así como con los organismos privados, a fin de impulsar el fortalecimiento financiero del sector;
-
-XIV. Establecer y promover criterios, mecanismos y programas de fomento a la producción de la vivienda en todas sus modalidades;
-
-XV. Promover y proponer la modernización del marco legal en materia de vivienda;
-
-XVI. Coordinarse con la Secretaría de Desarrollo Social con el fin de desarrollar una política de habilitación y financiamiento de suelo para la vivienda;
-
-XVII. Promover e impulsar las acciones de las diferentes instituciones de los sectores público, social y privado, en sus respectivos ámbitos de competencia, para el desarrollo de la vivienda en los aspectos normativos, tecnológicos, productivos y sociales;
-
-XVIII. Otorgar asesoría a las autoridades de las entidades federativas y municipios que lo soliciten, en la elaboración, ejecución y evaluación de programas de vivienda;
-
-XIX. Promover la celebración de instrumentos de coordinación y concertación para el fomento e impulso a la vivienda, así como para disminuir los costos asociados a la misma; y
-
-XX. Las demás que le otorguen éste u otros ordenamientos.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
 
 ###### Artículo 253.
 
-El Instituto, a fin de resolver la demanda habitacional, formulará su Programa Operativo Anual de Vivienda que servirá de base para la integración de los anteproyectos anuales de presupuesto que, cuando menos, deberán contener:
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE VIVIENDA PARA EL ESTADO DE TABASCO, P.O. 28 DE SEPTIEMBRE DE 2011)
 
-I. La vinculación con las políticas, objetivos, metas, y prioridades previstos en el Plan Estatal de Desarrollo, el Programa de Ordenamiento Territorial del Estado, el Programa Estatal de Desarrollo Urbano, el Programa Sectorial de Vivienda, y en su caso, el programa municipal de vivienda correspondiente;
-
-II. Los medios de financiamiento y los recursos económicos con que cuenta, su articulación con las acciones de vivienda señalando el número de beneficiarios y el nivel de ingreso;
-
-III. El establecimiento de medidas tendientes a una adecuada recuperación de los recursos;
-
-IV. Las metas de acciones de viviendas por alcanzar;
-
-V. El plazo de ejecución de las obras;
-
-VI. Los requerimientos de suelo y reservas territoriales para la ejecución de las acciones de vivienda;
-
-VII. Los sistemas y procedimientos de información y evaluación que faciliten la ejecución de las acciones de vivienda;
-
-VIII. Los procedimientos que permitan informar con oportunidad al público interesado, los requisitos y trámites a seguir para la asignación de vivienda; y
-
-IX. El establecimiento de las acciones de vivienda que se concertarán con los sectores social y privado y que se convendrán con la federación y los municipios.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
 
 ###### Artículo 254.
 
-La asignación o la enajenación de suelo de propiedad estatal o municipal, para la ejecución de fraccionamientos de urbanización inmediata y progresiva para las viviendas de interés social y de autoconstrucción destinados para la población de bajos ingresos, una vez definidas las áreas necesarias para la vialidad, el equipamiento y los servicios urbanos deberán sujetarse a los requisitos siguientes:
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE VIVIENDA PARA EL ESTADO DE TABASCO, P.O. 28 DE SEPTIEMBRE DE 2011)
 
-I. Dirigirse a la población con ingreso máximo de hasta el límite de densidad previsto por los programas de fomento a la vivienda vigentes y atender preferentemente a los de más bajo ingreso;
-
-II. El tamaño de los lotes para la vivienda de interés social y de autoconstrucción deberá corresponder a la s normas de habitabilidad que al efecto se expidan; y
-
-III. Cumplir con las normas de planeación urbana y demás disposiciones aplicables.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
 
 ###### Artículo 255.
 
-El Gobierno Estatal, por conducto del Instituto y de acuerdo con lo previsto en el Programa de Ordenamiento Territorial del Estado, el Programa de Desarrollo Urbano del Estado, el Programa Sectorial de Vivienda, así como los Programas Municipales de Desarrollo Urbano, realizará los estudios que determinen, en el ámbito estatal, los requerimientos de suelo urbano para vivienda. Los estudios considerarán las necesidades actuales y futuras y conforme a estas previsiones se harán los programas de adquisiciones específicos.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE VIVIENDA PARA EL ESTADO DE TABASCO, P.O. 28 DE SEPTIEMBRE DE 2011)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
 
 ###### Artículo 256.
 
-El instituto, encargado de satisfacer la demanda habitacional, podrá adquirir y enajenar predios para destinarse a programas de vivienda de interés social y de autoconstrucción, con las condiciones siguientes:
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE VIVIENDA PARA EL ESTADO DE TABASCO, P.O. 28 DE SEPTIEMBRE DE 2011)
 
-I. Que sea compatible con lo previsto en los programas de desarrollo urbano y de vivienda;
-
-II. Que se observen los programas y disposiciones locales que regulan el uso de suelo;
-
-III. Que sea factible la disponibilidad de infraestructura, equipamiento y servicios públicos en los predios de que se trate; y
-
-IV. Que se verifique la existencia del programa de financiamiento o la partida presupuestal respectivos.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
 
 ###### Artículo 257.
 
-El Instituto fijará los mecanismos de información, calificación y clasificación de los bienes del dominio privado del Estado susceptibles de aprovechamiento en materia de vivienda con objeto de normar técnica y socialmente su aprovechamiento.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE VIVIENDA PARA EL ESTADO DE TABASCO, P.O. 28 DE SEPTIEMBRE DE 2011)
 
-Con base en lo anterior, el Instituto elaborará un catálogo de terrenos aptos para destinar a programas de vivienda considerando las condiciones básicas de equipamiento urbano y factibilidad de introducción de los servicios de agua potable, drenaje sanitario, drenaje pluvial, y electricidad con el menor costo posible.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
 
 ###### Artículo 258.
 
-El Gobierno Estatal, por conducto del Instituto y a solicitud de los municipios, de las entidades públicas, de las organizaciones y grupos sociales y privados que tengan por objeto el desarrollo de fraccionamientos de urbanización inmediata y progresiva o la satisfacción de necesidades de vivienda de interés social y de autoconstrucción podrá enajenar las áreas o los predios del dominio privado del Estado en los términos de esta Ley y demás ordenamientos jurídicos correspondientes, observando en todo caso:
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE VIVIENDA PARA EL ESTADO DE TABASCO, P.O. 28 DE SEPTIEMBRE DE 2011)
 
-I. La aptitud de los bienes a ser utilizados en los programas respectivos;
-
-II. Que el aprovechamiento de los inmuebles sea congruente con el programa sectorial de vivienda, los Programas de Desarrollo Urbano correspondiente;
-
-III. Que los solicitantes cuenten con un programa financiero en el que se prevea la aplicación de los recursos; y
-
-IV. Que se cumpla, en su caso, con los requisitos señalados en esta Ley para los Fraccionamientos y conjuntos habitacionales.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
 
 ###### Artículo 259.
 
-En los acuerdos o decretos en los que se autorice la enajenación de bienes del dominio privado del Estado o de los municipios, para la realización de proyectos habitacionales de interés social o fraccionamientos de urbanización progresiva se determinará el plazo máximo para su realización, a efecto de garantizar el aprovechamiento oportuno de los predios.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE VIVIENDA PARA EL ESTADO DE TABASCO, P.O. 28 DE SEPTIEMBRE DE 2011)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
 
 ###### Artículo 260.
 
-Las enajenaciones que realicen el Instituto y las dependencias y entidades municipales, de vivienda de interés social y popular, así como de los lotes para los mismos efectos, se sujetarán a las normas siguientes:
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE VIVIENDA PARA EL ESTADO DE TABASCO, P.O. 28 DE SEPTIEMBRE DE 2011)
 
-I. Que el beneficiario sea mexicano por nacimiento o naturalización, mayor de edad, jefe o sostén de familia, no sea propietario de inmuebles en el Estado; tenga como mínimo dos años de residencia en el centro de población o sus inmediaciones, y se obligue a utilizar el lote o vivienda para su casa-habitación;
-
-II. Que las condiciones de pago que establezcan tengan una correlación ingreso-habitación.
-
-III. Que la superficie de los lotes o las características de la vivienda, se apegue a lo previsto en la presente Ley y en el reglamento de construcciones del Municipio en el que se ubique el inmueble;
-
-IV. Que el precio del lote o vivienda se determine en base al dictamen valuatorio expedido por el Instituto, por los Ayuntamientos o Consejos Municipales o en su caso por una Institución de Crédito;
-
-V. El Instituto instrumentará un Sistema de Investigación Social, por el cual se determine que el beneficiario del lote o vivienda reúna el perfil establecido por esta Ley; y
-
-VI. En ningún caso, podrá enajenarse más de un lote o vivienda a cada jefe o sostén de familia.
-
-El instituto o las Dependencias y entidades municipales, publicarán los listados de las personas beneficiadas de las enajenaciones a que se refiere este artículo, a través de los medios de difusión de los lugares donde se lleven a cabo las acciones.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
 
 ###### Artículo 261.
 
-Los contratos que se otorguen en las enajenaciones de viviendas de interés social y de lotes de urbanización progresiva, provenientes de bienes del dominio privado del Estado o de los municipios, que realice el Instituto serán los instrumentos que acrediten la titularidad de derechos de propiedad.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE VIVIENDA PARA EL ESTADO DE TABASCO, P.O. 28 DE SEPTIEMBRE DE 2011)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+
+> <small>(DEROGADA POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE VIVIENDA PARA EL ESTADO DE TABASCO, P.O. 28 DE SEPTIEMBRE DE 2011)</small>
 
 #### Sección Tercera. Del Consejo Estatal de Vivienda
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+
 ###### Artículo 262.
 
-El Consejo Estatal de Vivienda será la instancia de consulta y asesoría del Ejecutivo Estatal, que tendrá por objeto proponer medidas para la planeación, formulación, instrumentación, ejecución y seguimiento de la Política Estatal de Vivienda.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE VIVIENDA PARA EL ESTADO DE TABASCO, P.O. 28 DE SEPTIEMBRE DE 2011)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
 
 ###### Artículo 263.
 
-Para el cumplimiento de su objeto, el Consejo Estatal de Vivienda tendrá las siguientes funciones:
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE VIVIENDA PARA EL ESTADO DE TABASCO, P.O. 28 DE SEPTIEMBRE DE 2011)
 
-I. Conocer, discutir y formular propuestas respecto de las políticas de vivienda contenidas en los Programas Nacional y Estatal de Vivienda y en los programas que de éste se deriven, y emitir opiniones sobre su cumplimiento;
-
-II. Proponer los cambios estructurales necesarios en el sector vivienda, de conformidad con los análisis que se realicen en la materia;
-
-III. Proponer criterios para la planeación y ejecución de las políticas y programas de vivienda en los ámbitos estatal y municipal;
-
-IV. Proponer esquemas generales de organización para la eficaz atención, coordinación y vinculación de las actividades de vivienda en los diferentes sectores de la Administración Pública Estatal, los municipios, y con los diversos sectores productivos del país;
-
-V. Emitir los lineamientos para su operación y funcionamiento, y
-
-VI. Aprobar la creación de comités y grupos de trabajo para la atención de temas específicos y emitir los lineamientos para su operación.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
 
 ###### Artículo 264.
 
-El Ejecutivo Estatal determinará la forma de integración del Consejo Estatal de Vivienda, atendiendo principios de pluralidad y equidad, considerando la representatividad de los sectores público, social y privado. El Consejo sesionará de manera ordinaria cuando menos una vez por semestre, y de manera extraordinaria cuando así se requiera.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE VIVIENDA PARA EL ESTADO DE TABASCO, P.O. 28 DE SEPTIEMBRE DE 2011)
 
 #### Sección Cuarta. De las normas y tecnologías para la vivienda
 
@@ -3041,9 +2917,17 @@ Las normas de tecnología para la construcción de viviendas, deberán considera
 
 I. Sistemas de edificación y tecnologías integradas a las características de cada región o localidad considerando el uso de materiales regionales que permitan impulsar la economía y por otra parte respetar el patrón existente de arquitectura en zonas de patrimonio cultural e histórico;
 
-II. La calidad y tipo de los materiales, productos, componentes, elementos y procedimientos de construcción de las viviendas acordes a las exigencias de la demanda; y
+> <small>(REFORMADA, P.O. 28 DE SEPTIEMBRE DE 2011)</small>
 
-III. La utilización de ecotécnias y de ingeniería ambiental aplicable a la vivienda, entre otros aspectos deberá considerar la racionalización del uso del agua y sus sistemas de tratamiento y reutilización, así como el empleo de materiales para la construcción.
+II. La calidad y tipo de los materiales, productos, componentes, elementos y procedimientos de construcción de las viviendas acordes a las exigencias de la demanda;
+
+> <small>(REFORMADA, P.O. 28 DE SEPTIEMBRE DE 2011)</small>
+
+III. La utilización de ecotécnias y de ingeniería ambiental aplicable a la vivienda, entre otros aspectos deberá considerar la racionalización del uso del agua y sus sistemas de tratamiento y reutilización, así como el empleo de materiales para la construcción, y
+
+> <small>(ADICIONADA, P.O. 28 DE SEPTIEMBRE DE 2011)</small>
+
+IV. El uso de palafitos, tratándose de construcciones ubicadas en zonas cercanas a cuerpos de agua, o en zonas urbanas o rurales vulnerables a inundaciones, previo estudio de factibilidad del uso de suelo para este tipo de construcción.
 
 ###### Artículo 269.
 
@@ -3660,3 +3544,27 @@ El presente Decreto entrará en vigor al día siguiente de su publicación.
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas las disposiciones jurídicas que se opongan al presente Decreto.
+
+P.O. 28 DE SEPTIEMBRE DE 2011.
+
+DECRETO No. 120, POR EL QUE SE DEROGAN LAS SECCIONES PRIMERA, SEGUNDA Y TERCERA DEL CAPITULO XIX DE LA LEY DE ORDENAMIENTO SUSTENTABLE DEL TERRITORIO DEL ESTADO DE TABASCO, Y LOS ARTICULOS 242, 243, 244, 245, 246, 247, 248, 249, 250, 251, 252, 253, 254, 255, 256, 257, 258, 259, 260, 261, 262, 263 Y 264 QUE LAS CONFORMAN, RELATIVOS AL SISTEMA ESTATAL DE VIVIENDA, EL INSTITUTO DE VIVIENDA DEL ESTADO Y EL CONSEJO ESTATAL DE VIVIENDA.
+
+PRIMERO. La presente Ley entrará en vigor a partir de los treinta días siguientes de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que contravengan las disposiciones de la presente Ley.
+
+TERCERO. Se derogan las Secciones Primera, Segunda y Tercera del Capítulo XIX de la Ley de Ordenamiento Sustentable del Territorio del Estado de Tabasco, y los artículos 242, 243, 244, 245, 246, 247, 248, 249, 250, 251, 252, 253, 254, 255, 256, 257, 258, 259, 260, 261, 262, 263 y 264 que las conforman, relativos al Sistema Estatal de Vivienda, El Instituto de Vivienda del Estado y el Consejo Estatal de Vivienda.
+
+CUARTO. El Ejecutivo del Estado, deberá expedir el Reglamento de la presente Ley en un plazo no mayor a ciento ochenta días hábiles contados a partir de la entrada en vigor de la presente Ley.
+
+QUINTO. En tanto se emite el Reglamento de la presente Ley, se aplicará en lo que no contravenga las disposiciones previstas en el Reglamento de la Ley de Ordenamiento Sustentable del Territorio del Estado de Tabasco, en materia de vivienda.
+
+SEXTO. El INVITAB, deberá formular el Programa Sectorial de Vivienda, en un plazo no mayor a un año, contados a partir de la entrada en vigor del presente ordenamiento.
+
+P.O. 28 DE SEPTIEMBRE DE 2011.
+
+DECRETO No. 127, POR EL QUE SE REFORMAN LAS FRACCIONES II Y III DEL ARTICULO 268, Y LA FRACCION V DEL NUMERAL 183; Y SE ADICIONAN UN PARRAFO SEGUNDO A LA FRACCION IV Y A LA V DEL NUMERAL 183, Y UNA FRACCION IV AL ARTICULO 268 DE LA LEY DE ORDENAMIENTO SUSTENTABLE DEL TERRITORIO DEL ESTADO DE TABASCO.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan a este Decreto.
