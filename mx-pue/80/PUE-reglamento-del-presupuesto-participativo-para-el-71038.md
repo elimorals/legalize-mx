@@ -4,7 +4,7 @@ identifier: "PUE-reglamento-del-presupuesto-participativo-para-el-71038"
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-10-30"
-last_updated: "2009-10-30"
+last_updated: "2011-09-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=71038&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 REGLAMENTO DEL PRESUPUESTO PARTICIPATIVO PARA EL AYUNTAMIENTO DEL MUNICIPIO DE PUEBLA DEL ESTADO DE PUEBLA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE SEPTIEMBRE DE 2011.
 
 Reglamento publicado en la Quinta Sección del Periódico Oficial del Estado de Puebla, el viernes 30 de octubre de 2009.
 
@@ -53,47 +53,75 @@ REGLAMENTO DEL PRESUPUESTO PARTICIPATIVO PARA EL AYUNTAMIENTO DEL MUNICIPIO DE P
 
 El presente Reglamento es de orden público y tiene por objeto establecer los criterios y mecanismos para la operación del Presupuesto Participativo en el Municipio de Puebla.
 
+> <small>(ADICIONADO, P.O. 28 DE SEPTIEMBRE DE 2011)</small>
+
+Toda referencia, incluyendo cargos y puestos en este Reglamento al género masculino lo es también para el género femenino cuando de su texto y contexto no se establezca que es expresamente para uno u otro género.
+
+> <small>(REFORMADO, P.O. 28 DE SEPTIEMBRE DE 2011)</small>
+
 ###### Artículo 2.
 
-El Presupuesto Participativo, es un instrumento de política social, orientado a servir a los intereses de la sociedad, debiendo atender en todo momento a la consecución de los fines y objetivos sociales, culturales y económicos, contenidos en las leyes vigentes y con base en el principio de la participación democrática de la sociedad. En el Presupuesto Participativo se incluirán los proyectos priorizados democráticamente; una vez que éstos hayan cumplido con los criterios establecidos en el presente ordenamiento para determinar su viabilidad.
+El Presupuesto Participativo es un instrumento de política social, tendiente a lograr la consecución de los fines y objetivos sociales, culturales y económicos contenidos en las leyes vigentes y con base en el principio de la participación democrática de la sociedad.
+
+En el Presupuesto Participativo se incluirán los proyectos priorizados democráticamente, una vez que éstos hayan cumplido con los criterios establecidos en el presente ordenamiento para determinar su viabilidad.
+
+> <small>(REFORMADO, P.O. 28 DE SEPTIEMBRE DE 2011)</small>
 
 ###### Artículo 3.
 
-En el Presupuesto Participativo se aplica un sistema de formulación, seguimiento, control y ejecución del presupuesto asignado para este esquema, mediante el cual la población instrumenta dentro del marco institucional establecido por el Ayuntamiento.
+Para la correcta aplicación del Presupuesto Participativo se deberá operar un sistema de formulación, seguimiento, control y ejecución del presupuesto asignado, mediante el cual la población elegirá los proyectos de obra y/o acciones prioritarias con fundamento en el marco normativo aplicable.
 
 ###### Artículo 4.
 
 Para los efectos de este Reglamento se entenderá por:
 
-I. Asamblea de Apertura.- A la sesión en la que se presentarán los objetivos del Presupuesto Participativo y se elegirán a los delegados territoriales entre los vecinos de aquellas colonias pertenecientes a las Juntas Auxiliares consideradas para participar;
+> <small>(REFORMADA, P.O. 28 DE SEPTIEMBRE DE 2011)</small>
 
-II. Asamblea Plenaria.- Reunión del Consejo de Presupuesto Participativo;
+I. Asamblea de Apertura.- La Sesión en la que se presentarán los objetivos del Presupuesto Participativo y se elegirá a los Delegados Territoriales entre los vecinos de aquellas colonias consideradas para participar;
 
-III. Asamblea Territorial.- A las sesiones de trabajo entre los vecinos de las colonias, delegados territoriales electos y representantes del gobierno municipal y de las Juntas Auxiliares;
+> <small>(REFORMADA, P.O. 28 DE SEPTIEMBRE DE 2011)</small>
+
+II. Asamblea Plenaria.- Reunión del Consejo Técnico del Presupuesto Participativo;
+
+> <small>(REFORMADA, P.O. 28 DE SEPTIEMBRE DE 2011)</small>
+
+III. Asamblea Territorial.- Las sesiones de trabajo entre los vecinos de las colonias, Delegados Territoriales electos y representantes del Gobierno Municipal;
 
 IV. Ayuntamiento.- Al Honorable Ayuntamiento del Municipio de Puebla;
 
 V. Cogestión.- La realización de tareas públicas de manera conjunta entre gobierno y sociedad;
 
-VI. Contraloría.- A la Contraloría del Municipio de Puebla;
+> <small>(REFORMADA, P.O. 28 DE SEPTIEMBRE DE 2011)</small>
 
-VII. Consejo.- Al Consejo de Presupuesto Participativo del Ayuntamiento del Municipio de Puebla;
+VI. Contraloría.- La Contraloría Municipal del Honorable Ayuntamiento de Puebla;
+
+> <small>(REFORMADA, P.O. 28 DE SEPTIEMBRE DE 2011)</small>
+
+VII. Consejo.- El Consejo Técnico del Presupuesto Participativo del H. Ayuntamiento de Puebla;
 
 VIII. Consejo de Participación Ciudadana.- Instancia plural de participación ciudadana, que funge como órgano de promoción y gestión social, auxiliar del Ayuntamiento, con base en lo dispuesto por el artículo 189 de la Ley Orgánica Municipal;
 
 IX. Consejo de Planeación Municipal (COPLAMUN).- El Consejo de Planeación Municipal es un órgano de participación social y consulta, auxiliar del Ayuntamiento en las funciones relativas a la planeación, el cual cuenta con la intervención de los sectores público, social y privado en los términos establecidos por el artículo 116 de la Ley Orgánica Municipal;
 
-X. Convocatoria.- Documento a través del cual el H. Ayuntamiento invita a la población, sectores y organismos de la sociedad civil a participar en el proceso del Presupuesto Participativo;
+> <small>(REFORMADA, P.O. 28 DE SEPTIEMBRE DE 2011)</small>
+
+X. Convocatoria.- Documento a través del cual el Ayuntamiento invita a la población, asociaciones y organismos de la sociedad civil a participar del Presupuesto Participativo;
 
 XI. COREMUN.- El Código Reglamentario para el Municipio de Puebla;
 
 XII. Delegado Territorial.- El representante de la sociedad organizada por territorio, legalmente acreditado y que cumpla con los requisitos y disposiciones contempladas en este Reglamento;
 
-XIII. Instancia Gubernamental.- Dependencias de la administración pública centralizada y descentralizada del Ayuntamiento del Municipio de Puebla, que intervienen en el Presupuesto Participativo;
+> <small>(REFORMADA, P.O. 28 DE SEPTIEMBRE DE 2011)</small>
 
-XIV. Instancia Social.- Población agrupada por territorio;
+XIII. Expediente Técnico.- Compilación de documentos relativos al análisis, liberación, aplicación y comprobación de los recursos para la ejecución de obras y/o acciones en el marco del Presupuesto Participativo;
 
-XV. Junta Auxiliar.- División geográfica interna que determina el Municipio según lo dispuesto en el Capítulo XVII de la Ley Orgánica Municipal;
+> <small>(REFORMADA, P.O. 28 DE SEPTIEMBRE DE 2011)</small>
+
+XIV. Instancia Gubernamental.- Dependencias y entidades de la Administración Pública Municipal, centralizada y descentralizada, que intervienen en el Presupuesto Participativo;
+
+> <small>(REFORMADA, P.O. 28 DE SEPTIEMBRE DE 2011)</small>
+
+XV. Junta Auxiliar.- División geográfica interna que determina el Municipio según lo dispuesto en el Capítulo XXVII de la Ley Orgánica Municipal;
 
 XVI. Organismo de la Sociedad Civil.- Es toda entidad integrada por personas físicas o jurídicas de carácter privado o social;
 
@@ -101,17 +129,27 @@ XVII. Población.- Toda persona que reside o está domiciliada en el territorio 
 
 XVIII. Polígono de Pobreza.- Ubicación geográfica de la zona con pobreza patrimonial urbana factible de atención;
 
-XIX. Presidente.- Presidente(a) Constitucional del Municipio de Puebla;
+> <small>(REFORMADA, P.O. 28 DE SEPTIEMBRE DE 2011)</small>
+
+XIX. Presidente.- El Presidente del Consejo Técnico del Presupuesto Participativo;
 
 XX. Reglamento.- Al presente Reglamento del Presupuesto Participativo del Honorable Ayuntamiento del Municipio de Puebla;
 
 XXI. Sector Territorial.- Circunscripción territorial en la que se aplicará el Presupuesto Participativo;
 
-XXII. Talleres de Trabajo.- A las sesiones de capacitación dirigidas a los delegados territoriales y vecinos de las colonias pertenecientes a las Juntas Auxiliares;
+> <small>(REFORMADA, P.O. 28 DE SEPTIEMBRE DE 2011)</small>
 
-XXIII. Tesorería.- La Tesorería del Municipio de Puebla; y
+XXII. Talleres de Trabajo.- Las sesiones de capacitación dirigidas a los Delegados Territoriales y vecinos de las colonias a beneficiarse;
+
+> <small>(REFORMADA, P.O. 28 DE SEPTIEMBRE DE 2011)</small>
+
+XXIII. Tesorería.- La Tesorería Municipal del H. Ayuntamiento de Puebla;
 
 XXIV. Zonas de Atención Prioritaria.- Zonas que representan las áreas con mayor rezago en el Municipio de Puebla.
+
+> <small>(ADICIONADA, P.O. 28 DE SEPTIEMBRE DE 2011)</small>
+
+XXV. Dictamen técnico.- Conjunto de acciones prioritarias, evaluadas técnicamente, que se someten a consideración del Pleno del Consejo Técnico.
 
 ###### Artículo 5.
 
@@ -129,13 +167,17 @@ V. Mejorar las políticas sociales de superación de la exclusión social, desig
 
 ### CAPÍTULO II. DEL ÁMBITO DE APLICACIÓN Y CRITERIOS PARA LA PRIORIZACIÓN DE ACCIONES
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE SEPTIEMBRE DE 2011)</small>
+
 ###### Artículo 6.
 
-El Presupuesto Participativo se ejercerá en el Municipio de Puebla, en el ámbito territorial de tres de aquellas colonias que presenten mayor rezago social y que además cumplan las siguientes condiciones:
+El Presupuesto Participativo se ejercerá en el Municipio de Puebla, en el ámbito territorial de aquellos barrios, colonias y Juntas Auxiliares que presenten mayor rezago social y que además cumplan las siguientes condiciones:
 
-I. Pertenecer a una de las diecisiete Juntas Auxiliares del Municipio;
+I. (DEROGADA, P.O. 28 DE SEPTIEMBRE DE 2011)
 
-II. Ubicarse en alguno de los cincuenta y cuatro polígonos de pobreza, definidos por la Secretaría de Desarrollo Social;
+> <small>(REFORMADA, P.O. 28 DE SEPTIEMBRE DE 2011)</small>
+
+II. Ubicarse en alguno de los polígonos de pobreza definidos por la Secretaría de Desarrollo Social Federal;
 
 III. Estar contemplada dentro de las Zonas de Atención Prioritaria (ZAP);
 
@@ -143,11 +185,15 @@ IV. Tener antecedentes de una probada participación de sus habitantes; y
 
 V. No haber sido ampliamente beneficiada por los programas sociales municipales.
 
-Sólo se financiarán aquellos proyectos que permita (sic) cubrir el monto estipulado en el artículo 12 del presente Reglamento, en el que se precisa que el recurso destinado al Presupuesto Participativo no podrá ser menor al 5% del total del Fondo para la Infraestructura Social Municipal (FISM).
+> <small>(REFORMADO, P.O. 28 DE SEPTIEMBRE DE 2011)</small>
+
+Sólo se financiarán aquellos proyectos que permita cubrir el monto estipulado en el artículo 12 del presente Reglamento.
+
+> <small>(REFORMADO, P.O. 28 DE SEPTIEMBRE DE 2011)</small>
 
 ###### Artículo 7.
 
-La participación de la población podrá ser de manera directa o a través de asociaciones de vecinos y/o mesas directivas que pertenezcan a aquellas colonias pertenecientes a las Juntas Auxiliares, consideradas para participar en el esquema del Presupuesto Participativo. Se privilegiará la participación de las asociaciones vecinales, sobre las mesas directivas.
+La participación de la población podrá ser de manera directa o a través de asociaciones de vecinos y/o mesas directivas que pertenezcan a aquellos barrios, colonias y Juntas Auxiliares consideradas para participar del Presupuesto Participativo.
 
 ###### Artículo 8.
 
@@ -157,9 +203,11 @@ Los criterios para la priorización de acciones constituyen un mecanismo a trav�
 
 Antes de iniciar la priorización de acciones, se debe contar con un diagnóstico situacional en el que se identifiquen los problemas y necesidades más importantes de las zonas en las que se implementará el Presupuesto Participativo.
 
+> <small>(REFORMADO, P.O. 28 DE SEPTIEMBRE DE 2011)</small>
+
 ###### Artículo 10.
 
-Se seleccionarán tres prioridades por cada sector territorial, mismas que serán evaluadas técnicamente y se integrarán al dictamen técnico para ser discutido y en su caso, aprobado por el Consejo del Presupuesto Participativo.
+Se seleccionarán acciones prioritarias por cada sector territorial, mismas que serán evaluadas técnicamente y se integrarán al Dictamen Técnico para ser discutido y en su caso, aprobado por el Consejo. El Presupuesto por Sector Territorial tendrá un mínimo de un millón quinientos mil y un máximo de dos millones quinientos mil pesos.
 
 ###### Artículo 11.
 
@@ -213,19 +261,25 @@ Al monto presupuestado se podrán sumar los ingresos que se deriven de acuerdos 
 
 Los fondos y recursos destinados al Presupuesto Participativo son prioritarios y de interés público, por lo cual serán objeto de seguimiento y evaluación.
 
+> <small>(REFORMADO, P.O. 28 DE SEPTIEMBRE DE 2011)</small>
+
 ###### Artículo 16.
 
-La integración del expediente administrativo respecto de la priorización de acciones estará a cargo de la instancia gubernamental ejecutora, quien turnará a la Tesorería Municipal la solicitud de suficiencia presupuestal y observará en todo momento lo dispuesto por la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público Estatal y Municipal del Estado de Puebla, la Ley de Obra Pública y Servicios Relacionados con la Misma para el Estado de Puebla, así como la Normatividad Presupuestal vigente en el Municipio de Puebla.
+La integración del Expediente Técnico respecto de la priorización de acciones estará a cargo de la instancia gubernamental ejecutora, quien turnará a la Tesorería la solicitud de suficiencia presupuestal y observará en todo momento lo dispuesto por la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público Estatal y Municipal del Estado de Puebla, la Ley de Obra Pública y Servicios Relacionados con la Misma para el Estado de Puebla, así como la Normatividad Presupuestal vigente en el Municipio de Puebla.
+
+> <small>(REFORMADO, P.O. 28 DE SEPTIEMBRE DE 2011)</small>
 
 ###### Artículo 17.
 
-Los recursos financieros, materiales y humanos requeridos para la operación del Presupuesto Participativo, serán solicitados por la Secretaría Ejecutiva del Comité Técnico del Consejo a la instancia gubernamental responsable de proveer de bienes y servicios al Honorable Ayuntamiento, conforme a la Normatividad Presupuestal vigente.
+Los recursos financieros, materiales y humanos requeridos para la operación del Presupuesto Participativo, serán solicitados por la Secretaría Técnica del Consejo Técnico del Presupuesto Participativo, a la instancia gubernamental responsable de proveer de bienes y servicios al Ayuntamiento conforme a la Normatividad Presupuestal vigente.
 
 ## TÍTULO II. DE LA PARTICIPACIÓN CIUDADANA
 
+> <small>(REFORMADO, P.O. 28 DE SEPTIEMBRE DE 2011)</small>
+
 ###### Artículo 18.
 
-En el ámbito territorial, podrán participar en el Presupuesto Participativo todos los vecinos integrantes de aquellas colonias pertenecientes a las Juntas Auxiliares consideradas para participar en el esquema del Presupuesto Participativo, según lo establecido en el artículo 6. Asimismo, deberán estar domiciliados en estas colonias y contribuir con el pago de impuestos.
+En el ámbito territorial, podrán participar todos los vecinos de aquellos barrios, colonias y Juntas Auxiliares consideradas en el esquema del Presupuesto Participativo, según lo establecido en el artículo 6 del presente Reglamento. Asimismo, deberán estar domiciliados en el sector territorial correspondiente y contribuir con sus obligaciones fiscales.
 
 ###### Artículo 19.
 
@@ -267,9 +321,11 @@ VI. Avalar con su firma el Acta de la Asamblea; y
 
 VII. Solicitar y recibir información actualizada y oportuna.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE SEPTIEMBRE DE 2011)</small>
+
 ###### Artículo 22.
 
-Los delegados tendrán las siguientes obligaciones y atribuciones:
+Los Delegados Territoriales tendrán las siguientes obligaciones y atribuciones:
 
 I. Obligaciones:
 
@@ -285,7 +341,9 @@ II. Atribuciones:
 
 a. Desempeñar su cargo observando los principios del Presupuesto Participativo;
 
-b. Convocar y organizar a los vecinos del sector territorial que representa, para cumplir con las distintas etapas del procedimiento del Presupuesto Participativo; y
+> <small>(REFORMADO, P.O. 28 DE SEPTIEMBRE DE 2011)</small>
+
+b. Convocar y organizar a los vecinos del sector territorial que representa, a fin de completar las diferentes etapas para la ejecución del Presupuesto Participativo; y
 
 c. Solicitar e integrar las demandas ciudadanas de su sector territorial; (sic)
 
@@ -301,55 +359,83 @@ III. Desarrollo Urbano; y
 
 IV. Seguridad Pública.
 
-## TÍTULO III. DEL CONSEJO DEL PRESUPUESTO PARTICIPATIVO DEL AYUNTAMIENTO DEL MUNICIPIO DE PUEBLA
+> <small>(REFORMADA SU DENOMINACION, P.O. 28 DE SEPTIEMBRE DE 2011)</small>
+
+## TÍTULO III. DE LAS ATRIBUCIONES DEL CONSEJO TÉCNICO DEL PRESUPUESTO PARTICIPATIVO DEL H. AYUNTAMIENTO DEL MUNICIPIO DE PUEBLA
 
 ### CAPÍTULO I. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, P.O. 28 DE SEPTIEMBRE DE 2011)</small>
+
 ###### Artículo 24.
 
-El Consejo del Presupuesto Participativo del Ayuntamiento del Municipio de Puebla, será el órgano de cogestión entre la ciudadanía y la Administración Municipal, para formalizar las propuestas emanadas de la población ante el Honorable Ayuntamiento de Puebla.
+El Consejo Técnico del Presupuesto Participativo del H. Ayuntamiento del Municipio de Puebla, será el órgano de cogestión entre la ciudadanía y la Administración Municipal para formalizar las propuestas y proyectos emanados de la población y presentados ante el Ayuntamiento. Asimismo será un órgano de asesoría que fungirá como un ente de análisis, discusión y elección de acciones prioritarias surgidas de las demandas ciudadanas recibidas bajo el esquema del Presupuesto Participativo.
 
 ###### Artículo 25.
 
 La instalación formal del Consejo, se llevará a cabo una vez concluida la primera etapa del Presupuesto Participativo.
 
+> <small>(REFORMADO, P.O. 28 DE SEPTIEMBRE DE 2011)</small>
+
 ###### Artículo 26.
 
-El Consejo del Presupuesto Participativo, estará integrado por:
+El Consejo Técnico del Presupuesto Participativo estará integrado por:
 
-I. Un Presidente Honorario, que será el Presidente Municipal;
+I. Un Presidente, que será el Secretario de Desarrollo Social y Participación Ciudadana;
 
-II. El Regidor Presidente de la Comisión de Patrimonio y Hacienda Municipal del Honorable Cabildo, en calidad de vocal;
+II. Un Secretario Técnico, que será el Director de Política Social y Economía Social de la Secretaría de Desarrollo Social y Participación Ciudadana;
 
-III. Una Instancia Gubernamental a la que se le denominará: Comité Técnico representada por un Secretario Ejecutivo que recaerá en la figura del titular de la Coordinación General de Políticas Públicas e Innovación Gubernamental; y
+III. Un Vocal, que será el Jefe de Departamento de Enlace con Entidades Sectoriales, adscrito a la Dirección de Política Social y Economía Social de la Secretaría de Desarrollo Social y Participación Ciudadana;
 
-IV. Las siguientes instancias sociales:
+IV. El Secretario de Desarrollo Urbano y Obras Públicas o su representante;
 
-a) Tres representantes de las Universidades del Estado de Puebla, con mayor conocimiento sobre el tema tratado; y
+V. El Secretario de Medio Ambiente y Servicios Públicos o su representante;
 
-b) Los delegados territoriales de las colonias consideradas para participar en el esquema del Presupuesto Participativo.
+VI. El Tesorero Municipal o su representante;
+
+VII. El Contralor Municipal o su representante;
+
+VIII. El Regidor Presidente de la Comisión de Participación Ciudadana;
+
+IX. El Regidor Presidente de la Comisión de Desarrollo Social;
+
+X. El Regidor Presidente de la Comisión de Patrimonio y Hacienda Municipal; y
+
+XI. Las siguientes instancias sociales:
+
+a) Tres representantes de las Universidades del Estado de Puebla con mayor conocimiento sobre el tema tratado; y
+
+b) Los Delegados Territoriales de las colonias consideradas para participar en el esquema del presupuesto participativo.
 
 ###### Artículo 27.
 
 El desempeño del cargo de miembro del Consejo será honorífico, por Io que sus miembros no percibirán emolumento alguno.
 
+> <small>(REFORMADO, P.O. 28 DE SEPTIEMBRE DE 2011)</small>
+
 ###### Artículo 28.
 
-Los Regidores del Honorable Cabildo y los titulares de las dependencias y entidades gubernamentales, participarán en el Consejo del Presupuesto Participativo con voz, pero sin voto.
+Los Regidores del Honorable Cabildo y los titulares de las Dependencias y Entidades gubernamentales que no formen parte del Consejo, podrán participar dentro del mismo con voz pero sin voto cuando se refiera a temas relacionados con la Comisión o Dependencia a la que pertenezcan.
+
+> <small>(REFORMADO, P.O. 28 DE SEPTIEMBRE DE 2011)</small>
 
 ###### Artículo 29.
 
-Los delegados territoriales que integren el Consejo, durarán en su cargo, el plazo que se establezca en la disposición administrativa aplicable, las ausencias solo serán justificadas por causas de fuerza mayor y/o será cubierta por un suplente acreditado en el registro de delegados.
+Los Delegados Territoriales que integren el Consejo durarán en su cargo hasta la terminación y entrega de las obras o acciones para las que fueron elegidos como representantes de la sociedad. Las ausencias sólo serán justificadas por causas de fuerza mayor y/o será cubierta por un suplente acreditado en el registro de Delegados.
+
+> <small>(REFORMADO, P.O. 28 DE SEPTIEMBRE DE 2011)</small>
 
 ###### Artículo 30.
 
-La renovación del Consejo se llevará a cabo en el lugar, día y hora, de acuerdo a la convocatoria que emita el Presidente Municipal en coordinación con el Consejo del Presupuesto Participativo saliente.
+La instauración del Consejo Técnico del Presupuesto Participativo se llevará a cabo en el día, hora y lugar establecido en la Convocatoria que emita el Secretario de Desarrollo Social y Participación Ciudadana.
 
 ### CAPÍTULO II. DE LA ELECCIÓN
 
+> <small>(REFORMADO, P.O. 28 DE SEPTIEMBRE DE 2011)</small>
+
 ###### Artículo 31.
 
-Para ser miembro del Consejo del Presupuesto Participativo del Ayuntamiento del Municipio de Puebla, se requiere:
+Para ser miembro del Consejo se requiere:
 
 I. Ser ciudadano mexicano en pleno ejercicio de sus derechos;
 
@@ -357,9 +443,11 @@ II. Ser vecino del Municipio de Puebla y haber residido en él durante los últi
 
 III. Gozar de buena reputación y honorabilidad, no tener antecedentes penales;
 
-IV. No pertenecer, no desempeñar o haber desempeñado cargos de dirección en algún partido o agrupación política, durante los tres años anteriores a la fecha de su elección;
+IV. (DEROGADA, P.O. 28 DE SEPTIEMBRE DE 2011)
 
-V. En el caso de delegado territorial, deberá acreditar la representación con el acta de la Asamblea de Apertura, celebrada en la colonia perteneciente a la Junta Auxiliar que corresponda y;
+> <small>(REFORMADA, P.O. 28 DE SEPTIEMBRE DE 2011)</small>
+
+V. En el caso de Delegado Territorial, no pertenecer, no desempeñar o haber desempeñado cargos de dirección en algún partido o agrupación política, durante los tres años anteriores a la fecha de su elección; debiendo acreditar la representación con el Acta de la Asamblea de Apertura celebrada en la colonia que corresponda; y
 
 VI. En el caso de los representantes de las universidades, el representante será propuesto directamente por el Rector, homólogo o máximo órgano de la universidad.
 
@@ -371,21 +459,55 @@ El Consejo tendrá las siguientes atribuciones:
 
 l. Promover la participación y colaboración de los miembros del Consejo y de la población en general;
 
-II. Dar seguimiento a las actividades que desarrolle el Comité Técnico;
+> <small>(REFORMADA, P.O. 28 DE SEPTIEMBRE DE 2011)</small>
 
-III. Una vez constituido, convocar al desarrollo de las Asambleas Territoriales y/o temáticas en las que se desarrollarán los talleres de trabajo correspondientes;
+II. Apoyar la organización y ejecución de las Asambleas y/o talleres de trabajo;
 
-IV. Establecer un orden para la ejecución de los proyectos declarados viables, bajo las normas técnicas y procedimientos establecidos conforme a la opinión del Comité Técnico y los criterios establecidos para tal efecto;
+> <small>(REFORMADA, P.O. 28 DE SEPTIEMBRE DE 2011)</small>
 
-V. Establecer comunicación y coadyuvar con las instancias gubernamentales necesarias, para el éxito en la implementación del Presupuesto Participativo; y
+III. Recabar las propuestas ciudadanas presentadas por los Delegados Territoriales para su análisis y discusión;
 
-VI. Solicitar al Comité Técnico la integración de los informes correspondientes para la evaluación del Presupuesto Participativo y fomentar la difusión de los logros obtenidos.
+> <small>(REFORMADA, P.O. 28 DE SEPTIEMBRE DE 2011)</small>
+
+IV. Analizar y discutir el Dictamen Técnico respecto de la priorización de acciones propuestas por los Delegados Territoriales;
+
+> <small>(REFORMADA, P.O. 28 DE SEPTIEMBRE DE 2011)</small>
+
+V. Analizar y discutir la matriz presupuestaria de las acciones priorizadas;
+
+> <small>(REFORMADA, P.O. 28 DE SEPTIEMBRE DE 2011)</small>
+
+VI. Solicitar asistencia técnica de asesores externos y especialistas en temas abordados en el seno del mismo;
+
+> <small>(ADICIONADA, P.O. 28 DE SEPTIEMBRE DE 2011)</small>
+
+VII. Una vez constituido, convocar al desarrollo de las asambleas territoriales y/o temáticas en las que se desarrollarán los talleres de trabajo correspondientes;
+
+> <small>(ADICIONADA, P.O. 28 DE SEPTIEMBRE DE 2011)</small>
+
+VIII. Establecer un orden para la ejecución de los proyectos declarados viables bajo las normas técnicas y procedimientos establecidos;
+
+> <small>(ADICIONADA, P.O. 28 DE SEPTIEMBRE DE 2011)</small>
+
+IX. Establecer comunicación y coadyuvar con las instancias gubernamentales, a fin de lograr el éxito en la implementación del Presupuesto Participativo;
+
+> <small>(ADICIONADA, P.O. 28 DE SEPTIEMBRE DE 2011)</small>
+
+X. Solicitar al Secretario Técnico la integración de los informes correspondientes para la evaluación del Presupuesto Participativo y fomentar la difusión de los logros obtenidos; y
+
+> <small>(ADICIONADA, P.O. 28 DE SEPTIEMBRE DE 2011)</small>
+
+XI. Analizar y en su caso, aprobar los lineamientos para la operación del Presupuesto Participativo.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE SEPTIEMBRE DE 2011)</small>
 
 ###### Artículo 33.
 
-El Presidente Honorario tendrá las siguientes atribuciones:
+El Presidente del Consejo Técnico tendrá las siguientes atribuciones:
 
-I. Una vez constituido el Consejo, convocar en coordinación con el mismo, a la población mayor de edad al desarrollo de los procesos de Presupuesto Participativo, conforme a las reglas establecidas en el Reglamento;
+> <small>(REFORMADA, P.O. 28 DE SEPTIEMBRE DE 2011)</small>
+
+I. Convocar a la población mayor de edad al desarrollo de los procesos de Presupuesto Participativo conforme a las Reglas establecidas en el presente Reglamento;
 
 II. Contar con voto de calidad en caso de empate sobre los acuerdos en las plenarias del Consejo;
 
@@ -395,25 +517,51 @@ IV. Informar a la población sobre la gestión y los resultados de la ejecución
 
 V. Gestionar en el ámbito de su competencia, recursos adicionales para el Presupuesto Participativo.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE SEPTIEMBRE DE 2011)</small>
+
 ###### Artículo 34.
 
-El Secretario Ejecutivo del Consejo, tendrá las siguientes atribuciones:
+El Secretario Técnico del Consejo, tendrá las siguientes atribuciones:
 
 I. Contar con voz y voto en las plenarias del Consejo;
 
-II. Representar al Presidente Honorario en caso de ausencias, adquiriendo las responsabilidades que conlleva el cargo;
+> <small>(REFORMADA, P.O. 28 DE SEPTIEMBRE DE 2011)</small>
 
-III. Presentar los proyectos ciudadanos analizados por el Comité Técnico para su discusión, y en su caso, aprobación por el Consejo;
+II. Representar al Presidente en caso de ausencias, adquiriendo las responsabilidades que conlleva el cargo;
 
-IV. Presentar los dictámenes técnicos respecto de la priorización de acciones propuestas; y
+> <small>(REFORMADA, P.O. 28 DE SEPTIEMBRE DE 2011)</small>
 
-V. Las que le confiera la disposición administrativa aplicable.
+III. Coordinar el trabajo de las distintas instancias gubernamentales y sociales para la implementación del Presupuesto Participativo en el Municipio de Puebla;
+
+> <small>(REFORMADA, P.O. 28 DE SEPTIEMBRE DE 2011)</small>
+
+IV. Asesorar y orientar en general a todos los participantes, así como a las autoridades locales del Presupuesto Participativo;
+
+> <small>(REFORMADA, P.O. 28 DE SEPTIEMBRE DE 2011)</small>
+
+V. Presentar ante el pleno del Consejo, los proyectos ciudadanos para ser analizados, discutidos y en su caso aprobados;
+
+> <small>(ADICIONADA, P.O. 28 DE SEPTIEMBRE DE 2011)</small>
+
+VI. Coordinar la integración del Dictamen Técnico respecto de la priorización de acciones propuestas por los Delegados Territoriales, mismo que deberá ser presentado en la Sesión Plenaria del Consejo;
+
+> <small>(ADICIONADA, P.O. 28 DE SEPTIEMBRE DE 2011)</small>
+
+VII. Llevar el archivo documental del Consejo; y
+
+> <small>(ADICIONADA, P.O. 28 DE SEPTIEMBRE DE 2011)</small>
+
+VIII. Las que le confiera la disposición administrativa aplicable.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE SEPTIEMBRE DE 2011)</small>
 
 ###### Artículo 35.
 
-El vocal del Consejo, tendrá las siguientes atribuciones:
+El Vocal del Consejo tendrá las siguientes atribuciones:
 
-l. Contar con voz y voto en las plenarias del Consejo;
+> <small>(REFORMADA, P.O. 28 DE SEPTIEMBRE DE 2011)</small>
+
+I. Contará con voz pero sin voto en las plenarias del Consejo;
 
 II. Convocar a los miembros del Consejo a las sesiones plenarias, ya sean ordinarias o extraordinarias por lo menos con cinco días hábiles de anticipación, dándoles a conocer el lugar, día y hora del evento del que se trate;
 
@@ -427,9 +575,27 @@ VI. Elaborar el acta de acuerdos tomados en las sesiones del Consejo, que conten
 
 VII. Turnar a las instancias gubernamentales ejecutoras, el acta de acuerdos respecto de las obras y acciones a ejecutar;
 
-VIII. Llevar el archivo documental del Consejo; y
+VIII. Llevar el archivo documental del Consejo; y (sic)
 
-IX. Las que le confiera la disposición administrativa aplicable.
+> <small>(REFORMADA, P.O. 28 DE SEPTIEMBRE DE 2011)</small>
+
+IX. Apoyar el desenvolvimiento de las distintas etapas del Presupuesto Participativo;
+
+> <small>(ADICIONADA, P.O. 28 DE SEPTIEMBRE DE 2011)</small>
+
+X. Asesorar y orientar en general a todos los participantes, así como a las autoridades locales del Presupuesto Participativo;
+
+> <small>(ADICIONADA, P.O. 28 DE SEPTIEMBRE DE 2011)</small>
+
+XI. Integrar la matriz presupuestaria de las acciones priorizadas;
+
+> <small>(ADICIONADA, P.O. 28 DE SEPTIEMBRE DE 2011)</small>
+
+XII. Integrar el Dictamen Técnico respecto de la priorización de acciones propuestas por los Delegados Territoriales; y
+
+> <small>(ADICIONADA, P.O. 28 DE SEPTIEMBRE DE 2011)</small>
+
+XIII. Las que le confiera la disposición administrativa aplicable.
 
 ###### Artículo 36.
 
@@ -447,93 +613,53 @@ IV. Las demás que le confiera la disposición administrativa aplicable.
 
 Los representantes de las universidades, tendrán las siguientes atribuciones:
 
-l. Asistir con voz y voto a las sesiones que convoque el Consejo; y
+> <small>(REFORMADA, P.O. 28 DE SEPTIEMBRE DE 2011)</small>
 
-II. Coadyuvar con el Comité Técnico en el análisis y valoración de los proyectos.
+I. Asistir con voz a las sesiones que convoque el Consejo, contando con un Voto Representativo entre las Universidades asistentes; y
 
-### CAPÍTULO IV. DEL COMITÉ TÉCNICO
+> <small>(REFORMADA, P.O. 28 DE SEPTIEMBRE DE 2011)</small>
+
+II. Coadyuvar con el Consejo en el análisis y valoración de los proyectos.
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 28 DE SEPTIEMBRE DE 2011)</small>
+
+### CAPÍTULO IV
 
 ###### Artículo 38.
 
-El Comité Técnico del Consejo del Presupuesto Participativo será un órgano de asesoría, conformado por expertos de diversos temas, que fungirá como un ente de análisis, discusión y elección de acciones prioritarias emanadas de las demandas ciudadanas recibidas bajo el esquema del Presupuesto Participativo.
+(DEROGADO, P.O. 28 DE SEPTIEMBRE DE 2011)
 
 ###### Artículo 39.
 
-El Comité Técnico estará integrado por:
-
-I. Un Secretario Ejecutivo, que recaerá en la figura del Coordinador General de Políticas Públicas e Innovación Gubernamental;
-
-II. Cuatro Vocales:
-
-a. El Tesorero Municipal;
-
-b. El Contralor Municipal;
-
-c. El Secretario de Desarrollo Social Municipal; y
-
-d. El Secretario de Gestión Urbana y Obra Pública para el Desarrollo Sustentable.
-
-III. Representantes de las universidades en su calidad de asesores, cuando los temas lo ameriten; y
-
-IV. Representantes de los órganos mencionados en el artículo 23 del presente Reglamento.
+(DEROGADO, P.O. 28 DE SEPTIEMBRE DE 2011)
 
 ###### Artículo 40.
 
-Los Regidores integrantes del Honorable Cabildo, podrán asistir a las sesiones del Comité Técnico del Consejo del Presupuesto Participativo con voz, pero sin voto, cuando se traten temas relacionados a la Comisión de la que sea integrante.
+(DEROGADO, P.O. 28 DE SEPTIEMBRE DE 2011)
 
 ###### Artículo 41.
 
-El Comité Técnico, tendrá las siguientes atribuciones:
-
-l. Asistir permanentemente a las sesiones del Consejo;
-
-II. Apoyar la organización y ejecución de las asambleas y/o talleres de trabajo;
-
-III. Recabar las propuestas ciudadanas presentadas por los delegados territoriales, para su análisis y discusión;
-
-IV. Integrar el dictamen técnico respecto de la priorización de acciones propuestas por los delegados territoriales;
-
-V. Integrar la matriz presupuestaria de las acciones priorizadas;
-
-VI. Asesorar y orientar en general a todos los participantes, así como a las autoridades locales; y
-
-VII. Solicitar asistencia técnica de asesores externos al Consejo y especialistas en temas abordados en el seno del mismo.
+(DEROGADO, P.O. 28 DE SEPTIEMBRE DE 2011)
 
 ###### Artículo 42.
 
-El Secretario Ejecutivo del Comité Técnico, tendrá las siguientes atribuciones:
-
-I. Coordinar el trabajo de las distintas instancias gubernamentales y sociales para la implementación del Presupuesto Participativo en el Municipio de Puebla;
-
-II. Coordinar la integración del dictamen técnico respecto de la priorización de acciones propuestas por los delegados territoriales, mismo que deberá ser presentado para la sesión plenaria del Consejo;
-
-III. Elaborar el Acta de Acuerdos en las sesiones del Comité Técnico que contendrá la relación de los dictámenes de los proyectos que no fueron aprobados y los aprobados, la matriz presupuestaria de las acciones priorizadas, el tiempo de ejecución, el ámbito de aplicación y las áreas competentes del Ayuntamiento para su ejecución; y
-
-IV. Llevar el archivo documental del Comité Técnico.
+(DEROGADO, P.O. 28 DE SEPTIEMBRE DE 2011)
 
 ###### Artículo 43.
 
-Los Vocales, tendrán las siguientes atribuciones:
-
-I. Asistir a las sesiones del Comité Técnico;
-
-II. Apoyar el desenvolvimiento de las distintas etapas del Presupuesto Participativo; y
-
-III. Participar en el ámbito de su competencia, con el análisis a las propuestas presentadas, para elaborar los dictámenes técnicos.
+(DEROGADO, P.O. 28 DE SEPTIEMBRE DE 2011)
 
 ###### Artículo 44.
 
-Los representantes de las universidades y de los órganos, tendrán las siguientes atribuciones:
-
-I. Asistir a las sesiones que convoque el Comité Técnico; y
-
-II. Coadyuvar con el Comité Técnico en el análisis y valoración de los proyectos.
+(DEROGADO, P.O. 28 DE SEPTIEMBRE DE 2011)
 
 ## TÍTULO IV. DE LAS ETAPAS DEL PRESUPUESTO PARTICIPATIVO
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE SEPTIEMBRE DE 2011)</small>
+
 ###### Artículo 45.
 
-El proceso de Presupuesto Participativo, se divide en las siguientes etapas:
+Las etapas para la ejecución del Presupuesto Participativo son:
 
 l. Primera etapa.- Preparación del proceso, convocatoria pública, registro de participantes y Asamblea de Apertura;
 
@@ -589,15 +715,19 @@ En la Asamblea de Apertura, se contará con un registro de los participantes, qu
 
 En la Asamblea de Apertura, los asistentes deberán elegir a los delegados territoriales de acuerdo a lo estipulado en los artículos 19 y 20. Estos podrán formar parte del Consejo; la inscripción y acreditación de los mismos se hará con base en la disposición administrativa aplicable.
 
+> <small>(REFORMADO, P.O. 28 DE SEPTIEMBRE DE 2011)</small>
+
 ###### Artículo 52.
 
-La integración del Consejo del Presupuesto Participativo, se llevará a cabo una vez que se hayan seleccionado a los delegados territoriales, de conformidad con lo establecido en la disposición administrativa correspondiente.
+La instalación formal del Consejo se llevará a cabo una vez concluida la primera etapa del Presupuesto Participativo.
 
 ### CAPÍTULO II. SEGUNDA ETAPA
 
+> <small>(REFORMADO, P.O. 28 DE SEPTIEMBRE DE 2011)</small>
+
 ###### Artículo 53.
 
-El Consejo del Presupuesto Participativo a través del Presidente Honorario, convocará al desarrollo de la Segunda Asamblea Territorial, misma que se desarrollará bajo el esquema de talleres de trabajo y en los que podrán participar todos los vecinos mayores de edad.
+El Consejo a través del Secretario Técnico, convocará al desarrollo de la Segunda Asamblea Territorial, misma que se desarrollará bajo el esquema de Talleres de Trabajo y en los que podrán participar todos los vecinos mayores de edad.
 
 ###### Artículo 54.
 
@@ -613,21 +743,29 @@ II. Diagnóstico territorial y/o temático (Integrado por la visión regional, l
 
 III. Los objetivos estratégicos concertados, selección de prioridades y propuesta de acciones; y
 
-IV. Acta de la asamblea.
+> <small>(REFORMADA, P.O. 28 DE SEPTIEMBRE DE 2011)</small>
+
+IV. Redacción y firma del Acta de Asamblea.
+
+> <small>(REFORMADO, P.O. 28 DE SEPTIEMBRE DE 2011)</small>
 
 ###### Artículo 56.
 
-El diagnóstico y la selección de prioridades de acciones se harán constar en el Acta de la Asamblea Temática celebrada, señalando con precisión las 3 prioridades propuestas por la asamblea. Se deberá tener en cuenta la situación de las colonias participantes.
+El diagnóstico y la selección de acciones prioritarias se harán constar en el Acta de la Asamblea Territorial, señalando con precisión las prioridades propuestas por la Asamblea. Se deberá tener en cuenta la situación de los barrios, colonias y Juntas Auxiliares participantes.
+
+> <small>(REFORMADO, P.O. 28 DE SEPTIEMBRE DE 2011)</small>
 
 ###### Artículo 57.
 
-Una vez concluidas las Asambleas Territoriales, el Comité Técnico recibirá las Actas de las Asambleas en las que se identifican las 3 prioridades propuestas y procederá a la evaluación técnica, de conformidad con los criterios establecidos por el Reglamento. La evaluación se formalizará a través de un dictamen técnico que será analizado y discutido en sesión plenaria del Consejo.
+Una vez concluidas las Asambleas Territoriales, el Consejo recibirá las Actas de las Asambleas en las que se identifican las prioridades propuestas y procederá a la evaluación técnica, de conformidad con los criterios establecidos por el Reglamento. La evaluación se formalizará a través de un Dictamen Técnico que será analizado y discutido en Sesión Plenaria del Consejo.
 
 ### CAPÍTULO III. TERCERA ETAPA
 
+> <small>(REFORMADO, P.O. 28 DE SEPTIEMBRE DE 2011)</small>
+
 ###### Artículo 58.
 
-Una vez finalizado el dictamen técnico, el Vocal del Consejo del Presupuesto Participativo, previa petición del Secretario Ejecutivo del Comité Técnico, convocará a sesión plenaria a sus integrantes.
+Una vez finalizado el Dictamen Técnico, el Vocal del Consejo, previa petición del Secretario Técnico, convocará a Sesión Plenaria a sus integrantes.
 
 ###### Artículo 59.
 
@@ -673,19 +811,71 @@ El Acta de Entrega deberá formar parte del expediente del proyecto y constituye
 
 ## TÍTULO VI. RENDICIÓN DE CUENTAS
 
+> <small>(REFORMADO, P.O. 28 DE SEPTIEMBRE DE 2011)</small>
+
 ###### Artículo 67.
 
-El Honorable Ayuntamiento a través del Comité Técnico conformado por las instancias gubernamentales, presentarán al Presidente del Consejo, informes del avance de la gestión y ejecución de acciones derivadas del Presupuesto Participativo, para que sean publicadas en la página web del Ayuntamiento.
+El Consejo presentará al Presidente Municipal informes del avance de la gestión y ejecución de acciones derivadas del Presupuesto Participativo, para que sean publicadas en la página web del Ayuntamiento.
 
-## TÍTULO VII. PREVENCIONES GENERALES
+> <small>(REFORMADA SU DENOMINACION, P.O. 28 DE SEPTIEMBRE DE 2011)</small>
+
+## TÍTULO VII. DE LA CONTRALORÍA SOCIAL
+
+> <small>(REFORMADO Y REUBICADO, P.O. 28 DE SEPTIEMBRE DE 2011)</small>
 
 ###### Artículo 68.
 
-Con el propósito de incorporar a la ciudadanía en el control, vigilancia y evaluación de los proyectos, se impulsarán mecanismos de Contraloría Social, para lo cual la Contraloría Municipal, facilitará los instrumentos metodológicos necesarios para la implementación de la misma.
+La Contraloría Social constituye una práctica de transparencia y rendición de cuentas, que contribuye a lograr los objetivos y estrategias en materia de política social.
+
+> <small>(REFORMADO, P.O. 28 DE SEPTIEMBRE DE 2011)</small>
 
 ###### Artículo 69.
 
-Todos los cargos y responsabilidades de los ciudadanos en el ejercicio del Presupuesto Participativo, serán de carácter honorario por lo que no recibirán remuneración, compensación o gratificación alguna por el desempeño de sus funciones.
+La Contraloría Social del Presupuesto Participativo estará integrada por:
+
+Tres beneficiarios elegidos en la Asamblea de Apertura, que conste en un acta de integración debidamente suscrita por los que la integran y acompañando copias de sus identificaciones oficiales, siendo distintos a los Delegados Territoriales.
+
+> <small>(ADICIONADO, P.O. 28 DE SEPTIEMBRE DE 2011)</small>
+
+###### Artículo 70.
+
+Para ser miembro de la Contraloría Social del Presupuesto Participativo se requiere:
+
+I. Ser ciudadano mexicano en pleno ejercicio de sus derechos;
+
+II. Ser vecino del barrio, colonia o Junta Auxiliar donde se aplicará el Presupuesto Participativo;
+
+III. Haber residido en el Sector Territorial durante los últimos seis meses;
+
+IV. Gozar de buena reputación y honorabilidad, no tener antecedentes penales;
+
+V. No pertenecer, no desempeñar o haber desempeñado cargos de dirección en algún partido político, durante los tres años anteriores a la fecha de su elección; y
+
+VI. Contar con el 50% más uno de los votos en la elección de integrante de la Contraloría Social.
+
+> <small>(ADICIONADO, P.O. 28 DE SEPTIEMBRE DE 2011)</small>
+
+###### Artículo 71.
+
+La Contraloría Social tendrá las siguientes atribuciones:
+
+a) Colaborar con las instancias competentes en la revisión del ejercicio Presupuesto (sic) Participativo.
+
+b) Recibir denuncias, presentadas por escrito, de los vecinos del Sector Territorial, debiendo informar al respecto a la Contraloría Municipal.
+
+c) Presentar observaciones por escrito, de cualquier irregularidad detectada durante las diferentes etapas del proceso, y en la ejecución, operación y evaluación de los proyectos aprobados por el Consejo Técnico, ante la Secretaría, a efecto de que ésta verifique dicha irregularidad y en su caso dé aviso a las instancias correspondientes.
+
+d) Las demás que se desprendan del presente Reglamento y sin perjuicio de las que le correspondan a otras instancias.
+
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 28 DE SEPTIEMBRE DE 2011)</small>
+
+## TÍTULO VIII. PREVENCIONES GENERALES
+
+> <small>(ADICIONADO, P.O. 28 DE SEPTIEMBRE DE 2011)</small>
+
+###### Artículo 72.
+
+Todos los cargos y responsabilidades de los ciudadanos en el ejercicio del Presupuesto Participativo serán de carácter honorario por lo que no recibirán remuneración, compensación o gratificación alguna por el desempeño de sus funciones.
 
 ## ARTÍCULOS TRANSITORIOS
 
@@ -714,3 +904,21 @@ Atentamente.- "Sufragio Efectivo. No Reelección".- H. Puebla de Z., a 8 de octu
 Al pie un sello con el Escudo Nacional y una leyenda que dice: Estados Unidos Mexicanos.- Municipio de Puebla.- Periodo 2008-2011.- Secretaría del Honorable Ayuntamiento.
 
 El Secretario del Honorable Ayuntamiento del Municipio de Puebla, en ejercicio de las facultades que le confiere el artículo 138 fracción VII de la Ley Orgánica Municipal, CERTIFICA: Que las presentes copias fotostáticas compuestas de diecinueve fojas útiles por su frente, son copia fiel de su original, a la que me remito, tuve a la vista y cotejé, relativas al Dictamen del Honorable Ayuntamiento del Municipio de Puebla, por el que se aprueba El Reglamento del Presupuesto Participativo para el Ayuntamiento del Municipio de Puebla, mismo que obra en el archivo de la Dirección Jurídica de la Secretaría del Honorable Ayuntamiento, expidiéndose la presente en la Heroica Puebla de Zaragoza, a los veintidós días del mes de octubre del año dos mil nueve, para los efectos legales a que haya lugar, quedando registrada con el número 2518.- El Secretario del Honorable Ayuntamiento del Municipio de Puebla.- LICENCIADO CÉSAR PÉREZ LÓPEZ.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 28 DE SEPTIEMBRE DE 2011.
+
+PRIMERO.- El presente Dictamen entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan las disposiciones que se opongan a lo establecido en el presente Dictamen.
+
+Por todo lo antes expuesto y debidamente fundado, sometemos a la consideración de este Cuerpo Edilicio, para su discusión y aprobación, el siguiente:
+
+DICTAMEN
+
+PRIMERO.- Se aprueban las reformas, adiciones y derogaciones al Reglamento del Presupuesto Participativo, en términos del Considerando XVIII del presente Dictamen.
+
+SEGUNDO.- Se instruye a la Secretaría de Desarrollo Social y Participación Ciudadana para la operación y coordinación de los trabajos necesarios para el desarrollo de las etapas que comprende el Presupuesto Participativo.
+
+TERCERO.- Se instruye al Secretario del Ayuntamiento para que en la forma legal correspondiente realice los trámites necesarios ante la Secretaría General de Gobierno del Estado y sea publicado por una sola vez en el Periódico Oficial del Estado, las reformas, adiciones y derogaciones al Reglamento del Presupuesto Participativo.
