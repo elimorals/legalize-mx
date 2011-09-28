@@ -4,7 +4,7 @@ identifier: "CHP-reglamento-de-la-administracion-publica-municipal-del-h-66660"
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-01-14"
-last_updated: "2011-03-16"
+last_updated: "2011-09-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=66660&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "CHP"
 ---
 # REGLAMENTO DE LA ADMINISTRACION PUBLICA MUNICIPAL DEL H. AYUNTAMIENTO DE TUXTLA GUTIERREZ, CHIAPAS
 
-REGLAMENTO DE LA ADMINISTRACION PUBLICA MUNICIPAL DEL H. AYUNTAMIENTO DE TUXTLA GUTIERREZ
+REGLAMENTO DE LA ADMINISTRACIÓN PÚBLICA MUNICIPAL DEL H. AYUNTAMIENTO DE TUXTLA GUTIÉRREZ CHIAPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE MARZO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE SEPTIEMBRE DE 2011.
 
 Reglamento publicado en el Periódico Oficial del Estado de Chiapas, el miércoles 14 de enero de 2009.
 
@@ -183,7 +183,7 @@ Los titulares de las dependencias de la Administración Pública Municipal rendi
 
 ### Capítulo I. Secretaría General del Ayuntamiento
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE MARZO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE MARZO DE 2011)</small>
 
 ###### Artículo 20.
 
@@ -671,9 +671,19 @@ III.- ...(SIC)
 
 IV.- (DEROGADA, P.O. 16 DE MARZO DE 2010)
 
-V.- ...(SIC)
+> <small>(REFORMADA, P.O. 28 DE SEPTIEMBRE DE 2011)</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE NOVIEMBRE DE 2009)</small>
+V.- Coordinación de Innovación y Desarrollo Tecnológico.
+
+a) Departamento de Enlace y Apoyo Técnico.
+
+b) Departamento de Seguridad, Redes e Internet.
+
+c) Departamento de Desarrollo de Sistemas.
+
+d) Departamento de Normatividad e Infraestructura Tecnológica.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE NOVIEMBRE DE 2009)</small>
 
 ###### Artículo 30.
 
@@ -845,25 +855,27 @@ VII. Emitir en forma periódica los reportes de avances financieros y situación
 
 VIII. Las demás que determinen las disposiciones jurídicas aplicables.
 
+> <small>(REFORMADO, P.O. 28 DE SEPTIEMBRE DE 2011)</small>
+
 ###### Artículo 33.
 
-A la Dirección de Innovación Tecnológica y Soporte Técnico Computacional le corresponde diagnosticar, desarrollar y/o adquirir, instalar, actualizar o mantener, controlar y evaluar los sistemas informáticos, el equipo de cómputo, los servicios y la infraestructura de tecnología que requieran las dependencias y organismos de la administración pública municipal para el desempeño eficiente de sus funciones de acuerdo a la normatividad vigente; correspondiéndole las atribuciones siguientes:
+A la Coordinación de Innovación y Desarrollo Tecnológico le corresponde diagnosticar, desarrollar y/o adquirir, instalar, actualizar o mantener, controlar y evaluar los sistemas informáticos, el equipo de cómputo, los servicios y la infraestructura de tecnología que requieran las dependencias y organismos de la administración pública municipal para el desempeño eficiente de sus funciones de acuerdo a la normatividad vigente; correspondiéndole las atribuciones siguientes:
 
 I. Diseñar y elaborar el marco de trabajo en materia informática para integrar la infraestructura, los equipos de cómputo y servicios de tecnología en un esquema coherente de eficiencia de la administración pública municipal;
 
-II. Elaborar y revisar los pronósticos de uso y capacidad de la red de datos del H. Ayuntamiento y hacer las recomendaciones pertinentes al tesorero municipal;
+II. Elaborar y revisar los pronósticos de uso y capacidad de la red de datos del H. Ayuntamiento y hacer las recomendaciones pertinentes al Tesorero Municipal;
 
-III. Diseñar, revisar y modificar las directivas y niveles de acceso a los diversos recursos informáticos que tendrán los perfiles de usuario para los funcionarios públicos municipales y empleados del H. Ayuntamiento;
+III. Diseñar, revisar y modificar las directrices y niveles de acceso a los diversos recursos informáticos que tendrán los perfiles de usuario para los funcionarios públicos municipales y empleados del H. Ayuntamiento;
 
-IV. Desarrollar mejoras específicas y calcular beneficios potenciales de los sistemas informáticos que se implementaran y/o actualizarán en las diferentes áreas de la administración pública municipal;
+IV. Desarrollar mejoras específicas y calcular beneficios potenciales de los sistemas informáticos que se implementaran y/o actualizarán en las diferentes áreas de la Administración Pública Municipal;
 
 V. Diseñar, implementar y evaluar políticas y metodologías que permitan eficientar el uso de la infraestructura, los equipos y los servicios de tecnología que utiliza la administración pública municipal;
 
-VI. Elaborar diagnósticos periódicos del estado que guarden el equipo de cómputo, la infraestructura y los servicios de tecnología y comunicaciones que utilizan las entidades y dependencias de la administración pública municipal;
+VI. Elaborar diagnósticos periódicos del estado que guarden el equipo de cómputo, la infraestructura y los servicios de tecnología y comunicaciones que utilizan las entidades y dependencias de la Administración Pública Municipal;
 
-VII. Publicar los reportes de desempeño y estado· de los equipos de cómputo, infraestructura y servicios de tecnología al servicio del H. Ayuntamiento Municipal, en el marco de la transparencia administrativa y de acuerdo con la normatividad y políticas de acceso a los recursos de información;
+VII. Publicar los reportes de desempeño y estado de los equipos de cómputo, infraestructura y servicios de tecnología al servicio del H. Ayuntamiento Municipal, en el marco de la transparencia administrativa y de acuerdo con la normatividad y políticas de acceso a los recursos de información;
 
-VIII. Diseñar, publicar y evaluar el cumplimiento de políticas de acceso a los recursos de información, uso de los equipos de cómputo, infraestructura y servicios de tecnología que se encuentran al servicio de la administración pública municipal;
+VIII. Diseñar, publicar y evaluar el cumplimiento de políticas de acceso a los recursos de información, uso de los equipos de cómputo, infraestructura y servicios de tecnología que se encuentran al servicio de la Administración Pública Municipal;
 
 IX. Validar, encriptar, almacenar y resguardar la información que se genera en las diversas áreas del Ayuntamiento cuando así lo soliciten;
 
@@ -871,19 +883,17 @@ X. Diseñar, implementar, evaluar, modificar y vigilar el programa de seguridad 
 
 XI. Diseñar y actualizar las políticas y sistemas de respaldo para salvaguardar la información que se genera, procesa y almacena en el H. Ayuntamiento;
 
-XII. Apoyar en los sistemas de nóminas y contabilidad;
+XII. Formar parte del comité interno de seguridad informática que proponga, controle y evalúe metodologías y políticas de seguridad para la información generada, procesada y/o almacenada por las diferentes entidades o dependencias municipales;
 
-> <small>(REFORMADA, P.O. 11 DE NOVIEMBRE DE 2009)</small>
+XIII. Asesorar en materia de informática a las dependencias y entidades que así lo requieran para el buen funcionamiento y desempeño de los mismos;
 
-XIII. Diseñar y publicar en coordinación con la Coordinación de Recaudación Tributaria los reportes de registro y control de ingresos que los órganos administrativos municipales requieran en apego a sus necesidades y dentro del marco de la normatividad respectiva vigente;
+XIV. Proporcionar asistencia técnica a las áreas del Ayuntamiento, en materia de sistemas y equipo de cómputo;
 
-XIV. Formar parte del comité interno de seguridad informática que proponga, controle y evalúe metodologías y políticas de seguridad para la información generada, procesada y/o almacenada por las diferentes entidades o dependencias municipales;
+XV. Apoyar a las unidades administrativas del H. Ayuntamiento en el desarrollo de nuevos sistemas de información y actualización de los ya implementados, de acuerdo a las necesidades y dentro del marco de la normatividad respectiva vigente;
 
-XV. Asesorar en materia de informática a las dependencias y entidades que así lo requieran para el buen funcionamiento y desempeño de los mismos;
+XVI. Coordinar la investigación y difusión de los avances de tecnología de información que se desarrollen en el mercado informático;
 
-XVI. Proporcionar asistencia técnica a las áreas del ayuntamiento, en materia de sistemas y equipo de cómputo;
-
-XVII. Coordinar la investigación y difusión de los avances de tecnología de información que se desarrollen en el mercado informático; y,
+XVII. Asesorar a las unidades administrativas del H. Ayuntamiento para el desarrollo de eventos y presentaciones, captura de altos volúmenes de información y diseño de órganos informativos; y,
 
 XVIII. Las demás que determinen las disposiciones jurídicas aplicables o le delegue la Tesorería Municipal dentro del ámbito de su competencia.
 
@@ -891,7 +901,7 @@ XVIII. Las demás que determinen las disposiciones jurídicas aplicables o le de
 
 (DEROGADO, P.O. 16 DE MARZO DE 2011)
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 13 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 13 DE OCTUBRE DE 2010)</small>
 
 ### Capítulo III. Secretaría de Obras Públicas y Desarrollo Urbano
 
@@ -1171,7 +1181,7 @@ VI. Coordinar con la Dirección de Protección Civil, la atención de emergencia
 
 VII. Las demás que determinen las disposiciones jurídicas aplicables o le delegue la Secretaría de Servicios Municipales dentro del ámbito de su competencia.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 13 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 13 DE OCTUBRE DE 2010)</small>
 
 ### Capítulo IV. Secretaría de Seguridad Pública Municipal
 
@@ -1357,7 +1367,7 @@ VI. Elaborar los Planes de Desarrollo de la Policía de Proximidad y los Program
 
 VII. Programar y calendarizar actividades del área de prevención de delitos.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 13 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 13 DE OCTUBRE DE 2010)</small>
 
 ### Capítulo V. De la Contraloría Municipal
 
@@ -1561,7 +1571,7 @@ IV. Solicitar al titular de la Contraloría Municipal, la designación de más p
 
 V. Las demás que le encomienden el Ayuntamiento, el Presidente Municipal, este ordenamiento y otras disposiciones legales aplicables.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 13 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 13 DE OCTUBRE DE 2010)</small>
 
 ### Capítulo VI. Secretaría de Planeación para el Desarollo Sustentable Municipal
 
@@ -1703,7 +1713,7 @@ VI. Informar a la Secretaría de Planeación para el Desarrollo Sustentable de l
 
 VII. Las demás que determinen las disposiciones jurídicas aplicables o le delegue la Secretaría de Planeación para el Desarrollo Sustentable dentro del ámbito de su competencia.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 13 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 13 DE OCTUBRE DE 2010)</small>
 
 ### Capítulo VII. Secretaría de Desarrollo Social
 
@@ -1905,7 +1915,7 @@ VII. Conformar el Consejo Municipal de la Mujer;
 
 VIII. Las demás que determinen las disposiciones jurídicas aplicables o le delegue la Secretaría de Desarrollo Social dentro del ámbito de su competencia.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 13 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 13 DE OCTUBRE DE 2010)</small>
 
 ### Capítulo VIII. Secretaría de Desarrollo Económico
 
@@ -2011,7 +2021,7 @@ XI. Establecer y desarrollar mecanismos y programas que incentiven la consolidac
 
 XII. Las demás que determinen las disposiciones jurídicas aplicables o le delegue la Secretaría de Desarrollo Económico dentro del ámbito de su competencia.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 13 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 13 DE OCTUBRE DE 2010)</small>
 
 ### Capítulo IX. Secretaría de Salud Municipal
 
@@ -2199,7 +2209,7 @@ XI. Diseñar y promover campañas de prevención que tengan como objetivo concie
 
 XII. Las demás que determinen las disposiciones jurídicas aplicables o le delegue el Ejecutivo Municipal dentro del ámbito de su competencia.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 13 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 13 DE OCTUBRE DE 2010)</small>
 
 ### Capítulo X. Secretaría de Administración Municipal
 
@@ -2345,7 +2355,7 @@ XI. Coordinar con las dependencias del H. Ayuntamiento los requerimientos de bie
 
 XII. Las demás que determinen las disposiciones jurídicas aplicables o le delegue la Secretaría de Administración dentro del ámbito de su competencia.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 13 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 13 DE OCTUBRE DE 2010)</small>
 
 ### Capítulo XI. Secretaría de Servicios Municipales
 
@@ -2551,7 +2561,7 @@ VIII. Lograr en la medida de las posibilidades la transformación de la ciudad c
 
 IX. Las demás que determinen las disposiciones jurídicas aplicables o le delegue la Secretaría de Servicios Municipales dentro del ámbito de su competencia.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 13 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 13 DE OCTUBRE DE 2010)</small>
 
 ### Capítulo XII. Contraloría Social
 
@@ -2611,7 +2621,7 @@ XI. Asistir a las audiencias públicas presididas por el Ejecutivo Municipal; y
 
 XII. Las demás que le señalen como de su competencia las leyes y reglamentos vigentes en el Estado.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 13 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 13 DE OCTUBRE DE 2010)</small>
 
 ### Capítulo XIII. Secretaría Técnica
 
@@ -2731,7 +2741,7 @@ VII. Recuperar el material utilizado al término del evento; y
 
 VIII. Las demás que determinen las disposiciones jurídicas aplicables o le delegue el Ejecutivo Municipal dentro del ámbito de su competencia.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 13 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 13 DE OCTUBRE DE 2010)</small>
 
 ### Capítulo XIV. Órganos Auxiliares de la Presidencia Municipal
 
@@ -3396,3 +3406,11 @@ Primero.- La presente reforma entrará en vigor al día siguiente de su publicac
 Segundo.- Quedan abrogadas todas aquellas disposiciones que se opongan al presente acuerdo.
 
 Tercero.- Para su debido conocimiento publíquese el presente Reglamento en la Gaceta Municipal, en los Estrados del Palacio Municipal y en cinco lugares de mayor afluencia vecinal de las Agencias Municipales.
+
+P.O. 28 DE SEPTIEMBRE DE 2011.
+
+Artículo Primero.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
+
+Artículo Segundo.- Quedan abrogadas todas aquellas disposiciones que se opongan al presente Acuerdo.
+
+Artículo Tercero.- Para su debido conocimiento publíquese el presente Acuerdo en la Gaceta Municipal, en los Estrados del Palacio Municipal y en cinco lugares de mayor afluencia vecinal de las Agencias Municipales.
