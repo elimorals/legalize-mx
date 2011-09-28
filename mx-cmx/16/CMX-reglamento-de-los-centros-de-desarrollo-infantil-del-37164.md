@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-de-los-centros-de-desarrollo-infantil-del-37164"
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-02-17"
-last_updated: "2007-09-25"
+last_updated: "2011-09-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=37164&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,9 @@ issue_date: "2003-12-15"
 
 REGLAMENTO DE LOS CENTROS DE DESARROLLO INFANTIL DEL TRIBUNAL SUPERIOR DE JUSTICIA DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 25 DE SEPTIEMBRE DE 2007.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO ARTICULO SEGUNDO DEL REGLAMENTO DE LOS CENTROS DE DESARROLLO INFANTIL DEL TRIBUNAL SUPERIOR DE JUSTICIA DEL DISTRITO FEDERAL, PUBLICADO EN LA G.O. DE 28 DE SEPTIEMBRE DE 2011, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: ABROGADO.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el jueves 17 de febrero de 2004.
 
@@ -483,3 +485,11 @@ LIC. MATILDE RAMÍREZ HERNÁNDEZ.
 G.O. 25 DE SEPTIEMBRE DE 2007.
 
 EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3 DEL CODIGO CIVIL VIGENTE PARA EL D.F.
+
+G.O. 28 DE SEPTIEMBRE DE 2011.
+
+Artículo Primero.- El presente Acuerdo surtirá sus efectos a partir del día siguiente al de su publicación en el Boletín Judicial del Tribunal. Por otra parte publíquese por una sola vez en la Gaceta Oficial del Distrito Federal.
+
+Artículo Segundo.- El presente Acuerdo abroga el Reglamento anterior y todas aquellas disposiciones administrativas internas relativas al funcionamiento de los CENDIS que se opongan a este ordenamiento normativo.
+
+Artículo Tercero.- La Dirección de Comunicación Social diseñará e imprimirá para su distribución entre los padres de los menores usuarios del servicio, un cuadernillo que contenga el presente ordenamiento.
