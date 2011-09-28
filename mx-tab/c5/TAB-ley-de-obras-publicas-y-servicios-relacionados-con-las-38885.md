@@ -4,7 +4,7 @@ identifier: "TAB-ley-de-obras-publicas-y-servicios-relacionados-con-las-38885"
 country: "mx"
 rank: "ley"
 publication_date: "2004-04-07"
-last_updated: "2006-11-25"
+last_updated: "2011-09-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=38885&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 LEY DE OBRAS PUBLICAS Y SERVICIOS RELACIONADOS CON LAS MISMAS DEL ESTADO DE TABASCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE NOVIEMBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE SEPTIEMBRE DE 2011.
 
 Ley publicada en el suplemento al Periódico Oficial del Estado de Tabasco, el miércoles 7 de abril de 2004.
 
@@ -111,7 +111,9 @@ Para los efectos de esta Ley, se considera Obra Pública:
 
 I.- La construcción, reconstrucción, modificación remodelación, instalación de bienes inmuebles e infraestructura, que por su naturaleza o por disposición de la Ley, sean destinados a un servicio público o al uso común;
 
-II.- (DEROGADA, P.O. 25 DE NOVIEMBRE DE 2006)
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 28 DE SEPTIEMBRE DE 2011)</small>
+
+II.- La construcción, reconstrucción, modificación, remodelación o instalación de palafitos para la edificación de bienes inmuebles e infraestructura, que por su naturaleza o por disposición de la Ley, sean destinados a un servicio público o al uso común;
 
 III.- Los trabajos de mejoramiento, conservación, preservación o restauración del suelo, subsuelo, agua y aire;
 
@@ -269,7 +271,7 @@ Los actos, contratos y convenios que las Dependencias y Entidades realicen o cel
 
 Para la planeación de la Obra Pública y de los Servicios relacionados con las mismas, las Dependencias y Entidades deberán sujetarse a:
 
-I.- Los lineamientos establecidos en el Sistema Nacional de Planeación Democrática para el Desarrollo, a los objetivos, políticas, prioridades, estrategias y líneas de acción señalados en los planes Nacional, Estatal y Municipal de Desarrollo, así como en los correspondientes programas que elaboren el Gobierno Estatal y Municipal a nivel sectorial y regional a corto, mediano y largo plazo, de acuerdo a los recursos presupuestales, en su implementación y en su caso, los Convenios que sean celebrados con los Gobiernos Federal, Estatal y Municipal según corresponda;
+I.- Los lineamientos establecidos en el Sistema Nacional de Planeación Democrática para el Desarrollo, a los objetivos, políticas, prioridades, estrategias y líneas de acción señalados en los planes Nacional, Estatal y Municipal de Desarrollo, así como en los correspondientes programas que elaboren el Gobierno Estatal y Municipal a nivel sectorial y regional a corto, mediano y largo plazo, de acuerdo a los recursos presupuestales, en su implementación y, en su caso, los Convenios que sean celebrados con los Gobiernos Federal, Estatal y Municipal según corresponda;
 
 II.- Considerar, de manera jerarquizada, las necesidades estatales, regionales, municipales y de beneficio social, ambiental y económico que estos representen, así como también tomar en cuenta en los proyectos las características ambientales, climáticas y geográficas de la región donde deba realizarse la obra pública;
 
@@ -294,6 +296,10 @@ XI.- Considerar y prevenir los impactos ambientales que genere la construcción 
 XII.- Tomar en cuenta, en su caso, la opinión de la comunidad sobre la obra así como la disposición para aportar económicamente o colaborar en la misma; y
 
 XIII.- Prever las instalaciones, en su caso, para que las personas discapacitadas puedan acceder y transitar por los inmuebles que sean construidos, las que podrán consistir en rampas, pasamanos, asideras y otras instalaciones análogas o necesarias para facilitar su uso; así como las demás disposiciones exigidas por las leyes o reglamentos, en la materia.
+
+> <small>(ADICIONADO, P.O. 28 DE SEPTIEMBRE DE 2011)</small>
+
+La obra pública cercana a los cuerpos de agua o que se realice en zonas urbanas o rurales vulnerables a inundaciones, deberá atender en lo aplicable, el modelo de construcción sobre palafitos, previo estudio de factibilidad del uso de suelo para el tipo de construcción de que se trate.
 
 ###### Artículo 20.
 
@@ -1216,3 +1222,9 @@ P.O. 25 DE NOVIEMBRE DE 2006.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 28 DE SEPTIEMBRE DE 2011.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan a este Decreto.
