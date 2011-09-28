@@ -4,7 +4,7 @@ identifier: "CHP-ley-de-fomento-a-la-actividad-artesanal-para-el-estado-de-60670
 country: "mx"
 rank: "ley"
 publication_date: "2008-03-05"
-last_updated: "2008-03-05"
+last_updated: "2011-09-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=60670&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 LEY DE FOMENTO A LA ACTIVIDAD ARTESANAL PARA EL ESTADO DE CHIAPAS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE SEPTIEMBRE DE 2011.
 
 Ley publicada en el Periódico Oficial del Estado de Chiapas, el miércoles 5 de marzo de 2008.
 
@@ -41,37 +41,43 @@ Ley de Fomento a la Actividad Artesanal para el Estado de Chiapas
 
 ### Capítulo I. Disposiciones Generales
 
+> <small>(REFORMADO, P.O. 28 DE SEPTIEMBRE DE 2011)</small>
+
 ###### Artículo 1°.
 
-La presente ley es de orden público e interés social de aplicación y observancia general en el Estado de Chiapas, la cual tiene por objeto el desarrollo, la protección y el fomento a la actividad artesanal, así como, la promoción en forma sustentable de dicha actividad.
+La presente ley es de orden público y de interés social; y para aplicación y observancia general en el Estado de Chiapas, la cual tiene por objeto el desarrollo e impulso del artesano y su artesanía en lo económico, cultural, educativo, ecológico, comercial y turístico; salvaguardando y protegiendo en todo momento la actividad artesanal, técnica y producto como patrimonio cultural del Estado.
+
+> <small>(REFORMADO, P.O. 28 DE SEPTIEMBRE DE 2011)</small>
 
 ###### Artículo 2°.
 
-Se considera de interés público proteger el trabajo de los artesanos chiapanecos, así como, la producción artesanal que contenga conocimientos tradicionales o elementos simbólicos de significado relevante desde el punto de vista de la cosmovisión indígena, de la historia y de la identidad estatal y nacional.
+Es de interés público la artesanía y el incentivar la creación, producción y comercialización de la misma; y corresponde al Titular del Poder Ejecutivo del Estado, la aplicación de la presente Ley, por conducto del Instituto Casa Chiapas y de las demás dependencias y entidades estatales y/o Municipales que tengan relación con el sector artesanal.
+
+> <small>(REFORMADO, P.O. 28 DE SEPTIEMBRE DE 2011)</small>
 
 ###### Artículo 3°.
 
 Para los efectos de la presente Ley se entenderá por:
 
-I. Artesanía: Actividad realizada manualmente en forma individual, familiar o colectiva, que tiene por objeto transformar productos o substancias orgánicas e inorgánicas en artículos nuevos con valor histórico cultural y estético, que pueden ser tradicionales o de creación reciente y cumplen con una función socialmente reconocida; producidos con maestría y habilidad reconociéndose su originalidad como obras de arte y parte de la cultura y patrimonio del Estado;
+I. Artesanía: Es la actividad realizada manualmente en forma individual, familiar o colectiva, que tiene por objeto transformar productos o sustancias orgánicas e inorgánicas en artículos nuevos no seriados, donde la creatividad personal, las materias primas e insumos y la mano de obra constituyen factores predominantes que les imprimen características culturales, históricas, folklóricas, estéticas o utilitarias, originarias de una región determinada, mediante la aplicación de técnicas, herramientas o procedimientos transmitidos generacionalmente; y que se reconocen como obras de arte que forman parte de la cultura del Estado;
 
-II. Artesano: Toda persona física que con sensibilidad creativa, usando ingenio y destreza desarrollando sus habilidades naturales y técnicas transforma manualmente materias primas en productos que reflejen la belleza en su sentido mas amplio, auxiliándose de herramientas e instrumentos de cualquier naturaleza y siempre que se realice dentro de las distintas ramas artesanales de producción que contemple esta Ley;
+II. Artesano: Toda persona física que con destreza creativa, desarrolle sus habilidades innatas, conocimientos prácticos o teóricos de una técnica para transformar manualmente materias primas en productos que reflejen la belleza, tradición o cultura del estado, auxiliándose de herramientas e instrumentos de cualquier naturaleza y siempre que se realice dentro de las distintas ramas artesanales de producción que contemple esta Ley;
 
-III. CONECULTA: Consejo Estatal para la Cultura y las Artes de Chiapas;
+III. CONECULTA: Consejo Estatal para las Culturas y las Artes de Chiapas;
 
 IV. Estado: Al Estado de Chiapas;
 
-V. Instituto: Al Instituto de las Artesanías y Productos de Chiapas;
+V. Instituto: Al Instituto Casa Chiapas;
 
 VI. Ley: A la Ley de Fomento a la Actividad Artesanal para el Estado de Chiapas;
 
-VII. Producción artesanal. La actividad económica de transformación, cuyo proceso se realiza con materias primas de origen natural o industrial, con el objeto de producir un bien determinado mediante la utilización de habilidades manuales y conocimiento de la historia del lugar o región donde se elaboran;
+VII. Producción artesanal: La actividad económica de transformación, cuyo proceso se realiza con materias primas de origen natural o industrial, con el objeto de producir un bien determinado mediante la utilización de habilidades manuales y conocimiento de la historia del lugar o región donde se elaboran;
 
 VIII. Sector artesanal: Es el sector que desarrolla la actividad artesanal, integrada por artesanos, unidades y sociedades de artesanos;
 
-IX. Sociedad de Artesanos: Las personas morales legalmente constituidas por artesanos para comercializar o cualquiera de los objetos de la actividad artesanal;
+IX. Sociedad de Artesanos: Las personas morales legalmente constituidas e integradas por artesanos;
 
-X. Unidad de Producción Artesanal Familiar: Es aquella en la que intervienen los miembros de una familia nuclear o extendida. La actividad se desarrolla con una incipiente división del trabajo, de acuerdo a las habilidades, edad y sexo de cada uno de los integrantes del taller, que define simultáneamente el proceso de aprendizaje de los miembros; y,
+X. Unidad de Producción Artesanal Familiar: Es aquella en la que intervienen los miembros de una familia. La actividad se desarrolla con una incipiente división del trabajo, de acuerdo a las habilidades, edad y sexo de cada uno de los integrantes del taller, que define simultáneamente el proceso de aprendizaje de los miembros; y,
 
 XI. Unidad de Producción Artesanal con Trabajo Especializado: Es aquella en la que la organización para el trabajo, reúne en una misma unidad de artesanos especializados en operaciones parciales del proceso de producción, pero conservando su carácter de piezas únicas por su terminado y decoración que se realiza en forma manual.
 
@@ -177,13 +183,17 @@ La Secretaría de Educación, se coordinará con el Instituto y el CONECULTA, co
 
 ### Capítulo V. Del Fomento a la Promoción Turística - Artesanal
 
+> <small>(REFORMADO, P.O. 28 DE SEPTIEMBRE DE 2011)</small>
+
 ###### Artículo 14.
 
-La Secretaría de Turismo y Proyectos Estratégicos, promoverá que en cada desarrollo turístico de la Entidad, se ubique un espacio permanente para la venta y exhibición de artesanías chiapanecas, preferentemente de la localidad o región de que se trate.
+La Secretaría de Turismo, que en cada desarrollo turístico de la Entidad, se ubique un espacio permanente para la venta y exhibición de artesanías chiapanecas, preferentemente de la localidad o región de que se trate.
+
+> <small>(REFORMADO, P.O. 28 DE SEPTIEMBRE DE 2011)</small>
 
 ###### Artículo 15.
 
-La Secretaría de Turismo y Proyectos Estratégicos, con apoyo del Instituto, propiciará que en cada evento de promoción turística de los atractivos Estatales, se enaltezcan y promocione las tradiciones artesanales chiapanecas y, en su caso se coadyuve a la distribución de las artesanías.
+La Secretaría de Turismo, con apoyo del Instituto, propiciará que en cada evento de promoción turística de los atractivos Estatales, se enaltezcan y promocione las tradiciones artesanales chiapanecas y, en su caso se coadyuve a la distribución de las artesanías.
 
 ###### Artículo 16.
 
@@ -237,11 +247,13 @@ En cumplimiento a lo establecido en el artículo anterior, el Instituto promover
 
 ### Capítulo VIII. Del Proceso Productivo Artesanal
 
+> <small>(REFORMADO, P.O. 28 DE SEPTIEMBRE DE 2011)</small>
+
 ###### Artículo 23.
 
 Para el cumplimiento del objeto de esta Ley, se considerarán como ramas de la producción artesanal las siguientes:
 
-l. Alfarería;
+I. Alfarería;
 
 II. Cestería;
 
@@ -253,17 +265,21 @@ V. Metalistería;
 
 VI. Laca;
 
-VII. Ámbar;
+VII. talla en Madera
 
-VIII. Juguetería Artesanal;
+VIII. Talabartería
 
-IX. Lapidaría;
+IX. Ámbar;
 
-X. Jarcería;
+X. Juguetería Artesanal;
 
-XI. Pirograbado; y,
+XI. Lapidaría;
 
-XII. Las demás que se determinen por el Instituto.
+XII. Jarcería;
+
+XIII. Pirograbado; y,
+
+XIV. Las demás que se determinen por el Instituto.
 
 ###### Artículo 24.
 
@@ -338,3 +354,11 @@ Dado en el Salón de Sesiones del Honorable Congreso del Estado de Chiapas, en l
 De conformidad con la fracción I del artículo 42 de la Constitución Política Local y para su observancia, promulgo el presente Decreto en la Residencia del Poder Ejecutivo del Estado, en la Ciudad de Tuxtla Gutiérrez, Chiapas, a los cinco días del mes de Febrero del año dos mil ocho.
 
 Juan Sabines Guerrero, Gobernador del Estado.- Jorge Antonio Morales Messner, Secretario de Gobierno.- Rúbricas.
+
+P.O. 28 DE SEPTIEMBRE DE 2011.
+
+Artículo Primero.- El presente Decreto entrará en vigor el mismo día de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Se derogan las disposiciones que se opongan al presente Decreto.
+
+Artículo Tercero.- El Instituto Casa Chiapas, llevará a cabo lo conducente para la actualización de su marco jurídico.
