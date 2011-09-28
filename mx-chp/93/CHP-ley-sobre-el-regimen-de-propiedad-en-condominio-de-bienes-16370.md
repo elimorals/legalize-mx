@@ -4,7 +4,7 @@ identifier: "CHP-ley-sobre-el-regimen-de-propiedad-en-condominio-de-bienes-16370
 country: "mx"
 rank: "ley"
 publication_date: "1998-01-28"
-last_updated: "1998-01-28"
+last_updated: "2011-09-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16370&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "CHP"
 
 LEY SOBRE EL REGIMEN DE PROPIEDAD EN CONDOMINIO DE BIENES INMUEBLES DEL ESTADO DE CHIAPAS
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE PROPIEDAD EN CONDOMINIO DE INMUEBLES PARA EL ESTADO DE CHIAPAS, PUBLICADA EN EL P.O. DE 28 DE SEPTIEMBRE DE 2011, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Chiapas, el miércoles 28 de enero de 1998.
 
@@ -698,3 +700,15 @@ DADO EN EL SALON DE SESIONES DEL HONORABLE CONGRESO DEL ESTADO, EN LA CIUDAD DE 
 DE CONFORMIDAD CON LA FRACCION I DEL ARTICULO 42 DE LA CONSTITUCION POLITICA LOCAL Y PARA SU OBSERVANCIA, PROMULGO EL PRESENTE DECRETO EN LA RESIDENCIA DEL PODER EJECUTIVO DEL ESTADO, EN LA CIUDAD DE TUXTLA GUTIERREZ, CHIAPAS, A LOS VEINTIOCHO DIAS DEL MES DE ENERO DE MIL NOVECIENTOS NOVENTA Y OCHO.
 
 ROBERTO ALBORES GUILLEN.- GOBERNADOR DEL ESTADO.- ARELY MADRID TOVILLA.- SECRETARIA DE GOBIERNO.- RUBRICAS.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 28 DE SEPTIEMBRE DE 2011.
+
+PRIMERO.- La presente Ley entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se abroga la Ley Sobre el Régimen de Propiedad en Condominio de Bienes Inmuebles del Estado de Chiapas, expedida mediante decreto 136, publicada el 28 de enero de 1998, así como sus reformas y adiciones.
+
+TERCERO.- Una vez que entre en vigor esta Ley, los Ayuntamientos de Chiapa de Corzo, Comitán de Domínguez, Motozintla, Ocosingo, Ocozocoautla de Espinosa, Palenque, Pichucalco, Reforma, San Cristóbal de Las Casas, Tapachula, Tonalá, Tuxtla Gutiérrez, Venustiano Carranza y Villaflores, tendrán un término de 90 días naturales para crear en su estructura orgánica un área que funja como órgano administrativo, encargado de regular, vigilar y resolver las controversias que surjan en los condominios; los demás Ayuntamientos del Estado contarán con el termino de un año a partir de la entrada en vigor de la presente ley, para la creación de dicho órgano.
+
+CUARTO.- Se derogan todas las disposiciones que se opongan a lo dispuesto en esta Ley.
