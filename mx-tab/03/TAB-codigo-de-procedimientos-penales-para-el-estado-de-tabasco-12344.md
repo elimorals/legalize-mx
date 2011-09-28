@@ -4,7 +4,7 @@ identifier: "TAB-codigo-de-procedimientos-penales-para-el-estado-de-tabasco-1234
 country: "mx"
 rank: "codigo"
 publication_date: "1997-02-22"
-last_updated: "2011-08-27"
+last_updated: "2011-09-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12344&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "TAB"
 ---
 # CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE TABASCO
 
-CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE TABASCO
+CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE TABASCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE AGOSTO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE SEPTIEMBRE DE 2011.
 
 Código publicado en el Periódico Oficial del Estado de Tabasco, el 22 de febrero de 1997.
 
@@ -87,7 +87,7 @@ El Juez procurará obtener el conocimiento de todos los elementos que deba consi
 
 ### CAPÍTULO I. SUJETOS PROCESALES
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE JUNIO DE 2011)</small>
 
 ###### ARTÍCULO 8.
 
@@ -115,7 +115,7 @@ La policía judicial actuará bajo la autoridad y el mando inmediato del Ministe
 
 Los peritos que auxilien al Ministerio Público gozarán de plena autonomía técnica para la elaboración de sus dictámenes.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE NOVIEMBRE DE 2002)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE NOVIEMBRE DE 2002)</small>
 
 ###### ARTÍCULO 12.
 
@@ -159,6 +159,14 @@ Para los efectos previstos en el artículo precedente y, en general para brindar
 
 El asesor jurídico del ofendido tendrá en lo conducente, los mismos derechos y obligaciones que tiene un defensor de oficio.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 28 DE SEPTIEMBRE DE 2011)</small>
+
+###### ARTÍCULO 17 Bis.
+
+El ministerio público y el Juez dispondrán de las órdenes de protección establecidas en los artículos 24, 25, 26, 27 y 28 del Título Tercero de la Ley Estatal de Acceso de las Mujeres a una Vida Libre de Violencia, en función del interés superior de la víctima, como actos de urgente aplicación, precautorias y cautelares, debiendo otorgarse a solicitud de la víctima o cualquier persona, de manera inmediata por la autoridad competente que conozca los hechos constitutivos de delitos por motivo de violencia de género.
+
 ### CAPÍTULO II. COMPETENCIA
 
 ###### ARTÍCULO 18.
@@ -167,7 +175,7 @@ Para establecer la competencia de los tribunales en el conocimiento de los delit
 
 Cuando proceda la acumulación y los procesos acumulables se sigan ante jueces de paz y jueces de primera instancia, la competencia para conocer del conjunto recaerá en éste último. Si los procesos se siguen en diversos juzgados del mismo nivel en la organización de los tribunales, será competente para resolver sobre el conjunto el juzgador que conoce del más antiguo.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE NOVIEMBRE DE 2002)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE NOVIEMBRE DE 2002)</small>
 
 ###### ARTÍCULO 19.
 
@@ -259,7 +267,7 @@ Los autos que contengan resoluciones de mero trámite deberán dictarse dentro d
 
 Las autoridades que presidan o practiquen una diligencia actuarán asistidas de secretario o de dos testigos, cuando no dispongan de aquél. De lo contrario, la actuación será nula, aunque la consientan quienes en ella intervengan.
 
-(REFORMADO PRIMER PARRAFO, P.O. 21 DE FEBRERO DE 1998)(F. DE E., P.O. 28 DE FEBRERO DE 1998)
+(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE FEBRERO DE 1998) (F. DE E., P.O. 28 DE FEBRERO DE 1998)
 
 ###### ARTÍCULO 33.
 
@@ -295,7 +303,7 @@ Si se extravían o destruyen alguna constancia o el expediente mismo, se procede
 
 Para estos efectos, se tomará como base el duplicado al que se refiere el artículo 34. Cuando no sea posible reponer todas las actuaciones, se tendrá por probada plenamente la existencia de las que se inserten o mencionen en cualquiera resolución de la que haya constancia fehaciente, siempre que no se hubiese objetado oportunamente la exactitud de la inserción o cita.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE NOVIEMBRE DE 2002)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE NOVIEMBRE DE 2002)</small>
 
 ###### ARTÍCULO 38.
 
@@ -475,7 +483,7 @@ Podrá citarse por teléfono o mediante comunicación trasmitida por fax o por c
 
 ### CAPÍTULO IX. AUDIENCIAS
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE NOVIEMBRE DE 2002)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE NOVIEMBRE DE 2002)</small>
 
 ###### ARTÍCULO 67.
 
@@ -735,7 +743,7 @@ Cuando sea necesario el reconocimiento de un objeto o de una situación o circun
 
 ### CAPÍTULO VII. CAREO
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE NOVIEMBRE DE 2002)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE NOVIEMBRE DE 2002)</small>
 
 ###### ARTÍCULO 101.
 
@@ -755,7 +763,7 @@ Si la víctima o el ofendido son menores de edad, no estarán obligados a carear
 
 Son públicos los documentos a los que el Código de Procedimientos Civiles del Estado o cualesquiera otras leyes locales o federales atribuyan esa naturaleza. Asimismo, lo son aquéllos que con tal carácter procedan del extranjero. Se deberá contar con la legalización de éstos, cuando el documento se transmita por la vía diplomática, si ello implica acreditación del carácter público del documento conforme a la ley extranjera aplicable.
 
-(REFORMADO, P.O. 21 DE FEBRERO DE 1998)(F. DE E., P.O. 28 DE FEBRERO DE 1998)
+(REFORMADO, P.O. 21 DE FEBRERO DE 1998) (F. DE E., P.O. 28 DE FEBRERO DE 1998)
 
 ###### ARTÍCULO 103.
 
@@ -895,7 +903,9 @@ IX. Incumplimiento de las obligaciones de asistencia familiar, establecido en el
 
 X. Sustracción o retención de menores o incapaces, a que se refieren los artículos 209 y 209 bis. La facultad de formular querella corresponde a quien tenga derechos familiares o de tutela respecto al menor o incapaz;
 
-XI. Adulterio previsto en el artículo 222. Podrá querellarse el cónyuge ofendido, y en el caso de que se formule querella contra uno solo de los adúlteros, se procederá contra ambos;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+XI. (DEROGADA, P.O. 28 DE SEPTIEMBRE DE 2011)
 
 > <small>(REFORMADA, P.O. 3 DE MAYO DE 2003)</small>
 
@@ -913,9 +923,11 @@ XIV. Hostigamiento sexual, previsto en los artículos 159 bis y 159 bis 1;
 
 XV. Amenazas, previsto en el artículo 161; y
 
-> <small>(ADICIONADA, P.O. 3 DE MAYO DE 2003)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
 
-XVI. Violencia familiar, previsto en los artículos 208 bis y 208 bis 1.
+> <small>(REFORMADA, P.O. 28 DE SEPTIEMBRE DE 2011)</small>
+
+XVI. Violencia familiar, previsto en los artículos 208 bis y 208 Bis 1, salvo en el caso de lesiones que tarden en sanar más de quince días o que la víctima sea menor de edad o incapaz
 
 ###### ARTÍCULO 116.
 
@@ -937,7 +949,7 @@ No se requiere apoderado para la presentación de denuncias. Tratándose de deli
 
 ### CAPÍTULO II. DILIGENCIAS DE AVERIGUACIÓN PREVIA
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE NOVIEMBRE DE 2002)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE NOVIEMBRE DE 2002)</small>
 
 ###### ARTÍCULO 119.
 
@@ -961,7 +973,7 @@ Serán aplicables al defensor durante la averiguación previa, en lo procedente,
 
 Sin perjuicio de lo previsto en este Capítulo, cuando el Ministerio Público tenga conocimiento de un delito perseguible por querella, procurará la conciliación entre el inculpado y el ofendido, actuando por sí mismo o requiriendo la intervención de quien esté en condiciones de promover esa conciliación, en virtud de su autoridad moral y del ascendiente que tenga sobre aquéllos. Si se trata de individuos pertenecientes a un grupo étnico indígena, tomará en cuenta los usos y costumbres del grupo para requerir la intervención del conciliador.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE NOVIEMBRE DE 2002)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE NOVIEMBRE DE 2002)</small>
 
 ###### ARTÍCULO 122.
 
@@ -987,7 +999,7 @@ En la averiguación previa, el Ministerio Público recibirá las pruebas que el 
 
 Cuando una autoridad distinta del Ministerio Público practique actuaciones de averiguación previa en auxilio del órgano investigador, por encomienda de éste o por ministerio de ley, deberá remitir a aquél todo lo actuado y poner a su disposición a los detenidos, en su caso, sin demora.
 
-(REFORMADO PRIMER PARRAFO, P.O. 21 DE FEBRERO DE 1998)(F. DE E., P.O. 28 DE FEBRERO DE 1998)
+(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE FEBRERO DE 1998) (F. DE E., P.O. 28 DE FEBRERO DE 1998)
 
 ###### ARTÍCULO 127.
 
@@ -1031,7 +1043,7 @@ El Ministerio Público ejercitará la acción penal, en forma motivada y fundada
 
 El Ministerio Público no podrá ejercitar la acción penal en contra de un inculpado y por unos hechos delictivos que hubiesen quedado comprendidos en consignación practicada con anterioridad, cualquiera que hubiese sido la resolución judicial recaída a este respecto, salvo cuando se trate de la modificación o ampliación del ejercicio de la acción a las que se refiere el artículo 159.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE NOVIEMBRE DE 2002)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE NOVIEMBRE DE 2002)</small>
 
 ###### ARTÍCULO 134.
 
@@ -1259,7 +1271,7 @@ La detención de servidores públicos se comunicará al superior jerárquico de 
 
 Si se concede la suspensión definitiva en amparo contra una orden de aprehensión o de presentación para emitir declaración preparatoria que aún no se hubiese ejecutado, el tribunal que la libró solicitará al que concedió la suspensión que haga comparecer al inculpado en su presencia dentro del plazo que para ese efecto disponga, para que rinda declaración preparatoria y para los demás efectos del procedimiento.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE NOVIEMBRE DE 2002)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE NOVIEMBRE DE 2002)</small>
 
 ###### ARTÍCULO 163.
 
@@ -1305,7 +1317,7 @@ Cuando se trate de delitos perseguibles por querella, el juzgador podrá promove
 
 ### CAPÍTULO III. AUTOS DE PROCESAMIENTO Y DE LIBERTAD POR FALTA DE ELEMENTOS PARA PROCESAR
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE NOVIEMBRE DE 2002)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE NOVIEMBRE DE 2002)</small>
 
 ###### ARTÍCULO 169.
 
@@ -1473,7 +1485,7 @@ La resolución definitiva sólo surtirá efectos en lo que respecta a los hechos
 
 ### CAPÍTULO I. REGLAS GENERALES
 
-(REFORMADO PRIMER PARRAFO, P.O. 21 DE FEBRERO DE 1998)(F. DE E., P.O. 28 DE FEBRERO DE 1998)
+(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE FEBRERO DE 1998) (F. DE E., P.O. 28 DE FEBRERO DE 1998)
 
 ###### ARTÍCULO 190.
 
@@ -1747,7 +1759,7 @@ Cuando una ley suprima un delito o modifique la naturaleza, duración, cuantía 
 
 ### CAPÍTULO I. REGLAS GENERALES
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE NOVIEMBRE DE 2002)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE NOVIEMBRE DE 2002)</small>
 
 ###### ARTÍCULO 221.
 
@@ -2025,7 +2037,7 @@ V. En los demás casos en que la ley lo ordene expresamente.
 
 Cuando se presente una causa de suspensión, el Juez hará la declaratoria respectiva. Cualquiera de las partes podrá promover la suspensión del procedimiento. En todo caso, ésta se resolverá por separado del principal, con audiencia de las partes o sólo de sus representantes, según la naturaleza del motivo que determine la suspensión. En la audiencia, las partes presentarán las pruebas que consideren pertinentes y alegarán lo que a su derecho convenga.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE NOVIEMBRE DE 2002)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE NOVIEMBRE DE 2002)</small>
 
 ###### ARTÍCULO 254.
 
@@ -2095,7 +2107,7 @@ En los casos de suspensión del procedimiento por demencia del inculpado o sustr
 
 ### CAPÍTULO II. PROCEDIMIENTOS RELATIVOS A INIMPUTABLES Y FARMACODEPENDIENTES
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE NOVIEMBRE DE 2002)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE NOVIEMBRE DE 2002)</small>
 
 ###### ARTÍCULO 264.
 
@@ -2185,7 +2197,7 @@ LIC. VÍCTOR MANUEL BARCELÓ RODRÍGUEZ
 
 SECRETARIO DE GOBIERNO
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 21 DE FEBRERO DE 1998.
 
@@ -2228,3 +2240,9 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan las disposiciones que se opongan al presente decreto.
+
+P.O. 28 DE SEPTIEMBRE DE 2011.
+
+PRIMERO.- El presente decreto entrará en vigor a los 30 días naturales contados a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Los delitos que se hubieren cometido con anterioridad con la entrada en vigor del presente Decreto, se sancionarán conforme a las disposiciones normativas vigentes al momento de su comisión.
