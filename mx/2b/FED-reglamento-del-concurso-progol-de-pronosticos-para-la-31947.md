@@ -4,7 +4,7 @@ identifier: "FED-reglamento-del-concurso-progol-de-pronosticos-para-la-31947"
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-06-18"
-last_updated: "2011-06-29"
+last_updated: "2011-09-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=31947&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2003-05-19"
 
 REGLAMENTO DEL CONCURSO PROGOL DE PRONOSTICOS PARA LA ASISTENCIA PUBLICA
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 29 DE JUNIO DE 2011.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 29 DE SEPTIEMBRE DE 2011.
 
 Reglamento publicado en el Diario Oficial de la Federación, el miércoles 18 de junio de 2003.
 
@@ -439,25 +439,25 @@ La firma electrónica del archivo de participaciones será grabada en un disposi
 
 El archivo con la información correspondiente a todas las participaciones que hayan sido registradas para el concurso en el sistema central de captación de transacciones en línea al cual, conforme a lo previsto en el segundo párrafo de este artículo, dicho sistema le asignó una firma electrónica que garantiza su integridad, será grabado en un dispositivo de almacenamiento de datos y depositado por el representante de la Subdirección General de Informática en la caja de seguridad a que se refiere el presente Artículo.
 
-> <small>(ADICIONADO, D.O.F. 31 DE AGOSTO DE 2007)</small>
+> <small>(REFORMADO, D.O.F. 29 DE SEPTIEMBRE DE 2011)</small>
 
 ###### Artículo 37o.
 
 Todas las ceremonias se verificarán en un lugar al cual el público tenga libre acceso.
 
-Pronósticos publicará en medios de comunicación masiva y/o en el sitio Web de Pronósticos, a más tardar al día siguiente de aquél en el que se hubiere verificado el concurso, la combinación de la quiniela ganadora y el importe de la premiación por quiniela sencilla correspondiente a cada una de las categorías establecidas.
+Pronósticos publicará en medios de comunicación masiva y/o en el sitio web de Pronósticos, a más tardar al día siguiente de aquél en el que se hubiere verificado el concurso, la combinación de la quiniela ganadora y el importe de la premiación por quiniela sencilla correspondiente a cada una de las categorías establecidas.
 
 Los resultados ganadores oficiales son:
 
-1. Los que se asienten en el acta mencionada en el Artículo 38o. de este Reglamento;
+1. Los que se asienten en el acta mencionada en el artículo 19o. de este Reglamento;
 
-2. Para el caso de los resultados obtenidos conforme a lo establecido en los Artículos 10o. y 11o. de este Reglamento, la grabación en video de dicho sorteo que conservará Pronósticos es parte integrante de los resultados oficiales, del concurso que corresponda;
+2. Para el caso de los resultados obtenidos conforme a lo establecido en los artículos 10o. y 11o. de este Reglamento, la grabación en video de dicho sorteo que conservará Pronósticos es parte integrante de los resultados oficiales, del concurso que corresponda.
 
-3. Los emitidos por la Terminal;
+3. Los emitidos por la terminal;
 
 4. Los mencionados en la línea telefónica del conmutador de Pronósticos, y
 
-5. Los publicados en la página Web de Pronósticos.
+5. Los publicados en la página web de Pronósticos.
 
 Si hubiera alguna diferencia entre los resultados publicados y los oficiales, estos últimos prevalecerán.
 
@@ -495,11 +495,11 @@ a) Si no hay cuando menos una quiniela con 7 (siete) aciertos, entonces el premi
 
 b) Si no hay cuando menos una quiniela con 1 (un) acierto, entonces el concurso se declara desierto y el monto del fondo será destinado a las Reservas existentes.
 
-> <small>(ADICIONADO, D.O.F. 31 DE AGOSTO DE 2007)</small>
+> <small>(REFORMADO, D.O.F. 29 DE SEPTIEMBRE DE 2011)</small>
 
 ###### Artículo 41o.
 
-Los resultados de la Selección de Ganadores se harán constar en el acta mencionada en el Artículo 38o. En dicha acta se anotarán, además, las particularidades e incidentes fundamentales ocurridos durante el acto y a la misma se anexará archivo electrónico en el que se hará constar la lista producida por el sistema de computación que contenga los números de los boletos ganadores de la única categoría de premiación conforme a lo establecido en el Artículo 40o., así como el importe correspondiente a la única categoría de premiación.
+Los resultados de la selección de ganadores se harán constar en el acta mencionada en el artículo 19o. En dicha acta se anotarán, además las particularidades e incidentes fundamentales ocurridos durante el acto y a la misma se anexará archivo electrónico en el que se hará constar la lista producida por el sistema de computación que contenga los números de los boletos ganadores de la única categoría de premiación conforme a lo establecido en el artículo 40o., así como el importe correspondiente a la única categoría de premiación.
 
 > <small>(ADICIONADO, D.O.F. 31 DE AGOSTO DE 2007)</small>
 
@@ -700,6 +700,10 @@ UNICO.- El presente Acuerdo entrará en vigor al día siguiente de su publicaci�
 D.O.F. 29 DE JUNIO DE 2011.
 
 UNICO.- El presente acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 29 DE SEPTIEMBRE DE 2011.
+
+UNICO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 120.- POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE GOBIERNO DIGITAL DEL ESTADO DE MÉXICO Y MUNICIPIOS, DE LA LEY PARA LA MEJORA REGULATORIA DEL ESTADO DE MÉXICO Y MUNICIPIOS, DEL CÓDIGO ADMINISTRATIVO DEL ESTADO DE MÉXICO, DEL CÓDIGO PENAL DEL ESTADO DE MÉXICO, DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MÉXICO, DE LA LEY DE FOMENTO ECONÓMICO PARA EL ESTADO DE MÉXICO, DEL CÓDIGO PARA LA BIODIVERSIDAD DEL ESTADO DE MÉXICO Y DE LA LEY DE COMPETITIVIDAD Y ORDENAMIENTO COMERCIAL DEL ESTADO DE MÉXICO”.]
 
