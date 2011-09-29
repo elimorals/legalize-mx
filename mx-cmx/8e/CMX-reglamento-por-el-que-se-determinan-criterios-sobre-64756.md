@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-por-el-que-se-determinan-criterios-sobre-64756"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-12-19"
-last_updated: "2008-12-19"
+last_updated: "2011-09-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64756&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,9 @@ issue_date: "2008-12-07"
 
 REGLAMENTO POR EL QUE SE DETERMINAN CRITERIOS SOBRE IMPARCIALIDAD EN EL USO DE RECURSOS PUBLICOS; PROPAGANDA INSTITUCIONAL Y GUBERNAMENTAL; Y ACTOS ANTICIPADOS DE PRECAMPAÑA Y DE CAMPAÑA DURANTE EL PROCESO ELECTORAL ORDINARIO 2008-2009
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUDO DEL REGLAMENTO QUE REGULA EL USO DE RECURSOS PUBLICOS, PROPAGANDA INSTITUCIONAL Y GUBERNAMENTAL, ASI COMO LOS ACTOS ANTICIPADOS DE PRECAMPAÑA Y DE CAMPAÑA, PARA LOS PROCESOS ELECTORALES ORDINARIOS DEL DISTRITO FEDERAL, PUBLICADO EN LA G.O. DE 29 DE SEPTIEMBRE DE 2011, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: ABROGADO.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el viernes 19 de diciembre de 2008.
 
@@ -471,3 +473,15 @@ En caso de se compruebe que la conducta observada por actos anticipados de preca
 ###### Artículo 18.
 
 Todo lo que no esté previsto en el presente Reglamento, será resuelto por el Consejo General del Instituto Electoral del Distrito Federal, de conformidad con la normatividad electoral vigente y los reglamentos aplicables emitidos por el Instituto.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+G.O. 29 DE SEPTIEMBRE DE 2011.
+
+PRIMERO. El presente Reglamento entrará en vigor al momento de su aprobación por parte del Consejo General.
+
+SEGUNDO. Se abroga el Reglamento por el que se determinan criterios sobre imparcialidad en el uso de recursos públicos; propaganda institucional y gubernamental; y actos anticipados de precampaña y de campaña, durante el Proceso Electoral Ordinario 2008-2009 aprobado por el Consejo General mediante el acuerdo ACU-058-08 del 7 de diciembre de 2008.
+
+TERCERO. Se derogan las disposiciones que se opongan al presente Reglamento.
+
+CUARTO. Remítase para su publicación dentro del plazo de tres días hábiles a la Gaceta Oficial del Distrito Federal, así como en los estrados del Instituto Electoral, tanto en oficinas centrales, como en sus cuarenta Direcciones Distritales, y en la página de Internet www.iedf.org.mx
