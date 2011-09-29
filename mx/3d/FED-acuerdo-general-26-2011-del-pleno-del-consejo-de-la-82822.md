@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-26-2011-del-pleno-del-consejo-de-la-82822"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2011-09-13"
-last_updated: "2011-09-13"
+last_updated: "2011-09-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=82822&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,11 +19,11 @@ issue_date: "2011-09-05"
 ---
 # ACUERDO GENERAL 26/2011 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL [RELATIVO AL INICIO DE FUNCIONES DEL JUZGADO CUARTO DE DISTRITO DEL CENTRO AUXILIAR DE LA SEPTIMA REGION, CON RESIDENCIA EN ACAPULCO, GUERRERO]
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 29 DE SEPTIEMBRE DE 2011 EN EL DIARIO OFICIAL DE LA FEDERACIÓN, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 ACUERDO GENERAL 26/2011, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO AL INICIO DE FUNCIONES DEL JUZGADO CUARTO DE DISTRITO DEL CENTRO AUXILIAR DE LA SEPTIMA REGION, CON RESIDENCIA EN ACAPULCO, GUERRERO
 
 TEXTO ORIGINAL.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN DEL 29 DE SEPTIEMBRE DE 2011.</small>
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el martes 13 de septiembre de 2011.
 
@@ -53,11 +53,11 @@ En consecuencia, con fundamento en los artículos constitucionales y legales inv
 
 ACUERDO
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 29 DE SEPTIEMBRE DE 2011 EN EL DIARIO OFICIAL DE LA FEDERACIÓN, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 PRIMERO. El Juzgado Cuarto de Distrito del Centro Auxiliar de la Séptima Región, con residencia en Acapulco, Guerrero, tendrá competencia mixta y jurisdicción en toda la República, e iniciará funciones el dieciséis de septiembre de dos mil once y funcionará conforme a lo establecido en el Acuerdo General 54/2008 del Pleno del Consejo de la Judicatura Federal y sus reformas.
 
-El domicilio del nuevo órgano jurisdiccional será el ubicado en Boulevard de las Naciones Granjas número 39, Fraccionamiento Granjas del Marqués, código postal 39300, Acapulco, Guerrero.
+> <small>(F. DE E., D.O.F. 29 DE SEPTIEMBRE DE 2011)</small>
+
+El domicilio del nuevo órgano jurisdiccional será el ubicado en Boulevard de las Naciones número 640, Granja 39, Fracción 'A', Fraccionamiento Granjas del Marqués, código postal 39890, Acapulco, Guerrero.
 
 SEGUNDO. El Juzgado Cuarto de Distrito del Centro Auxiliar de la Séptima Región, con residencia en Acapulco, Guerrero, apoyará en el dictado de sentencias a los juzgados de Distrito que determine la Comisión de Creación de Nuevos Organos.
 
