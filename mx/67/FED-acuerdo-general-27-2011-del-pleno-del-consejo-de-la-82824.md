@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-27-2011-del-pleno-del-consejo-de-la-82824"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2011-09-13"
-last_updated: "2011-09-13"
+last_updated: "2011-09-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=82824&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,11 +19,11 @@ issue_date: "2011-09-05"
 ---
 # ACUERDO GENERAL 27/2011 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL [REFORMA EL DIVERSO ACUERDO GENERAL 54/2008, POR EL QUE SE CREA EL CENTRO AUXILIAR DE LA SEPTIMA REGION, EN ACAPULCO, GUERRERO, ASI COMO LOS ORGANOS JURISDICCIONALES QUE LO INTEGRARAN]
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 29 DE SEPTIEMBRE DE 2011 EN EL DIARIO OFICIAL DE LA FEDERACIÓN, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 ACUERDO GENERAL 27/2011, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL DIVERSO ACUERDO GENERAL 54/2008, POR EL QUE SE CREA EL CENTRO AUXILIAR DE LA SEPTIMA REGION, CON RESIDENCIA EN ACAPULCO, GUERRERO, ASI COMO LOS ORGANOS JURISDICCIONALES QUE LO INTEGRARAN
 
 TEXTO ORIGINAL.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN DEL 29 DE SEPTIEMBRE DE 2011.</small>
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el martes 13 de septiembre de 2011.
 
@@ -57,11 +57,11 @@ En consecuencia, con fundamento en los artículos constitucionales y legales inv
 
 ACUERDO
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 29 DE SEPTIEMBRE DE 2011 EN EL DIARIO OFICIAL DE LA FEDERACIÓN, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 UNICO. Se reforman los puntos PRIMERO y DECIMOPRIMERO del Acuerdo General 54/2008 del Pleno del Consejo de la Judicatura Federal, por el que se crea el Centro Auxiliar de la Séptima Región, con residencia en Acapulco, Guerrero, así como los órganos jurisdiccionales que lo integrarán, para quedar como sigue:
 
-"PRIMERO. CONFORMACION, UBICACION Y COMPETENCIA. Se crea el Centro Auxiliar de la Séptima Región, con residencia en Acapulco, Guerrero, conformado por un tribunal colegiado Auxiliar, un tribunal unitario y cuatro juzgados de Distrito Auxiliares, el domicilio de los juzgados de Distrito será el ubicado en Boulevard de las Naciones Granjas número 39, Fraccionamiento Granjas del Marqués, código postal 39300, Acapulco, Guerrero, y los restantes órganos jurisdiccionales estarán en avenida Adolfo López Mateos número 4, Fraccionamiento Las Playas, código postal 39390, Acapulco, Guerrero, los cuales tendrán jurisdicción en toda la República y competencia mixta, para apoyar en el dictado de sentencias, su denominación será la siguiente:
+> <small>(F. DE E., D.O.F. 29 DE SEPTIEMBRE DE 2011)</small>
+
+"PRIMERO. CONFORMACION, UBICACION Y COMPETENCIA. Se crea el Centro Auxiliar de la Séptima Región, con residencia en Acapulco, Guerrero, conformado por un tribunal colegiado Auxiliar, un tribunal unitario y cuatro juzgados de Distrito Auxiliares, el domicilio de los juzgados de Distrito será el ubicado en Boulevard de las Naciones número 640, Granja 39, Fracción 'A', Fraccionamiento Granjas del Marqués, código postal 39890, Acapulco, Guerrero, y los restantes órganos jurisdiccionales estarán en avenida Adolfo López Mateos número 4, Fraccionamiento Las Playas, código postal 39390, Acapulco, Guerrero, los cuales tendrán jurisdicción en toda la República y competencia mixta, para apoyar en el dictado de sentencias, su denominación será la siguiente:
 
 Juzgado Primero de Distrito del Centro Auxiliar de la Séptima Región.
 
@@ -81,13 +81,11 @@ Tribunal Colegiado de Circuito del Centro Auxiliar de la Séptima Región.
 
 DECIMOPRIMERO. DEL ACUERDO GENERAL 11/2011. Se reforma el Acuerdo General 11/2011 del Pleno del Consejo de la Judicatura Federal, de veintitrés de marzo de dos mil once, en el punto 7 del apartado QUINTO, para quedar como sigue:
 
-“QUINTO. Se contará con:
+"QUINTO. Se contará con:
 
 …
 
 7. El Centro Auxiliar de la Séptima Región, con residencia en Acapulco, Guerrero, se integrará por un tribunal colegiado de Circuito Auxiliar, un tribunal unitario de Circuito Auxiliar y cuatro juzgados de Distrito Auxiliares.
-
-…"
 
 ## TRANSITORIOS
 
