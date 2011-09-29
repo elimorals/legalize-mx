@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-ingresos-del-estado-de-yucatan-para-el-ejercicio-77794"
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2010-12-20"
-last_updated: "2010-12-20"
+last_updated: "2011-09-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77794&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY DE INGRESOS DEL ESTADO DE YUCATÁN PARA EL EJERCICIO FISCAL 2011
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 29 DE SEPTIEMBRE DE 2011.
 
 Ley publicada en el Diario Oficial del Estado de Yucatán, el lunes 20 de diciembre de 2010.
 
@@ -191,9 +191,13 @@ El Gobierno del Estado, a través de la Secretaría de Hacienda, percibirá los 
 
 PESOS
 
-INGRESOS EXTRAORDINARIOS $ 3,905'298,857.00
+(ACTUALIZADA EN SU MONTO, D.O. 29 DE SEPTIEMBRE DE 2011)
 
-I.- Empréstitos $ 1,300'000,000.00
+INGRESOS EXTRAORDINARIOS $ 5,244'780,902.31
+
+(ACTUALIZADA EN SU MONTO, D.O. 29 DE SEPTIEMBRE DE 2011)
+
+I.- Empréstitos $ 2,639'482,045.31
 
 II.- Los apoyos extraordinarios que otorgue el Gobierno
 
@@ -341,9 +345,11 @@ Ingresos provenientes del sector paraestatal y
 
 órganos autónomos $ 2,442'356,220.00
 
+> <small>(REFORMADO, D.O. 29 DE SEPTIEMBRE DE 2011)</small>
+
 ###### Artículo 12.
 
-El total de ingresos para el Ejercicio Fiscal 2011 será de: $25,423'210,108.00 SON: VEINTICINCO MIL CUATROCIENTOS VEINTITRES MILLONES DOSCIENTOS DIEZ MIL CIENTO OCHO PESOS 00/100 MONEDA NACIONAL.
+El total de ingresos para el Ejercicio Fiscal 2011 será de: $26,762'692,153.31 VEINTISÉIS MIL SETECIENTOS SESENTA Y DOS MILLONES SEISCIENTOS NOVENTA Y DOS MIL CIENTO CINCUENTA Y TRES PESOS 31/100 MONEDA NACIONAL.
 
 ###### Artículo 13.
 
@@ -438,3 +444,11 @@ GOBERNADORA DEL ESTADO DE YUCATÁN
 C. VÍCTOR MANUEL SÁNCHEZ ÁLVAREZ
 
 SECRETARIO GENERAL DE GOBIERNO
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS DEL PRESENTE ORDENAMIENTO.</small>
+
+D.O. 29 DE SEPTIEMBRE DE 2011.
+
+###### ARTÍCULO ÚNICO.
+
+Este Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
