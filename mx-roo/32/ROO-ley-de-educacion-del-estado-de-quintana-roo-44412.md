@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-educacion-del-estado-de-quintana-roo-44412"
 country: "mx"
 rank: "ley"
 publication_date: "2005-03-14"
-last_updated: "2009-12-16"
+last_updated: "2011-09-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44412&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "ROO"
 ---
 # LEY DE EDUCACION DEL ESTADO DE QUINTANA ROO
 
-LEY DE EDUCACION DEL ESTADO DE QUINTANA ROO
+LEY DE EDUCACIÓN DEL ESTADO DE QUINTANA ROO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE DICIEMBRE DE 2009.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE SEPTIEMBRE DE 2011.
 
 Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el lunes 14 de marzo de 2005
 
@@ -137,6 +137,28 @@ Las instituciones y los organismos de cultura, de ciencia y tecnología, de juve
 
 Los planteles de educación básica del Estado operarán con base en programas estratégicos de transformación escolar, elaborados por el director de cada escuela, por cada supervisor escolar y por cada jefe de sector con apoyo de los docentes, debiendo ser reformulados anualmente con base en los resultados de la evaluación inmediata anterior. Dichos programas serán avalados por la asociación de padres de familia del plantel y por la Autoridad Educativa.
 
+> <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2011)</small>
+
+El Estado garantizará en las zonas más necesitadas en todos los Municipios de la entidad, la implementación del Programa de Escuelas de Tiempo Completo en base a su disposición presupuestal, este Programa deberá estar dirigido a los alumnos de educación primaria.
+
+> <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2011)</small>
+
+La Autoridad Educativa Estatal, para implementar dicho programa en los Municipios del Estado, deberá atender a los siguientes criterios:
+
+I. Ubicación en Zonas urbano marginadas y rurales;
+
+II. Cercanía y facilidad de acceso a la escuela;
+
+III. Laborar en un solo turno;
+
+IV. Espacios para realizar actividades recreativas y deportivas;
+
+V. Barda o cerca perimetral;
+
+VI. Interés manifiesto de padres de familia; y
+
+VII. Plantilla conformada mayoritariamente con docentes de una plaza.
+
 ###### Artículo 11.
 
 El Sistema Educativo Estatal se vinculará con las diversas instituciones, organismos, grupos sociales y demás personas que intervienen en los procesos que promueven el desarrollo de los educandos y de la sociedad, quienes integrarán el Consejo Consultivo del Compromiso Social por la Calidad de la Educación, de conformidad con el acuerdo respectivo. Este Consejo validará las propuestas que formulen los diversos actores de la educación para que éstas se integren a la política educativa estatal.
@@ -211,7 +233,7 @@ La Autoridad Educativa Estatal establecerá un Sistema Integral de Capacitación
 
 La autoridad educativa estatal elaborará y aplicará un plan integral de equidad, por medio del cual coordine a todas las instituciones que operen programas que incidan en la función educativa, sin distinción por su fuente de financiamiento -federal, estatal, municipal o privado-, para apoyar el acceso, reingreso, la permanencia y la conclusión de la educación básica de niños, niñas y jóvenes en condiciones de mayor desventaja social, especialmente a personas en condición de pobreza extrema; en reclusión; habitantes de zonas urbano marginadas, rurales, indígenas, asentamientos irregulares; migrantes; personas con capacidades diferentes y sobresalientes; jóvenes y adultos en rezago educativo; madres solteras y jóvenes desamparadas.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
 ###### Artículo 20.
 
@@ -365,7 +387,13 @@ XLIII. Establecer los estímulos y los mecanismos profesionales que propicien la
 
 XLIV. Otorgar reconocimientos, distinciones, estímulos y recompensas a los educadores, cuyas actividades hayan sido sobresalientes, tomando como base los resultados del Sistema Integral de Evaluación Educativa;
 
-XLV. Las demás atribuciones establecidas en la Ley General de Educación, esta Ley y las disposiciones que de las mismas resulten.
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2011)</small>
+
+XLV. Promover la transformación de las escuelas del sistema tradicional por turno en escuelas de tiempo completo; de acuerdo con la capacitación del personal docente, las condiciones presupuestales y la infraestructura física educativa;
+
+> <small>(ADICIONADA, P.O. 30 DE SEPTIEMBRE DE 2011)</small>
+
+XLVI. Las demás atribuciones establecidas en la Ley General de Educación, esta Ley y las disposiciones que de las mismas resulten.
 
 ###### Artículo 25.
 
@@ -1223,7 +1251,7 @@ LA SECRETARIA DE EDUCACIÓN Y CULTURA
 
 M. C. MIRNA MANZANILLA ROMERO
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 13 DE NOVIEMBRE DE 2009.
 
@@ -1236,3 +1264,19 @@ P.O. 16 DE DICIEMBRE DE 2009.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+P.O. 30 DE SEPTIEMBRE DE 2011.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO.- El Programa de Escuelas de Tiempo Completo deberá implementarse en todos los Municipios del Estado, durante el ciclo escolar 2011-2012, en las escuelas primarias del Estado que cumplan lo dispuesto por el presente Decreto.
+
+Para tal efecto, la Autoridad Educativa Estatal, determinará y difundirá con 30 días previos a la implementación de este Programa, las escuelas que serán beneficiadas.
+
+El Titular de la Secretaría de Educación del Gobierno del Estado deberá informar por escrito a la Legislatura dentro del término de 30 días a la conclusión del ciclo escolar referido en el párrafo primero de este numeral, sobre las medidas y acciones realizadas con motivo de la implementación del programa a que alude el presente Decreto.
+
+TERCERO.- Se autoriza al Titular del Poder Ejecutivo del Estado, para que a través de la Secretaría de Hacienda, realice las transferencias y ajustes presupuestales para el cumplimiento de lo dispuesto en el presente Decreto.
+
+CUARTO.- Las escuelas que cuentan con el Programa de Escuelas de Tiempo Completo en el Estado, continuarán ejerciéndolo, sin menoscabo a lo dispuesto en el presente Decreto.
+
+QUINTO.- Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
