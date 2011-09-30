@@ -4,7 +4,7 @@ identifier: "FED-reglamento-del-sorteo-pronos-mas-de-pronosticos-para-la-71037"
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-11-26"
-last_updated: "2010-05-28"
+last_updated: "2011-09-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=71037&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2009-09-29"
 
 REGLAMENTO DEL SORTEO PRONOS MAS DE PRONOSTICOS PARA LA ASISTENCIA PUBLICA
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 28 DE MAYO DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 30 DE SEPTIEMBRE DE 2011.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el jueves 26 de noviembre de 2009.
 
@@ -51,7 +51,9 @@ El presente Reglamento tiene por objeto regular la operación del Sorteo Pronos 
 
 Para los efectos de este Reglamento, se entenderá por:
 
-I. Agente Autorizado: La persona física o moral que haya celebrado contrato de comisión mercantil con Pronósticos para la Asistencia Pública, y cuya función consistirá en aceptar las participaciones del público en la forma y términos señalados en este reglamento;
+> <small>(REFORMADA, D.O.F. 30 DE SEPTIEMBRE DE 2011)</small>
+
+I. Comercializador: La persona física o moral que haya celebrado contrato con Pronósticos para aceptar quinielas del público en la forma y términos señalados en las disposiciones reglamentarias.
 
 II. Boleto: Documento impreso o registro electrónico en el que se plasma un número generado a través de una selección automática y consecutiva efectuada por el Sistema de Cómputo Central, el cual acredita el derecho de participar en el Sorteo;
 
@@ -79,7 +81,9 @@ XII. Sorteo: Actividad en la que los poseedores o titulares de un boleto mediant
 
 XIII. Sorteo Base: Sorteo de Tris en cualquiera de sus modalidades, Melate con Revancha, Chispazo, Gana Gato, así como los Concursos Progol con Revancha y Protouch; o cualquier otro que con posterioridad determine Pronósticos, en el que originalmente intervenga el participante;
 
-XIV. Terminal: Aparato cuya función consiste en captar los datos de la participación hecha por el concursante;
+> <small>(REFORMADA, D.O.F. 30 DE SEPTIEMBRE DE 2011)</small>
+
+XIV. Terminal: Cualquier dispositivo de punto de venta que se utilice para la comercialización de concursos, sorteos, productos y servicios que ofrece Pronósticos.
 
 XV. Urna Electrónica: Sistema Electrónico generador de números aleatorios, el cual determina el número ganador, y
 
@@ -205,15 +209,21 @@ III. La línea telefónica del conmutador de Pronósticos.
 
 Si hubiera alguna diferencia entre el resultado publicado y el establecido en el acta de cierre del Sorteo, este último prevalecerá en cualquier circunstancia.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 30 DE SEPTIEMBRE DE 2011)</small>
+
 ###### ARTICULO 13.
 
-Pronósticos podrá facultar a sus Agentes Autorizados para registrar Participaciones y captar la venta del Sorteo Pronos MAS mediante el uso de:
+Pronósticos podrá facultar a sus Comercializadores para registrar Participaciones y captar la venta del Sorteo Pronos MAS mediante el uso de:
 
-I. Terminales, que mediante la digitación que haga el Agente Autorizado, ésta imprima, numere y expida el Boleto que, contra su pago, será entregado al participante como comprobante de su Participación, quedando almacenado en el Sistema de Cómputo Central, y
+> <small>(REFORMADA, D.O.F. 30 DE SEPTIEMBRE DE 2011)</small>
+
+I. Terminales, que mediante la digitación que haga el Comercializador, ésta imprima, numere y expida el Boleto que, contra su pago, será entregado al participante como comprobante de su Participación, quedando almacenado en el Sistema de Cómputo Central, y
 
 II. Medios Electrónicos, enlazados al Sistema de Cómputo Central, que transmiten las Participaciones para quedar almacenadas en el Sistema de Cómputo Central.
 
-Los Agentes Autorizados recibirán de los participantes el pago del precio correspondiente y lo remitirá a Pronósticos en las condiciones y términos señalados en el contrato de comisión mercantil y el Reglamento de Agentes de Pronósticos para la Asistencia Pública.
+> <small>(REFORMADO, D.O.F. 30 DE SEPTIEMBRE DE 2011)</small>
+
+Los Comercializadores recibirán de los participantes el pago del precio correspondiente y lo remitirá a Pronósticos en las condiciones y términos señalados en el contrato y el Reglamento de Comercializadores de Pronósticos para la Asistencia Pública.
 
 ###### ARTICULO 14.
 
@@ -225,7 +235,9 @@ En caso de cancelación del Sorteo, Pronósticos quedará obligado a rembolsar a
 
 El total de ventas captadas se distribuirá de la siguiente forma:
 
-I. Hasta el 10% a los agentes autorizados como comisión por las ventas netas que realicen al público, en términos del contrato de comisión mercantil celebrado con Pronósticos;
+> <small>(REFORMADA, D.O.F. 30 DE SEPTIEMBRE DE 2011)</small>
+
+I. Hasta el 10% (diez por ciento) para los Comercializadores, como retribución por las ventas que realicen;
 
 II. El monto destinado a premiación para el participante ganador, se determinará de acuerdo al importe del premio que para tal efecto se estipule, mismo que será dado a conocer de acuerdo a lo señalado por el artículo 5 de este instrumento, y
 
@@ -265,13 +277,17 @@ La Comisión Dictaminadora de Reclamaciones a través de quien ésta designe, no
 
 Si alguna o algunas de las reclamaciones se consideraron procedentes, la Comisión Dictaminadora de Reclamaciones acordará el pago que corresponda, en su caso, con cargo al fondo de reserva.
 
-### Capítulo IV. De los Agentes de Pronósticos
+> <small>(REFORMADA SU DENOMINACION, D.O.F. 30 DE SEPTIEMBRE DE 2011)</small>
+
+### Capítulo IV. De los Comercializadores de Pronósticos
+
+> <small>(REFORMADO, D.O.F. 30 DE SEPTIEMBRE DE 2011)</small>
 
 ###### ARTICULO 22.
 
-Los Agentes Autorizados se encuentran obligados a observar lo establecido en el presente Reglamento y demás disposiciones aplicables.
+Los Comercializadores se encuentran obligados a observar lo establecido en el presente Reglamento y demás disposiciones aplicables.
 
-Las omisiones, errores o faltas imputables a los Agentes Autorizados o a su personal dependiente, por inobservancia o violación de las normas reglamentarias aplicables, no constituirán responsabilidad a cargo de Pronósticos.
+Las omisiones, errores o faltas imputables a los Comercializadores o a su personal dependiente, por inobservancia o violación de las normas reglamentarias aplicables, no constituirán responsabilidad a cargo de Pronósticos.
 
 ### Capítulo V. Del pago de Premios
 
@@ -314,3 +330,9 @@ D.O.F. 28 DE MAYO DE 2010.
 PRIMERO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO.- Se derogan todas aquellas disposiciones que se contrapongan a las establecidas en el presente Decreto.
+
+D.O.F. 30 DE SEPTIEMBRE DE 2011.
+
+PRIMERO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Se derogan todas aquellas disposiciones que se contrapongan a las establecidas en el presente Acuerdo.
