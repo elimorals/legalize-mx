@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-11-2011-del-pleno-del-consejo-de-la-81249"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2011-05-12"
-last_updated: "2011-09-13"
+last_updated: "2011-09-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81249&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2011-05-03"
 
 ACUERDO GENERAL 11/2011, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DETERMINACION DEL NUMERO Y LIMITES TERRITORIALES DE LOS CIRCUITOS EN QUE SE DIVIDE LA REPUBLICA MEXICANA; Y AL NUMERO, A LA JURISDICCION TERRITORIAL Y ESPECIALIZACION POR MATERIA DE LOS TRIBUNALES COLEGIADOS Y UNITARIOS DE CIRCUITO Y DE LOS JUZGADOS DE DISTRITO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 13 DE SEPTIEMBRE DE 2011.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 30 DE SEPTIEMBRE DE 2011.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el jueves 12 de mayo de 2011.
 
@@ -169,7 +169,9 @@ VI. SEXTO CIRCUITO:
 
 VII. SEPTIMO CIRCUITO:
 
-1. Siete tribunales colegiados especializados: dos en materias penal y de trabajo y dos en materia administrativa, con residencia en Boca del Río; dos tribunales colegiados en materia civil y uno en materias penal y de trabajo con sede en Xalapa.
+> <small>(REFORMADO POR EL PUNTO SEPTIMO DEL ACUERDO GENERAL 32/2011 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 30 DE SEPTIEMBRE DE 2011)</small>
+
+1. Ocho tribunales colegiados especializados: dos en materias penal y de trabajo y dos en materia administrativa, con residencia en Boca del Río; dos tribunales colegiados en materia civil y dos en materias penal y de trabajo con sede en Xalapa.
 
 2. Dos tribunales unitarios con residencia en Boca del Río.
 
@@ -713,6 +715,12 @@ QUINTO. Se contará con:
 
 Dichos órganos jurisdiccionales tendrán jurisdicción en toda la República Mexicana y su competencia será mixta.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO] POR EL PUNTO DECIMOPRIMERO DEL ACUERDO GENERAL 33/2011 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 30 DE SEPTIEMBRE DE 2011)</small>
+
+11. El Centro Auxiliar de la Decimoprimera Región, con residencia en Coatzacoalcos, Veracruz, el cual se integrará por dos juzgados de Distrito Auxiliares y dos tribunales Colegiados de Circuito Auxiliares.
+
+Dichos órganos jurisdiccionales tendrán jurisdicción en toda la República Mexicana y su competencia será mixta.
+
 SEXTO. El Pleno y la Comisión de Creación de Nuevos Organos del Consejo de la Judicatura Federal, en el ámbito de sus respectivas competencias, interpretarán y resolverán cualquier cuestión administrativa que pudiera suscitarse con motivo de la aplicación del presente acuerdo.
 
 SEPTIMO. Los asuntos que como consecuencia de la entrada en vigor de este acuerdo queden comprendidos por su procedencia dentro de la jurisdicción territorial de un tribunal de Circuito o juzgado de Distrito diferente del que se encuentre conociendo de los mismos, continuarán en estos últimos hasta su conclusión.
@@ -768,3 +776,23 @@ PRIMERO. El presente acuerdo entrará en vigor el día de su aprobación.
 SEGUNDO. Publíquese este acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
 
 TERCERO. La Secretaría Ejecutiva de Vigilancia, Información y Evaluación, deberá integrar de inmediato el texto de esta reforma, al Acuerdo General 54/2008, del Pleno del Consejo de la Judicatura Federal, por el que se crea el Centro Auxiliar de la Séptima Región, con residencia en Acapulco, Guerrero, así como los órganos jurisdiccionales que lo integrarán; además, al Acuerdo General 11/2011 del Pleno del Consejo de la Judicatura Federal, relativo a la determinación del número y límites territoriales de los Circuitos en que se divide la República Mexicana; y al número, a la jurisdicción territorial y especialización por materia de los Tribunales Colegiados y Unitarios de Circuito y de los Juzgados de Distrito.
+
+D.O.F. 30 DE SEPTIEMBRE DE 2011.
+
+ACUERDO GENERAL 32/2011 POR EL QUE SE MODIFICA EL ACUERDO GENERAL 11/2011 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, PUBLICADO EN EL DIARIO OFICIAL DE LA FEDERACION EL DOCE DE MAYO DE DOS MIL ONCE, EN EL PUNTO SEGUNDO, APARTADO VII.- SEPTIMO CIRCUITO, NUMERO 1.
+
+PRIMERO. El presente acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO. Publíquese este acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+
+TERCERO. La Secretaría Ejecutiva de Vigilancia, Información y Evaluación, deberá integrar de inmediato el texto de la reforma, al Acuerdo General 11/2011, del Pleno del Consejo de la Judicatura Federal, Relativo a la Determinación del Número y Límites Territoriales de los Circuitos en que se divide la República Mexicana; y al Número, a la Jurisdicción Territorial y Especialización por Materia de los Tribunales Colegiados y Unitarios de Circuito y de los Juzgados de Distrito.
+
+D.O.F. 30 DE SEPTIEMBRE DE 2011.
+
+ACUERDO GENERAL 33/2011 POR EL QUE SE REFORMA EL ACUERDO GENERAL 11/2011 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, DE VEINTITRES DE MARZO DE DOS MIL ONCE, EN EL PUNTO QUINTO.
+
+PRIMERO. El presente acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO. Publíquese este acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+
+TERCERO. La Secretaría Ejecutiva de Vigilancia, Información y Evaluación, deberá integrar de inmediato el texto de este Acuerdo General al diverso Acuerdo General 11/2011 del Pleno del Consejo de la Judicatura Federal, para efectos de su actualización.
