@@ -4,7 +4,7 @@ identifier: "FED-reglamento-del-sorteo-chispazo-de-pronosticos-para-la-31948"
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-06-18"
-last_updated: "2010-05-28"
+last_updated: "2011-09-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=31948&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2003-05-19"
 
 REGLAMENTO DEL CONCURSO CHISPAZO DE PRONOSTICOS PARA LA ASISTENCIA PUBLICA
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 28 DE MAYO DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 30 DE SEPTIEMBRE DE 2011.
 
 Reglamento publicado en el Diario Oficial de la Federación, el miércoles 18 de junio de 2003.
 
@@ -45,19 +45,19 @@ El sorteo Chispazo consiste en la selección o pronóstico que haga el participa
 
 bis.- El concurso Chispazo consiste en la selección o pronóstico que haga el participante, de una combinación de números tomados del conjunto que determine Pronósticos para el sorteo, mediante el pago del precio correspondiente, y que le dará derecho a participar en el sorteo respectivo y a obtener, en el supuesto de que los números sorteados correspondan a la selección que hubiere hecho, premios en efectivo en los términos de este reglamento.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 23 DE JULIO DE 2008)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 30 DE SEPTIEMBRE DE 2011)</small>
 
 ###### Artículo 3o.
 
-Para los efectos de este Reglamento, se entenderá por:
+Para los efectos de este reglamento, se entenderá por:
 
-> <small>(REFORMADO, D.O.F. 11 DE JUNIO DE 2004)</small>
+> <small>(REFORMADO, D.O.F. 30 DE SEPTIEMBRE DE 2011)</small>
 
-1.- Agente autorizado.- La persona física o moral que haya celebrado contrato de comisión mercantil con Pronósticos y cuya función consistirá en aceptar quinielas del público en la forma y términos señalados en las disposiciones reglamentarias.
+1.- Comercializador.- La persona física o moral que haya celebrado contrato con Pronósticos para aceptar quinielas del público en la forma y términos señalados en las disposiciones reglamentarias.
 
-> <small>(REFORMADO, D.O.F. 8 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADO, D.O.F. 30 DE SEPTIEMBRE DE 2011)</small>
 
-2.- Terminal.- Aparato electrónico cuya función consiste en captar los datos de la selección de números hecha por el participante, bien sea por solicitud del mismo en una asignación automática de ellos, por la lectura óptica del volante o por la digitación de los datos, para ser transmitidos al computador central para el registro de las participaciones, y expedir los boletos que comprueban la participación en el sorteo. Pronósticos podrá definir otras modalidades y conductos de venta transmitiendo los datos de las combinaciones vendidas al Registro General de combinaciones participantes para un sorteo determinado, previa verificación de que cumplen con los requisitos establecidos en este reglamento.
+2.- Terminal.- Cualquier dispositivo de punto de venta que se utilice para la comercialización de concursos, sorteos, productos y servicios que ofrece Pronósticos.
 
 > <small>(REFORMADO, D.O.F. 8 DE SEPTIEMBRE DE 2006)</small>
 
@@ -113,11 +113,11 @@ Con excepción de las causas señaladas en el presente reglamento, no será posi
 
 ### Capítulo II. De los procedimientos para concursar
 
-> <small>(REFORMADO, D.O.F. 8 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADO, D.O.F. 30 DE SEPTIEMBRE DE 2011)</small>
 
 ###### Artículo 4o.
 
-Se podrá participar en el sorteo, utilizando los volantes oficiales emitidos por Pronósticos, por dictado del participante al agente, a través de una selección automática y aleatoria efectuada por la terminal (Chispático), o por cualquier otro medio o dispositivo electrónico autorizado por Pronósticos.
+Se podrá participar en el sorteo, utilizando los volantes oficiales emitidos por Pronósticos, por dictado del participante al Comercializador, a través de una selección automática y aleatoria efectuada por la terminal (Chispático), o por cualquier otro medio o dispositivo electrónico autorizado por Pronósticos.
 
 > <small>(REFORMADO, D.O.F. 8 DE SEPTIEMBRE DE 2006)</small>
 
@@ -129,19 +129,27 @@ Combinación sencilla es la selección de 5 (cinco) distintos números de los co
 
 Combinación múltiple es la selección de 6 (seis) a 7 (siete) números distintos entre el 1 (uno) y el 28 (veintiocho) y que da lugar a varias combinaciones sencillas: 6 (seis) números a 6 (seis) combinaciones y 7 (siete) números a 21 (veintiún) combinaciones.
 
-> <small>(REFORMADO, D.O.F. 8 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 30 DE SEPTIEMBRE DE 2011)</small>
 
 ###### Artículo 6o.
 
-Pronósticos podrá facultar a sus agentes autorizados para registrar participaciones y captar la venta de Chispazo mediante el uso de:
+Pronósticos podrá facultar a sus Comercializadores para registrar participaciones y captar la venta de Chispazo mediante el uso de:
 
-a) Terminales que por lectura óptica del volante llenado por el participante indicando su selección de números, mediante la digitación que haga el agente autorizado de estos datos en la terminal, o bien si el participante requiere una selección automática y aleatoria efectuada por la terminal (Chispático), ésta imprima, numere y expida el boleto que, contra su pago será entregado al participante como comprobante de su participación, quedando almacenado el registro electrónico correspondiente en el sistema central de captación de transacciones en línea.
+> <small>(REFORMADO, D.O.F. 30 DE SEPTIEMBRE DE 2011)</small>
+
+a) Terminales que por lectura óptica del volante llenado por el participante indicando su selección de números, mediante la digitación que haga el Comercializador de estos datos en la terminal, o bien si el participante requiere una selección automática y aleatoria efectuada por la terminal (Chispático), ésta imprima, numere y expida el boleto que, contra su pago será entregado al participante como comprobante de su participación, quedando almacenado el registro electrónico correspondiente en el sistema central de captación de transacciones en línea.
+
+> <small>(REFORMADO, D.O.F. 8 DE SEPTIEMBRE DE 2006)</small>
 
 b) Medios electrónicos enlazados al sistema central de captación de transacciones en línea que permiten transmitir las participaciones al computador central en el cual queda almacenado el registro electrónico correspondiente.
 
-Pronósticos podrá facultar a sus agentes autorizados para recibir y captar la venta del sorteo por otros medios de comunicación electrónica, en los términos del contrato de comisión mercantil que tengan para tal efecto, transmitiendo los datos de las participaciones vendidas al sistema central de captación de transacciones en línea.
+> <small>(REFORMADO, D.O.F. 30 DE SEPTIEMBRE DE 2011)</small>
 
-Los agentes autorizados recibirán de los participantes el pago del precio correspondiente y lo remitirá a Pronósticos en las condiciones y términos que Pronósticos señale en el contrato de comisión mercantil y el Reglamento de Agentes.
+Pronósticos podrá facultar a sus Comercializadores para recibir y captar la venta del sorteo por otros medios de comunicación electrónica, en los términos del contrato celebrado para tal efecto, transmitiendo los datos de las participaciones vendidas al sistema central de captación de transacciones en línea.
+
+> <small>(REFORMADO, D.O.F. 30 DE SEPTIEMBRE DE 2011)</small>
+
+Los Comercializadores recibirán de los participantes el pago del precio correspondiente y lo remitirán a Pronósticos en las condiciones y términos establecidos en el contrato y en el Reglamento de Comercializadores.
 
 > <small>(ADICIONADO, D.O.F. 8 DE SEPTIEMBRE DE 2006)</small>
 
@@ -221,9 +229,9 @@ Se considera fondo de cada sorteo el valor conjunto de todas las participaciones
 
 Dicho fondo se aplicará como sigue:
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 22 DE SEPTIEMBRE DE 2005)</small>
+> <small>(REFORMADO, D.O.F. 30 DE SEPTIEMBRE DE 2011)</small>
 
-Hasta el 10% a los agentes autorizados como comisión por las ventas que realicen, en términos del contrato de comisión mercantil celebrado entre ellos y Pronósticos.
+Hasta el 10% (diez por ciento) para los Comercializadores, como retribución por las ventas que realicen.
 
 > <small>(REFORMADO, D.O.F. 8 DE SEPTIEMBRE DE 2006)</small>
 
@@ -315,13 +323,17 @@ Si alguna o algunas de las reclamaciones se consideraron procedentes, la Comisi�
 
 Si alguna o algunas de las reclamaciones se consideraron procedentes, la Comisión Dictaminadora de Reclamaciones lo comunicará al Director General para que él ordene el pago que proceda, con cargo al fondo de garantía establecido.
 
+> <small>(REFORMADO, D.O.F. 30 DE SEPTIEMBRE DE 2011)</small>
+
 ###### Artículo 20o.
 
-Los agentes autorizados de Pronósticos atenderán fielmente el contenido de este Reglamento y demás normatividad emitida por Pronósticos. Las omisiones, errores o faltas imputables a los agentes autorizados o a su personal dependiente, por inobservancia o violación de las normas reglamentarías aplicables, no constituirán responsabilidad a cargo de Pronósticos.
+Los Comercializadores de Pronósticos atenderán fielmente el contenido de este reglamento y demás normatividad emitida por Pronósticos. Las omisiones, errores o faltas imputables a los Comercializadores o a su personal dependiente, por inobservancia o violación de las normas reglamentarias aplicables, no constituirán responsabilidad a cargo de Pronósticos.
+
+> <small>(REFORMADO, D.O.F. 30 DE SEPTIEMBRE DE 2011)</small>
 
 ###### Artículo 21o.
 
-Es aplicable a los agentes autorizados por Pronósticos para efectuar la venta de sus boletos, el Reglamento publicado en el Diario Oficial de la Federación de fecha 25 de mayo de 1978, en el que se establecen sus derechos, obligaciones y responsabilidades.
+Es aplicable a los Comercializadores de Pronósticos para efectuar la venta de los boletos, el Reglamento de Comercializadores vigente.
 
 ### Capítulo V. Del pago de premios
 
@@ -333,7 +345,9 @@ A partir del siguiente día hábil a la fecha de celebración del sorteo corresp
 
 El pago se efectuará contra la presentación y entrega material del boleto correspondiente a la combinación que hubiere resultado ganadora. Al efectuar el pago se descontará y retendrá el importe de los impuestos que fijen las leyes respectivas.
 
-Los tenedores de boletos premiados podrán cobrar su importe ante cualquier agente autorizado, siempre que su monto no exceda la suma que autorice Pronósticos.
+> <small>(REFORMADO, D.O.F. 30 DE SEPTIEMBRE DE 2011)</small>
+
+Los tenedores de boletos premiados podrán cobrar su importe ante cualquier Comercializador, siempre que su monto no exceda la suma que autorice Pronósticos.
 
 Cualquiera que sea el importe del premio podrán hacerlo efectivo en las oficinas generales de Pronósticos o en las instituciones u organismos que señale y que se harán del conocimiento del público.
 
@@ -385,11 +399,11 @@ En el mismo boleto con que se participa en Chispazo, vendrá impresa la nota de 
 
 ### Capítulo VII. De los procedimientos para participar en Chispazo Multiganador
 
-> <small>(ADICIONADO, D.O.F. 23 DE JULIO DE 2008)</small>
+> <small>(REFORMADO, D.O.F. 30 DE SEPTIEMBRE DE 2011)</small>
 
 ###### Artículo 29o.
 
-El interesado podrá participar en el sorteo Chispazo Multiganador marcando en los volantes del sorteo Chispazo la opción de Chispazo Multiganador; por dictado del participante al agente; a través de una selección automática y aleatoria efectuada por la terminal (Chispático Multiganador) o por cualquier otro medio o dispositivo electrónico autorizado por Pronósticos.
+El interesado podrá participar en el sorteo Chispazo Multiganador marcando en los volantes del sorteo Chispazo la opción de Chispazo Multiganador; por dictado del participante al Comercializador; a través de una selección automática y aleatoria efectuada por la terminal (Chispático Multiganador) o por cualquier otro medio o dispositivo electrónico autorizado por Pronósticos.
 
 > <small>(ADICIONADO, D.O.F. 23 DE JULIO DE 2008)</small>
 
@@ -399,21 +413,31 @@ El participante seleccionará 4 (cuatro) números elegidos entre el 1 (uno) y el
 
 Combinación sencilla es la selección de 4 (cuatro) distintos números de los comprendidos entre el 1 (uno) y el 28 (veintiocho).
 
-> <small>(ADICIONADO, D.O.F. 23 DE JULIO DE 2008)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 30 DE SEPTIEMBRE DE 2011)</small>
 
 ###### Artículo 31o.
 
-Pronósticos podrá facultar a sus Agentes Autorizados para emitir las participaciones del Sorteo Chispazo Multiganador mediante el uso de:
+Pronósticos podrá facultar a sus Comercializadores para emitir las participaciones del Sorteo Chispazo Multiganador mediante el uso de:
+
+> <small>(ADICIONADA, D.O.F. 23 DE JULIO DE 2008)</small>
 
 I. Terminales que imprimirán, numerarán y expedirán el Boleto que, contra su pago, será entregado al participante, quedando constancia de su expedición en el Registro de Participaciones correspondiente en el Sistema de Cómputo Central, y
 
+> <small>(ADICIONADA, D.O.F. 23 DE JULIO DE 2008)</small>
+
 II. Medios electrónicos enlazados al Sistema de Cómputo Central que permitirán transmitir cualquier Participación al Sistema de Cómputo Central donde quedará almacenado el Registro de Participación correspondiente.
 
-Pronósticos podrá facultar a sus Agentes Autorizados para registrar la venta de cualquier Boleto para el sorteo Chispazo Multiganador por otros medios de comunicación electrónica, en los términos del contrato de comisión mercantil que tenga celebrado para tal efecto con dichos Agentes, transmitiendo los datos de cada Participación vendida al Sistema de Cómputo Central.
+> <small>(REFORMADO, D.O.F. 30 DE SEPTIEMBRE DE 2011)</small>
+
+Pronósticos podrá facultar a sus Comercializadores para registrar la venta de cualquier Boleto para el sorteo Chispazo Multiganador por otros medios de comunicación electrónica, en los términos del contrato que tenga celebrado para tal efecto con dichos Comercializadores, transmitiendo los datos de cada Participación vendida al Sistema de Cómputo Central.
+
+> <small>(ADICIONADO, D.O.F. 23 DE JULIO DE 2008)</small>
 
 Pronósticos podrá definir otras modalidades para la venta de Boletos, previa verificación de cumplimiento de los requisitos establecidos en este Reglamento. Dichas modalidades deberán transmitir los datos de cada Participación del Sorteo Chispazo Multiganador respectivo al Registro de Participaciones.
 
-Los Agentes Autorizados recibirán el pago del precio correspondiente y lo remitirán a Pronósticos en las condiciones y términos que señalen el contrato de comisión mercantil y el Reglamento de Agentes de Pronósticos vigente.
+> <small>(REFORMADO, D.O.F. 30 DE SEPTIEMBRE DE 2011)</small>
+
+Los Comercializadores recibirán de los participantes el pago del precio correspondiente y lo remitirán a Pronósticos en las condiciones y términos establecidos en el contrato y en el Reglamento de Comercializadores.
 
 > <small>(ADICIONADO, D.O.F. 23 DE JULIO DE 2008)</small>
 
@@ -483,7 +507,9 @@ Concluida la Ceremonia, en presencia del Inspector designado por la Secretaría 
 
 El Importe Total de Ventas se aplicará en los porcentajes y en el orden que sigue:
 
-I. Hasta el 10% (diez por ciento) para los Agentes Autorizados, por concepto de comisión por las ventas que realicen;
+> <small>(REFORMADA, D.O.F. 30 DE SEPTIEMBRE DE 2011)</small>
+
+I. Hasta el 10% (diez por ciento) para los Comercializadores, como retribución por las ventas que realicen.
 
 II. El 55% (cincuenta y cinco por ciento), será destinado para la premiación de los participantes ganadores;
 
@@ -601,23 +627,23 @@ El participante que tenga interés legítimo, podrá impugnar los resultados con
 
 El participante que haya resultado ganador conforme a este Reglamento, podrá cobrar su premio conforme a lo señalado en los Artículo 22o. al 26o. del presente Reglamento.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 23 DE JULIO DE 2008)</small>
+> <small>(REFORMADA SU DENOMINACION, D.O.F. 30 DE SEPTIEMBRE DE 2011)</small>
 
-### Capítulo XI. De los Agentes de Pronósticos
+### Capítulo XI. De los Comercializadores de Pronósticos
 
-> <small>(ADICIONADO, D.O.F. 23 DE JULIO DE 2008)</small>
+> <small>(REFORMADO, D.O.F. 30 DE SEPTIEMBRE DE 2011)</small>
 
 ###### Artículo 46o.
 
-Los Agentes Autorizados de Pronósticos atenderán el contenido de este Reglamento, del contrato de comisión mercantil celebrado con Pronósticos y la demás normatividad que corresponda.
+Los Comercializadores de Pronósticos atenderán el contenido de este Reglamento, del contrato celebrado con Pronósticos y la demás normatividad que corresponda.
 
-Las omisiones, errores o faltas imputables a los Agentes Autorizados o a su personal dependiente, por inobservancia o violación de las disposiciones aplicables, no constituirán responsabilidad a cargo de Pronósticos.
+Las omisiones, errores o faltas imputables a los Comercializadores o a su personal dependiente, por inobservancia o violación de las disposiciones aplicables, no constituirán responsabilidad a cargo de Pronósticos.
 
-> <small>(ADICIONADO, D.O.F. 23 DE JULIO DE 2008)</small>
+> <small>(REFORMADO, D.O.F. 30 DE SEPTIEMBRE DE 2011)</small>
 
 ###### Artículo 47o.
 
-Es aplicable a los Agentes Autorizados por Pronósticos para efectuar la venta de los Boletos, el Reglamento de Agentes de Pronósticos vigente.
+Es aplicable a los Comercializadores de Pronósticos para efectuar la venta de los boletos, el Reglamento de Comercializadores vigente.
 
 ## Transitorios
 
@@ -702,3 +728,9 @@ D.O.F. 28 DE MAYO DE 2010.
 PRIMERO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO.- Se derogan todas aquellas disposiciones que se contrapongan a las establecidas en el presente Decreto.
+
+D.O.F. 30 DE SEPTIEMBRE DE 2011.
+
+PRIMERO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Se derogan todas aquellas disposiciones que se contrapongan a las establecidas en el presente Acuerdo.
