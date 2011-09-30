@@ -4,7 +4,7 @@ identifier: "VER-reglamento-interno-de-la-comision-estatal-de-derechos-46156"
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-08-26"
-last_updated: "2005-08-26"
+last_updated: "2011-09-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=46156&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 REGLAMENTO INTERNO DE LA COMISION ESTATAL DE DERECHOS HUMANOS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL GACETA OFICIAL: 30 DE SEPTIEMBRE DE 2011.
 
 Reglamento publicado en la Gaceta Oficial del Estado de Veracruz, el viernes 26 de agosto de 2005.
 
@@ -279,9 +279,11 @@ Durante las ausencias del presidente de la Comisión Estatal que no excedan de t
 
 ### Capítulo III. Del Consejo Consultivo
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 30 DE SEPTIEMBRE DE 2011)</small>
+
 ###### Artículo 30.
 
-El Consejo Consultivo es un órgano colegiado integrado por el presidente y cuatro consejeros.
+El Consejo Consultivo es un órgano colegiado integrado por el presidente y diez consejeros con una cuota de género del 50%.
 
 El Consejo Consultivo tendrá competencia para establecer los lineamientos generales de actuación y los programas anuales de trabajo del Organismo. Las facultades del Consejo son las que se establecen en el artículo 21 de la Ley.
 
@@ -325,7 +327,9 @@ II. Extraordinarias, las que podrán ser convocadas por el presidente o mediante
 
 El presidente del Consejo convocará a cada uno de los miembros del Consejo Consultivo, por lo menos con setenta y dos horas de anticipación para las sesiones ordinarias; este plazo podrá reducirse a veinticuatro horas en los casos de sesiones extraordinarias.
 
-La convocatoria a sesión deberá contener fecha y la hora en que la misma se deba celebrar, su carácter ordinario o extraordinario y el orden del día. El secretario técnico enviará a los consejeros dicha convocatoria, acompañada de los documentos y anexos correspondientes para la sección del caso.
+> <small>(REFORMADO, G.O. 30 DE SEPTIEMBRE DE 2011)</small>
+
+La convocatoria a sesión deberá contener fecha y hora en que la misma se deba celebrar, su carácter ordinario o extraordinario y el orden del día. El titular de la Secretaría Técnica enviará a los consejeros dicha convocatoria, acompañada de los documentos y anexos correspondientes para la sesión del caso.
 
 ###### Artículo 38.
 
@@ -335,21 +339,29 @@ Las sesiones del Consejo Consultivo se celebrarán en el domicilio oficial de la
 
 Durante el desarrollo de las sesiones ordinarias del Consejo Consultivo, se le informará a éste sobre el trabajo realizado por la Comisión Estatal y cualquier otro asunto que resulte relevante. Para ello, el presidente de la Comisión Estatal podrá solicitar al titular o titulares de los órganos o áreas involucradas que realicen la presentación correspondiente.
 
+> <small>(REFORMADO, G.O. 30 DE SEPTIEMBRE DE 2011)</small>
+
 ###### Artículo 40.
 
-De cada una de las sesiones ordinarias o extraordinarias del Consejo Consultivo se elaborará un acta general, en la cual se asentará una síntesis de los asuntos tratados, así como los acuerdos que hayan sido aprobados y anexando la lista de asistencia. Podrá hacerse la grabación de las sesiones, bajo la estricta responsabilidad del secretario técnico del Consejo Consultivo.
+De cada una de las sesiones ordinarias o extraordinarias del Consejo Consultivo se elaborará un acta general, en la cual se asentará una síntesis de los asuntos tratados, así como los acuerdos que hayan sido aprobados y anexando la lista de asistencia. Podrá hacerse la grabación de las sesiones, bajo la estricta responsabilidad del titular de la Secretaría Técnica del Consejo Consultivo.
+
+> <small>(REFORMADO, G.O. 30 DE SEPTIEMBRE DE 2011)</small>
 
 ###### Artículo 41.
 
-Para llevar a cabo la sesión del Consejo Consultivo, se requerirá como quórum la asistencia de tres de sus miembros. Las decisiones del Consejo Consultivo se tomarán por mayoría de votos de los miembros presentes.
+Para llevar a cabo la sesión del Consejo Consultivo se requerirá como quórum la asistencia de cinco consejeros más el Presidente.
+
+Las decisiones del Consejo Consultivo se tomarán por mayoría de votos de los miembros presentes y de quien por ausencia justificada haya enviado su voto por escrito, vía fax o por correo electrónico.
 
 ###### Artículo 42.
 
 A las sesiones del Consejo Consultivo asistirán, además de sus integrantes, el personal que se considere necesario para su buen desarrollo, quienes previa autorización del presidente podrán intervenir, sólo con derecho a voz, a fin de rendir los informes que se les soliciten.
 
+> <small>(REFORMADO, G.O. 30 DE SEPTIEMBRE DE 2011)</small>
+
 ###### Artículo 43.
 
-Durante la sesión serán discutidos y, en su caso, votados los asuntos contenidos en el orden del día, conforme a éste. El Consejo Consultivo, por mayoría, podrá votar el retiro de algún asunto en particular del orden del día, o bien, posponer su discusión o votación.
+Durante la sesión serán discutidos y, en su caso, votados los asuntos contenidos en el orden del día, conforme a éste. En caso de ausencia justificada de algún miembro del Consejo Consultivo, el titular de la Secretaría Técnica, leerá el escrito que contenga el sentido de su voto, que éste haya enviado, cumpliendo lo que establece el artículo 46 de este reglamento. El Consejo Consultivo, por mayoría, podrá votar el retiro de algún asunto en particular del orden del día, o bien posponer su discusión o votación.
 
 ###### Artículo 44.
 
@@ -365,19 +377,21 @@ Al término de la última ronda, si ninguno de los miembros del Consejo Consulti
 
 Concluida la última ronda de oradores, los consejeros podrán razonar su voto, sin excederse de quince minutos en su intervención.
 
+> <small>(REFORMADO, G.O. 30 DE SEPTIEMBRE DE 2011)</small>
+
 ###### Artículo 46.
 
-Cuando el caso lo amerite, se podrá emitir voto secreto, voto circular y voto fuera de sesión, en este último caso, siempre y cuando todos los consejeros manifiesten su voto por escrito, vía fax o por correo electrónico, debiendo además confirmarlo con el titular de la secretaría técnica. Cuando no haya unanimidad, se asentará en el acta el sentido del voto de los consejeros. El Consejo Consultivo procurará tomar sus decisiones por consenso.
+Cuando el caso lo amerite, se podrá emitir voto secreto, voto circular y voto fuera de sesión, en este último caso, siempre y cuando alguno de los Integrantes del Consejo Consultivo, por motivos justificados no pueda asistir a la sesión, manifestará su voto por escrito, vía fax o por correo electrónico con un mínimo de veinticuatro horas antes de la celebración de la sesión ordinaria y 12 horas cuando sea sesión extraordinaria.
 
 ###### Artículo 47.
 
 Los acuerdos y resoluciones del Consejo Consultivo, que hayan sido aprobados, podrán publicarse en el instrumento oficial de difusión de la Comisión Estatal.
 
+> <small>(REFORMADO, G.O. 30 DE SEPTIEMBRE DE 2011)</small>
+
 ###### Artículo 48.
 
-De cada sesión se levantará un acta que contendrá los datos de la sesión, la lista de asistencia, los puntos del orden del día, el sentido de las intervenciones de los integrantes del Consejo Consultivo y el sentido de su voto, así como los acuerdos y resoluciones aprobados.
-
-El acta aprobada deberá incluir una síntesis de las intervenciones de las personas que a ella asista, así como las modificaciones que el Consejo haya aprobado.
+De cada sesión se levantará un acta que contendrá los datos de la sesión; la lista de asistencia, los puntos del orden del día, el sentido de las intervenciones de los integrantes del Consejo Consultivo, el sentido y modalidad de su voto, anexando el fax o correo electrónico del o los consejeros ausentes, en que conste el mismo, así como los acuerdos y resoluciones aprobados, una síntesis de las intervenciones de las personas que a ella asistan y las modificaciones que el Consejo haya aprobado.
 
 ###### Artículo 49.
 
@@ -1860,3 +1874,9 @@ Rúbrica
 Lic. Julio César Sosa Miros
 
 Rúbrica
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+G.O. 30 DE SEPTIEMBRE DE 2011.
+
+LA MODIFICACION CON ANTELACION CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 2º DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE VERACRUZ.
