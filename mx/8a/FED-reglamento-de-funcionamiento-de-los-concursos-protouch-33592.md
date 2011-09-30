@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-funcionamiento-de-los-concursos-protouch-33592"
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-09-01"
-last_updated: "2010-01-29"
+last_updated: "2011-09-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33592&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2003-07-21"
 
 REGLAMENTO DE FUNCIONAMIENTO DE LOS CONCURSOS PROTOUCH
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 29 DE ENERO DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 30 DE SEPTIEMBRE DE 2011.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el lunes 1 de septiembre de 2003.
 
@@ -43,11 +43,13 @@ Se denomina concurso Protouch al evento que sobre resultados de partidos de fút
 
 Para los efectos de este Reglamento, se entenderá por:
 
-1. Agente autorizado.- La persona física o moral que haya celebrado contrato de comisión mercantil con Pronósticos, y cuya función consistirá en aceptar quinielas del público en la forma y términos señalados en las disposiciones reglamentarias.
+> <small>(REFORMADO, D.O.F. 30 DE SEPTIEMBRE DE 2011)</small>
 
-> <small>(REFORMADO, D.O.F. 8 DE SEPTIEMBRE DE 2006)</small>
+1. Comercializador.- La persona física o moral que haya celebrado contrato con Pronósticos para aceptar quinielas del público en la forma y términos señalados en las disposiciones reglamentarias.
 
-2.- Terminal.- Aparato electrónico cuya función consiste en captar los datos de la selección hecha por el concursante, bien sea por solicitud del mismo en una asignación automática de ellos, por la lectura óptica del volante o por la digitación de los datos, para ser transmitidos al computador central para el registro de las combinaciones, y expedir los boletos que comprueban la participación en el concurso. Pronósticos podrá definir otras modalidades y conductos de venta transmitiendo los datos de las combinaciones vendidas al Registro General de combinaciones concursantes para un concurso determinado, previa verificación de que cumplen con los requisitos establecidos en este reglamento.
+> <small>(REFORMADO, D.O.F. 30 DE SEPTIEMBRE DE 2011)</small>
+
+2. Terminal.- Cualquier dispositivo de punto de venta que se utilice para la comercialización de concursos, sorteos, productos y servicios que ofrece Pronósticos.
 
 > <small>(REFORMADO, D.O.F. 8 DE SEPTIEMBRE DE 2006)</small>
 
@@ -181,11 +183,11 @@ Para el que se refiere el párrafo segundo del artículo 11o., se colocarán ant
 
 Al organizar Pronósticos un concurso Protouch, determinará los partidos de fútbol americano que deban integrarlo, la fecha de celebración de los mismos, así como el importe de cada participación y plazo dentro de los cuales podrá concursarse.
 
-> <small>(REFORMADO, D.O.F. 8 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADO, D.O.F. 30 DE SEPTIEMBRE DE 2011)</small>
 
 ###### Artículo 15o.
 
-Se podrá participar en el concurso, utilizando los volantes oficiales emitidos por Pronósticos, por dictado del participante al agente o por cualquier otro medio o dispositivo electrónico autorizado por Pronósticos.
+Se podrá participar en el concurso, utilizando los volantes oficiales emitidos por Pronósticos, por dictado del participante al Comercializador o por cualquier otro medio o dispositivo electrónico autorizado por Pronósticos.
 
 > <small>(REFORMADO, D.O.F. 8 DE SEPTIEMBRE DE 2006)</small>
 
@@ -197,19 +199,27 @@ El concursante seleccionará sus quinielas y touch inicial.
 
 Solamente se aceptará del participante la selección de un solo pronóstico para la opción del touch inicial, independientemente del número de combinaciones que adquiera para el concurso Protouch.
 
-> <small>(REFORMADO, D.O.F. 8 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 30 DE SEPTIEMBRE DE 2011)</small>
 
 ###### Artículo 17o.
 
-Pronósticos podrá facultar a sus agentes autorizados para registrar participaciones y captar la venta de Protouch mediante el uso de:
+Pronósticos podrá facultar a sus Comercializadores para registrar participaciones y captar la venta de Protouch mediante el uso de:
 
-a) Terminales que por lectura óptica del volante llenado por el participante indicando su selección de pronóstico, mediante la digitación que haga el agente autorizado de estos datos en la terminal, ésta imprima, numere y expida el boleto que, contra su pago será entregado al participante como comprobante de su participación, quedando almacenado el registro electrónico correspondiente en el sistema central de captación de transacciones en línea.
+> <small>(REFORMADO, D.O.F. 30 DE SEPTIEMBRE DE 2011)</small>
+
+a) Terminales que por lectura óptica del volante llenado por el participante indicando su selección de pronóstico, mediante la digitación que haga el Comercializador de estos datos en la terminal, ésta imprima, numere y expida el boleto que, contra su pago será entregado al participante como comprobante de su participación, quedando almacenado el registro electrónico correspondiente en el sistema central de captación de transacciones en línea.
+
+> <small>(REFORMADO, D.O.F. 8 DE SEPTIEMBRE DE 2006)</small>
 
 b) Medios electrónicos enlazados al sistema central de captación de transacciones en línea que permiten transmitir las participaciones al computador central en el cual queda almacenado el registro electrónico correspondiente.
 
-Pronósticos podrá facultar a sus agentes autorizados para recibir y captar la venta del sorteo por otros medios de comunicación electrónica, en los términos del contrato de comisión mercantil que tengan para tal efecto, transmitiendo los datos de las participaciones vendidas al sistema central de captación de transacciones en línea.
+> <small>(REFORMADO, D.O.F. 30 DE SEPTIEMBRE DE 2011)</small>
 
-Los agentes autorizados recibirán de los participantes el pago del precio correspondiente y lo remitirá a Pronósticos en las condiciones y términos que Pronósticos señale en el contrato de comisión mercantil y el Reglamento de Agentes.
+Pronósticos podrá facultar a sus Comercializadores para recibir y captar la venta del sorteo por otros medios de comunicación electrónica, en los términos del contrato que tengan para tal efecto, transmitiendo los datos de las participaciones vendidas al sistema central de captación de transacciones en línea.
+
+> <small>(REFORMADO, D.O.F. 30 DE SEPTIEMBRE DE 2011)</small>
+
+Los Comercializadores recibirán de los participantes el pago del precio correspondiente y lo remitirán a Pronósticos en las condiciones y términos establecidos en el contrato y en el Reglamento de Comercializadores.
 
 > <small>(ADICIONADO, D.O.F. 8 DE SEPTIEMBRE DE 2006)</small>
 
@@ -287,7 +297,9 @@ Se considera fondo de cada concurso el valor conjunto de todas las combinaciones
 
 Dicho fondo se aplicará como sigue:
 
-Hasta el 10% a los agentes autorizados como comisión por las ventas que realicen, en términos del contrato de comisión mercantil celebrado entre ellos y Pronósticos.
+> <small>(REFORMADO, D.O.F. 30 DE SEPTIEMBRE DE 2011)</small>
+
+Hasta el 10% (diez por ciento) para los Comercializadores, como retribución por las ventas que realicen.
 
 > <small>(REFORMADO, D.O.F. 8 DE SEPTIEMBRE DE 2006)</small>
 
@@ -343,13 +355,9 @@ Una quiniela sencilla ganadora de segundo premio tampoco podrá ser ganadora del
 
 Pronósticos podrá modificar las bases señaladas en este artículo en aquellos concursos que, por su naturaleza y para beneficio del público, así lo requieran; en estos casos, se dará al procedimiento a seguir la más amplia difusión.
 
-> <small>(REFORMADO, D.O.F. 8 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADO, D.O.F. 30 DE SEPTIEMBRE DE 2011)</small>
 
-###### Artículo 27o.
-
-bis.- Si por causas de fuerza mayor no acudiera al evento el Inspector designado por la Secretaría de Gobernación, y en virtud del día y hora, no se pudiera contratar un Fedatario Público, el representante de la Dirección General será el encargado de llevar a cabo las actividades que a aquél correspondían dentro del desarrollo de la ceremonia.
-
-En el supuesto a que se refiere el párrafo anterior, se hará entrega del acta correspondiente a la Dirección General Adjunta de Juegos y Sorteos, dentro de los tres días hábiles siguientes.
+Artículo 27o bis.- Si por caso fortuito o fuerza mayor, no acudiera al evento el inspector designado por la Secretaría de Gobernación, deberá realizarse la ceremonia en presencia de un Fedatario Público.
 
 ### CAPITULO V. De las reclamaciones
 
@@ -375,13 +383,17 @@ Si alguna o algunas de las reclamaciones se consideraron procedentes, la Comisi�
 
 Si alguna o algunas de las reclamaciones se consideraron procedentes, la Comisión Dictaminadora de Reclamaciones lo comunicará al Director General para que él ordene el pago que proceda, con cargo al fondo de garantía establecido.
 
+> <small>(REFORMADO, D.O.F. 30 DE SEPTIEMBRE DE 2011)</small>
+
 ###### Artículo 32o.
 
-Los agentes autorizados de Pronósticos atenderán fielmente el contenido de este Reglamento y demás normatividad emitida por Pronósticos. Las omisiones, errores o faltas imputables a los agentes autorizados o a su personal dependiente, por inobservancia o violación de las normas reglamentarias aplicables, no constituirán responsabilidad a cargo de Pronósticos.
+Los Comercializadores de Pronósticos atenderán fielmente el contenido de este Reglamento y demás normatividad emitida por Pronósticos. Las omisiones, errores o faltas imputables a los Comercializadores o a su personal dependiente, por inobservancia o violación de las normas reglamentarias aplicables, no constituirán responsabilidad a cargo de Pronósticos.
+
+> <small>(REFORMADO, D.O.F. 30 DE SEPTIEMBRE DE 2011)</small>
 
 ###### Artículo 33o.
 
-Es aplicable a los agentes autorizados por Pronósticos para efectuar la venta de sus boletos, el Reglamento publicado en el Diario Oficial de la Federación de fecha 25 de mayo de 1978, en el que se establecen sus derechos, obligaciones y responsabilidades.
+Es aplicable a los Comercializadores de Pronósticos para efectuar la venta de los boletos, el Reglamento de Comercializadores vigente.
 
 ### CAPITULO VI. Del pago de los premios
 
@@ -397,7 +409,9 @@ Para aquellos boletos cuyo premio resulte superior a la cantidad señalada en el
 
 Al efectuar el pago se descontará y retendrá el importe de los impuestos que fijen las leyes respectivas.
 
-Los tenedores de boletos premiados podrán cobrar su importe ante cualquier agente autorizado, siempre que su monto no exceda la suma que autorice Pronósticos.
+> <small>(REFORMADO, D.O.F. 30 DE SEPTIEMBRE DE 2011)</small>
+
+Los tenedores de boletos premiados podrán cobrar su importe ante cualquier Comercializador, siempre que su monto no exceda la suma que autorice Pronósticos.
 
 Cualquiera que sea el importe del premio podrán hacerlo efectivo en las Oficinas Generales de Pronósticos o en las instituciones u organismos que éste señale y que se harán del conocimiento del público.
 
@@ -474,3 +488,9 @@ D.O.F. 29 DE ENERO DE 2010.
 PRIMERO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO.- Se derogan todas aquellas disposiciones que se contrapongan a las establecidas en el presente Decreto.
+
+D.O.F. 30 DE SEPTIEMBRE DE 2011.
+
+PRIMERO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Se derogan todas aquellas disposiciones que se contrapongan a las establecidas en el presente Acuerdo.
