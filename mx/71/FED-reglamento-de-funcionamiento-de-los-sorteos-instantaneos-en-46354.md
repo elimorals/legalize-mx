@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-funcionamiento-de-los-sorteos-instantaneos-en-463
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-09-22"
-last_updated: "2010-01-29"
+last_updated: "2011-09-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=46354&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2005-09-20"
 
 REGLAMENTO DE FUNCIONAMIENTO DE LOS SORTEOS INSTANTANEOS EN LINEA DE PRONOSTICOS PARA LA ASISTENCIA PUBLICA
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 29 DE ENERO DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 30 DE SEPTIEMBRE DE 2011.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el jueves 22 de septiembre de 2005.
 
@@ -45,13 +45,13 @@ Los sorteos Instantáneos en Línea se inician en el momento de la aceptación d
 
 Para los efectos de este Reglamento, se entenderá por:
 
-1.- Agente autorizado.- La persona física o moral que haya celebrado contrato de comisión mercantil con Pronósticos, y cuya función consistirá en aceptar las participaciones del público en la forma y términos señalados en las disposiciones reglamentarias.
+> <small>(REFORMADO, D.O.F. 30 DE SEPTIEMBRE DE 2011)</small>
 
-> <small>(REFORMADO, D.O.F. 8 DE SEPTIEMBRE DE 2006)</small>
+1.- COMERCIALIZADOR.- La persona física o moral que haya celebrado contrato con Pronósticos para aceptar quinielas del público en la forma y términos señalados en las disposiciones reglamentarias.
 
-2.- Terminal.- Aparato electrónico cuya función consiste en captar los datos de la selección de números del Sorteo Base hecha por el participante, bien sea por la lectura óptica del volante, por la digitación de los datos que dicte el participante al agente o por la petición de la participación automática y, en su caso, la manifestación de su intención de participar en los sorteos Instantáneos en Línea, para lograr tenerlos en su dispositivo de almacenamiento; de ahí transmitir señales al computador central para el registro de las combinaciones, y expedir los boletos que comprueba la participación en el sorteo.
+> <small>(REFORMADO, D.O.F. 30 DE SEPTIEMBRE DE 2011)</small>
 
-Pronósticos podrá definir otras modalidades y conductos de venta transcribiendo los datos de las participaciones vendidas al Registro General de combinaciones participantes para un sorteo determinado, previa verificación de que cumplen con los requisitos establecidos en este Reglamento.
+2.- TERMINAL.- Cualquier dispositivo de punto de venta que se utilice para la comercialización de concursos, sorteos, productos y servicios que ofrece Pronósticos.
 
 > <small>(REFORMADO, D.O.F. 8 DE SEPTIEMBRE DE 2006)</small>
 
@@ -151,19 +151,27 @@ Para tal efecto, el sistema después de producir el boleto para el Sorteo Base, 
 
 Para efectos del sorteo, únicamente podrá imprimirse una selección de números del Sorteo Base por boleto.
 
-> <small>(REFORMADO, D.O.F. 8 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 30 DE SEPTIEMBRE DE 2011)</small>
 
 ###### Artículo 10o.
 
-Pronósticos podrá facultar a sus agentes autorizados para registrar participaciones y captar la venta de Instantáneos en Línea mediante el uso de:
+Pronósticos podrá facultar a sus Comercializadores para registrar participaciones y captar la venta de Instantáneos en Línea mediante el uso de:
 
-a) Terminales que mediante la digitación que haga el agente autorizado ésta imprima, numere y expida el boleto que, contra su pago será entregado al participante como comprobante de su participación, quedando almacenado el registro electrónico correspondiente en el sistema central de captación de transacciones en línea.
+> <small>(REFORMADO, D.O.F. 30 DE SEPTIEMBRE DE 2011)</small>
+
+a) Terminales que mediante la digitación que haga el Comercializador ésta imprima, numere y expida el boleto que, contra su pago será entregado al participante como comprobante de su participación, quedando almacenado el registro electrónico correspondiente en el sistema central de captación de transacciones en línea.
+
+> <small>(REFORMADO, D.O.F. 8 DE SEPTIEMBRE DE 2006)</small>
 
 b) Medios electrónicos enlazados al sistema central de captación de transacciones en línea que permiten transmitir las participaciones al computador central en el cual queda almacenado el registro electrónico correspondiente.
 
-Pronósticos podrá facultar a sus agentes autorizados para recibir y captar la venta del sorteo por otros medios de comunicación electrónica, en los términos del contrato de comisión mercantil que tengan para tal efecto, transmitiendo los datos de las participaciones vendidas al sistema central de captación de transacciones en línea.
+> <small>(REFORMADO, D.O.F. 30 DE SEPTIEMBRE DE 2011)</small>
 
-Los agentes autorizados recibirán de los participantes el pago del precio correspondiente y lo remitirá a Pronósticos en las condiciones y términos que Pronósticos señale en el contrato de comisión mercantil y el Reglamento de Agentes.
+Pronósticos podrá facultar a sus Comercializadores para recibir y captar la venta del sorteo por otros medios de comunicación electrónica, en los términos del contrato que tengan para tal efecto, transmitiendo los datos de las participaciones vendidas al sistema central de captación de transacciones en línea.
+
+> <small>(REFORMADO, D.O.F. 30 DE SEPTIEMBRE DE 2011)</small>
+
+Los Comercializadores recibirán de los participantes el pago del precio correspondiente y lo remitirán a Pronósticos en las condiciones y términos establecidos en el contrato y en el Reglamento de Comercializadores.
 
 > <small>(ADICIONADO, D.O.F. 8 DE SEPTIEMBRE DE 2006)</small>
 
@@ -175,7 +183,9 @@ bis.- Cuando por causa de fuerza mayor o caso fortuito debidamente comprobado, n
 
 Las ventas captadas se distribuirán de la siguiente forma:
 
-Un 10% a los agentes como comisión por las ventas que realicen.
+> <small>(REFORMADO, D.O.F. 30 DE SEPTIEMBRE DE 2011)</small>
+
+Un 10% (diez por ciento) a los Comercializadores como comisión por las ventas que realicen.
 
 Un mínimo de 50% destinado a premiación de los participantes ganadores, creándose una reserva que se alimentará durante la vigencia del producto, con el importe de los premios caducos.
 
@@ -223,13 +233,17 @@ Las resoluciones se tomarán por mayoría de votos de los integrantes de la Comi
 
 Si alguna o algunas de las reclamaciones se consideraron procedentes, la Comisión Dictaminadora de Reclamaciones acordará el pago que proceda.
 
+> <small>(REFORMADO, D.O.F. 30 DE SEPTIEMBRE DE 2011)</small>
+
 ###### Artículo 18o.
 
-Los agentes autorizados de Pronósticos atenderán fielmente el contenido de este Reglamento y demás normatividad emitida por Pronósticos. Las omisiones, errores o faltas imputables a los agentes autorizados o a su personal dependiente, por inobservancia o violación de las normas reglamentarias aplicables, no constituirán responsabilidad a cargo de Pronósticos.
+Los Comercializadores de Pronósticos atenderán fielmente el contenido de este Reglamento y demás normatividad emitida por Pronósticos. Las omisiones, errores o faltas imputables a los Comercializadores o a su personal dependiente, por inobservancia o violación de las normas reglamentarias aplicables, no constituirán responsabilidad a cargo de Pronósticos.
+
+> <small>(REFORMADO, D.O.F. 30 DE SEPTIEMBRE DE 2011)</small>
 
 ###### Artículo 19o.
 
-Es aplicable a los agentes autorizados por Pronósticos para efectuar la venta de sus boletos, el Reglamento publicado en el Diario Oficial de la Federación de fecha 25 de mayo de 1978, en el que se establecen sus derechos, obligaciones y responsabilidades.
+Es aplicable a los Comercializadores de Pronósticos para efectuar la venta de los boletos, el Reglamento de Comercializadores vigente.
 
 ###### Artículo 20o.
 
@@ -306,3 +320,9 @@ D.O.F. 29 DE ENERO DE 2010.
 PRIMERO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO.- Se derogan todas aquellas disposiciones que se contrapongan a las establecidas en el presente Decreto.
+
+D.O.F. 30 DE SEPTIEMBRE DE 2011.
+
+PRIMERO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Se derogan todas aquellas disposiciones que se contrapongan a las establecidas en el presente Acuerdo.
