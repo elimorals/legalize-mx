@@ -4,7 +4,7 @@ identifier: "BCN-ley-del-sistema-integral-de-justicia-para-adolescentes-del-7698
 country: "mx"
 rank: "ley"
 publication_date: "2010-09-24"
-last_updated: "2010-09-24"
+last_updated: "2011-09-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76980&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "BCN"
 
 LEY DEL SISTEMA INTEGRAL DE JUSTICIA PARA ADOLESCENTES DEL ESTADO DE BAJA CALIFORNIA
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO, VER ARTICULO PRIMERO Y TERCERO TRANSITORIOS DEL DECRETO PUBLICADO EN EL P.O. DE 24 DE SEPTIEMBRE DE 2010, QUE ESTABLECE EL INICIO DE VIGENCIA PROGRESIVA SEGUN CORRESPONDA EL MUNICIPIO.</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO, VER ARTICULO PRIMERO Y TERCERO TRANSITORIOS DEL DECRETO PUBLICADO EN EL P.O. DE 24 DE SEPTIEMBRE DE 2010 Y SU REFORMA PUBLICADA EN EL P.O. 30 DE SEPTIEMBRE DE 2011, QUE ESTABLECEN EL INICIO DE VIGENCIA PROGRESIVA SEGUN CORRESPONDA EL MUNICIPIO.</small>
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE SEPTIEMBRE DE 2011.
 
 Ley publicada en la Sección Cuarta del Periódico Oficial del Estado de Baja California, el viernes 24 de septiembre de 2010.
 
@@ -1103,11 +1103,13 @@ V.- La resolución que imponga una medida disciplinaria deberá recaer por escri
 
 ## TRANSITORIOS
 
-Artículo Primero.- Vigencia.- La presente Ley entrará en vigor a las cero horas del día primero de octubre del año dos mil once en el partido judicial de Mexicali y en forma sucesiva, en los demás partidos judiciales del Estado, conforme al siguiente orden:
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2011)</small>
 
-I. Ensenada, a partir de las cero horas del día tres de mayo del año dos mil doce.
+Artículo Primero.- Vigencia.- La presente Ley entrará en vigor a las cero horas del día primero de octubre del año dos mil doce en el partido judicial de Mexicali y en forma sucesiva, en los demás partidos judiciales del Estado, conforme al siguiente orden:
 
-II. Tijuana, Tecate y Playas de Rosarito, a partir de las cero horas del día tres de mayo del año dos mil trece.
+I. Ensenada, a partir de las cero horas del día tres de mayo del año dos mil trece.
+
+II. Tijuana, Tecate y Playas de Rosarito, a partir de las cero horas del día tres de mayo del año dos mil catorce.
 
 Artículo Segundo.- Adecuación reglamentaria.- Dentro del plazo previsto para la entrada en vigor de la presente Ley, el Ejecutivo del Estado, por conducto de las instituciones y autoridades estatales correspondientes, deberá expedir los reglamentos necesarios para la adecuada instrumentación de las normas contenidas en la presente Ley.
 
@@ -1152,3 +1154,9 @@ GOBERNADOR DEL ESTADO.
 CUAUHTÉMOC CARDONA BENAVIDES.
 
 SECRETARIO GENERAL DE GOBIERNO.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS DEL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 30 DE SEPTIEMBRE DE 2011.
+
+LA MODIFICACION CON ANTELACION CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS ACTUALIZADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3° DEL CODIGO CIVIL FEDERAL VIGENTE.
