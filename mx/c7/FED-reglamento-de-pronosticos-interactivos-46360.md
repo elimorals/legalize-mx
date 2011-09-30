@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-pronosticos-interactivos-46360"
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-04-29"
-last_updated: "2009-05-20"
+last_updated: "2011-09-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=46360&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2002-02-26"
 
 REGLAMENTO DE PRONOSTICOS INTERACTIVOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 20 DE MAYO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 30 DE SEPTIEMBRE DE 2011.
 
 Reglamento publicado en el Diario Oficial de la Federación, el lunes 29 de abril de 2002.
 
@@ -39,15 +39,17 @@ Artículo primero.- El presente Reglamento tiene por objeto regular la modalidad
 
 Artículo segundo.- Se denominará Pronósticos Interactivos al boleto que es generado por un dispositivo electrónico para un concurso o sorteo determinado y sus resultados.
 
-> <small>(REFORMADO, D.O.F. 20 DE MAYO DE 2009)</small>
+> <small>(REFORMADO, D.O.F. 30 DE SEPTIEMBRE DE 2011)</small>
 
-Artículo tercero.- Los Pronósticos Interactivos consisten en la selección que haga el concursante a través de un dispositivo electrónico distinto a las terminales tradicionales utilizadas por los agentes autorizados, de una combinación de pronósticos deportivos, numéricos, de símbolos y/o figuras; así como la selección de un boleto virtual presorteado cubierto con una película que oculta el resultado de ser o no ganador, tomado del conjunto que determine Pronósticos para la Asistencia Pública para un concurso o sorteo determinado, previo pago correspondiente a través de las modalidades de tarjeta prepagada, tarjetas bancarias de débito o crédito, banca electrónica, cuenta virtual o monedero electrónico, y que le dará derecho a participar en el concurso o sorteo y a obtener, en el supuesto de que los números sorteados o bien los resultados deportivos correspondan a la selección que hubiere hecho, premios en efectivo en los términos del Reglamento del concurso o sorteo de que se trate.
+Artículo tercero.- Los Pronósticos Interactivos consisten en la selección que haga el concursante a través de un dispositivo electrónico distinto a las terminales tradicionales utilizadas por los Comercializadores, de una combinación de pronósticos deportivos, numéricos, de símbolos y/o figuras; así como la selección de un boleto virtual presorteado cubierto con una película que oculta el resultado de ser o no ganador, tomado del conjunto que determine Pronósticos para la Asistencia Pública para un concurso o sorteo determinado, previo pago correspondiente a través de las modalidades de tarjeta prepagada, tarjetas bancarias de débito o crédito, banca electrónica, cuenta virtual o monedero electrónico, y que le dará derecho a participar en el concurso o sorteo y a obtener, en el supuesto de que los números sorteados o bien los resultados deportivos correspondan a la selección que hubiere hecho, premios en efectivo en los términos del Reglamento del concurso o sorteo de que se trate.
 
 > <small>(REFORMADO, D.O.F. 29 DE FEBRERO DE 2008)</small>
 
 Artículo cuarto.- Para los efectos de este Reglamento, se entenderá por:
 
-1.- Agente autorizado.- a las personas físicas o morales que hayan celebrado contrato de comisión mercantil con Pronósticos y cuya función consistirá en aceptar quinielas del público en la forma y términos señalados por este Reglamento y demás disposiciones aplicables;
+> <small>(REFORMADO, D.O.F. 30 DE SEPTIEMBRE DE 2011)</small>
+
+1.- Comercializadores.- A las personas físicas o morales que hayan celebrado contrato de comisión mercantil con Pronósticos y cuya función consistirá en aceptar quinielas del público en la forma y términos señalados por este Reglamento y demás disposiciones aplicables;
 
 2.- Banca electrónica.- al servicio de banca en línea proporcionado por cualquier institución bancaria;
 
@@ -115,9 +117,9 @@ Artículo cuarto.- Para los efectos de este Reglamento, se entenderá por:
 
 18.- Tarjeta prepagada.- A la tarjeta con un valor determinado que los concursantes podrán adquirir para realizar con cargo a ella la compra de los boletos de los concursos o sorteos en los que deseen participar a través del uso de los dispositivos electrónicos autorizados y en la que se podrá abonar el importe de los premios obtenidos, en su caso. Dicho importe podrá ser cobrado en los lugares definidos por Pronósticos, o bien, ser utilizado para pagar el importe de boletos de los concursos o sorteos, y
 
-> <small>(REFORMADO, D.O.F. 20 DE MAYO DE 2009)</small>
+> <small>(REFORMADO, D.O.F. 30 DE SEPTIEMBRE DE 2011)</small>
 
-19.- Terminal Tradicional.- Al aparato electrónico operado por un agente autorizado de Pronósticos, cuya arquitectura y diseño tecnológico tiene como objetivo exclusivamente captar los datos de las quinielas seleccionadas y la emisión del boleto respectivo de los concursos y sorteos.
+19.- Terminal.- Cualquier dispositivo de punto de venta que se utilice para la comercialización de concursos, sorteos, productos y servicios que ofrece Pronósticos.
 
 ### CAPITULO II. Procedimiento para concursar
 
@@ -141,15 +143,19 @@ Artículo séptimo.- (DEROGADO, D.O.F. 29 DE FEBRERO DE 2008)
 
 Artículo octavo.- (DEROGADO, D.O.F. 29 DE FEBRERO DE 2008)
 
-> <small>(REFORMADO, D.O.F. 29 DE FEBRERO DE 2008)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 30 DE SEPTIEMBRE DE 2011)</small>
 
-Artículo noveno.- Sólo tendrán validez para efectos del concurso o sorteo y pago de premios, los boletos vendidos por las terminales tradicionales asignadas a los agentes autorizados o a través de los dispositivos electrónicos autorizados por Pronósticos, y no podrán ser incluidos en el Registro de Participación del Sistema de Cómputo Central, en los siguientes casos:
+Artículo noveno.- Sólo tendrán validez para efectos del concurso o sorteo y pago de premios, los boletos vendidos por las terminales tradicionales asignadas a los Comercializadores o a través de los dispositivos electrónicos autorizados por Pronósticos, y no podrán ser incluidos en el Registro de Participación del Sistema de Cómputo Central, en los siguientes casos:
 
 > <small>(REFORMADO, D.O.F. 20 DE MAYO DE 2009)</small>
 
 a) Cuando el boleto virtual no haya sido adquirido en los lugares autorizados para la toma de apuestas conectada al Sistema de Cómputo Central o no haya sido adquirido a través de los dispositivos electrónicos autorizados por Pronósticos.
 
+> <small>(REFORMADO, D.O.F. 29 DE FEBRERO DE 2008)</small>
+
 b) Cuando el boleto contenga alteraciones.
+
+> <small>(REFORMADO, D.O.F. 29 DE FEBRERO DE 2008)</small>
 
 c) Cuando en la apuesta no se identifique la información requerida para su registro en el Sistema Central de Captación de Apuestas.
 
@@ -177,9 +183,9 @@ Artículo décimo.- El boleto virtual, deberá contener los siguientes datos:
 
 Artículo decimoprimero.- En el dispositivo electrónico autorizado por Pronósticos, el concursante marcará la selección de un pronóstico de símbolos, figuras, deportivo o numérico.
 
-> <small>(REFORMADO, D.O.F. 20 DE MAYO DE 2009)</small>
+> <small>(REFORMADO, D.O.F. 30 DE SEPTIEMBRE DE 2011)</small>
 
-Artículo decimosegundo.- Mediante la digitación que haga el concursante de los datos necesarios en un dispositivo electrónico autorizado por Pronósticos, este último transmitirá la participación hacia una terminal tradicional asignada al agente autorizado o directamente al Sistema Central de Captación de Apuestas, una vez registrada y almacenada la información relativa al boleto en el citado sistema, se imprimirá, numerará y se expedirá, en su caso. Cuando se utilice una Terminal Tradicional, el boleto impreso será conservado en custodia por el agente autorizado, y el concursante recibirá en el dispositivo electrónico una constancia de participación con los datos de su participación para un concurso o sorteo determinado por Pronósticos.
+Artículo decimosegundo.- Mediante la digitación que haga el concursante de los datos necesarios en un dispositivo electrónico autorizado por Pronósticos, este último transmitirá la participación hacia una Terminal asignada al Comercializador o directamente al Sistema Central de Captación de Apuestas, una vez registrada y almacenada la información relativa al boleto en el citado sistema, se imprimirá, numerará y se expedirá, en su caso. Cuando se utilice una Terminal Tradicional, el boleto impreso será conservado en custodia por el Comercializador, y el concursante recibirá en el dispositivo electrónico una constancia de participación con los datos de su participación para un concurso o sorteo determinado por Pronósticos.
 
 Artículo decimotercero.- (DEROGADO, D.O.F. 29 DE FEBRERO DE 2008)
 
@@ -300,3 +306,9 @@ Primero.- El presente acuerdo entrará en vigor al siguiente día de su publicac
 Segundo.- Se derogan todas las disposiciones que se opongan al presente acuerdo.
 
 Tercero.- Los asuntos que se encuentren en trámite a la fecha de entrada en vigor del presente acuerdo, serán resueltos mediante las disposiciones que se encontraban vigentes al inicio de su trámite.
+
+D.O.F. 30 DE SEPTIEMBRE DE 2011.
+
+PRIMERO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Se derogan todas aquellas disposiciones que se contrapongan a las establecidas en el presente Acuerdo.
