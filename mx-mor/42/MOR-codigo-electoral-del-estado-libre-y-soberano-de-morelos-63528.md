@@ -4,7 +4,7 @@ identifier: "MOR-codigo-electoral-del-estado-libre-y-soberano-de-morelos-63528"
 country: "mx"
 rank: "codigo"
 publication_date: "2008-10-02"
-last_updated: "2011-09-13"
+last_updated: "2011-09-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=63528&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 CODIGO ELECTORAL DEL ESTADO LIBRE Y SOBERANO DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE SEPTIEMBRE DE 2011.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE SEPTIEMBRE DE 2011.
 
 Código publicado en el Periódico Oficial del Estado de Morelos, el jueves 2 de octubre de 2008.
 
@@ -1071,7 +1071,9 @@ El Instituto Estatal Electoral es un organismo público autónomo, independiente
 
 Se regirá por las disposiciones que establece la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado de Morelos y las de este código, bajo los principios electorales de: Constitucionalidad, certeza, legalidad, independencia, imparcialidad, equidad, profesionalismo, objetividad, definitividad y equidad de género.
 
-Para el desempeño de sus actividades el instituto contara con el personal calificado y suficiente para prestar el servicio electoral profesional.
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2011)</small>
+
+Para el desempeño de sus actividades el instituto contará con el personal calificado y suficiente para prestar el servicio electoral profesional, mismo que se regirá por el Estatuto que al efecto apruebe el Consejo Estatal Electoral, en el cual se establecerán los respectivos mecanismos de ingreso, formación, promoción y desarrollo.
 
 Son fines del Instituto Estatal Electoral:
 
@@ -1417,9 +1419,11 @@ III. De Administración y Financiamiento, y
 
 IV. De Fiscalización.
 
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2011)</small>
+
 ###### ARTÍCULO 111.
 
-Las comisiones permanentes se integrarán por tres Consejeros Electorales. Por mayoría de votos el pleno del Consejo Estatal Electoral determinará quien las presidirá y el Secretario Ejecutivo coordinará el trabajo de las comisiones.
+Las comisiones permanentes se integrarán por tres Consejeros Electorales. Por mayoría de votos el pleno del Consejo Estatal Electoral determinará quién las presidirá. El titular de la Dirección Ejecutiva correspondiente realizará la función de secretario de la misma y el Secretario Ejecutivo coordinará el trabajo de las comisiones.
 
 ###### ARTÍCULO 112.
 
@@ -1427,11 +1431,11 @@ Las comisiones provisionales son las que se crean para la realización de tareas
 
 Para cada comisión deberá señalarse el objeto de la misma y el tiempo para el cumplimiento de ésta, sólo se podrá ampliar el plazo si a juicio del consejo queda debidamente justificado.
 
-> <small>(F. DE E., P.O. 24 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2011)</small>
 
 ###### ARTÍCULO 113.
 
-El Secretario Ejecutivo y los Directores de área prestarán el apoyo a las comisiones para la realización de sus actividades o programas específicos. En el caso que se requiera también contarán con el auxilio o asesoría técnico científica de especialistas.
+El Secretario Ejecutivo y los Directores Ejecutivos prestarán el apoyo a las comisiones para la realización de sus actividades o programas específicos. En el caso que se requiera también contarán con el auxilio o asesoría técnico-científica de especialistas.
 
 ###### ARTÍCULO 114.
 
@@ -1525,9 +1529,13 @@ Tratándose del ejercicio de sus atribuciones y facultades, cuando requiera de v
 
 ### CAPÍTULO VIII. DE LA SECRETARIA EJECUTIVA
 
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2011)</small>
+
 ###### ARTÍCULO 120.
 
-El Instituto Estatal Electoral tendrá un Secretario Ejecutivo, que también lo será del Consejo Estatal Electoral. Para su designación el Consejero Presidente integrará la terna de propuestas y la presentará al pleno, requiriéndose el voto aprobatorio de las dos terceras partes de sus integrantes.
+El Instituto Estatal Electoral tendrá un Secretario Ejecutivo, que también lo será del Consejo Estatal Electoral, y su designación será por terna propuesta por el Consejero Presidente ante el pleno, y se requerirá el voto de las dos terceras partes de sus integrantes para su designación.
+
+De la misma forma el Secretario Ejecutivo podrá ser removido del cargo en cualquier momento, a propuesta del Presidente del Consejo o de las dos terceras partes de los integrantes del pleno.
 
 ###### ARTÍCULO 121.
 
@@ -1537,9 +1545,13 @@ I. Ser ciudadano morelense en pleno goce de sus derechos políticos;
 
 II. Tener, cuando menos, treinta años cumplidos al día de su designación;
 
-III. Contar con estudios de licenciatura y cédula profesional, con experiencia que le permita el desempeño de sus funciones;
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2011)</small>
 
-IV. Tener residencia en el estado, de cuando menos un año anterior al día de la designación;
+III. Ser Licenciado en Derecho y poseer al día de su designación una antigüedad mínima de cinco años con título y Cédula profesional, expedido por la autoridad legalmente facultada para ello.
+
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2011)</small>
+
+IV. Tener una residencia efectiva en el Estado de seis años anteriores al día de su designación.
 
 V. Contar con credencial para votar con fotografía;
 
@@ -1629,21 +1641,25 @@ XXXVI. Informar a los distintos órganos y direcciones del instituto sobre los a
 
 XXXVII. Las demás que señale este código, le asigne el consejero presidente o el Consejo Estatal Electoral.
 
-### CAPÍTULO IX. DE LAS DIRECCIONES DE ÁREA DE LA SECRETARÍA EJECUTIVA
+> <small>(REFORMADA SU DENOMINACION, P.O. 30 DE SEPTIEMBRE DE 2011)</small>
+
+### CAPÍTULO IX. DE LAS DIRECCIONES EJECUTIVAS
+
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2011)</small>
 
 ###### ARTÍCULO 123.
 
-La Secretaría Ejecutiva del Instituto Estatal Electoral contará con las siguientes direcciones:
+El Instituto Estatal Electoral contará con las siguientes Direcciones Ejecutivas:
 
-I. Dirección de Organización y Partidos políticos;
+I. Dirección Ejecutiva de Organización y Partidos políticos;
 
-II. Dirección de Capacitación y Educación Electoral; y
+II. Dirección Ejecutiva de Capacitación y Educación Electoral; y
 
-III. Dirección de Administración y Financiamiento.
+III. Dirección Ejecutiva de Administración y Financiamiento.
 
-Al frente de cada una de las direcciones habrá un director que será nombrado por acuerdo del Consejo Estatal Electoral, conforme a lo dispuesto por este código.
+Al frente de cada una de las direcciones habrá un Director Ejecutivo que será nombrado por acuerdo del Consejo Estatal Electoral, conforme a lo dispuesto por este código.
 
-Los Directores deberán cubrir los mismos requisitos que este ordenamiento exige para ser Secretario Ejecutivo.
+Los Directores deberán cubrir los mismos requisitos del artículo 121 excepto lo señalado en la fracción III de dicho artículo, pero deberán de contar con estudios de licenciatura y cédula profesional, con una antigüedad mínima de 5 años, expedida por la autoridad legalmente facultada para ello, y contar con experiencia que les permita el desempeño de sus funciones.
 
 ###### ARTÍCULO 124.
 
@@ -1989,7 +2005,7 @@ II. Recibir de los Consejos Municipales Electorales dentro de las 72 horas antes
 
 III. Revisar dentro de las 72 horas antes del día de la elección, la ubicación en la que se instalará la casilla, para constatar su funcionalidad. Poniendo de inmediato en conocimiento del Consejo Municipal Electoral respectivo, cualquier inconveniente que advierta para su posible reubicación, garantizando la vecindad con la ubicación previa;
 
-IV. Identificar a los electores con su credencial para votar y comprobar que aparezcan en la lista nominal;
+IV. (DEROGADA, P.O. 30 DE SEPTIEMBRE DE 2011)
 
 V. Mantener el orden en la casilla, aún con el auxilio de la fuerza pública;
 
@@ -1999,23 +2015,31 @@ VII. Practicar con el auxilio del Secretario y ante los representantes de los Pa
 
 VIII. Fijar en lugar visible al exterior de la casilla los resultados del cómputo de cada una de las elecciones;
 
-IX. Concluidas las labores de la casilla, turnar al Consejo Municipal y Distrital Electoral los paquetes electorales que correspondan y las copias de la documentación respectiva en los términos de este código. En el caso de las fracciones V y VI a que se refiere este artículo, los hechos deberán hacerse constar en el acta de cierre de votación con mención del nombre de las personas que hubiesen intervenido, si es que se conocen y con la firma de los funcionarios integrantes de las Mesas Directivas de Casilla; y
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2011)</small>
+
+IX. Concluidas las labores de la casilla, turnar al Consejo Municipal Electoral, los paquetes electorales y las copias de la documentación respectiva en los términos de este código.
+
+En el caso de las fracciones V y VI a que se refiere este artículo, los hechos deberán hacerse constar en el acta de cierre de votación con mención del nombre de las personas que hubiesen intervenido, si es que se conocen y con la firma de los funcionarios integrantes de las Mesas Directivas de Casilla; y
 
 X. Las demás que le confiere este código.
+
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2011)</small>
 
 ###### ARTÍCULO 149.
 
 Los Secretarios de las Mesas Directivas de Casilla tienen las obligaciones siguientes:
 
-I. Levantar las actas durante la jornada electoral que ordena este código y distribuirlas en los términos establecidos;
+I. levantar las actas durante la jornada electoral que ordena este código y distribuirlas en los términos establecidos;
 
 II. Contar en unión de los escrutadores y a la vista de los representantes de los partidos políticos, el número de boletas electorales recibidas, antes de iniciar la votación, las cuales podrán ser firmadas por los representantes de los partidos políticos acreditados ante la Mesa Directiva, en tanto no signifique retraso en la recepción de la votación y de las funciones encomendadas a los funcionarios de la mesa; la falta de firma de las boletas no afectará en forma alguna la validez de las mismas;
 
-III. Recibir los escritos de protesta que presenten los representantes de los partidos políticos o coaliciones;
+III. Identificar a los electores con su credencial para votar y comprobar que aparezcan en la lista nominal.
 
-IV. Inutilizar y contar las boletas sobrantes; y
+IV. Recibir los escritos de protesta que presenten los representantes de los partidos políticos o coaliciones;
 
-V. Las demás que les señale este código.
+V. Inutilizar y contar las boletas sobrantes; y
+
+VI. Las demás que señale este Código.
 
 ###### ARTÍCULO 150.
 
@@ -2769,21 +2793,29 @@ Cualquier infracción a las disposiciones contenidas en el presente código, ser
 
 ### CAPÍTULO V. DE LOS PROCEDIMIENTOS PARA LA INTEGRACIÓN Y UBICACIÓN DE LAS MESAS DIRECTIVAS DE CASILLA
 
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2011)</small>
+
 ###### ARTÍCULO 229.
 
 El procedimiento para designar a los integrantes de la Mesa Directiva de Casilla, se sujetará a lo siguiente:
 
-I.- El Secretario Ejecutivo del Consejo Estatal Electoral, solicitará al Registro Federal de Electores, a más tardar el 25 de marzo anterior a la elección, la lista nominal de electores actualizada por cada sección y municipio, en caso de no obtenerse en estos términos la información, el Consejo Estatal acordará lo conducente.
+I. El Secretario Ejecutivo del Consejo Estatal Electoral, solicitará al Registro Federal de Electores en el mes de enero del año de la elección, la lista nominal de electores actualizada por cada sección y municipio, en caso de no obtenerse en estos términos la información, el Consejo Estatal acordará lo conducente.
 
-II.- Una vez recibida la información del número de empadronados en las secciones comprendidas en cada municipio y distrito electoral, el consejo estatal sesionará para determinar, por insaculación del listado nominal, a presidentes, secretarios y escrutadores, propietarios y suplentes generales de cada una de las mesas de casilla, insaculando el número suficiente de ciudadanos, con el fin de elegir a los que reúnan el perfil.
+II. Una vez recibida la información del número de empadronados en las secciones comprendidas en cada municipio y distrito electoral, el Consejo Estatal:
 
-> <small>(F. DE E., P.O. 24 DE DICIEMBRE DE 2008)</small>
+a) Sorteará un mes del año que, junto con el que le siga en su orden, serán tomados como base para la insaculación (sorteo) de los ciudadanos que integrarán las mesas directivas de casilla.
 
-III.- Los consejeros tendrán cinco días a partir de la sesión mencionada en la fracción anterior, para evaluar y conocer de objeciones o de impedimentos y seleccionar de entre dichos ciudadanos a los que resulten aptos, con el apoyo de las direcciones del instituto que sean competentes; aprobando las designaciones respectivas en la siguiente sesión.
+b) Durante el mes de Febrero. Se procederá a insacular, de las listas nominales de electores, un 10% de ciudadanos de cada sección electoral, sin que en ningún caso el número de ciudadanos insaculados sea menor a cincuenta.
+
+c) A los ciudadanos que resulten seleccionados, se les convocará para que asistan a los cursos de capacitación correspondientes.
+
+d) El Presidente del Consejo Estatal Electoral presentará en sesión de consejo la propuesta de integración de las mesas directivas de casilla.
+
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2011)</small>
 
 ###### ARTÍCULO 230.
 
-Los ciudadanos seleccionados que reúnan los requisitos para ser funcionario de casilla serán convocados a los cursos de capacitación correspondientes, de acuerdo al calendario que para tal efecto apruebe el Consejo Estatal Electoral, en coordinación con los respectivos Consejos Distritales y Municipales Electorales.
+Los ciudadanos seleccionados que reúnan los requisitos para ser funcionario de casilla serán convocados a los cursos de capacitación correspondientes, de acuerdo al calendario que para tal efecto apruebe el Consejo Estatal Electoral.
 
 ###### ARTÍCULO 231.
 
@@ -2845,23 +2877,31 @@ II.- Aprobar el proyecto de ubicación de las Mesas Directivas de Casilla;
 
 III.- Ordenar la difusión, por primera vez, de la lista de integración de las Mesas Directivas de Casillas y de los lugares de su ubicación, en el orden numérico progresivo de las secciones.
 
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2011)</small>
+
 ###### ARTÍCULO 240.
 
-El Consejo Estatal Electoral, difundirá por segunda vez, el tercer domingo del antepenúltimo mes del día de la elección ordinaria, numeradas progresivamente, el número de las casillas electorales y su ubicación, así como los nombres de sus integrantes.
+El Consejo Estatal Electoral, difundirá por segunda vez, dentro de los últimos diez días del antepenúltimo mes del día de la elección ordinaria, numeradas progresivamente, el número de las casillas electorales y su ubicación, así como los nombres de sus integrantes.
 
-La difusión se hará a través de la publicación en el Periódico Oficial del Estado y en uno de los diarios de mayor circulación de la Entidad. El Secretario Ejecutivo del Consejo, entregará una copia de la lista a cada uno de los Partidos, haciendo constar la entrega en el acta respectiva. El Consejero Presidente del Consejo Estatal Electoral dentro de los 15 días siguientes a la fecha de difusión, atenderá las objeciones y presentará al pleno del Consejo, quién decidirá los cambios cuando los lugares señalados o los ciudadanos designados no reúnan los requisitos exigidos por este código.
+La difusión se hará a través de la publicación en el Periódico Oficial del Estado y en uno de los diarios de mayor circulación de la Entidad. El Secretario Ejecutivo del Consejo, entregará una copia de la lista a cada uno de los Partidos, haciendo constar la entrega en el acta respectiva.
+
+El Consejero Presidente del Consejo Estatal Electoral dentro de los 10 días siguientes a la fecha de difusión, atenderá las objeciones y presentará al pleno del Consejo, quién decidirá las cambios cuando los lugares señalados o los ciudadanos designados no reúnan los requisitos exigidos por este código.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE SEPTIEMBRE DE 2011)</small>
 
 ###### ARTÍCULO 241.
 
-El Consejo Estatal Electoral, difundirá, por tercera ocasión, dentro de los quince primeros días del mes que anteceda al mes de la elección ordinaria, de acuerdo al procedimiento establecido en el artículo anterior, la lista de casillas, su ubicación y los nombres de sus integrantes con las modificaciones que hubiesen procedido.
+El Consejo Estatal Electoral, difundirá, por tercera ocasión, dentro de los veinte primeros días del mes que antecede al mes de la elección ordinaria, de acuerdo al procedimiento establecido en el artículo anterior, la lista de casillas, su ubicación y los nombres de sus integrantes con las modificaciones que hubiesen procedido.
 
 La publicación o la falta de ella, en ninguna forma afecta la validez y eficacia de las determinaciones adoptadas por el Consejo.
 
 Dentro de dicho período deberá notificarse personalmente a los integrantes de la Mesa Directiva de Casilla, sus respectivos nombramientos, salvo que el Consejo Estatal Electoral, determine otro plazo.
 
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2011)</small>
+
 ###### ARTÍCULO 242.
 
-Si después de la tercera publicación ocurren causas supervenientes fundadas y plenamente acreditadas, el Consejo Estatal Electoral hasta ocho días antes de la jornada electoral podrá hacer los cambios que se requieran y tratándose de la ubicación de las casillas, mandará fijar avisos en los lugares excluidos, indicando la nueva ubicación.
+Si después de la tercera publicación ocurren causas supervenientes fundadas y plenamente acreditadas, el Consejo Estatal Electoral podrá hacer los cambios que se requieran y tratándose de la ubicación de las casillas, mandará fijar avisos en los lugares excluidos, indicando la nueva ubicación.
 
 ### CAPÍTULO VI. DEL REGISTRO DE REPRESENTANTES
 
@@ -2963,9 +3003,11 @@ V.- Las boletas estarán adheridas a un talón con folio y las sobrantes serán 
 
 VI.- El color, colores, combinación de colores y emblemas de los partidos políticos aparecerán en la boleta en el orden que les corresponda de acuerdo a la antigüedad de su registro.
 
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2011)</small>
+
 ###### ARTÍCULO 248.
 
-En caso de cancelación o sustitución de uno o más candidatos, las boletas que ya estuvieren impresas serán corregidas en la parte relativa o sustituidas por otras, conforme acuerde el Consejo Estatal Electoral.
+En caso de cancelación del registro o sustitución de uno o más candidatos, no habrá modificación a las boletas si éstas ya estuvieran impresas. En todo caso, los votos contarán para los partidos políticos y los candidatos que estuviesen legalmente registrados ante el Consejo Estatal Electoral o los Consejos Distritales y Municipales Electorales correspondientes.
 
 ###### ARTÍCULO 249.
 
@@ -3287,13 +3329,17 @@ El Presidente de la Mesa Directiva de la Casilla entregará un ejemplar de cada 
 
 ### CAPÍTULO IV. DE LA CLAUSURA DE LA CASILLA Y DE LA REMISIÓN DEL PAQUETE ELECTORAL
 
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2011)</small>
+
 ###### ARTÍCULO 281.
 
 Concluidas las labores, se clausurará la casilla, procediendo a fijar en lugar visible del local, los avisos con los resultados de las votaciones; el Presidente bajo su responsabilidad, hará llegar los paquetes electorales sujetándose a lo siguiente:
 
-I.- Los relativos a la elección de gobernador, diputados y miembros del ayuntamiento, se entregará al consejo correspondiente dentro de las veinticuatro horas después de la clausura, excepto que hubiere causa justificada; y
+I.- Los relativos a la elección de miembros del Ayuntamiento, se entregará al consejo municipal electoral inmediatamente y dentro de las veinticuatro horas después de la clausura de la casilla;
 
-II.- Los representantes de los partidos acreditados ante la casilla podrán acudir con los funcionarios de casilla a la entrega del paquete electoral.
+II.- Los que contengan la elección de Diputados y de Gobernador se entregarán en igual forma y los Consejos Municipales Electorales tendrán la obligación de hacerlo llegar inmediatamente y hasta dentro de un plazo de veinticuatro horas contadas a partir de la clausura a los Consejos Distritales Electorales; y
+
+III.- Los representantes de los partidos acreditados ante la casilla podrán acudir con los funcionarios de casilla a la entrega de los paquetes electorales.
 
 ## TÍTULO CUARTO. DEL VOTO DE LOS MORELENSES RESIDENTES EN EL EXTRANJERO
 
@@ -4534,3 +4580,15 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas las disposiciones que se opongan a este decreto.
+
+P.O. 30 DE SEPTIEMBRE DE 2011.
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos.
+
+SEGUNDO.- El Consejo del Instituto Estatal Electoral deberá expedir en un término de 60 días naturales, el Estatuto del Servicio Civil de Carrera, los Reglamentos y Manuales que correspondan para la aplicación del Servicio Profesional Electoral que contempla el presente decreto.
+
+TERCERO.- En relación a las direcciones de área que pasan a ser Direcciones Ejecutivas, el incremento que en su caso se requiera así como la creación de nuevas unidades administrativas, y recursos humanos y materiales, el Instituto Estatal Electoral deberá contemplar en el presupuesto de egresos para el ejercicio fiscal del año 2012 dichos incrementos.
+
+CUARTO.- Para la aplicación de los artículos contenidos en la presente reforma en cuanto al personal del Instituto Estatal Electoral, se deberá garantizar en su caso, los alcances legales correspondientes.
+
+QUINTO.- Remítase al Ejecutivo del Estado para su publicación en el Periódico Oficial del Estado "Tierra y Libertad".
