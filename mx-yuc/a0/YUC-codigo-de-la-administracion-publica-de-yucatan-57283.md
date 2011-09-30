@@ -4,7 +4,7 @@ identifier: "YUC-codigo-de-la-administracion-publica-de-yucatan-57283"
 country: "mx"
 rank: "codigo"
 publication_date: "2007-10-16"
-last_updated: "2008-11-25"
+last_updated: "2011-09-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57283&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 CODIGO DE LA ADMINISTRACION PUBLICA DE YUCATAN
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 25 DE NOVIEMBRE DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 30 DE SEPTIEMBRE DE 2011.
 
 Código publicado en el Suplemento al Diario Oficial del Estado de Yucatán, el martes 16 de octubre de 2007.
 
@@ -57,9 +57,13 @@ Las disposiciones contenidas en este Código son de orden e interés público y 
 
 ### CAPÍTULO II. De la Integración y Funcionamiento
 
+> <small>(REFORMADO, D.O. 30 DE SEPTIEMBRE DE 2011)</small>
+
 ###### Artículo 2.
 
-La Administración Pública del Estado, es la parte del Poder del Poder (sic) Ejecutivo a cuyo cargo corresponde la responsabilidad de desarrollar la función ejecutiva del Gobierno del Estado, para la realización de actos administrativos, jurídicos y materiales, para la prestación de los servicios públicos y la producción de bienes para satisfacer las necesidades colectivas, y que se organiza en centralizada y paraestatal.
+Para cumplir con la responsabilidad de desarrollar la función administrativa del Gobierno del Estado, consistente en realizar actos jurídicos, materiales y administrativos, en prestar los servicios públicos y en promover la producción de bienes para satisfacer las necesidades colectivas, el Poder Ejecutivo cuenta con dependencias y entidades que, en su conjunto, integran la Administración Pública Estatal.
+
+La Administración Pública Estatal se organiza en centralizada y paraestatal.
 
 ###### Artículo 3.
 
@@ -69,13 +73,25 @@ La Administración Pública Centralizada se integra por el Despacho del Gobernad
 
 Las entidades que constituyen la Administración Pública Paraestatal son: los organismos públicos descentralizados, las empresas de participación estatal mayoritaria y los fideicomisos públicos.
 
+> <small>(REFORMADO, D.O. 30 DE SEPTIEMBRE DE 2011)</small>
+
 ###### Artículo 5.
 
-Las autoridades, instancias y tribunales administrativos del Estado, con autonomía jurisdiccional, forman parte del Gobierno y su relación con el Ejecutivo es exclusivamente administrativa.
+Las relaciones del Poder Ejecutivo con las autoridades e instancias administrativas jurisdiccionales, con los otros poderes públicos y organismos autónomos constitucionales del Estado, tienen carácter de administrativo.
+
+> <small>(REFORMADO, D.O. 30 DE SEPTIEMBRE DE 2011)</small>
 
 ###### Artículo 6.
 
-La Administración Pública del Estado conducirá sus actividades en forma programada, con base en las políticas de planeación que establezca el Titular del Ejecutivo del Estado para el logro de los objetivos y prioridades de desarrollo y en los términos que fijen los convenios de coordinación respectivos, para la ejecución de los planes Nacional y Estatal de Desarrollo y los correspondientes programas de la Administración Pública.
+La Administración Pública Estatal conducirá sus actividades en forma planeada y programada, con base en:
+
+l.- Las políticas de planeación que establezca el Titular del Poder Ejecutivo del Estado para el logro de los objetivos y prioridades de desarrollo;
+
+II.- Los términos que fijen los convenios de coordinación respectivos para la ejecución de los planes Nacional y Estatal de Desarrollo, y
+
+III.- Los correspondientes programas de la Administración Pública.
+
+El Gobernador del Estado podrá convocar a reuniones a los titulares de las dependencias y entidades de la Administración Pública del Estado, con la finalidad de definir o evaluar políticas globales o específicas.
 
 ###### Artículo 7.
 
@@ -103,9 +119,11 @@ Las dependencias y entidades de la Administración Pública deben coordinarse de
 
 El Gobernador del Estado es titular originario de todas las atribuciones y facultades del Poder Ejecutivo, las que por razones de división del trabajo podrán encomendarse a otros servidores públicos, excepto aquellas indelegables por mandato expreso de la Constitución Política del Estado de Yucatán y las leyes.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O. 30 DE SEPTIEMBRE DE 2011)</small>
+
 ###### Artículo 13.
 
-La delegación de atribuciones y facultades que realice el Gobernador del Estado se hará por ley, reglamentos o mediante acuerdos que deberán ser publicados en el Diario Oficial del Gobierno del Estado.
+La delegación de atribuciones y facultades que realice el Gobernador del Estado se hará por ley, reglamentos, decretos o acuerdos, que deberán ser publicados en el Diario Oficial del Gobierno del Estado.
 
 La distribución de funciones que este Código establece para servidores públicos subalternos, no impedirá al Gobernador el ejercicio directo de sus atribuciones y facultades cuando así lo considere.
 
@@ -123,9 +141,13 @@ IV.- Nombrar y remover libremente a los titulares de las dependencias y entidade
 
 V.- Celebrar a nombre del Gobierno del Estado convenios con el Ejecutivo Federal y con los ayuntamientos de Yucatán para integrar organismos de carácter mixto y los que presten servicios coordinados o por cooperación, así como la prestación de servicios públicos y la realización de obras, en los términos de las estipulaciones pactadas y las disposiciones legales relativas;
 
-VI.- Expedir la reglamentación y normatividad de las dependencias; los reglamentos interiores, entre otras cosas, determinarán las atribuciones de las unidades administrativas, los titulares podrán ser suplidos en sus ausencias, con excepción de lo establecido en el presente Código;
+> <small>(REFORMADA, D.O. 30 DE SEPTIEMBRE DE 2011)</small>
 
-VII.- Firmar sus iniciativas de ley, así como la promulgación de leyes o decretos expedidos por el Honorable Congreso del Estado, con el refrendo del Secretario General de Gobierno;
+VI.- Expedir la reglamentación y demás disposiciones normativas de las dependencias, en las cuales se determinarán, entre otros aspectos, las atribuciones de las unidades administrativas, la forma en que los titulares podrán ser suplidos en sus ausencias, con excepción de lo establecido en el presente Código;
+
+> <small>(REFORMADA, D.O. 30 DE SEPTIEMBRE DE 2011)</small>
+
+VII.- Firmar sus iniciativas de ley o de decreto y la promulgación de leyes o decretos expedidos por el Congreso del Estado, con el refrendo del Secretario General de Gobierno;
 
 VIII.- Suscribir los reglamentos, decretos y acuerdos que emita, con el refrendo del Secretario General de Gobierno y la firma de los titulares a quienes se les establezca intervención en el asunto que se trate;
 
@@ -133,17 +155,37 @@ IX.- Mandar a publicar en el Diario Oficial del Gobierno del Estado, para su obl
 
 X.- Establecer los procedimientos por los cuales los servidores públicos deberán tomar posesión o hacer entrega de sus cargos;
 
-XI.- Constituir comisiones intersecretariales para el despacho de los asuntos en que deban intervenir varias Secretarías. Las entidades de la administración pública paraestatal pueden integrarse a dichas comisiones cuando se trate de asuntos relacionados con su objeto;
+> <small>(REFORMADA, D.O. 30 DE SEPTIEMBRE DE 2011)</small>
 
-XII.- Designar mandatarios generales o limitados en términos de lo establecido en el Código Civil del Estado de Yucatán para la atención de los asuntos de la competencia del Poder Ejecutivo y revocar dichos mandatos;
+XI.- Constituir comisiones intersecretariales temporales o permanentes para el despacho de los asuntos en que deban intervenir varias Secretarías. Las comisiones serán integradas por los titulares o representantes de las dependencias interesadas y serán presididas por el titular o representante de la dependencia que el propio Gobernador determine. Las entidades de la administración pública paraestatal pueden integrarse a dichas comisiones cuando se trate de asuntos relacionados con su objeto;
 
-XIII.- Crear, conforme a las bases que establece éste Código y demás legislación aplicable, las entidades paraestatales y los órganos desconcentrados que requiera la Administración Pública, y
+> <small>(REFORMADA, D.O. 30 DE SEPTIEMBRE DE 2011)</small>
 
-XIV.- Las demás que le confieran otras disposiciones legales.
+XII.- Designar mandatarios generales o limitados, en términos de lo establecido en el Código Civil del Estado de Yucatán, para la atención de los asuntos de la competencia del Poder Ejecutivo y revocar dichos mandatos. Estos mandatos podrán conferirlos a cualquier persona sea o no servidor público;
+
+> <small>(REFORMADA, D.O. 30 DE SEPTIEMBRE DE 2011)</small>
+
+XIII.- Crear, conforme a las bases que establece este Código y demás legislación aplicable, las entidades paraestatales y los órganos desconcentrados que requiera la Administración Pública;
+
+> <small>(REFORMADA, D.O. 30 DE SEPTIEMBRE DE 2011)</small>
+
+XIV.- Decretar o, en su caso, solicitar al Congreso del Estado, previa opinión del titular de la dependencia a la que se encuentre sectorizada, la fusión o extinción de cualquier entidad paraestatal que no cumpla con sus fines u objeto social, o cuyo funcionamiento resulte inconveniente para la economía del estado o el interés público;
+
+> <small>(ADICIONADA, D.O. 30 DE SEPTIEMBRE DE 2011)</small>
+
+XV.- Crear nuevas dependencias y separar, unir o transformar las existentes, en atención al volumen de trabajo, a las necesidades sociales y trascendencia de los asuntos públicos, con la finalidad de asegurar el adecuado desarrollo de la Administración Pública Estatal, y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], D.O. 30 DE SEPTIEMBRE DE 2011)</small>
+
+XVI.- Las demás que le confieran otras disposiciones legales.
+
+> <small>(REFORMADO, D.O. 30 DE SEPTIEMBRE DE 2011)</small>
 
 ###### Artículo 15.
 
-El Gobernador del Estado, con el fin de establecer políticas públicas congruentes con los objetivos y metas de desarrollo del estado, deberá, dentro de los primeros sesenta días siguientes al Plan Estatal de Desarrollo de su administración, instituir el esquema de la sectorización de gobierno que agrupará a las distintas dependencias y entidades de la administración pública centralizada y paraestatal, a efecto de facilitar la coordinación de políticas, planes, programas y acciones que contemple dicho Plan y dispondrá la integración de sectores correspondientes.
+El Gobernador del Estado, con el fin de establecer políticas públicas congruentes con los objetivos y metas de desarrollo del Estado, deberá establecer esquemas de sectorización de las dependencias y entidades de la Administración Pública Estatal, a efecto de facilitar la coordinación de políticas, planes, programas y acciones que contemple el Plan Estatal de Desarrollo.
+
+La coordinación del Sistema de Gabinete Sectorizado estará a cargo de la Junta de Planeación Estratégica y Evaluación, en los términos que establezca el Reglamento del Código de la Administración Pública de Yucatán y demás disposiciones legales aplicables.
 
 ###### Artículo 16.
 
@@ -163,9 +205,11 @@ El Gobernador del Estado resolverá cualquier duda que se presente sobre compete
 
 ### CAPÍTULO IV. De las Ausencias Temporales del Gobernador
 
+> <small>(REFORMADO, D.O. 30 DE SEPTIEMBRE DE 2011)</small>
+
 ###### Artículo 18.
 
-En las faltas temporales del Gobernador del Estado que no excedan de sesenta días, el Secretario General de Gobierno asumirá las funciones del Titular del Ejecutivo, y las de aquél por el Oficial Mayor.
+En las ausencias temporales del Gobernador del Estado que no excedan de sesenta días, el Secretario General de Gobierno asumirá las funciones del Titular del Ejecutivo, y las de aquél, el Oficial Mayor.
 
 ###### Artículo 19.
 
@@ -177,9 +221,11 @@ En el supuesto del artículo anterior y además para el caso de ausencia del Sec
 
 ### CAPÍTULO ÚNICO. De las Facultades y Atribuciones
 
+> <small>(REFORMADO, D.O. 30 DE SEPTIEMBRE DE 2011)</small>
+
 ###### Artículo 20.
 
-El Titular del Poder Ejecutivo del Estado, para el adecuado cumplimiento de sus facultades contará con el Despacho del Gobernador, que será una unidad administrativa de apoyo, organizada en los términos previstos en el reglamento respectivo.
+El Titular del Poder Ejecutivo del Estado, para el adecuado cumplimiento de sus facultades contará con el Despacho del Gobernador, que será una unidad administrativa de apoyo, organizada en los términos previstos en el reglamento de este Código y demás disposiciones normativas aplicables.
 
 ###### Artículo 21.
 
@@ -195,9 +241,33 @@ IV.- Dar seguimiento al cumplimiento de los programas y proyectos especiales, a 
 
 V.- Evaluar los resultados de las acciones de comunicación social del Poder Ejecutivo del Estado y, en su caso, señalar las medidas necesarias para un mejor cumplimiento de los objetivos de las acciones referidas;
 
-VI.- Crear y conducir mecanismos que contribuyan a conjugar armónicamente los esfuerzos de la ciudadanía y la administración pública para el desarrollo general del estado, y
+> <small>(REFORMADA, D.O. 30 DE SEPTIEMBRE DE 2011)</small>
 
-VII.- Organizar conjuntamente con las dependencias y entidades del Estado, y los sectores social y privado, los actos cívicos en la entidad, así como la logística y el protocolo de los eventos a los que asista el Gobernador del Estado en la entidad, sus municipios y el resto del país.
+VI.- Crear y conducir mecanismos que contribuyan a conjugar armónicamente los esfuerzos de la ciudadanía y la administración pública para el desarrollo general del Estado;
+
+> <small>(REFORMADA, D.O. 30 DE SEPTIEMBRE DE 2011)</small>
+
+VII.- Organizar, conjuntamente con las dependencias y entidades del Estado y los sectores social y privado, los actos cívicos, así como la logística y el protocolo de los eventos a los que asista el Gobernador del Estado, en la entidad y en cualquier otra entidad del país;
+
+> <small>(ADICIONADA, D.O. 30 DE SEPTIEMBRE DE 2011)</small>
+
+VIII.- Responsabilizarse de la posesión, vigilancia y conservación de los bienes muebles o inmuebles de propiedad estatal que administren, así como de la correcta aplicación de los recursos que les sean asignados;
+
+> <small>(ADICIONADA, D.O. 30 DE SEPTIEMBRE DE 2011)</small>
+
+IX.- Establecer, de acuerdo con sus necesidades, sus correspondientes servicios de apoyo administrativo en materia de planeación y programación, presupuesto, informática, estadística, recursos humanos, recursos materiales, contabilidad, control, archivo y los demás que se requieran, en los casos y en los términos que determine el Gobernador del Estado;
+
+> <small>(ADICIONADA, D.O. 30 DE SEPTIEMBRE DE 2011)</small>
+
+X.- Intervenir y suscribir, por delegación del Gobernador del Estado, los actos, contratos y convenios relacionados con las funciones que le fueran encomendadas;
+
+> <small>(ADICIONADA, D.O. 30 DE SEPTIEMBRE DE 2011)</small>
+
+XI.- Realizar los actos administrativos necesarios para cumplir con las atribuciones a su cargo, y
+
+> <small>(ADICIONADA, D.O. 30 DE SEPTIEMBRE DE 2011)</small>
+
+XII.- Las demás atribuciones que le confiera el Gobernador del Estado.
 
 ## TÍTULO II. DE LAS DEPENDENCIAS
 
@@ -229,7 +299,9 @@ X.- Secretaría de la Juventud;
 
 XI.- Secretaría de Seguridad Pública;
 
-XII.- Procuraduría General de Justicia del Estado;
+> <small>(REFORMADA, D.O. 30 DE SEPTIEMBRE DE 2011)</small>
+
+XII.- Fiscalía General del Estado;
 
 XIII.- Secretaría de Fomento Económico;
 
@@ -243,17 +315,23 @@ XVI.- Secretaría de Desarrollo Urbano y Medio Ambiente;
 
 XVII.- Secretaría de la Contraloría General;
 
-> <small>(REFORMADA, D.O. 25 DE NOVIEMBRE DE 2008)</small>
+> <small>(REFORMADA, D.O. 30 DE SEPTIEMBRE DE 2011)</small>
 
-XVIII.- Coordinación General de Comunicación Social, y
+XVIII.- Coordinación General de Comunicación Social;
 
-> <small>(ADICIONADA, D.O. 25 DE NOVIEMBRE DE 2008)</small>
+> <small>(REFORMADA, D.O. 30 DE SEPTIEMBRE DE 2011)</small>
 
-XIX.- Secretaría del Trabajo y Previsión Social.
+XIX.- Secretaría del Trabajo y Previsión Social, y
 
-> <small>(REFORMADO, D.O. 25 DE NOVIEMBRE DE 2008)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-Las Dependencias señaladas en las fracciones de la II a la XIX tendrán igual rango entre ellas.
+> <small>(ADICIONADA, D.O. 30 DE SEPTIEMBRE DE 2011)</small>
+
+XX.- Secretaría de la Cultura y las Artes.
+
+> <small>(REFORMADO, D.O. 30 DE SEPTIEMBRE DE 2011)</small>
+
+Las Dependencias señaladas en las fracciones de la II a la XX tendrán igual rango entre ellas.
 
 ## TÍTULO III. DE LOS TITULARES DE LAS DEPENDENCIAS
 
@@ -263,13 +341,21 @@ Las Dependencias señaladas en las fracciones de la II a la XIX tendrán igual r
 
 Al frente de cada dependencia habrá un titular, quien para la atención de los asuntos del ramo, se auxiliará de los servidores públicos que señale el Reglamento Interior respectivo y demás disposiciones legales aplicables.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O. 30 DE SEPTIEMBRE DE 2011)</small>
+
+En los juicios de amparo, el Gobernador del Estado podrá ser representado por el titular de la dependencia a que corresponde el asunto, según la distribución de competencias. Los recursos administrativos promovidos contra actos de los Secretarios serán resueltos dentro del ámbito de su Secretaría en los términos de los ordenamientos legales aplicables.
+
+> <small>(REFORMADO, D.O. 30 DE SEPTIEMBRE DE 2011)</small>
+
 ###### Artículo 24.
 
-Corresponde a los titulares de las dependencias el trámite y resolución de los asuntos de su competencia; sin embargo para la mejor organización del trabajo y la realización de las tareas, obras y servicios públicos, podrán delegar en los servidores públicos subalternos cualquiera de sus funciones, excepto aquellas que por disposición de la Ley o del reglamento interior respectivo, deban ser ejercidas precisamente por los propios titulares.
+Corresponde a los titulares de las dependencias la representación legal de la misma, el trámite y resolución de los asuntos de su competencia; sin embargo, para la mejor organización del trabajo y la realización de las tareas, obras y servicios públicos, podrán delegar cualquiera de sus funciones, excepto aquellas que por disposición de la Ley o del reglamento de este Código, deban ser ejercidas por los propios titulares.
+
+> <small>(REFORMADO, D.O. 30 DE SEPTIEMBRE DE 2011)</small>
 
 ###### Artículo 25.
 
-A los titulares de las dependencias se les denominará Secretarios, con excepción de los titulares de la Oficialía Mayor, al que se le denominará Oficial Mayor; de la Consejería Jurídica, Consejero; al de la Procuraduría General de Justicia, Procurador General de Justicia y al de la Coordinación General de Comunicación Social, Coordinador General.
+A los titulares de las dependencias se les denominará Secretarios, con excepción de los titulares de la Oficialía Mayor, al que se le denominará Oficial Mayor; de la Consejería Jurídica, Consejero Jurídico; al de la Fiscalía General del Estado, Fiscal General y al de la Coordinación General de Comunicación Social, Coordinador General.
 
 ###### Artículo 26.
 
@@ -319,13 +405,39 @@ XIII.- Establecer, de acuerdo con sus necesidades, sus correspondientes servicio
 
 XIV.- Resolver las dudas o controversias en materia de competencia interna que se susciten en las áreas a su cargo;
 
-XV.- Delegar la representación legal de su dependencia en mandatarios (sic) generales o limitados en términos de lo establecido en el Código Civil del Estado de Yucatán y revocar dichos mandatos;
+> <small>(REFORMADA, D.O. 30 DE SEPTIEMBRE DE 2011)</small>
+
+XV.- Delegar la representación legal de su dependencia en mandatarios generales o limitados, en términos de lo establecido en el Código Civil del Estado de Yucatán y revocar dichos mandatos. Estos mandatos podrán conferirse a cualquier ciudadano sea o no servidor público;
 
 XVI.- Acordar el establecimiento de oficinas en los Municipios del Estado con la finalidad de recibir y tramitar los asuntos de su competencia; cuando se decida instalar estas, en edificios propiedad de los ayuntamientos, se deberá celebrar el convenio respectivo;
 
-XVII.- Realizar los actos administrativos necesarios para cumplir con las atribuciones a su cargo, y
+> <small>(REFORMADA, D.O. 30 DE SEPTIEMBRE DE 2011)</small>
 
-XVIII.- Las demás que dispongan las leyes, reglamentos, convenios de colaboración administrativa celebrados o que se celebren, relativos a la dependencia a su cargo.
+XVII.- Realizar los actos administrativos necesarios para cumplir con las atribuciones a su cargo;
+
+> <small>(REFORMADA, D.O. 30 DE SEPTIEMBRE DE 2011)</small>
+
+XVIII.- Representar legalmente a la Dependencia ante las autoridades jurisdiccionales o administrativas estatales o federales y ante organismos autónomos;
+
+> <small>(ADICIONADA, D.O. 30 DE SEPTIEMBRE DE 2011)</small>
+
+XIX.- Declarar la nulidad o anulabilidad de actos administrativos, cuando exista omisión o irregularidad de los elementos y requisitos exigidos por la Ley de Actos y Procedimientos Administrativos y demás disposiciones aplicables;
+
+> <small>(ADICIONADA, D.O. 30 DE SEPTIEMBRE DE 2011)</small>
+
+XX.- Resolver los Recursos Administrativos de Revisión, que se presenten contra los actos emitidos por los servidores públicos de la Dependencia con nivel jerárquico inmediato inferior al de él o con rango de Director;
+
+> <small>(ADICIONADA, D.O. 30 DE SEPTIEMBRE DE 2011)</small>
+
+XXI.- Nombrar a los servidores públicos de la Dependencia que fungirán como enlaces ante el Consejo Estatal de Mejora Regulatoria;
+
+> <small>(ADICIONADA, D.O. 30 DE SEPTIEMBRE DE 2011)</small>
+
+XXII.- Inscribir en el Padrón de Trámites y Servicios Estatales todos los trámites o servicios que se ofrezcan y presten a los ciudadanos y mantenerlos actualizados, y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], D.O. 30 DE SEPTIEMBRE DE 2011)</small>
+
+XXIII.- Los demás que dispongan las leyes, reglamentos, convenios de colaboración administrativa celebrados o que se celebren, relativos a la dependencia a su cargo.
 
 ###### Artículo 28.
 
@@ -371,23 +483,27 @@ XIII.- Aplicar en el ámbito de su competencia, las disposiciones legales y conv
 
 XIV.- Conducir las relaciones del Poder Ejecutivo con los organismos autónomos contemplados en la Constitución Política del Estado así como con los creados por alguna otra ley o decreto, siempre que por su naturaleza o funciones no corresponda conducirlas a otra de las Dependencias del Poder Ejecutivo;
 
-XV.- Hacer llegar al Honorable Congreso del Estado las iniciativas de ley y de decretos del Gobernador, y atender por indicación de éste la comparecencia establecida en el artículo 28 de la Constitución Política del Estado;
+> <small>(REFORMADA, D.O. 30 DE SEPTIEMBRE DE 2011)</small>
+
+XV.- Firmar, junto con el Gobernador del Estado, las iniciativas de ley y de decreto y hacerlas llegar al Honorable Congreso del Estado, y atender por indicación del Gobernador la comparecencia establecida en el artículo 28 de la Constitución Política del Estado;
 
 XVI.- Intervenir, en auxilio o coordinación con las autoridades federales y en los términos de las leyes y convenios relativos, en materia de migración, política poblacional, cultos religiosos, detonantes y pirotecnia, portación de armas, juegos y sorteos regulados, piratería, prevención y combate de catástrofes públicas, y campañas contra el narcotráfico;
 
 XVII.- Conducir las relaciones y ejercer las atribuciones que al Ejecutivo del Estado le corresponda, con las distintas iglesias y agrupaciones religiosas;
 
-XVIII.- Establecer las políticas y programas relativos y administrar a los Centros de Readaptación Social del Estado, así como al Centro Especializado en la Aplicación de Medidas para Adolescentes;
+> <small>(REFORMADA, D.O. 30 DE SEPTIEMBRE DE 2011)</small>
+
+XVIII.- Establecer las políticas y programas relativos y administrar a los Centros de Reinserción Social del Estado, así como al Centro Especializado en la Aplicación de Medidas para Adolescentes;
 
 XIX.- Firmar el apostillamiento de los documentos públicos estatales, de conformidad con la Convención por la que se suprime el Requisito de Legalización de los Documentos Públicos Extranjeros, adoptada en la Conferencia de La Haya de Derecho Internacional Privado;
 
-XX.- Aplicar la Ley de Ejecución de Sanciones del Estado a través de la Dirección de Prevención y Readaptación Social;
+> <small>(REFORMADA, D.O. 30 DE SEPTIEMBRE DE 2011)</small>
+
+XX.- Aplicar la Ley de Ejecución de Sanciones del Estado a través de la Dirección de Ejecución, Prevención y Reinserción Social;
 
 XXI.- Dar seguimiento, en materia de Derechos Humanos, a las recomendaciones, y procurar la colaboración con las Comisiones Nacional y Estatal de la materia;
 
-> <small>(REFORMADA, D.O. 25 DE NOVIEMBRE DE 2008)</small>
-
-XXII.- Conducir las relaciones del Ejecutivo con el Tribunal de lo Contencioso Administrativo del Estado, con miras a la eficacia del mismo, proporcionándole el apoyo administrativo que para su funcionamiento requiera, sin perjuicio de su autonomía jurisdiccional;
+XXII.- (DEROGADA, D.O. 30 DE SEPTIEMBRE DE 2011)
 
 XXIII.- Coordinar la administración y vigilar el debido funcionamiento del Consejo Estatal de Población;
 
@@ -443,9 +559,21 @@ XIV.- Implementar las acciones tendientes a proteger el patrimonio del Estado, i
 
 XV.- Implementar el Sistema de Servicio Civil de Carrera en la Administración Pública del Estado;
 
-XVI.- Atender los requerimientos del Despacho del Gobernador del Estado, en materia de servicios generales, transporte, comunicaciones, adquisiciones, servicios y recursos humanos, y
+> <small>(REFORMADA, D.O. 30 DE SEPTIEMBRE DE 2011)</small>
 
-XVII.- Administrar y mantener actualizado el padrón de proveedores de bienes y servicios del Gobierno del Estado, pudiendo, suspender o dar de baja de dicho registro a las personas físicas o morales en los casos que fueran procedentes, conforme a las disposiciones legales en materia de adquisiciones, arrendamientos y servicios.
+XVI.- Atender los requerimientos del Despacho del Gobernador del Estado, en materia de servicios generales, transporte, comunicaciones, adquisiciones, servicios y recursos humanos;
+
+> <small>(REFORMADA, D.O. 30 DE SEPTIEMBRE DE 2011)</small>
+
+XVII.- Administrar y mantener actualizado el padrón de proveedores de bienes y servicios del Gobierno del Estado y, en su caso, suspender o dar de baja de dicho registro a las personas físicas o morales, cuando fuere procedente, conforme a las disposiciones legales en materia de adquisiciones, arrendamientos y servicios;
+
+> <small>(ADICIONADA, D.O. 30 DE SEPTIEMBRE DE 2011)</small>
+
+XVIII.- Integrar, organizar, administrar y vigilar el funcionamiento del Padrón de Trámites y Servicios Estatales, y
+
+> <small>(ADICIONADA, D.O. 30 DE SEPTIEMBRE DE 2011)</small>
+
+XIX.- Establecer el Calendario Oficial de días inhábiles del Gobierno del Estado.
 
 ### CAPÍTULO III. De la Consejería Jurídica
 
@@ -455,7 +583,9 @@ A la Consejería Jurídica le corresponde el despacho de los siguientes asuntos:
 
 I.- Proporcionar asistencia jurídica al Gobernador del Estado en los actos propios de su investidura que así lo requieran;
 
-II.- Brindar apoyo técnico jurídico al Gobernador del Estado, en la elaboración de sus iniciativas de ley y decretos, así como en los demás instrumentos que éste considere necesarios;
+> <small>(REFORMADA, D.O. 30 DE SEPTIEMBRE DE 2011)</small>
+
+II.- Brindar apoyo técnico jurídico al Gobernador del Estado, en la elaboración de sus iniciativas de ley y de decreto que deban ser enviadas al Congreso del Estado, así como de los decretos, acuerdos, convenios y demás instrumentos que el Gobernador considere necesarios;
 
 III.- Recibir y revisar los proyectos de normas que se remitan al Gobernador del Estado, elaborados por los titulares de las dependencias y entidades de la Administración Pública;
 
@@ -467,7 +597,9 @@ VI.- Establecer criterios de aplicación de normas que sean competencia del Pode
 
 VII.- Coordinar las acciones en materia jurídica que se implementen en la Administración Pública Estatal, estableciendo los criterios jurídicos que aplicarán las dependencias y las entidades;
 
-VIII.- Nombrar y remover, previo acuerdo con el Titular del Ejecutivo del Estado, a los titulares o funcionarios análogos, responsables de las áreas jurídicas de las dependencias referidas en el artículo 22 de este Código; y en las entidades de la Administración Pública Paraestatal, serán designados conforme la normatividad que las regula, previa evaluación y opinión del Consejero Jurídico;
+> <small>(REFORMADA, D.O. 30 DE SEPTIEMBRE DE 2011)</small>
+
+VIII.- Nombrar y remover, previo acuerdo con el Titular del Poder Ejecutivo del Estado, a los titulares o funcionarios análogos, responsables de las áreas jurídicas de las dependencias referidas en el artículo 22 de este Código; y en las entidades de la Administración Pública Paraestatal, serán designados conforme a la normatividad que las regula, previa evaluación y opinión del Consejero Jurídico;
 
 IX.- Recibir de las áreas jurídicas de las dependencias y entidades, informe sucinto que deberán rendirle sobre los asuntos que conozcan y de considerarse necesario requerirles la ampliación de los mismos;
 
@@ -487,7 +619,9 @@ XVI.- Conocer y substanciar los procedimientos relativos a los recursos administ
 
 XVII.- Encargarse de las funciones del Ejecutivo del Estado, en materia de la función pública del Notariado, incluyendo la organización, vigilancia, autorización y sanción de las actividades de los Notarios y Escribanos Públicos;
 
-XVIII.- Coordinar y vigilar las acciones correspondientes a la organización y funcionamiento del Archivo Notarial, del Diario Oficial, de la Defensoría Legal, del Registro Civil y del Registro Público de la Propiedad, todos del Estado;
+> <small>(REFORMADA, D.O. 30 DE SEPTIEMBRE DE 2011)</small>
+
+XVIII.- Coordinar y vigilar las acciones correspondientes a la organización y funcionamiento de las direcciones de la Dependencia a su cargo y de los demás organismos que le señalen otras leyes y disposiciones aplicables;
 
 XIX.- Llevar el control y archivo de los convenios que celebre el Ejecutivo del Estado con la Administración Pública Federal, otros estados y los ayuntamientos;
 
@@ -501,9 +635,29 @@ XXIII.- Preparar para la firma del Secretario General de Gobierno, el apostillam
 
 XXIV.- Ordenar, vigilar y coordinar el cumplimiento de las disposiciones en materia de legalizaciones de firmas y exhortos judiciales;
 
-XXV.- Tramitar lo relacionado con los dictámenes conforme a los cuales el Titular del Ejecutivo otorgará las pensiones y jubilaciones a los empleados del Gobierno del Estado, así como de las pensiones a que tengan derecho sus dependientes económicos, y
+> <small>(REFORMADA, D.O. 30 DE SEPTIEMBRE DE 2011)</small>
 
-XXVI.- Organizar el registro y control de las plicas testamentarias de los trabajadores jubilados y pensionados del Gobierno del Estado.
+XXV.- Tramitar lo relacionado con los dictámenes conforme a los cuales el Titular del Poder Ejecutivo del Estado debe otorgar las pensiones y jubilaciones a los empleados del Gobierno del Estado, así como de las pensiones a que tengan derecho los dependientes económicos de éstos;
+
+> <small>(REFORMADA, D.O. 30 DE SEPTIEMBRE DE 2011)</small>
+
+XXVI.- Organizar el registro y control de las plicas testamentarias de los trabajadores jubilados y pensionados del Gobierno del Estado;
+
+> <small>(ADICIONADA, D.O. 30 DE SEPTIEMBRE DE 2011)</small>
+
+XXVII.- Encargarse, a través de la Dirección del Diario Oficial, de la edición, publicación y distribución del Diario Oficial del Gobierno del Estado de Yucatán, en los términos que establezca la ley de la materia;
+
+> <small>(ADICIONADA, D.O. 30 DE SEPTIEMBRE DE 2011)</small>
+
+XXVIII.- Revisar y evaluar, sin perjuicio de su autonomía técnica y de gestión, el desempeño de las funciones del Instituto de Defensa Pública del Estado de Yucatán;
+
+> <small>(ADICIONADA, D.O. 30 DE SEPTIEMBRE DE 2011)</small>
+
+XXIX.- Realizar investigaciones y análisis jurídicos, estudios de derecho comparado y elaborar propuestas al Gobernador del Estado, para sustentar y actualizar permanentemente el marco jurídico estatal, y
+
+> <small>(ADICIONADA, D.O. 30 DE SEPTIEMBRE DE 2011)</small>
+
+XXX.- Llevar el registro de firmas autógrafas de los funcionarios estatales y legalizar las firmas de éstos.
 
 ### CAPÍTULO IV. De la Secretaría de Hacienda
 
@@ -561,7 +715,17 @@ XXIV.- Integrar y formular la Cuenta Pública Anual del Gobierno del Estado;
 
 XXV.- Cancelar los créditos fiscales cuyo cobro le corresponda efectuar, en los casos en que exista imposibilidad práctica de cobro, en términos de la leyes fiscales aplicables;
 
-XXVI.- Emitir opinión respecto a los montos globales de los subsidios y estímulos fiscales que otorgue el Estado.
+> <small>(REFORMADA, D.O. 30 DE SEPTIEMBRE DE 2011)</small>
+
+XXVI.- Emitir opinión respecto a los montos globales de los subsidios y estímulos fiscales que otorgue el Estado;
+
+> <small>(ADICIONADA, D.O. 30 DE SEPTIEMBRE DE 2011)</small>
+
+XXVII.- Programar y efectuar los pagos que con cargo al presupuesto y conforme a las ministraciones autorizadas correspondan, y
+
+> <small>(ADICIONADA, D.O. 30 DE SEPTIEMBRE DE 2011)</small>
+
+XXVIII.- Custodiar documentos que constituyan valores del Gobierno del Estado.
 
 ### CAPÍTULO V. De la Secretaría de Planeación y Presupuesto
 
@@ -613,9 +777,21 @@ XXI.- Ejercer el control presupuestal del servicio de personal aprobando de mane
 
 XXII.- Organizar el establecimiento de las oficinas de las distintas dependencias de la Administración Pública en los Municipios del Estado;
 
-XXIII.- Informar trimestralmente al Titular del Ejecutivo del resultado de las evaluaciones de los programas que realicen las dependencias y entidades, proponiendo las medidas correctivas que procedan, y
+> <small>(REFORMADA, D.O. 30 DE SEPTIEMBRE DE 2011)</small>
 
-XXIV.- Fijar los lineamientos que deba seguir la Administración Pública en la elaboración de la documentación necesaria para la formulación del informe de gobierno e integrar dicha información.
+XXIII.- Informar trimestralmente al Titular del Poder Ejecutivo del Estado del resultado de las evaluaciones de los programas que realicen las dependencias y entidades, proponiendo las medidas correctivas que procedan;
+
+> <small>(REFORMADA, D.O. 30 DE SEPTIEMBRE DE 2011)</small>
+
+XXIV.- Fijar los lineamientos que deba seguir la Administración Pública en la elaboración de la documentación necesaria para la formulación del informe de gobierno e integrar dicha información;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O. 30 DE SEPTIEMBRE DE 2011)</small>
+
+XXV.- Autorizar la realización de proyectos bajo el esquema de Proyectos de Prestación de Servicios y llevar seguimiento de la ejecución del gasto de los mismos, y
+
+> <small>(ADICIONADA, D.O. 30 DE SEPTIEMBRE DE 2011)</small>
+
+XXVI.- Integrar y administrar el Registro Único de Personas Acreditadas en Yucatán.
 
 ### CAPÍTULO VI. De la Secretaría de Salud
 
@@ -639,7 +815,9 @@ VII.- Fomentar las actividades científicas y tecnológicas en el campo de la sa
 
 VIII.- Impartir asistencia médica y social a la maternidad y a la infancia, así como vigilar la que brinden instituciones públicas o privadas;
 
-IX.- Vigilar el funcionamiento de guarderías infantiles, casas de cuna, albergues, asilos, centros de salud y las demás instituciones de asistencia pública, así como fomentar su establecimiento;
+> <small>(REFORMADA, D.O. 30 DE SEPTIEMBRE DE 2011)</small>
+
+IX.- Vigilar el funcionamiento de guarderías infantiles, casas de cuna, albergues, asilos, centros de salud, casas de estancia para personas en edad senescente y las demás instituciones de asistencia pública, así como fomentar su establecimiento;
 
 X.- Vigilar el funcionamiento de las Instituciones de asistencia privada en los términos de las leyes respectivas;
 
@@ -663,9 +841,17 @@ XIX.- Administrar los bienes y fondos que el Gobierno del Estado, y la Federaci�
 
 XX.- Coadyuvar en el ámbito de sus atribuciones, con las dependencias federales competentes en lo relativo a la transferencia de tecnología en el área de la salud;
 
-XXI.- Crear programas de capacitación para el personal del sector salud, y
+> <small>(REFORMADA, D.O. 30 DE SEPTIEMBRE DE 2011)</small>
 
-XXII.- Establecer mecanismos para que la sociedad civil especializada en la materia, participe para la definición de las políticas de salud pública a aplicarse en el Estado.
+XXI.- Crear programas de capacitación para el personal del sector salud;
+
+> <small>(REFORMADA, D.O. 30 DE SEPTIEMBRE DE 2011)</small>
+
+XXII.- Establecer mecanismos para que la sociedad civil especializada en la materia, participe para la definición de las políticas de salud pública a aplicarse en el Estado, y
+
+> <small>(ADICIONADA, D.O. 30 DE SEPTIEMBRE DE 2011)</small>
+
+XXIII.- Fomentar en la población del Estado, mediante programas o acciones una alimentación sana, adecuada y suficiente.
 
 ### CAPÍTULO VII. De la Secretaría de Educación
 
@@ -673,9 +859,15 @@ XXII.- Establecer mecanismos para que la sociedad civil especializada en la mate
 
 A la Secretaría de Educación le corresponde el despacho de los siguientes asuntos:
 
-I.- Coordinar las políticas públicas y actividades de la Administración Pública relativas al fomento y servicios de educación, cultura, recreación, deporte y el desarrollo científico y tecnológico;
+> <small>(REFORMADA, D.O. 30 DE SEPTIEMBRE DE 2011)</small>
 
-II.- Proponer al Gobernador del Estado las políticas y programas generales relativos a la educación pública, la difusión de la cultura, el desarrollo científico y tecnológico, la conservación e incremento del patrimonio artístico y la promoción del deporte y la vinculación entre el sector educativo y los diversos sectores productivos de la economía estatal;
+I.- Coordinar las políticas públicas y actividades de la Administración Pública relativas al fomento y servicios de educación, deporte y el desarrollo científico y tecnológico;
+
+> <small>(REFORMADA, D.O. 30 DE SEPTIEMBRE DE 2011)</small>
+
+II.- Proponer al Gobernador del Estado las políticas y programas generales relativos a la educación pública, al desarrollo científico y tecnológico, y la promoción del deporte y la vinculación entre el sector educativo y los diversos sectores productivos de la economía estatal;
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], D.O. 30 DE SEPTIEMBRE DE 2011)</small>
 
 III.- Procurar el cumplimiento de la Ley de Educación Pública del Estado y en lo que le competa, la Ley General de Educación, así como las relativas en materia de cultura, deporte y demás disposiciones legales aplicables;
 
@@ -685,7 +877,7 @@ V.- Coordinar con las universidades e institutos de educación superior, lo refe
 
 VI.- Someter a la consideración del Gobernador del Estado, la documentación de los maestros y empleados de su dependencia para la expedición de los nombramientos o bajas respectivas;
 
-VII.- Preservar el patrimonio cultural del Estado, en sus diversas manifestaciones;
+VII.- (DEROGADA, D.O. 30 DE SEPTIEMBRE DE 2011)
 
 VIII.- Autorizar los exámenes de grado y la expedición de los títulos de Licenciados en Educación Primaria y de educadores normalistas de Educación Preescolar;
 
@@ -695,7 +887,9 @@ X.- Vigilar el funcionamiento de la Comisión Estatal de Escalafón, de conformi
 
 XI.- Llevar el registro de profesiones, colegios, asociaciones profesionales, títulos y certificados, conforme a la reglamentación correspondiente;
 
-XII.- Promover la realización de congresos, asambleas, reuniones, competencias y concursos de carácter educativo, cultural y artístico;
+> <small>(REFORMADA, D.O. 30 DE SEPTIEMBRE DE 2011)</small>
+
+XII.- Promover la realización de congresos, asambleas, reuniones, competencias y concursos de carácter educativo;
 
 XIII.- Fomentar las relaciones en materia educativa con otras entidades de la República;
 
@@ -703,7 +897,9 @@ XIV.- Instituir, por acuerdo del Ejecutivo las escuelas oficiales;
 
 XV.- Dirigir a través de los directores de cada ramo: la educación preescolar, la enseñanza audiovisual y la orientación vocacional;
 
-XVI.- Organizar, administrar y enriquecer sistemáticamente las bibliotecas, hemerotecas, pinacotecas y filmotecas del Estado;
+> <small>(REFORMADA, D.O. 30 DE SEPTIEMBRE DE 2011)</small>
+
+XVI.- Organizar, administrar y enriquecer sistemáticamente las bibliotecas, hemerotecas, pinacotecas y filmotecas integradas al sistema educativo estatal;
 
 XVII.- Diseñar y formular los programas relativos a la educación y la recreación con base en la normatividad;
 
@@ -711,11 +907,17 @@ XVIII.- Organizar y desarrollar la educación artística que se imparta en las e
 
 XIX.- Impartir la educación física de conformidad con los métodos modernos en los medios escolares y extraescolares;
 
-XX.- Organizar exposiciones artísticas, ferias, certámenes, concursos, audiciones, representaciones teatrales y exhibiciones cinematográficas de interés cultural;
+> <small>(REFORMADA, D.O. 30 DE SEPTIEMBRE DE 2011)</small>
 
-XXI.- Fomentar e intervenir en la celebración (sic) actividades artísticas y culturales;
+XX.- Organizar exposiciones artísticas, ferias, certámenes, concursos, audiciones, representaciones teatrales y exhibiciones cinematográficas de interés cultural, en el ámbito de su competencia;
 
-XXII.- Ejecutar los convenios que celebre el Ejecutivo del Estado con la Administración Pública Federal referentes a la educación, a la realización de actividades artísticas y culturales;
+> <small>(REFORMADA, D.O. 30 DE SEPTIEMBRE DE 2011)</small>
+
+XXI.- Fomentar e intervenir en la celebración de actividades artísticas y culturales, en el ámbito de su competencia;
+
+> <small>(REFORMADA, D.O. 30 DE SEPTIEMBRE DE 2011)</small>
+
+XXII.- Ejecutar los convenios que celebre el Ejecutivo del Estado con la Administración Pública Federal referentes a la educación;
 
 XXIII.- Crear y organizar sistemas de enseñanza especial incorporándolos al sistema educativo;
 
@@ -733,17 +935,21 @@ XXIX.- Crear mecanismos sistemáticos de evaluación que permitan conocer los ni
 
 XXX.- Dotar a los planteles del sistema educativo estatal con plataformas tecnológicas y equipos informáticos para facilitar el proceso educativo, de acuerdo con la disponibilidad presupuestal de la Secretaría;
 
-XXXI.- Fortalecer la educación artística profesional y la promoción de todas las modalidades de las bellas artes y de las artes populares; incluyendo la cultura nacional e internacional, lo anterior por medio de talleres públicos gratuitos de apreciación y enseñanza, enfocándose principalmente a la población con menor acceso a estas manifestaciones educativas;
+> <small>(REFORMADA, D.O. 30 DE SEPTIEMBRE DE 2011)</small>
 
-XXXII.- Aplicar mecanismos institucionales para promover la cultura del Estado en el exterior, promoviendo su diversidad cultural, por los distintos medios tecnológicos de manera sistematizada a través de los organismos estatales encargados de la cultura y las artes;
+XXXI.- Fortalecer la educación artística profesional y la promoción de todas las modalidades de las bellas artes y de las artes populares; incluyendo la cultura nacional e internacional, lo anterior por medio de talleres públicos gratuitos de apreciación y enseñanza, enfocándose principalmente a la población con menor acceso a estas manifestaciones educativas, en el ámbito de su competencia y de conformidad con las políticas y criterios que establezca la Secretaría de la Cultura y las Artes;
 
-XXXIII.- Impulsar a los creadores de arte y promotores de cultura;
+XXXII.- (DEROGADA, D.O. 30 DE SEPTIEMBRE DE 2011)
 
-XXXIV.- Fomentar la participación de los grupos sociales, pueblos y comunidades indígenas, en coordinación con los distintos niveles de gobierno e instituciones públicas y privadas, en el estudio y la investigación sobre la cultura maya;
+XXXIII.- (DEROGADA, D.O. 30 DE SEPTIEMBRE DE 2011)
+
+XXXIV.- (DEROGADA, D.O. 30 DE SEPTIEMBRE DE 2011)
 
 XXXV.- Inculcar el hábito de la lectura entre los educandos, mediante concursos, eventos culturales, conferencias y otros medios;
 
-XXXVI.- Vigilar que los servicios educativos impartidos por las instituciones privadas, en los diferentes niveles y modalidades cumplan con los programas y con la (sic) disposiciones aplicables;
+> <small>(REFORMADA, D.O. 30 DE SEPTIEMBRE DE 2011)</small>
+
+XXXVI.- Vigilar que los servicios educativos impartidos por las instituciones privadas, en los diferentes niveles y modalidades cumplan con los programas y con las disposiciones aplicables;
 
 XXXVII.- Formular y ejecutar programas educativos en comunidades indígenas en coordinación con otras instancias competentes;
 
@@ -753,11 +959,21 @@ XXXIX.- Promover la realización de actos cívicos en las instituciones pública
 
 XL.- Coadyuvar con las autoridades competentes a la realización de campañas para prevenir y atacar la farmacodependencia y el alcoholismo;
 
-XLI.- Formular y promover la celebración de convenios de concertación con los sectores social y privado para la formulación y ejecución de los programas educativos, culturales, y recreativos;
+> <small>(REFORMADA, D.O. 30 DE SEPTIEMBRE DE 2011)</small>
 
-XLII.- Elaborar el programa anual de construcción de obra pública destinada a la educación y la recreación, así como el de mantenimiento y conservación de estos inmuebles e instalaciones, en coordinación con la Secretaría de Obras Públicas, y
+XLI.- Formular y promover la celebración de convenios de concertación con los sectores social y privado para la formulación y ejecución de los programas educativos y recreativos;
 
-XLIII.- Establecer los mecanismos para que los ciudadanos en general, padres de familia y maestros participen en la definición de las políticas educativas que deban aplicarse en el Estado.
+> <small>(REFORMADA, D.O. 30 DE SEPTIEMBRE DE 2011)</small>
+
+XLII.- Elaborar el programa anual de construcción de obra pública destinada a la educación y la recreación, así como el de mantenimiento y conservación de estos inmuebles e instalaciones, en coordinación con la Secretaría de Obras Públicas;
+
+> <small>(REFORMADA, D.O. 30 DE SEPTIEMBRE DE 2011)</small>
+
+XLIII.- Establecer los mecanismos para que los ciudadanos en general, padres de familia y maestros participen en la definición de las políticas educativas que deban aplicarse en el Estado, y
+
+> <small>(ADICIONADA, D.O. 30 DE SEPTIEMBRE DE 2011)</small>
+
+XLIV.- Fomentar y realizar todo tipo de actividades relativas a la promoción de la lectura para el mejoramiento del logro educativo de los estudiantes, conforme al Programa Nacional de Lectura y Biblioteca Básica de Yucatán.
 
 ### CAPÍTULO VIII. De la Secretaría de Política Comunitaria y Social
 
@@ -775,7 +991,7 @@ IV.- Impulsar y coordinar la organización social en los ámbitos rural y urbano
 
 V.- Analizar, evaluar y en su caso instrumentar las propuestas de desarrollo comunitario y social, resultantes de la participación de las diferentes organizaciones sociales y civiles favoreciendo el equilibrio en el desarrollo regional;
 
-VI.- Coordinar, el Servicio Social con las Instituciones educativas públicas y privadas, así como con las autoridades competentes, para que contribuya en el desarrollo de las políticas formuladas de esta Secretaría;
+VI.- Coordinar, el Servicio Social con las Instituciones educativas publicas y privadas, así como con las autoridades competentes, para que contribuya en el desarrollo de las políticas formuladas de esta Secretaría;
 
 VII.- Coordinar y vincular los programas comunitarios y de política social del Gobierno del Estado con la ciudadanía;
 
@@ -801,11 +1017,13 @@ XV.- Promover que los recursos públicos destinados a los programas sociales, se
 
 A la Secretaría de Obras Públicas le corresponde el despacho de los siguientes asuntos:
 
-I.- Formular, regular, instrumentar, conducir, ejecutar y evaluar las políticas y programas de la ejecución de obras públicas que realicen las dependencias y entidades de la Administración Pública;
+> <small>(REFORMADA, D.O. 30 DE SEPTIEMBRE DE 2011)</small>
+
+I.- Formular, regular, instrumentar, conducir y evaluar las políticas y programas de la ejecución de obras públicas que realicen las dependencias y entidades de la Administración Pública;
 
 II.- Enviar a la Secretaría de Planeación y Presupuesto los requerimientos de obra pública que le remitan los sujetos obligados señalados en la ley de la materia;
 
-III.- Elaborar directamente o a iniciativa de los ciudadanos, estudios, proyectos arquitectónicos y de ingeniería para la elaboración de obras pública (sic);
+III.- (DEROGADA, D.O. 30 DE SEPTIEMBRE DE 2011)
 
 IV.- Expedir las bases, procedimientos y criterios a que se deban sujetar los concursos para la ejecución de obras públicas en el Estado;
 
@@ -813,13 +1031,13 @@ V.- Integrar y dar seguimiento del Registro de Contratistas en materia de obra p
 
 VI.- Suspender o cancelar la inscripción de personas físicas o morales en el Registro de Contratistas, de conformidad con lo dispuesto en la Ley de la materia;
 
-VII.- Celebrar, en su caso, contratos o convenios con las dependencias y entidades de los gobiernos Federal, Estatal y municipales, con los poderes Legislativo y Judicial del Estado, así como con instituciones autónomas y organismos ciudadanos de los sectores social y privado, relativos a la realización de los estudios, proyectos, construcción, ampliación, supervisión, conservación y mantenimiento de obras públicas, así como para la construcción, reconstrucción, conservación y mejoramiento de vías terrestres de jurisdicción estatal y las obras complementarias que las vías requieran;
+VII.- (DEROGADA, D.O. 30 DE SEPTIEMBRE DE 2011)
 
-VIII.- Asesorar técnicamente a los ayuntamientos, cuando estos lo soliciten, para la programación, presupuestación o realización de obra pública en sus respectivas jurisdicciones, así como en la introducción y conservación de servicios públicos;
+VIII.- (DEROGADA, D.O. 30 DE SEPTIEMBRE DE 2011)
 
 IX.- Vigilar el cumplimiento y aplicación de las disposiciones legales en materia de realización de obra pública en el estado que efectúen los sujetos obligados por la ley;
 
-X.- Elaborar y actualizar los avalúos de los bienes inmuebles propiedad del Estado;
+X.- (DEROGADA, D.O. 30 DE SEPTIEMBRE DE 2011)
 
 XI.- Elaborar un banco de proyectos estatales y, en su caso, regionales con otras entidades federativas, que involucren obras de infraestructura física de carácter público;
 
@@ -829,15 +1047,19 @@ XIII.- Coordinarse con la Secretaría de Planeación y Presupuesto para proponer
 
 XIV.- Elaborar el Programa Anual de Inversión en materia de infraestructura carretera, de acuerdo con las necesidades del Estado;
 
-XV.- Realizar y ejecutar los estudios y proyectos para la construcción, reconstrucción, conservación, mejoramiento de las vías terrestres de jurisdicción estatal, e instalar y mantener en operación la señalización y los dispositivos de seguridad en las mismas, conforme a las normas técnicas específicas y a las establecidas en los ordenamientos legales aplicables;
+XV.- (DEROGADA, D.O. 30 DE SEPTIEMBRE DE 2011)
 
 XVI.- Establecer el derecho de vía, autorizar la ejecución de obras dentro de la franja comprendida por éste, regular y administrar su aprovechamiento; otorgar, modificar, suspender y revocar permisos para la construcción de accesos a la franja, así como vigilar que se respeten todas las disposiciones legales al respecto;
 
-XVII.- Participar en la realización de los estudios encaminados a determinar los tipos de medios de transporte y las características de los vehículos que deban transitar en la red carretera de jurisdicción estatal;
+> <small>(REFORMADA, D.O. 30 DE SEPTIEMBRE DE 2011)</small>
 
-XVIII.- Supervisar que las obras públicas se ejecuten conforme a las normas técnicas, especificaciones, proyectos, programas correspondientes y, en su caso, a lo establecido en los contratos de obra, y
+XVII.- Participar en la realización de los estudios encaminados a determinar los tipos de medios de transporte y las características de los vehículos que deban transitar en la red carretera de jurisdicción estatal, y
 
-XIX.- Coadyuvar con la Secretaría de Desarrollo Urbano y Medio Ambiente, en la realización de obras y de conservación del patrimonio histórico, cultural y arquitectónico del Estado.
+> <small>(REFORMADA, D.O. 30 DE SEPTIEMBRE DE 2011)</small>
+
+XVIII.- Supervisar que las obras públicas se ejecuten conforme a las normas técnicas, especificaciones, proyectos, programas correspondientes y, en su caso, a lo establecido en los contratos de obra.
+
+XIX.- (DEROGADA, D.O. 30 DE SEPTIEMBRE DE 2011)
 
 ### CAPÍTULO X. De la Secretaría de la Juventud
 
@@ -871,9 +1093,17 @@ XII.- Realizar, promover y difundir estudios e investigaciones de la problemáti
 
 XIII.- Coadyuvar con las instancias correspondientes para promover el respeto a los derechos de los jóvenes, así como la eliminación de toda forma de discriminación y la erradicación de la violencia hacia los mismos;
 
-XIV.- Implementar y llevar el Sistema Estatal de Información sobre la Juventud, que permita conocer sus necesidades y aspiraciones para definir las políticas de atención a su entorno social, y
+> <small>(REFORMADA, D.O. 30 DE SEPTIEMBRE DE 2011)</small>
 
-XV.- Ejecutar, en general, acciones que promuevan el mejoramiento de las condiciones de la juventud.
+XIV.- Implementar y llevar el Sistema Estatal de Información sobre la Juventud, que permita conocer sus necesidades y aspiraciones para definir las políticas de atención a su entorno social;
+
+> <small>(REFORMADA, D.O. 30 DE SEPTIEMBRE DE 2011)</small>
+
+XV.- Ejecutar, en general, acciones que promuevan el mejoramiento de las condiciones de la juventud, y
+
+> <small>(ADICIONADA, D.O. 30 DE SEPTIEMBRE DE 2011)</small>
+
+XVI.- Las demás que determine la Ley de Juventud del Estado de Yucatán y su reglamento.
 
 ### CAPÍTULO XI. De la Secretaría de Seguridad Pública
 
@@ -915,11 +1145,15 @@ XVI.- Verificar el cumplimiento de las leyes y reglamentos con relación a las f
 
 XVII.- Coordinarse con las demás dependencias del Ejecutivo para generar la infraestructura necesaria para la profesionalización de los cuerpos de seguridad pública.
 
-### CAPÍTULO XII. De la Procuraduría General de Justicia del Estado
+> <small>(REFORMADA SU DENOMINACION, D.O. 30 DE SEPTIEMBRE DE 2011)</small>
+
+### CAPÍTULO XII. De la Fiscalía General del Estado de Yucatán
+
+> <small>(REFORMADO, D.O. 30 DE SEPTIEMBRE DE 2011)</small>
 
 ###### Artículo 41.
 
-La Procuraduría General de Justicia tendrá las facultades y obligaciones que específicamente le confieren la Constitución Política, la Ley Orgánica de la Procuraduría General de Justicia y su reglamento, todos del Estado de Yucatán y las demás disposiciones legales aplicables.
+La Fiscalía General del Estado tendrá las facultades y obligaciones que específicamente le confieren la Constitución Política, la Ley de la Fiscalía General y su reglamento, todas del Estado de Yucatán y las demás disposiciones legales aplicables.
 
 ### CAPÍTULO XIII. De la Secretaría de Fomento Económico
 
@@ -927,11 +1161,15 @@ La Procuraduría General de Justicia tendrá las facultades y obligaciones que e
 
 A la Secretaría de Fomento Económico le corresponde el despacho de los siguientes asuntos:
 
-I.- Proponer y llevar a cabo, en colaboración permanente con la ciudadanía las políticas y programas relativos al fomento y desarrollo de las actividades económicas, específicamente las industriales, de comercio, de servicios, de importación y exportación, de abasto, artesanales y todas aquellas relacionadas con la creación y conservación de los empleos;
+> <small>(REFORMADA, D.O. 30 DE SEPTIEMBRE DE 2011)</small>
+
+I.- Proponer y llevar a cabo, en colaboración permanente con la ciudadanía, las políticas y programas relativos al fomento y desarrollo de las actividades económicas, específicamente las industriales, de comercio, de servicios, de importación y exportación, de abasto y todas aquellas relacionadas con la creación y conservación de los empleos;
 
 II.- Promover y apoyar la ejecución de proyectos de inversión en materia económica para la creación de nuevas unidades productivas e impulsar el crecimiento de las ya existentes; procurando establecer mecanismos de consulta ciudadana para dicho proceso;
 
-III.- Promover la realización de ferias, exposiciones y congresos, de carácter local, nacional e internacional, vinculadas a la promoción de actividades industriales, comerciales, de abasto, agropecuarias y de aprovechamiento forestal;
+> <small>(REFORMADA, D.O. 30 DE SEPTIEMBRE DE 2011)</small>
+
+III.- Promover la realización de ferias, exposiciones y congresos, de carácter local, nacional e internacional, vinculadas a la promoción de actividades industriales, comerciales, de abasto y de aprovechamiento forestal;
 
 IV.- Estimular y apoyar la ejecución de los proyectos de inversión mediante la realización y difusión de estudios que permitan disponer de información confiable en materia industrial, comercial, logística, tecnológica, de comercialización, y sobre disponibilidad de infraestructura así como sobre las ventajas de capital que ofrezca el Estado;
 
@@ -947,7 +1185,9 @@ IX.- Regular los servicios regionales del sector, de conformidad con el Plan Est
 
 X.- Promover y apoyar a las organizaciones industriales y comerciales en sus procesos de modernización tecnológica y administrativa;
 
-XI.- Impulsar y apoyar el establecimiento de nuevas empresas en el Estado;
+> <small>(REFORMADA, D.O. 30 DE SEPTIEMBRE DE 2011)</small>
+
+XI.- Organizar y vigilar el funcionamiento de los Módulos de Ventanilla Universal y realizar las acciones necesarias para impulsar y apoyar el establecimiento de nuevas empresas en el Estado;
 
 XII.- Opinar sobre la constitución o modificación de los fideicomisos o empresas en el área de competencia de la misma, para su promoción e impulso, en los términos de la legislación correspondiente;
 
@@ -963,7 +1203,9 @@ XVII.- Implementar la adecuada vigilancia, control y demás acciones en coordina
 
 XVIII.- Dar cumplimiento a los convenios que en la materia celebre el Estado con la Federación y con los municipios;
 
-XIX.- (DEROGADA, D.O. 25 DE NOVIEMBRE DE 2008)
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O. 30 DE SEPTIEMBRE DE 2011)</small>
+
+XIX.- Realizar los actos administrativos necesarios para crear, disolver, modificar y administrar fondos y fideicomisos, con autorización del Titular del Poder Ejecutivo del Estado, y afectarlos por causas de interés social, destinados a brindar créditos, préstamos y/o apoyos dirigidos a comerciantes e industriales, los cuales tendrán que estar acompañados de la firma del fideicomitente único del Gobierno del Estado, y
 
 XX.- (DEROGADA, D.O. 25 DE NOVIEMBRE DE 2008)
 
@@ -1089,7 +1331,9 @@ VII.- Aprobar las políticas generales del uso del suelo y la vivienda del Estad
 
 VIII.- Establecer la política general de vivienda, armonizando los requerimientos de la entidad con el cuidado y conservación del medio ambiente;
 
-IX.- Autorizar, previo estudio de impacto ambiental, el fraccionamiento de terrenos, proyectos de desarrollo que le soliciten las personas físicas y morales, así como vigilar el cumplimiento de las leyes de la materia;
+> <small>(REFORMADA, D.O. 30 DE SEPTIEMBRE DE 2011)</small>
+
+IX.- Dictaminar sobre la Factibilidad Urbano Ambiental de las obras o actividades señaladas en la Ley de la materia;
 
 X.- Coordinarse con las demás autoridades competentes, para la programación de la inversión pública y la realización de acciones de desarrollo urbano y medio ambiente que se ejecuten en la entidad y evaluar sus resultados;
 
@@ -1143,11 +1387,17 @@ XXXII.- Vigilar el cumplimiento, con la participación que corresponda a otras a
 
 A la Secretaría de la Contraloría General le corresponde el despacho de los siguientes asuntos:
 
-I.- Conocer e investigar los actos, omisiones o conductas de los servidores públicos que pudieran constituir responsabilidades administrativas, aplicar las sanciones que correspondan en los términos que las disposiciones legales señalen y, en su caso, hacer las denuncias correspondientes ante el Ministerio Público, prestando para el efecto la colaboración que le fuere requerida;
+> <small>(REFORMADA, D.O. 30 DE SEPTIEMBRE DE 2011)</small>
 
-II.- Suspender, durante el procedimiento administrativo, al Servidor Público a quién se atribuya haber incurrido en una o más infracciones graves a fin de facilitar la buena marcha de la investigación;
+I.- Conocer e investigar los actos, omisiones o conductas de las personas que ejerzan o hayan ejercido funciones como servidores públicos, que pudieran constituir responsabilidades administrativas e iniciar y resolver los procedimientos y, en su caso, imponer y aplicar las sanciones a que hace referencia la Ley de Responsabilidades de los Servidores Públicos del Estado de Yucatán, y cuando fuere procedente, presentar las denuncias o querellas correspondientes ante el Ministerio Público y prestar para el efecto la colaboración que le fuere requerida;
 
-III.- Imponer la sanción económica y administrativa, procediendo a excluir del padrón correspondiente al prestador o proveedor de bienes y servicios y/o contratista de obra que no solvente dentro del término conferido las observaciones formuladas;
+> <small>(REFORMADA, D.O. 30 DE SEPTIEMBRE DE 2011)</small>
+
+II.- Suspender, previamente o durante el procedimiento administrativo, al Servidor Público a quién se atribuya haber incurrido en una o más infracciones, si fuere conveniente para la oportuna conducción o continuación de las investigaciones;
+
+> <small>(REFORMADA, D.O. 30 DE SEPTIEMBRE DE 2011)</small>
+
+III.- Imponer la sanción económica y administrativa al licitante, inversionista proveedor, prestador o proveedor de bienes y servicios y/o contratista de obra, que infrinja las disposiciones legales aplicables que regulen la materia que corresponda y, en su caso, ordenar la exclusión del padrón o registro correspondiente;
 
 IV.- Planear, organizar y coordinar el sistema de control y evaluación estatal en relación al ejercicio del gasto público estatal y su congruencia con el presupuesto de egresos, las políticas y los programas gubernamentales;
 
@@ -1177,9 +1427,37 @@ XVI.- Dictaminar sobre los cambios de organización y procedimientos que propong
 
 XVII.- Organizar y conducir el servicio de recepción para la atención de quejas y denuncias que presenten los ciudadanos en general en contra de los servidores públicos del Estado;
 
-XVIII.- Proponer al Titular del Ejecutivo del Estado el nombramiento de los responsables de las Unidades de Contraloría Interna de las dependencias y entidades de la Administración Pública, quienes dependerán administrativamente y presupuestalmente de esta Secretaría, y
+> <small>(REFORMADA, D.O. 30 DE SEPTIEMBRE DE 2011)</small>
 
-XIX.- Participar en los comités de adquisiciones, arrendamientos y servicios de las dependencias y entidades de la Administración Pública del Estado, para vigilar que se lleven a cabo los procedimientos previstos en la ley, según corresponda, así como el ejercicio del presupuesto.
+XVIII.- Nombrar y remover, previo acuerdo con el Titular del Poder Ejecutivo del Estado, a los responsables de las Unidades de Contraloría Interna de las dependencias y entidades de la Administración Pública, quienes dependerán administrativamente y presupuestalmente de esta Secretaría;
+
+> <small>(REFORMADA, D.O. 30 DE SEPTIEMBRE DE 2011)</small>
+
+XIX.- Participar en los comités de adquisiciones, arrendamientos y servicios y de obras públicas de las dependencias y entidades de la Administración Pública del Estado, emitiendo opiniones debidamente sustentadas tendientes al cumplimiento de las disposiciones jurídicas que regulan dichas materias, según corresponda, así como el ejercicio del presupuesto;
+
+> <small>(ADICIONADA, D.O. 30 DE SEPTIEMBRE DE 2011)</small>
+
+XX.- Conocer y resolver sobre las inconformidades que se promuevan contra los actos que se lleven a cabo en los procedimientos de contratación de licitación pública o de invitación a cuando menos tres personas que realicen las dependencias y entidades en las materias de proyectos de prestación de servicios, adquisiciones, arrendamientos y prestación de servicios y de obra pública y servicios conexos y actuar en las conciliaciones en los términos en que la Ley así lo prevea;
+
+> <small>(ADICIONADA, D.O. 30 DE SEPTIEMBRE DE 2011)</small>
+
+XXI.- Celebrar convenios con la Secretaría de la Función Pública para llevar a cabo acciones de fiscalización, auditoría, inspección, control y vigilancia, así como para realizar actos administrativos que coadyuven en el cumplimiento de las disposiciones legales aplicables del ejercicio de recursos públicos federales;
+
+> <small>(ADICIONADA, D.O. 30 DE SEPTIEMBRE DE 2011)</small>
+
+XXII.- Actuar como enlace y realizar las auditorías que se acuerden con la Secretaría de la Función Pública y la Auditoría Superior de la Federación, respecto a la fiscalización de recursos federales que se ejerzan en el Estado;
+
+> <small>(ADICIONADA, D.O. 30 DE SEPTIEMBRE DE 2011)</small>
+
+XXIII.- Celebrar convenios de coordinación y colaboración con la Federación, Entidades Federativas y Municipios, para impulsar la instrumentación y fortalecimiento del sistema de control y evaluación de la gestión pública y registro de servidores públicos así como la participación de los ciudadanos en acciones de contraloría social de los programas de desarrollo social;
+
+> <small>(ADICIONADA, D.O. 30 DE SEPTIEMBRE DE 2011)</small>
+
+XXIV.- Interpretar y difundir en el ámbito de su competencia, la aplicación de las leyes de la materia y otras disposiciones legales que le competa a la Secretaría de la Contraloría General, y
+
+> <small>(ADICIONADA, D.O. 30 DE SEPTIEMBRE DE 2011)</small>
+
+XXV.- Los demás que le atribuyan expresamente las leyes y reglamentos.
 
 ### CAPÍTULO XVIII. De la Coordinación General de Comunicación Social
 
@@ -1239,9 +1517,13 @@ V.- Dirigir y coordinar el Servicio Nacional de Empleo, Yucatán, así como las 
 
 VI.- Organizar, dirigir, ordenar y supervisar, en el ámbito de su competencia, las visitas de verificación y de inspección que sean necesarias, para comprobar el cumplimiento de las disposiciones legales y reglamentarias en materia laboral y, en su caso, aplicar las sanciones administrativas que correspondan;
 
-VII.- Dirigir y coordinar la Procuraduría Local de la Defensa del Trabajo, así como vigilar su correcto funcionamiento;
+> <small>(REFORMADA, D.O. 30 DE SEPTIEMBRE DE 2011)</small>
 
-VIII.- Conducir las relaciones del Poder Ejecutivo con la Junta Local de Conciliación y Arbitraje y con el Tribunal de Conciliación y Arbitraje para los Trabajadores al Servicio del Estado, con miras a la eficacia de los mismos, proporcionándoles el apoyo administrativo que para su funcionamiento requieran, sin perjuicio de su autonomía jurisdiccional;
+VII.- Dirigir y coordinar a las Procuradurías, Local de la Defensa del Trabajo del Estado y de la Defensa de los Trabajadores al Servicio del Estado y Municipios, así como vigilar su correcto funcionamiento;
+
+> <small>(REFORMADA, D.O. 30 DE SEPTIEMBRE DE 2011)</small>
+
+VIII.- Conducir las relaciones del Poder Ejecutivo del Estado con la Junta Local de Conciliación y Arbitraje del Estado de Yucatán, con miras a la eficacia de los mismos, proporcionándoles el apoyo administrativo que para su funcionamiento requieran, sin perjuicio de su autonomía jurisdiccional;
 
 IX.- Mantener actualizadas y vigilar el cumplimiento de las normas relativas a la seguridad, higiene y medio ambiente en el trabajo;
 
@@ -1269,9 +1551,93 @@ XX.- Fomentar y apoyar la organización social para el trabajo y autoempleo, y
 
 XXI.- Aplicar las disposiciones que por Ley, Decreto, Acuerdo o Convenio se le confieran, así como aquellas que le asigne el Gobernador del Estado.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, D.O. 30 DE SEPTIEMBRE DE 2011)</small>
+
 ### CAPÍTULO ÚNICO. Disposiciones Comunes
 
+> <small>(REFORMADO, D.O. 30 DE SEPTIEMBRE DE 2011)</small>
+
+###### Artículo 47 Ter.
+
+A la Secretaría de la Cultura y las Artes le corresponde el despacho de los siguientes asuntos:
+
+I.- Dirigir, planear y ejecutar las políticas públicas del Estado y su contenido programático, en materia de cultura y recreación;
+
+II.- Proponer al Gobernador del Estado, las políticas y proyectos relativos a la difusión de la cultura y la conservación e incremento del patrimonio artístico;
+
+III.- Procurar el cumplimiento de las normas en materia de cultura vigentes en el Estado;
+
+IV.- Preservar el patrimonio cultural del Estado, en sus diversas manifestaciones y promover la participación y vinculación de los sectores público, social y privado en esta actividad;
+
+V.- Promover la realización de congresos, asambleas, reuniones, competencias y concursos de carácter cultural y artístico;
+
+VI.- Organizar y fomentar exposiciones artísticas, festivales, certámenes, concursos, audiciones, representaciones teatrales, exhibiciones cinematográficas, y demás actividades artísticas, culturales y populares;
+
+VII.- Promover, formular, ejecutar y vigilar el cumplimiento de los convenios que celebre el Poder Ejecutivo del Estado con la Administración Pública Federal y organizaciones públicas, sociales y privadas, nacionales e internacionales, referentes a las actividades artísticas y culturales;
+
+VIII.- Promover todas las modalidades de las bellas artes y de las artes populares; incluyendo la cultura local, nacional e internacional, lo anterior por medio de talleres públicos gratuitos de apreciación, enseñanza y capacitación, enfocados principalmente a la población con menor acceso a estas manifestaciones artísticas;
+
+IX.- Elaborar con la participación de la sociedad, el Programa Estatal de Cultura, Arte y Tradiciones, que contenga los objetivos, mecanismos y estrategias necesarios para promover la cultura de Yucatán, dentro del Estado y en el exterior, promoviendo su diversidad cultural por los distintos medios tecnológicos, de manera sistematizada, y a través de los organismos estatales encargados de la cultura y las artes;
+
+X.- Impulsar a los creadores de arte y promotores de cultura de la Entidad, a través de políticas y proyectos para su promoción, difusión y desarrollo artístico, que les permita alcanzar mejores condiciones de vida en los aspectos materiales y financieros y contribuyan al fortalecimiento de la cultura;
+
+XI.- Fomentar la participación de los grupos y organizaciones sociales, pueblos y comunidades indígenas, en coordinación con los distintos órdenes de gobierno e instituciones públicas y privadas, en el estudio y la investigación sobre la cultura maya;
+
+XII.- Administrar, dirigir, coordinar y conservar los centros culturales, teatros, bibliotecas, hemerotecas, pinacotecas, fonotecas, museos, galerías, centros de investigación y educación artística; los establecimientos de libros y objetos de arte, así como todas aquellas áreas y espacios donde se lleven a cabo los servicios culturales y que estén en el ámbito de la competencia del Estado;
+
+XIII.- Fomentar, administrar y promover la apertura de centros y fuentes de cultura que respondan a las iniciativas y a los procesos socioculturales de la comunidad;
+
+XIV.- Realizar investigaciones, estudios y demás acciones tendientes a rescatar tradiciones perdidas o en proceso de extinción, promover, preservar y difundir el acervo cultural estatal en sus aspectos artístico, etnográfico, arquitectónico, turístico, arqueológico e histórico, así como impulsar a los investigadores y estudiosos en estos campos y materias;
+
+XV.- Reconocer, impulsar y apoyar a personas o grupos interesados en la cultura, dentro de los lineamientos adecuados a la idiosincrasia del pueblo yucateco y a sus necesidades de expresiones artísticas que tiendan a formar y reafirmar la identidad cultural del mismo;
+
+XVI.- Fungir como órgano de asesoría y consulta del Gobierno del Estado, en materia de cultura, así como en todo asunto relacionado con la preservación y promoción de los bienes y valores culturales;
+
+XVII.- Coordinar y promover acciones conjuntas, en materia de cultura, con los municipios del Estado;
+
+XVIII.- Fomentar la capacitación y actualización de quienes realicen actividades artísticas, técnicas y culturales dentro de la Entidad;
+
+XIX.- Coordinarse con la Federación y los Municipios en las actividades de preservación del patrimonio cultural de la nación, situado en el territorio estatal, de conformidad con las disposiciones legales y normativas aplicables;
+
+XX.- Coordinarse con la Secretaría de Educación, para gestionar y tramitar que las instituciones federales otorguen reconocimiento y créditos en el campo de la educación artística formal y no formal, y acrediten los planes y programas en el Estado;
+
+XXI.- Realizar todo tipo de labores editoriales, en libros, discos, folletos, revistas y otras publicaciones de investigación, creación e información artística y cultural;
+
+XXII.- Fomentar la cultura entre el personal al servicio de las diversas dependencias del Gobierno Estatal;
+
+XXIII.- Establecer relaciones y coordinar acciones con organismos del sector público cuyos fines estén relacionados con la cultura;
+
+XXIV.- Promover y fomentar el aprovechamiento de los medios masivos de comunicación para fortalecer la difusión de la cultura, el conocimiento del patrimonio y de los valores e identidad culturales, motivando el interés y sensibilizando a la comunidad para elevar los contenidos artísticos y humanistas por conducto de estos medios;
+
+XXV.- Establecer y promover programas que motiven el aprovechamiento y el desarrollo del potencial creativo tanto en lo individual como en lo colectivo entre la población yucateca;
+
+XXVI.- Impulsar la vinculación constante con el sistema educativo con el fin de incrementar los contenidos artísticos y culturales en sus planes y programas, para ampliar su participación en el proyecto cultural del Estado;
+
+XXVII.- Coordinar y en su caso diseñar y ejecutar programas que propicien y motiven la participación de la comunidad en la planeación y organización de los programas culturales;
+
+XXVIII.- Realizar y coordinar programas de apoyo a los municipios para promover el conocimiento de sus historias locales y la conservación de su patrimonio histórico, artístico y cultural;
+
+XXIX.- Coordinar y desarrollar programas tendientes a preservar, difundir y desarrollar el conocimiento y el aprendizaje de la cultura y la lengua maya;
+
+XXX.- Promover, coordinar y, en su caso, realizar actos de reconocimiento a todos aquellos yucatecos destacados que hayan contribuido directa o indirectamente al desarrollo artístico, científico y cultural del Estado, de la nación o de la comunidad internacional;
+
+XXXI.- Otorgar becas, estímulos y premios para fomentar e impulsar el desarrollo científico, artístico y cultural, tanto en los niveles estatales como nacionales e internacionales;
+
+XXXII.- Instalar y operar sistemas electrónicos, de radio y televisión cultural, de conformidad con las disposiciones legales y normativas aplicables;
+
+XXXIII.- Coordinar la revisión y actualización permanente de la Enciclopedia Yucatanense con el fin de incrementar su acervo, promoverla y difundirla a nivel estatal, nacional e internacional;
+
+XXXIV.- Vigilar que en la elaboración de proyectos constructivos o en la ejecución de obras públicas o privadas no se afecten los bienes artísticos, arquitectónicos y culturales del Estado;
+
+XXXV.- Promover la vinculación de la cultura y sus valores con la educación, la ciencia, la tecnología, el medio ambiente, la seguridad pública, y el desarrollo agropecuario, social y turístico, y
+
+XXXVI.- Establecer y administrar el Fondo Estatal para la Cultura y las Artes, con objeto de canalizar los recursos adicionales que el Poder Ejecutivo obtenga, para el desarrollo de sus objetivos culturales, a través de los convenios que celebre con la Federación y demás organizaciones públicas, sociales y privadas, nacionales e internacionales.
+
 ### CAPÍTULO I. De su Constitución, Organización y Funcionamiento
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O. 30 DE SEPTIEMBRE DE 2011)</small>
 
 ### CAPÍTULO II. Del Registro
 
@@ -1283,23 +1649,31 @@ XXI.- Aplicar las disposiciones que por Ley, Decreto, Acuerdo o Convenio se le c
 
 ###### Artículo 48.
 
-La Administración Pública Paraestatal está conformada por los organismos públicos descentralizados, las Empresas de Participación Estatal mayoritaria y los Fideicomisos Públicos.
+La Administración Pública Paraestatal está conformada por los organismos públicos descentralizados, las empresas de participación estatal mayoritaria y los fideicomisos públicos, a que se refiere el artículo 93 de este Código.
 
 ###### Artículo 49.
 
 Son organismos públicos descentralizados las instituciones creadas por disposición del Congreso del Estado o por Decreto del Titular del Ejecutivo del Estado, con personalidad jurídica y patrimonio propio, sin distinción de la forma o estructura legal que adopten.
 
+> <small>(REFORMADO, D.O. 30 DE SEPTIEMBRE DE 2011)</small>
+
 ###### Artículo 50.
 
-El Ejecutivo del Estado, a través de la Secretaría de Planeación y Presupuesto publicará anualmente en el Diario Oficial del Gobierno del Estado la relación de las entidades paraestatales que formen parte de la Administración Pública.
+Las relaciones entre el Ejecutivo del Estado y las entidades paraestatales se llevarán a cabo por conducto de la Secretaría de Planeación y Presupuesto, sin perjuicio de las atribuciones que le correspondan al Coordinador Técnico del sector, a fin de que en todo momento la actividad de dichas entidades sea congruente con lo que establece el Plan Estatal de Desarrollo y con los lineamientos que, en relación con la planeación, programación, elaboración y ejercicio del presupuesto, seguimiento y evaluación, se emitan conforme a la Ley, su Reglamento y demás disposiciones legales y normativas aplicables.
+
+El Poder Ejecutivo del Estado, a través de la Secretaría de Planeación y Presupuesto publicará anualmente en el Diario Oficial del Gobierno del Estado, el acuerdo que establece la adscripción de las entidades paraestatales a las dependencias coordinadoras de la Administración Pública.
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O. 30 DE SEPTIEMBRE DE 2011)</small>
 
 ###### Artículo 51.
 
-En la creación y regulación de entidades paraestatales deberá (sic) observarse las disposiciones del presente Código.
+En la creación y regulación de entidades paraestatales deberán observarse las disposiciones del presente Código.
 
 Tratándose de las empresas de participación mayoritaria y fideicomisos públicos deberá observarse lo dispuesto en el presente Código, así como las normas que regulen su conformación, organización y funcionamiento.
 
-Se exceptúan del régimen de este Código, los organismos siguientes: la Universidad Autónoma de Yucatán, el Instituto de Procedimientos Electorales y Participación Ciudadana, el Tribunal Electoral del Estado, la Comisión de los Derechos Humanos del Estado de Yucatán y el Instituto de Acceso a la Información Pública.
+> <small>(REFORMADO, D.O. 30 DE SEPTIEMBRE DE 2011)</small>
+
+Se exceptúan del régimen de este Código, los organismos siguientes: la Universidad Autónoma de Yucatán, el Instituto de Procedimientos Electorales y Participación Ciudadana del Estado de Yucatán, la Comisión de los Derechos Humanos del Estado de Yucatán y el Instituto Estatal de Acceso a la Información Pública.
 
 ###### Artículo 52.
 
@@ -1361,13 +1735,17 @@ Las entidades paraestatales gozarán de autonomía de gestión para el cabal cum
 
 Las infracciones a este Código serán sancionadas en los términos que legalmente correspondan, atendiendo al régimen de responsabilidades de servidores públicos.
 
-## TÍTULO II. DE LOS ORGANISMOS DESCENTRALIZADOS
+> <small>(REFORMADA SU DENOMINACION, D.O. 30 DE SEPTIEMBRE DE 2011)</small>
+
+## TÍTULO II. DE LOS ORGANISMOS PÚBLICOS DESCENTRALIZADOS
 
 ### CAPÍTULO ÚNICO. De su Constitución, Organización y Funcionamiento
 
+> <small>(REFORMADO, D.O. 30 DE SEPTIEMBRE DE 2011)</small>
+
 ###### Artículo 66.
 
-Son organismos descentralizados las personas jurídicas creadas conforme a lo dispuesto en el artículo 49 de este Código y cuyo objeto sea:
+Son organismos públicos descentralizados las personas jurídicas creadas conforme a lo dispuesto en el artículo 49 de este Código y cuyo objeto sea:
 
 I.- La prestación de un servicio público estatal;
 
@@ -1375,9 +1753,11 @@ II.- La realización de actividades correspondientes a áreas prioritarias, y
 
 III.- La obtención o aplicación de recursos para fines de asistencia o seguridad social.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O. 30 DE SEPTIEMBRE DE 2011)</small>
+
 ###### Artículo 67.
 
-Las Leyes o Decretos que expidan el Honorable Congreso o el Ejecutivo del Estado, para la creación de un organismo descentralizado, establecerán entre otros elementos:
+Las leyes o decretos que expidan el Honorable Congreso del Estado o el Poder Ejecutivo del Estado, para la creación de un organismo público descentralizado, establecerán entre otros elementos:
 
 I.- Denominación del organismo;
 
@@ -1393,9 +1773,17 @@ VI.- Las facultades y obligaciones del Director General, quien tendrá la repres
 
 VII.- El régimen laboral a que se sujetarán sus relaciones de trabajo.
 
+> <small>(REFORMADO, D.O. 30 DE SEPTIEMBRE DE 2011)</small>
+
 ###### Artículo 68.
 
-El Órgano de Gobierno deberá expedir el Estatuto Orgánico en el que se establezcan las bases de organización, así como las facultades y funciones que correspondan a las distintas áreas que integran el organismo y deberá inscribirse en el Registro de Organismos Descentralizados.
+El Órgano de Gobierno deberá expedir el Estatuto Orgánico en el que se establezcan las bases de organización, así como las facultades y funciones que correspondan a las distintas áreas que integran el organismo público descentralizado, el cual deberá inscribirse en el Registro de Entidades Paraestatales.
+
+> <small>(ADICIONADO, D.O. 30 DE SEPTIEMBRE DE 2011)</small>
+
+Artículo 68 bis.- El patrimonio del organismo público descentralizado se integra con las cuentas, bienes muebles e inmuebles destinados a la prestación de sus servicios, participaciones, subsidios, derechos por la prestación de servicios, donaciones, aportaciones extraordinarias y cualquier concepto similar a los anteriores. Dicho patrimonio será inembargable, imprescriptible e inalienable.
+
+Los ingresos que obtenga el organismo público descentralizado serán destinados exclusivamente al pago de los gastos de construcción, administración, operación, mantenimiento, rehabilitación y ampliación del servicio que realice, así como para la adquisición de instalaciones e infraestructuras propias para la prestación de los servicios.
 
 ###### Artículo 69.
 
@@ -1405,13 +1793,23 @@ En la extinción de los organismos descentralizados deberán observarse las mism
 
 Cuando algún organismo descentralizado creado por el Ejecutivo, deje de cumplir sus fines u objeto, o su funcionamiento no resulte conveniente desde el punto de vista de la economía del Estado o el interés público, la Secretaría de Planeación y Presupuesto, atendiendo la opinión de la dependencia coordinadora de Sector que corresponda, propondrá al Ejecutivo del Estado la disolución, enajenación, liquidación o extinción de aquél. Asimismo podrá proponer su fusión cuando su actividad combinada redunde en incremento de eficiencia y productividad.
 
+> <small>(REFORMADO, D.O. 30 DE SEPTIEMBRE DE 2011)</small>
+
 ###### Artículo 71.
 
-La Administración de los organismos descentralizados estará a cargo de un Órgano de Gobierno que podrá ser una Junta de Gobierno o su equivalente y un Director General o su equivalente.
+Los organismos públicos descentralizados se regirán por su Órgano de Gobierno, que podrá ser una Junta de Gobierno o su equivalente y su administración estará a cargo de un Director General o su equivalente.
+
+> <small>(REFORMADO, D.O. 30 DE SEPTIEMBRE DE 2011)</small>
 
 ###### Artículo 72.
 
-El Órgano de Gobierno estará integrado por no menos de cinco ni más de quince miembros propietarios y de sus respectivos suplentes. Será presidido por el Gobernador del Estado o por la persona que éste designe. En todo caso formará parte el Secretario General de Gobierno, quien suplirá las ausencias del Presidente del Órgano de Gobierno y designará al Secretario de Actas y Acuerdos. En ningún caso existirá la función de Vicepresidente. En todo caso, se procurará que los miembros del Órgano de Gobierno pertenezcan a la Administración Pública Estatal.
+El Órgano de Gobierno de los organismos públicos descentralizados podrá estar integrado con no menos de cinco ni más de quince miembros propietarios, quienes deberán designar a sus respectivos suplentes. Será presidido por el Gobernador del Estado o por la persona que éste designe. En ningún caso existirá la función de Vicepresidente.
+
+En la integración del Órgano de Gobierno se procurará que los miembros del mismo pertenezcan a la Administración Pública Estatal.
+
+El Secretario General de Gobierno formará parte del Órgano de Gobierno, designará al Secretario de Actas y Acuerdos y suplirá las ausencias del Presidente.
+
+El Secretario General de Gobierno será suplido en los términos previstos en el reglamento de este Código.
 
 ###### Artículo 73.
 
@@ -1425,9 +1823,13 @@ III.- Las personas que tengan litigios pendientes con el organismo de que se tra
 
 IV.- Las personas sentenciadas por delitos patrimoniales; los inhabilitados para ejercer el comercio o para desempeñar un empleo, cargo o comisión en el servicio público.
 
+> <small>(REFORMADO, D.O. 30 DE SEPTIEMBRE DE 2011)</small>
+
 ###### Artículo 74.
 
-El Órgano de Gobierno se reunirá con la periodicidad que señale el Estatuto Orgánico pero en ningún caso será menos de cuatro veces al año y sesionará válidamente con la asistencia de por lo menos la mitad más uno de sus miembros. Las resoluciones se tomarán por mayoría de sus miembros presentes, teniendo el Presidente voto de calidad en caso de empate.
+El Órgano de Gobierno se reunirá con la periodicidad que señale el Estatuto Orgánico pero en ningún caso será menos de cuatro veces al año y sesionará válidamente con la asistencia de por lo menos la mitad más uno de sus miembros.
+
+Los acuerdos de la Junta de Gobierno o su equivalente se tomarán por mayoría simple de votos. En caso de empate el presidente tendrá voto de calidad.
 
 ###### Artículo 75.
 
@@ -1453,55 +1855,49 @@ V.- Ejercitar y desistirse de acciones judiciales inclusive del juicio de amparo
 
 VI.- Comprometer asuntos en arbitraje y celebrar transacciones;
 
-VII.- Otorgar poderes a cualquier persona a fin de que pueda ejercer las facultades que les competan en nombre y representación del organismo, entre ellos los que requieran de autorización o cláusula especial. Para el otorgamiento y validez de estos poderes, bastará la comunicación oficial que se expida al mandatario por el director general o su equivalente. Los poderes generales para surtir efectos frente a terceros, deberán inscribirse en el Registro de Organismos Descentralizados;
+> <small>(REFORMADA, D.O. 30 DE SEPTIEMBRE DE 2011)</small>
+
+VII.- Otorgar poderes a cualquier persona a fin de que pueda ejercer las facultades que les competan en nombre y representación del organismo, entre ellos los que requieran de autorización o cláusula especial. Para el otorgamiento y validez de estos poderes, bastará la comunicación oficial que se expida al mandatario por el director general o su equivalente. Los poderes generales para surtir efectos frente a terceros, deberán inscribirse en el Registro de Entidades Paraestatales;
 
 VIII.- Asistir con voz pero sin voto, a todas las sesiones del órgano de gobierno;
 
-IX.- Sustituir y revocar poderes generales o especiales, y
+> <small>(REFORMADA, D.O. 30 DE SEPTIEMBRE DE 2011)</small>
 
-X.- Las demás que les confieran las leyes.
+IX.- Sustituir y revocar poderes generales o especiales;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O. 30 DE SEPTIEMBRE DE 2011)</small>
+
+X.- Expedir certificaciones de los documentos que obren en los archivos a su disposición, y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], D.O. 30 DE SEPTIEMBRE DE 2011)</small>
+
+XI.- Las demás que les confieran las leyes.
 
 En todo caso las facultades establecidas en las fracciones II, III, IV y VII, las ejercerán con las limitaciones que señale el Estatuto Orgánico.
 
+> <small>(REFORMADO, D.O. 30 DE SEPTIEMBRE DE 2011)</small>
+
 ###### Artículo 77.
 
-Para acreditar la personalidad y facultades según el caso de los miembros del Órgano de Gobierno, del Secretario de éste, del Director General y de los Apoderados Generales de los organismos descentralizados, bastará con exhibir una certificación de su nombramiento o mandato en el Registro de Organismos Descentralizados.
+Cuando se requiera acreditar la personalidad y facultades de los miembros del Órgano de Gobierno, del Secretario de éste, del Director General y de los Apoderados Generales de los Organismos Públicos Descentralizados, bastará con exhibir una certificación de la inscripción de su nombramiento o mandato en el Registro de Entidades Paraestatales.
 
 ### CAPÍTULO I. De las Obligaciones
 
 ###### Artículo 78.
 
-Los organismos descentralizados deberán inscribirse en el Registro de Organismos Descentralizados que llevará la Secretaría de Planeación y Presupuesto del Estado.
-
-Dentro de los treinta días siguientes a la fecha de su constitución o de sus modificaciones o reformas de los organismos descentralizados, los Directores Generales o sus equivalentes deberán inscribir en el Registro de Organismos Descentralizados que para este efecto llevará la Secretaría de Planeación y Presupuesto del Estado.
-
-Los Directores Generales o quiénes realicen funciones similares en los organismos descentralizados que no solicitaren la inscripción aludida dentro de los treinta días siguientes a la fecha de su constitución o de sus modificaciones o reformas, serán responsables en los términos de la Ley de Responsabilidades de Servidores Públicos del Estado.
+(DEROGADO, D.O. 30 DE SEPTIEMBRE DE 2011)
 
 ###### Artículo 79.
 
-En el Registro de Organismos Descentralizados deberá inscribirse:
-
-I.- El Estatuto Orgánico y sus Reformas;
-
-II.- Los nombramientos de los integrantes del Órgano de Gobierno o su equivalente, así como sus remociones;
-
-III.- Los nombramientos y sustituciones del Director General o su equivalente y en su caso de los Subdirectores y demás funcionarios que lleven la firma de la entidad;
-
-IV.- Los poderes generales y sus revocaciones;
-
-V.- El acuerdo de la Secretaría de Planeación y Presupuesto que señale las causas de fusión, extinción o liquidación, de conformidad con las leyes o decretos que ordenen los mismos, y
-
-VI.- Los demás documentos o actos que determinen los reglamentos aplicables.
-
-El Reglamento de este Código determinará la constitución y funcionamiento del Registro, así como las formalidades de las inscripciones y anotaciones.
+(DEROGADO, D.O. 30 DE SEPTIEMBRE DE 2011)
 
 ###### Artículo 80.
 
-El Registro de Organismos Descentralizados podrá expedir certificaciones de las inscripciones y registros a que se refiere el artículo anterior, los que tendrán pleno valor probatorio.
+(DEROGADO, D.O. 30 DE SEPTIEMBRE DE 2011)
 
 ###### Artículo 81.
 
-Procederá la cancelación de las inscripciones en el Registro de Organismos Descentralizados en el caso de su extinción una vez que haya concluido su liquidación.
+(DEROGADO, D.O. 30 DE SEPTIEMBRE DE 2011)
 
 ## TÍTULO III. DE LAS EMPRESAS DE PARTICIPACIÓN ESTATAL MAYORITARIA
 
@@ -1567,7 +1963,7 @@ En los casos en que se acuerde la enajenación, en igualdad de condiciones y res
 
 ###### Artículo 93.
 
-Se considerarán fideicomisos públicos los que se establezcan por la Administración Pública Estatal, que se organicen de manera análoga a los organismos descentralizados o empresas de participación estatal mayoritaria, los que tengan como propósito auxiliar al Ejecutivo mediante la realización de actividades prioritarias, quedando sujetos a las disposiciones de este Código.
+Son entidades paraestatales, los Fideicomisos Públicos que se organicen de manera análoga a los organismos públicos descentralizados o a las empresas de participación estatal mayoritaria y tengan como propósito auxiliar al Poder Ejecutivo del Estado mediante la realización de actividades prioritarias y, por tanto, quedan sujetos a las disposiciones de este Código.
 
 ###### Artículo 94.
 
@@ -1663,15 +2059,21 @@ Las entidades paraestatales no podrán utilizar formas de inversión que tengan 
 
 ### CAPÍTULO VIII. De las Facultades y Obligaciones de los Directores Generales
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O. 30 DE SEPTIEMBRE DE 2011)</small>
+
 ###### Artículo 110.
 
 Los programas financieros de la entidad paraestatal deberán formularse conforme a los lineamientos generales que establezca la Secretaría de Planeación y Presupuesto, debiéndose expresar los fondos propios, aportaciones de capital, contratación de créditos con bancos nacionales o extranjeros, o con cualquier otro intermediario financiero, así como el apoyo financiero que pueda obtenerse de los proveedores de insumos y servicios y de sus suministradores de los bienes de producción. El programa contendrá los criterios conforme a los cuales debe ejecutarse el mismo en cuanto a montos, costos, plazos, garantías y avales que en su caso condicionen el apoyo.
 
+> <small>(REFORMADO, D.O. 30 DE SEPTIEMBRE DE 2011)</small>
+
 ###### Artículo 111.
 
-El Director de las entidades paraestatales someterá el Programa Financiero para su autorización al Órgano de Gobierno respectivo una vez aprobado, remitirá a las Secretarías de Planeación y Presupuesto a la de Hacienda, la parte correspondiente a la suscripción de créditos externos para su autorización y registro en los términos de las leyes correspondientes.
+Los directores generales o sus equivalentes de las entidades paraestatales, someterán el Programa Financiero para su autorización al Órgano de Gobierno respectivo. Una vez aprobado, remitirán a la Secretaría de Planeación y Presupuesto, la parte correspondiente a la suscripción de créditos externos para su autorización y registro en los términos de las leyes correspondientes.
 
 ### CAPÍTULO IX. Del Control y Evaluación
+
+> <small>(REFORMADO, D.O. 30 DE SEPTIEMBRE DE 2011)</small>
 
 ###### Artículo 112.
 
@@ -1680,6 +2082,10 @@ El Órgano de Gobierno, a propuesta de su Presidente o cuando menos de la tercer
 ###### Artículo 113.
 
 Los coordinadores de sector establecerán comités mixtos de productividad de las entidades paraestatales, en los cuales participarán representantes de los trabajadores de la paraestatal y del Gobierno del Estado, que analizarán las medidas relativas a la organización de los procesos productivos, de selección, de aplicación de los adelantos tecnológicos y el uso de los demás instrumentos que permitan elevar la eficiencia de las mismas.
+
+### CAPÍTULO X. Del Registro de las Entidades Paraestatales
+
+> <small>(ADICIONADO, D.O. 30 DE SEPTIEMBRE DE 2011)</small>
 
 ###### Artículo 114.
 
@@ -1701,21 +2107,37 @@ V.- Aprobar anualmente, previo informe de los comisarios y dictamen de los audit
 
 VI.- Aprobar la estructura básica de la organización de la entidad paraestatal, y las modificaciones que procedan a las mismas;
 
-VII.- Aprobar el Estatuto Orgánico tratándose de organismos descentralizados;
+> <small>(REFORMADA, D.O. 30 DE SEPTIEMBRE DE 2011)</small>
+
+VII.- Aprobar el Estatuto Orgánico, tratándose de organismos públicos descentralizados;
 
 VIII.- Proponer al Gobernador del Estado, por conducto de la Secretaría de Planeación y Presupuesto, los convenios de fusión con otras entidades;
 
 IX.- Aprobar la constitución de reservas y aplicación de las utilidades de las empresas de participación estatal mayoritaria;
 
-X.- En los casos de los excedentes económicos de los organismos descentralizados, proponer la constitución de reservas y su determinación para su aplicación por el Gobernador del Estado a través de la Secretaría de Planeación y Presupuesto del Estado;
+> <small>(REFORMADA, D.O. 30 DE SEPTIEMBRE DE 2011)</small>
 
-XI.- Analizar y aprobar en su caso, los informes periódicos que rinda el Director General como la intervención que corresponda a los comisarios; y
+X.- En los casos de los excedentes económicos de los organismos públicos descentralizados, proponer la constitución de reservas y su determinación para su aplicación por el Gobernador del Estado a través de la Secretaría de Planeación y Presupuesto del Estado, en términos de lo dispuesto por la Ley de presupuesto y Contabilidad Gubernamental y su Reglamento;
 
-XII.- Aprobar las normas y bases para cancelar adeudos a cargo de terceros y a favor de la entidad paraestatal cuando fuere notoria la imposibilidad práctica de su cobro. En estos casos, se deberá informar a la Secretaría de Planeación y Presupuesto y a la Dependencia Coordinadora de Sector.
+> <small>(REFORMADA, D.O. 30 DE SEPTIEMBRE DE 2011)</small>
+
+XI.- Analizar y aprobar en su caso, los informes periódicos que rinda el Director General o su equivalente;
+
+> <small>(REFORMADA, D.O. 30 DE SEPTIEMBRE DE 2011)</small>
+
+XII.- Aprobar las normas y bases para cancelar adeudos a cargo de terceros y a favor de la entidad paraestatal, cuando fuere notoria la imposibilidad práctica de su cobro. En estos casos, se deberá informar a la Secretaría de Planeación y Presupuesto y a la Dependencia Coordinadora de Sector;
+
+> <small>(ADICIONADA, D.O. 30 DE SEPTIEMBRE DE 2011)</small>
+
+XIII.- Establecer las bases para la adquisición, arrendamiento y enajenación de inmuebles que la entidad requiera para la prestación de sus servicios, con las limitaciones que en relación a la materia estipule la Ley de Bienes del Estado de Yucatán en relación con los bienes de dominio público, y
+
+> <small>(ADICIONADA, D.O. 30 DE SEPTIEMBRE DE 2011)</small>
+
+XIV.- Autorizar la creación de comités de apoyo, con fines de coordinación.
 
 ###### Artículo 116.
 
-Serán facultades y obligaciones de los Directores Generales las siguientes:
+Son facultades y obligaciones de los Directores Generales o equivalentes, las siguientes:
 
 I.- Administrar y representar legalmente a la entidad paraestatal;
 
@@ -1723,7 +2145,9 @@ II.- Formular los programas institucionales de corto, mediano y largo plazo, as�
 
 III.- Formular los programas de organización;
 
-IV.- Establecer los métodos que permitan el óptimo aprovechamiento de los bienes o inmuebles de la entidad;
+> <small>(REFORMADA, D.O. 30 DE SEPTIEMBRE DE 2011)</small>
+
+IV.- Establecer los métodos que permitan el óptimo aprovechamiento de los bienes muebles o inmuebles de la entidad;
 
 V.- Tomar las medidas pertinentes a fin de que las funciones de la entidad, se realicen de una manera articulada, congruente y eficaz;
 
@@ -1743,11 +2167,13 @@ XII.- Las demás que señalen otras leyes, reglamentos, decretos, acuerdos y dem
 
 ###### Artículo 117.
 
-El Órgano de vigilancia de los Organismos Descentralizados, estará integrado por un comisario propietario y un suplente, designado por la Secretaría de la Contraloría General del Estado y contará con todas las facultades necesarias para el desempeño de sus funciones de vigilancia.
+El Órgano de Vigilancia de los organismos públicos descentralizados, estará integrado por un comisario propietario y un suplente, designado por la Secretaría de la Contraloría General del Estado y contará con todas las facultades necesarias para el desempeño de sus funciones de vigilancia.
+
+> <small>(REFORMADO, D.O. 30 DE SEPTIEMBRE DE 2011)</small>
 
 ###### Artículo 118.
 
-La responsabilidad del control al interior de los Organismos Descentralizados, se ejercerá por los Órganos de Gobierno, el Director General y los Servidores Públicos del Organismo, en el ámbito de sus respectivas competencias.
+La responsabilidad del control al interior de los organismos públicos descentralizados, se ejercerá por los Órganos de Gobierno, el Director General y los servidores públicos del Organismo, en el ámbito de sus respectivas competencias.
 
 ###### Artículo 119.
 
@@ -1768,6 +2194,48 @@ Las inversiones del Estado en aquellas empresas en las que participe la Administ
 ###### Artículo 123.
 
 La enajenación de títulos representativos del capital social, propiedad del Gobierno Estatal o de las entidades paraestatales, se realizará mediante las normas que emita el Gobernador del Estado, a través de la Secretaría de Hacienda.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O. 30 DE SEPTIEMBRE DE 2011)</small>
+
+###### Artículo 124.
+
+Las Entidades Paraestatales deberán inscribirse en el Registro de Entidades Paraestatales que llevará la Secretaría de Planeación y Presupuesto del Estado.
+
+Dentro de los treinta días siguientes a la fecha de su constitución o de sus modificaciones o reformas de las entidades paraestatales, los directores generales o sus equivalentes deberán inscribir en el Registro de Entidades Paraestatales que para este efecto llevará la Secretaría de Planeación y Presupuesto del Estado.
+
+Los directores generales o quiénes realicen funciones similares en los (sic) entidades paraestatales que no solicitaren la inscripción aludida dentro de los treinta días siguientes a la fecha de su constitución o de sus modificaciones o reformas, serán responsables en los términos de la Ley de Responsabilidades de Servidores Públicos del Estado.
+
+> <small>(ADICIONADO, D.O. 30 DE SEPTIEMBRE DE 2011)</small>
+
+###### Artículo 125.
+
+En el Registro de Entidades Paraestatales deberá inscribirse:
+
+I.- El Estatuto Orgánico y sus reformas;
+
+II.- Los nombramientos de los integrantes de la Junta de Gobierno o su equivalente, así como sus remociones;
+
+III.- Los nombramientos y sustituciones del Director General o su equivalente y en su caso de los Subdirectores y demás funcionarios que lleven la firma de la entidad;
+
+IV.- Los poderes generales y sus revocaciones;
+
+V.- El acuerdo de la Secretaría de Planeación y Presupuesto que señale las causas de fusión, extinción o liquidación, de conformidad con las leyes o decretos que ordenen los mismos, y
+
+VI.- Los demás documentos o actos que determinen los reglamentos aplicables.
+
+El Reglamento de este Código determinará la constitución y funcionamiento del Registro, así como las formalidades de las inscripciones y anotaciones.
+
+> <small>(ADICIONADO, D.O. 30 DE SEPTIEMBRE DE 2011)</small>
+
+###### Artículo 126.
+
+El Registro de Entidades Paraestatales podrá expedir certificaciones de las inscripciones y registros a que se refiere el artículo anterior, los que tendrán pleno valor probatorio.
+
+> <small>(ADICIONADO, D.O. 30 DE SEPTIEMBRE DE 2011)</small>
+
+###### Artículo 127.
+
+Procederá la cancelación de las inscripciones en el Registro de Entidades Paraestatales en el caso de su extinción, una vez que haya concluido su liquidación.
 
 TRANSITORIOS:
 
@@ -1944,3 +2412,61 @@ Se transferirán a partir de la entrada en vigor de este Decreto, de la Secretar
 ###### ARTÍCULO NOVENO.
 
 Todas las disposiciones normativas y documentos referentes a la Junta Local de Conciliación y Arbitraje, el Tribunal de Conciliación y Arbitraje para los Trabajadores al Servicio del Estado y la Procuraduría Local de la Defensa del Trabajo en los que se haga alusión a la Secretaría General de Gobierno o a su Titular, se entenderá que se refieren, a la Secretaría del Trabajo y Previsión Social o a su Titular.
+
+D.O. 30 DE SEPTIEMBRE DE 2011.
+
+###### ARTÍCULO PRIMERO.
+
+Este Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán, a excepción de las disposiciones relativas a la Secretaría de la Cultura y las Artes, las cuales entrarán en vigor a partir del primer día del mes de enero del año dos mil doce.
+
+###### ARTÍCULO SEGUNDO.
+
+A partir de la entrada en vigor de las disposiciones relativas a la Secretaría de la Cultura y las Artes, queda abrogada la Ley que crea el Instituto de Cultura de Yucatán, publicada en el Diario Oficial del Gobierno del Estado de Yucatán el 30 de septiembre de 1987; se extingue dicho instituto y se otorga un plazo de seis meses para realizar todos los procedimientos correspondientes a su liquidación.
+
+###### ARTÍCULO TERCERO.
+
+A partir del inicio de vigencia de las disposiciones relativas a la Secretaría de la Cultura y las Artes, los recursos presupuestales, financieros, materiales y en general todos aquellos medios que permiten el cumplimiento de las atribuciones asignadas al Instituto de Cultura de Yucatán, se transferirán a la Secretaría de la Cultura y las Artes del Estado de Yucatán.
+
+###### ARTÍCULO CUARTO.
+
+El personal de base que al entrar en vigor de (sic) las disposiciones relativas a la Secretaría de la Cultura y las Artes, preste sus servicios en el Instituto de Cultura de Yucatán, pasará a formar parte de la Secretaría de la Cultura y las Artes del Estado de Yucatán y se estará a lo que señalen las disposiciones legales aplicables.
+
+###### ARTÍCULO QUINTO.
+
+Las disposiciones legales y normativas, y los documentos referentes al Instituto de Cultura de Yucatán, a partir de la entrada en vigor de las disposiciones relativas a la Secretaría de la Cultura y las Artes, se entenderá que se refieren a dicha Secretaría.
+
+###### ARTÍCULO SEXTO.
+
+Los convenios, actos jurídicos, asuntos pendientes y de trámite, así como las obligaciones contraídas y los derechos adquiridos por el Instituto de Cultura de Yucatán, y que por su naturaleza subsistan, a partir de la entrada en vigor de las disposiciones relativas a la Secretaría de la Cultura y las Artes, quedarán a cargo de dicha Secretaría.
+
+###### ARTÍCULO SÉPTIMO.
+
+Se derogan todas las disposiciones de igual o menor rango que se opongan a este Decreto.
+
+###### ARTÍCULO OCTAVO.
+
+El Ejecutivo del Estado deberá realizar las adecuaciones correspondientes al Reglamento del Código de la Administración Pública, en un plazo no mayor de tres meses, a partir de la entrada en vigor de este Decreto.
+
+###### ARTÍCULO NOVENO.
+
+Los Organismos Públicos Descentralizados inscritos en el Registro de Organismos Descentralizados se tendrán por inscritos en el Registro de Entidades Paraestatales, el cual adoptará los Folios Registrales y códigos asignados a los organismos ya inscritos.
+
+###### ARTÍCULO DÉCIMO.
+
+Cuando en otras disposiciones legales, reglamentarias, administrativas, así como en documentos diversos, se haga referencia al Registro de Organismos Descentralizados, se entenderá que se refieren en todos los casos al Registro de Entidades Paraestatales.
+
+###### ARTÍCULO DÉCIMO PRIMERO.
+
+Los certificados y constancias, acerca de las inscripciones realizadas en el Registro de Organismos Descentralizados, expedidos por el titular de la Dirección de Planeación de la Secretaría de Planeación y Presupuesto, tendrán plena vigencia en los términos en que fueron expedidos.
+
+###### ARTÍCULO DÉCIMO SEGUNDO.
+
+Los actos inscritos en los respectivos folios Registrales asignados a los Organismos Públicos Descentralizados inscritos en el Registro de Organismos Descentralizados, se tendrán como realizados en el Registro de Entidades Paraestatales y gozarán de plena validez jurídica y administrativa.
+
+###### ARTÍCULO DÉCIMO TERCERO.
+
+Los actos jurídicos, asuntos pendientes y de trámite a cargo del Registro de Organismos Descentralizados y que por su propia naturaleza subsistan con posterioridad a la entrada en vigor de este Decreto, quedarán a cargo del Registro de Entidades Paraestatales.
+
+###### ARTÍCULO DÉCIMO CUARTO.
+
+Las Entidades Paraestatales no inscritas en el Registro de Organismos Públicos Descentralizados, se deberán inscribir en el Registro de Entidades Paraestatales en un plazo no mayor a 60 días naturales posteriores a la entrada en vigor de este Decreto.
