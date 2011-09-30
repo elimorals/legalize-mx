@@ -4,7 +4,7 @@ identifier: "GRO-ley-numero-571-de-instituciones-y-procedimientos-58784"
 country: "mx"
 rank: "ley"
 publication_date: "2008-01-01"
-last_updated: "2011-09-09"
+last_updated: "2011-09-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=58784&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY NUMERO 571 DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DEL ESTADO DE GUERRERO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE SEPTIEMBRE DE 2011.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE SEPTIEMBRE DE 2011.
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el martes 1 de enero de 2008.
 
@@ -1679,13 +1679,17 @@ V. Fijar las políticas y los programas generales del Instituto Electoral a prop
 
 VI. Designar al Secretario General por el voto de las dos terceras partes de sus miembros, conforme a la propuesta que presente su Presidente.
 
-VII. Designar a los Directores del Instituto Electoral, previo el cumplimiento del procedimiento establecido para la ocupación de estas plazas por el Estatuto del Servicio Profesional Electoral del Estado;
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2011)</small>
+
+VII. Designar a los Directores Ejecutivos y al Titular de la Unidad Técnica de Fiscalización del Instituto Electoral, previo el cumplimiento del procedimiento establecido para la ocupación de estas plazas por el Estatuto del Servicio Profesional Electoral del Estado;
 
 VIII. Aprobar la estructura de las Direcciones y demás Órganos del Instituto Electoral conforme a las necesidades del servicio y los recursos presupuestales autorizados;
 
 IX. Vigilar la oportuna integración y adecuado funcionamiento de los Órganos Electorales del Instituto Electoral, y conocer, por conducto de su Presidente y de sus Comisiones, las actividades de los mismos, así como de los informes específicos que el Consejo General del Instituto estime necesario solicitarles;
 
-X. Designar por las dos terceras partes, a más tardar la primer semana de Febrero del año de la elección, de entre las propuestas que al efecto haga el Consejero Presidente a los Consejeros Electorales de los Consejos Distritales, a que se refiere el artículo 126 de esta Ley, derivado de la convocatoria pública expedida;
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2011)</small>
+
+X. Designar por las dos terceras partes, a más tardar la segunda semana de enero del año de la elección, de entre las propuestas que al efecto haga el Consejero Presidente a los Consejeros Electorales de los Consejos Distritales, a que se refiere el artículo 126 de esta Ley, derivado de la convocatoria pública expedida;
 
 XI. Resolver sobre las consultas y controversias que le sometan los partidos políticos o coaliciones, relativas a la integración o funcionamiento de los Organismos Electorales y demás asuntos de su competencia;
 
@@ -1717,9 +1721,13 @@ XXIV. Determinar los topes máximos de gastos de campaña que puedan erogar los 
 
 XXV. Establecer y difundir las reglas a las que se sujetarán los partidos políticos o coaliciones, y los candidatos cuando acuerden la realización de debates públicos;
 
-XXVI. Investigar por los medios legales pertinentes, todos aquellos hechos relacionados con el proceso electoral y de manera especial, los que denuncie un partido político o coalición, consejero electoral u órgano del Instituto Electoral, que impliquen violación a la Ley, por parte de las autoridades o de otros partidos o coaliciones, o violencia en contra de su propaganda, candidatos o miembros;
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2011)</small>
 
-XXVII. Conocer y en su caso ratificar los convenios que el Presidente del Consejo general del Instituto Electoral, celebre con el Instituto Federal Electoral para utilizar en los procesos electorales estatales, el padrón electoral, las listas nominales con fotografía, la credencial para votar con fotografía y los demás documentos y apoyos técnicos necesarios, relativos al Registro Federal de Electores; así como en materia de fiscalización de los recursos de los partidos políticos para tener acceso a la información bancaria, fiscal y fiduciaria correspondiente;
+XXVI. Investigar por los medios legales pertinentes, de conformidad con el procedimiento ordinario o especial sancionador, según corresponda, todos aquellos hechos relacionados con el proceso electoral y de manera especial, los que denuncie un partido político o coalición, consejero electoral u órgano del Instituto Electoral, que impliquen violación a la Ley, por parte de las autoridades o de otros partidos o coaliciones;
+
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2011)</small>
+
+XXVII. Conocer y en su caso ratificar los convenios que el Presidente del Consejo General del Instituto Electoral, celebre con el Instituto Federal Electoral en las diversas materias relacionadas con los procesos electorales locales y/o concurrentes, así como en materia de demarcaciones territoriales electorales, fiscalización de los recursos de los partidos políticos para tener acceso a la información bancaria, fiscal y fiduciaria correspondiente;
 
 XXVIII. Ordenar la suspensión inmediata de la propaganda o campaña que se esté realizando por los partidos políticos, coaliciones, candidatos o terceros en contra de alguno de estos en contravención a lo dispuesto por esta Ley y la Ley de Imprenta;
 
@@ -1765,9 +1773,9 @@ XLVIII. Conocer las actividades y los informes de las comisiones;
 
 XLIX. Aprobar los plazos y tiempos a que se sujetara lo relativo al padrón electoral, listas nominales de electores con fotografía y credencial para votar, en ocasión del proceso electoral local;
 
-L. Suscribir previa justificación y dictamen técnico del Pleno del Consejo General del Instituto convenio con el Instituto Federal Electoral, y con la aprobación de las dos terceras partes de los diputados presentes del Congreso, para que este asuma la organización de los procesos electorales que les corresponde desarrollar. De ser el caso, el Instituto Federal Electoral deberá ajustarse a lo establecido en la presente Ley;
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2011)</small>
 
-El convenio establecerá las bases bajo las cuales se organizará el proceso electoral.
+L. Suscribir previa justificación y dictamen técnico del Pleno del Consejo General del Instituto, convenio de colaboración con el Instituto Federal Electoral, para la organización de los procesos electorales que les corresponda desarrollar de forma coincidente. El convenio, deberá establecer las actividades que ejecutará cada uno de los órganos electorales, y las que realizarán de forma conjunta para garantizar la organización eficaz de los procesos electorales coincidentes;
 
 LI. Aprobar los programas anuales de las Direcciones Ejecutivas y los dictámenes que presenten las respectivas Comisiones sobre el cumplimiento de los mismos;
 
@@ -1775,7 +1783,9 @@ LII. Aprobar el programa de cursos de capacitación que deberá impartir la Dire
 
 LIII. Recibir y aprobar las solicitudes y las modalidades de actuación de los observadores electorales, según lo establecido en la presente ley;
 
-LIV. Aprobar la integración de las comisiones del Instituto Electoral;
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2011)</small>
+
+LIV. Aprobar la integración de las comisiones y del Comité de adquisiciones del Instituto Electoral;
 
 LV. Conocer los informes financieros cuatrimestrales y anual que rinda el Secretario General, previa la validación de la Comisión de Administración del Instituto Electoral;
 
@@ -1805,7 +1815,9 @@ LXVII. Celebrar los convenios conducentes tanto con instituciones públicas como
 
 LXVIII. Confirmar la vigencia del registro ante el Instituto Federal Electoral de los partidos políticos que tengan derecho a participar en las elecciones de Diputados por los principios de mayoría relativa y de representación proporcional, Gobernador del Estado y Ayuntamientos, en los términos que establece esta Ley;
 
-LXIX. Expedir la convocatoria pública para la selección de los consejeros electorales distritales, capacitadores y asistentes electorales;
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2011)</small>
+
+LXIX. Expedir la convocatoria pública para la selección de los consejeros electorales distritales, Capacitadores Asistentes electorales;
 
 LXX. Recibir y dictaminar la solicitud de procedencia del referéndum y plebiscito y encargarse de su organización, desarrollo y en su caso, de la declaración de validez de estos procedimientos;
 
@@ -1815,9 +1827,25 @@ LXXII. Aprobar los manuales de organización y operación financiera del Institu
 
 LXXIII. Vigilar que la Junta Estatal de cumplimiento con las deposiciones (sic) legales en materia de transparencia y acceso a la información pública en el Estado;
 
-LXXIV. Solicitar al Instituto Federal Electoral el otorgamiento de los tiempos de estado que les corresponde a los partidos políticos y al Instituto Electoral del Estado, así como los que requiera para los procesos electorales locales, en términos de lo dispuesto por la Constitución Federal y el Código Federal de Instituciones y Procedimientos Electorales; y
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2011)</small>
 
-LXXV. Dictar los acuerdos necesarios para hacer efectivas las anteriores atribuciones y las demás señaladas en esta Ley.
+LXXIV. Solicitar al Instituto Federal Electoral el otorgamiento de los tiempos de estado que les corresponde a los partidos políticos y al Instituto Electoral del Estado, así como los que requiera para los procesos electorales locales, en términos de lo dispuesto por la Constitución Federal y el Código Federal de Instituciones y Procedimientos Electorales;
+
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2011)</small>
+
+LXXV. Definir y aprobar el tipo, integración y ubicación de casilla a instalar en elecciones concurrentes, y con base en ello, hacer las modificaciones y ajustes necesarios para la adecuada operatividad de todas las etapas del proceso electoral;
+
+> <small>(ADICIONADA, P.O. 30 DE SEPTIEMBRE DE 2011)</small>
+
+LXXVI. Aprobar los lineamientos, acuerdos, resoluciones y todo aquello que resulte necesario en las diversas materias relacionadas con los procesos electorales para determinar los procedimientos, calendarización y actividades que se requieran, así como instrumentar los convenios y/o anexos técnicos que celebren o suscriban con las autoridades electorales;
+
+> <small>(ADICIONADA, P.O. 30 DE SEPTIEMBRE DE 2011)</small>
+
+LXXVII. Vigilar que los recursos de los partidos tengan origen lícito y se apliquen estricta e invariablemente a las actividades señaladas en la ley; y,
+
+> <small>(ADICIONADA, P.O. 30 DE SEPTIEMBRE DE 2011)</small>
+
+LXXVIII. Dictar los acuerdos necesarios para hacer efectivas las anteriores atribuciones y las demás señaladas en esta Ley.
 
 El Consejo General del Instituto, en ocasión de la celebración de los procesos electorales estatales, podrá invitar y acordar las bases y criterios en que habrá de atenderse e informar a los visitantes extranjeros que acudan a conocer las modalidades de su desarrollo en cualquiera de sus etapas.
 
@@ -1963,7 +1991,9 @@ XVI. Llevar los libros de registro de los candidatos a puestos de elección popu
 
 XVII. Preparar los proyectos de la documentación electoral y proveer lo necesario para su impresión, distribución y recolección;
 
-XVIII. Participar en los convenios que se celebren con el Instituto Federal Electoral, respecto a la información y documentos que habrá de aportar la dirección ejecutiva del Registro Federal de Electores, para los procesos electorales locales;
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2011)</small>
+
+XVIII. Participar en los convenios que se celebren con el Instituto Federal Electoral, respecto a la información y documentos que habrá de aportar en las diversas materias relacionadas con los procesos electorales locales y/o concurrentes;
 
 XIX. Dar cuenta al Consejo General del Instituto de los informes que sobre el desarrollo de la jornada electoral reciba de los Consejos Distritales Electorales;
 
@@ -1995,7 +2025,9 @@ XXXII. Establecer y operar los sistemas administrativos para el ejercicio y cont
 
 XXXIII. Con la supervisión de la Comisión de Organización Electoral, integrar y difundir la estadística electoral por casilla, sección, municipio y distrito, de las Elecciones de Gobernador del Estado, Diputados y Ayuntamientos, una vez calificadas;
 
-XXXIV. Presentar al Presidente, para la aprobación del Consejo General del Instituto, los proyectos de convenios a celebrarse con autoridades federales, en relación con la información y documentos que habría de aportar el Registro Federal de Electores para los procesos locales, así como también aquellos que pueda celebrar con instituciones académicas para impartir cursos de formación, capacitación y actualización, para los aspirantes y miembros titulares del servicio profesional electoral;
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2011)</small>
+
+XXXIV. Presentar al Presidente, para la aprobación del Consejo General del Instituto, los proyectos de convenios a celebrarse con autoridades federales, en relación con la información y documentos que habría de aportar en las diversas materias relacionadas con los procesos electorales locales y/o concurrentes, así como también aquellos que pueda celebrar con instituciones académicas para impartir cursos de formación, capacitación y actualización, para los aspirantes y miembros titulares del servicio profesional electoral;
 
 XXXV. En ausencia del Presidente, recibir de los partidos políticos o coaliciones las solicitudes de registro de candidatos y hacerlas del conocimiento del Presidente para su registro;
 
@@ -2011,9 +2043,17 @@ XL. Informar a la Junta Estatal, a la Comisión del Servicio Profesional Elector
 
 XLI. Informar a los distintos órganos y direcciones del Instituto Electoral sobre los acuerdos adoptados por el Consejo General del Instituto para su conocimiento general;
 
-XLII. Preparar los proyectos de dictamen y resolución de las quejas o denuncias que se presenten al Consejo General del Instituto para su atención, siguiendo el procedimiento establecido en el artículo 337 de esta Ley; y
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2011)</small>
 
-XLIII. Las demás que le sean conferidas por esta Ley, el Consejo General del Instituto y su Presidente.
+XLII. Preparar los proyectos de dictamen y resolución de las quejas o denuncias que presenten al Consejo General del Instituto para su atención, siguiendo el procedimiento establecido en el artículo 337 de esta Ley;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 30 DE SEPTIEMBRE DE 2011)</small>
+
+XLIII. Sustanciar los procedimientos administrativos sancionadores ordinarios y especiales establecidos en esta Ley y coadyuvar en todo lo que requiera la Unidad Técnica de Fiscalización en los procedimientos de competencia. En dicha tramitación el Consejo General, los Consejos Distritales, la Junta Estatal y las Direcciones Ejecutivas del Instituto, en sus respectivos ámbitos de competencia, fungirán como órganos auxiliares; y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 30 DE SEPTIEMBRE DE 2011)</small>
+
+XLIV. Las demás que le sean conferidas por esta Ley, el Consejo General del Instituto y su Presidente.
 
 Para el mejor desempeño de sus funciones, el Secretario General organizará las unidades administrativas del Instituto Electoral y las que determine su Consejero Presidente.
 
@@ -2035,17 +2075,29 @@ V. De Administración;
 
 VI. De Seguimiento y Evaluación del Programa de Resultados Electorales Preliminares;
 
-VII. Del Servicio Profesional Electoral; y
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2011)</small>
 
-VIII. Del Registro Federal de Electores y de la Cartografía Electoral.
+VII. Del Servicio Profesional Electoral;
+
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2011)</small>
+
+VIII. Del Registro Federal de Electores y de la Cartografía Electoral; y,
+
+> <small>(ADICIONADA, P.O. 30 DE SEPTIEMBRE DE 2011)</small>
+
+IX. De Quejas y Denuncias.
+
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2011)</small>
 
 ###### ARTÍCULO 104.
 
-Las comisiones serán integradas con un máximo de tres consejeros electorales con voz y voto y los representantes de los partidos políticos que así lo deseen con voz pero sin voto; siempre serán presididas por un Consejero Electoral; además se podrán integrar las comisiones especiales que se consideren necesarias para el desempeño de las atribuciones del Consejo General del Instituto, integrándose con el número de miembros que acuerde el mismo Consejo.
+Las comisiones serán integradas con un máximo de tres consejeros electorales con voz y voto, los representantes de los partidos políticos que así lo deseen y un secretario técnico, estos últimos con voz pero sin voto; siempre serán presididas por un Consejero Electoral; además se podrán integrar las comisiones especiales que se consideren necesarias para el desempeño de las atribuciones del Consejo General del Instituto, integrándose con el número de miembros que acuerde el mismo Consejo.
 
 En todos los asuntos que les encomienden, las comisiones deberán presentar al Consejo General del Instituto un proyecto de dictamen o de resolución.
 
-El Secretario General, colaborará con las comisiones para el cumplimiento de las tareas que se les hayan encomendado y fungirá como secretario de la Comisión del Servicio Profesional Electoral.
+El Secretario General, colaborará con las comisiones para el cumplimiento de las tareas que se les hayan encomendado.
+
+Fungirán como secretarios técnicos de las comisiones los directores ejecutivos del área técnica respectiva o, en su caso, el personal técnico operativo que éstos designen. A excepción de la Comisión de Servicio Profesional que lo será el Secretario General del Instituto.
 
 ###### ARTÍCULO 105.
 
@@ -2405,7 +2457,9 @@ I. Llevar los libros de registro de los candidatos a puestos de elección popula
 
 II. Coadyuvar en la recepción y trámite de los recursos de revisión que se interpongan en contra de los actos o resoluciones de los Consejos General y Distritales en términos de la Ley del Sistema de Medios de Impugnación en Materia Electoral del Estado;
 
-III. Actuar como Secretario de las comisiones de fiscalización y Financiamiento Público y de Organización Electoral, respectivamente;
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2011)</small>
+
+III. Actuar como Secretario Técnico de la Comisión de Quejas y Denuncias, tener fe pública en los actos que realice dentro de la misma;
 
 IV. Elaborar los proyectos de acuerdos, dictámenes y de resoluciones que emita el Consejo General del Instituto y la Junta Estatal;
 
@@ -2413,9 +2467,21 @@ V. Revisar el cumplimiento de los requisitos de los expedientes de los candidato
 
 VI. Elaborar el proyecto de programa anual de trabajo de la dirección;
 
-VII. Acordar y coadyuvar con el Secretario General del Instituto Electoral, en el trámite de las quejas administrativas de que conozca la Junta Estatal y el Consejo General del Instituto los asuntos de su competencia; y
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2011)</small>
 
-VIII. Las demás que les confiera esta Ley, el Consejo General del Instituto, su Presidente y el Secretario General.
+VII. Acordar y coadyuvar con el Secretario General del Instituto Electoral, en el trámite de las quejas administrativas de que conozca la Junta Estatal y el Consejo General del Instituto los asuntos de su competencia;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 30 DE SEPTIEMBRE DE 2011)</small>
+
+VIII. Auxiliar a la Secretaría General en la sustanciación de los procedimientos sancionadores establecidos por esta Ley;
+
+> <small>(ADICIONADA, P.O. 30 DE SEPTIEMBRE DE 2011)</small>
+
+IX. Proponer la reglamentación para la atención de quejas y denuncias por violaciones a la ley electoral; y,
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 30 DE SEPTIEMBRE DE 2011)</small>
+
+X. Las demás que les confiera esta Ley o la reglamentación correspondiente, el Consejo General del Instituto, su Presidente y el Secretario General.
 
 ###### ARTÍCULO 121.
 
@@ -3619,13 +3685,17 @@ En la colocación de propaganda electoral los partidos, las coaliciones y los ca
 
 I. La propaganda electoral que se difunda únicamente podrá colgarse y fijarse, estando prohibidas las pintas bajo cualquier modalidad;
 
-II. Podrá colgarse en elementos del equipamiento urbano, bastidores y mamparas, siempre que no se dañe el equipamiento, se impida la visibilidad de conductores de vehículos o se impida la circulación de peatones;
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2011)</small>
+
+II. No podrá colgarse en elementos del equipamiento urbano, a excepción de los bastidores y mamparas que designe la autoridad correspondiente;
 
 III. Podrá colgarse o fijarse en inmuebles de propiedad privada, siempre que medie permiso escrito del propietario;
 
 IV. Podrá colgarse o fijarse en los lugares de uso común que determinen el Consejo General y los Consejos Distritales del Instituto, previo acuerdo con las autoridades correspondientes;
 
-V. No podrá fijarse o colgarse en las vías públicas que constituyan el primer cuadro de la ciudad cabecera del municipio, en elementos del equipamiento urbano o carretero, ni en accidentes geográficos cualquiera que sea su régimen jurídico;
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2011)</small>
+
+V. No podrá fijarse o colgarse en elementos del equipamiento carretero, ni en accidentes geográficos cualquiera que sea su régimen jurídico;
 
 VI. No podrá colgarse o fijarse en monumentos ni en el exterior de edificios públicos; y
 
@@ -4615,17 +4685,27 @@ I. Cada Consejo Distrital Electoral, hará el cómputo de la votación para Ayun
 
 II. Hecho que sea, remitirá el acta de cómputo a los siguientes Consejos Distritales Electorales, según corresponda:
 
-a) Acapulco de Juárez, al V Distrito Electoral;
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2011)</small>
 
-b) Chilapa de Álvarez, al III Distrito Electoral;
+a) Acapulco de Juárez, al Distrito Electoral 4;
 
-c) Chilpancingo de los Bravo, al XV Distrito Electoral;
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2011)</small>
 
-d) Iguala de la Independencia, al XXI Distrito Electoral;
+b) Chilpancingo de los Bravo, al Distrito Electoral 2;
 
-e) Taxco de Alarcón, al XIX Distrito Electoral; y
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2011)</small>
 
-f) Tlapa de Comonfort, al XI Distrito Electoral.
+c) Iguala de la Independencia, al Distrito Electoral 22;
+
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2011)</small>
+
+d) Tlapa de Comonfort, al Distrito Electoral 27; y,
+
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2011)</small>
+
+e) Zihuatanejo de Azueta, al Distrito Electoral 12.
+
+f) (DEROGADO, P.O. 30 DE SEPTIEMBRE DE 2011)
 
 ###### ARTÍCULO 284.
 
@@ -5095,35 +5175,65 @@ El candidato a Gobernador, Diputado por ambos principios, planilla de Ayuntamien
 
 ### CAPÍTULO II. DEL PROCEDIMIENTO PARA EL CONOCIMIENTO DE FALTAS Y APLICACIÓN DE SANCIONES ADMINISTRATIVAS
 
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2011)</small>
+
 ###### ARTÍCULO 337.
 
-Para los efectos de determinar la existencia de faltas y de responsabilidad en materia administrativa electoral se seguirá el procedimiento para el conocimiento y aplicación de sanciones, en el que se dará el derecho de audiencia a la contraparte, al presunto infractor y se realizará la valoración de los medios de prueba e indicios que integren el expediente y en su caso, la investigación imparcial de los hechos que dieron origen al procedimiento, por parte de los organismos electorales.
+Para los efectos de determinar la existencia de faltas y de responsabilidad en materia administrativa electoral se seguirá, según corresponda, el procedimiento ordinario o especial para el conocimiento y aplicación de sanciones, en el que se dará el derecho de audiencia a la contraparte, al presunto infractor y se realizará la valoración de los medios de prueba e indicios que integren el expediente y en su caso, la investigación imparcial de los hechos que dieron origen al procedimiento, por parte de los organismos electorales.
 
 De manera supletoria a este procedimiento se aplicarán las disposiciones normativas que emita el Consejo General del Instituto y lo previsto por la Ley del Sistema de Medios de Impugnación en Materia Electoral.
+
+Serán órganos competentes para la tramitación y resolución del procedimiento sancionador:
+
+a) El Consejo General;
+
+b) La Comisión de Quejas y Denuncias; y
+
+c) El Secretario General del Instituto.
+
+La Comisión mencionada en el inciso b) del párrafo anterior se integrará en los términos que establece el artículo 104 de la presente Ley. Sus sesiones y procedimientos serán determinados en el reglamento que al efecto apruebe el propio Consejo.
 
 ###### ARTÍCULO 338.
 
 El cómputo de los plazos se hará tomando en consideración todos los días de la semana, con excepción de los sábados y domingos y los días en que no se labore en el Instituto. Los plazos se computarán de momento a momento, y si están señalados por días, se entenderán por veinticuatro horas. Durante los procesos electorales locales todos los días y horas serán hábiles.
 
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2011)</small>
+
 ###### ARTÍCULO 339.
 
-El procedimiento previsto en el artículo 337 de esta Ley, iniciará a petición de parte o de oficio. Será de parte cuando se presente la queja o la denuncia ante el Instituto por la presunta comisión de una falta administrativa y de oficio cuando algún órgano o integrante de los organismos electorales del Instituto en ejercicio de sus funciones, conozca de la presunta falta, lo que informará de inmediato al Presidente del Consejo General del Instituto o al Secretario General del Instituto.
+El procedimiento ordinario sancionador podrá iniciar a instancia de parte, o de oficio. Será de parte cuando se presente la queja o la denuncia ante el Instituto por la presunta comisión de una falta administrativa, y de oficio cuando algún órgano o integrante de los organismos electorales del Instituto en ejercicio de sus funciones, conozca de la presunta falta, lo que informará de inmediato al Presidente del Consejo General del Instituto o al Secretario General del Instituto.
+
+La facultad de la autoridad electoral para fincar responsabilidades por infracciones administrativas prescribe en el término de cinco años, contados a partir del día en que aquélla tenga conocimiento de la infracción.
+
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2011)</small>
 
 ###### ARTÍCULO 340.
 
-La queja o la denuncia deberá ser presentada por escrito, cumpliendo con los requisitos:
+Cualquier persona podrá presentar quejas o denuncias por presuntas violaciones a la normatividad electoral ante el Instituto. Las personas morales lo harán por medio de sus legítimos representantes, en términos de la legislación aplicable, y las personas físicas lo harán por su propio derecho.
 
-I. Nombre del quejoso o denunciante;
+La queja o denuncia podrá ser presentada por escrito o en forma oral y deberá cumplir con los siguientes requisitos:
 
-II. Domicilio para recibir notificaciones y en su caso a quien en su nombre las puede recibir;
+I. Hacer constar el nombre del quejoso o denunciante, con firma autógrafa o huella digital;
 
-III. Acreditar la personalidad del promovente o de su representado cuando se trate de una persona moral;
+II. Señalar domicilio para vendrá para oír y recibir notificaciones;
 
-IV. Expresar de manera expresa y clara los hechos en que sustenta la queja o la denuncia y los preceptos violados;
+III. Señalar en su caso, el domicilio donde pueda ser emplazado el presunto infractor;
 
-V. Presentar las pruebas que estime pertinentes; y
+IV. Acompañar los documentos que sean necesarios para acreditar la personería;
 
-VI. Nombre y firma autógrafa del quejoso o denunciante.
+V. Narrar en forma expresa y clara, los hechos en que se basa la queja o denuncia y, de ser posible, los preceptos legales presuntamente violados,
+
+VI. Ofrecer y aportar las pruebas con que se cuenten, o en su caso, mencionar las que habrán de requerirse, cuando el promovente acredite que oportunamente las solicitó por escrito al órgano competente, y no le hubiesen sido entregadas. El denunciante deberá relacionar las pruebas con cada uno de los hechos; y
+
+VII. Tratándose de los partidos políticos, sólo se admitirán quejas o denuncias presentadas por escrito. En caso de que los representantes no acrediten su personería, la queja o denuncia se tendrá por no presentada.
+
+Ante la omisión de cualquiera de los requisitos señalados en las fracciones III a la VI de este artículo, el Secretario General prevendrá al promovente para que la subsane dentro del plazo improrrogable de tres días. De la misma forma lo prevendrá para que aclare su queja o denuncia, cuando ésta sea imprecisa, genérica o irregular.
+
+La queja o denuncia se tendrá como no interpuesta, cuando ésta no especifique el nombre del promoverte (sic), no incluya la firma autógrafa o huella digital o cuando no se hayan atendido en tiempo y forma, los requerimientos a que se refiere el párrafo anterior.
+
+En caso de incumplimiento a la fracción II del presente artículo, las ulteriores notificaciones surtirán efectos por estrados.
+
+Cuando la denuncia o queja sea interpuesta vía fax, telefónica, telegráfica o electrónica, el promovente deberá ratificarla en un término de tres días contados a partir de su presentación, en caso contrario se le tendrá por no interpuesta.
 
 ###### ARTÍCULO 341.
 
@@ -5131,9 +5241,25 @@ Presentada la queja o denuncia ante cualquier órgano del Instituto, se turnará
 
 Cuando la queja o la denuncia se presente en los Consejos Distritales, éstos de oficio deberán realizar las acciones necesarias para verificar hechos, impedir el ocultamiento, menoscabo o desaparición de pruebas o indicios, que sean el sustento de la misma.
 
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2011)</small>
+
 ###### ARTÍCULO 342.
 
-Recibida la queja o la denuncia por el Secretario General, informará inmediatamente a la Junta Estatal y la turnará para su trámite al Presidente de la Comisión que corresponda según su competencia, quien al recibirla determinará su admisión o desechamiento, lo cual tendrá que realizar en un termino máximo de tres días.
+Recibida la queja o la denuncia por el Secretario General, informará inmediatamente al Consejo General de su presentación y procederá a lo siguiente:
+
+I. Su revisión para determinar si debe prevenir al quejoso;
+
+II. Su análisis para radicarla, y proceder a la determinación que admita o deseche la misma;
+
+III. En su caso, determinar y solicitar las diligencias necesarias para el desarrollo de la Investigación.
+
+La Secretaría General contará con un plazo de hasta cinco días para emitir el acuerdo de radicación, contado a partir del día en que reciba la queja o denuncia. En caso de que se hubiese prevenido al quejoso, a partir de la recepción del desahogo de la prevención o de la fecha en la que termine el plazo sin que se hubiese desahogado la misma.
+
+El estudio de las causas de improcedencia o sobreseimiento de la queja o denuncia se realizará de oficio. En caso de advertir que se actualiza una de ellas, la Secretaría General elaborará un proyecto de resolución por el que se proponga el desechamiento o sobreseimiento, según corresponda.
+
+Si en el trascurso de la sustanciación de una investigación la Secretaría General advierte hechos distintos al objeto de ese procedimiento que puedan constituir distintas violaciones electorales, o la responsabilidad de actores diversos a los denunciados, podrá ordenar el inicio, de oficio, de un nuevo procedimiento de investigación.
+
+La Secretaría General llevará un registro de las quejas desechadas e informará de ello al Consejo.
 
 ###### ARTÍCULO 343.
 
@@ -5199,27 +5325,41 @@ El quejoso o denunciado podrá presentar pruebas supervenientes, siempre que se 
 
 Admitidas que sean, se dará vista a la contraparte para que en un plazo de tres días exprese lo que a su derecho convenga.
 
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2011)</small>
+
 ###### ARTÍCULO 349.
 
-Acordada la realización de una investigación para allegarse elementos de convicción que se estimen pertinentes para integrar el expediente respectivo, se comisionará al personal necesario para ese efecto, debiendo realizarse en forma imparcial, expedita, completa, exhaustiva y objetiva y dentro de un término de ocho días contados a partir del acuerdo de realización.
+Acordada la realización de una investigación para allegarse elementos de convicción que se estimen pertinentes para integrar el expediente respectivo, el Secretario General comisionará al personal necesario para ese efecto, debiendo realizarse en forma imparcial, expedita, completa, exhaustiva y objetiva y dentro de un término de ocho días contados a partir del acuerdo de realización.
+
+Si dentro del plazo fijado para la admisión de la queja o denuncia, la Secretaría General valora que deben dictarse medidas cautelares lo propondrá a la Comisión de Quejas y Denuncias para que esta resuelva, en un plazo de veinticuatro horas, lo conducente, a fin (sic) lograr la cesación de los actos o hechos que constituyan la infracción, evitar la producción de daños irreparables, la afectación de los principios que rigen los procesos electorales, o la vulneración de los bienes jurídicos tutelados por las disposiciones contenidas en esta Ley.
+
+El plazo para llevar a cabo la investigación no podrá exceder de cuarenta días, contados a partir del auto de admisión o del inicio de oficio del procedimiento. Dicho plazo podrá ser ampliado de manera excepcional por una sola vez, hasta por un periodo igual al antes señalado, mediante acuerdo debidamente motivado.
+
+El Secretario General podrá solicitar a las autoridades federales, estatales o municipales, según corresponda, los informes, certificaciones o el apoyo necesario para la realización de diligencias que coadyuven para indagar y verificar la certeza de los hechos denunciados. Con la misma finalidad, podrá requerir a las personas físicas y morales la entrega de informaciones y pruebas que sean necesarias.
+
+Las diligencias que se realicen en el curso de la investigación deberán ser efectuadas por la Secretaría.
+
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2011)</small>
 
 ###### ARTÍCULO 350.
 
-Agotado el desahogo de las pruebas y en su caso, llevada a cabo la investigación, se cerrará la instrucción y el Secretario General procederá a elaborar el proyecto de dictamen correspondiente, en un termino no mayor de ocho días, contados a partir del cierre de la instrucción, mismo que deberá de presentar a consideración de la Comisión respectiva, a mas tardar al día siguiente del vencimiento del termino antes señalado, para que se ponga a consideración de sus integrantes y se realicen las observaciones pertinentes.
+Concluido el desahogo de las pruebas y, en su caso, agotada la investigación, la Secretaría pondrá el expediente a la vista del quejoso y del denunciado para que, en un plazo común de cinco días, aleguen lo que a su derecho convenga. Transcurrido el plazo a que se refiere el párrafo anterior procederá a elaborar el proyecto de resolución correspondiente, en un término no mayor a diez días contados a partir del desahogo de la última vista. Vencido el plazo antes mencionado el Secretario podrá ampliarlo mediante acuerdo en el que se señalen las causas que lo motiven; la ampliación no podrá exceder de diez días.
 
-Recibido el dictamen, a más tardar al día siguiente de su recepción el Presidente de la Comisión respectiva, convocará a sesión por lo menos con cuarenta y ocho horas de anticipación, con la finalidad de que este órgano colegiado analice y valore su contenido e instruya a la Secretaría General sobre el sentido del proyecto de la resolución.
+El proyecto de resolución que formule la Secretaría será enviado a la Comisión de Quejas y Denuncias, dentro del término de cinco días, para su conocimiento y estudio.
 
-Revisado y discutido el proyecto de dictamen de ser el caso, será aprobado por los integrantes de la comisión con derecho a voto, y se regresará al Secretario General para que tome en consideración los argumentos vertidos en la sesión y se refuerce el proyecto de la resolución correspondiente.
+El presidente de la citada Comisión, a más tardar al día siguiente de la recepción del dictamen, convocará a los demás integrantes de la misma a sesión, la que deberá tener lugar no antes de veinticuatro horas de la fecha de la convocatoria, con la finalidad de que dicho órgano colegiado analice y valore el proyecto de resolución, atendiendo a lo siguiente:
 
-Si no se está de acuerdo con el sentido y los razonamientos que sustentan el proyecto de dictamen, se regresará a la Secretaría General, para que en un plazo de cinco días elabore el proyecto de dictamen conforme a la instrucción de la Comisión.
+a) Si el primer proyecto de la Secretaría propone el desechamiento o sobreseimiento de la investigación, o la imposición de una sanción y la Comisión está de acuerdo con el sentido del mismo, será turnado al Consejo General para su estudio y votación;
 
-Elaborado por la Secretaría General el proyecto de dictamen corregido, se turnará al Presidente de la Comisión respectiva, y éste convocará a sesión de Comisión cuando menos con veinticuatro horas de anticipación, remitiéndoles el mismo a los integrantes de la comisión, para su discusión y aprobación.
+b) En caso de no aprobarse el desechamiento o sobreseimiento, o la imposición de la sanción, la Comisión devolverá el proyecto al Secretario, exponiendo las razones de su devolución, o sugiriendo, en su caso, las diligencias que estime pertinentes para el perfeccionamiento de la investigación;
 
-Aprobado el dictamen y analizado y discutido el proyecto de resolución por la Comisión respectiva, se turnará al Presidente del Consejo General del Instituto para que lo ponga a consideración del Pleno del mismo en la siguiente sesión que se celebre.
+c) En un plazo no mayor a quince días después de la devolución del proyecto y las consideraciones al respecto, la Secretaría emitirá un nuevo proyecto de resolución, debiendo considerar los razonamientos y argumentos que formule la Comisión.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE SEPTIEMBRE DE 2011)</small>
 
 ###### ARTÍCULO 351.
 
-Las resoluciones que emita el Consejo General del Instituto determinarán:
+Una vez que el Presidente del Consejo General reciba el proyecto correspondiente, convocará a sesión, remitiendo copias del mismo a los integrantes de dicho órgano por lo menos tres días antes de la fecha de la sesión. Las resoluciones que emita el Consejo General del Instituto determinarán:
 
 I. Aprobar el proyecto de resolución en los términos que se presente;
 
@@ -5230,6 +5370,200 @@ III. Rechazar el proyecto de resolución y ordenar a la Secretaría General su d
 ###### ARTÍCULO 352.
 
 Los términos previstos en este capítulo podrán ser ampliados por el Consejo General del Instituto, siempre que se justifique plenamente la necesidad de su ampliación o la imposibilidad de concluir los trabajos dentro de los mismos plazos.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 30 DE SEPTIEMBRE DE 2011)</small>
+
+### CAPÍTULO III. DE LOS PROCEDIMIENTOS ESPECIALES SANCIONADORES
+
+> <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2011)</small>
+
+###### ARTÍCULO 353.
+
+Durante los procesos electorales, el Secretario General del Instituto Electoral instruirá el procedimiento especial sancionador, cuando se denuncie la comisión de conductas que:
+
+I. Violen las directrices concernientes a la propaganda institucional, establecidas en la Constitución Federal, la particular del Estado y esta Ley;
+
+II. Contravengan las normas sobre propaganda política o electoral establecidas para los partidos políticos en esta Ley, excepto en radio y televisión;
+
+III. Constituyan actos anticipados de proselitismo, precampaña o campaña;
+
+IV. Todas aquellas que violenten las normas que regulan los procesos electorales y no se tramiten por la vía del procedimiento ordinario sancionador.
+
+> <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2011)</small>
+
+###### ARTÍCULO 354.
+
+Cuando la conducta infractora esté relacionada con propaganda política o electoral en radio y televisión durante la realización de los procesos electorales locales, el Instituto Electoral lo hará del conocimiento inmediato del Instituto Federal Electoral.
+
+Los procedimientos relacionados con la difusión de propaganda en medios de comunicación que denigre o calumnie, sólo podrán iniciarse a instancia de parte.
+
+Las quejas y denuncias deberán cumplir con lo siguiente:
+
+I. Señalar el nombre del quejoso o denunciante, con firma autógrafa o huella digital;
+
+II. Señalar domicilio para oír y recibir notificaciones;
+
+III. Señalar, en su caso, el domicilio donde pueda ser emplazado el presunto infractor;
+
+IV. Acompañar los documentos necesarios para acreditar la personería;
+
+V. Narrar de forma clara los hechos en que se basa la denuncia;
+
+VI. Ofrecer y exhibir las pruebas con que cuente; o en su caso, mencionar las que habrán de requerirse, por no tener posibilidad de recabarlas; y
+
+VII. En su caso, las medidas cautelares que se soliciten.
+
+La denuncia será desechada de plano, sin prevención alguna, cuando no reúna los requisitos indicados, cuando los hechos denunciados no constituyan, de manera evidente, una violación en materia de propaganda político-electoral dentro de un proceso electivo o la materia de la denuncia resulte irreparable.
+
+En su caso, el Secretario General deberá admitir la denuncia dentro del plazo no mayor a setenta y dos horas posteriores a su presentación.
+
+> <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2011)</small>
+
+###### ARTÍCULO 355.
+
+Admitida la denuncia, el Secretario General, según sea el caso, emplazará al denunciante y al denunciado para que comparezcan a una audiencia de pruebas y alegatos, que tendrá lugar dentro del plazo de hasta setenta y dos horas posteriores a la admisión. En el escrito respectivo se le informará al denunciado de la infracción que se le imputa y se le correrá traslado de la denuncia con sus anexos.
+
+Si el Secretario considera necesaria la adopción de medidas cautelares, las propondrá a la Comisión de Quejas y Denuncias dentro del plazo antes señalado, en los términos establecidos en el artículo 349 de esta Ley.
+
+> <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2011)</small>
+
+###### ARTÍCULO 356.
+
+La audiencia de pruebas y alegatos se llevará a cabo de manera ininterrumpida, en forma oral, será conducida por el Secretario General o por la persona que el designe, debiéndose levantar constancia de su desarrollo.
+
+No se admitirán más pruebas que la documental y la técnica, esta última será desahogada siempre y cuando el oferente aporte los medios para tal efecto en el curso de la audiencia.
+
+La falta de asistencia de las partes no impedirá la celebración de la audiencia en el día y hora señalados, la que se desarrollará en los siguientes términos:
+
+I. Abierta la audiencia, se dará el uso de la voz al denunciante a fin de que, en una intervención no mayor de quince minutos, resuma el hecho que motivó la denuncia y haga una relación de las pruebas que a su juicio la corroboran. En caso de que el procedimiento se haya iniciado en forma oficiosa, el Secretario General actuará como denunciante;
+
+II. Acto seguido, se dará el uso de la voz al denunciado, a fin de que en un tiempo no mayor a treinta minutos, responda a la denuncia, ofreciendo las pruebas que a su juicio desvirtúen la imputación que se realiza;
+
+III. En el acto mismo se resolverá sobre la admisión de pruebas y acto seguido, se procederá a su desahogo, y
+
+IV. Concluido el desahogo de las pruebas, se concederá en forma sucesiva el uso de la voz al denunciante y al denunciado, o a sus representantes, quienes podrán alegar en forma escrita o verbal, por una sola vez y en tiempo no mayor a quince minutos cada uno.
+
+> <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2011)</small>
+
+###### ARTÍCULO 357.
+
+Celebrada la audiencia, el Secretario deberá formular un proyecto de resolución dentro de las cuarenta y ocho horas siguientes y lo presentará ante el Consejero Presidente, para que éste convoque a los miembros del Consejo General a una sesión que deberá celebrarse, a más tardar, dentro de las cuarenta y ocho horas posteriores a la entrega del citado proyecto.
+
+En la sesión respectiva el Consejo General conocerá y resolverá el proyecto de resolución correspondiente.
+
+En caso de comprobarse la infracción denunciada, el Consejo ordenará el retiro físico, o la inmediata suspensión de la distribución o difusión de propaganda violatoria de esta Ley, cualquiera que sea su forma, o medio de difusión, e impondrá las sanciones correspondientes, excepto cuando se tratare de propaganda política o electoral en radio y televisión, en cuyo caso lo hará del conocimiento al Instituto Federal Electoral en términos del artículo 368 párrafo 1, del Código Federal de Instituciones y Procedimientos Electorales.
+
+Asimismo, tomará todas las medidas necesarias para restaurar el orden jurídico violentado.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 30 DE SEPTIEMBRE DE 2011)</small>
+
+### CAPÍTULO IV. DEL PROCEDIMIENTO EN MATERIA DE QUEJAS SOBRE FINANCIAMIENTO Y GASTO DE LOS PARTIDOS POLÍTICOS
+
+> <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2011)</small>
+
+###### ARTÍCULO 358.
+
+Son órganos competentes para la tramitación y resolución de quejas sobre financiamiento y gasto de los partidos políticos:
+
+a) El Consejo General;
+
+b) La Unidad Técnica de Fiscalización;
+
+c) La Secretaría General.
+
+El órgano competente para tramitar, substanciar y formular el proyecto de resolución relativo a las quejas a que se refiere el párrafo anterior será la Unidad Técnica de Fiscalización; la cual podrá solicitar la colaboración de la Secretaría General del Instituto.
+
+Las notificaciones surtirán sus efectos el mismo día en que se realicen y podrán hacerse:
+
+a) De manera personal, directamente con el interesado en las oficinas de su representación ante el Consejo General o en su domicilio social;
+
+b) Por cédula que se dejará con cualquier persona que se encuentre en su domicilio, o bien,
+
+c) Por estrados.
+
+A falta de disposición expresa en el presente capítulo, serán de aplicación supletoria, en lo conducente, las reglas de sustanciación y resolución del procedimiento sancionador previsto en los capítulos segundo y tercero del presente título y en la Ley del Sistema de Medios de Impugnación en Materia Electoral del Estado.
+
+> <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2011)</small>
+
+###### ARTÍCULO 359.
+
+La Secretaría General recibirá las quejas a que se refiere el presente capítulo y las turnará de inmediato a la Unidad Técnica de Fiscalización.
+
+Las quejas podrán presentarse ante los órganos desconcentrados del Instituto, que las remitirán, dentro de las veinticuatro horas siguientes, al Secretario General para que éste proceda conforme a lo que establece el párrafo anterior.
+
+En caso de que la queja sea presentada ante un órgano desconcentrado del Instituto por el representante de un partido político, la Secretaría lo notificará a la representación del partido político denunciante ante el Consejo General del Instituto, enviándole copia del escrito por el que se presentó la queja.
+
+> <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2011)</small>
+
+###### ARTÍCULO 360.
+
+Toda queja deberá ser presentada por escrito, con firma autógrafa del denunciante, señalando domicilio para oír y recibir notificaciones; tratándose de las presentadas por los partidos políticos, el promovente deberá acreditar su personería.
+
+> <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2011)</small>
+
+###### ARTÍCULO 361.
+
+El escrito por el que se presente la queja deberá contener la narración de los hechos que la motivan y aportar los elementos de prueba o indicios con los que cuente el denunciante.
+
+> <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2011)</small>
+
+###### ARTÍCULO 362.
+
+Una vez que el titular de la Unidad Técnica de Fiscalización reciba el escrito de queja, procederá a registrarlo y lo comunicará a la Secretaría General.
+
+El titular de la Unidad Técnica podrá desechar la queja, de plano, en los siguientes casos:
+
+a) Si los hechos narrados resultan notoriamente frívolos o inverosímiles, o si siendo ciertos, carecen de sanción legal;
+
+b) Si la queja no cumple con los requisitos establecidos en los artículos 360 y 361 de la presente ley;
+
+c) Si la queja no se hace acompañar de elemento probatorio alguno, aun con valor indiciario, que respalde los hechos que denuncia; o
+
+d) Si por cualquier otro motivo la queja resulta notoriamente improcedente.
+
+El desechamiento de una queja, con fundamento en lo establecido en el párrafo anterior, no prejuzga sobre el fondo del asunto, y no se constituye en obstáculo para que la Unidad Técnica de Fiscalización pueda ejercer sus atribuciones legales.
+
+En caso de que la queja cumpla con los requisitos formales y no se presente alguna causa de desechamiento, el titular de la Unidad Técnica notificará al partido denunciado, del inicio del procedimiento respectivo, corriéndole traslado con el escrito de queja y los elementos probatorios presentados por el denunciante.
+
+El titular de la Unidad Técnica, a fin de allegarse de los elementos de convicción que estime pertinentes, podrá solicitar al Secretario General que instruya a los órganos ejecutivos, centrales o desconcentrados, del Instituto para que lleven a cabo las diligencias probatorias o recaben las pruebas necesarias.
+
+Con la misma finalidad solicitará al Secretario General que requiera a las autoridades competentes para que entreguen las pruebas que obren en su poder, o para que le permitan obtener la información que se encuentre reservada o protegida por el secreto fiscal, bancario o fiduciario.
+
+En este último caso deberá establecer medidas para el resguardo de la información que le sea entregada. Las autoridades están obligadas a responder tales requerimientos en un plazo máximo de quince días naturales, mismos que, por causa justificada, podrá ampliarse cinco días.
+
+También podrá requerir a los particulares, personas físicas y morales, le proporcionen la información y documentos necesarios para la investigación; los requeridos deberán responder en los plazos señalados en el artículo anterior.
+
+El titular de la Unidad Técnica de Fiscalización podrá ordenar, en el curso de la revisión que se practique de los informes anuales o de campaña de los partidos políticos, que se realicen las verificaciones a que haya lugar en relación con las quejas correspondientes a cada uno de dichos ejercicios; asimismo, podrá solicitar informe detallado al partido denunciado, y requerirle la entrega de información y documentación que juzgue necesaria.
+
+> <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2011)</small>
+
+###### ARTÍCULO 363.
+
+Una vez realizados los actos a que se refiere el artículo anterior, el titular de la Unidad emplazará al partido denunciado, corriéndole traslado con todos los elementos que integren el expediente respectivo, para que en un término de cinco días contados a partir de la fecha en que surta efecto la notificación, conteste por escrito.
+
+En la contestación al emplazamiento, el partido denunciado podrá exponer lo que a su derecho convenga, se referirá a los hechos mencionados en la denuncia o queja, y ofrezca y exhiba pruebas, con excepción de la testimonial y la de posiciones, debiendo relacionarlas con los hechos, y presentar las alegaciones que estime procedentes,
+
+Agotada la instrucción, el titular de la Unidad elaborará el proyecto de resolución correspondiente, para ser presentado a la consideración del Consejo General del Instituto en la siguiente sesión que celebre.
+
+Los proyectos de resolución deberán ser presentados al Consejo General en un término no mayor a sesenta días naturales, contados a partir de la recepción de la queja o denuncia por parte de la Unidad Técnica de Fiscalización, con excepción de aquellos asuntos en que por la naturaleza de las pruebas ofrecidas o de las investigaciones que se realicen, se justifique la ampliación del plazo indicado, informando al secretario.
+
+La Unidad Técnica de Fiscalización deberá informar al Consejo General del estado que guarden los procedimientos en trámite.
+
+> <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2011)</small>
+
+###### ARTÍCULO 364.
+
+El Consejo General, una vez que conozca el proyecto de resolución, procederá a imponer, en su caso, las sanciones correspondientes.
+
+Para fijar la sanción se tomarán en cuenta las circunstancias y la gravedad de la falta:
+
+I. Se entenderá por circunstancias el tiempo, modo y lugar en el que se produjo la falta;
+
+II. Para determinar la gravedad de la falta se analizará la importancia de la norma transgredida y los efectos que genere respecto de los objetivos y los bienes jurídicos tutelados por la norma; y
+
+III. En caso de reincidencia, se aplicará una sanción más severa.
+
+Si durante la substanciación de alguna queja se advierte la violación a ordenamientos legales ajenos a la competencia de la Unidad Técnica de Fiscalización, ésta solicitará al Secretario General que proceda a dar parte a las autoridades competentes.
 
 T R A N S I T O R I O S
 
@@ -5524,3 +5858,13 @@ Se derogan todas aquellas disposiciones que se opongan a este Decreto.
 ###### ARTÍCULO TERCERO.
 
 Remítase al Titular del Poder Ejecutivo para su promulgación y Publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 30 DE SEPTIEMBRE DE 2011.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. Los regidores de mayoría relativa por demarcación municipal a que alude el artículo Noveno Transitorio de la presente Ley, promulgado y publicado el Primero de Enero del año 2008, serán electos a partir del Proceso Electoral de Gobernador, Ayuntamientos y Diputados a celebrarse en el año 2015.
+
+Los Ayuntamientos que se elijan en el proceso electoral de 2012, se integraran con el número de regidores que se especifica en el artículo 97 de la Constitución Política Local vigente, mediante Representación Proporcional. Aplicándose para ello la fórmula de asignación de regidores prevista en los artículos 21 y 22 de la presente Ley.
+
+TERCERO. Remítase al Titular del Poder Ejecutivo para su promulgación y Publicación en el Periódico Oficial del Gobierno del Estado.
