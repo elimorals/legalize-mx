@@ -4,7 +4,7 @@ identifier: "MIC-reglamento-interior-de-la-administracion-publica-60873"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-04-21"
-last_updated: "2011-03-02"
+last_updated: "2011-09-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=60873&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 REGLAMENTO INTERIOR DE LA ADMINISTRACION PUBLICA CENTRALIZADA DEL ESTADO DE MICHOACAN
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE MARZO DE 2011.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE SEPTIEMBRE DE 2011.
 
 Reglamento publicado en la Cuarta Sección del Periódico Oficial del Estado de Michoacán, el lunes 21 de abril de 2008.
 
@@ -1137,7 +1137,7 @@ I. Conducir el análisis, definición y aplicación de la política a desarrolla
 
 II. Coadyuvar, en el ámbito de su competencia, con la Secretaría de Gobernación en materia de asuntos religiosos en el marco de las disposiciones constitucionales, reglamentarias y administrativas que son competencia del Poder Ejecutivo Federal;
 
-III. Elaborar y proponer al Subsecretario de Gobernación los convenios de participación y/o colaboración con otras dependencias, instituciones u organizaciones. involucradas en materia religiosa;
+III. Elaborar y proponer al Subsecretario de Gobernación los convenios de participación y/o colaboración con otras dependencias, instituciones u organizaciones, involucradas en materia religiosa;
 
 IV. Atender los asuntos que en materia religiosa competen al Gobierno del Estado dentro del marco legal, señalados en la Constitución Política de los Estados Unidos Mexicanos y en la Ley de Asociaciones Religiosas y Culto Público y su Reglamento;
 
@@ -3089,9 +3089,41 @@ XIV. Proponer esquemas de participación entre productores y los sectores públi
 
 XV. Coordinar con las autoridades municipales la planeación, creación y desarrollo de los centros de comercialización y abasto popular;
 
-XVI. Coordinar y coadyuvar con las autoridades competentes, acciones para evitar el acaparamiento, especulación e intermediarismo; y,
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2011)</small>
 
-XVII. Las demás que le señale el Secretario de Desarrollo Económico y otras disposiciones legales aplicables.
+XVI. Coordinar y coadyuvar con las autoridades competentes, acciones para evitar el acaparamiento, especulación e intermediarismo;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 30 DE SEPTIEMBRE DE 2011)</small>
+
+XVII. Emitir y suscribir las constancias y certificaciones de los documentos elaborados en ejercicio de las atribuciones señaladas para la Dirección, por el Reglamento y demás normativa aplicable;
+
+> <small>(ADICIONADA, P.O. 30 DE SEPTIEMBRE DE 2011)</small>
+
+XVIII. Imponer las sanciones de suspensión temporal o definitiva, según corresponda, a los oferentes de los Centros de Comercialización y Abasto Popular, de conformidad con el procedimiento establecido en la Reglamentación correspondiente;
+
+> <small>(ADICIONADA, P.O. 30 DE SEPTIEMBRE DE 2011)</small>
+
+XIX. Expedir, negar y revocar las autorizaciones para la explotación de los locales y espacios comerciales de los Centros de Comercialización y Abasto Popular, de conformidad con la normativa aplicable;
+
+> <small>(ADICIONADA, P.O. 30 DE SEPTIEMBRE DE 2011)</small>
+
+XX. Autorizar o negar a los oferentes los permisos para ofertar en número mayor y productos distintos a los autorizados en sus tarjetas de oferentes;
+
+> <small>(ADICIONADA, P.O. 30 DE SEPTIEMBRE DE 2011)</small>
+
+XXI. Establecer y vigilar los mecanismos que permitan que los oferentes de los Centros de Comercialización y Abasto Popular, cumplan en tiempo y forma con el pago correspondiente para la renovación de tarjetas, cuotas, cesión de derechos y mejoras a los mismos, así como de otros establecidos en el Programa de Lucha Contra la Carestía y sus Reglas de Operación y Reglamentación respectiva;
+
+> <small>(ADICIONADA, P.O. 30 DE SEPTIEMBRE DE 2011)</small>
+
+XXII. Implementar programas o acciones, a fin de garantizar y acercar el abasto de productos alimenticios básicos y perecederos a la población en caso de contingencia por desastres naturales en el Estado;
+
+> <small>(ADICIONADA, P.O. 30 DE SEPTIEMBRE DE 2011)</small>
+
+XXIII. Solicitar el auxilio de la fuerza pública, a fin de dar cumplimiento a las sanciones impuestas a los oferentes de los Centros de Comercialización y Abasto Popular; y,
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 30 DE SEPTIEMBRE DE 2011)</small>
+
+XXIV. Las demás que le señale el Secretario de Desarrollo Económico y otras disposiciones legales aplicables.
 
 ### CAPÍTULO CUARTO. DE LA DIRECCIÓN DE IMPULSO A LA CALIDAD
 
@@ -7510,3 +7542,9 @@ P.O. 2 DE MARZO DE 2011.
 Artículo Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
 
 Artículo Segundo. Se derogan las demás disposiciones administrativas en lo que se opongan al presente Decreto.
+
+P.O. 30 DE SEPTIEMBRE DE 2011.
+
+Artículo primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+Artículo segundo. Se derogan las demás disposiciones administrativas en lo que se opongan al presente Decreto.
