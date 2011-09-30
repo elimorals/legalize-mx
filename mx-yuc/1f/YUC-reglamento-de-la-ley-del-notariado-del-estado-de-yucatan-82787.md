@@ -4,7 +4,7 @@ identifier: "YUC-reglamento-de-la-ley-del-notariado-del-estado-de-yucatan-82787"
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-09-07"
-last_updated: "2011-09-07"
+last_updated: "2011-09-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=82787&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "YUC"
 ---
 # REGLAMENTO DE LA LEY DEL NOTARIADO DEL ESTADO DE YUCATAN
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 30 DE SEPTIEMBRE DE 2011 EN EL D.O. DEL ESTADO DE YUCATAN, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 REGLAMENTO DE LA LEY DEL NOTARIADO DEL ESTADO DE YUCATAN
 
 TEXTO ORIGINAL.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL DIARIO OFICIAL DEL 30 DE SEPTIEMBRE DE 2011.</small>
 
 Reglamento publicado en el Suplemento del Diario Oficial del Estado de Yucatán, el miércoles 7 de septiembre de 2011.
 
@@ -99,7 +99,7 @@ Para los efectos de la parte final del artículo 11 de la Ley, cuando la ley res
 
 ###### Artículo 9.
 
-Para los efectos de la parte final del primer párrafo del artículo 14 de la Ley, en caso de controversia, esta será resuelta por el Consejo, oyendo a los interesados.
+Para los efectos de la parte final del primer párrafo del artículo 14 de la Ley, en caso de controversia, ésta será resuelta por el Consejo, oyendo a los interesados.
 
 ### CAPÍTULO II. De los aspirantes a Notario
 
@@ -385,7 +385,7 @@ Para que pueda obtenerse la patente de Notario Suplente de una Notaría, el Aspi
 
 ###### Artículo 59.
 
-Antes de entrar en funciones el Notario Suplente deberá cumplir los requisitos señalados en los artículos 40, 44 Y 54 de este Reglamento, así como todos los que sean procedentes y que la Ley o el Reglamento le impongan a los Notarios Públicos titulares. En todo caso deberá hacer mención del carácter de suplente de su función.
+Antes de entrar en funciones el Notario Suplente deberá cumplir los requisitos señalados en los artículos 40, 44 y 54 de este Reglamento, así como todos los que sean procedentes y que la Ley o el Reglamento le impongan a los Notarios Públicos titulares. En todo caso deberá hacer mención del carácter de suplente de su función.
 
 ###### Artículo 60.
 
@@ -405,7 +405,7 @@ Cuando termine una suplencia, el Notario Público titular deberá informar al Po
 
 ###### Artículo 64.
 
-En los casos en que un Notario Público haya de ser sustituido por un fedatario titular de diversa Notaría Publica del Estado, el que sustituye tendrá las mismas atribuciones que el Notario Público sustituido, igualmente tendrá éstas respecto de los actos y escrituras públicas previamente autorizadas por el Notario Público sustituido, pero en todos los casos utilizará su propio sello y hará constar el carácter con el que actúa.
+En los casos en que un Notario Público haya de ser sustituido por un fedatario titular de diversa Notaría Pública del Estado, el que sustituye tendrá las mismas atribuciones que el Notario Público sustituido, igualmente tendrá éstas respecto de los actos y escrituras públicas previamente autorizadas por el Notario Público sustituido, pero en todos los casos utilizará su propio sello y hará constar el carácter con el que actúa.
 
 ### CAPÍTULO VI. De la suspensión y terminación de la función notarial
 
@@ -491,7 +491,7 @@ Los Notarios Públicos iniciarán sus tomos antes de la primera acta, asentando 
 
 ###### Artículo 76.
 
-El ultimo día de cada año los notarios públicos deberán asentar en su protocolo una constancia del cierre de año, que señale el número total de actas autorizadas, el número de actas pendientes de autorizar y el número de actas que no pasaron o que fueron inutilizadas, todo ello en el año de calendario que termina.
+El último día de cada año los notarios públicos deberán asentar en su protocolo una constancia del cierre de año, que señale el número total de actas autorizadas, el número de actas pendientes de autorizar y el número de actas que no pasaron o que fueron inutilizadas, todo ello en el año de calendario que termina.
 
 ###### Artículo 77.
 
@@ -527,7 +527,7 @@ Si para la redacción de un instrumento algún notario necesita dar fe de otro a
 
 Los folios donde consten las escrituras y actas y los libros, sus apéndices e índices deberán permanecer siempre en la notaría, excepto cuando el notario recabe firmas fuera de ella y en los casos previstos en la Ley.
 
-Si alguna autoridad competente ordena la inspección del algún instrumento, está se efectuará en la notaría o en el Archivo si en éste último se encontrare, ante la presencia del notario o del Director del Archivo, según el caso.
+Si alguna autoridad competente ordena la inspección del (sic) algún instrumento, ésta se efectuará en la notaría o en el Archivo si en éste último se encontrare, ante la presencia del notario o del Director del Archivo, según el caso.
 
 ###### Artículo 85.
 
@@ -553,7 +553,7 @@ I. Que las cubiertas o pastas sean duras, y
 
 II. Que en el Lomo y cubierta principal se señale el número de la Notaría, el Número de tomo y el número de libro.
 
-El apéndice se empastara en el número que sea necesario, debiendo identificarse todos, en caso de ser varios, como correspondientes a un mismo libro del protocolo, en la forma que previenen las fracciones anteriores con la salvedad de señalar el número de tomo y el número de libro al que pertenezcan. Los libros deberán estar empastados en un solo color.
+El apéndice se empastará en el número que sea necesario, debiendo identificarse todos, en caso de ser varios, como correspondientes a un mismo libro del protocolo, en la forma que previenen las fracciones anteriores con la salvedad de señalar el número de tomo y el número de libro al que pertenezcan. Los libros deberán estar empastados en un solo color.
 
 ###### Artículo 89.
 
@@ -693,7 +693,7 @@ XI. Firmarán los comparecientes o las personas que designen quienes no sepan o 
 
 XII. Los Notarios Públicos, en los casos de protestos, interpelaciones, requerimientos, notificaciones, fe de hechos y demás diligencias notariales de la misma índole, en las que se niegue a firmar la persona con quien se entienda la diligencia, harán constar esta negativa para los efectos de su autorización, sin que esta circunstancia le reste validez al acta, y
 
-XIII. Si los comparecientes quisieran hacer alguna adición o variación antes de que firme el Notario Público, se asentara sin dejar espacios en blanco, será suscrita por todos los comparecientes y el Notario Público pondrá su firma y su sello al pie de la adición o variación convenida.
+XIII. Si los comparecientes quisieran hacer alguna adición o variación antes de que firme el Notario Público, se asentará sin dejar espacios en blanco, será suscrita por todos los comparecientes y el Notario Público pondrá su firma y su sello al pie de la adición o variación convenida.
 
 ###### Artículo 111.
 
@@ -763,7 +763,7 @@ Cuando dicho título a que se refiere el artículo anterior, se exhiba al Notari
 
 ###### Artículo 127.
 
-Cuando alguna de las partes no pudiere firmar, designará a una persona para que lo haga en su nombre. En el acta notarial deberá expresarse los nombres y apellidos de las personas designadas para signar por aquellas que no pudieren o no supieren hacerlo, y éstas imprimirán la huella del dedo pulgar de su mana derecha, de ser posible, o en su defecto, de cualquier otro dedo, lo que hará constar el notario.
+Cuando alguna de las partes no pudiere firmar, designará a una persona para que lo haga en su nombre. En el acta notarial deberá expresarse los nombres y apellidos de las personas designadas para signar por aquellas que no pudieren o no supieren hacerlo, y éstas imprimirán la huella del dedo pulgar de su mano derecha, de ser posible, o en su defecto, de cualquier otro dedo, lo que hará constar el notario.
 
 ###### Artículo 128.
 
@@ -807,7 +807,7 @@ c) El número de páginas del testimonio con mención de las que integren el ap�
 
 III. Se salvarán las testaduras y entrerrenglonaduras de la manera prescrita para las escrituras;
 
-IV. El Notario deberá expedir el testimonio con su firma y sello y tramitará la inscripción del primero de ellos en el Registro que corresponda cuando el acto sea registrable y hubiere sido expensado para ello por sus clientes, en términos del artículo 107 Y 108 de la Ley;
+IV. El Notario deberá expedir el testimonio con su firma y sello y tramitará la inscripción del primero de ellos en el Registro que corresponda cuando el acto sea registrable y hubiere sido expensado para ello por sus clientes, en términos del artículo 107 y 108 de la Ley;
 
 V. Las hojas del testimonio tendrán las dimensiones de la hojas tamaño oficio, pero siempre en su parte utilizable llevarán a cada lado un margen de una octava parte de la hoja;
 
@@ -853,11 +853,11 @@ Cuando se expida un testimonio, se pondrá al margen del instrumento o en nota c
 
 Para los efectos del artículo 110 fracción I de la Ley, el notario podrá autorizar actos fuera de su protocolo en el que consten certificaciones, autenticaciones de firmas o ratificaciones, sin que el notario sea responsable de la validez o licitud de lo certificado o ratificado.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 30 DE SEPTIEMBRE DE 2011 EN EL D.O. DEL ESTADO DE YUCATAN, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA, ASÍ COMO EL ARCHIVO ANEXO.</small>
+> <small>(F. DE E., D.O. 30 DE SEPTIEMBRE DE 2011)</small>
 
 ###### Artículo 143.
 
-De todo acto fuera del protocolo, con excepción de los que se refiere la fracción II del artículo 110 de la Ley, que lleve a cabo el notario, se levantará acta que el notario autorizará con su firma y sello, para hacer constar los hechos que acontezcan en su presencia.
+De todo acto fuera del protocolo, con excepción de los que se refiere la fracción II del artículo 110 de la Ley, que lleve a cabo el notario, se levantará constancia que el notario autorizará con su firma y sello.
 
 ###### Artículo 144.
 
@@ -873,7 +873,7 @@ II. Si las personas con quienes se entienda la diligencia no quieren oírla (sic
 
 III. El intérprete, de ser necesario, será elegido por los notificados en caso de requerirse o por cualquiera de las partes en su omisión, y
 
-IV. El Notario autorizará el acta siempre y cuando haya firmado el solicitante de la diligencia y aun cuando no sea firmada par alguna de las partes interesadas. En los casos de protesto no será necesario que el Notario recabe la firma del protestado.
+IV. El Notario autorizará el acta siempre y cuando haya firmado el solicitante de la diligencia y aun cuando no sea firmada por alguna de las partes interesadas. En los casos de protesto no será necesario que el Notario recabe la firma del protestado.
 
 ###### Artículo 146.
 
@@ -881,7 +881,7 @@ Para los efectos de la fracción V del artículo 110 de la Ley, la prestación d
 
 ###### Artículo 147.
 
-Para los efectos de la fracción VI del artículo 110 de la Ley, la identificación de personas conocidas par el notario, se llevará a cabo levantando la certificación correspondiente, asentando todos los datos que el notario estime convenientes y necesarios para la debida identificación del interesado.
+Para los efectos de la fracción VI del artículo 110 de la Ley, la identificación de personas conocidas por el notario, se llevará a cabo levantando la certificación correspondiente, asentando todos los datos que el notario estime convenientes y necesarios para la debida identificación del interesado.
 
 ###### Artículo 148.
 
@@ -903,7 +903,7 @@ I. El notario hará el cotejo de la copia escrita, fotográfica, fotostática o 
 
 II. En la primera hoja de cada libro de registro de cotejos, el Notario asentará una leyenda de apertura en la que indicará su nombre, el número de la notaría a su cargo, la mención de ser libro de registro de cotejos, con indicación del número que le corresponda dentro de los de su clase, la fecha, su sello y firma. Al terminar cada hoja de este libro asentará su firma y su sello. Inmediatamente después del último asiento que tenga cabida en el libro, el Notario asentará una leyenda de cierre misma que firmará y sellará, en la que indicará la fecha en que éste se efectúe, el número de asientos realizados, con mención del número del primero y del último contenidos en el libro;
 
-III. Cada registro de cotejo deberá contener el número progresivo que le corresponda, la fecha en que se efectúe, el nombre del solicitante y de quien lo pida en su nombre, en su caso; el número de copias cotejadas de cada documento, el número de fojas de cada documento cotejado y un espacio para las observaciones que el notario juzgue oportuno anotar. Los números podrán anotarse en guarismos, No podrá dejarse espacio en blanco entre registros. Entre cada registro dentro de una misma página se imprimirá un línea de tinta indeleble que abarque todo lo ancho de aquella a fin de distinguir uno del otro; y,
+III. Cada registro de cotejo deberá contener el número progresivo que le corresponda, la fecha en que se efectúe, el nombre del solicitante y de quien lo pida en su nombre, en su caso; el número de copias cotejadas de cada documento, el número de fojas de cada documento cotejado y un espacio para las observaciones que el notario juzgue oportuno anotar. Los números podrán anotarse en guarismos, No podrá dejarse espacio en blanco entre registros. Entre cada registro dentro de una misma página se imprimirá una línea de tinta indeleble que abarque todo lo ancho de aquella a fin de distinguir uno del otro; y,
 
 IV. El Notario Público certificará con su sello y firma la o las copias cotejadas, haciendo constar en ellas que son fiel reproducción de su original que tuvo a la vista, el número de fojas de que consta, así como el número y fecha de registro que les corresponda.
 
@@ -1031,7 +1031,7 @@ Dicha identificación será suscrita por el Director del Archivo Notarial.
 
 ###### Artículo 170.
 
-Los interesados en obtener el nombramiento de escribano público, deberán solicitar al titular del Poder Ejecutivo del Estado, por conducto del Archivo Notarial, el examen de aptitud a que se refiere el artículo 120 de la Ley, y acreditar ante el Archivo Notarial, el cumplimiento de los requisitos establecidos en las fracciones I, II, III, IV Y VII del artículo 16 de la Ley.
+Los interesados en obtener el nombramiento de escribano público, deberán solicitar al titular del Poder Ejecutivo del Estado, por conducto del Archivo Notarial, el examen de aptitud a que se refiere el artículo 120 de la Ley, y acreditar ante el Archivo Notarial, el cumplimiento de los requisitos establecidos en las fracciones I, II, III, IV y VII del artículo 16 de la Ley.
 
 ###### Artículo 171.
 
@@ -1185,7 +1185,7 @@ Si del resultado de la visita apareciera alguna infracción, el visitador la pon
 
 ###### Artículo 195.
 
-Recibido por el Consejo de Notarios el ejemplar del acta a que se refiere el artículo anterior de este Reglamento, si hubiere alguna infracción se los (sic) hará saber al Fedatario Público visitado, fijándole el termino de tres días hábiles para que por escrito manifieste lo que a sus derechos convenga. El Consejo dentro de los cinco días hábiles siguiente (sic) emitirá el dictamen que corresponda y lo remitirá a la Consejería quien resolverá al respecto y lo comunicará al Fedatario Público, al Consejo de Notarios y al Director del Archivo Notarial. Si por la complejidad del asunto el Consejo de Notarios no pudiera emitir su dictamen, se lo comunicará a la Consejería para que ésta, le amplíe prudentemente el plazo para emitir su dictamen, prórroga que no podrá exceder de diez días hábiles.
+Recibido por el Consejo de Notarios el ejemplar del acta a que se refiere el artículo anterior de este Reglamento, si hubiere alguna infracción se los (sic) hará saber al Fedatario Público visitado, fijándole el término de tres días hábiles para que por escrito manifieste lo que a sus derechos convenga. El Consejo dentro de los cinco días hábiles siguiente (sic) emitirá el dictamen que corresponda y lo remitirá a la Consejería quien resolverá al respecto y lo comunicará al Fedatario Público, al Consejo de Notarios y al Director del Archivo Notarial. Si por la complejidad del asunto el Consejo de Notarios no pudiera emitir su dictamen, se lo comunicará a la Consejería para que ésta, le amplíe prudentemente el plazo para emitir su dictamen, prórroga que no podrá exceder de diez días hábiles.
 
 ###### Artículo 196.
 
@@ -1207,7 +1207,7 @@ Para auxiliar al Consejo en su facultad de conciliar, instruir y dictaminar sobr
 
 ###### Artículo 200.
 
-Para los efectos del artículo 140 fracción II de la Ley, el acto realizado por el Fedatario público del que se deriva la queja, deberá estar relacionado con el ejercicio de las funciones notariales o de los escribanos públicos en su caso; si el quejoso ignora estos datos, hará una descripción explicita de la actuación del fedatario público que haga posible identificar el acto motivo de la queja.
+Para los efectos del artículo 140 fracción II de la Ley, el acto realizado por el Fedatario público del que se deriva la queja, deberá estar relacionado con el ejercicio de las funciones notariales o de los escribanos públicos en su caso; si el quejoso ignora estos datos, hará una descripción explícita de la actuación del fedatario público que haga posible identificar el acto motivo de la queja.
 
 ###### Artículo 201.
 
