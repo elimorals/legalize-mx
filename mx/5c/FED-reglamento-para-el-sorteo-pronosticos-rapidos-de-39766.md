@@ -4,7 +4,7 @@ identifier: "FED-reglamento-para-el-sorteo-pronosticos-rapidos-de-39766"
 country: "mx"
 rank: "reglamento"
 publication_date: "1999-08-20"
-last_updated: "2010-01-29"
+last_updated: "2011-09-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=39766&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1998-12-03"
 
 REGLAMENTO PARA EL SORTEO PRONOSTICOS RAPIDOS DE PRONOSTICOS PARA LA ASISTENCIA PUBLICA
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 29 DE ENERO DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 30 DE SEPTIEMBRE DE 2011.
 
 Reglamento publicado en el Diario Oficial de la Federación, el viernes 20 de agosto de 1999.
 
@@ -61,7 +61,9 @@ El número de serie y/o el código de barras de cada boleto permitirá a las age
 
 Sólo se podrá participar en el sorteo mediante la adquisición de los boletos oficiales preimpresos o virtuales emitidos por Pronósticos.
 
-Dichos boletos serán puestos a disposición del público mayor a 18 (dieciocho) años previo pago del precio correspondiente a través de los Agentes autorizados de Pronósticos para la Asistencia Pública o de la página Web de la Entidad, cuya dirección es: www.pronosticos.gob.mx.
+> <small>(REFORMADO, D.O.F. 30 DE SEPTIEMBRE DE 2011)</small>
+
+Dichos boletos serán puestos a disposición del público mayor a 18 (dieciocho) años previo pago del precio correspondiente a través de los Comercializadores de Pronósticos para la Asistencia Pública o de la página web de la Entidad, cuya dirección es: www.pronosticos.gob.mx
 
 > <small>(REFORMADO, D.O.F. 20 DE MAYO DE 2009)</small>
 
@@ -113,25 +115,25 @@ Boleto Impreso:
 
 Los sorteos se realizarán mediante el uso de sistemas de cómputo que permiten por virtud de procesos aleatorios y de encriptación, la emisión de un tiraje de boletos que contienen de manera oculta (detrás de una película de seguridad desprendible) una o varias combinaciones o pronósticos (deportivos, numéricos, de símbolos o de figuras), existiendo dentro de dicho tiraje un cierto número de boletos cuya combinación o pronóstico resulta ser ganador de un determinado premio.
 
-> <small>(REFORMADO, D.O.F. 20 DE MAYO DE 2009)</small>
+> <small>(REFORMADO, D.O.F. 30 DE SEPTIEMBRE DE 2011)</small>
 
 ###### ARTICULO OCTAVO.
 
-Pronósticos facultará a sus agentes autorizados para recibir y captar la comercialización de pronósticos rápidos o “Raspaditos” mediante la venta de boletos impresos, o bien, mediante la venta de boletos virtuales a través de la página Web oficial de la Entidad, en combinación con el uso de terminales (dispositivos electrónicos asignados a los agentes autorizados) que, por lectura óptica, que reconozcan la validez de cada boleto impreso y activar en el sistema central de cómputo su participación en el sorteo correspondiente.
+Pronósticos facultará a sus Comercializadores para recibir y captar la comercialización de pronósticos rápidos o “Raspaditos” mediante la venta de boletos impresos, o bien, mediante la venta de boletos virtuales a través de la página web oficial de la Entidad, en combinación con el uso de terminales (dispositivos electrónicos asignados a los Comercializadores) que, por lectura óptica, que reconozcan la validez de cada boleto impreso y activar en el sistema central de cómputo su participación en el sorteo correspondiente.
 
-Contra el pago del precio respectivo, el boleto impreso, será entregado al concursante como comprobante de participación. Los agentes autorizados recibirán de los concursantes el pago del precio correspondiente y lo remitirán a Pronósticos en las condiciones y términos que éste les señale.
+Contra el pago del precio respectivo, el boleto impreso, será entregado al concursante como comprobante de participación. Los Comercializadores recibirán de los concursantes el pago del precio correspondiente y lo remitirán a Pronósticos en las condiciones y términos que éste les señale.
 
-> <small>(REFORMADO, D.O.F. 20 DE MAYO DE 2009)</small>
+> <small>(REFORMADO, D.O.F. 30 DE SEPTIEMBRE DE 2011)</small>
 
 ###### ARTICULO NOVENO.
 
-Pronósticos utilizará terminales (dispositivo electrónico asignado a sus agentes autorizados) para comprobar la validez de los boletos impresos reportados como vendidos por los Agentes.
+Pronósticos utilizará terminales (dispositivo electrónico asignado a sus Comercializadores) para comprobar la validez de los boletos impresos reportados como vendidos por los Comercializadores.
 
-> <small>(REFORMADO, D.O.F. 20 DE MAYO DE 2009)</small>
+> <small>(REFORMADO, D.O.F. 30 DE SEPTIEMBRE DE 2011)</small>
 
 ###### ARTICULO DECIMO.
 
-Para los efectos de estas disposiciones se entenderá por terminal (dispositivo electrónico) el aparato electrónico que la Entidad asigna a sus agentes autorizados, y cuya función consiste en captar los datos para la activación de los boletos preimpresos participantes y para validar los boletos preimpresos adquiridos por los concursantes y que resulten ser ganadores de algún premio, mediante la lectura óptica de los respectivos códigos de barras.
+Para los efectos de estas disposiciones se entenderá por terminal (dispositivo electrónico) el aparato electrónico que la Entidad asigna a sus Comercializadores, y cuya función consiste en captar los datos para la activación de los boletos preimpresos participantes y para validar los boletos preimpresos adquiridos por los concursantes y que resulten ser ganadores de algún premio, mediante la lectura óptica de los respectivos códigos de barras.
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 20 DE MAYO DE 2009)</small>
 
@@ -155,7 +157,9 @@ c) Cuando los módulos de almacenamiento no identifiquen la información requeri
 
 Las ventas captadas se distribuirán de la siguiente forma:
 
-Un 10% a los agentes como comisión por las ventas que realicen.
+> <small>(REFORMADO, D.O.F. 30 DE SEPTIEMBRE DE 2011)</small>
+
+Un 10% (diez por ciento) a los Comercializadores como comisión por las ventas que realicen.
 
 > <small>(REFORMADO, D.O.F. 20 DE MAYO DE 2009)</small>
 
@@ -241,15 +245,17 @@ Por último, una vez transcurridos los 60 (sesenta) días naturales, contados a 
 
 Concluida la vigencia del Sorteo, ante la presencia del Inspector designado por la Secretaría de Gobernación, de un representante designado por el Director General, un representante de la Subdirección General de Informática y otro de la Subdirección de Concursos y Sorteos, se levantará acta en la que se harán constar los antecedentes de éste, sus resultados y cualquier incidente que hubiese ocurrido durante la vigencia del mismo, misma que será firmada por los Servidores Públicos mencionados.
 
+> <small>(REFORMADO, D.O.F. 30 DE SEPTIEMBRE DE 2011)</small>
+
 ###### ARTICULO VIGESIMO TERCERO.
 
-Los agentes autorizados de Pronósticos atenderán fielmente el contenido de este Reglamento y demás normatividad emitida por Pronósticos. Las omisiones, errores o faltas imputables a los agentes autorizados o a su personal dependiente, por inobservancia o violación de las normas reglamentarias aplicables, no constituirán responsabilidad a cargo de Pronósticos.
+Los Comercializadores de Pronósticos atenderán fielmente el contenido de este reglamento y demás normatividad emitida por Pronósticos. Las omisiones, errores o faltas imputables a los Comercializadores o a su personal dependiente, por inobservancia o violación de las normas reglamentarias aplicables, no constituirán responsabilidad a cargo de Pronósticos.
 
-> <small>(REFORMADO, D.O.F. 20 DE MAYO DE 2009)</small>
+> <small>(REFORMADO, D.O.F. 30 DE SEPTIEMBRE DE 2011)</small>
 
 ###### ARTICULO VIGESIMO CUARTO.
 
-Es aplicable a los agentes autorizados de Pronósticos para efectuar la venta de boletos, el Reglamento publicado en el Diario Oficial de la Federación el 1 de agosto de 2006 en el que se establecen sus derechos, obligaciones y responsabilidades.
+Es aplicable a los Comercializadores de Pronósticos para efectuar la venta de los boletos, el Reglamento de Comercializadores vigente.
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 20 DE MAYO DE 2009)</small>
 
@@ -334,3 +340,9 @@ D.O.F. 29 DE ENERO DE 2010.
 PRIMERO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO.- Se derogan todas aquellas disposiciones que se contrapongan a las establecidas en el presente Decreto.
+
+D.O.F. 30 DE SEPTIEMBRE DE 2011.
+
+PRIMERO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Se derogan todas aquellas disposiciones que se contrapongan a las establecidas en el presente Acuerdo.
