@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-de-la-ley-de-las-comisiones-estatales-de-3450"
 country: "mx"
 rank: "reglamento"
 publication_date: "1979-02-28"
-last_updated: "1979-02-28"
+last_updated: "2011-09-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3450&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 REGLAMENTO DE LA LEY DE LAS COMISIONES ESTATALES DE SERVICIOS PUBLICOS DEL ESTADO DE BAJA CALIFORNIA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE SEPTIEMBRE DE 2011.
 
 Reglamento publicado en el Periódico Oficial del Estado de Baja California, el miércoles 28 de febrero de 1979.
 
@@ -31,9 +31,11 @@ ROBERTO DE LA MADRID ROMANDIA Gobernador Constitucional del Estado Libre y Sober
 
 REGLAMENTO DE LA LEY DE LAS COMISIONES ESTATALES DE SERVICIOS PUBLICOS DEL ESTADO DE BAJA CALIFORNIA.
 
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2011)</small>
+
 ###### ARTICULO 1o.
 
-El Consejo de Administración de cada una de las comisiones, se reunirá, cuando menos, una vez cada mes para celebrar sesiones ordinarias; pero cuando la urgencia o importancia de algún asunto lo requiera, el Presidente del Consejo, por decisión propia o a solicitud de cualquiera de los consejeros o del Director General, deberá convocar, por conducto del Secretario del Consejo, a sesión extraordinaria.
+El Consejo de Administración de cada una de las Comisiones, se reunirá cuando menos, una vez cada tres meses para celebrar las sesiones ordinarias; pero cuando la urgencia o importancia de algún asunto lo requiera, el Presidente del Consejo, por decisión propia o a solicitud de cualquiera de los consejeros o del Director General, deberá convocar, por conducto del Secretario del Consejo a sesión extraordinaria.
 
 ###### ARTICULO 2o.
 
@@ -176,3 +178,9 @@ EL SECRETARIO GRAL. DE GOBIERNO.
 C. ARMANDO GALLEGO MORENO.
 
 (Firmado)
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 30 DE SEPTIEMBRE DE 2011.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
