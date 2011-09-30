@@ -4,7 +4,7 @@ identifier: "FED-reglamento-del-sorteo-gana-gato-de-pronosticos-para-la-52019"
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-10-23"
-last_updated: "2010-01-29"
+last_updated: "2011-09-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52019&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2006-04-18"
 
 REGLAMENTO DEL SORTEO GANA GATO DE PRONOSTICOS PARA LA ASISTENCIA PUBLICA
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 29 DE ENERO DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 30 DE SEPTIEMBRE DE 2011.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el lunes 23 de octubre de 2006.
 
@@ -39,7 +39,9 @@ El presente reglamento tiene por objeto regular el sorteo Gana Gato de conformid
 
 Para los efectos de este reglamento, se entenderá por:
 
-I. Agente autorizado.- La persona física o moral que haya celebrado contrato de comisión mercantil con Pronósticos y cuya función consistirá en captar las ventas de las participaciones en el sorteo Gana Gato en la forma y términos señalados en el presente reglamento. También se entenderán como agentes autorizados a los corredores y terceros que hayan celebrado un contrato de comisión mercantil con Pronósticos.
+> <small>(REFORMADA, D.O.F. 30 DE SEPTIEMBRE DE 2011)</small>
+
+I. Comercializador.- La persona física o moral que haya celebrado contrato con Pronósticos para aceptar quinielas del público en la forma y términos señalados en las disposiciones reglamentarias.
 
 II. Boleto.- Documento o registro electrónico autorizado que acredita al portador o titular el derecho de participar en el sorteo y garantiza sus derechos, según sea el caso, los cuales deberán estar impresos en el mismo documento o bien contenidos en el sistema en donde se resguarden los registros de apuestas.
 
@@ -57,17 +59,23 @@ VIII. Selección de ganadores.- Es el evento mediante el cual se determinan en c
 
 IX. Sorteo.- Actividad en la que el poseedor o titular de un boleto, mediante la selección previa de sus números, obtienen el derecho a participar en un procedimiento previamente estipulado y aprobado por la Secretaría de Gobernación, conforme al cual se determinan al azar números, que generan uno o varios ganadores de un premio.
 
-X. Terminal.- Aparato cuya función consiste en captar los datos de la participación hecha por el concursante.
+> <small>(REFORMADA, D.O.F. 30 DE SEPTIEMBRE DE 2011)</small>
+
+X. Terminal.- Cualquier dispositivo de punto de venta que se utilice para la comercialización de concursos, sorteos, productos y servicios que ofrece Pronósticos.
 
 XI. Volante.- El documento que contiene casillas con los números posibles de selección para el sorteo, en donde el participante anota sus preferencias.
 
 ### Capítulo II. De los procedimientos para participar
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 30 DE SEPTIEMBRE DE 2011)</small>
+
 ###### Artículo 3o.
 
-Sólo se podrá participar en el sorteo Gana Gato, que en lo sucesivo también se denominará “sorteo”, utilizando los volantes oficiales emitidos por Pronósticos para ser leídos mediante las terminales aprobadas por Pronósticos o por dictado del participante al agente, o si el participante solicita una selección automática y aleatoria efectuada por la terminal (Gatomático).
+Sólo se podrá participar en el sorteo Gana Gato, que en lo sucesivo también se denominará “sorteo”, utilizando los volantes oficiales emitidos por Pronósticos para ser leídos mediante las terminales aprobadas por Pronósticos o por dictado del participante al Comercializador, o si el participante solicita una selección automática y aleatoria efectuada por la terminal (Gatomático).
 
-Los agentes autorizados de Pronósticos proporcionarán estas opciones a todo posible participante.
+> <small>(REFORMADO, D.O.F. 30 DE SEPTIEMBRE DE 2011)</small>
+
+Los Comercializadores de Pronósticos proporcionarán estas opciones a todo posible participante.
 
 Pronósticos podrá definir otras modalidades y conductos de venta en medios de comunicación electrónica, transcribiendo los datos de las combinaciones vendidas en el Registro de Apuestas.
 
@@ -77,11 +85,15 @@ En el caso que el participante opte por utilizar el volante que emite Pronóstic
 
 En el volante habrá impreso al centro de cada participación, un comodín que permitirá formar líneas rectas al cruzarlo.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 30 DE SEPTIEMBRE DE 2011)</small>
+
 ###### Artículo 5o.
 
-Pronósticos podrá facultar a sus agentes autorizados para recibir y captar la venta del sorteo mediante el uso de terminales que:
+Pronósticos podrá facultar a sus Comercializadores para recibir y captar la venta del sorteo mediante el uso de terminales que:
 
-a) Por lectura óptica del volante llenado por el participante indicando su selección de números en las casillas o mediante la digitación que haga el agente autorizado de estos datos en la terminal, o bien si el participante requiere una selección automática y aleatoria efectuada por la terminal (Gatomático), ésta imprima, numere y expida el boleto que, contra su pago será entregado al participante como comprobante de su participación.
+> <small>(REFORMADO, D.O.F. 30 DE SEPTIEMBRE DE 2011)</small>
+
+a) Por lectura óptica del volante llenado por el participante indicando su selección de números en las casillas o mediante la digitación que haga el Comercializador de estos datos en la terminal, o bien si el participante requiere una selección automática y aleatoria efectuada por la terminal (Gatomático), ésta imprima, numere y expida el boleto que, contra su pago será entregado al participante como comprobante de su participación.
 
 b) En un proceso simultáneo:
 
@@ -89,9 +101,13 @@ b.1) Al estar conectada la terminal a un computador central, transmita y grabe e
 
 b.2) Al no estar conectada dicha terminal al computador central, cuenta con un dispositivo de almacenamiento que registra las combinaciones vendidas al público para su transcripción posterior en el Registro de Apuestas.
 
-Así mismo, Pronósticos podrá facultar a sus agentes autorizados para recibir y captar la venta del sorteo por medios de comunicación electrónica, en los términos del contrato de comisión mercantil que tengan para tal efecto, transcribiendo los datos de las combinaciones vendidas en el Registro de Apuestas.
+> <small>(REFORMADO, D.O.F. 30 DE SEPTIEMBRE DE 2011)</small>
 
-Los agentes autorizados recibirán de los participantes el pago del precio correspondiente y lo remitirá a Pronósticos en las condiciones y términos que éste señale.
+Asimismo, Pronósticos podrá facultar a sus Comercializadores para recibir y captar la venta del sorteo por medios de comunicación electrónica, en los términos del contrato que tengan para tal efecto, transcribiendo los datos de las combinaciones vendidas en el Registro de Apuestas.
+
+> <small>(REFORMADO, D.O.F. 30 DE SEPTIEMBRE DE 2011)</small>
+
+Los Comercializadores recibirán de los participantes el pago del precio correspondiente y lo remitirá a Pronósticos en las condiciones y términos que éste señale.
 
 ###### Artículo 6o.
 
@@ -117,7 +133,9 @@ b.4) Cuando por causa de fuerza mayor o caso fortuito debidamente comprobados, s
 
 El tenedor del boleto que no haya sido transcrito en los términos mencionados:
 
-a) Tendrá derecho a la devolución del importe pagado contra entrega del boleto al agente autorizado que lo hubiera vendido, o presentándolo en las oficinas generales de Pronósticos.
+> <small>(REFORMADO, D.O.F. 30 DE SEPTIEMBRE DE 2011)</small>
+
+a) Tendrá derecho a la devolución del importe pagado contra entrega del boleto al Comercializador que lo hubiera vendido, o presentándolo en las oficinas generales de Pronósticos.
 
 ###### Artículo 8o.
 
@@ -177,7 +195,9 @@ Se considera fondo de cada sorteo, el valor conjunto de todas las selecciones de
 
 Dicho fondo se aplicará como sigue:
 
-Hasta el 10% a los agentes autorizados como comisión por las ventas que realicen, en términos del contrato de comisión mercantil celebrado entre ellos y Pronósticos.
+> <small>(REFORMADO, D.O.F. 30 DE SEPTIEMBRE DE 2011)</small>
+
+Hasta el 10% (diez por ciento) para los Comercializadores, como retribución por las ventas que realicen.
 
 Un mínimo del 50% destinado a premiación de los participantes ganadores.
 
@@ -259,7 +279,9 @@ A partir del siguiente día hábil a la fecha de celebración del sorteo corresp
 
 El pago se efectuará contra la presentación y entrega material del boleto correspondiente a la combinación que hubiere resultado ganadora. Al efectuar el pago se descontará y retendrá el importe de los impuestos que fijen las leyes respectivas.
 
-Los tenedores de boletos premiados podrán cobrar su importe ante cualquier agente autorizado, siempre que su monto no exceda la suma que autorice Pronósticos.
+> <small>(REFORMADO, D.O.F. 30 DE SEPTIEMBRE DE 2011)</small>
+
+Los tenedores de boletos premiados podrán cobrar su importe ante cualquier Comercializador, siempre que su monto no exceda la suma que autorice Pronósticos.
 
 Cualquiera que sea el importe del premio podrán hacerlo efectivo en las oficinas generales de Pronósticos o en las instituciones u organismos que señale y que se harán del conocimiento público a través de los medios de comunicación que determine el Organismo.
 
@@ -299,13 +321,17 @@ Las resoluciones se tomarán por mayoría de votos de los integrantes de la Comi
 
 Si alguna o algunas de las reclamaciones se consideraron procedentes, la Comisión Dictaminadora de Reclamaciones acordará el pago que proceda.
 
+> <small>(REFORMADO, D.O.F. 30 DE SEPTIEMBRE DE 2011)</small>
+
 ###### Artículo 27o.
 
-Los agentes autorizados de Pronósticos atenderán fielmente el contenido de este reglamento y demás normatividad emitida por Pronósticos. Las omisiones, errores o faltas imputables a los agentes autorizados o a su personal dependiente, por inobservancia o violación de las normas reglamentarias aplicables, no constituirán responsabilidad a cargo de Pronósticos.
+Los Comercializadores de Pronósticos atenderán fielmente el contenido de este reglamento y demás normatividad emitida por Pronósticos. Las omisiones, errores o faltas imputables a los Comercializadores o a su personal dependiente, por inobservancia o violación de las normas reglamentarias aplicables, no constituirán responsabilidad a cargo de Pronósticos.
+
+> <small>(REFORMADO, D.O.F. 30 DE SEPTIEMBRE DE 2011)</small>
 
 ###### Artículo 28o.
 
-Es aplicable a los agentes autorizados por Pronósticos para efectuar la venta de sus boletos, el reglamento publicado en el Diario Oficial de la Federación de fecha 25 de mayo de 1978, en el que se establecen sus derechos, obligaciones y responsabilidades.
+Es aplicable a los Comercializadores de Pronósticos para efectuar la venta de los boletos, el Reglamento de Comercializadores vigente.
 
 ## TRANSITORIOS
 
@@ -334,3 +360,9 @@ D.O.F. 29 DE ENERO DE 2010.
 PRIMERO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO.- Se derogan todas aquellas disposiciones que se contrapongan a las establecidas en el presente Decreto.
+
+D.O.F. 30 DE SEPTIEMBRE DE 2011.
+
+PRIMERO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Se derogan todas aquellas disposiciones que se contrapongan a las establecidas en el presente Acuerdo.
