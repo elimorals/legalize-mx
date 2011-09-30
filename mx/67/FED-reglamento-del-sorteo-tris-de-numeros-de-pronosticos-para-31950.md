@@ -4,7 +4,7 @@ identifier: "FED-reglamento-del-sorteo-tris-de-numeros-de-pronosticos-para-31950
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-06-18"
-last_updated: "2010-01-29"
+last_updated: "2011-09-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=31950&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2003-05-19"
 
 REGLAMENTO DEL SORTEO TRIS DE NUMEROS DE PRONOSTICOS PARA LA ASISTENCIA PUBLICA
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 29 DE ENERO DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 30 DE SEPTIEMBRE DE 2011.
 
 Reglamento publicado en el Diario Oficial de la Federación, el miércoles 18 de junio de 2003.
 
@@ -41,17 +41,19 @@ El presente reglamento tiene por objeto regular el sorteo Tris de conformidad co
 
 El sorteo Tris de números consiste en la selección o pronóstico que haga el participante de cinco dígitos formando un número determinado del 00000 al 99999, mediante el pago del precio correspondiente, y que le dará derecho a participar en el sorteo respectivo y a obtener, en el supuesto de que el número sorteado corresponda a la selección que hubiere hecho, premios en efectivo en los términos de este Reglamento.
 
-> <small>(REFORMADO, D.O.F. 11 DE JUNIO DE 2004)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 30 DE SEPTIEMBRE DE 2011)</small>
 
 ###### Artículo 3o.
 
-Para los efectos de este reglamento, se entenderá por:
+Para los efectos de este Reglamento, se entenderá por:
 
-1.- Agente autorizado.- La persona física o moral que haya celebrado contrato de comisión mercantil con Pronósticos y cuya función consistirá en aceptar quinielas del público en la forma y términos señalados en las disposiciones reglamentarias.
+> <small>(REFORMADO, D.O.F. 30 DE SEPTIEMBRE DE 2011)</small>
 
-> <small>(REFORMADO, D.O.F. 8 DE SEPTIEMBRE DE 2006)</small>
+1.- Comercializadores.- La persona física o moral que haya celebrado contrato con Pronósticos para aceptar quinielas del público en la forma y términos señalados en las disposiciones reglamentarias.
 
-2.- Terminal.- Aparato electrónico cuya función consiste en captar los datos de la selección de números hecha por el participante, bien sea por solicitud del mismo en una asignación automática de ellos, por la lectura óptica del volante o por la digitación de los datos, para ser transmitidos al computador central para el registro de las participaciones, y expedir los boletos que comprueban la participación en el sorteo. Pronósticos podrá definir otras modalidades y conductos de venta transmitiendo los datos de las combinaciones vendidas al Registro General de combinaciones participantes para un sorteo determinado, previa verificación de que cumplen con los requisitos establecidos en este reglamento.
+> <small>(REFORMADO, D.O.F. 30 DE SEPTIEMBRE DE 2011)</small>
+
+2.- Terminal.- Cualquier dispositivo de punto de venta que se utilice para la comercialización de concursos, sorteos, productos y servicios que ofrece Pronósticos.
 
 > <small>(REFORMADO, D.O.F. 8 DE SEPTIEMBRE DE 2006)</small>
 
@@ -131,25 +133,33 @@ Con la misma selección de dígitos que haga el participante, podrá participar 
 
 ### Capítulo II. Procedimiento para participar
 
-> <small>(REFORMADO, D.O.F. 8 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADO, D.O.F. 30 DE SEPTIEMBRE DE 2011)</small>
 
 ###### Artículo 6o.
 
-Se podrá participar en el sorteo, utilizando los volantes oficiales emitidos por Pronósticos, por dictado del participante al agente, a través de una selección automática y aleatoria efectuada por la terminal (Trismático), o por cualquier otro medio o dispositivo electrónico autorizado por Pronósticos.
+Se podrá participar en el sorteo, utilizando los volantes oficiales emitidos por Pronósticos, por dictado del participante al Comercializador, a través de una selección automática y aleatoria efectuada por la terminal (Trismático), o por cualquier otro medio o dispositivo electrónico autorizado por Pronósticos.
 
-> <small>(REFORMADO, D.O.F. 8 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 30 DE SEPTIEMBRE DE 2011)</small>
 
 ###### Artículo 7o.
 
-Pronósticos podrá facultar a sus agentes autorizados para registrar participaciones y captar la venta de Tris mediante el uso de:
+Pronósticos podrá facultar a sus Comercializadores para registrar participaciones y captar la venta de Tris mediante el uso de:
 
-a) Terminales que por lectura óptica del volante llenado por el participante indicando su selección de números, mediante la digitación que haga el agente autorizado de estos datos en la terminal, o bien si el participante requiere una selección automática y aleatoria efectuada por la terminal (Trismático), ésta imprima, numere y expida el boleto que, contra su pago será entregado al participante como comprobante de su participación, quedando almacenado el registro electrónico correspondiente en el sistema central de captación de transacciones en línea.
+> <small>(REFORMADO, D.O.F. 30 DE SEPTIEMBRE DE 2011)</small>
+
+a) Terminales que por lectura óptica del volante llenado por el participante indicando su selección de números, mediante la digitación que haga el Comercializador de estos datos en la terminal, o bien si el participante requiere una selección automática y aleatoria efectuada por la terminal (Trismático), ésta imprima, numere y expida el boleto que, contra su pago será entregado al participante como comprobante de su participación, quedando almacenado el registro electrónico correspondiente en el sistema central de captación de transacciones en línea.
+
+> <small>(REFORMADO, D.O.F. 8 DE SEPTIEMBRE DE 2006)</small>
 
 b) Medios electrónicos enlazados al sistema central de captación de transacciones en línea que permiten transmitir las participaciones al computador central en el cual queda almacenado el registro electrónico correspondiente.
 
-Pronósticos podrá facultar a sus agentes autorizados para recibir y captar la venta del sorteo por otros medios de comunicación electrónica, en los términos del contrato de comisión mercantil que tengan para tal efecto, transmitiendo los datos de las participaciones vendidas al sistema central de captación de transacciones en línea.
+> <small>(REFORMADO, D.O.F. 30 DE SEPTIEMBRE DE 2011)</small>
 
-Los agentes autorizados recibirán de los participantes el pago del precio correspondiente y lo remitirá a Pronósticos en las condiciones y términos que Pronósticos le señale en el contrato de comisión mercantil y en el Reglamento de Agentes.
+Pronósticos podrá facultar a sus Comercializadores para recibir y captar la venta del sorteo por otros medios de comunicación electrónica, en los términos del contrato que tengan para tal efecto, transmitiendo los datos de las participaciones vendidas al sistema central de captación de transacciones en línea.
+
+> <small>(REFORMADO, D.O.F. 30 DE SEPTIEMBRE DE 2011)</small>
+
+Los Comercializadores recibirán de los participantes el pago del precio correspondiente y lo remitirán a Pronósticos en las condiciones y términos establecidos en el contrato y en el Reglamento de Comercializadores.
 
 ###### Artículo 8o.
 
@@ -191,9 +201,11 @@ VII.- Caducidad del boleto: 60 días naturales contados a partir del día siguie
 
 Para mantener una distribución razonable del sorteo, Pronósticos podrá limitar temporalmente la aceptación de selecciones de números.
 
+> <small>(REFORMADO, D.O.F. 30 DE SEPTIEMBRE DE 2011)</small>
+
 ###### Artículo 14o.
 
-El agente autorizado remitirá a las oficinas generales de Pronósticos, por los medios y conductos que éste apruebe y dentro del plazo que fije, el importe de los Tris de Números vendidos.
+El Comercializador remitirá a las oficinas generales de Pronósticos, por los medios y conductos que éste apruebe y dentro del plazo que fije, el importe de los Tris de Números vendidos.
 
 ### Capítulo III. Del sorteo
 
@@ -301,7 +313,9 @@ Se considera fondo de cada sorteo el valor conjunto de todas las participaciones
 
 Dicho fondo se aplicará como sigue:
 
-Hasta el 10% a los agentes autorizados como comisión por las ventas que realicen, en términos del contrato de comisión mercantil celebrado entre ellos y Pronósticos.
+> <small>(REFORMADO, D.O.F. 30 DE SEPTIEMBRE DE 2011)</small>
+
+Hasta el 10% (diez por ciento) para los Comercializadores, como retribución por las ventas que realicen.
 
 El monto destinado a premiación para los participantes ganadores, se determinará conforme al artículo 19o.del presente Reglamento.
 
@@ -325,15 +339,17 @@ Las resoluciones se tomarán por mayoría de votos de los integrantes de la Comi
 
 Si alguna o algunas de las reclamaciones se consideraron procedentes, la Comisión Dictaminadora de Reclamaciones acordará el pago que proceda.
 
+> <small>(REFORMADO, D.O.F. 30 DE SEPTIEMBRE DE 2011)</small>
+
 ###### Artículo 23o.
 
-Los agentes autorizados de Pronósticos atenderán fielmente el contenido de este reglamento y demás normatividad emitida por Pronósticos. Las omisiones, errores o faltas imputables a los agentes autorizados o a su personal dependiente, por inobservancia o violación de las normas reglamentarias aplicables, no constituirán responsabilidad a cargo de Pronósticos.
+Los Comercializadores de Pronósticos atenderán fielmente el contenido de este reglamento y demás normatividad emitida por Pronósticos. Las omisiones, errores o faltas imputables a los Comercializadores o a su personal dependiente, por inobservancia o violación de las normas reglamentarias aplicables, no constituirán responsabilidad a cargo de Pronósticos.
 
-> <small>(REFORMADO, D.O.F. 31 DE AGOSTO DE 2007)</small>
+> <small>(REFORMADO, D.O.F. 30 DE SEPTIEMBRE DE 2011)</small>
 
 ###### Artículo 24o.
 
-Es aplicable a los agentes autorizados por Pronósticos para efectuar la venta de sus boletos el Reglamento de Agentes vigente.
+Es aplicable a los Comercializadores de Pronósticos para efectuar la venta de sus boletos el Reglamento de Comercializadores vigente.
 
 ### Capítulo VI. Del pago de premios
 
@@ -343,7 +359,9 @@ A partir del siguiente día hábil a la fecha de celebración del sorteo corresp
 
 El pago se efectuará contra la presentación y entrega material del boleto correspondiente a la selección que hubiere resultado ganadora. Al efectuar el pago se descontará y retendrá el importe de los impuestos que fijen las leyes respectivas.
 
-Los tenedores de boletos premiados podrán cobrar su importe ante cualquier agente autorizado, siempre que su monto no exceda la suma que autorice Pronósticos.
+> <small>(REFORMADO, D.O.F. 30 DE SEPTIEMBRE DE 2011)</small>
+
+Los tenedores de boletos premiados podrán cobrar su importe ante cualquier Comercializador, siempre que su monto no exceda la suma que autorice Pronósticos.
 
 Cualquiera que sea el importe del premio podrán hacerlo efectivo en las oficinas generales de Pronósticos o en las Instituciones u Organismos que señale y que se harán del conocimiento del público.
 
@@ -438,3 +456,9 @@ D.O.F. 29 DE ENERO DE 2010.
 PRIMERO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO.- Se derogan todas aquellas disposiciones que se contrapongan a las establecidas en el presente Decreto.
+
+D.O.F. 30 DE SEPTIEMBRE DE 2011.
+
+PRIMERO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Se derogan todas aquellas disposiciones que se contrapongan a las establecidas en el presente Acuerdo.
