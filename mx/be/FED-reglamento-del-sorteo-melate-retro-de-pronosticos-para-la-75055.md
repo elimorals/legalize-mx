@@ -4,7 +4,7 @@ identifier: "FED-reglamento-del-sorteo-melate-retro-de-pronosticos-para-la-75055
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-05-28"
-last_updated: "2010-05-28"
+last_updated: "2011-09-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=75055&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2010-05-11"
 
 REGLAMENTO DEL SORTEO MELATE RETRO DE PRONOSTICOS PARA LA ASISTENCIA PUBLICA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 30 DE SEPTIEMBRE DE 2011.
 
 Reglamento publicado en la Segunda Sección del Diario Oficial de la Federación, el viernes 28 de mayo de 2010.
 
@@ -49,7 +49,9 @@ El presente Reglamento tiene por objeto regular la operación del Sorteo MelateR
 
 Para los efectos de este Reglamento, se entenderá por:
 
-I. Agente Autorizado: La persona física o moral que haya celebrado contrato de comisión mercantil con Pronósticos para la Asistencia Pública, y cuya función consistirá en aceptar las participaciones del público en la forma y términos señalados en este reglamento;
+> <small>(REFORMADA, D.O.F. 30 DE SEPTIEMBRE DE 2011)</small>
+
+I. Comercializador: La persona física o moral que haya celebrado contrato con Pronósticos para aceptar quinielas del público en la forma y términos señalados en las disposiciones reglamentarias.
 
 II. Boleto: Documento o registro electrónico que acredita al portador o titular del derecho a participar en el sorteo, en el que se plasma la participación y que acredita el derecho de participar en el sorteo;
 
@@ -79,7 +81,9 @@ XIV. Selección de ganadores.- Es el evento mediante el cual, en cada sorteo se 
 
 XV. Sistema de Cómputo Central: Sistema de Cómputo utilizado para operar los Concursos y Sorteos en Línea de Pronósticos, que registra y totaliza las transacciones generadas en el Sorteo Melate Retro;
 
-XVI. Terminal.- Aparato electrónico cuya función consiste en captar los datos de la selección de números hecha por el participante, bien sea por solicitud del mismo en una asignación vía Melático Retro, por la lectura óptica del volante o por la digitación de los datos;
+> <small>(REFORMADA, D.O.F. 30 DE SEPTIEMBRE DE 2011)</small>
+
+XVI. Terminal.- Cualquier dispositivo de punto de venta que se utilice para la comercialización de concursos, sorteos, productos y servicios que ofrece Pronósticos.
 
 XVII. Volante: El documento que contiene los 39 números a seleccionar, con los cuales es posible participar en el Sorteo Melate Retro, en el cual el concursante anota su pronóstico.
 
@@ -89,9 +93,11 @@ XVII. Volante: El documento que contiene los 39 números a seleccionar, con los 
 
 Se denomina Melate Retro al sorteo de números que realiza Pronósticos, mediante la selección aleatoria de 6 (seis) números de un universo de 39 (treinta y nueve), al que únicamente se tiene derecho a participar y en su caso, a obtener el premio que se determine en términos de este Reglamento, registrado en el Sistema de Cómputo Central, previo pago de la participación correspondiente.
 
+> <small>(REFORMADO, D.O.F. 30 DE SEPTIEMBRE DE 2011)</small>
+
 ###### ARTICULO 4.
 
-Se podrá participar en el sorteo, utilizando los volantes oficiales emitidos por Pronósticos; por dictado del participante al Agente autorizado; a través de Melático Retro o, por cualquier otro medio electrónico autorizado por Pronósticos.
+Se podrá participar en el sorteo, utilizando los volantes oficiales emitidos por Pronósticos; por dictado del participante al Comercializador, a través de Melático Retro o por cualquier otro medio electrónico autorizado por Pronósticos.
 
 ###### ARTICULO 5.
 
@@ -107,15 +113,21 @@ Coperacha, es la selección por dictado del participante o vía Melático Retro,
 
 Todas las selecciones que se deriven de la (sic) Combinaciones Sencillas, Combinaciones Múltiples, Combinaciones Múltiples en Porciones y en Coperacha, participarán en el sorteo para el que hayan sido adquiridos los boletos respectivos.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 30 DE SEPTIEMBRE DE 2011)</small>
+
 ###### ARTICULO 6.
 
-Pronósticos podrá facultar a sus Agentes Autorizados para registrar Participaciones y captar la venta del Sorteo Melate Retro mediante el uso de:
+Pronósticos podrá facultar a sus Comercializadores para registrar Participaciones y captar la venta del Sorteo Melate Retro mediante el uso de:
 
-I. Terminales, que por lectura óptica del volante llenado por el participante, indicando su selección de números, mediante la digitación que haga el Agente Autorizado de éstos datos en la Terminal, o bien, si el participante requiere un Melatico Retro, éste imprima, numere y expida el boleto que, contra su pago, será entregado al participante; quedando almacenado su registro en el Sistema de Cómputo Central, y
+> <small>(REFORMADA, D.O.F. 30 DE SEPTIEMBRE DE 2011)</small>
+
+I. Terminales, que por lectura óptica del volante llenado por el participante, indicando su selección de números, mediante la digitación que haga el Comercializador de estos datos en la Terminal, o bien, si el participante requiere un Melático Retro, éste imprima, numere y expida el boleto que, contra su pago, será entregado al participante; quedando almacenado su registro en el Sistema de Cómputo Central, y
 
 II. Medios Electrónicos, enlazados al Sistema de Cómputo Central, que transmiten las Participaciones para quedar registradas en el Sistema de Cómputo Central.
 
-Los Agentes Autorizados recibirán de los participantes el pago del precio correspondiente y lo remitirán a Pronósticos en las condiciones y términos señalados en el contrato de comisión mercantil y el Reglamento de Agentes de Pronósticos para la Asistencia Pública.
+> <small>(REFORMADO, D.O.F. 30 DE SEPTIEMBRE DE 2011)</small>
+
+Los Comercializadores recibirán de los participantes el pago del precio correspondiente y lo remitirán a Pronósticos en las condiciones y términos establecidos en el contrato y en el Reglamento de Comercializadores.
 
 ###### ARTICULO 7.
 
@@ -167,7 +179,9 @@ Se considera fondo de cada sorteo el valor conjunto de todas las participaciones
 
 Dicho fondo se aplicará como sigue:
 
-Hasta un 10% a los agentes como comisión por las ventas que realicen.
+> <small>(REFORMADO, D.O.F. 30 DE SEPTIEMBRE DE 2011)</small>
+
+Hasta el 10% (diez por ciento) para los Comercializadores, como retribución por las ventas que realicen.
 
 Un 55% se destinará a la premiación de los participantes ganadores.
 
@@ -267,13 +281,17 @@ La Comisión Dictaminadora de Reclamaciones a través de quien ésta designe, no
 
 Si alguna o algunas de las reclamaciones se consideraron procedentes, la Comisión Dictaminadora de Reclamaciones acordará el pago que corresponda, en su caso, con cargo al fondo de reserva.
 
-### Capítulo V. De los Agentes Autorizados
+> <small>(REFORMADA SU DENOMINACION, D.O.F. 30 DE SEPTIEMBRE DE 2011)</small>
+
+### Capítulo V. De los Comercializadores Autorizados
+
+> <small>(REFORMADO, D.O.F. 30 DE SEPTIEMBRE DE 2011)</small>
 
 ###### ARTICULO 24.
 
-Los Agentes Autorizados se encuentran obligados a observar lo establecido en el presente Reglamento y demás disposiciones aplicables.
+Los Comercializadores se encuentran obligados a observar lo establecido en el presente Reglamento y demás disposiciones aplicables.
 
-Las omisiones, errores o faltas imputables a los Agentes Autorizados o a su personal dependiente, por inobservancia o violación de las normas reglamentarias aplicables, no constituirán responsabilidad a cargo de Pronósticos.
+Las omisiones, errores o faltas imputables a los Comercializadores o a su personal dependiente, por inobservancia o violación de las normas reglamentarias aplicables, no constituirán responsabilidad a cargo de Pronósticos.
 
 ### Capítulo VI. Del pago de Premios
 
@@ -281,9 +299,11 @@ Las omisiones, errores o faltas imputables a los Agentes Autorizados o a su pers
 
 El pago del Premio se efectuará contra la presentación y entrega material del Boleto o comprobante. Al efectuar el pago se descontará y retendrá el importe de los impuestos que fijen las leyes respectivas.
 
+> <small>(REFORMADO, D.O.F. 30 DE SEPTIEMBRE DE 2011)</small>
+
 ###### ARTICULO 26.
 
-Los participantes acreedores a un premio, podrán cobrar su importe en las Oficinas Generales de Pronósticos, en las Instituciones u Organismo que éste señale y que se hará del conocimiento del público, así como ante cualquier agente autorizado, de conformidad a lo establecido en el artículo 11 del "Acuerdo que establece los datos, documentos y formatos de los trámites de Pronósticos para la Asistencia Pública".
+Los participantes acreedores a un premio, podrán cobrar su importe en las Oficinas Generales de Pronósticos, en las Instituciones u Organismo que éste señale y que se hará del conocimiento del público, así como ante cualquier Comercializador, de conformidad a lo establecido en el artículo 11 del “Acuerdo que establece los datos, documentos y formatos de los trámites de Pronósticos para la Asistencia Pública”.
 
 ###### ARTICULO 27.
 
@@ -308,3 +328,11 @@ Secretario del Consejo Directivo
 Lic. Sergio Eduardo Huacuja Betancourt
 
 Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+D.O.F. 30 DE SEPTIEMBRE DE 2011.
+
+PRIMERO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Se derogan todas aquellas disposiciones que se contrapongan a las establecidas en el presente Acuerdo.
