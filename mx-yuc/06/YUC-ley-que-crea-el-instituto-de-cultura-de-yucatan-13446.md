@@ -4,7 +4,7 @@ identifier: "YUC-ley-que-crea-el-instituto-de-cultura-de-yucatan-13446"
 country: "mx"
 rank: "ley"
 publication_date: "1987-09-30"
-last_updated: "1989-11-13"
+last_updated: "2011-09-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13446&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "YUC"
 
 LEY QUE CREA EL INSTITUTO DE CULTURA DE YUCATAN
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 13 DE NOVIEMBRE DE 1989.
+> <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO POR EL ARTICULO SEGUNDO TRANSITORIO DEL DECRETO NUMERO 451 QUE REFORMA AL CODIGO DE LA ADMINISTRACION PUBLICA DE YUCATAN, PUBLICADO EN EL SUPLEMENTO DEL D.O. DE FECHA 30 DE SEPTIEMBRE DE 2011, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: ABROGADA.
 
 Ley Publicada en el Suplemento al Diario Oficial del Estado de Yucatán, el miércoles 30 de septiembre de 1987.
 
@@ -668,3 +670,61 @@ D.O. 13 DE NOVIEMBRE DE 1989.
 PRIMERO.- Se derogan las disposiciones legales que se opongan a lo dispuesto en este decreto.
 
 SEGUNDO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado.
+
+D.O. 30 DE SEPTIEMBRE DE 2011.
+
+###### ARTÍCULO PRIMERO.
+
+Este Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán, a excepción de las disposiciones relativas a la Secretaría de la Cultura y las Artes, las cuales entrarán en vigor a partir del primer día del mes de enero del año dos mil doce
+
+###### ARTÍCULO SEGUNDO.
+
+A partir de la entrada en vigor de las disposiciones relativas a la Secretaría de la Cultura y las Artes, queda abrogada la Ley que crea el Instituto de Cultura de Yucatán, publicada en el Diario Oficial del Gobierno del Estado de Yucatán el 30 de septiembre de 1987; se extingue dicho instituto y se otorga un plazo de seis meses para realizar todos los procedimientos correspondientes a su liquidación.
+
+###### ARTÍCULO TERCERO.
+
+A partir del inicio de vigencia de las disposiciones relativas a la Secretaría de la Cultura y las Artes, los recursos presupuestales, financieros, materiales y en general todos aquellos medios que permiten el cumplimiento de las atribuciones asignadas al Instituto de Cultura de Yucatán, se transferirán a la Secretaría de la Cultura y las Artes del Estado de Yucatán.
+
+###### ARTÍCULO CUARTO.
+
+El personal de base que al entrar en vigor de las disposiciones relativas a la Secretaría de la Cultura y las Artes, preste sus servicios en el Instituto de Cultura de Yucatán, pasará a formar parte de la Secretaría de la Cultura y las Artes del Estado de Yucatán y se estará a lo que señalen las disposiciones legales aplicables
+
+###### ARTÍCULO QUINTO.
+
+Las disposiciones legales y normativas, y los documentos referentes al Instituto de Cultura de Yucatán, a partir de la entrada en vigor de las disposiciones relativas a la Secretaría de la Cultura y las Artes, se entenderá que se refieren a dicha Secretaría.
+
+###### ARTÍCULO SEXTO.
+
+Los convenios, actos jurídicos, asuntos pendientes y de trámite, así como las obligaciones contraídas y los derechos adquiridos por el Instituto de Cultura de Yucatán, y que por su naturaleza subsistan, a partir de la entrada en vigor de las disposiciones relativas a la Secretaría de la Cultura y las Artes, quedarán a cargo de dicha Secretaría.
+
+###### ARTÍCULO SÉPTIMO.
+
+Se derogan todas las disposiciones de igual o menor rango que se opongan a este Decreto.
+
+###### ARTÍCULO OCTAVO.
+
+El Ejecutivo del Estado deberá realizar las adecuaciones correspondientes al Reglamento del Código de la Administración Pública, en un plazo no mayor de tres meses, a partir de la entrada en vigor de este Decreto.
+
+###### ARTÍCULO NOVENO.
+
+Los Organismos Públicos Descentralizados inscritos en el Registro de Organismos Descentralizados se tendrán por inscritos en el Registro de Entidades Paraestatales, el cual adoptará los Folios Registrales y códigos asignados a los organismos ya inscritos.
+
+###### ARTÍCULO DÉCIMO.
+
+Cuando en otras disposiciones legales, reglamentarias, administrativas, así como en documentos diversos, se haga referencia al Registro de Organismos Descentralizados, se entenderá que se refieren en todos los casos al Registro de Entidades Paraestatales.
+
+###### ARTÍCULO DÉCIMO PRIMERO.
+
+Los certificados y constancias, acerca de las inscripciones realizadas en el Registro de Organismos Descentralizados, expedidos por el titular de la Dirección de Planeación de la Secretaría de Planeación y Presupuesto, tendrán plena vigencia en los términos en que fueron expedidos
+
+###### ARTÍCULO DÉCIMO SEGUNDO.
+
+Los actos inscritos en los respectivos folios Registrales asignados a los Organismos Públicos Descentralizados inscritos en el Registro de Organismos Descentralizados, se tendrán como realizados en el Registro de Entidades Paraestatales y gozarán de plena validez jurídica y administrativa
+
+###### ARTÍCULO DÉCIMO TERCERO.
+
+Los actos jurídicos, asuntos pendientes y de trámite a cargo del Registro de Organismos Descentralizados y que por su propia naturaleza subsistan con posterioridad a la entrada en vigor de este Decreto, quedarán a cargo del Registro de Entidades Paraestatales.
+
+###### ARTÍCULO DÉCIMO CUARTO.
+
+Las Entidades Paraestatales no inscritas en el Registro de Organismos Públicos Descentralizados, se deberán inscribir en el Registro de Entidades Paraestatales en un plazo no mayor a 60 días naturales posteriores a la entrada en vigor de este Decreto.
