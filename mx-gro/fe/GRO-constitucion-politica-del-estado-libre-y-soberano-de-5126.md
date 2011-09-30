@@ -4,7 +4,7 @@ identifier: "GRO-constitucion-politica-del-estado-libre-y-soberano-de-5126"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-03"
-last_updated: "2011-09-27"
+last_updated: "2011-09-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5126&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE GUERRERO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE SEPTIEMBRE DE 2011.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE SEPTIEMBRE DE 2011.
 
 Constitución publicada en los Periódicos Oficiales del Estado de Guerrero los días 3, 10 y 17 de noviembre de 1917 y 5 de enero de 1918.
 
@@ -1185,11 +1185,11 @@ I.- Al Gobernador del Estado.
 
 II.- A los Diputados al Congreso del Estado.
 
-> <small>(ADICIONADA, P.O. 29 DE MAYO DE 1987)</small>
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 1987)</small>
 
 III.- Al Tribunal Superior de Justicia, entratándose de la Ley Orgánica del Poder Judicial, y
 
-> <small>(REFORMADA, P.O. 29 DE MAYO DE 1987)</small>
+> <small>(ADICIONADA, P.O. 29 DE MAYO DE 1987)</small>
 
 IV.- A los Ayuntamientos en el ámbito de su competencia.
 
@@ -1845,7 +1845,7 @@ VII.- Planear y regular de manera conjunta y coordinada con la Federación, el E
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE JULIO DE 2004)</small>
 
-###### Artículo 94.
+###### ARTICULO 94.
 
 Cada municipio será gobernado por un Ayuntamiento de elección popular directa, que constituye el órgano de decisión el cual estará encabezado por el Presidente Municipal, que es el órgano de ejecución y comunicación de las decisiones de aquél;
 
@@ -1925,9 +1925,9 @@ Para ser Presidente Municipal, Síndico o Regidor de un Ayuntamiento se requiere
 
 I.- Ser ciudadano guerrerense en ejercicio de sus derechos.
 
-> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 1988)</small>
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2011)</small>
 
-II.- Ser originario del Municipio que lo elija o con residencia efectiva no menor de cinco años inmediatamente anteriores al día de la elección.
+II.- Ser originario del Municipio que lo elija o con residencia efectiva, continua y permanente no menor de dos años inmediatamente anteriores al día de la elección” (sic).
 
 > <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2007)</small>
 
@@ -1985,7 +1985,7 @@ Los Ayuntamientos aprobarán los Presupuestos de Egresos que regirán en el Ejer
 
 > <small>(REFORMADO, P.O. 27 DE JULIO DE 2004)</small>
 
-###### Artículo 103.
+###### ARTICULO 103.
 
 Los Ayuntamientos no podrán:
 
@@ -2413,7 +2413,7 @@ Esta Constitución será publicada con la solemnidad debida, en todas las poblac
 
 ###### Artículo 2°.
 
-El período constitucional deberá contarse: para los Diputados, desde el 1°. de marzo del presente año; para el Gobernador, del 1°. de abril del mismo año; y para los Magistrados del Tribunal Superior, del 1°. de mayo último.
+El período constitucional deberá contarse: para los Diputados, desde el 1° de marzo del presente año; para el Gobernador, del 1° de abril del mismo año; y para los Magistrados del Tribunal Superior, del 1° de mayo último.
 
 ###### Artículo 3°.
 
@@ -2495,11 +2495,11 @@ Este Decreto comenzará a surtir sus efectos a partir de la fecha de su publicac
 
 P.O. 9 DE ABRIL DE 1930.
 
-Este Decreto comenzará a surtir sus efectos, a partir de la fecha de su publicación.
+Este decreto comenzará a surtir sus efectos, a partir de la fecha de su publicación.
 
 P.O. 13 DE AGOSTO DE 1930.
 
-Este decreto comenzará a surtir sus efectos, a partir de la fecha de su publicación.
+Este Decreto comenzará a surtir sus efectos, a partir de la fecha de su publicación.
 
 P.O. 2 DE SEPTIEMBRE DE 1931.
 
@@ -3330,3 +3330,9 @@ El presente Decreto entrara en vigor al día siguiente de su publicación en el 
 ###### ARTÍCULO TERCERO.
 
 Remítase al Titular del Poder Ejecutivo para su promulgación y Publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 30 DE SEPTIEMBRE DE 2011.
+
+PRIMERO.- Remítase el presente Decreto a los Honorables Ayuntamientos de la Entidad, para los efectos de lo dispuesto por el Artículo 125 Fracción III de la Constitución Política del Estado Libre y Soberano de Guerrero, por cuanto hace a las reformas a la Constitución Política Local.
+
+SEGUNDO.- Una vez que se tengan las Actas de los Ayuntamientos, por las que se aprueba o desecha el presente, llévese a cabo el cómputo y emítase la Declaratoria de Validez correspondiente, por cuanto hace a las reformas a la Constitución Política Local.
