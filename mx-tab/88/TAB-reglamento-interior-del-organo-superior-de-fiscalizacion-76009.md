@@ -4,7 +4,7 @@ identifier: "TAB-reglamento-interior-del-organo-superior-de-fiscalizacion-76009"
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-06-30"
-last_updated: "2010-06-30"
+last_updated: "2011-10-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76009&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 REGLAMENTO INTERIOR DEL ÓRGANO SUPERIOR DE FISCALIZACIÓN DEL ESTADO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE OCTUBRE DE 2011.
 
 Reglamento publicado en el Suplemento del Periódico Oficial del Estado de Tabasco, el miércoles 30 de junio de 2010.
 
@@ -39,9 +39,11 @@ REGLAMENTO INTERIOR DEL ÓRGANO SUPERIOR DE FISCALIZACIÓN DEL ESTADO
 
 Las disposiciones de este Reglamento son de observancia general y tienen por objeto normar las bases para la organización, funcionamiento y administración de la Unidades Administrativas y áreas que integran al Órgano Superior de Fiscalización del Estado.
 
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2011)</small>
+
 ###### ARTÍCULO 2.
 
-El Órgano Superior de Fiscalización, es un órgano técnico auxiliar del Congreso, de naturaleza desconcentrada, que tiene autonomía técnica y de gestión en el ejercicio de sus atribuciones y para decidir sobre su organización interna, funcionamiento y resoluciones, conforme lo establecido en los artículos 116 de la Constitución Política de los Estados Unidos Mexicanos, 40 de la Constitución Política del Estado Libre y Soberano de Tabasco, 3 y 72 de la Ley de Fiscalización Superior del Estado de Tabasco.
+El Órgano Superior de Fiscalización del Estado es un órgano técnico auxiliar del Congreso, de naturaleza desconcentrada, que tiene autonomía técnica y de gestión en el ejercicio de sus atribuciones y para decidir sobre su organización interna, funcionamiento y resoluciones, conforme lo establecido en los artículos 116 de la Constitución Política de los Estados Unidos Mexicanos, 40 de la Constitución Política del Estado Libre y Soberano de Tabasco, 3 y 72 de la Ley de Fiscalización Superior del Estado de Tabasco.
 
 ###### ARTÍCULO 3.
 
@@ -71,6 +73,14 @@ Para el estudio, planeación y despacho de los asuntos de su competencia, así c
 
 A) Fiscal Superior:
 
+> <small>(ADICIONADO, P.O. 1 DE OCTUBRE DE 2011)</small>
+
+A.0.1. Coordinación de Asesores
+
+> <small>(ADICIONADO, P.O. 1 DE OCTUBRE DE 2011)</small>
+
+A.0.2. Oficina de Enlace para la Atención de Solicitudes de Información
+
 A.1. Secretaría Técnica;
 
 A.2. Dirección de Asuntos Jurídicos;
@@ -79,7 +89,9 @@ A.3. Dirección de Contraloría Interna;
 
 A.4. Dirección de Administración;
 
-A.5. Dirección de Tecnología de la Información;
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2011)</small>
+
+A.5. Dirección de Tecnologías de la Información;
 
 B) Fiscal Especial.
 
@@ -87,19 +99,35 @@ B.1. Dirección de Fiscalización y Evaluación Gubernamental;
 
 B.1.1. Subdirección de Fiscalización y Evaluación a Poderes del Estado y Órganos Autónomos;
 
-B.1.2. Subdirección de Fiscalización y Evaluación a Municipios;
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2011)</small>
 
-B.1.3. Subdirección de Fiscalización y Evaluación a los Recursos Federales;
+B.1.2. Subdirección de Fiscalización y Evaluación a Municipios 1;
+
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2011)</small>
+
+B.1.3. Subdirección de Fiscalización y Evaluación a Municipios 2;
+
+> <small>(ADICIONADO, P.O. 1 DE OCTUBRE DE 2011)</small>
+
+B.1.4. Coordinación de Fiscalización y Evaluación a los Recursos Federales.
 
 B.2. Dirección de Auditoría Técnica y Evaluación a Proyectos de Inversión Pública:
 
-B.2.1 Subdirección de Auditoría Técnica y Evaluación a Proyectos de Inversión Pública;
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2011)</small>
+
+B.2.1 Subdirección de Auditoría Técnica y Evaluación a Proyectos de Inversión Pública a Poderes y Órganos Autónomos.
+
+> <small>(ADICIONADO, P.O. 1 DE OCTUBRE DE 2011)</small>
+
+B.2.2. Subdirección de Auditoría Técnica y Evaluación a Proyectos de Inversión Pública a Municipios.
 
 B.3. Dirección de Planeación y Desarrollo Técnico.
 
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2011)</small>
+
 ###### ARTÍCULO 8.
 
-El Fiscal Especial, contará con el personal técnico y administrativo que se requiera para el debido cumplimiento de sus atribuciones. Asimismo, en el caso de las Unidades Administrativas, habrá un Titular que se auxiliará por los Subdirectores, Jefes de Departamento, Coordinaciones de Áreas, Jefes de Grupo de Auditoría, Auditores, Visitadores, Inspectores y demás personal de apoyo técnico y administrativo que se señalen en los Manuales de Organización respectivos y en las disposiciones jurídicas aplicables, así como también por los que las necesidades del servicio requieran y conforme a las· disponibilidades presupuestales. Estos servidores públicos para todos los efectos legales a que haya lugar, serán considerados de confianza.
+El Fiscal Especial, contará con el personal técnico y administrativo que se requiera para el debido cumplimiento de sus atribuciones. Asimismo, en el caso de las Unidades Administrativas, habrá un Titular que se auxiliará por los Subdirectores, Coordinadores, Jefes de Departamento, Coordinaciones de Áreas, Jefes de Grupo de Auditoría, Auditores, Visitadores, Inspectores y demás personal de apoyo técnico y administrativo que se señalen en los Manuales de Organización respectivos y en las disposiciones jurídicas aplicables, así como también por los que las necesidades del servicio requieran y conforme a las disponibilidades presupuestales. Estos servidores públicos para todos los efectos legales a que haya lugar, serán considerados de confianza.
 
 ### CAPÍTULO II. DE LAS ATRIBUCIONES DEL FISCAL SUPERIOR
 
@@ -125,9 +153,13 @@ c) Las normas y procedimientos de auditoría para la revisión y fiscalización 
 
 d) Las recomendaciones sobre los sistemas, procedimientos, procedimientos y controles de contabilidad, normas de control interno del ingreso, gasto y patrimonio de los entes fiscalizables;
 
-e) Los Códigos de Ética Profesional y de Conducta de los Servidores Públicos del Órgano Superior de Fiscalización del Estado; y
+e) Los Códigos de Ética Profesional y de Conducta de los Servidores Públicos del Órgano Superior de Fiscalización del Estado; y (sic)
 
 f) Los Manuales de Organización y de Procedimientos del Órgano, conforme a la Ley, al presente Reglamento y a los acuerdos administrativos, así como establecer los demás ordenamientos administrativos y de servicios, necesarios para el mejor funcionamiento del Órgano.
+
+> <small>(ADICIONADO, P.O. 1 DE OCTUBRE DE 2011)</small>
+
+g) Las disposiciones que deberán observar las unidades administrativas del Órgano Superior de Fiscalización para la implementación de la gestión para resultados, el presupuesto basado en resultados y la armonización contable, en los términos que señalen las leyes y demás disposiciones que sean aplicables.
 
 IV. Elaborar y entregar al Congreso, por conducto de las Comisiones Inspectoras, los informes técnicos y financieros como resultados de la glosa y fiscalización de la Cuenta Pública;
 
@@ -169,7 +201,9 @@ XXII. Las demás que con tal carácter le atribuyan expresamente las disposicion
 
 Las facultades señaladas en las fracciones I a X, son Indelegables.
 
-El Fiscal Superior contará con una Coordinación de Asesores, así como de una Unidad de Enlace con la Unidad de Acceso de Información del Congreso, cuyas atribuciones se señalarán en el Manual de Organización del Órgano Superior de Fiscalización del Estado, así como del personal técnico y administrativo que se requiera para el debido cumplimiento de sus atribuciones.
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2011)</small>
+
+El Fiscal Superior contará con una Coordinación de Asesores, así como de una Oficina de Enlace para la Atención de Solicitudes de Información con la Unidad de Acceso a la Información del H. Congreso, cuyas atribuciones se señalarán en el Manual de Organización del Órgano Superior de Fiscalización del Estado, así como del personal técnico y administrativo que se requiera para el debido cumplimiento de sus atribuciones.
 
 ### CAPÍTULO III. DE LAS FACULTADES DE LAS UNIDADES DE APOYO
 
@@ -349,9 +383,15 @@ IX. Realizar el seguimiento de las quejas presentadas por los servidores públic
 
 X. Emitir opinión al Fiscal Superior, sobre temas contables y de control interno inherentes al Órgano, que le someta a consideración en materias de programación, presupuestación, recursos financieros, humanos y materiales;
 
-XI. Emitir lineamientos para el desahogo de los actos y procedimientos de entrega y recepción del Órgano y sus unidades administrativas; y
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2011)</small>
 
-XII. Las demás que le atribuyan expresamente las disposiciones legales y reglamentarias, respecto a las Unidades Administrativas dependientes del Órgano.
+XI. Emitir lineamientos para el desahogo de los actos y procedimientos de entrega y recepción del Órgano y sus unidades administrativas;
+
+> <small>(ADICIONADA, P.O. 1 DE OCTUBRE DE 2011)</small>
+
+XII. Vigilar que las unidades administrativas del Órgano Superior de Fiscalización cumplan con las disposiciones que emita el Fiscal Superior para la implementación de la gestión para resultados, el presupuesto basado en resultados y la armonización contable; y
+
+XIII. Las demás que le atribuyan expresamente las disposiciones legales y reglamentarias, respecto a las Unidades Administrativas dependientes del Órgano.
 
 Para el mejor desempeño de sus funciones y atendiendo al objetivo de las auditorías e investigaciones, la Dirección de Contraloría Interna podrá auxiliarse en su caso por profesionales de auditoría independientes, que para tal efecto se contrate por el Fiscal Superior, conforme a las disposiciones legales y normativas aplicables.
 
@@ -409,13 +449,19 @@ XXIII. Coordinar el Servicio Civil de Carrera, conforme lo señalado en el Estat
 
 XXIV. Las demás que le confieran las disposiciones legales aplicables o le asigne el Fiscal Superior.
 
-#### SECCIÓN QUINTA. DE LA DIRECCIÓN DE TECNOLOGÍA DE LA INFORMACIÓN
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 1 DE OCTUBRE DE 2011)</small>
+
+#### SECCIÓN QUINTA. DE LA DIRECCIÓN DE TECNOLOGÍAS DE LA INFORMACIÓN
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE OCTUBRE DE 2011)</small>
 
 ###### ARTÍCULO 15.
 
-La Dirección de Tecnología de la Información tendrá las siguientes atribuciones:
+La Dirección de Tecnologías de la Información tendrá las siguientes atribuciones:
 
-I. Establecer el proyecto en materia de tecnología de la Información, promover su aplicación informática y su evaluación;
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2011)</small>
+
+I. Establecer el proyecto en materia de tecnologías de la Información, promover su aplicación informática y su evaluación;
 
 II. Diseñar y coordinar el programa de mantenimiento preventivo a la plataforma tecnológica del hardware, así como a los sistemas de información que residen bajo esta plataforma;
 
@@ -507,9 +553,15 @@ XIX. Colaborar con el Fiscal Superior en la expedición de las constancias de an
 
 XX. Proporcionar, conforme a sus atribuciones y de acuerdo con las políticas y normas establecidas en la materia, la información, documentación, datos, informes y asesorías o cooperación técnica que le requieran otras áreas del Órgano;
 
-XXI. Expedir certificaciones de los documentos que obren en sus archivos que no exijan reserva, anotando en todos ellos la cláusula relativa, de que no tendrán más efecto que el que deban producir por riguroso derecho; y
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2011)</small>
 
-XXII. Las demás que le confieran las disposiciones legales aplicables o le asigne el Fiscal Superior.
+XXI. Expedir certificaciones de los documentos que obren en sus archivos que no exijan reserva, anotando en todos ellos la cláusula relativa, de que no tendrán más efecto que el que deban producir por riguroso derecho;
+
+> <small>(ADICIONADA, P.O. 1 DE OCTUBRE DE 2011)</small>
+
+XXII. Auxiliar al Fiscal Superior en la instrumentación de las disposiciones que deberán observar las unidades administrativas del Órgano Superior de Fiscalización para la implementación de la gestión para resultados, el presupuesto basado en resultados y la armonización contable, en los términos que señalen las leyes y demás disposiciones que sean aplicables; y
+
+XXIII. Las demás que le confieran las disposiciones legales aplicables o le asigne el Fiscal Superior.
 
 ### CAPÍTULO II. DE LA DIRECCIÓN DE FISCALIZACIÓN Y EVALUACIÓN GUBERNAMENTAL
 
@@ -517,11 +569,13 @@ XXII. Las demás que le confieran las disposiciones legales aplicables o le asig
 
 La Dirección de Fiscalización y Evaluación Gubernamental tendrá las siguientes atribuciones:
 
-l. Elaborar y someter a consideración del Fiscal Especial, el anteproyecto del Programa Anual de Auditorías; Visitas e Inspecciones, relacionado con las auditorías a su cargo;
+I. Elaborar y someter a consideración del Fiscal Especial, el anteproyecto del Programa Anual de Auditorías; Visitas e Inspecciones, relacionado con las auditorías a su cargo;
 
 II. Practicar las auditorías, visitas, inspecciones, compulsas o confirmaciones, a fin de comprobar que la planeación, programación y adjudicación de bienes y servicios se hayan ajustado a las leyes y disposiciones reglamentarias respectivas; así como practicar auditorías de recursos humanos;
 
-III. Efectuar la revisión de la Cuenta Pública de los entes fiscalizables; así como el análisis de los estados financieros y presupuestales de la gestión de los mismos y de documentos contables y administrativos, de acuerdo con lo dispuesto en la Ley, este Reglamento, las normas y procedimientos internos y los programas autorizados por el Fiscal Superior;
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2011)</small>
+
+III. Efectuar la revisión de la Cuenta Pública de los entes fiscalizables; así como el análisis de los estados presupuestarios, financieros y económicos de la gestión de los mismos y demás que sean emitidos conforme la legislación aplicable;
 
 IV. Evaluar el cumplimiento final de los objetivos y metas fijadas en los programas estatales y municipales, conforme a los indicadores aprobados en dichos programas, a efecto de verificar el desempeño de los mismos y la legalidad en la aplicación de los recursos públicos;
 
@@ -563,13 +617,23 @@ XXII. Mantener actualizados los registros de los movimientos de personal, así c
 
 XXIII. Las demás que le confieran las disposiciones legales aplicables, le asigne el Fiscal Especial o en su caso, el Fiscal Superior.
 
-Para el desempeño de sus funciones la Dirección de Fiscalización y Evaluación Gubernamental, contará con las siguientes Subdirecciones:
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2011)</small>
+
+Para el desempeño de sus funciones la Dirección de Fiscalización y Evaluación Gubernamental, contará con las siguientes Unidades:
 
 I. Subdirección de Fiscalización y Evaluación a Poderes del Estado y Órganos Autónomos;
 
-II. Subdirección de Fiscalización y Evaluación a Municipios; y
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2011)</small>
 
-III. Subdirección de Fiscalización y Evaluación a los Recursos Federales.
+II. Subdirección de Fiscalización y Evaluación a Municipios 1;
+
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2011)</small>
+
+III. Subdirección de Fiscalización y Evaluación a Municipios 2;
+
+> <small>(ADICIONADA, P.O. 1 DE OCTUBRE DE 2011)</small>
+
+IV. Coordinación de Fiscalización y Evaluación a los Recursos Federales.
 
 ### CAPÍTULO III. DE LA DIRECCIÓN DE AUDITORÍA TÉCNICA Y EVALUACIÓN A PROYECTOS DE INVERSIÓN PÚBLICA
 
@@ -619,9 +683,17 @@ XX. Coadyuvar con la Unidad de Asuntos Jurídicos en la integración de expedien
 
 XXI. Las demás que le confieran las disposiciones legales aplicables o le asigne indistintamente en términos legales, el Fiscal Especial o en su caso, el Fiscal Superior.
 
-Para el desempeño de sus funciones la Dirección de Auditoría Técnica y Evaluación a Proyectos de Inversión Pública, contará con la siguiente Subdirección:
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2011)</small>
 
-I. Subdirección de Auditoría Técnica y Evaluación a Proyectos de Inversión Pública.
+Para el desempeño de sus funciones la Dirección de Auditoría Técnica y Evaluación a Proyectos de Inversión Pública, contará con las siguientes Subdirecciones:
+
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2011)</small>
+
+I. Subdirección de Auditoría Técnica y Evaluación a Proyectos de Inversión Pública a Poderes y Órganos Autónomos.
+
+> <small>(ADICIONADA, P.O. 1 DE OCTUBRE DE 2011)</small>
+
+II. Subdirección de Auditoría Técnica y Evaluación a Proyectos de Inversión Pública a Municipios.
 
 ### CAPÍTULO IV. DE LA DIRECCIÓN DE PLANEACIÓN Y DESARROLLO TÉCNICO
 
@@ -649,9 +721,15 @@ IX. Coadyuvar en el ámbito de sus atribuciones para que los entes fiscalizables
 
 X. Participar en el análisis, desarrollo e implementación de sistemas automatizados de apoyo a la función fiscalizadora, y promover su utilización extensiva;
 
-XI. Coadyuvar en la preparación de los Informes Técnicos y Financieros derivados de la glosa y fiscalización de la Cuentas Públicas y en la metodología para la elaboración, redacción y presentación de los informes derivados de la revisión de la Cuenta Pública; y
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2011)</small>
 
-XII. Las demás que le confieran las disposiciones legales aplicables o le asigne el Fiscal Especial, o en su caso, el Fiscal Superior.
+XI. Coadyuvar en la preparación de los Informes Técnicos y Financieros derivados de la glosa y fiscalización de las Cuentas Públicas y en la metodología para la elaboración, redacción y presentación de los informes derivados de la revisión de la Cuenta Pública;
+
+> <small>(ADICIONADA, P.O. 1 DE OCTUBRE DE 2011)</small>
+
+XII. Coadyuvar y auxiliar al Fiscal Superior, y al Fiscal Especial en la instrumentación de las disposiciones que deberán observar las unidades administrativas del Órgano Superior de Fiscalización para la implementación de la gestión para resultados, el presupuesto basado en resultados y la armonización contable, en los términos que señalen las leyes y demás disposiciones que sean aplicables; y
+
+XIII. Las demás que le confieran las disposiciones legales aplicables o le asigne el Fiscal Especial, o en su caso, el Fiscal Superior.
 
 ## TÍTULO IV. DE LAS FUNCIONES GENÉRICAS DE LAS UNIDADES ADMINISTRATIVAS
 
@@ -818,3 +896,13 @@ Villahermosa, Tabasco, a 21 de junio de 2010
 Lic. Francisco José Rullán Silva
 
 Fiscal Superior del Estado.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+1 DE OCTUBRE DE 2011.
+
+PRIMERO.- Las presentes modificaciones al Reglamento Interior del Órgano Superior del Estado, entrarán en vigor a partir del día siguiente de su publicación.
+
+SEGUNDO.- Los asuntos que se refieran a actos o resoluciones que se hayan emitido con anterioridad a la entrada en vigor del presente Acuerdo, se tramitarán y resolverán por la Unidad Administrativa del Órgano que tenga para estos efectos la competencia, conforme al citado Reglamento.
+
+TERCERO.- En tanto se expidan los acuerdos y demás disposiciones administrativas que deriven del presente Acuerdo, continuarán siendo aplicables en lo conducente, los acuerdos, lineamientos, Manuales y demás, expedidos con anterioridad a la entrada en vigor del presente, en lo que no se oponga al mismo.
