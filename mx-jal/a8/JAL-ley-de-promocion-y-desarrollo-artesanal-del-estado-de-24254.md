@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-promocion-y-desarrollo-artesanal-del-estado-de-24254"
 country: "mx"
 rank: "ley"
 publication_date: "2002-03-19"
-last_updated: "2009-01-27"
+last_updated: "2011-10-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=24254&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "JAL"
 ---
 # LEY DE PROMOCION Y DESARROLLO ARTESANAL DEL ESTADO DE JALISCO
 
-LEY DE PROMOCION Y DESARROLLO ARTESANAL DEL ESTADO DE JALISCO
+LEY DE PROMOCIÓN Y DESARROLLO ARTESANAL DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE ENERO DE 2009.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE OCTUBRE DE 2011.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el martes 19 de marzo de 2002.
 
@@ -67,9 +67,9 @@ III. Recuperar y salvaguardar las manifestaciones artesanales propias del Estado
 
 IV. Fomentar e impulsar el empleo y el autoempleo en el sector artesanal;
 
-> <small>(REFORMADA, P.O. 27 DE ENERO DE 2009)</small>
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2011)</small>
 
-V. Coordinar las manifestaciones artesanales con los programas turísticos del Estado de Jalisco y sus municipios;
+V. Coordinar las manifestaciones artesanales con los programas de promoción económica y turísticos del estado de Jalisco y sus municipios;
 
 > <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2007)</small>
 
@@ -93,7 +93,7 @@ X. Salvaguardar intelectual y comercialmente las técnicas y productos artesanal
 
 > <small>(ADICIONADA, P.O. 27 DE ENERO DE 2009)</small>
 
-Xl. Promover y desarrollar las técnicas artesanales y productos de las regiones, comunidades y etnias, como patrimonio cultural de Jalisco, y
+XI. Promover y desarrollar las técnicas artesanales y productos de las regiones, comunidades y etnias, como patrimonio cultural de Jalisco, y
 
 > <small>(ADICIONADA, P.O. 27 DE ENERO DE 2009)</small>
 
@@ -151,11 +151,11 @@ Se consideran como patrimonio cultural, las técnicas y productos artesanales tr
 
 ## TITULO SEGUNDO. Del Desarrollo del Sector Artesanal
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 27 DE ENERO DE 2009)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 27 DE ENERO DE 2009)</small>
 
 ### CAPÍTULO I. De los apoyos
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE ENERO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE ENERO DE 2009)</small>
 
 ###### Artículo 7.
 
@@ -165,7 +165,7 @@ Los artesanos como personas físicas o jurídicas, siempre que cumplan los requi
 
 I. Las distintas líneas de apoyo que brinde el Instituto, para la instalación, ampliación, traslado o remodelación del total o parte de la infraestructura y medios de producción, y
 
-> <small>(REFORMADA EN SU PRIMER PARRAFO, P.O. 27 DE ENERO DE 2009)</small>
+> <small>(REFORMADA EN SU PRIMER PÁRRAFO, P.O. 27 DE ENERO DE 2009)</small>
 
 II. El apoyo a la comercialización de sus propios productos, mediante las siguientes acciones:
 
@@ -191,11 +191,11 @@ f) La autentificación del producto artesanal que permita identificarla como art
 
 El Instituto diseñará y establecerá programas para promover la calidad y gestionar la certificación del origen de los productos artesanales, tomando en consideración, en su caso, la opinión y aportaciones de la Junta de Gobierno.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 9 DE JUNIO DE 2007)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 9 DE JUNIO DE 2007)</small>
 
 ### CAPÍTULO II. De la capacitación de la Actividad Artesanal
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE ENERO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE ENERO DE 2009)</small>
 
 ###### Artículo 8.
 
@@ -245,11 +245,11 @@ El Programa Operativo Anual del Instituto deberá contener aquellos requisitos m
 
 Los artesanos podrán agruparse libremente en cualquier figura con reconocimiento legal, para tal efecto el Instituto impulsará la organización de los artesanos jaliscienses, con el fin de facilitar el desarrollo de la actividad productiva de referencia.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 27 DE ENERO DE 2009)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 27 DE ENERO DE 2009)</small>
 
 ## TITULO QUINTO. Del Censo Artesanal, las Ramas de Producción Artesanal, y del Registro de Artesanos, Talleres y Empresas Artesanales
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 27 DE ENERO DE 2009)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 27 DE ENERO DE 2009)</small>
 
 ### CAPÍTULO I. Del Censo Artesanal
 
@@ -289,11 +289,11 @@ Queda prohibido utilizar la información del censo o registro artesanal para fin
 
 ### CAPÍTULO II. De las Ramas de la Producción Artesanal
 
-> <small>(ADICIONADO, P.O. 27 DE ENERO DE 2009)</small>
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2011)</small>
 
-###### Artículo 15 Bis.
+###### Artículo 15
 
-Para el cumplimiento de los objetivos del Instituto, se consideran como ramas de la producción artesanal las que determine la Dirección de Investigación, previa realización del censo respectivo y como resultado de las investigaciones que lleve a cabo.
+Bis. Para el cumplimiento de los objetivos del Instituto, se consideran como ramas de la producción artesanal las que determine su Dirección de Investigación, previa realización del censo respectivo y como resultado de las investigaciones que lleve a cabo.
 
 (REUBICADO [N. DE E. ANTES CAPITULO II], P.O. 27 DE ENERO DE 2009)
 
@@ -433,7 +433,7 @@ XXVI. Realizar, en general, toda clase de actos propios e inherentes a su natura
 
 XXVII. Los demás que le señale esta Ley.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE ENERO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE ENERO DE 2009)</small>
 
 ###### Artículo 22.
 
@@ -529,7 +529,7 @@ XII. Autorizar la adquisición de los bienes necesarios para el desempeño de la
 
 XIII. Solicitar y revisar los estudios contables, financieros, administrativos y técnicos sobre el Instituto y las entidades y empresas que dicho Instituto forme en términos de lo establecido por la presente Ley;
 
-XlV. Declarar de interés artesanal a aquellos municipios o regiones que se distingan por su actividad en la materia. Los cuales podrán utilizar en la forma que reglamentariamente se establezca, un distintivo de su identidad y de procedencia geográfica creado para tal efecto, y
+XIV. Declarar de interés artesanal a aquellos municipios o regiones que se distingan por su actividad en la materia. Los cuales podrán utilizar en la forma que reglamentariamente se establezca, un distintivo de su identidad y de procedencia geográfica creado para tal efecto, y
 
 XV. Las demás que le sean conferidas en el presente y otros ordenamientos jurídicos aplicables.
 
@@ -703,7 +703,7 @@ IX. Suscribir los documentos relativos al ejercicio de sus facultades y los que 
 
 X. Recibir en acuerdo a los subdirectores y a cualquier otro servidor público, y conceder audiencia al público, conforme a los manuales administrativos y órdenes que expida el Director del Instituto;
 
-Xl. Proporcionar la información, datos y, en su caso, la cooperación profesional o técnica que le sea requerida por las dependencias del Ejecutivo vinculadas al sector artesanal, así como del mismo Instituto, de acuerdo con las políticas establecidas por el Director del Instituto, y
+XI. Proporcionar la información, datos y, en su caso, la cooperación profesional o técnica que le sea requerida por las dependencias del Ejecutivo vinculadas al sector artesanal, así como del mismo Instituto, de acuerdo con las políticas establecidas por el Director del Instituto, y
 
 XII. Las demás que le señalen el Director del Instituto y las disposiciones legales respectivas.
 
@@ -837,7 +837,7 @@ IX. Un representante de la Cámara Nacional de Comercio de Tonalá;
 
 X. Un representante de la Cámara Nacional de Comercio de Zapopan, y
 
-Xl. Seis vocales que serán miembros distinguidos de la comunidad académica y/o artística vinculada al sector artesanal, designados por su respectiva Institución a convocatoria del Consejo.
+XI. Seis vocales que serán miembros distinguidos de la comunidad académica y/o artística vinculada al sector artesanal, designados por su respectiva Institución a convocatoria del Consejo.
 
 > <small>(ADICIONADO, P.O. 27 DE ENERO DE 2009)</small>
 
@@ -979,11 +979,11 @@ III. Ofrecer a los artesanos préstamos con intereses bajos.
 
 El Instituto realizará las gestiones necesarias a fin de que la Secretaría de Educación del Estado, considere dentro de sus programas educativos la impartición de conocimientos tendientes a la preservación de las tradiciones artesanales de la entidad, con la finalidad de fomentar y preservar social y culturalmente esta actividad.
 
-> <small>(ADICIONADO, P.O. 27 DE ENERO DE 2009)</small>
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2011)</small>
 
 ###### Artículo 54.
 
-El Instituto realizará las gestiones necesarias a fin de que la Secretaría de Turismo procure que en cada evento de promoción turística se realicen las actividades para la promoción de las tradiciones artesanales del Estado y, en su caso, se coadyuve a la comercialización de los productos.
+El Instituto realizará las gestiones necesarias a fin de que la Secretaría de Turismo y la Secretaría de Promoción Económica, procuren que en cada evento de promoción turística económica se realicen las actividades necesarias que garanticen la promoción de las tradiciones artesanales del estado y, en su caso, coadyuven a la comercialización de los productos presentados u otros relativos.
 
 ## TRANSITORIOS
 
@@ -1058,3 +1058,7 @@ CUARTO. Se autoriza al Titular del Poder Ejecutivo a realizar las acciones y tra
 QUINTO. La Junta de Gobierno deberá actualizar el reglamento interior en un plazo no mayor a noventa días posteriores a la publicación del presente decreto.
 
 SEXTO. Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 1 DE OCTUBRE DE 2011.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
