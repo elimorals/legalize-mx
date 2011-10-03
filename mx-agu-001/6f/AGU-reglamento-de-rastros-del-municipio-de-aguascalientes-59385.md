@@ -4,7 +4,7 @@ identifier: "AGU-reglamento-de-rastros-del-municipio-de-aguascalientes-59385"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-02-04"
-last_updated: "2008-02-04"
+last_updated: "2011-10-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=59385&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "AGU"
 ---
 # REGLAMENTO DE RASTROS DEL MUNICIPIO DE AGUASCALIENTES, AGUASCALIENTES
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 REGLAMENTO DE RASTROS DEL MUNICIPIO DE AGUASCALIENTES
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE OCTUBRE DE 2011.
 
 Reglamento publicado en la Tercera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 4 de febrero de 2008.
 
@@ -395,9 +397,11 @@ El ganado será sacrificado por riguroso turno, siguiendo el orden con que fue i
 
 El médico veterinario asignado a cada área, vigilará que el sacrificio de ganado se realice en forma humanitaria, conforme a lo dispuesto en la NOM-EM-009-200-1994.
 
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2011)</small>
+
 ###### ARTÍCULO 39.
 
-A las salas de sacrificio de ganado solo tendrán acceso los trabajadores municipales, tanto operativos como sanitarios, el usuario o introductor, o su representante, debidamente reconocidos, autorizados y registrados ante la administración del rastro. Todos los mencionados anteriormente, deberán de cumplir las normas sanitarias que determine la administración, será obligatorio el cumplimiento de las citadas normas sanitarias para todos aquellos rastros que se ubiquen dentro del territorio municipal.
+A las salas de sacrificio de ganado solo tendrán acceso los trabajadores municipales, tanto operativos como sanitarios, el usuario o introductor, o su representante, así como los médicos veterinarios que cumplan lo establecido en el Reglamento para la Protección y Trato Digno a los Animales del Municipio de Aguascalientes, debidamente reconocidos, autorizados y registrados ante la administración del rastro y la Secretaría de Servicios Públicos respectivamente. Todos los mencionados anteriormente, deberán de cumplir las normas sanitarias que determine la administración, será obligatorio el cumplimiento de las citadas normas sanitarias para todos aquellos rastros que se ubiquen dentro del territorio municipal.
 
 ###### ARTÍCULO 40.
 
@@ -642,3 +646,13 @@ Por lo que tiene el honor de comunicarlo, para su conocimiento y efectos legales
 En cumplimiento a lo ordenado por el Presidente Municipal de Aguascalientes, con fundamento en los artículos 120, fracción VII de la Ley Municipal par (sic) el Estado de Aguascalientes; 107, fracción IX del Código Municipal de Aguascalientes, tengo a bien solicitar la publicación del presente.
 
 El Secretario del H. Ayuntamiento y Director General de Gobierno.- Lic. Adrián Ventura Dávila.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 3 DE OCTUBRE DE 2011.
+
+## [N. DE E. TRANSITORIOS DE LA “INICIATIVA DE (SIC) REGLAMENTO PARA LA PROTECCIÓN Y TRATO DIGNO A LOS ANIMALES DEL MUNICIPIO DE AGUASCALIENTES”.]
+
+PRIMERO.- El presente Reglamento entrará en vigor el primero de enero del año 2012, después de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se concede a los propietarios o arrendatarios de ranchos, haciendas o similares; expendios de animales, zoológicos, y demás personas a que se refiere este reglamento, un plazo de tres meses, para la debida observancia de las disposiciones que establece este ordenamiento legal, a partir del día siguiente de la entrada en vigencia del presente Reglamento.
