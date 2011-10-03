@@ -4,7 +4,7 @@ identifier: "AGU-codigo-municipal-de-aguascalientes-aguascalientes-57523"
 country: "mx"
 rank: "codigo"
 publication_date: "2007-11-12"
-last_updated: "2011-08-08"
+last_updated: "2011-10-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57523&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 CODIGO MUNICIPAL DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE AGOSTO DE 2011.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE OCTUBRE DE 2011.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 12 de noviembre de 2007.
 
@@ -1291,7 +1291,11 @@ Departamento de Planeación
 
 Departamento de Rastro
 
-Departamento de Control Canino y Felino
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE RENGLÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CÓDIGO.</small>
+
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2011)</small>
+
+Centro de Control, Atención y Bienestar Animal
 
 Coordinación Jurídica
 
@@ -5125,7 +5129,7 @@ El Director de Justicia Municipal, podrá contratar el personal necesario para l
 
 El Centro de Detención Preventiva Municipal deberá contar con personal capacitado en las diversas áreas de mantenimiento, a fin de que se encuentre en buenas condiciones.
 
-### CAPÍTULO I. Del Control Canino y Felino
+### CAPÍTULO I. Del Control Animal
 
 ###### ARTÍCULO 410.
 
@@ -5225,13 +5229,21 @@ Se requerirá la aprobación de las dos terceras partes del cabildo para celebra
 
 Corresponde a la Secretaría de Servicios Públicos la prestación, por sí o por conducto de terceras personas a través de contratos o concesiones, de los servicios de Rastro Municipal, Limpia y Aseo Público, Panteones, Parques y Jardines, Alumbrado Público. De manera adicional a los referidos anteriormente deberá prestar de manera directa el servicio de control de población canina y felina así como regular y proteger las acciones relativas al deporte de la colombofilia y la colombicultura, y contribuir a la prevención y control de la población de este género animal.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 3 DE OCTUBRE DE 2011)</small>
+
 ### CAPÍTULO II. De los Panteones
 
 ###### ARTÍCULO 417.
 
 Para efecto de este capítulo se entiende por:
 
-I. Centro Municipal de Control Canino y Felino: lugar destinado a contribuir a la prevención y control de la rabia animal, así como de la población canina y felina, coadyuvando acciones con las autoridades sanitarias competentes.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2011)</small>
+
+I. Centro de Control, Atención y Bienestar Animal: lugar destinado a contribuir a la prevención y control de la rabia animal, así como de la población animal, coadyuvando acciones con las autoridades sanitarias competentes.
 
 II. Mascota: perros y gatos así como aquellos animales silvestres que hayan sido domesticados o no y que estén bajo resguardo y cuidado de las personas con fines de compañía.
 
@@ -5249,9 +5261,13 @@ Serán objeto de las disposiciones contenidas en este capítulo, todos los anima
 
 La rabia es una enfermedad infecto-contagiosa aguda y mortal que ataca al sistema nervioso central provocada por un virus de la familia Rhabdoviridae y del género Lyssavirus, transmitida al hombre o animales por la saliva de animales enfermos a partir de una mordedura, rasguño o lamedura sobre mucosa o piel con solución de continuidad o material contaminado.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE OCTUBRE DE 2011)</small>
+
 ###### ARTÍCULO 420.
 
-El Centro Municipal de Control Canino y Felino está constituido por las siguientes áreas:
+El Centro de Control, Atención y Bienestar Animal está constituido por las siguientes áreas:
 
 I. Coordinación.
 
@@ -5269,19 +5285,31 @@ VII. Investigación.
 
 VIII. Sacrificio humanitario y anfiteatro.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2011)</small>
+
 ###### ARTÍCULO 421.
 
-El personal administrativo y operativo del Centro Municipal de Control Canino y Felino, deberá recibir inmunización antirrábica previa a la exposición a animales potencialmente transmisores de rabia, así como, su seguimiento de títulos de anticuerpos de acuerdo a la norma oficial mexicana NOM-011-SSA2-1993 y si fuera necesario, basado en un estudio epidemiológico deberá recibir inmunización y tratamiento a las enfermedades infectocontagiosas que resulten del contacto con los animales.
+El personal administrativo y operativo del Centro de Control, Atención y Bienestar Animal, deberá recibir inmunización antirrábica previa a la exposición a animales potencialmente transmisores de rabia, así como, su seguimiento de títulos de anticuerpos de acuerdo a la norma oficial mexicana NOM-011-SSA2-1993 y si fuera necesario, basado en un estudio epidemiológico deberá recibir inmunización y tratamiento a las enfermedades infectocontagiosas que resulten del contacto con los animales.
 
-Todo el personal administrativo y operativo del Centro Municipal de Control Canino y Felino deberá recibir capacitación permanente a fin de asegurar un manejo adecuado a los animales desde su captura, estancia, sacrificio y tratamiento sanitario.
+Todo el personal administrativo y operativo del Centro de Control, Atención y Bienestar Animal deberá recibir capacitación permanente a fin de asegurar un manejo adecuado a los animales desde su captura, estancia, sacrificio y tratamiento sanitario.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2011)</small>
 
 ###### ARTÍCULO 422.
 
-El Centro Municipal de Control Canino y Felino esta obligado a prestar el servicio de vacunación antirrábica a perros y gatos de manera gratuita; para el efecto se entregará el certificado de vacunación correspondiente, el cual, el propietario o persona responsable esta obligado a guardar y presentar a la autoridad sanitaria cuantas veces le sea requerido y tendrá vigencia de 1 año.
+El Centro de Control, Atención y Bienestar Animal esta obligado a prestar el servicio de vacunación antirrábica a perros y gatos de manera gratuita; para el efecto se entregará el certificado de vacunación correspondiente, el cual, el propietario o persona responsable esta obligado a guardar y presentar a la autoridad sanitaria cuantas veces le sea requerido y tendrá vigencia de 1 año.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2011)</small>
 
 ###### ARTÍCULO 423.
 
-El Centro Municipal de Control Canino y Felino hará constar en el certificado de vacunación antirrábica el nombre y domicilio del propietario; nombre, especie, color, sexo, edad y raza de cada animal; fecha de vacunación y el número de control, estos datos quedarán asentados en los registros de vacunación antirrábica del Centro.
+El Centro de Control, Atención y Bienestar Animal hará constar en el certificado de vacunación antirrábica el nombre y domicilio del propietario; nombre, especie, color, sexo, edad y raza de cada animal; fecha de vacunación y el número de control, estos datos quedarán asentados en los registros de vacunación antirrábica del Centro.
 
 ###### ARTÍCULO 424.
 
@@ -5291,9 +5319,13 @@ Es obligación de los propietarios o personas responsables de los perros y gatos
 
 Los propietarios de establecimientos donde se vendan mascotas y se presten servicios de atención médica a animales están obligados a vacunar contra la rabia a las especies susceptibles e informar al propietario o persona responsable de los calendarios de vacunación antirrábica.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2011)</small>
+
 ###### ARTÍCULO 426.
 
-El Centro Municipal de Control Canino y Felino deberá establecer programas de control y vigilancia epidemiológica de la rabia, así como realizar investigaciones epizoóticas en casos de rabia animal, y promover campañas de concientización, prevención, control y erradicación de la rabia, así como de esterilización para el control de la población canina y felina.
+El Centro de Control, Atención y Bienestar Animal deberá establecer programas de control y vigilancia epidemiológica de la rabia, así como realizar investigaciones epizoóticas en casos de rabia animal, y promover campañas de concientización, prevención, control y erradicación de la rabia, así como de esterilización para el control de la población canina y felina.
 
 ###### ARTÍCULO 427.
 
@@ -5309,9 +5341,13 @@ En caso de que el propietario o persona responsable decida ejercitar a su mascot
 
 Cuando una mascota no reciba un trato adecuado por falta de espacio, no se le provea de alimento y agua y reciban maltrato físico podrá ser asegurado por la autoridad municipal en términos del presente capítulo.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2011)</small>
+
 ###### ARTÍCULO 429.
 
-Las mascotas capturadas y aseguradas de acuerdo al presente Código serán remitidos al Centro Municipal de Control Canino y Felino donde permanecerán en resguardo durante 48 horas. Si durante este período la mascota es reclamada y quien la reclama es mayor de edad y acredita el carácter de propietario o de persona responsable a satisfacción de la autoridad sanitaria correspondiente, le será devuelto después de cubrir la multa que se le imponga y los gastos erogados de su manutención. Con base en los antecedentes de la mascota relacionados con su reproductividad y atención por parte del propietario o persona responsable, a juicio de la autoridad le será practicada una esterilización quirúrgica y el costo deberá cubrirlo el propietario.
+Las mascotas capturadas y aseguradas de acuerdo al presente Código serán remitidos al Centro de Control, Atención y Bienestar Animal donde permanecerán en resguardo durante 48 horas. Si durante este período la mascota es reclamada y quien la reclama es mayor de edad y acredita el carácter de propietario o de persona responsable a satisfacción de la autoridad sanitaria correspondiente, le será devuelto después de cubrir la multa que se le imponga y los gastos erogados de su manutención. Con base en los antecedentes de la mascota relacionados con su reproductividad y atención por parte del propietario o persona responsable, a juicio de la autoridad le será practicada una esterilización quirúrgica y el costo deberá cubrirlo el propietario.
 
 ###### ARTÍCULO 430.
 
@@ -5329,29 +5365,53 @@ Se podrá entregar el animal a instituciones educativas para prácticas veterina
 
 II. Aplicar sacrificio humanitario, según la normatividad vigente.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2011)</small>
+
 ###### ARTÍCULO 431.
 
-El Centro Municipal de Control Canino y Felino se reservará el derecho de disponer de los animales entregados voluntariamente por sus propietarios o personas responsables de forma inmediata a su depósito en el Centro Municipal de Control Canino y Felino.
+El Centro de Control, Atención y Bienestar Animal se reservará el derecho de disponer de los animales entregados voluntariamente por sus propietarios o personas responsables de forma inmediata a su depósito en el Centro de Control, Atención y Bienestar Animal.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2011)</small>
 
 ###### ARTÍCULO 432.
 
-Es obligación del Centro Municipal de Control Canino y Felino, recibir e investigar todo reporte que esté relacionado con la presente materia.
+Es obligación del Centro de Control, Atención y Bienestar Animal, recibir e investigar todo reporte que esté relacionado con la presente materia.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE OCTUBRE DE 2011)</small>
 
 ###### ARTÍCULO 433.
 
-Todo animal que muerda a una persona deberá ser asegurado por los verificadores municipales y enviado al Centro Municipal de Control Canino y Felino para su observación por un lapso de 10 días, de acuerdo a la norma oficial mexicana NOM-011-SSA2-1993.
+Todo animal que muerda a una persona deberá ser asegurado por los verificadores municipales y enviado al Centro de Control, Atención y Bienestar Animal para su observación por un lapso de 10 días, de acuerdo a la norma oficial mexicana NOM-011-SSA2-1993.
 
-Un Médico Veterinario Zootecnista certificado podrá solicitar por escrito al Centro Municipal de Control Canino y Felino tener la custodia del animal y habrá de enviar e informar diariamente el estado de salud del animal en observación, de acuerdo a la Ley de Protección a los Animales para el Estado de Aguascalientes. Este beneficio no se podrá otorgar en caso de que el animal agresor sea reincidente y/o cuando no haya antecedentes de vacunaciones antirrábica (sic) previas.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2011)</small>
+
+Un Médico Veterinario Zootecnista certificado podrá solicitar por escrito al Centro de Control, Atención y Bienestar Animal tener la custodia del animal y habrá de enviar e informar diariamente el estado de salud del animal en observación, de acuerdo a la Ley de Protección a los Animales para el Estado de Aguascalientes. Este beneficio no se podrá otorgar en caso de que el animal agresor sea reincidente y/o cuando no haya antecedentes de vacunaciones antirrábica (sic) previas.
 
 En caso de que el animal resulte sano, será devuelto únicamente cuando su propietario o persona responsable lo solicite en el transcurso de 48 horas posteriores al periodo de observación, previo pago de los daños que hubiera ocasionado el animal y así lo manifieste ante la autoridad sanitaria el afectado, además de los gastos de alimentación, esterilización y multa impuesta por la autoridad municipal debido a dicha agresión.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2011)</small>
+
 ###### ARTÍCULO 434.
 
-Todo animal que presente síntomas de rabia aún cuando no haya mordido a persona alguna, será asegurado por los verificadores municipales y enviado al Centro Municipal de Control Canino y Felino para su observación; en el supuesto de que no se comprueben dichos síntomas, se procederá a lo estipulado en el último párrafo del artículo anterior.
+Todo animal que presente síntomas de rabia aún cuando no haya mordido a persona alguna, será asegurado por los verificadores municipales y enviado al Centro de Control, Atención y Bienestar Animal para su observación; en el supuesto de que no se comprueben dichos síntomas, se procederá a lo estipulado en el último párrafo del artículo anterior.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE OCTUBRE DE 2011)</small>
 
 ###### ARTÍCULO 435.
 
-Aquellas mascotas que ingresen al Centro Municipal de Control Canino y Felino en estado grave por enfermedad infectocontagiosa, degenerativa o condiciones fisiológicas irrecuperables se podrán sacrificar humanitariamente de forma inmediata para evitar su sufrimiento.
+Aquellas mascotas que ingresen al Centro de Control, Atención y Bienestar Animal en estado grave por enfermedad infectocontagiosa, degenerativa o condiciones fisiológicas irrecuperables se podrán sacrificar humanitariamente de forma inmediata para evitar su sufrimiento.
 
 Las mascotas que hayan sido severamente mordidas por otros animales infectados, serán sacrificados humanitariamente a menos de que sus propietarios o personas responsables decidan recuperarlos y los hagan vacunar.
 
@@ -5367,23 +5427,39 @@ La existencia de uno o varios perros presuntamente rabiosos que por las circunst
 
 Si durante el período de observación el animal manifiesta signos de rabia y no muere, será sacrificado humanitariamente al término de dicho período y su encéfalo será remitido al laboratorio oficial para confirmación del diagnóstico clínico de rabia.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2011)</small>
+
 ###### ARTÍCULO 439.
 
-Toda persona que tenga conocimiento de que un animal ha mordido a una persona podrá denunciar de inmediato el hecho al Centro Municipal de Control Canino y Felino o en su defecto a la unidad de salud, hospital más cercano o módulo de información y seguridad.
+Toda persona que tenga conocimiento de que un animal ha mordido a una persona podrá denunciar de inmediato el hecho al Centro de Control, Atención y Bienestar Animal o en su defecto a la unidad de salud, hospital más cercano o módulo de información y seguridad.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2011)</small>
 
 ###### ARTÍCULO 440.
 
-El reporte de la observación realizada al animal agresor o sospechoso de rabia será manejado por el Centro Municipal de Control Canino y Felino e informará de la situación a los afectados, al propietario o persona responsable del animal y/o a la institución de salud interesada, siempre y cuando sea solicitada.
+El reporte de la observación realizada al animal agresor o sospechoso de rabia será manejado por el Centro de Control, Atención y Bienestar Animal e informará de la situación a los afectados, al propietario o persona responsable del animal y/o a la institución de salud interesada, siempre y cuando sea solicitada.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE OCTUBRE DE 2011)</small>
 
 ###### ARTÍCULO 441.
 
-Queda estrictamente prohibida la pelea de perros y el trato cruel a los animales, quien así lo haga incurrirá en responsabilidad y será sancionado en los términos de este Código; además de decomisar el o los animales quedando a disposición de la autoridad en el Centro Municipal de Control Canino y Felino quien determinará lo que mejor convenga.
+Queda estrictamente prohibida la pelea de perros y el trato cruel a los animales, quien así lo haga incurrirá en responsabilidad y será sancionado en los términos de este Código; además de decomisar el o los animales quedando a disposición de la autoridad en el Centro de Control, Atención y Bienestar Animal quien determinará lo que mejor convenga.
 
 > <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2011)</small>
 
 Los cadáveres de animales que se encuentren en la vía pública, deberán ser recogidos por personal de la Secretaría de Servicios Públicos.
 
-Las mascotas que se encuentren enfermos o inmovilizados en vía pública debido a algún accidente, atropellamiento o enfermedad podrán ser llevados al Centro Municipal de Control Canino y Felino para ser sacrificados humanitariamente.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2011)</small>
+
+Las mascotas que se encuentren enfermos o inmovilizados en vía pública debido a algún accidente, atropellamiento o enfermedad podrán ser llevados al Centro de Control, Atención y Bienestar Animal para ser sacrificados humanitariamente.
 
 ###### ARTÍCULO 442.
 
@@ -5397,15 +5473,23 @@ III. Pasear al animal sólo si éste lleva puesto el collar o pechera con su res
 
 IV. Dar un trato digno al animal y en su momento la atención clínica veterinaria adecuada.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2011)</small>
+
 ###### ARTÍCULO 443.
 
-Las unidades de transporte del Centro Municipal de Control Canino y Felino serán consideradas como vehículos de emergencia y deberán estar dotadas de una torreta color ámbar.
+Las unidades de transporte del Centro de Control, Atención y Bienestar Animal serán consideradas como vehículos de emergencia y deberán estar dotadas de una torreta color ámbar.
 
 ###### ARTÍCULO 444.
 
 En el transporte de los animales capturados se deberán de cubrir los siguientes requisitos mínimos:
 
-l. El exterior del transporte deberá estar pintado en color blanco uniforme, con pintura lavable debiendo ostentar la leyenda siguiente: Centro Municipal de Control Canino y Felino.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2011)</small>
+
+I. El exterior del transporte deberá estar pintado en color blanco uniforme, con pintura lavable debiendo ostentar la leyenda siguiente: Centro de Control, Atención y Bienestar Animal.
 
 II. Las jaulas deben estar separadas de la cabina, independientes y de tamaño adecuado.
 
@@ -20318,3 +20402,9 @@ SEXTO.- Las adecuaciones presupuestales para hacer frente a la Migración del Se
 SEPTIMO.- Las prestaciones establecidas en el artículo 565 fracción XVII se implementarán a partir del ejercicio fiscal del año dos mil doce, por lo que durante el ejercicio 2011 se otorgarán las que se tienen contratadas y presupuestadas.
 
 OCTAVO.- Las disposiciones normativas relativas al Sistema Integral de Desarrollo Policial, serán atendidas en el reglamento correspondiente, el cual se emitirá en un término no mayor a ciento ochenta días naturales a partir de la entrada en vigor de estas reformas.
+
+P.O. 3 DE OCTUBRE DE 2011.
+
+PRIMERO.- El presente Reglamento entrará en vigor el primero de enero del año 2012, después de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se concede a los propietarios o arrendatarios de ranchos, haciendas o similares; expendios de animales, zoológicos, y demás personas a que se refiere este reglamento, un plazo de tres meses, para la debida observancia de las disposiciones que establece este ordenamiento legal, a partir del día siguiente de la entrada en vigencia del presente Reglamento.
