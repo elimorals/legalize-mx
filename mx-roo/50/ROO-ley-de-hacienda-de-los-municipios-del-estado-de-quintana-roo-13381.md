@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-hacienda-de-los-municipios-del-estado-de-quintana-roo-13
 country: "mx"
 rank: "ley"
 publication_date: "1997-12-15"
-last_updated: "2011-02-25"
+last_updated: "2011-10-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13381&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "ROO"
 
 LEY DE HACIENDA DE LOS MUNICIPIOS DEL ESTADO DE QUINTANA ROO
 
-> <small>N. DE E. DE ACUERDO A LO DISPUESTO EN LOS ARTICULOS PRIMERO AL NOVENO TRANSITORIOS DEL DECRETO NUMERO 409, PUBLICADO EN EL P.O. 20 DE DICIEMBRE DE 2010, EN TANTO EL ESTADO Y LOS MUNICIPIOS PERMANEZCAN ADHERIDOS AL SISTEMA NACIONAL DE COORDINACION FISCAL, SUSCRITO MEDIANTE CONVENIO Y ANEXOS RESPECTIVOS CON LA SECRETARIA DE HACIENDA Y CREDITO PUBLICO, QUEDAN EN SUSPENSO LOS IMPUESTOS Y DERECHOS QUE SE MENCIONAN EN DICHOS TRANSITORIOS.</small>
+> <small>N. DE E. DE ACUERDO A LO DISPUESTO EN LOS ARTÍCULOS PRIMERO AL NOVENO TRANSITORIOS DEL DECRETO NUMERO 409, PUBLICADO EN EL P.O. 20 DE DICIEMBRE DE 2010, EN TANTO EL ESTADO Y LOS MUNICIPIOS PERMANEZCAN ADHERIDOS AL SISTEMA NACIONAL DE COORDINACIÓN FISCAL, SUSCRITO MEDIANTE CONVENIO Y ANEXOS RESPECTIVOS CON LA SECRETARIA DE HACIENDA Y CRÉDITO PUBLICO, QUEDAN EN SUSPENSO LOS IMPUESTOS Y DERECHOS QUE SE MENCIONAN EN DICHOS TRANSITORIOS.</small>
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE FEBRERO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE OCTUBRE DE 2011.
 
 Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el lunes 15 de diciembre de 1997.
 
@@ -639,169 +639,43 @@ Las Autoridades Municipales deberán dar aviso a la Tesorería, con la anticipac
 
 El incumplimiento de las disposiciones establecidas con relación al Impuesto sobre Diversiones, Video Juegos y Espectáculos Públicos, será sancionado con lo establecido en el Código Fiscal Municipal.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 16 DE DICIEMBRE DE 2003)</small>
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL IMPUESTO SOBRE ADQUISICION DE BIENES INMUEBLES DE LOS MUNICIPIOS DEL ESTADO DE QUINTANA ROO, P.O. 3 DE OCTUBRE DE 2011)</small>
 
 ### CAPITULO III. IMPUESTO SOBRE ADQUISICION DE INMUEBLES, OBJETO, SUJETO, BASE Y TASA DEL IMPUESTO
 
-> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2003)</small>
-
 ###### ARTÍCULO 29.
 
-Es objeto de este impuesto:
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL IMPUESTO SOBRE ADQUISICION DE BIENES INMUEBLES DE LOS MUNICIPIOS DEL ESTADO DE QUINTANA ROO, P.O. 3 DE OCTUBRE DE 2011)
 
-> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2008)</small>
-
-a) La adquisición de bienes inmuebles que consistan en terreno, terreno con construcción ubicados en el Territorio del Municipio, así como los derechos relacionados con el mismo;
-
-b) La celebración de contratos que impliquen la compra-venta con reserva de dominio o sujeta a condición.
-
-c) La adquisición de propiedad en virtud de remate judicial, o administrativo y por adjudicación sucesoria.
-
-d) La permuta, cuando a través de ella se transmita la propiedad.
-
-e) La transmisión de la propiedad de bienes inmuebles, que realice el fideicomitente en la constitución del fideicomiso traslativo de dominio o la aportación de estos a un fideicomiso.
-
-f) La transmisión de la propiedad de bienes inmuebles, que haga la fiduciaria en cumplimiento del fideicomiso.
-
-g) La cesión de derechos de fideicomitentes o fideicomisarios, se considerará que exista ésta, cuando haya sustitución de un fideicomitente o de un fideicomisario, por cualquier motivo.
-
-h) La transmisión de la propiedad por herencia o legado.
-
-i) La cesión de derechos en los contratos de arrendamiento financiero, sobre inmuebles, así como, la adquisición de los bienes materia del mismo, que se efectúe por una persona distinta al arrendatario por cesión o cualquier otro título.
-
-> <small>(ADICIONADO, P.O. 12 DE DICIEMBRE DE 2008)</small>
-
-j) La adquisición de inmuebles en dación de pago.
-
-> <small>(DEROGADO ULTIMO PARRAFO, P.O. 20 DE DICIEMBRE DE 2010)</small>
-
-> <small>(ADICIONADO, P.O. 12 DE DICIEMBRE DE 2008)</small>
-
-ARTÍCULO 29 BIS.- Es sujeto de este impuesto, la persona física o jurídica que, como resultado de cualquiera de los actos jurídicos o contratos a que se refiere el artículo anterior, adquiere el dominio, derecho de propiedad, copropiedad o cualquier derecho real sobre uno o más bienes inmuebles.
-
-> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2003)</small>
+ARTÍCULO 29 BIS.- (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL IMPUESTO SOBRE ADQUISICION DE BIENES INMUEBLES DE LOS MUNICIPIOS DEL ESTADO DE QUINTANA ROO, P.O. 3 DE OCTUBRE DE 2011)
 
 ###### ARTÍCULO 30.
 
-No se pagará el impuesto establecido en el artículo 29 de esta Ley en las adquisiciones de inmuebles hechas por entes u organismos Estatales o Municipales para la vivienda, su legalización, y regularización y, a personas que resulten beneficiadas con sus programas, que no sean propietarias de otro inmueble y que lo destinen a casa habitación.
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE DICIEMBRE DE 2010)</small>
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL IMPUESTO SOBRE ADQUISICION DE BIENES INMUEBLES DE LOS MUNICIPIOS DEL ESTADO DE QUINTANA ROO, P.O. 3 DE OCTUBRE DE 2011)
 
 ###### ARTÍCULO 31.
 
-El valor del inmueble que se considerará para la determinación del impuesto sobre adquisición de inmuebles, será el que resulte más alto entre:
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO NOVENO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2009)</small>
-
-I.- El valor de la adquisición o precio pactado, actualizado por el factor que se obtenga de dividir el índice de precios al consumidor del mes inmediato anterior a aquel en que sea exigible el pago, entre el índice del mes anterior en que se efectuó la adquisición.
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO NOVENO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2009)</small>
-
-II.- El avalúo catastral con una antigüedad no mayor de 180 días a la fecha de adquisición.
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO NOVENO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2009)</small>
-
-III.- El avaluó practicado por peritos valuadores que se encuentren inscritos en el registro estatal correspondiente o el avalúo practicado por institución bancaria; en ambos casos con una antigüedad no mayor de 180 días a la fecha de adquisición.
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO NOVENO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2009)</small>
-
-Cuando no exista el valor o precio pactado a que se refiere la fracción I, se aplicará el avalúo que resulte más alto de las fracciones II y III.
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO NOVENO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2009)</small>
-
-Para los fines de esta ley, se considera que el usufructo o la nuda propiedad tienen un valor cada uno de ellos del 50% del valor de la propiedad a que se refiere este artículo.
-
-> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2010)</small>
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL IMPUESTO SOBRE ADQUISICION DE BIENES INMUEBLES DE LOS MUNICIPIOS DEL ESTADO DE QUINTANA ROO, P.O. 3 DE OCTUBRE DE 2011)
 
 ###### ARTÍCULO 31
 
-BIS. - El impuesto se calculará aplicando la tasa del 2% al valor del inmueble.
+BIS. - (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL IMPUESTO SOBRE ADQUISICION DE BIENES INMUEBLES DE LOS MUNICIPIOS DEL ESTADO DE QUINTANA ROO, P.O. 3 DE OCTUBRE DE 2011)
 
 ###### ARTÍCULO 32.
 
-El pago del impuesto deberá hacerse dentro de los quince días siguientes a aquél en que se realicen cualquiera de los supuestos que a continuación se señalan:
-
-I.- Cuando se constituya o adquiera el usufructo o la nuda propiedad. En el caso de usufructo temporal, cuando se extinga;
-
-II.- A la adjudicación de los bienes de la sucesión o a los tres años de la muerte del autor de la misma, si transcurrido dicho plazo no se hubiera llevado a cabo la adjudicación, así como al cederse los derechos hereditarios o al enajenarse bienes por la sucesión. En estos dos últimos casos, el impuesto correspondiente a la adquisición por causa de muerte, se causará en el momento en que se realice la cesión o la enajenación, independientemente del que se cause por el cesionario o por el adquiriente;
-
-III.- Tratándose de adquisiciones efectuadas a través de fideicomisos, cuando se realicen los supuestos de enajenación en los términos del Código Fiscal Municipal;
-
-> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2008)</small>
-
-IV.- Cuando se adquieran bienes inmuebles por dación en pago, se tomará como base gravable el avalúo comercial practicado por persona autorizada, a partir de la fecha de la celebración del convenio respectivo;
-
-V.- Al proporcionarse o inscribirse el reconocimiento judicial de la prescripción positiva, remate judicial y administrativo;
-
-VI.- En los casos no previstos en las fracciones anteriores, cuando los actos de que se trate se eleven a escritura pública o se inscriban en el Registro Público para poder surtir efectos en los términos del derecho común; y si no están sujetos a esta formalidad, al adquirirse el dominio conforme a las leyes; y
-
-VII.- (DEROGADA, P.O. 12 DE DICIEMBRE DE 2008)
-
-> <small>(ADICIONADO, P.O. 12 DE DICIEMBRE DE 2008)</small>
-
-En todos los casos el pago del impuesto se hará en la Tesorería Municipal, utilizando las formas que para tal fin autorice esa dependencia y a las que acompañará siempre, una copia del avalúo a que se refiere el artículo 31 de esta Ley.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL IMPUESTO SOBRE ADQUISICION DE BIENES INMUEBLES DE LOS MUNICIPIOS DEL ESTADO DE QUINTANA ROO, P.O. 3 DE OCTUBRE DE 2011)
 
 ###### ARTÍCULO 33.
 
-En las adquisiciones que se hagan constar en escritura pública, los Notarios, Jueces, Corredores y demás fedatarios que por disposición legal tengan funciones notariales, calcularán el impuesto bajo su responsabilidad, lo harán constar en escritura pública y lo enterarán mediante declaración autorizada, en la Tesorería Municipal que corresponda a su domicilio, expresando:
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL IMPUESTO SOBRE ADQUISICION DE BIENES INMUEBLES DE LOS MUNICIPIOS DEL ESTADO DE QUINTANA ROO, P.O. 3 DE OCTUBRE DE 2011)
 
-> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2005)</small>
+###### ARTÍCULO 34.
 
-I.- Nombre y dominio de los contratantes y del adquiriente;
-
-II.- Nombre del notario o fedatario, así como el número de la notaría en que se otorgó la escritura;
-
-III.- Fecha y lugar en que se firmó la escritura pública;
-
-IV.- Naturaleza del acto o concepto de la adquisición;
-
-V.- Ubicación y nomenclatura del bien inmueble;
-
-VI.- Valor de la operación, valor catastral y avalúo bancario, acompañando copia del avalúo correspondiente;
-
-(REFORMADA, P.O. 30 DE DICIEMBRE DE 2002) (F. DE E., P.O. 14 DE FEBRERO DE 2003)
-
-VII.- Tratándose de compraventa de inmuebles colindantes con la Zona Federal Marítimo Terrestre, que usen o gocen la misma, teniendo o no concesión autorizada, deberán presentar la constancia de uso o no uso de concesión, en caso de contar con la constancia de uso de concesión, presentar constancia de no adeudo por derechos de uso y goce de la Zona Federal Marítimo terrestre, así como la copia de la última declaración y copia del recibo oficial expedido por la Tesorería Municipal con el que acrediten estar al corriente en el pago de esta contribución y los derechos que señala el artículo 121 de esta Ley;
-
-Tratándose de unidades privativas pertenecientes a fraccionamientos o a condominios, las constancias de no adeudo, podrán ser las correspondientes a la parte proporcional del pago realizado por cada una de las unidades privativas y dichas unidades serán responsables por los adeudos de la proporcionalidad de los proindivisos;
-
-VIII.- Copia del certificado de no adeudo de cooperación por obras;
-
-> <small>(ADICIONADA, P.O. 15 DE DICIEMBRE DE 1998)</small>
-
-IX.- Tratándose de compra-venta de inmuebles, deberán presentar copia del recibo oficial de pago del impuesto predial, expedido por la Tesorería Municipal con el que acrediten estar al corriente en el pago de esta contribución;
-
-> <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 2003)</small>
-
-X.- Los Notarios Públicos tendrán la obligación de presentar a la Tesorería Municipal, un informe detallado, a mas tardar en el mes de enero de cada año, correspondiente al año anterior, sobre las escrituras públicas y cualquier otro documento que transmita la propiedad de bienes inmuebles en los que hubiesen intervenido y que por alguna razón no fueron inscritos en el Registro Público de la Propiedad y del Comercio y que por consecuencia, no estuviese cubierto el Impuesto sobre Adquisición de Inmuebles.
-
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2001)</small>
-
-ARTÍCULO 34 La vivienda de interés social y popular tendrá un deducible equivalente para la ZONA "A" y ZONA "B" a 5 días de S.M.G. y para la ZONA "C" a 10 días de S.M.G. vigente en el Estado elevado al año, mismo que será aplicable a la base para el cálculo del impuesto.
-
-Para los efectos de este artículo se considera:
-
-> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2003)</small>
-
-I.- Vivienda de interés social, aquella cuyo valor al término de su edificación, no exceda de la cantidad que resulte de multiplicar la ZONA "A" por diez y para la ZONA "B" Y ZONA "C" por quince el S.M.G. elevado al año; y
-
-II.- Vivienda popular; aquella cuyo valor al término de su edificación, no exceda del importe que resulte de multiplicar para la ZONA "a" por veinte y para la ZONA "B" y ZONA "C" por veinticinco el S.M.G. elevado al año.
-
-> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2003)</small>
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL IMPUESTO SOBRE ADQUISICION DE BIENES INMUEBLES DE LOS MUNICIPIOS DEL ESTADO DE QUINTANA ROO, P.O. 3 DE OCTUBRE DE 2011)
 
 ###### ARTÍCULO 34
 
-BIS.- Para los efectos de este capítulo, cuando el enajenante, persona física o moral, sea un fraccionador, desarrollador o urbanizador inmobiliario, estará obligado a remitir a la Tesorería Municipal, copia de los contratos de promesa de compraventa y cesiones de derecho, a mas tardar dentro de los 30 días naturales siguientes a la fecha de su celebración.
+BIS.- (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL IMPUESTO SOBRE ADQUISICION DE BIENES INMUEBLES DE LOS MUNICIPIOS DEL ESTADO DE QUINTANA ROO, P.O. 3 DE OCTUBRE DE 2011)
 
 ### CAPITULO IV. DEL IMPUESTO SOBRE EL USO O TENENCIA DE VEHÍCULOS QUE NO CONSUMAN GASOLINA NI OTRO DERIVADO DEL PETRÓLEO
 
@@ -4109,7 +3983,7 @@ EL C. SECRETARIO GENERAL DE GOBIERNO.
 
 DR. HECTOR ESQUILIANO SOLIS.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 15 DE DICIEMBRE DE 1998.
 
@@ -4956,3 +4830,11 @@ P.O. 25 DE FEBRERO DE 2011.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
 
 SEGUNDO.- Los escudos que se exhiban en los edificios públicos, escuelas o en otras instituciones, deberán ajustarse a la reforma del Artículo 6 de la Ley Sobre las Características y el Uso del Escudo del Estado de Quintana Roo establecida en el presente Decreto. Se, exceptúan los escudos esculpidos en edificios o centros históricos que se encuentren ubicados en el Estado de Quintana Roo, que constituyan por su valor cultural o trascendencia social, parte indisoluble de la peculiaridad del pueblo quintanarroense.
+
+P.O. 3 DE OCTUBRE DE 2011.
+
+PRIMERO.- La presente Ley entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO.- A partir de la entrada en vigor de esta Ley se derogan el Capítulo III del Título Segundo de la Ley de Hacienda de los Municipios del Estado de Quintana Roo y sus correspondientes artículos, que comprenden del 29 al 34-BIS de la citada Ley, por lo que las leyes que remitan a esos preceptos se entenderán referidos a los correspondientes de esta Ley del Impuesto Sobre Adquisición de Bienes Inmuebles de los Municipios del Estado de Quintana Roo.
+
+TERCERO.- Se derogan todas aquellas disposiciones que contravengan la presente Ley.
