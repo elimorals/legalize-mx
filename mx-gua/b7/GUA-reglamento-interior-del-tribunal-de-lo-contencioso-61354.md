@@ -4,7 +4,7 @@ identifier: "GUA-reglamento-interior-del-tribunal-de-lo-contencioso-61354"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-04-29"
-last_updated: "2011-02-11"
+last_updated: "2011-10-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61354&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 REGLAMENTO INTERIOR DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE GUANAJUATO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE FEBRERO DE 2011.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE OCTUBRE DE 2011.
 
 Reglamento publicado en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el martes 29 de abril de 2008.
 
@@ -287,9 +287,11 @@ X. Desempeñar las funciones que las demás leyes o disposiciones le establezcan
 
 #### SECCIÓN TERCERA. DE LOS PROYECTISTAS
 
+> <small>(REFORMADO, P.O. 4 DE OCTUBRE DE 2011)</small>
+
 ###### Artículo 19.
 
-El Pleno y cada una de las Salas contarán con el número de proyectistas que determine el Consejo y permita el presupuesto. Los Proyectistas de Pleno dependerán del Presidente; los de Sala, del Magistrado a la que estén adscritos.
+El Pleno y cada una de las Salas contarán con el número de proyectistas que determine el Consejo y permita el presupuesto.
 
 ###### Artículo 20.
 
@@ -409,25 +411,19 @@ XIII. Las demás que le señalen la Ley y otros ordenamientos jurídicos.
 
 ### CAPÍTULO SEXTO. DE LA UNIDAD DE DEFENSORÍA DE OFICIO
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE OCTUBRE DE 2011)</small>
+
 ###### Artículo 30.
 
-Para cumplir con el fin de procurar justicia administrativa en el Estado, la Unidad de Defensoría de Oficio se integrará con:
+La Unidad de Defensoría de Oficio se integrará con:
 
 l. Un Coordinador, auxiliado por el personal administrativo que requiera el servicio; y
 
-ll. Defensorías de Oficio Regionales, las que se encontrarán a cargo de los Defensores, auxiliados por el personal jurídico y administrativo que requiera el servicio y autorice el presupuesto, ubicadas de la siguiente manera:
+> <small>(REFORMADA, P.O. 4 DE OCTUBRE DE 2011)</small>
 
-a) Región l, con sede en la ciudad de Guanajuato, que comprende los municipios de: Dolores Hidalgo Cuna de la Independencia Nacional, Guanajuato, Romita, Silao y San Miguel de Allende;
+II. Defensorías de Oficio Regionales, las que se encontrarán a cargo de los Defensores, auxiliados por el personal jurídico y administrativo que requiera el servicio y autorice el presupuesto.
 
-b) Región ll, con sede en la ciudad de León, que comprende los municipios de: Ciudad Manuel Doblado, León, Ocampo, Purísima del Rincón, San Felipe y San Francisco del Rincón;
-
-c) Región lll, con sede en la ciudad de San Luis de la Paz, que comprende los municipios de: Atarjea, Doctor. Mora, San Diego de la Unión, San José Iturbide, San Luis de la Paz, Santa Catarina, Tierra Blanca, Victoria y Xichu;
-
-d) Región IV, con sede en la ciudad de Celaya, que comprende los municipios de: Acámbaro, Apaseo el Alto, Apaseo el Grande, Celaya, Comonfort, Coroneo, Cortazar, Jaral del Progreso, Jerécuaro, Moroleón, Salvatierra, Santa Cruz de Juventino Rosas, Santiago Maravatio, Tarandacuao, Tarimoro, Uriangato, Villagran y Yuriria;
-
-e) Región V, con sede en la ciudad de Irapuato, que comprende los municipios de: Abasolo, Cuerámaro, Huanímaro, Irapuato, Pénjamo, Salamanca, Pueblo Nuevo y Valle de Santiago.
-
-El Consejo podrá crear nuevas defensorías de oficio regionales modificar las existentes.
+El Consejo aprobará el número y ubicación de las Defensorías Regionales.
 
 ###### Artículo 31.
 
@@ -661,11 +657,13 @@ IX. Las demás que le encomienden las disposiciones legales y administrativas y 
 
 ### CAPÍTULO OCTAVO. DEL INSTITUTO DE LA JUSTICIA ADMINISTRATIVA
 
+> <small>(REFORMADO, P.O. 4 DE OCTUBRE DE 2011)</small>
+
 ### CAPÍTULO NOVENO. DE LA UNIDAD DE ACCESO A LA INFORMACIÓN PÚBLICA
 
 ###### Artículo 43.
 
-El Instituto, dependerá del Presidente y contará con las siguientes Coordinaciones: de Docencia; de Investigación y Biblioteca; de Administración y Servicio Administrativo de Carrera, cuyos titulares serán nombrados por el Consejo a propuesta del Presidente.
+El Instituto, dependerá del Presidente y contará con las siguientes Coordinaciones: Investigación y Biblioteca, y Administración, Docencia y Servicio Administrativo de Carrera, cuyos titulares serán nombrados por el Consejo a propuesta del Presidente.
 
 ###### Artículo 44.
 
@@ -691,71 +689,91 @@ IX. Actualizar, ordenar y conservar el acervo bibliográfico, hemerográfico, vi
 
 X. Las demás que le confieran otras disposiciones, encomiende el Consejo y el Presidente.
 
+> <small>(DEROGADA CON EL ARTICULO QUE LA INTEGRA, P.O. 4 DE OCTUBRE DE 2011)</small>
+
 #### SECCIÓN PRIMERA. DE LA COORDINACIÓN DE DOCENCIA
 
 ###### Artículo 45.
 
-Corresponde a la Coordinación de Docencia:
-
-l. Operar y evaluar los programas académicos, cursos y talleres aprobados por el Consejo, y proponer las adecuaciones correspondientes a los planes de estudios;
-
-ll. Administrar el sistema de control escolar de los programas académicos y cursos que imparta el Instituto, la selección de alumnos, la integración de su expediente académico, su evaluación y constancias;
-
-lll. Apoyar al profesorado del Instituto en sus labores docentes y en la preparación del material didáctico;
-
-IV. Formular las constancias de estudio y acreditación de los cursos que imparta el Instituto;
-
-V. Cumplir con las normas y criterios que se establezcan para la acreditación de cada uno de los programas y cursos que imparta el Instituto;
-
-VI. Preparar los proyectos de colaboración institucional con tribunales, universidades, organismos públicos o privados, personal académico en lo particular, cuyos objetivos y funciones sean afines y complementarios a los del Instituto y someterlos al Consejo para su aprobación; a través de la Dirección; y
-
-VII. Las demás que le encomiende el Director del Instituto y sean afines a la Coordinación.
+(DEROGADO, P.O. 4 DE OCTUBRE DE 2011)
 
 #### SECCIÓN SEGUNDA. DE LA COORDINACIÓN DE INVESTIGACIÓN Y BIBLIOTECA
 
+> <small>(REFORMADO, P.O. 4 DE OCTUBRE DE 2011)</small>
+
 ###### Artículo 46.
 
-Corresponde a la Coordinación de Investigación y Biblioteca:
+Corresponde a la Coordinación de Investigación y Biblioteca las siguientes atribuciones:
 
-l. Proponer al Consejo, través del Director, las líneas de investigación que contribuyan al desarrollo y mejoramiento continuo de la función jurisdiccional administrativa en el Estado, así como la celebración de convenios con instituciones afines;
+I. En materia de Investigación:
 
-ll. Desarrollar y coordinar los proyectos de investigación, con base en el programa aprobado por el Consejo, y aquéllos que sirvan de apoyo a las funciones del Instituto;
+a) Proponer al Consejo, a través del Director, las líneas de investigación que contribuyan al desarrollo y mejoramiento continuo de la función jurisdiccional administrativa del Tribunal y del Estado, así como la celebración de convenios con instituciones afines;
 
-lll. Participar con ensayos en la publicación de las revistas del Tribunal y del Instituto;
+b) Desarrollar y coordinar proyectos de investigación y aquellos que sirvan de apoyo a las funciones del Instituto, con base en el programa aprobado por el Consejo;
 
-IV. Llevar el inventario y custodia del acervo bibliográfico con que cuente el Tribunal, debidamente catalogado;
+c) Participar con ensayos, reseñas, entre otros, en la publicación de las revistas del Tribunal y del Instituto;
 
-V. Supervisar la consulta interna del acervo de la biblioteca;
+d) Compilar los principales criterios jurisprudenciales emitidos por el Poder Judicial de la Federación en materia administrativa y fiscal, por el Tribunal Federal de Justicia Fiscal y Administrativa; y de los criterios, tesis y, en su caso, jurisprudencia de los Tribunales homólogos en las entidades federativas de la República Mexicana, procurando su actualización, difusión y análisis permanente;
 
-VI. Mantener actualizado el acervo de las publicaciones oficiales periódicas, así como otras leyes, reglamentos, bandos, decretos y, demás disposiciones en materia administrativa y fiscal;
+e) Evaluar los programas académicos, cursos y talleres aprobados por el Consejo, y proponer las adecuaciones correspondientes a los planes de estudios; y
 
-VII. Elaborar la propuesta del programa anual de adquisiciones de bibliografía del Tribunal;
+f) Preparar los proyectos de colaboración institucional con tribunales, universidades, organismos públicos o privados, personal académico en lo particular, cuyos objetivos y funciones sean afines y complementarios a los del Instituto y someterlos a consideración del Consejo para su aprobación a través de la Dirección.
 
-Vlll. Aplicar el reglamento de uso interno de la biblioteca;
+II. En materia de Biblioteca:
 
-IX. Compilar los principales criterios jurisprudenciales emitidos por el Poder Judicial de la Federación en materia administrativa y fiscal, por el Tribunal Federal de Justicia Fiscal y Administrativa; y de los criterios, tesis y, en su caso, jurisprudencia de los Tribunales homólogos en las entidades federativas de la República Mexicana, procurando su actualización, difusión y análisis permanente; y
+a) Llevar el inventario y custodia del acervo bibliográfico con que cuente el Tribunal, debidamente catalogado;
 
-X. Todas aquellas encomendadas por el Director del Instituto y sean afines a la coordinación.
+b) Supervisar la consulta interna del acervo de la biblioteca;
 
-#### SECCIÓN TERCERA. DE LA COORDINACIÓN DE ADMINISTRACIÓN Y SERVICIO ADMINISTRATIVO DE CARRERA
+c) Mantener actualizado el acervo de las publicaciones oficiales periódicas, así como otras leyes, reglamentos, bandos, decretos y demás disposiciones en materia administrativa y fiscal;
+
+d) Elaborar la propuesta del programa anual de adquisiciones de bibliografía del Tribunal; y
+
+e) Aplicar el reglamento de uso interno de la biblioteca.
+
+III. Las demás que le encomiende, el Consejo, el Presidente o el Director del Instituto.
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 4 DE OCTUBRE DE 2011)</small>
+
+#### SECCIÓN TERCERA. DE LA COORDINACIÓN DE ADMINISTRACIÓN, DOCENCIA Y SERVICIO ADMINISTRATIVO DE CARRERA
+
+> <small>(REFORMADO, P.O. 4 DE OCTUBRE DE 2011)</small>
 
 ###### Artículo 47.
 
-Corresponde a la Coordinación de Administración y Servicio Administrativo de Carrera:
+Corresponde a la Coordinación de Administración, Docencia y Servicio Administrativo de Carrera las siguientes atribuciones:
 
-l. Elaborar el anteproyecto de presupuesto anual y pronóstico de ingresos de las actividades del Instituto;
+I. En materia de Administración:
 
-ll. Atender las necesidades administrativas del Instituto y coordinarse con la Dirección Administrativa para establecer el control de los ingresos que obtenga y del presupuesto que ejerza con motivo de las actividades a su cargo;
+a) Elaborar el anteproyecto de presupuesto anual y pronóstico de ingresos de las actividades del Instituto;
 
-lll. Diseñar, proponer y desarrollar el programa de promoción y difusión de las actividades del Instituto y de las convocatorias e invitaciones para los procesos de admisión de los diversos programas académicos que ofrece;
+b) Atender las necesidades administrativas del Instituto y coordinarse con la Dirección Administrativa para establecer el control de los ingresos que obtenga y del presupuesto que ejerza, con motivo de las actividades a su cargo; y
 
-IV. Colaborar en la ejecución del programa editorial del Tribunal;
+c) Colaborar en la ejecución del programa editorial del Tribunal.
 
-V. Dar seguimiento a la implementación del Servicio Administrativo de Carrera;
+II. En materia de Docencia:
 
-Vl. Ejecutar análisis y formular propuestas para el desarrollo del Servicio Administrativo de Carrera; y
+a) Operar los programas académicos, cursos y talleres aprobados por el Consejo;
 
-VIl. Las demás que le encomiende el Director del Instituto y sean afines a la Coordinación.
+b) Administrar el sistema de control escolar de los programas académicos y cursos que imparta el Instituto, la selección de alumnos, la integración de su expediente académico, su evaluación y constancias;
+
+c) Apoyar al profesorado del Instituto en sus labores docentes y en la preparación del material didáctico;
+
+d) Formular las constancias de estudio y acreditación de los cursos que imparta el Instituto; y
+
+e) Cumplir con las normas y criterios que se establezcan para la acreditación de cada uno de los programas y cursos que imparta el Instituto.
+
+III. En materia de Servicio Administrativo de Carrera:
+
+a) Operar el Servicio Administrativo de Carrera;
+
+b) Dar seguimiento a la implementación del Servicio Administrativo de Carrera;
+
+c) Diseñar, proponer y desarrollar el programa de promoción y difusión de las actividades del Instituto y de las convocatorias e invitaciones para los procesos de admisión de los diversos programas académicos que ofrece, con apoyo de la Coordinación de Investigación y Biblioteca; y
+
+d) Analizar y formular propuestas para el desarrollo del Servicio Administrativo de Carrera, con apoyo de la Coordinación de Investigación y Biblioteca.
+
+IV. Las demás que le encomiende, el Consejo, el Presidente o el Director del Instituto.
 
 ### CAPÍTULO DÉCIMO. DE LA UNIDAD DE CONTROL INTERNO
 
@@ -866,5 +884,9 @@ Secretaria General de Acuerdos
 > <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
 
 P.O. 11 DE FEBRERO DE 2011.
+
+ÚNICO.- El presente Acuerdo entrará en vigor al cuarto día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 4 DE OCTUBRE DE 2011.
 
 ÚNICO.- El presente Acuerdo entrará en vigor al cuarto día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
