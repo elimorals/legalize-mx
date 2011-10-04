@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-fraccionamientos-para-el-estado-de-guanajuato-y-sus-3345
 country: "mx"
 rank: "ley"
 publication_date: "2003-08-15"
-last_updated: "2010-11-26"
+last_updated: "2011-10-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33457&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY DE FRACCIONAMIENTOS PARA EL ESTADO DE GUANAJUATO Y SUS MUNICIPIOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE NOVIEMBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE OCTUBRE DE 2011.
 
 Ley publicada en la Tercera Parte del Periódico Oficial del Estado de Guanajuato, el viernes 15 de agosto del 2003.
 
@@ -59,53 +59,61 @@ II.- Desarrollador: La persona física o moral propietaria de un inmueble que pr
 
 III.- Desarrollo en Condominio: El proyecto de urbanización de un inmueble y en su caso, la construcción o modificación de una edificación o grupo de edificaciones en forma vertical, horizontal o mixta a partir de 24 unidades, para cualquier transmisión de derechos reales, en donde existan elementos indivisibles de uso común por condiciones constructivas o por voluntad del propietario;
 
-IV.- Dirección: La unidad administrativa municipal competente para ejercer atribuciones en materia de desarrollo urbano, divisiones, relotificaciones, fraccionamientos y desarrollos en condominio;
+> <small>(ADICIONADA, P.O. 4 DE OCTUBRE DE 2011)</small>
 
-V.- Equipamiento Urbano: El conjunto de inmuebles, instalaciones, construcciones y mobiliario afectos a un servicio público, para obras complementarias del asentamiento humano y de beneficio colectivo y para obras relativas a la cultura, educación, esparcimiento, deporte o asistenciales;
+IV.- Desarrollos en Condominio Ecológicos: Aquellos que cuentan, en cada área privativa, en las áreas comunes y en la infraestructura, equipamiento y servicios urbanos, con tecnologías sustentables que disminuyen el consumo de agua, energía eléctrica y gas, así como las emisiones a la atmósfera;
 
-VI.- Fraccionamiento: La partición de un inmueble, siempre y cuando se requiera del trazo de una o más vías públicas para generar lotes, así como de la ejecución de obras de urbanización que le permitan la dotación de infraestructura, equipamiento y servicios urbanos, con el propósito de enajenar los lotes resultantes en cualquier régimen de propiedad previsto por el Código Civil;
+V.- Dirección: La unidad administrativa municipal competente para ejercer atribuciones en materia de desarrollo urbano, divisiones, relotificaciones, fraccionamientos y desarrollos en condominio;
 
-VII.- Fraccionamientos Agropecuarios: Aquellos que se destinarán a las actividades agropecuarias y que se ubiquen fuera de las zonas de crecimiento marcado por los planes de ordenamiento territorial;
+VI.- Equipamiento Urbano: El conjunto de inmuebles, instalaciones, construcciones y mobiliario afectos a un servicio público, para obras complementarias del asentamiento humano y de beneficio colectivo y para obras relativas a la cultura, educación, esparcimiento, deporte o asistenciales;
 
-VIII.- Fraccionamientos Campestres: Aquellos cuyos lotes se destinarán a uso habitacional unifamiliar y que se ubiquen fuera de las zonas de crecimiento marcado por los planes de ordenamiento territorial;
+VII.- Fraccionamiento: La partición de un inmueble, siempre y cuando se requiera del trazo de una o más vías públicas para generar lotes, así como de la ejecución de obras de urbanización que le permitan la dotación de infraestructura, equipamiento y servicios urbanos, con el propósito de enajenar los lotes resultantes en cualquier régimen de propiedad previsto por el Código Civil;
 
-IX.- Fraccionamientos Comerciales: Aquellos cuyos lotes se destinarán al establecimiento de bodegas para depósito y expendio de mercancías y, que deberán estar ubicados dentro de la zona urbana o áreas de futuro crecimiento destinadas a este uso;
+VIII.- Fraccionamientos Agropecuarios: Aquellos que se destinarán a las actividades agropecuarias y que se ubiquen fuera de las zonas de crecimiento marcado por los planes de ordenamiento territorial;
 
-X.- Fraccionamientos Industriales: Aquellos cuyos lotes se destinarán al establecimiento de fábricas o plantas industriales y que deberán estar ubicados dentro de las áreas destinadas a ese uso, de conformidad con lo establecido por el Plan de Ordenamiento Territorial correspondiente, en su caso, se sujetarán a lo dispuesto por el Plan o Programa Municipal de Desarrollo Urbano que corresponda;
+IX.- Fraccionamientos Campestres: Aquellos cuyos lotes se destinarán a uso habitacional unifamiliar y que se ubiquen fuera de las zonas de crecimiento marcado por los planes de ordenamiento territorial;
 
-XI.- Fraccionamientos Turístico, Recreativo-Deportivos: Aquellos que se destinarán además de la vivienda, al fomento de las actividades de esparcimiento y cuyo aprovechamiento predominante para el uso y destino del suelo será para el desarrollo de las actividades turísticas, recreativo-deportivas que deberán estar ubicados dentro de la zona urbana o áreas de futuro crecimiento, destinadas a este uso;
+X.- Fraccionamientos Comerciales: Aquellos cuyos lotes se destinarán al establecimiento de bodegas para depósito y expendio de mercancías y, que deberán estar ubicados dentro de la zona urbana o áreas de futuro crecimiento destinadas a este uso;
 
-XII.- Fraccionamientos Urbanos: Aquellos que se destinen a uso habitacional y que se ubiquen en las áreas destinadas a futuro crecimiento de la ciudad o población de que se trate, de conformidad con lo establecido en el Plan de Ordenamiento Territorial correspondiente y declaratorias de uso del suelo, destino y reservas territoriales respectivas;
+> <small>(ADICIONADA, P.O. 4 DE OCTUBRE DE 2011)</small>
 
-XIII.- Fraccionamientos de Urbanización Inmediata: Aquellos en que las obras de urbanización se realizarán completas o con garantía previa a la obtención del permiso de venta correspondiente, en los plazos y términos dispuestos por esta Ley y su Reglamento;
+XI.- Fraccionamientos Ecológicos: Aquellos que cuentan, en cada lote y en la infraestructura, equipamiento y servicios urbanos, con tecnologías sustentables que disminuyen el consumo de agua, energía eléctrica y gas, así como las emisiones a la atmósfera;
 
-XIV.- Fraccionamientos de Urbanización Progresiva: Aquellos fraccionamientos habitacionales que por las condiciones especiales de la zona en que se ubicarán, por la limitada capacidad económica de quienes vayan a habitarlos y por la urgencia inmediata de resolver problemas de vivienda, pueden ser autorizados, con los requisitos mínimos de urbanización que esta Ley determina;
+XII.- Fraccionamientos Industriales: Aquellos cuyos lotes se destinarán al establecimiento de fábricas o plantas industriales y que deberán estar ubicados dentro de las áreas destinadas a ese uso, de conformidad con lo establecido por el Plan de Ordenamiento Territorial correspondiente, en su caso, se sujetarán a lo dispuesto por el Plan o Programa Municipal de Desarrollo Urbano que corresponda;
 
-XV.- Fraccionamientos de Usos Mixtos o de Usos Compatibles: Aquellos en los que se podrán determinar diferentes usos y destinos de sus lotes, siempre y cuando sean compatibles de acuerdo a lo dispuesto por el Plan de Ordenamiento Territorial correspondiente;
+XIII.- Fraccionamientos Turístico, Recreativo-Deportivos: Aquellos que se destinarán además de la vivienda, al fomento de las actividades de esparcimiento y cuyo aprovechamiento predominante para el uso y destino del suelo será para el desarrollo de las actividades turísticas, recreativo-deportivas que deberán estar ubicados dentro de la zona urbana o áreas de futuro crecimiento, destinadas a este uso;
 
-XVI.- Licencia de Urbanización: La autorización en la que se señalan las especificaciones de urbanización que tendrán los sistemas de infraestructura urbana de un fraccionamiento o desarrollo en condominio;
+XIV.- Fraccionamientos Urbanos: Aquellos que se destinen a uso habitacional y que se ubiquen en las áreas destinadas a futuro crecimiento de la ciudad o población de que se trate, de conformidad con lo establecido en el Plan de Ordenamiento Territorial correspondiente y declaratorias de uso del suelo, destino y reservas territoriales respectivas;
 
-XVII.- Modificación de Traza: El trámite promovido por el desarrollador con el propósito de variar las características del proyecto de un fraccionamiento o desarrollo en condominio al que se le haya otorgado la aprobación de traza;
+XV.- Fraccionamientos de Urbanización Inmediata: Aquellos en que las obras de urbanización se realizarán completas o con garantía previa a la obtención del permiso de venta correspondiente, en los plazos y términos dispuestos por esta Ley y su Reglamento;
 
-XVIII.- Obra de Urbanización: Las obras e instalaciones necesarias para dotar a las fracciones o partes resultantes de un fraccionamiento o desarrollo en condominio de la infraestructura hidráulica, sanitaria, eléctrica, pavimentación y alumbrado público;
+XVI.- Fraccionamientos de Urbanización Progresiva: Aquellos fraccionamientos habitacionales que por las condiciones especiales de la zona en que se ubicarán, por la limitada capacidad económica de quienes vayan a habitarlos y por la urgencia inmediata de resolver problemas de vivienda, pueden ser autorizados, con los requisitos mínimos de urbanización que esta Ley determina;
 
-XIX.- Organismos Operadores: Las dependencias o entidades públicas que tengan a su cargo la regulación, administración y control de los servicios públicos;
+XVII.- Fraccionamientos de Usos Mixtos o de Usos Compatibles: Aquellos en los que se podrán determinar diferentes usos y destinos de sus lotes, siempre y cuando sean compatibles de acuerdo a lo dispuesto por el Plan de Ordenamiento Territorial correspondiente;
+
+XVIII.- Licencia de Urbanización: La autorización en la que se señalan las especificaciones de urbanización que tendrán los sistemas de infraestructura urbana de un fraccionamiento o desarrollo en condominio;
+
+XIX.- Modificación de Traza: El trámite promovido por el desarrollador con el propósito de variar las características del proyecto de un fraccionamiento o desarrollo en condominio al que se le haya otorgado la aprobación de traza;
+
+XX.- Obra de Urbanización: Las obras e instalaciones necesarias para dotar a las fracciones o partes resultantes de un fraccionamiento o desarrollo en condominio de la infraestructura hidráulica, sanitaria, eléctrica, pavimentación y alumbrado público;
+
+XXI.- Organismos Operadores: Las dependencias o entidades públicas que tengan a su cargo la regulación, administración y control de los servicios públicos;
 
 > <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2006)</small>
 
-XX.- Permiso de división: La autorización que se otorga para la partición de un inmueble en cualquier número de fracciones, siempre que para dar acceso a las partes resultantes no se generen vías públicas, ni se requieran en la zona de su ubicación dotaciones adicionales a las existentes de infraestructura y de servicios públicos instalados;
+XXII.- Permiso de división: La autorización que se otorga para la partición de un inmueble en cualquier número de fracciones, siempre que para dar acceso a las partes resultantes no se generen vías públicas, ni se requieran en la zona de su ubicación dotaciones adicionales a las existentes de infraestructura y de servicios públicos instalados;
 
-XXI.- Permiso de Relotificación: La autorización otorgada para variar en un fraccionamiento o desarrollo en condominio al que se le haya otorgado el permiso de venta, las condiciones de frente, fondo o superficie para obtener una cantidad de lotes diferentes a la autorización original;
+XXIII.- Permiso de Relotificación: La autorización otorgada para variar en un fraccionamiento o desarrollo en condominio al que se le haya otorgado el permiso de venta, las condiciones de frente, fondo o superficie para obtener una cantidad de lotes diferentes a la autorización original;
 
 > <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2006)</small>
 
-XXII.- Permiso de Venta: La autorización otorgada para realizar enajenaciones sobre lotes, viviendas, departamentos, locales o áreas, contenidas en el proyecto de un fraccionamiento o desarrollo en condominio;
+XXIV.- Permiso de Venta: La autorización otorgada para realizar enajenaciones sobre lotes, viviendas, departamentos, locales o áreas, contenidas en el proyecto de un fraccionamiento o desarrollo en condominio;
 
 > <small>(ADICIONADA, P.O. 29 DE AGOSTO DE 2006)</small>
 
-XXIII.- Propietario: La persona física o moral titular del derecho de propiedad sobre un inmueble, que promueva un trámite de división; y
+XXV.- Propietario: La persona física o moral titular del derecho de propiedad sobre un inmueble, que promueva un trámite de división; y
 
-XXIV.- Secretaría: La Secretaría de Desarrollo Social y Humano.
+XXVI.- Secretaría: La Secretaría de Desarrollo Social y Humano.
 
 ###### Artículo 3.
 
@@ -385,6 +393,24 @@ V.- Áreas verdes equipadas con mobiliario urbano, jardinería y arbolado, de ac
 
 Tratándose de desarrollos en condominio, la superficie destinada para áreas verdes será la que determine el reglamento municipal. En los desarrollos en condominio de tipo horizontal de uso habitacional, dicha superficie no podrá ser menor al cuatro por ciento del total de la superficie del desarrollo, ni podrá destinarse para un uso distinto.
 
+> <small>(ADICIONADO, P.O. 4 DE OCTUBRE DE 2011)</small>
+
+###### Artículo 21 Bis.
+
+Los desarrollos en condominio ecológicos y los fraccionamientos ecológicos contarán con tecnologías sustentables, tales como:
+
+I.- Celdas fotovoltaicas para la operación de la red de alumbrado;
+
+II.- Contenedores para la separación de los residuos en la fuente de generación;
+
+III.- Red para el suministro de gas natural;
+
+IV.- Sistemas para la captación y aprovechamiento de aguas pluviales para el riego y conservación de las áreas verdes; y
+
+V.- Calentamiento de agua a través de calentadores solares.
+
+Las viviendas que se construyan como parte de los desarrollos en condominio ecológicos o fraccionamientos ecológicos se sujetarán a los lineamientos, criterios y parámetros de sustentabilidad aplicables, en los términos de lo dispuesto en la Ley de Vivienda para el Estado de Guanajuato.
+
 ###### Artículo 22.
 
 Además de los servicios anteriores, en el caso de los desarrollos en condominio, éstos deberán contar con lo siguiente:
@@ -450,6 +476,10 @@ La Dirección dictaminará el tipo de equipamiento urbano a que se destinarán e
 III.- Los fraccionamientos de tipo mixto de usos compatibles, aplicarán proporcionalmente para la superficie de cada uno de los usos, los porcentajes señalados en las fracciones anteriores; y
 
 IV.- En los fraccionamientos turístico, recreativo-deportivos, las áreas destinadas a estas actividades serán consideradas como equipamiento urbano.
+
+> <small>(ADICIONADO, P.O. 4 DE OCTUBRE DE 2011)</small>
+
+En ningún caso se podrá realizar el cambio de uso o destino de las áreas verdes.
 
 ###### Artículo 30.
 
@@ -1030,3 +1060,11 @@ P.O. 26 DE NOVIEMBRE DE 2010.
 Artículo Primero.- El presente Decreto entrará en vigor al cuarto día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 Artículo Segundo.- Los ayuntamientos reglamentarán las bases y mecanismos para el registro de empresas dedicadas a otorgar la garantía de fianza a los desarrolladores, en un término no mayor a los 90 días hábiles siguientes a la entrada en vigor del presente Decreto.
+
+P.O. 4 DE OCTUBRE DE 2011.
+
+Artículo Primero.- El presente Decreto entrará en vigor al cuarto día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Artículo Segundo.- En el Proyecto de Ley del Presupuesto General de Egresos del Estado de Guanajuato para el ejercicio fiscal 2012 y subsecuentes, el Titular del Poder Ejecutivo del Estado propondrá un programa de incentivos para el desarrollo habitacional ecológico privilegiando principalmente el uso habitacional popular o de interés social.
+
+Artículo Tercero.- El Ejecutivo del Estado y los ayuntamientos deberán realizar las adecuaciones a los reglamentos respectivos dentro de los sesenta días siguientes a la entrada en vigor del presente decreto.
