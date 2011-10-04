@@ -4,7 +4,7 @@ identifier: "BCS-ley-organica-de-la-administracion-publica-del-estado-de-45700"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2005-07-14"
-last_updated: "2011-07-06"
+last_updated: "2011-10-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45700&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 6 DE JULIO DE 2011.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 4 DE OCTUBRE DE 2011.
 
 Ley publicada en el Número Extraordinario del Boletín Oficial del Estado de Baja California Sur, el jueves 14 de julio de 2005
 
@@ -51,15 +51,17 @@ LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE BAJA CALIFORNIA SUR
 
 La presente Ley tiene por objeto establecer y regular la organización y funcionamiento de la Administración Centralizada y Paraestatal del Estado de Baja California Sur. Así como, asignar las facultades y obligaciones para la atención de los asuntos de orden administrativo entre las diferentes unidades de la Administración Pública del Estado.
 
+> <small>(REFORMADO, B.O. 4 DE OCTUBRE DE 2011)</small>
+
 ###### ARTÍCULO 2.
 
-El ejercicio del Poder Ejecutivo corresponde al Gobernador del Estado, quien tendrá las facultades y obligaciones que establecen la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado de Baja California Sur, la presente Ley y las demás disposiciones jurídicas aplicables.
+El ejercicio del Poder Ejecutivo corresponde al Gobernador del Estado, quien tendrá las facultades y obligaciones que establecen la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del estado de Baja California Sur, la presente Ley y las demás disposiciones jurídicas aplicables.
 
-El Gobernador del Estado podrá delegar atribuciones que no sean de su ejercicio exclusivo.
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 4 DE OCTUBRE DE 2011)</small>
 
 ###### ARTÍCULO 3.
 
-La Administración Centralizada está integrada por las Secretarías de Despacho que establece la presente Ley, la Oficialía Mayor de Gobierno, la Procuraduría General de Justicia y la Contraloría General del Estado.
+La Administración Centralizada está integrada por las Secretarías del despacho y Dependencias que establece la presente Ley; auxiliares del Titular del Poder Ejecutivo del Estado.
 
 La Administración Pública Centralizada podrá contar con órganos administrativos desconcentrados, dotados de autonomía técnica y funcional, para apoyar la administración de los asuntos competencia de la misma, y estarán subordinados al Gobernador del Estado o a la dependencia que se señale en el acuerdo o decreto respectivo.
 
@@ -173,35 +175,89 @@ X. Secretaría del Trabajo y Previsión Social;
 
 XI. Oficialía Mayor de Gobierno;
 
-XII. Procuraduría General de Justicia; y
+XII. Procuraduría General de Justicia; y (sic)
 
 XIII. Contraloría General del Estado.
 
+> <small>(ADICIONADA, B.O. 4 DE OCTUBRE DE 2011)</small>
+
+XIV. Secretaría de la Consejería Jurídica.
+
+> <small>(REFORMADO, B.O. 4 DE OCTUBRE DE 2011)</small>
+
 ###### ARTÍCULO 17.
 
-Las Secretarías tendrán igual rango y entre ellas no habrá relación de jerarquía; están obligadas a coordinar sus actividades; a proporcionarse la información necesaria cuando el ejercicio de sus funciones así lo requiera; y a reconocerse entre sí los actos que realizan.
+Las Secretarías del Despacho tendrán igual rango y entre ellas no habrá relación de jerarquía; están obligadas a coordinar sus actividades; a proporcionarse la información necesaria cuando el ejercicio de sus funciones así lo requiera; y a reconocerse entre sí los actos que realizan.
+
+> <small>(REFORMADO, B.O. 4 DE OCTUBRE DE 2011)</small>
 
 ###### ARTÍCULO 18.
 
-Al frente de cada Secretaría habrá un Secretario, quien para el despacho de los asuntos de su competencia, se auxiliará por el o los Subsecretarios, Directores Generales, Directores, Coordinadores, Subdirectores, Jefes y Subjefes de Departamento y por los demás funcionarios que establezca el Reglamento Interior respectivo y demás disposiciones legales o administrativas aplicables.
+Al frente de cada Secretaría del Despacho y Dependencia habrá un titular, quien para el despacho de los asuntos de su competencia, se auxiliará por el o los Subsecretarios, Directores Generales, Directores, Coordinadores, Subdirectores, Jefes y Subjefes de Departamento, según corresponda; así como por los demás funcionarios que establezca el Reglamento Interior respectivo y demás disposiciones legales o administrativas aplicables.
+
+> <small>(REFORMADO, B.O. 4 DE OCTUBRE DE 2011)</small>
 
 ###### ARTÍCULO 19.
 
-Los Titulares de las Secretarías de la Administración Pública del Estado, ampliarán y precisarán en sus respectivos ramos el informe que anualmente rinda el Titular del Poder Ejecutivo ante el Congreso del Estado, bajo el procedimiento que determine este órgano colegiado. Asimismo, a solicitud del propio Congreso del Estado o de sus comisiones le informarán en forma escrita o mediante comparecencia en los casos en que se discuta una Ley o se estudie un negocio concerniente a sus actividades. Estas obligaciones son extensivas a los titulares o responsables de las entidades de la Administración Pública Paraestatal.
+Los Titulares de las Secretarías del Despacho y Dependencias de la Administración Pública del Estado, ampliarán y precisarán en sus respectivos ramos el informe que anualmente rinda el Titular del Poder Ejecutivo ante el Congreso del Estado, bajo el procedimiento que determine este órgano colegiado. Asimismo, a solicitud del propio Congreso del Estado o de sus comisiones le informarán en forma escrita o mediante comparecencia en los casos en que se discuta una Ley o se estudie un negocio concerniente a sus actividades. Estas obligaciones son extensivas a los titulares o responsables de las entidades de la Administración Pública Paraestatal.
 
 ### CAPÍTULO SEGUNDO. DE LAS ATRIBUCIONES Y OBLIGACIONES DE LOS TITULARES DE LAS SECRETARÍAS Y DEPENDENCIAS
 
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 4 DE OCTUBRE DE 2011)</small>
+
 ###### ARTÍCULO 20.
 
-Los titulares de las dependencias del Poder Ejecutivo tienen las siguientes obligaciones comunes:
+Los titulares de las Secretarías del Despacho y Dependencias del Poder Ejecutivo tienen las siguientes obligaciones comunes:
 
-I. Formular los anteproyectos de leyes, reglamentos, decretos y acuerdos para regular el funcionamiento de las dependencias a su cargo, según corresponda a sus atribuciones, y remitirlos al Gobernador del Estado para su estudio y aprobación, por conducto de la Secretaría General de Gobierno;
+> <small>(REFORMADA, B.O. 4 DE OCTUBRE DE 2011)</small>
 
-II. Proponer al Gobernador del Estado las políticas y programas relativos a la materia que les corresponda de acuerdo con sus atribuciones, de conformidad con los Planes Nacional y Estatal de Desarrollo;
+I.- Formular los anteproyectos de leyes, reglamentos, decretos y acuerdos para regular en funcionamiento de las dependencias a su cargo, según corresponda a sus atribuciones, y remitirlos a la Secretaría de la Consejería Jurídica para su estudio y aprobación, para su posterior envío al Gobernador del Estado, previo refrendo de la Secretaría General de Gobierno;
 
-III. Certificar documentos que se encuentren en los archivos de sus dependencias; y
+II.- Proponer al Gobernador del Estado las políticas y programas relativos a la materia que les corresponda de acuerdo con sus atribuciones, de conformidad con los Planes Nacional y Estatal de Desarrollo;
 
-IV. Elaborar y publicar los manuales de organización, de procedimientos y de servicios al público en su caso, necesarios para su funcionamiento. Estos instrumentos de apoyo contendrán la información sobre los principales procedimientos administrativos que se establezcan para facilitar la prestación del servicio.
+> <small>(REFORMADA, B.O. 4 DE OCTUBRE DE 2011)</small>
+
+III.- Certificar documentos que se encuentren en los archivos de sus dependencias;
+
+> <small>(REFORMADA, B.O. 4 DE OCTUBRE DE 2011)</small>
+
+IV.- Elaborar y mantener actualizados los documentos legales de la dependencia a su cargo, los programas operativos anuales, los manuales de organización, de procedimientos y de servicios al público en su caso, y demás análogos respecto de su competencia, necesarios para su funcionamiento, Estos instrumentos de apoyo contendrán la información sobre los principales procedimientos administrativos que se establezcan para facilitar la prestación del servicio;
+
+> <small>(ADICIONADA, B.O. 4 DE OCTUBRE DE 2011)</small>
+
+V.- Desempeñar las funciones y obligaciones que el Gobernador del Estado y esta Ley les establezcan;
+
+> <small>(ADICIONADA, B.O. 4 DE OCTUBRE DE 2011)</small>
+
+VI.- Cumplir los acuerdos, órdenes, circulares y demás disposiciones que emita el Gobernador del Estado, así como atender los asuntos que le sean encomendados;
+
+> <small>(ADICIONADA, B.O. 4 DE OCTUBRE DE 2011)</small>
+
+VII.- Levantar, al tomar posesión de su encargo, un inventario de los bienes que se encuentren en poder de sus respectivas secretarías del despacho y dependencias, con la intervención de la Oficialía Mayor y la Contraloría General del Estado para verificar y certificar su exactitud;
+
+> <small>(ADICIONADA, B.O. 4 DE OCTUBRE DE 2011)</small>
+
+VIII.- Responsabilizarse de la posesión, vigilancia y conservación de los bienes de propiedad estatal que administren o tengan bajo su control, así como de la correcta aplicación de los recursos que les sean asignados, y por tanto, no podrán hacer pago alguno que no esté previsto en el presupuesto autorizado o determinado en las leyes de la materia;
+
+> <small>(ADICIONADA, B.O. 4 DE OCTUBRE DE 2011)</small>
+
+IX.- Establecer, de acuerdo con sus necesidades, sus correspondientes servicios de apoyo administrativo en materia de planeación y programación, presupuesto, informática, estadística, recursos humanos, recursos materiales, contabilidad, control, archivo y los demás que se requieran, en los casos y el (sic) los términos que determine el Gobernador del Estado;
+
+> <small>(ADICIONADA, B.O. 4 DE OCTUBRE DE 2011)</small>
+
+X.- Vigilar el cumplimiento de las leyes y reglamentos aplicables en el ámbito de su competencia;
+
+> <small>(ADICIONADA, B.O. 4 DE OCTUBRE DE 2011)</small>
+
+XI.- Proponer al Gobernador el nombramiento y remoción de los Subsecretarios, Directores y demás personal de la Dependencia que les corresponda, salvo en aquellos casos en que esta Ley o alguna otra ley aplicable establezca lo contrario;
+
+> <small>(ADICIONADA, B.O. 4 DE OCTUBRE DE 2011)</small>
+
+XII.- Resolver las dudas o controversias en materia de competencia interna que se susciten (sic) las áreas a su cargo; y
+
+> <small>(ADICIONADA, B.O. 4 DE OCTUBRE DE 2011)</small>
+
+XIII.- Las demás que dispongan las leyes, reglamentos, convenios de colaboración administrativa celebrados o que se celebren, relativos a la dependencia a su cargo.
 
 ###### ARTÍCULO 21.
 
@@ -223,7 +279,9 @@ e) Asesorar y apoyar a los Ayuntamientos, cuando lo soliciten, para el desempeñ
 
 f) Coordinar la Secretaría Ejecutiva del Sistema Estatal de Seguridad Pública del Consejo Estatal de Seguridad Pública; así como vigilar la debida aplicación de los Fondos que se integren;
 
-g) Ser el conducto para presentar al Congreso del Estado las iniciativas de leyes o decretos que formule el Gobernador del Estado; así como ordenar la publicación en el Boletín Oficial del Gobierno del Estado las leyes, decretos, reglamentos, acuerdos y demás disposiciones de carácter general que deban regir en el Estado;
+> <small>(REFORMADO, B.O. 4 DE OCTUBRE DE 2011)</small>
+
+g) Ser el conducto para presentar al Congreso del Estado las iniciativas de leyes o decretos que formule el Gobernador del Estado;
 
 h) Coordinar las actividades respecto al Informe de Gobierno Anual, que el Gobernador del Estado, rinde al Congreso del Estado;
 
@@ -235,9 +293,9 @@ k) Vigilar, en coordinación con las autoridades federales y municipales, el cum
 
 l) Llevar el registro de autógrafos, legalizar y certificar firmas de los funcionarios estatales, de los Presidentes y Secretarios Municipales y demás funcionarios a quienes les este encomendada la fe pública;
 
-m) Llevar el control y vigilancia del ejercicio notarial, de conformidad con las leyes aplicables; así como organizar, dirigir y supervisar el Archivo General de Notarias;
+m) (DEROGADO, B.O. 4 DE OCTUBRE DE 2011)
 
-n) Organizar y controlar lo concerniente al Registro Civil, al Registro Público de la Propiedad y del Comercio; así como el Catastro del Estado, sin menoscabo de las atribuciones que los Ayuntamientos tienen en la materia;
+n) (DEROGADO, B.O. 4 DE OCTUBRE DE 2011)
 
 o) Solicitar a la Secretaría de Seguridad Pública, el apoyo de las fuerzas de seguridad pública, cuando lo considere necesario para el cumplimiento de sus atribuciones;
 
@@ -249,7 +307,7 @@ II. En materia jurídica:
 
 a) Coadyuvar con el Poder Legislativo en la compilación de la legislación vigente;
 
-b) Tramitar e integrar los expedientes relativos a la expropiación, ocupación temporal o limitación de dominio, de acuerdo a la Ley en la materia;
+b) (DEROGADO, B.O. 4 DE OCTUBRE DE 2011)
 
 c) Ejecutar los acuerdos y declaratorias que emita el Gobernador del Estado;
 
@@ -257,9 +315,9 @@ d) Tramitar las solicitudes de indulto que le sean presentadas al Gobernador del
 
 e) Diseñar e instrumentar una política de apoyo jurídico y de respeto a los derechos humanos de los sudcalifornianos;
 
-f) Ejercer las atribuciones de la representación jurídica gratuita en materia penal y civil;
+f) (DEROGADO, B.O. 4 DE OCTUBRE DE 2011)
 
-g) Organizar y vigilar el funcionamiento de la Defensoría de Oficio;
+g) (DEROGADO, B.O. 4 DE OCTUBRE DE 2011)
 
 h) (DEROGADO, B.O. 29 DE SEPTIEMBRE DE 2008)
 
@@ -267,9 +325,11 @@ i) Participar con las demás dependencias del Poder Ejecutivo, en la modernizaci
 
 III. En materia administrativa:
 
-a) Previo acuerdo por escrito con el Gobernador del Estado, expedir concesiones para la explotación de bienes del dominio público;
+a).- (DEROGADO, B.O. 4 DE OCTUBRE DE 2011)
 
-b) Previo acuerdo por escrito con el Gobernador del Estado, expedir las licencias, autorización, concesiones, permisos y refrendos, cuyas facultades no estén asignadas específicamente a otras secretarías;
+> <small>(REFORMADO, B.O. 4 DE OCTUBRE DE 2011)</small>
+
+b).- Previo acuerdo por escrito con el Gobernador del Estado, expedir las licencias, autorización, permisos y refrendos, cuyas facultades no estén asignadas específicamente a otras secretarías del despacho o dependencias.
 
 c) Diseñar y difundir anualmente el Calendario Cívico y Social que regirá en el Estado y organizar los actos cívicos correspondientes;
 
@@ -279,7 +339,7 @@ e) Tramitar lo relacionado con las renuncias, remociones, destituciones y propue
 
 f) Tramitar lo relacionado con las propuestas de elección y nombramiento, renuncia, remoción y destitución del Procurador General de Justicia;
 
-g) Publicar en el Boletín Oficial del Gobierno del Estado, los actos y resoluciones que requieran tal requisito conforme a las Leyes y reglamentos aplicables;
+g) (DEROGADO, B.O. 4 DE OCTUBRE DE 2011)
 
 h) Administrar el Archivo General del Estado;
 
@@ -289,7 +349,9 @@ j) Revisar las solicitudes de las concesiones para la prestación del servicio p
 
 k) Vigilar el cumplimiento de las bases y los requisitos conforme a los cuales deberá ajustarse el tránsito en las carreteras y caminos de jurisdicción estatal, en los términos de las leyes y reglamentos respectivos;
 
-l) Realizar en coordinación con la Secretaría de Planeación Urbana, Infraestructura y Ecología, así como con las dependencias y entidades de la Administración Pública Federal y con los Municipios, acciones para la regularización de la tenencia de la tierra; y
+> <small>(REFORMADO, B.O. 4 DE OCTUBRE DE 2011)</small>
+
+l) Realizar en coordinación con la Secretaría de la Consejería Jurídica, y la Secretaría de Planeación Urbana, Infraestructura y Ecología, así como con las dependencias y entidades de la Administración Pública Federal y con los Municipios, acciones para la regularización de la tenencia de la tierra; y
 
 m) Proporcionar los elementos administrativos necesarios que requieran los organismos de la Administración Pública Paraestatal sectorizados a su Secretaría.
 
@@ -325,7 +387,9 @@ I. En materia de administración financiera:
 
 a) Planear, programar, presupuestar y evaluar la actividad financiera del Estado;
 
-b) Elaborar y presentar al Gobernador del Estado los proyectos de iniciativas de Ley de Ingresos y Presupuesto de Egresos, así como las modificaciones a éste último, haciéndolos previamente compatibles con la disponibilidad de recursos;
+> <small>(REFORMADO, B.O. 4 DE OCTUBRE DE 2011)</small>
+
+b) Elaborar y presentar al Gobernador del Estado, Previo estudio y validación de la Secretaría de la Consejería Jurídica del Estado, los proyectos de iniciativas de Ley de Ingresos y Presupuesto de Egresos, así como las modificaciones a este último, haciéndolos previamente compatibles con la disponibilidad de recursos.
 
 c) Establecer conjuntamente con la Secretaría de Promoción y Desarrollo Económico y la Contraloría General del Estado, el sistema de programación del gasto público de acuerdo con los objetivos y necesidades de la Administración Pública del Estado, normando y asesorando a las dependencias y entidades para la ejecución presupuestal de su operación y sus programas específicos de conformidad con la ley de la materia;
 
@@ -343,9 +407,13 @@ i) Ejecutar los pagos de acuerdo a los programas y presupuestos aprobados;
 
 j) Ejercer las acciones conducentes para preservar el patrimonio del Estado;
 
-k) Presentar denuncias o querellas ante el Ministerio Público e intervenir en los juicios y demás medios de defensa que se ventilen ante cualquier tribunal o instancia administrativa, cuando se afecte o se trate de afectar la Hacienda Pública del Estado;
+> <small>(REFORMADO, B.O. 4 DE OCTUBRE DE 2011)</small>
 
-l) Asesorar al Poder Ejecutivo para celebrar convenios en materia hacendaria;
+k) Presentar denuncias o querellas ante el Ministerio Público e intervenir en los juicios y demás medios de defensa que se ventilen ante cualquier tribunal o instancia administrativa, cuando se afecte o se trate de afectar la Hacienda Pública del Estado, en coordinación con la Secretaría de la Consejería Jurídica del Estado.
+
+> <small>(REFORMADO, B.O. 4 DE OCTUBRE DE 2011)</small>
+
+l) Asesorar al Poder Ejecutivo para celebrar convenios en materia hacendaria, previo estudio y valoración de la Secretaría de la Consejería Jurídica del Estado.
 
 m) Regular y registrar los actos y contratos de su competencia;
 
@@ -387,9 +455,11 @@ e) Elaborar y mantener actualizado el Padrón Estatal de Contribuyentes y llevar
 
 f) Convenir con los contribuyentes el pago de los créditos fiscales insolutos en parcialidades;
 
-g) Proporcionar la asesoría que en materia de interpretación y aplicación de las leyes tributarias que sea solicitada por las demás dependencias y entidades del Poder Ejecutivo del Estado, por los Municipios y por los particulares; así como realizar una labor permanente de difusión y orientación fiscal;
+g) (DEROGADO, B.O. 4 DE OCTUBRE DE 2011)
 
-h) Ejecutar los convenios de coordinación que en materia impositiva se celebren con la federación, los municipios o con otras entidades federativas, y vigilar su cumplimiento;
+> <small>(REFORMADO, B.O. 4 DE OCTUBRE DE 2011)</small>
+
+h) Ejecutar los convenios de coordinación y colaboración administrativas que en materia impositiva se celebren con la federación, los municipios o con otras entidades federativas y vigilar su cumplimiento, previo estudio y aprobación de la Secretaría de la Consejería Jurídica del Estado.
 
 i) Custodiar los documentos que constituyen valores del Estado;
 
@@ -399,7 +469,9 @@ k) Sugerir los criterios y montos de los estímulos fiscales, estudiar y proyect
 
 l) Cuando proceda conforma a las normas vigentes, condonar multas por infracción a las disposiciones fiscales estatales, así como las multas por infracción a las disposiciones fiscales federales cuando esta facultad haya sido delegada al Estado mediante convenio;
 
-m) Proponer al Gobernador del Estado la cancelación de créditos incobrables a favor del Estado, conforme a las leyes fiscales en vigor, informando al Congreso del Estado y a la Contraloría General del Estado.
+> <small>(REFORMADO, B.O. 4 DE OCTUBRE DE 2011)</small>
+
+m) Proponer al Gobernador del Estado, previo estudio y aprobación de la Secretaría de la Consejería Jurídica del Estado, la cancelación de créditos incobrables a favor del Estado, conforme a las leyes fiscales en vigor, informando al Congreso del Estado y a la contraloría General del Estado.
 
 III. En materia de deuda pública:
 
@@ -451,13 +523,17 @@ h) Coordinar las funciones de los organismos de la Administración Pública Para
 
 II. En materia de Obra Pública:
 
-a) Establecer las bases y normas a las que deben sujetarse los concursos para la ejecución de obras que realice el Gobierno del Estado, señalando las adjudicaciones que procedan y vigilar el cumplimiento de los contratos celebrados, de conformidad con la legislación aplicable;
+> <small>(REFORMADO, B.O. 4 DE OCTUBRE DE 2011)</small>
+
+a) Establecer, con la participación y validación de la Secretaría de la Consejería Jurídica del Estado, las bases y normas a las que deben sujetarse los concursos para la ejecución de obras que realice el Gobierno del Estado, señalando las adjudicaciones que procedan y vigilar el cumplimiento de los contratos celebrados, de conformidad con la legislación aplicable;
 
 b) Consultar a las dependencias y entidades correspondientes respecto a la obra pública que se concursa sobre las especificaciones a que deben sujetarse para la ejecución de las mismas;
 
 c) Intervenir en los procedimientos de planeación, programación, presupuestación, adjudicación y contratación de la obra pública, en coordinación con las demás dependencias y entidades del Gobierno del Estado que participen en dichos procedimientos;
 
-d) Prestar asistencia técnica y jurídica a las autoridades municipales para la planeación, diseño y ejecución de la obra pública a su cargo, cuando así lo soliciten;
+> <small>(REFORMADO, B.O. 4 DE OCTUBRE DE 2011)</small>
+
+d) Prestar asistencia técnica a las autoridades municipales para la planeación, diseño y ejecución de la obre (sic) pública a su cargo, cuando lo soliciten;
 
 e) Realizar y vigilar directamente o a través de terceros, en su caso, las obras públicas y los servicios relacionados con las mismas, autorizadas en el Programa de Obra Pública Estatal y las convenidas con los Gobiernos Federal y Municipales, incluyendo aquellas encomendadas por acuerdo expreso del Gobernador del Estado;
 
@@ -921,7 +997,9 @@ c) Atender y resolver los asuntos que conforme a la Ley Federal del Trabajo le c
 
 d) Dar seguimiento a los asuntos encomendados a las entidades sectorizadas a la Secretaría, que así lo ameriten;
 
-e) Proponer al Ejecutivo Estatal los proyectos de Iniciativas de Ley, reglamentos, decretos, acuerdos y demás disposiciones de carácter general sobre asuntos de naturaleza laboral;
+> <small>(REFORMADO, B.O. 4 DE OCTUBRE DE 2011)</small>
+
+e) Proponer al Ejecutivo Estatal, previo estudio y aprobación de la Secretaría de la Consejería Jurídica, los proyectos de iniciativas de ley, reglamentos, decretos, acuerdos y demás disposiciones de carácter general sobre asuntos de naturaleza laboral;
 
 f) Dar seguimiento a los convenios y programas coordinados con la Federación en materia laboral;
 
@@ -989,7 +1067,9 @@ b) Administrar los talleres gráficos del Estado, y coordinar y supervisar con l
 
 c) Revisar en coordinación con las dependencias responsables, el valor de los bienes de su propiedad y el importe de los servicios que presta la Administración Pública Estatal;
 
-d) Fijar las normas, políticas y procedimientos sobre las adquisiciones, almacenes, arrendamientos, conservación, mantenimiento, uso, destino, afectación, enajenación, contratación de servicios y transacciones similares relacionadas a bienes muebles e inmuebles propiedad del Gobierno del Estado, en los términos de la ley de la materia;
+> <small>(REFORMADO, B.O. 4 DE OCTUBRE DE 2011)</small>
+
+d) Fijar las normas, políticas y procedimientos sobre las adquisiciones, almacenes, arrendamientos, conservación, mantenimiento, uso, destino, afectación, enajenación, contratación de servicios y transacciones similares relacionadas a bienes muebles e inmuebles propiedad del Gobierno del Estado, en los términos de la ley de la materia, y en coordinación con la Secretaría de la Consejería Jurídica del Estado.
 
 e) Integrar y mantener actualizado el Padrón General de Proveedores del Gobierno del Estado de conformidad con las leyes aplicables;
 
@@ -1066,6 +1146,66 @@ k) Conocer de los procedimientos por la vía administrativa en materia de respon
 l) Integrar, coordinar, supervisar y evaluar a las Contralorías Internas que pertenecen a la Administración Pública Estatal, conforme lo establezca el Reglamento Interior correspondiente.
 
 III. Las demás que le señalen las leyes aplicables en la entidad.
+
+> <small>(ADICIONADO, B.O. 4 DE OCTUBRE DE 2011)</small>
+
+ARTÍCULO 32 BIS.- A la Secretaría de la Consejería Jurídica del Estado le corresponden las atribuciones, facultades y despacho de los asuntos siguientes:
+
+I.- Proporcionar asistencia jurídica al Gobernador del Estado en los actos propios de su investidura que así lo requieran;
+
+II.- Brindar apoyo técnico jurídico al Gobernador del Estado, en la elaboración de sus iniciativas de ley y decretos, así como en los demás instrumentos que éste considere necesarios;
+
+III.- Revisar y validar los proyectos de acuerdos, decretos, normas, reglamentos, iniciativas y demás documentos de carácter jurídico que se remitan al Gobernador del Estado, elaborados por los titulares de las dependencias y entidades de la Administración Pública del Estado;
+
+IV.- Revisar y validar los instrumentos y documentos jurídicos, previo a la firma del Gobernador, relativos a la Administración Pública o por actos jurídicos que celebre el Estado con la intervención del Titular del Ejecutivo;
+
+V.- Opinar sobre los proyectos de convenios a celebrar por el Ejecutivo del Estado con la Federación, con los estados y los municipios, y respecto de otros asuntos relativos a dichas autoridades;
+
+VI.- Establecer criterios de aplicación de normas que sean competencia del Poder Ejecutivo del Estado en los casos que se requiera; así como definir, unificar, sistematizar y difundir los criterios para la interpretación de las disposiciones jurídicas, que normen el funcionamiento de la Administración Pública Estatal; así como unificar los criterios que deban seguir las dependencias y entidades de la Administración Pública Centralizada y Paraestatal;
+
+VII.- Coordinar las acciones en materia jurídica que se implementen en la Administración Pública Estatal, estableciendo los criterios jurídicos que aplicarán las dependencias y entidades;
+
+VIII.- Proponer el nombramiento y remoción de los titulares o funcionarios análogos, responsables de las áreas jurídicas de las Dependencias y en las Entidades de la Administración Pública Paraestatal, los cuales serán designados conforme a la normatividad que las regula, previa evaluación y opinión del Consejero Jurídico del Estado;
+
+IX.- Recibir de las áreas jurídicas de las dependencias y entidades, informe sucinto que deberán rendirle sobre los asuntos que conozcan y de considerarse necesario requerirles la ampliación de los mismos;
+
+X.- Tramitar e integrar los expedientes relativos a la expropiación, ocupación temporal o limitación de dominio, de acuerdo a la Ley de la materia;
+
+XI.- Ser el conducto del Ejecutivo del Estado para prestar apoyo en materia jurídica a los municipios con los que así se acuerde, sin perjuicio de la competencia que corresponda a otras dependencias;
+
+XII.- Representar legalmente al Poder Ejecutivo del Gobierno del Estado y a su Titular, en los procedimientos, controversias, juicios o asuntos litigiosos en los que el Poder Ejecutivo sea parte o tenga interés jurídico de cualquier materia o naturaleza; la representación a que se refiere esta fracción, comprende el desahogo de todo tipo de pruebas, la promoción de incidentes, la presentación de recursos, quejas, controversias, o medios de impugnación, y constituye una representación amplísima;
+
+XIII.- Revisar y validar cualquier convenio o contrato mediante el cual se adquieran, enajenen, afecten o destinen bienes inmuebles propiedad del Gobierno del Estado;
+
+XIV.- Revisar y validar las licitaciones, asignaciones de obra pública, concesiones, así como las adquisiciones de bienes o servicios que realicen las Dependencias y Entidades de la Administración Pública Estatal;
+
+XV.- Proporcionar la asesoría jurídica que en materia de interpretación y aplicación de las diversas disposiciones legales federales y estatales en materia fiscal, tributaria y financiera le sea solicitada por las demás Dependencias y Entidades del Poder Ejecutivo del Estado, por los Municipios y por los particulares;
+
+XVI.- Fungir como órgano de consulta obligatoria para los titulares de las Dependencias y Entidades de la Administración Pública, respecto de los procedimientos contenciosos o litigiosos en los que tenga interés jurídico, pudiendo asumir el patrocinio legal de tales asuntos por orden escrita del Gobernador del Estado;
+
+XVII.- Otorgar mandatos de conformidad al Código Civil del Estado y el Federal, respecto de la representación legal que le confiere la presente ley;
+
+XIX (SIC).- Conocer y substanciar los procedimientos relativos a los recursos administrativos que deba resolver el Gobernador del Estado, dejándolos en estado previo a la resolución y proponerle el proyecto de la misma;
+
+XX.- Encargarse de las funciones del Ejecutivo del Estado, en materia de la función pública del Notariado de conformidad con las leyes de la materia, incluyendo la organización, vigilancia, autorización y sanción de las actividades de los Notarios y Adscritos; así como organizar, dirigir y supervisar el Archivo General de Notarías;
+
+XXI.- Coordinar, supervisar, controlar y vigilar las acciones correspondientes a la organización, desempeño y funcionamiento de la Defensoría de Oficio y de la Procuraduría Fiscal;
+
+XXII.- Organizar, controlar y conducir en el Estado lo concerniente al Registro Civil, al Registro Público de la Propiedad y de Comercio; así como el Catastro del Estado, sin menoscabo de las atribuciones que los ayuntamientos tienen en la materia;
+
+XXIII.- Publicar en el Boletín Oficial del Gobierno del Estado, los actos y resoluciones que requieran tal requisito conforme a las Leyes y reglamentos aplicables;
+
+XXIV.- Llevar el control y archivo de los convenios que celebre el Ejecutivo del Estado con la administración Pública Federal, otros estados y los ayuntamientos;
+
+XXV.- Poner a consideración del Gobernador del Estado en materia jurídica, los temas, la problemática y propuesta de solución que considere deban ser atendidos por el Ejecutivo, considerando las propuestas de las dependencias y entidades de la Administración Pública;
+
+XXVI.- Efectuar por conducto del funcionario que establezca la reglamentación interna de la Secretaría de la Consejería, las notificaciones dispuestas en el trámite de los asuntos que conozca en el desempeño de sus funciones, así como las que sean ordenadas por el Gobernador, las que se harán con sujeción a lo dispuesto, en lo conducente, en el Código de Procedimientos Civiles del Estado;
+
+XXVII.- Ordenar, vigilar y coordinar el cumplimiento de las disposiciones en materia de exhortos judiciales;
+
+XXVIII.- Proponer al Ejecutivo, en coordinación con la Secretaría General de Gobierno y de común acuerdo con el Titular de la Dependencia del ramo, la disolución, extinción o liquidación de los órganos públicos descentralizados, en los términos que establece esta Ley; al efecto, la Secretaría de la Consejería Jurídica y la Secretaría de Gobierno deberán coordinarse con la Secretaría de Finanzas, la Contraloría General, y Oficialía Mayor, para atender y resolver los asuntos relacionados con recursos humanos, financieros, presupuestales y materiales, así como el patrimonio público que en su caso, se le hubieren asignado a tal organismo para el desarrollo de sus objetivos; y
+
+XXIX.- Las demás que le señalen las leyes y reglamentos aplicables en la entidad.
 
 ## TÍTULO TERCERO. DE LA ADMINISTRACIÓN PÚBLICA PARAESTATAL
 
@@ -1484,3 +1624,19 @@ SÉPTIMO.- El Gobernador del Estado, expedirá el Reglamento de la Secretaría d
 B.O. 6 DE JULIO DE 2011.
 
 ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California.
+
+B.O. 4 DE OCTUBRE DE 2011.
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur, y se derogan todas las disposiciones legales de igual o menor rango, que se opongan al mismo.
+
+Artículo Segundo.- El Ejecutivo del Estado, en un plazo no mayor de ciento veinte días naturales contados a partir del día en que entre en vigor este Decreto, deberá expedir o adecuar la reglamentación interior de las dependencias correspondientes.
+
+Artículo Tercero.- Los recursos presupuestales, financieros, materiales, y en general todos aquellos equipos y medios que permiten el cumplimiento de las obligaciones, que conforme a las leyes y respectiva reglamentación interna de las Dependencias del Poder Ejecutivo, le fueron asignadas a las áreas o unidades jurídicas de las Dependencias del Poder Ejecutivo del Gobierno del Estado, se transferirán, a partir de la entrada en vigor del presente decreto, a la dependencia de la Administración Pública Centralizada denominada Secretaría de la Consejería Jurídica, y se estará a lo que señalen las disposiciones legales aplicables.
+
+Artículo Cuarto.- El personal que al entrar en vigor este Decreto, preste sus servicios en la Dirección General de Asuntos Jurídicos y Estudios Legislativos, en la Dirección del Registro Civil, en la Defensoría de Oficio, en la Procuraduría Fiscal, en el Archivo General de Notarías, en el Registro Público de la Propiedad y del Comercio, todas del Gobierno del Estado de Baja California Sur, pasará a formar parte de la dependencia de la Administración Pública denominada Secretaría de la Consejería Jurídica, y se estará a lo que señalen las disposiciones legales aplicables.
+
+Artículo Quinto.- Los recursos presupuestales, financieros, materiales y en general todos aquellos equipos y medios que permiten el cumplimiento de las obligaciones asignadas a la Dirección General de Asuntos Jurídicos y Estudios Legislativos, a la Dirección del Registro Civil, a la Defensoría de Oficio, a la Procuraduría Fiscal, al Archivo General de Notarías, al Registro Público de la Propiedad y de Comercio, todas del Gobierno del Estado de Baja California Sur se transferirán, a partir de la entrada en vigor del presente Decreto, a la dependencia de la Administración Pública denominada Secretaría de la Consejería Jurídica del Estado de Baja California Sur.
+
+Artículo Sexto.- Los convenios, actos jurídicos, asuntos pendientes y en trámite de la Dirección General de Asuntos Jurídicos y Estudios Legislativos, así como de las demás áreas o unidades jurídicas de las Dependencias del Poder Ejecutivo del Gobierno del Estado, que a la entrada en vigor del presente Decreto estén vigentes, quedarán a cargo de la dependencia de la Administración Pública Centralizada denominada Secretaría de la Consejería jurídica del estado.
+
+Artículo Séptimo.- Todos los documentos, normatividad, ordenamientos, reglamentos, leyes y otras disposiciones legales vigentes, en que se haga alusión a la Dirección General de Asuntos Jurídicos y Estudios legislativos se entenderán referidos a la Secretaría de la Consejería Jurídica y al Secretario Consejero Jurídico, respectivamente, del Gobierno del Estado de Baja California Sur, a partir de la entrada en vigor del presente Decreto.
