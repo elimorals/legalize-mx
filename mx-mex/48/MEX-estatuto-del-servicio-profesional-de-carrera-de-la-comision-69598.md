@@ -4,7 +4,7 @@ identifier: "MEX-estatuto-del-servicio-profesional-de-carrera-de-la-comision-695
 country: "mx"
 rank: "estatuto"
 publication_date: "2009-07-14"
-last_updated: "2009-07-14"
+last_updated: "2011-10-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69598&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "MEX"
 ---
 # ESTATUTO DEL SERVICIO PROFESIONAL DE CARRERA DE LA COMISION DE DERECHOS HUMANOS DEL ESTADO DE MEXICO
 
-ESTATUTO DEL SERVICIO PROFESIONAL DE CARRERA DE LA COMISION DE DERECHOS HUMANOS DEL ESTADO DE MEXICO
+ESTATUTO DEL SERVICIO PROFESIONAL DE CARRERA DE LA COMISIÓN DE DERECHOS HUMANOS DEL ESTADO DE MÉXICO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DE GOBIERNO: 5 DE OCTUBRE DE 2011.
 
 Estatuto publicado en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el martes 14 de julio de 2009.
 
@@ -51,33 +51,83 @@ El presente Estatuto tiene por objeto establecer las normas y procedimientos que
 
 Para los efectos del presente ordenamiento se entiende por:
 
-I. Ley: la Ley de la Comisión de Derechos Humanos del Estado de México;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, G.G. 5 DE OCTUBRE DE 2011)</small>
+
+I. Catálogo: el Catálogo de Puestos del Servicio Profesional de Carrera de la Comisión de Derechos Humanos del Estado de México;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], G.G. 5 DE OCTUBRE DE 2011)</small>
 
 II. Comisión u Organismo: la Comisión de Derechos Humanos del Estado de México;
 
-III. Comisionado: el Comisionado de los Derechos Humanos del Estado ere México;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-IV. Comité Consultivo: el Comité Consultivo del Servicio Profesional de Carrera de la Comisión de Derechos Humanos del Estado de México;
+> <small>(REFORMADA, G.G. 5 DE OCTUBRE DE 2011)</small>
+
+III. Comité Consultivo: el Comité Consultivo del Servicio Profesional de Carrera de la Comisión de Derechos Humanos del Estado de México;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, G.G. 5 DE OCTUBRE DE 2011)</small>
+
+IV. Dirección de Administración: la Dirección General de Administración y Finanzas de la Comisión;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], G.G. 5 DE OCTUBRE DE 2011)</small>
 
 V. Estatuto: el Estatuto del Servicio Profesional de Carrera de la Comisión de Derechos Humanos del Estado de México;
 
-VI. Servicio profesional: el Servicio Profesional de Carrera de la Comisión de Derechos Humanos del Estado de México;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-I
+> <small>(REFORMADA, G.G. 5 DE OCTUBRE DE 2011)</small>
 
-VII. Catálogo: el Catálogo de Puestos del Servicio Profesional de Carrera de la Comisión de Derechos Humanos del Estado de México;
+VI. Ley: la Ley de la Comisión de Derechos Humanos del Estado de México;
 
-VIII. Personal de carrera: el personal que integra el servicio profesional del Organismo;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, G.G. 5 DE OCTUBRE DE 2011)</small>
+
+VII. Personal de carrera: el personal que integra el servicio profesional del Organismo;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, G.G. 5 DE OCTUBRE DE 2011)</small>
+
+VIII. Presidente: el Presidente de la Comisión de Derechos Humanos del Estado de México;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], G.G. 5 DE OCTUBRE DE 2011)</small>
 
 IX. Puesto: la unidad impersonal de trabajo con deberes inherentes y determinado grado de responsabilidad, pudiendo existir una o varias plazas que correspondan al mismo puesto;
 
-X. Tabulador: el instrumento técnico en el que se especifican los niveles salariales a que tendrá acceso el personal de carrera;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-XI. Ramas: las ramas de especialización del servicio profesional;
+> <small>(REFORMADA, G.G. 5 DE OCTUBRE DE 2011)</small>
 
-XII. Unidades administrativas: las áreas autorizadas por el Organismo contenidas en el Reglamento Interno y en el Manual General de Organización; y
+X. Ramas: las ramas de especialización del servicio profesional;
 
-XIII. Dirección de Administración: la Dirección General de Administración y Finanzas de la Comisión.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, G.G. 5 DE OCTUBRE DE 2011)</small>
+
+XI. Servicio profesional: el Servicio Profesional de Carrera de la Comisión de Derechos Humanos del Estado de México;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, G.G. 5 DE OCTUBRE DE 2011)</small>
+
+XII. Tabulador: el instrumento técnico en el que se especifican los niveles salariales a que tendrá acceso el personal de carrera; y
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, G.G. 5 DE OCTUBRE DE 2011)</small>
+
+XIII. Unidades administrativas: las áreas autorizadas por el Organismo contenidas en el Reglamento Interno y en el Manual General de Organización.
 
 ## TÍTULO SEGUNDO. DEL SERVICIO PROFESIONAL DE CARRERA
 
@@ -548,3 +598,15 @@ Lic. Rosa María Molina de Pardiñas
 SECRETARIA GENERAL Y SECRETARIA TÉCNICA DEL CONSEJO CONSULTIVO DE LA COMISIÓN DE DERECHOS HUMANOS DEL ESTADO DE MÉXICO
 
 (RUBRICA).
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+G.G. 5 DE OCTUBRE DE 2011.
+
+Artículo primero. Publíquese el presente Acuerdo en el Periódico Oficial del Gobierno del Estado de México "Gaceta del Gobierno" y en la Gaceta de Derechos Humanos órgano informativo de la Comisión.
+
+Artículo segundo. Este Acuerdo entrará en vigor a los diez días hábiles siguientes a su publicación en el Periódico Oficial del Gobierno del Estado de México "Gaceta del Gobierno".
+
+Artículo tercero. La Visitaduría General Sede Ecatepec, deberá instalar el Comité de Defensores Municipales a que se refieren los artículos 22, 23 y 24 del Reglamento de Organización y Funcionamiento de las Defensorías Municipales de Derechos Humanos del Estado de México, dentro de los treinta días hábiles siguientes a la entrada en vigor del presente Acuerdo.
+
+Artículo cuarto. Derivado de la redistribución de la competencia de las Visitadurías Generales de esta Defensoría de Habitantes, se faculta a los Visitadores Generales para hacer las modificaciones correspondientes en los Comités de Defensores Municipales de Derechos Humanos, para su debido funcionamiento, de conformidad con lo establecido en el Reglamento Interno de la Comisión de Derechos Humanos del Estado de México.
