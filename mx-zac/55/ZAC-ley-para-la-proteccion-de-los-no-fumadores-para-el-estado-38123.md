@@ -4,7 +4,7 @@ identifier: "ZAC-ley-para-la-proteccion-de-los-no-fumadores-para-el-estado-38123
 country: "mx"
 rank: "ley"
 publication_date: "2003-12-10"
-last_updated: "2003-12-10"
+last_updated: "2011-10-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=38123&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "ZAC"
 
 LEY PARA LA PROTECCION DE LOS NO FUMADORES PARA EL ESTADO DE ZACATECAS
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO OCTAVO TRANSITORIO DE LA LEY PARA LA PROTECCION DE LOS NO FUMADORES PARA EL ESTADO DE ZACATECAS, PUBLICADA EN EL SUPLEMENTO DEL P.O. EL 5 DE OCTUBRE DE 2011, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Suplemento al Periódico Oficial del Estado de Zacatecas, el miércoles 10 de diciembre de 2003.
 
@@ -282,3 +284,25 @@ DR. RICARDO MONREAL ÁVILA.
 EL SECRETARIO GENERAL DE GOBIERNO
 
 ING. PEDRO DE LEÓN MOJARRO.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 5 DE OCTUBRE DE 2011.
+
+Primero.- La presente Ley, entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+Segundo.- Para la observancia y aplicación de esta Ley, deberá expedirse el reglamento correspondiente a más tardar dentro de los noventa días naturales siguientes de la entrada en vigor de la Ley.
+
+Tercero.- A partir de la entrada en vigor de esta Ley, los Servicios de Salud contarán con un plazo de noventa días naturales para la instalación de una línea telefónica para la denuncia ciudadana y para la elaboración y difusión del manual de señalamientos que deberán colocarse en los vehículos y establecimientos, a que hace referencia el presente ordenamiento.
+
+Cuarto.- Los Servicios de Salud, contarán con un plazo de sesenta días, posteriores a la entrada en vigor de los reglamentos para la elaboración y aplicación del Programa Estatal contra el Tabaquismo.
+
+Quinto.- Los establecimientos mercantiles, entidades y propietarios de vehículos obligados contarán con un plazo de noventa días contados a partir de la entrada en vigor del Reglamento, para cumplir con todos (sic) las obligaciones derivadas de la presente Ley.
+
+Sexto.- El Poder Legislativo del Estado de Zacatecas, considerará en el Presupuesto de Egresos para el ejercicio fiscal del año 2012 y en los ejercicios subsecuentes, de acuerdo a la disponibilidad presupuestal, una partida para promover la creación de los centros contra el tabaquismo y para la prevención, tratamiento y rehabilitación de las personas fumadoras.
+
+Séptimo.- En todo lo no previsto por la Ley de Protección de la Salud de los No Fumadores del Estado de Zacatecas, se estará a lo dispuesto por la Ley de Salud del Estado de Zacatecas.
+
+Octavo.- Se abroga la Ley para la Protección de los No Fumadores para el Estado de Zacatecas, publicada el 10 de diciembre del año 2003 y se derogan todas las disposiciones que contravengan a la presente Ley.
+
+Noveno.- Los procedimientos, recursos administrativos y demás asuntos relacionados con las materias a que se refiere esta Ley, iniciados con anterioridad a la entrada en vigor de la presente Ley, se tramitarán y resolverán conforme a las disposiciones vigentes en ese momento.
