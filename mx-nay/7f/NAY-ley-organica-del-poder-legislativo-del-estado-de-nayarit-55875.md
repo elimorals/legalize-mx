@@ -4,7 +4,7 @@ identifier: "NAY-ley-organica-del-poder-legislativo-del-estado-de-nayarit-55875"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2007-05-05"
-last_updated: "2011-07-16"
+last_updated: "2011-10-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55875&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE NAYARIT
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE JULIO DE 2011.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE OCTUBRE DE 2011.
 
 Ley publicada en la Sección Séptima del Periódico Oficial del Estado de Nayarit, el sábado 5 de mayo de 2007.
 
@@ -59,9 +59,17 @@ V. Congreso, Asamblea, Legislatura o Cámara: Poder Legislativo del Estado de Na
 
 VI. Comisión de Gobierno: Comisión de Gobierno Legislativo;
 
-VII. Presidente del Congreso o de la Legislatura: Presidente de la Mesa Directiva del Pleno o de la Diputación Permanente, y
+> <small>(REFORMADA, P.O. 5 DE OCTUBRE DE 2011)</small>
 
-VIII. Presidente de la Comisión de Gobierno: Presidente de la Comisión de Gobierno Legislativo.
+VII. Presidente del Congreso o de la Legislatura: Presidente de la Mesa Directiva del Pleno o de la Diputación Permanente;
+
+> <small>(REFORMADA, P.O. 5 DE OCTUBRE DE 2011)</small>
+
+VIII. Presidente de la Comisión de Gobierno: Presidente de la Comisión de Gobierno Legislativo, y
+
+> <small>(ADICIONADA, P.O. 5 DE OCTUBRE DE 2011)</small>
+
+IX. Plan: Plan de Desarrollo Institucional.
 
 ###### Artículo 2º.
 
@@ -1243,6 +1251,10 @@ El Auditor General del Órgano de Fiscalización Superior del Estado, será el r
 
 ## TÍTULO SÉPTIMO. FACULTADES DEL CONGRESO EN MATERIA ELECTORAL
 
+### CAPÍTULO ÚNICO. PLAN DE DESARROLLO INSTITUCIONAL
+
+> <small>(ADICIONADO, P.O. 5 DE OCTUBRE DE 2011)</small>
+
 ###### Artículo 111.
 
 Es facultad del Congreso, de conformidad con lo establecido por la Constitución Local, constituirse en colegio electoral para hacer la designación de Gobernador Provisional, Interino o Substituto, en las faltas temporales o absolutas del Titular.
@@ -1268,6 +1280,46 @@ Si la falta del Gobernador fuere absoluta y ésta ocurriere en los tres últimos
 ###### Artículo 116.
 
 De no encontrarse en funciones la Legislatura, la Diputación Permanente convocará de inmediato a un periodo extraordinario de sesiones para los efectos correspondientes.
+
+> <small>(ADICIONADO CON EL CAPITULO Y ARTICULOS QUE LO INTEGRAN, P.O. 5 DE OCTUBRE DE 2011)</small>
+
+## TÍTULO OCTAVO. PLANEACIÓN INSTITUCIONAL
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 5 DE OCTUBRE DE 2011)</small>
+
+###### Artículo 117.
+
+El Plan de Desarrollo Institucional es el documento rector en materia de planeación legislativa y administrativa, en el que se establecen los objetivos generales, las políticas, las estrategias, las líneas de acción y las bases a las que se sujetará el Congreso para el mejor desempeño de las atribuciones que le corresponden, en condiciones de calidad y eficacia.
+
+> <small>(ADICIONADO, P.O. 5 DE OCTUBRE DE 2011)</small>
+
+###### Artículo 118.
+
+El Plan contemplará un sistema de planeación por medio del cual se establecerán las prioridades, los objetivos y las metas a alcanzar dentro del periodo constitucional de cada Legislatura, así como las formas de evaluación, debiendo contener como mínimo los siguientes puntos:
+
+I. Agenda Legislativa;
+
+II. Políticas para el desarrollo y modernización institucional;
+
+III. Políticas de difusión y vinculación con los medios de comunicación social, y
+
+IV. Políticas de vinculación institucional, social y con los sectores productivos.
+
+> <small>(ADICIONADO, P.O. 5 DE OCTUBRE DE 2011)</small>
+
+###### Artículo 119.
+
+El Plan se elaborará, aprobará y evaluará conforme a los siguientes procedimientos y plazos:
+
+I. La Comisión de Gobierno, será el órgano del Congreso, encargado de preparar y llevar a cabo las actividades necesarias para la elaboración del Plan de conformidad al acuerdo que apruebe la Asamblea Legislativa;
+
+II. Los Planes de Trabajo elaborados por las Comisiones Legislativas deberán de atender en lo conducente los lineamientos generales señalados en el Plan;
+
+III. El Plan deberá aprobarse por el Pleno del Congreso, a más tardar al inicio del Segundo Periodo de Sesiones del Primer año de Ejercicio Constitucional de la Legislatura, debiéndose publicar en la Gaceta Parlamentaria y en la página de internet del Congreso;
+
+IV. Para el control, seguimiento y evaluación del Plan, el Congreso del Estado podrá utilizar los indicadores que considere necesarios, de conformidad con los acuerdos emitidos por la Comisión de Gobierno, y
+
+V. A efecto de optimizar el proceso de elaboración, aplicación y evaluación del Plan, el Congreso podrá celebrar convenios de coordinación con las instituciones y organismos que considere necesarios.
 
 TRANSITORIOS:
 
@@ -1324,3 +1376,7 @@ Artículo Segundo.- Para los efectos de difusión del presente decreto, deberá 
 P.O. 16 DE JULIO DE 2011.
 
 Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el periódico oficial, órgano del Gobierno del Estado.
+
+P.O. 5 DE OCTUBRE DE 2011.
+
+Artículo Único.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
