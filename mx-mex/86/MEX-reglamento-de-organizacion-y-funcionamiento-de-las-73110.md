@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-de-organizacion-y-funcionamiento-de-las-73110"
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-02-15"
-last_updated: "2010-02-15"
+last_updated: "2011-10-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=73110&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 REGLAMENTO DE ORGANIZACION Y FUNCIONAMIENTO DE LAS DEFENSORIAS MUNICIPALES DE DERECHOS HUMANOS DEL ESTADO DE MEXICO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 5 DE OCTUBRE DE 2011.
 
 Reglamento publicado en la Sección Primera de la Gaceta del Gobierno del Estado de México, el lunes 15 de febrero de 2010.
 
@@ -47,9 +47,13 @@ El presente ordenamiento tiene por objeto regular la organización y el funciona
 
 Las Defensorías Municipales de Derechos Humanos del Estado de México son órganos creados por los ayuntamientos de la entidad con autonomía en sus decisiones y en el ejercicio presupuestal, que en el cumplimiento de sus atribuciones deben coordinarse con la Comisión de Derechos Humanos del Estado de México; y tienen por objeto la promoción, divulgación, estudio y defensa de los derechos humanos en el municipio que les corresponda, de conformidad con lo dispuesto por la Ley Orgánica Municipal del Estado de México, la Ley de la Comisión de Derechos Humanos del Estado de México y demás disposiciones aplicables.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+
+> <small>(REFORMADO, G.G. 5 DE OCTUBRE DE 2011)</small>
+
 ###### Artículo 3.
 
-La Secretaría General y los Visitadores Generales de la Comisión de Derechos Humanos del Estado de México, coordinarán y supervisarán, en el ámbito de su competencia, a las Defensorías Municipales de Derechos Humanos del Estado de México a efecto de que cumplan con los programas y acciones del Organismo.
+La Secretaría General y las Visitadurías Generales de la Comisión de Derechos Humanos del Estado de México, coordinarán y supervisarán, en el ámbito de su competencia, a las Defensorías Municipales de Derechos Humanos del Estado de México a efecto de que cumplan con los programas y acciones del Organismo.
 
 ###### Artículo 4.
 
@@ -89,9 +93,17 @@ I. Una vez recibidos en la Visitaduría General correspondiente, los expedientes
 
 a) Si de la revisión se desprende que no participaron por lo menos cuatro aspirantes o bien, que ninguno o mínimo tres acreditan los requisitos de ley y de la convocatoria, el Visitador General debe solicitar al ayuntamiento que emita una segunda convocatoria dentro de los 10 días naturales siguientes al vencimiento de la primera; o
 
-b) Si con la documentación exhibida por lo menos tres aspirantes acreditan fehacientemente o cumplen los requisitos de ley y de la convocatoria, el Visitador General remitirá a la Unidad Jurídica y Consultiva, en 3 días hábiles contados a partir de la fecha de recepción, los documentos originales enviados por el ayuntamiento, a efecto de que se proceda a realizar la calificación de los aspirantes, en los formatos que para tal efecto autorice el Comisionado;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
 
-II. Realizada la revisión, calificación y análisis de los documentos y perfil de cada aspirante, la Unidad Jurídica y Consultiva en el término que establece la ley elaborará la Declaratoria de Terna de aspirantes a Defensor Municipal, que será sometida a la consideración y aprobación, en su caso, del Comisionado de los Derechos Humanos del Estado de México; y
+> <small>(REFORMADO, G.G. 5 DE OCTUBRE DE 2011)</small>
+
+b) Si con la documentación exhibida por lo menos tres aspirantes acreditan fehacientemente o cumplen los requisitos de ley y de la convocatoria, el Visitador General remitirá a la Unidad Jurídica y Consultiva, en 3 días hábiles contados a partir de la fecha de recepción, los documentos originales enviados por el ayuntamiento, a efecto de que se proceda a realizar la calificación de los aspirantes, en los formatos que para tal efecto autorice el Presidente del Organismo;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+
+> <small>(REFORMADA, G.G. 5 DE OCTUBRE DE 2011)</small>
+
+II. Realizada la revisión, calificación y análisis de los documentos y perfil de cada aspirante, la Unidad Jurídica y Consultiva en el término que establece la ley elaborará la Declaratoria de Terna de aspirantes a Defensor Municipal, que será sometida a la consideración y aprobación, en su caso, del Presidente de la Comisión; y
 
 III. Una vez emitida la Declaratoria de Terna, ésta se notificará al ayuntamiento, por conducto de la Visitaduría General que corresponda, remitiéndose al tiempo la documentación y solicitudes de todos los aspirantes, en términos del artículo 147 F de la Ley Orgánica.
 
@@ -111,7 +123,11 @@ Los Defensores Municipales, además de las establecidas en el artículo 147 K de
 
 I. Elaborar y entregar propuestas al ayuntamiento para que éste las considere en el presupuesto de egresos que apruebe de conformidad con las disposiciones aplicables;
 
-II. Presentar a la Comisión, a través de la Unidad de Información y Planeación Estratégica, con copia para la Secretaría General; un informe trimestral así como el informe anual sobre las actividades desarrolladas durante el período inmediato anterior;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+
+> <small>(REFORMADA, G.G. 5 DE OCTUBRE DE 2011)</small>
+
+II. Presentar a la Comisión, a través de la Unidad de Información y Planeación Estratégica, con copia para la Secretaría General el informe anual sobre las actividades desarrolladas durante el período inmediato anterior;
 
 III. Fomentar la participación ciudadana en actividades encaminadas a promover el respeto de los derechos humanos en el ámbito municipal;
 
@@ -138,6 +154,10 @@ Los Defensores Municipales deben establecer los medios necesarios para garantiza
 ## TÍTULO TERCERO. DE LA COORDINACIÓN DE LAS DEFENSORÍAS MUNICIPALES CON LA COMISIÓN
 
 ### Capítulo I. Disposiciones generales
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+
+> <small>(REFORMADO, G.G. 5 DE OCTUBRE DE 2011)</small>
 
 ###### Artículo 11.
 
@@ -211,13 +231,35 @@ Los cargos de los integrantes de los Comités son honoríficos.
 
 Los Comités Municipales se organizan de conformidad con la denominación y distribución territorial siguiente:
 
-I. El Comité de Defensores Municipales de Derechos Humanos Región I Toluca, comprende los municipios establecidos en el artículo 9 fracción I del Reglamento Interno de la Comisión;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
 
-II. El Comité de Defensores Municipales de Derechos Humanos Región II Nororiente, comprende los municipios establecidos en el artículo 9 fracción II del Reglamento Interno del Organismo;
+> <small>(REFORMADA, G.G. 5 DE OCTUBRE DE 2011)</small>
 
-III. El Comité de Defensores Municipales de Derechos Humanos Región III Oriente, comprende los municipios establecidos en el artículo 9 fracción III del Reglamento Interno de la Comisión; y
+I. El Comité de Defensores Municipales de Derechos Humanos Región Toluca, comprende los municipios establecidos en el artículo 9 fracción I del Reglamento Interno de la Comisión;
 
-IV. El Comité de Defensores Municipales de Derechos Humanos Región IV Oriente, comprende los municipios establecidos en el artículo 9 fracción IV del Reglamento Interno del Organismo.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+
+> <small>(REFORMADA, G.G. 5 DE OCTUBRE DE 2011)</small>
+
+II. El Comité de Defensores Municipales de Derechos Humanos Región Tlalnepantla, comprende los municipios establecidos en el artículo 9 fracción II del Reglamento Interno del Organismo;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+
+> <small>(REFORMADA, G.G. 5 DE OCTUBRE DE 2011)</small>
+
+III. El Comité de Defensores Municipales de Derechos Humanos Región Chalco, comprende los municipios establecidos en el artículo 9 fracción III del Reglamento Interno de la Comisión;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+
+> <small>(REFORMADA, G.G. 5 DE OCTUBRE DE 2011)</small>
+
+IV. El Comité de Defensores Municipales de Derechos Humanos Región Nezahualcóyotl, comprende los municipios establecidos en el artículo 9 fracción IV del Reglamento Interno del Organismo; y
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+
+> <small>(ADICIONADA, G.G. 5 DE OCTUBRE DE 2011)</small>
+
+V. El Comité de Defensores Municipales de Derechos Humanos Región Ecatepec, comprende los municipios establecidos en el artículo 9 fracción V del Reglamento Interno de la Comisión.
 
 ###### Artículo 25.
 
@@ -366,3 +408,15 @@ Lic. Rosa María Molina de Pardiñas
 SECRETARIA GENERAL Y SECRETARIA TÉCNICA DEL CONSEJO CONSULTIVO DE LA COMISIÓN DE DERECHOS HUMANOS DEL ESTADO DE MÉXICO
 
 (RUBRICA).
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+G.G. 5 DE OCTUBRE DE 2011.
+
+Artículo primero. Publíquese el presente Acuerdo en el Periódico Oficial del Gobierno del Estado de México "Gaceta del Gobierno" y en la Gaceta de Derechos Humanos órgano informativo de la Comisión.
+
+Artículo segundo. Este Acuerdo entrará en vigor a los diez días hábiles siguientes a su publicación en el Periódico Oficial del Gobierno del Estado de México "Gaceta del Gobierno".
+
+Artículo tercero. La Visitaduría General Sede Ecatepec, deberá instalar el Comité de Defensores Municipales a que se refieren los artículos 22, 23 y 24 del Reglamento de Organización y Funcionamiento de las Defensorías Municipales de Derechos Humanos del Estado de México, dentro de los treinta días hábiles siguientes a la entrada en vigor del presente Acuerdo.
+
+Artículo cuarto. Derivado de la redistribución de la competencia de las Visitadurías Generales de esta Defensoría de Habitantes, se faculta a los Visitadores Generales para hacer las modificaciones correspondientes en los Comités de Defensores Municipales de Derechos Humanos, para su debido funcionamiento, de conformidad con lo establecido en el Reglamento Interno de la Comisión de Derechos Humanos del Estado de México.
