@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-para-la-entrega-recepcion-de-las-unidades-83264"
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-09-30"
-last_updated: "2009-09-30"
+last_updated: "2011-10-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=83264&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "MEX"
 
 REGLAMENTO PARA LA ENTREGA Y RECEPCION DE LAS UNIDADES ADMINISTRATIVAS DE LA COMISION DE DERECHOS HUMANOS DEL ESTADO DE MEXICO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 5 DE OCTUBRE DE 2011.
 
 Reglamento publicado en la Gaceta de Derechos Humanos del Estado de México, el miércoles 30 de septiembre de 2009.
 
@@ -44,33 +44,51 @@ El presente Reglamento tiene por objeto normar el proceso de entrega y recepció
 
 Para los efectos del presente Reglamento, se entiende por:
 
-I. Entrega y recepción: el proceso mediante el cual el servidor público que concluye un empleo, cargo o comisión, entrega y el servidor público que asume dicho empleo, cargo o comisión, recibe una unidad administrativa con todos los recursos, programas y proyectos, así como la relación de acciones próximas a realizar, para el ejercicio de sus atribuciones, además de los documentos e informes a que se refiere el presente Reglamento;
+> <small>(REFORMADA, G.G. 5 DE OCTUBRE DE 2011)</small>
 
-II. Unidades Administrativas: las listadas en el punto V "Estructura Orgánica" del Manual General de Organización de la Comisión de Derechos Humanos del Estado de México;
+I. Contraloría: la Contraloría Interna de la Comisión de Derechos Humanos del Estado de México;
 
-III. Homólogos: los servidores públicos del Organismo, independientemente de la naturaleza jurídica de su relación laboral, atribuciones, características y actividades similares que desempeñen puestos en el mismo mediante cualquier forma de nombramiento;
+> <small>(REFORMADA, G.G. 5 DE OCTUBRE DE 2011)</small>
 
-IV. Dirección: la Dirección General de Administración y Finanzas; y
+II. Dirección: la Dirección General de Administración y Finanzas de la Comisión de Derechos Humanos del Estado de México;
 
-V. Contraloría: la Contraloría Interna.
+> <small>(REFORMADA, G.G. 5 DE OCTUBRE DE 2011)</small>
+
+III. Entrega y recepción: el proceso mediante el cual el servidor público que concluye un empleo, cargo o comisión, entrega y el servidor público que asume dicho empleo, cargo o comisión, recibe una unidad administrativa con todos los recursos, programas y proyectos, así como la relación de acciones próximas a realizar, para el ejercicio de sus atribuciones, además de los documentos e informes a que se refiere el presente reglamento;
+
+> <small>(REFORMADA, G.G. 5 DE OCTUBRE DE 2011)</small>
+
+IV. Homólogos: los servidores públicos del Organismo, independientemente de la naturaleza jurídica de su relación laboral, atribuciones, características y actividades similares, que desempeñen puestos en el mismo mediante cualquier forma de nombramiento; y
+
+> <small>(REFORMADA, G.G. 5 DE OCTUBRE DE 2011)</small>
+
+V. Unidades administrativas: las listadas en el Manual General de Organización de la Comisión de Derechos Humanos del Estado de México.
 
 ###### Artículo 3.
 
 El proceso de entrega y recepción se realizará cuando un servidor público se separe, por cualquier motivo y de manera definitiva, de su empleo, cargo o comisión, así como en los casos derivados de los procesos de reestructuración administrativa, escisión, extinción o fusión, que impliquen la transferencia total o parcial de unidades administrativas o funciones, independientemente de que haya continuidad de servidores públicos.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 5 DE OCTUBRE DE 2011)</small>
+
 ###### Artículo 4.
 
-Son sujetos obligados del proceso de entrega y recepción los servidores públicos desde el nivel jerárquico de Comisionado hasta Jefatura de Departamento y homólogos.
+Son sujetos obligados del proceso de entrega y recepción los servidores públicos desde el Presidente hasta Jefes de Departamento y homólogos.
 
-Los titulares de las unidades administrativas hasta Jefes de Departamento y homólogos, deberán entregar su oficina y todos los documentos e información de las áreas administrativas que dependen de la unidad a su cargo, en cualquiera de los supuestos que señala el artículo 3 de este Reglamento.
+> <small>(REFORMADO, G.G. 5 DE OCTUBRE DE 2011)</small>
+
+Los titulares de las unidades administrativas, deberán entregar su oficina y todos los documentos e información de las áreas administrativas que dependen de la unidad a su cargo, en cualquiera de los supuestos que señala el artículo 3 de este Reglamento.
 
 También estarán obligados al proceso de entrega y recepción quienes por comisión, suplencia, encargo o bajo cualquier otra figura, hayan quedado como responsables de las unidades administrativas a que se refiere el párrafo anterior.
 
-Asimismo, el titular de este Organismo señalará como sujetos obligados al proceso de entrega y recepción, mediante acuerdo publicado en la Gaceta de Derechos Humanos, órgano de difusión oficial, a los servidores públicos de niveles diversos a los señalados en este artículo, que sean responsables de fondos o valores, así como de bienes, archivos o documentos, que considere de importancia.
+> <small>(REFORMADO, G.G. 5 DE OCTUBRE DE 2011)</small>
+
+Asimismo, el Presidente del Organismo señalará como sujetos obligados al proceso de entrega y recepción, mediante acuerdo publicado en la Gaceta de Derechos Humanos, a los servidores públicos de niveles diversos a los señalados en este artículo, que sean responsables de fondos o valores, así como de bienes, archivos o documentos, que considere de importancia.
+
+> <small>(REFORMADO, G.G. 5 DE OCTUBRE DE 2011)</small>
 
 ###### Artículo 5.
 
-Los responsables de las áreas administrativas que dependan directamente del servidor público que entregue, deberán preparar los documentos e información correspondientes y necesarios para llevar a cabo el proceso de entrega y recepción. La veracidad, oportunidad y confiabilidad de la información y la integración de la documentación a que se refiere este artículo, será responsabilidad directa del titular del área administrativa que la genere.
+Los responsables de las áreas administrativas que dependan directamente del servidor público que entregue, deberán preparar los documentos e información correspondientes y necesarios para llevar a cabo el proceso de entrega y recepción, los cuales deberán estar actualizados a la fecha de separación del empleo.
 
 ###### Artículo 6.
 
@@ -104,17 +122,17 @@ Los informes y anexos al acta serán firmados por quienes los elaboren, y valida
 
 El acta de entrega y recepción y sus anexos se elaborarán por triplicado, el primer tanto será para la unidad administrativa objeto de la entrega y recepción y quedará bajo la custodia del servidor público que recibe; el segundo, será para el servidor público que entrega y, el tercero, se entregará a la Contraloría, aún cuando su representante no hubiere intervenido en el acta.
 
+> <small>(REFORMADO, G.G. 5 DE OCTUBRE DE 2011)</small>
+
 ###### Artículo 12.
 
-Cuando el servidor público que entregue la unidad administrativa se niegue a firmar el acta dentro del plazo para el efecto fijado, quien recibe levantará acta circunstanciada al día hábil siguiente, con la asistencia de dos testigos y con la participación de un representante de la Contraloría, en la que se hará constar la negativa a firmar el acta de entrega y recepción.
+Cuando el servidor público que deba entregar no asista al acto o se niegue a firmar el acta y los anexos en la fecha establecida, quien reciba levantará acta circunstanciada a más tardar al día hábil siguiente, con la asistencia de dos testigos y con la participación de un representante de la Contraloría, en la que se hará constar dicho incidente y, en su caso, las condiciones evidentes en las que se encuentra la unidad administrativa o función.
 
-En los casos en los que el servidor público que entregue se abstenga de intervenir en la suscripción del acta, bajo cualquier circunstancia, se procederá en los términos señalados en el párrafo anterior.
+> <small>(REFORMADO, G.G. 5 DE OCTUBRE DE 2011)</small>
 
 ###### Artículo 13.
 
-Cuando el servidor público que reciba la unidad administrativa se niegue a firmar el acta dentro del plazo para el efecto fijado, el servidor público que entregue deberá denunciar, al día hábil siguiente, ante la Contraloría la negativa de firmar el acta de entrega y recepción.
-
-Cuando el servidor público que recibe se abstenga de intervenir en la suscripción del acta, se procederá en los términos señalados en el párrafo anterior.
+Cuando el servidor público que deba recibir no asista al acto o se niegue a firmar el acta y los anexos en la fecha establecida, quien debe entregar, informará dicho incidente por escrito, a más tardar al día hábil siguiente, a su jefe inmediato y a la Contraloría.
 
 ###### Artículo 14.
 
@@ -174,15 +192,29 @@ X. Control y fiscalización: incluirá el informe sobre el estado que guarda la 
 
 XI. Informe de gestión: incluirá reporte sobre el cumplimiento de obligaciones derivadas de los instrumentos jurídicos referidos en el rubro derechos y obligaciones; reporte sobre el avance de los programas, presupuesto y proyectos a su cargo, reporte ejecutivo que describa el estado en que se recibió la unidad administrativa que se entrega, los resultados alcanzados, asuntos pendientes y recomendaciones; certificado de no adeudo de quien entrega, expedido por la Dirección; y la relación de los bienes que estén bajo el resguardo directo del servidor público (credenciales, gafetes) no considerados en los rubros anteriores.
 
-### CAPÍTULO IV. DEL PROCESO DE ENTREGA Y RECEPCIÓN DERIVADO DE LA CONCLUSIÓN DEL ENCARGO DEL TITULAR DE LA COMISIÓN DE DERECHOS HUMANOS DEL ESTADO DE MÉXICO
+> <small>(ADICIONADO, G.G. 5 DE OCTUBRE DE 2011)</small>
+
+Asimismo, en materia de transparencia las solicitudes de información en proceso de atención.
+
+> <small>(ADICIONADO, G.G. 5 DE OCTUBRE DE 2011)</small>
+
+El servidor público que entrega debe manifestar en el acta que conoce su contenido y el de sus anexos; y, cuando corresponda adjuntará copia del acuse de recibo de su renuncia.
+
+> <small>(REFORMADA SU DENOMINACION, G.G. 5 DE OCTUBRE DE 2011)</small>
+
+### CAPÍTULO IV. DEL PROCESO DE ENTREGA Y RECEPCIÓN DERIVADO DE LA CONCLUSIÓN DEL ENCARGO DEL PRESIDENTE DE LA COMISIÓN DE DERECHOS HUMANOS DEL ESTADO DE MÉXICO
+
+> <small>(REFORMADO, G.G. 5 DE OCTUBRE DE 2011)</small>
 
 ###### Artículo 18.
 
-El titular de la Comisión llevará a cabo el proceso de entrega y recepción de su oficina, en la sede de su despacho, conjuntamente con la de su Secretaría Particular.
+El Presidente de la Comisión llevará a cabo el proceso de entrega y recepción de su oficina, en la sede de su despacho, conjuntamente con la de su Secretaría Particular.
+
+> <small>(REFORMADO, G.G. 5 DE OCTUBRE DE 2011)</small>
 
 ###### Artículo 19.
 
-Cuando se deban llevar a cabo los procesos de entrega y recepción de las demás unidades administrativas con motivo del proceso de entrega y recepción derivado de la conclusión del encargo del titular de la Comisión de Derechos Humanos del Estado de México, se estará a lo dispuesto por este capítulo.
+Cuando se deban llevar a cabo los procesos de entrega y recepción de las demás unidades administrativas con motivo del proceso de entrega y recepción derivado de la conclusión del encargo del Presidente titular de la Comisión de Derechos Humanos del Estado de México, se estará a lo dispuesto por este capítulo.
 
 ###### Artículo 20.
 
@@ -200,11 +232,11 @@ La Contraloría vigilará el cumplimiento del presente Reglamento y sancionará 
 
 El proceso de entrega y recepción no releva de la responsabilidad en que pudieron haber incurrido los servidores públicos salientes durante el ejercicio de sus cargos o comisiones.
 
+> <small>(REFORMADO, G.G. 5 DE OCTUBRE DE 2011)</small>
+
 ###### Artículo 23.
 
-La Contraloría, de acuerdo con sus atribuciones, podrá cuando lo estime conveniente, supervisar los avances de los procesos de entrega y recepción de acuerdo con sus atribuciones y participar en el levantamiento de las actas de entrega y recepción conforme al presente Reglamento.
-
-Sin embargo, para evitar comprometer sus atribuciones de control y evaluación, se abstendrá de participar en los trabajos y acciones que los sujetos obligados al proceso de entrega y recepción, lleven a cabo.
+La Contraloría, de acuerdo a sus atribuciones, supervisará los avances de los procesos de la Entrega y Recepción y participará en el levantamiento de las actas respectivas.
 
 ## TRANSITORIOS
 
@@ -243,3 +275,15 @@ CONSEJERA CIUDADANA
 Lic. Rosa María Malina de Pardiñas
 
 SECRETARIA GENERAL Y SECRETARIA TÉCNICA DEL CONSEJO CONSULTIVO DE LA COMISIÓN DE DERECHOS HUMANOS DEL ESTADO DE MÉXICO
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS DEL PRESENTE ORDENAMIENTO.</small>
+
+G.G. 5 DE OCTUBRE DE 2011.
+
+Artículo primero. Publíquese el presente Acuerdo en el Periódico Oficial del Gobierno del Estado de México "Gaceta del Gobierno" y en la Gaceta de Derechos Humanos órgano informativo de la Comisión.
+
+Artículo segundo. Este Acuerdo entrará en vigor a los diez días hábiles siguientes a su publicación en el Periódico Oficial del Gobierno del Estado de México "Gaceta del Gobierno".
+
+Artículo tercero. La Visitaduría General Sede Ecatepec, deberá instalar el Comité de Defensores Municipales a que se refieren los artículos 22, 23 y 24 del Reglamento de Organización y Funcionamiento de las Defensorías Municipales de Derechos Humanos del Estado de México, dentro de los treinta días hábiles siguientes a la entrada en vigor del presente Acuerdo.
+
+Artículo cuarto. Derivado de la redistribución de la competencia de las Visitadurías Generales de esta Defensoría de Habitantes, se faculta a los Visitadores Generales para hacer las modificaciones correspondientes en los Comités de Defensores Municipales de Derechos Humanos, para su debido funcionamiento, de conformidad con lo establecido en el Reglamento Interno de la Comisión de Derechos Humanos del Estado de México.
