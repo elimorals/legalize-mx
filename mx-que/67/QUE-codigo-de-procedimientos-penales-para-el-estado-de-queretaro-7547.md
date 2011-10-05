@@ -4,7 +4,7 @@ identifier: "QUE-codigo-de-procedimientos-penales-para-el-estado-de-queretaro-75
 country: "mx"
 rank: "codigo"
 publication_date: "1989-07-06"
-last_updated: "2011-07-15"
+last_updated: "2011-10-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7547&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "QUE"
 ---
 # CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE QUERETARO
 
-CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE QUERETARO
+CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE QUERÉTARO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE JULIO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE OCTUBRE DE 2011.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el jueves 6 de julio de 1989.
 
@@ -175,7 +175,7 @@ El procedimiento de sustitución se sujetará a lo que señala la Ley Orgánica 
 
 (Funciones del Ministerio Público).- Compete al Ministerio Público llevar a cabo la preparación del ejercicio de la acción penal, y ejercer la acción penal ante los Tribunales del Estado, en los casos en que resulte procedente.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE MARZO DE 2004)</small>
+> <small>(REFORMADO PÁRRAFO PRIMERO, P.O. 19 DE MARZO DE 2004)</small>
 
 ###### ARTICULO 20.
 
@@ -237,7 +237,7 @@ X. Informar a la víctima y al ofendido, los derechos que a su favor establecen 
 
 XI. Informar a la víctima y al ofendido del desarrollo de las diligencias de preparación del ejercicio de la acción penal, cuando así lo soliciten.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE MARZO DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE MARZO DE 2004)</small>
 
 ARTICULO 21 (Facultades y obligaciones del Ministerio Público en ejercicio de la acción penal).- En ejercicio de la acción penal, corresponde al Ministerio Público:
 
@@ -383,7 +383,7 @@ Si el defensor fuere de oficio, el juzgador deberá, además, poner en conocimie
 
 ### CAPITULO IV. LA VICTIMA Y EL OFENDIDO
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE MARZO DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE MARZO DE 2004)</small>
 
 ARTICULO 36 (Derechos de la víctima y del ofendido durante las diligencias de preparación del ejercicio de la acción penal).- Durante las diligencias de preparación del ejercicio de la acción penal, la víctima y el ofendido por el delito tendrán los siguientes derechos:
 
@@ -415,7 +415,7 @@ VI. A recibir asesoría jurídica en los términos del artículo 20 fracción X 
 
 VII. Solicitar orden de protección que se dicte en los términos de la fracción IV del artículo 20 de este Código.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE MARZO DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE MARZO DE 2004)</small>
 
 ARTICULO 37 (De los derechos de la víctima y el ofendido ante el órgano jurisdiccional).- La víctima y el ofendido por el delito, durante la fase del procedimiento ante el órgano jurisdiccional, tendrán los siguientes derechos:
 
@@ -715,7 +715,7 @@ En vista de lo que exprese el interesado, el funcionario que hubiese impuesto la
 
 ARTICULO 104 (Derecho a no ser privado de la libertad).- Nadie podrá ser privado de su libertad, sino en los casos señalados en la Constitución Política de los Estados Unidos Mexicanos.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE ABRIL DE 1999)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE ABRIL DE 1999)</small>
 
 ARTICULO 105 (Detención en caso de flagrante delito). En los casos de flagrante delito, cualquier persona puede detener al indiciado, poniéndolo sin demora a disposición del Ministerio Público o de la autoridad inmediata, y ésta con la misma prontitud al Ministerio Público. Se considerará que hay flagrante delito cuando el indiciado es detenido en el momento de estarlo cometiendo, o si, inmediatamente después de ejecutado el hecho delictuoso: a) aquél es perseguido materialmente; o, b) en breve tiempo y sin mayor investigación, alguien lo señala como responsable y se encuentra en su poder el objeto del delito, el instrumento con que aparezca cometido, o huellas o indicios que hagan presumir fundadamente su intervención en la comisión del delito.
 
@@ -795,7 +795,7 @@ La garantía se cancelará y en su caso se devolverá cuando se resuelva el no e
 
 ### CAPITULO IV. LIBERTAD PROVISIONAL BAJO CAUCION
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE AGOSTO DE 2002)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE AGOSTO DE 2002)</small>
 
 ARTICULO 121 (Derecho a la libertad provisional bajo caución).- Todo imputado tendrá derecho a ser puesto en libertad bajo caución, siempre y cuando se garantice el monto estimado de la reparación del daño y de las sanciones pecuniarias que en su caso puedan imponerse al inculpado y no se trate de los delitos que por su gravedad se prohiba expresamente conceder ese beneficio.
 
@@ -1119,7 +1119,7 @@ III. Si la situación económica de la mujer es precaria, recibirá, en el lugar
 
 ARTICULO 147 (Aplicabilidad de las reglas de este título).- Las normas contenidas en el presente título serán aplicables a las pruebas que se practiquen en el proceso, así como, en lo conducente, a las que se produzcan en las diligencias de preparación del ejercicio de la acción penal.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE OCTUBRE DE 2003)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE OCTUBRE DE 2003)</small>
 
 ARTICULO 148 (Facultades del Ministerio Público y del Juzgador, en relación con las pruebas) Durante las diligencias de preparación del ejercicio de la acción penal, el Ministerio Público deberá allegarse los medios de prueba adecuados para demostrar el cuerpo del delito y la responsabilidad del imputado, así como los que acrediten el monto de los daños y perjuicios causados.
 
@@ -1931,9 +1931,13 @@ IV.- (Abstinencia del abuso de bebidas alcohólicas, empleo de estupefacientes y
 
 V.- (Prohibición de ocurrir a ciertos lugares).- Abstenerse de frecuentar bares, cantinas, cabarets o lugares similares, salvo que su fuente de trabajo implique concurrir a dichos centros.
 
-> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 1996)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
 
-ARTICULO 300 E.- (Efectos de la suspensión a prueba).- Al beneficiado con la suspensión a prueba del procedimiento penal, el Juez le señalará un plazo no menor de dos años ni mayor de cinco, en que quedará sujeto a las medidas que el mismo órgano jurisdiccional determine según las circunstancias del caso, de orientación, vigilancia y asistencia de la autoridad en los términos de la Ley de Ejecución de Sanciones Privativas y Restrictivas de la Libertad.
+> <small>(REFORMADO, P.O. 5 DE OCTUBRE DE 2011)</small>
+
+ARTICULO 300 E.- (Efectos de la suspensión a prueba) Al beneficiado con la suspensión a prueba del procedimiento penal, el Juez le señalará un plazo, en el que quedará sujeto a las medidas que el mismo órgano jurisdiccional determine según las circunstancias del caso, consistentes en orientación, vigilancia y asistencia de la autoridad en los términos de lo previsto por la Ley de Ejecución de Penas y Medidas de Seguridad del Estado de Querétaro.
+
+Tratándose de delitos que ameriten pena privativa de libertad, el plazo de suspensión no podrá ser menor a un año ni mayor a cinco; en los demás casos, el plazo mínimo será de seis meses y máximo de tres años.
 
 > <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 1996)</small>
 
@@ -2001,7 +2005,7 @@ ARTICULO 305 (Reglas generales y condiciones de interposición).- Las resolucion
 
 ARTICULO 306 (Objeto de las impugnaciones).- Las impugnaciones, según el caso, tienen por objeto examinar, si en la resolución recurrida no se aplicó la ley correspondiente o se aplicó inexactamente; si se violaron los principios reguladores de la valoración de la prueba, o si se alteraron los hechos.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE SEPTIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE SEPTIEMBRE DE 2008)</small>
 
 ARTICULO 307 (Sujetos legitimados para impugnar).- El ofendido tiene el derecho a interponer el medio de impugnación que proceda, salvo disposición expresa de la ley, cuando concluidas las diligencias de preparación del ejercicio de la acción penal, el Procurador General de Justicia del Estado autorice el no ejercicio de la misma, en términos de lo dispuesto por el artículo 253 y durante la fase del procedimiento, ante el órgano jurisdiccional, cuando el propio Procurador ratifique las conclusiones no acusatorias del Ministerio Público o exista desistimiento de la acción penal; en estas dos últimas hipótesis, aunque no se haya constituido en coadyuvante del Ministerio Público.
 
@@ -2029,7 +2033,7 @@ ARTICULO 311 (Discrepancia respecto a la interposición o desistimiento de la im
 
 Si la discrepancia versa sobre el desistimiento del medio de la impugnación, el desistimiento no tendrá eficacia alguna.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE FEBRERO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE FEBRERO DE 2011)</small>
 
 ###### ARTICULO 312.
 
@@ -2063,7 +2067,7 @@ Si no es posible que en esa audiencia concluya el desahogo de los medios de prue
 
 ### CAPITULO III. APELACION
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE DICIEMBRE DE 1996)</small>
 
 ARTICULO 315 (Forma y plazo de interposición).- Salvo lo dispuesto por el artículo 308 del presente código, la apelación deberá interponerse por escrito ante el juzgador que dictó la resolución impugnada dentro del plazo de diez días si se recurriera la sentencia, o seis días si se tratare de un auto. En el escrito de interposición del recurso, el apelante deberá expresar los motivos de inconformidad que tenga contra la resolución apelada, presentando copias simples del mismo, con las cuales deberá correrse traslado a la otra parte y al ofendido, en su caso.
 
@@ -2071,7 +2075,7 @@ Al notificar al imputado la sentencia de primera instancia, se le hará saber el
 
 La omisión de este requisito surte el efecto de duplicar el plazo legal para interponer el recurso, y al secretario o actuario que haya incurrido en ello, se le aplicará una corrección disciplinaria, por parte del Magistrado Ponente que conozca de la apelación.
 
-> <small>(REFORMADO PARRAFO PRIMERO, P.O. 20 DE MARZO DE 1997)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE MARZO DE 1997)</small>
 
 ###### ARTICULO 316.
 
@@ -2405,7 +2409,7 @@ II.- Cuando, por haberse dictado sentencia absolutoria penal, el Juzgador se abs
 
 ### CAPITULO VI. NULIDAD DEL PROCEDIMIENTO
 
-> <small>(REFORMADO PARRAFO PRIMERO, P.O. 2 DE ABRIL DE 1999)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE ABRIL DE 1999)</small>
 
 ARTICULO 380 (Causas).- Habrá lugar a la nulidad y en su caso, la reposición del procedimiento, por alguna de las causas siguientes:
 
@@ -2419,7 +2423,7 @@ II.- Por no habérsele permitido nombrar defensor o no nombrársele el de oficio
 
 III.- Por no habérsele ministrado los datos que necesitare para su defensa y que constaren en el proceso;
 
-IV.- Por no habérsele careado con algún testigo que hubiere despuesto(sic) en su contra, si el testigo rindió su declaración en el mismo lugar donde se sigue el proceso, estando allí también el procesado;
+IV.- Por no habérsele careado con algún testigo que hubiere despuesto (sic) en su contra, si el testigo rindió su declaración en el mismo lugar donde se sigue el proceso, estando allí también el procesado;
 
 V.- Por no habérsele citado para las diligencias que tuviere derecho a presenciar;
 
@@ -2485,7 +2489,7 @@ EL C. SECRETARIO DE GOBIERNO
 
 LIC. JOSE MARIA HERNANDEZ SOLIS
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 31 DE DICIEMBRE DE 1991.
 
@@ -2553,7 +2557,7 @@ Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a 
 
 P.O. 23 DE AGOSTO DE 2002
 
-LEY QUE ADICIONA LA FRACCION XX AL ARTICULO 121 DEL CODIGO.
+LEY QUE ADICIONA LA FRACCIÓN XX AL ARTÍCULO 121 DEL CÓDIGO.
 
 ###### ARTICULO PRIMERO.
 
@@ -2565,7 +2569,7 @@ Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al
 
 P.O. 23 DE AGOSTO DE 2002
 
-LEY QUE ADICIONA LA FRACCION XXII AL ARTICULO 121 DEL CODIGO.
+LEY QUE ADICIONA LA FRACCIÓN XXII AL ARTÍCULO 121 DEL CÓDIGO.
 
 ###### ARTICULO PRIMERO.
 
@@ -2615,7 +2619,7 @@ SEGUNDO. Se derogan todas las disposiciones legales que se opongan a la presente
 
 P.O. 29 DE FEBRERO DE 2008.
 
-LEY POR LA QUE SE REFORMA LA FRACCION IV DEL ARTICULO 20 Y SE ADICIONA UNA FRACCION VII AL ARTICULO 36 DEL CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE QUERETARO.
+LEY POR LA QUE SE REFORMA LA FRACCIÓN IV DEL ARTÍCULO 20 Y SE ADICIONA UNA FRACCIÓN VII AL ARTÍCULO 36 DEL CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE QUERÉTARO.
 
 ###### ARTÍCULO PRIMERO.
 
@@ -2627,7 +2631,7 @@ Se derogan todas las disposiciones legales o reglamentarias que se opongan a la 
 
 P.O. 29 DE FEBRERO DE 2008.
 
-LEY POR LA QUE SE REFORMA LA FRACCION IV DEL ARTICULO 121 DEL CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE QUERETARO.
+LEY POR LA QUE SE REFORMA LA FRACCIÓN IV DEL ARTÍCULO 121 DEL CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE QUERÉTARO.
 
 ###### ARTÍCULO PRIMERO.
 
@@ -2651,7 +2655,7 @@ Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a 
 
 P.O. 20 DE JUNIO DE 2008.
 
-LEY QUE REFORMA Y ADICIONA LA FRACCION VIII DEL ARTICULO 121 DEL CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE QUERETARO.
+LEY QUE REFORMA Y ADICIONA LA FRACCIÓN VIII DEL ARTÍCULO 121 DEL CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE QUERÉTARO.
 
 ###### ARTÍCULO PRIMERO.
 
@@ -2663,7 +2667,7 @@ Se derogan todas las disposiciones legales o reglamentarias que se opongan a la 
 
 P.O. 20 DE JUNIO DE 2008.
 
-LEY QUE REFORMA EL ARTICULO 217 DEL CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE QUERETARO.
+LEY QUE REFORMA EL ARTÍCULO 217 DEL CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE QUERÉTARO.
 
 Artículo Único. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial de (sic) Gobierno del Estado de Querétaro.
 
@@ -2711,7 +2715,7 @@ Artículo Segundo. Se derogan todas aquellas disposiciones de igual o menor jera
 
 P.O. 25 DE FEBRERO DE 2011.
 
-LEY POR LA QUE SE ADICIONA UNA FRACCION VII AL ARTICULO 61 DEL CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE QUERETARO
+LEY POR LA QUE SE ADICIONA UNA FRACCIÓN VII AL ARTÍCULO 61 DEL CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE QUERÉTARO.
 
 Artículo Primero. La presente Ley entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
 
@@ -2723,7 +2727,7 @@ Artículo Tercero. Se derogan todas aquellas disposiciones de igual o menor jera
 
 P.O. 25 DE FEBRERO DE 2011.
 
-LEY POR LA QUE SE REFORMAN LOS ARTICULOS 121, 132, 142, 224 BIS, 265, 274 Y 312; Y SE ADICIONA UN CAPITULO IX AL TITULO CUARTO DEL LIBRO PRIMERO, CON LOS ARTICULOS 146 A, 146 B Y 146 C; TODOS DEL CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE QUERETARO
+LEY POR LA QUE SE REFORMAN LOS ARTÍCULOS 121, 132, 142, 224 BIS, 265, 274 Y 312; Y SE ADICIONA UN CAPÍTULO IX AL TÍTULO CUARTO DEL LIBRO PRIMERO, CON LOS ARTÍCULOS 146 A, 146 B Y 146 C; TODOS DEL CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE QUERÉTARO.
 
 Artículo Primero. La presente Ley entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
 
@@ -2752,3 +2756,9 @@ P.O. 15 DE JULIO DE 2011.
 Artículo Primero. La presente Ley entrará en vigor treinta días naturales después de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
 
 Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a esta Ley.
+
+P.O. 5 DE OCTUBRE DE 2011.
+
+Artículo Primero. La presente Ley entrará en vigor a los treinta días naturales siguientes al de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
+
+Artículo Segundo. Se derogan todas aquellas disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
