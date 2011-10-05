@@ -4,7 +4,7 @@ identifier: "NAY-reglamento-para-el-gobierno-interior-del-congreso-del-65896"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-08-16"
-last_updated: "2011-07-02"
+last_updated: "2011-10-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=65896&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 REGLAMENTO PARA EL GOBIERNO INTERIOR DEL CONGRESO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE JULIO DE 2011.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE OCTUBRE DE 2011.
 
 Reglamento publicado en la Sección Séptima del Periódico Oficial del Estado de Nayarit, el sábado 16 de agosto de 2008.
 
@@ -387,7 +387,9 @@ II. Aprobar el anteproyecto de presupuesto anual del Congreso;
 
 III. Asignar, en los términos de la ley, los recursos humanos, materiales y financieros, así como los locales y curules que correspondan a los grupos parlamentarios;
 
-IV. Aprobar las políticas y programas legislativos anuales, con la opinión de los presidentes de las comisiones ordinarias y especiales del Congreso;
+> <small>(REFORMADA, P.O. 5 DE OCTUBRE DE 2011)</small>
+
+IV. Con la opinión previa de los Presidentes de las comisiones legislativas ordinarias, elaborar la propuesta del Plan de Desarrollo Institucional a que habrá de sujetarse el Congreso, para el mejor desempeño de sus atribuciones, en los términos previstos por la Ley;
 
 V. Acordar lo conducente para la oportuna integración y funcionamiento de las dependencias administrativas y técnicas del Congreso;
 
@@ -3768,6 +3770,10 @@ P.O. 2 DE JULIO DE 2011.
 Artículo Primero.- El presente Decreto entrará en vigor en treinta días posteriores a la fecha de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado.
 
 Artículo Segundo.- Para los efectos de difusión del presente decreto, deberá publicarse edición especial de la Gaceta Parlamentaria con el contenido íntegro de la Ley Orgánica del Poder Legislativo y Reglamento para el Gobierno Interior del Congreso.
+
+P.O. 5 DE OCTUBRE DE 2011.
+
+Artículo Único.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
 
 ### Capítulo IV. Contraloría Interna 85
 
