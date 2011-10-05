@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-del-poder-judicial-del-estado-de-mexico-6086"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-09-08"
-last_updated: "2011-03-18"
+last_updated: "2011-10-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6086&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE MÉXICO
 
 > <small>N. DE E. DE CONFORMIDAD CON EL DECRETO NO. 4 PUBLICADO EN LA G.G. DE 30 DE SEPTIEMBRE DE 2009, EL SISTEMA PROCESAL PENAL ACUSATORIO ADVERSARIAL Y ORAL HA SIDO INCORPORADO EN EL PRESENTE ORDENAMIENTO, Y ENTRARÁ EN VIGOR EN LOS SIGUIENTES PLAZOS Y DISTRITOS: 1) EL PRIMERO DE OCTUBRE DE DOS MIL NUEVE, EN LOS DISTRITOS JUDICIALES DE TOLUCA, LERMA, TENANCINGO Y TENANGO DEL VALLE; 2) EL PRIMERO DE ABRIL DE DOS MIL DIEZ, EN LOS DISTRITOS JUDICIALES DE CHALCO, OTUMBA Y TEXCOCO; 3) EL PRIMERO DE OCTUBRE DE DOS MIL DIEZ, EN LOS DISTRITOS JUDICIALES DE NETZAHUALCÓYOTL, EL ORO, IXTLAHUACA, SULTEPEC Y TEMASCALTEPEC; 4) EL PRIMERO DE ABRIL DE DOS MIL ONCE, EN LOS DISTRITOS JUDICIALES DE TLALNEPANTLA, CUAUTITLÁN Y ZUMPANGO; 5) EL PRIMERO DE OCTUBRE DE DOS MIL ONCE, EN LOS DISTRITOS JUDICIALES DE ECATEPEC DE MORELOS, JILOTEPEC Y VALLE DE BRAVO.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 18 DE MARZO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 5 DE OCTUBRE DE 2011.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el viernes 8 de septiembre de 1995.
 
@@ -1017,9 +1017,11 @@ Los demás servidores públicos de los juzgados de primera instancia deberán re
 
 Los jueces de primera instancia de la materia civil, conocerán y resolverán:
 
-> <small>(REFORMADA, P.O. 8 DE MAYO DE 2003)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-I. De los juicios civiles y mercantiles cuando el valor del negocio exceda de mil veces el salario mínimo vigente en el área geográfica respectiva o cuando no sea susceptible de cuantificarse en dinero, con excepción de los que correspondan al derecho familiar si hubiere en el lugar, juzgado de esta materia;
+> <small>(REFORMADA, G.G. 5 DE OCTUBRE DE 2011)</small>
+
+I. De los juicios civiles y mercantiles cuando el valor del negocio exceda de mil veces el salario mínimo vigente en el área geográfica respectiva o cuando no sea susceptible de cuantificarse en dinero, con excepción de los que correspondan al derecho familiar si hubiere en el lugar, juzgado de esta materia; también conocerán del juicio oral mercantil, hasta por el monto que señala el Código de Comercio;
 
 II. De los actos de jurisdicción voluntaria relacionados con inmatriculaciones, informaciones de dominio o ad perpetuam y juicios donde se ejerciten acciones posesorias, cualquiera que sea el valor del negocio;
 
@@ -2828,3 +2830,11 @@ QUINTO.- El Consejo de la Judicatura del Estado deberá proveer respecto de la c
 SEXTO.- El Procurador General de Justicia del Estado de México, deberá expedir el acuerdo a que se refiere la fracción XXV del artículo 51 de la Ley de Acceso de las Mujeres a una Vida Libre de Violencia del Estado de México, en un plazo máximo de quince días, contados a partir de la publicación del presente Decreto.
 
 SÉPTIMO.- La Procuraduría General de Justicia del Estado de México, emitirá en un plazo no mayor de 60 días naturales siguientes a la vigencia, los protocolos de investigación mínimos para la comprobación de los nuevos delitos tipificados del presente decreto.
+
+G.G. 5 DE OCTUBRE DE 2011.
+
+PRIMERO.- Publíquese este Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- Este Decreto entrará en vigor el día veintisiete de enero de dos mil doce.
+
+TERCERO.- La Legislatura local proveerá lo conducente en la asignación de recursos presupuéstales anuales a favor del Poder Judicial del Estado, a fin de que se cuente con los recursos humanos, materiales, y financieros para dar cumplimiento a este Decreto.
