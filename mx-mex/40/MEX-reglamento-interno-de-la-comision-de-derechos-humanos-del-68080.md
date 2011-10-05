@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-interno-de-la-comision-de-derechos-humanos-del-68080
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-04-14"
-last_updated: "2011-05-04"
+last_updated: "2011-10-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68080&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "MEX"
 ---
 # REGLAMENTO INTERNO DE LA COMISION DE DERECHOS HUMANOS DEL ESTADO DE MEXICO
 
-REGLAMENTO INTERNO DE LA COMISION DE DERECHOS HUMANOS DEL ESTADO DE MEXICO
+REGLAMENTO INTERNO DE LA COMISIÓN DE DERECHOS HUMANOS DEL ESTADO DE MÉXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 4 DE MAYO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 5 DE OCTUBRE DE 2011.
 
 Reglamento publicado en la Sección Primera de la Gaceta del Gobierno del Estado de México, el martes 14 de abril de 2009.
 
@@ -53,19 +53,35 @@ Para los efectos de este Reglamento se entiende por:
 
 I. Comisión u Organismo: la Comisión de Derechos Humanos del Estado de México;
 
-II. Ley: la Ley de la Comisión de Derechos Humanos del Estado de México;
+> <small>(REFORMADA, G.G. 5 DE OCTUBRE DE 2011)</small>
 
-III. Ley contra la Discriminación: la Ley para Prevenir, Combatir y Eliminar Actos de Discriminación en el Estado de México;
+II. Consejo Consultivo: al órgano colegiado de opinión sobre el desempeño del Organismo, integrado en términos de la Ley de la Comisión de Derechos Humanos del Estado de México;
 
-IV. Consejo Consultivo: al órgano colegiado de opinión sobre el desempeño del Organismo, integrado en términos de la Ley de la Comisión de Derechos Humanos del Estado de México;
+> <small>(REFORMADA, G.G. 5 DE OCTUBRE DE 2011)</small>
 
-V. Consejo contra la Discriminación: al órgano ciudadano de opinión y asesoría de las acciones, políticas públicas, programas y proyectos que desarrolle la Comisión en materia de prevención y eliminación de la discriminación conforme a la Ley para Prevenir, Combatir y Eliminar Actos de Discriminación en el Estado de México; y
+III. Consejo contra la Discriminación: al órgano ciudadano de opinión y asesoría de las acciones, políticas públicas, programas y proyectos que desarrolle la Comisión en materia de prevención y eliminación de la discriminación conforme a la Ley para Prevenir, Combatir y Eliminar Actos de Discriminación en el Estado de México;
 
-VI. Secretaría General: al Secretario a que se refiere la fracción II del artículo 15 de la Ley de la Comisión de Derechos Humanos del Estado de México.
+> <small>(REFORMADA, G.G. 5 DE OCTUBRE DE 2011)</small>
+
+IV. Ley: la Ley de la Comisión de Derechos Humanos del Estado de México;
+
+> <small>(REFORMADA, G.G. 5 DE OCTUBRE DE 2011)</small>
+
+V. Ley contra la Discriminación: la Ley para Prevenir, Combatir y Eliminar Actos de Discriminación en el Estado de México;
+
+> <small>(ADICIONADA, G.G. 5 DE OCTUBRE DE 2011)</small>
+
+VI. Presidente: al Presidente de la Comisión de Derechos Humanos del Estado de México; y
+
+> <small>(REFORMADA, G.G. 5 DE OCTUBRE DE 2011)</small>
+
+VII. Secretaría General: al Secretario a que se refiere la fracción II del artículo 15 de la Ley de la Comisión de Derechos Humanos del Estado de México.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 5 DE OCTUBRE DE 2011)</small>
 
 ###### Artículo 4.
 
-La Comisión publicará mensualmente la "Gaceta de Derechos Humanos"; órgano informativo de los acuerdos, normas y disposiciones de observancia general; así como de las Recomendaciones y Resoluciones de no Responsabilidad que emita el Organismo y de los asuntos relevantes para el cumplimiento de sus objetivos. Su distribución será gratuita.
+El Organismo publicará mensualmente la Gaceta de Derechos Humanos, en la que se informará de los acuerdos, normas y disposiciones de observancia general; así como de las Recomendaciones y Resoluciones de no Responsabilidad que emita el Organismo y de los asuntos relevantes para el cumplimiento de sus objetivos. Su distribución será gratuita.
 
 Sin perjuicio de lo anterior, la Comisión podrá publicar, u ordenar publicar en cualquier órgano de difusión, la información que considere conveniente para los mismos fines.
 
@@ -81,7 +97,9 @@ II. Secretaría General;
 
 III. Dirección General de Administración y Finanzas;
 
-IV. Areas de apoyo del Comisionado;
+> <small>(REFORMADA, G.G. 5 DE OCTUBRE DE 2011)</small>
+
+IV. Áreas de apoyo del Presidente;
 
 V. Secretaría Técnica;
 
@@ -95,9 +113,11 @@ IX. Contraloría Interna.
 
 La Comisión contara con las demás unidades administrativas que sean autorizadas, cuyas funciones y líneas de autoridad se establecerán en el Manual General de Organización; así como con el personal profesional, técnico, administrativo y los servidores públicos necesarios para el cumplimiento de sus atribuciones, en términos de su estructura interna aprobada y de las disposiciones aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 5 DE OCTUBRE DE 2011)</small>
+
 ###### Artículo 6.
 
-Quedan adscritas directamente al Comisionado las unidades administrativas siguientes:
+Quedan adscritas directamente al Presidente, las unidades administrativas siguientes:
 
 I. Primera Visitaduría General;
 
@@ -107,9 +127,11 @@ III. Dirección General de Administración y Finanzas; y
 
 IV. Centro de Estudios.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 5 DE OCTUBRE DE 2011)</small>
+
 ###### Artículo 7.
 
-Para el despacho de los asuntos que directamente correspondan al Comisionado, éste contará con las áreas de apoyo siguientes:
+Para el despacho de los asuntos que directamente correspondan al Presidente, éste contará con las áreas de apoyo siguientes:
 
 I. Unidad Jurídica y Consultiva;
 
@@ -173,15 +195,21 @@ IX. Suscribir los documentos relativos al ejercicio de sus atribuciones;
 
 X. Rendir por escrito los informes mensuales y anual de las actividades realizadas por el área a su cargo, así como los requeridos eventualmente; y
 
-XI. Las demás que les confieran otras disposiciones y aquellas que les encomiende su superior inmediato y el Comisionado.
+> <small>(REFORMADA, G.G. 5 DE OCTUBRE DE 2011)</small>
 
-### Capítulo IV. De las atribuciones específicas de las áreas de apoyo del Comisionado
+XI. Las demás que les confieran otras disposiciones y aquellas que les encomiende su superior inmediato y el Presidente.
+
+> <small>(REFORMADA SU DENOMINACIÓN, G.G. 5 DE OCTUBRE DE 2011)</small>
+
+### Capítulo IV. De las atribuciones específicas de las áreas de apoyo del Presidente
 
 ###### Artículo 12.
 
 Corresponde a la Unidad Jurídica y Consultiva:
 
-I. Representar jurídicamente al Organismo y al Comisionado ante las autoridades administrativas, judiciales y del trabajo, así como en los juicios en que sean parte haciendo valer toda clase de derechos, excepciones y defensas en cualquier procedimiento;
+> <small>(REFORMADA, G.G. 5 DE OCTUBRE DE 2011)</small>
+
+I. Representar jurídicamente al Organismo y al Presidente ante las autoridades administrativas, judiciales y del trabajo, así como en los juicios en que sean parte haciendo valer toda clase de derechos, excepciones y defensas en cualquier procedimiento;
 
 II. Proporcionar asesoría jurídica a las unidades administrativas de la Comisión;
 
@@ -189,15 +217,21 @@ III. Emitir opinión respecto de las consultas que en materia jurídica le formu
 
 IV. Analizar, elaborar, sancionar y resguardar ordenamientos, acuerdos, circulares, contratos y convenios que celebre o emita la Comisión;
 
-V. Elaborar y presentar al Comisionado proyectos e iniciativas para la abrogación, derogación o reformas, en su caso, de leyes, reglamentos y demás ordenamientos legales en materia de derechos humanos;
+> <small>(REFORMADA, G.G. 5 DE OCTUBRE DE 2011)</small>
 
-VI. Elaborar y presentar al Comisionado los proyectos de acciones de inconstitucionalidad, observando lo dispuesto por la Constitución Política de los Estados Unidos Mexicanos y la Constitución Política del Estado Libre y Soberano de México;
+V. Elaborar y presentar al Presidente proyectos e iniciativas para la abrogación, derogación o reformas, en su caso, de leyes, reglamentos y demás ordenamientos legales en materia de derechos humanos;
+
+> <small>(REFORMADA, G.G. 5 DE OCTUBRE DE 2011)</small>
+
+VI. Elaborar y presentar al Presidente los proyectos de acciones de inconstitucionalidad, observando lo dispuesto por la Constitución Política de los Estados Unidos Mexicanos y la Constitución Política del Estado Libre y Soberano de México;
 
 VII. Llevar a cabo la interlocución gubernamental y legislativa necesaria para el cumplimiento de sus atribuciones;
 
 VIII. Asistir y participar en las sesiones de Comités y Subcomités de la Comisión, conforme a las disposiciones aplicables; y
 
-IX. Las demás que le confieren otras disposiciones y aquellas que le encomiende el Comisionado.
+> <small>(REFORMADA, G.G. 5 DE OCTUBRE DE 2011)</small>
+
+IX. Las demás que le confieren otras disposiciones y aquellas que le encomiende el Presidente.
 
 ###### Artículo 13.
 
@@ -215,27 +249,39 @@ V. Solicitar la información a las unidades administrativas respecto de la ejecu
 
 VI. Proponer y ejecutar, en su caso, lineamientos, reglas, criterios y metodología en materia de información, planeación, programación y evaluación;
 
-VII. Elaborar el proyecto de informe anual de actividades del Comisionado, así como el proyecto de plan anual de trabajo de la Comisión, en los términos correspondientes;
+> <small>(REFORMADA, G.G. 5 DE OCTUBRE DE 2011)</small>
+
+VII. Elaborar el proyecto de informe anual de actividades del Presidente, así como el proyecto de plan anual de trabajo de la Comisión, en los términos correspondientes;
 
 VIII. Asistir y participar en las sesiones de Comités y Subcomités del Organismo en los que tenga intervención, conforme a las disposiciones aplicables;
 
 IX. Realizar las funciones correspondientes a la unidad de información del Organismo, en materia de transparencia y acceso a la información pública; y
 
-X. Las demás que le confieren otras disposiciones y aquellas que le encomiende el Comisionado.
+> <small>(REFORMADA, G.G. 5 DE OCTUBRE DE 2011)</small>
+
+X. Las demás que le confieren otras disposiciones y aquellas que le encomiende el Presidente.
 
 ###### Artículo 14.
 
 Corresponde a la Unidad de Comunicación Social:
 
-I. Proponer al Comisionado las acciones a seguir en materia de comunicación social, divulgación y sus relaciones con los medios de comunicación e información;
+> <small>(REFORMADA, G.G. 5 DE OCTUBRE DE 2011)</small>
 
-II. Sugerir al Comisionado los mecanismos e instrumentos para difundir las funciones y actividades de la Comisión;
+I. Proponer al Presidente las acciones a seguir en materia de comunicación social, divulgación y sus relaciones con los medios de comunicación e información;
+
+> <small>(REFORMADA, G.G. 5 DE OCTUBRE DE 2011)</small>
+
+II. Sugerir al Presidente los mecanismos e instrumentos para difundir las funciones y actividades de la Comisión;
 
 III. Informar con oportunidad a los medios de comunicación sobre las acciones y programas del Organismo;
 
-IV. Coordinar las reuniones y conferencias de prensa del Comisionado y demás servidores públicos de la Comisión; y
+> <small>(REFORMADA, G.G. 5 DE OCTUBRE DE 2011)</small>
 
-V. Las demás que le confieren otras disposiciones y aquellas que le encomiende el Comisionado.
+IV. Coordinar las reuniones y conferencias de prensa del Presidente y demás servidores públicos de la Comisión; y
+
+> <small>(REFORMADA, G.G. 5 DE OCTUBRE DE 2011)</small>
+
+V. Las demás que le confieren otras disposiciones y aquellas que le encomiende el Presidente.
 
 ### Capítulo V. De las atribuciones específicas de la Primera Visitaduría General
 
@@ -245,7 +291,9 @@ La Primera Visitaduría General, además de las facultades y obligaciones conten
 
 I. Coordinar las funciones de las áreas a su cargo;
 
-II. Someter a consideración del Comisionado, los proyectos derivados de las áreas a su cargo;
+> <small>(REFORMADA, G.G. 5 DE OCTUBRE DE 2011)</small>
+
+II. Someter a consideración del Presidente, los proyectos derivados de las áreas a su cargo;
 
 III. Homologar criterios para la sustanciación de los procedimientos que sean competencia de las Visitadurías, así como para la emisión de las resoluciones que emita el Organismo;
 
@@ -255,9 +303,11 @@ V. Proveer lo necesario para el adecuado seguimiento de las conciliaciones, medi
 
 VI. Asistir y participar en las sesiones de Comités y Subcomités de la Comisión en los que tenga intervención, conforme a las disposiciones aplicables; y
 
-VII. Las demás que le confieren otras disposiciones y aquellas que le encomiende el Comisionado.
+> <small>(REFORMADA, G.G. 5 DE OCTUBRE DE 2011)</small>
 
-> <small>(REFORMADA SU DENOMINACION, G.G. 4 DE MAYO DE 2011)</small>
+VII. Las demás que le confieren otras disposiciones y aquellas que le encomiende el Presidente.
+
+> <small>(REFORMADA SU DENOMINACIÓN, G.G. 4 DE MAYO DE 2011)</small>
 
 ### Capítulo VI. De las atribuciones específicas de la Dirección de Programas Especiales
 
@@ -297,7 +347,9 @@ Corresponde a la Secretaría Técnica:
 
 I. Elaborar el anteproyecto de programa de capacitación social e institucional en derechos humanos;
 
-II. Fomentar la vinculación con las coordinaciones municipales de derechos humanos y organizaciones no gubernamentales;
+> <small>(REFORMADA, G.G. 5 DE OCTUBRE DE 2011)</small>
+
+II. Fomentar la vinculación con las defensorías municipales de derechos humanos y organizaciones no gubernamentales;
 
 III. Coordinar las gestiones necesarias para la suscripción de los convenios que le sean encomendados; y
 
@@ -321,7 +373,9 @@ IV. Las demás que le confieren otras disposiciones y aquellas que le encomiende
 
 Corresponde a la Dirección General de Administración y Finanzas:
 
-I. Coordinar, formular y presentar al Comisionado, el anteproyecto de presupuesto anual de egresos del Organismo, para los efectos conducentes;
+> <small>(REFORMADA, G.G. 5 DE OCTUBRE DE 2011)</small>
+
+I. Coordinar, formular y presentar al Presidente, el anteproyecto de presupuesto anual de egresos del Organismo, para los efectos conducentes;
 
 II. Suscribir los documentos relativos al ejercicio de sus atribuciones, así como celebrar, los contratos, convenios y demás actos jurídicos de carácter administrativo o de cualquier otra índole, dentro del ámbito de su competencia, necesarios para el ejercicio de sus funciones;
 
@@ -335,7 +389,9 @@ VI. Formular, integrar y ejecutar el programa anual de adquisiciones, de acuerdo
 
 VII. Resguardar, registrar y controlar el patrimonio de la Comisión, así como los bienes muebles e inmuebles asignados a las unidades administrativas, conforme lo establecen las leyes y demás disposiciones aplicables;
 
-VIII. Establecer con la aprobación del Comisionado, políticas, normas, criterios, sistemas y procedimientos para la administración de los recursos humanos, financieros y materiales del Organismo y la prestación de servicios generales de apoyo;
+> <small>(REFORMADA, G.G. 5 DE OCTUBRE DE 2011)</small>
+
+VIII. Establecer con la aprobación del Presidente, políticas, normas, criterios, sistemas y procedimientos para la administración de los recursos humanos, financieros y materiales del Organismo y la prestación de servicios generales de apoyo;
 
 IX. Atender las necesidades administrativas de la Comisión, considerando la administración de los recursos referidos en la fracción anterior;
 
@@ -349,7 +405,9 @@ XIII. Operar, evaluar y mantener actualizados los sistemas de información elect
 
 XIV. Expedir copias certificadas de los documentos relacionados con los asuntos de su competencia y del cumplimiento de sus atribuciones; y
 
-XV. Las demás que le confieren otras disposiciones y aquellas que le encomiende el Comisionado.
+> <small>(REFORMADA, G.G. 5 DE OCTUBRE DE 2011)</small>
+
+XV. Las demás que le confieren otras disposiciones y aquellas que le encomiende el Presidente.
 
 ### Capítulo X. De las atribuciones del Centro de Estudios
 
@@ -381,11 +439,15 @@ VIII. Crear y desarrollar programas que permitan tener acceso a la información 
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 1 DE JUNIO DE 2010)</small>
 
-IX. Asistir y participar en las sesiones de Comités y Subcomités de la Comisión, en los que tenga intervención, conforme a las disposiciones aplicables; y
+IX. Asistir y participar en las sesiones de Comités y Subcomités de la Comisión, en los que tenga intervención, conforme a las disposiciones aplicables; y (sic)
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 1 DE JUNIO DE 2010)</small>
+> <small>(ADICIONADA G.G. 5 DE OCTUBRE DE 2011)</small>
 
-X. Las demás que le confieren otras disposiciones y aquellas que le encomiende el Comisionado.
+X. Expedir constancias de no adeudo del material con que cuenta el Centro de Información y Documentación del Organismo; y
+
+> <small>(REFORMADA, G.G. 5 DE OCTUBRE DE 2011)</small>
+
+XI Las que demás que le confieren otras disposiciones y aquellas que le encomiende el Presidente.
 
 ### Capítulo XI. De las atribuciones de la Contraloría Interna
 
@@ -429,17 +491,23 @@ XVII. Las demás que le confieren otras disposiciones.
 
 ### Capítulo XII. De la suplencia de los titulares
 
-###### Artículo 23.
+> <small>(REFORMADO, G.G. 5 DE OCTUBRE DE 2011)</small>
 
-En las ausencias temporales menores de 15 días del Comisionado, para despacho y resolución de los asuntos que él determine, será suplido por el Primer Visitador General; en las mayores de 15 días se estará a lo establecido en la Ley.
+###### Articulo 23.
+
+En las ausencias temporales menores de 15 días del Presidente, para despacho y resolución de los asuntos que él determine, será suplido por el Primer Visitador General; en las mayores de 15 días se estará a lo establecido en la Ley.
+
+> <small>(REFORMADO, G.G. 5 DE OCTUBRE DE 2011)</small>
 
 ###### Artículo 24.
 
-En las ausencias temporales menores de 15 días del Primer Visitador General, éste será suplido por el Visitador General que él designe; en las mayores de 15 días por el Visitador General que designe el Comisionado.
+En las ausencias temporales menores de 15 días del Primer Visitador General, éste será suplido por el Visitador General que él designe; en las mayores de 15 días por el Visitador General que designe el Presidente.
+
+> <small>(REFORMADO, G.G. 5 DE OCTUBRE DE 2011)</small>
 
 ###### Artículo 25.
 
-En las ausencias temporales menores de 15 días de los titulares de las unidades administrativas, éstos serán suplidos por el servidor público que ellos designen; en las mayores de 15 días por el servidor público de la jerarquía inmediata inferior que designe el Comisionado.
+En las ausencias temporales menores de 15 días de los titulares de las unidades administrativas, éstos serán suplidos por el servidor público que ellos designen; en las mayores de 15 días por el servidor público de la jerarquía inmediata inferior que designe el Presidente.
 
 ###### Artículo 26.
 
@@ -513,7 +581,9 @@ Toda queja que se dirija a la Comisión, debe contener los datos siguientes:
 
 I. Para la identificación: nombre completo, domicilio y de ser posible el número telefónico o correo electrónico de la persona presuntamente afectada en sus derechos humanos y, en su caso, de quien presente la queja;
 
-II. Descripción sucinta de los hechos presuntamente violatorios a derechos humanos;
+> <small>(REFORMADA, G.G. 5 DE OCTUBRE DE 2011)</small>
+
+II. Descripción de los hechos presuntamente violatorios a derechos humanos;
 
 III. Autoridad o servidor público o, en su caso, aquellos que presten u ofrezcan servicios al público en términos del artículo 13 fracción II de la Ley; y
 
@@ -523,17 +593,25 @@ IV. Firma o dactilograma del interesado.
 
 El Visitador debe suplir la deficiencia de la queja cuando:
 
-I. No reúna alguno de los datos previstos en el artículo 33 de este Reglamento Interno, o lo haga defectuosamente;
+> <small>(REFORMADA, G.G. 5 DE OCTUBRE DE 2011)</small>
 
-II. Se adviertan más afectados en sus derechos humanos, que los señalados en la queja;
+I. Se adviertan más afectados en sus derechos humanos, que los señalados en la queja;
 
-III. Se observe la intervención de autoridades o servidores públicos distintos a los indicados en la queja;
+> <small>(REFORMADA, G.G. 5 DE OCTUBRE DE 2011)</small>
 
-IV. Se aprecien hechos violatorios a derechos humanos, distintos a los descritos en la queja;
+II. Se observe la intervención de autoridades o servidores públicos distintos a los indicados en la queja;
 
-V. Los fundamentos invocados por el quejoso no correspondan a los hechos; y
+> <small>(REFORMADA, G.G. 5 DE OCTUBRE DE 2011)</small>
 
-VI. A su juicio sea necesario.
+III. Se aprecien hechos violatorios a derechos humanos, distintos a los descritos en la queja;
+
+> <small>(REFORMADA, G.G. 5 DE OCTUBRE DE 2011)</small>
+
+IV. Los fundamentos invocados por el quejoso no correspondan a los hechos; y
+
+> <small>(REFORMADA, G.G. 5 DE OCTUBRE DE 2011)</small>
+
+V. A su juicio sea necesario.
 
 ###### Artículo 35.
 
@@ -595,11 +673,11 @@ Cuando la queja se califique de acuerdo con lo dispuesto por el artículo 41 fra
 
 En los casos en que exista la posibilidad de proporcionar orientación jurídica, el Visitador orientará al quejoso de manera breve y sencilla sobre la naturaleza del problema y sus posibles soluciones; así como la institución competente para conocer de su asunto.
 
+> <small>(REFORMADO, G.G. 5 DE OCTUBRE DE 2011)</small>
+
 ###### Artículo 44.
 
-Cuando la queja se califique en términos del artículo 41 fracción III del presente ordenamiento, el Visitador procederá de conformidad con el artículo 67 de la Ley; requiriendo al quejoso para que en un término de hasta cinco días hábiles, realice las precisiones o aclaraciones conducentes; en caso contrario, la queja será concluida por falta de interés.
-
-Lo mismo sucederá cuando, en cualquier etapa del procedimiento, se requiera al quejoso información adicional o su comparecencia y éste no cumpla en dicho término.
+Cuando la queja se califique en términos del artículo 41 fracción III del presente ordenamiento, el Visitador procederá de conformidad con el artículo 67 de la Ley; requiriendo al quejoso para que en un término de hasta cinco días hábiles, realice las precisiones o aclaraciones conducentes. En caso contrario, la queja será concluida.
 
 ###### Artículo 45.
 
@@ -735,17 +813,21 @@ La autoridad o servidor público a quien se envíe una propuesta de conciliació
 
 Cuando la autoridad o servidor público no acepte la propuesta de conciliación formulada por el Organismo, éste resolverá lo que conforme a derecho corresponda.
 
+> <small>(REFORMADO, G.G. 5 DE OCTUBRE DE 2011)</small>
+
 ###### Artículo 69.
 
-Una vez aceptada la propuesta de conciliación, el plazo máximo para su cumplimiento será de cuarenta y cinco días siguientes a la aceptación; el cual podrá ampliarse a juicio del Visitador atendiendo a la complejidad de su cumplimiento.
+Una vez aceptada la propuesta de conciliación, el plazo para su cumplimiento será de cuarenta y cinco días siguientes a la aceptación; el cual podrá ampliarse a juicio del Visitador atendiendo a la complejidad de su cumplimiento.
+
+> <small>(REFORMADO, G.G. 5 DE OCTUBRE DE 2011)</small>
 
 ###### Artículo 70.
 
-El Organismo podrá solicitar la información que considere pertinente, en el seguimiento de la propuesta de conciliación.
+El Organismo debe verificar el cumplimiento de sus conciliaciones para lo cual puede realizar toda clase de actuaciones, gestiones o diligencias, de oficio o a petición de parte.
 
 ###### Artículo 71.
 
-Durante el procedimiento conciliatorio, la autoridad o servidor público presentará al Organismo las evidencias que acrediten el cumplimiento de la propuesta de conciliación.
+(DEROGADO, G.G. 5 DE OCTUBRE DE 2011)
 
 ###### Artículo 72.
 
@@ -753,7 +835,7 @@ En el supuesto de que la autoridad no hubiese cumplido la propuesta de conciliac
 
 ###### Artículo 73.
 
-Aceptada la propuesta de conciliación, el expediente será enviado al archivo, quedando abierto sólo para efectos de su seguimiento. Cumplida la conciliación, el expediente será archivado definitivamente.
+(DEROGADO, G.G. 5 DE OCTUBRE DE 2011)
 
 ### Capítulo VII. De las actuaciones
 
@@ -775,27 +857,31 @@ Transcurridos los plazos fijados a las partes, se tendrá por perdido el derecho
 
 Los expedientes de queja serán formalmente concluidos mediante resolución firmada por el Visitador General, en la que se establezca la causa de conclusión del expediente y su fundamento legal.
 
+> <small>(REFORMADO, G.G. 5 DE OCTUBRE DE 2011)</small>
+
 ###### Artículo 78.
 
-Los expedientes de queja pueden ser concluidos por cualquiera de las causas siguientes:
+Los expedientes de queja pueden ser concluidos por:
 
-I. Por haberse dictado la Recomendación correspondiente, quedando en este caso abierto el expediente para efectos del seguimiento del cumplimiento de la misma;
+I. Incompetencia de la Comisión para conocer de la queja;
 
-II. Por haberse emitido una Resolución de no Responsabilidad;
+II. Improcedencia de la queja;
 
-III. Por haberse solucionado la queja mediante el procedimiento de mediación o conciliación;
+III. Acumulación de expedientes;
 
-IV. Por haberse solucionado la queja durante el trámite respectivo;
+IV. No tratarse de violaciones a derechos humanos;
 
-V. Por haberse dictado un acuerdo de acumulación de expedientes;
+V. Haberse solucionado la queja durante el trámite respectivo;
 
-VI. Por no tratarse de violaciones a derechos humanos;
+VI. Haberse solucionado la queja mediante el procedimiento de mediación;
 
-VII. Por incompetencia de la Comisión para conocer de la queja;
+VII. Haberse solucionado la queja mediante el procedimiento de conciliación;
 
-VIII. Por existir alguna causal de improcedencia, en términos de los artículos 61 y 69 de la Ley, o de este Reglamento; o
+VIII. Haberse dictado la Recomendación correspondiente;
 
-IX. Por desistimiento del quejoso, ratificado ante el Organismo.
+IX. Haberse emitido una Resolución de no Responsabilidad; o
+
+X. Desistimiento del quejoso o agraviado, ratificado ante el Organismo.
 
 ###### Artículo 79.
 
@@ -825,21 +911,7 @@ Concluida la investigación, el Visitador realizará el proyecto de la resoluci�
 
 ###### Artículo 84.
 
-Las Recomendaciones deben contener los elementos siguientes:
-
-I. Datos generales de identificación;
-
-II. Competencia;
-
-III. Descripción sucinta de la queja;
-
-IV. Procedimiento de la investigación;
-
-V. Ponderaciones;
-
-VI. Medidas para la restitución de los afectados en sus derechos fundamentales; y
-
-VII. Puntos recomendatorios.
+(DEROGADO, G.G. 5 DE OCTUBRE DE 2011)
 
 ###### Artículo 85.
 
@@ -861,11 +933,7 @@ En la elaboración de los proyectos a que se refieren los artículos 85 y 86 de 
 
 ###### Artículo 87.
 
-Los proyectos de Recomendación o Resoluciones de no Responsabilidad, serán elaborados por el proyectista y el Visitador que integró el expediente, bajo la dirección del Visitador General.
-
-El proyecto se someterá a la sanción de los Visitadores Generales del Organismo, quienes de manera colegiada lo analizarán, emitiendo en su caso las observaciones pertinentes.
-
-Concluido el estudio y efectuadas las modificaciones que resulten procedentes, el proyecto será rubricado por los Visitadores revisores, para ser puesto a la consideración y aprobación, en su caso, del Comisionado, por conducto del Primer Visitador General.
+(DEROGADO, G.G. 5 DE OCTUBRE DE 2011)
 
 ###### Artículo 88.
 
@@ -895,47 +963,39 @@ En contra de la resolución del recurso no procede medio de impugnación alguno.
 
 ### Capítulo XIII. De las notificaciones
 
+> <small>(REFORMADO, G.G. 5 DE OCTUBRE DE 2011)</small>
+
 ###### Artículo 93.
 
-Las notificaciones surten sus efectos, en términos del artículo 57 de la Ley.
+Las resoluciones emitidas en los expedientes de queja se notificarán a los quejosos y autoridades, personalmente, por correo certificado, telefax o correo electrónico.
 
 ###### Artículo 94.
 
-Las notificaciones se deben efectuar, a más tardar, dentro de los tres días hábiles siguientes al en que se dicten las resoluciones o actos respectivos, salvo lo dispuesto de manera expresa en otras disposiciones.
+(DEROGADO, G.G. 5 DE OCTUBRE DE 2011)
 
 ###### Artículo 95.
 
-Las notificaciones se deben realizar de la manera siguiente:
-
-I. Personalmente a los quejosos, agraviados o particulares y por oficio a las autoridades, en su caso, cuando se trate de citaciones, resoluciones que concluyan el expediente y cualquier otra que a juicio del Visitador deba ser notificada de esta forma;
-
-II. En las oficinas de la Comisión, si se presentan los quejosos, autoridades u otros particulares a quienes deba notificarse;
-
-III. Por estrados, que estarán ubicados en lugar visible de las oficinas de la Comisión, cuando el quejoso así lo solicite, no señale domicilio o el referido sea incorrecto, o no se pueda entablar comunicación por algún otro medio;
-
-IV. Por correo ordinario o certificado, en los demás casos; o
-
-V. Por cualquier medio, en los casos que establezcan la Ley y el presente ordenamiento.
+(DEROGADO, G.G. 5 DE OCTUBRE DE 2011)
 
 ###### Artículo 96.
 
-Las notificaciones personales se realizarán en las oficinas de la Comisión o en el domicilio designado.
+(DEROGADO, G.G. 5 DE OCTUBRE DE 2011)
 
 ###### Artículo 97.
 
-Si no se encuentra el interesado en el domicilio designado, se dejará una cédula con cualquiera de las personas que ahí residan, la cual contendrá un extracto de la resolución que pretenda notificarse; la oficina que dicta la notificación; lugar, día y hora en que se hace y persona en poder de quien se deja, expresando el motivo por el que la notificación no se hizo directamente al interesado.
+(DEROGADO, G.G. 5 DE OCTUBRE DE 2011)
 
 ###### Artículo 98.
 
-Si el que deba ser notificado se niega a recibir la notificación; las personas que residan en el domicilio se rehúsen a recibir la cédula o no se encuentre persona alguna en el lugar; la cédula, con sus anexos, se fijará en la puerta de entrada del domicilio; de preferencia ante la presencia de sus vecinos.
+(DEROGADO, G.G. 5 DE OCTUBRE DE 2011)
 
 ###### Artículo 99.
 
-El servidor público que lleve a cabo una notificación, asentará razón de las circunstancias observadas con motivo de la práctica de esta diligencia.
+(DEROGADO, G.G. 5 DE OCTUBRE DE 2011)
 
 ###### Artículo 100.
 
-La Comisión puede solicitar por exhorto a los organismos protectores de derechos humanos de los estados o del Distrito Federal, que en auxilio de sus labores lleven a cabo la notificación que deba realizarse en el territorio de sus competencias respectivas.
+(DEROGADO, G.G. 5 DE OCTUBRE DE 2011)
 
 ## TRANSITORIOS
 
@@ -993,7 +1053,7 @@ SECRETARIA GENERAL Y SECRETARIA TECNICA DEL CONSEJO CONSULTIVO DE LA COMISION DE
 
 (RUBRICA).
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
 
 G.G. 1 DE JUNIO DE 2010.
 
@@ -1006,3 +1066,13 @@ G.G. 4 DE MAYO DE 2011.
 Artículo primero. Publíquese el presente Acuerdo en el Periódico Oficial "Gaceta del Gobierno" del Estado de México y en la Gaceta de Derechos Humanos órgano oficial de difusión de la Comisión.
 
 Artículo segundo. El presente Acuerdo entrará en vigor a los tres días hábiles siguientes a su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+G.G. 5 DE OCTUBRE DE 2011.
+
+Artículo primero. Publíquese el presente Acuerdo en el Periódico Oficial del Gobierno del Estado de México "Gaceta del Gobierno" y en la Gaceta de Derechos Humanos órgano informativo de la Comisión.
+
+Artículo segundo. Este Acuerdo entrará en vigor a los diez días hábiles siguientes a su publicación en el Periódico Oficial del Gobierno del Estado de México "Gaceta del Gobierno".
+
+Artículo tercero. La Visitaduría General Sede Ecatepec, deberá instalar el Comité de Defensores Municipales a que se refieren los artículos 22, 23 y 24 del Reglamento de Organización y Funcionamiento de las Defensorías Municipales de Derechos Humanos del Estado de México, dentro de los treinta días hábiles siguientes a la entrada en vigor del presente Acuerdo.
+
+Artículo cuarto. Derivado de la redistribución de la competencia de las Visitadurías Generales de esta Defensoría de Habitantes, se faculta a los Visitadores Generales para hacer las modificaciones correspondientes en los Comités de Defensores Municipales de Derechos Humanos, para su debido funcionamiento, de conformidad con lo establecido en el Reglamento Interno de la Comisión de Derechos Humanos del Estado de México.
