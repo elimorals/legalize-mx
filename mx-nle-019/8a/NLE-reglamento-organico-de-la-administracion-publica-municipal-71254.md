@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-organico-de-la-administracion-publica-municipal-7125
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-11-16"
-last_updated: "2011-07-27"
+last_updated: "2011-10-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=71254&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 REGLAMENTO ORGANICO DE LA ADMINISTRACION PUBLICA MUNICIPAL DE SAN PEDRO GARZA GARCIA, NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE JULIO DE 2011.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE OCTUBRE DE 2011.
 
 Reglamento Publicado en el Periódico Oficial del Estado de Nuevo León, el lunes 16 de noviembre de 2009.
 
@@ -923,9 +923,31 @@ III.- Promover la protección de las personas y de sus bienes en todos sus aspec
 
 IV.- Las demás que le confiera el Reglamento en Materia de Seguridad Municipal de San Pedro Garza García, Nuevo León, así como las previstas en los demás ordenamientos legales aplicables.
 
-> <small>(REFORMADO, P.O. 2 DE JUNIO DE 2010)</small>
+> <small>(ADICIONADO, P.O. 5 DE OCTUBRE DE 2011)</small>
 
-Para el despacho de los asuntos de competencia de la Secretaría de Seguridad Municipal, su titular se auxiliará directamente las siguientes Direcciones: Dirección General de Policía, Dirección General de Tránsito y Vialidad, Dirección de Protección Civil, Dirección de Prevención al Delito y demás unidades administrativas que resulten necesarias.
+G) De Centro de Control, Comando y Comunicaciones:
+
+l. Dirigir el funcionamiento del Centro de Control, Comando y Comunicaciones del Municipio, de conformidad con los programas aprobados y las instrucciones del Secretario de Seguridad Municipal;
+
+II. Proponer e instrumentar planes, programas, proyectos y acciones en el ámbito de la coordinación y comunicación al interior de la Secretaría de Seguridad Municipal;
+
+III. Promover la homologación de los esquemas de coordinación y comunicaciones con otras instancias gubernamentales en materia de seguridad pública.
+
+IV. Elaborar y proponer normativas en materia de control, coordinación, comando y comunicaciones para fortalecer la seguridad preventiva;
+
+V. Diseñar, operar, mantener actualizado y dar seguimiento al sistema de información estratégica para la seguridad pública municipal;
+
+VI. Desplegar estrategias, métodos y sistemas que garanticen la administración confiable y el resguardo de la información en materia de seguridad en posesión del Centro de Control, Comando y Comunicaciones del Municipio;
+
+VII. Asegurar el óptimo funcionamiento de los sistemas, equipos informáticos y de comunicaciones de la Secretaría de Seguridad Municipal;
+
+VIII. Diseñar, proponer y ejecutar programas y proyectos de calidad, innovación y mejora continua para el control, comando, coordinación y comunicaciones en seguridad municipal; y
+
+IX. Diseñar y proponer programas de selección, capacitación, desarrollo, permanencia y estímulos para el personal del Centro de Control, Comando y Comunicaciones del Municipio, en cumplimiento a la normatividad vigente.
+
+> <small>(REFORMADO, P.O. 5 DE OCTUBRE DE 2011)</small>
+
+Para el despacho de los asuntos competencia de la Secretaría de Seguridad Municipal, su titular se auxiliará directamente de las siguientes Direcciones: Dirección General de Policía, Dirección General de Tránsito y Vialidad, Dirección de Protección Civil, Dirección de Prevención al Delito, Dirección de Centro de Control, Comando y Comunicaciones y demás unidades administrativas que resulten necesarias.
 
 ###### ARTÍCULO 32.
 
@@ -1537,9 +1559,9 @@ Para lo no previsto en el presente Reglamento, se atenderá a lo dispuesto por l
 
 ## TRANSITORIOS
 
-> <small>(REFORMADO, P.O. 27 DE JULIO DE 2011)</small>
+> <small>(REFORMADO, P.O. 5 DE OCTUBRE DE 2011)</small>
 
-Artículo Primero. Las presentes reformas por modificación y adición al Reglamento Orgánico de la Administración Pública Municipal de San Pedro García, Nuevo León, entrarán en vigor el día de su publicación en el Periódico Oficial del Estado de Nuevo León.
+Artículo Primero. Las presentes reformas por adición entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
 
 Artículo Segundo. Se Aprueba el Reglamento Orgánico de la Administración Pública Municipal de San Pedro Garza García, Nuevo León, en los términos que se exponen en el contenido del presente escrito.
 
@@ -1607,12 +1629,18 @@ Artículo Tercero.- Las referencias establecidas en los diversos reglamentos y l
 
 P.O. 12 DE NOVIEMBRE DE 2010.
 
-Artículo Primero.- Las presentes reformas por modificación, adición y derogación al Reglamento de Orgánico de la Administración Pública Municipal de San Pedro Garza García, Nuevo León, entrarán en vigor el día de su publicación en el Periódico Oficial del Estado de Nuevo León..
+Artículo Primero.- Las presentes reformas por modificación, adición y derogación al Reglamento de Orgánico de la Administración Pública Municipal de San Pedro Garza García, Nuevo León, entrarán en vigor el día de su publicación en el Periódico Oficial del Estado de Nuevo León.
 
-...
+.
 
 P.O. 27 DE JULIO DE 2011.
 
 Artículo Primero.- Las presentes reformas por modificación y adición al Reglamento Orgánico de la Administración Pública Municipal de San Pedro García, Nuevo León, entrarán en vigor el día de su publicación en el Periódico Oficial del Estado de Nuevo León.
+
+...
+
+P.O. 5 DE OCTUBRE DE 2011.
+
+Artículo Primero.- Las presentes reformas por adición entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
 
 ...
