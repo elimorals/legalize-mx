@@ -4,7 +4,7 @@ identifier: "PUE-reglamento-interior-de-la-coordinacion-general-de-73865"
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-01-22"
-last_updated: "2010-01-22"
+last_updated: "2011-10-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=73865&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 REGLAMENTO INTERIOR DE LA COORDINACION GENERAL DE TRANSPARENCIA Y DEL COMITE CIUDADANO PARA LA TRANSPARENCIA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE OCTUBRE DE 2011.
 
 Reglamento publicado en la Octava Sección del Periódico Oficial del Estado de Puebla, el viernes 22 de enero de 2010.
 
@@ -93,31 +93,61 @@ I. Ayuntamiento.- El Honorable Ayuntamiento del Municipio de Puebla;
 
 II. Cabildo.- El Honorable Cabildo del Ayuntamiento del Municipio de Puebla;
 
-III. Coordinación.- La Coordinación General de Transparencia del H. Ayuntamiento de Puebla;
+> <small>(REFORMADA, P.O. 5 DE OCTUBRE DE 2011)</small>
+
+III. Comisionados.- Los representantes ciudadanos del Comité Ciudadano para la Transparencia;
 
 IV. Comité.- El Comité Ciudadano para la Transparencia;
 
-V. Municipio.- El Municipio de Puebla;
+> <small>(REFORMADA, P.O. 5 DE OCTUBRE DE 2011)</small>
 
-VI. Ley.- La Ley de Transparencia y Acceso a la Información Pública del Estado de Puebla vigente;
+V. Contraloría.- La Contraloría Municipal del Honorable Ayuntamiento de Puebla;
+
+> <small>(REFORMADA, P.O. 5 DE OCTUBRE DE 2011)</small>
+
+VI. Coordinador.- El Coordinador General de Transparencia;
 
 VII. Coordinador.- El Coordinador General de Transparencia;
 
-VIII. Contraloría.- La Contraloría del Municipio de Puebla;
+> <small>(REFORMADA, P.O. 5 DE OCTUBRE DE 2011)</small>
 
-IX. Comisionados.- Los representantes ciudadanos del Comité Ciudadano para la Transparencia;
+VIII. Ley.- La Ley de Transparencia y Acceso a la Información Pública del Estado de Puebla vigente;
 
-X. Presidente Municipal.- El Presidente Municipal Constitucional de Puebla;
+> <small>(REFORMADA, P.O. 5 DE OCTUBRE DE 2011)</small>
 
-XI. Sujetos Obligados.- El Ayuntamiento, sus Dependencias y Entidades Paramunicipales;
+IX. Municipio.- El Municipio de Puebla;
 
-XII. Tesorería.- La Tesorería del Municipio de Puebla; y
+> <small>(REFORMADA, P.O. 5 DE OCTUBRE DE 2011)</small>
 
-XIII. UAAI.- Unidad Administrativa de Acceso a la Información designada por el titular de cada Sujeto Obligado, que funge como coordinadora en materia de acceso a la información pública en la dependencia, entidad u órgano respectivo.
+X. Normatividad.- La Normatividad Presupuestal para la Autorización y Ejercicio del Gasto Público de la Administración Municipal;
+
+> <small>(REFORMADA, P.O. 5 DE OCTUBRE DE 2011)</small>
+
+XI. Presidente Municipal.- El Presidente Municipal Constitucional de Puebla;
+
+> <small>(REFORMADA, P.O. 5 DE OCTUBRE DE 2011)</small>
+
+XII. SATI.- Secretaría de Administración y Tecnologías de la Información;
+
+> <small>(REFORMADA, P.O. 5 DE OCTUBRE DE 2011)</small>
+
+XIII. Sujetos Obligados.- El Ayuntamiento, sus Dependencias y Entidades Paramunicipales;
+
+> <small>(ADICIONADA, P.O. 5 DE OCTUBRE DE 2011)</small>
+
+XIV. Tesorería.- La Tesorería Municipal; y
+
+> <small>(ADICIONADA, P.O. 5 DE OCTUBRE DE 2011)</small>
+
+XV. UAAI.- Unidad Administrativa de Acceso a la Información designada por el titular de cada Sujeto Obligado, que funge como coordinadora en materia de acceso a la información pública en la dependencia, entidad u órgano respectivo.
 
 ###### Artículo 3.
 
 Para el desarrollo y cumplimiento de sus funciones, la Coordinación y el Comité contarán con la estructura orgánica aprobada por el Cabildo.
+
+> <small>(ADICIONADO, P.O. 5 DE OCTUBRE DE 2011)</small>
+
+Artículo 3 BIS.- Toda referencia, incluyendo los cargos y puestos en este Reglamento, al género masculino lo es también para el género femenino, cuando de su texto y contexto no se establezca que es expresamente para uno u otro género.
 
 ## TÍTULO SEGUNDO. DE LA NATURALEZA, ATRIBUCIONES Y FUNCIONAMIENTO DE LA COORDINACIÓN GENERAL DE TRANSPARENCIA
 
@@ -171,9 +201,17 @@ XIX. Las demás que le confiera la normatividad aplicable.
 
 ### CAPÍTULO II. DE LA ESTRUCTURA ORGÁNICA Y SU FUNCIONAMIENTO
 
+> <small>(REFORMADO, P.O. 5 DE OCTUBRE DE 2011)</small>
+
 ###### Artículo 6.
 
-Para el ejercicio de las funciones, atribuciones y despacho de los asuntos de su competencia, la Coordinación contará con un área de apoyo y las Unidades de Seguimiento Interno y de Vinculación Externa. Cada Unidad contará con el personal profesional, técnico y administrativo necesario para la realización de sus funciones.
+Para el ejercicio de las funciones, atribuciones y despacho de los asuntos de su competencia, la Coordinación contará con un área de apoyo y con las unidades de:
+
+a) Seguimiento Interno;
+
+b) Vinculación Externa; y
+
+c) Técnica de Planeación y Administración.
 
 ###### Artículo 7.
 
@@ -297,11 +335,59 @@ XVI. Promover la evaluación de la transparencia y rendición de cuentas del Ayu
 
 XVII. Analizar y proponer al Coordinador acciones para transparentar el desempeño gubernamental.
 
-### CAPÍTULO I. DE LAS ATRIBUCIONES
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 5 DE OCTUBRE DE 2011)</small>
+
+### CAPÍTULO VI. DE LA UNIDAD TÉCNICA DE PLANEACIÓN Y ADMINISTRACIÓN
+
+> <small>(ADICIONADO, P.O. 5 DE OCTUBRE DE 2011)</small>
+
+Artículo 14 BIS.- Al frente de la Unidad Técnica de Planeación y Administración se designará a un Jefe de Departamento quien contará con personal profesional, técnico y administrativo necesario para la realización de sus funciones.
+
+> <small>(ADICIONADO, P.O. 5 DE OCTUBRE DE 2011)</small>
+
+Artículo 14 TER.- El Jefe de Departamento de la Unidad Técnica de Planeación y Administración, tendrá las siguientes atribuciones:
+
+I. Presentar al Coordinador la propuesta de anteproyecto del Presupuesto de Egresos anual de la Coordinación, en los términos y plazos que establece la normatividad y las demás disposiciones legales y administrativas aplicables;
+
+II. Aplicar, observar y difundir al interior de la Coordinación las políticas, normativas, circulares y lineamientos emitidos por la Tesorería y la SATI en materia de administración de recursos humanos, materiales y financieros, conforme a lo establecido en la normatividad y las demás disposiciones legales y administrativas aplicables;
+
+III. Auxiliar al Coordinador en la administración y control de los recursos humanos, materiales y financieros asignados a la Coordinación con base en el Presupuesto de Egresos vigente;
+
+IV. Solicitar, tramitar, aplicar y comprobar el ejercicio de los recursos económicos asignados a la Coordinación ante la Tesorería, conforme a las partidas presupuestales contenidas en el Presupuesto de Egresos del ejercicio que corresponda y con apego a la normatividad;
+
+V. Recibir y revisar las facturas y demás documentos que consignen obligaciones de pago con cargo a la Coordinación, con motivo de la adquisición de bienes, contratación de servicios, arrendamientos, así como todos aquéllos que se generen por la tramitación de viáticos y pasajes y reposición de fondos revolventes, entre otros;
+
+VI. Elaborar y proponer al Coordinador el anteproyecto del Programa Anual de Adquisiciones, Arrendamientos y Servicios, así como el anteproyecto del Programa Anual de Mantenimiento Preventivo y Correctivo de los Bienes Muebles e Inmuebles de la Coordinación;
+
+VII. Resolver y tramitar, previo acuerdo con el Coordinador, los movimientos de alta, baja o cambios de adscripción de los servidores públicos adscritos a la Coordinación, así como integrar los expedientes de los mismos;
+
+VIII. Gestionar los cursos de capacitación y adiestramiento de acuerdo a las necesidades de los servidores públicos, así como el personal de servicio social o prácticas profesionales para la Coordinación;
+
+IX. Integrar y resguardar copia de la información financiera, presupuestal y contable de la Coordinación, para la comprobación y justificación del origen y aplicación del gasto;
+
+X. Informar periódicamente al Coordinador o cuando éste se lo requiera sobre el ejercicio del gasto, operaciones presupuestales, financieras y programáticas de la Coordinación;
+
+XI. Recibir y resguardar los expedientes derivados de los procedimientos de adjudicación en los que la Coordinación sea parte, con base en la documentación aportada por sus Unidades;
+
+XII. Coordinarse con la Tesorería en la recepción y cerciorarse de la vigencia de garantías de cumplimiento y vicios ocultos, así como gestionar su liberación, una vez verificado el cumplimiento de los contratos o pedidos que correspondan;
+
+XIII. Elaborar y actualizar los inventarios y resguardos del mobiliario, equipo de cómputo, de comunicación y parque vehicular, remitiéndolos a la SATI para su concentración, por lo menos dos veces al año; así como tramitar en su caso, la baja operativa de éstos apegándose a la Normatividad General para la Desincorporación y Destino Final de los Bienes Muebles del Gobierno Municipal;
+
+XIV. Supervisar que los vehículos adscritos a la Coordinación se encuentren en condiciones óptimas de funcionamiento, así como, gestionar el pago de tenencias y demás gastos relacionados con los mismos;
+
+XV. Solicitar a la SATI, el suministro oportuno de insumos, materiales y servicio de mantenimiento de bienes muebles e inmuebles que requiera la Coordinación;
+
+XVI. Dar seguimiento al Plan de Desarrollo Municipal en el eje correspondiente al tema de transparencia;
+
+XVII. Dar seguimiento al cumplimiento de las metas establecidas en los Programas Operativos Anuales;
+
+XVIII. Dar cumplimiento a los indicadores de Gestión y a los índices que se tengan que aplicar en materia de planeación y evaluación, que emitan las autoridades competentes; y
+
+XIX. Las demás que le confieran otras disposiciones legales, así como aquéllas que le asigne el Coordinador.
 
 ## TÍTULO TERCERO. DE LA NATURALEZA, ATRIBUCIONES Y FUNCIONAMIENTO DEL COMITÉ CIUDADANO PARA LA TRANSPARENCIA
 
-### CAPÍTULO II. DE LA ESTRUCTURA Y SU FUNCIONAMIENTO
+### CAPÍTULO I. DE LAS ATRIBUCIONES
 
 ###### Artículo 15.
 
@@ -341,7 +427,7 @@ XIV. Tener acceso a la información clasificada como reservada o confidencial en
 
 XV. Las demás que le confiera la Ley y demás ordenamientos jurídicos que deriven de ésta.
 
-### CAPÍTULO III. DE LOS COMISIONADOS
+### CAPÍTULO II. DE LA ESTRUCTURA Y SU FUNCIONAMIENTO
 
 ###### Artículo 17.
 
@@ -395,15 +481,17 @@ Las decisiones que resulten de la sesión del Comité se tomarán por mayoría d
 
 Cuando asistan a las sesiones celebradas por el Comité invitados especiales, servidores públicos, especialistas en temas determinados podrán participar con voz pero sin voto.
 
-### CAPÍTULO IV. DEL SECRETARIO EJECUTIVO
+### CAPÍTULO III. DE LOS COMISIONADOS
 
 ###### Artículo 28.
 
 Se denominará Comisionado a los representantes ciudadanos electos por el Cabildo.
 
+> <small>(REFORMADO, P.O. 5 DE OCTUBRE DE 2011)</small>
+
 ###### Artículo 29.
 
-El Ayuntamiento en Sesión de Cabildo designará a los cuatro Comisionados quienes durarán en el cargo tres años. Para tal efecto los comisionados deberán protestar al cargo en Sesión de Cabildo.
+El Ayuntamiento en Sesión de Cabildo designará hasta cuatro Comisionados quienes durarán en el cargo tres años. Para tal efecto los Comisionados deberán protestar al cargo en Sesión de Cabildo.
 
 ###### Artículo 30.
 
@@ -487,7 +575,7 @@ I. Cuando en ejercicio de sus funciones trasgredan en forma grave o reiterada la
 
 II. Cuando hayan sido condenados por delito que merezca pena corporal, mediante sentencia ejecutoriada.
 
-### CAPÍTULO V. DEL ASESOR JURÍDICO
+### CAPÍTULO IV. DEL SECRETARIO EJECUTIVO
 
 ###### Artículo 41.
 
@@ -519,7 +607,7 @@ XII. Resguardar la documentación relativa a las sesiones y funcionamiento del C
 
 XIII. Las demás que le solicite el Comité.
 
-### CAPÍTULO ÚNICO
+### CAPÍTULO V. DEL ASESOR JURÍDICO
 
 ###### Artículo 42.
 
@@ -529,7 +617,9 @@ El Asesor Jurídico será un representante de la Sindicatura Municipal y deberá
 
 El Asesor Jurídico tendrá las siguientes atribuciones:
 
-I. Asistir a las sesiones que celebre la Comisión;
+> <small>(REFORMADA, P.O. 5 DE OCTUBRE DE 2011)</small>
+
+I. Asistir a las sesiones que celebre el Comité;
 
 II. Estudiar previamente los asuntos que serán analizados en las sesiones del Comité;
 
@@ -546,6 +636,8 @@ VII. Proporcionar el apoyo técnico-jurídico a los integrantes del Comité, en 
 VIII. Las demás que le confiera este Reglamento.
 
 ## TÍTULO CUARTO. DE LAS SUPLENCIAS
+
+### CAPÍTULO ÚNICO
 
 ###### Artículo 44.
 
@@ -580,3 +672,11 @@ Atentamente.- "Sufragio Efectivo. No Reelección".- H. Puebla de Z., a 9 de octu
 Al margen un sello con el Escudo Nacional y una leyenda que dice: Estados Unidos Mexicanos.- Municipio de Puebla.- Periodo 2008-2011.- Secretaría del Honorable Ayuntamiento.
 
 El Secretario del Honorable Ayuntamiento del Municipio de Puebla, en ejercicio de las facultades que le confiere el artículo 138 fracción VII de la Ley Orgánica Municipal, CERTIFICA: Que las presentes copias fotostáticas compuestas de diecisiete fojas útiles por su frente, son copia fiel de su original, a la que me remito, tuve a la vista y cotejé, relativas al Dictamen del Honorable Ayuntamiento del Municipio de Puebla, por el que se aprueba el Reglamento Interior de la Coordinación General de Transparencia y del Comité Ciudadano para la Transparencia, mismo que obra en el archivo de la Dirección Jurídica de la Secretaría del Honorable Ayuntamiento, expidiéndose la presente en la Heroica Puebla de Zaragoza, a los veintidós días del mes de octubre del año dos mil nueve, para los efectos legales a que haya lugar, quedando registrada con el número 2526.- El Secretario del Honorable Ayuntamiento del Municipio de Puebla.- LICENCIADO CÉSAR PÉREZ LÓPEZ.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 5 DE OCTUBRE DE 2011.
+
+PRIMERO.- Las presentes reformas y adiciones al Reglamento Interior de la Coordinación General de Transparencia y del Comité Ciudadano para la Transparencia, entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan las disposiciones anteriores y aquéllas que se opongan a lo establecido en las presentes reformas y adiciones al Reglamento Interior de la Coordinación General de Transparencia y del Comité Ciudadano para la Transparencia.
