@@ -4,7 +4,7 @@ identifier: "ZAC-estatuto-organico-del-instituto-de-la-juventud-del-estado-77750
 country: "mx"
 rank: "estatuto"
 publication_date: "2010-12-01"
-last_updated: "2010-12-01"
+last_updated: "2011-10-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77750&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 ESTATUTO ORGANICO DEL INSTITUTO DE LA JUVENTUD DEL ESTADO DE ZACATECAS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE OCTUBRE DE 2011.
 
 Estatuto publicado en el Suplemento al Periódico Oficial del Estado de Zacatecas, el miércoles 1 de diciembre de 2010.
 
@@ -319,9 +319,11 @@ XIV. Intervenir en los procesos de entrega-recepción de las coordinaciones y de
 
 XV. las demás que le confiera el presente Estatuto o el Director.
 
+> <small>(REFORMADO, P.O. 5 DE OCTUBRE DE 2011)</small>
+
 ###### Artículo 28.
 
-Para el cumplimiento de sus atribuciones la Coordinación Administrativa, cuenta con el Departamento de Servicios Generales.
+Para el cumplimiento de sus atribuciones la Coordinación Administrativa, cuenta con la Unidad de Servicios Generales.
 
 ###### Artículo 29.
 
@@ -548,3 +550,9 @@ Tercero.- Los asuntos que se encuentren en trámite a cargo de otros departament
 Cuarto.- Dentro del término de sesenta días naturales, contados a partir de la entrada en vigor del presente Estatuto Orgánico, deberán expedirse y publicarse en el Periódico Oficial, Órgano del Gobierno del Estado, los manuales correspondientes.
 
 APROBADO POR LA JUNTA DIRECTIVA DEL INSTITUTO DE LA JUVENTUD DEL ESTADO DE ZACATECAS, EN SESIÓN CELEBRADA EN LA CIUDAD DE ZACATECAS, A LOS DIECISÉIS DÍAS DEL MES DE NOVIEMBRE DEL AÑO DOS MIL DIEZ.- RÚBRICAS.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 5 DE OCTUBRE DE 2011.
+
+> <small>N. DE E. EL DECRETO DEL ORDENAMIENTO CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 4° DEL CODIGO CIVIL DEL ESTADO DE ZACATECAS.</small>
