@@ -4,7 +4,7 @@ identifier: "MOR-reglamento-interior-de-la-consejeria-juridica-21529"
 country: "mx"
 rank: "reglamento"
 publication_date: "2001-03-14"
-last_updated: "2004-07-21"
+last_updated: "2011-10-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21529&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "MOR"
 
 REGLAMENTO INTERIOR DE LA CONSEJERIA JURIDICA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE JULIO DE 2004.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA CONSEJERIA JURIDICA DEL PODER EJECUTIVO DEL ESTADO DE MORELOS, PUBLICADO EN EL P.O. DE 5 DE OCTUBRE DE 2011, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
 
 Reglamento publicado en la Sección Segunda del Periódico Oficial del Estado de Morelos, el miércoles 14 de marzo de 2001.
 
@@ -482,3 +484,13 @@ P.O. 21 DE JULIO DE 2004.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad".
 
 SEGUNDO. Quedan derogadas todas las disposiciones reglamentarias contrarias al presente instrumento jurídico.
+
+P.O. 5 DE OCTUBRE DE 2011.
+
+PRIMERO. El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado.
+
+SEGUNDO. Se abroga el Reglamento Interior de la Consejería Jurídica publicado en el Periódico Oficial número 4107 de fecha 14 de marzo de 2001.
+
+TERCERO. Se derogan todas las disposiciones normativas de igual o menor rango que se opongan al presente ordenamiento jurídico.
+
+CUARTO. En un plazo de noventa días hábiles deberán modificarse los Manuales de Organización, y de Políticas y Procedimientos de las unidades administrativas de la Consejería Jurídica, y en tanto se realiza dicha actualización continuarán en vigor los actuales.
