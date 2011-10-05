@@ -4,7 +4,7 @@ identifier: "MOR-reglamento-interior-de-la-secretaria-de-educacion-del-61578"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-06-11"
-last_updated: "2008-06-11"
+last_updated: "2011-10-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61578&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "MOR"
 
 REGLAMENTO INTERIOR DE LA SECRETARIA DE EDUCACION
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARIA DE EDUCACION, PUBLICADO EN EL P.O. DE 5 DE OCTUBRE DE 2011, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Periódico Oficial del Estado de Morelos, el miércoles 11 de junio de 2008.
 
@@ -512,3 +514,17 @@ EL SECRETARIO DE EDUCACIÓN
 ING. JOSÉ LUIS RODRÍGUEZ MARTÍNEZ
 
 RÚBRICAS.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 5 DE OCTUBRE DE 2011.
+
+PRIMERO. El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad" órgano de difusión del Gobierno del Estado.
+
+SEGUNDO. Se abroga el Reglamento Interior de la Secretaría de Educación del Estado de Morelos publicada en el Periódico Oficial "Tierra y Libertad" número cuatro mil seiscientos diecinueve, de fecha once de junio de dos mil ocho.
+
+TERCERO. Los asuntos que se encuentren en trámite a la entrada en vigor de este Reglamento a cargo de las unidades administrativas cuya denominación se modifica o cambian de adscripción, serán continuados en su tramitación por la unidad administrativa que corresponda.
+
+CUARTO. La Secretaría de Educación del Estado de Morelos, deberá emitir o actualizar sus manuales de organización, y de políticas y procedimientos en un plazo no mayor a 90 días hábiles, y en tanto se realiza dicha modificación seguirán vigentes los actuales.
+
+QUINTO. Se derogan todas las disposiciones reglamentarias o administrativas que se opongan al presente Reglamento.
