@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-profesiones-del-estado-de-queretaro-69799"
 country: "mx"
 rank: "ley"
 publication_date: "2009-08-03"
-last_updated: "2009-08-03"
+last_updated: "2011-10-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69799&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY DE PROFESIONES DEL ESTADO DE QUERETARO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE OCTUBRE DE 2011.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el lunes 3 de agosto de 2009.
 
@@ -53,11 +53,15 @@ I. Regular el ejercicio de las profesiones en el Estado;
 
 II. Promover la superación del ejercicio profesional, mediante mecanismos de concertación entre el Estado, la sociedad y los profesionistas, a través de sus colegios, procurando que el ejercicio profesional responda a niveles de excelencia y calidad;
 
-III. Establecer los requisitos que deben cumplirse para ejercer las profesiones que requieren título, el registro de la cédula para ejercer la profesión respectiva y las autoridades que deben expedirlos;
+> <small>(REFORMADA, P.O. 5 DE OCTUBRE DE 2011)</small>
 
-IV. Reconocer, regular y ordenar las organizaciones que participan en la vigilancia del ejercicio profesional; las que pueden certificar la actualización de los conocimientos de los profesionistas; las que pueden dedicarse a la certificación profesional y las que pueden dedicarse a la actualización profesional; y
+III. Establecer los requisitos que deben cumplirse para ejercer las profesiones que requieren título, el registro de la cédula para ejercer la profesión respectiva, las autorizaciones provisionales para ejercer como pasante y por título en trámite, así como las autoridades que deben expedirlos; y
 
-V. Regular el cobro de honorarios por los servicios profesionales, prestados de manera independiente por los Licenciados en Derecho, en el ejercicio de la abogacía.
+IV. Reconocer, regular y ordenar las organizaciones que participan en la vigilancia del ejercicio profesional; las que pueden certificar la actualización de los conocimientos de los profesionistas; las que pueden dedicarse a la certificación profesional y las que pueden dedicarse a la actualización profesional; y (sic)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+
+V. (DEROGADA, P.O. 5 DE OCTUBRE DE 2011)
 
 ###### Artículo 3.
 
@@ -67,61 +71,153 @@ En lo no previsto por esta Ley, se aplicará supletoriamente lo dispuesto por la
 
 Para efectos de esta Ley, se entiende por:
 
-I. Cédula profesional: documento único expedido por la autoridad competente Estatal o Federal, con efectos de patente, que valida el registro del título profesional respectivo, expedida por la Dirección Estatal o General de Profesiones, según sea el caso, en los términos del convenio correspondiente;
+> <small>(REFORMADA, P.O. 5 DE OCTUBRE DE 2011)</small>
 
-II. Certificación de actualización de conocimientos: documento que reconoce y avala la actualización de estudios de cada profesión o especialidad por un tiempo determinado, para brindar a la sociedad mayor garantía al ejercer la profesión;
+I. Actividad profesional; la ocupación de carácter público o privado que realiza un profesionista, que está relacionada con su formación profesional, y que los vincula de forma económica, administrativa o social;
 
-III. Colegio de profesionistas: asociación civil que se integra con profesionistas de una misma rama profesional, debidamente registrado ante la Dirección Estatal de Profesiones en los términos de esta Ley;
+> <small>(REFORMADA, P.O. 5 DE OCTUBRE DE 2011)</small>
 
-IV. Consejo consultivo: órgano de consulta perteneciente al Colegio de Profesionistas, que tendrá por objeto estudiar y dictaminar sobre opiniones o resoluciones de asuntos técnicos solicitados por instituciones gubernamentales, descentralizadas o privadas; programas de estudio; reconocimiento de la actualización profesional, tanto para nacionales como para extranjeros; así como proponer normas y criterios para el reconocimiento de certificados a los prestadores de servicios;
+II. Asociación de profesionistas; asociación Civil que se integra con profesionistas que se agremien en torno a una condición propia, a alguna actividad, o institución educativa de origen;
 
-V. Curso de actualización profesional: los cursos para la renovación, adecuación y adquisición de conocimientos teórico-práctico de los profesionales en disciplinas y especialidades determinadas, que se traducen en factores de mérito que, en conjunto, prueben la actualización de conocimientos, a juicio del colegio de profesionistas respectivo, tales como cursos de estudio, asistencia y participación en seminarios, conferencias, congresos y eventos académicos, entre otros;
+> <small>(REFORMADA, P.O. 5 DE OCTUBRE DE 2011)</small>
 
-VI. Dirección Estatal de Profesiones: órgano dependiente del Poder Ejecutivo del Estado, a través de la Secretaría de Educación;
+III. Autorización provisional; documento único expedido por la autoridad Estatal, con efectos de patente, que valida el ejercicio profesional temporal, de los pasantes y de los profesionistas con título en trámite;
 
-VII. Ejercicio profesional: realización habitual, a título oneroso o gratuito, de todo acto o prestación de cualquier servicio propio de cada profesión, aún cuando sólo se trate de simple consulta. La ostentación del carácter de profesionista por medio de tarjetas, anuncios, placas, insignias o de cualquier otro medio escrito, gráfico o electrónico, constituye presunción de que se prestan los servicios propios de la profesión a que se refieren;
+> <small>(REFORMADA, P.O. 5 DE OCTUBRE DE 2011)</small>
 
-VIII. Ejercicio profesional regulado: el que se ofrece directamente al público, sin que exista entre el profesional y el usuario del servicio una relación de subordinación o dependencia laboral, así como la realización de actividades llevadas a cabo por personas morales, a través de sus dependientes o por terceros con los que tengan una relación contractual, siempre que dichas actividades impliquen la realización de actos propios de una profesión regulada, en cuyo caso dichos sujetos deberán poseer título profesional y Cédula Profesional expedida en los términos de esta Ley;
+IV. Cédula profesional; documento único expedido por la autoridad competente federal o estatal, con efectos de patente, que valida el registro del título profesional respectivo, expedida por la Dirección General o Estatal de Profesiones, según sea el caso, en los términos del convenio correspondiente;
 
-IX. Especialidad: formación académica del profesionista que realiza estudios o adquiere un nivel superior a la licenciatura y que tiene por objeto perfeccionar conocimientos y aptitudes en área específica de una profesión, para su ejercicio;
+> <small>(REFORMADA, P.O. 5 DE OCTUBRE DE 2011)</small>
 
-X. Pasante: es la persona que haya cursado y aprobado el programa de estudios de la profesión de que se trate, y que se encuentre tramitando la expedición del título profesional respectivo, que cuente con autorización de la escuela de procedencia y esté registrado en la Dirección Estatal de Profesiones para el ejercicio temporal de la profesión;
+V. Certificación de actualización de conocimientos; documento que reconoce y avala la actualización de estudios de cada profesión o especialidad por un tiempo determinado, para brindar a la sociedad mayor garantía al ejercer la profesión;
 
-XI. Profesión: formación académica de nivel técnico o superior, adquirida y comprobada mediante el cumplimiento de programas de estudio;
+> <small>(REFORMADA, P.O. 5 DE OCTUBRE DE 2011)</small>
 
-XII. Profesionista: persona que cuenta con título legalmente expedido y con cédula profesional para ejercer una profesión o con autorización para ejercer una especialidad, maestría o doctorado, previo cumplimiento de los requisitos establecidos en esta Ley;
+VI. Colegio de profesionistas; asociación civil que se integra con profesionistas de una misma rama profesional, debidamente registrado ante la Dirección Estatal de Profesiones en los términos de esta Ley;
 
-XIII. Rama profesional: conocimientos de una ciencia o disciplina que se adquieren para el ejercicio de una profesión o especialidad determinada;
+> <small>(REFORMADA, P.O. 5 DE OCTUBRE DE 2011)</small>
 
-XIV. Registro profesional: trámites administrativos que, conforme a la presente Ley, se realizan ante la Dirección Estatal de Profesiones, tendientes a la inscripción y conocimiento de los documentos de los profesionistas;
+VII. Consejo consultivo; órgano de consulta perteneciente al Colegio de Profesionistas, que tendrá por objeto estudiar y dictaminar sobre opiniones o resoluciones de asuntos técnicos solicitados por instituciones gubernamentales, descentralizadas o privadas; programas de estudio; reconocimiento de la actualización profesional, tanto para nacionales como para extranjeros; así como proponer normas y criterios para el reconocimiento de certificados a los prestadores de servicios;
 
-XV. Servicio social académico: la actividad de carácter temporal, gratuito o mediante retribución, que presten los estudiantes para cumplir con los requisitos de titulación;
+> <small>(REFORMADA, P.O. 5 DE OCTUBRE DE 2011)</small>
 
-XVI. Servicio social profesional: la actividad que prestan en forma voluntaria los profesionistas, en interés del bien común de la sociedad y del Estado; y
+VIII. Curso de actualización profesional; cursos para la renovación, adecuación y adquisición de conocimientos teóricos-prácticos de los profesionales en disciplinas y especialidades determinadas, que se traducen en factores de mérito que, en conjunto, prueben la actualización de conocimientos, a juicio del colegio de profesionistas respectivo, tales como cursos de estudio, asistencia y participación en seminarios, conferencias, congresos y eventos académicos, entre otros;
 
-XVII. Título profesional o grado académico: documento expedido por las instituciones del sistema educativo nacional o del extranjero, descentralizadas o particulares, con autorización o reconocimiento de validez oficial de estudios, a favor de la persona que haya concluido los estudios profesionales y trámites correspondientes.
+> <small>(REFORMADA, P.O. 5 DE OCTUBRE DE 2011)</small>
+
+IX. Diploma de especialidad; documento expedido por las instituciones del sistema educativo nacional o del extranjero, descentralizadas o particulares, con autorización o reconocimiento de validez oficial de estudios, a favor de la persona que haya concluido los estudios de especialidad;
+
+> <small>(REFORMADA, P.O. 5 DE OCTUBRE DE 2011)</small>
+
+X. Dirección Estatal de Profesiones; órgano dependiente del Poder Ejecutivo del Estado, a través de la Secretaría de Educación;
+
+> <small>(REFORMADA, P.O. 5 DE OCTUBRE DE 2011)</small>
+
+XI. Ejercicio profesional; realización habitual, a título oneroso o gratuito, de todo acto o prestación de cualquier servicio propio de cada profesión, aún cuando sólo se trate de simple consulta. La ostentación del carácter de profesionista por medio de tarjetas, anuncios, placas, insignias o de cualquier otro medio escrito, gráfico o electrónico, constituye presunción de que se prestan los servicios propios de la profesión a que se refieren;
+
+> <small>(REFORMADA, P.O. 5 DE OCTUBRE DE 2011)</small>
+
+XII. Ejercicio profesional regulado; el que se ofrece directamente al público, sin que exista entre el profesional y el usuario del servicio una relación de subordinación o dependencia laboral, así como la realización de actividades llevadas a cabo por personas morales, a través de sus dependientes o por terceros con los que tengan una relación contractual, siempre que dichas actividades impliquen la realización de actos propios de una profesión regulada, en cuyo caso dichos sujetos deberán poseer título profesional y Cédula Profesional expedida en los términos de esta Ley;
+
+> <small>(REFORMADA, P.O. 5 DE OCTUBRE DE 2011)</small>
+
+XIII. Especialidad; formación académica del profesionista que realiza estudios o adquiere un nivel superior a la licenciatura, que tiene por objeto perfeccionar conocimientos y aptitudes en una área específica de su ejercicio profesional;
+
+> <small>(REFORMADA, P.O. 5 DE OCTUBRE DE 2011)</small>
+
+XIV. Egresado; es la persona que ha concluido de manera total sus estudios de nivel medio y medio superior o superior, sin estar aun titulado;
+
+> <small>(REFORMADA, P.O. 5 DE OCTUBRE DE 2011)</small>
+
+XV. Grado académico; documento expedido por las instituciones del sistema educativo nacional o del extranjero, descentralizadas o particulares, con autorización o reconocimiento de validez oficial de estudios, a favor de la persona que haya concluido los estudios profesionales de los niveles de maestría y doctorado;
+
+> <small>(REFORMADA, P.O. 5 DE OCTUBRE DE 2011)</small>
+
+XVI. Invasión de Nivel; cursar estudios de nivel medio superior o superior, sin haber cursado previamente el nivel inmediato anterior; quedan exentos de esto, los programas académicos de doctorado que la instituciones educativas impartan sin el requisito del grado previo;
+
+> <small>(REFORMADA, P.O. 5 DE OCTUBRE DE 2011)</small>
+
+XVII. Pasante; persona que haya cursado el setenta por ciento del plan de estudios de una profesión, y que se encuentre inscrito en una institución de educación media superior o superior, que cuente con la responsiva de un Profesionista solidario con cédula profesional, de la misma carrera, especialidad o grado académico, a ejercer;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 5 DE OCTUBRE DE 2011)</small>
+
+XVIII. Patente Estatal; documento expedido por el titular del Poder Ejecutivo del Estado, por el cual se autoriza ejercer en alguna actividad profesional;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 5 DE OCTUBRE DE 2011)</small>
+
+XIX. Profesión; formación académica de nivel técnico o superior, adquirida y comprobada mediante el cumplimiento de programas de estudio;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 5 DE OCTUBRE DE 2011)</small>
+
+XX. Profesionista; persona que cuenta con título legalmente expedido y con cédula profesional para ejercer una profesión;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 5 DE OCTUBRE DE 2011)</small>
+
+XXI. Profesionista solidario; persona con cédula profesional legalmente expedida que firma la responsiva para el ejercicio profesional de un pasante bajo su más estricta responsabilidad solidaria;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 5 DE OCTUBRE DE 2011)</small>
+
+XXII. Rama profesional: conocimientos de una ciencia o disciplina que se adquieren para el ejercicio de una profesión o especialidad determinada;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 5 DE OCTUBRE DE 2011)</small>
+
+XXIII. Registro profesional; trámites administrativos que, conforme a la presente Ley, se realizan ante la Dirección Estatal de Profesiones, tendientes a la inscripción y conocimiento de los documentos de los profesionistas;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 5 DE OCTUBRE DE 2011)</small>
+
+XXIV. Servicio social académico; la actividad de carácter temporal, gratuito o mediante retribución, que presten los estudiantes para cumplir con los requisitos de titulación;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 5 DE OCTUBRE DE 2011)</small>
+
+XXV. Servicio social profesional; la actividad que prestan en forma voluntaria los profesionistas, en interés del bien común de la sociedad y del Estado;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 5 DE OCTUBRE DE 2011)</small>
+
+XXVI. Título profesional; documento expedido por las instituciones del sistema educativo nacional o del extranjero, descentralizadas o particulares, con autorización o reconocimiento de validez oficial de estudios, a favor de la persona que haya concluido los estudios profesionales de los niveles de técnico, técnico superior universitario y licenciatura;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 5 DE OCTUBRE DE 2011)</small>
+
+XXVII. Institución educativa; organización pública o privada que bajo la denominación de escuela, instituto, centro de estudios, universidad, tecnológico, normal, o cualquiera otra denominación que cuenten con reconocimiento y autorización oficial de las autoridades de educación del Estado o de la Federación, para impartir programas educativos que comprendan planes y programas de estudio de los niveles medio, medio-superior, superior o posgrado, en el Estado; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 5 DE OCTUBRE DE 2011)</small>
+
+XXVIII. Validación de documentos académicos; es el proceso por el cual, se verifica la autenticidad de los documentos que han expedido las instituciones educativas.
+
+> <small>(REFORMADO, P.O. 5 DE OCTUBRE DE 2011)</small>
 
 ###### Artículo 5.
 
-En el estado de Querétaro, se reconocen todas las profesiones de tipo medio superior, con carácter terminal y las de tipo superior, compuesta por técnico superior universitario, licenciatura, especialidad, maestría y doctorado, que se reconozcan oficialmente como carreras completas dentro de los planes de estudio de las instituciones educativas del Estado, descentralizadas o particulares, con reconocimiento o autorización de validez oficial de estudios, tanto del Estado, de la federación o de otras entidades federativas, sujetos a la reciprocidad del lugar de residencia del profesionista.
+En el Estado de Querétaro, se reconocen todas las profesiones de tipo medio superior, con carácter terminal compuesta por técnico, técnico superior universitario y las de tipo superior, compuestas por licenciatura, especialidad, maestría y doctorado, que se reconozcan oficialmente como carreras completas dentro de los planes de estudio de las instituciones educativas del Estado, descentralizadas o particulares, con reconocimiento o autorización de validez oficial de estudios, tanto del Estado, de la federación o de otras entidades federativas, sujetos a la reciprocidad del lugar de residencia del profesionista.
 
 ###### Artículo 6.
 
 En caso de controversia entre los intereses del profesionista y los de la sociedad, se estará a lo que disponga (sic) las leyes relativas vigentes en el Estado, procurando en todo momento el beneficio social.
 
+> <small>(ADICIONADO, P.O. 5 DE OCTUBRE DE 2011)</small>
+
+###### Artículo 6 Bis.
+
+El titular del Poder Ejecutivo del Estado, podrá a través de una patente estatal, distinta a la cédula profesional con efecto de patente, autorizar el ejercicio de alguna actividad profesional.
+
 ### Capítulo Segundo. Del título profesional
+
+> <small>(REFORMADO, P.O. 5 DE OCTUBRE DE 2011)</small>
 
 ###### Artículo 7.
 
-Para ejercer en el Estado de Querétaro, ostentándose como profesionista en cualquiera de las profesiones consideradas en los planes de estudio impartidos por las instituciones del sistema educativo nacional o del extranjero, descentralizadas o particulares, con autorización o reconocimiento de validez oficial de estudios o en trámite, se exigirá título profesional.
+Para ejercer en el Estado de Querétaro, ostentándose como profesionista en cualquiera de las profesiones consideradas en los planes de estudio impartidos por las instituciones del sistema educativo nacional o del extranjero, descentralizadas o particulares, con autorización o reconocimiento de validez oficial de estudios o en trámite, se exigirá título profesional y cédula profesional con efectos de patente.
+
+> <small>(REFORMADO, P.O. 5 DE OCTUBRE DE 2011)</small>
 
 ###### Artículo 8.
 
-Para obtener un título profesional, es requisito indispensable cursar y aprobar los estudios de educación primaria, secundaria y, en su caso, los planes y programas de estudio de tipo medio superior y superior, en los grados y términos que establecen las disposiciones legales aplicables.
+Para obtener un título profesional, es requisito indispensable cursar y aprobar los estudios de educación primaria, secundaria y, según sea el caso, los planes y programas de estudio de tipo medio superior y superior, en los grados y términos que establecen las disposiciones legales aplicables.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE OCTUBRE DE 2011)</small>
 
 ###### Artículo 9.
 
-Los documentos se expedirán a favor de los egresados que hayan cumplido con esta Ley y demás disposiciones que rijan en materia de educación, bajo las siguientes denominaciones:
+Los documentos se expedirán a favor de los egresados, pasantes y profesionistas que hayan cumplido con esta Ley y demás disposiciones que rijan en materia de educación, bajo las siguientes denominaciones:
 
 I. Título de técnico, a quien haya concluido estudio de tipo medio superior, bivalente o terminal;
 
@@ -133,9 +229,11 @@ IV. Grado académico de maestro, a quien haya concluido estudios de tipo superio
 
 V. Grado académico de doctor, para quien haya terminado estudios de tipo superior, nivel doctorado o equivalente.
 
+> <small>(REFORMADO, P.O. 5 DE OCTUBRE DE 2011)</small>
+
 ###### Artículo 10.
 
-Los títulos profesionales expedidos por instituciones que no formen parte del sistema educativo nacional, sólo tendrán validez y se registrarán con la previa revalidación de estudios, conforme a lo dispuesto por esta Ley y su reglamento, mismo que determinará el tipo de documentación y requisitos necesarios para su inscripción.
+Los títulos profesionales, Diplomas de Especialidad o Grados Académicos, expedidos por instituciones que no formen parte del sistema educativo nacional, sólo tendrán validez y se registrarán con la previa revalidación de estudios, conforme a lo dispuesto por esta Ley y su reglamento, mismo que determinará el tipo de documentación y requisitos necesarios para su inscripción.
 
 ## Título Segundo. De la expedición de títulos
 
@@ -149,9 +247,11 @@ En el Estado de Querétaro podrán expedir títulos profesionales todas las escu
 
 Los títulos profesionales, grados académicos y diplomas de especialidad, expedidos por las autoridades o instituciones del sistema educativo nacional, de otros Estados de la República o del Distrito Federal, serán reconocidos y registrados en esta Entidad, de conformidad con la presente Ley y su reglamento.
 
+> <small>(REFORMADO, P.O. 5 DE OCTUBRE DE 2011)</small>
+
 ###### Artículo 13.
 
-Los extranjeros podrán ejercer en el estado de Querétaro las profesiones técnicas o científicas, cumpliendo con todos los requisitos que exige la presente Ley, su reglamento y demás disposiciones legales y administrativas aplicables.
+Los extranjeros podrán ejercer en el Estado de Querétaro las profesiones técnicas o científicas, cumpliendo con todos los requisitos que exigen la presente Ley, su reglamento, las disposiciones migratorias y demás normatividades administrativas y legales aplicables.
 
 ###### Artículo 14.
 
@@ -171,13 +271,17 @@ El ejercicio de las actividades profesionales que realicen los extranjeros, esta
 
 En el Estado de Querétaro, el registro profesional estará a cargo de la Dirección Estatal de Profesiones.
 
+> <small>(REFORMADO, P.O. 5 DE OCTUBRE DE 2011)</small>
+
 ###### Artículo 18.
 
-El registro profesional lo podrá efectuar cada profesionista en lo individual ante la Dirección Estatal de Profesiones o a través de los colegios de profesionistas respectivos o instituciones educativas.
+El registro profesional lo podrá efectuar cada profesionista en lo individual ante la Dirección Estatal de Profesiones o a través de los gestores que registren los colegios de profesionistas o instituciones educativas, ante la Dirección.
+
+> <small>(REFORMADO, P.O. 5 DE OCTUBRE DE 2011)</small>
 
 ###### Artículo 19.
 
-Todos los títulos profesionales expedidos por las instituciones de nivel superior, deben registrarse ante dicha Dirección, para su reconocimiento oficial.
+Todos los títulos profesionales, diplomas y grados académicos expedidos por las instituciones de nivel medio superior y superior, deben registrarse ante la Dirección Estatal de Profesiones, para su reconocimiento oficial.
 
 ###### Artículo 20.
 
@@ -187,9 +291,11 @@ Cuando la Dirección Estatal de Profesiones careciere de información suficiente
 
 La Dirección Estatal de Profesiones entregará al profesionista la cédula correspondiente, con efectos de patente, para el ejercicio profesional y para su identidad en sus actividades profesionales. En la cédula aparecerá la fotografía y la firma del profesionista y demás elementos de identificación.
 
+> <small>(REFORMADO, P.O. 5 DE OCTUBRE DE 2011)</small>
+
 ###### Artículo 22.
 
-Para la expedición de la cédula profesional, se deben cubrir los requisitos que para tal efecto señale el reglamento de la presente Ley.
+Para la expedición de la Cédula Profesional, se deben cubrir los requisitos que establecen la presente Ley y su reglamento.
 
 ###### Artículo 23.
 
@@ -208,6 +314,12 @@ I. Instituir un solo servicio de registro de títulos profesionales y grados aca
 II. Intercambiar la información que se requiera; y
 
 III. Las demás que tiendan al debido cumplimiento del objeto del convenio.
+
+> <small>(ADICIONADO, P.O. 5 DE OCTUBRE DE 2011)</small>
+
+###### Artículo 25 Bis.
+
+A fin de salvaguardar la competencia del Estado de Querétaro, en materia de vigilancia del ejercicio profesional, la Dirección Estatal de Profesiones se instituirá en ventanilla única de gestión en el Estado, ante la Dirección General de Profesiones.
 
 ###### Artículo 26.
 
@@ -233,31 +345,65 @@ II. Llevar la hoja de servicios de cada profesionista que registre su título, a
 
 III. Registrar el diploma para el ejercicio de una especialidad;
 
-IV. Expedir o, en su caso, tramitar la cédula profesional personal correspondiente, con efectos de patente para el ejercicio profesional, tanto de nacionales como de extranjeros, para su identidad en todas sus actividades profesionales, en los términos del convenio que al efecto se celebre con la Dirección General de Profesiones;
+> <small>(REFORMADA, P.O. 5 DE OCTUBRE DE 2011)</small>
 
-V. Publicar lo conducente en el Periódico Oficial del Gobierno del Estado “La Sombra de Arteaga”, sobre las resoluciones de registro;
+IV. Expedir o en su caso, tramitar la cédula profesional personal correspondiente, con efectos de patente para el ejercicio profesional, tanto de nacionales como de extranjeros, en los términos del convenio vigente con la Dirección General de Profesiones;
 
-VI. Cancelar temporal o definitivamente el registro de la cédula profesional de las personas condenadas judicialmente a inhabilitación en el ejercicio de su profesión y publicar dicha cancelación en el Periódico Oficial del Gobierno del Estado “La Sombra de Arteaga”;
+> <small>(REFORMADA, P.O. 5 DE OCTUBRE DE 2011)</small>
 
-VII. Llevar un archivo con los datos relativos a la enseñanza media superior y superior que se imparta en cada uno de los planteles educativos del Estado, actualizando los datos de manera anual;
+V. Expedir las autorizaciones provisionales como pasante o por título en trámite para el ejercicio temporal de alguna profesión, especialidad o grado académico;
 
-VIII. Llevar una estadística de las instituciones educativas del Estado de tipo medio superior y superior, así como de sus planes de estudio, carreras, especialidades, maestrías y doctorados;
+> <small>(REFORMADA, P.O. 5 DE OCTUBRE DE 2011)</small>
 
-IX. Intervenir en el procedimiento, de acuerdo al reglamento respectivo, para el otorgamiento del Premio Estatal de Calidad en el Servicio Profesional, con el objeto de reconocer y premiar anualmente el esfuerzo de los profesionistas queretanos que se destaquen por su responsabilidad, honorabilidad, altruismo, capacitación, avances científicos o tecnológicos, en el desarrollo de sus actividades profesionales al servicio de la sociedad;
+VI. Publicar lo conducente sobre las resoluciones de registro, en el Periódico Oficial del Gobierno del Estado “La Sombra de Arteaga”;
 
-X. Publicar, en el mes de enero de cada año, en el Periódico Oficial del Gobierno del Estado “La Sombra de Arteaga”, la lista de los profesionistas titulados en el Estado de Querétaro, en los planteles educativos de nivel superior, durante el año anterior;
+> <small>(REFORMADA, P.O. 5 DE OCTUBRE DE 2011)</small>
 
-XI. Solicitar a las escuelas, institutos, universidades oficiales y las que cuenten con reconocimiento y autorización oficial de las autoridades de educación del Estado y de la Federación, de educación superior, el listado de egresados anualmente; y
+VII. Cancelar temporal o definitivamente el registro de la cédula profesional de las personas condenadas judicialmente mediante sentencia ejecutoriada, a inhabilitación en el ejercicio de su profesión y publicar dicha cancelación en el Periódico Oficial del Gobierno del Estado “La Sombra de Arteaga”;
 
-XII. Las demás atribuciones y obligaciones que le fijen las leyes y reglamentos aplicables.
+> <small>(REFORMADA, P.O. 5 DE OCTUBRE DE 2011)</small>
+
+VIII. Llevar un archivo con los datos relativos a la enseñanza media superior y superior que se imparta en cada uno de los planteles educativos del Estado, actualizando los datos de manera anual;
+
+> <small>(REFORMADA, P.O. 5 DE OCTUBRE DE 2011)</small>
+
+IX. Llevar una estadística de las instituciones educativas del Estado de tipo medio superior y superior, así como de sus planes de estudio, carreras, especialidades, maestrías y doctorados;
+
+> <small>(REFORMADA, P.O. 5 DE OCTUBRE DE 2011)</small>
+
+X. Intervenir en el procedimiento, de acuerdo al reglamento respectivo, para el otorgamiento del Premio Estatal de Calidad en el Servicio Profesional, con el objeto de reconocer y premiar anualmente el esfuerzo de los profesionistas queretanos que se destaquen por su responsabilidad, honorabilidad, altruismo, capacitación, avances científicos o tecnológicos, en el desarrollo de sus actividades profesionales al servicio de la sociedad;
+
+> <small>(REFORMADA, P.O. 5 DE OCTUBRE DE 2011)</small>
+
+XI. Solicitar a las Instituciones Educativas que cuenten con reconocimiento y autorización oficial de las autoridades de educación del Estado o de la Federación, que impartan planes de estudios de nivel medio superior y superior en el Estado el listado de egresados y titulados anualmente;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 5 DE OCTUBRE DE 2011)</small>
+
+XII. Solicitar a las Instituciones Educativas la validación de documentos en un término no superior a tres días, de los documentos académicos que expidan estas;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 5 DE OCTUBRE DE 2011)</small>
+
+XIII. Colaborar con las autoridades correspondientes y los colegios de profesionistas, cuando se detecte el ejercicio indebido de algún profesionista o exista usurpación de profesiones que se realice sin la cédula profesional con efectos de patente correspondiente;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 5 DE OCTUBRE DE 2011)</small>
+
+XIV. Solicitar a la Unidad de Servicios para la Educación Básica en el Estado de Querétaro, un listado anual de los egresados de secundaria, con el propósito de validar los certificados de dicho nivel, que sean presentados por los técnicos que requieran el registro de su título y la expedición de su cédula profesional con efectos de patente; y
+
+> <small>(REFORMADA, P.O. 5 DE OCTUBRE DE 2011)</small>
+
+XV. Las demás atribuciones y obligaciones que le fijen las leyes y reglamentos aplicables.
 
 ###### Artículo 30.
 
 Deberán registrarse en la Dirección Estatal de Profesiones:
 
-I. Las escuelas o instituciones que impartan educación profesional en el Estado;
+> <small>(REFORMADA, P.O. 5 DE OCTUBRE DE 2011)</small>
 
-II. Los colegios de profesionistas;
+I. Las instituciones educativas que impartan educación media superior y superior en el Estado, independiente de qué autoridad les haya otorgado el reconocimiento de validez oficial para impartir estudios;
+
+> <small>(REFORMADA, P.O. 5 DE OCTUBRE DE 2011)</small>
+
+II. Las Asociaciones de Profesionistas, los Colegios de Profesionistas, así como las federaciones;
 
 III. Los títulos profesionales, los títulos de técnicos, los certificados de grados académicos y los diplomas de especialidad;
 
@@ -277,9 +423,15 @@ II. Expedición de títulos sin los requisitos que establece la ley;
 
 III. Resolución de autoridad judicial;
 
-IV. Desaparición de la institución educativa facultada para expedir títulos profesionales o grados académicos equivalentes o revocación de la autorización o retiro de reconocimiento oficial de estudios de la misma. La cancelación no afectará la validez de los títulos o grados expedidos con anterioridad; y
+> <small>(REFORMADA, P.O. 5 DE OCTUBRE DE 2011)</small>
 
-V. Las demás causas análogas que impidan el normal ejercicio de la profesión.
+IV. Desaparición de la institución educativa facultada para expedir títulos profesionales, diplomas o grados académicos equivalentes o revocación de la autorización o retiro de reconocimiento oficial de estudios de la misma. La cancelación no afectara la validez de los títulos o grados expedidos con anterioridad;
+
+> <small>(ADICIONADA, P.O. 5 DE OCTUBRE DE 2011)</small>
+
+V. Por invasión de nivel; y
+
+VI. Las demás causas análogas que impidan el normal ejercicio de la profesión.
 
 ###### Artículo 32.
 
@@ -293,21 +445,49 @@ Para ejercer en el Estado de Querétaro cualquiera de las profesiones técnico-c
 
 I. Estar en pleno goce y ejercicio de sus derechos civiles;
 
-II. Poseer título legalmente expedido por institución educativa autorizada; y
+> <small>(REFORMADA, P.O. 5 DE OCTUBRE DE 2011)</small>
+
+II. Poseer título legalmente expedido por institución educativa autorizada;
 
 III. Poseer cédula profesional expedida por la Dirección General de Profesiones, por la Dirección Estatal de Profesiones o, en su caso, por la respectiva Dirección de Profesiones de cada Estado.
 
+> <small>(ADICIONADA, P.O. 5 DE OCTUBRE DE 2011)</small>
+
+IV. En el caso de extranjeros contar con el estatus migratorio correspondiente vigente; y
+
+> <small>(ADICIONADA [N. DE E. REPUBLICADA], P.O. 5 DE OCTUBRE DE 2011)</small>
+
+V. Las demás que señale la Ley.
+
+> <small>(REFORMADO, P.O. 5 DE OCTUBRE DE 2011)</small>
+
 ###### Artículo 34.
 
-Las personas que sin tener título profesional legalmente expedido, se ostenten como profesionistas, incurrirán en el delito de usurpación de profesiones en los términos del Código Penal del Estado de Querétaro.
+Las personas que sin tener título profesional legalmente expedido y la cédula profesional con efectos de patente correspondiente, se ostenten como profesionistas, incurrirán en el delito de usurpación de profesiones en los términos del Código Penal para el Estado de Querétaro.
+
+> <small>(REFORMADO, P.O. 5 DE OCTUBRE DE 2011)</small>
 
 ###### Artículo 35.
 
-La Dirección Estatal de Profesiones registrará y extenderá la autorización a los pasantes de las diversas profesiones, para ejercer la práctica respectiva por un término no mayor de un año, mientras el egresado realiza todos los trámites conducentes a obtener su título profesional.
+La Dirección Estatal de Profesiones registrará y extenderá las autorizaciones provisionales, para ejercer la práctica respectiva por un término no mayor de un año para los casos de pasantes y de seis meses para autorizaciones por título profesional en trámite.
+
+> <small>(REFORMADO, P.O. 5 DE OCTUBRE DE 2011)</small>
 
 ###### Artículo 36.
 
-Para la autorización a pasantes, se extenderá al interesado una credencial donde se precise el tiempo que gozará de tal autorización. Al concluir dicho término, quedará automáticamente anulada esa credencial. En casos especiales podrá el interesado obtener permiso de la Dirección Estatal de Profesiones, para prorrogar la autorización, por el tiempo que fije dicha Dirección, sin que pueda exceder éste de tres años.
+Para las autorizaciones provisionales, se extenderá al interesado una credencial donde se precise el tiempo que gozará de tal autorización. Al concluir dicho término, quedará automáticamente sin efectos esa credencial. En casos especiales podrá el interesado obtener permiso de la Dirección Estatal de Profesiones, para prorrogar la autorización, por el tiempo que fije dicha Dirección, sin que pueda exceder éste de tres años.
+
+> <small>(ADICIONADO, P.O. 5 DE OCTUBRE DE 2011)</small>
+
+###### Artículo 36 Bis.
+
+Los requisitos, para obtener una autorización provisional, así como los derechos y obligaciones de los titulares y de los profesionistas solidarios, se establecerán en el Reglamento de esta Ley.
+
+> <small>(ADICIONADO, P.O. 5 DE OCTUBRE DE 2011)</small>
+
+###### Artículo 36 Ter.
+
+Las Instituciones públicas, de los tres niveles de gobierno así como sus empleados y funcionarios, reconocerán y respetarán la calidad de Profesionista a quien cuente con una cédula profesional con efectos de Patente, o bien con una autorización provisional.
 
 ###### Artículo 37.
 
@@ -345,9 +525,11 @@ Los profesionistas que contravengan las disposiciones de las fracciones anterior
 
 Las personas morales de carácter público o privado, serán responsables solidarias de los daños y perjuicios que los profesionistas causen en la prestación de servicios profesionales en su favor.
 
+> <small>(REFORMADO, P.O. 5 DE OCTUBRE DE 2011)</small>
+
 ###### Artículo 44.
 
-Las autoridades judiciales y las que conozcan de asuntos contencioso administrativos, rechazarán la intervención, en calidad de asesores técnicos de los interesados, de persona que no tenga título profesional legalmente registrado. El mandato para asunto judicial o contencioso administrativo, general o especial, sólo podrá desempeñarse por licenciados en derecho con título debidamente registrado, en los términos de esta Ley, exceptuándose lo dispuesto por la legislación penal, laboral y agraria.
+Las autoridades judiciales y las que conozcan de asuntos contenciosos administrativos en el Estado, rechazarán la intervención, en calidad de asesores técnicos de los interesados, de aquel que no tenga título profesional y cédula profesional con efectos de patente. El mandato para asunto judicial o contencioso administrativo, general o especial, sólo podrá desempeñarse por licenciados en derecho con título debidamente registrado, en los términos de esta Ley, exceptuándose lo dispuesto por la legislación penal, laboral y agraria.
 
 ###### Artículo 45.
 
@@ -363,9 +545,11 @@ El anuncio o publicidad que un profesionista realice de sus actividades, no debe
 
 ### Capítulo Quinto. De los Colegios de Profesionistas
 
+> <small>(REFORMADO, P.O. 5 DE OCTUBRE DE 2011)</small>
+
 ###### Artículo 48.
 
-Todos los profesionistas de una misma rama podrán constituir en el Estado de Querétaro, colegios por rama profesional, gobernados cada uno por una Asamblea General.
+Todos los profesionistas de una misma área de conocimientos podrán registrar ante la Dirección Estatal de Profesiones, Colegios por cada rama profesional, gobernados cada uno de ellos por una Asamblea General.
 
 ###### Artículo 49.
 
@@ -389,27 +573,41 @@ El Consejo será electo por mayoría, mediante voto individual escrito, público
 
 Las asociaciones civiles se denominarán: “Colegio de...”, indicándose la rama profesional que corresponda. Cada colegio podrá tener secciones o filiales regidas en igual forma que la anterior. Todo profesionista, cumpliendo con los requisitos que exijan los reglamentos respectivos, tendrá derecho para formar parte del colegio de profesionistas.
 
+> <small>(REFORMADO, P.O. 5 DE OCTUBRE DE 2011)</small>
+
 ###### Artículo 52.
 
-Es potestativo para los profesionistas en el Estado de Querétaro, asociarse a los colegios legalmente constituidos, de acuerdo a su rama profesional.
+Es potestativo para los profesionistas en el Estado de Querétaro, asociarse a los colegios legalmente constituidos, de acuerdo a su rama profesional, en caso de poseer dos o más cédulas profesionales con efecto de patente de diversas ramas, podrán asociarse a los colegios que correspondan a cada una de ellas.
 
 ###### Artículo 53.
 
 Para constituir y obtener el registro del colegio profesional respectivo, deberán reunirse los siguientes requisitos:
 
-I. Cuando tenga su domicilio en la capital del Estado, deberá contar con un mínimo de cincuenta socios, quienes deberán residir o ejercer en el Estado;
+> <small>(REFORMADA, P.O. 5 DE OCTUBRE DE 2011)</small>
 
-II. Si el colegio de profesionistas radica en alguno de los municipios que no sea el de la capital del Estado, el mínimo será de veinte miembros allí domiciliados;
+I. Cuando tenga su domicilio en la capital del Estado, deberá contar con un mínimo de setenta y cinco socios, quienes deberán residir o ejercer en el Estado;
+
+> <small>(REFORMADA, P.O. 5 DE OCTUBRE DE 2011)</small>
+
+II. Si el colegio de profesionistas radica en alguno de los municipios que no sea el de la capital del Estado, el mínimo será de treinta miembros allí domiciliados;
 
 III. Depositar un ejemplar de sus estatutos en la Dirección Estatal de Profesiones, mismo que contendrá el Código de Ética Profesional adoptado y su procedimiento de faltas;
 
-IV. Tener autorización expresa de la Dirección Estatal de Profesiones; y
+> <small>(REFORMADA, P.O. 5 DE OCTUBRE DE 2011)</small>
 
-V. Ajustarse a los términos de la disposición legal aplicable en lo relativo a las asociaciones.
+IV. Tener autorización expresa de la Dirección Estatal de Profesiones;
 
-###### Artículo 54.
+> <small>(ADICIONADA, P.O. 5 DE OCTUBRE DE 2011)</small>
 
-Cuando se trate de una profesión nueva o no hubiere el número de profesionistas requeridos, la Dirección Estatal de Profesiones, autorizará discrecionalmente la constitución del colegio, cumpliendo con los requisitos de esta Ley.
+V. Acompañar el listado de los socios con la copia de su Cédula Profesional con efecto de patente y/o autorizaciones provisionales con que se ostenten dichos profesionistas; y
+
+VI. Ajustarse a los términos de la disposición legal aplicable en lo relativo a las asociaciones.
+
+> <small>(REFORMADO, P.O. 5 DE OCTUBRE DE 2011)</small>
+
+###### Articulo 54.
+
+Cuando se trate de una profesión nueva o que no hubiere el número de profesionistas requeridos, la Dirección Estatal de Profesiones, autorizará discrecionalmente la constitución del Colegio, cumpliendo con los demás requisitos de esta Ley, siempre que no exista un Colegio registrado en la misma área del conocimiento.
 
 ###### Artículo 55.
 
@@ -429,13 +627,17 @@ Es obligación de los colegios de profesionistas hacer del conocimiento de la Di
 
 La toma de protesta de los consejos directivos de los colegios de profesionistas respectivos, se realizará ante las autoridades de educación del Estado, debiendo asistir un representante de la Dirección Estatal de Profesiones para la formalidad del acto.
 
+> <small>(REFORMADO, P.O. 5 DE OCTUBRE DE 2011)</small>
+
 ###### Artículo 59.
 
-Los colegios de profesionistas reconocidos por la Dirección Estatal de Profesiones, podrán agruparse a su vez, en una nueva Asociación Civil que se denominará “Federación”, para ejercitar en forma conjunta los derechos que esta Ley les otorga.
+Los colegios de profesionistas reconocidos por la Dirección Estatal de Profesiones, podrán agruparse a su vez, en una nueva Asociación Civil que se denominará “Federación”, para ejercitar en forma conjunta los derechos que esta Ley les otorga. La Federación deberá de contar con un mínimo de veinte colegios, para el caso de colegios estatales y diez para el caso de colegios municipales. También podrán incorporarse a organizaciones multidisciplinarias en el ámbito nacional o internacional.
 
-La Federación deberá de contar con un mínimo de diez colegios, para el caso de estatales y cinco para ser municipal.
+> <small>(ADICIONADO, P.O. 5 DE OCTUBRE DE 2011)</small>
 
-También podrán incorporarse a organizaciones multidisciplinarias en el ámbito nacional o internacional.
+###### Artículo 59 Bis.
+
+Antes de registrar una nueva Federación, la Dirección podrá dar aviso a la Federación o Federaciones ya registradas, para que manifiesten lo que a su interés convenga.
 
 ###### Artículo 60.
 
@@ -443,7 +645,9 @@ Los colegios de profesionistas tendrán las siguientes facultades y obligaciones
 
 I. Expedir sus propios estatutos;
 
-II. Vigilar el ejercicio profesional de sus colegiados, con el objeto de que se realice dentro del más alto plano legal y moral;
+> <small>(REFORMADA, P.O. 5 DE OCTUBRE DE 2011)</small>
+
+II. Vigilar el ejercicio profesional de sus colegiados, con el objeto de que se realice dentro del más alto plano legal y moral, así mismo, en caso de conocimiento de la comisión del delito de usurpación de profesiones, por parte de sus agremiados, de acuerdo al colegio de que se trate en su caso presentar la denuncia correspondiente ante el Ministerio Público;
 
 III. Promover, ante la Secretaría de Educación, la expedición de leyes, reglamentos y sus reformas, relativos al ejercicio profesional;
 
@@ -471,9 +675,21 @@ XIV. Llevar una estadística anual de los trabajos desempeñados por los profesi
 
 XV. Expulsar de su seno, por el voto de las dos terceras partes de sus miembros, a los que ejecuten actos que desprestigien o deshonren la profesión. Para ello, será requisito en todo caso oír al interesado y darle plena oportunidad de rendir las pruebas que estime conveniente y de alegar lo que a su derecho convenga, en la forma que determinen los estatutos o reglamentos del colegio de que se trate;
 
-XVI. Establecer y aplicar sanciones a los profesionistas colegiados que faltaren al cumplimiento de sus deberes profesionales, siempre que no se trate de actos y comisiones que deban sancionarse por las autoridades competentes; y
+> <small>(REFORMADA, P.O. 5 DE OCTUBRE DE 2011)</small>
 
-XVII. Gestionar el registro de los títulos de sus miembros, la expedición de cédulas y de autorizaciones, en su caso.
+XVI. Establecer y aplicar sanciones a los profesionistas colegiados que faltaren al cumplimiento de sus deberes profesionales, siempre que no se trate de actos y comisiones que deban sancionarse por las autoridades competentes;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 5 DE OCTUBRE DE 2011)</small>
+
+XVII. Solicitar ante la autoridad educativa correspondiente la autorización para impartir planes y programas de estudios, de especialidades, maestrías y doctorados, siempre que cumpla con los requisitos que la Ley señala para los particulares que desean impartir estudios superiores;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 5 DE OCTUBRE DE 2011)</small>
+
+XVIII. Solicitar ante la Dirección Estatal de Profesiones la verificación de los antecedentes profesionales, de cualquier persona que este ejerciendo en su rama profesional y de quien se tenga sospecha de que esta usurpando dicha profesión; y
+
+> <small>(REFORMADA, P.O. 5 DE OCTUBRE DE 2011)</small>
+
+XIX. Gestionar el registro de los títulos de sus miembros, la expedición de cédulas y de autorizaciones, en su caso, previo registro de un gestor registrado, ante la Dirección Estatal de Profesiones.
 
 ### Capítulo Sexto. De la superación del ejercicio profesional
 
@@ -523,9 +739,17 @@ La Dirección Estatal de Profesiones promoverá la creación de un Consejo de Pa
 
 Los profesionistas menores de sesenta años, prestarán el servicio social académico y profesional en los términos de esta Ley y su reglamento. Quienes excedan de la edad señalada y las personas que algún impedimento físico no les permita la prestación del mismo, quedarán exentos de realizarlo.
 
+> <small>(REFORMADO, P.O. 5 DE OCTUBRE DE 2011)</small>
+
 ###### Artículo 67.
 
-En el Estado de Querétaro, los planes de preparación profesional, según la naturaleza de la profesión y de las necesidades sociales que se trate de satisfacer, exigirán a los estudiantes de las profesiones a que se refiere esta Ley, como requisito previo para otorgarles el título profesional respectivo, que presten servicio social académico, durante un tiempo no menor de seis meses ni mayor de un año.
+En el Estado de Querétaro, los planes de preparación profesional, según la naturaleza de la profesión y de las necesidades sociales que se trate de satisfacer, exigirán a los estudiantes de las profesiones a que se refiere esta Ley, como requisito previo para otorgarles el título profesional respectivo, que presten servicio social académico, consistente en 480 horas durante un tiempo no menor de seis meses ni mayor de un año.
+
+> <small>(ADICIONADO, P.O. 5 DE OCTUBRE DE 2011)</small>
+
+###### Artículo 67 Bis.
+
+Para el caso de mexicanos con estudios en el extranjero o bien de extranjeros con estudio en el extranjero, el servicio social solo podrá prestarse en una Institución Pública, de cualquiera de los tres niveles de Gobierno dentro del territorio nacional.
 
 ###### Artículo 68.
 
@@ -545,7 +769,7 @@ Sólo en caso de que el servicio social académico y profesional absorba totalme
 
 ###### Artículo 72.
 
-Los profesionistas colegiados están obligados a rendir al colegio respectivo, un informe sobre los datos más importantes de su experiencia profesional o de su investigación con la periodicidad que señalen los estatutos respectivos, con expresión de los resultados obtenidos, absteniéndose de violar con ello el secreto profesional.
+(DEROGADO, P.O. 5 DE OCTUBRE DE 2011)
 
 ### Capítulo Octavo. De las infracciones
 
@@ -565,9 +789,13 @@ V. No expresar una opinión franca y completa acerca de los planteamientos o asu
 
 VI. Garantizar o asegurar resultados favorables, al contratar sus servicios profesionales y no cumplirlos;
 
-VII. Callar, alterar o deformar, parcial o totalmente, hechos, situaciones o información requerida o que fuese necesaria para evitar la comisión de un delito; y
+VII. Callar, alterar o deformar, parcial o totalmente, hechos, situaciones o información requerida o que fuese necesaria para evitar la comisión de un delito; y (sic)
 
-VIII. Los demás casos previstos en el presente ordenamiento, código de ética profesional o estatuto orgánico de cada asociación o colegio.
+> <small>(ADICIONADA, P.O. 5 DE OCTUBRE DE 2011)</small>
+
+VIII. Ostentarse como profesionista sin contar con la cédula profesional con efectos de patente correspondiente o a través de documentos falsos o alterados; y
+
+IX. Los demás casos previstos en el presente ordenamiento, código de ética profesional o estatuto orgánico de cada asociación o colegio.
 
 ###### Artículo 74.
 
@@ -579,19 +807,27 @@ II. Realizar reiteradamente actos propios de la profesión con negligencia o not
 
 III. Actuar con dolo en perjuicio de sus clientes o para beneficio personal, en el ejercicio de la profesión.
 
+> <small>(ADICIONADA, P.O. 5 DE OCTUBRE DE 2011)</small>
+
+IV. Ostentarse como profesionista sin contar con la cédula profesional con efectos de patente correspondiente o a través de documentos falsos o alterados.
+
 ### Capítulo Noveno. De las sanciones
+
+> <small>(REFORMADO, P.O. 5 DE OCTUBRE DE 2011)</small>
 
 ###### Artículo 75.
 
-La Dirección Estatal de Profesiones, impondrá a quienes incurran en las faltas consideradas en la presente Ley, las siguientes sanciones:
+Además de las penas y sanciones que establezcan las autoridades penales y civiles, la Dirección Estatal de Profesiones, impondrá a quienes incurran en las faltas consideradas en la presente Ley, las siguientes sanciones:
 
-I. Amonestación;
+I. Apercibimiento;
 
-II. Multa, con el apoyo de la Secretaría de Planeación y Finanzas del Estado;
+II. Amonestación;
 
-III. Suspensión del ejercicio profesional; dictada en sentencia definitiva por la autoridad judicial; y
+III. Multa, para su ejecución contará con el apoyo de las autoridades fiscales correspondientes;
 
-IV. Cancelación del registro de colegios de profesionistas.
+IV. Suspensión del ejercicio profesional; dictada en sentencia definitiva por la autoridad judicial; y
+
+V. Cancelación del registro de colegios de profesionistas.
 
 ###### Artículo 76.
 
@@ -617,9 +853,13 @@ Queda prohibido a los profesionistas el empleo del término: “Colegio” fuera
 
 La cancelación del registro de los colegios de profesionistas se decretará, cuando el número de miembros sea inferior al mínimo previsto por este ordenamiento o cuando la organización incurra en violaciones a esta Ley, siempre y cuando se acrediten fehacientemente.
 
+> <small>(REFORMADO, P.O. 5 DE OCTUBRE DE 2011)</small>
+
 ###### Artículo 82.
 
-Cuando el número de miembros de un colegio bajare del mínimo que señala la presente Ley, la Dirección Estatal de Profesiones le concederá un término no mayor de tres meses para que lo complete; transcurrido el plazo sin haberlo logrado, a juicio de ésta se cancelará el registro.
+Cuando en un colegio se disminuya el número de asociados que se le requirió al momento de su registro ante la Dirección Estatal de Profesiones, se le concederá un término no mayor a tres meses para que lo complete; transcurrido el plazo sin haberlo logrado, a juicio de la Dirección, se cancelará el registro.
+
+Para efecto de lo anterior, la Dirección Estatal de Profesiones podrá, en cualquier momento, solicitar a los colegios el número y registro de sus asociados.
 
 ###### Artículo 83.
 
@@ -650,6 +890,18 @@ La Comisión Estatal de Arbitraje Profesional, dependiente de la Dirección Esta
 ###### Artículo 88.
 
 Como órgano desconcentrado de la Secretaría de Salud, la Comisión Estatal de Arbitraje Médico tendrá por objeto contribuir a resolver los conflictos suscitados entre los usuarios de los servicios médicos profesionales y los profesionistas prestadores de los mismos.
+
+> <small>(ADICIONADO, P.O. 5 DE OCTUBRE DE 2011)</small>
+
+###### Artículo 88 Bis.
+
+Al inicio de cualquier procedimiento ante la Comisión Estatal de Arbitraje Medico, ésta deberá verificar ante la Dirección Estatal de Profesiones, los antecedentes de los profesionales de la salud involucrados en el procedimiento o en los hechos que se investiguen.
+
+> <small>(ADICIONADO, P.O. 5 DE OCTUBRE DE 2011)</small>
+
+###### Artículo 88 Ter.
+
+Cuando el profesional de la salud, no cuente con cédula profesional con efectos de Patente correspondiente que lo faculte para ejercer el nivel técnico, licenciatura, la especialidad o el grado académico con que se ostente, la Comisión de Arbitraje Médico, dará vista al Ministerio Público Investigador, a fin de que ejercite la acción penal que corresponda.
 
 ###### Artículo 89.
 
@@ -709,393 +961,227 @@ La renuncia que haga el cliente al derecho del pago de la reparación correspond
 
 Cuando el daño causado produzca la muerte, incapacidad total, parcial permanente o parcial temporal, las autoridades jurisdiccionales competentes determinarán el monto de la reparación, atendiendo a lo dispuesto en la Ley Federal del Trabajo y en el Código Civil del Estado de Querétaro.
 
+> <small>(DEROGADO, P.O. 5 DE OCTUBRE DE 2011)</small>
+
 ## Título Tercero. Del arancel para el cobro de honorarios de abogados
 
 ### Capítulo Primero. Disposiciones generales
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+
 ###### Artículo 98.
 
-La forma preferente de regular los honorarios es la contractual y sólo en defecto de dicho pacto se estará a la tarifa que establece la presente Ley. Para que el contrato surta efectos deberá constar por escrito. No será procedente ninguna acción de otorgamiento por escrito de contratos de esta naturaleza.
+(DEROGADO, P.O. 5 DE OCTUBRE DE 2011)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
 
 ###### Artículo 99.
 
-Es nulo de pleno derecho el convenio sobre honorarios profesionales, cuando el importe de éstos exceda de la tercera parte de la cuantía o interés del negocio.
+(DEROGADO, P.O. 5 DE OCTUBRE DE 2011)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
 
 ###### Artículo 100.
 
-Para poder exigir el pago de honorarios, se debe poseer título profesional de Licenciado en Derecho y la cédula profesional que para el ejercicio profesional determina la presente Ley.
+(DEROGADO, P.O. 5 DE OCTUBRE DE 2011)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
 
 ###### Artículo 101.
 
-Los honorarios se causarán por servicios prestados y serán exigibles inmediatamente, pero puede convenirse en el pago de anticipos. Los gastos del negocio deberán cubrirse conforme se vayan causando. Para el caso de la regulación de las costas, se estará a lo que previene la presente Ley.
+(DEROGADO, P.O. 5 DE OCTUBRE DE 2011)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
 
 ###### Artículo 102.
 
-La falta de pago de los honorarios, autorizará al abogado para separarse de la dirección del negocio, avisando por escrito al cliente su determinación, siempre que no hubiere pendiente la práctica de alguna diligencia ya decretada que requiera la intervención del abogado, pues en estos casos su separación deberá ser hasta que hubiere concluido dicha diligencia, a menos que el interesado designe oportunamente un substituto. Dicho aviso deberá darse por lo menos con setenta y dos horas de anticipación.
+(DEROGADO, P.O. 5 DE OCTUBRE DE 2011)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
 
 ###### Artículo 103.
 
-La presente Ley se aplicará también para regular las costas cuando se condene al pago de las mismas. En este caso no se tomará en cuenta el contrato que hubiere celebrado la parte a cuyo favor se decretan las costas. La suma obtenida por concepto del pago de costas, corresponde a la parte y no al abogado, siendo nulo de pleno derecho cualquier pacto en contrario.
+(DEROGADO, P.O. 5 DE OCTUBRE DE 2011)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
 
 ###### Artículo 104.
 
-Es nula la obligación derivada de la suscripción de títulos de crédito o de cualquier otro acto jurídico, cuando sea adquirida por el cliente para garantizar el pago de los honorarios profesionales del abogado, con excepción de los casos en los que el negocio haya concluido.
+(DEROGADO, P.O. 5 DE OCTUBRE DE 2011)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
 
 ###### Artículo 105.
 
-Las reclamaciones sobre honorarios profesionales y costas, se ventilarán ante el Juez competente, que será el del lugar donde se hubieren prestado los servicios, siguiendo, en todo, la tramitación que para el caso señale el Código de Procedimientos Civiles del Estado de Querétaro.
+(DEROGADO, P.O. 5 DE OCTUBRE DE 2011)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
 
 ###### Artículo 106.
 
-No se podrán cobrar honorarios por las promociones que fueren desechadas por frívolas o improcedentes, si así lo determina el juez competente.
+(DEROGADO, P.O. 5 DE OCTUBRE DE 2011)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
 
 ###### Artículo 107.
 
-Para el cobro de los honorarios, sólo se computarán las preguntas o posiciones que no hayan sido desechadas.
+(DEROGADO, P.O. 5 DE OCTUBRE DE 2011)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
 
 ###### Artículo 108.
 
-Los abogados podrán cobrar hasta el diez por ciento sobre los honorarios fijados para la demanda, por las gestiones que hagan para expeditar la tramitación del negocio y, en general, por los trabajos que desempeñen y que no importen promoción verbal o escrita.
+(DEROGADO, P.O. 5 DE OCTUBRE DE 2011)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
 
 ###### Artículo 109.
 
-En los casos no previstos por la presente Ley o por el convenio celebrado, se estará a lo ordenado por las disposiciones relativas del Código Civil del Estado de Querétaro.
+(DEROGADO, P.O. 5 DE OCTUBRE DE 2011)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
 
 ###### Artículo 110.
 
-El procedimiento para determinar el honorario correspondiente a cada concepto o actividad, será el siguiente:
+(DEROGADO, P.O. 5 DE OCTUBRE DE 2011)
 
-I. Cuando se señale el porcentaje, bastará aplicarlo al factor o cifra que corresponda; y
-
-II. Cuando no se indiquen porcentajes, la cifra respectiva deberá multiplicarse por el factor.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
 
 ###### Artículo 111.
 
-Para obtener la cantidad que corresponda, deberá substituirse el factor por su importe en pesos. Para los efectos de esta ley, se entiende por:
+(DEROGADO, P.O. 5 DE OCTUBRE DE 2011)
 
-I. Factor: Veces el salario mínimo general diario vigente de la zona económica donde el servicio se preste;
-
-II. Cifra: El número que se multiplica por el factor veces el salario mínimo general diario vigente de la zona económica donde el servicio se preste; y
-
-III. Concepto: El servicio o actividad prestado por el abogado.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
 
 ###### Artículo 112.
 
-Se aplicará el importe del salario mínimo general diario vigente de la zona, en la fecha en que se haga el pago de los honorarios según la planilla aprobada.
+(DEROGADO, P.O. 5 DE OCTUBRE DE 2011)
 
 ### Capítulo Segundo. De los honorarios de carácter general
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+
 ###### Artículo 113.
 
-Los honorarios que señala este Capítulo, cuando no haya disposición especial, se aplicarán a los trabajos desempeñados por los abogados, conforme a la siguiente tarifa:
-
-CONCEPTO CIFRA
-
-I. Por la vista de actuaciones judiciales, expedientes administrativos o cualquiera otra clase de documentos:
-
-a) Si no pasan de diez hojas 3
-
-b) Si pasan, por cada hoja excedente 0.3
-
-II. Por cada conferencia o consulta:
-
-a) En el despacho 3
-
-b) A domicilio, en la población donde esté ubicado el despacho 5
-
-c) En lugar diferente a la población donde esté ubicado el despacho 8
-
-d) Por escrito 10
-
-III. Por cada escrito:
-
-a) Si motiva decreto 0.5
-
-b) Si motiva auto 1
-
-IV. Por su intervención y presencia en audiencia, juntas o cualquiera otra diligencia administrativa, por cada hora o fracción 0.7
-
-V. Por cada notificación 0.3
-
-VI. Por cada interrogatorio o cuestionario:
-
-a) Que no exceda de diez preguntas 3
-
-b) Por las preguntas que excedan de diez, por cada una 0.3
-
-VII. Por cada página de copia de escritura en fotostática o al carbón 0.5
-
-VIII. Por las transacciones:
-
-a) En asuntos civiles, mercantiles, administrativos o del trabajo, cuya cuantía no exceda de tres mil seiscientas cincuenta veces el salario mínimo general diario vigente de la zona, se devengará como honorarios sobre el importe del negocio 8%
-
-b) En asuntos cuya cuantía sea más de tres mil seiscientas cincuenta veces el salario mínimo general diario vigente de la zona, se aplicará el inciso anterior y por el excedente sobre la cuantía del negocio 5%
-
-IX. Cuando el abogado salga de la población donde resida, para asistir a juntas, diligencias o procurar la diligenciación de exhortos en que intervenga, cobrará, además de los honorarios que le correspondan por los trabajos que desempeñe, lo siguiente:
-
-a) Los gastos del transporte que use. En caso de que utilice vehículo de su propiedad, por día 10
-
-b) Por cada kilómetro de camino 0.03
-
-c) Por cada día hábil de ausencia 10
-
-d) Por hospedaje, máximo 6
-
-e) Por alimentación, máximo 3
-
-Cuando el abogado emplee auxiliar, tendrá derecho a cobrar el cincuenta por ciento adicional, respecto de los conceptos marcados en los incisos d) y e).
-
-X. Por cada documento o promoción:
-
-a) Con sólo carácter informativo 1.7
-
-b) Si importa consulta 10
-
-XI. Por la práctica de cualquier liquidación, cobrarán el diez por ciento sobre el importe de la misma, sin incluir en ella la suerte principal.
-
-XII. Por las gestiones para legalización de firmas 1
-
-XIII. Por cada comparecencia o petición verbal:
-
-a) Si motiva decreto 1.7
-
-b) Si motiva auto 2.8
-
-XIV. Los trabajos prestados en días festivos o de noche, causarán dobles honorarios.
+(DEROGADO, P.O. 5 DE OCTUBRE DE 2011)
 
 ### Capítulo Tercero. De los juicios civiles, mercantiles, administrativos y del trabajo
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+
 ###### Artículo 114.
 
-En los juicios cuya cuantía no exceda de trescientas sesenta y cinco veces el salario mínimo general diario vigente de la zona, en la primera instancia, cualesquiera que sean los trabajos prestados, se devengarán los honorarios señalados en la tabla siguiente:
+(DEROGADO, P.O. 5 DE OCTUBRE DE 2011)
 
-CONCEPTO CIFRA
-
-I. Si el interés del negocio no excede de cien veces el salario mínimo general diario vigente de la zona, sobre su cuantía. 13%
-
-II. Si excede de cien veces el salario mínimo general diario vigente de la zona, pero no de ciento cincuenta del mismo factor, se aplicará la fracción anterior y por el excedente, hasta la cuantía del negocio. 12%
-
-III. Si excede de ciento cincuenta veces el salario mínimo general diario vigente de la zona, pero no de doscientos cincuenta del mismo factor, se aplicarán las fracciones anteriores y por el excedente, hasta la cuantía del negocio. 10%
-
-IV. Si excede de doscientas cincuenta veces el salario mínimo general diario vigente de la zona, pero no de trescientas sesenta y cinco veces, se aplicarán las fracciones anteriores y por el excedente, hasta la cuantía del negocio. 5%
-
-V. En la segunda instancia, se cobrará el cincuenta por ciento de lo que corresponde en la primera.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
 
 ###### Artículo 115.
 
-En los juicios cuya cuantía exceda de trescientos sesenta y cinco veces el salario mínimo general diario vigente de la zona, por la demanda se devengarán los honorarios siguientes:
+(DEROGADO, P.O. 5 DE OCTUBRE DE 2011)
 
-CONCEPTO CIFRA
-
-I. Si el interés del negocio no excede de dos mil veces el salario mínimo general diario vigente de la zona, sobre su cuantía. 5%
-
-II. Si excede de dos mil veces el salario mínimo general diario vigente de la zona, pero no de cinco mil veces del mismo factor, se aplicará la fracción anterior y por el excedente, hasta la cuantía del negocio. 4%
-
-III. Si excede de cinco mil veces el salario mínimo general diario vigente de la zona, pero no de veinte mil, se aplicarán las fracciones anteriores y por el excedente, hasta la cuantía del negocio. 3%
-
-IV. Si excede de veinte mil veces el salario mínimo general diario vigente de la zona, pero no de cincuenta mil veces, se aplicarán las fracciones anteriores y por el excedente, hasta la cuantía del negocio. 2%
-
-V. Si excede de cincuenta mil veces el salario mínimo general diario vigente de la zona, se aplicarán las fracciones anteriores y por el excedente, hasta la cuantía del negocio. 1%
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
 
 ###### Artículo 116.
 
-Por la contestación a la demanda principal, se devengarán los honorarios siguientes:
+(DEROGADO, P.O. 5 DE OCTUBRE DE 2011)
 
-I. Si se oponen excepciones, los fijados en el artículo que antecede; y
-
-II. Si no se oponen excepciones, una tercera parte de los fijados en el artículo antecedente.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
 
 ###### Artículo 117.
 
-Por las demandas incidentales y por la contestación de la demanda incidental, se cobrará el veinte por ciento de los honorarios señalados en el artículo 114 de la presente Ley.
+(DEROGADO, P.O. 5 DE OCTUBRE DE 2011)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
 
 ###### Artículo 118.
 
-Por la expresión de agravios se causarán los honorarios previstos en el artículo 114 de la presente Ley.
+(DEROGADO, P.O. 5 DE OCTUBRE DE 2011)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
 
 ###### Artículo 119.
 
-La contestación a los agravios causarán los mismos honorarios que la expresión de los mismos.
+(DEROGADO, P.O. 5 DE OCTUBRE DE 2011)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
 
 ###### Artículo 120.
 
-Los alegatos e informes a la vista causarán honorarios al veinte por ciento sobre el que corresponde a la demanda.
+(DEROGADO, P.O. 5 DE OCTUBRE DE 2011)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
 
 ###### Artículo 121.
 
-Por la asistencia a un secuestro, lanzamiento, intervención de bienes, apeo, deslinde u otra diligencia semejante, se devengará el cinco por ciento de los honorarios que cause la demanda principal o el escrito inicial.
+(DEROGADO, P.O. 5 DE OCTUBRE DE 2011)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
 
 ###### Artículo 122.
 
-En los juicios que carezcan de cuantía pecuniaria o en los que no se pueda ésta precisar, los honorarios quedarán sujetos al convenio que las partes celebren previamente. En caso de no existir tal acuerdo, se devengarán los honorarios en sujeción a la siguiente tabla:
-
-CONCEPTO CIFRA
-
-I. Por la demanda y contestación. 15
-
-II. Por los demás conceptos, los prevenidos en el Capítulo Segundo del Título Tercero de esta Ley, en lo conducente.
-
-III. Por alegatos. 5
-
-IV. Por la expresión y contestación de agravios. 10
+(DEROGADO, P.O. 5 DE OCTUBRE DE 2011)
 
 ### Capítulo Cuarto. De los juicios universales
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+
 ###### Artículo 123.
 
-En los concursos, los abogados, del fallido y del síndico percibirán conjuntamente los siguientes honorarios:
+(DEROGADO, P.O. 5 DE OCTUBRE DE 2011)
 
-CONCEPTO CIFRA
-
-I. Si el estado concursal concluye por convenio de la Junta de
-
-Acreedores, del activo. 5%
-
-II. Si el proceso debiere seguirse por todos sus trámites legales, cualesquiera que fueren los trabajos prestados, sobre el activo. 10%
-
-III. Si concluye por convenio, en etapa intermedia a las que se refieren las fracciones anteriores, el Juez del Concurso establecerá proporcionalmente los honorarios, considerando lo avanzado del proceso.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
 
 ###### Artículo 124.
 
-En los juicios sucesorios cuyo activo exceda de tres mil seiscientas cincuenta veces el salario mínimo general diario vigente de la zona, el abogado del albacea devengará los honorarios siguientes:
+(DEROGADO, P.O. 5 DE OCTUBRE DE 2011)
 
-CONCEPTO CIFRA
-
-I. Por escrito de iniciación, sobre el activo. 1.5%
-
-II. Por asistir a las juntas de herederos, por cada una, de tres tantos el salario mínimo general diario vigente de la zona. 3%
-
-III. Por inventario:
-
-a) Cuando el activo no exceda de veinte mil veces el salario mínimo general diario vigente de la zona 3%
-
-b) Cuando el activo excede de veinte mil veces el salario mínimo general diario vigente de la zona, pero no de cuarenta mil, lo señalado en el inciso anterior, hasta por el excedente 2%
-
-c) Cuando el activo excede de cuarenta mil veces el salario mínimo general diario vigente de la zona, los incisos anteriores y por el excedente 1%
-
-IV. Por la cuenta de administración, iguales honorarios que los que corresponden por inventario.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
 
 ###### Artículo 125.
 
-En los juicios sucesorios cuyo activo no exceda de tres mil seiscientas veces el salario mínimo general diario vigente de la zona, el abogado devengará como honorarios totales, el cinco por ciento sobre el importe del activo.
+(DEROGADO, P.O. 5 DE OCTUBRE DE 2011)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
 
 ###### Artículo 126.
 
-Por los juicios en que intervenga, relacionados con los de concurso, quiebra o sucesorios, devengará el abogado los honorarios que, atento a la naturaleza y cuantía de los trabajos desempeñados, señala esta Ley en los artículos relativos que anteceden.
+(DEROGADO, P.O. 5 DE OCTUBRE DE 2011)
 
 ### Capítulo Quinto
 
 De los juicios penales.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+
 ###### Artículo 127.
 
-En los juicios penales, los abogados cobrarán los siguientes honorarios:
-
-CONCEPTO CIFRA
-
-I. Por gestionar las medidas preventivas de los delitos. 3.4
-
-II. Por gestionar la libertad:
-
-a) Caucional
-
-1. Ante el Juez Municipal o Menor 3.4
-
-2. Ante otras autoridades judiciales 10
-
-b) Provisional bajo protesta preparatoria o por condena condicional
-
-1. Ante el Juez Menor 17
-
-2. Ante otras autoridades judiciales 25
-
-c) Por desvanecimiento de méritos
-
-1. Ante el Juez Menor 10
-
-2. Ante otras autoridades judiciales 17
-
-III. Por gestionar el indulto necesario. 15
-
-IV. Por todos los trabajos desempeñados en un procedimiento en que el delito o falta se castigue sólo con extrañamiento o apercibimiento, excepción hecha de los trabajos a que se refieren las fracciones anteriores, se devengarán. 7
-
-V. Por los trabajos que desempeñe la defensa durante la secuela del procedimiento hasta que cierre la instrucción y que, atento a la diversidad y naturaleza de estos trabajos, no se han enumerado en los apartados que anteceden, los honorarios se sujetarán al convenio que sobre el particular celebren los procesados con sus defensores.
-
-VI. En los trabajos distintos a los especificados en la fracción anterior, por el escrito contestando las conclusiones del Ministerio Público y por las alegaciones que se produzcan en la audiencia, se devengarán los honorarios siguientes:
-
-a) Si la pena pedida no excede de cinco años de prisión 2.4
-
-b) Si excede de cinco años 2.8
-
-c) Si es la de reclusión o confinamiento 1
-
-d) Si la pena fuere de multa que no exceda de treinta y cuatro veces el salario mínimo general diario vigente de la zona, el cinco por ciento sobre su importe 1
-
-e) Si fuere multa que excede de treinta y cuatro veces el salario mínimo general diario vigente de la zona, el dos por ciento sobre su cuantía 1.5
-
-f) Si fuere cualquier otra pena no enumerada en los incisos anteriores 1
-
-g) Si se pidiere la aplicación de varias penas, los honorarios serán los que corresponderían si sólo se hubiere pedido la aplicación de la pena más grave.
-
-VII. En todos los trabajos de segunda instancia, los honorarios serán iguales a los de la primera.
-
-VIII. Cuando los procesos excedan de cien fojas o se trate de delitos de estafa, fraude o peculado, se aumentarán los honorarios ya mencionados, en un cincuenta por ciento.
-
-IX. Cuando se trate de procesos acumulados que excedan de cien fojas o los delitos acumulados fueren más de tres o se trate de delitos cometidos por más de cinco personas o de delitos de rebelión, sedición o de los cometidos por los abogados o por los funcionarios en el ejercicio de sus funciones, se duplicarán los honorarios fijados en las fracciones que anteceden.
+(DEROGADO, P.O. 5 DE OCTUBRE DE 2011)
 
 ### Capítulo Sexto. De los juicio (sic) de amparo
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+
 ###### Artículo 128.
 
-En los juicios de amparo contra las resoluciones judiciales del orden civil o mercantil, se devengarán los honorarios siguientes:
+(DEROGADO, P.O. 5 DE OCTUBRE DE 2011)
 
-CONCEPTO CIFRA
-
-I. Por la demanda de amparo contra la sentencia definitiva, los honorarios fijados en los artículos 114, 115 y 122, según el caso.
-
-II. Por los alegatos en los juicios de amparo a que se refiere la fracción anterior un veinte por ciento de la cantidad fijada en esa fracción.
-
-III. Por la demanda de amparo contra cualquiera otra resolución judicial el veinte por ciento de los fijados en los artículos 114, 115 y 122.
-
-IV. Por los alegatos en los juicios de amparo a que se refiere la fracción anterior el veinte por ciento de la cantidad fijada en esa fracción.
-
-V. Por los alegatos en los incidentes de suspensión. 4
-
-VI. Por el recurso de revisión:
-
-a) Contra la sentencia dictada en el incidente de suspensión 15
-
-b) Contra la sentencia dictada en el juicio principal 25
-
-VII. Por cualquier otro incidente o recurso. 5
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
 
 ###### Artículo 129.
 
-En los Juicios de amparos contra las autoridades judiciales del orden penal, se devengarán los honorarios siguientes:
+(DEROGADO, P.O. 5 DE OCTUBRE DE 2011)
 
-I. Por el amparo contra la sentencia definitiva, treinta veces el salario mínimo general diario vigente de la zona; y
-
-II. Por el amparo contra cualquiera otra resolución, veinte veces el salario mínimo general diario vigente de la zona.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
 
 ###### Artículo 130.
 
-En los juicios de amparo contra actos de autoridad distinta a la judicial, se devengarán los honorarios siguientes:
+(DEROGADO, P.O. 5 DE OCTUBRE DE 2011)
 
-CONCEPTO CIFRA
-
-I. Si el interés del negocio no excede de trescientas sesenta y cinco veces el salario mínimo general diario vigente de la zona, sobre su cuantía. 8%
-
-II. Si el interés del negocio excede de trescientas sesenta y cinco veces el salario mínimo general diario vigente de la zona, pero no de mil ochocientas veinticinco veces el mismo factor, se aplicarán las fracciones anteriores y por el excedente, hasta la cuantía del negocio. 5%
-
-III. Si el interés del negocio excede de mil ochocientas veinticinco veces el salario mínimo general diario vigente de la zona, pero no de tres mil seiscientas cincuenta veces el mismo factor, se aplicarán las fracciones anteriores y por el excedente, hasta la cuantía del negocio. 3%
-
-IV. Si el interés del negocio excede de tres mil seiscientas cincuenta veces el salario mínimo general diario vigente de la zona, pero no de dieciocho mil doscientas cincuenta veces el mismo factor, se aplicarán las fracciones anteriores y por el excedente, hasta la cuantía del negocio. 2%
-
-V. Si el interés del negocio excede de dieciocho mil doscientas cincuenta veces el salario mínimo general diario vigente de la zona, se aplicarán las fracciones anteriores y por el excedente, hasta a (sic) cuantía del negocio. 1.5%
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
 
 ###### Artículo 131.
 
-Cuando en los juicios aparezcan como responsables las autoridades judiciales, juntamente con otras de distinto ramo, los honorarios se calcularán como si el amparo se hubiera interpuesto sólo contra la autoridad de la cual emane el acto reclamado.
+(DEROGADO, P.O. 5 DE OCTUBRE DE 2011)
 
 ## TRANSITORIOS
 
@@ -1142,3 +1228,19 @@ Lic. José Alfredo Botello Montes
 Secretario de Gobierno
 
 Rúbrica
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 5 DE OCTUBRE DE 2011.
+
+Artículo Primero. Esta Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga", a excepción de la derogación de los artículos 2 fracción V y 98 al 131, mismos que tendrán vigencia, hasta en tanto entre en vigor la nueva Ley que fija el Arancel para el Cobro de Honorarios de Abogados en el Estado de Querétaro.
+
+Artículo Segundo. A fin de garantizar la adecuada vigilancia del ejercicio profesional en el Estado, todas las Instituciones de nivel básico, medio superior y superior, tendrán un plazo de seis meses para entregar a la Dirección Estatal de Profesiones, las bases de datos de egresados y en su caso de titulados de los últimos 10 años.
+
+Artículo Tercero. Las federaciones, los colegios y las asociaciones de profesionistas registrados al amparo de las Leyes de Profesiones, así mismo las federaciones, colegios y asociaciones de profesionistas que se encuentre en trámite su registro ante dicha dirección, conservarán los derechos que dichas leyes les confieren.
+
+Artículo Cuarto. El titular del Poder Ejecutivo del Estado, deberá expedir el Reglamento de la presente Ley, dentro de los 90 días que sigan a la entrada en vigencia de la misma, así como aquellos instrumentos que correspondan para su eficaz cumplimiento.
+
+Artículo Quinto. Se derogan todas aquellas disposiciones de igual o menor jerarquía que se opongan a la presente.
+
+Artículo Sexto. Envíese al Titular del Poder Ejecutivo para su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
