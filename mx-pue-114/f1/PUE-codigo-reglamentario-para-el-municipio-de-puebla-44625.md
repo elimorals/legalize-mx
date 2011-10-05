@@ -4,7 +4,7 @@ identifier: "PUE-codigo-reglamentario-para-el-municipio-de-puebla-44625"
 country: "mx"
 rank: "codigo"
 publication_date: "2004-12-31"
-last_updated: "2011-09-23"
+last_updated: "2011-10-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44625&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "PUE"
 ---
 # CODIGO REGLAMENTARIO PARA EL MUNICIPIO DE PUEBLA
 
-CÓDIGO REGLAMENTARIO PARA EL MUNICIPIO DE PUEBLA
+CODIGO REGLAMENTARIO PARA EL MUNICIPIO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE SEPTIEMBRE DE 2011.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE OCTUBRE DE 2011.
 
 Código publicado en el Periódico Oficial del Estado de Puebla, el viernes 31 de diciembre de 2004.
 
@@ -5065,7 +5065,7 @@ III. Colaborar con las autoridades del Estado y del Municipio para el debido cum
 
 ###### Artículo 382.
 
-Los administradores, gerentes, poseedores, arrendatarios o propietarios de inmuebles que por su propia naturaleza o por el uso a que sean destinados, reciban una afluencia multitudinaria de personas, están obligados a preparar un programa específico de protección civil, estableciendo para ello su comité interno de protección civil, conforme a las disposiciones del programa municipal, elaborando además su análisis de riesgos y su plan de prevención de contingencias; contado para ello con la asesoría técnica de la Unidad Operativa Municipal de Protección Civil.
+Los administradores, gerentes, poseedores, arrendatarios o propietarios de inmuebles que por su propia naturaleza o por el uso a que sean destinados, reciban una afluencia multitudinaria de personas, están obligados a preparar un programa específico de protección civil, estableciendo para ello su comité interno de protección civil, conforme a las disposiciones del programa municipal, elaborando además su análisis de riesgos y su plan de prevención de contingencias; contado (sic) para ello con la asesoría técnica de la Unidad Operativa Municipal de Protección Civil.
 
 > <small>(ADICIONADO, P.O. 6 DE DICIEMBRE DE 2006)</small>
 
@@ -5301,11 +5301,11 @@ XIV. Vigilar que en los establecimientos o los espectáculos se observe el cupo 
 
 XV. Solicitar y verificar que las salidas de emergencia estén libres de llaves, candados o cualquier otro objeto que pueda obstruir o bloquear las mismas, pudiendo liberar éstas en el momento de la verificación e inspección;
 
-(ADICIONAR, P.O. 31 DE DICIEMBRE DE 2008)
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 XVI. Solicitar y verificar que los establecimientos comerciales cuenten con medidas de seguridad que controlen sus accesos; y
 
-(ADICIONAR, P.O. 31 DE DICIEMBRE DE 2008)
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 XVII. Las demás que le confieran otras leyes, decretos, reglamentos y acuerdos.
 
@@ -9855,9 +9855,11 @@ VI. Las vísceras y el pollo estarán separados y refrigerados, en caso de no co
 
 DEL TRANSPORTE DE LOS PRODUCTOS CÁRNICOS Y/O SUBPRODUCTOS
 
-Artículo 639 Septdecies.- El transporte de productos cárnicos y/o subproductos, estará regulado por lo contemplado en el Capítulo 23 referente al "Servicio de Transporte del Producto Cárnico y sus Derivados", por las normas NOM-009-ZOO-1994, NOM-024-ZOO-1995 y NOM-194-SSA1-2004, así como las normas oficiales vigentes y demás disposiciones legales aplicables.
+> <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2009)</small>
 
-Para el caso de que el transporte provenga de un Rastro Tipo Inspección Federal y/o en él se trasladen productos cárnicos y/o subproductos amparados con la certificación "México Calidad Suprema", los inspectores municipales sólo verificarán que la documentación correspondiente se encuentre en orden.
+Artículo 639 Septdecies.- El transporte de productos cárnicos y/o subproductos, estará regulado por lo contemplado en el Capítulo 23 referente al “Servicio de Transporte del Producto Cárnico y sus Derivados”, por las normas NOM-009-ZOO-1994, NOM-024-ZOO-1995 y NOM-194-SSA1-2004, así como las normas oficiales vigentes y demás disposiciones legales aplicables.
+
+Para el caso de que el transporte provenga de un Rastro Tipo Inspección Federal y/o en él se trasladen productos cárnicos y/o subproductos amparados con la certificación “México Calidad Suprema”, los inspectores municipales sólo verificarán que la documentación correspondiente se encuentre en orden.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 14 DE DICIEMBRE DE 2009)</small>
 
@@ -9865,7 +9867,7 @@ DE LAS SANCIONES
 
 > <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2009)</small>
 
-Artículo 639 Octodecies.- Las autoridades sanitarias municipales determinarán, calificarán e impondrán a quienes infrinjan las disposiciones establecidas en el Subtítulo “De la Comercialización de Productos Cárnicos y/o Subproductos y Aves Muertas”, y los que resulten aplicables en la materia, indistintamente las sanciones señalas (sic) en el artículo 1671 de este ordenamiento.
+Artículo 639 Octodecies.- Las autoridades sanitarias municipales determinarán, calificarán e impondrán a quienes infrinjan las disposiciones establecidas en el Subtítulo "De la Comercialización de Productos Cárnicos y/o Subproductos y Aves Muertas", y los que resulten aplicables en la materia, indistintamente las sanciones señalas (sic) en el artículo 1671 de este ordenamiento.
 
 Para la aplicación de dichas sanciones se considerará como infracciones administrativas las contempladas en el artículo 1671 Bis fracciones I, II, III, IV, V y VI del presente Código. La reincidencia será sancionada con multa por el doble de las cantidades señaladas.
 
@@ -10247,13 +10249,17 @@ Contra la resolución que se emita para efectos de los párrafos que anteceden, 
 
 (DEROGADO, P.O. 27 DE MARZO DE 2006)
 
-# LIBRO TERCERO. URBANÍSTICA DEL MUNICIPIO DE PUEBLA
+> <small>(REFORMADA SU DENOMINACION, P.O. 5 DE OCTUBRE DE 2011)</small>
+
+# LIBRO TERCERO. ACCIONES URBANÍSTICAS Y EDIFICACIONES EN EL MUNICIPIO DE PUEBLA
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 5 DE OCTUBRE DE 2011)</small>
 
 ### CAPÍTULO 19. LIMPIA, RECOLECCIÓN Y DISPOSICIÓN FINAL DE RESIDUOS
 
 DISPOSICIONES GENERALES
 
-## TÍTULO ÚNICO. DEL DESARROLLO URBANO SUSTENTABLE
+## TÍTULO ÚNICO. CONTROL DEL DESARROLLO URBANO SUSTENTABLE
 
 ###### Artículo 655.
 
@@ -11161,13 +11167,51 @@ Las zonas, áreas o destinos afectas para equipamiento urbano estarán bajo el r
 
 ALINEAMIENTO Y NÚMERO OFICIAL
 
+> <small>(REFORMADO, P.O. 5 DE OCTUBRE DE 2011)</small>
+
 ###### Artículo 701.
 
-ALINEAMIENTO.- Se entiende por alineamiento oficial, la fijación sobre el terreno, de la línea que señala el límite de una propiedad particular con una vía pública establecida o por establecerse a futuro determinado.
+ALINEAMIENTO.- Se entiende por alineamiento, la fijación sobre el terreno, de la línea que señala el límite de una propiedad con una vía pública establecida en el Programa Municipal de Desarrollo Urbano sustentable vigente.
+
+> <small>(REFORMADO, P.O. 5 DE OCTUBRE DE 2011)</small>
 
 ###### Artículo 702.
 
-NUMERO OFICIAL.- La Dirección, previa solicitud, señalará para cada predio que tenga frente a la vía pública un sólo número oficial que corresponderá a la entrada del mismo. El costo que se asigne al documento que consigne el alineamiento y número oficial, se determinará únicamente de acuerdo al número de metros lineales que limite al predio con la vía pública, con base en la Ley de Ingresos vigente.
+NÚMERO OFICIAL.- El número oficial, es la asignación numérica o alfanumérica que le corresponde a un predio en la secuencia predeterminada por cada vía pública. La Dirección, previa solicitud, señalará para cada predio que tenga frente a la vía pública un sólo número oficial que corresponderá a la entrada del mismo. El costo que se asigne al documento que consigne el alineamiento y número oficial, se determinará únicamente de acuerdo al número de metros lineales que limite al predio con la vía pública, con base en la Ley de Ingresos vigente.
+
+El Alineamiento y Número Oficial estará vigente en tanto el predio objeto del mismo, no sufra alguna modificación tal como fusión, división, subdivisión o segregación, o bien cuando la Autoridad Municipal cambie el nombre de la calle donde se encuentra el predio, aplique algún programa de reordenamiento urbano, o a la actualización del Programa Municipal de Desarrollo Urbano Sustentable de Puebla, en cuyos casos informará a la Dirección de Catastro de la Tesorería, para la reasignación de la clave única catastral.
+
+> <small>(ADICIONADO, P.O. 5 DE OCTUBRE DE 2011)</small>
+
+###### Artículo 702 Bis.
+
+Toda persona física y moral que conforme a las leyes esté en el ejercicio de sus derechos civiles, puede solicitar el alineamiento y número oficial, ya sea, por sí o por quien legalmente la represente.
+
+La Dirección recibirá las solicitudes y demás documentos tal y como se exhiban, sin hacer observaciones, ni objeciones y entregará comprobante de ingreso del trámite a quien lo presente.
+
+La Dirección, analizará y revisará la procedencia de las solicitudes de alineamiento y número oficial de acuerdo con el Programa Municipal de Desarrollo Urbano Sustentable de Puebla, si es procedente emitirá el alineamiento y número oficial en el término de dos días hábiles, en el caso de improcedencia la Dirección deberá fundar y motivar la misma.
+
+Si dentro de los cinco días hábiles siguientes a la solicitud del trámite la Dirección no acuerda respecto su procedencia o improcedencia, operará la afirmativa ficta a favor del solicitante, en cuyo caso recaerá la responsabilidad en el servidor público que conozca del trámite, por lo que deberá darse vista a la Contraloría Municipal, para determinar las sanciones administrativas correspondientes.
+
+Será obligación de los solicitantes comparecer ante la Dirección para conocer e imponerse de las resoluciones que recaigan a su trámite. En caso de que los solicitantes no se presenten dentro de los cinco días siguientes al inicio del trámite, para notificarse de la resolución que recaiga al mismo, se fijará la resolución respectiva en los estrados o tablas de aviso de la Dirección.
+
+> <small>(ADICIONADO, P.O. 5 DE OCTUBRE DE 2011)</small>
+
+###### Artículo 702 Ter.
+
+Las reglas para la determinación de la asignación del número oficial son:
+
+I. La asignación seguirá una secuencia lógica ascendente de acuerdo con la numeración existente en la calle, avenida o manzana en que se ubique el predio correspondiente;
+
+II. Los predios con dos o más frentes a la vía pública solamente podrán tener asignado un número oficial. El propietario o poseedor determinará en su solicitud la vía pública por la que requiera sea asignado el número oficial, siempre y cuando no exista un antecedente oficial sobre dicho predio;
+
+III. Cuando un predio se subdivida en dos o más fracciones, a cada una de las mismas, se les asignará el número oficial que le corresponda, seguido de una letra en orden alfabético;
+
+IV. Cuando dos o más predios se fusionen en una sola unidad, el número oficial será el que la autoridad establezca de la serie que por secuencia le corresponden a los predios sin fusionar; y
+
+V. Cuando un número oficial haya sido asignado a dos o más predios, la Dirección determinará siguiendo la regla de la fracción I del presente numeral, qué número oficial le corresponde a cada uno de ello (sic), sin perjuicio de los procedimientos.
+
+Para la asignación de Número Oficial en la Zona de Monumentos, se respetará el número que tenga reconocido en el Decreto Presidencial de fecha 18 de noviembre de 1977.
 
 ###### Artículo 703.
 
@@ -11203,13 +11247,31 @@ USOS Y DESTINOS DEL SUELO
 
 Corresponde a la Dirección, la administración de la zonificación comprendida en el Programa de Desarrollo Urbano, regulando entre otros, los usos, reservas territoriales ó ecológicas, destinos y provisiones en el Municipio, con base en dichos Programas.
 
+> <small>(ADICIONADO, P.O. 5 DE OCTUBRE DE 2011)</small>
+
+La Dirección resolverá sobre las solicitudes de referencia que estén debidamente integradas, en un término de tres días hábiles, informando al solicitante el resultado y en caso de improcedencia deberá fundar y motivar la misma, dejando constancia en el expediente electrónico interno.
+
+> <small>(ADICIONADO, P.O. 5 DE OCTUBRE DE 2011)</small>
+
+###### Artículo 707 Bis.
+
+Toda acción de urbanización tales como apertura, ampliación, o prolongación de calles, cualquier forma de lotificación, división, subdivisión, fraccionamiento, fusión, o cualquier acto de construcción de inmuebles, incluso solares de ejidatarios o comuneros, se sujetará a lo dispuesto por la Ley Agraria de los Estados Unidos Mexicanos, la Ley General de Asentamientos Humanos, la Ley de Fraccionamientos y Acciones Urbanísticas del Estado de Puebla, el Programa Municipal de Desarrollo Urbano Sustentable de Puebla, el presente ordenamiento y demás ordenamientos aplicables.
+
+En términos de lo dispuesto por la Ley Agraria de los Estados Unidos Mexicanos, queda prohibida la urbanización de las tierras ejidales que se ubiquen en áreas naturales protegidas, incluyendo las zonas de preservación ecológica de los centros de población, cuando se contraponga a lo previsto en la declaratoria respectiva.
+
+En todo lo relacionado con fraccionamiento, división y subdivisión de predios, la Dirección podrá determinar los requisitos que deberán presentarse, los cuales deberán estar apegados a lo establecido en la Ley de Fraccionamientos y Acciones Urbanísticas del Estado de Puebla.
+
+> <small>(REFORMADO, P.O. 5 DE OCTUBRE DE 2011)</small>
+
 ###### Artículo 708.
 
-La construcción, adaptación, reconstrucción, ampliación, modificación de edificaciones o instalaciones; el uso, destino o cambio de uso en inmuebles, áreas o predios, y toda obra sobre inmuebles deberá obtener, previa a la ejecución de dichas acciones, obras ó utilización, la licencia de uso de suelo expedida por la Dirección, así como la manifestación de impacto ambiental.
+La construcción, adaptación, reconstrucción, ampliación, modificación de edificaciones o instalaciones, el uso, destino o cambio de uso en inmuebles, áreas o predios y toda obra sobre inmuebles deberá obtener, previa a la ejecución de dichas acciones, obras o utilización, la licencia de uso de suelo expedida por la Dirección, así como la manifestación de impacto ambiental, en los supuestos establecidos en la Ley General del Equilibrio Ecológico y la Protección al Ambiente, Ley para la Protección del Ambiente Natural y el Desarrollo Sustentable del Estado de Puebla y su Reglamento.
+
+> <small>(REFORMADO, P.O. 5 DE OCTUBRE DE 2011)</small>
 
 ###### Artículo 709.
 
-PROHIBICIÓN DE CONSTRUCCIÓN EN ZONAS DE RIESGO.- Se prohíbe todo tipo de construcción en las zonas de derrumbes, de ruidos, de conflagración, inundables, de ruinas, de dunas, y aquellas indicadas en los planes.
+PROHIBICIÓN DE CONSTRUCCIÓN EN ZONAS DE RIESGO.- Se prohíbe todo tipo de construcción en las zonas de derrumbes, de ruidos, de conflagración, inundables, de ruinas, de dunas y aquéllas indicadas en los planes y programas de desarrollo urbano, nacionales, estatales o municipales.
 
 LICENCIAS, PERMISOS Y AUTORIZACIONES
 
@@ -11217,17 +11279,21 @@ LICENCIAS, PERMISOS Y AUTORIZACIONES
 
 CONSTANCIA DE USO DE SUELO: La constancia de uso de suelo es el documento en el que se indica la densidad de vivienda por hectárea, los coeficientes de ocupación y utilización del suelo, y el uso o destino asignado por el Programa de Desarrollo Urbano, consignados en la carta urbana vigente, para un inmueble determinado, teniendo validez para efectos de carácter notarial.
 
+> <small>(REFORMADO, P.O. 5 DE OCTUBRE DE 2011)</small>
+
 ###### Artículo 711.
 
-A la solicitud de constancia de uso de suelo se anexarán:
+Los requisitos generales que deberán presentarse para solicitar la constancia de uso de suelo, licencia de uso de suelo y licencia de uso de suelo específico son:
 
-I. La documentación que ampare la propiedad, posesión o tenencia del inmueble o predio;
+I. Formato de solicitud de trámite, debidamente integrado y con firma autógrafa del interesado;
 
-II. Alineamiento y número oficial actualizado;
+II. Copia simple de identificación oficial con fotografía y en su caso, documento que acredite la personalidad del interesado;
 
-III. Fotografía del inmueble; y
+III. Copia simple de comprobante de domicilio;
 
-IV. Los demás requisitos determinados por la Dirección, y que se consideren necesarios, de acuerdo con las características del inmueble.
+IV. Sólo para obtener licencia de uso de suelo específico, fotografías del bien inmueble: dos interiores y dos exteriores, incluyendo fachada principal, posterior y áreas descubiertas; y
+
+V. En caso de que se trate de una construcción mayor de cinco años se solicitará el comprobante de antigüedad correspondiente del inmueble.
 
 FACTIBILIDAD DE USO DE SUELO
 
@@ -11235,23 +11301,35 @@ FACTIBILIDAD DE USO DE SUELO
 
 La factibilidad de uso de suelo es el documento expedido por la Dirección, a solicitud del interesado, en el que se indica la densidad de vivienda por hectárea, los coeficientes de ocupación y utilización de suelo, y el uso que en términos de el Programa de Desarrollo Urbano, así como en la normatividad aplicable, que es factible para desarrollar en un predio determinado, consignados en la carta urbana vigente.
 
+> <small>(ADICIONADO, P.O. 5 DE OCTUBRE DE 2011)</small>
+
+La Dirección podrá otorgar la Factibilidad de Uso de Suelo sobre el inmueble en función de los usos y destinos que autorice el Programa Municipal de Desarrollo Urbano Sustentable de Puebla, y estará vigente en tanto no se modifique el Programa de referencia.
+
+> <small>(REFORMADO, P.O. 5 DE OCTUBRE DE 2011)</small>
+
 ###### Artículo 713.
 
-A la solicitud de factibilidad de uso de suelo se acompañará:
+Los requisitos generales que deberán presentarse para solicitar la factibilidad de uso de suelo son:
 
-I. Documentación que ampare la propiedad, posesión o tenencia del predio o inmueble en general;
+I. Formato de solicitud de trámite, debidamente integrado y con firma autógrafa del interesado;
 
-II. Alineamiento y número oficial actualizado;
+II. Copia simple de identificación oficial con fotografía y en uso (sic) caso, documento que acredite la personalidad del interesado;
 
-III. Fotografía del inmueble;
+III. Copia simple de comprobante de domicilio;
 
-IV. Indicación del uso que se propone para el inmueble; y
+IV. Sólo para obtener licencia de uso de suelo específico, fotografías del bien inmueble: dos interiores y dos exteriores, incluyendo fachada principal, posterior y áreas descubiertas; y
 
-V. Los demás requisitos que sean necesarios, de acuerdo a la naturaleza de la obra o actividad.
+V. En caso de que se trate de una construcción mayor de cinco años se solicitará el comprobante de antigüedad correspondiente del inmueble.
+
+> <small>(REFORMADO, P.O. 5 DE OCTUBRE DE 2011)</small>
 
 ###### Artículo 714.
 
-La constancia de factibilidad y la constancia de uso de suelo no autorizan la utilización o aprovechamiento del suelo, siendo documentos de carácter meramente indicativo. Los derechos que cause la factibilidad de uso de suelo, se tomarán a cuenta de la licencia de uso de suelo.
+La constancia de factibilidad y la constancia de uso de suelo no autorizan la utilización o aprovechamiento del suelo, siendo documentos de carácter meramente indicativo (sic).
+
+La Dirección emitirá la constancia de uso de suelo en la que se indicará la densidad de vivienda por hectárea, los coeficientes de ocupación y utilización del suelo y el uso actual del bien inmueble, asignado por el Programa Municipal de Desarrollo Urbano Sustentable de Puebla, consignados en la Carta Urbana vigente.
+
+La constancia de uso de suelo, será vigente en tanto no se modifique el uso conforme al Programa Municipal de Desarrollo Urbano Sustentable de Puebla o los metros cuadrados del bien inmueble.
 
 LICENCIA DE USO DE SUELO
 
@@ -11264,6 +11342,22 @@ En todo caso, para la edificación sobre un predio, se deberá obtener posterior
 ###### Artículo 716.
 
 Las constancias de uso de suelo, las de factibilidad y las licencias de uso del suelo no constituyen o acreditan apeo y deslinde, ni derechos reales, como propiedad o posesión respecto a los inmuebles sobre los que se otorgan; y se expiden sin afectación a derechos de terceros.
+
+> <small>(ADICIONADO, P.O. 5 DE OCTUBRE DE 2011)</small>
+
+La licencia de uso de suelo, estará vigente en tanto no se modifique el uso conforme al Programa Municipal de Desarrollo Urbano Sustentable de Puebla o se rectifiquen la superficie, medidas o colindancias del bien inmueble.
+
+> <small>(ADICIONADO, P.O. 5 DE OCTUBRE DE 2011)</small>
+
+La Dirección emitirá la licencia de uso de suelo, que indica las normas específicas de utilización y aprovechamiento urbano, así como las medidas de mitigación para una actividad o proyecto en un inmueble determinado, conforme a su Zonificación y lo dispuesto por los programas de Ordenamiento Territorial y Desarrollo Urbano, en un término de cinco días hábiles.
+
+> <small>(ADICIONADO, P.O. 5 DE OCTUBRE DE 2011)</small>
+
+Será obligación de los solicitantes comparecer ante la Dirección para conocer e imponerse de las resoluciones que recaigan a su trámite. En caso de que los solicitantes no se presenten dentro de los cinco días siguientes al inicio del trámite, para notificarse de la resolución que recaiga al mismo, se fijará la resolución respectiva en los estrados o tablas de aviso de la Dirección.
+
+> <small>(ADICIONADO, P.O. 5 DE OCTUBRE DE 2011)</small>
+
+La norma urbana contenida en la licencia de uso del suelo será la misma durante todo el tiempo que se encuentre vigente el Programa Municipal de Desarrollo Urbano Sustentable de Puebla con el que se emite, sin perjuicio de las contribuciones a que está obligado su Titular.
 
 ###### Artículo 717.
 
@@ -11435,7 +11529,9 @@ Las obras, construcciones, ampliaciones o modificaciones que se hagan sin autori
 
 Las licencias de uso de suelo que se expidan en afectaciones, se considerarán en todo caso como condicionadas; los poseedores de inmuebles afectados para vía pública futura, utilizarán los predios de conformidad con las normas condicionantes que se señalen en la licencia respectiva, debiendo retirar o demoler por su propia cuenta las construcciones, instalaciones o estructuras realizadas en el momento que sea determinado por el Ayuntamiento, dejando de surtir efectos la licencia respectiva.
 
-Restricción es el área libre de terreno, en la cual no se podrá construir.
+> <small>(REFORMADO, P.O. 5 DE OCTUBRE DE 2011)</small>
+
+Restricción es el área libre de terreno, en la cual no se podrá construir, por tratarse de una vía de paso de instalaciones subterráneas, terrestres o aéreas de electricidad, gas, aguas nacionales o bienes de propiedad nacional.
 
 ###### Artículo 729.
 
@@ -23513,7 +23609,7 @@ Los productos cárnicos que se transporten en el Municipio, deberán estar ampar
 
 El producto cárnico que se transporte sin cumplir con lo dispuesto en el artículo anterior será decomisado por la autoridad municipal y sometido a inspección sanitaria; adoptando las medidas señaladas en el artículo 1637 Bis del presente Código.
 
-Para el caso de que el transporte provenga de un Rastro Tipo Inspección Federal y/o en él se trasladen productos cárnicos y/o subproductos amparados con la certificación "México Calidad Suprema", los inspectores municipales sólo verificarán que la documentación correspondiente se encuentre en orden.
+Para el caso de que el transporte provenga de un Rastro Tipo Inspección Federal y/o en él se trasladen productos cárnicos y/o subproductos amparados con la certificación “México Calidad Suprema”, los inspectores municipales sólo verificarán que la documentación correspondiente se encuentre en orden.
 
 > <small>(REFORMADO, P.O. 23 DE MAYO DE 2007)</small>
 
@@ -30201,7 +30297,7 @@ El Comisionado está facultado para autorizar la sustitución o cambio de boxead
 
 I. En Box: en caso de fuerza mayor debidamente comprobada, si alguno de los participantes de una pelea preliminar o estelar no puede actuar en la función anunciada, se sustituirá dicho peleador por el emergente de la misma categoría y peso, si el boxeador fuese de la pelea estelar, además de anunciar el cambio autorizado, informará al público que la persona que no esté de acuerdo podrá solicitar la devolución del importe de su boleto, siempre que no haya iniciado la función;
 
-II. En la lucha libre: cuando un luchador por causa de fuerza mayor no se haya presentado, será sustituido por otro de la misma categoría y de igual peso, comunicándole a la empresa la obligación de avisar al público asistente, el cambio realizado y si éste es de algún luchador de la "Lucha Estelar", además de anunciar el cambio autorizado, informará al público que la persona que no esté de acuerdo podrá solicitar la devolución del importe de su boleto, siempre que no haya iniciado la función.
+II. En lucha libre: cuando un luchador por causa de fuerza mayor no se haya presentado, será sustituido por otro de la misma categoría y de igual peso, comunicándole a la empresa la obligación de avisar al público asistente, el cambio realizado y si éste es de algún luchador de la "Lucha Estelar", además de anunciar el cambio autorizado, informará al público que la persona que no esté de acuerdo podrá solicitar la devolución del importe de su boleto, siempre que no haya iniciado la función.
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 17 DE FEBRERO DE 2006)</small>
 
@@ -30521,7 +30617,7 @@ DE LOS REPRESENTANTES
 
 ###### Artículo 2170.
 
-Para ser representante de boxeadores o luchadores, se requiere ser mayor de edad, persona de reconocida honorabilidad y tener licencia expedida por la Comisión, en los términos previstos por los Artículos relativos del presente Capitulo.
+Para ser representante de boxeadores o luchadores, se requiere ser mayor de edad, persona de reconocida honorabilidad y tener licencia expedida por la Comisión, en los términos previstos por los artículos relativos del presente Capitulo.
 
 > <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2006)</small>
 
@@ -31825,7 +31921,7 @@ XIV. Número de teléfono, fax y correo electrónico, así como la dirección y 
 
 XV. Apartado de observaciones; y
 
-XVI. Número de teléfono, fax y correo electrónico de la Contraloría Municipal para los casos de quejas o denuncias en contra de servidores públicos.
+XVI. Número de teléfono, fax y correo electrónico del la Contraloría Municipal para los casos de quejas o denuncias en contra de servidores públicos.
 
 > <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2008)</small>
 
@@ -33398,3 +33494,7 @@ SEGUNDO. Se derogan las disposiciones que se opongan a lo establecido en las ref
 P.O. 23 DE SEPTIEMBRE DE 2011.
 
 LA MODIFICACION CON ANTELACION CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DEL TEXTO ACTUALIZADO, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE FEDERAL.
+
+P.O. 5 DE OCTUBRE DE 2011.
+
+ÚNICO.- La presente reforma del Código Reglamentario para el Municipio de Puebla, entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Puebla.
