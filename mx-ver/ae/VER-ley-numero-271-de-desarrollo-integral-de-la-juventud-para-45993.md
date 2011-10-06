@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-271-de-desarrollo-integral-de-la-juventud-para-45993
 country: "mx"
 rank: "ley"
 publication_date: "2005-08-15"
-last_updated: "2006-12-22"
+last_updated: "2011-10-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45993&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY DE DESARROLLO INTEGRAL DE LA JUVENTUD
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 22 DE DICIEMBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 6 DE OCTUBRE DE 2011.
 
 Ley publicada en la Gaceta Oficial del Gobierno del Estado de Veracruz de Ignacio de la Llave, el lunes 15 de agosto de 2005.
 
@@ -49,9 +49,11 @@ DE DESARROLLO INTEGRAL DE LA JUVENTUD PARA EL ESTADO DE VERACRUZ DE IGNACIO DE L
 
 ### Capitulo Único
 
+> <small>(REFORMADO, G.O. 6 DE OCTUBRE DE 2011)</small>
+
 ###### Artículo 1.
 
-La presente Ley es de orden público, interés social y observancia general en el estado de Veracruz. Tiene por objeto establecer los derechos de la juventud veracruzana, vigilar y hacer obedecer su debido cumplimiento por parte de las autoridades estatales y municipales, los principios rectores de las políticas públicas que contribuyan a su desarrollo integral, así como, regular el funcionamiento del Instituto de la Juventud Veracruzana y la creación y funcionamiento del Parlamento de la Juventud Veracruzana.
+La presente Ley es de orden público, interés social y observancia general en el Estado de Veracruz de Ignacio de la Llave. Tiene por objeto establecer los derechos de la juventud veracruzana, vigilar y hacer obedecer su debido cumplimiento por parte de las autoridades estatales y municipales, los principios rectores de las políticas públicas que contribuyan a su desarrollo integral, así como regular la creación y funcionamiento del Parlamento de la Juventud Veracruzana.
 
 ###### Artículo 2.
 
@@ -61,23 +63,25 @@ I. Autoridad Estatal: Al titular del Poder Ejecutivo;
 
 II. Autoridad Municipal: Al Ayuntamiento;
 
-III. Consejo: Al Consejo de Jóvenes del Instituto de la Juventud Veracruzana;
+> <small>(REFORMADA, G.O. 6 DE OCTUBRE DE 2011)</small>
 
-IV. Contraloría: A la Contraloría Interna del Instituto;
+III. Consejo: Al Consejo de Jóvenes.
+
+IV. (DEROGADA, G.O. 6 DE OCTUBRE DE 2011)
 
 V. DIF: Al Sistema para el Desarrollo Integral de la Familia;
 
-VI. Director: Al Director General del Instituto de la Juventud Veracruzana;
+VI. (DEROGADA, G.O. 6 DE OCTUBRE DE 2011)
 
 VII. Estado: Al Estado de Veracruz de Ignacio de la Llave;
 
 VIII. Fondo: Al Fondo de Apoyo a Proyectos Juveniles del Estado de Veracruz;
 
-IX. Instituto: Al Instituto de la Juventud Veracruzana (INJUVER);
+IX. (DEROGADA, G.O. 6 DE OCTUBRE DE 2011)
 
 X. Joven: Ser humano cuya edad comprende el rango entre los 15 y los 29 años;
 
-XI. Junta: A la Junta de Gobierno del Instituto de la Juventud Veracruzana;
+XI. (DEROGADA, G.O. 6 DE OCTUBRE DE 2011)
 
 XII. Juventud: Al conjunto de las y los jóvenes;
 
@@ -85,13 +89,13 @@ XIII. Ley: A la Ley de Desarrollo Integral de la Juventud;
 
 XIV. Parlamento: Al Parlamento de la Juventud Veracruzana;
 
-XV. Plan: Al plan estratégico para el Desarrollo Integral de la Juventud
+> <small>(REFORMADA, G.O. 6 DE OCTUBRE DE 2011)</small>
 
-Veracruzana;
+XV. Programa: Al Programa Estratégico para el Desarrollo Integral de la Juventud Veracruzana;
 
 XVI. Red Juvenil: A la red de Organizaciones Juveniles del estado de Veracruz; y
 
-XVII. Reglamento: Al Reglamento Interior del Instituto.
+XVII. (DEROGADA, G.O. 6 DE OCTUBRE DE 2011)
 
 ###### Artículo 3.
 
@@ -119,9 +123,11 @@ VI. La participación libre y democrática en los procesos de toma de decisiones
 
 Son derechos de la juventud, los conferidos por la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado Libre y Soberano de Veracruz de Ignacio de la Llave, los demás ordenamientos nacionales o internacionales aplicables y los que expresamente señala esta Ley.
 
+> <small>(REFORMADO, G.O. 6 DE OCTUBRE DE 2011)</small>
+
 ###### Artículo 5.
 
-El Gobierno del Estado, mediante el apoyo del Instituto de la Juventud Veracruzana, en coordinación con las autoridades de la administración pública centralizada y paraestatal, las organizaciones no gubernamentales, debe crear, promover y apoyar, por todos los medios a su alcance, el cumplimiento y protección de los derechos de los jóvenes.
+El Gobierno del Estado deberá promover y apoyar, por todos los medios a su alcance, el cumplimiento y protección de los derechos de los jóvenes, a través del órgano administrativo responsable que establezca el Reglamento Interior de la Secretaría de Gobierno.
 
 ###### Artículo 6.
 
@@ -131,7 +137,9 @@ La juventud tiene derecho a vivir esta etapa de su vida con calidad, creatividad
 
 La juventud con capacidades diferentes, ya sea por disminución en sus facultades físicas, intelectuales o sensoriales que le limitan para realizar una actividad normal, tiene derecho a disfrutar de una vida plena y digna.
 
-El Plan Estratégico para el Desarrollo Integral de la Juventud Veracruzana deberá contemplar los mecanismos necesarios para que la juventud con esta característica pueda llegar a bastarse a sí misma, teniendo como objetivo su participación activa en la comunidad.
+> <small>(REFORMADO, G.O. 6 DE OCTUBRE DE 2011)</small>
+
+El Programa preverá los mecanismos necesarios para que la juventud con esta característica pueda llegar a bastarse a sí misma, teniendo como objetivo su participación activa en la comunidad.
 
 #### SECCIÓN SEGUNDA. Del Derecho a la Dignidad
 
@@ -199,7 +207,9 @@ La juventud tiene derecho a contar con oportunidades que le permita su autorreal
 
 I. Disfrutar de la protección y estímulo de su familia y comunidad, de conformidad con el sistema de valores culturales de la sociedad;
 
-II. Contar con oportunidades que les permitan participar y desarrollar plenamente sus potencialidades, teniendo al Instituto como su intercesor;
+> <small>(REFORMADA, G.O. 6 DE OCTUBRE DE 2011)</small>
+
+II. Contar con oportunidades que les permitan participar y desarrollar plenamente sus potencialidades.
 
 III. Compartir sus conocimientos, experiencias, habilidades y vivencias con otros jóvenes;
 
@@ -213,7 +223,7 @@ VII. Trabajar en forma voluntaria en distintas actividades de índole social, de
 
 VIII. Crear o formar parte de movimientos, asociaciones u organizaciones lícitas de jóvenes;
 
-IX. Contar con representantes ante el Instituto; y
+IX. (DEROGADA, G.O. 6 DE OCTUBRE DE 2011)
 
 X. Las demás que contribuyan a su desarrollo armónico e integral.
 
@@ -245,7 +255,9 @@ La juventud será sujeta de programas de asistencia social cuando se encuentren 
 
 La juventud tiene derecho a decidir de forma libre y responsable sobre su cuerpo y sexualidad, así como a ejercer y disfrutar plenamente su vida sexual y a recibir información completa, científica y laica sobre sexualidad. Tendrá acceso a los servicios de salud sexual y salud reproductiva, así como, el derecho a decidir de manera consciente y plenamente informada, el momento y el número de hijos que deseen tener sin contravenir a la legislación civil y penal vigente.
 
-El Plan deberá incluir lineamientos y acciones que permitan generar y divulgar información referente a temáticas de salud reproductiva, ejercicio responsable de la sexualidad, VIH-SIDA, educación sexual, embarazo en adolescentes, maternidad y paternidad, entre otros.
+> <small>(REFORMADO, G.O. 6 DE OCTUBRE DE 2011)</small>
+
+El Programa deberá incluir lineamientos y acciones que permitan generar y divulgar información referente a temáticas de salud reproductiva, ejercicio responsable de la sexualidad, virus de inmunodeficiencia humana y síndrome de inmunodeficiencia adquirida, educación sexual, embarazo en adolescentes, maternidad y paternidad, entre otros.
 
 #### SECCIÓN NOVENA. Del Derecho a la Cultura
 
@@ -253,7 +265,9 @@ El Plan deberá incluir lineamientos y acciones que permitan generar y divulgar 
 
 La juventud tiene derecho al acceso a espacios culturales y a expresar sus manifestaciones culturales de acuerdo a sus propios intereses y expectativas.
 
-El Plan deberá incluir un sistema de promoción y apoyo a iniciativas culturales juveniles, sobre todo en los casos que signifiquen un rescate de elementos culturales de los sectores populares y de los pueblos indígenas de la diversidad cultural que hay en nuestro estado.
+> <small>(REFORMADO, G.O. 6 DE OCTUBRE DE 2011)</small>
+
+El Programa deberá incluir un sistema de promoción y apoyo a iniciativas culturales juveniles, sobre todo en los casos que signifiquen un rescate de elementos culturales de los sectores populares y de los pueblos indígenas.
 
 #### SECCIÓN DÉCIMA. Del Derecho a la Identidad
 
@@ -269,7 +283,9 @@ Del Derecho a la Integración y Reinserción Social
 
 La juventud veracruzana, en situaciones especiales desde el punto de vista de la pobreza, exclusión social, indigencia, situación de calle, discapacidad, privación de la libertad, tiene derecho a reinsertarse e integrarse a la sociedad y a ser sujeta de derechos y oportunidades que le permita acceder a servicios y beneficios sociales que mejoren su calidad de vida, por lo que las autoridades estatal y municipal deben disponer de recursos y medios necesarios para garantizar este derecho.
 
-En cualquiera de estos casos, el Instituto, en colaboración del DIF Estatal, Municipal o del Consejo Estatal de Asistencia Social y Protección de Niños y Niñas, deberá asesorar y apoyar para la búsqueda y trámite de programas a fin de poder acceder a servicios y beneficios sociales señalados, teniendo el carácter de intercesor para lograr que el derecho de la integración y reinserción de la juventud a la sociedad sea pleno.
+> <small>(REFORMADO, G.O. 6 DE OCTUBRE DE 2011)</small>
+
+En cualquiera de estos casos, el órgano administrativo responsable, en colaboración con el DIF Estatal, Municipal o el Consejo Estatal de Asistencia Social y Protección de Niños y Niñas, deberá asesorar y apoyar para la búsqueda y trámite de programas, a fin de poder acceder a los servicios y beneficios sociales señalados, teniendo el carácter de intercesor para lograr que el derecho de la integración y reinserción de la juventud a la sociedad sea pleno.
 
 SECCIÓN DECIMOSEGUNDA
 
@@ -315,7 +331,9 @@ La juventud tiene el derecho al disfrute de actividades de recreación y al acce
 
 La juventud tiene derecho a practicar cualquier deporte de acuerdo con su gusto y aptitudes en los espacios proporcionados para tal efecto por el Gobierno del Estado u otras dependencias federales, estatales o municipales en el Estado, con programas propios para jóvenes, en cualquier rama, categoría y los deportes extremos.
 
-El Plan deberá contemplar dentro de sus lineamientos, los mecanismos para el acceso masivo de la juventud a la práctica deportiva y al disfrute de espectáculos deportivos, y debe contemplar un sistema de promoción y apoyo de iniciativas deportivas juveniles.
+> <small>(REFORMADO, G.O. 6 DE OCTUBRE DE 2011)</small>
+
+El Programa contendrá dentro de sus lineamientos los mecanismos para el acceso masivo de la juventud a la práctica deportiva y al disfrute de espectáculos deportivos, y preverá un sistema de promoción y apoyo de iniciativas deportivas juveniles.
 
 ###### Artículo 24.
 
@@ -361,21 +379,27 @@ La juventud tendrá derecho a un trabajo digno, socialmente útil y bien remuner
 
 Los gobiernos estatal y municipal promoverán por todos los medios a su alcance, el empleo y la capacitación laboral de la juventud del Estado realizando convenios con empresas públicas y privadas que garanticen este derecho.
 
+> <small>(REFORMADO, G.O. 6 DE OCTUBRE DE 2011)</small>
+
 ###### Artículo 30.
 
-El Plan dentro de sus lineamientos base, debe contemplar un sistema de empleo, bolsa de trabajo, capacitación laboral, recursos económicos para proyectos productivos, convenios y estímulos fiscales con las empresas del sector público y privado teniendo como objeto principal el favorecer laboralmente a la juventud y garantizar con esto, su derecho al trabajo.
+El Programa, dentro de sus lineamientos base, preverá un sistema de empleo, bolsa de trabajo, capacitación laboral, recursos económicos para proyectos productivos, convenios y estímulos fiscales con las empresas del sector público y privado, con el objeto de favorecer laboralmente a la juventud y garantizar con esto su derecho al trabajo.
 
 ###### Artículo 31.
 
 El respeto del derecho al trabajo de la juventud, será motivo de normas de protección al empleo y de una supervisión exhaustiva por parte de las autoridades laborales correspondientes.
 
+> <small>(REFORMADO, G.O. 6 DE OCTUBRE DE 2011)</small>
+
 ###### Artículo 32.
 
-El Instituto deberá establecer lineamientos que incentiven la creación, promoción y protección del empleo de la juventud por parte del Estado en la modalidad de primera experiencia laboral.
+El órgano administrativo responsable deberá establecer lineamientos que incentiven la creación, promoción y protección del empleo de la juventud por parte del Estado, en la modalidad de primera experiencia laboral.
+
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 6 DE OCTUBRE DE 2011)</small>
 
 ###### Artículo 33.
 
-El Instituto, dentro del Plan, deberá promover y proteger el desarrollo de la primera experiencia laboral de la juventud del Estado, por medio del cumplimiento de los siguientes objetivos:
+El Programa deberá promover y proteger el desarrollo de la primera experiencia laboral de la juventud del Estado, por medio del cumplimiento de los siguientes objetivos:
 
 I. Lograr conocimientos prácticos sin suspender sus estudios.
 
@@ -391,7 +415,7 @@ Las funciones a desempeñar como primera experiencia laboral deberán ser adecua
 
 ###### Artículo 35.
 
-Las actividades de los jóvenes en su primera experiencia laboral, serán detalladas mediante acuerdo y coordinación de la Junta de Gobierno del Instituto y las empresas que deseen apoyar a jóvenes veracruzanos a su primera experiencia laboral.
+(DEROGADO, G.O. 6 DE OCTUBRE DE 2011)
 
 ###### Artículo 36.
 
@@ -469,267 +493,161 @@ III. Contribuir al avance de la vida democrática del Estado, participando en lo
 
 IV. Mantener dentro y fuera del territorio del Estado actitudes que dignifiquen el nombre de Veracruz.
 
-## TÍTULO TERCERO. Del Instituto de la Juventud Veracruzana (INJUVER)
+> <small>(REFORMADA SU DENOMINACION, G.O. 6 DE OCTUBRE DE 2011)</small>
 
-### CAPÍTULO PRIMERO. Del Objetivo y Atribuciones del Instituto
+## TÍTULO TERCERO. Del Órgano Administrativo Responsable
+
+> <small>(REFORMADA SU DENOMINACION, G.O. 6 DE OCTUBRE DE 2011)</small>
+
+### CAPÍTULO PRIMERO. Del Objeto y atribuciones
 
 ###### Artículo 43.
 
-El Instituto de la Juventud Veracruzana es un Organismo Público Descentralizado del Poder Ejecutivo del Estado, autónomo con personalidad jurídica y patrimonio propio y domicilio en la ciudad de Xalapa-Enríquez, Veracruz, y tiene a su cargo la aplicación de las disposiciones de la presente Ley.
+(DEROGADO, G.O. 6 DE OCTUBRE DE 2011)
+
+> <small>(REFORMADO, G.O. 6 DE OCTUBRE DE 2011)</small>
 
 ###### Artículo 44.
 
-El Instituto tendrá por objeto planear, promocionar y aplicar las actividades de atención y asistencia que coadyuven al desarrollo integral de la juventud.
+Es obligación de Poder Ejecutivo planear, promocionar y aplicar las actividades de atención y asistencia que coadyuven al desarrollo integral de la juventud.
+
+> <small>(REFORMADO, G.O. 6 DE OCTUBRE DE 2011)</small>
 
 ###### Artículo 45.
 
-El Instituto tiene las siguientes atribuciones y obligaciones:
+El Poder Ejecutivo, por conducto del órgano administrativo responsable que establezca el Reglamento Interior de la Secretaría de Gobierno, tendrá las siguientes atribuciones:
 
-I. Formular e instrumentar la política estatal de la juventud, que permita incorporarla plenamente al desarrollo de la entidad;
+I. Formular e instrumentar la política estatal de la juventud, que permita incorporarla plenamente al desarrollo de la Entidad;
 
-II. Elaborar el Plan Estratégico de Desarrollo Integral de la Juventud Veracruzana, y sus programas;
+II. Elaborar el Programa;
 
-III. Crear su Reglamento Interior, y demás normatividad para el adecuado desarrollo de sus funciones;
+III. Crear mecanismos de coordinación institucional entre instancias del gobierno federal, del gobierno estatal, organismos no gubernamentales, instituciones privadas y asociaciones civiles que realicen trabajo con jóvenes o que tengan relación con las temáticas juveniles;
 
-IV. Crear mecanismos de coordinación institucional entre instancias del gobierno federal, del gobierno estatal, organismos No gubernamentales, instituciones privadas y asociaciones civiles que realizan trabajo con jóvenes o que tengan relación con las temáticas juveniles;
+IV. Ampliar y promover ante las instituciones las demandas y necesidades de los jóvenes, haciendo énfasis en las áreas de salud, empleo, educación, capacitación, seguridad, justicia, cultura y recreación;
 
-V. Ampliar y promover ante las instituciones las demandas y necesidades de los jóvenes, haciendo énfasis en las áreas de salud, empleo, educación, capacitación, seguridad, justicia, cultura y recreación;
+V. Actuar como órgano de consulta y asesoría de las dependencias y entidades de la Administración Pública Estatal, de los municipios y de los sectores social y privado, cuando así lo requieran;
 
-VI. Actuar como órgano de consulta y asesoría de las dependencias y entidades de la Administración Pública Estatal, de los municipios y de los sectores social y privado cuando así lo requieran;
+VI. Concertar acuerdos y convenios entre el gobierno estatal y los municipios para promover, con la participación, en su caso, de los sectores social y privado, la política, programas y acciones tendientes al desarrollo integral de la juventud;
 
-VII. Concertar acuerdos y convenios con el gobierno estatal, los municipios para promover, con la participación, en su caso, de los sectores social y privado la política, programas y acciones tendientes al desarrollo integral de la juventud;
+VII. Impulsar la creación anual del Parlamento de la Juventud Veracruzana, ante la Comisión Permanente de Juventud y Deporte del Poder Legislativo del Estado de Veracruz, y promover su difusión;
 
-VIII. Impulsar la creación anual del Parlamento de la Juventud Veracruzana, ante la Comisión Permanente de Juventud y Deporte del Poder Legislativo del Estado de Veracruz, y promover su difusión;
+VIII. Celebrar acuerdos y convenios de colaboración con organizaciones privadas y sociales para el desarrollo de proyectos que benefician a la juventud, mejorando la calidad y cobertura de las políticas juveniles y eficientando el uso de recursos;
 
-IX. Celebrar acuerdos y convenios de colaboración con organizaciones privadas y sociales para el desarrollo de proyectos que benefician a la juventud; mejorando la calidad y cobertura de las políticas juveniles eficientando el uso de recursos;
+IX. Mantener actualizados los registros y supervisar el desarrollo de los programas que, a favor de la juventud, promuevan las diversas dependencias y organismos de la administración pública federal, estatal y municipal;
 
-X. Mantener actualizados los registros y supervisar el desarrollo de los programas que a favor de la juventud promuevan las diversas dependencias y organismos de la administración pública federal, estatal y municipal;
+X. Promover ante las empresas del sector público y privado la inclusión de la primera experiencia laboral de los jóvenes;
 
-XI. Promover ante las empresas del sector público y privado la inclusión de la primera experiencia laboral de los jóvenes;
+XI. Realizar, promover, coordinar y difundir estudios e investigaciones sobre la situación de la juventud;
 
-XII. Realizar, promover, coordinar y difundir estudios e investigaciones sobre la situación de la juventud;
+XII. Crear canales que incorporen las iniciativas de las y los jóvenes, en lo individual o a través de sus organizaciones, en la discusión y solución de sus problemas;
 
-XIII. Crear canales que incorporen la iniciativa de las y los jóvenes en lo individual a través de sus organizaciones en la discusión y solución de sus problemas;
+XIII. Fomentar la capacidad de autogestión de las y los jóvenes y sus organizaciones;
 
-XIV. Fomentar la capacidad de autogestión de las y los jóvenes y sus organizaciones;
+XIV. Promover el ingreso y permanencia de las y los jóvenes en el sistema de educación formal;
 
-XV. Promover el ingreso y permanencia de las y los jóvenes en el sistema de educación formal;
+XV. Encauzar recursos en favor de programas que fomenten el desarrollo de la juventud, así como prestar los servicios que establezcan los programas en la materia;
 
-XVI. Encauzar recursos en favor de programas que fomenten el desarrollo de la juventud, así como prestar los servicios que establezcan los programas que formule el Instituto;
+XVI. Propiciar la Instalación en cada municipio de Comités Municipales de la Juventud;
 
-XVII. Propiciar la Instalación en cada municipio de Comités Municipales de la Juventud;
+XVII. Promover y ejecutar acciones para el reconocimiento público y difusión de las actividades sobresalientes de la juventud veracruzana en los diversos ámbitos del acontecer estatal y nacional;
 
-XVIII. Promover y ejecutar acciones para el reconocimiento público y difusión de las actividades sobresalientes de la juventud veracruzana en los diversos ámbitos del acontecer estatal y nacional;
+XVIII. Fomentar el establecimiento de vínculos de amistad y de cooperación nacional e internacional en materia de juventud;
 
-XIX. Fomentar el establecimiento de vínculos de amistad y de cooperación nacional e internacional en materia de juventud;
+XIX. Impulsar la operación de programas de educación, orientación y asesoría a padres jóvenes;
 
-XX. Impulsar la operación de programas de educación, orientación y asesoría a padres jóvenes;
+XX. Promover ante las autoridades educativas de la Entidad el diseño e instrumentación de programas orientados a fomentar el ingreso, permanencia o, en su caso, el reingreso de los jóvenes al Sistema Estatal de Educación;
 
-XXI. Promover ante las autoridades educativas de la entidad el diseño e instrumentación de programas orientados a fomentar el ingreso, permanencia, o en su caso, el reingreso de los jóvenes al Sistema Estatal de Educación;
+XXI. Promover el turismo juvenil;
 
-XXII. Promover el turismo juvenil;
+XXII. Fomentar y difundir entre los jóvenes el acceso a acervos bibliográficos, documentales y a las nuevas tecnologías de información y comunicación;
 
-XXIII. Fomentar y difundir entre los jóvenes el acceso a acervos bibliográficos, documentales y a las nuevas tecnologías de información y comunicación;
+XXIII. Proporcionar orientación a las jóvenes madres con demandas de acceso a vivienda, transporte y servicios públicos; y
 
-XXIV. Proporcionar orientación a las jóvenes madres con demandas de acceso a vivienda, transporte y servicios públicos; y
+XXIV. Las demás que le atribuyan las leyes y reglamentos, o que le confiera el Titular del Ejecutivo.
 
-XXV. Las demás; que le atribuyan las leyes y reglamentos, o que le confiera el titular del Ejecutivo.
+> <small>(DEROGADO CON EL ARTICULO QUE LO INTEGRA, G.O. 6 DE OCTUBRE DE 2011)</small>
 
 ### CAPÍTULO SEGUNDO. Del Patrimonio
 
 ###### Artículo 46.
 
-El patrimonio del Instituto se integrará con:
+(DEROGADO, G.O. 6 DE OCTUBRE DE 2011)
 
-I. Los recursos que perciba conforme a la partida que establezca el Presupuesto de Egresos del Estado, así como los que reciba por los servicios que preste en cumplimiento de su objeto o que le correspondan por cualquier otro título legal.
-
-II. Las aportaciones, participaciones, subsidios, transferencias y apoyos que le otorguen los Gobiernos Federal, Estatal y Municipal, así como los recursos otorgados por las demás personas físicas o morales de los sectores privado y social;
-
-III. Los rendimientos por virtud de sus operaciones financieras y actividades culturales, sociales y deportivas que organice y en las que participe;
-
-IV. Los bienes muebles e inmuebles que adquiera por cualquier título legal, para el cumplimiento de su objeto;
-
-V. Las donaciones, legados y fideicomisos que reciba de personas físicas o morales, nacionales o extranjeras, los cuales de ninguna manera podrán implicar condiciones contrarias a su objeto conforme lo establece la Ley; y
-
-VI. En general, los bienes, derechos y obligaciones que entrañen utilidad económica o sean susceptibles de estimación pecuniaria y que se obtengan por cualquier título legal.
+> <small>(DEROGADO CON LAS SECCIONES Y ARTICULOS QUE LO INTEGRAN, G.O. 6 DE OCTUBRE DE 2011)</small>
 
 ### CAPÍTULO TERCERO. De la Organización
 
 ###### Artículo 47.
 
-El Instituto contará con los siguientes Órganos de Gobierno y Administración:
-
-I. Junta de Gobierno;
-
-II. Dirección General;
-
-III. Consejo de Jóvenes;
-
-IV. Las unidades administrativas que se establezcan en el Reglamento Interior; y
-
-V. La Contraloría Interna.
+(DEROGADO, G.O. 6 DE OCTUBRE DE 2011)
 
 ###### Artículo 48.
 
-El Instituto contará con los siguientes órganos de Apoyo y Consulta:
+(DEROGADO, G.O. 6 DE OCTUBRE DE 2011)
 
-I. Direcciones Municipales;
-
-II. Comités Municipales.
+> <small>(DEROGADA CON LOS ARTICULOS QUE LA INTEGRAN, G.O. 6 DE OCTUBRE DE 2011)</small>
 
 #### SECCIÓN PRIMERA. De la Junta de Gobierno
 
 ###### Artículo 49.
 
-La Junta de Gobierno se integrará por:
-
-I. El o la Titular del Poder Ejecutivo del Estado, que será el Presidente;
-
-II. El o la Titular de la Secretaría de Educación y Cultura; que será el vicepresidente;
-
-III. El o la Titular de la Dirección General del Instituto, quien fungirá como Secretario Técnico;
-
-IV. El o la Titular de la Secretaría de Finanzas y Planeación, quien será vocal;
-
-V. El o la Titular de la Secretaría de Salud y Asistencia, quien será vocal;
-
-VI. El o la Titular de la Secretaría de Desarrollo Económico, quien será vocal; y
-
-VII. El o la Titular de la Secretaría de Desarrollo Regional, quien será vocal.
-
-Podrán participar con voz pero sin voto, previo acuerdo de la Junta de Gobierno, y a invitación expresa del Presidente de la Junta, los servidores públicos y representantes de instituciones privadas y sociales.
-
-El desempeño de los miembros de la Junta de Gobierno será honorífico. Dicho cargo tendrá una duración máxima de seis años; así mismo, los integrantes de la Junta, podrán designar personas que les sustituyan en sus ausencias.
+(DEROGADO, G.O. 6 DE OCTUBRE DE 2011)
 
 ###### Artículo 50.
 
-Son atribuciones de la Junta:
-
-I. Aprobar y modificar, en su caso, el Reglamento Interior del Instituto a propuesta del Director General y remitirlo al Ejecutivo para su aprobación y publicación;
-
-II. Aprobar el Plan Estratégico para el Desarrollo Integral de la Juventud Veracruzana y sus programas operativos anuales;
-
-III. Aprobar los proyectos de presupuesto anual de ingresos, egresos y los estados financieros del Instituto, así como también, el manejo del Fondo;
-
-IV. Analizar, y en su caso, aprobar los programas y proyectos que presente el Director General;
-
-V. Nombrar y remover al personal de confianza a propuesta del Director General;
-
-VI. Aprobar, de acuerdo con las disposiciones legales aplicables, la elaboración de las bases que regulen los convenios, contratos o acuerdos que deba celebrar el Instituto con terceros en materia de obras públicas, adquisiciones, arrendamientos y prestación de servicios;
-
-VII. Conferir poderes generales y especiales, así como, su revocación;
-
-VIII. Vigilar el cumplimiento de los fines del Instituto;
-
-IX. Aprobar el informe anual de actividades que le presente el Director General;
-
-X. Dictar las normas generales sobre las constancias, certificaciones, actas circunstanciadas y demás instrumentos públicos que expida el Instituto en ejercicio de sus funciones;
-
-XI. Dictar las normas generales para otorgar becas, estímulos y demás apoyos económicos que brinde el Instituto a los jóvenes;
-
-XII. Realizar la distribución del territorio del Estado de Veracruz en cuatro zonas, a fin de que el Director pueda designar a los Directores Municipales que serán miembros del Consejo de Jóvenes; y
-
-XIII. Las demás que se establezcan en la presente Ley y otros ordenamientos jurídicos.
+(DEROGADO, G.O. 6 DE OCTUBRE DE 2011)
 
 ###### Artículo 51.
 
-La Junta de Gobierno celebrará sesiones ordinarias por lo menos seis veces por año y las extraordinarias a que convoque su Presidente o la mayoría de los integrantes.
-
-La Junta de Gobierno, sesionará válidamente con la asistencia de por lo menos la mitad más uno de sus miembros, siempre y cuando la mayoría de los asistentes sean representantes de la Administración Pública del Estado. Las resoluciones se tomarán por el voto de la mayoría de los miembros presentes, y el Presidente, tendrá voto de calidad en caso de empate.
+(DEROGADO, G.O. 6 DE OCTUBRE DE 2011)
 
 ###### Artículo 52.
 
-Corresponde al Presidente de la Junta de Gobierno:
+(DEROGADO, G.O. 6 DE OCTUBRE DE 2011)
 
-I. Instalar y presidir las sesiones ordinarias y extraordinarias de la Junta de Gobierno;
-
-II. Iniciar, concluir y en su caso suspender las sesiones de la Junta, así como, dirigir y coordinar las intervenciones sobre los proyectos y asuntos tratados a su consideración;
-
-III. Someter a votación los asuntos tratados;
-
-IV. Delegar en los miembros de la Junta de Gobierno la ejecución y realización de responsabilidades específicas para la consecuencia del objeto del Instituto; y
-
-V. Las demás que establezcan las disposiciones legales aplicables.
+> <small>(DEROGADA CON LOS ARTICULOS QUE LA INTEGRAN, G.O. 6 DE OCTUBRE DE 2011)</small>
 
 #### SECCIÓN SEGUNDA. De la Dirección General
 
 ###### Artículo 53.
 
-El Director General del Instituto es nombrado y removido libremente por el Gobernador del Estado de Veracruz.
+(DEROGADO, G.O. 6 DE OCTUBRE DE 2011)
 
 ###### Artículo 54.
 
-Para ser Director General del Instituto se requiere:
-
-I. Ser veracruzano de nacimiento en pleno ejercicio de sus derechos;
-
-II. Contar con los conocimientos y experiencia en programas y políticas de la juventud;
-
-III. Gozar de buena reputación y no haber sido condenado por delito intencional que amerite pena corporal de más de un año de prisión, pero si se tratare de robo, fraude, falsificación, abuso de confianza u otro que lastime la buena fama en concepto público, se considerará inhabilitado para el cargo, cualquiera que haya sido la pena; y
-
-IV. Poseer el día de su designación, título y cédula profesional de licenciatura.
+(DEROGADO, G.O. 6 DE OCTUBRE DE 2011)
 
 ###### Artículo 55.
 
-El Director General del Instituto, tendrá las siguientes atribuciones:
+(DEROGADO, G.O. 6 DE OCTUBRE DE 2011)
 
-I. Representar legalmente al Instituto;
+> <small>(REFORMADA SU DENOMINACION, G.O. 6 DE OCTUBRE DE 2011)</small>
 
-II. Asistir con carácter de secretario a las sesiones que celebre la Junta con voz y voto, así como también ejecutar los acuerdos y disposiciones de la Junta de Gobierno;
+#### SECCIÓN TERCERA. Del Programa Estratégico para el Desarrollo Integral de la Juventud Veracruzana
 
-III. Elaborar el Plan Estratégico para el Desarrollo Integral de la Juventud Veracruzana y sus programas operativos anuales en coordinación con el Consejo de Jóvenes;
-
-IV. Elaborar y someter a la consideración de la Junta de Gobierno los anteproyectos institucionales, de presupuesto y operativo anual del Instituto;
-
-V. Presentar ante la Junta de Gobierno los manuales de organización y de procedimientos del Instituto para su aprobación y difusión.
-
-VI. Presentar a la Junta de Gobierno, un informe anual de las actividades, avance de programas y estados financieros con las observaciones que estime pertinentes y que permitan conocer el estado administrativo y operativo del Instituto. Así mismo, presentará los informes que le solicite la Junta de Gobierno;
-
-VII. Establecer canales de información adecuados a fin de que sean difundidos oportunamente los programas y actividades en las Direcciones Municipales y Comités Municipales;
-
-VIII. Promover el mejoramiento técnico, administrativo y patrimonial del Instituto;
-
-IX. Crear el Fondo de Apoyo a Proyectos Juveniles del Estado de Veracruz con la participación de los sectores públicos, social y privado. Dicho Fondo tendrá el objetivo de apoyar iniciativas juveniles autónomas. Rendir informes ante la Junta del manejo del Fondo;
-
-X. Crear y presidir el Consejo de Jóvenes con la finalidad de que las acciones, programas y demás actividades del Instituto sean un reflejo de la realidad de la juventud veracruzana;
-
-XI. Acordar con el Director del Instituto Veracruzano del Deporte las acciones de carácter deportivo que deban desarrollar coordinadamente;
-
-XII. Otorgar facultades para el desempeño de comisiones especiales a los funcionarios del Instituto, cuando así lo considere conveniente;
-
-XIII. Crear la Red Juvenil mediante el padrón de organizaciones, asociaciones o grupos afines, que tengan como temática la juventud, auxiliándose de las direcciones municipales y demás unidades administrativas a su cargo;
-
-XIV. Proponer y ejecutar las medidas generales sobre el régimen interior, el cumplimiento de las políticas y programas para el desarrollo de la juventud;
-
-XV. Elaborar manuales de organización, de procedimientos y servicio al público;
-
-XVI. Proponer a la Junta de Gobierno, el nombramiento o remoción del personal de confianza del Instituto;
-
-XVII. Nombrar y remover, en su caso, a los trabajadores que presten sus servicios en el Instituto cuya designación no esté a cargo de la Junta de Gobierno;
-
-XVIII. Recabar información y elementos estadísticos sobre las funciones del Instituto para mejorar su desempeño;
-
-XIX. Elegir a los cuatro directores municipales que serán miembros del Consejo de Jóvenes de acuerdo con la distribución del territorio del Estado de Veracruz que sea aprobado en la Junta Directiva; y
-
-XX. Las demás que establezca la presente Ley, y la normatividad aplicable.
-
-#### SECCIÓN TERCERA. Del Plan Estratégico para el Desarrollo Integral de la Juventud Veracruzana
+> <small>(REFORMADO, G.O. 6 DE OCTUBRE DE 2011)</small>
 
 ###### Artículo 56.
 
-El Plan tendrá una duración de 6 años y no podrá contravenir al Plan Veracruzano de Desarrollo. Debe contemplar todas las acciones, programas y estrategias tendientes a la protección de los derechos de la juventud veracruzana, así como, también crear los canales necesarios para mejorar las condiciones en todos los ámbitos posibles de ésta encaminados a su desarrollo integral.
+El Programa tendrá una duración de seis años y no podrá contravenir al Plan Veracruzano de Desarrollo. Deberá prever todas las acciones, programas y estrategias tendientes a la protección de los derechos de la juventud veracruzana, así como también crear los canales necesarios para mejorar sus condiciones en todos los ámbitos posibles, encaminados a su desarrollo integral.
 
 #### SECCIÓN CUARTA. Del Consejo de Jóvenes
 
+> <small>(REFORMADO, G.O. 6 DE OCTUBRE DE 2011)</small>
+
 ###### Artículo 57.
 
-El Instituto contará con un Consejo de Jóvenes. Todos los cargos de éste, serán de carácter honorífico, por lo que no tendrán retribución económica alguna. Este órgano de Consulta tiene como fin asesorar, proponer, opinar y apoyar los planes, programas y proyectos que se impulsen para el logro del Instituto, así como también, colaborar en la elaboración del Plan Estratégico para el Desarrollo Integral de la Juventud Veracruzana.
+La Secretaría de Gobierno contará, para los efectos de la presente Ley, con un órgano de consulta denominado Consejo de Jóvenes, que tendrá como fin asesorar, proponer, opinar y apoyar programas y proyectos que se impulsen, así como también colaborar en la elaboración del Programa. Todos los cargos en el Consejo serán de carácter honorífico, por lo que sus integrantes no tendrán retribución económica alguna.
+
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 6 DE OCTUBRE DE 2011)</small>
 
 ###### Artículo 58.
 
-El Consejo de Jóvenes estará integrado de la siguiente forma:
+El Consejo estará integrado de la siguiente forma:
 
-I. Por el Director General del Instituto, quien lo presidirá;
+> <small>(REFORMADA, G.O. 6 DE OCTUBRE DE 2011)</small>
+
+I. Por el titular del órgano administrativo responsable que establezca el Reglamento Interior de la Secretaría de Gobierno, quien lo presidirá;
 
 II. Por un Secretario que será electo por los miembros del Consejo con duración en su cargo de un año;
 
@@ -739,9 +657,11 @@ IV. Por un representante del Poder Legislativo que de acuerdo a los fines de la 
 
 V. Por cuatro Directores Municipales.
 
+> <small>(REFORMADO, G.O. 6 DE OCTUBRE DE 2011)</small>
+
 ###### Artículo 59.
 
-Para la elección de los integrantes que hace referencia la fracción III del artículo 58, será necesario emitir una convocatoria estatal donde se establezcan las bases y lineamientos que regirán dicha elección. Los creadores de los diez mejores proyectos a juicio de la Junta, serán los que formarán parte del Consejo.
+Para la elección de los integrantes a que hace referencia la fracción III del artículo 58, se emitirá una convocatoria estatal para la presentación de proyectos relacionados con la juventud. Los creadores de los diez mejores proyectos, a juicio de la Secretaría de Gobierno, serán los que formarán parte del Consejo.
 
 ###### Artículo 60.
 
@@ -751,23 +671,33 @@ I. Elaborar proyectos, investigaciones y estudios en la materia;
 
 II. Sugerir medidas y acciones para afianzar el cumplimiento de los compromisos estatales concernientes a la atención de jóvenes;
 
-III. Emitir opiniones respecto de los mecanismos utilizados para la elaboración y el contenido del Plan;
+> <small>(REFORMADA, G.O. 6 DE OCTUBRE DE 2011)</small>
 
-IV. Analizar los objetivos del Plan y las metas alcanzadas para fortalecer los proyectos y acciones derivadas de él;
+III. Emitir opiniones respecto de los mecanismos utilizados para la elaboración y el contenido del Programa;
 
-V. Mantener relaciones de colaboración y coordinación con la Junta y la Dirección; y
+> <small>(REFORMADA, G.O. 6 DE OCTUBRE DE 2011)</small>
+
+IV. Analizar los objetivos del Programa y las metas alcanzadas para fortalecer los proyectos y acciones derivadas del mismo;
+
+> <small>(REFORMADA, G.O. 6 DE OCTUBRE DE 2011)</small>
+
+V. Mantener relaciones de colaboración y coordinación con la Secretaría de Gobierno; y
 
 VI. Las demás que le otorguen otras disposiciones legales.
 
 #### SECCIÓN QUINTA. De las Direcciones Municipales
 
+> <small>(REFORMADO, G.O. 6 DE OCTUBRE DE 2011)</small>
+
 ###### Artículo 61.
 
-Los Ayuntamientos de acuerdo a sus posibilidades presupuestales, podrán crear Direcciones Municipales, las que operarán en el ámbito de su competencia y jurisdicción de manera similar al Instituto de la Juventud Veracruzana. Para que una Dirección Municipal, promueva o impulse programas definidos en el Plan Estratégico para el Desarrollo Integral de la Juventud, deberá suscribir el convenio correspondiente con el Instituto.
+Los Ayuntamientos, de acuerdo a sus posibilidades presupuestales, podrán crear Direcciones Municipales, las que operarán en el ámbito de su competencia y jurisdicción de manera similar al órgano administrativo responsable. Para que una Dirección Municipal promueva o impulse proyectos definidos en el Programa deberá suscribir el convenio correspondiente con la Secretaría de Gobierno.
+
+> <small>(REFORMADO, G.O. 6 DE OCTUBRE DE 2011)</small>
 
 ###### Artículo 62.
 
-El Director, de acuerdo con la distribución del territorio veracruzano que realice la Junta, elegirá a cuatro Directores Municipales para que sean miembros del Consejo de Jóvenes, quienes deberán cubrir los mismos requisitos del artículo 54 de esta Ley.
+El titular del órgano administrativo responsable, de acuerdo con la distribución del territorio veracruzano, elegirá como miembros del Consejo a cuatro Directores Municipales.
 
 #### SECCIÓN SEXTA. De los Comités Municipales
 
@@ -775,29 +705,17 @@ El Director, de acuerdo con la distribución del territorio veracruzano que real
 
 Los Comités Municipales se integrarán por jóvenes, organizaciones juveniles y cualquier organización o asociación cuya temática esté vinculada con la juventud. Estos grupos deberán registrarse ante las Direcciones Municipales a fin de elaborar un padrón que permita crear la Red Juvenil, misma que deberá contener a los funcionarios públicos jóvenes.
 
+> <small>(DEROGADA CON LOS ARTICULOS QUE LA INTEGRAN, G.O. 6 DE OCTUBRE DE 2011)</small>
+
 #### SECCIÓN SÉPTIMA. De la Contraloría Interna
 
 ###### Artículo 64.
 
-El Instituto tendrá un Contralor designado, por el Titular de la Contraloría General del Estado, previo acuerdo del Ejecutivo.
-
-La remuneración económica del Contralor será con cargo a la partida correspondiente de la Contraloría General del Estado prevista en el Presupuesto de Egresos del Estado.
+(DEROGADO, G.O. 6 DE OCTUBRE DE 2011)
 
 ###### Artículo 65.
 
-El Contralor tendrá las atribuciones siguientes:
-
-I. Vigilar que la administración de los recursos que integran el patrimonio del Instituto, se realice de acuerdo con las disposiciones de ley y los programas y directrices aprobados;
-
-II. Practicar auditorias a los estados financieros y de carácter administrativo al término del ejercicio, o antes si la Junta lo considera conveniente para elaborar la cuenta pública que se presentará en términos de ley al Órgano de Fiscalización Superior;
-
-III. Rendir anualmente en sesión de la Junta dictamen respecto de la información presentada por la Dirección;
-
-IV. Asistir con voz pero sin voto a las sesiones de la Junta;
-
-V. Supervisar las operaciones del Instituto; y
-
-VI. Las demás que le confieran esta ley u otras disposiciones aplicables.
+(DEROGADO, G.O. 6 DE OCTUBRE DE 2011)
 
 ### CAPÍTULO CUARTO. De Responsabilidades y Sanciones
 
@@ -809,11 +727,11 @@ Las autoridades y servidores públicos considerados en la presente Ley que incum
 
 ### Capítulo Único
 
-> <small>(REFORMADO, G.O. 22 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO, G.O. 6 DE OCTUBRE DE 2011)</small>
 
 ###### Artículo 67.
 
-El Instituto promoverá ante el Congreso del Estado, a través de los integrantes de la Comisión Permanente de Juventud y Deporte del Poder Legislativo del Estado, la instalación anual del Parlamento, mismo que se realizará durante la primera semana del mes de agosto.
+La Secretaría de Gobierno promoverá ante el Congreso del Estado, a través de los integrantes de la Comisión Permanente de Juventud y Deporte del Poder Legislativo del Estado, la instalación anual del Parlamento, mismo que se realizará durante la primera semana del mes de agosto.
 
 ###### Artículo 68.
 
@@ -821,9 +739,13 @@ El Parlamento contará con un Comité Organizador que se integrará de la siguie
 
 I. Los integrantes de la Comisión Permanente de Juventud y Deporte del Poder Legislativo del Estado;
 
-II. El Director General del Instituto de la Juventud Veracruzana; y
+> <small>(REFORMADA, G.O. 6 DE OCTUBRE DE 2011)</small>
 
-III. Un representante de la Secretaría de Educación y Cultura.
+II. El Secretario de Gobierno, por conducto del titular del órgano, administrativo responsable; y
+
+> <small>(REFORMADA, G.O. 6 DE OCTUBRE DE 2011)</small>
+
+III. Un representante de la Secretaría de Educación.
 
 > <small>(REFORMADO, G.O. 22 DE DICIEMBRE DE 2006)</small>
 
@@ -880,3 +802,23 @@ G.O. 22 DE DICIEMBRE DE 2006.
 Primero. El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
 
 Segundo. Se derogan todas las disposiciones que se opongan al presente.
+
+G.O. 6 DE OCTUBRE DE 2011.
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+Tercero. Se extingue el Organismo Público Descentralizado denominado Instituto de la Juventud Veracruzana, transfiriendo sus funciones a la Secretaría de Gobierno.
+
+Cuarto. Los servidores públicos que, en virtud de lo dispuesto por este Decreto, cambien de adscripción, conservarán sus derechos laborales conforme a la Ley.
+
+Quinto. Dentro de los treinta días siguientes a la entrada en vigor del presente Decreto, se deberá dar cabal cumplimiento al mismo.
+
+Sexto. Los recursos financieros, materiales y humanos del Organismo Público Descentralizado denominado Instituto de la Juventud Veracruzana serán transferidos a la Secretaría de Gobierno.
+
+Séptimo. La Contraloría General designará a un liquidador encargado de llevar a cabo el proceso de extinción del Organismo Público Descentralizado señalado en este ordenamiento.
+
+Octavo. Los asuntos en trámite a la entrada en vigor de este Decreto, serán resueltos por la Dependencia a la que se le atribuya la competencia correspondiente.
+
+Noveno. La Secretaría de Gobierno deberá adecuar su Reglamento Interior y demás disposiciones internas aplicables, en un término de sesenta días a partir del inicio de vigencia del presente Decreto.
