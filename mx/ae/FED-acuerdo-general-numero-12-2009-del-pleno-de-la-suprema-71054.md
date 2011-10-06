@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-numero-12-2009-del-pleno-de-la-suprema-71054"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2009-12-01"
-last_updated: "2010-05-04"
+last_updated: "2011-10-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=71054&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2009-11-23"
 
 ACUERDO GENERAL NUMERO 12/2009, DE VEINTITRES DE NOVIEMBRE DE DOS MIL NUEVE, DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, RELATIVO A LAS ATRIBUCIONES DE LOS TRIBUNALES COLEGIADOS DE CIRCUITO AL EJERCER LA COMPETENCIA DELEGADA PARA CONOCER DE LOS INCIDENTES DE INEJECUCION DE SENTENCIA Y DE REPETICION DEL ACTO RECLAMADO ASI COMO AL PROCEDIMIENTO QUE SE SEGUIRA EN ESTE ALTO TRIBUNAL AL CONOCER DE ESOS ASUNTOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 4 DE MAYO DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 6 DE OCTUBRE DE 2011.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el martes 1 de diciembre de 2009.
 
@@ -55,13 +55,15 @@ ACUERDO
 
 PRIMERO. El presente Acuerdo General tiene por objeto pormenorizar las atribuciones delegadas a los Tribunales Colegiados de Circuito respecto de los incidentes de inejecución, las denuncias de repetición del acto reclamado consideradas fundadas por el Juez de Distrito promovidos en términos de los artículos 105 y 108 de la Ley de Amparo, derivados de sentencias en que se conceda el amparo, dictadas por Jueces de Distrito o Tribunales Unitarios de Circuito; así como el procedimiento que se seguirá en este Alto Tribunal cuando un Tribunal Colegiado de Circuito le remita asuntos de los mencionados para los efectos de la fracción XVI del artículo 107 constitucional; sin menoscabo de que cuando la Suprema Corte de Justicia de la Nación lo estime relevante reasuma las atribuciones delegadas que le correspondan de origen.
 
-SEGUNDO. Cuando un Juez de Distrito haya desarrollado el procedimiento de ejecución de una sentencia en debido cumplimiento a lo establecido en el artículo 105 de la Ley de Amparo y en las tesis jurisprudenciales de la Suprema Corte de Justicia de la Nación, habiendo requerido a las autoridades vinculadas al cumplimiento del fallo y, en su caso, a sus dos superiores jerárquicos inmediatos, tomando en cuenta las atribuciones de éstos para cumplir la sentencia concesoria por sí o para obligar a aquéllas a su acatamiento, indicándoles con toda precisión las obligaciones a cargo de cada una de aquéllas, en el caso de que no se haya logrado el cumplimiento de la respectiva sentencia concesoria, deberá remitir el asunto al Tribunal Colegiado de Circuito que corresponda para iniciar el respectivo incidente de inejecución.
+> <small>(REFORMADO POR EL PUNTO UNICO DEL INSTRUMENTO NORMATIVO APROBADO POR EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION EL TRES DE OCTUBRE DE DOS MIL ONCE, D.O.F. 6 DE OCTUBRE DE 2011)</small>
+
+SEGUNDO. Cuando un Juez de Distrito haya desarrollado el procedimiento de ejecución de una sentencia en debido cumplimiento a lo establecido en el artículo 105 de la Ley de Amparo y en las tesis jurisprudenciales de la Suprema Corte de Justicia de la Nación, habiendo requerido a las autoridades vinculadas al cumplimiento del fallo y, en su caso, a su superior jerárquico, tomando en cuenta las atribuciones de éste para cumplir la sentencia concesoria por sí o para obligar a aquéllas a su acatamiento, indicándoles con toda precisión las obligaciones a cargo de cada una de aquéllas, en el caso de que no se haya logrado el cumplimiento de la respectiva sentencia concesoria, en un plazo razonable, deberá remitir el asunto al Tribunal Colegiado de Circuito que corresponda para iniciar el respectivo incidente de inejecución.
 
 TERCERO. Una vez que en un Tribunal Colegiado de Circuito se radique y registre un incidente de inejecución o una denuncia de repetición del acto reclamado de las indicadas en el considerando Cuarto de este Acuerdo se desarrollará el procedimiento siguiente:
 
-> <small>(REFORMADA POR EL PUNTO UNICO DEL INSTRUMENTO NORMATIVO APROBADO POR EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION EL VEINTIDOS DE ABRIL DE DOS MIL DIEZ, D.O.F. 4 DE MAYO DE 2010)</small>
+> <small>(REFORMADA POR EL PUNTO UNICO DEL INSTRUMENTO NORMATIVO APROBADO POR EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION EL TRES DE OCTUBRE DE DOS MIL ONCE, D.O.F. 6 DE OCTUBRE DE 2011)</small>
 
-I. Mediante acuerdo de presidencia se requerirá a las autoridades responsables respecto de las cuales se hubiese concedido el amparo, a las diversas que se estimen vinculadas a su cumplimiento o a las que se impute la repetición, con copia a los dos superiores jerárquicos de todas ellas, en su caso, para que en un plazo de tres días hábiles, contados a partir de la legal notificación del proveído respectivo, demuestren ante el Juzgado de Distrito y ante el propio Tribunal, el acatamiento de la ejecutoria o haber dejado sin efectos el acto de repetición, o le expongan las razones que tengan en relación con el incumplimiento de la sentencia o con la repetición del acto reclamado, apercibiéndolas de que, en caso de ser omisas ante ese requerimiento, se continuará el procedimiento respectivo que puede culminar con una resolución en la que se aplique lo previsto en la fracción XVI del artículo 107 de la Constitución Política de los Estados Unidos Mexicanos.
+I. Mediante acuerdo de presidencia se requerirá a las autoridades responsables respecto de las cuales se hubiese concedido el amparo, a las diversas que se estimen vinculadas a su cumplimiento o a las que se impute la repetición, con copia al superior jerárquico de todas ellas, en su caso, para que en un plazo de tres días hábiles, contados a partir de la legal notificación del proveído respectivo, demuestren ante el Juzgado de Distrito y ante el propio Tribunal, el acatamiento de la ejecutoria o haber dejado sin efectos el acto de repetición, o le expongan las razones que tengan en relación con el incumplimiento de la sentencia o con la repetición del acto reclamado, apercibiéndolas de que, en caso de ser omisas ante ese requerimiento, se continuará el procedimiento respectivo que puede culminar con una resolución en la que se aplique lo previsto en la fracción XVI del artículo 107 de la Constitución Política de los Estados Unidos Mexicanos.
 
 II. Los autos se remitirán al Magistrado que corresponda conforme al turno previamente establecido el cual contará, con quince días hábiles para presentar ante el Tribunal respectivo proyecto de resolución, en el que proponga:
 
@@ -71,9 +73,13 @@ II. Los autos se remitirán al Magistrado que corresponda conforme al turno prev
 
 1.2 Se advierta la necesidad de que el Juez de Distrito respectivo ordene la apertura de un incidente innominado para que se pronuncie sobre la imposibilidad material o jurídica para el cumplimiento de la sentencia que, en su caso, plantee la autoridad responsable, o bien lo solicite la quejosa conforme a lo previsto en el párrafo último del artículo 105 de la Ley de Amparo.
 
-1.3 Se advierta que no están debidamente acreditadas en el expediente las notificaciones correspondientes a las autoridades vinculadas al cumplimiento del fallo protector o, en su caso, a los dos superiores jerárquicos inmediatos.
+> <small>(REFORMADO POR EL PUNTO UNICO DEL INSTRUMENTO NORMATIVO APROBADO POR EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION EL TRES DE OCTUBRE DE DOS MIL ONCE, D.O.F. 6 DE OCTUBRE DE 2011)</small>
 
-1.4 Se advierta que tratándose de sentencias cuyo cumplimiento implique la devolución de numerario, el Juez de Distrito no haya desarrollado el procedimiento de ejecución conforme a lo establecido en la jurisprudencia del Pleno de este Alto Tribunal.
+1.3 Se advierta que no están debidamente acreditadas en el expediente las notificaciones correspondientes a las autoridades vinculadas al cumplimiento del fallo protector o, en su caso, al superior jerárquico inmediato de cada una de ellas.
+
+> <small>(REFORMADO POR EL PUNTO UNICO DEL INSTRUMENTO NORMATIVO APROBADO POR EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION EL TRES DE OCTUBRE DE DOS MIL ONCE, D.O.F. 6 DE OCTUBRE DE 2011)</small>
+
+1.4 Se advierta que tratándose de sentencias cuyo cumplimiento implique la devolución de una cantidad líquida, el Juez de Distrito no haya desarrollado el procedimiento de ejecución conforme a lo establecido en la jurisprudencia del Pleno de este Alto Tribunal.
 
 2. La devolución del expediente al juzgado de Distrito del conocimiento cuando ante el propio Tribunal Colegiado de Circuito se presenten documentos que, se estime, acreditan el cumplimiento del fallo protector.
 
@@ -85,31 +91,53 @@ Excepcionalmente, dicha remisión podrá realizarse aun cuando el fallo protecto
 
 Al conocer de un incidente de inejecución de sentencia, los Tribunales Colegiados de Circuito no podrán tener por cumplida una sentencia concesoria.
 
-CUARTO. Mediante proveído dictado por el Presidente de la Suprema Corte de Justicia de la Nación todos los asuntos de nuevo ingreso que correspondan a incidentes de inejecución de sentencia, inconformidades previstas en los artículos 105, párrafo tercero, y 108 de la Ley de Amparo, así como las denuncias de repetición del acto reclamado, se remitirán a las Salas, de conformidad con lo dispuesto en la fracción IV del artículo 74 del Reglamento Interior de este Alto Tribunal, lo cual se notificará por oficio a las autoridades vinculadas al cumplimiento del fallo protector y, en su caso, a sus dos superiores jerárquicos inmediatos.
+> <small>(REFORMADO PRIMER PARRAFO POR EL PUNTO UNICO DEL INSTRUMENTO NORMATIVO APROBADO POR EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION EL TRES DE OCTUBRE DE DOS MIL ONCE, D.O.F. 6 DE OCTUBRE DE 2011)</small>
+
+CUARTO. Mediante proveído dictado por el Presidente de la Suprema Corte de Justicia de la Nación todos los asuntos de nuevo ingreso que correspondan a incidentes de inejecución de sentencia, inconformidades previstas en los artículos 105, párrafo tercero, y 108 de la Ley de Amparo, así como las denuncias de repetición del acto reclamado, se remitirán a las Salas, de conformidad con lo dispuesto en la fracción IV del artículo 74 del Reglamento Interior de este Alto Tribunal, lo cual se notificará por oficio a las autoridades vinculadas al cumplimiento del fallo protector y, en su caso, a su superior jerárquico inmediato.
 
 En el supuesto de que un incidente de inejecución se remita por un Tribunal Colegiado de Circuito al haber dictaminado que la o las autoridades vinculadas al cumplimiento del fallo protector y, en su caso, los superiores jerárquicos incurrieron en contumacia, con base en las constancias remitidas por dicho tribunal o las que en su caso se presenten ante la Suprema Corte, previo análisis de éstas, sin más notificación que la indicada en el párrafo anterior, el Ministro ponente podrá someter el asunto al Pleno o a la Sala de su adscripción, en términos de lo indicado en los puntos Quinto o Sexto de este Acuerdo General, según corresponda.
 
-QUINTO. Una vez turnado a Ponencia un incidente de inejecución de los mencionados en el punto Cuarto de este Acuerdo General, preferentemente, dentro de los quince días hábiles siguientes podrá presentar al Tribunal Pleno el proyecto en el que se proponga la declaratoria de incumplimiento o de repetición del acto reclamado, salvo que las características particulares del asunto requieran un plazo mayor; y:
+> <small>(REFORMADO PRIMER PARRAFO POR EL PUNTO UNICO DEL INSTRUMENTO NORMATIVO APROBADO POR EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION EL TRES DE OCTUBRE DE DOS MIL ONCE, D.O.F. 6 DE OCTUBRE DE 2011)</small>
 
-I. En su caso, la causa de excusabilidad de aquél y el plazo prudente que se otorgará a la responsable para el debido cumplimiento, o bien, la propuesta de determinación de oficio del cumplimiento sustituto en términos de lo previsto en el párrafo segundo de la fracción XVI del artículo 107 constitucional.
+QUINTO. Una vez turnado a Ponencia un incidente de inejecución de los mencionados en el punto Cuarto de este Acuerdo General, preferentemente, dentro de los quince días hábiles siguientes se podrá presentar al Tribunal Pleno el proyecto en el que se proponga:
 
-II. En su caso, tanto la separación del cargo como la consignación de los servidores públicos contumaces, incluyendo a los dos superiores jerárquicos inmediatos de aquéllos, y/o únicamente la consignación de los que ya no ocupen el cargo respectivo.
+> <small>(REFORMADA POR EL PUNTO UNICO DEL INSTRUMENTO NORMATIVO APROBADO POR EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION EL TRES DE OCTUBRE DE DOS MIL ONCE, D.O.F. 6 DE OCTUBRE DE 2011)</small>
+
+I. En su caso, la causa de justificación del incumplimiento y el plazo razonable que se otorgará a la responsable para el debido cumplimiento, o bien, la propuesta de determinación del cumplimiento sustituto respecto de los diversos supuestos previstos en el párrafo tercero de la fracción XVI del artículo 107 constitucional.
+
+> <small>(REFORMADA POR EL PUNTO UNICO DEL INSTRUMENTO NORMATIVO APROBADO POR EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION EL TRES DE OCTUBRE DE DOS MIL ONCE, D.O.F. 6 DE OCTUBRE DE 2011)</small>
+
+II. En su caso, cuando sea injustificado o hubiere transcurrido el plazo sin que se haya cumplido la sentencia concesoria, la separación del cargo del titular de la autoridad responsable y de su superior jerárquico, así como su consignación ante el Juez de Distrito que corresponda. También se propondrá la consignación de los titulares que habiendo ocupado el cargo con anterioridad, hayan incumplido la ejecutoria respectiva.
+
+> <small>(ADICIONADA POR EL PUNTO UNICO DEL INSTRUMENTO NORMATIVO APROBADO POR EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION EL TRES DE OCTUBRE DE DOS MIL ONCE, D.O.F. 6 DE OCTUBRE DE 2011)</small>
+
+III. En su caso, de acreditarse la repetición del acto reclamado, la separación de su cargo del titular de la autoridad responsable, así como dar vista al Ministerio Público Federal, salvo que aquél no hubiere actuado dolosamente y deje sin efectos el acto repetido antes de que sea emitida la resolución, conforme a la citada fracción XVI del artículo 107 constitucional.
 
 Cuando se liste para sesión del Pleno un incidente de inejecución de sentencia o de repetición del acto reclamado, la Subsecretaría General de Acuerdos deberá expedir certificación en la cual haga constar las constancias recibidas en este Alto Tribunal en relación con dicho incidente, hasta quince minutos antes del inicio de la sesión. De recibirse posteriormente alguna constancia, deberá informar de inmediato al Pleno por conducto del Secretario General de Acuerdos, el que con la misma prontitud dará cuenta para que se resuelva lo que corresponda.
 
 Cuando se acredite ante el Pleno la sustitución del titular contumaz únicamente se determinará su consignación, sin menoscabo de requerir, por conducto de la Subsecretaría General de Acuerdos, al que lo sustituye para que en un plazo prudente cumpla con el fallo protector apercibido con la aplicación de lo previsto en la fracción XVI del artículo 107 de la Constitución Política de los Estados Unidos Mexicanos.
 
-SEXTO. En el supuesto de que el Ministro ponente estime que no ha lugar a proponer alguna de las resoluciones referidas en las fracciones I y II del punto Quinto de este Acuerdo General o bien, si antes de presentar al Pleno el referido proyecto, la autoridad contumaz remite a este Alto Tribunal constancias mediante las que pretenda acreditar el cumplimiento del fallo protector, dentro del plazo indicado en el párrafo primero del punto anterior, podrá en su caso, presentar ante la Sala de su adscripción proyecto de resolución en el que precise sus efectos y vincule a las autoridades competentes para su debido cumplimiento en un plazo específico, ordenándose la devolución del expediente al Juez de Distrito del conocimiento, para que agote el respectivo procedimiento de ejecución.
+> <small>(REFORMADO PRIMER PARRAFO POR EL PUNTO UNICO DEL INSTRUMENTO NORMATIVO APROBADO POR EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION EL TRES DE OCTUBRE DE DOS MIL ONCE, D.O.F. 6 DE OCTUBRE DE 2011)</small>
+
+SEXTO. En el supuesto de que el Ministro ponente estime que no ha lugar a proponer alguna de las resoluciones referidas en las fracciones I, II y III del punto Quinto de este Acuerdo General o bien, si antes de presentar al Pleno el referido proyecto, la autoridad contumaz remite a este Alto Tribunal constancias mediante las que pretenda acreditar el cumplimiento del fallo protector, dentro del plazo indicado en el párrafo primero del punto anterior, podrá en su caso, presentar ante la Sala de su adscripción proyecto de resolución en el que precise sus efectos y vincule a las autoridades competentes para su debido cumplimiento en un plazo específico, ordenándose la devolución del expediente al Juez de Distrito del conocimiento, para que agote el respectivo procedimiento de ejecución.
 
 En el caso de que con base en el análisis preliminar de las referidas constancias, estime que existen indicios de que se ha cumplido la respectiva sentencia concesoria, el propio Ministro ponente, mediante dictamen, devolverá el expediente al Juez de Distrito del conocimiento para que emita resolución en la que, en su caso, tenga por cumplido el fallo protector. En este supuesto se ordenará el archivo provisional del incidente respectivo hasta en tanto se acredite ante esta Suprema Corte que el Juez de Distrito ha tenido por cumplida la sentencia concesoria o, en caso contrario, se haya devuelto el expediente a este Alto Tribunal.
 
-SEPTIMO. En los asuntos en los que se declare la excusabilidad de la autoridad responsable en el incidente de inejecución se devolverá el expediente al Juez de Distrito del conocimiento y se ordenará su archivo provisional.
+> <small>(REFORMADO POR EL PUNTO UNICO DEL INSTRUMENTO NORMATIVO APROBADO POR EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION EL TRES DE OCTUBRE DE DOS MIL ONCE, D.O.F. 6 DE OCTUBRE DE 2011)</small>
 
-Semanalmente, la Subsecretaría General de Acuerdos informará al Pleno por conducto de la Secretaría General de Acuerdos, el estado que guardan los expedientes que se encuentren a su cargo en el archivo provisional, en la inteligencia de que los oficios de las autoridades responsables que informen a este Alto Tribunal sobre el cumplimiento de las sentencias de amparo, deberán remitirse de inmediato por la propia Subsecretaría al Ministro ponente, por conducto del secretario de estudio y cuenta que tenga a su cargo el asunto.
+SEPTIMO. En los incidentes de inejecución en los que se declare la justificación del incumplimiento de la autoridad responsable, el Presidente de la Suprema Corte de Justicia de la Nación, con apoyo de la Secretaría General de Acuerdos, dictará los acuerdos que resulten necesarios y dará seguimiento al debido cumplimiento del fallo protector, informando al Pleno sobre cualquier incidencia que se presente.
 
-OCTAVO. Una vez vencido el plazo al que se refiere la fracción I del punto Quinto de este Acuerdo General, la Subsecretaría General de Acuerdos devolverá el expediente relativo al Ministro ponente el que, con base en el análisis de las constancias respectivas, podrá proponer al Pleno la declaración de incumplimiento o de repetición del acto reclamado y la aplicación de las sanciones previstas en la fracción XVI del artículo 107 constitucional o el cumplimiento sustituto de la sentencia de amparo cuando su ejecución afecte gravemente a la sociedad o a terceros en mayor proporción que los beneficios económicos que pudiera obtener el quejoso; o bien, ante la Sala de su adscripción, la resolución en la que se tenga por cumplido el fallo protector.
+Si en el plazo razonable establecido para el cumplimiento del fallo protector, éste se acredita fehacientemente, el Ministro Ponente, con el apoyo de la Secretaria General de Acuerdos, emitirá dictamen de cumplimiento, con base en el cual el Presidente de la Sala de su adscripción declarará sin materia el incidente de inejecución, lo que permitirá darlo de baja del archivo provisional.
 
-NOVENO. En casos excepcionales en los que se devuelva el expediente al Juzgado de Distrito o al Tribunal Colegiado de Circuito para que subsane alguna omisión del procedimiento, el expediente registrado en la Suprema Corte de Justicia de la Nación quedará cerrado para efectos estadísticos y causará baja, por lo que únicamente permanecerán en archivo provisional los incidentes de inejecución o repetición del acto reclamado en los que el Pleno haya estimado excusable el incumplimiento y el mencionado en el párrafo último del punto Sexto de este Acuerdo General, en el que se devuelva el expediente al Juez de Distrito del conocimiento.
+Mensualmente, la Subsecretaría General de Acuerdos informará al Pleno por conducto de la Secretaría General de Acuerdos, el estado que guardan los expedientes que se encuentren a su cargo en el archivo provisional, en la inteligencia de que los oficios de las autoridades responsables que informen a este Alto Tribunal sobre el cumplimiento de las sentencias de amparo, deberán remitirse de inmediato por la propia Subsecretaría al Ministro ponente, por conducto del secretario de estudio y cuenta que tenga a su cargo el asunto.
+
+> <small>(REFORMADO POR EL PUNTO UNICO DEL INSTRUMENTO NORMATIVO APROBADO POR EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION EL TRES DE OCTUBRE DE DOS MIL ONCE, D.O.F. 6 DE OCTUBRE DE 2011)</small>
+
+OCTAVO. Una vez vencido el plazo razonable al que se refiere la fracción I del punto Quinto de este Acuerdo General, la Secretaría General de Acuerdos devolverá el expediente relativo al Ministro Ponente el que, con base en el análisis de las constancias respectivas, podrá proponer al Pleno la ampliación del plazo correspondiente, a solicitud debidamente justificada de la o las autoridades responsables; la declaración de incumplimiento injustificado y la aplicación de las sanciones previstas en la fracción XVI del artículo 107 constitucional; o, el cumplimiento sustituto de la sentencia de amparo cuando su ejecución afecte gravemente a la sociedad en mayor proporción a los beneficios que pudiera obtener el quejoso, o cuando, por las circunstancias del caso, sea imposible o desproporcionadamente gravoso restituir la situación que imperaba antes de la violación.
+
+> <small>(REFORMADO POR EL PUNTO UNICO DEL INSTRUMENTO NORMATIVO APROBADO POR EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION EL TRES DE OCTUBRE DE DOS MIL ONCE, D.O.F. 6 DE OCTUBRE DE 2011)</small>
+
+NOVENO. Cuando se devuelva el expediente al Juzgado de Distrito o al Tribunal Colegiado de Circuito para que subsane alguna omisión del procedimiento, el incidente registrado en la Suprema Corte de Justicia de la Nación quedará cerrado para efectos estadísticos y causará baja, por lo que únicamente permanecerán en archivo provisional los incidentes de inejecución o repetición del acto reclamado en los que el Pleno haya estimado justificado el incumplimiento y el mencionado en el párrafo último del punto Sexto de este Acuerdo General, en el que se devuelva el expediente al Juez de Distrito del conocimiento; sin menoscabo de que la Secretaría General de Acuerdos adopte las medidas necesarias para que de integrarse un nuevo incidente de inejecución derivado del mismo juicio de amparo, se turne a la misma Ponencia con la información correspondiente.
 
 DECIMO. Si durante el trámite de un incidente de inejecución sobreviniere una inconformidad o denuncia de repetición del acto reclamado en el mismo juicio de amparo y dicho incidente no se encuentra aún resuelto, se turnarán los asuntos relacionados al mismo Ministro designado como ponente, para que las resoluciones correspondientes se dicten conjuntamente.
 
@@ -132,6 +160,12 @@ EL LICENCIADO RAFAEL COELLO CETINA, SECRETARIO GENERAL DE ACUERDOS DE LA SUPREMA
 > <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 D.O.F. 4 DE MAYO DE 2010.
+
+PRIMERO. El presente Instrumento Normativo entrará en vigor al día siguiente de su aprobación.
+
+SEGUNDO. Publíquese este Instrumento Normativo en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y su Gaceta y en medios electrónicos de consulta pública en términos de lo dispuesto en el artículo 7, fracción XIV, de la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental; sin menoscabo de que la Secretaría General de Acuerdos difunda el texto íntegro del Acuerdo General Plenario 12/2009 en dichos medios electrónicos.
+
+D.O.F. 6 DE OCTUBRE DE 2011.
 
 PRIMERO. El presente Instrumento Normativo entrará en vigor al día siguiente de su aprobación.
 
