@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-271-de-desarrollo-integral-de-la-juventud-para-45993
 country: "mx"
 rank: "ley"
 publication_date: "2005-08-15"
-last_updated: "2006-12-22"
+last_updated: "2011-10-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45993&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,862 +21,1280 @@ state: "VER"
 ---
 # LEY NUMERO 271 DE DESARROLLO INTEGRAL DE LA JUVENTUD PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-LEY DE DESARROLLO INTEGRAL DE LA JUVENTUD
+LEY DE TURISMO DEL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 22 DE DICIEMBRE DE 2006.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE SEPTIEMBRE DE 2024.
 
-Ley publicada en la Gaceta Oficial del Gobierno del Estado de Veracruz de Ignacio de la Llave, el lunes 15 de agosto de 2005.
+Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el jueves 3 de julio de 2014.
 
-Al margen un sello que dice: Estados Unidos Mexicanos.- Gobernador del Estado de Veracruz de Ignacio de la Llave.
+EGIDIO TORRE CANTÚ, Gobernador Constitucional del Estado Libre y Soberano de Tamaulipas, a sus habitantes hace saber:
 
-Xalapa-Enríquez, Ver., a 9 de agosto de 2005.
+Que el Honorable Congreso del Estado, ha tenido a bien expedir el siguiente Decreto:
 
-Oficio número 565/2005
+Al margen un sello que dice:- "Estados Unidos Mexicanos.- Gobierno de Tamaulipas.- Poder Legislativo.
 
-Fidel Herrera Beltrán, Gobernador del Estado Libre y Soberano de Veracruz de Ignacio de la Llave, a sus habitantes sabed:
+LA SEXAGÉSIMA SEGUNDA LEGISLATURA DEL CONGRESO CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE TAMAULIPAS, EN USO DE LAS FACULTADES QUE LE CONFIEREN LOS ARTÍCULOS 58 FRACCIÓN I DE LA CONSTITUCIÓN POLÍTICA LOCAL Y 119 DE LA LEY SOBRE LA ORGANIZACIÓN Y FUNCIONAMIENTO INTERNOS DEL CONGRESO DEL ESTADO DE TAMAULIPAS, TIENE A BIEN EXPEDIR EL SIGUIENTE:
 
-Que la Sexagésima Legislatura del Honorable Congreso del Estado se ha servido dirigirme la siguiente Ley para su promulgación y publicación:
+D E C R E T O No. LXII-250
 
-Al margen un sello que dice: Estados Unidos Mexicanos.- Poder Legislativo.- Estado Libre y Soberano de Veracruz de Ignacio de la Llave.
+MEDIANTE EL CUAL SE EXPIDE LA LEY DE TURISMO DEL ESTADO DE TAMAULIPAS.
 
-La Sexagésima Legislatura del Honorable Congreso del Estado Libre y Soberano de Veracruz de Ignacio de la Llave, en uso de la facultad que le confieren los artículos 33, fracción I y 38 de la Constitución Política local; 18 fracción I y 47 segundo párrafo de la Ley Orgánica del Poder Legislativo; 75 y 76 del Reglamento para el Gobierno Interior del Poder Legislativo; y en nombre del pueblo, expide la siguiente:
+###### ARTÍCULO ÚNICO.
 
-LEY NÚMERO 271
+Se expide la Ley de Turismo del Estado de Tamaulipas, para quedar como sigue:
 
-DE DESARROLLO INTEGRAL DE LA JUVENTUD PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE.
+LEY DE TURISMO DEL ESTADO DE TAMAULIPAS
 
-## TÍTULO PRIMERO. Disposiciones Generales
+## TÍTULO PRIMERO. DISPOSICIONES GENERALES
 
-### Capitulo Único
+### CAPÍTULO I. NATURALEZA DE LA LEY Y SU OBJETO
 
-###### Artículo 1.
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2016)</small>
 
-La presente Ley es de orden público, interés social y observancia general en el estado de Veracruz. Tiene por objeto establecer los derechos de la juventud veracruzana, vigilar y hacer obedecer su debido cumplimiento por parte de las autoridades estatales y municipales, los principios rectores de las políticas públicas que contribuyan a su desarrollo integral, así como, regular el funcionamiento del Instituto de la Juventud Veracruzana y la creación y funcionamiento del Parlamento de la Juventud Veracruzana.
+###### ARTÍCULO 1.
 
-###### Artículo 2.
+1. La presente Ley es de interés público y observancia general en todo el territorio del Estado, correspondiendo su aplicación al Ejecutivo Estatal, a través de la Secretaría de Turismo y a los municipios en sus respectivos ámbitos de competencia.
 
-Para efectos de esta Ley se entiende por:
+2. La interpretación en el ámbito administrativo, corresponderá al Ejecutivo Estatal, a través de la Secretaría de Turismo.
 
-I. Autoridad Estatal: Al titular del Poder Ejecutivo;
+###### ARTÍCULO 2.
 
-II. Autoridad Municipal: Al Ayuntamiento;
+Esta Ley tiene por objeto:
 
-III. Consejo: Al Consejo de Jóvenes del Instituto de la Juventud Veracruzana;
+I. La planeación, promoción y programación de la actividad turística conforme a lo establecido en la Ley General de Turismo y el Plan Estatal de Desarrollo, impulsando la participación de los sectores público, social y privado;
 
-IV. Contraloría: A la Contraloría Interna del Instituto;
+II. Desarrollar programas que impulsen el turismo social;
 
-V. DIF: Al Sistema para el Desarrollo Integral de la Familia;
+III. Impulsar mecanismos que induzcan a la creación, desarrollo y protección de los recursos y atractivos turísticos de manera eficiente, procurando la preservación del equilibrio ecológico y a la vez salvaguarden y fortalezcan el patrimonio nacional, histórico y cultural de cada región del Estado, en los términos de la legislación de la materia;
 
-VI. Director: Al Director General del Instituto de la Juventud Veracruzana;
+IV. Estimular, promover y alentar la inversión privada y social, nacional o extranjera, como un medio para mejorar el nivel de vida económico, social y cultural de los habitantes del territorio del Estado, buscando apoyar a la micro y pequeña empresa con interés en las actividades turísticas;
 
-VII. Estado: Al Estado de Veracruz de Ignacio de la Llave;
+V. Establecer los mecanismos de coordinación y participación de las autoridades municipales que favorezcan el desarrollo del turismo y la desconcentración progresiva de los programas turísticos;
 
-VIII. Fondo: Al Fondo de Apoyo a Proyectos Juveniles del Estado de Veracruz;
+VI. Promover la celebración de Acuerdos y Convenios de Coordinación con Autoridades Federales, Estatales y Municipales para impulsar las actividades turísticas;
 
-IX. Instituto: Al Instituto de la Juventud Veracruzana (INJUVER);
+VII. Establecer las medidas necesarias para la aplicación y cumplimiento de esta Ley y demás ordenamientos legales de la materia;
 
-X. Joven: Ser humano cuya edad comprende el rango entre los 15 y los 29 años;
+VIII. Establecer los mecanismos que de manera eficiente orienten, protejan y auxilien al turista;
 
-XI. Junta: A la Junta de Gobierno del Instituto de la Juventud Veracruzana;
+IX. Concertar programas que mejoren la calidad de los servicios turísticos e incrementen la productividad;
 
-XII. Juventud: Al conjunto de las y los jóvenes;
+X. Desarrollar acciones que favorezcan la oferta turística y fomenten la afluencia del turismo nacional y extranjero hacia el Estado;
 
-XIII. Ley: A la Ley de Desarrollo Integral de la Juventud;
+XI. Optimizar la calidad y competitividad de los servicios turísticos en el Estado; e
 
-XIV. Parlamento: Al Parlamento de la Juventud Veracruzana;
+XII. Impulsar la modernización de la actividad turística local.
 
-XV. Plan: Al plan estratégico para el Desarrollo Integral de la Juventud
+###### ARTÍCULO 3.
 
-Veracruzana;
+Para los efectos de la presente Ley, se entenderá por:
 
-XVI. Red Juvenil: A la red de Organizaciones Juveniles del estado de Veracruz; y
+I. Actividades Turísticas: Las que realizan las personas durante sus viajes y estancias temporales en lugares distintos al de su entorno habitual, con fines de ocio, recreación, placer, descanso y otros motivos;
 
-XVII. Reglamento: Al Reglamento Interior del Instituto.
+II. Atlas Turístico de México: En términos de la Ley General, es el registro sistemático de carácter público de todos los bienes, recursos naturales y culturales que puedan constituirse en atractivos turísticos nacionales, sitios de interés y en general todas aquellas zonas y áreas territoriales del desarrollo del turismo;
 
-###### Artículo 3.
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2023)</small>
 
-Son principios rectores en la observancia, interpretación y aplicación de esta Ley, los siguientes:
+III. Atlas Turístico de Tamaulipas: El registro sistemático de carácter público de todos los bienes, recursos naturales, gastronómicos y culturales que puedan constituirse en atractivos turísticos, sitios de interés y en general todas aquellas zonas y áreas territoriales del desarrollo del turismo, con que cuenta el Estado;
 
-I. La corresponsabilidad del Estado, los municipios, la sociedad y la familia en la atención integral de la juventud;
+IV. Comisión: La Comisión Ejecutiva de Turismo del Estado de Tamaulipas;
 
-II. La concurrencia de los diferentes órdenes de gobierno en sus respectivos ámbitos de competencia en la tutela y atención integral de la juventud;
+V. Consejo: El Consejo Consultivo de Turismo del Estado de Tamaulipas;
 
-III. El de igualdad y equidad de oportunidades para la juventud veracruzana;
+VI. Cultura turística: El conjunto de conocimientos y valores, relativos a la enseñanza, promoción, fomento, desarrollo y operación del turismo;
 
-IV. El de respeto y reconocimiento a la diversidad de la juventud;
+VII. Municipios: Los órganos político - administrativos reconocidos por el artículo 3o de la Constitución Política del Estado de Tamaulipas;
 
-V. La no discriminación de la juventud, cualquiera que sea su condición social, salud, origen étnico, afiliación partidista, religión u otra reconocida por la Ley, formación y grados académicos;
+VIII. Estado: El Estado libre y soberano de Tamaulipas;
 
-VI. La participación libre y democrática en los procesos de toma de decisiones que afecten su entorno.
+IX. Estudio de capacidad de carga: El estudio que realiza la Secretaría y que señala el nivel de aprovechamiento turístico de una zona determinada, de acuerdo a lo señalado en el Reglamento;
 
-## TÍTULO SEGUNDO. De los Derechos y Deberes de la Juventud
+X. Gobernador: El Titular del Poder Ejecutivo del Estado de Tamaulipas;
 
-### Capítulo primero. De los Derechos
+XI. Ley: La Ley de Turismo para el Estado de Tamaulipas;
+
+XII. Ley General: La Ley General de Turismo;
+
+XIII. Ordenamiento Turístico del Territorio: Instrumento de la política turística, bajo el enfoque social, ambiental y territorial, cuya finalidad es conocer e inducir el uso de suelo y las actividades productivas, con el propósito de lograr el aprovechamiento ordenado y sustentable de los recursos turísticos, de conformidad con las disposiciones jurídicas aplicables en materia de medio ambiente y asentamientos humanos;
+
+XIV. Patrimonio Turístico: El conjunto de bienes y servicios de cualquier naturaleza que generan el interés de los turistas por sus características y valores naturales, históricos, culturales, estéticos o simbólicos, y que deben ser conservados y protegidos para el disfrute de las presentes y futuras generaciones;
+
+XV. Prestadores de Servicios Turísticos: Las personas físicas o morales que ofrezcan, proporcionen, o contraten con el turista, la prestación de los servicios a que se refiere esta Ley y su Reglamento;
+
+XVI. Programa: El Programa de Turismo del Estado de Tamaulipas;
+
+XVII. Promoción Turística: El conjunto de actividades, estrategias y acciones de comunicación persuasiva, que tienen por objeto dar a conocer en los ámbitos regional, nacional e internacional los atractivos turísticos, el patrimonio turístico y los servicios turísticos del Estado de Tamaulipas;
+
+XVIII. Registro Nacional de Turismo: Es el catálogo público de prestadores de servicios turísticos en el país, el cual constituye el mecanismo por el que el Ejecutivo Federal, los Estados y Municipios, podrán contar con información sobre los prestadores de servicios turísticos a nivel nacional, con objeto de conocer mejor el mercado turístico y establecer comunicación con las empresas cuando se requiera;
+
+XIX. Registro Estatal de Turismo: Es el catálogo público de prestadores de servicios turísticos en Tamaulipas;
+
+XX. Reglamento: El Reglamento de la Ley de Turismo para el Estado de Tamaulipas;
+
+XXI. Reglamento de la Ley General: El Reglamento de la Ley General de Turismo;
+
+> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2016)</small>
+
+XXII. Secretaría: La Secretaría de Turismo del Estado de Tamaulipas;
+
+XXIII. SECTUR: Secretaría de Turismo de la Administración Pública Federal;
+
+XXIV. Servicios Turísticos: Los dirigidos a atender las solicitudes de los turistas a cambio de una contraprestación, en apego con lo dispuesto por esta Ley y su Reglamento;
+
+> <small>(ADICIONADA, P.O. 11 DE OCTUBRE DE 2023)</small>
+
+XXIV Bis. Turismo Gastronómico: Es aquel que tiene como objetivo que el turista conozca y experimente de la diversidad culinaria del Estado a través de la promoción de los platillos típicos, productos alimenticios locales, asistencia a eventos gastronómicos, mercados populares, restaurantes, locales y lugares específicos para su degustación;
+
+> <small>(ADICIONADA, P.O. 24 DE SEPTIEMBRE DE 2024)</small>
+
+XXIV Ter. El Turismo Espacial es el conjunto de actividades que posibilita la exploración más allá de la atmósfera terrestre, es una oportunidad para el desarrollo e innovación en la tecnología espacial nacional y para potenciar la inversión;
+
+XXV. Turismo Social: Actividad encaminada a que los habitantes de cualquier nivel socioeconómico puedan participar de los beneficios de la actividad turística, en condiciones adecuadas de economía, seguridad y comodidad;
+
+XXVI. Turismo Sustentable: Es aquel que cumple con las siguientes directrices:
+
+a) Dar un uso óptimo a los recursos naturales aptos para el desarrollo turístico, ayudando a conservarlos con apego a las leyes en la materia;
+
+b) Respetar la autenticidad sociocultural de las comunidades anfitrionas, conservando sus atractivos culturales, sus valores tradicionales y arquitectónicos, y
+
+c) Asegurar el desarrollo de las actividades económicas viables, que reporten beneficios socioeconómicos, entre los que se cuenten oportunidades de empleo y obtención de ingresos y servicios sociales para las comunidades anfitrionas, que contribuyan a mejorar las condiciones de vida;
+
+XXVII. Turistas: Las personas que viajan temporalmente fuera de su lugar de residencia habitual y que utilicen alguno de los servicios turísticos a que se refiere esta Ley, sin perjuicio de lo dispuesto para efectos migratorios por la Ley General de Población; y
+
+XXVIII. Zonas de Desarrollo Turístico Sustentable: Aquellas fracciones del territorio del Estado de Tamaulipas, claramente ubicadas y delimitadas geográficamente, que, por sus características naturales o culturales, constituyen un atractivo turístico.
+
+## TÍTULO SEGUNDO. DE LAS AUTORIDADES Y SU COORDINACIÓN
+
+### CAPÍTULO II. DEFINICIONES
 
 #### Sección primera. De los Derechos Fundamentales
 
-###### Artículo 4.
+###### ARTÍCULO 4.
 
-Son derechos de la juventud, los conferidos por la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado Libre y Soberano de Veracruz de Ignacio de la Llave, los demás ordenamientos nacionales o internacionales aplicables y los que expresamente señala esta Ley.
+Corresponde al Gobernador:
 
-###### Artículo 5.
+I. Formular, conducir y evaluar la política turística local;
 
-El Gobierno del Estado, mediante el apoyo del Instituto de la Juventud Veracruzana, en coordinación con las autoridades de la administración pública centralizada y paraestatal, las organizaciones no gubernamentales, debe crear, promover y apoyar, por todos los medios a su alcance, el cumplimiento y protección de los derechos de los jóvenes.
+II. Publicar en el Periódico Oficial del Estado el Programa derivado del Plan Estatal de Desarrollo;
 
-###### Artículo 6.
+III. Publicar en el Periódico Oficial del Estado el Decreto por el que se expide el ordenamiento territorial turístico del Estado;
 
-La juventud tiene derecho a vivir esta etapa de su vida con calidad, creatividad, vitalidad e impregnada de valores que contribuyan (sic) su pleno desarrollo y expresión de su potencialidad y capacidad humana.
+IV. Establecer y presidir el Consejo en los términos que fija la Ley y demás ordenamientos aplicables;
 
-###### Artículo 7.
+V. Emitir opiniones a la SECTUR en materia turística; y
 
-La juventud con capacidades diferentes, ya sea por disminución en sus facultades físicas, intelectuales o sensoriales que le limitan para realizar una actividad normal, tiene derecho a disfrutar de una vida plena y digna.
+VI. Las demás previstas en éste y otros ordenamientos.
 
-El Plan Estratégico para el Desarrollo Integral de la Juventud Veracruzana deberá contemplar los mecanismos necesarios para que la juventud con esta característica pueda llegar a bastarse a sí misma, teniendo como objetivo su participación activa en la comunidad.
+###### ARTÍCULO 5.
+
+El Gobernador, a través de la Secretaría, además de las atribuciones que le asignan las disposiciones legales vigentes, le corresponde el despacho de los siguientes asuntos:
+
+I. Presentar al Gobernador para su aprobación y en su caso publicación en el Periódico Oficial del Estado, un proyecto de Programa, siguiendo las directrices previstas en el Plan Nacional de Desarrollo, el Programa Sectorial de Turismo y el Plan Estatal de Desarrollo;
+
+II. Solicitar al Gobernador emita opiniones o sugerencias en materia turística a la SECTUR;
+
+III. Celebrar y suscribir convenios o acuerdos de coordinación, previa autorización del Gobernador, con dependencias y entidades del Estado, la federación y los municipios, así como convenios o acuerdos de concertación con organizaciones del sector privado, social y educativo;
+
+IV. Aplicar los instrumentos de política turística previstos en esta Ley y demás disposiciones normativas aplicables, así como la planeación, programación, fomento y desarrollo de la actividad turística que se realice en bienes y áreas de competencia local;
+
+V. Impulsar el fortalecimiento de la competitividad turística del Estado de Tamaulipas a través de las instituciones e instrumentos previstos en la Ley y/o cualquier otra acción análoga que conlleve a la materialización del presente objetivo;
+
+VI. Concertar con los sectores privado y social, las acciones tendientes a detonar programas a favor de la actividad turística;
+
+VII. Presentar al Gobernador para su aprobación y en su caso publicación en el Periódico Oficial del Estado un proyecto de ordenamiento turístico del territorio del Estado, debiendo ejecutar y evaluarlo con la participación que corresponda a los Municipios implicados en términos de la presente Ley y demás normatividad aplicable;
+
+VIII. Proponer proyectos de Zonas de Desarrollo Turístico Sustentable a la SECTUR con la participación de los municipios implicados territorialmente, así como participar en la regulación, administración y vigilancia de las Zonas de Desarrollo Turístico Sustentable en los Municipios del Estado, conforme a los convenios que al efecto se suscriban;
+
+IX. Conducir la política local de información y difusión en materia turística en coordinación con el área administrativa correspondiente del Gobierno del Estado;
+
+X. Proyectar y promover el desarrollo de la infraestructura turística;
+
+XI. Impulsar a las micro, pequeñas y medianas empresas turísticas que operen en el Estado;
+
+XII. Diseñar, instrumentar, ejecutar y evaluar, los programas de investigación para el desarrollo turístico del Estado;
+
+XIII. Participar en programas de prevención y atención de emergencias y desastres, así como en acciones para la gestión integral de los riesgos conforme a las políticas y programas de protección civil que al efecto se establezcan;
+
+XIV. Proporcionar orientación y asistencia a los turistas, directamente o a través de la Red de Módulos de Información Turística;
+
+XV. Atender los asuntos que afecten el desarrollo de la actividad turística de dos o más Municipios del Estado;
+
+XVI. Coadyuvar con el Ejecutivo Federal en materia de clasificación de establecimientos hoteleros y de hospedaje, en los términos de la regulación correspondiente;
+
+XVII. Recibir quejas en contra de autoridades y prestadores de servicios turísticos, con la finalidad de implementar las medidas pertinentes para mejorar la calidad en la prestación de los servicios turísticos;
+
+XVIII. Operar, por sí o a través de terceros, la Red de Centros y Módulos de Información Turística del Estado de Tamaulipas, en las ubicaciones con mayor afluencia de turistas en el Estado;
+
+XIX. Difundir información a la ciudadanía en general respecto de aspectos de interés general en materia turística;
+
+XX. Informar y orientar a los prestadores de servicios turísticos en materia de normatividad, acceso a financiamientos y estímulos, participación en los programas y reconocimientos de la Secretaría;
+
+XXI. Llevar a cabo la promoción turística del patrimonio turístico del Estado, en coordinación con las dependencias facultadas conforme a la Ley Orgánica de la Administración Pública del Estado;
+
+XXII. Asesorar a los prestadores de servicios turísticos en la constitución y organización de empresas y cooperativas turísticas, así como en la conformación e integración de cadenas productivas;
+
+XXIII. Recabar y solicitar datos estadísticos por cualquier medio a turistas, prestadores de servicios turísticos, autoridades o a cualquier persona u organización, a fin de obtener información que permita a la Secretaría proponer acciones y programas que mejoren la calidad de la infraestructura, el patrimonio y los servicios turísticos;
+
+XXIV. Apoyar la celebración de ferias y eventos promocionales de turismo, que se celebren anualmente en el Estado y cuya finalidad sea la de posicionar al destino en el ámbito turístico nacional e internacional;
+
+XXV. El diseño, la estandarización y la supervisión de la colocación de la nomenclatura turística, de acuerdo a sus características correspondientes, señalados en el Reglamento;
+
+XXVI. Vigilar el cumplimiento de esta Ley y demás disposiciones reglamentarias que de ella deriven, en lo que se refiere a los requisitos de operación de los prestadores de servicios turísticos;
+
+XXVII. Coordinar con las autoridades federales, por medio de los convenios que se suscriban, la imposición de sanciones por violaciones a esta Ley y a las disposiciones reglamentarias aplicables;
+
+XXVIII. Coordinarse con la Secretaría de Desarrollo Urbano y Medio Ambiente del Estado, en el ámbito de sus respectivas atribuciones, la instrumentación de los programas y medidas para la preservación de los recursos naturales, prevención de la contaminación, para la ordenación y limpieza de las playas, para promover el turismo orientado a la naturaleza y a su preservación, así como para el mejoramiento ambiental de las actividades e instalaciones turísticas;
+
+XXIX. Impulsar ante las autoridades Federales y los Municipios, la instrumentación de mecanismos y programas tendientes a facilitar los trámites y gestión de los inversionistas y demás integrantes del sector turístico, que permitan la expedita creación y apertura de negocios y empresas en los destinos turísticos;
+
+XXX. Analizar y coadyuvar con la Secretaría de Seguridad Pública del Estado, en los casos en que se determine que sea necesaria la protección de la integridad física de los turistas;
+
+XXXI. Promover y fomentar con la Secretaría de Educación Pública del Estado la investigación, educación y la cultura turística;
+
+(REFORMADA, P.O. 13 DE DICIEMBRE DE 2016) (F. DE E., P.O. 26 DE ENERO DE 2017)
+
+XXXII. Colaborar con la Secretaría del Trabajo del Estado, en el desarrollo de programas de fomento al empleo turístico, así como de capacitación y profesionalización de la actividad turística, incorporando a las personas con discapacidad, así como revisar el marco normativo de la actividad turística con el objeto de promover reformas a las leyes y demás normatividad aplicable que redunden en el fortalecimiento de la infraestructura turística y la calidad de los servicios;
+
+> <small>(ADICIONADA, P.O. 20 DE DICIEMBRE DE 2023)</small>
+
+XXXII Bis. Promover convenios entre los prestadores de servicios turísticos, con la finalidad de alcanzar incentivos y descuentos para las personas con discapacidad, procurando la renovación automática para aquellos que cumplan con las disposiciones establecidas en el mismo.
+
+XXXIII. Operar el Registro Nacional de Turismo en términos de la Ley General;
+
+XXXIV. Observar el cumplimiento de las directrices previstas en el Plan Nacional de Desarrollo y el respectivo Programa Sectorial de Turismo;
+
+XXXV. Emitir opinión oficial respecto de aquellas acciones que realicen las Dependencias y Entidades de la Administración Pública Federal, Estatal y Municipal, que desincentiven o entorpezcan la prestación de los servicios turísticos o la demanda de los mismos;
+
+XXXVI. La Secretaría impulsará la competitividad turística de Tamaulipas a través del desarrollo de los estudios, programas y proyectos para mejorar la experiencia de los turistas y visitantes, así como las capacidades de los prestadores de servicios turísticos, entre otros, a través del mejoramiento de la calidad de los servicios turísticos; la certificación de los prestadores de servicios en programas federales; el mejoramiento de la imagen urbana; la puesta en valor de nuevos espacios para la práctica de la actividad turística y recreativa y el impulso del mejoramiento de las condiciones generales del Estado como destino turístico;
+
+> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2022)</small>
+
+XXXVII. La Secretaría definirá y clasificará en el Reglamento de esta Ley, los distintos tipos de actividad turística que se efectúan en el Estado, las condiciones particulares para su ejecución y demás elementos necesarios para su fomento y promoción;
+
+> <small>(ADICIONADA, P.O. 18 DE NOVIEMBRE DE 2022)</small>
+
+XXXVIII. Coordinarse con la Secretaría de Salud, con el objetivo de establecer programas, políticas públicas y medidas sanitarias, que permitan que la prestación de los servicios turísticos se otorgue en un entorno saludable y seguro para las y los turistas; y
+
+XXXIX. Las demás que se prevean en este y otros cuerpos normativos.
+
+###### ARTÍCULO 6.
+
+Son atribuciones de los Municipios, a través de sus Ayuntamientos, además de las contenidas en la Ley General, las siguientes:
+
+I. Coadyuvar con las autoridades competentes en el desarrollo de la actividad turística en su municipio;
+
+II. Elaborar, ejecutar y en su caso promover programas que tengan como fin el desarrollo turístico del Municipio acordes con el Programa;
+
+III. Gestionar en los sectores público, social o privado recursos directos, financiamientos y/o inversión que tenga por objeto la creación o mejora de la infraestructura turística;
+
+IV. Elaborar, gestionar y en su caso ejecutar proyectos de obras de infraestructura turística;
+
+V. Expedir el Reglamento Municipal de la Actividad Turística;
+
+VI. Apoyar a la autoridad Estatal en la creación y actualización del Atlas de Tamaulipas;
+
+VII. Elaborar programas tendientes a fomentar la promoción turística del municipio;
+
+VIII. Constituir el Consejo Consultivo Municipal de Turismo en términos de lo dispuesto por esta Ley y la Ley General;
+
+IX. Celebrar convenios y acuerdos de coordinación y/o de colaboración con los sectores público, social y privado que sean necesarios para lograr el cumplimiento de sus atribuciones en materia turística, los cuales deberán publicarse en el Periódico Oficial del Estado;
+
+> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2022)</small>
+
+X. Crear y mantener áreas adecuadas para que sean utilizadas por personas con algún tipo de discapacidad, adultos mayores, para que tengan acceso a gozar de las actividades turísticas. Tratándose de aquellos destinos turísticos que hayan sido considerados como playas inclusivas derivado de la obtención de las certificaciones como playas limpias sustentables y Bandera Azul, otorgadas por las autoridades competentes, prestará además, de manera gratuita, servicios de andaderas y sillas anfibias, bastones y muletas para playa, formatos o señalética accesible, así como, llevar a cabo la capacitación de personal para brindar la atención de personas con discapacidad, en lenguas de señas mexicanas y primeros auxilios, además, contar con palapas exclusivas para personas con discapacidad adaptadas con rampas de madera dura y alfombra especial, entre otros;
+
+XI. Organizar y vigilar el cumplimiento de los programas de auxilio y asistencia al turista;
+
+XII. Procurar que en los atractivos turísticos del municipio cuenten con servicios médicos de primeros auxilios;
+
+XIII. Facilitar aquella información que le requiera la autoridad estatal y que tenga por objeto el desarrollo de las actividades turísticas del municipio;
+
+XIV. Establecer y dirigir el Sistema de Información Turística Municipal;
+
+XV. Elaborar en coordinación con la Secretaría, proyectos de declaratorias de Zonas de desarrollo turístico sustentable;
+
+XVI. Las entidades de la administración pública paraestatal y paramunicipal que tengan atribuciones en materia de Turismo, están obligadas a coordinarse en el ejercicio de sus funciones con la Secretaría; y
+
+XVII. Las demás que le confieran la Ley, Ley General y demás normatividad aplicable en materia turística.
+
+###### ARTÍCULO 7.
+
+1. La Comisión es un órgano de carácter intersecretarial, que tendrá por objeto conocer, atender y resolver sobre los asuntos de naturaleza turística relacionados con la competencia de dos o más dependencias o entidades de la Administración Pública Estatal.
+
+2. La Comisión podrá emitir opinión sobre las políticas públicas, reglamentos, decretos, acuerdos u otras disposiciones de carácter general que se refieran a los asuntos descritos en el párrafo anterior, así como fungir como órgano de consulta para los asuntos que la Secretaría considere oportuno poner a su consideración.
 
 #### SECCIÓN SEGUNDA. Del Derecho a la Dignidad
 
-###### Artículo 8.
+###### ARTÍCULO 8.
 
-La juventud es inviolable en su dignidad y ésta deberá ser preservada de los efectos nocivos de la violencia, la intolerancia y el autoritarismo. Teniendo además:
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2016)</small>
 
-I. El reconocimiento incondicional a su persona, a su integridad física, intelectiva, psicoemocional y sexual;
+1. La Comisión se integrará por el Secretario de Turismo, quien la presidirá, y ejercerá, en su caso, voto de calidad, y los Titulares de las Secretarías de Desarrollo Urbano y Medio Ambiente, Bienestar Social, Finanzas, Obras Públicas, Administración, Seguridad Pública y Desarrollo Rural; así como por todas aquellas dependencias y entidades de la administración pública estatal que determine el Gobernador.
 
-II. Trato cordial y respetuoso;
-
-III. El derecho a una vida libre de violencia y de cualquier tipo de explotación;
-
-IV. El derecho a mantener bajo confidencialidad, su estado de salud física y mental así como, los tratamientos que le sean prescritos de conformidad con la legislación aplicable;
-
-V. Al disfrute y goce de sus derechos humanos y libertades fundamentales, cuando residan en hogares o instituciones donde se les brinden cuidados o tratamientos con pleno respeto a su dignidad, creencias, necesidades e intimidad; y
-
-VI. Los demás que contribuyan a su desarrollo armónico e integral.
+2. La Comisión funcionará en los términos que disponga el Reglamento.
 
 #### SECCIÓN TERCERA. Del Derecho a la Libertad
 
-###### Artículo 9.
+###### ARTÍCULO 9.
 
-La juventud tiene derecho a la individualidad, la libertad, al acceso a las instituciones educativas, culturales y recreativas, así como, al disfrute de tiempo en función de un proyecto personal de vida que contribuya a su autorrealización.
-
-Para ello, contará con oportunidades que le permita (sic) participar y desarrollar plenamente sus potencialidades, capacidades y aptitudes. La juventud podrá además:
-
-I. Seleccionar el campo de estudio artístico, deportivo, técnico o profesional de su preferencia y laborar en él, generando ingresos que correspondan al trabajo desempeñado;
-
-II. Disfrutar y ejercer de manera responsable su sexualidad, de modo que la práctica de ella contribuya a su seguridad, identidad y realización personal, así como a decidir de manera consciente y plenamente informada, el momento y el número de hijos que deseen tener;
-
-III. Tener acceso a programas educativos y de capacitación que le permitan alfabetizarse o continuar preparándose en su desarrollo personal y social;
-
-IV. Adoptar decisiones sobre el cuidado y la calidad de su vida, siempre y cuando, no afecte su desarrollo integral y no contravenga disposición legal alguna;
-
-V. Mantener su identidad cultural, costumbres y tradiciones, así como, transmitirlas a sus descendientes; y
-
-VI. Las demás que contribuyan a su desarrollo armónico e integral.
+A las sesiones de la Comisión podrán ser invitados Titulares de Dependencias o Entidades de la Administración Pública Federal, los Presidentes Municipales y representantes del sector social y privado, exclusivamente con derecho a voz.
 
 #### SECCIÓN CUARTA. Del Derecho a la Identidad, Certeza Jurídica y Familia
 
-###### Artículo 10.
+###### ARTÍCULO 10.
 
-La juventud tiene derecho a:
-
-I. Tener una identidad, tomando como base el conjunto de atributos y derechos de la personalidad, conforme a lo previsto en la legislación civil;
-
-II. A solicitar y recibir información sobre su origen y la identidad de sus padres, salvo las excepciones previstas en la legislación civil;
-
-III. A vivir y crecer en el seno de una familia;
-
-IV. A integrarse a una familia sustituta y a recibir los beneficios de la adopción. En caso de incapacidad, deberá tomarse en cuenta la opinión de quien ejerza la guarda o custodia.
-
-V. A emitir su opinión en todos los asuntos que le afecten, salvo los casos de incapacidad que prevea la legislación civil;
-
-VI. A recibir un trato digno y apropiado cuando sean víctimas de cualquier tipo de ilícito o cuando ellos mismos cometan infracciones o delitos; y
-
-VII. Los demás que contribuyan a su desarrollo armónico e integral.
+El Consejo es un órgano de consulta de la Secretaría en materia turística, que tiene la función de proponer políticas públicas en la materia, así como también las estrategias y acciones de coordinación de las dependencias y entidades de la Administración Pública, con el fin de lograr la promoción, fomento y desarrollo sustentable de la actividad turística en Tamaulipas, concretando así un desarrollo integral de la actividad turística del Estado.
 
 #### SECCIÓN QUINTA. Del Derecho a la Autorrealización, Integración y Participación
 
-###### Artículo 11.
-
-La juventud tiene derecho a contar con oportunidades que le permita su autorrealización, su integración a la sociedad y su participación en la toma de decisiones de interés público. Lo anterior se manifiesta en:
-
-I. Disfrutar de la protección y estímulo de su familia y comunidad, de conformidad con el sistema de valores culturales de la sociedad;
-
-II. Contar con oportunidades que les permitan participar y desarrollar plenamente sus potencialidades, teniendo al Instituto como su intercesor;
-
-III. Compartir sus conocimientos, experiencias, habilidades y vivencias con otros jóvenes;
-
-IV. Ser valorados, independientemente de su contribución económica al seno familiar;
-
-V. Participar en la planeación del desarrollo de su comunidad;
-
-VI. Proponer las acciones legislativas, sociales, culturales, deportivas y en general de cualquier naturaleza que sean de interés del sector juvenil;
-
-VII. Trabajar en forma voluntaria en distintas actividades de índole social, desempeñando cargos apropiados a sus intereses y capacidades;
-
-VIII. Crear o formar parte de movimientos, asociaciones u organizaciones lícitas de jóvenes;
-
-IX. Contar con representantes ante el Instituto; y
-
-X. Las demás que contribuyan a su desarrollo armónico e integral.
-
-#### SECCIÓN SEXTA. Del Derecho a la Salud
-
-###### Artículo 12.
-
-La juventud tiene derecho a:
-
-I. Los servicios médicos necesarios, para la prevención, tratamiento, atención y rehabilitación de enfermedades y discapacidades, de acuerdo con las bases y modalidades que establezcan las disposiciones jurídicas de la materia;
-
-II. Recibir de los DIF Estatal o Municipal, del Consejo Estatal de Asistencia Social y Protección de Niños y Niñas, centros de salud comunitarios u otras dependencias federales, estatales o municipales, con programas propios para jóvenes, orientación y capacitación para obtener conocimientos básicos en materia de salud, nutrición, higiene, saneamiento comunitario y ambiental, así como, todo aquello que favorezca su cuidado personal;
-
-III. Ser orientados por los DIF Estatal o Municipal, el Consejo Estatal de Asistencia Social y Protección de Niños y Niñas, centros de salud comunitarios u otras dependencias federales, estatales o municipales en el estado, con programas propios para jóvenes contra el consumo de drogas, estupefacientes, uso de tecnologías o cualquier otra cosa que les genere estado de dependencia o adicción; y
-
-IV. Las demás que contribuyan a su desarrollo armónico e integral.
-
-Para el logro de cualquiera de las fracciones señaladas, el Gobierno deberá formular las políticas y establecer los mecanismos necesarios que le permitan a la juventud obtener los servicios médicos dependientes del Estado, promoviéndolos y difundiéndolos en lugares públicos para el conocimiento general.
-
-#### SECCIÓN SÉPTIMA. Del Derecho a la Asistencia Social
-
-###### Artículo 13.
-
-La juventud será sujeta de programas de asistencia social cuando se encuentren o vivan circunstancias de vulnerabilidad social que coadyuven en la protección integral en tanto puedan valerse por sí mismos y que le auxilien a recuperar su salud y equilibrio personal. En caso de jóvenes con daño físico o mental los programas de asistencia social serán implementados a través del DIF Estatal o Municipal, el Consejo Estatal de Asistencia Social y Protección de Niños y Niñas u otras dependencias federales, estatales o municipales en el Estado, con programas propios para jóvenes y de acuerdo con las bases y modalidades que establezcan las disposiciones jurídicas de la materia.
-
-#### SECCIÓN OCTAVA. De los Derechos Sexuales y Reproductivos
-
-###### Artículo 14.
-
-La juventud tiene derecho a decidir de forma libre y responsable sobre su cuerpo y sexualidad, así como a ejercer y disfrutar plenamente su vida sexual y a recibir información completa, científica y laica sobre sexualidad. Tendrá acceso a los servicios de salud sexual y salud reproductiva, así como, el derecho a decidir de manera consciente y plenamente informada, el momento y el número de hijos que deseen tener sin contravenir a la legislación civil y penal vigente.
-
-El Plan deberá incluir lineamientos y acciones que permitan generar y divulgar información referente a temáticas de salud reproductiva, ejercicio responsable de la sexualidad, VIH-SIDA, educación sexual, embarazo en adolescentes, maternidad y paternidad, entre otros.
-
-#### SECCIÓN NOVENA. Del Derecho a la Cultura
-
-###### Artículo 15.
-
-La juventud tiene derecho al acceso a espacios culturales y a expresar sus manifestaciones culturales de acuerdo a sus propios intereses y expectativas.
-
-El Plan deberá incluir un sistema de promoción y apoyo a iniciativas culturales juveniles, sobre todo en los casos que signifiquen un rescate de elementos culturales de los sectores populares y de los pueblos indígenas de la diversidad cultural que hay en nuestro estado.
-
-#### SECCIÓN DÉCIMA. Del Derecho a la Identidad
-
-###### Artículo 16.
-
-La juventud como miembro de una sociedad pluricultural y como integrante de un estado en constante cambio, tiene el derecho de fortalecer y expresar los diferentes elementos de identidad que la distingue de otros sectores y grupos sociales y que a la vez, la cohesiona con otros.
-
-SECCIÓN DECIMOPRIMERA
-
-Del Derecho a la Integración y Reinserción Social
-
-###### Artículo 17.
-
-La juventud veracruzana, en situaciones especiales desde el punto de vista de la pobreza, exclusión social, indigencia, situación de calle, discapacidad, privación de la libertad, tiene derecho a reinsertarse e integrarse a la sociedad y a ser sujeta de derechos y oportunidades que le permita acceder a servicios y beneficios sociales que mejoren su calidad de vida, por lo que las autoridades estatal y municipal deben disponer de recursos y medios necesarios para garantizar este derecho.
-
-En cualquiera de estos casos, el Instituto, en colaboración del DIF Estatal, Municipal o del Consejo Estatal de Asistencia Social y Protección de Niños y Niñas, deberá asesorar y apoyar para la búsqueda y trámite de programas a fin de poder acceder a servicios y beneficios sociales señalados, teniendo el carácter de intercesor para lograr que el derecho de la integración y reinserción de la juventud a la sociedad sea pleno.
-
-SECCIÓN DECIMOSEGUNDA
-
-Del Derecho a la plena Participación Social y política
-
-###### Artículo 18.
-
-La juventud tiene derecho a la participación social y política como forma de mejorar las condiciones de vida de los sectores juveniles.
-
-SECCIÓN DECIMOTERCERA
-
-Del Derecho a la Organización Juvenil
-
-###### Artículo 19.
-
-La juventud tiene derecho a formar organizaciones autónomas que busquen hacer realidad su demanda, aspiraciones y proyectos colectivos contando con el reconocimiento y apoyo del Gobierno y de otros actores sociales e instituciones.
-
-SECCIÓN DECIMOCUARTA
-
-Del Derecho a la Información
-
-###### Artículo 20.
-
-La juventud tiene derecho a recibir, analizar, sistematizar y difundir información objetiva y oportuna que le sea de importancia para sus proyectos de vida, sus intereses colectivos y para el bien del Estado.
-
-SECCIÓN DECIMOQUINTA
-
-Del Derecho a un Medio Ambiente Sano
-
-###### Artículo 21.
-
-La juventud tiene derecho a disfrutar de un medio ambiente natural y social sano que respalde su desarrollo integral.
-
-SECCIÓN DECIMOSEXTA
-
-Del Derecho al Turismo, Recreación y Deporte
-
-###### Artículo 22.
-
-La juventud tiene el derecho al disfrute de actividades de recreación y al acceso a espacios recreativos proporcionados para tal efecto por el Gobierno del Estado u otras dependencias federales, estatales o municipales en el Estado, con programas propios para jóvenes para el aprovechamiento positivo y productivo de su tiempo libre.
-
-###### Artículo 23.
-
-La juventud tiene derecho a practicar cualquier deporte de acuerdo con su gusto y aptitudes en los espacios proporcionados para tal efecto por el Gobierno del Estado u otras dependencias federales, estatales o municipales en el Estado, con programas propios para jóvenes, en cualquier rama, categoría y los deportes extremos.
-
-El Plan deberá contemplar dentro de sus lineamientos, los mecanismos para el acceso masivo de la juventud a la práctica deportiva y al disfrute de espectáculos deportivos, y debe contemplar un sistema de promoción y apoyo de iniciativas deportivas juveniles.
-
-###### Artículo 24.
-
-La promoción del turismo en todas las variantes, tales como ecoturismo, náutico y deportivo, de negocios, cultural y de salud, alternativo y demás clasificaciones, estará a cargo de los gobiernos estatal y municipal. Éstos establecerán las zonas turísticas donde se brindará apoyo a los jóvenes turistas que así lo requieran.
-
-###### Artículo 25.
-
-El Gobierno en colaboración con el sector empresarial, establecerán los beneficios y apoyos que brinden a los jóvenes turistas. Las empresas que participen recibirán los beneficios que establezca el Código Financiero para el Estado de Veracruz de Ignacio de la Llave.
-
-SECCIÓN DECIMOSÉPTIMA
-
-De los Derechos Humanos de la Juventud
-
-###### Artículo 26.
-
-La juventud no puede ser molestada, discriminada o estigmatizada por su género, edad, orientación sexual, raza, color de piel, lengua, religión, opiniones, condición social, nacionalidad, la pertenencia a un pueblo indígena o a una minoría étnica, las aptitudes físicas y psíquicas, el lugar donde vive o cualquier otra situación que afecte la igualdad de derechos entre los seres humanos.
-
-###### Artículo 27.
-
-La juventud es inherente a los derechos humanos que a continuación se mencionan:
-
-I. El pleno goce y disfrute de los derechos civiles, políticos, económicos, laborales, sociales y culturales emanados de la Constitución Federal y contenidos en los respectivos pactos, tratados y convenios internacionales suscritos por México y que hayan sido ratificados por el Senado de la República;
-
-II. El ejercicio y respeto de su libertad, sin ser coartados ni limitados en las actividades que deriven de ella, prohibiéndose cualquier acto de persecución, represión del pensamiento, y en general todo acto que atente contra la integridad física y mental, así como, contra la seguridad de las y los jóvenes;
-
-III. La igualdad ante la Ley y al derecho a una protección legal equitativa sin distinción alguna.
-
-IV. La orientación sexual y ejercicio responsable de la sexualidad, de modo que la práctica de ella contribuya a la seguridad de cada joven y a su identidad y realización personal, evitando cualquier tipo de marginación y condena social por razón de su vida sexual;
-
-V. A no ser arrestado, detenido, preso o desterrado arbitrariamente. Todo joven tiene derecho a las garantías del debido proceso en todas aquellas situaciones en que estuviese encausado por justicia; y
-
-VI. En caso de carecer de medios económicos suficientes, contará con un defensor gratuito especializado en derechos juveniles que será proveído por el DIF Estatal o Municipal en todo el proceso judicial.
-
-SECCIÓN DECIMOCTAVA
-
-Del Derecho al Trabajo
-
-###### Artículo 28.
-
-La juventud tendrá derecho a un trabajo digno, socialmente útil y bien remunerado, de conformidad con la Ley Federal del Trabajo y acercándolos a la posibilidad de mejorar la calidad de vida en su entorno social en un ambiente laboral sano.
-
-###### Artículo 29.
-
-Los gobiernos estatal y municipal promoverán por todos los medios a su alcance, el empleo y la capacitación laboral de la juventud del Estado realizando convenios con empresas públicas y privadas que garanticen este derecho.
-
-###### Artículo 30.
-
-El Plan dentro de sus lineamientos base, debe contemplar un sistema de empleo, bolsa de trabajo, capacitación laboral, recursos económicos para proyectos productivos, convenios y estímulos fiscales con las empresas del sector público y privado teniendo como objeto principal el favorecer laboralmente a la juventud y garantizar con esto, su derecho al trabajo.
-
-###### Artículo 31.
-
-El respeto del derecho al trabajo de la juventud, será motivo de normas de protección al empleo y de una supervisión exhaustiva por parte de las autoridades laborales correspondientes.
-
-###### Artículo 32.
-
-El Instituto deberá establecer lineamientos que incentiven la creación, promoción y protección del empleo de la juventud por parte del Estado en la modalidad de primera experiencia laboral.
-
-###### Artículo 33.
-
-El Instituto, dentro del Plan, deberá promover y proteger el desarrollo de la primera experiencia laboral de la juventud del Estado, por medio del cumplimiento de los siguientes objetivos:
-
-I. Lograr conocimientos prácticos sin suspender sus estudios.
-
-II. Consolidar su incorporación a la actividad productiva económica mediante una ocupación específica y formal, promoviendo su contratación en el sector público o privado; y
-
-III. Establecer mecanismos para garantizar los derechos de la juventud en el área laboral, sin menospreciar su condición social, económica, religión, opinión, raza, color, género, edad, orientación sexual y lengua.
-
-La primera experiencia laboral se entenderá como el proceso de integración de los jóvenes de 15 a 29 años de edad al mercado laboral, el cual permitirá a la persona joven participar en procesos de capacitación y formación laboral articulados con el proceso de la educación formal. Los lineamientos deberán establecerse en términos de lo estipulado en el artículo 30 de la presente Ley.
-
-###### Artículo 34.
-
-Las funciones a desempeñar como primera experiencia laboral deberán ser adecuadas al nivel de formación y preparación académica de cada joven. Bajo ninguna circunstancia las actividades irán en detrimento de su formación académica, técnica o profesional. Con particular observación en los casos de la juventud señalados en las situaciones especiales que precisa el artículo 17 de esta Ley.
-
-###### Artículo 35.
-
-Las actividades de los jóvenes en su primera experiencia laboral, serán detalladas mediante acuerdo y coordinación de la Junta de Gobierno del Instituto y las empresas que deseen apoyar a jóvenes veracruzanos a su primera experiencia laboral.
-
-###### Artículo 36.
-
-Las empresas que se integren a la primera experiencia laboral, recibirán los beneficios que establezca el Código Financiero para el Estado de Veracruz de Ignacio de la Llave.
-
-###### Artículo 37.
-
-Los Poderes del Estado y municipios de la entidad, deberán crear los mecanismos necesarios para establecer un espacio destinado a la juventud que requiera realizar su servicio social, así como, participar en la elaboración de un programa anual de prestadores del servicio social.
-
-###### Artículo 38.
-
-El Congreso del Estado de Veracruz a través de la Comisión Permanente de Educación y Cultura y en colaboración con instituciones educativas públicas y privadas, participará en la elaboración de un programa anual de prestadores del servicio social, mismo que se elaborará durante el segundo periodo ordinario de sesiones del Congreso. La juventud veracruzana podrá prestar sus servicios en todas las áreas que forman parte del organigrama, así como también en el área de diputados y oficinas de enlace o módulos de atención de éstos últimos.
-
-### CAPÍTULO SEGUNDO. De los Deberes
-
-###### Artículo 39.
-
-Las y los jóvenes tendrán los siguientes deberes a observar:
-
-I. Asumir el proceso de su propia formación, aprovechando de manera óptima las oportunidades educativas y de capacitación que brindan las instituciones para superarse en forma continua;
-
-II. Preservar su salud a través del autocuidado, prácticas de vida sana, ejecución de buenos hábitos y deporte como medios de bienestar físico y mental. La o el joven comunicará a su familia cualquier tipo de problema o alteración que presente en materia de salud física o mental;
-
-III. Procurar el aprendizaje y practicar los valores más altos del ser humano que contribuyan a darle su verdadera dimensión ética y moral como persona individual y como parte de una sociedad;
-
-IV. Informarse debidamente en materia de sexualidad, considerando no sólo el plano físico, sino también el afectivo, los riesgos de las enfermedades de transmisión sexual, la salud reproductiva y la planificación familiar; e
-
-V. Informarse debidamente acerca de los efectos y daños irreversibles a la salud que producen el alcohol, el tabaco y las drogas, y sobre qué hacer para evitar su consumo.
-
-###### Artículo 40.
-
-En relación con su familia, las y los jóvenes tendrán las siguientes responsabilidades:
-
-I. Convenir con sus padres y miembros de la familia normas de convivencia en el hogar en un marco de respeto y tolerancia;
-
-II. Contribuir a la economía familiar, cuando las necesidades así lo demanden como lo establece la legislación aplicable;
-
-III. Contribuir en el cuidado, educación y enseñanza de otros miembros de la familia que lo requieran;
-
-IV. Brindar protección y apoyo en la medida de sus posibilidades físicas a todos los miembros de su familia, especialmente si son niñas o niños, personas con capacidades diferentes y adultos mayores;
-
-V. Evitar dentro de sus hogares, cualquier acto de discriminación, abuso, aislamiento, prepotencia o violencia familiar contra cualquier miembro de la familia;
-
-VI. No inducir ni forzar a ningún miembro de la familia a realizar actos de mendicidad, a efectuar trabajos o actividades contra su voluntad que atenten contra su dignidad o que impliquen un esfuerzo tal que vaya en perjuicio de su salud física o mental; y
-
-VII. Atender las recomendaciones de sus padres cuando éstas sean para su beneficio y no atenten contra su dignidad o integridad personal.
-
-###### Artículo 41.
-
-En relación con la sociedad, las y los jóvenes tienen las siguientes responsabilidades:
-
-I. Actuar con criterio de solidaridad social, contribuyendo a la realización de acciones para el desarrollo comunitario;
-
-II. Participar activamente en la vida cívica, política, económica, cultural y social de su comunidad y del Estado;
-
-III. Retribuir a la sociedad en su oportunidad, el esfuerzo realizado para su formación, tanto en la prestación de un servicio social efectivo, como en el desarrollo de su ejercicio profesional;
-
-IV. Contribuir a la conservación y mejoramiento del medio ambiente, evitando la contaminación y desempeñando un papel activo en aquello que esté a su alcance;
-
-V. Promover la convivencia pacífica y la unidad entre las y los jóvenes;
-
-VI. Respetar los derechos de terceros; y
-
-VII. Participar en forma solidaria en las actividades que emprendan las instituciones en las que realizan sus estudios que tengan como finalidad el mejoramiento y desarrollo.
-
-###### Artículo 42.
-
-En relación con el Estado, las y los jóvenes tendrán los siguientes deberes:
-
-I. Respetar y cumplir con lo dispuesto en la Constitución Política de los Estados Unidos Mexicanos, la particular del Estado, las leyes que de ellas deriven y los reglamentos de las mismas, en concordia con el respeto irrestricto de los derechos de los demás grupos y segmentos de la sociedad; todo ello a través de la convivencia pacífica, la tolerancia, la democracia, el compromiso y la participación social;
-
-II. Guardar el debido respeto a las autoridades legalmente constituidas, así como, a los símbolos patrios que forman parte de la identidad nacional;
-
-III. Contribuir al avance de la vida democrática del Estado, participando en los procesos que tengan lugar para la elección de las distintas autoridades y cargos de elección popular; y
-
-IV. Mantener dentro y fuera del territorio del Estado actitudes que dignifiquen el nombre de Veracruz.
-
-## TÍTULO TERCERO. Del Instituto de la Juventud Veracruzana (INJUVER)
-
-### CAPÍTULO PRIMERO. Del Objetivo y Atribuciones del Instituto
-
-###### Artículo 43.
-
-El Instituto de la Juventud Veracruzana es un Organismo Público Descentralizado del Poder Ejecutivo del Estado, autónomo con personalidad jurídica y patrimonio propio y domicilio en la ciudad de Xalapa-Enríquez, Veracruz, y tiene a su cargo la aplicación de las disposiciones de la presente Ley.
-
-###### Artículo 44.
-
-El Instituto tendrá por objeto planear, promocionar y aplicar las actividades de atención y asistencia que coadyuven al desarrollo integral de la juventud.
-
-###### Artículo 45.
-
-El Instituto tiene las siguientes atribuciones y obligaciones:
-
-I. Formular e instrumentar la política estatal de la juventud, que permita incorporarla plenamente al desarrollo de la entidad;
-
-II. Elaborar el Plan Estratégico de Desarrollo Integral de la Juventud Veracruzana, y sus programas;
-
-III. Crear su Reglamento Interior, y demás normatividad para el adecuado desarrollo de sus funciones;
-
-IV. Crear mecanismos de coordinación institucional entre instancias del gobierno federal, del gobierno estatal, organismos No gubernamentales, instituciones privadas y asociaciones civiles que realizan trabajo con jóvenes o que tengan relación con las temáticas juveniles;
-
-V. Ampliar y promover ante las instituciones las demandas y necesidades de los jóvenes, haciendo énfasis en las áreas de salud, empleo, educación, capacitación, seguridad, justicia, cultura y recreación;
-
-VI. Actuar como órgano de consulta y asesoría de las dependencias y entidades de la Administración Pública Estatal, de los municipios y de los sectores social y privado cuando así lo requieran;
-
-VII. Concertar acuerdos y convenios con el gobierno estatal, los municipios para promover, con la participación, en su caso, de los sectores social y privado la política, programas y acciones tendientes al desarrollo integral de la juventud;
-
-VIII. Impulsar la creación anual del Parlamento de la Juventud Veracruzana, ante la Comisión Permanente de Juventud y Deporte del Poder Legislativo del Estado de Veracruz, y promover su difusión;
-
-IX. Celebrar acuerdos y convenios de colaboración con organizaciones privadas y sociales para el desarrollo de proyectos que benefician a la juventud; mejorando la calidad y cobertura de las políticas juveniles eficientando el uso de recursos;
-
-X. Mantener actualizados los registros y supervisar el desarrollo de los programas que a favor de la juventud promuevan las diversas dependencias y organismos de la administración pública federal, estatal y municipal;
-
-XI. Promover ante las empresas del sector público y privado la inclusión de la primera experiencia laboral de los jóvenes;
-
-XII. Realizar, promover, coordinar y difundir estudios e investigaciones sobre la situación de la juventud;
-
-XIII. Crear canales que incorporen la iniciativa de las y los jóvenes en lo individual a través de sus organizaciones en la discusión y solución de sus problemas;
-
-XIV. Fomentar la capacidad de autogestión de las y los jóvenes y sus organizaciones;
-
-XV. Promover el ingreso y permanencia de las y los jóvenes en el sistema de educación formal;
-
-XVI. Encauzar recursos en favor de programas que fomenten el desarrollo de la juventud, así como prestar los servicios que establezcan los programas que formule el Instituto;
-
-XVII. Propiciar la Instalación en cada municipio de Comités Municipales de la Juventud;
-
-XVIII. Promover y ejecutar acciones para el reconocimiento público y difusión de las actividades sobresalientes de la juventud veracruzana en los diversos ámbitos del acontecer estatal y nacional;
-
-XIX. Fomentar el establecimiento de vínculos de amistad y de cooperación nacional e internacional en materia de juventud;
-
-XX. Impulsar la operación de programas de educación, orientación y asesoría a padres jóvenes;
-
-XXI. Promover ante las autoridades educativas de la entidad el diseño e instrumentación de programas orientados a fomentar el ingreso, permanencia, o en su caso, el reingreso de los jóvenes al Sistema Estatal de Educación;
-
-XXII. Promover el turismo juvenil;
-
-XXIII. Fomentar y difundir entre los jóvenes el acceso a acervos bibliográficos, documentales y a las nuevas tecnologías de información y comunicación;
-
-XXIV. Proporcionar orientación a las jóvenes madres con demandas de acceso a vivienda, transporte y servicios públicos; y
-
-XXV. Las demás; que le atribuyan las leyes y reglamentos, o que le confiera el titular del Ejecutivo.
-
-### CAPÍTULO SEGUNDO. Del Patrimonio
-
-###### Artículo 46.
-
-El patrimonio del Instituto se integrará con:
-
-I. Los recursos que perciba conforme a la partida que establezca el Presupuesto de Egresos del Estado, así como los que reciba por los servicios que preste en cumplimiento de su objeto o que le correspondan por cualquier otro título legal.
-
-II. Las aportaciones, participaciones, subsidios, transferencias y apoyos que le otorguen los Gobiernos Federal, Estatal y Municipal, así como los recursos otorgados por las demás personas físicas o morales de los sectores privado y social;
-
-III. Los rendimientos por virtud de sus operaciones financieras y actividades culturales, sociales y deportivas que organice y en las que participe;
-
-IV. Los bienes muebles e inmuebles que adquiera por cualquier título legal, para el cumplimiento de su objeto;
-
-V. Las donaciones, legados y fideicomisos que reciba de personas físicas o morales, nacionales o extranjeras, los cuales de ninguna manera podrán implicar condiciones contrarias a su objeto conforme lo establece la Ley; y
-
-VI. En general, los bienes, derechos y obligaciones que entrañen utilidad económica o sean susceptibles de estimación pecuniaria y que se obtengan por cualquier título legal.
-
-### CAPÍTULO TERCERO. De la Organización
-
-###### Artículo 47.
-
-El Instituto contará con los siguientes Órganos de Gobierno y Administración:
-
-I. Junta de Gobierno;
-
-II. Dirección General;
-
-III. Consejo de Jóvenes;
-
-IV. Las unidades administrativas que se establezcan en el Reglamento Interior; y
-
-V. La Contraloría Interna.
-
-###### Artículo 48.
-
-El Instituto contará con los siguientes órganos de Apoyo y Consulta:
-
-I. Direcciones Municipales;
-
-II. Comités Municipales.
-
-#### SECCIÓN PRIMERA. De la Junta de Gobierno
-
-###### Artículo 49.
-
-La Junta de Gobierno se integrará por:
-
-I. El o la Titular del Poder Ejecutivo del Estado, que será el Presidente;
-
-II. El o la Titular de la Secretaría de Educación y Cultura; que será el vicepresidente;
-
-III. El o la Titular de la Dirección General del Instituto, quien fungirá como Secretario Técnico;
-
-IV. El o la Titular de la Secretaría de Finanzas y Planeación, quien será vocal;
-
-V. El o la Titular de la Secretaría de Salud y Asistencia, quien será vocal;
-
-VI. El o la Titular de la Secretaría de Desarrollo Económico, quien será vocal; y
-
-VII. El o la Titular de la Secretaría de Desarrollo Regional, quien será vocal.
-
-Podrán participar con voz pero sin voto, previo acuerdo de la Junta de Gobierno, y a invitación expresa del Presidente de la Junta, los servidores públicos y representantes de instituciones privadas y sociales.
-
-El desempeño de los miembros de la Junta de Gobierno será honorífico. Dicho cargo tendrá una duración máxima de seis años; así mismo, los integrantes de la Junta, podrán designar personas que les sustituyan en sus ausencias.
-
-###### Artículo 50.
-
-Son atribuciones de la Junta:
-
-I. Aprobar y modificar, en su caso, el Reglamento Interior del Instituto a propuesta del Director General y remitirlo al Ejecutivo para su aprobación y publicación;
-
-II. Aprobar el Plan Estratégico para el Desarrollo Integral de la Juventud Veracruzana y sus programas operativos anuales;
-
-III. Aprobar los proyectos de presupuesto anual de ingresos, egresos y los estados financieros del Instituto, así como también, el manejo del Fondo;
-
-IV. Analizar, y en su caso, aprobar los programas y proyectos que presente el Director General;
-
-V. Nombrar y remover al personal de confianza a propuesta del Director General;
-
-VI. Aprobar, de acuerdo con las disposiciones legales aplicables, la elaboración de las bases que regulen los convenios, contratos o acuerdos que deba celebrar el Instituto con terceros en materia de obras públicas, adquisiciones, arrendamientos y prestación de servicios;
-
-VII. Conferir poderes generales y especiales, así como, su revocación;
-
-VIII. Vigilar el cumplimiento de los fines del Instituto;
-
-IX. Aprobar el informe anual de actividades que le presente el Director General;
-
-X. Dictar las normas generales sobre las constancias, certificaciones, actas circunstanciadas y demás instrumentos públicos que expida el Instituto en ejercicio de sus funciones;
-
-XI. Dictar las normas generales para otorgar becas, estímulos y demás apoyos económicos que brinde el Instituto a los jóvenes;
-
-XII. Realizar la distribución del territorio del Estado de Veracruz en cuatro zonas, a fin de que el Director pueda designar a los Directores Municipales que serán miembros del Consejo de Jóvenes; y
-
-XIII. Las demás que se establezcan en la presente Ley y otros ordenamientos jurídicos.
-
-###### Artículo 51.
-
-La Junta de Gobierno celebrará sesiones ordinarias por lo menos seis veces por año y las extraordinarias a que convoque su Presidente o la mayoría de los integrantes.
-
-La Junta de Gobierno, sesionará válidamente con la asistencia de por lo menos la mitad más uno de sus miembros, siempre y cuando la mayoría de los asistentes sean representantes de la Administración Pública del Estado. Las resoluciones se tomarán por el voto de la mayoría de los miembros presentes, y el Presidente, tendrá voto de calidad en caso de empate.
-
-###### Artículo 52.
-
-Corresponde al Presidente de la Junta de Gobierno:
-
-I. Instalar y presidir las sesiones ordinarias y extraordinarias de la Junta de Gobierno;
-
-II. Iniciar, concluir y en su caso suspender las sesiones de la Junta, así como, dirigir y coordinar las intervenciones sobre los proyectos y asuntos tratados a su consideración;
-
-III. Someter a votación los asuntos tratados;
-
-IV. Delegar en los miembros de la Junta de Gobierno la ejecución y realización de responsabilidades específicas para la consecuencia del objeto del Instituto; y
-
-V. Las demás que establezcan las disposiciones legales aplicables.
-
-#### SECCIÓN SEGUNDA. De la Dirección General
-
-###### Artículo 53.
-
-El Director General del Instituto es nombrado y removido libremente por el Gobernador del Estado de Veracruz.
-
-###### Artículo 54.
-
-Para ser Director General del Instituto se requiere:
-
-I. Ser veracruzano de nacimiento en pleno ejercicio de sus derechos;
-
-II. Contar con los conocimientos y experiencia en programas y políticas de la juventud;
-
-III. Gozar de buena reputación y no haber sido condenado por delito intencional que amerite pena corporal de más de un año de prisión, pero si se tratare de robo, fraude, falsificación, abuso de confianza u otro que lastime la buena fama en concepto público, se considerará inhabilitado para el cargo, cualquiera que haya sido la pena; y
-
-IV. Poseer el día de su designación, título y cédula profesional de licenciatura.
-
-###### Artículo 55.
-
-El Director General del Instituto, tendrá las siguientes atribuciones:
-
-I. Representar legalmente al Instituto;
-
-II. Asistir con carácter de secretario a las sesiones que celebre la Junta con voz y voto, así como también ejecutar los acuerdos y disposiciones de la Junta de Gobierno;
-
-III. Elaborar el Plan Estratégico para el Desarrollo Integral de la Juventud Veracruzana y sus programas operativos anuales en coordinación con el Consejo de Jóvenes;
-
-IV. Elaborar y someter a la consideración de la Junta de Gobierno los anteproyectos institucionales, de presupuesto y operativo anual del Instituto;
-
-V. Presentar ante la Junta de Gobierno los manuales de organización y de procedimientos del Instituto para su aprobación y difusión.
-
-VI. Presentar a la Junta de Gobierno, un informe anual de las actividades, avance de programas y estados financieros con las observaciones que estime pertinentes y que permitan conocer el estado administrativo y operativo del Instituto. Así mismo, presentará los informes que le solicite la Junta de Gobierno;
-
-VII. Establecer canales de información adecuados a fin de que sean difundidos oportunamente los programas y actividades en las Direcciones Municipales y Comités Municipales;
-
-VIII. Promover el mejoramiento técnico, administrativo y patrimonial del Instituto;
-
-IX. Crear el Fondo de Apoyo a Proyectos Juveniles del Estado de Veracruz con la participación de los sectores públicos, social y privado. Dicho Fondo tendrá el objetivo de apoyar iniciativas juveniles autónomas. Rendir informes ante la Junta del manejo del Fondo;
-
-X. Crear y presidir el Consejo de Jóvenes con la finalidad de que las acciones, programas y demás actividades del Instituto sean un reflejo de la realidad de la juventud veracruzana;
-
-XI. Acordar con el Director del Instituto Veracruzano del Deporte las acciones de carácter deportivo que deban desarrollar coordinadamente;
-
-XII. Otorgar facultades para el desempeño de comisiones especiales a los funcionarios del Instituto, cuando así lo considere conveniente;
-
-XIII. Crear la Red Juvenil mediante el padrón de organizaciones, asociaciones o grupos afines, que tengan como temática la juventud, auxiliándose de las direcciones municipales y demás unidades administrativas a su cargo;
-
-XIV. Proponer y ejecutar las medidas generales sobre el régimen interior, el cumplimiento de las políticas y programas para el desarrollo de la juventud;
-
-XV. Elaborar manuales de organización, de procedimientos y servicio al público;
-
-XVI. Proponer a la Junta de Gobierno, el nombramiento o remoción del personal de confianza del Instituto;
-
-XVII. Nombrar y remover, en su caso, a los trabajadores que presten sus servicios en el Instituto cuya designación no esté a cargo de la Junta de Gobierno;
-
-XVIII. Recabar información y elementos estadísticos sobre las funciones del Instituto para mejorar su desempeño;
-
-XIX. Elegir a los cuatro directores municipales que serán miembros del Consejo de Jóvenes de acuerdo con la distribución del territorio del Estado de Veracruz que sea aprobado en la Junta Directiva; y
-
-XX. Las demás que establezca la presente Ley, y la normatividad aplicable.
-
-#### SECCIÓN TERCERA. Del Plan Estratégico para el Desarrollo Integral de la Juventud Veracruzana
-
-###### Artículo 56.
-
-El Plan tendrá una duración de 6 años y no podrá contravenir al Plan Veracruzano de Desarrollo. Debe contemplar todas las acciones, programas y estrategias tendientes a la protección de los derechos de la juventud veracruzana, así como, también crear los canales necesarios para mejorar las condiciones en todos los ámbitos posibles de ésta encaminados a su desarrollo integral.
-
-#### SECCIÓN CUARTA. Del Consejo de Jóvenes
-
-###### Artículo 57.
-
-El Instituto contará con un Consejo de Jóvenes. Todos los cargos de éste, serán de carácter honorífico, por lo que no tendrán retribución económica alguna. Este órgano de Consulta tiene como fin asesorar, proponer, opinar y apoyar los planes, programas y proyectos que se impulsen para el logro del Instituto, así como también, colaborar en la elaboración del Plan Estratégico para el Desarrollo Integral de la Juventud Veracruzana.
-
-###### Artículo 58.
-
-El Consejo de Jóvenes estará integrado de la siguiente forma:
-
-I. Por el Director General del Instituto, quien lo presidirá;
-
-II. Por un Secretario que será electo por los miembros del Consejo con duración en su cargo de un año;
-
-III. Por diez representantes de organizaciones juveniles del Estado, y de los sectores social y privado;
-
-IV. Por un representante del Poder Legislativo que de acuerdo a los fines de la presente Ley será un integrante de la Comisión Permanente de Juventud y Deporte; y
-
-V. Por cuatro Directores Municipales.
-
-###### Artículo 59.
-
-Para la elección de los integrantes que hace referencia la fracción III del artículo 58, será necesario emitir una convocatoria estatal donde se establezcan las bases y lineamientos que regirán dicha elección. Los creadores de los diez mejores proyectos a juicio de la Junta, serán los que formarán parte del Consejo.
-
-###### Artículo 60.
+###### ARTÍCULO 11.
 
 El Consejo tendrá las siguientes atribuciones:
 
-I. Elaborar proyectos, investigaciones y estudios en la materia;
+I. Expedir el Código de Ética del Turismo;
 
-II. Sugerir medidas y acciones para afianzar el cumplimiento de los compromisos estatales concernientes a la atención de jóvenes;
+II. Proponer a la Secretaría aquellos temas, elementos o consideraciones que considere debe de contener el proyecto del Programa;
 
-III. Emitir opiniones respecto de los mecanismos utilizados para la elaboración y el contenido del Plan;
+III. Proponer las medidas para garantizar el cabal cumplimiento de los derechos de los turistas y su seguridad personal;
 
-IV. Analizar los objetivos del Plan y las metas alcanzadas para fortalecer los proyectos y acciones derivadas de él;
+IV. Emitir las recomendaciones pertinentes ante las autoridades competentes en casos de violaciones a los derechos de los turistas;
 
-V. Mantener relaciones de colaboración y coordinación con la Junta y la Dirección; y
+V. Sugerir acciones preventivas y dar una amplia difusión a fin de prevenir, evitar y denunciar actividades delictivas relacionadas con el turismo en el Estado; y
 
-VI. Las demás que le otorguen otras disposiciones legales.
+VI. Cualquier otra que le otorgue la presente Ley, otras leyes, el Reglamento u otros ordenamientos aplicables en la materia.
+
+#### SECCIÓN SEXTA. Del Derecho a la Salud
+
+###### ARTÍCULO 12.
+
+1. El Consejo Consultivo Estatal se integrará con derecho de voz y voto:
+
+I. El Gobernador, quien lo presidirá;
+
+> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2016)</small>
+
+II. El Titular de la Secretaría de Turismo del Estado, quien presidirá en caso de ausencia del Gobernador;
+
+III. El Titular de la Secretaría de Finanzas;
+
+IV. El Titular de la Secretaría de Desarrollo Urbano y Medio Ambiente;
+
+V. El Titular de la Secretaría de Obras Públicas;
+
+VI. El Titular de la Secretaría de Seguridad Pública;
+
+VII. El Subsecretario de Turismo, que será el Secretario Operativo;
+
+VIII. El Presidente del Municipio, cabecera de la región turística que determine el reglamento; y
+
+IX. Representantes de los organismos de los sectores privado y social que participen en la actividad turística estatal. De éstos se elegirán dos por cada sector, con sus respectivos suplentes, teniendo el carácter de vocales.
+
+2. Se podrá invitar a representantes de instituciones públicas o privadas y demás dependencias y/o entidades federales, locales y municipales, que se determine y que estén relacionadas con la actividad turística en el Estado, pudiendo participar solo con el uso de la voz.
+
+3. Será invitado permanente el Presidente de la Comisión de Turismo del Congreso del Estado.
+
+#### SECCIÓN SÉPTIMA. Del Derecho a la Asistencia Social
+
+###### ARTÍCULO 13.
+
+1. El Consejo Consultivo Turístico definirá en la primera sesión del año, el calendario de sesiones ordinarias, las cuales serán como mínimo dos veces al año.
+
+2. El quórum legal para sesionar el Consejo Consultivo Turístico será con la asistencia de la mitad más uno de sus miembros con voz y voto, y tomarán las decisiones, por mayoría de votos de los presentes; en caso de empate quien presida la sesión tendrá el voto de calidad.
+
+3. El Consejo se reunirá y funcionará en los términos que señale el Reglamento.
+
+#### SECCIÓN OCTAVA. De los Derechos Sexuales y Reproductivos
+
+###### ARTÍCULO 14.
+
+La Secretaría promoverá la integración de Consejos Consultivos Turísticos Municipales en los que participen las autoridades municipales y los sectores social y privado de la localidad.
+
+#### SECCIÓN NOVENA. Del Derecho a la Cultura
+
+###### ARTÍCULO 15.
+
+La Secretaría promoverá la desconcentración progresiva de sus funciones hacia aquellos Municipios con actividad y potencial turístico, a través de la celebración de Acuerdos de Coordinación que permitan:
+
+I. Elaborar y desarrollar proyectos y programas de desarrollo turístico local;
+
+II. Coordinar las obras y servicios públicos necesarios para la adecuada atención al turista y fortalecer el desarrollo urbano turístico del Municipio;
+
+III. Integrar mecanismos de apoyo y fomento a la inversión turística en la localidad; y
+
+IV. Ejecutar armónicamente los programas de promoción y desarrollo del turismo y la observancia de la presente Ley.
+
+#### SECCIÓN DÉCIMA. Del Derecho a la Identidad
+
+###### ARTÍCULO 16.
+
+Los Municipios podrán integrar sus propios Consejos Consultivos Turísticos, con la participación de los Sectores Público, Social y Privado locales.
+
+###### ARTÍCULO 17.
+
+En aquellos Municipios con actividad económica turística considerable, los Ayuntamientos podrán integrar un órgano Municipal de Turismo con funciones coordinadas con la Secretaría.
+
+###### ARTÍCULO 18.
+
+Para la aplicación de la Ley, del Reglamento y de las demás normas jurídicas en materia turística, serán auxiliares del Gobernador y/o de la Secretaría en el ejercicio de sus atribuciones, las autoridades Estatales y Municipales en el ámbito de sus respectivas competencias.
+
+###### ARTÍCULO 19.
+
+1. El Gobernador a través de la Secretaría serán los responsables de planear, establecer, coordinar y ejecutar la política de la actividad turística, con objeto de impulsar el crecimiento y desarrollo del turismo en el Estado.
+
+2. En términos de lo dispuesto en la Ley de Planeación del Estado, los planes y políticas que, para el desarrollo turístico se establezcan, se deberá cuidar la sustentabilidad de la actividad turística en los términos de las leyes de la materia, buscando proteger el entorno sociocultural de las comunidades anfitrionas y asegurar el desarrollo de las actividades económicas viables, que reporten beneficios socioeconómicos, entre los que se cuenten oportunidades de empleo y obtención de ingresos y servicios sociales para las comunidades anfitrionas.
+
+3. La Secretaría deberá utilizar como herramienta de planeación el Programa Sectorial de Turismo.
+
+###### ARTÍCULO 20.
+
+La planeación de la actividad turística municipal deberá ser integral, por lo que la Secretaría participará y coadyuvará con los Gobiernos Municipales, con el objeto de intensificar y ampliar la actividad turística en la región de que se trate; por lo que promoverá ante el Gobernador acuerdos de coordinación y colaboración con los Gobiernos Municipales y los sectores afines a la actividad turística.
+
+###### ARTÍCULO 21.
+
+La Secretaría validará los proyectos que presenten los municipios con el objeto de que estos estén elaborados en función de las oportunidades de mercado tanto nacional como internacional, así como sea factor de un desarrollo integral, equilibrado, regional y sustentable.
+
+### CAPÍTULO II. DE LA PROGRAMACIÓN DE LA ACTIVIDAD TURÍSTICA
+
+###### ARTÍCULO 22.
+
+1. Corresponde a la Secretaría elaborar un proyecto de Programa, el que contendrá los objetivos, prioridades, políticas, estimación de recursos y las determinaciones conducentes sobre los instrumentos y responsables de su ejecución, que habrán de observarse de conformidad a lo establecido en el Plan Estatal de Desarrollo y que se constituirá en el Programa Local de Turismo a que se refiere la Ley General.
+
+2. En la elaboración del proyecto de programa se deberán observarse los lineamientos de la planeación democrática.
+
+3. El Programa se formulará, revisará y evaluará conforme a los términos establecidos en la Ley Estatal de Planeación, a fin de valorar los resultados, logros y avances de las acciones realizadas en materia turística.
+
+4. Una vez aprobado el Programa por el Gobernador, deberá publicarse en el Periódico Oficial del Estado.
+
+###### ARTÍCULO 23.
+
+El Programa deberá contener un diagnóstico y un pronóstico de la situación del turismo en la Entidad, así como determinar los objetivos, metas y políticas de largo, mediano y corto plazo de esta actividad a escala estatal con observancia de lo que establezcan los instrumentos jurídicos, administrativos y de política económica que sean aplicables.
+
+###### ARTÍCULO 24.
+
+El Programa deberá reunir los siguientes requisitos:
+
+I. Especificar los objetivos, metas y líneas de acción que la Secretaría se proponga realizar de conformidad con los lineamientos emitidos en el Plan Estatal de Desarrollo;
+
+II. Contener un diagnóstico y un propósito de la situación del turismo en la Entidad;
+
+III. Tomar en cuenta las condiciones del mercado, las exigencias y las posibilidades estatales y municipales dentro del marco de facultades y el presupuesto que determinen las leyes correspondientes para sus objetivos, metas y líneas de acción;
+
+IV. Procurar que en sus objetivos y metas se establezcan acciones que impulsen el desarrollo de aquellas regiones en donde existan atractivos e intereses por la inversión turística;
+
+V. Tomar en cuenta las necesidades de la región que se pretenda desarrollar, así como las disposiciones legales y administrativas en materia ecológica y de protección del patrimonio histórico, cultural, paleontológico y arqueológico; y
+
+VI. Especificar los casos en que, para realizar un objetivo en particular o seguir alguna línea de acción determinada, se requiera la participación, coadyuvanza, coordinación o realización de convenios con el Gobierno Federal o con los Gobiernos Municipales, según el caso de que se trate.
+
+###### ARTÍCULO 25.
+
+1. La Secretaría deberá implementar un Programa Operativo Anual que defina las acciones concretas que permitan el cumplimiento del Programa.
+
+2. Lo anterior, sin demérito de proponer al Gobernador los programas regionales y en su caso, subregionales en términos de las zonas prioritarias o estratégicas del sector.
+
+###### ARTÍCULO 26.
+
+1. Los Municipios deberán contar con un Programa Municipal de Turismo, que será acorde a lo dispuesto en el Programa.
+
+2. Su formulación, instrumentación y evaluación será conforme a lo señalado para los programas parciales a que se refiere la Ley Estatal de Planeación, exceptuando la delimitación territorial.
+
+###### ARTÍCULO 27.
+
+1. El Gobernador, por conducto de la Secretaría y con la participación de las dependencias y entidades competentes, celebrará los convenios o acuerdos de coordinación necesarios para regular, administrar y vigilar las zonas de desarrollo turístico sustentable, que se llegasen a ubicar en el Estado, en términos de la Ley General
+
+2. Los municipios participarán en la elaboración de los convenios o acuerdos a que se refiere este artículo, en los términos del Reglamento respectivo de la Ley General.
+
+###### ARTÍCULO 28.
+
+Se considerarán zonas de desarrollo turístico sustentable, aquellas que por sus características naturales, histórico-monumentales o culturales, constituyan un atractivo turístico, actual o potencial. El Gobernador y los municipios a través de este último, podrán presentar ante la SECTUR, proyectos de declaratorias de Zonas de Desarrollo Turístico Sustentable.
+
+###### ARTÍCULO 29.
+
+La Secretaría será responsable de la coordinación de las dependencias y entidades del Gobierno de Tamaulipas, así como de los municipios en la regulación, administración y vigilancia de las Zonas de Desarrollo Turístico Sustentable a que se refiere el artículo 27 de la presente Ley, con el fin de fomentar la inversión, el empleo y el ordenamiento territorial, conservando los recursos naturales en beneficio de la población actual y futura.
+
+###### ARTÍCULO 30.
+
+La Secretaría promoverá la creación de empresas turísticas que realicen inversiones en las zonas de desarrollo turístico sustentable y procurará la asistencia técnica y capacitación en coordinación con las Dependencias competentes y los propios interesados.
+
+###### ARTÍCULO 31.
+
+1. La Secretaría fomentará la dotación de la infraestructura que requieran las zonas de desarrollo turístico y el mejoramiento de la ya existente, en coordinación con las Dependencias y Entidades de la Administración Pública correspondientes.
+
+2. Asimismo, promoverá el apoyo de los Sectores Social y Privado para estas actividades.
+
+###### ARTÍCULO 32.
+
+Las obras de construcción que se realicen en una zona de desarrollo turístico sustentable deberán sujetarse a los lineamientos establecidos para tal efecto, con el propósito de proteger y conservar el entorno ecológico.
+
+###### ARTÍCULO 33.
+
+La realización de nuevas construcciones, así como los rótulos o anuncios en una población o zona que se declare de interés turístico, deberán de ajustarse al carácter y estilo arquitectónico de la misma.
+
+###### ARTÍCULO 34.
+
+La Secretaría llevará el registro de las zonas de desarrollo turístico sustentable y en él se inscribirán las declaratorias correspondientes, así como los proyectos de realización que se determinen para las mismas.
+
+###### ARTÍCULO 35.
+
+La Secretaría podrá celebrar convenios de cooperación con las instituciones educativas y de investigación, así como con otros organismos privados, para el desarrollo de programas de protección, conservación, mejoramiento y rehabilitación de las áreas y zonas de desarrollo turístico.
+
+### CAPÍTULO II. ZONAS DE DESARROLLO TURÍSTICO SUSTENTABLE LOCAL
+
+###### ARTÍCULO 36.
+
+La Secretaría impulsará y propondrá al Gobernador la creación de zonas de desarrollo turístico sustentable local, en las que por sus condiciones particulares sean propicias para el desarrollo del turismo en Tamaulipas.
+
+###### ARTÍCULO 37.
+
+1. El Gobernador, a propuesta de la Secretaría, expedirá la declaratoria de zona de desarrollo turístico sustentable local mediante decreto que será publicado en el Periódico Oficial del Estado.
+
+2. Serán aplicables en lo conducente, lo dispuesto en la presente Ley en lo relativo a las zonas de desarrollo turístico sustentable.
+
+###### ARTÍCULO 38.
+
+1. La Secretaría, para elaborar la propuesta de declaratoria de zona de desarrollo turístico sustentable local, deberá tomar en consideración la opinión del Consejo, así como de los Municipios, con base en los Programas Municipales de Desarrollo Urbano.
+
+2. La Secretaría deberá realizar un estudio de viabilidad, impacto y crecimiento económico de la zona que se pretende declarar como de desarrollo turístico.
+
+3. La propuesta de declaratoria también deberá contener los motivos que la justifican y la delimitación geográfica de la zona.
+
+### CAPÍTULO I. DEL ESTADO
+
+###### ARTÍCULO 39.
+
+1. Las zonas de desarrollo turístico sustentable local podrán ser:
+
+I. Prioritarias: Aquellas que por sus características naturales, ecológicas, históricas o culturales, constituyan un atractivo turístico que coadyuve al crecimiento económico de una zona, o bien, aquella que cuente con la potencialidad para desarrollar actividades turísticas; y
+
+II. Saturadas: Aquellas que requieran limitar el crecimiento de la actividad turística por alguna de las siguientes circunstancias:
+
+a) Por sobrepasar el límite máximo de la oferta turística que, teniendo en cuenta el número de servicios turísticos por habitante o densidad de población, se determine en el Reglamento; o
+
+b) Por registrar una demanda que por su afluencia o tipo de actividad turística, genere situaciones incompatibles con el cuidado y protección del medio ambiente natural y cultural.
+
+2. La declaratoria de Zona de Desarrollo Turístico Local Saturada implica la suspensión de la expedición de nuevas autorizaciones o permisos para prestar los servicios turísticos señalados en esta Ley, y dicha declaratoria continuará vigente únicamente hasta que desaparezcan las circunstancias que hayan motivado su expedición, según declaratoria del Gobernador.
+
+## TÍTULO QUINTO. DEL TURISMO SOCIAL
+
+### CAPÍTULO ÚNICO. DEL TURISMO SOCIAL
+
+###### ARTÍCULO 40.
+
+1. El Turismo Social comprende todos aquellos programas que instrumente la Secretaría a través de los cuales se facilite la participación en el turismo de los grupos de trabajadores, niños, jóvenes, estudiantes, personas con discapacidades, adultos mayores, indígenas y otros que, por razones físicas, económicas, sociales o culturales, tiene acceso limitado a disfrutar del patrimonio y los servicios turísticos.
+
+2. La Secretaría promoverá la celebración de convenios de colaboración o de otra clase con dependencias y entidades de la Federación y de los Estados, así como con el sector privado y social, con el objeto de fomentar el Turismo Social entre los grupos mencionados en el párrafo anterior.
+
+###### ARTÍCULO 41.
+
+La Secretaría, escuchando a los organismos del sector, formulará, coordinará y promoverá para efectos de lo establecido en el artículo anterior, los programas de Turismo Social necesarios, tomando en cuenta para la elaboración de los mismos, las necesidades y características específicas de cada grupo, las temporadas adecuadas para su mejor aprovechamiento y el aprovechamiento integral del patrimonio turístico.
+
+###### ARTÍCULO 42.
+
+La Secretaría celebrará convenios con prestadores de servicios turísticos por medio de los cuales se determinen precios y tarifas reducidas, así como paquetes que hagan posible el cumplimiento de los objetivos de este Capítulo, para los programas de Turismo Social.
+
+## TÍTULO TERCERO. DE LOS INSTRUMENTOS DE PLANEACIÓN DE LA ACTIVIDAD TURÍSTICA
+
+### CAPÍTULO I. OBJETIVOS DE LA PLANEACIÓN DE LA ACTIVIDAD TURÍSTICA
+
+### CAPÍTULO II. DE LOS MUNICIPIOS
+
+###### ARTÍCULO 43.
+
+La Secretaría promoverá inversiones que tiendan a incrementar las instalaciones destinadas al Turismo Social, que tengan por objeto la prestación de servicios turísticos accesibles a la población. Asimismo, promoverá la conjugación de esfuerzos para mejorar la atención y el desarrollo de aquellos lugares en que pueda ser susceptible elevar el nivel de vida de sus habitantes, mediante su participación en la actividad turística.
+
+###### ARTÍCULO 44.
+
+Los Municipios destinarán una partida de su presupuesto anual para promover el Turismo Social.
+
+> <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, P.O. 13 DE DICIEMBRE DE 2022)</small>
+
+## TÍTULO QUINTO BIS. DEL TURISMO ACCESIBLE
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 13 DE DICIEMBRE DE 2022)</small>
+
+### CAPÍTULO ÚNICO. DEL TURISMO ACCESIBLE
+
+> <small>(ADICIONADO, P.O. 13 DE DICIEMBRE DE 2022)</small>
+
+ARTÍCULO 44 BIS.
+
+1. La Secretaría, con el apoyo y en coordinación de las dependencias y entidades competentes, promoverá la prestación de servicios turísticos con accesibilidad, que tengan por objeto beneficiar a la población con alguna discapacidad.
+
+2. Corresponde a la Secretaría, en coordinación con los Ayuntamientos de la Entidad que cuenten con playas susceptibles de ser inclusivas, promover la gestión, ante las autoridades e instancias correspondientes, de las certificaciones y distintivos para ser consideradas como playas limpias sustentables, y de Bandera Azul, a fin de garantizar que dichas playas cuenten con espacios adaptados y con señalética accesible para las personas con discapacidad y adultas mayores con movilidad reducida.
+
+> <small>(ADICIONADO, P.O. 13 DE DICIEMBRE DE 2022)</small>
+
+ARTÍCULO 44 TER.
+
+1. Los prestadores de servicios turísticos deberán proveer lo necesario para que las personas con discapacidad cuenten con accesibilidad a los servicios en condiciones adecuadas.
+
+2. La misma obligación tendrán las autoridades respecto de los sitios culturales con afluencia turística.
+
+3. La Secretaría, y los Municipios, supervisarán a través de su mecanismo de implementación y coordinación municipal, que lo dispuesto en dicho Capítulo se cumpla.
+
+> <small>(ADICIONADO, P.O. 13 DE DICIEMBRE DE 2022)</small>
+
+ARTÍCULO 44 QUÁTER.
+
+Los Municipios destinarán una partida de su presupuesto anual para promover la prestación del Turismo Accesible.
+
+> <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, P.O. 11 DE OCTUBRE DE 2023)</small>
+
+## TÍTULO QUINTO TER. DEL TURISMO GASTRONÓMICO
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 11 DE OCTUBRE DE 2023)</small>
+
+### CAPÍTULO ÚNICO. DEL TURISMO GASTRONÓMICO
+
+> <small>(ADICIONADO, P.O. 11 DE OCTUBRE DE 2023)</small>
+
+ARTÍCULO 44 QUINQUIES.
+
+El turismo gastronómico es la actividad turística que comprende la visita a comunidades y regiones del Estado, con el fin de probar la cocina tradicional del lugar y/o realizar actividades relacionadas con la gastronomía.
+
+El Estado, los municipios y demás dependencias, podrán realizar acciones con los sectores social y privado para el fomento del turismo gastronómico integrándolo a la oferta turística estatal.
+
+> <small>(ADICIONADO, P.O. 11 DE OCTUBRE DE 2023)</small>
+
+ARTÍCULO 44 SEXIES.
+
+La Secretaría podrá fomentar con la concurrencia de los sectores público, social y privado, el turismo gastronómico en ferias, en la cual participen todas y cada una de las regiones de la entidad, con la finalidad de difundir y promover las tradiciones gastronómicas del Estado.
+
+> <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, P.O. 24 DE SEPTIEMBRE DE 2024)</small>
+
+## TÍTULO QUINTO QUATER. DEL TURISMO ESPACIAL
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 24 DE SEPTIEMBRE DE 2024)</small>
+
+### CAPÍTULO ÚNICO. DEL TURISMO ESPACIAL
+
+> <small>(ADICIONADO, P.O. 24 DE SEPTIEMBRE DE 2024)</small>
+
+ARTÍCULO 44 SEPTIES.
+
+El Turismo Espacial es el conjunto de actividades que posibilita la exploración más allá de la atmósfera terrestre, es una oportunidad para el desarrollo e innovación en la tecnología espacial nacional, a fin de potenciar la inversión.
+
+> <small>(ADICIONADO, P.O. 24 DE SEPTIEMBRE DE 2024)</small>
+
+ARTÍCULO 44 OCTIES.
+
+La Secretaría podrá coordinarse con las autoridades federales, estatales y municipales, así como con los sectores privado y social, para apoyar a los Prestadores de Servicios Turísticos que, eventualmente, se dediquen al Turismo espacial, y para promover la constitución de empresas, mediante inversión nacional y extranjera, que tengan por objeto la prestación de servicios turísticos.
+
+> <small>(ADICIONADO, P.O. 24 DE SEPTIEMBRE DE 2024)</small>
+
+ARTÍCULO 44 NONIES.
+
+La Secretaría fomentará la conjunción de esfuerzos para mejorar la atención y desarrollo de infraestructura en aquellos lugares que puedan ser susceptibles de elevar su nivel económico y de vida, mediante la inversión en la industria turística espacial y las actividades relacionadas con esta.
+
+> <small>(ADICIONADO, P.O. 24 DE SEPTIEMBRE DE 2024)</small>
+
+ARTÍCULO 44 DECIES.
+
+Se consideran acciones primordiales para lograr el desarrollo del Turismo espacial en el Estado las siguientes:
+
+I. Sentar las bases para favorecer, propiciar o incrementar la participación de los Prestadores de Servicios Turísticos, organismos públicos y privados, sociales nacionales y extranjeros en este tipo de Turismo;
+
+II. Fomentar programas turísticos destinados al sector espacial, con propósitos de investigación y esparcimiento, en los que se tomen en consideración sus necesidades y características específicas;
+
+III. Estimular las inversiones destinadas a programas de Turismo espacial, a través de la formación de sociedades cooperativas, asociaciones, comités y patronatos, asociaciones público privadas (APPs), así como proporcionar la asesoría y capacitación necesaria que requieran las personas físicas o morales interesadas en este tipo de inversiones;
+
+IV. Propiciar la celebración de reuniones, congresos y seminarios regionales, estatales, nacionales e internacionales sobre el Turismo espacial; y
+
+V. Las demás que la Secretaría considere.
+
+## TÍTULO SEXTO. DE LA PROMOCIÓN Y FOMENTO DEL TURISMO
+
+### CAPÍTULO I. DE LA PROMOCIÓN TURÍSTICA
+
+###### ARTÍCULO 45.
+
+1. Corresponde a la Secretaría, la Promoción Turística, en el ámbito local, nacional e internacional, de Tamaulipas. Los Municipios deberán promover la actividad turística en su demarcación territorial, en el marco del Programa y de los Programas Municipales.
+
+2. El Estado y los Municipios deberán coordinarse con la SECTUR para el desarrollo de campañas de promoción turística en territorio nacional y extranjero.
+
+### CAPÍTULO III. DE LA COMISIÓN EJECUTIVA DE TURISMO
+
+###### ARTÍCULO 46.
+
+La Secretaría en coordinación con el área administrativa de comunicación social del Gobierno del Estado, expedirá los lineamientos técnicos para el diseño y la producción de las campañas publicitarias del turismo de la entidad.
+
+### CAPÍTULO IV. DEL CONSEJO CONSULTIVO DE TURISMO
+
+###### ARTÍCULO 47.
+
+1. La marca turística del Estado, es el elemento gráfico que identifica a esta última como destino turístico en el ámbito local, nacional e internacional.
+
+2. La Secretaría promoverá el uso de la marca turística en todos los materiales gráficos, visuales y electrónicos que se utilicen con fines de promoción y difusión turísticas.
+
+###### ARTÍCULO 48.
+
+La Promoción Turística nacional e internacional comprenderá, entre otras, las siguientes actividades, estrategias y acciones:
+
+I. La participación de la Secretaría y de los prestadores de servicios turísticos en eventos, congresos y exposiciones turísticas nacionales e internacionales;
+
+II. La publicación y distribución de libros, revistas, folletos y otros materiales audiovisuales o electrónicos, dedicados a la difusión de los atractivos turísticos, el patrimonio turístico, las categorías del turismo y los servicios turísticos del Estado, a nivel nacional e internacional;
+
+III. El apoyo a los eventos que de manera anual organice la Secretaría para la promoción del Estado;
+
+IV. La promoción de los Municipios como destino para la inversión turística entre inversionistas nacionales y extranjeros;
+
+V. La Secretaría, a través de programas de certificación, promoverá la excelencia en la gestión de los hoteles y restaurantes cuyos estándares de servicio y características arquitectónicas y gastronómicas, reflejen y promuevan la riqueza de la cultura mexicana;
+
+VI. La difusión de la marca, imagen y servicios turísticos, así como los atractivos turísticos de Tamaulipas, en medios de comunicación masiva; y
+
+VII. Cualquier otra actividad cuya finalidad sea la comunicación persuasiva para incrementar la imagen, los flujos turísticos, la estadía y el gasto de los turistas en el Estado.
+
+#### SECCIÓN PRIMERA. De la Junta de Gobierno
+
+###### ARTÍCULO 49.
+
+En la Promoción Turística y material promocional que edite la Secretaría, se dará preferencia a aquellos prestadores de servicios turísticos que en sus productos, servicios e instalaciones, así como en sus materiales gráficos y audiovisuales utilicen la marca turística de Tamaulipas.
+
+### CAPÍTULO II. DEL FOMENTO AL TURISMO
+
+###### ARTÍCULO 50.
+
+La Secretaría impulsará la actividad turística a través de programas y proyectos que tendrán por objeto el otorgamiento de financiamiento, estímulos e incentivos a los prestadores de servicios turísticos, con la finalidad de fomentar la inversión en infraestructura turística.
+
+> <small>(ADICIONADO, P.O. 9 DE FEBRERO DE 2023)</small>
+
+ARTÍCULO 50 BIS.
+
+En caso de declaratoria de desastre natural o de emergencia emitida por la autoridad competente, el Gobierno del Estado, a través de sus dependencias y entidades correspondientes, gestionará el otorgamiento de beneficios y apoyos, de acuerdo a las disposiciones legales aplicables, para los prestadores de servicios turísticos de la zona afectada, debidamente acreditados en los términos de Ley.
+
+###### ARTÍCULO 51.
+
+1. La Secretaría apoyará a los prestadores de servicios turísticos, ante las instancias respectivas, para que obtengan financiamiento para construir, mejorar o remodelar la infraestructura turística.
+
+2. De la misma manera, la Secretaría gestionará ante las autoridades correspondientes el otorgamiento de facilidades, incentivos y estímulos para el desarrollo de la actividad turística.
+
+###### ARTÍCULO 52.
+
+La Secretaría, estimulará y promoverá entre la iniciativa privada y el sector social, la creación y fomento de cadenas productivas y redes de valor en torno a los desarrollos turísticos nuevos y existentes, con el fin de detonar la economía local y buscar el desarrollo regional.
+
+#### SECCIÓN SEGUNDA. De la Dirección General
+
+###### ARTÍCULO 53.
+
+La promoción turística no deberá restringirse a los sitios del Estado que ya cuentan con un posicionamiento en la actividad, sino que deberá incluirse además los sitios con posibilidades de aprovechamiento turístico, reconocidos en el Plan Estatal de Turismo.
+
+###### ARTÍCULO 54.
+
+La Secretaría promoverá la celebración de convenios de colaboración con los medios masivos de comunicación regionales para instrumentar y apoyar las campañas de publicidad de los atractivos turísticos locales, así como de las actividades, eventos y espectáculos de carácter turístico del Estado.
+
+> <small>(ADICIONADO, P.O. 1 DE DICIEMBRE DE 2017)</small>
+
+ARTÍCULO 54 BIS.
+
+1. La inversión turística es la aplicación o colocación de bienes o capital con fines turísticos productivos.
+
+2. La Secretaría establecerá en el mes de septiembre de cada año el Plan de Trabajo, en el que se registrará el proyecto de inversión turística en el Estado, con el objetivo de gestionar los recursos necesarios para generar medidas que busquen el desarrollo económico y social del sector.
+
+3. La Secretaría fomentará el desarrollo de inversión en el Estado a través del diseño de políticas públicas enfocadas a dicho fin.
+
+4. La Secretaría, conjuntamente con asociaciones civiles, instituciones públicas, privadas y sociales, organismos gubernamentales federales, estatales y municipales, en función de sus respectivas competencias, promoverá a través de las herramientas que le competa el desarrollo de micro, pequeñas y medianas empresas con el objetivo de contribuir a la creación de empleos y oferta turística competitiva en el sector.
+
+5. Se deberán desarrollar programas de mejora de infraestructura turística que creen las condiciones que permitan el desarrollo de la inversión turística en el Estado, así como el aumento en la competitividad en el sector.
+
+6. La Secretaría, conjuntamente y en coordinación con asociaciones civiles, instituciones públicas, sociales y privadas, organismos gubernamentales federales, estatales y municipales, deberá detectar así como promover oportunidades de inversión en el sector turístico del Estado.
+
+7. Todas aquellas instituciones públicas, sociales o privadas y organismos que dentro de sus planes, programas o acciones contemplen o tengan como finalidad la promoción o desarrollo del sector turístico en el Estado, deberán consultar a la Secretaría, con el objetivo de homologar y potencializar los esfuerzos para desarrollar el sector.
+
+> <small>(ADICIONADO, P.O. 1 DE DICIEMBRE DE 2017)</small>
+
+ARTÍCULO 54 TER.
+
+Las dependencias y entidades de la Administración Pública Estatal y Municipal deberán:
+
+l. Otorgar a los inversionistas y prestadores de servicios turísticos las facilidades necesarias, a fin de agilizar los trámites y procedimientos por ventanilla única para el cumplimiento de sus obligaciones; así como para la obtención de los apoyos a que se refiere esta Ley;
+
+II. Simplificar y, en su caso, adecuar los trámites de procedimientos que incidan en la instalación, funcionamiento y fomento de los servicios turísticos, en tanto basten para ello disposiciones administrativas o resoluciones de los titulares respectivos; y
+
+III. Cuando dichos trámites deban cumplirse en varias unidades administrativas de una misma dependencia, ésta adoptará las medidas para establecer una sola ventanilla para su atención y despacho.
+
+## TÍTULO SÉPTIMO. DE LOS SISTEMAS DE INFORMACIÓN DE LA ACTIVIDAD TURÍSTICA
+
+### CAPÍTULO ÚNICO. DEL REGISTRO ESTATAL Y EL SISTEMA DE INFORMACIÓN TURÍSTICA
+
+###### ARTÍCULO 55.
+
+Corresponde a la Secretaría operar en el Estado el Registro Nacional de Turismo, en los términos de la Ley General y conforme al Reglamento.
+
+#### SECCIÓN TERCERA. Del Plan Estratégico para el Desarrollo Integral de la Juventud Veracruzana
+
+###### ARTÍCULO 56.
+
+Los Municipios proporcionarán a la Secretaría la información necesaria para la integración del Registro Turístico de Tamaulipas, según lo determine el Reglamento.
+
+> <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 2017)</small>
+
+#### SECCIÓN CUARTA. Del Consejo de Jóvenes
+
+###### ARTÍCULO 57.
+
+1. La competitividad turística es la capacidad y habilidad para crear, ofrecer y sostener actividades, productos y servicios turísticos con el valor añadido que permitan generar desarrollo económico y social del Estado, en un marco de competencia nacional e internacional, basado en los principios de rentabilidad, sustentabilidad, evaluación continua, entre otros que se consideren necesarios.
+
+2. La Secretaría impulsará la competitividad turística del Estado a través del desarrollo de los estudios, programas y proyectos para mejorar la experiencia de los turistas y visitantes, así como las capacidades de los prestadores de servicios turísticos, entre otros, a través del mejoramiento de la calidad de los servicios turísticos; la certificación de los prestadores de servicios en programas federales; el mejoramiento de la imagen urbana; la puesta en valor de nuevos espacios para la práctica de la actividad turística y recreativa y el impulso del mejoramiento de las condiciones generales de la entidad como destino turístico.
+
+3. La Secretaría elaborará anualmente el Índice de Competitividad Turística del Estado de Tamaulipas, y para ello podrá apoyarse en las principales instituciones educativas del Estado y deberá tomar en cuenta como mínimo los principios básicos señalados en el presente artículo, así como los criterios y estándares establecidos por el Foro Económico Mundial en su Índice de Competitividad Turística.
+
+###### ARTÍCULO 58.
+
+La Secretaría tendrá a su cargo la integración, organización y actualización del Sistema de Información Turística del Estado, el cual permitirá conocer los recursos, características y participantes de la actividad turística, así como integrar el Inventario del Patrimonio Turístico del Estado y el Registro Estatal de la Actividad Turística.
+
+###### ARTÍCULO 59.
+
+Los Ayuntamientos, los Organismos Turísticos Locales y los prestadores de servicios turísticos a que se refiere esta Ley, enviarán toda la información relevante de que dispongan para ser integrada al Sistema de Información Turística del Estado.
+
+###### ARTÍCULO 60.
+
+Para la integración del Sistema de Información Turística del Estado, las Dependencias y Entidades de la Administración Pública Estatal y Municipal relacionadas con la actividad turística, deberán proporcionar los informes que para el efecto les requiera la Secretaría.
 
 #### SECCIÓN QUINTA. De las Direcciones Municipales
 
-###### Artículo 61.
+###### ARTÍCULO 61.
 
-Los Ayuntamientos de acuerdo a sus posibilidades presupuestales, podrán crear Direcciones Municipales, las que operarán en el ámbito de su competencia y jurisdicción de manera similar al Instituto de la Juventud Veracruzana. Para que una Dirección Municipal, promueva o impulse programas definidos en el Plan Estratégico para el Desarrollo Integral de la Juventud, deberá suscribir el convenio correspondiente con el Instituto.
+Se deberá impulsar a los sectores social y privado a fin de promover su participación activa en la integración de la información turística primordial.
 
-###### Artículo 62.
+###### ARTÍCULO 62.
 
-El Director, de acuerdo con la distribución del territorio veracruzano que realice la Junta, elegirá a cuatro Directores Municipales para que sean miembros del Consejo de Jóvenes, quienes deberán cubrir los mismos requisitos del artículo 54 de esta Ley.
+Los datos y estadísticas captados a través del Sistema de Información Turística deberán editarse periódicamente a fin de retroalimentar a los prestadores de servicios turísticos y demás Dependencias y Entidades de la Administración Pública, fortaleciendo los procesos de planeación.
 
 #### SECCIÓN SEXTA. De los Comités Municipales
 
-###### Artículo 63.
+###### ARTÍCULO 63.
 
-Los Comités Municipales se integrarán por jóvenes, organizaciones juveniles y cualquier organización o asociación cuya temática esté vinculada con la juventud. Estos grupos deberán registrarse ante las Direcciones Municipales a fin de elaborar un padrón que permita crear la Red Juvenil, misma que deberá contener a los funcionarios públicos jóvenes.
+El Inventario del Patrimonio Turístico del Estado deberá contener lugares, objetos y eventos que ofrezcan interés turístico, así como los servicios, facilidades e información necesaria para su óptimo aprovechamiento y acceso.
 
 #### SECCIÓN SÉPTIMA. De la Contraloría Interna
 
-###### Artículo 64.
+###### ARTÍCULO 64.
 
-El Instituto tendrá un Contralor designado, por el Titular de la Contraloría General del Estado, previo acuerdo del Ejecutivo.
+La Secretaría llevará un Registro Estatal de la Actividad Turística, al cual se invitará a inscribirse a los prestadores de servicios turísticos y el cual se renovará su inscripción en el mes de enero, teniendo por objeto la inscripción obligatoria de los prestadores de servicios turísticos, requiriéndose para ello el aviso por escrito a la Secretaría, conteniendo los datos siguientes:
 
-La remuneración económica del Contralor será con cargo a la partida correspondiente de la Contraloría General del Estado prevista en el Presupuesto de Egresos del Estado.
+I. Nombre y domicilio de la persona física o moral que prestará el servicio;
 
-###### Artículo 65.
+II. Lugar y domicilio en que se prestarán los servicios;
 
-El Contralor tendrá las atribuciones siguientes:
+III. Fecha de la apertura del establecimiento turístico;
 
-I. Vigilar que la administración de los recursos que integran el patrimonio del Instituto, se realice de acuerdo con las disposiciones de ley y los programas y directrices aprobados;
+IV. Tipo de los servicios que se prestarán y su categoría, conforme a las normas aplicables; y
 
-II. Practicar auditorias a los estados financieros y de carácter administrativo al término del ejercicio, o antes si la Junta lo considera conveniente para elaborar la cuenta pública que se presentará en términos de ley al Órgano de Fiscalización Superior;
+V. La demás información que el prestador estime necesaria para fines de difusión.
 
-III. Rendir anualmente en sesión de la Junta dictamen respecto de la información presentada por la Dirección;
+###### ARTÍCULO 65.
 
-IV. Asistir con voz pero sin voto a las sesiones de la Junta;
+1. Todos los prestadores de servicios turísticos que operen en el Estado, para adquirir los derechos y poder gozar de los beneficios que se señalan en esta Ley y su Reglamento, deberán inscribirse en el Registro Estatal de la Actividad Turística.
 
-V. Supervisar las operaciones del Instituto; y
+2. Este instrumento será coadyuvante para alcanzar los fines del Registro Nacional de Turismo.
 
-VI. Las demás que le confieran esta ley u otras disposiciones aplicables.
+### CAPÍTULO V. DESCONCENTRACIÓN DE FUNCIONES
 
-### CAPÍTULO CUARTO. De Responsabilidades y Sanciones
+###### ARTÍCULO 66.
 
-###### Artículo 66.
+La Secretaría previo el cumplimiento de los requisitos que imponen la Ley General y la Ley, así como sus reglamentos y las Normas Oficiales Mexicanas que sobre la materia existen, expedirá la Cédula de Registro que será el documento idóneo para acreditar que el prestador de servicios turísticos ha satisfecho los requisitos para su funcionamiento y operación en la categoría asignada en el servicio, así como para gozar de los apoyos y estímulos fiscales.
 
-Las autoridades y servidores públicos considerados en la presente Ley que incumplan con la misma, serán sujeto de responsabilidad de conformidad con lo dispuesto por la Constitución Política de los Estados Unidos Mexicanos, la particular del Estado, la Ley de Responsabilidades de los Servidores Públicos del Estado y la Ley Orgánica del Municipio Libre.
+## TÍTULO CUARTO. ZONAS DE DESARROLLO TURÍSTICO SUSTENTABLE
 
-## TÍTULO CUARTO. Del Parlamento de la Juventud Veracruzana
+### CAPÍTULO I. ZONAS DE DESARROLLO TURÍSTICO SUSTENTABLE
 
-### Capítulo Único
+### CAPÍTULO VI. APLICACIÓN DE LA LEY
 
-> <small>(REFORMADO, G.O. 22 DE DICIEMBRE DE 2006)</small>
+###### ARTÍCULO 67.
 
-###### Artículo 67.
+1. Los prestadores de servicios turísticos que incurran en reincidencia en la violación de disposiciones de la presente Ley y su Reglamento, independientemente de las sanciones a que haya lugar por violaciones a la Ley General, su Reglamento y las Normas Oficiales Mexicanas, quedarán sujetos a las siguientes sanciones:
 
-El Instituto promoverá ante el Congreso del Estado, a través de los integrantes de la Comisión Permanente de Juventud y Deporte del Poder Legislativo del Estado, la instalación anual del Parlamento, mismo que se realizará durante la primera semana del mes de agosto.
+I. No podrán ser inscritos en el Registro Estatal de la Actividad Turística;
 
-###### Artículo 68.
+II. Se cancelará su inscripción; o
 
-El Parlamento contará con un Comité Organizador que se integrará de la siguiente manera:
+III. Se negará su renovación de inscripción al mismo.
 
-I. Los integrantes de la Comisión Permanente de Juventud y Deporte del Poder Legislativo del Estado;
+2. Se entiende por reincidencia, el incumplimiento de obligaciones por dos o más ocasiones, dentro de un periodo de seis meses.
 
-II. El Director General del Instituto de la Juventud Veracruzana; y
+###### ARTÍCULO 68.
 
-III. Un representante de la Secretaría de Educación y Cultura.
+1. La Secretaría difundirá la información turística a través del sitio de internet oficial, Centros y Módulos de Información Turística, entre otros medios.
 
-> <small>(REFORMADO, G.O. 22 DE DICIEMBRE DE 2006)</small>
+2. La Secretaría determinará el sitio de Internet oficial del Gobierno del Estado para la información y promoción turística de los Municipios.
 
-###### Artículo 69.
+3. La dirección electrónica del sitio de internet deberá aparecer en todos los materiales de promoción y oficiales de la Secretaría.
 
-El Comité Organizador se encargará de establecer las bases y lineamientos de la convocatoria, selección de aspirantes, logística y desarrollo del Parlamento de la Juventud, procurando en todo momento que los temas de la convocatoria sean de actualidad y tengan impacto directo en la juventud veracruzana.
+4. Para garantizar la uniformidad y confiabilidad de la información, el Gobierno del Estado no podrá realizar promoción turística a través de otro sitio de internet distinto al señalado en el presente artículo.
 
-###### Artículo 70.
+5. Los Centros de Información Turística ofrecerán información, orientación y asesoramiento acerca de los servicios y atractivos de interés de un sitio turístico y deberán estar en lugares estratégicos y visibles para facilitar su localización, tener una rotulación y señalización en español e inglés, contar con equipo de cómputo y acceso a internet, destinar espacio para la promoción por parte de prestadores de servicios turísticos, información impresa conforme al Reglamento y el personal deberá estar capacitado con conocimientos de cultura general, habilidades de comunicación, dominio de al menos un idioma extranjero y conocimiento actualizado de los recursos, ofertas y atractivos turísticos del lugar.
 
-Podrán participar en el Parlamento, la juventud veracruzana cuya edad esté comprendida entre los 15 y los 29 años, siempre y cuando, cumplan con los requisitos establecidos en las bases y lineamientos de la Convocatoria.
+6. Los aeropuertos y las principales zonas turísticas del Estado, deberán contar con un Centro de Información Turística conforme al Reglamento.
+
+7. Los Módulos de Información Turística deberán estar ubicados en corredores turísticos y serán espacios de información y orientación al turista.
+
+8. Los Módulos cumplirán con aquellos requisitos establecidos para los Centros de Información, que sean acordes a su dimensión física.
+
+## TÍTULO OCTAVO. DE LOS DERECHOS Y OBLIGACIONES DE LOS TURISTAS Y DE LOS PRESTADORES DE SERVICIOS TURÍSTICOS
+
+### CAPÍTULO I. DE LOS DERECHOS Y LAS OBLIGACIONES DE LOS TURISTAS
+
+###### ARTÍCULO 69.
+
+1. Toda persona tiene derecho a disfrutar del turismo como actividad complementaria necesaria para el completo y sano desarrollo del ser humano a través del aprovechamiento de su tiempo libre en actividades de sano esparcimiento, cultura y descanso. Las autoridades fortalecerán y facilitarán el cumplimiento de este derecho, así como su observancia en la formulación, ejecución, evaluación y vigilancia de los planes, programas y acciones públicas en las materias de la Ley.
+
+2. Con independencia de los derechos que otros cuerpos normativos le asignen, constituyen derechos de los turistas:
+
+I. No ser discriminado al participar de las actividades turísticas en términos de lo dispuesto en el artículo primero de la Constitución Política de los Estados Unidos Mexicanos;
+
+II. Disfrutar de libre acceso y goce a todo el patrimonio turístico del Estado, así como su permanencia en las instalaciones de dichos servicios, sin más limitaciones que las derivadas de las leyes aplicables y los reglamentos específicos de cada actividad;
+
+III. Acceder a una información veraz, completa y objetiva sobre los servicios que conforman los diversos segmentos de la actividad turística y en su caso, el precio de los mismos;
+
+IV. Recibir servicios turísticos de calidad y de acuerdo a las condiciones contratadas, así como obtener los documentos que acrediten los términos de contratación, facturas o justificantes de pago;
+
+V. Contar con las condiciones de higiene y seguridad adecuadas en su persona y bienes por los servicios turísticos recibidos en los términos que establezca la normatividad aplicable; y
+
+VI. Los demás derechos reconocidos por la normatividad federal y local o municipal aplicables a la materia turística.
+
+###### ARTÍCULO 70.
+
+Se consideran obligaciones de los turistas:
+
+I. Observar las normas de higiene y convivencia social para la adecuada utilización de los servicios y el patrimonio turístico;
+
+II. Abstenerse de cometer cualquier acto contrario a lo establecido en las leyes y reglamentos, así como propiciar conductas que puedan ser ofensivas o discriminatorias contra cualquier persona o comunidad;
+
+III. Respetar los reglamentos de uso y régimen interior de los servicios turísticos;
+
+IV. Efectuar el pago de los servicios prestados en el momento de la presentación de la factura o en su caso, en el tiempo y lugar convenidos, sin que el hecho de presentar una reclamación o queja exima del citado pago;
+
+> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2014)</small>
+
+V. Respetar el entorno natural y cultural de los sitios en que realicen sus actividades turísticas;
+
+> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2014)</small>
+
+VI. Presentar al prestador de servicios turísticos identificación oficial al momento de su registro, y en su caso el número de identificación vehicular (placas);
+
+> <small>(ADICIONADA, P.O. 25 DE NOVIEMBRE DE 2014)</small>
+
+VII. Proporcionar al prestador de servicios turísticos los datos de entrada, permanencia y salida de los establecimientos donde se encuentra alojado; y
+
+> <small>(ADICIONADA, P.O. 25 DE NOVIEMBRE DE 2014)</small>
+
+VIII. Cualquier otra que contemple la Ley General, la Ley, su Reglamento u otras disposiciones aplicables.
+
+### CAPÍTULO II. DE LOS DERECHOS Y LAS OBLIGACIONES DE LOS PRESTADORES DE SERVICIOS TURÍSTICOS
+
+###### ARTÍCULO 71.
+
+Los prestadores de servicios turísticos tendrán independientemente de lo que señalen para tal fin la Ley General y su Reglamento, los siguientes derechos:
+
+I. Participar en los programas y proyectos de financiamiento para la construcción, mejora o renovación de la infraestructura turística, en términos de la Ley y demás normatividad aplicable;
+
+II. Participar en los programas y acciones de promoción y difusión turística del Estado;
+
+III. Participar en el Consejo, de conformidad con las reglas de organización de mismo;
+
+IV. Participar en los programas y eventos de capacitación y adiestramiento que convoque o coordine la Secretaría;
+
+V. Participar en las cadenas productivas;
+
+VI. Participar en los programas de estímulos y apoyos que diseñe el Gobierno del Estado;
+
+VII. Inscribirse en el Registro Estatal de la Actividad Turística; y
+
+VIII. Recibir asesoramiento de la Secretaría para la obtención de financiamiento, incentivos y estímulos.
+
+###### ARTÍCULO 72.
+
+Son obligaciones de los prestadores de servicios turísticos:
+
+I. Aquellas señaladas en la Ley General, por lo que se refiere a la actividad turística realizada en el territorio del Estado;
+
+II. Proporcionar a los turistas información clara, cierta y detallada respecto de las características, precios, tarifas y promociones de los servicios turísticos, así como las condiciones de su comercialización;
+
+III. Expedir, aún sin solicitud del turista, factura detallada, nota de consumo o documento fiscal que ampare los cobros realizados por la prestación del servicio turístico proporcionado;
+
+IV. Contar con un registro de quejas autorizado por la Secretaría;
+
+V. Proporcionar la información estadística que les sea requerida por parte de la Secretaría, en los términos que señala la Ley del Sistema Nacional de Información Estadística y Geográfica;
+
+VI. Capacitar a su personal, en los términos que señala la Ley Federal del Trabajo y demás normatividad aplicable;
+
+VII. Contar con medidas de seguridad informáticas necesarias para realizar la contratación de sus servicios turísticos cuando se realice por medios cibernéticos;
+
+VIII. Optimizar el uso del agua y energéticos en sus instalaciones, así como disminuir, en tanto sea posible, la generación de desechos sólidos;
+
+> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2014)</small>
+
+IX. Inscribirse en el Registro Estatal de la Actividad Turística;
+
+> <small>(REFORMADA, P.O.17 DE AGOSTO DE 2022)</small>
+
+X. Proporcionar a la Secretaría y demás autoridades en materia de turismo, la información y datos que se les requiera, con motivo del desempeño de sus funciones. Así mismo, deberá proporcionar a las autoridades estatales en materia de seguridad pública y procuración de justicia la información descrita en el artículo 72 BIS de esta Ley;
+
+> <small>(ADICIONADA, P.O.17 DE AGOSTO DE 2022)</small>
+
+XI. Mantener actualizadas sus páginas electrónicas, con la finalidad de que contengan de manera detallada su ubicación, los servicios, costos, restricciones y demás aspectos que sean de interés para el turista; y
+
+> <small>(ADICIONADA, P.O. 25 DE NOVIEMBRE DE 2014)</small>
+
+XII. Las demás que se señalen en esta Ley y en la demás normatividad aplicable.
+
+> <small>(ADICIONADO, P.O. 25 DE NOVIEMBRE DE 2014)</small>
+
+ARTICULO 72 BIS.
+
+1. Los prestadores de servicios turísticos que tengan bajo su responsabilidad la administración y manejo de un hotel, motel, casa de hospedaje o algún otro establecimiento donde se preste alojamiento mediante el pago de una retribución, deberán exigir a quienes pretendan hospedarse y éstos tendrán obligación a presentar identificación oficial al momento de su registro, y en su caso el número de identificación vehicular (placas) o en caso de no contar con este, las características y número de serie del vehículo. El prestador de servicios formará una base datos observando lo establecido en la Ley Federal de Protección de Datos Personales en Posesión de Particulares, información que proporcionará a las autoridades estatales en materia de seguridad pública y procuración de justicia, de forma inmediata cuando se les requiera.
+
+2. La información que deberán proporcionar los prestadores de servicios a que se refiere este artículo, consiste en el nombre completo del huésped o huéspedes, en caso de ser varios en una misma habitación y el tipo y número de folio o clave de la identificación oficial así como los datos de entrada, permanencia y salida de los mismos.
+
+> <small>(REFORMADO, P.O. 14 DE JULIO DE 2021)</small>
+
+3. Podrán requerir información en los términos de este artículo, quienes sean titulares de la Secretaría de Seguridad Pública y de la Fiscalía General de Justicia del Estado, los subsecretarios o subprocuradores respectivamente, o aquellos funcionarios que sean autorizados para tal efecto por los titulares, mediante acuerdo general publicado en el Periódico Oficial del Gobierno del Estado, la información que obtengan será reservada conforme a los (sic) dispuesto en el artículo 28 de la Ley de Transparencia y Acceso a la Información Pública del Estado de Tamaulipas.
+
+> <small>(ADICIONADO, P.O. 16 DE OCTUBRE DE 2019)</small>
+
+ARTÍCULO 72 TER.
+
+En caso de que el prestador del servicio turístico incumpla con uno de los servicios ofrecidos o pactados o con la totalidad de los mismos, tendrá la obligación de rembolsar, bonificar o compensar la suma correspondiente por el pago del servicio incumplido, o bien podrá prestar otro servicio de las mismas características o equivalencia al que hubiere incumplido, a elección del turista.
+
+## TÍTULO NOVENO. DE LA PRESTACIÓN DE LOS SERVICIOS TURÍSTICOS
+
+### CAPÍTULO ÚNICO. DE LA PRESTACIÓN DE SERVICIOS TURÍSTICOS
+
+###### ARTÍCULO 73.
+
+Se consideran servicios turísticos, los prestados a través de:
+
+I. Hoteles, moteles, albergues y demás establecimientos de hospedaje, así como campamentos y paradores de casas rodantes que presten servicios a turistas;
+
+II. Agencias, sub-agencias y operadoras de viajes;
+
+III. Guías de turistas, de conformidad con la clasificación prevista en los reglamentos correspondientes;
+
+IV. Restaurantes, cafeterías, bares, centros nocturnos y similares, así como en aeropuertos, terminales de autobuses, estaciones de ferrocarril, museos y zonas arqueológicas;
+
+V. Empresas de sistemas de intercambio de servicios turísticos; y
+
+VI. Los demás que señale la Ley General y normatividad aplicable.
+
+###### ARTÍCULO 74.
+
+En la prestación de servicios, las relaciones entre quien los proporcione y el que los reciba se regirán por lo que las partes convengan, observándose las disposiciones legales aplicables, sin que para ello existan discriminaciones de raza, sexo, credo, político o religioso, nacionalidad o condición social.
+
+###### ARTÍCULO 75.
+
+Los prestadores de servicios turísticos podrán solicitar información y asesoría técnica, así como que sean incluidos en los programas de capacitación y desarrollo implementados por la Secretaría.
+
+###### ARTÍCULO 76.
+
+Los prestadores de servicios a que se refieren las fracciones II y III del artículo 73 de esta Ley, para ser considerados como tales, deberán cumplir con lo establecido en el Reglamento respectivo, mismo que:
+
+I. No deberá establecer barreras a la entrada de nuevos prestadores de servicios en razón de profesión o de capital; y
+
+II. Solo establecerá garantías a cargo de los prestadores de servicios cuando sea necesario asegurar su debida operación, con objeto de proteger al turista; procurando que dichas garantías no constituyan una carga excesiva para el prestador.
+
+###### ARTÍCULO 77.
+
+Las Normas Oficiales Mexicanas y las normas mexicanas relacionadas con la prestación de los servicios turísticos, serán emitidas por el órgano federal competente, en los términos de la legislación correspondiente, debiendo apegarse la actividad turística del Estado a ellas. La Secretaría deberá difundir ampliamente dichas normas.
+
+###### ARTÍCULO 78.
+
+Corresponde a los prestadores de servicios turísticos:
+
+I. Anunciar ostensiblemente en los lugares de acceso al establecimiento sus precios y tarifas y los servicios que éstos incluyen;
+
+II. En la contratación de servicio de guía de turistas, informar su precio previamente a la contratación con los usuarios;
+
+III. Cumplir con los servicios, precios, tarifas y promociones, en los términos anunciados, ofrecidos o pactados;
+
+IV. Contar con los formatos foliados y de porte pagado en el sistema de quejas de turistas, en los términos de las normas correspondientes;
+
+> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2014)</small>
+
+V. Conservar en las mejores condiciones de higiene y eficiencia en los locales, instalaciones y equipos que se ofrecen al turista;
+
+> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2014)</small>
+
+VI. Conservar hasta por 72 meses el Registro de Turistas señalado en el artículo 72 BIS de la presente Ley; y
+
+> <small>(ADICIONADA, P.O. 25 DE NOVIEMBRE DE 2014)</small>
+
+VII. Observar las disposiciones legales existentes en materia de turismo, salud, prevención y protección al consumidor.
+
+###### ARTÍCULO 79.
+
+El prestador de servicios turísticos que brinde un servicio en un área natural protegida, sujeta a la jurisdicción del Estado, por el que se causen derechos, será solidariamente responsable de su pago y del pago del derecho causado por el acceso de su cliente al área natural protegida. En su caso, se hará acreedor a las sanciones que procedan, independientemente de que realice el pago correspondiente, si presta el servicio sin cerciorarse de que hayan sido pagados dichos derechos en términos de la Ley de Hacienda para el Estado.
+
+## TÍTULO DÉCIMO. DE LA CAPACITACIÓN Y ADIESTRAMIENTO DE LOS PRESTADORES DE SERVICIOS TURÍSTICOS
+
+### CAPÍTULO ÚNICO. DE LA CAPACITACIÓN Y ADIESTRAMIENTO DE LOS PRESTADORES DE SERVICIOS TURÍSTICOS
+
+###### ARTÍCULO 80.
+
+La Secretaría participará en la elaboración de programas de capacitación y adiestramiento destinados a los trabajadores de los prestadores de servicios turísticos, con el objetivo de incrementar la calidad y competitividad de los servicios turísticos que se presten del Estado.
+
+###### ARTÍCULO 81.
+
+La Secretaría, en colaboración con las dependencias y entidades del Gobierno del Estado, las delegaciones, autoridades federales, organismos internacionales, los sectores privado y sociales, sean nacionales e internacionales, organizará la implementación de cursos, diplomados, seminarios o talleres y la celebración de congresos o encuentros, para la capacitación y adiestramiento en y para la actividad turística.
+
+###### ARTÍCULO 82.
+
+La Secretaría llevará un registro de las instituciones educativas establecidas en el territorio del Estado, dedicadas a la especialización en las diferentes ramas de la actividad y servicios turísticos, reconocidas oficialmente, con el objeto de informar a los prestadores de servicios turísticos, sobre la validez oficial y el nivel académico de dichas instituciones educativas.
+
+###### ARTÍCULO 83.
+
+La Secretaría celebrará los acuerdos de coordinación y cooperación necesarios con las autoridades educativas y con otros organismos privados o sociales que impartan educación o capacitación en materia turística para promover la formación de profesionales y técnicos en las ramas de la actividad turística y la capacitación adecuada de los recursos humanos existentes.
+
+## TÍTULO UNDÉCIMO. DE LA VERIFICACIÓN, SANCIONES Y RECURSO DE REVISIÓN
+
+### CAPÍTULO ÚNICO. DE LA VERIFICACIÓN, SANCIONES Y RECURSO DE REVISIÓN
+
+###### ARTÍCULO 84.
+
+1. Corresponde a la Secretaría vigilar el cumplimiento de las disposiciones de esta Ley, sus reglamentos y en su caso de la Ley General.
+
+2. Para ello, podrá realizar visitas de verificación a los prestadores de servicios turísticos para constatar el cumplimiento de las obligaciones a su cargo, establecidas en esta Ley y sus Reglamentos.
+
+###### ARTÍCULO 85.
+
+Las infracciones que los prestadores de servicios turísticos cometan a lo dispuesto en la Ley General y a las disposiciones que deriven de ella, serán sancionadas por la Secretaría atendiendo a los convenios de coordinación que se celebren con el Ejecutivo Federal a que se refiere la Ley General.
+
+###### ARTÍCULO 86.
+
+Las infracciones que los prestadores de servicios turísticos cometan a lo dispuesto en esta Ley y a las disposiciones que deriven de ella, serán sancionadas por la Secretaría, con amonestación, multa o suspensión.
+
+###### ARTÍCULO 87.
+
+1. Para determinar el monto de las sanciones a aplicar, la Secretaría deberá emitir previamente una resolución fundada y motivada.
+
+2. Los montos de las sanciones nunca podrán ser mayores a los considerados en la Ley General y deberán ser, además, correlativos a la gravedad de la infracción. No podrán sancionarse dos o más ocasiones el mismo hecho constitutivo.
+
+###### ARTÍCULO 88.
+
+1. Contra las resoluciones dictadas por la Secretaría, los involucrados podrán interponer recurso de revisión dentro de los quince días hábiles siguientes a la fecha de su notificación, debiéndose dictar la resolución correspondiente en igual término.
+
+2. El recurso de revisión tiene por objeto revocar, modificar o confirmar la resolución reclamada. La interposición del recurso suspenderá la ejecución de la resolución impugnada por cuanto hace al pago de multas.
+
+###### ARTÍCULO 89.
+
+El Reglamento de la presente Ley establecerá los procedimientos a observar en las visitas de verificación, determinación y aplicación de sanciones a infractores, y los términos y demás requisitos para la tramitación y substanciación del recurso de revisión.
 
 ## TRANSITORIOS
 
-PRIMERO. La presente Ley entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado considerando las particularidades que se establecen en las disposiciones transitorias de los artículos de esta Ley.
+###### ARTÍCULO PRIMERO.
 
-SEGUNDO. Se abroga del Decreto que crea el Instituto de la Juventud Veracruzana y publicado por el ejecutivo estatal en la Gaceta del Estado, No. 127 del martes 22 de octubre de 1991 y se derogan todas las disposiciones que se opongan a la presente Ley.
+La presente Ley entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
 
-TERCERO. Todos los recursos humanos, financieros, materiales así como los bienes muebles e inmuebles que hubieran estado asignados al Instituto de la Juventud Veracruzana como Órgano Desconcentrado de la Secretaría de Educación y Cultura, a partir de la publicación de la presente ley, pasarán a formar parte del órgano que descentraliza el presente ordenamiento.
+###### ARTÍCULO SEGUNDO.
 
-CUARTO. Las atribuciones que en materia de atención a la juventud correspondan actualmente a la Secretaría de Educación y Cultura, conforme a la Ley Orgánica del Poder Ejecutivo del Estado de Veracruz de Ignacio de la Llave, la Ley de Educación del Estado y su Reglamento Interior y las asumirá el Instituto, una vez que se constituya en los términos de la presente Ley.
+Se abrogan la Ley de Turismo para el Estado de Tamaulipas, publicada en el Anexo al Periódico Oficial del Estado número 52 del 30 de junio de 1993 y sus subsecuentes reformas.
 
-QUINTO. La operación del Instituto debe contemplarse a más tardar en el presupuesto de Egresos del Gobierno del Estado de Veracruz del año 2006.
+###### ARTÍCULO TERCERO.
 
-SEXTO. La designación de los miembros del Instituto, deberá tener lugar dentro de los 60 días naturales siguientes a la entrada en vigor de la presente Ley. Las relaciones laborales entre el Instituto y sus trabajadores, se regirán por la Ley Estatal del Servicio Civil de Veracruz y demás disposiciones aplicables.
+El Gobernador del Estado emitirá el Reglamento de la Ley que se expide mediante el presente Decreto, mismo que se publicará en el Periódico Oficial del Estado.
 
-SÉPTIMO. El Reglamento Interior del Instituto de la Juventud Veracruzana, deberá expedirse dentro de los 30 días naturales siguientes a la designación de los miembros del Instituto. Este deberá considerar las normas sobre las constancias que expida el Instituto de la Juventud Veracruzana en virtud del artículo 36, de acuerdo a las atribuciones de la Junta de Gobierno señalados en el artículo 50 fracción XI de la presente Ley.
+###### ARTÍCULO CUARTO.
 
-OCTAVO. La disposición prevista por los artículos 25 y 36 de la presente Ley entrarán en vigor el dos de mayo del año 2006, por lo que se deberán realizar las consideraciones pertinentes al Congreso del Estado para su adecuación.
+Los procedimientos, recursos, y resoluciones administrativos, sanciones y demás asuntos relacionados con las materias a que se refiere esta Ley, iniciados con anterioridad a la entrada en vigor del presente Decreto, se tramitarán y resolverán conforme a las disposiciones vigentes en el momento de su inicio.
 
-NOVENO. La adecuación del Plan Estratégico para el Desarrollo Integral de la Juventud Veracruzana en materia de Primera Experiencia Laboral, deberá tener lugar dentro de los 30 días naturales siguientes a la designación de los miembros del Instituto.
+SALÓN DE SESIONES DEL H. CONGRESO DEL ESTADO.- Cd. Victoria, Tam., a 25 de junio del año 2014.- DIPUTADO PRESIDENTE.- MARCO ANTONIO SILVA HERMOSILLO.- Rúbrica.- DIPUTADA SECRETARIA.- IRMA LETICIA TORRES SILVA.- Rúbrica.- DIPUTADA SECRETARIA.- PATRICIA GUILLERMINA RIVERA VELÁZQUEZ.- Rúbrica."
 
-DÉCIMO. El ciudadano Gobernador Constitucional del Estado, dispondrá se publique, circule y observe. Así mismo, deberá difundir y distribuir de manera gratuita en todo el territorio veracruzano y en las distintas lenguas propias de nuestra diversidad cultural el contenido de esta Ley.
+Por tanto, mando se imprima, publique, circule y se le dé el debido cumplimiento.
 
-DECIMOPRIMERO. La creación del Consejo de Jóvenes se realizará mediante convocatoria estatal que circulará a más tardar 30 días después de la designación de los miembros del Instituto y deberá estar constituido antes de la instalación del Parlamento.
+Dado en la residencia del Poder Ejecutivo, en Victoria, Capital del Estado de Tamaulipas, a los veintiséis días del mes de junio del año dos mil catorce.
 
-DECIMOSEGUNDO. La organización del Parlamento se hará de acuerdo con la disponibilidad de los integrantes del Comité Organizador.
+ATENTAMENTE.- SUFRAGIO EFECTIVO. NO REELECCIÓN.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO.- EGIDIO TORRE CANTÚ.- Rúbrica.- EL SECRETARIO GENERAL DE GOBIERNO.- HERMINIO GARZA PALACIOS.- Rúbrica.
 
-Dada en la sala de sesiones de la LX Legislatura del Honorable Congreso del Estado, en la ciudad de Xalapa-Enríquez, Veracruz de Ignacio de la Llave a los veintiocho días del mes de julio del año dos mil cinco.
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
-Atanasio García Durán, diputado presidente.- Rúbrica. Daniel Alejandro Vázquez García, diputado secretario.- Rúbrica.
+P.O. 25 DE NOVIEMBRE DE 2014.
 
-Por lo tanto, en atención a lo dispuesto por el artículo 49 fracción II de la Constitución Política del Estado, y en cumplimiento el oficio SG/002065, de los diputados Presidente y Secretario de la Sexagésima Legislatura del Honorable Congreso del Estado, mando se publique y se le dé cumplimiento. Residencia del Poder Ejecutivo Estatal, a los nueve días del mes de agosto del año dos mil cinco.
+###### ARTÍCULO ÚNICO.
 
-A t e n t a m e n t e
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
 
-"Sufragio efectivo. No reelección"
+P.O. 13 DE DICIEMBRE DE 2016.
 
-Licenciado Fidel Herrera Beltrán, Gobernador del Estado.- Rúbrica.
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. LXIII-53 MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE AGUAS DEL ESTADO DE TAMAULIPAS, LEY PARA EL APROVECHAMIENTO DE ENERGÍAS RENOVABLES DEL ESTADO DE TAMAULIPAS, LEY DE ASOCIACIONES PÚBLICO-PRIVADAS EN PROYECTOS PARA LA PRESTACIÓN DE SERVICIOS DEL ESTADO DE TAMAULIPAS, LEY PARA LA ATENCIÓN Y PROTECCIÓN A PERSONAS CON LA CONDICIÓN DEL ESPECTRO AUTISTA DEL ESTADO DE TAMAULIPAS, LEY DE BIENES DEL ESTADO Y MUNICIPIOS DE TAMAULIPAS, LEY DE CAMINOS DEL ESTADO DE TAMAULIPAS, LEY DE CATASTRO PARA EL ESTADO DE TAMAULIPAS, LEY DE CENTROS DE ATENCIÓN INFANTIL DEL ESTADO DE TAMAULIPAS, LEY DE COORDINACIÓN FISCAL DEL ESTADO DE TAMAULIPAS, LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES EN EL ESTADO DE TAMAULIPAS, LEY DE LOS DERECHOS DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE TAMAULIPAS, LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE TAMAULIPAS, LEY PARA EL DESARROLLO ECONÓMICO Y LA COMPETITIVIDAD DEL ESTADO DE TAMAULIPAS, LEY DE DESARROLLO FORESTAL SUSTENTABLE PARA EL ESTADO DE TAMAULIPAS, LEY DE DESARROLLO RURAL SUSTENTABLE DEL ESTADO DE TAMAULIPAS, LEY DE DESARROLLO SOCIAL PARA EL ESTADO DE TAMAULIPAS, LEY DE DEUDA PÚBLICA ESTATAL Y MUNICIPAL DE TAMAULIPAS, LEY DE EDUCACIÓN PARA EL ESTADO DE TAMAULIPAS, LEY DEL EJERCICIO PROFESIONAL EN EL ESTADO DE TAMAULIPAS, LEY DE EXTINCIÓN DE DOMINIO PARA EL ESTADO DE TAMAULIPAS, LEY PARA FOMENTAR LA DONACIÓN ALTRUISTA DE ARTÍCULOS DE PRIMERA NECESIDAD DEL ESTADO DE TAMAULIPAS, LEY DE FOMENTO A LA INVESTIGACIÓN CIENTÍFICA Y TECNOLÓGICA EN EL ESTADO DE TAMAULIPAS, LEY DE FOMENTO A LAS ACTIVIDADES DE LAS ORGANIZACIONES DE LA SOCIEDAD CIVIL EN EL ESTADO DE TAMAULIPAS, LEY PARA EL FOMENTO Y DESARROLLO ARTESANAL DEL ESTADO DE TAMAULIPAS, LEY PARA EL FOMENTO Y DESARROLLO DE LA FRUTICULTURA EN EL ESTADO DE TAMAULIPAS, LEY PARA LA IGUALDAD DE GÉNERO EN TAMAULIPAS, LEY DE INFORMACIÓN GEOGRÁFICA Y ESTADÍSTICA DEL ESTADO DE TAMAULIPAS, LEY DE MEDIACIÓN PARA EL ESTADO DE TAMAULIPAS, LEY PARA LA MEJORA REGULATORIA EN EL ESTADO DE TAMAULIPAS Y SUS MUNICIPIOS, LEY DEL NOTARIADO PARA EL ESTADO DE TAMAULIPAS, LEY ORGÁNICA DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO DE TAMAULIPAS, LEY DEL PATRIMONIO HISTÓRICO Y CULTURAL DEL ESTADO, LEY DE PREMIOS, ESTÍMULOS Y RECOMPENSAS DEL ESTADO DE TAMAULIPAS, LEY DE PREVENCIÓN DE LA VIOLENCIA FAMILIAR DEL ESTADO DE TAMAULIPAS, LEY PARA PREVENIR, ATENDER, SANCIONAR Y ERRADICAR LA VIOLENCIA CONTRA LAS MUJERES, LEY DE PROTECCIÓN CIVIL PARA EL ESTADO DE TAMAULIPAS, LEY SOBRE EL SISTEMA ESTATAL DE ASISTENCIA SOCIAL, LEY DEL TRABAJO DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE TAMAULIPAS, LEY PARA PREVENIR, COMBATIR Y SANCIONAR LA TRATA DE PERSONAS EN EL ESTADO DE TAMAULIPAS, LEY DE TURISMO DEL ESTADO DE TAMAULIPAS, LEY DE VALUACIÓN DEL ESTADO DE TAMAULIPAS, LEY DE VIVIENDA PARA EL ESTADO DE TAMAULIPAS, CÓDIGO MUNICIPAL PARA EL ESTADO DE TAMAULIPAS Y CÓDIGO PARA EL DESARROLLO SUSTENTABLE DEL ESTADO DE TAMAULIPAS, PARA HOMOLOGAR LA NOMENCLATURA DE LAS SECRETARÍAS QUE ESTABLECE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE TAMAULIPAS”.]
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+###### ARTÍCULO ÚNICO.
 
-G.O. 22 DE DICIEMBRE DE 2006.
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
 
-Primero. El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
+P.O. 1 DE DICIEMBRE DE 2017.
 
-Segundo. Se derogan todas las disposiciones que se opongan al presente.
+## [N. DE E. TRANSITORIO DEL "DECRETO LXIII-307 MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 57; Y SE ADICIONAN LOS ARTÍCULOS 54 BIS Y 54 TER DE LA LEY DE TURISMO DEL ESTADO DE TAMAULIPAS".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 16 DE OCTUBRE DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. LXIII-1046 MEDIANTE EL CUAL SE ADICIONA EL ARTÍCULO 72 TER; A LA LEY DE TURISMO DEL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 14 DE JULIO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO LXIV-554 MEDIANTE EL CUAL SE REFORMAN DISPOSICIONES DE DIVERSOS ORDENAMIENTOS DE LA LEGISLACIÓN ESTATAL, EN MATERIA DE FISCAL GENERAL DE JUSTICIA DEL ESTADO”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O.17 DE AGOSTO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 65-177 MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 72, FRACCIÓN X Y SE ADICIONA LA FRACCIÓN XI AL ARTÍCULO 72, RECORRIÉNDOSE LA ACTUAL FRACCIÓN XI PARA SER XII DE LA LEY DE TURISMO DEL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 18 DE NOVIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 65-407 MEDIANTE EL CUAL SE REFORMA LA FRACCIÓN XXXVII, Y SE ADICIONA LA FRACCIÓN XXXVIII, RECORRIENDOSE EN SU ORDEN NATURAL LA SUBSECUENTE, AL ARTÍCULO 5, DE LA LEY DE TURISMO DEL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 13 DE DICIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 65-424 MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE LOS DERECHOS DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE TAMAULIPAS Y DE LA LEY DE TURISMO DEL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 9 DE FEBRERO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO No. 65-519 MEDIANTE EL CUAL SE ADICIONA EL ARTÍCULO 50 BIS A LA LEY DE TURISMO DEL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 11 DE OCTUBRE DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 65-646 MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE TURISMO DEL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 20 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO No. 65-745 MEDIANTE EL CUAL SE ADICIONA UNA FRACCIÓN XXXII BIS, AL ARTÍCULO 5, DE LA LEY DE TURISMO DEL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 24 DE SEPTIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 65-914 MEDIANTE EL CUAL SE ADICIONA UNA FRACCIÓN XXIV TER AL ARTÍCULO 3; UN TÍTULO QUINTO QUÁTER DENOMINADO “DEL TURISMO ESPACIAL”; Y LOS ARTÍCULOS 44 SEPTIES, 44 OCTIES, 44 NONIES Y 44 DECIES, DE LA LEY DE TURISMO DEL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
