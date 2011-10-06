@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-58-organica-del-poder-ejecutivo-del-estado-de-116013
 country: "mx"
 rank: "ley"
 publication_date: "2000-05-19"
-last_updated: "2010-12-27"
+last_updated: "2011-10-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=116013&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 27 DE DICIEMBRE DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 6 DE OCTUBRE DE 2011.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el viernes 19 de mayo de 2000.
 
@@ -53,11 +53,11 @@ ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
 La presente Ley es de observancia general para la Administración Pública del Estado de Veracruz de Ignacio de la Llave y tiene por objeto establecer las bases de la organización y funcionamiento de las dependencias centralizadas y entidades paraestatales en que se divide.
 
-> <small>(REFORMADO, G.O. 13 DE ENERO DE 2006)</small>
+> <small>(REFORMADO, G.O. 6 DE OCTUBRE DE 2011)</small>
 
 ###### Artículo 2.
 
-Las Secretarías del Despacho, la Procuraduría General de Justicia, la Contraloría General y la Dirección General de Comunicación Social integran la Administración Pública Centralizada.
+Las Secretarías del Despacho, la Procuraduría General de Justicia, la Contraloría General y la Coordinación General de Comunicación Social integran la Administración Pública Centralizada.
 
 ###### Artículo 3.
 
@@ -203,9 +203,9 @@ XII. Contraloría General
 
 XIII. Procuraduría General de Justicia
 
-> <small>(ADICIONADA, G.O. 13 DE ENERO DE 2006)</small>
+> <small>(REFORMADA, G.O. 6 DE OCTUBRE DE 2011)</small>
 
-XIV. Dirección General de Comunicación Social
+XIV. Coordinación General de Comunicación Social.
 
 Las dependencias tendrán igual rango y entre ellas no habrá preeminencia alguna, con excepción de lo que establece la Constitución Política del Estado acerca de la Secretaría de Gobierno.
 
@@ -1557,9 +1557,9 @@ XIII. Codyuvar (sic) con las dependencias y entidades del sector público, así 
 
 XIV. Promover los atractivos culturales y naturales de la Entidad, instrumentando acciones con los sectores público y privado y a través de los medios de comunicación, a efecto de incrementar el flujo de turistas, ampliar su estadía e incrementar la derrama económica consecuente;
 
-> <small>(ADICIONADA, G.O. 13 DE ENERO DE 2006)</small>
+> <small>(REFORMADA, G.O. 6 DE OCTUBRE DE 2011)</small>
 
-XV. Proyectar y difundir la publicidad turística y cultural del Estado en coordinación con la Dirección General de Comunicación Social; así como coadyuvar a la divulgación de la que efectúen los sectores social y privado;
+XV. Proyectar y difundir la publicidad turística y cultural del Estado en coordinación con la Coordinación General de Comunicación Social; así como coadyuvar a la divulgación de la que efectúen los sectores social y privado;
 
 > <small>(ADICIONADA, G.O. 13 DE ENERO DE 2006)</small>
 
@@ -1781,21 +1781,21 @@ De la Procuraduría General de Justicia
 
 La Procuraduría General de Justicia es la dependencia encargada del Ministerio Público, responsable de procurar y vigilar el cumplimiento de las leyes y ejercer las acciones correspondientes en contra de los infractores de la ley, así como las que tengan por objeto la efectiva reparación del daño causado y la protección de los derechos de la víctima del acto ilícito, en términos de lo dispuesto por la Constitución Federal, la Constitución Política del Estado, la Ley Orgánica del Ministerio Público y demás disposiciones aplicables.
 
-> <small>(REFORMADA SU DENOMINACIÓN, G.O. 13 DE ENERO DE 2006)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 6 DE OCTUBRE DE 2011)</small>
 
-De la Dirección General de Comunicación Social
+De la Coordinación General de Comunicación Social
 
-> <small>(REFORMADO, G.O. 13 DE ENERO DE 2006)</small>
+> <small>(REFORMADO, G.O. 6 DE OCTUBRE DE 2011)</small>
 
 ###### Artículo 36.
 
-La Dirección General de Comunicación Social es la dependencia responsable de coordinar la difusión informativa, publicitaria y promocional de las actividades, obras y servicios de la Administración Pública del Estado, a través de los distintos medios de comunicación o de manera directa.
+La Coordinación General de Comunicación Social es la dependencia responsable de coordinar la difusión informativa, publicitaria y promocional de las actividades, obras y servicios de la Administración Pública del Estado, a través de los distintos medios de comunicación o de manera directa.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 13 DE ENERO DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 6 DE OCTUBRE DE 2011)</small>
 
 ###### Artículo 37.
 
-Son atribuciones del Director General de Comunicación Social, conforme a la distribución de competencias que establezca su Reglamento interior, las siguientes:
+Son atribuciones del Coordinador General de Comunicación Social, conforme a la distribución de competencias que establezca su Reglamento Interior, las siguientes:
 
 I. Dirigir y ejecutar la política de comunicación social y de relaciones públicas de la Administración Pública Estatal;
 
@@ -1809,9 +1809,9 @@ V. Analizar la información de los distintos medios de comunicación y proporcio
 
 VI. Mantener actualizado el banco hemerográfico, la fototeca, la videoteca, las grabaciones radiofónicas y producciones sobre la obra y actividades del Gobierno Estatal;
 
-> <small>(REFORMADA, G.O. 13 DE ENERO DE 2006)</small>
+> <small>(REFORMADA, G.O. 6 DE OCTUBRE DE 2011)</small>
 
-VII. Diseñar y operar el Programa General de Comunicación Social de la Administración Pública Estatal estableciendo, con el apoyo de los titulares de las dependencias, el funcionamiento y operación de las oficinas de comunicación social de las mismas; las que dependerán jerárquicamente de la Dirección General de Comunicación Social y reportarán funcionalmente con los titulares de cada dependencia;
+VII. Diseñar y operar el Programa General de Comunicación Social de la Administración Pública Estatal estableciendo, con el apoyo de los titulares de las dependencias, el funcionamiento y operación de las oficinas de comunicación social de las mismas; las que dependerán jerárquicamente de la Coordinación General de Comunicación Social y reportarán funcionalmente con los titulares de cada dependencia;
 
 VIII. Coordinar la planeación, diseño, producción y evaluación de las campañas de publicidad social que realiza la Administración Pública del Estado a través de sus distintas dependencias e intervenir en la contratación, supervisión y trámite para la asignación de los recursos que se requiera para su realización;
 
@@ -1821,9 +1821,9 @@ X. (DEROGADA, G.O. 13 DE ENERO DE 2006)
 
 XI. Establecer los vínculos y la colaboración con las instituciones académicas, los medios y los comunicadores en términos de convenios, acuerdos o programas de promoción y desarrollo comunicacional; y
 
-> <small>(REFORMADA, G.O. 13 DE ENERO DE 2006)</small>
+> <small>(REFORMADA, G.O. 6 DE OCTUBRE DE 2011)</small>
 
-XII. Coordinar con las dependencias de la administración pública estatal los procedimientos para la difusión informativa, la publicidad y la promoción de la Administración Pública mediante el establecimiento del Consejo Operativo para la Comunicación Gubernamental, que estará integrado por los responsables de la comunicación social en las dependencias, encabezadas por el titular de la Dirección General de Comunicación Social.
+XII. Coordinar con las dependencias de la administración pública estatal los procedimientos para la difusión informativa, la publicidad y la promoción de la Administración Pública mediante el establecimiento del Consejo Operativo para la Comunicación Gubernamental, que estará integrado por los responsables de la comunicación social en las dependencias, encabezadas por el titular de la Coordinación General de Comunicación Social.
 
 ### CAPÍTULO III. DE LA ADMINISTRACIÓN PÚBLICA PARAESTATAL
 
@@ -2340,3 +2340,13 @@ Primero. El presente Decreto entrará en vigor el día primero de enero de dos m
 Segundo. Todos aquellos casos que se encuentren en trámite a la entrada en vigor del presente Decreto, continuarán rigiéndose por las disposiciones entonces vigentes y se resolverán conforme a ellas.
 
 Tercero. Cualesquiera disposiciones jurídicas o tributarias que hagan referencia al Impuesto Sobre Nóminas, y que no hayan sido expresamente reformadas, modificadas, abrogadas o derogadas por virtud del presente decreto, se entenderán referidas al Impuesto Sobre Erogaciones por Remuneraciones al Trabajo Personal.
+
+G.O. 6 DE OCTUBRE DE 2011.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 298 QUE REFORMA DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE VERACRUZ”.]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
+
+Segundo. La adecuación del Reglamento interior de la Dependencia aludida en el presente decreto, se deberá efectuar en un término de treinta días a partir del inicio de vigencia del mismo.
+
+Tercero. Se derogan todas las disposiciones que se opongan a este ordenamiento.
