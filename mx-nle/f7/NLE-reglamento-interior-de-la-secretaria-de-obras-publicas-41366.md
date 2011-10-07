@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-interior-de-la-secretaria-de-obras-publicas-41366"
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-10-13"
-last_updated: "2005-11-11"
+last_updated: "2011-10-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41366&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "NLE"
 
 REGLAMENTO INTERIOR DE LA SECRETARIA DE OBRAS PUBLICAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE NOVIEMBRE DE 2005.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARIA DE OBRAS PUBLICAS DEL ESTADO DE NUEVO LEON, PUBLICADO EN EL P.O. DE 7 DE OCTUBRE DE 2011, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
 
-Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el miércoles 13 de octubre de 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
 
 JOSÉ NATIVIDAD GONZÁLEZ PARÁS, Gobernador Constitucional del Estado de Nuevo León, en el ejercicio de la facultad que me confiere el artículo 85, fracción X de la Constitución Política del Estado de Nuevo León y con fundamento en lo dispuesto por los artículos 2, 3, 4, 5, 8, 9, 15, 16, 17, 18 fracciones I y VIII, 28 y demás relativos de la Ley Orgánica de la Administración Pública para el Estado de Nuevo León, y
 
@@ -618,3 +618,13 @@ ABEL GUERRA GARZA
 P.O. 11 DE NOVIEMBRE DE 2005.
 
 Artículo Único: Las presentes modificaciones al Reglamento Interior de la Secretaría de Obras Públicas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 7 DE OCTUBRE DE 2011.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Reglamento entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga el Reglamento Interior de la Secretaría de Obras Públicas publicado en el Periódico Oficial del Estado en fecha 13 de octubre de 2004, así como sus posteriores reformas.
