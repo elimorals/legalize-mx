@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-educacion-para-el-estado-de-guanajuato-10489"
 country: "mx"
 rank: "ley"
 publication_date: "1996-08-13"
-last_updated: "2010-09-03"
+last_updated: "2011-10-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10489&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "GUA"
 
 LEY DE EDUCACION PARA EL ESTADO DE GUANAJUATO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE SEPTIEMBRE DE 2010.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE EDUCACION PARA EL ESTADO DE GUANAJUATO, PUBLICADA EN LA SEGUNDA PARTE DEL P.O. 7 DE OCTUBRE DE 2011, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el martes 13 de agosto de 1996.
 
@@ -1204,3 +1206,61 @@ Artículo Segundo. Dentro de los noventa días siguientes a la entrada en vigor 
 Artículo Tercero. Se derogan las disposiciones que se opongan al presente Decreto.
 
 Artículo Cuarto. La Secretaría de Educación del Estado de Guanajuato y la Secretaría de Salud de Guanajuato, en el ámbito de su competencia, deberán proveer lo conducente, para que a partir del 1° primero de enero de 2011 dos mil once, se apliquen las disposiciones contenidas en el presente Decreto.
+
+P.O. 7 DE OCTUBRE DE 2011.
+
+Inicio de la vigencia de la Ley
+
+###### ARTÍCULO PRIMERO.
+
+La presente Ley entrará en vigencia el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+Abrogación de la Ley de Educación del Estado de Guanajuato
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga la Ley de Educación del Estado de Guanajuato, publicada en el Periódico Oficial del Gobierno del Estado número 222, de fecha 29 veintinueve de agosto de 1996 mil novecientos noventa y seis; así como cualquier otra disposición general que se oponga a la presente Ley.
+
+Tramitación de refrendo por particulares
+
+###### ARTÍCULO TERCERO.
+
+Los particulares que a la entrada en vigor de esta Ley cuenten con autorización o reconocimiento de validez oficial de estudios, deberán solicitar el refrendo en el año 2018.
+
+Programa de revisión y mejora de los particulares
+
+###### ARTÍCULO CUARTO.
+
+La Secretaría en un plazo de 120 días hábiles contados a partir de la entrada en vigencia de la presente Ley emitirá un programa de revisión y mejora para cumplimiento del artículo 151 de la presente Ley. Dicho programa tendrá una vigencia de 7 años.
+
+Regularización de los particulares con registro
+
+###### ARTÍCULO QUINTO.
+
+Los particulares que presten el servicio de educación inicial o educación preescolar y cuenten con registro ante la Secretaría, deberán obtener la autorización o el reconocimiento de validez oficial de estudios según corresponda, en los términos de la presente Ley y conforme al programa de revisión y mejora a que se refiere el artículo anterior.
+
+Resolución de asuntos en trámite
+
+###### ARTÍCULO SEXTO.
+
+Los asuntos que actualmente estén pendientes de resolver por parte de la Secretaría al amparo de la Ley de Educación para el Estado de Guanajuato, se tramitarán con base en los dispositivos que se abrogan, hasta su debida conclusión.
+
+Expedición y adecuación reglamentaria
+
+###### ARTÍCULO SÉPTIMO.
+
+El Poder Ejecutivo deberá expedir los reglamentos correspondientes en un plazo no mayor de ciento ochenta días contados a partir de que entre en vigencia la Ley.
+
+Los municipios deberán hacer las adecuaciones reglamentarias correspondientes para la aplicación de la Ley, en un término no mayor de ciento ochenta días contados a partir de que entre en vigencia la Ley.
+
+Plazo al Poder Ejecutivo para adecuar el número de alumnos por grupo
+
+###### ARTÍCULO OCTAVO.
+
+El Poder Ejecutivo a fin de adecuar gradualmente el número de alumnos por grupo, tendrá un plazo no mayor de ocho años contados a partir de que entre en vigencia la Ley. Para lo cual, deberá llevar a cabo una planeación para la implementación de la medida, así como realizar las provisiones presupuestales y acciones de gobierno.
+
+Optimización del presupuesto autorizado
+
+###### ARTÍCULO NOVENO.
+
+La Secretaria optimizará su presupuesto autorizado para efectos de dar cumplimiento al refrendo de los particulares, sin incrementar su infraestructura y recursos humanos.
