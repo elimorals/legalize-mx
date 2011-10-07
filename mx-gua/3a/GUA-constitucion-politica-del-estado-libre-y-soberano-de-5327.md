@@ -4,7 +4,7 @@ identifier: "GUA-constitucion-politica-del-estado-libre-y-soberano-de-5327"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-10-18"
-last_updated: "2010-03-05"
+last_updated: "2011-10-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5327&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "GUA"
 ---
 # CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO
 
-CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO
+CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE MARZO DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE OCTUBRE DE 2011.
 
 Constitución publicada en el Periódico Oficial del Estado de Guanajuato, el 18 de octubre de 1917.
 
@@ -379,9 +379,9 @@ Todo ciudadano guanajuatense tiene derecho a participar en la vida política del
 
 Los ciudadanos guanajuatenses tienen el derecho de afiliarse, individual y libremente, al Partido o Asociación Política de su preferencia, cumpliendo con los requisitos estatutarios de ingreso.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE AGOSTO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE AGOSTO DE 2009)</small>
 
 ###### ARTICULO 17.
 
@@ -613,9 +613,9 @@ El Organismo Público Autónomo a que se refiere el Artículo 31 de esta Constit
 
 Los actos y resoluciones que emita el Organismo Público Autónomo en materia de participación ciudadana podrán ser impugnados en los términos que disponga la Ley correspondiente.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION A LA COMPETENCIA DEL TRIBUNAL ELECTORAL DEL ESTADO DE GUANAJUATO A QUE SE REFIERE LA MODIFICACION AL PRESENTE ARTICULO, VER SEGUNDO TRANSITORIO DEL DECRETO NUMERO 163, PUBLICADO EN EL P.O DE 8 DE AGOSTO DE 2008.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA MODIFICACIÓN A LA COMPETENCIA DEL TRIBUNAL ELECTORAL DEL ESTADO DE GUANAJUATO A QUE SE REFIERE LA MODIFICACIÓN AL PRESENTE ARTÍCULO, VER SEGUNDO TRANSITORIO DEL DECRETO NÚMERO 163, PUBLICADO EN EL P.O DE 8 DE AGOSTO DE 2008.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE ABRIL DE 2002)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE ABRIL DE 2002)</small>
 
 ###### ARTICULO 31.
 
@@ -855,6 +855,10 @@ II.- Tener por lo menos 21 años cumplidos al día de la elección; y,
 
 III.- Tener residencia en el Estado cuando menos de dos años anteriores a la fecha de la elección.
 
+> <small>(ADICIONADO, P.O. 7 DE OCTUBRE DE 2011)</small>
+
+Los guanajuatenses que migren al extranjero tendrán derecho a que se les reconozca la residencia binacional, cuando así lo acrediten en los términos de la ley de la materia, pero en todo caso, para poder ser electos, deberán incorporarse al Estado por lo menos ciento ochenta días previos al de la elección.
+
 > <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1984)</small>
 
 ###### ARTICULO 46.
@@ -1091,7 +1095,7 @@ XI.- Reformar, mediante el voto de las dos terceras partes de los Diputados y co
 
 XII.- Solicitar al Gobernador del Estado la comparecencia de Funcionarios del Poder Ejecutivo para que informen al Congreso, cuando se discuta o estudie un asunto relativo a las funciones que aquéllos ejerzan. Solicitar la comparecencia de los Presidentes de los Ayuntamientos y Concejos Municipales y la de los Titulares de los Organismos Públicos Doscentralizados (sic) de los Municipios, para los mismos efectos;
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE AGOSTO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE AGOSTO DE 2008)</small>
 
 XIII.- Examinar, discutir y aprobar anualmente el Presupuesto de Egresos del Estado presentado por el Gobernador, previa aprobación de la Ley de Ingresos respectiva. Así como autorizar en dicho Presupuesto, las erogaciones plurianuales para aquellos proyectos de inversión pública que se determinen conforme a lo dispuesto en la Ley; las erogaciones correspondientes deberán incluirse en los subsecuentes Presupuestos de Egresos.
 
@@ -1127,7 +1131,7 @@ XIX.- Fiscalizar las cuentas públicas municipales incluyendo la de las entidade
 
 XX.- Nombrar y remover a sus empleados. Estas facultades las tendrá la Diputación Permanente en las épocas en que el Congreso no esté en Período Ordinario de Sesiones;
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 1996)</small>
 
 XXI.- Designar a los Magistrados del Supremo Tribunal de Justicia del Estado de las propuestas que sometan a su consideración, por turnos alternativos, el Gobernador del Estado y el Consejo del Poder Judicial, así como aprobar las solicitudes de licencia de más de seis meses por causa de enfermedad y las renuncias al cargo de Magistrado, cuando éstas sean presentadas al Titular del Poder Ejecutivo del Estado o al Consejo del Poder Judicial, según corresponda por el origen de la propuesta para su designación.
 
@@ -1235,7 +1239,7 @@ VIII.- Conceder licencias para separarse de su cargo, al Gobernador del Estado, 
 
 IX.- Las demás consignadas de modo expreso en esta Constitución.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 15 DE ABRIL DE 2003)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 15 DE ABRIL DE 2003)</small>
 
 #### SECCION SEXTA. DE LA FISCALIZACION SUPERIOR DEL ESTADO
 
@@ -1307,7 +1311,9 @@ I.- Ser ciudadano mexicano por nacimiento, originario del Estado o con residenci
 
 II.- Estar en ejercicio de sus derechos; y
 
-III.- Tener por lo menos treinta y cinco años cumplidos al día de la elección.
+> <small>(REFORMADA, P.O. 7 DE OCTUBRE DE 2011)</small>
+
+III.- Tener por lo menos treinta años cumplidos al día de la elección.
 
 > <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1984)</small>
 
@@ -1519,7 +1525,7 @@ Todas las leyes, decretos y reglamentos, para su cumplimiento, serán promulgado
 
 Para el despacho de los asuntos a cargo del Poder Ejecutivo, el Gobernador del Estado contará con las Dependencias señaladas en la Ley de la materia, la cual establecerá las atribuciones, forma de organización y facultades de sus Titulares.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE FEBRERO DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE FEBRERO DE 2010)</small>
 
 #### SECCION TERCERA. DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO
 
@@ -1673,7 +1679,7 @@ I.- Iniciar Leyes o decretos relacionados con la impartición de justicia;
 
 > <small>(REFORMADA, P.O. 7 DE NOVIEMBRE DE 2006)</small>
 
-II.- Proponer al Congreso del Estado la terna para designación de Consejeros que integrarán el Consejo del Poder Judicial. Los propuestos deberán ser personas que no pertenezcan al Poder Judicial.
+II.- Proponer al Congreso del Estado la terna para designación de Consejeros que integrarán el Consejo del Poder Judicial. Los propuestos deberán ser personas que no pertenezcan al Poder Judicial;
 
 III.- Conocer en los juicios civiles y penales, de las instancias y recursos que sean de su competencia de conformidad con las leyes;
 
@@ -1839,11 +1845,11 @@ El Poder Judicial administrará con autonomía su presupuesto. El Consejo del Po
 
 Los Magistrados, los Consejeros, los Jueces, los Secretarios y los Actuarios del Poder Judicial no podrán ejercer la profesión de abogado, sino en negocio propio, de su cónyuge, de sus ascendientes o descendientes sin limitación de grado, ni desempeñar otro cargo o empleo público o privado, a excepción de los docentes.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 7 DE NOVIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE NOVIEMBRE DE 2006)</small>
 
 #### SECCION SEGUNDA. DE LOS JUECES QUE INTEGRAN EL PODER JUDICIAL
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE FEBRERO DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE FEBRERO DE 2010)</small>
 
 ###### ARTICULO 93.
 
@@ -1897,7 +1903,7 @@ XI.- La organización y funcionamiento de la Comisión Sustanciadora que tramite
 
 XII.- Las normas, criterios y procedimientos para la evaluación de jueces y Magistrados del Supremo Tribunal de Justicia, así como de los Consejeros del Poder Judicial y demás servidores judiciales.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 26 DE FEBRERO DE 2010)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 26 DE FEBRERO DE 2010)</small>
 
 ###### ARTICULO 94.
 
@@ -1927,7 +1933,7 @@ IV.- Por incurrir en responsabilidad en los términos de esta Constitución y de
 
 #### SECCION PRIMERA. DE LOS AYUNTAMIENTOS
 
-> <small>(REFORMADA PRIMER PARRAFO, P.O. 15 DE NOVIEMBRE DE 1994)</small>
+> <small>(REFORMADA PRIMER PÁRRAFO, P.O. 15 DE NOVIEMBRE DE 1994)</small>
 
 ###### ARTICULO 95.
 
@@ -2112,6 +2118,10 @@ II.- Tener, por lo menos, veintiún años cumplidos al día de la elección; y,
 > <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 1990)</small>
 
 III.- Tener cuando menos dos años de residir en el municipio en donde deba desempeñar el cargo, al tiempo de la elección.
+
+> <small>(ADICIONADO, P.O. 7 DE OCTUBRE DE 2011)</small>
+
+Los guanajuatenses que migren al extranjero tendrán derecho a que se les reconozca la residencia binacional, cuando así lo acrediten en los términos de la ley de la materia, pero en todo caso, para poder ser electos, deberán incorporarse al municipio por lo menos ciento ochenta días previos al de la elección.
 
 > <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1984)</small>
 
@@ -2379,7 +2389,7 @@ Las Leyes no establecerán exenciones o subsidios respecto de las mencionadas co
 
 Los recursos que integran la hacienda municipal serán ejercidos en forma directa por los Ayuntamientos, o bien, por quien ellos autoricen conforme a la Ley.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 23 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 23 DE DICIEMBRE DE 2003)</small>
 
 ## TITULO NOVENO. DE LAS RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS Y PATRIMONIAL DEL ESTADO Y DE LOS MUNICIPIOS
 
@@ -2425,7 +2435,7 @@ Las sanciones correspondientes se aplicarán en un período no mayor de un año,
 
 Cuando se procediere penalmente contra el Gobernador del Estado, Diputados Locales, Magistrados del Supremo Tribunal de Justicia y miembros del Consejo del Poder Judicial, por delitos de carácter federal cometidos durante el tiempo de su encargo, en los términos de los artículos 111 y 114 de la Constitución Política de los Estados Unidos Mexicanos, recibida por el Congreso del Estado, la declaración de procedencia, éste resolverá, en ejercicio de sus atribuciones lo que corresponda.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 126.
 
@@ -2657,7 +2667,7 @@ El Secretario General del Despacho.
 
 Lic. Francisco Espinosa.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE CONSTITUCION.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE CONSTITUCIÓN.</small>
 
 P.O. 23 DE MARZO DE 1919.
 
@@ -2675,11 +2685,11 @@ Artículo segundo:- Las reformas a que se refiere la presente Ley, comenzarán a
 
 P.O. 28 DE MAYO DE 1922.
 
-EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERA APLICABLE SUPLETORIAMENTE EL ARTICULO 2° DEL CODIGO CIVIL VIGENTE.
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁ APLICABLE SUPLETORIAMENTE EL ARTÍCULO 2° DEL CÓDIGO CIVIL VIGENTE.
 
 P.O. 31 DE DICIEMBRE DE 1922.
 
-EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERA APLICABLE SUPLETORIAMENTE EL ARTICULO 2° DEL CODIGO CIVIL VIGENTE.
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁ APLICABLE SUPLETORIAMENTE EL ARTÍCULO 2° DEL CÓDIGO CIVIL VIGENTE.
 
 P.O. 22 DE MAYO DE 1924.
 
@@ -2689,25 +2699,25 @@ La presente reforma surtirá sus efectos desde la fecha de su promulgación.
 
 P.O. 8 DE JUNIO DE 1924.
 
-EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERA APLICABLE SUPLETORIAMENTE EL ARTICULO 2° DEL CODIGO CIVIL VIGENTE.
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁ APLICABLE SUPLETORIAMENTE EL ARTÍCULO 2° DEL CÓDIGO CIVIL VIGENTE.
 
 P.O. 9 DE NOVIEMBRE DE 1924.
 
-EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERA APLICABLE SUPLETORIAMENTE EL ARTICULO 2° DEL CODIGO CIVIL VIGENTE.
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁ APLICABLE SUPLETORIAMENTE EL ARTÍCULO 2° DEL CÓDIGO CIVIL VIGENTE.
 
 P.O. 8 DE SEPTIEMBRE DE 1929.
 
 REPUBLICADO, P.O. 29 DE DICIEMBRE DE 1929.
 
-EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERA APLICABLE SUPLETORIAMENTE EL ARTICULO 2° DEL CODIGO CIVIL VIGENTE.
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁ APLICABLE SUPLETORIAMENTE EL ARTÍCULO 2° DEL CÓDIGO CIVIL VIGENTE.
 
 P.O. 14 DE ENERO DE 1932.
 
-EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERA APLICABLE SUPLETORIAMENTE EL ARTICULO 2° DEL CODIGO CIVIL VIGENTE.
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁ APLICABLE SUPLETORIAMENTE EL ARTÍCULO 2° DEL CÓDIGO CIVIL VIGENTE.
 
 P.O. 28 DE ABRIL DE 1932.
 
-EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERA APLICABLE SUPLETORIAMENTE EL ARTICULO 2° DEL CODIGO CIVIL VIGENTE.
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁ APLICABLE SUPLETORIAMENTE EL ARTÍCULO 2° DEL CÓDIGO CIVIL VIGENTE.
 
 P.O. 15 DE ENERO DE 1933.
 
@@ -2715,11 +2725,11 @@ EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITO
 
 P.O. 7 DE SEPTIEMBRE DE 1933.
 
-EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERA APLICABLE SUPLETORIAMENTE EL ARTICULO 2° DEL CODIGO CIVIL VIGENTE.
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁ APLICABLE SUPLETORIAMENTE EL ARTÍCULO 2° DEL CÓDIGO CIVIL VIGENTE.
 
 P.O. 10 DE JULIO DE 1938.
 
-EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERA APLICABLE SUPLETORIAMENTE EL ARTICULO 2° DEL CODIGO CIVIL VIGENTE.
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁ APLICABLE SUPLETORIAMENTE EL ARTÍCULO 2° DEL CÓDIGO CIVIL VIGENTE.
 
 P.O. 30 DE MARZO DE 1941.
 
@@ -2727,19 +2737,19 @@ Artículo Segundo: Este Decreto se publicará por bando solemne en todo el Estad
 
 P.O. 28 DE MARZO DE 1943.
 
-EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERA APLICABLE SUPLETORIAMENTE EL ARTICULO 2° DEL CODIGO CIVIL VIGENTE.
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁ APLICABLE SUPLETORIAMENTE EL ARTÍCULO 2° DEL CÓDIGO CIVIL VIGENTE.
 
 P.O. 11 DE MAYO DE 1944.
 
-EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERA APLICABLE SUPLETORIAMENTE EL ARTICULO 2° DEL CODIGO CIVIL VIGENTE.
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁ APLICABLE SUPLETORIAMENTE EL ARTÍCULO 2° DEL CÓDIGO CIVIL VIGENTE.
 
 P.O. 3 DE JUNIO DE 1945.
 
-EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERA APLICABLE SUPLETORIAMENTE EL ARTICULO 2° DEL CODIGO CIVIL VIGENTE.
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁ APLICABLE SUPLETORIAMENTE EL ARTÍCULO 2° DEL CÓDIGO CIVIL VIGENTE.
 
 P.O. 19 DE AGOSTO DE 1945.
 
-EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERA APLICABLE SUPLETORIAMENTE EL ARTICULO 2° DEL CODIGO CIVIL VIGENTE.
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁ APLICABLE SUPLETORIAMENTE EL ARTÍCULO 2° DEL CÓDIGO CIVIL VIGENTE.
 
 P.O. 19 DE ENERO DE 1950.
 
@@ -2747,7 +2757,7 @@ Este Decreto surtirá efectos desde la fecha de su publicación en el Periódico
 
 P.O. 25 DE NOVIEMBRE DE 1951.
 
-EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERA APLICABLE SUPLETORIAMENTE EL ARTICULO 2° DEL CODIGO CIVIL VIGENTE.
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁ APLICABLE SUPLETORIAMENTE EL ARTÍCULO 2° DEL CÓDIGO CIVIL VIGENTE.
 
 P.O. 23 DE JULIO DE 1959.
 
@@ -3227,13 +3237,13 @@ Artículo Quinto.- Una vez que entre en vigor el presente decreto, deberán impu
 
 P.O. 8 DE AGOSTO DE 2008.
 
-DECRETO NUMERO 162, QUE REFORMAN Y ADICIONAN LOS ARTICULOS 82, 117 Y LA SECCION TERCERA AL CAPITULO TERCERO DEL TITULO QUINTO DE LA CONSTITUCION POLITICA PARA EL ESTADO DE GUANAJUATO.
+DECRETO NÚMERO 162, QUE REFORMAN Y ADICIONAN LOS ARTICULOS 82, 117 Y LA SECCIÓN TERCERA AL CAPÍTULO TERCERO DEL TÍTULO QUINTO DE LA CONSTITUCIÓN POLÍTICA PARA EL ESTADO DE GUANAJUATO.
 
 ÚNICO. El presente decreto entrará en vigor al cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 P.O. 8 DE AGOSTO DE 2008.
 
-DECRETO NUMERO 163, QUE REFORMAN Y ADICIONAN LOS ARTICULOS 17, 31, 46, 53, 111 Y 122 DE LA CONSTITUCION POLITICA PARA EL ESTADO DE GUANAJUATO.
+DECRETO NÚMERO 163, QUE REFORMAN Y ADICIONAN LOS ARTÍCULOS 17, 31, 46, 53, 111 Y 122 DE LA CONSTITUCIÓN POLÍTICA PARA EL ESTADO DE GUANAJUATO.
 
 Artículo Primero.- El presente decreto entrará en vigor al cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
 
@@ -3241,7 +3251,7 @@ Artículo Segundo.- La modificación a la competencia del Tribunal Electoral del
 
 P.O. 8 DE AGOSTO DE 2008.
 
-DECRETO NUMERO 164, QUE REFORMAN Y ADICIONAN LOS ARTICULOS 63, 77 Y 117 DE LA CONSTITUCION POLITICA PARA EL ESTADO DE GUANAJUATO.
+DECRETO NÚMERO 164, QUE REFORMAN Y ADICIONAN LOS ARTÍCULOS 63, 77 Y 117 DE LA CONSTITUCIÓN POLÍTICA PARA EL ESTADO DE GUANAJUATO.
 
 Artículo Único. El presente decreto entrará en vigor al cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
 
@@ -3298,3 +3308,7 @@ b) Las remuneraciones adicionales a las nominales, tales como gratificaciones, p
 c) Los incrementos a las retribuciones nominales o adicionales sólo podrán realizarse si la remuneración total no excede el monto máximo antes referido.
 
 Artículo Cuarto. Los Poderes del Estado y los Ayuntamientos en el ámbito de su competencia, deberán expedir o adecuar la legislación o disposiciones administrativas, según corresponda, de conformidad con los términos del presente Decreto, dentro de un plazo de 180 días naturales siguientes a su entrada en vigor.
+
+P.O. 7 DE OCTUBRE DE 2011.
+
+Artículo Único. El presente Decreto iniciará su vigencia al cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
