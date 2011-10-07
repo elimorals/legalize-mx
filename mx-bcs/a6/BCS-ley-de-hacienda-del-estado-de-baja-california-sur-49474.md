@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-hacienda-del-estado-de-baja-california-sur-49474"
 country: "mx"
 rank: "ley"
 publication_date: "2006-02-21"
-last_updated: "2009-12-31"
+last_updated: "2011-10-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=49474&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY DE HACIENDA DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE OCTUBRE DE 2011.
 
 Ley publicada en el Extraordinario del Boletín Oficial del Estado de Baja California Sur, el martes 21 de febrero de 2006.
 
@@ -311,25 +311,35 @@ Los ingresos provenientes de premios derivados de loterías, rifas, sorteos o co
 
 ### Capítulo Cuarto. Del Impuesto sobre Nóminas
 
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 7 DE OCTUBRE DE 2011)</small>
+
 ###### Artículo 33.
 
-Es objeto de este Impuesto la realización de los pagos en efectivo y/o en especie por concepto de remuneraciones al trabajo personal prestado bajo la subordinación y dependencia de un patrón dentro del territorio del Estado.
+Son objeto de este impuesto los pagos efectuados en dinero o en especie por concepto de remuneraciones al trabajo personal prestado bajo la subordinación y dependencia de un patrón, independientemente de la designación que se les dé, dentro del territorio del Estado.
 
-> <small>(REFORMADO, B.O. 20 DE JUNIO DE 2006)</small>
+> <small>(REFORMADO, B.O. 7 DE OCTUBRE DE 2011)</small>
 
-Para los efectos de este gravamen, se consideran remuneraciones al trabajo personal prestado bajo la subordinación y dependencia de un patrón las siguientes: sueldos y salarios, cantidades pagadas por tiempo extraordinario, premios, primas, bonos, estímulos e incentivos, gratificaciones, aguinaldos, participación patronal al fondo de ahorros, primas de antigüedad, participación de los trabajadores en las utilidades de la empresa, comisiones, pagos realizados a administradores, comisarios o miembros de los consejos directivos de vigilancia o de administración de sociedades o asociaciones, ayuda para despensa y/o transporte, primas de seguro para gastos médicos o de vida, honorarios asimilables a los salarios.
+Para los efectos de este gravamen, se consideran remuneraciones al trabajo personal prestado bajo la subordinación y dependencia de un patrón las siguientes: sueldos y salarios, cantidades pagadas por tiempo extraordinario, premios, primas, bonos, estímulos e incentivos, gratificaciones, aguinaldos, participación patronal al fondo de ahorros, primas de antigüedad, participación de los trabajadores en las utilidades de la empresa, comisiones, pagos realizados a administradores, comisarios o miembros de los consejos directivos de vigilancia o de administración de sociedades o asociaciones, ayuda para despensas o transporte, primas de seguros para gastos médicos o de vida, honorarios asimilables a los salarios.
 
 Para los efectos de este impuesto, se considerarán honorarios asimilables a salarios, los percibidos cuando las personas presten servicios preponderantemente a un prestatario, si dichos servicios se llevan a cabo en instalaciones de éste último, o si dichos ingresos representan para el prestador más del 50% de los ingresos que deriven de un servicio personal independiente.
 
+> <small>(ADICIONADO, B.O. 7 DE OCTUBRE DE 2011)</small>
+
+Para los efectos de este impuesto, la prestación del servicio personal subordinado debe realizarse en territorio del Estado, con independencia de la forma y lugar de pago.
+
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 7 DE OCTUBRE DE 2011)</small>
+
 ###### Artículo 34.
 
-Son sujetos de este Impuesto las personas físicas o morales que efectúen los pagos a que se refiere el Artículo 33 de esta Ley.
+Son sujetos de este impuesto las personas físicas o morales que realicen los pagos a que se refiere el artículo anterior, aún cuando no tuvieren domicilio, de cualquier tipo, en el Estado.
 
 Están obligados a retener y enterar este Impuesto en los términos de la presente ley, quienes obtengan de otras personas físicas o morales, en su calidad de intermediarias, de conformidad a los Artículos 13, 14 y 15 de la Ley Federal del Trabajo, domiciliadas dentro o fuera del territorio de esta entidad, la prestación de un servicio personal subordinado, siempre que el mismo se preste dentro del territorio del Estado. En este caso deberán entregar a la persona física o moral que les proporcione los trabajadores, la constancia de retención correspondiente.
 
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 7 DE OCTUBRE DE 2011)</small>
+
 ###### Artículo 35.
 
-Es base de este Impuesto, el monto total de los pagos a que se refiere el Artículo 33 de esta Ley, efectivamente erogados por los sujetos de este gravamen.
+Es base de este impuesto, el monto total de los pagos a que se refiere el artículo 33 de esta ley, erogados por los sujetos de este gravamen.
 
 En los casos a que se refiere el segundo párrafo del Artículo 34 de esta Ley, la retención deberá realizarse sobre el importe total, que por concepto de remuneraciones al trabajo personal subordinado prestado bajo la dirección y dependencia de un patrón, se pacte o se haya pactado en los respectivos contratos.
 
@@ -367,11 +377,15 @@ Los contribuyentes presentarán declaraciones mensuales que tendrán el carácte
 
 Para efectos de la fecha de pago de este impuesto se estará a lo dispuesto en el Artículo 5 de esta Ley.
 
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 7 DE OCTUBRE DE 2011)</small>
+
 ###### Artículo 38.
 
-Son obligaciones de los contribuyentes de este Impuesto:
+Son obligaciones de los contribuyentes de este impuesto:
 
-I. Inscribirse en el Registro Estatal de Contribuyentes en la Dirección de Ingresos, Recaudación o Subrecaudación de Rentas de la Secretaría de Finanzas que corresponda a su domicilio fiscal, dentro de los quince días hábiles siguientes al de la iniciación de actividades, utilizando al efecto, las formas oficiales aprobadas por la Secretaría de Finanzas, con los datos que las mismas exijan.
+> <small>(REFORMADA, B.O. 7 DE OCTUBRE DE 2011)</small>
+
+I.- Inscribirse en el Registro Estatal de Contribuyentes en la Dirección de Ingresos, Recaudación o Subrecaudación de Rentas de la Secretaría de Finanzas que corresponda a su domicilio fiscal, y en caso de que no tuvieren domicilio, de cualquier tipo, en el Estado, el que corresponda al lugar en el que los trabajadores prestan el servicio personal subordinado, dentro de los quince días hábiles siguientes al de iniciación de actividades, utilizando al efecto, las formas oficiales aprobadas por la Secretaría de Finanzas, con los datos que las mismas exijan.
 
 II. Presentar ante las mismas autoridades y dentro del plazo señalado en la fracción anterior los avisos de cambio de nombre, razón o denominación social, domicilio, actividad, suspensión de actividades o clausura.
 
@@ -1078,3 +1092,7 @@ UNICO.- El presente decreto entrará en vigor el día siguiente al de su publica
 B.O. 31 DE DICIEMBRE DE 2009.
 
 ÚNICO.- El presente Decreto entrará en vigor a partir del uno de enero del año dos mil diez, previa su publicación, en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+B.O. 7 DE OCTUBRE DE 2011.
+
+ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
