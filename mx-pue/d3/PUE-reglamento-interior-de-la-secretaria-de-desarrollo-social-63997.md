@@ -4,7 +4,7 @@ identifier: "PUE-reglamento-interior-de-la-secretaria-de-desarrollo-social-63997
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-09-05"
-last_updated: "2008-09-05"
+last_updated: "2011-10-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=63997&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "PUE"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA DE DESARROLLO SOCIAL, DEL HONORABLE AYUNTAMIENTO DEL MUNICIPIO DE PUEBLA
 
-REGLAMENTO INTERIOR DE LA SECRETARIA DE DESARROLLO SOCIAL, DEL HONORABLE AYUNTAMIENTO DEL MUNICIPIO DE PUEBLA
+REGLAMENTO INTERIOR DE LA SECRETARÍA DE DESARROLLO SOCIAL, DEL HONORABLE AYUNTAMIENTO DEL MUNICIPIO DE PUEBLA
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO PRIMERO DEL DICTAMEN DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE DESARROLLO SOCIAL Y PARTICIPACIÓN CIUDADANA DEL HONORABLE AYUNTAMIENTO DEL MUNICIPIO DE PUEBLA, PUBLICADO EN EL P.O. DE 7 DE OCTUBRE DE 2011, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
 Reglamento publicado en la Cuarta Sección del Periódico Oficial del Estado de Puebla, el viernes 5 de septiembre de 2008.
 
@@ -724,3 +726,11 @@ Atentamente.- "Sufragio efectivo. No Reelección".- H. Puebla de Zaragoza, a 21 
 Al pie un sello con escudo nacional y una leyenda que dice: Estados Unidos Mexicanos. Municipio de Puebla- periodo 2008-2011.- Secretaría del Honorable Ayuntamiento.
 
 El Secretario del Honorable Ayuntamiento del Municipio de Puebla, en ejercicio de las facultades que le confieren el artículos 138 fracción VII de la Ley Orgánica Municipal, CERTIFICA: que la presentes copias fotostáticas compuestas por treinta fojas útiles por su frente, son copia fiel de su origen a las que remito, tuve a la vista y cotejé, relativas al Dictamen del Honorable del Ayuntamiento del Municipio de Puebla, por el que se aprueba expedir el Reglamento Interior de la Secretaria de Desarrollo Social, del Honorable Ayuntamiento del Municipio de Puebla, misma que obra en archivo de la Dirección Jurídica de la Secretaría del Honorable Ayuntamiento, expidiéndose la presente en el Heroica Puebla de Zaragoza, a los veinte días del mes de agosto del año dos mil ocho, para los efectos legales a que haya lugar, quedando registrada con el número 939.- El Secretario del Honorable Ayuntamiento del Municipio de Puebla.- LICENCIADO CESAR PÉREZ LÓPEZ.- Rubrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 7 DE OCTUBRE DE 2011.
+
+PRIMERO.- El presente Reglamento entrará en vigor a partir de su publicación en el Periódico Oficial del Estado de Puebla.
+
+SEGUNDO.- Se derogan las disposiciones que se opongan a lo establecido en el presente Reglamento.
