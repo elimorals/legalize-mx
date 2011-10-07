@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-educacion-del-estado-de-baja-california-6367"
 country: "mx"
 rank: "ley"
 publication_date: "1995-09-29"
-last_updated: "2011-04-25"
+last_updated: "2011-10-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6367&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE EDUCACION DEL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE ABRIL DE 2011.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE OCTUBRE DE 2011.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Baja California, el viernes 29 de septiembre de 1995.
 
@@ -217,9 +217,13 @@ XVIII.- Inculcar los conceptos y principios fundamentales de la ciencia ambienta
 
 XIX.- Realizar acciones educativas y preventivas a fin de evitar que se cometan ilícitos en contra de menores de dieciocho años de edad o de personas que no tengan la capacidad de comprender el significado del hecho o para resistirlo.
 
-> <small>(ADICIONADA, P.O. 25 DE ABRIL DE 2011)</small>
+> <small>(REFORMADA, P.O. 7 DE OCTUBRE DE 2011)</small>
 
-XX.- Los demás que no se contrapongan a la Ley General de Educación, a la presente Ley y que coadyuven al logro de sus objetivos.
+XX.- Inculcar los conceptos y principios fundamentales de la protección civil, así como la importancia de esta para la prevención, mitigación, auxilio y salvaguarda de las personas, sus bienes y entorno; en casos de emergencia y desastre, provocados por factores geológicos, hidrometereológicos, químicos, sanitarios y socio-organizativos.
+
+> <small>(ADICIONADA, P.O. 7 DE OCTUBRE DE 2011)</small>
+
+XXI.- Los demás que no se contrapongan a la Ley General de Educación, a la presente Ley y que coadyuven al logro de sus objetivos.
 
 ### CAPITULO II. ATRIBUCIONES DEL EJECUTIVO DEL ESTADO Y LOS AYUNTAMIENTOS EN MATERIA EDUCATIVA
 
@@ -231,7 +235,9 @@ I.- Impartir en toda la entidad los servicios de educación en todos los niveles
 
 II.- Estructurar el Sistema Educativo Estatal, de tal manera que permita al educando integrarse a la vida económica y social de la entidad, sin que suspenda su escolaridad.
 
-III.- Proponer a la Secretaría de Educación Pública los contenidos regionales que hayan de incluirse en los planes y programas de estudio para la primaria y secundaria, la normal y demás para la formación de docentes de educación básica. El ejecutivo podrá consultar a los diversos sectores sociales para tal efecto.
+> <small>(REFORMADA, P.O. 7 DE OCTUBRE DE 2011)</small>
+
+III.- Proponer a la Secretaría de Educación Pública los contenidos regionales que hayan de incluirse en los planes y programas de estudio para la primaria y secundaria, la normal y demás para la formación de docentes de educación básica. El Ejecutivo deberá consultar a los diversos sectores sociales para tal efecto.
 
 IV.- Mantener un sistema permanente de investigación educativa que permita la actualización y mejoramiento del Sistema Educativo Estatal.
 
@@ -267,11 +273,23 @@ XVIII.- Podrá otorgar a instituciones educativas, particulares de tipo superior
 
 > <small>(ADICIONADA, P.O. 14 DE SEPTIEMBRE DE 2001)</small>
 
-XIX.- Elaborar programas de enseñanza activa, encaminados a fomentar la cultura de la prevención del delito y de concientizar de las influencias negativas que el delito provoca en la sociedad; y
+XIX.- Elaborar programas de enseñanza activa, encaminados a fomentar la cultura de la prevención del delito y de concientizar de las influencias negativas que el delito provoca en la sociedad; y (sic)
 
-> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2001)</small>
+> <small>(REFORMADA, P.O. 7 DE OCTUBRE DE 2011)</small>
 
-XX.- Las demás atribuciones que emanen del Artículo 3° de la Constitución Política de los Estados Unidos Mexicanos, la Ley General de Educación y las normas reglamentarias correspondientes.
+XX.- Elaborar programas de enseñanza activa, encaminados a fomentar la cultura de protección al medio ambiente.
+
+> <small>(ADICIONADA, P.O. 7 DE OCTUBRE DE 2011)</small>
+
+XXI.- Elaborar programas de enseñanza activa, encaminados a fomentar la cultura de la protección civil.
+
+> <small>(ADICIONADA, P.O. 7 DE OCTUBRE DE 2011)</small>
+
+XXII.- Proponer en los contenidos regionales a los que se refiere la fracción III de este artículo la incorporación de asignaturas relativas a la protección al medio ambiente y a la protección civil.
+
+> <small>(ADICIONADA, P.O. 7 DE OCTUBRE DE 2011)</small>
+
+XXIII.- Las demás atribuciones que emanen del Artículo 3 de la Constitución Política de los Estados Unidos Mexicanos, la Ley General de Educación y las normas reglamentarias correspondientes.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE ABRIL DE 2007)</small>
 
@@ -1322,3 +1340,7 @@ P.O. 25 DE ABRIL DE 2011.
 PRIMERO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
 
 SEGUNDO.- Las erogaciones que deban realizarse a fin de dar cumplimiento a las presentes reformas, se sujetarán a los recursos aprobados para tales fines por el Congreso del Estado en su presupuesto.
+
+P.O. 7 DE OCTUBRE DE 2011.
+
+Único.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
