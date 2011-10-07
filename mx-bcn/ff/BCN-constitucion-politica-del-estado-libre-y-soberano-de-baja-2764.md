@@ -4,7 +4,7 @@ identifier: "BCN-constitucion-politica-del-estado-libre-y-soberano-de-baja-2764"
 country: "mx"
 rank: "constitucion"
 publication_date: "1953-08-16"
-last_updated: "2011-07-15"
+last_updated: "2011-10-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2764&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JULIO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE OCTUBRE DE 2011.
 
 Constitución publicada en el Periódico Oficial del Estado de Baja California, el domingo 16 de agosto de 1953.
 
@@ -83,19 +83,43 @@ Los Partidos Políticos Nacionales tendrán derecho a participar en las eleccion
 
 Los partidos políticos tienen como fin promover la participación del pueblo en la vida democrática, contribuir a la integración de la representación estatal y como organizaciones de ciudadanos, hacer posible el acceso de éstos al ejercicio del poder público, de acuerdo con los programas, principios e ideas que postulan y mediante el sufragio universal, libre, secreto, directo, personal e intransferible. Sólo los ciudadanos podrán formar partidos políticos y afiliarse libre e individualmente a ellos; por tanto queda prohibida la intervención de organizaciones gremiales o con objeto social diferente en la creación de partidos y cualquier forma de afiliación corporativa.
 
-Corresponde exclusivamente a los partidos políticos el derecho para solicitar el registro de candidatos a cargos de elección popular.
+> <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 2011)</small>
+
+Corresponde exclusivamente a los partidos políticos el derecho para solicitar el registro de candidatos a cargos de elección popular, y podrán hacerlo de manera unipartidista o mediante las figuras de coalición o candidato común, conforme lo establezca la ley de la materia.
+
+> <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 2011)</small>
+
+Los candidatos a ocupar un cargo de elección popular, deberán registrar por lo menos con quince días de anticipación a la celebración de la jornada electoral, sus compromisos de campaña ante el Instituto Electoral y de Participación Ciudadana, el cual tendrá la obligación de registrarlos para efectos de su posterior consulta por cualquier interesado. El Instituto, en año no electoral, dará seguimiento de los compromisos de campaña mediante la emisión de informes anuales, debiendo remitirlos al Congreso del Estado.
+
+> <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 2011)</small>
+
+Los candidatos a ocupar un cargo de elección popular, deberán presentar ante el Instituto Electoral y de Participación Ciudadana, por lo menos con quince días de anticipación a la celebración de la jornada electoral, los resultados del examen para la detección de drogas de abuso, que deberán practicarse dentro de los treinta días anteriores a su presentación; para efectos de su posterior consulta por cualquier interesado.
+
+> <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 2011)</small>
 
 Las autoridades electorales solamente podrán intervenir en los asuntos internos de los partidos políticos en los términos que señalen esta Constitución y la ley.
 
-El acceso de los partidos políticos a los tiempos en radio y televisión se estará a lo previsto en la Constitución Política de los Estados Unidos Mexicanos y leyes aplicables. Los partidos políticos en ningún momento podrán contratar o adquirir, por sí o por terceras personas, tiempos en cualquier modalidad de radio y televisión.
+> <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 2011)</small>
+
+El acceso de los partidos políticos a los tiempos en radio y televisión se estará a lo previsto en la Constitución Política de los Estados Unidos Mexicanos y leyes aplicables.
+
+> <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 2011)</small>
 
 Los partidos políticos de acuerdo a las disponibilidades presupuestales, recibirán en forma equitativa, financiamiento público permanente y de campaña electoral, para la realización de sus fines.
 
+> <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 2011)</small>
+
 La Ley determinará los montos máximos a que se sujetarán las aportaciones de los simpatizantes de los partidos políticos, cuya suma total anual no excederá el diez por ciento del tope de gastos de campaña que se determine para la última campaña de gobernador actualizada en términos de Ley.
+
+> <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 2011)</small>
 
 La Ley establecerá los medios de justificación del gasto y los plazos o modalidades de las entregas, así como los procedimientos para la fiscalización del origen y aplicación de los recursos que ejerzan los partidos políticos en Baja California; igualmente señalará las bases bajo las cuales se determinarán los límites o topes a las erogaciones de los partidos políticos en sus precampañas y campañas electorales.
 
+> <small>(ADICIONADO, P.O. 7 DE OCTUBRE DE 2011)</small>
+
 El procedimiento para la liquidación de los partidos políticos estatales que pierdan su registro y el destino de sus bienes y remanentes, se hará en los términos que establezca la Ley.
+
+> <small>(ADICIONADO, P.O. 7 DE OCTUBRE DE 2011)</small>
 
 El incumplimiento de las normas que regulen la comprobación de ingresos, egresos, topes de gastos y aportaciones, así como la liquidación de los partidos políticos, serán sancionados en los términos que señale la Ley.
 
@@ -105,7 +129,9 @@ La organización de las elecciones estatales y municipales es una función públ
 
 El Instituto Electoral y de Participación Ciudadana podrá convenir con el Instituto Federal Electoral se haga cargo de la organización de los procesos electorales locales, cuando exista causa justificada para ello, y en los términos que disponga la Ley.
 
-El Instituto Electoral y de Participación Ciudadana agrupará para su desempeño, en forma integral y directa, además de las que determine la Ley, las actividades relativas a la capacitación y educación cívica, geografía electoral, derechos y prerrogativas de los partidos políticos, impresión de materiales electorales, preparación de la Jornada Electoral, cómputos, otorgamiento de constancias de mayoría, y asignaciones por el principio de representación proporcional. Así como lo relativo a la regulación de la observación electoral y de las encuestas o sondeos de opinión con fines electorales. Además, tendrá a su cargo en los términos que señale esta Constitución y la Ley, la realización de los procesos de Plebiscito, y Referéndum.
+> <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 2011)</small>
+
+El Instituto Electoral y de Participación Ciudadana agrupará para su desempeño, en forma integral y directa, además de las que determine la Ley, las actividades relativas a la capacitación y educación cívica, geografía electoral, derechos y prerrogativas de los partidos políticos, impresión de materiales electorales, preparación de la Jornada Electoral, cómputos, otorgamiento de constancias de mayoría, y asignaciones por el principio de representación proporcional. Así como lo relativo a la regulación de la observación electoral y de las encuestas o sondeos de opinión con fines electorales. Además, tendrá a su cargo en los términos que señale esta Constitución y la Ley, la realización de los procesos de Consulta Popular, Plebiscito y Referéndum.
 
 El Instituto Electoral y de Participación Ciudadana será autoridad en la materia, autónomo en su funcionamiento e independiente en sus decisiones y profesional en su desempeño; contará en su estructura con un órgano normativo, un órgano directivo, órganos operativos, de vigilancia, técnicos y una Contraloría General.
 
@@ -139,11 +165,39 @@ Las sesiones de todos los órganos colegiados electorales serán públicas, en l
 
 La Ley fijará el régimen de responsabilidades a que estarán sujetos los servidores públicos del Instituto Electoral y de Participación Ciudadana; para estos efectos, se consideran servidores públicos del Instituto el Consejero Presidente, los Consejeros Electorales del Consejo General y de los Consejos Distritales, el Director General, el Contralor General, los directores de área, los jefes de departamento, los funcionarios y empleados, y en general, toda persona que desempeñe un empleo, cargo o comisión de cualquier naturaleza en el Instituto Electoral. Compete a la Contraloría General del Instituto Electoral, conocer de las responsabilidades administrativas que cometan los servidores públicos del Instituto, así como imponer las sanciones que disponga la Ley.
 
-APARTADO C. Justicia Electoral.
+> <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 2011)</small>
+
+APARTADO C. Participación Ciudadana.
+
+Los instrumentos y mecanismos de participación ciudadana serán la Consulta Popular, el Plebiscito, el Referéndum y la Iniciativa Ciudadana.
+
+La Ley fomentará, impulsará, promoverá y consolidará los instrumentos y mecanismos de participación ciudadana; igualmente establecerá las reglas que permitan regular el proceso democrático de participación ciudadana en el ámbito de competencia del Estado y de los Ayuntamientos, sujetándose a las bases que establece esta Constitución.
+
+Los principios rectores de la participación ciudadana serán la libertad, la democracia, la justicia, la corresponsabilidad, la solidaridad, la subsidiariedad, la legalidad, la sustentabilidad, la tolerancia y la equidad.
+
+Tratándose de Plebiscito, Referéndum y Consulta Popular, la participación ciudadana podrá realizarse a través de medios electrónicos, en los términos que determine la Ley.
+
+La Consulta Popular se realizará sobre temas de amplio interés estatal, siempre que así lo acuerde el Congreso, a solicitud de cuando menos las dos terceras partes de sus integrantes, del Gobernador, o de por lo menos el dos por ciento de los ciudadanos inscritos en la lista nominal de electores.
+
+Cuando la participación en la Consulta Popular corresponda, al menos, al veinte por ciento de los ciudadanos inscritos en la lista nominal de electores, el resultado será vinculatorio para los Poderes del Estado y demás autoridades competentes.
+
+No podrán ser objeto de Consulta Popular la materia electoral; los ingresos, egresos o el régimen interno y de organización de la administración pública del Estado; la seguridad pública; los actos de expropiación o limitación a la propiedad particular; y los demás cuya realización sea obligatoria en los términos de la Ley.
+
+El Instituto Electoral y de Participación Ciudadana tendrá a su cargo la organización, desarrollo, cómputo y declaración de resultados de la Consulta Popular. Asimismo, tratándose de la solicitud ciudadana, verificará que se acompañe de las firmas correspondientes, a solicitud del Congreso, realizando la certificación respectiva.
+
+La Consulta Popular, Plebiscito y Referéndum, que se celebren en años electorales, deberán realizarse el mismo día de la jornada electoral para la celebración de elecciones ordinarias en el Estado.
+
+La Iniciativa Ciudadana es el mecanismo mediante el cual los ciudadanos del Estado podrán presentar propuestas para crear, modificar, reformar, adicionar, derogar o abrogar leyes o decretos, con las excepciones y demás requisitos que contemple la Ley. La Iniciativa Ciudadana podrá presentarse por escrito ante el Congreso del Estado, siempre que se acompañe de los nombres y firmas de por los (sic) menos quinientos ciudadanos incluidos en la lista nominal de electores del Estado.
+
+> <small>(ADICIONADO, P.O. 7 DE OCTUBRE DE 2011)</small>
+
+APARTADO D. Justicia Electoral.
 
 Para garantizar el principio de legalidad de los actos y resoluciones electorales se establecerá un sistema de medios de impugnación en los términos que señalen esta Constitución y la Ley. Dicho sistema dará definitividad a las distintas etapas de los procesos electorales y garantizará la protección de los derechos políticos de los ciudadanos de votar, ser votado y de asociación, en los términos de la fracción III del Artículo 68 de esta Constitución. Además, este sistema deberá observar la garantía de audiencia y los principios de publicidad, gratuidad, economía, prontitud y concentración procesal.
 
 En materia electoral, la interposición de los medios de impugnación constitucionales y legales no producirá efectos suspensivos sobre la resolución o el acto impugnado.
+
+Los actos o resoluciones dictados con motivo del desarrollo de los instrumentos y mecanismos de participación ciudadana relativos a la Consulta Popular, Plebiscito o Referéndum, podrán ser impugnados ante el Tribunal de Justicia Electoral del Poder Judicial del Estado, en los términos que señale la Ley.
 
 ### CAPITULO III.. DE LOS SIMBOLOS OFICIALES
 
@@ -229,7 +283,9 @@ IV.- Si además de mexicanos, son ciudadanos tendrán los siguientes:
 
 a).- Votar en las elecciones para integrar los órganos de elección popular de la entidad;
 
-b).- Participar en los términos de esta Constitución y de la Ley en los procesos de Plebiscito y Referéndum;
+> <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 2011)</small>
+
+b).- Participar en los términos de esta Constitución y de la Ley, en los procesos de Consulta Popular, Referéndum, Iniciativa Ciudadana, Plebiscito y Revocación de Mandato;
 
 c).- Ser votados siempre que reúnan los requisitos que determina esta Constitución y las leyes;
 
@@ -281,9 +337,9 @@ Los derechos de ciudadanos se pierden y suspenden, respectivamente, en los casos
 
 ## TITULO SEGUNDO
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 13 DE ABRIL DE 2001)</small>
+> <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 2011)</small>
 
-### CAPITULO UNICO.. DEL PODER PUBLICO Y DE LA FORMA DE GOBIERNO ESTATAL Y MUNICIPAL
+### CAPITULO I.. DEL PODER PUBLICO Y DE LA FORMA DE GOBIERNO ESTATAL Y MUNICIPAL
 
 ###### ARTICULO 11.
 
@@ -291,37 +347,55 @@ La forma de Gobierno del Estado es republicana, representativa y popular.
 
 El Gobierno del Estado se divide, para su ejercicio, en tres poderes: el Legislativo, el Ejecutivo y el Judicial, los cuales actúan separada y libremente, pero cooperando en forma armónica a la realización de los fines del Estado.
 
-> <small>(ADICIONADO, P.O. 17 DE SEPTIEMBRE DE 1999)</small>
-
-Corresponde al Gobierno del Estado la rectoría del desarrollo estatal, garantizando que éste sea integral y sustentable, asegurando de manera simultánea, el crecimiento económico, la equidad y la sustentabilidad ambiental.
-
-> <small>(ADICIONADO, P.O. 13 DE ABRIL DE 2001)</small>
-
-El Municipio es el orden de gobierno representativo de la voluntad de los ciudadanos.
-
-> <small>(ADICIONADO, P.O. 13 DE ABRIL DE 2001)</small>
-
-Las relaciones entre el Municipio y el Gobierno del Estado, se conducirán por los principios de subsidiariedad y equidad, en los términos de esta Constitución, con el propósito de lograr el desarrollo social y humano tendientes a mejorar la calidad de vida de los habitantes del Estado.
-
-### CAPITULO I.. DEL PODER LEGISLATIVO
-
-###### ARTICULO 12.
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 7 DE OCTUBRE DE 2011)</small>
 
 No pueden reunirse dos o más poderes en una sola persona o corporación ni depositarse el Legislativo en un sólo individuo.
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 7 DE OCTUBRE DE 2011)</small>
+
+Corresponde al Gobierno del Estado la rectoría del desarrollo estatal, garantizando que éste sea integral y sustentable, asegurando de manera simultánea, el crecimiento económico, la equidad y la sustentabilidad ambiental.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 7 DE OCTUBRE DE 2011)</small>
+
+El Municipio es el orden de gobierno representativo de la voluntad de los ciudadanos.
+
+> <small>(ADICIONADO [N. DE E. REPUBLICADO], P.O. 7 DE OCTUBRE DE 2011)</small>
+
+Las relaciones entre el Municipio y el Gobierno del Estado, se conducirán por los principios de subsidiariedad y equidad, en los términos de esta Constitución, con el propósito de lograr el desarrollo social y humano tendientes a mejorar la calidad de vida de los habitantes del Estado.
+
+> <small>(ADICIONADO, P.O. 7 DE OCTUBRE DE 2011)</small>
+
+### CAPITULO II.. DE LA REVOCACION DE MANDATO
+
+> <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 2011)</small>
+
+###### ARTÍCULO 12.
+
+Es revocable el mandato de los servidores públicos de elección popular, en los términos que dispone esta Constitución y las leyes de la materia, a través de los mecanismos siguientes:
+
+I.- Por los ciudadanos, por responsabilidad política, mediante el juicio político, que podrá interponer cualquier ciudadano;
+
+II.- Por responsabilidad penal, mediante la declaración de procedencia;
+
+III.- Por la incapacidad total y permanente para ejercer el cargo; que será declarada por autoridad judicial y ratificada por el Congreso del Estado.
+
+IV.- De conformidad a lo dispuesto en la fracción I del artículo 115 de la Constitución Política de los Estados Unidos Mexicanos, corresponde al Congreso del Estado, la Revocación del Mandato y separación definitiva de un Munícipe, por causa grave que determine la Ley, y a petición del Ayuntamiento correspondiente, siempre y cuando el afectado haya tenido oportunidad suficiente para rendir las pruebas y hacer los alegatos que a su juicio convengan.
+
+V.- En los casos en que lo acuerde o solicite la Suprema Corte de Justicia de la Nación, conforme a las disposiciones aplicables.
+
 ## TITULO TERCERO
 
-### CAPITULO II.. DE LAS PRERROGATIVAS DE LOS DIPUTADOS Y DE LAS FACULTADES DEL CONGRESO
+### CAPITULO I.. DEL PODER LEGISLATIVO
 
 ###### ARTICULO 13.
 
 El ejercicio del Poder Legislativo se deposita en una Asamblea de representantes del pueblo, que se denomina Congreso del Estado.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE NOVIEMBRE DE 2003)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 7 DE OCTUBRE DE 2011)</small>
 
 ###### ARTICULO 14.
 
-El Congreso del Estado estará integrado por Diputados que se elegirán cada tres años; electos mediante sufragio universal, libre, secreto, directo, personal e intransferible; dieciséis serán electos en forma directa mediante el principio de mayoría relativa, uno por cada Distrito Electoral en que se divida el territorio del Estado, y en su caso, hasta nueve Diputados electos por el principio de representación proporcional en una circunscripción estatal. Por cada Diputado Propietario se elegirá un Suplente.
+El Congreso del Estado estará integrado por Diputados que se elegirán cada tres años; electos mediante sufragio universal, libre, secreto, directo, personal e intransferible; diecisiete serán electos en forma directa mediante el principio de mayoría relativa, uno por cada Distrito Electoral en que se divida el territorio del Estado, y en su caso, hasta ocho Diputados electos por el principio de representación proporcional en una circunscripción estatal. Por cada Diputado Propietario se elegirá un Suplente.
 
 > <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 1994)</small>
 
@@ -343,11 +417,11 @@ a).- Participar con candidatos a Diputados por el principio de mayoría relativa
 
 b).- Haber obtenido por lo menos el cuatro por ciento de la votación estatal emitida en la elección de Diputados por el principio de representación proporcional, y
 
-c).- Haber obtenido el registro de la lista de candidatos a Diputados por el principio de representación proporcional;
+c).- (DEROGADO, P.O. 7 DE OCTUBRE DE 2011)
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE AGOSTO DE 2008)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 7 DE OCTUBRE DE 2011)</small>
 
-II.- El Instituto Electoral y de Participación Ciudadana del Estado de Baja California una vez verificados los requisitos de la fracción anterior, asignará un Diputado a cada partido político o coalición que tenga derecho a ello.
+II.- El Instituto Electoral y de Participación Ciudadana del Estado de Baja California una vez verificados los requisitos de la fracción anterior, asignará un Diputado a cada partido político o coalición que tenga derecho a ello, la cual corresponderá a quien ocupe el primer lugar en la lista a que se refiere el inciso c), de la fracción I de este artículo.
 
 En caso de que el número de partidos políticos o coaliciones sea mayor que el de diputaciones por asignar, éstas se otorgarán a los que tengan mayor porcentaje en orden descendente hasta agotarse;
 
@@ -375,9 +449,9 @@ d).- Se asignará una diputación de representación proporcional por cada núme
 
 e).- Hechas las asignaciones anteriores, si aún existieren diputaciones por asignar, éstas se otorgarán a los que conserven los restos mayores, una vez deducidas las que se asignaron en el inciso d) anterior;
 
-> <small>(F. DE E., P.O. 2 DE ENERO DE 2004)</small>
+> <small>(REFORMADA, P.O. 7 DE OCTUBRE DE 2011)</small>
 
-IV.- Ningún partido político o coalición podrá tener más de dieciséis Diputados por ambos principios, y
+IV.- Ningún partido político o coalición podrá tener más de diecisiete Diputados por ambos principios, y
 
 > <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2008)</small>
 
@@ -433,9 +507,9 @@ III.- Los Diputados y Senadores del Congreso de la Unión, salvo que se separen 
 
 IV.- Los militares en servicio activo o las personas que tengan mando de policía, a menos que se separen de sus cargos, en forma provisional, noventa días antes del día de la elección;
 
-> <small>(REFORMADA, P.O. 1 DE JULIO DE 2011)</small>
+> <small>(REFORMADA, P.O. 7 DE OCTUBRE DE 2011)</small>
 
-V.- Los Presidentes Municipales, Síndicos Procuradores y Regidores de los Ayuntamientos salvo que se separen de sus cargos, en forma provisional, noventa días antes del día de la elección;
+V.- Los Presidentes Municipales, Síndicos Procuradores, Síndicos Sociales y Regidores de los Ayuntamientos, salvo que se separen de sus cargos en forma provisional, noventa días antes del día de la elección;
 
 > <small>(REFORMADA, P.O. 15 DE ENERO DE 1999)</small>
 
@@ -483,13 +557,25 @@ El Congreso del Estado tendrá cada año tres períodos de Sesiones ordinarias, 
 
 En los tres períodos ordinarios, la Legislatura del Estado estudiará y votará los dictámenes de las cuentas públicas y modificaciones presupuestales, que sean presentados a su consideración, así como las iniciativas de Leyes, decretos o acuerdos económicos; y resolverá los demás asuntos que le correspondan, conforme a esta Constitución.
 
-En cada Período de Sesiones Ordinarias el Congreso se ocupará de manera preferente de los asuntos que señale su Ley Orgánica.
+> <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 2011)</small>
+
+En cada Período de Sesiones Ordinarias el Congreso se ocupará de manera preferente de los asuntos que señale su Ley Orgánica, así como de las iniciativas que el Gobernador del Estado haya señalado con ese carácter conforme a esta Constitución.
 
 Durante el Primer Período Ordinario de Sesiones, concluida la Glosa del Informe, el Congreso del Estado podrá solicitar durante los siguientes 15 días al Gobernador ampliar la información mediante el procedimiento de Pregunta Parlamentaria, misma que se hará por escrito y tendrá un plazo de 30 días para su respuesta. Los titulares de las dependencias del Poder Ejecutivo o de las entidades paraestatales, al comparecer ante el congreso rendirán sus informes bajo protesta de decir verdad. La Ley del Congreso y sus reglamentos regularán el ejercicio de esta facultad.
 
-> <small>(REFORMADO, P.O. 1 DE JULIO DE 2011)</small>
+> <small>(ADICIONADO, P.O. 7 DE OCTUBRE DE 2011)</small>
+
+Adicionalmente a lo dispuesto en el párrafo anterior, los Titulares de las Dependencias del Ejecutivo Estatal incluido el Secretario General de Gobierno y el Procurador General de Justicia del Estado, así como los titulares e integrantes de Consejos Municipales, Directores Generales o sus equivalentes de las entidades paraestatales, estarán obligados a acudir a comparecer, bajo protesta de decir verdad, ante el Pleno o las Comisiones respectivas, cuando así lo acuerde el Congreso, por votación mayoritaria de sus integrantes.
+
+> <small>(ADICIONADO, P.O. 7 DE OCTUBRE DE 2011)</small>
+
+El Gobernador del Estado tendrá voz en el Congreso del Estado por sí o a través del Secretario General de Gobierno, para presentar iniciativas, informes o responder a preguntas, mediando solicitud para hacerlo o por invitación del Congreso del Estado, en los términos de esta Constitución y en las leyes que de ella emanen.
+
+> <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 2011)</small>
 
 En el Primer Período Ordinario, antes de concluir el año, examinará, discutirá, y en su caso, modificará y aprobará las Leyes de Ingresos del Estado y de los Municipios, así como los presupuestos de Egresos de los Poderes Ejecutivo, Legislativo y Judicial y de los organismos públicos autónomos, correspondiente al siguiente Ejercicio Fiscal, en los términos de la ley de la materia. Si al iniciarse el año fiscal correspondiente, el Congreso del Estado no hubiese aprobado las leyes de ingresos del Estado y de los Municipios, así como los presupuestos de Egresos correspondientes, en tanto sean expedidas, continuará rigiendo el Presupuesto que hubiere estado vigente el año anterior.
+
+> <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 2011)</small>
 
 En el Segundo Período Ordinario de cada año, el Congreso deberá concluir la revisión, análisis, dictaminación y, en su caso, aprobación o no aprobación, de las Cuentas Públicas recibidas en el ejercicio anterior, que hayan sido fiscalizadas en los términos de la Ley de la materia.
 
@@ -511,7 +597,7 @@ Si el día señalado para la instalación del Congreso, no se presentaren todos 
 
 Las sesiones del Congreso serán públicas, a excepción de aquellas que, por la naturaleza de los negocios que van a tratarse, deban ser privadas.
 
-### CAPITULO III.. DE LA INICIATIVA Y LA FORMACION DE LAS LEYES Y DECRETOS
+### CAPITULO II.. DE LAS PRERROGATIVAS DE LOS DIPUTADOS Y DE LAS FACULTADES DEL CONGRESO
 
 ###### ARTICULO 26.
 
@@ -528,6 +614,12 @@ I.- Legislar sobre todos los ramos que sean de la competencia del Estado y refor
 II.- Iniciar ante el Congreso de la Unión las leyes y decretos que sean de la competencia del Poder Legislativo de la Federación, así como proponer la reforma o derogación de unas y de otras;
 
 III.- Facultar al Ejecutivo con las limitaciones que crea necesarias, para que por sí o por apoderado especial, represente al Estado en los casos que corresponda;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+
+> <small>(ADICIONADO, P.O. 7 DE OCTUBRE DE 2011)</small>
+
+En caso de que el Gobernador del Estado, dentro de los noventa días siguientes a la instalación de cada legislatura constitucional, opte por un Gobierno de Coalición, acordará las políticas públicas convenidas, turnándolas para su registro y seguimiento al Congreso del Estado.
 
 IV.- Fijar la división territorial, política, administrativa y judicial del Estado;
 
@@ -623,7 +715,15 @@ XXX.- Designar entre los vecinos, a propuesta del Gobernador del Estado, los Con
 
 XXXI.- Legislar respecto a las relaciones de trabajo entre el Estado, los Municipios, las Dependencias paraestatales y paramunicipales y sus trabajadores, con base en lo dispuesto en el Apartado B del Artículo 123 de la Constitución Política de los Estados Unidos Mexicanos;
 
-XXXII.- (DEROGADA, P.O. 26 DE DICIEMBRE DE 2008)
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 7 DE OCTUBRE DE 2011)</small>
+
+XXXII.- Ratificar, en un plazo de diez días naturales a partir de que los reciba, los nombramientos que el Gobernador haga del Secretario de Desarrollo Social y del Director de Control y Evaluación Gubernamental. Vencido el plazo anterior, sin que se haya emitido resolución alguna, se entenderá como ratificado el aspirante propuesto.
+
+El Congreso podrá acordar la no ratificación de los aspirantes propuestos, hasta en dos ocasiones continuas respecto al cargo que se proponga, en cuyo caso el Gobernador procederá libremente a hacer la designación correspondiente.
+
+Cuando el Gobernador opte por el Gobierno de Coalición, ratificará a los Titulares de las Dependencias del Poder Ejecutivo, en los términos que dispongan esta Constitución y las leyes que de ella emanen.
 
 > <small>(ADICIONADA, P.O. 13 DE ABRIL DE 2001)</small>
 
@@ -651,9 +751,7 @@ Los funcionarios a que se refiere el párrafo anterior, estarán obligados a acu
 
 XXXVIII.- Expedir todas las leyes que sean necesarias, a fin de hacer efectivas las facultades anteriores y todas las otras concedidas por esta Constitución y la Constitución Política de los Estados Unidos Mexicanos, a los Poderes del Estado de Baja California.
 
-### CAPITULO IV.. DEL ORGANO DE FISCALIZACION SUPERIOR
-
-> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2009)</small>
+### CAPITULO III.. DE LA INICIATIVA Y LA FORMACION DE LAS LEYES Y DECRETOS
 
 ###### ARTICULO 28.
 
@@ -721,67 +819,53 @@ Las iniciativas adquirirán el carácter de ley cuando sean aprobadas por el Con
 
 Si la ley no fija el día en que deba comenzar a observarse, será obligatoria en todo el Estado tres días después de la fecha de su publicación en el Periódico Oficial del Estado.
 
+> <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 2011)</small>
+
 ###### ARTICULO 34.
 
-Si el Ejecutivo juzga conveniente hacer observaciones a un proyecto aprobado por el Congreso, podrá negarle su sanción y devolverlo con sus observaciones a éste Poder dentro de los ocho días siguientes a aquel en que se le haga saber, para que tomadas en consideración, se examine y discuta de nuevo.
+Si el Ejecutivo juzga conveniente hacer observaciones a un proyecto aprobado por el Congreso, podrá negarle su sanción y devolverlo con sus observaciones a este Poder dentro de los quince días siguientes a aquel en que se le haga saber, o para que tomadas en consideración, se examine y se discuta de nuevo.
 
-En casos urgentes a juicio del Congreso el término de que se trata será de tres días y así se hará saber al Ejecutivo.
+A. Se reputará aprobado por el Ejecutivo todo proyecto que no se devuelva con observaciones al Congreso dentro de los mencionados términos. Vencido el plazo a que se refiere el párrafo anterior, el Ejecutivo dispondrá de diez días para promulgar y publicar la ley o decreto. Transcurrido este segundo plazo, la ley o decreto será considerado promulgado y el Presidente del Congreso ordenará dentro de los quince días siguientes su publicación en el Periódico Oficial del Estado, sin que se requiera refrendo.
 
-Se reputará aprobado por el Ejecutivo todo proyecto que no se devuelva con observaciones al Congreso dentro de los mencionados términos, a no ser que, corriendo éstos hubiere cerrado o suspendido sus sesiones el Legislativo, en cuyo caso, la devolución deberá hacerse el primer día hábil que siga al de la reanudación de las sesiones.
+B. El proyecto de decreto o de ley al que se hubieren hecho observaciones, será promulgado y publicado si el Congreso en un plazo de treinta días contados a partir del día siguiente a que reciba las observaciones, vuelve a aprobarlo por dos tercios del número total de sus miembros. Vencido este plazo, se tendrá por no ratificado el proyecto de que se trate.
 
-El proyecto de ley a que se hubieren hecho observaciones, será sancionado y publicado si el Congreso vuelve a aprobarlo por dos tercios del número total de sus miembros.
+Los proyectos de decreto o de ley que hubieren sido objetados por el Ejecutivo, conforme a esta Constitución, y que hayan sido ratificados por el Congreso en el plazo indicado en el párrafo anterior, deberán ser promulgados y publicados en un término que no exceda de cinco días, contados a partir de la fecha en que hayan sido remitidos nuevamente al Ejecutivo.
 
-Todo proyecto de ley al que no hubiere hecho observaciones el Ejecutivo dentro del término que establece este artículo, debe ser publicado en un plazo de quince días, como máximo, a contar de la fecha en que le haya sido remitido.
+C. Los proyectos de ley y los decretos aprobados por el Congreso, se remitirán al Ejecutivo firmados por el Presidente y el Secretario del Congreso, en un plazo máximo de diez días a su aprobación. En un plazo similar, se deberán remitir a los Ayuntamientos, las iniciativas de adición o reforma a esta Constitución, que haya sido aprobada por acuerdo de las dos tercias partes del número total de Diputados, para los efectos previstos en el artículo 112 de esta Constitución.
 
-Los proyectos de ley que hubieren sido objetados por el Ejecutivo, conforme a esta Constitución, y que hayan sido ratificados por el Congreso, deberán ser promulgados en un término que no exceda de cinco días, a contar de la fecha en que hayan sido remitidos nuevamente al Ejecutivo.
+Las leyes, ordenamientos y disposiciones de observancia general que hayan sido aprobados por el Congreso del Estado y sancionadas por el Ejecutivo deberán ser promulgados y publicados en el Periódico Oficial del Estado.
 
-> <small>(ADICIONADO, P.O. 1 DE NOVIEMBRE DE 2002)</small>
+D. Si los reglamentos, circulares y demás disposiciones de observancia general, no fijan el día en que deben comenzar a observarse, serán obligatorias tres días después de su publicación en el Periódico Oficial del Estado.
 
-Las leyes, ordenamientos y disposiciones de observancia general que hayan sido aprobados por el Congreso del Estado y sancionadas por el Ejecutivo deberán ser publicados en el Periódico Oficial del Estado.
+E. Las leyes que expida el Congreso del Estado, excepto las de índole tributario o fiscal, podrán ser sometidas a Referéndum, conforme lo disponga la Ley.
 
-> <small>(ADICIONADO, P.O. 1 DE NOVIEMBRE DE 2002)</small>
+F. Los asuntos que sean materia de acuerdo, se sujetarán a los trámites que fije la Ley.
 
-Si los reglamentos, circulares y demás disposiciones de observancia general, no fijan el día en que deben comenzar a observarse, serán obligatorias tres días después de su publicación en el Periódico Oficial del Estado.
+G. El Gobernador del Estado no podrá hacer observaciones sobre los decretos que manden abrir o cerrar sesiones del Congreso, los emitidos por éste cuando actúe en funciones de Jurado de Sentencia y las reformas constitucionales aprobadas en los términos del artículo 112 de esta Constitución.
 
-> <small>(ADICIONADO, P.O. 20 DE OCTUBRE DE 2004)</small>
+H. El Congreso del Estado tendrá facultades plenas para expedir, reformar, adicionar o abrogar la ley que regulará su estructura y funcionamiento internos. Esta Ley o las reformas a la misma no podrán ser sujetas a observaciones, ni necesitarán de sanción, promulgación y publicación del Ejecutivo del Estado para tener vigencia.
 
-Los asuntos que sean materia de acuerdo económico, se sujetarán a los trámites que fije la Ley.
-
-> <small>(ADICIONADO, P.O. 6 DE OCTUBRE DE 1997)</small>
-
-Las leyes que expida el Congreso del Estado, excepto las de índole tributario o fiscal, podrán ser sometidas a Referéndum, conforme lo disponga la Ley.
-
-(ADICIONADO, P.O. 30 DE ENERO DE 2004) (F. DE E., P.O. 9 DE ABRIL DE 2004)
-
-Los proyectos de Ley y los decretos aprobados por el Congreso, se remitirán al Ejecutivo firmados por el Presidente y el Secretario del Congreso.
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 2 DE FEBRERO DE 2007)</small>
-
-El Gobernador del Estado no podrá hacer observaciones sobre los decretos que manden abrir o cerrar sesiones del Congreso, los emitidos por éste cuando actúe en funciones de Jurado de Sentencia y las reformas constitucionales aprobadas en los términos del artículo 112 de esta Constitución.
-
-(ADICIONADO, P.O. 28 DE ENERO DE 2011) (F. DE E., P.O. 15 DE ABRIL DE 2011)
-
-El Congreso del Estado tendrá facultades plenas para expedir, reformar, adicionar o abrogar la ley que regulará su estructura y funcionamiento internos.
-
-(ADICIONADO, P.O. 28 DE ENERO DE 2011) (F. DE E., P.O. 15 DE ABRIL DE 2011)
-
-Esta Ley o las reformas a la misma no podrán ser vetadas ni sujetas a observaciones, ni necesitarán de promulgación del Ejecutivo del Estado para tener vigencia.
-
-> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2007)</small>
+> <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 2011)</small>
 
 ###### ARTICULO 35.
 
 Cuando en esta Constitución o en la Ley, se señale que una atribución que ejerza el Congreso del Estado debe ser aprobada por mayoría calificada o por dos terceras partes de sus integrantes, se entenderá que se requieren por lo menos diecisiete votos de los Diputados.
 
+> <small>(ADICIONADO, P.O. 7 DE OCTUBRE DE 2011)</small>
+
 ###### ARTICULO 36.
 
-(DEROGADO, P.O. 28 DE ENERO DE 2011)
+El día de la apertura de cada periodo de sesiones ordinarias del Congreso del Estado, el Gobernador podrá presentar hasta dos iniciativas para trámite preferente, o señalar con tal carácter alguna que hubiere presentado en periodos anteriores y no hayan sido votadas en el Pleno del Congreso. Asimismo deberá sustentar las razones por las que otorga dicho carácter a cada iniciativa.
+
+Cada iniciativa deberá ser discutida y votada en las Comisiones de dictamen legislativo que corresponda, así como en el Pleno del Congreso, durante el periodo de sesiones ordinarias en que se presente. Si no fuere así, la iniciativa, en sus términos y sin mayor trámite, será el primer asunto que deberá ser discutido y votado en la última sesión de dicho periodo.
+
+La Ley Orgánica del Poder Legislativo del Congreso regulará el trámite legislativo de las iniciativas que el Gobernador presente o señale con carácter preferente, así como las sanciones aplicables a los Diputados que infrinjan los plazos y términos previstos en esta Constitución, por el ejercicio de esta facultad.
 
 > <small>(ADICIONADO, P.O. 30 DE ENERO DE 2004)</small>
 
-### CAPITULO V.. DE LA PLANEACION LEGISLATIVA
+### CAPITULO IV.. DEL ORGANO DE FISCALIZACION SUPERIOR
 
-> <small>(ADICIONADO, P.O. 14 DE NOVIEMBRE DE 2003)</small>
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2009)</small>
 
 ###### ARTICULO 37.
 
@@ -833,9 +917,9 @@ Los Poderes del Estado y los sujetos de fiscalización proporcionarán auxilio a
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 14 DE NOVIEMBRE DE 2003)</small>
 
-### CAPITULO I.. DEL PODER EJECUTIVO
+### CAPITULO V.. DE LA PLANEACION LEGISLATIVA
 
-(REFORMADO, P.O. 31 DE DICIEMBRE DE 1985) (F. DE E. 20 DE MARZO DE 1986)
+> <small>(ADICIONADO, P.O. 14 DE NOVIEMBRE DE 2003)</small>
 
 ###### ARTICULO 38.
 
@@ -851,13 +935,19 @@ El Plan de Desarrollo Legislativo, se elaborará sin perjuicio del derecho conte
 
 ## TITULO CUARTO
 
-### CAPITULO II.. DE LAS FACULTADES Y OBLIGACIONES DEL GOBERNADOR
+### CAPITULO I.. DEL PODER EJECUTIVO
+
+(REFORMADO, P.O. 31 DE DICIEMBRE DE 1985) (F. DE E. 20 DE MARZO DE 1986)
 
 ###### ARTICULO 40.
 
 El Ejercicio del Poder Ejecutivo se deposita en una sola persona que se denomina Gobernador del Estado.
 
 El Gobernador del Estado conducirá la Administración Pública Estatal, que será Centralizada y Paraestatal, conforme a la Ley Orgánica que expida el Congreso, que distribuirá los asuntos del orden administrativo del Gobierno del Estado, que estarán a cargo de la Secretaría General de Gobierno, la Oficialía Mayor de Gobierno, la Procuraduría General de Justicia, las Secretarías y las Direcciones del Ramo, y definirá las bases de creación de las entidades Paraestatales, la intervención del Gobernador en su operación y las relaciones entre éstas y la Secretaría General de Gobierno, la Oficialía Mayor de Gobierno, la Procuraduría General de Justicia, las Secretarías y las Direcciones del Ramo.
+
+> <small>(ADICIONADO, P.O. 7 DE OCTUBRE DE 2011)</small>
+
+La administración de las entidades paraestatales estará a cargo del titular de la entidad, y por un órgano de gobierno integrado con no menos de cinco ni más de trece integrantes propietarios, de los cuales la mayoría deberá pertenecer a la administración pública.
 
 ###### ARTICULO 41.
 
@@ -901,7 +991,9 @@ El Secretario General de Gobierno, los Magistrados y Jueces del Tribunal Superio
 
 Los Militares en servicio activo y los titulares de los cuerpos policíacos, salvo que se separen de sus cargos, en forma provisional, noventa días antes del día de la elección.
 
-Los Diputados y Senadores del Congreso de la Unión, Diputados locales, Presidentes Municipales, Síndicos Procuradores y Regidores de los Ayuntamientos, salvo que se separen de sus cargos, en forma provisional, noventa días antes del día de la elección.
+> <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 2011)</small>
+
+Los Diputados y Senadores del Congreso de la Unión, Diputados locales, Presidentes Municipales, Síndicos Procuradores, Síndicos Sociales, y Regidores de los Ayuntamientos, salvo que se separen de sus cargos, en forma provisional, noventa días antes del día de la elección.
 
 > <small>(REFORMADO, P.O. 14 DE AGOSTO DE 2008)</small>
 
@@ -967,7 +1059,7 @@ Si al comenzar un período constitucional no se presentare el Gobernador electo 
 
 Todos los acuerdos y disposiciones que el Gobernador diere en uso de sus facultades, deberán para su valides (sic) ser autorizados con la firma del Secretario de Gobierno o de quien conforme a la Ley haga sus veces.
 
-### CAPITULO III.. DEL SECRETARIO DE GOBIERNO
+### CAPITULO II.. DE LAS FACULTADES Y OBLIGACIONES DEL GOBERNADOR
 
 ###### ARTICULO 49.
 
@@ -975,7 +1067,13 @@ Son facultades y obligaciones del Gobernador:
 
 I.- Promulgar, ejecutar y hacer que se cumplan las leyes, decretos y demás disposiciones que tengan vigencia en el Estado;
 
-II.- Iniciar ante el Congreso leyes y decretos que redunden en beneficio del pueblo;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+
+> <small>(REFORMADA, P.O. 7 DE OCTUBRE DE 2011)</small>
+
+II.- Iniciar ante el Congreso leyes y decretos que redunden en beneficio del pueblo.
+
+Dentro de los noventa días siguientes a la instalación de cada legislatura constitucional, podrá optar por el Gobierno de Coalición, en cuyo caso y sin perjuicio de lo anterior, acordará las políticas públicas convenidas, turnándolas para su registro y seguimiento al Congreso del Estado.
 
 > <small>(REFORMADA, P.O. 17 DE SEPTIEMBRE DE 1999)</small>
 
@@ -983,9 +1081,9 @@ III.- Velar por la conservación del orden, tranquilidad y seguridad del Estado,
 
 IV.- Presentar cada año al Congreso, a más tardar el día primero de diciembre, los Proyectos de Ley de Ingresos y Presupuesto de Egresos para el ejercicio fiscal siguiente;
 
-> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2008)</small>
+> <small>(REFORMADA, P.O. 7 DE OCTUBRE DE 2011)</small>
 
-V.- Rendir un informe general, por escrito, del estado que guarde la Administración Pública, remitiéndolo al Congreso a la apertura del primer periodo de sesiones ordinarias;
+V.- Rendir un informe general, por escrito, del estado que guarde la Administración Pública, remitiéndolo al Congreso a la apertura del primer periodo de sesiones ordinarias; sin perjuicio de lo anterior, podrá emitir un mensaje ante el Congreso, bajo protesta de decir verdad, en cuyo caso cada grupo parlamentario tendrá derecho a expresar su opinión sobre el contenido del mismo. Tanto el Gobernador del Estado, como los grupos parlamentarios, tendrán por una sola ocasión, derecho de réplica.
 
 VI.- Pedir y dar informes al Congreso y al Tribunal Superior de Justicia;
 
@@ -999,9 +1097,13 @@ VIII.- Visitar los Municipios del Estado cuando lo estime conveniente, proveyend
 
 IX.- Prestar a los tribunales el auxilio que éstos requieran para el ejercicio expedito de sus funciones y hacer cumplir sus fallos y sentencias;
 
-> <small>(REFORMADA, P.O. 20 DE FEBRERO DE 1998)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
 
-X.- Nombrar y remover libremente al Secretario de Gobierno y a los Funcionarios y empleados cuyo nombramiento y remoción no corresponda a otra autoridad;
+> <small>(REFORMADA, P.O. 7 DE OCTUBRE DE 2011)</small>
+
+X.- Nombrar y remover libremente a los Secretarios y demás funcionarios y empleados cuyo nombramiento y remoción no corresponda a otra autoridad. Los nombramientos del Secretario de Desarrollo Social, y del Director de Control y Evaluación Gubernamental, estarán sujetos a la ratificación del Congreso conforme lo señala esta Constitución;
+
+Cuando opte por el Gobierno de Coalición, someterá a cada uno de los Titulares de las Dependencias del Ejecutivo Estatal, por separado a ratificación del Congreso del Estado por mayoría simple de los miembros presentes. Si en el primer nombramiento no se alcanzara la mayoría de votos, el Gobernador del Estado hará un segundo nombramiento distinto, que deberá ser votado en los mismos términos y condiciones que el primero; si el segundo nombramiento no alcanzara la mayoría de votos, el Gobernador del Estado hará el nombramiento definitivo;
 
 XI.- Cuidar la recaudación y correcta inversión de los caudales del Estado;
 
@@ -1045,9 +1147,7 @@ XXIV.- Remover al Procurador General de Justicia del Estado, en los términos de
 
 XXV.- Las demás que le señalen expresamente esta Constitución y las Leyes Federales.
 
-### CAPITULO I.. DE LA JURISDICCION ADMINISTRATIVA
-
-> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2007)</small>
+### CAPITULO III.. DEL SECRETARIO DE GOBIERNO
 
 ###### ARTICULO 50.
 
@@ -1073,9 +1173,9 @@ III.- Las demás que le confiera la Ley Orgánica de la Administración Pública
 
 El Secretario de Gobierno no podrá desempeñar otro puesto o empleo público o privado, con excepción de los docentes, ni ejercer profesión alguna durante el ejercicio de sus funciones.
 
-### CAPITULO II.. DEL PODER JUDICIAL
+### CAPITULO I.. DE LA JURISDICCION ADMINISTRATIVA
 
-> <small>(REFORMADO, P.O. 20 DE MAYO DE 1988)</small>
+> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2007)</small>
 
 ###### ARTICULO 54.
 
@@ -1085,11 +1185,9 @@ Las faltas del Secretario de Gobierno, serán suplidas por el Oficial Mayor del 
 
 > <small>(ADICIONADO, P.O. 20 DE MAYO DE 1988)</small>
 
-### CAPITULO III.. DEL MINISTERIO PUBLICO Y DE LA DEFENSORIA DE OFICIO
+### CAPITULO II.. DEL PODER JUDICIAL
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO TERCERO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
-
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO, P.O. 20 DE MAYO DE 1988)</small>
 
 ###### ARTICULO 55.
 
@@ -1109,9 +1207,11 @@ El Pleno del Tribunal elaborará su proyecto de presupuesto de egresos por grupo
 
 La Ley desarrollará en los términos que señala esta Constitución, la carrera jurisdiccional en sus dimensiones de formación, promoción y permanencia, bajo los principios de excelencia, objetividad, imparcialidad, profesionalismo e independencia.
 
-### CAPITULO I.. DEL MUNICIPIO Y DEL GOBIERNO MUNICIPAL
+### CAPITULO III.. DEL MINISTERIO PUBLICO Y DE LA DEFENSORIA DE OFICIO
 
-> <small>(REFORMADO, P.O. 13 DE ABRIL DE 2001)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO TERCERO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
+
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2008)</small>
 
 ###### ARTICULO 56.
 
@@ -1471,9 +1571,9 @@ Los Consejeros de la Judicatura, Magistrados, Jueces y demás funcionarios del P
 
 > <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 1997)</small>
 
-### CAPITULO II.. DE LA ELECCION E INTEGRACION DE LOS AYUNTAMIENTOS
+### CAPITULO I.. DEL MUNICIPIO Y DEL GOBIERNO MUNICIPAL
 
-> <small>(REFORMADO Y REUBICADO, P.O. 13 DE ABRIL DE 2001)</small>
+> <small>(REFORMADO, P.O. 13 DE ABRIL DE 2001)</small>
 
 ###### ARTICULO 68.
 
@@ -1519,7 +1619,7 @@ El Tribunal de Justicia Electoral, por conducto de su Presidente, presentará su
 
 El Tribunal expedirá su Reglamento Interno y las disposiciones administrativas para su adecuado funcionamiento.
 
-### CAPITULO III.. DE LAS BASES GENERALES EN MATERIA MUNICIPAL
+### CAPITULO II.. DE LA ELECCION E INTEGRACION DE LOS AYUNTAMIENTOS
 
 > <small>(REFORMADO Y REUBICADO, P.O. 13 DE ABRIL DE 2001)</small>
 
@@ -1581,7 +1681,7 @@ La Ley fijará las atribuciones y deberes inherentes a la Defensoría Pública, 
 
 > <small>(REFORMADO, P.O. 13 DE ABRIL DE 2001)</small>
 
-### CAPITULO IV.. DE LAS ATRIBUCIONES, FUNCIONES Y SERVICIOS PUBLICOS MUNICIPALES
+### CAPITULO III.. DE LAS BASES GENERALES EN MATERIA MUNICIPAL
 
 > <small>(REFORMADO Y REUBICADO, P.O. 13 DE ABRIL DE 2001)</small>
 
@@ -1627,7 +1727,7 @@ El Ayuntamiento es el órgano colegiado de representación popular, depositario 
 
 > <small>(ADICIONADO, P.O. 13 DE ABRIL DEL 2001)</small>
 
-### CAPITULO V.. DEL PATRIMONIO Y LA HACIENDA PUBLICA MUNICIPAL
+### CAPITULO IV.. DE LAS ATRIBUCIONES, FUNCIONES Y SERVICIOS PUBLICOS MUNICIPALES
 
 > <small>(REFORMADO Y REUBICADO, P.O. 13 DE ABRIL DE 2001)</small>
 
@@ -1639,11 +1739,13 @@ Los ayuntamientos iniciarán el ejercicio de sus funciones el día primero de di
 
 Los integrantes de los ayuntamientos durarán en su cargo tres años y no podrán ser reelectos para el período inmediato, de conformidad con lo dispuesto en el Artículo 115, fracción I, segundo párrafo, de la Constitución Política de los Estados Unidos Mexicanos.
 
-> <small>(REFORMADO Y REUBICADO, P.O. 13 DE ABRIL DE 2001)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 7 DE OCTUBRE DE 2011)</small>
 
 ###### ARTICULO 79.
 
-Los ayuntamientos se integrarán por un Presidente Municipal, un Síndico Procurador y por regidores de mayoría relativa y de representación proporcional, en el número que resulte de la aplicación a cada Municipio de las siguientes bases:
+Los Ayuntamientos se integrarán por un Presidente Municipal; hasta por dos Síndicos, uno electo por el principio de mayoría relativa, y otro, por el principio de representación proporcional; y por Regidores de mayoría relativa y de representación proporcional, en el número que resulte de la aplicación a cada Municipio de las siguientes bases:
+
+> <small>(REFORMADA, P.O. 13 DE ABRIL DE 2001)</small>
 
 I.- El número de regidores de mayoría relativa y de representación proporcional será:
 
@@ -1653,6 +1755,20 @@ b).- Los municipios cuya población se encuentre en el rango comprendido de dosc
 
 c).- Los municipios cuya población exceda de quinientos mil habitantes, tendrán ocho Regidores electos según el principio de mayoría relativa y hasta siete regidores de representación proporcional.
 
+> <small>(ADICIONADO, P.O. 7 DE OCTUBRE DE 2011)</small>
+
+Los Municipios comprendidos en los rangos poblacionales previstos en el inciso a) de esta fracción, tendrán un Síndico Procurador electo por mayoría relativa.
+
+> <small>(ADICIONADO, P.O. 7 DE OCTUBRE DE 2011)</small>
+
+Los Municipios comprendidos en los rangos poblacionales previstos en los incisos b) y c) de esta fracción, tendrán un Síndico Procurador electo por mayoría relativa, y un Síndico Social electo por el principio de representación proporcional.
+
+> <small>(ADICIONADO, P.O. 7 DE OCTUBRE DE 2011)</small>
+
+El Síndico Social le será asignado al partido político que, por sí mismo o en coalición, haya ocupado el segundo lugar en número de votos para la elección de munícipes, correspondiendo al candidato a Síndico registrado en la planilla respectiva.
+
+> <small>(REFORMADA, P.O. 13 DE ABRIL DE 2001)</small>
+
 II.- Para que los partidos políticos o coaliciones tengan derecho a la asignación de regidores por el principio de representación proporcional, deberán cumplir los siguientes requisitos:
 
 a).- Haber obtenido el registro de planilla completa de candidatos a munícipes en el Municipio que corresponda;
@@ -1660,6 +1776,8 @@ a).- Haber obtenido el registro de planilla completa de candidatos a munícipes 
 b).- Haber obtenido por lo menos el tres por ciento de la votación emitida en la elección de munícipes correspondientes; y
 
 c).- No haber obtenido la constancia de mayoría respectiva, y
+
+> <small>(REFORMADA, P.O. 13 DE ABRIL DE 2001)</small>
 
 III.- La asignación de regidores mediante el principio de representación proporcional se sujetará, a lo que disponga la Ley respectiva y mediante el siguiente procedimiento:
 
@@ -1687,7 +1805,11 @@ e).- En caso de que aún hubieren más regidurías por repartir, se asignarán a
 
 f).- La asignación de las regidurías de representación proporcional que correspondan a cada Partido Político o coalición, la hará el Instituto Estatal Electoral de la lista de candidatos a Regidores que haya registrado cada Partido Político o coalición, en el orden que los mismos fueron registrados.
 
+> <small>(REFORMADO, P.O. 13 DE ABRIL DE 2001)</small>
+
 Los integrantes de los ayuntamientos contarán con sus respectivos suplentes.
+
+> <small>(REFORMADO, P.O. 13 DE ABRIL DE 2001)</small>
 
 Los conceptos que señala el Artículo 15 de esta Constitución, serán aplicables para el desarrollo de la fórmula de asignación aquí prevista.
 
@@ -1727,7 +1849,7 @@ V.- No podrán ser electos miembros de un Ayuntamiento:
 
 > <small>(ADICIONADO, P.O. 13 DE ABRIL DE 2001)</small>
 
-### CAPITULO VI.. DE LOS CONCEJOS MUNICIPALES
+### CAPITULO V.. DEL PATRIMONIO Y LA HACIENDA PUBLICA MUNICIPAL
 
 > <small>(REFORMADO Y REUBICADO, P.O. 13 DE ABRIL DE 2001)</small>
 
@@ -1761,7 +1883,9 @@ VII.- Establecer las normas que determinen los procedimientos mediante los cuale
 
 > <small>(ADICIONADO, P.O. 13 DE ABRIL DE 2001)</small>
 
-### CAPITULO UNICO.. DE LA HACIENDA PUBLICA
+### CAPITULO VI.. DE LOS CONCEJOS MUNICIPALES
+
+> <small>(REFORMADO Y REUBICADO, P.O. 13 DE ABRIL DE 2001)</small>
 
 ###### ARTICULO 82.
 
@@ -1865,9 +1989,7 @@ Cuando a juicio del Ayuntamiento respectivo resulte necesario, se podrá conveni
 
 > <small>(ADICIONADO, P.O. 13 DE ABRIL DE 2001)</small>
 
-### CAPITULO UNICO.. DE LAS RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1983)</small>
+### CAPITULO UNICO.. DE LA HACIENDA PUBLICA
 
 ###### ARTICULO 85.
 
@@ -1897,7 +2019,9 @@ Los presupuestos de egresos serán aprobados por los ayuntamientos, con base en 
 
 > <small>(ADICIONADO, P.O. 13 DE ABRIL DE 2001)</small>
 
-### CAPITULO UNICO.. PREVENCIONES GENERALES
+### CAPITULO UNICO.. DE LAS RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1983)</small>
 
 ###### ARTICULO 86.
 
@@ -1919,7 +2043,7 @@ Las personas integrantes de los Concejos Municipales o los Munícipes designados
 
 ## TITULO SEPTIMO
 
-### CAPITULO I.. DE LAS REFORMAS A LA CONSTITUCION
+### CAPITULO UNICO.. PREVENCIONES GENERALES
 
 ###### ARTICULO 88.
 
@@ -1955,7 +2079,7 @@ El Poder Judicial contará y administrará igualmente, con los recursos que se s
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 31 DE DICIEMBRE DE 1983)</small>
 
-### CAPITULO II.. DE LA INVIOLABILIDAD DE ESTA CONSTITUCION
+### CAPITULO I.. DE LAS REFORMAS A LA CONSTITUCION
 
 ###### ARTICULO 91.
 
@@ -1989,27 +2113,41 @@ Cualquier ciudadano bajo su más estricta responsabilidad y mediante la presenta
 
 La resolución emitida por el Congreso estará investida de soberanía, por lo que será definitiva e inatacable.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 6 DE OCTUBRE DE 1997)</small>
+> <small>(ADICIONADA, P.O. 7 DE OCTUBRE DE 2011)</small>
+
+IV.- Se establecerá la obligación de los servidores públicos de elección popular, así como de los que desempeñen empleo, cargo o comisión de primer nivel en los Poderes del Estado, Ayuntamientos y los órganos autónomos, de someterse anualmente a examen para la detección de drogas de abuso.
+
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO CUARTO TRANSITORIO DEL DECRETO No. 106, P.O. 7 DE OCTUBRE DE 2011, EL PRESENTE TEXTO ENTRARÁ EN VIGOR A PARTIR DEL 1 DE NOVIEMBRE DE 2013; POR LO QUE A EFECTO DE CONSULTAR EL TEXTO QUE ESTARÁ VIGENTE HASTA ANTES DEL 1 DE NOVIEMBRE DE 2013, SE SUGIERE CONSULTAR EL ARCHIVO ADJUNTO.</small>
+
+> <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 2011)</small>
 
 ###### ARTICULO 93.
 
-Podrán ser sujetos de Juicio Político los Diputados del Congreso del Estado, Magistrados del Poder Judicial del Estado, Consejeros de la Judicatura del Estado, Secretario General de Gobierno, Oficial Mayor del Gobierno del Estado, Titulares de las Secretarías del Ejecutivo del Estado, Procurador General de Justicia del Estado, Procurador de los Derechos Humanos, Magistrados del Tribunal de lo Contencioso Administrativo, Jueces, Presidentes Municipales, Regidores, Síndicos Municipales y demás miembros de los Ayuntamientos de Elección Popular, Consejos Municipales, Directores Generales o sus equivalentes de los Organismos Descentralizados, Empresas de Participación Mayoritaria, Sociedades y Asociaciones asimiladas a éstas y Fideicomisos Públicos.
+En materia de Juicio Político y Moción de Censura, se observarán las siguientes bases:
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1983)</small>
+A. Del Juicio Político.- Podrán ser sujetos de Juicio Político: los Diputados del Congreso del Estado, Magistrados del Poder Judicial del Estado, Consejeros de la Judicatura del Estado, Secretario General de Gobierno, Titulares de las Secretarías del Ejecutivo del Estado, Procurador General de Justicia del Estado, Procurador de los Derechos Humanos, Magistrados del Tribunal de lo Contencioso Administrativo, Jueces, Presidentes Municipales, Regidores, Síndicos Municipales y demás miembros de los Ayuntamientos de Elección Popular, Consejos Municipales, Directores Generales o sus equivalentes de los Organismos Descentralizados, Empresas de Participación Mayoritaria, Sociedades y Asociaciones asimiladas a éstas y Fideicomisos Públicos.
 
-Las sanciones consistirán en la destitución del servidor público y en su inhabilitación para desempeñar funciones, cargos o comisiones de cualquier naturaleza en el servicio público.
+En el caso de los Titulares de las Dependencias del Ejecutivo Estatal, que hayan sido ratificados por el Congreso conforme a las disposiciones de esta Constitución, además del Juicio Político, se les podrá remover de su cargo por medio de la Moción de Censura.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1983)</small>
+Las sanciones en el Juicio Político consistirán en la destitución del servidor público y en su inhabilitación para desempeñar funciones, cargos o comisiones de cualquier naturaleza en el servicio público por un período de seis meses hasta veinte años.
 
-Para la aplicación de las sanciones a que se refiere este precepto, el Congreso del Estado, a través de una comisión de su seno instruirá, el procedimiento respectivo que concluirá en proposiciones concretas sobre la responsabilidad del inculpado previa audiencia de éste.
+Para la aplicación de las sanciones a que se refiere este precepto, el Congreso del Estado, a través de una comisión instruirá el procedimiento respectivo que concluirá en proposiciones concretas sobre la responsabilidad del inculpado previa audiencia de éste.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1983)</small>
-
-El Congreso del Estado concurriendo cuando menos las dos terceras partes del número total de sus miembros, se erigirá en Jurado de Sentencia una vez practicadas las diligencias correspondientes con audiencias del acusado, emitirá el fallo correspondiente tomado por acuerdo de las dos terceras partes del número total de diputado (sic). En ese caso no votarán quienes hayan integrado la Comisión Instructora.
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 2 DE FEBRERO DE 2007)</small>
+El Congreso del Estado concurriendo cuando menos las dos terceras partes del número total de sus miembros, se erigirá en Jurado de Sentencia una vez practicadas las diligencias correspondientes con audiencias del acusado, emitirá el fallo correspondiente tomado por acuerdo de las dos terceras partes del número total de diputados. En ese caso no votarán quienes hayan integrado la Comisión Instructora.
 
 Las resoluciones que emita el Congreso del Estado, serán en ejercicio pleno de su soberanía, y por lo tanto, resolverá en forma libre y discrecional. Dichas resoluciones serán definitivas e inatacables, por lo que no procederá juicio, recurso o medio de defensa ordinario o extraordinario alguno en contra de las mismas.
+
+B. De la Moción de Censura.- A petición de por lo menos una tercera parte de los miembros del Congreso, se podrá proponer una Moción de Censura en contra de los Titulares de las Dependencias del Ejecutivo Estatal, que hayan sido ratificados por el Congreso.
+
+Para aprobar la Moción de Censura se requerirá la mayoría de votos de los miembros presentes en caso de que el efecto sea el apercibimiento del funcionario. Cuando el efecto sea la remoción del cargo se requerirá el voto de las dos terceras partes de los miembros presentes.
+
+La Moción de Censura podrá proceder exclusivamente contra los funcionarios ratificados por el Congreso del Estado, que refieren los artículos 27 y 49 de esta Constitución.
+
+La Moción de Censura será discutida en una sola sesión, el servidor público sujeto al procedimiento tendrá derecho a ser oído durante dicho debate.
+
+La votación no podrá llevarse a cabo en la misma sesión, sino con posterioridad a los siguientes siete días hábiles, en caso de no realizarse en este plazo, se tendrá por desechada y no podrá presentarse una nueva moción de censura dirigida al mismo funcionario, dentro de un año después.
+
+Las decisiones que determine en esta materia el Congreso del Estado son definitivas e inatacables.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE FEBRERO DE 2007)</small>
 
@@ -2025,27 +2163,31 @@ Si la resolución del Congreso fuese negativa se suspenderá todo procedimiento 
 
 Si el Congreso del Estado declara que ha lugar a proceder, el sujeto quedará a disposición de las autoridades competentes para que actúen con arreglo a la Ley.
 
-> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 1997)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 7 DE OCTUBRE DE 2011)</small>
 
-En el caso de que el Gobernador del Estado, Diputados, Magistrados del Poder Judicial del Estado y Consejeros de la Judicatura del Estado, sean declarados responsables en Juicio Político por la Cámara de Senadores del Congreso de la Unión o sujetos de declaración de procedencia por la Cámara de Diputados del mismo Congreso, la Legislatura del Estado determinará las sanciones de las señaladas en el Artículo 93 que deban imponerse al acusado si se está en el primer caso, o decretará la separación del Servidor Público de que se trate del cargo que ocupa y lo hará saber así a la Autoridad que haya solicitado la remoción del Fuero Constitucional.
+El procedimiento de declaratoria de procedencia, tratándose de delitos graves, deberá desahogarse en un plazo no mayor de sesenta días hábiles.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1983)</small>
+> <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 2011)</small>
 
-El efecto de la declaración de que ha lugar a proceder contra el inculpado será separarlo de su encargo en tanto esté sujeto a proceso penal.
+En el caso de que el Gobernador del Estado, Diputados, Magistrados del Poder Judicial del Estado y Consejeros de la Judicatura del Estado, sean declarados responsables en Juicio Político por la Cámara de Senadores del Congreso de la Unión o sujetos de declaración de procedencia por la Cámara de Diputados del mismo Congreso, la Legislatura del Estado determinará las sanciones de las señaladas en el artículo 93 que deban imponerse al acusado si se está en el primer caso, o decretará la separación del Servidor Público de que se trate del cargo que ocupa y lo hará saber así a la Autoridad que haya solicitado la remoción del Fuero Constitucional.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1983)</small>
+> <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 2011)</small>
+
+El efecto de la declaración de que ha lugar a proceder contra el inculpado, será separarlo de su encargo en tanto esté sujeto a proceso penal.
+
+> <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 2011)</small>
 
 Si éste culmina en sentencia absolutoria, el inculpado podrá reasumir su función. Si la sentencia fuese condenatoria y se trata de un delito cometido durante el ejercicio de su encargo, no se concederá al reo la gracia del indulto.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1983)</small>
+> <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 2011)</small>
 
 En demandas del orden civil que se entablen contra cualquier servidor público no se requerirá declaración de procedencia.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1983)</small>
+> <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 2011)</small>
 
 Las sanciones penales se aplicarán de acuerdo con lo dispuesto en la legislación penal, y tratándose de delitos de cuya comisión el autor obtenga un beneficio económico o cause daños y perjuicios patrimoniales, deberán graduarse de acuerdo con el lucro obtenido y con la necesidad de satisfacer los daños y perjuicios causados por su conducta ilícita.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1983)</small>
+> <small>(ADICIONADO [N. DE REFORMADO], P.O. 7 DE OCTUBRE DE 2011)</small>
 
 Las sanciones económicas no podrán exceder de tres tantos de los beneficios obtenidos o de los daños y perjuicios causados.
 
@@ -2070,6 +2212,8 @@ La responsabilidad por delitos cometidos durante el tiempo de su encargo por cua
 La Ley señalará los casos de prescripción de la responsabilidad administrativa tomando en cuenta la naturaleza y consecuencia de los actos u omisiones a que hace referencia la Fracción III del Artículo 92. Cuando dichos actos u omisiones fuesen graves los plazos de prescripción no serán inferiores a tres años.
 
 ## TITULO NOVENO
+
+### CAPITULO II.. DE LA INVIOLABILIDAD DE ESTA CONSTITUCION
 
 ###### ARTICULO 96.
 
@@ -3328,3 +3472,13 @@ El monto de la cuantía que por concepto de cuotas realizan los subsistemas, se 
 CUARTO.- A partir de la entrada en vigor del presente Decreto, y de forma simultánea a los descuentos señalados en el artículo transitorio anterior, las instituciones educativas pertenecientes a los subsistemas estatales de educación media superior, implementarán esquemas que faciliten o sustituyan el pago de las cuotas de inscripción a todos los alumnos o personas que deseen ingresar a los espacios educativos, y que no se encuentren en el supuesto del Transitorio Segundo del presente Decreto.
 
 QUINTO.- Córrase el trámite que señala el Artículo 112 de la Constitución Política del Estado Libre y Soberano de Baja California a los Municipios para que emitan su opinión, en los términos de Ley.
+
+P.O. 7 DE OCTUBRE DE 2011.
+
+PRIMERO.- Las presentes reformas y adiciones entrarán en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Baja California, con las consideraciones que se establecen en los artículos subsecuentes, previo cumplimiento del procedimiento que prescribe el Artículo 112 de la Constitución Política del Estado Libre y Soberano de Baja California.
+
+SEGUNDO.- El Congreso del Estado deberá adecuar las legislaciones secundarias, a más tardar dentro de los ciento ochenta días siguientes a la entrada en vigor de las presentes reformas. Tratándose de las adecuaciones a la Ley de Instituciones y Procedimientos Electorales del Estado y de la Ley del Régimen Municipal para el Estado, las reformas deberán aprobarse dentro de un plazo de noventa días siguientes a la entrada en vigor del presente Decreto.
+
+TERCERO.- Un distrito electoral de los diecisiete que tenga el Estado de Baja California corresponderá al Municipio de Playas de Rosarito.
+
+CUARTO.- Las reformas a los artículos 27, fracciones III y XXXII, 49, fracciones II y X, y 93 del presente Decreto, entrarán en vigor el primero de noviembre del año dos mil trece.
