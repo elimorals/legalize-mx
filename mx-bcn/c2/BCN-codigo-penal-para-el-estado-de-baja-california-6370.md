@@ -4,7 +4,7 @@ identifier: "BCN-codigo-penal-para-el-estado-de-baja-california-6370"
 country: "mx"
 rank: "codigo"
 publication_date: "1989-08-20"
-last_updated: "2011-07-15"
+last_updated: "2011-10-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6370&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 CODIGO PENAL PARA EL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE JULIO DE 2011.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE OCTUBRE DE 2011.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Baja California, el domingo 20 de agosto de 1989.
 
@@ -1423,17 +1423,9 @@ I.- Declarar a los reos sujetos a vigilancia de la autoridad;
 
 II.- Prohibirles ir a circunscripción territorial determinada o residir en ella.
 
-> <small>(REFORMADO, P.O. 12 DE JUNIO DE 1998)</small>
-
 ###### Artículo 154.
 
-Homicidio o lesiones por infidelidad conyugal.- Al que descubra a su cónyuge en el acto carnal o próximo a la consumación:
-
-I.- Si priva de la vida a cualquiera de los culpables o ambos, se le impondrá de tres a ocho años de prisión;
-
-II.- Si ocasiona lesiones a cualquiera de los culpables o ambos se impondrá la mitad de la pena que corresponda al tipo de lesiones inferidas.
-
-La pena señalada en la fracción I, se agravará hasta en dos terceras partes más si el sujeto activo contribuyó a la corrupción de su cónyuge.
+(DEROGADO, P.O. 7 DE OCTUBRE DE 2011)
 
 > <small>(REFORMADO, P.O. 12 DE JUNIO DE 1998)</small>
 
@@ -4730,3 +4722,7 @@ P.O. 10 DE JUNIO DE 2011.
 P.O. 15 DE JULIO DE 2011.
 
 ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el periódico Oficial del Estado de Baja California.
+
+P.O. 7 DE OCTUBRE DE 2011.
+
+ÚNICO: La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
