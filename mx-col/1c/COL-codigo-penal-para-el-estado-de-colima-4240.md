@@ -4,7 +4,7 @@ identifier: "COL-codigo-penal-para-el-estado-de-colima-4240"
 country: "mx"
 rank: "codigo"
 publication_date: "1985-07-27"
-last_updated: "2011-09-24"
+last_updated: "2011-10-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4240&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,9 +25,7 @@ state: "COL"
 
 CODIGO PENAL PARA EL ESTADO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE AGOSTO DE 2011.
-
-> <small>N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 24 DE SEPTIEMBRE DE 2011 NO APLICA AL ARTICULADO DEL DECRETO 363 PUBLICADO EN EL P.O. DE 31 DE AGOSTO DE 2011.</small>
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE OCTUBRE DE 2011.
 
 Código publicado en el Periódico Oficial del Estado de Colima, el sábado 27 de julio de 1985.
 
@@ -111,11 +109,11 @@ Responde también del resultado típico producido, el que omite impedirlo, si po
 
 > <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 15 DE OCTUBRE DE 2011 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE OCTUBRE DE 2011)</small>
 
-###### ARTICULO 10.
+###### ARTÍCULO 10.
 
-Se califican como delitos graves, para todos los efectos legales, por afectar de manera importante valores fundamentales de la sociedad, los siguientes delitos previstos por este Código: REBELIÓN tipificado por el artículo 104; TERRORISMO conforme a los párrafos primero y segundo del artículo 106 BIS; los supuestos previstos por el artículo 108; USO INDEBIDO DE INFORMACIÓN SOBRE ACTIVIDADES DE LAS INSTITUCIONES DE SEGURIDAD PÚBLICA, DE PROCURACIÓN E IMPARTICIÓN DE JUSTICIA, ASÍ COMO LAS DEL SISTEMA PENITENCIARIO tipificado por el artículo 115 BIS, FALSEDAD ANTE LA AUTORIDAD establecido por el artículo 117; EVASIÓN DE PRESOS conforme al segundo párrafo del artículo 121; PECULADO tipificado por el artículo 131; DELITOS CONTRA LA SEGURIDAD VIAL Y LOS MEDIOS DE TRANSPORTE establecidos en el segundo párrafo del artículo 145; CORRUPCIÓN Y EXPLOTACIÓN DE PERSONAS señalados en el segundo y tercer párrafo del artículo 154; PORNOGRAFÍA mencionada en el artículo 157 BIS 2; TURISMO SEXUAL, en los términos de los numerales 157 BIS 6 y 157 BIS 7; LENOCINIO en los términos del segundo párrafo del artículo 158 y el numeral 159; TRATA DE PERSONAS en el artículo 161; HOMICIDIO tipificado por los artículos 169, 170, 171, 172 tratándose del provocador, y las fracciones II y III del 173; LESIONES conforme los artículos 174 fracciones VI y VII, 175, 176, 177, 178, 179, 183; HOMICIDIO Y LESIONES CULPOSAS previstas en el artículo 184 BIS; FEMINICIDIO tipificado en el artículo 191 Bis 5; PRIVACIÓN DE LA LIBERTAD previsto por el artículo 197; SECUESTRO previsto por el artículo 199, respectivamente; VIOLACIÓN en todas sus formas y modalidades que comprenden los artículos 206, 207, 208, 209, y 210; Abuso Sexual, en lo previsto en el segundo párrafo del artículo 215; ROBO respecto de los supuestos del inciso B) del artículo 227, 227 BIS, 227 BIS 1, 227 BIS 2; los FRAUDES ESPECÍFICOS previstos en las fracciones III, IV, V Y VI del artículo 234; DAÑOS tipificado por el artículo 238. Igualmente se consideran graves los delitos de Tentativa de Homicidio y Secuestro, así como la Tentativa de Robo previsto por el inciso b) del artículo 227 y la Tentativa de Violación previsto por los artículos 206, 207, 208, 209 Y 210 así como los DELITOS CONTRA EL AMBIENTE, previstos por los artículos 243 en su segundo párrafo y la fracción III del 244.
+Se califican como delitos graves, para todos los efectos legales, por afectar de manera importante valores fundamentales de la sociedad, los siguientes delitos previstos por este Código: REBELIÓN tipificado por el artículo 104; TERRORISMO conforme a los párrafos primero y segundo del artículo 106 BIS; los supuestos previstos por el artículo 108; USO INDEBIDO DE INFORMACIÓN SOBRE ACTIVIDADES DE LAS INSTITUCIONES DE SEGURIDAD PÚBLICA, DE PROCURACIÓN E IMPARTICIÓN DE JUSTICIA, ASÍ COMO LAS DEL SISTEMA PENITENCIARIO tipificado por el artículo 115 BIS, FALSEDAD ANTE LA AUTORIDAD establecido por el artículo 117; EVASIÓN DE PRESOS conforme al segundo párrafo del artículo 121; PECULADO tipificado por el artículo 131; DELITOS CONTRA LA SEGURIDAD VIAL Y LOS MEDIOS DE TRANSPORTE establecidos en el segundo párrafo del artículo 145; CORRUPCIÓN Y EXPLOTACIÓN DE PERSONAS señalados en el segundo y tercer párrafo del artículo 154; PORNOGRAFÍA mencionada en el artículo 157 BIS 2; TURISMO SEXUAL, en los términos de los numerales 157 BIS 6 y 157 BIS 7; LENOCINIO en los términos del segundo párrafo del artículo 158 y el numeral 159; TRATA DE PERSONAS en el artículo 161; HOMICIDIO tipificado por los artículos 169, 170, 171, 172 tratándose del provocador, y las fracciones II y III del 173; LESIONES conforme los artículos 174 fracciones VI y VII, 175, 176, 177, 178, 179, 183; HOMICIDIO Y LESIONES CULPOSAS previstas en el artículo 184 BIS; FEMINICIDIO tipificado en el artículo 191 Bis 5; PRIVACIÓN DE LA LIBERTAD previsto por el artículo 197; SECUESTRO previsto por el artículo 199, respectivamente; DESAPARICIÓN FORZADA DE PERSONAS en todas sus formas y modalidades que comprenden los artículos 202 BIS y 202 BIS 1; VIOLACIÓN en todas sus formas y modalidades que comprenden los artículos 206, 207, 208, 209, y 210; Abuso Sexual, en lo previsto en el segundo párrafo del artículo 215; ROBO respecto de los supuestos del inciso B) del artículo 227, 227 BIS, 227 BIS 1, 227 BIS 2, 227 BIS 3, 227 BIS 4 y 227 BIS 5; los FRAUDES ESPECÍFICOS previstos en las fracciones III, IV, V Y VI del artículo 234; DAÑOS tipificado por el artículo 238. Igualmente se consideran graves los delitos de Tentativa de Homicidio y Secuestro, así como la Tentativa de Robo previsto por el inciso b) del artículo 227 y la Tentativa de Violación previsto por los artículos 206, 207, 208, 209 Y 210 así como los DELITOS CONTRA EL AMBIENTE, previstos por los artículos 243 en su segundo párrafo y la fracción III del 244.
 
 ... (sic)
 
@@ -945,9 +943,9 @@ II.- Desde la fecha en que el reo contraiga matrimonio con la ofendida, en los c
 
 Es imprescriptible la acción persecutoria en los siguientes casos:
 
-> <small>(REFORMADA, P.O. 14 DE MAYO DE 2011)</small>
+> <small>(REFORMADA, P.O. 8 DE OCTUBRE DE 2011)</small>
 
-I.- Por los delitos de peculado, cohecho, enriquecimiento ilegítimo y terrorismo conforme a los párrafos primero y segundo del artículo 106 BIS.
+I.- Por los delitos de peculado, cohecho, enriquecimiento ilegítimo, terrorismo conforme a los párrafos primero y segundo del artículo 106 BIS, y desaparición forzada de personas previsto en los artículos 202 BIS y 202 BIS 1.
 
 II.- Cuando el delito cometido atente contra el derecho a recibir alimentos.
 
@@ -2503,17 +2501,29 @@ Si la enfermedad padecida fuera incurable, se impondrá de tres a ocho años de 
 
 RAPTO.
 
-### CAPITULO I.
+### CAPÍTULO IV. DESAPARICIÓN FORZADA DE PERSONAS
 
-AMENAZAS Y COACCION.
+> <small>(ADICIONADO, P.O. 8 DE OCTUBRE DE 2011)</small>
+
+ARTICULO 202 BIS.- Al servidor público del Estado de Colima o sus Municipios que con motivo de sus atribuciones, detenga y mantenga oculta a una o varias personas, o bien autorice, apoye o consienta que otros lo hagan sin reconocer la existencia de tal privación o niegue información sobre su paradero, impidiendo con ello el ejercicio de los recursos legales y las garantías procesales procedentes, se le impondrá de quince a cuarenta años de prisión, y de trescientos a mil unidades de multa, e inhabilitación para el desempeño de cualquier cargo, empleo o comisión público hasta por quince años.
+
+Al particular que por orden, autorización o con el apoyo de un servidor público participe en los actos descritos en el párrafo anterior, se le impondrán de ocho a quince años de prisión y de 150 a 500 unidades de multa.
+
+La oposición, negativa o desacato hacia la autoridad competente luego de haber sido requerido por ésta para tener libre e inmediato acceso al lugar donde haya motivos para creer que se pueda encontrar a una persona desaparecida, por parte del servidor público responsable del mismo, será sancionada con la inhabilitación de su cargo, comisión o empleo públicos, sin perjuicio de la aplicación de las penas por los demás delitos en que pudiera incurrir con motivo de su conducta.
+
+Las sanciones previstas en los párrafos precedentes se disminuirán en una tercera parte, cuando el sujeto activo suministre información que permita esclarecer los hechos y, en una mitad, cuando contribuya a lograr la aparición con vida de la víctima o víctimas.
+
+> <small>(ADICIONADO, P.O. 8 DE OCTUBRE DE 2011)</small>
+
+ARTICULO 202 BIS 1.- Se equipara al delito de desaparición forzada de personas, la ocultación de familiares de víctimas de este delito o nacidos de una madre víctima de desaparición forzada, durante el cautiverio.
 
 ## TITULO CUARTO.
 
 DELITOS CONTRA LA PAZ Y LA SEGURIDAD PERSONAL.
 
-### CAPITULO II.
+### CAPITULO I.
 
-ALLANAMIENTO DE MORADA.
+AMENAZAS Y COACCION.
 
 ###### ARTICULO 196.
 
@@ -2551,9 +2561,9 @@ IX.- Que la autoridad realice o deje de hacer un acto de cualquier índole.
 
 Si el agente espontáneamente pone en libertad a la víctima dentro de los dos días siguientes a la comisión del delito, podrá disminuirse la pena hasta la mitad.
 
-### CAPITULO III.
+### CAPITULO II.
 
-REVELACION DE SECRETOS.
+ALLANAMIENTO DE MORADA.
 
 ###### ARTICULO 199.
 
@@ -2631,9 +2641,9 @@ XII.- Se torture o mutile cualquier parte del cuerpo de la víctima.
 
 Si espontáneamente se pone en libertad a la persona antes de veinticuatro horas y sin causar daños o perjuicios graves, sólo se aplicará hasta las dos terceras partes de la pena prevista para cualquiera de los casos señalados en este artículo.
 
-### CAPITULO I.
+### CAPITULO III.
 
-VIOLACION.
+REVELACION DE SECRETOS.
 
 ###### ARTICULO 200.
 
@@ -2659,19 +2669,21 @@ Por el sólo hecho de no haber cumplido dieciocho años de edad, la persona que 
 
 Este delito sólo se perseguirá por querella necesaria.
 
-### CAPITULO II.
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 8 DE OCTUBRE DE 2011)</small>
 
-ESTUPRO.
+### CAPITULO I.
 
-> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2007)</small>
+VIOLACION.
 
 ## TITULO QUINTO.
 
 DELITOS CONTRA LA LIBERTAD Y LA SEGURIDAD SEXUAL.
 
-### CAPITULO III.
+### CAPITULO II.
 
-ABUSO SEXUAL.
+ESTUPRO.
+
+> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2007)</small>
 
 ###### ARTICULO 203.
 
@@ -2687,11 +2699,9 @@ Para efectos del párrafo anterior se entenderá por intimidación el exagerar l
 
 Al que mediante violencia obligue a otro a hacer, omitir, o tolerar algo, se le impondrán de dos a seis años de prisión y multa hasta por 80 unidades.
 
-### CAPITULO IV.
+### CAPITULO III.
 
-HOSTIGAMIENTO SEXUAL.
-
-> <small>(ADICIONADO, P.O. 15 DE JUNIO DE 2002)</small>
+ABUSO SEXUAL.
 
 ###### ARTICULO 204.
 
@@ -2699,9 +2709,11 @@ Al que sin consentimiento de la persona autorizada o empleando engaño, se intro
 
 Las mismas sanciones se aplicarán a quien permanezca en una morada o sus dependencias sin el consentimiento de la persona autorizada para darlo.
 
-### CAPITULO I.
+### CAPITULO IV.
 
-GOLPES Y OTRAS VIOLENCIAS FISICAS SIMPLES.
+HOSTIGAMIENTO SEXUAL.
+
+> <small>(ADICIONADO, P.O. 15 DE JUNIO DE 2002)</small>
 
 ###### ARTICULO 205.
 
@@ -2715,9 +2727,9 @@ Las sanciones serán de uno a cinco años de prisión y multa hasta por 60 unida
 
 DELITOS CONTRA EL HONOR.
 
-### CAPITULO II.
+### CAPITULO I.
 
-DIFAMACION.
+GOLPES Y OTRAS VIOLENCIAS FISICAS SIMPLES.
 
 ###### ARTICULO 206.
 
@@ -2761,15 +2773,17 @@ Al que tenga cópula con persona menor de catorce años de edad, o con quien no 
 
 Según el caso, se impondrán las penas señaladas en los Artículos anteriores, cuando se produzca un resultado análogo al de la violación, utilizando un instrumento no idóneo, si el activo tuvo o no el propósito de copular.
 
-### CAPITULO III.
+### CAPITULO II.
 
-CALUMNIA.
+DIFAMACION.
 
 ###### ARTICULO 211.
 
 Al que tenga cópula con persona mayor de catorce y menor de dieciocho años, obteniendo su consentimiento por medio de la seducción o engaño, se le impondrán de uno a seis años de prisión y multa de hasta por 70 unidades.
 
-No se consideran como estupro, los casos en que la relación sea producto del comercio carnal.
+> <small>(REFORMADO, P.O. 8 DE OCTUBRE DE 2011)</small>
+
+Los casos en que la relación sea producto del comercio carnal, se sancionarán conforme a lo previsto para el delito de corrupción y explotación de personas, tipificado en el artículo 154 de este Código.
 
 ###### ARTICULO 212.
 
@@ -2783,9 +2797,9 @@ No se procederá contra el activo sino por querella de la mujer ofendida o de su
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 28 DE DICIEMBRE DE 2002)</small>
 
-### CAPITULO IV.
+### CAPITULO III.
 
-DISPOSICIONES COMUNES.
+CALUMNIA.
 
 ###### ARTICULO 216 Bis.
 
@@ -2821,23 +2835,23 @@ Cuando el sujeto pasivo sea menor de catorce años, o carezca de capacidad para 
 
 > <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 15 DE JUNIO DE 2002)</small>
 
+### CAPITULO IV.
+
+DISPOSICIONES COMUNES.
+
 ### CAPITULO V.
 
 DISCRIMINACION.
 
 > <small>(ADICIONADO, P.O. 26 DE NOVIEMBRE DE 2005)</small>
 
-### CAPITULO I.
-
-ROBO.
-
 ## TITULO SEPTIMO.
 
 DELITOS CONTRA EL PATRIMONIO.
 
-### CAPITULO II.
+### CAPITULO I.
 
-ABUSO DE CONFIANZA.
+ROBO.
 
 ###### ARTICULO 217.
 
@@ -2849,9 +2863,9 @@ II.- Al que azotare a otro por injuriarle; y
 
 III.- Al que infiera cualquier otro golpe simple.
 
-### CAPITULO III.
+### CAPITULO II.
 
-FRAUDE.
+ABUSO DE CONFIANZA.
 
 ###### ARTICULO 218.
 
@@ -2873,17 +2887,17 @@ II.- Si el imputado fuere una persona que haya obrado como servidor público;
 
 III.- Si el hecho imputado está declarado cierto por sentencia firme y el acusado obra por un interés legítimo.
 
-### CAPITULO IV.
+### CAPITULO III.
 
-DESPOJO.
+FRAUDE.
 
 ###### ARTICULO 221.
 
 Al que impute falsamente a otro un hecho que la ley califique como delito, a sabiendas de que éste no existe o de que el imputado no es responsable del mismo, se le impondrá prisión de dos a cinco años y multa hasta por 70 unidades.
 
-### CAPITULO V.
+### CAPITULO IV.
 
-DAÑOS.
+DESPOJO.
 
 ###### ARTICULO 222.
 
@@ -2905,9 +2919,9 @@ Siempre que sea condenado el responsable de la difamación o calumnia se ordenar
 
 > <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 26 DE NOVIEMBRE DE 2005)</small>
 
-### CAPITULO VI.
+### CAPITULO V.
 
-ENCUBRIMIENTO POR RECEPTACION.
+DAÑOS.
 
 ###### ARTICULO 225 Bis.
 
@@ -2929,11 +2943,9 @@ Este delito se perseguirá por querella.
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 18 DE ENERO DE 2003)</small>
 
-### CAPITULO VII.
+### CAPITULO VI.
 
-DELITO INFORMATICO.
-
-> <small>(ADICIONADO, P.O. 3 DE MAYO DE 2008)</small>
+ENCUBRIMIENTO POR RECEPTACION.
 
 ###### ARTICULO 226.
 
@@ -3067,11 +3079,11 @@ Se equipara al robo y se sancionará con los (sic) mismas penas el apoderamiento
 
 Al que se le imputare el delito de robo simple y acredite haber tomado la cosa con carácter temporal y no para apropiársela o venderla, se le aplicarán de uno a seis meses de prisión y multa hasta por cinco unidades, siempre que no se haya negado a devolverla, si se le requirió para ello. Como reparación del daño, además pagará al ofendido el doble del alquiler arrendamiento o intereses de la cosa usada.
 
-### CAPITULO UNICO.
+### CAPITULO VII.
 
-DELITOS AMBIENTALES.
+DELITO INFORMATICO.
 
-> <small>(ADICIONADO, P.O. 18 DE ENERO DE 2003)</small>
+> <small>(ADICIONADO, P.O. 3 DE MAYO DE 2008)</small>
 
 ###### ARTICULO 230.
 
@@ -3091,7 +3103,11 @@ I.- Disponga de una cosa mueble de su propiedad, si no tiene la libre disposici�
 
 II.- En plazo prudente y después de ser requerido formalmente por autoridad judicial, no devuelva la cosa mueble retenida ilegalmente o no la entregue a la autoridad para que ésta disponga de la misma conforme a la ley.
 
-### CAPITULO UNICO. Validez de la Ley Penal.................... 323
+### CAPITULO UNICO.
+
+DELITOS AMBIENTALES.
+
+> <small>(ADICIONADO, P.O. 18 DE ENERO DE 2003)</small>
 
 ###### ARTICULO 232.
 
@@ -3179,9 +3195,9 @@ VII.- Al que por algún uso del medio informático, telemático o electrónico a
 
 En el supuesto que el activo tenga licenciatura, ingeniería o cualquier otro grado académico reconocido en el rubro de la informática, telemática o sus afines, la pena se aumentará hasta en cuatro años más, y en caso de reincidencia hasta cinco años más de prisión.
 
-### CAPITULO I. Conducta o Hecho....................................... 324
+### CAPITULO UNICO. Validez de la Ley Penal.................... 323
 
-### CAPITULO II. Dolo, Culpa y Preterintención..................... 324
+### CAPITULO I. Conducta o Hecho....................................... 324
 
 ###### ARTICULO 235.
 
@@ -3201,7 +3217,7 @@ Si el despojo se realiza por dos o más personas, o con violencia, la sanción a
 
 Las sanciones se aplicarán aún cuando el derecho a la posesión sea dudoso o esté en litigio.
 
-### CAPITULO III. Inexistencia del Delito................................ 325
+### CAPITULO II. Dolo, Culpa y Preterintención..................... 324
 
 ###### ARTICULO 237.
 
@@ -3225,7 +3241,7 @@ Tratándose de propaganda o promoción de partidos políticos o asociaciones pol
 
 Si el delito recae en bienes de interés colectivo o de valor científico, artístico o cultural o se comete por medio de inundación, incendio o explosión, la sanción aplicable será de dos a nueve años de prisión.
 
-### CAPITULO IV. Tentativa.................................................... 325
+### CAPITULO III. Inexistencia del Delito................................ 325
 
 ###### ARTICULO 239.
 
@@ -3237,7 +3253,7 @@ Al que con unidad de propósito incurra en más de dos ocasiones en cualquiera d
 
 > <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 3 DE MAYO DE 2008)</small>
 
-### CAPITULO V. Concurso de Delitos.................................... 325
+### CAPITULO IV. Tentativa.................................................... 325
 
 ###### ARTICULO 240 Bis.
 
@@ -3255,7 +3271,7 @@ DELITOS CONTRA EL MEDIO AMBIENTE.
 
 ## TITULO I............................................................................... 323
 
-### CAPITULO VI. Autoría y Participación............................... 326
+### CAPITULO V. Concurso de Delitos.................................... 325
 
 ###### ARTICULO 241.
 
@@ -3363,7 +3379,7 @@ DELITOS CONTRA EL ESTADO.
 
 ## TITULO II. Delito y Delincuente......................................... 324
 
-### CAPITULO VII. Comunicabilidad de Circunstancias.......... 326
+### CAPITULO VI. Autoría y Participación............................... 326
 
 ###### ARTICULO PRIMERO.
 
@@ -3389,9 +3405,11 @@ INDICE:
 
 ## TITULO III. Consecuencias Jurídicas de la. Conducta o Hecho. ............................................................. 326
 
-### CAPITULO I. Penas y medidas de Seguridad..................... 326
+### CAPITULO VII. Comunicabilidad de Circunstancias.......... 326
 
 ## TITULO IV. Aplicación de Sanciones................................ 330
+
+### CAPITULO I. Penas y medidas de Seguridad..................... 326
 
 ### CAPITULO II. La Prisión..................................................... 327
 
@@ -3405,9 +3423,9 @@ INDICE:
 
 ### CAPITULO VII. Decomiso................................................. 329
 
-### CAPITULO VIII. Prohibición de ir a una Circunscripción. Territorial determinada o de residir en ella......................... 329
-
 ## TITULO V. Extinción de la acción persecutoria. y de las penas y medidas de seguridad........................... 332
+
+### CAPITULO VIII. Prohibición de ir a una Circunscripción. Territorial determinada o de residir en ella......................... 329
 
 ### CAPITULO IX. Amonestación.......................................... 329
 
@@ -3429,9 +3447,9 @@ INDICE:
 
 ### CAPITULO VII. Concurso de Delitos y Delito Continuado. 331
 
-### CAPITULO VIII. Conmutación........................................... 331
-
 ## TITULO I. Delitos contra la Seguridad del Estado............. 334
+
+### CAPITULO VIII. Conmutación........................................... 331
 
 ### CAPITULO IX. Suspensión Condicional de la. ejecución de la sanción........................................................ 332
 
@@ -3449,9 +3467,9 @@ INDICE:
 
 ### CAPITULO I. Conspiración................................................ 334
 
-### CAPITULO II. Rebelión...................................................... 334
-
 ## TITULO II. Delitos contra la Función Pública....................... 334
+
+### CAPITULO II. Rebelión...................................................... 334
 
 ### CAPITULO III. Sedición..................................................... 334
 
@@ -3463,8 +3481,6 @@ INDICE:
 
 ### CAPITULO II. Usurpación de funciones.............................. 335
 
-### CAPITULO III. Ultrajes a la autoridad.................................. 335
-
 # LIBRO SEGUNDO
 
 #### SECCION SEGUNDA.
@@ -3472,6 +3488,8 @@ INDICE:
 DELITOS CONTRA LA SOCIEDAD.
 
 ## TITULO III. Delitos contra la impartición de Justicia.......... 335
+
+### CAPITULO III. Ultrajes a la autoridad.................................. 335
 
 ### CAPITULO IV. Desobediencia de particulares.................. 335
 
@@ -3481,9 +3499,9 @@ DELITOS CONTRA LA SOCIEDAD.
 
 ### CAPITULO VII. Falsedad ante autoridades no judiciales... 335
 
-### CAPITULO I. Falsedad ante la autoridad........................... 335
-
 ## TITULO I. Ejercicio indebido de servicio público................ 336
+
+### CAPITULO I. Falsedad ante la autoridad........................... 335
 
 ### CAPITULO II. Evasión de presos....................................... 335
 
@@ -3497,9 +3515,9 @@ DELITOS CONTRA LA SOCIEDAD.
 
 ### CAPITULO III. Abandono de funciones............................... 337
 
-### CAPITULO IV. Abuso de autoridad..................................... 337
-
 ## TITULO II. Delitos de peligro contra la seguridad pública.... 338
+
+### CAPITULO IV. Abuso de autoridad..................................... 337
 
 ### CAPITULO V. Peculado........................................................ 337
 
@@ -3507,13 +3525,13 @@ DELITOS CONTRA LA SOCIEDAD.
 
 ### CAPITULO VII. Enriquecimiento ilegítimo........................... 337
 
-### CAPITULO VIII. Delitos cometidos en la impartición de justicia. 337
-
 #### SECCION TERCERA.
 
 DELITOS CONTRA LA FAMILIA.
 
 ## TITULO III. Delitos contra la seguridad de los medios. de transporte y vías de comunicación.............................. 338
+
+### CAPITULO VIII. Delitos cometidos en la impartición de justicia. 337
 
 ### CAPITULO IX. Delitos de falsedad de los servidores públicos. 338
 
@@ -3531,9 +3549,9 @@ DELITOS CONTRA LA FAMILIA.
 
 ### CAPITULO III. Violación de correspondencia..................... 339
 
-### CAPITULO I. Falsificación de sellos, llaves, marcas. y contraseñas................................................................... 339
-
 ## TITULO IV. Delitos de falsedad y contra la fé pública..... 339
+
+### CAPITULO I. Falsificación de sellos, llaves, marcas. y contraseñas................................................................... 339
 
 ### CAPITULO II. Falsificación y uso de documento falso...... 339
 
@@ -3541,37 +3559,35 @@ DELITOS CONTRA LA FAMILIA.
 
 ### CAPITULO I. Ultrajes a la moral pública............................. 340
 
-### CAPITULO II. Corrupción de menores............................... 340
-
 ## TITULO V. Delitos contra la moral pública......................... 340
+
+### CAPITULO II. Corrupción de menores............................... 340
 
 ### CAPITULO III. Lenocinio................................................... 340
 
 ### CAPITULO I. Delitos en materia de inhumaciones. y exhumaciones.................................................................. 340
 
-### CAPITULO II. Delito contra el respeto a los muertos.......... 341
-
 ## TITULO VI. Delitos en materia de inhumaciones,. exhumaciones y contra el respeto a los muertos............... 340
+
+### CAPITULO II. Delito contra el respeto a los muertos.......... 341
 
 ### CAPITULO I. Substracción de menores o incapaces.......... 341
 
 ### CAPITULO II. Delitos contra la filiación y el estado civil...... 341
 
-### CAPITULO III. Bigamia......................................................... 341
-
 ## TITULO UNICO.................................................................... 341
+
+### CAPITULO III. Bigamia......................................................... 341
 
 ### CAPITULO IV. Incesto.......................................................... 341
 
 ### CAPITULO I. Homicidio......................................................... 341
 
-### CAPITULO II. Lesiones........................................................ 342
-
 ## TITULO I. Delitos contra la vida y salud personal................. 341
 
-### CAPITULO III. Disposiciones comunes para los delitos. de Homicidio y lesiones....................................................... 342
+### CAPITULO II. Lesiones........................................................ 342
 
-### CAPITULO IV. Inducción o ayuda al suicidio...................... 343
+### CAPITULO III. Disposiciones comunes para los delitos. de Homicidio y lesiones....................................................... 342
 
 #### SECCION CUARTA.
 
@@ -3579,15 +3595,17 @@ DELITOS CONTRA LAS PERSONAS.
 
 ## TITULO II. Delitos de peligro contra la vida y la salud personal. 343
 
+### CAPITULO IV. Inducción o ayuda al suicidio...................... 343
+
 ### CAPITULO V. Aborto.......................................................... 343
 
 ### CAPITULO I. Disparo de arma de fuego y ataque peligroso.... 343
 
 ### CAPITULO II. Omisión de Auxilio...................................... 344
 
-### CAPITULO III. Omisión de Cuidado.................................... 344
-
 ## TITULO III. Delitos contra la Libertad Personal................... 344
+
+### CAPITULO III. Omisión de Cuidado.................................... 344
 
 ### CAPITULO IV. Exposición de incapaces............................. 344
 
@@ -3597,9 +3615,9 @@ DELITOS CONTRA LAS PERSONAS.
 
 ### CAPITULO III. Rapto......................................................... 345
 
-### CAPITULO I. Amenazas y coacción................................... 345
-
 ## TITULO IV. Delitos contra la paz y la Seguridad Personal. 345
+
+### CAPITULO I. Amenazas y coacción................................... 345
 
 ### CAPITULO II. Allanamiento de morada.............................. 345
 
@@ -3607,25 +3625,25 @@ DELITOS CONTRA LAS PERSONAS.
 
 ### CAPITULO I. Violación......................................................... 345
 
-### CAPITULO II. Estupro.......................................................... 346
-
 ## TITULO V. Delitos contra la Libertad y Seguridad Sexual.. 345
+
+### CAPITULO II. Estupro.......................................................... 346
 
 ### CAPITULO III. Abusos Deshonestos................................... 346
 
 ### CAPITULO I. Golpes y otras Violencias Físicas Simples.... 346
 
-### CAPITULO II. Difamación.................................................... 346
-
 ## TITULO VI. Delitos contra el Honor..................................... 346
+
+### CAPITULO II. Difamación.................................................... 346
 
 ### CAPITULO III. Calumnia....................................................... 347
 
 ### CAPITULO IV. Disposiciones Comunes.............................. 347
 
-### CAPITULO I. Robo............................................................... 347
-
 ## TITULO VII. Delitos contra el Patrimonio............................. 347
+
+### CAPITULO I. Robo............................................................... 347
 
 ### CAPITULO II. Abuso de Confianza...................................... 347
 
@@ -3796,5 +3814,17 @@ DECRETO No. 356 POR EL QUE SE REFORMAN EL PRIMER PARRAFO DEL ARTICULOS (SIC) 10 
 ÚNICO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
 
 P.O. 31 DE AGOSTO DE 2011.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 8 DE OCTUBRE DE 2011.
+
+DECRETO No. 367 POR EL QUE SE REFORMA EL ARTICULO 10, 98 FRACCION I, Y SE ADICIONAN LOS ARTICULOS 202 BIS Y 202 BIS 1, ESTOS ULTIMOS QUE CONFORMARAN UN NUEVO CAPITULO IV DENOMINADO DESAPARICION FORZADA DE PERSONAS, DEL TITULO TERCERO DENOMINADO DELITOS CONTRA LA LIBERTAD PERSONAL DE LA SECCION CUARTA DENOMINADA DELITOS CONTRA LAS PERSONAS, DEL LIBRO SEGUNDO, TODOS DEL CODIGO PENAL PARA EL ESTADO DE COLIMA.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial el (sic) "El Estado de Colima".
+
+P.O. 8 DE OCTUBRE DE 2011.
+
+DECRETO No. 369 POR EL QUE SE REFORMA EL SEGUNDO PARRAFO DEL ARTICULO 211, DEL CODIGO PENAL PARA EL ESTADO DE COLIMA.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
