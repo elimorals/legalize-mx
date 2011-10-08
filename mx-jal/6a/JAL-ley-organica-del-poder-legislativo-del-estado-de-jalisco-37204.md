@@ -4,7 +4,7 @@ identifier: "JAL-ley-organica-del-poder-legislativo-del-estado-de-jalisco-37204"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2004-02-07"
-last_updated: "2011-02-10"
+last_updated: "2011-10-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=37204&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE FEBRERO DE 2011.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE OCTUBRE DE 2011.
 
 Ley publicada en la Sección Cuarta del Periódico Oficial del Estado de Jalisco, el sábado 7 de febrero de 2004.
 
@@ -1539,7 +1539,9 @@ VI. La formación del inventario pormenorizado de los muebles y enseres de la Se
 
 I. La legislación en materia electoral;
 
-II. La integración de la comisión referida en el artículo 133 Fracción I de la ley electoral para la elección de los consejeros electorales con derecho a voz y voto del Consejo Electoral del Estado;
+> <small>(REFORMADA, P.O. 8 DE OCTUBRE DE 2011)</small>
+
+II. La elección del Consejero Presidente y de los consejeros electorales con derecho a voz y voto del Consejo General del Instituto Electoral y de Participación Ciudadana del Estado de Jalisco, de conformidad con el artículo 121, párrafos 2 y 4, del Código Electoral y de Participación Ciudadana del Estado de Jalisco;
 
 > <small>(REFORMADA, P.O. 17 DE JULIO DE 2010)</small>
 
@@ -3990,5 +3992,9 @@ DECRETO NUMERO 23481/LIX/10, POR EL QUE SE ADICIONA UN CAPITULO XI AL TITULO QUI
 P.O. 10 DE FEBRERO DE 2011.
 
 DECRETO NUMERO 23482/LIX/10, POR EL QUE SE REFORMA EL ARTICULO 108 DE LA LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE JALISCO.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 8 DE OCTUBRE DE 2011.
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
