@@ -4,7 +4,7 @@ identifier: "TAB-reglamento-del-comite-de-adquisiciones-arrendamientos-y-41723"
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-11-03"
-last_updated: "2009-08-22"
+last_updated: "2011-10-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41723&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAB"
 
 REGLAMENTO DEL COMITÉ DE ADQUISICIONES, ARRENDAMIENTOS Y SERVICIOS RELACIONADOS CON BIENES MUEBLES DEL MUNICIPIO DE CENTLA, TABASCO
 
-> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO DEL COMITÉ DE ADQUISICIONES, ARRENDAMIENTOS Y PRESTACIÓN DE SERVICIOS DEL MUNICIPIO DE CENTLA, TABASCO, PUBLICADO EN EL P.O. DE 22 DE AGOSTO DE 2009, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO DEL COMITÉ DE ADQUISICIONES, ARRENDAMIENTOS Y PRESTACIÓN DE SERVICIOS DEL MUNICIPIO DE CENTLA, TABASCO, PUBLICADO EN EL SUPLEMENTO C DEL P.O. DE 8 DE OCTUBRE DE 2011, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
@@ -680,3 +680,13 @@ Se abroga el Reglamento de Compras (sic) del Municipio de Centla, publicado en e
 ###### ARTÍCULO TERCERO.
 
 Quedan sin efecto todas Disposiciones Administrativas que contravengan lo dispuesto en el presente Reglamento.
+
+P.O. 8 DE OCTUBRE DE 2011.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Reglamento es de estricta observancia para los integrantes del comité y las diversas unidades administrativas que integran la administración pública del Municipio de Centla y entrará en vigor al día siguiente de su publicación.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga el Reglamento de Compras del Municipio de Centla, publicado en el Periódico Oficial del Estado, el 03 de Noviembre del 2004 en el Suplemento "B" No. B486, y demás disposiciones legales que contrapongan el presente Reglamento.
