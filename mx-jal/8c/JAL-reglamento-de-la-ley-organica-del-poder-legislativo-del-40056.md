@@ -4,7 +4,7 @@ identifier: "JAL-reglamento-de-la-ley-organica-del-poder-legislativo-del-40056"
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-06-19"
-last_updated: "2011-09-15"
+last_updated: "2011-10-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40056&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 REGLAMENTO DE LEY ORGANICA DEL PODER LEGISLATIVO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE SEPTIEMBRE DE 2011.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE OCTUBRE DE 2011.
 
 Reglamento publicado en la Sección IV del Periódico Oficial del Estado de Jalisco, el sábado 19 de junio de 2004.
 
@@ -297,7 +297,9 @@ III. La emisión de conclusiones del análisis del informe, precisando éstos co
 
 ###### Artículo 30.
 
-1. Recibida por el Congreso la declaratoria de Gobernador Electo que envía el Consejo Electoral, deberá turnarse a la Comisión de Asuntos Electorales para que realice el dictamen de manera inmediata e inexcusable, en el cual se anexe la declaratoria para que a su vez la Asamblea del Congreso expida el Bando Solemne para darla a conocer y se le de lectura en la sesión previa a aquella en que el Gobernador del Estado deba rendir la protesta constitucional para asumir su cargo.
+> <small>(REFORMADO, P.O. 8 DE OCTUBRE DE 2011)</small>
+
+1. Recibida por el Congreso la declaratoria de Gobernador que envía el Instituto Electoral y de Participación Ciudadana del Estado de Jalisco, deberá turnarse a la Comisión de Asuntos Electorales para que realice el dictamen de manera inmediata e inexcusable, en el cual se anexe la declaratoria para que a su vez la Asamblea del Congreso expida el Bando Solemne para darlo a conocer y que se le dé lectura en la sesión previa a aquella en que el Gobernador del Estado deba rendir la protesta constitucional para asumir su cargo.
 
 2. La declaratoria a que se refiere el presente artículo será remitida directamente por los Secretarios del Congreso al Periódico Oficial El Estado de Jalisco” (sic) para su publicación.
 
@@ -2362,5 +2364,9 @@ DECRETO NUMERO 23485/LIX/10, POR EL QUE SE SE REFORMA EL ARTICULO 12 DEL REGLAME
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
 
 P.O. 15 DE SEPTIEMBRE DE 2011.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 8 DE OCTUBRE DE 2011.
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
