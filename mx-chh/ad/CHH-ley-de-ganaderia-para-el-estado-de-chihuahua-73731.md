@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-ganaderia-para-el-estado-de-chihuahua-73731"
 country: "mx"
 rank: "ley"
 publication_date: "2010-02-27"
-last_updated: "2010-10-02"
+last_updated: "2011-10-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=73731&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE GANADERIA PARA EL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE OCTUBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE OCTUBRE DE 2011.
 
 Ley publicada en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 27 de febrero de 2010.
 
@@ -1479,9 +1479,11 @@ II.- Transporten ganado, sus productos y subproductos, sin la documentación en 
 
 III.- Introduzcan al Estado, ganado por vías de comunicación en las cuales no existan casetas de inspección ganadera o estaciones cuarentenarias.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE OCTUBRE DE 2011)</small>
+
 ###### Artículo 213.
 
-Se impondrá multa por el equivalente de 50 a 5,000 días de salario mínimo general vigente en la capital del Estado, al momento de cometerse la infracción y deberán herrar el ganado con las siglas C.N. (Consumo Nacional), independientemente de las penas que correspondan por los delitos en que hubieren incurrido, a quienes:
+Se impondrá multa por el equivalente de cinco mil a diez mil días de salario mínimo general vigente en la capital del Estado, al momento de cometerse la infracción y deberán herrar el ganado con las siglas C.N. (Consumo Nacional), independientemente de las penas que correspondan por los delitos en que hubieren incurrido, a quienes:
 
 I.- Introduzcan ganado al Estado sin cumplir con las disposiciones sanitarias en vigor;
 
@@ -1644,3 +1646,9 @@ P.O. 2 DE OCTUBRE DE 2010.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día cinco de octubre de dos mil diez, previa su publicación en el Periódico Oficial del Estado.
+
+P.O. 8 DE OCTUBRE DE 2011.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
