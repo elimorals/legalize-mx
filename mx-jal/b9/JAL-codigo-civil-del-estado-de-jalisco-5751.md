@@ -4,7 +4,7 @@ identifier: "JAL-codigo-civil-del-estado-de-jalisco-5751"
 country: "mx"
 rank: "codigo"
 publication_date: "1995-02-25"
-last_updated: "2011-09-15"
+last_updated: "2011-10-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5751&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 CODIGO CIVIL DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE SEPTIEMBRE DE 2011.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE OCTUBRE DE 2011.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el sábado 25 de febrero de 1995.
 
@@ -537,9 +537,11 @@ Se considera de orden público e interés social la preservación y restauració
 
 ### CAPITULO V. De la mayoría de edad
 
+> <small>(REFORMADO, P.O. 8 DE OCTUBRE DE 2011)</small>
+
 ###### Art. 46.
 
-La mayor edad comienza a los dieciocho años.
+La mayoría de edad comienza a los dieciocho años.
 
 ###### Art. 47.
 
@@ -547,9 +549,11 @@ El mayor de edad dispone libremente de su persona y de sus bienes, salvo los cas
 
 ### CAPITULO VI. De la minoría de edad e incapacidad
 
+> <small>(REFORMADO, P.O. 8 DE OCTUBRE DE 2011)</small>
+
 ###### Art. 48.
 
-La menor edad comienza con el nacimiento y concluye al cumplir dieciocho años.
+La minoría de edad comienza con el nacimiento y concluye al cumplir dieciocho años.
 
 ###### Art. 49.
 
@@ -18098,5 +18102,9 @@ P.O. 30 DE JULIO DE 2011.
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
 
 P.O. 15 DE SEPTIEMBRE DE 2011.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 8 DE OCTUBRE DE 2011.
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
