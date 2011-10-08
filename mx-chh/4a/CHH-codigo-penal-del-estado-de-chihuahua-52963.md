@@ -4,7 +4,7 @@ identifier: "CHH-codigo-penal-del-estado-de-chihuahua-52963"
 country: "mx"
 rank: "codigo"
 publication_date: "2006-12-27"
-last_updated: "2011-09-03"
+last_updated: "2011-10-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52963&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CODIGO PENAL DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE SEPTIEMBRE DE 2011.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE OCTUBRE DE 2011.
 
 Código publicado en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el miércoles 27 de diciembre de 2006.
 
@@ -3475,6 +3475,10 @@ A las personas encargadas, empleadas o dependientes de una farmacia, que al surt
 
 VÍAS DE COMUNICACIÓN Y DE LOS MEDIOS DE TRANSPORTE
 
+### CAPÍTULO ÚNICO
+
+> <small>(ADICIONADO, P.O. 8 DE OCTUBRE DE 2011)</small>
+
 ###### Artículo 325.
 
 Se impondrán de uno a cuatro años de prisión y de cien a cinco mil días multa, al que:
@@ -3787,6 +3791,56 @@ b. Vegetación natural que se encuentre en áreas verdes, parques públicos o qu
 
 Para los casos en que el autor partícipe de un delito de los señalados en el presente Capítulo, sea un servidor público, procede la inhabilitación del mismo para el ejercicio de cualquier cargo público hasta por un tiempo igual al que se hubiera fijado como pena privativa de libertad, comenzando a correr el mismo a partir de que se tenga por cumplida la sentencia que se le haya impuesto.
 
+> <small>(ADICIONADO, P.O. 8 DE OCTUBRE DE 2011)</small>
+
+###### Artículo 358.
+
+Al que sin contar con la autorización de la autoridad competente, o contraviniendo los términos en que ésta se haya concedido, tale, corte, desmonte, arranque, derribe o de cualquier otra forma provoque daño en terreno forestal, ya sea maderable o no maderable, cualquiera que sea su régimen de propiedad, tenencia o posesión de la tierra, se le impondrán las siguientes penas:
+
+I. Si el recurso es forestal y la cantidad es de hasta cuatro metros cúbicos, o su equivalente en producto transformado, se aplicarán de cinco a ocho años de prisión y multa de cien a mil veces el salario mínimo.
+
+II. Si excediera de cuatro metros cúbicos, o su equivalente en producto transformado, se aplicarán de seis a doce años de prisión y multa de doscientos a dos mil veces el salario mínimo.
+
+> <small>(ADICIONADO, P.O. 8 DE OCTUBRE DE 2011)</small>
+
+###### Artículo 359.
+
+Al que sin contar con la autorización de la autoridad competente, o contraviniendo los términos en que ésta se haya concedido, acopie, almacene, transforme, trafique, comercialice o aproveche recursos forestales maderables, no maderables o sus derivados, se le aplicarán las penas siguientes:
+
+I. Si el recurso es forestal y la cantidad es hasta cuatro metros cúbicos, o su equivalente en producto transformado, se aplicarán de dos a cinco años de prisión y multa de cien a mil veces el salario mínimo.
+
+II. Si excediera de cuatro metros cúbicos, o su equivalente en producto transformado, se aplicarán de cuatro a nueve años de prisión y multa de doscientos a dos mil veces el salario mínimo.
+
+> <small>(ADICIONADO, P.O. 8 DE OCTUBRE DE 2011)</small>
+
+###### Artículo 360.
+
+Las penas a que se hace referencia en los artículos 358 y 359 de este Código, se incrementarán hasta en tres años más de prisión y multa de hasta mil días de salario mínimo, cuando los recursos forestales maderables o no maderables provengan de un área natural protegida o una reserva ecológica.
+
+> <small>(ADICIONADO CON EL CAPITULO Y LOS ARTICULOS QUE LO INTEGRAN, P.O. 8 DE OCTUBRE DE 2011)</small>
+
+## TÍTULO VIGÉSIMO SÉPTIMO. DELITOS CONTRA EL DESARROLLO ZOOSANITARIO
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 8 DE OCTUBRE DE 2011)</small>
+
+###### Artículo 361.
+
+A quien introduzca ganado bovino al Estado o lo movilice sin cumplir con las normas oficiales, se le impondrán de tres años seis meses a seis años de prisión y de mil a diez mil días multa.
+
+Si la introducción se realiza con la intención de comercializarlo para exportación, se le impondrán de cinco años seis meses a siete años de prisión y de cinco mil a diez mil días multa.
+
+> <small>(ADICIONADO, P.O. 8 DE OCTUBRE DE 2011)</small>
+
+###### Artículo 362.
+
+A quien haga aparecer ganado bovino como nacido en la Entidad, sin serlo, se le impondrán de cinco a siete años de prisión y de tres mil a diez mil días multa.
+
+> <small>(ADICIONADO, P.O. 8 DE OCTUBRE DE 2011)</small>
+
+###### Artículo 363.
+
+Si en la comisión de cualesquiera de las conductas previstas en los artículos 361 y 362 se afecta el estatus zoosanitario del Estado, las sanciones se incrementarán hasta en un tercio de la pena a imponer.
+
 ## TRANSITORIOS
 
 ###### ARTÍCULO PRIMERO.
@@ -4052,3 +4106,19 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
+
+P.O. 8 DE OCTUBRE DE 2011.
+
+DECRETO N°. 318/2011 II P.O. POR LO QUE SE ADICIONAN AL TITULO VIGESIMO SEXTO DEL CODIGO PENAL DEL ESTADO DE CHIHUAHUA, EN SU CAPITULO UNICO, LOS ARTICULOS 358, 359 Y 360.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 8 DE OCTUBRE DE 2011.
+
+DECRETO N°. 464/2011 I P.O. POR LO QUE SE ADICIONA EL TITULO VIGESIMO SEPTIMO CON UN CAPITULO UNICO, Y LOS ARTICULOS 361, 362 Y 363, AL CODIGO PENAL DEL ESTADO DE CHIHUAHUA.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
