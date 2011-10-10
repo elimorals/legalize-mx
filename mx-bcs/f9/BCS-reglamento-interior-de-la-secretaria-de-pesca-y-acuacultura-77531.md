@@ -4,7 +4,7 @@ identifier: "BCS-reglamento-interior-de-la-secretaria-de-pesca-y-acuacultura-775
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-10-20"
-last_updated: "2010-10-20"
+last_updated: "2011-10-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77531&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "BCS"
 
 REGLAMENTO INTERIOR DE LA SECRETARIA DE PESCA Y ACUACULTURA DEL ESTADO DE BAJA CALIFORNIA SUR
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO CUARTO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARIA DE PESCA Y ACUACULTURA DEL ESTADO DE BAJA CALIFORNIA SUR, PUBLICADO EN EL B.O. 10 DE OCTUBRE DE 2011, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: ABROGADO.
 
 Reglamento publicado en el Boletín Oficial del Estado de Baja California Sur, el miércoles 20 de octubre de 2010.
 
@@ -590,3 +592,15 @@ C. LIC. ALFREDO PORRAS DOMINGUEZ
 EL SECRETARIO DE PESCA Y ACUACULTURA
 
 C. ING. JOEL ÁVILA AGUILAR
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA AL PRESENTE REGLAMENTO.</small>
+
+B.O. 10 DE OCTUBRE DE 2011.
+
+PRIMERO.- El presente Reglamento una vez publicado en el Boletín Oficial del Gobierno del Estado de Baja California Sur, entrará en vigor al día siguiente de su publicación.
+
+SEGUNDO.- Con la entrada en vigor del presente Reglamento y su estructura, la Secretaría de Finanzas y Oficialía Mayor de Gobierno, realizarán los ajustes y traspasos presupuestales correspondientes; así como los trámites respecto a los recursos humanos y materiales.
+
+TERCERO.- Los Manuales de Organización, Procedimientos y Reglas de Operación del FONMAR, se deberán expedir en un plazo no mayor de 90 días, contados a partir de la entrada en vigor del presente Reglamento, en tanto el Secretario de Pesca y Acuacultura queda facultado para resolver las cuestiones que conforme a dichos instrumentos se deban regular.
+
+CUARTO.- Se abroga el Reglamento anterior de la Secretaría de Pesca y Acuacultura publicado en el Boletín Oficial Número 48 del 20 de Octubre del 2010.
