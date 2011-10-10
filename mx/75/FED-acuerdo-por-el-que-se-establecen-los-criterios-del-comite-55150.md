@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-por-el-que-se-establecen-los-criterios-del-comite-55150
 country: "mx"
 rank: "acuerdo"
 publication_date: "2007-04-30"
-last_updated: "2007-04-30"
+last_updated: "2011-10-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55150&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "2007-04-20"
 
 ACUERDO POR EL QUE SE ESTABLECEN LOS CRITERIOS DEL COMITE DE TRANSPARENCIA Y ACCESO A LA INFORMACION SOBRE LA CLASIFICACION DE LA INFORMACION DE LA AUDITORIA SUPERIOR DE LA FEDERACION
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL ACUERDO POR EL QUE SE ESTABLECEN LOS CRITERIOS DEL COMITE DE TRANSPARENCIA Y ACCESO A LA INFORMACION SOBRE LA CLASIFICACION Y DESCLASIFICACION DE LA INFORMACION DE LA AUDITORIA SUPERIOR DE LA FEDERACION, PUBLICADO EN EL D.O.F. DE 10 DE OCTUBRE DE 2011, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: ABROGADO.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el lunes 30 de abril de 2007.
 
@@ -330,3 +332,15 @@ TERCERO. Los servidores públicos de la ASF y los profesionales de auditoría in
 CUARTO. La información que a la fecha de publicación del presente Acuerdo no se hubiese clasificado, iniciará su reserva a partir de la fecha en que la unidad administrativa la clasifique.
 
 México, D.F., a 20 de abril de 2007.- El Presidente del Comité de Transparencia y Acceso a la Información, José Miguel Macías Fernández.- Rúbrica.- El Titular de la Unidad de Enlace, Raúl Esquerra Castañeda.- Rúbrica.- El Secretario Ejecutivo, Sergio Gallardo Franco.- Rúbrica.- Los Vocales: Juan Manuel Portal Martínez, Roberto Salcedo Aquino, Julián A. Olivas Ugalde, Benjamín Fuentes Castro y César Marttelo Díaz.- Rúbricas.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 10 DE OCTUBRE DE 2011.
+
+PRIMERO. El Acuerdo por el que se establecen los Criterios del Comité de Transparencia y Acceso a la Información sobre la Clasificación y Desclasificación de la Información de la Auditoría Superior de la Federación, entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Se abroga el Acuerdo por el que se establecen los Criterios del Comité de Transparencia y Acceso a la Información sobre la Clasificación de la Información de la Auditoría Superior de la Federación, publicado el 30 de abril de 2007.
+
+La información relacionada con Cuentas Públicas anteriores a la emisión de los presentes criterios y que se refiere a acciones de naturaleza jurídica pendientes de resolución, solventación o conclusión se regirá por estos criterios.
+
+TERCERO. Se reitera el carácter público de los Informes sobre el Resultado de la Revisión de las Cuentas Públicas 2000 y anteriores; así como de los Informes del Resultado de la Revisión y Fiscalización Superior de las Cuentas Públicas 2001, 2002, 2003, 2004, 2005, 2006 y 2007; y de los Informes del Resultado de la Fiscalización Superior de las Cuentas Públicas 2008 y 2009, de conformidad con lo establecido en las disposiciones vigentes en los ejercicios correspondientes.
