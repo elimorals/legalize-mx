@@ -4,7 +4,7 @@ identifier: "BCS-constitucion-politica-del-estado-libre-y-soberano-de-baja-2884"
 country: "mx"
 rank: "constitucion"
 publication_date: "1975-01-15"
-last_updated: "2011-03-20"
+last_updated: "2011-10-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2884&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,9 @@ state: "BCS"
 ---
 # CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR
 
-CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR
+CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 31 DE DICIEMBRE DE 2010.
-
-> <small>N. DE E. LA FE DE ERRATAS PUBLICADA EN EL B.O. EL 20 DE MARZO DE 2011 NO APLICA AL ARTICULADO DEL DECRETO 1883 PUBLICADO EN EL B.O. DE 20 DE DICIEMBRE DE 2010.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 10 DE OCTUBRE DE 2011.
 
 Constitución publicada en el Boletín Oficial Extraordinario del Estado de Baja California Sur, el 15 de enero de 1975.
 
@@ -85,7 +83,11 @@ CONSTITUCION POLITICA DEL ESTADO DE BAJA CALIFORNIA SUR
 
 Igual protección asume respecto de los derechos fundamentales que, en ejercicio de su soberanía, consagra en este Cuerpo Constitucional.
 
-8o.- Los habitantes del Estado, tienen todos los derechos y libertades consagrados en esta Constitución, sin distinción alguna de su origen, raza, color, sexo, idioma, religión y opinión política, condición o actividad social.
+> <small>(REFORMADO, B.O. 10 DE OCTUBRE DE 2011)</small>
+
+8o.- Los habitantes del Estado tienen todos los derechos y libertades consagrados en esta Constitución, la Constitución Política de los Estados Unidos Mexicanos y los tratados internacionales de los que nuestro País es parte, sin distinción alguna.
+
+Queda prohibida toda discriminación motivada por origen étnico o nacional, el género, la edad, discapacidad, la condición social, las condiciones de salud, la religión, las opiniones, las preferencias, el estado civil o cualquier otra que atente contra la dignidad humana o tenga por objeto anular o menoscabar los derechos o libertad de las personas.
 
 9o.- Todo hombre y mujer serán sujetos de iguales derechos y obligaciones ante la ley.
 
@@ -265,7 +267,7 @@ Natividad, San Roque, Asunción, Magdalena, Margarita y Creciente, situadas en e
 
 ## TITULO QUINTO. DE LA SOBERANIA Y DE LA FORMA DE GOBIERNO
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 27 DE OCTUBRE DE 2003)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 27 DE OCTUBRE DE 2003)</small>
 
 36.- La Soberanía del Estado reside esencial y originariamente en el pueblo sudcaliforniano, quien la ejerce por medio de los poderes constituidos en los términos de esta Ley fundamental. La renovación de los Poderes Legislativo y Ejecutivo, así como de los Ayuntamientos, se realizará mediante elecciones libres, auténticas y periódicas, conforme a las siguientes bases:
 
@@ -333,7 +335,7 @@ La Comisión de Fiscalización del Financiamiento de los Partidos Políticos, es
 
 La ley establecerá el procedimiento para la liquidación de las obligaciones de los partidos políticos que pierdan su registro y los supuestos en los que sus bienes y remanentes serán adjudicados al Estado.
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 10 DE JUNIO DE 2000)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 10 DE JUNIO DE 2000)</small>
 
 IV.- La organización de los procesos electorales es una función que corresponde realizar al poder público a través de un organismo público autónomo en su funcionamiento e independiente en sus decisiones, dotado de personalidad jurídica y patrimonio propios, que se denominará Instituto Estatal Electoral y en cuya integración concurren el Poder Legislativo del Estado, los partidos políticos y los ciudadanos en los términos que disponga la Ley. En el ejercicio de las funciones del organismo electoral, serán principios rectores la certeza, legalidad, independencia, imparcialidad y objetividad.
 
@@ -357,7 +359,7 @@ El Consejo General del Instituto Estatal Electoral podrá invitar, durante del (
 
 El Consejo General del Instituto Estatal Electoral podrá convenir con el Instituto Federal Electoral se haga cargo de la organización de los procesos electorales locales.
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 27 DE OCTUBRE DE 2003)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 27 DE OCTUBRE DE 2003)</small>
 
 V.- Para garantizar los principios de constitucionalidad y legalidad de los actos y resoluciones electorales, se establecerá un sistema de medios de impugnación en los términos que señalen esta Constitución y la Ley correspondiente. Dicho sistema dará definitividad a las distintas etapas de los procesos electorales y garantizará la protección de los derechos políticos de los ciudadanos de votar, ser votado y de asociación.
 
@@ -387,9 +389,9 @@ No podrán reunirse dos o más de estos poderes en una sola persona o corporaci�
 
 #### SECCION II. DE LA ELECCION E INSTALACION DEL CONGRESO
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA ESTA CONSTITUCION.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA ESTA CONSTITUCIÓN.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 10 DE MARZO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 10 DE MARZO DE 2008)</small>
 
 41.- El Congreso del Estado de Baja California Sur se integrará con dieciséis Diputados de Mayoría Relativa, electos en su totalidad el primer domingo de julio de cada tres años, por votación directa y secreta mediante el sistema de Distritos Electorales Uninominales y hasta con cinco Diputados electos mediante el principio de Representación Proporcional, apegándose en ambos casos, a las siguientes reglas:
 
@@ -397,7 +399,7 @@ No podrán reunirse dos o más de estos poderes en una sola persona o corporaci�
 
 I.- La base para realizar la demarcación territorial de los dieciséis Distritos Electorales, será la resultante de dividir la población total del Estado, conforme al último Censo General de Población, entre el número de Distritos señalados, teniendo también en cuenta para su distribución el factor geográfico y socioeconómico.
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 27 DE OCTUBRE DE 2003)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 27 DE OCTUBRE DE 2003)</small>
 
 II.- La asignación de Diputados por el principio de Representación Proporcional, se hará de acuerdo con el procedimiento que se establezca en la ley, y se sujetara a las siguientes bases:
 
@@ -413,7 +415,7 @@ b).- Los partidos políticos tendrán derecho a que se les asignen diputados por
 
 c).- Para que un partido político tenga derecho a que le sean acreditados, de entre sus candidatos, diputados de representación proporcional, deberá alcanzar por lo menos el dos por ciento del total de la votación emitida para diputados de Mayoría Relativa, y siempre que no hayan logrado mas de cinco diputaciones de mayoría relativa, en los términos que establezca la ley.
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 27 DE OCTUBRE DE 2003)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 27 DE OCTUBRE DE 2003)</small>
 
 III.- El Consejo General del Instituto Estatal Electoral asignará las diputaciones por el principio de Representación Proporcional a los partidos políticos o coaliciones con derecho a ello, en los términos siguientes:
 
@@ -429,7 +431,7 @@ b).- Sí después de hechas las asignaciones que se señalan en el inciso anteri
 
 c).- No podrán asignarse más de cuatro diputaciones por el principio de representación proporcional a los partidos políticos o coaliciones, que no hayan obtenido diputación de mayoría relativa.
 
-> <small>(DEROGADO ULTIMO PARRAFO, B.O. 27 DE OCTUBRE DE 2003)</small>
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, B.O. 27 DE OCTUBRE DE 2003)</small>
 
 > <small>(REFORMADO, B.O. 10 DE JULIO DE 1978)</small>
 
@@ -443,9 +445,9 @@ c).- No podrán asignarse más de cuatro diputaciones por el principio de repres
 
 El cómputo de las elecciones de Diputados por el principio de representación proporcional, así como la asignación de éstos, será efectuada por el Instituto Estatal Electoral.
 
-> <small>(DEROGADO TERCER PARRAFO, B.O. 18 DE JUNIO DE 1998)</small>
+> <small>(DEROGADO TERCER PÁRRAFO, B.O. 18 DE JUNIO DE 1998)</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 14 DE JUNIO DE 1999)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 14 DE JUNIO DE 1999)</small>
 
 44.- Para ser Diputado al Congreso del Estado se requiere:
 
@@ -459,7 +461,7 @@ II.- Tener 18 años cumplidos al día de la elección.
 
 III.- Tener residencia efectiva no menor de un año anterior al día de la elección, en el Distrito o en la circunscripción del Estado.
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 20 DE MAYO DE 1987)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 20 DE MAYO DE 1987)</small>
 
 45.- No podrá ser Diputado:
 
@@ -497,9 +499,9 @@ IV.- Al reanudarse el período de sesiones ordinarias, presentarán al Congreso 
 
 #### SECCION III. DE LAS SESIONES
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA ESTA CONSTITUCION.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA ESTA CONSTITUCIÓN.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 10 DE MARZO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 10 DE MARZO DE 2008)</small>
 
 50.- El Congreso del Estado tendrá, durante el año, dos Períodos Ordinarios de Sesiones; el primero, del primero de septiembre al 15 de diciembre, el cual podrá prolongarse hasta el 30 de diciembre del mismo año; y el segundo, del 15 de marzo al 30 de junio del año siguiente.
 
@@ -573,6 +575,8 @@ V.- Si las observaciones con veto total son aprobadas al menos por las dos terce
 
 61.- El Gobernador no podrá hace (sic) observaciones sobre los acuerdos económicos, las resoluciones que dicte el Congreso del Estado erigido en jurado de sentencia, o Colegio Electoral, las referentes a la responsabilidad de los servidores públicos, ni al Decreto de convocatoria a periodo extraordinario de sesiones, expedido por la Diputación Permanente, ni a la Ley Reglamentaria del Poder Legislativo.
 
+62.- Las iniciativas de ley o decreto que fueren desechadas por el Congreso del Estado, no podrán volver a ser presentadas en el mismo período de sesiones.
+
 > <small>(REFORMADO PRIMER PÁRRAFO, B.O. 10 DE MAYO DE 2003)</small>
 
 63.- Toda resolución del Congreso del Estado tendrá carácter de Ley, Decreto o Acuerdo Económico, las que a excepción de esta última se remitirán al Gobernador del Estado para su promulgación y publicación, por conducto del Presidente y el Secretario de la Mesa Directiva en funciones, con la formalidad siguiente:
@@ -588,8 +592,6 @@ Las Leyes expedidas por el Congreso del Estado, excepto las de carácter tributa
 > <small>(ADICIONADO, B.O. 10 DE JUNIO DE 2000)</small>
 
 La ley establecerá el procedimiento a que se sujetará la organización de referéndum.
-
-62.- Las iniciativas de ley o decreto que fueren desechadas por el Congreso del Estado, no podrán volver a ser presentadas en el mismo período de sesiones.
 
 > <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2001)</small>
 
@@ -651,7 +653,7 @@ XIX.- Declarar si ha lugar o no al proceso a que se refiere el Artículo 159 de 
 
 XX.- Elegir la Diputación Permanente;
 
-(NOTA: EL 21 DE JUNIO DE 2012, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 11/2011, DECLARÓ LA INVALIDEZ DE LAS PORCIONES NORMATIVAS DEL PÁRRAFO PRIMERO DE LA FRACCIÓN XXI DE ESTE ARTÍCULO INDICADAS CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 26 DE JUNIO DE 2012 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA (http://www2.scjn.gob.mx/expedientes/).
+(NOTA: EL 21 DE JUNIO DE 2012, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 11/2011, DECLARÓ LA INVALIDEZ DE LAS PORCIONES NORMATIVAS DEL PÁRRAFO PRIMERO DE LA FRACCIÓN XXI DE ESTE ARTÍCULO INDICADAS CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 26 DE JUNIO DE 2012 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
 
 > <small>(REFORMADO PRIMER PÁRRAFO, B.O. 20 DE DICIEMBRE DE 2010)</small>
 
@@ -699,11 +701,11 @@ XXVIII.- Informarse de las concesiones y contratos de obras otorgados por el Gob
 
 XXIX.- Nombrar y remover libremente a los empleados del Poder Legislativo y a los del Órgano de Fiscalización Superior.
 
-> <small>(REFORMADA, B.O. 12 DE MARZO DE 2010)</small>
+> <small>(REFORMADA, B.O. 10 DE OCTUBRE DE 2011)</small>
 
-XXX.- Examinar y aprobar, en su caso, la cuenta pública del año anterior, que deberá ser presentada dentro de los dos primeros meses, con el objeto de evaluar los resultados de la gestión financiera, comprobar si se ha ajustado a los criterios señalados en los presupuestos y verificar el cumplimiento de los objetivos contenidos en los programas del gobierno del estado, de los entes públicos estatales, de los gobiernos municipales, de los entes públicos municipales, de los entes públicos autónomos, del destino del gasto público que reciban, administren o ejerzan bajo cualquier concepto todas las personas físicas y morales de derecho privado.
+XXX.- Examinar y aprobar, en su caso, la cuenta pública del año anterior, que será presentada dentro de los primeros quince días posteriores a la apertura del primer periodo ordinario de sesiones, con el objeto de evaluar los resultados de la gestión financiera, comprobar si han respetado los criterios señalados en los presupuestos y verificar el cumplimiento de los objetivos contenidos en los programas del gobierno del estado, entes públicos estatales, de los gobiernos municipales, de los entes públicos municipales, de los entes públicos autónomos, del destino del gasto público que reciban, administren o ejerzan bajo cualquier concepto todas las personas físicas y morales de derecho privado.
 
-La revisión y fiscalización de la cuenta pública será realizada a través del Órgano de Fiscalización Superior, bajo los principios de posterioridad, anualidad, legalidad, imparcialidad y confiabilidad, el cual tendrá autonomía técnica y de gestión para el ejercicio de sus atribuciones y para decidir sobre su organización interna, recursos, funcionamiento y resoluciones.
+La revisión y fiscalización de la cuenta pública será realizada a través del Órgano de Fiscalización Superior, bajo los principios de posterioridad, anualidad, legalidad, imparcialidad y confiabilidad, el cual tendrá autonomía técnica y de gestión para el ejercicio de sus atribuciones y para decidir sobre so (sic) organización interna, recursos, funcionamiento y resoluciones.
 
 > <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2004)</small>
 
@@ -723,7 +725,7 @@ XXXIII.- Aprobar y decretar las Leyes de Hacienda y de Ingresos Municipales, tom
 
 Cuando por cualquier circunstancia no llegare a aprobarse la Ley de Ingresos de alguno o algunos de los Municipios del Estado, se aplicaran respectivamente las que se hayan aprobado y publicado con la fecha mas reciente en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
 
-> <small>(DEROGADO TERCER PARRAFO, B.O. 25 DE NOVIEMBRE DE 2006)</small>
+> <small>(DEROGADO TERCER PÁRRAFO, B.O. 25 DE NOVIEMBRE DE 2006)</small>
 
 XXXIV.- Decretar la Ley Orgánica Municipal;
 
@@ -781,7 +783,7 @@ XLIX.- Expedir las Leyes que sean necesarias para hacer efectivas las facultades
 
 65.- El día de clausura del período de sesiones ordinarias, el Congreso del Estado elegirá por escrutinio secreto y mayoría de votos, una Diputación Permanente compuesta de tres miembros que durarán en su cargo el tiempo intermedio entre los períodos de sesiones ordinarias. El primero de los nombrados será el Presidente, y los otros dos, Secretarios.
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 16 DE DICIEMBRE DE 1983)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 16 DE DICIEMBRE DE 1983)</small>
 
 66.- Son facultades de la Diputación Permanente:
 
@@ -837,7 +839,7 @@ VI.- No ser Secretario del Despacho del Poder Ejecutivo, Procurador General de J
 
 VII.- No estar comprendido en alguna de las prohibiciones establecidas por el artículo 78 de esta Constitución.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO SEXTO DEL DECRETO QUE MODIFICA ESTA CONSTITUCION.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEXTO DEL DECRETO QUE MODIFICA ESTA CONSTITUCIÓN.</small>
 
 > <small>(REFORMADO, B.O. 10 DE MARZO DE 2008)</small>
 
@@ -877,7 +879,7 @@ Tampoco podrá ocupar el cargo, para el período inmediato, el Gobernador Interi
 
 #### SECCION II. DE LAS FACULTADES Y OBLIGACIONES DEL GOBERNADOR
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 6 DE FEBRERO DE 2002)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 6 DE FEBRERO DE 2002)</small>
 
 79.- Son facultades y obligaciones del Gobernador:
 
@@ -1039,7 +1041,7 @@ XLVIII.- Las demás que señalen esta Constitución y sus leyes.
 
 Tratándose de Decretos de publicación de la (sic) Leyes o Decretos expedidos por el Congreso del Estado, solo se requerirá el refrendo del Secretario General.
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 10 DE DICIEMBRE DE 1993)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 10 DE DICIEMBRE DE 1993)</small>
 
 82.- Para ser Secretario del Despacho se requiere:
 
@@ -1097,7 +1099,7 @@ VIII.- Abstenerse de hacer uso ilícito de sustancias psicotrópicas, estupefaci
 
 85.-
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 10 DE MARZO DE 2002)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 10 DE MARZO DE 2002)</small>
 
 A.- El Ministerio Público estará a cargo del Procurador General de Justicia, de Agentes del Ministerio Público y de la Policía Ministerial, en los términos de su ley orgánica.
 
@@ -1125,7 +1127,7 @@ Este organismo que establezca el Congreso de la Unión conocerá de las inconfor
 
 149.- Corresponde al Presidente, Síndico y Regidores el ejercicio del Gobierno Municipal y a la representación de los intereses de la comunidad. Y en los casos que señala el Artículo 144 de esta Constitución, a los Concejos Municipales.
 
-> <small>(REFORMADA SU DENOMINACION, B.O. 31 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, B.O. 31 DE DICIEMBRE DE 2001)</small>
 
 ### CAPITULO III. DEL PODER JUDICIAL
 
@@ -1255,7 +1257,7 @@ Si el Congreso resuelve la no reelección, se procederá a realizar un nuevo nom
 
 V.- La resolución del Congreso se hará del conocimiento del funcionario, mediante notificación personal, y de la sociedad en general, mediante su publicación en el Boletín oficial del Gobierno del Estado.
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 6 DE ABRIL DE 1999)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 6 DE ABRIL DE 1999)</small>
 
 94.- Los Magistrados del Tribunal Superior de Justicia deberán otorgar la protesta de Ley ante el Congreso del Estado.
 
@@ -1271,7 +1273,7 @@ Los Magistrados del Tribunal Superior de Justicia y los Jueces percibirán una r
 
 96.- El Estado se dividirá en partidos judiciales que tendrán la delimitación, cabeceras y número de juzgados que determine la ley orgánica respectiva.
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 6 DE FEBRERO DE 2002)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 6 DE FEBRERO DE 2002)</small>
 
 97.- Son facultades del Pleno del Tribunal Superior de Justicia:
 
@@ -1323,7 +1325,7 @@ XIV.- Las demás que le confiera esta Constitución y las Leyes.
 
 98.- La Ley Orgánica del Poder Judicial regulará la forma de organización y funcionamiento del Tribunal Superior de Justicia y de los Juzgados dependientes de éste y determinará los requisitos para ser Juez.
 
-> <small>(DEROGADO SEGUNDO PARRAFO, B.O. 6 DE FEBRERO DE 2002)</small>
+> <small>(DEROGADO SEGUNDO PÁRRAFO, B.O. 6 DE FEBRERO DE 2002)</small>
 
 > <small>(REFORMADO, B.O. 6 DE ABRIL DE 1999)</small>
 
@@ -1369,7 +1371,7 @@ Para el procedimiento de reelección o no de los magistrados del Tribunal Estata
 
 100.- Ningún funcionario judicial podrá tener ocupación o empleo diverso, con excepción de los docentes, cuyo desempeño no perjudique las funciones o labores propias de su cargo.
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 6 DE ABRIL DE 1999)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 6 DE ABRIL DE 1999)</small>
 
 101.- El Gobernador demandará ante el Congreso del Estado, la destitución de cualesquiera de los Magistrados del Tribunal Superior de Justicia, por delitos, faltas oficiales y omisiones en los que incurran, previstos en esta Constitución y en las Leyes de la Materia.
 
@@ -1455,7 +1457,7 @@ En el proyecto de Presupuesto de Egresos correspondiente se incluirán las parti
 
 El Municipio posee personalidad jurídica y patrimonio propio y goza de plena autonomía para normar directa y libremente las materias de su competencia, así como para establecer sus órganos de gobierno interior.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO SEXTO DEL DECRETO QUE MODIFICA ESTA CONSTITUCION.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEXTO DEL DECRETO QUE MODIFICA ESTA CONSTITUCIÓN.</small>
 
 > <small>(REFORMADO, B.O. 10 DE MARZO DE 2008)</small>
 
@@ -1467,7 +1469,7 @@ El Municipio posee personalidad jurídica y patrimonio propio y goza de plena au
 
 ### CAPITULO II. DE LA EXTENSION, LIMITES Y CABECERAS
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 20 DE AGOSTO DE 1992)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 20 DE AGOSTO DE 1992)</small>
 
 120.- El territorio del Estado de Baja California Sur, se divide en cinco municipios que son: La Paz, Comondú, Mulegé, Los Cabos y Loreto, quedando comprendidas las islas, islotes, cayos y arrecifes dentro de sus respectivas jurisdicciones; que tendrán los siguientes límites:
 
@@ -1509,7 +1511,7 @@ La extensión y límites de las delegaciones y subdelegaciones serán determinad
 
 ### CAPITULO III. DE LA CREACION, SUPRESION Y ASOCIACION DE MUNICIPIOS
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 10 DE JUNIO DE 2000)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 10 DE JUNIO DE 2000)</small>
 
 122.- Para la creación de Municipios en el Estado, se requerirá la aprobación del Congreso del Estado y la concurrencia de los siguientes elementos:
 
@@ -1547,7 +1549,7 @@ Cuando la solicitud provenga de los Ciudadanos, el procedimiento se sujetará a 
 
 125.- Los conflictos de límites que se susciten entre las diversas circunscripciones municipales del Estado se podrán resolver mediante convenios amistosos que al efecto celebren con aprobación del Congreso del Estado. Cuando dichas diferencias tengan carácter contencioso, conocerá de ellas el Tribunal Superior de Justicia.
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 31 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 31 DE DICIEMBRE DE 2001)</small>
 
 126.- Los Municipios, previo acuerdo entre sus Ayuntamientos, podrán coordinarse y asociarse para la más eficaz prestación de los servicios públicos o el mejor ejercicio de sus funciones que le corresponden, si se trata de Municipios de dos o más Estados, deberán de contar con la aprobación de las Legislaturas de los Estados, para constituir corporaciones que tengan por objeto:
 
@@ -1597,7 +1599,7 @@ III.- Los muebles normalmente insustituibles como son los expedientes de las ofi
 
 CONCEPTO E INTEGRACION
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 10 DE MAYO DE 2003)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 10 DE MAYO DE 2003)</small>
 
 133.- La Hacienda de los Municipios del Estado, se formará con los rendimientos de los bienes que les pertenezcan así como las contribuciones que establezca su Ley de Ingresos y demás disposiciones relativas, y las que adquieran por concepto de participación de impuestos federales y estatales, convenios, legados, donaciones o por cualquier otra causa. Los recursos que integran la Hacienda Municipal, serán ejercidos y administrados en forma libre y directa por los Ayuntamientos, o bien, por quienes ellos autoricen, conforme a la Ley.
 
@@ -1635,7 +1637,7 @@ Los miembros de los Ayuntamientos duraran en su cargo tres años a partir de la 
 
 137.- Los miembros del ayuntamiento se elegirán por planillas en los términos de la Ley Electoral, las que comprenderán a los candidatos por cada uno de los cargos.
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 14 DE JULIO DE 1995)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 14 DE JULIO DE 1995)</small>
 
 138.- Para ser miembro de un Ayuntamiento se requiere:
 
@@ -1687,7 +1689,7 @@ Si no se presentan transcurrido este plazo, los suplentes entrarán en ejercicio
 
 ### CAPITULO VIII. DE LAS FACULTADES Y OBLIGACIONES DEL AYUNTAMIENTO
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 31 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 31 DE DICIEMBRE DE 2004)</small>
 
 148.- Son facultades y obligaciones del Ayuntamiento:
 
@@ -1927,7 +1929,7 @@ XII (SIC).- Y las demás que determine la Ley Orgánica Municipal reglamentaria 
 
 155.- La ley orgánica determinará la organización y funcionamiento de las dependencias administrativas del ayuntamiento y los requisitos, facultades y obligaciones de sus titulares.
 
-> <small>(REFORMADA SU DENOMINACION, B.O. 20 DE JUNIO DE 2004)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, B.O. 20 DE JUNIO DE 2004)</small>
 
 ## TITULO NOVENO. DE LAS RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS Y PATRIMONIAL DEL ESTADO
 
@@ -1951,7 +1953,7 @@ Las leyes determinarán las causas y circunstancias por las que se deba sanciona
 
 Cualquier ciudadano, mediante la presentación de elementos de prueba y bajo su más estricta responsabilidad, podrá formular denuncia ante el Congreso del Estado, respecto de las conductas a las que se refiere el presente Artículo.
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 18 DE JUNIO DE 1998)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 18 DE JUNIO DE 1998)</small>
 
 158.- Podrán ser sujetos a juicio político, los Diputados al Congreso del Estado, los Magistrados del Tribunal Superior de Justicia, los Magistrados del Tribunal Estatal Electoral, los Jueces del Fuero Común, los Secretarios y Subsecretarios del Despacho, el Procurador y Subprocuradores de la Procuraduría General de Justicia, el Contralor, el Revisor Fiscal, los Coordinadores de las Unidades Administrativas y los Directores del Poder Ejecutivo, los Directores de los Organismos Descentralizados, Empresas de Participación Estatal, Sociedades y Asociaciones asimiladas, el Consejero Presidente y los Consejeros Electorales del Instituto Estatal Electoral, Presidentes de Juntas y Tribunal de Conciliación y Arbitraje, así como los Presidentes, Síndicos, Regidores y Delegados Municipales.
 
@@ -2161,11 +2163,11 @@ P.M.L. EL OFICIAL MAYOR
 
 Lic. Antonio Alvarez Rico.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE CONSTITUCION.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE CONSTITUCIÓN.</small>
 
 B.O. 26 DE AGOSTO DE 1975.
 
-DECRETO NUMERO 21.
+DECRETO NÚMERO 21.
 
 ###### ARTICULO UNICO.
 
@@ -2173,7 +2175,7 @@ Este decreto entrará en vigor al día siguiente de su publicación en el Bolet�
 
 B.O. 26 DE AGOSTO DE 1975.
 
-DECRETO NUMERO 22.
+DECRETO NÚMERO 22.
 
 ###### ARTICULO UNICO.
 
@@ -2181,7 +2183,7 @@ El presente decreto entrará en vigor al día siguiente de su publicación en el
 
 B.O. 26 DE AGOSTO DE 1975.
 
-DECRETO NUMERO 22 (SIC).
+DECRETO NÚMERO 22 (SIC).
 
 ###### ARTICULO UNICO.
 
@@ -2189,13 +2191,13 @@ El presente decreto entrará en vigor al día siguiente de su publicación en el
 
 B.O. 21 DE DICIEMBRE DE 1976.
 
-DECRETO NUMERO 55.
+DECRETO NÚMERO 55.
 
 Artículo Unico. El presente decreto entrará en vigor a partir del día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
 
 B.O. 21 DE DICIEMBRE DE 1976.
 
-DECRETO NUMERO 58.
+DECRETO NÚMERO 58.
 
 Artículo Unico. Este decreto entrará en vigor a partir del día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
 
@@ -2211,7 +2213,7 @@ El presente Decreto entrará en vigor el siguiente día al de su publicación en
 
 B.O. 10 DE JULIO DE 1978.
 
-DECRETO NUMERO 111.
+DECRETO NÚMERO 111.
 
 ###### ARTICULO UNICO.
 
@@ -2219,7 +2221,7 @@ Las presentes reformas y adiciones entrarán en vigor al siguiente día de su pu
 
 B.O. 10 DE JULIO DE 1978.
 
-DECRETO NUMERO 112.
+DECRETO NÚMERO 112.
 
 ###### ARTICULO UNICO.
 
@@ -2289,7 +2291,7 @@ EL PRESENTE DECRETO ENTRARÁ EN VIGOR EL DÍA SIGUIENTE AL DE SU PUBLICACIÓN EN
 
 B.O. 10 DE SEPTIEMBRE DE 1984.
 
-DECRETO NUMERO 466.
+DECRETO NÚMERO 466.
 
 ###### ARTICULO UNICO.
 
@@ -2297,7 +2299,7 @@ EL PRESENTE DECRETO ENTRARÁ EN VIGOR EL DÍA SIGUIENTE AL DE SU PUBLICACIÓN EN
 
 B.O. 10 DE SEPTIEMBRE DE 1984.
 
-DECRETO NUMERO 467.
+DECRETO NÚMERO 467.
 
 ###### ARTICULO UNICO.
 
@@ -2353,7 +2355,7 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 
 B.O. 20 DE FEBRERO DE 1988.
 
-DECRETO NUMERO 660.
+DECRETO NÚMERO 660.
 
 ###### ARTICULO UNICO.
 
@@ -2361,7 +2363,7 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 
 B.O. 20 DE FEBRERO DE 1988.
 
-DECRETO NUMERO 662.
+DECRETO NÚMERO 662.
 
 ###### ARTICULO UNICO.
 
@@ -2415,7 +2417,7 @@ TERCERO.- EN TODAS AQUELLAS LEYES, REGLAMENTOS Y DEMAS ORDENAMIENTOS EN LOS QUE 
 
 B.O. 11 DE JUNIO DE 1992.
 
-DECRETO NUMERO 862.
+DECRETO NÚMERO 862.
 
 ###### ARTICULO UNICO
 
@@ -2423,7 +2425,7 @@ DECRETO NUMERO 862.
 
 B.O. 11 DE JUNIO DE 1992.
 
-DECRETO NUMERO 863.
+DECRETO NÚMERO 863.
 
 UNICO.- El presente decreto entrará en vigor a partir del día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
 
@@ -2619,7 +2621,7 @@ UNICO.- El presente Decreto entrará en vigor, al día siguiente de su publicaci
 
 B.O. 10 DE JULIO DE 2002.
 
-DECRETO NUMERO 1366.
+DECRETO NÚMERO 1366.
 
 ###### ARTICULO UNICO.
 
@@ -2627,7 +2629,7 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 
 B.O. 10 DE JULIO DE 2002.
 
-DECRETO NUMERO 1367.
+DECRETO NÚMERO 1367.
 
 ###### ARTÍCULO UNICO.
 
@@ -2685,13 +2687,13 @@ B.O. 11 DE JULIO DE 2006.
 
 B.O. 25 DE NOVIEMBRE DE 2006.
 
-DECRETO NUMERO 1634
+DECRETO NÚMERO 1634
 
 ÚNICO.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
 
 B.O. 25 DE NOVIEMBRE DE 2006.
 
-DECRETO NUMERO 1643
+DECRETO NÚMERO 1643
 
 ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
 
@@ -2701,7 +2703,7 @@ B.O. 10 DE JUNIO DE 2007.
 
 B.O. 10 DE MARZO DE 2008.
 
-DECRETO NUMERO 1732
+DECRETO NÚMERO 1732
 
 PRIMERO.- Publíquese el presente Decreto en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
 
@@ -2713,7 +2715,7 @@ SEGUNDO.- Para efectos de dar cumplimiento a la reforma Constitucional Federal a
 
 TERCERO.- Para efectos de dar cumplimiento a la reforma Constitucional Federal aprobada por el H. Congreso de la Unión y publicada en el Diario Oficial de la Federación el día trece de noviembre de dos mil siete, los integrantes de la Legislatura Local electos el primer domingo de febrero del año dos mil once, durarán en su encargo del día quince de marzo del mismo año al primero de septiembre del año dos mil quince.
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 24 DE ABRIL DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 24 DE ABRIL DE 2009)</small>
 
 CUARTO.- Para efectos de dar cumplimiento a la reforma Constitucional Federal aprobada por el H. Congreso de la Unión y publicada en el Diario Oficial de la Federación el día trece de noviembre de dos mil siete, los integrantes de los Ayuntamientos electos el primer domingo de febrero del año dos mil once, ejercerán su función en los siguientes periodos:
 
@@ -2735,7 +2737,7 @@ SÉPTIMO.- Las reformas a las disposiciones legales del Estado de Baja Californi
 
 B.O. 10 DE MARZO DE 2008.
 
-DECRETO NUMERO 1733
+DECRETO NÚMERO 1733
 
 PRIMERO.- El presente Decreto entrará en vigor el día de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
 
@@ -2765,7 +2767,7 @@ B.O. 18 DE JUNIO DE 2009.
 
 B.O. 12 DE MARZO DE 2010.
 
-DECRETO NUMERO 1837
+DECRETO NÚMERO 1837
 
 ###### ARTÍCULO PRIMERO.
 
@@ -2777,9 +2779,9 @@ Los preceptos aplicables a la presentación de la Cuenta Pública, entrarán en 
 
 B.O. 12 DE MARZO DE 2010.
 
-DECRETO NUMERO 1839
+DECRETO NÚMERO 1839
 
-A CONTINUACION SE TRANSCRIBE EL ARTICULO TRANSITORIO QUE SE RELACIONA CON EL PRESENTE ORDENAMIENTO.
+A CONTINUACIÓN SE TRANSCRIBE EL ARTÍCULO TRANSITORIO QUE SE RELACIONA CON EL PRESENTE ORDENAMIENTO.
 
 PRIMERO.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur, con las salvedades a que se refieren las siguientes disposiciones transitorias.
 
@@ -2798,3 +2800,17 @@ SEGUNDO.- Para los efectos del articulo 93 BIS fracción I de contenido en el pr
 B.O. 31 DE DICIEMBRE DE 2010.
 
 UNICO. El presente decreto entrara en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+B.O. 10 DE OCTUBRE DE 2011.
+
+DECRETO NÚMERO 1930
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+B.O. 10 DE OCTUBRE DE 2011.
+
+DECRETO NÚMERO 1932
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Estado de Baja California Sur.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente decreto.
