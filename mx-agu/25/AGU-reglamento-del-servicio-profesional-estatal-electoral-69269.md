@@ -4,7 +4,7 @@ identifier: "AGU-reglamento-del-servicio-profesional-estatal-electoral-69269"
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-07-13"
-last_updated: "2009-07-13"
+last_updated: "2011-10-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69269&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "AGU"
 
 REGLAMENTO DEL SERVICIO PROFESIONAL ESTATAL ELECTORAL
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO PRIMERO TRANSITORIO DEL REGLAMENTO DEL SERVICIO PROFESIONAL ESTATAL ELECTORAL, PUBLICADO EN LA PRIMERA SECCION DEL P.O. DE 10 DE OCTUBRE DE 2011, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
 
 Reglamento publicado en la Segunda Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 13 de julio de 2009.
 
@@ -1236,3 +1238,13 @@ Artículo Primero: Se abroga el Reglamento del Servicio Profesional Estatal Elec
 Artículo Segundo: El presente Reglamento entrará en vigor al momento de su aprobación.
 
 Artículo Tercero. El presente Reglamento será publicado en los estrados del Instituto Estatal Electoral y en el Periódico Oficial del Estado de Aguascalientes a efecto de otorgarle publicidad.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P. O. 10 DE OCTUBRE DE 2011.
+
+PRIMERO. Se abroga el Reglamento del Servicio Profesional del Instituto Estatal Electoral, publicado en fecha trece de julio de dos mil nueve en el Periódico Oficial del Estado de Aguascalientes.
+
+SEGUNDO. El presente Reglamento entrará en vigor al momento de su aprobación.
+
+TERCERO. Los nombramientos de Personal de Carrera expedidos con anterioridad a la entrada en vigor de este Reglamento tendrán plena vigencia.
