@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-aguas-del-estado-de-baja-california-sur-21957"
 country: "mx"
 rank: "ley"
 publication_date: "2001-07-31"
-last_updated: "2008-03-11"
+last_updated: "2011-10-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21957&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY DE AGUAS DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 11 DE MARZO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 10 DE OCTUBRE DE 2011.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el martes 31 de julio de 2001.
 
@@ -68,6 +68,10 @@ VIII. La participación de los sectores social y privado en la prestación de lo
 IX. Las relaciones entre las autoridades, los prestadores de los servicios públicos de agua potable, alcantarillado y saneamiento, los contratistas y los usuarios de dichos servicios; y
 
 X. La recuperación de los gastos y costos de inversión, operación, conservación, derechos de conexión y mantenimiento de los sistemas de agua potable, sistemas de desalación de agua, alcantarillado y saneamiento.
+
+> <small>(ADICIONADA, B.O. 10 DE OCTUBRE DE 2011)</small>
+
+XI. El fomento de la cultura del cuidado del agua.
 
 ###### Artículo 3.
 
@@ -197,7 +201,9 @@ V. Ejecutar obras de infraestructura hidráulica, en los términos de los conven
 
 VI. Representar al Estado en los Comités Hidráulicos de los Distritos de Riego;
 
-VII. Promover y fomentar el uso eficiente y preservación del agua, y la promoción de una cultura del agua como recurso escaso y vital; Desarrollando programas de orientación a los usuarios, con el objeto de preservar la calidad del agua y propiciar su aprovechamiento racional;
+> <small>(REFORMADA, B.O. 10 DE OCTUBRE DE 2011)</small>
+
+VII. Promover y fomentar una cultura del cuidado del agua, mediante su uso eficiente y preservación del agua como recurso escaso y vital; diseñando el programa estatal de fomento del cuidado del agua, en los términos del título Cuarto de esta Ley.
 
 VIII. Asistir técnicamente y proporcionar asesoría para el aprovechamiento racional del agua a las unidades y distritos de riego y de temporal tecnificado y, a otros usuarios cuyo propósito sea la irrigación de terrenos específicos;
 
@@ -1337,7 +1343,7 @@ La Junta de Gobierno de la Comisión vigilará la correcta aplicación de las f�
 
 ###### Artículo 114.
 
-Las cuotas y tarifas se actualizarán automáticamente cada vez que el Índice Nacional de Precios al Consumidor se incremente en un cinco por ciento respecto del que estaba vigente la última vez que se establecieron.
+Las cuotas y tarifas se actualizarán automáticamente cada vez que el índice Nacional de Precios al Consumidor se incremente en un cinco por ciento respecto del que estaba vigente la última vez que se establecieron.
 
 ###### Artículo 115.
 
@@ -1745,6 +1751,44 @@ Dentro de los diez días hábiles siguientes al desahogo de las pruebas, si las 
 
 En lo relativo a la interpretación, substanciación y decisión de los recursos que contemple esta Ley, se aplicarán supletoriamente las disposiciones vigentes en los Códigos Civil y de Procedimientos Civiles del Estado de Baja California Sur.
 
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, B.O. 10 DE OCTUBRE DE 2011)</small>
+
+## Título Cuarto. Del fomento de la cultura del cuidado del agua
+
+> <small>(ADICIONADO, B.O. 10 DE OCTUBRE DE 2011)</small>
+
+###### Artículo 160.
+
+Para los gobiernos Estatal y Municipales del Estado de Baja California Sur, será prioritario crear en los ámbitos de los núcleos de población por asentarse, el fomentar y fortalecer la cultura del cuidado del agua, por lo que deberán establecer mecanismos encaminados para tales fines, involucrando a las instituciones públicas, la iniciativa privada, la población adulta, la juventud y la infancia.
+
+> <small>(ADICIONADO, B.O. 10 DE OCTUBRE DE 2011)</small>
+
+###### Artículo 161.
+
+El Programa Estatal de Fomento al Cuidado del Agua, promoverá el cumplimiento de los siguientes objetivos:
+
+I. Fomentar el uso racional del agua en todas sus formas y manifestaciones;
+
+II. Propiciar la elaboración y aplicación de normas técnicas estatales que regulen el uso racional del agua;
+
+III. Implementar, por conducto de la Secretaría de Educación Pública del Estado, dentro de los programas educativos del nivel preescolar, primaria, secundaria y bachillerato, el tema del uso racional y responsable del agua;
+
+IV. Fomentar en la iniciativa privada la capacitación de recursos humanos en materia de cuidado y uso racional del agua;
+
+V. Fomentar la participación de las entidades públicas y privadas en las acciones que permitan el concientizar a la población sobre la importancia del cuidado y uso racional del agua;
+
+VI. Promover la investigación y el desarrollo tecnológico en materia de cuidado y uso racional del agua;
+
+VII. Fomentar el uso de tecnología e infraestructura en el desarrollo de viviendas, fraccionamientos, edificaciones y demás obras en el Estado, que permitan usar de forma más eficaz y razonable el agua; y
+
+VIII. Las demás que determine la Comisión Estatal del Agua.
+
+> <small>(ADICIONADO, B.O. 10 DE OCTUBRE DE 2011)</small>
+
+###### Artículo 162.
+
+Es obligación de los Ayuntamientos del Estado de Baja California Sur, con fundamento en lo dispuesto por el artículo 51 fracción V de la Ley Orgánica del Gobierno Municipal del Estado, colaborar con la aplicación de los programas en materia de cultura del cuidado del agua.
+
 TRANSITORIOS:
 
 ###### ARTÍCULO PRIMERO.
@@ -1792,3 +1836,9 @@ C. M EN C. P. GRAZIELLA SÁNCHEZ MOTA.
 B.O. 11 DE MARZO DE 2008.
 
 ÚNICO.- El presente Decreto entrará en vigor el día de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+B.O. 10 DE OCTUBRE DE 2011.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+SEGUNDO. La Comisión Estatal del Agua, contará con un plazo de 60 días contados a partir de la entrada en vigor del presente Decreto, para elaborar el Programa Estatal para el Fomento de la Cultura del Cuidado del Agua a partir del año 2012.
