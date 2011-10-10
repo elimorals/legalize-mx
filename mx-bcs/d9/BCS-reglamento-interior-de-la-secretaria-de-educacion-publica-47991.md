@@ -4,7 +4,7 @@ identifier: "BCS-reglamento-interior-de-la-secretaria-de-educacion-publica-47991
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-01-05"
-last_updated: "2006-01-05"
+last_updated: "2011-10-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=47991&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 REGLAMENTO INTERIOR DE LA SECRETARIA DE EDUCACION PUBLICA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 10 DE OCTUBRE DE 2011.
 
 Reglamento publicado en el Extraordinario del Boletín Oficial del Estado de Baja California Sur, el jueves 5 de enero de 2006.
 
@@ -97,9 +97,17 @@ Para el estudio, planeación y despacho de las atribuciones que le competen, la 
 
 Unidades de Asesoría:
 
-- Unidad de Asuntos Jurídicos y Laborales; y
+> <small>(REFORMADA, B.O. 10 DE OCTUBRE DE 2011)</small>
 
-- Unidad de Contraloría Interna.
+- Unidad de Asuntos Jurídicos y Laborales;
+
+> <small>(REFORMADA, B.O. 10 DE OCTUBRE DE 2011)</small>
+
+- Unidad de Contraloría Interna; y
+
+> <small>(ADICIONADA, B.O. 10 DE OCTUBRE DE 2011)</small>
+
+- Unidad de Acceso a la Información Pública.
 
 Organismos Colegiados:
 
@@ -263,7 +271,11 @@ XV.- Proponer la contratación del personal docente y de personal de apoyo y asi
 
 XVI.- Vigilar al personal docente y al personal de apoyo y asistencia a la educación contratado en las escuelas particulares incorporadas a la Secretaría, que reúna los requisitos profesionales; y
 
-XVII.- Las demás que le confieran las disposiciones legales aplicables, el Secretario, dentro de la esfera de sus atribuciones.
+> <small>(ADICIONADA, B.O. 10 DE OCTUBRE DE 2011)</small>
+
+XVII.- Los Titulares de las Unidades Administrativas y de las áreas que por su naturaleza se requiera, proporcionarán en tiempo y forma la información que solicite la Unidad de Acceso a la Información Pública de la Secretaría de Educación Pública, para el cumplimiento de sus atribuciones y funciones; y
+
+XVIII.- Las demás que le confieran las disposiciones legales aplicables, el Secretario, dentro de la esfera de sus atribuciones.
 
 ### CAPÍTULO V (SIC). DE LAS FUNCIONES ESPECÍFICAS DE LAS UNIDADES ADMINISTRATIVAS
 
@@ -1689,15 +1701,65 @@ El Colegio de Bachilleres, el Centro de Estudios Científicos y Tecnológicos de
 
 La Universidad Pedagógica Nacional 03A, es un órgano desconcentrado dependiente de la Dirección de Profesiones, Educación Media Superior y Superior. Este organismo se regirá por su instrumento jurídico de creación, así como las disposiciones aplicables del Reglamento Interior de la Secretaría de Educación Pública, contemplado en el Capítulo IX, en los Artículos 45 y 46 de los Órganos Desconcentrados.
 
-### CAPÍTULO VIII. DE LA SUPLENCIA DE LOS FUNCIONARIOS
+> <small>(REFORMADA SU DENOMINACION, B.O. 10 DE OCTUBRE DE 2011)</small>
+
+### CAPÍTULO VIII. DE LA UNIDAD DE ACCESO A LA INFORMACIÓN PÚBLICA DE LA SECRETARÍA DE EDUCACIÓN PÚBLICA
+
+> <small>(REFORMADO, B.O. 10 DE OCTUBRE DE 2011)</small>
 
 ###### ARTÍCULO 46.
 
-El Secretario de Educación Pública será suplido en sus ausencias por el director del asunto de que se trate, excepto en el despacho y resolución de los asuntos que por disposición expresa se consideren no delegables.
+La Unidad de Acceso a la Información Pública, será la instancia encargada de la recepción de las peticiones de información y de su trámite conforme a lo señalado en la Ley de Transparencia y Acceso a la Información Pública para el Estado de Baja California Sur, y demás disposiciones aplicables.
+
+Para el debido cumplimiento a lo dispuesto en el párrafo anterior, tendrá las siguientes facultades y obligaciones:
+
+l.- Recabar, publicar, transparentar, y actualizar la información pública obligatoria, a que se refiere la Ley de Transparencia y Acceso a la Información Pública para el Estado de Baja California Sur;
+
+II.- Asesorar y orientar a quienes lo requieran, en la elaboración de las solicitudes de información, así como en los trámites para hacer efectivo el ejercicio de su derecho de acceso a la misma;
+
+III.- Recibir y tramitar las solicitudes de acceso a la información pública, ya sea mediante el formato preestablecido o bien mediante escrito de libre redacción que presente el solicitante o por vía del sistema electrónico; así como darles seguimiento, hasta la entrega de dicha información en la forma solicitada, y conforme a la ley;
+
+IV.- Coordinar, organizar, administrar, custodiar y sistematizar los archivos que contengan la información pública obligatoria;
+
+V.- Efectuar las notificaciones correspondientes a los solicitantes, en los términos de ley;
+
+VI.- Proponer los procedimientos internos que contribuyan a la mayor eficiencia, en la atención de las solicitudes de acceso a la información;
+
+VII.- Verificar en cada caso que la información solicitada no se encuentre clasificada como reservada o confidencial;
+
+VIII.- Entregar o negar la información requerida, fundando y motivando su resolución en los términos de la Ley;
+
+IX.- Llevar un registro de las solicitudes de acceso a la información y de sus resultados, los costos de atención de este servicio, así como los tiempos observados para las respuestas;
+
+X.- Crear formatos para las solicitudes de acceso a la información pública;
+
+XI.- Aplicar los lineamientos emitidos por el Instituto de Transparencia y Acceso a la Información Pública del Estado, en materia de datos personales y clasificación y desclasificación de la información reservada y confidencial y;
+
+XII.- Las demás que sean necesarias para facilitar el ejercicio del derecho de acceso a la información pública.
+
+> <small>(REFORMADO, B.O. 10 DE OCTUBRE DE 2011)</small>
 
 ###### ARTÍCULO 47.
 
-Durante las ausencias de los Directores, éstos serán suplidos por los funcionarios de jerarquía inmediata inferior que designe el Secretario de Educación.
+La Unidad de Acceso a la Información Pública estará adscrita al Titular de la Secretaría de Educación Pública y se integra por el titular y los servidores públicos necesarios conforme al presupuesto y a la necesidad del servicio para que funcionen las áreas de atención al público, informática y notificaciones.
+
+El Titular de la Unidad de Acceso a la Información Pública deberá cumplir cuando menos con el requisito de contar con titulo profesional expedido por autoridad competente, en áreas afines al objeto de la Ley de Transparencia y Acceso a la Información Pública para el Estado de Baja California Sur.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, B.O. 10 DE OCTUBRE DE 2011)</small>
+
+### CAPÍTULO IX. DE LA SUPLENCIA DE FUNCIONARIOS
+
+> <small>(ADICIONADO, B.O. 10 DE OCTUBRE DE 2011)</small>
+
+###### ARTÍCULO 48.
+
+El Secretario de Educación Pública será suplido en sus ausencias por el Director responsable del área que competa el asuntos (sic) de que se trate, excepto en el despacho y resolución de los asuntos que por disposición expresa se consideren no delegables.
+
+> <small>(ADICIONADO, B.O. 10 DE OCTUBRE DE 2011)</small>
+
+###### ARTÍCULO 49.
+
+Durante las ausencias de los Directores estos serán suplidos por los funcionarios en jerarquía inmediata inferior que designe el Secretario de Educación Pública en el Estado.
 
 ## TRANSITORIOS
 
@@ -1742,3 +1804,13 @@ C. PROFR. VÍCTOR MANUEL GULUARTE CASTRO
 EL SECRETARIO DE EDUCACIÓN PÚBLICA
 
 C. PROFRA. ROSALÍA MONTAÑO ACEVEDO
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+B.O. 10 DE OCTUBRE DE 2011.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+SEGUNDO.- Una vez publicado procédase a instalar de inmediato la Unidad de Acceso a la Información Pública de la Secretaría de Educación Pública, notificándose a las instancias correspondientes.
+
+TERCERO.- La Unidad de Acceso a la formación Pública estará ubicada en las oficinas centrales de la Secretaría de Educación Pública del Estado.
