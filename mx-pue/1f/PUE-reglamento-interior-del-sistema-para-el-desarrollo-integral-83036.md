@@ -4,7 +4,7 @@ identifier: "PUE-reglamento-interior-del-sistema-para-el-desarrollo-integral-830
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-09-21"
-last_updated: "2011-09-21"
+last_updated: "2011-10-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=83036&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "PUE"
 ---
 # REGLAMENTO INTERIOR DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DEL ESTADO DE PUEBLA
 
-> <small>N. DE E. PARA CONSULTAR LA VERSION CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 10 DE OCTUBRE DE 2011 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGIA CORRESPONDIENTE A DICHA FECHA, EN EL INDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 REGLAMENTO INTERIOR DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DEL ESTADO DE PUEBLA
 
 TEXTO ORIGINAL.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL EL 10 DE OCTUBRE DE 2011.</small>
 
 Reglamento publicado en la Tercera Sección del Periódico Oficial del Estado de Puebla, el miércoles 21 de septiembre de 2011.
 
@@ -447,8 +447,6 @@ XXIII. Coordinar con la Secretaría General de Gobierno, el establecimiento, con
 
 El Consejo Técnico de Adopciones es un cuerpo colegiado coadyuvante de la asistencia social, que tendrá como objetivo vigilar el desempeño de la tutela que se le concede por ministerio de ley y sobre la delegación de aquélla y la posibilidad de adopción de los menores o incapaces, así como emitir los certificados de idoneidad correspondientes, protegiendo y cuidando el interés superior del menor o incapaz, conforme a las leyes de la materia, acuerdos y tratados internacionales.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSION CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 10 DE OCTUBRE DE 2011 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGIA CORRESPONDIENTE A DICHA FECHA, EN EL INDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA, ASI COMO EL ARCHIVO ANEXO.</small>
-
 ###### ARTÍCULO 16.
 
 El Consejo Técnico estará integrado por:
@@ -469,7 +467,9 @@ d) El Titular de Casa de Ángeles/CRI.
 
 e) El Titular de Casa de la Niñez Poblana.
 
-f) El Titular de Casa de la Familia Poblana.
+> <small>(F. DE E., 10 DE OCTUBRE DE 2011)</small>
+
+f) El Titular de la Casa del Adolescente.
 
 g) Un médico pediatra adscrito al SEDIF.
 
