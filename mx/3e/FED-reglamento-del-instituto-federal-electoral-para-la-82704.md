@@ -4,7 +4,7 @@ identifier: "FED-reglamento-del-instituto-federal-electoral-para-la-82704"
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-09-01"
-last_updated: "2011-09-01"
+last_updated: "2011-10-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=82704&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2011-07-25"
 
 REGLAMENTO DEL INSTITUTO FEDERAL ELECTORAL PARA LA PROMOCION DEL VOTO POR PARTE DE ORGANIZACIONES CIUDADANAS EN EL PROCESO ELECTORAL FEDERAL 2011-2012
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 11 DE OCTUBRE DE 2011.
 
 Reglamento publicado en la Tercera Sección del Diario Oficial de la Federación, el jueves 1 de septiembre de 2011.
 
@@ -201,7 +201,9 @@ Las actividades que realicen las Organizaciones Ciudadanas para la promoción de
 
 a) La finalidad de la promoción del voto será fomentar la participación ciudadana en los procesos electorales, en apego estricto a los valores, prácticas e instituciones de la democracia;
 
-b) La promoción del voto deberá ser imparcial. De ninguna manera podrá estar dirigida a influir en las preferencias electorales de las y los ciudadanos, a favor o en contra de partidos políticos, coaliciones, aspirantes, precandidatos o candidatos a cargos de elección popular, ni generar confusión, presión o coacción en los electores o afectar la equidad en la contienda electoral; y (sic)
+> <small>(REFORMADO, D.O.F. 11 DE OCTUBRE DE 2011)</small>
+
+b) La promoción del voto deberá ser imparcial. De ninguna manera podrá estar dirigida a influir en las preferencias electorales de las y los ciudadanos, a favor o en contra de partidos políticos, coaliciones, aspirantes, precandidatos o candidatos a cargos de elección popular, ni generar confusión, presión o coacción en los electores o afectar la equidad en la contienda electoral.
 
 c) En todo momento, la promoción del voto velará porque el sufragio sea: universal, libre, secreto, directo, personal e intransferible. Así como procurará que sea razonado e informado.
 
@@ -225,7 +227,9 @@ El Instituto emitirá, a más tardar durante el mes de enero del año en que se 
 
 La convocatoria que emita el Instituto deberá precisar los requisitos que deben cumplir las organizaciones ciudadanas para participar en la promoción del voto.
 
-Así mismo el Instituto brindará asesoría y orientación a las organizaciones ciudadanas para el cumplimiento del presente Reglamento, así como, facilitará materiales e información útil para que éstas realicen las tareas de promoción del voto.
+> <small>(REFORMADO, D.O.F. 11 DE OCTUBRE DE 2011)</small>
+
+Así mismo el Instituto brindará asesoría y orientación a las organizaciones ciudadanas para el cumplimiento del presente Reglamento, así como la información útil para que éstas realicen las tareas de promoción del voto.
 
 De acuerdo a sus posibilidades y recursos disponibles, el Instituto concertará con organizaciones ciudadanas la realización de acciones conjuntas de información, difusión, comunicación, capacitación, o bien, celebrará actividades culturales o eventos diversos para la promoción del voto.
 
@@ -237,13 +241,13 @@ El Instituto, a través de la DECEyEC, apoyará en la medida de sus posibilidade
 
 La DECEyEC presentará informes a la Comisión de Capacitación Electoral y Educación Cívica y, en su caso, a la Comisión de Capacitación y Organización Electoral, sobre el registro de las organizaciones ciudadanas interesadas en la promoción del voto; los avances de las acciones que realicen las organizaciones que sean apoyadas por el Instituto y la estrategia a seguir por la Dirección Ejecutiva.
 
+> <small>(REFORMADO, D.O.F. 11 DE OCTUBRE DE 2011)</small>
+
 ###### Artículo 11.
 
 Con el objeto de informar a la ciudadanía sobre la importancia del ejercicio de su voto y propiciar una participación más activa en los procesos electorales, las organizaciones ciudadanas podrán sumarse a las labores de promoción del voto que realiza el Instituto.
 
-Dichas organizaciones podrán obtener el apoyo del Instituto conforme al programa de trabajo y los recursos disponibles. En ningún momento será posible la asignación de espacios en los tiempos de radio y televisión que administra el Instituto.
-
-El Instituto firmará los convenios de apoyo y colaboración con las organizaciones ciudadanas a las que les otorgue apoyos de carácter económico.
+Dichas organizaciones podrán obtener el apoyo del Instituto conforme a su programa de trabajo. En ningún momento será posible la asignación de espacios en los tiempos de radio y televisión que administra el Instituto.
 
 ###### Artículo 12.
 
@@ -263,9 +267,11 @@ Las campañas de promoción del voto que realicen las organizaciones ciudadanas 
 
 Las campañas de promoción del voto difundidas a través de cualquiera de los medios de comunicación existentes, deberán observar lo dispuesto en los artículos 5; 13; 14; 17; 18 y 19 del presente Reglamento.
 
+> <small>(REFORMADO, D.O.F. 11 DE OCTUBRE DE 2011)</small>
+
 ###### Artículo 16.
 
-Las organizaciones ciudadanas tendrán la obligación de informar al Instituto sobre el uso y destino de los recursos públicos que reciban por parte de éste para la promoción del voto en el Proceso Electoral Federal 2011-2012.
+Las organizaciones ciudadanas deberán informar al Instituto sobre las acciones que desarrollen para la promoción del voto en el Proceso Electoral Federal 2011-2012.
 
 ## Título Tercero. De las prohibiciones e Infracciones
 
@@ -310,3 +316,13 @@ Toda contravención a lo establecido en el presente Reglamento se resolverá de 
 El presente Acuerdo fue aprobado en sesión ordinaria del Consejo General celebrada el 25 de julio de dos mil once, por votación unánime de los Consejeros Electorales, Maestro Marco Antonio Baños Martínez, Doctora María Macarita Elizondo Gasperín, Maestro Alfredo Figueroa Fernández, Doctor Francisco Javier Guerrero Aguirre, Doctor Benito Nacif Hernández y el Consejero Presidente, Doctor Leonardo Valdés Zurita.
 
 El Consejero Presidente del Consejo General, Leonardo Valdés Zurita.- Rúbrica.- El Secretario del Consejo General, Edmundo Jacobo Molina.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 11 DE OCTUBRE DE 2011.
+
+DEBIDO A SU IMPORTANCIA, A CONTINUACION SE TRANSCRIBE EL PUNTO DEL ACUERDO DE REFORMAS QUE SE RELACIONA CON EL REGLAMENTO.
+
+...
+
+SEPTIMO.- El presente Acuerdo entrará en vigor el día de su aprobación por el Consejo General.
