@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-hacienda-municipal-del-estado-de-jalisco-5833"
 country: "mx"
 rank: "ley"
 publication_date: "1984-04-03"
-last_updated: "2011-03-03"
+last_updated: "2011-10-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5833&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE HACIENDA MUNICIPAL DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE MARZO DE 2011.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE OCTUBRE DE 2011.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el martes 3 de abril de 1984.
 
@@ -203,17 +203,17 @@ IV. El servidor público encargado del área de ingresos, en aquellos municipios
 
 V. Los delegados y agentes municipales;
 
-> <small>(REFORMADA, P.O. 11 DE NOVIEMBRE DE 2006)</small>
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2011)</small>
 
-VI. Los organismos descentralizados municipales o intermunicipales que operan y administran los servicios de agua potable y alcantarillado, en cuanto a las atribuciones que por delegación les confieren en esta materia los acuerdos o convenios que crean estos organismos, exceptuándose la facultad económico-coactiva, la cual solo podrán ejercerla cuando el Congreso del Estado mediante Ley les otorgue el carácter de Organismo Fiscal Autónomo, fuera de estos casos sólo podrá ser ejercida por los funcionarios encargados de las tesorerías municipales o por los servidores públicos que determine cada municipio; y
+VI. Los organismos públicos descentralizados municipales o intermunicipales que operan y administran los servicios de agua potable y alcantarillado, en cuanto a las atribuciones que por delegación les confieren en esta materia los acuerdos o convenios que crean estos organismos, exceptuándose la facultad económico-coactiva, la cual sólo podrán ejercerla cuando el Congreso del Estado, mediante ley, les otorgue el carácter de organismo fiscal autónomo; fuera de estos casos, sólo podrá ser ejercida por los funcionarios encargados de las haciendas municipales o por los servidores públicos que determine cada municipio, y
 
-> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 11 DE NOVIEMBRE DE 2006)</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 11 DE OCTUBRE DE 2011)</small>
 
 VII. Las demás autoridades municipales a quienes las leyes confieran atribuciones en materia fiscal.
 
-> <small>(REFORMADO, P.O. 25 DE JULIO DE 2000)</small>
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2011)</small>
 
-Las autoridades fiscales del Estado podrán coordinarse con las del Municipio, para el mejor cumplimiento de esta ley y de las de ingresos municipales, en cuyo caso se les considerará autoridades fiscales municipales y ejercerán las atribuciones de los funcionarios encargados de las tesorerías municipales que se les señalen en los convenios o Acuerdos respectivos; por lo que en contra de los actos que realicen, cuando actúen en los términos de este precepto, sólo procederán los recursos y medios de defensa establecidos en esta ley o en la Ley del Procedimiento Administrativo del Estado de Jalisco y sus Municipios.
+Las autoridades fiscales del Estado podrán coordinarse con las del Municipio para el mejor cumplimiento de esta ley y de las leyes de ingresos municipales, en cuyo caso se les considerará autoridades fiscales municipales y ejercerán las atribuciones de los funcionarios encargados de las haciendas municipales que se les señalen en los convenios o acuerdos respectivos; por lo que en contra de los actos que realicen, cuando actúen en los términos de este precepto, sólo procederán los recursos y medios de defensa establecidos en esta ley o en la ley estatal en materia de procedimiento administrativo.
 
 ###### Art. 21.
 
@@ -1653,9 +1653,9 @@ Los establecimientos que realicen diversas actividades concretas deberán obtene
 
 Las licencias otorgadas por la Autoridad Municipal no conceden a sus titulares derechos permanentes ni definitivos; en tal virtud, la autoridad que las expida podrá en cualquier momento en los casos que señala esta Ley, acordar su revocación sin derecho a devolución de cantidad alguna.
 
-> <small>(ADICIONADO, P.O. 31 DE OCTUBRE DE 1996)</small>
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2011)</small>
 
-En el caso de giros restringuidos (sic) sobre venta y consumo de bebidas alcohólicas, se seguirá el procedimiento de revocación establecido en el artículo 316 bis de la presente ley.
+En el caso de giros restringidos sobre venta y consumo de bebidas alcohólicas, se estará a lo dispuesto en la presente ley y demás disposiciones legales y reglamentarias aplicables.
 
 ###### Art. 140.
 
@@ -3077,23 +3077,39 @@ IV. Dentro de los cinco días siguientes de transcurrido el término probatorio,
 
 V. Dicha resolución, invariablemente, deberá ser notificada al interesado y, cuando en ésta se determine la revocación, se le concederá un término de setenta y dos horas para que suspenda sus actividades. De no hacerlo, se procederá a la clausura del Giro.
 
-> <small>(ADICIONADO, P.O. 31 DE OCTUBRE DE 1996)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE OCTUBRE DE 2011)</small>
 
-Art. 316 bis. La revocación de las licencias o permisos para operar los giros restringidos establecidos en la fracción I del artículo 4° de la Ley sobre Venta y Consumo de Bebidas Alcohólicas, deberá sujetarse al siguiente procedimiento:
+###### Art. 316 Bis.
 
-I. Cuando el Presidente Municipal tenga conocimiento de la existencia de cualquiera de las causas señaladas en el artículo 315 de esta ley, o en su caso de alguna de las que se encuentran establecidas en el artículo 38 de la Ley sobre Venta y Consumo de Bebidas Alcohólicas en el Estado de Jalisco, iniciará mediante acuerdo escrito, el procedimiento de revocación;
+La revocación de las licencias o permisos para operar los giros restringidos establecidos en la Ley para Regular la Venta y el Consumo de Bebidas Alcohólicas del Estado de Jalisco, se sujeta a los procedimientos establecidos en los ordenamientos municipales respectivos y, en su defecto, al siguiente procedimiento:
+
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2011)</small>
+
+I. Cuando el Presidente Municipal tenga conocimiento de la existencia de cualquiera de las causas de revocación señaladas en los artículos 315 de la Ley de Hacienda Municipal del Estado de Jalisco y 58 de la Ley para Regular la Venta y Consumo de Bebidas Alcohólicas, o lo señalado por los ordenamientos municipales respectivos, iniciará mediante acuerdo escrito el procedimiento de revocación;
+
+> <small>(ADICIONADA, P.O. 31 DE OCTUBRE DE 1996)</small>
 
 II. Dicho acuerdo se le notificará en forma personal al interesado concediéndole un plazo de cinco días, contados a partir de la fecha de la notificación, a fin de que comparezca para hacer valer lo que a su interés convenga, y ofrecer las pruebas que estime adecuadas;
 
+> <small>(ADICIONADA, P.O. 31 DE OCTUBRE DE 1996)</small>
+
 III. En caso de que el interesado no comparezca, se le tendrá por conforme con las causas que se le atribuyan, y se resolverá en definitiva;
+
+> <small>(ADICIONADA, P.O. 31 DE OCTUBRE DE 1996)</small>
 
 IV. Las pruebas que ofrezca el interesado deberán desahogarse, en un término que no exceda de diez días, a partir de su ofrecimiento;
 
-V. Dentro de los quince días siguientes de transcurrido el término probatorio, el Presidente Municipal dictaminará sobre la procedencia de la revocación y someterá el acuerdo al Consejo Municipal de Giros Restringuidos (sic) sobre Venta y Consumo de Bebidas Alcohólicas, para su análisis y sanción definitiva. Dicha resolución será notificada al interesado;
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2011)</small>
+
+V. Dentro de los quince días siguientes de transcurrido el término probatorio, el Presidente Municipal dictaminará sobre la procedencia de la revocación, pudiendo los consejos de giros restringidos proponer al Ayuntamiento la revocación de las licencias a que se refiere el artículo 8.° de la Ley para Regular la Venta y Consumo de Bebidas Alcohólicas del Estado de Jalisco. Dicha resolución será notificada al interesado;
+
+> <small>(ADICIONADA, P.O. 31 DE OCTUBRE DE 1996)</small>
 
 VI. Cuando el interesado sea el responsable de las causales de la revocación, se le concederá un término de setenta y dos horas para que suspenda sus actividades. De no hacerlo, se procederá a la clausura del giro, y
 
-VII. Cuando las causales de la revocación no sean imputables al interesado, se le concederá el término que acuerde el Consejo Municipal de Giros Restringidos sobre Venta y Consumo de Bebidas Alcohólicas, para que suspenda sus actividades o en su caso, cambie el domicilio del establecimiento o local donde las realice.
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2011)</small>
+
+VII. Cuando las causales de revocación no sean imputables al interesado, se le concederá el término que acuerde el Presidente Municipal para que suspenda sus actividades o, en su caso, cambie el domicilio del establecimiento o local donde las realice.
 
 ###### Art. 317.
 
@@ -3476,3 +3492,7 @@ P.O. 30 DE OCTUBRE DE 2010.
 P.O. 3 DE MARZO DE 2011.
 
 UNICO. Este decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 11 DE OCTUBRE DE 2011.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
