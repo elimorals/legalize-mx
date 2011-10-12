@@ -4,7 +4,7 @@ identifier: "MOR-reglamento-interior-de-la-secretaria-de-gestion-e-71289"
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-12-09"
-last_updated: "2009-12-09"
+last_updated: "2011-10-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=71289&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "MOR"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA DE GESTION E INNOVACION GUBERNAMENTAL DEL PODER EJECUTIVO DEL GOBIERNO DEL ESTADO LIBRE Y SOBERANO DE MORELOS
 
-REGLAMENTO INTERIOR DE LA SECRETARIA DE GESTION E INNOVACION GUBERNAMENTAL DEL PODER EJECUTIVO DEL GOBIERNO DEL ESTADO LIBRE Y SOBERANO DE MORELOS
+REGLAMENTO INTERIOR DE LA SECRETARÍA DE GESTIÓN E INNOVACIÓN GUBERNAMENTAL DEL PODER EJECUTIVO DEL GOBIERNO DEL ESTADO LIBRE Y SOBERANO DE MORELOS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE OCTUBRE DE 2011.
 
 Reglamento publicado en el Periódico Oficial del Estado de Morelos, el miércoles 9 de diciembre de 2009.
 
@@ -85,11 +85,21 @@ VI. Dirección General de Desarrollo Organizacional;
 
 VII. Dirección General de Mantenimiento Vehicular y Señalamiento de Inmuebles;
 
-VIII. Dirección General de Tecnologías de la Información y Comunicaciones, y
+> <small>(ADICIONADA, P.O. 12 DE OCTUBRE DE 2011)</small>
 
-IX. Dirección General de Coordinación y Desarrollo Administrativo.
+VIII. Unidad de Asesoría Jurídica;
 
-Éstas Direcciones Generales, estarán integradas por las personas titulares respectivas, así como de los (las) directores(as) de área, subdirectores(as), jefes(as) de departamento, jefes(as) de oficina y demás personal que se señalen en los manuales de organización y de políticas y procedimientos, las disposiciones jurídicas aplicables, así como aquel personal que por necesidades de la Secretaría se requiera, para el adecuado cumplimiento de las atribuciones establecidas.
+IX. Dirección General de Tecnologías de la Información y Comunicaciones, y
+
+X. Dirección General de Coordinación y Desarrollo Administrativo.
+
+> <small>(ADICIONADO, P.O. 12 DE OCTUBRE DE 2011)</small>
+
+La Unidad de Asesoría Jurídica estará adscrita directamente a la Secretaría, y contará con nivel de Dirección General.
+
+> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2011)</small>
+
+Las Direcciones señaladas en las fracciones anteriores estarán integradas por las personas; titulares respectivas, así como por las direcciones de área, subdirecciones, jefaturas de departamento, jefaturas de oficina y demás personal que se señalen en los manuales de organización, y de políticas y procedimientos, o en otras disposiciones jurídica aplicables, así como por aquel personal que por necesidades de la Secretaría se requiera, para el adecuado cumplimiento de las atribuciones establecidas, de conformidad con su suficiencia presupuestal.
 
 ###### Artículo 4.
 
@@ -101,9 +111,11 @@ La Secretaría planeará y conducirá sus actividades con sujeción a los objeti
 
 Al frente de la Secretaría estará el Secretario (a) de Gestión e Innovación Gubernamental. La representación de la Secretaría, así como el trámite y resolución de los asuntos de su competencia, corresponden originalmente a la persona titular, quien para la mejor atención y despacho de los mismos podrá delegar sus facultades en servidores (as) públicos subalternos (as), sin perjuicio de su ejercicio directo, excepto aquellas que, por disposición de la Ley o de éste Reglamento, deban ser ejercidas directamente.
 
+> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2011)</small>
+
 ###### Artículo 6.
 
-A la persona titular de la Secretaría, le corresponderá ejercer las facultades que le confieren la Ley Orgánica de la Administración Pública del Estado Libre y Soberano de Morelos y las demás disposiciones jurídicas y administrativas aplicables, las cuales ejercerá conforme a las necesidades del servicio, pero no podrá delegar en servidores (as) públicos subalternos (as) las siguientes:
+A quien sea titular de la Secretaría le corresponderá ejercer las facultades que le confieren la Ley Orgánica de la Administración Pública del Estado Libre y Soberano de Morelos y las demas disposiciones jurídicas y administrativas aplicables, las cuales ejercerá conforme a las necesidades del servicio, pero no podrá delegar las siguientes:
 
 I. Proponer e instrumentar la política de administración de recursos humanos, adquisiciones, enajenaciones, arrendamientos, prestación de servicios, organización y patrimonio de la Administración Pública Central, conforme a las disposiciones jurídicas aplicables;
 
@@ -111,57 +123,31 @@ II. Integrar el Programa Anual de Adquisiciones de la Administración Pública C
 
 III. Ejercer las facultades derivadas de los convenios que, sobre las materias de su competencia, celebre el Ejecutivo del Estado Libre y Soberano de Morelos, con los demás poderes, los Órganos Constitucionales Autónomos, la Federación, los Estados y los Ayuntamientos;
 
-IV. Controlar y en su caso, suscribir todas las contrataciones que requiera la Administración Pública Central, exceptuando aquellas que versen en materia de obra pública y servicios relacionados con la misma, y aquellas cuya autorización, suscripción o ejercicio corresponda a otra autoridad en términos de las Leyes y reglamentos respectivos;
+IV. Planear los sistemas generales de organización de la Administración Pública Central;
 
-V. Administrar los almacenes generales de la Administración Pública Central, determinando los criterios y políticas a seguir para que las Secretarías y Dependencias, mantengan actualizados los inventarios correspondientes;
+V. Proponer a quien funja como titular del Poder Ejecutivo los proyectos de creación, modificación o supresión de Secretarías, Dependencias y Unidades Administrativas de la Administración Pública Central, en coordinación con las diversas autoridades involucradas;
 
-VI. Administrar, coordinar y controlar los talleres gráficos de la Administración Pública Central, así como coordinar la edición y publicación de información oficial de la Administración Pública Central, con excepción del Periódico Oficial “Tierra y Libertad”;
+VI. Autorizar las propuestas de modificación de estructuras administrativas y, en su caso, las plantillas de personal de la Administración Pública Central;
 
-VII. Establecer los criterios y las políticas de conservación de las unidades vehiculares de la Administración Pública Central, a través de los programas de mantenimiento preventivo y correctivo;
+VII. Coordinarse con la Secretaría de Desarrollo Urbano y Obras Públicas y la Secretaría de Turismo, en todo lo relativo a la construcción, reconstrucción y conservación de edificios públicos, monumentos, edificios del patrimonio del Estado y obras de ornato, conforme a las disposiciones jurídicas aplicables y los convenios que sobre el particular suscriba el Gobierno del Estado con la Federación;
 
-VIII. Planear, organizar, coordinar, dirigir y controlar los sistemas generales de organización de la Administración Pública Central, así como mantener actualizados los registros de estructura y plantilla de personal por Secretaría y Dependencia;
+VIII. Regular y, en su caso, representar el interés de la Administración Pública Central en la adquisición, enajenación, comodato, destino o afectación de los bienes inmuebles de su patrimonio, así como, en coordinación con las Secretarías y Dependencias involucradas, determinar normas y procedimientos para formular inventarios y los avalúos de los mismos;
 
-IX. Proponer a la persona titular del Poder Ejecutivo los proyectos de creación, modificación o supresión de Secretarías, Dependencias y Unidades Administrativas de la Administración Pública Central, en coordinación con las diversas autoridades involucradas;
+IX. Elaborar y proponer al o la titular del Poder Ejecutivo, los proyectos de ley, reglamentos y demás disposiciones jurídicas, en el ámbito de su competencia; remitirlos a la Consejería Jurídica del Poder Ejecutivo del Estado para su revisión y análisis, tanto de constitucionalidad como de legalidad, y una vez validados, enviarlos a la Secretaría de Gobierno para su trámite correspondiente;
 
-X. Autorizar las propuestas de modificación de estructuras administrativas y plantillas de personal de la Administración Pública Central, así como verificar, que en los casos que impliquen modificaciones a los reglamentos interiores, los interesados elaboren los proyectos correspondientes;
+X. Concurrir a las sesiones del Congreso, cuando se discuta una Ley o se estudie un asunto concerniente a las materias de su competencia, previa instrucción de quien sea titular del Poder Ejecutivo;
 
-XI. Planear, organizar, dirigir y controlar, en coordinación con las autoridades correspondientes de la Administración Pública Central, la elaboración de los manuales de organización, de políticas y procedimientos correspondientes y los demás que correspondan al ejercicio de su función;
+XI. Refrendar los decretos, acuerdos, reglamentos y demás disposiciones de carácter general, que expida el Ejecutivo, en materia de su competencia.
 
-XII. Coordinarse con la Secretaría de Desarrollo Urbano y Obras Públicas y la Secretaría de Turismo, en todo lo relativo a la construcción, reconstrucción y conservación de edificios públicos, monumentos, edificios del patrimonio del Estado Libre y Soberano de Morelos y obras de ornato, conforme a las disposiciones jurídicas aplicables y los convenios que sobre el particular suscriba el del Gobierno del Estado con la Federación;
+XII. Asesorar a la persona titular del Poder Ejecutivo, en la elaboración de convenios que celebre con la Federación, otros Estados y los Ayuntamientos, en el ámbito de su competencia;
 
-XIII. Planear, organizar, coordinar y dirigir el sistema de administración, registro y control de bienes de la administración pública central;
+XIII. Organizar y, en su caso, adscribir jerárquica y funcionalmente, a las personas titulares de las unidades de coordinación administrativa y las responsables de las tecnologías de información y comunicaciones de las Secretarías y Dependencias, para el adecuado desempeño de las atribuciones conferidas;
 
-XIV. Realizar todos los actos necesarios para la conservación, protección y recuperación de los bienes propiedad de la Administración Pública Central del Estado, en coordinación con la Consejería Jurídica;
+XIV. Establecer la política de Innovación Gubernamental dentro de la Administración Pública Central;
 
-XV. Reivindicar la propiedad del Estado Libre y Soberano de Morelos, con la intervención de la Consejería Jurídica y de las autoridades competentes;
+XV. Emitir los lineamientos correspondientes al servicio del Jardín de Niños de su adscripción, de acuerdo con los ordenamientos aplicables, y
 
-XVI. Regular y, en su caso, representar el interés de la Administración Pública Central en la adquisición, enajenación, comodato, destino o afectación de los bienes inmuebles de su patrimonio, así como, en coordinación con las Secretarías y Dependencias involucradas, determinar normas y procedimientos para formular inventarios y los avalúos de los mismos;
-
-XVII. Intervenir dentro de su ámbito de competencia, en los procesos de entrega y recepción de la Administración Pública Central, con la participación de la Secretaría de la Contraloría del Poder Ejecutivo del Gobierno del Estado Libre y Soberano de Morelos;
-
-XVIII. Proponer e instrumentar las políticas de Tecnologías de la Información y Comunicaciones, así como la de telecomunicaciones y telefonía, de la Administración Pública Central; sin perjuicio de la coordinación y control de los sistemas de radiocomunicación y de comunicación que le corresponda a la Secretaría de Gobierno o la Secretaría de Seguridad Pública en el ámbito de sus respectivas competencias;
-
-XIX. Elaborar y proponer a la persona titular del Poder Ejecutivo, los proyectos de ley, reglamentos y demás disposiciones jurídicas en el ámbito de su competencia; remitirlos a la Consejería Jurídica del Gobierno del Estado para su revisión y análisis, tanto de constitucionalidad como de legalidad, y una vez validados, enviarlos al Secretario de Gobierno para su trámite correspondiente;
-
-XX. Proponer e instrumentar las políticas de control del gasto administrativo de la Administración Pública Central, así como los sistemas para su asignación, ejecución, control y evaluación;
-
-XXI. Vigilar el cumplimiento de las disposiciones jurídicas en el ámbito de su competencia;
-
-XXII. Concurrir a las sesiones del Congreso, cuando se discuta una Ley o se estudie un asunto concerniente a las materias de su competencia, previa instrucción de la persona titular del Poder Ejecutivo;
-
-XXIII. Refrendar los decretos, acuerdos, reglamentos y demás disposiciones de carácter general, que expida el Ejecutivo, en materia de su competencia.
-
-XXIV. Planear y establecer la implantación de un Modelo de Calidad Total, enfocado a la satisfacción de Usuarias (os) y Ciudadanas (os) en la Administración Pública Central;
-
-XXV. Planear y promover la implantación y operación del Sistema de Gestión de la Calidad en la Administración Pública Central;
-
-XXVI. Asesorar a la persona titular del Poder Ejecutivo, en la elaboración de convenios que celebre con la Federación, otros Estados y los Ayuntamientos en el ámbito de su competencia;
-
-XXVII. Organizar, coordinar, dirigir, controlar y en su caso, adscribir jerárquica y funcionalmente, a las personas titulares de las unidades de coordinación administrativa y las responsables de las tecnologías de información y comunicaciones de las Secretarías y Dependencias, para el adecuado desempeño de las atribuciones conferidas;
-
-XXVIII. Establecer la política de Innovación Gubernamental dentro de la Administración Pública Central, y
-
-XXIX. Suscribir los convenios y contratos que le correspondan en el ámbito de su competencia.
+XVI. Suscribir los convenios y contratos que le correspondan, en el ámbito de su competencia, en los casos en que no se deleguen conforme al presente Reglamento.
 
 ###### Artículo 7.
 
@@ -233,9 +219,13 @@ XXVII. Coordinar con otras (os) servidoras (es) públicos de la Secretaría, las
 
 XXVIII. Desarrollar y proponer políticas para la organización, coordinación, dirección y control, de las Unidades responsables de la Coordinación Administrativa al interior de cada Secretaría y Dependencia del Poder Ejecutivo Central;
 
-XXIX. Analizar y en su caso, proponer a la persona titular de la Secretaría, las políticas internas en materia innovación de la Administración Pública Central dentro de su ámbito de competencia, y
+> <small>(ADICIONADA, P.O. 12 DE OCTUBRE DE 2011)</small>
 
-XXX. Las demás que les señalen las disposiciones jurídicas aplicables o que les delegue la persona titular de la Secretaría.
+XXIX. Coadyuvar en el ámbito de su competencia, con las Secretarías y Dependencias de la Administración Pública Central, para la operación y debido cumplimiento de sus atribuciones;
+
+XXX. Analizar y en su caso, proponer a la persona titular de la Secretaría, las políticas internas en materia innovación de la Administración Pública Central dentro de su ámbito de competencia, y
+
+XXXI. Las demás que les señalen las disposiciones jurídicas aplicables o que les delegue la persona titular de la Secretaría.
 
 ###### Artículo 10.
 
@@ -243,7 +233,9 @@ A la persona titular de la Dirección General de Gestión del Capital Humano, le
 
 I. Proponer a la persona titular de la Secretaría, la política de administración de los recursos humanos de la Administración Pública Central, los sistemas de reclutamiento, selección, inducción, alta, remuneraciones, control, desarrollo, análisis y evaluación de puestos, así como disponer lo necesario para su instrumentación, ejecución, seguimiento, control y evaluación;
 
-II. Implementar el Servicio Profesional de Carrera dentro de la Administración Pública Central;
+> <small>(REFORMADA, P.O. 12 DE OCTUBRE DE 2011)</small>
+
+II. Gestionar la implementación del Servicio Profesional de Carrera dentro de la Administración Pública Central;
 
 III. Autorizar, previo acuerdo con la persona titular de la Secretaría, la plantilla de personal y el tabulador de sueldos y salarios de la Administración Pública Central;
 
@@ -279,9 +271,13 @@ XVIII. Implementar los sistemas para realizar los eventos culturales, deportivos
 
 XIX. Administrar la evaluación y catálogo de puestos, evaluación del desempeño de la Administración Pública Central y mantenerlos permanentemente actualizados;
 
-XX. Coordinar e implementar procesos y metodologías para la gestión del recurso humano, que permitan elevar su formación, productividad y desarrollo profesional, humano y social con perspectiva de género y promoción a la productividad laboral, y
+> <small>(ADICIONADA, P.O. 12 DE OCTUBRE DE 2011)</small>
 
-XXI. Las demás que le confieran las disposiciones jurídicas aplicables o le delegue la persona titular de la Secretaría.
+XX. Proponer a la persona titular de la Secretaría, los lineamientos correspondientes al Jardín de Niños, así como coordinar y vigilar el debido funcionamiento del mismo;
+
+XXI. Coordinar e implementar procesos y metodologías para la gestión del recurso humano, que permitan elevar su formación, productividad y desarrollo profesional, humano y social con perspectiva de género y promoción a la productividad laboral, y
+
+XXII. Las demás que le confieran las disposiciones jurídicas aplicables o le delegue la persona titular de la Secretaría.
 
 En relación con las facultades antes mencionadas y tratándose de los organismos auxiliares, se les brindará la asesoría necesaria y en su caso, se emitirán las opiniones correspondientes, siempre y cuando así lo soliciten expresamente.
 
@@ -351,13 +347,25 @@ II. Integrar el Programa Anual de Gasto Administrativo de la Administración Pú
 
 III. Integrar el Programa Anual de Pasivos de la Administración Pública Central, previa validación de las autoridades competentes, e informar a la Secretaría de Finanzas y Planeación, para su control;
 
-IV. Desarrollar, instrumentar, ejecutar, controlar y evaluar el sistema para el pago de los servicios que requiera la Administración Pública Central, excepto el pago de nóminas y pagos por servicios profesionales por honorarios;
+> <small>(REFORMADA, P.O. 12 DE OCTUBRE DE 2011)</small>
 
-V. Realizar la comprobación del pago de servicios de acuerdo a las disposiciones emitidas por la Secretaría de Finanzas y Planeación, para su verificación e integración a la contabilidad de la Administración Pública Central;
+IV. Desarrollar, instrumentar, ejecutar, controlar y evaluar el sistema para el gasto administrativo que requiera la Administración Pública Central, excepto el pago de nóminas y pagos por servicios profesionales por honorarios;
 
-VI. Informar a las autoridades competentes el avance del presupuesto ejercido, así como en su caso, de las variaciones al mismo respecto al monto autorizado, y
+> <small>(REFORMADA, P.O. 12 DE OCTUBRE DE 2011)</small>
 
-VII. Las demás que le encomienden las disposiciones jurídicas aplicables o le delegue la persona titular de la Secretaría.
+V. Realizar la comprobación del pago de servicios y contribuciones de acuerdo a las disposiciones emitidas por la Secretaría de Finanzas y Planeación, para su verificación e integración a la contabilidad de la Administración Pública Central;
+
+> <small>(ADICIONADA, P.O. 12 DE OCTUBRE DE 2011)</small>
+
+VI. Proponer a la persona titular de la Secretaría, la política de control del gasto administrativo, atendiendo los pagos de servicios y contribuciones que le corresponde liquidar a la Administración Pública Central, derivado de sus funciones;
+
+> <small>(ADICIONADA, P.O. 12 DE OCTUBRE DE 2011)</small>
+
+VII. Proponer dentro de su ámbito de competencia las políticas y ejecutar su instrumentación respecto de los servicios de telefonía, así como los de radiocomunicación móvil y demás servicios complementarios o adicionales necesarios para la administración central, operar el conmutador, así como emitir las constancias de gasto relativas al uso de estos servicios, proponiendo acciones para un mejor aprovechamiento del mismo; sin perjuicio de las facultades de infraestructura que le corresponde a la Dirección General de Tecnologías de la Información y Comunicaciones, así como la coordinación y control de sistemas de radiocomunicación y de comunicación que le corresponde a otras Secretarías o Dependencias, dentro de su ámbito de competencia;
+
+VIII. Informar a las autoridades competentes el avance del presupuesto ejercido, así como en su caso, de las variaciones al mismo respecto al monto autorizado, y
+
+IX. Las demás que le encomienden las disposiciones jurídicas aplicables o le delegue la persona titular de la Secretaría.
 
 En relación con las facultades antes mencionadas y tratándose de los organismos auxiliares, se les brindará la asesoría necesaria, siempre y cuando así lo soliciten expresamente.
 
@@ -369,23 +377,33 @@ I. Proponer a la persona titular de la Secretaría, las políticas internas en m
 
 II. Analizar y dictaminar las propuestas de creación y modificación a la estructura orgánica y de funcionalidad, dentro de la Administración Pública Central y someterlas a la aprobación de la persona titular de la Secretaría;
 
-III. Coordinar la elaboración de los Manuales de Organización, de Políticas y Procedimientos y cualquier otro que considere necesario para el adecuado funcionamiento de la Administración Pública Central y someterlo a la autorización de la persona titular de la Secretaría;
+> <small>(REFORMADA, P.O. 12 DE OCTUBRE DE 2011)</small>
 
-IV. Promover la elaboración y actualización de los Reglamentos Interiores que normen a la Administración Pública Central y dictaminar su funcionalidad;
+III. Proponer a la persona titular de la Secretaría la planeación para la elaboración de los Manuales de Organización, de Políticas y Procedimientos y cualquier otro que considere necesario para el adecuado funcionamiento de la Administración Pública Central, así como coordinar, dirigir y controlar las asesorías a las áreas correspondientes de las Secretarías y Dependencias, para que lleven a cabo su elaboración o actualización, y someterlo a la aprobación de la persona titular de la Secretaria;
 
-V. Fomentar el Desarrollo Organizacional en la Administración Pública Central consistente en:
+> <small>(REFORMADA, P.O. 12 DE OCTUBRE DE 2011)</small>
 
-a) La adopción de mejores prácticas a través de la implementación de Programas de Modernización Integral encaminados a incrementar el desempeño de su gestión;
+IV. Verificar que en los casos en que las modificaciones de estructura impliquen modificaciones a los reglamentos interiores, los interesados elaboren los proyectos correspondientes y los sometan a la revisión y validación de la Consejería Jurídica;
 
-b) La implantación de una cultura de innovación y calidad, orientada a la efectividad y a la calidad de los servicios, y
+> <small>(REFORMADA, P.O. 12 DE OCTUBRE DE 2011)</small>
 
-c) Coordinar dentro de la Administración Pública Central, en la mejora de los procesos requeridos en la gestión gubernamental y la prestación de los servicios a los ciudadanas(os) o usuarias(os).
+V. Promover el desarrollo organizacional en la Administración Pública Central, consistente en:
 
-VI. Promover la implantación de un Modelo de Calidad Total, enfocado a la satisfacción de ciudadanas(os) o usuarias(os), en los sistemas de gestión de la Administración Pública Central;
+a) La adopción de las mejores prácticas a través de la implementación de proyectos de modernización encaminados a incrementar el desempeño de la gestión, y la calidad de los servicios;
 
-VII. Promover y coordinar la implantación, operación, evaluación y seguimiento de los sistemas de gestión de la calidad en la Administración Pública Central;
+b) (DEROGADO, P.O. 12 DE OCTUBRE DE 2011)
 
-VIII. Dar seguimiento al cumplimiento de las normas, políticas y estándares establecidos para el desarrollo y operación de proyectos, de acuerdo a la estrategia establecida para los sistemas de gestión de la calidad de la Administración Pública Central, y
+c) Coordinar la mejora de los procesos requeridos en la gestión gubernamental y la prestación de los servicios.
+
+> <small>(REFORMADA, P.O. 12 DE OCTUBRE DE 2011)</small>
+
+VI. Promover el modelo de calidad total, encaminado a la implantación en la Administración Central, enfocado a la satisfacción de la ciudadanía y quienes sean usuarios de los sistemas de gestión;
+
+> <small>(REFORMADA, P.O. 12 DE OCTUBRE DE 2011)</small>
+
+VII. Proponer a la persona titular de la Secretaría la planeación del Sistema de Gestión de Calidad, así como promover y coordinar su implantación, operación, evaluación y seguimiento en la Administración Pública Central;
+
+VIII. (DEROGADA, P.O. 12 DE OCTUBRE DE 2011)
 
 IX. Las demás que le encomienden las disposiciones jurídicas aplicables o le delegue la persona titular de la Secretaría.
 
@@ -405,13 +423,19 @@ IV. Supervisar que el parque vehicular de la Administración Pública Central cu
 
 V. Evaluar el estado de los vehículos propiedad de la Administración Pública Central, para dictaminar la costeabilidad de las reparaciones, así como vigilar que se encuentren en condiciones óptimas para prestar el servicio encomendado; en su caso, realizar el dictamen técnico para poder dar de baja unidades vehiculares, propiedad de la Administración Pública Central;
 
-VI. Operar los talleres gráficos de la Administración Pública Central, así como editar las publicaciones que ésta solicite, excepto lo relacionado con el periódico oficial “Tierra y Libertad”;
+> <small>(REFORMADA, P.O. 12 DE OCTUBRE DE 2011)</small>
+
+VI. Operar, coordinar y controlar los talleres gráficos de la Administración Pública Central, así como editar las publicaciones que ésta solicite, excepto lo relacionado con el periódico oficial "Tierra y Libertad";
 
 VII. Desarrollar e instrumentar las políticas para la adquisición de nuevas unidades vehiculares que realice la Administración Pública Central;
 
-VIII. Desarrollar e instrumentar las políticas que permitan eficientar el uso y disminuir los costos operativos del parque vehicular, y
+> <small>(ADICIONADA, P.O. 12 DE OCTUBRE DE 2011)</small>
 
-IX. Las demás que le confieran otras disposiciones jurídicas aplicables o le delegue la persona titular de la Secretaría.
+VIII. Proponer a la persona titular de la Secretaría los criterios y políticas de conservación de las unidades vehiculares de la Administración Pública Central, a través de los proyectos de programas de mantenimiento preventivo y correctivo;
+
+IX. Desarrollar e instrumentar las políticas que permitan eficientar el uso y disminuir los costos operativos del parque vehicular, y
+
+X. Las demás que le confieran otras disposiciones jurídicas aplicables o le delegue la persona titular de la Secretaría.
 
 En relación con las facultades antes mencionadas y tratándose de los organismos auxiliares, se les brindará la asesoría necesaria y en su caso, se emitirán las opiniones correspondientes, siempre y cuando así lo soliciten expresamente.
 
@@ -419,7 +443,9 @@ En relación con las facultades antes mencionadas y tratándose de los organismo
 
 A la persona titular de la Dirección General de Tecnologías de la Información y Comunicaciones, le corresponderá ejercer las siguientes facultades específicas:
 
-I. Planear, fijar, ejecutar y dirigir las políticas de tecnologías de la información y comunicaciones de la Administración Pública Central;
+> <small>(REFORMADA, P.O. 12 DE OCTUBRE DE 2011)</small>
+
+I. Planear, fijar, ejecutar y dirigir las políticas de tecnologías de la información, telecomunicaciones y comunicaciones de la Administración Pública Central;
 
 II. Promover y dirigir la mejora tecnológica de los procesos de la Administración Pública Central, en coordinación con las áreas informáticas correspondientes, mediante el uso de Tecnologías de la Información y Comunicaciones, para hacer eficiente la administración pública, en beneficio de la ciudadanía;
 
@@ -431,7 +457,9 @@ V. Dictaminar las propuestas de proyectos de Tecnologías de la Información y C
 
 VI. Administrar la Infraestructura Tecnológica, de uso general de la Administración Pública Central, tales como: redes informáticas, servidores con sus aplicaciones y equipamiento de voz, datos y video;
 
-VII. Desarrollar, instrumentar, ejecutar y evaluar el servicio de telecomunicaciones, enlaces de Internet y telefonía de la Administración Pública Central, administrando éstos servicios y proponiendo acciones para un mejor aprovechamiento de los mismos; sin perjuicio de la coordinación y control de los sistemas de radiocomunicación y de comunicación que le corresponde a otras Secretarías o Dependencias, dentro de su ámbito de competencia;
+> <small>(REFORMADA, P.O. 12 DE OCTUBRE DE 2011)</small>
+
+VII. Desarrollar, instrumentar, ejecutar y evaluar el servicio de telecomunicaciones, la infraestructura de la telefonía convencional, y enlaces de Internet de la Administración Pública Central, administrando éstos servicios y proponiendo acciones para un mejor aprovechamiento de los mismos; sin perjuicio de la coordinación y control de los sistemas de radiocomunicación y de comunicación que le corresponde a otras Secretarías o Dependencias, dentro de su ámbito de competencia;
 
 VIII. Desarrollar y proponer políticas para la organización, coordinación, dirección y control, dentro de su ámbito de competencia, de las UTICS del Poder Ejecutivo Central, y
 
@@ -459,13 +487,53 @@ VII. Coordinar de conformidad con las normas y lineamientos que determinen las �
 
 VIII. Elaborar y coordinar conforme a las políticas y procedimientos establecidos, las propuestas de creación, modificación o supresión de unidades administrativas de la Secretaría, así como de la reorganización y funcionamiento de la misma, y proponerlas a la persona titular de la Secretaría para su aprobación y gestión;
 
-IX. Implementar las políticas y lineamientos que emita la Secretaría, en materia de administración y desarrollo de personal, de recursos materiales y control patrimonial, de gasto administrativo, de mantenimiento vehicular y señalamiento de inmuebles, así como de servicios generales, de desarrollo organizacional y de tecnologías de la información y comunicaciones;
+> <small>(REFORMADA, P.O. 12 DE OCTUBRE DE 2011)</small>
 
-X. Planear, programar y presupuestar en coordinación con las diferentes unidades administrativas de la Secretaría, la elaboración y seguimiento de los Programas Operativos Anuales de cada una de éstas, así como integrar y elaborar informes del avance programático trimestral;
+IX. Implementar las políticas y lineamientos que emita la Secretaría, en materia de administración y desarrollo de personal, de recursos materiales y control patrimonial, de gasto administrativo, de mantenimiento vehicular y señalamiento de inmuebles, de desarrollo organizacional y de tecnologías de la información y comunicaciones;
 
-XI. Actuar como enlace para la implantación del Modelo de Calidad Total, y
+> <small>(REFORMADA, P.O. 12 DE OCTUBRE DE 2011)</small>
 
-XII. Las demás que le confieran las disposiciones jurídicas aplicables o le delegue la persona titular de la Secretaría.
+X. Planear, programar y presupuestar, en coordinación con las diferentes unidades administrativas dé la Secretaría, la elaboración y seguimiento de los Programas Operativos Anuales de cada una de éstas, así como integrar y elaborar informes del avance programático trimestral, para su presentación a la Secretaría de Finanzas y Planeación;
+
+> <small>(ADICIONADA, P.O. 12 DE OCTUBRE DE 2011)</small>
+
+XI. Tener a su adscripción la UTIC de la Secretaría, la cual tendrá a su cargo el desempeño de las funciones relativas a tecnologías de la información y comunicaciones al interior de la Secretaría;
+
+> <small>(ADICIONADA, P.O. 12 DE OCTUBRE DE 2011)</small>
+
+XII. Coordinar, dirigir y controlar, conforme a la política aprobada por la persona titular de la Secretaría, a las unidades de coordinación administrativa, para el adecuado desempeño de las atribuciones conferidas;
+
+XIII. Actuar como enlace para la implantación del Modelo de Calidad Total, y
+
+XIV. Las demás que le confieran las disposiciones jurídicas aplicables o le delegue la persona titular de la Secretaría.
+
+> <small>(ADICIONADO, P.O. 12 DE OCTUBRE DE 2011)</small>
+
+Artículo 17 BIS.- A la Unidad de Asesoría Jurídica le corresponderá ejercer las facultades específicas siguientes:
+
+I. Proponer a la persona titular de la Secretaría, las normas de carácter general, las políticas, bases o lineamientos específicos del área a su cargo, conforme a las disposiciones jurídicas aplicables;
+
+II. Asesorar jurídicamente en las adquisiciones de bienes, enajenaciones, arrendamientos, prestación de servicios generales, mantenimiento y control patrimonial de bienes, aplicación de la normatividad en temas de recursos humanos y desarrollo organizacional, cuando así le sea solicitado;
+
+III. Coordinarse activamente con las unidades administrativas de la Consejería Jurídica, en los temas correspondientes a la Secretaría, sin invadir la esfera de competencia de esa Dependencia;
+
+IV. Atender las solicitudes y procedimientos en materia de transparencia y acceso a la información pública, asesorando y orientando a las unidades administrativas que conforman la Secretaría;
+
+V. Revisar y rubricar los instrumentos de naturaleza jurídica, tales como contratos, convenios, anteproyectos de iniciativas de leyes, reglamentos, decretos, acuerdos y demás ordenamientos y que por razón de su naturaleza y atribuciones, le corresponda firmar y autorizar directamente a la persona titular de la Secretaría;
+
+VI. Asesorar y orientar jurídicamente, a la persona titular de la Secretaría en la elaboración de convenios que se celebren, en el ámbito de su competencia, con la Federación, los demás Poderes, los Órganos Constitucionales Autónomos, Entidades Federativas, Municipios y particulares;
+
+VII. Participar en aquellos casos que así se requieran, en los cuerpos colegiados de los que forme parte la Secretaría, siempre por instrucción expresa y designación de la persona titular de la Secretaría;
+
+VIII. Asistir legalmente cuando así lo requiera, a la persona titular de la Secretaría, así como a las Unidades Administrativas que la conforman, sobre el trámite y resolución de los recursos y demás procedimientos administrativos, en el ámbito de su competencia;
+
+IX. Difundir a las unidades administrativas que integran la Secretaría, la normatividad necesaria para el desempeño de sus funciones;
+
+X. Elaborar y proponer a la persona titular de la Secretaría, los proyectos de Ley, Reglamentos y demás disposiciones jurídicas en el ámbito de su competencia;
+
+XI. Suscribir los documentos relativos al ejercicio de sus facultades, así como aquellos que le sean señalados por instrucción directa o por delegación expresa de la persona titular de la Secretaría, y
+
+XII. Las demás que le encomiende o delegue la persona titular de la Secretaría.
 
 ### CAPÍTULO QUINTO. DE LAS COORDINACIONES ADMINISTRATIVAS Y DE LAS UTICS DE LA ADMINISTRACIÓN PÚBLICA CENTRAL
 
@@ -483,21 +551,29 @@ Las personas titulares de las Unidades responsables de la Coordinación Administ
 
 ### CAPÍTULO SEXTO. DE LAS SUPLENCIAS Y ENCARGADOS DE DESPACHO
 
+> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2011)</small>
+
 ###### Artículo 21.
 
-Para el despacho y resolución de los asuntos que le corresponden, durante las ausencias temporales de la persona titular de la Secretaría, el ejercicio de sus atribuciones estará a cargo de la persona titular de la Dirección General que ésta designe, con excepción de las no delegables.
+Para el despacho y resolución de los asuntos que le corresponden, con excepción de las no delegables, durante las ausencias temporales de la persona titular de la Secretaría, el ejercicio de sus atribuciones estará a cargo de la persona titular de la Dirección General o de la Unidad de Asesoría Jurídica que designe al efecto.
+
+> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2011)</small>
 
 ###### Artículo 22.
 
-Las ausencias temporales de las personas titulares de las Direcciones Generales, se cubrirán por el Director(a) de Área o Subdirector(a) que designe la persona Titular de la Secretaría, a propuesta de la persona titular de la Dirección General.
+las ausencias temporales de las personas titulares de las Direcciones Generales y de la Unidad de Asesoría Jurídica, se cubrirán por el o la titular de la Dirección de Área o Subdirección que designe la persona titular de la Secretaría, a propuesta del titular de la Dirección General o de la Unidad de Asesoría Jurídica, según corresponda.
+
+> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2011)</small>
 
 ###### Artículo 23.
 
-Cuando por cualquier motivo no exista titular designado en alguna de las Direcciones Generales, la persona titular de la Secretaría, podrá delegar las funciones propias del cargo a la persona titular de alguna otra Dirección General dentro de la Dependencia, o en su caso, en alguna persona de la Dirección General involucrada de nivel inmediato inferior, quienes no dejarán de desempeñar el cargo que originalmente ostentan, pero serán designados como Encargados(as) de Despacho de la Dirección General que temporalmente se encuentre sin titular y hasta en tanto se realice la designación y nombramiento definitivo, pudiendo desempeñar legalmente las atribuciones que originalmente corresponden a la persona Titular de ésa Dirección General, sin que ello genere mayores derechos o prestaciones de los que legalmente le corresponden por su cargo original.
+Cuando por cualquier motivo no exista titular designado en alguna de las Direcciones Generales o de la Unidad de Asesoría Jurídica, la persona titular de la Secretaría, podrá encomendar las funciones propias del cargo a la persona titular de alguna otra Dirección General dentro de la Dependencia; o, en su caso, en alguna persona de nivel inmediato inferior de la Dirección General o de la Unidad de Asesoría Jurídica que corresponda, quienes no dejarán de desempeñar el cargo que originalmente ostentan, pero serán designados como Encargados de Despacho de la Dirección General o de la Unidad de Asesoría Jurídica que temporalmente se encuentre sin titular, hasta en tanto se realice la designación y nombramiento definitivo en términos de Ley, pudiendo desempeñar legalmente y por el tiempo permitido las atribuciones que originalmente corresponden a la persona titular de esa Dirección General o de la Unidad de Asesoría Jurídica, sin que por ello se generen mayores derechos o prestaciones de los que legalmente le corresponden por su cargo original.
+
+> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2011)</small>
 
 ###### Artículo 24.
 
-Las ausencias temporales de los Directores (as) de Área, Subdirectores (as) y demás personal, se cubrirán por el personal de la jerarquía inmediata inferior que designe la persona Titular de la Dirección General.
+Las ausencias temporales de quienes sean titulares de las Direcciones (as) de Área, Subdirecciones y demás personal se cubrirán por el personal de la jerarquía inmediata inferior que designe la persona titular de la Dirección General que corresponda o de la Unidad de Asesoría Jurídica.
 
 ## TRANSITORIOS
 
@@ -528,3 +604,13 @@ EL SECRETARIO DE GESTIÓN E INNOVACIÓN GUBERNAMENTAL
 C. VÍCTOR MANUEL MENDOZA MORENO
 
 RÚBRICAS.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 12 DE OCTUBRE DE 2011.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos.
+
+SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
+
+TERCERO. Los Manuales de Organización, y de Políticas y Procedimientos de la Secretaría, que por razón de este Decreto, deban ser modificados, deberán actualizarse en un plazo no mayor de sesenta días hábiles; y en tanto se expidan dichos Manuales seguirán vigentes los anteriores. En su caso, la persona titular de la Secretaría resolverá las cuestiones de procedimiento y operación que se originen por la aplicación del presente Decreto.
