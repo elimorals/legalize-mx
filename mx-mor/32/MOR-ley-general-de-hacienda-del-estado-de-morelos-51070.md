@@ -4,7 +4,7 @@ identifier: "MOR-ley-general-de-hacienda-del-estado-de-morelos-51070"
 country: "mx"
 rank: "ley_general"
 publication_date: "2006-07-05"
-last_updated: "2011-09-01"
+last_updated: "2011-10-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51070&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY GENERAL DE HACIENDA EL ESTADO DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE SEPTIEMBRE DE 2011.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE OCTUBRE DE 2011.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Morelos, el miércoles 5 de julio de 2006.
 
@@ -105,6 +105,8 @@ La Secretaría de Finanzas y Planeación del Estado interpretará para efectos a
 
 OBJETO
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
 ## TÍTULO SEGUNDO. DE LOS IMPUESTOS
 
 ### CAPÍTULO SEGUNDO. DEL IMPUESTO SOBRE ADQUISICIÓN DE VEHÍCULOS AUTOMOTORES USADOS
@@ -113,99 +115,57 @@ OBJETO
 
 ###### Artículo 8.
 
-Es objeto de este impuesto la tenencia o uso de vehículos automotores, cuyos modelos tengan más de diez años de antigüedad y se encuentren registrados en el padrón vehicular del Estado de Morelos.
-
-Para los efectos de este impuesto, se considerará como modelo del vehículo el que corresponda al año de su fabricación.
+(DEROGADO, P.O. 12 DE OCTUBRE DE 2011)
 
 SUJETO
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
 ###### Artículo 9.
 
-Son sujetos de este impuesto las personas jurídico-individuales o físicas y jurídico-colectivas o morales propietarias, poseedoras o tenedoras de vehículos automotores objeto de este impuesto, que se encuentren inscritos en el padrón vehicular del Estado de Morelos.
+(DEROGADO, P.O. 12 DE OCTUBRE DE 2011)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 10.
 
-Son responsables solidarios del pago de este impuesto:
-
-I. Quienes sin haberse cerciorado del pago de este impuesto, adquieran por cualquier título la propiedad, tenencia o uso de vehículos objeto de este gravamen y hasta por el monto del crédito fiscal omitido y sus accesorios;
-
-II. Quienes reciban en consignación o comisión, para su enajenación, los vehículos objeto de este gravamen, hasta por el monto del impuesto y sus accesorios que se hubiesen dejado de pagar; y
-
-III. Los servidores públicos que en ejercicio de sus funciones autoricen altas, cambio de placas, tarjetas de circulación, cambios o modificaciones de dominio, sin cerciorarse del pago de este impuesto.
+(DEROGADO, P.O. 12 DE OCTUBRE DE 2011)
 
 BASE Y TASA
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
 ###### Artículo 11.
 
-El impuesto se determinará a través de cuotas y con base en los siguientes supuestos:
-
-I. En el caso de vehículos de uso particular, la determinación se hará atendiendo al número de cilindros del motor, conforme a lo siguiente:
-
-Número de cilindros: Cuota
-
-Hasta 4 cilindros $ 80.00
-
-De 5 cilindros $100.00
-
-De 6 cilindros $120.00
-
-De 8 y hasta 10 cilindros $160.00
-
-De más de 10 cilindros $250.00
-
-II. En el caso de vehículos importados al país, diferentes a los de fabricación nacional, se pagará una tarifa de $320.00 por cada uno de ellos;
-
-III. En el caso de motocicletas, se pagará una tarifa de $80.00;
-
-IV. En el caso de vehículos destinados al transporte público de pasajeros, la determinación se hará atendiendo a su capacidad, conforme a lo siguiente:
-
-Capacidad del vehículo Cuota
-
-De 1 a 10 pasajeros $200.00
-
-De 11 a 30 pasajeros $250.00
-
-De 31 en adelante $300.00
-
-V. En el caso de vehículos de carga o de arrastre o cualquier otro vehículo no comprendido dentro de los anteriores, se pagará una tarifa de $50.00 por cada tonelada de capacidad de carga o de arrastre.
-
-El impuesto sobre tenencia o uso de vehículos se cubrirá mediante declaración, conjuntamente con los derechos que se causen por servicios de control vehicular.
+(DEROGADO, P.O. 12 DE OCTUBRE DE 2011)
 
 PAGO
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
 ###### Artículo 12.
 
-El impuesto se causará anualmente y se pagará dentro de los tres primeros meses de cada año, mediante declaración que formule el contribuyente u obligado ante las oficinas recaudadoras de la Secretaría de Finanzas y Planeación del Estado a que corresponda su circunscripción, ante las instituciones autorizadas o a través de medios electrónicos en las formas previamente aprobadas y autorizadas por la misma Secretaría.
+(DEROGADO, P.O. 12 DE OCTUBRE DE 2011)
 
 OBLIGACIONES
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
 ###### Artículo 13.
 
-Los contribuyentes deberán presentar ante la oficina recaudadora respectiva, documento original con que se acredite la propiedad o posesión de él o los vehículos objeto de este gravamen.
+(DEROGADO, P.O. 12 DE OCTUBRE DE 2011)
 
-La autoridad fiscal queda facultada para exigir cualquier otro documento en donde consten los datos a que se refiere el artículo 11 de esta Ley, para cerciorarse de la base del impuesto y de la cuota que le corresponde, así como para acreditar la legal estancia de la unidad vehicular en el país.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 14.
 
-La autoridad fiscal competente, no dará trámite a ninguna solicitud de alta, expedición de placas, calcomanías, autorizaciones, permisos, cambio de propietario, ni de tarjetas de circulación, sin que previamente se haya acreditado el pago de este impuesto.
+(DEROGADO, P.O. 12 DE OCTUBRE DE 2011)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 15.
 
-No se pagará el impuesto, en los términos de este Capítulo, por la tenencia o uso de los vehículos propiedad de la Federación, del Estado o de los Municipios que sean utilizados para la prestación de los siguientes servicios públicos:
-
-I. Rescate;
-
-II. Patrullas;
-
-III. Transportes de limpia;
-
-IV. Pipas de agua;
-
-V. Servicios funerarios;
-
-VI. Ambulancias, y
-
-VII. Los destinados a los cuerpos de bomberos.
+(DEROGADO, P.O. 12 DE OCTUBRE DE 2011)
 
 ### CAPÍTULO TERCERO. DEL IMPUESTO SOBRE LA PRESTACIÓN DE SERVICIOS DE HOSPEDAJE
 
@@ -3436,3 +3396,9 @@ PRIMERO.- Aprobado que sea el presente decreto, entrará en vigor a los treinta 
 SEGUNDO.- Túrnese el presente Decreto al Titular del Poder Ejecutivo del Estado de Morelos, para los efectos constitucionales respectivos.
 
 TERCERO.- Se derogan las disposiciones de las Leyes de Ingresos Municipales correspondientes, en lo relativo a los costos de materiales utilizados en el proceso de respuesta a las solicitudes de acceso a la información pública u otros conceptos análogos y todo aquello que se contraponga a lo establecido en la presente ley.
+
+P.O. 12 DE OCTUBRE DE 2011.
+
+PRIMERO.- El presente Decreto será publicado en el Periódico Oficial "Tierra y Libertad", órgano de difusión oficial del Gobierno del Estado de Morelos, y entrará en vigor el primero de enero de 2012.
+
+SEGUNDO.- Túrnese el presente Decreto al Titular del Poder Ejecutivo del Estado de Morelos, para los efectos que señala el artículo 47 de la Constitución Política del Estado Libre y Soberano de Morelos.
