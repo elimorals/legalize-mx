@@ -4,7 +4,7 @@ identifier: "CPEUM"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-02-05"
-last_updated: "2011-08-17"
+last_updated: "2011-10-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "CPEUM"
 
 CONSTITUCION POLITICA DE LOS ESTADOS UNIDOS MEXICANOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 17 DE AGOSTO DE 2011.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 12 DE OCTUBRE DE 2011.
 
 Constitución publicada en el Diario Oficial de la Federación, el lunes 5 de febrero de 1917.
 
@@ -206,13 +206,13 @@ Toda persona tiene derecho a un medio ambiente adecuado para su desarrollo y bie
 
 Toda familia tiene derecho a disfrutar de vivienda digna y decorosa. La Ley establecerá los instrumentos y apoyos necesarios a fin de alcanzar tal objetivo.
 
-> <small>(REFORMADO, D.O.F. 7 DE ABRIL DE 2000)</small>
+> <small>(REFORMADO, D.O.F. 12 DE OCTUBRE DE 2011)</small>
 
-Los niños y las niñas tienen derecho a la satisfacción de sus necesidades de alimentación, salud, educación y sano esparcimiento para su desarrollo integral.
+En todas las decisiones y actuaciones del Estado se velará y cumplirá con el principio del interés superior de la niñez, garantizando de manera plena sus derechos. Los niños y las niñas tienen derecho a la satisfacción de sus necesidades de alimentación, salud, educación y sano esparcimiento para su desarrollo integral. Este principio deberá guiar el diseño, ejecución, seguimiento y evaluación de las políticas públicas dirigidas a la niñez.
 
-> <small>(ADICIONADO, D.O.F. 7 DE ABRIL DE 2000)</small>
+> <small>(REFORMADO, D.O.F. 12 DE OCTUBRE DE 2011)</small>
 
-Los ascendientes, tutores y custodios tienen el deber de preservar estos derechos. El Estado proveerá lo necesario para propiciar el respeto a la dignidad de la niñez y el ejercicio pleno de sus derechos.
+Los ascendientes, tutores y custodios tienen la obligación de preservar y exigir el cumplimiento de estos derechos y principios.
 
 (ADICIONADO, D.O.F. 7 DE ABRIL DE 2000) (F. DE E., D.O.F. 12 DE ABRIL DE 2000)
 
@@ -221,6 +221,10 @@ El Estado otorgará facilidades a los particulares para que coadyuven al cumplim
 > <small>(ADICIONADO, D.O.F. 30 DE ABRIL DE 2009)</small>
 
 Toda persona tiene derecho al acceso a la cultura y al disfrute de los bienes y servicios que presta el Estado en la materia, así como el ejercicio de sus derechos culturales. El Estado promoverá los medios para la difusión y desarrollo de la cultura, atendiendo a la diversidad cultural en todas sus manifestaciones y expresiones con pleno respeto a la libertad creativa. La ley establecerá los mecanismos para el acceso y participación a cualquier manifestación cultural.
+
+> <small>(ADICIONADO, D.O.F. 12 DE OCTUBRE DE 2011)</small>
+
+Toda persona tiene derecho a la cultura física y a la práctica del deporte. Corresponde al Estado su promoción, fomento y estímulo conforme a las leyes en la materia.
 
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1974)</small>
 
@@ -1734,9 +1738,9 @@ XXIX-H.- Para expedir leyes que instituyan tribunales de lo contencioso-administ
 
 XXIX-I.- Para expedir leyes que establezcan las bases sobre las cuales la Federación, los estados, el Distrito Federal y los municipios, coordinarán sus acciones en materia de protección civil, y
 
-> <small>(ADICIONADA, D.O.F. 28 DE JUNIO DE 1999)</small>
+> <small>(REFORMADA, D.O.F. 12 DE OCTUBRE DE 2011)</small>
 
-XXIX-J.- Para legislar en materia de deporte, estableciendo las bases generales de coordinación de la facultad concurrente entre la Federación, los estados, el Distrito Federal y municipios; asimismo de la participación de los sectores social y privado, y
+XXIX-J.- Para legislar en materia de cultura física y deporte con objeto de cumplir lo previsto en el artículo 4o. de esta Constitución, estableciendo la concurrencia entre la Federación, los Estados, el Distrito Federal y los municipios; así como de la participación de los sectores social y privado;
 
 > <small>(ADICIONADA, D.O.F. 29 DE SEPTIEMBRE DE 2003)</small>
 
@@ -1761,6 +1765,10 @@ XXIX-Ñ.- Para expedir leyes que establezcan las bases sobre las cuales la Feder
 > <small>(ADICIONADA, D.O.F. 30 DE ABRIL DE 2009)</small>
 
 XXIX-O.- Para legislar en materia de protección de datos personales en posesión de particulares.
+
+> <small>(ADICIONADA, D.O.F. 12 DE OCTUBRE DE 2011)</small>
+
+XXIX-P.- Expedir leyes que establezcan la concurrencia de la Federación, los Estados, el Distrito Federal y los Municipios, en el ámbito de sus respectivas competencias, en materia de derechos de niñas, niños y adolescentes, velando en todo momento por el interés superior de los mismos y cumpliendo con los tratados internacionales de la materia, de los que México sea parte.
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 24 DE OCTUBRE DE 1942)</small>
 
@@ -5831,6 +5839,20 @@ Segundo. El Congreso de la Unión deberá expedir la Ley General para Prevenir y
 D.O.F. 17 DE AGOSTO DE 2011.
 
 ÚNICO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 12 DE OCTUBRE DE 2011.
+
+DECRETO POR EL QUE SE ADICIONA UN PARRAFO DECIMO AL ARTICULO 4o. Y SE REFORMA LA FRACCION XXIX-J DEL ARTICULO 73 DE LA CONSTITUCION POLITICA DE LOS ESTADOS UNIDOS MEXICANOS.
+
+Primero. El presente decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo. En el plazo de un año, a partir de la publicación del presente Decreto, el Congreso de la Unión expedirá la legislación general reglamentaria del artículo cuarto constitucional en materia de cultura física y deporte
+
+D.O.F. 12 DE OCTUBRE DE 2011.
+
+DECRETO POR EL QUE SE REFORMAN LOS PARRAFOS SEXTO Y SEPTIMO DEL ARTICULO 4o. Y SE ADICIONA LA FRACCION XXIX-P AL ARTICULO 73, DE LA CONSTITUCION POLITICA DE LOS ESTADOS UNIDOS MEXICANOS.
+
+ÚNICO.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 
 ###### ARTICULO PRIMERO.
 
