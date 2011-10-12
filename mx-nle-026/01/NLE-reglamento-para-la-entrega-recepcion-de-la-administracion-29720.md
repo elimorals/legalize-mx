@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-para-la-entrega-recepcion-de-la-administracion-29720
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-03-05"
-last_updated: "2009-02-02"
+last_updated: "2011-10-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=29720&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "NLE"
 ---
 # REGLAMENTO PARA LA ENTREGA-RECEPCION DE LA ADMINISTRACION PUBLICA MUNICIPAL DE GUADALUPE, NUEVO LEON
 
-REGLAMENTO PARA LA ENTREGA-RECEPCION DE LA ADMINISTRACION PUBLICA MUNICIPAL DE GUADALUPE, N.L.
+REGLAMENTO PARA LA ENTREGA-RECEPCIÓN DE LA ADMINISTRACIÓN PÚBLICA MUNICIPAL DE GUADALUPE, N.L.
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE FEBRERO DE 2009.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE OCTUBRE DE 2011.
 
 Reglamento publicado en el Sumario del Periódico Oficial del Estado de Nuevo León, el miércoles 05 de marzo de 2003.
 
@@ -95,7 +95,9 @@ I. Organización.- Informe de Actividades y Cumplimiento al Plan Municipal de De
 
 II. Recursos Financieros.- Cuenta pública, estados financieros, presupuestos, cuentas bancarias, inversiones, cuentas por cobrar y por pagar, deuda pública, bienes inmuebles, documentación comprobatoria de ingresos y egresos y demás información relativa.
 
-III. Recursos Humanos.- Plantillas autorizadas y relación de personal que incluya clasificación, situación laboral, antigüedad, prestaciones y demás información relativa de cada Servidor Público.
+> <small>(REFORMADA, P.O. 12 DE OCTUBRE DE 2011)</small>
+
+III. Recursos Humanos.- Plantillas autorizadas y relación de personal que incluya clasificación, sueldo, antigüedad, prestaciones y demás información relativa de cada Servidor Público
 
 IV. Recursos Materiales.- Detalle de mobiliario y equipo, vehículos, maquinaria, herramientas, armamento, utensilios, sistemas de cómputo, sellos oficiales, inventario en almacenes, libros y publicaciones y demás información relativa.
 
@@ -115,15 +117,21 @@ Todos estos asuntos serán referenciados y deberán guardar congruencia con el R
 
 Los Servidores Públicos involucrados en la ejecución de los trabajos de la Entrega-Recepción deberán atender los principios de legalidad, honradez, transparencia, lealtad, imparcialidad, eficacia, eficiencia y oportunidad en el ejercicio de sus respectivas funciones, debiendo mantener permanentemente actualizados sus registros, controles y demás documentación relativa a su empleo, cargo o comisión.
 
+> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2011)</small>
+
 ###### Artículo 7.
 
-Para integrar los libros de Anexos del Acta de Entrega-Recepción, los Titulares de las Dependencias, Unidades Administrativas y Organismos Descentralizados de la Administración Pública Municipal de Guadalupe, Nuevo León son los directamente responsables de preparar los anexos y autorizarlos con su firma, dichos anexos contendrán entre otros elementos, la situación de los asuntos y recursos de organización, financieros, humanos, materiales, obras y programas, jurídicos, plan municipal de desarrollo y generales bajo su responsabilidad, correspondientes al último ejercicio fiscal.
+Para integrar los libros de Anexos del Acta de Entrega-Recepción, los Titulares de las Dependencias, Unidades Administrativas y Organismos Descentralizados de la Administración Pública Municipal de Guadalupe, Nuevo León; son en conjunto con los Coordinadores Administrativos los directamente responsables de preparar los anexos y autorizarlos con su firma, dichos anexos contendrán entre otros elementos, la situación de los asuntos y recursos de organización, financieros, humanos, materiales, obras y programas, jurídicos, plan municipal de desarrollo y generales bajo su responsabilidad, correspondientes al último ejercicio fiscal.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE OCTUBRE DE 2011)</small>
 
 ###### Artículo 8.
 
-Se faculta a la Contraloría Municipal para que coordine las acciones del Programa de Entrega-Recepción, así como la elaboración e implementación de los Lineamientos, Criterios y Anexos que deberán estar contenidos en el Manual de Políticas y Procedimientos, que especifique la forma, términos y alcances de la información que deberá proporcionarse, misma que de ninguna manera podrá dejar de abarcar los aspectos mínimos que se indican en el presente Reglamento.
+Se faculta a la Contraloría Municipal a través de la Dirección de Normatividad y Modernización Administrativa, para que coordine las acciones del Programa de Entrega-Recepción, así como la elaboración e implementación de los Lineamientos, Criterios y Anexos que deberán estar contenidos en el Manual de Políticas y Procedimientos, que especifique la forma, términos y alcances de la información que deberá proporcionarse, misma que de ninguna manera podrá dejar de abarcar los aspectos mínimos que se indican en el presente Reglamento.
 
-Dentro del Programa de Entrega-Recepción, la Contraloría Municipal establecerá el Sistema de Seguimiento, Verificación y Solventación de Observaciones detectadas en las diferentes revisiones practicadas por la propia Contraloría, el cual se instrumentará y operará mediante ensayos previos.
+> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2011)</small>
+
+Dentro del Programa de Entrega-Recepción, la Contraloría Municipal a través de la Dirección de Normatividad y Modernización Administrativa establecerá el Sistema de Seguimiento, Verificación y Solventación de Observaciones detectadas en las diferentes revisiones practicadas por la propia Contraloría, el cual se instrumentará y operará mediante ensayos previos.
 
 > <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2009)</small>
 
@@ -171,9 +179,11 @@ Con la finalidad de garantizar la continuidad de los Programas de Trabajo y Proy
 
 En lo relacionado con los Recursos asignados a los Regidores y Síndicos del R. Ayuntamiento, será responsabilidad de la Secretaría del Ayuntamiento integrar la documentación correspondiente para su Entrega-Recepción, de acuerdo a lo señalado en los artículos 5 y 7 de este Reglamento.
 
+> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2011)</small>
+
 ###### Artículo 14.
 
-En el caso de que el Titular de la Dependencia, Unidad Administrativa u Organismo Descentralizado sea ratificado en su puesto, deberá rendir un informe por escrito en los términos que estipulan los artículos 5 y 7 de este Reglamento, ante su superior jerárquico y ante la Contraloría Municipal, a más tardar dentro de los 10-diez días hábiles siguientes a la Ceremonia de Entrega-Recepción.
+En el caso de que el Titular de la Dependencia, Unidad Administrativa u Organismo Descentralizado sea ratificado en su puesto, deberá rendir un informe por escrito en los términos que estipulan los artículos 5 y 7 de este Reglamento, ante su superior jerárquico y ante la Contraloría Municipal, a más tardar dentro de los 10-diez días hábiles siguientes a la Ceremonia de Entrega-Recepción, en caso contrario se elaborara el documento del Acta Administrativa de Entrega-Recepción, (sic)
 
 > <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2009)</small>
 
@@ -181,9 +191,11 @@ En el caso de que el Titular de la Dependencia, Unidad Administrativa u Organism
 
 En relación a los hechos que sucedan entre la fecha oficial de corte de información y del Acto protocolario de Entrega-Recepción, los Servidores Públicos salientes y entrantes, deberán elaborar un Acta Circunstanciada en la que se detalle la situación de los asuntos y Recursos Financieros, Humanos, Materiales, Obras (sic) Programas, Jurídicos, Plan Municipal de Desarrollo y Generales que hayan presentado movimientos, en presencia de los testigos y la representación de la Contraloría Municipal.
 
+> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2011)</small>
+
 ###### Artículo 16.
 
-La verificación y validación física del contenido del Acta Administrativa de Entrega-Recepción y sus Anexos por parte de los Servidores Públicos entrantes, deberán llevarse a cabo en un término no mayor de 90- noventa días contados a partir de la fecha en que se llevó a cabo el acto de entrega-recepción, de acuerdo a lo que establece la Ley Orgánica de la Administración Pública Municipal del Estado de Nuevo León.
+Al término del periodo constitucional del R. Ayuntamiento, la verificación y validación física del contenido del Acta Administrativa de Entrega-Recepción y sus Anexos por parte de los Servidores Públicos entrantes, deberán llevarse a cabo en un término no mayor de 90- noventa días contados a partir de la fecha en que se llevó a cabo el acto de entrega- recepción, de acuerdo a lo que establece la Ley Orgánica de la Administración Pública Municipal del Estado de Nuevo León.
 
 ###### Artículo 17.
 
@@ -219,6 +231,10 @@ VII. Secretario de Contraloría y Desarrollo Administrativo
 
 Las funciones que asuman los integrantes de esta Comisión no podrán ser delegadas.
 
+> <small>(ADICIONADO, P.O. 12 DE OCTUBRE DE 2011)</small>
+
+La Secretaría de Contraloría y Desarrollo Administrativo, será la encargada de coordinar los trabajos que realizará la Comisión de Transición de la Administración Pública en función.
+
 ###### Artículo 20.
 
 Ambas Comisiones de Transición, en coordinación, prepararan la transferencia de información sobre el estado que guardan los asuntos y recursos de organización, financieros, humanos, materiales, obras y programas, jurídicos, plan municipal de desarrollo y generales, sin que esto implique la entrega de recursos o documentación alguna.
@@ -243,9 +259,11 @@ La Comisión de Transición entrante no podrá ejercer mas atribuciones que las 
 
 ### CAPITULO CUARTO. DE LA ENTREGA-RECEPCION DE LOS TITULARES DE LAS DEPENDENCIAS, UNIDADES ADMINISTRATIVAS Y ORGANISMOS DESCENTRALIZADOS
 
-###### Artículo 25.
+> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2011)</small>
 
-Los Titulares de las Dependencias, Unidades Administrativas y Organismos Descentralizados que durante la gestión constitucional del Gobierno Municipal sean removidos, se separen del cargo o se haya expedido un nombramiento en favor de otra persona y para cumplir con lo dispuesto en el artículo 50 fracción XXIV de la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de Nuevo León, deberán preparar la Entrega-Recepción del despacho, instalaciones y asuntos a quienes los sustituyan en sus atribuciones, precisando la situación que guardan los asuntos y recursos de organización, financieros, humanos, materiales, obras y programas, jurídicos, plan municipal de desarrollo y generales asignados para el ejercicio de sus funciones en un libro que contenga los datos relativos al despacho a su cargo.
+###### Articulo 25.
+
+Los Titulares de las Dependencias, Unidades Administrativas y Organismos Descentralizados que durante la gestión constitucional del Gobierno Municipal sean removidos, se separen del cargo o se haya expedido un nombramiento en favor de otra persona y para cumplir con lo dispuesto en el artículo 50 fracción XXIV de la Ley de Responsabilidades de tos Servidores Públicos del Estado y Municipios de Nuevo León, deberán preparar en conjunto con los Coordinadores Administrativos la Entrega-Recepción del despacho, instalaciones y asuntos a quienes los sustituyan en sus atribuciones, precisando la situación que guardan los asuntos y recursos de organización, financieros, humanos, materiales, obras y programas, jurídicos, plan municipal de desarrollo y generales asignados para el ejercicio de sus funciones en un libro que contenga los datos relativos al despacho a su cargo.
 
 ###### Artículo 26.
 
@@ -261,9 +279,13 @@ El Acta de Entrega-Recepción y sus Anexos serán integrados en original y dos c
 
 I. Un original para el Archivo de la Contraloría Municipal,
 
-II. La primera copia para el Servidor Público entrante, y
+> <small>(REFORMADA, P.O. 12 DE OCTUBRE DE 2011)</small>
 
-III. La segunda copia para el Servidor Público saliente.
+II. La primera copia para el Servidor Público Entrante, y
+
+> <small>(REFORMADA, P.O. 12 DE OCTUBRE DE 2011)</small>
+
+III. La segunda copia para el Servidor Público Saliente.
 
 ###### Artículo 28.
 
@@ -289,9 +311,15 @@ En caso de incumplimiento con la obligación del párrafo anterior el servidor p
 
 La verificación física o revisión que lleve a cabo el Servidor Público entrante de los diferentes Anexos incluidos en el Acta de Entrega-Recepción, se realizará dentro de los 30-treinta días naturales siguientes a la firma del Acta.
 
+> <small>(ADICIONADO, P.O. 12 DE OCTUBRE DE 2011)</small>
+
+En los casos en que el Servidor Público Entrante, requiera una prorroga, deberá solicitarlo mediante escrito a la Secretaría de Contraloría y Desarrollo Administrativo con 5 días naturales de antelación a la fecha del vencimiento del plazo, dicha prorroga solo se concederá por una sola vez, y hasta por un periodo 30 (sic) días naturales.
+
+> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2011)</small>
+
 ###### Artículo 32.
 
-En caso de que el Servidor Público entrante determine la existencia de irregularidades en la verificación y validación del Acta de Entrega-Recepción y sus Anexos, deberá informarlo por escrito a la Contraloría Municipal, para que requiera al Servidor Público saliente y éste lleve a cabo las aclaraciones pertinentes sobre las observaciones consignadas.
+En caso de que el Servidor Público entrante determine la existencia o inexistencia de irregularidades en la verificación y validación del Acta de Entrega-Recepción y sus Anexos, deberá informarlo por escrito a la Contraloría Municipal, para que requiera, en caso necesario, al Servidor Público saliente y éste lleve a cabo las aclaraciones pertinentes sobre las observaciones consignadas.
 
 ### CAPITULO QUINTO. DEL CONTROL, VIGILANCIA Y SANCIONES
 
@@ -311,9 +339,11 @@ III. Dirimir las controversias que llegaren a suscitarse en el procedimiento de 
 
 IV. Fincar, en su caso, las responsabilidades que correspondan y hacer del conocimiento de las mismas a las autoridades competentes.
 
+> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2011)</small>
+
 ###### Artículo 35.
 
-El incumplimiento de las disposiciones contenidas en el presente Reglamento será sancionado en los términos de la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de Nuevo León vigente y demás ordenamientos aplicables en la materia.
+El Servidor Publico que incumpla con las disposiciones contenidas en el presente Reglamento, será sancionado en los términos de la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de Nuevo León vigente y demás ordenamientos aplicables en la materia.
 
 ###### Artículo 36.
 
@@ -362,3 +392,9 @@ P.O. 2 DE FEBRERO DE 2009.
 ARTÍCULO CUARTO (SIC).- Cúmplase.
 
 LA MODIFICACION CON ANTELACION CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE NUEVO LEON.
+
+P.O. 12 DE OCTUBRE DE 2011.
+
+PRIMERO.- Las presentes reformas por adición al Reglamento para la Entrega - Recepción de la Administración Pública Municipal de Guadalupe, Nuevo León, entraran en vigor al día hábil siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
+
+SEGUNDO.- Se abrogan todas las disposiciones, reglamentarias, circulares, acuerdos y normas que contravengan al contenido de las presentes reformas por adición al Reglamento para la Entrega - Recepción de la Administración Pública Municipal de Guadalupe, Nuevo León
