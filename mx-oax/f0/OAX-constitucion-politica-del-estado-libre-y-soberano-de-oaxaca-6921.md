@@ -4,7 +4,7 @@ identifier: "OAX-constitucion-politica-del-estado-libre-y-soberano-de-oaxaca-692
 country: "mx"
 rank: "constitucion"
 publication_date: "1922-04-04"
-last_updated: "2011-09-28"
+last_updated: "2011-10-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6921&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "OAX"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE JUNIO DE 2011.
-
-> <small>N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 28 DE SEPTIEMBRE DE 2011 NO APLICA AL ARTICULADO DEL DECRETO 397 PUBLICADO EN EL P.O. DE 15 DE ABRIL DE 2011.</small>
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE OCTUBRE DE 2011.
 
 Constitución promulgada por bando solemne, el martes 4 de abril de 1922.
 
@@ -1323,7 +1321,7 @@ VII. Erigir nuevos Municipios dentro de los ya existentes, siempre que los inter
 
 > <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2000)</small>
 
-VIII. Suprimir Municipios, siempre que sus rentas no alcancen a cubrir sus Presupuestos de Egresos o carezcan de capacidad para manejarse por sí mismos y administrarse a través de sus respectivo Ayuntamientos o cuando los núcleos de población que los integran no lleguen a los 15 mil habitantes;
+VIII. Suprimir Municipios, siempre que sus rentas no alcancen a cubrir sus Presupuestos de Egresos o carezcan de capacidad para manejarse por sí mismos y administrarse a través de sus respectivos Ayuntamientos o cuando los núcleos de población que los integran no lleguen a los 15 mil habitantes;
 
 > <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2000)</small>
 
@@ -3843,7 +3841,9 @@ P.O. 15 DE ABRIL DE 2011.
 
 PRIMERO. El presente decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
-SEGUNDO. El Congreso del Estado expedirá las reformas legales correspondientes dentro de los ciento ochenta días posteriores a la publicación del presente decreto.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE OCTUBRE DE 2011)</small>
+
+SEGUNDO. El Congreso del Estado expedirá las reformas legales correspondientes antes del quince de noviembre del año de la publicación del presente decreto.
 
 Sin condicionar ni limitar el derecho de iniciativa de cada Poder, el Congreso del Estado podrá promover con el Poder Ejecutivo y el Poder Judicial la realización de mesas de análisis para las adecuaciones al marco legal secundario resultado de esta reforma.
 
@@ -3900,6 +3900,10 @@ CUARTO.- A partir de la entrada en vigor del presente decreto, las facultades so
 QUINTO.- La competencia territorial de los jueces de ejecución de sanciones del sistema mixto; será determinada por el Pleno del Tribunal Superior de Justicia atendiendo a la ubicación de los centros de reclusión, si el sentenciado se encuentra privado de su libertad, o en libertad por estar gozando de alguno de los beneficios que el juez o la autoridad administrativa le otorgó.
 
 SEXTO.- En un plazo no mayor a sesenta días, el Congreso del Estado deberá realizar las reformas y adecuaciones pertinentes a las leyes y reglamentos que tengan relación con la ejecución de las penas y medidas de seguridad, a fin de adecuarlas al texto constitucional local y federal.
+
+P.O. 12 DE OCTUBRE DE 2011.
+
+ÚNICO.- El presente Decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE EXPIDEN LA LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN, Y LA LEY DEL SISTEMA PÚBLICO DE RADIODIFUSIÓN DEL ESTADO MEXICANO; Y SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES EN MATERIA DE TELECOMUNICACIONES Y RADIODIFUSIÓN".]
 
