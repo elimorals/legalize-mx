@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-pensiones-y-prestaciones-sociales-para-los-21479"
 country: "mx"
 rank: "ley"
 publication_date: "2001-05-21"
-last_updated: "2001-05-21"
+last_updated: "2011-10-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21479&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE PENSIONES Y PRESTACIONES SOCIALES PARA LOS TRABAJADORES AL SERVICIO DEL ESTADO DE SAN LUIS POTOSI
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE OCTUBRE DE 2011.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de San Luis Potosí, el lunes 21 de mayo de 2001.
 
@@ -75,9 +75,21 @@ X. FONDO DE PENSIONES: Capital constituido por las aportaciones de los trabajado
 
 XI. FONDO SECTORIZADO: Se conforma con los recursos que cada sector dispone y aporta para cubrir sus obligaciones, mismos que se depositan en cuentas bancarias de uso exclusivo de cada grupo cotizador para su administración, de las cuales se pagarán las pensiones, jubilaciones, préstamos y demás beneficios que se les otorgue a los derechohabientes conforme a la presente Ley;
 
-XII. FONDO DE CONTINGENCIA: Es el capital integrado con las aportaciones de cada uno de los sectores cotizadores y las aportaciones del Gobierno del Estado, mismo que será utilizado por cada uno de los sectores en la misma medida y proporción que hayan enterado al fondo. Este fondo será utilizado exclusivamente en el caso extremo de cualquier contingencia, y para el solo propósito de pagar pensiones y jubilaciones a los beneficiarios de cada grupo cotizador, y en ningún caso y por ninguna causa podrá disponer de él un sector diferente al que cotizó, y
+> <small>(REFORMADA, P.O. 13 DE OCTUBRE DE 2011)</small>
 
-XIII. REGLAMENTO: Disposiciones para cada grupo sectorizado que facilita y complementa la exacta observancia de la Ley de Pensiones.
+XII. FONDO DE CONTINGENCIA: Es el capital integrado con las aportaciones de cada uno de los sectores cotizadores y las aportaciones del Gobierno del Estado, mismo que será utilizado por cada uno de los sectores en la misma medida y proporción que hayan enterado al fondo. Este fondo será utilizado exclusivamente en el caso extremo de cualquier contingencia, y para el solo propósito de pagar pensiones y jubilaciones a los beneficiarios de cada grupo cotizador y, en ningún caso, y por ninguna causa, podrá disponer de él un sector diferente al que cotizó;
+
+> <small>(REFORMADA, P.O. 13 DE OCTUBRE DE 2011)</small>
+
+XIII. REGLAMENTO: Disposiciones para cada grupo sectorizado que facilita y complementa la exacta observancia de la Ley de Pensiones;
+
+> <small>(ADICIONADA, P.O. 13 DE OCTUBRE DE 2011)</small>
+
+XIV. SEER: Sistema Educativo Estatal Regular, y
+
+> <small>(ADICIONADA, P.O. 13 DE OCTUBRE DE 2011)</small>
+
+XV. TRABAJADOR DEL SEER; SINDICALIZADO: Servidor público adscrito al Sistema Educativo Estatal Regular, sindicalizado.
 
 ###### ARTICULO 3º.
 
@@ -229,13 +241,17 @@ Cada vez que un grupo cotizador incremente sus aportaciones para el fortalecimie
 
 ### CAPITULO II. DE LOS DESCUENTOS Y APORTACIONES
 
+> <small>(REFORMADO, PO. 13 DE OCTUBRE DE 2011)</small>
+
 ###### ARTICULO 22.
 
-El descuento a los trabajadores para el fortalecimiento de cada fondo en ningún caso será menor del 6 porciento del sueldo, sin tomar en consideración su edad; por lo que se refiere a las prestaciones que comprende los diversos conceptos a cotizar, quedarán reguladas en el reglamento de cada uno de los grupos cotizadores. Los trabajadores que desempeñen dos o más empleos en la administración pública estatal, o municipal en su caso, cubrirán el descuento establecido en este artículo sobre el total de los sueldos efectivamente percibidos.
+El descuento a los trabajadores para el fortalecimiento de cada fondo podrá ser hasta el catorce por ciento del sueldo, sin tomar en consideración su edad; por lo que se refiere a las prestaciones que comprende los diversos conceptos a cotizar, quedarán reguladas en el reglamento de cada uno de los grupos cotizadores. Los trabajadores que desempeñen dos o más empleos en la administración pública estatal, o municipal, en su caso, cubrirán el descuento establecido en este artículo sobre el total de los sueldos efectivamente percibidos.
+
+> <small>(REFORMADO PRIMER PARRAFO, PO. 13 DE OCTUBRE DE 2011)</small>
 
 ###### ARTICULO 23.
 
-Las aportaciones para cada fondo con que deben contribuir las instituciones de la administración pública estatal o municipal en su caso, serán en la misma proporción que los descuentos de los derechohabientes aportan, y que en ningún caso será menor al 6 porciento sobre los sueldos de los trabajadores acogidos a los beneficios de esta Ley. Cuando se trate de servicios sostenidos con aportaciones al gobierno federal y local, las aportaciones que correspondan al gobierno federal serán cubiertas por el Estado.
+Las aportaciones para cada fondo con que deben contribuir las instituciones de la administración pública estatal o municipal, en su caso, serán en la misma proporción que los descuentos que los trabajadores aportan. Cuando se trate de servicios sostenidos con aportaciones al gobierno federal y local, las que correspondan al gobierno federal serán cubiertas por el Estado.
 
 Adicionalmente, y para ser utilizado en forma exclusiva en el otorgamiento de créditos hipotecarios a los servidores públicos al servicio del Gobierno del Estado, éste aportará un 5 porciento del total del sueldo base que perciba su personal.
 
@@ -277,9 +293,11 @@ Todo acto, contrato o documento que implique obligación o derecho inmediato o e
 
 La Dirección de Pensiones dará a conocer con toda oportunidad a los grupos cotizadores, los estados mensuales de sus operaciones y sus estados financieros anuales, autorizados por la Junta Directiva.
 
+> <small>(REFORMADO PRIMER PARRAFO, PO. 13 DE OCTUBRE DE 2011)</small>
+
 ###### ARTICULO 33.
 
-Las cuentas de los fondos quedarán sujetas a la revisión y fiscalización de la Contraloría General del Estado, y del Congreso del Estado a través de la Contaduría Mayor de Hacienda, pudiendo ser auditados cuando éstas lo estimen pertinente. La Dirección General de Pensiones remitirá a la Contraloría y al Congreso del Estado, dentro de los tres primeros meses de cada año, un informe general sobre su situación contable.
+Las cuentas de los fondos quedarán sujetas a la revisión y fiscalización de la Contraloría General del Estado, y del Congreso del Estado, a través de la Auditoría Superior del Estado, pudiendo ser auditados cuando éstas lo estimen pertinente. La Dirección General de Pensiones remitirá a la Contraloría, y al Congreso del Estado, dentro de los tres primeros meses de cada año, un informe general sobre su situación contable.
 
 Cada grupo cotizador cuando lo estime necesario, podrá llevar a cabo la auditoría de su fondo la cual se hará con cargo al grupo solicitante.
 
@@ -911,6 +929,374 @@ En las resoluciones tomadas por la Junta Directiva en las que se considere que s
 
 Para lo no previsto en esta Ley, la Junta Directiva de Pensiones resolverá las dudas que surjan, con la exacta observancia a las leyes civiles vigentes en el Estado y disposiciones administrativas aplicables.
 
+> <small>(ADICIONADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, PO. 13 DE OCTUBRE DE 2011)</small>
+
+## TITULO OCTAVO. DE LAS PENSIONES DE LOS TRABAJADORES DEL SISTEMA EDUCATIVO ESTATAL REGULAR SINDICALIZADOS
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, PO. 13 DE OCTUBRE DE 2011)</small>
+
+### CAPITULO I. DE LAS PENSIONES
+
+> <small>(ADICIONADO, PO. 13 DE OCTUBRE DE 2011)</small>
+
+###### ARTICULO 112.
+
+Las disposiciones contenidas en este Título serán aplicables únicamente a los trabajadores adscritos al SEER, sindicalizados; y para sus efectos se entiende por:
+
+I. VALOR PRESENTE: es aquél que se obtiene de traer al presente las cotizaciones salariales pasadas, y/o adeudos con la Dirección de Pensiones, tomando como base para el cálculo la actualización del Índice Nacional de Precios al Consumidor, y
+
+II. MONTO DE LA PENSION: el valor presente del promedio del salario cotizado ante la Dirección de Pensiones en los últimos diez años de servicio.
+
+> <small>(ADICIONADO, PO. 13 DE OCTUBRE DE 2011)</small>
+
+###### ARTICULO 113.
+
+Los trabajadores adscritos al SEER, sindicalizados, tienen derecho a una pensión por jubilación cuando cumplan cuarenta años o más de cotizaciones en el caso de los hombres; y treinta y ocho años o más en el caso de las mujeres; pensión que se fijará de la siguiente manera:
+
+I. El monto de la pensión será el cien por ciento del valor presente del promedio del salario cotizado ante la Dirección de Pensiones, en los últimos diez años de servicio, y
+
+II. Las pensiones serán incrementadas anualmente de acuerdo al porcentaje en que se aumente el salario mínimo, conforme a la publicación realizada en el Diario Oficial de la Federación, en el mes de diciembre.
+
+Se exceptúa incluir cualquier otro concepto que no se haya cotizado en activo.
+
+> <small>(ADICIONADO, PO. 13 DE OCTUBRE DE 2011)</small>
+
+###### ARTICULO 114.
+
+Se establece (sic) las siguientes pensiones para los trabajadores adscritos al SEER, sindicalizados:
+
+I. Pensión por jubilación: a la que tienen derecho los trabajadores con cuarenta años o más de cotizaciones; y las trabajadoras con treinta y ocho años o más, ante la Dirección de Pensiones, cualquiera que sea su edad;
+
+II. Pensión por edad avanzada: a la que tienen derecho las y los trabajadores que cumplan sesenta y cinco años de edad, y hubieren contribuido normalmente durante veinticinco años como mínimo al fondo de pensiones, y
+
+III. Pensión por invalidez: a la que tiene derecho los trabajadores que sean declarados inválidos a causa del servicio o a consecuencia de éste, sea cual fuere el tiempo que hubieren contribuido al fondo, a menos que la incapacidad hubiere sido producida voluntariamente por el trabajador; y los trabajadores que sean declarados inválidos por causas ajenas a su cargo, empleo o comisión, si tienen por lo menos quince años de cotización y hubieren contribuido al fondo por ese mismo tiempo y si la invalidez no es intencional, ni consecuencia del abuso de bebidas alcohólicas, barbitúricos o estupefacientes.
+
+> <small>(ADICIONADO, PO. 13 DE OCTUBRE DE 2011)</small>
+
+###### ARTICULO 115.
+
+Para los efectos de la fracción III del artículo anterior, la declaración de invalidez de un trabajador será hecha por peritos médicos designados por las instituciones de seguridad social correspondientes, y validados por la Junta Directiva de la Dirección de Pensiones; se considerará inválido el derechohabiente que por enfermedad o accidente no profesionales, por agotamiento de las fuerzas físicas o mentales, o por defectos físicos o mentales, padezca una afección o se encuentre en un estado que se pueda estimar de naturaleza permanente, por el cual se encuentre imposibilitado para procurarse mediante un trabajo proporcionado a sus fuerzas, a sus capacidades, a su formación, la remuneración habitual que en la misma región perciba un trabajador sano del mismo sexo, semejante capacidad, igual categoría y formación profesional análoga.
+
+> <small>(ADICIONADO, PO. 13 DE OCTUBRE DE 2011)</small>
+
+###### ARTICULO 116.
+
+La pensión por invalidez se suspenderá:
+
+I. Cuando desaparezca el motivo que le dio origen. La Dirección de Pensiones queda facultada para mandar practicar los reconocimientos necesarios a los pensionistas cada vez que juzgue necesario; pero por regla general se llevarán a cabo cada seis meses. Cesará también la pensión cuando el pensionista vuelva a desempeñar cargo o empleo en las instituciones de la administración pública estatal, o cualquier otra, siempre que demuestre haber cesado la invalidez;
+
+II. Cuando el pensionista se niegue injustificadamente a someterse a las investigaciones médicas que en cualquier tiempo ordene la Dirección de Pensiones, o se resista a las medidas preventivas o curativas a que debe sujetarse, salvo que se trate de una persona afectada de sus facultades mentales, y
+
+III. Cuando el pensionista haya obtenido con engaños la pensión, o la causa de la invalidez sea preexistente al inicio de sus servicios al Gobierno del Estado.
+
+> <small>(ADICIONADO, PO. 13 DE OCTUBRE DE 2011)</small>
+
+###### ARTICULO 117.
+
+Los trabajadores adscritos al SEER, sindicalizados, que estén recibiendo o pretendan recibir la pensión por invalidez, están obligados a someterse a los tratamientos que se les prescriban para prevenir o curar su incapacidad, por la institución de seguridad social correspondiente.
+
+> <small>(ADICIONADO, PO. 13 DE OCTUBRE DE 2011)</small>
+
+###### ARTICULO 118.
+
+Cuando un pensionista por incapacidad física o mental recupere sus facultades, el SEER, avisado oportunamente por la Dirección de Pensiones, tendrá la obligación de restituirle en su empleo, si continúa apto para el mismo. En tanto no se restituya al trabajador en su empleo, o se le asigna otro en los términos de este artículo, seguirá percibiendo la pensión. En la concesión de pensiones por incapacidad física o mental transitoria, no será necesario que el trabajador cause baja en el servicio, pues podrá otorgarse aunque esté disfrutando de la licencia temporal correspondiente.
+
+> <small>(ADICIONADO, PO. 13 DE OCTUBRE DE 2011)</small>
+
+###### ARTICULO 119.
+
+Se establece un seguro de salud para la familia, proporcionado por una institución de seguridad social, en favor de los jubilados y pensionados por la Dirección de Pensiones del Estado, a fin de que reciban la asistencia médica, quirúrgica, farmacéutica y hospitalaria que sea necesaria en caso de enfermedad; derecho que se hace extensivo al cónyuge, concubina, concubinario, e hijos del pensionado, de acuerdo a la normatividad vigente del Instituto Mexicano del Seguro Social. Para tal efecto, la administración pública estatal cubrirá las cuotas correspondientes.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, PO. 13 DE OCTUBRE DE 2011)</small>
+
+### CAPITULO II. DE LAS PENSIONES A LOS FAMILIARES DE LOS TRABAJADORES
+
+> <small>(ADICIONADO, PO. 13 DE OCTUBRE DE 2011)</small>
+
+###### ARTICULO 120.
+
+Los familiares de los trabajadores adscritos al SEER, sindicalizados, que tienen derecho a pensión son:
+
+I. Los beneficiarios del trabajador que fallezca a causa o como consecuencia de un riesgo profesional;
+
+II. Los beneficiarios del trabajador que habiendo prestado servicios por más de veinticinco años y contribuido al fondo por el mismo periodo, falleciera por causas ajenas al servicio, aunque el deceso ocurriere sin que el trabajador hubiese cumplido sesenta y cinco años de edad;
+
+III. Los beneficiarios de los trabajadores que hubieren pasado a ser pensionista por jubilación, por edad avanzada, o inhabilitación en servicio, y
+
+IV. Los deudos de los trabajadores que habiéndose separado del servicio después de haber contribuido al fondo no menos de veinticinco años, hubiesen dejado su fondo.
+
+> <small>(ADICIONADO, PO. 13 DE OCTUBRE DE 2011)</small>
+
+###### ARTICULO 121.
+
+Las pensiones a que se refiere el artículo anterior únicamente serán otorgadas a los deudos del trabajador en el orden y con las condiciones siguientes:
+
+I. Al cónyuge supérstite, a los hijos o a ambos, si concurren unos y otros;
+
+II. A los hijos hasta antes de que cumplan dieciocho años;
+
+III. A los hijos hasta los veinticinco años de edad, siempre y cuando se encuentren estudiando en instituciones de educación media superior, media terminal y superior hasta nivel licenciatura, con reconocimiento de validez oficial de estudios al momento del fallecimiento del derechohabiente.
+
+Si algún hijo llegare a los dieciocho años y no pudiere mantenerse por su propio trabajo debido a una enfermedad duradera, defectos físicos, causas congénitas o enfermedad psíquica, el pago de la pensión por orfandad se prorrogará por el tiempo que subsista su inhabilitación, previa comprobación anual mediante dictamen emitido por peritos médicos que designe la Dirección de Pensiones y/o por medio de dictamen rendido por el Instituto Mexicano del Seguro Social, para efecto de determinar su estado de invalidez, haciéndose acreedor, en caso contrario, a la suspensión de la pensión.
+
+Los hijos adoptivos sólo tendrán derecho a la pensión por orfandad, cuando la adopción se haya hecho por el trabajador o pensionado antes de haber cumplido éste cincuenta años de edad;
+
+IV. A falta de cónyuge e hijos, a los ascendientes, siempre y cuando dependan económicamente del trabajador pensionado, y
+
+V. La concubina o el concubinario tendrán los derechos reservados al cónyuge, si concurren las circunstancias siguientes:
+
+a) Que tanto el trabajador como la concubina o el concubinario hayan permanecido libres de matrimonio durante el concubinato.
+
+b) Que el trabajador contribuyente al fondo haya vivido con la concubina o el concubinario los cinco años que precedieron inmediatamente a su muerte.
+
+Si al morir el trabajador o trabajadora, tenía varias concubinas o concubinarios, y éstos demuestran que se encuentran en las circunstancias señaladas en los incisos a) y b) anteriores, se estará a lo dispuesto en el Código Familiar para el Estado.
+
+Si otorgada una pensión aparecen otros familiares con derecho a la misma, se les hará extensiva, pero percibirán su parte a partir de la fecha en que sea recibida la solicitud en la Dirección de Pensiones, sin que puedan reclamar el pago de las cantidades cobradas por los primeros beneficiarios.
+
+En caso de que dos o más interesados reclamen derecho a pensión como cónyuges supérstites del trabajador o pensionado, al exhibir su respectiva documentación se suspenderá el trámite del beneficio hasta que se defina judicialmente la situación, sin perjuicio de continuarlo por lo que respecta a los hijos, reservándose una parte de la cuota a quien acredite su derecho como cónyuge supérstite.
+
+Cuando un solicitante, ostentándose como cónyuge supérstite del trabajador o pensionado reclame un beneficio que ya se haya concedido a otra persona por el mismo concepto, sólo se revocará el anteriormente otorgado, si existe sentencia ejecutoriada en la que se declare la nulidad del matrimonio que sirvió de base para la concesión de la pensión. Si el segundo solicitante reúne los requisitos que esta Ley establece, se le concederá pensión, la cual percibirá a partir de la fecha en que se reciba la sentencia señalada, sin que tenga derecho a reclamar a la Dirección, las cantidades cobradas por el primer beneficiario.
+
+> <small>(ADICIONADO, PO. 13 DE OCTUBRE DE 2011)</small>
+
+###### ARTICULO 122.
+
+Los trabajadores adscritos al SEER, sindicalizados, y los pensionados, declararán por escrito ante la Dirección, cuál será su voluntad acerca de los deudos enumerados en el artículo 121 de esta Ley, a quienes al fallecer se concederá o transmitirá la pensión, o gozarán de los beneficios que para ello se concede, debiendo señalar el porcentaje de la pensión y/o de los beneficios que le corresponderá a cada beneficiario. No obstante este señalamiento, quien tenga derecho de alimentos de acuerdo con la ley de la materia, gozará de los beneficios de la pensión en la proporción que le corresponda.
+
+El trabajador tiene la obligación de hacer las designaciones por lo menos cada cinco años, y para obligarlo la Dirección de Pensiones podrá dictar las disposiciones conducentes.
+
+Las designaciones a que este artículo se refiere, podrán en todo tiempo ser substituidas por otras a voluntad del trabajador, dentro de las limitaciones establecidas por el artículo que antecede.
+
+La Dirección de Pensiones, a solicitud del pensionista, o de oficio, podrá administrar las pensiones, a juicio de la Dirección, mediante causa justificada.
+
+En caso de menores de edad, cuando exista controversia entre quién o quiénes detenten la patria potestad, la Dirección de Pensiones no entregará la pensión, hasta que se le notifique la resolución ejecutoriada correspondiente que indique a quién se deberá hacer el pago de la pensión en representación de los menores.
+
+Si el trabajador incluye en su escrito de designación de deudos personas diversas a las señaladas en el artículo 121 de esta Ley, la designación será nula únicamente en la parte conducente y se tendrá por no puesta.
+
+> <small>(ADICIONADO, PO. 13 DE OCTUBRE DE 2011)</small>
+
+###### ARTICULO 123.
+
+Si un pensionado desapareciere de su domicilio por más de un mes sin que se tengan noticias de su paradero, quienes tuvieran derecho a la transmisión de la pensión podrán solicitar que se les transfiera con el carácter de provisional, en los términos del artículo 127 fracción VI de esta Ley, y con sólo la comprobación de la desaparición y de su parentesco, sin que sea necesario promover diligencias de declaración de ausencia. Si el pensionista llegare a presentarse tendrá derecho a recibir las diferencias entre el monto de la pensión y la parte entregada a sus beneficiarios. Si se comprueba el fallecimiento del pensionista, la transmisión tendrá el carácter de definitiva.
+
+> <small>(ADICIONADO, PO. 13 DE OCTUBRE DE 2011)</small>
+
+###### ARTICULO 124.
+
+El importe de las pensiones concedidas a deudos será otorgado a quien designe la autoridad judicial por sentencia que haya causado ejecutoria, en caso de que el trabajador en vida no hubiere hecho la declaración establecida en el artículo 122 de este Ordenamiento.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, PO. 13 DE OCTUBRE DE 2011)</small>
+
+### CAPITULO III. DEL COMPUTO DEL TIEMPO DE SERVICIOS
+
+> <small>(ADICIONADO, PO. 13 DE OCTUBRE DE 2011)</small>
+
+###### ARTICULO 125.
+
+El cómputo de los años de servicio de los trabajadores adscritos al SEER, sindicalizados, se hará conforme al calendario por el simple transcurso del tiempo, sin agregarse nada por el desempeño simultáneo de varios empleos, sean éstos los que fueren, y tomándose en consideración sólo el tiempo de servicios efectivamente cotizados a la Dirección de Pensiones.
+
+> <small>(ADICIONADO, PO. 13 DE OCTUBRE DE 2011)</small>
+
+###### ARTICULO 126.
+
+La separación por licencia sin goce de sueldo sólo se computará como tiempo de servicios en los siguientes casos:
+
+I. Cuando sea concedida para el desempeño de comisiones sindicales, o el ejercicio de cargos públicos de elección popular, y
+
+II. Cuando las licencias sean concedidas por un periodo hasta de seis meses.
+
+En todo caso, para poder ser computables tales licencias, se requerirá que el trabajador siga cubriendo al fondo correspondiente, las aportaciones que sobre su sueldo corresponda aplicar, así como las estipuladas por los artículos 22 y 23 de esta Ley, durante todo el tiempo que comprenda la licencia.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, PO. 13 DE OCTUBRE DE 2011)</small>
+
+### CAPITULO IV. DEL MONTO DE LAS PENSIONES
+
+> <small>(ADICIONADO, PO. 13 DE OCTUBRE DE 2011)</small>
+
+###### ARTICULO 127.
+
+El monto de las pensiones a los trabajadores adscritos al SEER, sindicalizados, se fijará como sigue:
+
+I. Las pensiones por edad avanzada y por invalidez se compondrán de una cuantía básica y aumentos computados, de acuerdo con el número de cotizaciones quincenales con que se justifique haber contribuido al fondo de pensiones, con posterioridad a los veinticinco años en caso de edad avanzada, y quince años en caso de pensión por invalidez por causas ajenas al servicio; asimismo, los pensionados en este rubro tendrán derecho a una gratificación anual de cuarenta días del monto de su pensión.
+
+La cuantía básica y los aumentos de las pensiones por invalidez o edad avanzada, se pagarán por mensualidades vencidas y se calcularán tomando como base los siguientes factores:
+
+a) Los años durante los cuales el derechohabiente haya contribuido normalmente al fondo de pensiones.
+
+b) El cien por ciento del valor presente del promedio del salario cotizado ante la Dirección de Pensiones en los últimos diez años de servicio, de acuerdo a lo dispuesto por el artículo 128 de la presente Ley;
+
+II. La aplicación de ambos factores se hará conforme a las disposiciones de las tablas siguientes:
+
+HOMBRES MUJERES
+
+Número de Monto de la Número de Monto de la
+
+años de pensión años de pensión
+
+contribución en contribución en
+
+al fondo: % al fondo %
+
+De 15 a De 15 a
+
+24 años de 24 años de
+
+cotización 45% cotización 45%
+
+25 50% 25 50%
+
+26 51% 26 51%
+
+27 52% 27 52%
+
+28 53% 28 53%
+
+29 54% 29 55%
+
+30 56% 30 57%
+
+31 58% 31 60%
+
+32 61% 32 64%
+
+33 64% 33 64%
+
+34 68% 34 74%
+
+35 72% 35 80%
+
+36 77% 36 86%
+
+37 82% 37 93%
+
+38 88% 38 100%
+
+39 94%
+
+40 100%
+
+III. Los derechohabientes que probaren haber prestado sus servicios a la administración pública estatal por cuarenta años para los trabajadores, y treinta y ocho años para las trabajadoras, y hubieren contribuido por igual forma ante la Dirección de Pensiones, tendrán derecho a una pensión que se fijará de acuerdo a lo determinado por el párrafo primero del artículo 128 de la presente Ley; así mismo, recibirá una gratificación anual de cuarenta días de pensión;
+
+IV. Cuando el trabajador sea declarado incapacitado a causa del servicio o a consecuencia de éste, sea cual fuere el tiempo que haya estado en servicio y sea cual fuere el tiempo que hubiere contribuido al fondo de pensiones, la pensión será igual al cien por ciento del último sueldo base cotizado ante la Dirección de Pensiones, y tendrá derecho a una gratificación anual de cuarenta días de pensión;
+
+V. Cuando el trabajador sea declarado incapacitado por causas ajenas al servicio, empleo o comisión y tenga quince años de servicio efectivo y durante ese tiempo haya contribuido ante la Dirección de Pensiones, se le aplicará la tabla de porcentajes para determinar la cuantía en los términos fijados en la presente Ley, y tendrá derecho a una gratificación anual de cuarenta días de pensión;
+
+VI. Cuando el trabajador fallezca a causa del servicio o a consecuencia de éste, sus deudos, en los términos que esta Ley señala, gozarán de una pensión igual al cien por ciento del último sueldo base cotizado ante la Dirección de Pensiones, sin considerar los años de servicio, ni aportaciones; también recibirán una gratificación anual equivalente a cuarenta días de pensión;
+
+VII. Cuando el trabajador falleciere después de veinticinco años de haber contribuido al fondo ante la Dirección de Pensiones, sin haber solicitado pensión, o antes de haber comenzado a disfrutarla, sus beneficiarios que esta Ley señala, gozarán de la pensión que hubiere correspondido al trabajador por tiempo de cotización, conforme a la tabla de porcentajes de la fracción I de este artículo, disminuida en un diez por ciento cada año, hasta reducirla al cincuenta por ciento de la cifra primitiva.
+
+Dicha pensión será el equivalente al valor presente del promedio del salario cotizado ante la Dirección de Pensiones en los últimos diez años anteriores a su deceso, de acuerdo a lo siguiente:
+
+a) Por lo que se refiere a los hijos, gozarán de la pensión en los términos de los artículos 121 y 130 de esta Ley, y no tendrán derecho a gratificación alguna.
+
+b) El cónyuge supérstite de un trabajador fallecido que no hubiere disfrutado de pensión alguna, se le entregará una pensión cuando se encuentre en cualquiera de los siguientes supuestos, a la fecha en que ocurra el deceso del trabajador:
+
+1. Se encuentre incapacitado para trabajar.
+
+2. Dependa económicamente de la pensión, o
+
+3. Cuando tenga cincuenta o más años de edad.
+
+A fin de acreditar la dependencia económica, mediante instrumentos, estudios y/o procedimientos que establezca la propia Dirección de Pensiones, en coordinación con la Junta Directiva;
+
+VIII. Al fallecer un trabajador que haya pasado a ser pensionista por jubilación o edad avanzada, sus beneficiarios, en el orden establecido por esta Ley, continuarán disfrutando la pensión que haya venido percibiendo aquél a la fecha de su fallecimiento, a excepción de la gratificación anual; aplicándose desde luego las restricciones marcadas en la propia ley;
+
+IX. Cuando fallezca un trabajador que haya pasado a ser pensionista por haber sido declarado incapacitado a causa del servicio, sus beneficiarios señalados por esta Ley recibirán una pensión equivalente al cincuenta por ciento de la pensión que venía percibiendo el pensionado; si el trabajador falleciere por causas ajenas al origen de la invalidez que dio lugar a la pensión, se pagará a sus beneficiarios únicamente seis meses de la pensión de la que gozaba el pensionista, aplicándose desde luego, en ambos casos, las restricciones marcadas en la propia ley; asimismo, los beneficiarios enmarcados en los supuestos de esta fracción, no gozarán de gratificación anual, y
+
+X. Cuando fallezca un trabajador que hubiere pasado a ser pensionista por invalidez ajena al servicio, sus familiares recibirán únicamente el importe de seis meses de pensión que venía disfrutando, y no tendrán derecho a gratificación anual.
+
+> <small>(ADICIONADO, PO. 13 DE OCTUBRE DE 2011)</small>
+
+###### ARTICULO 128.
+
+La cantidad que servirá para la determinación de las cuantías de las pensiones a que se refiere esta Ley, estará constituida por el valor presente del promedio del salario cotizado ante la Dirección de Pensiones en los últimos diez años de servicio; excepto las pensiones establecidas en la (sic) fracciones IV y VI del artículo 127 de este Ordenamiento, que serán del cien por ciento del último salario base cotizado; y todas las pensiones serán incrementadas anualmente en el mes de febrero de acuerdo al porcentaje en que se aumente el salario mínimo, conforme a la publicación realizada en el Diario Oficial de la Federación, en el mes de diciembre.
+
+El importe de las pensiones concedidas a los deudos será dividido por partes iguales entre los beneficiarios, en caso de que el trabajador en vida no hubiere hecho la declaración establecida en el artículo 122 de este Ordenamiento, y de acuerdo a las reglas marcadas en este Capítulo.
+
+Cuando fueren varios los beneficiarios de una pensión y alguno de ellos perdiere el derecho, la parte que le corresponda será repartida proporcionalmente entre los restantes.
+
+Los trabajadores pensionados y jubilados tendrán derecho a una gratificación anual de cuarenta días proporcionales a su pensión.
+
+Esta gratificación no formará parte del pago de la pensión a los derechohabientes de la misma después de la muerte del trabajador, a excepción de lo dispuesto en la fracción VI del artículo anterior.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 13 DE OCTUBRE DE 2011)</small>
+
+### CAPITULO V. EXTINCION DE LAS PENSIONES Y PREESCRIPCION (SIC) DE LAS OBLIGACIONES
+
+> <small>(ADICIONADO, P.O. 13 DE OCTUBRE DE 2011)</small>
+
+###### ARTICULO 129.
+
+El derecho a disfrutar de pensión se pierde por resolución judicial de autoridad competente, que expresamente así lo determine.
+
+Además de lo dispuesto por esta Ley, la pensión se pierde por las siguientes causas:
+
+I. Cuando se presente documentación falsa y/o alterada para obtener, mantener o transmitir una pensión, y
+
+II. Cuando el derechohabiente asiente hechos e información falsa en los formatos oficiales de la Dirección de Pensiones y/o en cualquier documento que presente ante la misma, con el fin de obtener los beneficios que establece esta Ley.
+
+Para la aplicación de este artículo, la Dirección de Pensiones, con audiencia del interesado, procederá a la respectiva revisión y, en su caso, denunciará los hechos al Ministerio Público para los efectos que procedan, debiendo suspenderse el pago de la pensión hasta en tanto la autoridad judicial y/o administrativa correspondiente, determine si procede o no la pérdida del derecho a recibir el pago de la pensión en forma definitiva.
+
+> <small>(ADICIONADO, PO. 13 DE OCTUBRE DE 2011)</small>
+
+###### ARTICULO 130.
+
+El derecho a disfrutar pensión concluye:
+
+I. Para los hijos del trabajador, al cumplir dieciocho años de edad.
+
+La Dirección de Pensiones puede prorrogar la pensión de orfandad, después de alcanzar el huérfano la edad de dieciocho años:
+
+a) Si el hijo no puede mantenerse por su propio trabajo debido a una enfermedad duradera, defecto físico o psíquico, o cualquier otra discapacidad que le impida valerse por sí mismo.
+
+b) Si el hijo se encuentra estudiando en instituciones de educación media superior, media terminal y superior hasta nivel licenciatura, con reconocimiento oficial de estudios, y hasta una edad no mayor de veinticinco años, y
+
+II. Para el cónyuge supérstite si vuelve a contraer nupcias o viviera en concubinato.
+
+> <small>(ADICIONADO, P.O. 13 DE OCTUBRE DE 2011)</small>
+
+###### ARTICULO 131.
+
+El cónyuge supérstite de un pensionista sólo percibirá pensión cuando se encuentre en cualquiera de los siguientes supuestos, a la fecha en que ocurra el deceso del pensionista:
+
+I. Se encuentre incapacitado para trabajar;
+
+II. Dependa económicamente de la pensión, y
+
+III. Cuando tenga más de sesenta y cinco años de edad.
+
+> <small>(ADICIONADO, P.O. 13 DE OCTUBRE DE 2011)</small>
+
+###### ARTICULO 132.
+
+La dependencia económica se acreditará mediante instrumentos, estudios y/o procedimientos que establezca la propia Dirección de Pensiones, en coordinación con la Junta Directiva.
+
+> <small>(ADICIONADO, P.O. 13 DE OCTUBRE DE 2011)</small>
+
+###### ARTICULO 133.
+
+Los divorciados no tendrán derecho a la pensión del que haya sido su cónyuge, a menos que el cónyuge hubiese sido condenado a pagarle alimentos; derecho que perderá al contraer nuevas nupcias o si viviere en concubinato.
+
+> <small>(ADICIONADO, P.O. 13 DE OCTUBRE DE 2011)</small>
+
+###### ARTICULO 134.
+
+Las pensiones caídas, la devolución de descuentos, los intereses y cualquier prestación a cargo del fondo cotizado ante la Dirección de Pensiones, que no se cobren dentro de los tres años siguientes a la fecha en que hubieren sido exigibles, prescribirán a favor del fondo del sector; excepto cuando los trabajadores que se separen del servicio después de haber contribuido no menos de veinticinco años al fondo, cuando cumplan la edad pensionable. En este caso, se les otorgará la pensión a la que tuvieren derecho según el tiempo contribuido al fondo, siempre que hubieren dejado al separarse, la totalidad de los descuentos que por razón de su cargo se les hayan hecho, y paguen la actualización de sus aportaciones de acuerdo al Índice Nacional de Precios al Consumidor, y la tasa de interés que se cobre por concepto de los préstamos quirografarios.
+
+Se exceptúan además las disposiciones establecidas en el Reglamento correspondiente.
+
+> <small>(ADICIONADO, P.O. 13 DE OCTUBRE DE 2011)</small>
+
+###### ARTICULO 135.
+
+Los créditos respecto de los cuales la Dirección de Pensiones tenga el carácter de acreedora, cualquiera que sea su especie, prescribirán en diez años a contar de la fecha en que la propia Dirección pueda, conforme a la ley, ejercitar sus derechos.
+
+> <small>(ADICIONADO, P.O. 13 DE OCTUBRE DE 2011)</small>
+
+###### ARTICULO 136.
+
+Las obligaciones de la administración pública estatal de aportar para el sostenimiento de los fondos las cantidades que esta Ley señala, serán imprescriptibles.
+
 ## TRANSITORIOS
 
 PRIMERO. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de San Luis Potosí.
@@ -944,3 +1330,419 @@ El Secretario General de Gobierno
 LIC. JORGE DANIEL HERNANDEZ DELGADILLO
 
 (Rúbrica)
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 13 DE OCTUBRE DE 2011.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. El Reglamento correspondiente al sector conformado por los trabajadores del Sistema Educativo Estatal Regular, sindicalizados, continuará vigente en lo que no se oponga a lo dispuesto por esta Ley. El mismo deberá reformarse dentro del término de noventa días posteriores a la entrada en vigor del presente Decreto
+
+TERCERO. Para los efectos de lo establecido en los artículos 22 y 23, respecto al descuento a los trabajadores para el fortalecimiento del fondo, y las aportaciones con que deben contribuir las instituciones de la administración pública estatal o municipal, podrá aumentarse hasta llegar al catorce por ciento. Dicho incremento será acordado entre la representación de los grupos cotizadores y las instituciones de la administración pública estatal o municipal, según sea el caso.
+
+CUARTO. Los trabajadores del Sistema Educativo Estatal Regular, sindicalizados, que a la entrada en vigor de este Decreto, tengan, en el caso de los hombres treinta años cotizados; y en el caso de las mujeres veintiocho años o más cotizados, continuarán rigiéndose por la Ley de Pensiones y Prestaciones Sociales para los Trabajadores al Servicio del Estado, vigente en el momento que cumplieron los términos de las respectivas cotizaciones.
+
+QUINTO. Los trabajadores del Sistema Educativo Estatal Regular, sindicalizados, que a la entrada en vigor de éste, tengan los derechos adquiridos para una pensión por edad avanzada, es decir, cuenten con cincuenta y cinco o más años de edad; y quince o más años de cotización, se les otorgará un plazo de seis meses para que decidan si ejercen su derecho de pensionarse por edad avanzada en ese momento, o bien si continúan trabajando y se incorporan a las disposiciones contenidas en los artículos transitorios de este Decreto, decisión que deberá ser comunicada por escrito a la Dirección de Pensiones; en caso de que en el plazo señalado no comuniquen por escrito su decisión, se les tendrá por aceptando (sic) su incorporación a las disposiciones transitorias de este Decreto; en el entendido de que estos trabajadores no tienen los derechos adquiridos para la pensión por jubilación, sino sólo para la de edad avanzada, por lo que en caso de acogerse a las disposiciones de este Decreto, deberán trabajar y cotizar el tiempo que establecen las modificaciones, para alcanzar la pensión de que se trate.
+
+Los trabajadores que decidan ejercer su derecho a pensionarse por edad avanzada continuarán rigiéndose por la Ley de Pensiones y Prestaciones Sociales para los Trabajadores al Servicio del Estado de San Luis Potosí, publicada en el Periódico Oficial del Estado el 21 de mayo de 2001.
+
+Se exceptúa incluir cualquier otro concepto que no se haya cotizado en activo.
+
+La decisión que haya tomado el trabajador respecto de su incorporación a las disposiciones contenidas en estos artículos transitorios, o cuando se le tenga por aceptando su incorporación por no haber hecho manifestación alguna dentro del término concedido, será definitiva, irrenunciable, y no podrá modificarse con posterioridad bajo ninguna circunstancia.
+
+SEXTO. A efecto de que los trabajadores hagan la elección a que se refiere el artículo anterior, la Dirección de Pensiones pondrá a su disposición el Documento de Elección que corresponda.
+
+Dicho documento deberá contener, como mínimo, lo siguiente:
+
+I. Datos del Trabajador:
+
+a) Nombre y apellidos paterno y materno.
+
+b) Clave de afiliación;
+
+II. Lugar en el que el Trabajador presta sus servicios;
+
+III. Tiempo de cotización del Trabajador al Fondo de Pensiones;
+
+IV. Opciones del Trabajador, explicando que, con base en la información antes señalada, el día en que entre en vigor la Ley tiene el derecho a:
+
+a) Elegir solicitar su pensión por edad avanzada en virtud de que tiene quince años ó más cotizados y cincuenta y cinco años de edad o más, o
+
+b) Elegir acogerse a las disposiciones del Título Octavo de esta Ley, relativas a pensiones por edad avanzada de acuerdo al artículo Cuarto Transitorio de este Decreto;
+
+V. Aviso de que en caso de no presentar dentro de los seis meses siguientes la solicitud de la pensión por edad avanzada, se estará a lo dispuesto por el artículo Cuarto Transitorio de este Decreto, es decir, se entenderá que desea acogerse a las nuevas disposiciones;
+
+VI. Las leyendas:
+
+a) Reconozco como válido y correcto el tiempo de cotización ante la Dirección de Pensiones informado en este Documento de Elección, y manifiesto mi decisión de solicitar mi pensión por edad avanzada, en virtud de que tengo quince años o más de cotización y ciencuenta (sic) y cinco años o más de edad.
+
+b) Reconozco como válido y correcto el tiempo de cotización ante la Dirección de Pensiones informando en este Documento de Elección, y manifiesto mi decisión de acogerme a lo dispuesto por el artículo Sexto Transitorio del Decreto que modifica la Ley de Pensiones y Prestaciones Sociales para los Trabajadores del Estado de San Luis Potosí;
+
+VII. Espacio para firma autógrafa y/o huella digital del trabajador;
+
+VIII. Espacio para la firma autógrafa del servidor público de la Dirección de Pensiones que recibió el Documento de Elección, y
+
+IX. Fecha de recepción del Documento de Elección.
+
+La Dirección de Pensiones deberá realizar las notificaciones o la entrega de los documentos a los trabajadores, a través del personal que comisione para tal efecto, recabando el nombre y firma de recibido del trabajador o, en caso de que no pueda o sepa firmar, su huella digital.
+
+La notificación o entrega a que se refiere este artículo podrá realizarse:
+
+1. Personalmente en el lugar en donde los trabajadores presten sus servicios, o
+
+2. En el domicilio de los trabajadores que tengan registrado ante la Dirección de Pensiones.
+
+La Dirección de Pensiones deberá conservar los acuses de recibo originales correspondientes; y deberá integrar una relación de los trabajadores que se nieguen a recibir la notificación o los documentos, o a firmar de recibido, y con el apoyo del subdirector de asuntos jurídicos de la propia Dirección, procederán a levantar un acta en la que se haga constar dicha situación, señalando en la misma el lugar y plazo en el que el documento de elección estará a disposición de los trabajadores.
+
+SEPTIMO. Los trabajadores del Sistema Educativo Estatal Regular, sindicalizados, que a la entrada en vigor del presente Decreto ya se encuentren cotizando ante la Dirección de Pensiones del Estado, tendrán derecho a pensionarse de acuerdo a los años laborados y cotizados, conforme a la siguiente tabla:
+
+JUBILACIÓN Cuando menos 35 años Cien por ciento del valor
+
+laborados y cotizados presente del promedio del
+
+para hombres y cuando salario cotizado ante la
+
+menos 33 años laborados Dirección de Pensiones en
+
+y cotizados para mujeres, los últimos diez años de
+
+sin importar la edad. servicio
+
+Será incrementada en el
+
+mismo porcentaje que se
+
+incrementen los salarios de
+
+los homólogos en activo
+
+Gratificación anual de 90
+
+días
+
+EDAD 60 años o más de edad Cien por ciento del valor
+
+AVANZADA hombres y mujeres y presente del promedio del
+
+cuando menos 18 años salario cotizado ante la
+
+laborados y cotizados Dirección de Pensiones en
+
+los últimos diez años de
+
+servicio, de acuerdo con la
+
+tabla de porcentajes que se
+
+incluye en este artículo
+
+Será incrementada en el
+
+mismo porcentaje que se
+
+incrementen los salarios
+
+de los homólogos en activo
+
+Gratificación anual de 90
+
+Días
+
+INVALIDEZ POR Cuando menos 13 años Cien por ciento del valor
+
+CAUSAS laborados y cotizados, sin presente del promedio del
+
+AJENAS AL importar la edad. salario cotizado ante la
+
+SERVICIO Dirección de Pensiones en
+
+Los últimos diez años de
+
+servicio, de acuerdo con la
+
+tabla de porcentajes que se
+
+incluye en este artículo.
+
+Será incrementada en el
+
+mismo porcentaje que se
+
+incrementen los salarios
+
+de los homólogos en activo
+
+Gratificación anual de
+
+90 días
+
+INVALIDEZ Sin requisitos de años Cien por ciento del salario
+
+POR de servicio, cotización base cotizado ante la
+
+CAUSAS o edad Dirección de Pensiones
+
+DEL
+
+SERVICIO Será incrementada en el
+
+mismo porcentaje que se
+
+incrementen los salarios
+
+de los homólogos en activo
+
+Gratificación anual de 90
+
+días
+
+La siguiente tabla se aplicará para determinar el monto total de las pensiones señaladas en el presente artículo:
+
+HOMBRES MUJERES
+
+Número de años Monto de la Número de años Monto de la
+
+de contribución pensión en % de contribución pensión en %
+
+al fondo al fondo
+
+De 13 a 17 años De 13 a 17 años
+
+de cotización 45% de cotización 45%
+
+18 50% 18 50%
+
+19 51% 19 51%
+
+20 52% 20 52%
+
+21 53% 21 54%
+
+22 54% 22 56%
+
+23 55% 23 58%
+
+24 57% 24 60%
+
+25 59% 25 63%
+
+26 61% 26 67%
+
+27 64% 27 71%
+
+28 67% 28 75%
+
+29 70% 29 79%
+
+30 74% 30 83%
+
+31 78% 31 88%
+
+32 83% 32 94%
+
+33 88% 33 100%
+
+34 94%
+
+35 100%
+
+Todas estas pensiones serán incrementadas anualmente de acuerdo al porcentaje en que se incrementen los salarios base de los trabajadores en activo, y los conceptos que se hayan cotizado, sin tomar en consideración el aumento y/o creación de otra prestación que devenguen los trabajadores en activo.
+
+El pago de estas pensiones y todo lo relacionado con las mismas, se regirá por lo dispuesto en el presente Decreto, en lo que no se oponga a lo establecido en este artículo Transitorio.
+
+OCTAVO. Los beneficiarios de los trabajadores que a la entrada en vigor del presente Decreto ya se encuentren cotizando ante la Dirección de Pensiones del Estado, pertenecientes al Sistema Educativo Estatal Regular, sindicalizados, tendrán derecho a pensión de conformidad con lo siguiente:
+
+TIPO DE REQUISITOS MONTO DE LA
+
+PENSION PENSION
+
+PARA No se tomarán en Cien por ciento del último
+
+BENEFICIARIOS consideración los años sueldo base cotizado ante
+
+DEL de servicio ni la Dirección de Pensiones
+
+TRABAJADOR aportaciones al fondo
+
+QUE FALLEZCA de pensiones Sera incrementada en el
+
+A CAUSA DEL respectivo. mismo porcentaje que se
+
+SERVICIO incrementen los salarios
+
+Se recibirá en el orden de los homólogos en activo
+
+y con los requisitos
+
+establecidos en este Gratificación anual de 90
+
+Decreto días
+
+PARA Trabajador con más Cien por ciento del valor
+
+BENEFICIARIOS de 18 años laborados presente del promedio del
+
+DEL TRABAJADOR y cotizados salario cotizado ante la
+
+CUANDO EL Dirección de Pensiones en
+
+TRABAJADOR Sin importar la edad los últimos diez años de
+
+FALLECIERE del trabajador fallecido servicio, disminuida en un
+
+DESPUES DE diez por ciento cada año,
+
+DIECIOCHO AÑOS Se recibirá en el orden hasta reducirla al cincuenta
+
+DE HABER y con los requisitos por ciento de la cifra
+
+CONTRIBUIDO establecidos en este primitiva, de acuerdo con la
+
+AL FONDO, Decreto tabla de porcentajes que se
+
+SIN HABER incluye en el artículo Sexto
+
+SOLICITADO PENSION transitorio de este Decreto
+
+O ANTES DE HABER
+
+COMENZADO A Será incrementada en el
+
+DISFRUTARLA mismo porcentaje que se
+
+incrementen los salarios
+
+de los homólogos en activo
+
+Gratificación anual de 90
+
+Días
+
+PARA Se recibirá en el orden Gozarán de la pensión que
+
+BENEFICIARIOS y con los requisitos venía percibiendo el
+
+DE LOS establecidos en esta pensionista
+
+TRABAJADORES Ley
+
+QUE HUBIEREN Será incrementada en el
+
+PASADO A SER mismo porcentaje que se
+
+PENSIONISTA POR incrementan los salarios de
+
+JUBILACION, POR los homólogos en activo
+
+EDAD AVANZADA
+
+O INVALIDEZ POR Gratificación anual de 90
+
+CAUSA DEL SERVICIO días
+
+PARA BENEFICIARIOS Se recibirá en el orden Seis meses de la pensión
+
+DE UN TRABAJADOR y con los requisitos que venía disfrutando el
+
+QUE FALLEZCA Y QUE establecidos en esta (sic) trabajador fallecido,
+
+HABIA PASADO A SER Decreto pagadas en una sola
+
+PENSIONISTA POR exhibición
+
+HABER SIDO
+
+DECLARADO Sin derecho a gratificación
+
+INCAPACITADO POR anual
+
+CAUSAS AJENAS AL
+
+SERVICIO
+
+PARA BENEFICIARIOS Se recibirá en el orden Seis meses de la pensión
+
+DE LOS y con los requisitos que venía disfrutando el
+
+TRABAJADORES establecidos en este trabajador fallecido, pagadas
+
+QUE HUBIEREN Decreto en una sola exhibición
+
+PASADO A SER
+
+PENSIONISTAS POR Sin derecho a gratificación
+
+INVALIDEZ A CAUSA anual
+
+DEL SERVICIO, QUE
+
+FALLECIERAN POR
+
+CAUSAS AJENAS
+
+A LA INVALIDEZ
+
+QUE DIO LUGAR A LA
+
+PENSION
+
+Todas estas pensiones serán incrementadas anualmente de acuerdo al porcentaje en que se incrementen los salarios base de los trabajadores en activo, y los conceptos que se hayan cotizado, sin tomar en consideración el aumento y/o creación de otra prestación que devenguen los trabajadores en activo.
+
+El pago de estas pensiones y todo lo relacionado con las mismas, se regirá por lo dispuesto en el presente Decreto, en lo que no se oponga a lo establecido en este artículo Transitorio.
+
+NOVENO. Se establece un bono a la permanencia que consiste en veinte días de sueldo cotizado, que se les entregará anualmente a los trabajadores que hayan ingresado a laborar antes de la publicación del presente Decreto, no sean pensionados de la Dirección de Pensiones, y hayan cumplido un período de treinta y un a treinta y cinco años de cotización para los hombres, y de veintinueve a treinta y tres años de cotización para las mujeres, por excepción a lo que dispone el artículo 34 de la Ley de Pensiones y Prestaciones Sociales para los Trabajadores del Estado de San Luis Potosí; por única vez, los recursos para la aplicación de este bono provendrán del fondo del mismo grupo cotizador.
+
+Una vez cumplidos los treinta y cinco años de cotización los hombres; y treinta y tres años de cotización las mujeres, se extinguirá esta prestación.
+
+Las condiciones de este bono se establecerán en el Reglamento del sector de los trabajadores del Sistema Educativo Estatal Regular, sindicalizados.
+
+DECIMO. De conformidad con el Acuerdo Administrativo publicado en el Periódico Oficial del Estado el día 12 de marzo del 2002, mediante el cual el Gobierno del Estado se compromete al pago del importe de pensiones de trabajadores del Sistema Educativo Estatal Regular, agremiados en la Sección 52 del Sindicato Nacional de Trabajadores de la Educación, a partir de la entrada en vigor del presente Decreto, el Gobierno del Estado continuará cubriendo en forma permanente el importe de las mismas. Cantidad que se deberá incrementar de acuerdo al porcentaje, fecha y condiciones en que se aumente el salario de los trabajadores en activo. Además, deberá cubrir el importe de aguinaldo y las cuotas del Instituto Mexicano del Seguro Social.
+
+DECIMO PRIMERO. A la entrada en vigor del presente Decreto, los actuales pensionados que adquirieron sus derechos conforme a las leyes de pensiones de 1974 y de 2001, seguirán percibiendo los aumentos a su pensión en términos de las leyes bajo las cuales se pensionaron, y continuarán gozando de un aguinaldo de noventa días.
+
+DECIMO SEGUNDO. A la entrada en vigor del presente Decreto, para integrar el valor presente del promedio del salario cotizado ante la Dirección de Pensiones en los últimos diez años de servicio, se tomarán en consideración los conceptos cotizables correspondientes al nivel educativo en el que el trabajador hubiere prestado sus servicios, de acuerdo con lo siguiente:
+
+NIVEL EDUCATIVO CONCEPTOS COTIZABLES
+
+HOMOLOGADOS:
+
+DOCENTES Y PERSONAL DE APOYO SUELDO BASE
+
+Y ASISTENCIA A LA EDUCACION PRIMA DE ANTIGÜEDAD
+
+EDUCACION BASICA: SUELDO COMPACTADO
+
+CARRERA MAGISTERIAL
+
+DOCENTES QUINQUENIO
+
+TITULACION
+
+DV (DIFERENCIAS
+
+REGULARIZABLES)
+
+ASIGNACION
+
+PEDAGOGICA
+
+ESPECIFICA
+
+ASIGNACION DOCENTE
+
+EDUCACION BASICA: SUELDO BASE
+
+QUINQUENIO
+
+PERSONAL DE APOYO Y ASISTENCIA DV (DIFERENCIAS
+
+A LA EDUCACION REGULARIZABLES)
+
+Cualquier otro concepto por el que se aporte ante la Dirección de Pensiones, será considerado como fondo de ahorro, mismo que se entregará al término de la vida laboral a los trabajadores, o a sus beneficiarios en caso de fallecimiento, a excepción de las aportaciones que establezca el sector para el fortalecimiento de su fondo.
+
+Estas aportaciones se llevarán en cuentas separadas, y sus montos y condiciones serán establecidas en los acuerdos administrativos pertinentes.
+
+Dichas aportaciones no generarán derecho a pensión alguna.
+
+DECIMO TERCERO. Se derogan todas las disposiciones legales que se opongan a este Decreto.
