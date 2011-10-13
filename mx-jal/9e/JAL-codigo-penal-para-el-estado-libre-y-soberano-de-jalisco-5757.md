@@ -4,7 +4,7 @@ identifier: "JAL-codigo-penal-para-el-estado-libre-y-soberano-de-jalisco-5757"
 country: "mx"
 rank: "codigo"
 publication_date: "1982-09-02"
-last_updated: "2011-09-15"
+last_updated: "2011-10-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5757&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "JAL"
 ---
 # CODIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE JALISCO
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTA ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 18 DE OCTUBRE DE 2011 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 CODIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE SEPTIEMBRE DE 2011.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE OCTUBRE DE 2011.
 
 Código publicado en el Periódico Oficial del Estado de Jalisco, el jueves 2 de septiembre de 1982.
 
@@ -613,7 +615,7 @@ Los delitos culposos se sancionarán con prisión de tres días a ocho años y s
 
 Si se causaren por culpa grave homicidio o las lesiones señaladas en las fracciones IV o V del artículo 207 de este Código, se aplicará la sanción de tres a diez años de prisión e inhabilitación para manejar hasta por un tiempo igual al de la duración de la pena privativa de la libertad.
 
-> <small>(ADICIONADO, P.O. 12 DE JUNIO DE 2003)</small>
+> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2003)</small>
 
 Se considera culpa grave en los homicidios o lesiones a que se refiere el párrafo anterior, si se cometen con motivo del tránsito de vehículos y se dé una de las siguientes circunstancias:
 
@@ -629,7 +631,13 @@ III. Cuando al sujeto activo:
 
 a) Se le detecten más de ciento cincuenta miligramos de alcohol por cien mililitros de sangre; o
 
-b) Conduzca bajo el influjo de estupefacientes o psicotrópicos de los señalados en la Ley General de Salud, cuando conforme a dictamen pericial se pruebe que esas substancias alteren la facultad para conducir;
+> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2011)</small>
+
+b) Conduzca bajo el influjo de estupefacientes o psicotrópicos de los señalados en la Ley General de Salud, cuando conforme a dictamen pericial se pruebe que esas substancias alteren la facultad para conducir, o
+
+> <small>(ADICIONADO, P.O. 13 DE OCTUBRE DE 2011)</small>
+
+c) Se niegue a proporcionar muestra de sangre o aire espirado, para realizar las pruebas de alcohol o toxicológicas;
 
 IV. Cuando se cometa con vehículos cuya capacidad de carga sea mayor de cuatro toneladas, o más de doce plazas de pasajeros;
 
@@ -4822,3 +4830,7 @@ P.O. 15 DE SEPTIEMBRE DE 2011.
 DECRETO NUMERO 23562/LIX/11 POR EL QUE SE DEROGA EL SEGUNDO PARRAFO DEL ARTICULO 142.
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 13 DE OCTUBRE DE 2011.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente al de su publicación en el periódico oficial El Estado de Jalisco.
