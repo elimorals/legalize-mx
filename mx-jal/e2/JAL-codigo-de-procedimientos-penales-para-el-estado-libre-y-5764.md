@@ -4,7 +4,7 @@ identifier: "JAL-codigo-de-procedimientos-penales-para-el-estado-libre-y-5764"
 country: "mx"
 rank: "codigo"
 publication_date: "1982-12-07"
-last_updated: "2011-03-17"
+last_updated: "2011-10-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5764&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "JAL"
 ---
 # CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO LIBRE Y SOBERANO DE JALISCO
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTA ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 18 DE OCTUBRE DE 2011 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO LIBRE Y SOBERANO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE MARZO DE 2011.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE OCTUBRE DE 2011.
 
 Código publicado en el Periódico Oficial del Estado de Jalisco, el martes 7 de diciembre de 1982.
 
@@ -1183,21 +1185,17 @@ Se tendrá por acreditado el cuerpo del delito de robo equiparado, a que se cont
 
 Cuando, tratándose del delito de ataques a las vías de comunicación, no fuese posible practicar inspección ocular, porque para evitar perjuicios al servicio público haya sido necesario hacer inmediatamente la reparación respectiva, bastará para la comprobación de los elementos del tipo penal del delito cualquiera otra prueba plena.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
-
-> <small>(REFORMADO, P.O. 7 DE AGOSTO DE 2010)</small>
+> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2011)</small>
 
 ###### Art. 125.
 
-En los casos de los delitos de tránsito, inmediatamente se practicarán al indiciado los exámenes médicos y las pruebas de alcoholemia o de aire espirado en alcoholímetro, para determinar la concentración de alcohol, la afectación de la capacidad para conducir o que se encuentra bajo la influencia de enervantes. Para el caso que existiere delito de homicidio por las causales previstas en el artículo 48 fracción III del Código Penal, será necesaria la prueba de alcohol en sangre, la toxicológica o el dictamen médico correspondiente.
+En los casos de los delitos de tránsito, obligada e inmediatamente se practicarán al indiciado los exámenes médicos y las pruebas de alcoholemia o de aire espirado en alcoholímetro, para determinar la concentración de alcohol, la afectación de la capacidad para conducir o que se encuentra bajo la influencia de enervantes. Para el caso de que existiere delito de homicidio por las causales previstas en el artículo 48, fracción III, del Código Penal, será necesaria la prueba de alcohol en sangre, la toxicológica o el dictamen médico correspondiente.
 
-Cuando el indiciado se niegue a otorgar muestra de sangre o de aire espirado y previa certificación de dicha negativa que realice el Agente del Ministerio Público en presencia de su respectivo secretario o de dos testigos de asistencia, se le practicará un examen pericial clínico médico, cuyo resultado será considerado para determinar si el indiciado tiene condiciones físicas que afectan la capacidad para la conducción del vehículo.
-
-La autoridad ordenará la práctica de los exámenes que estime pertinentes para determinar el grado de concentración de alcohol que presente el indiciado en la sangre o de la intoxicación, particularmente indicará las alteraciones psíquicas y físicas producidas en dicho indiciado; establecerá la mayor o menor peligrosidad que en su estado represente para la circulación y, particularmente, dictaminará si al tiempo de los hechos estaba ebrio o intoxicado. Del resultado de dichas pruebas se levantará la certificación correspondiente.
+Cuando el indiciado se niegue a otorgar muestra de sangre o de aire espirado y previa certificación de dicha negativa que realice el Agente del Ministerio Público en presencia de su respectivo secretario o de dos testigos de asistencia, se le practicará un examen pericial clínico médico, cuyo resultado será considerado para determinar si el indiciado tiene condiciones físicas que afecten la capacidad para la conducción del vehículo.
 
 En los casos dudosos, el médico deberá mandar practicar las investigaciones de laboratorio que considere necesarias.
 
-Los medios de prueba señalados en este artículo, podrán utilizarse en la investigación de cualquier delito.
+Los medios de prueba señalados en este artículo podrán utilizarse en la investigación de cualquier delito.
 
 > <small>(REFORMADO, P.O. 3 DE FEBRERO DE 2001)</small>
 
@@ -4062,3 +4060,7 @@ TERCERO. El Instituto de Ciencias Forenses deberá elaborar las normas técnicas
 CUARTO. El Instituto Jalisciense de Ciencias Forenses deberá coordinarse con las corporaciones de seguridad pública, vialidad, rescate y auxilio médico estatales y municipales, para dar la capacitación necesaria para el debido cumplimiento del presente decreto.
 
 QUINTO. Se autoriza al Ejecutivo del Estado para que realice los ajustes presupuestales necesarios para dar cumplimiento al presente decreto, de lo cual deberá informar al Congreso de los cambios financieros que haga.
+
+P.O. 13 DE OCTUBRE DE 2011.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente al de su publicación en el periódico oficial El Estado de Jalisco.
