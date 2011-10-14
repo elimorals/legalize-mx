@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-hacienda-de-los-municipios-del-estado-de-campeche-3554"
 country: "mx"
 rank: "ley"
 publication_date: "1993-12-04"
-last_updated: "2010-12-23"
+last_updated: "2011-10-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3554&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 LEY DE HACIENDA DE LOS MUNICIPIOS DEL ESTADO DE CAMPECHE
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE DICIEMBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE OCTUBRE DE 2011.
 
 Ley publicada en el Periódico Oficial del Estado de Campeche, el sábado 4 de diciembre de 1993.
 
@@ -125,11 +125,11 @@ Las Leyes de Ingresos de los Municipios del Estado de Campeche establecerán anu
 
 Ningún gravamen podrá recaudarse si no está previsto por las correspondientes Leyes.
 
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO, P.O. 14 DE OCTUBRE DE 2011)</small>
 
 ###### ARTICULO 15.
 
-Los Ayuntamientos presentarán la iniciativa de Ley de Ingresos de su Municipio al Congreso del Estado, para su aprobación, en su caso, dentro de los últimos diez días del mes de noviembre de cada año.
+Los HH. Ayuntamientos presentarán sus iniciativas de Leyes de Ingresos ante el H. Congreso del Estado, para su debida aprobación, durante los últimos diez días del mes de noviembre.
 
 ###### ARTICULO 16.
 
@@ -1978,3 +1978,9 @@ P.O. 23 DE DICIEMBRE DE 2010.
 PRIMERO.- El presente decreto entrará en vigor el día primero de enero del año dos mil once, previa publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan todas aquellas disposiciones legales y reglamentarias en lo que se opongan al presente decreto.
+
+P.O. 14 DE OCTUBRE DE 2011.
+
+Primero.- El presente decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- Se derogan todas las disposiciones legales y reglamentarias que se opongan a lo dispuesto en este decreto.
