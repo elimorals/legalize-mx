@@ -4,7 +4,7 @@ identifier: "SIN-reglamento-de-la-policia-preventiva-y-transito-municipal-de-775
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-12-03"
-last_updated: "2010-12-03"
+last_updated: "2011-10-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77598&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,9 @@ state: "SIN"
 
 REGLAMENTO DE LA POLICIA PREVENTIVA Y TRANSITO MUNICIPAL DE NAVOLATO DEL ESTADO DE SINALOA
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO DE LA POLICIA PREVENTIVA Y TRANSITO MUNICIPAL DE NAVOLATO DEL ESTADO DE SINALOA, PUBLICADO EN EL P.O. DE 14 DE OCTUBRE DE 2011, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Periódico Oficial del Estado de Sinaloa, el viernes 03 de diciembre de 2010.
 
@@ -3502,3 +3504,23 @@ PRESIDENTE MUNICIPAL
 L.C.P. JUAN MANUEL BAUTISTA GONZALEZ
 
 SECRETARIO DEL H. AYUNTAMIENTO DE NAVOLATO
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 14 DE OCTUBRE DE 2011.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga el Reglamento de la Policía Preventiva y Transito Municipal de Navolato, publicado en el Periódico Oficial "El estado de Sinaloa" en fecha 03 de Diciembre del año 2010.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan las disposiciones reglamentarias y de menor jerarquía que sean contrarias a este reglamento
+
+###### ARTÍCULO CUARTO.
+
+Los órganos colegiados y de consulta deberán integrarse dentro de los 30 días siguientes a la publicación de este reglamento, previa convocatoria del Presidente.
