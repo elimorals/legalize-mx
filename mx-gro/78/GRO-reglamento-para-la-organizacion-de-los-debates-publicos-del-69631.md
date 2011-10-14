@@ -4,7 +4,7 @@ identifier: "GRO-reglamento-para-la-organizacion-de-los-debates-publicos-del-696
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-08-04"
-last_updated: "2009-08-04"
+last_updated: "2011-10-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69631&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "GRO"
 
 REGLAMENTO PARA LA ORGANIZACION DE LOS DEBATES PUBLICOS DEL INSTITUTO ELECTORAL DEL ESTADO DE GUERRERO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON LAS REFORMAS Y ADICIONES APROBADAS POR EL INSTITUTO ELECTORAL DEL ESTADO MEDIANTE ACUERDO No. 043/SE/29-09-2011, PUBLICADO EN EL P.O. 14 DE OCTUBRE DE 2011, SE MODIFICO DE FORMA SUSTANCIAL EL PRESENTE ORDENAMIENTO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE OCTUBRE DE 2011.
 
 Reglamento publicado en el Periódico Oficial del Estado de Guerrero, el martes 4 de agosto de 2009.
 
@@ -61,245 +63,291 @@ Rúbrica.
 
 REGLAMENTO PARA LA ORGANIZACIÓN DE LOS DEBATES PÚBLICOS DEL INSTITUTO ELECTORAL DEL ESTADO DE GUERRERO.
 
-## TÍTULO PRIMERO. DISPOSICIONES PRELIMINARES
+> <small>(REFORMADO, P.O. 14 DE OCTUBRE DE 2011)</small>
 
-### CAPÍTULO ÚNICO. DEL OBJETO
+## TITULO PRIMERO. DISPOSICIONES PRELIMINARES
 
-###### ARTÍCULO 1°.
+> <small>(REFORMADO, P.O. 14 DE OCTUBRE DE 2011)</small>
 
-El presente Reglamento regulara la organización de los debates públicos entre candidatos a cargos de elección popular.
+### CAPITULO ÚNICO. DEL OBJETO
 
-###### ARTÍCULO 2°.
+> <small>(REFORMADO, P.O. 14 DE OCTUBRE DE 2011)</small>
+
+###### Artículo 1°.
+
+El presente Reglamento tiene por objeto regular la organización y difusión de los debates públicos entre candidatos a cargos de elección popular, en términos de los (sic) que establecen los artículos 99, fracción XXV y 210 de la Ley de Instituciones y Procedimientos Electorales del Estado de Guerrero.
+
+> <small>(REFORMADO, P.O. 14 DE OCTUBRE DE 2011)</small>
+
+###### Artículo 2°.
 
 Son objetivos de este Reglamento:
 
-I. Establecer las bases, metodología y procedimientos aplicables para su realización y difusión;
+l. Establecer las bases, metodología y procedimientos aplicables para su realización y difusión;
 
-II. Garantizar que los debates se realicen bajos (sic) los principios de certeza, legalidad, imparcialidad, objetividad e independencia; y
+II. Garantizar que los debates se realicen bajos los principios de certeza, legalidad, imparcialidad, objetividad e independencia; y
 
 III. Determinar el desarrollo y contenido de los debates para que la ciudadanía conozca a los candidatos, sus planteamientos políticos y plataformas electorales.
 
-###### ARTÍCULO 3°.
+> <small>(REFORMADO, P.O. 14 DE OCTUBRE DE 2011)</small>
+
+###### Artículo 3°.
 
 Para los efectos de este Reglamento, se entenderá por:
 
-Candidatos: A las candidatas y candidatos a cargos de elección popular registrados por los partidos políticos o coaliciones ante el Instituto Electoral del Estado de Guerrero.
+Candidatos: Las candidatas y candidatos a cargos de elección popular registrados por los partidos políticos y/o coaliciones ante el Instituto Electoral del Estado de Guerrero, para Gobernador del estado, diputados locales de mayoría relativa, presidentes municipales y regidores de mayoría relativa.
 
-Candidatos a Gobernador: A las candidatas y candidatos a Gobernador del Estado, debidamente registrados ante el Instituto Electoral del Estado de Guerrero, por los Partidos Políticos o Coaliciones con registro o acreditación.
-
-Candidatos a Diputados: A las candidatas y candidatos a Diputados por el principio de mayoría relativa, debidamente registrados ante el Instituto Electoral del Estado de Guerrero, por los Partidos Políticos o Coaliciones registradas o acreditadas.
-
-Candidatos a Presidentes Municipales: A las candidatas y candidatos a la presidencia de los ayuntamientos, debidamente registrados ante el Instituto Electoral del Estado de Guerrero, por los Partidos Políticos o Coaliciones registradas o acreditadas.
-
-Coalición: A las Coaliciones registradas ante el Consejo General del Instituto Electoral del Estado de Guerrero.
+Coalición: Coalición total o parcial registrada ante el Consejo General del Instituto Electoral del Estado de Guerrero.
 
 Ley: La Ley de Instituciones y Procedimientos Electorales del Estado de Guerrero.
 
-Comisión: A la Comisión Especial de Debates Públicos del Consejo General del Instituto Electoral del Estado de Guerrero.
+Comisión: Comisión Especial para la Organización de Debates Públicos.
 
-Presidencia: A la Presidencia del Consejo General del Instituto Electoral del Estado de Guerrero.
+Presidencia: Presidencia del Consejo General del Instituto Electoral del Estado de Guerrero.
 
-Presidencia Distrital: A la Presidencia del Consejo Distrital del Instituto Electoral del Estado de Guerrero que corresponda.
+Presidencia Distrital: Presidencia del Consejo Distrital del Instituto Electoral del Estado de Guerrero.
 
 Consejero: Consejero Electoral o Consejero Distrital Electoral.
 
-Consejo: Al Consejo General del Instituto Electoral del Estado de Guerrero.
+Consejo: Consejo General del Instituto Electoral del Estado de Guerrero.
 
-Consejo Distrital Al Consejo Distrital del Instituto Electoral del Estado de Guerrero que corresponda.
+Consejo Distrital: Consejo Distrital del Instituto Electoral del Estado de Guerrero que corresponda.
 
-Constitución General: A la Constitución Política de los Estados Unidos Mexicanos.
+Debate: Al acto organizado por el Instituto Electoral del Estado de Guerrero, con el propósito de que dos o más candidatos a cargos de elección popular expongan y difundan sus propuestas, proyectos, planteamientos políticos y plataformas electorales.
 
-Constitución Local: A la Constitución del estado Libre y Soberano de Guerrero.
+Dirección: La Dirección Ejecutiva de Prerrogativas y Partidos Políticos.
 
-Debate: A el acto organizado por el Instituto Electoral del Estado de Guerrero, con el propósito de que dos o más candidatos a cargos de elección popular expongan y difundan sus propuestas, proyectos, planteamientos políticos y plataformas electorales.
+Instituto: Instituto Electoral del Estado de Guerrero.
 
-Dirección: A la Dirección Ejecutiva de Prerrogativas y Partidos Políticos.
+Moderador: La persona designada para dirigir el debate entre los candidatos a cargos de elección popular.
 
-Instituto: A el Instituto Electoral del Estado de Guerrero.
+Partidos Políticos: Los Partidos Políticos acreditados ante el Instituto Electoral del Estado de Guerrero.
 
-Moderador: A la persona designada para dirigir el debate entre los candidatos a cargos de elección popular.
+Reglamento: Reglamento para la Organización de los Debates Públicos.
 
-Partidos Políticos: A los Partidos Políticos acreditados o registrados ante el Instituto Electoral del Estado de Guerrero.
+Representante: Representantes de los Partidos Políticos y/o Coaliciones acreditados ante los Órganos Electorales del Instituto Electoral del Estado de Guerrero.
 
-Reglamento: A el Reglamento para la Organización de los Debates Públicos.
+Representantes de Candidatos: Representantes de los candidatos a cargos de elección popular para efectos de la organización de los debates públicos.
 
-Representante: A los representantes de los Partidos Políticos o Coaliciones registrados o acreditados ante los Órganos Electorales del Instituto Electoral del Estado de Guerrero.
+Secretario General: Secretario General del Instituto Electoral del Estado de Guerrero.
 
-Representantes de Candidatos: A los representantes de los candidatos a cargos de elección popular para efectos de la organización de los debates públicos.
+Secretario: Secretario Técnico del Consejo Distrital del Instituto Electoral del Estado de Guerrero, que corresponda.
 
-Secretario General: A él Secretario General del Instituto Electoral del Estado de Guerrero.
-
-Secretario: A él Secretario del Consejo Distrital del Instituto Electoral del Estado de Guerrero, que corresponda.
-
-Secretario Técnico: A él secretario Técnico de la Comisión Especial para la Organización de Debates.
+Secretario Técnico: Secretario Técnico de la Comisión Especial para la Organización de Debates Públicos.
 
 Las demás que se invoquen serán señaladas por su propio nombre.
 
-## TÍTULO SEGUNDO. DE LAS ATRIBUCIONES Y OBLIGACIONES
+> <small>(REFORMADO, P.O. 14 DE OCTUBRE DE 2011)</small>
 
-### CAPÍTULO PRIMERO. DE LAS ATRIBUCIONES Y OBLIGACIONES DEL CONSEJO
+## TITULO SEGUNDO. DE LAS ATRIBUCIONES Y OBLIGACIONES
 
-###### ARTÍCULO 4°.
+> <small>(REFORMADO, P.O. 14 DE OCTUBRE DE 2011)</small>
 
-El Consejo, en uso de la atribución que le confiere la Ley, integrará una Comisión Especial para la Organización de Debates, misma que se conformara por:
+### CAPITULO PRIMERO. DE LAS ATRIBUCIONES Y OBLIGACIONES DEL CONSEJO
 
-I. Tres Consejeros, uno de ellos presidirá la Comisión;
+> <small>(REFORMADO, P.O. 14 DE OCTUBRE DE 2011)</small>
 
-II. Tres Representantes de los Partidos Políticos; y
-
-III. El Director Ejecutivo de Prerrogativas y Partidos Políticos, quien fungirá como Secretario Técnico.
-
-El Consejo podrá determinar que la participación de los Representantes en la Comisión se realice de manera rotativa.
-
-Los integrantes del Consejo podrán observar las reuniones de trabajo o de la Comisión.
-
-###### ARTÍCULO 5°.
+###### Artículo 4°.
 
 Son obligaciones y atribuciones del Consejo en materia de debates, las siguientes:
 
-I. Organizar hasta dos debates en la elección de Gobernador del Estado, cuando así lo solicite expresamente algún candidato;
+I. Organizar los debates que celebren en las elecciones de Gobernador, diputados de mayoría relativa, presidentes municipales y regidores de mayoría relativa, a través de la Comisión Especial de Debates, en los términos establecidos en el presente Reglamento.
 
-II. Organizar un debate en la elección de Diputados por el principio de mayoría relativa, en cada uno de los Distritos, a solicitud de algún candidato;
+II. Emitir la convocatoria para la realización de debates públicos, una vez aprobado el registro de candidatos de la elección que corresponda, estableciendo el plazo para la recepción de solicitudes y el número máximo de debates a realizar por elección de diputados de mayoría relativa, presidentes municipales y regidores de mayoría relativa, en función, del presupuesto aprobado para dicho rubro.
 
-III. Organizar el número de debates que determine el Consejero para la elección de Presidentes Municipales, a solicitud de algún candidato;
+La convocatoria deberá publicarse en la página web del Instituto y en dos periódicos de mayor circulación estatal.
 
-IV. Integrar la Comisión a que refiere el presente Reglamento;
+III. Organizar el número de debates que se determine en la convocatoria para la elección de Gobernador, diputados locales de mayoría relativa, presidentes municipales y regidores de mayoría relativa, en función del presupuesto y siempre que lo soliciten de manera expresa dos o más candidatos de la entidad, distrito, municipio o demarcación municipal correspondiente.
 
-V. Aprobar; los lineamientos que proponga la Comisión sobre los no casos previstos en el presente Reglamento;
+IV. Aprobar los lineamientos que proponga la Comisión sobre los casos no previstos en el presente Reglamento; así como el calendario para la realización de los debates públicos, en el que se establezcan las fechas y lugares respectivos.
 
-VI. Determinar sobre las condicione (sic) para la realización de los debates temáticos o, en su caso, resolver sobre el cambio de sede por la suspensión del debate por causa justificada;
+V. Determinar sobre las condiciones para la realización de los debates públicos o, en su caso, resolver sobre el cambio de sede por la suspensión del debate por causa justificada;
 
-VII. Aprobar el programa que presente la Comisión sobre el lugar y fecha para la celebración el debate entre candidatos a Gobernados, Diputados o Presidentes Municipales;
+VI. Designar, entre las propuestas que presente la Comisión a los moderadores, propietarios y suplentes, para la realización de cada uno de los debates públicos.
 
-VIII. Aprobar la metodología que presente la comisión para la realización de los debates temáticos;
+VII. Solicitar, por conducto de la Presidencia, el apoyo de las autoridades estatales y municipales para la realización de los debates públicos.
 
-IX. Designar, entre las propuestas que presente la Comisión a los Moderadores, propietarios y suplentes para la realización de cada uno de los debates temáticos;
+VIII. Recibir el informe que presente la Comisión sobre las solicitudes para la realización de debates públicos, una vez vencido el término de recepción que establezca la convocatoria.
 
-X. Solicitar, por conducto de la Presidencia, el apoyo de las autoridades estatales y municipales para la realización de los debates temáticos;
+IX. Instruir a los Consejos Distritales, la coordinación para la organización, desarrollo y vigilancia de los debates públicos en el ámbito de su competencia.
 
-XI. Recibir el informe sobre las solicitudes para la realización de debates temáticos que presente la Comisión;
+X. Apoyar la difusión de los debates públicos a través de los medios de comunicación a su alcance; y
 
-XII. Instruir a los Consejos Distritales, la coordinación para la organización; desarrollo y vigilancia de los debates temáticos, en sus respectivas demarcaciones territoriales;
+XI. Las demás que señalen el presente Reglamento y las disposiciones legales aplicables.
 
-XIII. Garantizar la difusión de los debates temáticos a través de los medios de comunicación; y
+> <small>(REFORMADO, P.O. 14 DE OCTUBRE DE 2011)</small>
 
-XIV. Las demás que señalen el presente Reglamento y las disposiciones legales aplicables.
+###### Artículo 5°.
 
-### CAPÍTULO SEGUNDO. DE LAS ATRIBUCIONES Y OBLIGACIONES DE LA COMISIÓN
+El Consejo, en uso de la atribución que le confiere la Ley, integrará la Comisión Especial para la Organización de Debates Públicos, misma que se conformara por:
 
-###### ARTÍCULO 6°.
+l. Tres Consejeros, uno de ellos presidirá la Comisión;
+
+II. Los representantes de los Partidos Políticos y/o coaliciones acreditados ante el Consejo.
+
+III. El Director Ejecutivo de Prerrogativas y Partidos Políticos, quien fungirá como Secretario Técnico de la Comisión.
+
+Los integrantes del Consejo podrán observar las reuniones de trabajo de la Comisión.
+
+> <small>(REFORMADO, P.O. 14 DE OCTUBRE DE 2011)</small>
+
+### CAPITULO SEGUNDO. DE LAS ATRIBUCIONES Y OBLIGACIONES DE LA COMISIÓN
+
+> <small>(REFORMADO, P.O. 14 DE OCTUBRE DE 2011)</small>
+
+###### Artículo 6°.
 
 Son obligaciones y atribuciones de la Comisión, las siguientes:
 
-I. Recibir por conducto del Secretario General las solicitudes presentadas por los candidatos para la realización de debates temáticos;
+l. Coordinarse con los consejos distritales para la organización, difusión y realización de los debates públicos que se realicen en el ámbito de su competencia.
 
-II. Proponer los lineamientos y criterios para el contenido y desarrollo de los debates temáticos;
+II. Recibir de manera directa y/o de los consejos distritales, las solicitudes que presenten los candidatos a cargos de elección popular para la realización de debates públicos, dentro del plazo fijado en la convocatoria respectiva.
 
-III. Dictaminar sobre las condiciones para la realización de cada debate, presentándolo al Consejo;
+III. Informar a la Presidencia sobre las solicitudes que se presenten durante el plazo previsto en la convocatoria, dentro de las 24 horas siguientes al vencimiento del mismo.
 
-IV. Notificar a los Partidos Políticos o Coaliciones el derecho que tienen sus candidatos para acreditar un Representante ante los órganos desconcentrados que intervendrá exclusivamente en la reunión de trabajo para la organización de los debates públicos;
+IV. Realizar las reuniones de trabajo necesarias para aprobar los lineamientos y el calendario que se propondrá al Consejo para la realización de los debates públicos y aquellas que se requieran, previa convocatoria del presidente de la Comisión.
 
-V. Notificar a los Consejos Distritales el dictamen aprobado por el Consejo donde consten las condiciones para la realización del debate;
+V. Proponer los lineamientos y criterios para el contenido y desarrollo de los debates públicos sobre los casos no previstos en el presente Reglamento.
 
-VI. Proponer al Consejo, la metodología para la realización de debates temáticos; y
+VI. Dictaminar sobre las condiciones para la realización de cada debate, y presentar el proyecto al Consejo;
 
-VII. Las demás que señalen el presente Reglamento y las disposiciones legales aplicables.
+VII. Notificar a los Partidos Políticos o Coaliciones el derecho que tienen sus candidatos para acreditar un Representante ante los Consejos Distritales en donde existan solicitudes para la realización de debates públicos. Estos representantes intervendrán exclusivamente en la reunión de trabajo para la organización de los debates públicos que sean convocadas por los consejos distritales para dicho tema.
+
+Para el caso de la elección de gobernador, los representantes de los candidatos deberán acreditarse ante la Comisión Especial.
+
+VIII. Recibir de los consejos distritales las propuestas de temas, lugar y fecha para la realización de debates públicos, en el ámbito de su competencia.
+
+IX. Realizar el sorteo por el que se determine el turno y ubicación de cada uno de los candidatos en el debate.
+
+X. Las demás que señalen el presente Reglamento y las disposiciones legales aplicables.
+
+> <small>(REFORMADO, P.O. 14 DE OCTUBRE DE 2011)</small>
 
 ### CAPÍTULO TERCERO. DE LAS ATRIBUCIONES Y OBLIGACIONES DEL SECRETARIO TÉCNICO
 
-###### ARTÍCULO 7°.
+> <small>(REFORMADO, P.O. 14 DE OCTUBRE DE 2011)</small>
+
+###### Artículo 7°.
 
 Las obligaciones y atribuciones del Secretario Técnico, en materia de los debates, son las siguientes:
 
-I. Convocar, por instrucciones del Presidente, a reuniones de trabajo para determinar las características de los debates temáticos: reglas, formato, moderadores, lugar, fecha y horario, sorteo y demás contenidos para su realización;
+l. Auxiliar a la presidencia de la Comisión en las reuniones de trabajo para determinar las características de los debates públicos: lineamientos, formato, moderadores, lugar, fecha y hora, así como en el sorteo del turno de participación y ubicación de los candidatos y demás contenidos para su realización;
 
-II. Apoyar en la realización de los debates temáticos; y
+II. Apoyar la realización de los debates públicos; y
 
 III. Las demás que señalen el presente Reglamento y las disposiciones legales aplicables.
+
+> <small>(REFORMADO, P.O. 14 DE OCTUBRE DE 2011)</small>
 
 ### CAPÍTULO CUARTO. DE LAS ATRIBUCIONES Y OBLIGACIONES DE LOS CONSEJOS DISTRITALES
 
-###### ARTÍCULO 8°.
+> <small>(REFORMADO, P.O. 14 DE OCTUBRE DE 2011)</small>
 
-Son atribuciones de los Consejos Distritales, en materia de los debates temáticos, las siguientes:
+###### Artículo 8°.
 
-I. Coadyuvar con el Consejo a facilitar las condiciones para la organización de los debates temáticos, dentro de su demarcación territorial;
+Son atribuciones de los Consejos Distritales, en materia de los debates públicos, las siguientes:
 
-II. Proponer una lista de moderadores para los debates temáticos, dentro de su demarcación territorial; y
+Organizar los debates de diputados presidentes municipales y regidores de mayoría relativa en el ámbito de su competencia.
+
+l. Coadyuvar con el Consejo y la Comisión en la difusión de la convocatoria para la realización de debates públicos, así como para el establecimiento de las condiciones necesarias para la organización, realización y difusión de los debates públicos, dentro del ámbito de su competencia.
+
+II. Proponer a la Comisión los nombres de los moderadores propietario y suplente para los debates públicos, así como el lugar, fecha y hora para el mismo, tomando en consideración la opinión de los representantes de partido o coaliciones que acrediten los candidatos interesados en debatir,
 
 III. Las demás que señalen el presente Reglamento y las disposiciones legales aplicables.
 
-### CAPÍTULO QUINTO. DE LAS ATRIBUCIONES Y OBLIGACIONES DE LA PRESIDENCIA DISTRITAL
+> <small>(REFORMADO, P.O. 14 DE OCTUBRE DE 2011)</small>
 
-###### ARTÍCULO 9°.
+### CAPITULO QUINTO. DE LAS ATRIBUCIONES Y OBLIGACIONES DE LA PRESIDENCIA DISTRITAL
 
-Son atribuciones y obligaciones de la Presidencia Distrital en materia de debates temáticos las siguientes:
+> <small>(REFORMADO, P.O. 14 DE OCTUBRE DE 2011)</small>
 
-I. Estar presente en. El desarrollo del debate para coadyuvar en el mismo;
+###### Artículo 9°.
 
-II. Notificar a los Partidos políticos o Coaliciones para que sus candidatos acudan a debatir públicamente, de acuerdo a su demarcación territorial;
+Son atribuciones y obligaciones de la Presidencia Distrital en materia de debates públicos las siguientes:
 
-III. Presentar a la Comisión la lista de las propuestas de moderador propietario y suplente para actuar en el debate;
+l. Coadyuvar con la Comisión Especial en la organización, difusión y realización de los debates públicos en el ámbito de su competencia.
 
-IV. Notificar a la Comisión las condiciones que permitan la realización de debates temáticos entre candidatos a Diputados y a Presidentes Municipales, en el ámbito de su competencia;
+II. Notificar a los Partidos políticos o Coaliciones, el Acuerdo del Consejo sobre la realización de debates públicos, así como a los candidatos interesados en debatir, la fecha, lugar y hora aprobada para la realización del debate, en el ámbito de su competencia.
 
-V. Notificar a los Partidos Políticos o Coaliciones el dictamen aprobado por el Consejo respecto de la realización de los debates temáticos;
+III. Proponer a la Comisión los moderadores propietario y suplente para actuar en el debate, así como de lugar, fecha y hora, tomando en consideración la opinión de los representantes de los candidatos acreditados interesados en debatir.
 
-VI. Proponer a la Comisión el lugar, fecha y hora para la realización del debate público;
+IV. Notificar a la Comisión las condiciones que permitan la realización de debates públicos entre candidatos a diputados de mayoría relativa, presidentes municipales y regidores de mayoría relativa en el ámbito de su competencia;
 
-VII. Remitir a la Comisión los informes respecto a los medios de comunicación y difusión a su alcance, respecto a la realización de debates temáticos, a fin de recibir el apoyo correspondiente; y
+V. Remitir a la Comisión un informe sobre los medios de comunicación con cobertura en su distrito, a fin de solicitar su apoyo para la difusión de los mismos.
 
-VIII. Las demás que señalen el presente Reglamento y las disposiciones legales aplicables.
+VI. Estar presente en la realización del debate que se realice en el ámbito de su competencia.
+
+VII. Las demás que señalen el presente Reglamento y las disposiciones legales aplicables.
+
+> <small>(REFORMADO, P.O. 14 DE OCTUBRE DE 2011)</small>
 
 ## TÍTULO TERCERO. DE LA ORGANIZACIÓN DE LOS DEBATES
 
+> <small>(REFORMADO, P.O. 14 DE OCTUBRE DE 2011)</small>
+
 ### CAPÍTULO ÚNICO. GENERALIDADES Y ACTOS PREVIOS
 
-###### ARTÍCULO 10.
+> <small>(REFORMADO, P.O. 14 DE OCTUBRE DE 2011)</small>
 
-Los debates temáticos podrán realizarse únicamente dentro del periodo de campañas electorales que establece la Ley Electoral Local. En caso de elecciones extraordinarias, se realizaran en el periodo que señale al (sic) convocatoria respectiva.
+###### Artículo 10.
 
-###### ARTÍCULO 11.
+Los debates públicos podrán realizarse únicamente dentro del periodo de campañas electorales que establece la Ley Electoral Local. En caso de elecciones extraordinarias, se realizarán en el periodo que señale la convocatoria respectiva.
 
-Los debates temáticos podrán llevarse a cabo cuando lo solicite expresamente uno de los candidatos registrados y conste por escrito la aceptación de por lo menos otro de los candidatos registrados; debiéndose tomar en consideración el dictamen formulado por la Comisión y aprobado por el Consejo donde consten las condiciones existentes para su realización.
+> <small>(REFORMADO, P.O. 14 DE OCTUBRE DE 2011)</small>
 
-###### ARTÍCULO 12.
+###### Artículo 11.
 
-Las solicitudes para la realización de los debates temáticos se podrán presentar una vez aprobados los registros de los candidatos respectivos, no podrán realizarse debates tres días antes del día de la Jornada Electoral.
+Una vez aprobado el registro de candidatos de la elección de que se trate, el Consejo General emitirá la convocatoria para la realización de debates públicos, especificando el plazo para la recepción de solicitudes y el número máximo de debates a organizar para el caso de la (sic) elecciones de diputados de mayoría relativa, presidentes municipales y regidores de mayoría relativa, en función del presupuesto aprobado para dicho rubro.
 
-Las solicitudes a que se refiere el párrafo anterior, deberán presentarse ante la Secretaría General del Instituto.
+> <small>(REFORMADO, P.O. 14 DE OCTUBRE DE 2011)</small>
 
-###### ARTÍCULO 13.
+###### Artículo 12.
 
-Concluido el periodo de recepción de las solicitudes, el Secretario General las remitirá al Presidente dentro de las veinticuatro horas siguientes.
+Los debates públicos podrán llevarse a cabo cuando lo solicite expresamente uno de los candidatos registrados y conste por escrito la aceptación de por lo menos otro de los candidatos registrados; debiéndose tomar en consideración el dictamen formulado por la Comisión y aprobado por el Consejo donde consten las condiciones existentes para su realización.
 
-###### ARTÍCULO 14.
+> <small>(REFORMADO, P.O. 14 DE OCTUBRE DE 2011)</small>
 
-El Presidente, una vez recibido las solicitudes para debatir, convocará inmediatamente a los integrantes de la Comisión para que dentro de las cuarenta y ocho horas siguientes lleven a cabo la reunión de trabajo respectiva.
+###### Artículo 13.
 
-###### ARTÍCULO 15.
+Las solicitudes para la realización de los debates públicos se podrán presentar a partir de la aprobación de la convocatoria respectiva y hasta la fecha que establezca la misma; no podrán realizarse debates durante los tres días previos al día de la Jornada Electoral.
 
-En la reunión de trabajo de la Comisión se deberá acordar se notifique a los partidos políticos o coaliciones respecto a las solicitudes recibidas y ordenara a los Consejos Distritales recabar la información pertinente que permitan la elaboración de proyecto de dictamen a que se refiere el artículo 18 de este Reglamento.
+Las solicitudes a que se refiere el párrafo anterior, deberán presentarse ante la Secretaría Técnica de la Comisión y/o ante el Consejo Distrital que corresponda. En el caso de los consejos distritales, el presidente estará obligado a notificar dicha solitud (sic) a la Secretaria Técnica de la Comisión dentro de las 24 horas siguientes a la misma, así como al resto de los representantes de partido o coalición acreditados ante el mismo.
 
-###### ARTÍCULO 16.
+> <small>(REFORMADO, P.O. 14 DE OCTUBRE DE 2011)</small>
 
-Una vez notificados los partidos políticos o Coaliciones contaran con un plazo de setenta y dos horas para remitir a la comisión el escrito donde conste la aceptación de sus candidatos registrados para participar en el debate, con las firmas respectivas.
+###### Artículo 14.
 
-###### ARTÍCULO 17.
+Dentro de las 24 horas siguientes a la conclusión del periodo de recepción de las solicitudes, la Comisión informará a la Presidencia del Consejo, las solicitudes que se hayan recibido y convocará a reunión de trabajo.
 
-Dentro de las veinticuatro horas siguientes al vencimiento del plazo para recibir los escritos de aceptación al debate, los Consejos Distritales deberán enviar a la comisión la información que permita establecer las condiciones existentes para la organización y desarrollo del debate.
+> <small>(REFORMADO, P.O. 14 DE OCTUBRE DE 2011)</small>
 
-###### ARTÍCULO 18.
+###### Artículo 15.
 
-Concluido el plazo del artículo anterior, la Comisión contara con cuarenta y. ocho horas para elaborar el Proyecto de dictamen y calendarización correspondiente.
+En la reunión de trabajo de la Comisión se deberá acordar se notifique a los partidos políticos o coaliciones respecto a las solicitudes recibidas y solicitará, en su caso, a los Consejos Distritales recabar la información pertinente que permita la elaboración de proyecto de dictamen a que se refiere el artículo 17 de este Reglamento.
 
-###### ARTÍCULO 19.
+> <small>(REFORMADO, P.O. 14 DE OCTUBRE DE 2011)</small>
 
-Una vez concluidos los trabajos a que refiere el artículo anterior, la comisión por conducto de su Presidente presentara el proyecto de dictamen a la Presidencia, para que convoque, dentro de las veinticuatro horas, a sesión extraordinaria del consejo.
+###### Artículo 16.
 
-###### ARTÍCULO 20.
+Dentro de las 48 horas siguientes al vencimiento del plazo para recibir los escritos de aceptación al debate, los Consejos Distritales deberán enviar a la comisión la información que permita establecer las condiciones existentes para la organización y desarrollo del debate.
 
-Para la realización de los debates temáticos, deberán existir las siguientes condiciones:
+> <small>(REFORMADO, P.O. 14 DE OCTUBRE DE 2011)</small>
+
+###### Artículo 17.
+
+Concluido el plazo al que se refiere el artículo anterior, la Comisión contará con setenta y dos horas para elaborar el Proyecto de dictamen y calendarización correspondiente.
+
+> <small>(REFORMADO, P.O. 14 DE OCTUBRE DE 2011)</small>
+
+###### Artículo 18.
+
+Una vez concluidos los trabajos a que refiere el artículo anterior, la comisión por conducto de su Presidente presentará el proyecto de dictamen a la Presidencia, para que convoque, dentro de las veinticuatro horas, a sesión extraordinaria del Consejo.
+
+> <small>(REFORMADO, P.O. 14 DE OCTUBRE DE 2011)</small>
+
+###### Artículo 19.
+
+Para la realización de los debates públicos deberán existir las siguientes condiciones:
 
 I. Dos o más candidatos registrados;
 
@@ -315,19 +363,21 @@ d. No ser locales de partidos políticos; y
 
 e. Centros de vicio.
 
-III. Las condiciones mínimas para la difusión de los debates temáticos; y
+III. Las condiciones mínimas para la difusión de los debates públicos; y
 
-IV. Las demás que determine el Consejo.
+IV. Las demás que determine el Consejo a propuesta de la Comisión a través de los lineamientos respectivos.
 
-###### ARTÍCULO 21.
+> <small>(REFORMADO, P.O. 14 DE OCTUBRE DE 2011)</small>
 
-El Consejo, en la sesión extraordinaria que refiere el artículo 19 del presente Reglamento, analizara el anteproyecto de dictamen presentado por la Comisión para acordar lo conducente:
+###### Artículo 20.
 
-I. El moderador propietario y suplente para desempeñar las funciones en el debate, de acuerdo a la lista que para tal efecto le presente la Comisión;
+El Consejo, en la sesión extraordinaria que refiere el artículo 18 del presente Reglamento, analizará el anteproyecto de dictamen presentado por la Comisión para acordar lo conducente:
 
-II. Las etapas que conformarán el debate serán determinadas por el Consejo;
+l. El moderador propietario y suplente para cada debate público, de acuerdo a la propuesta que presente la Comisión;
 
-III. El Orden de ubicación e intervención de los candidatos en cada una de las etapas del debate; mismos que se determinaran mediante un sorteo;
+II. Las etapas de cada debate;
+
+III. El Orden de ubicación e intervención de los candidatos en cada una de las etapas del debate; mismos que se determinarán mediante un sorteo previo realizado por la Comisión;
 
 IV. Los tiempos de intervención en el debate de los candidatos participantes y del moderador;
 
@@ -335,111 +385,159 @@ V. La estrategia a seguir en materia de medios de comunicación para la adecuada
 
 VI. Las medidas de seguridad para la realización del debate;
 
-VII. Las personas autorizadas para ingresar al recinto en el que se celebre el debate; y
+VII Las personas autorizadas para ingresar al recinto en el que se celebre el debate; y
 
 VIII. En su caso, aquellas estimaciones que considere pertinentes para la realización del debate.
 
-###### ARTÍCULO 22.
+> <small>(REFORMADO, P.O. 14 DE OCTUBRE DE 2011)</small>
 
-En caso de que el debate se realice dentro de los seis días previos a la Jornada Electoral, los candidatos no podrán difundir resultados de encuestas o sondeos de opinión que tengan por objeto dar a conocer preferencias electorales de los ciudadanos; sin observancia dará motivo a la iniciación del procedimiento administrativo sancionador, respectivo y a la aplicación de las sanciones previstas en el Libro Cuarto Titulo Sexto de la Ley.
+###### Artículo 21.
 
-###### ARTÍCULO 23.
+En caso de que el debate se realice dentro de los dos últimos días de campaña, los candidatos no podrán difundir resultados de encuestas o sondeos de opinión que tengan por objeto dar a conocer preferencias electorales de los ciudadanos; la inobservancia a este precepto, dará motivo al inicio del procedimiento administrativo sancionador respectivo y a la aplicación de las sanciones previstas en el Libro Cuarto Título Sexto de la Ley.
+
+> <small>(REFORMADO, P.O. 14 DE OCTUBRE DE 2011)</small>
+
+###### Artículo 22.
 
 El lugar donde deba desarrollarse el debate respecto de la elección de Gobernador, deberá contar con las características mínimas siguientes:
 
 I. Ser cerrado;
 
-II. Contar con las características de seguridad necesarias para que el debate se desarrolle con orden y sin interrupciones que pongan en riesgo el desarrollo de este; y
+II. Contar con las medidas de seguridad necesarias para que el debate se desarrolle con orden y sin interrupciones o interpretaciones que pongan en riesgo el desarrollo de este; y
 
-III. Contar con la infraestructura necesaria para el adecuado acceso de los medios de comunicación, previamente acreditados por el Consejo.
+III. Contar con la infraestructura necesaria para el adecuado acceso de los medios de comunicación, previamente acreditados por el Consejo, a través de la Unidad Técnica de Comunicación Social.
 
-###### ARTÍCULO 24.
+> <small>(REFORMADO, P.O. 14 DE OCTUBRE DE 2011)</small>
 
-Para la designación del lugar donde se efectuará el debate entre los candidatos a Diputados y a Presidentes Municipales, se atenderá a las condiciones físicas que prevalezcan en el distrito o municipio donde se vaya a desarrollar el debate.
+###### Artículo 23.
 
-###### ARTÍCULO 25.
+Para la designación del lugar donde se efectuará el debate entre los candidatos a diputados de mayoría relativa, presidentes municipales y regidores de mayoría relativa, se atenderá a las condiciones físicas que prevalezcan en el distrito o municipio donde se vaya a desarrollar el debate.
+
+> <small>(REFORMADO, P.O. 14 DE OCTUBRE DE 2011)</small>
+
+###### Artículo 24.
 
 En el recinto donde se realice el debate quedará prohibido fijar la propaganda electoral y realizar cualquier acto de proselitismo por parte de los simpatizantes, militantes o funcionarios de los Partidos Políticos o Coaliciones.
 
-###### ARTÍCULO 26.
+> <small>(REFORMADO, P.O. 14 DE OCTUBRE DE 2011)</small>
+
+###### Artículo 25.
 
 Sólo tendrán derecho a voz en el transcurso del debate, el moderador y los candidatos participantes.
 
-###### ARTÍCULO 27.
+> <small>(REFORMADO, P.O. 14 DE OCTUBRE DE 2011)</small>
+
+###### Artículo 26.
 
 El Consejo tomará en consideración la opinión de los candidatos a debatir, por medio de sus Representantes acreditados para determinar el tiempo de intervención en el debate.
 
+> <small>(REFORMADO, P.O. 14 DE OCTUBRE DE 2011)</small>
+
+###### Artículo 27.
+
+Los costos que se originen por la celebración del debate serán cubiertos en partes iguales entre el Instituto y los partidos y/o coaliciones de los candidatos interesados en debatir.
+
+> <small>(REFORMADO, P.O. 14 DE OCTUBRE DE 2011)</small>
+
 ## TÍTULO CUARTO. DESARROLLO DEL DEBATE
+
+> <small>(REFORMADO, P.O. 14 DE OCTUBRE DE 2011)</small>
 
 ### CAPÍTULO PRIMERO. DEL SORTEO
 
-###### ARTÍCULO 28.
+> <small>(REFORMADO, P.O. 14 DE OCTUBRE DE 2011)</small>
 
-Los costos que se originen por la celebración del debate serán cubiertos por el Instituto.
+###### Artículo 28.
 
-###### ARTÍCULO 29.
+El orden de ubicación e intervención de los candidatos en las etapas de debates se determinará mediante un sorteo que realice la Comisión previo al dictamen que emita.
 
-El orden de ubicación e intervención de los candidatos en las etapas de debates se realizaran mediante un sorteo, dentro del plazo que señala el presente Reglamento.
+> <small>(REFORMADO, P.O. 14 DE OCTUBRE DE 2011)</small>
 
-###### ARTÍCULO 30.
+###### Artículo 29.
 
-El sorteo previo al debate se celebrara en una sola ocasión ante los integrantes de la Comisión.
+El sorteo previo el debate se celebrará en una sola ocasión en reunión de trabajo de la Comisión.
 
-###### ARTÍCULO 31.
+> <small>(REFORMADO, P.O. 14 DE OCTUBRE DE 2011)</small>
 
-Para la realización del sorteo, se utilizara una urna transparente, que contendrá sobres cerrados con tarjetas con el número secuencial, comenzando con el número uno hasta el número correspondiente de candidatos participantes, así como las firmas del Presidente y del Secretario del Consejo y sello del Instituto.
+###### Artículo 30.
 
-###### ARTÍCULO 32.
+Para la realización del sorteo, se utilizará una urna transparente, que contendrá sobres cerrados con tarjetas con el número secuencial, comenzando con el número uno hasta el número correspondiente de candidatos participantes, así como las firmas del Presidente y Secretario Técnico de la Comisión, así como el sello respectivo.
 
-El Consejero Presidente extraerá un sobre de la urna que contendrá el nombre del candidato a debatir y la secuencia progresiva de extracción determinará su participación.
+> <small>(REFORMADO, P.O. 14 DE OCTUBRE DE 2011)</small>
 
-### CAPÍTULO PRIMERO (SIC). DEL SORTEO
+###### Artículo 31.
 
-###### ARTÍCULO 33.
+El Presidente de la Comisión extraerá un sobre de la urna que contendrá el nombre del candidato a debatir y la secuencia progresiva de extracción determinará su participación.
 
-El orden de la ubicación de los candidatos participantes en el debate será de acuerdo al número extraído en el sorteo, ocupando el pódium del extremo derecho al izquierdo frente al moderador.
+> <small>(REFORMADO, P.O. 14 DE OCTUBRE DE 2011)</small>
 
-###### ARTÍCULO 34.
+###### Artículo 32.
 
-La Comisión acordará el número de etapas y los temas a desarrollar en el debate de candidatos, será atendiendo sus propuestas, planteamientos y plataformas electorales, para emitir un voto informado y razonado.
+El orden de la ubicación de los candidatos participantes en el debate será de acuerdo al número extraído en el sorteo, ocupando el pódium del extremo derecho al izquierdo frente al moderador, quien se situará de frente al fondo del lugar donde se realice el debate.
 
-###### ARTÍCULO 35.
+> <small>(REFORMADO, P.O. 14 DE OCTUBRE DE 2011)</small>
+
+### CAPÍTULO SEGUNDO. DE LA ESTRUCTURA Y DESARROLLO
+
+> <small>(REFORMADO, P.O. 14 DE OCTUBRE DE 2011)</small>
+
+###### Artículo 33.
+
+La Comisión acordará el número de etapas y los temas a desarrollar en el debate de candidatos, atendiendo a sus propuestas, planteamientos y plataformas electorales, para emitir un voto informado y razonado.
+
+> <small>(REFORMADO, P.O. 14 DE OCTUBRE DE 2011)</small>
+
+###### Artículo 34.
 
 Los candidatos al intervenir en el debate no podrán apoyarse en equipos auditivos, audiovisuales o de proyección de imágenes.
 
-###### ARTÍCULO 36.
+> <small>(REFORMADO, P.O. 14 DE OCTUBRE DE 2011)</small>
+
+###### Artículo 35.
 
 Los candidatos, al hacer uso de la palabra en cualquiera de las etapas de debate, deberán observar y respetar el contenido de los temas y los tiempos de exposición acordados, evitando cualquier expresión que implica diatriba, calumnia, infamia, difamación o que denigre a los ciudadanos, a las instituciones públicas o a otros Partidos Políticos y sus candidatos. Tampoco podrán realizar expresiones que inciten al desorden y a la violencia, así como utilizar símbolos, signos o motivos religiosos o racistas.
 
-### CAPÍTULO TERCERO. DE LA INTERVENCIÓN DEL MODERADOR
+Los candidatos que no tengan el uso de la palabra deberán guardar silencio y por ningún motivo interrumpir a su homólogo que haga uso de la voz.
 
-###### ARTÍCULO 37.
+> <small>(REFORMADO, P.O. 14 DE OCTUBRE DE 2011)</small>
+
+###### Artículo 36.
 
 La impuntualidad de algunos de los candidatos solo dará lugar al corrimiento en el orden respecto de los que se encuentren presentes.
 
-###### ARTÍCULO 38.
+> <small>(REFORMADO, P.O. 14 DE OCTUBRE DE 2011)</small>
+
+### CAPÍTULO TERCERO. DE LA INTERVENCIÓN DEL MODERADOR
+
+> <small>(REFORMADO, P.O. 14 DE OCTUBRE DE 2011)</small>
+
+###### Artículo 37.
 
 El moderador propietario, como el suplente deberá garantizar la imparcialidad, objetividad, legalidad, transparencia, equidad y profesionalismo en su actuación.
 
-###### ARTÍCULO 39.
+> <small>(REFORMADO, P.O. 14 DE OCTUBRE DE 2011)</small>
 
-Para ser designado moderador propietario suplente se requiere:
+###### Artículo 38.
 
-I. Ser ciudadano mexicano en pleno ejercicio de sus derechos político-electorales;
+Para ser designado moderador propietario o suplente se requiere:
 
-II. Mayor de veinticinco años;
+l. Ser ciudadano mexicano en pleno ejercicio de sus derechos político-electorales;
+
+II. Mayor de dieciocho años;
 
 III. Haber destacado en el medio social, académico o medios de comunicación;
 
 IV. Gozar de buena reputación, reconocida capacidad y honorabilidad.
 
-###### ARTÍCULO 40.
+> <small>(REFORMADO, P.O. 14 DE OCTUBRE DE 2011)</small>
 
-No podrá ser moderador:
+###### Artículo 39.
 
-I. Los dirigentes o integrantes de los comités Nacionales, Estatales o Municipales de algún Partido Político o Coalición;
+No podrán ser moderadores:
 
-II. Los funcionarios o servidores públicos, que ostenten el cargo por elección popular;
+l. Los dirigentes o integrantes de los comités Nacionales, Estatales o Municipales de algún Partido Político o Coalición;
+
+II. Los funcionarios, servidores públicos y los que ostenten el cargo por elección popular;
 
 III. Los que hayan participado como candidatos a puestos de elección popular;
 
@@ -447,46 +545,76 @@ IV. Los militantes de algún partido político;
 
 V. Los ministros de algún culto religioso.
 
-El moderador suplente actuará en ausencias del moderador propietario.
+VI. Los familiares de los candidatos en línea directa ascendente o descendente y/o colateral hasta tercer grado con los candidatos y/o dirigentes de los partidos que los postulen.
 
-###### ARTÍCULO 41.
+VII. El moderador suplente actuará en ausencias del moderador propietario.
+
+> <small>(REFORMADO, P.O. 14 DE OCTUBRE DE 2011)</small>
+
+###### Artículo 40.
 
 El moderador llevará el curso del debate otorgando la palabra a los participantes y vigilando que se cumpla con el orden y los tiempos de intervención acordados por el Consejo.
 
-###### ARTÍCULO 42.
+> <small>(REFORMADO, P.O. 14 DE OCTUBRE DE 2011)</small>
+
+###### Artículo 41.
 
 El moderador podrá solicitar, a la Presidencia Distrital la intervención de la fuerza pública para preservar el orden del debate con el objeto de lograr su buen desarrollo.
 
-###### ARTÍCULO 43.
+> <small>(REFORMADO, P.O. 14 DE OCTUBRE DE 2011)</small>
 
-El moderador dará inicio formal a la realización del debate correspondiente, en el lugar de fecha programado para tal efecto. De acuerdo a las etapas a desarrollarse, explicará el tema que deberán exponer los candidatos contendientes y el tiempo de participación en cada una de ellas.
+###### Artículo 42.
+
+El moderador dará inicio formal a la realización del debate correspondiente, en el lugar, fecha y hora aprobados para tal efecto. De acuerdo a las etapas a desarrollarse, explicará el tema que deberán exponer los candidatos contendientes y el tiempo de participación en cada una de ellas.
+
+> <small>(REFORMADO, P.O. 14 DE OCTUBRE DE 2011)</small>
+
+###### Artículo 43.
+
+En caso que los candidatos incumplan con lo establecido en el presente Reglamento, el moderador apercibirá al candidato para que se abstenga de realizar dicha conducta si éste reincidiera, el moderador le retirará el uso de la palabra durante la etapa que se esté desarrollando.
+
+> <small>(REFORMADO, P.O. 14 DE OCTUBRE DE 2011)</small>
 
 ### CAPÍTULO CUARTO. DE LOS ASISTENTES AL DEBATE
 
-###### ARTÍCULO 44.
+> <small>(REFORMADO, P.O. 14 DE OCTUBRE DE 2011)</small>
 
-En caso que los candidatos incumplan con lo establecido en el presente Reglamento, el moderador apercibirá al orador para que se abstenga de realizar dicha conducta; si éste reincidiera, el moderador le retirará el uso de la palabra durante la etapa que se esté desarrollando.
-
-###### ARTÍCULO 45.
+###### Artículo 44.
 
 El Instituto será el responsable de controlar el acceso al recinto en el que se celebrará el debate, permitiendo únicamente la entrada a las personas autorizadas, según lo dispuesto en el acuerdo del Consejo.
 
-###### ARTÍCULO 46.
+> <small>(REFORMADO, P.O. 14 DE OCTUBRE DE 2011)</small>
 
-En ningún momento los asistentes al debate tendrán uso de la palabra y deberán guardar el orden para no interrumpir a los candidatos o al moderador absteniéndose también de realizar cualquier manifestación de apoyo o desacuerdo.
+###### Artículo 45.
 
-En caso de no cumplir con lo anterior, el moderador invitara a la persona o a las personas respectivas a abandonar el recinto.
+En ningún momento, los asistentes al debate tendrán uso de la palabra y deberán guardar el orden para no interrumpir a los candidatos o al moderador absteniéndose también de realizar cualquier manifestación de apoyo o desacuerdo.
+
+En caso de no cumplir con lo anterior, el moderador invitará a la persona o a las personas respectivas a abandonar el recinto; de no hacerlo podrá recurrir al uso de la fuerza pública.
+
+> <small>(REFORMADO, P.O. 14 DE OCTUBRE DE 2011)</small>
+
+###### Artículo 46.
+
+Los simpatizantes o militantes de los Partidos Políticos o coaliciones, no podrán realizar mítines fuera o dentro del recinto y no podrán hacer uso de ningún aparato de perifoneo en cualquiera de sus modalidades.
+
+Tampoco podrán utilizar ningún tipo de propaganda y/o llevarla consigo en su vestimenta.
+
+> <small>(REFORMADO, P.O. 14 DE OCTUBRE DE 2011)</small>
 
 ### CAPÍTULO QUINTO. DE LOS MEDIOS DE COMUNICACIÓN
 
-###### ARTÍCULO 48.
+> <small>(REFORMADO, P.O. 14 DE OCTUBRE DE 2011)</small>
 
-El Consejo instruirá al Secretario General para que, por conducto de la coordinación de Comunicación Social del Instituto, convoque a los medios de comunicación impresos y electrónicos conducentes.
+###### Artículo 47.
 
-###### ARTÍCULO 47.
-
-Los simpatizantes o militantes de los Partidos Políticos o coaliciones, no podrán realizar mítines fuera o dentro del recinto y no podrán hacer uso de ningún aparato de perifoneo en cualquiera de sus modalidades.
+El Consejo, instruirá al Secretario General, para que, por conducto de la Jefatura de Comunicación Social del Instituto, convoque a los medios de comunicación impresos y electrónicos conducentes, para apoyar la difusión de los debates. la (sic) transmisión en vivo del debate será en forma íntegra y gratuita.
 
 ## ARTÍCULO TRANSITORIO
 
 ÚNICO.- El presente Reglamento, entrará en vigor al día siguiente de su aprobación por el Consejo General del Instituto Electoral del Estado de Guerrero.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 14 DE OCTUBRE DE 2011.
+
+Único.- El presente Reglamento, entrará en vigor al día siguiente de su aprobación por el Consejo General del Instituto Electoral del Estado de Guerrero.
