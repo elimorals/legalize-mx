@@ -4,7 +4,7 @@ identifier: "ROO-ley-del-impuesto-sobre-adquisicion-de-bienes-inmuebles-de-83370
 country: "mx"
 rank: "ley"
 publication_date: "2011-10-03"
-last_updated: "2011-10-03"
+last_updated: "2011-10-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=83370&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "ROO"
 ---
 # LEY DEL IMPUESTO SOBRE ADQUISICION DE BIENES INMUEBLES DE LOS MUNICIPIOS DEL ESTADO DE QUINTANA ROO
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 14 DE OCTUBRE DE 2011 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 LEY DEL IMPUESTO SOBRE ADQUISICION DE BIENES INMUEBLES DE LOS MUNICIPIOS DEL ESTADO DE QUINTANA ROO
 
 TEXTO ORIGINAL.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 14 DE OCTUBRE DE 2011.</small>
 
 Ley publicada en el Número 74 Extraordinario del Periódico Oficial del Estado de Quintana Roo, el lunes 3 de octubre de 2011.
 
@@ -67,8 +67,6 @@ La recaudación y administración del Impuesto sobre Adquisición de Bienes Inmu
 
 ### CAPÍTULO SEGUNDO. OBJETO, SUJETOS, BASE Y TASA
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 14 DE OCTUBRE DE 2011 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA, ASÍ COMO EL ARCHIVO ANEXO.</small>
-
 ###### Artículo 5.
 
 Es objeto del impuesto a que se refiere la presente ley:
@@ -85,7 +83,9 @@ e) La transmisión de la propiedad de bienes inmuebles, que realice el fideicomi
 
 f) La transmisión de la propiedad de bienes inmuebles, que haga la fiduciaria en cumplimiento del fideicomiso;
 
-g) La cesión de derechos de fideicomitentes o fideicomisarios, se considerará que exista ésta, cuando haya constitución de un fideicomitente o de un fideicomisario, por cualquier motivo;
+> <small>(F. DE E., P.O. 14 DE OCTUBRE DE 2011)</small>
+
+g) La cesión de derechos de fideicomitentes o fideicomisarios, se considerará que exista ésta, cuando haya sustitución de un fideicomitente o de un fideicomisario, por cualquier motivo;
 
 h) La transmisión de la propiedad por herencia o legado;
 
@@ -101,13 +101,13 @@ Es sujeto de este impuesto, la persona física o moral que, como resultado de cu
 
 No se pagará el impuesto establecido en el artículo 5 de ésta ley en las adquisiciones de inmuebles hechas por dependencias, entidades u organismos estatales o municipales para la realización de acciones o programas de vivienda, su legalización y regularización y, a personas que resulten beneficiadas con sus programas, que no sean propietarias de otro inmueble y que lo destinen a casa habitación.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 14 DE OCTUBRE DE 2011 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA, ASÍ COMO EL ARCHIVO ANEXO.</small>
-
 ###### Artículo 8.
 
 Será base de este impuesto el valor del inmueble que resulte más alto entre:
 
-I.- El valor de adquisición o precio pactado, actualizado por el factor que se obtenga de dividir el índice de precios al consumidor del mes inmediato anterior a aquél en que sea exigible el pago, entre el índice del mes inmediato anterior a aquel en que sea exigible el pago, entre el índice del mes anterior en que se efectuó la adquisición;
+> <small>(F. DE E., P.O. 14 DE OCTUBRE DE 2011)</small>
+
+I.- El valor de la adquisición o precio pactado, actualizado por el factor que se obtenga de dividir el índice de precios al consumidor del mes inmediato anterior a aquél en que sea exigible el pago, entre el índice del mes anterior en que se efectuó la adquisición;
 
 II.- El avalúo catastral con una antigüedad no mayor de 180 días a la fecha de adquisición; o
 
@@ -141,8 +141,6 @@ VI.- En los casos no previstos en las fracciones anteriores, cuando los actos de
 
 En todos los casos el pago del impuesto se hará en la Tesorería Municipal, utilizando las formas que para tal fin autorice esa dependencia y a las que acompañará siempre, una copia del avalúo a que se refiere el artículo 8 de esta ley.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 14 DE OCTUBRE DE 2011 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA, ASÍ COMO EL ARCHIVO ANEXO.</small>
-
 ###### Artículo 11.
 
 En las adquisiciones que se hagan constar en escritura pública, los notarios, jueces, corredores y demás fedatarios que por disposición legal tengan funciones notariales, calcularán el impuesto bajo su responsabilidad, lo harán constar en escritura pública expresamente y lo enterarán mediante declaración autorizada, en la Tesorería Municipal que corresponda a su domicilio, expresando:
@@ -159,7 +157,9 @@ V.- Ubicación y nomenclatura del bien inmueble.
 
 VI.- Valor de la operación, valor catastral y avalúo bancario, acompañando copia del avalúo correspondiente.
 
-VII.- Tratándose de compraventa de inmuebles colindantes en la Zona Federal Marítimo Terrestre, que usen o gocen la misma, teniendo o no concesión autorizada, deberán presentar la constancia de uso o no uso de concesión, en caso de contar con la constancia de uso de concesión, presentar constancia de no adeudo por derechos de uso y goce de la Zona Federal Marítimo terrestre, así como la copia de la última declaración y copia del recibo oficial expedido por la Tesorería Municipal con el que acrediten estar al corriente en el pago de esta contribución y los derechos que señala el artículo 121 de la Ley de Hacienda de los Municipios del Estado de Quintana Roo.
+> <small>(F. DE E., P.O. 14 DE OCTUBRE DE 2011)</small>
+
+VII.- Tratándose de compraventa de inmuebles colindantes con la Zona Federal Marítimo Terrestre, que usen o gocen la misma, teniendo o no concesión autorizada, deberán presentar la constancia de uso o no uso de concesión, en caso de contar con la constancia de uso de concesión, presentar constancia de no adeudo por derechos de uso y goce de la Zona Federal Marítimo terrestre, así como la copia de la última declaración y copia del recibo oficial expedido por la Tesorería Municipal con el que acrediten estar al corriente en el pago de esta contribución y los derechos que señala el artículo 121 de la Ley de Hacienda de los Municipios del Estado de Quintana Roo.
 
 Tratándose de unidades privativas pertenecientes a fraccionamientos o a condominios, las constancias de no adeudo, podrán ser las correspondientes a la parte proporcional del pago realizado por cada una de las unidades privativas y dichas unidades serán responsables por los adeudos de la proporcionalidad de los proindivisos.
 
