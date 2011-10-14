@@ -4,7 +4,7 @@ identifier: "CAM-codigo-de-instituciones-y-procedimientos-electorales-para-26134
 country: "mx"
 rank: "codigo"
 publication_date: "2002-09-30"
-last_updated: "2008-09-12"
+last_updated: "2011-10-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26134&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 CODIGO DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES PARA EL ESTADO DE CAMPECHE
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE SEPTIEMBRE DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE OCTUBRE DE 2011.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Campeche, el lunes 30 de septiembre del 2002.
 
@@ -3041,6 +3041,14 @@ Solo podrá utilizarse como propaganda en las precampañas electorales la que hu
 
 En toda la propaganda a que se refiere este artículo deberá señalarse en forma visible la leyenda: “Proceso Interno para la Selección de Candidatos”.
 
+> <small>(ADICIONADO, P.O. 14 DE OCTUBRE DE 2011)</small>
+
+La propaganda impresa utilizada en las precampañas electorales deberá ser preferentemente reciclable y de fácil degradación natural.
+
+> <small>(ADICIONADO, P.O. 14 DE OCTUBRE DE 2011)</small>
+
+Para facilitar el reciclaje, la propaganda deberá incluir impreso el símbolo internacional de material reciclable.
+
 > <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 2008)</small>
 
 ###### Art. 259.
@@ -3349,13 +3357,25 @@ En la colocación de propaganda electoral, los Partidos, Coaliciones y candidato
 
 I. Únicamente podrán colgarse bastidores y mamparas en elementos del equipamiento urbano, cuando éste no se dañe, se impida la visibilidad de los conductores de vehículos o la circulación de peatones, y además, se cuente con el permiso de la autoridad Municipal correspondiente. Dicho permiso deberá registrarse ante el Consejo Municipal o Distrital respectivo;
 
-II. Bastidores y mamparas podrán colgarse o fijarse en inmuebles de propiedad privada, siempre que medie permiso por escrito del propietario, en el cual se establezcan los términos para el cumplimiento de lo previsto en el artículo 302 de este Código. Dicho permiso deberá registrarse ante el Consejo Electoral Distrital o Municipal correspondiente;
+> <small>(REFORMADA, P.O. 14 DE OCTUBRE DE 2011)</small>
+
+II. Bastidores y mamparas podrán colgarse o fijarse en inmuebles de propiedad privada, así también se podrá realizar pinta de bardas, siempre que medie permiso por escrito del propietario, en el cual se establezcan los términos para el cumplimiento de lo previsto en el artículo 302 de este Código. Dicho permiso deberá registrarse ante el Consejo Electoral Distrital o Municipal correspondiente;
 
 III. Podrán asimismo colgarse o fijarse en los lugares de uso común que determinen los Consejos Electorales Municipales o Distritales respectivos previo acuerdo con las autoridades correspondientes y conforme a las bases que los propios Consejos determinen durante el mes de febrero del año de la elección;
 
-IV. No podrá fijarse por ningún medio ni pintarse propaganda en árboles, elementos del equipamiento urbano, carretero o ferroviario, ni en accidentes geográficos, ni en aquellos en los que cause perjuicio, cualquiera que sea su régimen jurídico; y
+> <small>(REFORMADA, P.O. 14 DE OCTUBRE DE 2011)</small>
+
+IV. No podrá colgarse, colocarse, fijarse, adherirse o pintarse propaganda en árboles; ni fijarse o pintarse en elementos del equipamiento urbano, carretero o ferroviario, ni en accidentes geográficos, ni en aquellos en los que cause perjuicio, cualquiera que sea su régimen jurídico; y
 
 V. No podrá colgarse, fijarse por ningún medio ni pintarse en monumentos artísticos e históricos, templos, estatuas, kioscos, parques, portales, en el exterior de edificios públicos ni en los sitios o zonas regulados por el Instituto Nacional de Antropología e Historia, la Secretaría de Ecología del Estado y la Secretaría de Medio Ambiente y Recursos Naturales.
+
+> <small>(ADICIONADA, P.O. 14 DE OCTUBRE DE 2011)</small>
+
+VI. Toda la propaganda impresa será preferentemente reciclable y de fácil degradación natural, y deberá incluir impreso el símbolo internacional de material reciclable.
+
+> <small>(ADICIONADO, P.O. 14 DE OCTUBRE DE 2011)</small>
+
+En los mítines de campaña, los partidos políticos o coaliciones podrán colgar o fijar propaganda en los espacios y plazas públicas, solo en los lugares que determine la autoridad competente, la cual será retirada una vez que concluya el evento.
 
 > <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 2008)</small>
 
@@ -3381,11 +3401,11 @@ Las campañas electorales se iniciarán a partir del día siguiente al de la ses
 
 Quien solicite u ordene la publicación de cualquier encuesta o sondeo de opinión sobre asuntos electorales, que se realice desde el inicio de las campañas hasta el cierre oficial de las casillas el día de la elección, deberá entregar copia del estudio completo al Secretario Ejecutivo del Consejo General, si la encuesta o sondeo se difunde por cualquier medio. Durante los tres días previos a la elección y hasta la hora del cierre oficial de las casillas queda prohibido publicar o difundir, por cualquier medio, los resultados de encuestas o sondeos de opinión que tengan por objeto dar a conocer las preferencias electorales de los ciudadanos, quedando sujetos quienes lo hicieren a las penas aplicables a aquellos que incurran en alguno de los tipos previstos y sancionados por el Código Penal vigente en el Estado.
 
-> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 2008)</small>
+> <small>(REFORMADO, P.O. 14 DE OCTUBRE DE 2011)</small>
 
 ###### Art. 302.
 
-Los Partidos Políticos y las Coaliciones están obligados a que una vez realizada la elección respectiva, dentro de los siguientes treinta días de calendario, procederán a borrar y/o retirar su propaganda política. De no hacerlo así, la autoridad Municipal que corresponda lo hará por los medios que juzgue convenientes. Los gastos que implique el borrado o retiro de la propaganda será a cargo del respectivo Partido o Coalición y le será descontado de sus ministraciones y entregado a dicha autoridad.
+Los Partidos Políticos y las Coaliciones están obligados a que una vez realizada la elección respectiva, dentro de los siguientes treinta días de calendario, procederán a borrar y/o retirar, para su reciclaje, su propaganda política. De no hacerlo así, la autoridad Municipal que corresponda lo hará por los medios que juzgue convenientes. Los gastos que implique el borrado y/o retiro, y reciclaje de la propaganda será a cargo del respectivo Partido o Coalición y le será descontado de sus ministraciones y entregado a dicha autoridad.
 
 > <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 2008)</small>
 
@@ -6762,3 +6782,9 @@ Quinto: El financiamiento público de los partidos políticos y agrupaciones pol
 Sexto: La Unidad de Fiscalización deberá entrar en funciones a más tardar 60 días posteriores a la entrada en vigor del presente decreto. Su titular deberá ser nombrado en un plazo no mayor a 30 días contados a partir de esta misma fecha.
 
 Séptimo: En un plazo de quince días hábiles contados a partir del día en que este decreto entre en vigor, el Consejo General emitirá un Acuerdo mediante el cual se determine la forma y términos en que los Partidos Políticos podrán utilizar los recursos que a esa fecha no hubieren ejercido por concepto de financiamiento público para actividades de comunicación social, respecto de la asignación realizada por dicho consejo en el mes de enero de 2008 mediante el respectivo Acuerdo.
+
+P.O. 14 DE OCTUBRE DE 2011.
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias en lo que se opongan al contenido del presente decreto.
