@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-interior-del-tecnologico-de-estudios-superiores-5252
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-12-05"
-last_updated: "2006-12-05"
+last_updated: "2011-10-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52522&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 REGLAMENTO INTERIOR DEL TECNOLOGICO DE ESTUDIOS SUPERIORES DE CUAUTITLAN IZCALLI
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DE GOBIERNO: 14 DE OCTUBRE DE 2011.
 
 Reglamento publicado en la Sección Primera del la Gaceta de Gobierno del Estado de México, el martes 5 de diciembre de 2006.
 
@@ -113,31 +113,39 @@ IX. Resolver las dudas que se susciten con motivo de la interpretación o aplica
 
 X. Las demás que le confieren otras disposiciones legales y aquellas que le encomiende la Junta Directiva.
 
+> <small>(REFORMADO, G.G. 14 DE OCTUBRE DE 2011)</small>
+
 ###### Artículo 11.
 
 Para el estudio, planeación, despacho, control y evaluación de los asuntos de su competencia, el Director General se auxiliará de las unidades administrativas básicas siguientes:
 
 I. Dirección Académica.
 
-II. Dirección de Administración y Finanzas.
+II. Dirección de Planeación y Administración.
 
-III. Subdirección de Normatividad y Calidad Académica.
+III. Subdirección de Estudios Profesionales.
 
-IV. Subdirección de Vinculación y Extensión.
+IV. Subdirección de Apoyo y Desarrollo Académico.
 
-V. División de Ingeniería Industrial.
+V. Subdirección de Vinculación y Extensión.
 
-VI. División de Ingeniería en Sistemas Computacionales.
+VI. División de Ingeniería Industrial.
 
-VII. División de Licenciatura en Informática.
+VII. División de Ingeniería en Sistemas Computacionales.
 
-VIII. División de Licenciatura en Contaduría.
+VIII. División de Ingeniería en Informática.
 
-IX. División de Ingeniería Electrónica.
+IX. División de Contaduría Pública.
 
-X. Contraloría Interna.
+X. División de Ingeniería Electrónica.
 
-El Tecnológico contará con las demás unidades administrativas que le sean aprobadas, cuyas funciones y líneas de autoridad se establecerán en su manual general de organización; asimismo, se auxiliará de los servidores públicos necesarios para el cumplimiento de sus atribuciones, de acuerdo con la normatividad aplicable, estructura orgánica y presupuesto autorizados.
+XI. División de Ingeniería en Gestión Empresarial.
+
+XII. División de Ingeniería en Logística.
+
+XIII. Contraloría Interna.
+
+El Tecnológico contará con las demás unidades administrativas que le sean autorizadas, cuyas funciones y líneas de autoridad se establecerán en su Manual General de Organización; asimismo, se auxiliará de los servidores públicos y órganos técnicos y administrativos necesarios para el cumplimiento de sus atribuciones, de acuerdo con el presupuesto, estructura orgánica y normatividad aplicable.
 
 ### CAPÍTULO IV. DE LAS ATRIBUCIONES GENÉRICAS DE LOS DIRECTORES, SUBDIRECTORES Y JEFES DE DIVISIÓN
 
@@ -183,29 +191,41 @@ XVI. Las demás que les confieren otras disposiciones legales y aquellas que les
 
 ### CAPÍTULO V. DE LAS ATRIBUCIONES ESPECÍFICAS DE LAS DIRECCIONES, SUBDIRECCIONES, DIVISIONES Y CONTRALORÍA INTERNA
 
+> <small>(REFORMADO, G.G. 14 DE OCTUBRE DE 2011)</small>
+
 ###### Artículo 14.
 
-Corresponde a la Dirección Académica planear, programar, dirigir, coordinar, controlar y evaluar el desarrollo de los planes y programas académicos y de investigación de las carreras de ingeniería industrial; ingeniería en sistemas computacionales; ingeniería electrónica; informática; y contaduría, así como coordinar las funciones de desarrollo y actualización académica; servicios escolares; y computación y telemática del Tecnológico.
+Corresponde a la Dirección Académica planear, programar, dirigir, coordinar, controlar y evaluar el desarrollo de los planes y programas académicos y de investigación de las carreras a su cargo, así como las funciones de apoyo y desarrollo académico de la Universidad, de acuerdo con las disposiciones legales y administrativas aplicables.
+
+> <small>(REFORMADO, G.G. 14 DE OCTUBRE DE 2011)</small>
 
 ###### Artículo 15.
 
 Quedan adscritas a la Dirección Académica:
 
-I. Subdirección de Normatividad y Calidad Académica.
+I. Subdirección de Estudios Profesionales.
 
-II. División de Ingeniería Industrial.
+II Subdirección de Apoyo y Desarrollo Académico.
 
-III. División de Ingeniería en Sistemas Computacionales.
+III. División de Ingeniería Industrial.
 
-IV. División de Licenciatura en Informática.
+IV. División de Ingeniería en Sistemas Computacionales.
 
-V. División de Licenciatura en Contaduría.
+V. División de Ingeniería en Informática.
 
-VI. División de Ingeniería Electrónica.
+VI. División de Contaduría Pública.
+
+VII. División de Ingeniería Electrónica.
+
+VIII. División de Ingeniería en Gestión Empresarial.
+
+IX. División de Ingeniería en Logística.
+
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 14 DE OCTUBRE DE 2011)</small>
 
 ###### Artículo 16.
 
-Corresponde a la Dirección de Administración y Finanzas:
+Corresponde a la Dirección de Planeación y Administración:
 
 I. Programar, organizar y controlar el suministro, administración y aplicación de los recursos humanos, materiales, financieros y técnicos, así como los servicios generales necesarios para el funcionamiento de las unidades administrativas del Tecnológico.
 
@@ -247,11 +267,47 @@ XIX. Diseñar y proponer instrumentos técnico-administrativos para mejorar la a
 
 XX. Integrar y mantener actualizados, con la participación que corresponda a las demás unidades administrativas, los manuales administrativos del Tecnológico y someterlos a la aprobación de la Secretaría de Finanzas.
 
-XXI. Las demás que le confieren otras disposiciones legales y aquellas que le encomiende el Director General.
+> <small>(ADICIONADA, G.G. 14 DE OCTUBRE DE 2011)</small>
+
+XXI. Cumplir con las atribuciones en materia de información, planeación, programación y evaluación del Tecnológico, de conformidad con las disposiciones legales y administrativas que le sean aplicables.
+
+XXII. Las demás que le confieren otras disposiciones legales y aquellas que le encomiende el Director General.
+
+> <small>(ADICIONADO, G.G. 14 DE OCTUBRE DE 2011)</small>
+
+Artículo 16 bis.- Corresponde a la Subdirección de Estudios Profesionales:
+
+I. Planear, dirigir, controlar y evaluar las actividades académicas del Tecnológico.
+
+II. Proponer al Director Académico la normatividad escolar del Tecnológico, así como difundirla y vigilar su cumplimiento.
+
+III. Coordinar y evaluar el desarrollo de los programas de actualización y superación académica y vigilar su cumplimiento.
+
+IV. Proponer al Director Académico programas de estudio del Tecnológico, así como sus modificaciones.
+
+V. Participar en el diseño y ejecución de los programas de educación continua del Tecnológico.
+
+VI. Impulsar el otorgamiento de estímulos al personal académico con desempeño o aportaciones sobresalientes.
+
+VII. Participar en la elaboración de los procedimientos de selección e ingreso de alumnos al Tecnológico y de las normas para su permanencia.
+
+VIII. Proponer al Director Académico el perfil del personal docente que se requiera para la ejecución de los planes y programas académicos del Tecnológico.
+
+IX. Promover entre los alumnos del Tecnológico la realización del servicio social y prácticas profesionales y fomentar que éstas contribuyan a su formación educativa.
+
+X. Promover la titulación de los alumnos egresados del Tecnológico.
+
+XI. Integrar y, en su caso, presidir los órganos o grupos académicos del Tecnológico, en términos de la normatividad aplicable.
+
+XII. Presentar al Director Académico proyectos de mejoramiento de los espacios físicos y servicios educativos del Tecnológico, en función de la demanda del servicio.
+
+XIII. Las demás que le confieren otras disposiciones legales y aquellas que le encomiende el Director Académico y el Director General.
+
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 14 DE OCTUBRE DE 2011)</small>
 
 ###### Artículo 17.
 
-Corresponde a la Subdirección de Normatividad y Calidad Académica:
+Corresponde a la Subdirección de Apoyo y Desarrollo Académico:
 
 I. Proponer al Director Académico programas, estrategias y acciones para elevar la calidad de los servicios educativos del Tecnológico.
 
@@ -432,3 +488,13 @@ ING. JOSÉ MANUEL GUILLERMO GARCÍA MACÍAS
 DIRECTOR GENERAL DEL TECNOLÓGICO DE ESTUDIOS SUPERIORES DE CUAUTITLÁN IZCALLI Y SECRETARIO DE LA JUNTA DIRECTIVA
 
 (RUBRICA).
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+G.G. 14 DE OCTUBRE DE 2011.
+
+PRIMERO.- Publíquese el presente Acuerdo en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- Este Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan al presente Acuerdo.
