@@ -4,7 +4,7 @@ identifier: "GRO-reglamento-del-procedimiento-administrativo-sancionador-del-728
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-11-27"
-last_updated: "2009-11-27"
+last_updated: "2011-10-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=72844&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 REGLAMENTO DEL PROCEDIMIENTO ADMINISTRATIVO SANCIONADOR DEL INSTITUTO ELECTORAL DEL ESTADO DE GUERRERO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE OCTUBRE DE 2011.
 
 Reglamento publicado en el Periódico Oficial del Gobierno del Estado Guerrero, el viernes 27 de noviembre de 2009.
 
@@ -1113,6 +1113,98 @@ V. Agotada la instrucción, el Presidente de la Comisión propondrá al Consejo 
 
 VI. Cuando el incidente de incumplimiento resulte fundado, el Consejo General otorgará un plazo razonable para que se cumpla con la resolución emitida, y establecerá las medidas que considere más adecuadas para lograrlo, bajo apercibimiento que, de no hacerlo, se le aplicará alguno de los medios de apremio a que se refiere el artículo 27 de este Reglamento y 36 de la Ley del Sistema de Medios de Impugnación.
 
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 14 DE OCTUBRE DE 2011)</small>
+
+### CAPÍTULO DÉCIMO PRIMERO. DEL PROCEDIMIENTO ESPECIAL SANCIONADOR
+
+> <small>(ADICIONADO, P.O. 14 DE OCTUBRE DE 2011)</small>
+
+###### ARTÍCULO 87.
+
+Durante los procesos electorales, se instruirá el procedimiento especial sancionador, cuando se denuncie la comisión de las siguientes conductas:
+
+I. Contravengan las normas sobre propaganda política o electoral establecidas para los partidos políticos, excepto en radio y televisión; y
+
+II. Constituyan actos anticipados de campaña electoral, en términos del artículo 208 de la Ley.
+
+> <small>(ADICIONADO, P.O. 14 DE OCTUBRE DE 2011)</small>
+
+###### ARTÍCULO 88.
+
+Cuando la conducta infractora esté relacionada con propaganda política o electoral en radio y televisión, se hará del conocimiento inmediato del Instituto Federal Electoral.
+
+Los procedimientos relacionados con la difusión de propaganda en medios distintos a la radio y la televisión, que denigre o calumnie, sólo podrán iniciarse a instancia de parte afectada.
+
+> <small>(ADICIONADO, P.O. 14 DE OCTUBRE DE 2011)</small>
+
+###### ARTÍCULO 89.
+
+Las quejas y denuncias deberán cumplir con los siguientes requisitos:
+
+I. Señalar el nombre del quejoso o denunciante, con firma autógrafa o huella digital;
+
+II. Señalar domicilio para oír y recibir notificaciones;
+
+III. Acompañar los documentos necesarios para acreditar la personería;
+
+IV. Narrar de forma y clara los hechos en que se basa la denuncia;
+
+V. Ofrecer y exhibir las pruebas con que cuente; o en su caso, mencionar las que habrán de requerirse, por no tener posibilidad de recabarlas; y
+
+VI. En su caso, las medidas cautelares que se soliciten.
+
+> <small>(ADICIONADO, P.O. 14 DE OCTUBRE DE 2011)</small>
+
+###### ARTÍCULO 90.
+
+La denuncia será desechada de plano, sin prevención alguna, cuando:
+
+a) no reúna los requisitos indicados en la disposición que antecede;
+
+b) Cuando los hechos denunciados no constituyan, de manera evidente, una violación en materia de propaganda político-electoral dentro de un proceso electivo; o
+
+c) La materia de la denuncia resulte irreparable.
+
+Se deberá admitir la denuncia dentro del plazo de tres días posteriores a su presentación.
+
+> <small>(ADICIONADO, P.O. 14 DE OCTUBRE DE 2011)</small>
+
+###### ARTÍCULO 91.
+
+Admitida la denuncia, se emplazará al denunciante y al denunciado para que comparezcan a una audiencia de pruebas y alegatos, que tendrá lugar dentro del plazo de hasta setenta y dos horas posteriores a la admisión. En el escrito respectivo se le informará al denunciado de la infracción que se le imputa y se le correrá traslado de la denuncia con sus anexos.
+
+Si se considera necesaria la adopción de medidas cautelares, la Comisión deberá aprobarlas dentro del plazo antes señalado, en los términos establecidos en el artículo 349 de la Ley.
+
+> <small>(ADICIONADO, P.O. 14 DE OCTUBRE DE 2011)</small>
+
+###### ARTÍCULO 92.
+
+La audiencia de pruebas y alegatos se llevará a cabo de manera ininterrumpida, en forma oral, será conducida por el Secretario General o por el personal de la Dirección Ejecutiva Jurídica que él designe, y se desarrollará en los siguientes términos:
+
+I. Abierta la audiencia, se dará el uso de la voz al denunciante a fin de que, en una intervención no mayor de quince minutos, resuma el hecho que motivó la denuncia y haga una relación de las pruebas que a su juicio la corroboran. En caso de que el procedimiento se haya iniciado en forma oficiosa, el Secretario General actuará como denunciante;
+
+II. Acto seguido, se dará el uso de la voz al denunciado, a fin de que en un tiempo no mayor a treinta minutos, responda a la denuncia, ofreciendo las pruebas que a su juicio desvirtúen la imputación que se realiza;
+
+III. En el acto mismo se resolverá sobre la admisión de pruebas y acto seguido, se procederá a su desahogo; y
+
+IV. Concluido el desahogo de las pruebas, se concederá en forma sucesiva el uso de la voz al denunciante y al denunciado, o a sus representantes, quienes podrán alegar en forma escrita o verbal, por una sola vez y en tiempo no mayor a quince minutos cada uno.
+
+No se admitirán más pruebas que la documental y la técnica, esta última será desahogada siempre y cuando el oferente aporte los medios para tal efecto en el curso de la audiencia.
+
+La falta de asistencia de las partes no impedirá la celebración de la audiencia en el día y hora señalados (sic).
+
+> <small>(ADICIONADO, P.O. 14 DE OCTUBRE DE 2011)</small>
+
+###### ARTÍCULO 93.
+
+Concluida la audiencia, se deberá formular el proyecto de resolución dentro de las cuarenta y ocho horas siguientes a efecto de que el Consejero Presidente convoque a los miembros del Consejo General a una sesión que deberá celebrarse, a más tardar, dentro de las veinticuatro horas posteriores a la entrega del citado proyecto.
+
+En la sesión respectiva el Consejo General conocerá y resolverá sobre el proyecto de resolución.
+
+En caso de comprobarse la infracción denunciada, el Consejo ordenará el retiro físico, o la inmediata suspensión de la distribución o difusión de propaganda violatoria de esta Ley, cualquiera que sea su forma, o medio de difusión e impondrá las sanciones correspondientes, excepto cuando se tratare de propaganda política o electoral en radio y televisión, en cuyo caso lo hará del conocimiento al Instituto Federal Electoral en términos del artículo 368 párrafo 1, del Código Federal de Instituciones y Procedimientos Electorales.
+
+Asimismo, tomará todas las medidas necesarias para restaurar el orden jurídico violentado.
+
 ## ARTÍCULOS TRANSITORIOS
 
 PRIMERO.- El presente Reglamento entrará en vigor al día siguiente de su aprobación por el Consejo General del Instituto Electoral del Estado de Guerrero.
@@ -1120,3 +1212,13 @@ PRIMERO.- El presente Reglamento entrará en vigor al día siguiente de su aprob
 SEGUNDO.- Publíquese en el Periódico Oficial del Gobierno del Estado de Guerrero el presente Reglamento del Procedimiento para el Conocimiento de Faltas y Aplicación de Sanciones Administrativas del Instituto Electoral del Estado de Guerrero para su conocimiento general y efectos legales procedentes.
 
 El presente Reglamento, fue aprobado por unanimidad de votos de los integrantes del Consejo General del Instituto Electoral del Estado de Guerrero, en la Décima Primera Sesión Ordinaria celebrada el día seis de noviembre del año dos mil nueve.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 14 DE OCTUBRE DE 2011.
+
+> <small>N. DE E. SE TRANSCRIBEN LOS PUNTOS DEL ACUERDO QUE SE RELACIONAN CON LA REFORMA DEL ORDENAMIENTO.</small>
+
+SEGUNDO. La adición antes mencionada, entrará en vigor a partir del día siguiente al de su aprobación por parte del Consejo General de este Instituto, y que no se oponga a las reformas que se realicen a la Ley de Instituciones y Procedimientos Electorales del Estado que se encuentran en proceso de aprobación por parte de la LIX Legislatura del H. Congreso del Estado, lo que en todo caso, podrá quedar sin efectos la presente adición en base al principio de la superioridad de la norma.
+
+TERCERO. Publíquese el presente Acuerdo y su anexo, en el Periódico Oficial del Gobierno del Estado de Guerrero, para sus efectos legales procedentes.
