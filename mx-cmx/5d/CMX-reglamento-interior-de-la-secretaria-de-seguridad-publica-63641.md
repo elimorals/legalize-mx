@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-interior-de-la-secretaria-de-seguridad-publica-63641
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-10-16"
-last_updated: "2011-04-08"
+last_updated: "2011-10-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=63641&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2008-10-10"
 
 REGLAMENTO INTERIOR DE LA SECRETARIA DE SEGURIDAD PUBLICA DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 8 DE ABRIL DE 2011.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 14 DE OCTUBRE DE 2011.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el jueves 16 de octubre de 2008.
 
@@ -1172,13 +1172,17 @@ XII. Dar intervención, con base en los resultados del servidor público, al ór
 
 XIII. Establecer los mecanismos para los procesos de la emisión de resultados de las evaluaciones practicadas por el Centro de Control de Confianza, determinado (sic) su vigencia sin que exceda de tres años; sin perjuicio de efectuar evaluaciones a los servidores públicos dos o más veces durante dicho período;
 
-> <small>(REFORMADA, G.O. 28 DE SEPTIEMBRE DE 2009)</small>
+> <small>(REFORMADA, G.O. 14 DE OCTUBRE DE 2011)</small>
 
-XIV. Emitir la constancia de no cumplimiento de requisitos de permanencia a que se refieren las fracciones IV, IX y XI del artículo 51de la Ley Orgánica de la Secretaría de Seguridad Pública del Distrito Federal; y
+XIV. Emitir la constancia de no cumplimiento de requisitos de permanencia a que se refieren las fracciones IV, IX y XI del artículo 51 de la Ley Orgánica de la Secretaría de Seguridad Pública del Distrito Federal;
 
-> <small>(ADICIONADA, G.O. 28 DE SEPTIEMBRE DE 2009)</small>
+> <small>(REFORMADA, G.O. 14 DE OCTUBRE DE 2011)</small>
 
-XV. Las demás que le atribuya la normatividad vigente.
+XV. Emitir, registrar y cancelar, los certificados de control de confianza de los servidores públicos sujetos al mismo, en términos de la normatividad vigente, y
+
+> <small>(ADICIONADA, G.O. 14 DE OCTUBRE DE 2011)</small>
+
+XVI. Las demás que le atribuya la normatividad vigente.
 
 ###### Artículo 36.
 
@@ -1867,6 +1871,12 @@ Tercero.- La Secretaría de Seguridad Pública actualizará su Manual a las modi
 Cuarto.- La Secretaría de Seguridad Pública contará con término de treinta días hábiles a partir de la entrada en vigor del presente Decreto, para realizar las adecuaciones y gestiones jurídico administrativas, presupuestales y de personal necesarias.
 
 G.O. 8 DE ABRIL DE 2011.
+
+Primero.- Publíquese en la Gaceta Oficial del Distrito Federal.
+
+Segundo.- El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+G.O. 14 DE OCTUBRE DE 2011.
 
 Primero.- Publíquese en la Gaceta Oficial del Distrito Federal.
 
