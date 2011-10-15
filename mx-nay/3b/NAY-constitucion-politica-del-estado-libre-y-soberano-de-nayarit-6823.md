@@ -4,7 +4,7 @@ identifier: "NAY-constitucion-politica-del-estado-libre-y-soberano-de-nayarit-68
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-02-17"
-last_updated: "2011-07-30"
+last_updated: "2011-10-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6823&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE NAYARIT
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE JULIO DE 2011.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE OCTUBRE DE 2011.
 
 Constitución publicada en el Periódico Oficial del Estado de Nayarit, los días 17, 21, 24 y 28 de febrero y 3, 7, 10 y 14 de marzo de 1918.
 
@@ -101,21 +101,35 @@ II. La plena libertad humana sin más limitaciones que las impuestas por la prop
 
 III. La dignidad humana, los derechos que le son inherentes, el ejercicio libre de la personalidad, el respeto a la ley y al derecho ajeno, constituyen la base del estado democrático, la seguridad pública y la paz del Estado de Nayarit.
 
-> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE OCTUBRE DE 2011)</small>
 
-IV. La protección y promoción del desarrollo de los valores de nuestras etnias indígenas, conforme a las bases y principios siguientes:
+IV. La protección y promoción del desarrollo de los valores de etnias indígenas que habitan en el Estado de Nayarit, además de observar lo ordenado en el artículo 2 de la Constitución Política de los Estados Unidos Mexicanos, se realizará conforme a las bases y principios siguientes:
 
-Nuestra composición étnica plural, se sustenta en los pueblos y comunidades indígenas que los integran y a los cuales les asiste el derecho a la libre determinación expresada en autonomía para decidir sobre sus formas internas de convivencia y organización social, económica y cultural; en la creación de sus sistemas normativos, sus usos y costumbres, formas de gobierno tradicional, desarrollo, formas de expresión religiosa y artística y en la facultad para proteger su identidad y patrimonio cultural.
+> <small>(REFORMADO, P.O. 15 DE OCTUBRE DE 2011)</small>
+
+Nuestra composición étnica plural, integrada por Coras, Huicholes, Mexicaneros y Tepehuanos se sustenta en los pueblos y comunidades indígenas que los integran y a los cuales les asiste el derecho a la libre determinación expresada en la autonomía para decidir sobre sus formas internas de convivencia y organización social, económica y cultural; en la creación de sus sistemas normativos, sus usos y costumbres, formas de gobierno tradicional, desarrollo, formas de expresión religiosa y artística y en la facultad para proteger su identidad y patrimonio cultural. Solo se reconocerá como limitante a lo anteriormente establecido, el menoscabo a los Derechos Humanos contenidos en la Constitución Política de los Estados Unidos Mexicanos y los reconocidos en la presente Constitución.
+
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2010)</small>
 
 El desarrollo de sus lenguas y tradiciones, así como la impartición de la educación bilingüe estará protegida por la Ley la cual sancionará cualquier forma de discriminación.
 
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2010)</small>
+
 Deberán participar en la elaboración y ejecución de planes y programas de desarrollo educativo, productivo, económico, cultural o social que se relacione con sus comunidades.
+
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2010)</small>
 
 La ley regulará la eficacia de sus propios sistemas normativos, estableciendo procedimientos de convalidación. Los tribunales y jueces velarán por el respeto de los derechos fundamentales de los indígenas y la dignidad e igualdad de la mujer.
 
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2010)</small>
+
 En los términos que la Ley establezca, se preverán procedimientos simplificados y asistencia a los indígenas para que cuenten con un servicio eficiente del Registro Civil, así como de otras instituciones vinculadas con dichos servicios.
 
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2010)</small>
+
 La Ley protegerá la propiedad y posesión de sus tierras cualquiera que sea la modalidad de éstas, así como los derechos individuales y colectivos de uso y aprovechamiento del agua y recursos naturales, asegurando la protección del medio ambiente.
+
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2010)</small>
 
 Los derechos sociales que esta Constitución otorga a los pueblos y comunidades indígenas, deberán ejercitarse de manera directa a través de sus autoridades o por los interesados mismos.
 
@@ -225,7 +239,9 @@ Las leyes establecerán las sanciones correspondientes a los atentados en contra
 
 Todos los habitantes del Estado sin distinción alguna, están obligados a:
 
-I. A respetar y cumplir las leyes cualesquiera que ellas sean. Nadie podrá, para sustraerse de propia autoridad, a la observancia de los preceptos legales, alegar que los ignora, que son notoriamente injustos o que pugnan con sus opiniones. No se podrá apelar a otros recursos que a los determinados por las mismas leyes, ya sean de la Federación o del Estado.
+> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2011)</small>
+
+I. Respetar y observar el estricto cumplimiento de la Constitución General de la República, la particular del Estado y las leyes que de ellas emanen; nadie podrá, para sustraerse de propia autoridad a observancia de los preceptos legales, alegar que los ignora, que son notoriamente injustos o que pugnan con sus opiniones. No se podrá apelar a otros recursos que a los determinados por las mismas Leyes, ya sean de la Federación o del Estado;
 
 II. A prestar auxilio a las autoridades cuando para ello sean legalmente requeridos.
 
@@ -329,7 +345,7 @@ I. Las mismas que en esta Constitución se determinan a los vecinos nayaritas.
 
 II. Alistarse en la Guardia Nacional.
 
-> <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO POR EL ARTÍCULO 2 DEL DECRETO NÚMERO 23, P.O. 30 DE MARZO DE 1919, SE SUPRIME UN PORCIÓN NORMATIVA A LA FRACCIÓN III DEL ARTÍCULO 18 QUE DICE: "CON LA CONDICIÓN ESTABLECIDA EN LA FRACCIÓN I DEL ARTÍCULO ANTERIOR, POR LO QUE RESPECTA A LAS ELECCIONES LOCALES".</small>
+> <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO POR EL ARTÍCULO 2 DEL DECRETO NÚMERO 23, P.O. 30 DE MARZO DE 1919, SE SUPRIME UN PORCIÓN NORMATIVA A LA FRACCIÓN III DEL ARTÍCULO 18 QUE DICE: “CON LA CONDICIÓN ESTABLECIDA EN LA FRACCIÓN I DEL ARTÍCULO ANTERIOR, POR LO QUE RESPECTA A LAS ELECCIONES LOCALES”.</small>
 
 > <small>(REFORMADA, P.O. 30 DE MARZO DE 1919)</small>
 
@@ -481,9 +497,11 @@ No pueden ser diputados quienes ocupen los cargos de: Gobernador, Secretario o S
 
 Los Diputados son inviolables por las opiniones que manifiesten en el desempeño de sus cargos, y jamás podrán ser reconvenidos por ellas.
 
+> <small>(REFORMADO, P.O. 15 DE OCTUBRE DE 2011)</small>
+
 ###### Art. 31.
 
-Los Diputados no podrán, durante el período de sus funciones, desempeñar otra comisión o empleo de la Federación o del Estado, por el cual se disfrute sueldo, sin licencia previa de la Cámara o Diputación Permanente en su caso; pero entonces cesarán en sus funciones representativas mientras dure la nueva ocupación.
+Los Diputados no podrán, durante el período de sus funciones, desempeñar otra comisión o empleo de la Federación, del Estado o municipio, por el cual se disfrute sueldo, sin licencia previa de la Cámara o Diputación Permanente en su caso; pero entonces cesarán en sus funciones representativas mientras dure la nueva ocupación.
 
 ### CAPITULO II. De la instalación, duración y labores del Congreso
 
@@ -569,7 +587,7 @@ II. En el caso del Presupuesto de Egresos, continuará vigente aquel aprobado pa
 
 D. El Congreso podrá autorizar y modificar programas y proyectos de inversión vinculados al Plan Estatal de Desarrollo que abarquen varios ejercicios fiscales; los gastos correspondientes deberán incluirse en los subsecuentes presupuestos de egresos.
 
-> <small>N. DE E. EN LA REFORMA PUBLICADA EN EL P.O. DEL 30 DE JULIO DE 2011, SE OMITE PRECISAR LA EXISTENCIA DE UNO DE SUS PÁRRAFOS.</small>
+> <small>N. DE E. EN LA REFORMA PUBLICADA EN EL P.O. DEL 30 DE JULIO DE 2011, SE OMITE PRECISAR LA EXISTENCIA DE ESTE PÁRRAFO.</small>
 
 Las disposiciones específicas para dar cumplimiento a lo establecido en este artículo, se llevarán a cabo de conformidad a lo dispuesto en la ley de la materia.
 
@@ -601,17 +619,25 @@ A estas sesiones extraordinarias, precederá una Junta Preparatoria.
 
 La celebración de sesiones extraordinarias no impedirá la elección del Congreso en el tiempo que deba hacerse, y el nuevo seguirá ocupándose del asunto o asuntos de que se ocupaba el saliente.
 
-> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2008)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE OCTUBRE DE 2011)</small>
 
 ###### Art. 42.
 
-El 17 de diciembre de cada año, el gobernador presentará al Congreso un informe por escrito, en el que manifieste el estado general que guarda la administración pública del Estado.
+El 17 de diciembre de cada año, el gobernador presentará al Congreso un informe por escrito, en el que manifieste el estado general que guarda la administración pública del Estado. El informe relativo al primer año de ejercicio constitucional deberá ser presentado en la fecha antes señalada, correspondiente al año posterior del inicio de su encargo.
+
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2008)</small>
 
 El Congreso realizará el análisis del informe y podrá solicitar al Gobernador ampliar la información mediante pregunta por escrito y citar a los titulares de las dependencias de la administración pública centralizada y descentralizada y al Procurador General de Justicia, quienes comparecerán ante el Congreso y bajo protesta de decir verdad, rendirán un informe sobre el estado que guardan sus respectivos ramos.
 
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2008)</small>
+
 En el último año de ejercicio constitucional del gobernador, el informe deberá ser presentado a la apertura del primer período ordinario de sesiones.
 
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2008)</small>
+
 El Congreso igualmente podrá requerirles información o documentación mediante pregunta por escrito, la cual deberá ser respondida en un término no mayor a 15 días naturales a partir de su recepción.
+
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2008)</small>
 
 El ejercicio de estas atribuciones se realizará de conformidad con la Ley Orgánica del Congreso y su Reglamento.
 
@@ -621,11 +647,15 @@ El ejercicio de estas atribuciones se realizará de conformidad con la Ley Orgá
 
 Es deber de los Diputados visitar en los recesos del Congreso los pueblos del Distrito que representen, para informarse:
 
-I. Del estado en que se encuentre la educación Pública.
+> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2011)</small>
+
+I.- Del estado en que se encuentren la educación, los servicios de salud pública, así como lo relativo a la seguridad de sus habitantes;
 
 II. De como cumplen con sus respectivas obligaciones los Funcionarios y Empleados Públicos.
 
-III. Del estado en que se encuentre la Industria, el Comercio, la Agricultura y la Minería.
+> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2011)</small>
+
+III.- Del estado en que se encuentren los sectores productivos, y
 
 IV. De los obstáculos que se opongan al adelanto y progreso del Distrito y de las medidas que sea conveniente dictar para corregir tales obstáculos y para favorecer el desaarollo (sic) de todos o algunos de los ramos de la riqueza pública.
 
@@ -685,13 +715,13 @@ IV. Resolver en forma definitiva los conflictos sobre límites territoriales de 
 
 > <small>(REFORMADA, P.O. 17 DE MAYO DE 2004)</small>
 
-V.- Crear y suprimir empleos públicos en el estado, con excepción de los municipales, y señalar aumentar o disminuir las respectivas remuneraciones según sus necesidades. Para este efecto, la legislatura ordenará, al aprobar el Presupuesto de Egresos, publicar la retribución integral que corresponda a los empleos públicos establecidos por la ley.
+V. Crear y suprimir empleos públicos en el estado, con excepción de los municipales, y señalar aumentar o disminuir las respectivas remuneraciones según sus necesidades. Para este efecto, la legislatura ordenará, al aprobar el Presupuesto de Egresos, publicar la retribución integral que corresponda a los empleos públicos establecidos por la ley.
 
 En todo caso, las ampliaciones y disminuciones de empleos públicos que dentro de la esfera del Poder Ejecutivo, sean autorizadas por el Congreso, deberán ser motivadas en el dictamen respectivo.
 
 > <small>(REFORMADA, P.O. 17 DE MAYO DE 2004)</small>
 
-VI.- Examinar, discutir y aprobar la Ley de Ingresos y el Presupuesto de Egresos, así como las ampliaciones y modificaciones que se hicieren necesarias, en los términos de esta constitución.
+VI. Examinar, discutir y aprobar la Ley de Ingresos y el Presupuesto de Egresos, así como las ampliaciones y modificaciones que se hicieren necesarias, en los términos de esta constitución.
 
 > <small>(REFORMADA, P.O. 24 DE ENERO DE 2001)</small>
 
@@ -751,9 +781,7 @@ XXIII. Investir al Gobernador, de facultades extraordinarias, cuando por las cir
 
 XXIV. Decretar el desafuero de alguno de sus miembros.
 
-> <small>(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 1941)</small>
-
-XXV. Expedir Leyes de expropiación por causa de utilidad pública.
+XXV. (DEROGADA, P.O. 15 DE OCTUBRE DE 2011)
 
 > <small>(REFORMADA, P.O. 20 DE AGOSTO DE 2008)</small>
 
@@ -777,13 +805,11 @@ XXVIII. Declarar Beneméritos del Estado a sus benefactores y a los que se hayan
 
 XXIX. Formar los Códigos y demás leyes de su régimen interior.
 
-> <small>(REFORMADA, P.O. 14 DE MAYO DE 1994)</small>
-
-XXX. Expedir leyes y decretos en todas aquellas materias que no sean de la competencia exclusiva de la Federación, así como las que haga obligatorias la Constitución Política de los Estados Unidos Mexicanos.
+XXX. (DEROGADA, P.O. 15 DE OCTUBRE DE 2011)
 
 > <small>(REFORMADA, P.O. 17 DE MAYO DE 2004)</small>
 
-XXXI.- Seguir procedimiento de responsabilidad a los servidores públicos del estado, empresas públicas descentralizadas o de los ayuntamientos en su caso, en los términos establecidos por esta constitución.
+XXXI. Seguir procedimiento de responsabilidad a los servidores públicos del estado, empresas públicas descentralizadas o de los ayuntamientos en su caso, en los términos establecidos por esta constitución.
 
 Cuando de la fiscalización que realice el Órgano de Fiscalización Superior del Estado sea presumible la responsabilidad administrativa de servidores públicos estatales o municipales, ésta será determinada por el Congreso en los términos que establezca la ley.
 
@@ -795,25 +821,25 @@ XXXIII. Ejercer las facultades que le correspondan conforme a la Constitución G
 
 > <small>(REFORMADA, P.O. 9 DE FEBRERO DE 1930)</small>
 
-XXXIV.- Conceder el revalúo de cualquiera finca urbana o rústica con sujeción a las leyes de la materia.
+XXXIV. Conceder el revalúo de cualquiera finca urbana o rústica con sujeción a las leyes de la materia.
 
 > <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 1995)</small>
 
-XXXV.- Designar al Presidente y a los Consejeros del Organo Electoral del Estado en los términos de la ley de la materia.
+XXXV. Designar al Presidente y a los Consejeros del Organo Electoral del Estado en los términos de la ley de la materia.
 
-XXXVI.- (DEROGADA, P.O. 6 DE OCTUBRE DE 2010)
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 15 DE OCTUBRE DE 2011)</small>
 
-> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2001)</small>
+XXXVI. Conceder licencia al Gobernador, a los Diputados y demás servidores públicos en los casos que por mandato de Ley deba intervenir el Congreso, así como para reincorporarse a sus funciones. Asimismo podrá conocer y resolver en su caso, sobre las licencias solicitadas por los integrantes de los ayuntamientos cuando así corresponda;
 
-XXXVII.- Instituir la jurisdicción administrativa para resolver las controversias que se susciten en relación con la legalidad, la interpretación, cumplimiento y efectos de los actos, procedimientos y disposiciones de naturaleza administrativa emitidos por las autoridades del Estado o Municipios, para lo cual podrá crearse un tribunal administrativo dotado de plena autonomía para dictar sus fallos estableciéndose las normas de su organización, funcionamiento, competencia, procedimiento y recursos contra sus resoluciones.
+XXXVII. (DEROGADA, P.O. 15 DE OCTUBRE DE 2011)
 
 > <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2010)</small>
 
-XXXVIII.- Evaluar el cumplimiento del Plan Estatal de Desarrollo en los términos de la ley.
+XXXVIII. Evaluar el cumplimiento del Plan Estatal de Desarrollo en los términos de la ley.
 
 > <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 2010)</small>
 
-XXXIX.- Expedir todas las leyes que sean necesarias para hacer efectivas las facultades anteriores, así como las concedidas por la Constitución General de la República y esta Constitución, a los Poderes del Estado.
+XXXIX. Expedir todas las leyes que sean necesarias para hacer efectivas las facultades anteriores, así como las concedidas por la Constitución General de la República y esta Constitución, a los Poderes del Estado.
 
 > <small>(REFORMADO, P.O. 9 DE FEBRERO DE 1930)</small>
 
@@ -937,13 +963,11 @@ I. Dictaminar sobre todos los asuntos pendientes al tiempo de receso, y proveer 
 
 II. Nombrar al Gobernador Provisional que deba sustituir al que esté en funciones.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2011)</small>
 
-III. En su caso, designar y tomar la protesta de los integrantes del Tribunal Superior de Justicia, del Órgano Jurisdiccional Electoral y del Órgano Electoral del Estado; y ratificar el nombramiento del Procurador General de Justicia y del Secretario de Seguridad Pública que haga el Gobernador conforme a esta Constitución.
+III. En su caso, designar y tomar la protesta de los integrantes del Tribunal Superior de Justicia y del Órgano Electoral del Estado; y ratificar el nombramiento del Procurador General de Justicia y del Secretario de Seguridad Pública que haga el Gobernador conforme a esta Constitución;
 
-> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 1995)</small>
-
-Asimismo, conceder licencias con goce de sueldo o sin él, al propio Gobernador, a los Magistrados del Tribunal Superior de Justicia a los miembros del Organo Jurisdiccional Electoral, a los Diputados y a los empleados dependientes de la legislatura.
+Asimismo, conceder licencias con goce de sueldo o sin él, al propio Gobernador, a los Magistrados del Tribunal Superior de Justicia, a los Diputados y a los empleados dependientes de la Legislatura.
 
 > <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 2000)</small>
 
@@ -1061,7 +1085,7 @@ III.- Iniciar ante la Legislatura, las Leyes y Decretos que juzgue convenientes 
 
 > <small>(REFORMADA, P.O. 14 DE MAYO DE 1994)</small>
 
-IV.- Conducir y promover el desarrollo integral del Estado, de conformidad con los objetivos, niveles de participación y prioridades del sistema de planeación;
+IV.- Conducir y promover el desarrollo integral del Estado, de conformidad con los objetivos, niveles de participación y prioridades del sistema de planeación.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE NOVIEMBRE DE 1995)</small>
 
@@ -1073,7 +1097,7 @@ V.- (A). Presentar a la legislatura el presupuesto de gastos del año siguiente,
 
 > <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 1941)</small>
 
-(C). Visitar o hacer visitar las Oficinas de su dependencia y dictar los acuerdos que procedan, haciendo las consignaciones pertinentes al Ministerio Público;
+(C). Visitar o hacer visitar las Oficinas de su dependencia y dictar los acuerdos que procedan, haciendo las consignaciones pertinentes al Ministerio Público.
 
 VI.- Fomentar por todos los medios posibles, la educación popular y procurar el adelanto y mejoramiento social, favoreciendo toda clase de mejoras morales y materiales que interesen a la colectividad.
 
@@ -1101,7 +1125,9 @@ XII.- Nombrar y remover libremente a los titulares de las dependencias señalada
 
 Designar, con ratificación del Congreso, al Procurador General de Justicia y al Secretario de Seguridad Pública.
 
-XIII.- Llevar las comunicaciones y relaciones del Estado con el Gobierno General y con los de los otros Estados.
+> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2011)</small>
+
+XIII.- Llevar las comunicaciones y relaciones del Estado con el Gobierno Federal y con los de los otros Estados;
 
 > <small>(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 1941)</small>
 
@@ -1157,7 +1183,7 @@ XXIX.- Cuidar de la conservación del orden público, disponiendo al efecto de l
 
 XXX.- El Gobernador Constitucional y el interino en su caso, al tomar posesión del cargo, rendirán ante la Legislatura o la Diputación Permanente, la siguiente protesta:
 
-El Presidente interrogará: "PROTESTAIS, SIN RESERVA ALGUNA, GUARDAR Y HACER GUARDAR LA CONSTITUCION POLITICA DE LOS ESTADOS UNIDOS MEXICANOS, LA PARTICULAR DEL ESTADO, Y TODAS LAS LEYES QUE DE ELLAS EMANEN, ASI COMO DESEMPEÑAR LEAL Y PATRIOTICAMENTE EL CARGO DE GOBERNADOR DEL ESTADO QUE EL PUEBLO OS HA CONFERIDO, MIRANDO EN TODO POR EL BIEN Y PROSPERIDAD DE LA REPUBLICA Y DE ESTA ENTIDAD FEDERATIVA?" El interpelado contestará: "SI, PROTESTO," El Presidente agregará: "SI NO LO HICIEREIS ASI, QUE EL ESTADO Y LA NACION OS LO DEMANDEN".
+El Presidente interrogará: "PROTESTAIS, SIN RESERVA ALGUNA, GUARDAR Y HACER GUARDAR LA CONSTITUCION POLITICA DE LOS ESTADOS UNIDOS MEXICANOS, LA PARTICULAR DEL ESTADO, Y TODAS LAS LEYES QUE DE ELLAS EMANEN, ASI COMO DESEMPEÑAR LEAL Y PATRIOTICAMENTE EL CARGO DE GOBERNADOR DEL ESTADO QUE EL PUEBLO OS HA CONFERIDO, MIRANDO EN TODO POR EL BIEN Y PROSPERIDAD DE LA REPUBLICA Y DE ESTA ENTIDAD FEDERATIVA?" El interpelado contestará: "SI, PROTESTO," El Presidente agregará: "SI NO LO HICIEREIS ASI, QUE EL ESTADO Y LA NACION OS LO DEMANDEN."
 
 XXXI.- Arreglar con autorización de la Legislatura, las cuestiones de límites con los Estados vecinos y celebrar convenios con los Gobernadores para la entrada y paso de sus fuerzas de seguridad por el territorio del Estado, y recíprocamente.
 
@@ -1261,11 +1287,9 @@ Los titulares de dependencias del Poder Ejecutivo, no podrán patrocinar a parti
 
 El Secretario General de Gobierno substituirá al Gobernador en las faltas no previstas en el Artículo 64 de esta Constitución.
 
-> <small>(ADICIONADO, P.O. 30 DE MARZO DE 1919)</small>
-
 ###### Art. 80 Bis.
 
-El Secretario General de Gobierno, en unión del Procurador General de Justicia, del Presidente del Supremo Tribunal, del Director General de Rentas, Jueces de Primera Instancia y Presidente del Ayuntamiento de la Capital del Estado, constituyen el Consejo de Gobierno, cuya Presidencia será asumida por el primero. El Consejo dará dictamen al Gobernador, siempre que éste lo pida, procurando fundarlo en la Ley.
+(DEROGADO, P.O. 15 DE OCTUBRE DE 2011)
 
 > <small>(REFORMADO, P.O. 26 DE ABRIL DE 1995)</small>
 
@@ -2039,11 +2063,11 @@ Para esos efectos el Congreso del Estado se constituirá separadamente en Jurado
 
 Las declaraciones y Resoluciones del Congreso del Estado son inatacables.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE MAYO DE 2004)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE OCTUBRE DE 2011)</small>
 
 ###### Art. 125.
 
-Para proceder penalmente contra los diputados al Congreso; los magistrados del Tribunal Superior de Justicia, los miembros del Consejo de la Judicatura, los jueces de primera instancia, los magistrados del Tribunal Electoral y los del Tribunal de Justicia Administrativa, el Presidente de la Comisión de Defensa de los Derechos Humanos del Estado, los Secretarios del Despacho y el Procurador General de Justicia, los presidentes, regidores y síndicos de los ayuntamientos de la entidad; por la comisión de delitos durante el tiempo de su encargo, el Congreso declarará por mayoría absoluta de sus miembros presentes en sesión, si ha o no lugar a proceder contra el inculpado.
+Para proceder penalmente contra los diputados al Congreso; los magistrados del Tribunal Superior de Justicia, los miembros del Consejo de la Judicatura, los Jueces de Primera Instancia, los Magistrados del Tribual de Justicia Administrativa, el Presidente de la Comisión de Defensa de los Derechos Humanos del Estado, los Secretarios del Despacho y el Procurador General de Justicia, los Presidentes, Regidores y Síndicos de los ayuntamientos de la entidad; por la comisión de delitos durante el tiempo de su encargo, el Congreso declarará por mayoría absoluta de sus miembros presentes en sesión, si ha o no lugar a proceder contra el inculpado.
 
 > <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1983)</small>
 
@@ -2307,7 +2331,7 @@ Nadie en el Estado podrá desempeñar dos o más cargos de elección popular, pe
 
 ###### Art. 138.
 
-En el caso del Artículo 76 fracción V de la Constitución General de la República, asumirá el Poder Ejecutivo el Presidente del Congreso o de la Comisión Permanente si aquél estuviera en receso; y a falta de estos Funcionarios, el Vice-Presidente, el Primer Secretario o el Segundo por el orden que se indica.- Si los miembros legislativos ya dichos se encontraran impedidos por fuerza de las circunstancias anormales que priven, entonces será Gobernador el Secretario General de Gobierno o el Presidente del Tribunal Superior de Justicia, en el mismo orden que se menciona.- Quien fuere Gobernador en las circunstancias citadas, convocará a nuevas elecciones exactamente a los treinta días de estar ejercitando al interinato, ajustándose en todo a la Constitución Local y a la Ley Electoral.
+En el caso del Artículo 76 fracción V de la Constitución General de la República, asumirá el Poder Ejecutivo el Presidente del Congreso o de la Comisión Permanente si aquél estuviera en receso; y a falta de estos Funcionarios, el Vice-Presidente, el Primer Secretario o el Segundo por el orden que se indica.- Si los miembros legislativos ya dichos se encontraran impedidos por fuerza de las circunstancias anormales que priven, entonces será Gobernador el Secretario General de Gobierno o el Presidente del Tribunal Superior de Justicia, en el mismo orden que se menciona.- Quién fuere Gobernador en las circunstancias citadas, convocará a nuevas elecciones exactamente a los treinta días de estar ejercitando al interinato, ajustándose en todo a la Constitución Local y a la Ley Electoral.
 
 > <small>(ADICIONADO, P.O. 9 DE FEBRERO DE 1930)</small>
 
@@ -2337,7 +2361,7 @@ J. TRINIDAD SOLANO.
 
 DIPUTADO POR EL 14º DISTRITO ELECTORAL.
 
-Pablo Retes, Z., Vice-Presidente, Diputado por el Primer Distrito Electoral.- Marcos Esmerio, Diputado por el Segundo Distrito Electoral.- M.L. Urbina, Diputado por el Tercer Distrito Electoral.- Francisco Amézquita, Diputado por el Cuarto Distrito Electoral.- F. R. Pérez, Diputado por el Quinto Distrito Electoral.- Manuel Guzmán, Diputado Suplente por el Sexto Distrito Electoral.- Fidencio Estrada, Diputado por el Séptimo Distrito Electoral.- José María Ledón, Diputado por el Octavo Distrito Electoral.- J. Aguiar Béjar, Diputado Suplente por el Décimo Distrito Electoral.- Francisco N. Arroyo, Diputado por el Décimosegundo Distrito Electoral.- Antonio de P. Monroy, Diputado por el Décimotercero Distrito Electoral.- Mig. C. Madrigal, Diputado por el Décimoquinto Distrito Electoral.- F. R. Corona, Primer Secretario, Diputado por el Noveno Distrito Electoral.- Alfredo Robles, Segundo Secretario, Diputado por el Décimo Primero Distrito Electoral.
+Pablo Retes, Z., Vice-Presidente, Diputado por el Primer Distrito Electoral.- Marcos Esmerio, Diputado por el Segundo Distrito Electoral.- M.L. Urbina, Diputado por el Tercer Distrito Electoral.- Francisco Amézquita, Diputado por el Cuarto Distrito Electoral.- F. R. Pérez, Diputado por el Quinto Distrito Electoral.- Manuel Guzmán, Diputado Suplente por el Sexto Distrito Electoral.- Fidencio Estrada, Diputado por el Séptimo Distrito Electoral.- José María Ledón, Diputado por el Octavo Distrito Electoral.- J. Aguiar Béjar, Diputado Suplente por el Décimo Distrito Electoral.- Francisco N. Arroyo, Diputado por el Décimosegundo Distrito Electoral.- Antonio de P. Monroy, Diputado por el Décimotercero Distrito Electoral.- Mig. C. Madrigal, Diputado por el Décimoquinto Distrito Electoral.- F.R. Corona, Primer Secretario, Diputado por el Noveno Distrito Electoral.- Alfredo Robles, Segundo Secretario, Diputado por el Décimo Primero Distrito Electoral.
 
 Por lo tanto mando se imprima, publique por Bando Solemne, circule y sé le dé el más exacto cumplimiento.
 
@@ -3238,3 +3262,9 @@ En todo caso, deberá garantizarse que las instancias técnicas a las que alude 
 ###### ARTÍCULO TERCERO.
 
 Remítase el presente Decreto a los H. Ayuntamientos Constitucionales del Estado de Nayarit para los efectos del artículo 131 de la Constitución Política del Estado.
+
+P.O. 15 DE OCTUBRE DE 2011.
+
+Artículo Primero.- El presente decreto entrará en vigor al día siguiente de su publicación, en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+Artículo Segundo.- Para los efectos previstos por el artículo 131 de la Constitución Política del Estado Libre y Soberano de Nayarit, remítase el presente decreto a los Ayuntamientos de la entidad.
