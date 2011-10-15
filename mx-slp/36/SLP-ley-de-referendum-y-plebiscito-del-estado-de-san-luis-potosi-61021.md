@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-referendum-y-plebiscito-del-estado-de-san-luis-potosi-61
 country: "mx"
 rank: "ley"
 publication_date: "2008-05-10"
-last_updated: "2008-05-10"
+last_updated: "2011-10-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61021&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE REFERENDUM Y PLEBISCITO DEL ESTADO DE SAN LUIS POTOSI
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE OCTUBRE DE 2011.
 
 Ley publicada en el Periódico Oficial del Estado de San Luis Potosí, el sábado 10 de mayo de 2008.
 
@@ -145,7 +145,7 @@ l. Cuando menos el dos por ciento de los ciudadanos inscritos en la lista nomina
 
 II. Cuando menos el cinco por ciento de los ciudadanos inscritos en la lista nominal de electores del municipio o municipios de que se trate, respecto de los actos trascendentes de las autoridades municipales, en el caso de la fracción II del artículo 10 de esta Ley, y
 
-III. Cuando menos el cinco por ciento de los ciudadanos inscritos en la lista nominal de electores del municipio o municipios de que se trate, en el caso de la fracción III del artículo 10 de esta Ley.
+III. Cuando menos el cinco por ciento de los ciudadanos inscritos en la lista nominal de electores del municipio o municipios de que se trate en el caso de la fracción III del artículo 10 de esta Ley.
 
 En todos los casos deberán anexarse los nombres y apellidos completos, firma y clave de elector de los ciudadanos inscritos en la lista nominal de electores, que den su respaldo a la solicitud.
 
@@ -159,9 +159,11 @@ II. Autorizar la enajenación a particulares, de los bienes inmuebles municipale
 
 III. Solicitar al Congreso del Estado, en los términos de la ley de la materia, la incorporación o desafectación de un bien del dominio público y su cambio de destino.
 
+> <small>(REFORMADO, P.O. 15 DE OCTUBRE DE 2011)</small>
+
 ###### ARTICULO 15.
 
-El plebiscito que se realice de conformidad con lo previsto en la presente Ley, tendrá carácter obligatorio para las autoridades que lo hayan promovido; y cuando sea solicitado por los ciudadanos, el resultado del mismo tendrá carácter de recomendación para la autoridad, para que ésta en uso de sus facultades determine lo conducente.
+El plebiscito que se realice de conformidad con lo previsto en la presente Ley, tendrá carácter obligatorio; sin embargo, cuando sea solicitado por los ciudadanos y el resultado obtenido al término del referéndum o plebiscito, sea menor al treinta por ciento de los ciudadanos inscritos en la lista nominal de electores del Estado o del municipio, según sea el caso, el resultado del mismo tendrá carácter de recomendación para la autoridad, para que ésta, en uso de sus facultades, determine lo conducente.
 
 ### CAPITULO IV. Del Procedimiento
 
@@ -272,3 +274,11 @@ El Secretario General de Gobierno
 Lic. Alfonso José Castillo Machuca
 
 (Rúbrica)
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS DEL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 15 DE OCTUBRE DE 2011.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
