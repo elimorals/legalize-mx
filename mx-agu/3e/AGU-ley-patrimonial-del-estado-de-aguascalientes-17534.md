@@ -4,7 +4,7 @@ identifier: "AGU-ley-patrimonial-del-estado-de-aguascalientes-17534"
 country: "mx"
 rank: "ley"
 publication_date: "2000-09-25"
-last_updated: "2009-08-31"
+last_updated: "2011-10-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17534&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "AGU"
 ---
 # LEY PATRIMONIAL DEL ESTADO DE AGUASCALIENTES
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 31 DE OCTUBRE DE 2011 EN EL P.O. DEL ESTADO DE AGUASCALIENTES, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 LEY PATRIMONIAL DEL ESTADO DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE AGOSTO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE OCTUBRE DE 2011.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el lunes 25 de septiembre de 2000.
 
@@ -187,7 +189,9 @@ La Secretaría sólo podrá determinar el arrendamiento de bienes inmuebles para
 
 Tanto la adquisición como el arrendamiento de inmuebles para oficinas públicas, requerirán de estudios, proyectos o programas previos, en los que participen las Secretarías de Gestión e Innovación y Finanzas, independientemente de la competencia o intervención que les corresponda a otras dependencias.
 
-Las dependencias y entidades, previamente al arrendamiento de bienes muebles, deberán realizar los estudios de costo beneficio, considerando, la posible adquisición mediante arrendamiento con opción a compra.
+> <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 2011)</small>
+
+Las dependencias y entidades, previamente al arrendamiento de bienes muebles, deberán realizar los estudios de costo beneficio, considerando, la posible adquisición o el arrendamiento con opción a compra.
 
 Para determinar el monto total por concepto de contratación de servicios, deberán considerarse las erogaciones en forma anualizada.
 
@@ -283,13 +287,13 @@ IV. La contratación de los servicios relacionados con bienes muebles que se enc
 
 V. La reconstrucción, reparación y mantenimiento de bienes muebles, maquila, seguros, transportación de bienes muebles de propiedad pública, contratación anual de servicios de limpieza, vigilancia, gastos de propaganda y publicidad, así como los estudios técnicos que se vinculen con la adquisición o uso de bienes muebles;
 
-VI. Los contratos de arrendamiento financiero de bienes muebles que contraten los sujetos de la Ley, destinando para ello presupuesto público;
+VI. (DEROGADA, P.O. 17 DE OCTUBRE DE 2011)
 
 VII. Las adquisiciones y arrendamientos de equipos de transporte y maquinaria agrícola o industrial necesarios para la prestación de los servicios públicos que contraten los sujetos de la Ley, destinando para ello presupuesto público;
 
 VIII. La prestación de servicios profesionales, excepto la contratación de servicios personales bajo el régimen de honorarios, así como la contratación de consultorías, asesorías, estudios e investigaciones; y
 
-IX.- Los servicios de cualquier naturaleza cuya prestación genere una obligación de pago para los sujetos de la Ley, que no se encuentren regulados en forma específica por otras disposiciones legales.
+IX. Los servicios de cualquier naturaleza cuya prestación genere una obligación de pago para los sujetos de la Ley, que no se encuentren regulados en forma específica por otras disposiciones legales.
 
 ###### ARTICULO 22.
 
@@ -679,9 +683,17 @@ V. Se trate de adquisiciones, arrendamientos o servicios cuya contratación se r
 
 VI. Se trate de adquisiciones de bienes que las destinatarias utilicen para su comercialización o para someterlos a procesos productivos en cumplimiento de su objeto o fines propios;
 
-VII. Se trate de servicios de mantenimiento, conservación, restauración y reparación de bienes en los que no sea posible precisar su alcance, establecer el catálogo de conceptos y cantidades de trabajo o determinar las especificaciones correspondientes; o
+> <small>(REFORMADA, P.O. 17 DE OCTUBRE DE 2011)</small>
 
-VIII. Cuando la importación directa de bienes por parte de los sujetos de la Ley represente un beneficio económico comprobable superior al quince por ciento con relación a que dichos bienes importados sean adquiridos en el país.
+VII. Se trate de servicios de mantenimiento, conservación, restauración y reparación de bienes en los que no sea posible precisar su alcance, establecer el catálogo de conceptos y cantidades de trabajo o determinar las especificaciones correspondientes;
+
+> <small>(REFORMADA, P.O. 17 DE OCTUBRE DE 2011)</small>
+
+VIII. Cuando la importación directa de bienes por parte de los sujetos de la Ley represente un beneficio económico comprobable superior al quince por ciento con relación a que dichos bienes importados sean adquiridos en el país; o
+
+> <small>(ADICIONADA, P.O. 17 DE OCTUBRE DE 2011)</small>
+
+IX. Cuando se trate de adquisiciones que resulten de la elección de la opción terminal correspondiente en los contratos de arrendamiento financiero.
 
 ###### ARTICULO 58.
 
@@ -1458,3 +1470,13 @@ El presente Decreto entrará en vigencia al día siguiente de su publicación en
 ###### ARTÍCULO SEGUNDO.
 
 El Comité de Adquisiciones y Enajenaciones del Gobierno del Estado, los Comités Municipales y los Comités de las Dependencias y Entidades, según sea el caso, deberán establecer en un plazo no mayor a 120 días a partir de la entrada en vigencia del presente Decreto, los aspectos de sustentabilidad ambiental en sus políticas, bases y lineamientos, con el objeto de optimizar y utilizar de forma sustentable los recursos naturales para disminuir costos financieros y ambientales, para lo cual deberán solicitar la opinión de la Secretaría de Medio Ambiente y Recursos Naturales.
+
+P.O. 17 DE OCTUBRE DE 2011.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto iniciará su vigencia al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Los fideicomisos públicos que formen parte de la Administración Pública Descentralizada y que hayan sido constituidos en fecha anterior a la entrada en vigor del presente Decreto, deberán adecuar sus contratos y/o Decretos de creación a las reformas y adiciones a la Ley Orgánica de la Administración Pública, a la Ley para el Control de la Entidades Paraestatales, a la Ley de Presupuesto, Contabilidad y Gasto Público y a la Ley de Hacienda, todas ellas del Estado de Aguascalientes, en un término no mayor a 90 días contados a partir de la fecha en que entre en vigor el presente Decreto.
