@@ -4,7 +4,7 @@ identifier: "LFSP"
 country: "mx"
 rank: "ley_federal"
 publication_date: "2006-07-06"
-last_updated: "2011-08-05"
+last_updated: "2011-10-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50960&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LFSP"
 
 LEY FEDERAL DE SEGURIDAD PRIVADA
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 5 DE AGOSTO DE 2011.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 17 DE OCTUBRE DE 2011.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el jueves 6 de julio de 2006.
 
@@ -386,27 +386,31 @@ XIII. Adjuntar el formato de credencial que se expedirá al personal;
 
 XIV. Fotografías del uniforme a utilizar, en las que se aprecien sus cuatro vistas, conteniendo colores, logotipos o emblemas, mismos que no podrán ser iguales o similares a los utilizados por las corporaciones policiales o por las fuerzas armadas;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADA, D.O.F. 27 DE ENERO DE 2011)</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADA], D.O.F. 17 DE OCTUBRE DE 2011)</small>
 
 XV. Relación de bienes muebles e inmuebles que se utilicen para el servicio, incluido equipo de radio y telecomunicaciones, armamento, vehículos, semovientes, así como los aditamentos complementarios al uniforme, en los formatos que para tal efecto establezca la Dirección General;
 
 XVI. Relación, en su caso, de perros, adjuntando copia certificada de los documentos que acrediten que el instructor se encuentra capacitado para desempeñar ese trabajo; asimismo se anexará listado que contenga los datos de identificación de cada animal, como son: raza, edad, color, peso, tamaño, nombre y documentos que acrediten el adiestramiento y su estado de salud, expedido por la autoridad correspondiente;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>(REFORMADA, D.O.F. 17 DE OCTUBRE DE 2011)</small>
 
-> <small>(REFORMADA, D.O.F. 27 DE ENERO DE 2011)</small>
-
-XVII. Copias certificadas del permiso para operar frecuencia de radio y telecomunicación o contrato celebrado con concesionaria autorizada;
+XVII. Copias certificadas del permiso para operar frecuencia de radio o red de telecomunicaciones, o contrato celebrado con concesionaria autorizada;
 
 XVIII. Fotografías de los costados, frente, parte posterior y toldo del tipo de vehículos que se utilicen en la prestación de los servicios, las cuales deberán mostrar claramente los colores, logotipos o emblemas, y que no podrán ser iguales o similares a los oficiales utilizados por las corporaciones policiales o por las Fuerzas Armadas; además deberán presentar rotulada la denominación del Prestador del Servicio, y la leyenda "seguridad privada"; asimismo, deberán apreciarse las defensas reforzadas, torretas y otros aditamentos que tengan dichas unidades;
 
 XIX. Muestra física de las insignias, divisas, logotipos, emblemas o cualquier medio de identificación que porte el elemento;
 
-XX. En caso de que se utilicen vehículos blindados en la prestación del servicio, independientemente de la modalidad de que se trate, se deberá exhibir constancia expedida por el proveedor del servicio de blindaje, con la que acredite el nivel del mismo, y
+XX. En caso de que se utilicen vehículos blindados en la prestación del servicio, independientemente de la modalidad de que se trate, se deberá exhibir constancia expedida por el proveedor del servicio de blindaje, con la que acredite el nivel del mismo, y (sic)
 
 XXI. Tratándose de prestadores de servicios que operen en la modalidad prevista en la fracción III del artículo 15 de la presente Ley, y específicamente para el traslado de valores, será indispensable contar con vehículos blindados, y exhibir constancia expedida por el proveedor del servicio de blindaje, con la que se acredite el nivel del mismo.
+
+> <small>(ADICIONADA, D.O.F. 17 DE OCTUBRE DE 2011)</small>
+
+XXII. Tratándose de prestadores de servicios que operen en la modalidad VII del artículo 15 de la presente Ley, y específicamente en dispositivos, sistemas o procedimientos técnicos especializados, será requisito indispensable presentar una relación y muestra física de los equipos que utilicen para el servicio;
+
+> <small>(ADICIONADA, D.O.F. 17 DE OCTUBRE DE 2011)</small>
+
+XXIII. Registro sanitario de los dispositivos de identificación personal, asimismo para su almacenamiento y transportación deberán cumplir con los requisitos establecidos en el Reglamento de Salud aplicable.
 
 ###### Artículo 26.
 
@@ -917,3 +921,7 @@ Tercero. El Reglamento de la presente Ley deberá adecuarse conforme a las refor
 D.O.F. 5 DE AGOSTO DE 2011.
 
 ÚNICO. El presente decreto entrará en vigor a los quince días de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 17 DE OCTUBRE DE 2011.
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
