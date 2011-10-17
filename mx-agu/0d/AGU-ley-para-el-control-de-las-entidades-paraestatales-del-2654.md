@@ -4,7 +4,7 @@ identifier: "AGU-ley-para-el-control-de-las-entidades-paraestatales-del-2654"
 country: "mx"
 rank: "ley"
 publication_date: "1988-03-20"
-last_updated: "2011-05-24"
+last_updated: "2011-10-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2654&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "AGU"
 ---
 # LEY PARA EL CONTROL DE LAS ENTIDADES PARAESTATALES DEL ESTADO DE AGUASCALIENTES
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 31 DE OCTUBRE DE 2011 EN EL P.O. DEL ESTADO DE AGUASCALIENTES, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 LEY PARA EL CONTROL DE LAS ENTIDADES PARAESTATALES DEL ESTADO DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE MAYO DE 2011.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE OCTUBRE DE 2011.
 
 Ley publicada en el Suplemento de la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el domingo 20 de marzo de 1988.
 
@@ -45,41 +47,27 @@ LEY PARA EL CONTROL DE LAS ENTIDADES PARAESTATALES DEL ESTADO DE AGUASCALIENTES
 
 Las disposiciones contenidas en la presente Ley son de orden público e interés social y tienen por objeto regular la organización, funcionamiento y control de las entidades paraestatales de la Administración Pública Estatal.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE MAYO DE 2011)</small>
+> <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 2011)</small>
 
 ###### ARTICULO 2o.
 
-Son entidades paraestatales los organismos descentralizados, las empresas de participación estatal mayoritaria y los fideicomisos a que se refiere la Ley Orgánica de la Administración Pública del Estado de Aguascalientes.
+Son entidades paraestatales los organismos descentralizados, las empresas de participación estatal mayoritaria y los fideicomisos públicos a que se refiere la Ley Orgánica de la Administración Pública del Estado de Aguascalientes.
 
-> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2006)</small>
+Son:
 
-I. Son organismos descentralizados las entidades creadas por ley o decreto del Congreso del Estado con personalidad jurídica y patrimonio propios, cualquiera que sea la estructura que adopten.
+I.- Organismos descentralizados las entidades creadas por ley o decreto del Congreso del Estado con personalidad jurídica y patrimonio propios, cualquiera que sea la estructura legal que adopten.
 
-> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2006)</small>
+II.- Empresas de participación estatal mayoritaria, aquellas en las que:
 
-II. Son empresas de participación estatal aquellas en las que:
+a).- El Gobierno Estatal aporte o sea propietario del 51% o más del capital social o de las acciones de la empresa;
 
-a) El Gobierno Estatal aporte o sea propietario del 51 % o más del capital social o de las acciones de la empresa;
+b).- En la constitución de su capital se hagan figurar acciones de serie especial que sólo puedan ser suscritas por el Gobierno Estatal; y
 
-b) En la construcción de su capital se hagan figurar acciones de serie especial que sólo puedan ser suscritas por el Gobierno Estatal; o
+c).- Al Gobierno Estatal corresponda la facultad de nombrar a la mayoría de los miembros del Consejo de Administración, Junta Directiva u órgano equivalente o de designar al Presidente, Director o al Gerente, o tenga facultades para vetar los acuerdos de la Asamblea General de Accionistas, del Consejo de Administración o de la Junta Directiva u órgano equivalente.
 
-c) Al Gobierno Estatal corresponda la facultad de nombrar a la mayoría de los miembros del Consejo de Administración, Junta Directiva u órgano equivalente o de designar al Presidente, Director o al Gerente, o tenga facultades para vetar los acuerdos de la Asamblea General de Accionistas, del Consejo de Administración o de la Junta Directiva u órgano equivalente.
+III.- Fideicomisos públicos:
 
-> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2006)</small>
-
-III. Son fideicomisos públicos aquellos creados mediante ley o decreto del Congreso del Estado, o mediante decreto del Ejecutivo del Estado, con el propósito de auxiliar a este último en el ejercicio de las facultades o el cumplimiento de las obligaciones que le señalen las leyes, cuando se organizan de manera análoga a los organismos descentralizados o empresas de participación estatal mayoritaria y el fideicomitente sea el Gobierno Estatal, algunas de sus dependencias, organismos descentralizados, empresas de participación estatal mayoritaria o cualquier institución fiduciaria cuando ésta actúe en cumplimiento de los fines de otro fideicomiso de cualquier dependencia o entidad de la Administración Pública Estatal.
-
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2006)</small>
-
-La Secretaría de Finanzas y las demás dependencias y entidades de la Administración Pública del Estado que cuenten con la autorización de la Secretaría de Finanzas, por conducto de sus respectivos titulares, podrán constituir o adherirse a fideicomisos privados cuando así lo permitan las disposiciones presupuestales aplicables, sea necesario o conveniente para el ejercicio de las facultades o para el cumplimiento de las obligaciones que les señalen las leyes y no se amerite crear una entidad paraestatal.
-
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2006)</small>
-
-Los fideicomisos privados no serán considerados entidades paraestatales; su organización, funcionamiento y control se regirá, exclusivamente, por las leyes mercantiles y sus contratos constitutivos, mismos que deberán sujetarse a las condiciones que para cada caso establezca la Secretaría de Finanzas en su autorización, y ésta incluirá los lineamientos que deban observarse para garantizar la rendición de cuentas e informes y la comprobación del manejo transparente de los recursos públicos estatales que sean aportados o queden afectos a los fideicomisos privados, salvaguardando así el derecho a la información que corresponde a los gobernados conforme a la ley.
-
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2006)</small>
-
-Las dependencias y entidades que constituyan fideicomisos privados deberán registrarlos ante la Secretaría de Finanzas, y deberán proporcionarle a ésta toda la información y documentación que solicite para garantizar una adecuada rendición de cuentas e informes. Las dependencias y entidades deberán informar trimestralmente a la Secretaría de Finanzas el monto de recursos públicos estatales ingresados durante el trimestre a los fideicomisos privados en los que participen, así como los rendimientos, usos, aplicaciones y saldos de dichos recursos.
+Aquellos en los que el fideicomitente sea la Administración Pública Centralizada a través de la Secretaría de Finanzas, organismos descentralizados, empresas de participación estatal mayoritaria o cualquier institución fiduciaria cuando ésta actúe en cumplimiento de los fines de otro fideicomiso público estatal.
 
 ###### ARTICULO 3o.
 
@@ -263,17 +251,23 @@ La Secretaría de Fiscalización y Rendición de Cuentas intervendrá a fin de s
 
 ### CAPITULO IV. De los Fideicomisos Públicos
 
-> <small>(REFORMADO, P.O. 24 DE MAYO DE 2011)</small>
+> <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 2011)</small>
 
 ###### ARTICULO 23.
 
-El Ejecutivo Estatal a través de la Secretaría de Fiscalización y Rendición de Cuentas, cuidará que en los contratos queden debidamente precisados los derechos y acciones que corresponda ejercitar al fiduciario sobre los bienes fideicomitidos, las limitaciones que establezca que se deriven de derechos de terceros, así como los derechos que el fideicomitente se reservé y las facultades que fije en su caso al Comité Técnico, el cual deberá existir obligadamente en los fideicomisos considerados entidades paraestatales.
+Los fideicomisos públicos que se establezcan en los términos del artículo 2 de la presente Ley, que se organicen de manera análoga a los organismos descentralizados o empresas de participación estatal mayoritaria, que tengan como propósito auxiliar al Ejecutivo mediante la realización de actividades prioritarias y se encuentren coordinados por las Dependencias del Ejecutivo según lo acuerde el Gobernador del Estado, serán los que se consideren entidades paraestatales conforme a lo dispuesto en la Ley Orgánica de la Administración Pública del Estado y quedarán sujetos a las disposiciones de esta Ley
+
+El Ejecutivo Estatal a través de la Secretaría de Fiscalización y Rendición de Cuentas, cuidará que en los contratos queden debidamente precisados los derechos y acciones que corresponda ejercitar al fiduciario sobre los bienes fideicomitidos, las limitaciones que establezca que se deriven de derechos de terceros, así como los derechos que el fideicomitente se reserve y las facultades que fije en su caso al Comité Técnico, y contará con un Director General designado por el Gobernador del Estado, quien actuará como delegado fiduciario especial de la Institución fiduciaria.
+
+> <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 2011)</small>
 
 ###### ARTICULO 24.
 
-En los contratos de fideicomiso se deberán precisar las facultades especiales, si las hubiere, que en adición a las que establece el Capítulo VI de esta Ley para los órganos de gobierno que determine el Ejecutivo Estatal para el Comité Técnico, indicando en todo caso, cuales asuntos requieren de la aprobación de los mismos, para el ejercicio de acciones y derechos que correspondan al fiduciario, entendiéndose que las facultades del citado cuerpo colegiado constituyen limitaciones para la institución fiduciaria.
+Los fideicomisos públicos tendrán un Comité Técnico y un Director General, los cuales deberán constituirse y operar, respectivamente, conforme a los requisitos previstos en esta Ley para el órgano de gobierno y el de dirección de los organismos descentralizados.
 
-La institución fiduciaria deberá abstenerse de cumplir las resoluciones que el Comité Técnico dicte en exceso de las facultades expresamente fijadas por el fideicomitente, o en violación a las cláusulas del contrato de fideicomiso, debiendo responder de los daños y perjuicios que se causen, en caso de ejecutar actos en acatamiento de acuerdos dictados en exceso de dichas facultades o en violación al citado contrato.
+En los contratos de fideicomiso público deberán precisarse, si las hubiere, las facultades especiales que, en adición a las que establece el Capítulo VI de esta Ley para los órganos de gobierno, determine el Titular del Poder Ejecutivo del Estado para el Comité Técnico correspondiente, indicando en todo caso, cuales asuntos requieren de la aprobación del mismo, para el ejercicio de acciones y derechos que correspondan al fiduciario, entendiéndose que las facultades del citado Comité Técnico constituyen limitaciones para la institución fiduciaria.
+
+La institución fiduciaria y el Director General del fideicomiso público, deberán abstenerse de cumplir las resoluciones que el Comité Técnico dicte en exceso de las facultades expresamente fijadas por el fideicomitente, o en violación a las cláusulas del contrato de fideicomiso público, debiendo responder de los daños y perjuicios que se causen, en caso de ejecutar actos en acatamiento de acuerdos dictados en exceso de dichas facultades o en violación al citado contrato.
 
 ###### ARTICULO 25.
 
@@ -634,3 +628,13 @@ P.O. 24 DE MAYO DE 2011.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 17 DE OCTUBRE DE 2011.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto iniciará su vigencia al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Los fideicomisos públicos que formen parte de la Administración Pública Descentralizada y que hayan sido constituidos en fecha anterior a la entrada en vigor del presente Decreto, deberán adecuar sus contratos y/o Decretos de creación a las reformas y adiciones a la Ley Orgánica de la Administración Pública, a la Ley para el Control de la Entidades Paraestatales, a la Ley de Presupuesto, Contabilidad y Gasto Público y a la Ley de Hacienda, todas ellas del Estado de Aguascalientes, en un término no mayor a 90 días contados a partir de la fecha en que entre en vigor el presente Decreto.
