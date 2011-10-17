@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-de-la-secretaria-de-la-defensa-nacional-647
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-12-29"
-last_updated: "2009-07-22"
+last_updated: "2011-10-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64766&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2008-12-22"
 
 REGLAMENTO INTERIOR DE LA SECRETARIA DE LA DEFENSA NACIONAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 22 DE JULIO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 17 DE OCTUBRE DE 2011.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el lunes 29 de diciembre de 2008.
 
@@ -1159,7 +1159,9 @@ V. Organizar, dirigir y supervisar el funcionamiento de las prisiones militares;
 
 VI. Intervenir en los cambios de prisión y en la prórroga de jurisdicción;
 
-VII. Intervenir en los procedimientos de indultos y reducción de penas;
+> <small>(REFORMADA, D.O.F. 17 DE OCTUBRE DE 2011)</small>
+
+VII. Intervenir en el procedimiento de indulto;
 
 VIII. Resolver sobre la concesión de licencias ordinarias para el personal militar procesado o sentenciado, libre bajo caución;
 
@@ -1784,3 +1786,11 @@ Dado en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Dist
 D.O.F. 22 DE JULIO DE 2009.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 17 DE OCTUBRE DE 2011.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Se derogan todas las disposiciones reglamentarias y administrativas que se opongan a este Decreto.
+
+TERCERO.- Las erogaciones que, en su caso, se generen con motivo de la entrada en vigor del presente Decreto se realizarán mediante movimientos compensados, por lo que, la Secretaría de la Defensa Nacional debe sujetarse al presupuesto de Egresos de la Federación para el ejercicio fiscal correspondiente y no incrementar su presupuesto regularizable.
