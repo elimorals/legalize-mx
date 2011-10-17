@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-de-operacion-del-comite-de-transparencia-del-77535"
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-12-07"
-last_updated: "2010-12-07"
+last_updated: "2011-10-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77535&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,9 @@ issue_date: "2010-11-24"
 
 REGLAMENTO DE OPERACION DEL COMITE DE TRANSPARENCIA DEL TRIBUNAL ELECTORAL DEL DISTRITO FEDERAL
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO TRANSITORIO SEGUNDO DEL REGLAMENTO DE OPERACION DEL COMITE DE TRANSPARENCIA DEL TRIBUNAL ELECTORAL DEL DISTRITO FEDERAL, PUBLICADO EN LA G.O. DE 17 DE OCTUBRE DE 2011, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: ABROGADO.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el martes 7 de diciembre de 2010.
 
@@ -379,3 +381,13 @@ EL SECRETARIO GENERAL DEL TRIBUNAL ELECTORAL DEL DISTRITO FEDERAL
 (Firma)
 
 GREGORIO GALVÁN RIVERA
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+G.O. 17 DE OCTUBRE DE 2011.
+
+PRIMERO. El presente Reglamento entrará en vigor al día siguiente de su publicación en los estrados del Tribunal.
+
+SEGUNDO. Se abroga el Reglamento de Operación del Comité de Transparencia del Tribunal Electoral del Distrito Federal aprobado el 2 de noviembre de 2010, mediante el Acuerdo Plenario 049/2010, publicado en la Gaceta Oficial del Distrito Federal el 7 de diciembre de 2010.
+
+TERCERO. Publíquese en la Gaceta Oficial del Distrito Federal, así como en los estrados y en el sitio de Internet e Intranet del Tribunal.
