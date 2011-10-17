@@ -4,7 +4,7 @@ identifier: "NLE-ley-para-la-promocion-de-valores-y-cultura-de-la-legalidad-5496
 country: "mx"
 rank: "ley"
 publication_date: "2007-03-23"
-last_updated: "2009-04-08"
+last_updated: "2011-10-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=54968&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY PARA LA PROMOCION DE VALORES Y CULTURA DE LA LEGALIDAD DEL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE ABRIL DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE OCTUBRE DE 2011.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el viernes 23 de marzo de 2007.
 
@@ -163,9 +163,9 @@ IX.- Aprobar el Programa por al menos dos terceras partes de sus integrantes;
 
 X.- Aprobar la ubicación y características del Recinto para su comunicación al Ejecutivo del Estado;
 
-> <small>(ADICIONADA, P.O. 8 DE ABRIL DE 2009)</small>
+> <small>(REFORMADA, P.O. 17 DE OCTUBRE DE 2011)</small>
 
-XI.- Aprobar el nombre o nombres de candidatos a ser homenajeados en las diversas categorías, y remitirlos al Congreso del Estado, para que éste lo analice, previo el trámite legislativo correspondiente;
+XI.- Aprobar el nombre o nombres de candidatos a ser homenajeados en las diversas categorías, y remitirlos al Congreso del Estado, para que éste los analice y designe, previo el trámite legislativo correspondiente.
 
 > <small>(ADICIONADA, P.O. 8 DE ABRIL DE 2009)</small>
 
@@ -245,13 +245,17 @@ La Comisión tendrá las siguientes atribuciones:
 
 I. Someter a la consideración del Consejo las propuestas de personajes para los homenajes póstumos;
 
-II. Proponer a la consideración del Consejo, conforme a los lineamientos que expida, las diversas categorías en que podrá ser homenajeados los personajes;
+> <small>(REFORMADA, P.O. 17 DE OCTUBRE DE 2011)</small>
+
+II. Proponer a la consideración del Consejo, conforme a los lineamientos que expida, las diversas categorías en que podrán ser homenajeados los personajes;
 
 III. Proponer la realización de las acciones y estudios necesarios para el efecto de lograr la mayor solemnidad y la mejor distribución y acondicionamiento del Recinto, como un centro de homenaje cívico;
 
 IV. Proponer al Consejo, en su caso, la forma, estilo o modalidades de las inscripciones, bustos o monumentos que se instalen en el Recinto, así como emitir opinión sobre los, que en su caso se hayan de realizar y elegir en el futuro;
 
-V. Realizar las investigaciones históricas necesarias para la localización de los restos de los héroes y personajes eminentes, cuyo homenaje se proponga ala (sic) Consejo;
+> <small>(REFORMADA, P.O. 17 DE OCTUBRE DE 2011)</small>
+
+V. Realizar las investigaciones históricas necesarias para la localización de los restos de los héroes y personajes eminentes, cuyo homenaje se proponga al Consejo;
 
 VI. Solicitar el apoyo de las dependencias y entidades de los diversos niveles de gobierno para efectuar las investigaciones históricas a que se refiere el inciso inmediato anterior;
 
@@ -311,11 +315,11 @@ La Comisión dará la más amplia difusión a las propuestas sobre los personaje
 
 La Comisión propondrá al Pleno del Consejo, el nombre o los nombres de candidatos a ser homenajeados en las diversas categorías, previa comprobación de los requisitos establecidos en la convocatoria respectiva.
 
-> <small>(ADICIONADO, P.O. 8 DE ABRIL DE 2009)</small>
+> <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 2011)</small>
 
 ###### Artículo 22.
 
-El Congreso del Estado, una vez que haya recibido la propuesta o propuestas de candidatos a ser homenajeados, procederá al análisis correspondiente.
+El Congreso del Estado, una vez que haya recibido la propuesta o propuestas de candidatos a ser homenajeados y formar parte del Recinto, procederá a su análisis y designación correspondiente.
 
 > <small>(ADICIONADO, P.O. 8 DE ABRIL DE 2009)</small>
 
@@ -366,3 +370,7 @@ Segundo.- El Consejo Estatal para la Promoción de Valores y Cultura de la Legal
 Tercero.- El Consejo Estatal para la Promoción de Valores y Cultura de la Legalidad, dentro de un plazo no mayor a noventa días naturales, contados a partir de la entrada en vigor del presente Decreto, deberá aprobar la ubicación y características del Recinto, para su remisión al Ejecutivo del Estado.
 
 Cuarto.- El Ejecutivo, a través de la Secretaria de Finanzas y Tesorería General del Estado, determinará la reasignación presupuestal que corresponda para la realización del Recinto de los Hombres y Mujeres Ilustres del Estado de Nuevo León dentro del ejercicio fiscal 2009.
+
+P.O. 17 DE OCTUBRE DE 2011.
+
+Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
