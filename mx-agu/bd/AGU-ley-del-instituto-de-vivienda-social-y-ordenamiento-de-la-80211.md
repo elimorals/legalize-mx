@@ -4,7 +4,7 @@ identifier: "AGU-ley-del-instituto-de-vivienda-social-y-ordenamiento-de-la-80211
 country: "mx"
 rank: "ley"
 publication_date: "2011-02-28"
-last_updated: "2011-02-28"
+last_updated: "2011-10-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=80211&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "AGU"
 ---
 # LEY DEL INSTITUTO DE VIVIENDA SOCIAL Y ORDENAMIENTO DE LA PROPIEDAD DEL ESTADO DE AGUASCALIENTES
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 31 DE OCTUBRE DE 2011 EN EL P.O. DEL ESTADO DE AGUASCALIENTES, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 LEY DEL INSTITUTO DE VIVIENDA SOCIAL Y ORDENAMIENTO DE LA PROPIEDAD DEL ESTADO DE AGUASCALIENTES
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE OCTUBRE DE 2011.
 
 Ley publicada en el Periódico Oficial del Estado de Aguascalientes, el lunes 28 de febrero de 2011.
 
@@ -61,9 +63,17 @@ I. Contribuir al ordenamiento de la propiedad e impulsar el desarrollo y fomento
 
 II. Promover, proporcionar y coordinar, en su caso, los elementos y condiciones técnicos, legales y financieros adecuados para brindar a las familias del Estado de Aguascalientes, el acceso a un espacio que le permita el esparcimiento y una vivienda digna y decorosa;
 
-III. Impulsar mecanismos permanentes de desregulación que faciliten el flujo de recursos y decisiones; y
+> <small>(REFORMADA, P.O. 17 DE OCTUBRE DE 2011)</small>
 
-IV. Impulsar el desarrollo habitacional con un sentido de integralidad, desde la ordenación territorial, la infraestructura y la administración urbana, hasta el financiamiento y la promoción de vivienda entre los sectores de menores ingresos de la población.
+III. Impulsar mecanismos permanentes de desregulación que faciliten el flujo de recursos y decisiones;
+
+> <small>(REFORMADA, P.O. 17 DE OCTUBRE DE 2011)</small>
+
+IV. Impulsar el desarrollo habitacional con un sentido de integralidad, desde la ordenación territorial, la infraestructura y la administración urbana, hasta el financiamiento y la promoción de vivienda entre los sectores de menores ingresos de la población; y
+
+> <small>(ADICIONADA, P.O. 17 DE OCTUBRE DE 2011)</small>
+
+V. Fomentar la participación de los sectores público, privado o social, con inversiones y financiamientos para el desarrollo y construcción de la vivienda social en el Estado.
 
 ###### ARTÍCULO 4°.
 
@@ -87,7 +97,9 @@ G) Representar conjuntamente con la Secretaría de Gestión Urbanística y Orden
 
 H) Promover ante dependencias y organismos estatales y municipales la simplificación de autorizaciones para el desarrollo de vivienda y el otorgamiento de estímulos, así como celebrar con ellos acuerdos y convenios de coordinación para establecer ventanillas únicas de gestión en esta materia; y
 
-I) Promover ante las instituciones financieras el otorgamiento de créditos bancarios para cumplir el objeto del Instituto y que faciliten a la población la adquisición o mejoramiento de sus viviendas.
+> <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 2011)</small>
+
+I) Promover ante las entidades financieras el otorgamiento de créditos, préstamos o financiamientos para cumplir el objeto del Instituto y que faciliten a la población la adquisición o mejoramiento de sus viviendas
 
 II. En materia de ordenamiento de la propiedad:
 
@@ -163,7 +175,9 @@ Q) Determinar y recuperar los costos generados por las actividades que realice c
 
 R) Denunciar ante las autoridades competentes los actos de que tengan conocimiento en el ejercicio de sus funciones y que constituyan o puedan constituir delitos en materia de asentamientos humanos y de tenencia de la tierra;
 
-S) Celebrar contratos de crédito, fideicomiso o cualquier otro de los permitidos por la Ley y emitir títulos de crédito para el cumplimiento de su objeto social; y,
+> <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 2011)</small>
+
+S) Asociarse con el Gobierno Federal o los Municipios del Estado o sus entidades públicas así como las del Estado, los sectores privado o social, y celebrar contratos, fideicomisos o cualquier instrumento jurídico para transmitir los predios de su propiedad, pudiendo éstos servir de garantía, para obtener inversiones y financiamientos en cumplimiento de su objeto, así como emitir títulos de crédito; y
 
 T) Las demás que se requieran para el cumplimiento de su objeto, o que dispongan otros ordenamientos.
 
@@ -309,7 +323,9 @@ VII. Nombrar y remover al Director General a propuesta del Gobernador del Estado
 
 VIII. Aprobar la constitución de fondos, reservas y aplicación de las utilidades anuales, observando la legislación aplicable;
 
-IX. Aprobar las normas para el otorgamiento de créditos, así como autorizar los precios y demás condiciones de comercialización de los predios, lotes, productos inmobiliarios, en base a avalúo comercial realizado por el Instituto Catastral del Estado, y demás servicios que proporcione el Instituto;
+> <small>(REFORMADA, P.O. 17 DE OCTUBRE DE 2011)</small>
+
+IX. Aprobar las normas para el otorgamiento de créditos, así como autorizar los precios y demás condiciones de comercialización de los predios, lotes, productos inmobiliarios con base en avalúo practicado por perito valuador certificado, y demás servicios que proporcione el Instituto;
 
 X. Aprobar los planes de comercialización de los programas del Instituto, y la adquisición y arrendamiento de los inmuebles, así como los comodatos o donaciones que requiera para la prestación de sus servicios y realización de sus actividades;
 
@@ -327,9 +343,15 @@ XVI. Autorizar los manuales de organización y procedimientos necesarios para el
 
 XVII. Autorizar la contratación de servicios de asesoría, relacionados con los objetivos del Instituto, cuando lo estime conveniente;
 
-XVIII. Aprobar, atendiendo a las circunstancias del caso, el pago en especie, que establece el Artículo 8° de esta Ley; y
+> <small>(REFORMADA, P.O. 17 DE OCTUBRE DE 2011)</small>
 
-XIX. Las demás que se requieran para el cumplimiento del objeto del Instituto.
+XVIII. Aprobar, atendiendo a las circunstancias del caso, el pago en especie, que establece el Artículo 8º de esta Ley;
+
+> <small>(ADICIONADA, P.O. 17 DE OCTUBRE DE 2011)</small>
+
+XIX. Autorizar los términos y condiciones de las asociaciones con dependencias y entidades de la Administración Pública Federal, Estatal o municipal, los sectores privado o social conforme a lo establecido en el Reglamento de esta Ley; y
+
+XX. Las demás que se requieran para el cumplimiento del objeto del Instituto.
 
 ###### ARTÍCULO 21.
 
@@ -648,3 +670,15 @@ Carlos Lozano de la Torre.
 El JEFE DE GABINETE,
 
 Lic. Javier Antonio Aguilera García
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 17 DE OCTUBRE DE 2011.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto iniciará su vigencia al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Los fideicomisos públicos que formen parte de la Administración Pública Descentralizada y que hayan sido constituidos en fecha anterior a la entrada en vigor del presente Decreto, deberán adecuar sus contratos y/o Decretos de creación a las reformas y adiciones a la Ley Orgánica de la Administración Pública, a la Ley para el Control de la Entidades Paraestatales, a la Ley de Presupuesto, Contabilidad y Gasto Público y a la Ley de Hacienda, todas ellas del Estado de Aguascalientes, en un término no mayor a 90 días contados a partir de la fecha en que entre en vigor el presente Decreto.
