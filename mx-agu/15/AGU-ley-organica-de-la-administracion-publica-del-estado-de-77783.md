@@ -4,7 +4,7 @@ identifier: "AGU-ley-organica-de-la-administracion-publica-del-estado-de-77783"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2010-12-28"
-last_updated: "2011-06-17"
+last_updated: "2011-10-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77783&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "AGU"
 ---
 # LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE AGUASCALIENTES
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 31 DE OCTUBRE DE 2011 EN EL P.O. DEL ESTADO DE AGUASCALIENTES, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE JUNIO DE 2011.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE OCTUBRE DE 2011.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial de Estado de Aguascalientes, el martes 28 de diciembre de 2010.
 
@@ -675,9 +677,17 @@ XXXVI. Coordinar la integración y permanente actualización del Registro de la 
 
 XXXVII. Representar al Poder Ejecutivo en materia fiscal y catastral, e intervenir cuando se afecte la Hacienda Pública, ante los Tribunales, así como ante autoridades administrativas y fiscales, federales, estatales y municipales, en su caso, y coadyuvar con las Dependencias y Entidades, en las mismas materias;
 
-XXXVIII. Recabar los conceptos del Fondo que establece la Ley de Atención y Protección a la Víctima y al Ofendido para el Estado de Aguascalientes; y
+> <small>(REFORMADA, P.O. 17 DE OCTUBRE DE 2011)</small>
 
-XXXIX. Ejercer las atribuciones y facultades que le señalen las demás leyes, códigos, reglamentos y ordenamientos de carácter general, así como las derivadas de convenios, contratos o cualquier otro tipo de acuerdo.
+XXXVIII. Recabar los conceptos del Fondo que establece la Ley de Atención y Protección a la Víctima y al Ofendido para el Estado de Aguascalientes;
+
+> <small>(REFORMADA, P.O. 17 DE OCTUBRE DE 2011)</small>
+
+XXXIX. Ejercer las atribuciones y facultades que le señalen las demás leyes, códigos, reglamentos y ordenamientos de carácter general, así como las derivadas de convenios, contratos o cualquier otro tipo de acuerdo; y
+
+> <small>(ADICIONADA, P.O. 17 DE OCTUBRE DE 2011)</small>
+
+XL. Fungir como fideicomitente único de la Administración Pública Centralizada en los fideicomisos constituidos por el Gobierno del Estado, así como autorizar aquellos que se constituyan por las entidades de la Administración Pública Paraestatal; así como recibir de las entidades paraestatales fideicomitentes, la información sobre el manejo del patrimonio fiduciario.
 
 #### SECCIÓN CUARTA. De la Procuraduría General de Justicia
 
@@ -1672,3 +1682,13 @@ El Poder Ejecutivo del Estado deberá realizar las adecuaciones reglamentarias c
 ###### ARTÍCULO NOVENO.
 
 Se derogan todas las disposiciones que se opongan a la (sic) presente Decreto.
+
+P.O. 17 DE OCTUBRE DE 2011.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto iniciará su vigencia al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Los fideicomisos públicos que formen parte de la Administración Pública Descentralizada y que hayan sido constituidos en fecha anterior a la entrada en vigor del presente Decreto, deberán adecuar sus contratos y/o Decretos de creación a las reformas y adiciones a la Ley Orgánica de la Administración Pública, a la Ley para el Control de la Entidades Paraestatales, a la Ley de Presupuesto, Contabilidad y Gasto Público y a la Ley de Hacienda, todas ellas del Estado de Aguascalientes, en un término no mayor a 90 días contados a partir de la fecha en que entre en vigor el presente Decreto.
