@@ -4,7 +4,7 @@ identifier: "AGU-ley-del-procedimiento-administrativo-del-estado-de-15237"
 country: "mx"
 rank: "ley"
 publication_date: "1999-02-14"
-last_updated: "2009-04-06"
+last_updated: "2011-10-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15237&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,93 +21,49 @@ state: "AGU"
 ---
 # LEY DEL PROCEDIMIENTO ADMINISTRATIVO DEL ESTADO DE AGUASCALIENTES
 
-LEY DEL PROCEDIMIENTO ADMINISTRATIVO DEL ESTADO DE AGUASCALIENTES
+LEY QUE ESTABLECE LA CAMPAÑA PARA LA ERRADICACION DE LA GARRAPATA EN EL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE ABRIL DE 2009.
+TEXTO ORIGINAL.
 
-Ley publicada en la Sección Segunda del Suplemento del Periódico Oficial del Estado de Aguascalientes, el domingo 14 de febrero de 1999.
+Ley publicada en el Periódico Oficial, el 6 de julio de 1974.
 
-FELIPE GONZALEZ GONZALEZ, Gobernador Constitucional del Estado Libre y Soberano de Aguascalientes, sabed:
+Al margen un sello que dice: "Estados Unidos Mexicanos.- Gobierno de Tamaulipas.- Poder Ejecutivo" - Secretaría General.
 
-Que por el H. Congreso del Estado, se me ha comunicado, lo siguiente:
+EL CIUDADANO MANUEL A. RAVIZE, Gobernador Constitucional del Estado Libre y Soberano de Tamaulipas, a sus habitantes hace saber:
 
-El H. Congreso del Estado en sesión ordinaria celebrada hoy, tuvo a bien expedir el siguiente Decreto:
+Que el Honorable Congreso del Estado, se ha servido expedir el siguiente:
 
-"NUMERO 22
+DECRETO No. 286
 
-La H. LVII Legislatura del Estado Libre y Soberano de Aguascalientes, en uso de las facultades que le conceden los Artículos 27, fracción I, 32 y 35 de la Constitución Política Local, en nombre del Pueblo, decreta:
+EL CUADRAGESIMO OCTAVO CONGRESO CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE TAMAULIPAS, en nombre del Pueblo que representa y haciendo uso de las facultades que le concede el Artículo 58 de la Constitución Política Local, en sus Fracciones I y XLV, se ha servido expedir
 
-LEY DEL PROCEDIMIENTO ADMINISTRATIVO DEL ESTADO DE AGUASCALIENTES
+DECRETO No. 286
+
+LEY QUE ESTABLECE LA CAMPAÑA PARA LA ERRADICACION DE LA GARRAPATA EN EL ESTADO DE TAMAULIPAS
 
 ## TITULO PRIMERO. DEL AMBITO DE APLICACION Y PRINCIPIOS GENERALES
 
-### CAPITULO UNICO
+### CAPITULO I. ORGANIZACION
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+###### Artículo 1o.
 
-> <small>(REFORMADO, P.O. 6 DE ABRIL DE 2009)</small>
+Se declara de utilidad pública con carácter permanente y obligatoria, la campaña para la erradicación de la garrapata, transmisora de la piroplasmosis y anaplasmosis bovina en la ganadería del Estado.
 
-###### ARTICULO 1º.
+###### Artículo 2o.
 
-Las disposiciones de esta ley son de orden e interés públicos y se aplicarán a los actos, procedimientos y resoluciones de las Administraciones Públicas centralizadas y descentralizadas del Estado de Aguascalientes, de los Municipios que lo integran, y de otras personas, cuando éstas actúen como autoridades.
-
-Se reputarán como otras personas, a los prestadores de servicios públicos municipales considerados como áreas estratégicas, que sean concesionados.
-
-El presente ordenamiento no será aplicable a las materias de: responsabilidades de los servidores públicos, electoral, justicias agrarias y laboral, así como al Ministerio Público en ejercicio de sus funciones constitucionales.
-
-> <small>(REFORMADO, P.O. 28 DE JUNIO DE 2004)</small>
-
-###### ARTICULO 2º.
-
-La presente ley se aplicará supletoriamente a las diversas leyes que regulan las materias administrativas. El Código de Procedimientos Civiles del Estado de Aguascalientes se aplicará supletoriamente a esta Ley.
+El territorio del Estado se dividirá en tantas zonas como sea indispensable para la erradicación de la garrapata.
 
 ## TITULO SEGUNDO. DEL REGIMEN JURIDICO DE LOS ACTOS ADMINISTRATIVOS
 
-### CAPITULO I. Del Acto Administrativo
+### CAPITULO II. DISPOSICIONES GENERALES
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+###### Artículo 3o.
 
-> <small>(REFORMADO, P.O. 6 DE ABRIL DE 2009)</small>
+La campaña tendrá como objeto principal la erradicación total de la garrapata en el Estado y la defensa y protección de las zonas que vayan siendo declaradas oficialmente libres de ese parásito.
 
-###### ARTICULO 3º.
+###### Artículo 4o.
 
-Para los efectos de esta ley, se entenderá por acto administrativo, toda declaración unilateral de voluntad, externa, concreta y generalmente ejecutiva, emanada de la Administración Pública del Estado de Aguascalientes, de las de sus Municipios y de otras personas, en el ejercicio de las facultades que les son conferidas por los ordenamientos jurídicos en su carácter de potestad pública, teniendo por objeto crear, reconocer, transmitir, modificar o extinguir derechos y obligaciones con la finalidad de satisfacer el interés general.
-
-###### ARTICULO 4º.
-
-Son elementos y requisitos del acto administrativo:
-
-I.- Ser expedido por órgano competente, a través del servidor público con facultades para ello, y en caso de que dicho órgano fuere colegiado, reúna las formalidades de ley o decreto para emitirlo;
-
-II.- Tener objeto que pueda ser materia del mismo; determinado o determinable; preciso en cuanto a las circunstancias de tiempo, lugar y previsto por la ley;
-
-III.- Cumplir con la finalidad de interés público regulado por las normas en que se concreta, sin que puedan perseguirse otros fines distintos;
-
-IV.- Constar por escrito y con la firma autógrafa de la autoridad que lo expida, salvo en aquellos casos en que la ley autorice otra forma de expedición, y siempre y cuando la naturaleza del acto requiera una forma distinta de manifestación;
-
-V.- Estar fundado y motivado debidamente;
-
-VI.- Ser expedido sujetándose a las disposiciones relativas al procedimiento administrativo previstas en esta ley y con las formalidades que requiera conforme a la ley de la material del acto;
-
-VII.- Ser expedido sin que medie error sobre el objeto, causa o motivo, o sobre el fin del acto;
-
-VIII.- Ser expedido, sin que medie dolo o violencia en su emisión;
-
-IX.- Mencionar el órgano del cual emana;
-
-X.- Ser expedido decidiendo expresamente todos los puntos propuestos por la (sic) partes o establecidos por la ley;
-
-XI.- Ser expedido sin que medie error respecto a la referencia específica de identificación del expediente, documento o nombre completo de las personas;
-
-> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2004)</small>
-
-XII.- Tratándose de actos administrativos que deban notificarse, deberá hacerse mención de la oficina en que se encuentre el expediente respectivo a fin de que pueda ser consultado;
-
-XIII.- Tratándose de actos administrativos recurribles deberá hacerse mención de los recursos que procedan; y
-
-XIV.- Ser expedido señalando lugar y fecha de emisión.
-
-> <small>(ADICIONADO, P.O. 28 DE JUNIO DE 2004)</small>
+La campaña quedará encomendada a un comité estatal, el cual se compondrá de un presidente, un secretario, un tesorero y seis vocales, cuyos cargos serán gratuitos y honoríficos; tendrán el carácter de permanentes. Su designación será hecha en los términos que señale el reglamento de la presente Ley.
 
 ###### ARTICULO 4-A.
 
@@ -115,55 +71,29 @@ Las dependencias y entidades de la Administración Pública podrán recibir las 
 
 No será aplicable la firma electrónica en trámites que impliquen renuncia de acciones y/o derechos.
 
-###### ARTICULO 5º.
+###### Artículo 5o.
 
-Los actos administrativos de carácter general, tales como decretos, acuerdos, circulares y cualesquier otros de la misma naturaleza, deberán publicarse en el Periódico Oficial del Estado y en su caso en las Gacetas Municipales del Estado para que produzcan efectos jurídicos y los de carácter individual deberán publicarse en dicho órgano informativo cuando así lo establezcan las leyes.
+El Comité Estatal deberá elaborar un plan de trabajo y un reglamento a la presente Ley, que someterá a la aprobación del Ejecutivo del Estado.
 
-Los instructivos, manuales y formatos que expidan las dependencias de las Administraciones Públicas Estatal y Municipales deberán publicarse previamente a su aplicación en el Periódico Oficial del Estado.
+### CAPITULO III. MOVILIZACION DE GANADO
 
-### CAPITULO II. De la Eficacia del Acto Administrativo
+###### Artículo 6o.
 
-###### ARTICULO 6º.
+Los propietarios de más de 100 cabezas de ganado bovino, están obligados a construir tanques garrapaticidas para bañar su ganado, conforme al modelo aprobado por el Comité Estatal de Campaña.
 
-El acto administrativo será válido hasta en tanto su invalidez no haya sido declarada por autoridad administrativa o jurisdiccional, según sea el caso.
+###### Artículo 7o.
 
-###### ARTICULO 7º.
+Se faculta al Comité Estatal de la Campaña para establecer estaciones cuarentenarias en los lugares que estime adecuados.
 
-El acto administrativo válido será eficaz y exigible a partir de que surta efectos la notificación legalmente efectuada.
+###### Artículo 8o.
 
-Se exceptúa de lo dispuesto en el párrafo anterior, el acto administrativo por el cual se otorgue un beneficio al particular, caso en el cual su cumplimiento será exigible por éste al órgano administrativo que lo emitió desde la fecha en que se dictó o aquella que tenga señalada para iniciar su vigencia, así como los casos en virtud de los cuales se realicen actos de inspección investigación o vigilancia conforme a las disposiciones de ésta y otras leyes, los cuales son exigibles a partir de la fecha en que la administración Pública Estatal o Municipal los efectúe.
+Para los efectos de la campaña contra la garrapata, los inspectores fiscales, inspectores de pieles y ganados, miembros de la Policía Rural dependientes del Gobierno del Estado, quedan bajo las órdenes del Comité de la Campaña.
 
-###### ARTICULO 8º.
+### CAPITULO IV. SANCIONES
 
-Si el acto administrativo requiere aprobación de órganos o autoridades distintos del que lo emita, de conformidad a las disposiciones legales aplicables, no tendrá eficacia sino hasta en tanto aquella se produzca.
+###### Artículo 9o.
 
-### CAPITULO III. De la Extinción del Acto Administrativo
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE JUNIO DE 2004)</small>
-
-###### ARTICULO 9º.
-
-El Acto administrativo de carácter individual se extingue de pleno derecho, por cualquiera de las siguientes causas:
-
-I.- Cumplimiento de su finalidad;
-
-II.- Expiración del plazo;
-
-III.- Cuando la formación del acto administrativo esté sujeto a una condición o término suspensivo y éste no se realiza dentro del plazo señalado en el propio acto;
-
-IV.- La realización de la condición resolutoria;
-
-V.- Renuncia del interesado, cuando el acto hubiere sido dictado en exclusivo beneficio de éste y no sea en perjuicio del interés público;
-
-> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2004)</small>
-
-VI.- Por revocación determinada en la resolución de un recurso administrativo;
-
-VII.- La conclusión de su vigencia;
-
-VIII.- Por prescripción; y
-
-IX.- Por nulidad, declarada en la sentencia de un procedimiento judicial.
+Queda prohibido el traslado de ganado vacuno, equino y caprino, de zonas infestadas a zonas libres sin el certificado de la autoridad competente. Las zonas libres serán señaladas por el Comité Estatal de la campaña.
 
 ## TITULO TERCERO. DEL PROCEDIMIENTO ADMINISTRATIVO
 
@@ -171,33 +101,29 @@ IX.- Por nulidad, declarada en la sentencia de un procedimiento judicial.
 
 #### SECCION I
 
-###### ARTICULO 10.
+###### Artículo 10.
 
-Las disposiciones de este título son aplicables a los actos a través de los cuales se desenvuelve la función administrativa estatal y municipal, cuando dichos actos produzcan efectos en la esfera jurídica de los particulares.
+Sin el certificado que al efecto expida el personal de la Campaña, no podrá pasar el ganado a zonas libres de garrapata.
 
-###### ARTICULO 11.
+###### Artículo 11.
 
-La actuación administrativa en el procedimiento se desarrollará con arreglo a los principios de economía, audiencia, celeridad, eficiencia, legalidad, publicidad y buena fe.
+Los Presidentes Municipales, los inspectores de pieles y ganados o los representantes de las Uniones y Asociaciones Ganaderas, están obligados a exigir la constancia de baño en todo el trayecto de tránsito de ganado.
 
-###### ARTICULO 12.
+###### Artículo 12.
 
-El procedimiento administrativo podrá iniciarse de oficio o a petición de la parte interesada.
+Queda prohibida la entrada por cualquiera de los límites del Estado, de animales parasitados por garrapata.
 
-> <small>(REFORMADO, P.O. 28 DE JUNIO DE 2004)</small>
+###### Artículo 13.
 
-###### ARTICULO 13.
+Los inspectores fiscales, los de pieles y ganados, los miembros de la Policía Rural, los del Comité que permitan el paso de animales sin la documentación respectiva , a parte de ser destituídos de su cargo, se harán acreedores de una multa de $ 50.00 a $ 5,000.00.
 
-Las administraciones Públicas Estatal y Municipales, no podrán exigir más formalidades que las expresamente previstas en la ley.
+###### Artículo 14.
 
-El promovente deberá adjuntar a su escrito los documentos que acrediten su personalidad, así como los que en cada caso sean requeridos en los ordenamientos respectivos, salvo lo dispuesto en el Artículo 4º A.
+Las personas físicas o morales que se dediquen a la cría, engorda o compra-venta de ganado, si no cumplen con las obligaciones establecidas por esta Ley serán sancionadas con una multa de $ 50.00 a $ 5,000.00
 
-###### ARTICULO 14.
+###### Artículo 15.
 
-Salvo que las leyes específicas establezcan un plazo menor, no podrá exceder de cuatro meses el tiempo para que la autoridad administrativa resuelva lo que corresponda, transcurrido el cual sin que se notifique la resolución, el interesado podrá considerar que la autoridad resolvió negativamente e interponer los medios de defensa en cualquier tiempo posterior a dicho plazo, mientras no se dicte la resolución, o bien esperar a que ésta se dicte.
-
-###### ARTICULO 15.
-
-Se consideran medidas de seguridad las disposiciones que dicte la autoridad competente para proteger la salud y la seguridad públicas. Las medidas de seguridad se establecerán en cada caso por las leyes administrativas.
+Cuando en una zona libre se descubra la existencia de la garrapata, ya sea por denuncia pública o de parte interesada, se investigara su origen y se sancionará a la persona causante de la infestación, con una multa de $ 50.00 a $ 5,000.00
 
 #### SECCION II. De las Autoridades
 
@@ -205,31 +131,25 @@ Se consideran medidas de seguridad las disposiciones que dicte la autoridad comp
 
 > <small>(REFORMADO, P.O. 6 DE ABRIL DE 2009)</small>
 
-###### ARTICULO 16.
+###### Artículo 16.
 
-Para efectos de esta ley deberá entenderse por autoridad administrativa toda dependencia o entidad de las Administraciones Públicas Centralizadas y Descentralizadas del Estado, de sus Municipios y otras personas, que estén facultados por los ordenamientos jurídicos para dictar, ordenar o ejecutar un acto administrativo; así como los funcionarios y servidores públicos de dichas administraciones, mediante los cuales se realicen los referidos actos administrativos.
+Las multas que establece esta Ley, serán impuestas por el Comité Estatal de la Campaña y su importe ingresará a su Tesorería, para ser destinado a sus gastos generales.
 
-###### ARTICULO 17.
+###### Artículo 17.
 
-Las autoridades de las Administraciones Públicas Estatal y Municipales, en sus relaciones con los particulares, tendrán las siguientes obligaciones:
+Las personas físicas o morales que en lo general no cumplan con lo dispuesto por esta Ley, serán acreedores a una multa de $ 50.00 a $ 10,000.00.
 
-I.- Solicitar la comparecencia de éstos, sólo cuando así esté previsto en la ley, previa citación en la que se hará constar expresamente el lugar, fecha, hora y objeto de la comparecencia, así como los efectos de no atenderla;
+T R A N S I T O R I O
 
-II.- Hacer del conocimiento de éstos, en cualquier momento, del estado de la tramitación de los procedimientos en los que tengan interés jurídico y proporcionar copia de los documentos contenidos en ellos;
+UNICO.- Esta Ley entrará en vigor el tercer día de su publicación en el Periódico Oficial del Estado y deroga todas las disposiciones que se opongan a ella.
 
-III.- Hacer constar en las copias de los documentos que se presenten junto con los originales, la presentación de los mismos;
+SALON DE SESIONES DEL H. CONGRESO DEL ESTADO.- Cd. Victoria, Tamaulipas, a 13 de junio de 1974.- Diputado Presidente, Lic. EVEN GARZA MASCORRO; Diputado Secretario, BERNARDINO CANCHOLA HERRERA; Diputado Secretario, JUAN LEDEZMA ESCOBAR.- Rúbricas.
 
-IV.- Admitir las pruebas permitidas por la ley y recibir alegatos, los que deberán ser tomados en cuenta por el órgano competente al dictar resolución;
+Por tanto, mando se imprima, publique, circule y se le dé el debido cumplimiento.
 
-V.- Abstenerse de requerir documentos o solicitar información que no sean exigidos por las normas aplicables al procedimiento, o que ya se encuentren en el expediente que se está tramitando;
+Dado en el Palacio del Poder Ejecutivo, en Ciudad Victoria, Capital del Estado, a los veinticuatro días del mes de junio de mil novecientos setenta y cuatro.
 
-VI.- Proporcionar información y orientar acerca de los requisitos jurídicos o técnicos que las disposiciones legales y vigentes impongan a los proyectos, actuaciones o solicitudes que se propongan realizar;
-
-VII.- Permitir el acceso a sus registros y archivos en los términos previstos en ésta y otras leyes;
-
-VIII.- Tratar con respeto a los particulares y facilitar el ejercicio de sus derechos y el cumplimiento de sus obligaciones; y
-
-IX.- Dictar resoluciones expresas sobre cuantas peticiones le formulen, así como en los procedimientos iniciados de oficio, cuya instrucción y resolución afecte a terceros, debiendo dictarla dentro del plazo fijado por la ley.
+MANUEL A. RAVIZE.- Secretario General de Gobierno, Lic. MARIO GARZA RAMOS.- Rúbricas.
 
 #### SECCION III. De los Interesados
 
