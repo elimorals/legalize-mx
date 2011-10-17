@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-expropiacion-para-el-estado-de-aguascalientes-55084"
 country: "mx"
 rank: "ley"
 publication_date: "2007-04-16"
-last_updated: "2007-04-16"
+last_updated: "2011-10-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55084&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE EXPROPIACION PARA EL ESTADO DE AGUASCALIENTES
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE OCTUBRE DE 2011.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 16 de abril de 2007.
 
@@ -93,7 +93,7 @@ III. El ejercicio de las demás facultades que establezcan esta u otras leyes re
 
 ###### ARTICULO 8°.
 
-Corresponde a los jueces de primera instancia de lo civil o mixtos en su caso, dictar la resolución correspondiente para determinar a quién o a quiénes corresponde ser beneficiarios de la indemnización en los casos de bienes expropiados.
+(DEROGADO, P.O. 17 DE OCTUBRE DE 2011)
 
 ### CAPITULO III. De las Causas de Utilidad Pública
 
@@ -143,7 +143,9 @@ I. El Secretario del ramo, en los casos en que se trate de expropiar bienes que 
 
 II. Los Ayuntamientos, cuando pretendan que se expropien bienes que se encuentren en sus respectivas jurisdicciones para ejecutar acciones tendientes a la consecución de sus funciones y servicios de su competencia; y
 
-III. Los organismos descentralizados o empresas de participación estatal o municipal, cuando pretendan que se expropien bienes para ejecutar acciones tendientes a la consecución de su objeto.
+> <small>(REFORMADA, P.O. 17 DE OCTUBRE DE 2011)</small>
+
+III. Los organismos descentralizados, empresas de participación estatal o municipal y fideicomisos públicos del Estado de Aguascalientes, cuando pretendan que se expropien bienes para ejecutar acciones tendientes a la consecución de su objeto.
 
 ###### ARTICULO 11.
 
@@ -177,25 +179,33 @@ Cuando la solicitud de expropiación recaiga en bienes de ausentes, menores o in
 
 #### SECCION TERCERA. De las Notificaciones
 
+> <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 2011)</small>
+
 ###### ARTICULO 14.
 
-Las notificaciones y citaciones se realizarán en el término de tres días hábiles a partir de la fecha en que se dicte la resolución correspondiente.
+Las notificaciones y citaciones se realizarán a más tardar el día siguiente de la fecha en que se dicte la resolución correspondiente.
 
-Cuando deban hacerse en el territorio del Estado las llevarán a cabo el personal que comisione el Secretario General de Gobierno, y fuera de él pero dentro de la República, por conducto de un Notario Público que pueda actuar en la demarcación en que se encuentre el domicilio del notificado, sujetándose a las formalidades consignadas en el presente Capítulo.
+Cuando deban hacerse en el territorio del Estado las llevarán a cabo el personal que comisione el Secretario de Gobierno, y fuera de él pero dentro de la República, por conducto de un Notario Público que pueda actuar en la demarcación en que se encuentre el domicilio del notificado, sujetándose a las formalidades consignadas en el presente Capítulo.
 
 ###### ARTICULO 15.
 
 Las notificaciones se realizarán personalmente, por cédula o por edictos, de conformidad con lo que se establece en los siguientes artículos.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE OCTUBRE DE 2011)</small>
+
 ###### ARTICULO 16.
 
-La primera notificación se hará personalmente al titular de los derechos o a su representante o procurador, en su domicilio. Requiriéndosele para que en un plazo de cinco días hábiles, señale domicilio en el territorio del Estado de Aguascalientes en donde deberán hacerse las subsecuentes notificaciones, apercibiéndosele que de no hacerlo las notificaciones se realizarán mediante publicación en el Periódico Oficial del Estado.
+La primera notificación se hará personalmente al titular de los derechos o a su representante, en su domicilio. Requiriéndosele para que en un plazo de cinco días hábiles, señale domicilio en el territorio del Estado de Aguascalientes en donde deberán hacerse las subsecuentes notificaciones, apercibiéndosele que de no hacerlo las notificaciones se realizarán mediante publicación en el Periódico Oficial del Estado.
 
 De no encontrarlo el notificador, dejará citatorio con la persona que se encuentre para que espere, en el domicilio designado, a hora fija dentro de las siguientes 24 horas, y si no espera, se le notificará por cédula.
 
-En todo caso, si existiera negativa del interesado o de la persona con quien se entienda la notificación, al recibir ésta o el citatorio, la diligencia la hará el notificador por medio de cédula que fijará en la puerta del domicilio en que se actúe, asentando razón de tal circunstancia, en igual forma se procederá si no ocurrieren al llamado del notificador.
+> <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 2011)</small>
 
-Si el domicilio en que hubiere de practicarse la notificación se encontrare cerrado, la persona que debe practicar la diligencia regresará en el mismo término establecido en el segundo párrafo de este Articulo; y si nuevamente se encontrare cerrado, lo hará constar en acta circunstanciada y la notificación se llevará a cabo mediante edicto que se publique por una sola vez en el Periódico Oficial del Estado y en uno de los de circulación ordinaria del lugar en que se actúe.
+En todo caso, si existiera negativa del interesado o de la persona con quien se entienda la notificación, al recibir ésta o el citatorio, la diligencia la hará el notificador por medio de cédula que fijará en la puerta del domicilio en que se actúe, asentando razón de tal circunstancia.
+
+> <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 2011)</small>
+
+Si el domicilio en que hubiere de practicarse la notificación se encontrare cerrado, la persona que debe practicar la diligencia regresará en el mismo día hasta en tres ocasiones, si no lo encontrare regresará al día siguiente hasta en otras tres ocasiones con la finalidad de llevar a cabo la notificación; y si aún en la última ocasión se encontrare cerrado el domicilio, lo hará constar en acta circunstanciada y la notificación se llevará a cabo mediante edicto que se publique por una sola vez en el Periódico Oficial del Estado y en uno de los de circulación ordinaria del lugar en que se actúe.
 
 ###### ARTICULO 17.
 
@@ -237,9 +247,11 @@ Las acciones personales que se deduzcan o hayan deducido con relación a los bie
 
 Los titulares de derechos reales sobre un bien objeto de expropiación, ocupación o limitación, deberán ser oídos en el procedimiento respectivo.
 
+> <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 2011)</small>
+
 ###### ARTICULO 24.
 
-Una vez integrado el expediente, se citará a los titulares de derechos sobre los bienes a expropiarse, a una audiencia que se celebrará dentro de los quince días hábiles siguientes a la notificación, en la que se recibirán las pruebas que ofrezcan, así como los alegatos que por escrito presenten. Solamente serán admisibles, las pruebas documental o de inspección ocular.
+Una vez integrado el expediente, se citará a los titulares de derechos sobre los bienes a expropiarse, a una audiencia que se celebrará dentro de los cinco días hábiles siguientes a la notificación, en la que se recibirán las pruebas que ofrezcan, así como los alegatos que por escrito presenten.
 
 ###### ARTICULO 25.
 
@@ -271,17 +283,21 @@ VII. El tiempo máximo en el que se deberá destinar el bien expropiado a la cau
 
 VIII. La orden de publicación del decreto expropiatorio en el Periódico Oficial del Estado y de la notificación personal al afectado y por oficio al solicitante.
 
+> <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 2011)</small>
+
 ###### ARTICULO 28.
 
-La declaratoria correspondiente deberá publicarse en el Periódico Oficial del Estado e inscribirse en el Registro Público de la Propiedad y del Comercio, cuado se trate de inmuebles.
+La declaratoria correspondiente deberá publicarse en el Periódico Oficial del Estado e inscribirse en el Registro Público de la Propiedad y del Comercio, cuando se trate de inmuebles.
 
 ###### ARTICULO 29.
 
 La declaratoria de expropiación deberá ser notificada al propietario, poseedor o causahabiente del bien afectado; sólo en el caso de que se ignore el domicilio de éste, la notificación se hará mediante publicación por tres veces de un extracto del decreto, de tres en tres días en un periódico de mayor circulación en el Estado.
 
+> <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 2011)</small>
+
 ###### ARTICULO 30.
 
-Una vez dictada la resolución que ordene la expropiación de un bien y convenido el monto de la indemnización, si a juicio del Titular del Poder Ejecutivo fuere urgente su ocupación, podrá ordenar que se haga de una manera provisional.
+Una vez dictada la resolución que ordene la expropiación de un bien y establecido el monto de la indemnización, si a juicio del Titular del Poder Ejecutivo fuere urgente su ocupación, podrá ordenar que se haga de una manera provisional.
 
 ###### ARTICULO 31.
 
@@ -301,7 +317,11 @@ La indemnización podrá ser en:
 
 I. Dinero en efectivo;
 
-II. Bienes de valor equivalente;
+> <small>(REFORMADA, P.O. 17 DE OCTUBRE DE 2011)</small>
+
+II. Bienes;
+
+> <small>(REFORMADA, P.O. 17 DE OCTUBRE DE 2011)</small>
 
 III. Compensación en el pago de contribuciones que deba efectuar el titular de los derechos del bien expropiado; y
 
@@ -327,45 +347,77 @@ La indemnización se pagará en la forma y términos que se establezcan en el de
 
 El monto de la indemnización será la cantidad que como valor comercial tenga el predio al momento de ser expropiado.
 
+> <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 2011)</small>
+
 ###### ARTICULO 37.
 
 Para determinar el valor del inmueble afectado se seguirán las siguientes reglas:
 
-En la audiencia a la que se refiere la Sección Cuarta del Capítulo IV de esta Ley, cada uno de los titulares de los derechos y el titular del Poder Ejecutivo designarán perito valuador, quien deberá rendir el avaluó dentro del término de 72 horas posteriores a su designación.
+En la audiencia a la que se refiere la Sección Quinta del Capítulo IV de esta Ley, cada uno de los titulares de los derechos y el titular del Poder Ejecutivo designarán al corredor público de su intención, que deberá aceptar y protestar el cargo de valuador en la misma audiencia comprometiéndose a presentar dentro de las 72 horas siguientes a la audiencia, el testimonio que contenga el avalúo comercial del inmueble objeto de expropiación.
 
-La designación del perito valuador deberá satisfacer los siguientes requisitos:
-
-I. Los peritos deben tener título en la ciencia, arte, técnica, oficio o industria a que pertenezca la cuestión de valuación de inmuebles, si la ciencia, arte, técnica, oficio o industria requiere título para su ejercicio.
-
-Si no hubiere peritos en el lugar, que satisfagan las condiciones que anteceden, podrá designarse cualquier persona entendida en la materia.
-
-II. El ofrecimiento de la prueba pericial, deberá contener los siguientes requisitos:
-
-a) Nombre, apellidos y domicilio en el lugar del juicio, del perito que se proponga;
-
-b) Aceptación y protesta del cargo por parte del perito designado; y
-
-c) Acreditar la calidad profesional, técnica, artística o industrial del perito, exhibiendo en su caso copia certificada de la cédula profesional o de las constancias que lo acrediten.
-
-La falta de cualquiera de los requisitos anteriores, importa el desechamiento de plano, de la prueba pericial.
+> <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 2011)</small>
 
 ###### ARTICULO 38.
 
-El titular del Poder Ejecutivo determinará tomando en cuenta los dos avaluos, en su caso, a través de la obtención de la medida matemática entre las cantidades que se establezcan en los dictámenes presentados, el monto de la indemnización.
+El titular del Poder Ejecutivo determinará tomando en cuenta los avalúos, en su caso, a través de la obtención de la media aritmética entre las cantidades que se establezcan en los dictámenes presentados, el monto de la indemnización.
+
+> <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 2011)</small>
 
 ###### ARTICULO 39.
 
-Se tendrá por conforme con el avalúo del perito contrario a cualquiera que no haga designación de valuador, al que no cumpla con los requisitos del Artículo que antecede, o al que no exhiba el dictamen al momento de hacer la designación.
+Se tendrá por conforme con el avalúo del perito contrario a cualquiera que no haga designación de valuador, al que no cumpla con los requisitos del Artículo 37, o al que no exhiba el testimonio con el avaló (sic) en el término señalado.
 
-Si todos son omisos al respecto, el monto de la indemnización será la cantidad que como valor catastral del bien esté fijado en la Dirección de Catastro e Impuesto a la Propiedad Raíz, ya sea que éste haya sido declarado por el propietario o aceptado por él de un modo tácito por haber pagado sus impuestos con esta base.
+> <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 2011)</small>
 
 ###### ARTICULO 40.
 
-Cuando se reclame el exceso de valor señalado en la indemnización a que se refiere el Artículo 38 de esta Ley, se hará la consignación ante el Tribunal de lo Contencioso Administrativo remitiendo el expediente, a efecto de que dicte la resolución correspondiente.
+El valor comercial determinado por el Poder Ejecutivo en los términos del Artículo 38 de esta Ley, podrá controvertirse ante el Tribunal de lo Contencioso Administrativo.
+
+> <small>(ADICIONADO, P.O. 17 DE OCTUBRE DE 2011)</small>
+
+ARTICULO 40 A.- La demanda deberá de promoverse ante el Tribunal de lo Contencioso Administrativo del Estado de Aguascalientes, en el plazo de cinco días hábiles contados a partir de que se notifique la declaratoria de expropiación en los términos del Artículo 29 de esta Ley.
+
+La demanda deberá de reunir los requisitos establecidos en las Fracciones I, II, III, IV, V y VII del Artículo 29 de la Ley del Procedimiento Contencioso Administrativo para el Estado de Aguascalientes.
+
+En la demanda debe designar el actor, si no lo hubiere hecho en la audiencia del procedimiento de expropiación, el nombre del corredor público que valuará el bien mueble o inmueble de su intención, quien deberá de aceptar y protestar el cargo conferido y comprometerse, en el propio escrito de demanda a rendir su avalúo en el término de cinco días hábiles.
+
+En el caso de que la demanda no cumpla con estos requisitos el Tribunal no podrá admitirla.
+
+Una vez admitida la demanda, el Tribunal dará vista a la autoridad demandada para que se imponga del procedimiento instaurado en su contra, para que alegue lo que a su derecho convenga.
+
+En caso de que el avalúo comercial de la parte actora no se presente en el término fijado se sobreseerá el procedimiento quedando firme el monto de la indemnización impugnada.
+
+> <small>(ADICIONADO, P.O. 17 DE OCTUBRE DE 2011)</small>
+
+ARTICULO 40 B.- Presentado el avalúo comercial de la parte actora resolverá el Tribunal prudencialmente y en definitiva si se designa un corredor público tercero en discordia, o bien si se decreta como monto de la indemnización el que represente una mayor indemnización cuantitativamente, lo que deberá de hacer fundando y motivando cuidadosamente su fallo.
+
+En el caso de que se designe un tercer corredor público para que dirima la discordia deberá de emitir su dictamen en un término de cinco días hábiles, con el apercibimiento que de no hacerlo se decretará una medida de apremio en su contra.
+
+Emitido el tercer avalúo decretará el Tribunal el valor definitivo de la indemnización.
+
+Cada parte retribuirá a su corredor y el pago del corredor tercero en discordia quedará a cargo de la autoridad que solicitó la expropiación.
+
+> <small>(ADICIONADO, P.O. 17 DE OCTUBRE DE 2011)</small>
+
+ARTICULO 40 C.- Contra las resoluciones del Tribunal de lo Contencioso Administrativo en este procedimiento no procederá recurso alguno.
+
+> <small>(ADICIONADO, P.O. 17 DE OCTUBRE DE 2011)</small>
+
+ARTICULO 40 D.- El procedimiento tramitado ante el Tribunal de lo Contencioso Administrativo para impugnar el monto de la indemnización, no suspenderá los efectos del decreto de expropiación.
+
+El titular de los derechos reales afectados por el procedimiento de expropiación tendrá el derecho de recibir el monto de la indemnización determinada por el Ejecutivo, aún y cuando decida ejercitar la acción de impugnación de dicho monto, teniendo el derecho de recibir la diferencia en caso de que el fallo le resulte favorable.
+
+> <small>(ADICIONADO, P.O. 17 DE OCTUBRE DE 2011)</small>
+
+ARTICULO 40 E.- Por la especialidad de la materia de la presente ley, y por ser de interés general, en contra del procedimiento, de la determinación de utilidad pública y del decreto de expropiación no procederá el recurso establecido en la Ley del Procedimiento Administrativo para el Estado de Aguascalientes, ni el juicio de nulidad establecido en la Ley del Procedimiento Contencioso Administrativo para el Estado de Aguascalientes.
+
+> <small>(ADICIONADO, P.O. 17 DE OCTUBRE DE 2011)</small>
+
+ARTICULO 40 F.- La Secretaría de Gobierno procederá a ocupar de inmediato los bienes materia de expropiación, una vez que se haya publicado el decreto expropiatorio.
 
 ###### ARTICULO 41.
 
-la resolución del Tribunal en que fije el monto de la indemnización, será firme e inatacable.
+(DEROGADO, P.O. 17 DE OCTUBRE DE 2011)
 
 ### CAPITULO VI. De la Reversión de los Bienes Expropiados
 
@@ -407,11 +459,11 @@ Si el Ejecutivo ordena la reversión de un bien expropiado, el titular de los de
 
 ###### ARTICULO 49.
 
-Contra el Decreto que contenga la declaratoria de expropiación, los afectados podrán interponer por escrito y dentro de los cinco días hábiles siguientes a su notificación, recurso administrativo de revocación ante la Secretaría General de Gobierno, en el que deberán ofrecer y exhibir las pruebas supervenientes y el pliego de alegatos que a sus intereses convenga. El recurso de revocación deberá ser resuelto por el Titular del Poder Ejecutivo, dentro de los quince días hábiles siguientes.
+(DEROGADO, P.O. 17 DE OCTUBRE DE 2011)
 
 ###### ARTICULO 50.
 
-Cuando no se haya hecho valer el recurso de revocación en el término que al efecto se establece, o se haya resuelto en contra de las pretensiones del recurrente, la Secretaría General de Gobierno procederá a la ocupación inmediata del o de los bienes materia de la expropiación.
+(DEROGADO, P.O. 17 DE OCTUBRE DE 2011)
 
 ## TRANSITORIOS
 
@@ -454,3 +506,15 @@ Luis Armando Reynoso Femat,
 EL SECRETARIO GENERAL DE GOBIERNO,
 
 Lic. Jorge Mauricio Martínez Estebanez.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 17 DE OCTUBRE DE 2011.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan las disposiciones legales que se opongan a la presente reforma.
