@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-hacienda-del-estado-de-aguascalientes-10055"
 country: "mx"
 rank: "ley"
 publication_date: "1984-01-01"
-last_updated: "2009-12-31"
+last_updated: "2011-10-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10055&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "AGU"
 ---
 # LEY DE HACIENDA DEL ESTADO DE AGUASCALIENTES
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 31 DE OCTUBRE DE 2011 EN EL P.O. DEL ESTADO DE AGUASCALIENTES, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 LEY DE HACIENDA DEL ESTADO DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE OCTUBRE DE 2011.
 
 Ley publicada en el Suplemento al Número 1, Sección Primera del Periódico Oficial del Estado de Aguascalientes, el domingo 1 de enero de 1984.
 
@@ -1479,9 +1481,9 @@ El contribuyente que tenga diversas sucursales en el territorio del Estado, podr
 
 Los contribuyentes que realicen pagos concentrados deberán tener un solo registro por la matriz y sus sucursales.
 
-> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 2011)</small>
 
-Cuando así lo autorice el Congreso del Estado, sin exceder el plazo que éste señale en su autorización, el Gobernador del Estado podrá afectar como fuente de pago o como garantía de un determinado financiamiento o empréstito, o de otro fin o gasto público especial, los ingresos que correspondan al Estado por concepto de impuesto sobre nómina y sus accesorios. Para tales efectos el Gobernador del Estado podrá constituir uno o más fideicomisos privados irrevocables que, ya sea por conducto de las oficinas recaudadoras de la Secretaría de Finanzas del Estado o de terceros autorizados, perciban el producto de la recaudación del Impuesto Sobre Nómina y lo apliquen de conformidad con los fines que se establezcan en dichos fideicomisos, sujetándose a las condiciones que para cada caso establezca el Congreso del Estado en su autorización.
+Cuando así lo autorice el Congreso del Estado, sin exceder el plazo que señale en su autorización, el Gobernador del Estado podrá afectar como fuente de pago o como garantía de un determinado financiamiento o empréstito, de otro fin o gasto público especial, los ingresos que correspondan al Estado por concepto de impuesto sobre nómina y sus accesorios. Para tales efectos el Gobernador del Estado podrá constituir uno o más fideicomisos públicos no considerados Entidades Paraestatales que, ya sea por conducto de las oficinas recaudadoras de la Secretaría de Finanzas del Estado o de terceros autorizados, perciban el producto de la recaudación del Impuesto Sobre Nómina y lo apliquen de conformidad con los fines que se establezcan en dichos fideicomisos, sujetándose a las condiciones que para cada caso establezca el Congreso del Estado en su autorización.
 
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2005)</small>
 
@@ -1902,3 +1904,13 @@ P.O. 31 DE DICIEMBRE DE 2009.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 17 DE OCTUBRE DE 2011.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto iniciará su vigencia al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Los fideicomisos públicos que formen parte de la Administración Pública Descentralizada y que hayan sido constituidos en fecha anterior a la entrada en vigor del presente Decreto, deberán adecuar sus contratos y/o Decretos de creación a las reformas y adiciones a la Ley Orgánica de la Administración Pública, a la Ley para el Control de la (sic) Entidades Paraestatales, a la Ley de Presupuesto, Contabilidad y Gasto Público y a la Ley de Hacienda, todas ellas del Estado de Aguascalientes, en un término no mayor a 90 días contados a partir de la fecha en que entre en vigor el presente Decreto.
