@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-presupuesto-contabilidad-y-gasto-publico-del-estado-1176
 country: "mx"
 rank: "ley"
 publication_date: "1996-11-10"
-last_updated: "2010-10-11"
+last_updated: "2011-10-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11768&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "AGU"
 ---
 # LEY DE PRESUPUESTO, CONTABILIDAD Y GASTO PUBLICO DEL ESTADO DE AGUASCALIENTES
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 31 DE OCTUBRE DE 2011 EN EL P.O. DEL ESTADO DE AGUASCALIENTES, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 LEY DE PRESUPUESTO, CONTABILIDAD Y GASTO PUBLICO DEL ESTADO DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE OCTUBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE OCTUBRE DE 2011.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el domingo 10 de noviembre de 1996.
 
@@ -85,7 +87,9 @@ I.- "Contraloría". La Contraloría General del Estado;
 
 II.- "Dependencias". Las definidas como tales en la Ley Orgánica del Poder Ejecutivo del Estado o en la Ley Orgánica Municipal;
 
-III.- "Entidades". Los organismos paraestatales o paramunicipales, empresas de participación mayoritaria y fideicomisos pertenecientes a la Administración Pública Descentralizada del Gobierno del Estado y de los Municipios;
+> <small>(REFORMADA, P.O. 17 DE OCTUBRE DE 2011)</small>
+
+III.- "Entidades". Los organismos descentralizados, empresas de participación mayoritaria y fideicomisos públicos pertenecientes a la Administración Pública Estatal y Municipal;
 
 IV.- "Estado". El Estado Libre y Soberano de Aguascalientes;
 
@@ -99,7 +103,9 @@ VII.- "Presupuesto". Documento aprobado por el Congreso del Estado mediante el c
 
 VIII.- "Secretaría". La Secretaría de Finanzas del Estado;
 
-IX.- "Sujetos de la Ley". Los que se indican en el artículo 1º de la Ley, así como las dependencias y entidades pertenecientes a la Administración Pública Estatal o Municipal;
+> <small>(REFORMADA, P.O. 17 DE OCTUBRE DE 2011)</small>
+
+IX.- "Sujetos de la Ley". Los que se indican en el artículo 1º de la Ley, así como las Entidades definidas en la presente Ley;
 
 X.- "Tesorería ó Tesorerías". La tesorería municipal ó su equivalente; y (sic)
 
@@ -175,15 +181,15 @@ Los Presupuestos Anuales de Egresos Estatal y Municipales deberán elaborarse de
 
 Los Gastos derivados de los presupuestos mencionados en el párrafo anterior, deberán incluirse en la Cuenta de la Hacienda Pública Estatal o Municipal según corresponda.
 
-> <small>(REFORMADO, P.O. 25 DE AGOSTO DE 2003)</small>
+> <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 2011)</small>
 
 ###### ARTICULO 13.
 
-El Presupuesto de Egresos del Gobierno del Estado, de los Poderes Legislativo y Judicial, Entidades Paraestatales, Empresas de Participación Mayoritaria y Fideicomisos pertenecientes a la Administración Pública Descentralizada del Gobierno del Estado y las demás personas de derecho público de carácter estatal autónomas por disposición legal, será el que contenga el Decreto que apruebe el Congreso del Estado, en base al proyecto que presente el titular del Ejecutivo, de conformidad con lo dispuesto por el artículo 21 de la presente Ley.
+El Presupuesto de Egresos del Gobierno del Estado, de los Poderes Legislativo y Judicial, organismos descentralizados, empresas de participación mayoritaria y fideicomisos públicos pertenecientes a la Administración Pública Estatal y las demás personas de derecho público de carácter estatal autónomas por disposición legal, será el señalado en el Decreto que apruebe el Congreso del Estado, con base en el proyecto que presente el Titular del Poder Ejecutivo, de conformidad con lo dispuesto por el artículo 21 de la presente Ley.
 
-La iniciativa del Ejecutivo contendrá los presupuestos de egresos de los Poderes Legislativo y Judicial, Entidades Paraestatales, Empresas de Participación Mayoritaria y Fideicomisos pertenecientes a la Administración Pública Descentralizada del Gobierno del Estado y las demás personas de derecho público de carácter estatal autónomas por disposición legal, los cuales serán formulados por los órganos internos de dichos Poderes.
+La iniciativa del Ejecutivo contendrá los presupuestos de egresos de los Poderes Legislativo y Judicial, organismos descentralizados, empresas de participación mayoritaria y fideicomisos públicos pertenecientes a la Administración Pública Estatal y las demás personas de derecho público de carácter estatal autónomas por disposición legal, los cuales serán formulados por los órganos internos de dichos Poderes.
 
-Los presupuestos de egresos de los Municipios, Organismos Paramunicipales, Empresas de Participación Mayoritaria y Fideicomisos pertenecientes a la Administración Pública Descentralizada de los Municipios y las demás personas de derecho público de carácter municipal autónomos por disposición legal, serán los que aprueben los ayuntamientos a iniciativa de los Presidentes Municipales.
+Los presupuestos de egresos de los Municipios, organismos descentralizados, empresas de participación mayoritaria y fideicomisos públicos pertenecientes a la Administración Pública Municipal y las demás personas de derecho público de carácter municipal autónomos por disposición legal, serán los que aprueben los ayuntamientos a iniciativa de los Presidentes Municipales.
 
 ###### ARTICULO 14.
 
@@ -293,7 +299,9 @@ Los Presupuestos de Ingresos del Gobierno del Estado y de los Municipios forman 
 
 I.- Al titular del Ejecutivo por medio de la Secretaría de Finanzas del Estado, correspondientes al Gobierno del Estado y Entidades de la Administración Pública Paraestatal para ser enviados al Congreso del Estado en los plazos y requisitos señalados en el Artículo 46 de la Constitución Política del Estado;
 
-II.- A los Ayuntamientos por la Tesorería Municipal, correspondientes al Municipio y a las entidades de la Administración Pública Paramunicipal para ser enviados al Congreso del Estado por conducto del Presidente Municipal, en los términos de las leyes aplicables.
+> <small>(REFORMADA, P.O. 17 DE OCTUBRE DE 2011)</small>
+
+II.- A los Ayuntamientos por la Tesorería Municipal, correspondientes al Municipio y a las entidades de la Administración Pública Municipal para ser enviados al Congreso del Estado por conducto del Presidente Municipal, en los términos de las leyes aplicables.
 
 > <small>(ADICIONADO, P.O. 25 DE AGOSTO DE 2003)</small>
 
@@ -379,13 +387,11 @@ La Secretaría, Tesorería, Unidad o Comisión aplicable establecerán los linea
 
 ### CAPITULO V. Del Registro Contable y la Información Financiera
 
-> <small>(REFORMADO, P.O. 25 DE AGOSTO DE 2003)</small>
+> <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 2011)</small>
 
 ###### ARTICULO 31.
 
-El objetivo principal de la contabilidad de Entidades Paraestatales, Paramunicipales, Empresas de Participación Mayoritaria y Fideicomisos pertenecientes a la Administración Pública Descentralizada del Estado o de los Municipios y las demás personas de derecho público de carácter estatal o municipal autónomos por disposición legal, será el de proporcionar información a la sociedad, a través de sus representantes en el
-
-Congreso del Estado, sobre el origen de los recursos financieros y su aplicación en el Gasto Público, de acuerdo con las leyes aplicables de la materia.
+El objetivo principal de la contabilidad de las Entidades y el de las demás personas de derecho público de carácter estatal o municipal autónomos por disposición legal, será el de proporcionar información a la sociedad, a través de sus representantes en el Congreso del Estado, sobre el origen de los recursos financieros y su aplicación en el Gasto Público, de acuerdo con las leyes aplicables de la materia.
 
 ###### ARTICULO 32.
 
@@ -393,11 +399,9 @@ Los Catálogos de Cuenta que utilizarán los Sujetos de la Ley serán emitidos p
 
 I.- Para el caso de las entidades de la Administración Pública Estatal, éstas prepararán sus propios catálogos y los remitirán a la Secretaría para su previa autorización;
 
-> <small>(REFORMADA, P.O. 25 DE AGOSTO DE 2003)</small>
+> <small>(REFORMADA, P.O. 17 DE OCTUBRE DE 2011)</small>
 
-II.- Las Tesorerías de los Municipios prepararán sus catálogos aplicables que contendrán el de las Entidades de la Administración Pública
-
-Paramunicipal; y
+II.- Las Tesorerías de los Municipios prepararán sus catálogos aplicables que contendrán el de las Entidades pertenecientes a la Administración Pública Municipal; y
 
 > <small>(REFORMADA, P.O. 25 DE AGOSTO DE 2003)</small>
 
@@ -409,17 +413,17 @@ IV.- En el caso de los Poderes Legislativo y Judicial sus catálogos aplicables 
 
 En los casos de la fracción II, la asignación del presupuesto estará basada en los recursos municipales disponibles.
 
-> <small>(REFORMADO, P.O. 25 DE AGOSTO DE 2003)</small>
+> <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 2011)</small>
 
 ###### ARTICULO 33.
 
-Es facultad de la Secretaría incorporar y formular la Cuenta de la Hacienda Pública del Gobierno del Estado, presentarla al titular del Ejecutivo Estatal y someterla al Congreso. Dicha Cuenta de la Hacienda Pública contendrá por separado la de los Organismos Paraestatales, Empresas de Participación Mayoritaria y Fideicomisos pertenecientes a la Administración Pública Descentralizada del Gobierno del Estado y la de las personas de derecho público de carácter estatal autónomas por disposición legal. Se formulará e incorporará de manera mensual, y contendrá el avance de los programas aprobados. Para tales efectos las entidades estarán obligadas a remitir a la Secretaría su informe de cuenta pública en los plazos que ésta establezca.
+Es facultad de la Secretaría incorporar y formular la Cuenta de la Hacienda Pública del Gobierno del Estado, presentarla al titular del Poder Ejecutivo del Estado y someterla al Congreso. Dicha Cuenta de la Hacienda Pública contendrá por separado la de los organismos descentralizados, empresas de participación mayoritaria y fideicomisos públicos pertenecientes a la Administración Pública Estatal y la de las personas de derecho público de carácter estatal autónomas por disposición legal, asimismo, contendrá los informes de ingresos y egresos de los fideicomisos públicos no considerados entidades paraestatales. Se formulará e incorporará de manera mensual, y contendrá el avance de los programas aprobados. Para tales efectos las entidades estarán obligadas a remitir a la Secretaría su informe de cuenta pública en los plazos que ésta establezca.
 
-> <small>(REFORMADO, P.O. 25 DE AGOSTO DE 2003)</small>
+> <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 2011)</small>
 
 ###### ARTICULO 34.
 
-En el ámbito municipal la facultad señalada en el artículo anterior, corresponderá a las Tesorerías Municipales que habrán de preparar la Cuenta de la Hacienda Pública del Municipio que contendrá la de los Organismos Paramunicipales, Empresas de Participación Mayoritaria y Fideicomisos pertenecientes a la Administración Pública Descentralizada de los Municipios y las demás personas de derecho público de carácter municipal autónomos por disposición legal, y contendrá el avance de los programas aprobados, para someterla al Congreso.
+En el ámbito municipal la facultad señalada en el artículo anterior, corresponderá a las Tesorerías Municipales que habrán de preparar la Cuenta de la Hacienda Pública del Municipio que contendrá la de los organismos descentralizados, empresas de participación mayoritaria y fideicomisos públicos pertenecientes a la Administración Pública Municipal y la de las demás personas de derecho público de carácter municipal autónomos por disposición legal, y contendrá el avance de los programas aprobados, para someterla al Congreso.
 
 ###### ARTICULO 35.
 
@@ -596,3 +600,13 @@ Todos los sujetos obligados en términos de esta Ley, a más tardar en el plazo 
 ###### ARTÍCULO QUINTO.
 
 La Secretaría de Finanzas de Gobierno del Estado, emitirá, a más tardar en el término de dos meses, las disposiciones generales para dar cumplimiento a lo dispuesto en esta reforma.
+
+P.O. 17 DE OCTUBRE DE 2011.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto iniciará su vigencia al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Los fideicomisos públicos que formen parte de la Administración Pública Descentralizada y que hayan sido constituidos en fecha anterior a la entrada en vigor del presente Decreto, deberán adecuar sus contratos y/o Decretos de creación a las reformas y adiciones a la Ley Orgánica de la Administración Pública, a la Ley para el Control de la Entidades Paraestatales, a la Ley de Presupuesto, Contabilidad y Gasto Público y a la Ley de Hacienda, todas ellas del Estado de Aguascalientes, en un término no mayor a 90 días contados a partir de la fecha en que entre en vigor el presente Decreto.
