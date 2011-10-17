@@ -4,7 +4,7 @@ identifier: "AGU-ley-del-procedimiento-contencioso-administrativo-para-el-28565"
 country: "mx"
 rank: "ley"
 publication_date: "1999-09-19"
-last_updated: "2010-11-15"
+last_updated: "2011-10-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=28565&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DEL PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO PARA EL ESTADO DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE NOVIEMBRE DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE OCTUBRE DE 2011.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el domingo 19 de septiembre de 1999.
 
@@ -45,7 +45,7 @@ LEY DEL PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO PARA EL ESTADO DE AGUASCALIENTE
 
 El conocimiento y resolución del procedimiento contencioso administrativo corresponderá al Tribunal de lo Contencioso Administrativo del Estado de Aguascalientes.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 2010)</small>
 
@@ -83,7 +83,7 @@ XIV. Tribunal: Tribunal de lo Contencioso Administrativo.
 
 El Tribunal conocerá de los siguientes asuntos:
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE EL TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 6 DE ABRIL DE 2009)</small>
 
@@ -113,19 +113,19 @@ VI.- De los juicios en contra de las resoluciones definitivas por responsabilida
 
 VII.- De los juicios en contra de las resoluciones dictadas conforme a una ley especial, que le otorgue competencia al Tribunal de lo Contencioso Administrativo del Estado;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 10 DE MAYO DE 2010)</small>
 
 VIII.- De las controversias suscitadas entre la Administración Pública y los Agentes del Ministerio Público, los peritos y los miembros de las instituciones policiales del Estado y sus Municipios;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 10 DE MAYO DE 2010)</small>
 
 IX.- De los recursos que concedan las leyes en contra de los acuerdos que se dicten en la tramitación de los juicios; y
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADA, P.O. 10 DE MAYO DE 2010)</small>
 
@@ -139,9 +139,9 @@ Para los efectos de las dos primeras Fracciones de este Artículo, las resolucio
 
 El Procedimiento Contencioso Administrativo, no procederá en el caso de controversias que se susciten en materia electoral y laboral, así como las derivadas de universidades o instituciones educativas constituidas como organismos descentralizados, que gocen de personalidad jurídica y patrimonio propios y que no hubieren actuado como autoridades.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>(ADICIONADO, P.O. 17 DE OCTUBRE DE 2011)</small>
 
-> <small>(DEROGADO ULTIMO PARRAFO, P.O. 10 DE MAYO DE 2010)</small>
+En materia expropiatoria el Tribunal Contencioso Administrativo, solo podrá conocer del procedimiento establecido en la Ley de Expropiación para el Estado de Aguascalientes.
 
 > <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 2009)</small>
 
@@ -157,7 +157,7 @@ I.- El actor.- Tendrá ese carácter el particular o la autoridad que reclame la
 
 II.- El demandado.- Tendrá ese carácter:
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 6 DE ABRIL DE 2009)</small>
 
@@ -171,7 +171,7 @@ III.- El tercero quien, dentro del procedimiento administrativo, aparezca como t
 
 Sólo podrán intervenir en el juicio, las personas que tengan un interés directo y legítimo que funde su pretensión.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 2010)</small>
 
@@ -185,7 +185,7 @@ La gestión de negocios no procederá en el Procedimiento de lo Contencioso Admi
 
 La representación legal de los particulares se otorgará en escritura pública o carta poder, firmada ante dos testigos y ratificada la firma del otorgante ante notario público, o ante el Secretario General de Acuerdos del Tribunal.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 7 DE SEPTIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE SEPTIEMBRE DE 2009)</small>
 
 ###### ARTICULO 8°.
 
@@ -199,7 +199,7 @@ Para las diligencias que deben practicarse fuera del local del Tribunal, podrá 
 
 Las que deben desahogarse fuera de la residencia del Tribunal, deberán encomendarse, mediante la requisitoria respectiva, a la autoridad judicial correspondiente.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 6 DE ABRIL DE 2009)</small>
 
@@ -375,9 +375,9 @@ El sobreseimiento se podrá decretar en cualquiera de los casos antes señalados
 
 ### CAPITULO V. De la Demanda
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE NOVIEMBRE DE 2010)</small>
 
 ###### ARTICULO 28.
 
@@ -403,7 +403,7 @@ Cuando el interesado fallezca durante el plazo para iniciar el juicio, éste se 
 
 La demanda deberá contener:
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 15 DE NOVIEMBRE DE 2010)</small>
 
@@ -535,7 +535,7 @@ Dentro del término de tres días, se acordará sobre la contestación de la dem
 
 ### CAPITULO VII. De las Pruebas
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 7 DE SEPTIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE SEPTIEMBRE DE 2009)</small>
 
 ###### ARTICULO 40.
 
@@ -565,7 +565,7 @@ Podrá convocarse a los peritos, para que comparezcan y respondan a las pregunta
 
 Cuando los peritos de las partes no coincidan en los resultados y conclusiones en sus dictámenes, el Magistrado designará perito tercero, de entre los que estén registrados en la Secretaría General del Tribunal.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE ABRIL DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE ABRIL DE 2006)</small>
 
 ###### ARTICULO 44.
 
@@ -635,7 +635,7 @@ Las partes podrán hacer valer el incidente a que se refiere el Artículo anteri
 
 La acumulación se tramitará de oficio o a petición de parte y se sustanciará citando a las partes a una audiencia que se celebrará dentro de un plazo de cinco días, en la que se hará la relación de los autos, se presentarán alegatos y se emitirá la resolución que proceda.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 15 DE NOVIEMBRE DE 2010)</small>
 
@@ -817,7 +817,7 @@ Cuando haya causado ejecutoria una sentencia favorable al actor, el Tribunal la 
 
 El Tribunal se cerciorará si las autoridades u organismos correspondientes han cumplido con los términos de la sentencia y en el plazo señalado para ello, y de no ser así, de oficio o a petición de parte, los requerirá para que la cumplan, previniéndolas de que, en caso de desacato, se les impondrá una multa de hasta por el equivalente a doscientos cincuenta días de salario mínimo vigente en el Estado.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 7 DE SEPTIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE SEPTIEMBRE DE 2009)</small>
 
 ###### ARTICULO 68.
 
@@ -895,13 +895,13 @@ Recibida la excitativa de justicia, el Presidente del Consejo solicitará un inf
 
 Si se encuentra fundada la excitativa, se otorgará un plazo de cinco días para que el Magistrado emita la resolución de que se trate.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 15 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 15 DE NOVIEMBRE DE 2010)</small>
 
 ### CAPITULO XIV. Del Juicio en Línea
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 15 DE NOVIEMBRE DE 2010)</small>
 
@@ -909,7 +909,7 @@ Si se encuentra fundada la excitativa, se otorgará un plazo de cinco días para
 
 El Procedimiento se promoverá, sustanciará y resolverá en línea a través del Sistema de Justicia en Línea que deberá establecer y desarrollar el Tribunal en términos de lo dispuesto por el presente Capítulo y las demás disposiciones específicas que resulten aplicables de esta Ley.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 15 DE NOVIEMBRE DE 2010)</small>
 
@@ -919,7 +919,7 @@ Cuando el actor ejerza su derecho a presentar demanda a través del Sistema de J
 
 Si el actor no señala expresamente su Dirección de Correo Electrónico, se tramitará el Juicio en la vía tradicional y el acuerdo correspondiente se notificará por Boletín Procesal del Tribunal.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 15 DE NOVIEMBRE DE 2010)</small>
 
@@ -931,7 +931,7 @@ A fin de emplazar al particular demandado, el Secretario de Acuerdos que corresp
 
 Si el particular rechaza tramitar el Juicio en línea éste se sujetará a la vía tradicional.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 15 DE NOVIEMBRE DE 2010)</small>
 
@@ -941,7 +941,7 @@ En el Sistema de Justicia en Línea, se integrará el Expediente Electrónico, m
 
 En los Juicios en Línea, las pruebas que por su naturaleza sea necesario que el Tribunal reciba declaración directa de personas, se dejará constancia en cualquier clase de Archivo Electrónico para que se integre en el Expediente Electrónico. A elección del Tribunal, las declaraciones se desahogarán por videoconferencia o bajo las reglas aplicables a un Juicio en vía tradicional.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 15 DE NOVIEMBRE DE 2010)</small>
 
@@ -953,7 +953,7 @@ El registro de la Firma Electrónica Avanzada, Clave de Acceso y Contraseña, im
 
 Para hacer uso del Sistema de Justicia en Línea deberán observarse los lineamientos que para tal efecto expida el Tribunal.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 15 DE NOVIEMBRE DE 2010)</small>
 
@@ -961,7 +961,7 @@ Para hacer uso del Sistema de Justicia en Línea deberán observarse los lineami
 
 La Firma Electrónica Avanzada producirá los mismos efectos legales que la firma autógrafa y garantizará la integridad del documento, teniendo el mismo valor probatorio dentro de la sustanciación de este procedimiento.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 15 DE NOVIEMBRE DE 2010)</small>
 
@@ -969,7 +969,7 @@ La Firma Electrónica Avanzada producirá los mismos efectos legales que la firm
 
 Solamente las partes, las personas autorizadas y delegados tendrán acceso al Expediente Electrónico, exclusivamente para su consulta, una vez que tengan registrada su Clave de Acceso y Contraseña.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 15 DE NOVIEMBRE DE 2010)</small>
 
@@ -977,7 +977,7 @@ Solamente las partes, las personas autorizadas y delegados tendrán acceso al Ex
 
 Los titulares de una Firma Electrónica Avanzada, Clave de Acceso y Contraseña serán responsables de su uso por lo que el acceso o recepción de las notificaciones, la consulta al Expediente Electrónico y el envío de información mediante la utilización de cualquiera de dichos instrumentos, les serán atribuibles y no admitirán prueba en contrario, salvo que se demuestren fallas del Sistema de Justicia en Línea.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 15 DE NOVIEMBRE DE 2010)</small>
 
@@ -985,7 +985,7 @@ Los titulares de una Firma Electrónica Avanzada, Clave de Acceso y Contraseña 
 
 Una vez recibida por vía electrónica cualquier promoción de las partes, el Sistema de Justicia en Línea emitirá el Acuse de Recibo Electrónico correspondiente en el que se señalará fecha y hora en que se recibió.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 15 DE NOVIEMBRE DE 2010)</small>
 
@@ -993,7 +993,7 @@ Una vez recibida por vía electrónica cualquier promoción de las partes, el Si
 
 Cualquier actuación en el Juicio en Línea se efectuará a través del Sistema de Justicia en Línea en términos del presente Capítulo. Dichas actuaciones serán validadas con la Firma Electrónica Avanzada o Firma Digital del Magistrado y Secretarios de Acuerdos que den fe según corresponda.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 15 DE NOVIEMBRE DE 2010)</small>
 
@@ -1003,7 +1003,7 @@ Los documentos que las partes ofrezcan como prueba, deberán exhibirlos de forma
 
 Las pruebas documentales que ofrezcan y exhiban las partes tendrán el mismo valor probatorio que su constancia física, siempre y cuando se observen las disposiciones de la presente Ley y de los acuerdos normativos que emita el Tribunal para asegurar la autenticidad de la información, así como de su transmisión, recepción, validación y notificación.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 15 DE NOVIEMBRE DE 2010)</small>
 
@@ -1011,7 +1011,7 @@ Las pruebas documentales que ofrezcan y exhiban las partes tendrán el mismo val
 
 Para el caso de pruebas diversas a las documentales, los instrumentos en los que se hagan constar se integrarán al Expediente Electrónico. Para tal efecto, el Secretario de Acuerdos a cuya mesa corresponda el asunto, deberá digitalizar la imagen de los originales físicos, procediendo a su cotejo y certificación, luego de lo cual podrá autorizarse su devolución, pero mientras esto no ocurra permanecerán bajo resguardo del Tribunal. Los originales físicos deberán entregarse al Tribunal la misma fecha en que se registre en el Sistema de Justicia en Línea la promoción por la que se ofrece la prueba registrándose su recepción en el Expediente Electrónico.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 15 DE NOVIEMBRE DE 2010)</small>
 
@@ -1025,9 +1025,7 @@ El Tribunal dispondrá lo conducente para que se digitalicen los documentos que 
 
 En el escrito a través del cual el tercero interesado se apersone tendrá que indicar si acepta los mecanismos del Juicio en Línea, en cuyo caso deberá señalar su Dirección de Correo Electrónico. Si manifiesta su oposición, se imprimirá y certificará el Expediente Electrónico para que lo pueda consultar en el local del Tribunal, debiéndosele recibir las promociones que presente como si se tratara de un juicio en vía tradicional, mismas que deberán digitalizarse para agregarse al Expediente Electrónico.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
-> <small>(ADICIONADO, P.O. 15 DE NOVIEMBRE DE 2010)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTICULO 89.
 
@@ -1049,7 +1047,7 @@ VII. A los terceros interesados que se hayan opuesto a los mecanismos del Juicio
 
 En todo caso deberá asentarse razón en el Expediente Electrónico la realización de una notificación o del aviso dado en la Dirección de Correo Electrónico señalada por alguna de las partes.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 15 DE NOVIEMBRE DE 2010)</small>
 
@@ -1057,7 +1055,7 @@ En todo caso deberá asentarse razón en el Expediente Electrónico la realizaci
 
 Para los efectos del Juicio en Línea son hábiles las 24 horas de los días en que se encuentren abiertas al público las oficinas del Tribunal. Las promociones se considerarán, salvo prueba en contrario, presentadas el día y hora que conste en el Acuse de Recibo Electrónico que emita el Sistema de Justicia en Línea, en el lugar en donde el promotor tenga su domicilio. Tratándose de un día inhábil se tendrán por presentadas el día hábil siguiente.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 15 DE NOVIEMBRE DE 2010)</small>
 
@@ -1067,7 +1065,7 @@ Las autoridades cuyos actos sean susceptibles de impugnarse en términos de esta
 
 Mientras que las autoridades no verifiquen el registro referido en párrafo anterior, se les emplazará como si se tratara de un Juicio en la vía tradicional.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 15 DE NOVIEMBRE DE 2010)</small>
 
@@ -1079,7 +1077,7 @@ El Secretario de Acuerdos del Tribunal, deberá imprimir el archivo del Expedien
 
 Sin perjuicio de lo anterior, en aquellos casos en que así lo soliciten los Tribunales Federales se podrá remitir la información a través de medios electrónicos.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 15 DE NOVIEMBRE DE 2010)</small>
 
@@ -1089,7 +1087,7 @@ En caso que el Tribunal advierta que alguna persona modificó, alteró, destruy�
 
 Sin perjuicio de lo anterior, y de las responsabilidades penales respectivas, se impondrá al responsable una multa de trescientas a quinientas veces el salario mínimo general vigente en el Estado al momento de cometer la infracción.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 15 DE NOVIEMBRE DE 2010)</small>
 
@@ -1101,7 +1099,7 @@ El reporte que determine que existió interrupción en el Sistema deberá señal
 
 No obstante lo anterior, las partes podrán presentar sus promociones como si se tratara de un Juicio en vía tradicional, mismas que se deberán digitalizar y agregarse al Expediente Electrónico.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 15 DE NOVIEMBRE DE 2010)</small>
 
@@ -1109,13 +1107,13 @@ No obstante lo anterior, las partes podrán presentar sus promociones como si se
 
 En las notificaciones, el actuario deberá asentar razón del envío por correo o entrega de los oficios de notificación y de los avisos en la Dirección de Correo Electrónico, así como de las notificaciones personales y por lista. Los acuses postales de recibo y las piezas certificadas devueltas se agregarán como constancia a dichas actuaciones.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 15 DE NOVIEMBRE DE 2010)</small>
 
 ### CAPITULO XV. Del Boletín Procesal
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 15 DE NOVIEMBRE DE 2010)</small>
 
@@ -1181,7 +1179,7 @@ EL SECRETARIO GENERAL DE GOBIERNO,
 
 Lic. Abelardo Reyes Sahagún.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 10 DE ABRIL DE 2006.
 
@@ -1270,3 +1268,13 @@ Para la promoción, sustanciación y resolución del juicio contencioso administ
 ###### ARTÍCULO DÉCIMO PRIMERO.
 
 En el Presupuesto de Egresos del Estado de Aguascalientes para el Ejercicio Fiscal del año 2011 deberá preverse una partida financiera para el Poder Judicial que permita la implementación del Juicio en Línea. Adicionalmente El Poder Judicial del Estado deberá gestionar, ante las instancias correspondientes, financiamiento que contribuya a concretar el presente Decreto.
+
+P.O. 17 DE OCTUBRE DE 2011.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan las disposiciones legales que se opongan a la presente reforma.
