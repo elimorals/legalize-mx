@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-quejas-medicas-y-solicitudes-de-reembolso-del-824
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-08-16"
-last_updated: "2011-08-16"
+last_updated: "2011-10-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=82442&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2011-06-23"
 
 REGLAMENTO DE QUEJAS MEDICAS Y SOLICITUDES DE REEMBOLSO DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 17 DE OCTUBRE DE 2011.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el martes 16 de agosto de 2011.
 
@@ -85,7 +85,9 @@ I. Comisión.- La Comisión de Quejas Médicas de cada una de las Delegaciones d
 
 II. Comité.- El Comité de Quejas Médicas;
 
-III. Deficiencia Administrativa.- El incumplimiento de los servidores públicos en el envío de la documentación necesaria y en el trámite administrativo, en los tiempos y la forma establecidos en este ordenamiento, para resolver la queja médica que contenga o no solicitud de indemnización y/o la solicitud de reembolso de gastos médicos extrainstitucionales, así como en los trámites administrativos del servicio médico prestado;
+> <small>(REFORMADA, D.O.F. 17 DE OCTUBRE DE 2011)</small>
+
+III. Deficiencia Administrativa.- El incumplimiento por parte de los servidores públicos en el envío de la documentación necesaria y en el trámite administrativo, en los tiempos y forma establecidos en el Manual de Procedimientos para la Atención de Quejas Médicas y Solicitudes de Reembolso, para resolver una queja médica que contenga o no solicitud de indemnización y/o la solicitud de reembolso de gastos médicos extrainstitucionales, así como en los trámites administrativos del servicio médico prestado;
 
 IV. Deficiencia Médica.- La acción u omisión que contravenga los procedimientos técnico médicos establecidos en la normatividad relativa al otorgamiento del Seguro de Salud, previsto en la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado;
 
@@ -351,7 +353,9 @@ II. Secretario Ejecutivo, el Director Médico;
 
 III. Secretario Técnico, el Subdirector que designe el Secretario General;
 
-IV. Vocales Médicos, el representante de la Dirección de Delegaciones, el representante de la Dirección Médica y el Subdirector Médico del Centro Médico Nacional “20 de Noviembre” o de algún Hospital Regional de la Zona Metropolitana;
+> <small>(REFORMADA, D.O.F. 17 DE OCTUBRE DE 2011)</small>
+
+IV. Vocales Médicos, el representante de la Dirección de Delegaciones, el representante de la Dirección Médica, el Subdirector Médico del Centro Médico Nacional “20 de Noviembre” o de algún Hospital Regional de la Zona Metropolitana, dos representantes de la Federación de Sindicatos de los Trabajadores al Servicio del Estado y un representante del Sindicato Nacional de Trabajadores del Instituto;
 
 V. Asesor, el Subdirector que designe la Dirección Jurídica, e
 
@@ -369,7 +373,9 @@ I. Coordinador, el Subdirector de Area que designe el Director Médico, quien de
 
 II. Secretario Técnico, el Subdirector de Atención al Derechohabiente;
 
-III. Vocales Médicos, el representante de la Dirección de Delegaciones; el representante de la Dirección Médica y un Jefe de Servicios del Centro Médico Nacional “20 de Noviembre” o de algún Hospital Regional de la Zona Metropolitana;
+> <small>(REFORMADA, D.O.F. 17 DE OCTUBRE DE 2011)</small>
+
+III. Vocales Médicos, el representante de la Dirección de Delegaciones; el representante de la Dirección Médica, un Jefe de Servicios del Centro Médico Nacional “20 de Noviembre” o de algún Hospital Regional de la Zona Metropolitana, dos representantes de la Federación de Sindicatos de los Trabajadores al Servicio del Estado y un representante del Sindicato Nacional de Trabajadores del Instituto;
 
 IV. Asesor, el Jefe de Servicios que designe la Subdirección de lo Consultivo, e
 
@@ -389,7 +395,9 @@ II. Secretario Ejecutivo, el Subdelegado Médico;
 
 III. Secretario Técnico, el Titular de la Unidad;
 
-IV. Vocales Médicos, un representante de la Subdelegación Médica y el Subdirector Médico del Hospital Regional o General o de la Clínica Hospital que se encuentre dentro de la circunscripción de la Delegación;
+> <small>(REFORMADA, D.O.F. 17 DE OCTUBRE DE 2011)</small>
+
+IV. Vocales Médicos, un representante de la Subdelegación Médica, el Subdirector Médico del Hospital Regional o General o de la Clínica Hospital que se encuentre dentro de la circunscripción de la Delegación, un representante de la Federación de Sindicatos de los Trabajadores al Servicio del Estado y un representante del Sindicato Nacional de Trabajadores del Instituto;
 
 V. Asesor, el Titular de la Unidad Jurídica Delegacional, e
 
@@ -655,7 +663,9 @@ PRIMERO.- El presente Reglamento entrará en vigor el día siguiente de su publi
 
 SEGUNDO.- Se abrogan los Reglamentos para el Trámite de Solicitudes de Reembolso por la Prestación de Servicios Médicos Extrainstitucionales y el de Quejas Médicas, aprobados mediante los Acuerdos 30.1293.2005 y 29.1293.2005 de la Junta Directiva del Instituto, publicados en el Diario Oficial de la Federación el 31 de marzo de 2005; el Manual de Integración y Funcionamiento del Comité y Subcomité Técnico de Evaluación de Quejas Médicas del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado; el Manual de Integración y Funcionamiento del Comité y Subcomité Técnico de Dictaminación y de la Comisión Dictaminadora Delegacional de Solicitudes de Reembolso; y el Manual de Procedimientos para el Trámite de Solicitudes de Reembolso por Prestación de Servicios Médicos Extrainstitucionales, aprobados mediante los Acuerdos del Director General publicados en el Diario Oficial de la Federación el 11 de marzo de 2002, el 06 de abril de 1999 y el 25 de junio de 1999, respectivamente.
 
-TERCERO.- Las Quejas Médicas, las Solicitudes de Reembolso y los Recursos de Reconsideración que se encuentren en trámite a la fecha de entrada en vigor del Reglamento, serán turnados al Comité y deberán resolverse conforme a la normatividad vigente al momento de su presentación.
+> <small>(REFORMADO, D.O.F. 17 DE OCTUBRE DE 2011)</small>
+
+TERCERO.- Las Quejas Médicas, las Solicitudes de Reembolso y los Recursos de Reconsideración que se encuentren en trámite a la fecha de entrada en vigor del Reglamento, serán turnados al Comité o a la Comisión según corresponda y deberán resolverse conforme a la normatividad vigente al momento de su presentación.
 
 CUARTO.- El Instituto expedirá el Manual de Procedimientos para la Atención de Quejas Médicas y Solicitudes de Reembolso, en un término no mayor a ciento ochenta días a partir de la entrada en vigor del Reglamento."
 
@@ -664,3 +674,9 @@ Lo que me permito hacer de su conocimiento para los efectos legales procedentes.
 Atentamente
 
 México, D.F., a 23 de junio de 2011.- El Secretario de la Junta Directiva designado para esta sesión ordinaria, Antonio Guillermo Chávez Fares.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 17 DE OCTUBRE DE 2011.
+
+UNICO.- El presente acuerdo entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
