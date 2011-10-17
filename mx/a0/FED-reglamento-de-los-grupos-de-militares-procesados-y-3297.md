@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-los-grupos-de-militares-procesados-y-3297"
 country: "mx"
 rank: "reglamento"
 publication_date: "1996-06-06"
-last_updated: "1996-06-06"
+last_updated: "2011-10-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3297&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1996-06-03"
 
 REGLAMENTO DE LOS GRUPOS DE MILITARES PROCESADOS Y SENTENCIADOS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 17 DE OCTUBRE DE 2011.
 
 Reglamento publicado en el Diario Oficial de la Federación, el jueves 6 de junio de 1996.
 
@@ -33,9 +33,11 @@ REGLAMENTO DE LOS GRUPOS DE MILITARES PROCESADOS Y SENTENCIADOS
 
 ### CAPITULO PRIMERO. Disposiciones Generales
 
+> <small>(REFORMADO, D.O.F. 17 DE OCTUBRE DE 2011)</small>
+
 ###### ARTICULO 1o.
 
-El presente reglamento tiene por objeto regular la organización, funcionamiento y control de las actividades de los generales, jefes, oficiales y tropa del Ejército y Fuerza Aérea Mexicanos y sus equivalentes en la Armada, que se encuentren sujetos a proceso o cumpliendo sentencia, por algún delito del fuero militar, común o federal. Asimismo establece la forma de pago de haberes y demás percepciones a que tengan derecho, de conformidad con las disposiciones legales aplicables.
+El presente reglamento tiene por objeto regular la organización, funcionamiento y control de las actividades de los generales, jefes, oficiales y tropa del Ejército y Fuerza Aérea Mexicanos y sus equivalentes en la Armada, que se encuentren sujetos a proceso o cumpliendo sentencia, por algún delito del fuero militar, común o federal, para lograr su reinserción y cuando proceda, su reincorporación a las actividades militares. Asimismo, establece la forma de pago de haberes y demás percepciones a que tengan derecho, de conformidad con las disposiciones legales aplicables.
 
 ###### ARTICULO 2o.
 
@@ -43,9 +45,17 @@ Los grupos de procesados quedarán integrados por los militares a quienes se les
 
 Los grupos de sentenciados estarán integrados por el personal militar que habiendo estado sujeto a proceso se le dicte sentencia condenatoria que ponga término al juicio penal. Al ordenarse el alta en estos grupos, los mandos territoriales correspondientes dispondrán la baja del grupo de procesados.
 
+> <small>(ADICIONADO, D.O.F. 17 DE OCTUBRE DE 2011)</small>
+
+Los Militares que causen alta en dichos Grupos están obligados a realizar las actividades de adiestramiento; trabajo; capacitación para el mismo; salud; educación y deporte, tendentes a lograr su reinserción.
+
 ###### ARTICULO 3o.
 
 La Secretaría de la Defensa Nacional, por conducto de la Dirección General de Justicia Militar, organizará, dirigirá y supervisará a los grupos de militares procesados y sentenciados por delitos del fuero militar, común o federal. Estos grupos se establecerán en las prisiones militares y, donde no existan éstas, en los cuarteles generales de los mandos territoriales del Ejército.
+
+> <small>(ADICIONADO, D.O.F. 17 DE OCTUBRE DE 2011)</small>
+
+La Dirección General de Justicia Militar, supervisará que se cumplan los programas de actividades que se instrumenten para lograr la reinserción de los militares que se encuentren sujetos a proceso o sentenciados.
 
 ###### ARTICULO 4o.
 
@@ -60,6 +70,10 @@ El jefe de los grupos tendrá a su cargo realizar los trámites que procedan ant
 ###### ARTICULO 6o.
 
 En el lugar donde no exista prisión militar, el jefe de los grupos de procesados y sentenciados será el comandante del mando territorial en que se encuentren y, por consiguiente, el control de este personal se llevará en el cuartel general respectivo.
+
+> <small>(ADICIONADO, D.O.F. 17 DE OCTUBRE DE 2011)</small>
+
+El Comandante del Mando Territorial respectivo, deberá supervisar que se cumplan las actividades que se instrumenten para los militares que gocen de libertad y que se encuentren sujetos a proceso o sentenciados en los tribunales federales o del fuero común.
 
 ### CAPITULO SEGUNDO. Control de los Grupos de Procesados y Sentenciados
 
@@ -97,13 +111,17 @@ Los jefes de los grupos de procesados y sentenciados tendrán las obligaciones y
 
 I. Visitar a los procesados y sentenciados en las prisiones y, en su caso, a los encamados en hospitales, para recibir las quejas y solicitudes que los mismos expongan;
 
-II. Informar a la Dirección General de Justicia Militar acerca de las quejas y solicitudes de los grupos para que las atienda en el ámbito de sus facultades;
+> <small>(REFORMADA, D.O.F. 17 DE OCTUBRE DE 2011)</small>
+
+II. Informar a la Dirección General de Justicia Militar y a la Autoridad Jurisdiccional encargada de la Ejecución de Sentencias, acerca de las quejas y solicitudes del personal perteneciente a los grupos, para que las atienda en el ámbito de sus facultades;
 
 III. Revisar los documentos relacionados con el personal de los grupos;
 
 IV. Realizar movimientos de alta y baja del grupo; cuando el jefe del grupo sea el director de una prisión militar, sólo podrá realizar el movimiento de alta por orden del mando territorial del que dependa;
 
-V. Remitir en los primeros cinco días de cada mes a la Dirección General de Justicia Militar, un informe detallado de actividades, así como un estado general de alta y baja de los militares procesados y sentenciados;
+> <small>(REFORMADA, D.O.F. 17 DE OCTUBRE DE 2011)</small>
+
+V. Remitir en los primeros cinco días de cada mes a la Dirección General de Justicia Militar, y a la Autoridad Jurisdiccional encargada de la Ejecución de Sentencias para los efectos de la modificación y duración de la pena, un informe detallado de actividades; así como un estado general de alta y baja de los militares procesados y sentenciados;
 
 VI. Autorizar las nóminas, recibos y documentos necesarios para el pago de haberes a que tenga derecho el personal de procesados y sentenciados, de conformidad con los ordenamientos legales aplicables y disposiciones que emita la Secretaría de la Defensa Nacional;
 
@@ -119,17 +137,23 @@ XI. Las demás disposiciones que gire la Secretaría de la Defensa Nacional.
 
 ### CAPITULO CUARTO. Obligaciones de los Militares Procesados y Sentenciados que gocen de libertad
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 17 DE OCTUBRE DE 2011)</small>
+
 ###### ARTICULO 11.
 
-Son obligaciones de los militares procesados que gocen de libertad provisional:
+Son obligaciones de los militares procesados que gocen de libertad.
 
-I. Presentarse diariamente ante el jefe del grupo o el subalterno, con el objeto de pasar lista y recibir instrucción militar y el adiestramiento correspondientes. Los generales del Ejército y Fuerza Aérea o sus equivalentes en la Armada, quedan excluidos de estas obligaciones;
+> <small>(REFORMADA, D.O.F. 17 DE OCTUBRE DE 2011)</small>
+
+I. Presentarse diariamente ante el jefe del grupo o subalterno, con objeto de pasar lista y recibir instrucción militar y el adiestramiento correspondientes. Los Generales del Ejército y Fuerza Aérea o sus equivalentes en la Armada y el personal militar en situación de retiro, quedan excluidos de estas obligaciones;
 
 II. Presentarse ante los Tribunales cuando para ello sean requeridos;
 
 III. Estar presentes en las visitas de cárcel del magistrado visitador, jefe del cuerpo de defensores y jueces militares;
 
-IV. Los militares procesados en el fuero común o federal, que gocen del beneficio de la libertad provisional, tendrán las obligaciones señaladas en las fracciones I y II, y
+> <small>(REFORMADA, D.O.F. 17 DE OCTUBRE DE 2011)</small>
+
+IV. Los militares procesados en el fuero común o federal, que gocen de libertad tendrán las obligaciones señaladas en las fracciones I y II, así como la de cumplir con los programas de actividades que se instrumenten para su reincorporación a las actividades militares, y
 
 V. Las demás que le señalen este reglamento y otras disposiciones legales aplicables.
 
@@ -137,39 +161,53 @@ V. Las demás que le señalen este reglamento y otras disposiciones legales apli
 
 Los militares sentenciados que gocen de libertad por haber interpuesto el juicio de amparo contra la resolución definitiva que los condenó, tienen el deber de presentarse ante el jefe del grupo o el subalterno, con el objeto de pasar lista y recibir instrucción militar y el adiestramiento correspondientes. Los generales del Ejército y Fuerza Aérea o sus equivalentes en la Armada, quedan excluidos de estas obligaciones.
 
-Los militares que se encuentren en el supuesto anterior y no perciban haberes, quedan exentos de asistir a instrucción militar y adiestramiento y se presentarán cada quince días.
+> <small>(REFORMADO, D.O.F. 17 DE OCTUBRE DE 2011)</small>
+
+El personal militar en situación de retiro y los que se encuentren en el supuesto anterior y no perciban haberes, quedan exentos de asistir a instrucción militar y adiestramiento y se presentarán cada quince días.
 
 ### CAPITULO QUINTO. De las Revistas
 
+> <small>(REFORMADO, D.O.F. 17 DE OCTUBRE DE 2011)</small>
+
 ###### ARTICULO 13.
 
-Para verificar la presencia de los procesados y sentenciados se elaborará la revista de inspección administrativa mensual. Esta última servirá además para justificar los gastos de alimentación que se causen en las prisiones militares.
+Para verificar la presencia de los procesados y sentenciados se elaborará la revista administrativa mensual. Esta última servirá para justificar los gastos de alimentación que se causen en las prisiones militares.
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 17 DE OCTUBRE DE 2011)</small>
 
 ###### ARTICULO 14.
 
-Los militares procesados y sentenciados, que gocen de libertad, deberán presentarse al acto de revista de inspección administrativa mensual formulada en el grupo al que pertenezcan.
+Los militares procesados y sentenciados que gocen de libertad, deberán presentarse al acto de revista administrativa mensual formulada en el grupo al que pertenezcan.
 
 Los militares procesados y sentenciados que se encuentren internos, serán presentados en la revista por el jefe del grupo al que pertenezcan.
 
+> <small>(REFORMADO, D.O.F. 17 DE OCTUBRE DE 2011)</small>
+
 ###### ARTICULO 15.
 
-Los generales o sus equivalentes en la Armada que se encuentren procesados o sentenciados, que gocen de libertad, no pasarán la revista de inspección administrativa mensual. Esta la justificarán, dando aviso por escrito de su residencia al jefe del grupo al que pertenezcan, cinco días antes del señalado para la revista. Los que se encuentren internos pasarán su revista en el lugar de su reclusión con arreglo al artículo 14 de este reglamento.
+Los generales o sus equivalentes en la Armada que se encuentren procesados o sentenciados, que gocen de libertad, no pasarán la revista administrativa mensual. Esta la justificarán, dando aviso por escrito de su residencia al jefe del grupo al que pertenezcan, cinco días antes del señalado para la revista. Los que se encuentren internos pasarán su revista en el lugar de su reclusión con arreglo al Artículo 14 de este reglamento.
+
+> <small>(REFORMADO, D.O.F. 17 DE OCTUBRE DE 2011)</small>
 
 ###### ARTICULO 16.
 
-En la revista de inspección administrativa mensual, los jefes de grupo anotarán como ausentes con justificación a los procesados y sentenciados que por enfermedad u otro motivo no asistan al acto.
+En la revista administrativa mensual, los jefes de grupo anotarán como ausentes con justificación a los procesados y sentenciados que por enfermedad u otro motivo no asistan al acto.
+
+> <small>(REFORMADO, D.O.F. 17 DE OCTUBRE DE 2011)</small>
 
 ###### ARTICULO 17.
 
-A los militares procesados que gocen del beneficio de la libertad provisional, y a los sentenciados que gocen de libertad por haber promovido amparo, que injustificadamente falten a la revista de inspección administrativa mensual o a pasar lista por más de 3 días consecutivos, se les suspenderá el pago de haberes a partir de la fecha en que comenzaron a faltar. Si además se ordena su baja del Ejército y Fuerza Aérea, la causarán también del grupo de procesados a que pertenezcan. El personal de la Armada de México que se encuentre en los supuestos mencionados, la causará, al haberse girado las órdenes de baja en los términos que dispone su Ley Orgánica; de esta situación se le dará cuenta al juez que conoce la causa, para los efectos procedentes.
+A los militares procesados que gocen del beneficio de la libertad y a los sentenciados que gocen de libertad por haber promovido amparo, que injustificadamente falten a la revista administrativa mensual o a pasar lista por más de tres días consecutivos, se les suspenderá el pago de haberes a partir de la fecha en que comenzaron a faltar. Si además se ordena su baja del Ejército y Fuerza Aérea, la causarán también del grupo de procesados a que pertenezcan. El personal de la Armada de México que se encuentre en los supuestos mencionados, la causará, al haberse girado las órdenes de baja en los términos que dispone su Ley Orgánica; de esta situación se le dará cuenta al Juez que conoce de la causa, para los efectos procedentes.
 
 ###### ARTICULO 18.
 
 En los casos del artículo anterior en que no se haya girado orden de baja, la reanudación del pago de haberes, tendrá lugar a partir de su reincorporación, cuando los procesados o sentenciados justifiquen ante la Dirección General de Justicia Militar por conducto del jefe del grupo al que pertenezcan, los motivos que tuvieron para faltar a sus listas o revistas.
 
+> <small>(REFORMADO, D.O.F. 17 DE OCTUBRE DE 2011)</small>
+
 ###### ARTICULO 19.
 
-Los jefes de grupos de procesados y sentenciados, formularán y remitirán mensualmente los legajos de revista de inspección administrativa mensual que correspondan conforme a las directivas giradas por la Secretaría de la Defensa Nacional.
+Los jefes de los grupos de procesados y sentenciados, formularán y remitirán mensualmente los legajos de revista administrativa mensual que correspondan conforme a las directivas giradas por la Secretaría de la Defensa Nacional.
 
 ### CAPITULO SEXTO. Del Pago de Haberes y demás Percepciones
 
@@ -177,15 +215,21 @@ Los jefes de grupos de procesados y sentenciados, formularán y remitirán mensu
 
 Los generales, jefes, oficiales y tropa del Ejército y Fuerza Aérea o sus equivalentes en la Armada en el activo, que se les decrete auto de formal prisión o de sujeción a proceso en el fuero militar, común o federal, tendrán derecho a percibir sus haberes conforme a las siguientes reglas:
 
-I. Se les abonará durante el tiempo que dure su proceso el 50% de sus haberes, a excepción de los procesados por los delitos de deserción, fraude o malversación, quienes percibirán sólo el 33.33% de los mismos;
+> <small>(REFORMADA, D.O.F. 17 DE OCTUBRE DE 2011)</small>
+
+I. Se les abonará durante el tiempo que dure su proceso el 50% de sus haberes;
 
 II. El personal procesado no tendrá derecho a las asignaciones adicionales que, en su caso, hubieren estado percibiendo antes de serle dictado el auto de formal prisión o de sujeción a proceso;
 
-III. La parte de haberes a que se refiere la fracción I anterior, se percibirá por los procesados desde la fecha del auto de formal prisión o de sujeción a proceso, hasta la de aquélla en que se dicte la sentencia definitiva;
+> <small>(REFORMADA, D.O.F. 17 DE OCTUBRE DE 2011)</small>
 
-IV. Los militares que quedan en absoluta libertad por falta de elementos, desvanecimiento de datos o sentencia firme absolutoria, tendrán derecho al reintegro del porcentaje de haberes no percibidos durante el proceso, a la asignación íntegra de técnico y de perseverancia, si las tienen concedidas, y
+III. La parte de haberes a que se refiere la fracción I anterior, se percibirá por los procesados desde la fecha del auto de formal prisión o de sujeción a proceso, hasta la de aquélla en que se dicte la sentencia definitiva, y
 
-V. El reintegro a que se refiere la fracción anterior, queda a juicio de las Secretarías de la Defensa Nacional o de Marina, al calificar que no sufrió demérito la reputación militar o civil de los procesados y sentenciados.
+> <small>(REFORMADA, D.O.F. 17 DE OCTUBRE DE 2011)</small>
+
+IV. Los militares que queden en absoluta libertad por falta de elementos, desvanecimiento de datos o sentencia firme absolutoria, tendrán derecho al reintegro del porcentaje de haberes no percibidos durante el proceso, a la asignación íntegra de técnico y de perseverancia, si la tiene concedidas, y demás prestaciones económicas que percibía antes de ser procesado.
+
+V.- (DEROGADA, D.O.F. 17 DE OCTUBRE DE 2011)
 
 ###### ARTICULO 21.
 
@@ -247,9 +291,11 @@ La comprobación de alta y baja de los procesados y sentenciados, se hará con l
 
 Si la Secretaría de la Defensa Nacional, por conducto de la Dirección General de Justicia Militar dispone que algún procesado pase a lugar distinto de aquél en que se le procesa, determinará las fechas del movimiento de alta y baja del grupo de procesados, girando las órdenes que correspondan. Iguales circunstancias deberán observarse cuando se trate de cambio de lugar de sentenciados, para que continúen cumpliendo su sentencia.
 
+> <small>(REFORMADO, D.O.F. 17 DE OCTUBRE DE 2011)</small>
+
 ###### ARTICULO 30.
 
-Cuando el procesado o sentenciado fuere dado de baja de las Fuerzas Armadas, la Comandancia de la Fuerza Aérea y las Direcciones Generales de las Armas y Servicios de la Secretaría de la Defensa Nacional, y sus equivalentes en la Secretaría de Marina, comunicarán esta situación a la Dirección General de Justicia Militar, con copia para el juez instructor y el jefe del grupo al que pertenezca, para efectos de control.
+Cuando el procesado o sentenciado fuere dado de baja de las Fuerzas Armadas, la Comandancia de la Fuerza Aérea y las Direcciones Generales de las Armas y los Servicios de la Secretaría de la Defensa Nacional y sus equivalentes en la Secretaría de Marina, comunicarán esta situación a la Dirección General de Justicia Militar, con copia para el juez instructor y a la Autoridad Jurisdiccional encargada de la Ejecución de Sentencias, así como para el jefe del grupo al que pertenezca, para efectos de control.
 
 ## TRANSITORIOS
 
@@ -258,3 +304,13 @@ PRIMERO.- El presente reglamento entrará en vigor al día siguiente de su publi
 SEGUNDO.- Se abroga el reglamento a que deben sujetarse los grupos de militares procesados o sentenciados y respecto del pago de haberes y estancias a los militares, marinos, aviadores y asimilados a esas fuerzas que se encuentren procesados, publicado en el Diario Oficial de la Federación de fecha 6 de enero de 1923, y se derogan todas las disposiciones que se opongan al presente ordenamiento.
 
 Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los tres días del mes de junio de mil novecientos noventa y seis.- Ernesto Zedillo Ponce de León.- Rúbrica.- El Secretario de la Defensa Nacional, Enrique Cervantes Aguirre.- Rúbrica.- El Secretario de Marina, José Ramón Lorenzo Franco.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+D.O.F. 17 DE OCTUBRE DE 2011.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Se derogan todas las disposiciones reglamentarias y administrativas que se opongan a este Decreto.
+
+TERCERO.- Las erogaciones que, en su caso, se generen con motivo de la entrada en vigor del presente decreto se realizarán mediante movimientos compensados, por lo que las Secretarías de la Defensa Nacional y de Marina, respectivamente, deben sujetarse al presupuesto de Egresos de la Federación para el ejercicio fiscal correspondiente y no incrementar su presupuesto regularizable.
