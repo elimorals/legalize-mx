@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-ingresos-del-estado-de-aguascalientes-para-el-77781"
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2010-12-31"
-last_updated: "2010-12-31"
+last_updated: "2011-10-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77781&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "AGU"
 ---
 # LEY DE INGRESOS DEL ESTADO DE AGUASCALIENTES PARA EL EJERCICIO FISCAL DEL AÑO 2011
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 31 DE OCTUBRE DE 2011 EN EL P.O. DEL ESTADO DE AGUASCALIENTES, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 LEY DE INGRESOS DEL ESTADO DE AGUASCALIENTES PARA EL EJERCICIO FISCAL DEL AÑO 2011
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE OCTUBRE DE 2011.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Gobierno del Estado de Aguascalientes, el viernes 31 de diciembre de 2010.
 
@@ -50,6 +52,8 @@ LEY DE INGRESOS DEL ESTADO DE AGUASCALIENTES PARA EL EJERCICIO FISCAL DEL AÑO 2
 La Hacienda Pública del Estado, percibirá durante el Ejercicio Fiscal 2011, de acuerdo con los ordenamientos fiscales, los siguientes ingresos, por los conceptos y las cantidades estimadas en pesos que se indican a continuación:
 
 > <small>N. DE E. VEASE TABLA EN EL P.O. DE 31 DE DICIEMBRE DE 2010, PAGINAS DE LA 2 A LA 3.</small>
+
+> <small>N. DE E. VEASE REFORMAS A LA TABLA, P.O. 17 DE OCTUBRE DE 2011, PAGINA 4.</small>
 
 ## TÍTULO SEGUNDO. DE LOS DERECHOS
 
@@ -316,3 +320,15 @@ Carlos Lozano de la Torre.
 EL SECRETARIO GENERAL DE GOBIERNO,
 
 Lic. Miguel Romo Medina.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 17 DE OCTUBRE DE 2011.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto iniciará su vigencia al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Los fideicomisos públicos que formen parte de la Administración Pública Descentralizada y que hayan sido constituidos en fecha anterior a la entrada en vigor del presente Decreto, deberán adecuar sus contratos y/o Decretos de creación a las reformas y adiciones a la Ley Orgánica de la Administración Pública, a la Ley para el Control de la Entidades Paraestatales, a la Ley de Presupuesto, Contabilidad y Gasto Público y a la Ley de Hacienda, todas ellas del Estado de Aguascalientes, en un término no mayor a 90 días contados a partir de la fecha en que entre en vigor el presente Decreto.
