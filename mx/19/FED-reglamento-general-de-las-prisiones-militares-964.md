@@ -4,7 +4,7 @@ identifier: "FED-reglamento-general-de-las-prisiones-militares-964"
 country: "mx"
 rank: "reglamento"
 publication_date: "1994-11-22"
-last_updated: "1994-11-22"
+last_updated: "2011-10-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=964&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1994-11-18"
 
 REGLAMENTO GENERAL DE LAS PRISIONES MILITARES
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 17 DE OCTUBRE DE 2011.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el martes 22 de noviembre de 1994.
 
@@ -39,9 +39,11 @@ REGLAMENTO GENERAL DE LAS PRISIONES MILITARES
 
 El presente reglamento regulará la organización, funcionamiento y actividades de las prisiones militares.
 
+> <small>(REFORMADO, D.O.F. 17 DE OCTUBRE DE 2011)</small>
+
 ###### ARTICULO 2o.
 
-Las prisiones militares son instalaciones que tienen por objeto el control y la custodia de militares arrestados, detenidos y procesados; así como la readaptación del personal sentenciado, bajo un régimen de adiestramiento, disciplina, moral, trabajo y educación.
+Las prisiones militares son instalaciones que tienen por objeto el control y la custodia de militares arrestados, detenidos y procesados; así como la reinserción del personal sentenciado, y cuando proceda, su reincorporación a las actividades militares, bajo un régimen de adiestramiento, disciplina, moral, trabajo, capacitación para el mismo, salud, educación y deporte.
 
 ###### ARTICULO 3o.
 
@@ -65,9 +67,13 @@ Las prisiones militares tienen como objetivos:
 
 I. Controlar y custodiar al personal militar, privado o restringido de su libertad;
 
-II. Concientizar al personal sentenciado a fin de lograr su readaptación;
+> <small>(REFORMADA, D.O.F. 17 DE OCTUBRE DE 2011)</small>
 
-III. Motivar al personal interno a participar en los programas que se desarrollarán en las mismas;
+II. Concientizar al personal sentenciado a fin de lograr su reinserción;
+
+> <small>(REFORMADA, D.O.F. 17 DE OCTUBRE DE 2011)</small>
+
+III. Motivar al personal interno a participar en los programas de adiestramiento, trabajo, capacitación para el mismo, salud, educación y deporte que se desarrollarán en las mismas;
 
 IV. Conservar la capacidad física y profesional de los militares procesados y sentenciados para su reincorporación a sus actividades militares cuando corresponda y
 
@@ -105,7 +111,9 @@ A. Subsección de Amparos y Procesos y
 
 B. Subsección de Asesoría.
 
-IV. Sección de Readaptación:
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 17 DE OCTUBRE DE 2011)</small>
+
+IV. Sección de Reinserción:
 
 A. Jefatura;
 
@@ -115,9 +123,21 @@ C. Subsección de Psiquiatría;
 
 D. Subsección de Trabajo Social;
 
-E. Subsección de Educación y
+> <small>(REFORMADO, D.O.F. 17 DE OCTUBRE DE 2011)</small>
 
-F. Subsección de Terapia Ocupacional.
+E. Subsección de Educación;
+
+> <small>(REFORMADO, D.O.F. 17 DE OCTUBRE DE 2011)</small>
+
+F. Subsección de Trabajo y Capacitación para el mismo;
+
+> <small>(ADICIONADO, D.O.F. 17 DE OCTUBRE DE 2011)</small>
+
+G. Subsección de Salud, y
+
+> <small>(ADICIONADO, D.O.F. 17 DE OCTUBRE DE 2011)</small>
+
+H. Subsección de Deporte.
 
 V. Ayudantía General:
 
@@ -159,9 +179,13 @@ II. Integrantes:
 
 A. Subdirector;
 
-B. Jefe de la Sección de Readaptación;
+> <small>(REFORMADO, D.O.F. 17 DE OCTUBRE DE 2011)</small>
 
-C. Personal Especializado de la Sección de Readaptación y
+B. Jefe de la Sección de Reinserción;
+
+> <small>(REFORMADO, D.O.F. 17 DE OCTUBRE DE 2011)</small>
+
+C. Personal Especializado de Reinserción, y
 
 D. Jefe de la Sección Jurídica.
 
@@ -187,15 +211,21 @@ III. Implementar los métodos de control administrativo relativos al personal qu
 
 IV. Ordenar al Escalón Sanitario correspondiente, haga un reconocimiento médico al personal citado en la fracción anterior y expida el certificado respectivo;
 
-V. Conceder audiencias a los internos, a efecto de atender las peticiones y quejas, subsanándolas de acuerdo a sus facultades e informando a la superioridad las que no pueda resolver, para que ésta disponga lo conducente;
+> <small>(REFORMADA, D.O.F. 17 DE OCTUBRE DE 2011)</small>
+
+V. Conceder audiencias a los internos, a efecto de atender las peticiones y quejas, subsanándolas de acuerdo a sus facultades, turnando a la Autoridad Jurisdiccional encargada de Ejecución de Sentencias o a la autoridad competente las que no pueda resolver;
 
 VI. Dictar las medidas pertinentes para mantener la seguridad y disciplina del personal interno a su cargo; similares disposiciones se dictarán para el personal de la planta. Por lo que hace a vehículos y bultos, se ejercerá estricta vigilancia y supervisión;
 
-VII. Fomentar y supervisar el respeto a los derechos humanos y a la dignidad de la persona dentro de la instalación;
+> <small>(REFORMADA, D.O.F. 17 DE OCTUBRE DE 2011)</small>
+
+VII. En coordinación con la Autoridad Jurisdiccional encargada de Ejecución de Sentencias, fomentar y supervisar el respeto a los derechos humanos y a la dignidad de la persona dentro de la instalación;
 
 VIII. Establecer el horario de actividades a que se sujetará el personal interno, previa aprobación de la superioridad;
 
-IX. Dar parte a la Comandancia de la Región, Zona Militar o Guarnición que corresponda, a la Dirección General de Justicia Militar, a la Comandancia de la Fuerza Aérea Mexicana y direcciones de las armas y servicios respectivos, o bien a la Comandancia General de la Armada en su caso, quince días antes de la fecha en que los sentenciados terminen de cumplir sus condenas, para efecto de su situación o destino; igual parte deberá dar cuando el órgano jurisdiccional le comunique que el personal de sueltos y sentenciados deba quedar en libertad por cualquier causa legal;
+> <small>(REFORMADA, D.O.F. 17 DE OCTUBRE DE 2011)</small>
+
+IX. Dar parte a la Comandancia de la Región, Zona Militar o Guarnición que corresponda, a la Dirección General de Justicia Militar, a la Comandancia de la Fuerza Aérea Mexicana y Direcciones de las Armas y Servicios respectivos, o bien, a la Secretaría de Marina en su caso, quince días antes de la fecha en que los sentenciados terminen de cumplir sus condenas, para efecto de su situación o destino; igual parte deberá dar cuando el órgano jurisdiccional le comunique que el personal perteneciente al grupo de militares procesados y sentenciados deba quedar en libertad por cualquier causa legal;
 
 X. Informar a la autoridad correspondiente, cuando no reciba copia autorizada del auto de formal prisión de un detenido, en términos de lo dispuesto por el artículo 19 Constitucional;
 
@@ -233,7 +263,9 @@ II. Supervisar que se cumplan las disposiciones que en actos de servicio, dicte 
 
 III. Revisar y someter a la consideración del Director los programas de instrucción de la prisión militar;
 
-IV. Supervisar que se imparta la instrucción militar, escolar y el trabajo en los talleres, al personal interno y al que goce de libertad provisional bajo caución o protesta, según corresponda, de acuerdo con las directivas y programas ordenados o autorizados por la Secretaría de la Defensa Nacional;
+> <small>(REFORMADA, D.O.F. 17 DE OCTUBRE DE 2011)</small>
+
+IV. Supervisar que se imparta el adiestramiento militar, las actividades tendentes a la reinserción, como son el trabajo; capacitación para el mismo; educativas; deportivas y de conservación de la salud, al personal interno y al que goce de libertad, de acuerdo con las directivas y programas ordenados o autorizados por la Secretaría de la Defensa Nacional;
 
 V. Coordinar las actividades de las secciones, a fin de que mantengan el desarrollo armónico en el cumplimiento de los objetivos establecidos para las prisiones militares;
 
@@ -259,7 +291,9 @@ Son atribuciones y responsabilidades del Jefe de la Sección Jurídica las sigui
 
 I. Acordar con el director de la prisión militar, el despacho de los asuntos a su cargo y responsabilidad;
 
-II. Recabar, organizar y proporcionar con autorización del director, la información y cooperación técnica que le sea requerida por las dependencias militares, para el trámite de: la acción penal, de los indultos, de los traslados de prisión, de la prórroga de jurisdicción, de la libertad provisional bajo caución, de cumplimiento de pena y los demás trámites jurídicos relativos a su función;
+> <small>(REFORMADA, D.O.F. 17 DE OCTUBRE DE 2011)</small>
+
+II. Recabar, organizar y proporcionar con autorización del Director, la información y cooperación técnica que le sea requerida por las dependencias militares, para el trámite de: retirar la acción penal, indultos, traslados de prisión y de establecimientos penitenciarios dependientes de los fueros común y federal, libertad en cualquiera de las modalidades, de cumplimiento de la pena y demás trámites jurídicos relativos a su función;
 
 III. Llevar el control y seguimiento de los cambios de situación jurídica del personal sujeto a procedimiento penal;
 
@@ -295,19 +329,27 @@ XI. Asesorar al director de la prisión militar y a los demás órganos, en asun
 
 XII. Las demás que señalen las leyes y reglamentos militares en sus partes aplicables de conformidad a su jerarquía y cargo y las que le sean asignadas por la superioridad.
 
-### CAPITULO IV. De la Sección de Readaptación
+> <small>(REFORMADA SU DENOMINACION, D.O.F. 17 DE OCTUBRE DE 2011)</small>
+
+### CAPITULO IV. De la Sección de Reinserción
+
+> <small>(REFORMADO, D.O.F. 17 DE OCTUBRE DE 2011)</small>
 
 ###### ARTICULO 17.
 
-La Sección de Readaptación es la encargada de formular y desarrollar los programas para el proceso de readaptación necesario a cada individuo, para lograr su enmienda y prevenir que infrinja nuevamente la disciplina militar, estará a cargo de un Jefe u Oficial Criminólogo o personal con especialidad en esa rama, a quien se denominará Jefe de la Sección de Readaptación.
+La Sección de Reinserción es la encargada de formular y desarrollar los programas para el proceso de reinserción del personal de sentenciados cuando proceda su reincorporación a las actividades militares; para prevenir que no infrinjan nuevamente la disciplina militar, ni a delinquir de forma alguna, estará a cargo de un Jefe u Oficial criminólogo, a quien se denominará Jefe de la Sección de Reinserción.
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 17 DE OCTUBRE DE 2011)</small>
 
 ###### ARTICULO 18.
 
-Son atribuciones y responsabilidades del Jefe de la Sección de Readaptación las siguientes:
+Son atribuciones y responsabilidades del Jefe de la Sección de Reinserción las siguientes:
 
 I. Coordinar los trabajos de la sección;
 
-II. Supervisar la elaboración de los programas para lograr la integración del personal interno, a las diferentes actividades que se realicen dentro de la prisión militar; así como vigilar la elaboración de aquellos dirigidos a la readaptación a la vida militar y civil del personal procesado y sentenciado que recupere su libertad, atendiendo en todo caso a los lineamientos que emita el Consejo Técnico Interdisciplinario;
+> <small>(REFORMADA, D.O.F. 17 DE OCTUBRE DE 2011)</small>
+
+II. Supervisar la elaboración de los programas para lograr la integración del personal interno, a las diferentes actividades que se realicen dentro de la prisión militar; así como vigilar la elaboración de aquellos dirigidos a la reinserción a las actividades militares y civiles del personal procesado y sentenciado que recupere su libertad, atendiendo en todo caso a los dictámenes que emita el Consejo Técnico Interdisciplinario.
 
 III. Supervisar las valoraciones iniciales en forma multidisciplinaria del personal indiciado, procesado y sentenciado, a fin de conocer sus condiciones sociales, educativas y psicológicas, así como su capacidad física y laboral;
 
@@ -317,7 +359,9 @@ V. Implementar las acciones orientadas hacia la integración y preservación de 
 
 VI. Llevar a cabo acciones con instituciones públicas y privadas, para realizar actividades recreativas, educativas, culturales, sociales y de salud, para el personal interno previa autorización de la superioridad;
 
-VII. Informar al Director de la Prisión Militar, del grado de readaptación social de los internos, proponiendo las medidas tendientes a incrementarla;
+> <small>(REFORMADA, D.O.F. 17 DE OCTUBRE DE 2011)</small>
+
+VII. Informar al Director de la Prisión Militar, el grado de reinserción de los internos, proponiendo las medidas tendentes a incrementarla;
 
 VIII. Coordinar sus actividades con los demás órganos de la prisión militar y
 
@@ -328,6 +372,8 @@ IX. Las demás que señalen las leyes y reglamentos militares en sus partes apli
 ###### ARTICULO 19.
 
 La Ayudantía General de la prisión militar, será la encargada de manejar al personal y satisfacer sus necesidades de vida, así como conservar el material y las instalaciones, estará a cargo de un Jefe u Oficial de arma, a quien se denominará Ayudante General.
+
+> <small>(REFORMADO PRIMER PARRAFO [N. DE E. REPUBLICADO], D.O.F. 17 DE OCTUBRE DE 2011)</small>
 
 ###### ARTICULO 20.
 
@@ -349,7 +395,9 @@ VII. Supervisar y controlar el funcionamiento de los talleres de la prisión mil
 
 VIII. Supervisar las actividades del destacamento de seguridad y vigilancia;
 
-IX. Fungir como controlador de bienes inmuebles de la prisión militar;
+> <small>(REFORMADA, D.O.F. 17 DE OCTUBRE DE 2011)</small>
+
+IX. Fungir como controlador de bienes muebles de la prisión militar;
 
 X. Controlar el depósito de vestuario y equipo;
 
@@ -377,7 +425,9 @@ IV. Elaborar y tramitar la documentación contable de la prisión militar;
 
 V. Coordinar y supervisar la recepción, registro, clasificación, distribución y archivo de la documentación;
 
-VI. Elaborar las listas de Revista de Inspección Administrativa Mensual y la documentación complementaria,
+> <small>(REFORMADA, D.O.F. 17 DE OCTUBRE DE 2011)</small>
+
+VI. Elaborar las listas de la Revista Administrativa Mensual y la documentación complementaria;
 
 VII. Controlar el archivo general de la prisión militar;
 
@@ -431,9 +481,11 @@ V. Celebrar sesiones ordinarias, por lo menos dos veces al mes y extraordinarias
 
 VI. Las decisiones que emita deberán tomarse por unanimidad.
 
+> <small>(REFORMADO, D.O.F. 17 DE OCTUBRE DE 2011)</small>
+
 ###### ARTICULO 28.
 
-El secretario del consejo será el responsable de elaborar y presentar todos aquellos documentos que se acuerden en las sesiones y formulará el orden del día y el acta correspondiente, la cual contendrá los dictámenes y recomendaciones; igualmente enviará copia de la misma a la Dirección General de Justicia Militar y agregará al expediente del interno según corresponda, copia de los dictámenes y recomendaciones.
+El secretario del Consejo será el responsable de elaborar todos aquellos documentos que se acuerden en las sesiones y formulará la orden del día y el acta correspondiente, la cual contendrá los dictámenes y recomendaciones; igualmente enviará copia de la misma a la Autoridad Jurisdiccional encargada de Ejecución de Sentencias en los casos de su competencia, y a la Dirección General de Justicia Militar y agregará al expediente del interno según corresponda, copia de los dictámenes y recomendaciones.
 
 ## TITULO CUARTO. Del Personal
 
@@ -451,7 +503,9 @@ B. Especialista:
 
 a. Personal de la Sección Jurídica y
 
-b. Personal Técnico de al (sic) Sección de Readaptación.
+> <small>(REFORMADO, D.O.F. 17 DE OCTUBRE DE 2011)</small>
+
+b. Personal técnico de la Sección de Reinserción.
 
 C. Administrativo:
 
@@ -527,13 +581,17 @@ Los detenidos deberán estar separados de los procesados y sentenciados.
 
 #### SECCION TERCERA. PROCESADOS
 
+> <small>(REFORMADO, D.O.F. 17 DE OCTUBRE DE 2011)</small>
+
 ###### ARTICULO 38.
 
-El grupo de procesados estará integrado por los militares a los cuales se les haya dictado auto de formal prisión o de sujeción a proceso y no se les haya pronunciado sentencia; y se sujetarán a lo previsto en la Ordenanza General del Ejército.
+El grupo de procesados estará integrado por los militares a los cuales se les haya dictado auto de formal prisión o de sujeción a proceso y no se les haya pronunciado sentencia; y se sujetarán a lo previsto en el Reglamento de los Grupos de Militares, Procesados y Sentenciados, así como demás ordenamientos legales vigentes.
+
+> <small>(REFORMADO, D.O.F. 17 DE OCTUBRE DE 2011)</small>
 
 ###### ARTICULO 39.
 
-El militar procesado por delitos del fuero de guerra, del fuero común o federal, formará parte de la unidad de procesados y para efectos de control en el grupo de sueltos, su alta se ordenará con la fecha en la cual se le haya dictado el auto de formal prisión o de sujeción a proceso, y la baja, con la resolución judicial ejecutoriada que haga cesar el carácter de procesado.
+El militar procesado por delitos del fuero de guerra, del fuero común o federal, formará parte de la unidad de procesados, para efectos de control en el grupo de procesados o sentenciados correspondiente; su alta se ordenará con la fecha en la cual se haya dictado el auto de formal prisión o de sujeción a proceso y la baja, con la resolución ejecutoriada que haga cesar el carácter de procesado.
 
 ###### ARTICULO 40.
 
@@ -557,9 +615,11 @@ El personal procesado por delitos del fuero común o federal, tendrá los mismos
 
 Los sentenciados estarán integrados por el personal que habiendo estado sujeto a proceso se les dicta sentencia que pone término a su juicio.
 
+> <small>(REFORMADO, D.O.F. 17 DE OCTUBRE DE 2011)</small>
+
 ###### ARTICULO 45.
 
-El personal sentenciado deberá estar completamente separado del resto del personal y sus actividades estarán sujetas a los programas que se impartan en la prisión militar.
+El personal sentenciado deberá estar completamente separado del resto del personal y sus actividades estarán sujetas a los programas que se impartan en la prisión militar tendentes a la reinserción.
 
 ###### ARTICULO 46.
 
@@ -579,9 +639,11 @@ El personal sentenciado por delitos del fuero común o federal, tendrá los mism
 
 El personal de libres tendrá conforme a su situación jurídica los derechos y obligaciones que establezca la legislación vigente.
 
+> <small>(REFORMADO, D.O.F. 17 DE OCTUBRE DE 2011)</small>
+
 ###### ARTICULO 50.
 
-El grupo de libres de las prisiones militares contará para su control disciplinario con un Jefe u Oficial del mismo grupo, el cual será nombrado por el Director.
+El grupo de procesados o sentenciados, contará para su control disciplinario con un jefe u oficial del mismo grupo, el cual será nombrado por el Director.
 
 #### SECCION PRIMERA. PERSONAL EN LIBERTAD PROVISIONAL BAJO CAUCION O PROTESTA
 
@@ -611,9 +673,11 @@ La misión principal del destacamento de seguridad es proporcionar seguridad a l
 
 El personal de servicio de seguridad evitará todo tipo de contacto con los internos de la prisión militar.
 
+> <small>(REFORMADO, D.O.F. 17 DE OCTUBRE DE 2011)</small>
+
 ###### ARTICULO 56.
 
-Las actividades y el efectivo del personal que desempeñe el Servicio de Seguridad, funcionará conforme a lo estipulado en el Reglamento para el Servicio Interior de los Cuerpos de Tropa en su parte aplicable.
+Las actividades y el efectivo del personal que desempeñe el Servicio de Seguridad, funcionará conforme a lo estipulado en el Reglamento para el Servicio Interior de las Unidades, Dependencias e Instalaciones del Ejército y Fuerza Aérea Mexicanos.
 
 ###### ARTICULO 57.
 
@@ -677,13 +741,17 @@ III. Suspensión total o parcial de estímulos y
 
 IV. Cambio de dormitorio.
 
+> <small>(REFORMADO, D.O.F. 17 DE OCTUBRE DE 2011)</small>
+
 ###### ARTICULO 68.
 
-La amonestación se impondrá siguiendo los lineamientos que fije el Reglamento General de Deberes Militares.
+La amonestación se impondrá siguiendo los lineamientos que fijen la Ley de Disciplina del Ejército y Fuerza Aérea Mexicanos y el Reglamento General de Deberes Militares.
+
+> <small>(REFORMADO, D.O.F. 17 DE OCTUBRE DE 2011)</small>
 
 ###### ARTICULO 69.
 
-El arresto se impondrá al personal interno y libre, siguiendo los lineamientos que fije el Reglamento General de Deberes Militares.
+El arresto se impondrá al personal interno y libre, siguiendo los lineamientos que fijen la Ley de Disciplina del Ejército y Fuerza Aérea Mexicanos y el Reglamento General de Deberes Militares.
 
 ###### ARTICULO 70.
 
@@ -735,9 +803,11 @@ El personal interno, para efecto de mantener la disciplina, será considerado de
 
 Queda estrictamente prohibido todo acto que degrade la dignidad humana de los internos.
 
+> <small>(REFORMADO, D.O.F. 17 DE OCTUBRE DE 2011)</small>
+
 ###### ARTICULO 76.
 
-Para estimular la buena conducta y readaptación de los internos, la dirección de la prisión militar comunicará los hechos meritorios al Juez que conozca la causa, antes de que sea pronunciada la sentencia definitiva, en caso de ser solicitada la libertad preparatoria, también se comunicarán dichos actos al Supremo Tribunal Militar.
+Para estimular la buena conducta y reinserción de los internos, la dirección de la prisión militar comunicará los hechos meritorios al Juez que conozca de la causa antes de que sea pronunciada la sentencia definitiva, en caso de ser solicitada la libertad preparatoria, también se comunicarán dichos actos a la Autoridad Jurisdiccional encargada de Ejecución de Sentencias.
 
 ### CAPITULO II. Visitas
 
@@ -757,9 +827,11 @@ Los jueves y domingos de 0900 a 1600 horas, se permitirán las visitas familiare
 
 Ninguna visita familiar o conyugal será autorizada sin que previamente haya sido promovida o consentida por el interno.
 
+> <small>(REFORMADO, D.O.F. 17 DE OCTUBRE DE 2011)</small>
+
 ###### ARTICULO 81.
 
-En los días de visita, la sección de readaptación organizará las actividades sociales, culturales y recreativas, a fin de que asistan los internos en compañía de sus familiares.
+En los días de visita, la Sección de Reinserción organizará las actividades sociales, culturales y recreativas, a fin de que asistan los internos en compañía de sus familiares.
 
 ###### ARTICULO 82.
 
@@ -769,27 +841,39 @@ Las prisiones militares contarán con habitaciones acondicionadas especialmente 
 
 El interno durante el día de visita podrá recibirlas dentro del horario establecido, en el entendido que deberán alternarse, de manera que en el interior de la prisión militar permanezcan como máximo cinco personas por interno.
 
+> <small>(REFORMADO, D.O.F. 17 DE OCTUBRE DE 2011)</small>
+
 ###### ARTICULO 84.
 
-Los internos que manifiesten un alto grado de readaptación y buena conducta, como estímulo tendrán derecho a que se les autoricen visitas extraordinarias.
+Los internos que manifiesten un alto grado de reinserción y buena conducta, como estímulo tendrán derecho a que se les autoricen visitas extraordinarias.
 
-### CAPITULO III. Talleres
+> <small>(REFORMADA SU DENOMINACION, D.O.F. 17 DE OCTUBRE DE 2011)</small>
+
+### CAPITULO III. Del Trabajo y su Capacitación
+
+> <small>(REFORMADO, D.O.F. 17 DE OCTUBRE DE 2011)</small>
 
 ###### ARTICULO 85.
 
-En las prisiones militares, se organizarán los talleres que se estimen convenientes, de acuerdo a la maquinaria y herramienta con que sean dotadas o al presupuesto autorizado.
+En las prisiones militares se organizarán las actividades de trabajo y la capacitación para el mismo que se estimen convenientes, para la reinserción de los internos de acuerdo a la maquinaria y herramienta con que sean dotadas o al presupuesto autorizado.
+
+> <small>(REFORMADO, D.O.F. 17 DE OCTUBRE DE 2011)</small>
 
 ###### ARTICULO 86.
 
-El trabajo en los talleres para el personal recluido será uno de los principales medios para lograr su readaptación, así como una ayuda para solventar sus necesidades económicas y las de su familia.
+El trabajo y la capacitación para el mismo que se establezca para el personal recluido, será de los principales medios para lograr su reinserción, así como una ayuda para solventar sus necesidades económicas y las de su familia.
+
+> <small>(REFORMADO, D.O.F. 17 DE OCTUBRE DE 2011)</small>
 
 ###### ARTICULO 87.
 
-Todos los internos se inscribirán en el taller de su preferencia y aptitud y cuando no elija alguno, la Dirección los enviará al que convenga, de acuerdo a los estudios realizados por la Sección de Readaptación.
+Todos los internos se inscribirán en las actividades del trabajo de su preferencia, y cuando no elija alguna los enviará a las que convenga, de acuerdo a los estudios realizados por la Sección de Reinserción.
+
+> <small>(REFORMADO, D.O.F. 17 DE OCTUBRE DE 2011)</small>
 
 ###### ARTICULO 88.
 
-Los talleres contarán con un jefe de taller perteneciente a la planta de la prisión militar, el cual será el encargado del control de la herramienta y el material.
+Cada actividad de trabajo se desarrollará en talleres, que contarán con un jefe de taller perteneciente a la planta de la prisión militar, el cual será el encargado del control de la herramienta y el material.
 
 ### CAPITULO IV. Educación
 
@@ -823,9 +907,11 @@ El pago de haberes al personal interno se sujetará a los ordenamientos existent
 
 Los militares procesados o sentenciados en el fuero común o federal, que se encuentren libres bajo caución o protesta, pasarán y figurarán en las listas respectivas de la prisión militar si hubiere en el lugar.
 
+> <small>(REFORMADO, D.O.F. 17 DE OCTUBRE DE 2011)</small>
+
 ###### ARTICULO 95.
 
-El personal militar retirado o con licencia que no perciba haberes, no tendrá la obligación de asistir a la instrucción militar, sin importar que su situación sea de interno o libre, pero deberá acudir a las actividades que determine la sección de readaptación.
+El personal militar retirado o con licencia que no perciba haberes, no tendrá la obligación de asistir al adiestramiento militar sin importar que su situación sea de interno o libre, pero deberá acudir a las actividades que determine la Sección de Reinserción.
 
 ###### ARTICULO 96.
 
@@ -896,3 +982,13 @@ SEGUNDO.- La Dirección General de Justicia Militar y las Comandancias de Regió
 TERCERO.- Se derogan todas las disposiciones que se opongan al presente ordenamiento.
 
 Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los dieciocho días del mes de noviembre de mil novecientos noventa y cuatro.- Carlos Salinas de Gortari.- Rúbrica. El Secretario de la Defensa Nacional, Antonio Riviello Bazán.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+D.O.F. 17 DE OCTUBRE DE 2011.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Se derogan todas las disposiciones reglamentarias y administrativas que se opongan a este Decreto.
+
+TERCERO.- Las erogaciones que, en su caso, se generen con motivo de la entrada en vigor del presente Decreto se realizarán mediante movimientos compensados, por lo que, la Secretaría de la Defensa Nacional debe sujetarse al presupuesto de Egresos de la Federación para el ejercicio fiscal correspondiente y no incrementar su presupuesto regularizable.
