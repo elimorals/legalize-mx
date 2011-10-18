@@ -4,7 +4,7 @@ identifier: "JAL-ley-para-el-desarrollo-integral-del-adulto-mayor-del-estado-828
 country: "mx"
 rank: "ley"
 publication_date: "2011-09-15"
-last_updated: "2011-09-15"
+last_updated: "2011-10-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=82892&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "JAL"
 ---
 # LEY PARA EL DESARROLLO INTEGRAL DEL ADULTO MAYOR DEL ESTADO DE JALISCO
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LAS FE DE ERRATAS PUBLICADAS EL 18 DE OCTUBRE DE 2011 EN EL P.O. DEL ESTADO DE JALISCO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL INDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 LEY PARA EL DESARROLLO INTEGRAL DEL ADULTO MAYOR DEL ESTADO DE JALISCO
 
 TEXTO ORIGINAL.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 18 DE OCTUBRE DE 2011.</small>
 
 Ley publicada en el Periódico Oficial del Estado de Jalisco, el jueves 15 de septiembre de 2011.
 
@@ -1043,8 +1043,6 @@ La interposición del recurso, salvo en el caso de que trata el artículo anteri
 
 La resolución que se dicte en la revisión no admitirá recurso alguno.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 18 DE OCTUBRE DE 2011 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 T R A N S I T O R I O S
 
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco, y se abrogan el decreto número 21388, de la Ley de Desarrollo, Protección, Integración Social y Económica del Adulto mayor del Estado de Jalisco, y demás disposiciones legales que se opongan al presente decreto.
@@ -1085,7 +1083,9 @@ JOSÉ NOEL PÉREZ DE ALBA
 
 En mérito de lo anterior y con fundamento en el artículo 50 fracción I de la Constitución Política del Estado de Jalisco, mando se imprima, publique, divulgue y se le dé el debido cumplimiento.
 
-Emitido en Palacio de Gobierno, sede del Poder Ejecutivo del Estado Libre y Soberano de Jalisco, a los 30 treinta días del mes de agosto de 2011 dos mil diez (sic).
+> <small>(F. DE E., P.O. 18 DE OCTUBRE DE 2011)</small>
+
+Emitido en Palacio de Gobierno, sede del Poder Ejecutivo del Estado Libre y Soberano de Jalisco, a los 30 treinta días del mes de agosto de 2011 dos mil once.
 
 El Gobernador Constitucional del Estado
 
