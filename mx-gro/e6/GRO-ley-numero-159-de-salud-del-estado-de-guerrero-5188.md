@@ -4,7 +4,7 @@ identifier: "GRO-ley-numero-159-de-salud-del-estado-de-guerrero-5188"
 country: "mx"
 rank: "ley"
 publication_date: "1995-04-25"
-last_updated: "2011-09-16"
+last_updated: "2011-10-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5188&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "GRO"
 ---
 # LEY NUMERO 159, DE SALUD DEL ESTADO DE GUERRERO
 
-LEY NUM. 159, DE SALUD DEL ESTADO DE GUERRERO
+LEY NÚMERO 159, DE SALUD DEL ESTADO DE GUERRERO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE SEPTIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE OCTUBRE DE 2011.
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el martes 25 de abril de 1995.
 
@@ -59,7 +59,7 @@ Al mismo artículo 15, en el inciso B), primer párrafo, después de la palabra 
 
 Al artículo 23, inciso A), fracción I, se le suprimió la expresión "DEL SISTEMA ESTATAL DE SALUD", por considerarse repetitivo.
 
-Al artículo 33, al final, se le agregó el texto "LO QUE SE HARA DEL CONOCIMIENTO DEL H. CONGRESO DEL ESTADO", ya que se consideró relevante que el Poder Legislativo conozca del los Acuerdos de coordinación que en materia de prestación de Servicios de Salud celebre el Gobierno del Estado con el Ejecutivo Federal, por tratarse de una materia que reviste gran importancia y prioridad para todos los ciudadanos guerrerenses.
+Al artículo 33, al final, se le agregó el texto "LO QUE SE HARA DEL CONOCIMIENTO DEL H. CONGRESO DEL ESTADO", ya que se consideró relevante que el Poder Legislativo conozca del (sic) los Acuerdos de coordinación que en materia de prestación de Servicios de Salud celebre el Gobierno del Estado con el Ejecutivo Federal, por tratarse de una materia que reviste gran importancia y prioridad para todos los ciudadanos guerrerenses.
 
 Al artículo 65, fracción II, después de la palabra CRECIMIENTO, se agregó la palabra "NUTRICION" por considerarse necesaria e importante, ya que la iniciativa única y exclusivamente se refería a la atención del niño y vigilancia de su crecimiento y desarrollo, dejando a un lado la nutrición que debe constituir un programa de asistencia prioritario en la atención de los niños guerrerenses.
 
@@ -127,7 +127,7 @@ II.- El Secretario de Salud, quien podrá delegar facultades en servidores públ
 
 III.- (DEROGADA, P.O. 15 DE OCTUBRE DE 1999)
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 15 DE OCTUBRE DE 1999)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 15 DE OCTUBRE DE 1999)</small>
 
 ## TITULO SEGUNDO. DE LA ESTRUCTURA ADMINISTRATIVA DE LOS SERVICIOS DE SALUD
 
@@ -139,11 +139,9 @@ III.- (DEROGADA, P.O. 15 DE OCTUBRE DE 1999)
 
 La estructura administrativa a que se refiere el artículo 19 de la Ley General de Salud, será la Secretaría de Salud Estatal, que es una dependencia auxiliar del Titular del Poder Ejecutivo del Estado, y tiene como objetivos la prestación de los servicios de salud en la entidad, tanto en materia de salud pública como de atención médica; la promoción de la interrelación sistemática de acciones que en la materia lleven a cabo la Federación y el Estado, ejercer el control sanitario en su ámbito de competencia, así como la realización de las demás acciones que establezcan las disposiciones legales aplicables.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE OCTUBRE DE 1999)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE OCTUBRE DE 1999)</small>
 
-###### ARTICULO 4° Bis.
-
-La Secretaría de Salud, para el logro de su objeto, tendrá las siguientes atribuciones:
+ARTICULO 4° BIS.- La Secretaría de Salud, para el logro de su objeto, tendrá las siguientes atribuciones:
 
 > <small>(ADICIONADA, P.O. 21 DE ENERO DE 1997)</small>
 
@@ -253,9 +251,7 @@ XXV.- Las demás atribuciones que se requieran para el cumplimiento de los objet
 
 > <small>(ADICIONADO, P.O. 28 DE OCTUBRE DE 2005)</small>
 
-###### ARTICULO 5° Bis.
-
-El Poder Ejecutivo, a través de la Secretaría de Salud, la Secretaría de Educación y el Sistema para el Desarrollo Integral de la Familia de la Administración Pública, Estatal y Municipal a través de los Ayuntamientos, realizarán acciones de concientización y promoción de las medidas preventivas a fin de evitar la mal nutrición, el sobrepeso y la obesidad de las personas y en particular de los menores de edad y adolescentes que acuden a diversas instituciones educativas públicas o privadas localizadas en la Entidad.
+ARTICULO 5° BIS.- El Poder Ejecutivo, a través de la Secretaría de Salud, la Secretaría de Educación y el Sistema para el Desarrollo Integral de la Familia de la Administración Pública, Estatal y Municipal a través de los Ayuntamientos, realizarán acciones de concientización y promoción de las medidas preventivas a fin de evitar la mal nutrición, el sobrepeso y la obesidad de las personas y en particular de los menores de edad y adolescentes que acuden a diversas instituciones educativas públicas o privadas localizadas en la Entidad.
 
 > <small>(REFORMADO, P.O. 15 DE OCTUBRE DE 1999)</small>
 
@@ -335,7 +331,7 @@ El cobro y ejecución de los créditos no cubiertos, estarán a cargo de la Secr
 
 Para el debido cumplimiento de los actos de autoridad sanitaria que la Secretaría de Salud realice, solicitará, en su caso, el apoyo de las autoridades competentes del Estado quienes se lo brindará en tanto aquellas estén debidamente motivadas y fundadas con base en la legislación aplicable.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE OCTUBRE DE 1999)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE OCTUBRE DE 1999)</small>
 
 ###### ARTICULO 15.
 
@@ -459,13 +455,11 @@ XVI.- Prevención y control de la rabia en animales y seres humanos, y
 
 XVII.- Las demás materias que determinen esta Ley y las disposiciones legales aplicables.
 
-> <small>(ADICIONADO, P.O. 28 DE OCTUBRE DE 2005)</small>
+> <small>(REFORMADO, P.O. 18 DE OCTUBRE DE 2011)</small>
 
-C).- En materia de nutrición y reducción de sobrepeso y obesidad de menores de edad y adolescentes, promover y vigilar que los alimentos que se expidan cumplan con alto contenido nutricional evitando comida chatarra en las:
+C) En materia de nutrición y reducción de sobrepeso y obesidad en menores de edad y adolescentes, promover, vigilar, que los alimentos que se expendan en cooperativas, cafeterías o comedores escolares, cumplan con un contenido nutricional adecuado, a efecto de promover una vida saludable.
 
-I.- Cooperativas Escolares; y
-
-II.- Cafeterías o Comedores Escolares.
+Aplicar las sanciones correspondientes señalas en el artículo 304 de esta Ley, a quienes no cumplan con los lineamientos establecidos en el párrafo que antecede, expendiendo comida no nutritiva.
 
 ## TITULO TERCERO. SISTEMA ESTATAL DE SALUD
 
@@ -517,7 +511,7 @@ X.- Promover y fortalecer el conocimiento, desarrollo y práctica de la medicina
 
 XI.- Promover dentro de su respectivo ámbito de competencia, la realización de programas específicos, menús de alimentos con alto contenido nutricional, y campañas contra la mal nutrición, el sobrepeso y la obesidad, utilizando todos los medios de comunicación que estén a su alcance en programas de concientización y divulgación.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE OCTUBRE DE 1999)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE OCTUBRE DE 1999)</small>
 
 ###### ARTICULO 18.
 
@@ -563,7 +557,7 @@ XV.- Impulsar la permanente actualización de las disposiciones legales en mater
 
 XVI.- Las demás atribuciones, afines a las anteriores, que se requieran para el cumplimiento de los objetivos del sistema estatal de salud, y las que determinen las disposiciones generales aplicables.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 6 DE NOVIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE NOVIEMBRE DE 2007)</small>
 
 ###### ARTICULO 19.
 
@@ -575,7 +569,7 @@ Dentro del Sistema Estatal de Salud se promoverá la formación y capacitación 
 
 Asimismo, fomentará la coordinación con los proveedores de insumos para la salud, a fin de racionalizar y procurar la disponibilidad de éstos últimos.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 6 DE NOVIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE NOVIEMBRE DE 2007)</small>
 
 ###### ARTICULO 20.
 
@@ -601,7 +595,7 @@ El Gobierno del Estado, con la participación que corresponda al Comité de Plan
 
 ### CAPITULO II. DISTRIBUCION DE COMPETENCIAS
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE OCTUBRE DE 1999)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE OCTUBRE DE 1999)</small>
 
 ###### ARTICULO 23.
 
@@ -663,9 +657,11 @@ V.- Formular y desarrollar programas municipales de salud en el marco del sistem
 
 VI.- Vigilar y hacer cumplir en la esfera de su competencia los ordenamientos legales correspondientes;
 
-> <small>(ADICIONADA, P.O. 28 DE OCTUBRE DE 2005)</small>
+> <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 2011)</small>
 
-VII.- Promover la educación nutrimental adecuada en sus ámbitos de competencia a efecto de evitar la obesidad y el sobrepeso en su población y especialmente en menores de edad y adolescentes.
+VII.- Promover y vigilar, en su ámbito de competencia, una educación nutrimental a efecto de evitar y erradicar la obesidad y sobrepeso en su población y en especial, en menores de edad y adolescentes.
+
+Hacer uso de sus facultades de Autoridad, para sancionar a aquellos establecimientos que se encuentren ubicados en las calles adjuntas o aledañas a Instituciones Educativas, expendan comida no nutritiva conocida como comida chatarra; debiendo instituir en sus reglamentos de comercio, así como en las autorizaciones o permisos respectivos, los lineamientos establecidos en el inciso c) del artículo 15, fracción II del artículo 65 y 66 de la presente Ley.
 
 ###### ARTICULO 26.
 
@@ -865,9 +861,7 @@ Así mismo, promoverá la cultura nutricional en las Escuelas y Sociedades de Pa
 
 > <small>(ADICIONADO, P.O. 15 DE OCTUBRE DE 1999)</small>
 
-###### ARTICULO 51 Bis.
-
-Los establecimientos de servicios de salud deberán presentar aviso a la Secretaría de Salud, en el ámbito de su respectiva competencia, en el supuesto previsto por el primer párrafo del artículo 174 de esta Ley.
+ARTICULO 51 BIS.- Los establecimientos de servicios de salud deberán presentar aviso a la Secretaría de Salud, en el ámbito de su respectiva competencia, en el supuesto previsto por el primer párrafo del artículo 174 de esta Ley.
 
 En el aviso se expresarán las características y tipo de servicios a que están destinados y, en el caso de establecimientos particulares, se señalará también al responsable sanitario.
 
@@ -1019,6 +1013,10 @@ En materia de higiene escolar, corresponde al Gobierno del Estado, establecer la
 
 La prestación de servicios de salud a los escolares se efectuará de conformidad con las bases de coordinación que se establezcan entre las autoridades sanitarias estatales y educativas competentes.
 
+> <small>(ADICIONADO, P.O. 18 DE OCTUBRE DE 2011)</small>
+
+ARTICULO 70 BIS. - En materia de nutrición escolar, de acuerdo a los lineamientos establecidos en el inciso c), del artículo 15, fracción II, del artículo 65 y 66 de la presente Ley, las autoridades educativas y de salud, se coordinarán para su pleno cumplimiento y en su caso, para la aplicación de las sanciones correspondientes, tomando en cuenta lo señalado en el capítulo II, del Título Décimo Sexto.
+
 ### CAPITULO VI. SERVICIOS DE PLANIFICACION FAMILIAR
 
 ###### ARTICULO 71.
@@ -1065,7 +1063,7 @@ El Gobierno del Estado, coadyuvará con la Secretaría de Salud, en las acciones
 
 La prevención de las enfermedades mentales tiene carácter prioritario, se basará en el conocimiento de los factores que afectan la salud mental, las causas de las alteraciones de la conducta, los métodos de prevención y control de las enfermedades mentales, así como otros aspectos relacionados con la salud mental.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE OCTUBRE DE 1999)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE OCTUBRE DE 1999)</small>
 
 ###### ARTICULO 76.
 
@@ -1093,7 +1091,7 @@ Los padres, tutores o quienes ejerzan la patria potestad de menores, los respons
 
 A tal efecto, podrán obtener orientación y asesoramiento en las instituciones públicas dedicadas a la atención de enfermos mentales.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE OCTUBRE DE 1999)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE OCTUBRE DE 1999)</small>
 
 ###### ARTICULO 79.
 
@@ -1183,7 +1181,7 @@ III.- Otorgar facilidades para la enseñanza y adiestramiento en servicio dentro
 
 IV.- Promover la participación voluntaria de profesionales, técnicos y auxiliares de la salud en actividades docentes o técnicas.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE OCTUBRE DE 1999)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE OCTUBRE DE 1999)</small>
 
 ###### ARTICULO 91.
 
@@ -1193,7 +1191,7 @@ I.- Los requisitos para la apertura y funcionamiento de instituciones dedicadas 
 
 II.- El perfil de los profesionales para la salud y en sus etapas de formación.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE OCTUBRE DE 2009)</small>
 
 ###### ARTICULO 92.
 
@@ -1279,7 +1277,7 @@ En cualquier tratamiento de una persona enferma, el médico podrá utilizar nuev
 
 ### CAPITULO UNICO
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE OCTUBRE DE 1999)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE OCTUBRE DE 1999)</small>
 
 ###### ARTICULO 101.
 
@@ -1369,9 +1367,7 @@ Se impulsarán campañas estatales de orientación alimentaria, a través de los
 
 > <small>(ADICIONADO, P.O. 27 DE OCTUBRE DE 2009)</small>
 
-###### ARTICULO 108 Bis.
-
-La Secretaría de Salud tendrá a su caro:
+ARTICULO 108 BIS.- La Secretaría de Salud tendrá a su caro:
 
 I. Establecer un sistema permanente de vigilancia epidemiológica de la nutrición;
 
@@ -1393,7 +1389,7 @@ V. Difundir los productos alimenticios y bebidas que han sido procesados, su con
 
 Las autoridades sanitarias del Estado establecerán las normas, tomarán las medidas y realizarán las actividades a que se refiere esta Ley tendientes a la protección de la salud humana ante los riesgos y daños derivados de las condiciones del ambiente.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE OCTUBRE DE 1999)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE OCTUBRE DE 1999)</small>
 
 ###### ARTICULO 110.
 
@@ -1461,7 +1457,7 @@ La Secretaría de Salud, tendrá a su cargo el control sanitario de los establec
 
 El Gobierno del Estado, en coordinación con las dependencias y entidades federales competentes, desarrollará y difundirá investigación multidisciplinaria que permita prevenir y controlar las enfermedades y accidentes ocupacionales, así como estudios para adecuar los instrumentos y equipo de trabajo a las características del hombre.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 16 DE SEPTIEMBRE DE 2011)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 16 DE SEPTIEMBRE DE 2011)</small>
 
 ### CAPITULO I. DISPOSICIONES COMUNES
 
@@ -1901,7 +1897,7 @@ La Secretaría de Salud, emitirá las normas a que quedará sujeto al control sa
 
 Los establecimientos que señala el artículo 15, apartado "B", de esta Ley, no requerirán de autorización sanitaria; debiéndose ajustar al control y verificación sanitarios, así como a los requisitos sanitarios establecidos en las disposiciones reglamentarias y normas que en materia de salubridad local se expidan.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE OCTUBRE DE 1999)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE OCTUBRE DE 1999)</small>
 
 ###### ARTICULO 174.
 
@@ -1973,9 +1969,7 @@ Los vendedores, locatarios y personas que su actividad esté vinculada con los m
 
 > <small>(ADICIONADO, P.O. 15 DE OCTUBRE DE 1999)</small>
 
-###### ARTICULO 179 Bis.
-
-La Secretaría de Salud realizará periódicamente una supervisión en las centrales de abasto para determinar el contenido de agroquímicos en los alimentos perecederos o la presencia de coliformes, si se cultivan con aguas negras.
+ARTICULO 179 BIS.- La Secretaría de Salud realizará periódicamente una supervisión en las centrales de abasto para determinar el contenido de agroquímicos en los alimentos perecederos o la presencia de coliformes, si se cultivan con aguas negras.
 
 ### CAPITULO IV. CEMENTERIOS, CREMATORIOS Y FUNERARIAS
 
@@ -3049,7 +3043,7 @@ C. LIC. JOSE RUBEN ROBLES CATALAN.
 
 Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 21 DE ENERO DE 1997.
 
@@ -3112,3 +3106,11 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado, así como en la página web del Congreso del Estado, para el conocimiento general y efectos legales procedentes.
 
 TERCERO.- Notifíquese a las Autoridades competentes.
+
+P.O. 18 DE OCTUBRE DE 2011.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+SEGUNDO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado, así como en dos Diarios de Circulación Estatal, para el conocimiento general y efectos legales procedentes.
+
+TERCERO.- Notifíquese a las Autoridades competentes
