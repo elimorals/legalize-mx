@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-los-servicios-de-seguridad-privada-41187"
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-10-13"
-last_updated: "2004-10-13"
+last_updated: "2011-10-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41187&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "2004-10-12"
 
 REGLAMENTO DE LOS SERVICIOS DE SEGURIDAD PRIVADA
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO DE LA LEY FEDERAL DE SEGURIDAD PRIVADA , PUBLICADO EN EL D.O.F. DE 18 DE OCTUBRE DE 2011, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: ABROGADO.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el miércoles 13 de octubre de 2004.
 
@@ -598,3 +600,19 @@ SEGUNDO.- Las menciones contenidas en otras disposiciones, respecto de la denomi
 TERCERO.- Se concede a los Prestadores del Servicio, que a la entrada en vigor del presente ordenamiento realicen actividades en dos o más entidades federativas, un plazo de sesenta días hábiles, contados a partir del día siguiente a la publicación del presente Reglamento en el Diario Oficial de la Federación, para que soliciten la autorización, o en su caso, la revalidación.
 
 Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los doce días del mes de octubre de dos mil cuatro.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Seguridad Pública, Ramón Martín Huerta.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+D.O.F. 18 DE OCTUBRE DE 2011.
+
+PRIMERO.- El presente Reglamento entrará en vigor a partir del día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Se abroga el Reglamento de los Servicios de Seguridad Privada, publicado en el Diario Oficial de la Federación el 13 de octubre de 2004.
+
+TERCERO.- Se derogan todas aquellas disposiciones que se opongan a lo establecido en el presente Reglamento.
+
+CUARTO.- La denominación de "Dirección General de Registro y Supervisión a Empresas y Servicios de Seguridad Privada" que se encuentre contenida en Reglamentos o cualquier disposición jurídica o administrativa, se tendrá por entendida como "Dirección General de Seguridad Privada".
+
+QUINTO.- Los Prestadores de Servicios dispondrán de un término de noventa días naturales, contados a partir de la entrada en vigor de este Reglamento, para ajustarse a las disposiciones contenidas en el mismo.
+
+SEXTO.- Las erogaciones que deriven de la aplicación del presente Reglamento se realizarán mediante movimientos compensados en el presupuesto de la Secretaría de Seguridad Pública. En tal virtud, no se requerirán de recursos adicionales para tales efectos en el presente ejercicio, ni se incrementará su presupuesto regularizable.
