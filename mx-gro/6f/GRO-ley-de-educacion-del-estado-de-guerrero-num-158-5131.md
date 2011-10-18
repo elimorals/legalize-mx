@@ -4,7 +4,7 @@ identifier: "GRO-ley-de-educacion-del-estado-de-guerrero-num-158-5131"
 country: "mx"
 rank: "ley"
 publication_date: "1995-04-21"
-last_updated: "2009-10-27"
+last_updated: "2011-10-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5131&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY DE EDUCACION DEL ESTADO DE GUERRERO NUM. 158
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE OCTUBRE DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE OCTUBRE DE 2011.
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el viernes 21 de abril de 1995.
 
@@ -749,7 +749,9 @@ VI.- Dar a conocer antes de su aplicación, los exámenes o cualesquiera otros i
 
 VII.- Expedir certificados, constancias, diplomas o títulos a quienes no cumplan los requisitos aplicables;
 
-VIII.- Realizar o permitir publicidad dentro del plantel escolar que fomente el consumo, así como la comercialización de bienes o servicios notoriamente ajenos al quehacer educativo, distintos de alimentos;
+> <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 2011)</small>
+
+VIII.- Realizar o permitir la publicidad y/o venta dentro del plantel escolar que fomente el consumo de productos de bajo o nulo valor nutricional así como la comercialización de bienes o servicios ajenos al quehacer educativo;
 
 IX.- Efectuar actividades que pongan en riesgo la salud o la seguridad de los alumnos;
 
@@ -760,6 +762,18 @@ XI.- Oponerse a las actividades de evaluación, inspección y vigilancia, así c
 XII.- Incumplir cualesquiera de los demás preceptos de esta Ley, así como las disposiciones expedidas con fundamento en ella.
 
 Las disposiciones de este artículo no son aplicables a los trabajadores de la educación, en virtud de que las infracciones en que incurran serán sancionadas conforme a las disposiciones específicas para ellos.
+
+> <small>(ADICIONADO, P.O. 18 DE OCTUBRE DE 2011)</small>
+
+###### ARTICULO 66 Bis.
+
+Serán sujetos de responsabilidad, los servidores públicos que:
+
+I.- Realicen o permitan la publicidad y/o venta de alimentos de bajo o nulo valor nutricional, en las instituciones educativas de los diferentes niveles;
+
+II.- Incumplan con las disposiciones relativas a la nutrición y salud de los educandos, que esta ley establece, así con las disposiciones de la Ley 159 de Salud del Estado de Guerrero;
+
+En las sanciones a que se hagan acreedores los Servidores Públicos, se tomará en cuenta lo establecido en la Ley de Responsabilidades de los Servidores Públicos y la Ley 159 de Salud del Estado.
 
 ###### ARTICULO 67.
 
@@ -914,3 +928,11 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado, así como en dos diarios de circulación estatal, para el conocimiento general y efectos legales procedentes.
 
 TERCERO.- Notifíquese a las autoridades competentes para su conocimiento y efectos legales conducentes.
+
+P.O. 18 DE OCTUBRE DE 2011.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+SEGUNDO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado, así como en dos Diarios de Circulación Estatal, para el conocimiento general y efectos legales procedentes.
+
+TERCERO.- Notifíquese a las Autoridades competentes
