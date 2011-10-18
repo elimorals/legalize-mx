@@ -4,7 +4,7 @@ identifier: "FED-reglamento-del-servicio-de-proteccion-federal-64614"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-12-09"
-last_updated: "2008-12-09"
+last_updated: "2011-10-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64614&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "2008-12-03"
 
 REGLAMENTO DEL SERVICIO DE PROTECCION FEDERAL
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO DEL SERVICIO DE PROTECCION FEDERAL, PUBLICADO EN EL D.O.F. DE 18 DE OCTUBRE DE 2011, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: ABROGADO.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el martes 9 de diciembre de 2008.
 
@@ -414,3 +416,27 @@ SEGUNDO.- Las acciones que se lleven a cabo para la aplicación del presente reg
 TERCERO.- La Oficialía Mayor de la Secretaría realizará las transferencias de recursos humanos, financieros y materiales que correspondan para la operación de las unidades administrativas a que se refiere este Reglamento, mediante movimientos compensados con cargo al presupuesto aprobado para dicha dependencia. Las referidas acciones deberán cumplimentarse a más tardar dentro de los sesenta días siguientes a la publicación del Reglamento.
 
 Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a tres de diciembre de dos mil ocho.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Seguridad Pública, Genaro García Luna.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+D.O.F. 18 DE OCTUBRE DE 2011.
+
+PRIMERO.- El Reglamento entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Se abroga el Reglamento del Servicio de Protección Federal publicado en el Diario Oficial de la Federación el 9 de diciembre de 2008.
+
+TERCERO.- Se derogan las demás disposiciones que se opongan al Reglamento.
+
+CUARTO.- En un plazo no mayor de un mes, contado a partir de la entrada en vigor del Reglamento, deberá iniciar funciones el órgano colegiado a que hace referencia el Capítulo IX del Reglamento.
+
+QUINTO.- Los procedimientos relativos al incumplimiento de los requisitos de permanencia e infracciones al régimen disciplinario que a la fecha de la entrada en vigor del Reglamento se estén sustanciando, deberán continuar su trámite ante la Comisión Disciplinaria y de Carrera.
+
+SEXTO.- Se expedirá el Manual de la Comisión en un plazo no mayor de seis meses posteriores a que inicie funciones el órgano colegiado a que se refiere el Capítulo IX del Reglamento.
+
+SÉPTIMO.- Los recursos humanos, materiales y financieros asignados a la Dirección General de Operación y Servicios se transferirán a la Dirección General de Operaciones; los de las direcciones generales de Administración y de Implementación Tecnológica, a la Dirección General de Administración y Desarrollo; y los de la Dirección General de Normatividad y Control a la Dirección General de Asuntos Jurídicos y a la Dirección General de Supervisión y Control, respectivamente, respetando los derechos de los Integrantes conforme a la Ley.
+
+OCTAVO.- Las referencias que en otras disposiciones jurídicas se hagan a la Dirección General de Operación y Servicios se entenderán hechas a la Dirección General de Operaciones; las de la Dirección General de Administración y de Implementación Tecnológica, a la Dirección General de Administración y Desarrollo.
+
+En el caso de las referencias que se hagan en otras disposiciones jurídicas a la Dirección General de Normatividad y Control se entenderá efectuadas a la Dirección General de Asuntos Jurídicos y a la Dirección General de Supervisión y Control, de acuerdo con las atribuciones que el Reglamento les otorga.
+
+NOVENO.- Las erogaciones que deriven de la aplicación del Reglamento se realizarán mediante movimientos compensados en el presupuesto de la Secretaría de Seguridad Pública. En tal virtud, no se requerirán recursos adicionales para tales efectos en el presente ejercicio, ni se incrementará su presupuesto regularizable.
