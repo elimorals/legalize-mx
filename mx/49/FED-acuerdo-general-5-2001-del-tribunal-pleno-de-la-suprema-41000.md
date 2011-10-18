@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-5-2001-del-tribunal-pleno-de-la-suprema-41000"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2001-06-29"
-last_updated: "2011-04-25"
+last_updated: "2011-10-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41000&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2001-06-21"
 
 ACUERDO GENERAL NUMERO 5/2001, DE VEINTIUNO DE JUNIO DE DOS MIL UNO, DEL TRIBUNAL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, RELATIVO A LA DETERMINACION DE LOS ASUNTOS QUE CONSERVARA PARA SU RESOLUCION Y EL ENVIO DE LOS DE SU COMPETENCIA ORIGINARIA A LAS SALAS Y A LOS TRIBUNALES COLEGIADOS DE CIRCUITO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 25 DE ABRIL DE 2011.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 18 DE OCTUBRE DE 2011.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el viernes 29 de junio de 2001 y en el Semanario Judicial de la Federación y su Gaceta, Tomo XIV, Julio de 2001, página 1161.
 
@@ -89,21 +89,21 @@ Una vez resuelto el problema relacionado con la impugnación de normas generales
 
 II. Las acciones de inconstitucionalidad, salvo en las que deba sobreseerse, así como los recursos interpuestos en éstas en los que sea necesaria su intervención;
 
-> <small>(F. DE E., D.O.F. 22 DE ABRIL DE 2009)</small>
+> <small>(REFORMADA POR EL PUNTO UNICO DEL INSTRUMENTO NORMATIVO APROBADO POR EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION EL SEIS DE OCTUBRE DE DOS MIL ONCE, D.O.F. 18 DE OCTUBRE DE 2011)</small>
 
-III. Los amparos en revisión en los que subsistiendo la materia de constitucionalidad de leyes federales o tratados internacionales, no exista precedente y, a su juicio, se requiera fijar un criterio de importancia y trascendencia para el orden jurídico nacional y, además, revistan interés excepcional, o por alguna otra causa; o bien, cuando encontrándose radicados en alguna de las Salas, lo solicite motivadamente un Ministro;
+III. Los amparos en revisión en los que subsistiendo la materia de constitucionalidad de leyes federales o tratados internacionales, no exista precedente y, a su juicio, se requiera fijar un criterio de importancia y trascendencia para el orden jurídico nacional y, además, en el caso de los interpuestos contra sentencias dictadas por los Tribunales Colegiados de Circuito, revistan interés excepcional; o bien, cuando encontrándose radicados en una Sala así lo acuerde ésta y el Pleno lo estime justificado;
 
 > <small>(F. DE E., D.O.F. 22 DE ABRIL DE 2009)</small>
 
 IV. Las excusas o impedimentos de los Ministros en asuntos competencia del Pleno;
 
-> <small>(F. DE E., D.O.F. 22 DE ABRIL DE 2009)</small>
+> <small>(REFORMADA POR EL PUNTO UNICO DEL INSTRUMENTO NORMATIVO APROBADO POR EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION EL SEIS DE OCTUBRE DE DOS MIL ONCE, D.O.F. 18 DE OCTUBRE DE 2011)</small>
 
-V. La aplicación de la fracción XVI del artículo 107 de la Constitución Política de los Estados Unidos Mexicanos;
+V. La aplicación de la fracción XVI del artículo 107 de la Constitución Política de los Estados Unidos Mexicanos para pronunciarse sobre la justificación del incumplimiento de las autoridades vinculadas, para separar del cargo y/o consignar a los servidores públicos contumaces; así como para pronunciarse sobre la procedencia del cumplimiento sustituto de una sentencia de amparo, en los términos del Acuerdo General Plenario aplicable;
 
-> <small>(REFORMADA POR EL ARTICULO UNICO DEL INSTRUMENTO NORMATIVO APROBADO POR EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION EL QUINCE DE OCTUBRE DE DOS MIL NUEVE, D.O.F. 22 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADA POR EL PUNTO UNICO DEL INSTRUMENTO NORMATIVO APROBADO POR EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION EL SEIS DE OCTUBRE DE DOS MIL ONCE, D.O.F. 18 DE OCTUBRE DE 2011)</small>
 
-VI. Las contradicciones entre tesis sustentadas por las Salas de la Suprema Corte de Justicia de la Nación, así como las diversas que se susciten entre el Pleno o las Salas de este Alto Tribunal y alguna de las Salas del Tribunal Electoral del Poder Judicial de la Federación, en términos del párrafo séptimo del artículo 99 constitucional;
+VI. Las contradicciones entre tesis sustentadas por las Salas de la Suprema Corte de Justicia de la Nación, así como las diversas que se susciten entre el Pleno o las Salas de este Alto Tribunal y alguna de las Salas del Tribunal Electoral del Poder Judicial de la Federación, en términos del párrafo séptimo del artículo 99 constitucional, así como las suscitadas entre los Plenos de Circuito y/o los Tribunales Colegiados de un diverso Circuito, cuando así lo acuerde la Sala en la que esté radicada y el Pleno lo estime justificado;
 
 > <small>(F. DE E., D.O.F. 22 DE ABRIL DE 2009)</small>
 
@@ -135,79 +135,25 @@ A) No obstante haberse impugnado una ley federal o un tratado internacional, por
 
 Lo anterior se concretará sólo cuando el sobreseimiento decretado o los agravios planteados se refieran a la totalidad de los quejosos o de los preceptos impugnados, y en todos aquellos asuntos en los que la materia de la revisión no dé lugar a que, con independencia de lo resuelto por el Tribunal Colegiado de Circuito, deba conocer necesariamente la Suprema Corte de Justicia;
 
-B) En la demanda se hubiere impugnado una ley local o un reglamento federal o local; y
+> <small>(REFORMADO POR EL PUNTO UNICO DEL INSTRUMENTO NORMATIVO APROBADO POR EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION EL SEIS DE OCTUBRE DE DOS MIL ONCE, D.O.F. 18 DE OCTUBRE DE 2011)</small>
 
-C) Habiéndose planteado la inconstitucionalidad de leyes federales, subsista la materia de constitucionalidad de las mismas, si resulta innecesaria la intervención de la Suprema Corte por no darse ninguno de los casos precisados en los puntos primero y segundo de este acuerdo, como los que de manera ejemplificativa se enuncian a continuación:
+B) En la demanda se hubiere impugnado una ley local, un reglamento federal o local, o cualquier disposición de observancia general, salvo aquéllos en los que el análisis de constitucionalidad respectivo implique fijar el alcance de un derecho humano previsto en tratados internacionales de los que el Estado Mexicano sea parte, respecto del cual no exista jurisprudencia del Pleno o de las Salas de este Alto Tribunal, sin menoscabo de que la Sala en la que se radique el recurso respectivo determine que su resolución corresponde a un Tribunal Colegiado de Circuito;
 
-1. En materia penal, cuando el tema esencial de fondo sea:
+> <small>(REFORMADO POR EL PUNTO UNICO DEL INSTRUMENTO NORMATIVO APROBADO POR EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION EL SEIS DE OCTUBRE DE DOS MIL ONCE, D.O.F. 18 DE OCTUBRE DE 2011)</small>
 
-a) Aseguramiento o embargo de bienes;
+C) Habiéndose planteado la inconstitucionalidad de leyes federales, subsista la materia de constitucionalidad de éstas, y exista jurisprudencia del Pleno o de las Salas de la Suprema Corte de Justicia de la Nación, y
 
-b) Aplicación de cualquier medio de apremio;
+> <small>(REFORMADO POR EL PUNTO UNICO DEL INSTRUMENTO NORMATIVO APROBADO POR EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION EL SEIS DE OCTUBRE DE DOS MIL ONCE, D.O.F. 18 DE OCTUBRE DE 2011)</small>
 
-c) Cateos;
-
-d) Arraigos o arrestos domiciliarios;
-
-e) No ejercicio de la acción penal;
-
-f) Identificación administrativa del procesado;
-
-g) Desistimiento de la acción;
-
-h) Reparación del daño; e
-
-i) Procedimiento de ejecución de sentencia.
-
-2. En materia civil, cuando el tema esencial de fondo sea:
-
-a) Aplicación de cualquier medio de apremio;
-
-b) Procedimiento para hacer efectiva la garantía prendaria;
-
-c) Juicio ejecutivo mercantil;
-
-d) Arrendamiento inmobiliario;
-
-e) Arrendamiento financiero; y
-
-f) Procedimiento de ejecución de sentencia.
-
-3. En materia administrativa, cuando el tema esencial de fondo sea:
-
-a) Práctica de una visita domiciliaria;
-
-b) Multas y arrestos administrativos;
-
-c) Procedimientos administrativos que ordenen el aseguramiento o embargo de bienes;
-
-d) Procedimiento administrativo de ejecución;
-
-e) Afectación de la actividad de los concesionarios del servicio público de transporte;
-
-f) Cese o suspensión de los integrantes de los cuerpos de seguridad pública; y
-
-g) Fianzas.
-
-4. En materia laboral, cuando el tema esencial de fondo sea:
-
-a) Determinación de la competencia federal o local para conocer de un conflicto individual o colectivo;
-
-b) Aplicación de cualquier medio de apremio;
-
-c) Procedimiento de ejecución de laudo;
-
-d) Efectos del emplazamiento a huelga y garantía de audiencia; y
-
-e) Sindicación única de los trabajadores al servicio del Estado.
-
-D) Los amparos en revisión en los que, sobre el tema debatido, se integre, aunque no se haya publicado, jurisprudencia del Pleno o de las Salas o existan cinco precedentes emitidos por el Pleno o las Salas indistintamente, en forma ininterrumpida y en el mismo sentido, aun cuando no hubieran alcanzado la votación idónea para ser jurisprudencia.
+D) Los amparos en revisión en los que, sobre el tema debatido, se integre, aunque no se haya publicado, jurisprudencia del Pleno o de las Salas o existan tres precedentes emitidos por el Pleno o las Salas indistintamente, en forma ininterrumpida y en el mismo sentido, aun cuando no hubieran alcanzado la votación idónea para ser jurisprudencia.
 
 II. Los conflictos de competencia, con excepción de los que se susciten entre los Tribunales Colegiados de Circuito;
 
 III. Los reconocimientos de inocencia; y
 
-IV. Los incidentes de inejecución, las denuncias de repetición del acto reclamado consideradas fundadas por el Juez de Distrito y las inconformidades promovidas en términos de los artículos 105 y 108 de la Ley de Amparo, derivados de sentencias en que se conceda el amparo, dictadas por Jueces de Distrito o Tribunales Unitarios de Circuito.
+> <small>(REFORMADA POR EL PUNTO UNICO DEL INSTRUMENTO NORMATIVO APROBADO POR EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION EL SEIS DE OCTUBRE DE DOS MIL ONCE, D.O.F. 18 DE OCTUBRE DE 2011)</small>
+
+IV. Los incidentes de inejecución, las denuncias de repetición del acto reclamado consideradas fundadas por el Juez de Distrito y las inconformidades promovidas en términos de los artículos 105 y 108 de la Ley de Amparo, derivados de sentencias en que se conceda el amparo, dictadas por Jueces de Distrito o Tribunales Unitarios de Circuito, en los términos del Acuerdo General Plenario respectivo.
 
 SEXTO.- Los asuntos de la competencia originaria del Pleno deberán radicarse en éste y distribuirse equitativamente entre los diez Ministros que integran las Salas; y, en su caso, podrán remitirse a éstas en términos de lo establecido en el punto octavo de este acuerdo.
 
@@ -241,19 +187,29 @@ II. Los conflictos de competencia y los de reconocimiento de inocencia se remiti
 
 III. Los asuntos que, actualizándose la hipótesis contenida en el inciso D) de la fracción I del punto quinto de este acuerdo, se encuentren con proyecto en la Secretaría General de Acuerdos de la Suprema Corte de Justicia de la Nación, deberán remitirse por dicha secretaría, dando aviso a la Subsecretaría General de Acuerdos, de conformidad con lo dispuesto en la fracción I de este punto.
 
-En este caso, en virtud de que la existencia del proyecto no será obstáculo para que el Tribunal Colegiado resuelva, se le enviará con el expediente una copia certificada de la tesis jurisprudencial respectiva y el disquete de dicho proyecto.
+> <small>(REFORMADO POR EL PUNTO UNICO DEL INSTRUMENTO NORMATIVO APROBADO POR EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION EL SEIS DE OCTUBRE DE DOS MIL ONCE, D.O.F. 18 DE OCTUBRE DE 2011)</small>
+
+En este caso, en virtud de que la existencia del proyecto no será obstáculo para que el Tribunal Colegiado de Circuito resuelva, se le enviará con el expediente una copia certificada de la ejecutoria que integre la jurisprudencia respectiva, en su caso, de la o las tesis correspondientes, y la versión electrónica del proyecto.
 
 Los Tribunales Colegiados de Circuito no podrán objetar su competencia e informarán a la Subsecretaría General de Acuerdos cuando resuelvan los asuntos que les hayan correspondido, en términos del punto décimo noveno de este acuerdo.
 
 DÉCIMO PRIMERO.- En los supuestos a que se refiere el inciso A) de la fracción I del punto quinto de este acuerdo, el Tribunal Colegiado de Circuito procederá en los siguientes términos:
 
-I. Verificará la procedencia de los recursos de revisión, así como de la vía y resolverá, en su caso, sobre el desistimiento, la caducidad o la reposición del procedimiento;
+> <small>(REFORMADA POR EL PUNTO UNICO DEL INSTRUMENTO NORMATIVO APROBADO POR EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION EL SEIS DE OCTUBRE DE DOS MIL ONCE, D.O.F. 18 DE OCTUBRE DE 2011)</small>
+
+I. Verificará la procedencia de los recursos de revisión, así como de la vía y resolverá, en su caso, sobre el desistimiento o la reposición del procedimiento;
 
 II. Abordará el estudio de los agravios relacionados con las causas de improcedencia del juicio y, en su caso, examinará las formuladas por las partes cuyo estudio hubieren omitido el Juez de Distrito o el Magistrado Unitario de Circuito, así como las que advierta de oficio;
 
-III. De resultar procedente el juicio, cuando el asunto no quede comprendido en las hipótesis previstas en el punto quinto, fracción I, incisos B), C) y D), de este acuerdo, el Tribunal Colegiado dejará a salvo la jurisdicción de la Suprema Corte de Justicia y le remitirá los autos, sin analizar los conceptos de violación expuestos, aun los de mera legalidad; y
+> <small>(REFORMADA POR EL PUNTO UNICO DEL INSTRUMENTO NORMATIVO APROBADO POR EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION EL SEIS DE OCTUBRE DE DOS MIL ONCE, D.O.F. 18 DE OCTUBRE DE 2011)</small>
+
+III. De resultar procedente el juicio, cuando el asunto no quede comprendido en los supuestos de competencia delegada previstos en el punto Quinto, fracción I, incisos B), C) y D), de este acuerdo, el Tribunal Colegiado dejará a salvo la jurisdicción de la Suprema Corte de Justicia y le remitirá los autos, sin analizar los conceptos de violación expuestos, aun los de mera legalidad;
 
 IV. Si el problema de fondo es de la competencia del Tribunal Colegiado conforme a este acuerdo, examinará, primero, el problema de inconstitucionalidad de leyes planteado en la demanda y, en su caso, el de mera legalidad.
+
+> <small>(ADICIONADA POR EL PUNTO UNICO DEL INSTRUMENTO NORMATIVO APROBADO POR EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION EL SEIS DE OCTUBRE DE DOS MIL ONCE, D.O.F. 18 DE OCTUBRE DE 2011)</small>
+
+V. Si al conocer de un amparo indirecto en revisión algún Tribunal Colegiado de Circuito establece jurisprudencia sobre la inconstitucionalidad de una norma general no tributaria, en ejercicio de la competencia delegada por este Alto Tribunal, lo comunicará por escrito al Ministro Presidente de la Suprema Corte de Justicia de la Nación.
 
 DÉCIMO SEGUNDO.- En los casos previstos en los incisos B), C) y D) de la fracción I y en las fracciones II y III del punto quinto del presente acuerdo, los Tribunales Colegiados de Circuito resolverán en su integridad las cuestiones de improcedencia, de fondo y de cualquier naturaleza que, en su caso, se presenten.
 
@@ -269,9 +225,15 @@ DÉCIMO QUINTO.- (DEROGADO POR EL TRANSITORIO SEGUNDO DEL ACUERDO GENERAL NUMERO
 
 DÉCIMO SEXTO.- (DEROGADO POR EL TRANSITORIO SEGUNDO DEL ACUERDO GENERAL NUMERO 12/2009 DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, D.O.F. 1 DE DICIEMBRE DE 2009)
 
-DÉCIMO SÉPTIMO.- Los presidentes de los Tribunales Colegiados de Circuito comunicarán a la Suprema Corte de Justicia, por conducto de la Subsecretaría General de Acuerdos, a más tardar dentro de los primeros diez días de cada mes, los ingresos, egresos y existencia de asuntos de la competencia originaria de este Alto Tribunal, incluyendo aquellos que con anterioridad se les hubiesen enviado.
+> <small>(REFORMADO PRIMER PARRAFO POR EL PUNTO UNICO DEL INSTRUMENTO NORMATIVO APROBADO POR EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION EL SEIS DE OCTUBRE DE DOS MIL ONCE, D.O.F. 18 DE OCTUBRE DE 2011)</small>
+
+DECIMO SÉPTIMO.- Los Presidentes de los Tribunales Colegiados de Circuito comunicarán a la Suprema Corte de Justicia, por conducto de la Secretaría General de Acuerdos, a más tardar dentro de los primeros diez días hábiles de cada mes, los ingresos, egresos y existencia de asuntos de la competencia originaria de este Alto Tribunal, incluyendo aquellos que con anterioridad se les hubiesen enviado, así como copia electrónica de las sentencias dictadas y engrosadas en el mes inmediato anterior.
 
 El informe estadístico relativo a los incidentes de inejecución, a las denuncias de repetición del acto reclamado, así como a las inconformidades, se rendirá por separado detallando el concepto de cada rubro.
+
+> <small>(ADICIONADO POR EL PUNTO UNICO DEL INSTRUMENTO NORMATIVO APROBADO POR EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION EL SEIS DE OCTUBRE DE DOS MIL ONCE, D.O.F. 18 DE OCTUBRE DE 2011)</small>
+
+La Secretaría General de Acuerdos rendirá trimestralmente al Pleno de la Suprema Corte de Justicia de la Nación, un informe estadístico sobre los asuntos resueltos por los Tribunales Colegiados de Circuito en ejercicio de su competencia delegada, el cual se difundirá en medios electrónicos de consulta pública.
 
 > <small>(REFORMADO POR EL PUNTO UNICO DEL INSTRUMENTO NORMATIVO APROBADO POR EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION EL CUATRO DE ABRIL DE DOS MIL ONCE, D.O.F. 25 DE ABRIL DE 2011)</small>
 
@@ -283,9 +245,9 @@ El auto de radicación a que se refiere el Punto Décimo Cuarto de este Acuerdo 
 
 Las resoluciones que emitan el Pleno o las Salas de este Alto Tribunal en donde se determine reasumir competencia originaria atendiendo a las solicitudes precisadas en los párrafos que anteceden, así como la remisión de autos que realicen los Tribunales Colegiados de Circuito en cualquiera de los supuestos anteriores, deberán notificarse por medio de oficio a las autoridades responsables, así como al Tribunal Unitario de Circuito o Juzgado de Distrito del conocimiento, y personalmente al quejoso y al tercero perjudicado, en su caso.
 
-DÉCIMO NOVENO.- Los presidentes de los Tribunales Colegiados de Circuito a los que la Suprema Corte de Justicia les remita asuntos, en los términos de este acuerdo, cuando sean resueltos le informarán a ésta por conducto de la Subsecretaría General de Acuerdos, acompañando copia certificada de la ejecutoria, que se glosará al cuaderno de antecedentes para su archivo.
+DECIMO NOVENO.- (DEROGADO POR EL PUNTO UNICO DEL INSTRUMENTO NORMATIVO APROBADO POR EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION EL SEIS DE OCTUBRE DE DOS MIL ONCE, D.O.F. 18 DE OCTUBRE DE 2011)
 
-VIGÉSIMO.- La Subsecretaría General de Acuerdos informará mensualmente a los Ministros el resultado de la aplicación de este acuerdo. También remitirá a la Visitaduría Judicial y al secretario ejecutivo de Creación de Nuevos Órganos, dependientes del Consejo de la Judicatura Federal, para los efectos de su competencia, los datos estadísticos que los Tribunales Colegiados de Circuito envíen a este Alto Tribunal, en cumplimiento a lo establecido en el punto décimo séptimo de este acuerdo
+VIGESIMO.- (DEROGADO POR EL PUNTO UNICO DEL INSTRUMENTO NORMATIVO APROBADO POR EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION EL SEIS DE OCTUBRE DE DOS MIL ONCE, D.O.F. 18 DE OCTUBRE DE 2011)
 
 > <small>(ADICIONADO POR EL PUNTO UNICO DEL INSTRUMENTO NORMATIVO APROBADO POR EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION EL DIECISIETE DE MAYO DE DOS MIL DIEZ, D.O.F. 21 DE MAYO DE 2010)</small>
 
@@ -350,3 +312,11 @@ D.O.F. 25 DE ABRIL DE 2011.
 PRIMERO. El presente Instrumento Normativo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO. Publíquese este Instrumento Normativo en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y su Gaceta y en medios electrónicos de consulta pública en términos de lo dispuesto en el artículo 7, fracción XIV, de la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental; sin menoscabo de que la Secretaría General de Acuerdos difunda el texto íntegro del Acuerdo General Plenario 5/2001 en dichos medios electrónicos.
+
+D.O.F. 18 DE OCTUBRE DE 2011.
+
+PRIMERO. El presente Instrumento Normativo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. La Secretaría General de Acuerdos emitirá las circulares que resulten necesarias con el objeto de precisar los formatos y la vía electrónica para la remisión de la información a la que se refiere el punto Décimo Séptimo del presente Acuerdo General.
+
+TERCERO. Publíquese este Instrumento Normativo en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y su Gaceta y en medios electrónicos de consulta pública en términos de lo dispuesto en el artículo 7, fracción XIV, de la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental, sin menoscabo de que la Secretaría General de Acuerdos difunda el texto íntegro del Acuerdo General Plenario 5/2001 en dichos medios electrónicos.
