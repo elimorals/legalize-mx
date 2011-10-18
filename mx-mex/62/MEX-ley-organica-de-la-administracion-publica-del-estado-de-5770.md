@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-de-la-administracion-publica-del-estado-de-5770"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1981-09-17"
-last_updated: "2011-03-31"
+last_updated: "2011-10-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5770&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 31 DE MARZO DE 2011.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 18 DE OCTUBRE DE 2011.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el jueves 17 de septiembre de 1981.
 
@@ -147,71 +147,75 @@ Para el estudio, planeación y despacho de los asuntos, en los diversos ramos de
 
 I. Secretaría General de Gobierno;
 
+> <small>(ADICIONADA, G.G. 18 DE OCTUBRE DE 2011)</small>
+
+II. Secretaría de Seguridad Ciudadana;
+
 > <small>(REFORMADA, G.G. 8 DE DICIEMBRE DE 2005)</small>
 
-II. Secretaría de Finanzas;
+III. Secretaría de Finanzas;
 
 > <small>(REFORMADA, P.O. 2 DE AGOSTO DE 2002)</small>
 
-III. Secretaría de Salud;
+IV. Secretaría de Salud;
 
 > <small>(REFORMADA, G.G. 8 DE DICIEMBRE DE 2005)</small>
 
-IV. Secretaría del Trabajo;
+V. Secretaría del Trabajo;
 
 > <small>(REFORMADA, G.G. 8 DE DICIEMBRE DE 2005)</small>
 
-V. Secretaría de Educación;
+VI. Secretaría de Educación;
 
 > <small>(REFORMADA, P.O. 2 DE AGOSTO DE 2002)</small>
 
-VI. Secretaría de Desarrollo Social;
+VII. Secretaría de Desarrollo Social;
 
 > <small>(REFORMADA, G.G. 8 DE DICIEMBRE DE 2005)</small>
 
-VII.- Secretaría de Desarrollo Urbano;
+VIII.- Secretaría de Desarrollo Urbano;
 
 > <small>(REFORMADA, G.G. 8 DE DICIEMBRE DE 2005)</small>
 
-VIII.- Secretaría del Agua y Obra Pública;
+IX.- Secretaría del Agua y Obra Pública;
 
 > <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2002)</small>
 
-IX.- Secretaría de Desarrollo Agropecuario;
+X.- Secretaría de Desarrollo Agropecuario;
 
 > <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2002)</small>
 
-X.- Secretaría de Desarrollo Económico;
+XI.- Secretaría de Desarrollo Económico;
 
 > <small>(REFORMADA, G.G. 8 DE DICIEMBRE DE 2005)</small>
 
-XI. Secretaría de Turismo;
+XII. Secretaría de Turismo;
 
 > <small>(REFORMADA, G.G. 16 DE DICIEMBRE DE 2004)</small>
 
-XII. Secretaría de Desarrollo Metropolitano;
+XIII. Secretaría de Desarrollo Metropolitano;
 
 > <small>(REFORMADA, G.G. 16 DE DICIEMBRE DE 2004)</small>
 
-XIII. Secretaría de la Contraloría;
+XIV. Secretaría de la Contraloría;
 
 > <small>(REFORMADA, G.G. 16 DE DICIEMBRE DE 2004)</small>
 
-XIV. Secretaría de Comunicaciones;
+XV. Secretaría de Comunicaciones;
 
 > <small>(REFORMADA, G.G. 16 DE DICIEMBRE DE 2004)</small>
 
-XV. Secretaría de Transporte;
+XVI. Secretaría de Transporte;
 
 > <small>(REFORMADA, G.G. 22 DE AGOSTO DE 2005)</small>
 
-XVI. Secretaría del Medio Ambiente;
+XVII. Secretaría del Medio Ambiente;
 
 El Procurador General de Justicia depende del Gobernador y ejercerá las funciones que la Constitución Política del Estado y demás Leyes le confieran. Este funcionario será el Consejero Jurídico del Gobierno.
 
-> <small>(REFORMADO, G.G. 16 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO, G.G. 18 DE OCTUBRE DE 2011)</small>
 
-Las Secretarias a las que se refieren las fracciones II a XVI de este artículo, tendrán igual rango y entre ellas, no habrá preeminencia alguna.
+Las Secretarías a las que se refieren las fracciones II a XVII de este artículo, tendrán igual rango y entre ellas, no habrá preeminencia alguna.
 
 > <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 1992)</small>
 
@@ -257,7 +261,9 @@ VIII. Vigilar y controlar todo lo relativo a la demarcación y conservación de 
 
 IX. Intervenir y ejercer las atribuciones que en materia electoral le señalen las leyes o los convenios que para ese efecto se celebren.
 
-X. Intervenir en auxilio o coordinación con las autoridades federales, en los términos de las Leyes relativas en materia de cultos religiosos; detonantes y pirotecnia; portación de armas; loterías, rifas y juegos prohibidos, migración, prevención, combate y extinción de catástrofes públicas.
+> <small>(REFORMADA, G.G. 18 DE OCTUBRE DE 2011)</small>
+
+X. Intervenir, en el ámbito de su competencia, en auxilio o coordinación con las autoridades federales, en los términos de las leyes relativas en materia de cultos religiosos; detonantes y pirotecnia; portación de armas; loterías, rifas y juegos prohibidos; migración y atención de catástrofes públicas.
 
 XI. Proporcionar Asesoría Jurídica a las dependencias del Ejecutivo del Estado, así como a los Ayuntamientos que los soliciten.
 
@@ -269,33 +275,25 @@ XIV. Tramitar los recursos administrativos que competa resolver al Gobernador de
 
 XV. Realizar los actos jurídicos necesarios para reivindicar la propiedad del Estado.
 
-> <small>(REFORMADA, G.G. 31 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA, G.G. 18 DE OCTUBRE DE 2011)</small>
 
-XVI. Proponer al Gobernador del Estado los programas relativos a la protección de los habitantes, el orden público y la prevención de delitos, que se ejecutarán a través de la Agencia de Seguridad Estatal.
+XVI. Coordinar a las dependencias y entidades en materia de seguridad, así como el funcionamiento del Sistema Estatal de Seguridad Pública, de conformidad con las disposiciones aplicables;
 
 > <small>(ADICIONADA, G.G. 4 DE NOVIEMBRE DE 2010)</small>
 
 XVI Bis. Proponer, convenir, administrar y vigilar la aplicación del Fondo para la Atención a los Desastres y fenómenos perturbadores de origen natural a través del Sistema Estatal de Protección Civil.
 
-> <small>(REFORMADA, G.G. 31 DE DICIEMBRE DE 2007)</small>
+XVII. (DEROGADA, G.G. 18 DE OCTUBRE DE 2011)
 
-XVII. Velar por la protección de los habitantes, el orden público y la prevención de delitos a través de la Agencia de Seguridad Estatal.
+XVIII. (DEROGADA, G.G. 18 DE OCTUBRE DE 2011)
 
-> <small>(REFORMADA, G.G. 31 DE DICIEMBRE DE 2007)</small>
+XIX. (DEROGADA, G.G. 18 DE OCTUBRE DE 2011)
 
-XVIII. Administrar y vigilar el tránsito en las carreteras y caminos de jurisdicción estatal en los términos que señalen las leyes y reglamentos respectivos, a través de la Agencia de Seguridad Estatal.
+> <small>(REFORMADA, G.G. 18 DE OCTUBRE DE 2011)</small>
 
-> <small>(REFORMADA, G.G. 31 DE DICIEMBRE DE 2007)</small>
+XX. Tramitar, por acuerdo del Gobernador, las solicitudes de amnistía, indultos, libertad anticipada y traslado de internos, a través de la Secretaría de Seguridad Ciudadana.
 
-XIX. Elaborar y ejecutar los programas de readaptación social de los infractores, a través de la Agencia de Seguridad Estatal.
-
-> <small>(REFORMADA, G.G. 31 DE DICIEMBRE DE 2007)</small>
-
-XX. Administrar los centros de readaptación social y tramitar por acuerdo del Gobernador las solicitudes de extradición, amnistía, indultos, libertad anticipada y traslado de reos, a través de la Agencia de Seguridad Estatal.
-
-> <small>(REFORMADA, G.G. 31 DE DICIEMBRE DE 2007)</small>
-
-XXI. Vigilar el establecimiento de instituciones y la aplicación de la norma en materia de Justicia para Adolescentes, a través de la Agencia de Seguridad Estatal.
+XXI. (DEROGADA, G.G. 18 DE OCTUBRE DE 2011)
 
 XXII. Organizar y controlar la defensoría de oficio.
 
@@ -324,6 +322,60 @@ XXIX. Administrar y publicar el periódico oficial "Gaceta del Gobierno"; y
 > <small>(REFORMADA, G.G. 3 DE DICIEMBRE DE 2007)</small>
 
 XXX. Las demás que le señalen las leyes y reglamentos vigentes en el Estado.
+
+> <small>(ADICIONADO, G.G. 18 DE OCTUBRE DE 2011)</small>
+
+###### Artículo 21 Bis.
+
+La Secretaría de Seguridad Ciudadana es la dependencia encargada de planear, formular, conducir, coordinar, ejecutar, supervisar y evaluar las políticas, programas y acciones en materia de seguridad pública.
+
+A la Secretaría le corresponde el despacho de los siguientes asuntos:
+
+I. Transmitir y ejecutar los acuerdos y demás disposiciones que instruya el Gobernador del Estado en materia de seguridad pública;
+
+II. Dictar las disposiciones necesarias para asegurar y proteger en forma inmediata el orden y la paz públicos, la integridad física de las personas y sus bienes, prevenir la comisión de delitos e infracciones administrativas, auxiliar a las autoridades competentes cuando así lo soliciten en la investigación y persecución de los delitos y concurrir, en términos de la ley, con las autoridades en casos de siniestro o desastre;
+
+III. Impulsar las acciones necesarias para promover la prevención de los delitos y la participación de la comunidad en materia de seguridad pública;
+
+IV. Ejercer las atribuciones que la Constitución Política de los Estados Unidos Mexicanos y demás ordenamientos aplicables otorgan a las instituciones policiales en materia de investigación preventiva, e instrumentar y coordinar acciones y procedimientos para la planeación, obtención, procesamiento y aprovechamiento de información de inteligencia para tales efectos;
+
+V. Ejercer el mando directo de las Instituciones Policiales del Estado, en los términos de la ley de la materia y demás disposiciones jurídicas aplicables, a fin de salvaguardar la integridad física y los derechos de las personas, así como preservar las libertades, el orden y la paz públicos;
+
+VI. Impulsar la coordinación de las Instituciones Policiales y proponer, en el ámbito de sus facultades, la adopción y aplicación de políticas y programas de cooperación en materia de seguridad pública, con la Federación, las entidades federativas y los municipios;
+
+VII. Promover la formación, capacitación, profesionalización, actualización, adiestramiento y especialización de las Instituciones Policiales;
+
+VIII. Coordinar la evaluación del funcionamiento de la seguridad pública;
+
+IX. Participar, en coordinación con la Procuraduría General de Justicia, en la elaboración de diagnósticos y estrategias de política criminal;
+
+X. Autorizar, coordinar, controlar y supervisar los servicios de seguridad privada, de conformidad con las normas aplicables;
+
+XI. Coordinar y supervisar las acciones en materia de protección civil;
+
+XII. Coordinar con el Instituto Mexiquense de la Pirotecnia, todas las acciones relacionadas con la misma;
+
+XIII. Coordinar los servicios de seguridad, vigilancia y protección regional en caminos y carreteras estatales o vías primarias, zonas rurales, áreas de recreo y turísticas de competencia estatal, así como las instalaciones estratégicas del Estado;
+
+XIV. Establecer y vigilar la operación de los procedimientos de administración, seguridad, control, vigilancia y apoyo logístico del sistema penitenciario;
+
+XV. Administrar los centros de reinserción social y tramitar, las solicitudes de amnistía, indultos, libertad anticipada y traslado de internos, en coordinación con la Secretaría General de Gobierno;
+
+XVI. Vigilar el establecimiento de las instituciones y la aplicación de la norma, en el ámbito de su competencia, en materia de justicia para adolescentes;
+
+XVII. Ejecutar las políticas, lineamientos y acciones de su competencia, previstos en los convenios de coordinación suscritos por el Estado de México en el marco del Sistema Nacional de Seguridad Pública, así como los derivados de los acuerdos y resoluciones del Consejo Nacional de Seguridad Pública y demás instancias de coordinación que correspondan;
+
+XVIII. Establecer mecanismos de coordinación con el Secretariado Ejecutivo del Sistema Estatal de Seguridad Pública;
+
+XIX. Colaborar, cuando así lo soliciten otras instituciones del Estado de México, federales, estatales, municipales o del Distrito Federal competentes en la protección de la integridad, derechos y patrimonio de las personas, en la prevención de delitos, en situaciones de peligro, cuando se vean amenazadas por disturbios u otras situaciones que impliquen violencia o riesgo inminente, así como en el mantenimiento y restablecimiento de la paz y orden públicos;
+
+XX. Establecer, integrar, supervisar, utilizar y mantener actualizados los instrumentos de información del Sistema Nacional de Seguridad Pública que le competan, mediante las bases de datos en materia de seguridad pública correspondientes;
+
+XXI. Organizar, dirigir y administrar la recepción y transferencia de los reportes sobre emergencias, infracciones y delitos;
+
+XXII. Coordinar planes y operativos para la defensa y protección del medio ambiente, a fin de preservar y salvaguardar los recursos naturales de la entidad; y
+
+XXIII. Las demás que le señalen otros ordenamientos jurídicos.
 
 > <small>(ADICIONADO, P.O. 13 DE DICIEMBRE DE 2001)</small>
 
@@ -2020,6 +2072,26 @@ DÉCIMO CUARTO.- Se derogan las disposiciones de igual o menor jerarquía juríd
 DÉCIMO QUINTO.- El Programa Estatal de Publicidad Exterior deberá ser expedido por la Secretaría de Comunicaciones en un plazo máximo de cuatro meses contados a partir de la publicación del presente Decreto.
 
 DÉCIMO SEXTO.- Los permisos y autorizaciones en materia de publicidad exterior, vigentes al entrar en vigor las reformas serán respetados en sus términos hasta la conclusión del plazo por el que fueron otorgados. El Programa Estatal de Publicidad Exterior fijará los lineamientos para el otorgamiento de plazos adicionales de vigencia, cuando ello sea procedente.
+
+G.G. 18 DE OCTUBRE DE 2011.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- La Legislatura del Estado de México deberá destinar la partida presupuestal necesaria para la creación de la Secretaría de Seguridad Ciudadana.
+
+CUARTO.- El Ejecutivo deberá expedir el Reglamento Interior de la Secretaría de Seguridad Ciudadana, en un plazo no mayor a dos meses, contados a partir de la entrada en vigor de este Decreto.
+
+QUINTO.- Las atribuciones y facultades que se otorgan a la Secretaría de Seguridad Ciudadana en este Decreto, en tanto se expida el Reglamento Interior y demás instrumentos jurídico administrativos necesarios para su funcionamiento, serán ejercidas por conducto de la estructura orgánica de la Agencia de Seguridad Estatal, en los términos que disponga el Secretario de Seguridad Ciudadana.
+
+SEXTO.- Los recursos humanos, materiales y financieros de la Agencia de Seguridad Estatal, serán transferidos a partir de la entrada en vigor del presente Decreto a la Secretaría de Seguridad Ciudadana.
+
+SÉPTIMO.- Los convenios o instrumentos jurídicos celebrados a través de la Agencia de Seguridad Estatal que se encuentren vigentes, continuarán en vigor, por lo que los derechos y obligaciones contraídos en éstos, serán asumidos por la Secretaría de Seguridad Ciudadana, excepto aquellos que por su naturaleza deban ser renovados.
+
+OCTAVO.- Las referencias realizadas en el presente Decreto a la Agencia de Seguridad Estatal, quedarán entendidas a la Secretaría de Seguridad Ciudadana.
+
+NOVENO.- Las referencias realizadas a reinserción social, quedarán entendidas al término vigente readaptación social, hasta en tanto se lleve a cabo la reforma penitenciaria a que se refiere el Decreto por el que se reforman y adicionan diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, publicado en el Diario Oficial de la Federación el 18 de junio de 2008.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 158 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES, LA LEY DEL SISTEMA DE MEDIOS DE IMPUGNACIÓN EN MATERIA ELECTORAL Y DE PARTICIPACIÓN CIUDADANA, LA LEY ORGÁNICA DE LA COMISIÓN ESTATAL DE LOS DERECHOS HUMANOS, LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA, LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA Y LA LEY DE GOBIERNO MUNICIPAL, TODAS DEL ESTADO DE SINALOA”.]
 
