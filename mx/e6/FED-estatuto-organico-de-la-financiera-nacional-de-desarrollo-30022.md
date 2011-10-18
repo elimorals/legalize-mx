@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-de-la-financiera-nacional-de-desarrollo-30022
 country: "mx"
 rank: "estatuto"
 publication_date: "2003-04-21"
-last_updated: "2011-05-31"
+last_updated: "2011-10-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=30022&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2003-04-09"
 
 ESTATUTO ORGANICO DE LA FINANCIERA RURAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 31 DE MAYO DE 2011.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 18 DE OCTUBRE DE 2011.
 
 Estatuto publicado en el Diario Oficial de la Federación, el lunes 21 de abril de 2003.
 
@@ -660,6 +660,10 @@ VI. Llevar a cabo las demás actividades que dentro del ámbito de su competenci
 > <small>(REFORMADO, D.O.F. 27 DE NOVIEMBRE DE 2009)</small>
 
 ARTICULO 25 QUATER.- Corresponde al Prosecretario del Consejo coadyuvar con el Secretario en el seguimiento de los acuerdos que tome el Consejo Directivo y suplirlo en sus ausencias, en cuyo caso tendrá las mismas facultades señaladas en el artículo 15 anterior.
+
+> <small>(ADICIONADO, D.O.F. 18 DE OCTUBRE DE 2011)</small>
+
+El Prosecretario del Consejo podrá ejercer indistintamente y en cualquier momento las atribuciones del Secretario a que hacen referencia las fracciones V y VI del artículo 15 del presente Estatuto.
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 23 DE ENERO DE 2008)</small>
 
@@ -2317,9 +2321,9 @@ VII. El Director General Adjunto Jurídico y Fiduciario;
 
 VIII. El Director General Adjunto (sic) Finanzas, Operaciones y Sistemas;
 
-> <small>(REFORMADA, D.O.F. 24 DE SEPTIEMBRE DE 2009)</small>
+> <small>(REFORMADA, D.O.F. 18 DE OCTUBRE DE 2011)</small>
 
-IX. El Gerente de Fomento adscrito a la Dirección Ejecutiva de Promoción de Negocios con Intermediarios Financieros Rurales;
+IX. El Coordinador Técnico de la Dirección General Adjunta de Fomento y Promoción de Negocios;
 
 X. El Titular del Organo Interno de Control, en calidad de asesor;
 
@@ -2626,3 +2630,7 @@ PRIMERO.- La presente reforma al Estatuto Orgánico entra en vigor al día sigui
 SEGUNDO.- Una vez que entre en vigor la presente reforma al Estatuto Orgánico y mientras se ajusta la normatividad interna de la Financiera Rural, todas las referencias que se hagan respecto al promotor de crédito rural, se entenderán realizadas al promotor de financiamiento rural.
 
 La presente reforma fue aprobada en la Quincuagésima Sesión Ordinaria, celebrada con fecha veintisiete de abril del año dos mil once, por el H. Consejo Directivo de la Financiera Rural, organismo descentralizado creado por decreto publicado en el Diario Oficial de la Federación el veintiséis de diciembre del año dos mil dos.
+
+D.O.F. 18 DE OCTUBRE DE 2011.
+
+UNICO.- El H. Consejo Directivo de Financiera Rural, con fundamento en los artículos 33, fracciones I y XXVIII de la Ley Orgánica de la Financiera Rural y 14, fracciones I y XXVIII del Estatuto Orgánico de la Financiera Rural, aprueba la modificación al referido Estatuto, en los términos del documento presentado. Las reformas al Estatuto Orgánico deberán publicarse en el Diario Oficial de la Federación.
