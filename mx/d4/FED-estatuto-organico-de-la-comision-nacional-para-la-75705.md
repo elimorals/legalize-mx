@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-de-la-comision-nacional-para-la-75705"
 country: "mx"
 rank: "estatuto"
 publication_date: "2010-07-16"
-last_updated: "2010-07-16"
+last_updated: "2011-10-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=75705&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2010-06-29"
 ---
 # ESTATUTO ORGANICO DE LA COMISION NACIONAL PARA LA PROTECCION Y DEFENSA DE LOS USUARIOS DE SERVICIOS FINANCIEROS
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 9 DE NOVIEMBRE DE 2011 EN EL D.O.F., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 ESTATUTO ORGANICO DE LA COMISION NACIONAL PARA LA PROTECCION Y DEFENSA DE LOS USUARIOS DE SERVICIOS FINANCIEROS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 18 DE OCTUBRE DE 2011.
 
 Estatuto publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 16 de julio de 2010.
 
@@ -147,9 +149,11 @@ n) De Interventoría y Asuntos Penales;
 
 o) Contenciosa;
 
-p) De Disposiciones, Convenios y Contratos;
+> <small>(REFORMADO, D.O.F. 18 DE OCTUBRE DE 2011)</small>
 
-q) De Recursos de Revisión;
+p) De Disposiciones, Convenios, Contratos y Recursos de Revisión;
+
+q) (DEROGADO, D.O.F. 18 DE OCTUBRE DE 2011)
 
 r) Enlace y Análisis Regional Centro-Occidente;
 
@@ -165,9 +169,17 @@ w) De Administración de Personal;
 
 x) De Desarrollo de Personal;
 
-y) De Finanzas, y
+> <small>(REFORMADO, D.O.F. 18 DE OCTUBRE DE 2011)</small>
 
-z) De Programación y Control.
+y) De Organización y Selección de Personal;
+
+> <small>(REFORMADO, D.O.F. 18 DE OCTUBRE DE 2011)</small>
+
+z) De Programación y Finanzas, y
+
+> <small>(ADICIONADO, D.O.F. 18 DE OCTUBRE DE 2011)</small>
+
+aa) De Informática y Telecomunicaciones.
 
 VI. Delegaciones, que podrán ser Regionales, Estatales o Locales.
 
@@ -351,7 +363,9 @@ I. Acordar, con el Vicepresidente de su adscripción, los asuntos de su competen
 
 II. Formular los programas de actividades y los anteproyectos de presupuesto de las áreas que integran sus unidades administrativas, así como organizar, dirigir y evaluar dichas actividades;
 
-III. Establecer criterios de actuación a seguir en el desempeño del personal de la Comisión Nacional, en relación con las funciones que les son atribuidas, así como emitir sus manuales de procedimientos;
+> <small>(REFORMADA, D.O.F. 18 DE OCTUBRE DE 2011)</small>
+
+III. Establecer los criterios administrativos de actuación a seguir en el desempeño del personal de la Unidad Administrativa a su cargo, en relación con las funciones que les son atribuidas, así como emitir sus manuales de procedimientos;
 
 IV. Formular, en el ámbito de su competencia, las guías y protocolos necesarios para verificar la aplicación y cumplimiento de las disposiciones que rigen el quehacer de la Comisión Nacional;
 
@@ -405,6 +419,10 @@ XIII. Formular observaciones a la aplicación de las comisiones que cobren las s
 
 XIV. Vigilar el comportamiento de las comisiones o cargos máximos y mínimos que cobren las sociedades financieras de objeto múltiple, entidades no reguladas, por las operaciones y servicios que presten, para darlos a conocer al público en general;
 
+> <small>(ADICIONADA, D.O.F. 18 DE OCTUBRE DE 2011)</small>
+
+XIV Bis. Diseñar, desarrollar, administrar y optimizar el sitio web de la Comisión Nacional, en coordinación con las áreas técnicas correspondientes;
+
 XV. Solicitar y analizar la información que reporten las áreas de atención a Usuarios, respecto de los servicios proporcionados por la Comisión Nacional a los Usuarios, así como elaborar los análisis estadísticos que deriven de esa información;
 
 XVI. Elaborar y presentar sobre bases estadísticas, informes para la Junta, la Presidencia y Vicepresidencias de la Comisión Nacional sobre la información que proporcionen mensualmente las unidades de la Comisión Nacional que otorguen servicios a los Usuarios, así como la que se derive de las Unidades Especializadas de atención a Usuarios de las Instituciones Financieras, fungiendo, para este fin, como unidad concentradora de esta información;
@@ -417,7 +435,9 @@ XIX. Establecer los criterios para evaluar la información que reporten las áre
 
 XX. Proporcionar información sobre la situación de los servicios que prestan las Instituciones Financieras y sus niveles de atención;
 
-XXI. Formular, desarrollar, implementar y actualizar los procesos de atención a Usuarios y manuales de procedimientos correspondientes, en coordinación con las unidades administrativas correspondientes, turnándolos a la Dirección General de Personal y Organización para su registro y difusión;
+> <small>(REFORMADA, D.O.F. 18 DE OCTUBRE DE 2011)</small>
+
+XXI. Formular, desarrollar, implementar y actualizar los procesos de atención a Usuarios y manuales de procedimientos inherentes, en coordinación con las unidades administrativas correspondientes, turnándolos a la Dirección General de Personal y Organización para su registro y difusión;
 
 XXII. Diseñar, desarrollar, administrar, actualizar y optimizar los sistemas y herramientas automatizados que soportan las operaciones de las áreas técnicas y de atención a Usuarios, así como capacitar al personal que los aplique;
 
@@ -435,75 +455,71 @@ XXVIII. Recibir el aviso de constitución de las Instituciones Financieras con e
 
 XXIX. Establecer y mantener actualizado el Registro Público de Usuarios que no deseen que su información sea utilizada para fines mercadotécnicos o publicitarios, así como emitir sus reglas de operación.
 
-Las atribuciones establecidas en el presente artículo serán ejercidas directamente por el Director General o por los Directores de su adscripción, según el ámbito de su competencia: el de Valuación y Desarrollo Financiero, las contenidas en las fracciones I a XIV; el de Información y Desarrollo Estadístico, las contenidas en las fracciones I a IV y XV a XX, y el de Desarrollo y Evaluación del Proceso Operativo, las contenidas en las fracciones I a IV y XXI a XXIX.
+> <small>(REFORMADO, D.O.F. 18 DE OCTUBRE DE 2011)</small>
+
+Las atribuciones establecidas en el presente artículo serán ejercidas directamente por el Director General o por los Directores de su adscripción, según el ámbito de su competencia: el de Valuación y Desarrollo Financiero, las contenidas en las fracciones I a XIV Bis; el de Información y Desarrollo Estadístico, las contenidas en las fracciones I a IV y XV a XX, y el de Desarrollo y Evaluación del Proceso Operativo, las contenidas en las fracciones I a IV y XXI a XXIX.
+
+> <small>(REFORMADO, D.O.F. 18 DE OCTUBRE DE 2011)</small>
 
 ###### Artículo 15.
 
 Corresponde a la Dirección General de Educación Financiera, el ejercicio de las siguientes atribuciones:
 
-I. Actuar como enlace con las instituciones financieras, dependencias y entidades de la Administración Pública Federal, en asuntos relacionados con el ejercicio de sus atribuciones;
+I. Actuar como enlace con las instituciones financieras, dependencias y entidades de la Administración Pública Federal y organismos internacionales, en asuntos relacionados con el ejercicio de sus atribuciones;
 
-II. Hacer del conocimiento del público en general, las características de los productos y servicios que ofrecen las instituciones financieras que operan en el país, a fin de promover el desarrollo de una cultura financiera;
+II. Ser el enlace de la Comisión Nacional y fungir como Secretario Técnico del Comité de Educación Financiera que preside la Secretaría;
 
-III. Publicar cuadros comparativos sobre los precios y comisiones que se cargan al Usuario por los diferentes productos y servicios financieros;
+III. Difundir los precios, comisiones y características de los servicios y productos financieros, con la finalidad de apoyar a los Usuarios en la toma de decisiones y fomentar la competencia entre Instituciones Financieras;
 
-IV. Realizar y publicar investigaciones y estudios comparativos sobre diferentes productos o servicios del sector financiero, la protección a los Usuarios y la educación financiera;
+IV. Realizar, coordinar y publicar investigaciones y estudios sobre productos y servicios financieros, educación financiera y protección a los Usuarios;
 
-V. Analizar los productos y servicios financieros existentes en el mercado nacional, con la finalidad de diseñar, y en su caso, desarrollar, en conjunto con la Dirección General de Desarrollo Financiero, Estadístico y Operativo, las herramientas que permitan conocer a los Usuarios sus características y funcionamiento;
+V. Diseñar e instrumentar propuestas y estrategias que faciliten a la población en general, la comprensión de las características de los servicios y productos financieros que se ofrecen en el mercado;
 
-VI. Diseñar y realizar o, en su caso, contratar y coordinar la ejecución de encuestas y estudios de opinión sobre diferentes temas relacionados con el sector financiero, protección de los Usuarios y educación financiera;
+VI. Desarrollar y, en su caso, coadyuvar junto con otras instituciones públicas y privadas en la realización de acciones y proyectos que contribuyan al fomento de la educación financiera;
 
-VII. Desarrollar y, en su caso, coadyuvar junto con otras instituciones en la realización de acciones o proyectos que contribuyan al fomento de la cultura financiera;
+VII. Establecer y mantener relaciones con instituciones educativas, financieras, medios de comunicación, autoridades y organismos públicos y privados, y organismos internacionales, con la finalidad de fomentar la educación financiera;
 
-VIII. Coordinar la promoción de la cultura financiera, a través de medios electrónicos, informáticos o impresos;
+VIII. Proponer a las autoridades competentes, programas y contenidos en materia de educación financiera;
 
-IX. Establecer y mantener relaciones con instituciones educativas, financieras, medios de comunicación, autoridades y organismos públicos y privados, con la finalidad de fomentar la cultura financiera;
+IX. Coordinar y ejecutar el Programa anual de publicaciones de la Comisión Nacional;
 
-X. Proponer a la Secretaría de Educación Pública o, en su caso, a las autoridades competentes, programas y contenidos relativos a la educación financiera;
+X. Diseñar y administrar herramientas web que difundan información o contenidos en materia de educación financiera;
 
-XI. Planear y desarrollar el Programa anual de publicaciones de la Comisión Nacional;
+XI. Administrar y actualizar el Sitio Web de Cuadros Comparativos de servicios y productos financieros de la Comisión Nacional
 
-XII. Diseñar, desarrollar, administrar y optimizar el sitio web de la Comisión Nacional, en coordinación con las áreas técnicas correspondientes;
+XII. Coordinar el Consejo Editorial de la revista “Proteja su Dinero”;
 
-XIII. Coordinar el Consejo Editorial de la revista “Proteja su Dinero”;
+XIII. Elaborar investigaciones, entrevistas, crónicas, reportajes y otros productos periodísticos para la revista “Proteja su Dinero”;
 
-XIV. Elaborar investigaciones, encuestas, entrevistas, crónicas, reportajes y otros productos periodísticos para la revista Proteja su dinero;
+XIV. Planear y coordinar la realización de eventos para difundir y promover la educación financiera entre la población;
 
-XV. Planear y coordinar la realización de la Semana Nacional de Educación Financiera;
+XV. Participar y promover la realización de foros nacionales e internacionales cuyo objeto sea acorde con el de la Comisión Nacional, a fin de facilitar el intercambio de experiencias;
 
-XVI. Coordinar la participación de la Comisión Nacional en exhibición itinerante “Finanzas y Bienestar: el ciclo de la vida”;
+XVI. Planear y ejecutar los programas de difusión y comunicación social de la Comisión Nacional;
 
-XVII. Coordinar la participación en eventos, ferias y exposiciones y seleccionar aquellas que contribuyan a la difusión de las acciones y funciones de la Comisión Nacional;
+XVII. Establecer y mantener vínculos con los distintos medios de comunicación, a fin de promover entrevistas con los servidores públicos de la Comisión Nacional para la difusión de los servicios y acciones relevantes del Organismo;
 
-XVIII. Promover, en el ámbito de su competencia, la realización de foros nacionales e internacionales cuyo objeto sea acorde con el de la Comisión Nacional;
+XVIII. Organizar y supervisar entrevistas y conferencias de prensa, así como emitir boletines informativos en las materias competencia de la Comisión Nacional;
 
-XIX. Planear y ejecutar los programas de difusión y comunicación social a través de diferentes medios;
+XIX. Evaluar las campañas informativas de la Comisión Nacional;
 
-XX. Establecer y mantener vínculos con los distintos medios de comunicación, a fin de promover entrevistas con los servidores públicos de la Comisión Nacional para la difusión de los servicios y acciones relevantes del Organismo;
+XX. Elaborar y difundir de publicaciones institucionales, campañas informativas y cualquier otro material que contribuya al fomento de la educación financiera;
 
-XXI. Organizar y supervisar entrevistas y conferencias de prensa, así como emitir boletines informativos en las materias competencia de la Comisión Nacional;
+XXI. Dar seguimiento a la información divulgada por los medios de comunicación acerca de las actividades de la Comisión Nacional, informando de ello a las unidades administrativas de la misma;
 
-XXII. Coordinar con las diversas unidades administrativas de la Comisión Nacional, la publicación y divulgación de la información periódica que de acuerdo con sus atribuciones, les corresponda generar;
+XXII. Coordinar la distribución de las publicaciones desarrolladas por la Comisión Nacional para el cumplimiento de sus fines, y
 
-XXIII. Evaluar las campañas informativas de la Comisión Nacional;
+XXIII. Diseñar y desarrollar estrategias que permitan consolidar la imagen y posicionamiento de la Comisión Nacional ante la población en general.
 
-XXIV. Intervenir en la contratación y supervisión de los prestadores de servicios necesarios para la elaboración y difusión de publicaciones institucionales, campañas informativas y cualquier otro material que contribuya al fomento de la cultura financiera;
-
-XXV. Dar seguimiento a la información divulgada por los medios de comunicación acerca de las actividades de la Comisión Nacional, informando de ello a las unidades administrativas de la misma;
-
-XXVI. Distribuir libros, ordenamientos, revistas, folletos y demás publicaciones de la Comisión Nacional;
-
-XXVII. Diseñar y desarrollar estrategias que permitan consolidar la imagen y posicionamiento de la Comisión Nacional, ante el público usuario, y
-
-XXVIII. Optimizar el uso de las tecnologías de la información para aprovechar nuevos canales de comunicación que beneficien a los Usuarios de servicios financieros.
-
-Las atribuciones establecidas en el presente artículo serán ejercidas directamente por el Director General o por los Directores de su adscripción, según el ámbito de su competencia: el de Análisis de Servicios y Productos Financieros, las contenidas en las fracciones I a VI; el de Promoción y Desarrollo Educativo, las contenidas en las fracciones I y VII a XVIII, y el de Comunicación Social, las contenidas en las fracciones XIX a XXVIII.
+Las atribuciones establecidas en el presente artículo serán ejercidas directamente por el Director General o por los Directores de su adscripción, según el ámbito de su competencia: el de Análisis de Servicios y Productos Financieros, las contenidas en las fracciones I, III a V, VII, X, XI, XIII y XV; el de Promoción y Desarrollo Educativo, las contenidas en las fracciones I, II, V a VIII, X, XII a XV, y XX; el de Comunicación Social, las contenidas en las fracciones IX, y XVI a XXIII.
 
 ###### Artículo 16.
 
 Corresponde a la Dirección General de Evaluación y Vigilancia, el ejercicio de las siguientes atribuciones:
 
-I. Llevar a cabo los programas anuales de análisis y evaluación en materia de vigilancia de los diferentes sectores y productos financieros;
+> <small>(REFORMADA, D.O.F. 18 DE OCTUBRE DE 2011)</small>
+
+I. Llevar a cabo los programas anuales de supervisión, análisis y evaluación en materia de vigilancia de los diferentes sectores y productos financieros;
 
 II. Establecer los programas de transparencia financiera y calidad de la información respecto al análisis, evaluación y dictaminación de contratos de adhesión, publicidad, estados de cuenta y comprobantes de operación de las Instituciones Financieras;
 
@@ -519,7 +535,9 @@ VII. Emitir las recomendaciones correspondientes a las autoridades competentes, 
 
 VIII. Resolver las consultas que se presenten sobre transparencia financiera y calidad de la información;
 
-IX. Analizar y, en su caso, proponer modificaciones a las Instituciones Financieras en los aspectos técnicos de los contratos de adhesión;
+> <small>(REFORMADA, D.O.F. 18 DE OCTUBRE DE 2011)</small>
+
+IX. Analizar y, en su caso, proponer modificaciones a las Instituciones Financieras en los aspectos técnicos y financieros establecidos en los contratos de adhesión;
 
 X. Proponer modificaciones a las Instituciones Financieras en el contenido obligacional de los contratos de adhesión, previa opinión de la Dirección General de Servicios Legales;
 
@@ -549,9 +567,19 @@ XXII. Solicitar, previa opinión de la Dirección General de Servicios Legales, 
 
 XXIII. Fungir como Titular de la Unidad de Enlace coordinando las actividades de atención y resolución a las solicitudes de acceso a la información pública gubernamental que se reciban en la Comisión Nacional, en términos de (sic) Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental;
 
-XXIV. Establecer, en coordinación con la Dirección General de Dictaminación y Supervisión, el Programa Anual de Supervisión, con base en los lineamientos que al efecto emita la Comisión Nacional;
+> <small>(REFORMADA, D.O.F. 18 DE OCTUBRE DE 2011)</small>
+
+XXIV. Establecer, en coordinación con la Dirección General de Dictaminación y Supervisión, el Programa Anual de Supervisión de las Sociedades Financieras de Objeto Múltiple, Entidades No Reguladas, con base en los lineamientos que al efecto emita la Comisión Nacional;
 
 XXV. Proponer a la Dirección General de Dictaminación y Supervisión, la realización de visitas de inspección especiales, así como visitas de verificación especiales;
+
+> <small>(ADICIONADA, D.O.F. 18 DE OCTUBRE DE 2011)</small>
+
+XXV Bis. Solicitar a la Comisión Nacional Bancaria y de Valores, en coordinación con la Dirección General de Dictaminación y Supervisión, la realización de visitas de inspección ordinarias y especiales a las Instituciones Financieras, así como el resultado que se obtenga con motivo de dichas visitas;
+
+> <small>(ADICIONADA, D.O.F. 18 DE OCTUBRE DE 2011)</small>
+
+XXV Ter. Proponer a la Dirección General de Educación Financiera, los temas sobre transparencia financiera a difundir entre los Usuarios.
 
 XXVI. Ordenar, previa opinión de la Dirección General de Servicios Legales, las medidas preventivas y correctivas, así como los programas de cumplimiento forzoso respectivos, que deberán llevar a cabo las Instituciones Financieras, con motivo de las observaciones e irregularidades derivadas de la supervisión realizada por la Comisión Nacional;
 
@@ -563,6 +591,8 @@ XXIX. Solicitar a la Dirección General de Servicios Legales la orden de suspens
 
 Las atribuciones establecidas en el presente artículo serán ejercidas directamente por el Director General o por los Directores de su adscripción, según el ámbito de su competencia: el de Evaluación de Productos de Crédito y Captación, las contenidas en las fracciones I, II, V a XX, XXII y XXVI y XXIX; el de Evaluación de Productos de Seguros, Fianzas y Ahorro, las contenidas en las fracciones I, II, V a XII, XV a XVIII, XX, XXII y XXIII, y el de Vigilancia, Cumplimiento y Enlace con Autoridades, las contenidas en las fracciones I, III a VII, XX, XXI, XXIV a XXVIII.
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 9 DE NOVIEMBRE DE 2011 EN EL D.O.F., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA, ASÍ COMO EL ARCHIVO ANEXO.</small>
+
 ###### Artículo 17.
 
 Corresponde a la Dirección General de Dictaminación y Supervisión el ejercicio de las siguientes atribuciones:
@@ -573,17 +603,25 @@ II. Coadyuvar con la Dirección General de Evaluación y Vigilancia en el establ
 
 III. Realizar las visitas de verificación a las sociedades financieras de objeto múltiple, entidades no reguladas, conforme al Programa Anual de Supervisión de la Comisión Nacional;
 
-IV. Solicitar a la Comisión Nacional Bancaria y de Valores, de conformidad con las disposiciones legales aplicables, las visitas de inspección a las Instituciones Financieras, conforme al Programa Anual de Supervisión de la Comisión Nacional;
+> <small>(REFORMADA, D.O.F. 18 DE OCTUBRE DE 2011)</small>
+
+III (SIC). Solicitar a la Comisión Nacional Bancaria y de Valores, en coordinación con la Dirección General de Evaluación y Vigilancia, la realización de visitas de inspección ordinarias y especiales a las Instituciones Financieras, así como el resultado que se obtenga con motivo de dichas visitas;
 
 V. Requerir a las Delegaciones la realización de visitas de verificación a las sociedades financieras de objeto múltiple, entidades no reguladas;
 
 VI. Determinar, en coordinación con la Dirección General de Evaluación y Vigilancia, la realización de visitas de inspección especiales, así como visitas de verificación especiales;
 
-VII. Investigar hechos, actos u omisiones de los cuales pueda presumirse la violación a disposiciones cuya supervisión se encuentre conferida a la Comisión Nacional;
+> <small>(REFORMADA, D.O.F. 18 DE OCTUBRE DE 2011)</small>
+
+VII. Recabar, durante las visitas de verificación que realice, elementos que sirvan para acreditar hechos, actos u omisiones de los cuales pueda presumirse la violación a disposiciones cuya supervisión se encuentre conferida a la Comisión Nacional;
 
 VIII. Expedir y notificar los oficios de comisión para el ejercicio de las atribuciones previstas en las fracciones III y V anteriores;
 
 IX. Aprobar el informe general de las visitas efectuadas por cada Verificador;
+
+> <small>(ADICIONADA, D.O.F. 18 DE OCTUBRE DE 2011)</small>
+
+IX Bis. Enviar a la Dirección General de Evaluación y Vigilancia, los resultados de las acciones realizadas en ejercicio de la facultad de verificación;
 
 X. Constatar que cada Institución Financiera informe que cuenta con una Unidad Especializada de atención a los Usuarios y con personal adscrito a dicha Unidad Especializada en cada Estado de la República Mexicana donde realice operaciones, para lo cual podrá auxiliarse de las Delegaciones;
 
@@ -591,9 +629,9 @@ XI. Establecer, en coordinación con la Dirección General de Desarrollo Financi
 
 XII. Vigilar y requerir el cumplimiento de lo dispuesto por el artículo 50 bis de la Ley;
 
-XIII. Desechar, previo acuerdo con el Vicepresidente Jurídico, por notoriamente improcedentes las solicitudes de los acuerdos de trámite previstos en el artículo 68 Bis de la Ley, cuando no se cumplan los requisitos y cuantías establecidos en dicho precepto legal;
+XIII. (DEROGADA, D.O.F. 18 DE OCTUBRE DE 2011)
 
-XIV. Emitir los acuerdos de trámite que contengan el dictamen o la determinación de improcedencia, previa resolución del Comité de Dictámenes;
+XIV. (DEROGADA, D.O.F. 18 DE OCTUBRE DE 2011)
 
 XV. Administrar los sistemas empleados por las Unidades Especializadas de las Instituciones Financieras para enviar la información relativa a su constitución y el número de consultas y reclamaciones recibidas; así como capacitar al personal de las mismas en la utilización de dichos sistemas;
 
@@ -605,25 +643,55 @@ XVIII. Verificar que el procedimiento de conciliación se lleve a cabo en la for
 
 XIX. Autorizar a las Delegaciones la admisión a trámite de las reclamaciones que sean presentadas en contra de las Instituciones Financieras, así como determinar si procede ordenar la constitución e inversión de la reserva técnica de las instituciones y sociedades mutualistas de seguros, de conformidad con los criterios que establezca la Vicepresidencia Jurídica;
 
-XX. Notificar los actos, acuerdos y resoluciones que se deriven de los procedimientos que le corresponda conocer y que deban hacerse del conocimiento de las partes;
+> <small>(REFORMADA, D.O.F. 18 DE OCTUBRE DE 2011)</small>
 
-XXI. Remitir a la Dirección General de Servicios Legales, en un plazo que no excederá de diez días hábiles contados a partir del día siguiente a aquél en que haya tenido conocimiento de la infracción de que se trate, los casos en los que presuntamente se ha contravenido la Ley o aquellas disposiciones cuyo incumplimiento corresponda sancionar a la Comisión Nacional, para efectos de que se emplace e imponga la multa correspondiente;
+XX. Desechar las solicitudes de emisión de acuerdos der (sic) trámite que contengan el dictamen, cuando sean notoriamente improcedentes cuando no cumplan con los requisitos y cuantías que establece el artículo 68 Bis de la Ley;
 
-XXII. Turnar a la Dirección General de Servicios Legales, en un plazo no mayor a cinco días hábiles, contados a partir del día siguiente a aquél en que los haya recibido, los recursos de revisión con el expediente respectivo para su substanciación, y desechar por improcedentes aquellos que se refieran a actos distintos a los que prevé el artículo 99 de la Ley; 50 de la Ley para la Transparencia y Ordenamiento de los Servicios Financieros y 110 de la Ley de Instituciones de Crédito, según corresponda;
+> <small>(REFORMADA, D.O.F. 18 DE OCTUBRE DE 2011)</small>
 
-XXIII. Elaborar la información estadística relacionada con los servicios proporcionados conforme a sus atribuciones, para su remisión a la Dirección General de Desarrollo Financiero y Operativo;
+XXI. Emitir los acuerdos de trámite que contengan el dictamen o los que, previo acuerdo del Comité de Dictámenes, contengan la determinación de improcedencia;
 
-XXIV. Formular, en coordinación con la Dirección General de Servicios Legales, las políticas y lineamientos que se deberán observar en relación con las funciones de la Comisión Nacional que le son atribuidas;
+> <small>(REFORMADA, D.O.F. 18 DE OCTUBRE DE 2011)</small>
+
+XXII. Solicitar a los Usuarios y a las Instituciones Financieras información para allegarse de elementos en términos del artículo 68 Bis 1, de la Ley;
+
+> <small>(REFORMADA, D.O.F. 18 DE OCTUBRE DE 2011)</small>
+
+XXIII. Asesorar a las Delegaciones sobre la documentación e información que los expedientes habrán de contener para la elaboración de los dictámenes solicitados por los Usuarios;
+
+> <small>(REFORMADA, D.O.F. 18 DE OCTUBRE DE 2011)</small>
+
+XXIV. Dar seguimiento a los acuerdos de trámite que contengan el Dictamen o determinación de improcedencia, y asesorar a los Usuarios, respecto del contenido de dichos acuerdos, mediante comunicación directa con los Usuarios, por vía telefónica, personal, o mediante el portal electrónico de dictámenes del sitio oficial de la Comisión Nacional;
+
+> <small>(REFORMADA, D.O.F. 18 DE OCTUBRE DE 2011)</small>
 
 XXV. Convocar a las sesiones del Comité de Dictámenes;
 
-XXVI. Fungir como Secretario del Comité a que se refiere la fracción anterior, y
+> <small>(REFORMADA, D.O.F. 18 DE OCTUBRE DE 2011)</small>
 
-XXVII. Enviar a la Dirección General de Evaluación y Vigilancia, con base en los lineamientos que emita la Comisión Nacional, los resultados de las acciones realizadas en ejercicio de la facultad de verificación, así como de las visitas de inspección efectuadas por la Comisión Nacional Bancaria y de Valores.
+XXVI. Fungir como Secretario del Comité a que se refiere la fracción anterior;
 
-Las atribuciones establecidas en el presente artículo serán ejercidas directamente por el Director General o por los Directores de su adscripción, según el ámbito de su competencia: el de Dictaminación, las contenidas en las fracciones I, XIII, XIV, XX, XXIII a XXVI, y el de Verificación, Control Normativo y Unidades Especializadas, las contenidas en las fracciones I a XII, XV a XXII, XXIV y XXVII.
+> <small>(REFORMADA, D.O.F. 18 DE OCTUBRE DE 2011)</small>
 
-Sin perjuicio de lo anterior, las atribuciones establecidas en las fracciones I, III, VII y XX, serán ejercidas igualmente por el Subdirector de Verificación o por los verificadores adscritos a esta Dirección General.
+XXVII. Notificar los actos, acuerdos y resoluciones que se deriven de los procedimientos que le corresponda conocer y que deban hacerse del conocimiento de las partes;
+
+> <small>(ADICIONADA, D.O.F. 18 DE OCTUBRE DE 2011)</small>
+
+XXVIII. Remitir a la Dirección General de Servicios Legales, en un plazo que no excederá de diez días hábiles contados a partir del día siguiente a aquél en que haya tenido conocimiento de la infracción de que se trate, los casos en los que presuntamente se ha contravenido la Ley o aquellas disposiciones cuyo incumplimiento corresponda sancionar a la Comisión Nacional, para efectos de que se emplace e imponga la multa correspondiente;
+
+> <small>(ADICIONADA, D.O.F. 18 DE OCTUBRE DE 2011)</small>
+
+XXIX. Turnar a la Dirección General de Servicios Legales, en un plazo no mayor a cinco días hábiles, contados a partir del día siguiente a aquél en que los haya recibido, los recursos de revisión con el expediente respectivo para su substanciación, y desechar por improcedentes aquellos que se refieran a actos distintos a los que prevé el artículo 99 de la Ley; 50 de la Ley para la Transparencia y Ordenamiento de los Servicios Financieros y 110 de la Ley de Instituciones de Crédito, según corresponda, y
+
+> <small>(ADICIONADA, D.O.F. 18 DE OCTUBRE DE 2011)</small>
+
+XXX. Elaborar la información estadística relacionada con los servicios proporcionados conforme a sus atribuciones, para su remisión a la Dirección General de Desarrollo Financiero y Operativo.
+
+> <small>(REFORMADO, D.O.F. 18 DE OCTUBRE DE 2011)</small>
+
+Las atribuciones establecidas en el presente artículo serán ejercidas directamente por el Director General o por los Directores de su adscripción, según el ámbito de su competencia: el de Dictaminación, las contenidas en las fracciones I y de la XX a XVI, y el de Verificación, Control Normativo y Unidades Especializadas, las contenidas en las fracciones I a XVIII.
+
+> <small>(DEROGADO ULTIMO PARRAFO, D.O.F. 18 DE OCTUBRE DE 2011)</small>
 
 ###### Artículo 18.
 
@@ -673,7 +741,9 @@ XXI. Representar a la Comisión Nacional en los comités técnicos de los fideic
 
 XXII. Solicitar a las instituciones financieras y autoridades competentes, la información y/o documentación necesarias para desempeñar adecuadamente las funciones que le competen;
 
-XXIII. Atender y resolver las consultas de las Instituciones Financieras y de los Usuarios, en coordinación con la Dirección General de Servicios Legales en materia jurídica; o bien, en coordinación con la Dirección General de Desarrollo Financiero, Estadístico y Operativo en materia financiera y contable;
+> <small>(REFORMADA, D.O.F. 18 DE OCTUBRE DE 2011)</small>
+
+XXIII. Atender y resolver las consultas de las Instituciones Financieras y de los Usuarios y en coordinación con la Dirección General de Desarrollo Financiero, Estadístico y Operativo en materia financiera y contable;
 
 XXIV. Recibir y tramitar las solicitudes de los Usuarios que se presuman beneficiarios de algún seguro de vida, ya sean individuales o colectivos, incluyendo aquellos que se obtienen por la contratación de productos y servicios financieros;
 
@@ -685,17 +755,21 @@ XXVII. Elaborar la información estadística relacionada con los servicios propo
 
 XXVIII. Remitir a la Dirección General de Servicios Legales, en un plazo que no excederá de 10 días hábiles contados a partir del día siguiente a aquél en que haya tenido conocimiento de la infracción de que se trate, los casos en los que presuntamente se ha contravenido la Ley o aquellas disposiciones cuyo incumplimiento corresponda sancionar a la Comisión Nacional, para efectos de que se emplace e imponga la multa correspondiente;
 
-XXIX. Formular, en coordinación con la Dirección General de Servicios Legales, las políticas y lineamientos que se deberán observar en relación con las funciones de la Comisión Nacional que le son atribuidas, y
+XXIX. (DEROGADA, D.O.F. 18 DE OCTUBRE DE 2011)
 
 XXX. Denunciar ante las autoridades competentes los hechos, actos u omisiones que constituyan violaciones administrativas en perjuicio de los Usuarios.
 
-Las atribuciones establecidas en el presente artículo serán ejercidas directamente por el Director General o por los Directores de su adscripción, según el ámbito de su competencia: el Consultivo, las contenidas en las fracciones I, III, VI, VII, XI, XVI y XXII a XXIX; el de Defensa a Usuarios, las contenidas en las fracciones II, III a V, VIII a X, XII, XV a XVII, XXII, XXVI, XXVII y XXIX, y el de Interventoría y Asuntos Penales, las contenidas en las fracciones III, XI, XIII, XIV, XVI, XVIII a XXII, XXVI, XXVII y XXIX.
+> <small>(REFORMADO, D.O.F. 18 DE OCTUBRE DE 2011)</small>
+
+Las atribuciones establecidas en el presente artículo serán ejercidas directamente por el Director General o por los Directores de su adscripción, según el ámbito de su competencia: el Consultivo, las contenidas en las fracciones I, III, VI, VII, XI, XVI y XXII a XXVIII; el de Defensa a Usuarios, las contenidas en las fracciones II, III a V, VIII a X, XII, XV a XVII, XXII, XXVI y XXVII, y el de Interventoría y Asuntos Penales, las contenidas en las fracciones III, XI, XIII, XIV, XVI, XVIII a XXII, XXVI y XXVII.
 
 ###### Artículo 19.
 
 Corresponde a la Dirección General de Servicios Legales el ejercicio de las siguientes atribuciones:
 
-I. Apoyar a la Vicepresidencia Jurídica en su carácter de consejero jurídico de la Comisión Nacional, y proporcionar apoyo y asesoría jurídica a las diversas unidades administrativas del organismo;
+> <small>(REFORMADA, D.O.F. 18 DE OCTUBRE DE 2011)</small>
+
+I. Actuar como consejero jurídico de la Comisión Nacional, y proporcionar apoyo y asesoría jurídica a las diversas unidades administrativas del organismo;
 
 II. Actuar como enlace y atender los comunicados, requerimientos y consultas emitidos por las dependencias y entidades de la Administración Pública Federal en asuntos de carácter jurídico;
 
@@ -741,9 +815,13 @@ XXII. Dictaminar las políticas, lineamientos, procedimientos, criterios y demá
 
 XXIII. Gestionar la publicación en el Diario Oficial de la Federación de las disposiciones, resoluciones o avisos que deban emitirse conforme a la Ley, la Ley General de Organizaciones y Actividades Auxiliares del Crédito, la Ley para la Transparencia y Ordenamiento de los Servicios Financieros, este Estatuto Orgánico y demás disposiciones aplicables, con excepción de aquellas que correspondan a la Dirección General de Bienes y Servicios;
 
-XXIV. Tener a su cargo la representación legal de la Comisión Nacional para intervenir en los procedimientos judiciales, administrativos o laborales en los que ésta sea parte o pueda resultar afectada, ejecutando las acciones y oponiendo excepciones y defensas, así como interponer los recursos que procedan y, en su caso, desistirse de éstos. La presente atribución tiene los efectos y alcances jurídicos del acuerdo delegatorio que se establece en la Ley;
+> <small>(REFORMADA, D.O.F. 18 DE OCTUBRE DE 2011)</small>
 
-XXV. Representar a la Comisión Nacional en los juicios de amparo e intervenir en éstos cuando el organismo tenga el carácter de tercero perjudicado, elaborar los informes previos y justificados, así como interponer los recursos correspondientes y proveer el cumplimiento de las ejecutorias. La presente atribución tiene los efectos y alcances jurídicos del acuerdo delegatorio que se establece en la Ley;
+XXIV. Tener a su cargo la representación legal de la Comisión Nacional para intervenir en los procedimientos judiciales, administrativos o laborales en los que ésta sea parte o pueda resultar afectada, ejecutando las acciones y oponiendo excepciones y defensas, así como interponer los recursos que procedan y, en su caso, desistirse de éstos;
+
+> <small>(REFORMADA, D.O.F. 18 DE OCTUBRE DE 2011)</small>
+
+XXV. Representar a la Comisión Nacional en los juicios de amparo e intervenir en éstos cuando el organismo tenga el carácter de tercero perjudicado, elaborar los informes previos y justificados, así como interponer los recursos correspondientes y proveer el cumplimiento de las ejecutorias;
 
 XXVI. Denunciar ante el Ministerio Público, cuando se tenga conocimiento de hechos que puedan ser constitutivos de delitos en general y ante la Secretaría cuando se trate de delitos tipificados en leyes que establezcan que el delito se persiga a petición de dicha Secretaría, siempre y cuando se encuentre dentro del ámbito de competencia de la Comisión Nacional;
 
@@ -785,13 +863,25 @@ XLIV. Opinar, previa solicitud de la Dirección General de Evaluación y Vigilan
 
 XLV. Dar vista a la Comisión Federal de Competencia, cuando en el ejercicio de sus facultades detecten la existencia de alguna de las prácticas mencionadas en el artículo 119 de la Ley de Instituciones de Crédito, y (sic)
 
-XLVI. Formular, en coordinación con el Vicepresidente Jurídico, las políticas, lineamientos y demás normativa que se deberá observar en relación con las funciones de la Comisión Nacional que le son atribuidas, en diversos ordenamientos;
+> <small>(REFORMADA, D.O.F. 18 DE OCTUBRE DE 2011)</small>
 
-XLVII. Ordenar, previa solicitud de la Dirección General de Evaluación y Vigilancia, la suspensión de la celebración de nuevas operaciones y servicios similares a las Entidades Financieras, en los casos previstos en el artículo 13 Bis de la Ley para la Transparencia y Ordenamiento de los Servicios Financieros, y
+XLVI. Formular, en coordinación con el Vicepresidente Jurídico, las políticas, lineamientos, criterios, y demás normativa que se deberá observar en relación con las funciones de la Comisión Nacional que le son atribuidas, en diversos ordenamientos;
 
-XLVIII. Ordenar la suspensión, inhabilitación o remoción de los funcionarios, empleados o apoderados de las Entidades Financieras que sean responsables de las infracciones previstas en los artículos 43 y 43 Bis de la Ley para la Transparencia y Ordenamiento de los Servicios Financieros.
+> <small>(REFORMADA, D.O.F. 18 DE OCTUBRE DE 2011)</small>
 
-Las atribuciones establecidas en el presente artículo serán ejercidas directamente por el Director General o por los Directores de su adscripción, según el ámbito de su competencia: el de Disposiciones, Convenios y Contratos, las contenidas en las fracciones I a XXIII, XXXI a XXXIII, XLII, XLIII y XLVI; el de Recursos de Revisión, las contenidas en las fracciones XXX a XXXIII; el Contencioso, las contenidas en las fracciones XXIV a XXIX y XXXI a XXXIII, y el de Arbitraje y Sanciones, las contenidas en las fracciones XXXI a XLI, XLVII y XLVIII.
+XLVII. Ordenar, previa solicitud de la Dirección General de Evaluación y Vigilancia, la suspensión de la celebración de nuevas operaciones y servicios similares a las Entidades Financieras, en los casos previstos en el artículo 13 Bis de la Ley para la Transparencia y Ordenamiento de los Servicios Financieros;
+
+> <small>(REFORMADA, D.O.F. 18 DE OCTUBRE DE 2011)</small>
+
+XLVIII. Ordenar la suspensión, inhabilitación o remoción de los funcionarios, empleados o apoderados de las Entidades Financieras que sean responsables de las infracciones previstas en los artículos 43 y 43 Bis de la Ley para la Transparencia y Ordenamiento de los Servicios Financieros, y
+
+> <small>(ADICIONADA, D.O.F. 18 DE OCTUBRE DE 2011)</small>
+
+XLIX. Substanciar el Procedimiento de Responsabilidad Patrimonial del Estado, de conformidad con la Ley de la materia y la Ley Federal de Procedimiento Administrativo.
+
+> <small>(REFORMADO, D.O.F. 18 DE OCTUBRE DE 2011)</small>
+
+Las atribuciones establecidas en el presente artículo serán ejercidas directamente por el Director General o por los Directores de su adscripción, según el ámbito de su competencia: el de Disposiciones, Convenios, Contratos y Recursos de Revisión, las contenidas en las fracciones I a XVII, XIX a XXIII, XXX a XXXIII, XLII, XLIII y XLVI; el Contencioso, las contenidas en las fracciones XVIII, XXIV a XXIX, XXXI a XXXIII y XLIX, y el de Arbitraje y Sanciones, las contenidas en las fracciones XXXI a XLI, XLVII y XLVIII.
 
 ###### Artículo 20.
 
@@ -873,7 +963,9 @@ XV. Formular, proponer, instrumentar, ejecutar, controlar y evaluar los programa
 
 XVI. Vigilar el cumplimiento de la normativa en materia de organización y conservación de archivos.
 
-Las atribuciones establecidas en el presente artículo serán ser ejercidas directamente por el Director General o por los Directores de su adscripción, según el ámbito de su competencia: el de Adquisiciones, las contenidas en las fracciones I a X y XIV; el de Servicios Generales, las contenidas en las fracciones XI a XIV, y el de Gestión y Control Documental, las contenidas en las fracciones XIV a XVI.
+> <small>(REFORMADO, D.O.F. 18 DE OCTUBRE DE 2011)</small>
+
+Las atribuciones establecidas en el presente artículo serán ser (sic) ejercidas directamente por el Director General o por los Directores de su adscripción, según el ámbito de su competencia: el de Adquisiciones, las contenidas en las fracciones I a X; el de Servicios Generales, las contenidas en las fracciones XI a XIII, y el de Gestión y Control Documental, las contenidas en las fracciones XIV a XVI.
 
 ###### Artículo 22.
 
@@ -881,17 +973,27 @@ Corresponde a la Dirección General de Personal y Organización el ejercicio de 
 
 I. Negociar y proponer, previa validación de la Dirección General de Servicios Legales, las condiciones laborales de la Comisión Nacional;
 
-II. Establecer las políticas, lineamientos y procedimientos en materia de administración y desarrollo de personal;
+> <small>(REFORMADA, D.O.F. 18 DE OCTUBRE DE 2011)</small>
 
-III. Determinar y establecer las políticas y lineamientos para los procesos de reclutamiento, selección, contratación y evaluación, así como para la readscripción del personal de la Comisión Nacional, su registro y control, y coordinar la ejecución, control y evaluación de dichos procesos;
+II. Establecer las guías en materia de administración y desarrollo de personal;
 
-IV. Coordinar la elaboración del anteproyecto de presupuesto anual y mensual del capítulo de servicios personales, así como autorizar y supervisar el ejercicio del mismo;
+> <small>(REFORMADA, D.O.F. 18 DE OCTUBRE DE 2011)</small>
 
-V. Definir y establecer las políticas para instrumentar los programas y acciones de modernización y simplificación administrativa determinados por la autoridad competente, así como coordinar la ejecución, control y evaluación de dichos programas;
+III. Determinar y establecer guías para los procesos de reclutamiento, selección, contratación y evaluación, así como para la readscripción del personal de la Comisión Nacional, su registro y control, y coordinar la ejecución, control y evaluación de dichos procesos;
+
+> <small>(REFORMADA, D.O.F. 18 DE OCTUBRE DE 2011)</small>
+
+IV. Coordinar la elaboración del anteproyecto de presupuesto anual y mensual del Capítulo de Servicios Personales, así como autorizar y supervisar el ejercicio del mismo;
+
+> <small>(REFORMADA, D.O.F. 18 DE OCTUBRE DE 2011)</small>
+
+V. Instrumentar los programas y acciones de modernización y simplificación administrativa determinados por la autoridad competente;
 
 VI. Vigilar el cumplimiento de las Condiciones Generales de Trabajo y, en general, de la normativa que rija las relaciones de trabajo de la Comisión Nacional;
 
-VII. Establecer el sistema para el control de las plazas autorizadas, conforme al catálogo de puestos de la Comisión Nacional, así como coordinar su ejecución y evaluación;
+> <small>(REFORMADA, D.O.F. 18 DE OCTUBRE DE 2011)</small>
+
+VII. Establecer el sistema para el control de las plazas autorizadas, conforme al Catálogo de Puestos de la Comisión Nacional, así como coordinar su ejecución y evaluación;
 
 VIII. Tramitar los nombramientos y remociones del personal de base y de confianza de la Comisión Nacional y, en su caso, notificar cambios de adscripción;
 
@@ -919,25 +1021,57 @@ XIX. Emitir y establecer los programas de capacitación y desarrollo del persona
 
 XX. Celebrar convenios y acuerdos, previa opinión de la Dirección General de Servicios Legales, con Instituciones de Educación Superior para la prestación del servicio social y prácticas profesionales;
 
-XXI. Planear y administrar a los prestadores de servicio social y prácticas profesionales, conjuntamente con las Unidades Administrativas de la Comisión Nacional, y (sic)
+> <small>(REFORMADA, D.O.F. 18 DE OCTUBRE DE 2011)</small>
+
+XXI. Planear y administrar a los prestadores de servicio social y prácticas profesionales, conjuntamente con las Unidades Administrativas de la Comisión Nacional;
+
+> <small>(REFORMADA, D.O.F. 18 DE OCTUBRE DE 2011)</small>
 
 XXII. Planear, controlar y administrar el presupuesto para la prestación del servicio social y prácticas profesionales;
 
 XXIII. Celebrar convenios y acuerdos, previa opinión de la Dirección General de Servicios Legales, con instituciones, organismos, empresas y entidades culturales para la ejecución de programas orientados al bienestar social y cultural de los trabajadores de la Comisión Nacional y sus familiares derechohabientes;
 
-XXIV. Coordinar la elaboración, establecimiento, ejecución, control y evaluación del programa de inducción a la Comisión Nacional y al área de trabajo del personal de nuevo ingreso;
+> <small>(REFORMADA, D.O.F. 18 DE OCTUBRE DE 2011)</small>
+
+XXIV. Coordinar la elaboración, establecimiento, ejecución, control y evaluación del Programa de Inducción a la Comisión Nacional y al área de trabajo del personal de nuevo ingreso;
 
 XXV. Detectar, en coordinación con las distintas unidades administrativas de la Comisión Nacional, las necesidades de capacitación e implementar y ejecutar el programa de trabajo;
 
-XXVI. Controlar y mantener actualizado el registro de las estructuras orgánicas y ocupacionales de la Comisión Nacional, y vigilar que sus unidades administrativas se ajusten a las mismas;
+> <small>(ADICIONADA, D.O.F. 18 DE OCTUBRE DE 2011)</small>
 
-XXVII. Desarrollar y aplicar, en coordinación con las unidades administrativas de la Comisión Nacional, el Sistema de evaluación del desempeño del personal adscrito a las mismas;
+XXV Bis. Aplicar al personal de la Comisión Nacional la encuesta de Clima y Cultura Organizacional desarrollada por la autoridad correspondiente;
 
-XXVIII. Coordinar la elaboración, actualización y difusión de los manuales administrativos de la Comisión Nacional, y
+> <small>(ADICIONADA, D.O.F. 18 DE OCTUBRE DE 2011)</small>
 
-XXIX. Coordinar las gestiones de autorización y registro de la estructura orgánica de la Comisión Nacional, ante las autoridades competentes.
+XXV Ter. Desarrollar el Programa Anual de Mejora del Clima Laboral en beneficio de los Servidores Públicos de la Comisión Nacional;
 
-Las atribuciones establecidas en el presente artículo serán ejercidas directamente por el Director General o por los Directores o Subdirector de su adscripción, según el ámbito de su competencia: el Director de Administración de Personal, las contenidas en las fracciones I, IV y VI a XVIII, el Director de Desarrollo de Personal, las contenidas en las fracciones II, IV y XIX a XXV y el Subdirector de Organización y Selección de Personal, las contenidas en las fracciones III a V y XXVI a XXIX.
+> <small>(REFORMADA, D.O.F. 18 DE OCTUBRE DE 2011)</small>
+
+XXVI. Controlar y mantener actualizado el registro de las estructuras orgánicas y ocupacionales de la Comisión Nacional, ante las autoridades competentes, y vigilar que sus unidades administrativas se ajusten a las mismas;
+
+> <small>(REFORMADA, D.O.F. 18 DE OCTUBRE DE 2011)</small>
+
+XXVII. Desarrollar y aplicar, en coordinación con las unidades administrativas de la Comisión Nacional, el Sistema de Evaluación del Desempeño del Personal adscrito a las mismas;
+
+> <small>(REFORMADA, D.O.F. 18 DE OCTUBRE DE 2011)</small>
+
+XXVIII. Coordinar la elaboración, actualización y difusión de los manuales administrativos de la Comisión Nacional;
+
+> <small>(REFORMADA, D.O.F. 18 DE OCTUBRE DE 2011)</small>
+
+XXIX. Organizar y coordinar, con la participación de las demás unidades administrativas, la implementación y actualización del Modelo Estándar de Control Interno Institucional, de conformidad con lo dispuesto en la normativa en la materia;
+
+> <small>(ADICIONADA, D.O.F. 18 DE OCTUBRE DE 2011)</small>
+
+XXX. Organizar y coordinar, con la participación de las demás unidades administrativas, la implementación y actualización del Proceso de Administración de Riesgos Institucional, de conformidad con lo dispuesto en la normativa en la materia, y
+
+> <small>(ADICIONADA, D.O.F. 18 DE OCTUBRE DE 2011)</small>
+
+XXXI. Participar con la Dirección General de Servicios Legales en la actualización del Estatuto Orgánico de la Comisión Nacional.
+
+> <small>(REFORMADO, D.O.F. 18 DE OCTUBRE DE 2011)</small>
+
+Las atribuciones establecidas en el presente artículo serán ejercidas directamente por el Director General o por los Directores de su adscripción, según el ámbito de su competencia: el Director de Administración de Personal, las contenidas en las fracciones I, IV y VI a XVIII, el Director de Desarrollo de Personal, las contenidas en las fracciones II, IV y XIX a XXV Ter y el Director de Organización y Selección de Personal, las contenidas en las fracciones III a V y XXVI a XXXI.
 
 ###### Artículo 23.
 
@@ -955,7 +1089,9 @@ V. Proponer mecanismos para simplificar y mejorar las disposiciones administrati
 
 VI. Controlar y supervisar las transferencias de recursos humanos, financieros y materiales que se generen de otras dependencias y organismos del sector público;
 
-VII. Revisar y suscribir la documentación financiera referente a presupuestación, control presupuestal, finanzas, tesorería, contabilidad y estados financieros de la Comisión Nacional;
+> <small>(REFORMADA, D.O.F. 18 DE OCTUBRE DE 2011)</small>
+
+VII. Revisar y suscribir la documentación de carácter presupuestal, financiero, contable y en materia de planeación estratégica;
 
 VIII. Implementar el sistema de contabilidad general de la Comisión Nacional y emitir los estados financieros;
 
@@ -987,7 +1123,9 @@ XXI. Establecer, supervisar y evaluar el cumplimiento de las normas y políticas
 
 XXII. Desarrollar y administrar los sitios electrónicos de la Comisión Nacional, dentro de la red mundial de información (Intranet/Internet), en coordinación con las unidades administrativas responsables de los contenidos.
 
-Las atribuciones establecidas en el presente artículo serán ejercidas directamente por el Director General o por los Directores o Subdirector de su adscripción, según el ámbito de su competencia: el Director de Programación y Control, las contenidas en las fracciones I y IV a IX, el Director de Finanzas, las contenidas en las fracciones II y X a XVI y el Subdirector de Informática y Telecomunicaciones, las contenidas en las fracciones III y XVII a XXII.
+> <small>(REFORMADO, D.O.F. 18 DE OCTUBRE DE 2011)</small>
+
+Las atribuciones establecidas en el presente artículo serán ejercidas directamente por el Director General o por los Directores de su adscripción, según el ámbito de su competencia: el Director de Informática y Telecomunicaciones, las contenidas en las fracciones III y XVII a XXII; el Director de Programación y Finanzas, las contenidas en las fracciones I, II, IV a XVI.
 
 ### CAPITULO V. DE LAS DELEGACIONES
 
@@ -1020,6 +1158,10 @@ II. La Delegación Local en Cd. Juárez, en los municipios de Ascensión, Buenav
 III. Las Delegaciones Metropolitana Central, Metropolitana Norte, Metropolitana Sur y Metropolitana Oriente, en todas las delegaciones políticas del Distrito Federal y en los municipios conurbados a la Ciudad de México.
 
 Lo anterior, sin perjuicio de lo previsto en el artículo 65 de la Ley.
+
+> <small>(ADICIONADO, D.O.F. 18 DE OCTUBRE DE 2011)</small>
+
+Los órganos de gobierno y demás unidades administrativas de la Comisión Nacional, al ser autoridades centrales, gozan de competencia territorial en todo el país, de conformidad con el artículo 3 de la Ley.
 
 ###### Artículo 28.
 
@@ -1097,7 +1239,9 @@ XXXV. Realizar, previo requerimiento de la Dirección General de Dictaminación 
 
 XXXVI. Llevar a cabo el desarrollo de programas y campañas en el ámbito de su competencia, a fin de establecer pautas para orientar la protección y defensa de los derechos de los Usuarios, de acuerdo con las políticas, lineamientos y procedimientos que dicte la Comisión Nacional;
 
-XXXVII. Coadyuvar en la edición y distribución de los libros, ordenamientos, revistas, folletos y demás publicaciones de la Comisión Nacional, así como participar en la promoción de la cultura financiera a través de medios electrónicos, informáticos o impresos;
+> <small>(REFORMADA, D.O.F. 18 DE OCTUBRE DE 2011)</small>
+
+XXXVII. Coadyuvar en la edición y distribución de los libros, ordenamientos, revistas, folletos y demás publicaciones de la Comisión Nacional, así como participar en la promoción de la educación financiera a través de medios electrónicos, informáticos o impresos;
 
 XXXVIII. Colaborar en la promoción de foros nacionales e internacionales cuyo objeto sea acorde con el de la Comisión Nacional;
 
@@ -1113,7 +1257,9 @@ XLIII. Preparar la información estadística relacionada con la Delegación, tur
 
 XLIV. Aplicar, de conformidad con la normativa aplicable, los recursos humanos, materiales y financieros que le sean asignados para su operación regular y para el desarrollo de programas vigentes;
 
-XLV. Realizar y coordinar la adquisición de bienes y contratación de arrendamientos y servicios requeridos para el óptimo desarrollo de las actividades encomendadas, de conformidad con la normativa establecida para tal efecto por la Dirección General de Bienes y Servicios;
+> <small>(REFORMADA, D.O.F. 18 DE OCTUBRE DE 2011)</small>
+
+XLV. Realizar, coordinar y formalizar la adquisición de bienes y contratación de arrendamientos y servicios requeridos para el óptimo desarrollo de las actividades encomendadas, previa opinión de la Dirección General de Bienes y Servicios;
 
 XLVI. Enviar a la Dirección General de Planeación con la periodicidad que ésta determine, los informes sobre el ejercicio del presupuesto y los avances en la ejecución de sus programas, así como los estados financieros correspondientes a los programas y partidas de presupuesto;
 
@@ -1134,6 +1280,8 @@ Las atribuciones establecidas en el presente artículo serán ejercidas directam
 ## TITULO TERCERO. ORGANOS COLEGIADO
 
 ### CAPITULO II. DE LOS COMITES
+
+> <small>(REFORMADO, D.O.F. 18 DE OCTUBRE DE 2011)</small>
 
 ###### Artículo 29.
 
@@ -1197,7 +1345,7 @@ El impedimento legal será analizado y resuelto desde luego por el Consejo Consu
 
 ###### Artículo 38.
 
-El Comité de Dictámenes será un órgano colegiado que conocerá y, en su caso, aprobará los acuerdos de trámite a que se refiere los artículos 68, párrafos tercero, cuarto y quinto; 68 Bis, y 68 Bis 1 de la Ley.
+El Comité de Dictámenes será un órgano colegiado que conocerá y, en su caso, aprobará los acuerdos de trámite a que se refiere (sic) los artículos 68, 68 Bis, y 68 Bis 1 de la Ley.
 
 ###### Artículo 39.
 
@@ -1260,3 +1408,9 @@ Séptimo. Las Delegaciones podrán ordenar el registro del pasivo contingente, c
 Atentamente
 
 México, D.F., a 29 de junio de 2010.- El Presidente de la Comisión Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros, Luis Alberto Pazos de la Torre.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ESTATUTO.</small>
+
+D.O.F. 18 DE OCTUBRE DE 2011.
+
+UNICO. Las presentes reformas, adiciones y derogaciones entrarán en vigor al siguiente día de su publicación en el Diario Oficial de la Federación.
