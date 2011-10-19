@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-insumos-para-la-salud-11369"
 country: "mx"
 rank: "reglamento"
 publication_date: "1998-02-04"
-last_updated: "2011-05-26"
+last_updated: "2011-10-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11369&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1998-02-03"
 
 REGLAMENTO DE INSUMOS PARA LA SALUD
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 26 DE MAYO DE 2011.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 19 DE OCTUBRE DE 2011.
 
 Reglamento publicado en el Diario Oficial de la Federación, el miércoles 4 de febrero de 1998.
 
@@ -47,7 +47,19 @@ I. Acondicionamiento, a las operaciones necesarias por las que un producto a gra
 
 II. Biodisponibilidad, a la proporción de fármaco que se absorbe a la circulación general después de la administración de un medicamento y el tiempo que requiere para hacerlo;
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(ADICIONADA, D.O.F. 19 DE OCTUBRE DE 2011)</small>
+
+II Bis. Certificado Analítico, al documento que avala los resultados obtenidos en un estudio para determinar la composición o naturaleza de una muestra, emitido por el fabricante del producto, de conformidad con las disposiciones de la Ley, el presente Reglamento y demás disposiciones aplicables;
+
 III. Condición Sanitaria, a las especificaciones o requisitos sanitarios que deben reunir cada uno de los Insumos, Establecimientos, actividades y servicios y que se establecen en los ordenamientos correspondientes;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(ADICIONADA, D.O.F. 19 DE OCTUBRE DE 2011)</small>
+
+III Bis. Denominación Común Internacional, al nombre que identifica una sustancia farmacéutica o principio activo farmacéutico mediante un nombre único que es reconocido a nivel mundial y es de dominio público;
 
 IV. Denominación Distintiva, al nombre que como marca comercial le asigna el laboratorio o fabricante a sus especialidades farmacéuticas con el fin de distinguirla de otras similares, previa aprobación de la autoridad sanitaria y registro ante las autoridades competentes;
 
@@ -57,17 +69,59 @@ VI. Envase Primario, a los elementos del sistema de envase que están en contact
 
 VII. Envase Secundario, a los componentes que forman parte del empaque en el cual se comercializa el Insumo y no están en contacto directo con él;
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(ADICIONADA, D.O.F. 19 DE OCTUBRE DE 2011)</small>
+
+VII Bis 1. Estudios clínicos, a las pruebas realizadas en seres humanos para demostrar la calidad, seguridad y eficacia de los medicamentos;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(ADICIONADA, D.O.F. 19 DE OCTUBRE DE 2011)</small>
+
+VII Bis 2. Estudios de biocomparabilidad, a las pruebas, ensayos y análisis que sean indispensables para demostrar que un medicamento biotecnológico biocomparable tiene las mismas características de calidad, seguridad y eficacia de un medicamento biotecnológico de referencia;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(ADICIONADA, D.O.F. 19 DE OCTUBRE DE 2011)</small>
+
+VII Bis 3. Estudios preclínicos, a los estudios in vitro o en animales para demostrar la calidad, seguridad y eficacia del producto y cuyos resultados se puedan extrapolar a los humanos;
+
 VIII. Etiqueta, al marbete, rótulo, marca o imagen gráfica que se haya escrito, impreso, estarcido, marcado, marcado en relieve o en hueco, grabado, adherido o precintado en cualquier material susceptible de contener el Insumo incluyendo el envase mismo;
 
 IX. Farmacopea de los Estados Unidos Mexicanos, al documento expedido por la Secretaría que consigna los métodos generales de análisis y los requisitos sobre identidad, pureza y calidad de los fármacos, aditivos, medicamentos y productos biológicos;
 
 X. Farmacopea Homeopática de los Estados Unidos Mexicanos, al documento instituido por la Ley y expedido por la Secretaría, que comprende los nombres, procedimientos, métodos y especificaciones para la identificación, preparación o análisis de sustancias y productos homeopáticos;
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(ADICIONADA, D.O.F. 19 DE OCTUBRE DE 2011)</small>
+
+X Bis. Información técnica, a los ensayos, análisis, estudios preclínicos y clínicos necesarios, en su caso, para demostrar la calidad, seguridad y eficacia requeridos por la Secretaría para la obtención del registro sanitario;
+
 XI. Insumos, a los Insumos para la salud a que se refiere el artículo 194 bis de la Ley;
 
 XII. Ley, a la Ley General de Salud;
 
 XIII. Lote, a la cantidad específica de cualquier materia prima o Insumo, que haya sido elaborada en un ciclo de producción, bajo condiciones equivalentes de operación y durante un período determinado;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(ADICIONADA, D.O.F. 19 DE OCTUBRE DE 2011)</small>
+
+XIII Bis 1. Medicamento biotecnológico biocomparable, al medicamento biotecnológico no innovador que demuestre ser biocomparable en términos de seguridad, calidad y eficacia al medicamento biotecnológico de referencia a través de las pruebas que establezca la Ley, este Reglamento y demás disposiciones aplicables;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(ADICIONADA, D.O.F. 19 DE OCTUBRE DE 2011)</small>
+
+XIII Bis 2. Medicamento biotecnológico innovador, al medicamento biotecnológico que obtenga el registro sanitario en México, así reconocido por la Secretaría;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(ADICIONADA, D.O.F. 19 DE OCTUBRE DE 2011)</small>
+
+XIII Bis 3. Medicamento biotecnológico de referencia, al medicamento biotecnológico innovador que se utilice de referencia para el registro de medicamentos biotecnológicos biocomparables y que sea reconocido como tal por la Secretaría. Cuando el medicamento biotecnológico innovador no se encuentre registrado en México, se podrá reconocer como tal a un medicamento biotecnológico biocomparable previamente registrado ante la Secretaría;
 
 > <small>(REFORMADA, D.O.F. 2 DE ENERO DE 2008)</small>
 
@@ -271,6 +325,22 @@ XII. Las especificaciones del organismo vivo que se utilizó para la preparació
 
 Cuando la información se exprese en otros idiomas, desde el país de origen deberá aparecer también en idioma español, cuando menos, con el mismo tamaño y proporcionalidad tipográfica, de acuerdo con la Norma correspondiente.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(ADICIONADO, D.O.F. 19 DE OCTUBRE DE 2011)</small>
+
+###### ARTÍCULO 24
+
+bis. Además de lo previsto en el artículo anterior, las etiquetas de los medicamentos biotecnológicos deberán incluir la siguiente información:
+
+I. Nombre o razón social o denominación del fabricante y país de origen del biofármaco;
+
+II. El lugar del envasado primario del medicamento biotecnológico, y
+
+III. En su caso, nombre o razón social o denominación del importador.
+
+Los medicamentos biotecnológicos innovadores, deberán incluir en su etiqueta las siglas M.B. Los medicamentos biotecnológicos biocomparables deberán incluir en sus etiquetas las siglas M.B.B. En ambos casos, deberán incluir en sus etiquetas la Denominación Común Internacional, con independencia de la denominación distintiva.
+
 ###### ARTÍCULO 25.
 
 Cuando las etiquetas contengan las Denominaciones Genérica y Distintiva de los medicamentos, éstas deberán imprimirse en una proporción tal que el tamaño de una sea cuando menos una tercera parte de la otra, medida en puntos de la misma tipografía o, en su defecto, en letra helvética.
@@ -319,11 +389,23 @@ El emisor de la receta prescribirá los medicamentos de conformidad con lo sigui
 
 I. Cuando se trate de Medicamentos Genéricos, deberá anotar la Denominación Genérica y si lo desea, podrá indicar la denominación distintiva de su preferencia;
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(ADICIONADA, D.O.F. 19 DE OCTUBRE DE 2011)</small>
+
+I Bis. Tratándose de medicamentos biotecnológicos, se deberá anotar la Denominación Común Internacional, y de manera opcional, la denominación distintiva;
+
 > <small>(REFORMADA, D.O.F. 2 DE ENERO DE 2008)</small>
 
 II. En los demás casos podrá expresar la denominación distintiva o conjuntamente las denominaciones genérica y distintiva;
 
 Cuando en la receta se exprese la Denominación Distintiva del medicamento, su venta o suministro deberá ajustarse precisamente a esta denominación y sólo podrá sustituirse cuando lo autorice expresamente quien lo prescribe.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(ADICIONADO, D.O.F. 19 DE OCTUBRE DE 2011)</small>
+
+La venta y suministro de medicamentos biotecnológicos deberá ajustarse a lo prescrito en la receta médica.
 
 ###### ARTÍCULO 32.
 
@@ -703,17 +785,23 @@ El Consejo de Salubridad General y la Secretaría, mediante publicación en el D
 
 (DEROGADO, D.O.F. 2 DE ENERO DE 2008)
 
-### Capítulo VIII. Productos biotecnológicos
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADA SU DENOMINACION, D.O.F. 19 DE OCTUBRE DE 2011)</small>
+
+### Capítulo VIII. Medicamentos Biotecnológicos
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADO, D.O.F. 19 DE OCTUBRE DE 2011)</small>
 
 ###### ARTÍCULO 81.
 
-Para efectos del presente Reglamento son productos biotecnológicos los biofármacos y los biomedicamentos.
+Para efectos del presente Reglamento, se considera biofármaco a toda substancia que haya sido producida por biotecnología molecular, que tenga actividad farmacológica, que se identifique por sus propiedades físicas, químicas y biológicas y que reúna las condiciones para ser empleada como principio activo de un medicamento biotecnológico.
 
-Se considera biofármaco toda substancia que haya sido producida por biotecnología molecular, que tenga actividad farmacológica, que se identifique por sus propiedades físicas, químicas y biológicas, que reúna condiciones para ser empleada como principio activo de un medicamento o ingrediente de un medicamento.
+Asimismo, se entiende por medicamento biotecnológico a toda substancia que haya sido producida por biotecnología molecular, que tenga efecto terapéutico, preventivo o rehabilitatorio, que se presente en forma farmacéutica, que se identifique como tal por su actividad farmacológica y propiedades físicas, químicas y biológicas.
 
-Asimismo, se entiende por biomedicamento toda substancia que haya sido producida por biotecnología molecular, que tenga efecto terapéutico, preventivo o rehabilitatorio, que se presente en forma farmacéutica, que se identifique como tal por su actividad farmacológica y propiedades físicas, químicas y biológicas.
-
-Los biofármacos y los biomedicamentos podrán ser:
+Los biofármacos y los medicamentos biotecnológicos podrán ser:
 
 I. Proteínas recombinantes: Las proteínas producidas por cualquier ente biológico procariote o eucariote al que se le introduce, por técnicas de ingeniería genética, una secuencia de ácido desoxirribonucleico que las codifica;
 
@@ -724,6 +812,14 @@ III. Péptidos sintéticos: Los péptidos constituidos por menos de cuarenta ami
 IV. Ácidos nucleicos sintéticos o de plásmidos: Los ácidos nucleicos obtenidos de plásmidos naturales o modificados por técnicas de ingeniería genética, y
 
 V. Los demás que, en su caso, determine mediante acuerdo la Secretaría, conforme a los avances técnicos y científicos.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(ADICIONADO, D.O.F. 19 DE OCTUBRE DE 2011)</small>
+
+###### ARTÍCULO 81
+
+bis. La farmacovigilancia de los medicamentos biotecnológicos deberá realizarse de conformidad con la norma correspondiente. Dicha farmacovigilancia deberá permitir una clara identificación del medicamento biotecnológico, refiriéndose específicamente a su fabricante, a la Denominación Común Internacional, a la denominación distintiva y al número de lote. Asimismo, esta farmacovigilancia deberá facilitar la identificación de las terapias biotecnológicas administradas en todas las etapas del tratamiento.
 
 ### Capítulo IX. Otros Insumos
 
@@ -929,13 +1025,15 @@ Los Establecimientos que procesen penicilínicos, medicamentos que sean o conten
 
 Los penicilínicos, cefalosporínicos, biológicos virales o bacterianos y hemoderivados, deberán contar con áreas específicas e independientes para cada uno de ellos, a fin de que no exista contaminación cruzada con otras áreas de fabricación.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADO, D.O.F. 19 DE OCTUBRE DE 2011)</small>
+
 ###### ARTÍCULO 113.
 
-Los Establecimientos que fabriquen biofármacos requerirán de licencia sanitaria; asimismo, deberán aplicar las buenas prácticas de fabricación, contar con laboratorio de control de calidad donde se realicen los análisis químicos, físicos, biológicos y microbiológicos.
+Los establecimientos que fabriquen biofármacos y medicamentos biotecnológicos requerirán instalaciones de acuerdo a los procesos que realicen y en su caso contar con áreas separadas para cepas o líneas celulares, animales o vegetales; además de dar cumplimiento a las disposiciones jurídicas aplicables, incluyendo la licencia sanitaria señalada en el artículo 198 de la Ley. En caso de ser de fabricación extranjera deberán contar con certificación del cumplimiento de buenas prácticas de fabricación.
 
-Para liberar un lote de biofármacos se requerirá de control externo en los términos que establezca la Norma correspondiente y, en su caso, contar con áreas separadas para manejar productos estériles, cepas o líneas celulares, animales o vegetales. El acceso a las áreas estará restringido a las personas autorizadas.
-
-Las instalaciones de estos Establecimientos serán diseñadas para facilitar la limpieza y el mantenimiento, evitar la contaminación cruzada y la contaminación al medio ambiente exterior.
+Para que el fabricante de biofármacos y de medicamentos biotecnológicos libere un lote, requerirá cumplir las disposiciones aplicables que correspondan para garantizar que el producto es de calidad.
 
 ###### ARTÍCULO 114.
 
@@ -1206,6 +1304,14 @@ Para autorizar el uso o comercialización de los Insumos a que se refiere el pá
 Para la importación de productos biológicos y hemoderivados de fabricación extranjera se deberá contar con la autorización de la Secretaría y, en su caso, solicitar por escrito el enfajillamiento del producto.
 
 Para el retiro de fajillas, acondicionamiento y toma de muestras el Establecimiento deberá solicitar a la Secretaría la presencia de un verificador sanitario. Todos estos actos deberán asentarse en el acta de verificación ante la presencia del responsable sanitario del Establecimiento. La distribución o venta de los productos a que se refiere el presente artículo podrá efectuarse una vez que se cumpla con lo establecido en los artículos 43 y 201 del presente Reglamento.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(ADICIONADO, D.O.F. 19 DE OCTUBRE DE 2011)</small>
+
+###### ARTÍCULO 138
+
+bis. Para la liberación de medicamentos biotecnológicos de importación será necesario contar con el certificado analítico del fabricante y el importador deberá contar con los resultados analíticos de acuerdo con los requisitos previstos en la Farmacopea de los Estados Unidos Mexicanos y sus suplementos, o cuando no exista la información pertinente en la misma, con los requisitos previstos en las Farmacopeas de otros países. Los análisis correspondientes podrán ser realizados en su laboratorio de control de calidad o por cualquier laboratorio que cuente con Certificado de Buenas Prácticas de Fabricación emitido por la Secretaría. Si los análisis son realizados en el extranjero, se deberá acreditar el mantenimiento del sistema de cierre y control de temperatura.
 
 ###### ARTÍCULO 139.
 
@@ -1637,33 +1743,141 @@ Todo cambio de fabricación nacional a extranjera de un medicamento ameritará c
 
 Para autorizar el cambio de fabricación extranjera a nacional de cualquier medicamento registrado, se presentará la solicitud en el formato oficial y se cumplirá con lo establecido en los artículos 167, 173 y 174 de este Reglamento, según el medicamento de que se trate.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADO, D.O.F. 19 DE OCTUBRE DE 2011)</small>
+
 ###### ARTÍCULO 177.
 
-Para obtener el registro sanitario de biomedicamentos, se requiere presentar solicitud en el formato oficial, al que se anexará la información documental siguiente:
+Para obtener el registro sanitario de medicamentos biotecnológicos innovadores, se requiere presentar solicitud en el formato oficial, que para tal efecto se publique en el Diario Oficial de la Federación, a la que se anexará la información documental siguiente:
 
 I. La monografía del biofármaco, composición y fórmula;
 
 II. El origen e historia del banco celular maestro, el gene, la construcción del sistema de expresión vector-hospedero para la proteína de interés y la caracterización relevante del genotipo y fenotipo;
 
-III. El resumen del proceso de fabricación: cepa o línea celular, fermentación, separación y purificación;
+III. El resumen del proceso de fabricación del biofármaco: cepa o línea celular, fermentación, separación y purificación, así como el diagrama de flujo correspondiente a dicho proceso;
 
-IV. Los métodos analíticos: físicos, químicos y biológicos;
+IV. Los métodos analíticos: físicos, químicos y biológicos para materias primas y biofármacos, así como el reporte de validación de sus resultados, realizados por el fabricante, para los casos en que no sean métodos farmacopéicos;
 
-> <small>(REFORMADA, D.O.F. 2 DE ENERO DE 2008)</small>
+V. El reporte de la validación del proceso de fabricación, realizado por el fabricante;
 
-V. La validación del fabricante de que el producto final cumple con las especificaciones predeterminadas;
+VI. La monografía del medicamento que incluya la Denominación Común Internacional, forma farmacéutica, especificaciones cualitativas y cuantitativas;
 
-VI. La monografía del medicamento: forma farmacéutica, especificaciones cualitativas y cuantitativas;
+VII. Los procesos de fabricación, formulación, llenado y acondicionamiento, así como sus controles del proceso;
 
-VII. El proceso de fabricación: formulación, llenado y acondicionamiento;
+VIII. Los proyectos de etiqueta y del instructivo correspondiente, así como las especificaciones de los envases primario y secundario, de conformidad con la Ley, este Reglamento y demás disposiciones aplicables;
 
-VIII. Proyectos, en su caso, de Etiqueta y del instructivo correspondiente, así como las especificaciones de los Envases Primario y Secundario, y
+IX. Programa de farmacovigilancia intensiva, de conformidad con las disposiciones que resulten aplicables, y
 
-IX. Los estudios in-vitro o clínicos que señale la Secretaría.
+X. Los estudios preclínicos y clínicos que señale la Secretaría como necesarios para demostrar la seguridad, eficacia y calidad del producto, de acuerdo a lo establecido en la Ley, este Reglamento y demás disposiciones jurídicas aplicables, incluyendo el reporte de eventos adversos e inmunogenicidad, caracterizando la respuesta inmune y la evaluación de la correlación entre anticuerpos neutralizantes de la farmacocinética y farmacodinamia del producto.
 
-> <small>(REFORMADO, D.O.F. 2 DE ENERO DE 2008)</small>
+Todos los medicamentos biotecnológicos innovadores, deberán presentarse para ser evaluados ante el Comité de Moléculas Nuevas y deberán ser estudiados por el Subcomité de Evaluación de Productos Biotecnológicos previamente al sometimiento de la solicitud de registro sanitario, para determinar si las pruebas clínicas son efectivas para demostrar su seguridad, calidad y eficacia.
 
-La Secretaría resolverá las solicitudes de registro de los Insumos a que se refiere el presente artículo en un plazo máximo de ciento ochenta días naturales.
+Para el caso de medicamentos biotecnológicos innovadores de fabricación extranjera además de los documentos anteriores se deberán anexar los establecidos en las fracciones I, II y III del artículo 170 del presente Reglamento.
+
+La Secretaría resolverá las solicitudes de registro de medicamentos biotecnológicos innovadores en un plazo de ciento ochenta días naturales, contados a partir del día siguiente a aquel en que se presente la solicitud de registro correspondiente. La Secretaría podrá solicitar información faltante, por única ocasión, durante los primeros ciento veinte días naturales del plazo antes referido, teniendo el interesado un máximo de cien días hábiles para responder, contados a partir del día siguiente a aquel en que haya sido notificado de la prevención respectiva.
+
+En caso de que la Secretaría no emita la resolución respectiva en el plazo señalado, la solicitud de registro se entenderá resuelta en sentido negativo.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(ADICIONADO, D.O.F. 19 DE OCTUBRE DE 2011)</small>
+
+###### ARTÍCULO 177
+
+bis 1. Los estudios clínicos de los medicamentos biotecnológicos innovadores, deberán realizarse en México:
+
+I. Cuando el medicamento se fabrique en el territorio nacional, y
+
+II. Cuando la fabricación y los estudios mencionados se hayan realizado en el extranjero y así lo determine la Secretaría, con base en la opinión del Comité de Moléculas Nuevas, previa consulta que éste realice al Subcomité de Evaluación de Productos Biotecnológicos.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(ADICIONADO, D.O.F. 19 DE OCTUBRE DE 2011)</small>
+
+###### ARTÍCULO 177
+
+bis 2. Para obtener el registro sanitario de medicamentos biotecnológicos biocomparables se requiere presentar solicitud en el formato oficial, que para tal efecto se publique en el Diario Oficial de la Federación, a la que se anexará la documentación contenida en las fracciones I a IX del artículo 177 y los estudios preclínicos y clínicos que señale la Secretaría como estudios de biocomparabilidad, estudios de inmunogenicidad y reportes de eventos adversos, y otros que la Secretaría determine, previa opinión del Comité de Moléculas Nuevas, previa consulta que éste realice al Subcomité de Evaluación de Productos Biotecnológicos, los cuales se harán del conocimiento de los interesados mediante publicación en el Diario Oficial de la Federación.
+
+Una vez que un medicamento biotecnológico biocomparable haya demostrado su biocomparabilidad, le serán autorizadas las indicaciones que tenga aprobadas el medicamento biotecnológico de referencia, siempre y cuando el medicamento biotecnológico biocomparable se presente en la misma forma farmacéutica y dosis que el biotecnológico de referencia y que dichas indicaciones compartan el mismo mecanismo de acción o que el medicamento biotecnológico biocomparable presente el mismo efecto farmacodinámico, ya sea de acuerdo a lo publicado por el de referencia, o en su caso de acuerdo a la experiencia clínica y evidencia científica disponible. Lo anterior sin perjuicio de lo dispuesto en los tratados internacionales de los que México sea parte.
+
+Para efectos del párrafo anterior, la Secretaría, con base en la opinión del Comité de Moléculas Nuevas, previa consulta que éste realice al Subcomité de Evaluación de Productos Biotecnológicos, determinará las pruebas de biocomparabilidad que permitan la autorización de las indicaciones terapéuticas a los medicamentos biotecnológicos biocomparables.
+
+Sin perjuicio de lo establecido en los párrafos anteriores, se podrá solicitar el registro de un medicamento biocomparable respecto de un medicamento biotecnológico protegido por una patente, con el fin de realizar los estudios, pruebas y producción experimental correspondientes, dentro de los ocho años anteriores al vencimiento de la patente. En cuyo caso, el registro sanitario se otorgará solamente al concluir la vigencia de la patente.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(ADICIONADO, D.O.F. 19 DE OCTUBRE DE 2011)</small>
+
+###### ARTÍCULO 177
+
+bis 3. El alcance de las pruebas clínicas de biocomparabilidad deberá estar sustentado en las pruebas de caracterización del biofármaco y del medicamento biotecnológico biocomparable, y mientras más caracterizado esté el producto y mejor se demuestre su comparabilidad físico-química, menor evidencia clínica se requerirá.
+
+La posología, la dosis y la ruta de administración del medicamento biotecnológico biocomparable deben ser las mismas que las del medicamento biotecnológico de referencia.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(ADICIONADO, D.O.F. 19 DE OCTUBRE DE 2011)</small>
+
+###### ARTÍCULO 177
+
+bis 4. Los estudios preclínicos y clínicos, en los que el solicitante del registro de medicamentos biotecnológicos biocomparables sustente su solicitud, deberán utilizar el medicamento biotecnológico de referencia correspondiente, para la realización de los estudios comparativos y físico-químicos. Para tal efecto deberá presentar la siguiente información documental:
+
+I. Los estudios in vitro. No se requerirán de éstos cuando la Secretaría, con base en la opinión del Comité de Moléculas Nuevas, previa consulta que éste realice al Subcomité de Evaluación de Productos Biotecnológicos, así lo determine;
+
+II. Los reportes de los estudios preclínicos en animales incluyendo la información que compare al medicamento biotecnológico de referencia y al medicamento biotecnológico biocomparable. Dichos estudios preclínicos deberán realizarse en especies animales relevantes para el modelo de estudio y deben incluir, de conformidad con la opinión que al efecto emita el Comité de Moléculas Nuevas, previa consulta que éste realice al Subcomité de Evaluación de Productos Biotecnológicos, los siguientes datos:
+
+a. Reporte comparativo del efecto farmacodinámico y actividad relevante para la aplicación clínica;
+
+b. Reporte comparativo de toxicología en al menos un estudio de toxicidad de dosis repetida, incluyendo mediciones toxicocinéticas;
+
+c. La duración reportada de los estudios debe estar técnicamente justificada para permitir la detección de diferencias relevantes en la toxicidad y respuestas inmunes entre el medicamento biotecnológico biocomparable y el medicamento biotecnológico de referencia;
+
+d. Si los resultados de los estudios mencionados no son suficientes, se deberán incluir observaciones relevantes en el mismo estudio toxicológico de dosis repetida, incluyendo, tolerabilidad local, e
+
+e. Sólo se requerirán reportes de otros estudios toxicológicos como seguridad farmacológica, toxicología reproductiva, mutagénesis y carcinogénesis para la evaluación de medicamentos biotecnológicos biocomparables, si los resultados de los estudios de dosis repetida así lo requieren;
+
+III. Un reporte de estudios comparativos de farmacocinética cuando así lo determine la Secretaría, tomando en cuenta la opinión del Comité de Moléculas Nuevas, previa consulta que éste realice al Subcomité de Evaluación de Productos Biotecnológicos, para demostrar biocomparabilidad farmacocinética entre el medicamento biotecnológico biocomparable y el medicamento biotecnológico de referencia en relación a los parámetros claves;
+
+IV. Los reportes de estudios de farmacodinamia con las siguientes características:
+
+a. Los marcadores para farmacodinamia deben seleccionarse de acuerdo a su relevancia para demostrar eficacia terapéutica del producto;
+
+b. El efecto farmacodinámico del medicamento biotecnológico biocomparable y del medicamento biotecnológico de referencia debe compararse en una población donde puedan observarse las posibles diferencias, e
+
+c. El diseño y duración de los estudios deben justificarse.
+
+Los estudios combinados de farmacocinética y farmacodinamia pueden proporcionar información de utilidad sobre la relación entre la exposición y el efecto, y
+
+V. Los estudios clínicos de eficacia y seguridad comparativa para demostrar semejanza clínica entre el medicamento biotecnológico biocomparable y el medicamento biotecnológico de referencia. Dichos estudios deberán contar con las siguientes características:
+
+a. Los parámetros y márgenes de biocomparabilidad clínica deben haberse justificado y especificado previamente a la realización de dichos estudios y deben estar claramente señalados en el reporte de los estudios de eficacia y seguridad comparativos que se presente a evaluación;
+
+b. Cumplir con la normatividad aplicable de buenas prácticas de investigación clínica que aseguren la validez científica del estudio, e
+
+c. Para aquellos medicamentos en donde la respuesta inmune pudiera afectar a la proteína endógena o a su función biológica, las pruebas de anticuerpos deben realizarse en los ensayos clínicos de seguridad, tomando en cuenta el papel que pudieran tener la hipersensibilidad, reacciones de infusión, la autogenicidad y pérdida de la eficacia.
+
+Para efecto de las fracciones anteriores, los requerimientos específicos para la aprobación de cada medicamento biotecnológico biocomparable serán determinados por la Secretaría considerando, la opinión del Comité de Moléculas Nuevas, previa consulta que éste realice al Subcomité de Evaluación de Productos Biotecnológicos.
+
+Para el caso de los estudios de biocomparabilidad en relación con un medicamento biotecnológico de referencia, el mismo deberá ser usado durante todo el desarrollo del medicamento biotecnológico biocomparable, para comparar la calidad y los estudios preclínicos y clínicos.
+
+Una vez otorgado el primer registro de un medicamento biotecnológico biocomparable, respecto de una molécula identificada por la Denominación Común Internacional, el listado de los requisitos relativos a la información técnica con base en los que se otorgó el registro, deberá ser publicado por la Secretaría en el Diario Oficial de la Federación. Los mismos requisitos deberán cumplirse para la obtención del registro de los medicamentos biotecnológicos biocomparables subsecuentes que correspondan a la misma Denominación Común Internacional. Dichos requisitos podrán variar, tomando en cuenta los avances de la ciencia y la tecnología, lo que de ser así, se dará a conocer por la Secretaría, mediante publicación que se realice en el Diario Oficial de la Federación. Cuando en la Farmacopea de los Estados Unidos Mexicanos y en sus suplementos no exista información pertinente, ni tampoco en guías o monografías nacionales, la Secretaría podrá evaluar las pruebas de biocomparabilidad utilizando la información de guías internacionales.
+
+Los estudios clínicos de los medicamentos biotecnológicos biocomparables, deberán realizarse en México, cuando así lo determine la Secretaría con base en la opinión del Comité de Moléculas Nuevas, previa consulta que éste realice al Subcomité de Evaluación de Productos Biotecnológicos.
+
+Para el caso de medicamentos biotecnológicos biocomparables de fabricación extranjera además de los documentos anteriores se deberán anexar los establecidos en las fracciones I, II y III del artículo 170 del presente Reglamento.
+
+La Secretaría resolverá las solicitudes de registro de medicamentos biotecnológicos biocomparables en un plazo de ciento ochenta días naturales, contados a partir del día siguiente a aquel en que se presente la solicitud de registro correspondiente. La Secretaría podrá solicitar información faltante, por única ocasión, dentro de los primeros ciento veinte días naturales del plazo antes referido, teniendo el interesado un máximo de cien días hábiles, contados a partir del día siguiente a aquel en que haya sido notificado de la prevención respectiva para su desahogo.
+
+En caso de que la Secretaría no emita la resolución respectiva en el plazo señalado, la solicitud de registro se entenderá resuelta en sentido negativo.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(ADICIONADO, D.O.F. 19 DE OCTUBRE DE 2011)</small>
+
+###### ARTÍCULO 177 Bis 5.
+
+Un medicamento biotecnológico innovador o un medicamento biotecnológico biocomparable puede ser aprobado para su uso en otras indicaciones clínicas, siempre y cuando exista justificación científica aprobada mediante los estudios clínicos, que determine la Secretaría considerando la opinión del Comité de Moléculas Nuevas, previa consulta que éste realice al Subcomité de Evaluación de Productos Biotecnológicos.
 
 ###### ARTÍCULO 178.
 
@@ -2330,3 +2544,11 @@ TERCERO. Los asuntos en trámite a la entrada en vigor del presente Decreto, se 
 D.O.F. 26 DE MAYO DE 2011.
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 19 DE OCTUBRE DE 2011.
+
+Primero.- El presente Decreto entra en vigor a los ciento ochenta días naturales posteriores a los de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- La Secretaría de Salud, en términos de lo que establece la Ley Federal sobre Metrología y Normalización, deberá adecuar y actualizar las Normas Oficiales Mexicanas correspondientes a lo establecido por este Decreto.
+
+Tercero.- Aquellos trámites de solicitud de registro cuya resolución se encuentre pendiente al momento de la entrada en vigor del presente Decreto se resolverán conforme a la normatividad vigente al momento de su presentación.
