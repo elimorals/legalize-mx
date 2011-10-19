@@ -4,7 +4,7 @@ identifier: "ZAC-estatuto-organico-de-la-comision-estatal-para-el-acceso-a-45152
 country: "mx"
 rank: "estatuto"
 publication_date: "2005-05-25"
-last_updated: "2009-04-22"
+last_updated: "2011-10-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45152&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "ZAC"
 
 ESTATUTO ORGANICO DE LA COMISION ESTATAL PARA EL ACCESO A LA INFORMACION PUBLICA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE ABRIL DE 2009.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DEL ESTATUTO ORGANICO DE LA COMISION ESTATAL PARA EL ACCESO A LA INFORMACION PUBLICA, PUBLICADO EN EL SUPLEMENTO AL P.O. 19 DE OCTUBRE DE 2011, EL PRESENTE ORDENAMIENTO HA SIDO DEROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: DEROGADO.
 
 Estatuto publicado en el Periódico Oficial del Estado de Zacatecas, el miércoles 25 de mayo de 2005.
 
@@ -884,3 +886,13 @@ P.O. 22 DE ABRIL DE 2009.
 Primero.- Las presentes reformas y adiciones entrarán en vigor al día siguiente de su publicación, en el Periódico Oficial Órgano de Gobierno del Estado.
 
 Segundo.- Se derogan las disposiciones administrativas que contravengan este Estatuto Orgánico.
+
+P.O. 19 DE OCTUBRE DE 2011.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Estatuto entrará en vigor al día siguiente de su publicación, en el Periódico Oficial, Órgano de Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se deroga elEstatuto (sic) Orgánico de la Comisión Estatal para el Acceso a la Información Pública de fecha 25 de mayo del año 2005, publicado en el Periódico Oficial, Órgano de Gobierno del Estado, y sus reformas.
