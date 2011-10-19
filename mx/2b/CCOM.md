@@ -4,7 +4,7 @@ identifier: "CCOM"
 country: "mx"
 rank: "codigo"
 publication_date: "1889-10-07"
-last_updated: "2011-06-09"
+last_updated: "2011-10-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=467&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "CCOM"
 
 CODIGO DE COMERCIO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 9 DE JUNIO DE 2011.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 19 DE OCTUBRE DE 2011.
 
 Código publicado en el Diario Oficial de la Federación, del lunes 7 de octubre al viernes 13 de diciembre de 1889.
 
@@ -9230,7 +9230,9 @@ Art. 1,409. Si la sentencia declarase que no procede el juicio ejecutivo, reserv
 
 Art. 1,410. A virtud de la sentencia de remate, se procederá á la venta de los bienes secuestrados, previo avalúo hecho por dos corredores ó peritos y un tercero en caso de discordia, nombrados aquéllos por las partes y éste por el juez.
 
-Art. 1,411. Presentado el avalúo y notificadas las partes para que ocurran al juzgado á imponerse de aquél, se anunciará en la forma legal la venta de los bienes, por tres veces, dentro de tres días, si fuesen muebles, y dentro de nueve si fuesen raíces, rematándose en seguida en pública almoneda y al mejor postor conforme á derecho.
+> <small>(REFORMADO, D.O.F. 19 DE OCTUBRE DE 2011)</small>
+
+Art. 1,411. Presentado el avalúo y notificadas las partes para que ocurran al juzgado a imponerse de aquel, se anunciará en la forma legal la venta de los bienes, por tres veces, dentro de tres días, si fuesen muebles, y dentro de nueve si fuesen raíces, en un periódico de circulación amplia de la Entidad Federativa donde se ventile el juicio, rematándose enseguida en pública almoneda y al mejor postor conforme a derecho.
 
 Art. 1,412. No habiéndose presentado postor á los bienes, el acreedor podrá pedir la adjudicación de ellos por el precio que para subastarlos se les haya fijado en la última almoneda.
 
@@ -10143,3 +10145,7 @@ D.O.F. 6 DE JUNIO DE 2011.
 D.O.F. 9 DE JUNIO DE 2011.
 
 Único.- El presente Decreto entrara en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 19 DE OCTUBRE DE 2011.
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
