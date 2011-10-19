@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-del-servicio-de-administracion-y-38423"
 country: "mx"
 rank: "estatuto"
 publication_date: "2004-04-06"
-last_updated: "2006-11-23"
+last_updated: "2011-10-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=38423&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "2004-04-02"
 
 ESTATUTO ORGANICO DEL SERVICIO DE ADMINISTRACION Y ENAJENACION DE BIENES
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 23 DE NOVIEMBRE DE 2006.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL ESTATUTO ORGANICO DEL SERVICIO DE ADMINISTRACION Y ENAJENACION DE BIENES, PUBLICADO EN EL D.O.F. DE 19 DE OCTUBRE DE 2011, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: ABROGADO.
 
 Estatuto publicado en el Diario Oficial de la Federación, el martes 6 de abril de 2004.
 
@@ -2006,3 +2008,15 @@ PRIMERO.- El presente Acuerdo entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Las referencias que se hagan al Director Ejecutivo de Administración de Bienes, al Director Ejecutivo de Recepción y Destino de Bienes, a la Dirección Ejecutiva de Administración de Bienes y a la Dirección Ejecutiva de Recepción y Destino de Bienes, en disposiciones jurídicas o administrativas, se entenderán hechas al Director Ejecutivo de Bienes Inmuebles, al Director Ejecutivo de Bienes Muebles, a la Dirección Ejecutiva de Bienes Inmuebles y a la Dirección Ejecutiva de Bienes Muebles, respectivamente.
 
 TERCERO.- Las referencias que se hagan al Administrador Titular de Recepción y Jurídico y a la Administración Titular de Recepción y Jurídica, en disposiciones jurídicas o administrativas, se entenderán hechas al Administrador Titular Jurídico y de Recepción y a la Administración Titular Jurídica y de Recepción, respectivamente.
+
+D.O.F. 19 DE OCTUBRE DE 2011.
+
+PRIMERO.- El presente Decreto (sic) entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Se abroga el Estatuto Orgánico del Servicio de Administración y Enajenación de Bienes, publicado en el Diario Oficial de la Federación el 6 de abril de 2004.
+
+TERCERO.- Las disposiciones administrativas y documentos normativos que tengan denominación distinta a las establecidas y definidas en este Estatuto, continuarán en vigor hasta que se expidan las que los sustituyan.
+
+CUARTO.- Las unidades administrativas con denominación nueva o distinta previstas en el presente Estatuto y que tienen competencia en asuntos que anteriormente correspondían a otras unidades, darán la atención y resolución que corresponda a los mismos, en términos de este ordenamiento.
+
+QUINTO.- Las referencias que se hagan y las atribuciones que se otorgan en leyes, decretos, reglamentos, acuerdos y demás disposiciones, a las unidades administrativas del SAE que cambian de denominación por virtud del presente Estatuto, se entenderán hechas o conferidas a las unidades administrativas que correspondan conforme al mismo.
