@@ -4,7 +4,7 @@ identifier: "MOR-codigo-penal-para-el-estado-de-morelos-6539"
 country: "mx"
 rank: "codigo"
 publication_date: "1996-10-09"
-last_updated: "2011-09-12"
+last_updated: "2011-10-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6539&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 CODIGO PENAL PARA EL ESTADO DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE SEPTIEMBRE DE 2011.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE OCTUBRE DE 2011.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Morelos, el miércoles 9 de octubre de 1996.
 
@@ -895,15 +895,15 @@ Si el delito por el que se impone la publicación fue cometido a través de alg�
 
 Se ordenará igualmente la publicación, a título de reparación y por solicitud del inculpado, cuando éste fuere absuelto o se sobresea el proceso.
 
-### CAPITULO XV. SUPERVISION DE LA AUTORIDAD
+### CAPITULO XVI. INTERVENCION, REMOCION, PROHIBICION DE REALIZAR DETERMINADAS OPERACIONES Y EXTINCION DE LAS PERSONAS COLECTIVAS
+
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2009)</small>
 
 ###### ARTICULO 54.
 
 Cuando la sentencia imponga una sanción que restrinja libertades o derechos o sustituya la privación de libertad o la multa, y en los demás casos que la ley previene, el tribunal dispondrá la supervisión de la autoridad sobre el sentenciado. Esta consiste en observación y orientación de la conducta del sentenciado por personal dependiente de la autoridad ejecutora, y durará el tiempo necesario para que se extinga la sanción principal impuesta al sentenciado sujeto a supervisión.
 
-### CAPITULO XVI. INTERVENCION, REMOCION, PROHIBICION DE REALIZAR DETERMINADAS OPERACIONES Y EXTINCION DE LAS PERSONAS COLECTIVAS
-
-> <small>(REFORMADO, P.O. 29 DE JULIO DE 2009)</small>
+### CAPITULO XV. SUPERVISION DE LA AUTORIDAD
 
 ###### ARTICULO 55.
 
@@ -3135,25 +3135,37 @@ No se sancionará a quienes ejerzan la patria potestad, la tutela o la custodia 
 
 (DEROGADO, P.O. 13 DE SEPTIEMBRE DE 2000)
 
-> <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 2000)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO CUARTO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 2011)</small>
 
 ###### ARTICULO 242 Bis.
 
-Son delitos para los efectos de la presente Ley, los siguientes:
+Quien o quienes de manera intencional, o sin aplicar las medidas de prevención o seguridad, y en contravención a las disposiciones legales en materia de protección al medio ambiente, o normas ambientales, se ubiquen en alguno o algunos de los siguientes supuestos, su conducta será un delito:
 
-I. Emitir contaminantes peligrosos, incendiar o provocar explosiones que deterioren la atmósfera o que provoquen o puedan provocar daños a la salud pública, la flora, la fauna o los ecosistemas;
+I. El que derribe o trasplante un árbol en la vía pública sin autorización de autoridad competente o afecte negativamente áreas verdes o jardines públicos.
 
-II. Descargar, depositar o infiltrar contaminantes en los suelos o subsuelos, que provoquen o puedan provocar daños graves a la salud pública, la flora, la fauna o los ecosistemas;
+II. Provoque por cualquier medio una enfermedad en las plantas, cultivos agrícolas o bosques, causando daño a la salud pública o desequilibrio a los ecosistemas.
 
-III. Descargar sin previo tratamiento, en los ríos, cuencas, vasos o demás depósitos de agua de jurisdicción local, incluyendo los sistemas de abastecimiento de agua o infiltre, en suelos o subsuelos, aguas residuales, desechos o contaminantes que causen o pueden causar daños graves a la salud pública, la flora, la fauna o a los ecosistemas;
+III. Provoque intencionalmente o por negligencia un incendio forestal.
 
-IV. Generar emisiones de energía térmica, ruido o vibraciones, que ocasionen daños graves a la salud pública, la flora, la fauna o los ecosistemas;
+IV. Realizar cualquier tipo de aprovechamiento de recursos naturales dentro de las áreas naturales protegidas de interés estatal o municipal, sin la autorización correspondiente.
 
-V. Fabricar, almacenar, comercializar, transportar, importar o disponer sustancias o materiales contaminantes sin la autorización correspondiente que provoquen o puedan provocar daños graves a la salud pública, la flora, la fauna a los ecosistemas; y,
+V. Autorice, descargue, deposite, infiltre o derrame aguas residuales, sin previo tratamiento de carácter industrial, comercial de servicios y agropecuarios, desechos o contaminantes en las aguas o en los subsuelos de jurisdicción estatal o municipal, que causen daños a la salud pública, la flora, la fauna o los ecosistemas.
 
-VI. Realizar cualquier tipo de aprovechamiento de recursos naturales dentro de las áreas naturales protegidas de interés estatal, sin la autorización correspondiente.
+VI. Descargar, depositar o infiltrar contaminantes en los suelos o subsuelos, que provoquen o puedan provocar daños graves a la salud pública, la flora, la fauna o los ecosistemas.
 
-A quien por acción u omisión culposa cometa alguna de las conductas a que se refiere el presente artículo, se le impondrá pena de tres días a tres años de prisión y multa por el equivalente de cincuenta a cinco mil días de salario mínimo general vigente en el Estado de Morelos. Se impondrá pena de tres a ocho años de prisión y multa por el equivalente de quinientos a veinte mil días de salario mínimo general vigente en el Estado de Morelos, al que los cometa en forma dolosa.
+VII. Autorice, despida o descargue en la atmosfera gases, humos, polvos, líquidos que ocasionen o puedan ocasionar daños a la salud pública, flora, fauna o los ecosistemas.
+
+VIII. Autorice o genere emisiones de ruido, vibraciones, energía térmica en zonas de jurisdicción estatal o municipal, que ocasionen o puedan ocasionar daños a la salud pública, flora, fauna o los ecosistemas.
+
+IX. Debiendo obtener la autorización de impacto y riesgo ambiental, realice obras o actividades sin contar con la misma y no implemente las medidas preventivas y correctivas que indique la autoridad correspondiente para la mitigación de impactos ambientales y de seguridad de las personas, sus bienes y el ambiente, ocasionando daños a la salud pública, flora, fauna, o los ecosistemas;
+
+X. Rebase el doble de los parámetros y límites permisibles en las normas oficiales mexicanas o en las técnicas estatales vigentes; y
+
+XI. Fabricar, almacenar, comercializar, transportar, importar o disponer sustancias o materiales contaminantes sin la autorización correspondiente que provoquen o puedan provocar daños graves a la salud pública, la flora, la fauna o los ecosistemas.
+
+A quién por acción u omisión culposa cometa alguna de las conductas a que se refiere el presente artículo, se le impondrá pena de 3 días a 3 años de prisión, y multa por el equivalente de 50 a 5000 días de salario mínimo general vigente en el Estado de Morelos. Se impondrá pena de 3 a 8 años de prisión, y multa por el equivalente de 500 a 20,000 días de salario mínimo general vigente en el Estado de Morelos, al que los cometa en forma dolosa.
 
 ## TITULO DECIMO SEPTIMO. DELITOS COMETIDOS EN EL EJERCICIO DE UNA ACTIVIDAD PROFESIONAL, ARTISTICA O TECNICA
 
@@ -4460,3 +4472,13 @@ Primero.- Aprobado que sea el presente decreto túrnese al titular del Poder Eje
 Segundo.- Este decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad".
 
 Tercero.- La comisión permanente que el Consejo Estatal de Seguridad Pública debe conformar en términos del artículo 14 de la Ley del Sistema de Seguridad Pública del Estado de Morelos, por virtud de lo establecido en el artículo 130-B, adicionado en ese ordenamiento por efecto del presente decreto, habrá de ser establecida para iniciar sus labores a más tardar en cuarenta y cinco días hábiles contados a partir de la entrada en vigor de esta reforma.
+
+P.O. 19 DE OCTUBRE DE 2011.
+
+PRIMERO.-Aprobado que sea el presente decreto y a efecto de dar cumplimiento a lo dispuesto en el Artículo 147, de la Constitución Política del Estado de Morelos, remítase a los Ayuntamientos del Estado, con la finalidad de que se pronuncien respecto a la adición de un Artículo 85-D, de la propia Constitución, junto con el dictamen y los debates que se hayan generado.
+
+SEGUNDO.- Una vez hecho el computo de los votos que hayan emitido los ayuntamientos, hágase la declaratoria correspondiente con el proposito de que la adición a la Constitución, sea parte de la misma.
+
+TERCERO.- Remítase en su oportunidad al Titular del Poder Ejecutivo el presente decreto, para su publicación y promulgación en el Periódico Oficial ''Tierra y Libertad", órgano oficial de difusión del Gobierno del Estado de Morelos.
+
+CUARTO.- El presente decreto iniciará su vigencia, 15 días después de su publicación.
