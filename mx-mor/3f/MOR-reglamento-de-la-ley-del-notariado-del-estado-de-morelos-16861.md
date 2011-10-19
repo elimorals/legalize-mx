@@ -4,7 +4,7 @@ identifier: "MOR-reglamento-de-la-ley-del-notariado-del-estado-de-morelos-16861"
 country: "mx"
 rank: "reglamento"
 publication_date: "1999-02-26"
-last_updated: "2005-09-07"
+last_updated: "2011-10-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16861&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 REGLAMENTO DE LA LEY DEL NOTARIADO DEL ESTADO DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE SEPTIEMBRE DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE OCTUBRE DE 2011.
 
 Reglamento publicado en el Periódico Oficial del Estado de Morelos, el viernes 26 de febrero de 1999.
 
@@ -67,13 +67,11 @@ VI.- Colegio: Colegio de Notarios del Estado de Morelos, A.C.
 
 ### CAPÍTULO II. DE LA UBICACIÓN E IDENTIFICACIÓN DE LAS NOTARÍAS
 
-> <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 2005)</small>
+> <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 2011)</small>
 
 ###### Artículo 4.
 
-Los Notarios del Estado de Morelos deberán ejercer sus funciones dentro de los límites del Estado y de la Demarcación Notarial que les corresponda.
-
-Las Notarías se ubicarán, en la sede de la correspondiente Demarcación Notarial; excepcionalmente podrán establecerse en alguna de las diversas poblaciones de la Demarcación respectiva, previa autorización de la Secretaría y dando aviso al Registro Público de la Propiedad y del Comercio del Estado, al Archivo General de Notarías y al Colegio.
+Los Notarios del Estado de Morelos deberán ejercer sus funciones dentro de los límites del Estado, para lo cual deberán establecer sus oficinas y su residencia en la Demarcación Notarial que les corresponda.
 
 ###### Artículo 5.
 
@@ -103,9 +101,9 @@ VIII.- Octava Demarcación Notarial.- Comprende los Municipios de Temixco y Xoch
 
 IX.- Novena Demarcación Notarial.- Comprende los Municipios de Jiutepec y Emiliano Zapata, con sede en Jiutepec, Morelos.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 7 DE SEPTIEMBRE DE 2005)</small>
+> <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 2011)</small>
 
-La Secretaría podrá autorizar a los Notarios Públicos para ejercer sus funciones en otra demarcación únicamente tratándose de casos excepcionales y justificables en aquellas demarcaciones en donde existan menos de dos Notarías.
+Previa solicitud por escrito, la Secretaría podrá autorizar a los Notarios Públicos para ejercer sus funciones en diversa Demarcación a la que les corresponde.
 
 ###### Artículo 6.
 
@@ -295,6 +293,8 @@ El aspirante o aspirantes adscritos a una Notaría, actuarán de conformidad con
 
 ### CAPÍTULO VIII. DE LA VIGILANCIA E INSPECCIÓN DE LAS NOTARÍAS
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE OCTUBRE DE 2011)</small>
+
 ###### Artículo 32.
 
 Los Notarios deben guardar reserva sobre lo pasado ante ellos, salvo los informes que obligatoriamente establezcan las leyes respectivas y los actos que deban inscribirse en el Registro Público, en cuyo caso podrán enterarse las personas que sin haber intervenido en los mismos, a juicio del Notario, tengan interés legítimo en el asunto.
@@ -339,7 +339,7 @@ La Secretaría procederá en los términos establecidos en los artículos 135 y 
 
 ###### Artículo 37.
 
-La Secretaría ejercerá el control de la actividad notarial por sí o por conducto de la unidad administrativa a que se refiera el Reglamento Interior de la propia Secretaría. El control de la actividad notarial se llevará a efecto a través de los siguientes medios:
+La Secretaría ejercerá el control de la actividad notarial por sí o por conducto de la unidad administrativa a que se refiera el Reglamento Interior de la propia Secretaría, y además podrá autorizar la apertura y uso de folios y protocolos notariales, así como los mecanismos utilizados para ello, de conformidad con lo establecido en la Ley Orgánica de la Administración Pública del Estado Libre y Soberano de Morelos y cumpliendo con las formalidades y requisitos que establece la Ley. El control de la actividad notarial se llevará a efecto a través de los siguientes medios:
 
 I.- Registro:
 
@@ -611,7 +611,9 @@ I.- Se notificará al Notario las irregularidades detectadas, otorgándole un t�
 
 II.- Con la contestación que emita el Notario o sin ella, transcurrido el término, se dará vista al Colegio de Notarios por un término de cinco días hábiles, a efecto de que emita su opinión respecto a la existencia o no de responsabilidad administrativa;
 
-III.- Transcurrido el término del artículo anterior, la Secretaría dictará la resolución correspondiente.
+> <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 2011)</small>
+
+III.- Transcurrido el término del artículo anterior, con o sin el Dictamen del Colegio de Notarios, la Secretaría dictará la resolución correspondiente.
 
 > <small>(ADICIONADO, P.O. 7 DE SEPTIEMBRE DE 2005)</small>
 
@@ -698,3 +700,11 @@ CUARTO. Los notarios adscritos a la Primera y Octava Demarcación, continuarán 
 QUINTO. La expedición y actualización del arancel de honorarios y gastos notariales a que se refiere el artículo 64 del Reglamento, deberá expedirse oportunamente para entrar en vigor a partir del primero de enero del dos mil seis.
 
 SEXTO. Se derogan todas las disposiciones administrativas que se opongan al presente Decreto.
+
+P.O. 19 DE OCTUBRE DE 2011.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado.
+
+SEGUNDO.- Se derogan las disposiciones administrativas de menor rango que se opongan a lo previsto en el presente Reglamento.
+
+TERCERO.- El Secretario de Gobierno podrá tomar las medidas necesarias para el adecuado cumplimiento de este Decreto.
