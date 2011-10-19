@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-seguridad-publica-preventiva-del-estado-de-mexico-24647"
 country: "mx"
 rank: "ley"
 publication_date: "1999-03-09"
-last_updated: "2007-12-31"
+last_updated: "2011-10-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=24647&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "MEX"
 
 LEY DE SEGURIDAD PUBLICA PREVENTIVA DEL ESTADO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 31 DE DICIEMBRE DE 2007.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO TERCERO TRANSITORIO DE LA LEY DE SEGURIDAD DEL ESTADO DE MEXICO, PUBLICADO EN LA SECCION TERCERA DE LA G.G. DE FECHA 19 DE OCTUBRE DE 2011, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: ABROGADA.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el martes 9 de marzo de 1999.
 
@@ -2248,3 +2250,41 @@ TERCERO.- Se derogan todas las disposiciones legales que se opongan al presente 
 CUARTO.- Los Procedimientos Administrativos a cargo de la Agencia de Seguridad Estatal que se encuentren en trámite al entrar en vigor este ordenamiento, se decidirán conforme a las disposiciones legales que dieron origen a los mismos.
 
 QUINTO.- Los Procedimientos de Remoción radicados a la fecha en las Contralorías Internas correspondientes, serán tramitados y resueltos de conformidad a los establecido con la legislación anterior y los procedimientos que aún no se remiten a dichos órganos de control interno, y los que se inicien deberán resolverse de conformidad con el procedimiento establecido en el presente decreto.
+
+G.G. 19 DE OCTUBRE DE 2011.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- Esta Ley entrará en vigor al día siguiente del de su publicación en el Periódico Oficial "Gaceta del Gobierno", salvo lo previsto en los artículos transitorios siguientes.
+
+TERCERO.- Se abroga la Ley de Seguridad Pública Preventiva del Estado de México, publicada el 9 de marzo de 1999 en el Periódico Oficial "Gaceta del Gobierno"; y las demás disposiciones de igual o menor jerarquía, en lo que se opongan al presente Decreto.
+
+CUARTO.- De manera progresiva y en un plazo de dos años a partir de la entrada en vigor de este Decreto, las Instituciones de Seguridad Pública, por conducto del Centro, deberán practicar las evaluaciones respectivas a sus integrantes.
+
+QUINTO.- Todos los integrantes de las Instituciones de Seguridad Pública deberán contar con el Certificado respectivo, en los términos previstos en esta Ley y en los plazos previstos en el artículo transitorio anterior. Quienes no obtengan el Certificado, serán separados del servicio, observando lo dispuesto en el artículo 123, Apartado B, Fracción XIII de la Constitución Federal y la presente Ley.
+
+SEXTO.- El Estado y los Municipios, respectivamente, contarán, para la instalación de las Comisiones de Honor y Justicia a que se refiere esta Ley, con un plazo máximo de un mes a partir de su entrada en vigor.
+
+SÉPTIMO.- Los procedimientos de separación y remoción iniciados con anterioridad a la vigencia de esta Ley, se sustanciarán y concluirán conforme a las disposiciones aplicables al momento de su instauración.
+
+OCTAVO.- Los servicios de carrera vigentes en las Instituciones de Seguridad Pública a la fecha de entrada en vigor de este Decreto, deberán ajustarse a los requisitos, criterios y procedimientos que establece esta Ley, en un plazo no mayor a un año contado a partir de su publicación.
+
+NOVENO.- Los servidores públicos que obtengan el Certificado y que satisfagan los requisitos de ingreso y permanencia que se establecen en esta Ley, ingresarán o serán homologados al servicio de carrera, en las ramas ministerial, policial y pericial, según corresponda, en la jerarquía y grado, así como antigüedad y derechos que resulten aplicables, de conformidad con lo previsto en el presente Decreto.
+
+DÉCIMO.- La organización jerárquica de las Instituciones Policiales, se establecerá dentro de los cuatro meses siguientes a la publicación de esta Ley; en tanto, seguirán vigentes los escalafones actuales. En las nuevas estructuras organizacionales, deberán respetarse los derechos de los elementos.
+
+DÉCIMO PRIMERO.- Las referencias realizadas en la presente Ley a reinserción social, quedarán entendidas al término vigente readaptación social, hasta en tanto se lleve a cabo la reforma penitenciaria a que se refiere el Decreto por el que se reforman y adicionan diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, publicado en el Diario Oficial de la Federación el 18 de junio de 2008.
+
+DÉCIMO SEGUNDO.- El Ejecutivo Estatal expedirá las disposiciones reglamentarias de la presente Ley en un plazo no mayor a seis meses, contados a partir de la entrada en vigor de este Decreto.
+
+DÉCIMO TERCERO.- El Sistema Estatal a que se refiere esta Ley, deberá estar en funcionamiento a más tardar dentro de los seis meses siguientes, contados a partir de la publicación del presente Decreto. Para tales efectos, el Ejecutivo Estatal deberá prever todo lo necesario.
+
+DÉCIMO CUARTO.- El Consejo Estatal y los Consejos Intermunicipales de Seguridad Pública, respectivamente, deberán instalarse en un plazo no mayor a seis meses, contado a partir de la entrada en vigor de este Decreto, ordenando en el mismo acto la expedición de la convocatoria respectiva para la instalación del Consejo Ciudadano. Asimismo, en su primera sesión ordinaria deberán aprobar los estatutos y reglamentos a que se refiere esta Ley.
+
+DÉCIMO QUINTO.- La Legislatura del Estado de México deberá destinar la partida presupuestal necesaria para la instalación y operación del Sistema Estatal de Seguridad Pública.
+
+DÉCIMO SEXTO.- La Legislatura del Estado de México deberá realizar las reformas procedentes a la Ley Orgánica de la Procuraduría General de Justicia del Estado de México y demás ordenamientos jurídicos que corresponda, a fin de que sean congruentes con lo dispuesto en esta Ley, en un plazo no mayor a seis meses, contados a partir de la publicación del presente Decreto.
+
+DÉCIMO SÉPTIMO.- El Instituto de Prevención del Delito de la Procuraduría General de Justicia del Estado de México, pasará al Secretariado Ejecutivo del Sistema Estatal de Seguridad Pública a partir de la entrada en vigor de este Decreto.
+
+DÉCIMO OCTAVO.- Para dar cumplimiento a lo señalado en el párrafo segundo del artículo 103 de la presente Ley, el Ejecutivo deberá expedir las disposiciones administrativas que correspondan.
