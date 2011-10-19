@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-participacion-ciudadana-de-san-pedro-garza-23167"
 country: "mx"
 rank: "reglamento"
 publication_date: "1995-11-08"
-last_updated: "1995-11-08"
+last_updated: "2011-10-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23167&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "NLE"
 ---
 # REGLAMENTO DE PARTICIPACION CIUDADANA DE SAN PEDRO GARZA GARCIA, NUEVO LEON
 
-REGLAMENTO DE PARTICIPACION CIUDADANA DE SAN PEDRO GARZA GARCIA, NUEVO LEON
+REGLAMENTO DE PARTICIPACIÓN CIUDADANA DE SAN PEDRO GARZA GARCÍA, NUEVO LEÓN
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO DE PARTICIPACIÓN CIUDADANA EN EL MUNICIPIO DE SAN PEDRO GARZA GARCÍA, NUEVO LEÓN, PUBLICADO EN EL P.O. DE 19 DE OCTUBRE DE 2011, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el miércoles 8 de noviembre de 1995.
 
@@ -318,3 +320,31 @@ MA. TERESA GARCIA DE MADERO
 SECRETARIA DEL R. AYUNTAMIENTO
 
 RUBRICA
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 19 DE OCTUBRE DE 2011.
+
+###### ARTÍCULO PRIMERO.
+
+Se abroga el Reglamento de Participación Ciudadana de San Pedro Garza García, Nuevo León, aprobado en Sesión Ordinaria celebrada el 28 de julio de 1994 y publicado en el Periódico Oficial del Estado de fecha 24 de Agosto de 1994.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga el Reglamento de Participación Ciudadana de San Pedro Garza García, Nuevo león, aprobado en Sesión Ordinaria celebrada el 19 de octubre de 1995, publicado en el Periódico Oficial del Estado de Nuevo León en fecha 8 de noviembre de 1995.
+
+###### ARTÍCULO TERCERO.
+
+Se Aprueba el Reglamento de Participación Ciudadana en el Municipio de San Pedro Garza García, Nuevo león, en los términos que se expone en el contenido del presente dictamen.
+
+###### ARTÍCULO CUARTO.
+
+El presente Reglamento de Participación Ciudadana en el Municipio de San Pedro Garza García, Nuevo León, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
+
+###### ARTÍCULO QUINTO.
+
+Hasta en tanto entre en vigor el presente Reglamento, será aplicable el Reglamento de Participación Ciudadana del Municipio de San Pedro Garza García, Nuevo León que se abroga y el cual fuera aprobado en Sesión Ordinaria de fecha el 19 de octubre de 1995.
+
+###### ARTÍCULO SEXTO.
+
+Se derogan todas las disposiciones que se opongan a lo establecido en el presente Reglamento.
