@@ -4,7 +4,7 @@ identifier: "MIC-codigo-de-justicia-administrativa-del-estado-de-michoacan-56576
 country: "mx"
 rank: "codigo"
 publication_date: "2007-08-23"
-last_updated: "2007-11-30"
+last_updated: "2011-10-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56576&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 CODIGO DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE MICHOACAN DE OCAMPO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE NOVIEMBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE OCTUBRE DE 2011.
 
 Código publicado en el Periódico Oficial del Estado de Michoacán, el jueves 23 de agosto de 2007.
 
@@ -43,9 +43,11 @@ CÓDIGO DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE MICHOACÁN DE OCAMPO.
 
 ### Capítulo Primero. Objeto y Competencia
 
+> <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 2011)</small>
+
 ###### Artículo 1.
 
-Las disposiciones del presente Código son de orden público e interés general y tienen por objeto regular los actos y procedimientos administrativos entre el particular y las dependencias, entidades y organismos públicos desconcentrados del Poder Ejecutivo Estatal, la Auditoría Superior de Michoacán, los Organismos Públicos Autónomos y como bases normativas para los ayuntamientos y las dependencias, entidades y organismos públicos desconcentrados de la Administración Pública Municipal. Así como garantizar el acceso a la justicia administrativa en el Estado de Michoacán, la cual se impartirá por el Tribunal de Justicia Administrativa del Estado de Michoacán de Ocampo.
+Las disposiciones del presente Código son de orden público e interés general y tienen por objeto regular los actos y procedimientos administrativos entre el particular y las dependencias, coordinaciones, entidades y organismos públicos desconcentrados del Poder Ejecutivo Estatal, la Auditoría Superior de Michoacán, los Organismos Públicos Autónomos y como bases normativas para los ayuntamientos y las dependencias, entidades y organismos públicos desconcentrados de la Administración Pública Municipal. Así como garantizar el acceso a la justicia administrativa en el Estado de Michoacán, la cual se impartirá por el Tribunal de Justicia Administrativa del Estado de Michoacán de Ocampo.
 
 ###### Artículo 2.
 
@@ -71,7 +73,9 @@ V. Código: El Código de Justicia Administrativa del Estado de Michoacán de Oc
 
 VI. Congreso: El Congreso del Estado de Michoacán de Ocampo;
 
-VII. Contraloría: La Secretaría de la Contraloría de Desarrollo Administrativo;
+> <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 2011)</small>
+
+VII. Contraloría: La Coordinación de Contraloría;
 
 VIII. Ejecución subsidiaria: Es la realización de actos por parte de la administración que debió, voluntariamente realizar el particular, con cargo a este mismo;
 
@@ -103,9 +107,17 @@ XXI. Reglamento Interior: El Reglamento Interior del Tribunal de Justicia Admini
 
 XXII. Resolución Administrativa: El acto administrativo que pone fin a un procedimiento, de manera expresa o presunta en caso del silencio de la autoridad competente, que decide todas y cada una de las cuestiones planteadas por los particulares o previstas por las normas;
 
-XXIII. Tribunal: El Tribunal de Justicia Administrativa de Michoacán de Ocampo; y,
+> <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 2011)</small>
 
-XXIV. Sala: Sala Colegiada.
+XXIII. Tribunal: El Tribunal de Justicia Administrativa de Michoacán de Ocampo;
+
+> <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 2011)</small>
+
+XXIV. Sala: Sala Colegiada; y,
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 19 DE OCTUBRE DE 2011)</small>
+
+XXV. Secretaría: La Secretaría de Finanzas y Administración.
 
 ### Capítulo Tercero. Aplicación y Principios
 
@@ -171,9 +183,11 @@ Los actos administrativos de carácter general, tales como reglamentos, decretos
 
 ### Capítulo Segundo. Nulidad, Anulabilidad y Revocación
 
+> <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 2011)</small>
+
 ###### Artículo 10.
 
-La omisión o irregularidad de alguno de los elementos de validez previstos en el artículo 7 (sic) este Código, o en su caso, de aquellos que establezcan las normas correspondientes, producirán la nulidad del acto administrativo.
+La omisión o irregularidad de alguno de los elementos de validez previstos en el artículo 7 de este Código, o en su caso, de aquellos que establezcan las normas correspondientes, producirán la nulidad del acto administrativo.
 
 ###### Artículo 11.
 
@@ -261,9 +275,11 @@ Cuando los trabajos deban realizarse dentro del domicilio del particular, se deb
 
 Los gastos de ejecución de los trabajos deberán ser cubiertos por los obligados al cumplimiento del acto, de acuerdo al monto comprobado de los mismos; si el particular no está de acuerdo, se iniciará un procedimiento administrativo dándole plena intervención.
 
+> <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 2011)</small>
+
 ###### Artículo 25.
 
-En ningún caso el particular estará obligado a pagar los gastos realizados por la ejecución directa, si no se siguió regularmente lo establecido en el presente Código o si no hubieren mediando (sic) razones de urgencia, o se confirió un plazo irrazonablemente reducido para realizar las obras.
+En ningún caso el particular estará obligado a pagar los gastos realizados por la ejecución directa, si no se siguió regularmente lo establecido en el presente Código o si no hubieren mediado razones de urgencia, o se confirió un plazo irrazonablemente reducido para realizar las obras.
 
 ###### Artículo 26.
 
@@ -679,9 +695,11 @@ La autoridad administrativa, de oficio o a petición de parte interesada, podrá
 
 Para la práctica de las notificaciones, citaciones, emplazamientos, requerimientos, visitas e informes, a falta de términos o plazos específicos establecidos en este Código, se deberán efectuar en un plazo máximo de tres días hábiles, contados a partir de la fecha en que se emitió la resolución o acto que se notifique. La autoridad competente deberá hacer del conocimiento al particular dicho término.
 
+> <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 2011)</small>
+
 ###### Artículo 88.
 
-El procedimiento administrativo continuará de oficio, sin perjuicio del impulso que pueda darle el particular. En caso de que la carga del procedimiento le corresponda a este último y no fuera desahogada, operará la caducidad de la instancia.
+El procedimiento administrativo, una vez iniciado, continuará de oficio, operando la caducidad de la instancia sólo en los términos dispuestos por este Código.
 
 ###### Artículo 89.
 
@@ -709,11 +727,17 @@ Cuando la notificación deba efectuarse de manera personal y el notificador no e
 
 Las notificaciones que se realicen en el procedimiento administrativo surtirán sus efectos conforme a las siguientes disposiciones:
 
-I. Las notificaciones personales, a partir del día siguiente a aquél en que fueron hechas;
+> <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 2011)</small>
 
-II. Las notificaciones hechas por correo certificado, mensajero o medios electrónicos con acuse de recibo, a partir del día siguiente de la fecha que consigne la entrega en el acuse de recibo respectivo; y,
+I. Las notificaciones personales, el día siguiente a aquél en que fueron hechas;
 
-III. Las notificaciones por edictos o por lista, a partir del día siguiente al de la fecha de la publicación.
+> <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 2011)</small>
+
+II. Las notificaciones hechas por correo certificado, mensajero o medios electrónicos con acuse de recibo, el día siguiente de la fecha que se consigne como aquella de entrega en el acuse de recibo respectivo; y,
+
+> <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 2011)</small>
+
+III. Las notificaciones por edictos o por lista, el día siguiente al de la fecha de la publicación.
 
 ###### Artículo 93.
 
@@ -731,9 +755,11 @@ Se alegue que un acto administrativo no fue notificado o que lo fue ilegalmente,
 
 El particular niegue conocer el acto, entonces, manifestará tal desconocimiento interponiendo el recurso de revisión ante la autoridad que debió notificar dicho acto. La citada autoridad le dará a conocer el acto junto con la notificación que del mismo se hubiera practicado, para lo cual el particular señalará en el escrito del propio recurso, el domicilio en que se le debe dar a conocer y el nombre de la persona facultada al efecto. Si no hace alguno de los señalamientos mencionados, la autoridad citada dará a conocer el acto y la notificación por lista.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE OCTUBRE DE 2011)</small>
+
 ###### Artículo 96.
 
-El particular tendrá un plazo de cinco días hábiles a partir del siguiente al en que la autoridad se los haya dado a conocer, para ampliar el recurso de revisión, impugnando el acto y su notificación o sólo la notificación.
+El particular tendrá un plazo de diez días hábiles a partir del siguiente al que la autoridad se los haya dado a conocer, para ampliar el recurso de revisión, impugnando el acto y su notificación o sólo la notificación.
 
 La autoridad competente para resolver el recurso de revisión estudiará los agravios expresados contra la notificación, previamente al examen de la impugnación que, en su caso, se haya hecho del acto administrativo.
 
@@ -889,11 +915,15 @@ Las sanciones administrativas podrán ser precautorias y deberán estar prevista
 
 I. Amonestación con apercibimiento;
 
-II. Multa de uno a quinientos días de salario mínimo vigente;
+> <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 2011)</small>
+
+II. Multa de uno a quinientos días de salario mínimo general vigente del Estado;
 
 III. Arresto hasta por treinta y seis horas;
 
-IV. Suspensión temporal o definitiva; o
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 19 DE OCTUBRE DE 2011)</small>
+
+IV. Suspensión temporal o definitiva; o,
 
 V. Clausura temporal o permanente, parcial o total.
 
@@ -947,23 +977,33 @@ La autoridad podrá dejar sin efectos un requerimiento o una sanción, de oficio
 
 ### Capítulo Décimo Primero. Recurso de Revisión
 
+> <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 2011)</small>
+
 ###### Artículo 128.
 
-El particular afectado por los actos y resoluciones de la autoridad que pongan fin al procedimiento administrativo, a una instancia o resuelvan un expediente, podrán optar por interponer el recurso de revisión previsto en este Capítulo o el recurso administrativo previsto en la norma respectiva o el juicio ante el Tribunal a que se refiere el Libro Quinto de este Código, en este último supuesto se exceptúan los actos que persigan un fin declarativo de la autoridad administrativa.
+El particular afectado por los actos y resoluciones de la autoridad que pongan fin al procedimiento administrativo, a una instancia o resuelvan un expediente, podrán optar por interponer el recurso de revisión previsto en este Capítulo o el recurso administrativo previsto en la norma respectiva o el juicio ante el Tribunal a que se refiere el Libro Quinto de este Código.
 
-Ejercitada la acción ante este último, no podrá ocurrir a otro medio ordinario de defensa.
+El silencio administrativo que verse sobre una pretensión con fin declarativo por la autoridad administrativa, sólo será impugnable ante el Tribunal.
+
+Ejercitada la acción ante este último, no se podrá ocurrir a otro medio ordinario de defensa.
 
 ###### Artículo 129.
 
 Procede el recurso de revisión:
 
-I. Contra los actos de las autoridades que los particulares estimen violatorios de las normas aplicables o (sic) este Código;
+> <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 2011)</small>
+
+I. Contra los actos de las autoridades que los particulares estimen violatorios de las normas aplicables a este Código, o bien, las que impongan sanciones y se estimen indebidamente fundadas y motivadas;
 
 II. Contra actos o resoluciones indebidamente fundadas o motivadas o carentes de éstas;
 
-III. Contra la negativa de dar trámite a las solicitudes o promociones o la resolución que las tenga por no interpuestas;
+> <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 2011)</small>
 
-IV. Cuando el servidor público no se hubiera abstenido de intervenir en un asunto, a pesar de encontrarse impedido de acuerdo a lo que establece este Código;
+III. Contra la negativa a dar trámite a las solicitudes o promociones o la resolución que las tenga por no interpuestas;
+
+> <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 2011)</small>
+
+IV. Contra actos o resoluciones emitidos por autoridad legalmente impedida, en los términos de este Código, para conocer, tramitar y, en su caso, resolver el asunto;
 
 V. Contra el auto de acumulación de pruebas o expedientes dentro del procedimiento administrativo;
 
@@ -973,11 +1013,15 @@ VII. Contra las resoluciones de las autoridades administrativas que pongan fin a
 
 VIII. Contra la resolución que declare la caducidad del procedimiento administrativo.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE OCTUBRE DE 2011)</small>
+
 ###### Artículo 130.
 
-El escrito de interposición del recurso deberá presentarse ante la autoridad que ordenó, emitió o ejecutó el acto impugnado y será resuelto por el superior jerárquico, salvo que el acto impugnado provenga del titular de una dependencia, en cuyo caso será resuelto por él mismo, dentro de los diez días hábiles siguientes a aquél en que haya surtido efectos la notificación, excepto en los casos previstos por los artículos 95 y 96 de este Código, en que el escrito del recurso deberá presentarse dentro del plazo que se señala.
+El escrito de interposición del recurso deberá presentarse ante la autoridad que ordenó, emitió o ejecutó el acto impugnado dentro de los veinte días hábiles siguientes a aquél en que haya surtido efectos la notificación, excepto en los casos previstos por los artículos 95 y 96 de este Código, en que el escrito del recurso deberá presentarse dentro del plazo que se señala.
 
-El escrito de interposición del recurso podrá enviarse por correo certificado o servicio de mensajería con acuse de recibo, siempre que el recurrente tenga su domicilio en localidad distinta al de la autoridad y su envío se efectúe desde el lugar en que resida el recurrente. En estos casos, se tendrá como fecha de presentación del escrito respectivo, la del día en que se deposite.
+> <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 2011)</small>
+
+El escrito de interposición del recurso será resuelto por el superior jerárquico o, en su caso, el titular de la dependencia, ante la que se interpuso el acto impugnado; podrá remitirse por correo certificado o servicio de mensajería con acuse de recibo, siempre que el recurrente tenga su domicilio en localidad distinta al de la autoridad y su envío se efectúe desde el lugar en que resida el recurrente; en estos casos, se tendrá como fecha de presentación del escrito respectivo, la del día en que se haya depositado para su envío.
 
 Si el particular afectado por un acto o resolución administrativa fallece durante el plazo a que se refiere este artículo, éste se suspenderá hasta un año, si antes no se hubiere aceptado el cargo de albacea de la sucesión.
 
@@ -1001,13 +1045,17 @@ VI. Las pruebas que en su caso ofrezca, señalando aquellas que obren en el expe
 
 VII. El lugar y fecha de la presentación del recurso de revisión; y,
 
-VIII. El domicilio para oír notificaciones, dentro de la ciudad de residencia de la autoridad administrativa competente para resolver el recurso o en su caso, la dirección de correo electrónico para recibir notificaciones.
+> <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 2011)</small>
+
+VIII. El domicilio para oír notificaciones, dentro de la ciudad de residencia de la autoridad administrativa competente para resolver el recurso o en su caso, la dirección de correo electrónico para recibir notificaciones; en caso de no manifestar ninguna de las anteriores, las notificaciones se harán por estrados.
 
 ###### Artículo 132.
 
 Al escrito del recurso de revisión, se debe acompañar:
 
-I. Copia de la identificación oficial, así como los documentos que acrediten su personalidad y su personería cuando actúe en nombre de otro o de personas morales;
+> <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 2011)</small>
+
+I. Los documentos que acrediten su personalidad o su personería cuando actúe en nombre de otro o de personas morales;
 
 II. El documento y su personería en que conste el acto impugnado. En caso de no contar con tal documento, señalar bajo protesta de decir verdad el acto que se impugna y la autoridad que lo realizó;
 
@@ -1015,19 +1063,25 @@ III. Constancia de notificación del acto impugnado, excepto cuando el actor dec
 
 IV. Las pruebas documentales que ofrezca, excepto cuando estas obren en el expediente. Lo anterior sin perjuicio de entregar copias simples señalando la existencia de los originales en el expediente.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE OCTUBRE DE 2011)</small>
+
 ###### Artículo 133.
 
-La interposición del recurso de revisión suspende la ejecución del acto impugnado cuando:
+La interposición del recurso de revisión suspende la ejecución del acto impugnado cuando, no tratándose de recusaciones:
 
 I. Lo solicite expresamente el recurrente;
 
 II. No se cause un perjuicio al interés social o se contravenga el orden público;
 
-III. No se ocasionen daños o perjuicios a terceros, a menos que éstos sean garantizados;
+> <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 2011)</small>
 
-IV. Se otorgue garantía legal suficiente en caso de que así lo acuerde la autoridad administrativa; o,
+III. No se ocasionen daños o perjuicios a terceros, a menos que éstos sean garantizados; o,
 
-V. Se trate de recusaciones.
+> <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 2011)</small>
+
+IV. Se otorgue garantía legal suficiente en caso de que así lo acuerde la autoridad administrativa.
+
+V. (DEROGADA, P.O. 19 DE OCTUBRE DE 2011)
 
 ###### Artículo 134.
 
@@ -1049,7 +1103,9 @@ I. Desecharlo por improcedente o sobreseerlo;
 
 II. Confirmar el acto impugnado;
 
-III. Declarar la nulidad o anulabilidad del acto impugnado o revocarlo total o parcialmente; y,
+> <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 2011)</small>
+
+III. Declarar la nulidad o anulabilidad del acto impugnado o revocarlo total o parcialmente; o,
 
 IV. Modificar u ordenar la modificación del acto impugnado o dictar u ordenar expedir uno nuevo que lo sustituya, cuando el recurso interpuesto sea total o parcialmente resuelto a favor del recurrente.
 
@@ -1059,9 +1115,11 @@ En contra de la resolución que resuelva el recurso de revisión interpuesto, pr
 
 ### Capítulo Décimo Segundo. Registro Estatal de Trámites y Servicios
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE OCTUBRE DE 2011)</small>
+
 ###### Artículo 138.
 
-La Contraloría organizará el Registro de la Administración Pública Estatal Centralizada y Descentralizada, que deberá publicarse en el Periódico Oficial del Estado, y se actualizará permanentemente, para cuyo efecto las dependencias y entidades deberán proporcionar para su inscripción, por cada trámite y servicio que presten, la siguiente información:
+La Secretaría organizará el Registro de los trámites y servicios de la Administración Pública Estatal Centralizada y Descentralizada, que será público y se actualizará permanentemente, para cuyo efecto las dependencias, coordinaciones y entidades deberán proporcionar para su inscripción, por cada trámite y servicio que presten, la siguiente información:
 
 I. Nombre e identificación del trámite;
 
@@ -1069,7 +1127,9 @@ II. Fundamento jurídico;
 
 III. Casos en los que debe o puede realizarse el trámite o servicio;
 
-IV. Si el trámite o servicio debe solicitarse por escrito, mediante formato específico o puede realizarse de otra manera;
+> <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 2011)</small>
+
+IV. Si el trámite o servicio debe solicitarse por escrito y mediante qué formato;
 
 V. El formato correspondiente;
 
@@ -1089,25 +1149,35 @@ XII. Horario de atención al público; y,
 
 XIII. Los números de teléfono, fax y correo electrónico, en su caso, así como la dirección y demás datos relativos a cualquier otro medio que permita el envío de consultas, documentos y quejas.
 
+> <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 2011)</small>
+
 ###### Artículo 139.
 
-La información deberá entregarse a la Contraloría y, ésta deberá analizarla y, en su caso, modificarla y mejorarla en coordinación con la autoridad administrativa operadora del proceso antes de inscribirla en el Registro.
+La información deberá entregarse a la Secretaría y, ésta deberá analizarla y, en su caso, modificarla y mejorarla en coordinación con la autoridad administrativa operadora del proceso antes de inscribirla en el Registro.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE OCTUBRE DE 2011)</small>
 
 ###### Artículo 140.
 
-Las dependencias y entidades, deberán notificar a la Contraloría, las propuestas de modificación a la información inscrita en el Registro, fundamentando y motivando la modificación.
+Las dependencias, coordinaciones y entidades, deberán notificar a la Secretaría, las propuestas de modificación a la información inscrita en el Registro, fundamentando y motivando la modificación.
 
-Una vez analizada la modificación, la Contraloría, procederá a incorporarla en el Registro, dejando constancia validada por la autoridad administrativa operadora de la versión actualizada del trámite.
+> <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 2011)</small>
+
+Una vez analizada la modificación, la Secretaría, procederá a incorporarla en el Registro, dejando constancia validada por la autoridad administrativa operadora de la versión actualizada del trámite.
 
 Las autoridades administrativas que apliquen trámites deberán poner a disposición de las áreas de atención al público, la información que al respecto esté inscrita en el Registro.
 
+> <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 2011)</small>
+
 ###### Artículo 141.
 
-Las dependencias y entidades, no podrán requerir trámites adicionales a los inscritos en el Registro, ni aplicarlos en forma distinta a lo establecido en el mismo.
+Las dependencias, coordinaciones y entidades, no podrán requerir trámites adicionales a los inscritos en el Registro, ni aplicarlos en forma distinta a lo establecido en el mismo.
+
+> <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 2011)</small>
 
 ###### Artículo 142.
 
-Los ayuntamientos podrán crear mediante acuerdo el registro de trámites municipales, aplicando en lo conducente, las disposiciones de este Código.
+Los ayuntamientos crearán mediante acuerdo el registro de trámites y servicios municipales, aplicando en lo conducente, las disposiciones de este Código. La inobservancia a este precepto será la no publicidad del trámite.
 
 # Libro Cuarto. Tribunal de Justicia Administrativa
 
@@ -1143,9 +1213,11 @@ VII. El personal que requiera para su funcionamiento.
 
 Para el nombramiento de los magistrados, el Congreso expedirá convocatoria pública registrando a los aspirantes al cargo de los cuales integrará una terna por cada vacante, que será sometida a votación en el Pleno. Será electo Magistrado quien obtenga el voto de las dos terceras partes de los diputados presentes.
 
+> <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 2011)</small>
+
 ###### Artículo 147.
 
-El Magistrado durará en su encargo cinco años y podrá ser releecto hasta en dos ocasiones. Al término de su periodo cesará en sus funciones. El Congreso, noventa días naturales anteriores a la fecha en que concluya el primero y en su caso, el segundo de los periodos del Magistrado, determinará si debe o no ser reelecto mediante el voto de las dos terceras partes de los diputados presentes. De determinarse la no reelección se iniciará el procedimiento para el nombramiento del Magistrado que ha de ocupar el periodo.
+El Magistrado durará en su encargo cinco años y podrá ser reelecto hasta en dos ocasiones. Al término de su periodo cesará en sus funciones y quedará separado de su encargo. El Congreso, dentro de los noventa días naturales anteriores a la fecha en que concluya el primero y en su caso, el segundo de los periodos del Magistrado, determinará si debe o no ser reelecto mediante el voto de las dos terceras partes de los diputados presentes. De determinarse la no reelección se iniciará el procedimiento para el nombramiento del Magistrado que ha de ocupar el periodo. De no hacerse en tiempo y forma el nombramiento, se procederá a cubrir la falta de Magistrado en los términos de este Código.
 
 ###### Artículo 148.
 
@@ -1569,7 +1641,9 @@ I. Demorar indebidamente el despacho de los negocios o las labores propias de su
 
 II. Dictar resoluciones o trámites innecesarios que sólo tiendan a dilatar el procedimiento;
 
-III. Demorar injustificadamente el envío de los autos o testimonios para el trámite de los recursos de apelación y de queja;
+> <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 2011)</small>
+
+III. Demorar injustificadamente el envío de los autos o testimonios para el trámite del recurso correspondiente;
 
 IV. Decretar un embargo o su ampliación sin que se reúnan los requisitos legales;
 
@@ -1603,11 +1677,15 @@ Las sanciones aplicables a los servidores públicos del Tribunal son:
 
 I. Amonestación por escrito;
 
-II. Multa de uno a diez días de salario;
+> <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 2011)</small>
+
+II. Multa de uno a diez días de salario mínimo general vigente en el Estado;
 
 III. Suspensión hasta por seis meses;
 
-IV. Destitución del cargo o empleo; e,
+> <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 2011)</small>
+
+IV. Destitución del cargo o empleo; o,
 
 V. Inhabilitación para desempeñar empleos, cargos o comisiones en el servicio público, hasta por seis años.
 
@@ -1681,7 +1759,9 @@ El actor podrá solicitar:
 
 I. La nulidad del acto administrativo;
 
-II. El reconocimiento de un derecho amparado en una norma, y la adopción de las medidas adecuadas para su pleno restablecimiento; y,
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 19 DE OCTUBRE DE 2011)</small>
+
+II. El reconocimiento de un derecho amparado en una norma, y la adopción de las medidas adecuadas para su pleno restablecimiento; o,
 
 III. La indemnización de daños y perjuicios.
 
@@ -1725,11 +1805,15 @@ I. Amonestación;
 
 II. Apercibimiento;
 
-III. Multa equivalente al monto de uno a treinta días de salario mínimo general diario en el Estado;
+> <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 2011)</small>
+
+III. Multa equivalente al monto de uno a treinta días de salario mínimo general vigente en el Estado;
 
 IV. Expulsión del local, en caso necesario con auxilio de la fuerza pública;
 
-V. Suspensión hasta por quince días en los casos de autoridades; y,
+> <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 2011)</small>
+
+V. Suspensión hasta por quince días en los casos de autoridades; o,
 
 VI. Arresto hasta por treinta y seis horas.
 
@@ -1743,7 +1827,9 @@ El Tribunal, para hacer cumplir sus determinaciones, podrá emplear los siguient
 
 I. Apercibimiento;
 
-II. Multa equivalente al monto de uno a treinta días de salario mínimo general diario vigente en el Estado;
+> <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 2011)</small>
+
+II. Multa equivalente al monto de uno a treinta días de salario mínimo general vigente en el Estado;
 
 III. Requerimiento al superior jerárquico de la autoridad obligada al cumplimiento de un mandato del Tribunal; o,
 
@@ -1811,7 +1897,9 @@ Los magistrados del Tribunal estarán impedidos para conocer del juicio cuando:
 
 I. Tengan interés personal en el negocio;
 
-II. Sean parientes consanguíneos en línea recta sin limitación de grado, en línea colateral hasta el segundo grado, civil o afinidad; de alguna de las partes, de sus patronos o representantes;
+> <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 2011)</small>
+
+II. Sean parientes consanguíneos en línea recta sin limitación de grado, en línea colateral hasta el segundo grado, civil o afinidad, de alguna de las partes, de sus patronos o representantes;
 
 III. Hayan sido patronos o apoderados en el mismo negocio;
 
@@ -1819,7 +1907,9 @@ IV. Tengan amistad estrecha o enemistad con alguna de las partes o con sus patro
 
 V. Con otro carácter hayan dictado el acto impugnado o intervenido en la emisión del mismo o en su ejecución;
 
-VI. Figuren como parte en juicio similar, ante el propio Tribunal; y,
+> <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 2011)</small>
+
+VI. Figuren como parte en juicio similar, ante el propio Tribunal; o,
 
 VII. Que estén en una situación análoga o más grave que las anteriores.
 
@@ -1840,6 +1930,8 @@ Las partes podrán recusar a los magistrados o a los peritos designados por ést
 La recusación de magistrados se hará valer en cualquier tiempo, mediante escrito dirigido al Presidente y acompañando las pruebas que se ofrezcan. El Presidente, dentro de los tres días hábiles siguientes a la fecha en que se presentó la promoción, pedirá un informe al Magistrado recusado, quien deberá rendirlo en igual plazo; la falta de dicho informe establece la presunción de ser cierta la causa de recusación. La recusación será resuelta por la Sala dentro del término de cinco días hábiles. Si se declara fundada la recusación, el Magistrado será sustituido en los términos de este Código. La recusación a perito se tramitará y resolverá por el Magistrado que lo designó, en los términos de este artículo.
 
 ### Capítulo Sexto. Demanda
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE OCTUBRE DE 2011)</small>
 
 ###### Artículo 213.
 
@@ -1905,7 +1997,7 @@ En los casos en que no se especifiquen términos para actuaciones del Tribunal, 
 
 ###### Artículo 223.
 
-La demanda deberá formularse por escrito y presentarse ante el Tribunal dentro de los quince días hábiles siguientes a aquél en que haya surtido efectos la notificación del acto impugnado; o en que el afectado haya tenido conocimiento de él o de su ejecución, o se haya ostentado sabedor del mismo, cuando no exista notificación legalmente hecha.
+La demanda deberá formularse por escrito y presentarse ante el Tribunal dentro de los cuarenta y cinco días hábiles siguientes a aquél en que haya surtido efectos la notificación del acto impugnado; o en que el afectado haya tenido conocimiento de él o de su ejecución, o se haya ostentado sabedor del mismo, cuando no exista notificación legalmente hecha.
 
 En caso de negativa ficta, la demanda podrá presentarse en cualquier tiempo mientras no se dicte resolución expresa.
 
@@ -1962,6 +2054,10 @@ En el supuesto de que no se señale domicilio del demandante para recibir notifi
 ###### Artículo 231.
 
 Cuando la demanda sea oscura, irregular o incompleta o se omitan los datos previstos en el artículo anterior, el Magistrado requerirá al actor para que en el término de tres días hábiles, la aclare, corrija o complemente, con el apercibimiento de que, de no hacerlo, se tendrá por no presentada o por no ofrecidas las pruebas, según corresponda.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 19 DE OCTUBRE DE 2011)</small>
+
+Igual requerimiento deberá formularse a la autoridad en el caso de ofrecimiento de pruebas irregulares.
 
 ###### Artículo 232.
 
@@ -2055,7 +2151,9 @@ La suspensión podrá ser revocada de oficio o a petición de parte por el Magis
 
 Tratándose de créditos fiscales, se concederá la suspensión si quien la solicita garantiza el interés fiscal ante la oficina correspondiente, en cualquiera de las formas previstas por el Código Fiscal del Estado.
 
-El Magistrado podrá conceder discrecionalmente la suspensión, sin necesidad de que se garantice el importe del crédito, cuando el asunto planteado no rebase quinientos días de salario mínimo general vigente.
+> <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 2011)</small>
+
+El Magistrado podrá conceder discrecionalmente la suspensión, sin necesidad de que se garantice el importe del crédito, cuando el asunto planteado no rebase quinientos días de salario mínimo general vigente en el Estado.
 
 El auto que dispense el otorgamiento de la garantía no será recurrible.
 
@@ -2283,13 +2381,17 @@ IV. Los puntos resolutivos; y,
 
 V. En su caso, el voto particular.
 
+> <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 2011)</small>
+
 ###### Artículo 277.
 
 El Tribunal deberá suplir la deficiencia de la queja planteada en la demanda, en los casos siguientes:
 
-I. Cuando el acto impugnado se haya dictado sin motivación y fundamentación o fuera de procedimiento, o habiéndolo dictado dentro de un procedimiento legal, afecte a la libertad personal del actor; o,
+I. Cuando el acto impugnado se haya dictado sin motivación y fundamentación o fuera de procedimiento, o habiéndolo dictado dentro de un procedimiento legal, afecte a la libertad personal del actor;
 
-II. Cuando el actor manifieste suma ignorancia y cuando el asunto planteado no rebase la cantidad que resulte de multiplicar por ciento cincuenta el salario mínimo general diario vigente en el Estado.
+II. Cuando el actor manifieste suma ignorancia y cuando el asunto planteado no rebase la cantidad que resulte de multiplicar por ciento cincuenta el salario mínimo general diario vigente en el Estado; o,
+
+III. Cuando se trate de menores de edad o incapaces.
 
 ###### Artículo 278.
 
@@ -2357,6 +2459,8 @@ Las sanciones, también serán procedentes cuando no se cumplimente en sus térm
 
 En caso de incumplimiento injustificado de la sentencia, se procederá como sigue:
 
+> <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 2011)</small>
+
 I. Se fijará multa de entre cien y quinientas veces el salario mínimo general vigente en el Estado, tomando en cuenta la gravedad del incumplimiento y las consecuencias que ello hubiere ocasionado, requiriéndola a cumplir con la sentencia en el término de tres días hábiles y previniéndole, además, de que en caso de renuencia, se le impondrán nuevas multas en los términos de esta fracción, lo que se informará al superior jerárquico de la autoridad demandada;
 
 II. Si al concluir el plazo mencionado en la fracción anterior, persistiere la renuencia de la autoridad demandada a cumplir con lo sentenciado, la Sala podrá requerir al superior jerárquico de aquélla para que en el plazo de tres días hábiles la obligue a cumplir sin demora;
@@ -2372,6 +2476,8 @@ Lo dispuesto en el artículo anterior también será aplicable cuando no se cump
 Transcurridos los plazos señalados en las fracciones anteriores, la Sala pondrá en conocimiento de la Contraloría Interna correspondiente los hechos, a fin de que ésta determine la responsabilidad del funcionario responsable del incumplimiento.
 
 ### Capítulo Décimo Cuarto. Procedimiento Sumario
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE OCTUBRE DE 2011)</small>
 
 ###### Artículo 287.
 
@@ -2419,9 +2525,11 @@ VII. Si el Magistrado Instructor resuelve que hubo incumplimiento de la suspensi
 
 VIII. En caso de que la autoridad persista en no dar cumplimiento a la sentencia, se estará a lo dispuesto en las fracciones III y IV del artículo 285; si aún la autoridad continuara renuente a cumplir se dará vista al Ministerio Público. En caso de que la autoridad sea sujeto de juicio político se hará del conocimiento del Congreso.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE OCTUBRE DE 2011)</small>
+
 ###### Artículo 291.
 
-A quien promueva una queja notoriamente improcedente, entendiendo por ésta la que se interponga contra actos que no constituyan resolución administrativa definitiva, se le impondrá una multa en monto equivalente a entre cien y doscientas veces el salario mínimo general diario vigente y, en caso de haberse suspendido la ejecución, se considerará este hecho como agravante para graduar la sanción que en definitiva se imponga.
+A quien promueva una queja notoriamente improcedente, entendiendo por ésta la que se interponga contra actos que no constituyan resolución administrativa definitiva, se le impondrá una multa en monto equivalente a entre cien y doscientas veces el salario mínimo general diario vigente en el Estado y, en caso de haberse suspendido la ejecución, se considerará este hecho como agravante para graduar la sanción que en definitiva se imponga.
 
 Existiendo resolución administrativa definitiva, si la Sala considera que la queja es improcedente, prevendrán al actor para que dentro de los treinta días hábiles siguientes a aquél en que surta efectos la notificación del auto respectivo, la presente como demanda, cumpliendo los mismos requisitos previstos en este Código, ante el mismo Magistrado Instructor que conoció del primer juicio, la que será turnada al mismo Magistrado Instructor de la queja.
 
@@ -2429,7 +2537,7 @@ Existiendo resolución administrativa definitiva, si la Sala considera que la qu
 
 ###### Artículo 292.
 
-El procedimiento sumario será alternativo al ordinario a solicitud del actor en asuntos que afecten la libertad personal o cuya cuantía no exceda de quinientos salarios mínimos, o en el trámite de la negativa ficta.
+El procedimiento sumario será alternativo al ordinario a solicitud del actor en asuntos que afecten la libertad personal o cuya cuantía no exceda de quinientos días de salario mínimo general vigente en el Estado, o en el trámite de la negativa ficta.
 
 Un mismo asunto no podrá iniciarse en ambas vías. No procederá el procedimiento sumario cuando exista tercero perjudicado.
 
@@ -2447,9 +2555,11 @@ En caso de admisión de la demanda, se correrá traslado de la misma a la autori
 
 Si no se recibe el informe por parte de la autoridad se tendrán por ciertos los hechos imputados.
 
+> <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 2011)</small>
+
 ###### Artículo 296.
 
-Se citará para audiencia de desahogo de pruebas y alegatos en el término de cinco días hábiles siguientes. Si la parte actora no comparece se dará por desistida la pretensión; si la parte demandada no comparece se condenará a la autoridad a someterse a la pretensión del actor, en los términos de la ley.
+Se citará para audiencia de desahogo de pruebas y alegatos en el término de cinco días hábiles siguientes. Si la parte actora no comparece se dará por desistida la pretensión; si la parte demandada no comparece se condenará a la autoridad a someterse a la pretensión del actor, en los términos de la ley. Lo anterior, salvo que por caso fortuito, fuerza mayor, por acto de autoridad o por alguna otra causa no atribuible a la voluntad de la parte que ha de comparecer, fuere imposible su presencia, siempre que lo pruebe, dentro de un plazo de tres días hábiles siguientes a la fecha en que se citó a audiencia, ante el magistrado, quien valorará; de ser probado, se ordenará reponer la audiencia en fecha y hora diversa, una vez que haya cesado lo que motivó.
 
 ###### Artículo 297.
 
@@ -2552,6 +2662,12 @@ SUFRAGIO EFECTIVO. NO REELECCIÓN. EL GOBERNADOR CONSTITUCIONAL DEL ESTADO.- LÁ
 > <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.</small>
 
 P.O. 30 DE NOVIEMBRE DE 2007.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 19 DE OCTUBRE DE 2011
 
 ###### ARTÍCULO ÚNICO.
 
