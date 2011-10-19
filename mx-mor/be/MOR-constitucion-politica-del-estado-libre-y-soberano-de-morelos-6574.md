@@ -4,7 +4,7 @@ identifier: "MOR-constitucion-politica-del-estado-libre-y-soberano-de-morelos-65
 country: "mx"
 rank: "constitucion"
 publication_date: "1930-11-16"
-last_updated: "2011-06-29"
+last_updated: "2011-10-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6574&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -20,9 +20,9 @@ state: "MOR"
 ---
 # CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS
 
-CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS
+CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE JUNIO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE OCTUBRE DE 2011.
 
 Constitución publicada en el Alcance al Periódico Oficial del Estado de Morelos, el 16 de noviembre de 1930.
 
@@ -139,6 +139,14 @@ i) Establecimiento, desarrollo e impulso de políticas públicas para la protecc
 j) Consulta a los pueblos y comunidades indígenas para la elaboración de los planes estatal y municipales sobre el desarrollo integral, y
 
 k) El Congreso del Estado y los ayuntamientos, en el ámbito de sus respectivas competencias, establecerán las partidas específicas, en los presupuestos de egresos que aprueben, para cumplir con las disposiciones de este artículo, así como las formas y procedimientos para que las comunidades participen en su ejercicio y vigilancia, a través de la Comisión de Asuntos Indígenas de los ayuntamientos.
+
+> <small>(ADICIONADO, P.O. 19 DE OCTUBRE DE 2011)</small>
+
+ARTÍCULO 2 TER.- El Estado deberá de instrumentar los mecanismos necesarios para garantizar eficientemente el acceso de toda persona a una alimentación suficiente y de calidad, que le permita satisfacer sus necesidades nutricionales que aseguren su desarrollo físico y mental.
+
+De la misma manera deberá garantizar políticas y programas para el desarrollo rural integral, para la generación de empleo y bienestar a la población campesina, y el fomento a la producción agropecuaria y forestal, capacitación y asistencia técnica.
+
+El desarrollo rural será sustentable, garantizando el Estado el abasto suficiente y oportuno de los alimentos básicos que la ley establezca.
 
 ### CAPITULO II.
 
@@ -312,9 +320,9 @@ La mujer y el varón tienen igualdad de derechos ante la Ley. Los ordenamientos 
 
 I.- Corresponde a los miembros del núcleo la atención y cuidado de cada uno de los familiares. El Estado auxiliará a la familia complementariamente.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE MARZO DE 2007)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE OCTUBRE DE 2011)</small>
 
-II.- Los menores y adolescentes tienen derecho:
+II.- Los niños, niñas y adolescentes tienen derecho:
 
 > <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 1980)</small>
 
@@ -342,7 +350,11 @@ Las personas menores de doce años que hayan realizado una conducta prevista com
 
 Estas medidas tendrán como fin la reintegración social y familiar del adolescente, así como el pleno desarrollo de su persona y capacidades. El internamiento se utilizará como medida extrema y por el menor tiempo que proceda y podrá aplicarse únicamente a los adolescente (sic) mayores de catorce años y menores de dieciocho, por la comisión de las conductas antisociales calificadas como graves.
 
-e).- (DEROGADO, P.O. 21 DE MARZO DE 2007)
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 19 DE OCTUBRE DE 2011)</small>
+
+e).- A vivir y crecer en forma saludable y normal en un nivel de vida adecuado para su desarrollo físico, mental afectivo, moral y social, en el seno de la familia, la escuela, la sociedad y las instituciones, así como a ser protegidos contra cualquier forma de maltrato, perjuicio, daño, agresión, abuso, o explotación, en condiciones de libertad, integridad y dignidad; por lo que para su protección las leyes que se expidan y las medidas que se tomen en todo momento deberán aplicar el principio del interés superior del menor. Los ascendientes, tutores y custodios tienen la obligación de preservar y hacer cumplir estos derechos y principios.
+
+El Estado garantizará a las niñas/niños/adolescentes, que se encuentren en situación vulnerable y que pongan en riesgo su vida, libertad, integridad y dignidad, su cuidado y protección a través del adecuado funcionamiento de instituciones y establecimientos públicos o privados que estén dedicados a ese fin.
 
 (REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2000) (F. DE E., P.O. 29 DE NOVIEMBRE DE 2000)
 
@@ -916,7 +928,11 @@ XIV.- Autorizar la venta, hipoteca o cualquier otro gravamen de bienes raíces d
 
 XV.- Expedir las leyes en materia municipal de conformidad a las bases establecidas en los artículos 115 y 116 de la Constitución General de la República.
 
-XVI.- (DEROGADA, P.O. 3 DE JUNIO DE 1992)
+> <small>(ADICIONADA, P.O. 19 DE OCTUBRE DE 2011)</small>
+
+XVI.- Revisar el Plan Estatal de Desarrollo y remitir en su caso, al Ejecutivo Estatal para su consideración, las observaciones formales aprobadas por el Pleno, dentro los (sic) dos meses siguientes a su recepción. Si transcurrido dicho término el Congreso no remitiera ninguna observación, se entenderá que no hubo observaciones por parte del Congreso.
+
+Igual procedimiento seguirán las modificaciones que el Ejecutivo Estatal realice al mismo.
 
 > <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1983)</small>
 
@@ -1968,11 +1984,21 @@ DE LA PROTECCION DE LOS DERECHOS HUMANOS.
 
 DE LA PROTECCION DEL AMBIENTE Y DEL EQUILIBRIO ECOLOGICO.
 
-> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO CUARTO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-###### Artículo 85-D.
+> <small>(ADICIONADO, P.O. 19 DE OCTUBRE DE 2011)</small>
 
-El Ejecutivo del Estado garantizará que el desarrollo en la entidad sea integral y sustentable, para este efecto, también garantizará la conservación del patrimonio natural del Estado, la protección del ambiente y la preservación y restauración del equilibrio ecológico a que tienen derecho los habitantes del Estado.
+###### ARTÍCULO 85-D.
+
+Toda persona tiene derecho a un medio ambiente adecuado para su desarrollo y bienestar.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO CUARTO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 2011)</small>
+
+###### ARTÍCULO 85-E.
+
+El Ejecutivo del Estado garantizará que el desarrollo en la entidad sea integral y sustentable, para este efecto, también garantizará la conservación del patrimonio natural del estado, la protección del ambiente y la preservación y restauración del equilibrio ecológico a que tienen derecho los habitantes del estado.
 
 ### CAPITULO I.
 
@@ -2382,11 +2408,11 @@ En caso de retiro y retiro forzoso, les serán aplicables las disposiciones prev
 
 > <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
 
-### CAPÍTULO III.
+### CAPITULO IV.
 
-DE SU NATURALEZA JURIDICA Y ATRIBUCIONES REGLAMENTARIAS.
+DE LOS SERVICIOS QUE PRESTAN.
 
-> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
+> <small>(ADICIONADO, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
 
 ###### ARTÍCULO 109
 
@@ -2422,11 +2448,11 @@ La Ley Orgánica establecerá la organización, el funcionamiento, las atribucio
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
 
-### CAPITULO IV.
+### CAPÍTULO III.
 
-DE LOS SERVICIOS QUE PRESTAN.
+DE SU NATURALEZA JURIDICA Y ATRIBUCIONES REGLAMENTARIAS.
 
-> <small>(ADICIONADO, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
 
 ###### ARTÍCULO 109
 
@@ -2518,18 +2544,6 @@ La ley determinará la competencia del Ayuntamiento en funciones de cabildo y la
 
 La competencia que esta Constitución otorga al gobierno municipal se ejercerá por el Ayuntamiento de manera exclusiva y no habrá autoridad intermedia alguna entre éste y el Gobierno del Estado.
 
-###### Artículo 114.
-
-Los Municipios tienen personalidad jurídica propia; pero la política y la administrativa de los mismos, fuera del Estado, corresponde al Ejecutivo como representante de toda la Entidad, excepto en los casos de aplicación de leyes federales.
-
-> <small>(ADICIONADO, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
-
-### CAPITULO VIII.
-
-DE LAS FACULTADES DEL CONGRESO EN MATERIA DE ORGANIZACIÓN MUNICIPAL.
-
-> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
-
 ###### Artículo 114
 
 BIS.- Los Ayuntamientos tendrán a su cargo las funciones y servicios públicos siguientes:
@@ -2557,6 +2571,18 @@ IX.- Los demás que la ley determine, según las condiciones territoriales y soc
 Los Ayuntamientos con sujeción a la normatividad aplicable, podrán coordinarse y asociarse para la más eficaz prestación de los servicios públicos o el mejor ejercicio de las funciones que les correspondan. En este caso y tratándose de la asociación de municipios del Estado y de otro o más Estados, deberán contar con la aprobación de las legislaturas correspondientes. Así mismo cuando a juicio del Ayuntamiento respectivo, sea necesario, podrá celebrar convenios con el Estado para que éste, de manera directa o a través del organismo correspondiente, se haga cargo en forma temporal de algunos de ellos, o bien se presten o ejerzan coordinadamente por el Estado y el propio municipio, sujetándose también a la ley o leyes respectivas.
 
 Sin perjuicio de su competencia constitucional, en el desempeño de sus funciones o la prestación de los servicios a su cargo, los Ayuntamientos observarán lo dispuesto en las leyes federales y estatales.
+
+> <small>(ADICIONADO, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
+
+### CAPITULO VIII.
+
+DE LAS FACULTADES DEL CONGRESO EN MATERIA DE ORGANIZACIÓN MUNICIPAL.
+
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
+
+###### Artículo 114.
+
+Los Municipios tienen personalidad jurídica propia; pero la política y la administrativa de los mismos, fuera del Estado, corresponde al Ejecutivo como representante de toda la Entidad, excepto en los casos de aplicación de leyes federales.
 
 > <small>(ADICIONADO, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
 
@@ -2668,7 +2694,11 @@ III.- Saber leer y escribir.
 
 IV.- No ser ministro de algún culto, salvo que hubiere dejado de serlo con la anticipación y en la forma que establezca la ley reglamentaria del Artículo 130 de la Constitución Federal.
 
-V.- No ser funcionario o empleado de la Federación, del Estado o de los Municipios si no se separan de sus respectivos cargos noventa días antes del día de la elección.
+(NOTA: EL 8 DE DICIEMBRE DE 2011, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO QUINTO Y EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 32/2011, DECLARÓ LA INVALIDEZ DEL PÁRRAFO PRIMERO, FRACCIÓN V DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA EN SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 8 DE DICIEMBRE DE 2011 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: "... V.- No ser funcionario o empleado de la Federación, del Estado o de los Municipios si no se separan de sus respectivos cargos noventa días antes del día de la elección."]. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+> <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 2011)</small>
+
+V.- NO SER FUNCIONARIO O EMPLEADO DE LA FEDERACIÓN, DEL PODER EJECUTIVO O DEL PODER JUDICIAL O DE LOS MUNICIPIOS SI NO SE SEPARAN DE SUS RESPECTIVOS CARGOS NOVENTA DÍAS ANTES DEL DÍA DE LA ELECCIÓN.
 
 El Consejero Presidente y los Consejeros Electorales del Consejo Estatal Electoral, los Magistrados del Tribunal Estatal Electoral, así como el personal directivo del Instituto Estatal Electoral, aún si se separan de sus funciones, conforme a lo dispuesto en la fracción VIII del Artículo 23 de la presente Constitución.
 
@@ -3036,7 +3066,7 @@ Esta Constitución no perderá su fuerza y vigor aun cuando por alguna rebelión
 
 Para el ejercicio de la facultad que el artículo 135 de la Constitución Política de los Estados Unidos Mexicanos, confiere a la legislatura local, las minutas correspondientes de reforma o adición aprobadas por el Congreso de la Unión, deberán aprobarse mediante votación nominal de las dos terceras partes de los miembros de la Cámara presentes.
 
-T R A N S I TO R I O S.
+T R A N S I T O R I O S.
 
 Artículo Primero.- Esta Constitución se publicará por bando solemne en la Capital del Estado y en las Cabeceras de los Municipios, el día veinte del mes de noviembre, y entrará en vigor inmediatamente.
 
@@ -4039,3 +4069,71 @@ P.O. 29 DE JUNIO DE 2011.
 Primero.- Aprobado que sea el presente en términos del artículo 147 de la Constitución Política del Estado Libre y Soberano de Morelos, remítase al Poder Ejecutivo para su promulgación y publicación en el Periódico Oficial ''Tierra y Libertad".
 
 Segundo.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", Órgano de Difusión del Gobierno del Estado de Morelos.
+
+P.O. 19 DE OCTUBRE DE 2011.
+
+DECRETO NÚMERO 1371 POR EL QUE SE REFORMA LA FRACCIÓN V DEL ARTÍCULO 117 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS
+
+PRIMERO.- Aprobado que sea el presente Decreto en términos de lo dispuesto por la fracción I del artículo 147 de la Constitución Política del Estado Libre y Soberano de Morelos, remítase copia a los Ayuntamientos para que manifiesten su aprobación o desaprobación.
+
+(NOTA: EL 8 DE DICIEMBRE DE 2011, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SÉPTIMO Y EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 32/2011, DECLARÓ LA INVALIDEZ DEL ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO NÚMERO 1371 INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 8 DE DICIEMBRE DE 2011 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+SEGUNDO.- UNA VEZ APROBADO POR EL CONSTITUYENTE PERMANENTE, EL PRESENTE DECRETO INICIARÁ SU VIGENCIA A PARTIR DE LA PUBLICACIÓN DE LA DECLARATORIA CORRESPONDIENTE EN EL PERIÓDICO OFICIAL "TIERRA Y LIBERTAD", ÓRGANO DEL GOBIERNO DEL ESTADO DE MORELOS.
+
+TERCERO.- Se derogan todas las disposiciones jurídicas que se opongan a lo dispuesto por el presente decreto.
+
+P.O. 19 DE OCTUBRE DE 2011.
+
+DECRETO NUMERO 1372 POR EL QUE SE ADICIONA EL ARTICULO 85-D RECORRIENDOSE EL SUBSECUENTE PARA QUEDAR COMO ARTICULO 85-E, DE LA CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS
+
+PRIMERO.- Aprobado que sea el presente decreto y a efecto de dar cumplimiento a lo dispuesto en el Artículo 147, de la Constitución Política del Estado de Morelos, remítase a los Ayuntamientos del Estado, con la finalidad de que se pronuncien respecto a la adición de un Artículo 85-D, de la propia Constitución, junto con el dictamen y los debates que se hayan generado.
+
+SEGUNDO.- Una vez hecho el computo de los votos que hayan emitido los ayuntamientos, hágase la declaratoria correspondiente con el propósito de que la adición a la Constitución, sea parte de la misma.
+
+TERCERO.- Remítase en su oportunidad al Titular del Poder Ejecutivo el presente decreto, para su publicación y promulgación en el Periódico Oficial "Tierra y Libertad", órgano oficial de difusión del Gobierno del Estado de Morelos.
+
+CUARTO.- El presente decreto iniciará su vigencia, 15 días después de su publicación.
+
+P.O. 19 DE OCTUBRE DE 2011.
+
+DECRETO NUMERO 1373 POR EL QUE SE ADICIONA EL ARTICULO 2 TER AL CAPITULO PRIMERO DEL TITULO PRIMERO DE LA CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS.
+
+###### ARTÍCULO PRIMERO.
+
+Aprobado que sea el presente decreto en términos del artículo 147 de la Constitución Política del Estado Libre y Soberano de Morelos, remítase al poder Ejecutivo para su promulgación y publicación en el periódico Oficial "Tierra y Libertad"
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad".
+
+P.O. 19 DE OCTUBRE DE 2011.
+
+DECRETO NUMERO 1374 POR EL QUE SE REFORMA EL ARTICULO 19, FRACCION II, INCISO E) DE LA CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS.
+
+###### ARTÍCULO PRIMERO.
+
+El Congreso del Estado en un término de noventa días hábiles, expedirá la Ley que regule las Instituciones Privadas de Asistencia Social.
+
+###### ARTÍCULO SEGUNDO.
+
+El Congreso del Estado de Morelos, en un término de ciento veinte días hábiles, expedirá la ley reglamentaria en la materia, para que de esta manera se establezcan las bases y principios a fin de que lo dispuesto en el nuevo ordenamiento Constitucional, adquiera plena vigencia, operatividad y eficacia.
+
+###### ARTÍCULO TERCERO.
+
+Aprobado que sea el presente decreto en términos del artículo 147 de la Constitución Política del Estado Libre y Soberano de Morelos, remítase al poder Ejecutivo para su promulgación y publicación en el periódico Oficial "Tierra y Libertad".
+
+###### ARTÍCULO CUARTO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad".
+
+P.O. 19 DE OCTUBRE DE 2011.
+
+DECRETO NUMERO 1375 POR EL QUE SE ADICIONA LA FRACCION XVI AL ARTICULO 40 DE LA CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS.
+
+PRIMERO.- Aprobado que sea el presente Decreto en términos de lo dispuesto por la fracción I del artículo 147 de la Constitución Política del Estado Libre y Soberano de Morelos, remítase copia a los Ayuntamientos para que manifiesten su aprobación o desaprobación.
+
+SEGUNDO.- Una vez aprobado por el Constituyente Permanente, el presente Decreto iniciará su vigencia a partir de la publicación de la declaratoria correspondiente en el Periódico Oficial "Tierra y Libertad", órgano del Gobierno del Estado de Morelos.
+
+TERCERO.- La revisión y observaciones a que se refiere la fracción XVI del artículo 40, se realizarán a partir del Plan Estatal de Desarrollo que entregue la administración cuyo encargo inicie en el año 2012.
+
+CUARTO.- El Congreso del Estado de Morelos, en un término de ciento veinte días hábiles, a partir de la publicación de la declaratoria correspondiente, deberá aprobar y publicar la reforma respectiva a la Ley de Planeación Estatal y la Ley Orgánica para el Congreso del Estado de Morelos, con el fin de adecuarla a la presente reforma constitucional.
