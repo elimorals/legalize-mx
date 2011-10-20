@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-aguas-para-el-estado-de-san-luis-potosi-48372"
 country: "mx"
 rank: "ley"
 publication_date: "2006-01-12"
-last_updated: "2011-07-22"
+last_updated: "2011-10-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=48372&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE AGUAS PARA EL ESTADO DE SAN LUIS POTOSI
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE JULIO DE 2011.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE OCTUBRE DE 2011.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 12 de enero de 2006.
 
@@ -437,9 +437,9 @@ a) El cumplimiento de acuerdos de la Junta de Gobierno o su estado de avance.
 
 b) Los estados financieros.
 
-c) Evaluación y control de las metas establecidas en los instrumentos documentales referidos en el Capítulo II de la Ley de Planeación para el Estado y municipios de San Luis Potosí;
+c) Evaluación y control de las metas establecidas en los instrumentos documentales referidos en el Capítulo II de la Ley de Planeación para el Estado y municipios de San Luis Potosí.
 
-d) Cumplimiento de los programas de obras y erogaciones en las mismas o su estado de avance.
+d) Cumplimiento de los programas de obras y erogaciones en las mismas o su estado de avance;
 
 XIII. Presentar a la Junta de Gobierno, para su aprobación, antes del quince de noviembre de cada año, los proyectos de presupuestos de ingresos y egresos, así como el programa de labores para el siguiente ejercicio;
 
@@ -1291,7 +1291,9 @@ V. Formular y mantener actualizado el inventario de bienes y recursos que integr
 
 VI. Formular y mantener actualizado el padrón de usuarios de servicios a su cargo;
 
-VII. Elaborar los estados financieros del organismo, y proporcionar la información y documentación que sea solicitada por el Comisario Público;
+> <small>(REFORMADA, P.O. 20 DE OCTUBRE DE 2011)</small>
+
+VII. Elaborar los estados financieros del organismo, y proporcionar la información y documentación que sea solicitada por el Contralor Interno;
 
 VIII. Utilizar todos los ingresos que recaude, obtenga o reciba, exclusivamente en los servicios públicos que preste, destinándolos en forma prioritaria a incrementar la efectividad de la administración y operación del organismo, y posteriormente, a ampliar la infraestructura hidráulica, ya que en ningún caso podrán ser destinados a otros fines;
 
@@ -1391,7 +1393,7 @@ III. Remitir al Congreso, para su aprobación, las cuotas y tarifas por la prest
 
 IV. Designar y remover al Director General del organismo;
 
-V. Solicitar al ayuntamiento que designe al Comisario Público;
+V. (DEROGADA, P.O. 20 DE OCTUBRE DE 2011)
 
 VI. Resolver sobre los asuntos que en materia de servicios públicos y reuso, someta a su consideración el Director General;
 
@@ -1419,7 +1421,9 @@ La Junta de Gobierno funciona válidamente con la concurrencia de la mayoría de
 
 Los acuerdos y resoluciones de la Junta de Gobierno se tomarán por mayoría de votos de los asistentes, y el presidente tendrá voto de calidad.
 
-La Junta se reunirá por lo menos una vez cada tres meses, y cuantas veces fuere convocada por su Presidente, por el Director General, a iniciativa del Comisario Público, o a petición de tres o más miembros de la misma.
+> <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 2011)</small>
+
+La Junta se reunirá por lo menos una vez cada tres meses, y cuantas veces fuere convocada por su Presidente, por el Director General, a iniciativa, o a petición de tres o más miembros de la misma.
 
 #### SECCION TERCERA. Del Director General
 
@@ -1447,7 +1451,9 @@ El Director General del organismo operador descentralizado tiene las siguientes 
 
 I. Tener la representación legal del organismo, con todas las facultades generales y especiales que requieran poder o cláusula especial conforme a la ley; así como otorgar y revocar poderes, formular querellas y denuncias, otorgar el perdón extintivo de la acción penal, elaborar y absolver posiciones, así como promover y desistirse del juicio de amparo;
 
-II. Presentar anualmente al cabildo para conocimiento, un informe general, por escrito, aprobado previamente por la Junta de Gobierno y avalado por el Comisario Público.
+> <small>(REFORMADA, P.O. 20 DE OCTUBRE DE 2011)</small>
+
+II. Presentar anualmente al cabildo para conocimiento, un informe general, por escrito, aprobado previamente por la Junta de Gobierno.
 
 Dicho informe debe contener, en forma explícita, el grado de cumplimiento de las metas establecidas en el Proyecto Estratégico de Desarrollo y las aclaraciones que al respecto considere convenientes.
 
@@ -1477,7 +1483,9 @@ XII. Ordenar el pago de los derechos por el uso o aprovechamiento de aguas estat
 
 XIII. Ejecutar los acuerdos de la Junta de Gobierno;
 
-XIV. Convocar a reuniones de la Junta de Gobierno, por propia iniciativa, a petición del Comisario Público o de dos o más miembros de la Junta, en términos del reglamento interior del organismo;
+> <small>(REFORMADA, P.O. 20 DE OCTUBRE DE 2011)</small>
+
+XIV. Convocar a reuniones de la Junta de Gobierno, por propia iniciativa, a petición de dos o más miembros de la Junta, en términos del reglamento interior del organismo;
 
 XV. Presentar para su aprobación a la Junta de Gobierno, un informe anual de actividades del organismo, dentro de los tres primeros meses de su ejercicio inmediato posterior, que contenga:
 
@@ -1519,73 +1527,143 @@ XXVIII. Las demás que le señalen la Junta de Gobierno, esta Ley y el Reglament
 
 #### SECCION CUARTA. Del Organo de Vigilancia
 
+> <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 2011)</small>
+
 ###### ARTICULO 101.
 
-Los organismos operadores deberán contar con un órgano de vigilancia, I que lo integrarán el Contralor del ayuntamiento y el Comisario Público.
+Los organismos operadores deben contar con un órgano de vigilancia denominado Contraloría Interna.
 
-El Comisario Público, para el cumplimiento de sus atribuciones, se auxiliará con el personal que le sea asignado por el organismo operador.
+El Contralor Interno para el cumplimiento de sus atribuciones se auxiliará con el personal que le sea asignado por el organismo operador.
 
-El Comisario Público será designado por la Junta de Gobierno, a propuesta del ayuntamiento, y contará con las siguientes atribuciones:
+El Contralor Interno será designado por la Junta de Gobierno, a propuesta del ayuntamiento, y tiene las siguientes atribuciones:
 
-I. Vigilar que la administración de los recursos se realice de acuerdo con lo que disponga la ley, los programas y presupuestos aprobados;
+I. Planear, programar, organizar y coordinar el sistema de control y evaluación del organismo operador del agua;
 
-II. Elaborar y ejecutar el programa anual de auditorías para lo cual se coordinará con la Contaduría Mayor de Hacienda del Congreso del Estado;
+II. Fiscalizar el ingreso y ejercicio del gasto público del organismo operador, y su congruencia con el presupuesto de egresos;
 
-III. Elaborar y ejecutar, previo acuerdo con la Junta de Gobierno, el programa de auditorías financieras, técnicas y administrativas, y de gestión, que periódicamente deberán realizarse tanto a la Dirección General, como a todas y cada una de las unidades administrativas de los organismos operadores descentralizados;
+III. Vigilar que los recursos y aportaciones federales y estatales asignados al organismo, se apliquen en los términos estipulados en las leyes, reglamentos y convenios específicos;
 
-IV. Vigilar que se practiquen las auditorias financieras, técnicas, administrativas y de gestión, por lo menos una vez al año, con el fin de que una vez concluidas se entreguen, en un plazo que no exceda de treinta días naturales, a:
+IV. Dictaminar los estados financieros del departamento de administración y finanzas del organismo operador, y verificar que los informes sean remitidos en tiempo y forma a la Auditoría Superior del Estado;
+
+V. Participar en la elaboración y actualización de los inventarios generales de bienes propiedad del organismo;
+
+VI. Instaurar y substanciar los procedimientos administrativos disciplinarios y resarcitorios, hasta dejarlos en estado de resolución; poniéndolos a consideración de la Junta de Gobierno, quien dictaminará sobre la existencia o inexistencia de responsabilidades administrativas, derivadas del incumplimiento de las obligaciones en que incurran los servidores públicos del organismo operador;
+
+VII. Informar oportunamente a los servidores públicos del organismo obligados a ello, acerca de la obligación de manifestar sus bienes, verificando que tal declaración, se presente en tiempo y forma legal;
+
+VIII. Vigilar el cumplimiento de las normas y disposiciones sobre el registro, contabilidad, contratación y pago de personal, contratación de servicios, obra pública, adquisiciones, enajenaciones, usos y conservación del patrimonio del organismo superior en relación a su función, o que sugieran los integrantes de la Junta de Gobierno;
+
+IX. Elaborar y ejecutar, previo acuerdo con la Junta de Gobierno, los programas de auditoría financiera, técnica, administrativa y de gestión, de la dirección general y de cada una de las unidades administrativas del organismo operador, verificando que éstas se practiquen por lo menos una vez al año, con el fin de que una vez concluidas se entreguen en un plazo que no exceda de treinta días naturales, a:
 
 a) La Junta de Gobierno.
 
-b) El ayuntamiento y su órgano de control interno.
+b) Al órgano de Control Interno del ayuntamiento.
 
-c) La Contaduría Mayor de Hacienda del Congreso del Estado de San Luis Potosí;
+c) A la Auditoría Superior del Estado;
 
-V. Participar en la entrega-recepción de las unidades administrativas del organismo operador descentralizado;
+X. Rendir anualmente en sesión ordinaria de la Junta de Gobierno, dictamen respecto de la veracidad y responsabilidad de la información presentada por el director general, y enviar copia al órgano de control interno del ayuntamiento para su conocimiento, así como a la Auditoría Superior del Estado;
 
-VI. Rendir anualmente, en sesión ordinaria de la Junta de Gobierno, un dictamen respecto a la veracidad, suficiencia y responsabilidad de la información presentada por el Director General, y enviar copia del mismo al órgano de control interno del ayuntamiento para su conocimiento, así como a la Contaduría Mayor de Hacienda;
+XI. Insertar en el orden del día de las sesiones de la Junta de Gobierno, los puntos que estime pertinentes en relación a su función, o que sugieran los integrantes de la Junta;
 
-VII. Investigar, determinar y sancionar las responsabilidades administrativas correspondientes en que incurran el Director General y los funcionarios o empleados del organismo operador, en los términos de la Ley de Responsabilidades de los Servidores Públicos del Estado y municipios de San Luis Potosí, enterando a la Junta de Gobierno;
+XII. Convocar a sesiones extraordinarias, a través del director general, cuando lo considere conveniente;
 
-VIII. Insertar en la orden del día de las sesiones de la Junta de Gobierno, los puntos que estime pertinentes en relación a su función, o que sugieran los integrantes de dicha Junta;
+XIII. Vigilar ilimitadamente en cualquier tiempo las operaciones del organismo operador;
 
-IX. Convocar a sesiones extraordinarias, a través del Director General, cuando lo considere conveniente;
+XIV. Vigilar y calificar el seguimiento de denuncia ciudadana contra los servidores públicos que laboren en el organismo operador, y
 
-X. Vigilar ilimitadamente en cualquier tiempo, las operaciones del organismo operador descentralizado;
+XV. Las demás que le señalen las disposiciones legales y reglamentarias aplicables.
 
-XI. Vigilar y calificar el seguimiento a la denuncia ciudadana, y
+> <small>(ADICIONADO, P.O. 20 DE OCTUBRE DE 2011)</small>
 
-XII. Las demás que le señalen las disposiciones legales y reglamentarias aplicables.
+ARTICULO 101 BIS. Para ser designado Contralor Interno del organismo operador de agua, deberán reunir los requisitos que se exigen para ser Contralor Interno de los ayuntamientos, en los términos previstos por el artículo 85 de la Ley Orgánica del Municipio Libre.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE OCTUBRE DE 2011)</small>
 
 ###### ARTICULO 102.
 
-En el caso de organismos operadores intermunicipales, la propuesta del Comisario Público la hará el ayuntamiento del municipio que cuente con el mayor número de habitantes.
+En los organismos operadores intermunicipales, la propuesta del Contralor Interno la hará el ayuntamiento del municipio que cuente con el mayor número de habitantes.
 
 La obligación a que se refiere el inciso b) de la fracción IV del artículo 101 de esta Ley, aplicará para todos los municipios que integren el organismo operador.
 
+> <small>(ADICIONADO, P.O. 20 DE OCTUBRE DE 2011)</small>
+
+En caso de que los organismos operadores no tengan contraloría interna, el órgano de control interno del ayuntamiento de que se trate, fungirá con tal carácter en el organismo operador.
+
 #### SECCION QUINTA. Del Consejo Consultivo de los Organismos Operadores Descentralizados
+
+> <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 2011)</small>
 
 ###### ARTICULO 103.
 
-El Consejo Consultivo tiene por objeto:
+El Consejo Consultivo es un órgano colegiado y de carácter honorífico, perteneciente al organismo operador; estará conformado por las personas usuarias de los servicios, doméstico, comercial y de servicios, e industrial, debiendo, en su caso, estar representadas las organizaciones de los sectores social y privado del municipio o municipios que se trate.
 
-I. Hacer partícipes a los usuarios en la gestión del organismo operador, haciendo las observaciones y recomendaciones para su funcionamiento eficiente y eficaz;
+> <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 2011)</small>
+
+###### ARTICULO 104.
+
+El Consejo Consultivo tiene como objeto:
+
+I. Hacer partícipes a los usuarios en la gestión del organismo operador, que formularán las observaciones y recomendaciones para su funcionamiento eficiente y eficaz;
 
 II. Opinar sobre los resultados del organismo;
 
 III. Proponer mecanismos financieros o crediticios;
 
-IV. Coadyuvar para mejorar la situación financiera del organismo;
+IV Coadyuvar para mejorar la situación financiera del organismo;
 
-V. Promover entre los usuarios el uso eficiente del agua y el cumplimiento de sus obligaciones, y
+V Promover entre los usuarios el uso eficiente del agua y el cumplimiento de sus obligaciones, y
 
 VI. Las demás que le señale el Reglamento Interior del organismo.
 
-###### ARTICULO 104.
+> <small>(ADICIONADO, P.O. 20 DE OCTUBRE DE 2011)</small>
 
-El Consejo Consultivo funcionará con el número de miembros y en la forma que se señale en el Reglamento Interior del organismo, debiendo, preferentemente, estar constituido por los siguientes integrantes: un representante de los usuarios domésticos del municipio o los municipios; un representante del sector comercio y de servicios; un representante del sector industrial; un representante de los pensionados jubilados y personas de la tercera edad; un representante del sector educativo público; y en caso de que lo hubiere, un representante del sector educativo privado.
+ARTICULO 104 BIS. Los representantes de los usuarios comerciales e industriales del Consejo Consultivo, deberán pertenecer a instituciones, asociaciones, cámaras, colegios de profesionistas u organizaciones sólidas, debidamente acreditadas, y tener conocimientos en materia de agua o temas relacionados estrechamente con ésta; en tanto que los representantes de los usuarios domésticos deberán ser personas comprometidas en atender la problemática del uso del agua y su conservación, buscando preferentemente un perfil adecuado al tema hídrico. Para la constitución del Consejo Consultivo, el ayuntamiento que se trate, emitirá la convocatoria pública dirigida a todas las personas usuarias del servicio doméstico, comercial y de servicios, e industrial, con los siguientes requisitos, en su caso:
 
-Dichos representantes deberán pertenecer a la circunscripción territorial del organismo operador descentralizado.
+I. Contar con la nacionalidad mexicana y mayoría de edad;
+
+II. Ser residente del municipio en que se emita la convocatoria;
+
+III. En caso de pertenecer a alguna asociación de profesionales, debidamente constituidas de acuerdo con las leyes mexicanas presentar su acreditación, y
+
+IV. En el caso de personas físicas, deberán ser personas comprometidas en atender la problemática del uso del agua y su conservación, capaces de hacer aportaciones al sector.
+
+El Consejo Consultivo se integrará de la siguiente manera: con hasta 5 miembros en los organismos operadores que tengan instaladas hasta 999 tomas; hasta 8 miembros en los que tengan instaladas de 1,000 a 29,999 tomas; y hasta 10 en los que cuenten con 30,000 o más tomas instaladas.
+
+Cada miembro propietario contará con su respectivo suplente.
+
+> <small>(ADICIONADO, P.O. 20 DE OCTUBRE DE 2011)</small>
+
+ARTICULO 104 TER. Las personas integrantes del Consejo Consultivo designarán por mayoría de votos de entre sus integrantes, a quien presida el mismo, y tres representantes, quienes deberán representar a las personas usuarias de los servicios domésticos, comerciales y de servicios, y los industriales, los cuales representarán al Consejo Consultivo en la Junta de Gobierno del Organismo; igualmente se designará a una persona vicepresidenta quien suplirá al Presidente en sus ausencias.
+
+El Presidente, los representantes y los suplentes a que se refiere el párrafo anterior, durarán tres años en sus cargos, sin posibilidad de reelección inmediata.
+
+Las personas integrantes del Consejo Consultivo durarán tres años en su encargo, comenzando a partir de la mitad de cada periodo municipal.
+
+No podrán formar parte del Consejo Consultivo, personas funcionarios o empleadas (sic) del organismo operador (sic) que se trate, o servidores públicos.
+
+> <small>(ADICIONADO, P.O. 20 DE OCTUBRE DE 2011)</small>
+
+ARTICULO 104 QUATER. Las personas integrantes del Consejo Consultivo podrán ser removidas en los siguientes casos:
+
+I. Cuando sin causa justificada falten más de tres veces consecutivas a las reuniones de la Junta de Gobierno, o del Consejo Consultivo, y
+
+II. Por renuncia al cargo conferido.
+
+En lo previsto en el párrafo que antecede, la Junta de Gobierno calificará la solicitud de remoción que le presente el consejo consultivo y en la siguiente sesión de la Junta de Gobierno, se procederá a desechar o aprobar la solicitud según corresponda; en caso de ser aprobada esa solicitud, entrará en funciones el suplente y se informará al ayuntamiento, a la cámara o asociación, según corresponda, para que designen a otro suplente.
+
+> <small>(ADICIONADO, P.O. 20 DE OCTUBRE DE 2011)</small>
+
+ARTICULO 104 QUINQUE. El Consejo Consultivo sesionará por lo menos una vez cada tres meses en forma ordinaria; y extraordinaria cuantas veces fuere convocada por su Presidente, o a solicitud de la mayoría de sus miembros, o de la Junta de Gobierno. Funcionará válidamente con la concurrencia de la mayoría de sus miembros, entre los cuales deberá estar su Presidente. Los acuerdos y resoluciones de este Consejo se tomarán por mayoría de votos de los asistentes; en caso de empate, la persona que presida tendrá voto de calidad.
+
+Las fechas de celebración de las sesiones del Consejo Consultivo serán notificadas por medio de convocatoria a sus miembros, con tres días hábiles de anticipación, indicando el lugar, fecha y hora donde deberá llevarse a cabo la misma, así como el orden del día.
+
+De toda sesión se levantará el acta correspondiente; para tales efectos de entre sus integrantes designarán un secretario de actas. De toda acta, el Presidente tendrá la obligación de turnar copia a la Junta de Gobierno.
+
+El organismo operador descentralizado proporcionará los elementos necesarios para que se integre el Consejo Consultivo, y cuidará que sesione en la forma y términos descritos.
+
+> <small>(ADICIONADO, P.O. 20 DE OCTUBRE DE 2011)</small>
+
+ARTICULO 104 SEXTIES. Los cargos de las personas integrantes del Consejo Consultivo serán honoríficos, por lo que en ningún caso tendrán derecho a remuneración alguna.
 
 ###### ARTICULO 105.
 
@@ -1971,11 +2049,13 @@ Firmado el contrato correspondiente y pagado el importe del costo de la instalac
 
 Cuando se trate de tomas solicitadas por giros o establecimientos ubicados en forma temporal, los solicitantes deberán otorgar, como requisito previo para la instalación, la garantía que fije el prestador de servicios.
 
+> <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 2011)</small>
+
 ###### ARTICULO 143.
 
-Es obligación del prestador de servicios públicos la instalación de aparatos medidores, para la verificación del consumo de agua del servicio público para todos los usuarios domésticos y no domésticos.
+Es obligación del prestador de servicios públicos, la instalación de aparatos de micromedición; además, de dispositivos o mecanismos expulsores de aire de las tuberías de conducción de agua, para verificar la medición exacta del consumo de agua del servicio público para todos los usuarios.
 
-Al efecto, las tomas deberán instalarse en la entrada de los predios o establecimientos, y los medidores en lugares accesibles, junto a dicha entrada, con libre acceso al personal del prestador de los servicios públicos, en forma tal que se puedan llevar a cabo sin dificultad las lecturas de consumo, las pruebas de funcionamiento de los aparatos y, cuando sea necesario, el cambio de los medidores.
+Para realizar lo establecido en el párrafo anterior, las tomas deberán instalarse en la entrada de los predios o establecimientos, y los medidores en lugares accesibles, junto a dicha entrada, con libre acceso al personal del prestador de los servicios públicos, en forma tal que se puedan llevar a cabo sin dificultad las lecturas de consumo, las pruebas de funcionamiento de los aparatos y, cuando sea necesario, el cambio de los medidores.
 
 ###### ARTICULO 144.
 
@@ -2415,9 +2495,11 @@ Los centros o instituciones educativas de competencia del Estado, así como las 
 
 ARTICULO 190 BIS. Para efectos de esta Ley se entiende por Cultura del Agua, al conjunto de creencias, conductas y estrategias comunitarias para el uso del agua, que sean reflejadas mediante políticas públicas, conforme a las condiciones socio-demográficas de las diferentes regiones del Estado, destinadas al uso y aprovechamiento racional y sostenible, realizadas por las autoridades competentes de aplicar este Ordenamiento.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE OCTUBRE DE 2011)</small>
+
 ###### ARTICULO 191.
 
-Los organismos operadores descentralizados, anualmente formularán y ejecutarán el Programa Operativo Anual, el cual deberá de ser aprobado por el ayuntamiento correspondiente, evaluado y vigilado por el Comisario Público y deberá comprender:
+Los organismos operadores descentralizados, anualmente formularán y ejecutarán el Programa Operativo Anual, el cual deberá ser aprobado por el ayuntamiento correspondiente, evaluado y vigilado por el Contralor Interno y deberá comprender:
 
 a) Los proyectos y acciones para el ejercicio fiscal;
 
@@ -2978,3 +3060,31 @@ El Consejo Hídrico Estatal será electo por el Congreso del Estado a más tarda
 TERCERO. Una vez integrado el Consejo Hídrico Estatal, tendrá un plazo de ciento ochenta días para la elaboración de su reglamento interno.
 
 CUARTO. Se deroga cualquier disposición que se oponga al presente Decreto.
+
+P.O. 20 DE OCTUBRE DE 2011.
+
+DECRETO 738 POR EL QUE SE REFORMA EL ARTICULO 143, DE LA LEY DE AGUAS PARA EL ESTADO DE SAN LUIS POTOSI.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se deroga cualquier disposición que se oponga al presente Decreto.
+
+P.O. 20 DE OCTUBRE DE 2011.
+
+DECRETO 739 POR EL QUE SE REFORMA LOS ARTICULOS 103, 104; Y ADICIONA LOS ARTICULOS, 104 BIS A 104 SEXTIES, DE Y A LA LEY DE AGUAS PARA EL ESTADO DE SAN LUIS POTOSI.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+TERCERO. El ayuntamiento deberá realizar la convocatoria para constituir el Consejo Consultivo del Organismo Operador, antes de noviembre del año 2011.
+
+CUARTO. Para los ayuntamientos que no cuenten con asociaciones, cámaras, colegios de profesionistas u organizaciones sólidas debidamente acreditadas, la convocatoria pública, para la constitución del Consejo Consultivo, estará dirigida a todas las personas usuarias de los servicios domésticos, comercial y de servicios, e industrial, debiendo quedar debidamente representados en su conformación.
+
+P.O. 20 DE OCTUBRE DE 2011.
+
+DECRETO 740 POR EL QUE SE REFORMA LOS ARTICULOS, 92 EN SU FRACCION VII; 97 EN SU PARRAFO ULTIMO; 100 EN SUS FRACCIONES II EL PARRAFO PRIMERO Y XIV, 101, 102 EL PARRAFO PRIMERO, Y 191 EL PARRAFO PRIMERO; ADICIONA EL ARTICULO 101 BIS, Y AL ARTICULO 102 EL PARRAFO TERCERO; Y DEROGA EN EL ARTICULO 96 LA FRACCION V, DE Y A LA LEY DE AGUAS PARA EL ESTADO DE SAN LUIS POTOSI.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se deroga cualquier disposición que se oponga al presente Decreto.
