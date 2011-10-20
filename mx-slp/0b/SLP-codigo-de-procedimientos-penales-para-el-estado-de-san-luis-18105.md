@@ -4,7 +4,7 @@ identifier: "SLP-codigo-de-procedimientos-penales-para-el-estado-de-san-luis-181
 country: "mx"
 rank: "codigo"
 publication_date: "2000-09-30"
-last_updated: "2011-08-04"
+last_updated: "2011-10-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18105&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE SAN LUIS POTOSI
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE AGOSTO DE 2011.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE OCTUBRE DE 2011.
 
 Código publicado en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 30 de septiembre de 2000.
 
@@ -1605,9 +1605,11 @@ Cuando se haya dictado auto de formal prisión o de sujeción a proceso, en su c
 
 ### CAPITULO I. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 2011)</small>
+
 ###### ARTICULO 228.
 
-Se admitirá como prueba en los términos del artículo 20 de la Constitución Política de los Estados Unidos Mexicanos, todo aquello que se ofrezca como tal, siempre que pueda ser conducente, y no vaya contra el derecho, a juicio del juez o tribunal. Cuando la autoridad judicial lo estime necesario, podrá por algún otro medio de prueba, establecer su autenticidad.
+Se admitirá como prueba en los términos del artículo 20 de la Constitución Política de los Estados Unidos Mexicanos, todo aquéllo que se ofrezca como tal, siempre que pueda ser pertinente, y no vaya contra el derecho, a juicio del juez o tribunal. Cuando la autoridad judicial lo estime necesario, podrá por algún otro medio de prueba, establecer su autenticidad.
 
 ###### ARTICULO 229.
 
@@ -3814,3 +3816,9 @@ P.O. 4 DE AGOSTO DE 2011.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de San Luis Potosí.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan a éste.
+
+P.O. 20 DE OCTUBRE DE 2011.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan las disposiciones que se opongan a éste.
