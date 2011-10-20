@@ -4,7 +4,7 @@ identifier: "SLP-codigo-penal-del-estado-de-san-luis-potosi-21296"
 country: "mx"
 rank: "codigo"
 publication_date: "2000-09-30"
-last_updated: "2011-08-04"
+last_updated: "2011-10-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21296&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 CODIGO PENAL DEL ESTADO DE SAN LUIS POTOSI
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE AGOSTO DE 2011.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE OCTUBRE DE 2011.
 
 Código publicado en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 30 de septiembre de 2000.
 
@@ -2905,6 +2905,8 @@ Este delito se sancionará con una pena de uno a tres años de prisión y sanci�
 
 ### CAPITULO I. ARMAS PROHIBIDAS
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE OCTUBRE DE 2011)</small>
+
 ###### ARTICULO 257.
 
 Comete el delito de encubrimiento quien:
@@ -2973,7 +2975,7 @@ Cuando el delito a que se refiere este Capítulo sea cometido por un servidor p�
 
 ###### ARTICULO 264.
 
-Comete el delito a que se refiere este Capítulo quien porta machetes, cuchillos o navajas cuyo destino no sea emplearlos como instrumento de trabajo, o quien porta, trafica, fabrica, importa o acopia alguna de las siguientes armas:
+Comete el delito a que se refiere este Capítulo, quien porta machetes, cuchillos o navajas, cuando se acredite que no serán empleados como instrumento de trabajo; o quien porta, trafica, fabrica, importa o acopia alguna de las siguientes armas:
 
 I. Puñales, dagas, verduguillos, estrellas, discos y demás armas disimuladas en bastones u otros objetos;
 
@@ -3924,3 +3926,9 @@ P.O. 4 DE AGOSTO DE 2011.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de San Luis Potosí.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan a éste.
+
+P.O. 20 DE OCTUBRE DE 2011.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan las disposiciones que se opongan a éste.
