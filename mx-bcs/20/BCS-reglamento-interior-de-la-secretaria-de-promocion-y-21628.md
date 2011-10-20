@@ -4,7 +4,7 @@ identifier: "BCS-reglamento-interior-de-la-secretaria-de-promocion-y-21628"
 country: "mx"
 rank: "reglamento"
 publication_date: "2001-05-10"
-last_updated: "2010-10-20"
+last_updated: "2011-10-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21628&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "BCS"
 
 REGLAMENTO INTERIOR DE LA SECRETARIA DE PROMOCION Y DESARROLLO ECONOMICO
 
-> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO CUARTO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARIA DE PESCA Y ACUACULTURA, PUBLICADO EN EL B.O. DE 20 DE OCTUBRE DE 2010, SE DEROGAN LAS DISPOSICIONES DEL PRESENTE ORDENAMIENTO QUE SE OPONGAN A ESE REGLAMENTO.</small>
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARIA DE PROMOCION Y DESARROLLO ECONOMICO, PUBLICADO EN EL B.O. DE 20 DE OCTUBRE DE 2011 EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 20 DE OCTUBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: ABROGADO.
 
 Reglamento publicado en el Boletín Oficial del Estado de Baja California Sur, el jueves 10 de mayo de 2001.
 
@@ -916,3 +916,25 @@ SEGUNDO.- Para los efectos presupuestales y administrativos a que haya lugar, y 
 TERCERO.- Los Manuales de Organización, Procedimientos y Servicios, se deberán expedir en un plazo no mayor de 30 días, contados a partir de la entrada en vigor del presente Reglamento, en tanto el Secretario de Pesca y Acuacultura queda facultado para resolver las cuestiones que conforme a dichos instrumentos se deban regular.
 
 CUARTO.- Se derogan las disposiciones del Reglamento Interior de la Secretaría de Promoción y Desarrollo Económico, que se opongan al presente Reglamento.
+
+B.O. 20 DE OCTUBRE DE 2011.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Reglamento entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga el Reglamento Interior de la Secretaría de de (sic) Promoción y Desarrollo Económico, publicado en el Boletín Oficial del Gobierno del Estado de Baja California Sur número 19, de fecha 10 de mayo del 2001.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan todas las disposiciones en lo que se opongan al presente Reglamento.
+
+###### ARTÍCULO CUARTO.
+
+En tanto se expiden los Manuales que este Reglamento menciona, el Secretario queda facultado para resolver las cuestiones que conforme a dichos Manuales deban regularse.
+
+###### ARTÍCULO QUINTO.
+
+Los actos administrativos ejecutados por los servidores públicos y los titulares de las Unidades Administrativas de la Secretaría de Promoción y Desarrollo Económico con anterioridad a la entrada en vigor del presente Reglamento Interior, cuentan con plena validez, reconociéndose sus efectos legales a partir del 5 de abril del 2011.
