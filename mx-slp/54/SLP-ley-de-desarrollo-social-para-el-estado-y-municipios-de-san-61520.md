@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-desarrollo-social-para-el-estado-y-municipios-de-san-615
 country: "mx"
 rank: "ley"
 publication_date: "2008-04-17"
-last_updated: "2011-03-29"
+last_updated: "2011-10-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61520&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "SLP"
 ---
 # LEY DE DESARROLLO SOCIAL PARA EL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSI
 
-LEY DE DESARROLLO SOCIAL PARA EL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSI
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LAS FE DE ERRATAS PUBLICADAS EL 22 DE OCTUBRE DE 2011 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE MARZO DE 2011.
+LEY DE DESARROLLO SOCIAL PARA EL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE OCTUBRE DE 2011.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 17 de abril de 2008.
 
@@ -269,9 +271,17 @@ IX. Presentar informes trimestrales al Poder Legislativo, sobre el ejercicio de 
 
 X. Integrar y actualizar los padrones de beneficiarios de los diversos programas sociales, y proporcionarlos al Sistema Estatal cuando éste lo requiera;
 
-XI. Elaborar el proyecto de informe anual de actividades del Sistema Estatal, y presentarlo al mismo para su aprobación, y
+> <small>(REFORMADA, P.O. 20 DE OCTUBRE DE 2011)</small>
 
-XII. Las demás que le asigne el Sistema para el cumplimiento de sus atribuciones.
+XI. Elaborar el proyecto de informe anual de actividades del Sistema Estatal, y presentarlo al mismo para su aprobación;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 20 DE OCTUBRE DE 2011)</small>
+
+XII. Generar y difundir proyectos de investigación en materia de desarrollo social, y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 20 DE OCTUBRE DE 2011)</small>
+
+XIII. Las demás que le asigne el Sistema para el cumplimiento de sus atribuciones.
 
 ###### ARTICULO 13.
 
@@ -469,9 +479,35 @@ El Programa Estatal deberá publicarse en el Periódico Oficial del Estado, dent
 
 Asimismo, de manera anual el Gobierno del Estado deberá hacer públicos los avances de la política social, contenida en el Programa Estatal.
 
+> <small>(ADICIONADO, P.O. 20 DE OCTUBRE DE 2011)</small>
+
+ARTICULO 28 BIS. Los programas de desarrollo social deberán contar con reglas de operación que establecerán como mínimo:
+
+I. El diagnóstico situacional que guarda el desarrollo social;
+
+II. La población objetivo;
+
+III. La entidad o dependencia responsable del programa;
+
+IV. Las metas programadas;
+
+V. La programación presupuestal;
+
+VI. Los procedimientos y requisitos de acceso;
+
+VII. Los mecanismos de evaluación y los indicadores de resultados, gestión y servicios para medir su cobertura, calidad e impacto;
+
+VIII. Las formas de participación social y de corresponsabilidad social, y
+
+IX. La articulación con dependencias y otros programas de desarrollo social aplicables.
+
+Las reglas de operación se publicarán en el Periódico Oficial del Estado, dentro de los quince días posteriores a la publicación del Programa Estatal.
+
+> <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 2011)</small>
+
 ###### ARTICULO 29.
 
-Los municipios deberán formular y aprobar como parte de su Plan Municipal de Desarrollo, un Programa Municipal de Desarrollo Social, en congruencia con los lineamientos de política social del Programa Estatal y que incluya, en lo que les sea aplicable, lo señalado en el artículo 27 de la presente Ley, y considerando la normatividad que para el efecto señale la Ley de Planeación.
+Los municipios deberán formular y aprobar como parte de su Plan Municipal de Desarrollo, un Programa Municipal de Desarrollo Social, en congruencia con los lineamientos de política social del Programa Estatal y que incluya, en lo que les sea aplicable, lo señalado en los artículos 27 y 28 BIS de la presente Ley, y considerando la normatividad que para el efecto señale la Ley de Planeación.
 
 > <small>(ADICIONADO, P.O. 22 DE JULIO DE 2010)</small>
 
@@ -669,7 +705,7 @@ Lic. Alfonso José Castillo Machuca
 
 (Rúbrica)
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA AL PRESENTE ORDENAMIENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 22 DE JULIO DE 2010.
 
@@ -680,5 +716,21 @@ SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente D
 P.O. 29 DE MARZO DE 2011.
 
 PRIMERO. Este Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 20 DE OCTUBRE DE 2011.
+
+DECRETO No. 741 POR EL QUE SE REFORMA EL ARTÍCULO 12 EN SUS FRACCIONES XI Y XII; Y ADICIONA AL MISMO ARTÍCULO 12 LA FRACCIÓN XIII, DE LA LEY DE DESARROLLO SOCIAL PARA EL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ.
+
+PRIMERO. Este Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 20 DE OCTUBRE DE 2011.
+
+DECRETO No. 742 POR EL QUE SE REFORMA EL ARTÍCULO, 29; Y ADICIONA EL ARTÍCULO 28 BIS, DE Y A LA LEY DE DESARROLLO SOCIAL PARA EL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ.
+
+PRIMERO. Este Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado
 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
