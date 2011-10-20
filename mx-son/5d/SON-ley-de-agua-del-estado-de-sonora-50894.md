@@ -4,7 +4,7 @@ identifier: "SON-ley-de-agua-del-estado-de-sonora-50894"
 country: "mx"
 rank: "ley"
 publication_date: "2006-06-26"
-last_updated: "2006-06-26"
+last_updated: "2011-10-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50894&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DE AGUA DEL ESTADO SONORA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 20 DE OCTUBRE DE 2011.
 
 Ley publicada en la Sección I del Boletín Oficial del Estado de Sonora, el lunes 26 de junio de 2006.
 
@@ -1085,9 +1085,15 @@ Por cada representante propietario se nombrará al respectivo suplente. En el ca
 
 Igualmente, se podrá invitar a las sesiones de la Junta de Gobierno a representantes de las dependencias y entidades de las administraciones públicas federal, estatal y municipal, vinculadas directamente con la materia de agua, los que participarán con voz pero sin voto.
 
+> <small>(REFORMADO, B.O. 20 DE OCTUBRE DE 2011)</small>
+
 ###### ARTÍCULO 78.
 
-La Junta de Gobierno se integrará con no menos de 5 ni más de 8 miembros; en ningún caso podrán ser miembros los cónyuges y las personas que tengan parentesco, consanguinidad y afinidad hasta el cuarto grado o civil con cualquiera de los miembros de la Junta de Gobierno o con el Director General; las personas que tengan litigios pendientes con el organismo con el que se trate.
+La junta de Gobierno se integrará con no menos de 5 ni más de 15 miembros, cuya participación se definirá en el acuerdo de creación de los organismos operadores municipales. En ningún caso, podrán ser miembros los cónyuges y las personas que tengan parentesco, consanguinidad y afinidad hasta el cuarto grado o civil con cualquiera de los miembros de la Junta de Gobierno o con el Director General, ni las personas que tengan litigios pendientes con el organismo de que se trate.
+
+En el caso de los integrantes del órgano de gobierno que no formen parte de la administración pública, con excepción del presidente del consejo consultivo del órgano de que se trate, mismo que se regirá de conformidad con su propia normatividad, éstos tendrán una duración en su encargo de tres años, con posibilidad de reelegirse hasta por un periodo igual de tres años y serán removidos de manera escalonada, atendiendo la forma y el procedimiento que para tal efecto establezca el ayuntamiento en el acuerdo de creación respectivo.
+
+Para los casos de designación y remoción de dichos integrantes, se estará a lo dispuesto por la Ley de Gobierno y Administración Municipal.
 
 ###### ARTÍCULO 79.
 
@@ -2434,3 +2440,15 @@ Por tanto, mando se publique en el Boletín Oficial del Gobierno del Estado y se
 Dado en la Residencia del Poder Ejecutivo, en la ciudad de Hermosillo, Sonora, a los nueve días del mes de junio del año dos mil seis.
 
 SUFRAGIO EFECTIVO. NO REELECClON. EL GOBERNADOR DEL ESTADO, EDUARDO BOURS CASTELO, RUBRICA. EL SECRETARIO DE GOBIERNO POR MINISTERIO DE LEY, ENRlQUE PALAFOX PAZ, RUBRICA.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+B.O. 20 DE OCTUBRE DE 2011.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente de su publicación en el Boletín Oficial de Gobierno del Estado de Sonora.
+
+###### ARTÍCULO SEGUNDO.
+
+Por una única ocasión y en el supuesto de que algún municipio contemple más de ocho integrantes en su órgano de gobierno, los primeros tres integrantes adicionales durarán en su encargo cinco años, los siguientes dos durarán cuatro años y los dos restantes durarán tres años.
