@@ -4,7 +4,7 @@ identifier: "SLP-ley-organica-del-poder-legislativo-del-estado-de-san-luis-52349
 country: "mx"
 rank: "ley_organica"
 publication_date: "2006-06-13"
-last_updated: "2011-05-21"
+last_updated: "2011-10-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52349&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "SLP"
 ---
 # LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE SAN LUIS POTOSI
 
-LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE SAN LUIS POTOSI
+LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE SAN LUIS POTOSÍ
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE MAYO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE OCTUBRE DE 2011.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el martes 13 de junio de 2006.
 
@@ -105,7 +105,7 @@ III. Directiva: la Directiva del Congreso del Estado;
 
 IV. Pleno: la Asamblea de diputados que integra el Congreso del Estado, y
 
-V. Junta: la Junta de de Coordinación Política del Congreso del Estado.
+V. Junta: la Junta de Coordinación Política del Congreso del Estado.
 
 ## TITULO SEGUNDO. DE LA INSTALACION
 
@@ -943,9 +943,11 @@ Son comisiones de investigación las que por disposición del Congreso se integr
 
 Las comisiones jurisdiccionales deben conocer específicamente de los hechos que motiven su integración, y funcionar conforme a los procedimientos que establece la ley.
 
+> <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 2011)</small>
+
 ###### ARTICULO 91.
 
-La Comisión de Vigilancia debe renovarse anualmente, y funcionar conforme a lo estipulado por la Ley de la Auditoría Superior del Estado, las disposiciones reglamentarias aplicables y los acuerdos plenarios.
+La Comisión de Vigilancia no podrá ser integrada por quien haya formado parte de cualquiera de los entes auditables, en el periodo inmediato anterior al de la revisión de la cuenta pública que corresponda a su ejercicio; deberá renovarse anualmente y funcionar conforme a lo establecido por la Ley de Auditoría Superior del Estado, las disposiciones reglamentarias aplicables y los acuerdos plenarios.
 
 ###### ARTICULO 92.
 
@@ -1851,7 +1853,7 @@ Lic. Alfonso José Castillo Machuca
 
 (Rúbrica)
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 1 DE NOVIEMBRE DE 2006.
 
@@ -1932,3 +1934,9 @@ P.O. 21 DE MAYO DE 2011.
 PRIMERO. Este Decreto entrará en vigencia el día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 20 DE OCTUBRE DE 2011.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
