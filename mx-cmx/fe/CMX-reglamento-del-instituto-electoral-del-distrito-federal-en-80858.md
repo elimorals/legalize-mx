@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-del-instituto-electoral-del-distrito-federal-en-8085
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-04-15"
-last_updated: "2011-04-15"
+last_updated: "2011-10-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=80858&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2011-03-28"
 
 REGLAMENTO DEL INSTITUTO ELECTORAL DEL DISTRITO FEDERAL EN MATERIA DE TRANSPARENCIA Y ACCESO A LA INFORMACION PUBLICA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 20 DE OCTUBRE DE 2011.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el viernes 15 de abril de 2011.
 
@@ -248,7 +248,9 @@ III. Consejo General: Consejo General del Instituto Electoral;
 
 IV. Direcciones Distritales: Órganos desconcentrados del Instituto Electoral, en cada uno de los cuarenta distritos electorales uninominales en que se divide el Distrito Federal;
 
-V. INFODF: Instituto de Acceso a la Información Pública del Distrito Federal;
+> <small>(REFORMADA, G.O. 20 DE OCTUBRE DE 2011)</small>
+
+V. INFODF: Instituto de Acceso a la Información Pública y Protección de Datos Personales del Distrito Federal;
 
 VI. Instituto Electoral: Instituto Electoral del Distrito Federal;
 
@@ -266,39 +268,97 @@ C) Sus conceptos:
 
 I. Clasificación: Acto por el cual se determina que la información es restringida en sus modalidades de reservada o confidencial;
 
-II. Datos personales: Toda información numérica, alfabética, gráfica, acústica o de cualquier otro tipo relativa a la vida privada de las personas identificadas o identificables de manera enunciativa mas no limitativa concerniente a las características físicas, morales o emocionales, origen étnico o racial, domicilio, vida familiar, privada, íntima y afectiva, número telefónico privado, correo electrónico personal, ideología, preferencias sexuales y toda aquella información que se encuentra en posesión del Instituto Electoral, susceptible de ser tutelada por el derecho fundamental a la privacidad, intimidad, honor y dignidad, en términos de lo dispuesto por la Ley de Transparencia;
+> <small>(REFORMADA, G.O. 20 DE OCTUBRE DE 2011)</small>
 
-III. Derecho de acceso: Prerrogativa que tiene toda persona para acceder a la información pública y/o a los datos de carácter personal, generados, administrados o en poder del Instituto Electoral, en los términos de las leyes respectivas;
+II. Datos personales: La información numérica, alfabética, gráfica, acústica o de cualquier otro tipo concerniente a una persona física, identificada o identificable entre otros, la relativa a su origen racial o étnico, las características físicas, morales o emocionales a su vida afectiva y familiar, información genética, número de seguridad social, la huella digital, domicilio y teléfonos particulares, preferencias sexuales, estado de salud físico o mental, correos electrónicos personales, claves informáticas, cibernéticas, códigos personales; creencias o convicciones religiosas, filosóficas y morales u otras análogas que afecten su intimidad;
 
-IV. Derecho de cancelación: Prerrogativa con que cuenta el interesado para solicitar la supresión de sus datos personales en posesión de los entes públicos, cuando así proceda en términos de la Ley de Protección de Datos;
+> <small>(REFORMADA, G.O. 20 DE OCTUBRE DE 2011)</small>
 
-V. Derecho de oposición: Potestad con que cuenta el interesado para no permitir el tratamiento de los datos personales que le conciernen;
+III. Derechos ARCO: Los derechos de acceso, rectificación, cancelación y oposición de datos personales;
 
-VI. Derecho de rectificación: Prerrogativa del interesado para solicitar correcciones a sus datos personales en los términos de la legislación aplicable;
+> <small>(REFORMADA, G.O. 20 DE OCTUBRE DE 2011)</small>
 
-VII. Documentos: Expedientes, reportes, estudios, actas, resoluciones, oficios, correspondencia, acuerdos, directivas, directrices, circulares, contratos, convenios, instructivos, notas, memorandos, estadísticas, o bien, cualquier otro registro en posesión del Instituto Electoral y sus servidores públicos, sin importar su fuente o fecha de elaboración. Los documentos podrán estar en cualquier medio, entre otros, escrito, impreso, sonoro, visual, electrónico, informático u holográfico;
+IV. Derecho de Acceso a la Información Pública: Prerrogativa que tiene toda persona para acceder a la información generada, administrada o en poder del Instituto Electoral, en los términos de la Ley de Transparencia;
 
-VIII. Expediente: Serie ordenada y relacionada de actuaciones administrativas compuestas por los documentos que pertenecen a un mismo asunto, procedimiento o negocio tramitado por o ante el Instituto Electoral;
+> <small>(REFORMADA, G.O. 20 DE OCTUBRE DE 2011)</small>
 
-IX. INFOMEX: Sistema electrónico mediante el cual las personas podrán presentar sus solicitudes de acceso a la información pública y de acceso, rectificación, cancelación u oposición de datos personales y es el sistema único para el registro y captura de todas las solicitudes recibidas por los entes públicos a través de los medios señalados en la Ley de Transparencia y la Ley de Protección de Datos, así como para la recepción de los recursos de revisión interpuestos a través del propio sistema, cuyo sitio de Internet es: www.infomexdf.org.mx;
+V. Derecho de acceso: Prerrogativa que tiene el solicitante para acceder a la información y/o datos de carácter personal, generados, administrados o en poder del Instituto Electoral, así como el tratamiento que le dé a los mismos en los términos de las leyes respectivas;
 
-X. Información confidencial: Información que contiene datos personales relativos a las características físicas, morales o emocionales, origen étnico o racial, domicilio, vida familiar, privada íntima y afectiva, número telefónico privado, correo electrónico, ideología, preferencias sexuales y toda aquella información que se encuentra en posesión del Instituto Electoral, susceptible de ser tutelada por el derecho fundamental a la privacidad, intimidad, honor y dignidad;
+> <small>(REFORMADA, G.O. 20 DE OCTUBRE DE 2011)</small>
 
-XI. Información de acceso restringido: Aquella información en posesión del Instituto Electoral, clasificada en las modalidades de confidencial o reservada;
+VI. Derecho de cancelación: Prerrogativa con que cuenta el interesado para solicitar la supresión de sus datos personales en posesión del Instituto Electoral, cuando así proceda en términos de la Ley de Protección de Datos;
 
-XII. Información pública: Todo archivo, registro o dato contenido en cualquier medio, documento o registro impreso, óptico, electrónico o magnético que se encuentre en posesión del Instituto Electoral y que no haya sido previamente clasificada como de acceso restringido;
+> <small>(REFORMADA, G.O. 20 DE OCTUBRE DE 2011)</small>
 
-XIII. Información reservada: Información pública que se encuentre temporalmente sujeta a alguna de las excepciones previstas en la Ley de Transparencia;
+VII. Derecho de oposición: Potestad con que cuenta el interesado para no permitir el tratamiento de los datos personales que le conciernen;
 
-XIV. Instancias: Órganos del Instituto Electoral que a continuación se enlistan: Consejo General; oficinas de los Consejeros Electorales; Comisiones del Consejo General; Presidencia del Consejo General; Junta Administrativa; Secretaría Ejecutiva; Secretaría Administrativa; Contraloría General; Direcciones Ejecutivas; Unidades Técnicas; Órganos Desconcentrados y Comités;
+> <small>(REFORMADA, G.O. 20 DE OCTUBRE DE 2011)</small>
 
-XV. Recurso de Revisión: Recurso previsto en el Capítulo II del Título Tercero de la Ley de Transparencia y el Capítulo III del Título Cuarto de la Ley de Protección de Datos;
+VIII. Derecho de rectificación: Prerrogativa del interesado para solicitar correcciones a sus datos personales en los términos de la legislación aplicable;
 
-XVI. Sitio de Internet: Sitio www.iedf.org.mx;
+> <small>(REFORMADA, G.O. 20 DE OCTUBRE DE 2011)</small>
 
-XVII. Solicitante: Toda persona que solicite información al Instituto Electoral, y
+IX. Documentos: Expedientes, reportes, estudios, actas, resoluciones, oficios, correspondencia, acuerdos, directivas, directrices, circulares, contratos, convenios, instructivos, notas, memorandos, estadísticas, o bien, cualquier otro registro en posesión del Instituto Electoral y sus servidores públicos, sin importar su fuente o fecha de elaboración. Los documentos podrán estar en cualquier medio, entre otros, escrito, impreso, sonoro, visual, electrónico, informático u holográfico;
 
-XVIII. Solicitud: Escrito libre o los formatos impresos o electrónicos mediante el cual el solicitante presenta su requerimiento de información pública o de acceso, rectificación, cancelación u oposición de datos personales.
+> <small>(REFORMADA, G.O. 20 DE OCTUBRE DE 2011)</small>
+
+X. Documento electrónico: Información de cualquier naturaleza, archivada en un soporte electrónico según un formato determinado y susceptible de identificación y tratamiento determinado;
+
+> <small>(REFORMADA, G.O. 20 DE OCTUBRE DE 2011)</small>
+
+XI. Expediente: Serie ordenada y relacionada de actuaciones y/o gestiones compuestas por documentos que pertenecen a un mismo asunto o procedimiento tramitado por o ante el Instituto Electoral;
+
+> <small>(REFORMADA, G.O. 20 DE OCTUBRE DE 2011)</small>
+
+XII. Expediente electrónico: Es el conjunto de documentos electrónicos correspondientes a un procedimiento, cualquiera que sea el tipo de información que contengan;
+
+> <small>(REFORMADA, G.O. 20 DE OCTUBRE DE 2011)</small>
+
+XIII. INFOMEX: Sistema electrónico mediante el cual las personas podrán presentar sus solicitudes de acceso a la información pública y de acceso, rectificación, cancelación u oposición de datos personales y es el sistema único para el registro y captura de todas las solicitudes recibidas por los entes obligados a través de los medios señalados en la Ley de Transparencia y la Ley de Protección de Datos, así como para la recepción de los recursos de revisión interpuestos a través del propio sistema, cuyo sitio de Internet es: www.infomexdf.org.mx;
+
+> <small>(REFORMADA, G.O. 20 DE OCTUBRE DE 2011)</small>
+
+XIV. Información confidencial: Información que contiene datos personales y se encuentra en posesión del Instituto Electoral, susceptible de ser tutelada por el derecho fundamental a la privacidad, intimidad, honor y dignidad y aquella que la ley prevea como tal;
+
+> <small>(REFORMADA, G.O. 20 DE OCTUBRE DE 2011)</small>
+
+XV. Información de acceso restringido: Todo tipo de información en posesión del Instituto Electoral, bajo las modalidades de confidencial o reservada;
+
+> <small>(REFORMADA, G.O. 20 DE OCTUBRE DE 2011)</small>
+
+XVI. Información pública: Es público todo archivo, registro o dato contenido en cualquier medio, documento o registro impreso, óptico, electrónico, magnético o físico que se encuentre en posesión del Instituto Electoral o que, en ejercicio de sus atribuciones, tengan la obligación de generar en los términos de la Ley de Transparencia y que no haya sido previamente clasificada como de acceso restringido;
+
+> <small>(REFORMADA, G.O. 20 DE OCTUBRE DE 2011)</small>
+
+XVII. Información reservada: Información pública que se encuentre temporalmente sujeta a alguna de las excepciones previstas en la Ley de Transparencia;
+
+> <small>(REFORMADA, G.O. 20 DE OCTUBRE DE 2011)</small>
+
+XVIII. Instancias: Órganos del Instituto Electoral que a continuación se enlistan: Consejo General; oficinas de los Consejeros Electorales; Comisiones del Consejo General; Presidencia del Consejo General; Junta Administrativa; Secretaría Ejecutiva; Secretaría Administrativa; Contraloría General; Direcciones Ejecutivas; Unidades Técnicas; Órganos Desconcentrados y Comités;
+
+> <small>(ADICIONADA, G.O. 20 DE OCTUBRE DE 2011)</small>
+
+XIX. Recurso de Revisión: Recurso previsto en el Capítulo II del Título Tercero de la Ley de Transparencia y el Capítulo III del Título Cuarto de la Ley de Protección de Datos;
+
+> <small>(ADICIONADA, G.O. 20 DE OCTUBRE DE 2011)</small>
+
+XX. Sistema de Datos Personales: Todo conjunto organizado de archivos, registros, ficheros, bases o banco de datos personales del Instituto Electoral, cualquiera que sea la forma o modalidad de su creación, almacenamiento, organización y acceso;
+
+> <small>(ADICIONADA, G.O. 20 DE OCTUBRE DE 2011)</small>
+
+XXI. Sitio de Internet: Sitio www.iedf.org.mx;
+
+> <small>(ADICIONADA, G.O. 20 DE OCTUBRE DE 2011)</small>
+
+XXII. Solicitante: Toda persona que pide información, cancelación, rectificación u oposición de datos personales al Instituto Electoral;
+
+> <small>(ADICIONADA, G.O. 20 DE OCTUBRE DE 2011)</small>
+
+XXIII. Solicitud: Escrito libre o los formatos impresos o electrónicos mediante el cual el solicitante presenta su requerimiento de información pública o de acceso, rectificación, cancelación u oposición de datos personales, y
+
+> <small>(ADICIONADA, G.O. 20 DE OCTUBRE DE 2011)</small>
+
+XXIV. Versión pública: Documento en el que se elimina la información clasificada como reservada o confidencial para permitir su acceso, previa autorización del Comité de Transparencia.
 
 ###### Artículo 3.
 
@@ -322,33 +382,55 @@ Los servidores públicos del Instituto Electoral recibirán los diplomados, curs
 
 La información generada, administrada o en posesión del Instituto Electoral se considera un bien del dominio público accesible a cualquier persona en los términos y condiciones que la Ley de Transparencia y el Reglamento establecen.
 
+> <small>(ADICIONADO, G.O. 20 DE OCTUBRE DE 2011)</small>
+
+Cuando el Instituto Electoral por disposición de la normatividad en materia de archivos, custodie información de otros entes obligados, la OIP deberá canalizar las solicitudes de información hacia el ente que generó el documento.
+
+> <small>(REFORMADO, G.O. 20 DE OCTUBRE DE 2011)</small>
+
 ###### Artículo 7.
 
-La información de acceso restringido en sus modalidades de reservada y confidencial, no podrá ser divulgada bajo ninguna circunstancia, salvo por las excepciones determinadas en la Ley de Transparencia.
+La información de acceso restringido en sus modalidades de reservada y confidencial, no podrá ser divulgada, salvo por las excepciones determinadas en la Ley de Transparencia.
+
+Cuando el Instituto Electoral en ejercicio de sus atribuciones transmita a otro ente información de acceso restringido, deberá incluir, en el oficio de remisión, una leyenda donde se refiera que la información es de esa naturaleza y que su divulgación es motivo de responsabilidad en términos de Ley.
+
+> <small>(REFORMADO, G.O. 20 DE OCTUBRE DE 2011)</small>
 
 ###### Artículo 8.
 
-Es reservada la información mencionada en el artículo 37 de la Ley de Transparencia, la cual no puede ser divulgada por un periodo de siete años contados a partir de la fecha en que se generó, salvo por las causas establecidas en la misma Ley de Transparencia, periodo que podrá prorrogarse hasta por cinco años adicionales siempre que subsistan las causas que le dieron origen.
+Es reservada la información mencionada en el artículo 37 de la Ley de Transparencia, la cual no puede ser divulgada por un periodo de hasta siete años contados a partir de su clasificación, salvo en los supuestos establecidos en la misma Ley de Transparencia, periodo que podrá prorrogarse hasta por cinco años adicionales siempre que subsista alguna de las causas que motivó la reserva de la información.
 
-En caso de que el Instituto Electoral cuente con información reservada, el titular de la instancia deberá fundar y motivar la negativa de su acceso, acreditando que el daño que pueda producirse con la publicidad de dicha información es mayor que el interés público de conocerla, y se estará al procedimiento previsto en la Ley de Transparencia.
+En caso de que el Instituto Electoral cuente con información reservada, el titular de la instancia que posea o genere la información deberá fundar y motivar la negativa de su acceso, acreditando que el daño que pueda producirse con la publicidad de dicha información es mayor que el interés público de conocerla. Asimismo, es la responsable de proponer la clasificación al Comité de Transparencia, por conducto de la OIP y se estará al procedimiento previsto en la Ley de Transparencia.
 
 ###### Artículo 9.
 
 Es confidencial de manera indefinida la información establecida en el artículo 38 de la Ley de Transparencia, las instancias tomarán las previsiones necesarias para que sólo tengan acceso los titulares de la información y los servidores públicos que requieran conocerla para el ejercicio de sus funciones.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 20 DE OCTUBRE DE 2011)</small>
+
 ###### Artículo 10.
 
-Cuando la información solicitada se refiera a expedientes o documentos que contengan información reservada y/o confidencial, las instancias propondrán al Comité la elaboración de una versión pública, con base en la normativa aplicable, pudiendo excluir o tachar palabras, renglones, párrafos o partes del documento.
+Cuando la información solicitada se refiera a expedientes o documentos que contengan información reservada o confidencial, y/o datos que contengan parcialmente información cuyo acceso se encuentre restringido en los términos de la Ley de Transparencia, deberá proporcionarse el resto que no tenga tal carácter, las instancias propondrán al Comité la elaboración de una versión pública, con base en la normativa aplicable, pudiendo excluir o tachar palabras, renglones, párrafos o partes del documento.
 
-Así también, cuando dicha información conste en formato electrónico, podrá alterarse el mismo.
+> <small>(REFORMADO, G.O. 20 DE OCTUBRE DE 2011)</small>
+
+Así también, cuando dicha información conste en expedientes o archivos digitalizados, podrá protegerse con base en los términos del párrafo que antecede.
+
+> <small>(ADICIONADO, G.O. 20 DE OCTUBRE DE 2011)</small>
+
+La Versión Pública debe atender al “Criterio para digitalizar información solicitada y dar respuesta a las solicitudes presentadas ante el Instituto Electoral del Distrito Federal”, aprobado por el Comité de Transparencia, mediante Acuerdo 66TCT-038/09, salvo que el INFODF ordene la entrega de la información y, en su caso, el envío de la misma.
 
 Por cuanto hace a la información pública de oficio que deba publicarse en el sitio de Internet del Instituto Electoral, las instancias deberán proteger los datos personales y, en su caso, la información reservada que se contenga. Las instancias serán responsables del contenido de la información que remitan para su publicación en el sitio de Internet.
 
-### CAPÍTULO II. DEL EJERCICIO DEL DERECHO DE ACCESO A LA INFORMACIÓN PÚBLICA
+> <small>(REFORMADA SU DENOMINACION, G.O. 20 DE OCTUBRE DE 2011)</small>
+
+### CAPÍTULO II. DEL EJERCICIO AL DERECHO FUNDAMENTAL A LA INFORMACIÓN
+
+> <small>(REFORMADO, G.O. 20 DE OCTUBRE DE 2011)</small>
 
 ###### Artículo 11.
 
-La OIP recibirá las solicitudes de información presentadas en escrito material o en los formatos a disposición de los solicitantes en dicha oficina y en el sitio de Internet, por correo electrónico, de manera verbal cuando la índole del asunto lo permita o por vía telefónica, en todos los casos, se registrará la solicitud a través del sistema INFOMEX y se remitirá el acuse respectivo al solicitante, dentro de los tres días hábiles siguientes por el medio señalado para recibir notificaciones.
+La OIP recibirá las solicitudes de información presentadas en escrito material, por correo electrónico, de manera verbal cuando la índole del asunto lo permita o por vía telefónica, en todos los casos, se registrará la solicitud a través del sistema INFOMEX y se remitirá el acuse respectivo al solicitante, dentro de los tres días hábiles siguientes por el medio señalado para recibir notificaciones.
 
 ###### Artículo 12.
 
@@ -416,13 +498,27 @@ Si corresponde a varias instancias dar contestación a la solicitud de informaci
 
 El no remitir a la OIP una solicitud de información recibida o remitirla fuera de los plazos mencionados, será motivo de responsabilidad administrativa.
 
+> <small>(ADICIONADO, G.O. 20 DE OCTUBRE DE 2011)</small>
+
+Salvo que se trate de información pública de oficio la instancia a más tardar el cuarto día debe dar respuesta a la OIP. Si la solicitud de información tiene por objeto tanto información pública como información pública de oficio, se considerará mixta y el plazo máximo de respuesta para la instancia será de siete días.
+
 ###### Artículo 21.
 
 En su caso, al día siguiente en que haya recibido la solicitud, el titular de la instancia hará del conocimiento a la OIP, mediante oficio, que su área no es la responsable de generar o resguardar dicha información, indicándole la instancia que probablemente pudiera poseer la información requerida.
 
 La OIP analizará el caso concreto e instrumentará las medidas pertinentes para su posible localización en otra instancia y redireccionará la solicitud en el sistema INFOMEX a más tardar el siguiente día hábil de la recepción del oficio respectivo.
 
-Si la solicitud corresponde a información que posiblemente se encuentre en los archivos de otro ente público, la OIP en un plazo no mayor a cinco días hábiles, lo notificará al solicitante y lo orientará. Asimismo, enviará la solicitud a la oficina que corresponda.
+> <small>(REFORMADO, G.O. 20 DE OCTUBRE DE 2011)</small>
+
+Si la solicitud es presentada ante el Instituto Electoral, y no es de su competencia o si la tiene sólo como resguardo en calidad de archivo de concentración o histórico, la OIP notificará y orientará al solicitante, y en un plazo no mayor a cinco días hábiles canalizará la solicitud a la OIP del ente obligado que corresponda.
+
+> <small>(ADICIONADO, G.O. 20 DE OCTUBRE DE 2011)</small>
+
+En caso de que el solicitante haya presentado vía solicitud acceso a la información una relativa al ejercicio de derechos ARCO, la OIP deberá prevenirlo sobre el alcance de la vía elegida y los requisitos exigidos por la Ley de Protección de Datos.
+
+> <small>(ADICIONADO, G.O. 20 DE OCTUBRE DE 2011)</small>
+
+En caso de que el Instituto Electoral sea parcialmente competente para atender la solicitud, emitirá una respuesta en lo relativo a sus atribuciones y orientará al solicitante, señalando los datos de la OIP del ente competente para atender la otra parte de la solicitud.
 
 ###### Artículo 22.
 
@@ -435,6 +531,10 @@ II. Tratándose de información que verse sobre el funcionamiento y actividades 
 ###### Artículo 23.
 
 En caso de que el titular de la instancia considere que la información es restringida, dentro de los tres días hábiles siguientes contados a partir de que haya recibido la solicitud, lo hará del conocimiento a la OIP para que ésta presente al Comité la propuesta de clasificación de la información, quien resolverá lo conducente.
+
+> <small>(ADICIONADO, G.O. 20 DE OCTUBRE DE 2011)</small>
+
+En las solicitudes que exista duda de que la información pudiera tener el carácter de acceso restringido, antes de someterla a consideración del Comité, la OIP podrá solicitar opinión de la Unidad Jurídica o al área administrativa que estime conveniente, con el objeto de brindar de mejores elementos de convicción para justificar adecuadamente si se clasifica o no, la información como reservada o confidencial.
 
 ###### Artículo 24.
 
@@ -456,9 +556,11 @@ VI. El plazo de reserva, y
 
 VII. La autoridad responsable de su conservación, guarda y custodia, que en todo caso será el titular de la instancia.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 20 DE OCTUBRE DE 2011)</small>
+
 ###### Artículo 25.
 
-El presidente del Comité convocará dentro de las veinticuatro horas siguientes a la recepción de la propuesta de clasificación de la información presentada por la OIP, a sesión extraordinaria la cual tendrá por único objeto pronunciarse respecto a la clasificación de la información. El Comité podrá allegarse de elementos necesarios para analizar el asunto planteado, para ello podrá solicitar al secretario del Comité instruya lo necesario para obtener elementos de convicción para mejor proveer.
+El presidente del Comité convocará dentro de las veinticuatro horas siguientes a la recepción de la propuesta de clasificación de la información presentada por la OIP, a sesión extraordinaria la cual tendrá por objeto pronunciarse respecto a la propuesta de clasificación de la información. El Comité podrá allegarse de elementos necesarios para analizar el asunto planteado, para ello podrá solicitar al secretario del Comité instruya lo necesario para obtener elementos de convicción para mejor proveer.
 
 La resolución emitida se comunicará a la OIP y acompañará dicha resolución a la respuesta que notifique al solicitante.
 
@@ -474,7 +576,9 @@ III. Mediante su otorgamiento a través del sistema INFOMEX, y
 
 IV. Mediante envío por correo electrónico.
 
-Si derivado del volumen de información, ésta no puede almacenarse en el correo electrónico del peticionario, el Instituto Electoral para cumplir con su obligación de entrega de información, proporcionará al peticionario una dirección electrónica desde la cual podrá obtener o descargar la información que requiere.
+> <small>(REFORMADO, G.O. 20 DE OCTUBRE DE 2011)</small>
+
+En el caso de que el solicitante requiera información pública en los términos del artículo 14 de la Ley de Transparencia y este Instituto Electoral no la tenga digitalizada deberá entregarla sin ningún costo al solicitante.
 
 ###### Artículo 27.
 
@@ -498,7 +602,9 @@ Cuando el solicitante realice el pago del servicio de paquetería conforme a lo 
 
 Las solicitudes relacionadas con los datos personales se tramitarán en los términos de la Ley de Protección de Datos, los Lineamientos de Datos Personales, los Lineamientos INFOMEX y lo establecido en el Capítulo III de este Reglamento.
 
-### CAPÍTULO III. DEL EJERCICIO DEL DERECHO DE ACCESO, RECTIFICACIÓN, CANCELACIÓN U OPOSICIÓN DE DATOS PERSONALES
+> <small>(REFORMADA SU DENOMINACION, G.O. 20 DE OCTUBRE DE 2011)</small>
+
+### CAPÍTULO III. DEL EJERCICIO DE LOS DERECHOS ARCO
 
 ###### Artículo 31.
 
@@ -526,7 +632,9 @@ En el caso de que la solicitud sea presentada por correo electrónico, en el for
 
 La solicitud de acceso, rectificación, cancelación u oposición de los datos personales deberá contener, cuando menos, los requisitos siguientes:
 
-I. Nombre del ente público y del sistema de datos personales en los que obre la información sobre la cual desea ejercer cualquiera de los derechos referidos;
+> <small>(REFORMADA, G.O. 20 DE OCTUBRE DE 2011)</small>
+
+I. Nombre del ente obligado y del sistema de datos personales en los que obre la información sobre la cual desea ejercer cualquiera de los derechos referidos;
 
 II. Nombre completo del interesado o, en su caso, de su representante legal:
 
@@ -640,7 +748,9 @@ El Comité se integra de la siguiente manera:
 
 I. Presidente: El funcionario del Instituto Electoral que designe el Consejo General;
 
-II. Secretario: El Titular de la Unidad de Comunicación, y
+> <small>(REFORMADA, G.O. 20 DE OCTUBRE DE 2011)</small>
+
+II. Secretario: El Titular de la Unidad de Comunicación:
 
 III. Vocales:
 
@@ -648,11 +758,35 @@ a) El Secretario Ejecutivo;
 
 b) El Secretario Administrativo;
 
-c) El Titular de la Unidad de Apoyo Logístico, y
+c) El Titular de la Unidad de Apoyo Logístico, y (sic)
 
-d) El Titular de la Unidad de Sistemas.
+> <small>(REFORMADA, G.O. 20 DE OCTUBRE DE 2011)</small>
+
+d) El Titular de la Unidad de Sistemas; y
+
+> <small>(ADICIONADA, G.O. 20 DE OCTUBRE DE 2011)</small>
+
+IV. Invitados Eventuales:
+
+a) Director Ejecutivo de Asociaciones Políticas;
+
+b) Director Ejecutivo de Capacitación Electoral y Educación Cívica;
+
+c) Director Ejecutivo de Organización y Geografía Electoral;
+
+d) Director Ejecutivo de Participación Ciudadana;
+
+e) Titular de la Unidad Técnica del Centro de Formación y Desarrollo;
+
+f) Titular de la Unidad Técnica de Fiscalización;
+
+g) Cualquier persona cuyos conocimientos técnicos o administrativos sean necesarios para el adecuado desahogo de los asuntos a tratar en la sesión respectiva.
 
 El Contralor General y el Titular de la Unidad Jurídica formarán parte del Comité como integrantes, quienes proporcionarán la asesoría correspondiente en el ámbito de su competencia.
+
+> <small>(ADICIONADO, G.O. 20 DE OCTUBRE DE 2011)</small>
+
+Los invitados eventuales serán convocados únicamente cuando propongan la reserva, clasificación o que declaren la inexistencia de información, o sea necesaria su participación para brindar una opinión técnica o administrativa.
 
 ###### Artículo 45.
 
@@ -710,13 +844,23 @@ XIV. Realizar propuestas de modificación al presente Reglamento y remitirlas a 
 
 XV. En su caso, proponer modificaciones al Reglamento que regule el funcionamiento del Comité;
 
-XVI. Elaborar, modificar y aprobar el Manual de Operación de la OIP;
+> <small>(REFORMADA, G.O. 20 DE OCTUBRE DE 2011)</small>
+
+XVI. Elaborar, modificar y aprobar el Manual de la OIP;
 
 XVII. Hacer del conocimiento de la Contraloría General, las conductas en las que incurran los servidores públicos del Instituto que pudieran constituir infracciones administrativas, con motivo del incumplimiento de la Ley de Transparencia, la Ley de Protección de Datos y la normativa aplicable emitida por el INFODF o del Reglamento;
 
-XVIII. Interpretar las disposiciones del Reglamento conforme a lo establecido en el Código y en la Ley de Transparencia, así como resolver lo no previsto en dicho Reglamento, y
+XVIII. Interpretar las disposiciones del Reglamento conforme a lo establecido en el Código y en la Ley de Transparencia, así como resolver lo no previsto en dicho Reglamento, y (sic)
 
-XIX. Las demás que le sean conferidas por el presente Reglamento y el Consejo General.
+> <small>(REFORMADA, G.O. 20 DE OCTUBRE DE 2011)</small>
+
+XIX. Vigilar el cumplimiento de las resoluciones y recomendaciones que emita el Instituto, y
+
+Las demás que le sean conferidas por el presente Reglamento y el Consejo General. (sic)
+
+> <small>(ADICIONADA, G.O. 20 DE OCTUBRE DE 2011)</small>
+
+XX. Las demás que le sean conferidas por el presente Reglamento y el Consejo General.
 
 ###### Artículo 50.
 
@@ -752,13 +896,15 @@ V. Gestionar las solicitudes recibidas, indicando en el sistema INFOMEX las inst
 
 VI. Dar seguimiento a la atención de las solicitudes;
 
-VII. Orientar en forma sencilla, comprensible y accesible a los solicitantes sobre:
+> <small>(REFORMADA, G.O. 20 DE OCTUBRE DE 2011)</small>
 
-a) Los trámites y procedimientos que deben efectuarse para solicitar información;
+VII. Asesorar y orientar en forma sencilla, comprensible y accesible a los solicitantes sobre:
 
-b) Las instancias ante las que puede acudir a solicitar orientación, consultas o interponer quejas sobre la prestación del servicio, y
+a) La elaboración de solicitudes de información;
 
-c) Sobre el ejercicio de las funciones o competencias a cargo de los servidores públicos del Instituto Electoral;
+b) Trámites y procedimientos que deben realizarse para solicitar información, y
+
+c) Las instancias a las que puede acudir a solicitar orientación, consultas o interponer quejas sobre la prestación del servicio;
 
 VIII. Establecer comunicación y seguimiento con los enlaces de las instancias, a fin de coadyuvar en el cumplimiento de los tiempos establecidos para proporcionar la información solicitada;
 
@@ -806,15 +952,21 @@ Para lo anterior, el Titular de la Unidad de Comunicación contará con la parti
 
 Durante los diez días hábiles posteriores a la conclusión de cada trimestre, las instancias entregarán a la OIP la actualización de la información en términos de los artículos 13, 14, 19 y 39 de la Ley de Transparencia, para su incorporación al sitio de Internet, conforme a lo siguiente:
 
-I. Las instancias al remitir la información pública de oficio para su publicación en la sección de transparencia del sitio institucional de Internet, deberán observar lo establecido en los “Criterios y metodología de evaluación de la información pública de oficio que deben dar a conocer los Entes Públicos en su portales de Internet”;
+> <small>(REFORMADA, G.O. 20 DE OCTUBRE DE 2011)</small>
+
+I. Las instancias, al remitir la información pública de oficio para su publicación en la sección de transparencia del sitio de Internet, deberán observar lo establecido en los “Criterios de Evaluación de los Portales de Internet aprobados por el Pleno del INFODF”.
 
 II. La información deberá encontrarse lista para su publicación, correlacionada con el artículo y fracción de la Ley de Transparencia que corresponda, y
 
-III. En formato electrónico y archivos exportables determinados por el INFODF.
+> <small>(REFORMADA, G.O. 20 DE OCTUBRE DE 2011)</small>
+
+III En formato electrónico y mediante bases de datos que permitan la búsqueda y extracción de información.
+
+> <small>(REFORMADO, G.O. 20 DE OCTUBRE DE 2011)</small>
 
 ###### Artículo 58.
 
-Los titulares de las instancias serán responsables de verificar que la información que les corresponde en términos de los artículos 13, 14, 19 y 39, último párrafo de la Ley de Transparencia, se incorpore debidamente en la sección de transparencia del sitio institucional en Internet, se mantenga actualizada y cumpla con los criterios establecidos por el INFODF.
+Los titulares de las instancias serán responsables de verificar que la información que les corresponde en términos de los artículos 13, 14, 19, 19 bis y 39, último párrafo de la Ley de Transparencia, se incorpore debidamente en la sección de transparencia del sitio institucional en Internet, se mantenga actualizada y cumpla con los criterios establecidos por el INFODF.
 
 ## TÍTULO CUARTO. DE LOS MEDIOS DE DEFENSA
 
@@ -843,3 +995,9 @@ TERCERO. Se derogan las disposiciones que se opongan al presente Reglamento.
 CUARTO. El Comité de Transparencia tendrá un plazo de hasta 45 días hábiles, computados a partir de dicha entrada en vigor para adecuar el Manual de Operación de la OIP, mientras tanto, funcionará válidamente con el que hasta la fecha se han venido aplicando en lo que no se contraponga a este Reglamento.
 
 QUINTO. Remítase para su publicación dentro del plazo de diez días hábiles a la Gaceta Oficial del Distrito Federal, así como en los estrados del Instituto Electoral, tanto en oficinas centrales, como en sus cuarenta Direcciones Distritales, y en la página de Internet www.iedf.org.mx.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+G.O. 20 DE OCTUBRE DE 2011.
+
+ÚNICO.- Publíquese en la Gaceta Oficial del Distrito Federal.
