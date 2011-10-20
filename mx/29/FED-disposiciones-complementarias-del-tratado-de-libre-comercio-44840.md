@@ -4,7 +4,7 @@ identifier: "FED-disposiciones-complementarias-del-tratado-de-libre-comercio-448
 country: "mx"
 rank: "otro"
 publication_date: "1998-06-30"
-last_updated: "2011-07-01"
+last_updated: "2011-10-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44840&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,9 @@ issue_date: "1998-06-25"
 ---
 # DISPOSICIONES COMPLEMENTARIAS DEL TRATADO DE LIBRE COMERCIO (REPUBLICA DE NICARAGUA,1997)
 
-ACUERDO POR EL QUE SE DA A CONOCER EL CUPO Y MECANISMO DE ASIGNACION PARA IMPORTAR AZUCAR ORIGINARIA DE LA REPUBLICA DE NICARAGUA EN 2011
+ACUERDO POR EL QUE SE DA A CONOCER EL CUPO Y MECANISMO DE ASIGNACION PARA IMPORTAR AZUCAR ORIGINARIA DE LA REPUBLICA DE NICARAGUA EN 2011 Y ENERO DE 2012
 
-Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 1 de julio de 2011.
+Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el jueves 20 de octubre de 2011.
 
 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Secretaría de Economía.
 
@@ -33,15 +33,15 @@ Que el Tratado de Libre Comercio entre el Gobierno de los Estados Unidos Mexican
 
 Que de conformidad con el Anexo 2 del artículo 4-04 del Tratado de Libre Comercio entre el Gobierno de los Estados Unidos Mexicanos y el Gobierno de la República de Nicaragua y la Decisión No. 7 de la Comisión Administradora del propio tratado, publicada en el Diario Oficial de la Federación el 17 de agosto de 2005, se definió una participación de Nicaragua de 10% dentro del arancel cuota que México establezca, cuya participación estará exenta del pago del arancel;
 
-Que corresponde a la Secretaría de Economía asegurar el abasto de bienes de consumo básico para la población y el abastecimiento de materias primas a los productores nacionales con el objeto de promover la competitividad de las cadenas productivas;
+Que corresponde a la Secretaría de Economía asegurar el abasto de bienes de consumo básico para la población y el abastecimiento de materias primas a los productores nacionales con objeto de promover la competitividad de las cadenas productivas;
 
-Que con base en los cálculos recientes del balance azucarero, se estimó que la oferta nacional de azúcar podría llegar a ser insuficiente para satisfacer la demanda de este producto en el segundo semestre de 2011 debido a la evolución reciente de algunos componentes de la producción y demanda de azúcar, lo que reduce los inventarios esperados;
+Que con base en la actualización a las estimaciones de los inventarios de azúcar, se ha detectado que la oferta nacional de azúcar podría llegar a ser insuficiente para satisfacer la demanda de este producto a principios del próximo ciclo azucarero que inicia en octubre de 2011, debido a la evolución reciente de algunos componentes de la demanda, por lo que resulta necesario complementar la oferta nacional con importaciones ordenadas;
 
-Que ante esta situación, los precios del azúcar han respondido al alza, lo cual afecta directamente la competitividad del sector productivo que utiliza el azúcar como insumo y el poder adquisitivo de los consumidores;
+Que de no establecerse un cupo de importación de azúcar de manera oportuna, el precio interno de este producto podría incrementarse significativamente en perjuicio de la actividad industrial y la población consumidora;
 
 Que existe coincidencia entre el sector público y el sector privado representante de la agroindustria azucarera, sobre la necesidad del establecimiento de un cupo de importación que permita equilibrar la oferta del mercado doméstico del azúcar;
 
-Que, con el propósito de atender las necesidades inmediatas de las personas físicas y morales que utilizan azúcar en sus procesos productivos, así como de la población en general, resulta indispensable habilitar, conforme a lo previsto por el artículo 28, último párrafo de la Ley Federal de Procedimiento Administrativo, los días inhábiles necesarios para que la celebración de la licitación pública a que se refiere el presente instrumento se lleve a cabo en el menor tiempo posible, y
+Que el artículo 7 del Decreto por el que se modifican diversos aranceles de la Tarifa de la Ley de los Impuestos Generales de Importación y de Exportación, del Decreto por el que se establecen diversos Programas de Promoción Sectorial y de los diversos por los que se establece el esquema de importación a la Franja Fronteriza Norte y Región Fronteriza, publicado en el Diario Oficial de la Federación el 30 de junio de 2007, establece el arancel-cupo, expresado en dólares de los Estados Unidos de América por kilogramo, para la importación de azúcar cuando el importador cuente con certificado de cupo expedido por la Secretaría de Economía, y
 
 Que la medida a que se refiere el presente ordenamiento cuenta con la opinión favorable de la Comisión de Comercio Exterior, se expide el siguiente
 
@@ -51,7 +51,7 @@ Acuerdo
 
 2.- Para los efectos del presente Acuerdo, se entenderá por:
 
-a) IMMEX, al programa autorizado al amparo del Decreto para el Fomento de la Industria Manufacturera, Maquiladora y de Servicios de Exportación, publicado en el Diario Oficial de la Federación el 1o. de noviembre de 2006 y sus reformas, y
+a) IMMEX, al programa autorizado al amparo del Decreto para el Fomento de la Industria Manufacturera, Maquiladora y de Servicios de Exportación, publicado en el Diario Oficial de la Federación el 1 de noviembre de 2006 y sus reformas, y
 
 b) PROSEC, al programa autorizado al amparo del Decreto por el que se establecen diversos Programas de Promoción Sectorial, publicado en el Diario Oficial de la Federación el 2 de agosto de 2002 y sus reformas.
 
@@ -61,31 +61,31 @@ a) Se asignará un monto de 7.5 mil toneladas entre las personas físicas y mora
 
 b) Se asignará un monto de 7.5 mil toneladas entre las personas físicas y morales diferentes a las mencionadas en el inciso anterior.
 
-4.- Para efectos del punto anterior, las personas físicas y morales señaladas en el inciso a) del Punto Tercero del presente Acuerdo, deberán demostrar su calidad de productores que utilizan azúcar en sus procesos productivos con alguno de los siguientes documentos:
+4.- Las personas físicas y morales a que se refiere el inciso a) del Punto anterior deberán demostrar su calidad de productores que utilizan azúcar en sus procesos productivos, con alguno de los siguientes documentos:
 
-i. copia de la autorización vigente de un programa IMMEX o PROSEC a nombre del solicitante.
+a) Copia de la autorización vigente de un programa IMMEX o PROSEC a nombre del solicitante;
 
-ii. dictamen elaborado por Contador Público Registrado ante la Secretaría de Hacienda y Crédito Público en el que certifique que el interesado ha fabricado en 2011 productos que utilizan azúcar como insumo.
+b) Dictamen elaborado por Contador Público Registrado ante la Secretaría de Hacienda y Crédito Público en el que certifique que el interesado ha fabricado en 2011 productos que utilizan azúcar como insumo;
 
-iii. acta de fe de hechos de Corredor Público en el que se certifique el objeto social de la empresa y que en su proceso productivo utiliza azúcar como insumo.
+c) Acta de fe de hechos de Corredor Público en el que se certifique el objeto social de la empresa y que en su proceso productivo utiliza azúcar como insumo, o
 
-iv. escrito libre bajo protesta de decir verdad, firmado por el presidente, director general o representante legal de la Cámara o Asociación del ramo o sector en el que opera la persona moral, mediante el cual se acredite su calidad de productor. Dicho escrito deberá certificar que la persona moral es afiliado al organismo, el tipo de producto que elabora y el hecho de que utiliza azúcar como insumo.
+d) Escrito libre bajo protesta de decir verdad, firmado por el presidente, director general o representante legal de la Cámara o Asociación del ramo o sector en el que opera la persona moral, mediante el cual se acredite su calidad de productor. Dicho escrito deberá certificar que la persona moral es afiliada al organismo, el tipo de producto que elabora y el hecho de que utiliza azúcar como insumo.
 
-5.- La licitación pública a que se refiere el Punto Tercero del presente instrumento podrá ser documental o electrónica y se sujetará a lo siguiente:
+5.- La licitación pública a que se refiere el Punto 3 del presente Acuerdo podrá ser documental o electrónica y se sujetará a lo siguiente:
 
 La convocatoria correspondiente se publicará en el Diario Oficial de la Federación por lo menos 20 días antes de que inicie el periodo de registro y establecerá la fecha en que se pondrán a disposición de los interesados las bases conforme a las cuales se regirá la licitación pública.
 
 6.- Podrán participar en la licitación pública del presente cupo las personas físicas y morales establecidas en los Estados Unidos Mexicanos que cumplan con las disposiciones de este Acuerdo y los requisitos previstos en las bases de la licitación pública, de conformidad con lo siguiente:
 
-a) En caso de convocatoria para licitación documental, los interesados deberán presentar su oferta en el formato SE-03-011-3 “Formato de oferta para participar en licitaciones públicas para adjudicar cupo para importar o exportar”, adjuntando la documentación que corresponda conforme a las bases de la licitación, y
+a) En caso de convocatoria para licitación documental, los interesados deberán presentar su oferta en el formato SE-03-011-3 “Formato de oferta para participar en licitaciones públicas para adjudicar cupos para importar o exportar”, adjuntando la documentación que corresponda conforme a las bases de la licitación, y
 
 b) Tratándose de convocatoria para licitación electrónica, para poder presentar su oferta, los interesados deberán registrarse en el sistema electrónico que se establezca para la ejecución de la misma, conforme a la forma y plazos señalados en las bases de la licitación.
 
 Los resultados de la adjudicación de la licitación se darán a conocer al término del evento y podrán ser consultados en la página de Internet del Sistema Integral de Información de Comercio Exterior www.siicex.gob.mx/portalSiicex/.
 
-7.- Una vez obtenida la adjudicación, el beneficiario deberá solicitar la expedición del certificado de cupo mediante la presentación del formato SE-03-013-6 "Solicitud de certificado de cupo (obtenido por licitación pública)", adjuntando el comprobante del pago correspondiente a la adjudicación, en la ventanilla de atención al público de la representación federal de la Secretaría de Economía que corresponda. La Secretaría de Economía emitirá el certificado de cupo dentro de los cinco días hábiles siguientes a la presentación de la solicitud.
+7.- Una vez obtenida la adjudicación, el beneficiario deberá solicitar la expedición del certificado de cupo mediante la presentación del formato SE-03-013-6 "Solicitud de certificados de cupo (obtenido por licitación pública)", adjuntando el comprobante del pago correspondiente a la adjudicación, en la ventanilla de atención al público de la representación federal de la Secretaría de Economía que corresponda. La Secretaría de Economía emitirá el certificado de cupo dentro de los cinco días hábiles siguientes a la presentación de la solicitud.
 
-8.- Los certificados de cupo que se expidan conforme a este Acuerdo serán nominativos, transferibles y su vigencia será al 31 de diciembre de 2011.
+8.- Los certificados de cupo que se expidan conforme a este Acuerdo serán nominativos, transferibles y su vigencia será al 31 de enero de 2012.
 
 9.- Para la aplicación del presente Acuerdo, la Dirección General de Comercio Exterior podrá solicitar la opinión de la Dirección General de Industrias Básicas de la Secretaría de Economía.
 
@@ -95,26 +95,20 @@ Formato SE-03-011-3 “Formato de oferta para participar en licitaciones públic
 
 http://www.cofemer.gob.mx/rfts/formulario/tramite.asp?coNodes=1566760&num_modalidad=0&epe=0&nv=0
 
-Formato SE-03-013-6 “Solicitud de certificado de cupo (obtenido por licitación pública)”.
+Formato SE-03-013-6 “Solicitud de certificados de cupo (obtenido por licitación pública)”.
 
 http://www.cofemer.gob.mx/rfts/formulario/tramite.asp?coNodes=1296451&num_modalidad=0&epe=0&nv=0
 
 Los formatos antes citados corresponden a los siguientes trámites inscritos en el Registro Federal de Trámites y Servicios (RFTS):
 
-a) “Asignación de cupo de importación y exportación a través de licitación pública”, para personas físicas o morales con homoclave en el RFTS SE-03-034
+a) “Asignación de cupo de importación y exportación a través de licitación pública”, para personas físicas o morales con homoclave en el RFTS SE-03-034, y
 
-b) “Expedición de certificado de cupo obtenido por licitación pública”, para personas físicas o morales con homoclave en el RFTS SE-03-043
+b) “Expedición de certificado de cupo obtenido por licitación pública”, para personas físicas o morales con homoclave en el RFTS SE-03-043.
 
 11.- Las autorizaciones emitidas al amparo del presente ordenamiento no eximen del cumplimiento de otros requisitos y demás regulaciones y restricciones no arancelarias aplicables a las mercancías en la aduana de despacho.
 
-TRANSITORIOS (SIC)
-
-Unico.- El presente Acuerdo entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación y su vigencia concluirá el 31 de diciembre de 2011.
-
-México, D.F., a 23 de junio de 2011.- El Secretario de Economía, Bruno Ferrari García de Alba.- Rúbrica.
-
 ## TRANSITORIO
 
-Unico.- El presente Acuerdo entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación y su vigencia concluirá el 15 de abril de 2011.
+UNICO.- El presente Acuerdo entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación y su vigencia concluirá el 31 de enero de 2012.
 
-México, D.F., a 1 de octubre de 2010.- El Secretario de Economía, Bruno Ferrari García de Alba.- Rúbrica.
+México, D.F., a 12 de octubre de 2011.- El Secretario de Economía, Bruno Ferrari García de Alba.- Rúbrica.
