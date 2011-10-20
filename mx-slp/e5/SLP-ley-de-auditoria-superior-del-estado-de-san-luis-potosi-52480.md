@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-auditoria-superior-del-estado-de-san-luis-potosi-52480"
 country: "mx"
 rank: "ley"
 publication_date: "2006-05-30"
-last_updated: "2010-12-30"
+last_updated: "2011-10-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52480&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE AUDITORIA SUPERIOR DEL ESTADO DE SAN LUIS POTOSI
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE OCTUBRE DE 2011.
 
 Ley publicada en la Edición Extraordinaria al Periódico Oficial del Estado de San Luis Potosí, el martes 30 de mayo de 2006.
 
@@ -572,6 +572,10 @@ El Comité elaborará el Manual del servicio civil de carrera para los servidore
 ###### ARTICULO 29.
 
 Para los efectos de lo dispuesto en el artículo 57 fracción XII de la Constitución Política del Estado, y la Ley Orgánica del Congreso del Estado, éste contará con una Comisión de Vigilancia que tendrá por objeto coordinar las relaciones entre éste y la Auditoría Superior del Estado, evaluar el desempeño de ésta última y constituir el enlace que permita garantizar la debida coordinación entre ambos órganos.
+
+> <small>(ADICIONADO, P.O. 20 DE OCTUBRE DE 2011)</small>
+
+ARTICULO 29 BIS. La Comisión no podrá ser integrada por quien haya formado parte de cualquiera de los entes auditables, en el periodo inmediato anterior al de la revisión de la cuenta pública que corresponda a su ejercicio.
 
 ###### ARTICULO 30.
 
@@ -1322,3 +1326,9 @@ P.O. 30 DE DICIEMBRE DE 2010.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan las disposiciones que se opongan a este Decreto.
+
+P.O. 20 DE OCTUBRE DE 2011.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
