@@ -4,7 +4,7 @@ identifier: "SON-ley-de-gobierno-y-administracion-municipal-del-estado-de-30437"
 country: "mx"
 rank: "ley"
 publication_date: "2001-10-15"
-last_updated: "2008-07-14"
+last_updated: "2011-10-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=30437&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "SON"
 ---
 # LEY DE GOBIERNO Y ADMINISTRACION MUNICIPAL DEL ESTADO DE SONORA
 
-LEY DE GOBIERNO Y ADMINISTRACION MUNICIPAL
+LEY DE GOBIERNO Y ADMINISTRACIÓN MUNICIPAL
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 14 DE JULIO DE 2008.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 20 DE OCTUBRE DE 2011.
 
 Ley publicada en la Sección Primera del Boletín Oficial del Estado de Sonora, el lunes 15 de octubre de 2001.
 
@@ -1249,9 +1249,15 @@ III. El objeto del organismo conforme a lo señalado en esta ley;
 
 IV. Las aportaciones y fuentes de recursos para integrar su patrimonio, así como aquellas que se determinen para su incremento;
 
-V. La forma de integración del órgano de gobierno que será no menos de cinco, ni más de nueve miembros;
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 20 DE OCTUBRE DE 2011)</small>
+
+V.- La forma de integración del órgano de gobierno que será de no menos de cinco ni más de quince miembros;
 
 En ningún caso podrán ser miembros del órgano de gobierno: los cónyuges y las personas que tengan parentesco por consanguinidad o afinidad hasta el cuarto grado o civil con cualquiera de los miembros del órgano de gobierno o con el director general; las personas que tengan litigios pendientes con el organismo de que se trate; las personas sentenciadas por delitos patrimoniales y las inhabilitadas para desempeñar un empleo, cargo o comisión en el servicio público;
+
+> <small>(ADICIONADO, B.O. 20 DE OCTUBRE DE 2011)</small>
+
+En el caso de los integrantes del órgano de gobierno que no formen parte de la administración pública, con excepción del presidente del consejo consultivo del órgano de que se trate, mismo que se regirá de conformidad con su propia normatividad, éstos tendrán una duración en su encargo de tres años, con posibilidad de reelegirse hasta por un periodo igual de tres años y serán removidos de manera escalonada, atendiendo la forma y el procedimiento que para tal efecto establezca el ayuntamiento en el acuerdo de creación respectivo.
 
 VI. La manera de designar al director general y los requisitos que deberá reunir;
 
@@ -3788,3 +3794,13 @@ B.O. 14 DE JULIO DE 2008.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+B.O. 20 DE OCTUBRE DE 2011.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+###### ARTÍCULO SEGUNDO.
+
+Por una única ocasión y en el supuesto de que algún municipio contemple más de ocho integrantes en su órgano de gobierno, los primeros tres integrantes adicionales durarán en su encargo cinco años, los siguientes dos durarán cuatro años y los dos restantes durarán tres años.
