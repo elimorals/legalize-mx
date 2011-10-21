@@ -4,7 +4,7 @@ identifier: "GUA-reglamento-para-la-enajenacion-de-bienes-inmuebles-77408"
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-11-16"
-last_updated: "2010-11-16"
+last_updated: "2011-10-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77408&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "GUA"
 ---
 # REGLAMENTO PARA LA ENAJENACION DE BIENES INMUEBLES REMANENTES PROPIEDAD DEL MUNICIPIO DE GUANAJUATO, GUANAJUATO
 
-REGLAMENTO PARA LA ENAJENACION DE BIENES INMUEBLES REMANENTES PROPIEDAD DEL MUNICIPIO DE GUANAJUATO, GUANAJUATO
+REGLAMENTO PARA LA ENAJENACIÓN DE BIENES INMUEBLES REMANENTES PROPIEDAD DEL MUNICIPIO DE GUANAJUATO, GUANAJUATO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE OCTUBRE DE 2011.
 
 Reglamento publicado en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el martes 16 de noviembre de 2010.
 
@@ -67,7 +67,9 @@ VI. La Dirección General de Servicios Jurídicos;
 
 VII. La Dirección General de Desarrollo Social, y
 
-VIII. La Comisión de Desarrollo Urbano y Ecología o su equivalente.
+> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 2011)</small>
+
+VIII. La Comisión de Desarrollo Urbano y Protección Ambiental o su equivalente.
 
 ###### Artículo 4.
 
@@ -75,15 +77,19 @@ El procedimiento de enajenación de bienes inmuebles se regirá por este Reglame
 
 ### CAPÍTULO TERCERO. DEL PROCEDIMIENTO
 
+> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2011)</small>
+
 ###### Artículo 5.
 
-La solicitud será dirigida y entregada por cuadriplicado a elección del particular a la Dirección General de Desarrollo Urbano y Protección Ambiental o a la Comisión de Desarrollo Urbano y Ecología del Ayuntamiento, la cual deberá contener como mínimo lo siguiente:
+La solicitud será dirigida y entregada por cuadriplicado, a elección del particular, a la Dirección General de Desarrollo Urbano y Protección Ambiental, o a la Comisión de Desarrollo Urbano y Protección Ambiental del Ayuntamiento, la cual deberá contener como mínimo lo siguiente:
 
-a) Nombre del solicitante y carácter con el que promueve;
+I. Nombre del solicitante y carácter con el que promueve;
 
-b) Dirección para recibir notificaciones en la ciudad y;
+II. Dirección para recibir notificaciones en la ciudad;
 
-c) Teléfono y/o correo electrónico.
+III. Teléfono y/o correo electrónico; y,
+
+IV. Tres fotografías ilustrativas del inmueble, tomadas desde distintos ángulos.
 
 ###### Artículo 6.
 
@@ -97,21 +103,19 @@ III. Copia de identificación oficial y;
 
 IV. En caso de tratarse de persona moral, deberá acompañar la documental que acredite la legal existencia de la misma y que la persona física que suscribe la solicitud cuenta con facultades suficientes.
 
+> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2011)</small>
+
 ###### Artículo 7.
 
-En el supuesto de que la solicitud sea recibida por la Comisión de Desarrollo Urbano y Ecología deberá remitir dentro del plazo de 5 días hábiles oficios a las siguientes dependencias para los fines contenidos en este reglamento:
+En el supuesto de que la solicitud sea recibida por la Comisión de Desarrollo Urbano y Protección Ambiental, deberá remitir dentro del plazo de 5 días hábiles, oficios a las siguientes dependencias para los fines contenidos en este reglamento:
 
-l. Dirección General de Desarrollo Urbano y Protección Ambiental;
+I. Dirección General de Desarrollo Urbano y Protección Ambiental;
 
-II. Dirección General de Desarrollo Social;
+II. Dirección General de Desarrollo Social; y,
 
-III. Dirección General de Servicios Jurídicos;
+III. Dirección de Catastro e Impuesto Predial.
 
-IV. Dirección de Catastro e Impuesto Predial y;
-
-V. Dirección de Adquisiciones y Servicios Generales.
-
-En el supuesto de que la solicitud sea recibida por la Dirección General de Desarrollo Urbano y Protección Ambiental, sólo remitirá oficios a las dependencias contenidas de la fracción II a V.
+En el supuesto de que la solicitud sea recibida por la Dirección General de Desarrollo Urbano y Protección Ambiental, ésta sólo remitirá oficios a las dependencias contenidas de la fracción II y III.
 
 ###### Artículo 8.
 
@@ -121,27 +125,37 @@ La Dirección de Desarrollo Urbano y Protección Ambiental deberá hacer constar
 
 La Dirección General de Desarrollo Social deberá realizar una inspección del inmueble, haciendo constar la situación actual o el uso real del mismo, es decir, si el terreno solicitado se encuentra baldío o con alguna construcción o delimitación, es decir si se encuentra cercado; indagar con los vecinos si existe algún obvio poseedor, y rendir una opinión sobre la factibilidad de enajenación del mismo tomando en cuenta la opinión de los mismos vecinos, anexando también un impreso fotográfico y croquis de localización.
 
+> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2011)</small>
+
 ###### Artículo 10.
 
-La Dirección de Catastro e Impuesto Predial deberá determinar el valor comercial del bien, así como a través de la Dirección de Control Patrimonial informar sobre la legítima propiedad del municipio acreditada en instrumento público, de conformidad con la información que sea proporcionada en todo caso por la Dirección de Adquisiciones y Servicios Generales y especificando si se trata de un bien de dominio público o no de conformidad con el Reglamento para el Control Patrimonial de Bienes Muebles e Inmuebles del Municipio de Guanajuato.
+La Dirección de Catastro e Impuesto Predial deberá determinar el valor comercial del bien, así como informar sobre la legítima propiedad del municipio respecto del bien inmueble, acreditada en instrumento público, y especificando si se trata de un bien de dominio público o no, de conformidad con el Reglamento para el Control Patrimonial de Bienes Muebles e Inmuebles del Municipio de Guanajuato.
 
-En el supuesto de que se trate de un bien de Dominio Público, la Dirección de Adquisiciones y Servicios Generales a petición de la Dirección de Control Patrimonial deberá emitir su opinión sobre la desafectación.
+En el supuesto de que se trate de un bien del dominio público, deberá emitir su opinión además sobre la viabilidad de su desafectación.
+
+> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2011)</small>
 
 ###### Artículo 11.
 
-Las dependencias referidas en los tres artículos anteriores deberán dar contestación en un término de 10 días hábiles, por lo que en el caso de que la instancia iniciadora del procedimiento sea la Dirección de Desarrollo Urbano y Protección Ambiental o en su caso, la Comisión de Desarrollo Urbano y Ecología, deberá integrar el expediente y remitirlo a la Dirección General de Asuntos Jurídicos en un plazo de 3 días hábiles.
+Las dependencias referidas en los tres artículos anteriores deberán dar contestación en un término de 10 días hábiles. Ya sea que la instancia iniciadora del procedimiento sea la Dirección de Desarrollo Urbano y Protección Ambiental, o en su caso, la Comisión de Desarrollo Urbano y Protección Ambiental, una vez recibidos los informes de las referidas dependencias, deberán integrar el expediente y remitirlo a la Dirección General de Servicios Jurídicos en un plazo máximo de 3 días hábiles.
+
+> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2011)</small>
 
 ###### Artículo 12.
 
-La Dirección General de Servicios Jurídicos deberá dar su opinión sobre el proceso una vez que le sea remitido el expediente integrado en un plazo de 5 días hábiles a la Comisión de Desarrollo Urbano y Ecología.
+La Dirección General de Servicios Jurídicos deberá dar su opinión sobre el proceso una vez que le sea remitido el expediente, y en un plazo máximo de 10 días hábiles a partir de que lo recibe, remitirlo a la Comisión de Desarrollo Urbano y Protección Ambiental.
+
+> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2011)</small>
 
 ###### Artículo 13.
 
-Una vez recibido el expediente o información correspondiente, la Comisión de Desarrollo Urbano y Protección Ambiental deberá sesionar y dictaminar en un plazo de 15 días hábiles para someter al pleno del Ayuntamiento la determinación en la siguiente Sesión Ordinaria, para que con la más amplia facultad discrecional autorice o no la enajenación, solicitando en su caso la desafectación del bien y la correspondiente publicación en el Periódico Oficial de (sic) Gobierno del Estado.
+Una vez recibido el expediente correspondiente, la Comisión de Desarrollo Urbano y Protección Ambiental deberá sesionar y dictaminar en un plazo de 15 días hábiles, y posteriormente someter su determinación al pleno del Ayuntamiento en la siguiente Sesión Ordinaria, para que éste autorice o no la enajenación, ordenando en su caso la desafectación del bien y la correspondiente publicación en el Periódico Oficial de Gobierno del Estado.
+
+> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2011)</small>
 
 ###### Artículo 14.
 
-En caso de que alguna de las instancias o dependencias que tiene intervención dentro del presente proceso no cumpla con sus obligaciones en los plazos previstos, se entenderá que está conforme con la enajenación y además será causa de dar vista a la Contraloría Municipal para que acuerde lo conducente.
+En caso de que alguna de las instancias o dependencias que tienen intervención dentro del presente procedimiento, no cumpla con sus obligaciones en los plazos previstos, se dará vista a la Contraloría Municipal para que acuerde lo conducente.
 
 ###### Artículo 15.
 
@@ -162,3 +176,11 @@ PRESIDENTE MUNICIPAL
 LIC. GABINO CARBAJO ZÚÑIGA
 
 SECRETARIO DEL HONORABLE AYUNTAMIENTO
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 21 DE OCTUBRE DE 2011.
+
+## [N. DE E. TRANSITORIO DEL "ACUERDO MUNICIPAL, MEDIANTE EL CUAL, SE MODIFICAN DIVERSAS DISPOSICIONES DEL REGLAMENTO PARA LA ENAJENACIÓN DE BIENES INMUEBLES REMANENTES PROPIEDAD DEL MUNICIPIO DE GUANAJUATO, GTO., PUBLICADO EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO DE GUANAJUATO NÚMERO 183, SEGUNDA PARTE, DE FECHA 16 DE NOVIEMBRE DE 2010".]
+
+Artículo Único.- Las presentes modificaciones entrarán en vigor al cuarto día hábil siguiente a su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
