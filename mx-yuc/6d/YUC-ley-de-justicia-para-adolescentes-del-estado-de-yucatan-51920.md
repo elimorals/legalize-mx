@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-justicia-para-adolescentes-del-estado-de-yucatan-51920"
 country: "mx"
 rank: "ley"
 publication_date: "2006-10-01"
-last_updated: "2007-06-13"
+last_updated: "2011-10-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51920&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "YUC"
 ---
 # LEY DE JUSTICIA PARA ADOLESCENTES DEL ESTADO DE YUCATAN
 
-LEY DE JUSTICIA PARA ADOLESCENTES DEL ESTADO DE YUCATAN
+LEY DE JUSTICIA PARA ADOLESCENTES DEL ESTADO DE YUCATÁN
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE JUNIO DE 2007.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIOS DE LA LEY DE JUSTICIA PARA ADOLESCENTES DEL ESTADO DE YUCATÁN PUBLICADA EN EL SUPLEMENTO DEL D.O. DE 21 DE OCTUBRE DE 2011, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO, A EXCEPCIÓN DE LO ESTABLECIDO EN LOS ARTÍCULOS: 27, 28 Y 29, RELATIVOS A LA INTEGRACIÓN DEL CENTRO; 34, DE LOS REQUISITOS PARA SER DIRECTOR DEL CENTRO; 35, DE LAS FACULTADES Y OBLIGACIONES EXPRESAS DEL DIRECTOR DEL CENTRO; 36, DE LAS FACULTADES Y OBLIGACIONES ESPECÍFICAS DE LOS TITULARES DE LAS ÁREAS ADMINISTRATIVAS DEL CENTRO, 38, CON LAS RELATIVAS AL DEPARTAMENTO DE CUSTODIA, DE CONFORMIDAD CON EL ARTÍCULO SÉPTIMO TRANSITORIO DE DICHA LEY, HASTA EN TANTO NO SE REFORME EL REGLAMENTO INTERNO DEL CENTRO ESPECIALIZADO EN APLICACIÓN DE MEDIDAS PARA ADOLESCENTES EN EL TÉRMINO PREVISTO EN EL ARTÍCULO SEXTO TRANSITORIO DE LA CITADA LEY.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: PARCIALMENTE ABROGADA.
 
 Ley publicada en el Diario Oficial del Estado de Yucatán, el domingo 1 de octubre de 2006.
 
@@ -495,6 +497,8 @@ e) Realizar visitas periódicas al Adolescente, en el centro de internación en 
 
 IV.- En la etapa de ejecución de las medidas, asistir al Adolescente en aquellos casos en los que lo solicite.
 
+> <small>N. DE E. CON RELACION A LA VIGENCIA DE ESTE ARTICULO, VEASE TRANSITORIO SEPTIMO DEL DECRETO NUMERO 453 PUBLICADO EN EL SUPLEMENTO DEL D.O. DE 21 DE OCTUBRE DE 2011.</small>
+
 > <small>(REFORMADO, D.O. 7 DE DICIEMBRE DE 2006)</small>
 
 ###### Artículo 27.
@@ -515,6 +519,8 @@ VI.- Realizar el seguimiento técnico del Adolescente, una vez concluida la apli
 
 El Centro promoverá la celebración de convenios de colaboración, con organizaciones no gubernamentales cuya labor y perfil, coincidan con los objetivos que persiguen las diversas medidas a aplicar.
 
+> <small>N. DE E. CON RELACION A LA VIGENCIA DE ESTE ARTICULO, VEASE TRANSITORIO SEPTIMO DEL DECRETO NUMERO 453 PUBLICADO EN EL SUPLEMENTO DEL D.O. DE 21 DE OCTUBRE DE 2011.</small>
+
 > <small>(REFORMADO, D.O. 7 DE DICIEMBRE DE 2006)</small>
 
 ###### Artículo 28.
@@ -528,6 +534,8 @@ II.- El Consejo Técnico Interdisciplinario;
 III.- El Departamento de Custodia, y
 
 IV.- La Unidad de Administración.
+
+> <small>N. DE E. CON RELACION A LA VIGENCIA DE ESTE ARTICULO, VEASE TRANSITORIO SEPTIMO DEL DECRETO NUMERO 453 PUBLICADO EN EL SUPLEMENTO DEL D.O. DE 21 DE OCTUBRE DE 2011.</small>
 
 > <small>(REFORMADO, D.O. 7 DE DICIEMBRE DE 2006)</small>
 
@@ -571,6 +579,8 @@ La sección de tratamiento interno, está destinada a la guarda de los Adolescen
 
 El Director del Centro, será nombrado y removido por el Secretario General de Gobierno de común acuerdo con el Gobernador; los demás servidores públicos, serán designados en la forma establecida en el Reglamento Interior de la Secretaría General de Gobierno.
 
+> <small>N. DE E. CON RELACION A LA VIGENCIA DE ESTE ARTICULO, VEASE TRANSITORIO SEPTIMO DEL DECRETO NUMERO 453 PUBLICADO EN EL SUPLEMENTO DEL D.O. DE 21 DE OCTUBRE DE 2011.</small>
+
 > <small>(REFORMADO, D.O. 7 DE DICIEMBRE DE 2006)</small>
 
 ###### Artículo 34.
@@ -586,6 +596,8 @@ III.- Tener como mínimo treinta años de edad cumplidos al día de su nombramie
 IV.- Tener título profesional en área afín al objeto de la institución, y
 
 V.- Acreditar un mínimo de tres años de experiencia profesional, en un área relacionada con el objeto de la institución y, haber terminado estudios de postgrado en alguna rama del conocimiento relacionada con la materia de la presente ley.
+
+> <small>N. DE E. CON RELACION A LA VIGENCIA DE ESTE ARTICULO, VEASE TRANSITORIO SEPTIMO DEL DECRETO NUMERO 453 PUBLICADO EN EL SUPLEMENTO DEL D.O. DE 21 DE OCTUBRE DE 2011.</small>
 
 > <small>(REFORMADO, D.O. 7 DE DICIEMBRE DE 2006)</small>
 
@@ -614,6 +626,8 @@ IX.- Recibir, atender y/o tramitar ante las autoridades correspondientes, las qu
 X.- Solicitar al Juez, la modificación o conclusión anticipada de la aplicación de medidas impuestas, y
 
 XI.- Las demás previstas en esta ley y demás ordenamientos aplicables.
+
+> <small>N. DE E. CON RELACION A LA VIGENCIA DE ESTE ARTICULO, VEASE TRANSITORIO SEPTIMO DEL DECRETO NUMERO 453 PUBLICADO EN EL SUPLEMENTO DEL D.O. DE 21 DE OCTUBRE DE 2011.</small>
 
 > <small>(REFORMADO, D.O. 7 DE DICIEMBRE DE 2006)</small>
 
@@ -672,6 +686,8 @@ XV.- Integrar un registro del cumplimiento de las medidas aplicadas;
 XVI.- Vigilar el respeto a la integridad y dignidad del Adolescente, así como el estricto cumplimiento de sus derechos, y
 
 XVII.- Las otras previstas en esta ley y demás ordenamientos aplicables.
+
+> <small>N. DE E. CON RELACION A LA VIGENCIA DE ESTE ARTICULO, VEASE TRANSITORIO SEPTIMO DEL DECRETO NUMERO 453 PUBLICADO EN EL SUPLEMENTO DEL D.O. DE 21 DE OCTUBRE DE 2011.</small>
 
 > <small>(REFORMADO, D.O. 7 DE DICIEMBRE DE 2006)</small>
 
@@ -2652,3 +2668,33 @@ D.O. 13 DE JUNIO DE 2007.
 ###### ARTÍCULO ÚNICO.
 
 Este Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+D.O. 21 DE OCTUBRE DE 2011.
+
+###### ARTÍCULO PRIMERO.
+
+Esta Ley entrará en vigor a los 120 días posteriores a su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+###### ARTÍCULO SEGUNDO.
+
+A partir de la entrada en vigor de esta Ley, queda abrogada la Ley de Justicia para Adolescentes del Estado de Yucatán, publicada en el Diario Oficial del Gobierno del Estado de Yucatán el primero de octubre de 2006.
+
+###### ARTÍCULO TERCERO.
+
+Los procesos que se encuentren pendientes de trámite o hayan sido iniciados con anterioridad a la entrada en vigor de esta Ley, se continuarán conforme a las normas y procedimientos previstos en la Ley que se abroga, y únicamente se aplicará la presente Ley en aquello que beneficie a los adolescentes sujetos a proceso.
+
+###### ARTÍCULO CUARTO.
+
+El Consejo de la Judicatura del Poder Judicial del Estado, podrá establecer o modificar la competencia y jurisdicción territorial de los jueces a que hace referencia esta Ley mediante acuerdos generales, en los términos de la Ley Orgánica del Poder Judicial del Estado.
+
+###### ARTÍCULO QUINTO.
+
+El Pleno del Tribunal Superior de Justicia del Estado de Yucatán, el Consejo de la Judicatura del Poder Judicial y el Fiscal General del Estado de Yucatán, en su respectivo ámbito de competencia, podrán expedir los acuerdos generales, lineamientos, manuales y demás normatividad que sea necesaria para resolver las cuestiones urgentes que puedan suscitarse en la implementación y funcionamiento del proceso acusatorio en materia de justicia para adolescentes.
+
+###### ARTÍCULO SEXTO.
+
+El Poder Ejecutivo del Gobierno del Estado de Yucatán, contará con un plazo de 180 días siguientes a partir de la entrada en vigor de esta Ley, para realizar las adecuaciones normativas y administrativas pertinentes para el correcto funcionamiento del Sistema Integral de Justicia para Adolescentes y para la aplicación de esta Ley.
+
+###### ARTÍCULO SÉPTIMO.
+
+Hasta en .tanto no se reforme el Reglamento Interno del Centro Especializado en Aplicación de Medidas para Adolescentes en el término previsto en el artículo transitorio anterior, continuará vigente lo establecido en los artículos: 27, 28 Y 29, relativos a la integración del Centro; 34, de los requisitos para ser Director del Centro; 35, de las facultades y obligaciones expresas del Director del Centro; 36, de las facultades y obligaciones específicas de los titulares de las áreas administrativas del Centro, 38, con las relativas al departamento de custodia, todos de la Ley de Justicia para Adolescentes que se abroga.
