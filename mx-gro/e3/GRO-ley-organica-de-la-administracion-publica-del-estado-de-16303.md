@@ -4,7 +4,7 @@ identifier: "GRO-ley-organica-de-la-administracion-publica-del-estado-de-16303"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1999-10-12"
-last_updated: "2011-02-08"
+last_updated: "2011-10-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16303&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "GRO"
 ---
 # LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE GUERRERO NUMERO 433
 
-LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE GUERRERO NUMERO 433
+LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE GUERRERO NUMERO 433
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE FEBRERO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE OCTUBRE DE 2011.
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el martes 12 de octubre de 1999.
 
@@ -163,7 +163,7 @@ Los Titulares de las dependencias y entidades a que se refiere esta Ley, podrán
 
 Para la eficiente atención y despacho de los asuntos de su competencia, las dependencias del Ejecutivo podrán contar con órganos administrativos desconcentrados, que les estarán jerárquicamente subordinados y tendrán facultades específicas para resolver sobre la materia, dentro del ámbito territorial que se determine en cada caso.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE DICIEMBRE DE 2000)</small>
 
 ###### ARTICULO 13.
 
@@ -245,13 +245,21 @@ XII.- Secretaría de Medio Ambiente y Recursos Naturales del Estado (SEMAREN);
 
 XIII.- Secretaría de Asuntos Indígenas;
 
-> <small>(REFORMADA, P.O. 27 DE ABRIL DE 2004)</small>
+> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 2011)</small>
 
-XIV.- Secretaría de la Mujer; y
+XIV.- Secretaría de la Mujer;
 
-> <small>(ADICIONADA, P.O. 27 DE ABRIL DE 2004)</small>
+> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 2011)</small>
 
-XV.- Secretaría de la Juventud;
+XV.- Secretaría de la Juventud; y
+
+> <small>(ADICIONADA, P.O. 21 DE OCTUBRE DE 2011)</small>
+
+XVI.- Secretaría de los Migrantes y Asuntos Internacionales; y
+
+> <small>(ADICIONADA, P.O. 21 DE OCTUBRE DE 2011)</small>
+
+XVII.- Secretaría del trabajo y Previsión Social.
 
 La Contraloría General del Estado, estará directamente adscrita al Titular del Poder Ejecutivo y contará con las atribuciones señaladas en esta Ley, la de Responsabilidades de los Servidores Públicos del Estado y demás ordenamientos jurídicos aplicables.
 
@@ -345,27 +353,25 @@ XXXII.- Regular la concesión y explotación del servicio público de transporte
 
 XXXIII.- Reestructurar y autorizar, previo estudio, las tarifas del servicio público de transporte, sujeto a permiso o concesión del Gobierno del Estado, conjuntamente con la Secretaría de Finanzas y Administración;
 
-> <small>(ADICIONADA, P.O. 14 DE DICIEMBRE DE 2000)</small>
+XXXIV.- (DEROGADA, P.O. 21 DE OCTUBRE DE 2011)
 
-XXXIV.- Ejercer las atribuciones que en materia de trabajo y empleo competen al Gobierno del Estado, procurando armonizar los intereses de los obreros y los patrones y cuidando que éstos colaboren en los programas de producción y productividad;
+XXXV.- (DEROGADA, P.O. 21 DE OCTUBRE DE 2011)
 
-> <small>(ADICIONADA, P.O. 14 DE DICIEMBRE DE 2000)</small>
+XXXVI.- (DEROGADA, P.O. 21 DE OCTUBRE DE 2011)
 
-XXXV.- Conducir la relación del Poder Ejecutivo con las Juntas Locales de Conciliación y Arbitraje y proporcionarles el apoyo material que requieran, así como representar al Gobierno del Estado en las comisiones respectivas que establecen la legislación laboral;
+XXXVII.- (DEROGADA, P.O. 21 DE OCTUBRE DE 2011)
 
-> <small>(ADICIONADA, P.O. 14 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 2011)</small>
 
-XXXVI.- Vigilar el cumplimiento de las normas relativas a la capacitación y adiestramiento de los trabajadores, así como en materia de seguridad e higiene en el trabajo en concordancia con las leyes laborales;
+XXXVIII.- Establecer y operar un sistema de seguimiento de los programas federales relativos al Estado, conforme a lo que las leyes y acuerdos de coordinación establezcan, en congruencia con el Comité de Planeación para el Desarrollo del Estado de Guerrero;
 
-> <small>(ADICIONADA, P.O. 14 DE DICIEMBRE DE 2000)</small>
+> <small>(ADICIONADA, P.O. 21 DE OCTUBRE DE 2011)</small>
 
-XXXVII.- Proporcionar elementos técnicos de asesoría y defensa jurídica a los trabajadores y sindicatos, en concordancia con las leyes laborales;
+XXXIX.- Proporcionar la atención adecuada y oportuna a las demandas que le presenten ciudadanos u organizaciones sociales y partidos políticos, en un marco de tolerancia, armonía y respeto, procurando mantener una relación efectiva y coordinada con los mismos en la, solución de sus requerimientos, a través del diálogo, la concertación y. el respaldo para facilitar su acceso puntual hacia los servicios públicos que brindan las dependencias y entidades del gobierno estatal; y
 
-> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 2011)</small>
 
-XXXVIII.- Establecer y operar un sistema de seguimiento de los programas federales relativos al Estado, conforme a lo que las leyes y acuerdos de coordinación establezcan, en congruencia con el Comité de Planeación para el Desarrollo del Estado de Guerrero; y
-
-XXXIX.- Las demás que le fijen las leyes y reglamentos vigentes en el Estado.
+XL.- Las demás que le fijen las leyes y reglamentos vigentes en el estado.
 
 > <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2000)</small>
 
@@ -389,7 +395,7 @@ VI.- Coordinar, concertar y ejecutar programas y proyectos especiales para el de
 
 VII.- Coordinar la operación de programas para que la participación ciudadana se encauce hacía la realización de proyectos, obras y acciones de beneficio colectivo;
 
-VIII.- Establecer, coordinar y operar los programas de atención para la comunidad de guerrerenses que radican fuera del Estado, definiendo vínculos de comunicación y coordinación permanente, principalmente con los que residen en el extranjero;
+VIII.- (DEROGADA, P.O. 21 DE OCTUBRE DE 2011)
 
 IX.- En coordinación con la Secretaría de Educación Guerrero, organizar y operar el Sistema Estatal de Becas del Gobierno del Estado;
 
@@ -557,7 +563,7 @@ XVIII.- Las demás que señalen las leyes y reglamentos vigentes en el Estado.
 
 La Secretaría de Seguridad Pública y Protección Civil, es la dependencia de coordinación global del Sistema de Seguridad Estatal, correspondiéndole como órgano da la administración pública estatal centralizada, la conducción y ejercicio de las funciones y servicios de seguridad pública; protección civil; transito estatal; sistema penitenciario y tratamiento de adolescentes.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE FEBRERO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE FEBRERO DE 2011)</small>
 
 Así también es el órgano responsable de coadyuvar en el diseño e implantación de las políticas estatales en materia criminal y de prevención del delito, fundando sus acciones en el respeto la integridad y derechos de las personas, particularmente aquellas que se encuentran en situación de vulnerabilidad, tomando medidas especiales para garantizar a las mujeres, una vida libre de violencia, así como para la preservación de las libertades, la paz pública y la promoción y vigencia de los derechos humanos, correspondiéndole el despacho de los asuntos siguientes:
 
@@ -713,7 +719,7 @@ XX Bis.- Promover de conformidad con las disposiciones aplicables y ante las ins
 
 XXI.- Las demás que le fijen las leyes y reglamentos vigentes en el Estado.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE FEBRERO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE FEBRERO DE 2011)</small>
 
 ###### ARTICULO 27.
 
@@ -749,7 +755,7 @@ XIII.- Establecer y operar un sistema de seguimiento de los programas federales 
 
 XIV.- Las demás que le fijen las leyes y reglamentos vigentes en el Estado.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE DICIEMBRE DE 2000)</small>
 
 ###### ARTICULO 28.
 
@@ -857,7 +863,7 @@ XXIII.- Establecer y operar un sistema de seguimiento de los programas federales
 
 XXIV.- Las demás que le fijen las leyes y reglamentos vigentes en el Estado.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE FEBRERO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE FEBRERO DE 2011)</small>
 
 ###### ARTICULO 30.
 
@@ -937,7 +943,7 @@ XXIX.- Establecer y operar un sistema de seguimiento y evaluación de los progra
 
 XXX.- Las demás que le fijen las leyes y reglamentos vigentes en el Estado.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE FEBRERO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE FEBRERO DE 2011)</small>
 
 ###### ARTÍCULO 31.
 
@@ -1065,7 +1071,7 @@ XXXVIII.- Las demás que le señalen las Leyes y Reglamentos vigentes en el Esta
 
 La Secretaría de Medio Ambiente y Recursos Naturales del Estado (SEMAREN), contará en su estructura con un órgano administrativo desconcentrado denominado Procuraduría de Protección Ecológica.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE FEBRERO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE FEBRERO DE 2011)</small>
 
 ###### ARTÍCULO 32.
 
@@ -1187,7 +1193,113 @@ XXVII.- Establecer y operar un sistema de seguimiento de los programas federales
 
 XXVIII.- Las demás que le fijen las leyes y reglamentos vigentes en el Estado.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE FEBRERO DE 2011)</small>
+> <small>(ADICIONADO, P.O. 21 DE OCTUBRE DE 2011)</small>
+
+ARTICULO 33 BIS A.- La Secretaría de los Migrantes y Asuntos Internacionales es el órgano encargado de regular, conducir y evaluar la política estatal en materia de migración, atendiendo integralmente a las comunidades de guerrerenses que migran de sus localidades de origen a otros municipios del Estado, al interior de la República o se encuentran radicados en el extranjero, así como fomentar las relaciones interinstitucionales con gobiernos, organismos e instituciones internacionales, gobiernos regionales y ciudades del interior de la República o de otros países, correspondiéndole el despacho de los siguientes asuntos:
+
+I. Fomentar, formular e instrumentar y coordinar las políticas, programas y acciones encaminadas al beneficio de los migrantes guerrerenses, y que contribuyan a la promoción, procuración y defensa de sus derechos humanos;
+
+II. Diseñar e impulsar las políticas públicas, programas y acciones necesarias para atender la problemática de los trabajadores y trabajadoras agrícolas migrantes guerrerenses, tanto en sus localidades de origen como en las entidades federativas de destino en el interior de la República, procurando el ejercicio y defensa de sus derechos laborales y sociales, fundamentalmente en el ámbito de la salud y la educación, así como la defensa de los derechos humanos de las y los niños migrantes;
+
+III. Formular, organizar, promover y dirigir, en coordinación con las dependencias y entidades de los tres niveles de gobierno, programas de protección al migrante guerrerense, así como a migrantes desaparecidos y fallecidos;
+
+IV. Operar, en coordinación con la Secretaría de Desarrollo Urbano y Obras Públicas y el Comité de Planeación para el Desarrollo del Estado, la instrumentación del Programa Interinstitucional 3x1 para Migrantes;
+
+V. Promover los valores culturales y las tradiciones entre los migrantes guerrerenses para reforzar su identidad y arraigo, así como fomentar la comunicación permanente con clubes, federaciones y organizaciones de guerrerenses radicados o que migran fuera del estado y la búsqueda conjunta de soluciones a la problemática de los mismos;
+
+VI. Instalar oficinas de atención a los migrantes guerrerenses en las principales ciudades de la República y de los Estados Unidos de América, donde más se concentren los migrantes, a efecto de consolidar el vínculo interinstitucional con sus comunidades, tramitar documentos de identificación y mantener actualizado el censo de migrantes guerrerenses;
+
+VII. Dar prioridad a los programas de cooperación contenidos en los Tratados en que México sea parte como el Tratado de Libre Comercio de América del Norte (TLCAN) y el Acuerdo de Asociación Económica, Concertación Política y Cooperación con la Unión Europea y sus Estados Miembros (ALC UE-México) que puedan ser utilizados en programas de desarrollo del Estado de Guerrero;
+
+VIII. VII (sic). Impulsar los vínculos internacionales del Estado de Guerrero que permitan articular adecuadamente los programas y acciones en beneficio de los migrantes e incluso de sus comunidades de origen;
+
+IX. Coordinar el Consejo Consultivo de Migrantes Guerrerenses, con el fin de instrumentar políticas públicas en beneficio de los mismos;
+
+X. Realizar estudios e investigaciones orientadas al conocimiento del fenómeno migratorio en términos regionales, culturales y económicos, así como sus procesos vinculatorios con las comunidades de origen y destino, y con las organizaciones que ellos han constituido;
+
+XI. Diseñar una estrategia de colaboración con la Secretaría de Relaciones Exteriores, los organismos internacionales, agencias oficiales y embajadas acreditadas en nuestro país, a fin de establecer vínculos que permitan aprovechar los programas y fondos existentes en el ámbito internacional, así como el logro de los Objetivos de Desarrollo del Milenios (sic) establecidos por la Organización de las Naciones Unidas desde el año 2000;
+
+XII. Establecer lazos de colaboración con los países pertenecientes a la Comisión Económica y Social para Asia y el Pacífico (CESPAP), a fin de fortalecer los vínculos que permitan potenciar al Puerto de Lázaro Cárdenas, ubicado en el delta del Río Balsas y coadyuvar con la Secretaría de Desarrollo Económico; asimismo, con todos los países que oferten avances tecnológicos en materia de competitividad productiva y económica, en que nuestra entidad sea deficitaria;
+
+XIII. Promover el establecimiento de relaciones de amistad y colaboración entre ciudades guerrerenses y ciudades de otros países, que permitan la hermandad con planes y programas de beneficio mutuo;
+
+XIV. Promover entre los migrantes el conocimiento de sus derechos y las alternativas de desarrollo en sus comunidades de origen, así como proveerles de la asistencia jurídica que requieran en casos determinados;
+
+XV. Impulsar con los municipios la formulación y puesta en marcha de programas que fomenten el arraigo de las personas que han sido migrantes o que pretenden serlo, alentando con las dependencias y entidades correspondientes la capacitación en tareas productivas, en coordinación con instituciones educativas y de investigación en la materia;
+
+XVI. Captar, encauzar y dar seguimiento a las demandas de los migrantes a través de instrumentos y mecanismos coordinados con las diferentes instancias de gobierno estatal y nacional, así como con las embajadas de los países respectivos;
+
+XVII. Promover con las autoridades competentes de los países en los cuales se encuentran los migrantes que hayan sido indiciados como presuntos autores de delitos, para que sean juzgados con absoluto apego a las leyes, evitando penas infamantes;
+
+XVIII. Adoptar las providencias necesarias con el fin de que los migrantes que hayan sido sentenciados por la comisión de delitos, compurguen sus sanciones solamente en la forma y términos prescritos en las leyes de la materia;
+
+XIX. Establecer y operar un sistema de coordinación, seguimiento y evaluación de los programas federales relacionados con los asuntos de su competencia, en el marco del Comité de Planeación para el Desarrollo del Estado de Guerrero y conforme a lo que las leyes y acuerdos de coordinación establezcan; y
+
+XX. Participar en el ámbito de su competencia, en la ejecución del Plan Estatal de Desarrollo;
+
+XXI. Proponer al Titular del Poder Ejecutivo del Estado, los proyectos de iniciativa de leyes, reglamentos, decretos y acuerdos respecto a los asuntos de la competencia de la Secretaría;
+
+XXII. Comparecer ante el H. Congreso del Estado, para dar cuenta del estado que guarda su ramo o sector correspondiente, para responder a los planteamientos que sobre la glosa del Informe de Gobierno formulen los Diputados, o bien cuando se discuta una iniciativa de Ley o se estudie un asunto concerniente a su competencia;
+
+XXIII. Presentar el anteproyecto de presupuesto anual de la Secretaría, de acuerdo a los lineamientos que para tal efecto se determinen;
+
+XXIV. Las demás que le fijen las leyes y reglamentos vigentes en el Estado.
+
+> <small>(ADICIONADO, P.O. 21 DE OCTUBRE DE 2011)</small>
+
+ARTICULO 33 BIS B.- La Secretaría del Trabajo y Previsión Social, es el órgano encargado de conducir las políticas públicas, programas y acciones en materia de trabajo y de armonizar la relación entre las diferentes fuerzas productivas de la Entidad, y le corresponde el despacho de los asuntos siguientes:
+
+I. Proponer y ejecutar las políticas, programas y acciones que se traduzcan en generar y consolidar en el Estado una nueva cultura laboral, que impulse la productividad y la competitividad, que mejore las condiciones de trabajo y dé impulso al fomento y promoción del empleo; siendo, en síntesis, el órgano rector de conducir la política laboral en la entidad;
+
+II. Coadyuvar con las instancias competentes en la vigilancia, observancia y aplicación de las disposiciones contenidas en el artículo 123 de la Constitución Política de los Estados Unidos Mexicanos, así como de la Ley Federal del Trabajo, sus reglamentos y demás disposiciones aplicables;
+
+III. Ejercer las atribuciones que las leyes y los convenios le confieren al Ejecutivo del Estado, en materia laboral y de promoción al empleo;
+
+IV. Fomentar y coadyuvar a que las relaciones con las organizaciones patronales y gremiales, se desarrollen en un marco de respeto, entendimiento y cordialidad;
+
+V. Proponer a las autoridades jurisdiccionales laborales del estado, las acciones tendientes a lograr el mejoramiento de la impartición de la justicia laboral para que ésta sea pronta, expedita e imparcial, todo ello, con respeto irrestricto a su autonomía;
+
+VI. Coadyuvar con las Juntas Locales de Conciliación y Arbitraje de la entidad, así como con las Procuradurías Auxiliares de la Defensa del Trabajo, en el desarrollo armónico de sus atribuciones, con base en las disposiciones legales y las facultades que las leyes otorguen al Ejecutivo del Estado y coordinar administrativamente su funcionamiento;
+
+VII. Comparecer ante el H. Congreso del Estado, para dar cuenta del estado que guarda su ramo o sector correspondiente, para responder a los planteamientos que sobre la glosa del Informe de Gobierno formulen los Diputados, o bien cuando se discuta una iniciativa de Ley o se estudie un asunto concerniente a su competencia;
+
+VIII. Fomentar y mantener las relaciones armónicas con las autoridades federales en materia del trabajo, así como con las de otras entidades federativas;
+
+IX. Dirigir, fijar criterios, planear, organizar y evaluar el funcionamiento de las unidades administrativas adscritas a la Secretaría, coordinando las actividades de éstas;
+
+X. Participar en el ámbito de su competencia, en la ejecución del Plan Estatal de Desarrollo;
+
+XI. Organizar las inspecciones de trabajo en los establecimientos de jurisdicción local, realizando las acciones de prevención y sanción que correspondan a su ámbito de competencia;
+
+XII. Intervenir en la conciliación y solución de intereses laborales de las partes en conflicto, procurando en todo lo posible lograr dicha conciliación en todos los asuntos laborales y cuando las partes así lo soliciten;
+
+XIII. Fomentar el empleo, capacitación y adiestramiento, así como auxiliar a las autoridades federales e incrementar la cobertura y calidad de la capacitación laboral, además de incentivar y apoyar la organización social para el trabajo y el autoempleo;
+
+XIV. Aplicar los programas y normas que determinen la estrategia para la capacitación, adiestramiento, seguridad e higiene en el trabajo, en coordinación con las autoridades del trabajo competentes y con la participación de los sectores empresarial, de los trabajadores, académicos y profesionales de la sociedad que inciden en este ámbito;
+
+XV. Proponer las políticas en el ámbito local en materia de empleo y capacitación laboral, así como dirigir los programas que se deriven de los acuerdos y convenios de coordinación que se celebren para tal efecto;
+
+XVI. Participar y representar al Gobernador del Estado, en los convenios que se celebren con la Federación u otras instancias relacionadas con la materia del trabajo y el fomento al empleo;
+
+XVII. Implementar las bolsas de trabajo de índole público y regular su funcionamiento;
+
+XVIII. Expedir certificaciones y autorizar documentos relacionados con asuntos de su competencia, así como los que le correspondan a las unidades administrativas de su adscripción;
+
+XIX. Apoyar el cumplimiento de la Ley número 674 de Responsabilidades de los Servidores Públicos del Estado de Guerrero, así como los ordenamientos administrativos afines;
+
+XX. Proponer al Titular del Poder Ejecutivo del Estado, los proyectos de iniciativa de leyes, reglamentos, decretos y acuerdos respecto a los asuntos de la competencia de la Secretaría;
+
+XXI. Presentar el anteproyecto de presupuesto anual de la Secretaría, de acuerdo a los lineamientos que para tal efecto se determinen;
+
+XXII. Promover entre los empleadores la equidad y la no discriminación tanto en la oferta de empleos, como en la estabilidad, remuneración y desarrollo laboral, así como vigilar la observancia de tales principios al interior de la propia Secretaría;
+
+XXIII. Establecer y operar un sistema de seguimiento de los programas federales relativos al Estado, conforme a lo que las leyes y acuerdos de coordinación establezcan, en congruencia con el Comité de Planeación para el Desarrollo del Estado de Guerrero;
+
+XXIV. Coordinar las áreas a su cargo, así como las Procuradurías Auxiliares de la Defensa del Trabajo en la entidad; y
+
+XXV. Las demás que le fijen las leyes y reglamentos del Estado.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE FEBRERO DE 2011)</small>
 
 ###### ARTICULO 34.
 
@@ -1473,7 +1585,7 @@ C. FLORENCIO SALAZAR ADAME.
 
 Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 14 DE DICIEMBRE DE 2000.
 
@@ -1584,3 +1696,21 @@ DÉCIMO QUINTO.- Remítase al Titular del Poder Ejecutivo del Estado para su con
 P.O. 8 DE FEBRERO DE 2011.
 
 ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+P.O. 21 DE OCTUBRE DE 2011.
+
+PRIMERO. El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. Se derogan todas aquellas disposiciones que se opongan a este Decreto.
+
+TERCERO. La Secretaría de Finanzas y Administración del Estado, en el marco de las políticas de racionalidad y austeridad, dotará de las instalaciones y de los recursos indispensables para el funcionamiento de la Secretaría de los Migrantes y Asuntos Internacionales y la Secretaría del Trabajo y Previsión Social.
+
+CUARTO. Deberá expedirse el Reglamento Interior correspondiente, tanto a la Secretaría de los Migrantes y Asuntos Internacionales como a la Secretaría del Trabajo y Previsión Social, en un plazo no mayor de 30 días hábiles, a partir de la entrada en vigor de este Decreto.
+
+QUINTO.- El Consejo Consultivo de los Migrantes Guerrerenses, deberá crearse por el Titular del Poder Ejecutivo en un plazo de treinta días hábiles, contados a partir de la entrada en vigor del presente Decreto.
+
+SEXTO.- No obstante el cambio de régimen jurídico de la Subsecretaría del Trabajo y Previsión Social, para ser ahora Secretaría del Trabajo y Previsión Social, así como los cambios de denominación o nivel jerárquico de áreas de su adscripción, o cambios de rango jerárquico de las mismas e inclusive de la nueva distribución de competencias, como producto de la reestructuración orgánica y funcional realizada a la institución, quedan garantizados los derechos laborales de los trabajadores que venían desempeñando algún empleo, cargo o comisión dentro de la citada Subsecretaría, pasando a incorporarse a la Secretaría del Trabajo y Previsión Social.
+
+SÉPTIMO. Todos los bienes muebles, enseres, equipo de oficina y de transporte con que cuenta la actual Subsecretaría del Trabajo y Previsión Social, pasan a formar parte de los bienes de la Secretaría del Trabajo y Previsión Social.
+
+OCTAVO.- Publíquese en el Periódico Oficial del Gobierno del Estado y en la página WEB del Congreso del Estado; así como en dos de los diarios de mayor circulación en la entidad.
