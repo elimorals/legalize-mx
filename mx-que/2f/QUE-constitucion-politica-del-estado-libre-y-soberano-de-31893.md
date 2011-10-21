@@ -4,7 +4,7 @@ identifier: "QUE-constitucion-politica-del-estado-libre-y-soberano-de-31893"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-22"
-last_updated: "2011-07-19"
+last_updated: "2011-10-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=31893&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE JULIO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE OCTUBRE DE 2011.
 
 Constitución publicada en los Periódicos Oficiales de fechas: 22 y 29 de Septiembre; 6, 13, 20 y 27 de Octubre; y 3 de Noviembre de 1917.
 
@@ -31,7 +31,7 @@ ERNESTO PERUSQUIA, Gobernador Constitucional del Estado Libre y Soberano de Quer
 
 EL CONGRESO CONSTITUYENTE DEL ESTADO LIBRE Y SOBERANO DE QUERETARO ARTEAGA, acatando lo dispuesto por el decreto de 22 de marzo del corriente año, y acuerdo de 26 del mismo, dados por el C. Primer Jefe del Ejército Constitucionalista, Encargado del Poder Ejecutivo de la Unión, y en cumplimiento del artículo 13 del Decreto de 27 de marzo del propio año, que expidió el Gobernador Provisional del Estado, ha tenido a bien decretar la siguiente:
 
-> <small>(REFORMADA, P.O.31 DE MARZO DE 2008)</small>
+> <small>(REFORMADA, P.O. 31 DE MARZO DE 2008)</small>
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE QUERÉTARO
 
@@ -74,6 +74,10 @@ Las autoridades del Estado salvaguardarán el régimen de los derechos y las lib
 Las autoridades estatales y las municipales promoverán la integración, el desarrollo y el fortalecimiento de la familia; sus fines de unidad, convivencia armónica, ayuda mutua y la preservación de los valores de la comunidad. La ley impondrá derechos y obligaciones recíprocos entre sus integrantes.
 
 El Estado adoptará medidas que garanticen la no discriminación del individuo y propicien el desarrollo físico, emocional y mental de los menores, de los jóvenes y de todos aquellos que por circunstancias particulares lo requieran. Establecerá un sistema permanente de tutela, apoyo e integración social de los adultos mayores y de las personas discapacitadas que se encuentren en condiciones de desventaja física, mental, social o económica, para facilitarles una vida de mayor calidad, digna, decorosa y su pleno desarrollo.
+
+> <small>(ADICIONADO, P.O. 21 DE OCTUBRE DE 2011)</small>
+
+Toda persona tiene derecho a una alimentación suficiente, nutricionalmente adecuada, inocua y culturalmente aceptable para llevar una vida activa y saludable. A fin de evitar las enfermedades de origen alimentario, el Estado deberá implementar las medidas que propicien la adquisición de buenos hábitos alimenticios entre la población, fomentará la producción y el consumo de alimentos con alto valor nutricional y apoyará en esta materia a los sectores más vulnerables de la población.
 
 Se reconoce el derecho a la práctica del deporte para alcanzar una mejor calidad de vida y desarrollo físico. El Estado y los Municipios impulsarán el fomento, la organización y la promoción de las actividades formativas, recreativas y competitivas del deporte en la Entidad.
 
@@ -1298,3 +1302,11 @@ Artículo Primero. Aprobada que sea la presente Ley, en los términos de lo disp
 Artículo Segundo. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
 
 Artículo Tercero. Se derogan las disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
+
+P.O. 21 DE OCTUBRE DE 2011.
+
+Artículo Primero. Aprobada que sea la presente ley en los términos de lo dispuesto por el artículo 39 de la Constitución Política del Estado de Querétaro, procédase a la aprobación del Constituyente Permanente de las dos terceras partes del número total de integrantes de la Legislatura y las dos terceras partes de los Ayuntamientos.
+
+Artículo Segundo. Aprobada que sea la presente Ley, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
+
+Artículo Tercero. Se derogan todos los ordenamientos que se opongan a lo dispuesto por la presente ley.
