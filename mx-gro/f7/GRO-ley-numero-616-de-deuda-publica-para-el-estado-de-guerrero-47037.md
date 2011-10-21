@@ -4,7 +4,7 @@ identifier: "GRO-ley-numero-616-de-deuda-publica-para-el-estado-de-guerrero-4703
 country: "mx"
 rank: "ley"
 publication_date: "2005-11-11"
-last_updated: "2009-07-24"
+last_updated: "2011-10-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=47037&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY NUMERO 616 DE DEUDA PUBLICA PARA EL ESTADO DE GUERRERO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE JULIO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE OCTUBRE DE 2011.
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el viernes 11 de noviembre de 2005.
 
@@ -231,7 +231,11 @@ Interpretación administrativa.- La Secretaría de Finanzas y Administración, t
 
 No constituye deuda pública.- No constituirá deuda pública, la obligación a cargo del Estado de efectuar devoluciones derivadas de participaciones o aportaciones de recursos federales recibidas en exceso y que sea necesario restituir a la Federación, aún si generan intereses o rendimientos a favor de esta última.
 
-Asimismo, no constituyen Deuda Pública, los contratos para prestación de servicios a largo, plazo, ni la afectación de ingresos, ni los mecanismos de afectación para cubrir dichos contratos.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+
+> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2011)</small>
+
+Asimismo, no constituyen Deuda Pública las obligaciones de pago derivadas de contratos de asociación público-privadas que hayan sido celebrados para implementar proyectos de infraestructura y servicios públicos en los términos de la Ley de Asociaciones Público-Privadas para el Estado de Guerrero, salvo en los supuestos expresamente previstos en esa Ley. Tampoco constituirán Deuda Pública la afectación de ingresos ni los mecanismos de afectación para cubrir esa clase de obligaciones, cuando éstas no sean consideradas como Deuda Pública de conformidad con las disposiciones jurídicas aplicables. En todo caso, los contratos de asociación público-privadas que sean celebrados deberán inscribirse en el Registro Único de Obligaciones y Empréstitos del Estado de Guerrero y los proyectos que a través de ellos sean implementados serán considerados como inversiones público productivas. Cuando se afecten participaciones federales, deberá además solicitarse la inscripción de esa afectación en el Registro de Obligaciones y Empréstitos para Estados y Municipios.
 
 ### CAPITULO SEGUNDO. DE LOS ORGANOS Y SUS FACULTADES EN MATERIA DE DEUDA PUBLICA
 
@@ -800,3 +804,9 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Túrnese el presente Decreto al Titular del Ejecutivo Estatal para los efectos legales correspondientes.
 
 TERCERO.- Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
+
+P.O. 21 DE OCTUBRE DE 2011.
+
+PRIMERO.- El presente Decreto entrará en vigor a los treinta días siguientes de la entrada en vigor del Decreto por el que se reforman y adicionan diversas disposiciones de la Constitución Política del Estado Libre y Soberano de Guerrero, mediante el cual se establecen las bases Constitucionales de las Asociaciones Público-Privada (sic).
+
+SEGUNDO. - Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Guerrero.
