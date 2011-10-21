@@ -4,7 +4,7 @@ identifier: "GRO-ley-de-desarrollo-rural-sustentable-del-estado-de-guerrero-4445
 country: "mx"
 rank: "ley"
 publication_date: "2005-03-29"
-last_updated: "2005-03-29"
+last_updated: "2011-10-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44451&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "GRO"
 
 LEY DE DESARROLLO RURAL SUSTENTABLE DEL ESTADO DE GUERRERO NUMERO 587
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO, DE LA LEY NÚMERO 814 DE DESARROLLO RURAL SUSTENTABLE DEL ESTADO DE GUERRERO, PUBLICADA EN EL P.O. 21 DE OCTUBRE DE 2011, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el Martes 29 de marzo de 2005.
 
@@ -1278,3 +1280,17 @@ El Secretario General de Gobierno.
 C. MAYOR LUIS LEON APONTE.
 
 Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 21 DE OCTUBRE DE 2011.
+
+PRIMERO.- La presente Ley, surtirá efectos legales a los 30 días siguiente después de su publicación en el Periódico Oficial del Gobierno del ·Estado.
+
+SEGUNDO.- A partir de la entrada en vigor de la presente Ley, queda abrogada la Ley de Desarrollo Rural Sustentable del Estado de Guerrero Número 587 promulgada el día 29 de marzo del año dos mil cinco.
+
+TERCERO.- Para ajustar la integración del Consejo Guerrerense de Desarrollo Rural Sustentable, y la elaboración del ~reglamento correspondiente, se contará con un plazo de 90 días después de la entrada en vigor de la presente Ley.
+
+CUARTO.- Se derogan todas las disposiciones que se opongan a la presente Ley.
+
+QUINTO.- Publíquese en el Periódico Oficial del Gobierno del Estado, para el conocimiento general y. efectos legales procedentes.
