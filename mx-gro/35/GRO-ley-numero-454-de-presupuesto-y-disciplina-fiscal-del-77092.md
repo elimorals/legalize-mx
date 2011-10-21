@@ -4,7 +4,7 @@ identifier: "GRO-ley-numero-454-de-presupuesto-y-disciplina-fiscal-del-77092"
 country: "mx"
 rank: "ley"
 publication_date: "2010-10-15"
-last_updated: "2010-10-15"
+last_updated: "2011-10-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77092&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "GRO"
 ---
 # LEY NUMERO 454 DE PRESUPUESTO Y DISCIPLINA FISCAL DEL ESTADO DE GUERRERO
 
-LEY NUMERO 454 DE PRESUPUESTO Y DISCIPLINA FISCAL DEL ESTADO DE GUERRERO
+LEY NÚMERO 454 DE PRESUPUESTO Y DISCIPLINA FISCAL DEL ESTADO DE GUERRERO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE OCTUBRE DE 2011.
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el viernes 15 de octubre de 2010.
 
@@ -146,6 +146,18 @@ Secretaría: La Secretaría de Finanzas y Administración del Gobierno del Estad
 Sistema Estatal de Evaluación del Desempeño: El conjunto de elementos metodológicos que permiten realizar una valoración objetiva del desempeño de los programas, bajo los principios de verificación del grado de cumplimiento de metas y objetivos, con base en indicadores estratégicos y de gestión, que permitan conocer el impacto social de los programas y de los proyectos, así como la eficacia, eficiencia, economía, calidad, cobertura, equidad, transparencia y honradez, en el ejercicio de los recursos públicos por los ejecutores de gasto.
 
 Tesorerías Municipales: Órgano Municipal encargado de su hacienda pública, cualquiera que sea su denominación.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 21 DE OCTUBRE DE 2011)</small>
+
+Contrato de asociación público-privada: El acuerdo de voluntades entre una Entidad Contratante y un Desarrollador en virtud del cual éste se obliga a prestar un servicio de largo plazo al sector público o a los usuarios finales a cambio de una contraprestación determinada en función de la calidad del servicio prestado y del resultado alcanzado, y para lo cual el Desarrollador se obliga a diseñar, construir, renovar, equipar, rehabilitar, operar conservar o mantener ciertos activos, a proveer ciertos servicios auxiliares, y a invertir u obtener los recursos necesarios para ello.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 21 DE OCTUBRE DE 2011)</small>
+
+Proyecto: Cualquier proyecto de infraestructura o de provisión de servicios públicos que sea implementado a través de una asociación púbico-privada en los términos de la Ley de Asociaciones Público- Privadas para el Estado de Guerrero.
 
 ###### ARTÍCULO 4.
 
@@ -491,6 +503,12 @@ IV. El período total de ejecución y la previsión de recursos para la puesta e
 
 V. La estimación del impacto esperado en grupos vulnerables, género y región.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, P.O. 21 DE OCTUBRE DE 2011)</small>
+
+VI. La mención especial de los Proyectos y Contratos de Asociación Público-Privadas, en el que se identifique su impacto presupuestal presente y futuro.
+
 ### CAPÍTULO SEGUNDO. DE LA PRESUPUESTACIÓN DEL GASTO
 
 ###### ARTÍCULO 37.
@@ -565,11 +583,37 @@ Los Poderes Legislativo y Judicial y los Organismos Públicos Autónomos, por co
 
 El Ejecutivo deberá presentar en los términos de lo dispuesto por la Constitución, al Congreso, para su estudio, discusión y aprobación en su caso, el Proyecto de Presupuesto de Egresos del Estado, elaborado en los términos previstos en la presente ley.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 21 DE OCTUBRE DE 2011)</small>
+
+El ejecutivo deberá incluir dentro del Proyecto de Presupuesto de Egresos del Estado, la o las partidas presupuestales necesarias y suficientes para cubrir el pago de las obligaciones derivadas de los contratos de asociación público- privada que hayan sido celebrados por entidades públicas estatales de conformidad con la Ley de Asociaciones Público- Privadas para el Estado de Guerrero durante la vigencia de los mismos, lo cual será verificado por el Congreso del Estado, en el entendido de que, en caso de no incluirse la o las partidas correspondientes, el Congreso del Estado deberá incluirlas y aprobarlas de conformidad con lo previsto en el artículo 47, fracción XVIII Ter, de la Constitución Política del Estado Libre y Soberano de Guerrero.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 21 DE OCTUBRE DE 2011)</small>
+
+En coordinación con la Secretaría, las dependencias y entidades que lleven a cabo los contratos de asociación público-privadas, deberán establecer los mecanismos para atenuar el efecto sobre las finanzas públicas derivado de los incrementos previstos en los pagos de amortizaciones e intereses en ejercicios fiscales subsecuentes, correspondientes a financiamientos derivados de dichos contratos.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 21 DE OCTUBRE DE 2011)</small>
+
+###### ARTÍCULO 48 Bis.
+
+Las Dependencias y Entidades, Estatales y Municipales, podrán celebrar Contratos de asociación público-privadas siempre y cuando cumplan con los requisitos, lineamientos y disposiciones que establece la Ley de Asociaciones Publico-Privadas para el Estado de Guerrero.
+
 ###### ARTÍCULO 49.
 
 En los Ayuntamientos, el Presidente Municipal deberá presentar en los términos de lo dispuesto por la Ley Orgánica del Municipio Libre del Estado de Guerrero, por conducto de la Tesorería Municipal, al Cabildo, para su estudio, discusión y aprobación, en su caso, el Proyecto de Presupuesto de Egresos del Municipio, elaborado en los términos de la presente ley.
 
 De los Presupuestos de Egresos aprobados por los Ayuntamientos, se remitirá una copia certificada al Congreso, para los efectos de su competencia.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 21 DE OCTUBRE DE 2011)</small>
+
+Los Ayuntamientos deberán aprobar en los Presupuestos de Egresos, las erogaciones plurianuales necesarias y suficientes para cubrir el pago de las obligaciones derivadas de los contratos de asociación público-privada que hayan sido celebrados por entidades públicas municipales para la implementación de proyectos de infraestructura o servicios públicos de conformidad con lo previsto en la Ley de Asociaciones Público- Privadas para el Estado de Guerrero.
 
 ###### ARTÍCULO 50.
 
@@ -1132,3 +1176,11 @@ EL SECRETARIO DE FINANZAS Y ADMINISTRACIÓN.
 L.A.E. RICARDO ERNESTO CABRERA MORÍN.
 
 Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 21 DE OCTUBRE DE 2011.
+
+PRIMERO.- El presente Decreto entrará en vigor a los treinta días siguientes de la entrada en vigor del Decreto por el que se reforman y adicionan diversas disposiciones de la Constitución Política del Estado Libre y Soberano de Guerrero, mediante el cual se establecen las bases Constitucionales de las Asociaciones Público-Privada (sic).
+
+SEGUNDO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Guerrero.
