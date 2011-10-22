@@ -4,7 +4,7 @@ identifier: "COL-reglamento-de-la-ley-organica-del-poder-legislativo-del-40123"
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-06-19"
-last_updated: "2011-06-18"
+last_updated: "2011-10-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40123&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 REGLAMENTO DE LA LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE JUNIO DE 2011.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE OCTUBRE DE 2011.
 
 Reglamento publicado en el Suplemento del Periódico Oficial del Estado de Colima, el sábado 19 de junio de 2004.
 
@@ -1529,9 +1529,11 @@ En la última sesión de cualquier período ordinario o extraordinario, al concl
 
 En el caso de sesiones extraordinarias, se aplicará lo dispuesto en éste y en el artículo anterior.
 
+> <small>(REFORMADO PRIMER PARRAFO 22 DE OCTUBRE DE 2011)</small>
+
 ###### Artículo 124.
 
-De toda sesión se levantará acta que será aprobada en la siguiente sesión y contendrá una relación simplificada de lo sustancial del desarrollo de la misma, complementada con la grabación magnetofónica y que se asentará en el libro de actas autorizado en todas sus hojas por los Secretarios.
+De toda sesión se levantará acta que será aprobada en la siguiente sesión y contendrá una relación simplificada de lo sustancial del desarrollo de la misma, la que se asentará en el libro de actas autorizado en todas sus hojas por los Secretarios.
 
 > <small>(ADICIONADO, P.O. 21 DE JULIO DE 2007)</small>
 
@@ -2323,9 +2325,13 @@ En todas las cuestiones referentes a la materia sustantiva ó adjetiva, no previ
 
 El Congreso editará el Diario de los Debates, que tendrá por objeto la conservación y archivo de la historia del proceso legislativo estatal.
 
+> <small>(REFORMADO, P.O. 22 DE OCTUBRE DE 2011)</small>
+
 ###### Artículo 245.
 
-El Diario de los Debates contendrá el lugar y fecha en que se verifiquen las sesiones, el sumario, nombres de los Diputados que integran la Directiva, la trascripción íntegra del acta y de la grabación magnetofónica de las discusiones, en el orden en que se desarrollen, así como la inserción de los documentos a que se le dé lectura; pero en ningún caso, deberán publicarse los documentos y discusiones que se relacionen con las sesiones secretas que se verifiquen.
+El Diario de los Debates contendrá el lugar y fecha en que se verifiquen las sesiones, el orden del día, nombres de los Diputados que integran la Directiva, la trascripción íntegra de la grabación digitalizada de las deliberaciones en el orden en que se desarrollen, así como la inserción de los documentos que se presenten en el transcurso de la misma, pero en ningún caso, deberán publicarse los documentos y discusiones que se relacionen con las sesiones secretas que se verifiquen.
+
+El Diputado deberá presentar en formato electrónico y por escrito a la Presidencia de la Mesa Directiva, la iniciativa que solicite se inserte en el Diario de los Debates.
 
 ###### Artículo 246.
 
@@ -2428,5 +2434,9 @@ P.O. 26 DE DICIEMBRE DE 2009.
 ÚNICO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial "El Estado de Colima".
 
 P.O. 18 DE JUNIO DE 2011.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 22 DE OCTUBRE DE 2011.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
