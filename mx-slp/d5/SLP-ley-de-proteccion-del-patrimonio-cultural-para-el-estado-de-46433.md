@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-proteccion-del-patrimonio-cultural-para-el-estado-de-464
 country: "mx"
 rank: "ley"
 publication_date: "2005-07-30"
-last_updated: "2005-07-30"
+last_updated: "2011-10-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=46433&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE PROTECCION DEL PATRIMONIO CULTURAL PARA EL ESTADO DE SAN LUIS POTOSI
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE OCTUBRE DE 2011.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 30 de julio de 2005.
 
@@ -211,7 +211,9 @@ Para efectos de esta Ley, la SEDUVOP tendrá las siguientes atribuciones:
 
 I. Promover, ejecutar y supervisar la realización de actividades que permitan presentar diagnósticos, emprender acciones de trabajo orientadas a la conservación y recuperación de los bienes inmuebles del patrimonio cultural, promoviendo la utilización de técnicas adecuadas de conservación, restauración y mantenimiento;
 
-II. Coadyuvar con la inscripción en el Registro Público de la Propiedad y del Comercio, de las declaratorias que reconozcan la existencia de una zona o bienes inmuebles que formen parte del patrimonio cultural del Estado;
+> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2011)</small>
+
+II. Coadyuvar con la inscripción en el Registro Público de la Propiedad, de las declaratorias que reconozcan la existencia de una zona o bienes inmuebles que formen parte del patrimonio cultural del Estado;
 
 III. Participar en forma conjunta con los gobiernos federal, estatal y municipales en la elaboración, ejecución, control, evaluación, revisión de programas de vigilancia, protección, conservación, rescate y promoción del patrimonio cultural en el Estado;
 
@@ -421,17 +423,21 @@ El titular del Ejecutivo del Estado, mediante Decreto Administrativo, hará las 
 
 En el decreto administrativo se ordenará la inscripción de la declaratoria que corresponda, en el Registro Estatal del Patrimonio Cultural a cargo de la SECULT, y en el caso deberá indicarse su asociación con el bien inmueble a que pertenecen o pertenecieron.
 
+> <small>(REFORMADO, P.O. 22 DE OCTUBRE DE 2011)</small>
+
 ###### ARTICULO 37.
 
-La SECULT deberá solicitar al Director del Registro Público de la Propiedad y del Comercio, la inscripción de las declaratorias que se refieren a bienes inmuebles en la sección correspondiente; procediendo el registrador a realizar la anotación marginal en el libro de bienes inmuebles, a fin de destacar que el mismo está protegido por la presente Ley. Dicha anotación no implica que se afecten o transgredan los derechos de propiedad.
+La SECULT deberá solicitar al Director del Registro Público de la Propiedad, la inscripción de las declaratorias que se refieren a bienes inmuebles en la sección correspondiente; procediendo el registrador a realizar la anotación marginal en el libro de bienes inmuebles, a fin de destacar que el mismo está protegido por la presente Ley. Dicha anotación no implica que se afecten o transgredan los derechos de propiedad.
 
 ###### ARTICULO 38.
 
 La revocación de las declaratorias se emitirá cuando el bien de que se trate deje de formar parte del patrimonio cultural en el Estado, en cumplimiento a una resolución emitida por autoridad competente.
 
+> <small>(REFORMADO, P.O. 22 DE OCTUBRE DE 2011)</small>
+
 ###### ARTICULO 39.
 
-La revocación deberá ser expedida con un acto de la misma naturaleza jurídica con el que fue dictada la declaratoria, y además de publicarse en el Periódico Oficial del Estado, deberá ordenarse la cancelación de su inscripción, tanto en el Registro Estatal del Patrimonio Cultural, como en la anotación marginal en el Registro Público de la Propiedad y del Comercio, en su caso.
+La revocación deberá ser expedida con un acto de la misma naturaleza jurídica con el que fue dictada la declaratoria, y además de publicarse en el Periódico Oficial del Estado, deberá ordenarse la cancelación de su inscripción, tanto en el Registro Estatal del Patrimonio Cultural, como en la anotación marginal en el Registro Público de la Propiedad, en su caso.
 
 ## TITULO QUINTO. DEL PATRIMONIO CULTURAL, SISTEMA ESTATAL DE DOCUMENTACION Y DEL REGISTRO ESTATAL DEL PATRIMONIO CUTURAL (SIC)
 
@@ -567,11 +573,11 @@ Los bienes del patrimonio cultural en el Estado no podrán alterarse en sus cara
 
 Las autoridades estatales y municipales podrán realizar las obras o adquisiciones que consideren necesarias, para la protección conservación y salvaguarda de los bienes que integran el patrimonio cultural en el Estado, previa autorización, asesoría y supervisión de las instancias competentes, de acuerdo a las disposiciones aplicables en la materia.
 
+> <small>(REFORMADO, P.O. 22 DE OCTUBRE DE 2011)</small>
+
 ###### ARTICULO 58.
 
-Cuando exista enajenación de bienes inmuebles declarados patrimonio cultural en el Estado, el Registro Público de la Propiedad y del Comercio, tendrá la obligación de comunicar a los notarios públicos correspondientes, en la certificación sobre la existencia o libertad de gravámenes que reporte el inmueble o derecho que expida, la circunstancia de que dichos bienes se encuentran protegidos por esta Ley, con el propósito de que los adquirentes estén enterados de sus obligaciones y derechos.
-
-Asimismo, deberá hacer del conocimiento de la SECULT, la transmisión de la titularidad de los bienes inscritos en el Registro Estatal del Patrimonio Cultural contemplados en la presente Ley, en un plazo no mayor a treinta días hábiles siguientes contados a partir de la fecha de su inscripción.
+Cuando exista enajenación de bienes inmuebles declarados patrimonio cultural en el Estado, el Registro Público de la Propiedad tendrá la obligación de comunicar a los notarios públicos correspondientes, en la certificación sobre la existencia o libertad de gravámenes que reporte el inmueble o derecho que expida, la circunstancia de que dichos bienes se encuentran protegidos por esta Ley, con el propósito de que los adquirentes estén enterados de sus obligaciones y derechos.
 
 ###### ARTICULO 59.
 
@@ -694,3 +700,11 @@ El Secretario General de Gobierno
 Lic. Alfonso José Castillo Machuca
 
 (Rúbrica)
+
+N. DE E.: A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.
+
+P.O. 22 DE OCTUBRE DE 2011.
+
+PRIMERO. Este Decreto entrará en vigencia el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
