@@ -4,7 +4,7 @@ identifier: "COL-ley-de-educacion-del-estado-de-colima-3971"
 country: "mx"
 rank: "ley"
 publication_date: "1994-05-28"
-last_updated: "2011-06-18"
+last_updated: "2011-10-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3971&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "COL"
 ---
 # LEY DE EDUCACION DEL ESTADO DE COLIMA
 
-LEY DE EDUCACION DEL ESTADO DE COLIMA
+LEY DE EDUCACIÓN DEL ESTADO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE JUNIO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE OCTUBRE DE 2011.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Colima, el sábado 28 de mayo de 1994.
 
@@ -163,11 +163,11 @@ La Secretaría permanentemente deberá evaluar, adecuar, ampliar, mejorar, actua
 
 Los beneficiados directamente por los servicios educativos deberán prestar servicio social, en los casos y términos de las disposiciones reglamentarias correspondientes. En éstas se preverá su prestación como requisito previo para obtener título o grado académico.
 
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 1999)</small>
+> <small>(REFORMADO, P.O. 22 DE OCTUBRE DE 2011)</small>
 
 ###### ARTICULO 13.
 
-Las escuelas de educación básica llevarán el nombre que designe o elija la Secretaría, de una terna propuesta a través del Director del Plantel respectivo.
+Las escuelas de educación básica llevarán el nombre que designe o elija la Secretaría, de una terna que contenga al menos un personaje ilustre, propuesta presentada a través del Director del Plantel, considerando la opinión del personal de éste, de la mesa directiva de padres de familia, de los representantes de la comunidad, así como del Sindicato Nacional de Trabajadores de la Educación al que corresponda, dependiendo del sistema Federalizado o Estatal al que pertenezca la institución educativa de que se trate.
 
 ###### ARTICULO 14.
 
@@ -182,6 +182,8 @@ El Ejecutivo del Estado expedirá los reglamentos necesarios para la aplicación
 ###### ARTICULO 16.
 
 El Ejecutivo del Estado a través de la Secretaría, tiene las siguientes facultades y deberes en materia educativa:
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 22 DE OCTUBRE DE 2011)</small>
 
 I.- Impartir el servicio público de educación en todos sus tipos y niveles en la Entidad, conforme a la Constitución General de la República, la Constitución local, la presente Ley y los Reglamentos relativos a la materia que expida el Ejecutivo del Estado;
 
@@ -239,7 +241,7 @@ XVII.- Proponer a la Secretaría de Educación Pública los contenidos regionale
 
 Los planes y programas de estudio aprobados por la Secretaría de Educación Pública, deberán de publicarse en el Periódico Oficial del Estado, de conformidad con lo establecido en el artículo 48 de la Ley General de Educación;
 
-> <small>(ADICIONADA, P.O. 25 DE JULIO DE 2009)</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 22 DE OCTUBRE DE 2011)</small>
 
 XVII Bis.- Crear en coordinación con las autoridades competentes, asociaciones sindicales de maestros y la comunidad escolar el Reglamento para la Prevención y Seguridad Escolar, como un mecanismo necesario para garantizar la seguridad e integridad física de los alumnos de educación básica en su entorno escolar;
 
@@ -248,6 +250,8 @@ XVIII.- Evaluar el sistema educativo estatal en forma sistemática y permanente 
 Las instituciones educativas establecidas por el Estado, por sus organismos descentralizados y por los particulares con autorización o con reconocimiento de validez oficial de estudios, otorgarán a las autoridades educativas todas las facilidades y colaboración para la evaluación a que esta fracción se refiere; por ello proporcionarán oportunamente toda la información que se les requiera. Las autoridades educativas darán a conocer a los maestros, alumnos, padres de familia y a la sociedad en general los resultados de las evaluaciones a que se refiere la presente fracción, así como la demás información global que permita medir el desarrollo y los avances de la educación en la Entidad;
 
 XIX.- Expedir constancias y certificados de estudio y otorgar diplomas, títulos y grados académicos;
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 22 DE OCTUBRE DE 2011)</small>
 
 XX.- Revalidar y otorgar equivalencias de estudios en la educación primaria, la secundaria, la normal y demás para la formación de maestros de educación básica;
 
@@ -259,25 +263,31 @@ XXIII.- Revisar permanentemente las disposiciones, los trámites y procedimiento
 
 XXIV.- Establecer condiciones que permitan el ejercicio pleno del derecho a la educación de cada individuo, una mayor equidad educativa, así como el logro de la efectiva igualdad en oportunidades de acceso y permanencia en los servicios educativos de manera preferente para los grupos y regiones con mayor rezago educativo o que enfrenten condiciones económicas y sociales de desventaja;
 
-XXV.- Proporcionar al educador los medios que le permitan realizar eficazmente su labor y que contribuyan a su constante perfeccionamiento, y (sic)
+> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2011)</small>
 
-> <small>(REFORMADA, P.O. 14 DE JULIO DE 2007)</small>
+XXV.- Proporcionar al educador los medios que le permitan realizar eficazmente su labor y que contribuyan a su constante perfeccionamiento;
 
-XXVI.- Otorgar un salario profesional a los educadores para que alcancen un nivel de vida decoroso para ellos y su familia, puedan arraigarse en las comunidades en las que trabajen y disfrutar de vivienda digna, así como para que dispongan del tiempo necesario para la preparación de las clases que impartan, para su perfeccionamiento profesional, debiendo establecer mecanismos que propicien la permanencia de los maestros frente al grupo, con la posibilidad de ir obteniendo mejores condiciones y mayor reconocimiento social;
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 22 DE OCTUBRE DE 2011)</small>
+
+XXVI. Otorgar un salario profesional a los educadores para que alcancen un nivel de vida decoroso para ellos y su familia, puedan arraigarse en las comunidades en las que trabajen y disfrutar de vivienda digna, así como para que dispongan del tiempo necesario para la preparación de las clases que impartan, para su perfeccionamiento profesional, debiendo establecer mecanismos que propicien la permanencia de los maestros frente al grupo, con la posibilidad de ir obteniendo mejores condiciones y mayor reconocimiento social;
 
 > <small>(ADICIONADA, P.O. 14 DE JULIO DE 2007)</small>
 
 XXVII.- Promover conjuntamente con la Secretaría de Salud, programas y acciones que fomenten en los Directivos de las Escuelas, Maestros, Padres de Familia, encargados de los Establecimientos Escolares y especialmente en los Educandos, una alimentación correcta, es decir equilibrada, suficiente, completa, higiénica y variada que, junto con la práctica de actividad física mejore su crecimiento y desarrollo;
 
-> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2011)</small>
 
-XXVIII.- De la misma forma, establecer estrategias y mecanismos con el fin de prohibir la venta de productos con alto contenido de azúcares refinados, colesterol, ácidos grasos saturados, ácidos grasos trans, sal y aditivos en los establecimientos escolares y en los espacios donde se expenden alimentos en las Instituciones Educativas de todos los niveles y modalidades del Sistema Educativo dependiente de la Secretaría de Educación del Gobierno del Estado, así como facilitar el acceso a verduras, frutas, leguminosas y cereales integrales, que son fuente de nutrimentos antioxidantes y de fibra dietética, orientando de manera acertada y efectiva a los encargados de dichos establecimientos, así como ofertar y hacer accesible el consumo de agua purificada; y
+XXVIII. De la misma forma, establecer estrategias y mecanismos con el fin de prohibir la venta de productos con alto contenido de azúcares refinados, colesterol, ácidos grasos saturados, ácidos grasos trans, sal y aditivos en los establecimientos escolares y en los espacios donde se expenden alimentos en las Instituciones Educativas de todos los niveles y modalidades del Sistema Educativo dependiente de la Secretaría de Educación del Gobierno del Estado, así como facilitar el acceso a verduras, frutas, leguminosas y cereales integrales, que son fuente de nutrimentos antioxidantes y de fibra dietética, orientando de manera acertada y efectiva a los encargados de dichos establecimientos, así como ofertar y hacer accesible el consumo de agua purificada;
 
-> <small>(ADICIONADA, P.O. 14 DE JULIO DE 2007)</small>
+> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2011)</small>
 
-XXIX.- Llevar a cabo por parte de la Secretaría de Salud, las inspecciones necesarias a fin de vigilar el estricto cumplimiento de estas disposiciones.
+XXIX. Llevar a cabo por parte de la Secretaría de Salud, las inspecciones necesarias a fin de vigilar el estricto cumplimiento de estas disposiciones; y
 
-(REUBICADO [N. DE E. ANTES SEGUNDO PARRAFO DE LA FRACCION XXVI], P.O. 14 DE JULIO DE 2007)
+> <small>(ADICIONADA, P.O. 22 DE OCTUBRE DE 2011)</small>
+
+XXX. Fomentar entre los educandos el uso adecuado de las Tecnologías de la Información y la Comunicación, el conocimiento y la conciencia respecto a las mejores prácticas para hacer un uso adecuado del Internet y de las Redes Sociales. De igual forma, incrementará el uso de todos los recursos tecnológicos y didácticos disponibles, así como la promoción entre los estudiantes, de las bondades y riesgos en el uso de las tecnologías.
+
+(REUBICADO [N. DE E. ANTES SEGUNDO PÁRRAFO DE LA FRACCIÓN XXVI], P.O. 14 DE JULIO DE 2007)
 
 El Gobierno del Estado y los municipios se coordinarán entre sí, así como con la Federación para el efecto de que se implanten programas que impartan las técnicas agropecuarias, que enseñen la organización y administración de pequeñas industrias aprovechadoras de los recursos naturales del Estado, que den a conocer diversas formas de integración y mejoramiento del hogar, de prácticas de higiene y profilácticas, de saneamiento, conservación y mejoramiento del ambiente, así como todo tipo de campañas sanitarias.
 
@@ -867,11 +877,11 @@ VI.- Cooperar con las autoridades escolares en el diseño de programas y planes 
 
 VII.- Colaborar con las autoridades educativas en la aplicación del Reglamento para la Prevención y Seguridad Escolar, tendientes a proteger la seguridad de los alumnos de educación básica en su entorno escolar.
 
-(REUBICADO [N. DE E. ANTES SEGUNDO PARRAFO DE LA FRACCION V], P.O. 14 DE JULIO DE 2007)
+(REUBICADO [N. DE E. ANTES SEGUNDO PÁRRAFO DE LA FRACCIÓN V], P.O. 14 DE JULIO DE 2007)
 
 Las asociaciones de padres de familia se abstendrán de intervenir en los aspectos técnico-pedagógicos y laborales de los establecimientos educativos.
 
-(REUBICADO [N. DE E. ANTES TERCER PARRAFO DE LA FRACCION V], P.O. 14 DE JULIO DE 2007)
+(REUBICADO [N. DE E. ANTES TERCER PÁRRAFO DE LA FRACCIÓN V], P.O. 14 DE JULIO DE 2007)
 
 La organización y el funcionamiento de las asociaciones de padres de familia, en lo concerniente a sus relaciones con las autoridades de los establecimientos escolares, se sujetarán a las disposiciones que señale la Secretaría de Educación Pública.
 
@@ -1123,7 +1133,7 @@ Por lo tanto mande se imprima, publique, circule y observe.
 
 Dado en Palacio de Gobierno, a los 20 días del mes de mayo de 1994. EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, LIC. CARLOS DE LA MADRID VIRGEN.- Rúbrica.- EL SECRETARIO GENERAL DE GOBIERNO, LIC. RAMON PEREZ DIAZ.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P. O. 24 DE ABRIL DE 1999.
 
@@ -1150,3 +1160,15 @@ P.O. 5 DE DICIEMBRE DE 2009.
 P.O. 18 DE JUNIO DE 2011.
 
 ÚNICO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 22 DE OCTUBRE DE 2011.
+
+DECRETO No. 370 POR EL QUE SE REFORMAN LAS FRACCIONES I, XVII BIS, XX, XXV, XXVI, XXVIII, XXIX, ASÍ COMO LA ADICIÓN DE LA FRACCIÓN XXX, AL ARTÍCULO 16 DE LA LEY DE EDUCACIÓN DEL ESTADO DE COLIMA.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 22 DE OCTUBRE DE 2011.
+
+DECRETO No. 371 POR EL QUE SE REFORMA EL ARTÍCULO 13 DE LA LEY DE EDUCACIÓN DEL ESTADO DE COLIMA.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
