@@ -4,7 +4,7 @@ identifier: "SLP-ley-ambiental-del-estado-de-san-luis-potosi-15777"
 country: "mx"
 rank: "ley"
 publication_date: "1999-12-15"
-last_updated: "2011-07-23"
+last_updated: "2011-10-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15777&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY AMBIENTAL DEL ESTADO DE SAN LUIS POTOSI
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE JULIO DE 2011.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE OCTUBRE DE 2011.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de San Luis Potosí, el miércoles 15 de diciembre de 1999.
 
@@ -361,7 +361,9 @@ IX. La participación en emergencias y contingencias ambientales, conforme a las
 
 X. La regulación y el control de las actividades que no sean consideradas altamente riesgosas para el ambiente, en los términos previstos en la LGEEPA y en esta Ley;
 
-XI. El establecimiento de requisitos y procedimientos para la prevención y control de la contaminación atmosférica generada en la Entidad por diversas actividades, tanto del sector público como del privado, así también de las fuentes fijas que provengan de establecimientos industriales, comerciales, de servicios y de espectáculos públicos, y por toda clase de fuentes móviles que circulen en su territorio, así como para autorizar los centros de verificación vehicular en la Entidad;
+> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2011)</small>
+
+XI. El establecimiento de requisitos y procedimientos para la prevención y control de la contaminación atmosférica generada en la Entidad por diversas actividades, tanto del sector público, como del privado; así también de las fuentes fijas que provengan de establecimientos industriales, comerciales, de servicios y de espectáculos públicos; y por toda clase de fuentes móviles que circulen en su territorio, así como para autorizar y vigilar los centros de verificación vehicular en la Entidad. Asimismo, se encargará de operar, promover, concesionar y vigilar los centros de verificación vehicular de aquellos municipios cuyos ayuntamientos determinen, sustenten y manifiesten mediante acta de cabildo, su incapacidad para llevar a cabo el establecimiento y operación de sistemas de verificación de emisiones de contaminantes a la atmósfera para los vehículos automotores que circulen por el territorio de su respectiva demarcación;
 
 XII. La expedición del permiso de operación para fuentes fijas de emisiones a la atmósfera de jurisdicción estatal, así como las autorizaciones en esta materia a que se refiere la presente Ley;
 
@@ -1519,11 +1521,19 @@ VI. La construcción y ampliación de libramientos carreteros con el fin de dism
 
 La SEGAM podrá solicitar a las empresas públicas y privadas, organismos descentralizados y particulares en general, la información necesaria para conformar un inventario de emisiones de fuentes fijas de competencia estatal, estando éstas obligadas a proporcionar dicha información, salvo en aquellos casos en que puedan afectarse derechos de propiedad industrial, confidencialidad o en los prohibidos por otras leyes.
 
+> <small>(REFORMADO, P.O. 22 DE OCTUBRE DE 2011)</small>
+
 ###### ARTICULO 83.
 
-Corresponderá a la SEGAM con la participación de los municipios autorizar los centros de verificación vehicular, así como supervisar su funcionamiento; para tal efecto, podrán celebrarse los convenios necesarios con los respectivos ayuntamientos.
+En materia de prevención y control de la contaminación atmosférica producida por fuentes móviles, la SEGAM tendrá las siguientes atribuciones:
 
-La SEGAM promoverá y supervisará con la participación de los ayuntamientos, el cumplimiento de los objetivos y metas que se establezcan en el programa de verificación y control de emisiones de vehículos automotores que se lleve a cabo en talleres y centros autorizados por la autoridad competente. Dicho programa, sus especificaciones, alcance y objetivos se establecerán mediante acuerdo administrativo y conforme a lo dispuesto en el reglamento de la materia. La información que derive de este programa se incorporará a los inventarios de emisiones correspondientes.
+I. Vigilar el establecimiento y operación de sistemas y programas de verificación de emisiones de vehículos automotores en circulación;
+
+II. Autorizar el establecimiento de los centros de verificación vehicular del Estado, conforme a las Normas Oficiales Mexicanas y las leyes aplicables en la materia;
+
+III. Expedir anualmente el Programa Estatal de Verificación Vehicular, y
+
+IV. Las demás que le correspondan de conformidad con este Ordenamiento y demás disposiciones aplicables.
 
 ###### ARTICULO 84.
 
@@ -2788,3 +2798,11 @@ DECRETO NUMERO 696 POR EL QUE SE REFORMA LOS ARTICULOS, 3° EN SUS FRACCIONES LI
 PRIMERO. Este Decreto entrará en vigor a los treinta días hábiles siguientes de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 22 DE OCTUBRE DE 2011.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. El Programa Estatal de Verificación Vehicular se expedirá a más tardar ciento veinte días después de la publicación del presente Decreto.
+
+TERCERO. Se derogan todas las disposiciones legales que se opongan a este Decreto.
