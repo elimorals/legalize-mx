@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-patrimonio-cultural-del-estado-de-chihuahua-20125"
 country: "mx"
 rank: "ley"
 publication_date: "2001-02-28"
-last_updated: "2005-04-27"
+last_updated: "2011-10-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=20125&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DEL PATRIMONIO CULTURAL DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE ABRIL DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE OCTUBRE DE 2011.
 
 Ley publicada en el Periódico Oficial del Estado de Chihuahua, el miércoles 28 de febrero del 2001.
 
@@ -443,31 +443,57 @@ EL Consejo estará constituido de la siguiente forma:
 
 I. El Gobernador del Estado o la persona en quien delegue su representación;
 
-II. El Secretario de Educación y Cultura, o la persona que designe en su representación;
+> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2011)</small>
 
-III. El director del Instituto Chihuahuense de la Cultura;
+II. El Secretario de Educación, Cultura y Deporte, o la persona que designe en su representación;
 
-IV. El Secretario de Planeación y Evaluación, o la persona que designe en su representación;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 22 DE OCTUBRE DE 2011)</small>
 
-V. Un representante del Instituto Nacional de Antropología e Historia;
+III. El Presidente del H. Congreso del Estado o la persona que designe en su representación;
 
-> <small>(REFORMADA, P.O. 27 DE ABRIL DE 2005)</small>
+> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2011)</small>
 
-VI. Un representante de la Comisión Nacional para el Desarrollo de los Pueblos Indígenas;
+IV. El Director del Instituto Chihuahuense de la Cultura;
 
-VII. Un representante de la Unidad Regional de Culturas Populares;
+> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2011)</small>
 
-VIII. Un representante de las instituciones de educación pública superior;
+V. El Secretario de Hacienda, o la persona que designe en su representación;
 
-IX. Un representante de las instituciones de educación privada superior;
+> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2011)</small>
 
-X. Un representante del sector empresarial;
+VI. Un representante del Instituto Nacional de Antropología e Historia;
 
-XI. Dos representantes de asociaciones culturales registradas y grupos culturales con un mínimo de cinco años de actividad;
+> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2011)</small>
 
-XII. Un representante de colegios de profesionales que por la naturaleza de su ocupación guarden relación con el patrimonio cultural; y,
+VII. Un representante de la Comisión Nacional para el Desarrollo de los Pueblos Indígenas;
 
-XIII. Dos personas de reconocida trayectoria en el ámbito del patrimonio cultural.
+> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2011)</small>
+
+VIII. Un representante de la Unidad Regional de Culturas Populares;
+
+> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2011)</small>
+
+IX. Un representante de las instituciones de educación pública superior;
+
+> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2011)</small>
+
+X. Un representante de las instituciones de educación privada superior;
+
+> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2011)</small>
+
+XI. Un representante del sector empresarial;
+
+> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2011)</small>
+
+XII. Dos representantes de asociaciones culturales registradas y grupos culturales con un mínimo de cinco años de actividad;
+
+> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2011)</small>
+
+XIII. Un representante de colegios de profesionales que por la naturaleza de su ocupación guarden relación con el patrimonio cultural, y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 22 DE OCTUBRE DE 2011)</small>
+
+XIV. Dos personas de reconocida trayectoria en el ámbito del patrimonio cultural.
 
 ###### ARTÍCULO 22.
 
@@ -1230,6 +1256,12 @@ P.O. 18 DE JUNIO DE 2003.
 El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 P.O. 27 DE ABRIL DE 2005.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 22 DE OCTUBRE DE 2011.
 
 ###### ARTÍCULO ÚNICO.
 
