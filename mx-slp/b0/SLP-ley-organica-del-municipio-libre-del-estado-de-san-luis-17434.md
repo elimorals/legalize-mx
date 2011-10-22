@@ -4,7 +4,7 @@ identifier: "SLP-ley-organica-del-municipio-libre-del-estado-de-san-luis-17434"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2000-07-11"
-last_updated: "2011-06-28"
+last_updated: "2011-10-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17434&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "SLP"
 ---
 # LEY ORGANICA DEL MUNICIPIO LIBRE DEL ESTADO DE SAN LUIS POTOSI
 
-LEY ORGANICA DEL MUNICIPIO LIBRE DEL ESTADO DE SAN LUIS POTOSI
+LEY ORGÁNICA DEL MUNICIPIO LIBRE DEL ESTADO DE SAN LUIS POTOSÍ
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE JUNIO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE OCTUBRE DE 2011.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el martes 11 de julio de 2000.
 
@@ -263,7 +263,7 @@ Los ciudadanos del municipio tendrán las obligaciones y prerrogativas que estab
 
 ### CAPITULO I. De la Integración de los Ayuntamientos
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE MARZO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE MARZO DE 2009)</small>
 
 ###### ARTICULO 12.
 
@@ -477,7 +477,7 @@ XIV. Asociarse en comisiones intermunicipales para enfrentar problemas comunes, 
 
 b) En materia Normativa:
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 14 DE ABRIL DE 2011)</small>
 
@@ -699,7 +699,7 @@ IV. La falta definitiva del Delegado Municipal será cubierta por el Secretario 
 
 ### Capítulo Unico
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE AGOSTO DE 2003)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE AGOSTO DE 2003)</small>
 
 ###### ARTICULO 44.
 
@@ -1173,7 +1173,7 @@ XIX. Las demás que le señalen las leyes y reglamentos municipales.
 
 ### CAPITULO V. De la Tesorería
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE MARZO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE MARZO DE 2009)</small>
 
 ###### ARTICULO 79.
 
@@ -1315,7 +1315,7 @@ XII. Las demás que le señalen las leyes y reglamentos municipales.
 
 En los municipios que cuenten con una población indígena significativa, los ayuntamientos contarán con un Departamento de Asuntos Indígenas para atender o canalizar, con respeto a su cultura, usos, costumbres, tradiciones y formas de organización comunitaria, las demandas y propuestas de las personas y comunidades indígenas de su circunscripción y que correspondan a su competencia.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTICULO 88.
 
@@ -1328,6 +1328,8 @@ El Jefe del Departamento realizará las funciones y ejercerá las atribuciones q
 ### CAPITULO X. De los Delegados Municipales
 
 ### CAPITULO XI. Del Cronista Municipal
+
+> <small>(REFORMADO, P.O. 22 DE OCTUBRE DE 2011)</small>
 
 ###### ARTICULO 89.
 
@@ -1455,39 +1457,61 @@ Los Delegados Municipales no podrán otorgar licencias para el establecimiento d
 
 ###### ARTICULO 100.
 
-La Comisión de Cultura, Recreación y Deporte, podrá proponer al Cabildo la designación de la persona que ocupe el cargo de Cronista Municipal.
-
-El nombramiento de Cronista Municipal recaerá en un ciudadano que se distinga por su labor y conocimiento de la historia y la cultura del municipio, y que tenga además la vocación de registrar y difundir los valores y tradiciones de la localidad.
-
-> <small>(DEROGADO, P.O. 3 DE ABRIL DE 2007)</small>
-
-Para el cumplimiento de sus tareas el Cronista Municipal contará con los recursos que se deriven del trabajo coordinado con las instituciones públicas y privadas, que tengan injerencia en la investigación, acervo y difusión de las culturas populares.
+La Comisión de Cultura, Recreación y Deporte, propondrá al Cabildo la designación de la persona que ocupe el cargo de Cronista Municipal.
 
 Dos a más municipios vecinos podrán convenir en la designación de un cronista regional.
 
-> <small>(ADICIONADO, P.O. 3 DE ABRIL DE 2007)</small>
+> <small>(REFORMADO, P.O. 22 DE OCTUBRE DE 2011)</small>
 
-###### ARTICULO 100 Bis.
+ARTICULO 100 BIS. El nombramiento de cronista municipal, o regional, recaerá en un ciudadano que se distinga por su labor y conocimiento de la historia y la cultura del municipio; y que tenga además la vocación de registrar y difundir los valores y tradiciones de la localidad.
 
-Son funciones y atribuciones del Cronista municipal, las siguientes:
+Este nombramiento podrá ser ejercido durante el tiempo que determine el o los gobiernos municipales, según se trate, o hasta los setenta años de edad del Cronista Municipal o Regional, considerando que haya cumplido con las siguientes actividades:
+
+I. Investigación de asuntos históricos y su difusión en los diferentes medios de comunicación;
+
+II. Actualización de la monografía del municipio;
+
+III. Colaboración en el rescate del patrimonio documental e histórico del municipio, así como en la conformación de archivos, hemerotecas, museos y bibliotecas para el servicio público;
+
+IV. Elaboración de biografías de personajes importantes del municipio;
+
+V. Promoción de eventos artísticos, deportivos y culturales, así como homenajes a personas distinguidas del municipio;
+
+VI. Apego de su labor a la verdad histórica, apolítico, y alejado de lisonjas que desvirtúen su labor, y
+
+VII. Colaboración en eventos cívicos, desfiles y conformación de un calendario de fechas históricas locales.
+
+Una vez alcanzada la edad referida, y habiendo cumplido con estas actividades, durante diez años ininterrumpidos se nombrará al cronista municipal, o regional, Cronista Emérito, y se procederá al nombramiento de un nuevo cronista municipal, o regional, según se trate.
+
+> <small>(ADICIONADO, P.O. 22 DE OCTUBRE DE 2011)</small>
+
+ARTICULO 100 TER. Para el cumplimiento de sus funciones y atribuciones, el cronista municipal, o regional, contará dentro del ayuntamiento con las herramientas básicas para el desempeño de las mismas, así como con los recursos que se deriven del trabajo coordinado con las instituciones públicas y privadas, que tengan injerencia en la investigación, acervo y difusión de las culturas populares.
+
+El cronista municipal, o regional, percibirá una remuneración adecuada e irrenunciable por el desempeño de su función, la cual deberá ser directamente proporcional a sus responsabilidades.
+
+Tratándose de un cronista regional, los gobiernos municipales deberán acordar los aspectos establecidos en los párrafos anteriores de este artículo.
+
+> <small>(ADICIONADO, P.O. 22 DE OCTUBRE DE 2011)</small>
+
+ARTICULO 100 QUATER. Son funciones y atribuciones del cronista municipal, las siguientes:
 
 I. Registrar literaria y documentalmente los personajes y acontecimientos relevantes de la comunidad;
 
 II. Elaborar escritos referentes a la vida e historia de la comunidad;
 
-III. Colaborar en la sistematización y difusión del acervo documental del Archivo General del Ayuntamiento;
+III. Colaborar en la sistematización y difusión del acervo documental del archivo general del ayuntamiento;
 
-IV. Fungir como investigador, asesor, promotor y expositor de la cultura de la comunidad municipal;
+IV. Fungir como investigador, asesor, promotor, y expositor de la cultura de la comunidad municipal;
 
-V. Elaborar una monografía de la vida institucional del Municipio, para crear conciencia cívica, fortalecer la identidad y el arraigo local de los ciudadanos;
+V. Elaborar una monografía de la vida institucional del municipio, para crear conciencia cívica, fortalecer la identidad y el arraigo local de los ciudadanos;
 
 VI. Coadyuvar en el fomento y difusión de eventos culturales, tradiciones y costumbres locales o regionales, y
 
-VII. Promover la inserción en los medios de comunicación de noticias, boletines, reportajes sobre el Municipio y sus instituciones.
+VII. Promover la inserción en los medios de comunicación de noticias, boletines, reportajes sobre el municipio y sus instituciones.
 
 ### CAPITULO I. Del Patrimonio Municipal
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE ABRIL DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE ABRIL DE 2007)</small>
 
 ###### ARTICULO 101.
 
@@ -1695,7 +1719,7 @@ No se hará pago alguno que no esté previsto en el presupuesto anual de egresos
 
 Las omisiones o excesos de las autoridades municipales en el manejo de la Hacienda Municipal, se sancionarán en los términos previstos por la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de San Luis Potosí.
 
-> <small>(REFORMADA SU DENOMINACION POR ARTICULO CUARTO TRANSITORIO DE LA LEY DE PRESUPUESTO, CONTABILIDAD Y GASTO PUBLICO DE LOS MUNICIPIOS DEL ESTADO DE SAN LUIS POTOSI, P.O. 4 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADA SU DENOMINACIÓN POR ARTÍCULO CUARTO TRANSITORIO DE LA LEY DE PRESUPUESTO, CONTABILIDAD Y GASTO PÚBLICO DE LOS MUNICIPIOS DEL ESTADO DE SAN LUIS POTOSÍ, P.O. 4 DE DICIEMBRE DE 2004)</small>
 
 ## TITULO SEPTIMO. DE LA PLANEACION
 
@@ -1711,29 +1735,29 @@ La vigencia del Plan no excederá del período constitucional que le corresponde
 
 Dentro de los dos meses siguientes a su toma de posesión, los ayuntamientos convocarán a foros de consulta popular y, tomando en consideración sus resultados, propondrán a través del Comité de Planeación del Desarrollo Estatal, los objetivos y prioridades municipales que deban incorporarse al Plan Estatal de Desarrollo. En lo aplicable, los ayuntamientos deberán sujetarse a lo dispuesto por la Ley de Planeación del Estado y Municipios de San Luis Potosí.
 
-> <small>(DEROGADO POR EL ARTICULO CUARTO TRANSITORIO DE LA LEY DE PRESUPUESTO, CONTABILIDAD Y GASTO PUBLICO DE LOS MUNICIPIOS DEL ESTADO DE SAN LUIS POTOSI, P.O. 4 DE DICIEMBRE DE 2004)</small>
+> <small>(DEROGADO POR EL ARTÍCULO CUARTO TRANSITORIO DE LA LEY DE PRESUPUESTO, CONTABILIDAD Y GASTO PÚBLICO DE LOS MUNICIPIOS DEL ESTADO DE SAN LUIS POTOSÍ, P.O. 4 DE DICIEMBRE DE 2004)</small>
 
 ### CAPITULO I. De las Modalidades en su Prestación
 
 ###### ARTICULO 122.
 
-(DEROGADO POR ARTICULO CUARTO TRANSITORIO DE LA LEY DE PRESUPUESTO, CONTABILIDAD Y GASTO PUBLICO DE LOS MUNICIPIOS DEL ESTADO DE SAN LUIS POTOSI, P.O. 4 DE DICIEMBRE DE 2004)
+(DEROGADO POR EL ARTÍCULO CUARTO TRANSITORIO DE LA LEY DE PRESUPUESTO, CONTABILIDAD Y GASTO PÚBLICO DE LOS MUNICIPIOS DEL ESTADO DE SAN LUIS POTOSÍ, P.O. 4 DE DICIEMBRE DE 2004)
 
 ###### ARTICULO 123.
 
-(DEROGADO POR ARTICULO CUARTO TRANSITORIO DE LA LEY DE PRESUPUESTO, CONTABILIDAD Y GASTO PUBLICO DE LOS MUNICIPIOS DEL ESTADO DE SAN LUIS POTOSI, P.O. 4 DE DICIEMBRE DE 2004)
+(DEROGADO POR EL ARTÍCULO CUARTO TRANSITORIO DE LA LEY DE PRESUPUESTO, CONTABILIDAD Y GASTO PÚBLICO DE LOS MUNICIPIOS DEL ESTADO DE SAN LUIS POTOSÍ, P.O. 4 DE DICIEMBRE DE 2004)
 
 ###### ARTICULO 124.
 
-(DEROGADO POR ARTICULO CUARTO TRANSITORIO DE LA LEY DE PRESUPUESTO, CONTABILIDAD Y GASTO PUBLICO DE LOS MUNICIPIOS DEL ESTADO DE SAN LUIS POTOSI, P.O. 4 DE DICIEMBRE DE 2004)
+(DEROGADO POR EL ARTÍCULO CUARTO TRANSITORIO DE LA LEY DE PRESUPUESTO, CONTABILIDAD Y GASTO PÚBLICO DE LOS MUNICIPIOS DEL ESTADO DE SAN LUIS POTOSÍ, P.O. 4 DE DICIEMBRE DE 2004)
 
 ###### ARTICULO 125.
 
-(DEROGADO POR ARTICULO CUARTO TRANSITORIO DE LA LEY DE PRESUPUESTO, CONTABILIDAD Y GASTO PUBLICO DE LOS MUNICIPIOS DEL ESTADO DE SAN LUIS POTOSI, P.O. 4 DE DICIEMBRE DE 2004)
+(DEROGADO POR EL ARTÍCULO CUARTO TRANSITORIO DE LA LEY DE PRESUPUESTO, CONTABILIDAD Y GASTO PÚBLICO DE LOS MUNICIPIOS DEL ESTADO DE SAN LUIS POTOSÍ, P.O. 4 DE DICIEMBRE DE 2004)
 
 ###### ARTICULO 126.
 
-(DEROGADO POR ARTICULO CUARTO TRANSITORIO DE LA LEY DE PRESUPUESTO, CONTABILIDAD Y GASTO PUBLICO DE LOS MUNICIPIOS DEL ESTADO DE SAN LUIS POTOSI, P.O. 4 DE DICIEMBRE DE 2004)
+(DEROGADO POR EL ARTÍCULO CUARTO TRANSITORIO DE LA LEY DE PRESUPUESTO, CONTABILIDAD Y GASTO PÚBLICO DE LOS MUNICIPIOS DEL ESTADO DE SAN LUIS POTOSÍ, P.O. 4 DE DICIEMBRE DE 2004)
 
 ###### ARTICULO 127.
 
@@ -1741,69 +1765,69 @@ La aplicación de recursos federales o estatales transferidos al Ayuntamiento se
 
 ###### ARTICULO 128.
 
-(DEROGADO POR ARTICULO CUARTO TRANSITORIO DE LA LEY DE PRESUPUESTO, CONTABILIDAD Y GASTO PUBLICO DE LOS MUNICIPIOS DEL ESTADO DE SAN LUIS POTOSI, P.O. 4 DE DICIEMBRE DE 2004)
+(DEROGADO POR EL ARTÍCULO CUARTO TRANSITORIO DE LA LEY DE PRESUPUESTO, CONTABILIDAD Y GASTO PÚBLICO DE LOS MUNICIPIOS DEL ESTADO DE SAN LUIS POTOSÍ, P.O. 4 DE DICIEMBRE DE 2004)
 
 ###### ARTICULO 129.
 
-(DEROGADO POR ARTICULO CUARTO TRANSITORIO DE LA LEY DE PRESUPUESTO, CONTABILIDAD Y GASTO PUBLICO DE LOS MUNICIPIOS DEL ESTADO DE SAN LUIS POTOSI, P.O. 4 DE DICIEMBRE DE 2004)
+(DEROGADO POR EL ARTÍCULO CUARTO TRANSITORIO DE LA LEY DE PRESUPUESTO, CONTABILIDAD Y GASTO PÚBLICO DE LOS MUNICIPIOS DEL ESTADO DE SAN LUIS POTOSÍ, P.O. 4 DE DICIEMBRE DE 2004)
 
-> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR ARTICULO CUARTO TRANSITORIO DE LA LEY DE PRESUPUESTO, CONTABILIDAD Y GASTO PUBLICO DE LOS MUNICIPIOS DEL ESTADO DE SAN LUIS POTOSI, P.O. 4 DE DICIEMBRE DE 2004)</small>
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN POR ARTÍCULO CUARTO TRANSITORIO DE LA LEY DE PRESUPUESTO, CONTABILIDAD Y GASTO PÚBLICO DE LOS MUNICIPIOS DEL ESTADO DE SAN LUIS POTOSÍ, P.O. 4 DE DICIEMBRE DE 2004)</small>
 
 ### CAPITULO II. De la Seguridad Pública y Tránsito
 
 ###### ARTICULO 130.
 
-(DEROGADO POR ARTICULO CUARTO TRANSITORIO DE LA LEY DE PRESUPUESTO, CONTABILIDAD Y GASTO PUBLICO DE LOS MUNICIPIOS DEL ESTADO DE SAN LUIS POTOSI, P.O. 4 DE DICIEMBRE DE 2004)
+(DEROGADO POR EL ARTÍCULO CUARTO TRANSITORIO DE LA LEY DE PRESUPUESTO, CONTABILIDAD Y GASTO PÚBLICO DE LOS MUNICIPIOS DEL ESTADO DE SAN LUIS POTOSÍ, P.O. 4 DE DICIEMBRE DE 2004)
 
 ###### ARTICULO 131.
 
-(DEROGADO POR ARTICULO CUARTO TRANSITORIO DE LA LEY DE PRESUPUESTO, CONTABILIDAD Y GASTO PUBLICO DE LOS MUNICIPIOS DEL ESTADO DE SAN LUIS POTOSI, P.O. 4 DE DICIEMBRE DE 2004)
+(DEROGADO POR EL ARTÍCULO CUARTO TRANSITORIO DE LA LEY DE PRESUPUESTO, CONTABILIDAD Y GASTO PÚBLICO DE LOS MUNICIPIOS DEL ESTADO DE SAN LUIS POTOSÍ, P.O. 4 DE DICIEMBRE DE 2004)
 
 ###### ARTICULO 132.
 
-(DEROGADO POR ARTICULO CUARTO TRANSITORIO DE LA LEY DE PRESUPUESTO, CONTABILIDAD Y GASTO PUBLICO DE LOS MUNICIPIOS DEL ESTADO DE SAN LUIS POTOSI, P.O. 4 DE DICIEMBRE DE 2004)
+(DEROGADO POR EL ARTÍCULO CUARTO TRANSITORIO DE LA LEY DE PRESUPUESTO, CONTABILIDAD Y GASTO PÚBLICO DE LOS MUNICIPIOS DEL ESTADO DE SAN LUIS POTOSÍ, P.O. 4 DE DICIEMBRE DE 2004)
 
 ###### ARTICULO 133.
 
-(DEROGADO POR ARTICULO CUARTO TRANSITORIO DE LA LEY DE PRESUPUESTO, CONTABILIDAD Y GASTO PUBLICO DE LOS MUNICIPIOS DEL ESTADO DE SAN LUIS POTOSI, P.O. 4 DE DICIEMBRE DE 2004)
+(DEROGADO POR EL ARTÍCULO CUARTO TRANSITORIO DE LA LEY DE PRESUPUESTO, CONTABILIDAD Y GASTO PÚBLICO DE LOS MUNICIPIOS DEL ESTADO DE SAN LUIS POTOSÍ, P.O. 4 DE DICIEMBRE DE 2004)
 
 ###### ARTICULO 134.
 
-(DEROGADO POR ARTICULO CUARTO TRANSITORIO DE LA LEY DE PRESUPUESTO, CONTABILIDAD Y GASTO PUBLICO DE LOS MUNICIPIOS DEL ESTADO DE SAN LUIS POTOSI, P.O. 4 DE DICIEMBRE DE 2004)
+(DEROGADO POR EL ARTÍCULO CUARTO TRANSITORIO DE LA LEY DE PRESUPUESTO, CONTABILIDAD Y GASTO PÚBLICO DE LOS MUNICIPIOS DEL ESTADO DE SAN LUIS POTOSÍ, P.O. 4 DE DICIEMBRE DE 2004)
 
 ###### ARTICULO 135.
 
-(DEROGADO POR ARTICULO CUARTO TRANSITORIO DE LA LEY DE PRESUPUESTO, CONTABILIDAD Y GASTO PUBLICO DE LOS MUNICIPIOS DEL ESTADO DE SAN LUIS POTOSI, P.O. 4 DE DICIEMBRE DE 2004)
+(DEROGADO POR EL ARTÍCULO CUARTO TRANSITORIO DE LA LEY DE PRESUPUESTO, CONTABILIDAD Y GASTO PÚBLICO DE LOS MUNICIPIOS DEL ESTADO DE SAN LUIS POTOSÍ, P.O. 4 DE DICIEMBRE DE 2004)
 
 ###### ARTICULO 136.
 
-(DEROGADO POR ARTICULO CUARTO TRANSITORIO DE LA LEY DE PRESUPUESTO, CONTABILIDAD Y GASTO PUBLICO DE LOS MUNICIPIOS DEL ESTADO DE SAN LUIS POTOSI, P.O. 4 DE DICIEMBRE DE 2004)
+(DEROGADO POR EL ARTÍCULO CUARTO TRANSITORIO DE LA LEY DE PRESUPUESTO, CONTABILIDAD Y GASTO PÚBLICO DE LOS MUNICIPIOS DEL ESTADO DE SAN LUIS POTOSÍ, P.O. 4 DE DICIEMBRE DE 2004)
 
 ###### ARTICULO 137.
 
-(DEROGADO POR ARTICULO CUARTO TRANSITORIO DE LA LEY DE PRESUPUESTO, CONTABILIDAD Y GASTO PUBLICO DE LOS MUNICIPIOS DEL ESTADO DE SAN LUIS POTOSI, P.O. 4 DE DICIEMBRE DE 2004)
+(DEROGADO POR EL ARTÍCULO CUARTO TRANSITORIO DE LA LEY DE PRESUPUESTO, CONTABILIDAD Y GASTO PÚBLICO DE LOS MUNICIPIOS DEL ESTADO DE SAN LUIS POTOSÍ, P.O. 4 DE DICIEMBRE DE 2004)
 
 ###### ARTICULO 138.
 
-(DEROGADO POR ARTICULO CUARTO TRANSITORIO DE LA LEY DE PRESUPUESTO, CONTABILIDAD Y GASTO PUBLICO DE LOS MUNICIPIOS DEL ESTADO DE SAN LUIS POTOSI, P.O. 4 DE DICIEMBRE DE 2004)
+(DEROGADO POR EL ARTÍCULO CUARTO TRANSITORIO DE LA LEY DE PRESUPUESTO, CONTABILIDAD Y GASTO PÚBLICO DE LOS MUNICIPIOS DEL ESTADO DE SAN LUIS POTOSÍ, P.O. 4 DE DICIEMBRE DE 2004)
 
-> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR ARTICULO CUARTO TRANSITORIO DE LA LEY DE PRESUPUESTO, CONTABILIDAD Y GASTO PUBLICO DE LOS MUNICIPIOS DEL ESTADO DE SAN LUIS POTOSI, P.O. 4 DE DICIEMBRE DE 2004)</small>
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN POR ARTÍCULO CUARTO TRANSITORIO DE LA LEY DE PRESUPUESTO, CONTABILIDAD Y GASTO PÚBLICO DE LOS MUNICIPIOS DEL ESTADO DE SAN LUIS POTOSÍ, P.O. 4 DE DICIEMBRE DE 2004)</small>
 
 ### CAPITULO III. De la Concesión de Bienes y Servicios Públicos Municipales
 
 ###### ARTICULO 139.
 
-(DEROGADO POR ARTICULO CUARTO TRANSITORIO DE LA LEY DE PRESUPUESTO, CONTABILIDAD Y GASTO PUBLICO DE LOS MUNICIPIOS DEL ESTADO DE SAN LUIS POTOSI, P.O. 4 DE DICIEMBRE DE 2004)
+(DEROGADO POR EL ARTÍCULO CUARTO TRANSITORIO DE LA LEY DE PRESUPUESTO, CONTABILIDAD Y GASTO PÚBLICO DE LOS MUNICIPIOS DEL ESTADO DE SAN LUIS POTOSÍ, P.O. 4 DE DICIEMBRE DE 2004)
 
 ###### ARTICULO 140.
 
-(DEROGADO POR ARTICULO CUARTO TRANSITORIO DE LA LEY DE PRESUPUESTO, CONTABILIDAD Y GASTO PUBLICO DE LOS MUNICIPIOS DEL ESTADO DE SAN LUIS POTOSI, P.O. 4 DE DICIEMBRE DE 2004)
+(DEROGADO POR EL ARTÍCULO CUARTO TRANSITORIO DE LA LEY DE PRESUPUESTO, CONTABILIDAD Y GASTO PÚBLICO DE LOS MUNICIPIOS DEL ESTADO DE SAN LUIS POTOSÍ, P.O. 4 DE DICIEMBRE DE 2004)
 
 ## TITULO OCTAVO. DE LOS SERVICIOS PUBLICOS MUNICIPALES
 
 ### CAPITULO I. De los Bandos y Reglamentos
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 14 DE ABRIL DE 2011)</small>
 
@@ -1921,7 +1945,7 @@ VII. El Congreso del Estado deberá resolver la solicitud planteada en un térmi
 
 Para los efectos de la seguridad pública, los ayuntamientos y presidentes municipales ejercerán, de conformidad con lo dispuesto en los artículos 21 y 115 de la Constitución Política de los Estados Unidos Mexicanos, las facultades que determine la ley.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE DICIEMBRE DE 2009)</small>
 
 ###### ARTICULO 150.
 
@@ -2167,7 +2191,7 @@ LIC. JUAN CARLOS BARRON CERDA
 
 (Rúbrica)
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 23 DE SEPTIEMBRE DE 2000.
 
@@ -2332,3 +2356,9 @@ P.O. 28 DE JUNIO DE 2011.
 PRIMERO. Este Decreto entrará en vigencia el día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan a este Decreto.
+
+P.O. 22 DE OCTUBRE DE 2011.
+
+PRIMERO. Este Decreto entrará en vigencia el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones contrarias a este Decreto.
