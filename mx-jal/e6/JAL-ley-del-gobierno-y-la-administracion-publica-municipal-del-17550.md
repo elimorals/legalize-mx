@@ -4,7 +4,7 @@ identifier: "JAL-ley-del-gobierno-y-la-administracion-publica-municipal-del-1755
 country: "mx"
 rank: "ley"
 publication_date: "2000-10-05"
-last_updated: "2011-06-18"
+last_updated: "2011-10-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17550&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DEL GOBIERNO Y LA ADMINISTRACION PUBLICA MUNICIPAL DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE JUNIO DE 2011.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE OCTUBRE DE 2011.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el jueves 5 de octubre de 2000.
 
@@ -93,7 +93,9 @@ El Estado de Jalisco se divide en los municipios libres siguientes:
 
 18. Cañadas de Obregón,
 
-19. Capilla de Guadalupe,
+> <small>(REFORMADO, P.O. 22 DE OCTUBRE DE 2011)</small>
+
+19. Capilla de Guadalupe (municipio declarado inválido por la SCJN, en controversia constitucional 54/2004)
 
 20. Casimiro Castillo,
 
@@ -255,7 +257,9 @@ El Estado de Jalisco se divide en los municipios libres siguientes:
 
 99. Tlajomulco de Zuñiga,
 
-100. Tlaquepaque,
+> <small>(REFORMADO, P.O. 22 DE OCTUBRE DE 2011)</small>
+
+100. San Pedro Tlaquepaque,
 
 101. Tolimán,
 
@@ -661,9 +665,13 @@ Se entiende por mayoría calificada de votos, la correspondiente a las dos terce
 
 Cuando por la integración del Ayuntamiento, las dos terceras partes resulten en cantidad fraccionaria, se considerará la cantidad inmediata superior.
 
-> <small>(REFORMADO, P.O. 3 DE ABRIL DE 2008)</small>
+> <small>(REFORMADO, P.O. 22 DE OCTUBRE DE 2011)</small>
 
-En los términos de la reglamentación municipal, en cada votación debe determinarse con claridad los votos a favor y en contra, así como las abstenciones, mismas que se sumarán a la mayoría.
+En los términos de la reglamentación municipal, en cada votación se determinará si el voto se emitirá en forma económica, nominal o por cédula. Cuando no se señale expresamente la forma de emitir el voto se entenderá que se trata de votación económica.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE OCTUBRE DE 2011)</small>
+
+El sentido del voto puede ser a favor, en contra o abstención. Para la determinación de los resultados correspondientes sólo se computan los votos a favor y en contra; las abstenciones se declaran por separado y no se suman a la mayoría.
 
 ###### Artículo 36.
 
@@ -1436,6 +1444,8 @@ Las faltas definitivas y temporales de regidores y síndicos en funciones, con e
 En ningún caso, los ediles a los que se conceda licencia temporal o definitiva, pueden desempeñar cargo o comisión alguna en el Municipio en que fueron electos.
 
 (NOTA: EL 16 DE FEBRERO DE 2010, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO Y EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 19/2007, DECLARÓ LA INVALIDEZ DE LA DEROGACIÓN DE ESTE ARTÍCULO INDICADA CON MINÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 19 DE FEBRERO DE 2010 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+artículo 73. (derogado, p.o. 5 de enero de 2007)
 
 ###### Artículo 73.
 
@@ -2848,5 +2858,19 @@ P.O. 3 DE FEBRERO DE 2011.
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
 
 P.O. 18 DE JUNIO DE 2011.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 22 DE OCTUBRE DE 2011.
+
+DECRETO NUMERO 23598/LIX/11 POR EL QUE SE REFORMA EL ARTICULO 4° DE LA LEY DEL GOBIERNO Y LA ADMINISTRACION PUBLICA MUNICIPAL DEL ESTADO DE JALISCO.
+
+PRIMERO. Este decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+SEGUNDO. En todas las disposiciones legales, administrativas o reglamentarias, resoluciones, acuerdos, contratos, convenios, juicios, o actos expedidos o celebrados con anterioridad a la vigencia del presente decreto, en que se haga referencia al municipio de Tlaquepaque, se entenderán referidos al municipio de San Pedro Tlaquepaque.
+
+P.O. 22 DE OCTUBRE DE 2011.
+
+DECRETO NUMERO 23599/LIX/11 POR EL QUE SE REFORMA EL ARTICULO 35 DE LA LEY DEL GOBIERNO Y LA ADMINISTRACION PUBLICA MUNICIPAL DEL ESTADO DE JALISCO.
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
