@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-instituciones-de-desarrollo-humano-y-de-bienestar-26831"
 country: "mx"
 rank: "ley"
 publication_date: "2002-12-03"
-last_updated: "2002-12-03"
+last_updated: "2011-10-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26831&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE INSTITUCIONES DE DESARROLLO HUMANO Y DE BIENESTAR SOCIAL PARA EL ESTADO DE SAN LUIS POTOSI
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE OCTUBRE DE 2011.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el martes 3 de diciembre del 2002.
 
@@ -95,9 +95,17 @@ XIV. Desarrollar y promover la investigación científica y tecnológica;
 
 XV. Fortalecer el desarrollo sustentable regional y comunitario y, en general, favorecer las condiciones que propicien el desarrollo productivo;
 
-XVI. Realizar acciones de prevención y protección civil, y
+> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2011)</small>
 
-XVII. Las demás que a juicio del Consejo de Desarrollo Humano y Bienestar Social, tengan relación con las actividades señaladas o coadyuven al mejoramiento de las condiciones de vida de los individuos, la sociedad y el desarrollo del Estado.
+XVI. Realizar acciones de prevención y protección civil;
+
+> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2011)</small>
+
+XVII. Fortalecer el desarrollo de los pueblos indígenas, y
+
+> <small>(ADICIONADA, P.O. 22 DE OCTUBRE DE 2011)</small>
+
+XVIII. Las demás que a juicio del Consejo de Desarrollo Humano y Bienestar Social, tengan relación con las actividades señaladas o coadyuven al mejoramiento de las condiciones de vida de los individuos, la sociedad y el desarrollo del Estado.
 
 ###### ARTICULO 4°.
 
@@ -413,9 +421,17 @@ VIII. Coadyuvar con las autoridades competentes en los términos de los convenio
 
 IX. Acceder a los beneficios que se deriven de los convenios nacionales, estatales o municipales que suscriba el gobierno del Estado en las materias y finalidades previstas en esta Ley, y en los términos de dichos instrumentos;
 
-X. Suscribir convenios con instituciones internacionales accediendo a los beneficios que de los mismos deriven, y
+> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2011)</small>
 
-XI. Recibir cuando lo soliciten asesoría, capacitación y colaboración por parte de las dependencias de la administración pública del Estado, para el mejor cumplimiento de su objeto y actividades en el marco de los programas que al efecto formulen dichas dependencias.
+X. Suscribir convenios con instituciones internacionales accediendo a los beneficios que de los mismos deriven;
+
+> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2011)</small>
+
+XI. Recibir, cuando lo soliciten, asesoría, capacitación y colaboración por parte de las dependencias de la administración pública del Estado, para el mejor cumplimiento de su objetivo y actividades en el marco de los programas que al efecto formulen dichas dependencias, y
+
+> <small>(ADICIONADA, P.O. 22 DE OCTUBRE DE 2011)</small>
+
+XII. Participar en los mecanismos de contraloría social que establezcan y operen dependencias y entidades, de conformidad con las (sic) normatividad jurídica y administrativa aplicable.
 
 ###### ARTICULO 42.
 
@@ -429,9 +445,17 @@ III. Mantener a disposición del Consejo Estatal de Desarrollo Humano y Bienesta
 
 IV. Transmitir sus bienes a otras instituciones inscritas en el registro, en caso de disolución;
 
-V. Destinar sus bienes, recursos y remanentes únicamente al cumplimiento de su objeto, y
+> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2011)</small>
 
-VI. Ser independientes a cualquier partido político, y abstenerse de efectuar actividades político-partidistas utilizando la denominación social o nombre de la institución.
+V. Destinar sus bienes, recursos y remanentes únicamente al cumplimiento de su objeto;
+
+> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2011)</small>
+
+VI. Ser independiente a cualquier partido político, y abstenerse de efectuar actividades político partidistas utilizado (sic) la denominación social o nombre de la institución, y
+
+> <small>(ADICIONADA, P.O. 22 DE OCTUBRE DE 2011)</small>
+
+VII. Promover la profesionalización y capacitación de sus integrantes.
 
 En el caso de organizaciones civiles que obtengan recursos económicos del extranjero, además de las obligaciones señaladas, deberán llevar a cabo las operaciones correspondientes conforme a las disposiciones que rigen al sistema financiero mexicano.
 
@@ -878,3 +902,11 @@ El Secretario General de Gobierno
 LIC. JORGE DANIEL HERNANDEZ DELGADILLO
 
 (Rúbrica)
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS DEL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 22 DE OCTUBRE DE 2011.
+
+PRIMERO. Este Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
