@@ -4,7 +4,7 @@ identifier: "CHH-codigo-de-procedimientos-penales-del-estado-de-chihuahua-51496"
 country: "mx"
 rank: "codigo"
 publication_date: "2006-08-09"
-last_updated: "2011-09-03"
+last_updated: "2011-10-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51496&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ CODIGO DE PROCEDIMIENTOS PENALES DEL ESTADO DE CHIHUAHUA
 
 > <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO ÚNICO DEL DECRETO 276/08 II P.O. SE EXPIDE LA DECLARATORIA DE INCORPORACIÓN DEL NUEVO SISTEMA PROCESAL PENAL ACUSATORIO EN EL ESTADO DE CHIHUAHUA, PUBLICADA EN EL P.O. 30 DE JULIO DE 2008, LA CUAL ENTRARÁ EN VIGOR A PARTIR DE LAS CERO HORAS: 1.- EN EL DISTRITO JUDICIAL MORELOS, DEL 1o. DE ENERO DE 2007; 2.- EN EL DISTRITO JUDICIAL BRAVOS, DEL 1o. DE ENERO DE 2008; 3.- EN EL RESTO DE LOS DISTRITOS JUDICIALES DEL ESTADO, DEL 1o. DE JULIO DE 2008.</small>
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE SEPTIEMBRE DE 2011.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE OCTUBRE DE 2011.
 
 Código publicado en el Folleto Anexo al Periódico Oficial del Estado Chihuahua, el miércoles 9 de agosto de 2006.
 
@@ -1919,7 +1919,11 @@ X. La suspensión de derechos, cuando exista riesgo fundado y grave de que el im
 
 > <small>(REFORMADA, P.O. 1 DE ABRIL DE 2009)</small>
 
-XI.- Internamiento en el centro de salud, centro de atención a adictos u hospital psiquiátrico, en los casos en que el estado de salud del imputado así lo amerite; y
+XI. Internamiento en el centro de salud, centro de atención a adictos u hospital psiquiátrico, en los casos en que el estado de salud del imputado así lo amerite; y
+
+> <small>(ADICIONADO, P.O. 22 DE OCTUBRE DE 2011)</small>
+
+El Juez, para determinar el tiempo de internamiento, deberá tomar en cuenta la opinión de un profesional especialista en la materia de Salud, pudiendo prolongar la medida por el tiempo necesario, en caso de que el imputado requiera seguir con el tratamiento.
 
 XII. La prisión preventiva, a menos que el delito imputado tuviera señalada pena alternativa o no privativa de libertad.
 
@@ -4205,7 +4209,7 @@ Contenido de la sentencia.
 
 La sentencia definitiva contendrá:
 
-l. La mención del Tribunal y la fecha de su emisión;
+I. La mención del Tribunal y la fecha de su emisión;
 
 II. La identificación de la víctima u ofendido y del acusado;
 
@@ -5183,7 +5187,7 @@ T R A N S I T O R I O
 
 ###### ARTÍCULO ÚNICO.
 
-El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado
 
 P.O. 18 DE FEBRERO DE 2009.
 
@@ -5330,3 +5334,21 @@ DECRETO No. 393/2011 II P.O. POR EL QUE SE ADICIONA UN TERCER PARRAFO AL ARTICUL
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial de la (sic) Estado.
+
+P.O. 22 DE OCTUBRE DE 2011.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga la Ley para la Prevención de las Adicciones, Tratamiento, Disminución de Daño y Reinserción Social de Personas con Adicción en el Estado de Chihuahua, publicada en el Periódico Oficial del Estado el 3 de octubre del 2007.
+
+###### ARTÍCULO TERCERO.
+
+Se establece un plazo de noventa días naturales para la instalación del Consejo Estatal de Atención a las Adicciones.
+
+###### ARTÍCULO CUARTO.
+
+El Reglamento del Consejo Estatal de Atención a las Adiciones deberá ser publicado en el Periódico Oficial del Estado, dentro de los sesenta días posteriores a la instalación del mismo.
