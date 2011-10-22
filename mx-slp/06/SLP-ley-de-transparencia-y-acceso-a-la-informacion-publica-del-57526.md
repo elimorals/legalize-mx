@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-transparencia-y-acceso-a-la-informacion-publica-del-5752
 country: "mx"
 rank: "ley"
 publication_date: "2007-10-18"
-last_updated: "2010-12-28"
+last_updated: "2011-10-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57526&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACION PUBLICA DEL ESTADO DE SAN LUIS POTOSI
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE DICIEMBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE OCTUBRE DE 2011.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 18 de octubre de 2007.
 
@@ -129,75 +129,79 @@ VIII. Constitución: Constitución Política del Estado Libre y Soberano de San 
 
 IX. Comité de información: órgano colegiado que se integrará en cada una de las entidades públicas, para resolver sobre la información que deberá clasificarse como reservada y confidencial;
 
+> <small>(ADICIONADA, P.O. 20 DE DICIEMBRE DE 2011)</small>
+
+X. Cultura de transparencia: conjunto de acciones de los entes obligados y de la sociedad, encaminadas a enriquecer el conocimiento, la experiencia, la práctica y los hábitos de los servidores públicos y de las personas en general, para que mediante la gestión de aquéllos y el ejercicio de los derechos de éstas, compartan la convicción de fomentar la transparencia y la rendición de cuentas gubernamental (sic); el derecho de acceso a la información pública; y el derecho a la protección de datos personales;
+
 > <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2010)</small>
 
-X. Datos personales: toda información sobre una persona física identificada o identificable, como lo es la relativa a su origen étnico o racial, características físicas, morales o emocionales, a su vida afectiva y familiar, domicilio, número telefónico, correo electrónico, patrimonio, ideología y opiniones políticas, afiliación sindical, creencias o convicciones religiosas o filosóficas, los estados de salud físicos o mentales, información genética, preferencia sexual, y otras análogas que afecten su intimidad.
+XI. Datos personales: toda información sobre una persona física identificada o identificable, como lo es la relativa a su origen étnico o racial, características físicas, morales o emocionales, a su vida afectiva y familiar, domicilio, número telefónico, correo electrónico, patrimonio, ideología y opiniones políticas, afiliación sindical, creencias o convicciones religiosas o filosóficas, los estados de salud físicos o mentales, información genética, preferencia sexual, y otras análogas que afecten su intimidad.
 
 Se considerará identificable toda persona cuya identidad pueda determinarse, directa o indirectamente, en particular mediante un número de identificación o uno o varios elementos específicos, característicos de su identidad física, fisiológica, psíquica, económica, cultural o social;
 
 > <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2010)</small>
 
-XI. Derecho de acceso a la información pública: prerrogativa de las personas para acceder a la información pública en posesión de los entes obligados, en los términos de esta Ley;
+XII. Derecho de acceso a la información pública: prerrogativa de las personas para acceder a la información pública en posesión de los entes obligados, en los términos de esta Ley;
 
 > <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2010)</small>
 
-XII. Documento: oficios, acuerdos, correspondencia, directivas, circulares, minutas, expedientes, reportes, estudios, contratos, actas, convenios, resoluciones, instructivos, memorandos, notas, estadísticas, sondeos, encuestas, expresiones y representaciones materiales que den constancia de un hecho o acto del pasado o del presente, de las entidades y servidores públicos en el ejercicio de sus funciones; o cualquier otro registro que documente la existencia y actividades de los entes obligados, sin excepción de su fuente, tipo o fecha de elaboración. Los documentos pueden ser papeles escritos, o en cualquier medio o formato impreso, sonoro, electrónico, fotográfico, gráfico, visual, holográfico, electrónico o digital;
+XIII. Documento: oficios, acuerdos, correspondencia, directivas, circulares, minutas, expedientes, reportes, estudios, contratos, actas, convenios, resoluciones, instructivos, memorandos, notas, estadísticas, sondeos, encuestas, expresiones y representaciones materiales que den constancia de un hecho o acto del pasado o del presente, de las entidades y servidores públicos en el ejercicio de sus funciones; o cualquier otro registro que documente la existencia y actividades de los entes obligados, sin excepción de su fuente, tipo o fecha de elaboración. Los documentos pueden ser papeles escritos, o en cualquier medio o formato impreso, sonoro, electrónico, fotográfico, gráfico, visual, holográfico, electrónico o digital;
 
 > <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2010)</small>
 
-XIII. Entes o sujetos obligados: los poderes del Estado, los ayuntamientos, los organismos constitucionales autónomos, los tribunales administrativos, las dependencias y entidades que conforman la administración pública centralizada y descentralizada del Estado y los municipios, los partidos y agrupaciones políticas con registro o inscripción estatal y, en general, cualquier persona física o moral, pública o privada, que recaude, administre, maneje o ejerza recursos públicos, o que tenga concesionada la explotación de bienes del dominio público o la prestación de un servicio público; así como las personas de derecho público y privado, cuando en el ejercicio de sus actividades actúen en auxilio de los órganos antes citados, reciban subsidio o subvención pública; o manejen fondos integrados por financiamiento, aportaciones y subvenciones privadas nacionales e internacionales destinadas a financiar actividades relacionadas con la función pública;
+XIV. Entes o sujetos obligados: los poderes del Estado, los ayuntamientos, los organismos constitucionales autónomos, los tribunales administrativos, las dependencias y entidades que conforman la administración pública centralizada y descentralizada del Estado y los municipios, los partidos y agrupaciones políticas con registro o inscripción estatal y, en general, cualquier persona física o moral, pública o privada, que recaude, administre, maneje o ejerza recursos públicos, o que tenga concesionada la explotación de bienes del dominio público o la prestación de un servicio público; así como las personas de derecho público y privado, cuando en el ejercicio de sus actividades actúen en auxilio de los órganos antes citados, reciban subsidio o subvención pública; o manejen fondos integrados por financiamiento, aportaciones y subvenciones privadas nacionales e internacionales destinadas a financiar actividades relacionadas con la función pública;
 
 > <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2010)</small>
 
-XIV. Entidades públicas: los poderes del Estado, los municipios, sus dependencias y entidades, y los organismos constitucionales autónomos;
+XV. Entidades públicas: los poderes del Estado, los municipios, sus dependencias y entidades, y los organismos constitucionales autónomos;
 
 > <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2010)</small>
 
-XV. Indicadores de gestión: los parámetros que permiten medir y evaluar el desempeño de la entidad pública, frente a sus objetivos, actividades, metas, estrategias y responsabilidades;
+XVI. Indicadores de gestión: los parámetros que permiten medir y evaluar el desempeño de la entidad pública, frente a sus objetivos, actividades, metas, estrategias y responsabilidades;
 
 > <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2010)</small>
 
-XVI. Información confidencial: es la que contiene datos personales relativos a las características físicas, morales o emocionales, origen étnico o racial, domicilio, vida familiar, privada, íntima y afectiva, patrimonio, número telefónico, correo electrónico, ideología, opiniones políticas, preferencias sexuales, salud y expediente médico, y toda aquella información susceptible de ser tutelada por los derechos humanos a la privacidad, intimidad, honor y dignidad, que se encuentra en posesión de alguno de los entes obligados y sobre la que no puede realizarse ningún acto o hecho, sin la autorización debida de los titulares o sus representantes legales;
+XVII. Información confidencial: es la que contiene datos personales relativos a las características físicas, morales o emocionales, origen étnico o racial, domicilio, vida familiar, privada, íntima y afectiva, patrimonio, número telefónico, correo electrónico, ideología, opiniones políticas, preferencias sexuales, salud y expediente médico, y toda aquella información susceptible de ser tutelada por los derechos humanos a la privacidad, intimidad, honor y dignidad, que se encuentra en posesión de alguno de los entes obligados y sobre la que no puede realizarse ningún acto o hecho, sin la autorización debida de los titulares o sus representantes legales;
 
 > <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2010)</small>
 
-XVII. Información reservada: aquélla clasificada con carácter temporal como restringida al acceso del público;
+XVIII. Información reservada: aquélla clasificada con carácter temporal como restringida al acceso del público;
 
 > <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2010)</small>
 
-XVIII. Información pública: la información creada, administrada o en posesión de los sujetos obligados, exceptuando la clasificada como reservada o confidencial;
+XIX. Información pública: la información creada, administrada o en posesión de los sujetos obligados, exceptuando la clasificada como reservada o confidencial;
 
 > <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2010)</small>
 
-XIX. Información pública de oficio: la información que las entidades y servidores públicos están obligados a difundir de manera obligatoria, permanente y actualizada, sin que medie para ello, solicitud de acceso;
+XX. Información pública de oficio: la información que las entidades y servidores públicos están obligados a difundir de manera obligatoria, permanente y actualizada, sin que medie para ello, solicitud de acceso;
 
 > <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2010)</small>
 
-XX. Interés público: valoración positiva que se asigna a determinada información, con el objeto de que sea conocida por el público, para que puedan formarse opiniones o tomar decisiones, con énfasis en el interés general, respeto a la legalidad y a los valores de la democracia;
+XXI. Interés público: valoración positiva que se asigna a determinada información, con el objeto de que sea conocida por el público, para que puedan formarse opiniones o tomar decisiones, con énfasis en el interés general, respeto a la legalidad y a los valores de la democracia;
 
 > <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2010)</small>
 
-XXI. Protección de datos personales: tutela de los datos personales en ejercicio del derecho a la privacidad de las personas;
+XXII. Protección de datos personales: tutela de los datos personales en ejercicio del derecho a la privacidad de las personas;
 
 > <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2010)</small>
 
-XXII. Prueba de daño: la expresión de las razones lógico-jurídicas que acrediten que el daño que pueda producirse, con la liberación de información pública catalogada como reservada, es mayor que el interés público de conocer la información de referencia;
+XXIII. Prueba de daño: la expresión de las razones lógico-jurídicas que acrediten que el daño que pueda producirse, con la liberación de información pública catalogada como reservada, es mayor que el interés público de conocer la información de referencia;
 
 > <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2010)</small>
 
-XXIII. Servidores públicos: las personas a las que el artículo 124 de la Constitución Política del Estado; la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios; y las demás leyes, les otorguen ese carácter;
+XXIV. Servidores públicos: las personas a las que el artículo 124 de la Constitución Política del Estado; la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios; y las demás leyes, les otorguen ese carácter;
 
 > <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2010)</small>
 
-XXIV. Solicitante: cualquier persona física o moral que solicite, requiera o peticione a los entes obligados, información pública;
+XXV. Solicitante: cualquier persona física o moral que solicite, requiera o peticione a los entes obligados, información pública;
 
 > <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2010)</small>
 
-XXV. Unidad de información pública: las unidades administrativas de cada una de las entidades públicas, responsables de atender las solicitudes de acceso a la información pública, y
+XXVI. Unidad de información pública: las unidades administrativas de cada una de las entidades públicas, responsables de atender las solicitudes de acceso a la información pública, y
 
 > <small>(ADICIONADA, P.O. 28 DE DICIEMBRE DE 2010)</small>
 
-XXVI. Versión pública: documento elaborado por el ente obligado, que contiene información pública, sin que aparezca la clasificada como reservada o confidencial.
+XXVII. Versión pública: documento elaborado por el ente obligado, que contiene información pública, sin que aparezca la clasificada como reservada o confidencial.
 
 ###### ARTICULO 4º.
 
@@ -523,7 +527,9 @@ I. Sus estatutos, declaración de principios y documentos constitutivos que le d
 
 II. Su estructura orgánica, nombramientos y funciones que realizan sus comités;
 
-III. El directorio de sus dirigentes, miembros, o personal administrativo que perciba un ingreso, el tabulador correspondiente, sueldos, salarios y remuneraciones mensuales por puesto, viáticos, viajes, gastos de representación y fotografía actualizada;
+> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2011)</small>
+
+III. El directorio de sus dirigentes, miembros o personal administrativo que perciba un ingreso, el tabulador correspondiente, sueldos, salarios y remuneraciones mensuales por puesto, viáticos, viajes y gastos de representación;
 
 IV. La información contenida en los documentos que se produzcan en los procesos para suscribir contratos de todo tipo de actos privados, relacionadas con la adquisición, arrendamiento, concesiones y prestación de bienes y servicios, en los que se utilicen recursos del Estado;
 
@@ -1432,3 +1438,9 @@ PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en 
 SEGUNDO. Las remuneraciones que en el ejercicio dos mil diez sean superiores a la máxima establecida en la ley de la materia, deberán ser ajustadas o disminuidas en el presupuesto de egresos correspondiente al ejercicio fiscal del año dos mil once.
 
 TERCERO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 22 DE OCTUBRE DE 2011.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a las del presente Decreto.
