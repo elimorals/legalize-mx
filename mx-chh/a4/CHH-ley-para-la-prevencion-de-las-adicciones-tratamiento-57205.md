@@ -4,7 +4,7 @@ identifier: "CHH-ley-para-la-prevencion-de-las-adicciones-tratamiento-57205"
 country: "mx"
 rank: "ley"
 publication_date: "2007-10-03"
-last_updated: "2011-08-13"
+last_updated: "2011-10-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57205&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "CHH"
 
 LEY PARA LA PREVENCION DE LAS ADICCIONES, TRATAMIENTO, DISMINUCION DE DAÑO Y REINSERCION SOCIAL DE LAS PERSONAS CON ADICCION EN EL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE AGOSTO DE 2011.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY ESTATAL DE ATENCION A LAS ADICCIONES DEL ESTADO DE CHIHUAHUA, PUBLICADO EN EL FOLLETO ANEXO DEL P.O. DE 22 DE OCTUBRE DE 2011, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Estado de Chihuahua, el miércoles 3 de octubre de 2007.
 
@@ -762,3 +764,21 @@ P.O. 13 DE AGOSTO DE 2011.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 22 DE OCTUBRE DE 2011.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga la Ley para la Prevención de las Adicciones, Tratamiento, Disminución de Daño y Reinserción Social de Personas con Adicción en el Estado de Chihuahua, publicada en el Periódico Oficial del Estado el 3 de octubre del 2007.
+
+###### ARTÍCULO TERCERO.
+
+Se establece un plazo de noventa días naturales para la instalación del Consejo Estatal de Atención a las Adicciones.
+
+###### ARTÍCULO CUARTO.
+
+El Reglamento del Consejo Estatal de Atención a las Adiciones deberá ser publicado en el Periódico Oficial del Estado, dentro de los sesenta días posteriores a la instalación del mismo.
