@@ -4,7 +4,7 @@ identifier: "TAB-reglamento-escolar-colegio-de-bachilleres-tabasco-19058"
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-12-27"
-last_updated: "2000-12-27"
+last_updated: "2011-10-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=19058&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "TAB"
 
 REGLAMENTO ESCOLAR
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE OCTUBRE DE 2011.
 
 Reglamento publicado en el Periódico Oficial del Estado de Tabasco, el miércoles 27 de diciembre de 2000.
 
@@ -196,37 +196,45 @@ La escala de calificaciones que se utilizará para todo el subsistema Colegio de
 
 Los alumnos del subsistema tendrán como incentivo el poder exentar el examen final ordinario cuando en las evaluaciones parciales logren un promedio de 9.
 
+> <small>(REFORMADO, P.O. 22 DE OCTUBRE DE 2011)</small>
+
 ###### Art. 26.
 
-Cuando en el proceso evaluatorio las calificaciones parciales y final sean promediadas, se observará la siguiente escala:
-
-De 9.5 a 10 =·10
-
-De 8.5 a 9.4 = 9
-
-De 7.5 a 8.4 = 8
-
-De 6.5 a 7.4 = 7
-
-De 6.0 a 6.4 = 6
-
-De 5.0 a 5.9 = 5
+La evaluación de los procesos de aprendizaje, será permanente y tendrá como finalidad conocer las- nuevas habilidades educativas que el alumno haya hecho suyas como consecuencia del servicio educativo recibido.
 
 ### Capítulo sexto. Evaluación por recuperación
 
+> <small>(REFORMADO, P.O. 22 DE OCTUBRE DE 2011)</small>
+
 ###### Art. 27.
 
-Los alumnos que no obtengan promedio final aprobatorio, podrán regularizarse en 2 oportunidades de recuperación, señaladas en el calendario escolar, mediante la autorización y pago correspondientes.
+La valoración de cada asignatura se efectuará mediante la aplicación de dos evaluaciones parciales y una evaluación final. Las evaluaciones parciales la realizan los docentes que imparten las asignaturas en cada plantel y la evaluación final se compone por un examen objetivo que incluya reactivos elaborados por un cuerpo de docente de las diversas disciplinas, integrado a instancias de la Dirección Académica del Colegio de Bachilleres de Tabasco. De igual forma, corresponde a dicha Dirección Académica, el diseño del formato y la calificación.
+
+La Calificación final se obtiene de la siguiente forma: la suma de los 2 parciales dividido entre 2, que será igual al promedio parcial; el promedio parcial más la calificación de la evaluación final dividido entre 2, será igual a la calificación final.
+
+> <small>(REFORMADO, P.O. 22 DE OCTUBRE DE 2011)</small>
 
 ###### Art. 28.
 
-Los exámenes de regularización comprenderán la totalidad del contenido programático de la asignatura de que se trate.
+La dirección de cada plantel programará la aplicación de las evaluaciones parciales por los docentes de acuerdo con el calendario escolar y se hará del conocimiento con anticipación al personal docente, alumnado y padres de familia. Posteriormente, los resultados obtenidos se publicarán en los salones de clases y en la oficina de registro y control escolar del plantel para el conocimiento de los interesados.
+
+Finalmente, se enviará a la Dirección de Registro y Control Escolar del Colegio de Bachilleres, quien la integrará en la página WEB del COBATAB como consulta para los alumnos, mediante el uso de su· clave de acceso generada por la Dirección de Registro y Control Escolar.
+
+> <small>(REFORMADO, P.O. 22 DE OCTUBRE DE 2011)</small>
 
 ###### Art. 29.
 
-Queda establecida la opción de recuperación en la Unidad de Nivelación Académica (U.N.A.) en el caso de no acreditar la(s) materia(s) de acuerdo al Artículo 27 de este reglamento.
+Para tener derecho a las evaluaciones parciales y su calificación, el alumno deberá contar con un 80% de asistencia a clases en el periodo comprendido entre cada una de ellas.
 
-Art.30. Para quien no apruebe alguna(s) asignatura(s), una vez concluido el período de regularizaciones, deberá solicitar a la dirección del plantel, conforme a los lineamientos vigentes y establecidos por la Dirección de Registro y Control Escolar, la aplicación de un examen especial por asignatura, previa autorización de la Dirección de Registro y Control Escolar, examen que deberá ser elaborado y calificado por la academia correspondiente en el plantel.
+El personal docente debe entregar al responsable de registro y control escolar del plantel, el porcentaje de asistencia y las actas de evaluación con las calificaciones obtenidas por los estudiantes, a más tardar 3 días hábiles después de la fecha de aplicación, de acuerdo al Contrato Colectivo de Trabajo.
+
+> <small>(REFORMADO, P.O. 22 DE OCTUBRE DE 2011)</small>
+
+###### Art. 30.
+
+La escala oficial de calificaciones que se utilizará se sujetará al rango de 0 a 10 para las evaluaciones parciales y final.
+
+Para efecto de registrar la calificación final en el acta correspondiente, el rango será de 5 a 10. Toda calificación inferior a 6 será reprobatoria.
 
 ### Capítulo séptimo. Revisión de evaluaciones
 
@@ -236,23 +244,33 @@ Cuando se haya asignado una calificación distinta a la obtenida verdaderamente 
 
 I. El alumno solicitara por escrito la revisión a la dirección del plantel, manifestando las causas dentro de los cinco días hábiles siguientes a la fecha de la entrega oficial de las calificaciones a la dirección del plantel, la cual notificará al docente de la inconformidad presentada para su respectiva resolución.
 
+> <small>(REFORMADO, P.O. 22 DE OCTUBRE DE 2011)</small>
+
 ###### Art. 32.
 
-En caso de no llegar a un acuerdo para la rectificación de calificaciones entre las partes involucradas, se recurrirá a la academia respectiva quien asignará una comisión de dos profesores, excluyendo al profesor en cuestión para determinar finalmente un dictamen cuyo fallo será inapelable.
+El diseño, la aplicación y calificación de la evaluación final se efectuará de acuerdo al calendario establecido por la Dirección General del COBATAB, debe abarcar el 100% de los contenidos de los programas de estudios y se aplica a todos los estudiantes del subsistema.
 
 ### Capítulo octavo. Cambio de plantel y duración del ciclo escolar
 
+> <small>(REFORMADO, P.O. 22 DE OCTUBRE DE 2011)</small>
+
 ###### Art. 33.
 
-Los alumnos dispondrán de un plazo de 15 días a partir de la fecha en que se inician oficialmente las clases de cada semestre, para solicitar cambios de plantel o de turno, transcurrido este tiempo no procederá solicitud alguna al respecto.
+Para las asignaturas de Orientación Educativa y Actividad Paraescolar, las calificaciones parciales se reportarán de la siguiente manera:
+
+A = Acreditada
+
+NA = No acreditada
+
+Sólo procede el No acreditada para los estudiantes que se dieron de baja temporal, baja definitiva o para el que tenga una cantidad de faltas mayor al 20 % de la asistencia en el periodo comprendido entre cada evaluación parcial.
 
 ###### Art. 34.
 
-El alumno que por cambio de plantel tenga la necesidad de cambiar su área de formación para el trabajo y/o serie; deberá solicitarlo por escrito a la dirección del plantel destino, quien realizará los trámites pertinentes ante la Dirección de Registro y Control Escolar para el análisis correspondiente.
+(DEROGADO, P.O. 22 DE OCTUBRE DE 2011)
 
 ###### Art. 35.
 
-Todos los alumnos del subsistema Colegio de Bachilleres de Tabasco, contarán con un plazo máximo de 9 períodos semestrales a partir de su primera inscripción para concluir sus estudios de bachillerato.
+(DEROGADO, P.O. 22 DE OCTUBRE DE 2011)
 
 ###### Art. 36.
 
@@ -262,13 +280,17 @@ Los alumnos que no terminen sus estudios en el plazo señalado en el artículo a
 
 Los alumnos que hayan interrumpido sus estudios por un semestre, sin haber obtenido su baja temporal por escrito, podrán reinscribirse si el plazo señalado en el artículo anterior no hubiere concluido, sujetándose al plan de estudio vigente en la fecha de su reingreso.
 
+> <small>(REFORMADO, P.O. 22 DE OCTUBRE DE 2011)</small>
+
 ###### Art. 38.
 
-El alumno que interrumpa sus estudios por dos semestres consecutivos sin haber obtenido su baja temporal por escrito, podrá continuar de acuerdo a lo establecido en el artículo anterior y con previa autorización de la Dirección de Registro y Control Escolar del Colegio de Bachilleres.
+Queda establecida la opción de recuperación en la unidad de nivelación académica (U.N.A.) y el Sistema de Enseñanza Abierta, en el caso de no acreditar la(s) materia(s) de acuerdo al Artículo 36 de este reglamento.
+
+> <small>(REFORMADO, P.O. 22 DE OCTUBRE DE 2011)</small>
 
 ###### Art. 39.
 
-Los alumnos en general podrán optar por el Sistema Abierto, si así conviene a sus intereses o condiciones. Debiendo continuar en ese Sistema hasta la acreditación de todas las asignaturas del plan vigente.
+El alumno que agotó sus posibilidades de regularización podrá solicitar a la dirección del plantel hasta tres asignaturas en cada semestre en examen especial por una sola vez, conforme a los lineamientos vigentes y establecidos por la Dirección de Registro y Control Escolar, examen que deberá ser elaborado y calificado por la Dirección Académica. En caso de reprobar alguna asignatura en examen especial causará baja del plantel teniendo como opción continuar sus estudios en el sistema de enseñanza abierta.
 
 ### Capítulo noveno. Estudios académicos
 
@@ -523,3 +545,9 @@ Si a la fecha y hora notificada no se presentara el inculpado acompañado del tu
 ###### Art. 70.
 
 El presente reglamento será dado a conocer a los alumnos, maestros, padres de familia y personal administrativo, en cada plantel del subsistema Colegio de Bachilleres de Tabasco para su conocimiento y fiel cumplimiento.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDO DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 22 DE OCTUBRE DE 2011.
+
+Único. Las reformas al Reglamento Escolar entrarán en vigor a partir del ciclo escolar 2011 B.
