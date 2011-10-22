@@ -4,7 +4,7 @@ identifier: "ZAC-estatuto-organico-del-instituto-de-seguridad-y-servicios-62275"
 country: "mx"
 rank: "estatuto"
 publication_date: "2008-07-19"
-last_updated: "2008-07-19"
+last_updated: "2011-10-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62275&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "ZAC"
 
 ESTATUTO ORGANICO DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO DE ZACATECAS
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DEL ESTATUTO ORGANICO DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO DE ZACATECAS, PUBLICADO EN EL SUPLEMENTO AL P.O. 22 DE OCTUBRE DE 2011, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Estatuto publicado en el Suplemento 3 del Periódico Oficial del Estado de Zacatecas, el sábado 19 de Julio de 2008.
 
@@ -834,3 +836,15 @@ SUBDIRECTOR DE SERVICIOS SOCIALES
 LIC. SERGIO DÍAZ DE LA TORRE
 
 SUBDIRECTOR DE FILIALES
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 22 DE OCTUBRE DE 2011.
+
+Primero.- El presente Estatuto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Zacatecas.
+
+Segundo.- Se abroga el Estatuto Orgánico del ISSSTEZAC, publicado en el suplemento número 58 del Periódico Oficial, Órgano del Gobierno del Estado de Zacatecas, correspondiente al día 19 de julio del año 2008.
+
+Tercero.- Los asuntos que se encuentren en trámite a cargo de otras áreas administrativas, que se modifiquen o cambien de adscripción, los resolverá la unidad administrativa que el presente Estatuto establezca.
+
+Cuarto.- Dentro del término de ciento veinte días hábiles, contados a partir de la entrada en vigor del presente Estatuto Orgánico, deberán expedirse y publicarse en el Periódico Oficial, Órgano del Gobierno del Estado, los Manuales correspondientes.
