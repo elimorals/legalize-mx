@@ -4,7 +4,7 @@ identifier: "TAB-ley-de-educacion-del-estado-de-tabasco-10929"
 country: "mx"
 rank: "ley"
 publication_date: "1997-02-26"
-last_updated: "2011-04-23"
+last_updated: "2011-10-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10929&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 LEY DE EDUCACION DEL ESTADO DE TABASCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE ABRIL DE 2011.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE OCTUBRE DE 2011.
 
 Ley publicada en el Periódico Oficial del Estado de Tabasco, el miércoles 26 de febrero de 1997.
 
@@ -744,6 +744,14 @@ Artículo 84 La educación especial tendrá como finalidad brindar atención psi
 Tratándose de menores de edad con discapacidades, esta educación propiciará su integración a los planteles de educación básica regular. Para quienes no logren la integración, se procurará la satisfacción de necesidades básicas de aprendizaje para la autónoma convivencia social y productiva, insertando sus propuestas en los consejos de participación social, mismos que generarán cambios sustanciales con miras a favorecer la educación y por ende, la calidad de vida de los educandos y de la comunidad en general.
 
 Esta educación incluye orientación a los padres o tutores, así como también a los docentes y personal de escuelas de educación básica regular, que integren a los alumnos con necesidades especiales de educación, a fin de lograr su participación activa y comprometida en el proceso educativo de los alumnos.
+
+> <small>(ADICIONADO, P.O. 22 DE OCTUBRE DE 2011)</small>
+
+Con el fin de detectar, estimular y proporcionar educación oportuna y de calidad óptima a los alumnos con capacidades y habilidades sobresalientes, la Secretaría de Educación del Estado atenderá y dará cumplimiento a los lineamientos y criterios establecidos por las instituciones que integran el sistema nacional de educación, para la evaluación diagnostica, los modelos pedagógicos y los mecanismos de acreditación y certificación en los niveles de educación básica, educación normal, así como media superior y superior en el ámbito de su competencia.
+
+> <small>(ADICIONADO, P.O. 22 DE OCTUBRE DE 2011)</small>
+
+Las instituciones de educación superior autónomas por Ley, podrán establecer convenios con las autoridades educativas federal y del estado, a fin de homologar criterios para la atención, la evaluación, la acreditación y la certificación dirigidos a los alumnos con capacidades y aptitudes sobresalientes.
 
 Artículo 85 Para cumplir con lo dispuesto en el artículo anterior, las autoridades educativas en el ámbito de sus respectivas competencias llevarán a cabo las actividades siguientes:
 
@@ -1484,3 +1492,9 @@ SEGUNDO.- El Gobernador del Estado deberá expedir, antes del inicio del ciclo e
 P.O. 23 DE ABRIL DE 2011.
 
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 22 DE OCTUBRE DE 2011.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan a este Decreto.
