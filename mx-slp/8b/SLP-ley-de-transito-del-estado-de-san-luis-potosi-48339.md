@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-transito-del-estado-de-san-luis-potosi-48339"
 country: "mx"
 rank: "ley"
 publication_date: "2005-12-24"
-last_updated: "2010-11-13"
+last_updated: "2011-10-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=48339&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE TRANSITO DEL ESTADO DE SAN LUIS POTOSI
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE NOVIEMBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE OCTUBRE DE 2011.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 24 de diciembre de 2005.
 
@@ -753,9 +753,11 @@ I. Todo vehículo de motor esté provisto permanentemente de un silenciador de e
 
 II. El motor de los vehículos no emita humo contaminante.
 
+> <small>(REFORMADO, P.O. 22 DE OCTUBRE DE 2011)</small>
+
 ###### ARTICULO 71.
 
-Los propietarios o poseedores de vehículos de propulsión mecánica, estarán obligados a presentarlos para la verificación de emisiones contaminantes, en los centros que para tal efecto autorice el ayuntamiento respectivo, en los periodos preestablecidos.
+Los propietarios o poseedores de vehículos de propulsión mecánica, estarán obligados a presentarlos para la verificación de emisiones contaminantes, en los centros que para tal efecto autorice el Ejecutivo, en los periodos preestablecidos.
 
 ###### ARTICULO 72.
 
@@ -1178,3 +1180,11 @@ P.O. 13 DE NOVIEMBRE DE 2010.
 PRIMERO. Este Decreto entrará en vigor al siguiente día de su publicación.
 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 22 DE OCTUBRE DE 2011.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. El Programa Estatal de Verificación Vehicular se expedirá a más tardar ciento veinte días después de la publicación del presente Decreto.
+
+TERCERO. Se derogan todas las disposiciones legales que se opongan a este Decreto.
