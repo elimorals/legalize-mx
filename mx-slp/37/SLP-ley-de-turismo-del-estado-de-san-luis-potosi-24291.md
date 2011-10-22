@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-turismo-del-estado-de-san-luis-potosi-24291"
 country: "mx"
 rank: "ley"
 publication_date: "2002-03-14"
-last_updated: "2002-03-14"
+last_updated: "2011-10-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=24291&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "SLP"
 
 LEY DE TURISMO DEL ESTADO DE SAN LUIS POTOSI
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE TURISMO DEL ESTADO DE SAN LUIS POTOSI, PUBLICADO EN LA EDICION EXTRAORDINARIA DEL P.O. 22 DE OCTUBRE DE 2011, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 14 de marzo de 2002.
 
@@ -766,3 +768,13 @@ El Secretario General de Gobierno
 LIC. JORGE DANIEL HERNANDEZ DELGADILLO
 
 (Rúbrica)
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 22 DE OCTUBRE DE 2011.
+
+PRIMERO. Esta Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se abroga la Ley de Turismo publicada en el Periódico Oficial del Estado el 14 de marzo del año 2002; así como todas aquellas disposiciones que se opongan a la presente Ley.
+
+TERCERO. El Ejecutivo del Estado expedirá el Reglamento de esta Ley, en un plazo no mayor a ciento ochenta días contados a partir de la entrada en vigor de la misma.
