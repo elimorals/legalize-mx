@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-obra-publica-del-estado-de-jalisco-38881"
 country: "mx"
 rank: "ley"
 publication_date: "2004-02-07"
-last_updated: "2008-12-09"
+last_updated: "2011-10-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=38881&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE OBRAS PUBLICAS DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE DICIEMBRE DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE OCTUBRE DE 2011.
 
 Ley publicada en el Periódico Oficial del Estado de Jalisco, el sábado 7 de febrero de 2004.
 
@@ -90,6 +90,16 @@ Cualquier persona puede promover y presentar a consideración de la Secretaría,
 Las controversias suscitadas con motivo de la aplicación e interpretación de esta ley o de los contratos celebrados con base en ella, deben resolverse por el Tribunal de lo Administrativo del Estado de Jalisco.
 
 Sin perjuicio de lo anterior, por acuerdo de las partes, las controversias pueden resolverse mediante arbitraje conforme a lo establecido en esta ley.
+
+> <small>(ADICIONADO, P.O. 22 DE OCTUBRE DE 2011)</small>
+
+###### Artículo 6 Bis.
+
+Se prohíbe que en las placas inaugurales o de identificación de las obras públicas y los servicios relacionados con las mismas, tanto estatales como municipales, se incluyan los nombres del Gobernador del Estado, presidentes municipales u otros funcionarios públicos.
+
+En dichas placas, deberá asentarse únicamente que las obras públicas y los servicios relacionados con las mismas fueron realizados por el gobierno en turno, con el esfuerzo del pueblo, y que se entregan para beneficio de éste en fecha determinada.
+
+Es obligación del Gobernador del Estado, los presidentes municipales y demás funcionarios públicos adoptar y vigilar el cumplimiento de lo dispuesto en el presente artículo; en caso contrario, se aplicará lo dispuesto por la Ley de Responsabilidades de los Servidores Públicos del Estado de Jalisco.
 
 ###### Artículo 7.
 
@@ -2374,3 +2384,7 @@ P.O. 9 DE DICIEMBRE DE 2008.
 PRIMERO. Se derogan todas las disposiciones contrarias al presente decreto.
 
 SEGUNDO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 22 DE OCTUBRE DE 2011.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
