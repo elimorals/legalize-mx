@@ -4,7 +4,7 @@ identifier: "AGU-reglamento-interior-de-la-secretaria-de-desarrollo-economico-54
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-03-19"
-last_updated: "2007-03-19"
+last_updated: "2011-10-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=54823&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 REGLAMENTO INTERIOR DE LA SECRETARIA DE DESARROLLO ECONOMICO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE OCTUBRE DE 2011.
 
 Reglamento publicado en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 19 de marzo de 2007.
 
@@ -49,7 +49,7 @@ Para el estudio y despacho de los asuntos que competen a la Secretaría de Desar
 
 I.- La Subsecretaría de la Micro, Pequeña y Mediana Empresa;
 
-II.-La Subsecretaría de Promoción y Servicios a la Industria y al Comercio Exterior;
+II.- La Subsecretaría de Promoción y Servicios a la Industria y al Comercio Exterior;
 
 III.- Dirección General de Promoción de Programas de Fomento;
 
@@ -57,7 +57,9 @@ IV.- Dirección General de Comercio Interior;
 
 V.- Dirección General de Mejora Regulatoria;
 
-VI.- Dirección General del Servicio Estatal del Empleo;
+> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2011)</small>
+
+VI.- Dirección General del Servicio Nacional de Empleo Aguascalientes;
 
 VII.- Dirección General de Proyectos e Infraestructura;
 
@@ -359,13 +361,19 @@ IX.- Promover el uso del formato único de apertura para la instalación, la ope
 
 X.- Las demás que le sean delegadas.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE OCTUBRE DE 2011)</small>
+
 ###### ARTICULO 17.
 
-Corresponde a la Dirección General del Servicio Estatal de Empleo:
+Corresponde a la Dirección General del Servicio Nacional de Empleo Aguascalientes:
 
-I.- Organizar el Servicio Estatal del Empleo;
+> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2011)</small>
 
-II.- Asegurar que el trato ofrecido a los usuarios del Servicio Estatal de Empleo sea de la más alta calidad, digna, humana y amable;
+I.- Organizar el Servicio Nacional de Empleo Aguascalientes;
+
+> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2011)</small>
+
+II.- Asegurar que el trato ofrecido a los usuarios del Servicio Nacional de Empleo Aguascalientes sea de la más alta calidad, digna, humana y amable;
 
 III.- Recabar y emitir información estadística a la Secretaría y al Servicio Nacional de Empleo;
 
@@ -373,7 +381,9 @@ IV.- Promover la actividad de la Dirección, hacia otras dependencias, instituci
 
 V.- Coordinar las reuniones del Sistema Estatal de Bolsas de Trabajo;
 
-VI.- Planear, Elaborar y difundir el Boletín Informativo del Servicio Estatal de Empleo;
+> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2011)</small>
+
+VI.- Planear, elaborar y difundir el Boletín Informativo del Servicio Nacional de Empleo Aguascalientes;
 
 VII.- Coordinar el Comité Ejecutivo del Empleo, encargado de la generación de estrategias o planes de impacto Estatal;
 
@@ -393,17 +403,25 @@ XIV.- Realizar talleres para desempleados t e - mas (sic) como documentación, p
 
 XV.- Promover el Programa de Becas para la Micro y Pequeña Empresa;
 
-XVI.- Manejar adecuadamente los recursos federales asignados al Servicio Estatal de Empleo;
+> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2011)</small>
 
-XVII.- Capacitar al personal del Servicio Estatal de Empleo en estrategias de desarrollo y crecimiento profesional, a fin de brindar una atención con calidad al público;
+XVI.- Manejar adecuadamente los recursos federales asignados (sic) Servicio Nacional de Empleo Aguascalientes;
+
+> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2011)</small>
+
+XVII.- Capacitar al personal del Servicio Nacional de Empleo Aguascalientes, en estrategias de desarrollo y crecimiento profesional, a fin de brindar una atención con calidad al público;
 
 XVIII.- Autorizar y vigilar los contratos laborales de los servidores públicos adscritos a la dependencia;
 
 XIX.- Dar solución a las diferentes contingencias que emanen de la propia operatividad de la dependencia;
 
-XX.- Vigilar la seguridad e integridad de los servidores públicos del Servicio Estatal de Empleo de Aguascalientes, así como las instalaciones y accesorio provistos para su operación; y
+> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2011)</small>
 
-XXI.- Representar al Servicio Estatal de Empleo de Aguascalientes en todas y cada una de las reuniones informativas, convocadas por el Servicio Estatal de Empleo y la Secretaría del Trabajo y Previsión Social.
+XX.- Vigilar la seguridad e integridad de los servidores públicos del Servicio Nacional de Empleo Aguascalientes, así como las instalaciones y accesorios provistos para su operación; y
+
+> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2011)</small>
+
+XXI.- Representar al Servicio Nacional de Empleo Aguascalientes en todas y cada una de las reuniones informativas, convocadas por el Servicio Nacional de Empleo Aguascalientes y la Secretaría del Trabajo y Previsión Social.
 
 #### SECCION II. De las Direcciones Generales Adscritas a la Subsecretaría de Promoción y Servicios a la Industria y al Comercio Exterior
 
@@ -690,3 +708,11 @@ SECRETARIO GENERAL DE GOBIERNO.
 Dr. Armando Jiménez San Vicente,
 
 SECRETARIO DE DESARROLLO ECONOMICO.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 24 DE OCTUBRE DE 2011.
+
+Primero.- Publíquese la presente reforma al Reglamento Interior de la Secretaría de Desarrollo Económico en el Periódico Oficial del Gobierno del Estado de Aguascalientes.
+
+Segundo.- La presente reforma entrará en vigor al siguiente día de su publicitación en el Periódico Oficial del Gobierno del Estado de Aguascalientes.
