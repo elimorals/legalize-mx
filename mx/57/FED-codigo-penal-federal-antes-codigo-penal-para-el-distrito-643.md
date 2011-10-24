@@ -4,7 +4,7 @@ identifier: "FED-codigo-penal-federal-antes-codigo-penal-para-el-distrito-643"
 country: "mx"
 rank: "codigo"
 publication_date: "1931-08-14"
-last_updated: "2011-06-08"
+last_updated: "2011-10-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=643&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1931-08-13"
 
 CODIGO PENAL FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 8 DE JUNIO DE 2011.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 24 DE OCTUBRE DE 2011.
 
 Código publicado en la Tercera Sección del Diario Oficial de la Federación, el viernes 14 de agosto de 1931.
 
@@ -3877,15 +3877,21 @@ Si el que entregue los insumos referidos, fuere el productor que los recibió de
 
 VI.- A los funcionarios o empleados de cualquiera entidad o dependencia pública que entreguen estos insumos a quienes no tengan derecho a recibirlos; o que indebidamente nieguen o retarden la entrega a quienes tienen derecho a recibirlos, se harán acreedores a las sanciones del artículo 253;
 
-> <small>(REFORMADA, D.O.F. 17 DE MAYO DE 1999)</small>
+> <small>(REFORMADA, D.O.F. 24 DE OCTUBRE DE 2011)</small>
 
-VII.- Al que sin derecho realice cualquier sustracción o alteración a equipos o instalaciones de la industria petrolera a que se refiere la Ley Reglamentaria del Artículo 27 Constitucional en el Ramo del Petróleo.
+VII.- Al que sin derecho y sin consentimiento de la persona que legalmente pueda autorizarlo, sustraiga o aproveche hidrocarburos o sus derivados, de los equipos o instalaciones de la industria petrolera a que se refiere la Ley Reglamentaria del Artículo 27 Constitucional en el Ramo del Petróleo, distintos a los previstos en la fracción IV del artículo 368 Quáter de este Código, cualquiera que sea su estado físico; o realice cualquier sustracción o alteración de dichos equipos o instalaciones.
 
-La sanción que corresponda se aumentará en una mitad cuando se realice en los ductos o sus instalaciones afectos a la industria petrolera o cuando el responsable sea o haya sido servidor público de dicha industria, y
+La sanción que corresponda se aumentará en una mitad cuando se realice en los ductos o sus instalaciones afectos a la industria petrolera o cuando el responsable sea o haya sido trabajador o servidor público de dicha industria.
 
-> <small>(ADICIONADA, D.O.F. 13 DE MAYO DE 1996)</small>
+> <small>(ADICIONADA, D.O.F. 24 DE OCTUBRE DE 2011)</small>
 
-VIII.- Al que sin derecho realice cualquier sustracción o alteración de equipos o instalaciones del servicio público de energía eléctrica.
+VIII.- A quien de manera dolosa altere los instrumentos de medición utilizados para enajenar o suministrar hidrocarburos refinados, procesados o sus derivados. En este caso la sanción que corresponda se aumentará hasta en una mitad cuando el responsable sea o haya sido trabajador o servidor público de la industria petrolera, y
+
+> <small>(REFORMADA, D.O.F. 24 DE OCTUBRE DE 2011)</small>
+
+IX.- Al que sin derecho realice cualquier sustracción o alteración de equipos o instalaciones del servicio público de energía eléctrica.
+
+Las penas que correspondan por los delitos previstos en este artículo, se aumentarán en una mitad más para el trabajador o servidor público que, con motivo de su trabajo, suministre información de las instalaciones, del equipo o de la operación de la industria que resulte útil o pueda auxiliar a la comisión de los delitos de referencia.
 
 > <small>(ADICIONADO, D.O.F. 10 DE MAYO DE 2011)</small>
 
@@ -4849,11 +4855,29 @@ ARTICULO 368 bis.- Se sancionará con pena de tres a diez años de prisión y ha
 
 ARTICULO 368 ter.- Al que comercialice en forma habitual objetos robados, a sabiendas de esta circunstancia y el valor intrínseco de aquéllos sea superior a quinientas veces el salario, se le sancionará con una pena de prisión de seis a trece años y de cien a mil días multa.
 
-> <small>(ADICIONADO, D.O.F. 17 DE MAYO DE 1999)</small>
+> <small>(REFORMADO, D.O.F. 24 DE OCTUBRE DE 2011)</small>
 
-ARTICULO 368 quáter.- Al que sustraiga o aproveche hidrocarburos o sus derivados, cualquiera que sea su estado físico, sin derecho y sin consentimiento de la persona que legalmente pueda autorizarlo, de los equipos o instalaciones de la industria petrolera a que se refiere la Ley Reglamentaria del Artículo 27 Constitucional en el Ramo del Petróleo, se le impondrán de tres a diez años de prisión y de quinientos a diez mil días multa.
+ARTICULO 368 quáter.- Se sancionará a quien:
 
-La sanción que corresponda se aumentará en una mitad cuando se realice en los ductos o sus instalaciones afectos a la industria petrolera o cuando el responsable sea o haya sido servidor público de dicha industria.
+I. Posea o resguarde de manera ilícita petróleo crudo o hidrocarburos refinados, procesados o sus derivados.
+
+Cuando la cantidad sea menor de 300 litros y hasta 300 litros, con pena de prisión de seis meses a dos años y de cien a quinientos días multa.
+
+Cuando la cantidad sea mayor de 300 litros pero menor de 1 000 litros, con pena de prisión de dos a cuatro años y de quinientos a mil días multa.
+
+En caso de que la cantidad sea igual o mayor a 1 000 litros, con pena de prisión de cuatro a diez años y de mil a doce mil días multa.
+
+No se aplicará la pena prevista en el segundo párrafo de esta fracción, siempre que se trate de la posesión de hidrocarburos refinados, procesados o sus derivados hasta por la cantidad de 300 litros, cuando el sujeto activo detente la posesión de estos productos con fines de consumo para actividades agropecuarias o pesqueras lícitas dentro de su comunidad.
+
+II. Enajene o suministre gasolinas o diesel con conocimiento de que está entregando una cantidad inferior desde 1.5 por ciento a la cantidad que aparezca registrada por los instrumentos de medición que se emplean para su enajenación o suministro con pena de prisión de tres a seis años y de quinientos a mil días multa.
+
+III. Enajene o suministre gas licuado de petróleo mediante estación de Gas L.P., para carburación, con conocimiento de que está entregando una cantidad inferior desde 3.0 por ciento a la cantidad que aparezca registrada por los instrumentos de medición que se emplean para su enajenación o suministro con una pena de prisión de tres a seis años y de quinientos a mil días multa.
+
+IV. Sustraiga o aproveche petróleo crudo o hidrocarburos refinados, procesados o sus derivados de ductos, equipos o instalaciones de Petróleos Mexicanos, sus organismos subsidiarios o empresas filiales con pena de prisión de ocho a doce años y de mil a doce mil días multa.
+
+Las sanciones que correspondan en este artículo se aumentarán hasta en una mitad cuando el responsable sea o haya sido trabajador o servidor público de la industria petrolera.
+
+Las penas que correspondan por los delitos previstos en este artículo, se aumentarán en una mitad más para el trabajador o servidor público que, con motivo de su trabajo, suministre información de las instalaciones, del equipo o de la operación de la industria que resulte útil o pueda auxiliar a la comisión de los delitos de referencia.
 
 > <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1981)</small>
 
@@ -6600,3 +6624,7 @@ CUARTO. Las resoluciones dictadas por la autoridad migratoria durante la vigenci
 D.O.F. 8 DE JUNIO DE 2011.
 
 Único.- El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 24 DE OCTUBRE DE 2011.
+
+Único. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
