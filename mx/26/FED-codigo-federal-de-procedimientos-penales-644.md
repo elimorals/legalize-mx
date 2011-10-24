@@ -4,7 +4,7 @@ identifier: "FED-codigo-federal-de-procedimientos-penales-644"
 country: "mx"
 rank: "codigo"
 publication_date: "1934-08-30"
-last_updated: "2011-05-25"
+last_updated: "2011-10-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=644&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1934-08-23"
 
 CODIGO FEDERAL DE PROCEDIMIENTOS PENALES
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 25 DE MAYO DE 2011.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 24 DE OCTUBRE DE 2011.
 
 Código publicado en la Sección Segunda del Diario Oficial de la Federación, el jueves 30 de agosto de 1934.
 
@@ -1929,11 +1929,11 @@ En los casos de aborto o de infanticidio, además de las diligencias mencionadas
 
 Tratándose del delito a que se refiere la fracción II del artículo 368 del Código Penal, cuando, sin previo contrato con una empresa de energía eléctrica, de gas, o de cualquier fluido, se encuentre conectada a una instalación particular a las tuberías o líneas de la empresa respectiva, o a cualquier tubería o líneas particulares conectadas a las tuberías o líneas de dicha empresa, en la inspección que se practique, con asistencia de peritos en la materia, se harán constar estas circunstancias y se recabará el dictamen pericial que las describa y además precise la naturaleza del fluido de que se trate y cuantifique, en lo posible, la cantidad de fluido que haya sido consumido mediante la conexión de que se trate.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 18 DE MAYO DE 1999)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 24 DE OCTUBRE DE 2011)</small>
 
 ###### ARTICULO 177.
 
-Para la comprobación de los delitos relacionados con la industria petrolera nacional y con el servicio público de energía eléctrica previstos en los artículos 185, 253 fracción I inciso i); 254 fracciones VII y VIII, 254 ter, 368 fracciones II y III del Código Penal Federal, se presumirá la propiedad federal, salvo prueba en contrario.
+Para la comprobación de los delitos relacionados con la industria petrolera nacional y con el servicio público de energía eléctrica previstos en los artículos 185; 253, fracción I, incisos i) y j); 254, fracciones VII y VIII; 254 Ter; 368, fracción II, y 368 Quáter, fracciones I y IV, del Código Penal Federal, se presumirá la propiedad federal, salvo prueba en contrario.
 
 > <small>(ADICIONADO, D.O.F. 13 DE MAYO DE 1996)</small>
 
@@ -1994,6 +1994,10 @@ Cuando se trate de plantíos de mariguana, papaver somniferum o adormidera, u ot
 > <small>(REFORMADO, D.O.F. 8 DE FEBRERO DE 1999)</small>
 
 Cuando se aseguren estupefacientes o psicotrópicos, el Ministerio Público acordará y vigilará su destrucción, si esta medida es procedente, previa la inspección de las sustancias, en la que se determinará la naturaleza, el peso y las demás características de éstas. Se conservará una muestra representativa suficiente para la elaboración de los dictámenes periciales que hayan de producirse en la averiguación previa o en el proceso, según el caso.
+
+> <small>(ADICIONADO, D.O.F. 24 DE OCTUBRE DE 2011)</small>
+
+Cuando se asegure petróleo crudo, hidrocarburos refinados, procesados o sus derivados, el Ministerio Público vigilará su aseguramiento y entrega sin dilación alguna a Petróleos Mexicanos o a sus organismos subsidiarios, para que proceda a su disposición final, previa inspección en la que se determinará la naturaleza, volumen y demás características de éstos; conservando muestras representativas para la elaboración de los dictámenes periciales que hayan de producirse en la averiguación previa y en proceso, según sea el caso.
 
 > <small>(ADICIONADO, D.O.F. 19 DE DICIEMBRE DE 2002)</small>
 
@@ -2443,15 +2447,15 @@ I. Del Código Penal Federal, los delitos siguientes:
 
 24) Tráfico de menores, previsto en el artículo 366 Ter;
 
-> <small>(REFORMADO, D.O.F. 18 DE JUNIO DE 2010)</small>
+> <small>(REFORMADO, D.O.F. 24 DE OCTUBRE DE 2011)</small>
 
-25) Robo calificado, previsto en el artículo 367 cuando se realice en cualquiera de las circunstancias señaladas en los artículos 372 y 381, fracciones VII, VIII, IX, X, XI, XIII, XV, XVI y XVII;
+25) Robo calificado, previsto en el artículo 367 cuando se realice en cualquiera de las circunstancias señaladas en los artículos 372 y 381, fracciones VII, VIII, IX, X, XI, XIII, XV, XVI y XVII, y el previsto en la fracción IV del artículo 368 Quáter;
 
 26) Robo calificado, previsto en el artículo 367, en relación con el 370 párrafos segundo y tercero, cuando se realice en cualquiera de las circunstancias señaladas en el artículo 381 Bis;
 
 27) Comercialización habitual de objetos robados, previsto en el artículo 368 Ter;
 
-28) Sustracción o aprovechamiento indebido de hidrocarburos o sus derivados, previsto en el artículo 368 Quáter, párrafo segundo;
+28) (DEROGADO, D.O.F. 24 DE OCTUBRE DE 2011)
 
 29) Robo, previsto en el artículo 371, párrafo último;
 
@@ -5676,3 +5680,7 @@ Las reformas a la Ley de Asociaciones Religiosas y Culto Público, a la Ley de I
 TERCERO. Las referencias que en otras leyes y demás disposiciones jurídicas se realicen a la Ley General de Población por lo que hace a cuestiones de carácter migratorio, se entenderán referidas a la Ley de Migración.
 
 CUARTO. Las resoluciones dictadas por la autoridad migratoria durante la vigencia de las disposiciones de la Ley General de Población que se derogan, surtirán sus plenos efectos jurídicos.
+
+D.O.F. 24 DE OCTUBRE DE 2011.
+
+Único. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
