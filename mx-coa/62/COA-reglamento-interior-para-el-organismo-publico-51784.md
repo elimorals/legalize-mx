@@ -4,7 +4,7 @@ identifier: "COA-reglamento-interior-para-el-organismo-publico-51784"
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-09-15"
-last_updated: "2010-08-10"
+last_updated: "2011-10-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51784&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 REGLAMENTO INTERIOR PARA EL ORGANISMO PUBLICO DESCENTRALIZADO DE LA ADMINISTRACION PUBLICA ESTATAL DENOMINADO "SERVICIOS DE SALUD DE COAHUILA"
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE AGOSTO DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE OCTUBRE DE 2011.
 
 Reglamento publicado en la Primera Sección del Periódico Oficial del Estado de Coahuila, el viernes 15 de septiembre de 2006.
 
@@ -645,9 +645,11 @@ XXVII.- Desempeñar las comisiones, representaciones y funciones que le confiera
 
 XXVIII.- Las demás que le confiera otras disposiciones aplicables, así como las que le asigne la Dirección General del Organismo o la Junta de Gobierno.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE OCTUBRE DE 2011)</small>
+
 ###### ARTÍCULO 27.
 
-Corresponde a los titulares de las Jurisdicciones Sanitarias, en el ámbito de su competencia, el ejercicio de las siguientes atribuciones y obligaciones:
+Corresponde a los Titulares de las Jurisdicciones Sanitarias, en el ámbito de su competencia, el ejercicio de las siguientes atribuciones y obligaciones:
 
 I. Ejecutar y conducir la ejecución de las actividades que les correspondan conforme al Modelo de Atención para la Población Abierta;
 
@@ -707,11 +709,15 @@ C).- Jurisdicción Sanitaria Número 3, ubicada en Sabinas, Coahuila, con compet
 
 D).- Jurisdicción Sanitaria Número 4, ubicada en Monclova, Coahuila, con competencia en los Municipios de Monclova, Frontera, Abasolo, San Buenaventura, Escobedo, Candela, Nadadores y Castaños;
 
-E).- Jurisdicción Sanitaria Número 5, ubicada en Cuatrociénegas, Coahuila, con competencia en los Municipios de Cuatrociénegas, Lamadrid, Sacramento, Ocampo y Sierra Mojada;
+> <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2011)</small>
+
+E).- Jurisdicción Sanitaria Número 5, ubicada en Cuatrociénegas, Coahuila, con competencia en los Municipios de Cuatrociénegas, Lamadrid, Sacramento y Ocampo con excepción de la localidad de Chulavista.
 
 F).- Jurisdicción Sanitaria Número 6, ubicada en Torreón, Coahuila, con competencia en los Municipios de Torreón, Matamoros y Viesca;
 
-G).- Jurisdicción Sanitaria Número 7, ubicada en Francisco l. Madero, Coahuila, con competencia en los Municipios de Francisco I. Madero y San Pedro;
+> <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2011)</small>
+
+G).- Jurisdicción Sanitaria Número 7, ubicada en Francisco I. Madero, Coahuila, con competencia en los Municipios de Francisco I. Madero, San Pedro, Sierra Mojada y la Localidad de Chulavista municipio de Ocampo.
 
 H).- Jurisdicción Sanitaria Número 8, ubicada en Saltillo, Coahuila, con competencia en los Municipios de Saltillo, General Cepeda, Arteaga, Ramos Arizpe y Parras de la Fuente;
 
@@ -960,3 +966,7 @@ REPRESENTANTE DE LA INICIATIVA PRIVADA ANTE LA JUNTA DE GOBIERNO
 P.O. 10 DE AGOSTO DE 2010.
 
 PRIMERO.- El presente reglamento entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 25 DE OCTUBRE DE 2011.
+
+UNICO.- El Presente reglamento entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
