@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-del-poder-judicial-del-estado-de-mexico-6086"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-09-08"
-last_updated: "2011-10-05"
+last_updated: "2011-10-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6086&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE MÉXICO
 
 > <small>N. DE E. DE CONFORMIDAD CON EL DECRETO NO. 4 PUBLICADO EN LA G.G. DE 30 DE SEPTIEMBRE DE 2009, EL SISTEMA PROCESAL PENAL ACUSATORIO ADVERSARIAL Y ORAL HA SIDO INCORPORADO EN EL PRESENTE ORDENAMIENTO, Y ENTRARÁ EN VIGOR EN LOS SIGUIENTES PLAZOS Y DISTRITOS: 1) EL PRIMERO DE OCTUBRE DE DOS MIL NUEVE, EN LOS DISTRITOS JUDICIALES DE TOLUCA, LERMA, TENANCINGO Y TENANGO DEL VALLE; 2) EL PRIMERO DE ABRIL DE DOS MIL DIEZ, EN LOS DISTRITOS JUDICIALES DE CHALCO, OTUMBA Y TEXCOCO; 3) EL PRIMERO DE OCTUBRE DE DOS MIL DIEZ, EN LOS DISTRITOS JUDICIALES DE NETZAHUALCÓYOTL, EL ORO, IXTLAHUACA, SULTEPEC Y TEMASCALTEPEC; 4) EL PRIMERO DE ABRIL DE DOS MIL ONCE, EN LOS DISTRITOS JUDICIALES DE TLALNEPANTLA, CUAUTITLÁN Y ZUMPANGO; 5) EL PRIMERO DE OCTUBRE DE DOS MIL ONCE, EN LOS DISTRITOS JUDICIALES DE ECATEPEC DE MORELOS, JILOTEPEC Y VALLE DE BRAVO.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 5 DE OCTUBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 26 DE OCTUBRE DE 2011.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el viernes 8 de septiembre de 1995.
 
@@ -75,9 +75,11 @@ IV. Los juzgados de cuantía menor; y
 
 V. Los servidores públicos de la administración de justicia, en los términos que establece esta ley, los códigos de procedimientos civiles y penales y demás disposiciones legales.
 
+> <small>(REFORMADO, G.G. 26 DE OCTUBRE DE 2011)</small>
+
 ###### Artículo 4.
 
-El tribunal y los juzgados señalados en el artículo anterior, tendrán la competencia que les determine esta ley, la de los fueros común y federal y demás ordenamientos legales aplicables.
+El tribunal y los juzgados señalados en el artículo anterior, tendrán la competencia que les determine esta ley, la de los fueros común y federal, las Leyes Generales y demás ordenamientos legales aplicables.
 
 ###### Artículo 5.
 
@@ -859,13 +861,13 @@ XXX. Crear, organizar, dirigir y administrar a los juzgados ejecutores de senten
 
 > <small>(ADICIONADA, G.G. 30 DE SEPTIEMBRE DE 2009)</small>
 
-XXXI. Expedir los reglamentos, normas y demás disposiciones de orden interno por las que habrán de regirse los jueces Ejecutores de Sentencias, así como vigilar su cumplimiento;
+XXXI. Expedir los reglamentos, normas y demás disposiciones de orden interno por las que habrán de regirse los Jueces Ejecutores de Sentencias, así como vigilar su cumplimiento;
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADA, G.G. 30 DE SEPTIEMBRE DE 2009)</small>
 
-XXXII. Vigilar que los jueces Ejecutores otorguen de oficio a los internos los beneficios o el tratamiento a que se hagan acreedores en los términos de Ley;
+XXXII. Vigilar que los Jueces Ejecutores otorguen de oficio a los internos los beneficios o el tratamiento a que se hagan acreedores en los términos de Ley;
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -1721,7 +1723,7 @@ Habrá jurisprudencia, cuando lo resuelto por una sala colegiada se sustente en 
 
 Cuando dos o más de las salas sustenten tesis contradictorias, el Pleno del Tribunal Superior de Justicia en un plazo no mayor de cien días contados a partir de la fecha en que fuera formulada la denuncia, deberá pronunciarse a favor de alguna de ellas o bien, establecer la que deba regir. La contradicción será resuelta por mayoría de votos de los magistrados.
 
-La tesis del Pleno del Tribunal Superior de Justicia que resuelva la contradicción, tendrá el carácter de jurisprudencia, conforme a lo dispuesto en el primer párrafo del artículo 139 de esta Ley.
+La tesis del Pleno del Tribunal Superior de Justicia que resuelva la contradicción, tendrá el carácter de jurisprudencia, conforme a lo dispuesto en el primer párrafo del artículo 139 de esta ley.
 
 > <small>(REFORMADO, P.O. 8 DE MAYO DE 2003)</small>
 
@@ -2838,3 +2840,13 @@ PRIMERO.- Publíquese este Decreto en el Periódico Oficial "Gaceta del Gobierno
 SEGUNDO.- Este Decreto entrará en vigor el día veintisiete de enero de dos mil doce.
 
 TERCERO.- La Legislatura local proveerá lo conducente en la asignación de recursos presupuéstales anuales a favor del Poder Judicial del Estado, a fin de que se cuente con los recursos humanos, materiales, y financieros para dar cumplimiento a este Decreto.
+
+G.G. 26 DE OCTUBRE DE 2011.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- La Secretaría de Salud del Estado implementará los centros especializados para el tratamiento, atención y rehabilitación de la farmacodependencia, en el término para tal efecto establecido por el párrafo tercero del Artículo Primero Transitorio, del Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley General de Salud, del Código Penal Federal y del Código Federal de Procedimientos Penales, publicado en el Diario Oficial de la Federación del 20 (sic) agosto de 2009.
+
+CUARTO.- El presente Decreto surtirá efectos para los sistemas procesales penales mixto y acusatorio, respectivamente, vigentes en el Estado de México.
