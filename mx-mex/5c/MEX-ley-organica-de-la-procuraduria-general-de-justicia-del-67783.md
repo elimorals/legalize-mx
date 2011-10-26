@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-de-la-procuraduria-general-de-justicia-del-67783"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2009-03-20"
-last_updated: "2011-03-18"
+last_updated: "2011-10-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=67783&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "MEX"
 ---
 # LEY ORGANICA DE LA PROCURADURIA GENERAL DE JUSTICIA DEL ESTADO DE MEXICO
 
-LEY ORGANICA DE LA PROCURADURIA GENERAL DE JUSTICIA DEL ESTADO DE MEXICO
+LEY ORGÁNICA DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO DE MÉXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 18 DE MARZO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 26 DE OCTUBRE DE 2011.
 
 Ley publicada en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el viernes 20 de marzo de 2009.
 
@@ -35,7 +35,7 @@ DECRETO NÚMERO 273
 
 LA H. "LVI" LEGISLATURA DEL ESTADO DE MÉXICO DECRETA:
 
-LEY ORGÁNICA DE LA PROCURADURIA GENERAL DE JUSTICIA DEL ESTADO DE MÉXICO
+LEY ORGÁNICA DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO DE MÉXICO
 
 ## TITULO PRIMERO. DISPOSICIONES GENERALES
 
@@ -48,6 +48,10 @@ La presente Ley es de orden público e interés general y tiene por objeto regul
 ###### ARTÍCULO 2.
 
 Esta Ley se aplicará por los delitos del orden común que sean competencia de las autoridades del Estado conforme a las reglas establecidas en el Código Penal.
+
+> <small>(ADICIONADO, G.G. 26 DE OCTUBRE DE 2011)</small>
+
+También será aplicable para los delitos contemplados en las Leyes Generales.
 
 ###### ARTÍCULO 3.
 
@@ -223,9 +227,37 @@ El Ministerio Público tendrá las atribuciones y obligaciones que le señalen l
 
 A. En la averiguación previa:
 
-I. Recibir las denuncias o querellas sobre hechos que puedan constituir delito de la competencia de los tribunales del fuero común en el Estado;
+> <small>(REFORMADA, G.G. 26 DE OCTUBRE DE 2011)</small>
 
-II. Hacer la clasificación legal de los hechos que le son denunciados con base en las constancias que se desprendan de la denuncia o de la averiguación previa, sin obligación de sujetarse o atender a la que hubieren hecho los denunciantes o querellantes;
+I. Recibir las denuncias o querellas sobre los hechos que puedan constituir delito de la competencia del fuero común.
+
+La presentación de denuncias y querellas podrá realizarse por medios electrónicos y sistemas de información, de conformidad con los acuerdos y demás disposiciones normativas que emita el Procurador.
+
+En los casos de denuncias con motivo de la pérdida o extravío de objetos o documentos, así como aquellos en que el denunciante requiera de constancia o certificación de la denuncia o querella, la Procuraduría emitirá vía electrónica la constancia o certificación correspondiente, la cual tendrá plena validez oficial y surtirá efectos legales ante cualquier autoridad administrativa, laboral o jurisdiccional, únicamente sobre la denuncia realizada, sin prejuzgar sobre la veracidad de los hechos asentados. Lo anterior, sin perjuicio de que el ciudadano pueda presentarse a ratificar la denuncia o querella ante el Ministerio Público;
+
+> <small>(REFORMADA, G.G. 26 DE OCTUBRE DE 2011)</small>
+
+II. Hacer la clasificación legal de los hechos que le sean denunciados.
+
+Los agentes del Ministerio Público, ante una denuncia de hechos, iniciarán la carpeta de investigación y realizarán las diligencias necesarias sin dilación alguna.
+
+En los casos de denuncia de hechos no constitutivos de delito y en los casos que a continuación se indican, el Ministerio Público podrá abstenerse de dar inicio a la carpeta de investigación:
+
+a) Cuando se trate de hechos respecto de los cuales el Código de Procedimientos Penales para el Estado de México permita la aplicación de algún criterio de oportunidad;
+
+b) Cuando los hechos puedan admitir algún mecanismo alternativo de solución de conflictos; y
+
+c) En los supuestos que, en su caso, determine el Procurador mediante disposiciones normativas, observando lo dispuesto en el Código de Procedimientos Penales para el Estado de México.
+
+De actualizarse alguno de los supuestos previstos en los incisos anteriores, los agentes del Ministerio Público levantarán acta circunstanciada de los hechos vertidos por el denunciante, a efecto de ponderar el inicio de la investigación.
+
+El acta circunstanciada deberá contener los datos personales del denunciante, la narración de los hechos, los motivos por los cuales se abstuvo de Iniciar la investigación correspondiente y, en su caso, el medio alternativo de solución de conflictos adoptado; ésta deberá ser autorizada por el superior jerárquico inmediato y, en su caso, notificada al denunciante o querellante o a la víctima u ofendido para los efectos legales conducentes.
+
+El Ministerio Público tendrá las atribuciones a que se refiere el aparrado A de este artículo, aún tratándose de actas circunstanciadas, así como las demás que le confieren otros ordenamientos legales, en la parte que corresponda.
+
+De no iniciar la investigación, los hechos denunciados se registrarán corno constancias de hechos o noticias criminales.
+
+Si por el contrario, de los datos aportado por el denunciante o querellante, así como de los datos recabados por el agente del Ministerio Público, se desprenda la probable comisión de un delito, el Ministerio Público elevará el acta circunstanciada a carpeta de investigación;
 
 III. Investigar los delitos de su competencia con todas las facultades que éste y otros ordenamientos jurídicos le otorguen. Para ello se auxiliará de la Policía Ministerial y de los Servicios Periciales y, en su caso, de los demás órganos y autoridades que prevea la ley;
 
@@ -339,6 +371,28 @@ XVI. Administrar y disponer de los fondos propios que le asigne o faculte la ley
 
 XVII. Las demás que le señalen éste y otros ordenamientos.
 
+> <small>(ADICIONADO, G.G. 26 DE OCTUBRE DE 2011)</small>
+
+D. En materia de investigación y persecución de los delitos de narcomenudeo a que se refiere el Capítulo VII del Título Décimo Octavo de la Ley General de Salud:
+
+I. Investigar los delitos contra la salud, en su modalidad de narcomenudeo, en los casos de su competencia, conforme a lo dispuesto por el artículo 474 de la Ley General de Salud, y ejercer todas las atribuciones que le correspondan, en los términos de lo dispuesto por el ordenamiento citado, el Código de Procedimientos Penales para el Estado de México y demás disposiciones aplicables;
+
+II. Turnar al Ministerio Público de la Federación las investigaciones que sean de su competencia, en términos del segundo párrafo del artículo 474 de la Ley General de Salud. En estos casos, el Ministerio Público del fuero común podrá practicar las diligencias inmediatas que correspondan, debiendo remitir al Ministerio Público de la Federación, dentro de los tres días de haberlas concluido, el acta o actas levantadas y todo lo que con ellas se relacione; pero si hubiese detenidos, la remisión se hará sin demora y se observarán las disposiciones relativas a la retención ministerial por flagrancia.
+
+Si se advierte la incompetencia, remitirá el expediente al Ministerio Público de la Federación que corresponda a fin de que se continúe el procedimiento, para lo cual las diligencias desahogadas hasta ese momento gozarán de plena validez;
+
+III. Determinar el no ejercicio de la acción penal conforme a la legislación aplicable.
+
+Cuando el no ejercicio de la acción penal sea determinado de conformidad con lo dispuesto por el artículo 478 de la Ley General de Salud, el Ministerio Público deberá informar al consumidor o farmacodependiente !a ubicación de las instituciones o centros para el tratamiento médico o de orientación para la prevención de la farmacodependencia. Asimismo, deberá realizar un reporte del no ejercicio de la acción penal a la autoridad sanitaria local, con el propósito de que ésta promueva la correspondiente orientación médica o de prevención.
+
+Al tercer reporte del Ministerio Público, el tratamiento del consumidor o farmacodependiente será obligatorio;
+
+IV. Informar al Ministerio Público de la Federación del inicio de las investigaciones por delitos contra la salud en su modalidad de narcomenudeo, previstos en el Capítulo VII del Título Décimo Octavo de la Ley General de Salud, cuya competencia sea local en términos del artículo 474 de dicha Ley, a efecto de que la autoridad federal cuente con los elementos necesarios para, en su caso, solicitar la remisión de la investigación. En estos casos, las diligencias desahogadas hasta ese momento por el Ministerio Público del Estado de México gozarán de plena validez;
+
+V. Ejecutar las técnicas de investigación que establece el artículo 180 Bis del Código Federal de Procedimientos Penales en los casos de los delitos previstos en el Capítulo VII del Título Décimo Octavo de la Ley General de Salud, cuya competencia sea local, en los términos del artículo 474 del mismo ordenamiento, conforme a las bases que acuerde el Titular de la Institución con las autoridades federales competentes; y
+
+VI. Las demás que establezcan las normas aplicables.
+
 ### CAPITULO IV. Aplicación de la ley
 
 ###### ARTÍCULO 11.
@@ -352,6 +406,14 @@ SUPLETORIEDAD: En todo lo que no se encuentre expresamente regulado en la presen
 ###### ARTÍCULO 13.
 
 VALOR DE LOS APOSTILLADOS: Las apostillas, brevetes o epígrafes que se encuentren colocados al inicio de cada disposición contenida en la presente ley, tendrán efectos, solamente para facilitar la consulta y la fácil localización de sus preceptos, por lo que si llegare a existir contradicción entre los rubros y sus contenidos deberán prevalecer estos últimos.
+
+> <small>(ADICIONADO, G.G. 26 DE OCTUBRE DE 2011)</small>
+
+###### ARTÍCULO 13 Bis.
+
+El Instituto de Servicios Periciales únicamente expedirá certificados de antecedentes penales en los casos en que las leyes lo exijan como forma para acreditar requisitos para el desempeño de empleos, cargos o comisiones en el servicio público, en instituciones de seguridad u otros que las propias leyes establezcan, o bien, cuando sea requerido, de manera fundada y motivada, por las autoridades judiciales o administrativas competentes.
+
+La Procuraduría establecerá un sistema informático por el que los interesados podrán solicitar se les informe si tienen o no registros de antecedentes penales, en los términos que establezcan los acuerdos que emita el Procurador para tal efecto.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 18 DE MARZO DE 2011)</small>
 
@@ -835,57 +897,21 @@ SUPLENCIA DE OTROS FUNCIONARIOS: Los demás funcionarios de la Procuraduría ser
 
 ## TITULO CUARTO
 
-### CAPITULO ÚNICO. Del Instituto de Prevención del Delito del Estado de México
+> <small>(REFORMADA SU DENOMINACIÓN, G.G. 26 DE OCTUBRE DE 2011)</small>
+
+### CAPITULO ÚNICO. De la Prevención del Delito en el Estado de México
+
+> <small>(REFORMADO, G.G. 26 DE OCTUBRE DE 2011)</small>
 
 ###### ARTÍCULO 48.
 
-El Instituto de Prevención del Delito del Estado de México, es un órgano administrativo desconcentrado, por función, de la Procuraduría, jerárquicamente subordinado a ella, con las facultades específicas que se determinen en esta ley y en su reglamento.
+La Procuraduría se coordinará con las instancias que integran el Sistema Estatal de Seguridad Pública para ejecutar programas, campañas y acciones en materia de política criminal y medidas preventivas que deban adoptarse a corto, mediano y largo plazo, con énfasis en la promoción de una cultura de respeto a la legalidad.
 
-La organización y funcionamiento del Instituto de Prevención del Delito del Estado de México se determinará en su reglamento interior y en las demás disposiciones aplicables.
-
-El Director General del Instituto de Prevención del Delito del Estado de México, para el ejercicio de sus funciones, se auxiliará de las unidades administrativas que se determinen en el reglamento interior y conforme a la disponibilidad presupuestal.
+> <small>(REFORMADO, G.G. 26 DE OCTUBRE DE 2011)</small>
 
 ###### ARTÍCULO 49.
 
-Son facultades y obligaciones del Director General del Instituto de Prevención del Delito, las siguientes:
-
-A. Facultades:
-
-I. Formular y ejecutar programas y campañas de prevención de conductas ilícitas, particularmente fomentar las de prevención primaria con los sectores educativo y de salud, así como evaluar sus resultados de acuerdo con lo establecido en el reglamento del instituto;
-
-II. Proponer la suscripción de convenios de coordinación o colaboración con autoridades federales, estatales, municipales, organismos públicos o sociales, nacionales, extranjeros o internacionales e instituciones académicas en materia de prevención del delito;
-
-III. Promover la coordinación con dependencias federales, de las entidades federativas y municipales, para ampliar y facilitar el acceso de la comunidad a los servicios requeridos en el ámbito local, dentro de la competencia de la Procuraduría;
-
-IV. Diseñar programas de vinculación del Ministerio Público y de la Policía Ministerial con la sociedad, en materia de prevención del delito;
-
-V. Formular y proponer al Procurador la política criminal del Estado y las medidas que deban adoptarse a corto, mediano y largo plazo, con énfasis en la promoción de una cultura de respeto a la legalidad;
-
-VI. Realizar foros de consulta social y participar en el sistema de evaluación interinstitucional;
-
-VII. Realizar estudios sobre las causas que producen las conductas antisociales y sus impactos en los ámbitos personal, familiar, escolar, comunitario, social y estatal, para lo cual podrá coordinarse con instituciones públicas, privadas o sociales que persigan propósitos afines;
-
-VIII. Brindar asesoría técnica a las diversas instancias de la administración pública, ayuntamientos, organizaciones no gubernamentales, sociedad civil organizada, en materia de programas de prevención del delito;
-
-IX. Diseñar un sistema de coordinación interdisciplinario de información entre las instituciones encargadas de la prevención del delito y las autoridades de seguridad pública en el Estado, que contribuya a generar información técnica, táctica y estratégica sobre el fenómeno delictivo y sus formas de combate y prevención;
-
-X. Promover acciones específicas de prevención del delito e involucrar en esta tarea al sector educativo, a las autoridades de salud, a universidades públicas y privadas, sindicatos de trabajadores, agrupaciones empresariales y de comerciantes, sociedades de padres de familia, organizaciones no gubernamentales y sociedad civil organizada; y
-
-XI. Las demás que establezca el reglamento de esta ley y otras disposiciones jurídicas aplicables.
-
-B. Obligaciones:
-
-I. Coordinar el Consejo Estatal para la Prevención del Delito, en el que deberán participar representantes de las autoridades educativas, de salud, de desarrollo social y de los sectores representativos de la sociedad mexiquense;
-
-II. Establecer y coordinar los Comités de Prevención del Delito y demás mecanismos para la recepción de información ciudadana sobre la posible comisión de los delitos;
-
-III. Establecer módulos de atención a detenidos que se encuentren a disposición del Ministerio Público o en las instalaciones de la institución, vigilando el respeto irrestricto de sus derechos humanos;
-
-IV. Opinar, cuando sea solicitado, sobre los factores criminógenos que deben ser considerados al autorizar nuevos asentamientos humanos, giros comerciales o de servicios;
-
-V. Organizar, con la participación de la sociedad civil, el sector educativo, sindicatos de trabajadores y asociaciones empresariales, entre otros, campañas permanentes de prevención del delito, particularmente, para evitar la violencia intrafamiliar, los actos de abuso sexual en escuelas y centros de trabajo, el consumo de drogas y promover el cuidado del patrimonio familiar; y
-
-VI. Las demás que establezcan las disposiciones legales y reglamentarias.
+La Procuraduría coadyuvará en las acciones que determine el Centro de Prevención del Delito del Estado en el ámbito de su competencia.
 
 ## TITULO QUINTO
 
@@ -947,149 +973,85 @@ V. Las demás establecidas en este ordenamiento y en el reglamento interior del 
 
 ## TITULO SEXTO
 
-### CAPITULO ÚNICO. Del Instituto de Formación Profesional y Capacitación
+> <small>(REFORMADA SU DENOMINACIÓN, G.G. 26 DE OCTUBRE DE 2011)</small>
+
+### CAPITULO ÚNICO. De la Formación Profesional y Capacitación
+
+> <small>(REFORMADO, G.G. 26 DE OCTUBRE DE 2011)</small>
 
 ###### ARTÍCULO 53.
 
-NATURALEZA JURIDICA: El Instituto de Formación Profesional y Capacitación es un órgano administrativo desconcentrado por función de la Procuraduría, jerárquicamente subordinado a ella, con las facultades específicas que se determinen en esta ley y en su reglamento.
+La formación, capacitación, adiestramiento y profesionalización de los servidores públicos de la Procuraduría será impartida por la instancia de profesionalización competente en el Estado de México.
+
+> <small>(REFORMADO, G.G. 26 DE OCTUBRE DE 2011)</small>
 
 ###### ARTÍCULO 54.
 
-DIRECTOR: El Instituto estará a cargo de un Director General designado por el Gobernador a propuesta del Procurador, de una terna de las instituciones de educación superior del Estado, en los términos que señale el reglamento, quien tendrá las facultades y obligaciones siguientes:
-
-a) Facultades:
-
-I. Proponer, operar y controlar los métodos y sistemas de reclutamiento, selección y evaluación, como única instancia de ingreso a la institución;
-
-II. Elaborar y proponer al Procurador la celebración de convenios con organismos e Instituciones nacionales o extranjeras, públicas o privadas, relativos al intercambio y asesoría que se requiera para la capacitación de los servidores públicos de la institución;
-
-III. Vigilar y eficientar la aplicación de los planes y programas que correspondan a sus atribuciones; y
-
-IV. Las demás que le confiera la ley y reglamentos.
-
-b) Obligaciones:
-
-I. Intervenir en el sistema integral de evaluación de los servidores públicos de la Institución, con el objeto de obtener la información necesaria para su formación y evaluación, así como coadyuvar con las demás áreas competentes en la promoción, mediante la evaluación académica;
-
-II. Elaborar y desarrollar los programas de formación, actualización y especialización de los Agentes del Ministerio Público, Secretarios, de los elementos de la Policía Ministerial, de los Peritos y otros servidores públicos que disponga el Procurador, de acuerdo con lo dispuesto por el Servicio Civil de Carrera y de conformidad con los principios que señala la Ley General que Establece las Bases de Coordinación del Sistema Nacional de Seguridad Pública y los reglamentos aplicables;
-
-III. Observar, aplicar y eficientar el Servicio Civil de Carrera; y
-
-IV. Las demás que se señalen en la presente ley, su reglamento y otras disposiciones legales.
+La instancia de profesionalización competente en el Estado de México, emitirá la constancia del desempeño para los efectos de la certificación de los servidores públicos.
 
 ## TITULO SÉPTIMO
 
-### CAPITULO ÚNICO. Del Servicio Civil de Carrera
+> <small>(REFORMADA SU DENOMINACIÓN, G.G. 26 DE OCTUBRE DE 2011)</small>
+
+### CAPITULO ÚNICO. Del Servicio de Carrera
+
+> <small>(REFORMADO, G.G. 26 DE OCTUBRE DE 2011)</small>
 
 ###### ARTÍCULO 55.
 
-El Servicio Civil de Carrera de la Procuraduría comprende el relativo a Agente del Ministerio Público, a Secretario del Ministerio Público y Perito, así como el de carrera de Agente de la Policía Ministerial del Estado de México y se sujetará a las disposiciones siguientes:
-
-I. Constituye el elemento básico para el ingreso, promoción, permanencia y formación de los integrantes de la Institución, Agentes del Ministerio Público, Secretarios del Ministerio Público, Policía Ministerial y Peritos;
-
-II. Tendrá carácter obligatorio y permanente;
-
-III. Se regirá por los principios y criterios de equidad, igualdad de oportunidades, méritos y capacidad;
-
-IV. En su instrumentación y desarrollo deberán observarse los principios de excelencia, objetividad, profesionalismo, imparcialidad, legalidad, eficiencia y honradez, así como de antigüedad, en su caso;
-
-V. Comprenderá los requisitos y procedimientos de selección, ingreso, formación, capacitación, adiestramiento, desarrollo, actualización, permanencia, promoción, reconocimiento y separación del servicio público, así como su evaluación;
-
-VI. Desarrollará su organización observándose lo dispuesto en la ley General que Establece las Bases de Coordinación del Sistema Nacional de Seguridad Pública y demás disposiciones legales aplicables, así como en los convenios, acuerdos o resoluciones, que en su caso se celebren y tomen con fundamento en las leyes;
-
-VII. Establecerá los programas, impartirá los cursos y realizará los exámenes y concursos correspondientes a las etapas a que se refiere la fracción V de este artículo, por sí o con la coadyuvancia de instituciones públicas o privadas, bajo la dirección del Procurador o del servidor público en quien delegue esta facultad;
-
-VIII. El contenido teórico y práctico de los programas de formación, en todos sus niveles, deberá fomentar el efectivo aprendizaje y el pleno desarrollo de los conocimientos y habilidades necesarios para un desempeño profesional;
-
-IX. En la formación de los servidores públicos deberá promoverse la observancia de las disposiciones constitucionales y legales que rigen la actuación del Ministerio Público, fomentando el respeto irrestricto a los derechos humanos, la honestidad, eficiencia y la plena conciencia sobre el efecto social de la responsabilidad; y
-
-X. Promoverá la celebración de convenios de colaboración con la Federación, los Estados, los Municipios, el Gobierno del Distrito Federal y otras autoridades que concurran en el Sistema Nacional de Seguridad Pública, tendientes a la profesionalización del Ministerio Público, de sus Secretarios, Policía Ministerial y Peritos.
+Para los efectos del servicio de carrera, se aplicará lo establecido en la Ley General del Sistema Nacional de Seguridad Pública y en la Ley de Seguridad del Estado de México.
 
 ###### ARTÍCULO 56.
 
-Los Agentes del Ministerio Público, sus Secretarios, los Agentes de la Policía Ministerial y Peritos del Servicio Civil de Carrera, al ingresar a la Institución, serán nombrados por el tiempo de hasta dos años, al término del cual serán sometidos a una nueva evaluación y en su caso de resultar satisfactoria, se les expedirá el nombramiento definitivo.
+(DEROGADO, G.G. 26 DE OCTUBRE DE 2011)
 
 ###### ARTÍCULO 57.
 
-Tratándose de personas con experiencia profesional, el Procurador podrá, en casos excepcionales, designar Agentes del Ministerio Público, sus Secretarios, Agentes de la Policía Ministerial o Peritos, dispensando la presentación de los concursos de ingreso. Dichas personas deberán estar en pleno ejercicio de sus derechos y satisfacer en su caso, los requisitos exigidos por la ley y las disposiciones reglamentarias, con excepción de los relativos a la acreditación de los concursos de ingreso. Las personas designadas en los términos de este artículo no serán miembros del Servicio Civil de Carrera, a menos que acrediten los concursos y evaluaciones que se les practiquen, en los términos de las disposiciones aplicables.
-
-En cualquier momento, el Procurador podrá dar por terminados los efectos del nombramiento de las personas designadas por este artículo.
+(DEROGADO, G.G. 26 DE OCTUBRE DE 2011)
 
 ###### ARTÍCULO 58.
 
-Previo al ingreso de toda persona al Servicio Civil de Carrera de la Procuraduría, será obligatorio que la autoridad competente realice la consulta respectiva al Registro Nacional del Personal de Seguridad Pública, en los términos previstos en la Ley General que Establece las Bases de Coordinación del Sistema Nacional de Seguridad Pública.
+(DEROGADO, G.G. 26 DE OCTUBRE DE 2011)
 
 ###### ARTÍCULO 59.
 
-Para permanecer en el Servicio Civil de Carrera de la Procuraduría, como Agente del Ministerio Público, Secretario del Ministerio Público, Agente de la Policía Ministerial o Perito, los interesados deberán participar en los programas de control de confianza, formación profesional y en los concursos de promoción a que se convoquen.
-
-Esta obligación también corresponde a los servidores públicos designados en los términos del artículo 55 de esta ley, con excepción de la participación en los concursos de promoción, que será potestativa.
+(DEROGADO, G.G. 26 DE OCTUBRE DE 2011)
 
 ###### ARTÍCULO 60.
 
-El Consejo Técnico del Servicio Civil de Carrera, como órgano de la procuraduría responsable del desarrollo y operación del propio servicio, tendrá las facultades que establezca esta ley, su reglamento y los acuerdos que dicte el Procurador.
+(DEROGADO, G.G. 26 DE OCTUBRE DE 2011)
 
 ###### ARTÍCULO 61.
 
-El Consejo Técnico del Servicio Civil de Carrera, constituye la instancia normativa de supervisión control y evaluación de la operación del propio Servicio y se integrará por:
-
-I. El Procurador;
-
-II .El Subprocurador General;
-
-III. El Director General del Instituto de Formación Profesional y Capacitación;
-
-IV. Dos Agentes del Ministerio Público, dos Agentes de la Policía Ministerial y dos Peritos todos de reconocido prestigio profesional, buena reputación y desempeño excelente en la Institución, designados por el Procurador; y
-
-V. Los demás funcionarios que en su caso, determine el reglamento o el Procurador por acuerdo expreso.
+(DEROGADO, G.G. 26 DE OCTUBRE DE 2011)
 
 ###### ARTÍCULO 62.
 
-El Consejo Técnico del Servicio Civil de Carrera contará con Consejos Regionales que lo auxiliarán en la ejecución de las normas del propio servicio, cuyo funcionamiento se determinará en el reglamento de esta ley.
+(DEROGADO, G.G. 26 DE OCTUBRE DE 2011)
 
 ###### ARTÍCULO 63.
 
-Las disposiciones sobre el Servicio Civil de Carrera de la Procuraduría deberán:
-
-I. Determinar, en su caso, categorías de servidores públicos a fin de ser considerados para el acceso a las categorías básicas de Agentes de Ministerio Público, Secretarios del Ministerio Público, Policías Ministeriales y Peritos, por medio de concurso de ingreso;
-
-II. Determinar, en su caso, categorías de los servidores públicos señalados en la fracción anterior, en función de su especialización, responsabilidad asignada, años mínimos de ejercicio profesional y otros criterios que permitan establecerlas;
-
-III. Establecer mecanismos que, previamente a la sustentación del concurso de ingreso o de promoción, permitan seleccionar a los aspirantes más aptos por plaza;
-
-IV. Regular las características del concurso de ingreso o de promoción con exámenes prácticos, escritos u orales;
-
-V. Determinar la integración de los órganos responsables de la preparación y sustentación de los concursos correspondientes;
-
-VI. Expedir las reglas sobre contenidos de convocatorias, características del concurso de ingreso o promoción, determinación de calificaciones y demás necesarias; y
-
-VII. Establecer los criterios de evaluación curricular y en particular de los cursos desarrollados por el sustentante, su desempeño y grado académico.
+(DEROGADO, G.G. 26 DE OCTUBRE DE 2011)
 
 ###### ARTÍCULO 64.
 
-Las categorías superiores de Agente del Ministerio Público, Secretario del Ministerio Público del Servicio Civil de Carrera, de Policía Ministerial y Perito, serán determinadas en el reglamento de esta ley o por acuerdo del Procurador.
+(DEROGADO, G.G. 26 DE OCTUBRE DE 2011)
 
 ###### ARTÍCULO 65.
 
-El ingreso y promoción para la categoría superior a que se refiere el artículo anterior, se realizará a través de concurso interno de oposición o de oposición libre, en el porcentaje que determine el Consejo Técnico del Servicio Civil de Carrera.
-
-En los concursos internos de oposición para las categorías superiores de Agente de Ministerio Público, Secretario del Ministerio Público, Policía Ministerial y perito, únicamente podrán participar los servidores públicos de la categoría inmediata inferior, y para acceder a ésta por la misma vía, sólo podrán hacerlo los de nivel inmediato anterior.
+(DEROGADO, G.G. 26 DE OCTUBRE DE 2011)
 
 ###### ARTÍCULO 66.
 
-Para el ingreso a la categoría básica de Agente del Ministerio Público, se realizará concurso de ingreso por oposición interna o libre. Al primero sólo tendrán acceso los Secretarios del Ministerio Público.
+(DEROGADO, G.G. 26 DE OCTUBRE DE 2011)
 
 ###### ARTÍCULO 67.
 
-Los niveles de los Agentes de la Policía Ministerial se determinarán en el reglamento de esta ley, atendiendo a su especialización, responsabilidad asignada y otros criterios que permitan establecerlas.
-
-Para el ingreso al nivel básico de Agente de la Policía Ministerial, se realizará concurso de ingreso con las características que determinen las disposiciones aplicables.
+(DEROGADO, G.G. 26 DE OCTUBRE DE 2011)
 
 ###### ARTÍCULO 68.
 
-Las categorías de Peritos se determinarán en el reglamento de esta ley, por materia y dentro de ellas se establecerán los rangos, atendiendo a la especialización, años mínimos de práctica, grado académico en la disciplina de que se trate y otros criterios que permitan establecerlos. El rango básico de cada categoría se identificará con la primera letra del alfabeto.
-
-Para el ingreso al rango básico de cada categoría se realizará concurso de ingreso, con las características que determinen las disposiciones aplicables.
+(DEROGADO, G.G. 26 DE OCTUBRE DE 2011)
 
 ## TRANSITORIOS
 
@@ -1125,7 +1087,7 @@ DR. VICTOR HUMBERTO BENITEZ TREVIÑO
 
 (RUBRICA).
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS DEL PRESENTE ORDENAMIENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS DEL PRESENTE ORDENAMIENTO.</small>
 
 G.G. 18 DE MARZO DE 2011.
 
@@ -1144,3 +1106,35 @@ QUINTO.- El Consejo de la Judicatura del Estado deberá proveer respecto de la c
 SEXTO.- El Procurador General de Justicia del Estado de México, deberá expedir el acuerdo a que se refiere la fracción XXV del artículo 51 de la Ley de Acceso de las Mujeres a una Vida Libre de Violencia del Estado de México, en un plazo máximo de quince días, contados a partir de la publicación del presente Decreto.
 
 SÉPTIMO.- La Procuraduría General de Justicia del Estado de México, emitirá en un plazo no mayor de 60 días naturales siguientes a la vigencia, los protocolos de investigación mínimos para la comprobación de los nuevos delitos tipificados del presente decreto.
+
+G.G. 26 DE OCTUBRE DE 2011.
+
+DECRETO NUMERO 361 POR EL QUE SE REFORMAN LOS ARTÍCULOS 10, APARTADO A, EN SUS FRACCIONES I Y II; LA DENOMINACIÓN DEL CAPÍTULO ÚNICO DEL TÍTULO CUARTO; 48; 49; LA DENOMINACIÓN DEL CAPÍTULO ÚNICO DEL TITULO SEXTO; 53; 54; LA DENOMINACIÓN DEL CAPÍTULO ÚNICO DEL TÍTULO SÉPTIMO Y 55; SE ADICIONA EL ARTÍCULO 13 BIS Y SE DEROGAN LOS ARTÍCULOS 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67 Y 68 DE LA LEY ORGÁNICA DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO DE MÉXICO.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- El Procurador General de Justicia del Estado de México, dentro del plazo de seis meses siguientes a la entrada en vigor de este Decreto, deberá expedir el acuerdo respectivo para la recepción de denuncias y querellas a través de los medios electrónicos y sistemas de información, así como tramitar la firma electrónica de los servidores públicos y sello electrónico que establece la Ley para el Uso de Medios Electrónicos del Estado de México.
+
+CUARTO." Se deroga el artículo 77 de la Ley que Crea el Instituto de Servicios Periciales del Estado de México.
+
+El Procurador expedirá el acuerdo por el que se establezca el sistema informático de consulta de antecedentes penales a que se refiere el artículo 13 bis de esta Ley, dentro de los seis meses siguientes a la entrada en vigor del presente Decreto.
+
+QUINTO.- El Instituto de Prevención del Delito del Estado de México, dependiente de la Procuraduría General de Justicia del Estado de México, seguirá operando con las atribuciones establecidas, hasta que entre en operación el Centro Estatal de Prevención del Delito a que se refiere la Ley de Seguridad del Estado de México.
+
+SEXTO.- El Instituto de Formación profesional y capacitación dependiente de la Procuraduría General de Justicia del Estado de México, seguirá operando con las atribuciones establecidas, hasta que entre en operación la instancia estatal de profesionalización de las instituciones de seguridad ciudadana.
+
+SÉPTIMO.- Los procedimientos de separación y remoción que se encuentren en curso o trámite a la fecha de entrada en vigor de este Decreto, se concluirán de conformidad con las disposiciones vigentes al momento de su inicio.
+
+G.G. 26 DE OCTUBRE DE 2011.
+
+DECRETO NÚMERO 363 POR EL QUE SE ADICIONAN UN SEGUNDO PÁRRAFO AL ARTÍCULO 2 Y UN APARTADO D AL ARTÍCULO 10 DE LA LEY ORGÁNICA DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO DE MÉXICO.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- La Secretaría de Salud del Estado implementará los centros especializados para el tratamiento, atención y rehabilitación de la farmacodependencia, en el término para tal efecto establecido por el párrafo tercero del Artículo Primero Transitorio, del Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley General de Salud, del Código Penal Federal y del Código Federal de Procedimientos Penales, publicado en el Diario Oficial de la Federación del 20 agosto de 2009.
+
+CUARTO.- El presente Decreto surtirá efectos para los sistemas procesales penales mixto y acusatorio, respectivamente, vigentes en el Estado de México.
