@@ -4,7 +4,7 @@ identifier: "MEX-codigo-penal-del-estado-de-mexico-16225"
 country: "mx"
 rank: "codigo"
 publication_date: "2000-03-20"
-last_updated: "2011-09-06"
+last_updated: "2011-10-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16225&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "MEX"
 ---
 # CODIGO PENAL DEL ESTADO DE MEXICO
 
-CODIGO PENAL DEL ESTADO DE MEXICO
+CÓDIGO PENAL DEL ESTADO DE MÉXICO
 
-> <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO EN EL ARTICULO TERCERO TRANSITORIO DEL DECRETO NUMERO 337, PUBLICADO EN LA G.G. DE 1 DE SEPTIEMBRE DE 2011, CUANDO EN OTROS ORDENAMIENTOS LEGALES, SE HAGA REFERENCIA AL TERMINO PERSONAS CON DISCAPACIDADES DIFERENTES, SE ENTENDERA QUE CORRESPONDE AL TERMINO PERSONAS CON DISCAPACIDAD</small>
+> <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO EN EL ARTÍCULO TERCERO TRANSITORIO DEL DECRETO NUMERO 337, PUBLICADO EN LA G.G. DE 1 DE SEPTIEMBRE DE 2011, CUANDO EN OTROS ORDENAMIENTOS LEGALES, SE HAGA REFERENCIA AL TERMINO PERSONAS CON DISCAPACIDADES DIFERENTES, SE ENTENDERÁ QUE CORRESPONDE AL TERMINO PERSONAS CON DISCAPACIDAD</small>
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 6 DE SEPTIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 26 DE OCTUBRE DE 2011.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el lunes 20 de marzo del 2000.
 
@@ -85,11 +85,11 @@ Este Código se aplicará a nacionales o extranjeros que hayan cumplido 18 años
 
 ### CAPITULO IV. LEYES ESPECIALES Y CONCURSO APARENTE DE NORMAS
 
-> <small>(REFORMADO, G.G. 2 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADO, G.G. 26 DE OCTUBRE DE 2011)</small>
 
 ###### Artículo 4.
 
-En los delitos previstos en una ley especial, se aplicará ésta y, en lo conducente, las disposiciones del presente Código.
+Cuando se comete un delito previsto en una ley general o local especial, se aplicarán éstas y, en lo conducente, las disposiciones del presente Código.
 
 ###### Artículo 5.
 
@@ -148,6 +148,10 @@ Es continuado, cuando existe unidad de propósito delictivo, pluralidad de condu
 ###### Artículo 9.
 
 Se califican como delitos graves para todos los efectos legales: El cometido por conductores de vehículos de motor, indicado en el artículo 61 segundo párrafo, fracciones I, II, III y V; el de rebelión, previsto en los artículos 107 último párrafo, 108 primer y tercer párrafos y 110; el de sedición, señalado en el artículo 113 segundo párrafo; el de cohecho, previsto en los artículos 129 y 130 en términos del párrafo segundo del artículo 131, si es cometido por elementos de cuerpos policíacos o servidores de seguridad pública; el de abuso de autoridad, contenido en los artículos 136 fracciones V, X y 137 fracción II; el de peculado, señalado en el artículo 140 fracción II el de prestación ilícita del servicio público de transporte de pasajeros, señalado en el artículo 148 párrafo segundo; el de encubrimiento, previsto en el artículo 152 párrafo segundo; el de falso testimonio, contenido en las fracciones III y IV del artículo 156; el de evasión a que se refiere el artículo 160; el delito de falsificación de documentos, previsto en el artículo 170 fracción II; el que se refiere a la falsificación y utilización indebida de títulos al portador, documentos de crédito público y documentos relativos al crédito señalado en el artículo 174; el delito de usurpación de funciones públicas o de profesiones, previsto en el artículo 176 penúltimo párrafo; el de delincuencia organizada, previsto en el artículo 178; los delitos cometidos por fraccionadores, señalados en el artículo 189; el de ataques a las vías de comunicación y transporte, contenido en los artículos 193 tercer párrafo y 195; el que se comete en contra de las personas menores de edad y quienes no tienen la capacidad para comprender el significado del hecho, establecidos en los artículos 204 y 205; los contemplados con la utilización de imágenes y/o voz de personas menores de edad o personas que no tienen la capacidad para comprender el significado del hecho para la pornografía, establecidos en el artículo 206; el de lenocinio, previsto en los artículos 209 y 209 bis; el Tráfico de Menores, contemplado en el artículo 219; el de cremación de cadáver señalado en el artículo 225; el cometido en contra de los productos de los montes o bosques, señalado en los párrafos segundo y tercero, fracciones I, II y III del artículo 229; el deterioro de área natural protegida, previsto en el artículo 230; el de lesiones, que señala el artículo 238 fracción V; el de homicidio, contenido en el artículo 241; el de secuestro, señalado por el artículo 259; el de privación de la libertad de menor de edad, previsto en el artículo 262 primer párrafo; el de extorsión contenido en el último párrafo del artículo 266; el asalto a una población a que se refiere el artículo 267; el de trata de personas, contemplado en el artículo 268 bis; el de violación, señalado por los artículos 273 y 274; el de robo, contenido en los artículos 290 fracciones I en su tercer párrafo, II, III, IV, V, XVI y XVII, y 292; el de abigeato, señalado en los artículos 297 fracciones II y III, 298 fracción II, y 299 fracciones I y IV; el de despojo, a que se refiere el artículo 308, en su fracción III, párrafos tercero y cuarto; y el de daño en los bienes, señalado en el artículo 311; y, en su caso, su comisión en grado de tentativa como lo establece este código, y los previstos en las leyes especiales cuando la pena máxima exceda de diez años de prisión.
+
+> <small>(ADICIONADO, G.G. 26 DE OCTUBRE DE 2011)</small>
+
+Asimismo los considerados como graves por las Leyes Generales.
 
 ### CAPITULO III. TENTATIVA DEL DELITO
 
@@ -1455,9 +1459,19 @@ I. Omitir la denuncia de alguna privación ilegal de la libertad de la que tenga
 
 II. Impedir el cumplimiento de una ley, decreto, reglamento o resolución judicial o administrativa, o el cobro de una contribución fiscal o utilizar el auxilio de la fuerza pública para tal objeto;
 
-III. El defensor de oficio que habiendo aceptado la defensa de un inculpado, la abandone o descuide por negligencia; y
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
 
-IV. Omitir la denuncia o querella de algún ilícito del que tenga conocimiento, cometido en perjuicio o en contra de la Administración Pública Estatal o Municipal.
+> <small>(REFORMADA, G.G. 26 DE OCTUBRE DE 2011)</small>
+
+III. El defensor público que habiendo aceptado la defensa de algún inculpado, la abandone o descuide por negligencia;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+
+> <small>(ADICIONADA, G.G. 26 DE OCTUBRE DE 2011)</small>
+
+IV. El defensor que habiendo sido designado para representar a una víctima u ofendido, la abandone o descuide por negligencia; y
+
+V. Omitir la denuncia o querella de algún ilícito del que tenga conocimiento, cometido en perjuicio o en contra de la Administración Pública Estatal o Municipal.
 
 > <small>(REFORMADO, G.G. 2 DE SEPTIEMBRE DE 2011)</small>
 
@@ -4065,11 +4079,11 @@ MANUEL CADENA MORALES
 
 (RUBRICA).
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CÓDIGO.</small>
 
 G.G. 1 DE SEPTIEMBRE DE 2000.
 
-SE TRANSCRIBEN UNICAMENTE LOS ARTICULOS TRANSITORIOS QUE SE RELACIONAN CON EL PRESENTE CODIGO.
+SE TRANSCRIBEN UNICAMENTE LOS ARTÍCULOS TRANSITORIOS QUE SE RELACIONAN CON EL PRESENTE CÓDIGO.
 
 PRIMERO.- Publíquese el presente decreto en la "Gaceta del Gobierno".
 
@@ -4484,3 +4498,39 @@ PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del G
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
 
 TERCERO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
+
+G.G. 26 DE OCTUBRE DE 2011.
+
+DECRETO NUMERO 362 POR EL QUE SE REFORMA LA FRACCION II Y SE ADICIONA LA FRACCION IV RECORRIENDOSE EN SU ORDEN LA ACTUAL PARA PASAR A SER V DEL ARTICULO 132 DEL CODIGO PENAL DEL ESTADO DE MEXICO.
+
+###### ARTÍCULO PRIMERO.
+
+Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+###### ARTÍCULO SEGUNDO.
+
+La presente Ley entrará en vigor a los noventa días hábiles siguientes a la publicación del presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+###### ARTÍCULO TERCERO.
+
+La Legislatura del Estado de México deberá destinar la partida presupuestal necesaria para la creación de la Defensoría para Víctimas y Ofendidos del Delito del Estado de México.
+
+###### ARTÍCULO CUARTO.
+
+La Secretaría General de Gobierno, la Secretaría de Finanzas y la Secretaría de la Contraloría proveerán lo necesario para dar cumplimiento a lo establecido en este Decreto.
+
+###### ARTÍCULO QUINTO.
+
+El Titular del Ejecutivo del Estado y la Legislatura, expedirán las disposiciones reglamentarias y reformas a otros ordenamientos jurídicos, respectivamente, que se derivan de esta Ley, en un plazo no mayor a tres meses, posteriores a la entrada en vigor del presente Decreto.
+
+G.G. 26 DE OCTUBRE DE 2011.
+
+DECRETO NUMERO 363 POR EL QUE SE REFORMA EL ARTICULO 4 Y SE ADICIONA UN PARRAFO SEGUNDO AL ARTICULO 9 DEL CODIGO PENAL DEL ESTADO DE MEXICO.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- La Secretaría de Salud del Estado implementará los centros especializados para el tratamiento, atención y rehabilitación de la farmacodependencia, en el término para tal efecto establecido por el párrafo tercero del Artículo Primero Transitorio, del Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley General de Salud, del Código Penal Federal y del Código Federal de Procedimientos Penales, publicado en el Diario Oficial de la Federación del 20 agosto de 2009.
+
+CUARTO.- El presente Decreto surtirá efectos para los sistemas procesales penales mixto y acusatorio, respectivamente, vigentes en el Estado de México.
