@@ -4,7 +4,7 @@ identifier: "PUE-ley-que-regula-el-regimen-de-propiedad-en-condominio-para-82715
 country: "mx"
 rank: "ley"
 publication_date: "2011-08-10"
-last_updated: "2011-08-10"
+last_updated: "2011-10-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=82715&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "PUE"
 ---
 # LEY QUE REGULA EL REGIMEN DE PROPIEDAD EN CONDOMINIO PARA EL ESTADO DE PUEBLA
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 26 DE OCTUBRE DE 2011 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 LEY QUE REGULA EL REGIMEN DE PROPIEDAD EN CONDOMINIO PARA EL ESTADO DE PUEBLA
 
 TEXTO ORIGINAL.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 26 DE OCTUBRE DE 2011.</small>
 
 Ley publicada en la segunda sección del Periódico Oficial del Estado de Puebla, el miércoles 10 de agosto de 2011.
 
@@ -159,11 +159,11 @@ III.- Los planos de las áreas comunes.
 
 La escritura constitutiva del régimen de propiedad en condominio del edificio, terreno o predio, así como los contratos de traslación de dominio y demás actos que afecten la propiedad o el dominio de estos inmuebles, además de cumplir con los requisitos y presupuestos de esta Ley, deberán inscribirse en el Registro Público de la Propiedad.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 26 DE OCTUBRE DE 2011 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA, ASÍ COMO EL ARCHIVO ANEXO.</small>
+> <small>(F. DE E., P.O. 26 DE OCTUBRE DE 2011)</small>
 
 ###### Artículo 11.
 
-En todo contrato de adquisición de derechos sobre un piso, departamento, vivienda, local, área o nave, sujeto al régimen de propiedad en condominio, se insertarán las declaraciones y cláusulas conducentes de la escritura constitutiva que prevé el artículo 9 de esta Ley, y se hará constar que se entrega al interesado una copia del reglamento interior.
+En todo contrato de adquisición de derechos sobre un piso, departamento, vivienda, local, área o nave, sujeto al régimen de propiedad en condominio, se insertarán las declaraciones y cláusulas conducentes de la escritura constitutiva que prevé el artículo 8 de esta Ley, y se hará constar que se entrega al interesado una copia del reglamento interior.
 
 ###### Artículo 12.
 
@@ -171,11 +171,11 @@ Será procedente la modificación del régimen de propiedad en condominio, únic
 
 Para la modificación se observará el mismo procedimiento que para su constitución.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 26 DE OCTUBRE DE 2011 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA, ASÍ COMO EL ARCHIVO ANEXO.</small>
+> <small>(F. DE E., P.O. 26 DE OCTUBRE DE 2011)</small>
 
 ###### Artículo 13.
 
-La declaración de voluntad que exige el artículo 9, podrá hacerse también, llenando los requisitos establecidos en él, por el propietario de un terreno que quiera construir un edificio dividido en locales, y se considerará constituido el régimen de propiedad en condominio, desde que el terreno y el edificio por construir, se hipotequen total o parcialmente o se venda cualquiera de las divisiones proyectadas.
+La declaración de voluntad que exige el artículo 8, podrá hacerse también, llenando los requisitos establecidos en él, por el propietario de un terreno que quiera construir un edificio dividido en locales, y se considerará constituido el régimen de propiedad en condominio, desde que el terreno y el edificio por construir, se hipotequen total o parcialmente o se venda cualquiera de las divisiones proyectadas.
 
 ###### Artículo 14.
 
@@ -499,8 +499,6 @@ El Síndico Municipal, será competente para conocer de los procedimientos arbit
 
 #### SECCIÓN PRIMERA. DE LAS SANCIONES
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 26 DE OCTUBRE DE 2011 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA, ASÍ COMO EL ARCHIVO ANEXO.</small>
-
 ###### Artículo 49.
 
 Los condóminos o residentes que incumplan con las obligaciones que les son impuestas por la presente Ley, serán sancionados en los casos siguientes:
@@ -509,13 +507,21 @@ I.- De uno a diez días de salario mínimo, así como a cubrir el costo que se g
 
 II.- De diez a veinte días de salario mínimo, más el pago de intereses moratorios en los términos que establezca el reglamento interior y la restricción del derecho de voto en las asambleas, cuando no cumplan en el plazo establecido con las cuotas fijadas por la asamblea, relativa a los fondos de mantenimiento y administración y de reserva;
 
-III.- De quince a treinta días de salario mínimo, cuando incumplan con las prohibiciones señaladas en las fracciones II, III, IV y V del artículo 25 de esta Ley;
+> <small>(F. DE E., P.O. 26 DE OCTUBRE DE 2011)</small>
 
-IV.- De veinte a treinta días de salario mínimo, por la inobservancia de lo establecido en las fracciones X y XI del artículo 25 de esta Ley;
+III.- De quince a treinta días de salario mínimo, cuando incumplan con las prohibiciones señaladas en las fracciones II, III, IV y V del artículo 24 de esta Ley;
 
-V.- De veinte a cuarenta días de salario mínimo, independientemente de la demolición de las obras realizadas, cuando contravengan lo dispuesto en las fracciones VI y VII del artículo 25 y el 29 de la presente Ley; y
+> <small>(F. DE E., P.O. 26 DE OCTUBRE DE 2011)</small>
 
-VI.- De cincuenta a ciento cincuenta días de salario mínimo, cuando se transgreda lo estipulado en las fracciones I, VIII y IX del artículo 25 de la presente Ley.
+IV.- De veinte a treinta días de salario mínimo, por la inobservancia de lo establecido en las fracciones X y XI del artículo 24 de esta Ley;
+
+> <small>(F. DE E., P.O. 26 DE OCTUBRE DE 2011)</small>
+
+V.- De veinte a cuarenta días de salario mínimo, independientemente de la demolición de las obras realizadas, cuando contravengan lo dispuesto en las fracciones VI y VII del artículo 24 y el 26 de la presente Ley; y
+
+> <small>(F. DE E., P.O. 26 DE OCTUBRE DE 2011)</small>
+
+VI.- De cincuenta a ciento cincuenta días de salario mínimo, cuando se transgreda lo estipulado en las fracciones I, VIII y IX del artículo 24 de la presente Ley.
 
 ###### Artículo 50.
 
