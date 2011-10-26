@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-defensoria-publica-del-estado-de-mexico-73111"
 country: "mx"
 rank: "ley"
 publication_date: "2010-02-03"
-last_updated: "2010-12-22"
+last_updated: "2011-10-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=73111&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY DE DEFENSORIA PUBLICA DEL ESTADO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 22 DE DICIEMBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 26 DE OCTUBRE DE 2011.
 
 Ley publicada en la Sección Cuarta de la Gaceta del Gobierno del Estado de México, el miércoles 3 de febrero de 2010.
 
@@ -115,7 +115,11 @@ Para los efectos del párrafo anterior, el Instituto podrá actuar en coordinaci
 
 VI. El patrocinio a la parte actora en materia civil, se autorizará previo estudio socioeconómico, excepcionalmente en los casos de extrema pobreza, ignorancia o indigencia, así como a adultos mayores, sin medio comprobable de subsistencia o dependencia de familiares directos;
 
-VII. Proporcionar orientación jurídica a todas las personas que los (sic) soliciten.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, G.G. 26 DE OCTUBRE DE 2011)</small>
+
+VII. Proporcionar orientación jurídica a todas las personas que los (sic) soliciten, a excepción de quienes tengan la calidad de víctima u ofendido.
 
 ###### Artículo 5.
 
@@ -478,3 +482,25 @@ G.G. 22 DE DICIEMBRE DE 2010.
 PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
 
 SEGUNDO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+G.G. 26 DE OCTUBRE DE 2011.
+
+###### ARTÍCULO PRIMERO.
+
+Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+###### ARTÍCULO SEGUNDO.
+
+La presente Ley entrará en vigor a los noventa días hábiles siguientes a la publicación del presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+###### ARTÍCULO TERCERO.
+
+La Legislatura del Estado de México deberá destinar la partida presupuestal necesaria para la creación de la Defensoría para Víctimas y Ofendidos del Delito del Estado de México.
+
+###### ARTÍCULO CUARTO.
+
+La Secretaría General de Gobierno, la Secretaría de Finanzas y la Secretaría de la Contraloría proveerán lo necesario para dar cumplimiento a lo establecido en este Decreto.
+
+###### ARTÍCULO QUINTO.
+
+El Titular del Ejecutivo del Estado y la Legislatura, expedirán las disposiciones reglamentarias y reformas a otros ordenamientos jurídicos, respectivamente, que se derivan de esta Ley, en un plazo no mayor a tres meses, posteriores a la entrada en vigor del presente Decreto.
