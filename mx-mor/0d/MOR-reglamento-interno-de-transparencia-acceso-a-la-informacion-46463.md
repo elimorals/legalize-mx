@@ -4,7 +4,7 @@ identifier: "MOR-reglamento-interno-de-transparencia-acceso-a-la-informacion-464
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-09-14"
-last_updated: "2005-09-14"
+last_updated: "2011-10-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=46463&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "MOR"
 
 REGLAMENTO INTERNO DE TRANSPARENCIA, ACCESO A LA INFORMACION Y PROTECCION DE DATOS PERSONALES DE LA COMISION ESTATAL DE DERECHOS HUMANOS DE MORELOS
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO PRIMERO TRANSITORIO DEL REGLAMENTO INTERIOR DE INFORMACION PUBLICA Y PROTECCION DE DATOS PERSONALES DE LA COMISION DE DERECHOS HUMANOS DEL ESTADO DE MORELOS, PUBLICADO EN EL P.O. DE 26 DE OCTUBRE DE 2011, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Periódico Oficial del Estado de Morelos, el miércoles 14 de septiembre de 2005.
 
@@ -198,3 +200,17 @@ DR. ALFONSO LUIS ESCAMILLA BARRONES
 CONSEJERO CONSULTIVO
 
 RÚBRICAS.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 26 DE OCTUBRE DE 2011.
+
+Primero.- Se abroga el Reglamento Interno de Transparencia, Acceso a la Información y Protección de Datos Personales de la Comisión Estatal de Derechos Humanos de Morelos, publicado en el Periódico Oficial. "Tierra y Libertad" número 4412, el 14 de septiembre de 2005.
+
+Segundo.- El presente Reglamento Interior de Información Pública y Protección de Datos Personales de la Comisión de Derechos Humanos del Estado de Morelos entrará en vigor a los quince días hábiles siguientes, a partir de su publicación en el órgano informativo del Gobierno del Estado de Morelos, Periódico Oficial "Tierra y Libertad".
+
+Tercero.- El Consejo Consultivo a través de su Secretaría Técnica cuenta con quince días hábiles a partir de la publicación del presente Reglamento Interior de Información Pública y Protección de Datos Personales de la Comisión de Derechos Humanos del Estado de Morelos, para aprobar las reformas al Reglamento Interno de la Comisión de Derechos Humanos del Estado de Morelos vigente, así como opinar respecto a las modificaciones que implique la publicación presente, al Manual de Organización y Procedimientos de la Dirección de Quejas y Orientación de la Comisión de Derechos Humanos del Estado de Morelos, así como los Lineamientos Generales para la Tramitación de Quejas en Visitadurías del propio organismo.
+
+Cuarto.- La Unidad de Documentación y Archivo y la de Información Pública, Informática y Estadística de la Comisión de Derechos Humanos del Estado de Morelos, cuentan con un plazo de sesenta días naturales a partir de la entrada en vigor del presente reglamento, para proponer a la Presidenta de la Comisión de Derechos Humanos del Estado de Morelos los lineamientos para la operación con cuidado y debido manejo de los documentos y archivos en posesión del organismo.
+
+Quinto.- La presidenta de la Comisión de Derechos Humanos del Estado de Morelos, Licenciada en Derechos (sic) Lucero Ivonne Benítez Villaseñor, a través del Secretario Ejecutivo, Licenciado en Derecho César Hidalgo Valverde, difundirá en todas las áreas el presente Reglamento Interior de Información Pública y Protección de Datos Personales, al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", para los efectos conducentes.
