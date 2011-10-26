@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-de-la-administracion-publica-del-estado-de-5770"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1981-09-17"
-last_updated: "2011-10-18"
+last_updated: "2011-10-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5770&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 18 DE OCTUBRE DE 2011.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 26 DE OCTUBRE DE 2011.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el jueves 17 de septiembre de 1981.
 
@@ -295,7 +295,11 @@ XX. Tramitar, por acuerdo del Gobernador, las solicitudes de amnistía, indultos
 
 XXI. (DEROGADA, G.G. 18 DE OCTUBRE DE 2011)
 
-XXII. Organizar y controlar la defensoría de oficio.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, G.G. 26 DE OCTUBRE DE 2011)</small>
+
+XXII. Organizar y controlar al Instituto de la Defensoría Pública y a la Defensoría Especializada para Víctimas y Ofendidos del Delito;
 
 XXIII. Tramitar los nombramientos que para el ejercicio de las funciones notariales expida el Ejecutivo y ordenar periódicamente visitas de inspección a las notarías del Estado.
 
@@ -733,9 +737,13 @@ XXVI. Vigilar y supervisar la operación de clínicas, hospitales y consultorios
 
 XXVII. Adquirir, con sujeción a las bases y procedimientos relativos, el equipo instrumental médico que requieran las unidades aplicativas, así como contratar, en su caso, los servicios para su reparación y mantenimiento, observando las disposiciones en la materia;
 
-XXVIII. Participar en el establecimiento y expedición, en coordinación con las dependencias competentes del Ejecutivo Estatal, de las bases y normas a las que deben sujetarse los concursos para la ejecución de obras del sector salud; y
+XXVIII. Participar en el establecimiento y expedición, en coordinación con las dependencias competentes del Ejecutivo Estatal, de las bases y normas a las que deben sujetarse los concursos para la ejecución de obras del sector salud; y (sic)
 
-XXIX. Las demás que señalen las leyes, reglamentos y disposiciones en la materia.
+> <small>(ADICIONADA, G.G. 26 DE OCTUBRE DE 2011)</small>
+
+XXIX. Participar en la prevención, tratamiento y rehabilitación de la farmacodependencia y coordinarse con las autoridades federales y las instituciones públicas, privadas o sociales para la planeación, programación, ejecución y evaluación de los programas y acciones del proceso para su recuperación, así como para la superación de la problemática; y
+
+XXX. Las demás que señalen las leyes, reglamentos y disposiciones en la materia.
 
 > <small>(REFORMADO, G.G. 8 DE DICIEMBRE DE 2005)</small>
 
@@ -2092,6 +2100,42 @@ SÉPTIMO.- Los convenios o instrumentos jurídicos celebrados a través de la Ag
 OCTAVO.- Las referencias realizadas en el presente Decreto a la Agencia de Seguridad Estatal, quedarán entendidas a la Secretaría de Seguridad Ciudadana.
 
 NOVENO.- Las referencias realizadas a reinserción social, quedarán entendidas al término vigente readaptación social, hasta en tanto se lleve a cabo la reforma penitenciaria a que se refiere el Decreto por el que se reforman y adicionan diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, publicado en el Diario Oficial de la Federación el 18 de junio de 2008.
+
+DECRETO NUMERO 362 POR EL QUE SE REFORMA EL ARTICULO 21 EN SU FRACCION XXII DE LA LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE MEXICO.
+
+G.G. 26 DE OCTUBRE DE 2011.
+
+###### ARTÍCULO PRIMERO.
+
+Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+###### ARTÍCULO SEGUNDO.
+
+La presente Ley entrará en vigor a los noventa días hábiles siguientes a la publicación del presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+###### ARTÍCULO TERCERO.
+
+La Legislatura del Estado de México deberá destinar la partida presupuestal necesaria para la creación de la Defensoría para Víctimas y Ofendidos del Delito del Estado de México.
+
+###### ARTÍCULO CUARTO.
+
+La Secretaría General de Gobierno, la Secretaría de Finanzas y la Secretaría de la Contraloría proveerán lo necesario para dar cumplimiento a lo establecido en este Decreto.
+
+###### ARTÍCULO QUINTO.
+
+El Titular del Ejecutivo del Estado y la Legislatura, expedirán las disposiciones reglamentarias y reformas a otros ordenamientos jurídicos, respectivamente, que se derivan de esta Ley, en un plazo no mayor a tres meses, posteriores a la entrada en vigor del presente Decreto.
+
+DECRETO NUMERO 363 POR EL QUE SE ADICIONA LA FRACCION XXIX Y SE RECORRE LA SUBSECUENTE EN SU ORDEN, DEL ARTICULO 26 DE LA LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE MEXICO.
+
+G.G. 26 DE OCTUBRE DE 2011.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- La Secretaría de Salud del Estado implementará los centros especializados para el tratamiento, atención y rehabilitación de la farmacodependencia, en el término para tal efecto establecido por el párrafo tercero del Artículo Primero Transitorio, del Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley General de Salud, del Código Penal Federal y del Código Federal de Procedimientos Penales, publicado en el Diario Oficial de la Federación del 20 agosto de 2009.
+
+CUARTO.- El presente Decreto surtirá efectos para los sistemas procesales penales mixto y acusatorio, respectivamente, vigentes en el Estado de México.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 158 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES, LA LEY DEL SISTEMA DE MEDIOS DE IMPUGNACIÓN EN MATERIA ELECTORAL Y DE PARTICIPACIÓN CIUDADANA, LA LEY ORGÁNICA DE LA COMISIÓN ESTATAL DE LOS DERECHOS HUMANOS, LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA, LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA Y LA LEY DE GOBIERNO MUNICIPAL, TODAS DEL ESTADO DE SINALOA”.]
 
