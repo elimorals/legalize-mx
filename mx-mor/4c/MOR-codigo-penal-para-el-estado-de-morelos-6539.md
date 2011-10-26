@@ -4,7 +4,7 @@ identifier: "MOR-codigo-penal-para-el-estado-de-morelos-6539"
 country: "mx"
 rank: "codigo"
 publication_date: "1996-10-09"
-last_updated: "2011-10-19"
+last_updated: "2011-10-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6539&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 CODIGO PENAL PARA EL ESTADO DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE OCTUBRE DE 2011.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE OCTUBRE DE 2011.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Morelos, el miércoles 9 de octubre de 1996.
 
@@ -895,15 +895,15 @@ Si el delito por el que se impone la publicación fue cometido a través de alg�
 
 Se ordenará igualmente la publicación, a título de reparación y por solicitud del inculpado, cuando éste fuere absuelto o se sobresea el proceso.
 
-### CAPITULO XVI. INTERVENCION, REMOCION, PROHIBICION DE REALIZAR DETERMINADAS OPERACIONES Y EXTINCION DE LAS PERSONAS COLECTIVAS
-
-> <small>(REFORMADO, P.O. 29 DE JULIO DE 2009)</small>
+### CAPITULO XV. SUPERVISION DE LA AUTORIDAD
 
 ###### ARTICULO 54.
 
 Cuando la sentencia imponga una sanción que restrinja libertades o derechos o sustituya la privación de libertad o la multa, y en los demás casos que la ley previene, el tribunal dispondrá la supervisión de la autoridad sobre el sentenciado. Esta consiste en observación y orientación de la conducta del sentenciado por personal dependiente de la autoridad ejecutora, y durará el tiempo necesario para que se extinga la sanción principal impuesta al sentenciado sujeto a supervisión.
 
-### CAPITULO XV. SUPERVISION DE LA AUTORIDAD
+### CAPITULO XVI. INTERVENCION, REMOCION, PROHIBICION DE REALIZAR DETERMINADAS OPERACIONES Y EXTINCION DE LAS PERSONAS COLECTIVAS
+
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2009)</small>
 
 ###### ARTICULO 55.
 
@@ -2903,7 +2903,7 @@ Si en la comisión de los delitos previstos en el Capítulo I del presente Títu
 
 ### CAPITULO PRIMERO
 
-### CAPITULO SEGUNDO. DELITOS COMETIDOS POR MEDICOS, AUXILIARES, INSTITUCIONES MEDICAS Y OTROS RELACIONADOS CON LA PRACTICA DE LA MEDICINA
+### CAPITULO II. ABANDONO, NEGACIÓN Y PRÁCTICA INDEBIDA DEL SERVICIO MÉDICO
 
 ###### ARTICULO 214.
 
@@ -3225,7 +3225,7 @@ Al que sin derecho estorbare de cualquier forma el aprovechamiento de bienes de 
 
 Quienes ejercen una profesión, arte o técnica, así como quienes les auxilian en este ejercicio, serán responsables de los delitos en que incurran en el desempeño de esta actividad. Se les impondrán las sanciones previstas en este Título, y además la suspensión, hasta por tres años, del derecho para ejercerla, o la inhabilitación para este mismo efecto hasta por cinco años.
 
-> <small>(ADICIONADO, P.O. 1 DE SEPTIEMBRE DE 2011)</small>
+REFORMADA SU DENOMINACION, P.O. 26 DE OCTUBRE DE 2011)
 
 ### CAPITULO IX. TRAFICO DE INFLUENCIA
 
@@ -3253,9 +3253,9 @@ VII. Sin necesidad terapéutica ni consentimiento del paciente, altere por cualq
 
 VIII. Será excluyente de responsabilidad, la conducta del médico que por principios éticos, se abstenga u objete practicar el aborto.
 
-> <small>(ADICIONADO, P.O. 1 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 2011)</small>
 
-Si el responsable de los delitos previstos en este artículo fuere médico se le aplicará además suspensión hasta por cinco años en el ejercicio de su profesión. Si fuere médico de una institución de salud dependiente del gobierno, se le privará del cargo e inhabilitara para obtener otro durante cinco años, salvo que la ley disponga otra cosa
+Si el responsable se trata de un servidor público, además se le impondrá la sanción prevista por el artículo 269 del presente Código, en los términos que establece.
 
 ###### ARTICULO 250.
 
@@ -4482,3 +4482,9 @@ SEGUNDO.- Una vez hecho el computo de los votos que hayan emitido los ayuntamien
 TERCERO.- Remítase en su oportunidad al Titular del Poder Ejecutivo el presente decreto, para su publicación y promulgación en el Periódico Oficial ''Tierra y Libertad", órgano oficial de difusión del Gobierno del Estado de Morelos.
 
 CUARTO.- El presente decreto iniciará su vigencia, 15 días después de su publicación.
+
+P.O. 26 DE OCTUBRE DE 2011.
+
+Primero.- Aprobado que sea el presente decreto, túrnese al titular del Ejecutivo para su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos.
+
+Segundo.- El presente decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial "Tierra y Libertad".
