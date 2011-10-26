@@ -4,7 +4,7 @@ identifier: "MOR-reglamento-de-la-ley-del-equilibrio-ecologico-y-la-71670"
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-12-16"
-last_updated: "2009-12-16"
+last_updated: "2011-10-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=71670&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 REGLAMENTO DE LA LEY DEL EQUILIBRIO ECOLOGICO Y LA PROTECCION AL AMBIENTE DEL ESTADO DE MORELOS EN MATERIA DE EVALUACION DEL IMPACTO Y RIESGO AMBIENTAL
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE OCTUBRE DE 2011.
 
 Reglamento publicado en el Periódico Oficial del Estado de Morelos, el miércoles 16 de diciembre de 2009.
 
@@ -111,7 +111,9 @@ IX. Las demás previstas en este Reglamento y en otras disposiciones legales y r
 
 No se someterán al procedimiento de evaluación del impacto ambiental, las obras y/o actividades públicas o privadas siguientes:
 
-I. La construcción, instalación y demolición de bienes inmuebles en áreas urbanas que no rebasen los parámetros establecidos en las fracciones IV, V y VIII del artículo 16 del presente Reglamento;
+> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2011)</small>
+
+I. La construcción, instalación y demolición de bienes inmuebles en áreas urbanas que no rebasen los parámetros establecidos en las fracciones IV, V y VIII del artículo 19 del presente Reglamento;
 
 II. La conservación, reparación y mantenimiento de bienes inmuebles;
 
@@ -121,9 +123,13 @@ IV. Remodelación de casas habitación;
 
 V. La construcción de locales comerciales en superficies de terreno que no sobrepasen los 200 metros cuadrados, siempre y cuando su diseño arquitectónico contemple únicamente una planta baja y primer nivel;
 
-VI. La construcción de edificaciones destinadas al culto religioso construidas en superficies de terreno que no sobrepasen los 150 metros cuadrados, y
+> <small>(ADICIONADA, P.O. 26 DE OCTUBRE DE 2011)</small>
 
-VII. La construcción de casas habitación construidas en superficies de terreno que no sobrepasen los 720 metros cuadrados, siempre y cuando su diseño arquitectónico contemple únicamente una planta baja y primer nivel.
+VI. La construcción de inmuebles en áreas urbanas cuyo predio sea menor de 1000 metros cuadros y cuando su diseño arquitectónico contemple únicamente una planta baja y primer nivel, cuyas dimensiones de construcción sean inferiores a 750 metros cuadrados por nivel y siempre que las actividades a que serán destinados sean exclusivamente para almacenar (sin venta al público) productos que no se consideren materiales peligrosos, en términos de la Ley, ni tampoco requieran para su conservación o manejo la instalación de aditamentos especiales, tales como cámaras frías o calefactores;
+
+VII. La construcción de edificaciones destinadas al culto religioso construidas en superficies de terreno que no sobrepasen los 150 metros cuadrados, y
+
+VIII. La construcción de casas habitación construidas en superficies de terreno que no sobrepasen los 720 metros cuadrados, siempre y cuando su diseño arquitectónico contemple únicamente una planta baja y primer nivel.
 
 Aquellas personas físicas o morales que pretendan saber si una obra o actividad requiere sujetarse al procedimiento de evaluación del impacto ambiental, deberán solicitarlo por escrito a la Comisión a efecto de proceder a realizar una visita al lugar, con la finalidad de determinar si requiere o no sujetarse al citado procedimiento.
 
@@ -233,9 +239,11 @@ I. General, y
 
 II. Específica.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE OCTUBRE DE 2011)</small>
+
 ###### ARTÍCULO 19.
 
-La realización de las obras o actividades a que se refiere el artículo 14 de este ordenamiento requerirá de la presentación de una manifestación de impacto ambiental modalidad general, cuando se trate de:
+La realización de las obras o actividades a que se refiere el artículo 17 de este ordenamiento requerirá de la presentación de una manifestación de impacto ambiental modalidad general, cuando se trate de:
 
 I. Proyectos de instalaciones destinadas exclusivamente al tratamiento, incineración, eliminación, reciclaje o disposición final de residuos de competencia estatal;
 
@@ -549,9 +557,11 @@ Tratándose de este último caso, dichas condicionantes deberán ser dadas a con
 
 ### CAPÍTULO V. DEL PROCEDIMIENTO DERIVADO DE LA PRESENTACIÓN DEL INFORME PREVENTIVO
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE OCTUBRE DE 2011)</small>
+
 ###### ARTÍCULO 38.
 
-La realización de las obras y actividades a que se refiere el artículo 14 del presente Reglamento requerirán solamente la presentación de un informe preventivo, cuando:
+La realización de las obras o actividades a que se refiere el artículo 17 de este ordenamiento requerirá de la presentación de un informe preventivo, cuando:
 
 I. Existan Normas Oficiales Mexicanas u otras disposiciones que regulen las emisiones, las descargas, el aprovechamiento de recursos naturales y, en general, todos los impactos ambientales relevantes que las obras o actividades puedan producir;
 
@@ -575,11 +585,13 @@ V. La identificación de los impactos ambientales significativos o relevantes y 
 
 VI. Estudio de riesgo si se tratase de actividades de riesgo y bajo riesgo contempladas en los términos de este Reglamento.
 
+> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 2011)</small>
+
 ###### ARTÍCULO 40.
 
-El informe preventivo deberá acompañarse del formato de solicitud que publique la Comisión en el Periódico Oficial “Tierra y Libertad” y presentarse en original y copia que contendrá la leyenda “para consulta del público”, y en archivo electrónico PDF versión de lectura, anexándose, además, la copia sellada del pago de derechos correspondiente de conformidad al artículo 85 de la Ley General de Hacienda del Estado de Morelos y los documentos a que se hace referencia el artículo 21 del presente Reglamento.
+El informe preventivo deberá acompañarse del formato de solicitud que publique la Comisión en el Periódico Oficial "Tierra y Libertad" y presentarse en original y copia que contendrá la leyenda “para consulta del público”, y en archivo electrónico PDF versión de lectura, anexándose, además, la copia sellada del pago de derechos correspondiente, de conformidad con el artículo 85 de la Ley General de Hacienda del Estado de Morelos y los documentos a que se hace referencia (sic) el artículo 23 del presente Reglamento.
 
-La Comisión proporcionará a los promoventes las guías para la presentación del informe preventivo. Dichas guías serán publicadas en el Periódico Oficial “Tierra y Libertad”.
+La Comisión proporcionará a los promoventes las guías para la presentación del informe preventivo. Dichas guías serán publicadas en el Periódico Oficial "Tierra y Libertad".
 
 ###### ARTÍCULO 41.
 
@@ -735,9 +747,11 @@ III. Dentro de los veinte días siguientes a aquél en que la manifestación de 
 
 La Comisión consignará, en la resolución que emita, el proceso de consulta pública y los resultados de las observaciones y propuestas formuladas.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE OCTUBRE DE 2011)</small>
+
 ###### ARTÍCULO 56.
 
-Durante el proceso de consulta pública a que se refiere el artículo 45 de este Reglamento, la Comisión, en coordinación con las autoridades municipales podrá organizar una reunión pública de información cuando se trate de obras o actividades que puedan generar desequilibrios ecológicos graves o daños a la salud pública o a los ecosistemas, de conformidad con las siguientes bases:
+Durante el proceso de consulta pública a que se refiere el artículo 54 de este Reglamento la Comisión, en coordinación con las autoridades municipales, podrá organizar una reunión pública de información cuando se trate de obras o actividades que puedan generar desequilibrios ecológicos graves o daños a la salud pública o a los ecosistemas, de conformidad con las siguientes bases:
 
 I. La Comisión, dentro del plazo de quince días hábiles contados a partir de que resuelva dar inicio a la consulta pública, emitirá una convocatoria en la que expresará el día, la hora y el lugar en que la reunión deberá verificarse. La convocatoria se publicará, por una sola vez, en el Periódico Oficial “Tierra y Libertad” y en un periódico de amplia circulación en la entidad y en la página de internet de la Comisión. Cuando la Comisión lo considere necesario, podrá llevar a cabo la publicación en otros medios de comunicación que permitan una mayor difusión a los interesados o posibles afectados por la realización de la obra o actividad;
 
@@ -1080,3 +1094,13 @@ SECRETARIO EJECUTIVO DE LA COMISIÓN ESTATAL DEL AGUA Y MEDIO AMBIENTE
 ING. JORGE ÁLVARO HINOJOSA MARTÍNEZ
 
 RÚBRICAS.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 26 DE OCTUBRE DE 2011.
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Tierra y Libertad", órgano de información oficial del Gobierno del Estado de Morelos.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en Periódico Oficial "Tierra y Libertad.
+
+TERCERO. Se derogan las demás disposiciones administrativas de igual o menor rango que se opongan a lo establecido en el presente Decreto.
