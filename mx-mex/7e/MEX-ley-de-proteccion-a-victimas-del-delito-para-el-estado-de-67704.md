@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-proteccion-a-victimas-del-delito-para-el-estado-de-67704
 country: "mx"
 rank: "ley"
 publication_date: "2009-02-23"
-last_updated: "2011-03-30"
+last_updated: "2011-10-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=67704&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY DE PROTECCION A VICTIMAS DEL DELITO PARA EL ESTADO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 30 DE MARZO DE 2011.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 26 DE OCTUBRE DE 2011.
 
 Ley publicada en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el lunes 23 de febrero de 2009.
 
@@ -391,17 +391,25 @@ I. Un Presidente, que será electo en la primera sesión del Órgano Rector, por
 
 II. Integrantes cada uno de los titulares de las dependencias y unidades administrativas del Ejecutivo así como del organismo autónomo que constituyen el propio Sistema y que son:
 
-a). El titular de la Secretaria de Salud;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
 
-b). El titular de la SEDESEM;
+> <small>(ADICIONADO, G.G. 26 DE OCTUBRE DE 2011)</small>
 
-c). El titular de la Procuraduría;
+a) El titular de la Secretaría General de Gobierno;
 
-d). El titular de la Dirección General del DIF Estatal; y
+b) El titular de la Secretaría de Salud;
 
-> <small>(REFORMADO, G.O. 30 DE MARZO DE 2011)</small>
+c) El titular de la SEDESEM;
 
-e). La o el Presidente de la Comisión de los Derechos Humanos del Estado de México.
+d) El titular de la Procuraduría;
+
+e) El titular de la Dirección General del DIF Estatal; y
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+
+> <small>(REFORMADO, G.G. 26 DE OCTUBRE DE 2011)</small>
+
+f) El Presidente de la Comisión de Derechos Humanos.
 
 III. Un Secretario Técnico, que ejercerá las funciones que se determinen en esta Ley y la reglamentación respectiva, por un período de tres años.
 
@@ -638,3 +646,25 @@ TERCERO.- El Comisionado de los Derechos Humanos, ahora denominado Presidente de
 CUARTO.- Toda disposición y ordenamiento legal, reglamentaria o administrativa que haga referencia al Comisionado de los Derechos Humanos del Estado de México, se entenderá que es al Presidente de la Comisión de Derechos Humanos del Estado de México.
 
 QUINTO.- El Consejo Consultivo de la Comisión de Derechos Humanos del Estado de México, deberá realizar las modificaciones correspondientes a la normatividad del Organismo, dentro de los ciento ochenta días naturales siguientes a la entrada en vigor de este Decreto.
+
+G.G. 26 DE OCTUBRE DE 2011.
+
+###### ARTÍCULO PRIMERO.
+
+Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+###### ARTÍCULO SEGUNDO.
+
+La presente Ley entrará en vigor a los noventa días hábiles siguientes a la publicación del presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+###### ARTÍCULO TERCERO.
+
+La Legislatura del Estado de México deberá destinar la partida presupuestal necesaria para la creación de la Defensoría para Víctimas y Ofendidos del Delito del Estado de México.
+
+###### ARTÍCULO CUARTO.
+
+La Secretaría General de Gobierno, la Secretaría de Finanzas y la Secretaría de la Contraloría proveerán lo necesario para dar cumplimiento a lo establecido en este Decreto.
+
+###### ARTÍCULO QUINTO.
+
+El Titular del Ejecutivo del Estado y la Legislatura, expedirán las disposiciones reglamentarias y reformas a otros ordenamientos jurídicos, respectivamente, que se derivan de esta Ley, en un plazo no mayor a tres meses, posteriores a la entrada en vigor del presente Decreto.
