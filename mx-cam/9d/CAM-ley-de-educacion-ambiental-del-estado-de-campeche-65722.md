@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-educacion-ambiental-del-estado-de-campeche-65722"
 country: "mx"
 rank: "ley"
 publication_date: "2008-12-19"
-last_updated: "2008-12-19"
+last_updated: "2011-10-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=65722&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 LEY DE EDUCACION AMBIENTAL DEL ESTADO DE CAMPECHE
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE OCTUBRE DE 2011.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Campeche, el viernes 19 de diciembre de 2008.
 
@@ -95,7 +95,9 @@ III. Regular que la educación ambiental se incluya en los diversos niveles y mo
 
 IV. Formular, establecer y aplicar el Programa Estatal de Educación Ambiental para el Desarrollo Sustentable y sus instrumentos, de manera que sean compatibles con la protección, preservación, restauración y aprovechamiento sustentable de la biodiversidad y los ecosistemas, bajo criterios de democracia, equidad y justicia social:
 
-V. Abordar articuladamente las cuestiones ambientales globales, nacionales, regionales, locales y municipales;
+> <small>(REFORMADA, P.O. 27 DE OCTUBRE DE 2011)</small>
+
+V. Abordar articuladamente las cuestiones ambientales globales, nacionales, regionales y locales, así como difundir en todos los niveles educativos las causas y consecuencias del cambio climático y sus medidas preventivas.
 
 VI. Reconocer y respetar la pluralidad y diversidad individual y cultural;
 
@@ -175,7 +177,7 @@ La educación ambiental que imparta el Poder Ejecutivo del Estado, a través de 
 
 Para los efectos de esta Ley, se estará a las definiciones de conceptos que se contienen en las leyes ambientales federales y locales, además de las siguientes:
 
-I. CAPACITACIÓN PARA LA EDUCACIÓN AMBIENTAL: Proceso que promueve la adquisición de conocimientos y habilidades teórico-prácticos en y para el trabajo que permitan incorporarse a la actividad productiva y/o mejorar el desempeño laboral con criterios de sustentabilidad;
+I. CAPACITACIÓN PARA LA EDUCACIÓN AMBIENTAL: Proceso que promueve la adquisición de conocimientos y habilidades teórico-prácticos en y para el trabajo que permitan incorporarse a la actividad productiva y/o mejorar el desempeño laboral con criterios de sustentabilidad.
 
 II. CENTROS DE RECREACIÓN Y CULTURA AMBIENTAL: Son los espacios de recreación y cultura en donde pueden realizarse actividades encaminadas a la comprensión de la problemática ambiental y a la identificación de alternativas de solución para cada grupo específico de la población.
 
@@ -377,9 +379,13 @@ III. La producción y divulgación de material educativo, y
 
 IV. El seguimiento y la evaluación.
 
+> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 2011)</small>
+
 ###### Artículo 23.
 
-Las autoridades a las que se refiere el presente ordenamiento, dentro del ámbito de sus competencias, otorgarán reconocimientos, distinciones, estímulos y recompensas a los educadores ambientales que se destaquen en el ejercicio de su profesión.
+Las autoridades a las que se refiere el presente ordenamiento, dentro del ámbito de sus competencias, otorgarán reconocimientos, distinciones, estímulos y recompensas a los educadores ambientales que se destaquen en el ejercicio de su profesión. Así como a los científicos que desarrollen técnicas, ecotécnicas y procedimientos que permitan prevenir, controlar y abatir el deterioro ambiental, propiciar el aprovechamiento sustentable de los recursos naturales y la conservación de los ecosistemas.
+
+Los proyectos de implementación de técnicas, ecotécnicas y procedimientos, se llevarán a cabo, en coordinación con las autoridades competentes para su seguimiento permanente, dentro del ámbito de sus atribuciones y competencias, como incentivo a la investigación científica.
 
 ###### Artículo 24.
 
@@ -538,3 +544,11 @@ C. María del Carmen Pérez López, Diputada Presidenta.- C. Giacomina María Me
 En cumplimiento de lo dispuesto por los artículos 48, 49 y 71 fracción XVIII de la Constitución Política del Estado, lo sanciono, mando se imprima, publique y circule para su debida observancia.
 
 Dado en el Palacio de Gobierno del Estado, en San Francisco de Campeche, Campeche, a los diecinueve días del mes de diciembre del año dos mil ocho.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, C.P. JORGE CARLOS HURTADO VALDEZ.- EL SECRETARIO DE GOBIERNO, M. en D. RICARDO MEDINA FARFAN.- Rúbricas.
+
+N. DE E.: A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.
+
+P.O. 27 DE OCTUBRE DE 2011.
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias del marco jurídico del Estado en lo que se opongan al presente decreto.
