@@ -4,7 +4,7 @@ identifier: "CAM-ley-para-prevenir-y-sancionar-la-tortura-en-el-estado-de-11622"
 country: "mx"
 rank: "ley"
 publication_date: "1993-10-28"
-last_updated: "1993-10-28"
+last_updated: "2011-10-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11622&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 LEY PARA PREVENIR Y SANCIONAR LA TORTURA EN EL ESTADO DE CAMPECHE
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE OCTUBRE DE 2011.
 
 Ley publicada en el Periódico Oficial del Estado de Campeche, el jueves 28 de octubre de 1993.
 
@@ -45,13 +45,17 @@ ART. 2.- Las dependencias y órganos del Ejecutivo del Estado relacionados con l
 
 I.- La orientación y asistencia de la población con la finalidad de vigilar la exacta observancia de las garantías individuales de aquellas personas involucradas en la comisión de algún ilícito penal;
 
-II.- La organización de cursos de capacitación de su personal para fomentar el respeto de los derechos humanos;
+> <small>(REFORMADA, P.O. 27 DE OCTUBRE DE 2011)</small>
+
+II.- La organización de cursos de capacitación y sensibilización de su personal para fomentar una educación basada en la prohibición de la tortura y el respeto de los derechos humanos.
 
 III.- La profesionalización de sus cuerpos policiales; y
 
 IV.- La profesionalización de los servidores públicos que participan en la custodia y tratamiento de toda persona sometida a arresto, detención o prisión.
 
-ART. 3.- Comete el delito de tortura el servidor público que, con motivo de sus atribuciones; inflija a una persona dolores o sufrimientos graves, sean físicos o psíquicos, con el fin de obtener del torturado o de un tercero, información o una confesión, o castigarla por un acto que haya cometido o se sospeche ha cometido, o coaccionarla para que realice o deje de realizar una conducta determinada.
+> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 2011)</small>
+
+ART. 3.- Comete el delito de tortura el servidor público que, con motivo de sus atribuciones, inflija a una persona dolores o sufrimientos graves, sean físicos o psíquicos, con el fin de obtener del torturado o de un tercero, información o una confesión, o castigarla por un acto que haya cometido o se sospeche ha cometido, o coaccionarla para que realice o deje de realizar una conducta determinada. Se entenderá también como tortura, la aplicación sobre una persona, de métodos tendientes a anular la personalidad de la víctima o a disminuir su capacidad física o mental, aunque no causen dolor físico o angustia psíquica.
 
 No se considerarán como tortura las molestias o penalidades que sean consecuencia únicamente de sanciones legales, que sean inherentes o incidentales a éstas, o derivadas de un acto legítimo de autoridad.
 
@@ -63,7 +67,9 @@ ART. 5.- Las penas previstas en el artículo anterior se aplicarán al servidor 
 
 Se aplicarán las mismas penas al tercero que, con cualquiera finalidad, instigado o autorizado, explícita o implícitamente, por un servidor público, inflija dolores o sufrimientos graves sean físicos o psíquicos a un detenido.
 
-ART. 6.- No se considerarán como causas excluyentes de responsabilidad del delito de tortura el que se invoquen o existan situaciones excepcionales como inestabilidad política interna, urgencia en las investigaciones o cualquiera otra circunstancia.
+> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 2011)</small>
+
+ART. 6.- No se considerarán como causas excluyentes de responsabilidad del delito de tortura el que se invoquen o existan situaciones excepcionales como suspensión de garantías, inestabilidad política interna, urgencia en las investigaciones o cualquiera otra circunstancia.
 
 Tampoco podrá invocarse como justificación la orden de un superior jerárquico o de cualquiera otra autoridad.
 
@@ -120,3 +126,11 @@ Palacio Legislativo, Campeche, Cam., a 26 de octubre de 1993.- Dip. Jorge Manuel
 En cumplimiento de lo dispuesto por los artículos 48, 49 y 71 fracción XVIII de la Constitución Política del Estado, lo sanciono, mando se imprima, publique y circule para su debida observancia.
 
 Dado en el Palacio de Gobierno del Estado, en Campeche, a los veintiséis días del mes de octubre de mil novecientos noventa y tres.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, ING. JORGE SALOMON AZAR GARCIA.- EL SECRETARIO DE GOBIERNO, LIC. CRUZ MANUEL ALFARO ISAAC.- RUBRICAS.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 27 DE OCTUBRE DE 2011.
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias en lo que se opongan al contenido de este Decreto.
