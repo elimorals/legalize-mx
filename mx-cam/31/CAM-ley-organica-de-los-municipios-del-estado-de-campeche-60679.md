@@ -4,7 +4,7 @@ identifier: "CAM-ley-organica-de-los-municipios-del-estado-de-campeche-60679"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2008-03-03"
-last_updated: "2008-03-03"
+last_updated: "2011-10-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=60679&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 LEY ORGANICA DE LOS MUNICIPIOS DEL ESTADO DE CAMPECHE
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE OCTUBRE DE 2011.
 
 Ley publicada en la Sección Legislativa del Periódico Oficial del Estado de Campeche, el lunes 3 de marzo de 2008.
 
@@ -1123,7 +1123,11 @@ V. Programas municipales de desarrollo urbano;
 
 VI. Programas directores de centros urbanos de población;
 
-VII. Programas de trabajo, operativos, sectoriales y especiales que se requieran para la ejecución de los planes;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 27 DE OCTUBRE DE 2011)</small>
+
+VII. Programas de trabajo, operativos, sectoriales, institucionales y especiales que se requieran para la ejecución de los planes;
 
 VIII. Los relativos al establecimiento, ampliación, modificación de servicios públicos.
 
@@ -1145,19 +1149,41 @@ V. Conservación del suelo, flora, fauna y reforestación; (sic)
 
 Los planes y programas deberán como mínimo contemplar:
 
-I. Objetivos generales y particulares a corto, mediano y largo plazo, pretendidos;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 27 DE OCTUBRE DE 2011)</small>
+
+I. Objetivos generales y particulares a corto, mediano y largo plazo; metas; y unidades responsables para su ejecución;
 
 II. Procedimientos para el logro de los objetivos;
 
-III. Congruencia en su caso, con planes y programas estatales y federales;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-IV. Recursos financieros municipales ordinarios y en su caso extraordinarios requeridos para su cumplimiento;
+> <small>(REFORMADA, P.O. 27 DE OCTUBRE DE 2011)</small>
+
+III. Alineación con los objetivos de la planeación municipal y, en su caso, con la estatal y federal;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 27 DE OCTUBRE DE 2011)</small>
+
+IV. Recursos requeridos para su cumplimiento y su forma de financiamiento;
 
 V. Los estudios, elementos técnicos y consideraciones en que se sustenten, en especial los relativos al aprovechamiento de los recursos humanos y naturales;
 
-VI. Órganos municipales responsables del seguimiento de su ejecución, evaluación y cumplimiento de los fines;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-VII. Vigencia.
+> <small>(REFORMADA, P.O. 27 DE OCTUBRE DE 2011)</small>
+
+VI. Órganos municipales responsables del seguimiento de su ejecución y evaluación del cumplimiento de los objetivos y metas;
+
+VII. Vigencia;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, P.O. 27 DE OCTUBRE DE 2011)</small>
+
+VIII. Indicadores de gestión y medición del desempeño, relativos a: eficiencia, eficacia, economía, transparencia, honradez; los programas sociales además deberán incluir indicadores de cobertura e impacto.
 
 ###### ARTÍCULO 114.
 
@@ -1555,7 +1581,11 @@ Corresponde al Cabildo aprobar anualmente el Presupuesto de Egresos Municipal pa
 
 El Presupuesto de Egresos Municipal deberá contemplar:
 
-I. Los programas en que se señalen objetivos, metas y unidades responsables para su ejecución, así como la valuación estimada del programa;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 27 DE OCTUBRE DE 2011)</small>
+
+I. Los programas en que se señalen objetivos, metas, unidades responsables para su ejecución y los recursos financieros asignados;
 
 II. Estimación conforme a calendario, de los ingresos del Municipio, precisando los que le corresponda recibir de la Federación y del Estado y señalando concepto e importe;
 
@@ -1567,7 +1597,11 @@ V. El catálogo de puestos y sueldos de la Administración Pública Municipal, c
 
 VI. Las reglas a las que deberá sujetarse el Ayuntamiento, las autoridades auxiliares y las dependencias y entidades de la Administración Pública Municipal en el ejercicio del gasto;
 
-VII. Los criterios de racionalidad y selectividad a los que deberán apegarse las erogaciones municipales;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 27 DE OCTUBRE DE 2011)</small>
+
+VII. Los criterios de racionalidad y selectividad a los que deberán apegarse las erogaciones municipales y un apartado de indicadores de gestión y medición del desempeño de los programas;
 
 VIII. Los montos máximos de adjudicación directa y de adjudicación mediante invitación para la ejecución de obras públicas y servicios relacionados con las mismas; y,
 
@@ -1927,6 +1961,36 @@ XI. Las demás que resulten de esta ley u otros ordenamientos aplicables, así c
 
 El Bando Municipal podrá modificarse en cualquier tiempo.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 27 DE OCTUBRE DE 2011)</small>
+
+###### ARTÍCULO 188
+
+bis.- El Cabildo deberá expedir la reglamentación relativa a la elaboración de planes, programas e indicadores de gestión y medición del desempeño que incluirá como mínimo indicadores de:
+
+I. Eficiencia.
+
+II. Eficacia.
+
+III. Economía.
+
+IV. Transparencia.
+
+V. Honradez.
+
+VI. Cobertura.
+
+VII. Impacto.
+
+Esta reglamentación también deberá contener:
+
+I.- Medios para obtener y verificar la información de los indicadores.
+
+II.- Periodicidad con que se generarán y publicarán los indicadores.
+
+III.- Sanciones por la alteración o falsedad de los datos de las variables para el cálculo de los componentes y por la falta de cumplimiento a los plazos de publicación y de los requisitos que deben contemplar los planes y programas.
+
 ## TÍTULO OCTAVO. DE LAS SANCIONES Y DEL PROCEDIMIENTO ADMINISTRATIVO
 
 ###### ARTÍCULO 189.
@@ -1976,3 +2040,13 @@ NOVENO.- Los cuerpos de seguridad pública municipal constituidos conforme a la 
 DÉCIMO.- Los Ayuntamientos dispondrán de un plazo de seis meses contados a partir de la fecha en que entre en vigor la presente ley para ajustar conforme a ella sus bandos municipales y los reglamentos municipales.
 
 Dado en el Salón de Sesiones del Palacio Legislativo, en la ciudad de San Francisco de Campeche, Campeche, a los diecinueve días del mes de febrero del año dos mil ocho.
+
+N. DE E.: A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA AL PRESENTE ORDENAMIENTO.
+
+P.O. 27 DE OCTUBRE DE 2011.
+
+Primero.- El presente decreto entrará en vigor a los quince días siguientes de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- Los municipios tendrán noventa días para adecuar su reglamentación a partir de la entrada en vigor de este decreto.
+
+Tercero.- Se derogan todas las disposiciones legales y reglamentarias que se opongan al contenido de este decreto.
