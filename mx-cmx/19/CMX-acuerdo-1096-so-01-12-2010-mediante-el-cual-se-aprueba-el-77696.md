@@ -4,7 +4,7 @@ identifier: "CMX-acuerdo-1096-so-01-12-2010-mediante-el-cual-se-aprueba-el-77696
 country: "mx"
 rank: "acuerdo"
 publication_date: "2010-12-27"
-last_updated: "2010-12-27"
+last_updated: "2011-10-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77696&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2010-12-01"
 
 ACUERDO 1096/SO/01-12/2010 MEDIANTE EL CUAL SE APRUEBA EL PROCEDIMIENTO PARA LA RECEPCIÓN, SUSTANCIACIÓN, RESOLUCIÓN Y SEGUIMIENTO DE LOS RECURSOS DE REVISIÓN INTERPUESTOS ANTE EL INSTITUTO DE ACCESO A LA INFORMACIÓN PÚBLICA DEL DISTRITO FEDERAL, Y SE ABROGA EL ACUERDO 263/SO/11-06/2008
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 28 DE OCTUBRE DE 2011.
 
 Acuerdo publicado en la Gaceta Oficial del Distrito Federal, el lunes 27 de diciembre de 2010.
 
@@ -144,7 +144,9 @@ PROCEDIMIENTO PARA LA RECEPCIÓN, SUBSTANCIACIÓN, RESOLUCIÓN Y SEGUIMIENTO DE 
 
 ### CAPÍTULO PRIMERO. Disposiciones generales
 
-PRIMERO. Las presentes disposiciones tienen como objeto establecer el procedimiento para la recepción, substanciación, resolución y seguimiento de los recursos de revisión que son interpuestos ante el Instituto de Acceso a la Información Pública del Distrito Federal.
+> <small>(REFORMADO, G.O. 28 DE OCTUBRE DE 2011)</small>
+
+PRIMERO.- Las presentes disposiciones tienen como objeto establecer el procedimiento para la recepción, substanciación, resolución y seguimiento de los recursos de revisión que son interpuestos ante el Instituto de Acceso a la Información Pública y Protección de Datos Personales del Distrito Federal.
 
 SEGUNDO. El presente procedimiento es de observancia obligatoria para:
 
@@ -156,35 +158,61 @@ III. La Secretaría Técnica;
 
 IV. La Dirección Jurídica y Desarrollo Normativo;
 
-V. Las Unidades Administrativas del Instituto que se involucren en el procedimiento, y
+> <small>(REFORMADA, G.O. 28 DE OCTUBRE DE 2011)</small>
+
+V. Los Entes Obligados.
 
 VI. Los Entes Públicos.
 
-TERCERO. Además de las definiciones previstas en la Ley de Transparencia y Acceso a la Información Pública del Distrito Federal y en el Reglamento Interior del Instituto de Acceso a la Información Pública del Distrito Federal, para efectos de las presentes disposiciones se entiende por:
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 28 DE OCTUBRE DE 2011)</small>
 
-I. AGRAVIO: A la lesión o afectación a los derechos de acceso a la información o de protección de datos personales, consecuencia de una resolución u omisión del ente público que no satisfaga la solicitud del solicitante;
+TERCERO.- Además de las definiciones previstas en la Ley de Transparencia y Acceso a la Información Pública del Distrito Federal y en el Reglamento Interior del Instituto de Acceso a la Información Pública y Protección de Datos Personales del Distrito Federal, para efectos de las presentes disposiciones se entiende por:
 
-II. APERCIBIMIENTO: A la conminación que este Instituto haga al recurrente o al ente público, a efecto de que se cumpla el requerimiento formulado, haciendo de su conocimiento las consecuencias legales desfavorables en caso de omisión;
+> <small>(REFORMADA, G.O. 28 DE OCTUBRE DE 2011)</small>
 
-III. AUTO DE ADMISIÓN: Al acto procesal mediante el cual la Dirección Jurídica y Desarrollo Normativo del Instituto de Acceso a la Información Pública del Distrito Federal resuelve admitir a trámite el recurso de revisión, por cumplirse los supuestos y requisitos legales que establecen los artículos 53, segundo párrafo, 76, 77 y 78 de la Ley de Transparencia y Acceso a la Información Pública del Distrito Federal, así como los artículos 38, primer párrafo y 40, primer párrafo, de la Ley de Protección de Datos Personales para el Distrito Federal;
+I. AGRAVIO: A la lesión o afectación a los derechos de acceso a la información o de protección de datos personales, consecuencia de una resolución u omisión del ente obligado que no satisfaga la solicitud del solicitante;
 
-IV. AUTO DE DESECHAMIENTO: Al acto procesal mediante el cual la Dirección Jurídica y Desarrollo Normativo del Instituto de Acceso a la Información Pública del Distrito Federal resuelve no admitir a trámite el recurso de revisión, por no ajustarse a los supuestos de procedencia previstos en la Ley de Transparencia y Acceso a la Información Pública del Distrito Federal o 38, párrafo primero de la Ley de Protección de Datos Personales para el Distrito Federal, o por actualizarse los supuestos de improcedencia establecidos en el artículo 83 del mismo ordenamiento legal, así como el artículo 40 de la Ley de Protección de Datos Personales para el Distrito Federal;
+> <small>(REFORMADA, G.O. 28 DE OCTUBRE DE 2011)</small>
 
-V. AUDIENCIA DE AVENENCIA: A la diligencia mediante la cual este Instituto incita a las partes a conciliar, para garantizar el efectivo acceso a la información pública, así como a la protección de datos personales en posesión de los Entes Públicos, evitando así la dilación en el procedimiento;
+II. APERCIBIMIENTO: A la conminación que este Instituto haga al recurrente o al ente obligado, a efecto de que se cumpla el requerimiento formulado, haciendo de su conocimiento las consecuencias legales desfavorables en caso de omisión;
+
+> <small>(REFORMADA, G.O. 28 DE OCTUBRE DE 2011)</small>
+
+III. AUTO DE ADMISIÓN: Al acto procesal mediante el cual la Dirección Jurídica y Desarrollo Normativo del Instituto de Acceso a la Información Pública y Protección de Datos Personales del Distrito Federal resuelve admitir a trámite el recurso de revisión, por cumplirse los supuestos y requisitos legales que establecen los artículos 53, segundo párrafo, 76, 77 y 78 de la Ley de Transparencia y Acceso a la Información Pública del Distrito Federal, así como los artículos 38, primer párrafo y 40, primer párrafo, de la Ley de Protección de Datos Personales para el Distrito Federal;
+
+> <small>(REFORMADA, G.O. 28 DE OCTUBRE DE 2011)</small>
+
+IV. AUTO DE DESECHAMIENTO: Al acto procesal mediante el cual la Dirección Jurídica y Desarrollo Normativo del Instituto de Acceso a la Información Pública y Protección de Datos Personales del Distrito Federal resuelve no admitir a trámite el recurso de revisión, por no ajustarse a los supuestos de procedencia previstos en la Ley de Transparencia y Acceso a la Información Pública del Distrito Federal o 38, párrafo primero de la Ley de Protección de Datos Personales para el Distrito Federal, o por actualizarse los supuestos de improcedencia establecidos en el artículo 83 del mismo ordenamiento legal, así como el artículo 40 de la Ley de Protección de Datos Personales para el Distrito Federal;
+
+> <small>(REFORMADA, G.O. 28 DE OCTUBRE DE 2011)</small>
+
+V. AUDIENCIA DE AVENENCIA: A la diligencia mediante la cual este Instituto incita a las partes a conciliar, para garantizar el efectivo acceso a la información pública, así como a la protección de datos personales en posesión de los entes obligados, evitando así la dilación en el procedimiento;
 
 VI. DESISTIMIENTO: Al acto procesal mediante el cual el recurrente manifiesta por escrito o vía electrónica su voluntad clara, expresa e inequívoca de no continuar con la substanciación y resolución del recurso de revisión, o que se encuentra satisfecho con la entrega de la información. Además, dicho acto deberá ratificarlo de forma electrónica o personalmente, de acuerdo a lo establecido en el artículo 84, fracción I, de la Ley de Transparencia.
 
-VII. DÍAS HÁBILES: Aquéllos en que puedan practicarse diligencias o actuaciones dentro del procedimiento de recurso de revisión, conforme a los horarios establecidos por el Instituto de Acceso a la Información Pública del Distrito Federal;
+> <small>(REFORMADA, G.O. 28 DE OCTUBRE DE 2011)</small>
 
-VIII. DÍAS INHÁBILES: Los sábados y domingos, así como aquellos que declare el Instituto de Acceso a la Información Pública del Distrito Federal mediante acuerdo del Pleno y se publique en la Gaceta Oficial del Distrito Federal, de conformidad con las atribuciones establecidas en el artículo 71, fracciones VII y XL, de la Ley de Transparencia y Acceso a la Información Pública del Distrito Federal, así como el artículo 71 de la Ley de Procedimiento Administrativo del Distrito Federal, de aplicación supletoria;
+VII. DÍAS HÁBILES: Aquéllos en que puedan practicarse diligencias o actuaciones dentro del procedimiento de recurso de revisión, conforme a los horarios establecidos por el Instituto de Acceso a la Información Pública y Protección de Datos Personales del Distrito Federal;
 
-IX. DIRECCIÓN: A la Dirección Jurídica y Desarrollo Normativo del Instituto de Acceso a la Información Pública del Distrito Federal;
+> <small>(REFORMADA, G.O. 28 DE OCTUBRE DE 2011)</small>
 
-X. INFODF: Al Instituto de Acceso a la Información Pública del Distrito Federal;
+VIII. DÍAS INHÁBILES: Los sábados y domingos, así como aquellos que declare el Instituto de Acceso a la Información Pública y Protección de Datos Personales del Distrito Federal mediante acuerdo del Pleno y se publique en la Gaceta Oficial del Distrito Federal, de conformidad con las atribuciones establecidas en el artículo 71, fracciones VII y XL, de la Ley de Transparencia y Acceso a la Información Pública del Distrito Federal, así como el artículo 71 de la Ley de Procedimiento Administrativo del Distrito Federal, de aplicación supletoria;
 
-XI. INFORME DE LEY: Al escrito que presenta el ente público, mediante el cual realiza argumentos respecto a la debida fundamentación y motivación de su actuación u omisión;
+> <small>(REFORMADA, G.O. 28 DE OCTUBRE DE 2011)</small>
 
-XII. INFOMEX: Al sistema electrónico mediante el cual las personas podrán presentar sus solicitudes de acceso a la información pública y de acceso, rectificación, cancelación y oposición de datos personales, y es el sistema único para el registro y captura de todas las solicitudes recibidas por los Entes Públicos a través de los medios señalados en la Ley de Transparencia y Acceso a la Información del Distrito Federal y la Ley de Protección de Datos Personales para el Distrito Federal, así como para la recepción de los recursos de revisión interpuestos a través del propio sistema;
+IX. DIRECCIÓN: A la Dirección Jurídica y Desarrollo Normativo del Instituto de Acceso a la Información Pública y Protección de Datos Personales del Distrito Federal;
+
+> <small>(REFORMADA, G.O. 28 DE OCTUBRE DE 2011)</small>
+
+X. INFODF: Al Instituto de Acceso a la Información Pública y Protección de Datos Personales del Distrito Federal;
+
+> <small>(REFORMADA, G.O. 28 DE OCTUBRE DE 2011)</small>
+
+XI. INFORME DE LEY: Al escrito que presenta el ente obligado, mediante el cual realiza argumentos respecto a la debida fundamentación y motivación de su actuación u omisión;
+
+> <small>(REFORMADA, G.O. 28 DE OCTUBRE DE 2011)</small>
+
+XII. INFOMEX: Al sistema electrónico mediante el cual las personas podrán presentar sus solicitudes de acceso a la información pública y de acceso, rectificación, cancelación y oposición de datos personales, y es el sistema único para el registro y captura de todas las solicitudes recibidas por los entes obligados a través de los medios señalados en la Ley de Transparencia y Acceso a la Información del Distrito Federal y la Ley de Protección de Datos Personales para el Distrito Federal, así como para la recepción de los recursos de revisión interpuestos a través del propio sistema;
 
 XIII. LEY DE TRANSPARENCIA: Ley de Transparencia y Acceso a la Información Pública del Distrito Federal;
 
@@ -192,7 +220,9 @@ XIV. LEY DE DATOS PERSONALES: Ley de Protección de Datos Personales para el Dis
 
 XV. PREVENCIÓN: Al acto procesal mediante el cual se requiere al recurrente aclare, precise o subsane algún aspecto relacionado con su escrito inicial del recurso de revisión interpuesto, a efecto de mejor proveer en el mismo;
 
-XVI. RECURSO DE REVISIÓN: Al medio de defensa que puede hacer valer el solicitante, en contra de los actos u omisiones efectuados por los Entes Públicos, en caso de considerar que vulneran sus derechos de acceso a la información pública y de protección de datos personales;
+> <small>(REFORMADA, G.O. 28 DE OCTUBRE DE 2011)</small>
+
+XVI. RECURSO DE REVISIÓN: Al medio de defensa que puede hacer valer el solicitante, en contra de los actos u omisiones efectuados por los entes obligados, en caso de considerar que vulneran sus derechos de acceso a la información pública y de protección de datos personales;
 
 XVII. RECURRENTE: A la persona que interpone recurso de revisión ante el INFODF, por considerarse agraviada en el ejercicio de sus derechos de acceso a la información pública y a la protección de datos personales;
 
@@ -216,9 +246,13 @@ NOVENO. Cada una de las unidades administrativas del INFODF que intervienen en e
 
 ### CAPÍTULO SEGUNDO. De la recepción
 
-DÉCIMO. El INFODF recibirá los recursos de revisión que interpongan los particulares a través de los siguientes medios:
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 28 DE OCTUBRE DE 2011)</small>
 
-I. DIRECTA: A través de escrito material que sea presentado en la Unidad de Correspondencia del INFODF, ubicada en calle La Morena número 865, Plaza Narvarte, local 1, Colonia Narvarte Poniente, Delegación Benito Juárez, código postal 03020;
+DÉCIMO.- La interposición de los recursos de revisión ante El INFODF por los particulares, deberá realizarse a través de las siguientes formas de presentación:
+
+> <small>(REFORMADA, G.O. 28 DE OCTUBRE DE 2011)</small>
+
+I. DIRECTA: A través de escrito material que sea presentado en la Unidad de Correspondencia del INFODF, ubicada en calle La Morena número 865, local 1, Colonia Narvarte Poniente, Delegación Benito Juárez, código postal 03020;
 
 II. ELECTRÓNICA:
 
@@ -226,7 +260,9 @@ a) A través de correo electrónico a la cuenta recursoderevision@infodf.org.mx,
 
 b) A través del sistema electrónico INFOMEX.
 
-No se recibirán recursos de revisión en medios distintos a los señalados.
+> <small>(REFORMADO, G.O. 28 DE OCTUBRE DE 2011)</small>
+
+No se recibirán recursos de revisión a través de medios distintos a los señalados.
 
 DÉCIMO PRIMERO. El horario para la recepción de los recursos de revisión es el siguiente:
 
@@ -234,13 +270,19 @@ I. PRESENTACIÓN DIRECTA: De 9:00 a 15:00 horas y de 16:00 a 18:00 horas durante
 
 II. PRESENTACIÓN EN MEDIOS ELECTRÓNICOS: De 9:00 a 18:00 horas, zona horaria del centro de los Estados Unidos Mexicanos, en días hábiles.
 
-Los recursos de revisión presentados en estos medios, después de las 18:00 horas o en días inhábiles, se considerarán recibidos al día y hora hábil siguiente.
+> <small>(REFORMADO, G.O. 28 DE OCTUBRE DE 2011)</small>
+
+Los recursos de revisión presentados a través de estos medios, después de las 18:00 horas o en días inhábiles, se considerarán recibidos al día y hora hábil siguiente.
 
 ### CAPÍTULO TERCERO. De la substanciación
 
-DÉCIMO SEGUNDO. Recibido el recurso de revisión en los medios autorizados, serán remitidos por parte de la Secretaría Técnica a la Dirección para los efectos correspondientes.
+> <small>(REFORMADO, G.O. 28 DE OCTUBRE DE 2011)</small>
 
-DÉCIMO TERCERO. El INFODF durante la substanciación del recurso podrá aplicar la suplencia de la deficiencia de la queja a favor del recurrente, asimismo en la resolución que al efecto se emita se le orientará sobre las instancias legales a las que puede acudir en defensa de sus derechos, de conformidad con los artículos 80, fracción IX, y 88, segundo párrafo, de la Ley de Transparencia.
+DÉCIMO SEGUNDO.- Recibido el recurso de revisión a través de los medios autorizados, serán remitidos por parte de la Secretaría Técnica a la Dirección para los efectos correspondientes.
+
+> <small>(REFORMADO, G.O. 28 DE OCTUBRE DE 2011)</small>
+
+DÉCIMO TERCERO.- El INFODF durante la substanciación del recurso podrá aplicar la suplencia de la deficiencia de la queja a favor del recurrente, asimismo en la resolución que al efecto se emita se le orientará sobre las instancias legales a las que puede acudir en defensa de sus derechos, de conformidad con los artículos 80, fracción IX, y 88, párrafo tercero, de la Ley de Transparencia.
 
 DÉCIMO CUARTO. Sin perjuicio de las atribuciones que le confiere el Reglamento Interior del INFODF, el Director Jurídico y Desarrollo Normativo del Instituto suscribirá acuerdos relativos a:
 
@@ -248,17 +290,31 @@ I. La admisión, prevención y desechamiento de los recursos de revisión interp
 
 II. La no interposición de los recursos de revisión;
 
-III. El sobreseimiento del recurso de revisión, cuando se desista el recurrente;
+> <small>(REFORMADA, G.O. 28 DE OCTUBRE DE 2011)</small>
 
-IV. Subsanar toda omisión detectada en la substanciación, sólo para efecto de regularizar el procedimiento, con la limitante que no podrá revocar sus propias determinaciones;
+III. El sobreseimiento del recurso de revisión por desistimiento expreso del recurrente;
+
+> <small>(REFORMADA, G.O. 28 DE OCTUBRE DE 2011)</small>
+
+IV. La regularización del procedimiento enfocada únicamente a subsanar toda omisión detectada durante la substanciación del mismo, con la limitante de que no podrá revocar sus propias determinaciones;
 
 V. La admisión, desechamiento y desahogo de las pruebas ofrecidas por las partes y las requeridas para mejor resolver el recurso de revisión;
 
-VI. Los necesarios para substanciar el recurso de revisión interpuesto, y
+> <small>(REFORMADA, G.O. 28 DE OCTUBRE DE 2011)</small>
 
-VII. Dar vista al superior jerárquico o al órgano de control de los entes públicos que incumplan las resoluciones del Pleno.
+VI. Todas aquellas actuaciones necesarias para substanciar el recurso de revisión interpuesto, y
 
-DÉCIMO QUINTO. La Dirección al recibir los recursos de revisión analizará si el acto impugnado se refiere a:
+> <small>(REFORMADA, G.O. 28 DE OCTUBRE DE 2011)</small>
+
+VII. La vista dada al superior jerárquico o al órgano de control de los entes obligados que incumplan las resoluciones del Pleno.
+
+> <small>(ADICIONADO, G.O. 28 DE OCTUBRE DE 2011)</small>
+
+En aquellos casos en que el nombre del recurrente sea distinto al del solicitante de información, la Dirección prevendrá al recurrente a efecto de que precise o aclare dicha situación, apercibiéndolo que para el caso de no desahogar la misma el recurso de revisión se tendrá por no interpuesto.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 28 DE OCTUBRE DE 2011)</small>
+
+DÉCIMO QUINTO.- La Dirección al recibir de la Secretaría Técnica los recursos de revisión, analizará si el acto impugnado se refiere a:
 
 I. La negativa de acceso a la información;
 
@@ -272,13 +328,17 @@ V. La inconformidad de los costos, tiempos de entrega y contenido de la informac
 
 VI. La información que se entregó sea incompleta o no corresponda con la solicitud;
 
-VII. La inconformidad con las razones que originan una prórroga;
+VII. (DEROGADA, G.O. 28 DE OCTUBRE DE 2011)
 
 VIII. Contra la falta de respuesta de un ente público obligado a su solicitud, dentro de los plazos establecidos en la Ley de Transparencia;
 
-IX. Contra la negativa del ente público a realizar la consulta directa;
+> <small>(REFORMADA, G.O. 28 DE OCTUBRE DE 2011)</small>
 
-X. Cuando el solicitante estime que la respuesta del ente público es antijurídica o carente de fundamentación y motivación;
+IX. Contra la negativa del ente obligado a realizar la consulta directa;
+
+> <small>(REFORMADA, G.O. 28 DE OCTUBRE DE 2011)</small>
+
+X. Cuando el solicitante estime que la respuesta del ente obligado es antijurídica o carente de fundamentación y motivación;
 
 XI. Contra la respuesta que se emita dentro del plazo legal establecido para tal efecto, posterior a su vencimiento, si ésta fuese ambigua o parcial, a juicio del solicitante;
 
@@ -288,9 +348,13 @@ XIII. Ante la omisión de la respuesta a una solicitud de acceso, rectificación
 
 DÉCIMO SEXTO. La Dirección al recibir y analizar los recursos de revisión, desechará aquellos que actualicen alguna de las causales establecidas en el artículo 83 de la Ley de Transparencia, o por no ajustarse a los supuestos de procedencia previstos en la misma, emitiendo el auto de desechamiento respectivo.
 
-DÉCIMO SÉPTIMO. En la substanciación de los recursos que se interpongan para los supuestos señalados en el numeral décimo quinto, fracciones I, II, III, IV, V, VI, VII, IX, X, XI y XII del presente ordenamiento, la Dirección, en términos del artículo 80 de la Ley de Transparencia, se sujetará a lo siguiente:
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 28 DE OCTUBRE DE 2011)</small>
 
-I. Dentro de los tres días hábiles siguientes a la presentación del mismo, dictará el auto de desechamiento, o admisión correspondiente;
+DÉCIMO SÉPTIMO.- En la substanciación de los recursos que se interpongan para los supuestos señalados en el numeral décimo quinto, fracciones I, II, III, IV, V, VI, IX, X, XI y XII del presente ordenamiento, la Dirección, en términos de los artículos 79 y 80 de la Ley de Transparencia, se sujetará a lo siguiente:
+
+> <small>(REFORMADA, G.O. 28 DE OCTUBRE DE 2011)</small>
+
+I. Dentro de los tres días hábiles siguientes a la presentación del mismo, dictará el auto correspondiente;
 
 II. Dentro de los cinco días hábiles siguientes a la presentación del mismo, prevendrá al recurrente en el caso de que su escrito inicial de interposición de recurso de revisión no cumpla con alguno de los requisitos a que se refiere el artículo 78 de la Ley de Transparencia, así como para el efecto de que aclare, precise o subsane alguno de los requisitos señalados en el precepto invocado, con la finalidad de mejor proveer el medio de impugnación interpuesto.
 
@@ -300,7 +364,9 @@ Desahogada o no la prevención requerida, transcurrido el plazo de cinco días h
 
 III. En caso de dictarse auto de admisión, acordará respecto de los siguientes puntos:
 
-a) Requerirá al ente público que rinda su respectivo Informe de Ley, dentro del plazo de cinco días hábiles, el cual deberá de contener:
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 28 DE OCTUBRE DE 2011)</small>
+
+a. Requerirá al ente obligado que rinda su respectivo Informe de Ley, dentro del plazo de los cinco días hábiles siguientes, el cual deberá de contener:
 
 1. Los motivos y fundamentos respecto del acto o resolución recurrida, y
 
@@ -320,21 +386,35 @@ V. Una vez desahogada o no la vista con el Informe de Ley por parte del recurren
 
 VI. Transcurrido el periodo de alegatos la Dirección hará constar la presentación u omisión de los mismos, y declarará cerrada la instrucción y ordenará la elaboración del proyecto de resolución correspondiente, a efecto de que sea presentado para su resolución dentro del plazo máximo de 40 días hábiles, contados a partir del día hábil siguiente a la fecha de admisión del recurso.
 
-DÉCIMO OCTAVO. En el supuesto de que el ente público, durante la substanciación del procedimiento establecido en el numeral anterior no rinda, en tiempo y forma, el Informe de Ley requerido, la Dirección dictará proveído mediante el cual declarará cerrada la instrucción y ordenará la elaboración del proyecto de resolución correspondiente, a efecto de que sea presentado para su resolución dentro del plazo máximo de 20 días hábiles, contados a partir del día hábil siguiente a la fecha en que fenezca el plazo para la rendición del Informe multicitado.
+> <small>(REFORMADO, G.O. 28 DE OCTUBRE DE 2011)</small>
+
+DÉCIMO OCTAVO.- En el supuesto de que el ente obligado, durante la substanciación del procedimiento establecido en el numeral anterior no rinda, en tiempo y forma, el Informe de Ley requerido, la Dirección dictará proveído mediante el cual declarará cerrada la instrucción y ordenará la elaboración del proyecto de resolución correspondiente, a efecto de que sea presentado para su resolución dentro del plazo máximo de 20 días hábiles, contados a partir del día hábil siguiente a la fecha en que fenezca el plazo para la rendición del Informe multicitado.
 
 DÉCIMO NOVENO. Procederá la admisión del recurso de revisión por omisión de respuesta en los supuestos siguientes:
 
-I. Concluido el plazo legal para atender una solicitud de información pública o de acceso, rectificación, cancelación y oposición de datos personales, el ente público no haya emitido ninguna respuesta;
+> <small>(REFORMADA, G.O. 28 DE OCTUBRE DE 2011)</small>
 
-II. El ente público señaló que se anexó una respuesta o la información solicitada, en tiempo, sin que lo acredite;
+I. Concluido el plazo legal para atender una solicitud de información pública o de acceso, rectificación, cancelación y oposición de datos personales, el ente obligado no haya emitido ninguna respuesta;
 
-III. El ente público, a través del sistema INFOMEX, genera una prevención o ampliación de plazo, en el paso “de respuesta”, y
+> <small>(REFORMADA, G.O. 28 DE OCTUBRE DE 2011)</small>
 
-IV. Cuando el ente público manifieste al recurrente que por cargas de trabajo o problemas internos no está en condiciones de dar respuesta a la solicitud de información.
+II. El ente obligado haya señalado que se anexó una respuesta o la información solicitada, en tiempo, sin que lo haya acreditado;
 
-VIGÉSIMO: En la substanciación de los recursos que se interpongan para los supuestos señalados en el numeral DÉCIMO QUINTO, fracciones VIII y XIII del presente ordenamiento, la Dirección, en términos del artículo 86 de la Ley de Transparencia, se sujetará a lo siguiente:
+> <small>(REFORMADA, G.O. 28 DE OCTUBRE DE 2011)</small>
 
-I. A más tardar al día hábil siguiente a la presentación del mismo, dictará el auto de desechamiento, o de admisión correspondiente;
+III. El ente obligado, al dar respuesta, materialmente emita una prevención o ampliación de plazo, y
+
+> <small>(REFORMADA, G.O. 28 DE OCTUBRE DE 2011)</small>
+
+IV. Cuando el ente obligado haya manifestado al recurrente que por cargas de trabajo o problemas internos no está en condiciones de dar respuesta a la solicitud de información.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 28 DE OCTUBRE DE 2011)</small>
+
+VIGÉSIMO: En la substanciación de los recursos que se interpongan para los supuestos contemplados en el artículo 77, fracción VIII, de la Ley de Transparencia, y en el numeral DÉCIMO QUINTO, fracciones VIII y XIII del presente ordenamiento, la Dirección, en términos de los artículos 79 y 86 de la Ley de Transparencia, se sujetará a lo siguiente:
+
+> <small>(REFORMADA, G.O. 28 DE OCTUBRE DE 2011)</small>
+
+I. A más tardar al día hábil siguiente a la presentación del mismo, dictará el auto correspondiente;
 
 II. Dentro de los cinco días hábiles siguientes a la presentación del mismo, se prevendrá al recurrente en el caso de que su escrito inicial de interposición de recurso de revisión no cumpla con alguno de los requisitos a que se refiere el artículo 78 de la Ley de Transparencia, así como para el efecto de que aclare, precise o subsane alguno de los requisitos señalados en el precepto invocado, con la finalidad de mejor proveer el medio de impugnación interpuesto.
 
@@ -344,35 +424,57 @@ Desahogada o no la prevención requerida, transcurrido el plazo que se hubiere o
 
 III. En caso de dictarse auto admisorio, la Dirección acordará lo siguiente:
 
-a) Requerir al ente público para que alegue lo que a su derecho convenga, dentro del plazo de tres días hábiles, debiendo manifestarse respecto a la existencia de respuesta o no a la solicitud presentada;
+> <small>(REFORMADO, G.O. 28 DE OCTUBRE DE 2011)</small>
+
+a) Requerir al ente obligado para que alegue lo que a su derecho convenga, dentro del plazo de tres días hábiles, debiendo manifestarse respecto a la existencia de respuesta o no a la solicitud presentada;
 
 b) Las diligencias para mejor proveer y resolver el recurso de revisión;
 
-c) En el supuesto de que al realizar sus manifestaciones el ente público no acredite la emisión de una respuesta, se declarará cerrada la instrucción y ordenará la elaboración del proyecto de resolución correspondiente, a efecto de que sea presentado para su resolución dentro del plazo máximo de 10 días hábiles, contados a partir del día hábil siguiente a la fecha en que fenezca el plazo para pronunciarse;
+> <small>(REFORMADO, G.O. 28 DE OCTUBRE DE 2011)</small>
 
-En el presente supuesto, la resolución que emita el INFODF deberá ser favorable al solicitante, salvo que el ente público exponga de manera fundada y motivada que se trata de información reservada o confidencial, de conformidad al último párrafo del artículo 86 de la Ley de Transparencia, y
+c) En el supuesto de que al realizar sus manifestaciones el ente obligado no acredite la emisión de una respuesta, se declarará cerrada la instrucción y ordenará la elaboración del proyecto de resolución correspondiente, a efecto de que sea presentado para su resolución dentro del plazo máximo de 10 días hábiles, contados a partir del día hábil siguiente a la fecha en que fenezca el plazo para pronunciarse;
 
-d) En caso de que al realizar sus manifestaciones el ente público acredite la emisión y notificación al solicitante de una respuesta, dentro de los plazos a que se refiere el artículo 51 de la Ley de Transparencia, se declarará cerrada la instrucción y ordenará la elaboración del proyecto de resolución correspondiente, a efecto de que sea presentado para su resolución dentro del plazo máximo de 10 días hábiles.
+En el presente supuesto, la resolución que emita el INFODF deberá ser favorable al solicitante, salvo que el ente obligado exponga de manera fundada y motivada que se trata de información reservada o confidencial, de conformidad al último párrafo del artículo 86 de la Ley de Transparencia, y
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 28 DE OCTUBRE DE 2011)</small>
+
+d) En caso de que al realizar sus manifestaciones el ente obligado acredite la emisión y notificación al solicitante de una respuesta, dentro de los plazos a que se refiere el artículo 51 de la Ley de Transparencia, se declarará cerrada la instrucción y ordenará la elaboración del proyecto de resolución correspondiente, a efecto de que sea presentado para su resolución dentro del plazo máximo de 10 días hábiles.
 
 En este caso el sentido del proyecto será sobreseer el recurso de revisión.
 
-VIGÉSIMO PRIMERO. En el supuesto de que el ente público, durante la substanciación del recurso de revisión interpuesto en contra de la omisión de respuesta, acredite la emisión de la misma dentro de los diez días hábiles posteriores al vencimiento del plazo establecido en el artículo 51 de la Ley de Transparencia, dicha respuesta sólo será agregada a los autos y no podrá ser considerada como respuesta emitida dentro del plazo de Ley.
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 28 DE OCTUBRE DE 2011)</small>
+
+VIGÉSIMO PRIMERO.- En el supuesto de que el ente obligado, durante la substanciación del recurso de revisión interpuesto en contra de la omisión de respuesta, acredite la emisión de la misma dentro de los diez días hábiles posteriores al vencimiento del plazo establecido en el artículo 51 de la Ley de Transparencia, dicha respuesta sólo será agregada a los autos y no podrá ser considerada como respuesta emitida dentro del plazo de Ley.
 
 No obstante lo anterior, en la resolución correspondiente se dejarán a salvo los derechos del recurrente para que impugne la respuesta extemporánea en términos del último párrafo del artículo 53 de la Ley de Transparencia. En caso de impugnarse dicha respuesta extemporánea, se tramitará conforme al numeral décimo séptimo de los presentes lineamientos.
 
 VIGÉSIMO SEGUNDO. En caso de que el recurso de revisión se interponga en contra del supuesto establecido en el numeral décimo quinto, fracción XI, de los presentes lineamientos, el INFODF revisará y analizará las violaciones que se hubieren cometido durante el procedimiento de atención a la solicitud, para que en su caso se dé vista al órgano de control correspondiente.
 
-VIGÉSIMO TERCERO. Las partes podrán presentar pruebas y realizar manifestaciones, y en el caso del Ente Público, además, sólo podrá exhibir respuestas que cumplan con el requerimiento de la solicitud de información pública o de acceso, rectificación, cancelación y oposición de datos personales, hasta el cierre de instrucción.
+> <small>(REFORMADO, G.O. 28 DE OCTUBRE DE 2011)</small>
+
+VIGÉSIMO TERCERO.- Las partes podrán presentar pruebas y realizar manifestaciones, y en el caso del ente obligado, además, sólo podrá exhibir respuestas que cumplan con el requerimiento de la solicitud de información pública o de acceso, rectificación, cancelación y oposición de datos personales, hasta el cierre de instrucción.
 
 VIGÉSIMO CUARTO. Una vez cerrada la instrucción y hasta antes de la resolución sólo se podrán admitir pruebas supervenientes que impliquen documentos con las siguientes características: cuya fecha sea posterior a la presentación del informe de ley; que no hayan sido conocidos y quien los presente manifieste, bajo protesta de decir verdad, no haber tenido antes conocimiento de su existencia; y los que con anterioridad, no fue posible adquirirlos por causas no imputables a la parte interesada. Lo anterior, de conformidad a la normatividad aplicable.
 
 Las respuestas realizadas o exhibidas después del cierre de instrucción no serán consideradas como pruebas supervenientes.
 
-VIGÉSIMO QUINTO. Las notificaciones de los autos y determinaciones que se dicten en el procedimiento del recurso de revisión se realizarán a los entes públicos a través del correo electrónico oficial de la Oficina de Información Pública, con excepción del auto admisorio y de la resolución correspondiente, los cuales se harán mediante oficio.
+> <small>(REFORMADO, G.O. 28 DE OCTUBRE DE 2011)</small>
 
-Para las notificaciones a través de correo electrónico referidas en el párrafo anterior, en el primer auto que se dicte, la Dirección requerirá al ente público para que proporcione el correo electrónico oficial de su Oficina de Información Pública, y en el caso de no atender dicho requerimiento, las notificaciones se realizarán a través de lista que se fije en los estrados del INFODF.
+VIGÉSIMO QUINTO.- Las notificaciones de los autos y determinaciones que se dicten en el procedimiento del recurso de revisión se realizarán a los entes obligados a través del correo electrónico oficial de la Oficina de Información Pública, con excepción del auto admisorio y de la resolución correspondiente, los cuales se harán mediante oficio.
 
-VIGÉSIMO SEXTO. El recurrente que presente desistimiento expreso del recurso de revisión interpuesto o manifieste su voluntad clara e inequívoca de no continuar con la substanciación y resolución del mismo, o que se encuentra satisfecho con la entrega de la información, deberá ratificarlo vía electrónica o personalmente, de acuerdo a lo establecido en el artículo 84, fracción I, de la Ley de Transparencia. Asimismo, la Dirección Jurídica y Desarrollo Normativo resolverá lo que a derecho corresponda.
+Para las notificaciones a través de correo electrónico referidas en el párrafo anterior, en el primer auto que se dicte, la Dirección requerirá al ente obligado para que proporcione el correo electrónico oficial de su Oficina de Información Pública, y en el caso de no atender dicho requerimiento, las notificaciones se realizarán a través de lista que se fije en los estrados del INFODF.
+
+> <small>(REFORMADO, G.O. 28 DE OCTUBRE DE 2011)</small>
+
+VIGÉSIMO SEXTO.-Para el caso de que el recurrente se desista del recurso deberá manifestar su voluntad clara e inequívoca de no continuar con la substanciación y resolución del mismo, o que se encuentra satisfecho con la entrega de la información.
+
+Para lo anterior se atenderá la forma en que haya sido presentado el recurso de revisión atendiendo a lo siguiente:
+
+I. Cuando se haya presentado por escrito material suscrito por el recurrente ante la Unidad de Correspondencia del Instituto, el desistimiento deberá promoverse por escrito material con la firma autógrafa del recurrente.
+
+II. Cuando el recurso de revisión haya sido presentado por correo electrónico, el desistimiento deberá de ser presentado a través de la misma cuenta de correo electrónico por la cual se presentó o a través de alguna de las cuentas de correo electrónico autorizadas para recibir notificaciones.
+
+III. Cuando la presentación del recurso de revisión se haya efectuado a través de INFOMEX, el desistimiento deberá presentarse través de alguna de las cuentas de correo electrónico autorizadas para recibir notificaciones.
 
 VIGÉSIMO SÉPTIMO. Cerrada la instrucción del recurso de revisión, la Dirección realizará el proyecto de resolución que será presentado al Pleno antes del vencimiento del plazo correspondiente para resolverlo en términos de Ley y del presente ordenamiento.
 
@@ -392,9 +494,13 @@ V. Cuando por causa justificada así lo determine el Pleno.
 
 VIGÉSIMO NOVENO. Cuando el Pleno advierta que existen violaciones en el procedimiento que pudieran dejar sin defensa alguna de las partes, podrá ordenar a la Dirección que regularice las actuaciones.
 
-TRIGÉSIMO. El plazo para el cumplimiento de las resoluciones será establecido por el Pleno en atención a las circunstancias especiales de cada caso. Asimismo, el ente público deberá informar al INFODF sobre el avance o cumplimiento de sus resoluciones en un plazo no mayor a cinco días hábiles, posteriores a la notificación de la resolución, de conformidad con lo dispuesto en el artículo 90 de la Ley.
+> <small>(REFORMADO, G.O. 28 DE OCTUBRE DE 2011)</small>
 
-TRIGÉSIMO PRIMERO. La Secretaría Técnica incorporará las observaciones y modificaciones propuestas por los Comisionados Ciudadanos con relación a las resoluciones de recursos de revisión aprobadas por el Pleno, así como llevar a cabo los ajustes de forma para que la resolución sea clara y estructurada de manera lógica, en términos del sentido y de la instrucción aprobados por el Pleno.
+TRIGÉSIMO.- El plazo para el cumplimiento de las resoluciones será establecido por el Pleno en atención a las circunstancias especiales de cada caso. Asimismo, el ente obligado deberá informar al INFODF sobre el avance o cumplimiento de sus resoluciones en un plazo no mayor a cinco días hábiles, posteriores a la notificación de la resolución, de conformidad con lo dispuesto en el artículo 90 de la Ley.
+
+> <small>(REFORMADO, G.O. 28 DE OCTUBRE DE 2011)</small>
+
+TRIGÉSIMO PRIMERO.- La Secretaría Técnica incorporará las observaciones y modificaciones propuestas por los Comisionados Ciudadanos durante la sesión del pleno, con relación a las resoluciones de recursos de revisión aprobadas en la misma, de igual manera llevará a cabo los ajustes de forma para que la resolución sea clara y estructurada de manera lógica, en términos del sentido y de la instrucción aprobados por el Pleno.
 
 TRIGÉSIMO SEGUNDO. La Secretaría Técnica notificará las resoluciones en el plazo establecido por la Ley de Transparencia.
 
@@ -404,21 +510,29 @@ TRIGÉSIMO TERCERO. La Secretaría Técnica remitirá a la Dirección la versió
 
 TRIGÉSIMO CUARTO. La Dirección dará seguimiento al cumplimiento de las resoluciones emitidas por el Pleno del Instituto, en los siguientes términos:
 
-A) Cuando el ente público atienda la instrucción del Pleno:
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 28 DE OCTUBRE DE 2011)</small>
 
-I. Una vez recibidos los documentos con los que se pretenda acreditar el cumplimiento a las resoluciones por parte del ente público, se dará vista a la parte recurrente por el término de tres días hábiles, a efecto de que manifieste lo que a su derecho convenga;
+A. Cuando el ente obligado atienda la instrucción del Pleno:
 
-II. Desahogada o no la vista con los documentos de cumplimiento, la Dirección analizará si cumple o no la resolución correspondiente.
+I. (DEROGADA, G.O. 28 DE OCTUBRE DE 2011)
 
-En caso de que se determine el incumplimiento de la resolución, la Dirección notificará el mismo al superior jerárquico del ente público responsable, a fin de que ordene el cumplimiento en un plazo que no excederá de diez días hábiles, de conformidad con lo dispuesto por el artículo 91 de la Ley de Transparencia. En caso de que se determine el cumplimiento se dará por concluida y cerrada la resolución;
+> <small>(REFORMADA, G.O. 28 DE OCTUBRE DE 2011)</small>
 
-III. Con las documentales que presente el ente público, derivadas de la vista al superior jerárquico, la Dirección analizará si se cumple o no la resolución correspondiente;
+II. Con los documentos de cumplimiento, la Dirección analizará si cumple o no la resolución correspondiente.
+
+En caso de que se determine el incumplimiento de la resolución, la Dirección notificará el mismo al superior jerárquico del ente obligado responsable, a fin de que ordene el cumplimiento en un plazo que no excederá de diez días hábiles, de conformidad con lo dispuesto por el artículo 91 de la Ley de Transparencia. En caso de que se determine el cumplimiento se dará por concluida y cerrada la resolución;
+
+> <small>(REFORMADA, G.O. 28 DE OCTUBRE DE 2011)</small>
+
+III. Con las documentales que presente el ente obligado, derivadas de la vista al superior jerárquico, la Dirección analizará si se cumple o no la resolución correspondiente;
 
 IV. En caso de que la Dirección determine que persiste el incumplimiento, se notificará al órgano de control correspondiente, adjuntando copias certificadas de las actuaciones, para su inmediata intervención y proceda en su caso en términos de la normatividad aplicable.
 
 En caso de que se determine el cumplimiento de la resolución se dará por concluida.
 
-B) Cuando el ente público sea omiso en la instrucción, en un plazo de cinco días, a partir de que fenezca el término que señala la resolución para que atienda la instrucción emitida por el Pleno, se procederá conforme y a partir de la fracción II, segundo párrafo, del inciso anterior.
+> <small>(REFORMADO, G.O. 28 DE OCTUBRE DE 2011)</small>
+
+B. Cuando el ente obligado sea omiso en la instrucción, en un plazo de cinco días, a partir de que fenezca el término que señala la resolución para que atienda la instrucción emitida por el Pleno, se procederá conforme y a partir de la fracción II, segundo párrafo, del inciso anterior.
 
 TRIGÉSIMO QUINTO. No se podrá declarar cerrado un expediente hasta en tanto no se haya dado cabal cumplimiento a la resolución definitiva o se haya extinguido la materia de la ejecución de la resolución de conformidad con lo dispuesto por el artículo 92 de la Ley de Transparencia y Acceso a la Información Pública del Distrito Federal.
 
@@ -437,3 +551,9 @@ Lic. José de Jesús Ramírez Sánchez
 Secretario Técnico del INFODF
 
 Responsable de la Publicación
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+G.O. 28 DE OCTUBRE DE 2011.
+
+ÚNICO.- Las presentes modificaciones y adiciones entrarán en vigor al día siguiente de su aprobación por el Pleno del Instituto de Acceso a la Información Pública y Protección de Datos Personales del Distrito Federal.
