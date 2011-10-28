@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-11-2011-del-pleno-del-consejo-de-la-81249"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2011-05-12"
-last_updated: "2011-10-14"
+last_updated: "2011-10-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81249&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2011-05-03"
 
 ACUERDO GENERAL 11/2011, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DETERMINACION DEL NUMERO Y LIMITES TERRITORIALES DE LOS CIRCUITOS EN QUE SE DIVIDE LA REPUBLICA MEXICANA; Y AL NUMERO, A LA JURISDICCION TERRITORIAL Y ESPECIALIZACION POR MATERIA DE LOS TRIBUNALES COLEGIADOS Y UNITARIOS DE CIRCUITO Y DE LOS JUZGADOS DE DISTRITO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 14 DE OCTUBRE DE 2011.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 28 DE OCTUBRE DE 2011.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el jueves 12 de mayo de 2011.
 
@@ -291,7 +291,9 @@ XXI. VIGESIMO PRIMER CIRCUITO:
 
 2. Dos tribunales unitarios: uno con sede en Chilpancingo y el otro con residencia en Acapulco.
 
-3. Ocho juzgados de Distrito en el Estado de Guerrero: dos con residencia en Chilpancingo, cinco con sede en Acapulco y uno con residencia en Iguala.
+> <small>(REFORMADO POR EL PUNTO NOVENO DEL ACUERDO GENERAL 36/2011 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 28 DE OCTUBRE DE 2011)</small>
+
+3. Nueve juzgados de Distrito en el Estado de Guerrero: dos con residencia en Chilpancingo, cinco con residencia en Acapulco y dos con residencia en Iguala.
 
 XXII. VIGESIMO SEGUNDO CIRCUITO:
 
@@ -637,7 +639,9 @@ Los juzgados de Distrito en el Estado de Guerrero, con residencia en Chilpancing
 
 Los juzgados de Distrito en el Estado de Guerrero, con sede en Acapulco, ejercerán jurisdicción territorial en el distrito judicial conformado por los municipios de: Acapulco de Juárez, Atoyac de Alvarez, Ayutla de los Libres, Azoyú, Juchitán, Benito Juárez, Coahuayutla de José María Izazaga, Copala, Coyuca de Benítez, Cuajinicuilapa, Cuautepec, Florencio Villarreal, Igualapa, José Azueta, Juan R. Escudero, La Unión de Isidoro Montes de Oca, Marquelia, Ometepec, Petatlán, San Luis Acatlán, San Marcos, Tecoanapa, Tecpan de Galeana, Tlacoachistlahuaca y Xochistlahuaca.
 
-El juzgado de Distrito en el Estado de Guerrero, con residencia en Iguala, ejercerá jurisdicción territorial en el distrito judicial conformado por los municipios de: Ajuchitlán del Progreso, Apaxtla, Arcelia, Atenango del Río, Buenavista de Cuéllar, Cocula, Copalillo, Coyuca de Catalán, Cuetzala del Progreso, Cutzamala de Pinzón, General Canuto A. Neri, Huitzuco de los Figueroa, Iguala de la Independencia, Ixcateopan de Cuauhtémoc, Mártir de Cuilapan, Pedro Ascencio Alquisiras, Pilcaya, Pungarabato, San Miguel Totolapan, Taxco de Alarcón, Teloloapan, Tepecoacuilco de Trujano, Tetipac, Tlalchapa, Tlapehuala y Zirándaro.
+> <small>(REFORMADO POR EL PUNTO NOVENO DEL ACUERDO GENERAL 36/2011 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 28 DE OCTUBRE DE 2011)</small>
+
+Los Juzgados de Distrito en el Estado de Guerrero, con residencia en Iguala, ejercerán jurisdicción en el distrito judicial conformado por los municipios de Ajuchitlán del Progreso, Apaxtla, Arcelia, Atenango del Río, Buenavista de Cuéllar, Cocula, Copalillo, Coyuca de Catalán, Cuetzala del Progreso, Cutzamala de Pinzón, General Canuto A. Neri, Huitzuco de los Figueroa, Iguala de la Independencia, Ixcateopan de Cuauhtémoc, Mártir de Cuilapan, Pedro Ascencio Alquisirias, Pilcaya, Pungarabato, San Miguel Totolapan, Taxco de Alarcón, Teloloapan, Tepecoacuilco de Trujano, Tetipac, Tlalchapa, Tlapehuala y Zirándaro.
 
 XXII. VIGESIMO SEGUNDO CIRCUITO:
 
@@ -689,7 +693,9 @@ XXXIII. Los Jueces de Distrito de Procesos Penales Federales del Primero y Segun
 
 QUINTO. Se contará con:
 
-1. El Centro Auxiliar de la Primera Región, se integrará por ocho tribunales colegiados de Circuito Auxiliares, cuatro con residencia en el Distrito Federal, dos con sede en Cuernavaca, Morelos y dos con residencia en Naucalpan de Juárez, Estado de México y siete juzgados de Distrito Auxiliares, cinco con residencia en el Distrito Federal y dos en Cuernavaca, Morelos.
+> <small>(REFORMADO POR EL PUNTO UNICO DEL ACUERDO GENERAL 38/2011 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 28 DE OCTUBRE DE 2011)</small>
+
+1. El Centro Auxiliar de la Primera Región, se integrará por nueve tribunales colegiados de Circuito Auxiliares, cuatro con residencia en el Distrito Federal, tres con sede en Cuernavaca, Morelos, y dos con residencia en Naucalpan de Juárez, Estado de México, y siete juzgados de Distrito auxiliares, cinco con residencia en el Distrito Federal y dos en Cuernavaca, Morelos.
 
 > <small>(REFORMADO POR EL PUNTO UNICO DEL ACUERDO GENERAL 19/2011 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 14 DE JULIO DE 2011)</small>
 
@@ -713,7 +719,9 @@ QUINTO. Se contará con:
 
 9. El Centro Auxiliar de la Novena Región, con residencia en Zacatecas, Zacatecas, se integrará por dos tribunales colegiados de Circuito Auxiliares y siete juzgados de Distrito Auxiliares.
 
-10. El Centro Auxiliar de la Décima Región, con residencia en Saltillo, Coahuila de Zaragoza, se integrará por dos tribunales colegiados de Circuito Auxiliares y dos juzgados de Distrito Auxiliares.
+> <small>(REFORMADO PRIMER PARRAFO POR EL PUNTO UNICO DEL ACUERDO GENERAL 41/2011 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 28 DE OCTUBRE DE 2011)</small>
+
+10. El Centro Auxiliar de la Décima Región, con residencia en Saltillo, Coahuila de Zaragoza, se integrará por cuatro tribunales colegiados de Circuito Auxiliares, y cuatro juzgados de Distrito Auxiliares.
 
 Dichos órganos jurisdiccionales tendrán jurisdicción en toda la República Mexicana y su competencia será mixta.
 
@@ -806,3 +814,33 @@ PRIMERO. El presente acuerdo entrará en vigor el día de su aprobación.
 SEGUNDO. Publíquese este acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
 
 TERCERO. La Secretaría Ejecutiva de Vigilancia, Información y Evaluación, deberá integrar de inmediato el texto de esta reforma, al Acuerdo General 18/2008, del Pleno del Consejo de la Judicatura Federal, por el que se crea el Centro Auxiliar de la Tercera Región, así como los órganos jurisdiccionales que lo integrarán.
+
+D.O.F. 28 DE OCTUBRE DE 2011.
+
+ACUERDO GENERAL 36/2011 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE MODIFICA EL PUNTO SEGUNDO, APARTADO XXI.- VIGESIMO PRIMER CIRCUITO, NUMERO 3.
+
+PRIMERO. El presente acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO. Publíquese este acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+
+TERCERO. La Secretaría Ejecutiva de Vigilancia, Información y Evaluación, deberá integrar de inmediato el texto de la reforma, al Acuerdo General 11/2011, del Pleno del Consejo de la Judicatura Federal, Relativo a la Determinación del Número y Límites Territoriales de los Circuitos en que se Divide la República Mexicana; y al Número, a la Jurisdicción Territorial y Especialización por Materia de los Tribunales Colegiados y Unitarios de Circuito y de los Juzgados de Distrito.
+
+D.O.F. 28 DE OCTUBRE DE 2011.
+
+ACUERDO GENERAL 38/2011 POR EL QUE SE MODIFICA EL ACUERDO GENERAL 11/2011 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, PUBLICADO EN EL DIARIO OFICIAL DE LA FEDERACION EL 28 DE OCTUBRE DE 2011, EN LOS PUNTOS PRIMERO Y DECIMO PRIMERO.
+
+PRIMERO. El presente acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO. Publíquese este acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+
+TERCERO. La Secretaría Ejecutiva de Vigilancia, Información y Evaluación, deberá integrar de inmediato el texto de esta reforma, al Acuerdo General 20/2009, del Pleno del Consejo de la Judicatura Federal, por el que se crea el Centro Auxiliar de la Primera Región, así como los órganos jurisdiccionales que lo integrarán.
+
+D.O.F. 28 DE OCTUBRE DE 2011.
+
+ACUERDO GENERAL 41/2011 POR EL QUE SE MODIFICA EL ACUERDO GENERAL 11/2011 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, PUBLICADO EN EL DIARIO OFICIAL DE LA FEDERACION EL 28 DE OCTUBRE DE 2011, EN LOS PUNTOS PRIMERO Y DECIMO PRIMERO.
+
+PRIMERO. El presente acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO. Publíquese este acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+
+TERCERO. La Secretaría Ejecutiva de Vigilancia, Información y Evaluación, deberá integrar de inmediato el texto de esta reforma, al Acuerdo General 54/2009, del Pleno del Consejo de la Judicatura Federal, por el que se crea el Centro Auxiliar de la Décima Región, con residencia en Saltillo, Coahuila de Zaragoza, así como los órganos jurisdiccionales que lo integrarán.
