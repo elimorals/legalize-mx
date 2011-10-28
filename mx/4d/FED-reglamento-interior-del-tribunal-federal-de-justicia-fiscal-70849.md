@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-del-tribunal-federal-de-justicia-fiscal-708
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-11-13"
-last_updated: "2011-08-05"
+last_updated: "2011-10-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70849&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2009-11-11"
 ---
 # REGLAMENTO INTERIOR DEL TRIBUNAL FEDERAL DE JUSTICIA FISCAL Y ADMINISTRATIVA
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 16 DE NOVIEMBRE DE 2011 EN EL DIARIO OFICIAL DE LA FEDERACIÓN, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 REGLAMENTO INTERIOR DEL TRIBUNAL FEDERAL DE JUSTICIA FISCAL Y ADMINISTRATIVA
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 5 DE AGOSTO DE 2011.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 28 DE OCTUBRE DE 2011.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 13 de noviembre de 2009.
 
@@ -567,17 +569,49 @@ XX. Región del Caribe: Una Sala que se denominará “Sala Regional del Caribe�
 
 XXI. Región del Pacífico-Centro: Una Sala que se denominará “Sala Regional del Pacífico-Centro”, con sede en la ciudad de Morelia, Estado de Michoacán.
 
+> <small>(REFORMADO, D.O.F. 28 DE OCTUBRE DE 2011)</small>
+
 ###### Artículo 23.
 
-El Tribunal contará con una Sala Regional especializada en materia de propiedad intelectual, que se denominará “Sala Especializada en Materia de Propiedad Intelectual”, con competencia en todo el territorio nacional y sede en el Distrito Federal.
+El Tribunal contará con Salas Regionales Especializadas cuya denominación, sede, competencia y materia de conocimiento será la siguiente:
 
-Esta Sala Especializada tendrá competencia material para tramitar y resolver los juicios que se promuevan contra las resoluciones definitivas a que se refiere el artículo 14, fracciones XI, XII XIV, penúltimo y último párrafos de la Ley, dictadas con fundamento en la Ley de la Propiedad Industrial, en la Ley Federal del Derecho de Autor, en la Ley Federal de Variedades Vegetales, así como en los demás ordenamientos que regulan la materia de Propiedad Intelectual, o que tengan alguna injerencia en las citadas materias.
+I.- Una Sala Especializada en Materia de Propiedad Intelectual, con sede en el Distrito Federal y competencia material para tramitar y resolver, en todo el territorio nacional, los juicios que se promuevan contra las resoluciones definitivas a que se refiere el artículo 14, fracciones XI, XII, XIV, penúltimo y último párrafos de la Ley, dictadas con fundamento en la Ley de la Propiedad Industrial, en la Ley Federal del Derecho de Autor, en la Ley Federal de Variedades Vegetales, así como en los demás ordenamientos que regulan la materia de Propiedad Intelectual, o que tengan alguna injerencia en las citadas materias;
 
-> <small>(ADICIONADO, D.O.F. 21 DE JUNIO DE 2011)</small>
+II.- Una Sala Especializada en Juicios en Línea, con sede en el Distrito Federal, con competencia exclusiva para tramitar y resolver, en todo el territorio nacional, de los juicios en línea o bien de los que conforme a la Ley Federal de Procedimiento Contencioso Administrativo se deban tramitar de manera simultánea en línea y en la vía tradicional, que se promuevan en los supuestos señalados en los artículos 14 y 15 de la Ley, sin perjuicio de que la Sala Especializada en Materia de Propiedad Intelectual conozca de los juicios de su competencia que se tramiten en cualquiera de las vías señaladas;
+
+III.- Una Sala Especializada en Resoluciones de Organos Reguladores de la Actividad del Estado, con sede en el Distrito Federal, que tendrá competencia material en todo el territorio nacional para tramitar y resolver los juicios que se promuevan contra resoluciones definitivas que encuadren en los supuestos previstos por las fracciones III, XI, XII, XIV, penúltimo y último párrafos del artículo 14 de la Ley, dictadas por los Organos Reguladores de la Actividad del Estado, aún cuando cambien de denominación, surjan otras distintas o desaparezcan, caso en el cual conocerá de las resoluciones que emita el órgano que asuma las funciones de la desaparecida, siendo en la actualidad las que a continuación se precisan:
+
+a) Comisión Federal de Competencia (CFC), en lo que resulte competente
+
+b) Comisión Federal de Mejora Regulatoria (COFEMER)
+
+c) Comisión Federal de Telecomunicaciones (COFETEL)
+
+d) Comisión Federal para la Protección contra Riesgos Sanitarios (COFEPRIS) en lo que resulte competente y no sea del conocimiento de la Sala Especializada en Propiedad Intelectual
+
+e) Comisión Nacional Bancaria y de Valores (CNBV)
+
+f) Comisión Nacional de Acuacultura y Pesca (CONAPESCA)
+
+g) Comisión Nacional de Facilitación del Transporte Aéreo Internacional (CNFTAI)
+
+h) Comisión Nacional de Hidrocarburos (CNH)
+
+i) Comisión Nacional de Seguridad Nuclear y Salvaguardias (CNSNS)
+
+j) Comisión Nacional de Seguros y Fianzas (CNSF)
+
+k) Comisión Nacional del Agua (CONAGUA)
+
+l) Comisión Nacional del Sistema de Ahorro para el Retiro (CONSAR)
+
+m) Comisión Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros (CONDUSEF)
+
+n) Comisión Reguladora de Energía (CRE)
 
 ###### Artículo 23 Bis.
 
-El Tribunal contará con una Sala Especializada que se denominará Sala Especializada en Juicios en Línea, cuya sede se ubicará en el Distrito Federal, con competencia exclusiva para conocer, en todo el territorio nacional, de los juicios en línea o bien de los que conforme a la Ley Federal de Procedimiento Contencioso Administrativo, se deban tramitar de manera simultánea en línea y en la vía tradicional, que se promuevan en los supuestos señalados en los artículos 14 y 15 de la Ley, sin perjuicio de que la Sala Especializada en Materia de Propiedad Intelectual deberá conocer de los juicios de su competencia que se tramiten en cualquiera de las vías señaladas.
+(DEROGADO, D.O.F. 28 DE OCTUBRE DE 2011)
 
 ###### Artículo 24.
 
@@ -2366,3 +2400,35 @@ D.O.F. 5 DE AGOSTO DE 2011.
 PRIMERO.- El presente Acuerdo entrará en vigor el día de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO.- Quedan sin efecto todas las disposiciones administrativas emitidas por el Tribunal que contravengan lo establecido en el presente ordenamiento.
+
+D.O.F. 28 DE OCTUBRE DE 2011.
+
+PRIMERO.- El presente Acuerdo entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- La Sala Especializada en Resoluciones de Organos Reguladores de la Actividad del Estado que se crea mediante el presente Acuerdo, entrará en funciones el jueves 1o. de diciembre de 2011.
+
+Para tal efecto, el Tribunal transformará una Sala Regional Metropolitana en la Especializada que se crea con el presente acuerdo y adscribirá o cambiará de adscripción, si es necesario, a tres Magistrados de Sala Regional o Supernumerarios, que serán seleccionados previo análisis de su especialización y actualización en la aplicación de la materia de referencia y, en su lugar, adscribirá a Magistrados Supernumerarios o a Magistrados de Sala Regional, según corresponda, de acuerdo a las necesidades del servicio.
+
+TERCERO.- Los juicios de los que esté conociendo la Sala Regional Metropolitana que se transformará en la Especializada de referencia, serán redistribuidos en forma equitativa entre las otras once Salas Regionales Metropolitanas, de acuerdo con el nuevo turno que proporcione el Sistema de Control y Seguimiento de Juicios o el Sistema de Justicia en Línea, excepto los que versen sobre resoluciones de Organos Reguladores de la Actividad del Estado y aquéllos en los que al 31 de octubre de 2011 haya concluido la substanciación del procedimiento, de acuerdo con lo previsto en el artículo 47 de la Ley Federal de Procedimiento Contencioso Administrativo, sea que se haya dictado o no el acuerdo de cierre de instrucción.
+
+Respecto de los juicios que serán redistribuidos, cada una de las Salas dictará el correspondiente acuerdo de nueva radicación, con base en el acuerdo general que emita la Junta de Gobierno y Administración, que se fijará en un lugar accesible de la Sala respectiva y se publicará en el Boletín Electrónico.
+
+Los juicios instruidos por la Sala que será transformada, en los que ésta haya emitido la sentencia correspondiente y respecto de los cuales se presenten nuevas promociones, recibirán un nuevo turno a fin de que sean atendidos equitativamente por las once Salas Regionales Metropolitanas.
+
+CUARTO.- Los juicios iniciados en contra de las resoluciones administrativas emitidas por los Organos Reguladores de la Actividad del Estado y que a la fecha de entrada en vigor del presente acuerdo se encuentren en trámite, quedarán sujetos a lo siguiente:
+
+I. Las Salas Regionales emitirán la sentencia que corresponda en aquéllos juicios que tengan radicados y que al 31 de octubre de 2011 haya concluido la substanciación del procedimiento, de acuerdo con lo previsto en el artículo 47 de la Ley Federal de Procedimiento Contencioso Administrativo, sea que se haya dictado o no el acuerdo de cierre de instrucción.
+
+Para estos efectos, el Presidente del Tribunal informará a las Salas Regionales el número total de expedientes que se encuentren en los supuestos descritos, a fin de que dicten la sentencia correspondiente. La Junta de Gobierno y Administración del Tribunal se encargará de dar seguimiento al cumplimiento del presente Acuerdo por parte de las Salas Regionales.
+
+II. Las Salas Regionales remitirán a la Sala Especializada en Resoluciones de Organos Reguladores de la Actividad del Estado, los juicios que tengan radicados y que al 31 de octubre de 2011 no hubiese concluido su substanciación conforme a lo establecido en la fracción que antecede, previa emisión y notificación que hagan a las partes del acuerdo de cambio de radicación, misma que se hará con base en el acuerdo general que emita la Junta de Gobierno y Administración, que se fije en un lugar accesible de la Sala respectiva y se publique en el Boletín Electrónico.
+
+III. En cualquier caso, se podrá solicitar a la Sala Superior que ejerza su facultad de atracción en aquéllos asuntos que sean representativos para fijar los criterios en materia de resoluciones que emanan de Organos Reguladores de la Actividad del Estado, que permitan resolver los juicios con mayor celeridad, y
+
+IV. Una vez que entre en funciones la Sala Especializada en Resoluciones de Organos Reguladores de la Actividad del Estado, las nuevas demandas que sean de su competencia se deberán presentar en la sede de la misma, a través de la Oficialía de Partes de las Salas Especializadas, personalmente o por correo certificado en términos del artículo 13 de la Ley Federal de Procedimiento Contencioso Administrativo. En caso de que se presenten en otra Sala Regional, ésta las deberá remitir a la Sala Especializada en Resoluciones de Organos Reguladores de la Actividad del Estado.
+
+QUINTO.- Los expedientes recibidos por la Sala Especializada en Resoluciones de Organos Reguladores de la Actividad del Estado, se distribuirán entre los tres Magistrados que la integren, equitativamente de conformidad con el sistema aleatorio de turno que corresponda.
+
+SEXTO.- Quedan sin efecto las disposiciones legales emitidas por la Junta de Gobierno y Administración o por el Pleno Jurisdiccional de la Sala Superior del Tribunal Federal de Justicia Fiscal y Administrativa que se opongan a los términos del presente Acuerdo.
+
+SEPTIMO.- Para todo lo no previsto en el presente Acuerdo se estará a lo que resuelva el órgano competente del Tribunal Federal de Justicia Fiscal y Administrativa.
