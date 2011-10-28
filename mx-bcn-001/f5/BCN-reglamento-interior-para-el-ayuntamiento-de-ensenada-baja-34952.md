@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-interior-para-el-ayuntamiento-de-ensenada-baja-34952
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-11-14"
-last_updated: "2011-08-05"
+last_updated: "2011-10-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34952&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 REGLAMENTO INTERIOR PARA EL AYUNTAMIENTO DE ENSENADA, BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE AGOSTO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE OCTUBRE DE 2011.
 
 Reglamento publicado en el Periódico Oficial del Estado de Baja California, el viernes 14 de noviembre de 2003.
 
@@ -1269,15 +1269,17 @@ VI.- Desarrollo Urbano y Ecología;
 
 VII.- Seguridad, Tránsito y Transporte;
 
-VIII.- Planeación y Desarrollo Municipal;
+> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2011)</small>
+
+VIII.- Planeación y Desarrollo Económico;
 
 IX.- Salud y Asistencia Social;
 
 X.- Turismo;
 
-> <small>(REFORMADA, P.O. 29 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2011)</small>
 
-XI.- Educación, Cultura y Deportes;
+XI.- Educación, Cultura, Ciencia y Tecnología;
 
 XII.- Comercio y Espectáculos;
 
@@ -1297,9 +1299,13 @@ XV.- Pesca y Acuacultura Sustentables.
 
 XVI.- Comisión del agua
 
-> <small>(ADICIONADA, P.O. 14 DE ENERO DE 2011)</small>
+> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2011)</small>
 
-XVII.- Comisión de Atención a la Juventud y el Deporte.
+XVII.- Comisión de Juventud
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 28 DE OCTUBRE DE 2011)</small>
+
+XVIII.- Comisión de Deporte
 
 Para efectos de crear nuevas comisiones, nombrar, cambiar o remover coordinadores o integrantes de las mismas, el Presidente Municipal lo propondrá al Ayuntamiento en Sesión de Cabildo, en donde éste, determinará por mayoría absoluta la aprobación en su caso.
 
@@ -1595,21 +1601,35 @@ IX.- Desarrollar un estudio permanente de las necesidades de agua de las poblaci
 
 X. Colaborar de manera colegiada con instancias públicas y privadas para perfilar nuevos enfoques en materia de planeación, investigación, capacitación y gestión para el aprovechamiento y manejo sustentable e integral del agua en el municipio.
 
-> <small>(ADICIONADO, P.O. 14 DE ENERO DE 2011)</small>
+> <small>N. DE E. DEL ANÁLISIS PARA LA APLICACIÓN DE LA REFORMA DEL P.O. 28 DE OCTUBRE DE 2011, SE ADVIERTE QUE EL TEXTO ANTERIOR CONSTABA DE CINCO FRACCIONES.</small>
 
-COMISION DE ATENCION A LA JUVENTUD Y EL DEPORTE
+> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2011)</small>
 
-ARTÍCULO 127 QUINQUER (SIC).- Atribuciones:
+COMISIÓN JUVENTUD
 
-I. Proponer, analizar, estudiar y dictaminar las iniciativas en materia de atención a la juventud para su desarrollo integral y deportes.
+ARTÍCULO 127 QUINQUER.- Atribuciones:
 
-II. Proponer al Ayuntamiento la ejecución de políticas y medidas encaminadas a fomentar la participación de los jóvenes en asuntos de interés público.
+I.- Proponer, analizar, estudiar y dictaminar las iniciativas en materia de juventud, procurando su desarrollo integral
 
-III. Proponer que se promuevan y estimulen acciones y obras tendientes a la práctica de los deportes para procurar el desarrollo físico y mental de los habitantes del Municipio.
+II.- Proponer al Ayuntamiento la ejecución de políticas y medidas encaminadas a fomentar la participación de los jóvenes en asuntos de interés público.
 
-IV. Participar en los organismos relacionados al desarrollo de la juventud y la promoción del deporte, en los que el Ayuntamiento tenga injerencia.
+III.- Participar en los organismos relacionados al desarrollo de la juventud, en los que el Ayuntamiento tenga injerencia.
 
-V. Evaluar y vigilar los trabajos de las dependencias e institutos municipales, con funciones en materia de deportes y juventud, y con base en sus resultados y a las necesidades operantes proponer las medidas pertinentes para orientar la política del gobierno municipal.
+IV.- Evaluar y vigilar los trabajos de las dependencias e institutos municipales, con funciones en materia juventud, y con base en sus resultados y a las necesidades operantes proponer las medidas pertinentes para orientar la política del gobierno municipal.
+
+> <small>(ADICIONADO, P.O. 28 DE OCTUBRE DE 2011)</small>
+
+COMISIÓN DE DEPORTE
+
+ARTÍCULO 127 SEXTER.- Atribuciones:
+
+I.- Proponer, analizar, estudiar y dictaminar las iniciativas en materia de deporte.
+
+II.- Proponer que se promuevan y estimulen acciones y obras tendientes a la práctica de los deportes para procurar el desarrollo físico y mental de los habitantes del Municipio.
+
+III.- Participar en los organismos relacionados al desarrollo y promoción del deporte, en los que el Ayuntamiento tenga injerencia.
+
+IV.- Evaluar y vigilar los trabajos de las dependencias e institutos municipales, con funciones en materia de deportes, y con base en sus resultados y a las necesidades operantes para orientar la política del gobierno municipal.
 
 ### CAPITULO TERCERO. DEL PROCEDIMIENTO EN COMISIONES
 
@@ -1810,5 +1830,9 @@ P.O. 14 DE ENERO DE 2011.
 UNICO.- Siendo aprobada la presente reforma, incorpórese al libro de actas y publíquese en el Periódico Oficial del Gobierno del Estado de Baja California, para efectos de iniciar la vigencia al siguiente día de su publicación en todo el territorio del Municipio de Ensenada.
 
 P.O. 5 DE AGOSTO DE 2011.
+
+ÚNICO.- Siendo aprobada la presente reforma, incorpórese en el libro de actas y publíquese en el Periódico Oficial del Gobierno del Estado, para efectos de iniciar la vigencia al siguiente día de su publicación en todo el territorio del Municipio de Ensenada, Baja California.
+
+P.O. 28 DE OCTUBRE DE 2011.
 
 ÚNICO.- Siendo aprobada la presente reforma, incorpórese en el libro de actas y publíquese en el Periódico Oficial del Gobierno del Estado, para efectos de iniciar la vigencia al siguiente día de su publicación en todo el territorio del Municipio de Ensenada, Baja California.
