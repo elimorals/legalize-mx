@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-interior-del-instituto-de-acceso-a-la-64765"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-12-26"
-last_updated: "2011-04-15"
+last_updated: "2011-10-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64765&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,9 +20,9 @@ issue_date: "2008-12-10"
 ---
 # REGLAMENTO INTERIOR DEL INSTITUTO DE ACCESO A LA INFORMACION PUBLICA Y PROTECCION DE DATOS PERSONALES DEL DISTRITO FEDERAL -ANTES REGLAMENTO INTERIOR DEL INSTITUTO DE ACCESO A LA INFORMACION PUBLICA DEL DISTRITO FEDERAL-
 
-REGLAMENTO INTERIOR DEL INSTITUTO DE ACCESO A LA INFORMACION PUBLICA DEL DISTRITO FEDERAL
+REGLAMENTO INTERIOR DEL INSTITUTO DE ACCESO A LA INFORMACION PUBLICA Y PROTECCION DE DATOS PERSONALES DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 15 DE ABRIL DE 2011.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 28 DE OCTUBRE DE 2011.
 
 Reglamento publicado en la Gaceta Oficial de la Federación, el viernes 26 de diciembre de 2008.
 
@@ -124,23 +124,25 @@ Comisionada Ciudadana
 
 > <small>N. DE E. LAS REFORMAS APROBADAS EN EL ACUERDO 0347/SO/30-03/2011 APROBADO POR EL PLENO DE INSTITUTO DE ACCESO A LA INFORMACION PUBLICA DEL DISTRITO FEDERAL, MODIFICO DE MANERA SUSTANCIAL PRACTICAMENTE TODO EL TEXTO DEL PRESENTE REGLAMENTO, DANDO COMO RESULTADO UN TEXTO DIFERENTE AL ORIGINAL, Y SI BIEN DIVERSOS ARTICULOS QUEDARON INTACTOS POR LA REFORMA, DEBIDO A LO ANTERIOR SE CONSERVA EL TEXTO APROBADO Y PUBLICADO EN LA G.O. DE 15 DE ABRIL DE 2011.</small>
 
-REGLAMENTO INTERIOR DEL INSTITUTO DE ACCESO A LA INFORMACIÓN PÚBLICA DEL DISTRITO FEDERAL.
+> <small>(REFORMADA SU DENOMINACION, G.O. 28 DE OCTUBRE DE 2011)</small>
+
+REGLAMENTO INTERIOR DEL INSTITUTO DE ACCESO A LA INFORMACION PUBLICA Y PROTECCION DE DATOS PERSONALES DEL DISTRITO FEDERAL
 
 > <small>(REFORMADO, G.O. 15 DE ABRIL DE 2011)</small>
 
 ### CAPÍTULO PRIMERO. DISPOSICIONES GENERALES
 
-> <small>(REFORMADO, G.O. 15 DE ABRIL DE 2011)</small>
+> <small>(REFORMADO, G.O. 28 DE OCTUBRE DE 2011)</small>
 
 ###### Artículo 1.
 
-El presente ordenamiento es de observancia general y obligatoria para las unidades administrativas y el personal del Instituto; tiene por objeto establecer las normas que regulan el funcionamiento y la operación de la estructura orgánica del Instituto de Acceso a la Información Pública del Distrito Federal para el correcto ejercicio de sus atribuciones legales.
+El presente ordenamiento es de observancia general y obligatoria para las unidades administrativas y el personal del Instituto; tiene por objeto establecer las normas que regulan el funcionamiento y la operación de la estructura orgánica del Instituto de Acceso a la Información Pública y Protección de Datos Personales del Distrito Federal para el correcto ejercicio de sus atribuciones legales.
 
-> <small>(REFORMADO, G.O. 15 DE ABRIL DE 2011)</small>
+> <small>(REFORMADO, G.O. 28 DE OCTUBRE DE 2011)</small>
 
 ###### Artículo 2.
 
-El Instituto de Acceso a la Información Pública del Distrito Federal es un órgano autónomo del Distrito Federal, con personalidad jurídica propia y patrimonio propio, con autonomía presupuestaria, de operación y de decisión en materia de transparencia y acceso a la información pública, y protección de datos personales, encargado de dirigir y vigilar el cumplimiento de la Ley en la materia y las normas que de ella deriven, así como de aplicar los principios de certeza, legalidad, independencia, imparcialidad y objetividad en todas sus decisiones.
+Instituto de Acceso a la Información Pública y Protección de Datos Personales del Distrito Federal es un órgano autónomo del Distrito Federal, con personalidad jurídica propia y patrimonio propio, con autonomía presupuestaria, de operación y de decisión en materia de transparencia y acceso a la información pública, y protección de datos personales, encargado de dirigir y vigilar el cumplimiento de la Ley en la materia y las normas que de ella deriven, así como de aplicar los principios de certeza, legalidad, independencia, imparcialidad y objetividad en todas sus decisiones.
 
 > <small>(REFORMADO, G.O. 15 DE ABRIL DE 2011)</small>
 
@@ -148,23 +150,37 @@ El Instituto de Acceso a la Información Pública del Distrito Federal es un ór
 
 El presente Reglamento se emite de conformidad al artículo 71, fracción VII, de la Ley de Transparencia y Acceso a la Información Pública del Distrito Federal, la interpretación y lo no previsto en él, será a cargo del Pleno.
 
-> <small>(REFORMADO, G.O. 15 DE ABRIL DE 2011)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 28 DE OCTUBRE DE 2011)</small>
 
 ###### Artículo 4.
 
-Además de lo señalado por el artículo 4º de la Ley de Transparencia y Acceso a la Información Pública del Distrito Federal y de su Reglamento, así como por lo dispuesto en el artículo 2º de la Ley de Protección de Datos Personales para el Distrito Federal se entenderá por:
+Además de lo señalado por el artículo 4 de la Ley de Transparencia y Acceso a la Información Pública del Distrito Federal y 2 del Reglamento del Instituto en Materia de Transparencia y Acceso a la Información Pública, así como por lo dispuesto en el artículo 2 de la Ley de Protección de Datos Personales para el Distrito Federal se entenderá por:
 
-I. Comisionados Ciudadanos: Los Comisionados Ciudadanos designados por la Asamblea Legislativa del Distrito Federal como integrantes del Pleno del Instituto de Acceso a la Información Pública del Distrito Federal;
+> <small>(REFORMADA, G.O. 28 DE OCTUBRE DE 2011)</small>
+
+I. Comisionados Ciudadanos: Representantes de la sociedad civil designados por la Asamblea Legislativa del Distrito Federal y que en forma colegiada integran el Pleno del Instituto de Acceso a la Información Pública y Protección de Datos Personales del Distrito Federal;
+
+> <small>(REFORMADA, G.O. 15 DE ABRIL DE 2011)</small>
 
 II. Ley de Transparencia: Ley de Transparencia y Acceso a la Información Pública del Distrito Federal;
 
+> <small>(REFORMADA, G.O. 15 DE ABRIL DE 2011)</small>
+
 III. Ley de Datos Personales: Ley de Protección de Datos Personales para el Distrito Federal;
 
-IV. Pleno: Máxima instancia directiva del Instituto de Acceso a la Información Pública del Distrito Federal;
+> <small>(REFORMADA, G.O. 28 DE OCTUBRE DE 2011)</small>
 
-V. Presidente: Comisionado Ciudadano designado por la Asamblea Legislativa del Distrito Federal como Presidente y máxima instancia ejecutiva del Instituto de Acceso a la Información Pública del Distrito Federal;
+IV. Pleno: Órgano Colegiado de máxima instancia directiva del Instituto de Acceso a la Información Pública y Protección de Datos Personales del Distrito Federal; conformado por los Comisionados Ciudadanos.
 
-VI. Reglamento: Reglamento Interior del Instituto de Acceso a la Información Pública del Distrito Federal;
+> <small>(REFORMADA, G.O. 28 DE OCTUBRE DE 2011)</small>
+
+V. Presidente: Comisionado Ciudadano designado por la Asamblea Legislativa del Distrito Federal como Presidente y máxima instancia ejecutiva del Instituto de Acceso a la Información Pública y Protección de Datos Personales del Distrito Federal;
+
+> <small>(REFORMADA, G.O. 28 DE OCTUBRE DE 2011)</small>
+
+VI. Reglamento: Reglamento Interior del Instituto de Acceso a la Información Pública y Protección de Datos Personales del Distrito Federal;
+
+> <small>(REFORMADA, G.O. 15 DE ABRIL DE 2011)</small>
 
 VII. Unidades Administrativas: Secretaría Técnica, Secretaría Ejecutiva, Contraloría, Dirección Jurídica y Desarrollo Normativo, Dirección de Capacitación y Cultura de la Transparencia, Dirección de Evaluación y Estudios, Dirección de Vinculación con la Sociedad, Dirección de Datos Personales, Dirección de Tecnologías de Información, Dirección de Administración y Finanzas, Coordinación de Información, Coordinación de Difusión y las unidades administrativas de nueva creación.
 
@@ -186,7 +202,9 @@ Para el ejercicio de sus atribuciones y el despacho de los asuntos que le compet
 
 I. Pleno;
 
-II. Comisionado Presidente;
+> <small>(REFORMADA, G.O. 28 DE OCTUBRE DE 2011)</small>
+
+II. Comisionado Ciudadano Presidente;
 
 III. Comisionados Ciudadanos;
 
@@ -226,11 +244,11 @@ V. En el caso del Director Jurídico y Desarrollo Normativo, deberá contar con 
 
 #### SECCIÓN I. DEL PLENO
 
-> <small>(REFORMADO, G.O. 15 DE ABRIL DE 2011)</small>
+> <small>(REFORMADO, G.O. 28 DE OCTUBRE DE 2011)</small>
 
 ###### Artículo 8.
 
-El Pleno se integra por los Comisionados Ciudadanos designados por la Asamblea Legislativa del Distrito Federal en términos de la Ley de Transparencia, quienes tendrán derecho a voz y voto. Para el desarrollo de las sesiones, el Pleno se auxiliará en el Secretario Técnico quien tendrá derecho a voz.
+Los Comisionados Ciudadanos integrantes del Pleno se reunirán en sesión en la que tendrán derecho a voz y voto. Para el desarrollo de las sesiones, el Pleno se auxiliará en el Secretario Técnico quien tendrá derecho a voz.
 
 > <small>(REFORMADO, G.O. 15 DE ABRIL DE 2011)</small>
 
@@ -252,7 +270,9 @@ Los Comisionados Ciudadanos deberán excusarse de intervenir en la discusión y 
 
 La excusa se deberá realizar por escrito en el que se exprese la causa por la que se considera que no se debe intervenir en algún caso en concreto y será presentada al Secretario Técnico, quien informará de la misma al Pleno.
 
-Las partes podrán recusar, con causa, a los Comisionados Ciudadanos, debiendo ofrecer los medios de convicción idóneos, hasta antes del cierre de instrucción. El Pleno valorará la procedencia de la recusación con los elementos aportados por el promovente y, en su caso, la declarará fundada. La procedencia o no de las recusaciones será comunicada por el Secretario Técnico a los Comisionados Ciudadanos que sean recusados.
+> <small>(REFORMADO, G.O. 28 DE OCTUBRE DE 2011)</small>
+
+Las partes en los procedimientos que substancie o resuelva el Instituto podrán recusar, con causa, a los Comisionados Ciudadanos, debiendo ofrecer los medios de convicción idóneos, hasta antes del cierre de instrucción. El Pleno valorará la procedencia de la recusación con los elementos aportados por el promovente y, en su caso, la declarará fundada. La procedencia o no de las recusaciones será comunicada por el Secretario Técnico a los Comisionados Ciudadanos que sean recusados.
 
 > <small>(REFORMADO, G.O. 15 DE ABRIL DE 2011)</small>
 
@@ -270,7 +290,9 @@ IV. Dictar políticas, lineamientos, acuerdos, y demás normatividad necesaria p
 
 V. Aprobar los formatos de solicitudes de acceso a la información pública y de acceso, rectificación, cancelación y oposición de datos personales;
 
-VI. Interpretar la Ley de Transparencia y la Ley de Datos Personales en términos de lo dispuesto en los artículos 6 y 3 respectivamente y resolver conforme a las mismas, o en su defecto, atendiendo a la normatividad supletoria a éstas;
+> <small>(REFORMADA, G.O. 28 DE OCTUBRE DE 2011)</small>
+
+VI. Interpretar la Ley de Transparencia y la Ley de Datos Personales en términos de lo dispuesto en sus artículos 6 y 3 respectivamente y resolver conforme a las mismas, o en su defecto, atendiendo a la normatividad supletoria a éstas;
 
 VII. Aprobar mecanismos y acciones que permitan posicionar y fortalecer la identidad del Instituto;
 
@@ -292,11 +314,15 @@ XV. Aprobar la suscripción de convenios y mecanismos de coordinación con los �
 
 XVI. Aprobar la suscripción de convenios y mecanismos de coordinación con instituciones educativas, organismos de la sociedad civil, colegios de profesionistas, organismos empresariales, fundaciones y otros que cumplan con objetivos afines al Instituto tanto a nivel nacional como internacional;
 
-XVII. Emitir criterios específicos y lineamientos de observancia general para la clasificación y desclasificación de información pública, así como para el tratamiento, seguridad y protección de datos personales en posesión de los Entes Públicos;
+> <small>(REFORMADA, G.O. 28 DE OCTUBRE DE 2011)</small>
+
+XVII. Emitir criterios específicos y lineamientos de observancia general para la clasificación y desclasificación de información pública, así como para el tratamiento, seguridad y protección de datos personales en posesión de los Entes Obligados;
 
 XVIII. Aprobar el manual de operación y demás normatividad que proponga el Comité de Transparencia;
 
-XIX. Aprobar los formatos para el registro de los sistemas de datos personales en posesión de los Entes Públicos;
+> <small>(REFORMADA, G.O. 28 DE OCTUBRE DE 2011)</small>
+
+XIX. Aprobar los formatos para el registro de los sistemas de datos personales en posesión de los Entes Obligados;
 
 XX. Aprobar la creación, modificación o supresión de los Sistemas de Datos Personales del Instituto;
 
@@ -304,9 +330,13 @@ XXI. Determinar áreas de oportunidad y temas relevantes de interés público, e
 
 XXII. Ordenar anualmente el dictamen de los estados financieros del Instituto;
 
-XXIII. Emitir observaciones y recomendaciones a los Entes Públicos que incumplan las disposiciones de la Ley de Transparencia y la Ley de Datos Personales, y demás normatividad aplicable en estas materias;
+> <small>(REFORMADA, G.O. 28 DE OCTUBRE DE 2011)</small>
 
-XXIV. Resolver los recursos de revisión y revocación previstos en la Ley de Transparencia y la Ley de Datos Personales; y
+XXIII. Emitir observaciones y recomendaciones a los Entes Obligados que incumplan las disposiciones de la Ley de Transparencia y la Ley de Datos Personales, y demás normatividad aplicable en estas materias;
+
+> <small>(REFORMADA, G.O. 28 DE OCTUBRE DE 2011)</small>
+
+XXIV. Resolver los recursos de revisión, revocación y denuncias previstos en la Ley de Transparencia y la Ley de Datos Personales; y
 
 XXV. Las demás que se deriven de la Ley de Transparencia, la Ley de Datos Personales y otras disposiciones aplicables.
 
@@ -322,7 +352,9 @@ Son atribuciones del Presidente:
 
 I. Representar legalmente al Instituto. Para tal efecto podrá otorgar poderes generales para representar al Instituto ante cualquier autoridad administrativa, jurisdiccional, o bien ante particulares; para pleitos y cobranzas con todas las facultades generales y aún las especiales que conforme a la ley requieran cláusula especial o expresa; y para actos de administración. Para otorgar poderes y para realizar actos de dominio sobre inmuebles destinados al Instituto, el Presidente requerirá de la autorización del Pleno;
 
-II. Requerir informes a los Entes Públicos sobre el avance y cumplimiento de la Ley de Transparencia y la Ley de Datos Personales, así como realizar las acciones necesarias para el cumplimiento de los acuerdos y recomendaciones que emita el Pleno del Instituto;
+> <small>(REFORMADA, G.O. 28 DE OCTUBRE DE 2011)</small>
+
+II. Requerir informes a los Entes Obligados sobre el avance y cumplimiento de la Ley de Transparencia y la Ley de Datos Personales, así como realizar las acciones necesarias para el cumplimiento de los acuerdos y recomendaciones que emita el Pleno del Instituto;
 
 III. Convocar y presidir las sesiones del Pleno;
 
@@ -410,7 +442,9 @@ XI. Participar en eventos y foros en representación del Instituto;
 
 XII. Suscribir reconocimientos, diplomas, constancias y documentos análogos derivados de las actividades de promoción y capacitación;
 
-XIII. Participar en los procesos de selección del Secretario Ejecutivo, del Contralor y de los Directores del Instituto;
+> <small>(REFORMADA, G.O. 28 DE OCTUBRE DE 2011)</small>
+
+XIII. Participar en los procesos de selección del Secretario Ejecutivo, del Contralor y de los Directores y Coordinadores del Instituto;
 
 XIV. Designar y remover a su personal de apoyo, de acuerdo a la estructura orgánica autorizada y a la disponibilidad presupuestal del Instituto; y
 
@@ -508,9 +542,21 @@ XV. Proponer al Pleno, a través del Presidente, la creación, modificación o s
 
 XVI. Designar al encargado del tratamiento de los sistemas de datos personales en posesión de su unidad administrativa;
 
-XVII. Vigilar el cumplimiento de la Ley de Trasparencia y la Ley de Datos Personales, el presente Reglamento y demás disposiciones aplicables; y
+> <small>(REFORMADA, G.O. 28 DE OCTUBRE DE 2011)</small>
 
-XVIII. Las demás que disponga el Pleno y otras disposiciones aplicables.
+XVII. Efectuar las acciones conducentes a efecto de dar seguimiento a las líneas de acción del Programa de Derechos Humanos del Distrito Federal, en materia de acceso a la información, de conformidad con la información que para tal efecto emitan las unidades administrativas;
+
+> <small>(REFORMADA, G.O. 28 DE OCTUBRE DE 2011)</small>
+
+XVIII. Suscribir las respuestas emitidas por la Oficina de Información Pública cuando el responsable de la misma este impedido por causas de fuerza mayor;
+
+> <small>(ADICIONADA, G.O. 28 DE OCTUBRE DE 2011)</small>
+
+XIX. Vigilar el cumplimiento de la Ley de Trasparencia y la Ley de Datos Personales, el presente Reglamento y demás disposiciones aplicables;
+
+> <small>(ADICIONADA, G.O. 28 DE OCTUBRE DE 2011)</small>
+
+XX. Las demás que disponga el Pleno y otras disposiciones aplicables.
 
 > <small>(REFORMADA, G.O. 15 DE ABRIL DE 2011)</small>
 
@@ -544,7 +590,9 @@ X. Instaurar los procedimientos administrativos disciplinarios internos; desarro
 
 XI. Recibir, substanciar y resolver los recursos de revocación que se presenten en contra de las resoluciones en los procedimientos señalados en la fracción anterior, de conformidad con la Ley Federal de Responsabilidades de los Servidores Públicos;
 
-XII. Realizar la defensa jurídica de las resoluciones que emita, ante las diversas instancias jurisdiccionales correspondientes;
+> <small>(REFORMADA, G.O. 28 DE OCTUBRE DE 2011)</small>
+
+XII. Atender de manera directa la defensa jurídica de las resoluciones que emita ante las diversas instancias correspondientes, debiendo rendir los informes que sean requeridos por las autoridades y presentar los escritos correspondientes;
 
 XIII. Integrar el padrón de los servidores públicos del Instituto obligados a presentar declaración de su situación patrimonial, recibiéndolas o, en su caso, requiriéndolas, así como llevar el registro y seguimiento de la evolución de la situación patrimonial correspondiente;
 
@@ -558,7 +606,9 @@ XVII. Realizar acciones preventivas para el adecuado cumplimiento de las normas 
 
 XVIII. Acordar con el Presidente los asuntos de su competencia y rendir un informe del cumplimiento de sus programas en forma trimestral al Pleno;
 
-XIX. Participar en el Comité de Transparencia del Instituto, de acuerdo a lo previsto en el artículo 59 de la Ley y en términos del manual de operación e integración de dicho Comité;
+> <small>(REFORMADA, G.O. 28 DE OCTUBRE DE 2011)</small>
+
+XIX. Participar en el Comité de Transparencia del Instituto, de acuerdo a lo previsto en el artículo 59 de la Ley y en términos del Reglamento del INFODF en materia de Transparencia y Acceso a la Información Pública y del Manual de Operación e Integración de dicho Comité;
 
 XX. Fungir como responsable del o los Sistemas de Datos Personales en posesión de la Contraloría, en los términos de la Ley de Datos Personales, y demás normatividad que sea aplicable;
 
@@ -566,11 +616,21 @@ XXI. Proponer al Pleno, a través del Presidente, la creación, modificación o 
 
 XXII. Designar al encargado del tratamiento de los sistemas de datos personales en posesión de su unidad administrativa; y
 
-XXIII. Las demás que expresamente le confiera la Ley de Transparencia, el Pleno, el presente Reglamento, y aquellas disposiciones legales administrativas que le sean aplicables.
+> <small>(REFORMADA, G.O. 28 DE OCTUBRE DE 2011)</small>
 
-> <small>(REFORMADA, G.O. 15 DE ABRIL DE 2011)</small>
+XXIII. Presentar al Pleno dentro de los primeros quince días al término de cada trimestre un informe sobre el resultado de las revisiones de control y evaluaciones practicadas a las unidades administrativas del Instituto, durante ese último periodo;
 
-#### SECCIÓN VII. DE LAS DIRECCIONES
+> <small>(ADICIONADA, G.O. 28 DE OCTUBRE DE 2011)</small>
+
+XXIV. Presentar un informe al Pleno, a petición del Comisionado Presidente, sobre los avances y, en su caso, resultados de la actividad fiscalizadora que es sujeta el Instituto, por parte de la Contraloría Interna del mismo, la Contaduría Mayor de Hacienda de la Asamblea Legislativa del Distrito Federal y, las auditorías externas que ordene el propio Instituto.
+
+> <small>(ADICIONADA, G.O. 28 DE OCTUBRE DE 2011)</small>
+
+XXV. Las demás que expresamente le confiera la Ley de Transparencia, el Pleno, el presente Reglamento y aquellas disposiciones legales administrativas que le sean aplicables.
+
+> <small>(REFORMADA SU DENOMINACION, G.O. 28 DE OCTUBRE DE 2011)</small>
+
+#### SECCIÓN VII. DE LAS DIRECCIONES Y COORDINACIONES
 
 > <small>(REFORMADO, G.O. 15 DE ABRIL DE 2011)</small>
 
@@ -616,7 +676,9 @@ VI. Atender las solicitudes de información pública y de acceso, rectificación
 
 VII. Apoyar al Comité de Transparencia en todo aquello que sea requerido, para el cumplimiento de lo dispuesto en la Ley de Transparencia;
 
-VIII. Participar con derecho a voz en las sesiones del Comité de Transparencia cuando se presente algún asunto materia de su competencia;
+> <small>(REFORMADA, G.O. 28 DE OCTUBRE DE 2011)</small>
+
+VIII. Participar con derecho a voz y voto en las sesiones del Comité de Transparencia cuando presenten alguna propuesta de clasificación de información de carácter restringido o declaratoria de inexistencia de documentos materia de su competencia;
 
 IX. Fungir como responsable del o los Sistemas de Datos Personales en posesión de su unidad administrativa, en los términos de la Ley de Datos Personales, y demás normatividad que sea aplicable;
 
@@ -636,7 +698,9 @@ XVI. Informar a la Secretaría Técnica sobre el cumplimiento de asuntos aprobad
 
 XVII. Proponer al Presidente la designación del personal a su cargo y participar en su desarrollo, capacitación y promoción;
 
-XVIII. Apoyar a la Dirección Jurídica y Desarrollo Normativo, en la atención de las denuncias presentadas ante el Instituto por posibles infracciones a la Ley de Transparencia, cuando exista materia de su competencia;
+> <small>(REFORMADA, G.O. 28 DE OCTUBRE DE 2011)</small>
+
+XVIII. Apoyar a la Dirección Jurídica y Desarrollo Normativo, y a la Dirección de Datos Personales, en la atención de las denuncias presentadas ante el Instituto por posibles infracciones a la Ley de Transparencia y la Ley de Datos Personales, cuando exista materia de su competencia;
 
 XIX. Coadyuvar a la integración y cumplimiento del Programa Editorial del Instituto, del año correspondiente;
 
@@ -644,11 +708,27 @@ XX. Intervenir en el seguimiento y corrección de posibles irregularidades o deb
 
 XXI. Coordinarse con los titulares o con los servidores públicos de otras unidades administrativas, cuando así se requiera, para el mejor funcionamiento del Instituto;
 
-XXII. Apoyar, en el ámbito de su competencia, a la Red de Transparencia y Acceso a la Información Pública del Distrito Federal;
+> <small>(REFORMADA, G.O. 28 DE OCTUBRE DE 2011)</small>
+
+XXII. Apoyar, en el ámbito de su competencia, a la Red de Transparencia y Acceso a la Información Pública del Distrito Federal, y la correspondiente a la Protección de Datos Personales;
 
 XXIII. Vigilar el cumplimiento de la Ley de Transparencia y la Ley de Datos Personales, el presente Reglamento y demás disposiciones aplicables; y
 
-XXIV. Las demás que les confiera el Pleno, así como las disposiciones legales y administrativas que les sean aplicables.
+> <small>(REFORMADA, G.O. 28 DE OCTUBRE DE 2011)</small>
+
+XXIV. Fungir como responsable del o los Sistemas de Datos Personales que están en su posesión, en los términos de la Ley de Datos Personales, y demás normatividad que sea aplicable;
+
+> <small>(ADICIONADA, G.O. 28 DE OCTUBRE DE 2011)</small>
+
+XXV. Proponer al Pleno, a través del Presidente, la creación, modificación o supresión de sistemas de datos personales;
+
+> <small>(ADICIONADA, G.O. 28 DE OCTUBRE DE 2011)</small>
+
+XXVI. Designar al encargado del tratamiento de los sistemas de datos personales en posesión de su unidad administrativa; y
+
+> <small>(ADICIONADA, G.O. 28 DE OCTUBRE DE 2011)</small>
+
+XXVII. Las demás que les confiera el Pleno, así como las disposiciones legales y administrativas que les sean aplicables.
 
 > <small>(REFORMADO, G.O. 15 DE ABRIL DE 2011)</small>
 
@@ -662,13 +742,19 @@ II. Substanciar los recursos de revisión, de revocación y de recusación en lo
 
 III. Resolver los recursos de revisión que se interpongan con base en la Ley de Transparencia y la Ley de Datos Personales, cuando los mismos sean desechados por no encuadrar en las hipótesis de los artículos 53 segundo párrafo y 77 de la Ley de Transparencia o 38 de la Ley de Datos Personales; por actualizarse una causal de improcedencia de las señaladas en el artículo 83 de la Ley de Transparencia; los que se tengan por no interpuestos al no cubrir los requisitos establecidos en el artículo 78 de la Ley de Transparencia, y por sobreseimiento del recurso de revisión, ante el desistimiento expreso del recurrente de conformidad con la fracción I del artículo 84 de la Ley de Transparencia;
 
-IV. Recibir y sustanciar las denuncias presentadas al Instituto por posibles infracciones a la Ley de Transparencia, cometidas por los Entes Públicos, de conformidad al procedimiento que para tal efecto apruebe el Pleno;
+> <small>(REFORMADA, G.O. 28 DE OCTUBRE DE 2011)</small>
 
-V. Dar seguimiento al cumplimiento de las resoluciones aprobadas por el Pleno, derivadas de la interposición de recursos de revisión y la presentación de denuncias por infracciones a la Ley de Transparencia, así como informar trimestralmente de ello a los Comisionados Ciudadanos, por conducto del Presidente;
+IV. Recibir y sustanciar las denuncias presentadas al Instituto por posibles infracciones a la Ley de Transparencia y la Ley de Datos Personales, cometidas por los Entes Obligados, de conformidad al procedimiento que para tal efecto apruebe el Pleno;
+
+> <small>(REFORMADA, G.O. 28 DE OCTUBRE DE 2011)</small>
+
+V. Dar seguimiento al cumplimiento de las resoluciones aprobadas por el Pleno, derivadas de la interposición de recursos de revisión y la presentación de denuncias por infracciones a la Ley de Transparencia y la Ley de Datos Personales, así como informar trimestralmente de ello a los Comisionados Ciudadanos, por conducto del Presidente;
 
 VI. Notificar los acuerdos que resulten necesarios para el cumplimiento de sus atribuciones;
 
-VII. Dar vista a los órganos de control de los Entes Públicos en caso de incumplimiento a las resoluciones ordenadas por el Pleno, derivadas de la interposición de recursos de revisión y presentación de denuncias por infracciones a la Ley de Transparencia;
+> <small>(REFORMADA, G.O. 28 DE OCTUBRE DE 2011)</small>
+
+VII. Dar vista a los órganos de control de los Entes Obligados en caso de incumplimiento a las resoluciones ordenadas por el Pleno, derivadas de la interposición de recursos de revisión y presentación de denuncias por infracciones a la Ley de Transparencia y la Ley de Datos Personales;
 
 VIII. Proponer al Pleno, a través del Presidente, criterios y lineamientos para la clasificación y desclasificación de la información de carácter restringido, y sobre la custodia de la información confidencial y reservada;
 
@@ -688,11 +774,23 @@ XV. Asesorar a las unidades administrativas del Instituto y desahogar las consul
 
 XVI. Expedir copia certificada de todos aquellos documentos que obren en el archivo del Instituto;
 
-XVII. Fungir como conciliador entre los particulares y los Entes Públicos con el objeto de procurar la conciliación de intereses cuando estos entren en conflicto con motivo de la aplicación de la Ley de Datos Personales;
+> <small>(REFORMADA, G.O. 28 DE OCTUBRE DE 2011)</small>
+
+XVII. Fungir como conciliador entre los particulares y los Entes Obligados con el objeto de procurar la conciliación de intereses cuando estos entren en conflicto con motivo de la aplicación de la Ley de Datos Personales;
 
 XVIII. Participar en el Comité de Transparencia del Instituto en términos del manual de operación e integración de dicho Comité;y (sic)
 
-XIX. Las demás que se deriven de la Ley de Transparencia y de otras disposiciones aplicables.
+> <small>(REFORMADA, G.O. 28 DE OCTUBRE DE 2011)</small>
+
+XIX. Solicitar a los Entes Obligados informes relacionados con posibles violaciones a la Ley de Datos Personales.
+
+> <small>(ADICIONADA, G.O. 28 DE OCTUBRE DE 2011)</small>
+
+XX. Desarrollar los criterios generales a partir de las opiniones y recomendaciones que emita el Pleno del Instituto a efecto de ser tomados en cuenta en futuras resoluciones que se sometan a consideración de dicho órgano colegiado.
+
+> <small>(ADICIONADA, G.O. 28 DE OCTUBRE DE 2011)</small>
+
+XXI. Las demás que se deriven de la Ley de Transparencia, así como de la Ley de Datos Personales y de otras disposiciones aplicables.
 
 > <small>(REFORMADO, G.O. 15 DE ABRIL DE 2011)</small>
 
@@ -702,13 +800,17 @@ Son atribuciones de la Dirección de Capacitación y Cultura de la Transparencia
 
 I. Elaborar, ejecutar y evaluar los programas y proyectos de capacitación en materia de transparencia, acceso a la información pública, protección de datos personales y temas afines;
 
-II. Instrumentar estrategias para la impartición de acciones de capacitación dirigidas a los servidores públicos de los sujetos obligados;
+> <small>(REFORMADA, G.O. 28 DE OCTUBRE DE 2011)</small>
+
+II. Instrumentar estrategias para la impartición de acciones de capacitación dirigidas a los servidores públicos de los Entes Obligados;
 
 III. Implantar estrategias de capacitación para promover el efecto multiplicador del conocimiento en materia de transparencia, acceso a la información pública y protección de datos personales;
 
 IV. Proponer al Pleno, a través del Presidente, los medios para la creación de un acervo documental en materia de acceso a la información pública y protección de datos personales, así como coordinar la operación del Centro de Documentación correspondiente;
 
-V. Coordinar la distribución de las publicaciones que genere el Instituto a los Entes Públicos, así como a instituciones académicas, organizaciones sociales y privadas, y al público en general;
+> <small>(REFORMADA, G.O. 28 DE OCTUBRE DE 2011)</small>
+
+V. Coordinar la distribución de las publicaciones que genere el Instituto a los Entes Obligados, así como a instituciones académicas, organizaciones sociales y privadas, y al público en general;
 
 VI. Impulsar la suscripción de convenios con instituciones de educación superior del sector público o privado, a fin de fomentar la creación de centros de investigación, difusión y docencia en materia de Transparencia;
 
@@ -728,35 +830,59 @@ XI. Las demás que se deriven de la Ley de Transparencia, la Ley de Datos Person
 
 Son atribuciones de la Dirección de Evaluación y Estudios:
 
-I. Diseñar, actualizar e instrumentar, previa aprobación del Pleno, la metodología y criterios de evaluación del cumplimiento de las obligaciones de transparencia en los portales de Internet de los entes públicos; así como los instrumentos para el análisis del ejercicio del derecho de acceso a la información pública;
+> <small>(REFORMADA, G.O. 28 DE OCTUBRE DE 2011)</small>
 
-II. Elaborar y aplicar indicadores sobre la evolución del ejercicio del derecho de acceso a la información, de los derechos de acceso, rectificación, cancelación u oposición de datos personales y de las obligaciones de transparencia en los portales de Internet de los entes públicos del Distrito Federal;
+I. Diseñar, actualizar e instrumentar, previa aprobación del Pleno, la metodología y criterios de evaluación del cumplimiento de las obligaciones de transparencia en los portales de Internet de los Entes Obligados; así como los instrumentos para el análisis del ejercicio del derecho de acceso a la información pública.
 
-III. Llevar el registro de los Comités de Transparencia de los Entes Públicos, conforme a lo establecido en la Ley de Transparencia;
+> <small>(REFORMADA, G.O. 28 DE OCTUBRE DE 2011)</small>
 
-IV. Requerir a los Entes Públicos los informes respecto al cumplimiento de sus obligaciones establecidas en la Ley de Transparencia;
+II. Elaborar y aplicar indicadores sobre la evolución del ejercicio del derecho de acceso a la información, de los derechos de acceso, rectificación, cancelación u oposición de datos personales y de las obligaciones de transparencia en los portales de Internet de los Entes Obligados del Distrito Federal;
 
-V. Evaluar el cumplimiento de los Entes Públicos respecto a sus obligaciones establecidas en la Ley de Transparencia, y demás normatividad aplicable;
+> <small>(REFORMADA, G.O. 28 DE OCTUBRE DE 2011)</small>
 
-VI. Formular y presentar al Pleno, por conducto del Presidente, los proyectos de acuerdo sobre recomendaciones a los entes públicos para que cumplan con las disposiciones establecidas en la Ley de Transparencia, así como dar el seguimiento al cumplimiento de las mismas;
+III. Llevar el registro de los Comités de Transparencia de los Entes Obligados, conforme a lo establecido en la Ley de Transparencia;
 
-VII. Proponer al Pleno del Instituto, a través del Presidente, la actualización del padrón de entes públicos sujetos a las obligaciones establecidas en la ley de Transparencia y la Ley de Datos Personales;
+> <small>(REFORMADA, G.O. 28 DE OCTUBRE DE 2011)</small>
 
-VIII. Realizar visitas de inspección periódicas a los entes públicos y a sus respectivas Oficinas de Información Pública, a efecto de verificar la observancia de la Ley de Transparencia y demás normatividad aplicable en la materia;
+IV. Requerir a los Entes Obligados los informes respecto al cumplimiento de sus obligaciones establecidas en la Ley de Transparencia;
+
+> <small>(REFORMADA, G.O. 28 DE OCTUBRE DE 2011)</small>
+
+V. Evaluar el cumplimiento de los Entes Obligados respecto a sus obligaciones establecidas en la Ley de Transparencia, y demás normatividad aplicable;
+
+> <small>(REFORMADA, G.O. 28 DE OCTUBRE DE 2011)</small>
+
+VI. Formular y presentar al Pleno, por conducto del Presidente, los proyectos de acuerdo sobre recomendaciones a los Entes Obligados para que cumplan con las disposiciones establecidas en la Ley de Transparencia, así como dar el seguimiento al cumplimiento de las mismas;
+
+> <small>(REFORMADA, G.O. 28 DE OCTUBRE DE 2011)</small>
+
+VII. Proponer al Pleno del Instituto, a través del Presidente, la actualización del padrón de Entes Obligados sujetos a las obligaciones establecidas en la ley de Transparencia y la Ley de Datos Personales;
+
+> <small>(REFORMADA, G.O. 28 DE OCTUBRE DE 2011)</small>
+
+VIII. Realizar visitas de inspección periódicas a los Entes Obligados y a sus respectivas Oficinas de Información Pública, a efecto de verificar la observancia de la Ley de Transparencia y demás normatividad aplicable en la materia;
 
 IX. Diseñar y operar un Sistema de Información Integral en materia de Transparencia y Acceso a la Información Pública que brinde insumos para la elaboración de informes y estudios, además de ofrecer referentes de apoyo para la toma de decisiones de las instancias de dirección del Instituto;
 
 X. Establecer índices de calidad en el servicio de atención al público que brinda el Instituto;
 
-XI. Establecer anualmente los índices de cumplimiento de la Ley Transparencia por parte de los entes públicos, con su respectiva publicación, previa aprobación del Pleno;
+> <small>(REFORMADA, G.O. 28 DE OCTUBRE DE 2011)</small>
+
+XI. Establecer anualmente los índices de cumplimiento de la Ley Transparencia (sic) por parte de los Entes Obligados, con su respectiva publicación, previa aprobación del Pleno;
 
 XII. Realizar análisis y estudios para difundir el conocimiento de la Ley de Transparencia y la Ley de Datos Personales, así como para medir el desarrollo e impacto del ejercicio del derecho de acceso a la información pública y de protección de datos;
 
-XIII. Asesorar y mantener una colaboración y coordinación con los entes públicos, a efecto de fortalecer el cumplimiento de sus obligaciones establecidas en la Ley de Transparencia;
+> <small>(REFORMADA, G.O. 28 DE OCTUBRE DE 2011)</small>
 
-XIV. Implementar esquemas para incentivar mejores prácticas e innovaciones en materia de transparencia y acceso a la información pública entre los entes públicos;
+XIII. Asesorar y mantener una colaboración y coordinación con los Entes Obligados, a efecto de fortalecer el cumplimiento de sus obligaciones establecidas en la Ley de Transparencia;
 
-XV. Dar seguimiento a las vistas a los órganos de control de los entes públicos, derivadas del incumplimiento a las obligaciones de transparencia en los portales de Internet establecidas en la Ley de Transparencia; y
+> <small>(REFORMADA, G.O. 28 DE OCTUBRE DE 2011)</small>
+
+XIV. Implementar esquemas para incentivar mejores prácticas e innovaciones en materia de transparencia y acceso a la información pública entre los Entes Obligados;
+
+> <small>(REFORMADA, G.O. 28 DE OCTUBRE DE 2011)</small>
+
+XV. Dar seguimiento a las vistas a los órganos de control de los Entes Obligados, derivadas del incumplimiento a las obligaciones de transparencia en los portales de Internet establecidas en la Ley de Transparencia; y
 
 XVI. Las demás que se deriven de la Ley de Transparencia y de otras disposiciones aplicables.
 
@@ -768,7 +894,9 @@ Son atribuciones de la Dirección de Vinculación con la Sociedad:
 
 I. Elaborar e instrumentar estrategias que permitan una mayor participación de la sociedad civil organizada en el ejercicio del derecho de acceso a la información pública en el Distrito Federal;
 
-II. Diseñar y ejecutar las estrategias y los mecanismos a través de los cuales la población, especialmente la sociedad civil organizada, utilice el derecho de acceso a la información pública como herramienta de vigilancia y evaluación del desempeño de los Entes Públicos, así como en beneficio de sus comunidades de incidencia;
+> <small>(REFORMADA, G.O. 28 DE OCTUBRE DE 2011)</small>
+
+II. Diseñar y ejecutar las estrategias y los mecanismos a través de los cuales la población, especialmente la sociedad civil organizada, utilice el derecho de acceso a la información pública como herramienta de vigilancia y evaluación del desempeño de los Entes Obligados, así como en beneficio de sus comunidades de incidencia;
 
 III. Promover el derecho de acceso a la información pública y a la protección de Datos Personales, mediante diversos mecanismos de divulgación, coordinación y colaboración interinstitucionales con el sector privado, social y público;
 
@@ -786,7 +914,21 @@ IX. Fortalecer las capacidades de las organizaciones de la sociedad civil como p
 
 X. Fomentar los temas de transparencia, acceso a la información y protección de datos personales, a través de las redes sociales en Internet; y
 
-XI. Las demás que se deriven de la Ley y de otras disposiciones aplicables.
+> <small>(REFORMADA, G.O. 28 DE OCTUBRE DE 2011)</small>
+
+XI. Diseñar y proponer al Pleno las acciones de participación social y ciudadana, que estimulen el intercambio de ideas entre la sociedad, los órganos de representación ciudadana y los Entes Obligados;
+
+> <small>(ADICIONADA, G.O. 28 DE OCTUBRE DE 2011)</small>
+
+XII. Proponer al Pleno el desarrollo por parte de los Entes Obligados de portales temáticos sobre asuntos de interés público, con el apoyo de las Direcciones de Evaluación y Estudios, y de Tecnologías de Información;
+
+> <small>(ADICIONADA, G.O. 28 DE OCTUBRE DE 2011)</small>
+
+XIII. Promover acciones para fomentar que la información publicada por los Entes Obligados sea accesible de manera focalizada a personas con discapacidad motriz, auditiva, visual, así como personas hablantes en diversas lenguas o idiomas reconocidos, y
+
+> <small>(ADICIONADA, G.O. 28 DE OCTUBRE DE 2011)</small>
+
+XIV. Las demás que se deriven de la Ley y de otras disposiciones aplicables.
 
 > <small>(REFORMADO, G.O. 15 DE ABRIL DE 2011)</small>
 
@@ -824,7 +966,9 @@ II. Elaborar, ejecutar y evaluar los programas y proyectos de difusión en mater
 
 III. Presentar al Pleno, durante el primer trimestre del año y por conducto del Presidente, el Programa Editorial anual del Instituto, así como coordinar su ejecución, con el apoyo de las unidades administrativas;
 
-IV. Coordinar con otros entes públicos la divulgación de información, publicaciones y publicidad del Instituto, así como concertarla con los sectores social y privado;
+> <small>(REFORMADA, G.O. 28 DE OCTUBRE DE 2011)</small>
+
+IV. Coordinar con otros Entes Obligados la divulgación de información, publicaciones y publicidad del Instituto, así como concertarla con los sectores social y privado;
 
 V. Establecer los lineamientos para el uso y aplicación de la Imagen Institucional, en el diseño de materiales de difusión para medios impresos y electrónicos, así como la identidad de eventos institucionales;
 
@@ -840,23 +984,39 @@ IX. Las demás que le encomiende el Pleno, el Presidente y las que se deriven de
 
 Artículo 25 TER. Son atribuciones de la Dirección de Datos Personales:
 
-I. Proponer al Pleno, a través del Presidente, políticas, lineamientos y demás normatividad de observancia general que se considere necesaria para la tutela, tratamiento, seguridad y protección de los datos personales en posesión de los entes públicos, así como las modificaciones que resulten pertinentes;
+> <small>(REFORMADA, G.O. 28 DE OCTUBRE DE 2011)</small>
+
+I. Proponer al Pleno, a través del Presidente, políticas, lineamientos y demás normatividad de observancia general que se considere necesaria para la tutela, tratamiento, seguridad y protección de los datos personales en posesión de los Entes Obligados, así como las modificaciones que resulten pertinentes;
 
 II. Proponer al Pleno, para su aprobación, los formatos de solicitudes de acceso, rectificación, cancelación y oposición de datos personales, así como elaborar guías que faciliten el conocimiento de los procedimientos y trámites en la materia;
 
-III. Registrar los Sistemas de Datos Personales en posesión de los entes públicos, así como sus modificaciones y supresiones, las medidas de seguridad técnica y organizativa;
+> <small>(REFORMADA, G.O. 28 DE OCTUBRE DE 2011)</small>
 
-IV. Requerir a los entes públicos los informes respecto al cumplimiento de sus obligaciones, en los términos de la Ley de Datos Personales, así como determinar el cumplimiento de dichas obligaciones;
+III. Registrar los Sistemas de Datos Personales en posesión de los Entes Obligados, así como sus modificaciones y supresiones, las medidas de seguridad técnica y organizativa;
 
-V. Formular y presentar al Pleno, por conducto del Presidente, los proyectos de acuerdo sobre observaciones y recomendaciones a los entes públicos, para que cumplan con las disposiciones establecidas en la Ley de Datos Personales, así como dar seguimiento a su cumplimiento;
+> <small>(REFORMADA, G.O. 28 DE OCTUBRE DE 2011)</small>
 
-VI. Realizar visitas de inspección periódicas a los entes públicos, a efecto de verificar la observancia de los principios de la Ley de Datos Personales, y demás normatividad aplicable en la materia;
+IV. Requerir a los Entes Obligados los informes respecto al cumplimiento de sus obligaciones, en los términos de la Ley de Datos Personales, así como determinar el cumplimiento de dichas obligaciones;
 
-VII. Asesorar, acompañar y mantener la coordinación con los entes públicos, a efecto de fortalecer el cumplimiento de las obligaciones que les establece la Ley de Datos Personales;
+> <small>(REFORMADA, G.O. 28 DE OCTUBRE DE 2011)</small>
 
-VIII. Promover mecanismos que coadyuven a incentivar mejores prácticas e innovaciones en materia de protección de datos personales entre los entes públicos;
+V. Formular y presentar al Pleno, por conducto del Presidente, los proyectos de acuerdo sobre observaciones y recomendaciones a los Entes Obligados, para que cumplan con las disposiciones establecidas en la Ley de Datos Personales, así como dar seguimiento a su cumplimiento;
 
-IX. Dar seguimiento a las vistas a los órganos de control de los entes públicos, derivadas del incumplimiento a las obligaciones de (sic) establecidas en la Ley de Datos Personales;
+> <small>(REFORMADA, G.O. 28 DE OCTUBRE DE 2011)</small>
+
+VI. Realizar visitas de inspección periódicas a los Entes Obligados, a efecto de verificar la observancia de los principios de la Ley de Datos Personales, y demás normatividad aplicable en la materia, así como elaborar los proyectos de resolución correspondientes;
+
+> <small>(REFORMADA, G.O. 28 DE OCTUBRE DE 2011)</small>
+
+VII. Asesorar, acompañar y mantener la coordinación con los Entes Obligados, a efecto de fortalecer el cumplimiento de las obligaciones que les establece la Ley de Datos Personales;
+
+> <small>(REFORMADA, G.O. 28 DE OCTUBRE DE 2011)</small>
+
+VIII. Promover mecanismos que coadyuven a incentivar mejores prácticas e innovaciones en materia de protección de datos personales entre los Entes Obligados;
+
+> <small>(REFORMADA, G.O. 28 DE OCTUBRE DE 2011)</small>
+
+IX. Dar seguimiento a las vistas a los órganos de control de los Entes Obligados, derivadas del incumplimiento a las obligaciones de (sic) establecidas en la Ley de Datos Personales;
 
 X. Coadyuvar con las actividades y compromisos vinculados con los convenios, redes, conferencias, foros, seminarios y otros eventos en los que participe el Instituto en materia de protección de datos personales;
 
@@ -868,11 +1028,35 @@ XIII. Coordinar los trabajos para la implementación de mejoras de los sistemas 
 
 XIV. Asesorar y dar seguimiento a las actividades que el Instituto lleve a cabo para dar cumplimiento a sus obligaciones en materia de protección de datos personales;
 
-XV. Coadyuvar con la Dirección Jurídica y Desarrollo Normativo en la conciliación de los intereses de los particulares con los entes públicos, cuando exista algún conflicto en la interpretación y aplicación de la Ley de Datos Personales; o en la emisión de opiniones técnicas, de conformidad con sus atribuciones y facultades;
+> <small>(REFORMADA, G.O. 28 DE OCTUBRE DE 2011)</small>
+
+XV. Coadyuvar con la Dirección Jurídica y Desarrollo Normativo en la conciliación de los intereses de los particulares con los Entes Públicos cuando exista algún conflicto en la interpretación y aplicación de la Ley de Datos Personales; o en la emisión de opiniones técnicas;
 
 XVI. Coadyuvar con la Dirección de Capacitación y Cultura de la Transparencia en el diseño de los programas de capacitación en materia de protección de datos personales; y
 
-XVII. Las demás que se deriven de la Ley de Datos Personales y de otras disposiciones aplicables.
+> <small>(REFORMADA, G.O. 28 DE OCTUBRE DE 2011)</small>
+
+XVII. Evaluar el cumplimiento de los Entes Obligados respecto a sus obligaciones establecidas en la Ley de Datos Personales, y demás normatividad aplicable;
+
+> <small>(ADICIONADA, G.O. 28 DE OCTUBRE DE 2011)</small>
+
+XVIII. Establecer anualmente los índices de cumplimiento de la Ley de Datos Personales por parte de los Entes Obligados, con su respectiva publicación, previa aprobación del Pleno;
+
+> <small>(ADICIONADA, G.O. 28 DE OCTUBRE DE 2011)</small>
+
+XIX. Formular los dictámenes que serán la base de las resoluciones que se emitan dentro del procedimiento de denuncias por posibles infracciones a la Ley de Datos Personales, para lo cual podrá realizar las diligencias necesarias;
+
+> <small>(ADICIONADA, G.O. 28 DE OCTUBRE DE 2011)</small>
+
+XX. Emitir las opiniones técnicas en materia de protección de datos personales que le sean requeridas, de conformidad con sus atribuciones y facultades;
+
+> <small>(ADICIONADA, G.O. 28 DE OCTUBRE DE 2011)</small>
+
+XXI. Dar seguimiento al cumplimiento de las resoluciones aprobadas por el Pleno, derivadas de la práctica de las visitas de inspección, y
+
+> <small>(ADICIONADA, G.O. 28 DE OCTUBRE DE 2011)</small>
+
+XXII. Las demás que se deriven de la Ley de Datos Personales y de otras disposiciones aplicables.
 
 > <small>(REFORMADO, G.O. 15 DE ABRIL DE 2011)</small>
 
@@ -886,7 +1070,9 @@ II. Elaborar y proponer al Pleno, por conducto de su Presidente, los proyectos e
 
 III. Ejecutar las políticas informáticas y el diseño de las redes de cómputo, así como el desarrollo de sistemas;
 
-IV. Diseñar y elaborar el sistema electrónico de solicitudes de acceso a la información pública y de acceso, rectificación, cancelación y oposición de datos personales, en posesión de los Entes Públicos;
+> <small>(REFORMADA, G.O. 28 DE OCTUBRE DE 2011)</small>
+
+IV. Diseñar y elaborar el sistema electrónico de solicitudes de acceso a la información pública y de acceso, rectificación, cancelación y oposición de datos personales, en posesión de los Entes Obligados;
 
 V. Desarrollar, administrar y mantener el sistema y la red informática del Instituto;
 
@@ -902,7 +1088,9 @@ X. Apoyar a las unidades administrativas en el desarrollo de sistemas de informa
 
 XI. Implementar herramientas informáticas que apoyen la aplicación de los criterios que determine el Pleno para la custodia de la información del Instituto;
 
-XII. Brindar asesoría, en materia informática, para la sistematización de la información que detentan los entes públicos; y
+> <small>(REFORMADA, G.O. 28 DE OCTUBRE DE 2011)</small>
+
+XII. Brindar asesoría, en materia informática, para la sistematización de la información que detentan los Entes Obligados; y
 
 XIII. Las demás que se deriven de la Ley de Transparencia, la Ley de Datos Personales y de otras disposiciones aplicables.
 
@@ -918,7 +1106,9 @@ II. Aplicar las políticas, normas y procedimientos para la administración de l
 
 III. Conducir las relaciones contractuales de los trabajadores del Instituto, mediante la aplicación de la Política Laboral emitida por el Pleno;
 
-IV. Elaborar el anteproyecto de presupuesto, con el apoyo de las áreas, y participar en la integración del proyecto de programa operativo anual del instituto;
+> <small>(REFORMADA, G.O. 28 DE OCTUBRE DE 2011)</small>
+
+IV. Elaborar el anteproyecto de presupuesto, con el apoyo de las unidades administrativas, y participar en la integración del proyecto de programa operativo anual del Instituto;
 
 V. Integrar el programa anual de adquisiciones, arrendamientos y prestación de servicios, y de obra pública, así como presidir el Comité correspondiente;
 
@@ -940,7 +1130,9 @@ XIII. Establecer mecanismos de control del activo fijo, así como programas de a
 
 XIV. Custodiar el archivo de concentración e histórico del Instituto;
 
-XV. Coordinar los trabajos para el cumplimiento de las obligaciones del instituto como sujeto obligado de la Ley de Archivos del Distrito Federal; y
+> <small>(REFORMADA, G.O. 28 DE OCTUBRE DE 2011)</small>
+
+XV. Coordinar los trabajos necesarios para el cumplimiento de las obligaciones del Instituto como sujeto obligado de la Ley de Archivos del Distrito Federal; y
 
 XVI. Las demás que se deriven de la Ley de Transparencia y de otras disposiciones aplicables.
 
@@ -978,7 +1170,9 @@ Recibido el recurso de revocación, la Dirección Jurídica y Desarrollo Normati
 
 I. Analizará el escrito inicial, así como las pruebas correspondientes a más tardar dentro de los tres días hábiles siguientes a la recepción del recurso, y si reúne los requisitos previstos en el artículo anterior, lo admitirá a trámite y en el mismo auto se decretará la suspensión de los plazos previstos para resolver el recurso de revisión, hasta en tanto no se resuelva el recurso de revocación y sea debidamente notificado. En caso de que el recurso de revocación no sea procedente en los términos previstos en la Ley de Transparencia y la Ley de Datos Personales, el presente Reglamento y demás normatividad aplicable, éste será desechado;
 
-II. En este mismo auto admisorio se resolverá sobre la admisión o desechamiento de las pruebas y se ordenará se dé vista al Ente Público para que en el término de tres días hábiles manifieste lo que a su derecho convenga, con relación a los argumentos aducidos por el recurrente;
+> <small>(REFORMADA, G.O. 28 DE OCTUBRE DE 2011)</small>
+
+II. En este mismo auto admisorio se resolverá sobre la admisión o desechamiento de las pruebas y se ordenará se dé vista al Ente Obligado para que en el término de tres días hábiles manifieste lo que a su derecho convenga, con relación a los argumentos aducidos por el recurrente;
 
 III. Desahogada la vista ordenada a la parte contraria, se procederá al desahogo de las pruebas admitidas y en un término de cinco días hábiles, contados a partir del cierre de la instrucción, la Dirección Jurídica y Desarrollo Normativo elaborará el proyecto de resolución, mismo que someterá a la consideración del Pleno, por conducto de la Secretaría Técnica; y
 
@@ -1047,3 +1241,7 @@ III. Aprobada la modificación, quedará incorporada de inmediato al texto del R
 G.O. 15 DE ABRIL DE 2011.
 
 EL ACUERDO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL PARA EL DISTRITO FEDERAL VIGENTE.
+
+G.O. 28 DE OCTUBRE DE 2011.
+
+ÚNICO.- Las presentes modificaciones y adiciones entrarán en vigor al día siguiente de su aprobación por el Pleno del Instituto de Acceso a la Información Pública y Protección de Datos Personales del Distrito Federal.
