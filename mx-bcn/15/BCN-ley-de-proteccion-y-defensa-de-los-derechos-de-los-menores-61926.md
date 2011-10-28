@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-proteccion-y-defensa-de-los-derechos-de-los-menores-6192
 country: "mx"
 rank: "ley"
 publication_date: "2008-07-04"
-last_updated: "2009-11-13"
+last_updated: "2011-10-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61926&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE PROTECCION Y DEFENSA DE LOS DERECHOS DE LOS MENORES Y LA FAMILIA EN EL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE NOVIEMBRE DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE OCTUBRE DE 2011.
 
 Ley publicada en el Periódico Oficial del Estado de Baja California, el viernes 4 de julio de 2008.
 
@@ -97,7 +97,11 @@ III.- Una educación que desarrolle íntegramente su personalidad, en los térmi
 
 IV.- La salud. Para salvaguardar este derecho, el Estado y los municipios deberán brindar el servicio y la atención médica, hospitalaria y de medicación en las instituciones de asistencia social que tengan para tal efecto. El servicio será gratuito cuando el menor sea derechohabiente de alguna institución de seguridad social o la situación socioeconómica de quienes lo tengan bajo su cuidado, no les permita solventarlo;
 
-V.- Protección contra cualquier forma de explotación, agresión o maltrato;
+> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2011)</small>
+
+V.- Protección contra cualquier forma de explotación, agresión o maltrato, actos u omisiones que puedan afectar su salud física o mental y su normal desarrollo. Las normas establecerán las formas de prever y evitar estas conductas. Enunciativamente, se les protegerá cuando se vean afectados por el descuido, la negligencia, el abandono, el abuso emocional, físico y sexual.
+
+Para efectos de lo anterior, el Estado y los municipios en el ámbito de su competencia, deberán establecer programas tendientes a la prevención, detección y denuncia de abusos en contra de menores, así como de apoyo a favor de las víctimas y sus familiares;
 
 > <small>(REFORMADA, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
@@ -159,13 +163,21 @@ La Procuraduría podrá solicitar de la autoridad judicial competente, la pérdi
 
 Toda persona, autoridad o institución que tenga conocimiento del posible estado de vulnerabilidad de un menor, inclusive, respecto de personas que no tengan la capacidad para comprender el significado del hecho y personas con capacidades diferentes, deberá de hacerlo del conocimiento de la Procuraduría, a través del procedimiento de denuncia contemplado en la presente Ley.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 28 DE OCTUBRE DE 2011)</small>
+
+La Procuraduría recibirá en todo momento las denuncias referidas en el párrafo anterior, iniciando el procedimiento respectivo, en los términos de la presente Ley.
+
+> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2011)</small>
+
 ###### ARTÍCULO 13.
 
-La Procuraduría recibirá en todo momento las denuncias referidas en el artículo anterior, iniciando el procedimiento respectivo, en los términos de la presente Ley.
+La Procuraduría protegerá y promoverá los derechos de los menores y procurará su equidad y seguridad jurídica en las relaciones en que por cualquier motivo participen, emitiendo los acuerdos necesarios para garantizar dicha protección; en los que deberá solicitar la calificación de la medida a la Autoridad Jurisdiccional, Ministerio Público o autoridad política del lugar que corresponda, cuando así lo prevea la presente Ley.
+
+> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2011)</small>
 
 ###### ARTÍCULO 14.
 
-La Procuraduría protegerá y promoverá los derechos de los menores y procurará su equidad y seguridad jurídica en las relaciones en que por cualquier motivo participen, emitiendo los acuerdos necesarios para garantizar dicha protección; en los que deberá solicitar la calificación de la medida a la Autoridad Jurisdiccional, Ministerio Público o autoridad política del lugar que corresponda, cuando así lo prevea la presente Ley.
+La Procuraduría, en coordinación con las autoridades federales, estatales y municipales, en el ámbito de sus respectivas competencias, promoverá la implementación de programas, mecanismos y protocolos de seguridad que tengan por objeto la búsqueda inmediata de menores de edad desaparecidos, para lo cual podrán solicitar la participación de la sociedad y de los medios masivos de comunicación para atender este tipo de casos y darles la difusión necesaria, a fin de facilitar su localización.
 
 ### CAPÍTULO II. DEL RESGUARDO DE LOS MENORES
 
@@ -736,3 +748,7 @@ PARA SU CONOCIMIENTO EN TÉRMINOS DEL ARTÍCULO 9, DE LA LEY ORGANICA DE LA ADMI
 P.O. 13 DE NOVIEMBRE DE 2009.
 
 ÚNICO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 28 DE OCTUBRE DE 2011.
+
+ÚNICO: Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
