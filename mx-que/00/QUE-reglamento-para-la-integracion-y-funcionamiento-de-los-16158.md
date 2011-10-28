@@ -4,7 +4,7 @@ identifier: "QUE-reglamento-para-la-integracion-y-funcionamiento-de-los-16158"
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-04-14"
-last_updated: "2000-04-14"
+last_updated: "2011-10-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16158&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 REGLAMENTO PARA LA INTEGRACION Y FUNCIONAMIENTO DE LOS COMITES DE ADQUISICIONES, ENAJENACIONES, ARRENDAMIENTOS Y CONTRATACION DE SERVICIOS DEL PODER EJECUTIVO Y ENTIDADES PARAESTATALES DEL ESTADO DE QUERETARO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE OCTUBRE DE 2011.
 
 Reglamento publicado en el Periódico Oficial del Estado de Querétaro, el viernes 14 de abril de 2000.
 
@@ -67,7 +67,9 @@ III.- Un representante de la Dependencia Coordinadora del sector al que pertenez
 
 IV.- Un representante de la Secretaría de Planeación y Finanzas, como Vocal; y
 
-V.- Un representante del órgano interno de control de la Entidad Paraestatal, como Vocal.
+> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2011)</small>
+
+V.- Un representante de la Oficialía Mayor del Poder Ejecutivo, como Vocal.
 
 Los miembros propietarios del Comité deberán nombrar a su respectivo suplente.
 
@@ -125,6 +127,10 @@ Los contratos respectivos deberán celebrarse en el plazo que establezcan los Co
 
 Las Entidades Paraestatales deberán remitir al Titular de la Oficialía Mayor del Poder Ejecutivo, copia de todos los fallos que emitan y los contratos que se celebren derivado de los mismos, dentro de los diez días hábiles siguientes a la fecha en que hayan celebrado el contrato respectivo.
 
+> <small>(ADICIONADO, P.O. 28 DE OCTUBRE DE 2011)</small>
+
+La Oficialía Mayor del Poder Ejecutivo podrá emitir lineamientos que permitan que las adquisiciones y contrataciones que realice el Poder Ejecutivo, así como las Entidades Paraestatales, se realicen bajo los principios de eficacia, efiencia (sic) y honradez, los cuáles tendrán el carácter de obligatorios.
+
 ## TRANSITORIOS
 
 PRIMERO.- Este Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
@@ -148,3 +154,9 @@ SECRETARIO DE GOBIERNO
 C. DULCE MARIA YARZA DIAZ
 
 OFICIAL MAYOR
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 28 DE OCTUBRE DE 2011.
+
+Único. El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
