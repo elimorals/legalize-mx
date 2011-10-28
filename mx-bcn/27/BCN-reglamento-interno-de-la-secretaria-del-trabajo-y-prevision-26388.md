@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-interno-de-la-secretaria-del-trabajo-y-prevision-263
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-02-15"
-last_updated: "2002-02-15"
+last_updated: "2011-10-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26388&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 REGLAMENTO INTERNO DE LA SECRETARIA DEL TRABAJO Y PREVISION SOCIAL
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE OCTUBRE DE 2011.
 
 Reglamento publicado en el Periódico Oficial del Estado de Baja California, el viernes 15 de febrero mayo de 2002.
 
@@ -53,7 +53,9 @@ III.- Dirección de Inspección del Trabajo;
 
 IV.- Dirección de Previsión Social;
 
-V.- Dirección del Servicio Estatal del Empleo;
+> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2011)</small>
+
+V.- Dirección del Servicio Nacional de Empleo Baja California;
 
 VI.- Dirección Administrativa;
 
@@ -239,13 +241,17 @@ XII.- Promover en las empresas de jurisdicción local el desarrollo de los servi
 
 XIII.- Las demás relativas a la competencia de su área y que sean indispensables para el buen desarrollo de sus atribuciones.
 
+> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2011)</small>
+
 ###### ARTÍCULO 19.
 
-La Dirección del Servicio Estatal del Empleo estará integrada por un Director, las unidades administrativas y el personal que se juzgue necesario para el cumplimiento de las atribuciones que señala la Ley Federal del Trabajo, autorizados en el presupuesto de egresos.
+La Dirección del Servicio Nacional de Empleo Baja California estará integrada por un Director, las unidades administrativas y el personal necesario para el cumplimiento de sus atribuciones, autorizados en el presupuesto de egresos.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE OCTUBRE DE 2011)</small>
 
 ###### ARTÍCULO 20.
 
-La Dirección del Servicio Estatal del Empleo tendrá las siguientes atribuciones:
+La Dirección del Servicio Nacional de Empleo Baja California tendrá las siguientes atribuciones:
 
 I.- Programar, organizar, controlar y evaluar el desarrollo de los programas encomendados por el Servicio Nacional del Empleo en materia de empleo, capacitación y adiestramiento para el trabajo;
 
@@ -349,7 +355,9 @@ II.- Un Departamento de Previsión Social;
 
 III.- Un Departamento de Inspección del Trabajo;
 
-IV.- Un Departamento de Servicio Estatal del Empleo.
+> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2011)</small>
+
+IV.- Un Departamento del Servicio Nacional de Empleo Baja California.
 
 > <small>(F. DE E., P.O. 22 DE MARZO DE 2002)</small>
 
@@ -359,7 +367,9 @@ Se adscriben a la Delegación para el Municipio de Ensenada:
 
 I.- La representación de la Procuraduría Estatal de la Defensa del Trabajo;
 
-II.- Un Departamento de Servicio Estatal del Empleo.
+> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2011)</small>
+
+II.- Un Departamento del Servicio Nacional de Empleo Baja California.
 
 ###### ARTÍCULO 26.
 
@@ -397,9 +407,11 @@ V.- Promover la asesoría en los rubros de previsión social, normas reguladoras
 
 VI.- Las demás relativas a la competencia de su área y que sean indispensables para el buen desarrollo de sus atribuciones.
 
+> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2011)</small>
+
 ###### ARTÍCULO 28.
 
-Los Departamentos del Servicio Estatal del Empleo tendrán las mismas atribuciones encomendadas a la Dirección del Servicio Estatal del Empleo, pero dentro del ámbito de su competencia, según corresponda su adscripción.
+Los Departamentos del Servicio Nacional de Empleo Baja California tendrán las mismas atribuciones encomendadas a la Dirección del Servicio Nacional de Empleo Baja California, pero dentro del ámbito de su competencia, según corresponda su adscripción.
 
 ### CAPÍTULO VII. SUPLENCIAS DE LOS SERVIDORES PÚBLICOS
 
@@ -432,3 +444,9 @@ BERNARDO BORBÓN VILCHES
 EL SECRETARIO DEL TRABAJO Y PREVISIÓN SOCIAL
 
 RAFAEL AYALA LÓPEZ
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 28 DE OCTUBRE DE 2011.
+
+ÚNICO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Baja California.
