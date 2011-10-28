@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-hacienda-municipal-del-estado-de-baja-california-3580"
 country: "mx"
 rank: "ley"
 publication_date: "1953-12-31"
-last_updated: "2011-07-29"
+last_updated: "2011-10-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3580&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "BCN"
 
 LEY DE HACIENDA MUNICIPAL DEL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE OCTUBRE DE 2010.
-
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIODICO OFICIAL DEL 29 DE JULIO DE 2011.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE OCTUBRE DE 2011.
 
 Ley publicada en la Sección Quinta del Periódico Oficial del Estado de Baja California, el 31 de diciembre de 1953.
 
@@ -251,7 +249,7 @@ El pago en parcialidades de los créditos fiscales, causará recargos que se cal
 
 Los recargos que se generen con motivo de los plazos concedidos, se calcularán conforme a la tasa que fijen para cada Municipio, sus respectivas Leyes de Ingresos.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE DICIEMBRE DE 1997)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE DICIEMBRE DE 1997)</small>
 
 ###### ARTICULO 35.
 
@@ -631,7 +629,7 @@ III.- Son solidariamente responsables del pago del Impuesto Predial:
 
 IV.- La base del Impuesto es la siguiente:
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE NOVIEMBRE DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE NOVIEMBRE DE 2001)</small>
 
 1.- Tratándose de predios urbanos o rústicos:
 
@@ -647,7 +645,7 @@ c).- (DEROGADO, P.O. 6 DE NOVIEMBRE DE 1998)
 
 d).- El valor de avalúo que practique la autoridad fiscal municipal, cuando éste no se encuentre contemplado en la Tabla de Valores Catastrales Unitarios, Base del Impuesto Predial.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE NOVIEMBRE DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE NOVIEMBRE DE 2001)</small>
 
 2.- Cuando el predio se encuentre edificado con diversos departamentos propiedad de distintas personas, que a la vez sean copropietarios del terreno en que se encuentra construido el edificio, así como de sus escaleras, pasillos, jardines, muros medianeros, pisos y demás servicios e instalaciones, la Oficina de Catastro determinará el valor que le corresponda a cada uno y éste entrará en vigor a partir del mes siguiente a la fecha en que se haya autorizado, previamente la Escritura de Constitución del Condominio. Si éste se constituye sin estar terminadas las construcciones, el impuesto se continuará causando sobre el valor total del terreno y será a cargo de las personas que lo constituyeron.
 
@@ -661,9 +659,11 @@ V.- La tasa del Impuesto que corresponda pagar, será la que se determine en la 
 
 VI.- La cuota del Impuesto que resulte con base en los avalúos y modificaciones entrará en vigor a partir del mes siguiente a la fecha en que éstos se hayan notificado.
 
-> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 1998)</small>
+> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2011)</small>
 
-VII.- El pago del Impuesto deberá cubrirse anualmente durante los dos primeros meses del año en la Oficina Recaudadora Municipal que corresponda, mediante declaración obligatoria que deberá presentar el contribuyente utilizando las formas que al efecto apruebe la Tesorería Municipal. El pago anticipado del Impuesto, no impide el cobro de diferencias que resulten por cambios en las bases gravables o variación de las cuotas del impuesto.
+VII.- El pago del Impuesto deberá cubrirse anualmente en los plazos previstos por las leyes de ingresos municipales respectivas, en la Oficina Recaudadora Municipal que corresponda, mediante declaración obligatoria que deberá presentar el contribuyente utilizando las formas que al efecto apruebe la Tesorería Municipal. El pago anticipado del Impuesto, no impide el cobro de diferencias que resulten por cambios en las bases gravables o variación de las cuotas del Impuesto.
+
+Las leyes de ingresos municipales podrán prever el otorgamiento de estímulos a aquellos contribuyentes del Impuesto Predial que lo enteren oportunamente.
 
 > <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 1998)</small>
 
@@ -865,7 +865,7 @@ Los ingresos que de este impuesto se recaben, serán destinados exclusivamente a
 
 (DEROGADO, P.O. 25 DE OCTUBRE DE 2002)
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE OCTUBRE DE 2002)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE OCTUBRE DE 2002)</small>
 
 ###### ARTICULO 77.
 
@@ -898,6 +898,10 @@ IX.- Comisionistas.
 X.- Estacionamiento o guarda de vehículos.
 
 XI.- Construcción, reconstrucción, ampliación y translación de casas.
+
+> <small>(ADICIONADA, P.O. 28 DE OCTUBRE DE 2011)</small>
+
+XII.- Construcción incluyendo la apertura de hoyos y zanjas en la vía pública para la instalación de estructuras, equipos, instrumentos o elementos necesarios para la prestación de servicios de telefonía, televisión por cable, internet, gas y otros servicios similares prestados por empresas privadas.
 
 ###### ARTICULO 78.
 
@@ -1443,7 +1447,7 @@ DE LOS RECARGOS
 
 (DEROGADO, P.O. 26 DE DICIEMBRE DE 1997)
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE JUNIO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE JUNIO DE 2008)</small>
 
 ###### ARTICULO 108.
 
@@ -1465,7 +1469,7 @@ El plazo para cómputo de los recargos por demora en el pago de impuestos y dere
 
 La condonación total o parcial de los recargos podrá otorgarse mediante disposiciones de carácter general que apruebe el Ayuntamiento, a propuesta del Presidente Municipal, la cual deberá publicarse en el Periódico Oficial del Estado.
 
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1997)</small>
+> <small>(REFORMADO P.O. 26 DE DICIEMBRE DE 1997)</small>
 
 Excepcionalmente, el Presidente Municipal podrá otorgar la condonación total o parcial de los recargos, cuando se trate de personas de edad avanzada o de escasos recursos económicos que la ameriten, previo estudio socioeconómico que así lo sustente.
 
@@ -2153,7 +2157,7 @@ La multas que la Tesorería y sus dependencias impongan por infracciones a las d
 
 Si se intnerpone (sic) el recurso de condonación no podrá hacer uso del recurso de revisión.
 
-> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 27 DE JUNIO DE 2008)</small>
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 27 DE JUNIO DE 2008)</small>
 
 DE LA APLICACION DEL REDONDEO
 
@@ -2187,7 +2191,7 @@ El Secretario General de Gobierno
 
 LIC. RAFAEL MORENO HENRIQUEZ
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 31 DE DICIEMBRE DE 1954.
 
@@ -2376,3 +2380,19 @@ P.O. 15 DE OCTUBRE DE 2010.
 > <small>(F. DE E., P.O. 29 DE JULIO DE 2011)</small>
 
 ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 28 DE OCTUBRE DE 2011.
+
+DECRETO No. 99 POR EL QUE SE APRUEBA LA INICIATIVA DE REFORMA A LA FRACCION VII Y ADICION DE UN PARRAFO A DICHA FRACCION DEL ARTICULO 75 BIS A DE LA LEY DE HACIENDA MUNICIPAL DEL ESTADO DE BAJA CALIFORNIA
+
+PRIMERO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las demás disposiciones que se opongan a lo establecido en el presente Decreto.
+
+P.O. 28 DE OCTUBRE DE 2011.
+
+DECRETO No. 100 POR EL QUE SE APRUEBA LA INICIATIVA QUE REFORMA EL ARTICULO 77 DE LA LEY DE HACIENDA MUNICIPAL DEL ESTADO DE BAJA CALIFORNIA.
+
+PRIMERO.- La presente reforma entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+SEGUNDO.- Los Ayuntamientos del Estado deberán realizar las adecuaciones a sus respectivas Leyes de Ingresos, para la debida aplicación de la presente reforma.
