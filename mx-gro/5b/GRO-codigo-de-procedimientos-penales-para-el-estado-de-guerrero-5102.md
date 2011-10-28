@@ -4,7 +4,7 @@ identifier: "GRO-codigo-de-procedimientos-penales-para-el-estado-de-guerrero-510
 country: "mx"
 rank: "codigo"
 publication_date: "1993-02-05"
-last_updated: "2011-08-16"
+last_updated: "2011-10-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5102&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE GUERRERO, NUMERO 357
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE AGOSTO DE 2011.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE OCTUBRE DE 2011.
 
 Código publicado en el Periódico Oficial del Estado de Guerrero, el viernes 5 de febrero de 1993.
 
@@ -399,6 +399,64 @@ Las mencionadas autoridades se cerciorarán en todo caso de la identidad del den
 
 La Policía Judicial sólo puede recibir denuncias por delitos perseguibles de oficio, no de los sujetos a querella, cuando en el lugar no haya agente del Ministerio Público ni otra autoridad que legalmente lo sustituya. Inmediatamente dará cuenta al Ministerio Público de la denuncia recibida, para que éste asuma el conocimiento de los hechos y dicte los acuerdos procedentes.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 28 DE OCTUBRE DE 2011)</small>
+
+Si en la averiguación previa no hay detenido y se trata de delitos culposos, el Ministerio Público dispondrá de seis meses para integrar la averiguación previa, contados a partir de la formulación de la querella o denuncia, ejercitando o no la acción penal, en los delitos dolosos sancionados con una pena máxima no mayor de cinco años de prisión, el Ministerio Público dispondrá de doce meses, si la pena máxima excede de cinco años dispondrá de dieciocho meses para integrar la averiguación y para los delitos graves éste dispondrá de veinticuatro meses.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 28 DE OCTUBRE DE 2011)</small>
+
+En toda averiguación previa deberán hacerse constar los datos de identificación del indiciado siguientes (sic):
+
+a) Nombres y apellidos completos;
+
+b) Edad presumible;
+
+c) Sexo;
+
+d) Nombre de los padres, de ser posible;
+
+e) Domicilio;
+
+f) Fotografía, de ser posible;
+
+g) Características físicas presumibles como la talla y complexión;
+
+h) Cicatrices, tatuajes y otras señales particulares;
+
+i) Profesión u ocupación presumible;
+
+j) Estado Civil; y
+
+k) Nacionalidad, de ser posible;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 28 DE OCTUBRE DE 2011)</small>
+
+En caso de desconocerse alguno de los datos de identidad personal, debe expresarse esta circunstancia, a excepción de los indicados en los incisos b), c), g) y h) que serán obligatorios.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 28 DE OCTUBRE DE 2011)</small>
+
+Con la finalidad de lograr la plena identidad de la persona, el Ministerio Público deberá solicitar la información necesaria a las Oficialías del Registro Civil o a la Coordinación Técnica del Sistema Estatal del Registro Civil, así como al Instituto Electoral del Estado de Guerrero, para que le proporcione los datos de las personas que responden a ese mismo nombre, y de ser posible copia de la credencial de las mismas para lograr la plena identidad del sujeto.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 28 DE OCTUBRE DE 2011)</small>
+
+Cuando una denuncia o querella se dirija en contra de un sujeto que radique o se presuma se encuentra registrado en otra entidad federativa el Ministerio Público, observará las disposiciones que se establecen en el Título Segundo, Capítulo IV de este Código, con la finalidad de identificar plenamente al sujeto.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 28 DE OCTUBRE DE 2011)</small>
+
+El Ministerio Público o quien legalmente lo sustituya, podrá solicitar al indiciado cualquier otro dato de identificación para que exista certeza jurídica de la persona, lo anterior con el pleno respeto a sus derechos humanos y sin que los datos impliquen un acto discriminatorio.
+
 ###### Artículo 55.
 
 Cuando un servidor público tenga conocimiento de la comisión de un delito, en el ejercicio y con motivo de sus funciones, deberá denunciarlo de inmediato, si se trata de delito perseguible de oficio, o ponerlo en conocimiento de su superior jerárquico, si se trata de delito perseguible mediante querella u otro acto equivalente, que dependa de una autoridad. Si no lo hace, se le aplicará la pena prevista para el caso de encubrimiento.
@@ -613,6 +671,12 @@ Habrá caso urgente, cuando se trate de alguno de los delitos considerados como 
 
 En estos supuestos el Ministerio Público, bajo su responsabilidad, ordenará su detención, fundando y expresando los indicios que motivan su proceder. La orden de detención, que siempre será por escrito, deberá ser ejecutada por la policía judicial, la que sin dilación alguna, pondrá al detenido a disposición del Ministerio Público que la haya librado.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 28 DE OCTUBRE DE 2011)</small>
+
+Para la detención de una persona en cumplimiento a una orden de aprehensión, reaprehensión o presentación, la policía ministerial o la autoridad que ejecute dicha orden, deberá identificar plena y fehacientemente a la persona, debiendo observar los requisitos establecidos en el quinto párrafo del artículo 54 de este Código y de ser factible acompañar una fotografía, los cuales deberán estar consignados en el parte policial elaborado al proceso penal, bajo responsabilidad en caso de incumplimiento.
+
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE OCTUBRE DE 2005)</small>
 
 ###### Artículo 70.
@@ -728,6 +792,12 @@ Si la consignación se hiciere con detenido, el Juez deberá inmediatamente rati
 Satisfechos los requisitos previstos en el artículo 16 de la Constitución General de la República, el Tribunal expedirá la orden de aprehensión o la de comparecencia. Quien ejecute una orden judicial de aprehensión, deberá poner al inculpado a disposición del Juez, sin dilación alguna, y bajo su más estricta responsabilidad.
 
 Si el Juez niega la orden de aprehensión o la de comparecencia, y dicha negativa no implica un sobreseimiento, el Ministerio Público podrá promover pruebas en el proceso y solicitar nuevamente la orden correspondiente.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 28 DE OCTUBRE DE 2011)</small>
+
+Toda orden de aprehensión, reaprehensión o presentación deberán reunir los requisitos de identificación del acusado previstos en el artículo 54 de este Código. La autoridad que ejecute dicha orden al momento de la detención deberá constatar plenamente que dichos requisitos se cumplen, bajo responsabilidad en caso de incumplimiento.
 
 ###### Artículo 77.
 
@@ -1742,6 +1812,16 @@ P.O. 16 DE AGOSTO DE 2011.
 ###### ARTÍCULO PRIMERO.
 
 El presente Decreto entrará en vigor a los diez días después del (sic) su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+###### ARTÍCULO SEGUNDO.
+
+Comuníquese el presente Decreto al Titular del Poder Ejecutivo del Estado de Guerrero, para los efectos legales conducentes.
+
+P.O. 28 DE OCTUBRE DE 2011.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor a los treinta días siguientes al de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
 
 ###### ARTÍCULO SEGUNDO.
 
