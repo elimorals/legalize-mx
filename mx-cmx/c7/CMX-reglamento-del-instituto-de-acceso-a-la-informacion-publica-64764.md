@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-del-instituto-de-acceso-a-la-informacion-publica-647
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-12-26"
-last_updated: "2008-12-26"
+last_updated: "2011-10-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64764&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,9 @@ issue_date: "2008-12-10"
 
 REGLAMENTO DEL INSTITUTO DE ACCESO A LA INFORMACION PUBLICA DEL DISTRITO FEDERAL EN MATERIA DE TRANSPARENCIA Y ACCESO A LA INFORMACION PUBLICA
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO PRIMERO DEL REGLAMENTO DEL INSTITUTO DE ACCESO A LA INFORMACION PUBLICA Y PROTECCION DE DATOS PERSONALES DEL DISTRITO FEDERAL EN MATERIA DE TRANSPARENCIA Y ACCESO A LA INFORMACION PUBLICA, PUBLICADO EN LA G.O. DE 28 DE OCTUBRE DE 2011, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: ABROGADO.
 
 Reglamento publicado en la Gaceta Oficial de la Federación, el viernes 26 de diciembre de 2008.
 
@@ -599,3 +601,11 @@ VIII. Proponer modificaciones al presente Reglamento y a su manual de integraci�
 IX. Hacer del conocimiento de la Contraloría, las conductas en las que incurran los servidores públicos del Instituto que pudieran constituir infracciones administrativas con motivo del incumplimiento de la atención a las solicitudes de información; y
 
 X. Las demás que le sean conferidas por la Ley, el presente Reglamento y demás ordenamientos aplicables.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+G.O. 28 DE OCTUBRE DE 2011.
+
+PRIMERO. Se abroga el Acuerdo 531/SO/10-12/2008 mediante el cual se aprobó el Reglamento del Instituto de Acceso a la Información Pública del Distrito Federal en Materia de Transparencia y Acceso a la Información Pública, mismo que fue publicado en la Gaceta Oficial del Distrito Federal el veintiséis de diciembre del mismo año.
+
+SEGUNDO. El presente Reglamento entrará en vigor al día siguiente de su aprobación por el Pleno.
