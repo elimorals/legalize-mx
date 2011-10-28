@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-educacion-para-el-estado-de-guanajuato-83211"
 country: "mx"
 rank: "ley"
 publication_date: "2011-10-07"
-last_updated: "2011-10-07"
+last_updated: "2011-10-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=83211&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "GUA"
 ---
 # LEY DE EDUCACION PARA EL ESTADO DE GUANAJUATO
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 28 DE OCTUBRE DE 2011 EN EL P.O. DEL ESTADO DE GUANAJUATO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL INDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 LEY DE EDUCACION PARA EL ESTADO DE GUANAJUATO
 
 TEXTO ORIGINAL.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 28 DE OCTUBRE DE 2011.</small>
 
 Ley publicada en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el viernes 7 de octubre de 2011.
 
@@ -1135,15 +1135,15 @@ e) Maestría; y
 
 f) Doctorado.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 28 DE OCTUBRE DE 2011 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA, ASÍ COMO EL ARCHIVO ANEXO.</small>
-
 Modalidades
 
 ###### Artículo 93.
 
 Las modalidades que conforman el Sistema Educativo Estatal son las siguientes:
 
-I. Escolar;
+> <small>(F. DE E., P.O. 28 DE OCTUBRE DE 2011)</small>
+
+I. Escolarizada;
 
 II. No escolarizada; y
 
@@ -1295,13 +1295,13 @@ Contenidos curriculares
 
 Las instituciones educativas de los tipos medio superior y superior deberán incluir contenidos curriculares de filosofía, particularmente de ética, así como de civismo e identidad nacional que fortalezcan la formación integral del educando.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 28 DE OCTUBRE DE 2011 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA, ASÍ COMO EL ARCHIVO ANEXO.</small>
-
 Educación superior
+
+> <small>(F. DE E., P.O. 28 DE OCTUBRE DE 2011)</small>
 
 ###### Artículo 112.
 
-La educación superior será la que se imparte después del bachillerado (sic) o de sus equivalentes.
+La educación superior será la que se imparte después del bachillerato o de sus equivalentes.
 
 Funciones de educación superior
 
@@ -1326,6 +1326,10 @@ Impulso a la Investigación
 La Secretaría impulsará la investigación científica y tecnológica entre las universidades e instituciones de educación media superior y superior.
 
 Tránsito educativo
+
+Artículo 115 La Secretaría y las instituciones de educación media superior y superior, facilitarán el tránsito de los educandos entre un mismo tipo o modalidad educativo a otro de conformidad con las disposiciones normativas establecidas.
+
+Prestación y promoción de servicios educativos
 
 ###### Artículo 115.
 
@@ -1627,13 +1631,13 @@ La Secretaría sin perjuicio de la obligación del particular de cumplir con lo 
 
 Los plazos y formas serán para tal efecto los que se establezcan en el reglamento correspondiente.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 28 DE OCTUBRE DE 2011 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA, ASÍ COMO EL ARCHIVO ANEXO.</small>
-
 Integración del Comité para la asignación de becas
+
+> <small>(F. DE E., P.O. 28 DE OCTUBRE DE 2011)</small>
 
 ###### Artículo 149.
 
-Para la asignación de becas en educación básica, a que se refiere el artículo 148, fracción III se integrará un comité con representantes de la asociación de padres de familia, personal directivo y educadores de la institución de que se trate. En el caso de la educación media superior y superior, este comité, se integrará por representantes de la asociación de alumnos, personal directivo y educadores de la institución de que se trate.
+Para la asignación de becas en educación básica, a que se refiere el artículo 147, fracción III se integrará un comité con representantes de la asociación de padres de familia, personal directivo y educadores de la institución de que se trate. En el caso de la educación media superior y superior, este comité, se integrará por representantes de la asociación de alumnos, personal directivo y educadores de la institución de que se trate.
 
 La asignación de becas se hará atendiendo a los principios de equidad y objetividad, a través de convocatorias abiertas, ponderando el desempeño escolar, la conducta y la situación económica de los solicitantes, así como en lo dispuesto por la normativa emitida por la Secretaría, la cual se publicará en el Periódico Oficial del Gobierno del Estado de Guanajuato.
 
@@ -1735,8 +1739,6 @@ Infracciones
 
 La Secretaría podrá atender las quejas e inconformidades que se presenten por escrito por la probable irregularidad cometida por las instituciones educativas particulares, debiendo desahogar un procedimiento.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 28 DE OCTUBRE DE 2011 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA, ASÍ COMO EL ARCHIVO ANEXO.</small>
-
 Etapas y plazos del procedimiento de queja
 
 ###### Artículo 157.
@@ -1749,7 +1751,9 @@ I. De la emisión de oficio de atención y solicitud de informe a la institució
 
 En el oficio de solicitud de informe, la Secretaría le concederá a la Institución Educativa Particular un plazo de 3 días hábiles para que haga las manifestaciones y ofrezca pruebas respecto a los hechos señalados en el escrito de queja o inconformidad. Dicho plazo comenzara a computarse a partir del día siguiente en que surta efectos la notificación;
 
-II. Admisión o desechamiento del escrito de contestación de informe, por parte de la Unidad Administrativa que señale el Reglamento Interior de la Secretaría. Esta etapa se desarrollará en un plazo de 10 diez (sic) hábiles contados a partir de la presentación del escrito de contestación.
+> <small>(F. DE E., P.O. 28 DE OCTUBRE DE 2011)</small>
+
+II. Admisión o desechamiento del escrito de contestación de informe, por parte de la Unidad Administrativa que señale el Reglamento Interior de la Secretaría. Esta etapa se desarrollará en un plazo de 10 días hábiles contados a partir de la presentación del escrito de contestación.
 
 Admitido el escrito de contestación de informe se dará vista al quejoso o inconforme del informe que ingresó la Institución Educativa Particular para que manifieste dentro del término de 3 días hábiles siguientes a la notificación, lo que a su derecho convenga;
 
@@ -1897,13 +1901,13 @@ Inicio de la vigencia de la Ley
 
 La presente Ley entrará en vigencia el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 28 DE OCTUBRE DE 2011 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 Abrogación de la Ley de Educación del Estado de Guanajuato
+
+> <small>(F. DE E., P.O. 28 DE OCTUBRE DE 2011)</small>
 
 ###### ARTÍCULO SEGUNDO.
 
-Se abroga la Ley de Educación del Estado de Guanajuato, publicada en el Periódico Oficial del Gobierno del Estado número 222, de fecha 29 veintinueve de agosto de 1996 mil novecientos noventa y seis; así como cualquier otra disposición general que se oponga a la presente Ley.
+Se abroga la Ley de Educación del Estado de Guanajuato, publicada en el Periódico Oficial del Gobierno del Estado número 65, segunda parte, de fecha 13 trece de agosto de 1996 mil novecientos noventa y seis; así como cualquier otra disposición general que se oponga a la presente Ley.
 
 Tramitación de refrendo por particulares
 
