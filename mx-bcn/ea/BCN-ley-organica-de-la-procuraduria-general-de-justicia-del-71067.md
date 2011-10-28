@@ -4,7 +4,7 @@ identifier: "BCN-ley-organica-de-la-procuraduria-general-de-justicia-del-71067"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2009-11-13"
-last_updated: "2010-10-15"
+last_updated: "2011-10-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=71067&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY ORGANICA DE LA PROCURADURIA GENERAL DE JUSTICIA DEL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE OCTUBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE OCTUBRE DE 2011.
 
 Ley publicada en la Sección II del Periódico Oficial del Estado de Baja California, el viernes 13 de noviembre de 2009.
 
@@ -271,9 +271,17 @@ XVI.- Comparecer ante al (sic) Congreso del Estado para informar sobre los asunt
 
 XVII.- Coadyuvar en la definición y aplicación de la política criminal del Estado en los términos que establezcan las leyes;
 
-XVIII.- Conceder audiencias al público que lo solicite para tratar asuntos relativos a la procuración de justicia; y
+> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2011)</small>
 
-XIX.- Las demás que le encomiende el Gobernador del Estado, así como las que establezcan las leyes y reglamentos.
+XVIII.- Conceder audiencias al público que lo solicite para tratar asuntos relativos a la procuración de justicia.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 28 DE OCTUBRE DE 2011)</small>
+
+XIX.- Promover y encabezar de manera conjunta con el Procurador para la Defensa de los Menores y la Familia, en coordinación con las autoridades federales, estatales y municipales correspondientes, la implementación de programas, mecanismos y protocolos de seguridad en la búsqueda de menores desaparecidos, solicitando la participación de la sociedad y de los medios masivos de comunicación, para la atención de este tipo de casos; y
+
+> <small>(ADICIONADA [REFORMADA], P.O. 28 DE OCTUBRE DE 2011)</small>
+
+XX.- Las demás que le encomiende el Gobernador del Estado, así como las que establezcan las leyes y reglamentos.
 
 ###### ARTÍCULO 16.
 
@@ -686,3 +694,7 @@ P.O. 15 DE OCTUBRE DE 2010.
 PRIMERO.- Las presentes reformas entrarán en vigor a partir del 21 de agosto del 2012.
 
 SEGUNDO.- Las autoridades locales desde el momento en que se publique este Decreto realizarán las acciones necesarias, según sea el caso, a fin de dar el debido cumplimiento a las atribuciones contenidas en el mismo, a efecto de que asuman las mismas a partir de la entrada en vigor del presente Decreto.
+
+P.O. 28 DE OCTUBRE DE 2011.
+
+ÚNICO: Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
