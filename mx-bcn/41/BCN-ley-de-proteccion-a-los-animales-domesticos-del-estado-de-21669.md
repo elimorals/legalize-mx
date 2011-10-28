@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-proteccion-a-los-animales-domesticos-del-estado-de-21669
 country: "mx"
 rank: "ley"
 publication_date: "1997-12-08"
-last_updated: "1997-12-08"
+last_updated: "2011-10-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21669&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE PROTECCION A LOS ANIMALES DOMESTICOS DEL ESTADO DE BAJA CALIFORNIA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE OCTUBRE DE 2011.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Baja California, el 8 de diciembre de 1997.
 
@@ -53,9 +53,13 @@ IV.- Erradicar y sancionar el maltrato y los actos de crueldad para con los anim
 
 V.- Fomentar en la población, la educación ecológica y el amor a la naturaleza, principalmente en cuanto a la conducta protectora que deberán brindarse a los animales;
 
-VI.- Conservar y mejorar, el medio ambiente y ecológico en que se desarrolla la vida de los animales, y
+VI.- Conservar y mejorar, el medio ambiente y ecológico en que se desarrolla la vida de los animales, y (sic)
 
 VII.- Promover el respeto y consideración hacia estos animales.
+
+> <small>(ADICIONADA, P.O. 28 DE OCTUBRE DE 2011)</small>
+
+VIII.- Proteger la Salud y el bienestar público, controlando la población animal de perros y gatos.
 
 ###### ARTICULO 2º.
 
@@ -74,6 +78,10 @@ El Estado, los particulares y las sociedades protectoras de animales; así como 
 ###### ARTICULO 5º.
 
 Los Ayuntamientos en colaboración con el Estado, se encargarán de difundir a través de los medios de comunicación que consideren apropiados y por lo menos una vez al mes, el espíritu y contenido de esta ley; inculcando en el niño, adolescente y adulto, el respeto hacia todas las formas de vida animal y el conocimiento de su relación indispensable con la preservación del medio ambiente.
+
+> <small>(ADICIONADO, P.O. 28 DE OCTUBRE DE 2011)</small>
+
+Así mismo se encargarán de realizar por lo menos dos veces al año, campañas gratuitas de esterilización animal para perros y gatos, difundiendo previamente la información necesaria, para que la ciudadanía conozca los beneficios de la esterilización quirúrgica.
 
 ###### ARTICULO 6º.
 
@@ -430,3 +438,9 @@ HECTOR TERAN TERAN.
 EL SECRETARIO GENERAL DE GOBIERNO.
 
 RODOLFO VALDEZ GUTIERREZ.
+
+P.O. 28 DE OCTUBRE DE 2011.
+
+PRIMERO.- La presente reforma entra en vigor al día siguiente de su publicación.
+
+SEGUNDO.- Los Ayuntamientos del Estado tendrán un plazo de 90 días naturales para adecuar su marco jurídico.
