@@ -4,7 +4,7 @@ identifier: "COL-codigo-civil-para-el-estado-de-colima-9884"
 country: "mx"
 rank: "codigo"
 publication_date: "1954-09-25"
-last_updated: "2011-05-21"
+last_updated: "2011-10-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9884&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "COL"
 ---
 # CODIGO CIVIL PARA EL ESTADO DE COLIMA
 
-NUEVO CODIGO CIVIL PARA EL ESTADO DE COLIMA
+NUEVO CÓDIGO CIVIL PARA EL ESTADO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE MAYO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE OCTUBRE DE 2011.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Colima, el 25 de septiembre de 1954.
 
@@ -885,6 +885,10 @@ ART. 58.- El acta de nacimiento se registrará con asistencia de dos testigos qu
 
 Si no se proporcionan los nombres de los padres, el oficial del Registro Civil le pondrá nombre y apellido. Haciéndose constar esta circunstancia en acta por separado que se agregará al apéndice. Queda prohibido mostrar ésta última acta, a menos que medie orden judicial. No podrá asentarse por ningún motivo que el hijo es de padres desconocidos.
 
+> <small>(ADICIONADO, P.O. 29 DE OCTUBRE DE 2011)</small>
+
+El Oficial del Registro Civil, exhortará a quien se presente a registrar el nacimiento de un menor, que el nombre propio con el que se pretende registrar no sea peyorativo, discriminatorio, infamante, denigrante, carente de significado, o que constituya un signo, símbolo o siglas, números, o bien, que exponga al registrado a ser objeto de burla o humillaciones que pudieran afectar la dignidad, el autoestima o la identidad de la persona.
+
 > <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 1974)</small>
 
 ART. 59.- Cuando de la declaración de quienes presenten al hijo, se desprende que nació dentro del matrimonio, se asentarán los nombres, domicilios y nacionalidad de los padres; los nombres y domicilios de los abuelos y los de la persona hubiere hecho la presentación.
@@ -1244,6 +1248,14 @@ ART. 134.- La rectificación o modificación de las actas que se encuentran en l
 > <small>(REFORMADO, P.O. 14 DE ENERO DE 1989)</small>
 
 La nulidad de las Actas del Registro Civil, sólo podrá ser decretada por la autoridad judicial cuando se compruebe que el acto registrado no pasó o se está en los casos de nulidades de matrimonios decretados conforme a este Código, por la autoridad judicial.
+
+> <small>(ADICIONADO, P.O. 29 DE OCTUBRE DE 2011)</small>
+
+Sólo procederá por resolución judicial, la modificación del nombre a que se refiere el primer párrafo de este artículo, en los casos siguientes:
+
+l. Cuando el nombre propio impuesto a una persona le cause afrenta; y
+
+II. En los casos de desconocimiento o reconocimiento de la paternidad o maternidad y de la adopción, de conformidad con lo previsto en este Código.
 
 > <small>(ADICIONADO, P.O. 19 DE ABRIL DE 2008)</small>
 
@@ -10925,7 +10937,7 @@ ALFREDO RUISECO AVELLANEDA,
 
 Secretario Gral. de Gobierno.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CÓDIGO.</small>
 
 P.O. 29 DE DICIEMBRE DE 1962.
 
@@ -11116,5 +11128,9 @@ DECRETO NUMERO 302, POR EL QUE SE REFORMA EL PRIMER PARRAFO Y SE ADICIONA UN SEG
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
 
 P.O. 21 DE MAYO DE 2011.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 29 DE OCTUBRE DE 2011.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
