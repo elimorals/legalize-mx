@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-equilibrio-ecologico-y-proteccion-al-ambiente-del-45254"
 country: "mx"
 rank: "ley"
 publication_date: "2005-06-08"
-last_updated: "2011-05-14"
+last_updated: "2011-10-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45254&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "CHH"
 
 LEY DE EQUILIBRIO ECOLÓGICO Y PROTECCIÓN AL AMBIENTE DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE MAYO DE 2011.
-
-> <small>N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 14 DE MAYO DE 2011 NO APLICA AL ARTICULADO DEL DECRETO 298 PUBLICADO EN EL P.O. DE 7 DE MAYO DE 2011.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE OCTUBRE DE 2011.
 
 Ley publicada en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el miércoles 8 de junio de 2005.
 
@@ -231,6 +229,10 @@ LX.- VOCACIÓN NATURAL: Condiciones que presenta un ecosistema para sostener una
 
 LXI.- SECRETARÍA: La Secretaría de Desarrollo Urbano y Ecología.
 
+> <small>(ADICIONADA, P.O. 29 DE OCTUBRE DE 2011)</small>
+
+LXII. COMPOSTEO.- Tecnología de bajo costo que permite transformar residuos y subproductos orgánicos en materiales biológicamente estables, que pueden utilizarse como abonos del suelo y como sustratos para cultivo sin suelo, disminuyendo el impacto ambiental de los mismos y posibilitando el aprovechamiento de los recursos que contienen.
+
 ## TÍTULO SEGUNDO. DE LA CONCURRENCIA DEL ESTADO Y LOS MUNICIPIOS Y DE LA GESTIÓN AMBIENTAL
 
 ### CAPÍTULO I. COMPETENCIA DEL ESTADO Y LOS MUNICIPIOS
@@ -285,7 +287,9 @@ XVIII.- La concertación de acciones con los diversos sectores sociales a que se
 
 XIX.- La creación de fondos para la investigación de los problemas ambientales;
 
-XX.- La promoción de la educación ambiental dentro del Sistema Educativo del Estado y con atención a la población en general;
+> <small>(REFORMADA, P.O. 29 DE OCTUBRE DE 2011)</small>
+
+XX. La promoción de la educación ambiental dentro del Sistema Educativo del Estado y con atención a la población en general, así como la participación del sector social, privado y laboral en el tema ambiental, fomentando su responsabilidad compartida;
 
 XXI.- El establecimiento o, en su caso, la administración de museos, zonas de demostración, zoológicos y jardines botánicos, destinados a promover el conocimiento y efectivo cumplimiento de los principios, criterios y preceptos ecológicos contenidos en la presente Ley;
 
@@ -293,13 +297,21 @@ XXII.- La expedición de Normas Técnicas Ecológicas Estatales y el establecimi
 
 XXIII.- La aplicación de sanciones administrativas por violaciones a la presente Ley, sus reglamentos y demás disposiciones, en los términos previstos en la presente ley;
 
-XXIV.- Celebrar convenios en materia ambiental; y (sic)
+> <small>(REFORMADA, P.O. 29 DE OCTUBRE DE 2011)</small>
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE AGOSTO DE 2009)</small>
+XXIV. Celebrar convenios en materia ambiental;
 
-XXV.- La formulación, desarrollo y ejecución del Programa Estatal contra el Cambio Climático, el cual debe incluir medidas de mitigación para las consecuencias negativas que genera sobre el entorno natural, así como de adaptación ante los efectos inevitables de este fenómeno, y
+> <small>(REFORMADA, P.O. 29 DE OCTUBRE DE 2011)</small>
 
-XXVI.- Las demás atribuciones que conformen a esta Ley y otros ordenamientos aplicables le correspondan.
+XXV. La formulación, desarrollo y ejecución del programa Estatal contra el Cambio Climático, el cual debe incluir medidas de mitigación para las consecuencias negativas que genera sobre el entorno natural, así como de adaptación ante los efectos inevitables de este fenómeno;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE OCTUBRE DE 2011)</small>
+
+XXVI. La regulación, dentro del ámbito de su competencia, del tratamiento de materiales no biodegradables, así como de los procedimientos para reuso y reciclaje de residuos, y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 29 DE OCTUBRE DE 2011)</small>
+
+XXVII. Las demás atribuciones que conformen a esta Ley y otros ordenamientos aplicables le correspondan.
 
 ###### ARTÍCULO 8.
 
@@ -347,7 +359,9 @@ XVII.- Establecer el registro de planes de manejo y programas para la instalaci�
 
 XVIII.- Promover, en coordinación con el Gobierno Federal y las autoridades correspondientes, la creación de infraestructura en la Entidad para el manejo integral de residuos sólidos urbanos, de manejo especial y residuos peligrosos, con la participación de los inversionistas y representantes de los sectores sociales interesados;
 
-XIX.- Promover programas municipales para la clasificación, separación, manejo, recolección y transporte de residuos sólidos urbanos, orgánicos e inorgánicos, y de prevención y gestión integral de los residuos de su competencia, así como de prevención de la contaminación de sitios con tales residuos y su remediación, con la participación activa de las partes interesadas;
+> <small>(REFORMADA, P.O. 29 DE OCTUBRE DE 2011)</small>
+
+XIX. Promover y dar seguimiento a programas estatales y municipales para el ahorro de energía eléctrica, clasificación, separación, manejo, recolección y transporte de residuos sólidos urbanos, orgánicos e inorgánicos, y de prevención y gestión integral de los residuos de su competencia, así como de prevención de la contaminación de sitios con tales residuos y su remediación, con la participación activa de las partes interesadas;
 
 XX.- Participar en el establecimiento y operación, en el marco del Sistema Nacional de Protección Civil y en coordinación con la Federación, de un sistema para la prevención y control de contingencias y emergencias ambientales, derivadas de la gestión y tratamiento de residuos de su competencia;
 
@@ -447,7 +461,9 @@ A).- Formular, por sí o en coordinación con la Secretaría, y con la participa
 
 B).- Emitir los reglamentos y demás disposiciones jurídico-administrativas de observancia general dentro de sus jurisdicciones respectivas, a fin de dar cumplimiento a lo establecido en la presente Ley y en las disposiciones legales aplicables en la materia;
 
-C).- Controlar la recolección, transporte, tratamiento y disposición de los residuos sólidos urbanos;
+> <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 2011)</small>
+
+C) Controlar la recolección, transporte, tratamiento y disposición de los residuos sólidos urbanos, observando de manera irrestricta lo dispuesto por la presente Ley;
 
 D).- Prestar, por sí o a través de gestores, el servicio de manejo integral de residuos sólidos urbanos, observando lo dispuesto por esta Ley y su Reglamento;
 
@@ -1723,13 +1739,19 @@ Queda sujeto a la autorización de la Secretaría, con arreglo a las bases que p
 
 Las personas físicas o morales que generen por cualquier proceso, obra o actividad, sea mercantil o de servicios, residuos no peligrosos, deberán registrar los residuos que generen ante la Secretaría.
 
+> <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 2011)</small>
+
 ###### ARTÍCULO 141.
 
-Las personas físicas y morales a que se refiere el artículo anterior, deberán entregar un reporte semestral en el que informen el tipo de residuo, cantidad, período y lugar de disposición final de los residuos.
+Las personas físicas y morales a que se refiere el artículo anterior, deberán entregar un reporte anual, de acuerdo a las disposiciones y el formato que para tal efecto determine la Secretaría, en el que informen el tipo de residuo, cantidad, período, lugar y destino de los residuos.
+
+> <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 2011)</small>
 
 ###### ARTÍCULO 142.
 
-Las personas físicas y morales que se dediquen al reciclado de los residuos no peligrosos deberán contar con autorización de la Secretaría para el manejo, tratamiento, transporte y disposición final de los residuos que maneja.
+Las personas físicas y morales que se dediquen al reciclado, composteo, de los residuos no peligrosos, con fines comerciales o en cantidades superiores a diez toneladas anuales, deberán contar con autorización de la Secretaría para el manejo, tratamiento, transporte y disposición final de los residuos que maneja, debiendo instrumentar un plan de manejo aprobado por la Secretaría.
+
+Las personas físicas o morales mencionadas en el párrafo anterior, deberán garantizar que al cierre de las operaciones en sus instalaciones, estas queden libres de residuos y no presenten niveles de contaminación que puedan representar un riesgo para la salud humana y el ambiente, conforme a lo dispuesto en el artículo 48 de la presente Ley.
 
 ###### ARTÍCULO 143.
 
@@ -1759,7 +1781,9 @@ Con las salvedades a que se refiere el siguiente artículo, los productores o di
 
 I.- Imprimir en los envases mensajes con el objeto de hacer conciencia en el consumidor, para que deposite los residuos sólidos no peligrosos en los lugares que para tales efectos se establezcan;
 
-II.- Realizar programas en donde se señalen los mecanismos pertinentes a fin de motivar a la sociedad para el manejo adecuado de los residuos sólidos no peligrosos susceptibles de canjearse por productos diversos con la empresa;
+> <small>(REFORMADA, P.O. 29 DE OCTUBRE DE 2011)</small>
+
+II. En su caso destinar los residuos sólidos no peligrosos que generen, a disposición de los servicios de limpia correspondiente o en los lugares habilitados para su depósito y posterior recolección.
 
 III.- Realizar anualmente como mínimo dos campañas en diversos sectores de la sociedad con el objeto de concientizar a la población sobre el problema que genera la contaminación de los residuos sólidos no peligrosos, así como la manera de resolverlo.
 
@@ -1827,9 +1851,9 @@ IV.- Los medios de financiamiento de las acciones consideradas en los programas;
 
 V.- Los mecanismos para fomentar la vinculación entre los programas municipales correspondientes, a fin de crear sinergias.
 
-> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 2011)</small>
 
-ARTÍCULO 150 bis.- Corresponde al Ejecutivo del Estado, por conducto de la Secretaría, promover que en la Entidad se privilegie la distribución y utilización de bolsas reciclables o biodegradables.
+ARTÍCULO 150 bis. Corresponde al Ejecutivo del Estado, por conducto de la Secretaría, realizar las acciones o, en su caso, formular los programas necesarios, para que en la Entidad se privilegie la distribución y utilización de bolsas reciclables o biodegradables.
 
 ### CAPÍTULO IX. DE LA PREVENCIÓN Y MANEJO INTEGRAL DE RESIDUOS SÓLIDOS URBANOS Y DE MANEJO ESPECIAL
 
@@ -2657,6 +2681,18 @@ P.O. 7 DE MAYO DE 2011.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
+P.O. 29 DE OCTUBRE DE 2011.
+
+DECRETO NUMERO 287/2011 II P.O., POR EL QUE SE REFORMA EL ARTICULO 141 DE LA LEY DE EQUILIBRIO ECOLOGICO Y PROTECCION AL AMBIENTE DEL ESTADO DE CHIHUAHUA.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 29 DE OCTUBRE DE 2011.
+
+DECRETO NUMERO 288/2011 II P.O., POR EL QUE SE REFORMA LA FRACCION XIX DEL ARTICULO 8 DE LA LEY DE EQUILIBRIO ECOLOGICO Y PROTECCION AL AMBIENTE DEL ESTADO DE CHIHUAHUA.
+
 ###### ARTÍCULO PRIMERO.
 
 La reforma prevista en el presente Decreto, entrará en vigor el día cinco de octubre de dos mil diez, previa su publicación en el Periódico Oficial del Estado.
@@ -2664,6 +2700,22 @@ La reforma prevista en el presente Decreto, entrará en vigor el día cinco de o
 ###### ARTÍCULO SEGUNDO.
 
 Para el cumplimiento del presente Decreto, se faculta al Titular del Ejecutivo para organizar la estructura administrativa de la Fiscalía General del Estado, y para asignar las partidas necesarias en el Presupuesto de Egresos de 2010, así como su transferencia entre programas sectoriales. Sin perjuicio de las acciones de entrega-recepción de las administraciones estatales, inmediatamente después de la entrada en vigor del presente Decreto se deberán iniciar los procedimientos de entrega recepción de los recursos humanos, materiales y financieros por parte de la Procuraduría General de Justicia del Estado y de la Secretaría de Seguridad Pública Estatal a la Fiscalía General del Estado.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Dentro de los tres meses siguientes a la entrada en vigor del presente Decreto, la Secretaría de Desarrollo Urbano y Ecología de Gobierno del Estado, a través de su Dirección de Ecología, promoverá ante las Dependencias de la Administración Pública, tanto Estatal como Municipal, la elaboración de los programas citados en la fracción XIX del artículo 8 de la Ley de Equilibrio Ecológico y Protección al Ambiente del Estado de Chihuahua, a efecto de que en un plazo no mayor de seis meses, todas las dependencias cuenten con su respectivo programa de Ecología.
+
+P.O. 29 DE OCTUBRE DE 2011.
+
+DECRETO NUMERO 370/2011 II P.O., POR EL QUE SE ADICIONAN LOS ARTICULOS 5, CON UNA FRACCION LXII; 7, CON UNA FRACCION XXVII, Y 142, CON UN PARRAFO SEGUNDO; SE REFORMAN LOS ARTICULOS 7, FRACCIONES XX, XXIV Y XXVI; 9, FRACCION XXIII, INCISO C); 142, PRIMER PARRAFO; 145, FRACCION II, Y 150 BIS, TODOS DE LA LEY DE EQUILIBRIO ECOLOGICO Y PROTECCION AL AMBIENTE DEL ESTADO DE CHIHUAHUA.
 
 ###### ARTÍCULO TERCERO.
 
