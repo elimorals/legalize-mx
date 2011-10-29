@@ -4,7 +4,7 @@ identifier: "JAL-ley-organica-del-poder-legislativo-del-estado-de-jalisco-37204"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2004-02-07"
-last_updated: "2011-10-08"
+last_updated: "2011-10-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=37204&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE OCTUBRE DE 2011.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE OCTUBRE DE 2011.
 
 Ley publicada en la Sección Cuarta del Periódico Oficial del Estado de Jalisco, el sábado 7 de febrero de 2004.
 
@@ -1113,11 +1113,17 @@ VI. Las demás que señalen las leyes y reglamentos de la materia.
 
 Artículo 62 G.
 
-1. El Órgano Técnico de Desarrollo Humano del Congreso del Estado es el auxiliar de la Comisión de Desarrollo Humano, que bajo los principios de especialidad e imparcialidad asesora y colabora en los estudios y análisis necesarios para la toma de decisiones de carácter técnico o legislativo en materia de desarrollo humano que deba conocer dicha Comisión.
+> <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 2011)</small>
 
-2. El titular deberá ser designado por la Asamblea con mayoría absoluta de votos a propuesta que haga la Junta de Coordinación Política, de uno de la terna remitida por la Comisión de Desarrollo Humano. Durará en su encargo el término de cada legislatura, pudiendo ser reelecto; continúa en sus funciones hasta la realización de la elección correspondiente y sólo puede ser removido por causa justificada por mayoría absoluta de votos.
+1. El Órgano Técnico de Desarrollo Humano y Familia del Congreso del Estado es el auxiliar de la Comisión (sic) Desarrollo Humano y Familia que, bajo los principios de especialidad e imparcialidad, asesora y colabora en los estudios y análisis necesarios para la toma de decisiones de carácter técnico o legislativo en materia de desarrollo humano que deba conocer dicha comisión.
 
-3. Para ser designado titular del Órgano Técnico de Desarrollo Humano se requiere:
+> <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 2011)</small>
+
+2. El titular deberá ser designado por la Asamblea con mayoría absoluta de votos a propuesta que haga la Junta de Coordinación Política, de uno de la terna remitida por la Comisión de Desarrollo Humano y Familia. Durará en su encargo el término de cada legislatura, pudiendo ser reelecto; continúa en sus funciones hasta la realización de la elección correspondiente y sólo puede ser removido por causa justificada por mayoría absoluta de votos.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE OCTUBRE DE 2011)</small>
+
+3. Para ser designado titular del Órgano Técnico de Desarrollo Humano y Familia se requiere:
 
 I. Ser mexicano mayor de edad y estar en pleno goce de sus derechos;
 
@@ -1127,23 +1133,23 @@ III. Acreditar conocimientos y experiencia en desarrollo humano y materias afine
 
 IV. No haber sido condenado por delito intencional que amerite pena de privación de la libertad.
 
-> <small>(ADICIONADO, P.O. 24 DE MARZO DE 2007)</small>
+> <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 2011)</small>
 
 Artículo 62 H.
 
-1. El órgano Técnico de Desarrollo Humano tiene las siguientes atribuciones:
+1. El Órgano Técnico de Desarrollo Humano y Familia tiene las siguientes atribuciones:
 
-I. Colaborar con las tareas de la Comisión Legislativa de Desarrollo Humano y del resto de las comisiones legislativas del Congreso del Estado que así lo requieran;
+I. Colaborar con las tareas de la Comisión Legislativa de Desarrollo Humano y Familia y del resto de las comisiones legislativas del Congreso del Estado que así lo requieran;
 
-II. Colaborar en el estudio, análisis y dictaminación de las reformas constitucionales y legales propuestas ante la Asamblea que impliquen cuestiones asistenciales o relativas al desarrollo humano;
+II. Colaborar en el estudio, análisis y dictaminación de las reformas constitucionales y legales propuestas ante la Asamblea que impliquen cuestiones relativas a los temas de desarrollo humano y la familia, así como asistenciales;
 
-III. Coadyuvar con los diputados que deseen presentar iniciativas en materia de asistencia social;
+III. Coadyuvar con los diputados que deseen presentar iniciativas en materia de desarrollo humano, familia y asistencia social;
 
-IV. Realizar estudios permanentes en materia de desarrollo humano y asistencia social, y estar en contacto permanente con las instituciones públicas y privadas, dedicadas a la asistencia de grupos vulnerables, para conocer sus necesidades y así poder presentar proyectos que tiendan a satisfacerlas;
+IV. Realizar de manera permanente estudio acerca de temas de desarrollo humano, familia y asistencia social, entre otros, y estar en contacto permanente con las instituciones públicas y privadas dedicadas al desarrollo integral de la familia y la asistencia de grupos vulnerables para conocer sus necesidades y así estar en la aptitud de presentar proyectos que tiendan a satisfacerlas;
 
-V. Apoyar en la revisión de los dictámenes de las comisiones legislativas, relativos a los asuntos de desarrollo humano; y
+V. Apoyar en la revisión de los dictámenes de las comisiones legislativas relativos a los asuntos de desarrollo humano y familia, y
 
-VI. Las demás que le correspondan de conformidad a las leyes y reglamentos vigentes.
+VI. Las demás que le correspondan de conformidad con las leyes y reglamentos vigentes.
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 7 DE ABRIL DE 2007)</small>
 
@@ -1397,9 +1403,9 @@ X. Desarrollo Económico;
 
 XI. Desarrollo Forestal;
 
-> <small>(REFORMADA, P.O. 3 DE FEBRERO DE 2007)</small>
+> <small>(REFORMADA, P.O. 29 DE OCTUBRE DE 2011)</small>
 
-XII. Desarrollo Humano;
+XII. Para el Desarrollo Humano y la Familia;
 
 > <small>(REFORMADA, P.O. 3 DE FEBRERO DE 2007)</small>
 
@@ -1675,25 +1681,23 @@ II. Los planes y programas de desarrollo forestal; y
 
 III. Las políticas, programas y proyectos de apoyo financiero a las actividades para el desarrollo forestal del Estado.
 
+> <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 2011)</small>
+
 ###### Artículo 82.
 
-1. Corresponde a la Comisión de Desarrollo Humano el estudio y dictamen o el conocimiento, respectivamente, de los asuntos relacionados con:
+1. Corresponde a la Comisión de Desarrollo Humano y Familia el estudio y dictamen o el conocimiento, respectivamente, de los asuntos relacionados con:
 
-I. La legislación en materia de asistencia social y desarrollo humano; y (sic)
+I. La legislación, políticas, planes y programas tendientes a la promoción, desarrollo y fortalecimiento de los valores y defensa de la familia;
 
-II. La normatividad, las políticas, planes y programas de desarrollo humano y asistencial para la familia y grupos vulnerables en el ámbito estatal;
+II. La legislación en materia de asistencia social y desarrollo humano;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 24 DE MARZO DE 2007)</small>
+III. La normatividad, políticas, planes y programas de desarrollo humano y asistencial para grupos vulnerables en el ámbito estatal;
 
-III. La propuesta ante la Junta de Coordinación Política de la terna para el nombramiento del titular del órgano técnico de Desarrollo Humano;
+IV. La propuesta ante la Junta de Coordinación Política de la terna para el nombramiento del titular del Órgano Técnico de Desarrollo Humano y Familia;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 24 DE MARZO DE 2007)</small>
+V. La supervisión y coordinación del Órgano Técnico de Desarrollo Humano y Familia, y
 
-V. (sic) La supervisión y coordinación del órgano técnico de Desarrollo Humano; y
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 24 DE MARZO DE 2007)</small>
-
-VI. La propuesta a la Asamblea del nombramiento y la remoción de los servidores públicos del órgano técnico de Desarrollo Humano.
+VI. La propuesta a la Asamblea del nombramiento y la remoción de los servidores públicos del Órgano Técnico de Desarrollo Humano y Familia.
 
 > <small>(ADICIONADO, P.O. 3 DE FEBRERO DE 2007)</small>
 
@@ -3998,3 +4002,9 @@ DECRETO NUMERO 23482/LIX/10, POR EL QUE SE REFORMA EL ARTICULO 108 DE LA LEY ORG
 P.O. 8 DE OCTUBRE DE 2011.
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 29 DE OCTUBRE DE 2011.
+
+PRIMERO. La Presidenta, vocales y titular del Órgano Técnico, que actualmente fungen en la Comisión de Desarrollo Humano, continuarán como tales en la Comisión de Desarrollo Humano y Familia hasta el término de la presente legislatura.
+
+SEGUNDO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
