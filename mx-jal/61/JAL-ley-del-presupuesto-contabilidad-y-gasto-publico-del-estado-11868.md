@@ -4,7 +4,7 @@ identifier: "JAL-ley-del-presupuesto-contabilidad-y-gasto-publico-del-estado-118
 country: "mx"
 rank: "ley"
 publication_date: "1998-01-20"
-last_updated: "2009-12-31"
+last_updated: "2011-10-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11868&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DEL PRESUPUESTO, CONTABILIDAD Y GASTO PUBLICO DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE OCTUBRE DE 2011.
 
 Ley publicada en la Sección Cuarta del Periódico Oficial del Estado de Jalisco, el martes 20 de enero de 1998.
 
@@ -439,13 +439,11 @@ Aprobado el presupuesto de Egresos del Estado, éste regirá para el ejercicio f
 
 En caso de que para el día 31 de diciembre no sea aprobado el Presupuesto de Egresos correspondiente, se aplicará el ejercido el año inmediato anterior, incluyendo sus modificaciones.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 2011)</small>
 
-Artículo 46 bis.- El Presupuesto de Egresos que apruebe el Congreso del Estado debe cumplir con los principios de de (sic) racionalidad, austeridad, disciplina presupuestal, motivación, certeza, equidad y proporcionalidad y especificar la remuneración que les corresponda al Gobernador, Secretarios, Subsecretarios, titulares de las dependencias del Poder Ejecutivo, diputados, magistrados del Poder Judicial, magistrados del Tribunal de Arbitraje y Escalafón, consejeros del Consejo General del Poder Judicial, consejeros electorales, Presidente de la Comisión Estatal de Derechos Humanos y demás servidores públicos, atendiendo lo previsto en el artículo 127 de la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado, la Ley para los Servidores Públicos del Estado de Jalisco y sus Municipios y demás normatividad legal aplicable, sin que se realice la incorporación, bajo ninguna circunstancia, de ingresos extraordinarios o por el fin del encargo, adicionales a la remuneración.
+###### Artículo 46 Bis.
 
-> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2002)</small>
-
-El Titular del Poder Ejecutivo del Estado publicará, en el Periódico Oficial "El Estado de Jalisco", el presupuesto de egresos aprobado por el Congreso del Estado, con las plantillas de personal en las que se especifiquen los sueldos y demás percepciones que por cualquier concepto les corresponda al Gobernador, Secretarios, Subsecretarios, Titulares de las dependencias y entidades del Poder Ejecutivo, Diputados, Magistrados, Consejeros del Consejo General del Poder Judicial y Consejeros Electorales. Se publicarán de igual forma, los incrementos o ampliaciones que se autoricen en el transcurso del año.
+El Presupuesto de Egresos que apruebe el Congreso del Estado debe cumplir con los principios de racionalidad, austeridad, disciplina presupuestal, motivación, certeza, equidad y proporcionalidad y especificar la remuneración que les corresponda al Gobernador, secretarios, subsecretarios, titulares de las dependencias del Poder Ejecutivo, diputados, magistrados del Poder Judicial, magistrados del Tribunal de Arbitraje y Escalafón, consejeros del Consejo de la Judicatura, consejeros electorales, Presidente de la Comisión Estatal de Derechos Humanos y demás servidores públicos, atendiendo lo previsto en el artículo 127 de la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado, la Ley para los Servidores Públicos del Estado de Jalisco y sus Municipios y demás normatividad legal aplicable, sin que se realice la incorporación, bajo ninguna circunstancia, de ingresos extraordinarios o por el fin del encargo, adicionales a la remuneración.
 
 > <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1999)</small>
 
@@ -1060,3 +1058,7 @@ CUARTO. No se podrán celebrar contratos de asociación público-privada, tratá
 P.O. 31 DE DICIEMBRE DE 2009.
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 29 DE OCTUBRE DE 2011.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
