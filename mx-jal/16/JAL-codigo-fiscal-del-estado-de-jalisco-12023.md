@@ -4,7 +4,7 @@ identifier: "JAL-codigo-fiscal-del-estado-de-jalisco-12023"
 country: "mx"
 rank: "codigo"
 publication_date: "1997-12-16"
-last_updated: "2008-07-05"
+last_updated: "2011-10-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12023&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 CODIGO FISCAL DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE JULIO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE OCTUBRE DE 2011.
 
 Código publicado en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el martes 16 de diciembre de 1997.
 
@@ -1103,9 +1103,19 @@ La prescripción del crédito principal extingue simultáneamente los recargos, 
 
 La prescripción se inicia a partir de la fecha en que el crédito o el cumplimiento de la obligación pudieron ser legalmente exigidos y será reconocida o declarada por la Secretaría de Finanzas del Estado, a petición de cualquier interesado.
 
+> <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 2011)</small>
+
 ###### Artículo 91.
 
-La prescripción se interrumpe con cada gestión de cobro notificada en los términos del artículo 94 de este Código, por el reconocimiento expreso o tácito del deudor, respecto de la existencia de la obligación de que se trate. De los requisitos señalados en este artículo deberá existir constancia por escrito.
+La prescripción se interrumpe:
+
+I. Con cada gestión de cobro notificada en los términos del artículo 94 de este Código, dentro del procedimiento administrativo de ejecución;
+
+II. Por el reconocimiento expreso o tácito del deudor, respecto de la existencia de la obligación de que se trate, o
+
+III. Cuando el contribuyente desocupe su domicilio fiscal sin presentar el aviso de cambio correspondiente o cuando señale de manera incorrecta su domicilio fiscal, así como cuando no dé el aviso correspondiente de cambio de nombre, razón o denominación social.
+
+De los requisitos señalados en las fracciones I y II del presente artículo deberá existir constancia por escrito.
 
 ###### Artículo 92.
 
@@ -1449,7 +1459,7 @@ Dicho organismo deberá rendir un informe por escrito en el cual señalará punt
 
 El citado organismo ejercerá los recursos que perciba por dicho concepto sin menoscabo a lo programado en el presupuesto de egresos.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE ENERO DE 2007)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE ENERO DE 2007)</small>
 
 III. el (sic) 25% del fondo único general le corresponderá directamente al Organismo Público Descentralizado denominado Hospital Civil de Guadalajara, el cual deberá destinarlo independientemente de lo programado en su presupuesto de egresos, exclusivamente a lo siguiente:
 
@@ -2354,6 +2364,10 @@ Octavo. Todos los recursos humanos asignados a la actual Auditoría Superior pas
 Noveno. El Poder Legislativo, en conjunto con la Auditoría Superior del Estado de Jalisco y el Poder Ejecutivo, llevarán a cabo las adecuaciones presupuestales necesarias para el debido cumplimiento del presente decreto. Para tal efecto, una vez designado el Auditor Superior, deberá presentar a la Junta de Coordinación Política, así como a la Comisión de Hacienda y Presupuestos del Congreso del Estado, el anteproyecto de presupuesto de la Auditoria Superior del Estado.
 
 Décimo. Dentro del término de sesenta días naturales, contados a partir de la entrada en vigor del presente decreto, el Auditor Superior del Estado deberá expedir el reglamento interno de la Auditoría Superior de Jalisco, conforme a esta ley y las disposiciones aplicables para el Congreso del Estado.
+
+P.O. 29 DE OCTUBRE DE 2011.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
 
 ###### ARTICULO PRIMERO
 
