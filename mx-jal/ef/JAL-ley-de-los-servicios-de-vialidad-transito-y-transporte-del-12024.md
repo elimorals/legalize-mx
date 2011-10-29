@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-los-servicios-de-vialidad-transito-y-transporte-del-1202
 country: "mx"
 rank: "ley"
 publication_date: "1998-02-07"
-last_updated: "2010-12-09"
+last_updated: "2011-10-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12024&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE LOS SERVICIOS DE VIALIDAD, TRANSITO Y TRANSPORTE DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE DICIEMBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE OCTUBRE DE 2011.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el sábado 7 de febrero de 1998.
 
@@ -2121,6 +2121,10 @@ El pasaje obligatoriamente será gratuito para los miembros de la policía preve
 
 Los horarios e itinerarios serán aprobados por la dependencia del Ejecutivo del Estado, competente en materia de vialidad, tránsito y transporte, tomando en cuenta las opiniones, estudios y datos proporcionados por los organismos auxiliares y de consulta competentes, conforme a las normas y procedimientos que se establezcan en el reglamento.
 
+> <small>(ADICIONADO, P.O. 29 DE OCTUBRE DE 2011)</small>
+
+Dicha dependencia deberá incluir a estos itinerarios la implementación de transporte público nocturno, estableciendo para estos efectos un horario que cubra las necesidades de los usuarios del servicio, en este turno.
+
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 6 DE NOVIEMBRE DE 1999)</small>
 
 ### CAPITULO XIII. De la Subrogación de la Operación en la Prestación del Servicio Público de Transporte
@@ -3254,3 +3258,11 @@ P.O. 9 DE DICIEMBRE DE 2010.
 P.O. 9 DE DICIEMBRE DE 2010.
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial Estado de Jalisco.
+
+P.O. 29 DE OCTUBRE DE 2011.
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+SEGUNDO. El titular del Poder Ejecutivo Estatal deberá adecuar el Reglamento de la Ley de los Servicios de Vialidad, Tránsito y Transporte del Estado de Jalisco, dentro de los sesenta días naturales siguientes a la entrada en vigor del presente decreto.
+
+TERCERO. El titular del Poder Ejecutivo Estatal, por medio de la dependencia encargada en materia de vialidad, tránsito y transporte, deberá instar a los prestadores del servicio de transporte público de pasajeros a que realicen las adecuaciones necesarias a los itinerarios de sus rutas, para que se extiendan los horarios del servicio.
