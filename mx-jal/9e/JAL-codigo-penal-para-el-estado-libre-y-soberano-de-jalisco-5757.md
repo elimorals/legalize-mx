@@ -4,7 +4,7 @@ identifier: "JAL-codigo-penal-para-el-estado-libre-y-soberano-de-jalisco-5757"
 country: "mx"
 rank: "codigo"
 publication_date: "1982-09-02"
-last_updated: "2011-10-18"
+last_updated: "2011-10-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5757&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "JAL"
 
 CODIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE OCTUBRE DE 2011.
-
-> <small>N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 18 DE OCTUBRE DE 2011 NO APLICA AL ARTICULADO DEL DECRETO 23577 PUBLICADO EN EL P.O. DE 13 DE OCTUBRE DE 2011.</small>
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE OCTUBRE DE 2011.
 
 Código publicado en el Periódico Oficial del Estado de Jalisco, el jueves 2 de septiembre de 1982.
 
@@ -645,11 +643,9 @@ V. Cuando se conduzca un vehículo en sentido contrario a la circulación señal
 
 VI. Cuando el inculpado ha cometido anteriormente otros delitos culposos con motivo de tránsito de vehículos y conste en sentencia ejecutoriada.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 2011)</small>
 
-> <small>(REFORMADO, P.O. 7 DE AGOSTO DE 2010)</small>
-
-Será negada la libertad provisional bajo caución, cuando sean probables o concurran en la comisión del delito de lesiones previsto por el artículo 207 fracciones IV y V de este código, dos o más de las circunstancias señaladas en las fracciones del presente artículo. En el caso de homicidio, la libertad provisional bajo caución será negada a los probables responsables, cuando concurra cualquiera de las circunstancias señaladas en la fracción III, o cuando concurran en su comisión, dos o más de las circunstancias señaladas en las fracciones I, II, IV, V y VI de este artículo.
+Será negada la libertad provisional bajo caución, cuando sean probables o concurran en la comisión del delito de lesiones previsto por el artículo 207, fracciones IV y V, de este código, dos o más de las circunstancias señaladas en las fracciones del presente artículo. En el caso de homicidio, la libertad provisional bajo caución será negada a los probables responsables, cuando concurra cualquiera de las circunstancias señaladas en la fracción III, o cuando concurran en su comisión dos o más de las circunstancias señaladas en las fracciones I, II, IV, V y VI de este artículo, o cuando abandonen deliberadamente el lugar de los hechos.
 
 Cuando se cometa el delito de homicidio o lesiones por culpa grave, en accidente de tránsito, el vehículo conducido por el inculpado será asegurado por la autoridad competente hasta que se pague la reparación del daño. El pago de la reparación del daño no prejuzga sobre la responsabilidad del conductor.
 
@@ -3183,7 +3179,7 @@ III. Si existen lesiones mortales y no mortales y no se puede precisar cuál de 
 
 ###### Art. 221.
 
-Se impondrán las penas de homicidio o lesiones en riña preconcertada, al que, teniendo nula ilustración sorprenda a su cónyuge, concubina o concubinario, en el acto carnal con otra persona o en un momento próximo a su consumación y lo victime o lesione, salvo que el activo haya contribuido a la corrupción del ofendido, en cuya hipótesis se aplicarán las penas del homicidio o lesiones según proceda.
+(DEROGADO, P.O. 29 DE OCTUBRE DE 2011)
 
 ###### Art. 222.
 
@@ -4834,3 +4830,15 @@ DECRETO NUMERO 23562/LIX/11 POR EL QUE SE DEROGA EL SEGUNDO PARRAFO DEL ARTICULO
 P.O. 13 DE OCTUBRE DE 2011.
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente al de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 29 DE OCTUBRE DE 2011.
+
+DECRETO No. 23617/LIX/11 POR EL QUE SE DEROGA EL ARTICULO 221 DEL CODIGO PENAL PARA EL ESTADO DE JALISCO.
+
+ÚNICO. Este decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 29 DE OCTUBRE DE 2011.
+
+DECRETO No. 23618/LIX/11 POR EL QUE SE REFORMA EL PENULTIMO PARRAFO DEL ARTICULO 48 DEL CODIGO PENAL PARA EL ESTADO DE JALISCO.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
