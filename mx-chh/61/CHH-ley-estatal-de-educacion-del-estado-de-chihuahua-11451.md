@@ -4,7 +4,7 @@ identifier: "CHH-ley-estatal-de-educacion-del-estado-de-chihuahua-11451"
 country: "mx"
 rank: "ley"
 publication_date: "1997-12-27"
-last_updated: "2011-09-24"
+last_updated: "2011-10-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11451&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY ESTATAL DE EDUCACION
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE SEPTIEMBRE DE 2011.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE OCTUBRE DE 2011.
 
 Ley publicada en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 27 de diciembre de 1997.
 
@@ -859,11 +859,11 @@ Dado el patrón de asentamientos dispersos y el nivel socioeconómico de las etn
 
 El Poder Ejecutivo Estatal, a través de las instancias correspondientes, y los ayuntamientos promoverán el mejoramiento de la nutrición de las y los niños indígenas, mediante el otorgamiento de apoyos alimentarios durante el ciclo escolar.
 
-> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
+> <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 2011)</small>
 
 ###### ARTÍCULO 50.
 
-La Autoridad Educativa Estatal y los ayuntamientos otorgarán becas a las y los alumnos indígenas para garantizar su ingreso, permanencia y tránsito a la educación superior; además, promoverán la construcción y mejoramiento de las instalaciones de los centros educativos, a fin de brindar mejor atención a la población escolar indígena.
+La Autoridad Educativa Estatal y los Ayuntamientos otorgarán becas a las y los alumnos indígenas, en todos los niveles educativos y con una cobertura integral, hasta la Educación Superior, para garantizar su ingreso, permanencia y tránsito; además, promoverán la construcción y mejoramiento de las instalaciones de los Centros Educativos con carácter asistencial, a fin de brindar mejor atención a la población escolar indígena.
 
 > <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
 
@@ -2568,3 +2568,9 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Para dar pleno cumplimiento a la reforma, la Secretaría de Educación, Cultura y Deporte, reforzará aquellos programas enfocados a prevenir, detectar y atender los casos de violencia y abuso entre escolares que se presenten en las instituciones educativas del Estado.
+
+P.O. 29 DE OCTUBRE DE 2011.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
