@@ -4,7 +4,7 @@ identifier: "CHH-codigo-municipal-para-el-estado-de-chihuahua-4610"
 country: "mx"
 rank: "codigo"
 publication_date: "1995-11-18"
-last_updated: "2011-09-24"
+last_updated: "2011-10-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4610&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CODIGO MUNICIPAL PARA EL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE SEPTIEMBRE DE 2011.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE OCTUBRE DE 2011.
 
 Código publicado en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 18 de noviembre de 1995.
 
@@ -365,7 +365,7 @@ IV.- Para el mejoramiento integral del Estado, deberá plantearse el desarrollo 
 
 V.- Los centros de población que hayan cumplido con los requisitos señalados para cada categoría política, podrán ostentar oficialmente la que les corresponda, solicitando previamente declaración que al respecto deberá hacer el Ayuntamiento de cada municipio del Estado.
 
-VI.- El Ayuntamiento deberá someter la solicitud efectuada en sesión de Cabildo; de ser procedente, deberá publicarse la declaratoria en el Periódico Oficial de (sic) Gobierno del Estado.
+VI.- El Ayuntamiento deberá someter la solicitud efectuada en sesión de Cabildo; de ser procedente, deberá publicarse la declaratoria en el Periódico Oficial del Gobierno del Estado.
 
 VII.- La población podrá expresar el deseo de elevar su categoría política al Ayuntamiento a que pertenezca, debiendo contar con la aprobación de por lo menos, el diez por ciento de los electores residentes en la misma, acreditarán además que cuentan con los requisitos para su determinación a la categoría solicitada.
 
@@ -441,27 +441,29 @@ Por cada Presidente, Síndico, Regidor o Comisario, habrá un suplente para sust
 
 En aquellos municipios con población indígena, las autoridades de sus pueblos y comunidades elegirán un representante ante el ayuntamiento respectivo, con derecho a voz, lo que harán de conformidad con sus tradiciones y normas internas.
 
-###### ARTICULO 18.
+> <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 2011)</small>
 
-Cada Ayuntamiento, se instalará el día 10 de octubre de los años correspondientes a su renovación. Las Juntas Municipales y Comisarías de Policía, al respecto, se regirán por el procedimiento establecido en el artículo 38 de este Código y tomarán posesión en la fecha que señale el Ayuntamiento, una vez calificada la elección. El Presidente Municipal, otorgará protesta en los siguientes términos:
+###### ARTÍCULO 18.
 
-"Protesto guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos, la Particular de nuestra Entidad, el Código Municipal del Estado y demás disposiciones que de ellos emanen y desempeñar con lealtad, eficiencia y patriotismo, el cargo de Presidente Municipal, que el pueblo de este Municipio, me ha conferido".
+Cada Ayuntamiento, se instalará el día 10 de octubre de los años correspondientes a su renovación. Las Juntas Municipales y Comisarías de Policía, al respecto, se regirán por el procedimiento establecido en el artículo 44 de este Código y tomarán posesión en la fecha que señale el Ayuntamiento, una vez calificada la elección. El Presidente Municipal, otorgará protesta en los siguientes términos:
 
-> <small>(REFORMADO, P.O. 18 DE OCTUBRE DE 1997)</small>
+"Protesto guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos, la Particular de nuestra Entidad, el Código Municipal para el Estado y demás disposiciones que de ellos emanen y desempeñar con lealtad, eficiencia y patriotismo, el cargo de Presidente Municipal, que el pueblo de este Municipio, me ha conferido".
 
-El Presidente Municipal tomará la protesta al Síndico, a los Regidores, a los integrantes de las Juntas Seccionales y a los Comisarios de Policía, de la manera siguiente:
+El Síndico, otorgará protesta en los siguientes términos:
 
-> <small>(REFORMADO, P.O. 18 DE OCTUBRE DE 1997)</small>
+"Protesto guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos, la Particular de nuestra Entidad, el Código Municipal para el Estado y demás disposiciones que de ellos emanen y desempeñar con lealtad, eficiencia y patriotismo, el cargo de Síndico, que el pueblo de este Municipio, me ha conferido".
 
-"¿Protestáis guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos, la Particular de nuestra Entidad, el Código Municipal del Estado y demás disposiciones que de ellos emanen y desempeñar con lealtad, eficiencia y patriotismo, el cargo que el pueblo de este municipio os ha conferido?".
+El Presidente Municipal tomará la protesta a los Regidores, a los integrantes de las Juntas Municipales y a los Comisarios de Policía, de la manera siguiente:
+
+"¿Protestáis guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos, la Particular de nuestra Entidad, el Código Municipal para el Estado y demás disposiciones que de ellos emanen y desempeñar con lealtad, eficiencia y patriotismo, el cargo que el pueblo de este municipio os ha conferido?".
 
 El Presidente Municipal los amonestará en los siguientes términos:
 
-"Si así no lo hicieréis, que la Nación, el Estado y el Municipio os lo demanden".
+"Si así no lo hiciereis, que la Nación, el Estado y el Municipio os lo demanden".
 
 El Presidente Municipal expondrá a los vecinos del Municipio su programa de gobierno.
 
-En las secciones municipales y comisarías de policía, la protesta se tomará por el Presidente Municipal o su representante.
+En las Juntas Municipales y Comisarías de Policía, la protesta se tomará por el Presidente Municipal o su representante.
 
 (REFORMADO PRIMER PARRAFO, P.O. 8 DE SEPTIEMBRE DE 2001) (F. DE E., P.O. 31 DE OCTUBRE DE 2001)
 
@@ -755,7 +757,7 @@ XXII.- Dentro de la posibilidad de cada Municipio, aprobar la realización de la
 
 > <small>(ADICIONADO, P.O. 11 DE MAYO DE 2011)</small>
 
-En los casos de Proyectos de Inversión Pública a Largo Plazo, solicitar al H. Congreso del Estado la autorización de dichos Proyectos, en los términos de la Ley de Proyectos de Inversión Pública a Largo Plazo del Estado de Chihuahua.
+En los casos de Proyectos de Inversión Pública a Largo Plazo, solicitar al H. Congreso del Estado la autorización de dichos Proyectos, en los términos de la Ley de Proyectos de Inversión Pública a largo Plazo del Estado de Chihuahua.
 
 XXIII.- Ejercer el control y vigilancia, por conducto de la dependencia correspondiente, en materia de fraccionamientos, sobre construcción de obras públicas y privadas, de ornato, nomenclatura, numeración oficial, planificación y alineamiento de edificaciones y calles;
 
@@ -821,9 +823,11 @@ III.- Gozar de buena reputación;
 
 IV.- No haber sido condenado por delito intencional que amerite pena corporal de más de un año de prisión, salvo que se trate de delitos contra la propiedad u otro tipo que lastime seriamente la buena fama en concepto público; en cuyo caso, inhabilitará para el cargo cualquiera que haya sido la pena.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE OCTUBRE DE 2011)</small>
+
 ###### ARTICULO 31.
 
-El día de su instalación el Ayuntamiento determinará el número de Comisiones necesarias para el cumplimiento de sus funciones, así como los integrantes de las mismas. Cada Comisión se podrá integrar con uno o tres miembros, conforme al reglamento interior y serán permanentes. El Ayuntamiento podrá crear comisiones especiales, para conocer de un asunto determinado, dichas comisiones serán transitorias.
+El día de su instalación, el Ayuntamiento determinará el número de comisiones necesarias para el cumplimiento de sus funciones, así como los integrantes de las mismas. Cada Comisión se integrará, por lo menos, por dos miembros, conforme al Reglamento Interior, reflejarán la composición plural del Ayuntamiento, y serán permanentes. El Ayuntamiento podrá crear comisiones especiales para conocer de un asunto determinado, mismas que serán transitorias.
 
 Los Regidores podrán formar parte de una o varias comisiones conforme al reglamento que se expida.
 
@@ -4206,6 +4210,22 @@ Se derogan los Decretos No. 210/2010 I P.O., de fecha 20 de diciembre del 2010; 
 Publíquese en el Periódico Oficial del Estado.
 
 P.O. 24 DE SEPTIEMBRE DE 2011.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 29 DE OCTUBRE DE 2011.
+
+DECRETO No. 274/2011 II P.O. POR EL QUE SE REFORMA EL ARTICULO 18 DEL CODIGO MUNICIPAL PARA EL ESTADO DE CHIHUAHUA.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 29 DE OCTUBRE DE 2011.
+
+DECRETO No. 289/2011 II P.O. POR EL QUE SE REFORMA EL ARTICULO 31 DEL CODIGO MUNICIPAL PARA EL ESTADO DE CHIHUAHUA.
 
 ###### ARTÍCULO ÚNICO.
 
