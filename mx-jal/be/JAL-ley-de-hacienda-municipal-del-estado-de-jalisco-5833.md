@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-hacienda-municipal-del-estado-de-jalisco-5833"
 country: "mx"
 rank: "ley"
 publication_date: "1984-04-03"
-last_updated: "2011-10-11"
+last_updated: "2011-10-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5833&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE HACIENDA MUNICIPAL DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE OCTUBRE DE 2011.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE OCTUBRE DE 2011.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el martes 3 de abril de 1984.
 
@@ -143,7 +143,7 @@ Si por cualquier circunstancia el Congreso del Estado no aprobara la Ley de Ingr
 
 > <small>(REFORMADO, P.O. 5 DE JULIO DE 2008)</small>
 
-Para la elaboración de presupuestos y control de las erogaciones municipales, se estará a lo que disponga la Ley Reglamentaria del Titulo Quinto de la Constitución Política del Estado de Jalisco, la Ley de Fiscalización Superior y de Auditoría Pública del Estado de Jalisco y demás ordenamientos.
+Para la elaboración de presupuestos y control de las erogaciones municipales, se estará a lo que disponga la Ley Reglamentaria del Titulo Quinto de la Constitución Política del Estado de Jalisco, La Ley de Fiscalización Superior y de Auditoría Pública del Estado de Jalisco y demás ordenamientos.
 
 ###### Art. 16.
 
@@ -743,9 +743,19 @@ La prescripción del crédito principal extingue simultáneamente los recargos y
 
 La prescripción se inicia, a partir de la fecha en que el crédito o el cumplimiento de la obligación pudieron ser legalmente exigidos, y será reconocida o declarada por la Tesorería Municipal de oficio o a petición de cualquier interesado.
 
+> <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 2011)</small>
+
 ###### Art. 62.
 
-La prescripción se interrumpe con cada gestión de cobro del acreedor, notificada o hecha saber al deudor; por el reconocimiento de éste, expreso o tácito, respecto de la existencia de la obligación de que se trate, de los requisitos señalados en este artículo deberá existir constancia por escrito.
+La prescripción se interrumpe:
+
+I. Con cada gestión de cobro del acreedor, notificada dentro del procedimiento administrativo de ejecución;
+
+II. Por el reconocimiento expreso o tácito del deudor, respecto de la existencia de la obligación de que se trate, o
+
+III. Cuando el contribuyente desocupe su domicilio fiscal sin presentar el aviso de cambio correspondiente o cuando señale de manera incorrecta su domicilio fiscal, así como cuando no dé el aviso correspondiente de cambio de nombre, razón o denominación social.
+
+De los requisitos señalados en las fracciones I y II del presente artículo deberá existir constancia por escrito.
 
 > <small>(REFORMADO, P.O. 7 DE JULIO DE 2005)</small>
 
@@ -3494,5 +3504,9 @@ P.O. 3 DE MARZO DE 2011.
 UNICO. Este decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
 
 P.O. 11 DE OCTUBRE DE 2011.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 29 DE OCTUBRE DE 2011.
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
