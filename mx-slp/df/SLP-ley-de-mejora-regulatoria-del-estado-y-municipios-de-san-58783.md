@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-mejora-regulatoria-del-estado-y-municipios-de-san-58783"
 country: "mx"
 rank: "ley"
 publication_date: "2007-11-01"
-last_updated: "2007-11-01"
+last_updated: "2011-10-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=58783&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE MEJORA REGULATORIA DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSI
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE OCTUBRE DE 2011.
 
 Ley publicada en la Edición Extraordinaria al Periódico Oficial del Estado de San Luis Potosí, el jueves 1 de noviembre de 2007.
 
@@ -41,9 +41,11 @@ LEY DE MEJORA REGULATORIA DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSI
 
 ### CAPITULO I. De las Disposiciones Generales
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE OCTUBRE DE 2011)</small>
+
 ###### ARTICULO 1°.
 
-La presente Ley es de orden público; y observancia general para las dependencias y organismos descentralizados de la administración pública estatal, así como para los municipios y los organismos paramunicipales e intermunicipales; tiene por objeto la mejora continua, integral y permanente de la regulación en el Estado.
+La presente Ley es de orden público; y observancia general para las dependencias y organismos descentralizados de la administración pública estatal, así como para los municipios y los organismos paramunicipales e intermunicipales; tiene por objeto la mejora continua, integral y permanente de la regulación en actividades o sectores económicos del Estado.
 
 Las disposiciones de esta Ley se aplicarán a los actos de autoridad, procedimientos y resoluciones administrativas de los sujetos de esta Ley, así como a los servicios que presten de manera exclusiva estos entes, y a los contratos que los particulares puedan celebrar con los mismos, con motivo de la prestación de servicios públicos, que incidan en la actividad empresarial y en los servicios de atención a la ciudadanía.
 
@@ -53,7 +55,9 @@ Este Ordenamiento no será aplicable a las materias de carácter fiscal y de eje
 
 Esta Ley tiene como objetivos específicos, los siguientes:
 
-I. Mejorar la calidad e incrementar la eficiencia del marco regulatorio, a través de la disminución de los requisitos, costos y tiempos en que incurren los particulares para cumplir con la normativa aplicable, sin incrementar con ello los costos sociales;
+> <small>(REFORMADA, P.O. 29 DE OCTUBRE DE 2011)</small>
+
+I. Mejorar la calidad e incrementar la eficiencia del marco regulatorio, a través de la disminución de los requisitos, costos y tiempos en que incurren los particulares para cumplir con la normativa aplicable, sin incrementar con ello los costos sociales, con la finalidad de promover el potencial económico y competitivo del Estado;
 
 II. Modernizar y agilizar los procesos administrativos que realizan los sujetos de esta Ley, en beneficio de la población del Estado;
 
@@ -169,9 +173,17 @@ XV. Examinar los programas de mejora regulatoria de los municipios, y de los org
 
 XVI. Opinar respecto de los trámites y servicios que hayan registrado en el portal de internet, del Registro Único de Trámites y Servicios, las dependencias y organismos descentralizados estatales y, en su caso, los municipios y organismos paramunicipales e intermunicipales que celebraron con el Ejecutivo Estatal el convenio respectivo;
 
-XVII. Proporcionar la guía para la elaboración de la manifestación de impacto regulatorio, de acuerdo a lo establecido en el Reglamento de esta Ley, y
+> <small>(REFORMADA, P.O. 29 DE OCTUBRE DE 2011)</small>
 
-XVIII. Proponer y promover las medidas para la mejora continua del proceso de mejora regulatoria en el Estado, así como las que se requieran para el cumplimiento de lo dispuesto en esta Ley, su Reglamento y otras disposiciones legales.
+XVII. Proporcionar la guía para la elaboración de la manifestación de impacto regulatorio, de acuerdo a lo establecido en el Reglamento de esta Ley;
+
+> <small>(REFORMADA, P.O. 29 DE OCTUBRE DE 2011)</small>
+
+XVIII. Proponer y promover las medidas para la mejora continua del proceso de mejora regulatoria en el Estado, así como las que se requieran para el cumplimiento de lo dispuesto en esta Ley, su reglamento y otras disposiciones legales, y
+
+> <small>(ADICIONADA, P.O. 29 DE OCTUBRE DE 2011)</small>
+
+XIX. Establecer indicadores de desempeño, eficiencia y eficacia en materia de mejora regulatoria.
 
 ###### ARTICULO 9º.
 
@@ -706,3 +718,11 @@ El Secretario General de Gobierno
 Lic. Alfonso José Castillo Machuca
 
 (Rúbrica)
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 29 DE OCTUBRE DE 2011.
+
+PRIMERO. Este Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
