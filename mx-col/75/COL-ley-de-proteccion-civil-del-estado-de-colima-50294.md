@@ -4,7 +4,7 @@ identifier: "COL-ley-de-proteccion-civil-del-estado-de-colima-50294"
 country: "mx"
 rank: "ley"
 publication_date: "2006-04-08"
-last_updated: "2007-12-29"
+last_updated: "2011-10-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50294&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "COL"
 
 LEY DE PROTECCION CIVIL DEL ESTADO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE DICIEMBRE DE 2007.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE PROTECCION CIVIL DEL ESTADO DE COLIMA, PUBLICADO EN EL P.O. 29 DE OCTUBRE DE 2011, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Suplemento al Periódico Oficial del Estado de Colima, el sábado 8 de abril de 2006.
 
@@ -1680,3 +1682,27 @@ P.O. 29 DE DICIEMBRE DE 2007.
 PRIMERO.- El Presente Decreto entrará en vigor al día siguiente de su publicación en el periódico Oficial "El Estado de Colima".
 
 SEGUNDO.- Los municipios deberán establecer el registro a que se refiere la fracción XXI del artículo 13 de este ordenamiento, a más tardar 45 días contados a partir del inicio de la vigencia del presente Decreto.
+
+P.O. 29 DE OCTUBRE DE 2011.
+
+PRIMERO.- La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+SEGUNDO.- Se abroga la Ley de Protección Civil del Estado de Colima publicada mediante Decreto número 336, en el Periódico Oficial "El Estado de Colima" de fecha 03 de abril de 2006 y, cualquier disposición estatal en vigor que se oponga a la presente Ley.
+
+TERCERO.- El Consejo Estatal de Protección Civil se deberá instalar en un plazo no mayor de sesenta días hábiles a partir del día siguiente al de la publicación de esta Ley.
+
+CUARTO.- Se otorga un plazo de noventa días hábiles a partir de la entrada en vigor de la presente Ley para la emisión de su Reglamento.
+
+QUINTO.- En tanto se expidan los reglamentos previstos en esta Ley, seguirán vigentes las disposiciones que regulan la integración y operación del Sistema Estatal de Protección Civil, en tanto no se opongan a la presente Ley.
+
+SEXTO.- En tanto no se emita el nuevo Programa Estatal de Protección Civil, se seguirá aplicando el vigente, mismo que deberá actualizarse de manera periódica y de acuerdo a lo dispuesto en la presente Ley.
+
+SÉPTIMO.- La Unidad Estatal de Protección Civil quedará constituida a partir de la publicación en el Periódico Oficial El Estado de Colima, como un organismo público descentralizado con personalidad jurídica, patrimonio propio, autonomía técnica y de gestión para el cumplimiento de sus objetivos y fines; asumiendo los bienes muebles e inmuebles, derechos, recursos financieros y demás activos de la Unidad Estatal de Protección Civil, así como con los recursos humanos, presupuestales y financieros correspondientes.
+
+OCTAVO.- Las Unidades Municipales de Protección Civil quedarán constituidas a partir de la publicación en el Periódico Oficial El Estado de Colima, como un órgano con autonomía de operación, financiera y administrativa, dependiente del Ayuntamiento.
+
+Asimismo, los municipios deberán expedir el Programa y Reglamento Municipal de protección civil, respectivos.
+
+NOVENO.- Los derechos laborales y antigüedad del personal administrativo que actualmente laboran para las Unidades Estatal y Municipales de Protección Civil, se respetarán conforme a la ley.
+
+DÉCIMO.- Los asuntos que se venían conociendo y tramitando ante las Unidades Estatal y Municipales de Protección Civil, continuarán su trámite hasta su total conclusión con base a la normatividad vigente en el momento en que se iniciaron.
