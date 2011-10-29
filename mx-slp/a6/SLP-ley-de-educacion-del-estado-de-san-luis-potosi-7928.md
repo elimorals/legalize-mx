@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-educacion-del-estado-de-san-luis-potosi-7928"
 country: "mx"
 rank: "ley"
 publication_date: "1995-06-16"
-last_updated: "2010-12-28"
+last_updated: "2011-10-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7928&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE EDUCACION DEL ESTADO DE SAN LUIS POTOSI
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE DICIEMBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE OCTUBRE DE 2011.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de San Luis Potosí, el viernes 16 de junio de 1995.
 
@@ -137,9 +137,9 @@ XI.- Inculcar los conceptos y principios fundamentales de la ciencia ambiental, 
 
 XII.- Fomentar actitudes solidarias y positivas hacia el trabajo, la productividad, el ahorro y el bienestar general;
 
-> <small>(REFORMADA, P.O. 30 DE ENERO DE 2010)</small>
+> <small>(REFORMADA, P.O. 29 DE OCTUBRE DE 2011)</small>
 
-XIII.- Propiciar el rechazo a los vicios;
+XIII. Propiciar el rechazo a los vicios y adicciones, fomentando el conocimiento de sus causas, riesgos y consecuencias;
 
 > <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2010)</small>
 
@@ -153,13 +153,17 @@ XV.- Fomentar la cultura de la transparencia y la rendición de cuentas, así co
 
 XVI.- Fomentar los valores y principios del cooperativismo;
 
-> <small>(ADICIONADA, P.O. 28 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 29 DE OCTUBRE DE 2011)</small>
 
-XVII.- Promover y fomentar la lectura y el libro, con el propósito de fortalecer la vida cultural de niños, jóvenes y adultos, y
+XVII. Promover y fomentar la lectura y el libro, con el propósito de fortalecer la vida cultural de niños, jóvenes y adultos;
 
-> <small>(ADICIONADA, P.O. 28 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 29 DE OCTUBRE DE 2011)</small>
 
-XVIII.- Difundir los derechos y deberes de niños, niñas y adolescentes, así como las formas de protección con que cuentan para ejercitarlos.
+XVIII. Difundir los derechos y deberes de niños, niñas y adolescentes, así como las formas de protección con que cuentan para ejercitarlos, y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE OCTUBRE DE 2011)</small>
+
+XIX. Realizar acciones educativas y preventivas a fin de evitar que se cometan ilícitos en contra de menores de dieciocho años de edad, o de personas que no tengan la capacidad de comprender el significado del hecho o para resistirlo.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE DICIEMBRE DE 2010)</small>
 
@@ -195,13 +199,19 @@ I.- Los educandos y educadores;
 
 II.- Las autoridades educativas;
 
-III.- Los planes, programas, métodos y materiales educativos;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE OCTUBRE DE 2011)</small>
 
-IV.- Las instituciones educativas del Gobierno del Estado y municipios, de los organismos descentralizados y órganos desconcentrados;
+III. El Consejo Estatal Técnico de Educación;
 
-V.- Las instituciones de los particulares con autorización o reconocimiento de validez oficial de estudios; y
+IV. Los planes, programas, métodos y materiales educativos;
 
-VI.- Las instituciones de educación superior a las que la Ley otorga autonomía.
+V. Las instituciones educativas del Gobierno del Estado y municipios, de los organismos descentralizados y órganos desconcentrados;
+
+VI. Las instituciones de los particulares con autorización o reconocimiento de validez oficial de estudios, y
+
+> <small>(REFORMADA, P.O. 29 DE OCTUBRE DE 2011)</small>
+
+VII. Las instituciones de educación superior a las que la ley otorga autonomía.
 
 ###### ARTICULO 14.
 
@@ -210,6 +220,10 @@ El educando es el sujeto en quien recae la acción que tiende a desarrollar y pe
 ###### ARTICULO 15.
 
 El educador es promotor, coordinador y agente directo del proceso educativo; deben proporcionársele los medios que le permitan realizar eficazmente su labor y contribuir a su constante superación profesional y mejoramiento económico.
+
+> <small>(ADICIONADO, P.O. 29 DE OCTUBRE DE 2011)</small>
+
+Para ejercer la docencia en instituciones establecidas por el Estado, por sus organismos descentralizados, y por los particulares con autorización o con reconocimiento de validez oficial de estudios, los maestros deberán satisfacer los requisitos que, en su caso, señalen las autoridades competentes. En el caso de los maestros de educación indígena que no tengan licenciatura como nivel mínimo de formación, deberán participar en los programas de capacitación que diseñe la autoridad educativa, y certificar su bilingüismo en la lengua indígena que corresponda y el español.
 
 > <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2007)</small>
 
@@ -231,11 +245,29 @@ Para efectos de la presente Ley se entenderá por:
 
 I.- Autoridad educativa federal, a la Secretaría de Educación Pública de la Administración Pública Federal;
 
-II.- Autoridad educativa estatal, al Ejecutivo del Estado a través de la Secretaría de Educación del Gobierno de la Entidad; y
+> <small>(REFORMADA, P.O. 29 DE OCTUBRE DE 2011)</small>
 
-III.- Autoridad educativa municipal, al Ayuntamiento de cada municipio.
+II. Autoridad educativa estatal, al Ejecutivo del Estado, a través de la Secretaría de Educación del Gobierno de la Entidad;
+
+> <small>(REFORMADA, P.O. 29 DE OCTUBRE DE 2011)</small>
+
+III. Autoridad educativa municipal, al ayuntamiento de cada municipio, y
+
+> <small>(ADICIONADA, P.O. 29 DE OCTUBRE DE 2011)</small>
+
+IV. Consejo Estatal Técnico de Educación, órgano de consulta de la autoridad educativa estatal.
 
 El Gobierno del Estado, de conformidad con las disposiciones aplicables, proveerá lo conducente para que cada ayuntamiento reciba recursos para el cumplimiento de las responsabilidades que le confiere esta Ley.
+
+> <small>(ADICIONADO, P.O. 29 DE OCTUBRE DE 2011)</small>
+
+ARTICULO 19 BIS. Las funciones del Consejo Estatal Técnico de Educación son:
+
+I. Realizar investigaciones, estudios y análisis de carácter técnico-pedagógico acerca de planes y programas de estudio, contenidos, métodos, materiales de estudio, materiales didácticos y de apoyo al proceso educativo, métodos e instrumentos de evaluación, diseño de espacios, mobiliario y equipos y, en general, de todos los elementos que integran el currículo de la educación básica y los factores que afectan la calidad de los servicios;
+
+II. Hacer un seguimiento permanente, en el ámbito de su competencia, del funcionamiento y calidad de los servicios de educación básica, así como de sus resultados, y proponer a las autoridades educativas, para su consideración, las medidas y reformas de carácter técnico que consideren resulten pertinentes, y
+
+III. Emitir opinión fundada respecto a planes y programas de estudio que proponga la autoridad educativa estatal, las actualizaciones de libros de texto, los libros y materiales didácticos y los contenidos educativos, así como los requisitos académicos, de los planes y programas de estudio de los particulares.
 
 ###### ARTICULO 20.
 
@@ -285,7 +317,9 @@ X.- Concertar acciones y establecer convenios con instituciones de educación su
 
 XI.- Otorgar, negar y revocar autorización a los particulares para impartir la educación preescolar, primaria, secundaria, normal y demás para la formación de maestros de educación básica;
 
-XII.- Llevar el registro y control de todas las instituciones, que ofrezcan servicios educativos de cualquier tipo, nivel o modalidad;
+> <small>(REFORMADA, P.O. 29 DE OCTUBRE DE 2011)</small>
+
+XII.- Llevar un padrón estatal de alumnos, docentes, instituciones y centros escolares; un registro estatal de emisión, validación e inscripción de documentos académicos, y establecer un sistema estatal de información educativa;
 
 > <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2007)</small>
 
@@ -367,9 +401,15 @@ VII.- Promover permanentemente la investigación que sirva como base a la innova
 
 VIII.- Promover la enseñanza e investigación científica, tecnológica, industrial, comercial, deportiva y toda aquella que requieran las características regionales;
 
-IX.- Fomentar y difundir las actividades artísticas, culturales y físico-deportivas en todas sus manifestaciones; y
+> <small>(REFORMADA, P.O. 29 DE OCTUBRE DE 2011)</small>
 
-X.- Las demás que con tal carácter establezcan esta Ley y otras disposiciones aplicables.
+IX. Fomentar y difundir las actividades artísticas, culturales y físico-deportivas en todas sus manifestaciones;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE OCTUBRE DE 2011)</small>
+
+X. Coordinar y operar un padrón nacional y estatal de alumnos, docentes, instituciones y centros escolares; un registro nacional y estatal de emisión, validación e inscripción de documentos académicos, y establecer un sistema nacional y estatal de información educativa, y
+
+XI. Las demás que con tal carácter establezcan esta Ley y otras disposiciones aplicables.
 
 La Secretaría de Educación Pública de la Administración Pública Federal podrá, en forma temporal, impartir, de manera concurrente, la educación básica y normal en la Entidad, tratándose de actividades que permitan mayor equidad educativa.
 
@@ -519,13 +559,21 @@ La educación normal y demás para la formación, capacitación, actualización 
 
 Los alumnos de las escuelas normales públicas que integran el sistema educativo estatal, prestarán un servicio social obligatorio para obtener su título de acuerdo con la reglamentación respectiva.
 
+> <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 2011)</small>
+
 ###### ARTICULO 40.
 
-La educación para adultos comprende: alfabetización, educación primaria, secundaria y capacitación para el trabajo, apoyándose en la solidaridad social.
+La educación para adultos está destinada a individuos de quince años o más, que no hayan cursado o concluido la educación primaria y secundaria. Se presta a través de servicios de alfabetización, educación primaria y secundaria, así como de formación para el trabajo, con las particularidades adecuadas a dicha población. Esta educación se apoyará en la participación y la solidaridad social.
+
+Quienes participen voluntariamente brindando asesoría en tareas relativas a esta educación, tendrán derecho, en su caso, a que se les acredite como servicio social.
 
 ###### ARTICULO 41.
 
 En la impartición de educación para menores de edad, se tomarán medidas que aseguren al educando la protección y el cuidado necesarios para preservar su integridad física, psicológica y social sobre la base del respeto a su dignidad, y que la aplicación de la disciplina escolar sea compatible con su edad.
+
+> <small>(ADICIONADO, P.O. 29 DE OCTUBRE DE 2011)</small>
+
+En caso de que las y los educadores, así como las autoridades educativas, tengan conocimiento de la comisión de algún delito en agravio de las y los educandos, lo harán del conocimiento inmediato de la autoridad correspondiente.
 
 ### Capítulo II.
 
@@ -553,11 +601,11 @@ IV.- Criterios y procedimientos de evaluación y acreditación, para verificar q
 
 Los programas de estudio fijan los propósitos específicos de aprendizaje y determinan el orden y distribución de los contenidos educativos mínimos de cada grado, área o asignatura de un ciclo escolar, así como los criterios y procedimientos que servirán de base para su evaluación y acreditación.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE FEBRERO DE 2004)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE OCTUBRE DE 2011)</small>
 
 ###### ARTICULO 43.
 
-En los niveles de educación preescolar, primaria, secundaria, normal y demás para la formación de maestros de educación básica, serán obligatorios en esta Entidad los planes y programas de estudio determinados por la Secretaría de Educación Pública de la Administración Pública Federal.
+En los niveles de educación preescolar, primaria, secundaria, normal y demás para la formación de maestros de educación básica, serán obligatorios en esta Entidad, los planes y programas de estudio determinados por la Secretaría de Educación Pública de la Administración Pública Federal, conforme a los principios y criterios establecidos en los artículos 9°. y 10 de esta Ley. En el caso de los programas de educación normal y demás para la formación de maestros de educación básica, serán revisados y evaluados al menos cada cuatro años.
 
 La Autoridad Educativa Local, dará a conocer a la Secretaría de Educación de la Administración Pública Federal sus opiniones sobre planes y programas de estudio y propondrá para su consideración y, en su caso, para su autorización, contenidos regionales que sin mengua de carácter nacional de los planes y programas citados, permitan que los educandos adquieran un mejor conocimiento de la historia, la geografía, las costumbres, tradiciones y demás aspectos propios de la entidad y sus respectivos municipios.
 
@@ -581,9 +629,11 @@ Los planes y programas de estudio de la Universidad Pedagógica Nacional, serán
 
 Los planes y programas de estudio destinados a la capacitación para el trabajo, se establecerán por el Gobierno del Estado a través de su Secretaría de Educación de acuerdo a la normatividad correspondiente.
 
+> <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 2011)</small>
+
 ###### ARTICULO 46.
 
-Los planes y programas que las Secretarías de Educación de la Administración Pública Federal y Estatal determinen, así como sus modificaciones, deberán publicarse oportunamente en el Periódico Oficial del Estado.
+Los planes y programas de estudio, aplicables y obligatorios en el Estado, de educación preescolar, primaria, secundaria, educación normal y demás para la formación de maestros de educación básica, así como sus modificaciones, deberán publicarse oportunamente en el Periódico Oficial del Estado y, previa su aplicación, se deberá capacitar a los maestros respecto de su contenido y métodos.
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 16 DE SEPTIEMBRE DE 2003)</small>
 
@@ -719,13 +769,17 @@ IV.- Orientar la racional y óptima aplicación de los recursos; y
 
 V.- Establecer relaciones interinstitucionales para promover y desarrollar programas de difusión de la cultura pedagógica y extensión educativa.
 
+> <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 2011)</small>
+
 ###### ARTICULO 58.
 
-Las autoridades educativas simplificarán y reducirán las cargas administrativas de los maestros, para que éstos dediquen el mayor tiempo posible a la preparación, desarrollo y evaluación de su acción docente.
+Las autoridades educativas, en sus respectivas competencias, revisarán permanentemente las disposiciones, los trámites y procedimientos, con objeto de simplificarlos, de reducir las cargas administrativas de los maestros, de alcanzar más horas efectivas de clase y, en general, de lograr la prestación del servicio educativo con mayor pertinencia, calidad y eficiencia.
+
+> <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 2011)</small>
 
 ###### ARTICULO 59.
 
-La supervisión educativa desarrollará programas de orientación, apoyo y mejoramiento técnico, académico, social y administrativo en las instituciones escolares de su jurisdicción.
+En las actividades de supervisión las autoridades educativas darán prioridad, respecto de los procedimientos administrativos, a los apoyos técnicos, didácticos y demás para el adecuado desempeño de la función docente. Asimismo, se fortalecerá la capacidad de gestión de las autoridades escolares y la participación de los padres de familia.
 
 ###### ARTICULO 60.
 
@@ -893,9 +947,17 @@ IX.- Establecerán sistemas de educación a distancia;
 
 X.- Otorgarán estímulos a las organizaciones civiles, a las cooperativas de maestros y a las instituciones que se dediquen a la enseñanza particular y por cooperación;
 
-XI.- Promoverán mayor participación de la sociedad en la educación, así como el apoyo de los particulares al financiamiento y a las actividades a que se refiere este capítulo; y
+> <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 2011)</small>
 
-XII.- Concederán reconocimientos y distinciones a quienes contribuyan a la consecución de los propósitos mencionados en el artículo anterior.
+XI.- Promoverán mayor participación de la sociedad en la educación, así como el apoyo de los particulares al financiamiento y a las actividades a que se refiere este capítulo;
+
+> <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 2011)</small>
+
+XII.- Concederán reconocimientos y distinciones a quienes contribuyan a la consecución de los propósitos mencionados en el artículo anterior, y
+
+> <small>(ADICIONADA, P.O. 29 DE OCTUBRE DE 2011)</small>
+
+XIII.- Proporcionarán materiales educativos en las lenguas indígenas que correspondan, en las escuelas en donde asista mayoritariamente población indígena.
 
 ###### ARTICULO 76.
 
@@ -997,15 +1059,21 @@ De acuerdo con las normas y criterios generales, determinados por la Secretaría
 
 Los estudios realizados fuera del sistema educativo nacional podrán adquirir validez oficial, mediante su revalidación siempre y cuando sean equiparables con estudios realizados dentro de dicho sistema.
 
-La revalidación podrá otorgarse por niveles educativos, por grados escolares, o por asignaturas u otras unidades de aprendizaje, según lo establezca la regulación respectiva.
+> <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 2011)</small>
+
+La revalidación podrá otorgarse por niveles educativos, por grados escolares, créditos académicos, por asignaturas u otras unidades de aprendizaje, según lo establezca la regulación respectiva.
+
+> <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 2011)</small>
 
 ###### ARTICULO 86.
 
-Los estudios realizados, dentro del sistema educativo nacional podrán, en su caso, declararse equivalentes entre sí por niveles educativos, grados escolares, asignaturas u otras unidades de aprendizaje, según lo establezca la regulación respectiva.
+Los estudios realizados dentro del sistema educativo nacional, podrán, en su caso, declararse equivalentes entre sí por niveles educativos, grados escolares, créditos académicos, asignaturas u otras unidades de aprendizaje, según lo establezca la regulación respectiva.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE OCTUBRE DE 2011)</small>
 
 ###### ARTICULO 87.
 
-La Secretaría de Educación del Gobierno del Estado, por acuerdo de su titular, podrá expedir certificados, constancias, diplomas o títulos a quienes acrediten conocimientos terminales que correspondan a cierto nivel educativo o grado escolar, adquiridos en forma autodidacta o a través de la experiencia laboral.
+La Secretaría de Educación de Gobierno del Estado, por acuerdo de su titular, podrá expedir certificados, constancias, diplomas o títulos a quienes acrediten conocimientos parciales o terminales que correspondan a cierto nivel educativo o grado escolar, adquiridos en forma autodidacta, de la experiencia laboral o a través de otros procesos educativos.
 
 El acuerdo secretarial respectivo señalará los requisitos específicos que deban cumplirse para la acreditación de los conocimientos adquiridos, de conformidad con lo establecido por la Secretaría de Educación Pública de la Administración Pública Federal.
 
@@ -1031,21 +1099,23 @@ III.- Colaborar con las autoridades escolares, para la superación de los educan
 
 IV.- Formar parte de las asociaciones de padres de familia y de los consejos de participación social, a que se refiere este capítulo;
 
-> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 2008)</small>
+> <small>(ADICIONADA, P.O. 29 DE OCTUBRE DE 2011)</small>
 
-V.- Opinar, en los, casos de la educación que impartan los particulares, en relación con las contraprestaciones que las escuelas fijen;
+V.- Conocer la capacidad profesional de la planta docente, así como el resultado de las evaluaciones realizadas de conformidad con lo dispuesto en la fracción VII del artículo 12 de la Ley General de Educación;
 
-> <small>(ADICIONADA, P.O. 2 DE SEPTIEMBRE DE 2008)</small>
+> <small>(ADICIONADA, P.O. 29 DE OCTUBRE DE 2011)</small>
 
-VI.- Actuar en forma conjunta con las asociaciones de padres de familia, en la toma de decisiones, incluyendo la determinación y destino de las aportaciones voluntarias;
+VI.- Conocer la relación oficial del personal docente y empleados adscritos en la escuela en que estén inscritos sus hijas, hijos o pupilos, misma que deberá ser proporcionada por la autoridad escolar;
 
-> <small>(ADICIONADA, P.O. 2 DE SEPTIEMBRE DE 2008)</small>
+> <small>(ADICIONADA, P.O. 29 DE OCTUBRE DE 2011)</small>
 
-VII.- Ser informados por la asociación de padres de familia, de la cual formen parte, de la administración de las aportaciones, la situación financiera que guardan, así como de todas las actividades que realicen en su gestión, y
+VII.- Opinar, en los casos de la educación que impartan los particulares, en relación con las contraprestaciones que las escuelas fijen;
 
-> <small>(ADICIONADA, P.O. 2 DE SEPTIEMBRE DE 2008)</small>
+VIII.- Actuar en forma conjunta con las asociaciones de padres de familia, en la toma de decisiones, incluyendo la determinación y destino de las aportaciones voluntarias;
 
-VIII.- Los demás establecidos en las leyes y reglamentos respectivos.
+IX.- Ser informados por la asociación de padres de familia, de la cual formen parte, de la administración de las aportaciones, la situación financiera que guardan, así como de todas las actividades que realicen en su gestión, y
+
+X.- Los demás establecidos en las leyes y reglamentos respectivos.
 
 ###### ARTICULO 89.
 
@@ -1061,13 +1131,19 @@ II.- Apoyar el proceso educativo de sus hijos o pupilos;
 
 III.- Colaborar con las instituciones educativas en las que estén inscritos sus hijos o pupilos, en las actividades que dichas instituciones realicen;
 
-> <small>(REFORMADA, P.O. 20 DE JULIO DE 2010)</small>
+> <small>(ADICIONADA, P.O. 29 DE OCTUBRE DE 2011)</small>
 
-IV.- En el caso de tutores, presentar ante quien corresponda el documento legal de tutoría, expedido por la autoridad competente, y
+IV. Informar a las autoridades educativas los cambios que se presenten en la conducta y actitud de los educandos, para que las citadas autoridades apliquen los estudios correspondientes, con el fin de determinar las posibles causas que hayan dado origen a tales cambios;
 
-> <small>(ADICIONADA, P.O. 20 DE JULIO DE 2010)</small>
+> <small>(ADICIONADA, P.O. 29 DE OCTUBRE DE 2011)</small>
 
-V.- Participar en los Talleres para Padres de Familia.
+V. Hacer del conocimiento de la autoridad educativa del plantel, las irregularidades cometidas por el personal administrativo o académico, que ocasionen perjuicios, daños o cambios emocionales en los educandos;
+
+VI. En el caso de tutores, presentar ante quien corresponda, el documento legal de tutoría, expedido por la autoridad competente, y
+
+> <small>(REFORMADA, P.O. 29 DE OCTUBRE DE 2011)</small>
+
+VII. Participar en los talleres para padres de familia.
 
 ###### ARTICULO 90.
 
@@ -1247,9 +1323,25 @@ XI.- Oponerse a las actividades de evaluación, inspección y vigilancia, así c
 
 XII.- Realizar o permitir que se realice propaganda política dentro del plantel escolar;
 
-XIII.- Solicitar a los educandos aportaciones en efectivo o en especie, sin el acuerdo previo de la asociación de padres de familia; y
+> <small>(REFORMADA, P.O. 29 DE OCTUBRE DE 2011)</small>
 
-XIV.- Incumplir los demás preceptos de esta ley, así como las disposiciones expedidas con fundamento en ella.
+XIII. Solicitar a los educandos aportaciones en efectivo o en especie, sin el acuerdo previo de la asociación de padres de familia;
+
+> <small>(ADICIONADA, P.O. 29 DE OCTUBRE DE 2011)</small>
+
+XIV. Administrar a los educandos, sin previa prescripción médica y consentimiento informado de los padres o tutores, medicamentos que contengan sustancias psicotrópicas o estupefacientes;
+
+> <small>(ADICIONADA, P.O. 29 DE OCTUBRE DE 2011)</small>
+
+XV. Promover en los educandos, por cualquier medio, el uso de medicamentos que contengan sustancias psicotrópicas o estupefacientes;
+
+> <small>(ADICIONADA, P.O. 29 DE OCTUBRE DE 2011)</small>
+
+XVI. Expulsar o negarse a prestar el servicio educativo a niñas, niños y adolescentes que presenten problemas de aprendizaje, condicionar su aceptación o permanencia en el plantel a someterse a tratamientos médicos específicos; presionar de cualquier manera a los padres o tutores para que acudan a médicos o clínicas específicas, para la atención de problemas de aprendizaje en los educandos, y
+
+> <small>(REFORMADA, P.O. 29 DE OCTUBRE DE 2011)</small>
+
+XVII. Incumplir los demás preceptos de esta Ley, así como las disposiciones expedidas con fundamento en ella.
 
 ###### ARTICULO 96.
 
@@ -1612,6 +1704,12 @@ PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
 
 P.O. 18 DE DICIEMBRE DE 2010.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 29 DE OCTUBRE DE 2011.
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
