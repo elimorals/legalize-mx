@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-de-los-centros-de-convivencia-familiar-del-poder-685
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-05-08"
-last_updated: "2009-05-08"
+last_updated: "2011-10-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68509&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 REGLAMENTO DE LOS CENTROS DE CONVIVENCIA FAMILIAR DEL PODER JUDICIAL DEL ESTADO DE MEXICO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DE GOBIERNO: 31 DE OCTUBRE DE 2011.
 
 Reglamento publicado en la Sección Segunda de la Gaceta del Gobierno del Estado de México, el viernes 8 de mayo de 2009.
 
@@ -51,9 +51,19 @@ Los Centros de Convivencia Familiar funcionarán de las nueve a las dieciocho ho
 
 ### CAPÍTULO II. ORGANIZACIÓN
 
+> <small>(REFORMADO, G.G. 31 DE OCTUBRE DE 2011)</small>
+
 ###### Artículo 4.
 
-Cada Centro de Convivencia Familiar estará integrado por al menos un titular del Centro que será psicólogo y un trabajador social, así como por el demás personal de apoyo que designe el Consejo de la Judicatura.
+Cada Centro de Convivencia Familiar estará integrado por:
+
+I. Un Jefe de Departamento, que será preferentemente psicólogo;
+
+II. Un trabajador social; y
+
+III. El demás personal de apoyo que designe el Consejo de la Judicatura.
+
+Las actividades de los Centros de Convivencia Familiar estarán coordinadas por la Dirección de los Centros de Convivencia, en los términos que señale el manual respectivo.
 
 ###### Artículo 5.
 
@@ -270,3 +280,17 @@ JUEZ CONSEJERO
 LIC. CATALINA ERNESTINA GARCÍA LOYOLA
 
 SECRETARIA GENERAL DE ACUERDOS
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA AL PRESENTE ORDENAMIENTO.</small>
+
+G.G. 31 DE OCTUBRE DE 2011.
+
+PRIMERO. Publíquese este Acuerdo en la Gaceta del Gobierno del Estado y en el Boletín Judicial del Poder Judicial del Estado.
+
+SEGUNDO. Este Acuerdo entrará en vigor el uno de noviembre de dos mil once.
+
+TERCERO. Se abroga el Reglamento Interior del Consejo de la Judicatura del Estado de México, publicado en la Gaceta del Gobierno del Estado, del uno de abril de dos mil cinco.
+
+CUARTO. Se derogan las disposiciones que de igual o menor jerarquía se opongan a este Acuerdo.
+
+QUINTO. En tanto se expiden los instrumentos normativos complementarios, se seguirán aplicando las disposiciones jurídicas vigentes, en lo que no contradigan este Acuerdo.
