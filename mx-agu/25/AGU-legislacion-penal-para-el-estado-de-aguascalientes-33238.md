@@ -4,7 +4,7 @@ identifier: "AGU-legislacion-penal-para-el-estado-de-aguascalientes-33238"
 country: "mx"
 rank: "otro"
 publication_date: "2003-07-21"
-last_updated: "2011-08-08"
+last_updated: "2011-10-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33238&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEGISLACION PENAL PARA EL ESTADO DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE AGOSTO DE 2011.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE OCTUBRE DE 2011.
 
 Legislación publicada en la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el lunes 21 de julio de 2003.
 
@@ -897,9 +897,23 @@ I. Fraccionar o dividir en lotes un predio rústico o urbano, propio o ajeno, si
 
 II. Comercializar lotes, rústicos o urbanos, que hayan sido fraccionados o divididos sin contar con el permiso de la autoridad administrativa correspondiente, estatal o municipal, o sin haber atendido los lineamientos o especificaciones del permiso que se haya obtenido;
 
-III. Facilitar la ocupación de lotes, rústicos o urbanos, sin haberse regularizado o realizado los trámites necesarios para la debida prestación de los servicios públicos, a cargo de las autoridades administrativas o municipales correspondientes; y
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2011)</small>
 
-IV. Expedir el servidor público licencia o permiso de uso de suelo, u ordenar la prestación de servicios públicos en lotes de terreno, rústicos o urbanos, previamente fraccionados o divididos, sin haberse cubierto los requisitos que la ley de la materia exige, o los expida sin tener la facultad legal para ello.
+III. Facilitar la ocupación de lotes, rústicos o urbanos, sin haberse regularizado o realizado los trámites necesarios para la debida prestación de los servicios públicos, a cargo de las autoridades administrativas o municipales correspondientes;
+
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2011)</small>
+
+IV. Expedir el servidor público licencia o permiso de uso de suelo, u ordenar la prestación de servicios públicos en lotes de terreno, rústicos o urbanos, previamente fraccionados o divididos, sin haberse cubierto los requisitos que la ley de la materia exige, o los expida sin tener la facultad legal para ello; o
+
+> <small>(ADICIONADA, P.O. 31 DE OCTUBRE DE 2011)</small>
+
+V. Realizar, directamente o por medio de un tercero, obras de urbanización o edificación de fraccionamientos, condominios o desarrollos especiales, sin respetar las restricciones establecidas en la constancia de compatibilidad urbanística, cuando:
+
+a) Estén ubicadas en discontinuidades geológicas, márgenes de ríos o arroyos, zonas de restricción de líneas de alta tensión de energía eléctrica, oleoductos o poliductos, o bien, zonas inundables, de deslaves o derrumbes;
+
+b) Generen inestabilidad en laderas, zonas de pozos, cavernas, minas, o de derechos de vía de carreteras o ferrocarril; o
+
+c) Estén ubicadas en zonas bajo la influencia de depósitos de residuos peligrosos, confinamiento de desechos industriales o rellenos sanitarios.
 
 Al responsable de Atentados al Desarrollo Urbano Ordenado se le aplicarán de 5 a 15 años de prisión y de 300 a 500 días multa, y al pago de la reparación de los daños y perjuicios ocasionados.
 
@@ -5956,3 +5970,9 @@ El presente Decreto iniciará su vigencia al día siguiente de su publicación e
 ###### ARTÍCULO SEGUNDO
 
 El Procurador General de Justicia del Estado, antes del 30 de noviembre del 2011, deberá expedir las disposiciones administrativas correspondientes en materia de protección de personas en los términos que señala la Ley General para Prevenir y Sancionar los Delitos en Materia de Secuestro, sin menos cabo de las medidas de protección otorgadas previamente.
+
+P.O. 31 DE OCTUBRE DE 2011.
+
+###### ARTICULO ÚNICO.
+
+El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
