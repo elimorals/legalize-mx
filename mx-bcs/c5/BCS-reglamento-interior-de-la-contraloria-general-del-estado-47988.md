@@ -4,7 +4,7 @@ identifier: "BCS-reglamento-interior-de-la-contraloria-general-del-estado-47988"
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-01-05"
-last_updated: "2006-01-05"
+last_updated: "2011-10-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=47988&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "BCS"
 
 REGLAMENTO INTERIOR DE LA CONTRALORIA GENERAL DEL ESTADO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO PRIMERO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA CONTRALORIA GENERAL DEL ESTADO, PUBLICADO EN EL B.O. DE 31 DE OCTUBRE DE 2011, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: ABROGADO.
 
 Reglamento publicado en el Boletín Oficial del Estado de Baja California Sur, el jueves 5 de enero de 2006.
 
@@ -512,3 +514,27 @@ VÍCTOR MANUEL GULUARTE CASTRO
 EL CONTRALOR GENERAL DEL ESTADO
 
 ROMÁN PABLO RANGEL PINEDO
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+B.O. 31 DE OCTUBRE DE 2011.
+
+###### ARTÍCULO PRIMERO.
+
+Se abroga el Reglamento Interior de la Contraloría General del Estado de fecha 22 de diciembre del 2005, publicado en el Boletín Oficial del Gobierno del Estado de Baja California Sur, número 1, de fecha 5 de enero del 2006. Así como las disposiciones reglamentarias que se opongan al presente Reglamento Interno.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Reglamento Interior entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+###### ARTÍCULO TERCERO.
+
+Las facultades de las Unidades Administrativas que no se contemplan en el presente Reglamento, se establecerán en los manuales de organización respectivos.
+
+###### ARTÍCULO CUARTO.
+
+En un plazo que no exceda de 120 días naturales, contados a partir de la fecha de entrada en vigor del presente Reglamento Interior, se deberán expedir los Manuales de Organización, Procedimiento y en su caso de Servicios al Público de las Unidades Administrativas de la Contraloría General del Estado.
+
+###### ARTICULO QUINTO.
+
+En tanto se actualizan y expiden los Manuales de Organización, de Procedimientos y en su caso de Servicios al Público que este Reglamento Interno menciona, el Contralor General queda para resolver las cuestiones que conforme a dichos manuales se deban regular.
