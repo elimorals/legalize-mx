@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-del-concurso-de-oposicion-del-tribunal-superior-6868
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-09-03"
-last_updated: "2011-09-20"
+last_updated: "2011-10-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68684&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2004-08-11"
 
 REGLAMENTO DEL CONCURSO DE OPOSICION DEL TRIBUNAL SUPERIOR DE JUSTICIA DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 20 DE SEPTIEMBRE DE 2011.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 31 DE OCTUBRE DE 2011.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el martes 3 de agosto de 2004.
 
@@ -115,6 +115,10 @@ Si se tratare de Concurso Libre, la convocatoria deberá ser publicada por una s
 ###### Artículo 8.
 
 El Instituto de Estudios Judiciales proporcionará a los aspirantes los formatos de solicitudes de inscripción a los Concursos, para que manifiesten los datos que se les requieran y anexen la documentación que sea necesaria para acreditar los requisitos que la Ley exige para ser Juez de Primera Instancia o de Paz.
+
+> <small>(ADICIONADO, G.O. 31 DE OCTUBRE DE 2011)</small>
+
+No procederá la solicitud de registro del aspirante que se encuentre inscrito en un concurso de oposición diverso y que este, no se haya declarado desierto, o en su caso concluido por el pleno del Consejo de la Judicatura del Distrito Federal; tampoco procederá la inscripción simultánea para participar en varios concursos.
 
 El Instituto de Estudios Judiciales asignará un número de inscripción y una clave de identificación, garantizando en todo momento la confidencialidad de la identidad de los concursantes, y formará expediente de cada uno que satisfaga tales requisitos; elaborará una relación de ellos, agrupándolos por ramo, instancia y vacante respectiva, a efecto de formular oportunamente una propuesta de integración de los grupos correspondientes ante el Consejo, para que se le asigne Jurado y emita los acuerdos que sean procedentes.
 
@@ -255,3 +259,7 @@ Artículo Segundo. - El presente Reglamento entrará en vigor al día siguiente 
 G.O. 20 DE SEPTIEMBRE DE 2011.
 
 UNICO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Boletín Judicial del Tribunal Superior de Justicia del Distrito Federal. Para su mayor difusión publíquese en la Gaceta Oficial del Distrito Federal, por una sola ocasión.
+
+G.O. 31 DE OCTUBRE DE 2011.
+
+ÚNICO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Boletín Judicial del Tribunal Superior de Justicia del Distrito Federal. Para su mayor difusión publíquese en la Gaceta Oficial del Distrito Federal, por una sola ocasión.
