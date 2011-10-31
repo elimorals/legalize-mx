@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interno-de-la-comision-nacional-de-los-derechos-3400
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-09-29"
-last_updated: "2009-11-03"
+last_updated: "2011-10-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34003&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2003-08-12"
 
 REGLAMENTO INTERNO DE LA COMISION NACIONAL DE LOS DERECHOS HUMANOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 3 DE NOVIEMBRE DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 31 DE OCTUBRE DE 2011.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el lunes 29 de septiembre de 2003.
 
@@ -89,7 +89,11 @@ c. Los autos y acuerdos dictados por el juez o por el personal del juzgado o tri
 
 d. Resoluciones análogas a las jurisdiccionales en materia administrativa: las señaladas en los incisos anteriores emitidas por tribunales que se encuentren fuera de los poderes judiciales, tanto de la Federación como de las entidades federativas;
 
-X. Asuntos laborales: los suscitados entre uno o varios patrones y uno o más trabajadores, incluso cuando el patrón sea una autoridad o dependencia federal, estatal o municipal, para efectos de lo dispuesto en el artículo 7o. fracción III de la Ley. No están comprendidos los actos u omisiones atribuibles a servidores públicos dentro del desahogo de los procedimientos sustanciados ante las autoridades administrativas del ámbito laboral.
+> <small>(REFORMADA, D.O.F. 31 DE OCTUBRE DE 2011)</small>
+
+X. Asuntos laborales: Los actos u omisiones atribuibles a servidores públicos relacionados con el desarrollo de procedimientos sustanciados ante las autoridades del ámbito laboral.
+
+La competencia de la comisión no comprende la facultad para conocer de los conflictos suscitados entre uno o varios patrones y uno o más trabajadores o uno o más sindicatos, ni entre sindicatos y/o trabajadores, incluso cuando el patrón sea una autoridad o dependencia federal, estatal o municipal.
 
 ###### Artículo 3o.
 
@@ -155,7 +159,9 @@ Si en un escrito de queja estuvieren involucrados tanto servidores públicos o a
 
 (Competencia de organismos especializados)
 
-Los escritos de queja referentes a presuntas violaciones a los derechos humanos atribuibles a servidores públicos de organismos con facultades para atender las quejas y defender los derechos de los particulares, tales como las procuradurías Agraria, Federal del Consumidor, Federal de Protección al Ambiente o Federal de la Defensa del Trabajo, Comisión Nacional de Arbitraje Médico, Comisión Nacional Bancaria y de Valores, Comisión Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros, Consejo Nacional para Prevenir la Discriminación, Instituto Federal de Acceso a la Información Pública y los demás que cuenten con facultades similares, quedarán comprendidas dentro de la competencia de la Comisión Nacional.
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE OCTUBRE DE 2011)</small>
+
+Los escritos de queja referentes a presuntas violaciones a los derechos humanos atribuibles a servidores públicos de organismos con facultades para atender las quejas y defender los derechos de los particulares, tales como las procuradurías Agraria, Federal del Consumidor, Federal de Protección al Ambiente, Federal de la Defensa del Trabajo o Federal de los Trabajadores al Servicio del Estado, Comisión Nacional de Arbitraje Médico, Comisión Nacional Bancaria y de Valores, Comisión Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros, Consejo Nacional para Prevenir la Discriminación, Instituto Federal de Acceso a la Información Pública y Protección de Datos Personales, y los demás que cuenten con facultades similares, quedarán comprendidas dentro de la competencia de la Comisión Nacional.
 
 La resolución que tome la Comisión Nacional se basará en los resultados que arroje la investigación que de conformidad con los lineamientos previstos en la Ley y el presente Reglamento se prevén para el trámite de los expedientes de queja. Las resoluciones tendrán la misma naturaleza de las que se envíen a los organismos locales, en los términos de los artículos 168, 169 y 170 del presente Reglamento.
 
@@ -2042,3 +2048,9 @@ D.O.F. 3 DE NOVIEMBRE DE 2009.
 PRIMERO. El presente Acuerdo deberá ser publicado en la Gaceta de la Comisión Nacional de los Derechos Humanos y en el Diario Oficial de la Federación.
 
 SEGUNDO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 31 DE OCTUBRE DE 2011.
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. El presente Acuerdo deberá ser publicado en la Gaceta de la Comisión Nacional de los Derechos Humanos.
