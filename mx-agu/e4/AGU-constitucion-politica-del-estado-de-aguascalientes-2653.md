@@ -4,7 +4,7 @@ identifier: "AGU-constitucion-politica-del-estado-de-aguascalientes-2653"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-09"
-last_updated: "2011-01-17"
+last_updated: "2011-10-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2653&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "AGU"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE AGUASCALIENTES
 
-> <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO EN EL ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO NÚMERO 1, PUBLICADO EN EL P.O. 13 DE DICIEMBRE DE 1992, TODO ORDENAMIENTO Y DEMÁS ESCRITOS QUE REFIERAN LA DENOMINACIÓN "TESORERÍA GENERAL" O "TESORERO GENERAL", EN LO SUCESIVO SERÁN "SECRETARÍA DE FINANZAS" O "SECRETARIO DE FINANZAS", SEGÚN CORRESPONDA.</small>
+> <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO EN EL ARTICULO SEGUNDO TRANSITORIO DEL DECRETO NUMERO 125, PUBLICADO EN EL P.O. 31 DE OCTUBRE DE 2011, TODA REFERENCIA REALIZADA EN CUALQUIER ORDENAMIENTO A LA LEY SUPERIOR DEL ESTADO DE AGUASCALIENTES, SE ENTENDERA HECHA A LA LEY DE FISCALIZACION SUPERIOR DEL ESTADO DE AGUASCALIENTES.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE ENERO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE OCTUBRE DE 2011.
 
 Constitución publicada en el Periódico Oficial del Estado de Aguascalientes, los domingos 9, 16 y 23 de septiembre de 1917.
 
@@ -495,13 +495,15 @@ Los empréstitos que solicite el Estado y los municipios sólo se autorizarán c
 
 V.- Revisar la Cuenta Pública del año anterior, que deberán presentarle a más tardar el 28 de febrero de cada año los titulares de los Poderes del Estado, los Ayuntamientos de la Entidad, las dependencias definidas como tales en la Ley Orgánica de la Administración Pública y en la Ley Municipal, los organismos paraestatales o paramunicipales, organismos autónomos, empresas de participación mayoritaria y fideicomisos pertenecientes a la Administración Pública Descentralizada de Gobierno del Estado y de los Ayuntamientos.
 
-La ampliación del plazo de entrega de ésta, estará sujeta a una solicitud justificada a juicio del Congreso y en su caso la prórroga no podrá exceder de 15 días naturales y en tal supuesto, la Entidad de Fiscalización Superior del Estado, contará con el mismo tiempo adicional para la presentación del Informe del resultado de revisión de la Cuenta Pública.
+> <small>(DEROGADO SEGUNDO PARRAFO, P.O. 31 DE OCTUBRE DE 2011)</small>
 
 La revisión de la Cuenta Pública la realizará el Congreso a través de la Entidad de Fiscalización Superior del Estado, denominada Órgano Superior de Fiscalización del Estado de Aguascalientes, para tal efecto, la Cuenta Pública se turnará al Órgano Superior de Fiscalización, por conducto de la Comisión de Vigilancia, a fin de que fiscalice los resultados de la gestión financiera, compruebe que los ingresos estén de acuerdo a la Ley de Ingresos del Estado, que las partidas gastadas estén justificadas y que son conforme con las normas de ejecución de los presupuestos de egresos y el cumplimiento de los objetivos contenidos en los programas.
 
 Si del examen que el Órgano Superior de Fiscalización del Estado realice, aparecieran discrepancias entre las cantidades correspondientes a los ingresos o a los egresos, con relación a los conceptos y las partidas respectivas o no existiera exactitud o justificación en los ingresos obtenidos o en los gastos realizados, se determinarán las responsabilidades de acuerdo con la Ley. En el caso de la revisión sobre el cumplimiento de los objetivos de los programas, dicha entidad sólo podrá emitir las recomendaciones para la mejora en el desempeño de los mismos, en los términos de la Ley.
 
-El Congreso del Estado, concluirá la revisión de la Cuenta Pública a más tardar el 30 de noviembre del año de su presentación, con base en el análisis de su contenido y en las conclusiones técnicas del informe del resultado del Órgano Superior de Fiscalización del Estado, a que se refiere el Artículo 27 C de esta Constitución, sin menoscabo de que el trámite de las observaciones, recomendaciones y acciones promovidas por el Órgano Superior de Fiscalización del Estado, sigan su curso.
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2011)</small>
+
+El Congreso del Estado, concluirá la revisión de la Cuenta Pública en los términos que establece la Ley, con base en el análisis de su contenido y en las conclusiones técnicas del informe del resultado del Órgano Superior de Fiscalización del Estado, sin menoscabo de que el trámite de las observaciones, recomendaciones y acciones promovidas por el Órgano Superior de Fiscalización del Estado, sigan su curso.
 
 Asimismo, los Poderes del Estado, los Municipios y los entes públicos estatales y municipales, rendirán al Congreso del Estado, a más tardar el día 20 de los meses de abril, julio y octubre del año en que se ejerza el presupuesto respectivo, Informe de Avance de Gestión Financiera como parte integrante de las Cuentas Públicas, sobre los resultados físicos y financieros de los programas a su cargo, por los períodos correspondientes al primer, segundo y tercer trimestre del año. Lo anterior, a fin de que el Órgano Superior de Fiscalización del Estado fiscalice el trámite y la conclusión de los procesos correspondientes, los ingresos y egresos; el manejo, la custodia y la aplicación de sus fondos y recursos; y en su caso, emita las recomendaciones en cuanto al cumplimiento de los objetivos contenidos en los programas respectivos.
 
@@ -574,6 +576,10 @@ XXIX.- Expedir las leyes que regulen las relaciones del Estado y de los Municipi
 > <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2010)</small>
 
 XXX.- Citar a solicitud de las dos terceras partes de sus miembros, al Gobernador del Estado, a los titulares de las Secretarías que dependen del Poder Ejecutivo, así como de sus Organismos Descentralizados del Estado o de Empresas de Participación Estatal, cuantas veces fuere necesario para que informen sobre el estado que guardan los asuntos a su cargo y demás aspectos relacionados con el cumplimiento de sus atribuciones, cuando se discuta una ley que sea de su incumbencia, se estudie un negocio relativo a sus actividades o, cuando así lo consideren los legisladores para tratar asuntos de interés público.
+
+> <small>(ADICIONADO, P.O. 31 DE OCTUBRE DE 2011)</small>
+
+Citar, a solicitud de la Comisión Estatal de Derechos Humanos, a las autoridades o servidores públicos que no acepten o incumplan las recomendaciones de dicha Comisión, esto a fin de que comparezcan ante el Pleno Legislativo en sesión Pública, a explicar el motivo de su negativa.
 
 XXXI.- Elegir de entre las propuestas que le presenten sus integrantes a los Consejeros Ciudadanos del Consejo General del Instituto Estatal Electoral, que reúnan los requisitos de la Ley de la materia, por el voto de dos terceras partes de sus integrantes. Si en una primera votación no se obtuviere tal mayoría, se procederá a designarlos mediante el procedimiento de insaculación.
 
@@ -649,21 +655,29 @@ Sin perjuicio del principio de anualidad, el Órgano Superior de Fiscalización 
 
 Asimismo, sin perjuicio del principio de posterioridad, en las situaciones excepcionales que determine la Ley, derivado de denuncias, podrá requerir a las entidades fiscalizadas que procedan a la revisión, durante el ejercicio fiscal en curso, de los conceptos denunciados y le rindan un informe. Si estos requerimientos no fueren atendidos en los plazos y formas señalados por la Ley, se impondrán las sanciones previstas en la misma. El Órgano Superior de Fiscalización del Estado rendirá un informe específico al Congreso del Estado y, en su caso, fincará las responsabilidades correspondientes o promoverá otras responsabilidades ante las autoridades competentes.
 
-II. Entregar el informe del resultado de la revisión de las cuentas públicas al Congreso del Estado por conducto de la Comisión de Vigilancia, a más tardar el 15 de septiembre del año en que éstas debieron presentarse, el cual se someterá al Pleno del Congreso y tendrá carácter de público. Dicho Informe contendrá al menos, las auditorias practicadas, los dictámenes de su revisión, el apartado correspondiente a la fiscalización del manejo de los recursos estatales o municipales, así como de las participaciones federales o estatales en su caso, por parte de las entidades fiscalizadas y verificación del desempeño en el cumplimiento de los objetivos de los programas estatales o municipales, el cumplimiento de las normas de información financiera para el sector público, los resultados de la gestión financiera, la comprobación de que las entidades se ajustaron a la Ley de Ingresos de la Entidad, según corresponda, y al Presupuesto de Egresos, el análisis de las desviaciones presupuestarias en su caso, así como también un apartado específico con las observaciones del Órgano Superior de Fiscalización del Estado que incluya las justificaciones y aclaraciones que, en su caso, las entidades fiscalizadas hayan presentado sobre las mismas.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE OCTUBRE DE 2011)</small>
+
+II. Entregar el informe del resultado de la revisión de las cuentas públicas al Congreso del Estado por conducto de la Comisión de Vigilancia, en los términos que establezca la Ley, el cual se someterá al Pleno del Congreso y tendrá carácter de público. Dicho informe contendrá al menos, las auditorías practicadas, los dictámenes de su revisión, el apartado correspondiente a la fiscalización del manejo de los recursos estatales o municipales, así como de las participaciones federales o estatales en su caso, por parte de las entidades fiscalizadas y verificación del desempeño en el cumplimiento de los objetivos de los programas estatales o municipales, el cumplimiento de las normas de información financiera para el sector público, los resultados de la gestión financiera, la comprobación de que las entidades se ajustaron a la Ley de Ingresos de la Entidad, según corresponda, y al Presupuesto de Egresos, el análisis de las desviaciones presupuestarias en su caso, así como también un apartado específico con las observaciones del Órgano Superior de Fiscalización del Estado que incluya las justificaciones y aclaraciones que, en su caso, las entidades fiscalizadas hayan presentado sobre las mismas.
 
 Para tal efecto, de manera previa a la presentación del informe del resultado, se darán a conocer a las entidades fiscalizadas la parte que les corresponda de los resultados de su revisión, a efecto de que éstas presenten las justificaciones y aclaraciones que correspondan, las cuales deberán ser valoradas por el Órgano Superior de Fiscalización del Estado para la elaboración del informe del resultado de la revisión de la Cuenta Pública.
 
-El titular del Órgano Superior de Fiscalización del Estado enviará a las entidades fiscalizadas, a más tardar a los 10 días hábiles posteriores a que sea entregado al Congreso del Estado el informe del resultado, las recomendaciones y acciones promovidas que correspondan para que, en un plazo de hasta 15 días hábiles, presenten la información y realicen las consideraciones que estimen pertinentes, en caso de no hacerlo se harán acreedores a las sanciones establecidas en la Ley. Este término podrá ser ampliado hasta por 15 días hábiles más, previa petición y si a juicio del titular del Órgano Superior de Fiscalización así lo amerite el caso en concreto. Los plazos anteriores no aplicarán a los pliegos de observaciones y a las promociones de responsabilidades, las cuales se sujetarán a los procedimientos y términos que establezca la Ley.
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2011)</small>
 
-El Órgano Superior de Fiscalización del Estado, deberá pronunciarse en un plazo de 45 días hábiles sobre las respuestas emitidas por las entidades fiscalizadas, en caso de no hacerlo, se tendrán por atendidas las recomendaciones y acciones promovidas.
+Asimismo, para lo concerniente al proceso de Auditoria, se estará a lo dispuesto en la Ley.
+
+> <small>(DEROGADO CUARTO PARRAFO, P.O. 31 DE OCTUBRE DE 2011)</small>
 
 En el caso de las recomendaciones al desempeño, las entidades fiscalizadas deberán precisar ante el Órgano Superior de Fiscalización del Estado, las mejoras realizadas o en su caso, justificar su improcedencia.
 
 El Órgano Superior de Fiscalización del Estado deberá entregar trimestralmente al Congreso del Estado, a más tardar los días 15 de los meses de enero, abril, julio y octubre de cada año, un informe sobre la situación que guardan las observaciones, recomendaciones y acciones promovidas.
 
-El Órgano Superior de Fiscalización del Estado deberá guardar reserva de sus actuaciones, hasta que rinda el informe a que se refiere este inciso. Al respecto, el personal del citado órgano que Intervenga en los diversos procedimientos relativos a la aplicación de las disposiciones constitucionales como a las contenidas en la Ley Superior de Fiscalización del Estado de Aguascalientes, estará obligado a guardar absoluta reserva en lo concerniente a la información y documentación suministrada por los entes fiscalizados o por terceros con ellos relacionados, así como los obtenidos en el ejercicio de las facultades atribuidas a dicho Ente Superior de Fiscalización. La Ley Superior de Fiscalización del Estado establecerá las sanciones aplicables a quienes infrinjan esta disposición.
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2011)</small>
 
-III. Investigar los actos u omisiones que impliquen alguna irregularidad o conducta ilícita en el ingreso, egreso, recaudación, administración, manejo, custodia y aplicación de fondos y recursos federales, estatales o municipales y efectuar visitas domiciliarias para exigir la exhibición de libros, documentos y demás información indispensables para la realización de sus investigaciones, sujetándose a la Ley Superior de Fiscalización del Estado, así como a la demás legislación aplicable: y
+El Órgano Superior de Fiscalización del Estado deberá guardar reserva de sus actuaciones, hasta que rinda el informe a que se refiere esta Fracción. Al respecto, el personal del citado órgano que intervenga en los diversos procedimientos relativos a la aplicación de las disposiciones constitucionales como a las contenidas en la Ley de Fiscalización Superior del Estado de Aguascalientes, estará obligado a guardar absoluta reserva en lo concerniente a la información y documentación suministrada por los entes fiscalizados o por terceros con ellos relacionados, así como los obtenidos en el ejercicio de las facultades atribuidas a dicho Ente Superior de Fiscalización. La Ley de Fiscalización Superior del Estado establecerá las sanciones aplicables a quienes infrinjan esta disposición.
+
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2011)</small>
+
+III. Investigar los actos u omisiones que impliquen alguna irregularidad o conducta ilícita en el ingreso, egreso, recaudación, administración, manejo, custodia y aplicación de fondos y recursos federales, estatales o municipales y efectuar visitas domiciliarias para exigir la exhibición de libros, documentos y demás información indispensables para la realización de sus investigaciones, sujetándose a la Ley de Fiscalización Superior del Estado, así como a la demás legislación aplicable; y
 
 IV. Determinar los daños y perjuicios que afecten a la hacienda pública de las entidades y fincar directamente a los responsables las indemnizaciones y sanciones pecuniarias correspondientes, así como promover ante las autoridades competentes el fincamiento de otras responsabilidades promover las acciones de responsabilidad a que se refiere el Capítulo Décimo Sexto de esta Constitución y presentar las denuncias y querellas penales, en cuyos procedimientos tendrá la intervención que señale la Ley.
 
@@ -699,7 +713,9 @@ IV.- Cambiar temporalmente la residencia de los Poderes del Estado, en casos de 
 
 V.- Recibir durante el receso del Congreso del Estado las iniciativas de Ley o proposiciones y turnarlas para dictamen a las comisiones del Congreso que por razón de su competencia les corresponda, a fin de que se despachen en el inmediato periodo de sesiones.
 
-VI.- Ejercer las mismas funciones que el Congreso en los casos de las fracciones XIV, XVI, XVII y XVIII del Artículo 27 de esta Constitución; y
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2011)</small>
+
+VI.- Ejercer las mismas funciones que el Congreso en los casos de las Fracciones XIV, XVI, XVII, XVIII y XXX párrafo segundo, del Artículo 27 de esta Constitución; y
 
 VII.- Las demás que le confiere esta Constitución.
 
@@ -1153,17 +1169,37 @@ V.- Los agentes del Ministerio Público, los peritos y los miembros de las insti
 
 Las autoridades estatales y municipales fortalecerán el sistema se seguridad social del personal del Ministerio Público, de las corporaciones policiales y de los servicios periciales, de sus familias y dependientes mediante un sistema complementario de seguridad social y de reconocimientos.
 
-> <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 2001)</small>
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2011)</small>
 
 ###### Artículo 62.
 
-El Congreso del Estado, en el ámbito de su competencia, establecerá como el organismo de protección a los derechos humanos a la Comisión Estatal de Derechos Humanos, la cual conocerá de quejas en contra de actos u omisiones de naturaleza administrativa, provenientes de cualquier autoridad o servidor público estatal que viole derechos humanos; asimismo, formulará recomendaciones públicas, autónomas, no vinculatorias, denuncias y quejas ante las autoridades respectivas.
+La Comisión Estatal de Derechos Humanos es el órgano garante de la protección de los derechos humanos en el Estado de Aguascalientes; contará con autonomía de gestión y presupuestaria, personalidad jurídica y patrimonio propios; conocerá de las quejas en contra de actos u omisiones de naturaleza administrativa, provenientes de cualquier autoridad o servidor público estatal que viole derechos humanos; así mismo, formulará recomendaciones públicas, no vinculatorias, denuncias y quejas ante las autoridades respectivas.
 
-Este organismo no será competente tratándose de asuntos electorales, laborales ni jurisdiccionales, ni de consultas formuladas por autoridades, particulares u otras entidades sobre la interpretación de las disposiciones constitucionales y de la legislación reglamentaria.
+Toda autoridad o servidor público estatal tiene la obligación de responder las recomendaciones que les presente la Comisión Estatal de Derechos Humanos.
 
-(REFORMADO, P.O. 17 DE MARZO DE 2003)(F. DE E., P.O. 21 DE ABRIL DE 2003)
+Cuando dichas recomendaciones no sean aceptadas o cumplidas por las autoridades o servidores públicos, éstos deberán fundar, motivar y hacer pública su negativa. La Comisión Estatal de Derechos Humanos podrá solicitar al Congreso del Estado que llame a comparecer a las autoridades o servidores públicos responsables para que expliquen el motivo de su negativa.
 
-Para el pleno desempeño de sus atribuciones la Comisión Estatal de Derechos Humanos contará con un Consejo Consultivo integrado por cinco personas, con carácter honorífico, con conocimiento de diversas materias técnicas, científicas y humanísticas, para la resolución de casos que requieran de sus conocimientos, quienes serán designados por el Congreso del Estado, por un período igual al del Presidente de la Comisión Estatal de Derechos Humanos.
+Este organismo no será competente tratándose de asuntos electorales y jurisdiccionales.
+
+Para ser electo como titular de la Comisión Estatal de Derechos Humanos se deberá acreditar experiencia y amplios conocimientos en materia de derechos humanos y demás requisitos que señale la Ley.
+
+El titular de la Comisión Estatal de Derechos Humanos durará un período de cuatro años y podrá ser reelecto por una sola vez.
+
+La Comisión Estatal de Derechos Humanos contará con un Consejo Consultivo integrado por cinco personas con carácter honorífico. Los consejeros para ser electos deberán demostrar conocimiento en diversas materias técnicas, científicas y humanistas, para la resolución de casos en que requieran de su pericia. Los consejeros ocuparan el cargo por cuatro años sin posibilidad de reelección en el período inmediato.
+
+La elección del titular de la Comisión Estatal de Derechos Humanos, así como de los integrantes del Consejo Consultivo, se sujetará a un procedimiento de consulta pública transparente en los siguientes términos:
+
+l. El Congreso del Estado recibirá las propuestas de aspirantes que formulen asociaciones civiles que estén legalmente constituidas y cuyo objeto este Vinculado con la difusión y protección de los derechos humanos, así como agrupaciones de profesionistas e instituciones de educación superior en el Estado, en la forma y términos que señale la ley;
+
+II. El Congreso del Estado verificará qué aspirantes cumplen con los requisitos constitucionales y legales y formulará una lista de candidatos para ocupar la presidencia y otra de candidatos para integrar el Consejo Consultivo. Si el titular del organismo tiene y hace valer su expectativa de derecho a ser reelecto, formará parte de la lista correspondiente;
+
+III. El Congreso del Estado someterá las listas formuladas a una consulta pública, en la forma y términos que determine la ley;
+
+IV. El Pleno del Congreso del Estado elegirá al titular de este organismo con el voto de las dos terceras partes de los Diputados presentes; y a los miembros del Consejo Consultivo por medio de insaculación;
+
+V. El Congreso del Estado llamará a los electos para que rindan la protesta de ley.
+
+La Ley establecerá las bases del servicio profesional en el organismo.
 
 > <small>(REFORMADO, P.O. 13 DE AGOSTO DE 1950)</small>
 
@@ -1711,7 +1747,7 @@ La reforma del artículo 43, que se refiere a la renovación total de los Ayunta
 
 P.O. 19 DE DICIEMBRE DE 1937.
 
-EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE AGUASCALIENTES.
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE AGUASCALIENTES.
 
 P.O. 14 DE DICIEMBRE DE 1943.
 
@@ -1821,9 +1857,9 @@ EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITO
 
 P.O. 5 DE ENERO DE 1975.
 
-DECRETO NÚMERO 14, POR EL QUE SE REFORMA EL ARTÍCULO 48 DE LA CONSTITUCIÓN POLÍTICA LOCAL.
+DECRETO No. 14, POR EL QUE SE REFORMA EL ARTICULO 48 DE LA CONSTITUCION POLITICA LOCAL.
 
-EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE AGUASCALIENTES.
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE AGUASCALIENTES.
 
 P.O. 31 DE AGOSTO DE 1975.
 
@@ -2199,9 +2235,11 @@ P.O. 8 DE DICIEMBRE DE 2008.
 
 El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado, salvo lo previsto en el Transitorio Quinto siguiente.
 
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2011)</small>
+
 ###### ARTÍCULO SEGUNDO.
 
-El Congreso del Estado expedirá las reformas a su Ley Orgánica, Reglamento Interior y demás disposiciones relacionadas y emitirá la Ley Superior de Fiscalización del Estado de Aguascalientes a efecto de dar cumplimiento al presente Decreto.
+El Congreso del Estado expedirá las reformas a su Ley Orgánica, Reglamento Interior y demás disposiciones relacionadas y emitirá la Ley de Fiscalización Superior del Estado de Aguascalientes, a efecto de dar cumplimiento al presente Decreto.
 
 ###### ARTÍCULO TERCERO.
 
@@ -2392,3 +2430,31 @@ c) Los incrementos a las retribuciones nominales o adicionales sólo podrán rea
 ###### ARTICULO CUARTO.
 
 El Congreso del Estado de Aguascalientes deberá aprobar las reformas a las leyes que sean necesarias para dar cumplimiento a lo dispuesto en el presente Decreto, así como tipificar y sancionar penal y administrativamente las conductas de los servidores públicos cuya finalidad sea eludir lo dispuesto en el presente Decreto, dentro de los plazos que se establecen en los Artículos Cuarto y Quinto Transitorios del decreto publicado en el Diario Oficial de la Federación el veinticuatro del mes de agosto del 2009.
+
+P.O. 31 DE OCTUBRE DE 2011.
+
+DECRETO NÚMERO 98, POR EL QUE SE ADICIONA UN PÁRRAFO SEGUNDO A LA FRACCIÓN XXX DEL ARTÍCULO 27; ASIMISMO, SE REFORMAN LOS ARTÍCULOS 29, FRACCIÓN VI Y 62 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE AGUASCALIENTES.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+El actual titular de la Comisión Estatal de Derechos Humanos continuará desempeñando el cargo hasta que termine el período por el que ya fue reelecto, luego del cual no podrá volver a reelegirse.
+
+###### ARTÍCULO TERCERO.
+
+El Congreso del Estado deberá realizar las reformas legales acordes al presente Decreto antes del 10 de junio del año 2012.
+
+P.O. 31 DE OCTUBRE DE 2011.
+
+DECRETO NÚMERO 125, POR EL QUE SE DEROGA EL PÁRRAFO SEGUNDO Y SE REFORMA EL PÁRRAFO QUINTO DE LA FRACCIÓN V DEL ARTÍCULO 27; SE REFORMAN LOS PÁRRAFOS PRIMERO, TERCERO, SE DEROGA EL PÁRRAFO CUARTO Y SE REFORMA EL PÁRRAFO SÉPTIMO DE LA FRACCIÓN II, ASÍ MISMO SE REFORMA LA FRACCIÓN III DEL ARTÍCULO 27 C; Y SE REFORMA EL ARTÍCULO SEGUNDO DE LAS DISPOSICIONES TRANSITORIAS DEL DECRETO NUMERO 144 PUBLICADO EN EL PERIÓDICO OFICIAL DEL ESTADO, EL 8 DE DICIEMBRE DEL AÑO 2008 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE AGUASCALIENTES.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTICULO SEGUNDO.
+
+Toda referencia realizada en cualquier ordenamiento a la Ley Superior del Estado de Aguascalientes, se entenderá hecha a la Ley de Fiscalización Superior del Estado de Aguascalientes.
