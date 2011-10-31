@@ -4,7 +4,7 @@ identifier: "AGU-ley-patrimonial-del-estado-de-aguascalientes-17534"
 country: "mx"
 rank: "ley"
 publication_date: "2000-09-25"
-last_updated: "2011-10-17"
+last_updated: "2011-10-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17534&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "AGU"
 ---
 # LEY PATRIMONIAL DEL ESTADO DE AGUASCALIENTES
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 31 DE OCTUBRE DE 2011 EN EL P.O. DEL ESTADO DE AGUASCALIENTES, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 LEY PATRIMONIAL DEL ESTADO DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE OCTUBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE OCTUBRE DE 2011.
+
+> <small>N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 31 DE OCTUBRE DE 2011 NO APLICA AL ARTICULADO DEL DECRETO 123 PUBLICADO EN EL P.O. DE 17 DE OCTUBRE DE 2011.</small>
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el lunes 25 de septiembre de 2000.
 
@@ -255,7 +255,7 @@ Las adquisiciones de bienes inmuebles a que se refiere este Capítulo, no podrá
 
 #### SECCION PRIMERA. Disposiciones Generales
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE AGOSTO DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE AGOSTO DE 2005)</small>
 
 ###### ARTICULO 20.
 
@@ -557,7 +557,7 @@ El representante de la Contraloría General del Estado o el órgano de control c
 
 #### SECCION CUARTA. Del Padrón de Proveedores de Gobierno del Estado
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE AGOSTO DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE AGOSTO DE 2005)</small>
 
 ###### ARTICULO 47.
 
@@ -633,7 +633,7 @@ III. Por concurso; y
 
 IV. Por compra directa.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE AGOSTO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE AGOSTO DE 2009)</small>
 
 ###### ARTICULO 54.
 
@@ -1363,9 +1363,9 @@ Si algún proveedor participante en alguna licitación pública, concurso o invi
 
 La resolución que emita la Contraloría, sin perjuicio de la responsabilidad que proceda respecto de los servidores públicos que hayan intervenido, tendrá, por consecuencia:
 
-(sic) La nulidad del procedimiento a partir del acto o actos irregulares, estableciendo las directrices necesarias para que el mismo se realice conforme a la Ley;
+La nulidad del procedimiento a partir del acto o actos irregulares, estableciendo las directrices necesarias para que el mismo se realice conforme a la Ley;
 
-II. La nulidad total del procedimiento; o
+II (sic). La nulidad total del procedimiento; o
 
 III. La declaración de improcedencia de la inconformidad.
 
@@ -1445,7 +1445,7 @@ EL SECRETARIO GENERAL DE GOBIERNO,
 
 Lic. Abelardo Reyes Sahagún.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 26 DE NOVIEMBRE DE 2001.
 
