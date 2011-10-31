@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-de-la-escuela-judicial-del-estado-de-mexico-56511"
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-07-24"
-last_updated: "2007-07-24"
+last_updated: "2011-10-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56511&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "MEX"
 
 REGLAMENTO DE LA ESCUELA JUDICIAL DEL ESTADO DE MEXICO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO CUARTO TRANSITORIO DEL REGLAMENTO DE LA ESCUELA JUDICIAL DEL ESTADO DE MEXICO, PUBLICADO EN LA SEGUNDA SECCION DE LA G.G. 31 DE OCTUBRE DE 2011, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN LA GACETA DE GOBIERNO: ABROGADO.
 
 Reglamento publicado en la Sección Primera de la Gaceta del Gobierno del Estado de México, el martes 24 de julio de 2007.
 
@@ -1822,3 +1824,19 @@ LICENCIADO HECTOR MACEDO GARCIA
 SECRETARIO GENERAL DE ACUERDOS
 
 (RUBRICA).
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS DEL PRESENTE ORDENAMIENTO.</small>
+
+G.G. 31 DE OCTUBRE DE 2011.
+
+PRIMERO. Publíquese este Reglamento en el Periódico Oficial "Gaceta del Gobierno" y en el Boletín Judicial del Poder Judicial del Estado.
+
+SEGUNDO. Este Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO. Para todo aquello que no se encuentre expresamente previsto por el presente reglamento, el Consejo determinará lo aplicable al caso concreto.
+
+CUARTO. Queda abrogado el Reglamento de la Escuela Judicial, aprobado el once de julio de dos mil siete y publicado el veinticuatro de julio de dos mil siete, en la Gaceta del Gobierno del Estado.
+
+QUINTO. Los concursos de oposición y los de evaluación integral y ratificación para jueces de primera instancia y de cuantía menor, que se encuentren en trámite, se regirán hasta su conclusión, por la normatividad que se abroga.
+
+SEXTO. En tanto se expiden los instrumentos normativos complementarios, se seguirán aplicando las disposiciones jurídicas vigentes, en lo que no contradigan este Acuerdo.
