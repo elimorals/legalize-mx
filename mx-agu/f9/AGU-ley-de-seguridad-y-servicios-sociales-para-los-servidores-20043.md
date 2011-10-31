@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-seguridad-y-servicios-sociales-para-los-servidores-20043
 country: "mx"
 rank: "ley"
 publication_date: "2001-01-29"
-last_updated: "2011-10-17"
+last_updated: "2011-10-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=20043&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "AGU"
 ---
 # LEY DE SEGURIDAD Y SERVICIOS SOCIALES PARA LOS SERVIDORES PUBLICOS DEL ESTADO DE AGUASCALIENTES
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 31 DE OCTUBRE DE 2011 EN EL P.O. DEL ESTADO DE AGUASCALIENTES, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 LEY DE SEGURIDAD Y SERVICIOS SOCIALES PARA LOS SERVIDORES PUBLICOS DEL ESTADO DE AGUASCALIENTES
 
 ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE OCTUBRE DE 2011.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL P.O. DE 31 DE OCTUBRE DE 2011.</small>
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el 29 de enero de 2001.
 
@@ -163,15 +163,13 @@ Los recursos para los gastos de administración del Instituto y los otros que re
 
 El método de valuación para el seguro de defunción será el de proyecciones demográfico-financieras. Las primas de los seguros derivadas de dicha valuación, así como la determinación de las reservas para el seguro de defunción y gastos funerarios se cuantificarán en el análisis financiero y actuarial de cada ejercicio.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 31 DE OCTUBRE DE 2011 EN EL P.O. DEL ESTADO DE AGUASCALIENTES, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA, ASÍ COMO EL ARCHIVO ANEXO.</small>
-
 ###### ARTICULO 15.
 
 La constitución de las reservas actuariales, será prioritaria sobre las financieras y se dará preferencia a aquéllas que sirvan para garantizar el pago de las pensiones.
 
-> <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 2011)</small>
+(REFORMADO, P.O. 17 DE OCTUBRE DE 2011) (F. DE E., P.O. 31 DE OCTUBRE DE 2011)
 
-La inversión de las reservas financieras del Instituto deberá hacerse preferentemente a través de fideicomisos, en instrumentos de deuda, específicamente en valores gubernamentales, bancarios, y/o instrumentos de deuda corporativa con calificación AA, y excepcionalmente, en inversiones propias del Instituto que incrementen el patrimonio de los servidores públicos, siempre que se realicen bajo un rígido estudio de prefactibilidad financiera.
+La inversión de las reservas financieras del Instituto deberá hacerse preferentemente a través de fideicomisos, en instrumentos de deuda, específicamente en valores gubernamentales, bancarios, y/o instrumentos de deuda corporativa con calificación AA+, y excepcionalmente, en inversiones propias del Instituto que incrementen el patrimonio de los servidores públicos, siempre que se realicen bajo un rígido estudio de prefactibilidad financiera.
 
 Toda inversión deberá asegurar las mejores condiciones posibles de seguridad, rendimiento y liquidez, vigilando el Comité Técnico de Fideicomisos e Inversiones en todo momento, que la tasa promedio del interés obtenido, sea al menos igual a la tasa pasiva líder del mercado bancario del mismo período.
 
