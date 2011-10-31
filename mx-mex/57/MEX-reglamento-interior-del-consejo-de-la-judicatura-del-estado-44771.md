@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-interior-del-consejo-de-la-judicatura-del-estado-447
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-04-01"
-last_updated: "2005-04-01"
+last_updated: "2011-10-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44771&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "MEX"
 
 REGLAMENTO INTERIOR DEL CONSEJO DE LA JUDICATURA DEL ESTADO DE MEXICO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO TERCERO TRANSITORIO DEL REGLAMENTO INTERIOR DEL CONSEJO DE LA JUDICATURA DEL ESTADO DE MEXICO, PUBLICADO EN LA G.G. DE 31 DE OCTUBRE DE 2011, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN LA GACETA DE GOBIERNO: ABROGADO.
 
 Reglamento publicado en la Sección Cuarta de la Gaceta del Estado de México, el viernes 1 de abril de 2005.
 
@@ -1018,3 +1020,17 @@ SECRETARIO GENERAL DE ACUERDOS
 LIC. GUILLERMO ESTRADA CARRASCO
 
 (RUBRICA).
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+G.G. 31 DE OCTUBRE DE 2011.
+
+PRIMERO. Publíquese este Acuerdo en la Gaceta del Gobierno del Estado y en el Boletín Judicial del Poder Judicial del Estado.
+
+SEGUNDO. Este Acuerdo entrará en vigor el uno de noviembre de dos mil once.
+
+TERCERO. Se abroga el Reglamento Interior del Consejo de la Judicatura del Estado de México, publicado en la Gaceta del Gobierno del Estado, del uno de abril de dos mil cinco.
+
+CUARTO. Se derogan las disposiciones que de igual o menor jerarquía se opongan a este Acuerdo.
+
+QUINTO. En tanto se expiden los instrumentos normativos complementarios, se seguirán aplicando las disposiciones jurídicas vigentes, en lo que no contradigan este Acuerdo.
