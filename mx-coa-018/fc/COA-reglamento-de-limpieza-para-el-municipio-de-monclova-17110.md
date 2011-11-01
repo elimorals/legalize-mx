@@ -4,7 +4,7 @@ identifier: "COA-reglamento-de-limpieza-para-el-municipio-de-monclova-17110"
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-04-18"
-last_updated: "2000-04-18"
+last_updated: "2011-11-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17110&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COA"
 
 REGLAMENTO DE LIMPIEZA PARA EL MUNICIPIO DE MONCLOVA, COAHUILA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE NOVIEMBRE DE 2011.
 
 Reglamento publicado en el Periódico Oficial del Estado de Coahuila de Zaragoza, el martes 18 de abril de 2000.
 
@@ -171,131 +171,203 @@ II. En el supuesto de que no convenga en los términos señalados, los propietar
 
 Los usuarios procurarán separar los desechos sólidos en orgánicos e inorgánicos, de conformidad con el procedimiento que al efecto emita el DEPARTAMENTO.
 
-### CAPITULO III. DE LAS OBLIGACIONES
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 1 DE NOVIEMBRE DE 2011)</small>
+
+### CAPITULO III. DE LAS OBLIGACIONES DE LOS HABITANTES Y DE LAS PERSONAS QUE TRANSITEN
+
+> <small>(REFORMADO, P.O. 1 DE NOVIEMBRE DE 2011)</small>
 
 ###### ARTICULO 17.
 
-Es obligación de los habitantes del Municipio de Monclova y de las personas que transiten por su territorio, el participar activamente para conservar limpias las vías públicas y áreas comunes de esta ciudad.
+Los habitantes de Monclova y las personas que transiten por su territorio, tienen la obligación de participar en las acciones de limpieza que les corresponden de acuerdo con el presente reglamento, así mismo, con el objeto de lograr la conservación de la limpieza de la ciudad, deberán abstenerse de arrojar en la vía publica cualquier tipo de desecho.
+
+I.- Para llevar acabo (sic) la recolección de basura en los domicilios, se establecerá el horario y la frecuencia por parte de la Dirección de Servicios Públicos, siendo necesario para la recolección, que la basura sea depositada en recipientes en buenas condiciones para evitar derrames, además, deberán colocarse dichos recipientes en la banqueta al momento en que deba pasar el camión recolector. Para realizar lo anterior, el paso del camión deberá ser anunciado con la anticipación que se requiera por un campanillero. El peso total de la basura, no deberá ser mayor a 20 kilogramos.
+
+II.- Tienen la obligación de mantener limpias las fachadas y barridas las banquetas, los propietarios de casa-habitación, encargados, detentadores o poseedores originarios o derivados, así como los dueños o representantes de establecimientos comerciales, industriales, profesionales o de cualquier otra índole.
+
+III.- Tienen obligación los propietarios o poseedores de terrenos baldíos de cercarlos y embanquetarlos en los lados que colinden con la calle o vía pública. Así mismo, deberán conservarlos limpios, libres de basura, escombro y sin maleza, realizando por si mismos o por tercera persona, el desmonte y deshierbe en los plazos señalados por este reglamento, debiendo evitar las condiciones de insalubridad, además, de impedir que sean usados como tiraderos. En este caso se observará lo dispuesto en la Ley de Ingresos para el Municipio.
+
+El hecho de que los inmuebles se encuentren deshabitados o no estén construidos, no releva al propietario, poseedor o encargado de las obligaciones que se contienen en este artículo.
+
+> <small>(REFORMADO, P.O. 1 DE NOVIEMBRE DE 2011)</small>
 
 ###### ARTICULO 18.
 
-Los habitantes del municipio deberán barrer frecuentemente las banquetas y la parte de la calle que le corresponde frente a su domicilio, esta actividad deberá realizarse antes de las 9:30 A.M. en zonas habitacionales y a más tardar a las 10:00 A.M. en las comerciales.
+Con el fin de colaborar con la autoridad municipal en las acciones de limpieza, los habitantes de Monclova barrerán a diario sus respectivas banquetas y la porción equivalente a media calle que por cualquier lado colinde con la casa habitación o con el comercio, industria o cualquier establecimiento instalado.
 
-###### ARTICULO 19.
+Preferentemente, el barrido se realizará por la mañana, según se trate, respectivamente, de casa habitación o de comercio u otro establecimiento.
+
+En caso de que sea necesario hacer el barrido en la noche, este se realizará en el horario comprendido entre las 19:00 y 21:00 horas.
 
 Los habitantes del municipio, deben mantener en buenas condiciones los prados y jardines que se encuentran localizados enfrente de su propiedad.
 
+> <small>(REFORMADO, P.O. 1 DE NOVIEMBRE DE 2011)</small>
+
+###### ARTICULO 19.
+
+Con el fin de crear conciencia en los habitantes del municipio acerca de los enormes beneficios sociales que se obtienen mediante la constante limpieza y conservación de (sic) ciudad limpia, se establecerá através (sic) de medíos de comunicación y con los sectores sociales y privados, en coordinación con la Dirección de Servicios Públicos, campañas de limpieza tendientes a divulgar una cultura de conservación de una ciudad limpia.
+
+> <small>(REFORMADO, P.O. 1 DE NOVIEMBRE DE 2011)</small>
+
 ###### ARTICULO 20.
 
-El lavado de vitrinas, aparadores y ventanas de establecimientos comerciales o de cualquier índole, que preste un servicio al público, deberá hacerse antes de las 10:00 A.M.
+Con el objeto de lograr la conservación de la limpieza de la ciudad, los poseedores de vehículos destinados al transporte de materiales, deberán cubrirlos con los implementos mas adecuados a fin (sic) evitar que la carga se esparza en el trayecto que recorran.
+
+Así mismo, cuando se transporte material que produzca polvo, los vehículos, en la parte correspondiente, deberán cubrirse con lonas cuyas dimensiones sean adecuadas para evitar el que se esparza en la vía pública.
+
+Siendo también obligación de los conductores de vehículos de transporte de materiales, limpiar y barrer el interior de la caja del vehículo, en el mismo lugar en que se hizo la descarga de dicho material para evitar que se escapen polvos, desperdicios o residuos sólidos, durante su recorrido.
+
+> <small>(REFORMADO, P.O. 1 DE NOVIEMBRE DE 2011)</small>
 
 ###### ARTICULO 21.
 
-Los propietarios o encargados de expendios y bodegas de toda clase de artículos, cuya descarga ensucie la vía pública, están obligados al aseo inmediato del lugar una vez terminadas las maniobras respectivas.
+Los propietarios o encargados de obras, bodegas, almacenes, etc. Tienen la obligación de cuidar y evitar que al momento de cargar o descargar no se esparzan los materiales o residuos de las mercancías o sus empaques, debiendo ordenar, en su caso y tan luego como se terminen esas maniobras, que se hagan labores de limpieza y barrido en el lugar.
+
+> <small>(REFORMADO, P.O. 1 DE NOVIEMBRE DE 2011)</small>
 
 ###### ARTICULO 22.
 
-Los propietarios, directores responsables de obra, contratistas y encargados de inmuebles en construcción a demolición, son responsables solidariamente de la diseminación de materiales, escombros y cualquier otra clase de residuos sólidos.
+Tratándose de establecimientos comerciales, industriales o de toda índole que tengan aparadores, vitrinas, escaparates o cualquier otro medio para exponer sus artículos a la vista del público, los propietarios o encargados de los mismos, cuidarán que los cristales o vidrios estén siempre limpios, debiendo realizar u ordenar sea realizado su lavado antes de las 9:30 horas o después de las 22:00 horas.
 
-El frente de las construcciones o inmuebles en demolición, deberá mantenerse en completa limpieza, quedando estrictamente prohibido acumular escombros y materiales en la vía pública, los responsables deberán transportar los escombros a los sitios que determine el DEPARTAMENTO,
+> <small>(REFORMADO, P.O. 1 DE NOVIEMBRE DE 2011)</small>
 
 ###### ARTICULO 23.
 
-Los propietarios, administradores o encargados de los establecimientos que se dedican a la venta de gasolina o servicio de lubricación y limpieza de vehículos, deberán mantenerlos aseados, así como los pavimentos de la vía pública correspondiente al frente de sus locales.
+En el caso de establos o caballerizas, los propietarios por su propia cuenta o por contratación de terceros, harán el transporte del estiércol y de los demás desperdicios que se generen. Siendo además obligatorio, si (sic) excepción alguna, depositarlos en lugares o recipientes adecuados con observancia de los requisitos legales de higiene y salubridad vigentes. Igual obligación tienen si los conservan para utilizarlos o venderlos para abono de la tierra.
+
+> <small>(REFORMADO, P.O. 1 DE NOVIEMBRE DE 2011)</small>
 
 ###### ARTICULO 24.
 
-Los propietarios de edificios o construcciones desocupados o abandonados, así como los propietarios de predios baldíos, deberán conservados limpios de basura y desperdicios e instalar en ellos bardas o cercos conforme a las especificaciones que les marque el DEPARTAMENTO.
+Con el objeto de lograr la conservación de la limpieza en las banquetas y calles de la ciudad, es obligación de los propietarios o encargados de talleres para reparación de automóviles en general, enderezado o pintura de los mismos, abstenerse de utilizar la banqueta o la calle para realizar sus trabajos, siendo su responsabilidad conservarlas limpias, conforme a lo previsto en este reglamento.
+
+Así mismo, los propietarios o encargados de las terminales, depósitos, talleres o establecimientos de servicio de las empresas que explotan servicios de pasajeros o de carga, sean locales o foráneos deberán abstenerse de utilizar la banqueta o la calle para realizar sus trabajos, siendo su responsabilidad conservarlas limpias.
+
+> <small>(REFORMADO, P.O. 1 DE NOVIEMBRE DE 2011)</small>
 
 ###### ARTICULO 25.
 
-Los propietarios de animales domésticos estarán obligados a recoger y a limpiar los desechos fecales que arrojen dichos animales.
+Tratándose de estaciones de servicio para venta de gasolina, aceite, lavado, engrasado o lubricación de automóviles y camiones, los propietarios o encargados serán responsables de que estén siempre limpias las banquetas y calles de los lugares en que se encuentren esos negocios. Así mismo, tienen la obligación de que se depositen en recipientes metálicos que tengan tapa, las estopas, latas vacías u otros materiales de desperdicios que utilicen para la lubricación, limpieza o reparación de los vehículos.
+
+> <small>(REFORMADO, P.O. 1 DE NOVIEMBRE DE 2011)</small>
 
 ###### ARTICULO 26.
 
-Los locatarios de mercados públicos o privados, tanto los ubicados en el interior como los que ocupen locales con frente al exterior, conservarán aseado el espacio comprendido dentro del perímetro de los puestos y depositarán la basura y desperdicios en recipientes metálicos o de plástico, rígido con tapadera que deberán conservar en buen estado.
+Son responsables solidariamente de la diseminación de materiales, escombros o cualquier otra clase de basura los propietarios, directores responsables de obra, contratistas y encargados de inmuebles en construcción o demolición.
 
-Los comerciantes de puesto fijos o semifijos, deberán conservar aseada el área que ocupe el puesto y la que rodee en un radio de 2 metros y depositarán las basuras y desperdicios en recipientes metálicos o de plástico rígido, con tapa, que proporcionarán ellos mismos y que deberán encargarse de limpiar y vaciar directamente en lugares y depósitos apropiados y autorizados.
+Deberán mantenerse en completa limpieza todos los lados de los inmuebles en construcción o demolición que colinden con calle, quedando estrictamente prohibido acumular escombros y materiales en la vía pública.
 
-Los permisionarios y concesionarios de la vía pública tienen la obligación de mantener aseada la banqueta y parte de la calle en un ancho de 2 metros de longitud concesionada; de proveer depósitos metálicos o de plástico rígido, en tamaño y número adecuado para el depósito de basuras y desperdicios, de depositar la basura producto de la limpieza en esos depósitos; de encargarse de la disposición de la basura y desperdicios diariamente y de orientar al público para mantener limpia el área concesionada.
+En caso de que sea inevitable utilizar la vía pública, previamente se deberá obtener el permiso correspondiente de la Dirección de Planeación Urbanismo y Obras Publicas, en tal caso es obligación de los propietarios, directores responsables de obra, contratistas y encargados circundar con blocks o maderas tales materiales, a fin de evitar que sean diseminados. Los responsables están obligados a transportar los escombros y demás materiales a los sitios que autorice la autoridad municipal competente.
+
+> <small>(REFORMADO, P.O. 1 DE NOVIEMBRE DE 2011)</small>
 
 ###### ARTICULO 27.
 
-Los vecinos del Municipio, deberán tener recipientes suficientes y adecuados para el depósito y manejo de los residuos sólidos los cuales deberán ser de metal o plástico a prueba de agua, con tapa, no debiendo exceder de 160 lts., de capacidad, ni pesar más de 25 kg. con todo y basura cada uno. En zonas con servicio de recolección de dos veces por semana, pueden usarse también, bolsas de plástico resistentes, amarradas en forma segura, con peso máximo de 14 kg. cada una.
+En el caso de inmuebles que tengan jardines, árboles o huertos, los propietarios o encargados de los mismos, tienen la obligación de transportar las ramas, troncos, ramazon, hojarasca, pasto, y demás basura procedente de sus jardines o huertos que deriven de podas, derrumbe de árboles o de cualquier otra actividad, debiéndolo hacer por su propia cuenta o por contratación de particulares a los sitios que previamente les sean señalados por la autoridad municipal competente.
 
-La basura deberá ser depositada en sus recipientes o bolsas de plástico cubiertas o cerradas que deberán mantenerse dentro de los predios. El recipiente se sacará a la orilla de la banqueta solamente en el tiempo necesario para su recolección el día y horario señalado por el DEPARTAMENTO.
+> <small>(REFORMADO, P.O. 1 DE NOVIEMBRE DE 2011)</small>
 
 ###### ARTICULO 28.
 
-Las empresas fraccionadoras y constructoras de edificios y conjuntos habitaciones con 10 o más departamentos en un solo predio, los edificios de oficinas con superficie rentable superior a los 100 metros cuadrados, los edificios y centros comerciales con una superficie mayor a 750 metros cuadrados deberán incluir en sus planos y proyectos el contar con contenedores metálicos para basura, cerrables, con capacidad suficiente para el volumen de desechos que se generan tomando en cuenta la población y periodicidad de recolección.
+Tienen obligación de mantener en perfectas condiciones de limpieza y conservación los exteriores de sus instalaciones:
 
-La recolección para estos proveedores de basura de ser insuficiente la capacidad del DEPARTAMENTO, la atenderán concesionarios particulares por cuenta de quienes ocupen los edificios y conjuntos habitacionales anteriormente mencionados, y estas empresas recolectoras particulares deberán estar inscritas en el padrón del Ayuntamiento.
+I.- Los propietarios, administradores o encargados de camiones y transporte colectivo en general, destinados al servicio de pasajeros o de carga, de automóviles de alquiler.
+
+II.- Así mismo, los chóferes u operarios al llegar a la terminal, deberán depositar en recipientes metálicos colocados en la banqueta del establecimiento, la basura y desperdicio provenientes del público usuario para su recolección por una empresa recolectora de basura autorizada por el municipio.
+
+> <small>(REFORMADO, P.O. 1 DE NOVIEMBRE DE 2011)</small>
 
 ###### ARTICULO 29.
 
-Los propietarios, administradores, encargados, o arrendatarios de edificaciones habitacionales, comerciales o públicas, cuyo volumen de Residuos Sólidos generados requieran de servicio con frecuencia mayor de una vez por semana, mandarán colocar en los lugares convenientes en el interior de sus inmuebles, los depósitos necesarios a fin de que ellos se recolecten los residuos sólidos, dichos depósitos deberán satisfacer las necesidades del servicio del inmueble, y cumplir con las condiciones de seguridad e higiene y demás ordenamientos aplicables.
+Son obligación de los propietarios o encargados de estacionamientos de automóviles y talleres de reparación de los mismos, carpintería, pintura y otros establecimientos similares las siguientes:
+
+I.- Pagar los derechos establecidos en la Ley de Ingresos del Municipio, por el servicio de recolección y transportación de la basura que generen. En caso de que estas actividades sean a cargo de particulares contratados para tal efecto, deberán obtenerse de la autoridad municipal competente la autorización para realizar el acarreo con las debidas condiciones de higiene, al lugar que sea autorizado.
+
+II.- Barrer diariamente sus banquetas y la media calle que por cualquier lado colinde con el comercio, industria o cualquier establecimiento instalado, dicho barrido se hará preferentemente durante la mañana antes de abrir el establecimiento y solo cuando sea necesario hacer el barrido en la noche entre las 19:00 y 21:00 horas.
+
+III.- Bajo ninguna circunstancia, ni por ningún motivo utilizarán ni la banqueta ni la calle para realizar sus trabajos, siendo de su responsabilidad que las mismas se conserven limpias.
+
+> <small>(REFORMADO, P.O. 1 DE NOVIEMBRE DE 2011)</small>
 
 ###### ARTICULO 30.
 
-Toda persona física o moral dedicados a la recolección y transporte de residuos sólidos en la Ciudad de Monclova deberá cumplir y sujetarse a las disposiciones que para tal efecto disponga el DEPARTAMENTO debiendo inscribirse en el padrón de empresas y contar con permiso vigente, así mismo deberá sufragar los costos de recolección y transporte de los residuos sólidos al relleno sanitario.
+Tratándose de madererías o carpinterías, los propietarios o encargados de las mismas, tienen la obligación de vigilar que los aserrines, virutas y madera que se deriven de los cortes, cepillados o tallados de la madera, no se acumulen en los lugares donde pueda haber riesgo de que se incendien, ni se dispersen en la vía pública, quedando sujetos a lo dispuesto en el artículo anterior de este reglamento.
+
+> <small>(REFORMADO, P.O. 1 DE NOVIEMBRE DE 2011)</small>
 
 ###### ARTICULO 31.
 
-Los conductores de vehículos destinados a la recolección y transporte de residuos sólidos o cualquier otro tipo de material, deberán cubrir la caja de sus vehículos con el equipo adecuado para evitar que la carga se esparza en el trayecto que recorran: Cuando los materiales que se transportan corran el peligro de esparcirse o producir polvo, deberán ser cubiertos con lonas.
+Para el caso de mercados públicos, sean o no de propiedad municipal, mercados sobre ruedas, ambulantes, u otros similares sus dueños, administradores o encargados, tienen la obligación de vigilar que tanto en su interior, como en su exterior, se mantenga la más (sic) en condiciones de absoluta limpieza, aplicándose además a estos giros, las disposiciones que establecen en los artículos 29 y 30 de este reglamento, en cuanto a depósitos de basura y desperdicios se refiere.
 
-Así mismo, deberán barrer el interior de la caja del vehículo, una vez descargados los materiales respectivos para evitar que se escapen polvos, desperdicios o residuos sólidos durante el recorrido de regreso
+> <small>(REFORMADO, P.O. 1 DE NOVIEMBRE DE 2011)</small>
 
 ###### ARTICULO 32.
 
-El transporte de estiércol y desperdicios de establos, caballerizas y similares se hará en vehículos cerrados por cuenta del interesado, debiendo recabar un permiso del DEPARTAMENTO en el cual señalará la ruta, horario y lugar donde se depositará el material.
+Tienen obligación de contar con recipientes para depositar la basura todos los comerciantes ambulantes, propietarios y encargados de puestos fijos y semifijos que se encuentren establecidos en la vía pública o vías autorizadas, debiendo depositar inmediatamente los desperdicios de las mercancías que expendan al público.
+
+Así mismo, deben mantener en completa limpieza e higiene su equipo y el lugar en que se encuentren, quedando obligados a transportar los desperdicios a un lugar autorizado para tal fin por su propia cuenta, o bien, contratar los servicios de una empresa recolectora de basura según lo establecen los artículos 29 y 30 de este reglamento.
+
+> <small>(REFORMADO, P.O. 1 DE NOVIEMBRE DE 2011)</small>
 
 ###### ARTICULO 33.
 
-Los vehículos que transporten residuos sólidos, vidrio o envases de vidrio tales como botellas, garrafones, etc., deberán traer consigo los implementos necesarios para recoger los fragmentos que llegaren a tirarse en la vía pública.
+Los propietarios, poseedores o encargados de los vehículos que sean utilizados para transportar residuos sólidos, vidrios o envases de vidrio tales como botellas, garrafones, etc., deberán instalar en cada vehiculo todos los implementos que sean necesarios para recoger los fragmentos o residuos que llegaren a tirarse en la vía pública.
+
+> <small>(REFORMADO, P.O. 1 DE NOVIEMBRE DE 2011)</small>
 
 ###### ARTICULO 34.
 
-Los propietarios o encargados de casas que tengan jardines o huertos, estarán obligados a transportar por cuenta propia la ramazón, hojarasca, pasto, y demás basura procedente de sus jardines o huertos, cuando su volumen lo amerite, a los sitios que previamente les sean señalados por la autoridad.
+Es obligación de los propietarios de edificios, ya sean residenciales o comerciales, ejecutar las obras necesarias para que estos tengan un aspecto limpio y decoroso de manera que armonice con el entorno urbano y en completa concordancia con los planes municipales autorizados.
+
+> <small>(REFORMADO, P.O. 1 DE NOVIEMBRE DE 2011)</small>
 
 ###### ARTICULO 35.
 
-Los desperdicios de industrias, se almacenaran en lugares que no tengan riesgo de incendios o contaminación y serán transportados por cuenta del interesado en vehículo apropiado debiendo depositarse únicamente en sitios aprobados para ello por la Autoridad Municipal y por cualquier otra autoridad que sea de su competencia.
+Los propietarios o poseedores de predios tienen la estricta obligación de construir y conservar limpias y en buen estado sus banquetas y guarniciones
+
+> <small>(REFORMADO, P.O. 1 DE NOVIEMBRE DE 2011)</small>
 
 ###### ARTICULO 36.
 
-Es obligación de los propietarios de edificios, ya sean residenciales o comerciales, ejecutar las obras necesarias para que estos tengan un aspecto limpio y decoroso.
+Todos los comercios, industrias, restaurantes que arrojen al drenaje sanitario de la ciudad sus desechos, tienen la obligación de construir cajas desgrasadoras para evitar dañar la tubería, lo anterior se debe realizar con base a las especificaciones técnicas que determine la autoridad municipal competente.
+
+> <small>(REFORMADO, P.O. 1 DE NOVIEMBRE DE 2011)</small>
 
 ###### ARTICULO 37.
 
-Los propietarios de predios tienen la obligación de construir y conservar en buen estado sus banquetas y guarniciones.
+Es obligación de los transportistas de pasajeros, de carga o automóviles de alquiler mantener en perfectas condiciones de aseo tanto el interior como el exterior de dichos vehículos.
 
-El hecho de que el inmueble se encuentre deshabilitado o no esté construido, no revela al propietario de esta obligación.
+> <small>(REFORMADO, P.O. 1 DE NOVIEMBRE DE 2011)</small>
 
 ###### ARTICULO 38.
 
-Los propietarios o encargados de estacionamientos y talleres para la reparación de automóviles, carpintería, pintura y otros establecimientos similares, deberán ejecutar sus labores en el interior de los establecimientos, y no en la vía pública y transportar por su cuenta al lugar que se les indique por la Autoridad Municipal correspondiente, los residuos sólidos que generen.
+Los propietarios, administradores o encargados de centros de diversión, comerciales, tiendas de conveniencia, centros de salud, mercados, gasolineras, deberán mantener los sanitarios con papel higiénico, cestos de tamaño necesario para la operación, revestido interiormente con bolsas plásticas y contar con el personal necesario para que los atienda en forma responsable para que en todo momento muestren aspecto de pulcritud.
+
+> <small>(REFORMADO, P.O. 1 DE NOVIEMBRE DE 2011)</small>
 
 ###### ARTICULO 39.
 
-Todos los comercios, industrias, restaurantes que arrojen al drenaje sanitario de la ciudad sus desechos, deberán construir cajas desgrasadoras para evitar daños a la tubería, con base a las especificaciones que determine el DEPARTAMENTO.
+Los propietarios o administradores de hospitales, sanatorios, clínicas, y consultorios médicos se harán responsables de todos los desechos infecto contagiosos de acuerdo a las normas oficiales mexicanas, así mismo no deberán depositarlos en los lugares no autorizados por la autoridad municipal competente.
+
+> <small>(REFORMADO, P.O. 1 DE NOVIEMBRE DE 2011)</small>
 
 ###### ARTICULO 40.
 
-Los transportistas de pasajeros, de carga o automóviles de alquiler deberán mantener aseado el interior y exterior de los vehículos.
+La propaganda que excepcionalmente haya sido autorizada su colocación por parte de la dependencia municipal compete (sic) deberá (sic) retirada o borrada en un plazo máximo de siete días después de la fecha de realización del evento que promueva o de la que se fije en la correspondiente autorización.
+
+Los partidos políticos, coaliciones y sus candidatos, deberán ajustar su propaganda a lo establecido por la Leyes electorales vigentes, así como, retirarla y borrarla dentro de los 15 días siguientes al término de su campaña, además, en caso de que realicen entrega de folletos, engomados o cualquier tipo de materia (sic) propagandístico, deberán abstenerse de arrojar papeles en la vía publica.
 
 ###### ARTICULO 41.
 
-Los propietarios o administradores de centros de diversión, comerciales, de salud, mercados, gasolinerías, deberán mantener las (sic) sanitarios con papel higiénico, cestos de tamaño necesario para la operación, revestido interiormente con bolsas plásticas y contar con el personal necesario para que los atienda en forma responsable para que en todo momento muestren aspecto de pulcritud.
+(DEROGADO, P.O. 1 DE NOVIEMBRE DE 2011)
 
 ###### ARTICULO 42.
 
-Los propietarios o administradores de hospitales, sanatorios, clínicas, y consultorios médicos se harán responsables de todos los desechos infecto contagiosos de acuerdo a las normas oficiales mexicanas, así mismo no deberán depositarlos en los lugares no autorizados por el DEPARTAMENTO.
+(DEROGADO, P.O. 1 DE NOVIEMBRE DE 2011)
 
 ###### ARTICULO 43.
 
-La propaganda fijada será desprendida o borrada en un plazo máximo de siete días después de la fecha de realización del evento o de la que se fije en la correspondiente autorización.
-
-Los partidos políticos, coaliciones y sus candidatos, deberán retirarla y borrarla dentro de los 15 días siguientes al término de su campaña.
+(DEROGADO, P.O. 1 DE NOVIEMBRE DE 2011)
 
 ### CAPITULO IV. PROHIBICIONES
 
@@ -498,3 +570,9 @@ SUFRAGIO EFECTIVO, NO REELECCION
 LIC. GILBERTO ANTONIO MUELA GONZALEZ
 
 SECRETARIO DEL R. AYUNTAMIENTO
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 1 DE NOVIEMBRE DE 2011.
+
+> <small>[N. DE E. LA MODIFICACIÓN CON ANTELACIÓN CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE COAHUILA.]</small>
