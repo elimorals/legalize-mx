@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-los-servicios-de-vialidad-transito-y-transporte-del-1202
 country: "mx"
 rank: "ley"
 publication_date: "1998-02-07"
-last_updated: "2011-10-29"
+last_updated: "2011-11-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12024&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE LOS SERVICIOS DE VIALIDAD, TRANSITO Y TRANSPORTE DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE OCTUBRE DE 2011.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE NOVIEMBRE DE 2011.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el sábado 7 de febrero de 1998.
 
@@ -1183,15 +1183,23 @@ IV. Los vehículos automotores deberán contar con dispositivos para prevenir y 
 
 V. Toda modificación a la estructura o diseño de vehículos automotores deberá realizarse por personal calificado y con estricto apego a las normas oficiales mexicanas;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
 
-> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 1 DE NOVIEMBRE DE 2011)</small>
 
-VI. Los vehículos automotores registrados en el estado, deberán someterse a las verificaciones vehiculares en términos del programa que emita la Secretaría de Medio Ambiente para el Desarrollo Sustentable, con la periodicidad establecida en el calendario oficial de verificación vigente para el estado, para comprobar que se encuentran en condiciones ambientalmente óptimas para su circulación, conforme a las disposiciones de esta ley, su reglamento y demás disposiciones jurídicas aplicables, y
+VI. Los vehículos automotores registrados en el estado deberán someterse a las verificaciones vehiculares en términos del programa que emita la Secretaría de Medio Ambiente para el Desarrollo Sustentable, con la periodicidad establecida en el calendario oficial de verificación vigente para el estado, para comprobar que se encuentran en condiciones ambientalmente óptimas para su circulación, conforme a las disposiciones de esta ley, su reglamento y demás disposiciones jurídicas aplicables;
 
-> <small>(REFORMADA, P.O. 1 DE JULIO DE 2004)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
 
-VII. Los conductores otorgarán la prelación de paso a los vehículos de emergencia y policía que lleve (sic) encendidos códigos y sirenas, debiendo permitirles el paso si cruza (sic) en una intersección y cuando circulen sobre la misma vía en el mismo sentido, deberá colocarse en el extremo derechos (sic) de la vialidad y debiendo hacer alto. No deberán por ningún motivo aprovechar esta circunstancia para circular inmediatamente detrás de estos vehículos.
+> <small>(REFORMADA, P.O. 1 DE NOVIEMBRE DE 2011)</small>
+
+VII. Los conductores otorgarán la prelación de paso a los vehículos de emergencia y policía que lleven encendidos códigos y sirenas, debiendo permitirles el paso si cruzan en una intersección, y cuando circulen sobre la misma vía en el mismo sentido deberán colocarse en el extremo derecho de la vialidad y debiendo hacer alto. No deberán por ningún motivo aprovechar esta circunstancia para circular inmediatamente detrás de estos vehículos, y
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+
+> <small>(ADICIONADA, P.O. 1 DE NOVIEMBRE DE 2011)</small>
+
+VIII. Los vehículos automotores deberán utilizar sistemas de retención infantil o asientos de seguridad, en el caso de que alguno de sus ocupantes sea un menor de doce años de edad o que por su constitución física lo requiera, el cual deberá estar situado en el asiento trasero y será acorde a la talla y peso del menor; salvo que el vehículo no cuente con asientos traseros.
 
 El reglamento de esta Ley establecerá los procedimientos que permitan asegurar el cumplimiento de las disposiciones de este artículo.
 
@@ -2413,9 +2421,9 @@ V. (DEROGADA, P.O. 13 DE MARZO DE 2003)
 
 VI. Estacionarse en sentido contrario a la circulación;
 
-> <small>(ADICIONADA, P.O. 3 DE ABRIL DE 1999)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
 
-VII. No usar el cinturón de seguridad, tanto el conductor como sus acompañantes;
+VII. (DEROGADA, P.O. 1 DE NOVIEMBRE DE 2011)
 
 > <small>(ADICIONADA, P.O. 3 DE ABRIL DE 1999)</small>
 
@@ -2485,9 +2493,9 @@ XV. Estacionarse obstruyendo cochera o estacionamiento exclusivo; y
 
 XVI. Mover o trasladar maquinaria pesada con rodamiento neumático y equipo móvil especial, sin el permiso correspondiente.
 
-> <small>(ADICIONADA, P.O. 21 DE SEPTIEMBRE DE 2004)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
 
-XVII. Transportar un menor de tres años de edad en los asientos delanteros, salvo en los vehículos que no cuenten con asientos traseros, en cuyo caso deberán transportar al menor en asientos de seguridad adecuados a su edad; y (sic)
+XVII. (DEROGADA, P.O. 1 DE NOVIEMBRE DE 2011)
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE JULIO DE 1999)</small>
 
@@ -2571,9 +2579,9 @@ Se sancionará con multa equivalente a ocho días de salario mínimo general, vi
 
 I. Falta total de luces;
 
-> <small>(REFORMADA, P.O. 3 DE ABRIL DE 1999)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
 
-II. Al conductor de un vehículo de motor que exceda, en más de diez kilómetros por hora, el límite máximo de velocidad permitida en zona urbana. En aquellas zonas en que expresamente se restrinja el límite máximo de velocidad, como son las próximas a centros escolares y hospitalarios, el reglamento señalará tanto la velocidad máxima permitida en ellas como qué otras zonas se considerarán con velocidad restringida. En estos casos no habrá tolerancia alguna y, en consecuencia, no se deberá, por ningún motivo, rebasar la velocidad permitida;
+II. (DEROGADA, P.O. 1 DE NOVIEMBRE DE 2011)
 
 III. (DEROGADA, P.O. 3 DE ABRIL DE 1999)
 
@@ -2581,11 +2589,11 @@ IV. (DEROGADA, P.O. 3 DE ABRIL DE 1999)
 
 > <small>(REFORMADA, P.O. 13 DE MARZO DE 2003)</small>
 
-V. Por moverse de lugar en un accidente de colisión, salvo en caso de llegar a un convenio las partes que participaron en dicho evento, o por instrucciones del agente de tránsito; y
+V. Por moverse de lugar en un accidente de colisión, salvo en caso de llegar a un convenio las partes que participaron en dicho evento, o por instrucciones del agente de tránsito; y (sic)
 
-> <small>(ADICIONADA, P.O. 13 DE MARZO DE 2003)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
 
-VI. No disponer de un seguro que cubra los posibles daños a terceros, dicha sanción será conmutada si el infractor presenta dentro de los primeros 20 días la póliza de seguro contra daños a terceros a la dependencia del Ejecutivo del Estado competente en materia de vialidad, tránsito y transporte o la que señale el reglamento de la Ley de los Servicios de Vialidad, Tránsito y Transporte del Estado de Jalisco.
+VI. (DEROGADA, P.O. 1 DE NOVIEMBRE DE 2011)
 
 > <small>(ADICIONADO. P.O. 5 DE MARZO DE 2009)</small>
 
@@ -2615,13 +2623,35 @@ IV. Hacer mal uso de las placas demostración;
 
 V. Impedir o no ceder el paso a vehículos de emergencia o policía cuando lleven encendidos códigos y sirenas; o circular inmediatamente detrás de los mismos aprovechándose de esta circunstancia;
 
-> <small>(ADICIONADA, P.O. 3 DE ABRIL DE 1999)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
 
-VI. Al conductor de un vehículo que exceda, en más de diez kilómetros por hora, el límite máximo permitido de velocidad en viaductos o caminos vecinales, siempre que existan señalamientos en donde se anuncie el citado límite de velocidad; y
+VI. (DEROGADA, P.O. 1 DE NOVIEMBRE DE 2011)
 
 > <small>(ADICIONADA, P.O. 3 DE ABRIL DE 1999)</small>
 
 VII. Al conductor que maneje en sentido contrario o, al que injustificadamente invada el sentido contrario para rebasar en arterias de doble o múltiple circulación, en zona urbana.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+
+> <small>(ADICIONADO, P.O. 1 DE NOVIEMBRE DE 2011)</small>
+
+###### Artículo 167
+
+Bis. Se sancionará con multa de diez a treinta días de salario mínimo general, vigente en la zona económica donde se cometan las siguientes infracciones:
+
+I. No utilizar el cinturón de seguridad o hacerlo inadecuadamente, tanto el conductor como sus acompañantes;
+
+II. Transportar un menor de doce años de edad en los asientos delanteros, salvo en los vehículos que no cuenten con asientos traseros. En ambos casos, en todo momento deberán transportar al menor en asientos de segundad o sistemas de sujeción adecuados a su edad y constitución física, debidamente asegurados.
+
+Los vehículos de transporte público observarán respecto a esta disposición lo que la norma técnica correspondiente señale;
+
+III. Al conductor de un vehículo que exceda en más de diez kilómetros por hora el límite de velocidad máximo permitido, siempre que existan señalamientos en donde se anuncie el citado límite de velocidad. En aquellas zonas en que expresamente se restrinja el límite máximo de velocidad, como son las próximas a centros escolares y hospitalarios, el reglamento señalará tanto la velocidad máxima permitida en ellas como qué otras zonas se considerarán con velocidad restringida. En estos casos no habrá tolerancia alguna y, en consecuencia, no se deberá, por ningún motivo, rebasar la velocidad permitida, y
+
+IV. No disponer de un seguro que cubra daños a terceros. Dicha sanción quedará condonada, si el infractor presenta dentro de los veinte días hábiles siguientes la póliza de seguro contra daños a terceros a la dependencia del Ejecutivo del Estado competente en materia de vialidad, tránsito y transporte o la que señale el reglamento de la Ley de los Servicios de Vialidad, Tránsito y Transporte del Estado de Jalisco.
+
+Los vehículos de transporte público y los de transporte especializado en las modalidades contempladas en esta ley, para que puedan prestar dicho servicio, además del seguro de daños a terceros, deben contar con un seguro de vida para los ocupantes y que además garantice las posibles lesiones que puedan sufrir los usuarios en los casos de los que transporten pasajeros.
+
+Además del seguro de daños a terceros, los vehículos que presten servicio de grúa deberán contar con un seguro que garantice los posibles daños que puedan sufrir los vehículos objeto del servicio.
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
@@ -3266,3 +3296,9 @@ PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. El titular del Poder Ejecutivo Estatal deberá adecuar el Reglamento de la Ley de los Servicios de Vialidad, Tránsito y Transporte del Estado de Jalisco, dentro de los sesenta días naturales siguientes a la entrada en vigor del presente decreto.
 
 TERCERO. El titular del Poder Ejecutivo Estatal, por medio de la dependencia encargada en materia de vialidad, tránsito y transporte, deberá instar a los prestadores del servicio de transporte público de pasajeros a que realicen las adecuaciones necesarias a los itinerarios de sus rutas, para que se extiendan los horarios del servicio.
+
+P.O. 1 DE NOVIEMBRE DE 2011.
+
+PRIMERO. El presente decreto entrará en vigor a los noventa días siguientes a su publicación en el periódico oficial El Estado de Jalisco.
+
+SEGUNDO. El titular del Poder Ejecutivo del Estado deberá expedir o modificar las disposiciones reglamentarias y normas técnicas que sean necesarias para su adecuación a las adiciones y reformas contenidas en el presente decreto.
