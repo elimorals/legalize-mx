@@ -4,7 +4,7 @@ identifier: "VER-codigo-civil-para-el-estado-de-veracruz-de-ignacio-de-la-2667"
 country: "mx"
 rank: "codigo"
 publication_date: "1932-09-15"
-last_updated: "2010-10-07"
+last_updated: "2011-11-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2667&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 CÓDIGO CIVIL PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 7 DE OCTUBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 1 DE NOVIEMBRE DE 2011.
 
 Código publicado en el Suplemento Especial de la Gaceta Oficial del Estado de Veracruz-Llave, el 15 de septiembre de 1932.
 
@@ -12697,17 +12697,13 @@ Lo dispuesto en el artículo 2398, es aplicable a los aperos de la finca arrenda
 
 ### CAPITULO VII. Disposiciones especiales respecto de los arrendamientos por tiempo indeterminado
 
-> <small>(REFORMADO, G.O. 30 DE SEPTIEMBRE DE 1980)</small>
+> <small>(REFORMADO, G.O. 1 DE NOVIEMBRE DE 2011)</small>
 
-ARTICULO 2411
+ARTÍCULO 2411
 
-Los arrendatarios de Inmuebles que no se hayan celebrado por tiempo expresamente determinado, podrán concluir:
+Los arrendamientos de inmuebles rústicos o urbanos, que no se hayan celebrado por tiempo expresamente determinado, concluirán a voluntad de cualquiera de las partes, previa notificación judicial o notarial a la otra parte, con dos meses de anticipación si el inmueble es urbano, o un año si es rústico.
 
-I.- A voluntad del arrendatario, previo aviso judicial o extrajudicial ante Notario dado al arrendador con dos meses de anticipación; y
-
-II.- A voluntad del arrendador, previo el aviso indubitable señalado en la fracción precedente, dado al arrendatario con un año de anticipación.
-
-Si el bien arrendado es rústico deberá observarse lo dispuesto en los artículos 2390 y 2391.
+Si el bien arrendado es rústico deberá observarse, además, lo dispuesto en los artículos 2390 y 2391.
 
 > <small>(REFORMADO, G.O. 30 DE SEPTIEMBRE DE 1980)</small>
 
@@ -12767,15 +12763,27 @@ Quedan exceptuados de la obligación de prorrogar el contrato, los propietarios 
 
 El Estado o los municipios que hayan celebrado contratos de interés público para la explotación, uso o aprovechamiento de predios rústicos o urbanos, también se sujetarán a las reglas previstas en este artículo.
 
-ARTICULO 2419
+> <small>(REFORMADO, G.O. 1 DE NOVIEMBRE DE 2011)</small>
 
-Si después de terminado el arrendamiento y su prórroga, si la hubo, continúa el arrendatario sin oposición en el goce y uso del predio, y éste es rústico, se entenderá renovado el contrato por otro año.
+ARTÍCULO 2419
 
-ARTICULO 2420
+Si después de terminado el arrendamiento y su prórroga, si la hubo, continúa el arrendatario sin oposición en el goce y uso del predio, se entenderá renovado el contrato por:
 
-En el caso del artículo anterior si el predio fuere urbano, el arrendamiento continuará por tiempo indefinido, y el arrendatario deberá pagar la renta que corresponda al tiempo que exceda al del contrato, con arreglo a lo que pagaba.
+I. Un año si se trata de casa habitación;
 
-Lo dispuesto en este artículo se entenderá sin perjuicio de lo que dispongan las leyes de inquilinato que se expidan en el Estado.
+II. Dos años para locales comerciales o de servicios;
+
+III. Tres años para industria, tiendas departamentales, centros comerciales, bodegas de venta y en general los que se destinen al comercio en gran escala; y
+
+IV. Un año en los casos de fincas rústicas.
+
+> <small>(REFORMADO, G.O. 1 DE NOVIEMBRE DE 2011)</small>
+
+ARTÍCULO 2420
+
+En los casos previstos por el artículo anterior, el arrendatario deberá pagar la renta que corresponda al tiempo que exceda al del contrato, con arreglo a lo que pagaba.
+
+Lo dispuesto en este artículo se entenderá sin perjuicio de lo que dispongan las leyes de inquilinato para el Estado.
 
 ARTICULO 2421
 
@@ -16216,5 +16224,11 @@ G.O. 7 DE OCTUBRE DE 2010.
 DECRETO NUMERO 864, POR EL QUE SE REFORMAN LOS ARTICULOS 47, 48, 86, 146 PARRAFOS PRIMERO Y SEGUNDO, 168, 292, 302, 655, 656, 657, 658, 662, 676, 678, 680, 681 PARRAFOS PRIMERO Y SEGUNDO, 682, 704 FRACCIONES II Y III Y 760; Y SE DEROGAN LOS ARTICULOS 311, 312, 688 Y 689 DEL CODIGO CIVIL PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE.
 
 Primero. El presente Decreto iniciará su vigencia al día siguiente de su publicación en la Gaceta Oficial del estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 1 DE NOVIEMBRE DE 2011.
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Estado.
 
 Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
