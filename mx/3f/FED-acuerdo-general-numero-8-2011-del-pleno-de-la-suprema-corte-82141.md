@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-numero-8-2011-del-pleno-de-la-suprema-corte-821
 country: "mx"
 rank: "acuerdo"
 publication_date: "2011-07-11"
-last_updated: "2011-07-11"
+last_updated: "2011-11-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=82141&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "2011-07-05"
 
 ACUERDO GENERAL NUMERO 8/2011, DE CUATRO DE JULIO DE DE DOS MIL ONCE, DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, POR EL QUE SE DISPONE EL APLAZAMIENTO DE LA RESOLUCION DE LOS AMPAROS EN REVISION Y DE LOS AMPAROS DIRECTOS DEL CONOCIMIENTO DE LOS TRIBUNALES COLEGIADOS DE CIRCUITO EN LOS QUE SUBSISTA O SEA NECESARIO ABORDAR LA CONSTITUCIONALIDAD DEL ARTICULO 474 DE LA LEY GENERAL DE SALUD, ADICIONADA MEDIANTE DECRETO PUBLICADO EN EL DIARIO OFICIAL DE LA FEDERACION DEL VEINTE DE AGOSTO DE DOS MIL NUEVE Y DE SU ARTICULO PRIMERO TRANSITORIO, O DE LAS NORMAS LOCALES DERIVADAS DE ESTE ULTIMO; ASI COMO LA LEGALIDAD DE LOS ACTOS DE APLICACION DE LA REFERIDA NORMATIVA
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL PUNTO PRIMERO DEL ACUERDO GENERAL NUMERO 13/2011, DE 24 DE OCTUBRE DE 2011, DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, SE LEVANTA EL APLAZAMIENTO DISPUESTO EN EL ACUERDO GENERAL PLENARIO 8/2011, DE 4 DE JULIO DE 2011, DEL DICTADO DE LA SENTENCIA EN LOS AMPAROS EN REVISION Y AMPAROS DIRECTOS DEL CONOCIMIENTO DE LOS TRIBUNALES COLEGIADOS DE CIRCUITO EN LOS QUE SUBSISTA O SEA NECESARIO ABORDAR LA CONSTITUCIONALIDAD DEL ARTICULO 474 DE LA LEY GENERAL DE SALUD.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 1 DE NOVIEMBRE DE 2011.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el lunes 11 de julio de 2011.
 
@@ -70,3 +72,11 @@ El Presidente de la Suprema Corte de Justicia de la Nación, Ministro Juan N. Si
 El licenciado Rafael Coello Cetina, Secretario General de Acuerdos de la Suprema Corte de Justicia de la Nación, CERTIFICA: Este ACUERDO GENERAL NUMERO 8/2011, DE CUATRO DE JULIO DE DE DOS MIL ONCE, DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, POR EL QUE SE DISPONE EL APLAZAMIENTO DE LA RESOLUCION DE LOS AMPAROS EN REVISION Y DE LOS AMPAROS DIRECTOS DEL CONOCIMIENTO DE LOS TRIBUNALES COLEGIADOS DE CIRCUITO EN LOS QUE SUBSISTA O SEA NECESARIO ABORDAR LA CONSTITUCIONALIDAD DEL ARTICULO 474 DE LA LEY GENERAL DE SALUD, ADICIONADA MEDIANTE DECRETO PUBLICADO EN EL DIARIO OFICIAL DE LA FEDERACION DEL VEINTE DE AGOSTO DE DOS MIL NUEVE Y DE SU ARTICULO PRIMERO TRANSITORIO, O DE LAS NORMAS LOCALES DERIVADAS DE ESTE ULTIMO; ASI COMO LA LEGALIDAD DE LOS ACTOS DE APLICACION DE LA REFERIDA NORMATIVA, fue emitido por el Tribunal Pleno en Sesión Privada celebrada el día de hoy, por mayoría de nueve votos de los señores Ministros Sergio Salvador Aguirre Anguiano, José Ramón Cossío Díaz, Margarita Beatriz Luna Ramos, José Fernando Franco González Salas, Arturo Zaldívar Lelo de Larrea, Sergio A. Valls Hernández, Olga Sánchez Cordero de García Villegas, Guillermo I. Ortiz Mayagoitia y Presidente Juan N. Silva Meza. Los señores Ministros Jorge Mario Pardo Rebolledo y Luis María Aguilar Morales, votaron en contra.- México, Distrito Federal, a cuatro de julio de dos mil once.- Rúbrica.
 
 EL LICENCIADO RAFAEL COELLO CETINA, SECRETARIO GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, CERTIFICA: Que esta copia fotostática constante de diez fojas útiles concuerda fiel y exactamente con el original del Acuerdo General Plenario 8/2011, que obra en los archivos de la sección de instrumentos normativos de esta Secretaría General de Acuerdos y se expide para su publicación en el Diario Oficial de la Federación.- México, Distrito Federal, a cinco de julio de dos mil once.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 1 DE NOVIEMBRE DE 2011.
+
+PRIMERO. Este Acuerdo General entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese el presente Acuerdo General en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación y su Gaceta y, en términos de lo dispuesto en el artículo 7, fracción XIV, de la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental, en medios electrónicos de consulta pública; y hágase del conocimiento del Consejo de la Judicatura Federal y, para su cumplimiento, de los Juzgados de Distrito y de los Tribunales Colegiados de Circuito.
