@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-interior-del-tecnologico-de-estudios-superiores-3178
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-05-27"
-last_updated: "2008-10-28"
+last_updated: "2011-11-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=31785&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 REGLAMENTO INTERIOR DEL TECNOLOGICO DE ESTUDIOS SUPERIORES DE TIANGUISTENCO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 28 DE OCTUBRE DE 2008.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 1 DE NOVIEMBRE DE 2011.
 
 Reglamento publicado en la Sección Cuarta de la Gaceta del Gobierno del Estado de México, el martes 27 de mayo de 2003.
 
@@ -121,13 +121,13 @@ IX. Conceder en el ámbito de su competencia, licencias, permisos y autorizacion
 
 X. Integrar el Consejo Consultivo Académico y el Patronato del Tecnológico; y (sic)
 
-> <small>(REFORMADA, G.G. 28 DE OCTUBRE DE 2008)</small>
-
-XI. Coordinar y supervisar el funcionamiento de las Unidades de Estudios Superiores y, en su caso, disponer las acciones y estrategias para el cumplimiento de sus objetivos;
+XI. (DEROGADA, G.G. 1 DE NOVIEMBRE DE 2011);
 
 > <small>(ADICIONADA, G.G. 28 DE OCTUBRE DE 2008)</small>
 
 XII. Las demás que le confieran otras disposiciones legales y aquellas que le encomiende la Junta.
+
+> <small>(REFORMADO, G.G. 1 DE NOVIEMBRE DE 2011)</small>
 
 ###### Artículo 12.
 
@@ -139,23 +139,15 @@ II. Subdirección de Planeación y Vinculación;
 
 III. Subdirección de Servicios Administrativos;
 
-IV. División de Ingeniería Mecánica; y (sic)
+IV. División de Ingeniería Mecánica;
 
 V. División de Licenciatura en Contaduría;
 
-> <small>(ADICIONADA, G.G. 28 DE OCTUBRE DE 2008)</small>
+VI. División de Ingeniería en Sistemas Computacionales; y
 
-VI. Unidad Jurídica.
+VII. Unidad Jurídica.
 
-El Director contará con los servidores públicos, órganos técnicos y unidades administrativas necesarias para el cumplimiento de sus atribuciones, de acuerdo con la normatividad aplicable y con el presupuesto de egresos respectivo.
-
-> <small>(ADICIONADO, G.G. 28 DE OCTUBRE DE 2008)</small>
-
-El Tecnológico podrá contar con unidades administrativas desconcentradas, denominadas Unidades de Estudios Superiores, las cuales se ubicarán en los municipios que determine la Junta y tendrán por objeto instrumentar programas académicos y de investigación correspondientes al Organismo.
-
-> <small>(ADICIONADO, G.G. 28 DE OCTUBRE DE 2008)</small>
-
-Las Unidades de Estudios Superiores se adscribirán directamente al Director y sus funciones se establecerán en el Manual General de Organización del Tecnológico.
+El Tecnológico contará con las demás unidades administrativas que le sean autorizadas, cuyas funciones y líneas de autoridad se establecerán en el Manual General de Organización; asimismo, se auxiliara de los servidores públicos y órganos técnicos y administrativos necesarios para el cumplimiento de sus atribuciones de acuerdo con el presupuesto, estructura orgánica y normatividad aplicable.
 
 > <small>(REFORMADA SU DENOMINACION, G.G. 28 DE OCTUBRE DE 2008)</small>
 
@@ -197,19 +189,25 @@ XI. Participar, en el ámbito de su competencia, en la elaboración, ejecución 
 
 XII. Las demás que les confieran otras disposiciones legales y aquellas que les encomiende su superior inmediato.
 
-> <small>(REFORMADA SU DENOMINACION, G.G. 28 DE OCTUBRE DE 2008)</small>
+> <small>(REFORMADA SU DENOMINACION, G.G. 1 DE NOVIEMBRE DE 2011)</small>
 
-### CAPITULO V. DE LAS ATRIBUCIONES ESPECIFICAS DE LAS SUBDIRECCIONES, DIVISIONES Y UNIDAD
+### CAPITULO V. DE LAS ATRIBUCIONES ESPECIFICAS DE LOS SUBDIRECTORES, JEFES DE DIVISION Y DE UNIDAD
+
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 1 DE NOVIEMBRE DE 2011)</small>
 
 ###### Artículo 15.
 
-A la Subdirección Académica le corresponde planear, programar, dirigir, controlar y evaluar el desarrollo de los planes y programas académicos y de investigación de la carrera en ingeniería mecánica y de la licenciatura en contaduría, así como coordinar la prestación de los servicios de control escolar y promover el desarrollo académico.
+A la Subdirección Académica le corresponde planear, programar, dirigir, controlar y evaluar el desarrollo de los planes y programas académicos y de investigación de las carreras de ingeniería mecánica, contaduría e ingeniería en sistemas computacionales, así como coordinar la prestación de los servicios de control escolar y promover el desarrollo académico.
 
 Quedan adscritas a la Subdirección Académica:
 
-I. División de Ingeniería Mecánica; y
+I. División de Ingeniería Mecánica; y (sic)
 
 II. División de Licenciatura en Contaduría.
+
+> <small>(ADICIONADA, G.G. 1 DE NOVIEMBRE DE 2011)</small>
+
+III. División de Ingeniería en Sistemas Computacionales.
 
 ###### Artículo 16.
 
@@ -337,9 +335,47 @@ XIII. Vigilar que los estudios realizados en otras instituciones de educación q
 
 XIV. Las demás que le confieran otras disposiciones legales y aquellas que le encomiende el Director.
 
-> <small>(ADICIONADO, G.G. 28 DE OCTUBRE DE 2008)</small>
+> <small>(REFORMADO. G.G. 1 DE NOVIEMBRE DE 2011)</small>
 
-Artículo 19 bis.- Corresponde a la Unidad Jurídica:
+Artículo 19 bis.- Corresponde a la División de Ingeniería en Sistemas Computacionales:
+
+I. Coordinar y ejecutar los planes y programas académicos y de Investigación de la carrera de ingeniería en sistemas computacionales;
+
+II. Realizar investigaciones que permitan el avance del conocimiento y el desarrollo de los programas académicos de ingeniería en sistemas computacionales y vigilar su cumplimiento;
+
+III. Proponer modificaciones a los planes y programas de estudio de la División;
+
+IV. Supervisar la aplicación de los lineamientos académicos en materia de prácticas curriculares;
+
+V. Proponer y aplicar técnicas de enseñanza y métodos de evaluación de las actividades académicas de la División;
+
+VI. Impulsar el estudio y la aplicación de tecnología novedosa en la carrera de ingeniería en sistemas computacionales;
+
+VII. Participar en la definición y evaluación del perfil profesional del personal académico de la División;
+
+VIII. Integrar la planta docente de la División y someterla a consideración del Subdirector Académico;
+
+IX. Proponer al Subdirector Académico cursos de formación y superación académica del personal docente de la División;
+
+X. Conocer y opinar sobre las licencias, permisos, comisiones, Incapacidades y años sabáticos del personal de la División;
+
+XI. Participar en los cuerpos colegiados del Tecnológico cuando se traten asuntos relacionados con las funciones de la División;
+
+XII. Fomentar la titulación de los alumnos egresados de la carrera de ingeniería en sistemas computacionales;
+
+XIII. Vigilar que los estudios realizados en otras instituciones de educación que soliciten ser revalidados, sean congruentes con los planes y programas de estudio de la División;
+
+XIV. Vigilar que los talleres y laboratorios de la División se encuentren en condiciones propicias para el desarrollo de las actividades respectivas;
+
+XV. Llevar el registro y control escolar de los estudiantes de la División.
+
+XVI. Las demás que le confieran otras disposiciones legales y aquellas que le encomiende el Director.
+
+> <small>(ADICIONADO, G.G. 1 DE NOVIEMBRE DE 2011)</small>
+
+###### Artículo 19 Ter.
+
+Corresponde a la Unidad Jurídica:
 
 I. Representar al Tecnológico en los asuntos jurisdiccionales, con los poderes específicos que le otorgue el Director.
 
@@ -353,7 +389,7 @@ V. Asesorar al personal del Tecnológico respecto a los ordenamientos jurídicos
 
 VI. Revisar y, en su caso, elaborar los proyectos de ordenamientos jurídicos que pretenda suscribir o expedir el Tecnológico.
 
-VII. Las demás que le confieren otros ordenamientos legales y aquellas que le encomiende el Director.
+VII. Las demás que le confieren otros ordenamientos legales y aquellas que le encomienden el Director.
 
 ### CAPITULO VI. DEL CONSEJO CONSULTIVO ACADEMICO
 
@@ -448,5 +484,13 @@ G.G. 28 DE OCTUBRE DE 2008.
 PRIMERO.- Publíquese el presente Acuerdo en el periódico oficial "Gaceta del Gobierno".
 
 SEGUNDO.- Este Acuerdo entrará en vigor al día siguiente de su publicación en el periódico oficial "Gaceta del Gobierno".
+
+TERCERO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan al presente Acuerdo.
+
+G.G. 1 DE NOVIEMBRE DE 2011.
+
+PRIMERO.- Publíquese el presente Acuerdo en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- Este Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
 
 TERCERO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan al presente Acuerdo.
