@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-2-2009-del-pleno-de-la-suprema-corte-de-67839"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2009-04-01"
-last_updated: "2009-04-01"
+last_updated: "2011-11-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=67839&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "2009-03-23"
 
 ACUERDO GENERAL NUMERO 2/2009, DE VEINTITRES DE MARZO DE DOS MIL NUEVE, DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, RELATIVO AL APLAZAMIENTO DE LOS RECURSOS DE REVISION INTERPUESTOS CONTRA LAS SENTENCIAS DICTADAS EN LOS JUICIOS DE AMPARO EN QUE SE RECLAMA LA LEY DE PROTECCION A LA SALUD DE LOS NO FUMADORES EN EL DISTRITO FEDERAL Y LA LEY GENERAL PARA EL CONTROL DEL TABACO, RADICADOS EN ESTE ALTO TRIBUNAL Y EN LOS TRIBUNALES COLEGIADOS DE CIRCUITO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL PUNTO PRIMERO DEL ACUERDO GENERAL NUMERO 15/2011, DE 24 DE OCTUBRE DE 2011, DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, SE LEVANTA EL APLAZAMIENTO DISPUESTO EN EL ACUERDO GENERAL PLENARIO 2/2009, DE 23 DE MARZO DE 2009, DEL DICTADO DE LA SENTENCIA EN LOS JUICIOS DE AMPARO EN LOS QUE SE IMPUGNA LA LEY DE PROTECCION A LA SALUD DE LOS NO FUMADORES EN EL DISTRITO FEDERAL, Y/O LA LEY GENERAL PARA EL CONTROL DEL TABACO, PUBLICADA EN EL D.O.F. DEL 30 DE MAYO DE 2008.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 1 DE NOVIEMBRE DE 2011.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el miércoles 1 de abril de 2009.
 
@@ -68,3 +70,11 @@ El Presidente de la Suprema Corte de Justicia de la Nación, Ministro Guillermo 
 EL CIUDADANO LICENCIADO, RAFAEL COELLO CETINA SECRETARIO GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, CERTIFICA: Que este Acuerdo General Número 2/2009, DE VEINTITRES DE MARZO DE DOS MIL NUEVE, DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, RELATIVO AL APLAZAMIENTO DE LOS RECURSOS DE REVISION INTERPUESTOS CONTRA LAS SENTENCIAS DICTADAS EN LOS JUICIOS DE AMPARO EN QUE SE RECLAMA LA LEY DE PROTECCION A LA SALUD DE LOS NO FUMADORES EN EL DISTRITO FEDERAL Y LA LEY GENERAL PARA EL CONTROL DEL TABACO, RADICADOS EN ESTE ALTO TRIBUNAL Y EN LOS TRIBUNALES COLEGIADOS DE CIRCUITO, fue emitido por el Tribunal Pleno en Sesión Privada celebrada hoy, por unanimidad de once votos de los señores Ministros Sergio Salvador Aguirre Anguiano, José Ramón Cossío Díaz, Margarita Beatriz Luna Ramos, José Fernando Franco González Salas, Genaro David Góngora Pimentel, José de Jesús Gudiño Pelayo, Mariano Azuela Güitrón, Sergio A. Valls Hernández, Olga Sánchez Cordero de García Villegas, Juan N. Silva Meza y Presidente Guillermo I. Ortiz Mayagoitia. México, Distrito Federal, a veintitrés de marzo de dos mil nueve.- Rúbrica.
 
 EL CIUDADANO LICENCIADO RAFAEL COELLO CETINA, SECRETARIO GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, CERTIFICA: Que esta copia constante de ocho fojas útiles, concuerda fiel y exactamente con su original consistente en el Acuerdo General Plenario Número 2/2009, y se certifica para enviarla al Director General Adjunto del Diario Oficial de la Federación, a fin de que, de conformidad con lo dispuesto en el punto Segundo Transitorio del propio Acuerdo, se publique en el citado medio informativo. México, D.F., a veinticuatro de marzo de dos mil nueve.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 1 DE NOVIEMBRE DE 2011.
+
+PRIMERO. Este Acuerdo General entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese el presente Acuerdo General en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación y su Gaceta y, en términos de lo dispuesto en el artículo 7, fracción XIV, de la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental, en medios electrónicos de consulta pública; y hágase del conocimiento del Consejo de la Judicatura Federal y, para su cumplimiento, de los Juzgados de Distrito y de los Tribunales Colegiados de Circuito.
