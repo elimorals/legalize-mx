@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-numero-12-2008-del-pleno-de-la-suprema-64694"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2008-12-12"
-last_updated: "2008-12-12"
+last_updated: "2011-11-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64694&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "2008-12-01"
 
 ACUERDO GENERAL NUMERO 12/2008, DE PRIMERO DE DICIEMBRE DE DOS MIL OCHO, DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, RELATIVO A LA REMISION POR PARTE DE LOS JUZGADOS DE DISTRITO Y EL APLAZAMIENTO DE LA RESOLUCION DE LOS AMPAROS EN REVISION EN LOS QUE SE IMPUGNA LA LEY DEL IMPUESTO A LOS DEPOSITOS EN EFECTIVO, PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION EL PRIMERO DE OCTUBRE DE DOS MIL SIETE, DEL CONOCIMIENTO DE LOS TRIBUNALES COLEGIADOS DE CIRCUITO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL PUNTO PRIMERO DEL ACUERDO GENERAL NUMERO 14/2011, DE 24 DE OCTUBRE DE 2011, DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, SE LEVANTA EL APLAZAMIENTO DISPUESTO EN EL ACUERDO GENERAL PLENARIO 12/2008, DE 1 DE DICIEMBRE DE 2008, DEL DICTADO DE LA SENTENCIA EN LOS ASUNTOS DEL CONOCIMIENTO DE LOS TRIBUNALES COLEGIADOS DE CIRCUITO EN LOS QUE SE IMPUGNA LA LEY DEL IMPUESTO A LOS DEPOSITOS EN EFECTIVO, PUBLICADA EN EL D.O.F. EL 1 DE OCTUBRE DE 2007, EN VIGOR A PARTIR DEL 1 DE JULIO DE 2008.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 1 DE NOVIEMBRE DE 2011.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 12 de diciembre de 2008.
 
@@ -66,3 +68,11 @@ SEGUNDO. Publíquese este acuerdo en el Diario Oficial de la Federación y en el
 El Presidente de la Suprema Corte de Justicia de la Nación, Ministro Guillermo I. Ortiz Mayagoitia.- Rúbrica.- El Secretario General de Acuerdos, José Javier Aguilar Domínguez.- Rúbrica.
 
 EL CIUDADANO LICENCIADO JOSE JAVIER AGUILAR DOMINGUEZ, SECRETARIO GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, CERTIFICA: Que este Acuerdo General Número 12/2008, DE PRIMERO DE DICIEMBRE DE DOS MIL OCHO, RELATIVO A LA REMISION POR PARTE DE LOS JUZGADOS DE DISTRITO Y EL APLAZAMIENTO DE LA RESOLUCION DE LOS AMPAROS EN REVISION EN LOS QUE SE IMPUGNA LA LEY DEL IMPUESTO A LOS DEPOSITOS EN EFECTIVO, PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION EL PRIMERO DE OCTUBRE DE DOS MIL SIETE, DEL CONOCIMIENTO DE LOS TRIBUNALES COLEGIADOS DE CIRCUITO, fue emitido por el Tribunal Pleno en Sesión Privada celebrada hoy, por unanimidad de once votos de los señores Ministros Presidente Guillermo I. Ortiz Mayagoitia, Sergio Salvador Aguirre Anguiano, José Ramón Cossío Díaz, Margarita Beatriz Luna Ramos, José Fernando Franco González Salas, Genaro David Góngora Pimentel, José de Jesús Gudiño Pelayo, Mariano Azuela Güitrón, Sergio A. Valls Hernández, Olga Sánchez Cordero de García Villegas y Juan N. Silva Meza.- México, Distrito Federal, a primero de diciembre de dos mil ocho.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 1 DE NOVIEMBRE DE 2011.
+
+PRIMERO. Este Acuerdo General entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese el presente Acuerdo General en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación y su Gaceta y, en términos de lo dispuesto en el artículo 7, fracción XIV, de la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental, en medios electrónicos de consulta pública; y hágase del conocimiento del Consejo de la Judicatura Federal y, para su cumplimiento, de los Juzgados de Distrito y de los Tribunales Colegiados de Circuito.
