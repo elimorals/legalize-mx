@@ -4,7 +4,7 @@ identifier: "TAB-ley-de-planeacion-9023"
 country: "mx"
 rank: "ley"
 publication_date: "1983-07-13"
-last_updated: "2008-12-20"
+last_updated: "2011-11-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9023&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -20,9 +20,9 @@ state: "TAB"
 ---
 # LEY DE PLANEACION
 
-LEY DE PLANEACION
+LEY DE PLANEACIÓN
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE DICIEMBRE DE 2008.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE NOVIEMBRE DE 2011.
 
 Ley publicada en el Periódico Oficial del Estado de Tabasco, el miércoles 13 de julio de 1983.
 
@@ -60,13 +60,17 @@ IV.- Las bases para que el Ejecutivo Estatal coordine sus actividades de planeac
 
 V.- Las bases para promover y garantizar la participación Democrática de los diversos grupos sociales, a través de sus organizaciones representativas, en la elaboración de los planes y programas a que se refiere esta Ley;
 
-> <small>(REFORMADA, P.O. 25 DE OCTUBRE DE 2008)</small>
+> <small>(REFORMADA, P.O. 2 DE NOVIEMBRE DE 2011)</small>
 
-VI.- Las bases para que las acciones de particulares contribuyan a alcanzar los objetivos y prioridades de planes y programas; y
+VI.- Las bases para que las acciones de los particulares contribuyan a alcanzar los objetivos y prioridades de planes y programas;
 
-> <small>(ADICIONADA, P.O. 25 DE OCTUBRE DE 2008)</small>
+> <small>(REFORMADA, P.O. 2 DE NOVIEMBRE DE 2011)</small>
 
-VII.- Las bases necesarias para que el Ejecutivo estatal incorpore el enfoque de género en las actividades de planeación de la Administración Pública Estatal, así como en las que coordine con la Federación y los Municipios.
+VII.- Las bases necesarias para que el Ejecutivo Estatal incorpore el enfoque de género en las actividades de planeación de la Administración Pública Estatal, así como en las que se coordine con la Federación y los Municipios; y
+
+> <small>(ADICIONADA, P.O. 2 DE NOVIEMBRE DE 2011)</small>
+
+VIII.- Las bases para que el Ejecutivo Estatal coordine las tareas de monitoreo y evaluación del desempeño de las políticas públicas, de los programas y de la gestión institucional de los Entes Públicos Estatales y Municipales, a través de indicadores estratégicos y de gestión.
 
 ###### ARTICULO 2°.
 
@@ -86,19 +90,73 @@ V.- El fortalecimiento del pacto federal y del municipio libre, para lograr un d
 
 VI.- El equilibrio de los factores de la producción, que proteja y promueva el empleo, en un marco de estabilidad económica y social.
 
-###### ARTICULO 3°.
+> <small>(REFORMADO, P.O. 2 DE NOVIEMBRE DE 2011)</small>
 
-Para los efectos de esta Ley, se entiende por Planeación Estatal del Desarrollo, la ordenación racional y sistemática de acciones que sobre la base del ejercicio de las atribuciones del Ejecutivo Estatal y de los Ayuntamientos, en materia de regulación y promoción de la actividad económica, social, política y cultural, tiene como propósito la transformación de la realidad del Estado, de acuerdo con las normas, principios y objetivos que la propia Constitución Federal y Estatal y las Leyes de la materia establecen.
+###### ARTICULO 3º.
 
-A través de la planeación se fijarán objetivos, metas, estrategias y prioridades; se asignarán recursos, responsabilidades y tiempos de ejecución se coordinarán acciones y se evaluarán resultados.
+Para los efectos de esta Ley, se entiende por:
 
-###### ARTICULO 4°.
+I. Consejo Estatal de Evaluación: Órgano con autonomía técnica y de gestión responsable de administrar el Sistema Estatal de Evaluación del Desempeño;
 
-Es responsabilidad del Poder Ejecutivo del Estado conducir la planeación del desarrollo de la entidad con la participación democrática de los grupos sociales, de conformidad con lo dispuesto en la presente Ley.
+II. COPLADET: Comité de Planeación para el Desarrollo del Estado de Tabasco;
 
-###### ARTICULO 5°.
+III. Ente Público: Los poderes Ejecutivo, Legislativo y Judicial del Estado; los órganos autónomos del Estado; los Ayuntamientos de los Municipios del Estado; las entidades de la Administración Pública Paraestatal ya sean estatales o municipales.
 
-Es responsabilidad de los Ayuntamientos conducir la planeación del desarrollo de los municipios con la participación democrática de los grupos sociales de conformidad igualmente, con lo dispuesto en la presente Ley.
+IV. Estructura Programática: Conjunto de categorías y elementos programáticos ordenados en forma coherente que definen, ordenan y clasifican las acciones a realizar por los ejecutores del gasto público estatal y municipal, para alcanzar los objetivos y metas de acuerdo con las políticas definidas en el Plan Estatal de Desarrollo y los Planes Municipales de Desarrollo; delimitando la aplicación del gasto y permitiendo conocer el rendimiento esperado de la utilización de los recursos públicos;
+
+V. Gestión: Es el desempeño de los entes públicos basado en un conjunto de decisiones orientadas a coordinar y potenciar los recursos públicos, incluidos los recursos humanos y desarrollar e impulsar medios alternativos para alcanzar metas individuales y colectivas;
+
+VI. Gestión para Resultados: Modelo de cultura organizacional, directiva y de Gestión que pone énfasis en los resultados y no en los procedimientos, cuyo interés es tener impacto en el Valor Público;
+
+VII. Indicadores de Desempeño: Expresión cuantitativa correspondiente a un índice, medida, cociente o fórmula, que establece un parámetro del avance en el cumplimiento de los objetivos y metas de la Gestión para Resultados, los cuales se dividen en dos categorías: Indicadores Estratégicos e Indicadores de Gestión;
+
+VIII. Indicadores Estratégicos: Miden el grado de cumplimiento de los objetivos de las políticas públicas y de los programas presupuestarios a través de una medición directa en la población o área de enfoque; contribuyen a corregir o fortalecer las estrategias y la orientación de los recursos;
+
+IX. Indicadores de Gestión: Miden el avance y logro de los procesos y actividades que realizan los Entes Públicos, es decir, la forma en que los bienes y/o servicios públicos son generados y entregados a la sociedad;
+
+X. Matriz de Marco Lógico: Método de planeación estratégica que permite mostrar: a) la alineación de los programas y proyectos con los objetivos de la Planeación del Desarrollo; b) los indicadores que miden el logro de los objetivos y resultados; c) las fuentes de información para obtener y verificar los indicadores; y d) los riesgos y contingencias que podrían afectar el desempeño de los programas y proyectos;
+
+XI. Planeación del Desarrollo: La Planeación Estratégica y Participativa que busca la ordenación racional y sistemática de las acciones que sobre la base del ejercicio de las atribuciones del Ejecutivo Estatal y de los Ayuntamientos, en materia de regulación y promoción de la actividad económica, social, política y cultural, tiene como propósito la transformación de la realidad del Estado, a través de la metodología de Marco Lógico y de Presupuesto Basado en Resultados que las normas de la materia establecen;
+
+XII. Planeación Estratégica y Participativa: Instrumento de planeación que incluye elementos como la misión, visión, valores, objetivos y metas, además de la participación de la sociedad, que propicie el desarrollo sustentable de largo plazo; mediante el cual se asignarán recursos, responsabilidades y tiempos de ejecución, se coordinarán acciones, se evaluarán resultados y se medirá el impacto de los programas públicos, a través del Sistema Estatal de Evaluación del Desempeño;
+
+XIII. PLED: Plan Estatal de Desarrollo;
+
+XIV. Presupuesto Basado en Resultados: Metodología utilizada para la integración de los presupuestos de egresos estatal y municipales con base en una definición clara y sencilla de los objetivos, así como de los resultados proyectados y alcanzados en el ejercicio del gasto público;
+
+XV. SAF: Secretaría de Administración y Finanzas;
+
+XVI. SECOTAB: Secretaría de Contraloría;
+
+XVII. SEPLADES: Secretaría de Planeación y Desarrollo Social;
+
+XVIII. Sistema Estatal de Evaluación del Desempeño: Conjunto de elementos metodológicos que permiten realizar una valoración objetiva del desempeño de los programas y proyectos, bajo los principios de verificación del grado de cumplimiento de metas y objetivos, con base en indicadores estratégicos y de gestión que permitan conocer los resultados e impacto de la aplicación de los recursos públicos; y
+
+XIX. Valor Público: Generación de las condiciones orientadas a que todos los miembros de la sociedad disfruten de oportunidades para una vida digna, empleo y bienestar, así como garantizar el acceso a dichas oportunidades;
+
+> <small>(REFORMADO, P.O. 2 DE NOVIEMBRE DE 2011)</small>
+
+###### ARTICULO 4º.
+
+Es responsabilidad del Poder Ejecutivo del Estado conducir la Planeación del Desarrollo de la entidad con la participación de los grupos sociales, incorporando los resultados de las evaluaciones que realice el Consejo Estatal de Evaluación, de conformidad con lo dispuesto en la presente Ley.
+
+> <small>(REFORMADO, P.O. 2 DE NOVIEMBRE DE 2011)</small>
+
+###### ARTICULO 5º.
+
+Es responsabilidad de los Ayuntamientos conducir la Planeación del Desarrollo de los municipios con la participación de los grupos sociales, considerando los resultados de las evaluaciones que realice el Consejo Estatal de Evaluación, de conformidad con lo dispuesto en la presente Ley.
+
+> <small>(REFORMADO, P.O. 2 DE NOVIEMBRE DE 2011)</small>
+
+###### ARTICULO 6º.
+
+El Gobernador del Estado remitirá al Congreso Local para su conocimiento, el Plan Estatal de Desarrollo, los Programas Sectoriales y Especiales, así como los Programas Operativos Anuales que de éstos se deriven, dentro de los plazos que fijen las leyes y a falta de éstos, dentro de los 5 días hábiles siguientes a su conformación.
+
+> <small>(REFORMADO, P.O. 2 DE NOVIEMBRE DE 2011)</small>
+
+###### ARTICULO 7º.
+
+Los Presidentes Municipales remitirán los Planes Municipales de Desarrollo y Programas Operativos Anuales que de éstos se deriven al Congreso del Estado para su conocimiento, dentro de los plazos que fijen las leyes y a falta de éstos, dentro de los 5 días hábiles siguientes a su conformación.
 
 ###### ARTICULO 6°.
 
@@ -118,17 +176,21 @@ El contenido de las cuentas anuales de la Hacienda Pública Estatal y de los Mun
 
 El Gobernador del Estado al enviar a la Cámara de Diputados las iniciativas de Leyes de Ingresos y los proyectos de presupuestos de Egresos del Estado, informará sobre el contenido general de estos documentos y de su relación con el programa anual, que conforme a lo previsto en el Artículo 34 de esta Ley, deberá elaborarse para la Ejecución del Plan Estatal de Desarrollo.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE NOVIEMBRE DE 2011)</small>
+
 ###### ARTICULO 10.
 
-Los Secretarios de la Administración Pública Estatal a solicitud del Congreso darán cuenta a éste del estado que guardan sus respectivos ramos, informarán del avance y grado de cumplimiento de los objetivos y prioridades fijados en la Planeación Estatal, que por razón de su competencia les corresponda, así como de los resultados de las acciones previstas. También informarán sobre el Desarrollo y los Resultados de la aplicación de los instrumentos de política económica y social de acuerdo con dichos objetivos y prioridades.
+Los Secretarios de la Administración Pública Estatal a solicitud del Congreso darán cuenta del estado que guardan sus respectivos ramos, informarán del avance y grado de cumplimiento de los objetivos y prioridades fijados en el PLED vigente, que por razón de su competencia les corresponda, así como de los resultados de las acciones previstas. También informarán sobre el desarrollo y los resultados de la aplicación de los instrumentos de política económica y social de acuerdo con dichos objetivos y prioridades.
 
 En su caso, explicarán las desviaciones ocurridas y las medidas que se adopten para corregirlas.
 
 Los funcionarios a que alude el primer párrafo de este Artículo y los Directores de las Entidades Paraestatales, a través de los propios Secretarios, que sean citados por la Cámara para que informen cuando se discuta una Ley o se estudie un negocio concerniente a sus respectivos ramos o actividades, señalarán las relaciones que hubiera entre el proyecto de Ley o Negocio de que se trate y de los objetivos de la Planeación Estatal, relativos a la dependencia o entidades a su cargo.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE NOVIEMBRE DE 2011)</small>
+
 ###### ARTICULO 11.
 
-Las dependencias de la administración pública centralizada deberán planear y conducir sus actividades con sujeción a los objetivos y prioridades de la Planeación Estatal de Desarrollo.
+Los Entes Públicos de la Administración Pública Centralizada deberán planear y conducir sus actividades con sujeción a los objetivos y prioridades del PLED.
 
 Lo dispuesto en el párrafo anterior será aplicable a las Entidades de la Administración Pública Paraestatal. A este efecto, los titulares de las Secretarías proveerán lo conducente en el ejercicio de las atribuciones, que como coordinadores de sector, les confiera la Ley.
 
@@ -136,29 +198,35 @@ Lo dispuesto en el párrafo anterior será aplicable a las Entidades de la Admin
 
 Los proyectos de iniciativas de Leyes y los Reglamentos, Decretos y Acuerdos que formule el Ejecutivo Estatal, señalarán las relaciones que, en su caso, existan entre el proyecto de que se trate y el Plan y los programas respectivos.
 
-> <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2008)</small>
+> <small>(REFORMADO, P.O. 2 DE NOVIEMBRE DE 2011)</small>
 
 ###### ARTICULO 13.
 
-En caso de duda sobre la interpretación de las disposiciones de esta Ley se estará a lo que resuelva el Ejecutivo Estatal, para efectos administrativos, por conducto de la Secretaría de Planeación.
+En caso de duda sobre la interpretación de las disposiciones de esta Ley se estará a lo que resuelva el Ejecutivo Estatal, por conducto de la SEPLADES.
 
 ### CAPITULO SEGUNDO
 
 SISTEMA ESTATAL DE PLANEACION DEMOCRATICA.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE NOVIEMBRE DE 2011)</small>
+
 ###### ARTICULO 14.
 
-La Planeación Estatal del Desarrollo se llevará a cabo por las dependencias y entidades de la administración pública estatal y por los municipios, en los términos de esta Ley, mediante el Sistema Estatal de Planeación Democrática en congruencia con el Sistema Nacional de Planeación Democrática.
+La Planeación del Desarrollo se llevará a cabo por los Entes Públicos, en los términos de esta Ley, en congruencia con lo establecido en las leyes federales de la materia.
 
 Las dependencias y entidades de la administración pública estatal y los Municipios, formarán parte del sistema a través de las unidades administrativas que tengan asignadas las funciones de planeación dentro de las propias dependencias.
 
+> <small>(REFORMADO, P.O. 2 DE NOVIEMBRE DE 2011)</small>
+
 ###### ARTICULO 15.
 
-Las disposiciones reglamentarias de esta Ley establecerán las normas de organización y funcionamiento del Sistema Estatal de Planeación Democrática y el Proceso de Planeación a que deberán sujetarse las actividades conducentes a la formulación, instrumentación, control y evaluación de los planes y programas a que se refiere esta Ley.
+Las disposiciones reglamentarias de esta Ley establecerán las normas de organización y funcionamiento de la Planeación Estratégica y Participativa y el proceso de planeación a que deberán sujetarse las actividades conducentes a la formulación, instrumentación, control y evaluación de los planes y programas a que se refiere esta Ley.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE NOVIEMBRE DE 2011)</small>
 
 ###### ARTICULO 16.
 
-La Secretaría de Programación, con el apoyo de las Dependencias y Entidades de la Administración Pública Federal, Estatal y Municipal, integradas en un Comité de Planeación para el Desarrollo del Estado de Tabasco, tendrá las siguientes atribuciones:
+La SEPLADES con el apoyo de los Entes Públicos de la Administración Pública Federal, Estatal y Municipal, integradas en un Comité de Planeación para el Desarrollo del Estado de Tabasco, tendrá las siguientes atribuciones.
 
 I.- Coordinar las actividades de la Planeación Estatal del Desarrollo;
 
@@ -166,27 +234,65 @@ II.- Integrar, en congruencia con el Plan Nacional de Desarrollo y con los Plane
 
 III.- Asesorar, proyectar y coordinar la Planeación Municipal, con la participación que corresponda a los Gobiernos Municipales, y elaborar los programas regionales y especiales que le señale el Gobernador del Estado;
 
-IV.- Asegurar que los planes y los programas que se generen en el Sistema, mantengan congruencia en su elaboración y contenido, proponiendo las metodologías y lineamientos que deberán seguirse;
+> <small>(REFORMADA, P.O. 2 DE NOVIEMBRE DE 2011)</small>
+
+IV.- Asegurar que los planes y programas que se generen en la Planeación del Desarrollo mantengan congruencia en su elaboración, a través de la utilización de los modelos de Planeación Estratégica y Participativa, los principios de Gestión para Resultados y la aplicación de la Matriz de Marco Lógico;
 
 V.- Coordinar las actividades, que en materia de investigación y capacitación para la planeación, realicen las dependencias de la administración pública estatal;
 
-> <small>(REFORMADA, P.O. 25 DE OCTUBRE DE 2008)</small>
+> <small>(REFORMADA, P.O. 2 DE NOVIEMBRE DE 2011)</small>
 
-VI.- Elaborar los programas anuales globales para la ejecución del Plan Estatal y de los Programas Regionales y especiales, tomando en cuenta las propuestas que para el efecto realicen las Secretarías de la Administración Pública Estatal y los respectivos Gobiernos Municipales;
+VI.- Integrar los programas anuales globales para la ejecución del PLED y de los programas sectoriales y especiales, tomando en cuenta las propuestas que para el efecto realicen los Entes Públicos;
 
-> <small>(REFORMADA, P.O. 25 DE OCTUBRE DE 2008)</small>
+> <small>(REFORMADA, P.O. 2 DE NOVIEMBRE DE 2011)</small>
 
-VII.- Verificar, periódicamente, la relación que guarden los programas y presupuestos de las diversas dependencias de la administración pública, así como los resultados de su ejecución, con los objetivos y prioridades del Plan y los programas a que se refiere esta Ley, a fin de adoptar las medidas necesarias que corrijan las desviaciones detectadas y retomar, en su caso, el Plan y los programas respectivos; y
+VII.- Verificar periódicamente, la relación que guardan los programas y presupuestos de los Entes Públicos, así como los resultados de su ejecución, con los objetivos y prioridades del PLED y los programas a que se refiere esta Ley; mediante la utilización de Matriz de Marco Lógico, a fin de adoptar las medidas necesarias que corrijan las desviaciones detectadas y retomar, en su caso, el plan y los programas respectivos; y
 
 > <small>(ADICIONADA, P.O. 25 DE OCTUBRE DE 2008)</small>
 
 VIII.- Promover la construcción de indicadores de género, que permitan evaluar el impacto de las políticas públicas contenidas en el Plan desde una perspectiva de género que permita que las acciones de gasto público en las diferentes unidades administrativas, establezcan deliberadamente condiciones reales para mejorar el acceso de las mujeres a los bienes y servicios públicos.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE DICIEMBRE DE 2008)</small>
+> <small>(ADICIONADO, P.O. 2 DE NOVIEMBRE DE 2011)</small>
+
+ARTICULO 16 BIS.- El Consejo Estatal de Evaluación estará integrado por los titulares de la SEPLADES, SAF y SECOTAB, mismos que podrán designar a su suplente. El Consejo tendrá las siguientes atribuciones:
+
+I. Administrará el Sistema Estatal de Evaluación del Desempeño;
+
+II. Coordinar la evaluación de las políticas públicas, de los programas y de desempeño de los Entes Públicos bajo los principios de independencia, imparcialidad y transparencia;
+
+III. Emitir lineamientos sobre la metodología para la construcción de Matriz de Marco Lógico e Indicadores de Desempeño;
+
+IV. Concertar y Validar las Matrices de Marco Lógico que propongan los Entes Públicos, con excepción de los de orden municipal;
+
+V. Conocer y emitir recomendación sobre las Matrices de Marco Lógico de los Entes Públicos del orden municipal;
+
+VI. Realizar por sí mismo o a través de terceros las evaluaciones en materia de desempeño;
+
+VII. Establecer el calendario anual de evaluación de las políticas públicas, de los programas y de desempeño de los Entes Públicos;
+
+VIII. Capacitar a los Entes Públicos en materia de Matriz de Marco Lógico e Indicadores de Desempeño;
+
+IX. Integrar el padrón de evaluadores externos del desempeño;
+
+X. Informar al Ente Público las recomendaciones que se emitan, derivadas de la evaluación de sus políticas o programas;
+
+XI. Publicar los resultados de las evaluaciones; y
+
+XII. Las demás que señalen las disposiciones aplicables.
+
+> <small>(ADICIONADO, P.O. 2 DE NOVIEMBRE DE 2011)</small>
+
+ARTICULO 16 TER.- Los lineamientos que emita el Consejo Estatal de Evaluación serán de sujeción obligatoria para los Entes Públicos y deberán observarse en la elaboración del anteproyecto de presupuesto de egresos en el ámbito de sus respectivas competencias. Para lo cual los Entes Públicos harán llegar al señalado Consejo sus propuestas de Matriz de Marco Lógico a más tardar el último día hábil de julio de cada año, para posteriormente registrar sus indicadores de desempeño y metas en el Sistema Estatal de Evaluación del Desempeño.
+
+Los Entes Públicos harán del conocimiento del Consejo Estatal de Evaluación el informe trimestral de autoevaluación a que hace alusión el cuarto párrafo del artículo 41 de la Constitución del Estado Libre y Soberano de Tabasco dentro de los tres días hábiles posteriores a su presentación al H. Congreso del Estado.
+
+Lo anterior con la finalidad de proveer de los insumos suficientes al Consejo Estatal de Evaluación para la realización de las evaluaciones de desempeño, cuyos resultados serán dados a conocer a los Entes Públicos por el Consejo Estatal de Evaluación para que sean incluidos en la Cuenta Pública en cumplimiento a lo establecido en la Ley General de Contabilidad Gubernamental.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE NOVIEMBRE DE 2011)</small>
 
 ###### ARTICULO 17.
 
-A la Secretaría de Administración y Finanzas le corresponde:
+A la SAF le corresponde:
 
 I.- Participar en la elaboración del Plan Estatal de Desarrollo; respecto a la definición de las políticas financieras, fiscales y crediticias; estableciendo la congruencia con las políticas que sobre esta materia haya dictado la Federación;
 
@@ -236,9 +342,11 @@ V.- Asegurar la congruencia del programa institucional con el programa sectorial
 
 VI.- Verificar periódicamente la relación que guarden sus actividades así como los resultados de su ejecución con los objetivos y prioridades del programa institucional.
 
+> <small>(REFORMADO, P.O. 2 DE NOVIEMBRE DE 2011)</small>
+
 ###### ARTICULO 20.
 
-La Contraloría General de Gobierno del Estado deberá ejercer el control y vigilancia de los objetivos y prioridades del Plan Estatal y de los Programas que de él se deriven, disponiendo las medidas necesarias para su corrección, conforme a las facultades y procedimientos que las Leyes le señalan.
+La SECOTAB deberá ejercer el control y vigilancia de los objetivos y prioridades del Plan Estatal y de los programas que de él se deriven, disponiendo las medidas necesarias para su corrección, conforme a las facultades y procedimientos que las leyes le señalan.
 
 ###### ARTICULO 21.
 
@@ -254,31 +362,41 @@ Las comisiones y subcomisiones a que se hace referencia en los párrafos anterio
 
 PARTICIPACION SOCIAL EN LA PLANEACION.
 
+> <small>(REFORMADO, P.O. 2 DE NOVIEMBRE DE 2011)</small>
+
 ###### ARTICULO 22.
 
-Dentro del Sistema Estatal de Planeación democrática tendrá lugar la participación consulta de los diversos grupos sociales, con el propósito de que la población exprese sus opiniones para la elaboración, actualización y ejecución del Plan Estatal, de los Planes Municipales y de los Programas a que se refiere esta Ley.
+Dentro de la Planeación del Desarrollo se buscará preferentemente la participación de los diversos grupos sociales, con el propósito de que la población exprese sus opiniones para la elaboración, actualización y ejecución del PLED, de los Planes Municipales y de los programas a que se refiere esta Ley.
+
+> <small>(REFORMADO, P.O. 2 DE NOVIEMBRE DE 2011)</small>
 
 ###### ARTICULO 23.
 
-Las organizaciones representativas de los obreros, campesinos y grupos populares; de las instituciones académicas, profesionales y de investigación; de los organismos empresariales; y de otras agrupaciones sociales, participarán como órganos de consulta permanente en los aspectos de la planeación democrática relacionados con su actividad, a través de foros de consulta popular que al efecto se convoquen. Asimismo, participarán en los mismos foros los Diputados al Congreso Local.
+Las organizaciones representativas de los obreros, campesinos y grupos populares; de las instituciones académicas, profesionales y de investigación; de los organismos empresariales; y de otras agrupaciones sociales, participarán como órganos de consulta permanente en la Planeación del Desarrollo, relacionados con su actividad, a través de foros de consulta popular que al efecto se convoquen. Asimismo, participarán en los mismos foros los Diputados del Congreso Local.
 
-Para tal efecto, y conforme a la Legislación aplicable, en el Sistema deberán preveerse la organización y funcionamiento, las formalidades, periodicidad y términos a que deberá sujetarse la participación y consulta para la Planeación Estatal de Desarrollo.
+Para tal efecto, y conforme a la Legislación aplicable, deberán preverse la organización y funcionamiento, las formalidades, periodicidad y términos a que deberá sujetarse la participación y consulta para la Planeación Estatal de Desarrollo.
 
 ### CAPITULO CUARTO
 
 PLANES Y PROGRAMAS.
 
+> <small>(REFORMADO, P.O. 2 DE NOVIEMBRE DE 2011)</small>
+
 ###### ARTICULO 24.
 
-El Plan Estatal de Desarrollo deberá elaborarse, aprobarse y publicarse, en un plazo de seis meses contados a partir de la fecha en que toma posesión el Gobernador del Estado y su vigencia no excederá del período Constitucional que le corresponda, aunque podrá contener consideraciones y proyecciones de más largo plazo.
+El PLED deberá elaborarse, aprobarse y publicarse en un plazo de seis meses contados a partir de la fecha en que toma posesión el Gobernador del Estado y su vigencia no excederá del período Constitucional que le corresponda, sin embargo deberá contener consideraciones y proyecciones de hasta 25 años para los programas plurianuales que requieran ese tiempo para su consolidación.
+
+> <small>(REFORMADO, P.O. 2 DE NOVIEMBRE DE 2011)</small>
 
 ###### ARTICULO 25.
 
-Los planes municipales de desarrollo deberán aprobarse y publicarse, en un plazo de cuatro meses contados a partir de la fecha en que toma posesión el Ayuntamiento, y su vigencia no excederá del período Constitucional que le corresponda, aunque podrá tener, igualmente, consideraciones y proyecciones de más largo plazo.
+Los planes municipales de desarrollo deberán aprobarse y publicarse en un plazo de seis meses contados a partir de la fecha en que toma posesión el Ayuntamiento y su vigencia no excederá el período Constitucional que le corresponda, sin embargo deberá contener consideraciones y proyecciones de hasta 10 años para los programas multianuales que requieran ese tiempo para su consolidación.
+
+> <small>(REFORMADO, P.O. 2 DE NOVIEMBRE DE 2011)</small>
 
 ###### ARTICULO 26.
 
-El Plan Estatal de Desarrollo, sobre el diagnóstico que se elabore, precisará los objetivos generales, estrategia y prioridades del desarrollo integral del Estado, contendrá previsiones sobre los recursos que serán asignados a tales fines; determinará los instrumentos y responsables de su ejecución, establecerá los lineamientos de política de carácter global, sectorial y municipal; sus previsiones se referirán al conjunto de la actividad económica y social y regirá el contenido de los programas que se generen en el sistema estatal de planeación democrática.
+El PLED, sobre el diagnóstico que se elabore, precisará la misión, visión, objetivos generales, estrategias, líneas de acción, metas y prioridades del desarrollo integral del Estado, contendrá previsiones sobre los recursos que serán asignados a tales fines; determinará los instrumentos y responsables de su ejecución, establecerá los lineamientos de política de carácter global, sectorial y municipal; sus previsiones se referirán al conjunto de la actividad económica y social y regirá el contenido de los programas que se generen.
 
 ###### ARTICULO 27.
 
@@ -304,31 +422,37 @@ Los programas institucionales que deban elaborar las entidades para estatales (s
 
 Los programas regionales se referirán a las zonas que se consideren prioritarias o estrategias, tanto en lo que atañe al Municipio como al Estado, en función de los objetivos generales fijados en el Plan Estatal o Municipal.
 
+> <small>(REFORMADO, P.O. 2 DE NOVIEMBRE DE 2011)</small>
+
 ###### ARTICULO 33.
 
-Los programas especiales se referirán a las prioridades del desarrollo integral del Estado fijados en el Plan Estatal o a las actividades relacionadas con dos o más dependencias coordinadas de sector.
+Los programas especiales se referirán a las prioridades del desarrollo integral del Estado fijados en el PLED o a las actividades relacionadas con dos o más Entes Públicos del mismo sector o de diferente sector en razón de la transversalidad y complementariedad de las acciones.
+
+> <small>(REFORMADO, P.O. 2 DE NOVIEMBRE DE 2011)</small>
 
 ###### ARTICULO 34.
 
-Las dependencias encargadas de la ejecución del Plan Estatal y de los Municipales así como de los Programas Sectoriales, Institucionales, Regionales, Municipales y Especiales, elaborarán programas operativos anuales que incluirán los aspectos administrativos y de política económica y social correspondiente. Estos programas operativos anuales, que deberán ser congruentes entre sí, regirán durante el año respectivo, las actividades de la administración pública en su conjunto servirán de base para la integración de los anteproyectos de presupuestos anuales que las propias dependencias, municipales y entidades deberán elaborar conforme a la legislación aplicable.
+Los Entes Públicos encargados de la ejecución del PLED, y de los programas de desarrollo municipal, así como de los programas sectoriales, institucionales y especiales, elaborarán programas operativos anuales sectorizados que incluirán los aspectos programáticos y de congruencia con el PLED. Estos programas operativos anuales regirán durante el año respectivo las actividades de la Administración Pública en su conjunto y servirán de base para la integración de los anteproyectos de presupuestos de egresos que los propios Entes Públicos deberán elaborar conforme a la legislación aplicable.
 
 ###### ARTICULO 35.
 
 Los planes y programas a que se refieren los artículos anteriores, especificarán las acciones que serán objeto de coordinación entre los gobernantes de los municipios, del Estado y de la Federación, así como de inducción o concertación con los grupos sociales interesados.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE OCTUBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE NOVIEMBRE DE 2011)</small>
 
 ###### ARTICULO 36.
 
-El plan estatal y los programas regionales, estatales y especiales deberán ser sometidos por la Secretaría de Planeación en el seno del Comité de Planeación para el Desarrollo del Estado de Tabasco a que alude el artículo 16 de esta Ley, a la consideración y aprobación del Gobernador del Estado.
+El PLED y los programas sectoriales y especiales deberán ser presentados por la SEPLADES en el seno del COPLADET a que alude el artículo 16 de esta Ley; y sometido a la consideración y aprobación del Gobernador del Estado.
 
 Los programas institucionales deberan ser sometidos por el organo de Gobierno y Administración de la entidad paraestatal o paramunicipal respectiva, a la aprobación del titular de la dependencia coordinadora del sector, en el primer caso, y al ayuntamiento en el segundo.
 
-> <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2008)</small>
+> <small>(REFORMADO, P.O. 2 DE NOVIEMBRE DE 2011)</small>
 
-Si la entidad paraestatal no estuviera agrupada en un sector específico, la aprobación a que alude el párrafo anterior corresponderá a la Secretaría de Planeación.
+Si la entidad paraestatal no estuviera agrupada en un sector específico, la aprobación a que alude el párrafo anterior corresponderá a la SEPLADES.
 
-Los programas sectoriales deberán ser sometidos a la consideración y aprobación del Gobernador del Estado, en el seno del comité de planeación para el desarrollo del Estado de Tabasco a que alude el artículo 16 de esta Ley, por la dependencia coordinadora del sector correspondiente.
+> <small>(REFORMADO, P.O. 2 DE NOVIEMBRE DE 2011)</small>
+
+Los programas sectoriales deberán ser sometidos a la consideración y aprobación del Gobernador del Estado, en el seno del COPLADET a que alude el artículo 16 de esta Ley, por el Ente Público coordinador del sector correspondiente.
 
 > <small>(REFORMADO, P.O. 16 DE JUNIO DE 1999)</small>
 
@@ -342,9 +466,11 @@ El Programa Operativo Anual del Poder Ejecutivo y demás Programas que de ellos 
 
 Los Programas Operativos Anuales Municipales y demás programas que de ellos se deriven, una vez aprobados por los Ayuntamientos, serán publicados en el Periódico Oficial del Estado y difundidos en sus respectivas demarcaciones territoriales, por los medios de comunicación impresos que se consideren idóneos, dentro de los primeros noventa días de cada ejercicio fiscal anual, asimismo, se publicarán de manera trimestral las adecuaciones y ajustes de dichos programas, para hacerlos del conocimiento general de la población.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE NOVIEMBRE DE 2011)</small>
+
 ###### ARTICULO 39.
 
-Los planes y los programas serán revisados con la prioricidad (sic) que determinen las disposiciones reglamentarias. Los resultados de las revisiones y en su caso, las adecuaciones consecuentes al Plan Estatal y a los Programas que de él se deriven, previa su aprobación por parte del titular del ejecutivo se publicarán, igualmente, en el "Periódico Oficial" del Estado.
+El PLED y los programas que de él se deriven serán revisados al concluirse el tercer año de administración del Poder Ejecutivo. Los resultados de las revisiones y en su caso, las adecuaciones consecuentes al PLED y a los programas que de él se deriven, previa su aprobación por parte del Titular del Ejecutivo, se publicarán en el Periódico Oficial del Estado.
 
 Los resultados de las revisiones y en su caso las adecuaciones consecuentes a los planes municipales y a los programas que de ellos se deriven, se publicarán en los municipios y en el "Periódico Oficial" del Estado.
 
@@ -406,17 +532,19 @@ VI.- La ejecución de las acciones que deban realizarse en cada entidad municipa
 
 VII.- La ejecución de las acciones que deban realizarse en cada entidad municipal y que competen a los ordenes federal, estatal y municipal, considerando la participación que corresponda a los municipios interesados y a los sectores de la sociedad.
 
-> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO, P.O. 2 DE NOVIEMBRE DE 2011)</small>
 
-Para este efecto la Secretaría de Planeación en el seno del Comité de Planeación del Desarrollo del Estado de Tabasco, a que alude el artículo 16 de esta Ley propondrá los procedimientos conforme a los cuales se convendrá la ejecución de estas acciones, tomando en consideración los criterios que señalen las dependencias coordinadoras de sector, tanto federales como estatales, conforme a sus atribuciones.
+Para este efecto la SEPLADES en el seno del COPLADET, a que alude el artículo 16 de esta Ley propondrá los procedimientos conforme a los cuales se convendrá la ejecución de estas acciones, tomando en consideración los criterios que señalen los Entes Públicos coordinadores de sector, tanto federales como estatales, conforme a sus atribuciones.
 
 ###### ARTICULO 50.
 
 En la celebración de los convenios a que se refiere este capítulo, el ejecutivo estatal definirá la participación de los órganos de la Administración Pública centralizada y organismos paraestatales que actuen en la entidad, en las actividades de planeación que realicen los respectivos gobiernos de los municipios.
 
+> <small>(REFORMADO, P.O. 2 DE NOVIEMBRE DE 2011)</small>
+
 ###### ARTICULO 51.
 
-El ejecutivo ordenará la publicación, en el "Periódico Oficial" el Estado, de los convenios que se suscriban con los gobiernos de las entidades federales y municipales, una vez aprobados por el Congreso del Estado.
+El Ejecutivo ordenará la publicación, en el Periódico Oficial del Estado, de los convenios que se suscriban con los ayuntamientos, los gobiernos de las Entidades Federativas o con la Federación, que requieran aprobación del Congreso del Estado.
 
 ### CAPITULO SEXTO
 
@@ -445,6 +573,18 @@ Los proyectos de presupuestos de Egresos del Estado; los programas y presupuesto
 El propio Ejecutivo del Estado y las entidades paraestatales observan dichos objetivos y prioridades en la concertación de acciones previstas en el Plan Estatal y de los programas que de él se deriven, con las representaciones de los grupos sociales o con los particulares interesados.
 
 Los ayuntamientos y las entidades paramunicipales observarán asimismo dichos objetivos y prioridades en la concertación de acciones previstas en los planes municipales y en los Programas que de ellos se derivan, con las representaciones de los grupos sociales o con los particulares interesados.
+
+> <small>(ADICIONADO, P.O. 2 DE NOVIEMBRE DE 2011)</small>
+
+ARTICULO 56 BIS.- Los anteproyectos de presupuestos de egresos de los Entes Públicos en el ámbito de su competencia deberán sujetarse a la estructura programática aprobada por SAF, SEPLADES y SECOTAB, la cual deberá contener como mínimo:
+
+I.- Las categorías, que comprenderán la función, subfunción y programa; y
+
+II.- Los elementos, que comprenderán la misión, visión, objetivos, metas con base en indicadores de desempeño y unidad responsable, en congruencia con el PLED, los programas sectoriales, especiales y operativos anuales que de éste se deriven.
+
+La estructura programática deberá ser sencilla y facilitar tanto el análisis del Presupuesto como la vinculación de la programación con el PLED y los programas que de él se deriven; debiendo incluirse indicadores de desempeño con sus metas anuales en los términos de las disposiciones aplicables.
+
+... (SIC)
 
 ###### ARTICULO 57.
 
@@ -533,3 +673,17 @@ P.O. 20 DE DICIEMBRE DE 2008.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones jurídicas que se opongan al presente Decreto.
+
+P.O. 2 DE NOVIEMBRE DE 2011.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación; sin embargo, los preceptos de Presupuesto basado en Resultados señalados en el artículo 56 bis, serán de observancia hasta la integración del Anteproyecto del Presupuesto de Egresos correspondiente al ejercicio 2013.
+
+###### ARTÍCULO SEGUNDO.
+
+El Ejecutivo del Estado creará el Consejo Estatal de Evaluación a más tardar 60 días a partir de la entrada en vigor de esta Ley.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan las disposiciones que se opongan al presente Decreto.
