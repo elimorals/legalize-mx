@@ -4,7 +4,7 @@ identifier: "MOR-reglamento-interior-de-la-secretaria-de-desarrollo-urbano-y-560
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-06-22"
-last_updated: "2007-06-22"
+last_updated: "2011-11-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56080&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "MOR"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA DE DESARROLLO URBANO Y OBRAS PUBLICAS DEL AYUNTAMIENTO DE CUERNAVACA
 
-REGLAMENTO INTERIOR DE LA SECRETARIA DE DESARROLLO URBANO Y OBRAS PUBLICAS DEL AYUNTAMIENTO DE CUERNAVACA
+REGLAMENTO INTERIOR DE LA SECRETARÍA DE DESARROLLO URBANO Y OBRAS PÚBLICAS DEL AYUNTAMIENTO DE CUERNAVACA
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE DESARROLLO URBANO, OBRAS Y SERVICIOS PÚBLICOS MUNICIPALES Y MEDIO AMBIENTE DEL AYUNTAMIENTO DE CUERNAVACA, MORELOS, PUBLICADO EN EL P.O. DE 2 DE NOVIEMBRE DE 2011, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Periódico Oficial del Estado de Morelos, el viernes 22 de junio de 2007.
 
@@ -660,3 +662,17 @@ C. ERIKA CORTÉS MARTÍNEZ
 SECRETARIA DEL AYUNTAMIENTO
 
 RÚBRICAS.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 2 DE NOVIEMBRE DE 2011.
+
+PRIMERO.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", Órgano Informativo que edita el Gobierno del Estado de Morelos.
+
+SEGUNDO.- Se abroga el Reglamento Interior de la Secretaría de Desarrollo Urbano y Obras Públicas del Ayuntamiento de Cuernavaca, Morelos, publicado en el Periódico Oficial "Tierra y Libertad" número 4540, de fecha 22 de junio del año 2007, y el Reglamento Interior de la Secretaría de Servicios Públicos y Medio Ambiente del Ayuntamiento de Cuernavaca, Morelos, publicado en el Periódico Oficial "Tierra y Libertad" número 4540, de fecha 22 de junio del año 2007.
+
+TERCERO.- Se derogan las disposiciones que se opongan a lo establecido en el presente Reglamento.
+
+CUARTO.- En tanto se expiden los Manuales a que se hace referencia en el presente Reglamento, el Secretario de Desarrollo Urbano, Obras y Servicios Públicos y Medio Ambiente, queda facultado para resolver todas las cuestiones que se originen con motivo de la aplicación del presente ordenamiento.
+
+QUINTO.- Para lo no previsto en el presente Reglamento, se estará a lo dispuesto por el Cabildo.
