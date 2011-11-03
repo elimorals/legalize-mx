@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-educacion-del-estado-de-san-luis-potosi-7928"
 country: "mx"
 rank: "ley"
 publication_date: "1995-06-16"
-last_updated: "2011-10-29"
+last_updated: "2011-11-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7928&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "SLP"
 ---
 # LEY DE EDUCACION DEL ESTADO DE SAN LUIS POTOSI
 
-LEY DE EDUCACION DEL ESTADO DE SAN LUIS POTOSI
+LEY DE EDUCACIÓN DEL ESTADO DE SAN LUIS POTOSÍ
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE OCTUBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE NOVIEMBRE DE 2011.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de San Luis Potosí, el viernes 16 de junio de 1995.
 
@@ -55,9 +55,11 @@ Esta Ley es de observancia general, de orden público e interés social; regula 
 
 La educación que se imparta en la Entidad se regirá conforme a los principios y lineamientos establecidos en el artículo 3º y demás relativos de la Constitución Política de los Estados Unidos Mexicanos, la Ley General de Educación, la Constitución Política del Estado de San Luis Potosí, los contenidos en la presente Ley, las normas, convenios y demás disposiciones que de ellas se deriven.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE NOVIEMBRE DE 2011)</small>
+
 ###### ARTICULO 3º.
 
-La educación es el medio fundamental para adquirir, transmitir y acrecentar la cultura; es proceso permanente que contribuye al desarrollo del individuo y a la transformación de la sociedad; es factor determinante para la adquisición de conocimientos y para la formación de valores en el hombre, de manera que tenga sentido de solidaridad social.
+La educación es el medio fundamental para adquirir, transmitir y acrecentar la cultura; es proceso permanente que contribuye al desarrollo del individuo y a la transformación de la sociedad: es factor determinante para la adquisición de conocimientos y para la formación de valores en la mujer y el hombre, de manera que tenga sentido de solidaridad social.
 
 En el proceso educativo deberá asegurarse que la participación del educando sea activa, estimulando su iniciativa y sentido de responsabilidad social, a efecto de alcanzar los fines establecidos en el artículo 9º de la presente Ley.
 
@@ -75,19 +77,15 @@ Estos servicios se prestarán en el marco del federalismo y la concurrencia, pre
 
 Atenderá también la educación inicial, preescolar, indígena, especial y normal, así como las que contribuyen a la formación de docentes.
 
-> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2004)</small>
+> <small>(REFORMADO, P.O. 3 DE NOVIEMBRE DE 2011)</small>
 
 ###### ARTICULO 6º.
 
-Los habitantes de la Entidad deben cursar la educación preescolar, primaria y secundaria; y los padres o tutores están obligados a hacer que sus hijos o pupilos, menores de edad, cursen ambos niveles educativos.
+Los habitantes de la Entidad deben cursar la educación preescolar, primaria y secundaria; y los padres o tutores están obligados a hacer que sus hijas, hijos o pupilos, menores de edad, cursen estos niveles educativos.
 
-> <small>(ADICIONADO, P.O. 14 DE SEPTIEMBRE DE 2006)</small>
+Para obtener inscripción en escuelas públicas para que sus hijas, hijos o pupilos menores de edad que satisfagan los requisitos aplicables, reciban la educación preescolar y primaria, deberá tener la edad mínima para ingresar a la educación básica, a nivel preescolar de 3 años; y para nivel primaria 6 años; cumplidos al 31 de diciembre del año de inicio del ciclo escolar.
 
-Para obtener inscripción en escuelas públicas para que sus hijos o pupilos menores de edad que satisfagan los requisitos aplicables, reciban la educación preescolar y primaria, deberá tener la edad mínima para ingresar a la educación básica, a nivel preescolar de 3 años; y para nivel primaria 6 años; cumplidos al 31 de diciembre del año de inicio del ciclo escolar.
-
-> <small>(ADICIONADO, P.O. 20 DE JULIO DE 2010)</small>
-
-Los padres o tutores, cuyos hijos o tutelados cursen la educación básica en escuelas públicas o particulares, deben participar en los Talleres para Padres de Familia. La Secretaría de Educación de Gobierno del Estado elaborará la guía que proporcione los contenidos de capacitación y orientación en estos talleres.
+Los padres o tutores, cuyos hijos, hijas o tutelados cursen la educación básica en escuelas públicas o particulares, deben participar en los Talleres para Padres de Familia. La Secretaría de Educación de Gobierno del Estado elaborará la guía que proporcione los contenidos de capacitación y orientación en estos talleres.
 
 ###### ARTICULO 7º.
 
@@ -97,13 +95,15 @@ Los servicios educativos que el Gobierno del Estado imparta serán gratuitos. La
 
 La educación que el Gobierno del Estado imparta será laica y por tanto se mantendrá por completo ajena a cualquier doctrina religiosa.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTICULO 9º.
 
 La educación que el Gobierno del Estado y los municipios impartan; los organismos descentralizados y los particulares con autorización reconocimiento de validez oficial de estudios tendrá, además de los fines establecidos en el párrafo segundo del artículo 3° de la Constitución Política de los Estados Unidos Mexicanos, los siguientes:
 
-I.- Contribuir al desarrollo integral del individuo, para que ejerza plenamente sus capacidades humanas;
+> <small>(REFORMADA, P.O. 3 DE NOVIEMBRE DE 2011)</small>
+
+I.- Contribuir al desarrollo integral del individuo, para que ejerza responsable y plenamente sus capacidades humanas;
 
 II.- Favorecer el desarrollo de facultades para adquirir conocimientos, así como la capacidad de observación, análisis y reflexión crítica;
 
@@ -117,9 +117,9 @@ Los hablantes de lenguas indígenas tendrán acceso a la educación obligatoria 
 
 V.- Infundir el conocimiento y práctica de la democracia como la forma de gobierno y convivencia que permite a todos participar en la toma de decisiones para el mejoramiento de la sociedad;
 
-> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 3 DE NOVIEMBRE DE 2011)</small>
 
-VI.- Promover el valor de la justicia, de la observancia de la ley, y de la igualdad de los individuos ante ésta; el desarrollo de una cultura por la paz y la no violencia en cualquier tipo de sus manifestaciones; de la equidad de género; y de la riqueza multicultural y pluriétnica de la nación; así como propiciar el conocimiento de los derechos humanos, y el respeto a los mismos;
+VI.- Promover el valor de la justicia, de la observancia de la ley, y de la igualdad de los individuos ante ésta, propiciar la cultura de la legalidad, de la paz y la no violencia en cualquier tipo de sus manifestaciones; de la equidad de género; y de la riqueza multicultural y pluriétnica de la nación; así como propiciar el conocimiento de los derechos humanos, y el respeto a los mismos;
 
 VII.- Fomentar actitudes que estimulen la investigación y la innovación científica y tecnológica;
 
@@ -127,7 +127,9 @@ VIII.- Impulsar la creación artística y propiciar la adquisición, el enriquec
 
 IX.- Estimular la educación física y la práctica del deporte, así como fomentar la recreación y la cultura orientados hacia la integridad individual y social;
 
-X.- Desarrollar actitudes solidarias en los individuos, para crear conciencia sobre la preservación de la salud, la planeación familiar, la paternidad responsable y el valor de la convivencia; sin menoscabo de la libertad y del respeto absoluto a la moral y a la dignidad humana;
+> <small>(REFORMADA, P.O. 3 DE NOVIEMBRE DE 2011)</small>
+
+X.- Desarrollar actitudes solidarias en los individuos, para crear conciencia sobre la preservación de la salud, el ejercicio responsable de la sexualidad, la planeación familiar y la paternidad responsable, sin menoscabo de la libertad y del respeto absoluto a la dignidad humana;
 
 > <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2010)</small>
 
@@ -525,13 +527,13 @@ El ausentismo de los maestros que impartan clases en las comunidades indígenas,
 
 Para la correcta aplicación de los términos que se utilizan en el presente artículo, referentes a comunidad indígena, indígenas y demás relativos, se estará a lo dispuesto en la Ley Reglamentaria del artículo 9° de la Constitución del Estado, sobre Derechos y Cultura Indígenas.
 
+> <small>(REFORMADO, P.O. 3 DE NOVIEMBRE DE 2011)</small>
+
 ###### ARTICULO 36.
 
-La educación especial está destinada a individuos con discapacidades transitorias o definitivas, así como a aquellos con aptitudes sobresalientes. Procurará atender a los educandos de manera adecuada a sus propias condiciones, con equidad social.
+La educación especial está destinada a personas con discapacidades transitorias o definitivas, así como a aquellos con aptitudes sobresalientes. Procurará atender a los educandos de manera adecuada a sus propias condiciones, con equidad social incluyente y con perspectiva de género.
 
-Tratándose de menores de edad con discapacidades, la educación especial propiciará su integración a los planteles de educación básica regular. Para quienes no logren esa integración, esta educación procurará la satisfacción de necesidades básicas de aprendizaje para la autónoma convivencia social y productiva.
-
-Esta educación incluye orientación a los padres o tutores, así como también a los maestros y personal de escuelas de educación básica regular que integren a alumnos con necesidades especiales de educación.
+Tratándose de menores de edad con discapacidad, la educación especial propiciará su integración a los planteles de educación básica regular. Para quienes no logren esa integración, esta educación procurará la satisfacción de necesidades básicas de aprendizaje para la autónoma convivencia social y productiva, para lo cual se promoverá la elaboración de programas y materiales de apoyo didácticos necesarios.
 
 ###### ARTICULO 37.
 
@@ -781,9 +783,11 @@ Las autoridades educativas, en sus respectivas competencias, revisarán permanen
 
 En las actividades de supervisión las autoridades educativas darán prioridad, respecto de los procedimientos administrativos, a los apoyos técnicos, didácticos y demás para el adecuado desempeño de la función docente. Asimismo, se fortalecerá la capacidad de gestión de las autoridades escolares y la participación de los padres de familia.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE NOVIEMBRE DE 2011)</small>
+
 ###### ARTICULO 60.
 
-Las negociaciones o empresas establecerán y sostendrán escuelas, cuando el número de educandos hijos de trabajadores, sea mayor de veinte, conforme a lo establecido en la fracción XII del apartado A) del artículo 123 de la Constitución Política de los Estados Unidos Mexicanos. Estos planteles quedarán bajo la dirección administrativa de la Secretaría de Educación del Gobierno del Estado y:
+Las negociaciones o empresas establecerán y sostendrán escuelas, cuando el número de educandos, hijas o hijos de trabajadores, sea mayor de veinte, conforme a lo establecido en la fracción XII del apartado A) del artículo 123 de la Constitución Política de los Estados Unidos Mexicanos. Estos planteles quedarán bajo la dirección administrativa de la Secretaría de Educación del Gobierno del Estado.
 
 I.- Contarán con edificios, instalaciones y demás elementos necesarios para realizar su función, en los términos que señalan las disposiciones aplicables;
 
@@ -931,33 +935,37 @@ II.- Desarrollarán programas de apoyo, incluidos los de carácter económico, a
 
 III.- Promoverán centros de desarrollo infantil, centros de integración social, internados, albergues escolares infantiles y demás planteles que apoyen en forma continua y estable el aprendizaje y el aprovechamiento de los alumnos;
 
-> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 3 DE NOVIEMBRE DE 2011)</small>
 
-IV.- Prestarán servicios educativos para atender a quienes abandonaron el sistema regular, que les faciliten la terminación de la educación preescolar, primaria y secundaria, otorgando facilidades de acceso, reingreso, permanencia y egreso;
+IV.- Con enfoque de equidad y género, prestarán servicios educativos para atender a quienes abandonaron el sistema regular, que les faciliten la terminación de la educación preescolar, primaria y secundaria, otorgando facilidades de acceso, reingreso, permanencia y egreso;
 
 V.- Otorgarán apoyos pedagógicos a grupos con requerimientos educativos específicos, tales como programas encaminados a recuperar retrasos en el aprovechamiento escolar de los alumnos;
 
 VI.- Realizarán campañas educativas que tiendan a elevar los niveles culturales, sociales y el bienestar de la población, tales como programas de alfabetización y de educación comunitaria;
 
-VII.- Desarrollarán programas para otorgar becas y demás apoyos económicos a educandos;
+> <small>(REFORMADA, P.O. 3 DE NOVIEMBRE DE 2011)</small>
 
-VIII.- Efectuarán programas dirigidos a los padres de familia, que les permita dar mejor atención a sus hijos;
+VII.- Desarrollarán programas con perspectiva de género, para otorgar becas y demás apoyos económicos preferentemente a los estudiantes que enfrenten condiciones económicas y sociales que les impidan ejercer su derecho a la educación;
+
+> <small>(REFORMADA, P.O. 3 DE NOVIEMBRE DE 2011)</small>
+
+VIII.- Efectuarán programas dirigidos a los padres de familia, que les permita dar mejor atención a sus hijas o hijos;
 
 IX.- Establecerán sistemas de educación a distancia;
 
 X.- Otorgarán estímulos a las organizaciones civiles, a las cooperativas de maestros y a las instituciones que se dediquen a la enseñanza particular y por cooperación;
 
-> <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 2011)</small>
+> <small>(REFORMADA, P.O. 29 DE OCTUBRE DE 2011)</small>
 
 XI.- Promoverán mayor participación de la sociedad en la educación, así como el apoyo de los particulares al financiamiento y a las actividades a que se refiere este capítulo;
 
-> <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 2011)</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 3 DE NOVIEMBRE DE 2011)</small>
 
 XII.- Concederán reconocimientos y distinciones a quienes contribuyan a la consecución de los propósitos mencionados en el artículo anterior, y
 
-> <small>(ADICIONADA, P.O. 29 DE OCTUBRE DE 2011)</small>
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 3 DE NOVIEMBRE DE 2011)</small>
 
-XIII.- Proporcionarán materiales educativos en las lenguas indígenas que correspondan, en las escuelas en donde asista mayoritariamente población indígena.
+XIII.- Apoyarán y desarrollarán programas destinados a que los padres y/o tutores apoyen en circunstancias de igualdad los estudios de sus hijas e hijos; prestando especial atención a la necesidad de que aquellos tomen conciencia de la importancia de que las niñas deben recibir un trato igualitario y que deben recibir las mismas oportunidades educativas que los varones.
 
 ###### ARTICULO 76.
 
@@ -1089,9 +1097,13 @@ De los Padres de Familia.
 
 Son derechos de quienes ejercen la patria potestad o la tutela:
 
-I.- Obtener inscripción en escuelas públicas de la entidad para que sus hijos o pupilos menores de edad, que satisfagan los requisitos aplicables, reciban la educación inicial, especial, preescolar, primaria y secundaria, incluyendo la educación indígena;
+> <small>(REFORMADA, P.O. 3 DE NOVIEMBRE DE 2011)</small>
 
-II.- Participar a las autoridades de la escuela en que estén inscritos sus hijos o pupilos, cualquier problema relacionado con la educación de éstos, a fin de que aquéllas se aboquen a su solución;
+I. Obtener inscripción en escuelas públicas de la Entidad para que sus hijas, hijos o pupilos menores de edad, que satisfagan los requisitos aplicables, reciban la educación inicial, especial, preescolar, primaria y secundaria, incluyendo la educación indígena;
+
+> <small>(REFORMADA, P.O. 3 DE NOVIEMBRE DE 2011)</small>
+
+II. Participar a las autoridades de la escuela en que estén inscritos sus hijas, hijos o pupilos, cualquier problema relacionado con la educación de éstos, a fin de que aquéllas se aboquen a su solución;
 
 III.- Colaborar con las autoridades escolares, para la superación de los educandos y en el mejoramiento de los establecimientos educativos;
 
@@ -1121,15 +1133,17 @@ X.- Los demás establecidos en las leyes y reglamentos respectivos.
 
 Son obligaciones de quienes ejercen la patria potestad o la tutela:
 
-> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 3 DE NOVIEMBRE DE 2011)</small>
 
-I.- Hacer que sus hijos o pupilos, menores de edad, reciban la educación preescolar, primaria y secundaria;
+I. Hacer que sus hijas, hijos o pupilos, menores de edad, reciban la educación preescolar, primaria y secundaria;
 
-II.- Apoyar el proceso educativo de sus hijos o pupilos;
+> <small>(REFORMADA, P.O. 3 DE NOVIEMBRE DE 2011)</small>
 
-> <small>(REFORMADA, P.O. 20 DE JULIO DE 2010)</small>
+II. Apoyar el proceso educativo de sus hijas, hijos o pupilos, y (sic)
 
-III.- Colaborar con las instituciones educativas en las que estén inscritos sus hijos o pupilos, en las actividades que dichas instituciones realicen;
+> <small>(REFORMADA, P.O. 3 DE NOVIEMBRE DE 2011)</small>
+
+III. Colaborar con las instituciones educativas en las que estén inscritos sus hijas, hijos o pupilos, en las actividades que dichas instituciones realicen.
 
 > <small>(ADICIONADA, P.O. 29 DE OCTUBRE DE 2011)</small>
 
@@ -1163,9 +1177,9 @@ III.- Participar en la aplicación de cooperaciones en numerario, bienes y servi
 
 IV.- Proponer las medidas que estimen conducentes para alcanzar los objetivos señalados en las fracciones anteriores;
 
-> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 29 DE MARZO DE 2008)</small>
+> <small>(REFORMADA, P.O. 3 DE NOVIEMBRE DE 2011)</small>
 
-V.- Coadyuvar con las autoridades educativas difundiendo entre los padres de familia, información sobre la importancia del consumo de alimentos y bebidas con alto contenido nutricional y bajo contenido calórico, y su influencia en los procesos de aprendizaje de sus hijos, y
+V. Coadyuvar con las autoridades educativas difundiendo entre los padres de familia, información sobre la importancia del consumo de alimentos y bebidas con alto contenido nutricional y bajo contenido calórico, y su influencia en los procesos de aprendizaje de sus hijas o hijos.
 
 > <small>(ADICIONADA, P.O. 29 DE MARZO DE 2008)</small>
 
@@ -1211,7 +1225,9 @@ ARTICULO 90 QUATER.- Las asociaciones de padres de familia tienen las siguientes
 
 I.- Registrar ante la Secretaría de Educación Pública en el Estado, su conformación e integración, acompañando los documentos y constancias correspondientes.
 
-Ningún padre de familia podrá ser miembro de la asociación de padres de familia de institución educativa, en la cual sus hijos o pupilos no se encuentren inscritos;
+> <small>(REFORMADO, P.O. 3 DE NOVIEMBRE DE 2011)</small>
+
+Ningún padre de familia podrá ser miembro de la asociación de padres de familia de institución educativa, en la cual sus hijas, hijos o pupilos no se encuentren inscritos.
 
 II.- Acordar, de manera conjunta con los padres de familia asociados, el monto de las aportaciones, y el destino de las mismas;
 
@@ -1710,6 +1726,12 @@ PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
 
 P.O. 29 DE OCTUBRE DE 2011.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 3 DE NOVIEMBRE DE 2011.
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
