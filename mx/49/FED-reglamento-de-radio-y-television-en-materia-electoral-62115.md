@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-radio-y-television-en-materia-electoral-62115"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-08-11"
-last_updated: "2011-06-30"
+last_updated: "2011-11-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62115&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,9 +21,9 @@ issue_date: "2008-07-10"
 
 REGLAMENTO DE ACCESO A RADIO Y TELEVISION EN MATERIA ELECTORAL
 
-> <small>N. DE E. LAS REFORMAS APROBADAS POR EL ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO FEDERAL ELECTORAL, MODIFICA DE MANERA SUSTANCIAL PRACTICAMENTE TODO EL TEXTO DEL REGLAMENTO DEL 11 DE AGOSTO DE 2008, DANDO COMO RESULTADO UN TEXTO DIFERENTE AL ORIGINAL, Y SI BIEN DIVERSOS ARTICULOS QUEDARON INTACTOS POR LA REFORMA, DEBIDO A LO ANTERIOR SE CONSERVA EL TEXTO APROBADO Y PUBLICADO EN EL D.O.F. DE 30 DE JUNIO DE 2011.</small>
+> <small>N. DE E. DE CONFORMIDAD CON LAS REFORMAS APROBADAS POR EL CONSEJO GENERAL DEL INSTITUTO FEDERAL ELECTORAL, PUBLICADO EN EL D.O.F. DE 3 DE NOVIEMBRE DE 2011, SE MODIFICO DE FORMA SUSTANCIAL EL REGLAMENTO.</small>
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 30 DE JUNIO DE 2011.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 3 DE NOVIEMBRE DE 2011.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el lunes 11 de agosto de 2008.
 
@@ -181,11 +181,11 @@ Primero.- Se expide el Reglamento de Acceso a Radio y Televisión en Materia Ele
 
 REGLAMENTO DE ACCESO A RADIO Y TELEVISION EN MATERIA ELECTORAL
 
-> <small>(REFORMADO, D.O.F. 30 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO, D.O.F. 3 DE NOVIEMBRE DE 2011)</small>
 
 ## TITULO PRIMERO. Disposiciones preliminares
 
-> <small>(REFORMADO, D.O.F. 30 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO, D.O.F. 3 DE NOVIEMBRE DE 2011)</small>
 
 Artículo 1
 
@@ -193,35 +193,35 @@ Del objeto y ámbito de aplicación
 
 1. El presente ordenamiento tiene por objeto establecer las normas conforme a las cuales se instrumentarán las disposiciones de la Constitución Política de los Estados Unidos Mexicanos y del Código Federal de Instituciones y Procedimientos Electorales, relativas al ejercicio de las prerrogativas de los partidos políticos en materia de acceso a la radio y a la televisión, así como a la administración de los tiempos destinados en dichos medios a los fines propios del Instituto Federal Electoral y los de otras autoridades electorales; así como a las prohibiciones que en dichos ordenamientos se establecen en materia de radio y televisión.
 
-2. El presente Reglamento es de observancia general y obligatoria para el Instituto Federal Electoral, los partidos políticos, nacionales y locales, sus dirigentes, militantes, afiliados y simpatizantes, los concesionarios y permisionarios de estaciones de radio y canales de televisión, las autoridades electorales y no electorales, los aspirantes, los precandidatos y candidatos a cargos de elección popular, así como para cualquier persona física o moral.
+2. El presente Reglamento es de observancia general y obligatoria para el Instituto Federal Electoral, los partidos políticos, nacionales y locales, sus dirigentes, militantes, afiliados y simpatizantes, los concesionarios y permisionarios de estaciones de radio y canales de televisión, así como sus afiliadas, las autoridades electorales y no electorales, los aspirantes, los precandidatos y candidatos a cargos de elección popular, así como para cualquier persona física o moral.
 
-> <small>(REFORMADO, D.O.F. 30 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO, D.O.F. 3 DE NOVIEMBRE DE 2011)</small>
 
 Artículo 2
 
 De los criterios de interpretación
 
-1. La interpretación de las disposiciones de este Reglamento se llevará cabo conforme a los principios establecidos en el párrafo 2 del artículo 3 del Código Federal de Instituciones y Procedimientos Electorales.
+1. La interpretación de las disposiciones de este Reglamento se llevará a cabo conforme a los principios establecidos en el párrafo 2, del artículo 3 del Código Federal de Instituciones y Procedimientos Electorales.
 
-2. Lo no previsto en el presente Reglamento será resuelto por el Consejo General, la Junta General Ejecutiva, la Comisión de Quejas y Denuncias, la Dirección Ejecutiva de Prerrogativas y Partidos Políticos, así como por el Comité de Radio y Televisión, en sus respectivos ámbitos de competencia.
+2. Lo no previsto en el presente Reglamento será resuelto por el Consejo General, la Junta General Ejecutiva, la Dirección Ejecutiva de Prerrogativas y Partidos Políticos, el Comité de Radio y Televisión; así como por la Comisión de Quejas y Denuncias, en sus respectivos ámbitos de competencia.
 
-> <small>(REFORMADO, D.O.F. 30 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO, D.O.F. 3 DE NOVIEMBRE DE 2011)</small>
 
 Artículo 3
 
 De la supletoriedad
 
-1. A falta de disposición expresa se aplicarán, en lo que no se opongan, los ordenamientos previstos por el artículo 7-A de la Ley Federal de Radio y Televisión y la Ley General del Sistema de Medios de Impugnación en Materia Electoral.
+1. A falta de disposición expresa se aplicarán, en lo conducente, los ordenamientos previstos por el artículo 7-A de la Ley Federal de Radio y Televisión y la Ley General del Sistema de Medios de Impugnación en Materia Electoral.
 
-> <small>(REFORMADO, D.O.F. 30 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO, D.O.F. 3 DE NOVIEMBRE DE 2011)</small>
 
 Artículo 4
 
 De los órganos competentes
 
-1. El Instituto Federal Electoral es la autoridad única para la administración del tiempo que corresponde al Estado en radio y televisión, destinado a sus propios fines y a otras autoridades electorales, y al ejercicio del derecho de los Partidos políticos nacionales y locales.
+1. El Instituto Federal Electoral es la única autoridad facultada para la administración del tiempo que corresponde al Estado en radio y televisión, destinado a sus propios fines y a otras autoridades electorales, y al ejercicio de la prerrogativa otorgada en esta materia a los partidos políticos nacionales y locales.
 
-2. Para tal efecto operará un Sistema Integral para Administración de los Tiempos del Estado y ejercerá las facultades en materia de radio y televisión que le otorgan la Constitución Política de los Estados Unidos Mexicanos, el Código Federal de Instituciones y Procedimientos Electorales, el Reglamento de Quejas y Denuncias, y este Reglamento, por medio de los siguientes órganos:
+2. Para tal efecto operará un Sistema Integral para la Administración de los Tiempos del Estado y ejercerá las facultades en materia de radio y televisión que le otorgan la Constitución Política de los Estados Unidos Mexicanos, el Código Federal de Instituciones y Procedimientos Electorales, el Reglamento de Quejas y Denuncias, y este Reglamento, por medio de los siguientes órganos:
 
 a) El Consejo General;
 
@@ -233,9 +233,9 @@ d) El Comité de Radio y Televisión;
 
 e) La Comisión de Quejas y Denuncias, y
 
-f) Los vocales ejecutivos y juntas ejecutivas en los órganos desconcentrados, locales y distritales.
+f) Los Vocales Ejecutivos y Juntas Ejecutivas en los órganos desconcentrados, locales y distritales.
 
-> <small>(REFORMADO, D.O.F. 30 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO, D.O.F. 3 DE NOVIEMBRE DE 2011)</small>
 
 Artículo 5
 
@@ -245,7 +245,7 @@ Del glosario
 
 a) Por lo que se refiere a los ordenamientos jurídicos:
 
-I. Constitución: Constitución Política de los Estados Unidos Mexicanos;
+I. Constitución: La Constitución Política de los Estados Unidos Mexicanos;
 
 II. Código: El Código Federal de Instituciones y Procedimientos Electorales;
 
@@ -261,7 +261,7 @@ II. Consejo: El Consejo General del Instituto Federal Electoral;
 
 III. Junta: La Junta General Ejecutiva del Instituto Federal Electoral;
 
-IV. Secretario Ejecutivo: El Secretario Ejecutivo del Instituto Federal Electoral, en su calidad de Secretario del Consejo y de la Junta;
+IV. Secretaría Ejecutiva: La Secretaría Ejecutiva del Instituto Federal Electoral;
 
 V. Dirección Ejecutiva: La Dirección Ejecutiva de Prerrogativas y Partidos Políticos;
 
@@ -275,53 +275,53 @@ IX. Juntas: Las Juntas Ejecutivas del Instituto, Locales y Distritales;
 
 X. Vocales: Los Vocales Ejecutivos de las Juntas Locales o Distritales del Instituto en las entidades federativas;
 
-XI. TEPJF: El Tribunal Electoral del Poder Judicial de la Federación;
+XI. RTC: La Dirección General de Radio, Televisión y Cinematografía de la Secretaría de Gobernación, y
 
-XII. RTC: La Dirección General de Radio, Televisión y Cinematografía de la Secretaría de Gobernación, y
-
-XIII. COFETEL: La Comisión Federal de Telecomunicaciones.
+XII. COFETEL: La Comisión Federal de Telecomunicaciones.
 
 c) Por lo que hace a la terminología:
 
-I. Cobertura: Toda área geográfica en donde la señal de los canales de televisión y estaciones de radio sea escuchada o vista;
+I. Afiliada: Estación de radio o canal de televisión que, mediante un contrato de representación o cualquier otro medio, es autorizada por un concesionario o permisionario, denominado afiliante, a transmitir la totalidad o parte de la programación de este último, sin cortes comerciales por un horario determinado y para una zona específica;
 
-II. Concesionario: Persona física o moral titular, bajo la modalidad de concesión, de derechos de uso, aprovechamiento y explotación con fines comerciales sobre el espectro radioeléctrico;
+II. Cobertura: Toda área geográfica en donde la señal de los canales de televisión y estaciones de radio sea escuchada o vista;
 
-III. Concesionario de televisión restringida: Persona física o moral que cuente con las concesiones previstas por las fracciones II o IV del artículo 11 de la Ley Federal de Telecomunicaciones, y que comprenda la prestación de servicios de televisión o audio restringidos.
+III. Concesionario: Persona física o moral titular, bajo la modalidad de concesión, de derechos de uso, aprovechamiento y explotación con fines comerciales sobre el espectro radioeléctrico;
 
-IV. Días: Los naturales, salvo cuando por disposición expresa se disponga que los mismos sean hábiles;
+IV. Concesionario de televisión restringida: Persona física o moral que cuente con las concesiones previstas por las fracciones II o IV del artículo 11 de la Ley Federal de Telecomunicaciones, y que comprenda la prestación de servicios de televisión o audio restringidos.
 
-V. Entidad federativa: Cada uno de los Estados libres y soberanos que conforman la Federación, en términos del artículo 43 de la Constitución Política de los Estados Unidos Mexicanos, y el Distrito Federal;
+V. Días: Los naturales, salvo cuando por disposición expresa se disponga que los mismos sean hábiles;
 
-VI. Esquema de corrimiento de horarios vertical: Asignación continua y en orden sucesivo de los mensajes de los partidos políticos, dentro de los horarios de transmisión de los mensajes a que se refiere el Código, hasta concluir, siguiendo el mismo procedimiento, con la totalidad de los mensajes que correspondan a los partidos políticos durante el periodo de que se trate;
+VI. Entidad federativa: Cada uno de los Estados libres y soberanos que conforman la Federación, en términos del artículo 43 de la Constitución Política de los Estados Unidos Mexicanos, y el Distrito Federal;
 
-VII. Intercampañas: El periodo que transcurre del día siguiente al que terminan las precampañas relativas a un cargo de elección popular, al anterior al inicio de las campañas correspondientes;
+VII. Esquema de corrimiento de horarios vertical: Asignación continua y en orden sucesivo de los mensajes de los partidos políticos, dentro de los horarios de transmisión de los mensajes a que se refiere el Código, hasta concluir, siguiendo el mismo procedimiento, con la totalidad de los mensajes que correspondan a los partidos políticos durante el periodo de que se trate;
 
-VIII. Mapa de cobertura: Instrumento técnico, legal, idóneo y pertinente elaborado por el Instituto con la colaboración de la COFETEL y las demás autoridades competentes, que determinan las áreas geográficas donde la señal es escuchada o vista y constituyen la base para la elaboración de los Catálogos que aprueba el Comité
+VII. Intercampañas: El periodo que transcurre del día siguiente al que terminan las precampañas relativas a un cargo de elección popular, al día anterior al inicio de las campañas correspondientes;
 
-IX. Materiales: Programas de 5 minutos y promocionales realizados por los partidos políticos, y/o promocionales realizados por el Instituto o las autoridades electorales, fijados o reproducidos en los medios de almacenamiento y formatos que determine el Instituto, para su transmisión en términos de lo que dispone la Constitución y el Código;
+IX. Mapa de cobertura: Instrumento técnico, legal, idóneo y pertinente elaborado por el Instituto con la colaboración de la COFETEL y las demás autoridades competentes, que determina las áreas geográficas donde la señal es escuchada o vista y constituye la base para la elaboración de los Catálogos que aprueba el Comité; conforme a las normas aplicables, así como su alcance efectivo.
 
-X. Orden de transmisión: Instrumento complementario a la pauta, en el que se precisa la versión de los promocionales que corresponde a los espacios asignados en la pauta a los partidos políticos y a las autoridades electorales.
+X. Materiales: Programas mensuales y promocionales realizados por los partidos políticos, y/o promocionales realizados por el Instituto o las autoridades electorales, fijados o reproducidos en los medios de almacenamiento y formatos que determine el Instituto, para su transmisión en términos de lo que dispone la Constitución y el Código;
 
-XI. Pauta: Documento técnico en el que se distribuye el tiempo, convertido a número de mensajes, que corresponde a los partidos políticos y a las autoridades electorales en un periodo determinado, precisando la estación de radio o canal de televisión, la hora o rango en que debe transmitirse cada mensaje, y el partido político o autoridad electoral al que corresponde.
+XI. Orden de transmisión: Instrumento, complementario a la pauta, en el que se precisa la versión de los promocionales que corresponde a los espacios asignados en la pauta a los partidos políticos y a las autoridades electorales;
 
-XII. Periodo ordinario: Aquel distinto al periodo que inicia con las precampañas y concluye con la celebración de la jornada electoral.
+XII. Pauta: Documento técnico en el que se distribuye el tiempo, convertido a número de mensajes, que corresponde a los partidos políticos y a las autoridades electorales en un periodo determinado, precisando la estación de radio o canal de televisión, la hora o rango en que debe transmitirse cada mensaje, y el partido político o autoridad electoral al que corresponde;
 
-XIII. Permisionario: Persona física o moral titular, bajo la modalidad de permisos, de derechos de uso, aprovechamiento y explotación sobre el espectro radioeléctrico, con fines oficiales, culturales, de experimentación y/o educativos;
+XIII. Periodo ordinario: Aquel distinto al periodo que inicia con las precampañas y concluye con la celebración de la jornada electoral;
 
-XIV. Permisionario de televisión restringida: Persona física o moral que conforme al artículo 31, fracción I, de la Ley Federal de Telecomunicaciones, y de acuerdo con las disposiciones reglamentarias a que se refiere el artículo 54 del mismo ordenamiento, cuente con permiso para establecer, operar y explotar una comercializadora de servicios de telecomunicaciones, que comprenda la prestación de servicios de televisión o audio restringidos;
+XIV. Permisionario: Persona física o moral titular, bajo la modalidad de permisos, de derechos de uso, aprovechamiento y explotación sobre el espectro radioeléctrico, con fines oficiales, culturales, de experimentación y/o educativos;
 
-XV. Permisionario privado sin fines de lucro: Medios comunitarios o permisionarios privados operados por asociaciones civiles sin fines de lucro, que no cuenten con un techo presupuestal público y que se encuentran imposibilitados para obtener ingresos por transmisiones de anuncios comerciales.
+XV. Permisionario de televisión restringida: Persona física o moral que conforme al artículo 31, fracción I, de la Ley Federal de Telecomunicaciones, y de acuerdo con las disposiciones reglamentarias a que se refiere el artículo 54 del mismo ordenamiento, cuente con permiso para establecer, operar y explotar una comercializadora de servicios de telecomunicaciones, que comprenda la prestación de servicios de televisión o audio restringidos;
 
-XVI. Portal IFE: Página electrónica dentro del sitio de Internet del Instituto, habilitada para el efecto de que los concesionarios y permisionarios puedan disponer de los materiales, las pautas y las órdenes de transmisión;
+XVI. Permisionario privado sin fines de lucro: Permisionaria comunitaria privada, operada por asociaciones civiles sin fines de lucro que, sirviendo a sus comunidades, no cuentan con techo presupuestal público ni con autorización para obtener ingresos por transmisiones de anuncios comerciales.
 
-XVII. Programa mensual: Producción de audio y/o video de cada partido político con una duración de 5 minutos a que se refiere la Constitución y el Código;
+XVII. Portal IFE: Página electrónica dentro del sitio de Internet del Instituto, habilitada para el efecto de que los concesionarios y permisionarios puedan disponer de los materiales, las pautas y las órdenes de transmisión;
 
-XVIII. Promocional o mensaje: Producción de audio y/o video con una duración de 20 ó 30 segundos, en el caso de autoridades electorales, y de 20 segundos, 30 segundos, 1 ó 2 minutos, para el caso de los partidos políticos.
+XVIII. Programa mensual: Producción de audio y/o video de cada partido político con una duración de 5 minutos a que se refiere la Constitución y el Código;
 
-XIX. Zona conurbada: Zona metropolitana con conurbaciones intermunicipales e interestatales determinada por la autoridad correspondiente.
+XIX. Promocional o mensaje: Producción de audio y/o video con una duración de 20 ó 30 segundos, en el caso de autoridades electorales, y de 20 segundos, 30 segundos, 1 ó 2 minutos, para el caso de los partidos políticos;
 
-> <small>(REFORMADO, D.O.F. 30 DE JUNIO DE 2011)</small>
+XX. Zona conurbada: Area metropolitana conurbada intermunicipal e interestatal determinada por la autoridad electoral correspondiente, para fines electorales, en consulta con las autoridades competentes.
+
+> <small>(REFORMADO, D.O.F. 3 DE NOVIEMBRE DE 2011)</small>
 
 Artículo 6
 
@@ -329,21 +329,21 @@ De las atribuciones de los órganos competentes del Instituto
 
 1. Son atribuciones del Consejo General:
 
-a) Vigilar de manera permanente que el Instituto ejerza sus facultades como autoridad única en la administración del tiempo que corresponda al Estado en radio y televisión destinado a sus propios fines, a los de otras autoridades electorales, federales y locales, y al ejercicio del derecho de los partidos políticos nacionales y locales, de conformidad con lo establecido en el Código, otras leyes aplicables y este Reglamento;
+a) Vigilar de manera permanente que el Instituto ejerza sus facultades como autoridad única en la administración del tiempo que corresponde al Estado en radio y televisión destinado a sus propios fines, a los de otras autoridades electorales, federales y locales, y al ejercicio del derecho de los partidos políticos nacionales y locales, de conformidad con lo establecido en el Código, otras leyes aplicables y este Reglamento;
 
-b) Disponer el alcance y ordenar la operación e instrumentación de monitoreos para verificar el cumplimiento de las pautas de transmisión, así como de las normas aplicables respecto de la propaganda política y electoral que se difunda por radio y televisión.
+b) Ordenar la operación, instrumentación y alcance de monitoreos para verificar el cumplimiento de las pautas de transmisión, así como de las normas aplicables respecto de la propaganda política y electoral que se difunda por radio y televisión.
 
-c) Aprobar la metodología y el catálogo de noticiarios para el monitoreo de las transmisiones sobre las precampañas y campañas electorales en los programas de contenidos noticiosos en radio y televisión, mediante un Acuerdo específico;
+c) Aprobar el Acuerdo que establezca la metodología y el catálogo de noticiarios para el monitoreo de las transmisiones sobre las precampañas y campañas electorales en los programas que difundan noticias en radio y televisión;
 
-d) Ordenar la realización de monitoreos de las transmisiones sobre las precampañas y campañas electorales federales en los programas en radio y televisión que difundan noticias;
+d) Ordenar la realización de monitoreos de las transmisiones sobre las precampañas y campañas electorales federales en los programas que difundan noticias en radio y televisión;
 
 e) Aprobar los mecanismos y medios informativos en que se harán públicos los resultados del monitoreo a que se refiere el artículo 76, párrafo 8 del Código;
 
 f) Aprobar el Acuerdo mediante el cual se asignen tiempos en radio y televisión a las autoridades electorales, federales o locales, fuera y dentro de los procesos electorales federales y locales;
 
-g) Ordenar la publicación de los catálogos de las estaciones de radio y canales de televisión que participarán en la cobertura de las elecciones locales a que se refieren los artículos 62 y 64 del Código, así como de las emisoras obligadas a suspender la transmisión de propaganda gubernamental durante el periodo de campañas;
+g) Ordenar la publicación y difundir los catálogos de estaciones de radio y canales de televisión a que se refieren (sic) el artículo 44 de este Reglamento;
 
-h) Reunirse, a más tardar el 20 de septiembre del año anterior al de la elección, con los organismos que agrupen a los concesionarios y permisionarios de radio y televisión, para presentar las sugerencias de Lineamientos generales aplicables a los programas en radio y televisión que difundan noticias respecto de la información o difusión de las actividades de precampaña y campaña de los partidos políticos;
+h) Reunirse, a más tardar el 20 de septiembre del año anterior al de la elección federal, con los organismos que agrupen a los concesionarios y permisionarios de radio y televisión, para presentar las sugerencias de Lineamientos Generales aplicables a los programas en radio y televisión que difundan noticias respecto de la información o difusión de las actividades de precampaña y campaña de los partidos políticos;
 
 i) Atraer a su competencia los asuntos que por su importancia lo requieran en materia de acceso a radio y a televisión, y
 
@@ -357,23 +357,23 @@ b) Conocer y en su caso, modificar los modelos de distribución que presenten la
 
 c) Conocer y aprobar los demás asuntos que en la materia conciernan en forma directa a los partidos políticos;
 
-d) Aprobar los mapas de coberturas de todas las estaciones de radio y canales de televisión, así como su alcance efectivo;
+d) Aprobar los mapas de cobertura de todas las estaciones de radio y canales de televisión, así como su alcance efectivo;
 
-e) Ordenar al titular de la Dirección Ejecutiva y/o a los Vocales la notificación de las pautas respectivas a los concesionarios y permisionarios;
+e) Ordenar al titular de la Dirección Ejecutiva y/o a los Vocales realizar las notificaciones de las pautas, y entrega o puesta a disposición órdenes de transmisión y materiales respectivos a los concesionarios y permisionarios;
 
 f) Interpretar el Código y el Reglamento en lo que se refiere a la administración del tiempo en radio y televisión destinado a los partidos políticos;
 
 g) Resolver las consultas que le sean formuladas sobre la aplicación de las disposiciones del Código y el Reglamento respecto de asuntos que en la materia conciernan en forma directa a los partidos políticos;
 
-h) Proponer a la Junta reformas al Reglamento, y (sic)
+h) Proponer a la Junta reformas al Reglamento;
 
 i) Definir los mecanismos y unidades de medida para la distribución de los tiempos que correspondan a los partidos políticos, tanto en periodos electorales como fuera de ellos.
 
 j) Proponer al Consejo la metodología y catálogo de noticieros para el monitoreo de las transmisiones sobre las precampañas y campañas electorales federales en los programas en radio y televisión que difundan noticias;
 
-k) Proponer al Consejo, con la coadyuvancia del Secretario Ejecutivo, la propuesta de sugerencia de Lineamientos generales aplicables a los noticieros respecto de la información de las actividades de precampaña y campaña federales de los partidos políticos, y
+k) Proponer al Consejo, con la coadyuvancia de la Secretaría Ejecutiva, la propuesta de sugerencia de Lineamientos generales aplicables a los noticiarios respecto de la información de las actividades de precampaña y campaña federales de los partidos políticos; y
 
-l) Elaborar y aprobar el catálogo de las estaciones de radio y televisión que participarán en la cobertura de cada una de las elecciones federales y locales.
+l) Elaborar y aprobar los catálogos de estaciones de radio y canales de televisión a que se refieren los artículos 44 y 48 del presente Reglamento.
 
 3. Son atribuciones de la Junta:
 
@@ -385,7 +385,7 @@ c) Interpretar el Código y el Reglamento en lo que se refiere a la administraci
 
 d) Resolver las consultas que le sean formuladas sobre la aplicación de las disposiciones del Código y el Reglamento, en lo que se refiere a la administración del tiempo en radio y televisión destinado a los fines del Instituto y de las demás autoridades electorales, y
 
-e) Poner a consideración del Consejo las propuestas de modificación al Reglamento.
+e) Someter a consideración del Consejo las propuestas de modificación al Reglamento.
 
 4. Son atribuciones de la Dirección Ejecutiva:
 
@@ -395,21 +395,25 @@ b) Elaborar y presentar a la Junta las pautas para la asignación del tiempo que
 
 c) Elaborar y presentar al Consejo las pautas de reposición que correspondan a los partidos políticos y/o a las autoridades electorales;
 
-d) Establecer los mecanismos necesarios para poner a disposición de los concesionarios y permisionarios de radio y televisión los materiales y órdenes de transmisión;
+d) Establecer los mecanismos necesarios para entregar a los concesionarios y permisionarios de radio y televisión los materiales y órdenes de transmisión;
 
-e) Auxiliar a los Vocales Ejecutivos en la verificación del cumplimiento de las pautas de transmisión correspondientes, así como de las normas aplicables respecto de la propaganda electoral que se difunda por radio y por televisión;
+e) Requerir a los concesionarios y permisionarios en caso de presuntos incumplimientos a las pautas notificadas por el Instituto;
 
-f) Proponer el diseño de la propuesta de Lineamientos al Comité que sugerirá a los organismos que agrupen a concesionarios y permisionarios respecto de la información o difusión de las precampañas y campañas electorales;
+f) Auxiliar a los Vocales en la verificación del cumplimiento de las pautas de transmisión correspondientes, así como de las normas aplicables respecto de la propaganda electoral que se difunda por radio y por televisión;
 
-g) Elaborar y actualizar una vez al año, con el apoyo de las autoridades competentes, los mapas de coberturas de todas las estaciones de radio y canales de televisión, así como su alcance efectivo;
+g) Proponer el diseño de la propuesta de Lineamientos al Comité que sugerirá a los organismos que agrupen a concesionarios y permisionarios respecto de la información o difusión de las precampañas y campañas electorales;
 
-h) Dar vista al Secretario del Consejo respecto del incumplimiento de concesionarios y permisionarios a su obligación de transmitir los mensajes de partidos políticos y autoridades electorales, así como en los casos en que tenga conocimiento de la adquisición de tiempos en radio y televisión con fines electorales, o de la difusión de propaganda contraria a la normatividad, para que se inicien los procedimientos sancionatorios conforme a lo dispuesto en el Código, y
+h) Elaborar y actualizar una vez al año, con el apoyo de las autoridades competentes, los mapas de cobertura de todas las estaciones de radio y canales de televisión, así como su alcance efectivo;
 
-i) Cumplir con los mandatos del Comité y de la Junta.
+i) Dar vista a la Secretaría del Consejo respecto del incumplimiento de concesionarios y permisionarios a su obligación de transmitir los mensajes de partidos políticos y autoridades electorales, así como en los casos en que tenga conocimiento de la adquisición de tiempos en radio y televisión con fines electorales, o de la difusión de propaganda contraria a la normatividad, para que se inicien los procedimientos sancionatorios conforme a lo dispuesto en el Código;
+
+j) Resolver las consultas, en el ámbito de su competencia, que le sean formuladas sobre la aplicación de las disposiciones del Código y el Reglamento formuladas por los partidos políticos y las autoridades electorales, y
+
+k) Cumplir con los mandatos del Comité y de la Junta.
 
 5. Son atribuciones de las Juntas Locales:
 
-a) Establecer en su ámbito territorial, la coordinación con las autoridades electorales locales para garantizar el acceso a radio y televisión de los partidos políticos durante las precampañas y campañas locales y para el uso de esos medios por parte de dichas autoridades electorales. El Vocal será el vínculo entre la Junta local respectiva y la autoridad electoral local que corresponda;
+a) Establecer en su ámbito territorial, la coordinación con las autoridades electorales locales para garantizar el acceso a radio y televisión de los partidos políticos durante las precampañas y campañas locales y para el uso de esos medios por parte de dichas autoridades electorales. El Vocal será el vínculo entre la Junta Local respectiva y la autoridad electoral local que corresponda;
 
 b) Asistir a las autoridades electorales locales en la elaboración de sus pautas y demás acciones relativas a implementar el ejercicio de las prerrogativas a que tienen derecho los partidos políticos;
 
@@ -417,19 +421,19 @@ c) Fungir como enlace entre el Instituto y las autoridades electorales de la ent
 
 d) Notificar las pautas aprobadas por el Comité y/o la Junta, según fuere el caso, a los concesionarios y permisionarios en la entidad federativa que corresponda, con el apoyo de las Juntas Distritales;
 
-e) Entregar las órdenes de transmisión y los materiales a los concesionarios y permisionarios de la entidad federativa de su competencia, conforme a lo previsto en el artículo 39 del presente Reglamento;
+e) Entregar las órdenes de transmisión y los materiales a los concesionarios y permisionarios de la entidad federativa de su competencia, conforme a lo previsto en el artículo 40 del presente Reglamento;
 
 f) Coadyuvar con la Dirección Ejecutiva dentro de su ámbito de competencia, en la verificación del cumplimiento de las pautas por parte de los concesionarios y permisionarios de la entidad federativa;
 
 g) Operar y administrar los Centros de Verificación y Monitoreo ubicados en la entidad;
 
-h) Notificar requerimientos a los concesionarios y permisionarios en caso de presuntos incumplimientos a las pautas, e informar a la Dirección Ejecutiva para que determine la procedencia de dar vista a la Secretaría del Consejo para el inicio de procedimientos sancionadores en términos del Código;
+h) Notificar requerimientos a los concesionarios y permisionarios en caso de presuntos incumplimientos a las pautas, e informar a la Dirección Ejecutiva sobre dichos incumplimientos, para que determine la procedencia de dar vista a la Secretaría del Consejo para el inicio de procedimientos sancionadores en términos de lo establecido en el Libro Séptimo del Código.
 
-i) Resolver todo lo concerniente a los avisos de concesionarios y permisionarios para la reprogramación por fallas técnicas y transmisión especial durante programación sin cortes, de conformidad con los artículos 49 y 51 del Reglamento, respectivamente;
+i) Resolver todo lo concerniente a los avisos de concesionarios y permisionarios para la reprogramación por fallas técnicas y transmisión especial durante programación sin cortes, de conformidad con los artículos 52 y 55 del Reglamento, respectivamente;
 
-j) Fungir como autoridades auxiliares, tanto del Comité como de la Junta y demás órganos competentes del Instituto, para los actos y diligencias que les sean instruido (sic), y
+j) Fungir como autoridades auxiliares, tanto del Comité como de la Junta y de la Secretaría Ejecutiva, así como de los demás órganos competentes del Instituto, para los actos y diligencias que les sean instruidos, e
 
-k) Informar al Comité y/o a la Junta, por medio de su Secretario, de todas las acciones que considere adecuado tomar para la efectiva implementación de las disposiciones en materia de radio y televisión en la entidad federativa de que se trate.
+k) Informar al Comité y/o a la Junta, por medio de su Secretario, de todas las acciones que considere adecuadas para la efectiva implementación de las disposiciones en materia de radio y televisión en la entidad federativa de que se trate.
 
 6. Son atribuciones de las Juntas Distritales:
 
@@ -437,39 +441,39 @@ a) Coadyuvar con la Junta Local correspondiente, en la verificación del cumplim
 
 b) Auxiliar a la Junta Local correspondiente en la notificación de las pautas aprobadas por el Comité y/o la Junta, según fuere el caso, a los concesionarios y permisionarios de la entidad federativa, y
 
-c) Auxiliar a la Junta Local correspondiente en la notificación de las órdenes de transmisión y los materiales a los concesionarios y permisionarios que así lo soliciten conforme a lo previsto en el artículo 39 del presente Reglamento.
+c) Auxiliar a la Junta Local correspondiente en la entrega de las órdenes de transmisión y los materiales a los concesionarios y permisionarios que así lo soliciten conforme a lo previsto en el artículo 40 del presente Reglamento.
 
-> <small>(REFORMADO, D.O.F. 30 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO, D.O.F. 3 DE NOVIEMBRE DE 2011)</small>
 
 Artículo 7
 
 De las bases de acceso a la radio y la televisión en materia política y electoral
 
-1. El Instituto es la única autoridad con atribuciones para ordenar la transmisión de propaganda política o electoral en radio o televisión, para el cumplimiento de sus propios fines, de otras autoridades electorales federales o locales, y de los partidos políticos.
+1. El Instituto es la única autoridad competente para ordenar la transmisión de propaganda política o electoral en radio o televisión, para el cumplimiento de sus propios fines, de otras autoridades electorales federales o locales, y de los partidos políticos.
 
-2. Los partidos políticos, precandidatos y candidatos a cargos de elección popular, en ningún momento podrán contratar o adquirir, por sí o por terceras personas, tiempos en cualquier modalidad de radio y televisión. Tampoco podrán contratar los dirigentes y afiliados a un partido político, o cualquier ciudadano, para su promoción personal con fines electorales.
+2. Los partidos políticos, precandidatos, candidatos y aspirantes a cargos de elección popular, en ningún momento podrán contratar o adquirir, por sí o por terceras personas, tiempos en cualquier modalidad de radio y televisión. Tampoco podrán contratar los dirigentes y afiliados a un partido político, o cualquier ciudadano, para su promoción personal con fines electorales.
 
 3. Ninguna persona física o moral distinta al Instituto, sea a título propio o por cuenta de terceros, podrá contratar u ordenar la transmisión de propaganda en radio y televisión dirigida a influir en las preferencias electorales de los ciudadanos, ni a favor o en contra de partidos políticos o de candidatos a cargos de elección popular.
 
 4. La propaganda, bajo cualquier modalidad de comunicación social que difundan como tales los poderes públicos, los órganos autónomos, las dependencias y entidades de la Administración Pública y cualquier otro ente de los tres órdenes de gobierno, deberá tener carácter institucional y fines informativos, educativos o de orientación social. En ningún caso esta propaganda incluirá nombres, imágenes, voces o símbolos que impliquen promoción personalizada de cualquier servidor público. Lo anterior, sin perjuicio de lo previsto en el artículo 228, párrafo 5 del Código.
 
-5. Durante el tiempo que comprendan las campañas electorales federales y locales y hasta la conclusión de la respectiva jornada comicial, deberá suspenderse la difusión en los medios de comunicación social de toda propaganda gubernamental, tanto de los poderes federales y estatales, como de los municipios, órganos de gobierno del Distrito Federal, sus delegaciones y cualquier otro ente público. Las únicas excepciones a lo anterior serán las campañas de información de las autoridades electorales, las relativas a servicios educativos y de salud, o las necesarias para la protección civil en casos de emergencia. En caso de incumplimiento, se procederá en términos del libro séptimo del Código.
+5. Durante el tiempo que comprendan las campañas electorales federales y locales y hasta la conclusión de la respectiva jornada comicial, deberá suspenderse la difusión en los medios de comunicación social de toda propaganda gubernamental, tanto de los poderes federales y estatales, como de los municipios, órganos de gobierno del Distrito Federal, sus delegaciones y cualquier otro ente público. Las únicas excepciones a lo anterior serán las campañas de información de las autoridades electorales, las relativas a servicios educativos y de salud, o las necesarias para la protección civil en casos de emergencia. En caso de incumplimiento, se procederá en términos del Libro Séptimo del Código.
 
-6. La propaganda y mensajes que en el curso de las precampañas y campañas electorales difundan por radio y televisión los partidos políticos se ajustarán a lo dispuesto por el artículo 233 del Código y por el primer párrafo del artículo 6o. de la Constitución.
+6. La propaganda y mensajes que en el curso de las precampañas y campañas electorales difundan por radio y televisión los partidos políticos se ajustarán a lo dispuesto por el primer párrafo del artículo 6; y el artículo 41, Base III, Apartado C de la Constitución; así como 38, párrafo 1, inciso p); y 233 del Código.
 
 7. Los concesionarios de estaciones de radio y canales de televisión se abstendrán de comercializar el tiempo no asignado por el Instituto; los permisionarios no podrán utilizar los tiempos no asignados por el Instituto para patrocinios o contenidos similares.
 
-8. La suspensión de la propaganda gubernamental a que se refiere el numeral 5 de este artículo, es aplicable a toda estación de radio y televisión cuya señal sea escuchada o vista en la entidad en la que se esté desarrollando el proceso electoral.
+8. La suspensión de la propaganda gubernamental a que se refiere el numeral 5 de este artículo, es aplicable a toda estación de radio y canal de televisión cuya señal sea escuchada o vista en la entidad en la que se esté desarrollando el Proceso Electoral.
 
-> <small>(REFORMADO, D.O.F. 30 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO, D.O.F. 3 DE NOVIEMBRE DE 2011)</small>
 
 ## TITULO SEGUNDO. De la administración del tiempo en radio y televisión
 
-> <small>(REFORMADO, D.O.F. 30 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO, D.O.F. 3 DE NOVIEMBRE DE 2011)</small>
 
 ### Capítulo I. De la administración de los tiempos en radio y televisión en periodos ordinarios
 
-> <small>(REFORMADO, D.O.F. 30 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO, D.O.F. 3 DE NOVIEMBRE DE 2011)</small>
 
 Artículo 8
 
@@ -481,13 +485,13 @@ De la asignación de tiempos
 
 3. El tiempo que corresponda a los partidos políticos nacionales y locales en las emisoras se distribuirá de forma igualitaria. Se entenderá por un esquema de distribución igualitaria, aquel que procure un reparto del mismo número de promocionales en las estaciones de radio y canales de televisión en el periodo.
 
-> <small>(REFORMADO, D.O.F. 30 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO, D.O.F. 3 DE NOVIEMBRE DE 2011)</small>
 
 Artículo 9
 
 De la distribución de tiempos de los partidos políticos y las autoridades electorales
 
-1. Del tiempo de que dispongan los partidos políticos nacionales y locales en las estaciones de radio y canales de televisión, éstos tendrán derecho a un programa mensual con duración de 5 minutos, y el tiempo restante será destinado a la transmisión de mensajes con duración de 20 segundos cada uno.
+1. Del tiempo que dispongan los partidos políticos nacionales y locales en las estaciones de radio y canales de televisión, éstos tendrán derecho a un programa mensual con duración de 5 minutos, y el tiempo restante será destinado a la transmisión de mensajes de 20 segundos cada uno.
 
 2. En el caso de los permisionarios, en los días de la semana en que se transmita el programa mensual, no les serán asignados tiempos al resto de los partidos ni a las autoridades electorales. En los días restantes de la semana, se destinará a las autoridades electorales el tiempo necesario para igualar el tiempo utilizado para los programas mensuales.
 
@@ -497,7 +501,7 @@ De la distribución de tiempos de los partidos políticos y las autoridades elec
 
 5. El horario de transmisión de los promocionales a que se refiere este Capítulo será el comprendido entre las 6:00 y las 24:00 horas.
 
-> <small>(REFORMADO, D.O.F. 30 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO, D.O.F. 3 DE NOVIEMBRE DE 2011)</small>
 
 Artículo 10
 
@@ -509,13 +513,13 @@ De las pautas de periodos ordinarios
 
 3. Las pautas de los promocionales a que se refiere este Capítulo se transmitirán en tres franjas horarias: la franja matutina, que comprende de las 06:00 a las 12:00 horas; la franja vespertina, de las 12:00 a las 18:00 horas, y la franja nocturna, de las 18:00 a las 24:00 horas.
 
-4. El Instituto asignará los horarios de transmisión entre los partidos nacionales y locales en forma igualitaria durante la vigencia del pautado, con base en:
+4. El Instituto asignará los horarios de transmisión entre los partidos políticos nacionales y locales en forma igualitaria durante la vigencia del pautado, con base en:
 
 a) Un sorteo semestral que servirá para definir el orden sucesivo en que se transmitirán los promocionales de 20 segundos de los partidos políticos, así como en un esquema de corrimiento de horarios vertical, mediante el cual asignará a los partidos políticos los mensajes que correspondan a cada uno de ellos dentro del pautado para las estaciones de radio y canales de televisión, y
 
 b) Un sorteo semestral que servirá para definir el orden sucesivo en que se transmitirán los programas mensuales de los partidos políticos, asignando a éstos los programas que correspondan a cada uno de ellos dentro del pautado para las estaciones de radio y canales de televisión.
 
-> <small>(REFORMADO, D.O.F. 30 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO, D.O.F. 3 DE NOVIEMBRE DE 2011)</small>
 
 Artículo 11
 
@@ -523,43 +527,43 @@ De los tiempos de las autoridades electorales locales en periodos ordinarios
 
 1. El Consejo asignará trimestralmente tiempos en radio y televisión a las autoridades electorales locales que lo soliciten, considerando el tiempo disponible, las necesidades de difusión del Instituto y la propuesta de las autoridades electorales.
 
-2. Las autoridades electorales locales deberán entregar a la Secretaría Ejecutiva las solicitudes de tiempo en radio y televisión que requieran para el cumplimiento de sus fines, con 30 días de anticipación al inicio del trimestre correspondiente.
+2. Las autoridades electorales locales deberán entregar a la Dirección Ejecutiva las solicitudes de tiempo en radio y televisión que requieran para el cumplimiento de sus fines, con 30 días de anticipación al inicio del trimestre correspondiente. Las solicitudes que sean presentadas con posterioridad al plazo establecido serán atendidas en el siguiente trimestre.
 
-3. Las solicitudes deberán acompañarse de los materiales que serán transmitidos en el periodo. En caso de que los materiales hayan sido entregados con anterioridad, la solicitud deberá establecer las instrucciones para su difusión. Las solicitudes que sean entregadas con posterioridad al plazo límite establecido, o que no se acompañen del material correspondiente serán atendidas en el siguiente trimestre.
+3. Las autoridades deberán entregar los materiales que serán transmitidos durante el periodo, de conformidad con los calendarios de materiales y órdenes de transmisión que determine la Junta.
 
 4. Los promocionales de las autoridades electorales locales en las pautas a que se refiere este Capítulo se distribuirán de acuerdo a la asignación de tiempos que apruebe el Consejo.
 
 5. Los promocionales de las autoridades electorales locales serán transmitidos en las estaciones de radio y canales de televisión con cobertura en la entidad federativa en que tenga jurisdicción la autoridad local respectiva.
 
-> <small>(REFORMADO, D.O.F. 30 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO, D.O.F. 3 DE NOVIEMBRE DE 2011)</small>
 
 ### Capítulo II. Disposiciones comunes para la administración de los tiempos en radio y televisión en procesos electorales
 
-> <small>(REFORMADO, D.O.F. 30 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO, D.O.F. 3 DE NOVIEMBRE DE 2011)</small>
 
 Artículo 12
 
 Del tiempo que corresponde administrar al Instituto desde el inicio de las precampañas y hasta la jornada electoral
 
-1. Desde el inicio del periodo de precampaña electoral federal o local y hasta el día en que se celebre la jornada electoral, el Instituto administrará 48 minutos diarios en cada estación de radio y canal de televisión que cubran la elección, que serán distribuidos en dos y hasta tres minutos por cada hora de transmisión en cada estación de radio y canal de televisión, en el horario de programación comprendido entre las 06:00 y las 24:00 horas, conforme a lo establecido en el artículo 55 del Código.
+1. Desde el inicio del periodo de precampaña electoral federal o local y hasta el día en que se celebre la jornada electoral, el Instituto administrará 48 minutos diarios en cada estación de radio y canal de televisión que cubran la elección, que serán distribuidos en dos y hasta tres minutos por cada hora de transmisión en cada estación de radio y canal de televisión, en el horario de programación referido en el artículo 55 del Código.
 
-2. En los casos en que una estación de radio o canal de televisión transmita menos horas de las comprendidas en el horario antes indicado, se utilizarán 3 minutos por cada hora de transmisión. Las emisoras que actualicen el supuesto deberán informarlo a la Dirección Ejecutiva al menos 30 días previos al inicio de la vigencia de la pauta correspondiente, remitiendo la autorización de la autoridad competente, para que se le notifique una pauta ajustada.
+2. En los casos en que una estación de radio o canal de televisión transmita menos horas de las comprendidas en el horario antes indicado, se utilizarán 3 minutos por cada hora de transmisión. Las emisoras que actualicen dicho supuesto deberán informarlo a la Dirección Ejecutiva al menos 30 días previos al inicio de la vigencia de la pauta correspondiente, remitiendo la autorización de la autoridad competente, para que se le notifique una pauta ajustada.
 
-3. Independientemente del número de horas de transmisión en que opere la emisora, durante las campañas electorales deberán destinarse para cubrir el derecho de los partidos políticos al menos el 85% del tiempo total disponible.
+3. Independientemente del número de horas de transmisión en que opere la emisora, durante las campañas electorales, deberán destinarse para cubrir el derecho de los partidos políticos al menos el 85 por ciento del tiempo total disponible.
 
-> <small>(REFORMADO, D.O.F. 30 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO, D.O.F. 3 DE NOVIEMBRE DE 2011)</small>
 
 Artículo 13
 
 Del periodo único de acceso a radio y televisión en precampañas y campañas electorales
 
-1. Dentro de cada proceso electoral local, los partidos políticos accederán a sus prerrogativas de radio y televisión en un periodo único y conjunto para sus precampañas, y en otro periodo único y conjunto para sus campañas.
+1. Dentro de cada Proceso Electoral Local, los partidos políticos accederán a sus prerrogativas de radio y televisión en un periodo único y conjunto para sus precampañas, y en otro periodo único y conjunto para sus campañas.
 
 2. Independientemente del número de precampañas y campañas por tipo de elección que prevea cada legislación local, el Instituto administrará los tiempos de Estado que correspondan a los partidos políticos para sus precampañas durante un único periodo que no podrá exceder los plazos máximos que señala el artículo 116, párrafo IV, inciso j) de la Constitución, según sea el caso.
 
 3. En caso de que las legislaciones locales prevean la celebración de precampañas tanto para gobernador como para diputados o ayuntamientos, en el periodo único a que se refiere el párrafo anterior quedarán comprendidas todas las precampañas independientemente de su duración específica.
 
-> <small>(REFORMADO, D.O.F. 30 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO, D.O.F. 3 DE NOVIEMBRE DE 2011)</small>
 
 Artículo 14
 
@@ -569,7 +573,7 @@ De la duración de los promocionales de partidos políticos y autoridades electo
 
 2. La Junta aprobará la duración de los promocionales de las autoridades electorales, la cual podrá comprender unidades de medida de 20 ó 30 segundos, en el entendido de que todos los promocionales se ajustarán a una sola unidad de medida.
 
-> <small>(REFORMADO, D.O.F. 30 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO, D.O.F. 3 DE NOVIEMBRE DE 2011)</small>
 
 Artículo 15
 
@@ -587,31 +591,33 @@ b) El 70 por ciento restante, en proporción al porcentaje de votos obtenido por
 
 4. El tiempo sobrante de la asignación podrá ser optimizado, en la medida y hasta que dicho sobrante permita incrementar el número de mensajes de forma igualitaria a todos los partidos o coaliciones contendientes. La asignación del resultado de la optimización deberá aplicarse al porcentaje igualitario a que tienen derecho los partidos políticos.
 
-> <small>(REFORMADO, D.O.F. 30 DE JUNIO DE 2011)</small>
+5. Si por cualquier causa un partido político o coalición, sus militantes y precandidatos a cargos de elección popular debidamente registrados por cada partido no realizan actos de precampaña electoral, los tiempos a que tengan derecho serán utilizados para la difusión de mensajes genéricos del partido político de que se trate.
+
+> <small>(REFORMADO, D.O.F. 3 DE NOVIEMBRE DE 2011)</small>
 
 Artículo 16
 
 De la distribución de los promocionales de las coaliciones
 
-1. De conformidad con lo previsto por el artículo 98, párrafos 3 a 7 del Código, la asignación del tiempo a las coaliciones se hará de la siguiente manera:
+1. De conformidad con lo previsto por el artículo 98, numerales 3 a 7 del Código, la asignación del tiempo a las coaliciones se hará de la siguiente manera:
 
 a) A la coalición total le será otorgado tiempo en cada una de las estaciones de radio y canales de televisión que cubran la elección, en el 30 por ciento que corresponda distribuir en forma igualitaria. Para tal efecto, la coalición será considerada como un solo partido, quedando identificado en la pauta como tal;
 
-b) Cada uno de los partidos integrantes de la coalición total participará en la distribución del 70 por ciento que corresponda distribuir en forma proporcional, de manera individual, conforme a su fuerza electoral, y
+b) Cada uno de los partidos integrantes de la coalición total participará en la distribución del 70 por ciento que corresponda distribuir en forma proporcional, de manera individual, conforme a su fuerza electoral, y,
 
 c) Tratándose de coaliciones parciales, cada partido coaligado accederá a su respectiva prerrogativa en radio y televisión, ejerciendo sus derechos por separado, en los términos establecidos por el Código y el Reglamento.
 
-2. En los casos de coaliciones integradas con motivo de procesos electorales locales, el Comité determinará la aplicación de la presente disposición.
+2. En los casos de coaliciones integradas con motivo de procesos electorales locales, el Comité determinará la aplicación de la presente disposición, con la finalidad de que sean asignados los tiempos correspondientes.
 
-> <small>(REFORMADO, D.O.F. 30 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO, D.O.F. 3 DE NOVIEMBRE DE 2011)</small>
 
 Artículo 17
 
 De la distribución de promocionales en la pauta
 
-1. El Comité distribuirá entre los partidos políticos y en su caso, coaliciones los promocionales que correspondan a cada uno de ellos dentro del pautado para las estaciones de radio y canales de televisión que cubran la elección, con base en un sorteo que servirá para definir el orden sucesivo en que se transmitirán a lo largo del proceso electoral de que se trate, y en el esquema de asignación que apruebe al efecto.
+1. El Comité distribuirá entre los partidos políticos y en su caso, coaliciones los promocionales que correspondan a cada uno de ellos dentro del pautado para las estaciones de radio y canales de televisión que cubran la elección, con base en un sorteo que servirá para definir el orden sucesivo en que se transmitirán a lo largo del Proceso Electoral de que se trate, y en el esquema de asignación que apruebe al efecto.
 
-> <small>(REFORMADO, D.O.F. 30 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO, D.O.F. 3 DE NOVIEMBRE DE 2011)</small>
 
 Artículo 18
 
@@ -619,15 +625,15 @@ De los tiempos de las autoridades electorales federales y locales
 
 1. El Consejo asignará tiempos en radio y televisión a las autoridades electorales que lo soliciten para el periodo comprendido entre el inicio de la precampaña y la celebración de la jornada electoral. Para lo anterior, considerará el tiempo disponible, las necesidades de difusión del Instituto y la propuesta de las autoridades electorales.
 
-2. Las autoridades electorales deberán entregar a la Secretaría Ejecutiva las solicitudes de tiempo en radio y televisión que requieran para el cumplimiento de sus fines, con 30 días de anticipación al inicio de la etapa del proceso electoral de que se trate.
+2. Las autoridades electorales deberán presentar a la Dirección Ejecutiva las solicitudes de tiempo en radio y televisión que requieran para el cumplimiento de sus fines, con 30 días de anticipación al inicio de la etapa del Proceso Electoral de que se trate. Las solicitudes que sean presentadas con posterioridad al plazo establecido serán atendidas en la siguiente etapa del Proceso Electoral correspondiente.
 
-3. Las solicitudes deberán acompañarse de los materiales que serán transmitidos en el periodo. En caso de que los materiales hayan sido entregados con anterioridad, la solicitud deberá establecer las instrucciones para su difusión. Las solicitudes que sean entregadas con posterioridad al plazo límite establecido, o que no se acompañen del material correspondiente no podrán ser atendidas durante la etapa del proceso electoral correspondiente.
+3. Las autoridades electorales deberán entregar los materiales que serán transmitidos durante el periodo, de conformidad con los calendarios de materiales y órdenes de transmisión que determine la Junta.
 
 4. Los promocionales de las autoridades electorales en las pautas a que se refiere este Capítulo se distribuirán de acuerdo a la asignación de tiempos que apruebe el Consejo.
 
 5. La Junta distribuirá los promocionales de las autoridades electorales en las pautas de acuerdo a la asignación de tiempos que apruebe el Consejo.
 
-> <small>(REFORMADO, D.O.F. 30 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO, D.O.F. 3 DE NOVIEMBRE DE 2011)</small>
 
 Artículo 19
 
@@ -637,21 +643,21 @@ Del periodo comprendido de intercampañas
 
 2. El tiempo referido en el párrafo que antecede será destinado para el cumplimiento de los fines propios del Instituto y de otras autoridades electorales.
 
-> <small>(REFORMADO, D.O.F. 30 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO, D.O.F. 3 DE NOVIEMBRE DE 2011)</small>
 
 Artículo 20
 
 Del periodo comprendido entre la conclusión de las campañas y la celebración de la jornada electoral
 
-1. Durante el periodo comprendido a partir del día siguiente a la fecha que concluyan las campañas federales y locales y hasta el término de la jornada electoral, el instituto dispondrá de 48 minutos diarios en cada estación de radio y canal de televisión que cubran la elección de que se trate.
+1. Durante el periodo comprendido a partir del día siguiente a la fecha que concluyan las campañas federales y locales y hasta el término de la jornada electoral, el Instituto dispondrá de 48 minutos diarios en cada estación de radio y canal de televisión que cubran la elección de que se trate.
 
-2. El tiempo referido en el párrafo que antecede será destinado para el cumplimiento de los fines propios del Instituto y de otras autoridades electorales.
+2. El tiempo referido en el numeral que antecede será destinado para el cumplimiento de los fines propios del Instituto y de otras autoridades electorales.
 
-> <small>(REFORMADO, D.O.F. 30 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO, D.O.F. 3 DE NOVIEMBRE DE 2011)</small>
 
 ### Capítulo III. De la administración de los tiempos en radio y televisión en los procesos electorales federales
 
-> <small>(REFORMADO, D.O.F. 30 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO, D.O.F. 3 DE NOVIEMBRE DE 2011)</small>
 
 Artículo 21
 
@@ -661,7 +667,7 @@ Del tiempo disponible para partidos políticos y autoridades electorales durante
 
 2. Durante el periodo de precampaña federal, el Instituto dispondrá para sus propios fines y los de otras autoridades electorales de 30 minutos diarios en cada estación de radio y canal de televisión que cubran la elección.
 
-> <small>(REFORMADO, D.O.F. 30 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO, D.O.F. 3 DE NOVIEMBRE DE 2011)</small>
 
 Artículo 22
 
@@ -671,11 +677,11 @@ Del tiempo disponible para partidos políticos y autoridades electorales durante
 
 2. Durante el periodo de campaña, el Instituto dispondrá para sus propios fines y los de otras autoridades electorales de 7 minutos diarios.
 
-> <small>(REFORMADO, D.O.F. 30 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO, D.O.F. 3 DE NOVIEMBRE DE 2011)</small>
 
 ### Capítulo IV. De la administración de los tiempos en radio y televisión en procesos electorales locales con jornada comicial coincidente con la federal
 
-> <small>(REFORMADO, D.O.F. 30 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO, D.O.F. 3 DE NOVIEMBRE DE 2011)</small>
 
 Artículo 23
 
@@ -683,19 +689,19 @@ De la asignación durante el periodo de precampañas
 
 1. En las entidades federativas con procesos electorales locales con jornadas comiciales coincidentes con la federal, el tiempo que administrará el Instituto para fines de la precampaña local de los partidos políticos estará comprendido dentro del tiempo total disponible a que se refiere el artículo 57, párrafo 1 del Código.
 
-2. Cada partido político nacional decidirá libremente la asignación, por tipo de precampaña, de los mensajes que le correspondan, incluyendo su uso para precampañas locales en las entidades federativas con proceso electoral concurrente con el federal.
+2. Cada partido político nacional decidirá libremente la asignación, por tipo de precampaña, de los mensajes que le correspondan, incluyendo su uso para precampañas locales en las entidades federativas con Proceso Electoral concurrente con el federal, en los términos de los artículos 59, 60, 61 y 63 del Código.
 
-> <small>(REFORMADO, D.O.F. 30 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO, D.O.F. 3 DE NOVIEMBRE DE 2011)</small>
 
 Artículo 24
 
-De la asignación durante el periodo de campañas
+De la asignación y distribución durante el periodo de campañas
 
-1. En las campañas políticas de las elecciones locales coincidentes con la federal, el Instituto asignará a los partidos políticos para las respectivas campañas locales 15 de los 41 minutos diarios a que se refiere el artículo 58, párrafo 1 del Código, de los cuales el 30% se distribuirán de forma igualitaria y el 70% de conformidad con el porcentaje de votos obtenido en la elección local de diputados inmediata anterior.
+1. En las campañas políticas de las elecciones locales coincidentes con la federal, el Instituto asignará a los partidos políticos para las respectivas campañas locales 15 de los 41 minutos diarios a que se refiere el artículo 58, párrafo 1 del Código, de los cuales el 30 por ciento se distribuirán de forma igualitaria y el 70 por ciento de conformidad con el porcentaje de votos obtenido en la elección local de diputados inmediata anterior.
 
 2. Los partidos políticos son responsables del contenido de los materiales que presentan al Instituto para su difusión en radio y televisión y, en esa medida, de la correcta distribución de los tiempos que les son asignados en las pautas aprobadas por el Comité para los procesos electorales locales y federales con jornada comicial coincidente.
 
-> <small>(REFORMADO, D.O.F. 30 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO, D.O.F. 3 DE NOVIEMBRE DE 2011)</small>
 
 Artículo 25
 
@@ -707,21 +713,21 @@ De las pautas para procesos locales con jornada comicial coincidente con la fede
 
 3. El Comité podrá modificar el modelo de distribución para las precampañas y campañas locales que sometan a su consideración las autoridades electorales locales.
 
-4. Los partidos políticos nacionales que, en la entidad federativa de que se trate, no hubiesen obtenido en la elección para diputados locales inmediata anterior, el porcentaje mínimo de votos para tener derecho a prerrogativas conforme a la legislación local, o los partidos con registro local obtenido para la elección de que se trate, tendrán derecho a la prerrogativa de radio y televisión para precampañas o campañas locales solamente en la parte que deba distribuirse en forma igualitaria.
+4. Los partidos políticos nacionales que, en la entidad federativa de que se trate, no hubiesen obtenido en la elección para diputados locales inmediata anterior, el porcentaje mínimo de votos para tener derecho a las prerrogativas conforme a la legislación local, o los partidos con registro local obtenido para la elección de que se trate, tendrán derecho a la prerrogativa de radio y televisión para precampañas o campañas locales solamente en la parte que deba distribuirse en forma igualitaria.
 
-> <small>(REFORMADO, D.O.F. 30 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO, D.O.F. 3 DE NOVIEMBRE DE 2011)</small>
 
 ### Capítulo V. De la administración de los tiempos en radio y televisión en procesos electorales locales con jornada comicial no coincidente con la federal
 
-> <small>(REFORMADO, D.O.F. 30 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO, D.O.F. 3 DE NOVIEMBRE DE 2011)</small>
 
 Artículo 26
 
 De la asignación durante el periodo de precampañas
 
-1. En la entidad federativa de que se trate, durante los periodos de las precampañas políticas, el Instituto distribuirá entre los partidos políticos 12 minutos diarios en cada estación de radio y canal de televisión que cubran la elección; los 36 minutos restantes quedarán a disposición del Instituto para sus fines propios o de otras autoridades electorales.
+1. En la entidad federativa de que se trate, durante los periodos de las precampañas políticas, el Instituto distribuirá por medio de las autoridades locales, entre los partidos políticos 12 minutos diarios en cada estación de radio y canal de televisión que cubran la elección; los 36 minutos restantes quedarán a disposición del Instituto para sus fines propios o bien de otras autoridades electorales.
 
-> <small>(REFORMADO, D.O.F. 30 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO, D.O.F. 3 DE NOVIEMBRE DE 2011)</small>
 
 Artículo 27
 
@@ -729,7 +735,7 @@ De la asignación durante el periodo de campañas
 
 1. Durante las campañas políticas, el Instituto asignará a los partidos políticos, por medio de las autoridades electorales locales, 18 minutos diarios en cada estación de radio y canal de televisión que cubran la elección; los 30 minutos restantes quedarán a disposición del Instituto para sus propios fines o de otras autoridades electorales.
 
-> <small>(REFORMADO, D.O.F. 30 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO, D.O.F. 3 DE NOVIEMBRE DE 2011)</small>
 
 Artículo 28
 
@@ -741,21 +747,21 @@ De las pautas para procesos locales con jornada comicial no coincidente con la f
 
 3. El Comité podrá modificar el modelo de distribución para las precampañas y campañas locales que sometan a su consideración las autoridades electorales locales.
 
-4. Los partidos políticos nacionales que, en la entidad federativa de que se trate, no hubiesen obtenido en la elección para diputados locales inmediata anterior, el porcentaje mínimo de votos para tener derecho a prerrogativas conforme a la legislación local, o los partidos con registro local obtenido para la elección de que se trate, tendrán derecho a la prerrogativa de radio y televisión para precampañas o campañas locales, solamente en la parte que deba distribuirse en forma igualitaria.
+4. Los partidos políticos nacionales que, en la entidad federativa de que se trate, no hubiesen obtenido en la elección para diputados locales inmediata anterior, el porcentaje mínimo de votos para tener derecho a las prerrogativas conforme a la legislación local, o los partidos con registro local obtenido para la elección de que se trate, tendrán derecho a la prerrogativa de radio y televisión para precampañas o campañas locales, solamente en la parte que deba distribuirse en forma igualitaria.
 
-> <small>(REFORMADO, D.O.F. 30 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO, D.O.F. 3 DE NOVIEMBRE DE 2011)</small>
 
 Artículo 29
 
-De las responsabilidades de las autoridades electorales locales
+De las obligaciones de las autoridades electorales locales
 
-1. Las autoridades electorales deberán adoptar los acuerdos que sean necesarios para determinar los tiempos en que habrán de iniciar las precampañas y campañas de los partidos políticos en radio y televisión. Dichas definiciones deberán ser acordadas por sus órganos competentes con la anticipación debida y ser notificadas de inmediato al Instituto. Todos los partidos políticos dispondrán de sus prerrogativas de acceso a la radio y la televisión en un mismo periodo fijo durante las precampañas y las campañas electorales.
+1. Las autoridades electorales locales deberán adoptar los Acuerdos que sean necesarios para determinar los tiempos en que habrán de iniciar las precampañas y campañas de los partidos políticos en radio y televisión. Dichas definiciones deberán ser acordadas por sus órganos competentes con la anticipación debida y ser notificadas de inmediato al Instituto. Todos los partidos políticos dispondrán de sus prerrogativas de acceso a la radio y la televisión en un mismo periodo fijo durante las precampañas y las campañas electorales.
 
-> <small>(REFORMADO, D.O.F. 30 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO, D.O.F. 3 DE NOVIEMBRE DE 2011)</small>
 
 ### Capítulo VI. De la administración de los tiempos en radio y televisión en procesos electorales extraordinarios
 
-> <small>(REFORMADO, D.O.F. 30 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO, D.O.F. 3 DE NOVIEMBRE DE 2011)</small>
 
 Artículo 30
 
@@ -763,17 +769,19 @@ Del tiempo que corresponde administrar al Instituto desde el inicio de las preca
 
 1. El Instituto administrará 48 minutos diarios en las estaciones de radio y canales de televisión que cubran la elección de que se trate, desde el inicio de las precampañas hasta el término del día en que se celebre la jornada electoral.
 
-> <small>(REFORMADO, D.O.F. 30 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO, D.O.F. 3 DE NOVIEMBRE DE 2011)</small>
 
 Artículo 31
 
 De la cobertura territorial y el tiempo que se destinará a los partidos políticos en radio y televisión
 
-1. Una vez que la autoridad jurisdiccional competente decrete la celebración del proceso electoral extraordinario de que se trate y/o que la autoridad administrativa estatal notifique formalmente al Instituto, el Consejo determinará la cobertura territorial y el tiempo que se destinará a los partidos políticos en radio y televisión, mediante un Acuerdo específico, conforme al artículo 74, numeral 4 del Código, y a las demás disposiciones aplicables.
+1. Una vez que la autoridad electoral administrativa de la entidad de que se trate notifique formalmente al Instituto la celebración de un Proceso Electoral extraordinario, el Consejo determinará la cobertura territorial y el tiempo que se destinará a los partidos políticos en radio y televisión, mediante un Acuerdo específico, conforme al artículo 74, párrafo 4 del Código, y a las demás disposiciones aplicables.
 
-2. En el mismo Acuerdo se aprobará el Catálogo de emisoras de radio y televisión que estarán obligadas a transmitir las pautas correspondientes que aprueben el Comité y la Junta, y ordenará su difusión. En el caso de los procesos electorales federales se publicará en el Diario Oficial de la Federación y en dos diarios de circulación nacional; en el caso de los procesos electorales locales, en la gaceta o periódico oficial de la entidad de que se trate y en dos diarios de circulación estatal.
+2. En el mismo Acuerdo se aprobará el Catálogo de emisoras de radio y televisión que estarán obligadas a transmitir las pautas correspondientes que aprueben el Comité y la Junta, y se ordenará su difusión. En el caso de los procesos electorales federales se publicará en el Diario Oficial de la Federación; en el caso de los procesos electorales locales, en la gaceta o periódico oficial de la entidad de que se trate. En ambos casos, se publicará en la página de Internet del Instituto y se notificará a todas las emisoras incluidas en el Catálogo.
 
-> <small>(REFORMADO, D.O.F. 30 DE JUNIO DE 2011)</small>
+3. La Dirección Ejecutiva informará a la RTC el inicio de la vigencia de la pauta correspondiente, para los efectos de la administración de los tiempos del Estado en radio y televisión.
+
+> <small>(REFORMADO, D.O.F. 3 DE NOVIEMBRE DE 2011)</small>
 
 Artículo 32
 
@@ -785,15 +793,15 @@ De los distintos supuestos en elecciones extraordinarias
 
 3. En los procesos electorales extraordinarios de carácter local, cuya jornada comicial se celebre en un mes o año distinto a la federal, se aplicará lo dispuesto en el capítulo V del presente Título.
 
-> <small>(REFORMADO, D.O.F. 30 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO, D.O.F. 3 DE NOVIEMBRE DE 2011)</small>
 
 ## TITULO TERCERO. Disposiciones complementarias
 
-> <small>(REFORMADO, D.O.F. 30 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO, D.O.F. 3 DE NOVIEMBRE DE 2011)</small>
 
 ### Capítulo I. De las pautas y los materiales
 
-> <small>(REFORMADO, D.O.F. 30 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO, D.O.F. 3 DE NOVIEMBRE DE 2011)</small>
 
 Artículo 33
 
@@ -809,15 +817,15 @@ c) Pautas correspondientes a procesos electorales locales conforme al modelo de 
 
 d) Pautas de reposición, en términos del artículo 354, párrafo 1, inciso f), fracción III del Código.
 
-2. Las pautas de transmisión de los mensajes de los partidos políticos serán aprobadas por el Comité en términos de lo previsto por el artículo 76, párrafo 4 del Código. Las pautas que correspondan a los mensajes del Instituto y de otras autoridades electorales serán presentadas para su aprobación definitiva a la Junta, conforme a lo previsto en el presente Reglamento.
+2. Las pautas de transmisión de los mensajes de los partidos políticos serán aprobadas por el Comité en términos de lo previsto por el artículo 76, párrafo 4 del Código. Las pautas que correspondan a los mensajes del Instituto y de otras autoridades electorales serán presentadas para su aprobación ante la Junta, conforme a lo previsto en el presente Reglamento.
 
 3. Una vez aprobadas las pautas de transmisión de los mensajes de los partidos políticos y de las autoridades electorales, la Dirección Ejecutiva elaborará una pauta conjunta, que integre las dos anteriores. La misma será notificada a los concesionarios y permisionarios de radio y televisión, junto con los Acuerdos por los que las mismas se aprobaron, en los términos y plazos de este Reglamento.
 
-4. La Dirección Ejecutiva informará a RTC el inicio de la vigencia de la pauta correspondiente a procesos electorales federales o locales, para los efectos de la administración de los tiempos del Estado en radio y televisión.
+4. La Dirección Ejecutiva informará a la RTC el inicio de la vigencia de la pauta correspondiente a procesos electorales federales o locales, para los efectos de la administración de los tiempos del Estado en radio y televisión.
 
-5. Los concesionarios y permisionarios de radio y televisión no podrán alterar las pautas ni exigir requisitos técnicos adicionales a los aprobados por el Comité y/o la Junta. Los concesionarios de estaciones de radio y canales de televisión se abstendrán de comercializar el tiempo no asignado por el Instituto; los permisionarios no podrán utilizar los tiempos no asignados por el Instituto para patrocinios o contenidos similares.
+5. Los concesionarios y permisionarios de radio y televisión no podrán alterar las pautas ni exigir requisitos técnicos adicionales a los aprobados por el Comité y/o la Junta.
 
-> <small>(REFORMADO, D.O.F. 30 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO, D.O.F. 3 DE NOVIEMBRE DE 2011)</small>
 
 Artículo 34
 
@@ -827,7 +835,7 @@ De los elementos mínimos que deben contener las pautas
 
 a) Serán semestrales;
 
-b) Distribuirán de forma igualitaria entre los partidos políticos y las autoridades electorales diariamente 7 minutos 48 segundos en cada estación concesionada de radio; 5 minutos 45 segundos en cada canal concesionado de televisión, y 3 minutos 36 segundos en las permisionarias de radio y televisión;
+b) Distribuirán de forma igualitaria entre los partidos políticos y las autoridades electorales diariamente 7 minutos 48 segundos en cada estación concesionada de radio; 5 minutos 45 segundos en cada canal concesionado de televisión, y 3 minutos 36 segundos en las permisionarias de radio y televisión.
 
 c) Deberán precisar el concesionario o permisionario respectivo;
 
@@ -839,9 +847,9 @@ f) Los promocionales deberán ser transmitidos dentro de la hora en que sean pau
 
 2. Las pautas correspondientes a los procesos electorales deberán cumplir los siguientes requisitos:
 
-a) El periodo de vigencia de la pauta será el comprendido entre el inicio del periodo de acceso conjunto a radio y televisión con motivo de la precampaña, y la conclusión de la jornada electoral correspondiente;
+a) El tiempo de vigencia de la pauta será el comprendido entre el inicio del periodo de acceso conjunto a radio y televisión con motivo de la precampaña, y la conclusión de la jornada electoral correspondiente;
 
-b) Deberán precisar el concesionario o permisionario respectivo;
+b) Precisar el concesionario o permisionario respectivo;
 
 c) Distribuirán 48 minutos diarios entre los partidos políticos y las autoridades electorales en cada estación de radio y canal de televisión que cubran la elección y que estén previstas en el Catálogo de emisoras respectivo;
 
@@ -863,7 +871,7 @@ b) Los mensajes omitidos deberán reponerse en la misma etapa electoral o period
 
 c) La reposición de los mensajes de los partidos políticos y autoridades electorales se efectuará en los tiempos comercializables o para fines propios que la legislación aplicable autorice al concesionario o permisionario en cuestión. En ningún caso la reposición de los mensajes se efectuará en los tiempos del Estado.
 
-> <small>(REFORMADO, D.O.F. 30 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO, D.O.F. 3 DE NOVIEMBRE DE 2011)</small>
 
 Artículo 35
 
@@ -875,39 +883,41 @@ a) Cuando se otorgue el registro a un partido político;
 
 b) Por la declaración de pérdida del registro de un partido político;
 
-c) En los casos en que la distribución de los mensajes de partidos políticos deba modificarse con motivo de coaliciones totales, así como por la disolución de éstas, conforme a lo que determine el Consejo en términos del artículo 16 del presente Reglamento;
+c) En los casos en que la distribución de los mensajes de partidos políticos deba modificarse con motivo de coaliciones totales, así como por la disolución de éstas, conforme a lo que determine el Consejo en términos del artículo 16 del Reglamento;
 
 d) En los casos en que las emisoras de radio y televisión operen menos de 18 horas de transmisión en el horario comprendido entre las 6:00 y las 24:00 horas;
 
 e) Cuando existan situaciones supervenientes de caso fortuito o fuerza mayor que justifiquen dicha modificación;
 
-f) En los casos en los que la autoridad jurisdiccional en materia electoral lo determine, y
+f) En los casos en los que la autoridad jurisdiccional en materia electoral lo determine;
 
-g) Cuando lo soliciten autoridades para la atención de contingencias que afecten la salud o para la protección civil en casos de emergencia.
+g) Cuando lo soliciten autoridades para la atención de contingencias que afecten la salud o para la protección civil en casos de emergencia;
 
-h) En los casos referidos en el artículo 48 del presente Reglamento relativos a las emisoras permisionarias privadas sin fines de lucro, y
+h) En los casos referidos en el artículo 51 del Reglamento relativos a las emisoras permisionarias privadas sin fines de lucro;
 
-i) Por la celebración de elecciones extraordinarias.
+i) Por la celebración de elecciones extraordinarias, y
+
+j) Por la asignación trimestral de tiempos a autoridades electorales.
 
 2. Las emisoras de radio y televisión que actualicen el supuesto referido en el inciso d), deberán informar dicha circunstancia a la Dirección Ejecutiva para que ésta le notifique una pauta ajustada al menos 30 días previos al inicio de vigencia de la pauta correspondiente. En todo caso, las emisoras deberán acreditar la autorización emitida por la autoridad competente.
 
 Hasta que no se haya notificado la pauta ajustada, dichas emisoras de radio y televisión deberán transmitir los programas mensuales y/o los promocionales de partidos políticos y autoridades electorales conforme a la pauta original en los horarios en los que la emisora opere, de tal forma que no se altere el orden ni se modifiquen los horarios en que están pautados los mensajes.
 
-3. Las modificaciones a las pautas deberán notificarse a concesionarios y permisionarios al menos 5 días hábiles previos al inicio de transmisiones, en el caso de pautas ordinarias, y 2 días hábiles previos al inicio de transmisiones, en el caso de pautas correspondientes a los procesos electorales.
+3. Las modificaciones a las pautas deberán notificarse a concesionarios y permisionarios al menos 5 días hábiles previos al inicio de las transmisiones en el caso de pautas ordinarias, y de 4 días hábiles previos al inicio de transmisiones, en el caso de pautas correspondientes a los procesos electorales.
 
-> <small>(REFORMADO, D.O.F. 30 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO, D.O.F. 3 DE NOVIEMBRE DE 2011)</small>
 
 Artículo 36
 
 De los contenidos de los mensajes y programas
 
-1. En ejercicio de su libertad de expresión, los partidos políticos determinarán el contenido de los promocionales y de los programas mensuales que les correspondan, por lo que no podrá estar sujeto a censura previa por parte del Instituto ni de autoridad alguna. Los partidos políticos en el ejercicio de sus prerrogativas, así como los candidatos y militantes serán sujetos a las ulteriores responsabilidades que deriven de las diversas disposiciones constitucionales, legales y reglamentarias respectivas.
+1. En ejercicio de su libertad de expresión, los partidos políticos determinarán el contenido de los promocionales y de los programas mensuales que les correspondan, por lo que no podrá estar sujeto a censura previa por parte del Instituto ni de autoridad alguna. Los partidos políticos en el ejercicio de sus prerrogativas, así como los precandidatos, candidatos y militantes serán sujetos a las ulteriores responsabilidades que deriven de las diversas disposiciones constitucionales, legales y reglamentarias respectivas.
 
 2. Los partidos políticos y las autoridades electorales entregarán sus materiales a la Dirección Ejecutiva para su verificación técnica.
 
-3. Bajo la estricta responsabilidad del autor de los materiales, es obligación de los concesionarios y permisionarios difundir los promocionales y programas mensuales entregados por medio del Instituto, aun y cuando su contenido pueda vulnerar, a su juicio, la normatividad en materia de acceso a radio y televisión.
+3. Bajo la estricta responsabilidad del autor de los materiales, es obligación de los concesionarios y permisionarios difundir los promocionales y programas mensuales entregados por medio del Instituto, aun y cuando su contenido pueda vulnerar, a su juicio, la normatividad en materia de acceso a radio y televisión, por lo que se entenderá que su transmisión no les generará responsabilidad.
 
-> <small>(REFORMADO, D.O.F. 30 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO, D.O.F. 3 DE NOVIEMBRE DE 2011)</small>
 
 Artículo 37
 
@@ -915,153 +925,131 @@ De las especificaciones y calidad de los materiales
 
 1. La Dirección Ejecutiva hará del conocimiento de los integrantes del Comité, de los partidos políticos nacionales y locales, de la Dirección Ejecutiva de Capacitación Electoral y Educación Cívica y de las demás autoridades electorales, las especificaciones técnicas que deberán cumplir los materiales grabados que entreguen al Instituto para su transmisión en radio y televisión.
 
-> <small>(REFORMADO, D.O.F. 30 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO, D.O.F. 3 DE NOVIEMBRE DE 2011)</small>
 
 Artículo 38
 
 De los materiales del Instituto
 
-1. El contenido y demás características de los mensajes del Instituto, estarán a cargo de la Dirección Ejecutiva de Capacitación Electoral y Educación Cívica del propio Instituto, para lo cual atenderá a los programas y Lineamientos que apruebe el Consejo, a propuesta de la Junta.
+1. El contenido y demás características de los mensajes del Instituto, estarán a cargo de la Dirección Ejecutiva de Capacitación Electoral y Educación Cívica del propio Instituto, para lo cual atenderá a los programas y Lineamientos que apruebe el Consejo, a propuesta de la Junta, así como las sugerencias que presente la Comisión de Capacitación Electoral y Educación Cívica.
 
-> <small>(REFORMADO, D.O.F. 30 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO, D.O.F. 3 DE NOVIEMBRE DE 2011)</small>
 
 ### Capítulo II. De la notificación de pautas y entrega de órdenes de transmisión y materiales
 
-> <small>(REFORMADO, D.O.F. 30 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO, D.O.F. 3 DE NOVIEMBRE DE 2011)</small>
 
 Artículo 39
 
-De la notificación de pautas y entrega de órdenes de transmisión y materiales
-
-1. Las pautas serán notificadas a los concesionarios o permisionarios por la Dirección Ejecutiva, los Vocales Locales o los Vocales Distritales, al menos 20 días previos al inicio de transmisiones.
-
-2. La notificación de las pautas deberá ser realizada en el domicilio legal del concesionario o permisionario, en días y horas hábiles. Las notificaciones se llevarán a cabo de conformidad con las formalidades previstas en el artículo 40 del presente Reglamento.
-
-3. Las órdenes de transmisión y los materiales serán puestos a disposición de los concesionarios o permisionarios por la Dirección Ejecutiva y/o los Vocales Ejecutivos Locales y Distritales en una fecha única, en los plazos señalados en los párrafos siguientes.
-
-4. Durante los periodos ordinarios, los concesionarios y permisionarios podrán recibir las órdenes de transmisión y los materiales de radio y televisión vía electrónica o en su domicilio. En cualquier caso, el periodo en que las órdenes de transmisión y los materiales serán puestos a su disposición o notificados en su domicilio será de al menos 5 días hábiles previos al inicio de su transmisión, independientemente del medio en que se notifiquen.
-
-5. Desde el inicio de la precampaña y hasta el día de la jornada electoral, los concesionarios y permisionarios podrán recibir las órdenes de transmisión y los materiales de radio y televisión vía electrónica, recepción satelital o en su domicilio. El periodo en que las órdenes de transmisión y los materiales serán puestos a su disposición o entregados vía electrónica o satelital será de 3 días hábiles previos al inicio de su transmisión. La entrega en el domicilio del concesionario o permisionario se realizará al menos 2 días hábiles previos al inicio de su transmisión.
-
-Los horarios de entrega o puesta a disposición se establecerán en los Lineamientos que al efecto se emitan. La entrega vía electrónica y de recepción satelital de órdenes de transmisión y materiales de radio y televisión será realizada a través de los medios que el Instituto establezca y en los términos que se determinen en los Lineamientos que al efecto se emitan.
-
-6. Los concesionarios y permisionarios deberán dar aviso sobre su domicilio, dirección electrónica, representante legal y las personas autorizadas para oír y recibir notificaciones, así como del esquema de entrega de órdenes de transmisión y materiales a la Dirección Ejecutiva o Junta Local de la entidad federativa de que se trate, dentro de los 25 días posteriores al inicio de vigencia de su concesión o permiso, o del cambio de su domicilio, representante legal y/o personas autorizadas para oír y recibir notificaciones.
-
-7. Los concesionarios y permisionarios podrán solicitar la modificación del esquema de entrega de órdenes de transmisión y materiales. Para lo anterior, deberán remitir la solicitud por escrito a la Dirección Ejecutiva o Junta Local correspondiente. La Dirección Ejecutiva notificará por oficio la autorización, en su caso, y la fecha en que operará la modificación.
-
-> <small>(REFORMADO, D.O.F. 30 DE JUNIO DE 2011)</small>
-
-Artículo 40
-
-Del procedimiento de notificación
+De la notificación de las pautas
 
 1. Las notificaciones de las pautas deberán ser realizadas mediante el siguiente procedimiento:
 
-a) Las notificaciones de las pautas se harán con al menos 20 días de anticipación a la fecha de inicio de transmisiones, y surtirán sus efectos el mismo día de su realización.
+a) Las notificaciones de las pautas se harán con al menos 20 días de anticipación a la fecha de inicio de transmisiones, y surtirán sus efectos el mismo día de su realización;
 
-b) Las notificaciones personales se realizarán en días y horas hábiles al interesado o por conducto de la persona que éste haya autorizado para el efecto.
+b) Las notificaciones personales se realizarán en días y horas hábiles al interesado o por conducto de la persona que éste haya autorizado para el efecto;
 
-c) Las notificaciones que se dirijan a una autoridad u órgano partidario se notificarán por oficio.
+c) Las notificaciones que se dirijan a una autoridad u órgano partidario se notificarán por oficio, y
 
-d) Cuando deba realizarse una notificación personal, el notificador deberá cerciorarse, por cualquier medio, que la persona que deba ser notificada tiene su domicilio en el inmueble designado y, después de ello, practicará la diligencia entregando copia autorizada de la determinación correspondiente, de todo lo cual se asentará razón.
+d) Cuando deba realizarse una notificación personal, la misma deberá realizarse en los términos del Código y del Reglamento de Quejas y Denuncias.
 
-e) Si no se encuentra al interesado o a las personas autorizadas para oír y recibir notificaciones en su domicilio se les dejará con cualquiera de las personas que allí se encuentren un citatorio que contendrá:
+2. Los concesionarios y permisionarios deberán dar aviso sobre su domicilio y representante legales, las personas autorizadas para oír y recibir notificaciones y, en su caso, la dirección electrónica, a la Dirección Ejecutiva, dentro de los 25 días posteriores al inicio de vigencia de su concesión o permiso, o en su caso, del cambio de su domicilio, representante legal y/o personas autorizadas para oír y recibir notificaciones.
 
-I. Denominación del órgano que dictó la determinación que se pretende notificar;
+3. En caso de que el concesionario o permisionario incumpla con la obligación prevista en el párrafo inmediato anterior, la notificación del material y los pautados deberá ser realizada en el domicilio que para tales efectos tenga registrado ante la COFETEL y/o RTC.
 
-II. Extracto de la determinación que se notifica;
+> <small>(REFORMADO, D.O.F. 3 DE NOVIEMBRE DE 2011)</small>
 
-III. Día y hora en que se deja el citatorio y nombre de la persona a la que se le entrega, y
+Artículo 40
 
-IV. El señalamiento de la hora a la que, al día siguiente, se deberá esperar la notificación.
+De la entrega de órdenes de transmisión y materiales
 
-f) Al día siguiente, en la hora fijada en el citatorio, el notificador se constituirá nuevamente en el domicilio y si el interesado no se encuentra, se realizará la diligencia con cualquier persona que se encuentre en el domicilio.
+1. Las órdenes de transmisión y los materiales serán entregados de forma electrónica o en el domicilio legal, o puestos a disposición de los concesionarios o permisionarios, según se trate, por la Dirección Ejecutiva y/o los Vocales en una fecha única, de conformidad con los plazos señalados en los párrafos siguientes. Los plazos establecidos para ejecutar una orden de transmisión comenzarán a contarse al día siguiente al de su entrega o puesta a disposición.
 
-g) Si a quien se busca se niega a recibir la notificación, o las personas que se encuentran en el domicilio se rehúsan a recibir el citatorio, o no se encuentra nadie en el lugar, éste se fijará en la puerta de entrada, procediéndose a realizar la notificación por Estrados, asentándose razón de ello.
+2. Durante los periodos ordinarios, las órdenes de transmisión y los materiales serán entregados o puestos a disposición, según sea el caso, a los concesionarios y permisionarios al menos 5 días hábiles previos al inicio de su transmisión.
 
-h) Las notificaciones personales podrán realizarse por comparecencia del interesado, de su representante, o de su autorizado ante el órgano que corresponda.
+3. Desde el inicio de la precampaña y hasta el día de la jornada electoral, las órdenes de transmisión y los materiales serán entregados o puestos a disposición, según sea el caso, a los concesionarios y permisionarios al menos 3 días hábiles previos al inicio de su transmisión. En los casos en que el concesionario o permisionario tenga su domicilio legal en una entidad distinta a aquella en que operen las emisoras respectivas, contará con 1 día natural adicional para iniciar las transmisiones correspondientes a la pauta de que se trate.
 
-> <small>(REFORMADO, D.O.F. 30 DE JUNIO DE 2011)</small>
+4. En todo momento, los concesionarios y permisionarios podrán optar por alguno de estos esquemas para la recepción de órdenes de transmisión y materiales: entrega electrónica, entrega en el domicilio legal o recepción satelital. Para lo anterior, deberán solicitarlo formalmente a la Dirección Ejecutiva o Junta Local de que se trate. En su caso, la Dirección Ejecutiva autorizará mediante oficio, el esquema de recepción de órdenes de transmisión y materiales y determinará la fecha a partir de la cual será vigente la modificación.
+
+> <small>(REFORMADO, D.O.F. 3 DE NOVIEMBRE DE 2011)</small>
 
 Artículo 41
 
 De la elaboración y entrega de órdenes de transmisión
 
-1. En periodos ordinarios, la Dirección Ejecutiva elaborará una orden de transmisión a la semana con los materiales que hayan sido entregados a más tardar el día anterior en el horario que determine la Dirección Ejecutiva, y que cumplan con las especificaciones técnicas a que se refiere el artículo 37 del presente Reglamento.
+1. En periodos ordinarios, la Dirección Ejecutiva elaborará una orden de transmisión a la semana con los materiales que hayan sido entregados a más tardar el día anterior en el horario que ésta determine, y que cumplan con las especificaciones técnicas a que se refiere el artículo 37 del Reglamento.
 
-2. Desde el inicio de las precampañas y hasta el día de la jornada electoral, la Dirección Ejecutiva podrá elaborar órdenes de transmisión cualquier día de la semana, con los materiales que hayan sido entregados a más tardar el día anterior en el horario que determine la Dirección Ejecutiva, y que cumplan con las especificaciones técnicas a que se refiere el artículo 37 del presente Reglamento.
+2. Desde el inicio de las precampañas y hasta el día de la jornada electoral, la Dirección Ejecutiva elaborará 2 órdenes de transmisión a la semana, en los días que acuerde el Comité, con los materiales que hayan sido entregados a más tardar el día anterior en el horario que ésta determine, y que cumplan con las especificaciones técnicas a que se refiere el artículo 37 del Reglamento.
 
-Para efectos de lo anterior, el Comité podrá aprobar calendarios específicos para la entrega de órdenes de transmisión y materiales de radio y televisión durante los procesos electorales.
+3. Las órdenes de transmisión y los respectivos materiales se entregarán o pondrán a disposición de los concesionarios o permisionarios al día siguiente de la fecha de elaboración de la orden de transmisión correspondiente, de conformidad con lo establecido en el artículo 40 del Reglamento.
 
-3. Las órdenes de transmisión y los respectivos materiales se entregarán o pondrán a disposición de los concesionarios o permisionarios en un plazo no mayor a dos días hábiles, a partir de la fecha de elaboración de la orden de transmisión correspondiente, de conformidad con lo establecido en el artículo 39 del presente Reglamento, y en términos de los Lineamientos que al efecto se establezcan. La entrega vía electrónica o satelital se realizará en un plazo no mayor a un día hábil, contando a partir de la fecha de elaboración de la orden de transmisión.
+4. Para efectos de lo anterior, el Comité y la Junta aprobarán calendarios de órdenes de transmisión y materiales.
 
-> <small>(REFORMADO, D.O.F. 30 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO, D.O.F. 3 DE NOVIEMBRE DE 2011)</small>
 
 Artículo 42
 
-De las solicitudes de ordenes de transmisión y materiales de los partidos, coaliciones y autoridades electorales
+De la entrega de materiales por parte de partidos políticos, coaliciones y autoridades electorales
 
-1. Las autoridades electorales y los partidos políticos, por medio de su representante titular o suplente ante el Consejo o el Comité, o bien, las personas que éstos designen expresamente al efecto, deberán entregar a la Dirección Ejecutiva, mediante oficio, los materiales que contengan sus promocionales o programas, especificando el nombre de la versión del mensaje, duración del mismo y periodo de vigencia al aire.
+1. Las autoridades electorales y los partidos políticos, por medio de su representante titular o suplente ante el Consejo o el Comité, o bien, las personas que éstos designen expresamente al efecto, deberán entregar a la Dirección Ejecutiva, mediante oficio, los materiales que contengan sus promocionales o programas, especificando el nombre de la versión del mensaje, duración del mismo, periodo de vigencia al aire e instrucciones precisas para su difusión en los espacios correspondientes de la pauta.
 
 2. En el caso de las coaliciones, los partidos políticos integrantes de las mismas deberán nombrar a un representante común para la entrega de los materiales. En caso de no nombrar a un representante común para estos fines, se considerará como tal al representante titular o suplente ante el Consejo o el Comité, del partido político que ostente la representación de la coalición o bien lo que determine el convenio respectivo.
 
-3. Los partidos políticos deberán entregar a la Dirección Ejecutiva, al menos, un programa mensual y un promocional de audio y de video, en las unidades de medida correspondientes.
+3. La Dirección Ejecutiva revisará que los materiales entregados por los partidos políticos y autoridades electorales tengan la duración correcta y que cumplan las especificaciones técnicas a que se refiere el artículo 37 del Reglamento. En caso de que los materiales incumplan dichas especificaciones, su duración exceda o sea menor al tiempo correspondiente, la Dirección Ejecutiva lo hará del conocimiento de sus autores, a fin de que éstos procedan a realizar las correcciones o adecuaciones correspondientes.
 
-4. La Dirección Ejecutiva revisará que los materiales entregados por los partidos políticos y autoridades electorales para verificar que tengan la duración correcta y que cumplan las especificaciones técnicas a que se refiere el artículo 37 del presente Reglamento. En caso de que los materiales incumplan dichas especificaciones, su duración exceda o sea menor al tiempo correspondiente, la Dirección Ejecutiva lo hará del conocimiento de sus autores, a fin de que éstos procedan a realizar las correcciones o adecuaciones correspondientes.
+4. Para efecto de garantizar la prerrogativa de acceso a radio y televisión de los partidos políticos, ante cualquier eventualidad técnica, material o jurídica, éstos deberán entregar al Instituto un material genérico de radio y dos de televisión, con duración de 5 minutos, 20 y 30 segundos respectivamente, dentro de los 25 días posteriores al inicio de vigencia del Reglamento. Estos materiales podrán ser actualizados en cualquier momento por los partidos políticos.
 
-6. Para efecto de garantizar la prerrogativa de acceso a radio y televisión de los partidos políticos, ante cualquier eventualidad técnica, material o jurídica, éstos deberán entregar al Instituto dos materiales genéricos de radio y dos de televisión, con duración de 20 y 30 segundos respectivamente, dentro de los 25 días posteriores al inicio de vigencia del presente Reglamento. Estos materiales podrán ser actualizados en cualquier momento por los partidos políticos.
-
-Las coaliciones que se conformen con motivo de los procesos electorales, federal o locales, deberán entregar un material genérico de radio y uno de televisión con duración de 30 segundos, al momento de hacer la primera entrega de materiales para su difusión.
+5. Las coaliciones que se conformen con motivo de los procesos electorales, federales o locales, deberán entregar un material genérico de radio y uno de televisión con duración de 30 segundos, al momento de hacer la primera entrega de materiales para su difusión.
 
 6. En caso de que los materiales entregados por los partidos políticos no cumplan con las especificaciones técnicas, ni con la duración correcta, invariablemente se seguirán transmitiendo las versiones que se encuentren vigentes, o en su caso, se transmitirá el material genérico previamente entregado por los partidos políticos.
 
 7. Las disposiciones anteriores serán aplicables en lo conducente a los materiales de las autoridades electorales.
 
-> <small>(REFORMADO, D.O.F. 30 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO, D.O.F. 3 DE NOVIEMBRE DE 2011)</small>
 
 Artículo 43
 
 De los gastos de producción de los promocionales
 
-1. Los gastos de producción de los promocionales y programas mensuales para radio y televisión de los partidos políticos serán sufragados con sus propios recursos.
+1. Los gastos de producción de los promocionales y programas mensuales para radio y televisión de los partidos políticos serán sufragados con recursos propios.
 
-> <small>(REFORMADO, D.O.F. 30 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO, D.O.F. 3 DE NOVIEMBRE DE 2011)</small>
 
 ### Capítulo III. De los catálogos y mapas de cobertura
 
-> <small>(REFORMADO, D.O.F. 30 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO, D.O.F. 3 DE NOVIEMBRE DE 2011)</small>
 
 Artículo 44
 
 De los catálogos de emisoras
 
-1. El Catálogo nacional de estaciones de radio y televisión se conformará por el listado de concesionarios y permisionarios de todo el país.
+1. El Catálogo nacional de estaciones de radio y canales de televisión se conformará por el listado de concesionarios y permisionarios de todo el país y, tratándose de un Proceso Electoral, será aprobado por el Comité, al menos con 30 días previos al inicio de la precampaña del Proceso Electoral de que se trate.
 
-2. Los catálogos para los procesos electorales de estaciones de radio y canales de televisión se conformarán por el listado de concesionarios y permisionarios que:
+2. El Comité determinará el catálogo de emisoras que deberán participar en la cobertura de cada Proceso Electoral, con la finalidad de garantizar el derecho al uso de los medios de comunicación social de los partidos políticos y de las autoridades electorales. Con base en estos catálogos, las concesionarias y permisionarias deben difundir en cada estación de radio y canal de televisión, la propaganda de los partidos políticos y los mensajes de las autoridades electorales ordenada por el Instituto.
+
+3. Los catálogos para los procesos electorales de estaciones de radio y canales de televisión se conformarán por el listado de concesionarios y permisionarios que:
 
 a) Se encuentren obligados a transmitir las pautas para la difusión de los promocionales de partidos políticos y autoridades electorales que les sean notificadas, en términos de los párrafos siguientes.
 
 b) Se encuentren obligados a suspender la transmisión de propaganda gubernamental durante el periodo de campañas.
 
-3. En relación con el inciso a) del numeral anterior, todos los concesionarios y permisionarios que estén domiciliados en la entidad federativa de que se trate estarán, por ese solo hecho, obligados a transmitir las pautas para la difusión de los promocionales de partidos políticos y autoridades electorales que les sean notificadas.
+4. En los procesos electorales locales, el Comité incluirá en el catálogo respectivo el número suficiente de emisoras que garanticen la efectividad de la cobertura de la entidad federativa de que se trate, incluyendo, en su caso, concesionarios y permisionarios de otra entidad federativa cuya señal llegue a aquella donde se lleve a cabo el Proceso Electoral respectivo.
 
-4. En caso de que las emisoras que transmitan desde una entidad federativa en la que se celebre un proceso electoral local no tengan cobertura en determinada región de la misma, o que el número de emisoras sea insuficiente para cumplir con los fines de efectividad de la cobertura, se podrá utilizar la señal que emitan concesionarios y permisionarios de otra entidad federativa cuya señal llegue a dicha zona.
+5. En el caso de las emisoras cuya señal sea efectivamente vista o escuchada en los municipios que conforman zonas conurbadas de una entidad en Proceso Electoral Local, su señal podrá ser utilizada para participar en la cobertura del proceso electivo de que se trate, independientemente de la entidad en que opere.
 
-5. En el caso de las emisoras cuya señal sea vista o escuchada en los municipios que conforman zonas conurbadas de una entidad en proceso electoral local, su señal podrá ser utilizada para participar en la cobertura del proceso electivo de que se trate, independientemente de la entidad en que opere.
+6. El Catálogo de estaciones de radio y canales de televisión será aprobado por el Comité y su publicación será ordenada por el Consejo, al menos 30 días previos al inicio de la etapa de precampañas del Proceso Electoral de que se trate.
 
-6. El Catálogo de estaciones de radio y canales de televisión será aprobado por el Comité y su publicación será ordenada por el Consejo, al menos 30 días previos al inicio de la etapa de precampañas del proceso electoral de que se trate.
-
-7. El catálogo de estaciones de radio y canales de televisión aprobado por el Consejo será público.
+7. El Catálogo de estaciones de radio y canales de televisión aprobado por el Consejo será público y deberá notificarse a todos los concesionarios y permisionarios incluidos en el mismo.
 
 8. El Comité podrá aprobar Lineamientos específicos respecto de la eficiencia en la operación de los concesionarios y permisionarios de radio y televisión.
 
-> <small>(REFORMADO, D.O.F. 30 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO, D.O.F. 3 DE NOVIEMBRE DE 2011)</small>
 
 Artículo 45
 
 De los mapas de cobertura
 
-1. Los mapas de cobertura a que se refiere el artículo 62 del Código serán elaborados y actualizados una vez al año por la Dirección Ejecutiva, con la colaboración de la Dirección Ejecutiva del Registro Federal de Electores y las autoridades competentes, considerando las estaciones complementarias.
+1. Los mapas de cobertura a que se refiere el artículo 62 del Código serán elaborados y actualizados una vez al año por la Dirección Ejecutiva, con base en la información que las autoridades competentes provean sobre la cobertura de cada concesionario y/o permisionario, además de la colaboración e información relativa a la población, padrón electoral y lista nominal incluidas en la cobertura efectiva que para tales efectos proporcione la Dirección Ejecutiva del Registro Federal de Electores.
 
 2. Para efectos de lo dispuesto en el párrafo anterior, el Instituto podrá celebrar convenios con las autoridades competentes.
 
@@ -1069,61 +1057,143 @@ De los mapas de cobertura
 
 4. Los mapas de cobertura serán públicos.
 
-5. Los mapas de cobertura serán elaborados con la información que para tales efectos proporcionen las autoridades correspondientes, y el Registro Federal de Electores.
+5. Los mapas de cobertura se pondrán a disposición de los concesionarios y permisionarios para consulta, y en su caso, solicitud de ajuste a la Dirección Ejecutiva, la cual determinará lo conducente.
 
-6. Los mapas de cobertura se pondrán a disposición de los concesionarios y permisionarios para consulta, y en su caso, solicitud de ajuste a la Dirección Ejecutiva, la cual determinará lo conducente.
-
-> <small>(REFORMADO, D.O.F. 30 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO, D.O.F. 3 DE NOVIEMBRE DE 2011)</small>
 
 Artículo 46
 
-De los concesionarios de televisión restringida
+De las afiliadas que tengan programación mixta
 
-1. Los concesionarios y permisionarios de televisión restringida no podrán alterar o modificar el audio o el video de la señal original objeto de su transmisión. Se entenderá como transmisión original la que es vista o escuchada mediante los medios ordinarios de televisión abierta.
+1. Las afiliadas de televisión y radio que transmitan programación mixta o total, deberán notificarlo a la Dirección Ejecutiva, a más tardar, con 45 días hábiles de anticipación a la entrada en vigor del esquema de programación mixta o total de que se trate.
 
-2. La señal originada por los concesionarios y permisionarios de televisión abierta tiene que ser retransmitida íntegramente en lo concerniente a los promocionales de partidos políticos y autoridades electorales pautados por el Instituto.
+2. Fuera de Proceso Electoral Federal, los afiliados que transmitan programación total del afiliante cumplirán con su obligación de transmitir tiempos oficiales en materia electoral, respetando los tiempos pautados en la programación de este último. Se exceptúan de lo anterior aquellos afiliados que tengan la obligación de transmitir las pautas relativas a un Proceso Electoral Local coincidente o no con el federal, en cuyo caso deberán transmitir la pauta que el Instituto les ordene con motivo de dicho Proceso.
 
-3. Durante los procesos electorales, los concesionarios y permisionarios deberán considerar las prohibiciones que, en materia de difusión, establecen el Código conforme al artículo 34 del Reglamento del Servicio de Televisión y Audio Restringidos.
+3. Fuera de Proceso Electoral Federal, los afiliados que transmitan de manera mixta programación propia y del afiliante, cumplirán con su obligación de transmitir tiempos oficiales en materia electoral de la siguiente manera:
 
-> <small>(REFORMADO, D.O.F. 30 DE JUNIO DE 2011)</small>
+a) Durante el tiempo en que el afiliado transmita programación del afiliante se estará a lo dispuesto en el párrafo 2 del presente artículo, y
+
+b) Durante el tiempo en que el afiliado transmita programación propia, cumplirá con su obligación transmitiendo la pauta complementaria que le sea notificada.
+
+4. Para efectos de lo dispuesto en los párrafos anteriores, el Comité aprobará una pauta que refleje las obligaciones de cada concesionario o permisionario.
+
+> <small>(REFORMADO, D.O.F. 3 DE NOVIEMBRE DE 2011)</small>
 
 Artículo 47
 
-De las emisoras autorizadas para transmitir en otras lenguas o idiomas
+De los concesionarios de televisión restringida
 
-1. En el caso de estaciones de radio y canales de televisión que cuenten con autorización de la Secretaría de Gobernación para transmitir en una lengua o idioma distinto al español, los partidos o autoridades electorales que así lo requieran, se harán cargo de la traducción de los mensajes o programas que se deban difundir en dichas estaciones o canales.
+1. Los concesionarios de televisión restringida estarán obligados a respetar los pautados transmitidos en televisión abierta que retransmitan dentro de la concesión de televisión restringida.
 
-2. Los concesionarios y permisionarios que cuenten con dicha autorización podrán traducir, con cargo a su presupuesto, los promocionales o programas mensuales de los partidos políticos y autoridades electorales, en cuyo caso la traducción al idioma de que se trate deberá realizarse sin modificar la duración del mensaje y sin que ello afecte en los plazos previstos para la entrega de materiales, de conformidad con los Lineamientos que al efecto se emitan.
+2. Las bases previstas en el artículo 7 del Reglamento serán aplicables, en lo conducente, a los concesionarios de televisión restringida.
 
-3. En el caso de permisionarios que transmitan en lenguas indígenas, la traducción podrá realizarse por medio de instituciones públicas que brinden dichos servicios o por la propia emisora, de acuerdo a lo establecido en los Lineamientos respectivos.
-
-4. En todo caso, las emisoras quedan obligadas a presentar el aviso respectivo al menos 30 días previos al inicio de vigencia de la pauta respectiva, conforme a los Lineamientos que al efecto apruebe el Comité.
-
-> <small>(REFORMADO, D.O.F. 30 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO, D.O.F. 3 DE NOVIEMBRE DE 2011)</small>
 
 Artículo 48
 
+De las emisoras autorizadas para transmitir en otras lenguas o idiomas
+
+1. Con el objeto de que los partidos políticos y las autoridades electorales conozcan las emisoras de radio y televisión que transmiten en una lengua o idioma distinto al español, la Dirección Ejecutiva, con la colaboración de la RTC, elaborará un catálogo de los concesionarios y permisionarios autorizados para transmitir en idiomas distintos al nacional, incluyendo a los permisionarios que transmiten en lenguas indígenas que notifiquen el aviso de traducción a dichas lenguas.
+
+2. El catálogo será aprobado por el Comité y se publicará en la página de internet del Instituto.
+
+3. El catálogo deberá ser actualizado por la Dirección Ejecutiva cada vez que un concesionario o permisionario notifique el aviso de la traducción de los materiales de partidos políticos y autoridades electorales en idioma distinto al español. Las actualizaciones a este catálogo serán aprobadas por el Comité.
+
+> <small>(REFORMADO, D.O.F. 3 DE NOVIEMBRE DE 2011)</small>
+
+Artículo 49
+
+De los materiales en idiomas distintos al español traducidos por los partidos políticos o autoridades electorales
+
+1. Los partidos políticos y las autoridades electorales que requieran la transmisión de sus materiales en un idioma distinto al español en una emisora que cuente con la autorización correspondiente, o en una estación que transmita en lenguas indígenas, se harán cargo de la traducción de los mensajes que se deban difundir en el idioma o lengua de que se trate. Para tal efecto, el material deberá cumplir con las especificaciones técnicas que apruebe el Comité.
+
+2. Los materiales en idioma distinto al español deberán ser entregados a la Dirección Ejecutiva bajo las mismas condiciones que cualquier otro material, para su verificación técnica y con la suficiente anticipación para su transmisión en las emisoras de radio o televisión correspondientes, de conformidad con los plazos previstos en este Reglamento y con los calendarios que apruebe el Comité o la Junta.
+
+3. Los partidos políticos que opten por remitir materiales en idiomas distintos al español o en lenguas indígenas deberán acompañarlos de una traducción por escrito en idioma español la cual deberá ser publicada a través del portal de pautas del Instituto, lo anterior con la finalidad de que el contenido del material pueda ser conocido por todas las personas.
+
+> <small>(REFORMADO, D.O.F. 3 DE NOVIEMBRE DE 2011)</small>
+
+Artículo 50
+
+De los materiales en idiomas y lenguas distintos al español traducidos por los concesionarios o permisionarios
+
+1. Los concesionarios y permisionarios de radio y televisión que cuenten con la autorización para transmitir en un idioma distinto al nacional podrán optar por traducir, con cargo a su presupuesto, los promocionales o programas mensuales de los partidos políticos y de las autoridades electorales. Lo anterior también será aplicable a los permisionarios que transmiten en lenguas indígenas y opten por traducir los materiales.
+
+2. Los concesionarios y permisionarios con la autorización correspondiente, que deseen traducir los materiales de partidos políticos y autoridades electorales al idioma respectivo, deberán ajustarse a lo siguiente:
+
+a) La traducción la realizará un perito en materia de traducción legalmente autorizado por el Poder Judicial de la entidad donde opere la emisora;
+
+b) La duración de los mensajes no podrá ser modificada, de modo que los promocionales y programas se ajustarán a las unidades de medida previstas en la normatividad de la materia, siendo éstas 20 segundos, 30 segundos, 1 minuto, 2 minutos o 5 minutos, según se trate;
+
+c) La traducción deberá realizarse respecto de todos los promocionales y programas de todos los partidos políticos y coaliciones y todas las autoridades electorales durante el periodo o etapa correspondiente, y
+
+d) En el caso de permisionarios que transmitan en lenguas indígenas, la traducción podrá realizarse por medio de instituciones públicas que brinden estos servicios o por la propia emisora. En todo caso, deberán cumplir con lo establecido en los incisos b) y c) del presente párrafo
+
+3. Al aprobar los calendarios de las órdenes de transmisión correspondientes, el Comité establecerá los mecanismos necesarios para garantizar que en la difusión de promocionales y programas que realicen las emisoras, se cumpla con lo siguiente:
+
+a) La prerrogativa de los partidos políticos y el derecho de las autoridades electorales;
+
+b) La verificación por parte del Instituto de la transmisión de los materiales, y
+
+c) La transmisión de los promocionales y programas preferentemente en idioma distinto al español.
+
+4. Los concesionarios y permisionarios que deseen optar por traducir los promocionales o programas mensuales de los partidos políticos y de las autoridades electorales, deberán enviar a la Dirección Ejecutiva, directamente o a través del Vocal de la entidad de que se trate, un aviso único por escrito en el que manifiesten tal situación, acompañado de los siguientes documentos y precisando la información que se indica a continuación:
+
+a) Las siglas de la emisora, la frecuencia o canal, el nombre y domicilio de la persona, ya sea física o moral, que ostente la concesión o permiso;
+
+b) Copia certificada de la autorización vigente de la RTC para transmitir en un idioma distinto al nacional. Este requisito no aplica a permisionarios que transmiten en lenguas indígenas;
+
+c) Copia certificada de la constancia que acredite al perito en materia de traducción del español al idioma de que se trate, emitida por el Poder Judicial de la entidad, con el cual se vayan a realizar las traducciones. Este requisito no aplica a permisionarios que transmiten en lenguas indígenas, y
+
+d) En caso de que el concesionario o permisionario sea una persona moral o actúe por intermediarios, los documentos en copia certificada que acrediten la representación legal.
+
+5. La Dirección Ejecutiva proporcionará los requerimientos técnicos aprobados por el Comité para la grabación de los mensajes en radio y televisión.
+
+6. El concesionario o permisionario que haya presentado el aviso con los requisitos aludidos en el numeral 4 del presente artículo, se apegará a la traducción emitida por el perito traductor o la institución pública, según se trate, y remitirá todos los materiales traducidos a la Dirección Ejecutiva, para que verifique si cumplen las especificaciones técnicas para su difusión en radio o televisión, incluyendo la traducción de los mensajes por escrito, debidamente firmada por el perito traductor y con los sellos o medios de autentificación correspondientes. Los permisionarios que transmitan en lenguas indígenas, enviarán la traducción del contenido de los materiales realizada en su caso, por la institución pública respectiva o por la propia emisora.
+
+7. En caso de que los requerimientos técnicos se cumplan respecto de todos los materiales, en un plazo que no podrá exceder de un día hábil a partir de la recepción de los materiales traducidos, la Dirección Ejecutiva generará las huellas acústicas respectivas, elaborará la orden de transmisión específica y la pondrá a disposición del concesionario o permisionario, junto con el aviso de autorización para que la emisora inicie la transmisión de los materiales traducidos. En caso contrario, dentro del mismo plazo se notificará al concesionario o permisionario para que subsane las deficiencias y remita de nueva cuenta los materiales para su revisión técnica.
+
+8. Hasta en tanto el concesionario no reciba el aviso de autorización de la Dirección Ejecutiva para la difusión de los mensajes traducidos, el concesionario o permisionario deberá seguir transmitiendo los materiales originales conforme a las órdenes de transmisión instruidas por el Instituto, en el entendido de que los materiales vigentes serán aquellos que hubiesen sido notificados por la citada Dirección.
+
+> <small>(REFORMADO, D.O.F. 3 DE NOVIEMBRE DE 2011)</small>
+
+Artículo 51
+
 De las emisoras permisionarias privadas sin fines de lucro
 
-1. Para acreditar la categoría de permisionaria privada sin fines de lucro éstas emisoras deberán de presentar al Instituto:
+1. Para acreditar la categoría de permisionaria privada sin fines de lucro estas emisoras deberán de presentar al Instituto:
 
 a) Título de permiso para operar una estación de radio o televisión con fines culturales, educativos o de otra índole, expedido por la autoridad competente.
 
 b) Situación financiera, comprobable a través de las declaraciones ante la Secretaría de Hacienda y Crédito Público.
 
-c) Demostrar que no cuenta con un techo presupuestal público para operar.
+c) Acreditar contablemente que no ejercen techo presupuestal de recursos públicos para operar.
 
-2. El Comité aprobará una pauta ajustada para las emisoras permisionarias privadas sin fines de lucro que así lo soliciten considerando el informe que previamente envíe cada emisora respecto a las condiciones específicas de operación de la emisora y horario de la comunidad en la que se ubica.
+2. El Comité aprobará una pauta ajustada para las emisoras permisionarias privadas sin fines de lucro que así lo soliciten considerando el informe que previamente envíe cada emisora respecto a sus condiciones específicas de operación y horario de la comunidad en la que se ubica.
 
-3. En el caso de emisoras permisionarias privadas sin fines de lucro que tengan su cobertura principal en una localidad donde se celebren elecciones por usos y costumbres, y que no coincidan con alguna elección federal o local, se transmitirán durante el periodo ordinario solamente promocionales de las autoridades electorales.
+3. En el caso de emisoras permisionarias privadas sin fines de lucro que tengan cobertura principal en una localidad donde se celebren elecciones por usos y costumbres y que no coincidan con alguna elección federal o local, se transmitirán durante el periodo ordinario solamente promocionales de las autoridades electorales.
 
-> <small>(REFORMADO, D.O.F. 30 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO, D.O.F. 3 DE NOVIEMBRE DE 2011)</small>
 
-Artículo 49
+Artículo 52
 
 De la reprogramación
 
-1. Las emisoras que adviertan que no han transmitido conforme a las pautas ordenadas por el Instituto, enviarán un aviso al Vocal Ejecutivo Local de la entidad correspondiente en que informen dicha circunstancia, así como las causas de la omisión y los elementos con que las acrediten. En el mismo aviso propondrán la reprogramación de transmisiones que necesariamente deberá ajustarse a las reglas siguientes:
+1. Los concesionarios y permisionarios podrán dar aviso de reprogramación voluntaria por escrito a la Dirección Ejecutiva, o a la Junta Local Ejecutiva, cuando adviertan que no han transmitido los programas o promocionales conforme a las pautas ordenadas por el Instituto, dentro de los 3 días hábiles siguientes al incumplimiento, señalando dicha circunstancia, así como las causas de la omisión y los elementos con que las acrediten.
+
+2. En los casos en que la omisión se produzca en la última semana del periodo de que se trate durante los procesos electorales -precampaña, intercampaña o campaña-, el concesionario o permisionario deberá enviar el aviso al día hábil siguiente al incumplimiento.
+
+3. En el aviso de reprogramación voluntaria, el concesionario o permisionario deberá precisar lo siguiente:
+
+a. Los programas y/o promocionales omitidos;
+
+b. El folio, versión, actor, fecha y horario pautados;
+
+c. La justificación del presunto incumplimiento, y
+
+d. La propuesta de reprogramación de los programas y/o promocionales omitidos.
+
+4. La reprogramación de transmisiones necesariamente deberá ajustarse a las reglas siguientes:
 
 a) Las transmisiones se llevarán a cabo en el mismo día de la semana en que el mensaje fue pautado originalmente, inmediato siguiente a la presentación del aviso y de la propuesta de reprogramación de la emisora;
 
@@ -1135,37 +1205,61 @@ d) Los mensajes que se transmitirán serán los correspondientes a los materiale
 
 e) En todo caso, se dará preferencia a la transmisión de los promocionales que conforme a las pautas correspondan en los días de la reprogramación, de modo que los mensajes cuya transmisión se reprograme deberán ser pautados después de los originales a la misma hora, en cortes distintos para evitar la acumulación de mensajes, así como para efectos de la verificación de transmisiones;
 
-f) La propuesta tiene que garantizar la proporcionalidad entre la transmisión reprogramada y el número de mensajes omitidos, de modo que evite la saturación de promocionales y la transmisión continua en un mismo corte sea comercial o de cualquier tipo;
+f) La propuesta tiene que garantizar la proporcionalidad entre la transmisión reprogramada y el número de mensajes omitidos, de modo que evite la saturación de promocionales y la transmisión continua en un mismo corte, sea comercial o de cualquier tipo;
 
-g) Invariablemente, las transmisiones de los mensajes de partidos políticos y autoridades electorales se efectuará en tiempos distintos a los que corresponden al Estado;
+g) Invariablemente, las transmisiones de los mensajes de partidos políticos y autoridades electorales se efectuará (sic) en tiempos distintos a los que corresponden al Estado;
 
 h) Solo en caso de que la propuesta de reprogramación no fuera procedente, por no apegarse a las reglas anteriores o por cualquier causa que justificara la negativa, la Junta Local y/o Dirección Ejecutiva notificarán una pauta especial en la que se reprogramen los mensajes cuya transmisión haya sido omitida, y se informarán las razones de la negativa;
 
-i) La reprogramación sólo podrá tener lugar en la misma etapa temporal respecto de la cual se omitió la transmisión originalmente pautada. Si el mensaje omitido se pautó para su transmisión en la etapa de precampañas, únicamente podrá ser reprogramado durante el transcurso de dicha etapa, misma situación que se observará con los periodos de intercampañas y campañas;
+i) La reprogramación sólo podrá tener lugar en la misma etapa electoral respecto de la cual se omitió la transmisión originalmente pautada. Si el mensaje omitido se pautó para su transmisión en la etapa de precampañas, únicamente podrá ser reprogramado durante el transcurso de dicha etapa, misma situación que se observará con los periodos de intercampañas y campañas;
 
 j) En caso de que la omisión se produzca en la última semana del periodo de que se trate -precampañas, intercampañas o campañas- la reprogramación respectiva tendrá lugar al día siguiente de la omisión, y
 
 k) En caso de que la omisión se produzca el último día de la etapa de que se trate -precampañas, intercampañas o campañas-, la reprogramación se llevará a cabo al inicio del periodo no electoral inmediato siguiente.
 
-2. En caso de que no se reciba un aviso de reprogramación voluntaria por parte de las concesionarias y/o permisionarias, el Vocal Ejecutivo Local o la Dirección Ejecutiva notificará un requerimiento a la emisora que presuntamente hayan incumplido las pautas, en términos del artículo 54 del presente Reglamento y de los Lineamientos que al efecto se emitan. En la respuesta al requerimiento en la cual detallen las causas de la omisión, la emisora podrá remitir una propuesta de reprogramación de transmisiones que en todo caso tendrá que ajustarse a las reglas previstas en el numeral anterior, siempre y cuando acredite la causa que impidió la transmisión de los mensajes.
+5. En caso de que no se reciba un aviso de reprogramación voluntaria por parte de las concesionarias y/o permisionarias, el Vocal Ejecutivo Local o la Dirección Ejecutiva notificará un requerimiento a la emisora que presuntamente hayan incumplido las pautas, en términos del artículo 57 del Reglamento. En la respuesta al requerimiento en la cual detallen las causas de la omisión, la emisora remitirá una propuesta de reprogramación de transmisiones que en todo caso tendrá que ajustarse a las reglas previstas en el numeral anterior, siempre y cuando acredite la causa que impidió la transmisión de los mensajes.
 
-3. En el caso de los concesionarios y permisionarios del Distrito Federal, las comunicaciones descritas podrán ser recibidas y emitidas indistintamente por el Vocal Ejecutivo Local y la Dirección Ejecutiva.
+6. En el caso de los concesionarios y permisionarios del Distrito Federal, las comunicaciones descritas podrán ser recibidas y emitidas indistintamente por el Vocal Local y la Dirección Ejecutiva.
 
-> <small>(REFORMADO, D.O.F. 30 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO, D.O.F. 3 DE NOVIEMBRE DE 2011)</small>
 
-Artículo 50
+Artículo 53
+
+Del Catálogo de incidencias
+
+1. Los concesionarios y permisionarios que hayan incurrido en algún incumplimiento a las pautas notificadas por el Instituto Federal Electoral, podrán proponer la reprogramación de los promocionales y/o programas omitidos por las siguientes causas, que no tienen un carácter limitativo:
+
+a. Falla en el equipo de transmisión;
+
+b. Falla en el sistema;
+
+c. Interrupción del suministro eléctrico;
+
+d. Errores de continuidad y de programación;
+
+e. Suspensión total de transmisiones;
+
+f. Factores meteorológicos, y
+
+g. Desastre natural.
+
+2. En los supuestos previstos en los incisos e), f) y g), considerando que son hechos no atribuibles al concesionario o permisionario, la Dirección Ejecutiva deberá valorar la magnitud del evento y su impacto en la zona de cobertura, a efecto de determinar si el concesionario o permisionario se encuentra obligado a realizar la reprogramación correspondiente, y lo informará en la siguiente sesión del Comité.
+
+> <small>(REFORMADO, D.O.F. 3 DE NOVIEMBRE DE 2011)</small>
+
+Artículo 54
 
 De la reposición de promocionales y programas mensuales
 
-1. Se considerará reposición de transmisiones como sanción, aquélla derivada de resoluciones recaídas en los procedimientos instruidos a partir de vistas o denuncias, emitidas por el Consejo, en términos de lo dispuesto por la fracción III del inciso f) del párrafo 1 del artículo 354 del Código.
+1. Se considerará reposición de transmisiones como sanción, aquélla derivada de Resoluciones recaídas en los procedimientos instruidos a partir de vistas o denuncias, emitidas por el Consejo, en términos de lo dispuesto por la fracción III del inciso f) del párrafo 1 del artículo 354 del Código.
 
 2. La reposición de las transmisiones se llevará a cabo a más tardar al quinto día contado a partir de la notificación de la Resolución que ponga fin al procedimiento sancionador.
 
-3. Ninguna reposición o reprogramación de mensajes de partidos políticos podrá tener lugar durante la etapa de intercampañas, ni durante los 3 días anteriores a la jornada comicial del proceso electoral de que se trate. Quedan exceptuados de lo anterior los mensajes de las autoridades electorales.
+3. Ninguna reposición o reprogramación de mensajes de partidos políticos podrá tener lugar durante la etapa de intercampañas, ni durante los 3 días anteriores a la jornada comicial del Proceso Electoral de que se trate. Quedan exceptuados de lo anterior los mensajes de las autoridades electorales.
 
-> <small>(REFORMADO, D.O.F. 30 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO, D.O.F. 3 DE NOVIEMBRE DE 2011)</small>
 
-Artículo 51
+Artículo 55
 
 De la transmisión especial durante programación sin cortes
 
@@ -1177,53 +1271,41 @@ b) Si el boletín o aviso tiene una duración mayor a una hora, el programa mens
 
 c) Si el boletín o aviso tiene una duración menor a una hora, las emisoras deberán transmitir el programa mensual y/o los promocionales de partidos políticos y autoridades electorales respetando el orden de la pauta, en la misma hora o en la siguiente, una vez concluida la transmisión especial.
 
-d) En todo caso, la emisora deberá informar dicha circunstancia al Vocal Ejecutivo de la entidad correspondiente o a la Dirección Ejecutiva dentro de las 24 horas siguientes a la transmisión del boletín o aviso, detallando la duración de la cobertura y su contenido.
+d) En todo caso, la emisora deberá informar dicha circunstancia al Vocal de la entidad correspondiente o a la Dirección Ejecutiva dentro de las 48 horas siguientes a la transmisión del boletín o aviso, detallando la duración de la cobertura y su contenido.
 
-2. Durante la emisión radiofónica denominada “La hora nacional en radio”, serán aplicables las reglas siguientes para la transmisión de los mensajes de partidos políticos y autoridades electorales:
+2. Durante la emisión radiofónica denominada “La Hora Nacional en radio”, serán aplicables las reglas siguientes para la transmisión de los mensajes de partidos políticos y autoridades electorales:
 
-a) Los promocionales de partidos políticos y autoridades electorales que no sean transmitidos conforme a la pauta durante “La Hora Nacional”, serán difundidos conforme a lo siguiente: la mitad de los promocionales se transmitirá en la hora previa al programa, y la otra mitad en la hora posterior a la emisión, respetando el orden de la pauta, e incluyendo cortes de estación como los que utilizan para la difusión de eventos, para la promoción de su propia programación o para la identificación de la señal.
+a) Los promocionales de partidos políticos y autoridades electorales que no sean transmitidos conforme a la pauta durante “La Hora Nacional”, serán difundidos conforme a lo siguiente: la mitad de los promocionales se transmitirán en la hora previa al programa, y la otra mitad en la hora posterior a la emisión, respetando el orden de la pauta, e incluyendo cortes de estación como los que utilizan para la difusión de eventos, para la promoción de su propia programación o para la identificación de la señal.
 
 b) Los programas mensuales que hayan sido pautados a esa hora, serán transmitidos al finalizar la emisión de “La Hora Nacional”.
 
 3. Durante la transmisión de los debates, conciertos, eventos especiales, eventos deportivos y los oficios religiosos, la difusión de los mensajes de partidos políticos y autoridades electorales se llevará a cabo conforme a lo siguiente:
 
-a) Se aplica a programas especiales que transmiten debates entre candidatos a un puesto de elección popular, conciertos, eventos especiales, eventos deportivos, oficios religiosos y otros que tengan por objeto eventos de duración ininterrumpida y mayor a una hora. El Comité aprobará Lineamientos específicos para cada tipo de programa especial.
+a) Se aplica a programas especiales que transmiten debates entre candidatos a un puesto de elección popular, conciertos, eventos especiales, eventos deportivos, oficios religiosos y otros que tengan por objeto eventos de duración ininterrumpida y mayor a una hora.
 
-b) Las emisoras deberán enviar un escrito al Vocal Ejecutivo de la entidad de que se trate o a la Dirección Ejecutiva, con al menos 72 horas de anticipación a la transmisión del programa especial, en el que señalen las características de la emisión y su posible duración; precisen el programa mensual y/o promocionales de partidos políticos y autoridades electorales que no puedan difundirse conforme a la pauta, y detallen la propuesta de transmisión de los mensajes omitidos.
+b) Las emisoras deberán enviar un escrito al Vocal de la entidad de que se trate o a la Dirección Ejecutiva, con al menos 72 horas de anticipación a la transmisión del programa especial, en el que señalen las características de la emisión y su posible duración; precisen el programa mensual y/o promocionales de partidos políticos y autoridades electorales que no puedan difundirse conforme a la pauta, y detallen la propuesta de transmisión de los mensajes omitidos.
 
 c) Los promocionales de los partidos políticos que conforme a la pauta deban ser transmitidos durante el programa de que se trate serán distribuidos en los siguientes lapsos temporales durante el mismo día conforme a lo siguiente: la mitad de los promocionales se transmitirá dentro de los cortes incluidos en la hora previa al programa, y la otra mitad en los cortes que se inserten en la hora posterior a la emisión.
 
-I. Si no fuere suficiente, durante precampañas y campañas, la transmisión de los promocionales restantes deberá ser reemplazada ese mismo día, adicionando un minuto de transmisión por cada hora durante el horario comprendido entre las 12:00 y las 18:00 horas, en el entendido de que durante dicha franja horaria habitualmente se transmitirían 2 minutos por cada hora.
+d) Si el esquema referido en el inciso anterior no fuere suficiente, durante precampañas y campañas, la transmisión de los promocionales restantes deberá ser reemplazada ese mismo día, adicionando 1 minuto de transmisión por cada hora durante el horario comprendido entre las 12:00 y las 18:00 horas, en el entendido de que durante dicha franja horaria habitualmente se transmitirían 2 minutos por cada hora. Los lapsos anteriores se aplicarán también en los períodos de intercampaña correspondientes a los procesos electorales respecto de los promocionales de las autoridades electorales.
 
-II. Los lapsos anteriores se aplicarán también en los períodos de intercampaña correspondientes a los procesos electorales respecto de los promocionales de las autoridades electorales.
+e) Los programas mensuales cuya transmisión esté prevista en la pauta durante el programa especial, serán difundidos al finalizar la emisión. Si la transmisión especial finalizara a las 24:00 horas o después, la difusión del programa mensual se llevará a cabo en la hora previa al inicio del programa especial de que se trate.
 
-d) Los programas mensuales cuya transmisión esté prevista en la pauta durante el programa especial, serán difundidos al finalizar la emisión. Si la transmisión especial finalizara a las 24:00 horas o después, la difusión del programa mensual se llevará a cabo en la hora previa al inicio del programa especial de que se trate.
+f) En todo caso, se respetará el orden de la pauta.
 
-e) En todo caso, se respetará el orden de la pauta.
+g) En los casos en que el debate, concierto, evento especial, evento deportivo u oficio religioso tenga una duración mayor a dos horas, sin cortes de cualquier especie, la transmisión se llevará a cabo conforme a los incisos precedentes, procurando la proporcionalidad entre la transmisión y la duración del evento.
 
-f) En los casos en que el debate, concierto, evento especial, evento deportivo u oficio religioso tenga una duración mayor a dos horas, sin cortes de cualquier especie, la transmisión se llevará a cabo conforme a lo anterior, procurando la proporcionalidad entre la transmisión y la duración del evento.
+h) En caso de que no proceda la propuesta de transmisión especial, el Vocal o la Dirección Ejecutiva, notificará dicha circunstancia a la emisora, fundando y motivando tal determinación.
 
-g) En caso de que no proceda la propuesta de transmisión especial, el Vocal Ejecutivo o la Dirección Ejecutiva, notificará dicha circunstancia a la emisora, fundando y motivando tal determinación.
+4. En el caso de los concesionarios y permisionarios que emiten su señal desde el Distrito Federal, las comunicaciones descritas podrán ser recibidas y emitidas indistintamente por el Vocal y la Dirección Ejecutiva.
 
-4. En el caso de los concesionarios y permisionarios que emiten su señal desde el Distrito Federal, las comunicaciones descritas podrán ser recibidas y emitidas indistintamente por el Vocal Ejecutivo y la Dirección Ejecutiva.
-
-> <small>(REFORMADO, D.O.F. 30 DE JUNIO DE 2011)</small>
-
-Artículo 52
-
-Del informe de labores de servidores públicos
-
-1. El informe anual de labores o gestión de los servidores públicos, así como los mensajes que para darlos a conocer se difundan en los medios de comunicación social, encuadrarán en la excepción a que alude el artículo 228, párrafo 5, siempre y cuando la difusión se limite una vez al año en estaciones y canales con cobertura regional, correspondiente al ámbito geográfico de responsabilidad del servidor público y no exceda de los 7 días anteriores y 5 días posteriores a la fecha en que se rinda el informe.
-
-2. En ningún caso la difusión de tales informes podrá tener fines electorales, ni realizarse dentro del periodo de campaña electoral.
-
-> <small>(REFORMADO, D.O.F. 30 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO, D.O.F. 3 DE NOVIEMBRE DE 2011)</small>
 
 ### Capítulo IV. De las verificaciones y monitoreos
 
-> <small>(REFORMADO, D.O.F. 30 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO, D.O.F. 3 DE NOVIEMBRE DE 2011)</small>
 
-Artículo 53
+Artículo 56
 
 De la verificación de transmisiones y de los monitoreos
 
@@ -1235,65 +1317,165 @@ De la verificación de transmisiones y de los monitoreos
 
 4. Los partidos políticos y las autoridades electorales locales podrán acceder a los resultados de las verificaciones y monitoreos realizados u ordenados por el Instituto, que tendrán carácter público.
 
-> <small>(REFORMADO, D.O.F. 30 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO, D.O.F. 3 DE NOVIEMBRE DE 2011)</small>
 
-Artículo 54
+Artículo 57
 
-De los incumplimientos a las pautas
+De los requerimientos por motivo de incumplimientos a las pautas derivado de la omisión en la transmisión de los promocionales y/o programas de los partidos políticos y/o autoridades electorales
 
 1. Los Vocales Ejecutivos de las entidades federativas, en coordinación con la Dirección Ejecutiva, verificarán el cumplimiento a las pautas por parte de los concesionarios y permisionarios de la entidad federativa de que se trate.
 
 2. La Dirección Ejecutiva informará al Comité sobre las verificaciones efectuadas, y pondrá a disposición de sus integrantes reportes conforme a lo previsto en el Reglamento de Sesiones del Comité de Radio y Televisión.
 
-3. El Vocal Ejecutivo de la entidad correspondiente y/o la Dirección Ejecutiva notificarán los supuestos incumplimientos a las pautas al concesionario o permisionario para que manifieste las razones que generaron dicho incumplimiento, de conformidad con los Lineamientos que apruebe el Consejo a propuesta del Comité. En caso de que el concesionario o permisionario no dé respuesta al requerimiento o no proponga la reprogramación de los mensajes omitidos en términos del artículo 49, párrafo 2 del presente Reglamento, la Dirección Ejecutiva determinará la procedencia de dar vista al Secretario del Consejo para el inicio de procedimientos sancionadores conforme al Código y a los Lineamientos que al efecto se emitan.
+3. Si derivado de la verificación al cumplimiento de las pautas ordenadas por el Instituto, la Dirección Ejecutiva y/o la Junta Local respectiva, detectan el incumplimiento a las mismas por la omisión en la transmisión de promocionales y/o programas de partidos políticos y/o autoridades electorales por parte de una emisora de radio o televisión, sin que medie aviso de reprogramación voluntaria en términos del artículo 52 del Reglamento, procederán a notificar al concesionario o permisionario de que se trate, un requerimiento de información respecto de los presuntos incumplimientos, dentro de los 4 días hábiles siguientes a aquél en que venza el plazo para la presentación del aviso de reprogramación voluntaria durante los procesos electorales. En periodos ordinarios, el plazo señalado empezará a correr al día hábil siguiente al de la publicación del informe respectivo.
 
-4. En todo caso, el concesionario o permisionario estará obligado a reponer toda omisión en las transmisiones con independencia de la causa que le haya dado origen, en los términos previstos en el artículo 49 del presente Reglamento.
+4. La Dirección Ejecutiva o la Junta Local respectiva, establecerán mecanismos para que las notificaciones se lleven a cabo lo antes posible.
 
-5. En caso de que los Vocales Ejecutivos o la Dirección Ejecutiva tengan conocimiento de la adquisición de tiempos en radio y televisión con fines electorales, o de la difusión de propaganda contraria a la normatividad, la Dirección Ejecutiva dará vista al Secretario de Consejo para el inicio de los procedimientos sancionadores que correspondan conforme al Código y a los Lineamientos que se aprueben al efecto.
+5. Durante los procesos electorales, el concesionario o permisionario deberá desahogar el requerimiento en un plazo de 2 días hábiles a partir de la notificación del mismo. En los periodos ordinarios, el plazo para presentar la respuesta será de 4 días hábiles.
 
-> <small>(REFORMADO, D.O.F. 30 DE JUNIO DE 2011)</small>
+6. El concesionario o permisionario estará obligado a reponer toda omisión en las transmisiones con independencia de la causa que le haya dado origen, en los términos previstos en el artículo 52 del Reglamento, con excepción de los casos previstos en el artículo 53.
 
-Artículo 55
+7. En los casos en que la propuesta de reprogramación no sea procedente, por no apegarse a las reglas previstas en el artículo 52 del Reglamento o por cualquier causa que lo justifique, la Dirección Ejecutiva o la Junta Local respectiva, notificarán la reprogramación que corresponda previo a la fecha en (sic) deba llevarse a cabo, informando las razones de la negativa, y verificarán la oportuna transmisión de los promocionales y/o programas omitidos conforme a la reprogramación instruida.
+
+8. En caso de que la propuesta de reprogramación se ajuste a lo previsto en la disposición reglamentaria aludida en el párrafo anterior, la Dirección Ejecutiva y/o la Junta Local de que se trate, verificarán la oportuna transmisión de los promocionales y/o programas omitidos conforme a la propuesta respectiva. En todo caso, la reprogramación sólo podrá tener lugar en la misma etapa temporal respecto de la cual se omitió la transmisión originalmente pautada. Si el mensaje omitido se pautó para su transmisión en la etapa de precampañas, únicamente podrá ser reprogramado durante el transcurso de dicha etapa, misma situación que se observará con los periodos de intercampañas y campañas.
+
+9. En los casos en que la omisión se produzca en la última semana del periodo de que se trate durante los procesos electorales -precampaña, intercampaña o campaña-, la Dirección Ejecutiva y/o la Junta Local respectiva procederán a notificar al concesionario o permisionario, un requerimiento de información respecto de los presuntos incumplimientos, dentro de los 2 días hábiles siguientes a aquél en que ocurra el incumplimiento; la respuesta, deberá ser presentada al día hábil siguiente a aquél en que se haya notificado el requerimiento.
+
+> <small>(REFORMADO, D.O.F. 3 DE NOVIEMBRE DE 2011)</small>
+
+Artículo 58
+
+De los requerimientos por motivo de incumplimientos a las pautas derivados de la transmisión excedente de promocionales y/o programas de los partidos políticos y/o autoridades electorales
+
+1. Si derivado de la verificación al cumplimiento de las pautas, la Dirección Ejecutiva y/o la Junta Local de que se trate, detectan la difusión de promocionales o programas de partidos políticos adicionales a los pautados por el Instituto, se verificará si su transmisión fue con motivo de una propuesta de reprogramación en términos del artículo 52 del Reglamento o en cumplimiento a una pauta de reposición derivada de una Resolución del Consejo General.
+
+2. En caso de que la difusión de los promocionales o programas adicionales no esté justificada en una reprogramación o en una reposición, la Dirección Ejecutiva y/o la Junta Local respectiva procederán a notificar al concesionario o permisionario de que se trate un requerimiento de información respecto de las transmisiones excedentes dentro de los 4 días hábiles siguientes a aquél en que ocurra el incumplimiento durante los procesos electorales. En periodos ordinarios, el plazo señalado empezará a correr al día hábil siguiente al de la publicación del informe respectivo.
+
+3. Durante los procesos electorales, el concesionario o permisionario deberá desahogar el requerimiento en un plazo de 2 días hábiles a partir de la notificación del mismo. En los periodos ordinarios, el plazo para presentar la respuesta será de 4 días hábiles.
+
+4. En la respuesta, el concesionario o permisionario deberá precisar lo siguiente:
+
+a. Los programas y/o promocionales adicionales;
+
+b. El folio, versión y actor, y
+
+c. Las causas que originaron el presunto incumplimiento.
+
+> <small>(REFORMADO, D.O.F. 3 DE NOVIEMBRE DE 2011)</small>
+
+Artículo 59
+
+De los requisitos de los requerimientos de información por presuntos incumplimientos a las pautas ordenadas por el Instituto Federal Electoral
+
+1. El requerimiento de información será dirigido al representante legal del concesionario o permisionario o a las personas que designe para tal efecto, y deberá notificarse en el domicilio que señale el concesionario o permisionario, en días y horas hábiles de acuerdo a los plazos previstos en los artículos 57 y 58 del Reglamento.
+
+2. En el requerimiento de información se precisará lo siguiente:
+
+a. Las siglas de la emisora, la frecuencia o el canal;
+
+b. La entidad en la que opera la estación de radio o canal de televisión de que se trate;
+
+c. Los programas y/o promocionales omitidos o excedentes;
+
+d. El folio, versión, actor, fecha y horario pautados, en el caso de omisiones, y
+
+e. El folio, versión, actor, fecha y horario de transmisión, en el caso de excedentes.
+
+> <small>(ADICIONADO, D.O.F. 3 DE NOVIEMBRE DE 2011)</small>
+
+Artículo 60
+
+De las vistas con motivo del incumplimiento de pautas por parte de los concesionarios y permisionarios de radio y televisión derivadas de la omisión de transmisión de promocionales y/o programas
+
+1. Cuando el concesionario o permisionario no desahogue el requerimiento de información conforme a los plazos y condiciones previstas en los artículos 57 y 58 del Reglamento, no proponga la reprogramación de los promocionales o programas omitidos, o habiéndolo hecho no la cumpla, la Dirección Ejecutiva determinará la procedencia de dar vista a la Secretaría del Consejo para que determine lo que en derecho corresponda. Para lo anterior, deberán valorarse entre otros, la cantidad de mensajes omitidos, el periodo y la etapa en que se actualice el incumplimiento, así como la posible afectación a los bienes jurídicos tutelados.
+
+2. Para lo anterior, la Dirección Ejecutiva generará un Reporte de Cumplimiento de Pauta del concesionario o permisionario implicado para la debida integración del expediente y la elaboración del oficio de vista al Secretario del Consejo.
+
+3. Una vez notificada la vista, el Secretario del Consejo determinará la procedencia del inicio de un procedimiento especial sancionador, mediante un Acuerdo de admisión o propuesta de desechamiento, en términos del Reglamento de Quejas y Denuncias.
+
+4. Durante los procesos electorales, la Dirección Ejecutiva podrá notificar una vista al Secretario del Consejo General para la valoración del inicio de un procedimiento especial sancionador, sin que medie la notificación de un requerimiento de información al concesionario o permisionario, en caso de presuntos incumplimientos cuya gravedad lo amerite. Para lo anterior, deberán valorarse la sistematicidad, la cantidad de mensajes omitidos, el periodo y la etapa en que se actualice el incumplimiento y/o la posible afectación a los principios que rigen los procesos comiciales. En estos casos, la vista realizada incluirá la justificación de la gravedad de la probable infracción.
+
+> <small>(ADICIONADO, D.O.F. 3 DE NOVIEMBRE DE 2011)</small>
+
+Artículo 61
+
+De las vistas con motivo del incumplimiento de pautas por parte de los concesionarios y permisionarios derivadas de la transmisión de promocionales y/o programas excedentes a los pautados por el Instituto Federal Electoral
+
+1. Cuando el concesionario o permisionario no desahogue el requerimiento de información conforme a los plazos y condiciones previstas en este Reglamento, o no justifique la difusión de promocionales excedentes, la Dirección Ejecutiva determinará la procedencia de dar vista al Secretario del Consejo para que determine lo que en derecho corresponda. Para lo anterior, deberán valorarse, entre otros, la cantidad de mensajes excedentes, el periodo y la etapa en que se actualice la transmisión, y la posible afectación a los bienes jurídicos tutelados.
+
+2. Para lo anterior, la Dirección Ejecutiva generará un Reporte de Excedentes para la debida integración del expediente y la elaboración del oficio de vista al Secretario del Consejo.
+
+3. Una vez notificada la vista, el Secretario del Consejo General determinará la procedencia del inicio de un procedimiento especial sancionador, mediante un Acuerdo de admisión o propuesta de desechamiento, en términos del Reglamento de Quejas y Denuncias.
+
+> <small>(ADICIONADO, D.O.F. 3 DE NOVIEMBRE DE 2011)</small>
+
+Artículo 62
+
+De los requisitos necesarios para dar vista.
+
+1. La Dirección Ejecutiva de Prerrogativas y Partidos Políticos al dar vista al Secretario del Consejo, deberá incluir en el expediente que remita al menos los elementos siguientes:
+
+a) Una narración expresa y clara de los hechos en los que se funda y motiva la vista planteada, los preceptos legales que se estimen vulnerados, y de forma sucinta los motivos por los que considera que la conducta denunciada pudiera resultar contraventora de dicha normatividad;
+
+b) La o las emisoras en que se detectaron los incumplimientos o excedentes motivo de la vista;
+
+c) El Reporte de Cumplimiento de Pauta o de Excedentes, según el caso;
+
+d) Los documentos en los que conste la notificación de las pautas y de los Acuerdos aplicables, los requerimientos de información y las respuestas que en su caso, haya presentado el concesionario o permisionario de que se trate.
+
+e) El medio magnético, digital, óptico o de cualquier otra naturaleza, en el que consten las grabaciones de los días en que se detectaron los incumplimientos o transmisiones excedentes motivo de la vista o, en su caso, la precisión del mecanismo técnico por el que se podrá tener acceso a tales grabaciones;
+
+f) El periodo involucrado y el número de promocionales o programas omitidos o transmitidos como excedente a la pauta notificada, respecto de cada emisora involucrada en los hechos materia de la vista;
+
+g) Los días y horas en que fueron transmitidos los materiales excedentes, precisando con exactitud la fecha de inicio de su difusión y la última fecha en que fueron detectados, o el periodo en que fueron omitidos los mensajes pautados por el Instituto, y
+
+h) El número de folio o huella acústica asignado a cada promocional omitido o transmitido como excedente, así como la versión con que se identifica cada material televisivo o radiofónico.
+
+> <small>(ADICIONADO, D.O.F. 3 DE NOVIEMBRE DE 2011)</small>
+
+Artículo 63
 
 De las quejas en materia de radio y televisión que formulen las autoridades administrativas electorales locales
 
-1. Los Vocales Ejecutivos deberán remitir inmediatamente a la Secretaría del Consejo las denuncias que formulen las autoridades electorales de la entidad federativa correspondiente, relacionadas con presuntas violaciones en materia de radio y televisión.
+1. Los Vocales deberán remitir inmediatamente a la Secretaría del Consejo las denuncias que formulen las autoridades electorales de la entidad federativa correspondiente, relacionadas con presuntas violaciones en materia de radio y televisión.
 
-> <small>(REFORMADO, D.O.F. 30 DE JUNIO DE 2011)</small>
+> <small>(ADICIONADO, D.O.F. 3 DE NOVIEMBRE DE 2011)</small>
 
-Artículo 56
+Artículo 64
 
 De los casos de suspensión de difusión de promocionales con motivo del otorgamiento de medidas cautelares
 
-1. En el caso que con motivo del dictado de medidas cautelares se ordene la sustitución de materiales, el partido político correspondiente deberá entregar al Instituto el material de sustitución en un plazo no mayor a 6 horas de la notificación del Acuerdo correspondiente.
+1. En el caso que con motivo del dictado de medidas cautelares se ordene la sustitución de materiales, el partido político correspondiente deberá indicar a la Dirección Ejecutiva el material de sustitución en un plazo no mayor a 6 horas, a partir de la notificación del Acuerdo correspondiente, de entre aquellos que hubieren sido transmitidos en el mismo periodo electoral de que se trate. En caso de que no lo indique, se tomará uno de los materiales genéricos a que hace referencia el artículo 42, párrafo 4 del Reglamento.
 
-> <small>(REFORMADO, D.O.F. 30 DE JUNIO DE 2011)</small>
+2. Los concesionarios o permisionarios deberán de suspender la difusión del material ordenado en la medida cautelar en los plazos que acuerde la Comisión de Quejas y Denuncias o el Consejo.
+
+> <small>(REFORMADO, D.O.F. 3 DE NOVIEMBRE DE 2011)</small>
 
 ### Capítulo V. Del tiempo insuficiente
 
-> <small>(REFORMADO, D.O.F. 30 DE JUNIO DE 2011)</small>
+> <small>(ADICIONADO, D.O.F. 3 DE NOVIEMBRE DE 2011)</small>
 
-Artículo 57
+Artículo 65
 
 De la insuficiencia de tiempos en elecciones locales
 
 1. Cuando las autoridades electorales consideren insuficiente el tiempo en radio y televisión destinado a sus propios fines deberán solicitar por escrito al Instituto que determine lo conducente a fin de cubrir el tiempo faltante.
 
-2. La solicitud deberá estar dirigida al Secretario Ejecutivo y deberá justificar la causa de la insuficiencia, así como referir con precisión los términos, condiciones y demás circunstancias para subsanarla. El Consejo resolverá lo conducente.
+2. La solicitud deberá estar dirigida a la Secretaría Ejecutiva y deberá justificar la causa de la insuficiencia, así como referir con precisión los términos, condiciones y demás circunstancias para subsanarla. El Consejo resolverá lo conducente.
 
-> <small>(REFORMADO, D.O.F. 30 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO, D.O.F. 3 DE NOVIEMBRE DE 2011)</small>
 
 ### Capítulo VI. De los Lineamientos Generales aplicables a los programas en radio y televisión que difundan noticias
 
-> <small>(REFORMADO, D.O.F. 30 DE JUNIO DE 2011)</small>
+> <small>(ADICIONADO, D.O.F. 3 DE NOVIEMBRE DE 2011)</small>
 
-Artículo 58
+Artículo 66
 
 De los Lineamientos Generales aplicables a los programas en radio y televisión que difundan noticias
 
 1. A partir del primero de julio de año anterior a la elección, el Comité presentará a los integrantes del Consejo una agenda de trabajo que contenga las fechas en las que habrán de prepararse los Lineamientos Generales aplicables a los programas en radio y televisión que difundan noticias a que hace mención el artículo 49, párrafo 7 del Código.
 
-2. Los Lineamientos Generales aplicables a los programas en radio y televisión que difundan noticias serán elaborados de conformidad con las siguientes directrices:
+2. Los citados Lineamientos serán elaborados de conformidad con las siguientes directrices:
 
 a) Privilegiar la libertad de expresión y responsabilidad de los comunicadores;
 
@@ -1307,13 +1489,13 @@ e) Promover e impulsar programas de debate entre los candidatos.
 
 3. Los resultados del monitoreo que se mencionan en el artículo 76, párrafo 8, del Código, así como las grabaciones base de los mismos serán públicos y podrán ser puestos a disposición del interesado para el ejercicio del derecho de réplica, en los términos de la ley de la materia.
 
-> <small>(REFORMADO, D.O.F. 30 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO, D.O.F. 3 DE NOVIEMBRE DE 2011)</small>
 
 ### Capítulo VII. De las reformas al Reglamento
 
-> <small>(REFORMADO, D.O.F. 30 DE JUNIO DE 2011)</small>
+> <small>(ADICIONADO, D.O.F. 3 DE NOVIEMBRE DE 2011)</small>
 
-Artículo 59
+Artículo 67
 
 Del procedimiento para reformar el Reglamento
 
@@ -1331,9 +1513,9 @@ d) El Comité.
 
 3. Las reformas a este Reglamento se ajustarán al siguiente procedimiento:
 
-a) Toda propuesta de reforma se presentará al Presidente de la Junta, quien la turnará al Secretario Ejecutivo;
+a) Toda propuesta de reforma se presentará al Presidente de la Junta, quien la turnará al Secretaría Ejecutiva;
 
-b) La Junta elaborará un dictamen respecto de la propuesta de reforma, para lo cual podrá solicitar la opinión del Comité;
+b) La Junta elaborará un dictamen respecto de la propuesta de reforma, para lo cual solicitará la opinión del Comité;
 
 c) El dictamen se someterá a la consideración del Consejo, quien resolverá si lo rechaza, aprueba o modifica, y
 
@@ -1404,3 +1586,9 @@ SEXTO.- Para garantizar la efectiva aplicación del presente Reglamento, el Cons
 SEPTIMO.- Para garantizar la efectiva aplicación del presente Reglamento, el Consejo aprobará a propuesta del Comité, en un plazo no mayor a 30 días hábiles, a partir de la entrada en vigor del presente Reglamento, los Lineamientos para regular el régimen transitorio al nuevo esquema de entrega de órdenes de transmisión y materiales de concesionarios y permisionarios.
 
 OCTAVO.- Para garantizar la efectiva aplicación del presente Reglamento, el Consejo aprobará a propuesta del Comité, en un plazo no mayor a 60 días hábiles a partir de la entrada en vigor del presente Reglamento, los Lineamientos para la transmisión de mensajes de partidos políticos y de autoridades electorales para cada tipo de programa especial de duración mayor a una hora.
+
+D.O.F. 3 DE NOVIEMBRE DE 2011.
+
+PRIMERO.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- El catálogo a que se refiere el artículo 44, párrafo 4 del presente Reglamento, deberá ser aprobado por el Comité dentro de los treinta días hábiles siguientes a su entrada vigor.
