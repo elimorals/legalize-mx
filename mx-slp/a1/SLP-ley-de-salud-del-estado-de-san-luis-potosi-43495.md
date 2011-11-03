@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-salud-del-estado-de-san-luis-potosi-43495"
 country: "mx"
 rank: "ley"
 publication_date: "2004-12-23"
-last_updated: "2010-11-13"
+last_updated: "2011-11-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=43495&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "SLP"
 ---
 # LEY DE SALUD DEL ESTADO DE SAN LUIS POTOSI
 
-LEY DE SALUD DEL ESTADO DE SAN LUIS POTOSI
+LEY DE SALUD DEL ESTADO DE SAN LUIS POTOSÍ
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE NOVIEMBRE DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE NOVIEMBRE DE 2011.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 23 de diciembre de 2004.
 
@@ -701,7 +701,7 @@ Los servicios que se prestan en la materia constituyen un medio para el ejercici
 
 Quienes practiquen esterilización sin la voluntad del paciente o ejerzan presión para que éste la admita, serán sancionados conforme a las disposiciones de esta Ley, independientemente de la responsabilidad penal en que incurran.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2008)</small>
 
@@ -719,13 +719,13 @@ V. Que una vez fecundado el ovocito deberá ser implantado a la solicitante, y
 
 VI. Que está prohibido todo diagnóstico preimplantatorio.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2008)</small>
 
 ARTICULO 57 TER. Previo al inicio del tratamiento, las o los cónyuges, o las o los concubinos, deberán dar su consentimiento por escrito ante un Notario Público con la asistencia de dos testigos, anexándose el certificado médico de un especialista en la materia, de una institución pública de salud.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2008)</small>
 
@@ -761,13 +761,13 @@ La Secretaría de Salud del Estado coadyuvará con las autoridades federales en 
 
 ### CAPITULO IX. Medicina Tradicional, y el Acceso a la Salud de los Pueblos y Comunidades Indígenas
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2008)</small>
 
 ARTICULO 67 BIS. Se reconoce a la medicina tradicional indígena, como el conjunto de sistemas de atención a la salud, que tiene sus raíces en los conocimientos sobre la salud y la enfermedad que los diferentes pueblos y comunidades indígenas y rurales han acumulado a través de su historia, y que ha incorporado elementos provenientes de otras medicinas, como la medicina antigua española, la medicina africana y, en menor medida, la medicina occidental.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2008)</small>
 
@@ -775,7 +775,7 @@ ARTICULO 67 TER. La Secretaría de Salud, y los municipios del Estado, garantiza
 
 La Secretaría de Salud del Estado establecerá un programa de conocimiento, investigación y registro de plantas medicinales que se utilicen en la medicina tradicional, a fin de contar con elementos que permitan evaluar su viabilidad o inocuidad y, en su caso, proscribir el uso de aquéllas que se compruebe de manera científica, que deterioran la salud de los usuarios.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2008)</small>
 
@@ -783,7 +783,7 @@ ARTICULO 67 QUATER. La Secretaría de Salud del Estado establecerá los programa
 
 En los hospitales generales y regionales del Estado que traten población indígena, deberá haber dentro del área de trabajo social, cuando menos un traductor de las lenguas náhuatl, tenek y xi'oi, conforme a la población indígena que se atienda, a fin de que los indígenas, que no hablen suficientemente el español, puedan recibir la atención que requieren de manera óptima.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2008)</small>
 
@@ -791,7 +791,7 @@ ARTICULO 67 QUINQUE (SIC). El Estado promoverá acciones conjuntas con las comun
 
 Las autoridades comunitarias participarán como coadyuvantes en las campañas de salud, vacunación y aquéllas referidas a la atención preventiva de la salud y, en su caso, en las acciones normativas frente a la aparición de epidemias o pandemias.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2008)</small>
 
@@ -861,9 +861,9 @@ La Secretaría de Salud del Estado, en coordinación con las autoridades federal
 
 El Centro Estatal de Trasplantes trabajará coordinadamente con el Consejo Nacional de Trasplantes, en el fomento y promoción de la cultura de donación.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 18 DE DICIEMBRE DE 2008)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 18 DE DICIEMBRE DE 2008)</small>
 
 ### CAPITULO II. Servicio Social de Pasantes y Profesionales
 
@@ -1546,6 +1546,10 @@ Las disposiciones reglamentarias establecerán los criterios necesarios para la 
 Para los efectos de esta Ley se entenderá por Sistema de Protección Social en Salud, a las acciones correspondientes que en esta materia provea el Sistema Estatal de Salud.
 
 La Secretaría de Salud del Estado coordinará las acciones de protección social en salud, las cuales contarán con la participación subsidiaria y coordinada de la Federación, de conformidad con lo establecido en la Ley General de Salud.
+
+> <small>(ADICIONADO, P.O. 3 DE NOVIEMBRE DE 2011)</small>
+
+ARTICULO 152 BIS. El Sistema Estatal de Salud implementará el Expediente Clínico Electrónico, conforme lo establece la NOM-024-SSA3-2010, emitida por la Secretaría de Salud federal, garantizando la seguridad y confidencialidad en el manejo de la información relacionada con la salud del paciente.
 
 ###### ARTICULO 153.
 
@@ -3091,7 +3095,7 @@ IV. La calidad de reincidente del infractor.
 
 Se sancionará con multa equivalente hasta veinte veces el salario mínimo general diario vigente en la Entidad, la violación de las disposiciones contendida en los artículos 75, 89, 105, 108, 121,182, 192, 193, 195, 196, 197, 198, 247, 309, 310, 311, 321, 322, 323, 342 y 344 de esta Ley.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE JUNIO DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE JUNIO DE 2010)</small>
 
 ###### ARTICULO 383.
 
@@ -3301,7 +3305,7 @@ LIC. Alfonso Castillo Machuca
 
 (Rúbrica)
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 4 DE DICIEMBRE DE 2007.
 
@@ -3319,7 +3323,7 @@ TERCERO. Se derogan las disposiciones que se opongan a este Decreto.
 
 P.O. 18 DE DICIEMBRE DE 2008.
 
-DECRETO 553, POR EL QUE SE ADICIONA AL TITULO TERCERO EL CAPITULO IX, CON LOS ARTICULOS, 67 BIS, 67 TER, 67 QUATER, 67 QUINQUE (SIC) Y 67 SEXTIES, A LA LEY DE SALUD DEL ESTADO DE SAN LUIS POTOSI.
+DECRETO NÚMERO 553, POR EL QUE SE ADICIONA AL TÍTULO TERCERO EL CAPÍTULO IX, CON LOS ARTÍCULOS, 67 BIS, 67 TER, 67 QUÁTER, 67 QUINQUE (SIC) Y 67 SEXTIES, A LA LEY DE SALUD DEL ESTADO DE SAN LUIS POTOSÍ.
 
 PRIMERO. Este Decreto entrará en vigor a los quince días naturales siguientes a su publicación en el Periódico Oficial del Estado.
 
@@ -3329,7 +3333,7 @@ TERCERO. Se concede al Ejecutivo Local, un término de treinta días naturales, 
 
 P.O. 18 DE DICIEMBRE DE 2008.
 
-DECRETO 555, POR EL QUE SE ADICIONAN LOS ARTICULOS, 57 BIS, 57 TER Y 57 QUATER A LA LEY DE SALUD DEL ESTADO DE SAN LUÍS POTOSI.
+DECRETO NÚMERO 555, POR EL QUE SE ADICIONAN LOS ARTÍCULOS, 57 BIS, 57 TER Y 57 QUÁTER A LA LEY DE SALUD DEL ESTADO DE SAN LUIS POTOSÍ.
 
 PRIMERO. Este Decreto entrará en vigor a los noventa días siguientes de su publicación en el Periódico Oficial del Estado.
 
@@ -3360,3 +3364,9 @@ P.O. 13 DE NOVIEMBRE DE 2010.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que contravengan el presente Decreto.
+
+P.O. 3 DE NOVIEMBRE DE 2011.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
