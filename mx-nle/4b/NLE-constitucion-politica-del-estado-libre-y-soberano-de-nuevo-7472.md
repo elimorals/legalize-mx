@@ -4,7 +4,7 @@ identifier: "NLE-constitucion-politica-del-estado-libre-y-soberano-de-nuevo-7472
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-12-16"
-last_updated: "2011-08-05"
+last_updated: "2011-11-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7472&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE AGOSTO DE 2011.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE NOVIEMBRE DE 2011.
 
 Constitución publicada en el Periódico Oficial del Estado de Nuevo León, el domingo 16 de diciembre de 1917.
 
@@ -777,9 +777,11 @@ IV.- Vigilar el cumplimiento de la Constitución y de las Leyes, especialmente d
 
 V.- Expedir las leyes en materia municipal con base en las cuales, los Ayuntamientos podrán aprobar las normas administrativas de carácter general de aplicación en sus respectivos territorios.
 
-> <small>(REFORMADA, P.O. 13 DE OCTUBRE DE 2000)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE NOVIEMBRE DE 2011)</small>
 
-VI.- Ordenar el establecimiento o supresión de Municipalidades, por el voto de la mayoría del número total de sus miembros, especificando la extensión territorial y fijando sus límites y colindancias.
+VI.- Ordenar, el establecimiento o supresión de Municipios, por el voto de las dos terceras partes de los integrantes de la Legislatura, especificando la extensión territorial y fijando sus límites y colindancias.
+
+> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2000)</small>
 
 Por acuerdo de las dos terceras partes de la Legislatura, se podrán suspender Ayuntamientos o declarar que estos han desaparecido, así como suspender o revocar el mandato de alguno de sus miembros, por alguna de las causas graves que la Ley prevenga, respetándose en todos los casos la garantía de audiencia.
 
@@ -921,9 +923,13 @@ XXXIV.- Expedir su Ley Orgánica y tomar las providencias para hacer concurrir a
 
 XXXV.- Ejercer las facultades propias de un Cuerpo Legislativo en todo aquello que no le prohiban la Constitución Federal o la del Estado.
 
-XXXVI.- (DEROGADA, P.O. 5 DE NOVIEMBRE DE 1993)
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 4 DE NOVIEMBRE DE 2011)</small>
 
-XXXVII.- (DEROGADA, P.O. 18 DE OCTUBRE DE 1996)
+XXXVI.- Autorizar, mediante Decreto aprobado por el voto de las dos terceras partes de los integrantes de la Legislatura, los Convenios Amistosos que, sobre sus respectivos límites territoriales celebren los Municipios del Estado.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 4 DE NOVIEMBRE DE 2011)</small>
+
+XXXVII.- Resolver, fijando sus límites territoriales, de manera definitiva, los conflictos limítrofes de los Municipios del Estado, mediante Decreto aprobado por el voto de las dos terceras partes de los integrantes de la Legislatura.
 
 XXXVIII.- Conceder amnistía por delitos políticos, previo acuerdo de las dos terceras partes de los miembros de la Legislatura.
 
@@ -14451,7 +14457,7 @@ UNICO:- El presente Decreto entrará en vigor al siguiente día de su publicaci�
 
 P.O. 25 DE ENERO DE 1980.
 
-UNICO:- El presente decreto entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado.
+UNICO:- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 P.O. 30 DE ENERO DE 1980.
 
@@ -15088,3 +15094,7 @@ P.O. 5 DE AGOSTO DE 2011.
 DECRETO NUMERO 232 POR EL QUE SE REFORMA EL PARRAFO TERCERO DEL ARTICULO 3 DE LA CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE NUEVO LEON.
 
 Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 4 DE NOVIEMBRE DE 2011.
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
