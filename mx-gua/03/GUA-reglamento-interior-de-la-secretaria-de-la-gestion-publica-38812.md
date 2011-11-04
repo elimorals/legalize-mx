@@ -4,7 +4,7 @@ identifier: "GUA-reglamento-interior-de-la-secretaria-de-la-gestion-publica-3881
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-04-20"
-last_updated: "2007-08-17"
+last_updated: "2011-11-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=38812&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 REGLAMENTO INTERIOR DE LA SECRETARIA DE LA GESTION PUBLICA
 
-ULTIMA REFORMADA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE AGOSTO DE 2007.
+ULTIMA REFORMADA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE NOVIEMBRE DE 2011.
 
 Reglamento publicado en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el martes 20 de abril de 2004.
 
@@ -61,7 +61,9 @@ a) Secretaría Particular;
 
 b) Dirección General de Asuntos Jurídicos:
 
-1. Dirección de Asesoría legal y Situación Patrimonial;
+> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 2011)</small>
+
+1. Dirección de Asesoría Legal, Situación Patrimonial y Responsabilidades.
 
 2. Dirección de Responsabilidades e Inconformidades;
 
@@ -71,7 +73,7 @@ b) Dirección General de Asuntos Jurídicos:
 
 3. Dirección de Quejas, Denuncias y Responsabilidad Patrimonial;
 
-A. Unidad de Quejas y Denuncias para la Secretaría de Educación de Guanajuato;
+A. (DEROGADA, P.O. 4 DE NOVIEMBRE DE 2011)
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VEASE ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
@@ -83,7 +85,9 @@ c) Dirección de Personal;
 
 d) Dirección Administrativa;
 
-e) Dirección de Informática; y (sic)
+> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 2011)</small>
+
+e) Dirección de Tecnologías de la Información; y (sic)
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
@@ -94,6 +98,10 @@ f) (DEROGADO, P.O. 17 DE AGOSTO DE 2007)
 > <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2005)</small>
 
 g) Coordinación de Comunicación Social.
+
+> <small>(ADICIONADO, P.O. 4 DE NOVIEMBRE DE 2011)</small>
+
+h) Dirección de Gestoría Especializada.
 
 II. Subsecretaría de Evaluación Gubernamental:
 
@@ -106,6 +114,10 @@ a) Dirección General de Auditoría Gubernamental:
 3. Dirección de Evaluación y Control a la Administración Pública "C"; y
 
 4. Dirección de Evaluación y Control a la Administración Pública "D".
+
+> <small>(ADICIONADO, P.O. 4 DE NOVIEMBRE DE 2011)</small>
+
+5. Dirección de Evaluación y Control a la Administración Pública "E".
 
 b) Dirección General de Evaluación y Control de Obras:
 
@@ -138,6 +150,10 @@ b) Dirección General de Evaluación y Control de Obras:
 > <small>(ADICIONADO, P.O. 17 DE AGOSTO DE 2007)</small>
 
 c) Coordinación de Enlace con Municipios.
+
+> <small>(ADICIONADO, P.O. 4 DE NOVIEMBRE DE 2011)</small>
+
+d) Dirección de Evaluaciones Especializadas.
 
 III. Subsecretaría de Impulso a la Administración Pública:
 
@@ -219,23 +235,21 @@ XVII. Verificar la correcta realización de auditorías, evaluaciones y demás p
 
 XVIII. Someter al acuerdo del titular del Poder Ejecutivo, para su publicación en el Periódico Oficial del Gobierno del Estado, los listados de los cargos afectos a la obligación de presentar declaración de situación patrimonial, correspondiente a los servidores públicos de la Administración Pública Estatal;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2011)</small>
 
-> <small>(REFORMADA, P.O. 17 DE AGOSTO DE 2007)</small>
+XIX. Ejercer de manera directa cualquiera de las atribuciones encomendadas a las unidades administrativas de la Secretaría;
 
-XIX. Ejercer de manera directa cualquiera de las atribuciones encomendadas a las unidades administrativas de la Secretaría cuando lo considere necesario;
+> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2011)</small>
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+XX. Establecer vínculos con los municipios del Estado y la Secretaría de Desarrollo Económico Sustentable a fin de coordinar las acciones de mejora regulatoria, en los términos de la Ley de la materia;
 
-> <small>(REFORMADA, P.O. 17 DE AGOSTO DE 2007)</small>
+> <small>(REFORMADA [N.DE E. ADICIONADA], P.O. 4 DE NOVIEMBRE DE 2011)</small>
 
-XX. Establecer vínculos con la Secretaría de Desarrollo Económico Sustentable a fin de coordinar las acciones de mejora regulatoria, en los términos de la Ley de la materia; y
+XXI. Emitir las disposiciones administrativas, reglas y bases de carácter general; así como las normas relativas a los informes, datos, guías, lineamientos, criterios y cooperación técnica para el ejercicio de las atribuciones que las leyes otorgan a la Secretaría; y
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 4 DE NOVIEMBRE DE 2011)</small>
 
-> <small>(ADICIONADA, P.O. 17 DE AGOSTO DE 2007)</small>
-
-XXI. Las demás que le confieran las disposiciones legales y reglamentarias o que le asigne legalmente el Gobernador del Estado.
+XXII. Las demás que le confieran las disposiciones legales y reglamentarias o que le asigne legalmente el Gobernador del Estado.
 
 ### CAPÍTULO SEGUNDO. DE LAS ATRIBUCIONES GENERALES DE LAS SUBSECRETARÍAS
 
@@ -257,15 +271,27 @@ IV. Desempeñar las comisiones que el Secretario les encomiende y, por acuerdo e
 
 V. Suscribir los documentos relativos al ejercicio de sus atribuciones y aquellos que les sean señalados por delegación o les corresponda por suplencia;
 
-VI. Ejercer de manera directa cualquiera de las atribuciones encomendadas a las unidades administrativas de su adscripción, cuando lo consideren necesario;
+> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2011)</small>
+
+VI. Ejercer de manera directa cualquiera de las atribuciones encomendadas a las unidades administrativas de su adscripción;
 
 VII. Presentar al Secretario el anteproyecto de presupuesto de las unidades administrativas que le estén adscritas;
 
 VIII. Expedir certificaciones de los documentos existentes en los archivos de la unidad administrativa a su cargo;
 
-IX. Vigilar el correcto ejercicio del presupuesto asignado a las unidades administrativas que les estén adscritas; y
+IX. Vigilar el correcto ejercicio del presupuesto asignado a las unidades administrativas que les estén adscritas; y (sic)
 
-X. Las demás que las disposiciones legales y reglamentarias les atribuyan, así como aquellas que les confiera el Secretario.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 4 DE NOVIEMBRE DE 2011)</small>
+
+X. Emitir proyectos de creación, modificación o supresión de disposiciones administrativas de carácter general, estableciendo lineamientos, criterios, guías y en general todo tipo de disposiciones de carácter general, que se sujeten a la manifestación de impacto regulatorio o excepción correspondiente, de conformidad a la Ley de la materia;
+
+> <small>(ADICIONADA, P.O. 4 DE NOVIEMBRE DE 2011)</small>
+
+XI. Recomendar a los titulares de las dependencias y entidades de la Administración Pública Estatal, lineamientos y medidas de prevención y auto corrección, tendientes a optimizar los sistemas y procesos que realicen con motivo de sus facultades legales y reglamentarias, así como dar seguimiento a las mismas; y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 4 DE NOVIEMBRE DE 2011)</small>
+
+XII. Las demás que las disposiciones legales y reglamentarias les atribuyan, así como aquellas que les confiera el Secretario.
 
 ### CAPÍTULO TERCERO. DE LAS ATRIBUCIONES GENÉRICAS DE LOS DIRECTORES GENERALES
 
@@ -279,11 +305,15 @@ Los Directores Generales contarán con las siguientes atribuciones genéricas:
 
 I. Planear, coordinar, dirigir, supervisar y evaluar el funcionamiento y trabajo de las unidades administrativas a su cargo, de acuerdo con las políticas y objetivos de la Secretaría;
 
-II. Ejercer en forma directa las atribuciones que el presente Reglamento le encomiende a las unidades administrativas a su cargo, cuando lo consideren necesario;
+> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2011)</small>
+
+II. Ejercer en forma directa las atribuciones que el presente Reglamento le encomiende a las unidades administrativas a su cargo;
 
 III. Someter al acuerdo de su superior jerárquico los asuntos relevantes encomendados a la Dirección General, y desempeñar las comisiones, suplencias, representaciones y funciones específicas que aquél les confiera;
 
-IV. Decidir sobre la contratación y promoción, y participar en el desarrollo, capacitación y evaluación del personal bajo su responsabilidad, en acuerdo con su superior jerárquico, de conformidad con la normatividad vigente, así como ejercer las facultades disciplinarias sobre el mismo, en los términos de las normas y criterios establecidos por el Gobernador del Estado y el Secretario;
+> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2011)</small>
+
+IV. Decidir sobre la contratación, cambio interno de adscripción, promoción, así como participar en el desarrollo, capacitación y evaluación del personal bajo su responsabilidad, de conformidad con la normatividad vigente, además de ejercer las facultades disciplinarias sobre el mismo, en los términos de las normas y criterios establecidos por el Gobernador del Estado y el Secretario;
 
 V. Formular los anteproyectos de presupuesto de la Dirección General a su cargo, así como supervisar la correcta y oportuna ejecución del presupuesto que le haya sido asignado;
 
@@ -313,13 +343,9 @@ II. Participar en la contratación, desarrollo, capacitación, evaluación y pro
 
 III. Suscribir los documentos relativos al ejercicio de sus atribuciones, aquellos que les sean señalados por delegación o les correspondan por suplencia;
 
-IV. Delegar las atribuciones que le correspondan en el personal de su adscripción, cuando lo considere necesario; y (sic)
+IV. Delegar las atribuciones que le correspondan en el personal de su adscripción, cuando lo considere necesario; y
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
-
-> <small>(REFORMADA, P.O. 31 DE MARZO DE 2006)</small>
-
-V. Ejercer de manera directa cualquiera de las atribuciones encomendadas a las unidades administrativas de su adscripción cuando lo consideren necesario; y
+V. (DEROGADA, P.O. 4 DE NOVIEMBRE DE 2011)
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
@@ -365,7 +391,9 @@ VIII. (DEROGADA, P.O. 7 DE JUNIO DE 2005)
 
 La Dirección General de Asuntos Jurídicos contará con el apoyo de las siguientes unidades administrativas:
 
-I. Dirección de Asesoría Legal y Situación Patrimonial;
+> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2011)</small>
+
+I. Dirección de Asesoría Legal, Situación Patrimonial y Responsabilidades;
 
 II. Dirección de Responsabilidades e Inconformidades; y (sic)
 
@@ -373,19 +401,13 @@ II. Dirección de Responsabilidades e Inconformidades; y (sic)
 
 > <small>(REFORMADA, P.O. 7 DE JUNIO DE 2005)</small>
 
-III. Dirección de Quejas, Denuncias y Responsabilidad Patrimonial; y (sic)
+III. Dirección de Quejas, Denuncias y Responsabilidad Patrimonial; y
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+a) (DEROGADA, P.O. 4 DE NOVIEMBRE DE 2011)
 
-> <small>(ADICIONADO, P.O. 31 DE MARZO DE 2006)</small>
+> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2011)</small>
 
-a) Unidad de Quejas y Denuncias para la Secretaría de Educación de Guanajuato; y
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
-
-> <small>(ADICIONADA, P.O. 7 DE JUNIO DE 2005)</small>
-
-IV. Unidad de Enlace.
+IV. Unidad de Enlace, Información y Organización de Archivos
 
 ###### Artículo 14.
 
@@ -441,11 +463,19 @@ VIII. Resolver, en caso de duda, la competencia que corresponde a cada Direcció
 
 IX. Coordinar las acciones de conservación y organización de archivos, así como de la administración de documentos en la Secretaría, de conformidad con las disposiciones jurídicas aplicables.
 
-#### SECCIÓN PRIMERA. DE LA DIRECCIÓN DE ASESORÍA LEGAL Y SITUACIÓN PATRIMONIAL
+> <small>(ADICIONADA, P.O. 4 DE NOVIEMBRE DE 2011)</small>
+
+X. Representar jurídicamente a la Secretaría y a sus unidades administrativas, ante cualquier autoridad federal o local, en los juicios, investigaciones o procedimientos de toda índole.
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 4 DE NOVIEMBRE DE 2011)</small>
+
+#### SECCIÓN PRIMERA. DE LA DIRECCIÓN DE ASESORÍA LEGAL, SITUACIÓN PATRIMONIAL Y RESPONSABILIDADES
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE NOVIEMBRE DE 2011)</small>
 
 ###### Artículo 15.
 
-La Dirección de Asesoría Legal y Situación Patrimonial tendrá las siguientes atribuciones:
+La Dirección de Asesoría Legal, Situación Patrimonial y Responsabilidades tendrá las siguientes atribuciones:
 
 I. Fungir como órgano de consulta y proporcionar asesoría legal a las dependencias, entidades y municipios que lo soliciten en materia de control y vigilancia de los recursos públicos, determinación y fincamiento de responsabilidades e interpretación y aplicación de la normatividad administrativa;
 
@@ -513,11 +543,9 @@ XIII. Realizar los estudios e investigaciones jurídicas que requiera el desarro
 
 XIV. Recibir, analizar y determinar la procedencia de prórrogas para la presentación de la declaración de situación patrimonial que soliciten los servidores públicos de la Administración Pública Estatal, en los términos de la Ley de la materia;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2011)</small>
 
-> <small>(REFORMADA, P.O. 17 DE AGOSTO DE 2007)</small>
-
-XV. Realizar las investigaciones sobre los actos y omisiones de los servidores públicos de la Administración Pública Estatal que puedan constituir responsabilidad administrativa en los términos de la Ley de la materia, derivado de los procedimientos de recepción y verificación de la información patrimonial, ordenando el inicio del procedimiento respectivo o, en su caso, el archivo provisional o definitivo;
+XV. Realizar oficiosamente, en los supuestos que se establecen en la fracción XVI del presente artículo, las investigaciones sobre los actos y omisiones de los servidores públicos de la Administración Pública Estatal que puedan constituir responsabilidad administrativa en los términos de la Ley de la materia, ordenando el inicio del procedimiento respectivo o, en su caso, el archivo provisional o definitivo;
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
@@ -527,13 +555,21 @@ XVI. Instaurar, sustanciar y resolver los procedimientos de responsabilidad admi
 
 a) Por incumplimiento de los servidores públicos en la presentación de las declaraciones de situación patrimonial en los plazos previstos por la Ley de la materia;
 
-b) Cuando, con motivo de las inconsistencias o irregularidades detectadas en el procedimiento de verificación, exista presunción de omisiones en la declaración de situación patrimonial rendida por los servidores públicos, que se traduzcan en incumplimiento de las disposiciones legales aplicables;
+> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 2011)</small>
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+b) Cuando, con motivo de las inconsistencias o irregularidades detectadas en el procedimiento de verificación, exista presunción de falta de veracidad u omisiones en la declaración de situación patrimonial rendida por los servidores públicos, que se traduzcan en incumplimiento de las disposiciones legales aplicables;
 
-> <small>(REFORMADA, P.O. 17 DE MARZO DE 2007)</small>
+> <small>(ADICIONADO, P.O. 4 DE NOVIEMBRE DE 2011)</small>
 
-XVII. Imponer y ejecutar las sanciones que deriven de los procedimientos de su competencia, en los términos de la Ley de la materia; y
+c) Por la omisión de presentar mensualmente el informe de movimientos de nómina de los servidores públicos obligados, de conformidad a Ley de Responsabilidades Administrativas de los Servidores Públicos del Estado de Guanajuato y sus Municipios:
+
+> <small>(ADICIONADO, P.O. 4 DE NOVIEMBRE DE 2011)</small>
+
+d) Por actos u omisiones de los servidores públicos de la Administración Pública Estatal que puedan constituir responsabilidades administrativas en los términos de la Ley de la materia;
+
+> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2011)</small>
+
+XVII. Imponer y ejecutar las sanciones que deriven de los procedimientos de su competencia, en los términos de la Ley de la materia, así como realizar los trámites correspondientes para la inscripción en el registro de sancionados;
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
@@ -541,9 +577,31 @@ XVII. Imponer y ejecutar las sanciones que deriven de los procedimientos de su c
 
 XVIII. Intervenir en el trámite de los juicios, procedimientos y medios de impugnación en los que la Secretaría sea parte y que sean competencia de la Dirección.
 
+> <small>(ADICIONADA, P.O. 4 DE NOVIEMBRE DE 2011)</small>
+
+XIX. Hacer constar la existencia o inexistencia de registros en el Sistema de Declaración Patrimonial Declaranet Guanajuato, respecto de la información patrimonial de los servidores públicos obligados;
+
+> <small>(ADICIONADA, P.O. 4 DE NOVIEMBRE DE 2011)</small>
+
+XX. Proporcionar o ceder la información y datos personales contenidos en los registros de la Dirección, a sus titulares y a las autoridades que lo requieran, en los términos de las leyes de Acceso a la Información y de Protección de Datos Personales para el Estado y los Municipios de Guanajuato, así como la demás normatividad aplicable;
+
+> <small>(ADICIONADA, P.O. 4 DE NOVIEMBRE DE 2011)</small>
+
+XXI. Solicitar información a las dependencias y entidades de la administración pública federal, estatal y municipal, y organismos autónomos federales y estatales, relacionada con el patrimonio de los servidores públicos y sus dependientes económicos;
+
+> <small>(ADICIONADA, P.O. 4 DE NOVIEMBRE DE 2011)</small>
+
+XXII. Instaurar, sustanciar y resolver el procedimiento administrativo respectivo, para la determinación de los daños y perjuicios patrimoniales ocasionados al Estado por los servidores públicos de la Administración Pública Estatal, así como su resarcimiento a la Hacienda Pública Estatal; y
+
+> <small>(ADICIONADA, P.O. 4 DE NOVIEMBRE DE 2011)</small>
+
+XXIII. Atraer para conocimiento de la Secretaría, previo acuerdo del Director General de Asuntos Jurídicos, aquellos procedimientos de responsabilidad administrativa que por su naturaleza, revistan interés para la administración pública estatal requiriendo para tal efecto la remisión de los documentos y actuaciones respectivas.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE NOVIEMBRE DE 2011)</small>
+
 ###### Artículo 16.
 
-La Dirección de Asesoría Legal y Situación Patrimonial para el desahogo de los asuntos de su competencia contará con los Coordinadores Operativos, Jefes de Departamento "A" y "B" y demás personal que el presupuesto permita y demanden las necesidades del servicio organizado en coordinaciones, jefaturas o unidades según se establezca, quienes tendrán las siguientes atribuciones:
+La Dirección de Asesoría Legal, Situación Patrimonial y Responsabilidades, para el desahogo de los asuntos de su competencia, contará con el personal que el presupuesto permita y demanden las necesidades del servicio, quienes tendrán las siguientes atribuciones:
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
@@ -559,23 +617,17 @@ II. Verificar la información patrimonial de los servidores públicos;
 
 III. Otorgar asesorías en las materias competencia de la Secretaría, respecto a las consultas que les sean planteadas por servidores públicos;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2011)</small>
 
-> <small>(REFORMADA, P.O. 17 DE AGOSTO DE 2007)</small>
+IV. Desahogar las actuaciones y diligencias necesarias en la investigación y sustanciación de los procedimientos competencia de la Dirección de Asesoría Legal, Situación Patrimonial y Responsabilidades, así como levantar y suscribir las actas que correspondan a aquéllas y de todos los actos que por su naturaleza así lo requieran;
 
-IV.- Desahogar las actuaciones y diligencias necesarias en la investigación y sustanciación de los procedimientos competencia de la Dirección de Asesoría Legal y Situación Patrimonial, así como levantar y suscribir las actas que correspondan a aquellas y de todos los actos que por su naturaleza así lo requieran;
+> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2011)</small>
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+V. Practicar las notificaciones que deben realizarse con motivo de las atribuciones que competan a la Dirección de Asesoría Legal, Situación Patrimonial y Responsabilidades; y
 
-> <small>(REFORMADA, P.O. 31 DE MARZO DE 2006)</small>
+> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2011)</small>
 
-V. Practicar las notificaciones que deben realizarse con motivo de las atribuciones que competan a la Dirección de Asesoría Legal y Situación Patrimonial; y
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
-
-> <small>(ADICIONADA, P.O. 31 DE MARZO DE 2006)</small>
-
-VI. Todas aquellas que el Director de Asesoría Legal y Situación Patrimonial delegue o encomiende a dicho personal.
+VI. Todas aquellas que el Director de Asesoría Legal, Situación Patrimonial y Responsabilidades le delegue o encomiende.
 
 #### SECCIÓN SEGUNDA. DE LA DIRECCIÓN DE RESPONSABILIDADES E INCONFORMIDADES
 
@@ -613,13 +665,13 @@ IV. Atraer para conocimiento de la Secretaría, previo acuerdo del Director Gene
 
 V. Tramitar y resolver los medios de impugnación que presenten los particulares, previstos por las leyes en materia de adquisiciones, enajenaciones, arrendamientos y contratación de servicios, así como los previstos en otros ordenamientos y que sean competencia de la Secretaría;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2011)</small>
 
-> <small>(REFORMADA, P.O. 31 DE MARZO DE 2006)</small>
+VI. Imponer y ejecutar las sanciones que deriven de los procedimientos de su competencia, en los términos de la Ley de la materia, así como realizar los trámites correspondientes para la inscripción en el registro de sancionados;
 
-VI. Imponer y ejecutar las sanciones que deriven de los procedimientos de su competencia, en los términos de la Ley de la materia;
+> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2011)</small>
 
-VII. Canalizar las inconformidades que se reciban en contra de actos de concursos de obra pública y adquisiciones en que se apliquen recursos federales con las instancias federales correspondientes, de conformidad con los convenios y acuerdos de coordinación que al efecto celebren los Ejecutivos Federal y Estatal;
+VII. Canalizar las inconformidades que se reciban en contra de actos de concursos de obra pública y adquisiciones en que se apliquen recursos federales, con las instancias federales correspondientes, de conformidad con los convenios y acuerdos de coordinación que al efecto celebren los Ejecutivos Federal y Estatal, así como aquellas cuya competencia sea de alguna dependencia o entidad de la administración pública estatal o municipal;
 
 VIII. Intervenir en el trámite de los juicios, procedimientos y medios de impugnación en los que la Secretaría sea parte y que sean materia de competencia de la Dirección;
 
@@ -629,17 +681,9 @@ VIII. Intervenir en el trámite de los juicios, procedimientos y medios de impug
 
 IX. Elaborar y presentar las denuncias o querellas que correspondan, en aquellos casos en los que, derivado de los asuntos competencia de la Secretaría, se presuma la existencia de hechos que pudieren configurar la comisión de ilícitos penales, coadyuvar con las autoridades de procuración de justicia, a efecto de agilizar y complementar las investigaciones y, en su caso, interponer los medios de impugnación que correspondan;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+X. (DEROGADA, P.O. 4 DE NOVIEMBRE DE 2011)
 
-> <small>(REFORMADA, P.O. 31 DE MARZO DE 2006)</small>
-
-X. Tramitar y resolver las solicitudes de cancelación de antecedentes disciplinarios que le sean sometidas; y
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
-
-> <small>(REFORMADA, P.O. 31 DE MARZO DE 2006)</small>
-
-XI. Llevar a cabo el registro de los servidores públicos sancionados y proporcionar la información que se solicite al respecto, en términos de las leyes y de los convenios y acuerdos respectivos.
+XI. (DEROGADA, P.O. 4 DE NOVIEMBRE DE 2011)
 
 ###### Artículo 18.
 
@@ -679,17 +723,11 @@ IV. Todas aquellas acciones que el Director de Responsabilidades e Inconformidad
 
 La Dirección de Quejas, Denuncias y Responsabilidad Patrimonial, tendrá las siguientes atribuciones:
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2011)</small>
 
-> <small>(REFORMADA, P.O. 31 DE MARZO DE 2006)</small>
+I. Investigar los actos y omisiones de los servidores públicos de la Administración Pública Estatal que puedan constituir responsabilidad administrativa en los términos de las disposiciones aplicables, derivados de las quejas, denuncias o de manera oficiosa, ordenando el inicio del procedimiento respectivo o, en su caso, el archivo provisional o definitivo;
 
-I. Investigar los actos y omisiones que puedan constituir responsabilidades administrativas de los servidores públicos de la Administración Pública Estatal, de los cuales tenga conocimiento con motivo de su competencia;
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
-
-> <small>(REFORMADA, P.O. 31 DE MARZO DE 2006)</small>
-
-II. Atender y dar trámite a las sugerencias, planteamientos, quejas y denuncias de los ciudadanos con respecto a la actuación de los servidores de la Administración Pública Estatal, realizando las gestiones y actuaciones necesarias para recabar los elementos pertinentes para el debido seguimiento y aclaración de tales asuntos;
+II. (DEROGADA, P.O. 4 DE NOVIEMBRE DE 2011)
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
@@ -697,21 +735,21 @@ II. Atender y dar trámite a las sugerencias, planteamientos, quejas y denuncias
 
 III. Atraer para conocimiento de la Secretaría, previo acuerdo del Director General de Asuntos Jurídicos, aquellos procedimientos de responsabilidad administrativa, que por su naturaleza, revistan interés para la Administración Pública Estatal, requiriendo para tal efecto la remisión de los documentos y actuaciones respectivas;
 
-IV. Recibir y coordinar las quejas y denuncias originadas por la indebida aplicación de los fondos destinados a los programas sociales de inversión, de conformidad con los convenios y acuerdos de coordinación que al efecto celebren los gobiernos Federal, Estatal y Municipales;
+> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2011)</small>
 
-V. Implementar u ordenar la realización de evaluaciones operativas a las diferentes dependencias y entidades de la Administración Pública Estatal, a efecto de verificar su correcto desempeño en la atención de trámites y servicios a la ciudadanía;
+IV. Recibir, coordinar y, en su caso, canalizar las quejas y denuncias originadas por la indebida aplicación de los fondos destinados a los programas sociales de inversión, de conformidad con los convenios y acuerdos de coordinación que al efecto celebren los gobiernos Federal. Estatal y municipales;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2011)</small>
 
-> <small>(REFORMADA, P.O. 31 DE MARZO DE 2006)</small>
+V. Remitir las quejas, denuncias y todos aquéllos asuntos que no sean competencia de esta Dirección a los entes públicos correspondientes;
 
-VI. Instaurar, sustanciar y resolver los procedimientos de responsabilidad administrativa por quejas o denuncias, o bien de oficio, cuando con motivo de su actividad tenga conocimiento de actos u omisiones que puedan constituir responsabilidad administrativa, ejerciendo las facultades y funciones que de conformidad con la Ley de la materia, corresponden a las autoridades sustanciadoras;
+> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2011)</small>
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+VI. Instaurar, sustanciar y resolver los procedimientos de responsabilidad administrativa, con las facultades y funciones que, de conformidad con la Ley de la materia, corresponden a las autoridades sustanciadoras, por los actos u omisiones de los servidores públicos de la Administración Pública Estatal que puedan constituir responsabilidad administrativa derivados de las investigaciones de las quejas, denuncias u oficiosas;
 
-> <small>(REFORMADA, P.O. 31 DE MARZO DE 2006)</small>
+> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2011)</small>
 
-VII. Imponer y ejecutar las sanciones que deriven de los procedimientos de su competencia, en los términos de la Ley de la materia;
+VII. Imponer y ejecutar las sanciones que deriven de los procedimientos de su competencia, en los términos de la Ley de la materia, así como realizar las acciones tendientes a realizar la correspondiente inscripción en el registro de sancionados;
 
 VIII. Intervenir en el trámite de los juicios, procedimientos y medios de impugnación en los que la Secretaría sea parte y que sean materia de competencia de la Dirección;
 
@@ -723,15 +761,15 @@ IX. (DEROGADA, P.O. 31 DE MARZO DE 2006)
 
 X. (DEROGADA, P.O. 31 DE MARZO DE 2006)
 
-XI. Instrumentar y operar los mecanismos técnicos y administrativos necesarios a fin de dar a conocer los indicadores sobre las quejas y denuncias que formulen los particulares, a los titulares de las diversas dependencias y entidades de la Administración Pública Estatal; y (sic)
+> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2011)</small>
 
-XII. Establecer y operar un sistema de información de quejas y denuncias con el objeto de definir indicadores que permitan evaluar el servicio y la gestión gubernamental;
+XI. Establecer y operar un sistema de información de quejas y denuncias con el objeto de definir indicadores en los términos de la Ley de la materia;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2011)</small>
 
-> <small>(REFORMADA, P.O. 31 DE MARZO DE 2006)</small>
+XII. Dar a conocer los indicadores a que se refiere la fracción anterior, a los titulares de las diversas dependencias y entidades de la Administración Pública Estatal;
 
-XIII. Recomendar a los titulares de las dependencias y entidades de la Administración Pública Estatal, lineamientos y medidas de prevención y auto corrección, tendientes a optimizar los sistemas y procesos que realicen con motivo de sus facultades legales y reglamentarias;
+XIII. (DEROGADA, P.O. 4 DE NOVIEMBRE DE 2011)
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
@@ -745,37 +783,23 @@ XIV.- Conocer de las reclamaciones que realicen los particulares respecto de la 
 
 XV. Instaurar, substanciar y resolver los procedimientos administrativos tendientes a repetir en contra de los servidores públicos de la Administración Pública Estatal que hubieren dado lugar a la responsabilidad patrimonial del Estado, así como todos aquellos trámites complementarios para lograr el resarcimiento.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
-
-> <small>(ADICIONADO, P.O. 31 DE MARZO DE 2006)</small>
-
 ###### Artículo 19 Bis.
 
-La Dirección de Quejas, Denuncias y Responsabilidad Patrimonial contará con una Unidad de Quejas y Denuncias para la Secretaría de Educación de Guanajuato, la cual estará a cargo de un Coordinador Operativo y tendrá las siguientes atribuciones:
+(DEROGADO, P.O. 4 DE NOVIEMBRE DE 2011)
 
-I. Atender y dar trámite a las sugerencias y planteamientos ciudadanos con respecto a la actuación de los servidores públicos de la Secretaría de Educación de Guanajuato, realizando las gestiones y actuaciones necesarias para recabar los elementos pertinentes para el debido seguimiento y aclaración de tales asuntos;
-
-II. Investigar los actos y omisiones que puedan constituir responsabilidades administrativas de los servidores públicos adscritos a la Secretaría de Educación de Guanajuato, de los cuales tenga conocimiento con motivo de su competencia;
-
-III. Instaurar y tramitar los procedimientos de responsabilidad administrativa por quejas o denuncias, o bien de oficio, en contra de los servidores públicos de la Secretaría de Educación de Guanajuato, ejerciendo las facultades y funciones que, de conformidad con la Ley de la materia, corresponden a las autoridades sustanciadoras, turnándolos para su resolución al Director de Quejas, Denuncias y Responsabilidad Patrimonial;
-
-IV. Conocer de las reclamaciones que realicen los particulares respecto de la responsabilidad patrimonial relacionada con la actividad que desarrolle la Secretaría de Educación de Guanajuato, e instaurar, substanciar, desahogar y notificar el procedimiento correspondiente de acuerdo con la legislación de la materia, turnándolo para su resolución al Director de Quejas, Denuncias y Responsabilidad Patrimonial;
-
-V. Instaurar y substanciar los procedimientos administrativos disciplinarios tendientes a repetir en contra de los servidores públicos de la Secretaría de Educación de Guanajuato que hubieren dado lugar a la responsabilidad patrimonial del Estado, así como todos aquellos trámites complementarios para lograr el resarcimiento, turnando los procedimientos respectivos para su resolución al Director de Quejas, Denuncias y Responsabilidad Patrimonial; y
-
-VI. Intervenir en el trámite de los juicios, procedimientos y medios de impugnación en los que la Secretaría de la Gestión Pública sea parte y que sean competencia de la Unidad.
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
-
-> <small>(REFORMADO, P.O. 31 DE MARZO DE 2006)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE NOVIEMBRE DE 2011)</small>
 
 ###### Artículo 20.
 
-La Dirección de Quejas, Denuncias y Responsabilidad Patrimonial y la Unidad de Quejas y Denuncias para la Secretaría de Educación de Guanajuato, para el desahogo de los asuntos de su competencia, contarán con los Coordinadores Operativos, Jefes de Departamento “A” y “B” y demás personal que el presupuesto permita y demanden las necesidades del servicio, organizado en coordinaciones, jefaturas o unidades, quienes tendrán las siguientes atribuciones:
+La Dirección de Quejas, Denuncias y Responsabilidad Patrimonial para el desahogo de los asuntos de su competencia, contarán con el personal que el presupuesto permita y demanden las necesidades del servicio, quien tendrá las siguientes atribuciones:
 
-I. Desahogar las actuaciones y diligencias en la investigación, recepción, trámite y seguimiento de los planteamientos ciudadanos, quejas y denuncias o bien, actuar oficiosamente; así como, en la sustanciación de los procedimientos administrativos competencia de la Dirección o la Unidad, según corresponda;
+> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2011)</small>
 
-II. Practicar las notificaciones que deban realizarse con motivo de las actividades que competan a la Dirección o a la Unidad, según corresponda;
+I. Desahogar las actuaciones y diligencias en la investigación, recepción, trámite y seguimiento de las quejas y denuncias, y las que deriven de actuar oficiosamente; así como, en la sustanciación de los procedimientos administrativos competencia de la Dirección;
+
+> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2011)</small>
+
+II. Practicar las notificaciones que deban realizarse con motivo de las actividades que competan a la Dirección;
 
 III. Levantar y suscribir las actas correspondientes a las diligencias y evaluaciones operativas que se practiquen y de todos aquellos actos que por su naturaleza así lo requieran; y
 
@@ -805,17 +829,29 @@ I.- Dar trámite a las solicitudes de acceso a la información y de corrección 
 
 II. Organizar y difundir el acervo jurídico bibliográfico y hemerográfico de la Secretaría, y actualizarlo conforme a sus reformas, modificaciones y nuevas publicaciones, así como prestar el servicio de biblioteca;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2011)</small>
 
-> <small>(ADICIONADA, P.O. 17 DE AGOSTO DE 2007)</small>
+III. Supervisar las acciones que en materia de archivos deba realizar la Secretaría;
 
-III. Supervisar, junto con la Dirección General de Archivos de la Secretaría de Gobierno, las acciones que en materia de archivos deba realizar la Secretaría; y
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 4 DE NOVIEMBRE DE 2011)</small>
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+IV. Participar en los actos de destrucción de archivos que se lleven a cabo en los términos de las disposiciones legales de la materia;
 
-> <small>(ADICIONADA, P.O. 17 DE AGOSTO DE 2007)</small>
+> <small>(ADICIONADA, P.O. 4 DE NOVIEMBRE DE 2011)</small>
 
-IV. Las demás que señalen las disposiciones jurídicas aplicables en la materia.
+V. Llevar a cabo el registro de los servidores públicos sancionados y proporcionar la información que se solicite al respecto, en términos de las leyes y de los convenios y acuerdos respectivos;
+
+> <small>(ADICIONADA, P.O. 4 DE NOVIEMBRE DE 2011)</small>
+
+VI. Expedir, al interesado o a la autoridad que lo requiera, las constancias de antecedentes o no antecedentes disciplinarios conforme la información que se encuentre en el registro de los servidores públicos sancionados;
+
+> <small>(ADICIONADA, P.O. 4 DE NOVIEMBRE DE 2011)</small>
+
+VII. Tramitar y resolver las solicitudes de cancelación de antecedentes disciplinarios que le sean sometidas; canalizando, en su caso, las que resulten competencia de otra autoridad; y
+
+> <small>(ADICIONADA [N. DE E. REFORMADAD], P.O. 4 DE NOVIEMBRE DE 2011)</small>
+
+VIII. Las demás que señalen las disposiciones jurídicas aplicables en la materia.
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
@@ -875,43 +911,75 @@ VIII. Tramitar y dar seguimiento a los convenios y contratos de servicios en los
 
 IX. Llevar un control financiero y contable de los recursos federales del 2 y 5 al millar, en su aplicación a actividades de Inspección, vigilancia y fiscalización.
 
-### CAPITULO QUINTO. DE LA DIRECCIÓN DE INFORMÁTICA
+> <small>(REFORMADA SU DENOMINACION, P.O. 4 DE NOVIEMBRE DE 2011)</small>
+
+### CAPÍTULO QUINTO. DE LA DIRECCIÓN DE TECNOLOGÍAS DE LA INFORMACIÓN
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE NOVIEMBRE DE 2011)</small>
 
 ###### Artículo 23.
 
-La Dirección de Informática, tendrá las siguientes atribuciones:
+La Dirección de Tecnologías de la Información tendrá las siguientes atribuciones:
 
-I. Analizar, diseñar, organizar, implementar y coordinar los sistemas de información de la Secretaría;
+> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2011)</small>
 
-II. Desarrollar los sistemas de Informática que requieran las unidades administrativas de la Secretaría, vigilando su adecuada operación mediante la supervisión, asesoría y capacitación;
+I. Analizar, diseñar, organizar, implementar y coordinar los sistemas de información, para generar condiciones para su óptimo uso que contribuya al cumplimiento de los objetivos institucionales;
 
-III. Apoyar a las unidades administrativas de la Secretaría, que requieran de la elaboración de estudios, proyectos, análisis, desarrollo de sistemas y producción de resultados en las actividades que se consideren factibles de procesar por sistemas electrónicos de datos;
+> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2011)</small>
 
-IV. Conservar y asegurar la confidencialidad y el acceso a la información de los diferentes sistemas de cómputo;
+II. Participar activamente en el desarrollo de estrategias internas para el cumplimiento de los objetivos institucionales;
 
-V. Integrar los manuales técnico y de operación, que contengan el análisis, programación y operación de todos los sistemas desarrollados, manteniéndolos actualizados;
+> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2011)</small>
 
-VI. Asesorar a las unidades administrativas de la Secretaría, en materia de adquisición de equipo y programas de cómputo;
+III. Establecer las estrategias para el correcto manejo de la información de la institución que permita la toma de decisiones;
+
+> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2011)</small>
+
+IV. Formular las normas y políticas tendientes a lograr un desarrollo tecnológico para asegurar que la información sea confidencial, integra y esté disponible;
+
+> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2011)</small>
+
+V. Fungir como representante de la Secretaría y participar activamente en la planeación, elaboración y ejecución de las actividades y lineamientos acordados al seno del Comité de Tecnologías de la Información y Telecomunicaciones del Estado de Guanajuato;
+
+> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2011)</small>
+
+VI. Asegurar el cumplimiento de la normatividad del Sistema de Gestión de Seguridad de la información, Política Informática y todas las referentes a Tecnologías de la Información;
 
 VII. Apoyar, capacitar y asesorar a las unidades administrativas de la Secretaría, en materia de instalación, mantenimiento y operación de equipos, así como para el desarrollo y operación de programas de cómputo;
 
-VIII. Formular las propuestas normativas, políticas y programáticas tendientes a lograr un desarrollo informático de tecnología actualizada, seguridad de información, apego a las leyes y disposiciones administrativas aplicables, y la optimización de los equipos y programas de cómputo;
+VIII. (DEROGADA, P.O. 4 DE NOVIEMBRE DE 2011)
 
-IX. Planear, organizar, dirigir y controlar las operaciones relativas a la instalación, mantenimiento del equipo de cómputo y su conectividad;
+> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2011)</small>
 
-X. Vigilar que los equipos de cómputo y accesorios asignados a las unidades administrativas de la Secretaría, funcionen en óptimas condiciones;
+IX. Planear, organizar, dirigir y controlar la adopción de nuevas tendencias de desarrollo de software;
+
+> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2011)</small>
+
+X. Vigilar y asegurar la operación y comunicación entre las aplicaciones que soportan las estrategias institucionales;
 
 XI. Participar, en coordinación con la Dirección General de Informática y Telecomunicaciones de la Secretaría de Finanzas y Administración en la regulación de los servicios de informática de la Administración Pública Estatal;
 
-XII. Fungir como representante de la Secretaría ante el Comité de Informática del Gobierno del Estado y participar en la planeación, elaboración y ejecución de las actividades y lineamientos que se acuerden en el seno de dicho Comité;
+> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2011)</small>
 
-XIII. Apoyara las unidades administrativas de la Secretaría en el análisis de equipos, sistemas y programas de procesamiento y transmisión electrónica de datos;
+XII. Implementar programas de mantenimiento preventivo y correctivo que aseguren el óptimo funcionamiento de los equipos informáticos;
 
-XIV. Planear, organizar, dirigir y controlar las operaciones relativas a la instalación, administración y mantenimiento de la red informática de la Secretaría y los enlaces hacia la infraestructura de telecomunicaciones del Gobierno del Estado;
+> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2011)</small>
+
+XIII. Generar y ejecutar los programas de soporte a usuarios finales en el uso de equipos de cómputo;
+
+> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2011)</small>
+
+XIV. Mantener actualizado el historial de los equipos de tecnologías de la información;
 
 XV. Coadyuvar en coordinación con la Dirección General de Informática y Telecomunicaciones de la Secretaría de Finanzas y Administración, en la creación, regulación y observancia de las políticas y normatividad informática y de telecomunicaciones que aplicarán en la Administración Pública Estatal; y
 
-XVI. Coadyuvar, en coordinación con la Dirección General de Gestoría de Proyectos, en la promoción de las estrategias necesarias para el establecimiento de políticas de tecnología en información.
+> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2011)</small>
+
+XVI. Promover las estrategias necesarias para establecer políticas de tecnología en información que impulsen el mejoramiento de la Administración Pública y asegurar el cumplimiento de la normatividad existente en materia de telecomunicaciones; y
+
+> <small>(ADICIONADA, P.O. 4 DE NOVIEMBRE DE 2011)</small>
+
+XVII. Coadyuvar e intervenir, a solicitud de las unidades administrativas, en los procedimientos de competencia de esta Secretaría.
 
 ### CAPITULO SEXTO. DE LA DIRECCIÓN DE INTEGRIDAD INSTITUCIONAL
 
@@ -945,21 +1013,41 @@ IV.- Identificar, diseñar y producir instrumentos de comunicación que permitan
 
 V.- Las demás que le señale el Secretario.
 
-### CAPÍTULO PRIMERO. DE LA DIRECCIÓN GENERAL DE AUDITORÍA GUBERNAMENTAL
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 4 DE NOVIEMBRE DE 2011)</small>
 
-###### Artículo 26.
+### CAPÍTULO OCTAVO. DE LA DIRECCIÓN DE GESTORÍA ESPECIALIZADA
 
-La Dirección General de Auditoría Gubernamental, contará con el apoyo de las siguientes unidades administrativas:
+> <small>(ADICIONADO, P.O. 4 DE NOVIEMBRE DE 2011)</small>
 
-I. Dirección de Evaluación y Control a la Administración Pública "A";
+###### Artículo 24 Ter.
 
-II. Dirección de Evaluación y Control a la Administración Pública "B";
+El Despacho del Secretario contará con la Dirección de Gestoría Especializada, la cual podrá integrarse con el personal que requieran las necesidades del servicio y permita el presupuesto.
 
-III. Dirección de Evaluación y Control a la Administración Pública "C"; y
+La Dirección de Gestoría Especializada tendrá las siguientes atribuciones:
 
-IV. Dirección de Evaluación y Control a la Administración Pública "D".
+I. Formular los proyectos, estudios, dictámenes, opiniones e informes que le solicite el Secretario;
 
-Dichas unidades administrativas ejercerán sus atribuciones de conformidad con la distribución que acuerde el Director General de Auditoría Gubernamental con el Subsecretario de Evaluación Gubernamental, la cual podrá ser modificada de conformidad con las prioridades establecidas por el Plan de Gobierno, programas prioritarios, o bien, por las necesidades del servicio.
+II. Asesorar al Secretario en los asuntos jurídicos de la institución;
+
+III. Aprobar soluciones a los problemas y acciones sustantivas que la Secretaría emita y en su defecto proponer alternativas de solución;
+
+IV. Participar en la actualización de los manuales de organización y de procesos y procedimientos de trabajo y normatividad que se requieran para el mejor desempeño de las funciones encomendadas a la Secretaría;
+
+V. Diseñar e impulsar programas de fortalecimiento institucional y de mejora continua;
+
+VI. Coordinar actividades con los titulares de otras unidades administrativas;
+
+VII. Rendir informes sobre las actividades realizadas, con la periodicidad que determine el Secretario;
+
+VIII. Coadyuvar en las visitas de campo y requisición de la información necesaria, con la finalidad de documentar o soportar el cumplimiento de las obligaciones contraídas ante la Secretaría por terceros;
+
+IX. Asesorar a la Secretaría en las revisiones gubernamentales, despachos externos o cualquier instancia que tenga facultades de revisión sobre los programas de atención y áreas de la Secretaría;
+
+X. Asesorar en el cumplimiento de obligaciones adquiridas por terceros con la Secretaría;
+
+XI. Solicitar y validar los reportes de las unidades administrativas de la Secretaría que hayan apoyado a terceros; y
+
+XII. Las demás que las disposiciones legales y reglamentarias le atribuyan, así como aquellas que le confiera el Secretario.
 
 ## TÍTULO CUARTO. DE LA SUBSECRETARÍA DE EVALUACIÓN GUBERNAMENTAL Y LAS UNIDADES ADMINISTRATIVAS QUE LE ESTÁN ADSCRITAS
 
@@ -975,7 +1063,27 @@ II. Prevenir, verificar y evaluar el uso de los recursos públicos aplicados en 
 
 III. Ser el vínculo de comunicación, seguimiento de acuerdos y compromisos, e intercambio de información entre la Secretaría y las Contralorías Municipales al interior de la Alianza Estado-Municipios para el Fortalecimiento de los Órganos Internos de Control Municipal.
 
-### CAPÍTULO SEGUNDO. DE LA DIRECCIÓN GENERAL DE EVALUACIÓN Y CONTROL DE OBRAS
+> <small>(ADICIONADA, P.O. 4 DE NOVIEMBRE DE 2011)</small>
+
+IV. Resolver el recurso de reconsideración en los términos del Reglamento de Procedimientos de Auditoría para las Dependencias y Entidades del Poder Ejecutivo del Estado de Guanajuato.
+
+### CAPÍTULO PRIMERO. DE LA DIRECCIÓN GENERAL DE AUDITORÍA GUBERNAMENTAL
+
+26.- La Dirección General de Auditoría Gubernamental, contará con el apoyo de las siguientes unidades administrativas:
+
+I. Dirección de Evaluación y Control a la Administración Pública "A";
+
+II. Dirección de Evaluación y Control a la Administración Pública "B";
+
+III. Dirección de Evaluación y Control a la Administración Pública "C"; y
+
+IV. Dirección de Evaluación y Control a la Administración Pública "D".
+
+> <small>(ADICIONADA, P.O. 4 DE NOVIEMBRE DE 2011)</small>
+
+V. Dirección de Evaluación y Control a la Administración Pública "E".
+
+Dichas unidades administrativas ejercerán sus atribuciones de conformidad con la distribución que acuerde el Director General de Auditoría Gubernamental con el Subsecretario de Evaluación Gubernamental, la cual podrá ser modificada de conformidad con las prioridades establecidas por el Plan de Gobierno, programas prioritarios, o bien, por las necesidades del servicio.
 
 ###### Artículo 27.
 
@@ -1005,17 +1113,23 @@ IV. Emitir los resultados finales de las auditorías y evaluaciones practicadas 
 
 V. Proponer la simplificación de las reglas de operación y disposiciones administrativas, de los convenios, fideicomisos, y programas en los que participe; y
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2011)</small>
 
-> <small>(REFORMADA, P.O. 17 DE AGOSTO DE 2007)</small>
+VI. Sustanciar el recurso de reconsideración, en los términos del Reglamento de Procedimientos de Auditoría para las Dependencias y Entidades del Poder Ejecutivo del Estado de Guanajuato; y
 
-VI. Sustanciar y resolver el recurso de reconsideración, en los términos del Reglamento de Procedimientos de Auditoría para las Dependencias y Entidades del Poder Ejecutivo del Estado de Guanajuato.
+> <small>(ADICIONADA, P.O. 4 DE NOVIEMBRE DE 2011)</small>
 
-#### SECCIÓN ÚNICA. DE LAS DIRECCIONES DE EVALUACIÓN Y CONTROL A LA ADMINISTRACIÓN PÚBLICA "A", "B", "C" Y "D"
+VII. Recomendar a los titulares de las dependencias y entidades de la Administración Pública Estatal, lineamientos y medidas de prevención y auto corrección, tendientes a optimizar los sistemas y procesos que realicen con motivo de sus facultades legales y reglamentarias.
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 4 DE NOVIEMBRE DE 2011)</small>
+
+#### SECCIÓN ÚNICA. DE LAS DIRECCIONES DE EVALUACIÓN Y CONTROL A LA ADMINISTRACIÓN PÚBLICA "A", "B", "C", "D" Y "E"
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE NOVIEMBRE DE 2011)</small>
 
 ###### Artículo 29.
 
-Las Direcciones de Evaluación y Control de la Administración Pública "A", "B", "C" y "D", tendrán las siguientes atribuciones:
+Las Direcciones de Evaluación y Control de la Administración Pública "A", "B", "C", "D" y "E", tendrán las siguientes atribuciones:
 
 I. Elaborar y proponer al Director General de Auditoría Gubernamental el Programa Anual de Auditoría a las Dependencias y Entidades Paraestatales;
 
@@ -1065,7 +1179,9 @@ VII. Asesorar, apoyar y, en su caso, vigilar la ejecución de los programas a ca
 
 VIII. Participar en el comité y subcomités de adquisiciones, arrendamientos y contratación de servicios, en los términos de las leyes de la materia;
 
-IX. Intervenir en los actos de destrucción de archivos, bienes y valores;
+> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2011)</small>
+
+IX. Intervenir en los actos de destrucción de bienes y valores;
 
 X. Presentar al Director General de Auditoría Gubernamental las propuestas de modificación de la normatividad en materia de control;
 
@@ -1107,9 +1223,11 @@ XVIII. Operar el sistema de información y seguimiento de las recomendaciones pr
 
 XIX. Solicitar y recabar copia de los elementos documentales y técnicos necesarios para el desempeño de sus funciones.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE NOVIEMBRE DE 2011)</small>
+
 ###### Artículo 30.
 
-Las Direcciones de Evaluación y Control de la Administración Pública "A", "B", "C" y "D", para el desahogo de los asuntos de su competencia, contará con los Coordinadores Operativos, Jefes de Departamento "A" Y "B" y demás personal que el presupuesto permita y demanden las necesidades del servicio, organizado en coordinaciones, jefaturas o unidades, según se establezca, quienes tendrán las siguientes atribuciones:
+Las Direcciones de Evaluación y Control de la Administración Pública "A", “B”, “C”, “D” y “E”, para el desahogo de los asuntos de su competencia, contará con el personal que el presupuesto permita y demanden las necesidades del servicio, quienes tendrán las siguientes atribuciones:
 
 I. Realizar visitas de campo a las diferentes dependencias y entidades de la Administración Pública Estatal, y en su caso Municipal, para lo cual podrán solicitar información, levantar actas, realizar observaciones derivadas de las inconsistencias detectadas, otorgar un plazo para su soIventación y calificar la procedencia de las mismas;
 
@@ -1119,11 +1237,7 @@ III. Realizar por instrucciones, o por comisión, del Director de Área, las fun
 
 IV. Todas aquellas acciones que su Director les delegue o encomiende, de conformidad con las prioridades establecidas por el plan de Gobierno, programas prioritarios, o bien por las necesidades del servicio.
 
-### CAPÍTULO TERCERO. DE LA COORDINACIÓN DE ENLACE CON MUNICIPIOS
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
-
-> <small>(ADICIONADO, P.O. 17 DE AGOSTO DE 2007)</small>
+### CAPÍTULO SEGUNDO. DE LA DIRECCIÓN GENERAL DE EVALUACIÓN Y CONTROL DE OBRAS
 
 ###### Artículo 31.
 
@@ -1215,6 +1329,14 @@ VIII. Coordinar la integración de la información que le compete, conforme al a
 
 IX. Solicitar a los contratistas encargados de la ejecución de las obras públicas y servicios relacionados con la misma, los datos e informes que estime convenientes, en el ejercicio de sus funciones.
 
+> <small>(ADICIONADA, P.O. 4 DE NOVIEMBRE DE 2011)</small>
+
+X. Sustanciar el recurso de reconsideración, en los términos del Reglamento de Procedimientos de Auditoría para las Dependencias y Entidades del Poder Ejecutivo del Estado de Guanajuato; y
+
+> <small>(ADICIONADA, P.O. 4 DE NOVIEMBRE DE 2011)</small>
+
+XI. Recomendar a los titulares de las dependencias y entidades de la Administración Pública Estatal, lineamientos y medidas de prevención y auto corrección, tendientes a optimizar los sistemas y procesos que realicen con motivo de sus facultades legales y reglamentarias.
+
 > <small>(REFORMADA SU DENOMINACION, P.O. 17 DE AGOSTO DE 2007)</small>
 
 #### SECCIÓN PRIMERA. DE LAS DIRECCIONES DE EVALUACIÓN Y CONTROL DE PROGRAMAS DE OBRA PÚBLICA "A", "B", "C" Y "D"
@@ -1261,7 +1383,13 @@ XVI. Proponer al Director General de Evaluación y Control de Obras, mejoras a l
 
 XVII. Aportar oportunamente los elementos documentales y técnicos que soporten la evidencia de las irregularidades que deriven de las evaluaciones que realice la Dirección, detalladas en los informes técnicos turnados a la Dirección General de Asuntos Jurídicos, con la finalidad de que ésta los analice y determine las responsabilidades y acciones correctivas que procedan; y
 
-XVIII. Todas aquellas que el Director General de Evaluación y Control de Obras les delegue o encomiende, de conformidad con las prioridades establecidas por el Plan de Gobierno, programas prioritarios, o bien por las necesidades del servicio.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 4 DE NOVIEMBRE DE 2011)</small>
+
+XVIII. Participar como perito en las ramas de su competencia cuando así se le requiera; y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 4 DE NOVIEMBRE DE 2011)</small>
+
+XIX. Todas aquellas que el Director General de Evaluación y Control de Obras les delegue o encomiende, de conformidad con las prioridades establecidas por el Plan de Gobierno, programas prioritarios o bien, por las necesidades del servicio.
 
 #### SECCIÓN SEGUNDA. DE LA DIRECCIÓN DE EVALUACIÓN DE PROGRAMAS DE IMPACTO SOCIAL
 
@@ -1293,11 +1421,11 @@ IV. Todas aquellas secciones que su Director les delegue o encomiende, de confor
 
 > <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 17 DE AGOSTO DE 2007)</small>
 
-### CAPÍTULO PRIMERO. DE LAS DIRECCIONES DE GESTORÍA DE PROYECTOS
+### CAPÍTULO TERCERO. DE LA COORDINACIÓN DE ENLACE CON MUNICIPIOS
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE AGOSTO DE 2007)</small>
+> <small>(ADICIONADO, P.O. 17 DE AGOSTO DE 2007)</small>
 
 ###### Artículo 35 Bis.
 
@@ -1317,11 +1445,35 @@ VI. Las demás que le asigne el Subsecretario de Evaluación Gubernamental.
 
 Para el desahogo de los asuntos de su competencia, la Coordinación de Enlace con Municipios, contará con los jefes de departamento "A" y "B", y demás personal que el presupuesto permita y demanden las necesidades del servicio.
 
-### CAPÍTULO SEGUNDO. DE LA DIRECCIÓN DE CONTRALORÍA SOCIAL Y VINCULACIÓN CIUDADANA
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 4 DE NOVIEMBRE DE 2011)</small>
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+### CAPÍTULO CUARTO. DE LA DIRECCIÓN DE EVALUACIONES ESPECIALIZADAS
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE AGOSTO DE 2007)</small>
+> <small>(ADICIONADO, P.O. 4 DE NOVIEMBRE DE 2011)</small>
+
+###### Artículo 35 Ter.
+
+La Subsecretaría de Evaluación Gubernamental contará con la Dirección de Evaluaciones Especializadas, la cual se integrará con el personal que requieran las necesidades del servicio y permita el presupuesto.
+
+La Dirección de Evaluaciones Especializadas se encargará de diseñar y llevar a cabo estrategias y acciones de supervisión, evaluación, control y fiscalización. así como de consejería y consultoría, en materia de obra pública, ejercicio de recursos, y ejecución de acciones, programas y proyectos que realicen las dependencias y entidades de la administración pública estatal, y en su caso, municipal, para lo cual contará con las atribuciones señaladas en los artículos 29 y 33 de este Reglamento, y además tendrá específicamente las siguientes atribuciones:
+
+I. Realizar la consejería y consultoría, en materia de ejercicio de recursos, y ejecución de acciones, obra pública, programas y proyectos que realicen las dependencias y entidades de la administración pública estatal, y en su caso, municipal;
+
+II. Llevar a cabo la evaluación de acciones, ejercicios y proyectos convenidos o en coordinación con otras instancias u órdenes de gobierno; para lo cual contarán con las atribuciones señaladas en los artículos 29 y 33 de este Reglamento;
+
+III. Planear, diseñar y evaluar las estrategias, programas, proyectos y acciones en materia de fiscalización;
+
+IV. Formular las políticas generales para el diseño de programas y para la promoción del desarrollo del enfoque preventivo en materia de fiscalización;
+
+V. Formular la estrategia general de auditoría y seguimiento a cargo de la Secretaría y de los otros sectores articulados en procesos comunes;
+
+VI. Promover la realización de acciones, estrategias y mecanismos en conjunto con los entes y niveles de gobierno, tendientes a impulsar acciones de prevención en la gestión pública;
+
+VII. Proponer al Subsecretario de Evaluación Gubernamental, las áreas de la administración pública susceptibles de evaluación por parte de despachos externos;
+
+VIII. Llevar el control, registro, avance y seguimiento de los programas operativos anuales de fiscalización estatal y concurrente, esto último en los términos de los convenios suscritos con la Secretaría de la Función Pública; y
+
+IX. Las demás que le señale el Subsecretario de Evaluación Gubernamental.
 
 ## TÍTULO QUINTO. DE LA SUBSECRETARÍA DE IMPULSO A LA ADMINISTRACIÓN PÚBLICA Y LAS UNIDADES ADMINISTRATIVAS QUE LE ESTÁN ADSCRITAS
 
@@ -1447,11 +1599,11 @@ XIX. Dirigir la planeación, creación, presupuestación, implementación y oper
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 17 DE AGOSTO DE 2007)</small>
 
-### CAPÍTULO TERCERO. DE LA DIRECCIÓN DE IMPULSO A LA MEJORA REGULATORIA
+### CAPÍTULO PRIMERO. DE LAS DIRECCIONES DE GESTORÍA DE PROYECTOS
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
-> <small>(ADICIONADO, P.O. 17 DE AGOSTO DE 2007)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE AGOSTO DE 2007)</small>
 
 ###### Artículo 37.
 
@@ -1501,7 +1653,11 @@ Para el desahogo de los asuntos de su competencia, las Direcciones de Gestoría 
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 17 DE AGOSTO DE 2007)</small>
 
-### CAPÍTULO PRIMERO. DE LAS SUPLENCIAS Y LICENCIAS
+### CAPÍTULO SEGUNDO. DE LA DIRECCIÓN DE CONTRALORÍA SOCIAL Y VINCULACIÓN CIUDADANA
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE AGOSTO DE 2007)</small>
 
 ###### Artículo 38.
 
@@ -1583,7 +1739,11 @@ XIV. Recibir, canalizar al área correspondiente y dar seguimiento a las sugeren
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 17 DE AGOSTO DE 2007)</small>
 
-### CAPÍTULO SEGUNDO. DE LAS RELACIONES LABORALES
+### CAPÍTULO TERCERO. DE LA DIRECCIÓN DE IMPULSO A LA MEJORA REGULATORIA
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(ADICIONADO, P.O. 17 DE AGOSTO DE 2007)</small>
 
 ###### Artículo 38 Bis.
 
@@ -1623,17 +1783,39 @@ XVI. Establecer las estrategias para promover el uso de tecnologías de informac
 
 XVII. Establecer estrategias de coordinación con los municipios a efecto de homologar lineamientos, criterios, guías, y en general, todo tipo de disposiciones de carácter general, para la aplicación de la Ley de la materia; y
 
-XVIII. Las demás que se deriven de otras normativas o disposiciones administrativas, así como aquellas que le confiera su superior jerárquico.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 4 DE NOVIEMBRE DE 2011)</small>
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+XVIII. Proporcionar, en el ámbito de su competencia, la colaboración y apoyo que requiera el Consejo de Asesoría y Consulta en materia de Mejora Regulatoria del Poder Ejecutivo;
 
-> <small>(ADICIONADO, P.O. 17 DE AGOSTO DE 2007)</small>
+> <small>(ADICIONADA, P.O. 4 DE NOVIEMBRE DE 2011)</small>
+
+XIX. Autorizar la integración de nuevos trámites y servicios al Sistema Electrónico de Trámites y Servicios;
+
+> <small>(ADICIONADA, P.O. 4 DE NOVIEMBRE DE 2011)</small>
+
+XX. Resolver las consultas que las dependencias y entidades sometan a la Secretaría, respecto de toda disposición administrativa de carácter general, a efecto de que se determine si es sujeta de manifestación de impacto regulatorio o se emita la excepción correspondiente;
+
+> <small>(ADICIONADA, P.O. 4 DE NOVIEMBRE DE 2011)</small>
+
+XXI. Realizar revisiones a los instrumentos que incidan en la prestación de trámites y servicios de la administración pública estatal y en su caso, emitir observaciones;
+
+> <small>(ADICIONADA, P.O. 4 DE NOVIEMBRE DE 2011)</small>
+
+XXII. Emitir los lineamientos para la creación, operación e interconexión informática del Registro Único de Personas y Empresas Acreditadas; y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 4 DE NOVIEMBRE DE 2011)</small>
+
+XXIII. Las demás que se deriven de otras normativas o disposiciones administrativas, así como aquellas que le confiera su superior Jerárquico.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 4 DE NOVIEMBRE DE 2011)</small>
 
 ###### Artículo 38 Ter.
 
-La Dirección General de Impulso a la Mejora Regulatoria contará para el desahogo de los asuntos de su competencia con las coordinaciones y demás personal que el presupuesto permita y demanden las necesidades del servicio.
+La Dirección de Impulso a la Mejora Regulatoria contará para el desahogo de los asuntos de su competencia con las coordinaciones y demás personal que el presupuesto permita y demanden las necesidades del servicio.
 
 ## TÍTULO SEXTO. DE LAS SUPLENCIAS, LICENCIAS Y RELACIONES LABORALES
+
+### CAPÍTULO PRIMERO. DE LAS SUPLENCIAS Y LICENCIAS
 
 ###### Artículo 39.
 
@@ -1646,6 +1828,8 @@ Los titulares de las demás unidades administrativas señaladas en el artículo 
 ###### Artículo 41.
 
 Las licencias podrán ser otorgadas y revocadas en los términos de la Ley del Trabajo de los Servidores Públicos al Servicio del Estado y de los Municipios y de las Condiciones Generales de Trabajo en las Dependencias y Entidades del Poder Ejecutivo del Estado.
+
+### CAPÍTULO SEGUNDO. DE LAS RELACIONES LABORALES
 
 ###### Artículo 42.
 
@@ -1690,3 +1874,11 @@ Artículo Tercero.- Los actos y procedimientos administrativos que se hayan inic
 P.O. 17 DE AGOSTO DE 2007.
 
 Artículo Único. El presente Decreto Gubernativo entrará en vigencia el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 4 DE NOVIEMBRE DE 2011.
+
+Artículo Primero. El presente Decreto Gubernativo entrará en vigencia el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Artículo Segundo. Los asuntos en trámite que a la entrada en vigor del presente decreto estuvieran siendo conocidos por la Unidad de Quejas y Denuncias para la Secretaría de Educación de Guanajuato, serán continuados hasta su resolución por la Dirección de Quejas, Denuncias y Responsabilidad Patrimonial.
+
+Artículo Tercero. Dentro de los asuntos en trámite de las Direcciones de Informática y de Asesoría Legal y Situación Patrimonial, a la entrega (sic) en vigor del presente decreto, se entenderá que toda referencia a aquéllas se hacen a las Direcciones de Tecnologías de la Información y de Asesoría Legal, Situación Patrimonial y Responsabilidades, respectivamente, por lo que el cambio de denominación no afectará en ningún modo la validez de las actuaciones respectivas
