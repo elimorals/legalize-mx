@@ -4,7 +4,7 @@ identifier: "MEX-ley-del-agua-para-el-estado-de-mexico-y-municipios-82309"
 country: "mx"
 rank: "ley"
 publication_date: "2011-07-22"
-last_updated: "2011-07-22"
+last_updated: "2011-11-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=82309&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY DEL AGUA PARA EL ESTADO DE MEXICO Y MUNICIPIOS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL GACETA DEL GOBIERNO: 4 DE NOVIEMBRE DE 2011.
 
 Ley publicada en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el viernes 22 de julio de 2011.
 
@@ -2521,6 +2521,12 @@ Las personas físicas y jurídicas colectivas que no cuentan con el título de c
 
 Se derogan todas las disposiciones legales o reglamentarias de igual o menor jerarquía que sean contrarias a las establecidas en esta Ley.
 
+> <small>(ADICIONADO, G.G. 4 DE NOVIEMBRE DE 2011)</small>
+
+###### ARTÍCULO NOVENO.
+
+Hasta en tanto no se constituya la Comisión Reguladora y ésta genere la normatividad a que se refiere el artículo 52 de esta Ley, estarán vigentes las disposiciones del Código Financiero del Estado de México y Municipios; por lo que respecta al diseño de tarifas distintas a las establecidas en dicho Código, éstas seguirán determinándose con base en el Manual Metodológico aprobado en el marco del Sistema de Coordinación Hacendaria del Estado de México, expedido por el Instituto Hacendario del Estado de México, publicado en el Periódico Oficial "Gaceta del Gobierno" de fecha 5 de enero de 2009.
+
 Lo tendrá entendido el Gobernador del Estado, haciendo que se publique y se cumpla.
 
 Dado en el Palacio del Poder Legislativo, en la ciudad de Toluca de Lerdo, capital del Estado de México, a los veintiocho días del mes de abril del año dos mil once.- Presidente.- Dip. Jorge Ernesto Inzunza Armas.- Secretarios.- Dip. Víctor Manuel González García.- Dip. José Francisco Barragán Pacheco.- Dip. Miguel Ángel Xolalpa Molina.- Rúbricas.
@@ -2540,3 +2546,15 @@ EL SECRETARIO GENERAL DE GOBIERNO
 LIC. LUIS ENRIQUE MIRANDA NAVA
 
 (RUBRICA).
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+G.G. 4 DE NOVIEMBRE DE 2011.
+
+###### ARTÍCULO PRIMERO.
+
+Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto entrará en vigor al siguiente día de su publicación en el Periódico Oficial "Gaceta del Gobierno".
