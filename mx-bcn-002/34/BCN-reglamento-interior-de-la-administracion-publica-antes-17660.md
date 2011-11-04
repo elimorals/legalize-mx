@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-interior-de-la-administracion-publica-antes-17660"
 country: "mx"
 rank: "reglamento"
 publication_date: "2001-12-14"
-last_updated: "2011-06-10"
+last_updated: "2011-11-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17660&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 REGLAMENTO DE LA ADMINISTRACIÓN PÚBLICA DEL MUNICIPIO DE MEXICALI, BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE JUNIO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE NOVIEMBRE DE 2011.
 
 Reglamento publicado en la Sección II del Periódico Oficial del Estado de Baja California, el viernes 14 de diciembre de 2001.
 
@@ -2387,6 +2387,68 @@ XIV.- (DEROGADA, P.O. 29 DE ABRIL DE 2011)
 
 XV (SIC).-
 
+> <small>(ADICIONADO, P.O. 4 DE NOVIEMBRE DE 2011)</small>
+
+ARTICULO 106 BIS.- La Dirección de Comunicación Social, para el cumplimiento de sus atribuciones contará con una Subdirección de Comunicación Social, que tendrá como función principal auxiliar a la Dirección, supervisando las actividades del personal a su cargo, dando seguimiento a los lineamientos e instrucciones de la Dirección, a fin de dar cumplimiento a las actividades diarias; asimismo, realizará las siguientes funciones:
+
+l. Redactar y enviar cartas a diferentes Medios de Comunicación con el fin de promover eventos específicos.
+
+II. Participar en la organización de eventos especiales que la Dirección asigne.
+
+III. Asistir a reuniones y eventos en representación del Director de Comunicación Social.
+
+IV. Proponer el manejo de información para campañas y boletines informativos.
+
+V. Realizar las demás actividades que se deriven de la naturaleza de su cargo o las que le sean encomendadas por la Dirección.
+
+> <small>(ADICIONADO, P.O. 4 DE NOVIEMBRE DE 2011)</small>
+
+ARTICULO 106 TER.- La Subdirección de Comunicación Social para el cumplimiento de sus atribuciones, tendrá bajo su cargo las siguientes Coordinaciones:
+
+1.- Coordinación de Medios e Información; la cual tendrá como funciones las de:
+
+l. Coordinar y difundir las actividades de la administración pública ante los medios de comunicación;
+
+II. Elaborar promocionales para televisión de las actividades de la administración pública municipal;
+
+III. Supervisar el envió de boletines informativos, fotografías y videos de actividades de la administración pública municipal a los medios de comunicación;
+
+IV. Diseñar desplegados para los periódicos;
+
+V. Recabar promocionales para radio de las actividades de la Administración Pública Municipal;
+
+VI. Elaborar los discursos en conjunto con el Director de comunicación social; y,
+
+VII. Enviar la agenda del Presidente Municipal a los medios de comunicación.
+
+2.- Coordinación de Producción y Medios; la cual tendrá como funciones las de:
+
+l. Organizar y coordinar todas las actividades y proyectos que se desarrollan dentro de la producción audiovisual y de diseño gráfico;
+
+II. Coordinar la producción y elaboración de guiones para spot publicitario de televisión, radio y videos informativos referentes a las actividades que promueve la Administración Pública Municipal;
+
+III. Coordinar las labores de diseño y producción;
+
+IV. Coordinar la producción creativa de campañas publicitarias del Ayuntamiento de Mexicali;
+
+V. Atender las solicitudes de dependencias y entidades del municipio en cuestiones de difusión en medios de comunicación;
+
+VI. Proporcionar atención a los diferentes medios de comunicación sobre publicidad de campañas institucionales de la Administración Pública Municipal; y,
+
+VII. Vigilar el cumplimiento del programa operativo anual.
+
+3.- Coordinación de Redes sociales; la cual tendrá como funciones las de:
+
+l. Actualizar Información procedente de Comunicación Social;
+
+II. Subir material gráfico y audiovisual relativo a actividades o campañas del Ayuntamiento;
+
+III. Atender y canalizar peticiones realizadas en el portal y redes sociales; y,
+
+IV. Gestionar los requerimientos para el cumplimiento de tareas y programas de trabajo.
+
+4.- Coordinación Administrativa; la cual tendrá como funciones las ya insertas, dentro del artículo 29 del presente Reglamento.
+
 ### CAPITULO DECIMO CUARTO. DE LA DIRECCION DE FOMENTO DEPORTIVO
 
 ###### ARTICULO 107.
@@ -3476,3 +3538,7 @@ SEGUNDO: Las presentes modificaciones entraran en vigor al día siguiente de su 
 P.O. 10 DE JUNIO DE 2011.
 
 SEGUNDO: Las presentes modificaciones entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 4 DE NOVIEMBRE DE 2011.
+
+SEGUNDO.- EL PRESENTE ACUERDO ENTRARÁ EN VIGOR AL DÍA SIGUIENTE DE SU PUBLICACIÓN EN EL PERIÓDICO OFICIAL DEL ESTADO DE BAJA CALIFORNIA.
