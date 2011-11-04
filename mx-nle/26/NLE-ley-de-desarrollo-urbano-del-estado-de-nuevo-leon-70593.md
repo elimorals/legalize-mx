@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-desarrollo-urbano-del-estado-de-nuevo-leon-70593"
 country: "mx"
 rank: "ley"
 publication_date: "2009-09-09"
-last_updated: "2011-01-19"
+last_updated: "2011-11-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70593&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE DESARROLLO URBANO DEL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE ENERO DE 2011.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE NOVIEMBRE DE 2011.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Nuevo León, el miércoles 9 de septiembre de 2009.
 
@@ -2195,7 +2195,9 @@ I. De alimentos y bebidas: restaurantes, cafeterías, taquerías y similares;
 
 II. Cabaret y centros nocturnos;
 
-III. Casas de juego, centros de apuestas, casinos y similares;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+III. (DEROGADA, P.O. 4 DE NOVIEMBRE DE 2011)
 
 > <small>(F. DE E., P.O. 9 DE NOVIEMBRE DE 2009)</small>
 
@@ -2268,6 +2270,12 @@ XX. Servicios públicos: depósitos de desechos sólidos domésticos, reformator
 XXI. Servicios de comunicaciones y transportes: ciber-cafés, correos, telégrafos, aeropuertos, helipuertos, estacionamiento de taxis, estaciones de radio y televisión; y
 
 XXII. Los demás que determinen los municipios en sus reglamentos y programas de centros de población.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 4 DE NOVIEMBRE DE 2011)</small>
+
+ARTÍCULO 127 BIS. Quedan prohibidos los usos de suelo y uso de edificación para casinos, centros de apuestas, salas de sorteos, casas de juego y similares. Los planes o programas de desarrollo urbano de los Municipios deberán establecer la prohibición de usos de suelo y uso de edificación para dichos establecimientos.
 
 ###### ARTÍCULO 128.
 
@@ -5664,3 +5672,7 @@ P.O. 19 DE ENERO DE 2011.
 DECRETO NUMERO 161 POR EL QUE SE REFORMAN LA FRACCION VII DEL ARTICULO 66, EL ULTIMO PARRAFO DEL ARTICULO 189, Y LA FRACCION III DEL ARTICULO 305, DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE NUEVO LEON.
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
+
+P.O. 4 DE NOVIEMBRE DE 2011.
+
+Único.- El presente Decreto entrará en vigor una vez iniciada la vigencia de la reforma a los Artículos 23 y 132 de la Constitución Política del Estado Libre y Soberano de Nuevo León; a fin de establecer la prohibición de usos de suelo y uso de edificación para casinos, centros de apuestas, salas de sorteos, casas de juego y similares.
