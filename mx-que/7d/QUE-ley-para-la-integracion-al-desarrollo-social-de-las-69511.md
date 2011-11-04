@@ -4,7 +4,7 @@ identifier: "QUE-ley-para-la-integracion-al-desarrollo-social-de-las-69511"
 country: "mx"
 rank: "ley"
 publication_date: "2009-07-31"
-last_updated: "2009-07-31"
+last_updated: "2011-11-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69511&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "QUE"
 
 LEY PARA LA INTEGRACIÓN AL DESARROLLO SOCIAL DE LAS PERSONAS CON DISCAPACIDAD EN EL ESTADO DE QUERÉTARO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY PARA LA INTEGRACIÓN AL DESARROLLO SOCIAL DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE QUERÉTARO, PUBLICADA EN EL P.O. 4 DE NOVIEMBRE DE 2011, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el viernes 31 de julio de 2009.
 
@@ -1000,3 +1002,23 @@ Lic. José Alfredo Botello Montes
 Secretario de Gobierno
 
 Rúbrica
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 4 DE NOVIEMBRE DE 2011.
+
+Artículo Primero. La presente Ley entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
+
+Artículo Segundo. Se abroga la Ley Para la Integración al Desarrollo Social de las Personas con discapacidad en el Estado de Querétaro, publicada en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga", el 31 de julio de 2009 y se derogan todas las disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
+
+Artículo Tercero. El titular del Poder Ejecutivo del Estado de Querétaro expedirá, en un plazo no mayor de 90 días naturales, contados a partir de la publicación de la presente Ley, el Catálogo de Recomendaciones de Accesibilidad, ordenando su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
+
+Artículo Cuarto. El titular del Poder Ejecutivo del Estado de Querétaro emitirá las normas reglamentarias previstas en esta ley, y que resulten necesarias para su aplicación, en un plazo no mayor de 180 días naturales contados a partir de la publicación de este ordenamiento legal, ordenando su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
+
+Artículo Quinto. El titular del Poder Ejecutivo del Estado emitirá la convocatoria para la conformación e instalación del Consejo Estatal para las Personas con Discapacidad, según lo establecido en los artículos 10, 11,12 y 13 de esta Ley, en un plazo no mayor de 90 días hábiles, contados a partir de la publicación de la presente Ley.
+
+Artículo Sexto. El titular del Poder Ejecutivo del Estado constituirá el Padrón Estatal de Personas con Discapacidad y el Padrón de Organizaciones e Instituciones Dedicadas a la Habilitación y Rehabilitación de Personas con Discapacidad, en un plazo no mayor de 180 días naturales contados a partir de la publicación de este cuerpo normativo, ordenando su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
+
+Artículo Séptimo. Las autoridades que conforman el Consejo, en coordinación con los municipios del Estado, a través de la Secretaría de Salud, la Secretaría del Trabajo y los Sistemas Municipales para el Desarrollo Integral de la Familia elaborarán el Programa Estatal de Prevención de las Discapacidades, en conjunto con las Organizaciones No Gubernamentales que correspondan, en un plazo no mayor a 180 días naturales, contados a partir de la publicación de esta Ley, y lo remitirán al titular del Poder Ejecutivo del Estado para su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
+
+Artículo Octavo. Para efectos de lo dispuesto en los artículos 25 y 26 de esta Ley, la presentación del Programa para su evaluación ante el Consejo, así como la presentación de los resultados de dicha evaluación, se realizará a partir del año 2013.
