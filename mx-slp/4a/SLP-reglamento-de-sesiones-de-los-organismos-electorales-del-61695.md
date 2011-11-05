@@ -4,7 +4,7 @@ identifier: "SLP-reglamento-de-sesiones-de-los-organismos-electorales-del-61695"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-06-10"
-last_updated: "2008-06-10"
+last_updated: "2011-11-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61695&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "SLP"
 
 REGLAMENTO DE SESIONES DE LOS ORGANISMOS ELECTORALES
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO DE SESIONES DE LOS ORGANISMOS ELECTORALES, PUBLICADO EN EL P.O. DE 5 DE NOVIEMBRE DE 2011, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
 
 Reglamento publicado en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el martes 10 de junio de 2008.
 
@@ -466,3 +468,11 @@ Lic. Rafael Rentería Armendáriz.
 Secretario de Actas.
 
 (Rúbrica)
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 5 DE NOVIEMBRE DE 2011.
+
+PRIMERO. El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Con la vigencia del presente acuerdo se abroga el Reglamento de Sesiones de los Organismo (sic) Electorales, expedido por acuerdo del Pleno del Consejo número 20/05/2008 de fecha 23 de mayo del año dos mil 2008.
