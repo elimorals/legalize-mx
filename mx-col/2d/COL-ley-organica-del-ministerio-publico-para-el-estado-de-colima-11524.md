@@ -4,7 +4,7 @@ identifier: "COL-ley-organica-del-ministerio-publico-para-el-estado-de-colima-11
 country: "mx"
 rank: "ley_organica"
 publication_date: "1997-10-04"
-last_updated: "2009-05-09"
+last_updated: "2011-11-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11524&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "COL"
 ---
 # LEY ORGANICA DEL MINISTERIO PUBLICO PARA EL ESTADO DE COLIMA
 
-LEY ORGANICA DEL MINISTERIO PUBLICO PARA EL ESTADO DE COLIMA
+LEY ORGÁNICA DEL MINISTERIO PUBLICO PARA EL ESTADO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE MAYO DE 2009.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE NOVIEMBRE DE 2011.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Colima, el sábado 4 de octubre de 1997.
 
@@ -383,9 +383,27 @@ XIV.- Rendir a la Dirección General de Averiguaciones Previas o a la de Control
 
 XV.- Turnar al Consejo Tutelar para Menores del Estado de Colima, a los infractores que así procediere;
 
-XVI.- Vigilar por la exacta observancia y aplicación de las leyes el interés general y procurar justicia en todos los ámbitos de la sociedad; y
+> <small>(REFORMADA, P.O. 7 DE NOVIEMBRE DE 2011)</small>
 
-XVII.- Las demás consignadas en la Constitución Política del Estado y Leyes que de ella emanen.
+XVI.- Vigilar por la exacta observancia y aplicación de las leyes el interés general y procurar justicia en todos los ámbitos de la sociedad;
+
+> <small>(ADICIONADA, P.O. 7 DE NOVIEMBRE DE 2011)</small>
+
+XVII.- Informar a la autoridad administrativa competente cuando tenga conocimiento que el propietario, poseedor, arrendatario o usufructuario de un establecimiento de cualquier naturaleza lo empleara para realizar cualquiera de las conductas tipificadas como delitos contra la salud en su modalidad de narcomenudeo previstas en el Capítulo VII, del Título Décimo Octavo de la ley General de Salud, o que permitiera su realización por terceros, para que, en ejercicio de sus atribuciones, realice la clausura del establecimiento, sin perjuicio de las sanciones penales correspondientes;
+
+> <small>(ADICIONADA, P.O. 7 DE NOVIEMBRE DE 2011)</small>
+
+XVIII.- Llevar a cabo la preparación y el ejercicio de la acción penal ante los tribunales del fuero común, en los delitos contra la salud en su modalidad de narcomenudeo, de conformidad con lo dispuesto por el artículo 474 y demás relativos del Capítulo VII, del Título Décimo Octavo de la Ley General de Salud, debiendo proceder en términos del artículo 19 Bis del Código de Procedimientos Penales del Estado;
+
+> <small>(ADICIONADA, P.O. 7 DE NOVIEMBRE DE 2011)</small>
+
+XIX.- No ejercer la acción penal en el delito contra la salud en su modalidad de narcomenudeo previsto en el artículo 477 de la Ley General de Salud, cuando se colme la hipótesis establecida en el artículo 478 de la misma Ley;
+
+> <small>(ADICIONADA, P.O. 7 DE NOVIEMBRE DE 2011)</small>
+
+XX.- Remitir oficio que contenga los datos del farmacodependiente a la Secretaría de Salud y Bienestar Social del Gobierno del Estado, en los delitos contra la salud en su modalidad de narcomenudeo, a efectos de que aquella lo cite para proporcionarle orientación y conminarlo a tomar parte en los programas contra la farmacodependencia, al tercer reporte de la autoridad ministerial, el tratamiento del farmacodependiente será obligatorio; y
+
+XXI.- Las demás consignadas en la Constitución Política del Estado y Leyes que de ella emanen.
 
 > <small>(ADICIONADO, P.O. 9 DE MAYO DE 2009)</small>
 
@@ -401,7 +419,9 @@ El Ministerio Público es parte legítima:
 
 I.- En los Juicios Civiles que ante los Tribunales del Orden Común sigan como demandantes, demandados o terceros, el Estado, sus Dependencias y corporaciones que no tengan representante especial;
 
-II.- En los Procesos instruidos en contra de los autores, cómplices y encubridores de los delitos y faltas comunes u oficiales de que deban conocer los Tribunales del Estado;
+> <small>(REFORMADA, P.O. 7 DE NOVIEMBRE DE 2011)</small>
+
+II.- En los Procesos instruidos en contra de los autores, cómplices y encubridores de los delitos y faltas comunes u oficiales de que deban conocer los Tribunales del Estado, así como en los delitos contra la salud en su modalidad de narcomenudeo, en los términos establecidos en el artículo 474 y demás relativos del Capítulo VII, del Título Décimo Octavo de la Ley General de Salud.
 
 III.- En los Juicios que ante los Tribunales Federales, aparezca el Estado como parte legítima.
 
@@ -424,6 +444,14 @@ En la imposición de cualquiera de los medios de apremio anteriores, deberá dej
 ###### ARTICULO 36.
 
 Para la comprobación de los elementos del tipo penal, el Ministerio Público gozará de amplias facultades, pudiendo utilizar los medios de prueba e investigación que estime procedentes, siempre que no estén expresamente prohibidas por la Ley.
+
+> <small>(ADICIONADO, P.O. 7 DE NOVIEMBRE DE 2011)</small>
+
+ARTICULO 36 BIS.- Tratándose de los delitos de narcomenudeo previstos en los artículos 475, 476 y 477 de la Ley General de Salud, el Ministerio Público Federal para fines de investigación podrá autorizar al Ministerio Público del fuero común cuando lo estime pertinente, para que por conducto de la policía de procuración de justicia, bajo su conducción y mando, empleen las técnicas de investigación consistentes en comprar, adquirir o recibir la transmisión material de algún narcótico para lograr la detención del probable responsable del comercio o suministro de narcóticos o de la posesión de los mismos con dichos fines y el aseguramiento correspondiente.
+
+En la autorización a que se refiere el párrafo precedente, el Ministerio Público Federal, deberá señalar por escrito en la orden respectiva los lineamientos, términos, limitaciones, modalidades y condiciones a los que debe sujetarse el agente o agentes de la policía que deberán ejecutar la orden.
+
+En las actividades que desarrollen el o los policías que ejecuten la orden se considerará que actúan en cumplimiento de un deber, siempre que su actuación se apegue a los lineamientos, términos, modalidades, limitaciones y condiciones señalados en la orden que, por escrito, deberá emitir el Ministerio Público Federal, a que se refiere el párrafo anterior.
 
 ###### ARTICULO 37.
 
@@ -1199,8 +1227,20 @@ Por lo tanto mando se imprima, publique, circule y observe.
 
 Dado en Palacio de Gobierno, a los treinta días del mes de septiembre de mil novecientos noventa y siete.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, LIC. CARLOS DE LA MADRID VIRGEN.- Rúbrica.- EL SECRETARIO GENERAL DE GOBIERNO, LIC. RAMON PEREZ DIAZ.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 9 DE MAYO DE 2009.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 7 DE NOVIEMBRE DE 2011.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+SEGUNDO.- Las autoridades e instituciones del Estado deberán realizar las acciones necesarias a fin de dar el debido cumplimiento a las atribuciones contenidas en el presente Decreto, a más tardar el 21 de agosto del 2012.
+
+TERCERO.- Los procedimientos penales que se estén substanciando a la entrada en vigor del presente Decreto, se seguirán conforme las disposiciones vigentes al momento de la comisión de los hechos.
+
+CUARTO.- El Gobierno Federal deberá financiar las acciones derivadas del cumplimiento del Decreto número 211, aprobado por el Congreso de la Unión, por el que se reforman, adicionan y derogan diversas disposiciones de la Ley General de Salud, del Código Penal Federal y del Código Federal de Procedimientos Penales, publicado en el Diario Oficial de la Federación el 20 de agosto de 2009, con los recursos que anualmente se prevean en el Presupuesto de Egresos de la Federación, en términos del Artículo Cuarto Transitorio del citado Decreto.
+
+QUINTO.- Los Poderes Ejecutivo y Legislativo Estatales deberán prever y realizar las acciones necesarias para asegurar los recursos en el Presupuesto de Egresos del Estado, a fin de que las autoridades del fuero común puedan dar cumplimiento a la competencia y atribuciones establecidas en el Decreto número 211, referido en el artículo anterior.
