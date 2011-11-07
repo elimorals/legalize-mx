@@ -4,7 +4,7 @@ identifier: "COL-ley-del-sistema-de-seguridad-publica-para-el-estado-de-72610"
 country: "mx"
 rank: "ley"
 publication_date: "2010-01-23"
-last_updated: "2010-04-24"
+last_updated: "2011-11-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=72610&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DEL SISTEMA DE SEGURIDAD PUBLICA PARA EL ESTADO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE ABRIL DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE NOVIEMBRE DE 2011.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Colima, el sábado 23 de enero de 2010.
 
@@ -529,7 +529,7 @@ VIII. Las demás que sean necesarias para cumplir los objetivos de esta Ley.
 
 El Secretario Ejecutivo Municipal será designado y removido libremente por el Presidente del Consejo Municipal.
 
-El Secretario Ejecutivo, tanto municipal como intermunicipal, deberán cumplir con los requisitos que señala el artículo I7del presente ordenamiento y tendrá, en lo conducente, las funciones a que se refiere el artículo 18 de esta Ley.
+El Secretario Ejecutivo, tanto municipal como intermunicipal, deberán cumplir con los requisitos que señala el artículo 17 del presente ordenamiento y tendrá, en lo conducente, las funciones a que se refiere el artículo 18 de esta Ley.
 
 ### CAPÍTULO V. DE LAS REGLAS COMUNES PARA LOS CONSEJOS DE SEGURIDAD PÚBLICA
 
@@ -673,7 +673,7 @@ VII. Aplicar y vigilar en coordinación con las autoridades competentes el cumpl
 
 VIII. Gestionar recursos y apoyos, y desarrollar actividades que contribuyan al bienestar social de su comunidad.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE ABRIL DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE ABRIL DE 2010)</small>
 
 ###### ARTÍCULO 36.
 
@@ -723,7 +723,7 @@ Las reglas anteriores podrán ser complementadas por otras que emitan los Consej
 
 ### CAPÍTULO VII. DEL CONSEJO CIUDADANO PARA LA SEGURIDAD PÚBLICA
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE ABRIL DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE ABRIL DE 2010)</small>
 
 ###### ARTÍCULO 39.
 
@@ -1121,11 +1121,11 @@ b) Remoción por incurrir en causas de responsabilidad con motivo de su encargo.
 
 ###### ARTÍCULO 74.
 
-En caso de que los órganos jurisdiccionales determinen que la resolución por la que se impone la separación o remoción es injustificada, la institución respectiva sólo estará obligada a la indemnización y al otorgamiento de las prestaciones a que tenga derecho la persona removida, sin que en ningún caso proceda su reincorporación al servicio, cualquiera que sea el resultado del juicio o medio de defensa que se hubiese promovido de conformidad con el artículo I23, Apartado B, fracción XIII, de la Constitución Política de los Estados Unidos Mexicanos. Tal circunstancia será inscrita en el Registro Nacional correspondiente.
+En caso de que los órganos jurisdiccionales determinen que la resolución por la que se impone la separación o remoción es injustificada, la institución respectiva sólo estará obligada a la indemnización y al otorgamiento de las prestaciones a que tenga derecho la persona removida, sin que en ningún caso proceda su reincorporación al servicio, cualquiera que sea el resultado del juicio o medio de defensa que se hubiese promovido de conformidad con el artículo 123, Apartado B, fracción XIII, de la Constitución Política de los Estados Unidos Mexicanos. Tal circunstancia será inscrita en el Registro Nacional correspondiente.
 
 La legislación correspondiente establecerá la forma para calcular la cuantía de la indemnización que, en su caso, deba cubrirse.
 
-### CAPÍTULO V. DE LA PROFESIONALlZACIÓN
+### CAPÍTULO V. DE LA PROFESIONALIZACIÓN
 
 ###### ARTÍCULO 75.
 
@@ -1413,9 +1413,17 @@ VIII. Prestar el auxilio que le sea posible a quienes están amenazados de un pe
 
 IX. Recurrir a medios no violentos antes de emplear la fuerza y las armas; éstas sólo podrán usarse cuando sea estrictamente necesario, de acuerdo con el grado de peligrosidad y en la medida que lo requiera el hecho específico;
 
-X. Velar por la vida e integridad física y proteger los bienes y derechos de las personas detenidas o que se encuentran bajo su custodia; y
+> <small>(REFORMADA, P.O. 7 DE NOVIEMBRE DE 2011)</small>
 
-XI. No infligir ni tolerar actos de tortura, tratos crueles, inhumanos o degradantes a aquellas personas que se encuentren bajo su custodia, aun cuando se trate de cumplir con la orden de un superior o se argumenten circunstancias especiales como amenaza a la seguridad pública, urgencia de las investigaciones o cualquier otra. En el caso de tener conocimiento de tales actos, deberán denunciarlos inmediatamente ante la autoridad competente.
+X. Velar por la vida e integridad física y proteger los bienes y derechos de las personas detenidas o que se encuentran bajo su custodia;
+
+> <small>(REFORMADA, P.O. 7 DE NOVIEMBRE DE 2011)</small>
+
+XI. No infligir ni tolerar actos de tortura, tratos crueles, inhumanos o degradantes a aquellas personas que se encuentren bajo su custodia, aun cuando se trate de cumplir con la orden de un superior o se argumenten circunstancias especiales como amenaza a la seguridad pública, urgencia de las investigaciones o cualquier otra. En el caso de tener conocimiento de tales actos, deberán denunciarlos inmediatamente ante la autoridad competente; y
+
+> <small>(ADICIONADA, P.O. 7 DE NOVIEMBRE DE 2011)</small>
+
+XII. Participar en la prevención y combate a las actividades de posesión, comercio o suministro de estupefacientes y psicotrópicos cuando las mismas se realicen en lugares públicos, en términos de la Ley General de Salud.
 
 ### CAPÍTULO II. DE LA PREVENCIÓN, PERSECUCIÓN E INVESTIGACIÓN DE LOS DELITOS, FALTAS ADMINISTRATIVAS E INFRACCIONES
 
@@ -2889,7 +2897,7 @@ XII. Por permitir que su personal operativo, desempeñe el servicio que se le as
 
 XIII. Por permitir que su personal operativo utilice el uniforme, credencial y armamento fuera del servicio que presta;
 
-XIV. Por no notificar a la Dirección de Seguridad Privada, los cambios que se produzcan en relación con las condiciones administrativas y operativas que integren el expediente de su autorización y registro y, en su caso, el de su revalidación, de su parque vehicular, razón social o domicilio, baja temporal o definitiva en sus actividades como empresa de seguridad privada, en un plazo no mayor de I5 días hábiles;
+XIV. Por no notificar a la Dirección de Seguridad Privada, los cambios que se produzcan en relación con las condiciones administrativas y operativas que integren el expediente de su autorización y registro y, en su caso, el de su revalidación, de su parque vehicular, razón social o domicilio, baja temporal o definitiva en sus actividades como empresa de seguridad privada, en un plazo no mayor de 15 días hábiles;
 
 XV. Por no solicitar oportunamente la revalidación anual de la autorización y registro, dentro de los 30 días hábiles anteriores a la fecha de vencimiento;
 
@@ -2965,7 +2973,7 @@ PRIMERO.- La presente Ley entrará en vigor al día siguiente de su publicación
 
 SEGUNDO.- El Ejecutivo del Estado dispondrá máximo de 180 días naturales, contados a partir de la entrada en vigor del presente Ordenamiento, a fin de que expidan los Reglamentos correspondientes a que hace referencia esta Ley.
 
-TERCERO.- Se abroga la Ley de Seguridad Pública para el Estado de Colima, publicada en el Periódico Oficial "El Estado de Colima" el día I7 de junio de 2006, mediante Decreto No. 390, así como las demás disposiciones que se opongan a la presente Ley.
+TERCERO.- Se abroga la Ley de Seguridad Pública para el Estado de Colima, publicada en el Periódico Oficial "El Estado de Colima" el día 17 de junio de 2006, mediante Decreto No. 390, así como las demás disposiciones que se opongan a la presente Ley.
 
 CUARTO.- Para todos los efectos legales a que diera lugar, en tanto se adecua la presente Ley, se deberá entender por Policía Ministerial a la denominada Policía de Procuración de Justicia, lo cual deberá hacerse en un plazo no mayor a 120 días naturales contados a partir de la entrada en vigor de la presente Ley.
 
@@ -2983,7 +2991,7 @@ NOVENO.- En el caso del Municipio de Colima, en tanto el Ayuntamiento asuma la f
 
 Asimismo, a efecto de dar cumplimiento al artículo 87 de esta Ley, el Centro Preventivo Municipal de Colima, tendrá la obligación de dar el aviso administrativo correspondiente de manera inmediata al Centro Estatal de Información, a través del informe policial homologado.
 
-DÉCIMO.- Los elementos de seguridad pública que no obtengan el certificado serán separados del servicio, observando lo dispuesto en el artículo I23, Apartado B, Fracción XIII, de la Constitución Política de los Estados Unidos Mexicanos.
+DÉCIMO.- Los elementos de seguridad pública que no obtengan el certificado serán separados del servicio, observando lo dispuesto en el artículo 123, Apartado B, Fracción XIII, de la Constitución Política de los Estados Unidos Mexicanos.
 
 DÉCIMO PRIMERO.- De manera progresiva y en un plazo de cuatro años a partir de la entrada en vigor de esta Ley, las instituciones de seguridad pública, por conducto de los centros de evaluación, control y confianza, deberán practicar las evaluaciones respectivas a sus integrantes, de conformidad con lo dispuesto en esta Ley y sus respectivos ordenamientos legales.
 
@@ -2997,12 +3005,24 @@ C. FRANCISCO ALBERTO ZEPEDA GONZÁLEZ, Diputado Presidente. Rúbrica. C. ALFREDO
 
 Por lo tanto mando se imprima, publique, circule y observe.
 
-Dado en Palacio de Gobierno, al día 2I del mes de Enero del año dos mil diez.
+Dado en Palacio de Gobierno, al día 21 del mes de Enero del año dos mil diez.
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, LIC. MARIO ANGUIANO MORENO. Rúbrica. EL SECRETARIO GENERAL DE GOBIERNO, DR. J. JESÚS OROZCO ALFARO. Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 24 DE ABRIL DE 2010.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 7 DE NOVIEMBRE DE 2011.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+SEGUNDO.- Las autoridades e instituciones del Estado deberán realizar las acciones necesarias a fin de dar el debido cumplimiento a las atribuciones contenidas en el presente Decreto, a más tardar el 21 de agosto del 2012.
+
+TERCERO.- Los procedimientos penales que se estén substanciando a la entrada en vigor del presente Decreto, se seguirán conforme las disposiciones vigentes al momento de la comisión de los hechos.
+
+CUARTO.- El Gobierno Federal deberá financiar las acciones derivadas del cumplimiento del Decreto número 211, aprobado por el Congreso de la Unión, por el que se reforman, adicionan y derogan diversas disposiciones de la Ley General de Salud, del Código Penal Federal y del Código Federal de Procedimientos Penales, publicado en el Diario Oficial de la Federación el 20 de agosto de 2009, con los recursos que anualmente se prevean en el Presupuesto de Egresos de la Federación, en términos del Artículo Cuarto Transitorio del citado Decreto.
+
+QUINTO.- Los Poderes Ejecutivo y Legislativo Estatales deberán prever y realizar las acciones necesarias para asegurar los recursos en el Presupuesto de Egresos del Estado, a fin de que las autoridades del fuero común puedan dar cumplimiento a la competencia y atribuciones establecidas en el Decreto número 211, referido en el artículo anterior.
