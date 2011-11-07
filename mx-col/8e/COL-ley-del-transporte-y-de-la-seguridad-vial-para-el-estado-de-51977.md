@@ -4,7 +4,7 @@ identifier: "COL-ley-del-transporte-y-de-la-seguridad-vial-para-el-estado-de-519
 country: "mx"
 rank: "ley"
 publication_date: "2006-09-23"
-last_updated: "2009-08-22"
+last_updated: "2011-11-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51977&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DEL TRANSPORTE Y DE LA SEGURIDAD VIAL PARA EL ESTADO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE AGOSTO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE NOVIEMBRE DE 2011.
 
 Ley publicada en el Periódico Oficial del Estado de Colima, el sábado 23 de septiembre de 2006.
 
@@ -899,9 +899,11 @@ III. Cuando la capacidad de carga por peso, dimensiones o volumen excedan de las
 
 IV. En relación al transporte de cargas peligrosas se obliga a la presentación de los documentos debidos sobre el contenido del tipo de materiales que es transportado, así como que la unidad utilizada lleve los señalamientos que por norma deben de portar en el caso de transporte de cargas peligrosas.
 
+> <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2011)</small>
+
 ###### ARTÍCULO 54.
 
-En el caso de traslado de cargas peligrosas en el territorio estatal, el usuario y el prestador del servicio están obligados a registrar, el tipo de características del material sujeto a transportarse, así mismo, las unidades utilizadas deberán portar los señalamientos que de acuerdo a las normas establecidas para el traslado de cargas y sustancias peligrosas lo disponga.
+En el caso de traslado de cargas peligrosas en el territorio estatal, el usuario y el prestador del servicio están obligados a registrar, el tipo de características del material sujeto a transportarse; así mismo, no podrán circular por áreas centrales o vías públicas urbanas de ciudades y poblados. Al efecto, utilizarán los libramientos periféricos o vías alternas cuando éstos existan, a excepción de la autorización mediante oficio expedido por la autoridad respectiva, siempre que cumplan con todas las medidas de seguridad necesarias. Además, las unidades utilizadas deberán portar los señalamientos que de acuerdo a las normas establecidas para el traslado de cargas y sustancias peligrosas lo disponga.
 
 > <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2009)</small>
 
@@ -1564,6 +1566,10 @@ El Reglamento de la presente Ley establecerá el procedimiento, términos, condi
 ###### ARTÍCULO 121.
 
 El peso, dimensiones y capacidad a que se deben sujetar los vehículos del servicio de transporte que transiten en el Estado, se estipularán en el Reglamento.
+
+> <small>(ADICIONADO, P.O. 7 DE NOVIEMBRE DE 2011)</small>
+
+Los operadores de vehículos que transporten sustancias o materiales que excedan el peso, dimensión y capacidad señalada en el Reglamento, se abstendrán de circular por áreas centrales o vías públicas urbanas de ciudades y poblados. Al efecto, utilizarán los libramientos periféricos o vías alternas cuando éstos existan, a excepción de la autorización mediante oficio expedido por la autoridad respectiva, siempre que cumplan con todas las medidas de seguridad necesarias.
 
 ### CAPÍTULO III. De la Enajenación o Transmisión de las Concesiones
 
@@ -2279,11 +2285,17 @@ d) Conducir vehículos del servicio de transporte en estado de ebriedad o bajo l
 
 e) Alterar las tarifas o cobrar éstas cuando no hayan sido previamente autorizadas por la autoridad competente;
 
-f) Alterar o modificar en cualquier forma sin aprobación expresa y por escrito de la Dirección General, el diseño, estructura o construcción original de las unidades afectas al servicio; y
+> <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2011)</small>
 
-> <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2009)</small>
+f) Alterar o modificar en cualquier forma sin aprobación expresa y por escrito de la Dirección General, el diseño, estructura o construcción original de las unidades afectas al servicio;
 
-g) Transportar o circular por las vías públicas de competencia estatal o municipal, con vehículos que transporten materiales peligrosos sin el permiso autorizado por la autoridad federal competente.
+> <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2011)</small>
+
+g) Transportar o circular por las vías públicas de competencia estatal o municipal, con vehículos que transporten materiales peligrosos sin el permiso autorizado por la autoridad federal competente; y
+
+> <small>(ADICIONADO, P.O. 7 DE NOVIEMBRE DE 2011)</small>
+
+h) Circular en transporte público o privado con cargas o sustancias peligrosas por áreas centrales o vías públicas urbanas de ciudades o poblados, cuando existan libramientos periféricos o vías alternas, a excepción de la autorización mediante oficio expedido por la autoridad respectiva.
 
 V.- Son causales de suspensión:
 
@@ -2430,3 +2442,7 @@ P.O. 30 DE JUNIO DE 2007.
 P.O. 22 DE AGOSTO DE 2009.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 7 DE NOVIEMBRE DE 2011.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
