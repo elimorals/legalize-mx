@@ -4,7 +4,7 @@ identifier: "COL-ley-de-prevencion-y-readaptacion-social-para-el-estado-de-12433
 country: "mx"
 rank: "ley"
 publication_date: "1997-08-02"
-last_updated: "2010-10-09"
+last_updated: "2011-11-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12433&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DE PREVENCION Y READAPTACION SOCIAL PARA EL ESTADO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE OCTUBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE NOVIEMBRE DE 2011.
 
 Ley publicada en el Periódico Oficial del Estado de Colima, el sábado 2 de agosto de 1997.
 
@@ -105,53 +105,57 @@ I.- Crear un sistema integral estatal de instituciones de tratamiento penal, que
 
 II.- Establecer los centros de observación y clasificación necesarios, fijos e itinerantes, para realizar las fases de estudio, diagnóstico, pronóstico y tratamiento psiquiátrico, psicológico, pedagógico, de trabajo social y laboral;
 
-III.- Planificar, organizar, coordinar y dirigir la política criminológico-penitenciaria que, con base en esta Ley, se lleve a cabo en la entidad, tanto en lo que se refiere a la prevención del delito como en lo que atañe al tratamiento del delincuente;
+> <small>(ADICIONADA, P.O. 7 DE NOVIEMBRE DE 2011)</small>
 
-IV.- La distribución, traslado, custodia, vigilancia y tratamiento de toda persona privada de su libertad por resolución de los tribunales del Estado o autoridades competentes, desde el momento de su ingreso a cualquier establecimiento a su cargo;
+III.- Prestar servicios de rehabilitación a los farmacodependientes al interior de los centros de reclusión, debiendo observar al respecto lo dispuesto por los artículos 4 y 62 de la Ley para la Prevención, Tratamiento y Control de las Adicciones en el Estado de Colima;
 
-V.- Proponer al titular del Poder Ejecutivo, los proyectos de reglamentos, así como las circulares y demás disposiciones administrativas conforme a las que habrán de regirse las cárceles y centros de reclusión, así como vigilar su cumplimiento;
+IV.- Planificar, organizar, coordinar y dirigir la política criminológico-penitenciaria que, con base en esta Ley, se lleve a cabo en la entidad, tanto en lo que se refiere a la prevención del delito como en lo que atañe al tratamiento del delincuente;
 
-VI.- Aplicar un sistema educativo especializado para infractores;
+V.- La distribución, traslado, custodia, vigilancia y tratamiento de toda persona privada de su libertad por resolución de los tribunales del Estado o autoridades competentes, desde el momento de su ingreso a cualquier establecimiento a su cargo;
 
-VII.- Planificar el trabajo de las instituciones penales, desde el punto de vista a que se refieren la Constitución General de la República, la presente Ley y las recomendaciones en la materia contenidas en los tratados internacionales suscritos por nuestro país. En dicha planeación se contemplará la posible liberación de la carga económica que representa el mantenimiento de las instalaciones y el sostenimiento de los internos;
+VI.- Proponer al titular del Poder Ejecutivo, los proyectos de reglamentos, así como las circulares y demás disposiciones administrativas conforme a las que habrán de regirse las cárceles y centros de reclusión, así como vigilar su cumplimiento;
 
-VIII.- Seleccionar y capacitar, de conformidad con los criterios expuestos en esta Ley, al personal de prisiones en los niveles ejecutivo, administrativo, técnico, de servicios generales y de custodia;
+VII.- Aplicar un sistema educativo especializado para infractores;
 
-IX.- Supervisar el tratamiento del sistema progresivo técnico, en todas sus fases;
+VIII.- Planificar el trabajo de las instituciones penales, desde el punto de vista a que se refieren la Constitución General de la República, la presente Ley y las recomendaciones en la materia contenidas en los tratados internacionales suscritos por nuestro país. En dicha planeación se contemplará la posible liberación de la carga económica que representa el mantenimiento de las instalaciones y el sostenimiento de los internos;
 
-X.- Implantar el sistema de sanciones y estímulos que sean convenientes en cada institución;
+IX.- Seleccionar y capacitar, de conformidad con los criterios expuestos en esta Ley, al personal de prisiones en los niveles ejecutivo, administrativo, técnico, de servicios generales y de custodia;
 
-XI.- Tramitar las solicitudes de libertad preparatoria, remisión parcial de la pena, prelibertad y los demás beneficios que concede esta Ley;
+X.- Supervisar el tratamiento del sistema progresivo técnico, en todas sus fases;
 
-XII.- Supervisar, con el auxilio del Consejo Técnico Interdisciplinario respectivo, cuando así se requiera, a las personas que gocen de alguno o varios de los beneficios institucionales, a fin de ratificar el beneficio concedido;
+XI.- Implantar el sistema de sanciones y estímulos que sean convenientes en cada institución;
 
-XIII.- Constituir un patronato que prestará la ayuda moral y material que requieran los liberados de todos los reclusorios de la entidad;
+XII.- Tramitar las solicitudes de libertad preparatoria, remisión parcial de la pena, prelibertad y los demás beneficios que concede esta Ley;
 
-XIV.- Integrar un patronato que prestará la atención moral y material a las víctimas de delitos e infracciones;
+XIII.- Supervisar, con el auxilio del Consejo Técnico Interdisciplinario respectivo, cuando así se requiera, a las personas que gocen de alguno o varios de los beneficios institucionales, a fin de ratificar el beneficio concedido;
 
-XV.- Someter a la aprobación del Ejecutivo la creación del Instituto de Ciencias Penales;
+XIV.- Constituir un patronato que prestará la ayuda moral y material que requieran los liberados de todos los reclusorios de la entidad;
 
-XVI.- Organizar museos criminológicos de la delincuencia estatal y regional;
+XV.- Integrar un patronato que prestará la atención moral y material a las víctimas de delitos e infracciones;
 
-XVII.- Asesorar, orientar, auxiliar y supervisar el trabajo penitenciario en las cárceles municipales, previo convenio con los Ayuntamientos respectivos;
+XVI.- Someter a la aprobación del Ejecutivo la creación del Instituto de Ciencias Penales;
 
-XVIII.- Supervisar el cumplimiento de las disposiciones que emanen de la presente Ley;
+XVII.- Organizar museos criminológicos de la delincuencia estatal y regional;
 
-XIX.- Proponer al Secretario General de Gobierno las necesidades en cuanto a obras para el mejor funcionamiento del tratamiento readaptatorio, vigilando el estricto cumplimiento presupuestal de las mismas y la aplicación de los recursos que se otorguen para tal efecto;
+XVIII.- Asesorar, orientar, auxiliar y supervisar el trabajo penitenciario en las cárceles municipales, previo convenio con los Ayuntamientos respectivos;
+
+XIX.- Supervisar el cumplimiento de las disposiciones que emanen de la presente Ley;
+
+XX.- Proponer al Secretario General de Gobierno las necesidades en cuanto a obras para el mejor funcionamiento del tratamiento readaptatorio, vigilando el estricto cumplimiento presupuestal de las mismas y la aplicación de los recursos que se otorguen para tal efecto;
 
 > <small>(REFORMADA, P.O. 8 DE FEBRERO DE 2007)</small>
 
-XX.- Recibir, autorizar y, en su caso, negar la autorización a las propuestas de tipo laboral que hagan los directores de centros de readaptación, las que invariablemente se formularán de conformidad con las instrucciones de la Secretaría de Administración de Gobierno del Estado y el perfil más adecuado en cuanto a la propuesta;
+XXI.- Recibir, autorizar y, en su caso, negar la autorización a las propuestas de tipo laboral que hagan los directores de centros de readaptación, las que invariablemente se formularán de conformidad con las instrucciones de la Secretaría de Administración de Gobierno del Estado y el perfil más adecuado en cuanto a la propuesta;
 
 > <small>(ADICIONADA, P.O. 19 DE ENERO DE 2002)</small>
 
-XXI.- Crear el Consejo Técnico Interdisciplinario de la DIRECCION; y
+XXII.- Crear el Consejo Técnico Interdisciplinario de la DIRECCION; y
 
 > <small>(ADICIONADA, P.O. 9 DE OCTUBRE DE 2010)</small>
 
-XXII.- Proporcionar, previa solicitud, constancias de antecedentes no penales, así como de otros documentos, en forma física o electrónica, firmados en forma autógrafa o con la firma electrónica certificada, a las autoridades competentes y particulares legitimados que así lo requieran para el ejercicio de un derecho o cumplimiento de un deber previsto en la ley; y
+XXIII.- Proporcionar, previa solicitud, constancias de antecedentes no penales, así como de otros documentos, en forma física o electrónica, firmados en forma autógrafa o con la firma electrónica certificada, a las autoridades competentes y particulares legitimados que así lo requieran para el ejercicio de un derecho o cumplimiento de un deber previsto en la ley; y
 
-XXIII.- Las demás que se deriven de la presente Ley y otras disposiciones aplicables.
+XXIV.- Las demás que se deriven de la presente Ley y otras disposiciones aplicables.
 
 ### CAPITULO III. DEL SISTEMA PENITENCIARIO DEL ESTADO
 
@@ -607,6 +611,10 @@ La condena del beneficiado por nuevo delito doloso cometido antes de la extinci�
 
 En caso de hacerse efectiva la pena de prisión sustituida se tomará en cuenta proporcionalmente la sanción substitutiva compurgada.
 
+> <small>(ADICIONADO, P.O. 7 DE NOVIEMBRE DE 2011)</small>
+
+Para el otorgamiento de los beneficios consignados en esta Ley, que en su caso procedan, no se considerará como antecedente de mala conducta, el que se le haya considerado farmacodependiente, pero si se exigirá en todo caso que el sentenciado se someta al tratamiento médico correspondiente para su rehabilitación, bajo vigilancia de la DIRECCIÓN.
+
 #### SECCION VI. DEL TRATAMIENTO EN LIBERTAD
 
 ###### ARTICULO 78.
@@ -794,3 +802,15 @@ P.O. 13 DE JUNIO DE 2009.
 P.O. 9 DE OCTUBRE DE 2010.
 
 ÚNICO.- El presente Decreto entrará en vigor el día de su aprobación y deberá publicarse en el Periódico Oficial "El Estado de Colima".
+
+P.O. 7 DE NOVIEMBRE DE 2011.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+SEGUNDO.- Las autoridades e instituciones del Estado deberán realizar las acciones necesarias a fin de dar el debido cumplimiento a las atribuciones contenidas en el presente Decreto, a más tardar el 21 de agosto del 2012.
+
+TERCERO.- Los procedimientos penales que se estén substanciando a la entrada en vigor del presente Decreto, se seguirán conforme las disposiciones vigentes al momento de la comisión de los hechos.
+
+CUARTO.- El Gobierno Federal deberá financiar las acciones derivadas del cumplimiento del Decreto número 211, aprobado por el Congreso de la Unión, por el que se reforman, adicionan y derogan diversas disposiciones de la Ley General de Salud, del Código Penal Federal y del Código Federal de Procedimientos Penales, publicado en el Diario Oficial de la Federación el 20 de agosto de 2009, con los recursos que anualmente se prevean en el Presupuesto de Egresos de la Federación, en términos del Artículo Cuarto Transitorio del citado Decreto.
+
+QUINTO.- Los Poderes Ejecutivo y Legislativo Estatales deberán prever y realizar las acciones necesarias para asegurar los recursos en el Presupuesto de Egresos del Estado, a fin de que las autoridades del fuero común puedan dar cumplimiento a la competencia y atribuciones establecidas en el Decreto número 211, referido en el artículo anterior.
