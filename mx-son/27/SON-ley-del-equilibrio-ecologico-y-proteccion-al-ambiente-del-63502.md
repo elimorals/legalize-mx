@@ -4,7 +4,7 @@ identifier: "SON-ley-del-equilibrio-ecologico-y-proteccion-al-ambiente-del-63502
 country: "mx"
 rank: "ley"
 publication_date: "2008-09-25"
-last_updated: "2008-09-25"
+last_updated: "2011-11-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=63502&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "SON"
 ---
 # LEY DEL EQUILIBRIO ECOLOGICO Y PROTECCION AL AMBIENTE DEL ESTADO DE SONORA
 
-LEY DEL EQUILIBRIO ECOLOGICO Y PROTECCION AL AMBIENTE DEL ESTADO DE SONORA
+LEY DEL EQUILIBRIO ECOLÓGICO Y PROTECCIÓN AL AMBIENTE DEL ESTADO DE SONORA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 7 DE NOVIEMBRE DE 2011.
 
 Ley publicada en la Sección VIII del Boletín Oficial del Estado de Sonora, el jueves 25 de septiembre de 2008.
 
@@ -171,6 +171,12 @@ XLII.- Preservación: El conjunto de políticas y medidas para mantener las cond
 
 XLIII.- Prevención: El conjunto de disposiciones y medidas anticipadas para evitar el deterioro del ambiente;
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, B.O. 7 DE NOVIEMBRE DE 2011)</small>
+
+XLIII BIS.- Procuraduría: La Procuraduría Ambiental del Estado de Sonora;
+
 XLIV.- Protección: El conjunto de políticas y medidas para mejorar el ambiente y prevenir y controlar su deterioro;
 
 XLV.- Recurso natural: El elemento natural susceptible de ser aprovechado en beneficio del hombre;
@@ -203,11 +209,19 @@ Las atribuciones en las materias objeto de esta ley serán ejercidas por el Esta
 
 La distribución de competencias en materia forestal se establece en la Ley de Fomento para el Desarrollo Forestal Sustentable del Estado de Sonora.
 
-###### ARTÍCULO 6º.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-Las atribuciones que esta ley otorga al Estado, serán ejercidas por el Ejecutivo Estatal, a través de la Comisión, salvo las que directamente le correspondan a él por disposición expresa de la ley.
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 7 DE NOVIEMBRE DE 2011)</small>
 
-Cuando por razón de la materia y de conformidad con las disposiciones legales aplicables, se requiera la intervención de otras dependencias, la Comisión ejercerá sus atribuciones en coordinación con las mismas.
+###### ARTÍCULO 6°.
+
+Las atribuciones que esta ley otorga al Estado, serán ejercidas por el Ejecutivo Estatal, a través de la Comisión o de la Procuraduría, según corresponda a su ámbito de competencia, salvo las que directamente le correspondan a él por disposición expresa de la ley.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, B.O. 7 DE NOVIEMBRE DE 2011)</small>
+
+Cuando por razón de la materia y de conformidad con las disposiciones legales aplicables, se requiera la intervención de otras dependencias, la Comisión o la Procuraduría, según corresponda, ejercerán sus atribuciones en coordinación con las mismas.
 
 Las dependencias y entidades de la administración pública estatal que ejerzan atribuciones relacionadas con el objeto de la presente ley, ajustarán su ejercicio a los criterios ecológicos establecidos en la misma, en las normas oficiales mexicanas y en los reglamentos, programas de ordenamiento ecológico y demás disposiciones que se deriven de los mismos.
 
@@ -633,9 +647,13 @@ II.- No impliquen incremento alguno en el nivel de impacto o riesgo ambiental, e
 
 En los casos referidos en las dos fracciones anteriores, los interesados deberán dar aviso a la Comisión o al Ayuntamiento, según corresponda, cinco días antes de la realización de dichas acciones.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 7 DE NOVIEMBRE DE 2011)</small>
+
 ###### ARTÍCULO 29.
 
-Las obras o actividades que ante la inminencia de un desastre se realicen con fines preventivos, o bien las que se ejecuten para salvar una situación de emergencia, no requerirán de la autorización en materia de impacto ambiental; pero en todo caso se deberá dar aviso de su realización a la Comisión o al Ayuntamiento respectivo, según competa, en un plazo que no excederá de setenta y dos horas contadas a partir de que las obras se inicien, con objeto de que tomen las medidas necesarias para atenuar los impactos al medio ambiente, cuando así proceda.
+Las obras o actividades que ante la inminencia de un desastre se realicen con fines preventivos, o bien las que se ejecuten para salvar una situación de emergencia, no requerirán de la autorización en materia de impacto ambiental; pero en todo caso se deberá dar aviso de su realización a la Comisión, a la Procuraduría o al Ayuntamiento respectivo, según competa, en un plazo que no excederá de setenta y dos horas contadas a partir de que las obras se inicien, con objeto de que tomen las medidas necesarias para atenuar los impactos al medio ambiente, cuando así proceda.
 
 Además del aviso a que se refiere el párrafo anterior, se deberá presentar, dentro de un plazo de veinte días hábiles contados a partir de la realización de las obras o actividades, un informe de las acciones realizadas y de las medidas de mitigación y compensación que se apliquen o se pretendan aplicar como consecuencia de dichas obras o actividades.
 
@@ -695,9 +713,13 @@ La Comisión y los ayuntamientos sólo evaluarán y otorgarán validez a los tra
 
 #### SECCIÓN VII. DE LA INVESTIGACIÓN, EDUCACIÓN Y CULTURA ECOLÓGICA
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 7 DE NOVIEMBRE DE 2011)</small>
+
 ###### ARTÍCULO 36.
 
-La Comisión y los ayuntamientos establecerán programas sobre cultura ambiental con el objeto de propiciar actitudes y conductas de participación comunitaria en las tareas de protección, conservación y restauración del ambiente el aprovechamiento sustentable de los recursos naturales y propiciar los conocimientos sobre las causas del deterioro del mismo, así como las medidas para su prevención y control, además de promover la participación individual y colectiva que se puedan tomar para mejorar la calidad ambiental y de vida.
+La Comisión en coordinación con la Procuraduría, y los ayuntamientos establecerán programas sobre cultura ambiental con el objeto de propiciar actitudes y conductas de participación comunitaria en las tareas de protección, conservación y restauración del ambiente el aprovechamiento sustentable de los recursos naturales y propiciar los conocimientos sobre las causas del deterioro del mismo, así como las medidas para su prevención y control, además de promover la participación individual y colectiva que se puedan tomar para mejorar la calidad ambiental y de vida.
 
 Asimismo, propiciarán la participación comprometida de los medios de comunicación masiva en el fortalecimiento de la conciencia ecológica, y la socialización de proyectos de desarrollo sustentable.
 
@@ -711,9 +733,13 @@ El Estado y los ayuntamientos promoverán la incorporación de contenidos de car
 
 La Comisión en coordinación con la Secretaría de Educación y Cultura establecerán un conjunto de recomendaciones y directrices tendientes a que las autoridades e instituciones educativas y culturales, públicas y privadas, introduzcan en los procesos educativos formales y no formales, así como en los sistemas de capacitación de la administración pública y empresariales y en los medios de comunicación, contenidos y metodologías para el desarrollo en la población de conocimientos, hábitos de conducta y actitudes orientados a favorecer las transformaciones necesarias para alcanzar el desarrollo sustentable, así como la conservación y restauración de los recursos naturales.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 7 DE NOVIEMBRE DE 2011)</small>
+
 ###### ARTÍCULO 39.
 
-La Comisión, con la participación de las autoridades competentes, promoverán ante las instituciones de educación superior en el Estado y los organismos dedicados a la investigación científica y tecnológica, el desarrollo de programas para la formación de profesionales en la materia y para la investigación de las causas y efectos de los fenómenos ambientales en el Estado; así como programas para el desarrollo de técnicas y procedimientos que permitan prevenir, controlar y abatir la contaminación y proteger los ecosistemas de la entidad.
+La Comisión en coordinación con la Procuraduría, y con la participación de las autoridades competentes, promoverán ante las instituciones de educación superior en el Estado y los organismos dedicados a la investigación científica y tecnológica, el desarrollo de programas para la formación de profesionales en la materia y para la investigación de las causas y efectos de los fenómenos ambientales en el Estado; así como programas para el desarrollo de técnicas y procedimientos que permitan prevenir, controlar y abatir la contaminación y proteger los ecosistemas de la entidad.
 
 Para llevar a cabo dichas actividades, se podrán celebrar convenios con instituciones de educación superior, centros de investigación, instituciones del sector social y privado, investigadores y especialistas en la materia.
 
@@ -821,11 +847,19 @@ En el establecimiento, administración y manejo de las áreas naturales protegid
 
 La Comisión y los ayuntamientos podrán promover ante el Gobierno Federal el reconocimiento de las áreas naturales protegidas que se establezcan de conformidad con esta ley, con el propósito de compatibilizar los regímenes de protección correspondientes.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 7 DE NOVIEMBRE DE 2011)</small>
+
 ###### ARTÍCULO 51.
 
-La Comisión constituirá un Comité Estatal de Áreas Naturales Protegidas, que estará integrado por representantes de la misma, de otras dependencias y entidades del Estado y de los municipios relacionadas con la materia ambiental, y, a invitación de la Comisión, por representantes de la administración pública federal; así como por representantes de instituciones académicas y centros de investigación, agrupaciones de productores y empresarios, organizaciones no gubernamentales y de otros organismos de carácter social o privado, y personas físicas de reconocido prestigio en la materia.
+La Comisión constituirá un Comité Estatal de Áreas Naturales Protegidas, que estará integrado por representantes de la misma, de la Procuraduría, de otras dependencias y entidades del Estado y de los municipios relacionadas con la materia ambiental, y, a invitación de la Comisión, por representantes de la administración pública federal; así como por representantes de instituciones académicas y centros de investigación, agrupaciones de productores y empresarios, organizaciones no gubernamentales y de otros organismos de carácter social o privado, y personas físicas de reconocido prestigio en la materia.
 
-El Comité fungirá como órgano de consulta y apoyo de la Comisión y los ayuntamientos en la formulación, ejecución, seguimiento y evaluación de la política para el establecimiento, manejo y vigilancia de las áreas naturales protegidas de jurisdicción estatal o municipal, y funcionará en los términos previstos en el reglamento respectivo.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, B.O. 7 DE NOVIEMBRE DE 2011)</small>
+
+El Comité fungirá como órgano de consulta y apoyo de la Comisión, la Procuraduría y los ayuntamientos en la formulación, ejecución, seguimiento y evaluación de la política para el establecimiento, manejo y vigilancia de las áreas naturales protegidas de jurisdicción estatal o municipal, y funcionará en los términos previstos en el reglamento respectivo.
 
 El Comité podrá invitar a sus sesiones a representantes de los gobiernos municipales que no estén representados en el Comité, cuando se trate de áreas naturales protegidas de competencia estatal que se encuentren dentro de su territorio. Así mismo, podrá invitar a representantes de ejidos, comunidades, propietarios, poseedores y, en general, a cualquier persona cuya participación sea necesaria conforme al asunto que en cada caso se trate.
 
@@ -941,9 +975,13 @@ La Comisión y los ayuntamientos, en el ámbito de sus respectivas competencias,
 
 Los núcleos agrarios, pueblos indígenas y demás propietarios o poseedores de los predios en los que se pretendan desarrollar las obras o actividades anteriormente señaladas tendrán preferencia para obtener los permisos, concesiones y autorizaciones respectivos.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 7 DE NOVIEMBRE DE 2011)</small>
+
 ###### ARTÍCULO 63.
 
-La Comisión y los ayuntamientos podrán suspender de manera temporal o permanente, parcial o total, las concesiones, permisos o autorizaciones a que se refiere el artículo anterior cuando:
+La Comisión y los ayuntamientos, por sí mismos o a solicitud de la Procuraduría, podrán suspender de manera temporal o permanente, parcial o total, las concesiones, permisos o autorizaciones a que se refiere el artículo anterior cuando:
 
 I.- No se cumplan con las obligaciones y las condiciones establecidas en ellas;
 
@@ -963,11 +1001,15 @@ Será nulo todo acto, convenio o contrato que contravenga lo establecido en la m
 
 Los ingresos que la Comisión perciba por concepto del otorgamiento de permisos, autorizaciones y licencias en materia de áreas naturales protegidas, se destinarán al Fondo Ambiental Estatal a que se refiere el artículo 190 de esta ley, y se aplicarán en la preservación y restauración ecológicas de las áreas que los hubieren generado.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, B.O. 7 DE NOVIEMBRE DE 2011)</small>
+
 ###### ARTÍCULO 66.
 
-La Comisión y los ayuntamientos podrán celebrar acuerdos de coordinación entre sí, para efecto de determinar la participación que les corresponda en la administración, conservación, desarrollo y vigilancia de las áreas naturales protegidas que se establezcan, así como convenios de concertación con los sectores social y privado para los mismos efectos.
+La Comisión, la Procuraduría y los ayuntamientos podrán celebrar acuerdos de coordinación entre sí, para efecto de determinar la participación que les corresponda en la administración, conservación, desarrollo y vigilancia de las áreas naturales protegidas que se establezcan, así como convenios de concertación con los sectores social y privado para los mismos efectos.
 
-La Comisión y los ayuntamientos, en el ámbito de sus respectivas competencias, supervisarán y evaluarán el cumplimiento de los acuerdos y convenios a que se refiere este artículo.
+La Comisión, la Procuraduría y los ayuntamientos, en el ámbito de sus respectivas competencias, supervisarán y evaluarán el cumplimiento de los acuerdos y convenios a que se refiere este artículo.
 
 ###### ARTÍCULO 67.
 
@@ -1045,9 +1087,13 @@ Una vez recibida la solicitud para el establecimiento de un área de conservaci�
 
 La resolución de dicha solicitud se emitirá en los términos que se prevean en el reglamento respectivo.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, B.O. 7 DE NOVIEMBRE DE 2011)</small>
+
 ###### ARTÍCULO 73.
 
-La Comisión podrá llevar a cabo acciones de supervisión técnica y monitoreo para constatar que las acciones de manejo del área se realicen en los términos previstos en el Certificado de Reconocimiento de Área de Conservación. Asimismo, podrá apoyar a los responsables del área de conservación en la conservación, administración y vigilancia de los predios a que se refiere la presente Sección.
+La Comisión en coordinación con la Procuraduría, podrá llevar a cabo acciones de supervisión técnica y monitoreo para constatar que las acciones de manejo del área se realicen en los términos previstos en el Certificado de Reconocimiento de Área de Conservación. Asimismo, podrá apoyar a los responsables del área de conservación en la conservación, administración y vigilancia de los predios a que se refiere la presente Sección.
 
 ###### ARTÍCULO 74.
 
@@ -1055,9 +1101,13 @@ La Comisión podrá prorrogar la vigencia de los certificados de reconocimiento 
 
 De igual forma, la vigencia de los certificados puede darse por terminada anticipadamente a solicitud de sus titulares, por imposibilidad justificada para dar cumplimiento a las obligaciones adquiridas o por así convenir a sus intereses.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 7 DE NOVIEMBRE DE 2011)</small>
+
 ###### ARTÍCULO 75.
 
-La Comisión podrá, en todo momento, revocar el certificado expedido, por cualquiera de las siguientes causas:
+La Comisión, por sí misma o a solicitud de la Procuraduría, podrá, en todo momento, revocar el certificado expedido, por cualquiera de las siguientes causas:
 
 I.- Cuando el predio se vea alterado por desastres naturales como huracanes, ciclones, incendios, sismos, terremotos o por eventos antropogénicos y no se cumpla con los objetivos de la certificacion; y
 
@@ -1313,9 +1363,13 @@ II.- Informe del cumplimiento de las medidas de prevención y mitigación de los
 
 III.- Posibles cambios o modificaciones de la obra o actividad autorizada en la Licencia Ambiental Integral.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 7 DE NOVIEMBRE DE 2011)</small>
+
 ###### ARTÍCULO 104.
 
-La Comisión o el Ayuntamiento respectivo podrán suspender o revocar una Licencia Ambiental Integral, en los siguientes supuestos:
+La Comisión o el Ayuntamiento respectivo, por sí mismos o a solicitud de la Procuraduría, podrán suspender o revocar una Licencia Ambiental Integral, en los siguientes supuestos:
 
 I.- Para la suspensión:
 
@@ -1531,13 +1585,35 @@ d) Expedir en los centros que opere, constancias respecto de los vehículos que 
 
 e) Supervisar la operación de los centros de verificación vehicular que autorice;
 
-f) Realizar actos de inspección y vigilancia para verificar la debida observancia de las disposiciones de esta Sección y las reglamentarias;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-g) Imponer las sanciones administrativas que correspondan por el incumplimiento de las disposiciones mencionadas en la fracción anterior;
+> <small>(REFORMADO, B.O. 7 DE NOVIEMBRE DE 2011)</small>
 
-h) Integrar y mantener actualizado un informe de los resultados obtenidos de la medición de las emisiones contaminantes en los centros de verificación que opere o autorice; y
+f) Integrar y mantener actualizado un informe de los resultados obtenidos de la medición de las emisiones contaminantes en los centros de verificación que opere o autorice; y
 
-i) Las demás previstas en esta ley y en los reglamentos respectivos; y
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, B.O. 7 DE NOVIEMBRE DE 2011)</small>
+
+g) Las demás previstas en esta ley y en los reglamentos respectivos;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+h) (DEROGADO, B.O. 7 DE NOVIEMBRE DE 2011)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+i) (DEROGADO, B.O. 7 DE NOVIEMBRE DE 2011)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, B.O. 7 DE NOVIEMBRE DE 2011)</small>
+
+I BIS.- A la Procuraduría:
+
+a) Realizar actos de inspección y vigilancia para verificar la debida observancia de las disposiciones de esta Sección y las reglamentarias;
+
+b) Imponer las sanciones administrativas que correspondan por el incumplimiento de las disposiciones mencionadas en la fracción anterior; y
 
 II.- A los Ayuntamientos, dentro de sus circunscripciones territoriales:
 
@@ -2113,9 +2189,13 @@ V.- La infraestructura para la dotación de servicios básicos, así como la exi
 
 Quedan prohibidas las emisiones de ruido, vibraciones, olores, radiaciones electromagnéticas, energía térmica y lumínica y la generación de contaminación visual, en cuanto rebasen los límites máximos permisibles establecidos en las normas oficiales mexicanas que expida la Secretaría de Medio Ambiente y Recursos Naturales y los criterios ecológicos aplicables.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 7 DE NOVIEMBRE DE 2011)</small>
+
 ###### ARTÍCULO 172.
 
-La Comisión y los ayuntamientos, en el ámbito de sus respectivas competencias, requerirán a los responsables de los establecimientos industriales, comerciales, de servicios o espectáculos públicos la adopción de medidas que impidan exceder los límites máximos permisibles de emisiones de ruido, vibraciones, energía térmica, lumínica, radiaciones electromagnéticas, olores perjudiciales y de contaminación visual. Para tal efecto, estas autoridades vigilarán que dichos responsables cumplan con las normas oficiales mexicanas correspondientes y, en su caso, aplicarán las sanciones que procedan conforme a esta ley.
+La Comisión y los ayuntamientos, en el ámbito de sus respectivas competencias, requerirán a los responsables de los establecimientos industriales, comerciales, de servicios o espectáculos públicos la adopción de medidas que impidan exceder los límites máximos permisibles de emisiones de ruido, vibraciones, energía térmica, lumínica, radiaciones electromagnéticas, olores perjudiciales y de contaminación visual. Para tal efecto, la Procuraduría y los ayuntamientos, en el ámbito de sus respectivas competencias, vigilarán que dichos responsables cumplan con las normas oficiales mexicanas correspondientes y, en su caso, aplicarán las sanciones que procedan conforme a esta ley.
 
 Asimismo, en la construcción de obras e instalaciones o en la realización de actividades que generen ruido, vibraciones, energía térmica, energía lumínica y olores, los responsables de las mismas deberán llevar a cabo las acciones preventivas y correctivas necesarias para evitar los efectos nocivos de dichos contaminantes.
 
@@ -2155,9 +2235,13 @@ VII.- Pagar los derechos correspondientes por explotación y aprovechamiento de 
 
 El permiso para la realización de las actividades a que se refiere este Capítulo en zonas urbanas o en áreas cercanas a centros de población podrá negarse o suspenderse cuando a juicio de la Comisión se ponga en serio peligro el equilibrio ecológico o al ambiente de la localidad, así como la integridad de las personas y los bienes.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, B.O. 7 DE NOVIEMBRE DE 2011)</small>
+
 ###### ARTÍCULO 178.
 
-Corresponde a la Comisión vigilar que los responsables de la exploración, explotación y aprovechamiento de los recursos minerales o sustancias a que se refiere este Capítulo, cumplan con las disposiciones de esta ley, el reglamento respectivo y las demás aplicables en la materia.
+Corresponde a la Procuraduría vigilar que los responsables de la exploración, explotación y aprovechamiento de los recursos minerales o sustancias a que se refiere este Capítulo, cumplan con las disposiciones de esta ley, el reglamento respectivo y las demás aplicables en la materia.
 
 ### CAPÍTULO VIII. DE LA PRESERVACIÓN Y RESTAURACIÓN DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE EN LOS CENTROS DE POBLACIÓN, EN RELACIÓN CON LOS SERVICIOS PÚBLICOS
 
@@ -2233,6 +2317,12 @@ e) Secretaría de Infraestructura y Desarrollo Urbano; y
 
 f) Secretaría de Agricultura, Ganadería, Recursos Hidráulicos, Pesca y Acuacultura;
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, B.O. 7 DE NOVIEMBRE DE 2011)</small>
+
+III BIS.- El Procurador Ambiental de la Procuraduría Ambiental del Estado de Sonora;
+
 IV.- El titular de la Unidad Estatal de Protección Civil;
 
 V.- El titular del Comité Estatal de Áreas Naturales Protegidas establecido en el artículo 51 de esta ley;
@@ -2275,9 +2365,13 @@ La Comisión reunirá informes y documentos relevantes que resulten de las activ
 
 El Registro Estatal de Áreas Naturales Protegidas a que se refiere el artículo 67 de esta ley formará parte del Sistema Estatal de Información Ambiental y de Recursos Naturales.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 7 DE NOVIEMBRE DE 2011)</small>
+
 ###### ARTÍCULO 188.
 
-La Comisión elaborará y publicará, cada tres años, un informe detallado de la situación general existente en el Estado en materia de equilibrio ecológico y protección al ambiente.
+La Comisión en coordinación con la Procuraduría, elaborará y publicará, cada tres años, un informe detallado de la situación general existente en el Estado en materia de equilibrio ecológico y protección al ambiente.
 
 Asimismo, la Comisión editará una Gaceta en la que se publicarán las disposiciones jurídicas, normas oficiales mexicanas, criterios ecológicos, declaratorias, decretos, acuerdos y programas, así como información relacionada con las áreas naturales protegidas, la preservación y el aprovechamiento sustentable de los recursos naturales, y la que sea de interés general en materia ambiental.
 
@@ -2287,11 +2381,19 @@ Las personas a quienes la Comisión entregue información ambiental del Sistema 
 
 ### CAPÍTULO III. DEL FONDO AMBIENTAL ESTATAL
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 7 DE NOVIEMBRE DE 2011)</small>
+
 ###### ARTÍCULO 190.
 
-La Comisión creará el Fondo Ambiental Estatal, cuyos recursos se destinarán a:
+El Estado creará el Fondo Ambiental Estatal, cuyos recursos se destinarán a:
 
-I.- La realización de acciones y medidas de protección, preservación y restauración del medio ambiente;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, B.O. 7 DE NOVIEMBRE DE 2011)</small>
+
+I.- La realización de acciones y medidas de protección, preservación, inspección, vigilancia y restauración del medio ambiente;
 
 II.- El manejo y la administración de las áreas naturales protegidas;
 
@@ -2307,7 +2409,11 @@ Los recursos del Fondo se integrarán con:
 
 I.- Las aportaciones que efectúen los gobiernos federal, estatal y municipal;
 
-II.- Los ingresos que obtenga la Comisión por concepto de multas por infracciones a lo dispuesto por la presente Ley y las demás disposiciones aplicables;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, B.O. 7 DE NOVIEMBRE DE 2011)</small>
+
+II.- Los ingresos que obtenga la Procuraduría por concepto de multas por infracciones a lo dispuesto por la presente Ley y las demás disposiciones aplicables;
 
 III.- Las indemnizaciones que como consecuencia del ejercicio de la acción por daños al ambiente decreten las autoridades jurisdiccionales en las sentencias respectivas;
 
@@ -2317,17 +2423,25 @@ V.- Las herencias, legados y donaciones que reciba de personas físicas o morale
 
 VI.- Los demás recursos que obtenga por cualquier otro título o concepto.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, B.O. 7 DE NOVIEMBRE DE 2011)</small>
+
 ###### ARTÍCULO 192.
 
-La Comisión será responsable del manejo de los recursos del Fondo Ambiental Estatal, cuyo funcionamiento se realizará conforme a los lineamientos que se establezcan en el reglamento que para el efecto se expida.
+La Comisión, en coordinación con la Procuraduría, será responsable del manejo de los recursos del Fondo Ambiental Estatal, cuyo funcionamiento se realizará conforme a los lineamientos que se establezcan en el reglamento que para el efecto expida el Gobernador del Estado.
 
 ## TÍTULO SÉPTIMO. DE LA FACULTAD REGLAMENTARIA
 
 ### CAPÍTULO ÚNICO. DE LA FACULTAD REGLAMENTARIA
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 7 DE NOVIEMBRE DE 2011)</small>
+
 ###### ARTÍCULO 193.
 
-El Ejecutivo del Estado, la Comisión y los ayuntamientos expedirán en el ámbito de sus respectivas competencias, los reglamentos, decretos, acuerdos, las circulares y las demás disposiciones de observancia general que resultan necesarias para proveer, en la esfera administrativa, la observancia de este ordenamiento, mismos que deberán publicarse en el Boletín Oficial del Gobierno del Estado.
+El Ejecutivo del Estado, la Comisión, la Procuraduría y los ayuntamientos expedirán en el ámbito de sus respectivas competencias, los reglamentos, decretos, acuerdos, las circulares y las demás disposiciones de observancia general que resulten necesarias para proveer, en la esfera administrativa, la observancia de este ordenamiento, mismos que deberán publicarse en el Boletín Oficial del Gobierno del Estado.
 
 La presente ley constituye la base normativa para la expedición por parte de los ayuntamientos, de las disposiciones jurídicas señaladas en este artículo, las cuales serán de observancia general dentro de sus respectivas jurisdicciones, previa su publicación en el Boletín Oficial del Gobierno del Estado.
 
@@ -2341,27 +2455,39 @@ En la realización de los actos de inspección y vigilancia, ejecución de medid
 
 ### CAPÍTULO II. DE LAS MEDIDAS DE SEGURIDAD
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, B.O. 7 DE NOVIEMBRE DE 2011)</small>
+
 ### CAPÍTULO III. DE LAS SANCIONES ADMINISTRATIVAS
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 7 DE NOVIEMBRE DE 2011)</small>
 
 ###### ARTÍCULO 195.
 
-Cuando exista riesgo inminente de desequilibrio ecológico, o de daño o deterioro grave a los recursos naturales, casos de contaminación con repercusiones peligrosas para los ecosistemas, sus componentes o para la salud pública, la Comisión o los ayuntamientos, fundada y motivadamente, podrá ordenar alguna o algunas de las siguientes medidas de seguridad:
+Cuando exista riesgo inminente de desequilibrio ecológico, o de daño o deterioro grave a los recursos naturales, casos de contaminación con repercusiones peligrosas para los ecosistemas, sus componentes o para la salud pública, la Comisión, la Procuraduría en ejercicio de sus atribuciones de inspección y vigilancia, o los ayuntamientos, fundada y motivadamente, podrán ordenar alguna o algunas de las siguientes medidas de seguridad:
 
-I.- La clausura temporal, parcial o total de las fuentes contaminantes, así como de las instalaciones en que se manejen o almacenen especimenes, productos o subproductos de especies de flora o de fauna silvestre, recursos forestales, o se desarrollen las actividades que den lugar a los supuestos a que se refiere el primer párrafo de este artículo;
+I.- La clausura temporal, parcial o total de las fuentes contaminantes, así como de las instalaciones en que se manejen o almacenen especímenes, productos o subproductos de especies de flora o de fauna silvestre, recursos forestales, o se desarrollen las actividades que den lugar a los supuestos a que se refiere el párrafo que encabeza este artículo;
 
-II.- El aseguramiento precautorio de materiales y residuos peligrosos, así como de especimenes, productos o subproductos de especies de flora o de fauna silvestre o su material genético, recursos forestales, además de los bienes, vehículos, utensilios e instrumentos directamente relacionados con la conducta que da lugar a la imposición de la medida de seguridad, o
+II.- El aseguramiento precautorio de materiales y residuos peligrosos, así como de especímenes, productos o subproductos de especies de flora o de fauna silvestre o su material genético, recursos forestales, además de los bienes, vehículos, utensilios e instrumentos directamente relacionados con la conducta que da lugar a la imposición de la medida de seguridad; o
 
-III.- La neutralización o cualquier acción análoga que impida que materiales o residuos peligrosos generen los efectos previstos en el primer párrafo de este artículo.
+III.- La neutralización o cualquier acción análoga que impida que materiales o residuos peligrosos generen los efectos previstos en el párrafo que encabeza este artículo.
 
-Asimismo, la Comisión o los ayuntamientos podrán promover ante la autoridad competente, la ejecución de alguna o algunas de las medidas de seguridad que se establezcan en otros ordenamientos.
+Asimismo, la Comisión, la Procuraduría o los ayuntamientos, según corresponda, podrán promover ante la autoridad competente, la ejecución de alguna o algunas de las medidas de seguridad que se establezcan en otros ordenamientos.
 
-Cuando la Comisión o los ayuntamientos ordenen alguna de las medidas de seguridad previstas en esta ley, indicarán al interesado, cuando proceda, las acciones que debe llevar a cabo para subsanar las irregularidades que motivaron la imposición de dichas medidas, así como los plazos para su realización, a fin de que una vez cumplidas éstas, se ordene el retiro de la medida de seguridad impuesta.
+Cuando la Comisión, la Procuraduría o los ayuntamientos ordenen alguna de las medidas de seguridad previstas en esta ley, indicarán al interesado, cuando proceda, las acciones que debe llevar a cabo para subsanar las irregularidades que motivaron la imposición de dichas medidas, así como los plazos para su realización, a fin de que una vez cumplidas éstas, se ordene el retiro de la medida de seguridad impuesta.
 
 ### CAPÍTULO IV. DEL RECURSO DE REVISIÓN
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, B.O. 7 DE NOVIEMBRE DE 2011)</small>
+
 ###### ARTÍCULO 196.
 
-Las violaciones a los preceptos de esta ley, sus reglamentos y demás disposiciones que de ella emanen constituyen infracción y serán sancionadas administrativamente por la Comisión, en asuntos de competencia del Estado, y por los ayuntamientos, en el ámbito de competencia de éstos, con una o más de las siguientes sanciones:
+Las violaciones a los preceptos de esta ley, sus reglamentos y demás disposiciones que de ella emanen constituyen infracción y serán sancionadas administrativamente por la Procuraduría, en asuntos de competencia del Estado y sin perjuicio de las atribuciones que la presente Ley otorga expresamente a la Comisión, y por los ayuntamientos, en el ámbito de competencia de éstos, con una o más de las siguientes sanciones:
 
 I.- Multa por el equivalente de veinte a veinte mil días de salario mínimo general vigente en la capital del Estado en el momento de imponer la sanción;
 
@@ -2407,19 +2533,31 @@ IV.- El carácter intencional o negligente de la acción u omisión constitutiva
 
 V.- El beneficio directamente obtenido por el infractor por los actos que motiven la sanción.
 
-En el caso en que el infractor realice las medidas correctivas o de urgente aplicación o subsane las irregularidades en que hubiere incurrido, previamente a que la Comisión o los ayuntamientos impongan una sanción, dicha autoridad deberá considerar tal situación como atenuante de la infracción cometida.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, B.O. 7 DE NOVIEMBRE DE 2011)</small>
+
+En el caso en que el infractor realice las medidas correctivas o de urgente aplicación o subsane las irregularidades en que hubiere incurrido, previamente a que la Procuraduría o los ayuntamientos impongan una sanción, dicha autoridad deberá considerar tal situación como atenuante de la infracción cometida.
 
 La autoridad correspondiente podrá otorgar al infractor la opción para pagar la multa o realizar inversiones equivalentes en la adquisición e instalación de equipo para evitar contaminación o en la protección, preservación o restauración del ambiente y los recursos naturales, siempre que se garanticen las obligaciones del infractor, no se trate de alguno de los supuestos previstos en el artículo 195 de esta ley y la autoridad justifique plenamente su decisión.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, B.O. 7 DE NOVIEMBRE DE 2011)</small>
+
 ###### ARTÍCULO 198.
 
-Cuando proceda como sanción la clausura temporal o definitiva, total o parcial, el personal comisionado para ejecutarla procederá a levantar acta detallada de la diligencia, siguiendo para ello las disposiciones establecidas en esta ley para las visitas de inspección.
+Cuando proceda como sanción la clausura temporal o definitiva, total o parcial, el personal comisionado para ejecutarla procederá a levantar acta detallada de la diligencia, siguiendo para ello las disposiciones establecidas en la Ley de Procedimiento Administrativo del Estado de Sonora para las visitas de verificación.
 
-En los casos en que se imponga como sanción la clausura temporal, la Comisión o, en su caso, el Ayuntamiento deberán indicar al infractor las medidas correctivas y acciones que debe llevar a cabo para subsanar las irregularidades que motivaron dicha sanción, así como los plazos para su realización.
+En los casos en que se imponga como sanción la clausura temporal, la Procuraduría o, en su caso, el Ayuntamiento deberán indicar al infractor las medidas correctivas y acciones que debe llevar a cabo para subsanar las irregularidades que motivaron dicha sanción, así como los plazos para su realización.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, B.O. 7 DE NOVIEMBRE DE 2011)</small>
 
 ###### ARTÍCULO 199.
 
-Los ingresos que obtenga la Comisión por concepto de las multas por infracciones a lo dispuesto en esta ley, sus reglamentos y demás disposiciones que de ella se deriven, se integrarán al Fondo Ambiental Estatal a que se refiere el artículo 190 de esta ley.
+Los ingresos que obtenga la Procuraduría por concepto de las multas por infracciones a lo dispuesto en esta ley, sus reglamentos y demás disposiciones que de ella se deriven, se integrarán al Fondo Ambiental Estatal a que se refiere el artículo 190 de esta ley.
 
 ###### ARTÍCULO 200.
 
@@ -2427,9 +2565,13 @@ Cuando las autoridades competentes impongan como sanción una multa, ésta tendr
 
 ### CAPÍTULO V. DE LA DENUNCIA POPULAR
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 7 DE NOVIEMBRE DE 2011)</small>
+
 ###### ARTÍCULO 201.
 
-Contra los actos emitidos por la Comisión o los ayuntamientos en los procedimientos administrativos instaurados con motivo de la aplicación de esta ley, sus reglamentos y demás disposiciones que de ellos se deriven, los interesados podrán a su elección, interponer el recurso de inconformidad, previsto en la Ley de Procedimiento Administrativo del Estado de Sonora, o intentar el juicio correspondiente ante el Tribunal de lo Contencioso Administrativo del Estado de Sonora.
+Contra los actos emitidos por la Comisión, la Procuraduría o los ayuntamientos en los procedimientos administrativos instaurados con motivo de la aplicación de esta ley, sus reglamentos y demás disposiciones que de ellos se deriven, los interesados podrán a su elección, interponer el recurso de inconformidad, previsto en la Ley de Procedimiento Administrativo del Estado de Sonora, o intentar el juicio correspondiente ante el Tribunal de lo Contencioso Administrativo del Estado de Sonora.
 
 ###### ARTÍCULO 202.
 
@@ -2439,17 +2581,21 @@ Tratándose de obras o actividades que contravengan las disposiciones de esta le
 
 En caso de que se expidan licencias, permisos, autorizaciones o concesiones contraviniendo esta ley, serán nulas y no producirán efecto legal alguno, y los servidores públicos responsables serán sancionados conforme a lo dispuesto en las normas aplicables. Dicha nulidad podrá ser exigida por medio del recurso de inconformidad, previsto en la Ley de Procedimiento Administrativo del Estado de Sonora.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, B.O. 7 DE NOVIEMBRE DE 2011)</small>
+
 ###### ARTÍCULO 204.
 
-En aquellos casos en que, como resultado del ejercicio de sus atribuciones, la Comisión o el Ayuntamiento que tenga conocimiento de actos u omisiones que pudieran constituir delitos conforme a lo previsto en la legislación aplicable, formulará ante la autoridad competente la denuncia correspondiente.
+En aquellos casos en que, como resultado del ejercicio de sus atribuciones, la Comisión, la Procuraduría o los Ayuntamientos, tengan conocimiento de actos u omisiones que pudieran constituir delitos conforme a lo previsto en la legislación aplicable, formularán ante la autoridad competente la denuncia correspondiente.
 
-La Comisión o el Ayuntamiento proporcionarán, en las materias de su competencia, los dictámenes técnicos o periciales que le soliciten las autoridades competentes, con motivo de las denuncias presentadas por la comisión de delitos ambientales.
+La Comisión, la Procuraduría o los Ayuntamientos, según corresponda, proporcionarán, en las materias de su competencia, los dictámenes técnicos o periciales que le soliciten las autoridades competentes, con motivo de las denuncias presentadas por la comisión de delitos ambientales.
 
-La Comisión o el Ayuntamiento serán coadyuvantes de las autoridades competentes, en los términos de las disposiciones legales correspondientes. Lo anterior, sin perjuicio de la coadyuvancia que pueda hacer la víctima o el ofendido directo del ilícito, por sí mismo o a través de su representante legal.
+La Comisión, la Procuraduría o los Ayuntamientos, según corresponda, serán coadyuvantes de las autoridades competentes, en los términos de las disposiciones legales correspondientes. Lo anterior, sin perjuicio de la coadyuvancia que pueda hacer la víctima o el ofendido directo del ilícito, por sí mismo o a través de su representante legal.
 
 ###### ARTÍCULO 205.
 
-Toda persona, grupos sociales, organizaciones no gubernamentales, asociaciones y sociedades podrán denunciar ante la Comisión o los ayuntamientos, todo hecho, acto u omisión que produzca o pueda producir desequilibrio ecológico o daños al ambiente o a los recursos naturales, o contravenga las disposiciones de la presente ley, la Ley General y de los demás ordenamientos que regulen materias relacionadas con la protección al ambiente y la preservación y restauración del equilibrio ecológico.
+Toda persona, grupos sociales, organizaciones no gubernamentales, asociaciones y sociedades podrán denunciar ante la Procuraduría o los ayuntamientos, todo hecho, acto u omisión que produzca o pueda producir desequilibrio ecológico o daños al ambiente o a los recursos naturales, o contravenga las disposiciones de la presente ley, la Ley General y de los demás ordenamientos que regulen materias relacionadas con la protección al ambiente y la preservación y restauración del equilibrio ecológico.
 
 Si la denuncia presentada resulta del orden federal, deberá ser remitida a la Procuraduría Federal de Protección al Ambiente, en un plazo no mayor de cinco días hábiles contados a partir de la fecha de recepción de la denuncia, haciendo del conocimiento del denunciante esta situación.
 
@@ -2469,11 +2615,19 @@ Asimismo, podrá formularse la denuncia por vía telefónica, en cuyo supuesto e
 
 Cuando se reciban dos o más denuncias por los mismos hechos, actos u omisiones, se acordará la acumulación de éstas en un solo expediente, y se les notificará a los denunciantes el acuerdo respectivo.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 7 DE NOVIEMBRE DE 2011)</small>
+
 ###### ARTÍCULO 207.
 
-La Comisión o los ayuntamientos, una vez recibida la denuncia, procederán por los medios que resulten conducentes a identificar al denunciante, y en su caso, harán saber la denuncia a la persona o personas, o a las autoridades a quienes se imputen los hechos denunciados o a quienes pueda afectar el resultado de la acción emprendida, a fin de que presenten los documentos y pruebas que a su derecho convengan, en un plazo máximo de quince días hábiles a partir de la notificación respectiva.
+La Procuraduría o los ayuntamientos, una vez recibida la denuncia, procederán por los medios que resulten conducentes a identificar al denunciante, y en su caso, harán saber la denuncia a la persona o personas, o a las autoridades a quienes se imputen los hechos denunciados o a quienes pueda afectar el resultado de la acción emprendida, a fin de que presenten los documentos y pruebas que a su derecho convengan, en un plazo máximo de quince días hábiles a partir de la notificación respectiva.
 
-La Comisión o el Ayuntamiento efectuarán las diligencias necesarias con el propósito de determinar la existencia de actos, hechos u omisiones constitutivos de la denuncia, y para la evaluación correspondiente.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, B.O. 7 DE NOVIEMBRE DE 2011)</small>
+
+La Procuraduría o el Ayuntamiento efectuarán las diligencias necesarias con el propósito de determinar la existencia de actos, hechos u omisiones constitutivos de la denuncia, y para la evaluación correspondiente.
 
 Cuando una denuncia popular no implique violaciones a la normatividad ambiental ni afecte cuestiones de orden público e interés social las autoridades podrán sujetar la misma a un procedimiento de conciliación. En todo caso, se deberá escuchar a las partes involucradas.
 
@@ -2483,9 +2637,13 @@ Asimismo, en los casos previstos en esta ley, las autoridades referidas podrán 
 
 El denunciante podrá coadyuvar con las autoridades aportándoles las pruebas, documentación e información que estime pertinentes. Las autoridades deberán manifestar las consideraciones adoptadas respecto de la información proporcionada por el denunciante, al momento de resolver sobre la denuncia.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, B.O. 7 DE NOVIEMBRE DE 2011)</small>
+
 ###### ARTÍCULO 209.
 
-La Comisión o el Ayuntamiento, a más tardar dentro de los quince días hábiles siguientes a la presentación de la denuncia, hará del conocimiento del denunciante el trámite que se haya dado a aquélla y, dentro de los veinte días hábiles siguientes, el resultado de la verificación de los hechos y medidas impuestas.
+La Procuraduría o el Ayuntamiento, a más tardar dentro de los quince días hábiles siguientes a la presentación de la denuncia, hará del conocimiento del denunciante el trámite que se haya dado a aquélla y, dentro de los veinte días hábiles siguientes, el resultado de la verificación de los hechos y medidas impuestas.
 
 ###### ARTÍCULO 210.
 
@@ -2572,3 +2730,11 @@ EDUARDO BOURS CASTELO
 EL SECRETARIO DE GOBIERNO
 
 ROBERTO RUIBAL ASTIAZARAN
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+B.O. 7 DE NOVIEMBRE DE 2011.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor después de transcurridos ciento ochenta días naturales, posteriores al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado
