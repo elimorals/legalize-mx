@@ -4,7 +4,7 @@ identifier: "COL-ley-de-salud-del-estado-de-colima-18943"
 country: "mx"
 rank: "ley"
 publication_date: "2000-12-23"
-last_updated: "2011-09-24"
+last_updated: "2011-11-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18943&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "COL"
 
 LEY DE SALUD DEL ESTADO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE AGOSTO DE 2011.
-
-> <small>N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 24 DE SEPTIEMBRE DE 2011 NO APLICA AL ARTICULADO DEL DECRETO 363 PUBLICADO EN EL P.O. DE 31 DE AGOSTO DE 2011.</small>
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE NOVIEMBRE DE 2011.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Colima, el sábado 23 de diciembre de 2000.
 
@@ -139,9 +137,21 @@ i).- Salud ocupacional, para lo cual se promoverán, desarrollarán y difundirá
 
 j).- Prevención y control de las enfermedades transmisibles a las que se refiere la Ley General y de acuerdo con las disposiciones de la misma;
 
-k).- Prevención y control de enfermedades no transmisibles y accidentes; y
+> <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2011)</small>
 
-l).- Prevención de discapacidades y la rehabilitación de las personas con discapacidad.
+k).- Prevención y control de enfermedades no transmisibles y accidentes;
+
+> <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2011)</small>
+
+l).- Prevención de discapacidades y la rehabilitación de las personas con discapacidad;
+
+> <small>(ADICIONADO, P.O. 7 DE NOVIEMBRE DE 2011)</small>
+
+m).- Información y prevención del consumo de estupefacientes y psicotrópicos, así como la atención médica o tratamiento de las adicciones mediante la aplicación del Programa Nacional para la Prevención y Tratamiento de la Farmacodependencia, en términos del artículo 192 de la Ley General; y
+
+> <small>(ADICIONADO, P.O. 7 DE NOVIEMBRE DE 2011)</small>
+
+n).- Promoción y realización de campañas permanentes de orientación e información al público, de conformidad con el Programa Nacional para la Prevención y Tratamiento de la Farmacodependencia, para la prevención de daños a la salud, provocados por el consumo de estupefacientes y psicotrópicos.
 
 II.- Organizar, operar, supervisar y evaluar:
 
@@ -1594,3 +1604,15 @@ TERCERO.- Los propietarios, poseedores o titulares de los establecimientos compr
 P.O. 31 DE AGOSTO DE 2011.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 7 DE NOVIEMBRE DE 2011.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+SEGUNDO.- Las autoridades e instituciones del Estado deberán realizar las acciones necesarias a fin de dar el debido cumplimiento a las atribuciones contenidas en el presente Decreto, a más tardar el 21 de agosto del 2012.
+
+TERCERO.- Los procedimientos penales que se estén substanciando a la entrada en vigor del presente Decreto, se seguirán conforme las disposiciones vigentes al momento de la comisión de los hechos.
+
+CUARTO.- El Gobierno Federal deberá financiar las acciones derivadas del cumplimiento del Decreto número 211, aprobado por el Congreso de la Unión, por el que se reforman, adicionan y derogan diversas disposiciones de la Ley General de Salud, del Código Penal Federal y del Código Federal de Procedimientos Penales, publicado en el Diario Oficial de la Federación el 20 de agosto de 2009, con los recursos que anualmente se prevean en el Presupuesto de Egresos de la Federación, en términos del Artículo Cuarto Transitorio del citado Decreto.
+
+QUINTO.- Los Poderes Ejecutivo y Legislativo Estatales deberán prever y realizar las acciones necesarias para asegurar los recursos en el Presupuesto de Egresos del Estado, a fin de que las autoridades del fuero común puedan dar cumplimiento a la competencia y atribuciones establecidas en el Decreto número 211, referido en el artículo anterior.
