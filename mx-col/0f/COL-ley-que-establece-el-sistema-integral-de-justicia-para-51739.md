@@ -4,7 +4,7 @@ identifier: "COL-ley-que-establece-el-sistema-integral-de-justicia-para-51739"
 country: "mx"
 rank: "ley"
 publication_date: "2006-09-09"
-last_updated: "2009-02-21"
+last_updated: "2011-11-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51739&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY QUE ESTABLECE EL SISTEMA INTEGRAL DE JUSTICIA PARA ADOLESCENTES DEL ESTADO DE COLlMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE FEBRERO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE NOVIEMBRE DE 2011.
 
 Ley publicada en el Suplemento al Periódico Oficial del Estado de Colima, el sábado 9 de septiembre de 2006.
 
@@ -51,7 +51,7 @@ D E C R E T O No. 410
 
 Se aprueba la Ley que Establece el Sistema Integral de Justicia para Adolescentes del Estado de Colima, para quedar como sigue:
 
-"LEY QUE ESTABLECE EL SISTEMA INTEGRAL DE JUSTICIA PARA ADOLESCENTES DEL ESTADO DE COLlMA
+LEY QUE ESTABLECE EL SISTEMA INTEGRAL DE JUSTICIA PARA ADOLESCENTES DEL ESTADO DE COLlMA
 
 ## TÍTULO PRIMERO. DE LAS DISPOSICIONES GENERALES
 
@@ -61,7 +61,9 @@ Se aprueba la Ley que Establece el Sistema Integral de Justicia para Adolescente
 
 La presente Ley es de orden público y de observancia general en el Estado de Colima y tiene por objeto:
 
-I. Establecer un sistema integral de justicia para adolescentes mayores de doce y menores de dieciocho años que hayan realizado conductas previstas como delito en el Código Penal y otras leyes del Estado, que responda a los principios de mínima intervención, subsidiariedad, especialización, flexibilidad procesal y reincorporación social;
+> <small>(REFORMADA, P.O. 7 DE NOVIEMBRE DE 2011)</small>
+
+I. Establecer un sistema integral de justicia para adolescentes mayores de doce y menores de dieciocho años que hayan realizado conductas previstas como delito en el Código Penal y otras leyes que deban aplicar los tribunales del Estado, que responda a los principios de mínima intervención, subsidiariedad, especialización, flexibilidad procesal y reincorporación social;
 
 II. Identificar las bases de la responsabilidad social y civil de los adolescentes que cometan delitos, así como las causas excIuyentes y extintivas de dicha responsabilidad;
 
@@ -145,13 +147,17 @@ XXI. Centros de tratamiento en libertad: Los centros dependientes del instituto,
 
 ### CAPÍTULO II. DE LA RESPONSABILIDAD SOCIAL Y CIVIL DE LOS ADOLESCENTES
 
+> <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2011)</small>
+
 ###### Artículo 4°.
 
-Son inimputables para el derecho penal y no se admitirá prueba en contrario, los menores de dieciocho y mayores de doce años de edad que hayan intervenido en conductas previstas como delitos, sin perjuicio de la responsabilidad social en que incurran y la obligación civil de reparar el daño.
+Son inimputables para el derecho penal y no se admitirá prueba en contrario, los menores de dieciocho y mayores de doce años de edad que hayan intervenido en conductas previstas como delitos en el Código Penal y otras leyes que deban aplicar los tribunales del Estado, sin perjuicio de la responsabilidad social en que incurran y la obligación civil de reparar el daño.
+
+> <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2011)</small>
 
 ###### Artículo 5°.
 
-Los menores que participen en conductas previstas como delito son responsables ante la sociedad por el daño causado, a pesar de que su inteligencia y voluntad no se hayan desarrollado plenamente, por lo que pueden ser procesados y condenados a medidas de readaptación para evitar la comisión de otras conductas antijurídicas y, también, a reparar el daño causado con cargo a sus propios bienes, sin perjuicio de la responsabilidad pecuniaria de quienes ejerzan la patria potestad, la tutela o la custodia del adolescente al momento de cometer el hecho ilícito.
+Los menores que participen en conductas previstas como delito en el Código Penal y otras leyes que deban aplicar los tribunales del Estado son responsables ante la sociedad por el daño causado, a pesar de que su inteligencia y voluntad no se hayan desarrollado plenamente, por lo que pueden ser procesados y condenados a medidas de readaptación para evitar la comisión de otras conductas antijurídicas y, también, a reparar el daño causado con cargo a sus propios bienes, sin perjuicio de la responsabilidad pecuniaria de quienes ejerzan la patria potestad, la tutela o la custodia del adolescente al momento de cometer el hecho ilícito.
 
 ###### Artículo 6°.
 
@@ -179,7 +185,9 @@ Cuando exista duda fundada respecto a la niñez o la adolescencia de un infracto
 
 Los mayores de doce y menores de catorce años, cualquiera que sea el delito cometido, no serán sometidos a detención provisional ni a medidas de readaptación social en centros de internamiento. En los casos de flagrancia, una vez identificado al menor y demostrada su edad, será puesto en libertad bajo custodia de quienes ejerzan la patria potestad o la tutela o, en su caso, de persona honorable que proteste presentarlo cuantas veces lo requiera el Ministerio Público o el Juez.
 
-Los mayores de catorce y menores de dieciocho años, solo serán internados cuando cometan cualquiera de los delitos graves previstos por este ordenamiento, pero serán puestos en libertad caucional o bajo protesta y entregados en custodia de quienes ejerzan la patria potestad o la tutela, en los casos señalados en esta Ley.
+> <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2011)</small>
+
+Los mayores de catorce y menores de dieciocho años, solo serán internados cuando cometan cualquiera de los delitos graves previstos por este ordenamiento y otras leyes que deban aplicar los tribunales del Estado, pero serán puestos en libertad caucional o bajo protesta y entregados en custodia de quienes ejerzan la patria potestad o la tutela, en los casos señalados en esta Ley.
 
 ###### Artículo 11.
 
@@ -233,7 +241,9 @@ Puede solicitarse, sin embargo, la declaración de inocencia del menor, en los t
 
 La prescripción de la acción social respecto a las conductas formalmente delictivas realizadas por inimputables, se producirá en el término medio aritmético de la pena prevista para el delito, que nunca será menor de uno, ni mayor de cinco años, debiendo aplicarse las reglas del Código Penal sobre prescripción de la acción, incluyendo la interrupción de la misma y el inicio del término según la naturaleza instantánea, permanente o continuada del delito. La interrupción de la prescripción solo puede prolongar el término en una mitad más de su duración, lo que también ocurrirá cuando el infractor se oculte en otro Estado o en el extranjero.
 
-La prescripción de la acción en los casos de conductas delictivas que no tengan prevista pena de prisión en el Código Penal, se producirá en el término de un año, tomando en cuenta lo dispuesto en el párrafo anterior.
+> <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2011)</small>
+
+La prescripción de la acción en los casos de conductas delictivas que no tengan prevista pena de prisión en el Código Penal y otras leyes que deban aplicar los tribunales del Estado, se producirá en el término de un año, tomando en cuenta lo dispuesto en el párrafo anterior.
 
 ###### Artículo 20.
 
@@ -338,6 +348,10 @@ Si se ratifica la detención, el Juez analizará la procedencia del beneficio y 
 ###### Artículo 34.
 
 Por su clara antijuricidad, la tendencia criminal de su autor y la intensidad del daño que causan, se consideran como delitos graves, que no alcanzan libertad caucional y que legitiman la detención provisional o las medidas de internamiento de menores infractores: el homicidio simple o calificado; las lesiones dolosas que produzcan la pérdida de cualquier órgano o función, una enfermedad incurable o una incapacidad total y permanente o Incapacidad parcial y permanente para trabajar, así como las lesiones que ponen en peligro la vida, la privación ilegal de libertad y el secuestro; la violación en todas sus formas y modalidades; el robo con violencia en las personas, en las cosas o en el lugar habitado; el robo de vehículo de motor; así como el robo aprovechando catástrofes o desórdenes públicos y el realizado por dos o más personas empleando premeditación o asechanza; el abigeato cometido con violencia o en grupos de dos o más personas, y la asociación delictuosa en su forma de delincuencia organizada; igualmente se consideran graves los delitos de tentativa de homicidio simple o calificado; la de secuestro, así como la tentativa de robo en lugar habitado y de vehículo de motor y la tentativa de violación en todas sus formas y modalidades.
+
+> <small>(ADICIONADO, P.O. 7 DE NOVIEMBRE DE 2011)</small>
+
+Los delitos contra la salud en su modalidad de narcomenudeo previstos en los artículos 475 y 476 de la Ley General de Salud.
 
 ###### Artículo 35.
 
@@ -829,9 +843,11 @@ El internamiento domiciliario con terapia individual o familiar, consistirá en 
 
 La amonestación se realizará en privado por el Juez o Sala Especializada que haya dictado la sentencia, en presencia del infractor y de quienes ejerzan la patria potestad, la tutela o la custodia, haciendo notar a estos últimos su posible responsabilidad en la atención y vigilancia del menor y el apoyo que deben prestarle durante la ejecución de las medidas impuestas, dejando constancia de esta diligencia.
 
+> <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2011)</small>
+
 ###### Artículo 107.
 
-El trabajo a favor de la comunidad se aplicará hasta por el término de cincuenta jornadas, a juicio de la autoridad que resuelva, siempre que se trate de un delito que no esté previsto como grave en los términos de esta ley y que el menor manifieste su conformidad con la medida. Si el menor o su representante legal se oponen al trabajo, el Juez podrá imponer cualquier otra medida.
+El trabajo a favor de la comunidad se aplicará hasta por el término de cincuenta jornadas, a juicio de la autoridad que resuelva, siempre que se trate de un delito que no esté previsto como grave en los términos de esta ley u otras leyes que deban aplicar los tribunales del Estado y que el menor manifieste su conformidad con la medida. Si el menor o su representante legal se oponen al trabajo, el Juez podrá imponer cualquier otra medida.
 
 ###### Artículo 108.
 
@@ -843,15 +859,19 @@ En este caso se entregará al menor un instructivo que señale el tipo de servic
 
 El Instituto deberá asignar un supervisor que vigile la prestación del servicio en los días y horas fijados; que asigne nuevos trabajos al menor, cuando sea necesario para complementar las jornadas impuestas y que, cumplida la medida, certifique su conclusión e informe al Juez competente.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 7 DE NOVIEMBRE DE 2011)</small>
+
 ###### Artículo 110.
 
-La libertad asistida con arraigo domiciliario, no podrá exceder del término de un año y solo procederá en los delitos que no estén calificados como graves por esta ley.
+La libertad asistida con arraigo domiciliario, no podrá exceder del término de un año y solo procederá en los delitos que no estén calificados como graves por esta ley u otras leyes que deban aplicar los tribunales del Estado.
 
 El instituto supervisará la aplicación de la medida, empleando medios electrónicos cuando sea posible y, en caso de incumplimiento, informará al Juez que la impuso para que haga comparecer al menor y a la persona encargada de su vigilancia y les aperciba que de reiterarse la violación, se aplicará multa de veinte a cien salarios mínimos a este último se duplicará la duración de la medida en perjuicio del menor.
 
+> <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2011)</small>
+
 ###### Artículo 111.
 
-El tratamiento, formación o educación en instituciones abiertas, puede aplicarse en los delitos que no estén previstos como graves en esta ley o cualquiera que sea el delito si se hubiera cometido por menores de catorce años. Será aplicado por el Instituto en alguno de los centros de tratamiento en libertad, o supervisado por alguno de sus inspectores cuando se trate de iniciar o continuar estudios, capacitación técnica u orientación profesional.
+El tratamiento, formación o educación en instituciones abiertas, puede aplicarse en los delitos que no estén previstos como graves en esta ley u otras leyes que deban aplicar los tribunales del Estado o cualquiera que sea el delito si se hubiera cometido por menores de catorce años. Será aplicado por el Instituto en alguno de los centros de tratamiento en libertad, o supervisado por alguno de sus inspectores cuando se trate de iniciar o continuar estudios, capacitación técnica u orientación profesional.
 
 ###### Artículo 112.
 
@@ -957,9 +977,11 @@ En los casos de que el menor se vincule con las personas antes señaladas, viole
 
 Si el infractor sometido a medidas de buena conducta es mayor de edad al momento de violar las prohibiciones impuestas, será consignado al Juez penal que corresponda.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 7 DE NOVIEMBRE DE 2011)</small>
+
 ###### Artículo 129.
 
-El internamiento pleno en un centro especializado solo puede imponerse a quienes, teniendo más de catorce y menos de dieciocho años, hayan realizado algún delito calificado como grave, en los términos de esta ley.
+El internamiento pleno en un centro especializado solo puede imponerse a quienes, teniendo más de catorce y menos de dieciocho años, hayan realizado algún delito calificado como grave, en los términos de esta ley u otras leyes que deban aplicar los tribunales del Estado.
 
 La duración de la medida será de uno a diez años, atendiendo a las circunstancias de comisión del delito, entre ellas la calidad anímica del acto, el arma empleada, el número de personas, la hora y lugar en que se realicen, así como los daños causados, tomando en cuenta también los antecedentes del menor y la intervención de la víctima, entre otros parámetros, procurando armonizar la medida con las necesidades del menor y su familia, ya que la medida impuesta no debe tener fines punitivos sino de rehabilitación y prevención del delito.
 
@@ -1078,3 +1100,15 @@ P.O. 21 DE FEBRERO DE 2009.
 PRIMERO.- El presente Decreto entrará en vigor a los 60 días después de su publicación en el Periódico Oficial "El Estado de Colima".
 
 SEGUNDO.- Los procedimientos iniciados con anterioridad a la entrada en vigor del presente decreto, serán concluidos conforme a las disposiciones vigentes con anterioridad a éste.
+
+P.O. 7 DE NOVIEMBRE DE 2011.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+SEGUNDO.- Las autoridades e instituciones del Estado deberán realizar las acciones necesarias a fin de dar el debido cumplimiento a las atribuciones contenidas en el presente Decreto, a más tardar el 21 de agosto del 2012.
+
+TERCERO.- Los procedimientos penales que se estén substanciando a la entrada en vigor del presente Decreto, se seguirán conforme las disposiciones vigentes al momento de la comisión de los hechos.
+
+CUARTO.- El Gobierno Federal deberá financiar las acciones derivadas del cumplimiento del Decreto número 211, aprobado por el Congreso de la Unión, por el que se reforman, adicionan y derogan diversas disposiciones de la Ley General de Salud, del Código Penal Federal y del Código Federal de Procedimientos Penales, publicado en el Diario Oficial de la Federación el 20 de agosto de 2009, con los recursos que anualmente se prevean en el Presupuesto de Egresos de la Federación, en términos del Artículo Cuarto Transitorio del citado Decreto.
+
+QUINTO.- Los Poderes Ejecutivo y Legislativo Estatales deberán prever y realizar las acciones necesarias para asegurar los recursos en el Presupuesto de Egresos del Estado, a fin de que las autoridades del fuero común puedan dar cumplimiento a la competencia y atribuciones establecidas en el Decreto número 211, referido en el artículo anterior.
