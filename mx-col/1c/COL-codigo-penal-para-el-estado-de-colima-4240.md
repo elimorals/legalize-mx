@@ -4,7 +4,7 @@ identifier: "COL-codigo-penal-para-el-estado-de-colima-4240"
 country: "mx"
 rank: "codigo"
 publication_date: "1985-07-27"
-last_updated: "2011-10-15"
+last_updated: "2011-11-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4240&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "COL"
 
 CODIGO PENAL PARA EL ESTADO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE OCTUBRE DE 2011.
-
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 15 DE OCTUBRE DE 2011.</small>
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE NOVIEMBRE DE 2011.
 
 Código publicado en el Periódico Oficial del Estado de Colima, el sábado 27 de julio de 1985.
 
@@ -57,7 +55,11 @@ Este Código se aplicará por los delitos que sean competencia de los Tribunales
 
 I.- Para los previstos en Leyes especiales se aplicarán las disposiciones de la parte general en lo no establecido por aquéllas;
 
-II.- Por los que se preparen, inicien, consumen o tengan efectos dentro del territorio estatal.
+> <small>(ADICIONADA, P.O. 7 DE NOVIEMBRE DE 2011)</small>
+
+II.- Para los previstos en el Capítulo VII, del Título Décimo Octavo, de la Ley General de Salud, denominado delitos contra la salud en su modalidad de narcomenudeo, se aplicarán las disposiciones de la parte general de este Código en lo no establecido por el citado ordenamiento federal; y
+
+III.- Por los que se preparen, inicien, consumen o tengan efectos dentro del territorio estatal.
 
 ###### ARTICULO 2.
 
@@ -1817,7 +1819,7 @@ LENOCINIO.
 
 Al que obligue, induzca, procure, o facilite, a persona menor de edad o persona que no tenga capacidad para comprender el significado del hecho o no se pueda resistir a éste, a realizar actos de exhibicionismo corporal, a la práctica de la ebriedad, el consumo de sustancias tóxicas o algún tipo de estupefaciente, psicotrópico o vegetal que determine la Ley General de Salud como ilegales, la prostitución o cualquier otras prácticas sexuales, o la corrupción de cualquier naturaleza, se le impondrán de tres a ocho años de prisión y multa de cincuenta hasta ciento cincuenta unidades.
 
-Cuando la corrupción consista en obligar, inducir, procurar o facilitar de cualquier forma el de sustancias tóxicas como, solventes, pegamentos, thiners, cementos plásticos, medicamentos, o cualquier otro que produzca un resultado igual, así como algún tipo de estupefaciente, psicotrópico o vegetal que determine la Ley General de Salud como ilegales, a una persona menor de edad o de quien no tenga capacidad para comprender el significado del hecho o no se pueda resistir a éste, se le impondrá de cinco a diez años de prisión y multa de cien hasta doscientas cincuenta unidades.
+Cuando la corrupción consista en obligar, inducir, procurar o facilitar de cualquier forma el de sustancias tóxicas como, solventes, pegamentos, thiners, cementos plásticos, medicamentos, o cualquier otro que produzca un resultado igual así como algún tipo de estupefaciente, psicotrópico o vegetal que determine la Ley General de Salud como ilegales, a una persona menor de edad o de quien no tenga capacidad para comprender el significado del hecho o no se pueda resistir a éste, se le impondrá de cinco a diez años de prisión y multa de cien hasta doscientas cincuenta unidades.
 
 Cuando de la práctica reiterada de los actos de corrupción de las personas a que alude el primer párrafo de éste artículo, éstas adquieran el hábito de la fármaco dependencia, se dedique a la prostitución o forme parte de la asociación delictuosa, la pena será de seis a doce años de prisión y multa de quinientas a mil quinientas unidades.
 
@@ -2497,6 +2499,10 @@ Si la enfermedad padecida fuera incurable, se impondrá de tres a ocho años de 
 
 > <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 31 DE AGOSTO DE 2011)</small>
 
+### CAPITULO III.
+
+RAPTO.
+
 ### CAPÍTULO IV. DESAPARICIÓN FORZADA DE PERSONAS
 
 > <small>(ADICIONADO, P.O. 8 DE OCTUBRE DE 2011)</small>
@@ -2512,10 +2518,6 @@ Las sanciones previstas en los párrafos precedentes se disminuirán en una terc
 > <small>(ADICIONADO, P.O. 8 DE OCTUBRE DE 2011)</small>
 
 ARTICULO 202 BIS 1.- Se equipara al delito de desaparición forzada de personas, la ocultación de familiares de víctimas de este delito o nacidos de una madre víctima de desaparición forzada, durante el cautiverio.
-
-### CAPITULO III.
-
-RAPTO.
 
 ## TITULO CUARTO.
 
@@ -2641,8 +2643,6 @@ XII.- Se torture o mutile cualquier parte del cuerpo de la víctima.
 
 Si espontáneamente se pone en libertad a la persona antes de veinticuatro horas y sin causar daños o perjuicios graves, sólo se aplicará hasta las dos terceras partes de la pena prevista para cualquiera de los casos señalados en este artículo.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 8 DE OCTUBRE DE 2011)</small>
-
 ### CAPITULO III.
 
 REVELACION DE SECRETOS.
@@ -2670,6 +2670,8 @@ Por el sólo hecho de no haber cumplido dieciocho años de edad, la persona que 
 ###### ARTICULO 202.
 
 Este delito sólo se perseguirá por querella necesaria.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 8 DE OCTUBRE DE 2011)</small>
 
 ### CAPITULO I.
 
@@ -3828,3 +3830,15 @@ P.O. 8 DE OCTUBRE DE 2011.
 DECRETO No. 369 POR EL QUE SE REFORMA EL SEGUNDO PARRAFO DEL ARTICULO 211, DEL CODIGO PENAL PARA EL ESTADO DE COLIMA.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 7 DE NOVIEMBRE DE 2011.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+SEGUNDO.- Las autoridades e instituciones del Estado deberán realizar las acciones necesarias a fin de dar el debido cumplimiento a las atribuciones contenidas en el presente Decreto, a más tardar el 21 de agosto del 2012.
+
+TERCERO.- Los procedimientos penales que se estén substanciando a la entrada en vigor del presente Decreto, se seguirán conforme las disposiciones vigentes al momento de la comisión de los hechos.
+
+CUARTO.- El Gobierno Federal deberá financiar las acciones derivadas del cumplimiento del Decreto número 211, aprobado por el Congreso de la Unión, por el que se reforman, adicionan y derogan diversas disposiciones de la Ley General de Salud, del Código Penal Federal y del Código Federal de Procedimientos Penales, publicado en el Diario Oficial de la Federación el 20 de agosto de 2009, con los recursos que anualmente se prevean en el Presupuesto de Egresos de la Federación, en términos del Artículo Cuarto Transitorio del citado Decreto.
+
+QUINTO.- Los Poderes Ejecutivo y Legislativo Estatales deberán prever y realizar las acciones necesarias para asegurar los recursos en el Presupuesto de Egresos del Estado, a fin de que las autoridades del fuero común puedan dar cumplimiento a la competencia y atribuciones establecidas en el Decreto número 211, referido en el artículo anterior.
