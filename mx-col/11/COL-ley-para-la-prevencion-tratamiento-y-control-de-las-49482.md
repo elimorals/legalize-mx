@@ -4,7 +4,7 @@ identifier: "COL-ley-para-la-prevencion-tratamiento-y-control-de-las-49482"
 country: "mx"
 rank: "ley"
 publication_date: "2006-02-18"
-last_updated: "2007-05-12"
+last_updated: "2011-11-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=49482&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY PARA LA PREVENCION, TRATAMIENTO Y CONTROL DE LAS ADICCIONES EN EL ESTADO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE MAYO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE NOVIEMBRE DE 2011.
 
 Ley publicada en el Suplemento No 4 del Periódico Oficial del Estado de Colima, el sábado 18 de febrero de 2006.
 
@@ -77,13 +77,23 @@ III.- Desarrollar e implementar un programa integral para fomentar en la socieda
 
 IV.- Promover la participación comunitaria en la prevención de las causas y condiciones que inciden en la problemática de las adicciones; y
 
-V.- Promover el tratamiento y rehabilitación de los adictos, mediante el establecimiento de centros especializados y con la participación de los sectores social y privado, cuidando que los programas se ajusten a la Norma Oficial Mexicana establecida para la prevención, tratamiento y control de las adicciones.
+> <small>(REFORMADA, P.O. 7 DE NOVIEMBRE DE 2011)</small>
+
+V.- Promover el tratamiento y rehabilitación de los adictos, mediante el establecimiento de centros especializados, que funcionen con base en sistemas modernos de tratamiento y rehabilitación, fundados en el respeto a la integridad y a la libre decisión de los farmacodependientes, y con la participación de los sectores social y privado, cuidando que los programas se ajusten a la Norma Oficial Mexicana establecida para la prevención, tratamiento y control de las adicciones, así como al Programa Nacional para la Prevención y Tratamiento de la Farmacodependencia.
 
 ### CAPÍTULO II. DEL CONSEJO ESTATAL CONTRA LAS ADICCIONES
 
 ###### ARTICULO 4.
 
 La Secretaría de Salud concertará a través del Consejo Estatal contra las Adicciones, con las autoridades de los sectores educativo, asistencial, de desarrollo social, de Seguridad Pública y de Procuración de Justicia, la integración de un Plan Estatal contra las adicciones, y el fortalecimiento de acciones coordinadas tendientes a prevenir el uso de substancias adictivas, así como el tratamiento y rehabilitación de los adictos y sus familias, tanto a través de los centros oficiales como de los sectores social y privado.
+
+> <small>(ADICIONADO, P.O. 7 DE NOVIEMBRE DE 2011)</small>
+
+En todos los planes y programas para la prevención, tratamiento, control y rehabilitación de las adicciones, se deberán acatar los procedimientos y criterios establecidos en el Programa Nacional para la Prevención y Tratamiento de la Farmacodependencia.
+
+> <small>(ADICIONADO, P.O. 7 DE NOVIEMBRE DE 2011)</small>
+
+Dicho Programa será de observancia obligatoria para los establecimientos de los sectores público, privado y social que realicen actividades preventivas, de tratamiento y de control de las adicciones y la farmacodependencia.
 
 ###### ARTICULO 5.
 
@@ -117,13 +127,13 @@ e).- Procuraduría General de Justicia del Estado;
 
 f).- Sistema Estatal para el Desarrollo Integral de la Familia;
 
-> <small>(REFORMADO, P.O. 12 DE MAYO DE 2007)</small>
+> <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2011)</small>
 
-g).- Comisión de Salud, Asistencia Social, y Protección a la Niñez, Juventud, Adultos Mayores y Discapacidad del Congreso del Estado;
+g).- Comisión de Salud, Deporte y Fomento del Sano Esparcimiento del Congreso del Estado;
 
-> <small>(REFORMADO, P.O. 12 DE MAYO DE 2007)</small>
+> <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2011)</small>
 
-h).- Comisión de Seguridad Pública, Prevención y Readaptación Social, y Protección Civil Congreso del Estado;
+h).- Comisión de Seguridad Pública, Protección Civil, Prevención y Readaptación Social del Congreso del Estado;
 
 i).- Los Ayuntamientos de la entidad;
 
@@ -437,9 +447,11 @@ El Gobierno del Estado y los Municipales, promoverán programas de tratamiento y
 
 El Gobierno del Estado y los Gobiernos municipales promoverán la participación del sector privado para impulsar la creación, establecimiento y operación de centros de tratamiento, que permitan ofrecer un servicio profesional y humano a las personas afectas al padecimiento de las adicciones.
 
+> <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2011)</small>
+
 ###### ARTICULO 62.
 
-Corresponderá al sector salud coordinar, supervisar, dar seguimiento y evaluar los programas de tratamiento y rehabilitación que se realicen por los Gobiernos Estatal y Municipal y el sector social o privado.
+Corresponderá al sector salud coordinar, supervisar, dar seguimiento y evaluar los programas de tratamiento y rehabilitación que se realicen por los Gobiernos Estatal y Municipal y el sector social o privado, debiendo observar al respecto lo dispuesto por el artículo 4 de la presente Ley.
 
 ###### ARTICULO 63.
 
@@ -491,6 +503,14 @@ V.- Presentar ante la Secretaría de Salud, los programas de tratamiento terapé
 
 VI.- Las demás que establezca ésta Ley.
 
+> <small>(ADICIONADO, P.O. 7 DE NOVIEMBRE DE 2011)</small>
+
+Para determinar la ubicación de los centros de tratamiento, atención y rehabilitación contra las adicciones, la Secretaría de Salud deberá realizar estudios rigurosos sobre el impacto de las adicciones en todo el territorio Estatal.
+
+> <small>(ADICIONADO, P.O. 7 DE NOVIEMBRE DE 2011)</small>
+
+Los centros de tratamiento, atención y rehabilitación contra las adicciones, deberán establecer y contar con sistemas modernos de tratamiento y rehabilitación, fundamentados en el respeto a la integridad y a la libre decisión del adicto.
+
 ###### ARTICULO 70.
 
 Los programas de tratamiento para la rehabilitación de los adictos, no deberán contemplar acciones que atenten contra la dignidad y la salud de los adictos.
@@ -498,6 +518,18 @@ Los programas de tratamiento para la rehabilitación de los adictos, no deberán
 ###### ARTICULO 71.
 
 Los centros de tratamiento tendrán la obligación de informar a la Secretaría de Salud, la relación de los usuarios sujetos a rehabilitación, comunicando mensualmente las observaciones entorno a los avances que presenten los mismos, de acuerdo con las actividades de capacitación implementadas.
+
+> <small>(ADICIONADO, P.O. 7 DE NOVIEMBRE DE 2011)</small>
+
+La Secretaría de Salud con el fin de orientar a la población sobre los servicios de prevención, tratamiento, atención y reinserción social en materia de adicciones deberá de:
+
+I.- Crear un padrón de instituciones y organismos públicos y privados que realicen actividades de prevención, tratamiento, atención y reinserción social en materia de adicciones, que contenga las características de atención, condiciones y requisitos para acceder a los servicios que ofrecen, y
+
+II.- Celebrar convenios de colaboración con instituciones nacionales e internacionales de los sectores social y privado, y con personas físicas que se dediquen a la prevención, tratamiento, atención y reinserción social en materia de adicciones, con el fin de que quienes requieran de asistencia, puedan, conforme a sus necesidades, características, posibilidades económicas, acceder a los servicios que todas estas instituciones o personas físicas ofrecen.
+
+> <small>(ADICIONADO, P.O. 7 DE NOVIEMBRE DE 2011)</small>
+
+Para efectos de realizar las acciones vinculadas al proceso de superación de las adicciones o farmacodependencia, la Secretaría de Salud estatal y las instituciones públicas y privadas dedicadas a la prevención, tratamiento, control y rehabilitación de las adicciones, deberán coordinarse con la Secretaría de Salud del Gobierno Federal, en términos del artículo 192 Sextus de la Ley General de Salud.
 
 ###### ARTICULO 72.
 
@@ -558,3 +590,15 @@ EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, LIC. JESÚS SILVERIO CAVAZOS CEBALLOS. 
 P.O. 12 DE MAYO DE 2007.
 
 ÚNICO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 7 DE NOVIEMBRE DE 2011.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+SEGUNDO.- Las autoridades e instituciones del Estado deberán realizar las acciones necesarias a fin de dar el debido cumplimiento a las atribuciones contenidas en el presente Decreto, a más tardar el 21 de agosto del 2012.
+
+TERCERO.- Los procedimientos penales que se estén substanciando a la entrada en vigor del presente Decreto, se seguirán conforme las disposiciones vigentes al momento de la comisión de los hechos.
+
+CUARTO.- El Gobierno Federal deberá financiar las acciones derivadas del cumplimiento del Decreto número 211, aprobado por el Congreso de la Unión, por el que se reforman, adicionan y derogan diversas disposiciones de la Ley General de Salud, del Código Penal Federal y del Código Federal de Procedimientos Penales, publicado en el Diario Oficial de la Federación el 20 de agosto de 2009, con los recursos que anualmente se prevean en el Presupuesto de Egresos de la Federación, en términos del Artículo Cuarto Transitorio del citado Decreto.
+
+QUINTO.- Los Poderes Ejecutivo y Legislativo Estatales deberán prever y realizar las acciones necesarias para asegurar los recursos en el Presupuesto de Egresos del Estado, a fin de que las autoridades del fuero común puedan dar cumplimiento a la competencia y atribuciones establecidas en el Decreto número 211, referido en el artículo anterior.
