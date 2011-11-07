@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-interior-del-tribunal-electoral-del-distrito-75701"
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-07-22"
-last_updated: "2010-07-22"
+last_updated: "2011-11-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=75701&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,9 @@ issue_date: "2010-07-09"
 
 REGLAMENTO INTERIOR DEL TRIBUNAL ELECTORAL DEL DISTRITO FEDERAL
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DEL TRIBUNAL ELECTORAL DEL DISTRITO FEDERAL, PUBLICADO EN LA G.O. DE 7 DE NOVIEMBRE DE 2011, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: ABROGADO.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el jueves 22 de julio de 2010.
 
@@ -1965,3 +1967,15 @@ EL SECRETARIO GENERAL DEL TRIBUNAL ELECTORAL DEL DISTRITO FEDERAL
 (Firma)
 
 GREGORIO GALVÁN RIVERA
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+G.O. 7 DE NOVIEMBRE DE 2011.
+
+PRIMERO. El presente Reglamento entrará en vigor al día siguiente de su publicación en los estrados del Tribunal.
+
+SEGUNDO. Se abroga el Reglamento Interior del Tribunal Electoral del Distrito Federal aprobado por el Pleno de este órgano jurisdiccional en reunión privada del veintinueve de junio de dos mil diez.
+
+TERCERO. La estructura del Tribunal quedará integrada de conformidad con lo establecido en el artículo 3 de este Reglamento, por lo que deberán realizarse las adecuaciones a los manuales y demás normativa interna que regulen su funcionamiento.
+
+CUARTO. Publíquese este Reglamento en la Gaceta, así como en los Estrados y en el sitio de Internet del Tribunal.
