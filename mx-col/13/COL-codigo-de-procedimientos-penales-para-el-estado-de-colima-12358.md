@@ -4,7 +4,7 @@ identifier: "COL-codigo-de-procedimientos-penales-para-el-estado-de-colima-12358
 country: "mx"
 rank: "codigo"
 publication_date: "1997-08-02"
-last_updated: "2011-10-15"
+last_updated: "2011-11-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12358&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "COL"
 
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE AGOSTO DE 2011.
-
-> <small>N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 15 DE OCTUBRE DE 2011 NO APLICA AL ARTICULADO DEL DECRETO 356 PUBLICADO EN EL P.O. DE 27 DE AGOSTO DE 2011.</small>
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE NOVIEMBRE DE 2011.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Colima, el sábado 2 de agosto de 1997.
 
@@ -173,6 +171,22 @@ El procedimiento de sustitución se sujetará a lo que señala la Ley Orgánica 
 
 Compete al Ministerio Público llevar a cabo la preparación y el ejercicio de la acción penal ante los Tribunales del Estado, en los casos que resulte procedente.
 
+> <small>(ADICIONADO, P.O. 7 DE NOVIEMBRE DE 2011)</small>
+
+Asimismo, compete al Ministerio Público llevar a cabo la preparación y el ejercicio de la acción penal ante los tribunales del fuero común, en los delitos contra la salud en su modalidad de narcomenudeo, de conformidad con lo dispuesto por el artículo 474 y demás relativos del Capítulo VII, del Título Décimo Octavo de la Ley General de Salud.
+
+> <small>(ADICIONADO, P.O. 7 DE NOVIEMBRE DE 2011)</small>
+
+ARTICULO 19 BIS. El Ministerio Público del fuero común deberá informar oportunamente al Ministerio Público Federal del inicio de las averiguaciones previas en los delitos contra la salud en su modalidad de narcomenudeo, a efecto de que esta última autoridad cuente con los elementos necesarios para, en su caso, determinar la solicitud de remisión de la investigación independientemente de la cantidad de narcótico.
+
+En el supuesto de que el Ministerio Público del fuero común haya iniciado la averiguación previa, en los casos de competencia del fuero federal, las diligencias practicadas serán válidas, teniendo la obligación de remitirla al Ministerio Público Federal dentro de los tres días de haber concluido el acta o diligencias levantadas, y todo lo que con ellas se relacione.
+
+Si hubiese detenido, la remisión será sin demora y se observarán las disposiciones relativas a la retención ministerial por flagrancia o urgencia, según corresponda, en los términos establecidos en el artículo 16 de la Constitución Política de los Estados Unidos Mexicanos.
+
+Cuando el Ministerio Público Federal haya iniciado la averiguación previa por delitos contra la salud en su modalidad de narcomenudeo, y advierta que es de la competencia del Ministerio Público del fuero común, podrá remitirla a éste para su conocimiento, en los términos del artículo 474 de la ley General de Salud.
+
+Si de las constancias del procedimiento se advierte la incompetencia de las autoridades del fuero común, remitirán el expediente al Ministerio Público de la Federación o al Juez Federal que corresponda, dependiendo de la etapa procesal en que se encuentre, a fin de que se continúe el procedimiento, para lo cual las diligencias desahogadas hasta ese momento por la autoridad considerada incompetente gozarán de plena validez.
+
 ###### ARTICULO 20.
 
 En las diligencias de preparación de la acción procesal penal corresponderá al Ministerio Público:
@@ -246,6 +260,18 @@ El Ministerio Público deberá fundar y motivar sus determinaciones, requerimien
 La Policía de Procuración de Justicia del Estado es auxiliar del Ministerio Público, y actuará bajo su autoridad y mando inmediato. De acuerdo con sus instrucciones, llevará a cabo las investigaciones que deban practicarse, y cumplirá las citaciones, notificaciones y presentaciones que le encomiende.
 
 La Policía de Procuración de Justicia recabará los datos que resulten necesarios, rindiendo los informes correspondientes al Ministerio Público, pero no podrá por y ante sí desahogar medios de prueba, los cuales en su caso serán nulos y sancionados sus autores de acuerdo con las leyes. Los informes que por escrito proporcione al Ministerio Público, debidamente ratificados, serán apreciados como testimoniales, sin que en ningún caso puedan estimarse por sí como suficientes para tener por acreditada la probable o plena responsabilidad de un imputado.
+
+> <small>(ADICIONADO, P.O. 7 DE NOVIEMBRE DE 2011)</small>
+
+Tratándose de los delitos de narcomenudeo previstos en los artículos 475, 476 y 477 de la Ley General de Salud, el Ministerio Público Federal para fines de investigación podrá autorizar al Ministerio Público del fuero común cuando lo estime pertinente, para que por conducto de la policía de procuración de justicia, bajo su conducción y mando, empleen las técnicas de investigación consistentes en comprar, adquirir o recibir la transmisión material de algún narcótico para lograr la detención del probable responsable del comercio o suministro de narcóticos o de la posesión de los mismos con dichos fines y el aseguramiento correspondiente.
+
+> <small>(ADICIONADO, P.O. 7 DE NOVIEMBRE DE 2011)</small>
+
+En la autorización a que se refiere el párrafo precedente, el Ministerio Público Federal, deberá señalar por escrito en la orden respectiva los lineamientos, términos, limitaciones, modalidades y condiciones a los que debe sujetarse el agente o agentes de la policía que deberán ejecutar la orden.
+
+> <small>(ADICIONADO, P.O. 7 DE NOVIEMBRE DE 2011)</small>
+
+En las actividades que desarrollen el o los policías que ejecuten la orden se considerará que actúan en cumplimiento de un deber, siempre que su actuación se apegue a los lineamientos, términos, modalidades, limitaciones y condiciones señalados en la orden que, por escrito, deberá emitir el Ministerio Público Federal, a que se refiere el párrafo anterior.
 
 Asimismo, la Policía de Procuración de Justicia ejecutará las órdenes de aprehensión, de comparecencia y demás mandamientos que emita la autoridad judicial, las que le deberán ser comunicadas por conducto del Ministerio Público.
 
@@ -1071,7 +1097,9 @@ En toda pena privativa de la libertad que imponga una sentencia se tomará en cu
 
 Durante las diligencias de preparación de la acción procesal penal el imputado podrá obtener su inmediata libertad conforme a las siguientes reglas:
 
-I.- Que no se trate de los delitos graves previstos en el artículo 10 del Código Penal del Estado o en Ley especial. Tampoco procederá la concesión del beneficio, cuando el imputado haya sido condenado con anterioridad, por algún delito calificado como grave o cuando existan pruebas de las que razonablemente pueda establecerse que la libertad del inculpado representa por su conducta precedente o por las circunstancias del delito imputado, un riesgo para el ofendido o para la sociedad;
+> <small>(REFORMADA, P.O. 7 DE NOVIEMBRE DE 2011)</small>
+
+I.- Que no se trate de los delitos graves previstos en el artículo 10 del Código Penal del Estado, en Ley especial o en la fracción XV del artículo 194 del Código Federal de Procedimientos Penales, cuando se trate de los delitos contra la salud en su modalidad de narcomenudeo. Tampoco procederá la concesión del beneficio, cuando el imputado haya sido condenado con anterioridad, por algún delito calificado como grave o cuando existan pruebas de las que razonablemente pueda establecerse que la libertad del inculpado representa por su conducta precedente o por las circunstancias del delito imputado, un riesgo para el ofendido o para la sociedad;
 
 II.- (DEROGADA, P.O. 30 DE DICIEMBRE DE 2000)
 
@@ -1101,9 +1129,11 @@ Para los efectos del párrafo anterior, cuando el Ministerio Público consigne, 
 
 ### CAPITULO IV. LIBERTAD PROVISIONAL BAJO CAUCION
 
+> <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2011)</small>
+
 ###### ARTICULO 134.
 
-Todo imputado tendrá derecho a ser puesto en libertad provisional bajo caución, siempre y cuando no se trate de los delitos graves señalados en el artículo 10 del Código Penal o en Ley especial. En caso de delitos no graves a solicitud del Ministerio Público, el Juez podrá negar la libertad provisional, cuando el imputado haya sido condenado con anterioridad, por algún delito calificado como grave o, cuando el Ministerio Público aporte elementos al juez para establecer que la libertad del imputado representa por su conducta precedente o por las circunstancias y características del delito cometido, un riesgo para el ofendido o para la sociedad.
+Todo imputado tendrá derecho a ser puesto en libertad provisional bajo caución siempre y cuando no se trate de los delitos graves señalados en el artículo 10 del Código Penal, en Ley especial, o en la fracción XV del artículo 194 del Código Federal de Procedimientos Penales, cuando se trate de los delitos contra la salud en su modalidad de narcomenudeo. En caso de delitos no graves a solicitud del Ministerio Público, el Juez podrá negar la libertad provisional, cuando el imputado haya sido condenado con anterioridad, por algún delito calificado como grave o, cuando el Ministerio Público aporte elementos al juez para establecer que la libertad del imputado representa por su conducta precedente o por las circunstancias y características del delito cometido, un riesgo para el ofendido o para la sociedad.
 
 ###### ARTICULO 135.
 
@@ -1116,6 +1146,12 @@ Cuando se solicite la libertad provisional bajo caución, inmediatamente el Juzg
 ###### ARTICULO 137.
 
 El monto y la forma de caución que se fijen, deberán ser asequibles para el imputado. Para este efecto, al solicitarse el beneficio, se propondrá la forma de caución. En todo caso el Juzgador determinará la que considere idónea y suficiente.
+
+> <small>(ADICIONADO, P.O. 7 DE NOVIEMBRE DE 2011)</small>
+
+ARTICULO 137 BIS. Los procedimientos penales y, en su caso, la ejecución de las sanciones por delitos contra la salud en su modalidad de narcomenudeo, se regirán por las disposiciones de este ordenamiento y demás legislación Estatal aplicable.
+
+Respecto de los mismos delitos, se observarán las disposiciones del Código Federal de Procedimientos Penales únicamente por lo que respecta al destino y la destrucción de narcóticos, así como la clasificación de los delitos como graves para fines del otorgamiento de la libertad provisional bajo caución.
 
 ###### ARTICULO 138.
 
@@ -2123,6 +2159,10 @@ Los instrumentos del delito, así como las cosas que sean objeto o producto de �
 
 De todas las cosas aseguradas, se hará un inventario en el que se les describirá de tal manera que en cualquier tiempo puedan ser identificadas.
 
+> <small>(ADICIONADO, P.O. 7 DE NOVIEMBRE DE 2011)</small>
+
+Cuando exista aseguramiento de estupefacientes o psicotrópicos, el Ministerio Público o el juez solicitarán la elaboración del dictamen pericial correspondiente a la autoridad competente, sobre los caracteres organolépticos o químicos de la sustancia asegurada. Este dictamen cuando hubiere detenido, deberá ser rendido a más tardar dentro del plazo de setenta y dos horas a que se refiere el artículo 19 de la Constitución Política de los Estados Unidos Mexicanos.
+
 ###### ARTICULO 261.
 
 Las cosas inventariadas conforme al artículo anterior, se guardarán en el lugar o recipiente adecuado, según su naturaleza, debiéndose tomar las precauciones necesarias para asegurar su conservación e identidad.
@@ -2305,6 +2345,10 @@ En el pliego de consignación, el Ministerio Público hará expreso señalamient
 
 Si durante las diligencias de preparación de la acción procesal penal, se está en alguno de los casos a que se refiere el artículo 387; acreditados los elementos típicos del delito y que el indiciado probablemente lo cometió, el Ministerio Público ejercitará la acción penal, dejándolo a disposición del juez en el lugar que haya sido internado. En el supuesto contrario ordenará su inmediata libertad.
 
+> <small>(ADICIONADO, P.O. 7 DE NOVIEMBRE DE 2011)</small>
+
+ARTICULO 288 BIS. Cuando se trate de delitos contra la salud, en su modalidad de narcomenudeo, independientemente del supuesto en que el inculpado adquiera o posea estupefacientes o psicotrópicos necesarios para su consumo personal, si también se advierte que incurrió en la comisión de cualquier delito contra la salud, se le consignará, sin perjuicio de que intervenga la Secretaría de Salud y Bienestar Social del Gobierno del Estado, para efectos de su tratamiento o programa preventivo.
+
 ### CAPITULO I. AUTO DE RADICACION
 
 ###### ARTICULO 289.
@@ -2317,11 +2361,17 @@ II.- Cuando se compruebe plenamente una causa de inexistencia del delito;
 
 III.- Cuando se haya extinguido la acción persecutoria del delito, en los términos del Código Penal para el Estado;
 
-> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2002)</small>
+> <small>(REFORMADA, P.O. 7 DE NOVIEMBRE DE 2011)</small>
 
-IV.- Cuando no se acredite plenamente el cuerpo del delito de que se trate; y
+IV.- Cuando no se acrediten (sic) plenamente el cuerpo del delito de que se trate;
 
-V.- Cuando no se acredite la probable responsabilidad del indiciado en la comisión del delito que se le impute.
+> <small>(REFORMADA, P.O. 7 DE NOVIEMBRE DE 2011)</small>
+
+V.- Cuando no se acredite la probable responsabilidad del indiciado en la comisión del delito que se le impute; y
+
+> <small>(ADICIONADA, P.O. 7 DE NOVIEMBRE DE 2011)</small>
+
+VI.- Cuando se trate del delito contra la salud en su modalidad de narcomenudeo previsto en el artículo 477 de la Ley General de Salud, siempre que se colme la hipótesis establecida en el artículo 478 de la misma Ley.
 
 ###### ARTICULO 290.
 
@@ -2458,6 +2508,10 @@ Además de los autos de libertad con las reservas de ley, que se previenen en el
 ###### ARTICULO 310.
 
 Cuando el auto de libertad se funde y motive en la comprobación plena de que la conducta imputada no es constitutiva de delito o que existe en favor del imputado causa de inexistencia del mismo o que se encuentra extinguida la acción persecutoria, se decretará el sobreseimiento de la causa.
+
+> <small>(ADICIONADO, P.O. 7 DE NOVIEMBRE DE 2011)</small>
+
+El juez deberá dictar auto de libertad en el delito contra la salud en su modalidad de narcomenudeo previsto en el artículo 477 de la Ley General de Salud, cuando se colme la hipótesis establecida en el artículo 478 de la misma Ley.
 
 > <small>(REFORMADO, P.O. 22 DE JUNIO DE 2002)</small>
 
@@ -2849,7 +2903,7 @@ Si la apelación se interpone conforme a las disposiciones que establece este T�
 
 Contra el auto que admita la apelación no procede recurso alguno. En contra del auto que declare que es improcedente por cualquier causa la apelación interpuesta procederá el recurso de denegada apelación, conforme al artículo 375.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE JULIO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE JULIO DE 2008)</small>
 
 ###### ARTICULO 362.
 
@@ -3490,3 +3544,15 @@ P.O. 27 DE AGOSTO DE 2011.
 P.O. 31 DE AGOSTO DE 2011.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 7 DE NOVIEMBRE DE 2011.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+SEGUNDO.- Las autoridades e instituciones del Estado deberán realizar las acciones necesarias a fin de dar el debido cumplimiento a las atribuciones contenidas en el presente Decreto, a más tardar el 21 de agosto del 2012.
+
+TERCERO.- Los procedimientos penales que se estén substanciando a la entrada en vigor del presente Decreto, se seguirán conforme las disposiciones vigentes al momento de la comisión de los hechos.
+
+CUARTO.- El Gobierno Federal deberá financiar las acciones derivadas del cumplimiento del Decreto número 211, aprobado por el Congreso de la Unión, por el que se reforman, adicionan y derogan diversas disposiciones de la Ley General de Salud, del Código Penal Federal y del Código Federal de Procedimientos Penales, publicado en el Diario Oficial de la Federación el 20 de agosto de 2009, con los recursos que anualmente se prevean en el Presupuesto de Egresos de la Federación, en términos del Artículo Cuarto Transitorio del citado Decreto.
+
+QUINTO.- Los Poderes Ejecutivo y Legislativo Estatales deberán prever y realizar las acciones necesarias para asegurar los recursos en el Presupuesto de Egresos del Estado, a fin de que las autoridades del fuero común puedan dar cumplimiento a la competencia y atribuciones establecidas en el Decreto número 211, referido en el artículo anterior.
