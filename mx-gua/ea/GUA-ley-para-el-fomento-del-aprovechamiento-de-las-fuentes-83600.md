@@ -1,0 +1,530 @@
+---
+title: "LEY PARA EL FOMENTO DEL APROVECHAMIENTO DE LAS FUENTES RENOVABLES DE ENERGIA Y SUSTENTABILIDAD ENERGETICA PARA EL ESTADO Y LOS MUNICIPIOS DE GUANAJUATO"
+identifier: "GUA-ley-para-el-fomento-del-aprovechamiento-de-las-fuentes-83600"
+country: "mx"
+rank: "ley"
+publication_date: "2011-11-08"
+last_updated: "2011-11-08"
+status: "repealed"
+source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=83600&Vig=1&TPub=6"
+department: "Periódico Oficial del Estado"
+jurisdiction: "mx-gua"
+scjn_id: "83600"
+scjn_status: "ABROGADO (A)"
+gazette: "Periódico Oficial del Estado"
+original_category: "LEY"
+original_gazette_section: "178 SEGUNDA PARTE"
+reform_count: "6"
+scjn_last_update: "2020-07-22"
+issue_date: "2011-10-28"
+state: "GUA"
+---
+# LEY PARA EL FOMENTO DEL APROVECHAMIENTO DE LAS FUENTES RENOVABLES DE ENERGIA Y SUSTENTABILIDAD ENERGETICA PARA EL ESTADO Y LOS MUNICIPIOS DE GUANAJUATO
+
+LEY PARA EL FOMENTO DEL APROVECHAMIENTO DE LAS FUENTES RENOVABLES DE ENERGÍA Y SUSTENTABILIDAD ENERGÉTICA PARA EL ESTADO Y LOS MUNICIPIOS DE GUANAJUATO
+
+TEXTO ORIGINAL.
+
+Ley publicada en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el martes 8 de noviembre del 2011.
+
+JUAN MANUEL OLIVA RAMÍREZ, GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, A LOS HABITANTES DEL MISMO SABED:
+
+QUE EL H. CONGRESO CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, HA TENIDO A BIEN DIRIGIRME EL SIGUIENTE:
+
+DECRETO NÚMERO 189
+
+LA SEXAGÉSIMA PRIMERA LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, DECRETA:
+
+Ley para el Fomento del Aprovechamiento de las Fuentes Renovables de Energía y Sustentabilidad Energética para el Estado y los Municipios de Guanajuato
+
+### Capítulo I. Disposiciones generales
+
+Naturaleza y objeto
+
+###### Artículo 1.
+
+La presente Ley es de interés social y tiene por objeto promover la coordinación entre las autoridades del ámbito municipal, estatal y federal, a fin de implementar el aprovechamiento de fuentes renovables de energía y establecer las bases generales para fomentar la sustentabilidad energética en el Estado y los municipios de Guanajuato.
+
+Finalidades de la Ley
+
+###### Artículo 2.
+
+La presente Ley tiene como finalidades, sentar las bases para:
+
+I. El aprovechamiento de las fuentes renovables de energía;
+
+II. La sustentabilidad energética como instrumento para la competitividad, la mejora de la calidad de vida, la protección, y la preservación del ambiente, así como el desarrollo humano sustentable;
+
+III. La integración y funcionamiento del Consejo Estatal de Energía;
+
+IV. La asesoría y capacitación en programas de sustentabilidad energética;
+
+V. Impulsar la aplicación de nuevas tecnologías para la utilización de fuentes renovables de energía y de eficiencia energética; y
+
+VI. Atraer mecanismos y formas de financiamiento para la sustentabilidad y eficiencia energética.
+
+Glosario
+
+###### Artículo 3.
+
+Para efectos de la presente Ley se entenderá por:
+
+I. Consejo: El Consejo Estatal de Energía;
+
+II. Biomasa: La materia orgánica producto de las actividades agrícola, pecuaria, silvícola, acuacultura, algacultura, residuos de la pesca, domésticas, comerciales, industriales, de microorganismos y de enzimas, así como sus derivados, utilizable como fuente de energía;
+
+III. Eficiencia Energética. Las acciones que conlleven a una reducción de la cantidad de energía que requiere la sociedad, asegurando un nivel de calidad igual o superior en los servicios energéticos y una disminución de los impactos ambientales negativos derivados de su generación, distribución y consumo;
+
+IV. Fuentes Renovables de Energía: Aquellas cuyo origen reside en fenómenos de la naturaleza, procesos o materiales susceptibles de ser transformados en energía aprovechable por la humanidad, que se regeneran naturalmente, disponibles de forma continua o periódica y que se enumeran a continuación:
+
+a) El viento;
+
+b) La radiación solar en todas sus formas;
+
+c) El movimiento del agua en cauces naturales o artificiales que no exceda de 30 megawatts;
+
+d) El calor de los yacimientos geotérmicos;
+
+e) La biomasa; y
+
+f) Aquellas otras que los avances de la ciencia permitan determinar.
+
+V. Ley: La Ley para el Fomento del Aprovechamiento de las Fuentes Renovables de Energía y Sustentabilidad Energética para el Estado y los Municipios de Guanajuato;
+
+VI. Programa: El Programa de Diversificación y Eficiencia Energética del Estado de Guanajuato;
+
+VII. Sistema: El Sistema de Información Energética de Guanajuato; y
+
+VIII. Sustentabilidad energética. Uso óptimo de la energía en todos los procesos y actividades para su aprovechamiento, producción, transformación, distribución y consumo, incluyendo la eficiencia energética.
+
+Convenios y acuerdos de coordinación
+
+###### Artículo 4.
+
+Con el objeto de establecer las bases de participación, el Gobierno del Estado y los ayuntamientos, podrán suscribir convenios y acuerdos de coordinación con el Ejecutivo Federal.
+
+### Capítulo II. Autoridades
+
+Autoridades
+
+###### Artículo 5.
+
+Son autoridades competentes para aplicar la presente Ley:
+
+I. El Gobernador del Estado;
+
+II. La Secretaría de Desarrollo Económico Sustentable;
+
+III. La Secretaría de Desarrollo Social y Humano;
+
+IV. El Consejo de Ciencia y Tecnología del Estado de Guanajuato;
+
+V. El Instituto de Ecología del Estado de Guanajuato;
+
+VI. La Comisión de Vivienda del Estado de Guanajuato; y
+
+VII. Los ayuntamientos.
+
+Atribuciones del Gobernador del Estado
+
+###### Artículo 6.
+
+Corresponde al Gobernador del Estado:
+
+I. Establecer en el Plan Estatal de Desarrollo y en el Plan de Gobierno, las políticas y programas relativos al fomento del aprovechamiento de las fuentes renovables de energía y sustentabilidad energética, de conformidad con lo previsto en esta Ley y demás normatividad aplicable;
+
+II. Considerar dentro de los proyectos, programas y presupuestos, las acciones y los recursos necesarios para la aplicación de las fuentes renovables de energía;
+
+III. Aprobar el Programa;
+
+IV. Proponer al Congreso del Estado los incentivos para el desarrollo de proyectos en materia de energía renovable y eficiencia energética;
+
+V. Establecer los subsidios y estímulos fiscales al aprovechamiento de las fuentes renovables de energía, de conformidad con la legislación aplicable;
+
+VI. Instrumentar acciones de aprovechamiento de las fuentes renovables de energía y la sustentabilidad energética en la administración pública estatal;
+
+VII. Promover la participación de los sectores académico, científico, tecnológico, social y económico en el desarrollo de proyectos para la sustentabilidad energética y en el fomento al aprovechamiento de fuentes renovables de energía;
+
+VIII. Celebrar los convenios y acuerdos de coordinación para el cumplimiento del objeto de la presente Ley: y
+
+IX. Las demás que le señalen las disposiciones legales aplicables.
+
+Atribuciones de los ayuntamientos
+
+###### Artículo 7.
+
+Corresponde a los ayuntamientos:
+
+I. Establecer programas que promuevan el fomento de las fuentes renovables de energía, así como la sustentabilidad energética, de acuerdo con los planes municipales de desarrollo;
+
+II. Fomentar la realización de actividades de divulgación, difusión, promoción y concientización sobre el uso de las tecnologías para la utilización de fuentes renovables de energía;
+
+III. Celebrar los convenios y acuerdos de coordinación para el cumplimiento del objeto de la presente Ley;
+
+IV. Implementar mecanismos de aprovechamiento de fuentes renovables de energía y sustentabilidad energética, particularmente en la prestación de los servicios públicos municipales;
+
+V. Instrumentar programas encaminados a la aplicación de fuentes renovables de energía y su uso eficiente;
+
+VI. Facilitar el acceso a aquellas zonas con alto potencial de fuentes renovables de energía y promover la compatibilidad del uso de suelo para tales fines;
+
+VII. Efectuar la compatibilidad normativa de uso de suelo y construcción para el aprovechamiento de fuentes renovables de energía;
+
+VIII. Simplificar los procedimientos administrativos para la obtención de permisos y licencias, para los proyectos de aprovechamiento de fuentes renovables de energía; y
+
+IX. Las demás que les otorgue la presente Ley y demás disposiciones aplicables.
+
+Reglamentación en materia de desarrollo urbano
+
+###### Artículo 8.
+
+Los ayuntamientos deberán establecer la reglamentación necesaria en materia de desarrollo urbano y de construcción, con el fin de aprovechar las energías renovables en las obras públicas y de garantizar la eficiencia energética en las edificaciones, considerando las condiciones del medio ambiente.
+
+Atribuciones de la Secretaría de Desarrollo Económico Sustentable
+
+###### Artículo 9.
+
+Corresponde a la Secretaría de Desarrollo Económico Sustentable llevar a cabo las siguientes acciones:
+
+I. Elaborar programas de impulso al desarrollo de los sectores productivos, relacionados con la sustentabilidad energética y la aplicación de fuentes renovables de energía;
+
+II. Fomentar proyectos encaminados a la aplicación de la energía renovable y la eficiencia energética, en los sectores productivos;
+
+III. Promover la oferta de productos y servicios de empresas relacionadas con el mercado de fuentes renovables de energía y la sustentabilidad energética; y
+
+IV. Las demás que señalen las leyes y reglamentos que en esta materia le sean aplicables.
+
+Atribuciones de la Secretaría de Desarrollo Social y Humano
+
+###### Artículo 10.
+
+Corresponde a la Secretaría de Desarrollo Social y Humano llevar a cabo las siguientes acciones:
+
+I. Elaborar planes y programas que tengan por objeto que en el diseño de centros de población se consideren el uso de las fuentes renovables de energía y la sustentabilidad energética;
+
+II. Promover la aplicación de fuentes renovables de energía y eficiencia energética para la prestación de servicios públicos;
+
+III. Instrumentar programas encaminados al aprovechamiento de fuentes renovables de energía y su uso eficiente, en el ámbito de sus atribuciones; y
+
+IV. Las demás que señalen las leyes y reglamentos que en esta materia le sean aplicables.
+
+Atribuciones del Consejo de Ciencia y Tecnología
+
+###### Artículo 11.
+
+Corresponde al Consejo de Ciencia y Tecnología del Estado de Guanajuato llevar a cabo las siguientes acciones:
+
+I. Elaborar programas para el desarrollo tecnológico e innovación en el aprovechamiento de las fuentes renovables de energía y el uso sustentable de la energía;
+
+II. Impulsar la realización de investigación científica y tecnológica relacionada con la aplicación de fuentes renovables de energía y su uso eficiente;
+
+III. Fomentar la formación y capacitación de recursos humanos relacionados con la aplicación de fuentes renovables de energía y sustentabilidad energética;
+
+IV. Promover en las instituciones educativas estudios relativos a la sustentabilidad energética y al aprovechamiento de las fuentes renovables de energía;
+
+V. Actualizar el Sistema;
+
+VI. Generar las acciones para buscar atraer mecanismos y formas de financiamiento para la sustentabilidad y eficiencia energética; y
+
+VII. Las demás que señalen las leyes y reglamentos que en esta materia le sean aplicables o que le asigne el Gobernador del Estado.
+
+Atribuciones del Instituto de Ecología
+
+###### Artículo 12.
+
+Corresponde al Instituto de Ecología del Estado llevar a cabo las siguientes acciones:
+
+I. Proponer disposiciones normativas para mitigar emisiones contaminantes, mediante la utilización de fuentes renovables de energía y la sustentabilidad energética;
+
+II. Cuantificar los efectos al ambiente por la aplicación de las fuentes renovables de energía y la sustentabilidad energética;
+
+III. Elaborar y ejecutar programas para la utilización de las fuentes renovables de energía para disminuir el nivel de contaminación en los centros de población; y
+
+IV. Las demás que señalen las leyes y reglamentos que en esta materia le sean aplicables.
+
+Atribuciones de la Comisión de Vivienda
+
+###### Artículo 13.
+
+La Comisión de Vivienda del Estado de Guanajuato, en materia de ecotécnicas y de ingeniería ambiental aplicada a la vivienda, considerará los siguientes lineamientos:
+
+I. El aprovechamiento de la energía solar en calentadores de agua y en la generación de energía eléctrica;
+
+II. La aplicación de sistemas para el aprovechamiento de la biomasa, con el fin de generar energía;
+
+III. Las condiciones acústicas y de radiación solar en todas sus variantes; la iluminación y ventilación natural del entorno; la ganancia térmica y la protección solar y del viento en el diseño arquitectónico;
+
+IV. La utilización de material reciclado para la construcción; y
+
+V. Las demás que señalen las leyes y reglamentos que en esta materia le sean aplicables.
+
+### Capítulo III. Consejo Estatal de Energía
+
+Consejo
+
+###### Artículo 14.
+
+El Consejo tendrá por objeto fomentar el aprovechamiento de las fuentes renovables de energía y la sustentabilidad energética en el Estado, así como asesorar y capacitar en la promoción del ahorro y uso eficiente de la energía.
+
+Integración
+
+###### Artículo 15.
+
+El Consejo estará integrado por:
+
+I. El titular de la Secretaría de Desarrollo Económico Sustentable, quien lo presidirá;
+
+II. El titular de la Secretaría de Educación;
+
+III. El titular de la Secretaría de Desarrollo Agropecuario;
+
+IV. El titular de la Secretaría de Desarrollo Social y Humano;
+
+V. El titular de la Secretaría de Finanzas y Administración, quien fungirá como Secretario Ejecutivo;
+
+VI. El Director General del Consejo de Ciencia y Tecnología del Estado de Guanajuato, quien fungirá como Secretario Técnico;
+
+VII. El Director General del Instituto de Ecología del Estado;
+
+VIII. El Procurador de Protección al Ambiente del Estado;
+
+IX. El Director General de la Comisión de Vivienda del Estado de Guanajuato; y
+
+X. El titular de la Coordinación General Jurídica del Gobierno del Estado.
+
+Carácter honorífico de los cargos
+
+###### Artículo 16.
+
+Los cargos de los integrantes del Consejo serán honoríficos, por lo que no percibirán retribución, emolumento o compensación alguna por su desempeño.
+
+Funciones del Consejo
+
+###### Artículo 17.
+
+Para el cumplimiento de su objeto, el Consejo tendrá las siguientes funciones:
+
+I. Fomentar la aplicación de nuevas tecnologías para la utilización de fuentes renovables de energía y de eficiencia energética;
+
+II. Proponer la aplicación de energías renovables y la sustentabilidad energética en las actividades que desarrollen las dependencias y entidades de la administración pública estatal, municipal y organismos autónomos;
+
+III. Actualizar anualmente el Sistema, como instrumento de diagnóstico y planeación de la situación energética de la entidad;
+
+IV. Formular y proponer al Gobernador del Estado, con el apoyo de las instancias federales en materia energética, políticas públicas relacionadas con la sustentabilidad energética y el aprovechamiento de las fuentes renovables de energía en el estado;
+
+V. Promover y desarrollar en coordinación con las autoridades de la administración pública federal, la ejecución de los programas y proyectos relativos a la sustentabilidad energética;
+
+VI. Promover la aplicación y cumplimiento de las normas que regulen la sustentabilidad energética y el aprovechamiento de las fuentes renovables de energía en el estado y, en su caso, proponer las reformas legales conducentes;
+
+VII. Diseñar y proponer estrategias de financiamiento para la realización de proyectos públicos y privados para fomentar la sustentabilidad energética y el aprovechamiento de las fuentes renovables de energía en el estado;
+
+VIII. Coordinar la investigación, el desarrollo y la innovación tecnológica en las materias objeto de la presente Ley;
+
+IX. Proponer la creación de esquemas educativos relacionados con la eficiencia energética y al aprovechamiento de fuentes renovables de energía;
+
+X. Coordinar el desarrollo de sus actividades con entidades públicas y privadas, para la implementación de campañas de asistencia técnica, capacitación, promoción, difusión, concientización y demás que se requieran para el cumplimiento del objeto de la presente Ley;
+
+XI. Hacer del conocimiento de las autoridades federales, el incumplimiento a las normas oficiales y las normas técnicas relacionadas con esta Ley;
+
+XII. Asesorar y capacitar a municipios y a instituciones del sector público o privado en materia de sustentabilidad energética y aprovechamiento de las fuentes renovables de energía;
+
+XIII. Elaborar el Programa; y
+
+XIV. Las demás que señalen las leyes y reglamentos que en esta materia le sean aplicables.
+
+Operación del Consejo
+
+###### Artículo 18.
+
+La operación del Consejo, estará a cargo del Consejo de Ciencia y Tecnología del Estado de Guanajuato.
+
+Organización y funcionamiento del Consejo
+
+###### Artículo 19.
+
+La organización y funcionamiento del Consejo se determinará a través del reglamento interior que al efecto emita el Gobernador del Estado.
+
+Órgano consultivo
+
+###### Artículo 20.
+
+El Consejo, para el ejercicio de sus funciones, podrá apoyarse en un órgano consultivo, el cual le proporcionará asesoría y consulta y podrá integrarse con representantes de la administración pública federal, estatal y municipal, así como por representantes de los sectores académico, científico, social y económico vinculados a la materia.
+
+La estructura, organización y funcionamiento del órgano consultivo se determinará a través del reglamento interior señalado en el artículo 20 de esta Ley.
+
+Grupos de trabajo
+
+###### Artículo 21.
+
+El Consejo podrá acordar el establecimiento de grupos de trabajo de carácter permanente o temporal, cuyo objeto sea la coordinación, seguimiento, desarrollo y evaluación de las funciones del Consejo.
+
+La operación de los grupos de trabajo quedará sujeta a la elaboración de reglas de operación que fije el Consejo, donde se hagan constar los alcances u objetivo, atribuciones, integrantes y funcionamiento.
+
+### Capítulo IV. Vinculación municipal
+
+Responsables municipales
+
+###### Artículo 22.
+
+Los municipios designarán un responsable encargado de atender y coordinar las atribuciones que corresponden a los ayuntamientos.
+
+Órganos de asesoría y consulta
+
+###### Artículo 23.
+
+Los municipios podrán contar con órganos de asesoría y consulta, los cuales podrán integrarse por representantes de la administración pública municipal, estatal y federal, así como por organizaciones e instituciones vinculados con el objeto de la presente Ley.
+
+### Capítulo V. Aprovechamiento de las fuentes renovables de energía
+
+Aprovechamiento
+
+###### Artículo 24.
+
+El Estado y los municipios fomentarán la instalación y operación de empresas que utilicen fuentes renovables de energía, con las siguientes aplicaciones:
+
+I. Generación de energía eléctrica no considerada como servicio público, bajo las modalidades previstas por la legislación federal aplicable;
+
+II. Producción, comercialización, distribución, transporte, almacenamiento y uso eficiente de bioenergéticos, así como la promoción de la infraestructura relacionada, en los términos de la legislación federal aplicable; y
+
+III. Aprovechamiento de la energía térmica para el desarrollo de sus procesos. El Estado y los municipios podrán constituir empresas con la participación de los particulares bajo las modalidades previstas por la legislación aplicable, con el propósito de realizar las aplicaciones previstas en el presente artículo.
+
+Construcción de fraccionamientos
+
+###### Artículo 25.
+
+En la construcción de fraccionamientos y desarrollos en condominio, las autoridades estatales y municipales en la materia, promoverán la realización de proyectos que contemplen la aplicación de las fuentes renovables de energía o el uso sustentable de la misma, en los términos de la Ley de Vivienda para el Estado de Guanajuato y de la Ley de Fraccionamientos para el Estado de Guanajuato y sus Municipios.
+
+En el proceso de entrega-recepción de las obras de urbanización y equipamiento urbano de los fraccionamientos y desarrollos en condominio a que se refiere este artículo, deberá contemplar la verificación del funcionamiento de las tecnologías relacionadas con las fuentes renovables de energía y la sustentabilidad energética.
+
+### Capítulo VI. Sistema de Información Energética de Guanajuato
+
+Objeto del Sistema
+
+###### Artículo 26.
+
+El Sistema es un instrumento de diagnóstico y planeación que apoya la programación de acciones orientadas a incrementar la oferta, diversificación, eficiencia y cultura energética.
+
+Estructura del Sistema
+
+###### Artículo 27.
+
+El Sistema se estructurará en tres niveles:
+
+I. Municipal;
+
+II. Regional; y
+
+III. Estatal.
+
+Cada uno de los niveles se conformará con la información sectorial, relativa al menos a: energía, industrial, residencial, comercial, agrícola, público y transporte.
+
+Módulos que conforman el Sistema
+
+###### Artículo 28.
+
+El Sistema para su óptimo funcionamiento se organizará además en los siguientes módulos:
+
+I. Balance de Energía del Estado de Guanajuato;
+
+II. Consumo de leña y carbón;
+
+III. Atlas Bioclimático del Estado de Guanajuato;
+
+IV. Sistema de Investigación y Desarrollo Tecnológico en Energía del Estado de Guanajuato;
+
+V. Información Sinóptica del Estado de Guanajuato;
+
+VI. Información General;
+
+VII. Subsistema de Energías Renovables; y
+
+VIII. Subsistema de Diagnósticos Energéticos Sectoriales.
+
+### Capítulo VII. Programa de Diversificación y Eficiencia Energética del Estado de Guanajuato
+
+Programa
+
+###### Artículo 29.
+
+El Programa establecerá los objetivos, metas, estrategias y acciones para la difusión, promoción, fomento, investigación y evaluación del aprovechamiento de las fuentes renovables de energía y la eficiencia energética en la entidad, con la participación del Estado, los municipios y los sectores público, social y privado, con el fin de garantizar el cumplimiento de la presente Ley.
+
+Contenido del Programa
+
+###### Artículo 30.
+
+El Programa contendrá como mínimo:
+
+I. El diagnóstico de la situación energética en el Estado, con el señalamiento específico del aprovechamiento de las fuentes renovables de energía y el fomento de la eficiencia energética;
+
+II. Los objetivos, políticas públicas y metas que se pretendan implementar;
+
+III. La concordancia con la planeación y programación del desarrollo económico, social, urbano, de la investigación y del ambiente del Estado;
+
+IV. La estrategia general, que comprenderá las acciones básicas a desarrollar;
+
+V. Los instrumentos para su ejecución;
+
+VI. Los mecanismos de coordinación y concertación entre los distintos órdenes de gobierno y los sectores social y privado; y
+
+VII. La definición de indicadores y mecanismos de evaluación de avances.
+
+### Capítulo VIII. Fomento
+
+Fomento para la realización de proyectos
+
+###### Artículo 31.
+
+Las autoridades a que se refiere esta Ley, fomentarán la realización de proyectos de aprovechamiento de fuentes renovables de energía y de eficiencia energética, en los términos de la legislación aplicable, a través del otorgamiento de apoyos. Se apoyará a las personas que desarrollen proyectos dentro del territorio estatal.
+
+Previsión presupuestal del Estado
+
+###### Artículo 32.
+
+Las aportaciones estatales a las inversiones productivas en materia de energía renovable y eficiencia energética, deberán ser aprobadas anualmente en la Ley del Presupuesto General de Egresos del Estado de Guanajuato, para el ejercicio fiscal que corresponda.
+
+Participación de comunidades
+
+###### Artículo 33.
+
+El Estado y los municipios, deberán procurar la participación de las comunidades locales y regionales en el seguimiento y realización de los proyectos que empleen fuentes renovables de energía.
+
+## TRANSITORIOS
+
+Entrada en vigor
+
+Artículo Primero, La presente Ley entrará en vigencia el 1 de enero de 2012, previa publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+Término para instalar el Consejo
+
+Artículo Segundo. El Consejo deberá instalarse en un término que no exceda de treinta días, contados a partir de la entrada en vigencia de la presente Ley.
+
+Término para expedir el reglamento
+
+Artículo Tercero. El Gobernador del Estado expedirá el reglamento interior del Consejo en un término no mayor de noventa días contados a partir de su instalación.
+
+Responsabilidad de archivos
+
+Artículo Cuarto. Las minutas y documentación derivada de los trabajos de la Comisión Intersecretarial de Energía se transferirán y quedarán en resguardo del Consejo Estatal de Energía.
+
+Término para crear el órgano consultivo
+
+Artículo Quinto. El Consejo deberá convocar a la creación del órgano consultivo en un término que no excederá de treinta días contados a partir de la entrada en vigencia de su reglamento interior.
+
+Término para designar responsable en los municipios
+
+Artículo Sexto. Los ayuntamientos, en el ámbito de sus respectivas competencias, tendrán un término de noventa días, contados a partir de la entrada en vigor de la presente Ley, para designar al responsable señalado en el Capítulo IV, en los términos de la presente Ley.
+
+Término para adecuar la reglamentación municipal
+
+Artículo Séptimo. Los municipios que no hayan expedido su reglamentación a fin de aplicar la presente ley, deberán emitirla en un término de ciento veinte días contado a partir del inicio de vigencia de la presente Ley y aquellos municipios que con anterioridad a la vigencia del presente Ley, cuenten con disposiciones para regular las materias de su competencia, deberán adecuarlos y publicarlos en el Periódico Oficial del Gobierno del Estado de Guanajuato, en el mismo término.
+
+LO TENDRÁ ENTENDIDO EL CIUDADANO GOBERNADOR CONSTITUCIONAL DEL ESTADO Y DISPONDRÁ QUE SE IMPRIMA, PUBLIQUE, CIRCULE Y SE LE DÉ EL DEBIDO CUMPLIMIENTO.- GUANAJUATO, GTO., 27 DE OCTUBRE DE 2011.- ALEJANDRO RANGEL SEGOVIA.- DIPUTADO PRESIDENTE.- DIEGO SINHUÉ RODRÍGUEZ VALLEJO.- DIPUTADO SECRETARIO.- DAVID CABRERA MORALES.- DIPUTADO SECRETARIO.- RÚBRICAS.
+
+Por lo tanto, mando se imprima, publique, circule y se le dé el debido cumplimiento.
+
+Dado en la residencia del Poder Ejecutivo, en la ciudad de Guanajuato, Gto., a 28 de octubre del año 2011.
+
+JUAN MANUEL OLIVA RAMÍREZ
+
+EL SECRETARIO DE GOBIERNO
+
+HÉCTOR GERMÁN RENÉ LÓPEZ SANTILLANA
