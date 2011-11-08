@@ -4,7 +4,7 @@ identifier: "TAM-codigo-de-procedimientos-penales-para-el-estado-de-7994"
 country: "mx"
 rank: "codigo"
 publication_date: "1987-01-17"
-last_updated: "2011-08-31"
+last_updated: "2011-11-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7994&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE AGOSTO DE 2011.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE NOVIEMBRE DE 2011.
 
 Código publicado en el Periódico Oficial del Estado de Tamaulipas, el sábado 17 de enero de 1987.
 
@@ -369,23 +369,69 @@ Cuando se dé vista de la causa al inculpado, el tribunal tomará las precaucion
 
 Si se perdiera un expediente se repondrá, siguiendo las reglas los incidentes, a costa del responsable, quien estará obligado a pagar los daños y perjuicios que se ocasionen. En todo caso, se dará vista al Ministerio Público para lo que corresponda.
 
-Cuando no sea posible reponer todas las actuaciones, se tendrá por probada plenamente la existencia de las que se inserten o mencionen en el auto de detención, en el de formal prisión o en el de sujeción a proceso, o en cualquiera otra resolución de que haga constancia, siempre que no se hubiera objetado oportunamente la exactitud de la inserción o cita que en ellos se haga.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2011)</small>
+
+Cuando no sea posible reponer todas las actuaciones, se tendrá por probada plenamente la existencia de las que se inserten o mencionen en el auto de detención, en el de formal prisión o en el de sujeción a proceso, o en cualquiera otra resolución de que haya constancia, siempre que no se hubiera objetado oportunamente la exactitud de la inserción o cita que en ellos se haga. Así mismo, y cuando las haya, se deberán incorporar aquellas actuaciones y promociones que obren en los registros electrónicos del Tribunal.
 
 ###### ARTICULO 25.
 
 Las promociones que se hagan por escrito, deberán ser firmadas por su autor, pudiéndose ordenar su ratificación cuando se estime necesario, pero siempre deberán ser ratificadas si el promovente sólo estampa sus huellas digitales.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 8 DE NOVIEMBRE DE 2011)</small>
+
+A las promociones practicadas a través del Tribunal Electrónico, se les deberá incorporar la firma electrónica avanzada de su promovente o autor, en este caso no se requerirá de ratificación, salvo en los casos de desistimiento, y en cualquier otro caso cuando alguna disposición legal así lo establezca o cuando el juzgador así lo requiera.
+
 ###### ARTICULO 26.
 
 Los secretarios deberán dar cuenta al Juez o Magistrado, en su caso, dentro del término de veinticuatro horas, con las promociones que se hicieren.
 
-Para tal efecto, se hará constar en los expedientes el día y hora en que se presenten por escrito o se hagan las verbales.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(ADICIONADO, P.O. 22 DE JUNIO DE 1988)</small>
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2011)</small>
 
-###### ARTICULO 26 Bis.
+Para tal efecto, se hará constar en los expedientes el día y hora en que se presenten, ya sean por escrito, de manera electrónica a través del Tribunal Electrónico, o las verbales.
 
-La autoridad judicial por conducto de los Secretarios, los que hagan sus veces o en su caso los testigos de asistencia, cotejarán las copias o testimonios de constancias que mandaren expedir, autorizándolas con su firma y el sello correspondiente.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 8 DE NOVIEMBRE DE 2011)</small>
+
+En los casos de las promociones recibidas de forma electrónica el secretario deberá de imprimirlas, lo mismo hará para el caso de las recibidas de forma verbal, previa constancia, para que en ambos casos sean agregadas al expediente físico.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 8 DE NOVIEMBRE DE 2011)</small>
+
+ARTICULO 26 BIS.- Las partes, a partir de la radicación ante los tribunales de la consignación respectiva, podrán presentar las subsecuentes promociones a través del Tribunal Electrónico, por si o por persona autorizada, a través de la página web oficial del Poder Judicial del Estado, lo que permitirá enviar los documentos respectivos de manera electrónica.
+
+La opción de presentar promociones electrónicas, no obliga a las partes a realizar las subsecuentes del mismo modo, pudiendo en todo momento optar por presentarlas en forma escrita. En cualquier caso, los requisitos de forma exigidos por este Código y demás disposiciones, deberán ser igualmente satisfechos.
+
+La autorización, así como lo relativo al envío de promociones a través del Tribunal Electrónico, se ajustará a lo establecido en el reglamento que para tal efecto expida el Pleno del Supremo Tribunal de Justicia.
+
+Cuando se requiera la firma de la parte interesada y de la de su abogado, bastará que la promoción electrónica tenga inserta la firma electrónica avanzada de la parte interesada o la del abogado autorizado, con lo cual se tendrá por cumplido dicho requisito, con las salvedades establecidas en el párrafo segundo del artículo 25 de este Código.
+
+Además de la promoción electrónica, las partes podrán anexar documentos digitalizados que originariamente consten en papel, así como cualquiera de los medios de prueba a que se refiere el artículo 193 fracciones II y III de este Código.
+
+Cuando por las singulares características de un documento u otro anexo, el sistema no permita su incorporación adjunta para su envío en forma electrónica, las partes, según sea el caso, deberán presentar la promoción y sus anexos en la forma tradicional, por escrito, ante el órgano correspondiente del Tribunal.
+
+Las promociones electrónicas, y sus anexos deberán estar siempre signadas a través de la firma electrónica avanzada de quien promueve.
+
+El titular del órgano jurisdiccional tendrá la facultad de solicitar a las partes, cuando así lo considere necesario, la presentación física de cualquiera de los documentos o medios de prueba que electrónicamente le hayan sido presentados.
+
+El envío de promociones que se realicen mediante la utilización del Tribunal Electrónico del Poder Judicial, se ajustarán a los lineamientos de operación para el uso de éste que se establezcan por el Pleno del Supremo Tribunal de Justicia de la Judicatura a través del reglamento que para tal efecto emita.
+
+Las promociones que se presenten por las partes a través del Tribunal Electrónico en los días u horas inhábiles, se tendrán por recibidas al momento hábil siguiente, exceptuándose de lo anterior, las promociones sujetas a término en las cuales se observará el sello electrónico de recepción, que se genera al presentar las promociones con la firma electrónica avanzada.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE NOVIEMBRE DE 2011)</small>
+
+###### ARTÍCULO 26 Ter.
+
+La autoridad judicial por conducto de los Secretarios, los que hagan sus veces o en su caso los testigos de asistencia, cotejarán las copias o testimonios de constancias que mandaren expedir, autorizándolas con su firma y el sello correspondiente. De igual manera, serán autorizadas, por el secretario, las copias obtenidas mediante el expediente electrónico previo cotejo con el expediente del físico.
 
 El Ministerio Público en el período de averiguación previa, asistido de un Oficial Secretario o dos testigos de asistencia, cotejará las copias o testimonios de constancias que expidan y fueren solicitadas por el ofendido, el presunto responsable, sus representantes legales o personas facultadas para ese efecto.
 
@@ -499,9 +545,13 @@ III.- Arresto hasta de quince días.
 
 (DEROGADO, P.O. 22 DE JUNIO DE 1988)
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2011)</small>
+
 ###### ARTICULO 46.
 
-La iniciación de todo procedimiento judicial será comunicada al Tribunal Superior.
+La iniciación de todo procedimiento judicial será comunicada al Tribunal Superior por medio del sistema de Tribunal Electrónico.
 
 ### CAPITULO V. EXHORTOS Y REQUISITORIAS
 
@@ -512,6 +562,12 @@ La iniciación de todo procedimiento judicial será comunicada al Tribunal Super
 Cuando tuviere que practicarse una diligencia judicial fuera del ámbito territorial del juzgador, se encargará su cumplimiento por medio de exhorto o requisitoria al funcionario correspondiente de la Entidad en que dicha diligencia deba practicarse, sin perjuicio de lo dispuesto por el artículo siguiente.
 
 Se empleará la forma de exhorto cuando se dirija a un funcionario igual o superior en grado y de requisitoria cuando se dirija a un inferior.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 8 DE NOVIEMBRE DE 2011)</small>
+
+Para la remisión del exhorto o requisitoria, podrá utilizarse el sistema de Tribunal Electrónico, al cual se incorporará la firma electrónica avanzada del o los funcionarios judiciales que lo emitan.
 
 ###### ARTICULO 48.
 
@@ -792,6 +848,30 @@ Deben firmar las notificaciones, el funcionario que las realiza y las personas a
 ###### ARTICULO 96.
 
 Cuando el inculpado autorice a su defensor para oír notificaciones, requerimientos, emplazamientos o citaciones, practicadas con éste se entenderán hechas al primero.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 8 DE NOVIEMBRE DE 2011)</small>
+
+El inculpado o su defensor autorizado en términos del párrafo anterior, así como las demás partes del proceso, cuando así lo deseen, podrán autorizar que a través del correo electrónico y mediante el sistema del Tribunal Electrónico del Poder Judicial del Estado, se les realicen las notificaciones, aún las de carácter personal, ordenadas con posterioridad a la fecha en que se otorgue este tipo de autorización, generándose en cada diligencia electrónica un registro que contendrá folio, juzgado, expediente, fecha y hora de cada notificación, el cual será agregado a los autos y se tendrá por legalmente practicada la notificación hecha por este medio, surtiendo sus efectos en los términos previstos por el artículo 66 de este Código.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 8 DE NOVIEMBRE DE 2011)</small>
+
+Se excluyen de la anterior forma de notificación al inculpado, el auto de término constitucional, las sentencias de primera y segunda instancia que decidan el asunto en lo principal, y las demás que el juez o magistrado así lo consideren conveniente.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 8 DE NOVIEMBRE DE 2011)</small>
+
+De igual forma, las partes podrán solicitar autorización para ingresar a la Página Electrónica que para tal efecto tiene el Poder Judicial del Estado, debiendo proporcionar el nombre de usuario previamente registrado en la base de datos del Órgano Jurisdiccional, lo que les permitirá consultar en forma completa el expediente electrónico.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 8 DE NOVIEMBRE DE 2011)</small>
+
+La consulta de expedientes electrónicos y las notificaciones que se realicen mediante la utilización del Tribunal Electrónico del Poder Judicial, se ajustarán a los lineamientos de operación para el uso de éste que se establezcan por el Pleno del Supremo Tribunal de Justicia del Estado a través del reglamento que para tal efecto emita.
 
 ###### ARTICULO 97.
 
@@ -1907,6 +1987,18 @@ VII.- Careos.
 
 También podrán ofrecerse y, deberá ordenarse su desahogo, pruebas no especificadas en el artículo anterior, entendiéndose como tales, todo aquello que a juicio del funcionario que practique la averiguación o la instrucción, pueda constituirla. Cuando éste lo juzgue necesario podrá, por cualquier medio legal, establecer la autenticidad de dicho medio de prueba.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 8 DE NOVIEMBRE DE 2011)</small>
+
+La información generada, comunicada, recibida o archivada por medios electrónicos, informáticos, telemáticos, ópticos o de cualquier otra tecnología, podrá ser ofrecida como prueba siempre que se acredite:
+
+I.- La fiabilidad del método en que haya sido generada, comunicada, recibida o archivada;
+
+II.- La integridad y la no alteración de la información a partir del momento en que se generó en forma definitiva; y
+
+III.- La vinculación directa, en cuanto a la generación, comunicación, recepción o conservación a persona determinada.
+
 ###### ARTICULO 195.
 
 El que afirma está obligado a probar. También lo está el que niegue, cuando su negación es contraria a una presunción legal o cuando envuelva la afirmación expresa de un hecho.
@@ -2663,11 +2755,13 @@ Las resoluciones dictadas por los Jueces Menores en la etapa de instrucción, no
 
 #### SECCION UNICA. DE LA PREINSTRUCCION ANTE LOS JUECES MENORES EN AUXILIO DE LOS JUECES DE PRIMERA INSTANCIA
 
-> <small>(REFORMADO, P.O. 22 DE JUNIO DE 1988)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2011)</small>
 
 ###### ARTICULO 318.
 
-Siempre que un Juzgado Menor inicie diligencias en auxilio de algún Tribunal de Primera Instancia, deberá darle aviso inmediato y éste a su vez, lo hará saber al Agente del Ministerio Público de su adscripción.
+Siempre que un Juzgado Menor inicie diligencias en auxilio de algún Tribunal de Primera Instancia, deberá darle aviso inmediato, utilizando el servicio de Tribunal Electrónico y el de Primera Instancia, a su vez, lo hará saber al Agente del Ministerio Público de su adscripción.
 
 ###### ARTICULO 319.
 
@@ -2679,9 +2773,11 @@ El Tribunal, con vista del aviso a que se refiere el Artículo anterior, podrá 
 
 Las diligencias practicadas por los Jueces Menores en auxilio de los de Primera Instancia, no se repetirán por éstos para que tengan validez, sin perjuicio de que el Tribunal encargado de la instrucción disponga su repetición en caso de estimarlo necesario.
 
-> <small>(REFORMADO, P.O. 22 DE JUNIO DE 1988)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-Los autos de formal prisión, de sujeción o no sujeción a proceso o de libertad absoluta o por falta de elementos para procesar, serán apelables ante el Juez Menor, quien ordenará la substanciación ante el Supremo Tribunal de Justicia, al que se enviará testimonio de los autos. El original del expediente, con el detenido en su caso, se pondrá a disposición del Juez de Primera Instancia que deba conocer del asunto, notificando esta circunstancia al superior de ambos.
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2011)</small>
+
+Los autos de formal prisión, de sujeción o no sujeción a proceso o de libertad absoluta o por la falta de elementos para procesar, serán apelables ante el Juez Menor, quien ordenará la substanciación ante el Supremo Tribunal de Justicia, al que se enviará testimonio de los autos. El original del expediente, con el detenido en su caso, se pondrá a disposición del Juez de Primera Instancia que deba conocer del asunto, notificando esta circunstancia al superior de ambos, a través del servicio de Tribunal Electrónico.
 
 Cuando el Juez de Primera Instancia observe que el inculpado no apeló a los autos de formal prisión o de sujeción a proceso, se notificará nuevamente éstos, y el término para recurrirlos empezará a correr de nueva cuenta para el inculpado.
 
@@ -3023,9 +3119,13 @@ Si la resolución impugnada es inapelable, procederá a declararlo en ese sentid
 
 Las partes podrán tomar en la Secretaría de la Sala los apuntes que necesiten para alegar. Pueden igualmente, dentro de los tres días siguientes a la notificación del auto de radicación, objetar la admisión del recurso o sus efectos y la Sala resolverá de plano, siendo irrecurrible la providencia que se pronuncie al respecto, procediéndose, en su caso, como lo previene el Artículo anterior.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2011)</small>
+
 ###### ARTICULO 371.
 
-De la radicación de los autos en la Sala se dará aviso al Juez, procediéndose a registrar el toca correspondiente.
+De la radicación de los autos en la Sala se dará aviso al Juez, a través del servicio de Tribunal Electrónico, procediéndose a registrar el toca correspondiente.
 
 ###### ARTICULO 372.
 
@@ -3083,7 +3183,11 @@ III.- Si después de que se haya admitido el recurso de apelación contra el aut
 
 IV.- Cuando en virtud de cualquier otro cambio de situación jurídica en el procedimiento penal, a causa de una resolución posterior, deben considerarse consumadas irreparablemente las violaciones que pudieran haberse cometido al dictar el auto apelado.
 
-El Juez de Primera Instancia comunicará al Tribunal de Apelación el cambio de situación jurídica y si no lo hiciere se le impondrá multa de diez a cincuenta días salario.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2011)</small>
+
+El Juez de Primera Instancia comunicará al Tribunal de Apelación, utilizando el servicio de Tribunal Electrónico, el cambio de situación jurídica y si no lo hiciere se le impondrá multa de diez a cincuenta días de salario.
 
 ###### ARTICULO 380.
 
@@ -3175,17 +3279,25 @@ La denegada apelación, procederá siempre que se hubiere negado admitir el recu
 
 El recurso podrá interponerse verbalmente o por escrito, dentro de los tres días siguientes a la notificación del auto en que se negare la admisión del recurso de apelación.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2011)</small>
+
 ###### ARTICULO 388.
 
-Interpuesto el recurso, el juez sin más trámite enviará al Tribunal de segunda instancia, dentro de los tres días siguientes, un certificado autorizado por el Secretario, en el que conste la naturaleza y estado del proceso, el punto sobre el que recaiga el auto apelado insertándose éste a la letra y el que lo haya declarado inapelable, así como las actuaciones que se creyeren convenientes, las que serán adicionadas por las que señalen las partes y en su caso por el promovente.
+Interpuesto el recurso, el Juez sin más trámite enviará al Tribunal de segunda Instancia, dentro de los tres días siguientes, un certificado autorizado por el Secretario, en el que consten la naturaleza y el estado del proceso, el punto sobre el que recaiga el auto apelado insertándose éste a la letra y el que lo haya declarado inapelable, así como las actuaciones que se creyeren convenientes, las que serán adicionadas por las que señalen las partes y en su caso por el promovente, mismas que podrán ser remitidas electrónicamente utilizando el servicio de Tribunal Electrónico.
 
 ###### ARTICULO 389.
 
 Cuando el juez no cumpliere con lo prevenido en el artículo anterior, el interesado podrá ocurrir por escrito dentro de un plazo de cinco días al Supremo Tribunal, haciendo relación del auto de que hubiere apelado, expresando la fecha en que se le hubiere hecho la notificación, aquella en que interpuso el recurso y la providencia que a esa promoción hubiere recaído, solicitando que se libre la orden al Juez para que proceda como lo manda el Artículo anterior.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE NOVIEMBRE DE 2011)</small>
+
 ###### ARTICULO 390.
 
-Presentado el escrito a que se refiere el Artículo anterior el Supremo Tribunal prevendrá al juez en el plazo que estime prudente, para que remita el certificado a que se refiere el Artículo 388 e informe acerca de las causas por las que no cumplió oportunamente con su obligación.
+Presentado el escrito a que se refiere el artículo anterior, el Supremo Tribunal prevendrá al Juez en el plazo que estime prudente, para que remita el certificado a que se refiere el Artículo 388 e informe acerca de las causas por las que no cumplió oportunamente con su obligación. La prevención y el informe referido en el presente artículo, se podrán remitir vía electrónica, utilizando el servicio de Tribunal Electrónico.
 
 Si resultare alguna responsabilidad al juez, lo pondrá en conocimiento del Ministerio Público para los efectos legales a que haya lugar.
 
@@ -4868,3 +4980,21 @@ P.O. 31 DE AGOSTO DE 2011.
 ###### ARTÍCULO ÚNICO.
 
 El presente decreto entrara en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Tamaulipas.
+
+P.O. 8 DE NOVIEMBRE DE 2011.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor a los 30 días posteriores de su publicación en el Periódico Oficial del Estado, exceptuándose de lo anterior las siguientes disposiciones:
+
+I.- Las adiciones de la Sección Sexta, del Capítulo Único, del Título Octavo, la de la fracción XXVI del artículo 20, recorriéndose en su orden la anterior fracción XXVI para ahora ser XXVII y el artículo 179 Bis; las reformas a los artículos 20 fracción XXV, 25 fracción IV, 44, 100 párrafo cuarto y 122 fracción XVIII; y la derogación de la fracción VIII del artículo 122 de la Ley Orgánica del Poder Judicial del Estado; y las reformas al artículo 22 fracción IV y su párrafo segundo; y la derogación de la fracción II del artículo 68 del Código de Procedimientos Civiles del Estado de Tamaulipas, las cuales entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado; y
+
+II.- Las reformas de los artículos 38 fracción III y 51 inciso A) fracción I, de Ley Orgánica del Poder Judicial del Estado; y las reformas a los artículo 192 fracción III y 844 primer párrafo del Código de Procedimientos Civiles del Estado de Tamaulipas, mismas que entrarán en vigor el día veintisiete de enero de dos mil doce, en consonancia con lo establecido en el Artículo Primero Transitorio del Decreto que reformó el Código de Comercio, publicado en el Diario Oficial de la Federación de fecha 27 de enero de 2011.
+
+###### ARTÍCULO SEGUNDO.
+
+El Pleno del Supremo Tribunal de Justicia deberá, previo al vencimiento del término establecido en el párrafo primero del artículo transitorio anterior, expedir el Reglamento a que se refiere el artículo 206 de la Ley Orgánica del Poder Judicial del Estado que mediante este Decreto se adiciona.
+
+###### ARTÍCULO TERCERO.
+
+En los asuntos iniciados previamente a la entrada en vigor de la derogación de la fracción II del artículo 68 del Código de Procedimientos Civiles del Estado de Tamaulipas, las notificaciones personales ya ordenadas se realizarán en los términos acordados dentro del expediente correspondiente.
