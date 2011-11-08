@@ -4,7 +4,7 @@ identifier: "TAM-ley-organica-del-poder-judicial-del-estado-de-tamaulipas-19678"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2000-12-19"
-last_updated: "2011-06-01"
+last_updated: "2011-11-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=19678&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE JUNIO DE 2011.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE NOVIEMBRE DE 2011.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el martes 19 de diciembre de 2000.
 
@@ -485,9 +485,17 @@ XXIII.- Promover y aplicar la mediación entre las partes, en las diversas mater
 
 XXIV.- Proponer al Congreso del Estado a los candidatos a Magistrado Presidente y Magistrados del Tribunal Electoral del Poder Judicial del Estado, en los términos señalados en el artículo 20, fracción IV, de la Constitución Política del Estado y bajo el procedimiento que señale la ley respectiva;
 
-XXV.- Recibir, en Sesión plenaria, extraordinaria, pública y solemne, el informe de labores que deberá rendir el Presidente del Tribunal Electoral del Poder Judicial del Estado sobre el estado que guarda la administración de justicia electoral. Dicho acto se verificará dentro de los seis meses siguientes a que concluya cada proceso electoral y conforme a lo que disponga la ley; y
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2011)</small>
 
-XXVI.- Las demás facultades y obligaciones que las leyes le otorguen.
+XXV.- Recibir, en Sesión plenaria, extraordinaria, pública y solemne, el informe de labores que deberá rendir el Presidente del Tribunal Electoral del Poder Judicial del Estado sobre el estado que guarda la administración de justicia electoral. Dicho acto se verificará dentro de los seis meses siguientes a que concluya cada proceso electoral y conforme a lo que disponga la ley;
+
+> <small>(ADICIONADA, P.O. 8 DE NOVIEMBRE DE 2011)</small>
+
+XXVI.- Calificar los impedimentos de los jueces de primera instancia para conocer de los asuntos sometidos a su jurisdicción, en caso de excusa o recusación, en los términos previstos por la ley; y
+
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2011)</small>
+
+XXVII.- Las demás facultades y obligaciones que las leyes les otorguen.
 
 ### CAPITULO III. DEL PRESIDENTE DEL SUPREMO TRIBUNAL
 
@@ -543,7 +551,9 @@ II.- Convocar y presidir las sesiones plenarias del Supremo Tribunal de Justicia
 
 III.- Convocar a sesiones extraordinarias cada vez que lo considere conveniente o sea solicitado por seis o más Magistrados de Número;
 
-IV.- (DEROGADA, P.O. 26 DE MAYO DE 2010)
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 8 DE NOVIEMBRE DE 2011)</small>
+
+IV.- Constituir apoderados para casos específicos tendentes a la consecución y cumplimiento de las obligaciones a su cargo en la esfera administrativa, cuya motivación quede sustentada en el acuerdo correspondiente;
 
 > <small>(REFORMADA, P.O. 26 DE MAYO DE 2010)</small>
 
@@ -863,9 +873,11 @@ I.- De los negocios de jurisdicción voluntaria cuyo conocimiento no corresponda
 
 II.- De los negocios contenciosos que versen sobre propiedad y demás derechos reales sobre inmuebles; excepto si se controvierten cuestiones relacionadas con el patrimonio de familia, en que la competencia corresponde a los Jueces de lo Familiar;
 
-> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2003)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO ARTICULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-III.- De los demás negocios de jurisdicción contenciosa, común y concurrente, cuya cuantía exceda de ciento cincuenta veces el salario mínimo diario general vigente en la Capital del Estado, excepto en lo concerniente al derecho familiar;
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2011)</small>
+
+III.- De los demás negocios de jurisdicción contenciosa, común y concurrente, cuya cuantía exceda de ciento cincuenta veces el salario mínimo diario general vigente en la capital del Estado, excepto en lo concerniente al derecho familiar. También conocerán del juicio oral mercantil, con independencia de la cuantía del asunto, pero sin exceder la que pueda tramitarse en esta modalidad;
 
 IV.- (DEROGADA, P.O. 3 DE JUNIO DE 2003)
 
@@ -1047,9 +1059,11 @@ En los distritos judiciales donde hubiere recargo de negocios o expedientes, el 
 
 Todos los Jueces de Primera Instancia tendrán jurisdicción mixta para conocer de aquellos asuntos que les corresponda por recusación de otro juzgador.
 
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2011)</small>
+
 ###### ARTICULO 44.
 
-En los distritos judiciales en que exista más de un Juzgado del mismo ramo, los negocios judiciales de su competencia serán turnados de acuerdo con el mecanismo que establezca el Supremo Tribunal de Justicia a la Oficialía de Partes respectiva, y serán radicados en el Juzgado que corresponda.
+En los distritos judiciales en que exista más de un Juzgado del mismo ramo, los negocios judiciales de su competencia serán turnados de acuerdo con el mecanismo que establezca el Consejo de la Judicatura a la Oficialía de Partes respectiva, y serán radicados en el Juzgado que corresponda.
 
 ###### ARTICULO 45.
 
@@ -1089,11 +1103,19 @@ IX.- Reunirse con los Jueces Menores y Jueces de Paz de su adscripción trimestr
 
 X.- Ordenar la remisión oportuna al Archivo Judicial del Estado, de los expedientes a que se refiere esta ley;
 
-> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2007)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO ARTICULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-XI.- Practicar las diligencias que les encomienden el Pleno del Supremo Tribunal de Justicia, los Magistrados de las Salas Colegiadas, Unitarias o Regionales y las autoridades judiciales de la Federación y rendir los informes que al efecto les soliciten; y,
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2011)</small>
 
-XII.- Las demás que les señalen las leyes, les encomiende el Pleno del Supremo Tribunal de Justicia o el Presidente de éste.
+XI.- Practicar las diligencias que les encomienden el Pleno del Supremo Tribunal de Justicia, los Magistrados de las Salas Colegiadas, Unitarias o Regionales y las autoridades judiciales de la Federación y rendir los informes que al efecto les soliciten;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO ARTICULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 8 DE NOVIEMBRE DE 2011)</small>
+
+XII.- Verificar que el Secretario de Acuerdos del juzgado cumpla con las obligaciones que la presente Ley le impone, así como las derivadas de los diversos ordenamientos legales; y
+
+XIII.- Las demás que les señalen las leyes, les encomiende el Pleno del Supremo Tribunal de Justicia o el Presidente de éste.
 
 > <small>(REFORMADO EL PRIMER PARRAFO, P.O. 26 DE MAYO DE 2010)</small>
 
@@ -1161,7 +1183,11 @@ Corresponde a los Jueces Menores y, en su caso, a los Jueces de Paz, lo siguient
 
 A) Le corresponde a los Jueces Menores:
 
-I.- Conocer de los negocios civiles y mercantiles por el importe de cuarenta y seis hasta ciento cincuenta veces el salario mínimo vigente en la capital del Estado;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2011)</small>
+
+I.- Conocer de los negocios civiles y mercantiles por el importe de cuarenta y seis hasta ciento cincuenta veces el salario mínimo vigente en la capital del Estado; exceptuando los asuntos que son de la competencia de los jueces de primera instancia;
 
 II.- Conocer de los asuntos penales por delitos cuya sanción consista en apercibimiento, caución de no ofender, multa o pena alternativa y prisión de hasta dos años;
 
@@ -1367,7 +1393,11 @@ I.- Dar cuenta, dentro de las veinticuatro horas siguientes a su recepción, de 
 
 II.- Vigilar, bajo su responsabilidad, que se despachen los asuntos dentro de los términos de ley, asentando las constancias respectivas en autos;
 
-III.- Llevar los libros de registro y los que sean necesarios para el mejor servicio y cuidar que se siga un orden conveniente respecto al archivo de los expedientes, de manera que estos puedan ser consultados de manera conveniente;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO ARTICULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2011)</small>
+
+III.- Llevar en forma electrónica, a través del Sistema de Gestión Judicial, el libro en el que se registran los negocios de la sala, el cual se denominará "Libro de Gobierno"; así como los demás libros electrónicos que determine el Consejo de la Judicatura, en los que se asienten los diversos movimientos de la Sala tales como comunicaciones procesales, exhortos, despachos, requisitorias, amparos, entre otros;
 
 IV.- Vigilar la conducta de los empleados subalternos, dando cuenta inmediata al Magistrado respecto de las faltas que observe;
 
@@ -1375,9 +1405,23 @@ V.- Certificar con su firma las copias cuya expedición se acuerde por el Magist
 
 VI.- Dar fe y refrendar con su firma las resoluciones que se dicten por el Magistrado;
 
-VII.- Dar cuenta inmediata de las resoluciones que por su urgencia así lo ameriten; y,
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO ARTICULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-VIII.- Las demás que les confiera la ley, el Pleno del Supremo Tribunal de Justicia, su Presidente, o el Magistrado a cuya Sala esté adscrito.
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2011)</small>
+
+VII.- Dar cuenta inmediata de las resoluciones que por su urgencia así lo ameriten;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO ARTICULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 8 DE NOVIEMBRE DE 2011)</small>
+
+VIII.- Utilizar el Sistema Electrónico de Gestión Judicial y supervisar el uso de éste por el personal adscrito a la Sala para la realización del trabajo diario; y,
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO ARTICULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2011)</small>
+
+IX.- Las demás que les confiera la Ley, el Pleno del Supremo Tribunal de Justicia, su Presidente, o el Magistrado a cuya Sala esté adscrito.
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 4 DE DICIEMBRE DE 2007)</small>
 
@@ -1397,7 +1441,7 @@ El Consejo de la Judicatura podrá adscribir libremente a los Secretarios Proyec
 
 ### CAPITULO XIII. DE LOS ACTUARIOS
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE MAYO DE 2010)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE MAYO DE 2010)</small>
 
 ###### ARTICULO 74.
 
@@ -1435,9 +1479,17 @@ I.- Recibir los escritos que se les presenten, asentando al calce la razón del 
 
 II.- Dar cuenta diariamente al Juez bajo su más estricta responsabilidad y dentro de las veinticuatro horas siguientes a la de la presentación, de todos los escritos y promociones de los interesados, así como de los oficios y demás documentos que se reciban en el Juzgado;
 
-III.- Llevar los libros en que se asentará el movimiento de los negocios del Juzgado;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO ARTICULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-IV.- Tener a su cargo, bajo su responsabilidad, los libros pertenecientes a la oficina;
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2011)</small>
+
+III.- Llevar en forma electrónica, a través del Sistema de Gestión Judicial, el libro en el que se registran los negocios del Juzgado, el cual se denominará "Libro de Gobierno";
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO ARTICULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2011)</small>
+
+IV.- Llevar en forma electrónica, a través del Sistema de Gestión Judicial, los demás libros que determine el Consejo de la Judicatura, en los que se asienten los movimientos del Juzgado tales como comunicaciones procesales, exhortos, requisitorias, amparos, entre otros;
 
 V.- Autorizar las resoluciones, exhortos, despachos y diligencias que se practiquen, dicten y firmen por el Juez;
 
@@ -1469,9 +1521,19 @@ XVIII.- Vigilar la conducta de los empleados subalternos, dando cuenta inmediata
 
 XIX.- Ejercer, bajo su responsabilidad, la vigilancia que sea necesaria en la oficina para evitar la pérdida de los expedientes o documentos que obren en los mismos;
 
-XX.- Asumir el carácter de jefe inmediato administrativo del Juzgado, y dirigir las labores internas de la oficina de acuerdo con las instrucciones del Juez; y,
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO ARTICULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-XXI.- Las demás que les confiera esta ley o los demás ordenamientos legales, el Pleno del Supremo Tribunal de Justicia, su Presidente o el Juez.
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2011)</small>
+
+XX.- Asumir el carácter de jefe inmediato administrativo del Juzgado, y dirigir las labores internas de la oficina de acuerdo con las instrucciones del Juez;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO ARTICULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 8 DE NOVIEMBRE DE 2011)</small>
+
+XXI.- Utilizar el Sistema Electrónico de Gestión Judicial y supervisar el uso de éste por el personal adscrito al Juzgado para la realización del trabajo diario; y
+
+XXII.- Las demás que les confiera esta ley o los demás ordenamientos legales, el Pleno del Supremo Tribunal de Justicia, su Presidente o el Juez.
 
 ## TITULO CUARTO. DE LOS SERVIDORES PUBLICOS DEL PODER JUDICIAL
 
@@ -1587,7 +1649,7 @@ Los servidores públicos judiciales disfrutarán de dos períodos anuales de vac
 
 Los empleados del Poder Judicial tienen derecho a una licencia sin goce de sueldo hasta por seis meses, prorrogables si el Consejo de la Judicatura considera justificada la petición, siempre que no afecte a la administración de la justicia.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE DICIEMBRE DE 2007)</small>
 
 ###### ARTICULO 91.
 
@@ -1623,13 +1685,13 @@ Las renuncias de los Magistrados serán sometidas al conocimiento del Pleno del 
 
 ### CAPITULO V. DE LA REMOCION Y DE LA SUSPENSION DE LOS SERVIDORES PUBLICOS DE LA ADMINISTRACION DE JUSTICIA
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE DICIEMBRE DE 2007)</small>
 
 ###### ARTICULO 95.
 
 Los Magistrados serán inamovibles durante el período de su encargo, el cual cesará únicamente en los términos del Título XI de la Constitución Política del Estado.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE MAYO DE 2010)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE MAYO DE 2010)</small>
 
 Durante el período de su ejercicio, los Jueces de Primera Instancia únicamente podrán ser removidos por el Consejo de la Judicatura, cuando:
 
@@ -1705,7 +1767,9 @@ Si la ausencia del Presidente excede de quince días, la sustitución se hará p
 
 Las ausencias temporales de los Magistrados Presidentes de Sala, serán suplidas por el Magistrado que los demás integrantes designen de entre ellos. En caso de ausencia definitiva, una vez hecha la designación por el Congreso del Estado del nuevo Magistrado, se elegirá nuevo Presidente. En tanto se hace la designación correspondiente por el Congreso del Estado, se cubrirá por el Magistrado de la Sala Auxiliar o Regional que designe el Presidente del Supremo Tribunal de Justicia.
 
-En sus faltas temporales, los Magistrados de las Salas Auxiliares serán suplidos por el Presidente del Supremo Tribunal de Justicia; las faltas temporales de los Magistrados de las Salas Regionales serán suplidas por los Secretarios de Acuerdos respectivos.
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2011)</small>
+
+En sus faltas temporales, los Magistrados de Número de las Salas Unitarias y de los Magistrados Auxiliares serán suplidos por el Presidente del Supremo Tribunal de Justicia; las faltas temporales de los Magistrados de las Salas Regionales serán suplidas por los Secretarios de Acuerdos respectivos.
 
 > <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2007)</small>
 
@@ -1941,7 +2005,7 @@ VI.- Crear nuevos juzgados y distritos judiciales, previa la sustentación presu
 
 VII.- Conceder las licencias, admitir las renuncias y sancionar las faltas del personal del Poder Judicial, excepto las de los Magistrados y al personal que tenga señalado un procedimiento especial, para ello, en los términos de esta ley;
 
-VIII.- Calificar los impedimentos de los Jueces de Primera Instancia para conocer de los asuntos sometidos a su jurisdicción, en caso de excusa o recusación, en los términos previstos por la ley;
+VIII.- (DEROGADA, P.O. 8 DE NOVIEMBRE DE 2011)
 
 IX.- Conocer de las quejas que se formulen contra los servidores públicos del Poder Judicial, con excepción de los miembros del Supremo Tribunal de Justicia, con motivo del ejercicio de sus funciones, las que se sustanciarán de acuerdo al procedimiento establecido en la ley;
 
@@ -1961,7 +2025,9 @@ XVI.- Elaborar los proyectos de reglamentos y acuerdos necesarios para el funcio
 
 XVII.- Nombrar Visitadores Judiciales, quienes tendrán las facultades señaladas en la ley;
 
-XVIII.- Dictar las medidas que estime pertinentes para que la impartición de justicia sea pronta, completa e imparcial;
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2011)</small>
+
+XVIII.- Dictar en Pleno, en Comisiones o por conducto de su Presidente, las medidas que estime pertinentes para que la impartición de justicia sea pronta, completa e imparcial;
 
 XIX.- Constituir, modificar, suprimir, aumentar y dirigir los órganos administrativos que sean necesarios para la impartición de justicia; así como el número de servidores públicos del Poder Judicial del Estado;
 
@@ -1981,9 +2047,19 @@ XXVI.- Entregar por conducto de su Presidente al Pleno del Supremo Tribunal de J
 
 XXVII.- Elaborar la cuenta pública anual del Poder Judicial;
 
-XXVIII.- Dictar las medidas necesarias para la recepción, control y destino de los bienes asegurados y decomisados dentro de un proceso penal o de justicia para adolescentes; y
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO ARTICULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-XXIX.- Las demás facultades y obligaciones que las leyes le otorguen.
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2011)</small>
+
+XXVIII.- Dictar las medidas necesarias para la recepción, control y destino de los bienes asegurados y decomisados dentro de un proceso penal o de justicia para adolescentes;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO ARTICULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 8 DE NOVIEMBRE DE 2011)</small>
+
+XXIX.- Vigilar, en la modalidad y por los conductos que éste determine, que los Secretarios de Acuerdos de las Salas y de los Juzgados, cumplan con las obligaciones que esta Ley y demás ordenamientos les impone en lo relativo al llenado de libros de registros de los negocios y movimientos de sus respectivos órganos jurisdiccionales, así como a la utilización del Sistema Electrónico de Gestión Judicial; y
+
+XXX.- Las demás facultades y obligaciones que las leyes le otorguen.
 
 > <small>(REFORMADO, P.O. 26 DE MAYO DE 2010)</small>
 
@@ -2401,9 +2477,9 @@ III.- Rendir al Presidente del Consejo de la Judicatura un informe escrito del r
 
 ## TITULO OCTAVO
 
-### CAPITULO XIII (SIC). DE LA UNIDAD DE INFORMACION PUBLICA
+### CAPITULO I. DEL PLENO, SU INTEGRACION Y COMPETENCIA
 
-> <small>(REFORMADO, P.O. 26 DE MAYO DE 2010)</small>
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2008)</small>
 
 #### SECCION PRIMERA. DE LA OFICIALIA DE PARTES
 
@@ -2677,11 +2753,11 @@ VI.- Las demás que le sean encomendadas por el Director del Centro de Mediació
 
 Todo el personal del área de apoyo psicosocial deberá contar con el título profesional o documento que acredite sus conocimientos en la materia.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 26 DE MAYO DE 2010)</small>
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2011)</small>
 
 #### SECCION QUINTA. DE LA UNIDAD DE INFORMACION PUBLICA
 
-> <small>(ADICIONADO, P.O. 4 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2010)</small>
 
 ###### ARTICULO 179.
 
@@ -2703,13 +2779,41 @@ VI.- Supervisar el Centro de Orientación e Información; y,
 
 VII.- Las demás que le asigne el Consejo de la Judicatura.
 
+> <small>(ADICIONADA CON EL ARTICULO QUE LO INTEGRA, P.O. 8 DE NOVIEMBRE DE 2011)</small>
+
+#### SECCION SEXTA. DE LA COORDINACION DE PLANEACION, DESARROLLO ADMINISTRATIVO Y ESTADISTICA
+
+> <small>(ADICIONADO, P.O. 8 DE NOVIEMBRE DE 2011)</small>
+
+###### ARTICULO 179 Bis.
+
+El Poder Judicial contará con una Coordinación de Planeación, Desarrollo Administrativo y Estadística, que estará a cargo de un Coordinador y el personal de apoyo que determine el Consejo de la Judicatura y permita el presupuesto.
+
+Las funciones de la Coordinación de Planeación, Desarrollo Administrativo y Estadística serán:
+
+I.- Proponer el desarrollo e integración del proceso de planeación judicial y, conforme a lo instruido coordinar y dar seguimiento al programa estratégico de desarrollo;
+
+II.- Coordinar la formulación del programa estratégico y proyectos de conformidad con los lineamientos establecidos por el Pleno del Consejo;
+
+III.- Dar seguimiento a los programas y proyectos, emitiendo opiniones al Presidente para la toma de decisiones que permitan mejorar el desempeño institucional;
+
+IV.- Desarrollar un sistema de indicadores del desempeño que proporcione información cuantitativa y cualitativa que le permita al Pleno del Consejo evaluar las funciones, actividades y logros de los servidores judiciales, como sustento de los estímulos y recompensas que se otorguen a los mismos;
+
+V.- Solicitar, concentrar, procesar, analizar, sistematizar e interpretar técnicamente la información estadística que, con motivo de sus facultades generan los órganos judiciales;
+
+VI.- Coordinar sus acciones con la Visitaduría Judicial y la Contraloría, para el oportuno y eficaz cumplimiento de las atribuciones que tienen conferidas;
+
+VII.- Coordinar el Sistema de Gestión de la Calidad, promoviendo la mejora continua tanto de los procesos de apoyo a la impartición de justicia, como de los procesos administrativos, que redunden en beneficio de los justiciables, litigantes y del propio personal del Poder Judicial; y
+
+VIII.- Las demás que le establezcan las disposiciones legales o el Consejo de la Judicatura.
+
 > <small>(ADICIONADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, P.O. 29 DE DICIEMBRE DE 2008)</small>
 
 ## TITULO NOVENO. DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DEL ESTADO
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 29 DE DICIEMBRE DE 2008)</small>
 
-### CAPITULO I. DEL PLENO, SU INTEGRACION Y COMPETENCIA
+### CAPITULO II. DEL MAGISTRADO PRESIDENTE
 
 > <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2008)</small>
 
@@ -2841,7 +2945,7 @@ Al Tribunal Electoral, su Pleno, sus integrantes y demás órganos del mismo, le
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 29 DE DICIEMBRE DE 2008)</small>
 
-### CAPITULO II. DEL MAGISTRADO PRESIDENTE
+### CAPITULO III. DE LOS MAGISTRADOS ELECTORALES Y SUS PONENCIAS
 
 > <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2008)</small>
 
@@ -2887,7 +2991,7 @@ Las ausencias del Presidente serán suplidas, si no exceden de dos meses, por el
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 29 DE DICIEMBRE DE 2008)</small>
 
-### CAPITULO III. DE LOS MAGISTRADOS ELECTORALES Y SUS PONENCIAS
+### CAPITULO IV. DE LA SECRETARIA GENERAL DE ACUERDOS
 
 > <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2008)</small>
 
@@ -2933,7 +3037,7 @@ Todos los servidores del Tribunal serán considerados personal de confianza.
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 29 DE DICIEMBRE DE 2008)</small>
 
-### CAPITULO IV. DE LA SECRETARIA GENERAL DE ACUERDOS
+### CAPITULO V. DE LA COMISION DE ADMINISTRACION, VIGILANCIA Y DISCIPLINA
 
 > <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2008)</small>
 
@@ -2981,7 +3085,7 @@ El Secretario General percibirá la remuneración prevista en el presupuesto de 
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 29 DE DICIEMBRE DE 2008)</small>
 
-### CAPITULO V. DE LA COMISION DE ADMINISTRACION, VIGILANCIA Y DISCIPLINA
+### CAPITULO VI. DE LA JURISPRUDENCIA ELECTORAL
 
 > <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2008)</small>
 
@@ -3049,9 +3153,11 @@ La Comisión de Administración, Vigilancia y Disciplina del Tribunal Electoral 
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 29 DE DICIEMBRE DE 2008)</small>
 
-### CAPITULO VI. DE LA JURISPRUDENCIA ELECTORAL
+### CAPITULO UNICO
 
-> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2008)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIOS PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 8 DE NOVIEMBRE DE 2011)</small>
 
 ###### ARTICULO 204.
 
@@ -3068,6 +3174,40 @@ III.- Para que el criterio de jurisprudencia resulte obligatorio, se requerirá 
 ###### ARTICULO 205.
 
 La jurisprudencia del Tribunal Electoral será obligatoria en todos los casos para el Instituto Electoral de Tamaulipas.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE TITULO, VEASE TRANSITORIOS PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO CON EL CAPITULO Y ARTICULOS QUE LO INTEGRAN, P.O. 8 DE NOVIEMBRE DE 2011)</small>
+
+## TITULO DECIMO. DEL TRIBUNAL ELECTRONICO
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIOS PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 8 DE NOVIEMBRE DE 2011)</small>
+
+###### ARTICULO 206.
+
+El Tribunal Electrónico es el sistema integral de procesamiento de información, de forma electrónica o digital, que permite la substanciación de asuntos jurisdiccionales ante el Poder Judicial del Estado; conforme a lo establecido en los Códigos de Procedimientos Civiles del Estado de Tamaulipas y de Procedimientos Penales para el Estado de Tamaulipas, así como, en el Reglamento para el Acceso a los Servicios del Tribunal Electrónico del Poder Judicial del Estado, que apruebe el Pleno del Supremo Tribunal de Justicia.
+
+El objeto principal del Tribunal Electrónico es constituirse en una herramienta tecnológica que contribuya a que los servicios de impartición de justicia se presten con mayor agilidad, calidad, eficacia, eficiencia, seguridad y transparencia, en beneficio de los justiciables.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIOS PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 8 DE NOVIEMBRE DE 2011)</small>
+
+###### ARTÍCULO 207.
+
+El sistema del Tribunal Electrónico tendrá como principales funciones:
+
+I.- La formación del expediente electrónico a través de la incorporación de las resoluciones judiciales en el sistema y la digitalización de documentos;
+
+II.- La consulta de expedientes electrónicos;
+
+III.- La recepción electrónica de promociones o peticiones diversas;
+
+IV.- La notificación personal en forma electrónica de las resoluciones judiciales; y
+
+V.- El fungir como medio de comunicación procesal entre autoridades jurisdiccionales.
 
 T R A N S I T O R I O S
 
@@ -3228,3 +3368,21 @@ El Poder Judicial del Estado de Tamaulipas deberá nombrar a los Jueces de Ejecu
 ###### ARTÍCULO TERCERO.
 
 Las facultades y obligaciones que mediante el presente Decreto se señalan para los Jueces de Ejecución de Sanciones, así como para los Jueces de Ejecución de Medidas para Adolescentes, no podrán recaer en un mismo servidor público.
+
+P.O. 8 DE NOVIEMBRE DE 2011.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor a los 30 días posteriores de su publicación en el Periódico Oficial del Estado, exceptuándose de lo anterior las siguientes disposiciones:
+
+I.- Las adiciones de la Sección Sexta, del Capítulo Único, del Título Octavo, la de la fracción XXVI del artículo 20, recorriéndose en su orden la anterior fracción XXVI para ahora ser XXVII y el artículo 179 Bis; las reformas a los artículos 20 fracción XXV, 25 fracción IV, 44, 100 párrafo cuarto y 122 fracción XVIII; y la derogación de la fracción VIII del artículo 122 de la Ley Orgánica del Poder Judicial del Estado; y las reformas al artículo 22 fracción IV y su párrafo segundo; y la derogación de la fracción II del artículo 68 del Código de Procedimientos Civiles del Estado de Tamaulipas, las cuales entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado; y
+
+II.- Las reformas de los artículos 38 fracción III y 51 inciso A) fracción I, de (sic) Ley Orgánica del Poder Judicial del Estado; y las reformas a los artículo (sic) 192 fracción III y 844 primer párrafo del Código de Procedimientos Civiles del Estado de Tamaulipas, mismas que entrarán en vigor el día veintisiete de enero de dos mil doce, en consonancia con lo establecido en el Artículo Primero Transitorio del Decreto que reformó el Código de Comercio, publicado en el Diario Oficial de la Federación de fecha 27 de enero de 2011.
+
+###### ARTÍCULO SEGUNDO.
+
+El Pleno del Supremo Tribunal de Justicia deberá, previo al vencimiento del término establecido en el párrafo primero del artículo transitorio anterior, expedir el Reglamento a que se refiere el artículo 206 de la Ley Orgánica del Poder Judicial del Estado que mediante este Decreto se adiciona.
+
+###### ARTÍCULO TERCERO.
+
+En los asuntos iniciados previamente a la entrada en vigor de la derogación de la fracción II del artículo 68 del Código de Procedimientos Civiles del Estado de Tamaulipas, las notificaciones personales ya ordenadas se realizarán en los términos acordados dentro del expediente correspondiente.
