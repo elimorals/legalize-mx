@@ -4,7 +4,7 @@ identifier: "TAM-codigo-de-procedimientos-civiles-del-estado-de-tamaulipas-8449"
 country: "mx"
 rank: "codigo"
 publication_date: "1961-10-04"
-last_updated: "2010-05-04"
+last_updated: "2011-11-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8449&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CODIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE MAYO DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE NOVIEMBRE DE 2011.
 
 Código publicado en el Periódico Oficial del Estado de Tamaulipas, el 4 de octubre de 1961.
 
@@ -133,6 +133,12 @@ Se dejarán los márgenes necesarios a efecto de permitir la lectura por ambos l
 
 Deberán ser autorizadas por el secretario a quien corresponde dar fe o certificar el acto, y no surtirán efectos legales si falta este requisito.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 8 DE NOVIEMBRE DE 2011)</small>
+
+Las actuaciones judiciales que consten por escrito, deberán ser firmadas, bajo pena de nulidad, por los servidores públicos a quienes corresponda realizarlas, dar fe o certificar el acto.
+
 ###### ARTICULO 13.
 
 Los jueces tomarán personalmente las protestas y autorizarán bajo su responsabilidad todas las actuaciones de prueba. De las audiencias se levantará acta, la que debe contener indicación de las personas que intervienen y las circunstancias de lugar y tiempo en que se cumplen las diligencias a que se refieren; debe, además, contener la descripción de las actividades realizadas, de los reconocimientos efectuados y de las declaraciones recibidas. Una vez redactada el acta, el secretario le dará lectura y firmarán las personas que intervengan. Si alguna de ellas no puede o no quiere hacerlo, se dejará constancia de este hecho. En todo caso, las actas serán suscritas por el secretario, y por éste y el titular del tribunal, cuando intervenga conforme a la ley.
@@ -241,7 +247,9 @@ II.- En el ángulo superior derecho de la primera hoja el número del expediente
 
 III.- La autoridad a quien se dirige;
 
-IV.- Nombre completo, profesión, oficio u ocupación, nacionalidad, estado civil, edad y domicilio del que promueve, en caso de ser la primera ocasión que comparece; de no ser así, únicamente se cumplirá con la primera exigencia por lo que se refiere a esta fracción.
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2011)</small>
+
+IV.- Bajo protesta de decir verdad señalar el nombre completo, profesión, oficio u ocupación, nacionalidad, estado civil, edad y domicilio del que promueve, en caso de ser la primera ocasión que comparece; de no ser así, únicamente se cumplirá con la primera exigencia por lo que se refiere a esta fracción;
 
 V.- Se fundarán en Derecho. Al efecto, deberá citarse expresamente la disposición legal en que se basa la petición o manifestación;
 
@@ -251,11 +259,39 @@ VII.- Serán firmadas por la parte y su abogado, según lo dispuesto por el art�
 
 VIII.- Siempre se presentarán originales, salvo las copias de ley. Los interesados pueden presentar una copia simple de sus escritos, a fin de que se les devuelva con la fecha y hora de presentación, sellada y firmada por el secretario, o quien haga sus veces.
 
-La enumeración anterior no es limitativa, por lo que las partes deberán consignar además en sus promociones todos aquellos datos que faciliten su comprensión y trámite.
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2011)</small>
+
+La enumeración anterior no es limitativa, por lo que las partes deberán consignar además en sus promociones todos aquellos datos que faciliten su comprensión y trámite. En la inteligencia de que, de no resultar verdadero alguno de los datos señalados bajo protesta a que se refiere la anterior fracción IV, se le impondrá multa de conformidad con la fracción II, del artículo 15 de este Código.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 8 DE NOVIEMBRE DE 2011)</small>
+
+###### ARTICULO 22 Bis.
+
+Con excepción de la demanda inicial y la contestación, las partes podrán presentar promociones a través del Tribunal Electrónico, por si o por persona autorizada, a través de la página web oficial del Poder Judicial del Estado, lo que permitirá enviar los documentos respectivos de manera electrónica.
+
+La opción de presentar promociones electrónicas, no obliga a las partes a realizar las subsecuentes de la misma forma, pudiendo en todo momento optar por presentarlas en forma escrita. En cualquier caso, los requisitos de forma exigidos por este Código y demás disposiciones, deberán ser igualmente satisfechos.
+
+La autorización, así como lo relativo al envío, de promociones a través del Tribunal Electrónico, se ajustará a lo establecido en el reglamento que para tal efecto se expida por el Pleno del Supremo Tribunal de Justicia.
+
+Cuando se requiera la firma de la parte interesada y la de su abogado, bastará que la promoción electrónica tenga inserta la firma electrónica avanzada de la parte interesada o la del abogado autorizado legalmente para ello, con lo cual se tendrá por cumplido dicho requisito.
+
+Además de la promoción electrónica, las partes podrán anexar documentos digitalizados que originariamente constan en papel, así como cualesquiera de los medios de prueba a que se refiere el artículo 379 de este Código.
+
+Cuando por las singulares características de un documento u otro anexo, el sistema no permita su incorporación adjunta para su envío en forma electrónica, las partes, según sea el caso, deberán presentar la promoción y sus anexos en la forma tradicional, por escrito, ante el órgano correspondiente del Poder Judicial.
+
+Las promociones electrónicas y sus anexos, deberán estar siempre signadas a través de la firma electrónica avanzada de quien promueve.
+
+El titular del órgano jurisdiccional tendrá la facultad de solicitar a las partes, cuando así lo considere necesario, la presentación física de cualquiera de los documentos o medios de prueba que electrónicamente le hayan sido presentados.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PRIMER PARRAFO, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE NOVIEMBRE DE 2011)</small>
 
 ###### ARTICULO 23.
 
-El juzgado por conducto del secretario hará constar en cada promoción original el día y la hora en que se presenta, y razón de los documentos que con la misma se anexan. Igualmente, dará cuenta al superior, con las promociones que reciba, dentro de las veinticuatro horas siguientes.
+El juzgado, por conducto del secretario o el titular de la oficialía de partes, en los lugares donde éstas existan, hará constar en cada promoción original el día y la hora en que se presenta y razón de los documentos que con la misma se anexan. A su vez, el secretario dará cuenta al superior, con las promociones que reciba, por escrito o electrónicamente dentro de las veinticuatro horas siguientes. En el caso de las recibidas de forma electrónica, deberá imprimirlas para que, una vez acordadas, sean agregadas al expediente físico.
 
 > <small>(REFORMADO, P.O. 22 DE JUNIO DE 1988)</small>
 
@@ -277,19 +313,23 @@ Los autos que se perdieren serán repuestos a costa del responsable de la pérdi
 
 La reposición se substanciará en la vía incidental, y, sin necesidad de acuerdo judicial, el secretario hará constar, desde luego, la existencia anterior y falta posterior del expediente.
 
-> <small>(REFORMADO, P.O. 7 DE JULIO DE 2009)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-Los jueces están autorizados para investigar de oficio la preexistencia de las piezas de autos desaparecidas, valiéndose para ello de todos los medios que no sean contrarios a la moral o al derecho, incluidos los registros y archivos electrónicos que consten en los medios de almacenamiento electrónicos del Poder Judicial del Estado.
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2011)</small>
+
+Los jueces deberán investigar de oficio la existencia de las piezas de autos desaparecidas, valiéndose para ello de todos los medios que no sean contrarios a la moral o al derecho, incluyendo los registros que consten en el Expediente Electrónico.
 
 Las partes están obligadas a aportar para la reposición de los expedientes, las copias de documentos, escritos, diligencias o resoluciones judiciales que obren en su poder, y el juez tendrá las más amplias facultades para usar de los medios de apremio que autoriza la ley.
 
 En el caso en que resulte que alguna de las partes o sus representantes o abogados son responsables, como autores, coautores o encubridores, de la sustracción o pérdida del expediente, se hará la consignación correspondiente para la imposición de las sanciones penales.
 
-> <small>(REFORMADO, P.O. 22 DE JUNIO DE 1988)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2011)</small>
 
 ###### ARTICULO 26.
 
-Las partes pueden pedir copias certificadas de los negocios en que intervienen. Se darán sin necesidad de citación de la contraria, pero únicamente con autorización judicial, en la inteligencia, de que nunca se expedirá solamente parte del documento o actuación que se solicita, sino siempre de su totalidad. Si se pide copia de una resolución que ha sido revocada o modificada posteriormente mediante cualquier recurso, o declarada nula o de nombramiento de albacea, depositario, interventor, o cualquier otro auxiliar de la administración de justicia, que hubiere sido removido de su cargo, al expedirse deberán hacerse constar de oficio esas circunstancias en la propia copia. Al Secretario o quienes los sustituyan, que no inserte la constancia se le impondrá la corrección disciplinaria correspondiente.
+Las partes pueden pedir copias certificadas de los negocios en que intervienen, las que pueden obtenerse del expediente físico o mediante impresión cuando obren en el Expediente Electrónico. Las copias se darán sin necesidad de citación de la contraria, pero únicamente con autorización judicial, en la inteligencia, de que nunca se expedirá solamente parte del documento o actuación que se solicita, sino siempre de su totalidad. Si se pide copia de una resolución que ha sido revocada o modificada posteriormente mediante cualquier recurso, o declarada nula o de nombramiento de albacea, depositario, interventor, o cualquier otro auxiliar de la administración de justicia, que hubiere sido removido de su cargo, al expedirse deberán hacerse constar de oficio esas circunstancias en la propia copia. Al Secretario o quienes los sustituyan, que no inserte la constancia se le impondrá la corrección disciplinaria correspondiente.
 
 ###### ARTICULO 27.
 
@@ -336,6 +376,12 @@ Los magistrados, Procurador General de Justicia y jueces propietarios en ejercic
 ###### ARTICULO 36.
 
 Las partes deberán presentar sus promociones en la oportunidad procesal debida, y de ninguna manera anticipadamente. La no observancia de esta prevención dará lugar a que se tenga por no hecha la manifestación o petición contenida en el escrito cuya presentación es extemporánea.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 8 DE NOVIEMBRE DE 2011)</small>
+
+Las promociones que se presenten por las partes a través del Tribunal Electrónico en los días u horas inhábiles, se tendrán por recibidas al momento hábil siguiente, exceptuándose de lo anterior, las promociones sujetas a término en las cuales se observará el sello electrónico de recepción, que se genera al presentar las promociones con la firma electrónica avanzada.
 
 ###### ARTICULO 37.
 
@@ -597,7 +643,7 @@ Además del emplazamiento se harán personalmente las siguientes notificaciones:
 
 I.- Del auto que ordene la absolución de posiciones o reconocimiento de documentos;
 
-II.- La primera resolución que se dicte, cuando por cualquier motivo se dejare de actuar en el juicio por más de dos meses;
+II.- (DEROGADA, P.O. 8 DE NOVIEMBRE DE 2011);
 
 III.- Las sentencias, y,
 
@@ -621,9 +667,19 @@ El juez al acordar lo relativo a la autorización a que se refiere este artícul
 
 Así mismo, las partes podrán solicitar la autorización para sí o por persona autorizada en los términos que establecen los párrafos anteriores, el acceso a la Página Electrónica que para tal efecto tiene el Poder Judicial del Estado, debiendo proporcionar el nombre del usuario previamente registrado en la base de datos del Órgano Jurisdiccional, lo que les permitirá consultar en forma completa el expediente electrónico.
 
-Igualmente, si así lo desean, las partes podrán autorizar que a través del correo electrónico, así como de la Página Web del Tribunal, se les realicen notificaciones, aún las de carácter personal, ordenadas con posterioridad a la fecha en que se otorgue este tipo de autorización, generándose en cada diligencia electrónica un registro que contendrá folio, juzgado, expediente, fecha y hora de cada notificación, el cual será agregado a los autos y se tendrá por legalmente practicada la notificación hecha por este medio, surtiendo sus efectos en los términos previstos por el artículo 63 de este Código.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2011)</small>
+
+Igualmente, si así lo desean, las partes podrán autorizar que a través del correo electrónico, y mediante el sistema del Tribunal Electrónico del Poder Judicial del Estado, se les realicen notificaciones, aún las de carácter personal, ordenadas con posterioridad a la fecha en que se otorgue este tipo de autorización, generándose en cada diligencia electrónica un registro que contendrá folio, juzgado, expediente, fecha y hora de cada notificación, el cual será agregado a los autos y se tendrá por legalmente practicada la notificación hecha por este medio, surtiendo sus efectos en los términos previstos por el artículo 63 de este Código.
 
 Se excluye de la anterior forma de notificación el emplazamiento a juicio y las demás que el juez así lo considere conveniente.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 8 DE NOVIEMBRE DE 2011)</small>
+
+La consulta de expedientes electrónicos y las notificaciones personales electrónicas, que se realicen mediante la utilización del Tribunal Electrónico del Poder Judicial, se ajustarán a los lineamientos de operación para el uso de éste que se establezcan, por el Pleno del Supremo Tribunal de Justicia, a través del reglamento que para tal efecto emita.
 
 ###### ARTICULO 69.
 
@@ -1429,9 +1485,11 @@ I.- De los negocios de jurisdicción voluntaria que no interesen al derecho de f
 
 II.- De los negocios contenciosos que versen sobre propiedad o demás derechos reales sobre inmuebles;
 
-> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2006)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-III.- De los demás negocios de jurisdicción contenciosa, común y concurrente cuya cuantía exceda de ciento cincuenta veces el salario mínimo general vigente en la Capital del Estado;
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2011)</small>
+
+III.- De los demás negocios de jurisdicción contenciosa, común y concurrente, cuya cuantía exceda de ciento cincuenta veces el salario mínimo general vigente en la Capital del Estado. También conocerán del juicio oral mercantil, con independencia de la cuantía del asunto, pero sin que ésta exceda de la cuantía que puede tramitarse bajo esta modalidad;
 
 IV.- (DEROGADA, P.O. 3 DE JUNIO DE 2003)
 
@@ -2773,6 +2831,12 @@ Para acreditar hechos o circunstancias que tengan relación con el negocio que s
 
 En el caso de registros y archivos electrónicos, la parte oferente deberá expresar con toda exactitud el nombre completo del sistema operativo y del programa o aplicación que lo ejecuta, o en su lugar la página electrónica de la cual fue obtenido; el Juzgador, deberá requerir al oferente para que proporcione los medios necesarios para el desahogo de la probanza en el caso de que el Supremo Tribunal de Justicia no cuente con ellos; si los medios proporcionados al respecto resultaren inadecuados, la prueba en comento se declarará desierta.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 8 DE NOVIEMBRE DE 2011)</small>
+
+Los registros electrónicos generados y publicados en el Expediente Electrónico, únicamente podrán ofrecerse precisando la parte conducente que se desea aportar como prueba, así como el nombre de las partes, número de expediente, tipo de juicio, juzgado en el que se tramita o tramitó el procedimiento respectivo, y cualquier otro dato que permita al juez su localización electrónica. Para establecer su valor probatorio deberá estarse a lo que dispone el tercer párrafo del artículo 410 de este Código.
+
 ###### ARTICULO 380.
 
 El Juez, según su prudente arbitrio, admitirá o denegará la prueba y concederá a la parte que la presente un plazo para que ministre al tribunal los aparatos o elementos necesarios para que pueda apreciarse el valor de los registros y reproducir los sonidos, figuras o experimentos. En su caso señalará día y hora para que en presencia de las partes se practique el experimento o reproducción.
@@ -2990,6 +3054,24 @@ VII.- Lo fundado de la razón de su dicho.
 El valor de las pruebas fotográficas, taquigráficas y otras cualesquiera aportadas por los descubrimientos de la ciencia, quedará al prudente arbitrio judicial.
 
 Las fotografías de personas, lugares, edificios, construcciones, papeles, documentos y objetos de cualquier especie, deberán contener la certificación correspondiente que acredite el lugar, tiempo y circunstancias en que fueron tomadas, así como que corresponden a lo representado en ellas, para que constituyan prueba plena.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 8 DE NOVIEMBRE DE 2011)</small>
+
+Los registros electrónicos generados y publicados en el Tribunal Electrónico, harán prueba plena.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 8 DE NOVIEMBRE DE 2011)</small>
+
+Los demás registros electrónicos, archivos magnéticos, archivos electrónicos y cualesquiera otros elementos proporcionados por la ciencia, cuando contengan firma electrónica avanzada o sello digital, hacen prueba plena, salvo prueba en contrario.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 8 DE NOVIEMBRE DE 2011)</small>
+
+Las pruebas a que se refiere el párrafo anterior, que no contengan firma electrónica avanzada o sello digital, para su valoración se estimará primordialmente la fiabilidad del método en que haya sido generada, comunicada, recibida o archivada y, en su caso, si es posible atribuir a las personas obligadas el contenido de la información relativa y ser accesible para su ulterior consulta, de no darse tales requisitos sólo constituirán indicios que deberán ser admitidos con otro tipo de pruebas, quedando al prudente arbitrio del juzgador el que deberá motivar debidamente la valoración que haga de dicha prueba.
 
 En cualquier otro caso, su valor probatorio queda al prudente arbitrio judicial.
 
@@ -6613,11 +6695,15 @@ Las recusaciones de los secretarios de los juzgados se substanciarán en la form
 
 ### CAPITULO II. COMPETENCIA Y PRELIMINARES DEL JUICIO
 
-> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2007)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PRIMER PARRAFO, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE NOVIEMBRE DE 2011)</small>
 
 ###### ARTICULO 844.
 
-Los negocios cuyo interés no exceda de ciento cincuenta veces al salario mínimo diario general vigente en la Capital del Estado, se tramitarán ante los jueces menores. Para establecer la cuantía se estará únicamente a la suerte principal, sin tomar en cuenta los intereses y demás prestaciones accesorias.
+Los negocios cuyo interés no excedan de ciento cincuenta veces al salario mínimo diario general vigente en la Capital del Estado, se tramitarán ante los jueces menores. Para establecer la cuantía se estará únicamente a la suerte principal, sin tomar en cuenta los intereses y demás prestaciones accesorias. Se exceptúan de lo anterior los asuntos mercantiles que en su modalidad de juicio oral corresponda conocer a los jueces de primera instancia.
+
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2007)</small>
 
 Para los asuntos mayores de cuarenta y cinco veces el salario mínimo se seguirá el procedimiento fijado en los artículos siguientes.
 
@@ -7638,3 +7724,21 @@ P.O. 4 DE MAYO DE 2010.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 8 DE NOVIEMBRE DE 2011.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor a los 30 días posteriores de su publicación en el Periódico Oficial del Estado, exceptuándose de lo anterior las siguientes disposiciones:
+
+I.- Las adiciones de la Sección Sexta, del Capítulo Único, del Título Octavo, la de la fracción XXVI del artículo 20, recorriéndose en su orden la anterior fracción XXVI para ahora ser XXVII y el artículo 179 Bis; las reformas a los artículos 20 fracción XXV, 25 fracción IV, 44, 100 párrafo cuarto y 122 fracción XVIII; y la derogación de la fracción VIII del artículo 122 de la Ley Orgánica del Poder Judicial del Estado; y las reformas al artículo 22 fracción IV y su párrafo segundo; y la derogación de la fracción II del artículo 68 del Código de Procedimientos Civiles del Estado de Tamaulipas, las cuales entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado; y
+
+II.- Las reformas de los artículos 38 fracción III y 51 inciso A) fracción I, de Ley (sic) Orgánica del Poder Judicial del Estado; y las reformas a los artículo (sic) 192 fracción III y 844 primer párrafo del Código de Procedimientos Civiles del Estado de Tamaulipas, mismas que entrarán en vigor el día veintisiete de enero de dos mil doce, en consonancia con lo establecido en el Artículo Primero Transitorio del Decreto que reformó el Código de Comercio, publicado en el Diario Oficial de la Federación de fecha 27 de enero de 2011.
+
+###### ARTÍCULO SEGUNDO.
+
+El Pleno del Supremo Tribunal de Justicia deberá, previo al vencimiento del término establecido en el párrafo primero del artículo transitorio anterior, expedir el Reglamento a que se refiere el artículo 206 de la Ley Orgánica del Poder Judicial del Estado que mediante este Decreto se adiciona.
+
+###### ARTÍCULO TERCERO.
+
+En los asuntos iniciados previamente a la entrada en vigor de la derogación de la fracción II del artículo 68 del Código de Procedimientos Civiles del Estado de Tamaulipas, las notificaciones personales ya ordenadas se realizarán en los términos acordados dentro del expediente correspondiente.
