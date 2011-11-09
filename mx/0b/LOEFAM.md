@@ -4,7 +4,7 @@ identifier: "LOEFAM"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1986-12-26"
-last_updated: "2011-06-01"
+last_updated: "2011-11-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=417&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LOEFAM"
 
 LEY ORGANICA DEL EJERCITO Y FUERZA AEREA MEXICANOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 1 DE JUNIO DE 2011.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 9 DE NOVIEMBRE DE 2011.
 
 Ley publicada en el Diario Oficial de la Federación el viernes 26 de diciembre de 1986.
 
@@ -99,6 +99,10 @@ II. Alto Mando;
 III. Mandos Superiores; y
 
 IV. Mandos de Unidades.
+
+> <small>(ADICIONADO, D.O.F. 9 DE NOVIEMBRE DE 2011)</small>
+
+Sin distinción de género, los miembros del Ejército y Fuerza Aérea Mexicanos podrán acceder a todos los niveles de mando, incluyendo a los órganos del Alto Mando del Ejército y la Fuerza Aérea.
 
 > <small>(F. DE E., D.O.F. 13 DE FEBRERO DE 1987)</small>
 
@@ -932,6 +936,10 @@ III. Escuelas, Centros o Cursos de Aplicación, Perfeccionamiento, Capacitación
 
 IV. Escuelas, Centros o Cursos Superiores.
 
+> <small>(ADICIONADO, D.O.F. 9 DE NOVIEMBRE DE 2011)</small>
+
+En los sistemas de selección no podrán existir más diferencias por razón de sexo, que las derivadas de las distintas condiciones físicas que, en su caso, puedan considerarse en el cuadro de condiciones exigibles para el ingreso.
+
 ###### ARTICULO 123.
 
 El Plan General de Educación Militar, determinará los Cursos que deban impartirse en los diversos establecimientos de Educación Militar, así como en las Unidades y Dependencias del Ejército y Fuerza Aérea.
@@ -1098,9 +1106,11 @@ Los grados y las insignias en el Ejército y Fuerza Aérea son de su uso exclusi
 
 ### CAPITULO II. CLASES MILITARES
 
+> <small>(REFORMADO, D.O.F. 9 DE NOVIEMBRE DE 2011)</small>
+
 ###### ARTICULO 132.
 
-Militares son los individuos que legalmente pertenecen a las Fuerzas Armadas Mexicanas, con un grado de la escala jerárquica. Estarán sujetos a las obligaciones y derechos que para ellos establecen la Constitución, la presente Ley y demás ordenamientos castrenses.
+Militares son las mujeres y los hombres que legalmente pertenecen a las Fuerzas Armadas Mexicanas, con un grado de la escala jerárquica. Estarán sujetos a las obligaciones y derechos que para ellos establecen la Constitución, la presente Ley y demás ordenamientos castrenses.
 
 ###### ARTICULO 133.
 
@@ -1995,3 +2005,7 @@ Tercero.- Los discentes que se encuentren en el supuesto que antecede, una vez q
 Cuarto.- El Ejecutivo Federal reformará los reglamentos de las Instituciones Educativas Militares que impartan estudios tipo superior de nivel licenciatura y el Reglamento de la Ley de Ascensos y Recompensas del Ejército y Fuerza Aérea Mexicanos, en un plazo no mayor a 180 días de la entrada en vigor del presente Decreto.
 
 Quinto.- Las erogaciones que deriven de la aplicación del presente Decreto serán realizadas mediante movimientos compensados, por lo que la Secretaría de la Defensa Nacional, debe sujetarse a su presupuesto autorizado para el presente ejercicio fiscal y no incrementar su presupuesto regularizable.
+
+D.O.F. 9 DE NOVIEMBRE DE 2011.
+
+Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
