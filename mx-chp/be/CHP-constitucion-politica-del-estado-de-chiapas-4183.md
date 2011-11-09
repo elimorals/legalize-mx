@@ -4,7 +4,7 @@ identifier: "CHP-constitucion-politica-del-estado-de-chiapas-4183"
 country: "mx"
 rank: "constitucion"
 publication_date: "1921-02-03"
-last_updated: "2011-08-10"
+last_updated: "2011-11-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4183&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "CHP"
 
 CONSTITUCION POLITICA DEL ESTADO DE CHIAPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE JULIO DE 2011.
-
-> <small>N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 10 DE AGOSTO DE 2011 NO APLICA AL ARTICULADO DEL DECRETO 280 PUBLICADO EN EL P.O. EL 10 DE AGOSTO DE 2011.</small>
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE NOVIEMBRE DE 2011.
 
 Constitución publicada en Alcance No. 5 al Periódico Oficial del Estado de Chiapas, el 3 de febrero de 1921.
 
@@ -595,11 +593,13 @@ El Congreso del Estado deberá quedar instalado el día primero de octubre del a
 
 El Congreso del Estado tendrá sesiones extraordinarias cada vez que sea convocado por la Comisión Permanente, pero en tales casos solo podrá ocuparse del asunto o asuntos especificados en la convocatoria respectiva.
 
-> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE NOVIEMBRE DE 2011)</small>
 
 ###### Artículo 28.
 
-A la apertura del primer periodo de sesiones ordinarias del Congreso del Estado asistirá el Gobernador del Estado y presentará un informe por escrito acerca de la situación que guarden los diversos ramos de la administración pública estatal. Realizado lo anterior, el presidente del Congreso, declarará recibido dicho informe, que será analizado en sesiones posteriores.
+Dentro de los 30 días siguientes a la apertura del primer período de sesiones ordinarias del Congreso del Estado, asistirá el Gobernador del Estado y presentará un informe por escrito acerca de la situación que guarden los diversos ramos de la administración pública estatal. Realizado lo anterior, el Presidente del Congreso, declarará recibido dicho informe, que será analizado en sesiones posteriores.
+
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2011)</small>
 
 El Congreso del Estado podrá acordar que el informe se lleve a cabo en diversas sesiones, en las que el Ejecutivo del Estado deberá informar en cada Región, lo referente a los asuntos de competencia de la misma, a fin de que su análisis sea específico a los rubros informados. El Gobernador del Estado propondrá al Congreso las sedes y sesiones que sean necesarias llevarse a cabo, así como de ser necesario, designará a (sic) Servidor Público que deberá exponer el citado informe, de conformidad a la importancia de los asuntos a analizar.
 
@@ -2179,7 +2179,7 @@ Quedan derogadas la Constitución de quince de noviembre de mil ochocientos nove
 
 El Ejecutivo dispondrá se imprima, publique y circule.
 
-Dado en el Salón de Sesiones del H. Congreso del Estado. Tuxtla Gutiérrez, enero veintiocho de mil novecientos veintiuno.- A. Zorrilla, Presidente, Diputado por el VI Distrito.- Sóstenes Ruiz C., Vice-Presidente, Diputado por el X Distrito.- Benigno Cal y Mayor, Secretario, Diputado por el VII Distrito.- S. Orantes Z., Secretario, Diputado por el III Distrito.- J. Ortega, Pro-Secretario, Diputado por el XII Distrito.- Antonino Martínez, Diputado por el I Distrito.- Arsenio Narváez G., Diputado por el II Distrito.- Filadelfo Grajales, Diputado por el VIII Distrito.- Lisandro Villafuerte, Diputado por el IX Distrito.- Herminio M. Solís, Diputado por el XI Distrito.- Nicolás Macías R., Diputado por el XII Distrito.- Juan C. Corzo, Diputado por el XIV Distrito.- R. Ortega, Diputado por el XVI Distrito.- Joaquín Armendáriz, Diputado por el XV Distrito.- Rúbricas.
+DDado en el Salón de Sesiones del H. Congreso del Estado. Tuxtla Gutiérrez, enero veintiocho de mil novecientos veintiuno.- A. Zorrilla, Presidente, Diputado por el VI Distrito.- Sóstenes Ruiz C., Vice-Presidente, Diputado por el X Distrito.- Benigno Cal y Mayor, Secretario, Diputado por el VII Distrito.- S. Orantes Z., Secretario, Diputado por el III Distrito.- J. Ortega, Pro-Secretario, Diputado por el XII Distrito.- Antonino Martínez, Diputado por el I Distrito.- Arsenio Narváez G., Diputado por el II Distrito.- Filadelfo Grajales, Diputado por el VIII Distrito.- Lisandro Villafuerte, Diputado por el IX Distrito.- Herminio M. Solís, Diputado por el XI Distrito.- Nicolás Macías R., Diputado por el XII Distrito.- Juan C. Corzo, Diputado por el XIV Distrito.- R. Ortega, Diputado por el XVI Distrito.- Joaquín Armendáriz, Diputado por el XV Distrito.- Rúbricas.
 
 Por tanto, mando se imprima, publique circule y se le dé el debido cumplimiento.
 
@@ -2949,7 +2949,7 @@ Quedan derogadas todas las leyes, decretos, circulares, reglamentos o cualesquie
 
 El Ejecutivo dispondrá se promulgue, circule y publique por Bando Solemne, para su debido cumplimiento.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE OCTUBRE DE 1990)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE OCTUBRE DE 1990)</small>
 
 ###### ARTICULO SEXTO.
 
@@ -3796,3 +3796,9 @@ Artículo Segundo.- Para los efectos de la implementación de planes de tratamie
 Artículo Tercero.- En observancia a lo dispuesto en el párrafo sexto, del artículo 4°, de la Constitución Política del Estado de Chiapas, que por este Decreto se adiciona, y a efecto de garantizar su debido cumplimiento, deberá reformarse la legislación penal de la Entidad, en un plazo no mayor a sesenta días contados a partir de la entrada en vigor de este Decreto.
 
 Artículo Cuarto.- Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 9 DE NOVIEMBRE DE 2011.
+
+Artículo Primero.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Se derogan las disposiciones que se opongan al presente Decreto.
