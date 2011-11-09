@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-de-la-comision-nacional-para-la-75705"
 country: "mx"
 rank: "estatuto"
 publication_date: "2010-07-16"
-last_updated: "2011-10-18"
+last_updated: "2011-11-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=75705&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,11 +19,11 @@ issue_date: "2010-06-29"
 ---
 # ESTATUTO ORGANICO DE LA COMISION NACIONAL PARA LA PROTECCION Y DEFENSA DE LOS USUARIOS DE SERVICIOS FINANCIEROS
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 9 DE NOVIEMBRE DE 2011 EN EL D.O.F., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 ESTATUTO ORGANICO DE LA COMISION NACIONAL PARA LA PROTECCION Y DEFENSA DE LOS USUARIOS DE SERVICIOS FINANCIEROS
 
 ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 18 DE OCTUBRE DE 2011.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION DEL 9 DE NOVIEMBRE DE 2011.</small>
 
 Estatuto publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 16 de julio de 2010.
 
@@ -591,8 +591,6 @@ XXIX. Solicitar a la Dirección General de Servicios Legales la orden de suspens
 
 Las atribuciones establecidas en el presente artículo serán ejercidas directamente por el Director General o por los Directores de su adscripción, según el ámbito de su competencia: el de Evaluación de Productos de Crédito y Captación, las contenidas en las fracciones I, II, V a XX, XXII y XXVI y XXIX; el de Evaluación de Productos de Seguros, Fianzas y Ahorro, las contenidas en las fracciones I, II, V a XII, XV a XVIII, XX, XXII y XXIII, y el de Vigilancia, Cumplimiento y Enlace con Autoridades, las contenidas en las fracciones I, III a VII, XX, XXI, XXIV a XXVIII.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 9 DE NOVIEMBRE DE 2011 EN EL D.O.F., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA, ASÍ COMO EL ARCHIVO ANEXO.</small>
-
 ###### Artículo 17.
 
 Corresponde a la Dirección General de Dictaminación y Supervisión el ejercicio de las siguientes atribuciones:
@@ -603,9 +601,9 @@ II. Coadyuvar con la Dirección General de Evaluación y Vigilancia en el establ
 
 III. Realizar las visitas de verificación a las sociedades financieras de objeto múltiple, entidades no reguladas, conforme al Programa Anual de Supervisión de la Comisión Nacional;
 
-> <small>(REFORMADA, D.O.F. 18 DE OCTUBRE DE 2011)</small>
+(REFORMADA, D.O.F. 18 DE OCTUBRE DE 2011) (F. DE E. D.O.F. 9 DE NOVIEMBRE DE 2011)
 
-III (SIC). Solicitar a la Comisión Nacional Bancaria y de Valores, en coordinación con la Dirección General de Evaluación y Vigilancia, la realización de visitas de inspección ordinarias y especiales a las Instituciones Financieras, así como el resultado que se obtenga con motivo de dichas visitas;
+IV. Solicitar a la Comisión Nacional Bancaria y de Valores, en coordinación con la Dirección General de Evaluación y Vigilancia, la realización de visitas de inspección ordinarias y especiales a las Instituciones Financieras, así como el resultado que se obtenga con motivo de dichas visitas;
 
 V. Requerir a las Delegaciones la realización de visitas de verificación a las sociedades financieras de objeto múltiple, entidades no reguladas;
 
@@ -687,9 +685,9 @@ XXIX. Turnar a la Dirección General de Servicios Legales, en un plazo no mayor 
 
 XXX. Elaborar la información estadística relacionada con los servicios proporcionados conforme a sus atribuciones, para su remisión a la Dirección General de Desarrollo Financiero y Operativo.
 
-> <small>(REFORMADO, D.O.F. 18 DE OCTUBRE DE 2011)</small>
+(REFORMADO, D.O.F. 18 DE OCTUBRE DE 2011) (F. DE E. D.O.F. 9 DE NOVIEMBRE DE 2011)
 
-Las atribuciones establecidas en el presente artículo serán ejercidas directamente por el Director General o por los Directores de su adscripción, según el ámbito de su competencia: el de Dictaminación, las contenidas en las fracciones I y de la XX a XVI, y el de Verificación, Control Normativo y Unidades Especializadas, las contenidas en las fracciones I a XVIII.
+Las atribuciones establecidas en el presente artículo serán ejercidas directamente por el Director General o por los Directores de su adscripción, según el ámbito de su competencia: el de Dictaminación, las contenidas en las fracciones I y de la XX a XXVI, y el de Verificación, Control Normativo y Unidades Especializadas, las contenidas en las fracciones I a XVIII.
 
 > <small>(DEROGADO ULTIMO PARRAFO, D.O.F. 18 DE OCTUBRE DE 2011)</small>
 
