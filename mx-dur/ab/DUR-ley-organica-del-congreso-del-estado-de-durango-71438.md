@@ -4,7 +4,7 @@ identifier: "DUR-ley-organica-del-congreso-del-estado-de-durango-71438"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2009-12-24"
-last_updated: "2011-06-19"
+last_updated: "2011-11-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=71438&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY ORGANICA DEL CONGRESO DEL ESTADO DE DURANGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE JUNIO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE NOVIEMBRE DE 2011.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 24 de diciembre de 2009.
 
@@ -1805,9 +1805,15 @@ XXVII. Las demás que se le encomienden a través del Comité respectivo.
 
 ### CAPÍTULO IV. DE LA DIRECCIÓN DE COMUNICACIÓN SOCIAL
 
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2011)</small>
+
 ###### Artículo 162.
 
-La Dirección de Comunicación Social tendrá a su cargo la difusión de las actividades de la Legislatura, así como establecer los mecanismos adecuados para optimizar de manera constante, razonable y organizada la información que se genere en el Congreso del Estado a nivel institucional como órgano de interés público.
+La Dirección de Comunicación Social tendrá a su cargo la difusión de las actividades de la Legislatura, así como establecer los mecanismos adecuados para optimizar de manera constante, razonable y organizada, la información que se genere en el Congreso del Estado a nivel institucional como órgano de interés público.
+
+La Dirección operará un Sistema de Televisión a través de un canal vía Internet, para la difusión institucional de las actividades que realicen el Congreso y sus órganos de gobierno. El Acuerdo Parlamentario respectivo fijará las bases para la organización y funcionamiento de dicho Sistema y las actividades que sean difundidas.
+
+La información que sea transmitida en forma pública a través del Sistema de Televisión vía Internet, no tendrá carácter vinculante ni constituirá prueba alguna.
 
 ### CAPÍTULO V. DE LA UNIDAD DE ENLACE PARA EL ACCESO A LA INFORMACIÓN PUBLICA
 
@@ -2850,3 +2856,11 @@ El presente decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas aquellas disposiciones que contravengan a lo estipulado por el presente decreto.
+
+P.O. 10 DE NOVIEMBRE DE 2011.
+
+PRIMERO. El presente decreto entrará en vigor el día de aprobación por el Pleno del Congreso del Estado.
+
+SEGUNDO. El Congreso del Estado, por conducto de la Gran Comisión, expedirá el Acuerdo Parlamentario que regule el funcionamiento del Sistema, en un plazo no mayor a 60 días hábiles a partir de su aprobación.
+
+TERCERO. Se derogan todas las disposiciones legales que se opongan al presente decreto.
