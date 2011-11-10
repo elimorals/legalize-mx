@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-del-poder-legislativo-del-estado-libre-y-6088"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-09-15"
-last_updated: "2011-09-02"
+last_updated: "2011-11-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6088&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 2 DE SEPTIEMBRE DE 2011.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 10 DE NOVIEMBRE DE 2011.
 
 Ley publicada en la Tercera Sección de la Gaceta del Gobierno del Estado de México, el viernes 15 de septiembre de 1995.
 
@@ -475,9 +475,13 @@ XIX. Nombrar las comisiones especiales de protocolo;
 
 XX. Adoptar las decisiones y medidas que se requieran para la organización y buena marcha del trabajo legislativo;
 
-> <small>(REFORMADA, G.G. 20 DE OCTUBRE DE 1999)</small>
+> <small>(ADICIONADA, G.G. 10 DE NOVIEMBRE DE 2011)</small>
 
-XXI. Las demás que se deriven de la Constitución, la ley, el reglamento o de las disposiciones o acuerdos que emita la Asamblea.
+XXI. Dar cuenta a la Asamblea, al término del periodo ordinario o extraordinario de sesiones que presida, del desarrollo de los trabajos legislativos, y de los informes que emitan las comisiones legislativas;
+
+> <small>(REFORMADA, G.G. 10 DE NOVIEMBRE DE 2011)</small>
+
+XXII. Las demás que deriven de la Constitución, la ley, el reglamento o de las disposiciones o acuerdos que emita la Asamblea.
 
 > <small>(REFORMADO, G.G. 30 DE ABRIL DE 2004)</small>
 
@@ -673,9 +677,11 @@ Cuando la Legislatura se encuentre en período extraordinario, la Diputación Pe
 
 Las iniciativas recibidas en los periodos de receso de la Legislatura, serán turnadas por el Presidente de la Diputación Permanente a las Comisiones de la Diputación Permanente o a las Comisiones o Comités de la Legislatura para su dictamen u opinión.
 
+> <small>(REFORMADO, G.G. 10 DE NOVIEMBRE DE 2011)</small>
+
 ###### Artículo 58.
 
-En la segunda sesión de los períodos ordinarios, se dará cuenta con los dictámenes de las iniciativas y asuntos que hayan sido del conocimiento de la Diputación Permanente durante el receso, para que continúe su trámite.
+En la segunda sesión de los periodos ordinarios, se dará cuenta con los dictámenes de las iniciativas y asuntos que hayan sido del conocimiento de la Diputación Permanente durante el receso, para que continúe su trámite, así como de la actividad desarrollada por las comisiones legislativas.
 
 ###### Artículo 59.
 
@@ -879,9 +885,9 @@ XII. Suscribir, con autorización de la Junta de Coordinación Política, las op
 
 XIII. Administrar el presupuesto de egresos de la Legislatura, tomando en cuenta las opiniones del Comité de Administración y de la Junta de Coordinación Política;
 
-> <small>(REFORMADA, G.G. 30 DE ABRIL DE 2004)</small>
+> <small>(REFORMADA, G.G. 10 DE NOVIEMBRE DE 2011)</small>
 
-XIV. Informar anualmente a la Asamblea de las actividades de la Junta de Coordinación Política;
+XIV. Informar anualmente a la Asamblea de las actividades de la Junta de Coordinación Política, dando a conocer tanto la estadística de los decretos aprobados como la correspondiente a las iniciativas pendientes de ser dictaminadas;
 
 XV. (DEROGADA, G.G. 21 DE JULIO DE 2006)
 
@@ -1106,6 +1112,10 @@ Para el cumplimiento de esta función el pleno de cada Comisión Legislativa pod
 > <small>(ADICIONADO, G.G. 27 DE DICIEMBRE DE 2006)</small>
 
 Artículo 72 BIS.- Las Comisiones y Comités de la Legislatura deberán instalarse a más tardar el 5 de noviembre del Primer Período Ordinario de cada Legislatura. Cada una de éstas, deberán reunirse en sesión plenaria por lo menos una vez cada dos meses y entregar a la instancia correspondiente un informe trimestral de sus actividades realizadas.
+
+> <small>(ADICIONADO, G.G. 10 DE NOVIEMBRE DE 2011)</small>
+
+Los Presidentes de las Comisiones o Comités deberán emitir los informes necesarios sobre la actualización del estatus en que se encuentren las iniciativas que hayan sido remitidas a sus comisiones o comités para su estudio, lo anterior para que el Presidente de la Legislatura y el Presidente de la Junta de Coordinación Política atiendan lo dispuesto por los artículos 47 fracción XXI y 65 fracción XIV de esta ley.
 
 > <small>(REFORMADO, G.G. 13 DE AGOSTO DE 2007)</small>
 
@@ -1924,3 +1934,9 @@ G.G. 2 DE SEPTIEMBRE DE 2011.
 PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
 
 SEGUNDO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 10 DE NOVIEMBRE DE 2011.
+
+PRIMERO.- Publíquese este Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- Este Decreto entrará en vigor el día de su publicación en el Periódico Oficial "Gaceta del Gobierno".
