@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-salud-del-estado-de-san-luis-potosi-43495"
 country: "mx"
 rank: "ley"
 publication_date: "2004-12-23"
-last_updated: "2011-11-03"
+last_updated: "2011-11-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=43495&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE SALUD DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE NOVIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE NOVIEMBRE DE 2011.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 23 de diciembre de 2004.
 
@@ -55,9 +55,17 @@ IV. La extensión de actitudes solidarias y responsables de la población en la 
 
 V. El disfrute de servicios de salud y asistencia social que satisfagan, eficaz y oportunamente, las necesidades de la población;
 
-VI. El conocimiento para el adecuado aprovechamiento y utilización de los servicios de salud, y
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2011)</small>
 
-VII. El desarrollo de la enseñanza y la investigación científica y tecnológica para la salud.
+VI. El conocimiento para el adecuado aprovechamiento y utilización de los servicios de salud;
+
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2011)</small>
+
+VII. La prevención del consumo de estupefacientes y psicotrópicos, así como el programa contra la farmacodependencia, y
+
+> <small>(ADICIONADA, P.O. 10 DE NOVIEMBRE DE 2011)</small>
+
+VIII. El desarrollo de la enseñanza y la investigación científica y tecnológica para la salud.
 
 ###### ARTICULO 3º.
 
@@ -113,9 +121,11 @@ XVIII. Secretaría de Salud del Estado: la dependencia centralizada de la admini
 
 XIX. Servicios de Salud: el organismo público descentralizado del gobierno del Estado, con personalidad jurídica y patrimonio propio, responsable de operar los servicios de salud a la población abierta.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE NOVIEMBRE DE 2011)</small>
+
 ###### ARTICULO 5º.
 
-En los términos de la Ley General de Salud, y de la presente Ley, corresponde al estado:
+En los términos de la Ley General de Salud, y de la presente Ley, corresponde al Estado:
 
 A. En materia de salubridad general:
 
@@ -208,6 +218,10 @@ III. Limpieza pública;
 IV. Escuelas, institutos, colegios, guarderías, internados y otros similares, y
 
 V. Las demás que determinen esta Ley y las disposiciones legales aplicables.
+
+> <small>(ADICIONADO, P.O. 10 DE NOVIEMBRE DE 2011)</small>
+
+C. La prevención del consumo de narcóticos y atención a las adicciones.
 
 ## TITULO SEGUNDO. SISTEMA ESTATAL DE SALUD
 
@@ -325,9 +339,21 @@ VIII. Celebrar convenios con los ayuntamientos para coadyuvar en la prestación 
 
 IX. Elaborar información estadística local, y proporcionarla a las autoridades competentes;
 
-X. El control sanitario de lo contenido en las fracciones IV, V, VI, VII, VIII, IX, X, XI, XIX, XX, XXIV y XXXIV del Apartado A del artículo 5º. de esta Ley, y
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2011)</small>
 
-XI. Las demás atribuciones que se deriven de la Ley General de Salud, esta Ley, los acuerdos de coordinación o colaboración, y demás disposiciones legales aplicables.
+X. El control sanitario de lo contenido en las fracciones IV, V, VI, VII, VIII, IX, X, XI, XIX, XX, XXIV y XXXIV del Apartado A del artículo 5º de esta Ley;
+
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2011)</small>
+
+XI. Crear un padrón de instituciones y organismos públicos y privados que realicen actividades de prevención, tratamiento, atención y reinserción social en materia de adicciones, que contenga las características de atención, condiciones y requisitos para acceder a los servicios que ofrecen;
+
+> <small>(ADICIONADA, P.O. 10 DE NOVIEMBRE DE 2011)</small>
+
+XII. Celebrar convenios de colaboración con instituciones nacionales e internacionales de los sectores social y privado, y con personas físicas que se dediquen a la prevención, tratamiento, atención y reinserción social en materia de farmacodependencia, con el fin de que quienes requieran de asistencia, puedan, conforme a sus necesidades, características, posibilidades económicas, acceder a los servicios que todas estas instituciones o personas físicas ofrecen, y
+
+> <small>(ADICIONADA, P.O. 10 DE NOVIEMBRE DE 2011)</small>
+
+XIII. Las demás atribuciones que se deriven de la Ley General de Salud, esta Ley, los acuerdos de coordinación o colaboración, y demás disposiciones legales aplicables.
 
 B. En materia de salubridad local:
 
@@ -363,7 +389,9 @@ VIII. La prevención de la invalidez y la rehabilitación de la discapacidad;
 
 IX. La asistencia social;
 
-X. Participar con las autoridades federales, estatales, municipales y sectores sociales del Estado, en el desarrollo de los programas contra el alcoholismo, el tabaquismo y la fármaco dependencia, de conformidad con el acuerdo de coordinación específico que al efecto se celebre;
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2011)</small>
+
+X. Participar con las autoridades federales, estatales, municipales y sectores sociales del Estado, en la promoción, desarrollo y ejecución de los programas contra el alcoholismo, el tabaquismo y la farmacodependencia, de conformidad con el acuerdo de coordinación específico que al efecto se celebre;
 
 XI. Promoción de la salud;
 
@@ -1347,7 +1375,9 @@ Será obligatoria la notificación de los casos de tales enfermedades diagnostic
 
 La Secretaría de Salud del Estado establecerá el Registro Estatal de Deficientes Mentales, para facilitar la atención y protección de las personas que se encuentren disminuidas en sus capacidades intelectuales.
 
-### CAPITULO III. Programa Contra la Fármaco Dependencia
+### CAPITULO III. Programa para la Prevención y Tratamiento de la Farmacodependencia
+
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2011)</small>
 
 ###### ARTICULO 126.
 
@@ -1497,23 +1527,107 @@ En ningún caso y de ninguna forma se podrá expender o suministrar tabaco a men
 
 Los establecimientos que expendan tabaco deberán tener a la vista del público, letreros alusivos prohibiendo la venta de tabaco a menores de edad.
 
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 10 DE NOVIEMBRE DE 2011)</small>
+
 ### CAPITULO IV. Del Fondo de Aportaciones para los Servicios de Salud a la Comunidad
 
 ###### ARTICULO 146.
 
-Las autoridades sanitarias del Estado coadyuvarán con las autoridades federales y municipales, en la ejecución del Programa Nacional contra la Fármaco Dependencia.
+Las autoridades sanitarias del Estado coadyuvarán con las autoridades federales y municipales, en la ejecución del Programa Nacional para la Prevención y Tratamiento de la Farmacodependencia.
+
+> <small>(ADICIONADO, P.O. 10 DE NOVIEMBRE DE 2011)</small>
+
+ARTICULO 146 BIS. Las campañas de información y sensibilización que reciba la población deberán estar basadas en estudios científicos y alertar de manera adecuada sobre los efectos y daños físicos y psicológicos del consumo de estupefacientes y psicotrópicos.
+
+> <small>(ADICIONADO, P.O. 10 DE NOVIEMBRE DE 2011)</small>
+
+ARTICULO 146 TER. Respecto del Programa Nacional para la Prevención y Tratamiento de la Farmacodependencia, los Servicios de Salud serán responsables de:
+
+I. Promover y llevar a cabo campañas permanentes de información y orientación al público, para la prevención de daños a la salud provocados por el consumo de estupefacientes y psicotrópicos, y
+
+II. Proporcionar información, brindar la atención médica y los tratamientos que se requieran a las personas que consuman estupefacientes y psicotrópicos.
+
+> <small>(ADICIONADO, P.O. 10 DE NOVIEMBRE DE 2011)</small>
+
+ARTÍCULO 146 QUATER. Para los efectos del Programa Nacional para la Prevención y Tratamiento de la Farmacodependencia se entiende por:
+
+I. Atención médica: al conjunto de servicios médicos que se proporcionan a la persona, con el fin de proteger, promover y restaurar su salud;
+
+II. Consumidor: persona que consume o utilice estupefacientes o psicotrópicos y que no presente signos ni síntomas de dependencia;
+
+III. Detección temprana: estrategia de prevención secundaria que tiene como propósito identificar en una fase inicial el consumo de narcóticos, a fin de aplicar medidas terapéuticas de carácter médico, psicológico y social lo más temprano posible;
+
+IV. Farmacodependencia: conjunto de fenómenos de comportamiento, cognoscitivos y fisiológicos, que se desarrollan luego del consumo repetido de estupefacientes o psicotrópicos;
+
+V. Farmacodependiente: persona que presenta algún signo o síntoma de dependencia a estupefacientes o psicotrópicos;
+
+VI. Farmacodependiente en recuperación: persona que está en tratamiento para dejar de utilizar narcóticos, y está en un proceso de superación de la farmacodependencia;
+
+VII. Investigación en materia de farmacodependencia: construcción de las bases científicas para la creación de políticas públicas y tratamientos adecuados para los diversos tipos y niveles de adicción, cuyo objeto es determinar las características y tendencias del problema, así como su magnitud e impacto en lo individual, familiar y colectivo; con absoluto respeto a los derechos humanos;
+
+VIII. Narcóticos: los estupefacientes, psicotrópicos y demás sustancias o vegetales que determinen, la Ley General de Salud, los convenios y tratados internacionales de observancia obligatoria en México, y las demás disposiciones legales aplicables en la materia;
+
+IX. Prevención: conjunto de acciones dirigidas a evitar o reducir el consumo de narcóticos, a disminuir situaciones de riesgo y limitar los daños asociados al consumo de dichas sustancias;
+
+X. Suspensión de la farmacodependencia: proceso mediante el cual el farmacodependiente participa en la superación de su farmacodependencia con el apoyo del entorno comunitario en la identificación y solución de problemas comunes que provocaron la farmacodependencia, y
+
+XI. Tratamiento: conjunto de acciones que tienen por objeto conseguir la abstinencia o, en su caso, la reducción del consumo de narcóticos, reducir los riesgos y daños que implican el uso y abuso de dichas sustancias, abatir los padecimientos asociados al consumo, e incrementar el grado de bienestar físico, mental y social, tanto del que usa, abusa o depende de esas sustancias, como de su familia.
+
+> <small>(ADICIONADO, P.O. 10 DE NOVIEMBRE DE 2011)</small>
+
+ARTICULO 146 QUINQUE. En materia de prevención se ofrecerá a la población un modelo de intervención temprana que considere, la prevención; promoción de una vida saludable, y el tratamiento ambulatorio de calidad de la farmacodependencia.
+
+El Programa Nacional para la Prevención y Tratamiento de la Farmacodependencia fortalecerá la responsabilidad del Estado, principalmente de la Secretaría de Salud, ofreciendo una visión integral y objetiva del problema para:
+
+I. Desarrollar en coordinación con la Secretaría de Educación de Gobierno del Estado, campañas de prevención de adicciones, con base en esquemas novedosos y creativos de comunicación que permitan la producción y difusión de mensajes de alto impacto social, con el fin de reforzar los conocimientos de daños y riesgos de la farmacodependencia, especialmente dirigirá sus esfuerzos hacia los sectores más vulnerables, a través de centros de educación básica;
+
+II. Coordinar y promover con los sectores público, privado y social, las acciones para prevenir las adiciones, con base en la información y en el desarrollo de habilidades para proteger, promover, restaurar, cuidar la salud individual, familiar, laboral, escolar y colectiva;
+
+III. Proporcionar atención integral a grupos de alto riesgo en los que se ha demostrado, a través de diversas investigaciones y estudios, que por sus características biopsicosociales, tienen mayor probabilidad de uso, abuso o dependencia a narcóticos, y
+
+IV. Realizar las acciones de prevención necesarias con base en:
+
+a) La percepción de riesgo de consumo de sustancias en general.
+
+b) La sustancia psicoactiva de mayor consumo.
+
+c) Las características de los individuos.
+
+d) Los patrones de consumo.
+
+e) Los problemas asociados a los narcóticos.
+
+f) Los aspectos culturales y las tradiciones de los distintos grupos sociales, en el uso y consumo de narcóticos.
+
+En los casos que las autoridades de Salud reciban reporte por parte del Ministerio Público, relacionado con farmacodependientes o consumidores, deberán citarlos con el objeto de proporcionarles orientación, y conminarlos a tomar parte en los programas contra la farmacodependencia o en aquellos preventivos de la misma.
+
+Al tercer reporte del Ministerio Público el tratamiento del farmacodependiente será obligatorio.
+
+> <small>(ADICIONADO, P.O. 10 DE NOVIEMBRE DE 2011)</small>
+
+ARTICULO 146 SEXTIES. El tratamiento de las personas farmacodependientes proporcionado por la Secretaría, se llevará a cabo en centros especializados con sistemas modernos en tratamiento, atención y rehabilitación, basados con absoluto respeto a los derechos humanos.
+
+La ubicación de los centros especializados será determinada a través de estudios rigurosos sobre el impacto de las adicciones, que así lo justifiquen.
+
+> <small>(ADICIONADO, P.O. 10 DE NOVIEMBRE DE 2011)</small>
+
+ARTICULO 146 SEPTIES. Las directrices generales del tratamiento para la farmacodependencia serán elaboradas por la Secretaría de Salud, en concordancia con la Ley General de Salud en lo relativo con el Programa Nacional para la Prevención y Tratamiento de la Farmacodependencia.
+
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2011)</small>
 
 ###### ARTICULO 147.
 
-Las autoridades sanitarias del Estado para evitar y prevenir la fármaco dependencia, se ajustarán a lo siguiente:
+La Secretaría de Salud del Estado, en el proceso de superación de la farmacodependencia debe:
 
-I. Determinarán y ejercerán medidas de control en el expendio de substancias inhalantes para prevenir su consumo, primordialmente a menores de edad e incapaces;
+I. Fomentar la participación comunitaria y familiar en la prevención y tratamiento, en coordinación con las autoridades locales, y las instituciones públicas o privadas, involucradas en los mismos, para la planeación, programación, ejecución y evaluación de los programas y acciones;
 
-II. Promoverán y llevarán a cabo campañas permanentes de información y orientación al público, sobre los efectos del uso de estupefacientes, substancias psicotrópicas y otras susceptibles de producir dependencia, así como su consecuencia en las relaciones sociales, y
+II. Fortalecer la responsabilidad social, la autogestión y el auto cuidado de la salud, fomentando la conformación de estilos de vida y entornos saludables que permitan desarrollar el potencial de cada persona, propiciando condiciones que eleven la calidad de vida de las familias y de las comunidades;
 
-III. Brindarán atención médica a las personas que lo requieran.
+III. Reconocer a las comunidades terapéuticas para la rehabilitación de farmacodependientes, en la que sin necesidad de internamiento, se pueda hacer posible la reinserción social, a través del apoyo mutuo;
 
-Los establecimientos que vendan o utilicen substancias inhalantes con efectos psicotrópicos y que no se ajusten al control que dispongan las autoridades, así como a los responsables de los mismos, se les aplicarán las sanciones administrativas que correspondan en los términos de esta Ley.
+IV. Reconocer la importancia de los diversos grupos de ayuda mutua que ofrecen servicios gratuitos en apoyo a los farmacodependientes en recuperación, con base en experiencias vivenciales compartidas entre los miembros del grupo, para lograr la abstinencia en el uso de narcóticos, y
+
+V. Todas aquellas necesarias que tiendan a la rehabilitación del farmacodependiente.
 
 ###### ARTICULO 148.
 
@@ -3370,3 +3484,11 @@ P.O. 3 DE NOVIEMBRE DE 2011.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 10 DE NOVIEMBRE DE 2011.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+No obstante lo anterior, para la implementación del presente Decreto el Estado contará con un plazo de tres años a partir de su entrada en vigor.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan a este Decreto.
