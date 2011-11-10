@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-desarrollo-social-para-el-estado-de-durango-49840"
 country: "mx"
 rank: "ley"
 publication_date: "2005-07-17"
-last_updated: "2005-07-17"
+last_updated: "2011-11-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=49840&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE DESARROLLO SOCIAL PARA EL ESTADO DE DURANGO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE NOVIEMBRE DE 2011.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el domingo 17 de julio de 2005.
 
@@ -103,9 +103,15 @@ XI. Celebrar convenios con los Municipios para la prestación de asesoría técn
 
 XII. Dictar las disposiciones administrativas que sean necesarias para el adecuado cumplimiento de la Ley;
 
-XIII. Llevar a cabo un Sistema de Estadísticas anuales y sexenales, por zonas de atención prioritaria y programas respecto de la disminución de la pobreza y marginación en el Estado de Durango, con el fin de que el Consejo y la (sic) autoridades puedan evaluar y establecer si los programa (sic) han tenido eficiencia, eficacia y calidad en los mismos; y
+XIII. Llevar a cabo un Sistema de Estadísticas anuales y sexenales, por zonas de atención prioritaria y programas respecto de la disminución de la pobreza y marginación en el Estado de Durango, con el fin de que el Consejo y la (sic) autoridades puedan evaluar y establecer si los programa (sic) han tenido eficiencia, eficacia y calidad en los mismos; y (sic)
 
-XIV. Las demás que le confiera esta Ley y otras disposiciones legales aplicables en la materia.
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2011)</small>
+
+XIV. Coordinarse con la Secretaría de Educación, en el proceso productivo de elaboración o adquisición de acuerdo a lo establecido por la Ley de Adquisiciones, Arrendamientos o Servicios del Estado de Durango, distribución y entrega de uniformes escolares a que se refiere el artículo 49 de la Ley de Educación del Estado de Durango.
+
+> <small>(ADICIONADA, P.O. 10 DE NOVIEMBRE DE 2011)</small>
+
+XV. Las demás que le confiera esta Ley y otras disposiciones legales aplicables en la materia.
 
 ###### Artículo 7.
 
@@ -235,7 +241,13 @@ VIII. Impulsar el desarrollo municipal, como estrategia rectora de equilibrio en
 
 IX. Coordinar esfuerzos, objetivos, estrategias y acciones entre los órdenes de gobierno para lograr las (sic) integralidad, sustentabilidad y sostentenibilidad (sic) del desarrollo social y humano;
 
-X. Promover formas propias de organización y participación de la sociedad en la formulación, ejecución, evaluación y control de los programas de desarrollo social.
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2011)</small>
+
+X. Promover formas propias de organización y participación de la sociedad en la formulación, ejecución, evaluación y control de los programas de desarrollo social; y
+
+> <small>(ADICIONADA, P.O. 10 DE NOVIEMBRE DE 2011)</small>
+
+XI. Fomentar la economía social mediante la promoción de la participación de familias, micro, pequeña y mediana empresas, en procesos productivos de desarrollo social y educativo.
 
 ###### Artículo 14.
 
@@ -331,6 +343,14 @@ V. Tomará en cuenta la mezcla de recursos provenientes de las dependencias y en
 
 Son zonas de atención prioritaria, las áreas o regiones que se encuentren en condiciones de vida por debajo de los niveles mínimos de bienestar, pobreza o marginación.
 
+> <small>(ADICIONADO, P.O. 10 DE NOVIEMBRE DE 2011)</small>
+
+El Ejecutivo del Estado dispondrá en el Presupuesto de Egresos Anual que corresponda, un monto especifico a efecto de dotar anualmente de un juego de útiles escolares, al inicio de los ciclos escolares, según la lista oficial de éstos, determinada por la Secretaría de Educación del Estado, para otorgar un juego de uniforme escolar, de uso ordinario o deportivo, adecuado y completo, a los beneficiaros inscritos en las escuelas de educación básica obligatoria de cada uno de los municipios del Estado. La entrega de dichos beneficios se realizará de manera gratuita en tiempo y forma al inicio del ciclo escolar a cada alumno debidamente inscrito de acuerdo a lo establecido por el artículo 49 de la Ley de Educación del Estado de Durango.
+
+> <small>(ADICIONADO, P.O. 10 DE NOVIEMBRE DE 2011)</small>
+
+Para la adquisición de los útiles y uniformes escolares por parte del Gobierno del Estado, éste promoverá la participación preferentemente de fabricantes y comerciantes de la entidad.
+
 ###### Artículo 21.
 
 El Titular del Poder Ejecutivo determinará las zonas de atención prioritaria y los segmentos de la población objetivo a las que se canalizará preferentemente el financiamiento destinado al desarrollo social, tomando como referencia:
@@ -364,6 +384,10 @@ VII. Los demás que determine el titular del Poder Ejecutivo.
 ###### Artículo 23.
 
 El Poder Ejecutivo y los Ayuntamientos, por sí o en concurrencia con el Gobierno Federal fomentarán las actividades productivas para promover la generación de empleos e ingresos de personas, familias, grupos y organizaciones productivas destinando recursos públicos para promover proyectos productivos; identificar oportunidades de inversión, brindar capacitación, asistencia técnica, asesoría para la organización, el diseño de proyectos, y el apoyo legal para la realización de estas actividades.
+
+> <small>(ADICIONADO, P.O. 10 DE NOVIEMBRE DE 2011)</small>
+
+La elaboración, distribución y entrega de los uniformes escolares a que se refiere el artículo 49 de la Ley de Educación del Estado de Durango, deberá llevarse a cabo mediante un proceso productivo o adquisición, de acuerdo a lo establecido por la Ley de Adquisiciones, Arrendamientos o Servicios del Estado de Durango, que fomente el sector social de la economía del Estado.
 
 ###### Artículo 24.
 
@@ -610,3 +634,25 @@ C.P. ISMAEL ALFREDO HERNANDEZ DERAS
 EL SECRETARIO GENERAL DE GOBIERNO.
 
 LIC. RICARDO FIDEL PACHECO RODRIGUEZ.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 10 DE NOVIEMBRE DE 2011.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Durango.
+
+###### ARTÍCULO SEGUNDO.
+
+El Ejecutivo del Estado deberá emitir las bases de operación del programa para la entrega de uniformes, entre las que deberá establecerse como mínimo, las siguientes:
+
+A) Entregar una credencial o un vale, para el caso de entrega de manera personal a los beneficiarios, respecto del uniforme a recibir;
+
+B) En caso de entregas en lugares de difícil acceso, podrá recurrirse al método de entrega de útiles escolares definido por ambas secretarías, y
+
+C) Procurar que en caso de que así lo permitan las circunstancias específicas, los uniformes respeten la imagen e identidad de la institución a que pertenezcan los beneficiarios.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan las disposiciones legales que se opongan el presente decreto.
