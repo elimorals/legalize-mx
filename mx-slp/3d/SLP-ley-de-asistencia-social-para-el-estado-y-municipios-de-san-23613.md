@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-asistencia-social-para-el-estado-y-municipios-de-san-236
 country: "mx"
 rank: "ley"
 publication_date: "2002-01-19"
-last_updated: "2011-07-30"
+last_updated: "2011-11-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23613&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "SLP"
 ---
 # LEY DE ASISTENCIA SOCIAL PARA EL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSI
 
-LEY DE ASISTENCIA SOCIAL PARA EL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSI
+LEY DE ASISTENCIA SOCIAL PARA EL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE JULIO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE NOVIEMBRE DE 2011.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 19 de enero de 2002.
 
@@ -155,9 +155,13 @@ a) Los menores.
 
 b) Las mujeres.
 
-> <small>(REFORMADO, P.O. 10 DE JULIO DE 2007)</small>
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2011)</small>
 
-c) Los adultos mayores;
+c) Los adultos mayores.
+
+> <small>(ADICIONADO, P.O. 10 DE NOVIEMBRE DE 2011)</small>
+
+d) Las personas enfermas crónicas y, en caso de existir, a la persona que esté a su cuidado;
 
 IV. En estado de desventaja social:
 
@@ -1187,7 +1191,7 @@ El DIF Estatal con el objeto de garantizar la permanente calidad en la prestaci�
 
 La certificación y recertificación será un criterio fundamental para la orientación de los recursos públicos que destine el Gobierno del Estado a instituciones de asistencia privada.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2008)</small>
 
@@ -1378,3 +1382,9 @@ P.O. 30 DE JULIO DE 2011.
 PRIMERO. Este Decreto entrará en vigor a los noventa días naturales siguientes a su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas aquellas disposiciones legales que se opongan al presente Decreto.
+
+P.O. 10 DE NOVIEMBRE DE 2011.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
