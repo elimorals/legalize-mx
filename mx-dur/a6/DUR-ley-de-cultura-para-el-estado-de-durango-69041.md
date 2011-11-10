@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-cultura-para-el-estado-de-durango-69041"
 country: "mx"
 rank: "ley"
 publication_date: "2009-06-07"
-last_updated: "2009-06-07"
+last_updated: "2011-11-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69041&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE CULTURA PARA EL ESTADO DE DURANGO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE NOVIEMBRE DE 2011.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el domingo 7 de junio de 2009.
 
@@ -965,7 +965,9 @@ IV. Seis vocales, que serán:
 
 5. El Presidente del Consejo Consultivo del Instituto, y
 
-6. El Presidente de la Comisión de Educación Pública del Congreso del Estado.
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2011)</small>
+
+6. El Presidente de la Comisión de Cultura del Congreso del Estado.
 
 V. Un representante de la instancia normativa federal del sector cultural, y
 
@@ -1236,3 +1238,19 @@ C. P. ISMAEL HERNANDEZ DERAS
 EL SECRETARIO GENERAL DEL GOBIERNO
 
 LIC. OLIVERIO REZA CUELLAR
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 10 DE NOVIEMBRE DE 2011.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Durango.
+
+###### ARTÍCULO SEGUNDO.
+
+Publíquese en el Periódico Oficial del Gobierno Constitucional del Estado de Durango.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan todas las disposiciones legales que se opongan al contenido del presente.
