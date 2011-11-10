@@ -4,7 +4,7 @@ identifier: "VER-constitucion-politica-del-estado-de-veracruz-de-ignacio-de-6555
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-25"
-last_updated: "2011-05-20"
+last_updated: "2011-11-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6555&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 CONSTITUCION POLITICA DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 20 DE MAYO DE 2011.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 10 DE NOVIEMBRE DE 2011.
 
 Constitución publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el 25 de septiembre de 1917.
 
@@ -1463,9 +1463,9 @@ XIX. Convenir con los municipios, previo acuerdo de sus respectivos Ayuntamiento
 
 XX. Conceder el indulto a los reos sentenciados por los tribunales del Estado, conforme a la ley;
 
-> <small>(REFORMADA, G.O. 14 DE OCTUBRE DE 2008)</small>
+> <small>(REFORMADA, G.O. 10 DE NOVIEMBRE DE 2011)</small>
 
-XXI. Presentar ante el Pleno del Congreso del Estado, el 15 de noviembre de cada año, un informe escrito y dar lectura a una síntesis acerca del estado que guarda la administración pública, y comparecer ante los diputados conforme lo disponga la Ley Orgánica del Poder Legislativo al finalizar la glosa de dicho informe.
+XXI. Presentar ante el Congreso del Estado, el 15 de noviembre de cada año, un informe escrito acerca del estado que guarda la administración pública. El Congreso realizará el análisis del Informe y podrá solicitar al Gobernador del Estado ampliar la información mediante preguntas por escrito, y citar a los Secretarios del Despacho o equivalentes, quienes comparecerán y rendirán informes bajo protesta de decir verdad;
 
 XXII. Comprometer el crédito del Estado, previa autorización del Congreso, en los términos de esta Constitución y la ley; y
 
@@ -12002,6 +12002,12 @@ Primero. El presente Decreto entrará en vigor al día siguiente de su publicaci
 Segundo. Se derogan todas las disposiciones permanentes o transitorias que contravengan el presente Decreto.
 
 Tercero. El Congreso del Estado deberá expedir o adecuar la legislación, de conformidad con los términos del presente Decreto, a más tardar durante el segundo período ordinario de sesiones posterior a la entrada en vigor de la presente reforma.
+
+G.O. 10 DE NOVIEMBRE DE 2011.
+
+Artículo primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
+
+Artículo segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMA EL ARTÍCULO 1915 DEL CÓDIGO CIVIL FEDERAL".]
 
