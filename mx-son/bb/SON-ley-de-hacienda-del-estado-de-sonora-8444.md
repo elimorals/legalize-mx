@@ -4,7 +4,7 @@ identifier: "SON-ley-de-hacienda-del-estado-de-sonora-8444"
 country: "mx"
 rank: "ley"
 publication_date: "1976-12-31"
-last_updated: "2010-12-30"
+last_updated: "2011-11-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8444&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DE HACIENDA DEL ESTADO DE SONORA
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 30 DE DICIEMBRE DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 10 DE NOVIEMBRE DE 2011.
 
 Ley publicada en el Boletín Oficial del Estado de Sonora, el viernes 31 de diciembre de 1976.
 
@@ -71,7 +71,7 @@ Cuando las Autoridades Fiscales presuman fundadamente que el causante no ha decl
 
 ###### Artículo 6o.
 
-(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE HACIENDA MUNICIPAL DEL ESTADO DE SONORA, B.O. 29 DE DICIEMBRE DE 1983)
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE HACIENDA MUNICIPAL DEL ESTADO DE SONORA, B.O. 29 DE DICIEMBRE DE 1983)
 
 ###### Artículo 10.
 
@@ -79,15 +79,15 @@ Cuando las Autoridades Fiscales presuman fundadamente que el causante no ha decl
 
 ###### Artículo 11.
 
-(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE HACIENDA MUNICIPAL DEL ESTADO DE SONORA, B.O. 29 DE DICIEMBRE DE 1983)
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE HACIENDA MUNICIPAL DEL ESTADO DE SONORA, B.O. 29 DE DICIEMBRE DE 1983)
 
 ###### Artículo 12.
 
-(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE HACIENDA MUNICIPAL DEL ESTADO DE SONORA, B.O. 29 DE DICIEMBRE DE 1983)
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE HACIENDA MUNICIPAL DEL ESTADO DE SONORA, B.O. 29 DE DICIEMBRE DE 1983)
 
 ###### Artículo 13.
 
-(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE HACIENDA MUNICIPAL DEL ESTADO DE SONORA, B.O. 29 DE DICIEMBRE DE 1983)
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE HACIENDA MUNICIPAL DEL ESTADO DE SONORA, B.O. 29 DE DICIEMBRE DE 1983)
 
 #### Sección Segunda. Sujeto del Impuesto
 
@@ -105,31 +105,31 @@ Cuando las Autoridades Fiscales presuman fundadamente que el causante no ha decl
 
 ###### Artículo 15.
 
-(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE HACIENDA MUNICIPAL DEL ESTADO DE SONORA, B.O. 29 DE DICIEMBRE DE 1983)
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE HACIENDA MUNICIPAL DEL ESTADO DE SONORA, B.O. 29 DE DICIEMBRE DE 1983)
 
 ###### Artículo 16.
 
-(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE HACIENDA MUNICIPAL DEL ESTADO DE SONORA, B.O. 29 DE DICIEMBRE DE 1983)
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE HACIENDA MUNICIPAL DEL ESTADO DE SONORA, B.O. 29 DE DICIEMBRE DE 1983)
 
 ###### Artículo 17.
 
-(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE HACIENDA MUNICIPAL DEL ESTADO DE SONORA, B.O. 29 DE DICIEMBRE DE 1983)
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE HACIENDA MUNICIPAL DEL ESTADO DE SONORA, B.O. 29 DE DICIEMBRE DE 1983)
 
 ###### Artículo 18.
 
-(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE HACIENDA MUNICIPAL DEL ESTADO DE SONORA, B.O. 29 DE DICIEMBRE DE 1983)
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE HACIENDA MUNICIPAL DEL ESTADO DE SONORA, B.O. 29 DE DICIEMBRE DE 1983)
 
 ###### Artículo 19.
 
-(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE HACIENDA MUNICIPAL DEL ESTADO DE SONORA, B.O. 29 DE DICIEMBRE DE 1983)
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE HACIENDA MUNICIPAL DEL ESTADO DE SONORA, B.O. 29 DE DICIEMBRE DE 1983)
 
 ###### Artículo 20.
 
-(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE HACIENDA MUNICIPAL DEL ESTADO DE SONORA, B.O. 29 DE DICIEMBRE DE 1983)
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE HACIENDA MUNICIPAL DEL ESTADO DE SONORA, B.O. 29 DE DICIEMBRE DE 1983)
 
 ###### Artículo 21.
 
-(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE HACIENDA MUNICIPAL DEL ESTADO DE SONORA, B.O. 29 DE DICIEMBRE DE 1983)
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE HACIENDA MUNICIPAL DEL ESTADO DE SONORA, B.O. 29 DE DICIEMBRE DE 1983)
 
 #### Sección Tercera. Base, Tasas, Exenciones y Reducciones
 
@@ -143,63 +143,63 @@ Cuando las Autoridades Fiscales presuman fundadamente que el causante no ha decl
 
 ###### Artículo 22.
 
-(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE HACIENDA MUNICIPAL DEL ESTADO DE SONORA, B.O. 29 DE DICIEMBRE DE 1983)
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE HACIENDA MUNICIPAL DEL ESTADO DE SONORA, B.O. 29 DE DICIEMBRE DE 1983)
 
 ###### Artículo 23.
 
-(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE HACIENDA MUNICIPAL DEL ESTADO DE SONORA, B.O. 29 DE DICIEMBRE DE 1983)
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE HACIENDA MUNICIPAL DEL ESTADO DE SONORA, B.O. 29 DE DICIEMBRE DE 1983)
 
 ###### Artículo 24.
 
-(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE HACIENDA MUNICIPAL DEL ESTADO DE SONORA, B.O. 29 DE DICIEMBRE DE 1983)
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE HACIENDA MUNICIPAL DEL ESTADO DE SONORA, B.O. 29 DE DICIEMBRE DE 1983)
 
 ###### Artículo 25.
 
-(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE HACIENDA MUNICIPAL DEL ESTADO DE SONORA, B.O. 29 DE DICIEMBRE DE 1983)
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE HACIENDA MUNICIPAL DEL ESTADO DE SONORA, B.O. 29 DE DICIEMBRE DE 1983)
 
 ###### Artículo 26.
 
-(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE HACIENDA MUNICIPAL DEL ESTADO DE SONORA, B.O. 29 DE DICIEMBRE DE 1983)
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE HACIENDA MUNICIPAL DEL ESTADO DE SONORA, B.O. 29 DE DICIEMBRE DE 1983)
 
 ###### Artículo 27.
 
-(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE HACIENDA MUNICIPAL DEL ESTADO DE SONORA, B.O. 29 DE DICIEMBRE DE 1983)
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE HACIENDA MUNICIPAL DEL ESTADO DE SONORA, B.O. 29 DE DICIEMBRE DE 1983)
 
 ###### Artículo 28.
 
-(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE HACIENDA MUNICIPAL DEL ESTADO DE SONORA, B.O. 29 DE DICIEMBRE DE 1983)
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE HACIENDA MUNICIPAL DEL ESTADO DE SONORA, B.O. 29 DE DICIEMBRE DE 1983)
 
 ###### Artículo 29.
 
-(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE HACIENDA MUNICIPAL DEL ESTADO DE SONORA, B.O. 29 DE DICIEMBRE DE 1983)
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE HACIENDA MUNICIPAL DEL ESTADO DE SONORA, B.O. 29 DE DICIEMBRE DE 1983)
 
 ###### Artículo 30.
 
-(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE HACIENDA MUNICIPAL DEL ESTADO DE SONORA, B.O. 29 DE DICIEMBRE DE 1983)
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE HACIENDA MUNICIPAL DEL ESTADO DE SONORA, B.O. 29 DE DICIEMBRE DE 1983)
 
 ###### Artículo 31.
 
-(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE HACIENDA MUNICIPAL DEL ESTADO DE SONORA, B.O. 29 DE DICIEMBRE DE 1983)
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE HACIENDA MUNICIPAL DEL ESTADO DE SONORA, B.O. 29 DE DICIEMBRE DE 1983)
 
 ###### Artículo 32.
 
-(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE HACIENDA MUNICIPAL DEL ESTADO DE SONORA, B.O. 29 DE DICIEMBRE DE 1983)
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE HACIENDA MUNICIPAL DEL ESTADO DE SONORA, B.O. 29 DE DICIEMBRE DE 1983)
 
 ###### Artículo 33.
 
-(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE HACIENDA MUNICIPAL DEL ESTADO DE SONORA, B.O. 29 DE DICIEMBRE DE 1983)
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE HACIENDA MUNICIPAL DEL ESTADO DE SONORA, B.O. 29 DE DICIEMBRE DE 1983)
 
 ###### Artículo 34.
 
-(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE HACIENDA MUNICIPAL DEL ESTADO DE SONORA, B.O. 29 DE DICIEMBRE DE 1983)
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE HACIENDA MUNICIPAL DEL ESTADO DE SONORA, B.O. 29 DE DICIEMBRE DE 1983)
 
 ###### Artículo 35.
 
-(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE HACIENDA MUNICIPAL DEL ESTADO DE SONORA, B.O. 29 DE DICIEMBRE DE 1983)
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE HACIENDA MUNICIPAL DEL ESTADO DE SONORA, B.O. 29 DE DICIEMBRE DE 1983)
 
 ###### Artículo 36.
 
-(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE HACIENDA MUNICIPAL DEL ESTADO DE SONORA, B.O. 29 DE DICIEMBRE DE 1983)
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE HACIENDA MUNICIPAL DEL ESTADO DE SONORA, B.O. 29 DE DICIEMBRE DE 1983)
 
 #### Sección Sexta. Fraccionamientos
 
@@ -217,7 +217,7 @@ Cuando las Autoridades Fiscales presuman fundadamente que el causante no ha decl
 
 ###### Artículo 40.
 
-(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE HACIENDA MUNICIPAL DEL ESTADO DE SONORA, B.O. 29 DE DICIEMBRE DE 1983)
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE HACIENDA MUNICIPAL DEL ESTADO DE SONORA, B.O. 29 DE DICIEMBRE DE 1983)
 
 ###### Artículo 41.
 
@@ -229,41 +229,41 @@ Cuando las Autoridades Fiscales presuman fundadamente que el causante no ha decl
 
 ###### Artículo 43.
 
-(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE HACIENDA MUNICIPAL DEL ESTADO DE SONORA, B.O. 29 DE DICIEMBRE DE 1983)
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE HACIENDA MUNICIPAL DEL ESTADO DE SONORA, B.O. 29 DE DICIEMBRE DE 1983)
 
 ###### Artículo 44.
 
-(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE HACIENDA MUNICIPAL DEL ESTADO DE SONORA, B.O. 29 DE DICIEMBRE DE 1983)
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE HACIENDA MUNICIPAL DEL ESTADO DE SONORA, B.O. 29 DE DICIEMBRE DE 1983)
 
 ###### Artículo 45.
 
-(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE HACIENDA MUNICIPAL DEL ESTADO DE SONORA, B.O. 29 DE DICIEMBRE DE 1983)
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE HACIENDA MUNICIPAL DEL ESTADO DE SONORA, B.O. 29 DE DICIEMBRE DE 1983)
 
 ###### Artículo 46.
 
-(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE HACIENDA MUNICIPAL DEL ESTADO DE SONORA, B.O. 29 DE DICIEMBRE DE 1983)
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE HACIENDA MUNICIPAL DEL ESTADO DE SONORA, B.O. 29 DE DICIEMBRE DE 1983)
 
 #### Sección Séptima. Catastro
 
 ###### Artículo 47.
 
-(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE HACIENDA MUNICIPAL DEL ESTADO DE SONORA, B.O. 29 DE DICIEMBRE DE 1983)
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE HACIENDA MUNICIPAL DEL ESTADO DE SONORA, B.O. 29 DE DICIEMBRE DE 1983)
 
 ###### Artículo 48.
 
-(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE HACIENDA MUNICIPAL DEL ESTADO DE SONORA, B.O. 29 DE DICIEMBRE DE 1983)
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE HACIENDA MUNICIPAL DEL ESTADO DE SONORA, B.O. 29 DE DICIEMBRE DE 1983)
 
 ###### Artículo 49.
 
-(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE HACIENDA MUNICIPAL DEL ESTADO DE SONORA, B.O. 29 DE DICIEMBRE DE 1983)
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE HACIENDA MUNICIPAL DEL ESTADO DE SONORA, B.O. 29 DE DICIEMBRE DE 1983)
 
 ###### Artículo 50.
 
-(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE HACIENDA MUNICIPAL DEL ESTADO DE SONORA, B.O. 29 DE DICIEMBRE DE 1983)
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE HACIENDA MUNICIPAL DEL ESTADO DE SONORA, B.O. 29 DE DICIEMBRE DE 1983)
 
 ###### Artículo 51.
 
-(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE HACIENDA MUNICIPAL DEL ESTADO DE SONORA, B.O. 29 DE DICIEMBRE DE 1983)
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE HACIENDA MUNICIPAL DEL ESTADO DE SONORA, B.O. 29 DE DICIEMBRE DE 1983)
 
 #### Sección Octava. Pago Del Impuesto
 
@@ -277,67 +277,67 @@ Cuando las Autoridades Fiscales presuman fundadamente que el causante no ha decl
 
 ###### Artículo 54.
 
-(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE HACIENDA MUNICIPAL DEL ESTADO DE SONORA, B.O. 29 DE DICIEMBRE DE 1983)
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE HACIENDA MUNICIPAL DEL ESTADO DE SONORA, B.O. 29 DE DICIEMBRE DE 1983)
 
 ###### Artículo 55.
 
-(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE HACIENDA MUNICIPAL DEL ESTADO DE SONORA, B.O. 29 DE DICIEMBRE DE 1983)
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE HACIENDA MUNICIPAL DEL ESTADO DE SONORA, B.O. 29 DE DICIEMBRE DE 1983)
 
 ###### Artículo 56.
 
-(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE HACIENDA MUNICIPAL DEL ESTADO DE SONORA, B.O. 29 DE DICIEMBRE DE 1983)
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE HACIENDA MUNICIPAL DEL ESTADO DE SONORA, B.O. 29 DE DICIEMBRE DE 1983)
 
 ###### Artículo 57.
 
-(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE HACIENDA MUNICIPAL DEL ESTADO DE SONORA, B.O. 29 DE DICIEMBRE DE 1983)
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE HACIENDA MUNICIPAL DEL ESTADO DE SONORA, B.O. 29 DE DICIEMBRE DE 1983)
 
 ###### Artículo 58.
 
-(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE HACIENDA MUNICIPAL DEL ESTADO DE SONORA, B.O. 29 DE DICIEMBRE DE 1983)
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE HACIENDA MUNICIPAL DEL ESTADO DE SONORA, B.O. 29 DE DICIEMBRE DE 1983)
 
 #### Sección Novena. Disposiciones Generales
 
 ###### Artículo 59.
 
-(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE HACIENDA MUNICIPAL DEL ESTADO DE SONORA, B.O. 29 DE DICIEMBRE DE 1983)
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE HACIENDA MUNICIPAL DEL ESTADO DE SONORA, B.O. 29 DE DICIEMBRE DE 1983)
 
 ###### Artículo 60.
 
-(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE HACIENDA MUNICIPAL DEL ESTADO DE SONORA, B.O. 29 DE DICIEMBRE DE 1983)
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE HACIENDA MUNICIPAL DEL ESTADO DE SONORA, B.O. 29 DE DICIEMBRE DE 1983)
 
 ###### Artículo 61.
 
-(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE HACIENDA MUNICIPAL DEL ESTADO DE SONORA, B.O. 29 DE DICIEMBRE DE 1983)
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE HACIENDA MUNICIPAL DEL ESTADO DE SONORA, B.O. 29 DE DICIEMBRE DE 1983)
 
 ###### Artículo 62.
 
-(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE HACIENDA MUNICIPAL DEL ESTADO DE SONORA, B.O. 29 DE DICIEMBRE DE 1983)
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE HACIENDA MUNICIPAL DEL ESTADO DE SONORA, B.O. 29 DE DICIEMBRE DE 1983)
 
 ###### Artículo 63.
 
-(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE HACIENDA MUNICIPAL DEL ESTADO DE SONORA, B.O. 29 DE DICIEMBRE DE 1983)
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE HACIENDA MUNICIPAL DEL ESTADO DE SONORA, B.O. 29 DE DICIEMBRE DE 1983)
 
 ###### Artículo 64.
 
-(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE HACIENDA MUNICIPAL DEL ESTADO DE SONORA, B.O. 29 DE DICIEMBRE DE 1983)
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE HACIENDA MUNICIPAL DEL ESTADO DE SONORA, B.O. 29 DE DICIEMBRE DE 1983)
 
 ###### Artículo 65.
 
-(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE HACIENDA MUNICIPAL DEL ESTADO DE SONORA, B.O. 29 DE DICIEMBRE DE 1983)
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE HACIENDA MUNICIPAL DEL ESTADO DE SONORA, B.O. 29 DE DICIEMBRE DE 1983)
 
 ###### Artículo 66.
 
-(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE HACIENDA MUNICIPAL DEL ESTADO DE SONORA, B.O. 29 DE DICIEMBRE DE 1983)
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE HACIENDA MUNICIPAL DEL ESTADO DE SONORA, B.O. 29 DE DICIEMBRE DE 1983)
 
 ###### Artículo 67.
 
-(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE HACIENDA MUNICIPAL DEL ESTADO DE SONORA, B.O. 29 DE DICIEMBRE DE 1983)
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE HACIENDA MUNICIPAL DEL ESTADO DE SONORA, B.O. 29 DE DICIEMBRE DE 1983)
 
 ###### Artículo 68.
 
 (DEROGADO, B.O. 31 DE DICIEMBRE DE 2004)
 
-> <small>(REFORMADA SU DENOMINACION, B.O. 31 DE DICIEMBRE DE 1979)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, B.O. 31 DE DICIEMBRE DE 1979)</small>
 
 ### Capítulo Segundo. Del Impuesto General al Comercio, Industria y Prestación de Servicios
 
@@ -623,7 +623,7 @@ Los miembros de los Consejos de administración, comisarios, representantes gene
 
 Los adquirentes o usufructuarios, por cualquier título de establecimientos en los cuales se perciban ingresos gravados por este impuesto, tienen responsabilidad solidaria de los créditos insolutos.
 
-> <small>(REFORMADA SU DENOMINACION, B.O. 31 DE DICIEMBRE DE 1979)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, B.O. 31 DE DICIEMBRE DE 1979)</small>
 
 ### Capítulo Tercero. Impuestos Especiales a la Industria y al Comercio
 
@@ -947,7 +947,7 @@ I.- 1.8% sobre el monto total de los ingresos a que se refieren las fracciones I
 
 II.- 4% sobre el monto total de los ingresos a que se refiere la fracción III del artículo 143.
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 31 DE DICIEMBRE DE 1977)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 31 DE DICIEMBRE DE 1977)</small>
 
 Los giros comprendidos en las fracciones I y II precedentes, podrán pagar el impuesto mediante una cuota fija mensual, a juicio de la Tesorería General del Estado, que será en proporción a los ingresos del período anterior, como sigue:
 
@@ -1117,7 +1117,7 @@ I.- A empadronarse en la Oficina Receptora de su jurisdicción;
 
 II.- A cerciorarse, al recibir el producto, de que se ha pagado el impuesto correspondiente y, de no acreditarse ello, a recaudarlo, expidiendo el recibo de acuerdo con las normas establecidas. Tratándose de productos de procedencia ejidal, para comprobar su exención, a exigir certificado del Comisariado Ejidal respectivo, debidamente requisitado; y
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 31 DE DICIEMBRE DE 1979)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 31 DE DICIEMBRE DE 1979)</small>
 
 III.- A presentar a la oficina recaudadora de su jurisdicción, dentro de los días 1o. al 20 de cada mes una manifestación por cuadruplicado de los productos recibidos durante el mes anterior, enterando el importe del impuesto recaudado.
 
@@ -1135,7 +1135,7 @@ e).- Fecha en la que el propietario pagó el impuesto de producción y el númer
 
 f).- La cantidad en kilogramos de las ventas que realice delos (sic) productos naturales o elaborados, señalando expresamente los que se destinen al interior del Estado y los que se envíen fuera.
 
-> <small>(REFORMADA SU DENOMINACION, B.O. 31 DE DICIEMBRE DE 1979)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, B.O. 31 DE DICIEMBRE DE 1979)</small>
 
 #### Sección Segunda. Del Impuesto a la Producción, Sacrificio y Tenencia de Ganado
 
@@ -1165,7 +1165,7 @@ B).- En el momento de movilización fuera de su lugar de producción.
 
 C).- Al momento de salir de la entidad, por cualquier causa.
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 31 DE DICIEMBRE DE 1979)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 31 DE DICIEMBRE DE 1979)</small>
 
 ###### Artículo 163.
 
@@ -1179,7 +1179,7 @@ AD-Valorem
 
 %
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 31 DE DICIEMBRE DE 1979)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 31 DE DICIEMBRE DE 1979)</small>
 
 I.- Por la producción o sacrificio de ganado por cabeza.
 
@@ -1261,7 +1261,7 @@ b).- Sean hatos de equinos de buena calidad y los sementales finos registrados y
 
 c).- Sean sacrificados en los rastros o fuera de ellos
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 14 DE JULIO DE 1980)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 14 DE JULIO DE 1980)</small>
 
 ###### Artículo 171.
 
@@ -1283,7 +1283,7 @@ Los Presidentes Municipales, Comisarios de Policía, Inspectores de Ganado, Enca
 
 Las Oficinas Recaudadoras, al recibir aviso o tener conocimiento directo de que se han sacrificado reses, movilizando semovientes o celebrado alguno de los actos o contratos gravados sin que se haya cubierto el impuesto, iniciarán inmediatamente el procedimiento económico coactivo, decretando sin demora el embargo precautorio de los semovientes o de otros bienes del causante, que sean suficientes para garantizar el duplo del impuesto omitido, depositándolos con la persona y en el lugar que estimen convenientes.
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 31 DE DICIEMBRE DE 1979)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 31 DE DICIEMBRE DE 1979)</small>
 
 ###### Artículo 175.
 
@@ -1353,7 +1353,7 @@ Los sujetos de este impuesto deberán pagarlo dentro de los días 1o. al 20 del 
 
 Los sujetos de este impuesto deberán registrarse en la oficina recaudadora de su domicilio, dentro de los diez días siguientes a la iniciación de sus operaciones.
 
-> <small>(REFORMADA SU DENOMINACION, B.O. 31 DE DICIEMBRE DE 1979)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, B.O. 31 DE DICIEMBRE DE 1979)</small>
 
 #### Sección Cuarta. Del Impuesto a la Producción Apícola
 
@@ -1395,11 +1395,11 @@ Los sujetos de este impuesto deberán registrarse en la oficina recaudadora de s
 
 ### Capítulo Quinto. De los Impuestos Sobre Capitales
 
-> <small>(REFORMADA SU DENOMINACION, B.O. 29 DE DICIEMBRE DE 1983)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, B.O. 29 DE DICIEMBRE DE 1983)</small>
 
 #### Sección Primera. Del Impuesto Sobre Traslación de Dominio de Bienes Muebles
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 29 DE DICIEMBRE DE 1983)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 29 DE DICIEMBRE DE 1983)</small>
 
 ###### Artículo 183.
 
@@ -1589,7 +1589,7 @@ II.- (DEROGADA, B.O. 31 DE DICIEMBRE DE 1979)
 
 III.- (DEROGADA, B.O. 31 DE DICIEMBRE DE 1979)
 
-> <small>(REFORMADA PRIMER PARRAFO, B.O. 31 DE DICIEMBRE DE 1979)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 31 DE DICIEMBRE DE 1979)</small>
 
 IV.- Arrendamiento o subarrendamiento de negociaciones ganaderas, agrícolas y de pesca.
 
@@ -1599,7 +1599,7 @@ Se entiende por negociación un conjunto de bienes organizados en tal forma, con
 
 Cuando los propietarios o poseedores de bienes constitutivos de una negociación ganadera, agrícola o de pesca, los arrienden por separado a una misma persona física o moral, el arrendamiento se reputará, para los efectos de este impuesto, como arrendamiento de negociación. Esta regla se observará aun cuando el arrendatario adquiera alguno o algunos de los bienes que integra (sic) la negociación u otros distintos para agregarlos a ella. El impuesto se calculará sobre el importe total de las rentas;
 
-> <small>(REFORMADA PRIMER PARRAFO, B.O. 31 DE DICIEMBRE DE 1979)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 31 DE DICIEMBRE DE 1979)</small>
 
 V.- El subarrendamiento de bienes inmuebles, destinados exclusivamente para casa-habitación.
 
@@ -1641,13 +1641,13 @@ II.- De valores mobiliarios o de Renta Fija expedidos por instituciones de créd
 
 III.- De operaciones por las cuales se causa el Impuesto al Valor Agregado o el Impuesto General al Comercio, Industria y Prestación de Servicios;
 
-> <small>(REFORMADA PRIMER PARRAFO, B.O. 31 DE DICIEMBRE DE 1979)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 31 DE DICIEMBRE DE 1979)</small>
 
 IV.- De operaciones celebradas con empresas o instituciones de crédito y organizaciones auxiliares, instituciones de seguros o fianzas, que solamente la Federación puede gravar.
 
 V.- De dividendos.
 
-> <small>(DEROGADO ULTIMO PARRAFO, B.O. 31 DE DICIEMBRE DE 1979)</small>
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, B.O. 31 DE DICIEMBRE DE 1979)</small>
 
 ###### Artículo 203.
 
@@ -1739,7 +1739,7 @@ Tampoco podrán los encargados del Registro Público cancelar las inscripciones 
 
 Los Notarios, Jueces y Encargados del Registro Público de la Propiedad que no dén cumplimiento a las obligaciones que se les imponen y que traigan consigo la omisión total o parcial de créditos fiscales a cargo de los sujetos del impuesto, son solidariamente responsables en el pago de los mismos.
 
-(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, B.O. 30 DE DICIEMBRE DE 1991
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, B.O. 30 DE DICIEMBRE DE 1991)</small>
 
 #### Sección Tercera. Impuesto Estatal Sobre Tenencia o Uso de Vehículos
 
@@ -1771,7 +1771,7 @@ Los Notarios, Jueces y Encargados del Registro Público de la Propiedad que no d
 
 (DEROGADO, B.O. 31 DE DICIEMBRE DE 2004)
 
-> <small>(REFORMADA SU DENOMINACION, B.O. 30 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, B.O. 30 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 212
 
@@ -1817,7 +1817,7 @@ M BIS 4.- No se pagará este impuesto cuando la prestación del servicio a que s
 
 M BIS 5.- Los sujetos obligados al pago de los impuestos a que se refiere esta Sección, realizarán el pago a más tardar el día 20 del mes siguiente a aquél al que corresponda el pago, debiendo presentarse la declaración tratándose del Impuesto Estatal Sobre los Ingresos Derivados por la Obtención de Premios, en la oficina recaudadora que corresponda al domicilio en donde hayan sido pagados o entregados los premios y tratándose del Impuesto Estatal por la Prestación de Servicios de Juegos con Apuestas y Concursos, en la oficina recaudadora que corresponda al domicilio en donde se hayan organizado o celebrado tales eventos. Dicho pago se entenderá definitivo.
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 30 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 30 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 212
 
@@ -1931,7 +1931,7 @@ La tasa del impuesto que se aplicará sobre el monto total de las remuneraciones
 
 Están obligados a recaudar el impuesto los sujetos que perciban los pagos gravados con este impuesto, cuando quien los realice resida fuera del Estado.
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 30 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 30 DE DICIEMBRE DE 1994)</small>
 
 ###### Artículo 218.
 
@@ -1991,7 +1991,7 @@ XII.- Aportación del patrón a los fondos de ahorro siempre y cuando se integre
 
 XIII.- Pagos que resulten del crédito al salario conforme a la Ley del Impuesto Sobre la Renta.
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 29 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 29 DE OCTUBRE DE 2009)</small>
 
 ###### Artículo 218 Bis.
 
@@ -2083,7 +2083,7 @@ IV.- Los contribuyentes que dejen de causar este impuesto, presentarán por una 
 
 V.- Las personas físicas que tengan registrados varios establecimientos con distintas actividades deberán presentar una sola declaración del impuesto en la oficina recaudadora o institución autorizada al efecto, correspondiente a su domicilio fiscal. En dicha declaración deberán incluirse las erogaciones en forma desglosada de cada uno de los establecimientos;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2009)</small>
 
@@ -2115,7 +2115,7 @@ II.- Retener el impuesto que se cause conforme a las disposiciones contenidas en
 
 III.- Las demás que impongan otras disposiciones fiscales.
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 31 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 31 DE DICIEMBRE DE 2004)</small>
 
 ###### Artículo 221 Bis.
 
@@ -2237,7 +2237,7 @@ inferior
 
 Es objeto de este impuesto, la percepción de ingresos derivados del ejercicio de una actividad profesional, cuando su prestación requiera título conforme a las Leyes; así como los percibidos por artistas, locutores, toreros o deportistas, cuando realicen actividades cinematográficas, teatrales, de radiodifusión, de variedades, taurinas o deportivas; y los obtenidos por corredores y agentes de bolsa y seguros.
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 31 DE DICIEMBRE DE 1979)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 31 DE DICIEMBRE DE 1979)</small>
 
 ###### Artículo 237.
 
@@ -2245,7 +2245,7 @@ Son sujetos de este impuesto, las personas físicas que ejercen en forma indepen
 
 Para los efectos de este Impuesto se considerará el ingreso exclusivamente de quien lo perciba.
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 31 DE DICIEMBRE DE 1979)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 31 DE DICIEMBRE DE 1979)</small>
 
 ###### Artículo 238.
 
@@ -2401,7 +2401,7 @@ VIII.- Impuesto a la prestación de servicios bajo la Dirección y dependencia d
 
 IX.- Impuesto sobre traslación de dominio de bienes muebles, en los supuestos a que se refiere el artículo 189 último párrafo, de este ordenamiento y por el pago de los derechos a que se refiere el artículo 298 fracción I, de esta Ley, que realicen las personas adultas de 60 años o más edad o que tengan el carácter de pensionados o jubilados;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADA, B.O. 31 DE DICIEMBRE DE 2009)</small>
 
@@ -2757,7 +2757,7 @@ Para la conservación de caminos en las zonas ganaderas, se causará, en la oper
 
 Las contribuciones a que se refieren los artículos 284, 285, 286 y 287 de este Capítulo, no causan cuotas adicionales.
 
-> <small>(REFORMADA SU DENOMINACION, B.O. 31 DE DICIEMBRE DE 1992)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, B.O. 31 DE DICIEMBRE DE 1992)</small>
 
 CapítuloTercero
 
@@ -2791,7 +2791,7 @@ b).- Harina de trigo $1.20 Por tonelada
 
 c).- (DEROGADO, B.O. 31 DE DICIEMBRE DE 1979)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2009)</small>
 
@@ -2817,7 +2817,7 @@ Toda la recaudación que por concepto de ésta contribución se obtenga en cada 
 
 > <small>N. DE E. PARA LA ACTUALIZACIÓN DE LOS MONTOS DE LAS CUOTAS O TARIFAS DE LOS DERECHOS DEL TÍTULO CUARTO DE LA PRESENTE LEY, PARA EL SEGUNDO SEMESTRE DEL AÑO 2010, SE SUGIERE CONSULTAR EL ACUERDO PUBLICADO EN EL B.O. DE 1 DE JULIO DE 2010.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 31 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 31 DE DICIEMBRE DE 2004)</small>
 
 ### Capítulo Cuarto. Servicios de Ganadería
 
@@ -2963,7 +2963,7 @@ Las cuotas de los derechos serán iguales, para quienes reciban servicios análo
 
 Para la determinación de las cuotas de los derechos, se tendrá en cuenta el costo de dichos servicios o el uso que se haga de ellos y la situación económica del obligado, conforme a las siguientes bases:
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 29 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 29 DE DICIEMBRE DE 2006)</small>
 
 I.- Cuando el solicitante del servicio acredite su calidad de jubilado, pensionado o persona adulta de 60 años o más edad y sea el beneficiario directo del mismo, se aplicarán las cuotas correspondientes a los servicios que a continuación se detallan, reducidas en un 50%, excepto tratándose de aquéllos cuyas cuotas o tarifas contemplen reducciones en los términos de esta Ley.
 
@@ -2981,13 +2981,13 @@ c).- Derechos por los servicios que presta el Registro Público de la Propiedad.
 
 d).- En general por la legalización de firmas, expedición de certificados y certificaciones por cuyos servicios deban pagarse derechos en los términos de la presente Ley, y
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, B.O. 26 DE DICIEMBRE DE 2008)</small>
 
 e).- Derechos por los servicios que presta la Dirección General del Boletín Oficial y Archivo del Estado.
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 29 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 29 DE DICIEMBRE DE 2006)</small>
 
 II.- Para los efectos anteriores, se consideran jubilados, pensionados o persona adulta de 60 años o más edad, aquéllas que acrediten la calidad correspondiente mediante la documentación oficial expedida por las instituciones públicas que a continuación se señalan:
 
@@ -3055,7 +3055,7 @@ Cuando el pago de derechos deba efectuarse con posterioridad a la prestación de
 
 Los derechos por servicios de empadronamiento a que se refieren diversos preceptos del Código Fiscal del Estado de Sonora y de esta Ley de Hacienda, causarán una cuota de $ 25.00.
 
-> <small>(REFORMADA SU DENOMINACION, B.O. 31 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, B.O. 31 DE DICIEMBRE DE 2000)</small>
 
 ### Capítulo Octavo. De los servicios prestados por la Dirección General de Documentación y Archivo
 
@@ -3201,15 +3201,15 @@ Los derechos por la expedición de licencias, cambios de domicilio y cambios de 
 
 ###### Artículo 305.
 
-Cuando se compruebe la transmisión del permiso sin que para ello se haya seguido trámite ante la Secretaría de Fianzas del Estado, se cobrarán los derechos equivalentes a los fijados a la negociación de que se trate para el pago anual, sin perjuicio de hacer efectiva la multa que a juicio de la Secretaría deba imponerse o la clausura del negocio, en su caso.
+Cuando se compruebe la transmisión del permiso sin que para ello se haya seguido trámite ante la Secretaría de Finanzas del Estado, se cobrarán los derechos equivalentes a los fijados a la negociación de que se trate para el pago anual, sin perjuicio de hacer efectiva la multa que a juicio de la Secretaría deba imponerse o la clausura del negocio, en su caso.
 
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2000)</small>
 
 ###### Artículo 306.
 
-Cuando se lleven a cabo traspasos, cambios de propietarios o de razón social y cambios de domicilio, con autorización de la Secretaría de Fianzas del Estado, quedarán los permisionarios sujetos a los derechos que se señalen, los que serán equivalentes a los que haya venido pagando el propietario anterior. Se cobrarán estos derechos en forma proporcional a los meses o fracciones del año fiscal de que se trate.
+Cuando se lleven a cabo traspasos, cambios de propietarios o de razón social y cambios de domicilio, con autorización de la Secretaría de Finanzas del Estado, quedarán los permisionarios sujetos a los derechos que se señalen, los que serán equivalentes a los que haya venido pagando el propietario anterior. Se cobrarán estos derechos en forma proporcional a los meses o fracciones del año fiscal de que se trate.
 
-(REFORMADA SU DENOMINACION, B.O. 29 DE DICIEMBRE DE 2006) (ACTUALIZADO EN SU CUOTA [N. DE E. CONCEPTO], B.O. 12 DE MARZO DE 2009)
+> <small>(REFORMADA SU DENOMINACIÓN, B.O. 29 DE DICIEMBRE DE 2006)</small>
 
 ### Capítulo Noveno. Servicios por Expedición de Placas de Vehículos, Revalidaciones, Licencias para Manejar y Permisos
 
@@ -3313,7 +3313,7 @@ cualquier profesión o especialidad. N$ 100.00
 
 del punto anterior, por cada prórroga. N$ 50.00
 
-> <small>(REFORMADA SU DENOMINACION, B.O. 29 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, B.O. 29 DE DICIEMBRE DE 2005)</small>
 
 ### Capítulo Décimo Primero. Servicios del Registro Público de la Propiedad y del Comercio
 
@@ -3393,7 +3393,7 @@ b).- Copia certificada $50.00
 
 8.- Por constancia de no servidor público. $130.00
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NÚMERAL, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2009)</small>
 
@@ -3403,7 +3403,7 @@ b).- Copia certificada $50.00
 
 10.- Por expedición de constancia de adeudo o no adeudo fiscal y/o no inscripción en el registro estatal de contribuyentes. $50.00
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NÚMERAL, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], B.O. 26 DE DICIEMBRE DE 2008)</small>
 
@@ -3453,7 +3453,7 @@ o actualización bianual de datos, a petición del
 
 solicitante: $ 240.00
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NÚMERAL, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2009)</small>
 
@@ -3497,7 +3497,7 @@ de la sucesión. $77.00
 
 6.- (DEROGADO, B.O. 31 DE DICIEMBRE DE 2004)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NÚMERAL, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2009)</small>
 
@@ -3515,7 +3515,7 @@ de la sucesión. $77.00
 
 12.- Por la sola búsqueda y localización de información relativa a escrituras públicas y antecedentes notariales y brindar información al interesado sin que esto implique la expedición y cobro del documento correspondiente:
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2009)</small>
 
@@ -3523,31 +3523,31 @@ a).- Por notario y por cada año de búsqueda. $150.00
 
 13.- Por los servicios urgentes a petición del usuario se causará un derecho adicional equivalente al 50% sobre la cantidad fijada para el servicio que se solicita. Se considerarán servicios urgentes cuando se proporcione dentro de las veinticuatro horas siguientes.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NÚMERAL, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2009)</small>
 
 14.- Por la presentación de examen de aspirante a notario. $ 15,000.00
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NÚMERAL, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2009)</small>
 
 15.- Por presentación de examen de oposición para ser titular de una notaría pública. $ 25,000.00
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NÚMERAL, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2009)</small>
 
 16.- Por la autorización de proyectos de escrituras a los jueces locales en funciones de Notario Público por Ministerio de Ley, por cada instrumento, que requiera autorización. $ 250.00
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NÚMERAL, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2009)</small>
 
 17.- Por la inscripción de disposiciones testamentarias en el Registro Nacional de Testamentos y el Registro Local de Testamentos. $ 120.00 Por cada disposición testamentaria.
 
-> <small>(REFORMADA SU DENOMINACION, B.O. 31 DE DICIEMBRE DE 1992)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, B.O. 31 DE DICIEMBRE DE 1992)</small>
 
 ### Capítulo Décimo Tercero. Servicios del Registro Civil
 
@@ -3591,7 +3591,7 @@ Tratándose de publicaciones de convenios autorización de fraccionamientos
 
 habitacionales se aplicará la cuota correspondiente reducida en un 75%.
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 20 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 20 DE DICIEMBRE DE 2010)</small>
 
 Tratándose de publicación de los actos que por disposición de alguna ley deban publicarse en el Boletín Oficial, reglamentos y disposiciones administrativas de observancia general expedidos o aprobados por los ayuntamientos del Estado, que no actualicen los supuestos contemplados en el artículo 4o, fracciones I y II de la Ley del Boletín Oficial, se sujetarán a las reducciones conforme a la siguiente tabla:
 
@@ -3633,7 +3633,7 @@ X.- Por la certificación de constancias y copias de expedientes y documentos de
 
 XI.- Por la expedición de constancias del archivo administrativo de Servidores Públicos del Estado y copias de los documentos contenidos en el expediente, sin importar el número de documentos. $ 50.00
 
-> <small>(REFORMADA SU DENOMINACION, B.O. 30 DE DICIEMBRE DE 1985)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, B.O. 30 DE DICIEMBRE DE 1985)</small>
 
 ### Capitulo Décimo Cuarto. Otros Servicios
 
@@ -3843,7 +3843,7 @@ hasta diez días. $ 70.00
 
 motocicletas y motonetas. $ 75.00
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 29 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 29 DE DICIEMBRE DE 2005)</small>
 
 ###### ARTÍCULO 318.
 
@@ -3883,7 +3883,7 @@ Los servicios relativos a información en materia vehicular y de otros registros
 
 Los servicios que la Dirección General de Transporte del Estado, preste a los particulares, concesionarios o permisionarios, causarán el pago de derechos conforme a las especificaciones y cuotas siguientes:
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 29 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 29 DE DICIEMBRE DE 2006)</small>
 
 1.- Por la expedición de concesión para la explotación del servicio público de transporte, por unidad.
 
@@ -3967,7 +3967,7 @@ a).- Pasaje N$ 600.00
 
 b).- Carga N$ 600.00
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 29 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 29 DE DICIEMBRE DE 2006)</small>
 
 9.- Por la modificación de concesiones con motivo de ampliación de ruta o radios de jurisdicción en la explotación de servicio público de transporte de jurisdicción estatal o municipal.
 
@@ -4105,7 +4105,7 @@ Las personas físicas o morales titulares de concesiones o permisos para operar 
 
 Por los servicios registrales que presta el Instituto Catastral y Registral del Estado de Sonora, se causarán los siguientes derechos que deberán pagarse previamente a la prestación del servicio:
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 31 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 31 DE DICIEMBRE DE 2004)</small>
 
 1.- Por las inscripciones relativas al registro de todo tipo de documentos públicos o privados en que se reconozca, adquiera, transmita, modifique, grave o extinga la propiedad originaria de bienes inmuebles o cualquier derecho real sobre los mismos, o por contratos de arrendamiento, así como de los actos jurídicos o contratos de bienes muebles que deban registrarse conforme a las leyes, se causarán y pagarán los derechos conforme a la tasa del 5 al millar, por cada operación.
 
@@ -4209,7 +4209,7 @@ En el reglamento que al efecto expida el Poder Ejecutivo, se establecerán las n
 
 sean aplicables a los peritos valuadores.
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 31 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 31 DE DICIEMBRE DE 2004)</small>
 
 18.- Por la expedición de las siguientes certificaciones:
 
@@ -4295,7 +4295,13 @@ Las tarifas de este Capítulo cuando comprendan dos o más cuotas y ya sean espe
 
 Se exceptúan de los derechos por registro de documentos públicos o privados en que se reconozca, adquiera, transmita, modifique, grave o extinga la propiedad originaria de bienes inmuebles y cualquier derecho real sobre los mismos, a que se refiere el punto 1 del Artículo 321 de este ordenamiento, al Estado, Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado de Sonora, Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, e instituciones de asistencia privada autorizadas por la Junta de Asistencia Privada de la Secretaría de Salud, cuando intervengan como parte activa en los actos jurídicos en ellos contenidos.
 
-Para efectos de este artículo se entenderá pro “Estado” a los Poderes Ejecutivo, Legislativo y Judicial del Estado de Sonora, con excepción de los organismos descentralizados y empresas de participación estatal, así como cualquier ente de la Administración Pública Federal o Municipal.
+> <small>(REFORMADO, B.O. 10 DE NOVIEMBRE DE 2011)</small>
+
+Para efectos de este artículo se entenderá por "Estado" a los Poderes Ejecutivo, Legislativo y Judicial del Estado de Sonora, con excepción de los organismos descentralizados y empresas de participación estatal, así como cualquier ente de la Administración Pública Federal.
+
+> <small>(ADICIONADO, B.O. 10 DE NOVIEMBRE DE 2011)</small>
+
+Asimismo, se exceptúan de los derechos por registro de documentos públicos o privados en que se reconozca, adquiera, transmita, modifique, grave o extinga la propiedad originaria de bienes inmuebles y cualquier derecho real sobre los mismos, a que se refiere el punto 1 del artículo 321 de este ordenamiento, siempre y cuando dichos bienes sean donde se ubique el edificio del Ayuntamiento Municipal o sean destinados a la prestación de algún servicio público.
 
 > <small>(DEROGADO, B.O. 31 DE DICIEMBRE DE 1979)</small>
 
@@ -4327,7 +4333,7 @@ I.- Por las inscripciones de:
 
 3.2.- Con la entrega de copia al interesado. $50.00
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NÚMERAL, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2009)</small>
 
@@ -4357,7 +4363,7 @@ II.- Por la expedición de actas del Registro Civil en las oficialías:
 
 1.2.- Transcripción del libro (mecanografiada). $50.00
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NÚMERAL, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 1.3.- (DEROGADO, B.O. 31 DE DICIEMBRE DE 2009)
 
@@ -4385,7 +4391,7 @@ Las inscripciones de cualquier acto que se celebre fuera de la oficina, en horas
 
 el solicitante no proporcione los datos necesarios. $ 61.00
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NÚMERAL, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2009)</small>
 
@@ -4409,11 +4415,11 @@ I.- Por la expedición de actas:
 
 1.2.- Transcripción del libro (mecanografiada). $50.00
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NÚMERAL, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 1.3.- (DEROGADO, B.O. 31 DE DICIEMBRE DE 2009)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO PRIMER PARRAFO, B.O. 31 DE DICIEMBRE DE 2009)</small>
 
@@ -4585,7 +4591,7 @@ La información digitalizada que se produzca por el sistema estatal inmobiliario
 
 El Estado procederá a cobrar los derechos enunciados en esta fracción, siempre que exista convenio expreso con el municipio respectivo.
 
-> <small>(REFORMADA PRIMER PARRAFO, B.O. 29 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADA PRIMER PÁRRAFO, B.O. 29 DE DICIEMBRE DE 2006)</small>
 
 II.- Servicios en materia de desarrollo urbano y ecología.
 
@@ -4643,7 +4649,7 @@ c).- Para lotes con superficie total a fusionar de
 
 100,001 m2 en adelante $700.00
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 29 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 29 DE DICIEMBRE DE 2006)</small>
 
 5.- Por relotificación a desarrollos industriales, turísticos o campestres ya autorizados por la Secretaría de Infraestructura y Desarrollo Urbano, por lote.
 
@@ -4713,11 +4719,11 @@ transporte concesionado por el Estado. N$3,000.00
 
 aspectos de desarrollo urbano $122.00
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NÚMERAL, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 11.- (DEROGADO, B.O. 26 DE DICIEMBRE DE 2008)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO PRIMER PARRAFO, B.O. 26 DE DICIEMBRE DE 2008)</small>
 
@@ -4731,7 +4737,7 @@ a) Resolución de autorización en materia
 
 de actividad riesgosa. $6, 719.00
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 b).- (DEROGADO, B.O. 31 DE DICIEMBRE DE 2009)
 
@@ -4741,15 +4747,15 @@ c) Resolución de autorización en materia
 
 de impacto ambiental. $6, 488.00
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 d).- (DEROGADO, B.O. 31 DE DICIEMBRE DE 2009)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 e).- (DEROGADO, B.O. 31 DE DICIEMBRE DE 2009)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NÚMERAL, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, B.O. 26 DE DICIEMBRE DE 2008)</small>
 
@@ -4765,7 +4771,7 @@ a).- Resolución de licencia de funcionamiento. $5, 737.00
 
 b).- Resolución de actualización de licencia:
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 c).- (DEROGADO, B.O. 31 DE DICIEMBRE DE 2009)
 
@@ -4773,7 +4779,7 @@ c).- (DEROGADO, B.O. 31 DE DICIEMBRE DE 2009)
 
 14.- Por la inscripción en el Registro Estatal de:
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 a).- (DEROGADO, B.O. 31 DE DICIEMBRE DE 2009)
 
@@ -4809,7 +4815,7 @@ suelo de terrenos en que se pretendan realizar
 
 desarrollos turísticos, industriales o campestres,
 
-fuera del límite del centro de población $3,500.00
+fuera del límite del centro de la población. $3,500.00
 
 > <small>(ADICIONADO, B.O. 30 DE DICIEMBRE DE 2010)</small>
 
@@ -5089,7 +5095,7 @@ cadáveres cuando esta sea decretada por autoridad
 
 judicial o por el Ministerio Público en un proceso penal.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NÚMERAL, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, B.O. 26 DE DICIEMBRE DE 2008)</small>
 
@@ -5203,19 +5209,19 @@ técnicos, universitarios y tecnológicos. $140.00
 
 14.- Registro de colegio de profesionistas. $3,000.00
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NÚMERAL, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2009)</small>
 
 15.- Registro de titulo profesional. Gratuito
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NÚMERAL, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2009)</small>
 
 16.- Expedición de cédula profesional. $ 500.00
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NÚMERAL, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 17.- (DEROGADO, B.O. 31 DE DICIEMBRE DE 2009)
 
@@ -5231,7 +5237,7 @@ medio superior. $26.00
 
 y expedición ante la Federación. $ 227.00
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 18 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 18 DE DICIEMBRE DE 2003)</small>
 
 V.- Servicios prestados por el Secretario Ejecutivo del Consejo Estatal de Seguridad Pública.
 
@@ -5631,7 +5637,7 @@ EL SUBSECRETARIO,
 
 Dr. Samuel Ocaña García.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 B.O. 19 DE FEBRERO DE 1977.
 
@@ -6044,3 +6050,9 @@ B.O. 30 DE DICIEMBRE DE 2010.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor a partir del 1º de enero de 2011, previa su publicación en el Boletín Oficial del Gobierno del Estado.
+
+B.O. 10 DE NOVIEMBRE DE 2011.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor a partir del día de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
