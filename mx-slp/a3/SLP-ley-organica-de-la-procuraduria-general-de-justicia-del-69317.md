@@ -4,7 +4,7 @@ identifier: "SLP-ley-organica-de-la-procuraduria-general-de-justicia-del-69317"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2009-07-07"
-last_updated: "2010-03-06"
+last_updated: "2011-11-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69317&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY ORGÁNICA DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE MARZO DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE NOVIEMBRE DE 2011.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el martes 7 de julio de 2009.
 
@@ -199,13 +199,29 @@ d) De las diligencias practicadas se desprenda plenamente la existencia de una c
 
 e) Resulte imposible la prueba de la existencia de los hechos constitutivos de delito por obstáculo material insuperable.
 
-f) En los demás casos que determinen las normas aplicables, y
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2011)</small>
 
-XX. Las demás que determinen las leyes aplicables.
+f) En los demás casos que determinen las normas aplicables;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE NOVIEMBRE DE 2011)</small>
+
+XX. Tratándose del delito de narcomenudeo, para fines de investigación el titular del Ministerio Público podrá solicitar al Ministerio Público Federal o al servidor público designado para tal efecto, autorización para que agentes de la policía bajo su conducción y mando, compren, adquieran o reciban la transmisión material de algún narcótico para lograr la detención del probable responsable del comercio o suministro de narcóticos o de la posesión de los mismos con dichos fines y el aseguramiento correspondiente.
+
+Una vez expedida la autorización a que se refiere el párrafo anterior, el Ministerio Público deberá señalar por escrito en la orden respectiva, los lineamientos, términos, limitaciones, modalidades y condiciones a los que debe sujetarse el agente o agentes de la policía que deberán ejecutar la orden.
+
+En las actividades que desarrollen el o los policías que ejecuten la orden, se considerará que actúan en cumplimiento de un deber, siempre que su actuación se apegue a los lineamientos, términos, modalidades, limitaciones y condiciones a que se refiere el párrafo anterior, y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 10 DE NOVIEMBRE DE 2011)</small>
+
+XXI. Las demás que determinen las leyes aplicables.
 
 Cuando el Ministerio Público tenga conocimiento por sí o por conducto de sus auxiliares, de la probable comisión de un delito cuya persecución dependa de querella o de cualquier otro acto equivalente, que deba formular alguna autoridad, lo comunicará por escrito y de inmediato a la autoridad competente, a fin de que resuelva con el debido conocimiento de los hechos lo que a sus facultades o atribuciones corresponda. Las autoridades harán saber por escrito al Ministerio Público la determinación que adopten.
 
 En los casos de detenciones en delito flagrante, en los que se inicie averiguación previa con detenido, el agente del Ministerio Público solicitará por escrito y de inmediato a la autoridad que corresponda, presente la querella o cumpla el requisito equivalente, dentro del plazo de retención que establece el artículo 16 de la Constitución Política de los Estados Unidos Mexicanos.
+
+> <small>(ADICIONADO, P.O. 10 DE NOVIEMBRE DE 2011)</small>
+
+En los casos de no ejercicio de la acción penal, tratándose del delito de narcomenudeo, el Ministerio Público deberá emitir reporte a las autoridades de salud, con el objeto de que éstas orienten al farmacodependiente y lo conminen a tomar parte en los programas contra la farmacodependencia o en aquellos preventivos de la misma.
 
 ###### ARTICULO 12.
 
@@ -494,6 +510,10 @@ XXVI. El Contralor lnterno;
 XXVII. Los asesores del Procurador;
 
 XXVIII. Un Centro de Evaluación y Control de Confianza;
+
+> <small>(ADICIONADA, P.O. 10 DE NOVIEMBRE DE 2011)</small>
+
+XXVIII BIS. Un Centro de Operaciones Estratégicas para el Combate al Narcomenudeo;
 
 XXIX. El Instituto de Formación Ministerial, Policial y Pericial;
 
@@ -1095,9 +1115,17 @@ XVII. Colaborar en operativos con otras corporaciones policiales, previo acuerdo
 
 XVIII. Promover y fomentar entre los servidores públicos de la Dirección General a su cargo, una cultura de respeto, preservación y cuidado de las garantías individuales y de los derechos humanos que ampara el orden jurídico mexicano, y los tratados internacionales en que los Estados Unidos Mexicanos sea parte, en coordinación con la Subprocuraduría Especializada para la Atención de Delitos Sexuales, Contra la Familia y Derechos Humanos;
 
-XIX. Promover y fomentar entre los servidores públicos de la policía la preservación de los bienes, derechos y garantías de las víctimas u ofendidos del delito, cuidando que se dicten todas las medidas y providencias necesarias para proporcionarles seguridad y auxilio, y
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2011)</small>
 
-XX. Las demás que le confieran otras disposiciones legales, y el Procurador General de Justicia.
+XIX. Promover y fomentar entre los servidores públicos de la policía, la preservación de los bienes, derechos y garantías de las víctimas u ofendidos del delito, cuidando que se dicten todas las medidas y providencias necesarias para proporcionarles seguridad y auxilio;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE NOVIEMBRE DE 2011)</small>
+
+XX. Remitir los informes relativos a la investigación del delito de narcomenudeo, que le requiera el Ministerio Público de la Federación, y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 10 DE NOVIEMBRE DE 2011)</small>
+
+XXI. Las demás que le confieran otras disposiciones legales, y el Procurador General de Justicia.
 
 ### Capítulo VII. De la Dirección General de Averiguaciones Previas
 
@@ -1321,7 +1349,9 @@ VI. Las demás que le confieran otras disposiciones aplicables.
 
 La Contraloría Interna de la Procuraduría determinará las responsabilidades e impondrá las sanciones a que se hagan acreedores los servidores públicos de la institución, en los términos previstos por la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de San Luis Potosí, mediante el procedimiento que dicha ley y las demás aplicables previenen, a excepción del personal sustantivo de carrera, quienes se regirán por los títulos Tercero y Cuarto de esta Ley, en cuyo caso, solamente substanciará el procedimiento previsto en el Reglamento de la misma, hasta dejar los asuntos en estado de resolución, el que será sancionado con amonestación, suspensión o inhabilitación, según corresponda, por los servidores públicos descritos en el artículo 140 de este Ordenamiento, de acuerdo a su área de adscripción.
 
-### Capítulo XII. Del Centro de Evaluación y Control de Confianza
+> <small>(REFORMADA SU DENOMINACION, P.O. 10 DE NOVIEMBRE DE 2011)</small>
+
+### Capítulo XII. Del Centro de Evaluación y Control de Confianza; y Del Centro de Operaciones Estratégicas para el Combate al Narcomenudeo
 
 ###### ARTICULO 79.
 
@@ -1392,6 +1422,14 @@ El Centro de Evaluación y Control de Confianza contará con un Consejo Técnico
 Los servidores públicos que integren el Centro de Evaluación y Control de Confianza, deberán obtener un resultado general aprobatorio en las evaluaciones a que se refiere esta Ley y su Reglamento.
 
 El Procurador determinará las características, términos, modalidades y periodicidad con que se practiquen los procesos de evaluación.
+
+> <small>(ADICIONADO, P.O. 10 DE NOVIEMBRE DE 2011)</small>
+
+ARTICULO 82 BIS. El Centro de Operaciones Estratégicas para el Combate al Narcomenudeo, es el espacio de coordinación para el trabajo conjunto de las autoridades estatales, federales y municipales.
+
+El Centro de Operaciones Estratégicas para el Combate al Narcomenudeo será competente para la atención, investigación y persecución de los delitos contra la salud en su modalidad de narcomenudeo previstos en el Título Décimo Noveno de la Parte Especial del Código Penal del Estado; tendrá las funciones que determine el Reglamento de esta Ley, así como las que deriven de los acuerdos de colaboración y coordinación celebrados por la Federación y el Estado.
+
+El Centro de Operaciones Estratégicas para el Combate al Narcomenudeo se integrará con el número de personal necesario, atendiendo a la incidencia delictiva, población, circunstancias geográficas y géneros de delito, por personal ministerial, policial y peritos, seleccionados y evaluados dentro de los esquemas de control de confianza a nivel nacional, y contará con las unidades especializadas, infraestructura, equipamiento y conectividad de primer nivel necesarios para el desempeño de sus funciones.
 
 ### Capítulo XIII. Del Instituto de Formación Ministerial, Policial y Pericial
 
@@ -2428,3 +2466,11 @@ PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 TERCERO. El Procurador General de Justicia instruirá las acciones necesarias a fin de elaborar y presentar para su aprobación, el proyecto de las reformas correspondientes al Reglamento de la Ley Orgánica de la Procuraduría General de Justicia del Estado, en un plazo de treinta días a partir de la entrada en vigor de este Decreto.
+
+P.O. 10 DE NOVIEMBRE DE 2011.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+No obstante lo anterior, para la implementación del presente Decreto el Estado contará con un plazo de tres años a partir de su entrada en vigor.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan a este Decreto.
