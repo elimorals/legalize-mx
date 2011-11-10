@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-seguridad-publica-del-estado-de-san-luis-potosi-71726"
 country: "mx"
 rank: "ley"
 publication_date: "2009-12-22"
-last_updated: "2010-11-09"
+last_updated: "2011-11-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=71726&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE SEGURIDAD PUBLICA DEL ESTADO DE SAN LUIS POTOSI
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE NOVIEMBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE NOVIEMBRE DE 2011.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el martes 22 de diciembre de 2009.
 
@@ -185,9 +185,17 @@ VII. Proponer reglas para la organización y funcionamiento de las instancias de
 
 VII. Proponer reglas para la organización y funcionamiento de las instancias del Sistema Estatal y Municipal de seguridad pública;
 
-VIII. Delegar las atribuciones cuya naturaleza así lo permita, en los servidores públicos que determine, y
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2011)</small>
 
-IX. Las demás que le señalen las disposiciones jurídicas y reglamentos aplicables.
+VIII. Delegar las atribuciones cuya naturaleza así lo permita, en los servidores públicos que determine;
+
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2011)</small>
+
+IX. Conocer e intervenir en aquellos casos relacionados con delitos contra la salud en su modalidad de narcomenudeo previsto y sancionado en el Código Penal del Estado, y
+
+> <small>(ADICIONADA, P.O. 10 DE NOVIEMBRE DE 2011)</small>
+
+X. Las demás que le señalen las disposiciones jurídicas y reglamentos aplicables.
 
 ###### ARTICULO 14.
 
@@ -497,7 +505,9 @@ La coordinación estará al mando del Ejecutivo en el territorio del Estado, en 
 
 La coordinación en materia de seguridad pública comprenderá entre otros aspectos, los siguientes:
 
-I. Instrumentar programas y acciones de seguridad pública, orientados a la prevención de conductas antisociales, combate a la delincuencia, capacitación y profesionalización de los elementos, y fomento a la participación ciudadana;
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2011)</small>
+
+I. Instrumentar programas y acciones de seguridad pública, orientados a la prevención de conductas antisociales; a la prevención y combate de la posesión, comercio o suministro de estupefacientes y psicotrópicos; al combate a la delincuencia; capacitación y profesionalización de los elementos; y fomento a la participación ciudadana;
 
 II. Implementar programas sobre emergencias, conductas antisociales de que tengan conocimiento, así como para la localización de personas y bienes reportados por la ciudadanía, estableciendo comunicación con instituciones de seguridad pública, procuración de justicia, salud, protección civil y otras agrupaciones de asistencia pública y privada, y
 
@@ -745,7 +755,9 @@ XIV. Abstenerse de liberar a detenidos sin orden de la autoridad que los tenga a
 
 XV. Rechazar dádivas o gratificaciones que les ofrezcan por hacer o dejar de hacer algo relacionado con el servicio;
 
-XVI. Entregar al Agente del Ministerio Público o autoridad competente, el inventario y objetos o valores que aseguren o retengan en el desempeño de sus funciones;
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2011)</small>
+
+XVI. Entregar al Agente del Ministerio Público del fuero común, o autoridad competente, los informes relativos a las investigaciones a su cargo; el inventario y objetos o valores que aseguren o retengan en el desempeño de sus funciones. En los casos en que haya detenidos, ponerlos a disposición del Ministerio Público de inmediato;
 
 XVII. Asistir a los cursos de capacitación, adiestramiento y especialización que se les asignen;
 
@@ -1468,3 +1480,11 @@ PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
 
 TERCERO. El Ejecutivo del Estado y los ayuntamientos de la Entidad, a partir de la entrada en vigor de este Decreto, tendrán treinta días para reformar sus reglamentos respectivos, a fin de hacer viable su aplicación.
+
+P.O. 10 DE NOVIEMBRE DE 2011.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+No obstante lo anterior, para la implementación del presente Decreto el Estado contará con un plazo de tres años a partir de su entrada en vigor.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan a este Decreto.
