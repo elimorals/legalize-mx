@@ -4,7 +4,7 @@ identifier: "SLP-codigo-penal-del-estado-de-san-luis-potosi-21296"
 country: "mx"
 rank: "codigo"
 publication_date: "2000-09-30"
-last_updated: "2011-10-20"
+last_updated: "2011-11-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21296&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 CODIGO PENAL DEL ESTADO DE SAN LUIS POTOSI
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE OCTUBRE DE 2011.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE NOVIEMBRE DE 2011.
 
 Código publicado en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 30 de septiembre de 2000.
 
@@ -541,7 +541,9 @@ Por ningún motivo se desarrollará este trabajo en forma que resulte degradante
 
 Cuando al sentenciado se le haya sustituido una pena de prisión por una medida de seguridad, no tendrá derecho a los beneficios de libertad preparatoria, remisión parcial de la pena, ni al tratamiento preliberacional, por encontrarse en externación.
 
-### CAPITULO IV. INTERNAMIENTO EN ESTABLECIMIENTO ESPECIAL PARA TRATAMIENTO DE INIMPUTABLES O FARMACODEPENDIENTES
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 10 DE NOVIEMBRE DE 2012)</small>
+
+### CAPITULO IV. TRATAMIENTO O INTERNAMIENTO EN ESTABLECIMIENTO ESPECIAL, PARA INIMPUTABLES O FARMACODEPENDIENTES
 
 ###### ARTICULO 52.
 
@@ -775,11 +777,15 @@ El otorgamiento y disfrute del beneficio de la suspensión condicional de la pen
 
 I. El juzgador, al dictar sentencia, suspenderá motivadamente la ejecución de las penas, a petición de parte o de oficio, si concurren estas condiciones:
 
-> <small>(REFORMADO, P.O. 18 DE JUNIO DE 2011)</small>
+> <small>N. DE E. EL PRESENTE INCISO FUE REFORMADO MEDIANTE DECRETO 761 BIS POR EL CONGRESO DEL ESTADO EN LA SESIÓN DEL 25 DE NOVIEMBRE DE 2010 Y PUBLICADO EL 10 DE NOVIEMBRE DE 2011. EL 18 DE JUNIO DE 2011 FUE REFORMADO ESTE INCISO “a). Que la condena se refiera a una pena de prisión que no exceda de cinco años, y que no se trate de sentencias dictas por los delitos de secuestro atenuado, robo con violencia o a casa habitación, robo de infante atenuado o corrupción de menores;” POR LO QUE SE SUGIERE CONSULTAR LAS PUBLICACIONES OFICIALES DE ESAS FECHAS.</small>
 
-a). Que la condena se refiera a una pena de prisión que no exceda de cinco años, y que no se trate de sentencias dictas por los delitos de secuestro atenuado, robo con violencia o a casa habitación, robo de infante atenuado o corrupción de menores;
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2011)</small>
 
-b). Que sea la primera vez que el sentenciado incurre en un delito doloso y, además, haya evidenciado buena conducta, antes y después del hecho punible, y
+a). Que la condena se refiera a una pena de prisión que no exceda de cuatro años y que no se trate de sentencias dictadas por los delitos de secuestro atenuado, robo con violencia o a casa habitación, robo de infante atenuado o corrupción de menores, y narcomenudeo;
+
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2011)</small>
+
+b). Que sea la primera vez que el sentenciado incurre en un delito doloso y, además, haya evidenciado buena conducta, antes y después del hecho punible. No será considerado en su perjuicio el hecho de que sea o haya sido farmacodependiente, pero estará sujeto al cumplimiento del requisito que señala el inciso e) de este artículo;
 
 c). Que, por sus antecedentes personales o modo honesto de vivir, así como por la naturaleza y móviles del delito, se presuma que el sentenciado no volverá a delinquir.
 
@@ -791,9 +797,17 @@ b). Obligarse a residir en determinado lugar, del que no podrá ausentarse sin p
 
 c). Desempeñar, en el plazo que se le fije, profesión, arte, oficio u ocupación lícitos;
 
-d). Abstenerse del abuso de bebidas embriagantes y del empleo de estupefacientes, psicotrópicos u otras substancias que produzcan efectos similares, salvo por prescripción médica, y
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2011)</small>
 
-e). Reparar el daño causado.
+d). Abstenerse del abuso de bebidas embriagantes y del empleo de estupefacientes, psicotrópicos u otras substancias que produzcan efectos similares, salvo por prescripción médica;
+
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2011)</small>
+
+e). Someterse a tratamiento médico correspondiente para su rehabilitación, bajo vigilancia de la autoridad ejecutora, en los casos que el sentenciado se haya considerado farmacodependiente, y
+
+> <small>(ADICIONADO, P.O. 10 DE NOVIEMBRE DE 2011)</small>
+
+f). Reparar el daño causado.
 
 Cuando por sus circunstancias personales no pueda reparar desde luego el daño causado, dará caución o se sujetará a las medidas que a juicio del juez o tribunal sean bastantes para asegurar que cumplirá, en el plazo que se le fije, esta obligación.
 
@@ -3585,6 +3599,10 @@ Este delito se sancionará con tres meses a seis años de prisión, y sanción p
 
 En la comisión del delito que contempla la fracción III del artículo anterior, no habrá el beneficio de la libertad caucional.
 
+### CAPITULO I. PREVENCIONES GENERALES
+
+> <small>(ADICIONADO, P.O. 10 DE NOVIEMBRE DE 2011)</small>
+
 ###### ARTICULO 319.
 
 Comete el delito de inducción ilícita a electores quien:
@@ -3599,6 +3617,10 @@ IV. Obligue a votar en determinado sentido a los electores que tenga bajo su dep
 
 Este delito se sancionará con una pena de cinco meses a cinco años de prisión y sanción pecuniaria de veinte a cien días del salario mínimo vigente.
 
+### CAPITULO II. NARCOMENUDEO
+
+> <small>(ADICIONADO, P.O. 10 DE NOVIEMBRE DE 2011)</small>
+
 ###### ARTICULO 320.
 
 Comete el delito de no desempeño del cargo quien, habiendo sido electo Gobernador, Diputado local, Presidente Municipal, Regidor, Síndico o Alcalde Constitucional, no se presente, sin causa justificada, a desempeñar el encargo dentro del plazo señalado por la Constitución Política del Estado.
@@ -3610,6 +3632,160 @@ Este delito será sancionado con una pena de un mes a un año de prisión y sanc
 Cometen el delito a que se refiere este Capítulo los ministros de culto religioso que por cualquier medio en el desarrollo de los actos propios de su ministerio, bien sea en los edificios destinados al culto o en cualquier otro lugar, induzcan al electorado a votar en favor o en contra de algún candidato o partido político, o abstenerse de votar.
 
 Este delito se sancionará con sanción pecuniaria de cien a mil días del salario mínimo vigente.
+
+> <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 10 DE NOVIEMBRE DE 2011)</small>
+
+## TITULO DECIMO NOVENO. DELITOS CONTRA LA SALUD PUBLICA
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 10 DE NOVIEMBRE DE 2011)</small>
+
+###### ARTICULO 322.
+
+Para los efectos de este Título se entenderá por:
+
+I. Comercio: la venta, compra, adquisición o enajenación de algún narcótico;
+
+II. Consumidor: toda persona que consume o utilice estupefacientes o psicotrópicos, y que no presente signos ni síntomas de dependencia;
+
+III. Farmacodependencia: es el conjunto de fenómenos de comportamiento, cognoscitivos y fisiológicos que se desarrollan luego del consumo repetido de estupefacientes o psicotrópicos, de los previstos en los artículos, 237 y 245 fracciones I a III, de la Ley General de Salud;
+
+IV. Farmacodependiente: toda persona que presenta algún signo o síntoma de dependencia a estupefacientes o psicotrópicos;
+
+V. Narcóticos: los estupefacientes, psicotrópicos y demás sustancias o vegetales que determinen, la Ley General de Salud, los convenios y tratados internacionales de observancia obligatoria en México, y los que señalen las demás disposiciones legales aplicables en la materia;
+
+VI. Posesión: la tenencia material de narcóticos o cuando éstos están dentro del radio de acción y disponibilidad de la persona;
+
+VII. Suministro: la transmisión material de forma directa o indirecta, por cualquier concepto, de la posesión de narcóticos, y
+
+VIII. Tabla: la relación de narcóticos y la orientación de dosis máximas de consumo personal e inmediato, previstas en el artículo 323 de este Código.
+
+> <small>(ADICIONADO, P.O. 10 DE NOVIEMBRE DE 2011)</small>
+
+###### ARTICULO 323.
+
+Para los efectos del presente Título se entiende que el narcótico está destinado para su estricto e inmediato consumo personal, cuando la cantidad del mismo, en cualquiera de sus formas, derivados o preparaciones, no exceda de las previstas en la tabla siguiente:
+
+Tabla de Orientación de Dosis Máximas de Consumo Personal e Inmediato
+
+Narcótico Dosis máxima de consumo personal e Inmediato
+
+Opio 2 gr.
+
+Diacetilmorfina o
+
+Heroína 50 mg.
+
+Cannabis Sativa,
+
+Indica o Mariguana
+
+(marihuana) 5 gr.
+
+Cocaína 500 mg.
+
+Lisergida (LSD) 0.015 mg.
+
+MDA, Polvo, Tabletas o cápsulas
+
+granulado
+
+o cristal
+
+Metilendioxian- 40 mg. Una unidad con peso
+
+fetamina no mayor a 200 mg.
+
+MDMA, dl-34- 40 mg. Una unidad con peso
+
+metilendioxin- no mayor a 200 mg.
+
+dimetilfeniletilamina
+
+Metanfetamina 40 mg. Una unidad con peso
+
+no mayor a 200 mg.
+
+> <small>(ADICIONADO, P.O. 10 DE NOVIEMBRE DE 2011)</small>
+
+###### ARTICULO 324.
+
+Las autoridades de seguridad pública, procuración e impartición de justicia, así como de ejecución de sanciones, conocerán y resolverán de los delitos, o ejecutarán las sanciones y medidas de seguridad a que se refiere este Título, cuando los narcóticos objeto de los mismos estén previstos en la tabla, siempre y cuando la cantidad de que se trate sea inferior a la que resulte de multiplicar por mil el monto de las previstas en la misma, y no existan elementos suficientes para presumir delincuencia organizada.
+
+Por ser competencia del ámbito federal, se exceptúan de lo señalado en el párrafo anterior, los siguientes supuestos:
+
+I. En los casos de delincuencia organizada;
+
+II. La cantidad del narcótico sea igual o mayor a la referida en el primer párrafo de este artículo;
+
+III. El narcótico no esté contemplado en la tabla, y
+
+IV. Que independientemente de la cantidad del narcótico, el Ministerio Público de la Federación:
+
+a) Prevenga en el conocimiento del asunto, o
+
+b) Solicite al Ministerio Público del fuero común la remisión de la investigación.
+
+Cuando el Ministerio Público de la Federación solicite la remisión de la investigación a la autoridad competente en el Estado, las diligencias desahogadas hasta ese momento tendrán plena validez.
+
+Si de las constancias se advierte la incompetencia de las autoridades del fuero común, se remitirá el expediente al Ministerio Público de la Federación o al Juez Federal competente, dependiendo de la etapa procesal en que se encuentre, a fin de que se continúe el procedimiento, para lo cual las diligencias desahogadas hasta ese momento por la autoridad considerada incompetente, gozarán de plena validez.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 10 DE NOVIEMBRE DE 2011)</small>
+
+###### ARTICULO 325.
+
+Se impondrá prisión de cuatro a ocho años y de doscientos a cuatrocientos días multa, a quien sin autorización comercie o suministre, aun gratuitamente, narcóticos previstos en la tabla, en cantidad inferior a la que resulte de multiplicar por mil el monto de las previstas en la misma.
+
+Si a quien se le suministre el narcótico fuere menor de edad, o que no tenga capacidad para comprender el significado del hecho, o que no tenga capacidad para resistirlo; o que aquélla fuese utilizada para la comisión de los mismos, se aplicará una pena de siete a quince años de prisión y de doscientos a cuatrocientos días multa.
+
+Las penas que en su caso resulten aplicables por este delito serán aumentadas en una mitad, cuando:
+
+I. Se cometan por servidores públicos encargados de prevenir, denunciar, investigar, juzgar o ejecutar las sanciones por la comisión de conductas prohibidas en el presente capítulo. Además, en este caso, se impondrá a dichos servidores públicos destitución e inhabilitación hasta por un tiempo igual al de la pena de prisión impuesta;
+
+II. Se cometan en centros educativos, asistenciales, policiales o de reclusión, o dentro del espacio comprendido en un radio que diste a menos de trescientos metros de los límites de la colindancia del mismo con quienes a ellos acudan, o
+
+III. La conducta sea realizada por profesionistas, técnicos, auxiliares o personal relacionado con las disciplinas de la salud en cualesquiera de sus ramas y se valgan de esta situación para cometerlos. En este caso se impondrá, además, suspensión e inhabilitación de derechos o funciones para el ejercicio profesional u oficio hasta por cinco años. En caso de reincidencia podrá imponerse, además, suspensión definitiva para el ejercicio profesional, a juicio de la autoridad judicial.
+
+> <small>(ADICIONADO, P.O. 10 DE NOVIEMBRE DE 2011)</small>
+
+###### ARTICULO 326.
+
+Se impondrá de tres a seis años de prisión y de ochenta a trescientos días multa, al que posea algún narcótico de los señalados en la tabla, en cantidad inferior a la que resulte de multiplicar por mil las cantidades previstas en la misma, sin la autorización correspondiente a que se refiere la Ley General de Salud, siempre y cuando esa posesión sea con la finalidad de comerciarlos o suministrarlos, aun gratuitamente.
+
+> <small>(ADICIONADO, P.O. 10 DE NOVIEMBRE DE 2011)</small>
+
+###### ARTICULO 327.
+
+Se aplicará pena de diez meses a tres años de prisión y hasta ochenta días multa, al que posea alguno de los narcóticos señalados en la tabla en cantidad inferior a la que resulte de multiplicar por mil las previstas en la misma, sin la autorización a que se refiere la Ley General de Salud, cuando por las circunstancias del hecho tal posesión no pueda considerarse destinada a comercializarlos o suministrarlos, aún gratuitamente.
+
+No se procederá penalmente por este delito en contra de quien posea medicamentos que contengan alguno de los narcóticos previstos en la tabla, cuya venta al público se encuentre supeditada a requisitos especiales de adquisición, cuando por su naturaleza y cantidad dichos medicamentos sean los necesarios para el tratamiento de la persona que los posea, o de otras personas sujetas a la custodia o asistencia de quien los tiene en su poder.
+
+> <small>(ADICIONADO, P.O. 10 DE NOVIEMBRE DE 2011)</small>
+
+###### ARTICULO 328.
+
+El Ministerio Público no ejercerá acción penal por el delito previsto en el artículo anterior, en contra de quien sea farmacodependiente o consumidor y posea alguno de los narcóticos señalados en la tabla, en igual o inferior cantidad a la prevista en la misma, para su estricto consumo personal y fuera de los lugares señalados en la fracción II del artículo 325 de este Código. El Ministerio Público informará al consumidor la ubicación de las instituciones o centros para el tratamiento médico o de orientación para la prevención de la farmacodependencia.
+
+El Ministerio Público hará reporte del no ejercicio de la acción penal a la autoridad de salud que competa, donde se adopte la resolución con el propósito de que ésta promueva la correspondiente orientación médica o de prevención. La información recibida por la autoridad sanitaria no deberá hacerse pública, pero podrá usarse sin señalar identidades, para fines estadísticos.
+
+> <small>(ADICIONADO, P.O. 10 DE NOVIEMBRE DE 2011)</small>
+
+###### ARTICULO 329.
+
+Los procedimientos penales y, en su caso, la ejecución de las sanciones por delitos a que se refiere este Título, se regirán por las disposiciones locales aplicables, salvo en los casos del destino y destrucción de narcóticos, y la clasificación de los delitos como graves para fines del otorgamiento de la libertad provisional bajo caución, en los cuales se observarán las disposiciones del Código Federal de Procedimientos Penales.
+
+> <small>(ADICIONADO, P.O. 10 DE NOVIEMBRE DE 2011)</small>
+
+###### ARTICULO 330.
+
+El Ministerio Público o la autoridad judicial del conocimiento, tan pronto identifique que una persona relacionada con un procedimiento es farmacodependiente, deberá informar de inmediato y, en su caso, dar intervención a las autoridades sanitarias competentes, para los efectos del tratamiento que corresponda.
+
+En todo centro de reclusión se prestarán servicios de rehabilitación al farmacodependiente.
+
+> <small>(ADICIONADO, P.O. 10 DE NOVIEMBRE DE 2011)</small>
+
+###### ARTICULO 331.
+
+Cuando el Ministerio Público tenga conocimiento que el propietario, poseedor, arrendatario o usufructuario de un establecimiento de cualquier naturaleza lo empleare para realizar cualquiera de las conductas sancionadas en el presente Título o que permitiere su realización por terceros, informará a la autoridad administrativa competente para que, en ejercicio de sus atribuciones, realice la clausura del establecimiento, sin perjuicio de las sanciones que resulten por la aplicación de la Ley de Extinción de Dominio del Estado de San Luis Potosí, y demás ordenamientos legales aplicables.
 
 ## TRANSITORIOS
 
@@ -3932,3 +4108,11 @@ P.O. 20 DE OCTUBRE DE 2011.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan las disposiciones que se opongan a éste.
+
+P.O. 10 DE NOVIEMBRE DE 2011.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+No obstante lo anterior, para la implementación del presente Decreto el Estado contará con un plazo de tres años a partir de su entrada en vigor.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan a este Decreto.
