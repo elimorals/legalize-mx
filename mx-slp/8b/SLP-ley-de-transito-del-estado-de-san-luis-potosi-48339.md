@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-transito-del-estado-de-san-luis-potosi-48339"
 country: "mx"
 rank: "ley"
 publication_date: "2005-12-24"
-last_updated: "2011-10-22"
+last_updated: "2011-11-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=48339&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "SLP"
 
 LEY DE TRANSITO DEL ESTADO DE SAN LUIS POTOSI
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE OCTUBRE DE 2011.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE TRANSITO DEL ESTADO DE SAN LUIS POTOSI, PUBLICADA EN LA EDICION EXTRAORDINARIA DEL P.O. DE 10 DE NOVIEMBRE DE 2011, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 24 de diciembre de 2005.
 
@@ -1188,3 +1190,15 @@ PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en 
 SEGUNDO. El Programa Estatal de Verificación Vehicular se expedirá a más tardar ciento veinte días después de la publicación del presente Decreto.
 
 TERCERO. Se derogan todas las disposiciones legales que se opongan a este Decreto.
+
+10 DE NOVIEMBRE DE 2011.
+
+PRIMERO. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se abroga la Ley de Tránsito del Estado de San Luis Potosí, publicada en el Periódico Oficial del Estado el veinticuatro de diciembre de dos mil cinco, mediante el Decreto Legislativo No. 407, y sus reformas. Asimismo, se derogan todas las demás disposiciones que se opongan a lo establecido en esta Ley.
+
+TERCERO. El titular del Ejecutivo del Estado, en el ámbito de su competencia, expedirá en un término máximo de ciento ochenta días a partir de su publicación, el reglamento de la presente Ley.
+
+CUARTO. El Estado y los ayuntamientos expedirán la reglamentación en materia de tránsito, necesaria para la aplicación de esta Ley, para lo cual contarán con un plazo máximo de ciento ochenta días, a partir de su publicación; si fenecido el término de ciento ochenta días, el ayuntamiento no ha emitido su reglamento de tránsito de conformidad con las disposiciones de esta Ley, se podrá aplicar supletoriamente el reglamento de esta Ley en la jurisdicción municipal; sin embargo, para el cobro por la imposición de multas será requisito indispensable que se cuente con el reglamento de tránsito municipal, sin perjuicio de lo establecido en el artículo sexto transitorio de la Ley Orgánica del Municipio Libre del Estado de San Luis Potosí, para materias diversas de esta Ley.
+
+QUINTO. En los casos de los convenios para el otorgamiento de permisos a que se refiere el artículo 20 de esta Ley, los ayuntamientos, y la Secretaría de Seguridad Pública, contarán con un plazo de noventa días a partir de la publicación de esta Ley, para su celebración.
