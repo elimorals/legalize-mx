@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-justicia-para-menores-del-estado-de-san-luis-potosi-5196
 country: "mx"
 rank: "ley"
 publication_date: "2006-09-05"
-last_updated: "2011-08-06"
+last_updated: "2011-11-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51969&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "SLP"
 ---
 # LEY DE JUSTICIA PARA MENORES DEL ESTADO DE SAN LUIS POTOSI
 
-LEY DE JUSTICIA PARA MENORES DEL ESTADO DE SAN LUIS POTOSI
+LEY DE JUSTICIA PARA MENORES DEL ESTADO DE SAN LUIS POTOSÍ
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE AGOSTO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE NOVIEMBRE DE 2011.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el martes 5 de septiembre de 2006.
 
@@ -619,7 +619,7 @@ Para imponer cualquier tipo de medida cautelar, el Ministerio Público para Meno
 
 Las medidas cautelares podrán dictarse y revocarse en cualquier momento hasta antes de dictarse sentencia.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 6 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE AGOSTO DE 2011)</small>
 
 ###### ARTICULO 51.
 
@@ -719,7 +719,7 @@ Los procedimientos alternativos al juzgamiento responden a los principios de sub
 
 #### Sección I. Conciliación
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 6 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE AGOSTO DE 2011)</small>
 
 ###### ARTICULO 60.
 
@@ -857,7 +857,7 @@ Durante el periodo de suspensión del proceso a prueba quedará suspendida la pr
 
 ### CAPITULO I. Disposiciones Generales
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 6 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE AGOSTO DE 2011)</small>
 
 ###### ARTICULO 73.
 
@@ -1239,15 +1239,23 @@ XIX. Robo calificado, a que se refiere en el artículo 200, con las salvedades p
 
 XX. Extorsión, a que se refiere el artículo 212;
 
-XXI. Abigeato, prevista en el artículo 216 a 221;
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2011)</small>
+
+XV (SIC). Abigeato, previsto en los artículos 216 a 221 del Código Penal;
 
 XXII. Motín, previsto en el artículo 249;
 
-XXIII. Asociación delictuosa, previsto en el artículo 265 y 266;
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2011)</small>
 
-XXIV. Ataque a las vías de comunicación y medios de transporte, previsto en los artículos 298 a 303;
+XVI (SIC). Asociación delictuosa, previsto en los artículos 265 y 266 del Código Penal;
 
-XXV. Narcomenudeo, previsto en los artículos 325 y 326, y
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2011)</small>
+
+XVII (SIC). Ataque a las vías de comunicación y medios de transporte, previsto en los artículos 298 a 303 del Código Penal, y
+
+> <small>(ADICIONADA, P.O. 10 DE NOVIEMBRE DE 2011)</small>
+
+XVIII (SIC). Narcomenudeo, previsto en los artículos 325 y 326 del Código Penal.
 
 XXVI. Las demás conductas tipificadas como delitos graves por la legislación penal del Estado.
 
@@ -1337,7 +1345,7 @@ Si la resolución impone medidas, el Juez Especializado que la emitió deberá n
 
 Para efectos del párrafo que antecede, el Juez de Ejecución dentro de los tres días hábiles siguientes a la notificación, instruirá a la Dirección General la elaboración del programa individualizado.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 6 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE AGOSTO DE 2011)</small>
 
 ###### ARTICULO 129.
 
@@ -1381,7 +1389,7 @@ La Dirección General deberá recabar la información necesaria para notificar a
 
 #### Sección I. Adecuación y Cumplimiento Anticipado de la Medida
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE ABRIL DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE ABRIL DE 2011)</small>
 
 ###### ARTICULO 134.
 
@@ -1493,7 +1501,7 @@ El Juez de Ejecución podrá ordenar en cualquier momento a las autoridades admi
 
 Cuando las medidas a que se refiere el artícu7lo (sic) anterior impliquen la protección de la integridad física, salud y seguridad de los menores internos, se harán efectivas de inmediato; cuando dichas medidas impliquen correcciones y adecuaciones en los servicios e instalaciones de los centros de internamiento o de reeducación, el Juez de Ejecución señalará un plazo prudente para que mediante su cumplimiento y ejecución, se garanticen condiciones de vida digna en el interior del centro.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 6 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE AGOSTO DE 2011)</small>
 
 ###### ARTICULO 147.
 
@@ -1729,7 +1737,7 @@ Lic. Alfonso José Castillo Machuca
 
 (Rúbrica)
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 5 DE JULIO DE 2007.
 
@@ -1748,3 +1756,11 @@ P.O. 6 DE AGOSTO DE 2011.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de San Luis Potosí.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan a este.
+
+P.O. 10 DE NOVIEMBRE DE 2011.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+No obstante lo anterior, para la implementación del presente Decreto el Estado contará con un plazo de tres años a partir de su entrada en vigor.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan a este Decreto.
