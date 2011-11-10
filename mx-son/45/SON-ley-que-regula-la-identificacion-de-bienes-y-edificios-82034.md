@@ -4,7 +4,7 @@ identifier: "SON-ley-que-regula-la-identificacion-de-bienes-y-edificios-82034"
 country: "mx"
 rank: "ley"
 publication_date: "2011-06-23"
-last_updated: "2011-06-23"
+last_updated: "2011-11-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=82034&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY QUE REGULA LA IDENTIFICACION DE BIENES Y EDIFICIOS PUBLICOS DEL ESTADO DE SONORA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 10 DE NOVIEMBRE DE 2011.
 
 Ley publicada en la sección III del Boletín Oficial del Estado de Sonora, el jueves 23 de junio del 2011.
 
@@ -97,6 +97,12 @@ Las sanciones administrativas aplicables en caso del incumplimiento de la presen
 
 Se encuentran facultados para vigilar el cumplimiento de la presente ley, la Secretaría de la Contraloría General, el Instituto Superior de Auditoría y Fiscalización, así como las contralorías internas de cada uno de los Poderes del Estado, los ayuntamientos, los órganos constitucionales o legales autónomos y cualquier dependencia o entidad de la administración pública estatal o municipal.
 
+> <small>(ADICIONADO, B.O. 10 DE NOVIEMBRE DE 2011)</small>
+
+###### ARTÍCULO 11.
+
+En el mes de octubre de cada año, los edificios públicos propiedad del Estado y los municipios, así como cualquier persona física o moral que tenga en administración inmuebles destinados a uso público, deberán adoptar acciones necesarias para concientizar sobre la prevención del cáncer de mama y cervicouterino, mediante la decoración, pintura o cualquier otra forma de identificación, del color rosa que se utiliza en las campañas de prevencion de dichos padecimientos.
+
 ## TRANSITORIOS
 
 ###### ARTÍCULO PRIMERO.
@@ -142,3 +148,11 @@ GUILLERMO PADRES ELIAS
 EL SECRETARIO DE GOBIERNO
 
 HECTOR LARIOS CORDOVA
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+B.O. 10 DE NOVIEMBRE DE 2011.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor, el día de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
