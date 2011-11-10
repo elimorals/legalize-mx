@@ -4,7 +4,7 @@ identifier: "SLP-codigo-de-procedimientos-penales-para-el-estado-de-san-luis-181
 country: "mx"
 rank: "codigo"
 publication_date: "2000-09-30"
-last_updated: "2011-10-20"
+last_updated: "2011-11-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18105&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE SAN LUIS POTOSI
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE OCTUBRE DE 2011.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE NOVIEMBRE DE 2011.
 
 Código publicado en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 30 de septiembre de 2000.
 
@@ -162,6 +162,10 @@ Nadie podrá ser sometido a una pena o medida de seguridad, sino mediante proces
 ###### ARTICULO 14.
 
 Es juez competente para conocer de un delito, el del lugar en que se hubiere cometido, y si produce efecto en dos o más distritos judiciales, será competente el Juez de cualquiera de éstos o el que hubiera prevenido en la causa.
+
+> <small>(ADICIONADO, P.O. 10 DE NOVIEMBRE DE 2011)</small>
+
+Si de las constancias se advierte la incompetencia de las autoridades del fuero común, remitirá el expediente al Ministerio Público de la Federación o al juez federal que corresponda, dependiendo de la etapa procesal en que se encuentre, a fin de que se continúe el procedimiento, para lo cual las diligencias desahogadas hasta ese momento por la autoridad considerada incompetente, gozarán de plena validez.
 
 ###### ARTICULO 15.
 
@@ -689,6 +693,10 @@ La probable responsabilidad del inculpado se tendrá por comprobada cuando de lo
 
 Para resolver sobre la probable responsabilidad del inculpado, la autoridad deberá constatar si no existe acreditada en favor de aquél, alguna excluyente de responsabilidad penal u otra causa extintiva de la misma.
 
+> <small>(ADICIONADO, P.O. 10 DE NOVIEMBRE DE 2011)</small>
+
+ARTICULO 107 BIS. Cuando se trate del delito de narcomenudeo, el Ministerio Público o el Juez de la causa, solicitarán la elaboración del dictamen pericial correspondiente, sobre los caracteres organolépticos o químicos de la sustancia considerada como narcótico. El dictamen será rendido dentro de las 48 y 72 horas, respectivamente, cuando hubiere detenido.
+
 ###### ARTICULO 108.
 
 Cuando se trate de lesiones externas, éstas serán objeto de inspección con asistencia de peritos médicos, describiéndolas pormenorizadamente y se recabará dictamen de aquellos peritos que las describan y las clasifiquen en orden a su naturaleza, gravedad, consecuencias y cualquier otra circunstancia atendible para ese fin.
@@ -762,6 +770,10 @@ En el caso de bienes perecederos se hará la devolución a la brevedad posible a
 Tratándose de animales, estos se pondrán a disposición de las autoridades sanitarias o ganaderas, según sea el caso.
 
 De todas las cosas aseguradas se hará un inventario, en el que se les describirá de tal manera que en cualquier tiempo puedan ser identificadas.
+
+> <small>(ADICIONADO, P.O. 10 DE NOVIEMBRE DE 2011)</small>
+
+Cuando se aseguren narcóticos, su destino y destrucción se hará conforme a las disposiciones del Código Federal de Procedimientos Penales.
 
 ###### ARTICULO 119.
 
@@ -1008,6 +1020,60 @@ La garantía se cancelará y, en su caso, se devolverá por el Ministerio Públi
 Cuando el Ministerio Público encargado de practicar diligencias de averiguación previa tenga conocimiento de la probable existencia de un delito que deba perseguirse de oficio, dictará todas las providencias necesarias para proporcionar seguridad y auxilio a las víctimas, para impedir que se pierdan, destruyan o alteren las huellas o vestigios del hecho delictuoso y los instrumentos, u objetos o efectos del mismo; para saber que personas fueron testigos del hecho y, en general, para impedir que se dificulte la averiguación, procediendo a la detención de los que intervinieron en su comisión en los casos de delito flagrante o caso urgente conforme a lo dispuesto por el artículo 16 de la Constitución General de la República, y en los términos de los artículos 129 y 130 de este Código.
 
 Cuando en la integración de la averiguación previa se presuma que por el ejercicio de la profesión médica alguien esté involucrado en la comisión de un posible delito, el Ministerio Público pedirá opinión a los Servicios Coordinados de Salud Pública en el Estado.
+
+> <small>(ADICIONADO, P.O. 10 DE NOVIEMBRE DE 2011)</small>
+
+El Ministerio Público al iniciar la averiguación previa, dará aviso a la autoridad sanitaria correspondiente, cuando un farmacodependiente cometa un delito, a fin de que dicha autoridad intervenga en los términos de las disposiciones aplicables.
+
+> <small>(ADICIONADO, P.O. 10 DE NOVIEMBRE DE 2011)</small>
+
+El Ministerio Público deberá informar oportunamente al Ministerio Público de la Federación del inicio de las averiguaciones previas, relativas al delito de narcomenudeo, a efecto de que éste cuente con los elementos necesarios para, que, en su caso, éste solicite la remisión de la investigación.
+
+> <small>(ADICIONADO, P.O. 10 DE NOVIEMBRE DE 2011)</small>
+
+En los casos en que el conocimiento de la averiguación sea competencia del Ministerio Publico de la Federación, el Ministerio Público del fuero común podrá practicar las diligencias de averiguación previa que correspondan y remitirá a aquél, dentro de los tres días de haberlas concluido, el acta o actas levantadas y todo lo que con ellas se relacione.
+
+> <small>(ADICIONADO, P.O. 10 DE NOVIEMBRE DE 2011)</small>
+
+Si hubiese detenidos, la remisión se hará sin demora y se observarán las disposiciones relativas a la retención ministerial por flagrancia.
+
+> <small>(ADICIONADO, P.O. 10 DE NOVIEMBRE DE 2011)</small>
+
+ARTICULO 154 BIS. Es responsabilidad directa de los servidores públicos, la preservación de los indicios, huellas, vestigios o evidencias del hecho delictuoso, así como los instrumentos, objetos o productos del delito.
+
+En la averiguación previa deberá constar un registro que contenga la identificación de las personas que intervengan en la cadena de custodia, y de quienes estén autorizadas para conocer y manejar los indicios, huellas, vestigios o evidencias del hecho delictuoso, así como los instrumentos, objetos o productos del delito.
+
+Los lineamientos para la preservación de los indicios, huellas, vestigios o evidencias del hecho delictuoso, así como los instrumentos, objetos o productos del delito, que por acuerdo general emita la Procuraduría General de Justicia, detallarán los datos e información necesaria para asegurar la integridad de los mismos.
+
+La cadena de custodia iniciará donde se descubra, encuentre o levante la evidencia física, y finalizará por orden de autoridad competente.
+
+> <small>(ADICIONADO, P.O. 10 DE NOVIEMBRE DE 2011)</small>
+
+ARTICULO 154 TER. Cuando el perito facultado para la preservación del lugar de los hechos o del hallazgo, descubra indicios, huellas o vestigios del hecho delictuoso, así como los instrumentos, objetos o productos del delito, en el lugar de los hechos o del hallazgo, deberá;
+
+I. Informar de inmediato por cualquier medio eficaz y sin demora alguna al Ministerio Público del fuero común, para efectos de la conducción y mando de éste respecto de la investigación;
+
+II. Identificar los indicios, huellas o vestigios del hecho delictuoso, así como los instrumentos, objetos o productos del delito. En todo caso, los describirá y fijará minuciosamente;
+
+III. Recolectar, levantar, embalar técnicamente y etiquetar los indicios, huellas o vestigios del hecho delictuoso, así como los instrumentos, objetos o productos del delito. Deberá describir la forma en que se haya realizado la recolección y levantamiento respectivos, así como las medidas tomadas para asegurar la integridad de los mismos, y
+
+IV. Entregar al Ministerio Público del fuero común todos los indicios, huellas o vestigios del hecho delictuoso, así como los instrumentos, objetos o productos del delito, sus respectivos contenedores y las actas, partes policiales o documentos donde se haya hecho constancia de su estado original, y de lo dispuesto en las fracciones anteriores para efectos de la averiguación y la práctica de las diligencias periciales que éste ordene. En dichos documentos deberá constar la firma autógrafa de los servidores públicos que intervinieron en el procedimiento.
+
+> <small>(ADICIONADO, P.O. 10 DE NOVIEMBRE DE 2011)</small>
+
+ARTICULO 154 QUATER. El Ministerio Público del fuero común se cerciorará de que se han seguido los procedimientos para preservar los indicios, huellas o vestigios del hecho delictuoso, así como los instrumentos, objetos o productos del delito.
+
+Tratándose de los indicios, huellas o vestigios del hecho delictuoso, el Ministerio Público ordenará la práctica de las pruebas periciales que resulten procedentes. Respecto de los instrumentos, objetos o productos del delito ordenará su aseguramiento de conformidad con lo dispuesto en el artículo 118 de este Código, previos los dictámenes periciales a los que hubiere lugar.
+
+En caso de que la recolección, levantamiento y traslado de los indicios, huellas o vestigios del hecho delictuoso, así como los instrumentos, objetos o productos del delito no se haya hecho como lo señala el artículo anterior, el Ministerio Público lo asentará en la averiguación previa y, en su caso, dará vista a la superioridad para efectos de las responsabilidades a las que haya lugar.
+
+> <small>(ADICIONADO, P.O. 10 DE NOVIEMBRE DE 2011)</small>
+
+ARTICULO 154 QUINQUE. Los peritos se cerciorarán del correcto manejo de los indicios, huellas o vestigios del hecho delictuoso, así como de los instrumentos, objetos o productos del delito, y realizarán los peritajes que se le instruyan.
+
+Los dictámenes respectivos serán enviados al Ministerio Público del fuero común para efectos de la averiguación. La evidencia restante será devuelta a la propia autoridad ministerial, quien ordenará su resguardo para posteriores diligencias, o su destrucción si resulta procedente.
+
+Los peritos darán cuenta por escrito al Ministerio Público cuando los indicios, huellas o vestigios del hecho delictuoso, así como los instrumentos, objetos o productos del delito no hayan sido debidamente resguardados, de conformidad con lo dispuesto en los artículos anteriores y demás aplicables, sin perjuicio de la práctica de los peritajes que se les hubieren instruido.
 
 > <small>(REFORMADO, P.O. 4 DE AGOSTO DE 2011)</small>
 
@@ -2647,11 +2713,9 @@ Si se declara fundada la solicitud de reconocimiento de la inocencia del sentenc
 
 ### CAPITULO I. LIBERTAD PROVISIONAL BAJO CAUCION
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE JULIO DE 2011)</small>
-
 ###### ARTICULO 407.
 
-Todo inculpado tendrá derecho a ser puesto en libertad bajo caución, siempre que no se trate de los siguientes delitos considerados como graves: homicidio simple intencional; homicidio calificado; feminicidio; parricidio; aborto; ataque peligroso; privación ilegal de la libertad; secuestro; secuestro exprés; exposición al peligro a que se refiere el artículo 147 Bis del Código Penal del Estado; uso ilícito de equipos de radiocomunicación a que alude el artículo 147 Ter del Código Penal; robo de infante; tráfico de menores; asalto; violación; violación equiparada; abuso sexual calificado; corrupción de personas menores de dieciocho años, o personas que no tienen capacidad para comprender el significado del hecho, o de personas que no tiene (sic) capacidad para resistirlo; pornografía de personas menores de dieciocho años, o personas que no tienen capacidad para comprender el significado del hecho, o de personas que no tiene (sic) capacidad para resistirlo; turismo sexual de personas menores de dieciocho años, o personas que no tienen capacidad para comprender el significado del hecho, o de personas que no tiene (sic) capacidad para resistirlo; lenocinio de personas menores de dieciocho años o personas que no tienen capacidad para comprender el significado del hecho, o de personas que no tiene (sic) capacidad para resistirlo; trata de personas de menores de dieciocho años o personas que no tienen capacidad para comprender el significado del hecho o de personas que no tiene (sic) capacidad para resistirlo; trata de personas a que se refieren los artículos 188 Bis, 188 Ter, 188 Quáter; robo calificado; robo equiparado que señala el artículo 195 BIS del Código Penal del Estado; abigeato, extorsión previsto en los artículos, 212 y 212 Bis de la Ley Sustantiva Penal; rebelión; motín, terrorismo; asociación delictuosa; evasión; tortura; ataque a las vías de comunicación y medios de transporte; homicidio por culpa a que se refiere el artículo 64 del Código Penal del Estado; deslealtad al empleo, cargo o comisión, o perjuicio al servicio público, a que se refiere el párrafo primero del artículo 293 Bis del Código Penal del Estado; y narcomenudeo previsto en los artículos 325 y 326 del Código Penal del Estado.
+Todo inculpado tendrá derecho a ser puesto en libertad bajo caución, siempre que no se trate de los siguientes delitos considerados como graves: homicidio simple intencional; homicidio calificado; parricidio; aborto; ataque peligroso; secuestro; secuestro express; robo de infante; tráfico de menores; asalto; violación; violación equiparada; abuso sexual calificado; corrupción de personas menores de dieciocho años, o personas que no tienen capacidad para comprender el significado del hecho, o de personas que no tiene (sic) capacidad para resistirlo; pornografía de personas menores de dieciocho años, o personas que no tienen capacidad para comprender el significado del hecho, o de personas que no tiene (sic) capacidad para resistirlo; turismo sexual de personas menores de dieciocho años, o personas que no tienen capacidad para comprender el significado del hecho, o de personas que no tiene (sic) capacidad para resistirlo; lenocinio de personas menores de dieciocho años o personas que no tienen capacidad para comprender el significado del hecho, o de personas que no tiene (sic) capacidad para resistirlo; trata de personas de menores de dieciocho años o personas que no tienen capacidad para comprender el significado del hecho, o de personas que no tiene (sic) capacidad para resistirlo; robo calificado; robo equiparado que señala el artículo 195 BIS del Código Penal del Estado; abigeato; extorsión, previsto en los artículos, 212 en sus párrafos segundo y tercero, y 212 BIS del Código Penal del Estado; rebelión; motín, terrorismo; asociación delictuosa; evasión; tortura; ataque a las vías de comunicación y medios de transporte; homicidio por culpa a que se refiere el artículo 64 del Código Penal del Estado; deslealtad al empleo, cargo o comisión, o perjuicio al servicio público, a que se refiere el párrafo primero del artículo 293 Bis del Código Penal del Estado; y narcomenudeo, previsto en los artículos 325 y 326 del Código Penal del Estado.
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
@@ -3822,3 +3886,11 @@ P.O. 20 DE OCTUBRE DE 2011.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan las disposiciones que se opongan a éste.
+
+P.O. 10 DE NOVIEMBRE DE 2011.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+No obstante lo anterior, para la implementación del presente Decreto el Estado contará con un plazo de tres años a partir de su entrada en vigor.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan a este Decreto.
