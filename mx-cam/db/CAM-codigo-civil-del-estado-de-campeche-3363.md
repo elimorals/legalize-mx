@@ -4,7 +4,7 @@ identifier: "CAM-codigo-civil-del-estado-de-campeche-3363"
 country: "mx"
 rank: "codigo"
 publication_date: "1942-10-17"
-last_updated: "2010-12-01"
+last_updated: "2011-11-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3363&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "CAM"
 ---
 # CODIGO CIVIL DEL ESTADO DE CAMPECHE
 
-CODIGO CIVIL DEL ESTADO DE CAMPECHE
+CÓDIGO CIVIL DEL ESTADO DE CAMPECHE
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE DICIEMBRE DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE NOVIEMBRE DE 2011.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Campeche, el 17 de octubre de 1942.
 
@@ -35,7 +35,7 @@ El H. XXXVII Congreso Constitucional del Estado Libre y Soberano de Campeche, de
 
 Número 24
 
-CODIGO CIVIL DEL ESTADO DE CAMPECHE
+CÓDIGO CIVIL DEL ESTADO DE CAMPECHE
 
 Disposiciones preliminares.
 
@@ -1137,6 +1137,10 @@ Del contrato de matrimonio con relación a los bienes.
 
 Disposiciones generales.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2011)</small>
+
 ###### Art. 173.
 
 Los cónyuges están obligados a contribuir cada uno por su parte a los fines del matrimonio y a socorrerse mutuamente.
@@ -1225,7 +1229,9 @@ De la sociedad conyugal.
 
 ###### Art. 189.
 
-El contrato de matrimonio puede celebrarse bajo el régimen de sociedad conyugal o de separación de bienes. Si no se pactan capitulaciones matrimoniales, se entiende celebrado el matrimonio bajo el régimen de separación de bienes y se regirá por lo dispuesto en el Capítulo VI de este Título.
+El contrato de matrimonio puede celebrarse bajo el régimen de sociedad conyugal o de separación de bienes. Los contrayentes deberán manifestar el régimen bajo el cual desean contraer matrimonio, lo cual quedará asentado en el acta respectiva, conforme a lo que establece la fracción VI del artículo 113 del presente Código.
+
+El Oficial del Registro Civil explicará a los contrayentes en qué consiste cada uno de los regímenes señalados. Hecha la explicación los contrayentes manifestarán su voluntad al respecto.
 
 ###### Art. 190.
 
@@ -7717,7 +7723,7 @@ En el caso del artículo anterior, la elección es del que debe pagar el legado,
 
 ###### Art. 1365.
 
-Si el testador concede expresamente la elección al legatario, éste podrá, si hubiere varias cosas del género determinado, escoger la mejor, pero si no las hay sólo podrá exigir una de mediana calidad o el precio que le corresponda.
+Si el testador concede expresamente la elección al legatario, éste podrá, si hubiere varias cosas del género determinado, escoger la mejor, pero si no las hay, sólo podrá exigir una de mediana calidad o el precio que le corresponda.
 
 ###### Art. 1366.
 
@@ -16092,6 +16098,12 @@ P. O. 1 DE DICIEMBRE DE 2010.
 PRIMERO.- El presente decreto entrará en vigor 15 días después de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones legales y administrativas en lo que se opongan al presente decreto.
+
+P.O. 10 DE NOVIEMBRE DE 2011.
+
+PRIMERO.- El presente decreto entrará en vigor treinta días después de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias en lo que se opongan al contenido del presente decreto.
 
 ## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 207 POR EL QUE "ARTICULO UNICO.- ART. 2902".]
 
