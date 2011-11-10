@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-ejecucion-de-penas-y-medidas-de-seguridad-para-el-12202"
 country: "mx"
 rank: "ley"
 publication_date: "1995-12-11"
-last_updated: "2011-06-18"
+last_updated: "2011-11-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12202&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -20,6 +20,8 @@ issue_date: "1995-12-08"
 state: "SLP"
 ---
 # LEY DE EJECUCION DE PENAS Y MEDIDAS DE SEGURIDAD PARA EL ESTADO DE SAN LUIS POTOSI
+
+> <small>N. DE E. EL PRESENTE DECRETO 761 BIS FUE REFORMADO POR EL CONGRESO DEL ESTADO EN LA SESION DEL 25 DE NOVIEMBRE DE 2010 Y PUBLICADO EL 10 DE NOVIEMBRE DE 2011. EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO DE CONFORMIDAD CON EL SEGUNDO TRANSITORIO DE LA LEY DEL SISTEMA PENITENCIARIO DEL ESTADO DE SAN LUIS POTOSI, PUBLICADA EN LA EDICION EXTRAORDINARIA DEL P.O. DE FECHA 18 DE JUNIO DE 2011. POR LO QUE SE SUGIERE CONSULTAR LAS PUBLICACIONES OFICIALES DE ESAS FECHAS.</small>
 
 LEY DE EJECUCION DE PENAS Y MEDIDAS DE SEGURIDAD PARA EL ESTADO DE SAN LUIS POTOSI
 
@@ -335,11 +337,13 @@ Con autorización del director del centro, los profesores promoverán conferenci
 
 DE LA ASISTENCIA MEDICA Y PSIQUIATRICA.
 
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2011)</small>
+
 ###### ARTICULO 48.
 
-Los centros de reclusión contarán con un lugar apropiado, así como con personal capacitado, mobiliario, instrumental y productos farmacéuticos para proporcionar a los internos la asistencia médica necesaria.
+Los centros de reclusión contarán con un lugar apropiado, así como con personal capacitado, mobiliario, instrumental y productos farmacéuticos para proporcionar a los internos la asistencia médica necesaria; así como servicios de rehabilitación al farmacodependiente.
 
-En los casos en que se requiera una atención urgente o especializada, aquellos serán canalizados a los hospitales, bajo la estricta responsabilidad de los directores de prisión o alcaides, previa autorización de la autoridad correspondiente.
+En los casos en que se requiera una atención urgente o especializada, aquellos serán canalizados a los hospitales o instituciones especializadas, bajo la estricta responsabilidad de los directores de prisión o alcaides, previa autorización de la autoridad correspondiente.
 
 ###### ARTICULO 49.
 
@@ -449,7 +453,9 @@ DE LA LIBERTAD PREPARATORIA.
 
 Se concederá libertad preparatoria al sentenciado que haya cumplido la mitad de la pena si se trata de delitos culposos y, en caso de delitos dolosos, cuando haya cumplido las dos terceras partes de la misma, y a juicio del Consejo Técnico Central, cubra los siguientes requisitos y condiciones:
 
-I.- Que haya observado buena conducta durante su reclusión, sin limitarse a las formalidades, sino que también debe acreditar ante el consejo su mejoramiento cultural y social, además de la superación en el trabajo;
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2011)</small>
+
+I.- Que haya observado buena conducta durante su reclusión, sin limitarse a las formalidades, sino que también debe acreditar ante el consejo su mejoramiento cultural y social, además de la superación en el trabajo. No será considerado en su perjuicio el hecho de que sea o haya sido farmacodependiente; pero sí se exigirá en todo caso, que el sentenciado se someta al tratamiento médico correspondiente para su rehabilitación, bajo vigilancia de la autoridad ejecutora;
 
 II.- Que del examen de personalidad pueda presumirse que ha alcanzado las metas aceptables de readaptación;
 
@@ -457,19 +463,23 @@ II.- Que del examen de personalidad pueda presumirse que ha alcanzado las metas 
 
 III.- Que en su caso, haya hecho el pago de la reparación del daño a las víctimas del delito, cuando la sentencia penal así lo consigne, cubierto la multa que se le haya impuesto y que presente carta de trabajo, ocupación o actividad lícita a desempeñar durante su vida en libertad;
 
-IV.- Que una persona solvente y honesta, con arraigo en el lugar donde habrá de radicar, se obligue a presentarlo siempre que sea requerido y a pagar la cantidad que se fije de garantía, la que no será menor al equivalente a quince días de salario mínimo; y
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2011)</small>
 
-V.- Cumplidos los anteriores requisitos, la Dirección General podrá aprobar la solicitud de libertad preparatoria, con sujeción a las siguientes condiciones:
+IV.- Que una persona solvente y honesta, con arraigo en el lugar donde habrá de radicar, se obligue a presentarlo siempre que sea requerido y a pagar la cantidad que se fije de garantía, la que no será menor al equivalente a quince días de salario mínimo;
 
-a).- El liberado deberá residir en lugar determinado, no pudiendo cambiar de domicilio sin autorización previa de la Dirección General. La ubicación del lugar de residencia se hará considerando las posibilidades de que el liberado pueda mantener su planta de empleo, debiendo observarse que el lugar no resulte un obstáculo para su enmienda;
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2011)</small>
 
-b).- Que el liberado se abstenga del uso de bebidas embriagantes y drogas, a excepción de las que le sean prescritas por el médico; y
+V.- Que, en su caso, el farmacodependiente se haya sometido al tratamiento médico respectivo para su rehabilitación, cuando la sentencia penal así lo consigne, y
+
+> <small>(ADICIONADA, P.O. 10 DE NOVIEMBRE DE 2011)</small>
+
+VI.- Cumplidos los anteriores requisitos, la Dirección General podrá aprobar la solicitud de libertad preparatoria, con sujeción a las siguientes condiciones:
+
+a).- El liberado deberá residir en lugar determinado, no pudiendo cambiar de domicilio sin autorización previa de la Dirección General. La ubicación del lugar de residencia se hará considerando las posibilidades de que el liberado pueda mantener su planta de empleo, debiendo observarse que el lugar no resulte un obstáculo para su enmienda.
+
+b).- Que el liberado se abstenga del uso de bebidas embriagantes y drogas, a excepción de las que le sean prescritas por el médico.
 
 c).- Que se sujete el liberado al tratamiento y a las medidas de orientación y supervisión que le sean dictadas.
-
-> <small>(REFORMADO, P.O. 4 DE OCTUBRE DE 2000)</small>
-
-Los sentenciados por los delitos de homicidio a que se refieren los artículos 111, 112 y 113; parricidio a que se refiere el artículo 127; secuestro a que se refiere el artículo 135, robo de infante o incapaces a que se refiere el artículo 137, trafico de menores a que se refiere el artículo 140, asalto a que se refiere el artículo 144, violación a que se refieren los artículos 150, 152, 153, 154 y 155, corrupción de menores a que se refieren los artículos 181 y 183, robo calificado a que se refiere el artículo 200, abigeato a que se refiere el artículo 216, terrorismo a que se refiere el artículo 251, asociación delictuosa a que se refiere el artículo 265, evasión a que se refieren los artículos 268 y 270; y tortura a que se refiere el artículo 282, todos del Código Penal del Estado de San Luis Potosí; no tendrán derecho a la libertad preparatoria establecida en este artículo.
 
 ###### ARTICULO 68.
 
@@ -652,3 +662,11 @@ TERCERO. El Ejecutivo del Estado deberá expedir en un plazo de ciento ochenta d
 CUARTO. El Poder Ejecutivo del Estado continuará con los trámites de los beneficios de libertad anticipada a favor de aquellos internos sentenciados que deban obtener su libertad antes de la entrada en vigor de esta Ley; debiendo hacer entrega al Poder Judicial de los expedientes de las personas que se encuentran a su disposición gozando de un beneficio de libertad anticipada, a efecto de que a partir de la entrada en vigor de la presente Ley, el juez de ejecución resuelva lo que en derecho proceda.
 
 La Dirección General de Prevención y Readaptación Social notificará a los sentenciados en libertad anticipada, que a partir de la entrada en vigor de esta Ley, quedarán a disposición del juez de ejecución, y continuarán cumpliendo su sanción con las modalidades y condiciones previamente otorgadas.
+
+P.O. 10 DE NOVIEMBRE DE 2011.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+No obstante lo anterior, para la implementación del presente Decreto el Estado contará con un plazo de tres años a partir de su entrada en vigor
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan a este Decreto.
