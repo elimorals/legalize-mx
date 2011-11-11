@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-responsabilidades-de-los-servidores-publicos-del-6118"
 country: "mx"
 rank: "ley"
 publication_date: "1990-09-11"
-last_updated: "2010-09-03"
+last_updated: "2011-11-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6118&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "MEX"
 ---
 # LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS DEL ESTADO Y MUNICIPIOS
 
-LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS DEL ESTADO Y MUNICIPIOS
+LEY DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS DEL ESTADO Y MUNICIPIOS
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 3 DE SEPTIEMBRE DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 11 DE NOVIEMBRE DE 2011.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el martes 11 de septiembre de 1990.
 
@@ -487,9 +487,9 @@ Para los efectos de esta Ley, se entenderá por Secretaría, a la Secretaría de
 
 Para los mismos efectos, en el Poder Ejecutivo se entenderá por superior jerárquico al titular de la dependencia correspondiente y en los organismos auxiliares y fideicomisos públicos al coordinador del sector, quienes aplicarán las sanciones disciplinarias cuya imposición se deriva de esta ley.
 
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 1998)</small>
+> <small>(REFORMADO, G.G. 11 DE NOVIEMBRE DE 2011)</small>
 
-En los poderes Legislativo y Judicial, serán superiores jerárquicos para efectos de esta ley, el Presidente de la Gran Comisión y el Presidente del Consejo de la Judicatura del Estado, respectivamente, quienes aplicarán las sanciones disciplinarias que establece la misma, salvo lo que dispongan sus respectivas leyes orgánicas.
+En los poderes Legislativo y Judicial, serán superiores jerárquicos para efectos de esta Ley, el Presidente de la Junta de Coordinación Política y el Presidente del Consejo de la Judicatura del Estado, respectivamente, quienes aplicarán las sanciones disciplinarias que establece la misma, salvo lo que dispongan sus respectivas leyes orgánicas.
 
 > <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 1998)</small>
 
@@ -733,9 +733,9 @@ Las sanciones económicas que se impongan, constituirán créditos fiscales del 
 
 El superior jerárquico será competente para ejecutar las resoluciones administrativas por las que se impongan las sanciones de amonestación, suspensión y destitución.
 
-> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 1998)</small>
+> <small>(REFORMADO, G.G. 11 DE NOVIEMBRE DE 2011)</small>
 
-La sanción de inhabilitación se ejecutará por la Secretaría, el Consejo de la Judicatura, el Presiente de la Gran Comisión o los presidentes municipales.
+La sanción de inhabilitación se ejecutará por la Secretaría, el Consejo de la Judicatura, el Presidente de la Junta de Coordinación Política o los presidentes municipales.
 
 > <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 1998)</small>
 
@@ -1216,3 +1216,9 @@ G.G. 3 DE SEPTIEMBRE DE 2010.
 PRIMERO.- Publíquese el presente Decreto en el periódico oficial "Gaceta del Gobierno" del Estado de México.
 
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "Gaceta del Gobierno" del Estado de México.
+
+G.G. 11 DE NOVIEMBRE DE 2011.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial Gaceta del Gobierno.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
