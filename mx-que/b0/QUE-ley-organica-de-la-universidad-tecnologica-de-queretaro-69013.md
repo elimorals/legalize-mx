@@ -4,7 +4,7 @@ identifier: "QUE-ley-organica-de-la-universidad-tecnologica-de-queretaro-69013"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2009-06-17"
-last_updated: "2009-10-14"
+last_updated: "2011-11-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69013&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "QUE"
 ---
 # LEY ORGANICA DE LA UNIVERSIDAD TECNOLOGICA DE QUERETARO
 
-LEY ORGANICA DE LA UNIVERSIDAD TECNOLOGICA DE QUERETARO
+LEY ORGÁNICA DE LA UNIVERSIDAD TECNOLÓGICA DE QUERÉTARO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE OCTUBRE DE 2009.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TERCERO TRANSITORIO DE LA LEY ORGÁNICA DE LA UNIVERSIDAD TECNOLÓGICA DE QUERÉTARO, PUBLICADA EN EL P.O. 11 DE NOVIEMBRE DE 2011, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el miércoles 17 de junio de 2009.
 
@@ -448,3 +450,11 @@ P.O. 14 DE OCTUBRE DE 2009.
 Artículo Primero. La presente Ley entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
 
 Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente.
+
+P.O. 11 DE NOVIEMBRE DE 2011.
+
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
+
+Artículo Segundo. La Universidad Tecnológica de Querétaro, contará con un plazo de sesenta días naturales, posteriores al inicio de vigencia de esta Ley, para adecuar todas las disposiciones reglamentarias que correspondan.
+
+Artículo Tercero. Se abroga la Ley Orgánica de la Universidad Tecnológica de Querétaro, publicada en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga", No. 42, de fecha 17 de junio de 2009.
