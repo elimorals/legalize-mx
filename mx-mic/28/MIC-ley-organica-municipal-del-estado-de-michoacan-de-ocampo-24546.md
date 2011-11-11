@@ -4,7 +4,7 @@ identifier: "MIC-ley-organica-municipal-del-estado-de-michoacan-de-ocampo-24546"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2001-12-31"
-last_updated: "2011-05-24"
+last_updated: "2011-11-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=24546&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY ORGANICA MUNICIPAL DEL ESTADO DE MICHOACAN DE OCAMPO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE MAYO DE 2011.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE NOVIEMBRE DE 2011.
 
 Ley publicada en la Sección Décima del Periódico Oficial del Estado de Michoacán, el lunes 31 de diciembre de 2001.
 
@@ -429,9 +429,11 @@ Por cada síndico y por cada uno de los regidores, se elegirá un suplente.
 
 El Ayuntamiento residirá en la cabecera del municipio, y solo podrá cambiar su residencia con la aprobación del Congreso del Estado, por mayoría de votos de los diputados presentes, previo estudio que lo justifique.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE NOVIEMBRE DE 2011)</small>
+
 ###### Artículo 16.
 
-Los cargos de Presidente Municipal, Síndico y Regidores de un Ayuntamiento, son obligatorios pero no gratuitos, su remuneración se fijará en los presupuestos de egresos correspondientes y se publicará en los informes trimestrales.
+Los cargos de Presidente Municipal, Síndico y Regidores de un Ayuntamiento, son obligatorios pero no gratuitos, su remuneración se fijará en los presupuestos de egresos correspondientes y se publicará en los estrados y permanentemente en la página electrónica del Ayuntamiento respectivo, a más tardar a los cinco días naturales de la aprobación del presupuesto de egresos para el periodo correspondiente.
 
 Estos cargos sólo podrán ser renunciables por causa grave que califique el Ayuntamiento con sujeción a esta Ley.
 
@@ -447,17 +449,25 @@ Los miembros electos del Ayuntamiento tomarán posesión de su cargo, en un acto
 
 Sólo por causas consignadas en el Código Electoral del Estado, los Ayuntamientos podrán instalarse en fecha posterior.
 
+> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 2011)</small>
+
 ###### Artículo 19.
 
-Para efectos de la instalación del Ayuntamiento, en la última sesión ordinaria del mes inmediato anterior a la fecha de terminación de la gestión del Ayuntamiento saliente, se nombrará una comisión instaladora del Ayuntamiento electo, la cual estará encabezada por el Síndico Municipal.
+Para efectos de la instalación del Ayuntamiento, en la última sesión ordinaria del mes inmediato anterior a la fecha de terminación de la gestión del Ayuntamiento saliente, se nombrará una Comisión instaladora del Ayuntamiento electo, la cual estará integrada por el Síndico Municipal quien la encabeza, el Síndico electo, un regidor en funciones y otro electo.
 
-La comisión instaladora, previo acuerdo con el Presidente electo, convocará a los integrantes del Ayuntamiento electo, de conformidad con la constancia de mayoría emitida por el órgano correspondiente o, en su caso la resolución del Tribunal Estatal Electoral, para que acudan a la sesión solemne de instalación; la invitación se hará extensiva a la comunidad en general.
+La comisión instaladora, previo acuerdo con el Presidente electo, convocará a los integrantes del Ayuntamiento electo, de conformidad con la constancia de mayoría emitida por el órgano correspondiente o, en su caso la resolución del Tribunal Estatal Electoral, al menos con anticipación de cinco días naturales para que concurran a la sesión solemne de instalación.
 
-La invitación deberá incluir lugar, fecha y hora de la sesión, así como el orden del día correspondiente.
+El Presidente electo, propondrá el lugar y la hora en que se celebrará la sesión solemne, debiendo ser invariablemente en la cabecera municipal respectiva.
 
-La comisión instaladora del Ayuntamiento electo deberá citar a los integrantes propietarios del mismo, al menos con anticipación de cinco días naturales, para que concurran a la sesión de instalación.
+La invitación para asistir a dicha sesión se hará extensiva a la comunidad en general debiendo incluir lugar, fecha y hora de la sesión, así como la orden del día correspondiente.
 
-El Ayuntamiento electo, en reunión previa a la sesión de instalación, designará de entre sus integrantes a un secretario, para el único efecto de levantar el acta de instalación.
+El Ayuntamiento electo, en reunión previa a la sesión de instalación, designará de entre sus integrantes a un secretario para levantar el acta de instalación, mismo que durará en dicho encargo hasta la sesión donde se designe al Secretario del Ayuntamiento.
+
+> <small>(ADICIONADO, P.O. 11 DE NOVIEMBRE DE 2011)</small>
+
+###### Artículo 19 Bis.
+
+Una vez terminada el acta de instalación del Ayuntamiento, el integrante del ayuntamiento electo, en funciones de secretario, previo acuerdo con el Presidente, procederá a citar a los integrantes del Ayuntamiento a una sesión extraordinaria para realizar el nombramiento de Secretario del Ayuntamiento y Tesorero Municipal, durante los cinco días naturales siguientes a la instalación del nuevo Ayuntamiento.
 
 ###### Artículo 20.
 
@@ -505,9 +515,15 @@ IX. La documentación relativa a los proyectos aprobados y ejecutados, así como
 
 X. El registro, inventario, catálogo y resguardo de bienes muebles e inmuebles propiedad del municipio, así como el inventario de los bienes inmuebles propiedad del municipio que se encuentren en comodato;
 
-XI. La documentación relativa al estado que guardan los asuntos tratados por las comisiones del Ayuntamiento; y,
+XI. La documentación relativa al estado que guardan los asuntos tratados por las comisiones del Ayuntamiento; y, (sic)
 
-XII. La demás información que se considere importante para garantizar la continuidad de la administración pública municipal.
+> <small>(REFORMADA, P.O. 11 DE NOVIEMBRE DE 2011)</small>
+
+XII. La información relativa a los procedimientos jurisdiccionales o administrativos en materia laboral, civil, penal o cualquier otra en que el ayuntamiento sea parte, así como los asuntos en trámite, debiendo hacerlo de inmediato.
+
+> <small>(ADICIONADA, P.O. 11 DE NOVIEMBRE DE 2011)</small>
+
+XIII. La demás información que se considere importante para garantizar la continuidad de la Administración Pública Municipal.
 
 ###### Artículo 23.
 
@@ -2660,6 +2676,12 @@ P.O. 5 DE MAYO DE 2010.
 ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado Michoacán de Ocampo.
 
 P.O. 24 DE MAYO DE 2011.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 11 DE NOVIEMBRE DE 2011.
 
 ###### ARTÍCULO ÚNICO.
 
