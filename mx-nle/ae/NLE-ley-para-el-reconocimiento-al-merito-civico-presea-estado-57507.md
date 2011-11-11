@@ -4,7 +4,7 @@ identifier: "NLE-ley-para-el-reconocimiento-al-merito-civico-presea-estado-57507
 country: "mx"
 rank: "ley"
 publication_date: "2007-11-07"
-last_updated: "2009-04-08"
+last_updated: "2011-11-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57507&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "NLE"
 ---
 # LEY PARA EL RECONOCIMIENTO AL MERITO CIVICO "PRESEA ESTADO DE NUEVO LEON"
 
-LEY PARA EL RECONOCIMIENTO AL MERITO CIVICO "PRESEA ESTADO DE NUEVO LEON"
+LEY PARA EL RECONOCIMIENTO AL MÉRITO CÍVICO "PRESEA ESTADO DE NUEVO LEÓN"
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE ABRIL DE 2009.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE NOVIEMBRE DE 2011.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el miércoles 7 de noviembre de 2007.
 
@@ -251,9 +251,17 @@ I. No cumplan en forma y fondo con cualquiera de los requisitos de esta Ley;
 
 II. Por no haberse reunido el expediente por falta de información;
 
-III. Si la persona a quien se pretende otorgar el Reconocimiento, falleció antes del año al que corresponda la premiación, en términos del artículo 3 del presente ordenamiento; y
+> <small>(REFORMADA, P.O. 11 DE NOVIEMBRE DE 2011)</small>
 
-IV. Los demás que señale esta Ley.
+III. Si la persona a quien se pretende otorgar el Reconocimiento, falleció antes del año al que corresponda la premiación, en términos del Artículo 3 del presente ordenamiento;
+
+> <small>(REFORMADA, P.O. 11 DE NOVIEMBRE DE 2011)</small>
+
+IV. Si la persona propuesta a recibir el reconocimiento es miembro del Consejo o del jurado al efecto; y
+
+> <small>(ADICIONADA, P.O. 11 DE NOVIEMBRE DE 2011)</small>
+
+V. Los demás que señale esta Ley.
 
 ###### Artículo 26.
 
@@ -346,3 +354,9 @@ Segundo.- El Consejo Estatal para la Promoción de Valores y Cultura de la Legal
 Tercero.- El Consejo Estatal para la Promoción de Valores y Cultura de la Legalidad, dentro de un plazo no mayor a noventa días naturales, contados a partir de la entrada en vigor del presente Decreto, deberá aprobar la ubicación y características del Recinto, para su remisión al Ejecutivo del Estado.
 
 Cuarto.- El Ejecutivo, a través de la Secretaria de Finanzas y Tesorería General del Estado, determinará la reasignación presupuestal que corresponda para la realización del Recinto de los Hombres y Mujeres Ilustres del Estado de Nuevo León dentro del ejercicio fiscal 2009.
+
+P.O. 11 DE NOVIEMBRE DE 2011.
+
+Primero.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- El Titular del Poder Ejecutivo del Estado, adecuará el Reglamento de la Ley reformada, con las disposiciones de este Decreto, en un plazo no mayor a sesenta días naturales, contados a partir de la entrada en vigor del mismo.
