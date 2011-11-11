@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-del-poder-legislativo-del-estado-libre-y-6088"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-09-15"
-last_updated: "2011-11-10"
+last_updated: "2011-11-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6088&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 10 DE NOVIEMBRE DE 2011.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 11 DE NOVIEMBRE DE 2011.
 
 Ley publicada en la Tercera Sección de la Gaceta del Gobierno del Estado de México, el viernes 15 de septiembre de 1995.
 
@@ -227,7 +227,9 @@ I. Rendir protesta para asumir el cargo;
 
 II. Asistir a las juntas, a las sesiones de la Legislatura y de la Diputación Permanente cuando formen parte de ésta;
 
-III. Participar en los trabajos de las comisiones y comités de que forme parte;
+> <small>(REFORMADA, G.G. 11 DE NOVIEMBRE DE 2011)</small>
+
+III. Participar en los trabajos de las comisiones y comités de que forme parte y difundir las leyes que emanen del Poder Legislativo, durante su gestión a los habitantes del Estado de México;
 
 IV. Observar y cumplir las normas de la ley y el reglamento;
 
@@ -1940,3 +1942,9 @@ G.G. 10 DE NOVIEMBRE DE 2011.
 PRIMERO.- Publíquese este Decreto en el Periódico Oficial "Gaceta del Gobierno".
 
 SEGUNDO.- Este Decreto entrará en vigor el día de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 11 DE NOVIEMBRE DE 2011.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
