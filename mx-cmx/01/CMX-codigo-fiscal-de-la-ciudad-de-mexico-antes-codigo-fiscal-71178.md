@@ -4,7 +4,7 @@ identifier: "CMX-codigo-fiscal-de-la-ciudad-de-mexico-antes-codigo-fiscal-71178"
 country: "mx"
 rank: "codigo"
 publication_date: "2009-12-29"
-last_updated: "2011-09-01"
+last_updated: "2011-11-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=71178&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2009-12-28"
 
 CODIGO FISCAL DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 1 DE SEPTIEMBRE DE 2011.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 11 DE NOVIEMBRE DE 2011.
 
 Código publicado en la Gaceta Oficial del Distrito Federal, el martes 29 de diciembre de 2009.
 
@@ -1204,25 +1204,33 @@ d). Otros medios que permita el avance tecnológico en la materia.
 
 Las autoridades fiscales podrán determinar presuntivamente el consumo de agua, cuando:
 
-I. La toma carezca de medidor autorizado por la normatividad aplicable;
+I. (DEROGADA, G.O. 11 DE NOVIEMBRE DE 2011)
 
-II. Se trate de tomas no registradas, para lo que se calcularán los derechos a pagar por los últimos cinco años;
+> <small>(REFORMADA, G.O. 11 DE NOVIEMBRE DE 2011)</small>
+
+II. Se trate de tomas no registradas para lo que se calcularán los derechos a pagar por los últimos cinco años.
 
 III. Se retire el medidor sin la autorización correspondiente o los medidores hayan sido cambiados de lugar o retirados sin autorización de las autoridades competentes;
 
-IV. El contribuyente impida u obstaculice la lectura, verificación e instalación de aparatos medidores, así como la iniciación o desarrollo de las facultades de comprobación de las autoridades;
+> <small>(REFORMADA, G.O. 11 DE NOVIEMBRE DE 2011)</small>
+
+IV. El contribuyente o usuario impida u obstaculice la lectura, verificación e instalación de aparatos medidores, así como la iniciación o desarrollo de las facultades de comprobación de las autoridades siempre que éstas acrediten ser funcionarios de la institución con la correspondiente orden de trabajo.
 
 V. No declaren el consumo de agua en los términos del artículo 174 de este Código;
 
-VI. No funcione el medidor o exista cualquier situación que impida su lectura, cuando se compruebe ante la autoridad fiscal que dichas circunstancias no son imputables al usuario, y no reporten esta situación a la autoridad competente;
+VI. (DEROGADA, G.O. 11 DE NOVIEMBRE DE 2011)
 
 VII. Estén rotos los sellos del medidor o se haya alterado su funcionamiento;
 
 VIII. Se lleven a cabo instalaciones hidráulicas, así como derivaciones de agua, sin la autorización respectiva, o cuando se realicen modificaciones o manipulaciones a los ramales de las tuberías de distribución;
 
-IX. Existan circunstancias que impidan u obstaculicen la lectura, verificación e instalación de aparatos medidores, así como la iniciación o desarrollo de las facultades de comprobación de las autoridades fiscales. La determinación presuntiva a que se refiere este artículo, procederá independientemente de los recargos y sanciones a que haya lugar, y
+IX. (DEROGADA, G.O. 11 DE NOVIEMBRE DE 2011)
 
 X. El Sistema de Aguas de la Ciudad de México, detecte un uso diferente al registrado en su padrón de usuarios y el contribuyente no lo haya notificado en términos de lo dispuesto en los artículos 56, inciso b) y 176, fracción V de este Código.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 11 DE NOVIEMBRE DE 2011)</small>
+
+La determinación presuntiva a que se refiere este artículo, procederá independientemente de los recargos y sanciones a que haya lugar.
 
 ###### ARTICULO 82.
 
@@ -1230,19 +1238,21 @@ Para efectos de la determinación prevista en el artículo anterior, las autorid
 
 I. Tomando como base dos lecturas que se hagan al aparato medidor instalado en la toma de agua, al aparato instalado cuando la toma no hubiere contado con él o al aparato medidor cuando se encuentre funcionando correctamente con motivo de su reparación, las cuales corresponderán a un lapso que en ningún caso será inferior a siete días;
 
-II. Con otra información obtenida por las autoridades fiscales en el ejercicio de sus facultades de comprobación, y
-
-III. Emplear medios indirectos de investigación de cualquier clase, que las autoridades administrativas utilicen, siendo entre otros:
-
-a). Los datos aportados por los propios contribuyentes en declaraciones presentadas ante las autoridades fiscales federales o del Distrito Federal;
-
-b). Información proporcionada por terceros a solicitud de la autoridad fiscal;
-
-c). Cualquier otra información obtenida por la autoridad fiscal en ejercicio de sus facultades, que incluye información estadística derivada de los registros históricos de consumos del propio contribuyente, y
-
-d). Otros medios que permita el avance tecnológico en la materia.
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 11 DE NOVIEMBRE DE 2011)</small>
 
 Cuando la determinación del consumo de agua bimestral se haga con base en lecturas, se obtendrá la diferencia de las lecturas y ésta será dividida entre el número de días naturales transcurridos entre ellas, para obtener el consumo promedio diario, el cual se multiplicará por los días naturales de cada bimestre.
+
+> <small>(REFORMADA, G.O. 11 DE NOVIEMBRE DE 2011)</small>
+
+II. Los datos aportados por los propios contribuyentes en declaraciones presentadas ante las autoridades fiscales federales o del Distrito Federal;
+
+> <small>(REFORMADA, G.O. 11 DE NOVIEMBRE DE 2011)</small>
+
+III. Cualquier otra información obtenida por la autoridad fiscal en ejercicio de sus facultades, que incluye información estadística derivada de los registros históricos de consumos del propio contribuyente;
+
+> <small>(REFORMADO, G.O. 11 DE NOVIEMBRE DE 2011)</small>
+
+Cuando la autoridad fiscal implemente alguno de los mecanismos dispuestos en el presente artículo, tendrá la obligación de informar al contribuyente o usuario, de manera detallada y fehaciente, cuál de estos mecanismos fue aplicado.
 
 ###### ARTICULO 83.
 
@@ -2918,9 +2928,13 @@ Para los consumos mayores a 120,000 litros se cobrarán por cada 1,000 litros ad
 
 Las autoridades fiscales determinarán el consumo de agua por medio de la lectura de los aparatos medidores, con base en el promedio de consumo diario resultante de las dos lecturas más recientes con antigüedad no mayor de ciento veinte días.
 
-> <small>(ADICIONADO, G.O. 19 DE MAYO DE 2011)</small>
+> <small>(REFORMADO, G.O. 11 DE NOVIEMBRE DE 2011)</small>
 
-Para aquellos usuarios localizados en una zona con dictamen técnico emitido por el Sistema de Aguas, cuya colonia aparezca en la lista anual publicada en la Gaceta Oficial del Distrito Federal, que cataloga el suministro de agua como irregular no estarán obligados a instalar el medidor, y aún teniéndolo, sólo les será aplicable la cuota fija y el subsidio que les corresponda conforme a la manzana y tipo de uso; por lo que el Sistema de Aguas, de manera automática procederá a la facturación en cuota fija, sin que el usuario requiera trámite adicional alguno para realizar su pago en esta modalidad.
+Para aquellos usuarios localizados en una zona con dictamen técnico emitido por el Sistema de Aguas, cuya colonia aparezca en la lista anual publicada en la Gaceta oficial del Distrito Federal, que cataloga el suministro de agua como irregular no estarán obligados a instalar medidor, y aún teniéndolo, sólo les será aplicable la cuota fija y el subsidio que les corresponda conforme a la manzana y tipo de uso; por lo que el Sistema de Aguas, de manera automática procederá a la facturación en cuota fija, sin que el usuario requiera trámite adicional alguno para realizar su pago en esta modalidad.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 11 DE NOVIEMBRE DE 2011)</small>
+
+Los usuarios a que se refiere el párrafo anterior, podrán renunciar a este beneficio y mantenerse en el esquema de servicio medido, si lo solicitan por escrito ante el Sistema de Aguas.
 
 > <small>(REFORMADA, G.O. 19 DE MAYO DE 2011)</small>
 
@@ -3128,17 +3142,19 @@ Cuando al usuario le sea cobrado el suministro de agua mediante la aplicación d
 
 IV. (DEROGADO PRIMER PARRAFO, G.O. 19 DE MAYO DE 2011)
 
-(ADICIONADO, G.O. 24 DE DICIEMBRE DE 2010) (REPUBLICADO, G.O. 30 DE DICIEMBRE DE 2010)
+> <small>(REFORMADO, G.O. 11 DE NOVIEMBRE DE 2011)</small>
 
-El contribuyente podrá pagar los derechos por el suministro de agua de que se trate, de conformidad con la tarifa correspondiente, pudiendo renunciar a la aplicación de los subsidios que se establecen en las fracciones I, II y III del presente artículo, comunicándolo por escrito al Sistema de Aguas de la Ciudad de México, que publicitará el procedimiento requerido.
+El contribuyente podrá pagar los derechos por el suministro de agua de que se trate, de conformidad con la tarifa correspondiente, pudiendo renunciar a la aplicación de los subsidios que establecen las fracciones I, II y III del presente artículo, o bien optar por un subsidio menor comunicándolo por escrito al Sistema de Aguas de la Ciudad de México, que publicará el procedimiento requerido.
 
-> <small>(ADICIONADA, G.O. 30 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADA, G.O. 11 DE NOVIEMBRE DE 2011)</small>
 
-V. Aquel contribuyente que considere que la clasificación de manzana para el otorgamiento de subsidio donde se ubique la toma de agua no corresponde al determinado por este Código con base en el Índice de Desarrollo por manzana, podrá acudir a la Tesorería del Distrito Federal, a través de las Administraciones Tributarias a presentar su solicitud de reclasificación.
+V. Aquel contribuyente o usuario que considere que la clasificación de manzana para el otorgamiento de subsidio donde se ubique su toma de agua no corresponde a la realidad socioeconómica del contribuyente o usuario, con uso doméstico, o doméstico y no doméstico simultáneamente, o bien, no corresponda al determinado por este Código con base en el Índice de Desarrollo por manzana, podrá acudir a la Tesorería del Distrito Federal, a través de las Administraciones Tributarias a presentar su solicitud de reclasificación.
 
 La Tesorería, en un plazo que en ningún caso excederá los treinta días naturales siguientes a la revisión de gabinete, o en su caso, visita de inspección, determinará la procedencia o no de la reclasificación.
 
-Una vez emitida la evaluación por la Tesorería, notificará la misma, a la autoridad recaudadora del Sistema de Aguas para que éste proceda a notificarla al contribuyente en un plazo no mayor a los treinta días posteriores, y en su caso, realizar el cobro con la nueva reclasificación a partir del bimestre en que fue solicitado.
+> <small>(REFORMADO, G.O. 11 DE NOVIEMBRE DE 2011)</small>
+
+Una vez emitida la evaluación por la Tesorería, notificará la misma a la autoridad recaudadora del Sistema de Aguas para que éste proceda a notificarla al contribuyente o usuario en un plazo no mayor a los treinta días posteriores, y en su caso, realizar el cobro con la nueva reclasificación.
 
 En caso de no responder el Sistema de Aguas dentro de los sesenta días naturales posteriores a la solicitud de reclasificación, la misma se considerará procedente, sirviendo de comprobante de ajuste el acuse de recibo de la oficina competente; sin perjuicio de las facultades de la autoridad fiscal.
 
@@ -6826,7 +6842,9 @@ El beneficio de reducción por concepto de Impuesto sobre Adquisición de Inmueb
 
 El Impuesto sobre Espectáculos Públicos e Impuesto sobre Loterías, Rifas, Sorteos y Concursos, sólo operará respecto de los espectáculos y eventos señalados, que se lleven a cabo para allegarse de fondos que les permitan solventar los gastos derivados del cumplimiento del objetivo de la organización.
 
-Para efectos del cumplimiento de este precepto, las organizaciones civiles deberán solicitar a la Secretaría de Desarrollo Social durante el primer semestre, una constancia en la que se acredite el registro y verificación de los supuestos antes señalados, en los términos que establece la Ley de Fomento de Actividades de Desarrollo Social del Distrito Federal.
+> <small>(REFORMADO, G.O. 11 DE NOVIEMBRE DE 2011)</small>
+
+Para efectos del cumplimiento de este precepto, las organizaciones civiles deberán solicitar a la Secretaría de Desarrollo Social una constancia en la que se acredite el registro y verificación de los supuestos antes señalados, en los términos que establece la Ley de Fomento de Actividades de Desarrollo Social del Distrito Federal.
 
 Las organizaciones a que se refiere este artículo, para la obtención de la reducción deberán acreditar lo siguiente:
 
@@ -6848,7 +6866,9 @@ La reducción por concepto del Impuesto Predial, sólo operará respecto de los 
 
 Asimismo, la reducción por concepto de Derechos por el Suministro de Agua que determine el Sistema de Aguas, operará exclusivamente en el caso de inmuebles utilizados directamente por las Instituciones de Asistencia Privada en el cumplimiento de su objeto asistencial.
 
-Las Instituciones de Asistencia Privada para obtener la reducción a que se refiere este artículo, deberán solicitar a la Junta de Asistencia Privada del Distrito Federal durante el primer semestre, una constancia con la que se acredite que realizan las actividades de su objeto asistencial señalado en sus estatutos, y que los recursos que destinó a la asistencia social en el ejercicio fiscal inmediato anterior al de su solicitud, se traducen en el beneficio directo de la población a la que asisten, los cuales deberán ser superiores al monto de las reducciones que solicitan.
+> <small>(REFORMADO, G.O. 11 DE NOVIEMBRE DE 2011)</small>
+
+Las Instituciones de Asistencia Privada para obtener la reducción a que se refiere este artículo, deberán solicitar a la Junta de Asistencia Privada del Distrito Federal una constancia con la que se acredite que realizan las actividades de su objeto asistencial señalado en los estatutos, y que los recursos que destinó a la asistencia social en el ejercicio fiscal inmediato anterior al de su solicitud, se traducen en el beneficio directo de la población a la que asisten, los cuales deberán ser superiores al monto de las reducciones que solicitan.
 
 En la constancia, la Junta de Asistencia Privada del Distrito Federal deberá señalar el monto de los recursos que destinó la Institución de Asistencia Privada a la asistencia social, así como la vigencia que tendrá, la cual no deberá exceder del último día del año en que se haya emitido.
 
@@ -10743,3 +10763,17 @@ Lo mismo aplicará para aquellos usuarios que no hayan hecho pago alguno; el Sis
 SEXTO.- Para aquellos usuarios del servicio de suministro de agua con uso doméstico y no doméstico simultáneamente, que durante el ejercicio fiscal 2010 su boleta de cobro haya sido expedida bajo el sistema de emisión de cuota fija, les será aplicada retroactivamente la cuota contenida en el Decreto por el que se Reforman, Adicionan y Derogan Diversas Disposiciones del Código Fiscal del Distrito Federal, publicado en la Gaceta Oficial del Distrito Federal el dieciocho de mayo de dos mil once; por lo que el Sistema de Aguas, durante el ejercicio fiscal 2011, procederá a realizar el ajuste correspondiente, a fin de que dichos contribuyentes sólo tengan la obligación de pagar la cuota fija expresada en el artículo 172, fracción III, inciso a) de dicho decreto; eliminándose cualquier accesorio del historial del contribuyente.
 
 De existir diferencias a favor del contribuyente, éstas le serán tomadas a cuenta en subsecuentes cobros bimestrales.
+
+G.O. 11 DE NOVIEMBRE DE 2011.
+
+PRIMERO.- Para el ejercicio fiscal 2011, el porcentaje de reducción previsto en el artículo 294 de este Código, será del 25% en el pago de los derechos por la revista reglamentaria anual establecido en el artículo 222, fracción X del citado Código.
+
+SEGUNDO.- Aquellos contribuyentes o usuarios que por determinación de la Tesorería les haya sido reclasificada su toma, respecto de los derechos correspondientes a los ejercicios fiscales de 2010 y 2011; en términos de la fracción V del artículo 172, el Sistema de Aguas les realizará el ajuste correspondiente, el cual tendrá efectos retroactivos desde el primer bimestre de dos mil diez con relación a los adeudos y sus accesorios que se hayan generado por la errónea clasificación.
+
+TERCERO.- A fin de regularizar la situación fiscal de las Asociaciones Civiles, éstas podrán aplicar en el presente ejercicio fiscal las reducciones previstas en el artículo 283 de este Código, aún para el pago de créditos fiscales generados durante los ejercicios 2009 y 2010.
+
+Para efectos de lo anterior, la Tesorería y el Sistema de Aguas, implementarán las acciones necesarias para que las Administraciones Tributarias y el propio Sistema de Aguas, apliquen dichas reducciones, considerando la constancia expedida por la autoridad competente.
+
+CUARTO.- Publíquese en la Gaceta Oficial del Distrito Federal para su debida observancia y aplicación.
+
+QUINTO.- El presente Decreto entrará en vigor a partir del día siguiente al de su publicación.
