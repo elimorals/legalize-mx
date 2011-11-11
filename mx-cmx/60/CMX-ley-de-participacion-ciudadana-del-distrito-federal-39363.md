@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-participacion-ciudadana-del-distrito-federal-39363"
 country: "mx"
 rank: "ley"
 publication_date: "2004-05-17"
-last_updated: "2011-08-26"
+last_updated: "2011-11-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=39363&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2004-05-14"
 
 LEY DE PARTICIPACION CIUDADANA DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 26 DE AGOSTO DE 2011.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 11 DE NOVIEMBRE DE 2011.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el lunes 17 de mayo de 2004.
 
@@ -1808,9 +1808,9 @@ El Pleno de los Consejos Ciudadanos estará integrado de conformidad con lo esta
 
 El Pleno de los Consejos sesionará públicamente y de manera ordinaria al menos cada tres meses. De manera extraordinaria se podrá reunir por acuerdo de la mayoría, cuando lo consideren necesario.
 
-> <small>(ADICIONADO [N. DE E. REFORMADO], G.O. 17 DE ENERO DE 2011)</small>
+> <small>(REFORMADO, G.O. 11 DE NOVIEMBRE DE 2011)</small>
 
-El Pleno de los Consejos Ciudadanos designará, de entre de (sic) sus integrantes y por mayoría de votos de los coordinadores de los Comités Ciudadanos y de los Consejos de los Pueblos, a una mesa directiva formada por un presidente y cinco vocales, quienes estarán encargados de dirigir las sesiones, representar al Consejo y las demás que se establezcan en el Título Décimo Segundo de la presente Ley. La mesa directiva se renovará en forma semestral.
+El Pleno de los Consejos Ciudadanos designará, de entre sus integrantes y por mayoría de votos de los coordinadores de los Comités Ciudadanos y de los Consejos de los Pueblos, a una mesa directiva formada por un presidente y cinco vocales, quienes estarán encargados de dirigir las sesiones, representar al Consejo y las demás que se establezcan en el Título Décimo Segundo de la presente Ley. La mesa directiva se renovará en forma anual.
 
 > <small>(ADICIONADO, G.O. 17 DE ENERO DE 2011)</small>
 
@@ -4007,3 +4007,11 @@ TERCERO.- Se derogan todas aquellas disposiciones que se opongan al presente dec
 CUARTO.- Se declara suspendida la consulta ciudadana prevista para el 28 de agosto del 2011, por lo que se dejan sin efectos todos los actos efectuados al tenor de la convocatoria respectiva.
 
 QUINTO.- Para la celebración de la consulta ciudadana prevista para el segundo domingo de noviembre de 2011 conforme al artículo 84 de este decreto, el Instituto Electoral emitirá una nueva convocatoria en la que incluirá las reglas operativas para su desarrollo. Para la realización de dicha consulta ciudadana, el Jefe de Gobierno le brindará al Instituto Electoral los materiales y documentación necesarios conforme a los diseños que proponga este último. Los Jefes Delegacionales le proporcionarán al Instituto Electoral la logística y el equipamiento para el desarrollo de la consulta ciudadana
+
+G.O. 11 DE NOVIEMBRE DE 2011.
+
+Primero.- Remítase al Jefe de Gobierno para su publicación en la Gaceta Oficial del Distrito Federal.
+
+Segundo.- La reforma entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+Tercero.- Se derogan todas aquellas disposiciones que se opongan al presente decreto.
