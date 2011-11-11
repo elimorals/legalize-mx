@@ -4,7 +4,7 @@ identifier: "NLE-ley-organica-de-la-administracion-publica-municipal-del-7428"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1991-01-28"
-last_updated: "2006-04-28"
+last_updated: "2011-11-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7428&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY ORGANICA DE LA ADMINISTRACION PUBLICA MUNICIPAL DEL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE ABRIL DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE NOVIEMBRE DE 2011.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el lunes 28 de enero de 1991.
 
@@ -209,6 +209,10 @@ b).- En materia de Administración Pública Municipal:
 
 I.- Elaborar, presentar y publicar, en el curso de los tres primeros meses a partir de la fecha de la instalación del Ayuntamiento, el Plan Municipal de Desarrollo correspondiente a su período constitucional de Gobierno y derivado de éste los programas de obras y servicios públicos de su competencia.
 
+> <small>(ADICIONADO, P.O. 11 DE NOVIEMBRE DE 2011)</small>
+
+Dicho plan contendrá un capítulo que se denominará Plan de Desarrollo Humano, que será revisado cada tres años. El capítulo deberá contener una estrategia integral de política pública en el perfeccionamiento y realización de las capacidades humanas.
+
 II.- Constituir los órganos de planeación municipal que le corresponden.
 
 III.- Establecer y aplicar los sistemas de actualización, ejecución, seguimiento y evaluación del Plan Municipal de Desarrollo y sus respectivos programas.
@@ -243,7 +247,9 @@ IV.- Glosar las cuentas del Ayuntamiento anterior, en un término de 90 días co
 
 V.- Formular y entregar al Ayuntamiento entrante los archivos, documentos y comprobantes de ingresos y egresos, el balance general, el estado de resultados del ejercicio presupuestario de ingresos y egresos correspondientes al último año de su gestión, un informe detallado del Patrimonio Municipal y de los bienes que integran la Hacienda del Municipio.
 
-VI.- Publicar en la Gaceta Municipal y en el Periódico Oficial del Estado, la síntesis de los presupuestos anuales de egresos; la síntesis del Plan Municipal de Desarrollo; los Reglamentos Municipales, circulares y disposiciones administrativas de observancia general en el Municipio.
+> <small>(REFORMADA, P.O. 11 DE NOVIEMBRE DE 2011)</small>
+
+VI.- Publicar, en la Gaceta Municipal o en el Periódico Oficial del Estado la síntesis de los presupuestos anuales de egresos; la síntesis del Plan Municipal de Desarrollo; la síntesis del informe a que se refiere la fracción VII de éste inciso; los Reglamentos Municipales, circulares y disposiciones administrativas de observancia general en el Municipio.
 
 VII.- Publicar trimestralmente en la tabla de avisos del Ayuntamiento o en el periódico de mayor circulación en el municipio, el estado de origen y aplicación de recursos.
 
@@ -1295,11 +1301,11 @@ Los bienes del dominio privado de los Municipios son inembargables e imprescript
 
 A excepción de los bienes de Comodato, los Ayuntamientos podrán ejecutar sobre los bienes de dominio privado, todos los actos de administración y de dominio que regula el derecho común con las modalidades y cumpliendo los requisitos establecidos en este Capítulo.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE NOVIEMBRE DE 2011)</small>
 
 ###### ARTICULO 151.
 
-La enajenación o gravamen de los bienes muebles del domino privado del Municipio, requerirá la autorización previa del Ayuntamiento, la cual deberá publicarse en la Gaceta Oficial del Municipio y en el Periódico Oficial del Estado, acompañando a la misma el avalúo del bien, fecha y hora en la que se celebrará la subasta pública, así como la convocatoria a la que se refiere la fracción I del artículo 153 de esta Ley. Sólo podrán enajenarse los bienes muebles, que, previo acuerdo del Ayuntamiento, ya no se consideren útiles para el servicio público, por haber sido amortizados y considerados como chatarra.
+La enajenación o gravamen de los bienes muebles del domino privado del Municipio, requerirá la autorización previa del Ayuntamiento, la cual deberá publicarse en la Gaceta Municipal o en el Periódico Oficial del Estado, acompañando a la misma el avalúo del bien, fecha y hora en la que se celebrará la subasta pública, así como la convocatoria a la que se refiere la fracción I del artículo 153 de esta Ley. Sólo podrán enajenarse los bienes muebles, que, previo acuerdo del Ayuntamiento, ya no se consideren útiles para el servicio público, por haber sido amortizados y considerados como chatarra.
 
 > <small>(REFORMADO, P.O. 22 DE JULIO DE 2005)</small>
 
@@ -1558,3 +1564,15 @@ Artículo Segundo.- Se deroga el Decreto número 49 emitido por la LXIX Legislat
 P.O. 28 DE ABRIL DE 2006.
 
 Artículo Único.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 11 DE NOVIEMBRE DE 2011.
+
+DECRETO No. 248 POR EL QUE SE REFORMA LA FRACCION VI DEL INCISO C) DEL ARTICULO 26 Y EL PARRAFO PRIMERO DEL ARTICULO 151, DE LA LEY ORGANICA DE LA ADMINISTRACION PUBLICA MUNICIPAL DEL ESTADO DE NUEVO LEON.
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 11 DE NOVIEMBRE DE 2011.
+
+DECRETO No. 249 POR EL QUE SE ADICIONA CON UN SEGUNDO PARRAFO LA FRACCION I DEL INCISO B), DEL ARTICULO 26 DE LA LEY ORGANICA DE LA ADMINISTRACION PUBLICA MUNICIPAL DEL ESTADO DE NUEVO LEON.
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
