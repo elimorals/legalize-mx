@@ -4,7 +4,7 @@ identifier: "CAM-codigo-de-procedimientos-civiles-3371"
 country: "mx"
 rank: "codigo"
 publication_date: "1942-12-24"
-last_updated: "2011-08-04"
+last_updated: "2011-11-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3371&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 CODIGO DE PROCEDIMIENTOS CIVILES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE AGOSTO DE 2011.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE NOVIEMBRE DE 2011.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Campeche, el 24 de diciembre de 1942.
 
@@ -2858,6 +2858,26 @@ Los términos judiciales serán de cuatro días para contestar la demanda, de ve
 El juez no podrá bajo ninguna circunstancia, dictar un acuerdo en el cual solamente exprese que se está en estudio de la sentencia, sino que deberá dictar la misma dentro del término establecido.
 
 En los juicios sumarios, salvo las disposiciones del juicio hipotecario, todos los días de que conste el período probatorio son comunes para ofrecer y desahogar pruebas. Empero, aquellas cuyo perfeccionamiento requiera la citación de alguna persona, la constitución del personal del juzgado fuera de las oficinas del mismo o la intervención de peritos, deberán ofrecerse con la suficiente anticipación para que dicho perfeccionamiento tenga lugar sin exceder el periodo, de no ser así el juez las desechará de plano.
+
+> <small>(ADICIONADO, P.O. 11 DE NOVIEMBRE DE 2011)</small>
+
+###### Artículo 514 Bis.
+
+Cuando se tramiten asuntos en materia de alimentos según la fracción I del Artículo 511 del presente Código, en el auto de admisión de la demanda, el juez fijará una pensión provisional en base a lo planteado por la parte actora y según su prudente arbitrio, contra la cual no se admitirá recurso alguno. Lo anterior se comunicará de inmediato a la persona física o moral de quien perciba sus ingresos el deudor alimentista, para que se haga entrega de la pensión provisional al que exige los alimentos. Lo mismo se observará respecto de cualquier emolumento u otro ingreso que exista a favor del deudor alimentista.
+
+Para fijar la pensión provisional, el juez podrá ordenar el desahogo de cualquier diligencia que considere necesaria. Fuera de los casos anteriores, se ordenará requerir al deudor alimentista sobre el pago inmediato de dicha pensión provisional, y embargar de manera precautoria, en su caso, bienes de su propiedad que garanticen su cumplimiento.
+
+Cuando no sea posible determinar las percepciones económicas del que debe darlos, se tendrá como base el tabulador de salarios mínimos generales y profesionales vigentes en el Estado, emitido por la Comisión Nacional de Salarios Mínimos.
+
+La sentencia que decrete los alimentos fijará la pensión correspondiente, la cual deberá abonarse siempre por adelantado. La sentencia respectiva indicará siempre, en su parte considerativa y en uno de sus puntos resolutivos, que el monto de la pensión, cuando sea en cantidad líquida, tendrá un incremento automático mínimo equivalente al aumento porcentual del salario mínimo general diario vigente en la zona económica correspondiente al deudor, salvo que el deudor alimentario demuestre que sus ingresos no aumentaron en igual proporción. En este caso, el incremento de los alimentos se ajustará a lo que realmente hubiese obtenido el deudor.
+
+Notificada la sentencia, se comunicará sin demora a la persona física o moral de quien perciba ingresos el deudor alimentista, si este es el caso.
+
+Cuando se hayan embargado bienes al deudor alimentista para garantizar la pensión provisional, se tendrá por definitivo dicho embargo, podrá ampliarse éste y procederse a la venta para cubrir el pago de las pensiones provisionales adeudadas, de la establecida en la sentencia y de las subsecuentes.
+
+El registrador público de la propiedad, en su caso, cuidará del debido cumplimiento de esta disposición.
+
+La pensión definitiva fijada en la sentencia sustituirá a la provisional.
 
 ###### Art. 515.
 
@@ -7414,3 +7434,9 @@ PRIMERO: El presente decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO: En los distritos judiciales donde exista Central de Actuarios, esta dependencia será la encargada de realizar las notificaciones que ordenen las autoridades jurisdiccionales del mismo distrito.
 
 TERCERO: Se derogan todas aquellas disposiciones legales y reglamentarias que se opongan al contenido del presente decreto.
+
+P.O. 11 DE NOVIEMBRE DE 2011.
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias del marco jurídico estatal en lo que se opongan al contenido de este Decreto.
