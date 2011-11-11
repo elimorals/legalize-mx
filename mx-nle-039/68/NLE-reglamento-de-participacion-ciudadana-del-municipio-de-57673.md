@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-participacion-ciudadana-del-municipio-de-57673"
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-11-16"
-last_updated: "2011-03-18"
+last_updated: "2011-11-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57673&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 REGLAMENTO DE PARTICIPACIÓN CIUDADANA DEL MUNICIPIO DE MONTERREY, N. L.
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE MARZO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE NOVIEMBRE DE 2011.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el viernes 16 de Noviembre de 2007.
 
@@ -631,53 +631,57 @@ A las audiencias deberán asistir, salvo causa justificada, tanto el Presidente 
 
 Cada Secretaría deberá llevar un control de lo manifestado por cada uno de los ciudadanos y se le deberá dar seguimiento según su naturaleza hasta su total conclusión, debiendo informar a la dirección dentro de los siguientes 45 días la solución que se dio a cada una de ellas.
 
-### CAPÍTULO SÉPTIMO. DE LAS CONSULTAS
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 11 DE NOVIEMBRE DE 2011)</small>
 
-> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 2010)</small>
+### CAPÍTULO SÉPTIMO. DE LAS CONSULTAS CIUDADANAS
+
+> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 2011)</small>
 
 ###### Artículo 56.
 
-El Gobierno Municipal deberá realizar una o varias consultas ciudadanas al elaborar su Plan Municipal de Desarrollo, así como su Plan Operativo Anual. Para los casos en los que desee consultar a la ciudadanía sobre algún tema en particular, podrá realizar a través de la dirección consultas ciudadanas, ya sea a la población en general o a alguna colonia o grupo en particular, según sea el caso, a través de la cual los ciudadanos podrán emitir sus opiniones y formular propuestas para la resolución de la problemática municipal planteada.
+La consulta es un mecanismo de participación ciudadana mediante la cual se realiza un cuestionamiento a la ciudadanía sobre algún tema en particular. Se podrá realizar consulta a la población en general, colonia o grupo en particular, según sea el caso, a través de la cual los ciudadanos podrán emitir sus opiniones.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE AGOSTO DE 2010)</small>
+Se deberán realizar una o varias consultas ciudadanas al elaborar el Plan Municipal de Desarrollo, así como su Plan Operativo Anual.
+
+> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 2011)</small>
 
 ###### Artículo 57.
 
-Las consultas ciudadanas serán convocadas por el Presidente Municipal en conjunto con el Secretario del Ayuntamiento y el titular de la dependencia correspondiente según el tema a tratar, o por acuerdo de la Comisión competente del Ayuntamiento, con una anticipación no menor a quince días hábiles a la fecha en que se llevará a cabo. Las convocatorias a consultas ciudadanas deberán ser aprobadas por el Ayuntamiento.
+La consulta ciudadana será convocada por el Presidente Municipal en conjunto con el Secretario del Ayuntamiento y el titular de la dependencia correspondiente según el tema a tratar.
 
-> <small>(REFORMADO, P.O. 5 DE FEBRERO DE 2010)</small>
+La convocatoria de la consulta ciudadana deberá ser aprobada por el Ayuntamiento, en la convocatoria se deberá expresará (sic) el motivo de la misma así como la fecha, lugar y forma como se recibirán las ponencias, opiniones, propuestas o planteamientos.
 
-En la convocatoria de la consulta, se expresará el motivo de la misma así como la fecha, lugar y forma como se recibirán las ponencias, opiniones, propuestas o planteamientos.
-
-> <small>(REFORMADO, P.O. 5 DE FEBRERO DE 2010)</small>
+> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 2011)</small>
 
 ###### Artículo 58.
 
-La convocatoria impresa será distribuida, y deberá ser difundida por los medíos de comunicación masiva idóneos, para hacerla del conocimiento de los ciudadanos interesados, y en caso de interesar solamente a algún sector del Municipio, se hará llegar a los Presidentes de las Juntas de Vecinos correspondientes y demás organizaciones ciudadanas, para que coadyuven con la Autoridad Municipal en la difusión de ésta en la zona vecinal que les corresponde.
+La convocatoria deberá ser difundida por los medios de comunicaciones idóneas para hacerla del conocimiento de los ciudadanos interesados y en caso de interesar solamente a algún sector del Municipio, se hará llegar a los Delegados Municipales correspondientes y demás organizaciones ciudadanas, para que coadyuven con la autoridad municipal en la difusión de ésta en la zona vecinal que les corresponde.
 
-> <small>(REFORMADO, P.O. 5 DE FEBRERO DE 2010)</small>
+> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 2011)</small>
 
 ###### Artículo 59.
 
-Los resultados de las consultas serán elaborados por la autoridad convocante y se harán públicos. De igual manera se harán del conocimiento de los vecinos las acciones que, con base en ella, vaya a realizar la Autoridad Municipal.
+El resultado de la consulta será elaborado por la autoridad convocante y se hará público. De igual manera se hará del conocimiento de los vecinos las acciones que realizara la autoridad municipal.
 
-> <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 2010)</small>
+> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 2011)</small>
 
 ###### Artículo 60.
 
-El Municipio podrá realizar consultas cerradas a algún grupo de personas u organizaciones en particular, relacionadas con la problemática a consultar, la cual no requerirá ser difundida en los medios de comunicación masiva y se hará' llegar por escrito a las personas que la autoridad estime pertinente con reconocido prestigio en la materia y con la anticipación necesaria para su realización.
+El Municipio podrá realizar consulta cerrada a algún grupo de personas u organizaciones en particular, relacionada con la problemática a consultar, la cual no se requerirá ser difundida en los medios de comunicación masiva y se hará llegar por escrito a las personas que la autoridad estime pertinente con reconocido prestigio en la materia y con la anticipación necesaria para su realización.
 
-> <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 2010)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 11 DE NOVIEMBRE DE 2011)</small>
 
 ###### Artículo 61.
 
-El resultado de las opiniones, propuestas o planteamientos de los ciudadanos o especialistas, no tendrán carácter obligatorio o vinculativo, pero serán importantes elementos de juicio para la toma de decisiones de la Autoridad Municipal.
+El resultado de las opiniones, propuestas o planteamientos de los ciudadanos o especialistas, no tendrán carácter obligatorio o vinculatorio, pero serán importantes elementos de juicio para la toma de decisiones de la Autoridad Municipal.
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 5 DE FEBRERO DE 2010)</small>
 
 ### CAPÍTULO OCTAVO. DEL CENTRO DE MEDIACIÓN MUNICIPAL
 
-> <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 2010)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 2011)</small>
 
 ### CAPÍTULO NOVENO. DEL PROCEDIMIENTO DE REVISIÓN Y CONSULTA
 
@@ -689,25 +693,45 @@ El resultado de las opiniones, propuestas o planteamientos de los ciudadanos o e
 
 ###### Artículo 62.
 
-El Centro de Mediación Municipal, es un órgano que dependerá de la Dirección de Participación Ciudadana, y su función principal será la de coadyuvar a la resolución de diferencias o controversias comunitarias o vecinales principalmente, mediante la mediación, como mecanismo alternativo de solución a los conflictos.
+Los Centros de Mediación Municipales, son órganos que dependerán de las Secretarías en donde se sitúen y su función principal será la de coadyuvar a la resolución de diferencias o controversias comunitarias o vecinales principalmente, mediante la mediación, como mecanismo alternativo de solución a los conflictos.
 
-> <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 2010)</small>
+La mediación sólo será aplicable en los asuntos que sean susceptibles de convenio, que no alteren el orden público, ni contravengan alguna disposición legal expresa o afecten derechos de terceros.
+
+Tratándose de conductas delictivas se estará sujeto a lo dispuesto en los Códigos Penal y de Procedimientos Penales; no obstante, el pago de la reparación del daño, como consecuencia jurídica del delito, podrá sujetarse a los Métodos Alternos en cualquier etapa del procedimiento.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE NOVIEMBRE DE 2011)</small>
 
 ###### Artículo 63.
 
-El Centro de Mediación Municipal ejercerá las siguientes atribuciones, a saber:
+Son facultades de los Jefes de los Centros de Mediación Municipales:
 
-l. Difundir, promover y orientar los métodos alternativos para la solución de conflictos como medio de solución de las controversias, principalmente las de carácter comunitario o vecinal de la ciudadanía de Monterrey.
+> <small>(ADICIONADA, P.O. 5 DE FEBRERO DE 2010)</small>
+
+I. Difundir, promover y orientar los métodos alternativos para la solución de conflictos como medio de solución de las controversias, principalmente las de carácter comunitario o vecinal de la ciudadanía de Monterrey.
+
+> <small>(ADICIONADA, P.O. 5 DE FEBRERO DE 2010)</small>
 
 II. Coordinar con las diversas áreas de la administración pública municipal; que las controversias, sean turnadas, para su tramite inmediato, al Centro de Mediación Municipal.
 
+> <small>(ADICIONADA, P.O. 5 DE FEBRERO DE 2010)</small>
+
 III. Determinar aquellos casos que, por su naturaleza, no puedan ser susceptibles de ser sometidos al proceso de mediación.
+
+> <small>(ADICIONADA, P.O. 5 DE FEBRERO DE 2010)</small>
 
 IV. Tramitar las solicitudes de mediación.
 
+> <small>(ADICIONADA, P.O. 5 DE FEBRERO DE 2010)</small>
+
 V. Llevar un archivo de las actas de mediación y la expedición de copias certificadas, cuando éstas se requieran.
 
+> <small>(ADICIONADA, P.O. 5 DE FEBRERO DE 2010)</small>
+
 VI. Desarrollar programas y cursos de capacitación para los mediadores, así como para los ciudadanos de Monterrey, con la finalidad de difundir en los mecanismos alternativos para la solución de conflictos.
+
+> <small>(ADICIONADA, P.O. 5 DE FEBRERO DE 2010)</small>
 
 VII. Llevar un archivo estadístico que permita conocer el desarrollo y evolución del centro.
 
@@ -751,15 +775,25 @@ Sí la petición estuviere incompleta, el Jefe del Centro la mandará completar 
 
 Hecha la recepción de la solicitud de mediación, el Jefe del Centro designará al mediador que conocerá del asunto y mandará notificar a las partes, el lugar, día y hora en que se practicará la audiencia de mediación, la que se llevará a cabo en un término que no exceda de diez días hábiles.
 
-> <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 2010)</small>
+> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 2011)</small>
 
 ###### Artículo 67.
 
+Todos los mediadores deberán estar certificados ante el Centro Estatal del Poder Judicial del Estado, como lo establece la Ley de Métodos Alternos para la Solución de Conflictos del estado de Nuevo León.
+
+> <small>(ADICIONADO, P.O. 11 DE NOVIEMBRE DE 2011)</small>
+
+###### Artículo 67 Bis.
+
 El mediador actuará siempre con absoluta neutralidad, confidencialidad, profesionalismo, imparcialidad y respeto por los derechos y la dignidad de las personas; analizará los hechos que presenten las partes y sus pretensiones, buscando siempre las bases o mecanismos de mediación.
+
+El mediador debe mantener en sigilo la información expuesta en el proceso de mediación, haciéndose extensiva a toda aquella persona que en virtud de su trabajo se encuentre vinculada a los Centros de Mediación Municipales. Las sesiones de mediación se celebraran en privado.
 
 En caso de existir común acuerdo entre las partes, el mediador elaborará de manera inmediata un acta que será suscrita por el mediador y las partes.
 
-Si las diferencias no pudieren resolverse en una primera audiencia, se convocará a otra u otras, si el mediador o las partes lo consideran idóneo.
+Este principio implica además que las sesiones de mediación se celebran en privada (sic).
+
+Si las diferencias no pudieren resolverse en una primera audiencia, se convocará a otra u otras, si el mediador o las partes lo consideran idóneo
 
 > <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 2010)</small>
 
@@ -848,3 +882,13 @@ El presente reglamento entrará en vigor al día siguiente de su publicación en
 ###### ARTÍCULO SEGUNDO
 
 Una vez publicado el presente reglamento en el Periódico Oficial, se abroga el Capítulo Quinto denominado de los Comités de Participación Ciudadana del Reglamento de Participación Ciudadana del Municipio de Monterrey, Nuevo León.
+
+P.O. 11 DE NOVIEMBRE DE 2011.
+
+###### ARTÍCULO PRIMERO
+
+Las presentes reformas por modificación y adición del Reglamento de Participación Ciudadana del municipio de Monterrey, Nuevo León, entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO
+
+La (sic) disposiciones contenidas en los artículos 62 y 63 del Reglamento de Participación Ciudadana del municipio de Monterrey, Nuevo León, entraran en vigor a partir de la publicación en el Periódico Oficial del Estado, de las reformas al Reglamento Orgánico del Gobierno Municipal de Monterrey, referente a establecer atribuciones a las dependencias para que estas se encuentren facultadas para conocer de métodos alternos.
