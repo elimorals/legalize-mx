@@ -4,7 +4,7 @@ identifier: "NAY-reglamento-interior-de-las-unidades-de-apoyo-del-gobernador-740
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-03-08"
-last_updated: "2010-03-08"
+last_updated: "2011-11-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=74098&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "NAY"
 
 REGLAMENTO INTERIOR DE LAS UNIDADES DE APOYO DEL GOBERNADOR CONSTITUCIONAL DEL ESTADO DE NAYARIT
 
-TEXTO ORIGINAL
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DEL DESPACHO DEL EJECUTIVO, PUBLICADO EN EL P.O. DE 12 DE NOVIEMBRE DE 2011, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
 Reglamento publicado en la Sección Cuarta del Periódico Oficial del Estado de Nayarit, el lunes 8 de marzo de 2010.
 
@@ -264,3 +266,15 @@ QUINTO.- Las Unidades de Apoyo, deberán expedir su manual interno de organizaci
 Dado en el Palacio del Poder Ejecutivo del Estado Libre y Soberano de Nayarit, en Tepic, su capital, a los quince días del mes de Enero del dos mil diez.
 
 A T E N T A M E N T E "SUFRAGIO EFECTIVO; NO REELECCIÓN" LIC. NEY GONZÁLEZ SÁNCHEZ, GOBERNADOR CONSTITUCIONAL DEL ESTADO.- Rúbrica.- DR. ROBERTO MEJÍA PÉREZ, SECRETARIO GENERAL DE GOBIERNO.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. DE 12 DE NOVIEMBRE DE 2011.
+
+PRIMERO.- El Presente Reglamento entrará en vigor al siguiente día de su publicación en el Periódico Oficial, órgano del Gobierno del Estado.
+
+SEGUNDO.- Se abroga el Reglamento Interior de las Unidades de Apoyo del Gobernador Constitucional del Estado de Nayarit, publicado el 8 de Marzo de 2010 en el Periódico Oficial Órgano de Gobierno del Estado, sus reformas y demás disposiciones que se opongan al presente reglamento.
+
+TERCERO.- Las plazas y puestos contenidos en el presente Reglamento corresponden a lo que en el Presupuesto de Egresos del Estado de Nayarit catalogan como "OFICINA DEL GOBERNADOR".
+
+CUARTO.- Las Unidades Administrativas del Despacho del Ejecutivo, deberán expedir su manual interno de organización dentro de los sesenta días hábiles después de la entrada en vigor del presente Reglamento.
