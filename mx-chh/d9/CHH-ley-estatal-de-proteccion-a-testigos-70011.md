@@ -4,7 +4,7 @@ identifier: "CHH-ley-estatal-de-proteccion-a-testigos-70011"
 country: "mx"
 rank: "ley"
 publication_date: "2009-08-22"
-last_updated: "2010-10-02"
+last_updated: "2011-11-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70011&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY ESTATAL DE PROTECCION A TESTIGOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE OCTUBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE NOVIEMBRE DE 2011.
 
 Ley publicada en el Periódico Oficial del Estado de Chihuahua, el sábado 22 de agosto de 2009.
 
@@ -447,13 +447,25 @@ La competencia para resolver el conflicto a que se refiere el artículo anterior
 
 I. Al Juez de Garantía, si se promueve previo o durante la fase de investigación y hasta el auto de apertura de juicio oral;
 
-II. A un Juez del Tribunal de Juicio Oral, durante el lapso que transcurra entre el dictado del auto de apertura de juicio oral y hasta antes de iniciar la celebración de la audiencia de debate;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
 
-III. Al Tribunal de Juicio Oral, si se promueve después de la apertura del juicio oral y hasta que la sentencia cause ejecutoria;
+> <small>(REFORMADA, P.O. 12 DE NOVIEMBRE DE 2011)</small>
 
-IV. Al Presidente del Tribunal de Juicio Oral que dictó la sentencia, en la fase de ejecución de penas y medidas de seguridad, y
+II. Al Juez o al Presidente del Tribunal de Juicio Oral, desde el dictado del auto de apertura de juicio oral; durante la audiencia de debate y en la fase de ejecución de penas y medidas de seguridad, y
 
-V. A las Salas Penales del Supremo Tribunal de Justicia del Estado, cuando sea la autoridad judicial la que determine el resguardo de identidad u otros datos personales.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+
+> <small>(REFORMADA, P.O. 12 DE NOVIEMBRE DE 2011)</small>
+
+III. A las Salas Penales del Supremo Tribunal de Justicia del Estado, cuando sea la autoridad judicial la que determine el resguardo de identidad u otros datos personales.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+
+IV. (DEROGADA, P.O. 12 DE NOVIEMBRE DE 2011)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+
+V. (DEROGADA, P.O. 12 DE NOVIEMBRE DE 2011)
 
 ###### ARTÍCULO 35.
 
@@ -598,3 +610,13 @@ P.O. 2 DE OCTUBRE DE 2010.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día cinco de octubre de dos mil diez, previa su publicación en el Periódico Oficial del Estado.
+
+P.O. 12 DE NOVIEMBRE DE 2011.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor a los quince días siguientes de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Aquellas causas en las que se haya dictado Auto de Apertura de Juicio Oral antes de la entrada en vigor del presente Decreto, serán conocidas por Tribunales Colegiados de Juicio Oral bajo las normas previstas con anterioridad para dichos Tribunales; lo mismo se observará para las Salas Penales en materia de recursos. Lo previsto en este artículo transitorio regirá igualmente en materia de extinción de dominio.
