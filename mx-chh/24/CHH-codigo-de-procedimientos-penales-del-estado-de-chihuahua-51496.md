@@ -4,7 +4,7 @@ identifier: "CHH-codigo-de-procedimientos-penales-del-estado-de-chihuahua-51496"
 country: "mx"
 rank: "codigo"
 publication_date: "2006-08-09"
-last_updated: "2011-10-22"
+last_updated: "2011-11-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51496&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ CODIGO DE PROCEDIMIENTOS PENALES DEL ESTADO DE CHIHUAHUA
 
 > <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO ÚNICO DEL DECRETO 276/08 II P.O. SE EXPIDE LA DECLARATORIA DE INCORPORACIÓN DEL NUEVO SISTEMA PROCESAL PENAL ACUSATORIO EN EL ESTADO DE CHIHUAHUA, PUBLICADA EN EL P.O. 30 DE JULIO DE 2008, LA CUAL ENTRARÁ EN VIGOR A PARTIR DE LAS CERO HORAS: 1.- EN EL DISTRITO JUDICIAL MORELOS, DEL 1o. DE ENERO DE 2007; 2.- EN EL DISTRITO JUDICIAL BRAVOS, DEL 1o. DE ENERO DE 2008; 3.- EN EL RESTO DE LOS DISTRITOS JUDICIALES DEL ESTADO, DEL 1o. DE JULIO DE 2008.</small>
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE OCTUBRE DE 2011.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE NOVIEMBRE DE 2011.
 
 Código publicado en el Folleto Anexo al Periódico Oficial del Estado Chihuahua, el miércoles 9 de agosto de 2006.
 
@@ -933,11 +933,15 @@ III. Cuando se trate de delitos cometidos fuera del Estado que se sigan cometien
 
 IV. Para conocer de los delitos continuos, es competente cualquier autoridad judicial en cuya jurisdicción se hayan ejecutado actos que por sí solos constituyan el o los delitos imputados.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+
+> <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 2011)</small>
+
 ###### Artículo 90.
 
 Competencia por Casación.
 
-Cuando en virtud de la casación resultare anulado el juicio o la sentencia, conocerá el Tribunal de Juicio Oral de la jurisdicción donde se dictó la resolución impugnada, pero conformado por distintos Jueces.
+Cuando en virtud de la casación resultare anulado el juicio o la sentencia, conocerá el Tribunal de Juicio Oral de la jurisdicción donde se dictó la resolución impugnada, pero por distinto Juez, en caso de actuar unitariamente, o por distintos jueces, cuando se actúe de manera colegiada.
 
 ###### Artículo 91.
 
@@ -3565,6 +3569,12 @@ IV. Las pruebas que deberán producirse en el juicio oral y las que deban de des
 
 V. La individualización de quienes deban ser citados a la audiencia de debate, con mención de los órganos de prueba a los que deba pagarse anticipadamente sus gastos de traslado y habitación y los montos respectivos.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+
+> <small>(ADICIONADO, P.O. 12 DE NOVIEMBRE DE 2011)</small>
+
+Así mismo, informará al Pleno del Supremo Tribunal de Justicia su resolución de apertura de Juicio Oral.
+
 ### CAPÍTULO III. JUICIO
 
 #### SECCIÓN 1. DISPOSICIONES GENERALES
@@ -3583,13 +3593,21 @@ Los jueces que en el mismo asunto hayan intervenido en las etapas anteriores a l
 
 #### SECCIÓN 2. ACTUACIONES PREVIAS
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+
+> <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 2011)</small>
+
 ###### Artículo 318.
 
 Fecha, lugar, integración y citaciones.
 
-El Juez de Garantía hará llegar la resolución de apertura del juicio al Tribunal competente, dentro de las cuarenta y ocho horas siguientes a su notificación. También pondrá a su disposición a las personas sometidas a prisión preventiva u otras medidas cautelares personales.
+El Juez de Garantía hará llegar la resolución de apertura del juicio al Tribunal Unitario competente, dentro de las cuarenta y ocho horas siguientes a su notificación. También pondrá a su disposición a las personas sometidas a prisión preventiva u otras medidas cautelares personales.
 
-Una vez radicado el proceso ante el Tribunal de Juicio Oral, el Juez que lo presida decretará la fecha para la celebración de la audiencia de debate, la que deberá tener lugar no antes de quince ni después de sesenta días naturales desde dicha radicación. Indicará también el nombre de los jueces que integrarán el Tribunal y ordenará la citación de todos los obligados a asistir. El acusado deberá ser citado, por lo menos, con siete días de anticipación al comienzo de la audiencia.
+Transcurrido el plazo de cinco días hábiles contados a partir de la recepción del auto de apertura, si el Pleno del Supremo Tribunal de Justicia no ejerce la atribución prevista en el artículo 50, fracción VII, segundo párrafo de la Ley Orgánica del Poder Judicial del Estado, el Tribunal Unitario procederá a radicar el proceso.
+
+En caso de que por disposición del Pleno, sea un Tribunal Colegiado el que deba resolver, el Tribunal Unitario pondrá a su disposición a las personas sometidas a prisión preventiva u otras medidas cautelares personales.
+
+Una vez radicado el proceso ante el Tribunal de Juicio Oral, el Juez o quien lo presida decretará la fecha para la celebración de la audiencia de debate, la que deberá tener lugar no antes de quince ni después de sesenta días naturales desde dicha radicación y ordenará la citación de todos los obligados a asistir. El acusado deberá ser citado, por lo menos, con siete días de anticipación al comienzo de la audiencia. En caso de ser un Tribunal Colegiado, indicará también el nombre de los jueces que integran el Tribunal.
 
 #### SECCIÓN 3. PRINCIPIOS
 
@@ -3597,11 +3615,15 @@ Una vez radicado el proceso ante el Tribunal de Juicio Oral, el Juez que lo pres
 
 Inmediación.
 
-El debate se realizará con la presencia ininterrumpida de los miembros del Tribunal y de las demás partes legítimamente constituidas en el proceso, de sus defensores y de sus representantes. El acusado no podrá retirarse de la audiencia sin permiso del Tribunal.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE NOVIEMBRE DE 2011)</small>
+
+El debate se realizará con la presencia ininterrumpida del Juez o jueces de Juicio Oral en su caso y de las demás partes legítimamente constituidas en el proceso, de sus defensores y de sus representantes. El acusado no podrá retirarse de la audiencia sin permiso del Tribunal.
 
 Si después de su declaración rehúsa permanecer en la audiencia, será custodiado en una sala próxima y representado para todos los efectos por su defensor. Cuando sea necesario para el desarrollo de la audiencia, se le hará comparecer para la realización de actos particulares en los cuales su presencia resulte imprescindible. Si el defensor no comparece al debate o se aleja de la audiencia, se considerará abandonada la defensa y se procederá a su reemplazo inmediato por un defensor público, hasta en tanto el imputado designe un defensor de su elección, conforme las reglas respectivas de este Código.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
 
 > <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
@@ -3615,7 +3637,11 @@ Si el acusador coadyuvante o su representante no concurren al debate o se retira
 
 Imputado en juicio.
 
-El acusado asistirá a la audiencia libre en su persona, pero el Juez que presida podrá disponer la vigilancia necesaria para impedir que se sustraiga a la acción de la justicia o resguardar la seguridad y el orden.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE NOVIEMBRE DE 2011)</small>
+
+El acusado asistirá a la audiencia libre en su persona, pero el Juez o el Presidente del Tribunal en su caso, podrá disponer la vigilancia necesaria para impedir que se sustraiga a la acción de la justicia o resguardar la seguridad y el orden.
 
 Si el acusado estuviere en libertad, el Tribunal podrá disponer para asegurar la realización del debate o de un acto particular que lo integre, su conducción por la fuerza pública e, incluso. su detención, con determinación del lugar en el que ésta se cumplirá, cuando resulte imprescindible; podrá también variar las condiciones bajo las cuales goza de libertad el imputado o imponer alguna medida cautelar personal no privativa de la libertad.
 
@@ -3627,7 +3653,11 @@ Publicidad.
 
 El debate será público, pero el Tribunal podrá resolver excepcionalmente, aún de oficio, que se desarrolle a puertas cerradas, total o parcialmente, cuando:
 
-I. Pueda afectar la integridad física o la privacidad de los miembros del Tribunal de alguna de las partes, o de alguna persona citada para participar en él;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+
+> <small>(REFORMADA, P.O. 12 DE NOVIEMBRE DE 2011)</small>
+
+I. Pueda afectar la integridad física o la privacidad del Tribunal, de alguna de las partes, o de alguna persona citada para participar en él;
 
 II. El orden público o la seguridad del Estado puedan verse gravemente afectados;
 
@@ -3675,7 +3705,11 @@ II. Tenga que practicarse algún acto fuera de la sala de audiencias, incluso cu
 
 III. No comparezcan testigos, peritos o intérpretes, deba practicarse una nueva citación y sea imposible o inconveniente continuar el debate hasta que ellos comparezcan, incluso coactivamente, por medio de la fuerza pública;
 
-IV. Algún Juez o el imputado se enfermen a tal extremo que no puedan continuar interviniendo en el debate;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+
+> <small>(REFORMADA, P.O. 12 DE NOVIEMBRE DE 2011)</small>
+
+IV. El Juez, algún miembro del Tribunal o el imputado se enfermen a tal extremo que no puedan continuar interviniendo en el debate;
 
 V. El defensor, el acusador coadyuvante o su representante, no puedan ser reemplazados inmediatamente en el supuesto de la fracción anterior, o en caso de muerte o incapacidad permanente.
 
@@ -3683,11 +3717,23 @@ VI. Si el Ministerio Público lo requiera para variar la acusación con motivo d
 
 VII. Alguna catástrofe o algún hecho extraordinario torne imposible su continuación.
 
-El Tribunal verificará la autenticidad de la causal de suspensión invocada, pudiendo para el efecto allegarse de los medios de prueba correspondientes.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-El Tribunal decidirá la suspensión y anunciará el día y la hora en que continuará la audiencia; ello valdrá como citación para todas las partes. Antes de comenzar la nueva audiencia, quien la presida resumirá brevemente los actos cumplidos con anterioridad. Los jueces y el Ministerio Público podrán intervenir en otros debates durante el plazo de suspensión, salvo que el Tribunal decida lo contrario, por resolución fundada, en razón de la complejidad del caso.
+> <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 2011)</small>
 
-El presidente ordenará los aplazamientos que se requieran, indicando la hora en que continuará el debate. Será considerado un aplazamiento el descanso de fin de semana o el día feriado o de asueto, siempre que el debate continúe al día hábil siguiente.
+El Tribunal verificará la autenticidad de la causal de suspensión invocada, pudiendo para el efecto allegarse de los medios de prueba correspondientes, y decidirá la suspensión y anunciará el día y la hora en que continuará la audiencia; ello valdrá como citación para todas las partes. Antes de comenzar la nueva audiencia, quien la presida resumirá brevemente los actos cumplidos con anterioridad. El Juez o los Jueces y el Ministerio Público podrán intervenir en otros debates durante el plazo de suspensión, salvo que, tratándose de actuaciones colegiadas, el Tribunal decida lo contrario, por resolución fundada, en razón de la complejidad del caso.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 2011)</small>
+
+El Juez o el Presidente del Tribunal, en su caso, ordenará los aplazamientos que se requieran, indicando la hora en que continuará el debate. Será considerado un aplazamiento el descanso de fin de semana o el día feriado o de asueto, siempre que el debate continúe al día hábil siguiente.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 2011)</small>
+
+En el caso de la fracción IV, cuando se trate del Juez que actúe unitariamente en el Tribunal de Juicio Oral, el administrador del Tribunal notificará tal situación al Presidente del Supremo Tribunal de Justicia, quien proveerá conforme a lo dispuesto en los párrafos anteriores.
 
 ###### Artículo 326.
 
@@ -3701,17 +3747,25 @@ Oralidad.
 
 El debate será oral, tanto en lo relativo a los alegatos y argumentos de todas las partes, como en todas las declaraciones, la recepción de las pruebas y, en general, a toda intervención de quienes participen en él.
 
-Las decisiones del presidente y las resoluciones del Tribunal serán dictadas verbalmente, con expresión de sus fundamentos y motivos cuando el caso lo requiera, quedando todos notificados por su emisión, pero su parte dispositiva constará luego en el acta del debate.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+
+> <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 2011)</small>
+
+La resoluciones del Tribunal de Juicio Oral, así como las decisiones del Juez o del Presidente, serán dictadas verbalmente, con expresión de sus fundamentos y motivos cuando el caso lo requiera, quedando todos notificados por su emisión, pero su parte dispositiva constará luego en el acta del debate.
 
 #### SECCIÓN 4. DIRECCIÓN Y DISCIPLINA
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+
+> <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 2011)</small>
 
 ###### Artículo 328.
 
 Dirección del debate de juicio oral.
 
-El Presidente del Tribunal dirigirá el debate de juicio oral, ordenará y autorizará las lecturas pertinentes, hará las advertencias que correspondan, tomará las protestas legales, moderará la discusión e impedirá intervenciones impertinentes.
+El Juez o el Presidente del Tribunal, dirigirá el debate de juicio oral, ordenará y autorizará las lecturas pertinentes, hará las advertencias que correspondan, tomará las protestas legales, moderará la discusión e impedirá intervenciones impertinentes.
 
-Si alguna de las partes en el debate se queja, por vía de revocación, de una disposición del Presidente, decidirá el Tribunal.
+En caso de ser un Tribunal Colegiado, si alguna de las partes en el debate se queja, por vía de revocación, de una disposición del Presidente, decidirá el Tribunal colegiadamente.
 
 ###### Artículo 329.
 
@@ -4003,11 +4057,15 @@ División del debate único.
 
 Si la acusación tuviere por objeto varios hechos punibles atribuidos a uno o más imputados, el Tribunal podrá disponer, incluso a solicitud de parte, que los debates se lleven a cabo separadamente, pero en forma continua. En este caso, el Tribunal podrá resolver sobre la culpabilidad al finalizar el debate sobre cada hecho punible.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+
+> <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 2011)</small>
+
 ###### Artículo 356.
 
 Reclasificación jurídica.
 
-En su alegato de apertura o de clausura, el Ministerio Público podrá plantear una clasificación jurídica distinta de los hechos a la invocada en su escrito de acusación. En tal caso, con relación a la nueva clasificación jurídica planteada, el Presidente dará al acusado y su defensor inmediatamente oportunidad de expresarse al respecto, y les informará sobre su derecho a pedir la suspensión del debate para ofrecer nuevas pruebas o preparar su intervención. Cuando este derecho sea ejercido, el Tribunal suspenderá el debate por un plazo que, en ningún caso, podrá ser superior al establecido para la suspensión del debate previsto por este Código.
+En su alegato de apertura o de clausura, el Ministerio Público podrá plantear una clasificación jurídica distinta de los hechos a la invocada en su escrito de acusación. En tal caso, con relación a la nueva clasificación jurídica planteada, el Juez o quien presida el Tribunal dará al acusado y su defensor inmediatamente oportunidad de expresarse al respecto, y les informará sobre su derecho a pedir la suspensión del debate para ofrecer nuevas pruebas o preparar su intervención. Cuando este derecho sea ejercido, el Tribunal suspenderá el debate por un plazo que, en ningún caso, podrá ser superior al establecido para la suspensión del debate previsto por este Código.
 
 ###### Artículo 357.
 
@@ -4023,7 +4081,11 @@ El día y hora fijados, el Tribunal se constituirá en la sala de audiencias con
 
 Cuando un testigo o perito no se encuentre presente al iniciar la audiencia, pero haya sido debidamente notificado para asistir en una hora posterior y se tenga la certeza de que comparecerá, el debate podrá iniciarse.
 
-El Presidente señalará las acusaciones que deberán ser objeto del juicio contenidas en el auto de apertura de juicio oral, los acuerdos probatorios a que hubiesen llegado las partes y advertirá al acusado que deberá estar atento a lo que oirá.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO</small>
+
+> <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 2011)</small>
+
+El Juez o quien presida el Tribunal señalará las acusaciones que deberán ser objeto del juicio contenidas en el auto de apertura de juicio oral, los acuerdos probatorios a que hubiesen llegado las partes y advertirá al acusado que deberá estar atento a lo que oirá.
 
 Seguidamente, concederá la palabra al Ministerio Público para que exponga su acusación y, posteriormente, se ofrecerá la palabra al defensor, quien podrá exponer los fundamentos en que base su defensa.
 
@@ -4031,7 +4093,11 @@ Seguidamente, concederá la palabra al Ministerio Público para que exponga su a
 
 Defensa y declaración del acusado.
 
-El acusado podrá prestar su declaración en cualquier momento durante la audiencia. En tal caso, el Juez Presidente le permitirá que lo haga libremente o a preguntas de su defensor. Si es su deseo contestar a las preguntas del Ministerio Público o del acusador coadyuvante, podrá ser contrainterrogado por éstos, conforme lo dispone el Artículo 361. El Juez podrá formularle preguntas destinadas a aclarar sus dichos, absteniéndose de contestar si es su deseo.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE NOVIEMBRE DE 2011)</small>
+
+El acusado podrá prestar su declaración en cualquier momento durante la audiencia. En tal caso, el Juez o quien presida el Tribunal le permitirá que lo haga libremente o a preguntas de su defensor. Si es su deseo contestar a las preguntas del Ministerio Público o del acusador coadyuvante, podrá ser contrainterrogado por éstos, conforme lo dispone el Artículo 361. El Juez o quien presida el Tribunal podrá formularle preguntas destinadas a aclarar sus dichos, absteniéndose de contestar si es su deseo.
 
 En cualquier estado del juicio, el acusado podrá solicitar ser oído, con el fin de aclarar o complementar sus dichos.
 
@@ -4049,11 +4115,19 @@ Peritos y testigos en la audiencia de juicio oral.
 
 Durante la audiencia, los peritos y testigos deberán ser interrogados personalmente. Su declaración personal no podrá ser sustituida por la lectura de los registros en que constaren anteriores declaraciones o de otros documentos que las contuvieren.
 
-El Juez Presidente identificará al perito o testigo, le tomará protesta de conducirse con verdad y le advertirá de las penas que se imponen si se incurre en falsedad de declaraciones.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+
+> <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 2011)</small>
+
+El Juez o quien presida el Tribunal identificará al perito o testigo, le tomará protesta de conducirse con verdad y le advertirá de las penas que se imponen si se incurre en falsedad de declaraciones.
 
 La declaración de los testigos y peritos se sujetará al interrogatorio de las partes. Los interrogatorios serán realizados, en primer lugar, por la parte que hubiere ofrecido la respectiva prueba y luego por las restantes. Si en el juicio interviniere el acusador coadyuvante, o el mismo se realizare contra dos o más acusados, se concederá sucesivamente la palabra al Ministerio Público, a dicho acusador, o a cada uno de los defensores de los acusados, según corresponda.
 
-Finalmente, los miembros del Tribunal podrán formular preguntas al testigo o perito con el fin de aclarar sus dichos.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 2011)</small>
+
+Finalmente, el Juez o los miembros del Tribunal podrán formular preguntas al testigo o perito con el fin de aclarar sus dichos.
 
 A solicitud de alguna de las partes, el Tribunal podrá autorizar un nuevo interrogatorio de los testigos o peritos que ya hubieren declarado en la audiencia. En el nuevo interrogatorio las preguntas sólo podrán referirse a las respuestas dadas por el testigo o perito durante el contrainterrogatorio.
 
@@ -4157,7 +4231,11 @@ Cuando lo considerare necesario para la adecuada apreciación de determinadas ci
 
 Alegatos de clausura y cierre del debate.
 
-Concluida la recepción de las pruebas, el Juez Presidente otorgará sucesivamente la palabra al Ministerio Público, al acusador coadyuvante y al defensor, para que expongan sus alegatos. El Tribunal tomará en consideración la extensión del juicio para determinar el tiempo que concederá al efecto.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE NOVIEMBRE DE 2011)</small>
+
+Concluida la recepción de las pruebas, el Juez o quien presida el Tribunal otorgará sucesivamente la palabra al Ministerio Público, al acusador coadyuvante y al defensor, para que expongan sus alegatos. El Juez tomará en consideración la extensión del juicio para determinar el tiempo que concederá al efecto.
 
 Seguidamente, se otorgará al Ministerio Público y al defensor la posibilidad de replicar y duplicar. La réplica sólo podrá referirse a lo expresado por el defensor en su alegato de clausura y la duplica a lo expresado por el Ministerio Público o el acusador coadyuvante en la réplica.
 
@@ -4169,17 +4247,25 @@ Por último, se otorgará al acusado la palabra para que manifieste lo convenien
 
 #### SECCIÓN 11. DELIBERACIÓN Y SENTENCIA
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+
+> <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 2011)</small>
+
 ###### Artículo 371.
 
 Deliberación.
 
-Inmediatamente después de clausurado el debate, los miembros del Tribunal que hubieren asistido a él pasarán a deliberar en privado, de forma continua y aislada, hasta emitir el fallo correspondiente.
+Inmediatamente después de clausurado el debate, el Juez o los miembros del Tribunal Colegiado pasarán a deliberar en privado, de forma continua y aislada, hasta emitir el fallo correspondiente.
 
 ###### Artículo 372.
 
 Decisión sobre absolución o condena.
 
-Una vez concluida la deliberación, el Tribunal se constituirá nuevamente en la sala de audiencias, después de ser convocadas verbalmente todas las partes, y será leída tan sólo la parte resolutiva respecto a la absolución o condena del acusado y el Juez designado como relator informará, sintéticamente, los fundamentos de hecho y de derecho que la motivaron.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE NOVIEMBRE DE 2011)</small>
+
+Una vez concluida la deliberación, el Tribunal se constituirá nuevamente en la sala de audiencias, después de ser convocadas verbalmente todas las partes, y será leída tan sólo la parte resolutiva respecto a la absolución o condena del acusado e informará, sintéticamente, los fundamentos de hecho y de derecho que la motivaron. En caso de ser Tribunal Colegiado, se designará a un miembro como relator.
 
 > <small>(ADICIONADO, P.O. 30 DE ENERO DE 2010)</small>
 
@@ -4209,7 +4295,7 @@ Contenido de la sentencia.
 
 La sentencia definitiva contendrá:
 
-I. La mención del Tribunal y la fecha de su emisión;
+l. La mención del Tribunal y la fecha de su emisión;
 
 II. La identificación de la víctima u ofendido y del acusado;
 
@@ -4223,11 +4309,15 @@ VI. La resolución que condenare o absolviere a cada uno de los acusados por cad
 
 VII. La firma de los jueces que la hubieren dictado.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+
+> <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 2011)</small>
+
 ###### Artículo 376.
 
 Redacción de la sentencia.
 
-La sentencia será siempre redactada por uno de los miembros del Tribunal Colegiado, designado por éste, en tanto la disidencia será redactada por su autor. La sentencia señalará el nombre de su redactor y el del que lo sea de la disidencia.
+La sentencia será siempre redactada por el Juez o, en su caso, por uno de los miembros del Tribunal Colegiado, designado por éste, en tanto la disidencia será redactada por su autor. La sentencia señalará el nombre de su redactor y el del que lo sea de la disidencia.
 
 > <small>(REFORMADO, P.O. 18 DE FEBRERO DE 2009)</small>
 
@@ -4681,9 +4771,11 @@ IV. El escrito de interposición careciere de fundamentos de agravio o de petici
 
 ###### Artículo 423.
 
-Motivos de casación de carácter procesal. El juicio y la sentencia serán motivos de casación cuando:
+Motivos de casación de carácter procesal.
 
-l. En la tramitación de la audiencia de debate de juicio oral se hubieren infringido derechos fundamentales asegurados por la Constitución Federal o Local, o por los Tratados Internacionales ratificados por el Estado Mexicano que se encuentren vigentes.
+El juicio y la sentencia serán motivos de casación cuando:
+
+I. En la tramitación de la audiencia de debate de juicio oral se hubieren infringido derechos fundamentales asegurados por la Constitución Federal o Local, o por los Tratados Internacionales ratificados por el Estado Mexicano que se encuentren vigentes.
 
 II. La sentencia hubiere sido pronunciada por un Tribunal incompetente o que, en los términos de la ley, no garantice su imparcialidad.
 
@@ -4693,7 +4785,11 @@ IV. Se hubiere violado el derecho de defensa o el de contradicción.
 
 V. En el juicio oral hubieren sido violadas las disposiciones establecidas por la ley sobre publicidad, oralidad y concentración del juicio, siempre que se vulneren derechos de las partes.
 
-En estos casos, el Tribunal de Casación ordenará la celebración de un nuevo juicio, enviando el auto de apertura de juicio oral a un Tribunal competente, integrado por jueces distintos a los que intervinieron en el juicio anulado.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+
+> <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 2011)</small>
+
+En estos casos, el Tribunal de Casación ordenará la celebración de un nuevo juicio, enviando el auto de apertura de juicio oral a un Tribunal competente, integrado por un juez o jueces distintos a los que intervinieron en el juicio anulado.
 
 ###### Artículo 424.
 
@@ -5187,7 +5283,7 @@ T R A N S I T O R I O
 
 ###### ARTÍCULO ÚNICO.
 
-El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 P.O. 18 DE FEBRERO DE 2009.
 
@@ -5352,3 +5448,13 @@ Se establece un plazo de noventa días naturales para la instalación del Consej
 ###### ARTÍCULO CUARTO.
 
 El Reglamento del Consejo Estatal de Atención a las Adiciones deberá ser publicado en el Periódico Oficial del Estado, dentro de los sesenta días posteriores a la instalación del mismo.
+
+P.O. 12 DE NOVIEMBRE DE 2011.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor a los quince días siguientes de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Aquellas causas en las que se haya dictado Auto de Apertura de Juicio Oral antes de la entrada en vigor del presente Decreto, serán conocidas por Tribunales Colegiados de Juicio Oral bajo las normas previstas con anterioridad para dichos Tribunales; lo mismo se observará para las Salas Penales en materia de recursos. Lo previsto en este artículo transitorio regirá igualmente en materia de extinción de dominio.
