@@ -4,7 +4,7 @@ identifier: "COL-ley-de-ganaderia-del-estado-de-colima-14220"
 country: "mx"
 rank: "ley"
 publication_date: "1999-04-10"
-last_updated: "2007-07-28"
+last_updated: "2011-11-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14220&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "COL"
 
 LEY DE GANADERIA DEL ESTADO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE JULIO DE 2007.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE GANADERIA DEL ESTADO DE COLIMA, PUBLICADA EN EL SUPLEMENTO No. 1 DEL P.O. DE 12 DE NOVIEMBRE DE 2011, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Colima, el sábado 10 de abril de 1999.
 
@@ -978,3 +980,33 @@ P.O. 4 DE ABRIL DE 2006.
 P.O. 28 DE JULIO DE 2007.
 
 ÚNICO.- El presente Decreto entrará en vigor a (sic) día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 12 DE NOVIEMBRE DE 2011.
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor al siguiente día de su publicación en el Periódico Oficial "EL ESTADO DE COLIMA".
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga la Ley de Ganadería publicada en el Periódico Oficial "EL ESTADO DE COLIMA", suplemento de fecha 10 de abril de 1999.
+
+###### ARTÍCULO TERCERO.
+
+La Secretaría en un plazo no mayor de ciento veinte días naturales, contados de la entrada en vigor de la presente Ley, deberá elaborar el Reglamento del presente ordenamiento legal.
+
+###### ARTÍCULO CUARTO.
+
+La Secretaría implementará un programa especial de difusión por un periodo de noventa días, a partir de que entre en vigor de la presente Ley, entre los productores y comercializadores pecuarios, para el efecto de promover y dar a conocer las finalidades y beneficios del Registro Estatal de Medios de Identificación de Propiedad de Productores y Comercializadores del Estado, así como el contenido y alcances de la presente Ley.
+
+###### ARTÍCULO QUINTO.
+
+Dentro de los noventa días siguientes de que entre en vigor la presente Ley, los productores y comercializadores pecuarios, deberán solicitar a la Secretaría, su registro estatal de medios de identificación de propiedad y constancia de comercializadores pecuarios en la Secretaría.
+
+###### ARTÍCULO SEXTO.
+
+Los titulares de derechos de patentes que se hubieren expedido bajo la vigencia de la Ley de Ganadería que ésta abroga y, se encuentren ya vencidas se les concede un plazo de noventa días para su revalidación, plazo posterior se procederá por la Secretaría a la cancelación de los enunciados títulos por falta de revalidación.
+
+###### ARTÍCULO SÉPTIMO.
+
+Los asuntos que se venían conociendo y tramitando ante las Secretarías de Finanzas y de Administración y demás dependencias, continuarán su trámite hasta su total conclusión con base a la normatividad vigente en el momento en que se iniciaron.
