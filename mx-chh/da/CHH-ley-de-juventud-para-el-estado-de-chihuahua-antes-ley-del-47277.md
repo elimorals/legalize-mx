@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-juventud-para-el-estado-de-chihuahua-antes-ley-del-47277
 country: "mx"
 rank: "ley"
 publication_date: "2005-12-10"
-last_updated: "2010-02-03"
+last_updated: "2011-11-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=47277&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE JUVENTUD PARA EL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE FEBRERO DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE NOVIEMBRE DE 2011.
 
 Ley publicada en el Periódico Oficial del Estado de Chihuahua, el sábado 10 de diciembre de 2005.
 
@@ -319,15 +319,25 @@ La Junta Directiva se integrará por quien ocupe la titularidad de las siguiente
 
 I. Secretaría de Fomento Social;
 
-II. Secretaría de Finanzas y Administración;
+> <small>(REFORMADA, P.O. 12 DE NOVIEMBRE DE 2011)</small>
 
-III. Secretaría de Planeación y Evaluación;
+II. Secretaría de Hacienda;
 
-IV. Secretaría de Educación y Cultura;
+> <small>(REFORMADA, P.O. 12 DE NOVIEMBRE DE 2011)</small>
 
-V. Secretaría de Desarrollo Industrial;
+III. Secretaría de Educación, Cultura y Deporte;
 
-VI. Secretaría de Desarrollo Comercial y Turístico;
+> <small>(REFORMADA, P.O. 12 DE NOVIEMBRE DE 2011)</small>
+
+IV. Secretaría del Trabajo y Previsión Social;
+
+> <small>(REFORMADA, P.O. 12 DE NOVIEMBRE DE 2011)</small>
+
+V. Secretaría de Economía;
+
+> <small>(REFORMADA, P.O. 12 DE NOVIEMBRE DE 2011)</small>
+
+VI. Fiscalía General del Estado;
 
 VII. Dirección General del Instituto Chihuahuense de la Juventud, y
 
@@ -533,9 +543,13 @@ II. Una Secretaría Técnica, que recaerá en quien ocupe la titularidad de la D
 
 III. Una persona del Consejo de Desarrollo Social y Participación Ciudadana;
 
-IV. Cinco personas jóvenes que hayan destacado en cualesquiera de los ámbitos artístico, cultural, deportivo, social, profesional o de oficios, y
+IV. Cinco personas jóvenes que hayan destacado en cualesquiera de los ámbitos artístico, cultural, deportivo, social, profesional o de oficios, y (sic)
 
 V. Diez personas jóvenes que participen en organismos o asociaciones del sector social, cuyas actividades se vinculen a la materia.
+
+> <small>(ADICIONADA, P.O. 12 DE NOVIEMBRE DE 2011)</small>
+
+VI. Un integrante de la Comisión de Juventud y Deporte del H. Congreso del Estado.
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -800,3 +814,7 @@ QUINTO. Los asuntos que a la entrada en vigor del presente Decreto, se encuentre
 SEXTO. Las relaciones laborales de los trabajadores con que cuente el Instituto Chihuahuense de la Juventud, a la entrada en vigor del presente Decreto, no se verán afectadas en modo alguno, cualquiera que sea su naturaleza, y continuarán rigiéndose por las disposiciones que les dieron origen.
 
 SÉPTIMO. El Titular del Poder Ejecutivo Estatal deberá expedir el Reglamento de la presente Ley, en un término no mayor de noventa días posteriores a la entrada en vigor de este Decreto.
+
+P.O. 12 DE NOVIEMBRE DE 2011.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
