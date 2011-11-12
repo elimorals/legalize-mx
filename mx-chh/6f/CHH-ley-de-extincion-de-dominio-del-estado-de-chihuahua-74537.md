@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-extincion-de-dominio-del-estado-de-chihuahua-74537"
 country: "mx"
 rank: "ley"
 publication_date: "2010-04-07"
-last_updated: "2010-10-02"
+last_updated: "2011-11-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=74537&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE EXTINCION DE DOMINIO DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE OCTUBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE NOVIEMBRE DE 2011.
 
 Ley publicada en el Periódico Oficial del Estado de Chihuahua, el miércoles 7 de abril de 2010.
 
@@ -249,7 +249,11 @@ El procedimiento de extinción de dominio será autónomo del de materia penal, 
 
 Tribunal de Extinción de Dominio.
 
-El procedimiento de extinción de dominio se tramitará ante un Tribunal de Extinción de Dominio, integrado por tres jueces de primera instancia, en los términos de la Ley Orgánica del Poder Judicial.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+
+> <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 2011)</small>
+
+El procedimiento de extinción de dominio se tramitará ante un Tribunal de Extinción de Dominio, integrado por un juez de primera instancia, en los términos de la Ley Orgánica del Poder Judicial.
 
 ###### Artículo 20.
 
@@ -739,7 +743,11 @@ Procedimiento.
 
 Para el trámite del recurso de revisión regirán las reglas establecidas para el de apelación, en cuanto sean aplicables.
 
-El Tribunal competente para resolver podrá disponer todas las indagaciones y diligencias preparatorias que consideren útiles y delegar su ejecución en alguno de sus miembros. También podrá producir prueba de oficio en la audiencia.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+
+> <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 2011)</small>
+
+El Tribunal competente para resolver podrá disponer y ejecutar todas las indagaciones y diligencias preparatorias que consideren útiles. También podrá producir prueba de oficio en la audiencia.
 
 ###### Artículo 70.
 
@@ -816,3 +824,13 @@ P.O. 2 DE OCTUBRE DE 2010.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día cinco de octubre de dos mil diez, previa su publicación en el Periódico Oficial del Estado.
+
+P.O. 12 DE NOVIEMBRE DE 2011.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor a los quince días siguientes de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Aquellas causas en las que se haya dictado Auto de Apertura de Juicio Oral antes de la entrada en vigor del presente Decreto, serán conocidas por Tribunales Colegiados de Juicio Oral bajo las normas previstas con anterioridad para dichos Tribunales; lo mismo se observará para las Salas Penales en materia de recursos. Lo previsto en este artículo transitorio regirá igualmente en materia de extinción de dominio.
