@@ -4,7 +4,7 @@ identifier: "CHH-ley-organica-del-poder-judicial-del-estado-de-chihuahua-4721"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1989-01-04"
-last_updated: "2011-08-20"
+last_updated: "2011-11-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4721&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE AGOSTO DE 2011.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE NOVIEMBRE DE 2011.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 4 de enero de 1989.
 
@@ -551,9 +551,11 @@ Son facultades del Pleno:
 
 I. Elegir, de entre sus integrantes, por mayoría calificada de las dos terceras partes de los magistrados presentes, al Presidente del Supremo Tribunal de Justicia y adscribir al resto a las Salas correspondientes.
 
-> <small>(REFORMADA, P.O. 29 DE MARZO DE 2008)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-II. Crear y suprimir las salas del Supremo Tribunal y establecer el ramo en que deban actuar. Si se trata de salas regionales señalará su territorio, jurisdicción y residencia. Así mismo, señalar cada año los magistrados que, en materia penal, deberán constituir las Salas Colegiadas, sin perjuicio de que por razones graves pueda replantear su integración.
+> <small>(REFORMADA, P.O. 12 DE NOVIEMBRE DE 2011)</small>
+
+II. Crear y suprimir las salas del Supremo Tribunal y establecer el ramo en que deban actuar. Si se trata de salas regionales señalará su territorio, jurisdicción y residencia. Así mismo, señalar cada año los (sic) jueces y magistrados que, en materia penal, deberán constituir los tribunales y las salas colegiadas, sin perjuicio de que por razones supervinientes pueda replantear su integración.
 
 III. Convocar a concurso de méritos, en los términos del artículo 103 de la Constitución Política del Estado, para la integración de la terna que se presentará al Congreso para la elección de magistrados y designar a los representantes del Poder Judicial que deberán formar parte del jurado.
 
@@ -565,17 +567,25 @@ V. Convocar a concurso de oposición para la designación de Jueces de Primera I
 
 VI. Encomendar el trámite y dictamen de algún asunto, cuya resolución corresponda al Pleno, a alguna de las salas o juzgados.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 2011)</small>
+
 VII. De oficio o a petición del magistrado, atraer cualquier asunto que por su trascendencia considera conveniente resolver.
+
+Asimismo de oficio, cuando estime que en materia penal, tratándose del juicio oral, por sus características especiales deba ser resuelto por un Tribunal Colegiado, radicará a éste el asunto para su resolución. En estos casos, el Pleno designará a uno de los jueces en calidad de Presidente, a quien corresponderá ejercer las funciones a que se refieren los artículos 170 a 173 de esta Ley.
+
+En materia penal, cuando un Tribunal Colegiado resuelva un asunto, una Sala Colegiada tendrá que conocer de los recursos de casación y revisión que deriven de aquél.
 
 > <small>(REFORMADA, P.O. 16 DE SEPTIEMBRE DE 2006)</small>
 
 VIII. Asignar el trabajo de alguna de las salas que estuviere recargada en su despacho a otra u otras, aun cuando no fueren del mismo ramo, con excepción de las especializadas para adolescentes infractores.
 
-IX. Crear y suprimir juzgados, establecer el ramo en que deban actuar, señalar las poblaciones de su residencia y realizar los cambios necesarios para la eficiencia del servicio de impartición de justicia. Lo mismo procederá en los casos de las Subdirecciones Regionales de Mediación, en los términos de su ley.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
 
-Cuando así lo justifique una mejor y más adecuada prestación del servicio judicial, el Pleno podrá acordar la conformación de juzgados integrados cada uno de ellos por los jueces que sean necesarios y que autorice el presupuesto, quienes actuarán en forma unitaria o colegiada de conformidad con lo dispuesto en la Ley.
+> <small>(REFORMADA, P.O. 12 DE NOVIEMBRE DE 2011)</small>
 
-En estos casos, el Pleno designará a uno de los jueces en calidad de Presidente, a quien corresponderá ejercer las funciones a que se refieren los artículos 170 a 173 de esta Ley.
+IX. Crear y suprimir juzgados, y establecer el ramo en que deban actuar, señalar las poblaciones de su residencia y realizar los cambios necesarios para la eficiencia del servicio de impartición de justicia. Lo mismo procederá en los casos de las Subdirecciones Regionales de Mediación, en los términos de su Ley.
 
 X. Nombrar, cesar o cambiar de adscripción a jueces, secretarios y notificadores, así como a funcionarios y empleados del tribunal.
 
@@ -797,9 +807,21 @@ Las Salas serán unitarias o colegiadas y el Pleno determinará la materia sobre
 
 En materia penal:
 
-I.- Las salas serán colegiadas, integradas por tres magistrados, para conocer de los recursos de casación y revisión, y unitarias para conocer del recurso de apelación.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-II.- El recurso de casación podrá ser conocido por magistrados que hubieren intervenido en el mismo asunto en apelación y el recurso de revisión por magistrados que hubieren intervenido en el mismo asunto en apelación o casación.
+> <small>(REFORMADA, P.O. 12 DE NOVIEMBRE DE 2011)</small>
+
+I. Las salas serán:
+
+a) Unitarias para conocer de todos los recursos.
+
+b) Colegiadas, integradas por tres magistrados para conocer de los recursos de casación y revisión en los supuestos del artículo 50, fracción VII, tercer párrafo de la presente Ley.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 12 DE NOVIEMBRE DE 2011)</small>
+
+II. El recurso de casación no podrá ser conocido por el Magistrado o magistrados que hubieren intervenido en el mismo asunto en apelación, y el recurso de revisión no podrá ser conocido por el Magistrado o magistrados que hubieren intervenido en el mismo asunto en apelación o casación.
 
 III.- Las salas especializadas para adolescentes infractores siempre serán unitarias y conocerán de los recursos de apelación, casación y revisión, los que, aunque atañan a un mismo proceso, pueden resolverse por una misma sala.
 
@@ -807,7 +829,11 @@ III.- Las salas especializadas para adolescentes infractores siempre serán unit
 
 En materia de extinción de dominio:
 
-I. Las salas serán colegiadas, integradas por tres magistrados civiles, para conocer de los recursos de apelación y de revisión, en los términos de la Ley de la materia.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 12 DE NOVIEMBRE DE 2011)</small>
+
+I. Las salas serán unitarias, integradas por un magistrado civil, para conocer de los recursos de apelación y de revisión, en los términos de la Ley de la materia.
 
 ###### ARTICULO 60.
 
@@ -1217,7 +1243,9 @@ Habrá en el Supremo Tribunal de Justicia los Notificadores, escribientes y empl
 
 En cada Sala Unitaria habrá cuando menos dos Secretarios. Unos (sic) de ellos tendrá el carácter de Secretario de Acuerdos, quien tendrá fe pública y el resto serán secretarios Proyectistas, correspondiendo al de acuerdos además la calidad de primer secretario de la Sala y a los proyectistas, según su número, la de segundo y subsiguientes de conformidad con la designación que económicamente determine el Magistrado en funciones.
 
-Los funcionarios de las Salas Unitarias del ramo penal coadyuvarán, dentro del ámbito de sus atribuciones, en el desempeño de las Salas Colegiadas o de casación, cuando el titular de aquéllas integre estas últimas, de conformidad con las disposiciones generales que para tal efecto dicte el Pleno del Supremo Tribunal.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO(REFORMADO, P.O. 12 DE NOVIEMBRE DE 2011)</small>
+
+Los funcionarios de las Salas Unitarias del ramo penal coadyuvarán, dentro del ámbito de sus atribuciones, en el desempeño de las Salas Colegiadas, cuando el titular de aquéllas integre estas últimas, de conformidad con las disposiciones generales que para tal efecto dicte el Pleno del Supremo Tribunal.
 
 Las ausencias temporales del Secretario de Acuerdos se cubrirán en la forma que esta ley determina para las accidentales o por un nombramiento interino tomando en cuenta su duración.
 
@@ -2051,9 +2079,11 @@ Los Jueces de Primera Instancia y los Especializados para adolescentes infractor
 
 En asuntos de su competencia y cuando su mejor despacho lo requiera, podrán los Jueces de Primera Instancia y los Especializados para adolescentes infractores trasladarse del lugar de su residencia a otro punto de su distrito, previa autorización del Presidente del Supremo Tribunal o cuando éste o el Pleno así lo dispongan. En casos de urgencia que se presenten en asuntos del ramo Penal, Especializado para adolescentes infractores o del Familiar y que el Juez calificará bajo su más estrecha responsabilidad, podrá disponer el traslado inmediato del personal del juzgado del lugar de su ubicación a otro punto de su distrito, previo aviso al Presidente del tribunal.
 
-> <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 2006)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO</small>
 
-ARTICULO 149 BIS.- Los tribunales de juicio en materia penal se integrarán siempre colegiadamente con tres jueces; y con uno, los de juicio especial para adolescentes infractores.
+> <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 2011)</small>
+
+ARTICULO 149 BIS. Los tribunales de juicio oral en materia penal se integrarán de forma unitaria y colegiadamente con tres jueces en el supuesto del artículo 50, fracción VII, párrafo segundo de esta Ley.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 7 DE ABRIL DE 2010)</small>
 
@@ -2123,13 +2153,15 @@ VII. Dictar sentencia en el procedimiento abreviado; y
 
 VIII. Las demás que le otorgue la ley.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE SEPTIEMBRE DE 2006)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO</small>
 
-ARTICULO 150 TER.- Los Tribunales de juicio oral en materia penal y los Jueces Especializados de juicio oral para adolescentes infractores tienen las siguientes atribuciones:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE NOVIEMBRE DE 2011)</small>
+
+ARTICULO 150 TER. Los Tribunales de juicio oral en materia penal tienen las siguientes atribuciones:
 
 > <small>(REFORMADA, P.O. 16 DE SEPTIEMBRE DE 2006)</small>
 
-l. Conocer y juzgar los procesos sometidos a su conocimiento;
+I. Conocer y juzgar los procesos sometidos a su conocimiento;
 
 > <small>(ADICIONADA, P.O. 9 DE AGOSTO DE 2006)</small>
 
@@ -2143,9 +2175,11 @@ III. Dictar sentencia con base en las pruebas presentadas durante la audiencia d
 
 IV. Las demás que les otorgue la ley.
 
-> <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 2006)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-Los jueces integrantes de los Tribunales de Juicio Oral en materia Penal ejercerán la función de Jueces de Ejecución de Penas en el Estado, dentro del Distrito Judicial correspondiente, con la posibilidad de prorrogar su jurisdicción a otros distritos, de conformidad con las disposiciones generales que el Supremo Tribunal de Justicia del Estado dicte, en los términos de las facultades otorgadas al Pleno en la presente Ley.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE NOVIEMBRE DE 2011)</small>
+
+Los jueces de Juicio Oral en materia Penal ejercerán la función de Jueces de Ejecución de Penas en el Estado, dentro del Distrito Judicial correspondiente, con la posibilidad de prorrogar su jurisdicción a otros distritos, de conformidad con las disposiciones generales que el Supremo Tribunal de Justicia del Estado dicte, en los términos de las facultades otorgadas al Pleno en la presente Ley.
 
 > <small>(ADICIONADO, P.O. 7 DE ABRIL DE 2010)</small>
 
@@ -3420,3 +3454,13 @@ P.O. 20 DE AGOSTO DE 2011
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 12 DE NOVIEMBRE DE 2011.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor a los quince días siguientes de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Aquellas causas en las que se haya dictado Auto de Apertura de Juicio Oral antes de la entrada en vigor del presente Decreto, serán conocidas por Tribunales Colegiados de Juicio Oral bajo las normas previstas con anterioridad para dichos Tribunales; lo mismo se observará para las Salas Penales en materia de recursos. Lo previsto en este artículo transitorio regirá igualmente en materia de extinción de dominio.
