@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-ejecucion-de-penas-y-medidas-judiciales-antes-ley-de-529
 country: "mx"
 rank: "ley"
 publication_date: "2006-12-09"
-last_updated: "2011-08-13"
+last_updated: "2011-11-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52982&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE EJECUCIÓN DE PENAS Y MEDIDAS JUDICIALES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE AGOSTO DE 2011.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE NOVIEMBRE DE 2011.
 
 Ley publicada en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 9 de diciembre de 2006.
 
@@ -191,7 +191,11 @@ Si la sentencia en procedimiento abreviado resulta absolutoria para el acusado, 
 
 Jueces de Tribunal de Juicio Oral.
 
-Los jueces integrantes de los Tribunales de Juicio Oral en materia Penal fungirán, en lo individual, como Jueces de Ejecución de Penas en el Estado, dentro del Distrito Judicial correspondiente, con la posibilidad de prorrogar su jurisdicción a otros distritos, de conformidad con las disposiciones generales que el Supremo Tribunal de Justicia del Estado dicte, en los términos de las facultades otorgadas al Pleno en la ley Orgánica respectiva.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+
+> <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 2011)</small>
+
+Los jueces de Juicio Oral en materia Penal fungirán como Jueces de Ejecución de Penas en el Estado, dentro del Distrito Judicial correspondiente, con la posibilidad de prorrogar su jurisdicción a otros distritos, de conformidad con las disposiciones generales que el Supremo Tribunal de Justicia del Estado dicte, en los términos de las facultades otorgadas al Pleno en la Ley Orgánica respectiva.
 
 ###### Artículo 12.
 
@@ -2652,3 +2656,13 @@ P.O. 13 DE AGOSTO DE 2011.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 12 DE NOVIEMBRE DE 2011.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor a los quince días siguientes de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Aquellas causas en las que se haya dictado Auto de Apertura de Juicio Oral antes de la entrada en vigor del presente Decreto, serán conocidas por Tribunales Colegiados de Juicio Oral bajo las normas previstas con anterioridad para dichos Tribunales; lo mismo se observará para las Salas Penales en materia de recursos. Lo previsto en este artículo transitorio regirá igualmente en materia de extinción de dominio.
