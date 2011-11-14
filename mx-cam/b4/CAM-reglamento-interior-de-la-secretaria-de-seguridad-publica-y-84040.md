@@ -4,7 +4,7 @@ identifier: "CAM-reglamento-interior-de-la-secretaria-de-seguridad-publica-y-840
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-08-12"
-last_updated: "2009-09-14"
+last_updated: "2011-11-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84040&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ REGLAMENTO INTERIOR DE LA SECRETARÍA DE SEGURIDAD PÚBLICA Y PROTECCIÓN A LA C
 
 > <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO EN EL ARTÍCULO SEXTO TRANSITORIO DEL DECRETO NÚMERO 263, PUBLICADO EN EL P.O. 14 DE SEPTIEMBRE DE 2009, TODA MENCIÓN, O REFERENCIA HECHA A LA "SECRETARÍA DE SEGURIDAD PÚBLICA DEL ESTADO DE CAMPECHE", SE ENTENDERÁ COMO HECHA A LA "SECRETARÍA DE SEGURIDAD PÚBLICA Y PROTECCIÓN A LA COMUNIDAD DEL ESTADO DE CAMPECHE".</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE SEPTIEMBRE DE 2009.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE NOVIEMBRE DE 2011.
 
 Reglamento publicado en la Segunda Sección del Periódico Oficial del Estado de Campeche, el martes 12 de agosto de 2008.
 
@@ -491,179 +491,93 @@ II. Interino, que es el designado con ese carácter por la superioridad correspo
 
 III. Comisión, que es el ejercido por medio de comisión emitida por la superioridad.
 
-### Capítulo VIII. Del Servicio Civil de Carrera de la Policía Estatal Preventiva
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 14 DE NOVIEMBRE DE 2011)</small>
+
+### Capítulo VIII. De la Comisión del Servicio Profesional de Carrera Policial
+
+> <small>(REFORMADO, P.O. 14 DE NOVIEMBRE DE 2011)</small>
 
 ###### Artículo 25.
 
-El servicio civil de carrera de la Policía Estatal Preventiva comprende la planeación, reclutamiento, selección de aspirantes, formación inicial, ingreso, formación continua y especializada, evaluación, desarrollo y promoción, estímulos, procedimiento administrativo, sanciones, separación, retiro, e impugnaciones, sujetándose a los lineamientos establecidos en la Ley General que Establece las Bases de Coordinación del Sistema Nacional de Seguridad Pública, el presente Reglamento y demás disposiciones aplicables.
+La Comisión del Servicio Profesional de Carrera Policial, como instancia colegiada de las Instituciones de Seguridad Pública, tiene como objeto aplicar los procedimientos del Servicio Profesional de la Carrera Policial, así como los lineamientos, mecanismos y procedimientos de reclutamiento, selección, ingreso, permanencia, evaluación, promoción y conclusión del servicio de los integrantes de las instituciones de seguridad pública y vigilar el cumplimiento de los planes y programas de profesionalización de los integrantes, conforme a lo dispuesto por la Ley General del Sistema Nacional de Seguridad Pública, la Ley de Seguridad Pública del Estado de Campeche, el Reglamento de la Comisión del Servicio Profesional de Carrera Policial y las demás leyes y reglamentos aplicables.
 
 ###### Artículo 26.
 
-El servicio civil de carrera policial sólo será aplicable del grado de Agente “A” hasta el grado de Comandante. El Secretario, los Subsecretarios y titulares de las unidades administrativas y órgano desconcentrado quedan excluidos del mencionado servicio.
+(DEROGADO, P.O. 14 DE NOVIEMBRE DE 2011)
 
 ###### Artículo 27.
 
-Para ingresar a la Policía Estatal Preventiva se requiere:
-
-I. Ser mexicano en pleno ejercicio de sus derechos políticos y civiles, con cinco años de residencia continua en cualquier población del Estado;
-
-II. Ser de notoria buena conducta y reconocida solvencia moral;
-
-III. No haber sido sujeto a proceso penal alguno;
-
-IV. No estar suspendido, no haber sido destituido o inhabilitado por resolución firme como servidor público y no tener antecedentes laborales negativos en el Registro Nacional y Estatal de Personal del Sistema de Seguridad Pública;
-
-V. Haber concluido como mínimo los estudios de educación media superior;
-
-VI. Tener entre dieciocho y treinta y seis años de edad;
-
-VII. Tener una estatura mínima de un metro sesenta y cinco centímetros los hombres y un metro sesenta centímetros las mujeres;
-
-VIII. Acreditar el cumplimiento del servicio militar nacional tratándose de los hombres;
-
-IX. Acreditar una experiencia mínima de dos años en manejo de vehículos de motor, en su caso;
-
-X. No hacer uso de substancias psicotrópicas, estupefacientes u otras que produzcan efectos similares;
-
-XI. No padecer alcoholismo;
-
-XII. Gozar de buena salud física;
-
-XIII. No tener tatuajes;
-
-XIV. Acreditar los exámenes de evolución toxicológicos, médicos, de conocimientos generales, de aptitud física, psicométricos, control de confianza, de entorno social y de situación patrimonial; y
-
-XV. Saber utilizar equipo de cómputo.
+(DEROGADO, P.O. 14 DE NOVIEMBRE DE 2011)
 
 ###### Artículo 28.
 
-El perfil que debe reunir el policía estatal preventivo será el establecido en los manuales de estructuras, de organización y de procedimientos de la Secretaría, teniendo en cuentas (sic) los aspectos relevantes sobre conocimientos, salud, socioculturales y físico-constitucionales, que serán evaluados en los exámenes señalados en la fracción XIV del artículo anterior.
+(DEROGADO, P.O. 14 DE NOVIEMBRE DE 2011)
 
 ###### Artículo 29.
 
-Quienes como resultado del proceso de selección ingresen al curso de formación inicial, serán considerados aspirantes de la Policía Estatal Preventiva. Todos los aspirantes se sujetarán a los lineamientos establecidos por la Secretaría, respecto del curso de formación inicial.
+(DEROGADO, P.O. 14 DE NOVIEMBRE DE 2011)
 
 ###### Artículo 30.
 
-Para permanecer como miembro de la Policía Estatal Preventiva o servidor público de la Secretaría, se requiere:
-
-I. Acreditar los programas de actualización y profesionalización que indique la Secretaría;
-
-II. Aprobar los procesos de evaluación que se indiquen en el presente Reglamento; y
-
-III. No cometer alguna de las faltas señaladas en el presente Reglamento, en la Ley Reglamentaría del Capítulo XVII de la Constitución Política del Estado de Campeche, en la Ley General que establece las Bases de Coordinación del Sistema Nacional de Seguridad Pública o en la demás normatividad federal o estatal que sea aplicable.
+(DEROGADO, P.O. 14 DE NOVIEMBRE DE 2011)
 
 ###### Artículo 31.
 
-Los procesos de evaluación comprenderán los exámenes siguientes:
-
-I. Evaluación médica;
-
-II. Evaluación toxicológica;
-
-III. Evaluación de aptitudes físicas;
-
-IV. Evaluación psicológica;
-
-V. Evaluación de entorno social y situación patrimonial;
-
-VI. Evaluación de conocimientos;
-
-VII. Evaluación de control de confianza; y
-
-VIII. Otros que estén determinados en la normatividad federal o estatal que sea aplicable.
+(DEROGADO, P.O. 14 DE NOVIEMBRE DE 2011)
 
 ###### Artículo 32.
 
-Las personas que ingresen a la Policía Estatal Preventiva, lo harán con el grado de Agente “A” y para ascender deberán de participar en el proceso de promoción, que es el acto mediante el cual la superioridad otorga a los integrantes de ese cuerpo policiaco, el grado inmediato superior al que ostentan, dentro del orden jerárquico previsto en el presente Reglamento.
+(DEROGADO, P.O. 14 DE NOVIEMBRE DE 2011)
 
 ###### Artículo 33.
 
-La promociones sólo podrán conferirse cuando exista una vacante para la categoría jerárquica superior inmediata correspondiente conforme al presente Reglamento y únicamente se darán hasta el grado de Comandante.
+(DEROGADO, P.O. 14 DE NOVIEMBRE DE 2011)
 
 ###### Artículo 34.
 
-Los requisitos para que los miembros de la Policía Estatal Preventiva participen en el proceso de promoción son:
-
-I. Estar en servicio activo y no estar comisionado o gozando de licencia;
-
-II. Haber observado buena conducta;
-
-III. No haber estado sujeto a proceso penal;
-
-IV. Aprobar los exámenes que se señalen en la convocatoria; y
-
-V. Los demás que señale la convocatoria respectiva.
+(DEROGADO, P.O. 14 DE NOVIEMBRE DE 2011)
 
 ###### Artículo 35.
 
-Podrán otorgarse promociones directas, a los agentes que destaquen en el servicio a la comunidad.
+(DEROGADO, P.O. 14 DE NOVIEMBRE DE 2011)
 
 ###### Artículo 36.
 
-La comisión de estímulos y recompensas de la Secretaría de Seguridad Pública se integra por:
-
-I. El secretario de seguridad pública, quien lo presidirá;
-
-II. El Subsecretario de Seguridad Pública que designe el titular;
-
-III. El Director de Asuntos Jurídicos y Supervisión Interna de la Actuación Policial;
-
-IV. El Director de Finanzas y Administración; y
-
-V. El Director de la Policía Estatal Preventiva.
-
-Los miembros de la Policía Estatal Preventiva podrán ser acreedores de estímulos, recompensas o condecoraciones, cuando en el desempeño del servicio realicen actos de reconocido valor y en contra de la delincuencia. Asimismo, se deberán de inscribir en el Registro Nacional y Estatal del Personal de Seguridad Pública.
+(DEROGADO, P.O. 14 DE NOVIEMBRE DE 2011)
 
 ###### Artículo 37.
 
-En los manuales de estructuras, de organización y de procedimientos se establecerán la planeación, procedimiento, términos y regulación del servicio civil de carrera de la Policía Estatal Preventiva.
+(DEROGADO, P.O. 14 DE NOVIEMBRE DE 2011)
 
-### Capítulo IX. Del Procedimiento de Supervisión Interna de la Actuación Policial
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 14 DE NOVIEMBRE DE 2011)</small>
+
+### Capítulo IX. De la Comisión de Honor y Justicia
+
+> <small>(REFORMADO, P.O. 14 DE NOVIEMBRE DE 2011)</small>
 
 ###### Artículo 38.
 
-Las infracciones a las obligaciones de los miembros de la policía preventiva previstas en los artículos 72, 92, y 116 de la Ley de Seguridad Pública del Estado y 47 de éste Reglamento, cuya comisión pueda implicar la sanción de suspensión temporal o la remoción se harán del conocimiento de la Dirección de Asuntos Jurídicos y Supervisión Interna de la Actuación Policial por el Secretario, Subsecretario o, en su caso, por el Director de Seguridad Pública.
-
-La Dirección de Asuntos Jurídicos y Supervisión Interna de la Actuación Policial procederá conforme a lo siguiente:
-
-I. Se hará del conocimiento del presunto infractor la instauración y naturaleza del procedimiento, señalando los hechos que se le imputan y se le citará por escrito señalando lugar, día y hora para que comparezca a la audiencia a que se refiere el inciso III, señalando que podrá comparecer en forma personal acompañado de representante legal o persona de su confianza o por escrito;
-
-II. Entre la fecha en que sea recibido el citatorio y la de celebración de la audiencia, deberá mediar un plazo no menor de 3 días ni mayor de 5 días hábiles;
-
-III. En la audiencia a que se refier (sic), el inciso I el interesado manifestará por sí, por medio de persona de su confianza o de su representante legal, lo que a su derecho convenga, ofrecer pruebas y formular alegatos. En caso de comparecer por escrito, en éste deberán formularse los alegatos y ofrecerse las pruebas. En la audiencia se señalará domicilio para recibir notificaciones;
-
-IV. Desahogadas las pruebas, si las hubiere, y producidos, en su caso, los alegatos por parte del compareciente, la Unidad de Supervisión Interna de la Actuación Policial analizará las constancias que obren el (sic) expediente y en forma debidamente motivada y fundada emitirá la resolución que corresponda;
-
-V. La resolución recaída deberá ser notificada al interesado dentro de las 48 horas siguientes a su emisión;
-
-VI. La resolución que se dicte, tomará en consideración la falta cometida, la jerarquía y los antecedentes del elemento sujeto al procedimiento, así como las pruebas desahogadas; y (sic)
-
-VII. De todo lo actuado se levantará constancia por escrito y las resoluciones respectivas se agregarán a los expedientes u hojas de servicio del miembro de la policía preventiva;
-
-VIII. Las notificaciones y las citaciones se efectuarán por conducto de un Oficial Jurídico en funciones de notificador, quien para el ejercicio de esta (sic) funciones estará investido de fe pública; y
-
-IX. Será supletorio del procedimiento aquí establecido la Ley de Procedimiento Administrativo para el Estado y los Municipios de Campeche.
+La Comisión de Honor y Justicia, como instancia colegiada de las Instituciones de Seguridad Pública, tiene como objeto proveer la observancia del régimen disciplinario establecido a los integrantes de las instituciones de seguridad pública; conocer y resolver respecto del incumplimiento de los requisitos de permanencia y de las infracciones al régimen disciplinario cometidas por los integrantes de las instituciones de seguridad pública, así como imponer las sanciones y las correcciones disciplinarias a los miembros de las instituciones de seguridad pública cuando incumplan los principios de actuación, los deberes y las obligaciones establecidos en los ordenamientos aplicables, sin perjuicio de la aplicación de las sanciones que señalen otras leyes, conforme a lo dispuesto por la Ley General del Sistema Nacional de Seguridad Pública, la Ley de Seguridad Pública del Estado de Campeche, el Reglamento de la Comisión de Honor y Justicia y las demás leyes y reglamentos aplicables.
 
 ###### Artículo 39.
 
-Cuando el procedimiento a que se refiere el artículo anterior se instaure por existir presunción de infracciones de carácter grave, celebrada la audiencia o transcurrido el plazo fijado para la celebración de la misma sin que se hubiese presentado el presunto infractor previamente citado, la Unidad de Supervisión Interna de la Actuación Policial podrá determinar la separación del infractor de la corporación.
-
-La separación del servicio deberá determinarse considerando las circunstancias de la infracción, lo que en su caso se hubiese manifestado en la audiencia y considerando el riesgo que pueda tener para la comunidad el que el presunto infractor continué en el ejercicio de la función de seguridad pública en tanto se resuelva lo que en definitiva corresponda.
-
-La separación será temporal hasta en tanto se emita la resolución correspondiente. En tanto dure la separación temporal se suspenderán los efectos del nombramiento, pero todos los derechos inherentes a éste serán restituidos en forma retroactiva si la resolución no determina responsabilidad alguna al presunto infractor.
+(DEROGADO, P.O. 14 DE NOVIEMBRE DE 2011)
 
 ###### Artículo 40.
 
-La separación del servicio a que se refiere el artículo anterior deberá determinarse de inmediato respecto de un miembro de la policía preventiva al tenerse conocimiento de que el Ministerio Público ha resuelto ejercer en contra de éste una acción penal, sin perjuicio de resolver respecto a la remoción de dicho miembro conforme lo previsto en esa Ley y los ordenamientos aplicables.
+(DEROGADO, P.O. 14 DE NOVIEMBRE DE 2011)
 
-De resolverse improcedente la acción penal ejercida, se procederá conforme a lo previsto en el último párrafo del artículo anterior.
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 14 DE NOVIEMBRE DE 2011)</small>
+
+### Capítulo IX Bis. De la Comisión de Estímulos y Recompensas
+
+> <small>(ADICIONADO, P.O. 14 DE NOVIEMBRE DE 2011)</small>
+
+###### Artículo 40 Bis.
+
+La Comisión de Estímulos y Recompensas, como instancia colegiada de las Instituciones de Seguridad Pública, tiene como objeto elaborar y aplicar los lineamientos para el otorgamiento de estímulos y recompensas a los integrantes de las instituciones de seguridad pública; conocer de los actos y conductas de los miembros de su Institución que ameriten reconocimientos, premios y condecoraciones; determinar los ascensos de los miembros de su institución, así como establecer las medidas que impulsen y fortalezcan la dignidad y autoestima policial, conforme a lo dispuesto por la Ley General del Sistema Nacional de Seguridad Pública, la Ley de Seguridad Pública del Estado de Campeche, el Reglamento de la Comisión de Estímulos y Recompensas y las demás leyes y reglamentos aplicables.
 
 ### Capítulo X. Del Órgano Administrativo Desconcentrado
-
-### Capítulo XI
-
-De los Deberes y Obligaciones.
 
 ###### Artículo 41.
 
@@ -721,7 +635,9 @@ La dirección de vialidad como atribuciones tendrá la aplicación de medidas le
 
 Las demás unidades administrativas y servidores públicos del órgano administrativo se determinarán en los manuales de organización y de estructuras de la Secretaría, siempre que lo permita la previsión presupuestal.
 
-### Capítulo XII. De las Suplencias y Licencias
+### Capítulo XI
+
+De los Deberes y Obligaciones.
 
 ###### Artículo 45.
 
@@ -805,7 +721,7 @@ XXXIII. Las demás que señale el Secretario.
 
 El incumplimiento de los deberes y obligaciones por parte de los demás servidores públicos de la Secretaría, dará lugar a la instauración del procedimiento administrativo disciplinario previsto en la Ley Reglamentaria del Capítulo XVII de la Constitución Política del Estado de Campeche, por parte del respectivo órgano interno de control.
 
-### Capítulo XIII. Disposiciones Complementarias
+### Capítulo XII. De las Suplencias y Licencias
 
 ###### Artículo 49.
 
@@ -830,6 +746,8 @@ II. Hasta por seis meses, sin goce de sueldo, si existe causa justificada para e
 ###### Artículo 53.
 
 Las ausencias definitivas de cualquiera de los servidores públicos de la Secretaría se suplirán con un nuevo nombramiento.
+
+### Capítulo XIII. Disposiciones Complementarias
 
 ###### Artículo 54.
 
@@ -890,3 +808,11 @@ Lo anterior se observará también con relación a los derechos y obligaciones q
 Séptimo.- Los programas, convenios, contratos, acuerdos, actos jurídicos y demás asuntos jurídicos, contractuales, administrativos, litigiosos, jurisdiccionales y resolutivos a cargo de las dependencias que se reestructuran y de las que sin reestructurarse fueron afectadas en sus atribuciones, que se encontraren en curso o pendientes de su resolución en el momento de iniciar su vigencia el presente Decreto, se continuarán y serán despachados por las dependencias a las que corresponda ahora el conocimiento de las materias sobre los cuales aquellos versen.
 
 Octavo.- El Gobernador del Estado realizará las adecuaciones correspondientes a la Ley de Presupuesto de Egresos para el ejercicio fiscal 2009, a fin de tomar las previsiones presupuestales necesarias para el debido cumplimiento de lo ordenado por este decreto
+
+P.O. 14 DE NOVIEMBRE DE 2011.
+
+PRIMERO.- El presente acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- La Secretaría de Seguridad Pública y Protección a la Comunidad de la Administración Pública del Estado, en un término no mayor de 90 días naturales contados a partir de la entrada en vigor del presente acuerdo, deberá remitir a la Consejería Jurídica del Gobernador para su revisión, los anteproyectos de los reglamentos de las Comisiones de Estímulos y Recompensas, del Servicio Profesional de Carrera Policial y de Honor y Justicia, respectivamente, de conformidad con el artículo 22 de la Ley Orgánica de la Administración Pública del Estado, en vigor.
+
+TERCERO.- Se derogan todas las disposiciones legales y reglamentarias del marco jurídico estatal, de igual o menor jerarquía, en lo que se opongan al contenido del presente acuerdo.
