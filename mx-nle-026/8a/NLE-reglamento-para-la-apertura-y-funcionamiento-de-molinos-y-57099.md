@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-para-la-apertura-y-funcionamiento-de-molinos-y-57099
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-08-20"
-last_updated: "2007-08-20"
+last_updated: "2011-11-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57099&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 REGLAMENTO PARA LA APERTURA Y FUNCIONAMIENTO DE MOLINOS Y TORTILLERÍAS DE NIXTAMAL DE MAÍZ, DE HARINA, DE TRIGO Y SUS DERIVADOS, ASÍ COMO LA COMERCIALIZACIÓN EN LA VÍA PUBLICA DE SUS PRODUCTOS PARA EL MUNICIPIO DE GUADALUPE, NUEVO LEÓN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE NOVIEMBRE DE 2011.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el lunes 20 de agosto del 2007.
 
@@ -87,13 +87,13 @@ II.- Instrumentar acciones de coordinación y concertación para el control de l
 
 III.- La revocación de las autorizaciones otorgadas.
 
-IV.- Establecer la declaratoria de las áreas restringidas precisando en cada caso sus límites y colindancias.
+IV.- (DEROGADA, P.O. 14 DE NOVIEMBRE DE 2011)
 
 V.- Autorizar los cambios de domicilio, traspasos y los refrendos de las autorizaciones, o negarlos cuando no se cumpla con lo establecido en el presente reglamento.
 
 VI.- Formular el procedimiento para garantizar el cumplimiento de las sanciones en caso de que no se haya cumplido con las mismas.
 
-VII.- Otorgar autorizaciones preferentemente a los habitantes que residan en la ciudad de Guadalupe, Nuevo León.
+VII.- (DEROGADA, P.O. 14 DE NOVIEMBRE DE 2011)
 
 VIII.- Todas aquellas que le confieran las leyes y reglamentos aplicables a las actividades aquí reguladas.
 
@@ -193,7 +193,7 @@ VIII.- Presentar el aviso de funcionamiento correspondiente de la Secretaria de 
 
 IX.- Plano de ubicación del inmueble.
 
-X.-Para la instalación de un establecimiento de nueva creación, tendrá que contar con una distancia de seiscientos metros radiales, de otro negocio similar, de acuerdo al giro que se pretenda establecer.
+X.- (DEROGADA, P.O. 14 DE NOVIEMBRE DE 2011)
 
 II.- DE LA VÍA PÚBLICA
 
@@ -209,9 +209,11 @@ I.- En caso de realizar la actividad en vehículo de motor, triciclo, o cualquie
 
 II.- Todo vehículo de motor, que se utilice para la distribución de las tortillas deberá contar con seguro de responsabilidad civil, así como también el conductor de la unidad deberá contar con la licencia de chofer vigente, a fin de salvaguardar los intereses de terceros en caso de accidente.
 
-III.- Al realizar la venta de la tortilla en la vía pública, deberá cumplir con las normas establecidas por la Secretaría de Salud del Estado, así como el Reglamento Municipal Correspondiente.
+> <small>(REFORMADA, P.O. 14 DE NOVIEMBRE DE 2011)</small>
 
-IV.- No deberá transgredir el área de influencia de negocios establecidos que se dedican a la elaboración de tortillas, molino nixtamalizado o molinos-tortillerías en un radio de 300 trescientos metros.
+III.- Al realizar la venta de la tortilla en la vía pública, deberá cumplir con las normas establecidas por la Secretaría de Salud del Estado, así como con las demás disposiciones establecidas en los reglamentos municipales aplicables.
+
+IV.- (DEROGADA, P.O. 14 DE NOVIEMBRE DE 2011)
 
 V.- En caso de que tenga necesidad de anunciarse, por medio del perifoneo deberá solicitar la autorización ante la Autoridad correspondiente el cual deberá anexar al solicitar la autorización.
 
@@ -297,15 +299,19 @@ Las autorizaciones de los establecimientos podrán traspasarse o hacer cambio de
 
 I.- Se deberá anexar la autorización en original a la solicitud.
 
-II.- Cumplir con los requisitos establecidos en el artículo 16 del presente reglamento.
+> <small>(REFORMADA, P.O. 14 DE NOVIEMBRE DE 2011)</small>
+
+II.- cumplir con los requisitos establecidos en el artículo 12 del presente Reglamento;
 
 III.- Identificación oficial de las personas que lo van a realizar.
 
 Artículos 23.- Para realizar el cambio de domicilio del molino de nixtamal y tortillerías deberán presentarlo por escrito ante la Dirección, indicando el número de autorización, así como el domicilio del nuevo local en donde se pretende instalar el negocio.
 
+> <small>(REFORMADO, P.O. 14 DE NOVIEMBRE DE 2011)</small>
+
 ###### Artículo 24.
 
-Una vez instalado el establecimiento en el nuevo local y cumpliendo todos los requisitos del artículo 16, la autorización anterior quedará automáticamente sin efecto legal alguno.
+Una vez instalado el establecimiento en el nuevo local y cumpliendo todos los requisitos del artículo 12, la autorización anterior quedará automáticamente sin efecto legal alguno.
 
 ###### Artículo 25.
 
@@ -498,3 +504,11 @@ PRESIDENTA MUNICIPAL
 LIC. ALFONSO RODRÍGUEZ OCHOA
 
 SECRETARIO DEL R. AYUNTAMIENTO
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 14 DE NOVIEMBRE DE 2011.
+
+PRIMERO.- Las presentes reformas por derogación de la Fracción IV y VII del artículos (sic) 4, Fracción X del artículo 12, así como las reformas por modificación de la fracción III y derogación de la fracción IV del artículo 14, reformas por modificación de los artículos 22 fracción II y artículo 24 del REGLAMENTO PARA LA APERTURA Y FUNCIONAMIENTO DE MOLINOS Y TORTILLERÍAS DE NIXTAMAL DE MAÍZ, DE HARINA, DE TRIGO Y SUS DERIVADOS, ASÍ COMO LA COMERCIALIZACIÓN EN LA VÍA PÚBLICA DE SUS PRODUCTOS PARA EL MUNICIPIO DE GUADALUPE, NUEVO LEÓN, entrarán en vigor al día hábil siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
+
+SEGUNDO.- Se derogan así mismo todas las disposiciones, reglamentarias, circulares, acuerdos y normas que contravengan al contenido de las presentes reformas.
