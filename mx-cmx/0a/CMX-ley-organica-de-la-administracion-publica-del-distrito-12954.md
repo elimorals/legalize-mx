@@ -4,7 +4,7 @@ identifier: "CMX-ley-organica-de-la-administracion-publica-del-distrito-12954"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1998-12-29"
-last_updated: "2011-08-16"
+last_updated: "2011-11-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12954&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1998-12-14"
 
 LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 16 DE AGOSTO DE 2011.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 14 DE NOVIEMBRE DE 2011.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el martes 29 de diciembre de 1998.
 
@@ -618,7 +618,9 @@ IV. Vigilar que la educación que impartan los particulares en planteles incorpo
 
 V. Prestar servicios bibliotecarios a través de bibliotecas públicas, a fin de apoyar al sistema educativo del Distrito Federal, a la innovación educativa y a la investigación científica, tecnológica y humanística, en concurrencia con la Federación.
 
-VI. Formular, fomentar, coordinar y ejecutar políticas, programas y acciones de promoción y difusión de la investigación científica y la innovación tecnológica;
+> <small>(REFORMADA, G.O. 14 DE NOVIEMBRE DE 2011)</small>
+
+VI. Formular, fomentar, coordinar y ejecutar políticas, programas y acciones de promoción y difusión de la investigación científica, innovación tecnológica y de protección al medio ambiente;
 
 VII. Recibir y sistematizar la información que en materia de investigación científica e innovación tecnológica reciba de las instituciones académicas y centros de investigación públicos y privados, y operar un sistema de consulta al servicio de las dependencias, órganos desconcentrados y entidades de la Administración Pública del Distrito Federal y público en general;
 
@@ -2257,3 +2259,9 @@ TERCERO.- Cada uno de los Entes Públicos habilitará los portales de internet, 
 CUARTO.- La Contraloría General del Distrito Federal deberá habilitar el portal de Internet denominado "Gobierno en línea 2.0", en un plazo máximo de doce meses a partir de la entrada en vigor del presente Decreto.
 
 QUINTO.- El Instituto de Ciencia y Tecnología del Distrito Federal deberá elaborar, en un plazo máximo de tres meses a partir de la entrada en vigor del presente Decreto, un estudio con recomendaciones sobre el uso de redes sociales en el Distrito Federal.
+
+G.O. 14 DE NOVIEMBRE DE 2011.
+
+PRIMERO: El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+SEGUNDO: Publíquese en la Gaceta Oficial del Distrito Federal.
