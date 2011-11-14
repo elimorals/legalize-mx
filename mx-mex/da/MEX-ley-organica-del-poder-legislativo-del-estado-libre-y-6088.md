@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-del-poder-legislativo-del-estado-libre-y-6088"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-09-15"
-last_updated: "2011-11-11"
+last_updated: "2011-11-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6088&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "MEX"
 ---
 # LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE MEXICO
 
-LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE MEXICO
+LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE MÉXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 11 DE NOVIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 14 DE NOVIEMBRE DE 2011.
 
 Ley publicada en la Tercera Sección de la Gaceta del Gobierno del Estado de México, el viernes 15 de septiembre de 1995.
 
@@ -63,7 +63,7 @@ El ejercicio del Poder Legislativo se deposita en una asamblea denominada Legisl
 
 A la Legislatura se le denominará agregando previamente el número romano que le corresponda.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 3 DE SEPTIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 3 DE SEPTIEMBRE DE 2008)</small>
 
 ###### Artículo 6.
 
@@ -335,7 +335,7 @@ Una vez que hayan sido publicadas las leyes y disposiciones de carácter general
 
 ### CAPITULO II. DE LA DIRECTIVA DE LA LEGISLATURA
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 30 DE ABRIL DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 30 DE ABRIL DE 2004)</small>
 
 ###### Artículo 39.
 
@@ -385,7 +385,7 @@ El Presidente será electo para todo el periodo ordinario de sesiones, los demá
 
 El Presidente de la Directiva, lo será también de la Legislatura.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 21 DE JULIO DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 21 DE JULIO DE 2006)</small>
 
 ###### Artículo 43.
 
@@ -689,7 +689,7 @@ En la segunda sesión de los periodos ordinarios, se dará cuenta con los dictá
 
 En el ejercicio de sus funciones, la Directiva de la Diputación Permanente observará en lo conducente las normas que rigen para la Directiva de la Legislatura.
 
-> <small>(REFORMADA SU DENOMINACION, G.G. 30 DE ABRIL DE 2004)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, G.G. 30 DE ABRIL DE 2004)</small>
 
 ### CAPITULO VI. DE LAS COMISIONES Y COMITÉS
 
@@ -713,7 +713,7 @@ La Junta de Coordinación Política contará para su buen funcionamiento con un 
 
 El Presidente, los Vicepresidentes y el Secretario duraran un año, al término del cual, la Asamblea elegirá, en la segunda sesión ordinaria del primer período de sesiones del año que corresponda, de entre los integrantes de la Junta de Coordinación Política a quienes deberán ocupar dichos cargos.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 30 DE ABRIL DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 30 DE ABRIL DE 2004)</small>
 
 ###### Artículo 62.
 
@@ -773,7 +773,7 @@ XV.- Proponer a la Asamblea, a más tardar en el mes de noviembre, el Tabulador 
 
 XVI. Las demás que le confieran la ley, el reglamento o la Asamblea.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 30 DE ABRIL DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 30 DE ABRIL DE 2004)</small>
 
 ###### Artículo 62 Bis.
 
@@ -789,7 +789,7 @@ La Conferencia para la Dirección y Programación de los Trabajos Legislativos e
 
 1. El Presidente de la Junta de Coordinación Política presidirá la Conferencia para la Dirección y Programación de los Trabajos Legislativos y supervisará el cumplimiento de sus acuerdos a través de la Secretaría de Asuntos Parlamentarios.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 8 DE MARZO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 8 DE MARZO DE 2011)</small>
 
 2. En cada una de sus sesiones, la Conferencia para la Dirección y Programación de los Trabajos Legislativos, deberá determinar los puntos a tratar en el orden del día de la sesión de la Legislatura, en su caso, la propuesta de turno a la comisión o comisiones que corresponda a cada uno de los puntos a tratar en dicho orden del día, proponer a la Legislatura o a la Diputación Permanente la dispensa de trámite de las iniciativas de ley o decreto, establecer los formatos de debate y los calendarios para el examen de los dictámenes por parte del Pleno de la Legislatura. Esos últimos se harán del conocimiento del Gobernador del Estado y de las autoridades a quienes la Constitución otorga el derecho de iniciativa, al menos dos días antes de que hayan de celebrarse dichas sesiones, para que, de ser el caso, puedan participar de su discusión.
 
@@ -839,7 +839,7 @@ En las faltas temporales del Presidente, lo sustituirá el Vicepresidente que si
 
 En los casos en que los titulares se ausenten de manera definitiva, serán sustituidos ante la Junta de Coordinación Política por los coordinadores de los Grupos Parlamentarios respectivos, según la afiliación del diputado que corresponda y la Legislatura elegirá quienes deban ocupar los cargos correspondientes.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 30 DE ABRIL DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 30 DE ABRIL DE 2004)</small>
 
 ###### Artículo 65.
 
@@ -909,7 +909,7 @@ II. Auxiliar en el desempeño de sus funciones; y
 
 III. Las demás que le encomiende el Presidente o la Junta de Coordinación Política.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 30 DE ABRIL DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 30 DE ABRIL DE 2004)</small>
 
 ###### Artículo 66.
 
@@ -939,7 +939,7 @@ I. Auxiliar al secretario en el despacho de los asuntos a su cargo;
 
 II. Las que les encomiende la Junta de Coordinación Política o su Presidente.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 19 DE AGOSTO DEL 2003)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 19 DE AGOSTO DEL 2003)</small>
 
 ### CAPITULO VII. DEL PROCESO LEGISLATIVO
 
@@ -951,7 +951,7 @@ II. Las que les encomiende la Junta de Coordinación Política o su Presidente.
 
 La Legislatura para el ejercicio de sus funciones, contará con comisiones legislativas, especiales, jurisdiccionales y comités. En el reglamento se regulará la organización y funcionamiento de dichos órganos.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 30 DE ABRIL DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 30 DE ABRIL DE 2004)</small>
 
 ###### Artículo 69.
 
@@ -1101,7 +1101,7 @@ Los Secretarios Técnicos, podrán ser removidos por el presidente de la Comisi�
 
 En el caso de que los diputados no sean miembro (sic) de las comisiones o de los comités, podrán integrarse como asociados, con voz pero sin voto. Los diputados presidirán una sola comisión legislativa.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 22 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 22 DE OCTUBRE DE 2010)</small>
 
 ###### Artículo 72.
 
@@ -1111,19 +1111,11 @@ Las comisiones legislativas tendrán como funciones estudiar y analizar las inic
 
 Para el cumplimiento de esta función el pleno de cada Comisión Legislativa podrá constituir subcomisiones de trabajo con el objeto de agilizar y especializar la labor de dictaminación.
 
-> <small>(ADICIONADO, G.G. 27 DE DICIEMBRE DE 2006)</small>
-
-Artículo 72 BIS.- Las Comisiones y Comités de la Legislatura deberán instalarse a más tardar el 5 de noviembre del Primer Período Ordinario de cada Legislatura. Cada una de éstas, deberán reunirse en sesión plenaria por lo menos una vez cada dos meses y entregar a la instancia correspondiente un informe trimestral de sus actividades realizadas.
-
-> <small>(ADICIONADO, G.G. 10 DE NOVIEMBRE DE 2011)</small>
-
-Los Presidentes de las Comisiones o Comités deberán emitir los informes necesarios sobre la actualización del estatus en que se encuentren las iniciativas que hayan sido remitidas a sus comisiones o comités para su estudio, lo anterior para que el Presidente de la Legislatura y el Presidente de la Junta de Coordinación Política atiendan lo dispuesto por los artículos 47 fracción XXI y 65 fracción XIV de esta ley.
-
-> <small>(REFORMADO, G.G. 13 DE AGOSTO DE 2007)</small>
+> <small>(REFORMADO, G.G. 14 DE NOVIEMBRE DE 2011)</small>
 
 ###### Artículo 72 Bis.
 
-Las Comisiones y Comités de la Legislatura deberán instalarse a más tardar el 5 de noviembre del Primer Período Ordinario de cada Legislatura. Cada una de éstas, deberán reunirse en sesión plenaria por lo menos una vez cada dos meses y entregar a la instancia correspondiente un informe trimestral de sus actividades realizadas.
+Las Comisiones y Comités de la Legislatura deberán instalarse a más tardar el 5 de noviembre del Primer Periodo Ordinario de cada Legislatura, observarán para su conducción las reglas aplicables a la Legislatura en Pleno, deberán reunirse en sesión plenaria por lo menos una vez al mes siempre y cuando tengan encomendadas iniciativas o asuntos y entregarán a la Directiva y Junta de Coordinación Política un informe trimestral de sus actividades realizadas.
 
 > <small>(REFORMADO, G.G. 13 DE AGOSTO DE 2007)</small>
 
@@ -1543,7 +1535,7 @@ C. LIC. GERMAN GREGORIO ORDOÑEZ MONROY
 
 (Rúbrica)
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 G.G. 12 DE DICIEMBRE DE 1996.
 
@@ -1685,7 +1677,7 @@ Este decreto entrará en vigor al día siguiente de su publicación en el Perió
 
 G.G. 21 DE JULIO DE 2006.
 
-DECRETO NUMERO 239.
+DECRETO NÚMERO 239.
 
 ###### ARTICULO PRIMERO.
 
@@ -1701,7 +1693,7 @@ La "LVI" Legislatura elegirá a los nuevos titulares de las dependencias o ratif
 
 G.G. 21 DE JULIO DE 2006.
 
-DECRETO NUMERO 240.
+DECRETO NÚMERO 240.
 
 ###### ARTICULO PRIMERO.
 
@@ -1807,7 +1799,7 @@ TERCERO.- Los Vicepresidentes serán electos por la Asamblea cuando se lleve a c
 
 G.G. 13 DE OCTUBRE DE 2008.
 
-DECRETO NO. 206, POR EL QUE SE ADICIONAN LOS ARTICULOS 76, CON UN ANTEPENULTIMO PARRAFO Y EL 76 TER, DE LA LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE MEXICO.
+DECRETO NO. 206, POR EL QUE SE ADICIONAN LOS ARTÍCULOS 76, CON UN ANTEPENÚLTIMO PÁRRAFO Y EL 76 TER, DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE MÉXICO.
 
 PRIMERO.- Publíquese el presente Decreto en el periódico oficial "Gaceta del Gobierno".
 
@@ -1815,7 +1807,7 @@ SEGUNDO.- Este Decreto entrará en vigor el día siguiente de su publicación en
 
 G.G. 13 DE OCTUBRE DE 2008.
 
-DECRETO NO. 207, POR EL QUE SE ADICIONA UN PENULTIMO PARRAFO AL ARTICULO 69 DE LA LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE MEXICO.
+DECRETO NO. 207, POR EL QUE SE ADICIONA UN PENÚLTIMO PÁRRAFO AL ARTÍCULO 69 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE MÉXICO.
 
 ###### ARTÍCULO PRIMERO.
 
@@ -1885,7 +1877,7 @@ El presente Decreto entrará en vigor al día siguiente al de su publicación en
 
 G.G. 15 DE DICIEMBRE DE 2010.
 
-DECRETO NUMERO 239, POR EL QUE SE REFORMA LA FRACCION XVII DEL ARTICULO 47 DE LA LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE MEXICO.
+DECRETO NÚMERO 239, POR EL QUE SE REFORMA LA FRACCIÓN XVII DEL ARTÍCULO 47 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE MÉXICO.
 
 PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
 
@@ -1893,7 +1885,7 @@ SEGUNDO.- Este Decreto entrará en vigor el día siguiente de su publicación en
 
 G.G. 15 DE DICIEMBRE DE 2010.
 
-DECRETO NUMERO 240, POR EL QUE SE ADICIONA UN SEXTO PARRAFO AL ARTICULO 96 DE LA LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE MEXICO.
+DECRETO NÚMERO 240, POR EL QUE SE ADICIONA UN SEXTO PÁRRAFO AL ARTÍCULO 96 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE MÉXICO.
 
 PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
 
@@ -1948,3 +1940,9 @@ G.G. 11 DE NOVIEMBRE DE 2011.
 PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
 
 SEGUNDO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 14 DE NOVIEMBRE DE 2011.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial "Gaceta del Gobierno".
