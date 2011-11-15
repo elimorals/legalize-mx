@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-del-instituto-nacional-de-las-mujeres-45094
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-06-23"
-last_updated: "2009-03-09"
+last_updated: "2011-11-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45094&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "2005-05-27"
 
 REGLAMENTO INTERIOR DEL INSTITUTO NACIONAL DE LAS MUJERES
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 9 DE MARZO DE 2009.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DEL ESTATUTO ORGANICO DEL INSTITUTO NACIONAL DE LAS MUJERES, PUBLICADO EN EL D.O.F. DE 15 DE NOVIEMBRE DE 2011, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: ABROGADO.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el día jueves 23 de junio de 2005.
 
@@ -2104,3 +2106,11 @@ D.O.F. 9 DE MARZO DE 2009.
 Primero.- El presente Decreto, entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 Segundo.- Los asuntos que se encuentren en trámite en las unidades administrativas cuyas atribuciones se reforman, serán atendidos y resueltos en los términos de las competencias que establece el presente ordenamiento.
+
+D.O.F. 15 DE NOVIEMBRE DE 2011.
+
+Primero.- El presente Estatuto Orgánico entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- Se derogan las disposiciones internas de carácter administrativo que se opongan a lo previsto por este Estatuto Orgánico.
+
+Tercero.- Se abroga el Reglamento Interior del Instituto Nacional de las Mujeres.
