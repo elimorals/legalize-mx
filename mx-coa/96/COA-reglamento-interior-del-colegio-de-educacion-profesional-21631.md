@@ -4,7 +4,7 @@ identifier: "COA-reglamento-interior-del-colegio-de-educacion-profesional-21631"
 country: "mx"
 rank: "reglamento"
 publication_date: "2001-06-19"
-last_updated: "2001-06-19"
+last_updated: "2011-11-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21631&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "COA"
 ---
 # REGLAMENTO INTERIOR DEL COLEGIO DE EDUCACION PROFESIONAL TECNICA DEL ESTADO DE COAHUILA
 
-REGLAMENTO INTERIOR DEL COLEGIO DE EDUCACION PROFESIONAL TECNICA DEL ESTADO DE COAHUILA
+REGLAMENTO INTERIOR DEL COLEGIO DE EDUCACIÓN PROFESIONAL TÉCNICA DEL ESTADO DE COAHUILA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE NOVIEMBRE DE 2011.
 
 Reglamento publicado en el Periódico Oficial del Estado de Coahuila, el martes 19 de junio de 2001.
 
@@ -139,21 +139,35 @@ El Órgano supremo del Colegio estará a cargo de un órgano colegiado denominad
 
 Artículo 6°
 
-La Junta Directiva, en términos del Artículo 7º del Decreto de creación del Colegio, se integrará por:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE NOVIEMBRE DE 2011)</small>
 
-I. Cuatro representantes del Gobierno del Estado, que serán:
+La Junta Directiva, en términos del Artículo 7° del Decreto de Creación del Colegio de Educación Profesional Técnica del Estado de Coahuila, se integrará por:
 
 1. Un Presidente Honorario, que será el Gobernador del Estado;
 
 2. Un Presidente Ejecutivo, que será el Secretario de Educación Pública, quien la presidirá;
 
-3. Dos Vicepresidentes, que serán el Secretario de Finanzas y el de la Contraloría y Modernización Administrativa;
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 2011)</small>
+
+3. Dos Vicepresidentes, que serán el Secretario de Finanzas y el de Fomento Económico;
 
 4. Por Cinco Vocales, que serán:
 
 a) Tres representantes del sector productivo del Estado, miembros del Comité de Vinculación Estatal y
 
 b) Dos representantes del Gobierno Federal, designados uno por la Secretaría de Educación Pública y otro por el CONALEP ambos a invitación del Gobernador del Estado.
+
+> <small>(ADICIONADO, P.O. 15 DE NOVIEMBRE DE 2011)</small>
+
+5. Por un Comisario; que será designado por la Secretaría de la Función Pública.
+
+> <small>(ADICIONADO, P.O. 15 DE NOVIEMBRE DE 2011)</small>
+
+Artículo 6° Bis
+
+La Comisaría tendrá las siguientes atribuciones:
+
+I. Las facultades del comisario serán las señaladas en la Ley de Entidades Paraestatales del Estado de Coahuila, así como las precisadas en las modificaciones del Decreto de Creación del Colegio de Educación Profesional Técnica del Estado de Coahuila, publicadas el 24 de noviembre del 2006 y el 22 de enero del 2010 en el Periódico Oficial del Gobierno del Estado de Coahuila.
 
 Artículo 7°
 
@@ -207,7 +221,9 @@ Artículo 8°
 
 Para su funcionamiento, la Junta Directiva del Colegio se sujetará a lo siguiente:
 
-I. La Junta Directiva será presidida por el Secretario de Educación Publica del Gobierno del Estado. El Director General fungirá como Secretario Técnico de la Junta Directiva y tendrá derecho a voz pero sin voto;
+> <small>(REFORMADA, P.O. 15 DE NOVIEMBRE DE 2011)</small>
+
+I. La Junta Directiva será presidida por el Secretario de Educación y Cultura del Estado de Coahuila. El Director General fungirá como Secretario Técnico de la Junta Directiva y tendrá derecho a voz pero sin voto;
 
 II. Sesionará en reuniones ordinarias trimestralmente de acuerdo al calendario anual, la programación de las sesiones será aprobada en la primera sesión ordinaria del ejercicio, y extraordinarias cuando las convoque su Presidente;
 
@@ -217,9 +233,13 @@ IV. La convocatoria deberá señalar el lugar, día y hora de la sesión e irá 
 
 V. En caso de que la reunión convocada no pudiera llevarse a cabo en la fecha programada, deberá celebrarse entre los cinco y quince días hábiles siguientes;
 
-VI. La instalación legal de las reuniones ordinarias de la Junta Directiva requerirá de la asistencia de por lo menos la mitad más uno de sus miembros, entre los cuales deberá estar presente su presidente o quien supla sus ausencias y los representantes de la Secretaría de Educación Pública del Gobierno Federal y del CONALEP;
+> <small>(REFORMADA, P.O. 15 DE NOVIEMBRE DE 2011)</small>
 
-VII. Tratándose de la instalación legal de reuniones extraordinarias, se requerirá la presencia de su presidente o quien supla sus ausencias, y tendrá validez con quienes se encuentren presentes;
+VI. La instalación legal de las sesiones ordinarias de la Junta Directiva requerirá de la asistencia de por lo menos la mitad mas uno de los miembros y tratándose de extraordinarias, se requerirá de la presencia de su Presidente Ejecutivo y tendrá validez con quienes se encuentren presentes;
+
+> <small>(REFORMADA, P.O. 15 DE NOVIEMBRE DE 2011)</small>
+
+VII. En el caso de que no se reuniera el quórum legal para las sesiones ordinarias, el presidente convocará a una nueva sesión a celebrarse en un término de setenta y dos horas y mandará notificar de lo anterior a los integrantes de la Junta. Comprobada la notificación, la sesión se realizará con los que estuvieren presentes;
 
 VIII. Las resoluciones de la Junta Directiva, se tomarán estando instalada legalmente y por mayoría simple de los miembros presentes, en caso de empate, el Presidente tendrá voto de calidad;
 
@@ -874,3 +894,11 @@ VOCAL
 PRESIDENTE DEL CONSEJO DE ADMINISTRACIÓN DE TECLAC CONSULTORES
 
 C.P. REYNALDO VILLARREAL GUTIÉRREZ
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 15 DE NOVIEMBRE DE 2011.
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se dejan sin efectos las disposiciones que se opongan al presente Decreto.
