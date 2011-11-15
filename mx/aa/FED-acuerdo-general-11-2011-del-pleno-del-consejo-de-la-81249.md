@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-11-2011-del-pleno-del-consejo-de-la-81249"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2011-05-12"
-last_updated: "2011-10-28"
+last_updated: "2011-11-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81249&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2011-05-03"
 
 ACUERDO GENERAL 11/2011, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DETERMINACION DEL NUMERO Y LIMITES TERRITORIALES DE LOS CIRCUITOS EN QUE SE DIVIDE LA REPUBLICA MEXICANA; Y AL NUMERO, A LA JURISDICCION TERRITORIAL Y ESPECIALIZACION POR MATERIA DE LOS TRIBUNALES COLEGIADOS Y UNITARIOS DE CIRCUITO Y DE LOS JUZGADOS DE DISTRITO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 28 DE OCTUBRE DE 2011.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 15 DE NOVIEMBRE DE 2011.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el jueves 12 de mayo de 2011.
 
@@ -191,7 +191,9 @@ IX. NOVENO CIRCUITO:
 
 2. Un tribunal unitario con sede en San Luis Potosí.
 
-3. Seis juzgados de Distrito en el Estado de San Luis Potosí: cinco con residencia en la ciudad del mismo nombre y uno con sede en Ciudad Valles.
+> <small>(REFORMADO POR EL PUNTO NOVENO DEL ACUERDO GENERAL 35/2011 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 15 DE NOVIEMBRE DE 2011)</small>
+
+3. Siete juzgados de Distrito en el Estado de San Luis Potosí: cinco con residencia en la ciudad del mismo nombre y dos con sede en Ciudad Valles”.
 
 X. DECIMO CIRCUITO:
 
@@ -555,7 +557,9 @@ IX. NOVENO CIRCUITO:
 
 Los juzgados de Distrito en el Estado de San Luis Potosí, con residencia en la ciudad del mismo nombre, ejercerán jurisdicción territorial en el distrito judicial conformado por los municipios de: Ahualulco, Armadillo de los Infante, Catorce, Cedral, Cerritos, Cerro de San Pedro, Charcas, Ciudad Fernández, Guadalcázar, Matehuala, Mexquitic de Carmona, Moctezuma, Rioverde, Salinas, San Luis Potosí, San Nicolás Tolentino, Santa María del Río, Santo Domingo, Soledad de Graciano Sánchez, Tierranueva, Vanegas, Venado, Villa de Arista, Villa de Arriaga, Villa de Guadalupe, Villa de la Paz, Villa de Ramos, Villa de Reyes, Villa Hidalgo, Villa Juárez y Zaragoza.
 
-El juzgado de Distrito en el Estado de San Luis Potosí, con sede en Ciudad Valles, ejercerá jurisdicción territorial en el distrito judicial conformado por los municipios de: Alaquines, Aquismón, Axtla de Terrazas, Cárdenas, Ciudad del Maíz, Ciudad Valles, Coxcatlán, Ebano, El Naranjo, Huehuetlán, Lagunillas, Matlapa, Rayón, San Antonio, San Ciro de Acosta, San Martín Chalchicuautla, San Vicente Tancuayalab, Santa Catarina, Tamasopo, Tamazunchale, Tampacán, Tampamolón Corona, Tamuín, Tancanhuitz de Santos, Tanlajás, Tanquián de Escobedo y Xilitla.
+> <small>(REFORMADO POR EL PUNTO NOVENO DEL ACUERDO GENERAL 35/2011 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 15 DE NOVIEMBRE DE 2011)</small>
+
+Los juzgados de Distrito en el Estado de San Luis Potosí, con sede en Ciudad Valles, ejercerán jurisdicción territorial en el distrito judicial conformado por los municipios de: Alaquines, Aquismón, Axtla de Terrazas, Cárdenas, Ciudad del Maíz, Ciudad Valles, Coxcatlán, Ebano, El Naranjo, Huehuetlán, Lagunillas, Matlapa, Rayón, San Antonio, San Ciro de Acosta, San Martín Chalchicuautla, San Vicente Tancuayalab, Santa Catarina, Tamasopo, Tamazunchale, Tampacán, Tampamolón Corona, Tamuín, Tancanhuitz de Santos, Tanlajás, Tanquián de Escobedo y Xilitla”.
 
 X. DECIMO CIRCUITO:
 
@@ -707,7 +711,9 @@ QUINTO. Se contará con:
 
 4. El Centro Auxiliar de la Cuarta Región, con residencia en Xalapa, Veracruz, se integrará por dos tribunales colegiados de Circuito Auxiliares, un tribunal unitario de Circuito Auxiliar y cinco juzgados de Distrito Auxiliares.
 
-5. El Centro Auxiliar de la Quinta Región, con residencia en Culiacán, Sinaloa, se integrará por dos tribunales colegiados de Circuito Auxiliares, dos tribunales unitarios de Circuito Auxiliares y siete juzgados de Distrito Auxiliares.
+> <small>(REFORMADO POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL 43/2011 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 15 DE NOVIEMBRE DE 2011)</small>
+
+5. El Centro Auxiliar de la Quinta Región, se integrará por cinco tribunales colegiados de Circuito auxiliares, tres con residencia en Culiacán, Sinaloa, uno en Los Mochis, Sinaloa, y uno en La Paz, Baja California Sur; dos tribunales unitarios de Circuito auxiliares, ambos con sede en Culiacán, Sinaloa, y siete juzgados de Distrito auxiliares, con residencia en Culiacán, Sinaloa, los cuales tendrán jurisdicción en toda la República y competencia mixta para apoyar en el dictado de sentencias.
 
 6. El Centro Auxiliar de la Sexta Región, con residencia en Chihuahua, Chihuahua, el cual se integrará por un tribunal colegiado de Circuito Auxiliar, un tribunal unitario de Circuito Auxiliar y un juzgado de Distrito Auxiliar.
 
@@ -844,3 +850,23 @@ PRIMERO. El presente acuerdo entrará en vigor el día de su aprobación.
 SEGUNDO. Publíquese este acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
 
 TERCERO. La Secretaría Ejecutiva de Vigilancia, Información y Evaluación, deberá integrar de inmediato el texto de esta reforma, al Acuerdo General 54/2009, del Pleno del Consejo de la Judicatura Federal, por el que se crea el Centro Auxiliar de la Décima Región, con residencia en Saltillo, Coahuila de Zaragoza, así como los órganos jurisdiccionales que lo integrarán.
+
+D.O.F. 15 DE NOVIEMBRE DE 2011.
+
+ACUERDO GENERAL 35/2011 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE MODIFICA EL ACUERDO GENERAL 11/2011, DE VEINTITRÉS DE MARZO DE DOS MIL ONCE, EN EL PUNTO SEGUNDO, APARTADO IX.- NOVENO CIRCUITO, NUMERO 3.
+
+PRIMERO. El presente acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO. Publíquese este acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+
+TERCERO. La Secretaría Ejecutiva de Vigilancia, Información y Evaluación, deberá integrar de inmediato el texto de la reforma, al Acuerdo General 11/2011, del Pleno del Consejo de la Judicatura Federal, Relativo a la Determinación del Número y Límites Territoriales de los Circuitos en que se Divide la República Mexicana; y al Número, a la Jurisdicción Territorial y Especialización por Materia de los Tribunales Colegiados y Unitarios de Circuito y de los Juzgados de Distrito.
+
+D.O.F. 15 DE NOVIEMBRE DE 2011.
+
+ACUERDO GENERAL 43/2011 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE REFORMA EL PUNTO 5 DEL APARTADO QUINTO DEL ACUERDO GENERAL 11/2011 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL.
+
+PRIMERO. El presente acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO. Publíquese este acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+
+TERCERO. La Secretaría Ejecutiva de Vigilancia, Información y Evaluación, deberá integrar de inmediato el texto de esta reforma, al Acuerdo General 52/2008, del Pleno del Consejo de la Judicatura Federal, por el que se crea el Centro Auxiliar de la Quinta Región, así como los órganos jurisdiccionales que lo integrarán.
