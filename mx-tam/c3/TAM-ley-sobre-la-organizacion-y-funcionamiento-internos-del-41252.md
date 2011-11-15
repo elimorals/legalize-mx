@@ -4,7 +4,7 @@ identifier: "TAM-ley-sobre-la-organizacion-y-funcionamiento-internos-del-41252"
 country: "mx"
 rank: "ley"
 publication_date: "2004-07-22"
-last_updated: "2011-06-16"
+last_updated: "2011-11-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41252&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "TAM"
 ---
 # LEY SOBRE LA ORGANIZACION Y FUNCIONAMIENTO INTERNOS DEL CONGRESO DEL ESTADO DE TAMAULIPAS
 
-LEY SOBRE LA ORGANIZACION Y FUNCIONAMIENTO INTERNOS DEL CONGRESO DEL ESTADO DE TAMAULIPAS
+LEY SOBRE LA ORGANIZACIÓN Y FUNCIONAMIENTO INTERNOS DEL CONGRESO DEL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE JUNIO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE NOVIEMBRE DE 2011.
 
 Ley publicada en el Anexo del Periódico Oficial del Estado de Tamaulipas, el jueves 22 de julio de 2004.
 
@@ -1069,17 +1069,27 @@ g) Preservar la dignidad de la representación popular que tienen conferida con 
 
 3. Los Diputados que funjan como representantes del Poder Legislativo en organismos descentralizados, que formen parte de comisiones, comités, consejos o asambleas, deberán rendir ante el Pleno del H. Congreso del Estado un informe anual de las actividades desempeñadas.
 
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 2011)</small>
+
 ###### ARTICULO 69.
 
-1. La dieta de los diputados podrá ser disminuida cuando incurran en ausencia injustificada a una sesión.
+1. La dieta de los diputados será disminuida cuando incurran en ausencia a una sesión, reunión de Comisión o Comité, sin previo aviso o habiendo realizado éste se determine injustificada la causa en que se motiva por parte del Presidente de la Mesa Directiva. Se consideran causas justificadas las siguientes:
 
-2. Previo aviso al presidente de la Mesa Directiva, los diputados podrán ausentarse hasta en tres ocasiones consecutivas de las sesiones del Pleno en un mismo período ordinario. Para ausentarse por más sesiones requerirán licencia aprobada por el Pleno.
+a) Enfermedad o cualquier otra razón relacionada con la salud.
 
-3. La disminución de la dieta corresponderá a los días de su ausencia injustificada o sin permiso. Los secretarios en la Mesa Directiva darán cuenta al Presidente de la misma cuando se presente la hipótesis prevista en el párrafo anterior, a fin de que se instruya a la Secretaría General para los efectos conducentes.
+b) Atención de alguna situación relevante propia de su encargo como representante popular.
 
-4. También será causa para la disminución en las dietas la ausencia a tres o más reuniones consecutivas de cualquiera de las comisiones de las que forme parte el diputado. En su caso, el presidente de la comisión hará la notificación por escrito al presidente de la Mesa Directiva para los efectos del párrafo anterior, debiendo entregarse copia al interesado de dicha notificación.
+c) Atención de alguna encomienda oficial conferida por el Pleno, las Comisiones o los Comités.
 
-5. Corresponde a la Mesa Directiva determinar las causas justificadas en torno a la ausencia de los diputados a las sesiones del Pleno y a los presidentes de las comisiones en lo que hace a las reuniones de éstas.
+2. Las causas antes descritas deberán acreditarse mediante constancias o documentales que permitan determinar la justificación de la ausencia.
+
+3. Previo aviso al Presidente de la Mesa Directiva, los diputados podrán ausentarse hasta en tres ocasiones consecutivas de las sesiones del Pleno en un mismo periodo ordinario. Para ausentarse por más sesiones requerirán licencia aprobada por el Pleno.
+
+4. Cuando sin justificación algún diputado dejara de concurrir a seis sesiones dentro del mismo periodo ordinario, perderá el derecho de asistir al mismo con la disminución de la dieta correspondiente en los términos de esta ley, siempre que no se desintegre el quórum por su falta.
+
+5. La disminución de la dieta corresponderá a los días de su ausencia injustificada. El Presidente de la Mesa Directiva dará cuenta a la Secretaria General de las inasistencias que en ejercicio de sus atribuciones haya determinado no justificadas, instruyéndola para que realice los trámites administrativos conducentes.
+
+6. También será causa para la disminución en las dietas la ausencia a tres o más reuniones consecutivas de cualquiera de las comisiones o comités de las que forme parte el diputado. En su caso, el Presidente de la comisión o comité hará la notificación por escrito al Presidente de la Mesa Directiva para los efectos del párrafo anterior, debiendo entregarse copia al interesado de dicha notificación.
 
 ###### ARTICULO 70.
 
@@ -2450,6 +2460,12 @@ P.O. 3 DE MAYO DE 2011.
 El presente Decreto entrará en vigor a partir de su aprobación, y deberá publicarse en el Periódico Oficial del Estado.
 
 P.O. 16 DE JUNIO DE 2011.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 15 DE NOVIEMBRE DE 2011.
 
 ###### ARTÍCULO ÚNICO.
 
