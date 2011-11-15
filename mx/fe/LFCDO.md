@@ -4,7 +4,7 @@ identifier: "LFCDO"
 country: "mx"
 rank: "ley_federal"
 publication_date: "1996-11-07"
-last_updated: "2011-10-24"
+last_updated: "2011-11-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9005&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LFCDO"
 
 LEY FEDERAL CONTRA LA DELINCUENCIA ORGANIZADA
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 24 DE OCTUBRE DE 2011.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 15 DE NOVIEMBRE DE 2011.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el jueves 7 de noviembre de 1996.
 
@@ -210,7 +210,9 @@ Cuando se presuma fundadamente que está en riesgo la integridad de las personas
 
 Cuando el Ministerio Público de la Federación solicite por cualquier medio al juez de distrito una orden de cateo con motivo de la investigación de alguno de los delitos a los que se refiere el presente ordenamiento, dicha petición deberá ser resuelta en los términos de Ley dentro de las doce horas siguientes después de recibida por la autoridad judicial.
 
-Si dentro del plazo antes indicado, el juez no resuelve sobre el pedimento de cateo, el Ministerio Público de la Federación podrá recurrir al tribunal unitario de circuito correspondiente para que éste resuelva en un plazo igual.
+> <small>(REFORMADO, D.O.F. 15 DE NOVIEMBRE DE 2011)</small>
+
+Si dentro del plazo antes indicado, el juez no resuelve sobre el pedimento de cateo, el Ministerio Público de la Federación deberá recurrir al tribunal unitario de circuito correspondiente para que éste substancie y resuelva en un plazo igual.
 
 El auto que niegue la autorización, es apelable por el Ministerio Público de la Federación. En estos casos la apelación deberá ser resuelta en un plazo no mayor de cuarenta y ocho horas.
 
@@ -246,9 +248,11 @@ Al concluir toda intervención, el Ministerio Público de la Federación informa
 
 Las intervenciones realizadas sin las autorizaciones antes citadas o fuera de los términos en ellas ordenados, carecerán de valor probatorio.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 15 DE NOVIEMBRE DE 2011)</small>
+
 ###### Artículo 19.
 
-Si en los plazos indicados en los dos artículos anteriores, el juez de distrito no resuelve sobre la solicitud de autorización o de sus prórrogas, el Ministerio Público de la Federación podrá recurrir al tribunal unitario de circuito correspondiente, para que éste resuelva en un plazo igual.
+Si en los plazos indicados en los dos artículos anteriores, el juez de distrito no resuelve sobre la solicitud de autorización o de sus prórrogas, el Ministerio Público de la Federación deberá recurrir al tribunal unitario de circuito correspondiente, para que éste substancie y resuelva en un plazo igual.
 
 El auto que niegue la autorización o la prórroga, es apelable por el Ministerio Público de la Federación. En estos casos la apelación deberá ser resuelta en un plazo no mayor de cuarenta y ocho horas.
 
@@ -489,3 +493,7 @@ CUARTO. Las resoluciones dictadas por la autoridad migratoria durante la vigenci
 D.O.F. 24 DE OCTUBRE DE 2011.
 
 Único. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 15 DE NOVIEMBRE DE 2011.
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
