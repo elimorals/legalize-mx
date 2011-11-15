@@ -4,7 +4,7 @@ identifier: "TAM-constitucion-politica-del-estado-de-tamaulipas-8069"
 country: "mx"
 rank: "constitucion"
 publication_date: "1921-02-05"
-last_updated: "2011-06-16"
+last_updated: "2011-11-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8069&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CONSTITUCION POLITICA DEL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE JUNIO DE 2011.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE NOVIEMBRE DE 2011.
 
 Constitución publicada en el Periódico Oficial del Gobierno de Tamaulipas, el 5 de febrero de 1921.
 
@@ -643,15 +643,17 @@ Entre tanto se verifique la elección a que se refiere el artículo anterior, si
 
 La Legislatura requiere para el ejercicio de sus funciones, la asistencia de más de la mitad de sus integrantes. No habiendo la mayoría referida los Diputados que asistan, cualquiera que sea su número, deberán reunirse en los días señalados por la Ley y compeler a los ausentes a que concurran dentro de los treinta días siguientes con la advertencia de que si no lo hacen ni acreditan debidamente ante el Congreso dentro del mismo término, qué fuerza mayor, caso fortuito u otra causa los imposibilita, se entenderá por ese solo hecho que renuncian al cargo y se convocará a nueva elección. Entre tanto transcurren los treinta días concedidos a los Diputados Propietarios, serán citados los Suplentes respectivos para integrar el quórum y si fenece el mencionado término sin obtenerse la comparecencia de los Suplentes se llamará nuevamente a éstos con el apercibimiento de declarar vacante el cargo si no concurren dentro de quince días, convocándose a elecciones para cubrir la vacante.
 
-> <small>(REFORMADO, P.O. 5 DE JULIO DE 1986)</small>
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 2011)</small>
 
 ###### Art. 38.
 
-Los Diputados pueden faltar a tres Sesiones consecutivas con simples (sic) aviso, y sólo con licencia concedida por el Congreso a mayor número de sesiones. El Diputado que no observe las formalidades prescritas, se considera que falta sin causa justificada y no se le admitirá prueba en contrario; además perderá el derecho de asistir al Período respectivo de Sesiones, cuando deje de concurrir a seis sesiones consecutivas (siempre que no se desintegrare el quórum por su falta).
+Los diputados sólo podrán faltar a las sesiones del Pleno Legislativo, reuniones de Comisión y Comités cuando se trate de causas justificadas con base en la ley y en los términos que la misma establezca.
+
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 2011)</small>
 
 ###### Art. 39.
 
-Los Diputados que no concurran a una sesión sin causa justificada, no tendrán derecho a la dieta correspondiente.
+Los diputados que no concurran a una sesión del Pleno Legislativo, reunión de Comisión o Comité, sin causa justificada no tendrán derecho a la dieta correspondiente.
 
 ### CAPITULO II. De la instalación y labores del Congreso
 
@@ -849,7 +851,7 @@ XI. Suprimir empleos públicos de acuerdo con las disposiciones de la Ley respec
 
 XII. Conceder permisos y decretar honores por servicios eminentes prestados a la Humanidad, a la Patria o al Estado;
 
-XIII. Expedir leyes para la jubilación de los maestros de instrucción pública que lo merezcan en atención a la antigüedad y eficacia de sus servicios;
+XIII.- Expedir leyes para la jubilación de los maestros de instrucción pública que lo merezcan en atención a la antigüedad y eficacia de sus servicios;
 
 > <small>(REFORMADA, P.O. 24 DE FEBRERO DE 2009)</small>
 
@@ -859,7 +861,7 @@ XV. Iniciar ante el Congreso General las leyes y decretos que sean de la compete
 
 XVI. Reclamar ante el Congreso de la Unión cuando alguna ley general constituye un ataque a la soberanía o independencia del Estado o a la Constitución Federal;
 
-XVII.- Llamar a los Diputados suplentes para que concurran al Congreso, previa calificación del impidimento (sic) de los propietarios;
+XVII. Llamar a los Diputados suplentes para que concurran al Congreso, previa calificación del impidimento (sic) de los propietarios;
 
 > <small>(ADICIONADA, P.O. 25 DE DICIEMBRE DE 1993)</small>
 
@@ -4006,6 +4008,12 @@ El Ejecutivo del Estado, por conducto de la Comisión Estatal del Agua, dispondr
 ###### ARTÍCULO TERCERO.
 
 Previo a incluir en el precio de cada metro cubico de agua el porcentaje relativo a servicios ambientales, el organismo operador deberá presentar el Programa correspondiente ante el Consejo Directivo respectivo.
+
+P.O. 15 DE NOVIEMBRE DE 2011.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 ###### ARTÍCULO QUINTO.
 
