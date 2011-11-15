@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-52-2008-del-pleno-del-consejo-de-la-63387"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2008-10-03"
-last_updated: "2008-10-03"
+last_updated: "2011-11-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=63387&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,15 +19,17 @@ issue_date: "2008-09-10"
 ---
 # ACUERDO GENERAL 52/2008 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL [POR EL QUE SE CREA EL CENTRO AUXILIAR DE LA QUINTA REGION, CON RESIDENCIA EN CULIACAN, SINALOA, ASI COMO LOS ORGANOS JURISDICCIONALES QUE LO INTEGRARAN]
 
-ACUERDO GENERAL 52/2008, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE CREA EL CENTRO AUXILIAR DE LA QUINTA REGION, CON RESIDENCIA EN CULIACAN, SINALOA, ASI COMO LOS ORGANOS JURISDICCIONALES QUE LO INTEGRARAN
+ACUERDO GENERAL 52/2008, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE CREA EL CENTRO AUXILIAR DE LA QUINTA REGION, ASI COMO LOS ORGANOS JURISDICCIONALES QUE LO INTEGRARAN
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 15 DE NOVIEMBRE DE 2011.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 3 de octubre de 2008.
 
 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Consejo de la Judicatura Federal.- Secretaría Ejecutiva del Pleno.
 
-ACUERDO GENERAL 52/2008, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE CREA EL CENTRO AUXILIAR DE LA QUINTA REGION, CON RESIDENCIA EN CULIACAN, SINALOA, ASI COMO LOS ORGANOS JURISDICCIONALES QUE LO INTEGRARAN.
+> <small>(REFORMADA SU DENOMINACION POR EL PUNTO PRIMERO DEL ACUERDO GENERAL 43/2011 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 15 DE NOVIEMBRE DE 2011)</small>
+
+ACUERDO GENERAL 52/2008, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE CREA EL CENTRO AUXILIAR DE LA QUINTA REGION, ASI COMO LOS ORGANOS JURISDICCIONALES QUE LO INTEGRARAN.
 
 CONSIDERANDO
 
@@ -55,35 +57,43 @@ En consecuencia, con fundamento en los artículos Constitucionales y legales inv
 
 ACUERDO
 
-> <small>(F. DE E., D.O.F. 19 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADO POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL 43/2011 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 15 DE NOVIEMBRE DE 2011)</small>
 
-PRIMERO. CONFORMACION, UBICACION Y COMPETENCIA. Se crea el Centro Auxiliar de la Quinta Región, con residencia en Culiacán, Sinaloa, conformado por dos tribunales colegiados Auxiliares, dos tribunales unitarios y siete juzgados de Distrito Auxiliares, y su domicilio será el ubicado en Kilómetro 9.5 carretera Culiacán Navolato, Predio Aguaruto, postal 80308, Culiacán, Sinaloa, los cuales tendrán jurisdicción en toda la República y competencia mixta, para apoyar en el dictado de sentencias, su denominación será la siguiente:
-
-Juzgado Primero de Distrito del Centro Auxiliar de la Quinta Región.
-
-Juzgado Segundo de Distrito del Centro Auxiliar de la Quinta Región.
-
-Juzgado Tercero de Distrito del Centro Auxiliar de la Quinta Región.
-
-Juzgado Cuarto de Distrito del Centro Auxiliar de la Quinta Región.
-
-Juzgado Quinto de Distrito del Centro Auxiliar de la Quinta Región.
-
-Juzgado Sexto de Distrito del Centro Auxiliar de la Quinta Región.
-
-Juzgado Séptimo de Distrito del Centro Auxiliar de la Quinta Región.
-
-Los tribunales unitarios se denominarán:
-
-Primer Tribunal Unitario de Circuito del Centro Auxiliar de la Quinta Región.
-
-Segundo Tribunal Unitario de Circuito del Centro Auxiliar de la Quinta Región.
+PRIMERO. CONFORMACION, COMPETENCIA y DENOMINACION. Se crea el Centro Auxiliar de la Quinta Región, conformado por cinco tribunales colegiados de Circuito auxiliares, tres con residencia en Culiacán, Sinaloa, uno con sede en Los Mochis, Sinaloa, y uno con residencia en La Paz, Baja California Sur; dos tribunales unitarios de Circuito auxiliares, ambos con sede en Culiacán, Sinaloa, y siete juzgados de Distrito auxiliares, con residencia en Culiacán, Sinaloa, los cuales tendrán jurisdicción en toda la República y competencia mixta para apoyar en el dictado de sentencias.
 
 Los tribunales colegiados se denominarán:
 
-Primer Tribunal Colegiado de Circuito del Centro Auxiliar de la Quinta Región.
+Primer Tribunal Colegiado de Circuito del Centro Auxiliar de la Quinta Región, con residencia en Culiacán, Sinaloa.
 
-Segundo Tribunal Colegiado de Circuito del Centro Auxiliar de la Quinta Región.
+Segundo Tribunal Colegiado de Circuito del Centro Auxiliar de la Quinta Región, con residencia en Culiacán, Sinaloa.
+
+Tercer Tribunal Colegiado de Circuito del Centro Auxiliar de la Quinta Región, con residencia en Culiacán, Sinaloa.
+
+Cuarto Tribunal Colegiado de Circuito del Centro Auxiliar de la Quinta Región, con residencia en Los Mochis, Sinaloa.
+
+Quinto Tribunal Colegiado de Circuito del Centro Auxiliar de la Quinta Región, con residencia en La Paz, Baja California Sur.
+
+Los tribunales unitarios se denominarán:
+
+Primer Tribunal Unitario de Circuito del Centro Auxiliar de la Quinta Región, con residencia en Culiacán, Sinaloa.
+
+Segundo Tribunal Unitario de Circuito del Centro Auxiliar de la Quinta Región, con residencia en Culiacán, Sinaloa.
+
+Los juzgados de Distrito se denominarán:
+
+Juzgado Primero de Distrito del Centro Auxiliar de la Quinta Región, con residencia en Culiacán, Sinaloa.
+
+Juzgado Segundo de Distrito del Centro Auxiliar de la Quinta Región, con residencia en Culiacán, Sinaloa.
+
+Juzgado Tercero de Distrito del Centro Auxiliar de la Quinta Región, con residencia en Culiacán, Sinaloa.
+
+Juzgado Cuarto de Distrito del Centro Auxiliar de la Quinta Región, con residencia en Culiacán, Sinaloa.
+
+Juzgado Quinto de Distrito del Centro Auxiliar de la Quinta Región, con residencia en Culiacán, Sinaloa.
+
+Juzgado Sexto de Distrito del Centro Auxiliar de la Quinta Región, con residencia en Culiacán, Sinaloa.
+
+Juzgado Séptimo de Distrito del Centro Auxiliar de la Quinta Región, con residencia en Culiacán, Sinaloa.
 
 SEGUNDO. INICIO DE FUNCIONES. El Pleno del Consejo de la Judicatura Federal determinará la fecha de inicio de funciones de los órganos jurisdiccionales que integrarán el Centro Auxiliar de la Quinta Región, con residencia en Culiacán, Sinaloa.
 
@@ -91,13 +101,17 @@ TERCERO. LIBROS DE GOBIERNO. A manera de mecanismos de control de los asuntos de
 
 Dichos libros electrónicos de registro se formarán automáticamente con la captura de los datos y registros que el personal correspondiente de los órganos jurisdiccionales, lleve a cabo en el mencionado Sistema Integral de Seguimiento de Expedientes (SISE).
 
-CUARTO. OFICINA DE CORRESPONDENCIA COMUN. El Centro Auxiliar de la Quinta Región contará con una Oficina de Correspondencia Común la cual se denominará Oficina de Correspondencia Común del Centro Auxiliar de la Quinta Región, con residencia en Culiacán, Sinaloa, la cual se integrará con tres plazas.
+> <small>(REFORMADO POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL 43/2011 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 15 DE NOVIEMBRE DE 2011)</small>
+
+CUARTO. OFICINA DE CORRESPONDENCIA COMUN. El Centro Auxiliar de la Quinta Región contará con una Oficina de Correspondencia Común la cual se denominará Oficina de Correspondencia Común del Centro Auxiliar de la Quinta Región, con residencia en Culiacán, Sinaloa, que se integrará con el personal que al efecto determine el área administrativa correspondiente del Consejo de la Judicatura Federal; misma que prestará servicio a los órganos jurisdiccionales auxiliares con residencia en esa ciudad, incluso al Tercer Tribunal Colegiado de nueva creación; y respecto del Cuarto y Quinto Tribunales Colegiados del Centro Auxiliar de la Quinta Región, con residencia en los Mochis, Sinaloa y La Paz, Baja California Sur, respectivamente, al ser órganos únicos en esas sedes, recibirán los asuntos por conducto de sus propias Oficialías de Partes.
 
 QUINTO. FUNCIONAMIENTO. La Comisión de Creación de Nuevos Organos, mediante los dictámenes que elaborará la Secretaría Ejecutiva de Carrera Judicial, Adscripción y Creación de Nuevos Organos, determinará los juzgados de Distrito y tribunales de Circuito que recibirán el apoyo en el dictado de sentencias por el Centro Auxiliar de la Quinta Región. Asimismo, la Comisión determinará el tiempo, número y cualidad de los asuntos que se enviarán a los órganos jurisdiccionales auxiliares, lo cual se dará a conocer por medio de Acuerdos de la propia Comisión.
 
 Los órganos jurisdiccionales auxiliares funcionarán de la siguiente manera:
 
-1) El órgano jurisdiccional auxiliado enviará los asuntos a la Oficina de Correspondencia Común del Centro Auxiliar de la Quinta Región, con residencia en Culiacán, Sinaloa.
+> <small>(REFORMADO POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL 43/2011 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 15 DE NOVIEMBRE DE 2011)</small>
+
+1) El órgano jurisdiccional auxiliado enviará los asuntos a la Oficina de Correspondencia Común del Centro Auxiliar de la Quinta Región, con residencia en Culiacán, Sinaloa, o bien a la Oficialía de Partes de cada uno de los órganos colegiados únicos, según corresponda.
 
 2) El órgano jurisdiccional de origen formará un expediente de antecedentes que contenga las copias de las actuaciones que a juicio del titular deba tener, así como el acuerdo de envío al Centro Auxiliar y cualquier actuación posterior a dicho envío, entre otros.
 
@@ -111,7 +125,9 @@ Los órganos jurisdiccionales auxiliares funcionarán de la siguiente manera:
 
 7) El órgano jurisdiccional de origen se encargará de todos los trámites posteriores a su resolución, inclusive de la notificación del fallo respectivo, hasta su archivo definitivo.
 
-8) De ser el caso, la Dirección General de Aplicaciones Informáticas, se encargará de lo concerniente a la adecuación del sistema automatizado que se llevará en la Oficina de Correspondencia Común del Centro Auxiliar de la Quinta Región, con residencia en Culiacán, Sinaloa, así como la de los órganos jurisdiccionales de origen, para el envío de documentación y expedientes.
+> <small>(REFORMADO POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL 43/2011 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 15 DE NOVIEMBRE DE 2011)</small>
+
+8) De ser el caso, la Dirección General de Tecnologías de la Información, se encargará de lo concerniente a la adecuación del sistema automatizado que se llevará en la Oficina de Correspondencia Común y en las Oficialías de Partes del Centro Auxiliar de la Quinta Región, así como la de los órganos jurisdiccionales de origen, para el envío de documentación y expedientes.
 
 El órgano jurisdiccional de origen recibirá las promociones posteriores a la remisión de los expedientes al órgano jurisdiccional Auxiliar para el dictado de la sentencia, el cual la acordará y agregará en el expediente de antecedentes remitiéndolo al órgano auxiliar que le tocó conocer de dicho asunto, de conformidad con el mecanismo indicado en el presente punto.
 
@@ -121,7 +137,9 @@ La Secretaría Ejecutiva de Obra, Recursos Materiales y Servicios Generales, med
 
 Los titulares o presidentes de los órganos jurisdiccionales comisionarán, de su personal, al responsable de la elaboración de un acta circunstanciada cada vez que entreguen expedientes para el dictado de su sentencia, o reciban los ya fallados; documento que suscribirán en compañía de uno de los secretarios.
 
-SEXTO. PLANTILLAS. Las plantillas de los órganos jurisdiccionales serán las siguientes:
+> <small>(REFORMADO PRIMER PARRAFO POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL 43/2011 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 15 DE NOVIEMBRE DE 2011)</small>
+
+SEXTO. PLANTILLAS. Con excepción de los Tribunales Colegiados de Circuito con sede en Los Mochis, Sinaloa y La Paz, Baja California, Sur, que contarán cada uno con un oficial administrativo de más que se encargará de la Oficialía de Partes de cada órgano, las plantillas de los órganos jurisdiccionales serán las siguientes:
 
 (VEASE ARCHIVO ANEXO)
 
@@ -135,21 +153,21 @@ NOVENO. DE LA COMISION. La Comisión de Creación de Nuevos Organos del Consejo 
 
 DECIMO. COMPETENCIA DE LOS DEMAS ORGANOS JURISDICCIONALES. Los juzgados de Distrito y tribunales de Circuito a que se refiere el Acuerdo General 57/2006 del Pleno del Consejo de la Judicatura Federal, conservarán su denominación, residencia y competencia.
 
-DECIMOPRIMERO. DEL ACUERDO GENERAL 57/2006. Se reforma el Acuerdo General 57/2006 del Pleno del Consejo de la Judicatura Federal, de veintitrés de agosto de dos mil seis, en el punto QUINTO, para quedar como sigue:
+> <small>(REFORMADO POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL 43/2011 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 15 DE NOVIEMBRE DE 2011)</small>
 
-“QUINTO.- Se contará con:
+DECIMOPRIMERO. MODIFICACIONES DEL ACUERDO GENERAL 11/2011. Se reforma el punto 5 del apartado QUINTO del Acuerdo General 11/2011 del Pleno del Consejo de la Judicatura Federal, para quedar como sigue:
 
-1. El Centro Auxiliar de la Segunda Región, con residencia en San Andrés Cholula, Puebla, el cual se integrará por nueve juzgados de Distrito Auxiliares y cuatro tribunales colegiados Auxiliares.
+QUINTO. Se contará con:
 
-2. El Centro Auxiliar de la Tercera Región, con residencia en Guanajuato, Guanajuato, el cual se integrará por tres juzgados de Distrito Auxiliares, cinco tribunales unitarios Auxiliares y dos tribunales colegiados Auxiliares.
+…
 
-3. El Centro Auxiliar de la Cuarta Región, con residencia en Xalapa, Veracruz, el cual se integrará por cinco juzgados de Distrito Auxiliares y dos tribunales colegiados Auxiliares.
+5. El Centro Auxiliar de la Quinta Región, se integrará por cinco tribunales colegiados de Circuito auxiliares, tres con residencia en Culiacán, Sinaloa, uno en Los Mochis, Sinaloa, y uno en La Paz, Baja California Sur; dos tribunales unitarios de Circuito auxiliares, ambos con sede en Culiacán, Sinaloa, y siete juzgados de Distrito auxiliares, con residencia en Culiacán, Sinaloa, los cuales tendrán jurisdicción en toda la República y competencia mixta para apoyar en el dictado de sentencias.
 
-4. El Centro Auxiliar de la Quinta Región, con residencia en Culiacán, Sinaloa, el cual se integrará por siete juzgados de Distrito Auxiliares, dos tribunales unitarios Auxiliares y dos tribunales colegiados Auxiliares.
+...
 
-Dichos órganos jurisdiccionales tendrán jurisdicción en toda la República Mexicana y su competencia será mixta.”
+> <small>(REFORMADO POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL 43/2011 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 15 DE NOVIEMBRE DE 2011)</small>
 
-DECIMOSEGUNDO. VISITAS DE INSPECCION. La Visitaduría Judicial propondrá al Pleno del Consejo de la Judicatura Federal, el mecanismo que se implementará para realizar las visitas de inspección al Centro Auxiliar de la Quinta Región, con residencia en Culiacán, Sinaloa.
+DECIMOSEGUNDO. VISITAS DE INSPECCION. La Visitaduría Judicial propondrá al Pleno del Consejo de la Judicatura Federal, el mecanismo que se implementará para realizar las visitas de inspección al Centro Auxiliar de la Quinta Región.
 
 DECIMOTERCERO. CIRCUNSTANCIAS NO PREVISTAS. Las circunstancias no previstas en este acuerdo serán resueltas por el Pleno del Consejo de la Judicatura Federal o las Comisiones de Administración, de Disciplina, de Carrera Judicial, de Adscripción, y de Creación de Nuevos Organos, en la esfera de su competencia.
 
@@ -160,3 +178,13 @@ PRIMERO. El presente acuerdo entrará en vigor el día de su aprobación.
 SEGUNDO. Publíquese este acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
 
 EL LICENCIADO GONZALO MOCTEZUMA BARRAGAN, SECRETARIO EJECUTIVO DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, CERTIFICA: Que este Acuerdo General 52/2008, del Pleno del Consejo de la Judicatura Federal, por el que se Crea el Centro Auxiliar de la Quinta Región, con Residencia en Culiacán, Sinaloa, así como los Organos Jurisdiccionales que lo Integrarán, fue aprobado por el Pleno del propio Consejo, en sesión ordinaria de diez de septiembre de dos mil ocho, por unanimidad de votos de los señores Consejeros: Presidente Ministro Guillermo I. Ortiz Mayagoitia, Luis María Aguilar Morales, Elvia Díaz de León D'Hers, María Teresa Herrera Tello, Indalfer Infante Gonzales y Oscar Vázquez Marín.- México, Distrito Federal, a veinticinco de septiembre de dos mil ocho.- Conste.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 15 DE NOVIEMBRE DE 2011.
+
+PRIMERO. El presente acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO. Publíquese este acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+
+TERCERO. La Secretaría Ejecutiva de Vigilancia, Información y Evaluación, deberá integrar de inmediato el texto de esta reforma, al Acuerdo General 52/2008, del Pleno del Consejo de la Judicatura Federal, por el que se crea el Centro Auxiliar de la Quinta Región, así como los órganos jurisdiccionales que lo integrarán.
