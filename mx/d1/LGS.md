@@ -4,7 +4,7 @@ identifier: "LGS"
 country: "mx"
 rank: "ley_general"
 publication_date: "1984-02-07"
-last_updated: "2011-09-01"
+last_updated: "2011-11-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=361&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGS"
 
 LEY GENERAL DE SALUD
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 1 DE SEPTIEMBRE DE 2011.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 16 DE NOVIEMBRE DE 2011.
 
 ULTIMA MODIFICACION AL LISTADO DE SUSTANCIAS PSICOTROPICAS: 9 DE JULIO DE 1996.
 
@@ -183,6 +183,10 @@ VIII.- La promoción de la formación de recursos humanos para la salud;
 > <small>(REFORMADA, D.O.F. 10 DE JUNIO DE 2011)</small>
 
 IX.- La coordinación de la investigación para la salud y el control de ésta en los seres humanos;
+
+> <small>(ADICIONADA, D.O.F. 16 DE NOVIEMBRE DE 2011)</small>
+
+IX bis.- El genoma humano;
 
 > <small>(REFORMADA, D.O.F. 10 DE JUNIO DE 2011)</small>
 
@@ -1786,7 +1790,7 @@ En los casos en que se materialicen los supuestos a que se refiere este Capítul
 
 ### CAPITULO UNICO
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 27 DE MAYO DE 1987)</small>
+> <small>(ADICIONADO, D.O.F. 16 DE NOVIEMBRE DE 2011)</small>
 
 ###### ARTICULO 78.
 
@@ -1838,7 +1842,9 @@ Las autoridades educativas competentes proporcionarán a las autoridades sanitar
 
 Quienes ejerzan las actividades profesionales, técnicas y auxiliares y las especialidades médicas, deberán poner a la vista del público un anuncio que indique la institución que les expidió el Título, Diploma, número de su correspondiente cédula profesional y, en su caso, el Certificado de Especialidad vigente. Iguales menciones deberán consignarse en los documentos y papelería que utilicen en el ejercicio de tales actividades y en la publicidad que realicen al respecto.
 
-### CAPITULO I. Disposiciones comunes
+### CAPITULO UNICO
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 27 DE MAYO DE 1987)</small>
 
 ###### ARTICULO 84.
 
@@ -1864,7 +1870,7 @@ La prestación del servicio social de los pasantes de las profesiones para la sa
 
 La Secretaría de Salud y los gobiernos de las entidades federativas, en sus respectivos ámbitos de competencia, con la participación de las instituciones de educación superior, elaborarán programas de carácter social para los profesionales de la salud, en beneficio de la colectividad, de conformidad con las disposiciones legales aplicables al ejercicio profesional.
 
-### CAPITULO II. Educación para la salud
+### CAPITULO I. Disposiciones comunes
 
 ###### ARTICULO 89.
 
@@ -1926,9 +1932,7 @@ La operación de los programas correspondientes en los establecimientos de salud
 
 ## TITULO QUINTO. Investigación para la Salud
 
-### CAPITULO III. Nutrición
-
-> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
+### CAPITULO II. Educación para la salud
 
 ###### ARTICULO 96.
 
@@ -2010,13 +2014,67 @@ V.- Carta de aceptación de la institución donde se efectúe la investigación 
 
 En el tratamiento de una persona enferma, el médico podrá utilizar nuevos recursos terapéuticos o de diagnóstico, cuando exista posibilidad fundada de salvar la vida, restablecer la salud o disminuir el sufrimiento del paciente, siempre que cuente con el consentimiento por escrito de éste, de su representante legal, en su caso, o del familiar más cercano en vínculo, y sin perjuicio de cumplir con los demás requisitos que determine esta Ley y otras disposiciones aplicables.
 
+> <small>(ADICIONADO CON EL CAPITULO Y ARTICULOS QUE LO INTEGRAN, D.O.F. 16 DE NOVIEMBRE DE 2011)</small>
+
+## TITULO QUINTO BIS. El Genoma Humano
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 16 DE NOVIEMBRE DE 2011)</small>
+
+### CAPITULO III. Nutrición
+
+> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
+
+###### ARTICULO 103 Bis.
+
+El genoma humano es el material genético que caracteriza a la especie humana y que contiene toda la información genética del individuo, considerándosele como la base de la unidad biológica fundamental del ser humano y su diversidad.
+
+> <small>(ADICIONADO, D.O.F. 16 DE NOVIEMBRE DE 2011)</small>
+
+###### ARTICULO 103 Bis 1.
+
+El genoma humano y el conocimiento sobre este es patrimonio de la humanidad. El genoma individual de cada ser humano pertenece a cada individuo.
+
+> <small>(ADICIONADO, D.O.F. 16 DE NOVIEMBRE DE 2011)</small>
+
+###### ARTICULO 103 Bis 2.
+
+Nadie podrá ser objeto de discriminación, conculcación de derechos, libertades o dignidad con motivo de sus caracteres genéticos.
+
+> <small>(ADICIONADO, D.O.F. 16 DE NOVIEMBRE DE 2011)</small>
+
+###### ARTICULO 103 Bis 3.
+
+Todo estudio en este campo deberá contar con la aceptación expresa de la persona sujeta al mismo o de su representante legal en términos de la legislación aplicable.
+
+En el manejo de la información deberá salvaguardarse la confidencialidad de los datos genéticos de todo grupo o individuo, obtenidos o conservados con fines de diagnóstico y prevención, investigación, terapéuticos o cualquier otro propósito, salvo en los casos que exista orden judicial.
+
+> <small>(ADICIONADO, D.O.F. 16 DE NOVIEMBRE DE 2011)</small>
+
+###### ARTICULO 103 Bis 4.
+
+Se debe respetar el derecho de toda persona a decidir, incluso por tercera persona legalmente autorizada, que se le informe o no de los resultados de su examen genético y sus consecuencias.
+
+> <small>(ADICIONADO, D.O.F. 16 DE NOVIEMBRE DE 2011)</small>
+
+###### ARTICULO 103 Bis 5.
+
+La investigación científica, innovación, desarrollo tecnológico y aplicaciones del genoma humano, estarán orientadas a la protección de la salud, prevaleciendo el respeto a los derechos humanos, la libertad y la dignidad del individuo; quedando sujetos al marco normativo respectivo.
+
+> <small>(ADICIONADO, D.O.F. 16 DE NOVIEMBRE DE 2011)</small>
+
+###### ARTICULO 103 Bis 6.
+
+A efecto de preservar el interés público y sentido ético, en el estudio, investigación y desarrollo del genoma humano como materia de salubridad general la Secretaría de Salud establecerá aquellos casos en los que se requiera control en la materia, asegurándose de no limitar la libertad en la investigación correspondiente de conformidad con el artículo 3o. constitucional.
+
+> <small>(ADICIONADO, D.O.F. 16 DE NOVIEMBRE DE 2011)</small>
+
+###### ARTICULO 103 Bis 7.
+
+Quien infrinja los preceptos de este Capítulo, se hará acreedor a las sanciones que establezca la Ley.
+
 ## TITULO SEXTO. Información para la Salud
 
 ### CAPITULO IV. Efectos del ambiente en la salud
-
-## TITULO SEPTIMO. Promoción de la Salud
-
-### CAPITULO V. Salud ocupacional
 
 ###### ARTICULO 104.
 
@@ -2060,11 +2118,9 @@ La Secretaría de Salud orientará la captación, producción, procesamiento, si
 
 La Secretaría de Salud proporcionará a la Secretaría de Programación y Presupuesto los datos que integren las estadísticas nacionales para la salud que elabore, para su incorporación al Sistema Nacional Estadístico, y formará parte de las instancias de participación y consulta que para esos fines se instituyan.
 
-## TITULO OCTAVO. Prevención y Control de Enfermedades y Accidentes
+## TITULO SEPTIMO. Promoción de la Salud
 
-### CAPITULO I. Disposiciones comunes
-
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 27 DE MAYO DE 1987)</small>
+### CAPITULO V. Salud ocupacional
 
 ###### ARTICULO 110.
 
@@ -2090,7 +2146,7 @@ IV.- Salud ocupacional, y
 
 V.- Fomento sanitario.
 
-### CAPITULO II. Enfermedades transmisibles
+### CAPITULO I. Disposiciones comunes
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 27 DE MAYO DE 1987)</small>
 
@@ -2116,9 +2172,9 @@ La Secretaría de Salud, en coordinación con la Secretaría de Educación Públ
 
 Tratándose de las comunidades indígenas, los programas a los que se refiere el párrafo anterior, deberán difundirse en español y la lengua o lenguas indígenas que correspondan.
 
-### CAPITULO III. Enfermedades no transmisibles
+### CAPITULO II. Enfermedades transmisibles
 
-> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 27 DE MAYO DE 1987)</small>
 
 ###### ARTICULO 114.
 
@@ -2156,7 +2212,9 @@ VII.- Establecer las necesidades nutritivas que deban satisfacer los cuadros bá
 
 VIII.- Proporcionar a la Secretaría de Comercio y Fomento Industrial los elementos técnicos en materia nutricional, para los efectos de la expedición de las normas oficiales mexicanas.
 
-### CAPITULO IV. Accidentes
+### CAPITULO III. Enfermedades no transmisibles
+
+> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
 
 ###### ARTICULO 116.
 
@@ -2272,9 +2330,7 @@ La Secretaría de Salud y las autoridades federales, estatales y municipales en 
 
 Sin perjuicio de lo que establecen la Ley Federal del Trabajo y sus reglamentos, en relación con labores peligrosas e insalubres, el cuerpo humano sólo podrá ser expuesto a radiaciones dentro de los máximos permisibles que establezca la Secretaría de Salud, incluyendo sus aplicaciones para la investigación médica y de diagnóstico y terapéutica.
 
-### CAPÍTULO I. Disposiciones Comunes
-
-> <small>(ADICIONADO, D.O.F. 5 DE ENERO DE 2009)</small>
+### CAPITULO IV. Accidentes
 
 ###### ARTICULO 128.
 
@@ -2314,11 +2370,9 @@ La Secretaría de Salud llevará a cabo programas tendientes a prevenir accident
 
 Para los efectos de esta ley se consideran bajo la denominación de establecimientos, los locales y sus instalaciones, dependencias y anexos, estén cubiertos o descubiertos, sean fijos o móviles, sean de producción, transformación, almacenamiento, distribución de bienes o prestación de servicios, en los que se desarrolle una actividad ocupacional.
 
-## TITULO OCTAVO BIS. De los Cuidados Paliativos a los Enfermos en Situación Terminal
+## TITULO OCTAVO. Prevención y Control de Enfermedades y Accidentes
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 5 DE ENERO DE 2009)</small>
-
-### CAPÍTULO II. De los Derechos de los Enfermos en Situación Terminal
+### CAPÍTULO I. Disposiciones Comunes
 
 > <small>(ADICIONADO, D.O.F. 5 DE ENERO DE 2009)</small>
 
@@ -2336,7 +2390,7 @@ III.- Realizar los programas y actividades que estime necesario para la prevenci
 
 IV.- Promover la colaboración de las instituciones de los sectores público, social y privado, así como de los profesionales, técnicos y auxiliares para la salud y de la población en general, para el óptimo desarrollo de los programas y actividades a que se refieren las fracciones II y III.
 
-### CAPÍTULO III. De las Facultades y Obligaciones de las Instituciones de Salud
+### CAPÍTULO II. De los Derechos de los Enfermos en Situación Terminal
 
 > <small>(ADICIONADO, D.O.F. 5 DE ENERO DE 2009)</small>
 
@@ -2536,11 +2590,13 @@ Se prohibe la introducción o el transporte por el territorio nacional de animal
 
 La Secretaría de Salud y los gobiernos de las entidades federativas en el ámbito de sus respectivas competencias, se coordinarán para la promoción del uso del condón, priorizando a las poblaciones de mayor vulnerabilidad y riesgo de contraer la infección del VIH/SIDA.
 
-### CAPÍTULO IV. De los Derechos, Facultades y Obligaciones de los Médicos y Personal Sanitario
+### CAPÍTULO III. De las Facultades y Obligaciones de las Instituciones de Salud
 
 > <small>(ADICIONADO, D.O.F. 5 DE ENERO DE 2009)</small>
 
-### CAPITULO UNICO
+### CAPÍTULO IV. De los Derechos, Facultades y Obligaciones de los Médicos y Personal Sanitario
+
+> <small>(ADICIONADO, D.O.F. 5 DE ENERO DE 2009)</small>
 
 ###### ARTICULO 158.
 
@@ -2576,11 +2632,9 @@ Los profesionales, técnicos y auxiliares de la salud deberán rendir los inform
 
 ### CAPITULO UNICO
 
+### CAPITULO UNICO
+
 > <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
-
-### CAPITULO I. Consejo Nacional Contra las Adicciones
-
-> <small>(ADICIONADO, D.O.F. 27 DE MAYO DE 1987)</small>
 
 ###### ARTICULO 162.
 
@@ -2626,11 +2680,13 @@ Los servicios de salud que proporcionen las instituciones de seguridad social co
 
 > <small>(ADICIONADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, D.O.F. 5 DE ENERO DE 2009)</small>
 
-## TITULO NOVENO. Asistencia Social, Prevención de Invalidez y Rehabilitación de Inválidos
+## TITULO OCTAVO BIS. De los Cuidados Paliativos a los Enfermos en Situación Terminal
 
-### CAPITULO II. Programa Contra el Alcoholismo y el Abuso de Bebidas Alcohólicas
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 5 DE ENERO DE 2009)</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 27 DE MAYO DE 1987)</small>
+### CAPITULO I. Consejo Nacional Contra las Adicciones
+
+> <small>(ADICIONADO, D.O.F. 27 DE MAYO DE 1987)</small>
 
 ###### ARTICULO 166 Bis.
 
@@ -2680,9 +2736,9 @@ Corresponde al Sistema Nacional de Salud garantizar el pleno, libre e informado 
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 5 DE ENERO DE 2009)</small>
 
-### CAPITULO III. Programa Contra el Tabaquismo
+### CAPITULO II. Programa Contra el Alcoholismo y el Abuso de Bebidas Alcohólicas
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 27 DE MAYO DE 1987)</small>
 
 ###### ARTICULO 166 Bis 3.
 
@@ -2772,9 +2828,9 @@ Todos los documentos a que se refiere este título se regirán de acuerdo a lo q
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 5 DE ENERO DE 2009)</small>
 
-### CAPITULO IV. Programa Contra la Farmacodependencia
+### CAPITULO III. Programa Contra el Tabaquismo
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 27 DE MAYO DE 1987)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 ###### ARTICULO 166 Bis 13.
 
@@ -2794,9 +2850,9 @@ VI.- Garantizarán la capacitación y actualización permanente de los recursos 
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 5 DE ENERO DE 2009)</small>
 
-### CAPITULO I. Disposiciones Comunes
+### CAPITULO IV. Programa Contra la Farmacodependencia
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 7 DE MAYO DE 1997)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 27 DE MAYO DE 1987)</small>
 
 ###### ARTICULO 166 Bis 14.
 
@@ -2870,9 +2926,11 @@ El personal médico que, por decisión propia, deje de proporcionar cualquier tr
 
 Queda prohibida, la práctica de la eutanasia, entendida como homicidio por piedad así como el suicidio asistido conforme lo señala el Código Penal Federal, bajo el amparo de esta ley. En tal caso se estará a lo que señalan las disposiciones penales aplicables.
 
-## TITULO DECIMO. Acción Extraordinaria en Materia de Salubridad General
+## TITULO NOVENO. Asistencia Social, Prevención de Invalidez y Rehabilitación de Inválidos
 
-### CAPITULO II. Alimentos y Bebidas no Alcohólicas
+### CAPITULO I. Disposiciones Comunes
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 7 DE MAYO DE 1997)</small>
 
 ###### ARTICULO 167.
 
@@ -2974,13 +3032,9 @@ Las autoridades sanitarias y las educativas, en el ámbito de sus respectivas co
 
 La Secretaría de Salud y los gobiernos de las entidades federativas, en coordinación con otras instituciones públicas, promoverán que en los lugares en que se presten servicios públicos, se dispongan facilidades para las personas inválidas.
 
-## TITULO DECIMO PRIMERO. Programas Contra las Adicciones
+## TITULO DECIMO. Acción Extraordinaria en Materia de Salubridad General
 
-> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, D.O.F. 27 DE MAYO DE 1987)</small>
-
-### CAPITULO III. Bebidas Alcohólicas
-
-> <small>(REFORMADO, D.O.F. 7 DE MAYO DE 1997)</small>
+### CAPITULO II. Alimentos y Bebidas no Alcohólicas
 
 ###### ARTICULO 181.
 
@@ -3014,9 +3068,13 @@ IV.- Utilizar libre y prioritariamente los servicios telefónicos, telegráficos
 
 V.- Las demás que determine la propia Secretaría.
 
-## TITULO DECIMO SEGUNDO. Control Sanitario de Productos y Servicios y de su Importación y Exportación
+## TITULO DECIMO PRIMERO. Programas Contra las Adicciones
 
-### CAPITULO IV. Medicamentos
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, D.O.F. 27 DE MAYO DE 1987)</small>
+
+### CAPITULO III. Bebidas Alcohólicas
+
+> <small>(REFORMADO, D.O.F. 7 DE MAYO DE 1997)</small>
 
 ###### ARTICULO 184 Bis.
 
@@ -3024,9 +3082,7 @@ Se crea el Consejo Nacional Contra las Adicciones, que tendrá por objeto promov
 
 La organización y funcionamiento del Consejo se regirán por las disposiciones que expida el Ejecutivo Federal.
 
-### CAPITULO V. Estupefacientes
-
-> <small>(REFORMADO, D.O.F. 23 DE DICIEMBRE DE 1987)</small>
+### CAPITULO IV. Medicamentos
 
 ###### ARTICULO 185.
 
@@ -3056,13 +3112,13 @@ IV.- Efectos del abuso de bebidas alcohólicas en los ámbitos familiar, social,
 
 En el marco del Sistema Nacional de Salud, la Secretaría de Salud coordinará las acciones que se desarrollen contra el alcoholismo y el abuso de bebidas alcohólicas. La coordinación en la adopción de medidas, en los ámbitos federal y local, se llevará a cabo a través de los acuerdos de coordinación que celebre la Secretaría de Salud con los gobiernos de las entidades federativas.
 
-### CAPITULO VI. Substancias psicotrópicas
+### CAPITULO V. Estupefacientes
 
 > <small>(REFORMADO, D.O.F. 23 DE DICIEMBRE DE 1987)</small>
 
-### CAPITULO VII. Establecimientos Destinados al Proceso de Medicamentos
+### CAPITULO VI. Substancias psicotrópicas
 
-> <small>(REFORMADO, D.O.F. 7 DE MAYO DE 1997)</small>
+> <small>(REFORMADO, D.O.F. 23 DE DICIEMBRE DE 1987)</small>
 
 ###### ARTICULO 188.
 
@@ -3080,9 +3136,9 @@ En el marco del Sistema Nacional de Salud, la Secretaría de Salud coordinará l
 
 (DEROGADO, D.O.F. 30 DE MAYO DE 2008)
 
-### CAPITULO VIII
+### CAPITULO VII. Establecimientos Destinados al Proceso de Medicamentos
 
-Equipos médicos, prótesis, órtesis, ayudas funcionales, agentes de diagnóstico, insumos de uso odontológico, materiales quirúrgicos, de curación y productos higiénicos
+> <small>(REFORMADO, D.O.F. 7 DE MAYO DE 1997)</small>
 
 ###### ARTICULO 191.
 
@@ -3208,11 +3264,11 @@ Cuando el centro o institución reciba reporte del no ejercicio de la acción pe
 
 Al tercer reporte del Ministerio Público el tratamiento del farmacodependiente será obligatorio.
 
-## TITULO DECIMO TERCERO. Publicidad
+## TITULO DECIMO SEGUNDO. Control Sanitario de Productos y Servicios y de su Importación y Exportación
 
-### CAPITULO IX. Productos cosméticos
+### CAPITULO VIII
 
-> <small>(REFORMADO, D.O.F. 7 DE JUNIO DE 2011)</small>
+Equipos médicos, prótesis, órtesis, ayudas funcionales, agentes de diagnóstico, insumos de uso odontológico, materiales quirúrgicos, de curación y productos higiénicos
 
 ###### ARTICULO 194.
 
@@ -3446,9 +3502,9 @@ Los envases y embalajes de los productos a que se refiere este título deberán 
 
 La Secretaría de Salud publicará en el Diario Oficial de la Federación las normas oficiales mexicanas que expida y, en caso necesario, las resoluciones sobre otorgamiento y revocación de autorizaciones sanitarias de medicamentos, estupefacientes, substancias psicotrópicas y productos que los contengan, equipos médicos, plaguicidas, nutrientes vegetales y substancias tóxicas o peligrosas, así como de las materias primas que se utilicen en su elaboración.
 
-### CAPITULO IX BIS. Ejercicio especializado de la Cirugía
+### CAPITULO IX. Productos cosméticos
 
-> <small>(ADICIONADO, D.O.F. 1 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADO, D.O.F. 7 DE JUNIO DE 2011)</small>
 
 ###### ARTICULO 215.
 
@@ -3480,7 +3536,9 @@ La Secretaría de Salud, con base en la composición de los alimentos y bebidas,
 
 Los alimentos o bebidas que se pretendan expender o suministrar al público en presentaciones que sugieran al consumidor que se trate de productos o substancias con características o propiedades terapéuticas, deberán en las etiquetas de los empaques o envases incluir la siguiente leyenda: “Este producto no es un medicamento”, escrito con letra fácilmente legible y en colores contrastantes.
 
-### CAPITULO X. Productos de Aseo
+### CAPITULO IX BIS. Ejercicio especializado de la Cirugía
+
+> <small>(ADICIONADO, D.O.F. 1 DE SEPTIEMBRE DE 2011)</small>
 
 ###### ARTICULO 217.
 
@@ -3504,9 +3562,7 @@ La Secretaría de Salud, en su caso, publicará en el Diario Oficial de la Feder
 
 En ningún caso y de ninguna forma se podrán expender o suministrar bebidas alcohólicas a menores de edad.
 
-### CAPITULO XI. Tabaco
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+### CAPITULO X. Productos de Aseo
 
 ###### ARTICULO 221.
 
@@ -3688,9 +3744,9 @@ Los medicamentos de origen biológico de acción inmunológica ostentarán en su
 
 Quedan prohibidos la venta y suministro de medicamentos con fecha de caducidad vencida.
 
-### CAPITULO XII. Plaguicidas, nutrientes vegetales y substancias tóxicas o peligrosas
+### CAPITULO XI. Tabaco
 
-> <small>(REFORMADO, D.O.F. 7 DE MAYO DE 1997)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 ###### ARTICULO 234.
 
@@ -3802,9 +3858,9 @@ Los citados establecimientos recogerán invariablemente las recetas o permisos, 
 
 Los preparados que contengan acetildihidrocodeína, codeína, destropropoxifeno, dihidrocodeína, etilmorfina, folcodina, nicocodina, corcodeína y propiram, que formen parte de la composición de especialidades farmacéuticas, estarán sujetos, para los fines de su preparación, prescripción y venta o suministro al público, a los requisitos que sobre su formulación establezca la Secretaría de Salud.
 
-### CAPITULO XII BIS. Productos biotecnológicos
+### CAPITULO XII. Plaguicidas, nutrientes vegetales y substancias tóxicas o peligrosas
 
-> <small>(ADICIONADO, D.O.F. 7 DE MAYO DE 1997)</small>
+> <small>(REFORMADO, D.O.F. 7 DE MAYO DE 1997)</small>
 
 ###### ARTICULO 244.
 
@@ -4288,9 +4344,9 @@ Los medicamentos que tengan incorporadas substancias psicotrópicas que puedan c
 
 Los envases y empaques de las substancias psicotrópicas, para su expendio llevarán etiquetas que, además de los requisitos que determina el artículo 210 de esta Ley, ostenten los que establezcan las disposiciones aplicables a la materia de este Capítulo.
 
-### CAPITULO XIII. Importación y exportación
+### CAPITULO XII BIS. Productos biotecnológicos
 
-> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
+> <small>(ADICIONADO, D.O.F. 7 DE MAYO DE 1997)</small>
 
 ###### ARTICULO 257.
 
@@ -4364,7 +4420,7 @@ VI.- En los establecimientos señalados en la fracción XII, el Consejo de Salub
 
 En los casos en que resulten afectadas, por acción u omisión, la identidad, pureza, conservación, preparación, dosificación o manufactura de los productos, el responsable del establecimiento y el propietario del mismo responderán solidariamente de las sanciones que correspondan en los términos que señalen esta Ley y demás disposiciones legales aplicables.
 
-### CAPITULO UNICO
+### CAPITULO XIII. Importación y exportación
 
 > <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
 
@@ -4450,9 +4506,9 @@ La violación de esta disposición se sancionará en los términos previstos en 
 
 > <small>(REFORMADA SU DENOMINACION, D.O.F. 7 DE JUNIO DE 2011)</small>
 
-### CAPITULO I. Disposiciones comunes
+### CAPITULO UNICO
 
-> <small>(REFORMADO, D.O.F. 26 DE MAYO DE 2000)</small>
+> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
 
 ###### ARTICULO 269.
 
@@ -4492,9 +4548,9 @@ Para la declaración de ingredientes se utilizarán las nomenclaturas técnicas 
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 1 DE SEPTIEMBRE DE 2011)</small>
 
-### CAPITULO II. Donación
+### CAPITULO I. Disposiciones comunes
 
-> <small>(REFORMADO Y REUBICADO, D.O.F. 26 DE MAYO DE 2000)</small>
+> <small>(REFORMADO, D.O.F. 26 DE MAYO DE 2000)</small>
 
 ###### ARTICULO 272 Bis.
 
@@ -4526,7 +4582,7 @@ La oferta de los servicios que se haga a través de medios informativos, ya sean
 
 Las sociedades, asociaciones, colegios o federaciones de profesionistas pondrán a disposición de la Secretaría de Salud, un directorio electrónico, con acceso al público que contenga los nombres, datos de los profesionistas que lleven a cabo procedimientos médico-quirúrgicos y certificado de especialización vigente, además de proporcionar el nombre y datos de la Institución y/o Instituciones educativas, que avalen su ejercicio profesional.
 
-### CAPITULO III. Trasplantes
+### CAPITULO II. Donación
 
 > <small>(REFORMADO Y REUBICADO, D.O.F. 26 DE MAYO DE 2000)</small>
 
@@ -4560,9 +4616,9 @@ IX.- Los demás de naturaleza análoga que determine la Secretaría de Salud.
 
 En las etiquetas de los envases y empaques en los que se presenten los productos a que se refiere el artículo anterior, además de lo establecido en el artículo 210 de esta Ley, en lo conducente, figurarán las leyendas que determinen las disposiciones aplicables.
 
-### CAPITULO IV. Pérdida de la vida
+### CAPITULO III. Trasplantes
 
-> <small>(REFORMADO, D.O.F. 11 DE JUNIO DE 2009)</small>
+> <small>(REFORMADO Y REUBICADO, D.O.F. 26 DE MAYO DE 2000)</small>
 
 ###### ARTICULO 275.
 
@@ -4588,9 +4644,9 @@ En las etiquetas de los envases y empaques en los que se presenten los productos
 
 > <small>(REFORMADA SU DENOMINACION, D.O.F. 7 DE MAYO DE 1997)</small>
 
-### CAPITULO V. Cadáveres
+### CAPITULO IV. Pérdida de la vida
 
-> <small>(REFORMADO Y REUBICADO, D.O.F. 26 DE MAYO DE 2000)</small>
+> <small>(REFORMADO, D.O.F. 11 DE JUNIO DE 2009)</small>
 
 ###### ARTICULO 278.
 
@@ -4650,9 +4706,9 @@ El control sanitario de las substancias a que se refiere el artículo 278, se aj
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 7 DE MAYO DE 1997)</small>
 
-### CAPITULO I. Disposiciones comunes
+### CAPITULO V. Cadáveres
 
-> <small>(REFORMADO, D.O.F. 7 DE MAYO DE 1997)</small>
+> <small>(REFORMADO Y REUBICADO, D.O.F. 26 DE MAYO DE 2000)</small>
 
 ###### ARTICULO 282 Bis.
 
@@ -4670,9 +4726,11 @@ Se deberá notificar a la Secretaría de Salud, de todos aquellos productos biot
 
 Las disposiciones y especificaciones relacionadas con el proceso, características y etiquetas de los productos objeto de este capítulo, se establecerán en las normas oficiales mexicanas correspondientes.
 
-### CAPITULO II. Sanidad en Materia de Migración
+### CAPITULO I. Disposiciones comunes
 
-### CAPITULO III. Sanidad marítima, aérea y terrestre
+> <small>(REFORMADO, D.O.F. 7 DE MAYO DE 1997)</small>
+
+### CAPITULO II. Sanidad en Materia de Migración
 
 ###### ARTICULO 283.
 
@@ -4804,9 +4862,9 @@ La Secretaría de Salud, mediante acuerdo que publicará en el Diario Oficial de
 
 Cuando se autorice la importación de las substancias mencionadas en el artículo anterior, corresponde a la Secretaría de Salud vigilar y controlar las actividades que con ellas se efectúen, en los términos de las disposiciones aplicables.
 
-## TITULO DECIMO QUINTO. Sanidad Internacional
+## TITULO DECIMO TERCERO. Publicidad
 
-### CAPITULO I. Autorizaciones
+### CAPITULO III. Sanidad marítima, aérea y terrestre
 
 ###### ARTICULO 300.
 
@@ -4990,7 +5048,7 @@ TITULO DECIMOCUARTO
 
 Donación, trasplantes y pérdida de la vida
 
-### CAPITULO II. Revocación de autorizaciones sanitarias
+### CAPITULO I. Autorizaciones
 
 ###### ARTICULO 313.
 
@@ -5134,7 +5192,7 @@ Se considerará disposición ilícita de órganos, tejidos, células y cadávere
 
 > <small>(REFORMADA SU DENOMINACION, D.O.F. 26 DE MAYO DE 2000)</small>
 
-### CAPITULO III. Certificados
+### CAPITULO II. Revocación de autorizaciones sanitarias
 
 ###### ARTICULO 320.
 
@@ -5226,9 +5284,7 @@ De igual forma el Centro Nacional de Trasplantes se encargará de expedir el doc
 
 > <small>(REFORMADA SU DENOMINACION Y REUBICADO, D.O.F. 26 DE MAYO DE 2000)</small>
 
-### CAPITULO UNICO
-
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 27 DE MAYO DE 1987)</small>
+### CAPITULO III. Certificados
 
 ###### ARTICULO 330.
 
@@ -5358,9 +5414,9 @@ Asimismo, el Centro Nacional de Trasplantes fomentará la cultura de la donació
 
 > <small>(REFORMADO, D.O.F. 30 DE JUNIO DE 2003)</small>
 
-### CAPITULO I. Medidas de Seguridad Sanitaria
+### CAPITULO UNICO
 
-> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 27 DE MAYO DE 1987)</small>
 
 ###### ARTICULO 340.
 
@@ -5388,7 +5444,9 @@ Cualquier órgano o tejido que haya sido extraído, desprendido o seccionado por
 
 > <small>(ADICIONADO, D.O.F. 26 DE MAYO DE 2000)</small>
 
-### CAPITULO II. Sanciones Administrativas
+### CAPITULO I. Medidas de Seguridad Sanitaria
+
+> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
 
 ###### ARTICULO 343.
 
@@ -5422,7 +5480,7 @@ No existirá impedimento alguno para que a solicitud y con la autorización de l
 
 > <small>(ADICIONADO, D.O.F. 26 DE MAYO DE 2000)</small>
 
-### CAPITULO III. Procedimiento Para Aplicar las Medidas de Seguridad y Sanciones
+### CAPITULO II. Sanciones Administrativas
 
 ###### ARTICULO 346.
 
@@ -5522,9 +5580,9 @@ En el caso de que el cadáver del feto no sea reclamado dentro del término que 
 
 Los establecimientos en los que se realicen actos relacionados con cadáveres de seres humanos deberán presentar el aviso correspondiente a la Secretaría de Salud en los términos de esta Ley y demás disposiciones generales aplicables, y contarán con un responsable sanitario que también deberá presentar aviso.
 
-## TITULO DECIMO SEXTO. Autorizaciones y certificados
+## TITULO DECIMO QUINTO. Sanidad Internacional
 
-### CAPITULO IV. Recurso de inconformidad
+### CAPITULO III. Procedimiento Para Aplicar las Medidas de Seguridad y Sanciones
 
 ###### ARTICULO 351.
 
@@ -5578,7 +5636,7 @@ Cuando en las localidades donde residan cónsules mexicanos aparezcan casos de e
 
 La Secretaría de Salud notificará a la Organización Mundial de la Salud de todas medidas (sic) que haya adoptado, de modo temporal o permanente, en materia de sanidad internacional. Asimismo, informará a esta misma organización y con la oportunidad debida, sobre cualquier caso que sea de interés en la vigilancia epidemiológica de las enfermedades que se citan en el Reglamento Sanitario Internacional, las que puedan originar epidemias o cualesquiera otras que considere de importancia notificar.
 
-### CAPITULO V. Prescripción
+### CAPITULO IV. Recurso de inconformidad
 
 ###### ARTICULO 360.
 
@@ -5600,9 +5658,7 @@ La Secretaría de Salud determinará qué otras enfermedades transmisibles queda
 
 Las personas comprendidas en lo dispuesto en el artículo anterior, quedarán bajo vigilancia y aislamiento en los lugares que la autoridad sanitaria determine, o en los que señale el interesado, si fueran aceptados por la autoridad, en tanto se decida, mediante el examen médico pertinente, si es aceptada o no su internación más allá del sitio de confinamiento, y se le preste, en su caso, la atención médica correspondiente.
 
-### CAPITULO VI. Delitos
-
-> <small>(REFORMADO, D.O.F. 7 DE MAYO DE 1997)</small>
+### CAPITULO V. Prescripción
 
 ###### ARTICULO 363.
 
@@ -5632,11 +5688,11 @@ La Secretaría de Salud determinará el tipo de servicio médico, medicamentos, 
 
 Las embarcaciones y aeronaves procedentes del extranjero con destino al territorio nacional, así como las que partan del territorio nacional al extranjero, deberán estar provistas de la documentación sanitaria exigida por los tratados y convenciones internacionales a que se refiere el artículo 351 de esta Ley y demás disposiciones generales aplicables.
 
-## TITULO DECIMO SEPTIMO. Vigilancia Sanitaria
+## TITULO DECIMO SEXTO. Autorizaciones y certificados
 
-### CAPITULO VII. Delitos Contra la Salud en su modalidad de Narcomenudeo
+### CAPITULO VI. Delitos
 
-> <small>(ADICIONADO, D.O.F. 20 DE AGOSTO DE 2009)</small>
+> <small>(REFORMADO, D.O.F. 7 DE MAYO DE 1997)</small>
 
 ###### ARTICULO 368.
 
@@ -5759,6 +5815,10 @@ Las autorizaciones a que se refiere esta Ley podrán ser revisadas por la autori
 ###### ARTICULO 379.
 
 Los derechos a que se refiere esta Ley se regirán por lo que disponga la legislación fiscal y los convenios de coordinación que celebren en la materia el Ejecutivo Federal y los gobiernos de las entidades federativas.
+
+### CAPITULO VII. Delitos Contra la Salud en su modalidad de Narcomenudeo
+
+> <small>(ADICIONADO, D.O.F. 20 DE AGOSTO DE 2009)</small>
 
 ###### ARTICULO 380.
 
@@ -5888,7 +5948,7 @@ Los certificados a que se refiere este título, se extenderán en los modelos ap
 
 Las autoridades judiciales o administrativas sólo admitirán como válidos los certificados que se ajusten a lo dispuesto en el párrafo anterior.
 
-## TITULO DECIMO OCTAVO. Medidas de Seguridad, Sanciones y Delitos
+## TITULO DECIMO SEPTIMO. Vigilancia Sanitaria
 
 ###### ARTICULO 393.
 
@@ -6033,6 +6093,8 @@ Transcurrido este plazo, sin que se haya impugnado el resultado del análisis of
 ###### ARTICULO 401 Bis 2.
 
 En el caso de los productos recogidos en procedimientos de muestreo o verificación, sólo los laboratorios autorizados o habilitados por la Secretaría para tal efecto podrán determinar por medio de los análisis practicados, si tales productos reúnen o no sus especificaciones.
+
+## TITULO DECIMO OCTAVO. Medidas de Seguridad, Sanciones y Delitos
 
 ###### ARTICULO 402.
 
@@ -6233,6 +6295,12 @@ Se sancionará con una multa equivalente de seis mil hasta doce mil veces el sal
 ###### ARTICULO 421 Bis.
 
 Se sancionará con multa equivalente de doce mil hasta dieciséis mil veces el salario mínimo general diario vigente en la zona económica de que se trate, la violación de las disposiciones contenidas en los artículos 100, 122, 126, 146, 166 Bis 19, 166 Bis 20, 205, 235, 254, 264, 281, 289, 293, 298, 325, 327 y 333 de esta Ley.
+
+> <small>(ADICIONADO, D.O.F. 16 DE NOVIEMBRE DE 2011)</small>
+
+###### ARTICULO 421 Ter.
+
+Se sancionará con multa equivalente de doce mil hasta dieciséis mil veces el salario mínimo general diario vigente en la zona económica de que se trate e inhabilitación de siete a diez años, en el desempeño de empleo, profesión o cargo público, a quien infrinja las disposiciones contenidas en el Capítulo Único del Título Quinto Bis de esta Ley, o la cancelación de Cédula con Efectos de Patente, la concesión o autorización respectiva según sea el caso. Lo anterior, sin afectar el derecho del o los afectados, de presentar denuncia por el delito o delitos de que se trate.
 
 > <small>(REFORMADO, D.O.F. 18 DE ENERO DE 2007)</small>
 
@@ -7213,3 +7281,7 @@ D.O.F. 1 DE SEPTIEMBRE DE 2011.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO.- La Secretaría de Salud contará con un plazo no mayor a 120 días contados a partir de su publicación en el Diario Oficial de la Federación, para emitir las disposiciones a que se refiere el artículo 272 Bis de la presente Ley.
+
+D.O.F. 16 DE NOVIEMBRE DE 2011.
+
+Único. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
