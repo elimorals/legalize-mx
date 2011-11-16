@@ -4,7 +4,7 @@ identifier: "CJM"
 country: "mx"
 rank: "codigo"
 publication_date: "1933-08-31"
-last_updated: "2005-06-29"
+last_updated: "2011-11-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2557&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "CJM"
 
 CODIGO DE JUSTICIA MILITAR
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 29 DE JUNIO DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 16 DE NOVIEMBRE DE 2011.
 
 Código publicado en la Sección Segunda del Diario Oficial de la Federación el jueves 31 de agosto de 1933.
 
@@ -1356,7 +1356,7 @@ En cualquier caso en que la pena que deba imponerse al responsable de un delito 
 
 > <small>(ADICIONADO, D.O.F. 22 DE JULIO DE 1994)</small>
 
-ARTICULO 152 bis.- A partir del primero de agosto de mil novecientos noventa y cuatro, para la fijación de sanciones que resulten aplicables según este Código, los importes establecidos en pesos se convertirán en días de salario mínimo general en el Distrito Federal vigente al momento de la realización del delito, a razón de veinte días por cada cien pesos o su proporción equivalente.
+ARTICULO 152 BIS.- A partir del primero de agosto de mil novecientos noventa y cuatro, para la fijación de sanciones que resulten aplicables según este Código, los importes establecidos en pesos se convertirán en días de salario mínimo general en el Distrito Federal vigente al momento de la realización del delito, a razón de veinte días por cada cien pesos o su proporción equivalente.
 
 ### CAPITULO VII. Aplicación de penas cuando se estimen atenuantes y agravantes
 
@@ -1898,7 +1898,43 @@ Los rebeldes no serán responsables de las muertes o lesiones inferidas en el ac
 
 Se castigará con prisión de tres años a los que conspiren para cometer el delito de rebelión.
 
-### CAPITULO V. Inutilización voluntaria para el servicio
+### CAPITULO IV BIS. Traición a las Fuerzas Armadas Mexicanas
+
+> <small>(ADICIONADO, D.O.F. 16 DE NOVIEMBRE DE 2011)</small>
+
+ARTICULO 275 BIS.- Al militar que se incorpore a la delincuencia organizada se le aplicará pena de prisión de treinta a sesenta años y baja de la Fuerza Armada.
+
+> <small>(ADICIONADO, D.O.F. 16 DE NOVIEMBRE DE 2011)</small>
+
+ARTICULO 275 TER.- Se sancionará con pena de prisión de quince a sesenta años y baja de la Fuerza Armada que corresponda, al militar que:
+
+I. Utilice la fuerza, embarcación, aeronave, o cualquier otro bien o recurso humano que tenga bajo su cargo o mando a favor de cualquier miembro de la delincuencia organizada o asociación delictuosa;
+
+II. Proporcione a cualquier miembro de la delincuencia organizada o asociación delictuosa, protección o facilidades en la plaza o puesto confiado a su cargo; así como adiestramiento, capacitación o conocimientos militares;
+
+III. Induzca al personal que tenga bajo su mando o a las tropas de las que forme parte, para que presten algún servicio a cualquier miembro de la delincuencia organizada o asociación delictuosa, o reclute personal militar para el mismo fin;
+
+IV. Proporcione a cualquier miembro de la delincuencia organizada o asociación delictuosa, información a la que tenga acceso con motivo del ejercicio de su cargo o comisión;
+
+V. Incumpla con sus obligaciones, respecto de las tropas a su cargo, para actuar contra cualquier miembro de la delincuencia organizada o asociación delictuosa;
+
+VI. Obstaculice las acciones de las fuerzas armadas o autoridad competente, en contra de cualquier miembro de la delincuencia organizada o asociación delictuosa;
+
+VII. No ejecute una orden del servicio o la modifique de propia autoridad, en ambos casos, para favorecer a cualquier miembro de la delincuencia organizada o asociación delictuosa;
+
+VIII. Falsifique o altere un documento o instrumento que contenga información relativa a las operaciones de las Fuerzas Armadas o autoridad competente en contra de cualquier miembro de la delincuencia organizada o asociación delictuosa, o a sabiendas de que se trata de documentos o instrumentos falsificados o alterados, haga uso de ellos;
+
+IX. Proporcione a sus superiores información diferente a la que conozca acerca de las actividades que esté desarrollando en las Fuerzas Armadas en contra de cualquier miembro de la delincuencia organizada o asociación delictuosa, u omita proporcionar los datos que tenga sobre dichas actividades, así como de los proyectos o movimientos de éstos;
+
+X. Conduzca o guíe las actividades de cualquier miembro de la delincuencia organizada o asociación delictuosa, y
+
+XI. Ponga en libertad a cualquier miembro de la delincuencia organizada o asociación delictuosa, o proteja o facilite su fuga.
+
+Las penas previstas en este capítulo se impondrán además de las que correspondan a los delitos que resulten cometidos por las actividades del individuo u organización delictiva de que se trate.
+
+Para los efectos de este capítulo, se entenderá por Fuerzas Armadas Mexicanas, a las instituciones armadas de la Unión, a saber: Ejército, Armada y Fuerza Aérea.
+
+Para los efectos de este capítulo se entenderá por delincuencia organizada la prevista en el artículo 2o. de la Ley Federal contra la Delincuencia Organizada y por asociación delictuosa, la prevista en el artículo 164 del Código Penal Federal.
 
 ###### ARTICULO 224.
 
@@ -1930,7 +1966,7 @@ Se castigará con prisión de seis meses a los que conspiren para cometer el del
 
 ## TITULO OCTAVO. Delitos contra la existencia y seguridad del ejército
 
-### CAPITULO VI. Insultos, amenazas o violencias contra centinelas, guardias, tropa formada, salvaguardias, bandera y ejército
+### CAPITULO V. Inutilización voluntaria para el servicio
 
 ###### ARTICULO 228.
 
@@ -1988,7 +2024,7 @@ El que intencionalmente altere, cambie, destruya o modifique los diarios de bit�
 
 El que altere o cambie los planos o modelos de alguna construcción naval, o la construcción misma, destinada al servicio de la Armada, sufrirá la pena de un año de prisión, y si por esta causa se originare algún daño, la pena será de seis años.
 
-### CAPITULO VII. Ultrajes y violencias contra la policía
+### CAPITULO VI. Insultos, amenazas o violencias contra centinelas, guardias, tropa formada, salvaguardias, bandera y ejército
 
 ###### ARTICULO 239.
 
@@ -2046,7 +2082,7 @@ I.- Si esa retención la efectuare en provecho propio o en el de otro, conforme 
 
 II.- si dicha retención la hiciere sin aprovechar para sí o para otros, los haberes, raciones o prendas, con la mitad de la pena que corresponda, conforme a las reglas establecidas en el mismo precepto.
 
-### CAPITULO VIII. Falsa Alarma
+### CAPITULO VII. Ultrajes y violencias contra la policía
 
 ###### ARTICULO 246.
 
@@ -2122,7 +2158,7 @@ La misma pena de ocho años de prisión se impondrá a todo el que dolosa o deli
 
 > <small>(REFORMADA SU DENOMINACION, D.O.F. 17 DE OCTUBRE DE 1944)</small>
 
-### CAPITULO I. Insubordinación
+### CAPITULO VIII. Falsa Alarma
 
 ###### ARTICULO 255.
 
@@ -2320,9 +2356,11 @@ Comete el delito de insumisión el conscripto que por virtud del sorteo le corre
 
 A los infractores se les impondrá la pena de un mes de prisión. La pena corporal no releva de la obligación de prestar el servicio.
 
-### CAPITULO II. Abuso de autoridad
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 16 DE NOVIEMBRE DE 2011)</small>
 
-### CAPITULO III. Desobediencia
+### CAPITULO I. Insubordinación
+
+### CAPITULO II. Abuso de autoridad
 
 ###### ARTICULO 276.
 
@@ -2334,7 +2372,7 @@ Las mismas penas se impondrán al que a petición de otro, lo inutilice con el o
 
 Se impondrá la pena de ocho meses de prisión, a quien se valga de recursos o medios fraudulentos que lo imposibiliten para el cumplimiento de alguna obligación militar.
 
-### CAPITULO IV. Asonada
+### CAPITULO III. Desobediencia
 
 ###### ARTICULO 278.
 
@@ -2358,13 +2396,13 @@ El que injurie, difame o calumnie al ejército o a instituciones que de él depe
 
 Se impondrá la pena de un año seis meses de prisión, al que ultraje la bandera nacional.
 
-### CAPITULO I. Abandono de servicio
+### CAPITULO IV. Asonada
 
 ###### ARTICULO 281.
 
 El que injurie o ultraje a un miembro de la policía que esté en ejercicio de sus funciones, será castigado con nueve meses de prisión; y si lo desobedece o resiste a la orden que le haya intimado en uso de sus facultades o ejerza violencia contra él, la pena será de un año y seis meses de prisión.
 
-### CAPITULO II. Extralimitación y usurpación de mando o comisión
+### CAPITULO I. Abandono de servicio
 
 ###### ARTICULO 282.
 
@@ -2380,7 +2418,7 @@ III.- Con pena de treinta a sesenta años de prisión, si estando frente al enem
 
 ## TITULO NOVENO. Delitos contra la jerarquía y la autoridad
 
-### CAPITULO III. Maltrato a prisioneros, detenidos o presos y heridos
+### CAPITULO II. Extralimitación y usurpación de mando o comisión
 
 ###### ARTICULO 283.
 
@@ -2464,7 +2502,7 @@ Si en la orden cuyo cumplimiento se trate de impedir, concurriere alguna de las 
 
 Cuando la insubordinación consistiere en vías de hecho o estuviere comprendida en el artículo 290, si se cometiere en marcha para atacar al enemigo, frente a él, esperando a la defensiva, bajo su persecución o durante la retirada, se aplicará pena de treinta a sesenta años de prisión sin tener en cuenta las disposiciones de los artículos 119 fracción III, 288 y 289.
 
-### CAPITULO IV. Pillaje, devastación, merodeo, apropiación de botín, contrabando, saqueo y violencias contra las personas
+### CAPITULO III. Maltrato a prisioneros, detenidos o presos y heridos
 
 ###### ARTICULO 293.
 
@@ -2522,7 +2560,7 @@ Cuando las lesiones hayan puesto en peligro la vida del ofendido, se agregarán 
 
 El que indebidamente haga que una fuerza armada le preste auxilio en una riña o pendencia, que por esa causa tome mayores proporciones, sufrirá la pena de dos años de prisión, sin perjuicio de que, conforme a las reglas generales de aplicación de penas, se le imponga la que corresponda, en virtud de los demás delitos que con esos actos hubiere cometido.
 
-### CAPITULO I. Infracción de deberes comunes a todos los que están obligados a servir en el Ejército
+### CAPITULO IV. Pillaje, devastación, merodeo, apropiación de botín, contrabando, saqueo y violencias contra las personas
 
 ###### ARTICULO 301.
 
@@ -2558,7 +2596,7 @@ III.- con cuatro años de prisión si el daño grave fuere causado a los buques 
 
 IV.- con cuatro años de prisión en tiempo de paz y cinco en campaña, si la desobediencia fuere cometida formando parte el barco de una escuadra, y con la de cinco años de prisión, en tiempo de paz y diez en campaña, si de esa desobediencia resultare algún daño a las operaciones navales.
 
-### CAPITULO II. Infracción de los deberes de centinela, vigilante, serviola, tope y timonel
+### CAPITULO I. Infracción de deberes comunes a todos los que están obligados a servir en el Ejército
 
 ###### ARTICULO 305.
 
@@ -2594,9 +2632,7 @@ La conspiración para cometer el delito de asonada, se castigará con un año de
 
 ## TITULO DECIMO. Delitos cometidos en ejercicio de las funciones militares o con motivo de ellas
 
-### CAPITULO III. Infracción de deberes especiales de marinos
-
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 29 DE JUNIO DE 2005)</small>
+### CAPITULO II. Infracción de los deberes de centinela, vigilante, serviola, tope y timonel
 
 ###### ARTICULO 310.
 
@@ -2710,7 +2746,7 @@ Al marino encargado de la escolta de un buque o de la conducción de un convoy, 
 
 El marino que formando parte de la tripulación de un bote, abandone éste sin permiso del superior, será castigado con prisión de dos meses.
 
-### CAPITULO IV. Infracción de deberes especiales de aviadores
+### CAPITULO III. Infracción de deberes especiales de marinos
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 29 DE JUNIO DE 2005)</small>
 
@@ -2726,7 +2762,9 @@ II.- con la pena de siete años de prisión si causa perjuicio grave, y
 
 III.- Con pena de treinta a sesenta años de prisión si ocasionare perjuicio grave en el servicio, se cometiere este delito frente al enemigo, en marcha hacia él, esperándolo a la defensiva, bajo su persecución o durante la retirada.
 
-### CAPITULO V. Infracción de deberes militares correspondientes a cada militar según su comisión o empleo
+### CAPITULO IV. Infracción de deberes especiales de aviadores
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 29 DE JUNIO DE 2005)</small>
 
 ###### ARTICULO 324.
 
@@ -2746,9 +2784,7 @@ V.- con dos años de prisión cuando se obligue al prisionero a combatir contra 
 
 VI.- Con un año de prisión cuando se despoje de sus vestidos u otros objetos, al herido, prisionero, detenido o preso, para apropiárselos.
 
-### CAPITULO VI. Infracción de los deberes de prisioneros, evasión de éstos o de presos o detenidos y auxilio a unos y a otros para su fuga
-
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 29 DE JUNIO DE 2005)</small>
+### CAPITULO V. Infracción de deberes militares correspondientes a cada militar según su comisión o empleo
 
 ###### ARTICULO 325.
 
@@ -2816,7 +2852,7 @@ TITULO DECIMOPRIMERO
 
 Delitos contra el deber y decoro militares
 
-### CAPITULO VII. Contra el honor militar
+### CAPITULO VI. Infracción de los deberes de prisioneros, evasión de éstos o de presos o detenidos y auxilio a unos y a otros para su fuga
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 29 DE JUNIO DE 2005)</small>
 
@@ -2928,7 +2964,9 @@ Se impondrá la pena de dos meses de prisión a los individuos de tropa que camb
 
 El que para asuntos del servicio o con motivo de él hiciere uso del nombre de un superior sin autorización de éste y sin causa justificada ni extrema necesidad para obrar de esa manera, será castigado con la pena de un año y seis meses de prisión.
 
-### CAPITULO VIII. Duelo
+### CAPITULO VII. Contra el honor militar
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 29 DE JUNIO DE 2005)</small>
 
 ###### ARTICULO 352.
 
@@ -3006,7 +3044,7 @@ El centinela que se deje relevar por otro que no sea el cabo de cuarto que lo hu
 
 El vigilante, serviola o tope, que se deje relevar sin la orden del contramaestre de guardia o persona que haga sus veces, con autorización del oficial de guardia, será castigado con un año de prisión en tiempo de paz, y en campaña de guerra con tres años. Si el delito se cometiere al frente del enemigo, la pena será de ocho años de prisión.
 
-### CAPITULO I. Delitos en la Administración de Justicia
+### CAPITULO VIII. Duelo
 
 ###### ARTICULO 362.
 
@@ -3128,7 +3166,7 @@ Será castigado con la pena de un año de prisión, el que en cualquiera otra fo
 
 Si resultare daño o pérdida, la pena será de cuatro años de prisión.
 
-### CAPITULO II. Delitos con motivo de la administración de justicia
+### CAPITULO I. Delitos en la Administración de Justicia
 
 ###### ARTICULO 376.
 
@@ -3170,7 +3208,7 @@ I.- Que en tiempo de paz, habiendo recibido órdenes de salida, no lo haga a la 
 
 II.- que cometa cualquiera otra infracción grave a los reglamentos del arma, no prevista en este Capítulo.
 
-### CAPITULO I. De las denuncias, querellas y acusaciones
+### CAPITULO II. Delitos con motivo de la administración de justicia
 
 ###### ARTICULO 382.
 
@@ -3192,7 +3230,7 @@ Cuando la infracción ocasionare daño a las tropas, o la pérdida de un buque o
 
 Si de la infracción resultare la derrota de las tropas, o la pérdida de un buque o aeronave, estando en campaña, la pena será de treinta a sesenta años de prisión.
 
-### CAPITULO II. De la incoación del procedimiento
+### CAPITULO I. De las denuncias, querellas y acusaciones
 
 ###### ARTICULO 386.
 
@@ -3262,11 +3300,11 @@ El que auxilie la fuga general de los presos o detenidos existentes en un edific
 
 Siempre que se evadan uno o más prisioneros, presos o detenidos, se hará efectiva la responsabilidad del que mandare la escolta o fuerza encargado directamente de la custodia de él o de los que se hubieren evadido, sin perjuicio de exigirla también a todos los demás individuos de esa misma escolta o fuerza, que con sus actos u omisiones apareciere que hubieren favorecido la evasión.
 
+### CAPITULO II. De la incoación del procedimiento
+
 ### CAPITULO III. Comprobación del cuerpo del delito y de la probable responsabilidad
 
 > <small>(REFORMADO, D.O.F. 22 DE JULIO DE 1994)</small>
-
-### CAPITULO IV. De los cateos
 
 ###### ARTICULO 397.
 
@@ -3376,7 +3414,7 @@ Para los efectos de este artículo, se entenderá que hay reincidencia, cuando s
 
 Sufrirán las penas de seis meses de prisión y destitución de empleo, los sargentos y cabos que después de haber incurrido en dos correcciones disciplinarias, dentro del período de un año, persistieren en su mala conducta.
 
-### CAPITULO V. De la declaración preparatoria y del nombramiento de defensor
+### CAPITULO IV. De los cateos
 
 ###### ARTICULO 410.
 
@@ -3458,7 +3496,7 @@ TITULO DECIMOSEGUNDO
 
 Delitos cometidos en la Administración de Justicia o con motivo de ella
 
-### CAPITULO VI. De la aprehensión, detención y prisión preventiva
+### CAPITULO V. De la declaración preparatoria y del nombramiento de defensor
 
 ###### ARTICULO 421.
 
@@ -3520,7 +3558,7 @@ Los defensores de oficio serán castigados: con suspensión de empleo de seis me
 
 Serán destituídos de su empleo e inhabilitados por dos años para volver al servicio, los funcionarios y empleados que por sí o por interpósita persona soliciten o reciban indebidamente dinero o cualquiera otra dádiva, para hacer o dejar de hacer algo justo o injusto, relacionado con sus funciones.
 
-### CAPITULO VII. De la libertad por falta de méritos
+### CAPITULO VI. De la aprehensión, detención y prisión preventiva
 
 ###### ARTICULO 427.
 
@@ -3658,9 +3696,7 @@ La víctima o el ofendido por algún delito tienen el derecho a coadyuvar con el
 
 > <small>(ADICIONADO, D.O.F. 22 DE JULIO DE 1994)</small>
 
-###### ARTICULO 439 Bis.
-
-Todo proceso se seguirá forzosamente por el delito o delitos señalados en el auto de formal prisión o de sujeción a proceso. Si en la secuela de un proceso apareciere que se ha cometido un delito distinto del que se persigue, deberá ser objeto de averiguación separada, sin perjuicio de que después pueda decretarse la acumulación, si fuere conducente.
+ARTICULO 439 BIS.- Todo proceso se seguirá forzosamente por el delito o delitos señalados en el auto de formal prisión o de sujeción a proceso. Si en la secuela de un proceso apareciere que se ha cometido un delito distinto del que se persigue, deberá ser objeto de averiguación separada, sin perjuicio de que después pueda decretarse la acumulación, si fuere conducente.
 
 ###### ARTICULO 440.
 
@@ -3672,7 +3708,7 @@ Cuando para la imposición de la pena sea necesaria la comprobación de un derec
 
 ## TITULO SEGUNDO. De los procedimientos previos al juicio
 
-### CAPITULO VIII. De las pruebas
+### CAPITULO VII. De la libertad por falta de méritos
 
 ###### ARTICULO 442.
 
@@ -3724,9 +3760,7 @@ Si la Secretaría de Guerra y Marina estima improcedente la suspensión, ordenar
 
 El Ministerio Público y la Policía Judicial, deberán asentar en sus diligencias, que serán autorizadas por secretario o testigos de asistencia, la protesta de decir verdad que exigirán a quienes intervengan, así como la razón de su dicho. Igualmente harán constar las medidas que ordenaren para la mejor investigación y la razón o motivo para no haber practicado las que no se llevaren a cabo.
 
-### CAPITULO IX. De la confesión judicial
-
-> <small>(REFORMADO, D.O.F. 22 DE JULIO DE 1994)</small>
+### CAPITULO VIII. De las pruebas
 
 ###### ARTICULO 451.
 
@@ -3748,7 +3782,9 @@ Si en las diligencias consignadas por el Ministerio Público se solicitare la de
 
 > <small>(REFORMADA SU DENOMINACION, D.O.F. 18 DE MAYO DE 1999)</small>
 
-### CAPITULO X. De los documentos públicos y privados
+### CAPITULO IX. De la confesión judicial
+
+> <small>(REFORMADO, D.O.F. 22 DE JULIO DE 1994)</small>
 
 ###### ARTICULO 453.
 
@@ -3898,7 +3934,7 @@ Si el delito no hubiere dejado vestigios permanentes o éstos no existieran ya, 
 
 Todos los delitos que por este Código no tengan señalada una prueba especial, se justificarán comprobando todos los elementos materiales que los constituyen, según la definición que de ellos se hace en el libro segundo de este Código.
 
-### CAPITULO XI. De los peritos
+### CAPITULO X. De los documentos públicos y privados
 
 ###### ARTICULO 482.
 
@@ -3946,7 +3982,7 @@ A excepción de los objetos que se relacionen con el proceso que motivare el rec
 
 En la misma forma determinada en este capítulo, se procederá al cateo que se practique al cumplimentar una requisitoria de otro tribunal o funcionario competente.
 
-### CAPITULO XII. De la inspección judicial y reconstrucción de hechos
+### CAPITULO XI. De los peritos
 
 ###### ARTICULO 491.
 
@@ -4046,7 +4082,7 @@ El procesado podrá declarar ante el juez tantas veces como quisiere, y éste de
 
 Recibida la declaración preparatoria, siempre que lo solicite el indiciado y que fuere posible, será careado en presencia del juez, con quienes depongan en su contra, pudiendo aquél hacer a éstos todas las preguntas conducentes a su defensa.
 
-### CAPITULO XIII. De los testigos
+### CAPITULO XII. De la inspección judicial y reconstrucción de hechos
 
 ###### ARTICULO 505.
 
@@ -4176,9 +4212,7 @@ De todo auto de formal prisión o de sujeción a proceso, se remitirá copia aut
 
 Tan luego como se haya dictado el auto de prisión preventiva o de sujeción a proceso contra alguna persona, se procederá para asegurar su identidad, a retratarla, agregando al proceso dos copias fotográficas; una de frente y otra de perfil, dejando dos en los archivos de la prisión, y remitiéndose otras dos al Procurador General. El juez ordenará que se identifique al preso por el sistema administrativamente adoptado y en defecto de los anteriores medios, se tomará en el proceso la media filiación del acusado.
 
-### CAPITULO XIV. De los careos
-
-> <small>(REFORMADO, D.O.F. 22 DE JULIO DE 1994)</small>
+### CAPITULO XIII. De los testigos
 
 ###### ARTICULO 519.
 
@@ -4192,7 +4226,9 @@ El auto de libertad por falta de méritos, no impedirá que posteriormente, con 
 
 Cuando el juez deba dictar auto de libertad porque la ausencia de pruebas del cuerpo del delito o de la responsabilidad del indiciado dependan de omisiones del Ministerio Público o agente de la Policía Judicial, el mismo juez al dictar su determinación, mencionará expresamente tales omisiones.
 
-### CAPITULO XV. De la confrontación
+### CAPITULO XIV. De los careos
+
+> <small>(REFORMADO, D.O.F. 22 DE JULIO DE 1994)</small>
 
 ###### ARTICULO 522.
 
@@ -4212,7 +4248,7 @@ VI.- las presunciones.
 
 También se admitirá como prueba todo aquello que se presente como tal, siempre que a juicio del funcionario que practique la averiguación, pueda constituirla. Cuando éste lo juzgue necesario, podrá, por cualquier medio legal, establecer la autenticidad de dicho medio de prueba.
 
-### CAPITULO XVI. De las presunciones
+### CAPITULO XV. De la confrontación
 
 ###### ARTICULO 523.
 
@@ -4228,7 +4264,7 @@ La confesión judicial es admisible en cualquier estado del proceso, hasta antes
 
 La confesión rendida ante cualquier autoridad distinta del ministerio público o del juez, o ante éstos sin la asistencia de su defensor carecerá de todo valor probatorio.
 
-### CAPITULO XVII. Del valor jurídico de la prueba
+### CAPITULO XVI. De las presunciones
 
 ###### ARTICULO 526.
 
@@ -4286,9 +4322,7 @@ II.- el cotejo se hará con documentos indubitables, es decir, con los que las p
 
 III.- el juez podrá ordenar que se repita el cotejo por otros peritos.
 
-### CAPITULO XVIII. De las determinaciones que deben dictarse cuando a juicio del juez, la instrucción estuviere concluída
-
-> <small>(REFORMADO, D.O.F. 22 DE JULIO DE 1994)</small>
+### CAPITULO XVII. Del valor jurídico de la prueba
 
 ###### ARTICULO 533.
 
@@ -4390,7 +4424,9 @@ Ni las partes, testigos o vocales de un Consejo de Guerra, podrán ser intérpre
 
 Cuando quienes intervengan en un proceso fueren sordos o mudos, el juez nombrará como intérprete a la persona que pueda entenderlos. Si saben leer y escribir, se les interrogará por escrito y se les prevendrá que contesten del mismo modo. Cuando fueren ciegos, podrán acompañarse de persona que les lea su declaración y la firme o imprima sus huellas digitales después de que la ratifiquen; si no se hicieren acompañar por alguien, el juez designará la persona que lea y firme la diligencia.
 
-### CAPITULO I. Del procedimiento ante el juez
+### CAPITULO XVIII. De las determinaciones que deben dictarse cuando a juicio del juez, la instrucción estuviere concluída
+
+> <small>(REFORMADO, D.O.F. 22 DE JULIO DE 1994)</small>
 
 ###### ARTICULO 555.
 
@@ -4426,7 +4462,7 @@ VI.- las demás personas que el juez crea conveniente y que exprese en el mandam
 
 Para practicar la reconstrucción, se tomará a testigos y peritos la protesta de producirse con verdad; se designará a la persona o personas que substituyan a los actores en el delito que no estén presentes y se dará fe de las circunstancias y pormenores que tengan en relación con el delito. En seguida se leerá la declaración del acusado y se hará que éste explique prácticamente las circunstancias de lugar, tiempo y forma en que se desarrollaron los hechos. Lo mismo se hará con cada uno de los testigos presentes. Entonces los peritos emitirán su opinión, en vista de las declaraciones rendidas y de las huellas e indicios existentes, atendiendo a las indicaciones y preguntas que hagan las partes y la autoridad, la que procurará que los dictámenes versen sobre puntos precisos.
 
-### CAPITULO II. Del procedimiento previo al juicio ante el Consejo de Guerra Ordinario
+### CAPITULO I. Del procedimiento ante el juez
 
 ###### ARTICULO 560.
 
@@ -4558,7 +4594,7 @@ Cuando hubiere de ausentarse alguna persona que pueda declarar acerca del delito
 
 El juez podrá dictar las providencias necesarias para que los testigos no se comuniquen entre sí, ni por medio de otra persona, antes de que rinda su declaración.
 
-### CAPITULO III. Del juicio ante el Consejo de Guerra Ordinario
+### CAPITULO II. Del procedimiento previo al juicio ante el Consejo de Guerra Ordinario
 
 ###### ARTICULO 586.
 
@@ -4584,7 +4620,7 @@ Los careos se practicarán dando lectura, en lo conducente, a las declaraciones 
 
 Cuando alguno de los que deban ser careados, no fuere encontrado o residiere en otro lugar, o estuviere fuera de plaza, se librará la citación o exhorto correspondiente para que comparezca.
 
-### CAPITULO IV. De la policía de la audiencia
+### CAPITULO III. Del juicio ante el Consejo de Guerra Ordinario
 
 ###### ARTICULO 591.
 
@@ -4628,13 +4664,13 @@ Se conducirá entonces al declarante frente a las personas que formen la fila; s
 
 Cuando sean varios los declarantes o las personas confrontadas, se verificarán tantos actos, separados cuantas sean las confrontaciones que deban hacerse.
 
-### CAPITULO V. Del juicio ante el consejo de guerra extraordinario
+### CAPITULO IV. De la policía de la audiencia
 
 ###### ARTICULO 598.
 
 Las presunciones o indicios son las circunstancias y antecedentes que, teniendo relación con el delito, pueden razonablemente fundar una opinión sobre la existencia de los hechos investigados.
 
-### CAPITULO I. De los incidentes en general
+### CAPITULO V. Del juicio ante el consejo de guerra extraordinario
 
 ###### ARTICULO 599.
 
@@ -4742,7 +4778,7 @@ IV.- las pruebas no especificadas a que se refiere la última parte del artícul
 
 Los tribunales, según la naturaleza de los hechos, la prueba de ellos y el enlace natural, más o menos necesario, que exista entre la verdad conocida y la que se busca, apreciarán el valor de las presunciones hasta poder considerar su conjunto como prueba plena.
 
-### CAPITULO II. De la competencia
+### CAPITULO I. De los incidentes en general
 
 ###### ARTICULO 616.
 
@@ -4780,7 +4816,7 @@ El mencionado auto producirá los mismos efectos que una sentencia absolutoria.
 
 ## TITULO TERCERO. Del juicio
 
-### CAPITULO III. De la acumulación y separación
+### CAPITULO II. De la competencia
 
 ###### ARTICULO 623.
 
@@ -4800,7 +4836,7 @@ Si durante la celebración de la audiencia fuere retirada la acción penal, se s
 
 La sentencia condenatoria determinará, cuando haya lugar, a la pérdida de los objetos, o instrumentos del delito que hayan servido para su perpetración, si fueren de propiedad del sentenciado y la restitución a sus dueños o legítimos poseedores, de los que hubieren sido usurpados; precisándose asimismo, el destino que deba darse a los productos del mismo.
 
-### CAPITULO IV. De la suspensión del procedimiento
+### CAPITULO III. De la acumulación y separación
 
 ###### ARTICULO 627.
 
@@ -4836,7 +4872,7 @@ La lista que el acusado presente podrá contener todos los testigos que le conve
 
 Al dictarse el auto por el que se señale día para la reunión del Consejo, se mandará citar a los peritos y testigos que hubieren sido examinados en el proceso, siempre que se encuentren a una distancia tal, que, sin que se perjudique el servicio, sea posible obtener su asistencia a ese acto, en el día designado para que éste se verifique.
 
-### CAPITULO V. De las recusaciones
+### CAPITULO IV. De la suspensión del procedimiento
 
 ###### ARTICULO 635.
 
@@ -5118,7 +5154,7 @@ Cuando de los documentos presentados o de las declaraciones de los testigos dura
 
 Los miembros del consejo de guerra no están obligados a ajustar sus procedimientos y determinaciones a la opinión del juez, el que sólo podrá y deberá emitirla, cuando aquéllos se la pidieren.
 
-### CAPITULO VI. De las excusas
+### CAPITULO V. De las recusaciones
 
 ###### ARTICULO 688.
 
@@ -5180,7 +5216,7 @@ La infracción de ese precepto se castigará con arreglo a lo establecido en el 
 
 A toda audiencia deberá concurrir, además de la escolta encargada de la custodia del reo, la tropa que el presidente del consejo considere necesaria para hacer cumplir sus disposiciones y conservar el orden.
 
-### CAPITULO VII. De los impedimentos
+### CAPITULO VI. De las excusas
 
 ###### ARTICULO 699.
 
@@ -5266,7 +5302,7 @@ Ni la sentencia condenatoria ni la absolutoria que se pronuncien por los consejo
 
 ## TITULO CUARTO. De los incidentes
 
-### CAPITULO VIII. De la libertad absoluta
+### CAPITULO VII. De los impedimentos
 
 ###### ARTICULO 718.
 
@@ -5296,7 +5332,7 @@ Ningún incidente será admisible en primera instancia después de haberse citad
 
 En los juicios extraordinarios de que deban conocer los consejos de guerra, no podrán promoverse más incidentes que los de excusa y recusación conforme a las reglas establecidas por este Código.
 
-### CAPITULO IX. De la libertad por desvanecimiento de datos
+### CAPITULO VIII. De la libertad absoluta
 
 ###### ARTICULO 725.
 
@@ -5376,7 +5412,7 @@ Cuando se interpongan la excepción de incompetencia, se formará por cuerda sep
 
 Cuando se oponga la declinatoria se suspenderá el procedimiento, tramitándose el incidente para oír a las partes y resolver como lo previene el artículo anterior; y si se declara la incompetencia, se remitirán las actuaciones a la autoridad que corresponda.
 
-### CAPITULO X. Libertad provisional bajo protesta
+### CAPITULO IX. De la libertad por desvanecimiento de datos
 
 ###### ARTICULO 744.
 
@@ -5494,9 +5530,7 @@ El incidente sobre separación de procesos nunca suspenderá el curso de éstos 
 
 Cuando varios tribunales conocieren de los procesos cuya separación se hubiese decretado, el que conozca del proceso en que primero se pronuncie sentencia ejecutoria, lo comunicará a los otros para los efectos legales.
 
-### CAPITULO XI. De la libertad provisional bajo caución
-
-> <small>(REFORMADO, D.O.F. 22 DE JULIO DE 1994)</small>
+### CAPITULO X. Libertad provisional bajo protesta
 
 ###### ARTICULO 766.
 
@@ -5538,7 +5572,9 @@ Cuando el tribunal de apelación tuviere noticia de que se ha suspendido el proc
 
 Si al pronunciarse la sentencia definitiva no hubieren sido aprehendidos algunos de los inculpados por el mismo delito, se mandará dejar abierto el proceso para continuarlo cuando se logre su detención.
 
-### CAPITULO I. Reglas generales
+### CAPITULO XI. De la libertad provisional bajo caución
+
+> <small>(REFORMADO, D.O.F. 22 DE JULIO DE 1994)</small>
 
 ###### ARTICULO 773.
 
@@ -5568,7 +5604,7 @@ II.- las partes podrán usar de este derecho hasta el día señalado para la vis
 
 III.- los magistrados que conozcan de una excusa, son irrecusables para ese efecto.
 
-### CAPITULO II. De la revocación
+### CAPITULO I. Reglas generales
 
 ###### ARTICULO 778.
 
@@ -5620,7 +5656,7 @@ Los funcionarios a quienes se refieren los artículos anteriores del presente ca
 
 Los defensores de oficio deberán excusarse por las mismas causas a que se refiere el artículo anterior y además podrán hacerlo, cuando intervenga un defensor particular. Propondrán su excusa ante el jefe del cuerpo de defensores, quién la calificará dentro de veinticuatro horas nombrando substituto en caso de admitirla.
 
-### CAPITULO III. De la apelación
+### CAPITULO II. De la revocación
 
 ###### ARTICULO 788.
 
@@ -5644,7 +5680,7 @@ VII.- aquel contra quien se haya cometido el delito o que resintiere personalmen
 
 Ningún militar puede excusarse de desempeñar los cargos o empleos de la administración de justicia, sino de conformidad con lo preceptuado en este Código.
 
-### CAPITULO IV. De la denegada apelación
+### CAPITULO III. De la apelación
 
 ###### ARTICULO 790.
 
@@ -5656,7 +5692,7 @@ II.- cuando se hayan desvanecido con prueba plena los datos que sirvieron de bas
 
 III.- cuando se haya extinguido la acción penal.
 
-### CAPITULO I. De la ejecución
+### CAPITULO IV. De la denegada apelación
 
 ###### ARTICULO 791.
 
@@ -5676,7 +5712,7 @@ En el caso de que se conceda la libertad por haberse desvanecido los datos que s
 
 Cuando se conceda la libertad por haberse desvanecido los datos que sirvieron para tener por comprobado el cuerpo del delito, la resolución tendrá efectos de la cosa juzgada y se archivará el expediente.
 
-### CAPITULO II. De la liberatd (sic) preparatoria y retención
+### CAPITULO I. De la ejecución
 
 ###### ARTICULO 795.
 
@@ -5714,7 +5750,7 @@ I.- En los casos del párrafo segundo de la fracción X del artículo 20 constit
 
 II.- cuando habiéndose pronunciado sentencia condenatoria en primera instancia, la haya cumplido íntegramente el acusado, y esté pendiente del recurso de apelación.
 
-### CAPITULO III. De la Reducción, Indulto, Reconocimiento de Inocencia y Rehabilitación
+### CAPITULO II. De la liberatd (sic) preparatoria y retención
 
 ###### ARTICULO 799.
 
@@ -5885,6 +5921,8 @@ En los casos de revocación de la libertad caucional, se deberá oír reviamente
 Los jueces que concedan libertades bajo caución, comunicarán al Supremo Tribunal Militar, con copia a los demás jueces del lugar, si en él hubiere más de uno, dentro del término de tres días, los datos sobre el monto y naturaleza de la fianza, nombre y domicilio del fiador, nombre del beneficiado, delito por el que se le instruye proceso y estado de éste. Asimismo, darán aviso de las cancelaciones y motivos de ellas y de las que hagan efectivas.
 
 ## TITULO QUINTO. De los recursos
+
+### CAPITULO III. De la Reducción, Indulto, Reconocimiento de Inocencia y Rehabilitación
 
 ###### ARTICULO 817.
 
@@ -6567,3 +6605,7 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Las personas que antes de la entrada en vigor del presente Decreto hayan cometido un delito sancionado con pena de muerte en el Código de Justicia Militar, incluyendo los procesados y sentenciados o aquellos a quienes no se haya ejecutado o tramitado la conmutación de la pena capital, se les impondrá pena de 20 años de prisión.
 
 TERCERO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+D.O.F. 16 DE NOVIEMBRE DE 2011.
+
+Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
