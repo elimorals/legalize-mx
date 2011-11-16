@@ -4,7 +4,7 @@ identifier: "FED-ley-general-de-educacion-122"
 country: "mx"
 rank: "ley_general"
 publication_date: "1993-07-13"
-last_updated: "2011-06-21"
+last_updated: "2011-11-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGE"
 
 LEY GENERAL DE EDUCACION
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 21 DE JUNIO DE 2011.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 16 DE NOVIEMBRE DE 2011.
 
 Ley publicada en el Diario Oficial de la Federación, el martes 13 de julio de 1993.
 
@@ -154,9 +154,11 @@ II.- Será nacional, en cuanto -sin hostilidades ni exclusivismos - atenderá a 
 
 III.- Contribuirá a la mejor convivencia humana, tanto por los elementos que aporte a fin de robustecer en el educando, junto con el aprecio para la dignidad de la persona y la integridad de la familia, la convicción del interés general de la sociedad, cuanto por el cuidado que ponga en sustentar los ideales de fraternidad e igualdad de derechos de todos los hombres, evitando los privilegios de razas, de religión, de grupos, de sexos o de individuos.
 
+> <small>(REFORMADO, D.O.F. 16 DE NOVIEMBRE DE 2011)</small>
+
 ###### ARTICULO 9o.
 
-Además de impartir la educación preescolar, la primaria y la secundaria, el Estado promoverá y atenderá -directamente, mediante sus organismos descentralizados, a través de apoyos financieros, o bien, por cualquier otro medio- todos los tipos y modalidades educativos, incluida la educación superior, necesarios para el desarrollo de la Nación, apoyará la investigación científica y tecnológica, y alentará el fortalecimiento y la difusión de la cultura nacional y universal.
+Además de impartir la educación preescolar, la primaria y la secundaria, el Estado promoverá y atenderá -directamente, mediante sus organismos descentralizados, a través de apoyos financieros, o bien, por cualquier otro medio- todos los tipos y modalidades educativos, incluida la educación superior, necesarios para el desarrollo de la Nación, apoyará la investigación científica, el desarrollo tecnológico y la innovación e impulsará su divulgación, además de alentar el fortalecimiento y la difusión de la cultura nacional y universal.
 
 ###### ARTICULO 10.
 
@@ -316,7 +318,9 @@ VI.- Prestar servicios bibliotecarios a través de bibliotecas públicas, a fin 
 
 VII.- Promover permanentemente la investigación que sirva como base a la innovación educativa;
 
-VIII.- Impulsar el desarrollo de la enseñanza tecnológica y de la investigación científica y tecnológica;
+> <small>(REFORMADA, D.O.F. 16 DE NOVIEMBRE DE 2011)</small>
+
+VIII.- Promover la investigación y el desarrollo de la ciencia y la tecnología, y fomentar su enseñanza y divulgación;
 
 IX.- Fomentar y difundir las actividades artísticas, culturales y físico-deportivas en todas sus manifestaciones;
 
@@ -1371,3 +1375,7 @@ TERCERO.- La constitución de los sistemas y registros a que hacen referencia la
 D.O.F. 21 DE JUNIO DE 2011.
 
 Artículo Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación
+
+D.O.F. 16 DE NOVIEMBRE DE 2011.
+
+Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
