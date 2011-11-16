@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-de-la-administracion-publica-del-estado-de-5770"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1981-09-17"
-last_updated: "2011-10-26"
+last_updated: "2011-11-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5770&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "MEX"
 ---
 # LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE MEXICO
 
-LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE MEXICO
+LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MÉXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 26 DE OCTUBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 16 DE NOVIEMBRE DE 2011.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el jueves 17 de septiembre de 1981.
 
@@ -545,9 +545,9 @@ XXIV. Planear, autorizar, coordinar, vigilar y evaluar los programas de inversi�
 
 XXV. Establecer y llevar los sistemas de contabilidad gubernamental y de estadística general del Gobierno del Estado.
 
-> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 1989)</small>
+> <small>(REFORMADA, G.G. 16 DE NOVIEMBRE DE 2011)</small>
 
-XXVI. Hacer la glosa preventiva de los ingresos y egresos del Gobierno del Estado, elaborar la cuenta pública y mantener las relaciones con la Contaduría General de Glosa, del Congreso del Estado.
+XXVI. Hacer la glosa preventiva de los ingresos y egresos del Gobierno del Estado, elaborar la cuenta pública y mantener las relaciones con el Órgano Superior de Fiscalización del Estado de México.
 
 > <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 1989)</small>
 
@@ -1471,7 +1471,9 @@ XIII. Designar a los auditores externos de los organismos auxiliares y fideicomi
 
 XIV. Opinar sobre el nombramiento y en su caso solicitar la remoción de los titulares de las áreas de control de las dependencias, organismos auxiliares y fideicomisos de la administración pública estatal.
 
-XV. Coordinarse con la Contaduría General de Glosa del Poder Legislativo, para el establecimiento de los mecanismos necesarios, que permitan a ambas instancias, el mejor cumplimiento de sus respectivas responsabilidades.
+> <small>(REFORMADA, G.G. 16 DE NOVIEMBRE DE 2011)</small>
+
+XV. Coordinarse con el Órgano Superior de Fiscalización del Estado de México, para el establecimiento de los mecanismos necesarios, que permitan a ambas instancias, el mejor cumplimiento de sus respectivas responsabilidades.
 
 XVI. Informar anualmente al titular del Ejecutivo del Estado, respecto del resultado de la evaluación de las dependencias, organismos auxiliares y fideicomisos de la administración pública estatal, que hayan sido objeto de fiscalización. Asimismo, informar a la Secretaría de la Contraloría General de la Federación de la evaluación de los programas que manejen o involucren recursos federales, en los términos de los acuerdos o convenios respectivos.
 
@@ -2136,6 +2138,12 @@ SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 TERCERO.- La Secretaría de Salud del Estado implementará los centros especializados para el tratamiento, atención y rehabilitación de la farmacodependencia, en el término para tal efecto establecido por el párrafo tercero del Artículo Primero Transitorio, del Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley General de Salud, del Código Penal Federal y del Código Federal de Procedimientos Penales, publicado en el Diario Oficial de la Federación del 20 agosto de 2009.
 
 CUARTO.- El presente Decreto surtirá efectos para los sistemas procesales penales mixto y acusatorio, respectivamente, vigentes en el Estado de México.
+
+G.G. 16 DE NOVIEMBRE DE 2011.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 158 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES, LA LEY DEL SISTEMA DE MEDIOS DE IMPUGNACIÓN EN MATERIA ELECTORAL Y DE PARTICIPACIÓN CIUDADANA, LA LEY ORGÁNICA DE LA COMISIÓN ESTATAL DE LOS DERECHOS HUMANOS, LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA, LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA Y LA LEY DE GOBIERNO MUNICIPAL, TODAS DEL ESTADO DE SINALOA”.]
 
