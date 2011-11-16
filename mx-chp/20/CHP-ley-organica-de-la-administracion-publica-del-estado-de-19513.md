@@ -4,7 +4,7 @@ identifier: "CHP-ley-organica-de-la-administracion-publica-del-estado-de-19513"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2000-12-08"
-last_updated: "2011-08-11"
+last_updated: "2011-11-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=19513&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE CHIAPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE AGOSTO DE 2011.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE NOVIEMBRE DE 2011.
 
 Ley publicada en el Periódico Oficial del Estado de Chiapas, el viernes 8 de diciembre de 2000.
 
@@ -1901,9 +1901,17 @@ XXIV.- DELEGAR LA REPRESENTACION JURIDICA DE LA SECRETARIA DE SEGURIDAD Y PROTEC
 
 XXV.- (DEROGADA, P.O. 7 DE DICIEMBRE DE 2006)
 
-> <small>(REFORMADA, P.O. 7 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2011)</small>
 
-XXVI.- LOS DEMAS ASUNTOS QUE LE CORRESPONDAN, EN LOS TERMINOS DE LAS LEYES APLICABLES, SU REGLAMENTO INTERIOR Y LOS QUE LE INSTRUYA EL GOBERNADOR DEL ESTADO.
+XXVI.- OPERAR, COORDINAR, PLANEAR Y EVALUAR LA RED ESTATAL DE RADIOCOMUNICACIONES;
+
+> <small>(ADICIONADA, P.O. 16 DE NOVIEMBRE DE 2011)</small>
+
+XXVII.- CONTROLAR, PLANEAR, COORDINAR, EVALUAR Y DIRIGIR EL SERVICIO DE LLAMADAS DE EMERGENCIA Y EL SERVICIO DE DENUNCIA ANONIMA, DE CONFORMIDAD A LA LEY DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA;
+
+> <small>(ADICIONADA, P.O. 16 DE NOVIEMBRE DE 2011)</small>
+
+XXVIII.- LOS DEMAS ASUNTOS QUE LE CORRESPONDAN, EN TERMINOS DE LAS LEYES APLICABLES, SU REGLAMENTO INTERIOR Y LOS QUE LE INSTRUYA EL GOBERNADOR DEL ESTADO.
 
 > <small>(REFORMADO, P.O. 21 DE NOVIEMBRE DE 2007)</small>
 
@@ -1949,9 +1957,13 @@ XVII. PROMOVER, ORGANIZAR Y ADMINISTRAR LA IMPLEMENTACION DE SISTEMAS DE TRANSPO
 
 XVIII. DIRIGIR, PLANEAR Y REGULAR LO RELATIVO A LA NORMATIVIDAD DEL SERVICIO PUBLICO DE TRANSITO Y VIALIDAD EN EL ESTADO.
 
-> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 3 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2011)</small>
 
-XIX. LOS DEMAS QUE LE CORRESPONDAN, EN TERMINOS DE LAS LEYES APLICABLES, SU REGLAMENTO INTERIOR Y LOS QUE LE INSTRUYA EL TITULAR DEL PODER EJECUTIVO.
+XIX.- ADMINISTRAR EL FUNCIONAMIENTO DE LAS AERONAVES AL SERVICIO DEL ESTADO A CARGO DEL PODER EJECUTIVO DEL ESTADO.
+
+> <small>(ADICIONADA, P.O. 16 DE NOVIEMBRE DE 2011)</small>
+
+XX.- LOS DEMAS ASUNTOS QUE LE CORRESPONDAN EN TERMINOS DE LAS LEYES APLICABLES, SU REGLAMENTO INTERIOR Y LOS QUE LE INSTRUYA EL GOBERNADOR DEL ESTADO.
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -2009,7 +2021,9 @@ XXIII. ESTABLECER LOS VINCULOS QUE PERMITAN EL INTERCAMBIO ARTISTICO, CULTURAL, 
 
 XXIV. COORDINARSE CON LA SECRETARIA DE RELACIONES EXTERIORES Y LOS AYUNTAMIENTOS DEL ESTADO, PARA LA EJECUCION DEL PROGRAMA "CIUDADES HERMANAS”.
 
-XXV. PARTICIPAR EN EL SISTEMA DE PROTECCION, VINCULACION Y REPATRIACION DE CHIAPANECOS EN EL EXTERIOR CON LOS PROGRAMAS ASISTENCIALES Y DE DESARROLLO, CONJUNTAMENTE CON LAS DEPENDENCIAS Y ENTIDADES DE LOS TRES ORDENES DE GOBIERNO.
+> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2011)</small>
+
+XXV. PARTICIPAR EN EL SISTEMA DE PROTECCION, VINCULACION Y REPATRIACION DE CHIAPANECOS EN EL EXTERIOR CON LOS PROGRAMAS ASISTENCIALES Y DE DESARROLLO, CONJUNTAMENTE CON LAS DEPENDENCIAS Y ENTIDADES DE LOS TRES ORDENES DE GOBIERNO; ASI COMO COORDINAR, OPERAR, ADMINISTRAR Y VIGILAR EL MODULO DE ATENCION AL MIGRANTE CHIAPANECO.
 
 XXVI. REALIZAR LAS ACCIONES CONDUCENTES PARA REPATRIAR LOS CUERPOS DE AQUELLOS EMIGRANTES CHIAPANECOS QUE FALLEZCAN EN EL EXTRANJERO.
 
@@ -2916,3 +2930,29 @@ Artículo Octavo.- Las Dependencias normativas del Poder Ejecutivo, en el ámbit
 En el caso específico de la Secretaría de Medio Ambiente e Historia Natural, deberá proveerse lo necesario para la creación de un órgano administrativo con nivel de mando medio superior, la cual se hará cargo de la coordinación de las acciones relativas a la formulación e instrumentación de las políticas estatales para la mitigación de emisiones de gases de efecto invernadero, y la adaptación a los efectos del cambio climático, a que se refiere la fracción XXVI, del artículo 32 A, que por este Decreto se reforma.
 
 Artículo Noveno.- Los Titulares de la Secretaría General de Gobierno; de la Secretaría de Medio Ambiente e Historia Natural; de la Secretaría del Campo; del Instituto de la Consejería Jurídica y de Asistencia Legal; y del Instituto de Reconversión Productiva y Bioenergéticos, en un término no mayor de 90 días hábiles, contados a partir de la entrada en vigor del presente Decreto, someterán a consideración del Titular del Ejecutivo del Estado, las adecuaciones que al efecto requiera su Reglamento Interior, para su aprobación, expedición y publicación correspondiente.
+
+P.O. 16 DE NOVIEMBRE DE 2011.
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Se derogan las disposiciones que se opongan al presente Decreto.
+
+Artículo Tercero.- Los recursos financieros, humanos y materiales, que hasta la entrada en vigor del presente Decreto, se encuentren asignados a la Unidad de Atención a Emergencias del Consejo Estatal de Seguridad Pública, así como las atribuciones y referencias que las disposiciones legales otorguen a dicha Unidad, serán asumidos inmediatamente y se entenderán conferidos a la Secretaría de Seguridad y Protección Ciudadana, a través de la Subsecretaría de Seguridad y Protección Ciudadana.
+
+Artículo Cuarto.- Los compromisos y procedimientos, que a la entrada en vigor del presente Decreto, hubiere contraído el Secretariado Ejecutivo del Consejo Estatal de Seguridad Pública, a través de la Unidad de Atención a Emergencias, con motivo de la Red Estatal de Radiocomunicaciones, serán asumidos inmediatamente y se entenderán conferidos a la Secretaría de Seguridad y Protección Ciudadana, a través de la Subsecretaría de Seguridad y Protección Ciudadana.
+
+Artículo Quinto.- Los trabajos de transferencia a que se refiere el Artículo Segundo Transitorio, deberán iniciarse el día siguiente de la publicación del presente Decreto.
+
+Artículo Sexto.- La Coordinación de Transportes Aéreos, con sus recursos humanos, materiales y financieros, que a la entrada en vigor del presente Decreto, se encontraba desconcentrada de la Oficina de la Gubernatura, será transferida de inmediato a la Secretaría de Transportes.
+
+De igual manera, los recursos humanos, materiales y financieros que a la entrada en vigor del presente Decreto, se encontraban asignados al Módulo de Atención al Migrante Chiapaneco, dependiente de la Secretaría de Desarrollo y Participación Social, serán transferidos a la Secretaría para el Desarrollo de la Frontera Sur y Enlace para la Cooperación Internacional.
+
+Artículo Séptimo.- Los compromisos y procedimientos relacionados con la administración y funcionamientos de las aeronaves del Gobierno Estatal a cargo del Poder Ejecutivo del Estado, que a la entrada en vigor del presente Decreto, correspondían a la Oficina de la Gubernatura, serán transferidas y en su caso asumidas de inmediato por la Secretaría de Transportes a través del órgano correspondiente.
+
+Asimismo, los compromisos y procedimientos relacionados con la administración y funcionamientos del Módulo de Atención al Migrante Chiapaneco, que a la entrada en vigor del presente Decreto, correspondían a la Secretaría de Desarrollo y Participación Social, serán transferidas y en su caso asumidas de inmediato por la Secretaría para el Desarrollo de la Frontera Sur y Enlace para la Cooperación Internacional a través del órgano correspondiente.
+
+Artículo Octavo.- Las referencias, atribuciones o menciones que hagan otros ordenamientos legales, normativos o administrativos en relación con la Coordinación de Transportes Aéreos, que se encontraba adscrita a la Secretaría Privada de la Oficina de la Gubernatura, se entenderán conferidas a la Secretaría de Transportes.
+
+De la misma forma, las referencias, atribuciones o menciones que hagan otros ordenamientos legales, normativos o administrativos en relación con el Módulo de Atención al Migrante Chiapaneco, que se encontraba adscrita a la Secretaría de Desarrollo y Participación Social, se entenderán conferidas a la Secretaría para el Desarrollo de la Frontera Sur y Enlace para la Cooperación Internacional.
+
+Artículo Noveno.- La Secretaría de Hacienda, la Secretaría de la Función Pública y el Instituto de la Consejería Jurídica y de Asistencia Legal, en el ámbito de sus respectiva competencia, llevará acabo de inmediato las acciones técnico administrativas necesarias para la adecuación de la estructura orgánica, para la incorporación de la Unidad de Atención a Emergencias a la Secretaría de Seguridad y Protección Ciudadana.
