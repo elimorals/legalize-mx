@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-equilibrio-ecologico-y-proteccion-al-ambiente-del-45254"
 country: "mx"
 rank: "ley"
 publication_date: "2005-06-08"
-last_updated: "2011-10-29"
+last_updated: "2011-11-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45254&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE EQUILIBRIO ECOLÓGICO Y PROTECCIÓN AL AMBIENTE DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE OCTUBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE NOVIEMBRE DE 2011.
 
 Ley publicada en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el miércoles 8 de junio de 2005.
 
@@ -259,7 +259,21 @@ V.- La regulación de actividades que no sean consideradas como altamente riesgo
 
 VI.- La regulación de las áreas naturales protegidas, así como su creación y, en su caso, la administración en coordinación con los municipios que corresponda;
 
-VII.- La prevención y control de la contaminación de la atmósfera generada por fuentes industriales, agroindustriales, agrícolas y de servicios, o por aquellas que no sean de jurisdicción municipal o federal;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+
+> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2011)</small>
+
+VII. La prevención y control de la contaminación de la atmósfera:
+
+a) Que se genere por fuentes industriales, agroindustriales, agrícolas y de servicios, o por aquellas que no sean de jurisdicción municipal o federal; y
+
+b) Que se genere por fuentes móviles, mediante:
+
+El establecimiento de medidas para retirar de la circulación los vehículos automotores que rebasen los límites máximos permisibles de emisiones contaminantes a la atmósfera, que fijen los reglamentos, las Normas Oficiales Mexicanas en materia ambiental y las Normas Técnicas Ecológicas Estatales aplicables;
+
+El establecimiento y operación de centros de verificación vehicular o, en su caso, las concesiones a los particulares para hacerlo, cumpliendo previamente con los requisitos que señale la normatividad aplicable; y
+
+La puesta en práctica de medidas de inspección, medición y evaluación, para evitar que los niveles de concentración de contaminantes en la atmósfera emitidos por los vehículos automotores, rebasen los límites máximos permisibles que determinen los reglamentos, las Normas Oficiales Mexicanas y las Normas Técnicas Ecológicas Estatales aplicables;
 
 VIII.- La regulación del aprovechamiento sustentable, así como la prevención y control de la contaminación de aguas de competencia estatal, conforme a criterios y propósitos ecológicos, incluida el agua de lluvia que se capte artificialmente en los centros de población y zonas circunvecinas;
 
@@ -403,7 +417,27 @@ XXXIV.- Formar y administrar el registro público estatal de sitios contaminados
 
 XXXV.- Establecer un programa estatal de campañas mediáticas permanentes para la concientización ciudadana en la cultura ecológica;
 
-XXXVI.- Las demás facultades que conforme a esta Ley u otras disposiciones legales le correspondan.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 16 DE NOVIEMBRE DE 2011)</small>
+
+XXXVI.- Para prevenir, controlar, reducir o evitar la contaminación de la atmósfera:
+
+a) Establecer y operar centros de verificación;
+
+b) Proponer el monto de las tarifas que deberán cubrirse por los servicios de verificación de emisiones de automotores en circulación;
+
+c) Llevar un registro de los centros de verificación y mantener actualizados los resultados obtenidos;
+
+d) Entregar a los propietarios o poseedores de vehículos automotores, cuando proceda, el documento que acredite que dicha fuente no rebasa los límites máximos permisibles de emisión, conforme a las Normas Oficiales Mexicanas y Normas Técnicas Ecológicas Estatales, en su caso; y
+
+e) Proponer al Ejecutivo Estatal el Reglamento del Programa de Verificación Vehicular; y
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 16 DE NOVIEMBRE DE 2011)</small>
+
+XXXVII.- Las demás facultades que conforme a esta Ley u otras disposiciones legales le correspondan.
 
 Las atribuciones que esta Ley otorga al Poder Ejecutivo del Estado, serán ejercidas a través de la Secretaría, salvo las que directamente correspondan al Gobernador del Estado por disposición expresa de la ley.
 
@@ -423,13 +457,23 @@ V.- La promoción ante el Congreso del Estado de la declaración de áreas natur
 
 VI.- La prevención y control de la contaminación de la atmósfera, generada por fuentes fijas que funcionan como establecimientos mercantiles o de servicios, fuentes naturales, quemas y fuentes móviles, excepto del transporte federal;
 
-VII.- La verificación del cumplimiento de las Normas Oficiales Mexicanas en materia ambiental y de las Normas Técnicas Ecológicas Estatales, mediante el establecimiento y operación de sistemas de verificación, relativas a la emisión máxima permisible de contaminantes a la atmósfera, generada por fuentes fijas que funcionan como establecimientos mercantiles o de servicios y de las fuentes móviles, excepto el transporte federal;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
 
-VIII.- El establecimiento de medidas para retirar de la circulación, los vehículos automotores que rebasen los límites máximos permisibles de emisiones contaminantes a la atmósfera, que fijen los reglamentos, las Normas Oficiales Mexicanas en materia ambiental y las Normas Técnicas Ecológicas Estatales aplicables;
+> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2011)</small>
 
-IX.- El otorgamiento de las concesiones para el establecimiento y operación de sistemas de verificación vehicular, cumpliéndose previamente con los requisitos que señale la normatividad aplicable;
+VII. La verificación del cumplimiento de las Normas Oficiales Mexicanas en materia ambiental y de las Normas Técnicas Ecológicas Estatales, mediante el establecimiento y operación de sistemas de verificación, relativas a la emisión máxima permisible de contaminantes a la atmósfera, generada por fuentes fijas que funcionan como establecimientos mercantiles o de servicios;
 
-X.- La puesta en práctica de medidas de inspección, medición y evaluación, para evitar que los niveles de concentración de contaminantes en la atmósfera emitidos por los vehículos automotores, rebasen los límites máximos permisibles que determinen los reglamentos, la Normas Oficiales Mexicanas y las Normas Técnicas Ecológicas Estatales aplicables;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+
+VIII. (DEROGADA, P.O. 16 DE NOVIEMBRE DE 2011)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+
+IX. (DEROGADA, P.O. 16 DE NOVIEMBRE DE 2011)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+
+X. (DEROGADA, P.O. 16 DE NOVIEMBRE DE 2011)
 
 XI.- Otorgamiento de las autorizaciones para el uso del suelo y de las licencias de construcción u operación, dependiendo del resultado satisfactorio de la evaluación de impacto ambiental, en el caso de proyectos de obras, acciones y servicios que se mencionan en esta Ley;
 
@@ -437,7 +481,11 @@ XII.- La prevención y control de la contaminación de aguas federales que tenga
 
 XIII.- La verificación del cumplimiento de las disposiciones que se expidan para el vertido de aguas residuales en los sistemas de drenaje y alcantarillado;
 
-XIV.- El establecimiento de las medidas para hacer efectiva la prohibición de emisiones contaminantes de competencia municipal, que rebasen los niveles máximos permisibles y resulten perjudiciales al equilibrio ecológico o al ambiente, salvo en las zonas o en los casos de fuentes de jurisdicción federal;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+
+> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2011)</small>
+
+XIV. El establecimiento de las medidas para hacer efectiva la prohibición de emisiones contaminantes de competencia municipal, que rebasen los niveles máximos permisibles y resulten perjudiciales al equilibrio ecológico o al ambiente, salvo en las zonas o en los casos de fuentes de jurisdicción estatal o federal;
 
 XV.- La promoción, en coordinación con el Estado, de la instalación de equipos de control de emisiones, entre quienes realicen actividades contaminantes;
 
@@ -507,7 +555,11 @@ XXVI.- Las demás facultades que conforme a esta Ley les corresponden.
 
 En cada municipio podrá existir una unidad administrativa encargada de aplicar las disposiciones de esta ley y demás ordenamientos de la materia.
 
-Las facultades a que se refiere este artículo podrán ejercitarse por el Ejecutivo Estatal cuando los municipios celebren convenio con el Gobierno del Estado, el cual no implicará la pérdida de las facultades que a los municipios confiere esta Ley y podrá ser revocado en cualquier momento, previo acuerdo de ambas partes.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+
+> <small>(REFORMADO, P.O. 16 DE NOVIEMBRE DE 2011)</small>
+
+Las facultades a que se refiere este artículo podrán ejercitarse por el Ejecutivo Estatal cuando los municipios celebren convenio con el Gobierno del Estado, el cual no implicará la pérdida de las facultades que a los municipios confiere esta Ley y podrá ser revocado en cualquier momento, previo acuerdo de ambas partes. El ejercicio de las atribuciones a que se refiere el artículo 7, fracción VII, inciso b), podrá incluir la participación de los municipios dentro del área de su jurisdicción, en los términos que se fijen en los convenios de colaboración que se celebren con el Ejecutivo Estatal. No obstante, los municipios interesados podrán solicitarle a este último la transferencia en el ejercicio de dichas atribuciones, en los términos de los convenios que para tal efecto se celebren.
 
 ### CAPÍTULO II. DE LA GESTIÓN AMBIENTAL
 
@@ -1311,15 +1363,21 @@ III.- Las emisiones de contaminantes a la atmósfera, sean de fuentes artificial
 
 Se prohíbe emitir a la atmósfera contaminantes, tales como humos, polvos, gases, vapores y olores, que rebasen los límites máximos permisibles contenidos en las Normas Oficiales Mexicanas en materia ambiental y en las disposiciones reglamentarias que se expidan por el Ejecutivo del Estado y los municipios.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+
+> <small>(REFORMADO, P.O. 16 DE NOVIEMBRE DE 2011)</small>
+
 ###### ARTÍCULO 96.
 
-Corresponde al Estado, por conducto de la Secretaría, la prevención y control de la contaminación atmosférica generada por fuentes fijas que funcionen como establecimientos industriales.
+Corresponde al Estado, por conducto de la Secretaría, la prevención y control de la contaminación atmosférica generada por fuentes fijas que funcionen como establecimientos industriales, así como de emisiones de contaminantes de la atmósfera, provenientes de fuentes móviles, que no sean consideradas de competencia federal.
 
-> <small>(F. DE E., P.O. 5 DE OCTUBRE DE 2005)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+
+> <small>(REFORMADO, P.O. 16 DE NOVIEMBRE DE 2011)</small>
 
 ###### ARTÍCULO 97.
 
-Corresponde a los municipios la aplicación de las disposiciones jurídicas en materia de prevención y control de la contaminación atmosférica, generada por fuentes fijas que funcionen como establecimientos mercantiles o de servicios, así como de emisiones de contaminantes de la atmósfera provenientes de fuentes móviles, que no sean consideradas de competencia federal.
+Corresponde a los municipios la aplicación de las disposiciones jurídicas en materia de prevención y control de la contaminación atmosférica, generada por fuentes fijas que funcionen como establecimientos mercantiles o de servicios, así como de emisiones de contaminantes de la atmósfera, provenientes de fuentes móviles, en los supuestos del artículo 9, último párrafo.
 
 ###### ARTÍCULO 98.
 
@@ -1379,9 +1437,45 @@ La Secretaría y los Gobiernos Municipales promoverán, en las zonas que se hubi
 
 La Secretaría establecerá que en la determinación de usos de suelo que definan los programas de desarrollo urbano e industrial, se consideren como criterios ecológicos, las condiciones topográficas, climatológicas y meteorológicas, los cuales serán de utilidad para realizar el estudio de impacto ambiental y asegurar la adecuada dispersión de contaminantes, así como para imponer las medidas de contingencia necesarias.
 
-### CAPÍTULO II. PREVENCIÓN Y CONTROL DE LA CONTAMINACIÓN DEL AGUA
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
 
-### CAPÍTULO III. CONTROL DE CONTAMINACIÓN POR RUIDO, VIBRACIONES, OLORES, ENERGÍA TÉRMICA Y LUMÍNICA
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 16 DE NOVIEMBRE DE 2011)</small>
+
+### CAPÍTULO I BIS. CENTROS DE VERIFICACIÓN VEHICULAR
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+
+> <small>(ADICIONADO, P.O. 16 DE NOVIEMBRE DE 2011)</small>
+
+###### ARTÍCULO 101-A.
+
+Queda prohibida la circulación de automotores que emitan contaminantes, cuyos niveles de emisión a la atmósfera rebasen los máximos permisibles establecidos en las normas aplicables.
+
+La autoridad correspondiente podrá limitar la circulación de cualquier vehículo automotor que circule en el Estado, a fin de prevenir y reducir las emisiones contaminantes, conforme a lo previsto por el Programa de Verificación Vehicular y, en su caso, los reglamentos municipales que se emitan al respecto.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+
+> <small>(ADICIONADO, P.O. 16 DE NOVIEMBRE DE 2011)</small>
+
+###### ARTÍCULO 101-B.
+
+Los propietarios o poseedores de vehículos automotores en circulación deberán someter sus unidades a la verificación de emisiones contaminantes en los centros de verificación, dentro del periodo que le corresponda en los términos del Programa de Verificación Vehicular, así como obtener la constancia de verificación de emisiones en la que se señale que se cumple con los límites máximos permisibles que establezcan las Normas Oficiales Mexicanas y demás aplicables, así como revalidarla anualmente.
+
+En su caso, los propietarios o poseedores de vehículos automotores deberán reparar los sistemas de emisiones de contaminantes de éstos y sustituir los equipos y dispositivos que no funcionen adecuadamente en aquéllos, en los términos que determine el Programa de Verificación Vehicular.
+
+El propietario o poseedor de un vehículo automotor que no haya realizado la verificación dentro del periodo que le corresponda, de acuerdo con el calendario establecido en el Programa de Verificación Vehicular, deberá trasladarse en un término de treinta días naturales, a un taller mecánico o a un centro de verificación.
+
+Las sanciones por el incumplimiento a lo previsto en el presente artículo, serán determinadas conforme a la presente Ley y a las disposiciones en materia de tránsito, según corresponda.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+
+> <small>(ADICIONADO, P.O. 16 DE NOVIEMBRE DE 2011)</small>
+
+###### ARTÍCULO 101-C.
+
+Las constancias a que se refiere el artículo anterior, serán emitidas por los centros de verificación establecidos por la Secretaría o por los particulares que obtengan la correspondiente concesión, en los términos de esta Ley, el Reglamento del Programa de Verificación Vehicular y demás disposiciones aplicables. En todo caso, corresponde a la Secretaría vigilar el adecuado funcionamiento de los centros de verificación.
+
+### CAPÍTULO II. PREVENCIÓN Y CONTROL DE LA CONTAMINACIÓN DEL AGUA
 
 ###### ARTÍCULO 102.
 
@@ -1435,7 +1529,7 @@ Cuando las aguas residuales afecten o puedan afectar fuentes de abastecimiento d
 
 El otorgamiento de asignaciones, autorizaciones, concesiones y permisos para la explotación, uso, aprovechamiento de aguas de jurisdicción estatal, o las asignadas o concesionadas para la prestación de servicios públicos, en actividades económicas que puedan contaminar dicho recurso, estará condicionado al tratamiento previo necesario de las aguas residuales que se produzcan o descarguen.
 
-### CAPÍTULO IV. CONTAMINACIÓN VISUAL
+### CAPÍTULO III. CONTROL DE CONTAMINACIÓN POR RUIDO, VIBRACIONES, OLORES, ENERGÍA TÉRMICA Y LUMÍNICA
 
 ###### ARTÍCULO 108.
 
@@ -1495,7 +1589,7 @@ VI.- Las demás que conforme a esta ley u otras disposiciones aplicables les cor
 
 La reiterada realización de actividades ruidosas, así como la emisión proveniente de aparatos de sonido instalados en casas-habitación, que rebasen los límites permitidos por la normatividad en materia ambiental, serán objeto de sanción.
 
-### CAPÍTULO I. ACTIVIDADES RIESGOSAS
+### CAPÍTULO IV. CONTAMINACIÓN VISUAL
 
 ###### ARTÍCULO 115.
 
@@ -1533,7 +1627,7 @@ Los establecimientos que se dediquen a la comercialización de partes usadas de 
 
 ## TÍTULO OCTAVO. REGULACIÓN DE ACTIVIDADES QUE PUEDAN GENERAR EFECTOS NOCIVOS
 
-### CAPÍTULO II. EXTRACCIÓN DE MINERALES
+### CAPÍTULO I. ACTIVIDADES RIESGOSAS
 
 ###### ARTÍCULO 119.
 
@@ -1567,7 +1661,7 @@ VI.- La infraestructura para la dotación de servicios básicos.
 
 En la realización de las actividades clasificadas como riesgosas se observarán las disposiciones de esta Ley, sus reglamentos y las Normas Técnicas Ecológicas Estatales.
 
-### CAPÍTULO III. SERVICIOS MUNICIPALES
+### CAPÍTULO II. EXTRACCIÓN DE MINERALES
 
 ###### ARTÍCULO 123.
 
@@ -1607,7 +1701,7 @@ III.- Restaurar y, en su caso, reforestar las áreas utilizadas, una vez conclui
 
 Para la realización de tales actividades en zonas urbanas o en áreas cercanas a los centros de población, será necesario contar con las licencias previas que se determinen en el reglamento correspondiente.
 
-### CAPÍTULO IV. DE LA PROTECCIÓN Y APROVECHAMIENTO SOSTENIBLE DEL SUELO Y SUS ELEMENTOS
+### CAPÍTULO III. SERVICIOS MUNICIPALES
 
 ###### ARTÍCULO 127.
 
@@ -1643,9 +1737,7 @@ IV.- La contaminación de los ríos, cuencas, lagos, embalses, mantos acuíferos
 
 V.- Riesgos y problemas de salud.
 
-### CAPÍTULO V. RESIDUOS SÓLIDOS NO PELIGROSOS
-
-> <small>(F. DE E., P.O. 5 DE OCTUBRE DE 2005)</small>
+### CAPÍTULO IV. DE LA PROTECCIÓN Y APROVECHAMIENTO SOSTENIBLE DEL SUELO Y SUS ELEMENTOS
 
 ###### ARTÍCULO 130.
 
@@ -1701,7 +1793,9 @@ La Secretaría promoverá, ante las dependencias competentes, la introducción y
 
 En las zonas que presentan graves desequilibrios ecológicos, la Secretaría, con la participación de las demás autoridades competentes, formulará programas especiales para la restauración del equilibrio ecológico que resulten convenientes y promoverá su aprobación por el Ejecutivo Estatal.
 
-### CAPÍTULO VI. CLASIFICACIÓN DE LOS RESIDUOS
+### CAPÍTULO V. RESIDUOS SÓLIDOS NO PELIGROSOS
+
+> <small>(F. DE E., P.O. 5 DE OCTUBRE DE 2005)</small>
 
 ###### ARTÍCULO 137.
 
@@ -1799,7 +1893,7 @@ Las obligaciones a que se refiere el artículo anterior, serán determinadas med
 
 El órgano encargado de la vigilancia y cumplimiento a lo preceptuado en el artículo anterior, será el Comité Municipal de Ecología del municipio respectivo; mismo que deberá rendir al ayuntamiento correspondiente, un informe semestral del estado que guarden los convenios suscritos.
 
-### CAPÍTULO VII. PROGRAMAS PARA LA PREVENCIÓN Y GESTIÓN INTEGRAL DE LOS RESIDUOS
+### CAPÍTULO VI. CLASIFICACIÓN DE LOS RESIDUOS
 
 ###### ARTÍCULO 147.
 
@@ -1835,7 +1929,7 @@ La clasificación de los residuos sólidos urbanos y los residuos que requieran 
 
 La Secretaría deberá publicar en el órgano de difusión oficial y diarios de circulación local, la relación de los residuos sujetos a planes de manejo y, en su caso, proponer a la Federación los residuos sólidos urbanos o de manejo especial que deban agregarse a los listados a los que hace referencia el párrafo anterior.
 
-### CAPÍTULO VIII. PLANES DE MANEJO
+### CAPÍTULO VII. PROGRAMAS PARA LA PREVENCIÓN Y GESTIÓN INTEGRAL DE LOS RESIDUOS
 
 ###### ARTÍCULO 150.
 
@@ -1855,7 +1949,7 @@ V.- Los mecanismos para fomentar la vinculación entre los programas municipales
 
 ARTÍCULO 150 bis. Corresponde al Ejecutivo del Estado, por conducto de la Secretaría, realizar las acciones o, en su caso, formular los programas necesarios, para que en la Entidad se privilegie la distribución y utilización de bolsas reciclables o biodegradables.
 
-### CAPÍTULO IX. DE LA PREVENCIÓN Y MANEJO INTEGRAL DE RESIDUOS SÓLIDOS URBANOS Y DE MANEJO ESPECIAL
+### CAPÍTULO VIII. PLANES DE MANEJO
 
 ###### ARTÍCULO 151.
 
@@ -1903,7 +1997,7 @@ Las empresas o establecimientos responsables de los planes de manejo presentará
 
 Cuando se pretenda realizar cambios, modificaciones o alteraciones en sus actividades, que motiven incrementos en la cantidad de sus residuos generados, deberá solicitar previamente a la Dirección de Ecología, la actualización del registro de empresa generadora de residuos de manejo especial.
 
-### CAPÍTULO I. DE LOS OBJETOS Y SUJETOS
+### CAPÍTULO IX. DE LA PREVENCIÓN Y MANEJO INTEGRAL DE RESIDUOS SÓLIDOS URBANOS Y DE MANEJO ESPECIAL
 
 ###### ARTÍCULO 156.
 
@@ -1975,7 +2069,7 @@ III.- Abrir nuevos tiraderos a cielo abierto.
 
 > <small>(DEROGADO POR EL TRANSITORIO TERCERO DE LA LEY DE PROTECCION A LA SALUD DE LOS NO FUMADORES PARA EL ESTADO DE CHIHUAHUA, P.O. 7 DE NOVIEMBRE DE 2009)</small>
 
-### CAPÍTULO II. DE LAS SECCIONES RESERVADAS EN LOS LOCALES CERRADOS Y ESTABLECIMIENTOS
+### CAPÍTULO I. DE LOS OBJETOS Y SUJETOS
 
 ###### ARTÍCULO 162.
 
@@ -1991,7 +2085,7 @@ III.- Abrir nuevos tiraderos a cielo abierto.
 
 > <small>(DEROGADO POR EL TRANSITORIO TERCERO DE LA LEY DE PROTECCION A LA SALUD DE LOS NO FUMADORES PARA EL ESTADO DE CHIHUAHUA, P.O. 7 DE NOVIEMBRE DE 2009)</small>
 
-### CAPÍTULO III. DE LOS LUGARES EN QUE SE PROHÍBE FUMAR
+### CAPÍTULO II. DE LAS SECCIONES RESERVADAS EN LOS LOCALES CERRADOS Y ESTABLECIMIENTOS
 
 ###### ARTÍCULO 165.
 
@@ -2007,7 +2101,7 @@ III.- Abrir nuevos tiraderos a cielo abierto.
 
 > <small>(DEROGADO POR EL TRANSITORIO TERCERO DE LA LEY DE PROTECCION A LA SALUD DE LOS NO FUMADORES PARA EL ESTADO DE CHIHUAHUA, P.O. 7 DE NOVIEMBRE DE 2009)</small>
 
-### CAPÍTULO IV. DE LA DIVULGACIÓN, CONCIENTIZACIÓN Y PROMOCIÓN
+### CAPÍTULO III. DE LOS LUGARES EN QUE SE PROHÍBE FUMAR
 
 ###### ARTÍCULO 168.
 
@@ -2019,7 +2113,7 @@ III.- Abrir nuevos tiraderos a cielo abierto.
 
 > <small>(DEROGADO POR EL TRANSITORIO TERCERO DE LA LEY DE PROTECCION A LA SALUD DE LOS NO FUMADORES PARA EL ESTADO DE CHIHUAHUA, P.O. 7 DE NOVIEMBRE DE 2009)</small>
 
-### CAPÍTULO I. INSTRUMENTOS ECONÓMICOS
+### CAPÍTULO IV. DE LA DIVULGACIÓN, CONCIENTIZACIÓN Y PROMOCIÓN
 
 ###### ARTÍCULO 170.
 
@@ -2031,13 +2125,13 @@ III.- Abrir nuevos tiraderos a cielo abierto.
 
 ## TÍTULO DÉCIMO. INSTRUMENTOS ECONÓMICOS
 
-### CAPÍTULO II. FONDO ESTATAL DE PROTECCIÓN AL AMBIENTE
+### CAPÍTULO I. INSTRUMENTOS ECONÓMICOS
 
 ###### ARTÍCULO 172.
 
 El Ejecutivo del Estado promoverá el otorgamiento de reconocimientos y, en su caso, incentivos a quienes adquieran, instalen y operen las tecnologías, sistemas, equipos y materiales o realicen las acciones que acrediten prevenir o reducir las emisiones contaminantes establecidos por las normas ambientales para el Estado o prevenir y reducir el consumo de agua o de energía, que vayan más allá del cumplimiento de la normatividad.
 
-### CAPÍTULO I. OBSERVACIÓN DE LA LEY
+### CAPÍTULO II. FONDO ESTATAL DE PROTECCIÓN AL AMBIENTE
 
 ###### ARTÍCULO 173.
 
@@ -2105,9 +2199,7 @@ Sin perjuicio de lo dispuesto en el artículo anterior, los municipios podrán c
 
 ## TÍTULO UNDÉCIMO. MEDIDAS DE CONTROL Y SANCIONES
 
-### CAPÍTULO II. DENUNCIA POPULAR
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE ENERO DE 2010)</small>
+### CAPÍTULO I. OBSERVACIÓN DE LA LEY
 
 ###### ARTÍCULO 182.
 
@@ -2119,7 +2211,9 @@ Cuando sean asuntos de competencia municipal, los ayuntamientos aplicarán lo di
 
 Quienes resulten responsables de la contaminación de un sitio, así como de daños a la salud como consecuencia de ésta, estarán obligados a reparar el daño causado, conforme a las disposiciones legales correspondientes.
 
-### CAPÍTULO III. AUTORREGULACIÓN
+### CAPÍTULO II. DENUNCIA POPULAR
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE ENERO DE 2010)</small>
 
 ###### ARTÍCULO 184.
 
@@ -2217,7 +2311,7 @@ La Secretaría convocará de manera permanente al público en general a denuncia
 
 Cuando por infracciones a las disposiciones de esta Ley se hubieren ocasionado daños o perjuicios, el o los interesados podrán solicitar a la Secretaría o a las autoridades municipales competentes, copia certificada de las actuaciones y dictámenes formulados en ejercicio de sus funciones, para usarlos con fines probatorios.
 
-### CAPÍTULO IV. INSPECCIÓN Y VIGILANCIA
+### CAPÍTULO III. AUTORREGULACIÓN
 
 ###### ARTÍCULO 196.
 
@@ -2237,7 +2331,7 @@ Una vez firmado el convenio a que se refiere el artículo anterior y siempre que
 
 Integrado el expediente, la Secretaría revisará la información y documentación aportadas, así como el resultado de la inspección realizada y emitirá un certificado de cumplimiento. Dicho certificado tendrá la vigencia que establezca el Reglamento, pudiendo ser renovado en los términos que el mismo determine.
 
-### CAPÍTULO V. MEDIDAS DE SEGURIDAD
+### CAPÍTULO IV. INSPECCIÓN Y VIGILANCIA
 
 ###### ARTÍCULO 199.
 
@@ -2297,7 +2391,7 @@ Cuando se trate de segunda o posterior inspección para verificar el cumplimient
 
 En casos en que proceda, la autoridad correspondiente hará del conocimiento del Ministerio Público los hechos u omisiones que pudieran configurar uno o más delitos.
 
-### CAPÍTULO VI. SANCIONES ADMINISTRATIVAS
+### CAPÍTULO V. MEDIDAS DE SEGURIDAD
 
 ###### ARTÍCULO 208.
 
@@ -2345,7 +2439,7 @@ Cuando se presenten emergencias ecológicas o contingencias ambientales que no s
 
 Cuando los ordenamientos a que se refiere el párrafo anterior no incluyan medidas de seguridad para hacer frente a los riesgos de desequilibrio ecológico, la Secretaría, previa opinión de las autoridades competentes, emitirá las disposiciones conducentes.
 
-### CAPÍTULO VII. RECURSO DE INCONFORMIDAD
+### CAPÍTULO VI. SANCIONES ADMINISTRATIVAS
 
 ###### ARTÍCULO 212.
 
@@ -2429,7 +2523,7 @@ El infractor, además de las sanciones que se establecen en el presente Capítul
 
 ARTÍCULO 218 bis.- En los casos que la autoridad estime conducente y necesario, con la finalidad de crear conciencia ambiental, determinará la obligación al infractor, ya sea persona física o moral, de adoptar o en su caso participar en las campañas de tipo ecológico que la Secretaría diseñe y opere al momento de cometerse la infracción.
 
-### CAPÍTULO VIII. DELITOS DEL ORDEN COMÚN
+### CAPÍTULO VII. RECURSO DE INCONFORMIDAD
 
 ###### ARTÍCULO 219.
 
@@ -2486,6 +2580,8 @@ Transcurrido el término para el desahogo de las pruebas, si las hubiere, dispon
 Dicha resolución se notificará al interesado, personalmente o por correo certificado con acuse de recibo.
 
 > <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 7 DE MAYO DE 2011)</small>
+
+### CAPÍTULO VIII. DELITOS DEL ORDEN COMÚN
 
 ###### ARTÍCULO 225.
 
@@ -2705,6 +2801,8 @@ Para el cumplimiento del presente Decreto, se faculta al Titular del Ejecutivo p
 
 El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
 
+P.O. 16 DE NOVIEMBRE DE 2011.
+
 ###### ARTÍCULO PRIMERO.
 
 El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
@@ -2720,6 +2818,18 @@ DECRETO NUMERO 370/2011 II P.O., POR EL QUE SE ADICIONAN LOS ARTICULOS 5, CON UN
 ###### ARTÍCULO TERCERO.
 
 El trámite de los asuntos iniciados ante la Procuraduría General de Justicia del Estado y ante la Secretaría de Seguridad Pública Estatal, con anterioridad a la entrada en vigor del presente Decreto, serán continuados por la Fiscalía General del Estado.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el 1° de enero de 2012, previa su publicación en el Periódico Oficial del Estado, y su aplicación quedará sujeta a las disposiciones del Reglamento del Programa de Verificación Vehicular.
+
+###### ARTÍCULO SEGUNDO.
+
+El Titular del Ejecutivo del Estado deberá expedir el Reglamento del Programa de Verificación Vehicular dentro de los noventa días posteriores al inicio de la vigencia del presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Si a la entrada en vigor del presente Decreto, algún municipio se encuentra ejerciendo, por sí o mediante concesión, la verificación de emisiones contaminantes de fuentes móviles, continuarán realizándolo de acuerdo con su normatividad, la que deberá ajustarse al Reglamento del Programa de Verificación Vehicular.
 
 ###### ARTÍCULO CUARTO.
 
