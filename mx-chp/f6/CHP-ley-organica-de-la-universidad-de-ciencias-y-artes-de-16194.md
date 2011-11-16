@@ -4,7 +4,7 @@ identifier: "CHP-ley-organica-de-la-universidad-de-ciencias-y-artes-de-16194"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2000-02-23"
-last_updated: "2000-02-23"
+last_updated: "2011-11-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16194&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "CHP"
 ---
 # LEY ORGANICA DE LA UNIVERSIDAD DE CIENCIAS Y ARTES DE CHIAPAS
 
-LEY ORGANICA DE LA UNIVERSIDAD DE CIENCIAS Y ARTES DE CHIAPAS
+LEY ORGÁNICA DE LA UNIVERSIDAD DE CIENCIAS Y ARTES DE CHIAPAS
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON LOS TRANSITORIOS PRIMERO Y SEGUNDO DE LA LEY ORGÁNICA DE LA UNIVERSIDAD DE CIENCIAS Y ARTES DE CHIAPAS, PUBLICADA EN EL PERIÓDICO OFICIAL DEL ESTADO, EL 16 DE NOVIEMBRE DE 2011, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADA.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Gobierno Constitucional del Estado de Chiapas, el miércoles 23 de febrero de 2000.
 
@@ -75,7 +77,7 @@ QUE LA FRACCION VI DEL ARTICULO 42 DE LA CONSTITUCION POLITICA DEL ESTADO, SEÑA
 
 QUE EN ESA VIRTUD Y EN ATENCION A LAS ANTERIORES CONSIDERACIONES, ESTA PROPIA LX LEGISLATURA TIENE A BIEN EXPEDIR LA SIGUIENTE:
 
-LEY ORGANICA DE LA UNIVERSIDAD DE CIENCIAS Y ARTES DE CHIAPAS
+LEY ORGÁNICA DE LA UNIVERSIDAD DE CIENCIAS Y ARTES DE CHIAPAS
 
 ## TITULO PRIMERO. DISPOSICIONES GENERALES
 
@@ -820,3 +822,21 @@ DADO EN EL SALON DE SESIONES DEL H. PODER LEGISLATIVO DEL ESTADO DE CHIAPAS, EN 
 DE CONFORMIDAD CON LA FRACCION I DEL ARTICULO 42 DE LA CONSTITUCION POLITICA LOCAL Y PARA SU OBSERVANCIA, PROMULGO EL PRESENTE DECRETO EN LA RESIDENCIA DEL PODER EJECUTIVO DEL ESTADO, EN LA CIUDAD DE TUXTLA GUTIERREZ, CHIAPAS, A LOS DIECIOCHO DIAS DEL MES DE FEBRERO DEL AÑO DOS MIL.
 
 ROBERTO ALBORES GUILLEN.- GOBERNADOR DEL ESTADO.- JORGE MARIO LESCIEUR TALAVERA.- SECRETARIO DE GOBIERNO.- PEDRO RENE BODEGAS VALERA.- SECRETARIO DE EDUCACION.- RUBRICAS.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 16 DE NOVIEMBRE DE 2011.
+
+Artículo Primero.- La presente Ley entrará en vigor a los treinta días posteriores al de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Se abroga el Decreto número 140, correspondiente a la Ley Orgánica de la Universidad de Ciencias y Artes de Chiapas, publicada en el Periódico Oficial número 009-2ª sección, de fecha 23 de febrero de 2000, así como las demás disposiciones que contravengan lo establecido en el presente ordenamiento.
+
+Artículo Tercero.- En un periodo de 90 días a partir de la entrada en vigor de la presente Ley, el Consejo Universitario deberá realizar las adecuaciones al Reglamento y/o las reformas que sean necesarias, conforme a lo establecido en el presente Decreto, mismo que será de observancia para todos los trabajadores, alumnos y sociedad de padres de familia del organismo.
+
+Artículo Cuarto.- Con objeto de facilitar las actividades académicas, administrativas y financieras de la Universidad, todo el personal académico, directivo y administrativo que lo conforma continuará prestando sus servicios en los mismos términos en que lo han venido haciendo, a partir de la entrada en vigor de la presente Ley.
+
+Artículo Quinto.- A partir de la entrada en vigor de la presente Ley, los recursos humanos que forman parte de la Universidad de Ciencias y Artes de Chiapas, pasarán a formar parte del organismo regulado por la presente Ley, respetando en todo momento los derechos laborales que les correspondan.
+
+Asimismo, a partir de la entrada en vigor de la presente Ley, todos los recursos materiales y financieros de la Universidad de Ciencias y Artes de Chiapas, pasarán a formar parte del patrimonio del organismo regulado por esta Ley.
+
+Artículo Sexto.- Los integrantes de los órganos colegiados y los personales que hayan s do (sic)electos o designados conforme a la Ley que por este Decreto se abroga, continuarán en sus cargos hasta la conclusión del periodo para el que fueron designados o electos.
