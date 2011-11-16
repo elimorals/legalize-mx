@@ -4,7 +4,7 @@ identifier: "MOR-reglamento-de-la-ley-de-fraccionamientos-condominios-y-7105"
 country: "mx"
 rank: "reglamento"
 publication_date: "1979-04-13"
-last_updated: "1979-04-13"
+last_updated: "2011-11-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7105&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "MOR"
 
 REGLAMENTO DE LA LEY DE FRACCIONAMIENTOS, CONDOMINIOS Y CONJUNTOS HABITACIONALES DEL ESTADO DE MORELOS
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO DE LA LEY DE ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO SUSTENTABLE DEL ESTADO DE MORELOS EN MATERIA DE FUSIONES, DIVISIONES, FRACCIONAMIENTOS, CONDOMINIOS Y CONJUNTOS URBANOS, PUBLICADO EN EL P.O. DE FECHA 16 DE NOVIEMBRE DE 2011, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Alcance del Periódico Oficial del Estado de Morelos, el viernes 13 de abril de 1979.
 
@@ -1048,3 +1050,13 @@ DR. ARMANDO LEON BEJARANO VALADEZ.
 EL SECRETARIO DE GOBIERNO.
 
 LIC. FAUSTO GONZÁLEZ HERNÁNDEZ.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 16 DE NOVIEMBRE DE 2011.
+
+PRIMERO.- El presente Reglamento entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad" órgano de difusión del Gobierno del Estado Libre y Soberano de Morelos.
+
+SEGUNDO.- Se abroga el Reglamento de la Ley de Fraccionamientos, Condominios y Conjuntos Habitacionales del Estado de Morelos, publicado en el Periódico Oficial número 2904 Alcance, de fecha 13 de abril de 1979.
+
+TERCERO.- Se derogan las disposiciones administrativas de igual o menor rango que se opongan al presente Reglamento.
